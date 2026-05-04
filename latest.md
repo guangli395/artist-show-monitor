@@ -1,67 +1,49 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-04 21:56**
-- 本轮扫到 155 条, 新增 **8** 条
+- 最近更新: **2026-05-04 22:55**
+- 本轮扫到 162 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (7 条)
 
-### 特朗普称鲍威尔对美国而言是“一场灾难”
+### 王一博两年献唱五四主题曲
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-04 21:39
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5sVzBBeHdMa0QtMHlHVDVHcXEtLUxROWpQZkRlS2FITXRLTHp1bzlxY29QNkYwMlBkYzZlVndEMzhQVTROa3daakRxRQ?oc=5>
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002kaai.html>
 
-### 特朗普支持推迟濒危露脊鲸保护措施至2035年 引发环保组织强烈反对
+### 特朗普：对美国来说时间并不紧迫。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-04 19:57
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxOTTN4Smh3S2VQcmlsLVhyVXlvajR2TTVLZzk5OUNpLVhKc04xc0R5YlV5WnpfX0FiWnFIRW9waDJMa1NkMG5sU3VqWURkaC1ralRIYi1Bekp5SjJXR2k3RktiQXBzbUlqZEZvR1JVOGFIZ0E2RjNaOVBJRzdLdHlrck5EaWFieEk?oc=5>
+- 时间: 2026-05-04 22:04
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9OQlY1LURiSlkyZXZLRlYxOTg2WHhjWDZnYzNwS3hwdVB6bjJlVEdBTGlfZDREMEl3Y0Jha0ZWX3RKY1ZpNE1kSFBnOA?oc=5>
 
-### 特朗普：去年美国小企......_7x24快讯_新浪财经
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-04 20:52
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1FNEE0SEdMdEJldDFxaXBGMGdqZGEwTy15dFNQQmxLZFFGR25fSFZvYThJaXlHalhVUmloalQ2SFF6LUlYbU1yaG9KUQ?oc=5>
-
-### 为何特朗普时期的贸易赤字如此费解（又极易被操控解读）
+### 特朗普拒绝确认美伊停火协议是否仍然有效
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-04 13:09
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxNU2RrdThwbzJQN2t6b0RYRmNQM0xJY2JOYXFLd1JjRnpiSWxPQng0UEU5VW1VakdDNHRYVXdjU0dRZ3pXUEs2ZzQwNW5McENJcGEwM3VwSjgteTRnYWZpRE4ta25fcTlkV1NRZHRmTU9ySDVmbWZ0X0JtODVoVHN0VGhQRzRnS3dPT2VjbHhPTkREdkF4YkpZcDhFZ0NqeXA1UkwzT1ZIdGN6XzJuU1E1LTZLOGlJa1J6QXJjNjdMRHM3Z3lxNkxsanRFeUlVUUE3NHU1SUdvVk1kU2RpSU9J?oc=5>
+- 时间: 2026-05-04 21:44
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFA0UmxYU0lkMEtOY0ZIWUFKNjhLeDQ0N2NOOEllcDc1UG4yb1pKY2pHUENlT3lSUXYza1Z2T1BjSUZZUm5oeG45SlMwYkRfQ1FIR1IzNWRmcWFzZVZPeHZUUVJDSWc3MmNXNk9ZcXJDNGtOTnc4UkVxcQ?oc=5>
 
-### 特朗普：将欧盟汽车关税提高至25%
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: dw.com
-- 时间: 2026-05-02 13:23
-- 链接: <https://news.google.com/rss/articles/CBMi5wFBVV95cUxPdHFUUEU1MElKYi1USWlKaEhKczhlLU9BZ2Y5dnhxSVNjd0EwbTl3NWl1a3phN01yaU04YmJrYlRzenk5dExvcG9lWjBXVllBMG1iZ09XOXcxa2owRHlqbnBqY05Ib3RCcW9tcElwc3kzb0ljcWZjMF9WSHhOYm1xZnBmUjgycG5Sajh6Zm03cUpoNFlySFhtVVM2YzNNSDNFeTQ3SHU0UndjZGxjNm5na1M5azdNeDV2dzNEWlFfRGJDMHJIQTdfa2F4OU96Wm9LZk00NTNvTXJWWGFSX1dva3QxeHA2R1HSAecBQVVfeXFMTlVQQmpETzBlUk1MS0s4S3JaR2hPLXc5NXhGVENVODVEMkRJWExxNDRjUk9qUXBLZU5fS21HYV9oZWpoeXI3YzlyaS12X1U4ZGx3SE9WaUpMMnJCUS1EZVY5UkNlRXpqaWV4VnF6cVFRNnlKdzkwcXotYjREX1JueGRmOTM0NjB1UHMxa3NPM2pCU2pCTlBmZlJUWEVYb21FbjgtSHYxN2lHSVNjc29SOWxMbHVKY3hBNUEtWmk3emtBVUV5c2d3dXc5VHg0UVUybld5OWJCekcyamNPSDFZSXB0a3NQei1z?oc=5>
-
-### 国际丨特朗普要撤军，默茨表态
+### 特朗普称美国正从委内瑞拉获得“数亿桶石油”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-05-04 05:00
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xZFp5elRsT1R2Unl1TDdOWTh0Rm9Hb2tpVmxLS1R0VFBrUDQyaGRsS3pBMnhBMGxWMDFSdWtOLTYzYTlYZ25oN043MFZlZHNUZjQxRUE1WnFqSDZCb0NwTVUyNlc?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-05-04 22:06
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1JcUpVWWZFTERMY3B4bjd2NjhVR2h3QzdNUTUxY2lpbnhyb2xTN0hCRTJZbEczQkRrQTU4bHFXa2RBMTBLX0ZqZV90VQ?oc=5>
 
-### 特朗普宣布霍尔木兹海峡护航行动 伊朗：视为违反停火
+### 特朗普称美国与伊朗处于“迷你战争”状态
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: dw.com
-- 时间: 2026-05-04 06:22
-- 链接: <https://news.google.com/rss/articles/CBMi3gJBVV95cUxQVmJZbDVTODI5ODdEOFBGQmpVTGpLbGpheUZLM1B3LUk3c25uVlNieDFvR25iN21fZlFaMDhjcWppYTc0UXFYNUd0ckxkOWY4YW9nd19hU2w1MU0xOUhnWjRiZGZrakRlNUJJYzQyb012YU9lU3h5cmpiYUY5MzVZQ3dfUlpDQVU3NEVwQ1JzUmx3Z2h2U2prclBXU1J2LXBtVlVmQ0FUOFdSS2ZtSmttaFNFQy1nUVlrcXo5WERnaE4wcmx6bmYtQTRWTlUwWDVHQVphREx5dWVpZnRUNEhfVThyemI2YVVmVDVYb2JXdVRIc3lXaVQ1bFZnanBBOFFfdUhwQ2s3OENDMkV3VFJZN1FpY0pqaC1YYlpiSUEtN1g1RXJFYl9YcnlnNnd3eUNxSjBXdHp1YktjZG5ocmF1OC04TUhyQW5HUFdsdUpNTUc5aWFBOTJsTUNGRGNiZ9IB3gJBVV95cUxPRlBpdzNiTzRZWld1YzlSclFRbHVOUXo4TnNVVFRqWWZBcnhJY0FFaHdfRmFyRVdPSkh5d1BjbWY1Yi01cDFhZENJd2ZQX0pONWt1MmVNdHNFTkd1UWx4UHhVcXlQUWdnaHpxZ19BNEg2RFQ4NXpHR3NaSm45bGhjQllqdlVxYms3MWxDUUUxSnh6Q09YVUZPWklaVUVKZ3JHbGdJbmN0d1FtblY1T2pCWDloLTFZNGxQVE9KbDhqOFI4eFg4UVBpeWFNd0JjS2NaY2xZbjBONVFmb0wwUmJMUmZnSzI0eVIweGFfUm1KUWplUGJZWXBlUGF6VGRmRnpzeEh3YnJqVjdWMW1TT0luUXNzTS1hLVFOMnVxcXpqbDFGb0MtU1QtdUJZdmIydDgteW03RkpBQ1hsS3Mzc0pHOENwRjJZNTY2RUVIWHFZNWRjbXk5RWE1Ny04dHRwQQ?oc=5>
+- 场馆: thepaper.cn
+- 时间: 2026-05-04 21:33
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2V3J3UE9IWjFERUh0M1d6YzZRQUJ5d04waWJQWlplTkN4dnZWeDNEV3N6dmxkSFFxU3hjeHJndnkydWZqOHRsc2VIMTd0ODRCNmN0a09mRy0xa0JDSXlwZQ?oc=5>
 
 ### 川普家族加密公司反诉孙宇晨 双方关系彻底破裂
 
@@ -69,12 +51,30 @@
 - 来源: `googlenews`
 - 场馆: 文学城
 - 时间: 2026-05-04 20:30
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBtNEhra09UWUowOFdHc2hsc2k5SGc4akZnSU9rNmdUakJDZHdORHdGQ0N1UE5PMGRSZ3VZamtraFRqN2V1MGNFM1BQc2RVckdHWVgtNl9kbDFISTdUMWZDSjI1anpKYXpO?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxNbnV0WW5xellqNVZTWlZUbndKOTZEdnRaT0NrNm5mWVJfTDBqUmpEMXZLanRUakFvamp3bWpLQkYzN2lRbGo4MjM2aVF0c3kzanVzSzB4ZFlKaldtRWRUdnAzZlZxMl85M1BxUzdIemhnZHZwc2wtanBqcDZiNFVrZA?oc=5>
+
+### Trump 称 Amazon 考虑重启《Apprentice》，由其长子担任主持美股US Stocks Quote - 外围新闻内容Golbal News Content
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: AASTOCKS.com
+- 时间: 2026-04-30 23:11
+- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOWdGaGhRWjhVbzRjOEhNYURtNTNLUUdydmFMQ2RFT1ZXQkhVS0VLdkc2SzczcTNNcEFRdXJvMmtNV0F2TUJyQUo4dEJJTTJqbUxlS3pvSjJBUE1JUUxZZ3dBbGxqOHVobk4taHlhSWhqSlQxWlczQWRRU1hiTEh5OWdrb2RyamxqbVpj?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-04 22:55  (7 条)
+
+- **王一博** | 王一博两年献唱五四主题曲 <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002kaai.html>
+- **特朗普** | 特朗普：对美国来说时间并不紧迫。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9OQlY1LURiSlkyZXZLRlYxOTg2WHhjWDZnYzNwS3hwdVB6bjJlVEdBTGlfZDREMEl3Y0Jha0ZWX3RKY1ZpNE1kSFBnOA?oc=5>
+- **特朗普** | 特朗普拒绝确认美伊停火协议是否仍然有效 <https://news.google.com/rss/articles/CBMieEFVX3lxTFA0UmxYU0lkMEtOY0ZIWUFKNjhLeDQ0N2NOOEllcDc1UG4yb1pKY2pHUENlT3lSUXYza1Z2T1BjSUZZUm5oeG45SlMwYkRfQ1FIR1IzNWRmcWFzZVZPeHZUUVJDSWc3MmNXNk9ZcXJDNGtOTnc4UkVxcQ?oc=5>
+- **特朗普** | 特朗普称美国正从委内瑞拉获得“数亿桶石油” <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1JcUpVWWZFTERMY3B4bjd2NjhVR2h3QzdNUTUxY2lpbnhyb2xTN0hCRTJZbEczQkRrQTU4bHFXa2RBMTBLX0ZqZV90VQ?oc=5>
+- **特朗普** | 特朗普称美国与伊朗处于“迷你战争”状态 <https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2V3J3UE9IWjFERUh0M1d6YzZRQUJ5d04waWJQWlplTkN4dnZWeDNEV3N6dmxkSFFxU3hjeHJndnkydWZqOHRsc2VIMTd0ODRCNmN0a09mRy0xa0JDSXlwZQ?oc=5>
+- **Trump** | 川普家族加密公司反诉孙宇晨 双方关系彻底破裂 <https://news.google.com/rss/articles/CBMigAFBVV95cUxNbnV0WW5xellqNVZTWlZUbndKOTZEdnRaT0NrNm5mWVJfTDBqUmpEMXZLanRUakFvamp3bWpLQkYzN2lRbGo4MjM2aVF0c3kzanVzSzB4ZFlKaldtRWRUdnAzZlZxMl85M1BxUzdIemhnZHZwc2wtanBqcDZiNFVrZA?oc=5>
+- **Trump** | Trump 称 Amazon 考虑重启《Apprentice》，由其长子担任主持美股US Stocks Quote - 外围新闻内容Golbal News Content <https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOWdGaGhRWjhVbzRjOEhNYURtNTNLUUdydmFMQ2RFT1ZXQkhVS0VLdkc2SzczcTNNcEFRdXJvMmtNV0F2TUJyQUo4dEJJTTJqbUxlS3pvSjJBUE1JUUxZZ3dBbGxqOHVobk4taHlhSWhqSlQxWlczQWRRU1hiTEh5OWdrb2RyamxqbVpj?oc=5>
 
 ### 2026-05-04 21:56  (8 条)
 
