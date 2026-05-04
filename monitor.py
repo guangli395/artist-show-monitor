@@ -1046,11 +1046,96 @@ def send_pushplus(items, debug=False):
         log(f"[PushPlus] 推送异常: {e}", "ERROR")
 
 
-def notify_new_items(items, debug=False):
-    """统一推送入口, 后续要加钉钉/邮箱/Bark 在这里加分支"""
+def _build_wecom_md(items):
+    """企业微信 markdown 单消息上限 4096 字节, 多就分批"""
+    grouped = {}
+    for it in items:
+        kw = it.get("keyword", "其他")
+        grouped.setdefault(kw, []).append(it)
+
+    lines = [f"## 演出监控提醒 ({len(items)} 条)"]
+    for kw, kw_items in grouped.items():
+        lines.append(f"\n### **{kw}** · {len(kw_items)} 条")
+        for it in kw_items:
+            full = it.get("full_name") or it.get("title", "")
+            lines.append(f"\n>  **{full}**")
+            details = []
+            if it.get("status"):
+                # 企业微信支持的颜色 tag: info/comment/warning
+                details.append(f"在售: <font color=\"warning\">{it['status']}</font>")
+            if it.get("city"):
+                details.append(f"城市: {it['city']}")
+            if it.get("venue"):
+                details.append(f"场馆: {it['venue']}")
+            if it.get("date"):
+                details.append(f"时间: {it['date']}")
+            if it.get("price_range"):
+                details.append(f"票价: ¥{it['price_range']}")
+            elif it.get("price"):
+                details.append(f"起价: ¥{it['price']}")
+            if details:
+                lines.append("\n> " + " | ".join(details))
+            if it.get("url"):
+                lines.append(f"\n> [打开链接]({it['url']})")
+    return "\n".join(lines)
+
+
+def send_wecom(items, debug=False):
+    """企业微信群机器人推送, 需环境变量 WECOM_WEBHOOK"""
     if not items:
         return
-    send_pushplus(items, debug=debug)
+    import os
+    webhook = os.environ.get("WECOM_WEBHOOK", "").strip()
+    if not webhook:
+        if debug:
+            log("[WeCom] 未配置 WECOM_WEBHOOK, 跳过推送")
+        return
+
+    # 单条 markdown 最长 4096 字节, 简单切分: 每批最多 8 条
+    BATCH = 8
+    batches = [items[i:i+BATCH] for i in range(0, len(items), BATCH)]
+    for i, batch in enumerate(batches, 1):
+        content = _build_wecom_md(batch)
+        if len(batches) > 1:
+            content = f"({i}/{len(batches)})\n" + content
+        try:
+            r = requests.post(
+                webhook,
+                json={"msgtype": "markdown",
+                      "markdown": {"content": content}},
+                timeout=15,
+            )
+            if r.status_code == 200:
+                resp = r.json()
+                if resp.get("errcode") == 0:
+                    log(f"[WeCom] 已推送 {len(batch)} 条 ({i}/{len(batches)} 批)")
+                else:
+                    log(f"[WeCom] 推送失败 errcode={resp.get('errcode')} "
+                        f"errmsg={resp.get('errmsg')}", "ERROR")
+            else:
+                log(f"[WeCom] HTTP {r.status_code}: {r.text[:200]}", "ERROR")
+        except Exception as e:
+            log(f"[WeCom] 推送异常: {e}", "ERROR")
+
+
+def notify_new_items(items, debug=False):
+    """
+    统一推送入口。
+    依次尝试企业微信 / PushPlus, 哪个配了 secret 就用哪个。
+    都没配则只打印日志, 不阻塞主流程。
+    """
+    if not items:
+        return
+    import os
+    has_wecom = bool(os.environ.get("WECOM_WEBHOOK", "").strip())
+    has_pushplus = bool(os.environ.get("PUSHPLUS_TOKEN", "").strip())
+    if has_wecom:
+        send_wecom(items, debug=debug)
+    if has_pushplus:
+        send_pushplus(items, debug=debug)
+    if not (has_wecom or has_pushplus):
+        log("[notify] 未配置任何推送 secret (WECOM_WEBHOOK / PUSHPLUS_TOKEN), "
+            "只在 latest.md 里记录, 不推送", "WARN")
 
 
 def print_show(item):

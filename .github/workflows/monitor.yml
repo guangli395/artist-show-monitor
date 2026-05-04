@@ -38,12 +38,12 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Setup Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
-          python-version: "3.11"
+          python-version: "3.12"
           cache: pip
 
       - name: Install deps
@@ -51,8 +51,11 @@ jobs:
 
       - name: Run monitor (once, CI mode)
         env:
-          # 在仓库 Settings -> Secrets and variables -> Actions 里配置
-          # 名字必须叫 PUSHPLUS_TOKEN, 没配则跳过推送, 不影响其它功能
+          # 在仓库 Settings -> Secrets and variables -> Actions 里配置以下任一即可:
+          #   - WECOM_WEBHOOK   企业微信群机器人 webhook URL (推荐, 无实名)
+          #   - PUSHPLUS_TOKEN  PushPlus token (微信公众号推送, 需实名)
+          # 配几个就推几个, 都没配则只在 latest.md 记录不推送
+          WECOM_WEBHOOK: ${{ secrets.WECOM_WEBHOOK }}
           PUSHPLUS_TOKEN: ${{ secrets.PUSHPLUS_TOKEN }}
         run: |
           if [ "${{ inputs.test_push }}" = "true" ]; then
