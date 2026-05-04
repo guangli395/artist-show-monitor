@@ -12,7 +12,8 @@
     "douban": false,
     "weibo": false,
     "rsshub_weibo": false,
-    "rsshub_douban": false
+    "rsshub_douban": false,
+    "googlenews": true
   },
   "interval_seconds": 300,
   "debug": true,
@@ -21,5 +22,9 @@
     "王一博": "wangyibo",
     "蔡徐坤": "caixukun",
     "周杰伦": "zhoujielun"
-  }
+  },
+  "googlenews_keywords": [
+    "特朗普",
+    "Trump"
+  ]
 }

@@ -13,6 +13,7 @@
     python monitor.py --reset        # 清空已见记录,从头开始
 """
 import argparse
+import hashlib
 import json
 import sys
 import time
@@ -889,6 +890,98 @@ def fetch_rsshub_douban(keyword, debug=False):
 
 
 # ============================================================
+# 数据源:Google News RSS  (任意关键词的新闻聚合)
+# ----------------------------------------------------------------
+# 用途: 监控明星/政治/公司/事件 的最新报道, 不仅限演出
+# 优势:
+#   - 完全免费, 无 API key, RSS 标准协议
+#   - 全球主流媒体 (路透/BBC/CNN/NYT/纽约时报/福克斯/中文媒体) 一锅端
+#   - GitHub Actions 在境外服务器, 直连 google.com 无障碍
+# 限制:
+#   - 国内本地访问需翻墙 (云端跑无影响)
+#   - 关键词命中越泛, 噪声越多 (建议用人名/精确短语)
+# ============================================================
+def fetch_googlenews(keyword, debug=False, lang="zh-CN", limit=15):
+    """通过 Google News RSS 搜索关键词最新报道。"""
+    import xml.etree.ElementTree as ET
+
+    # 中文关键词用中文 region, 英文关键词用美国 region
+    has_cjk = any('\u4e00' <= c <= '\u9fff' for c in keyword)
+    if has_cjk or lang.startswith("zh"):
+        params = f"q={quote(keyword)}&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
+    else:
+        params = f"q={quote(keyword)}&hl=en-US&gl=US&ceid=US:en"
+    url = f"https://news.google.com/rss/search?{params}"
+
+    headers = {
+        "User-Agent": ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                       "AppleWebKit/537.36 (KHTML, like Gecko) "
+                       "Chrome/120.0.0.0 Safari/537.36"),
+        "Accept": "application/rss+xml,application/xml;q=0.9,*/*;q=0.8",
+    }
+
+    try:
+        r = requests.get(url, headers=headers, timeout=20)
+        r.raise_for_status()
+        r.encoding = "utf-8"
+    except Exception as e:
+        log(f"  [googlenews] '{keyword}' 拉取失败: {e}", "ERROR")
+        return []
+
+    try:
+        root = ET.fromstring(r.text)
+    except ET.ParseError as e:
+        log(f"  [googlenews] '{keyword}' XML 解析失败: {e}", "ERROR")
+        if debug:
+            log(f"    返回前 200 字节: {r.text[:200]}")
+        return []
+
+    result = []
+    for it in root.iter("item"):
+        title = (it.findtext("title") or "").strip()
+        link = (it.findtext("link") or "").strip()
+        pub = (it.findtext("pubDate") or "").strip()
+        src_el = it.find("source")
+        media = (src_el.text or "").strip() if src_el is not None else ""
+
+        if not title or not link:
+            continue
+
+        # 标题一般是 "正文 - 媒体名", 把尾巴的 ' - 媒体' 摘掉, 媒体单独显示
+        clean_title = title
+        if media and title.endswith(" - " + media):
+            clean_title = title[: -(len(media) + 3)].strip()
+
+        # 用 link 的 hash 当稳定 id
+        uid = hashlib.md5(link.encode("utf-8")).hexdigest()[:12]
+
+        # pubDate 形如 "Sun, 04 May 2026 16:25:00 GMT", 截取易读片段
+        date_str = pub
+        try:
+            from email.utils import parsedate_to_datetime
+            dt = parsedate_to_datetime(pub)
+            date_str = dt.strftime("%Y-%m-%d %H:%M")
+        except Exception:
+            pass
+
+        result.append({
+            "id": f"gnews-{uid}",
+            "source": "googlenews",
+            "keyword": keyword,
+            "title": clean_title,
+            "venue": media,            # 复用 venue 字段显示媒体来源
+            "date": date_str,
+            "url": link,
+        })
+        if len(result) >= limit:
+            break
+
+    if debug:
+        log(f"  [googlenews] '{keyword}' 返回 {len(result)} 条最新报道")
+    return result
+
+
+# ============================================================
 # 数据源六:demo 模式 (内置假数据, 用于验证链路)
 # ============================================================
 # 首轮返回 3 条作为基线, 之后每轮基于当前时间注入 1-2 条"新演出",
@@ -940,6 +1033,7 @@ PLATFORM_FUNCS = {
     "weibo": fetch_weibo,
     "rsshub_weibo": fetch_rsshub_weibo,
     "rsshub_douban": fetch_rsshub_douban,
+    "googlenews": fetch_googlenews,
     "demo": fetch_demo,
 }
 
@@ -948,6 +1042,10 @@ def fetch_all(keyword, platforms, debug=False):
     all_items = []
     for name, enabled in platforms.items():
         if not enabled:
+            continue
+        if name == "googlenews":
+            # googlenews 用独立的 keyword 列表 (新闻关键词 != 艺人名),
+            # 由 run_once 单独处理, 这里跳过避免拿艺人名瞎搜浪费请求
             continue
         func = PLATFORM_FUNCS.get(name)
         if not func:
@@ -1180,37 +1278,65 @@ def run_once(cfg, seen, first_run=False):
     debug = cfg.get("debug", False)
     preview_n = cfg.get("first_run_preview", 0)
 
-    round_new = []
+    # 抓取前快照"已知数据源", 用于识别"新启用的数据源"
+    # 新启用 source 的命中只进基线不推送, 避免历史数据一次性刷屏几十条
+    known_sources = {s.split(":", 1)[0] for s in seen if ":" in s}
+
+    round_push = []       # 真正推送的: 已知 source 的新增
+    round_silent = []     # 静默吸收: 新启用 source 首次抓到 (或 first_run)
     round_total = 0
-    for kw in cfg["keywords"]:
-        items = fetch_all(kw, cfg["platforms"], debug=debug)
+
+    def _ingest(items):
+        nonlocal round_total
         round_total += len(items)
         for it in items:
             key = f"{it['source']}:{it['id']}"
             if key in seen:
                 continue
             seen.add(key)
-            round_new.append(it)
+            # first_run 或 source 第一次见 -> 静默吸收
+            if first_run or it["source"] not in known_sources:
+                round_silent.append(it)
+            else:
+                round_push.append(it)
 
-    if first_run and round_new:
-        # 首轮:打印前 N 条,让用户立刻看到"链路通了"的效果;
-        # 剩下的只是加入基线,不刷屏。
-        preview = round_new[:preview_n]
-        rest = len(round_new) - len(preview)
-        log(f"首轮建立基线: 共抓到 {round_total} 条演出, 预览前 {len(preview)} 条:")
-        for it in preview:
-            print_show(it)
-        if rest > 0:
-            log(f"其余 {rest} 条已加入基线(不打印),下次起只报新增。")
-        return []
+    # ---- 艺人/演出关键词 ----
+    for kw in cfg["keywords"]:
+        items = fetch_all(kw, cfg["platforms"], debug=debug)
+        _ingest(items)
 
-    if round_new:
-        log(f"本轮新增 {len(round_new)} 条演出")
-        for it in round_new:
+    # ---- Google News 独立通道 (政治/财经/事件等) ----
+    if cfg.get("platforms", {}).get("googlenews"):
+        gnews_kws = cfg.get("googlenews_keywords") or []
+        for kw in gnews_kws:
+            items = fetch_googlenews(kw, debug=debug)
+            log(f"  [googlenews] 关键词 '{kw}': {len(items)} 条")
+            _ingest(items)
+
+    # ---- 静默吸收日志 ----
+    if round_silent:
+        new_sources = sorted({it["source"] for it in round_silent})
+        if first_run:
+            preview = round_silent[:preview_n]
+            rest = len(round_silent) - len(preview)
+            log(f"首轮建立基线: 共抓到 {round_total} 条, 预览前 {len(preview)} 条:")
+            for it in preview:
+                print_show(it)
+            if rest > 0:
+                log(f"其余 {rest} 条已加入基线(不打印),下次起只报新增。")
+        else:
+            log(f"新启用数据源 {new_sources} 首次抓到 {len(round_silent)} 条, "
+                f"已静默加入基线(不推送), 下次起该源新增才会通知")
+
+    # ---- 真正的新增推送 ----
+    if round_push:
+        log(f"本轮新增 {len(round_push)} 条")
+        for it in round_push:
             print_show(it)
-    else:
+    elif not round_silent:
         log(f"本轮无新增 (共查询到 {round_total} 条,均已见过)")
-    return round_new
+
+    return round_push
 
 
 # ============================================================
