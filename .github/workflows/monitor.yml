@@ -8,6 +8,11 @@ on:
 
   # 允许手动触发,用于调试
   workflow_dispatch:
+    inputs:
+      test_push:
+        description: "勾上 = 只发一条测试推送验证链路, 不抓数据"
+        type: boolean
+        default: false
 
   # push 时也跑一次,方便初始化
   push:
@@ -49,7 +54,12 @@ jobs:
           # 在仓库 Settings -> Secrets and variables -> Actions 里配置
           # 名字必须叫 PUSHPLUS_TOKEN, 没配则跳过推送, 不影响其它功能
           PUSHPLUS_TOKEN: ${{ secrets.PUSHPLUS_TOKEN }}
-        run: python monitor.py --once --ci
+        run: |
+          if [ "${{ inputs.test_push }}" = "true" ]; then
+            python monitor.py --test-notify
+          else
+            python monitor.py --once --ci
+          fi
 
       - name: Commit & push updated data
         run: |

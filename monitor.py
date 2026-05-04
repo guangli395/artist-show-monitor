@@ -1228,7 +1228,28 @@ def main():
                         help="开启 demo 模式:用内置假数据验证链路")
     parser.add_argument("--ci", action="store_true",
                         help="CI 模式:跑完一轮后把新发现写到 latest.md, 供 GitHub Actions commit")
+    parser.add_argument("--test-notify", action="store_true",
+                        help="只发一条测试推送, 不抓数据 (用于验证 PushPlus 链路是否打通)")
     args = parser.parse_args()
+
+    # --test-notify: 直接发一条假消息测试推送链路, 立刻退出
+    if args.test_notify:
+        log("test-notify 模式: 发送测试推送验证链路 ...")
+        fake = [{
+            "keyword": "测试",
+            "id": "self-test-001",
+            "source": "self-test",
+            "title": "演出监控部署成功 · 推送链路验证 · 提醒",
+            "status": "测试通过",
+            "venue": "GitHub Actions Cloud",
+            "city": "云端",
+            "date": datetime.now().strftime("%Y-%m-%d %H:%M"),
+            "price_range": "0-0",
+            "url": "https://github.com/guangli395/artist-show-monitor",
+        }]
+        notify_new_items(fake, debug=True)
+        log("test-notify 完成, 检查你的微信公众号 'PushPlus推送加'")
+        return
 
     cfg = load_config()
     if args.debug:
