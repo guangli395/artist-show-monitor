@@ -1,100 +1,118 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-04 19:03**
-- 本轮扫到 136 条, 新增 **11** 条
+- 最近更新: **2026-05-04 20:46**
+- 本轮扫到 147 条, 新增 **11** 条
 
 ---
 
 ## 本轮新发现 (11 条)
 
-### 雨下一整晚周杰伦新专辑歌曲
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019052xnq.html>
-
-### 周杰伦《雨下一整晚》MV 促成佳偶
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019052xgq.html>
-
-### 特朗普：韩国该加入对伊朗的海峡护航行动了
+### 伊朗又一次让世界感到意外，特朗普刚说“不满意”就出高招？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-04 17:22
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFA4VkJtVUc4WXdiU29fLUY5dkd3bno4YTd1N2pubWhrWkZVcHp1em5ha0REdE9YNEpxcXd2aTZJVzBGajRvdGFtd2JTVQ?oc=5>
+- 时间: 2026-05-04 16:01
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE1FcXpNSDFyZFNrNC14VHhIQTlGRkZHWG4ybkhOTWJpdkZnb2R4MG14MHIxb2VfdTVpUFJmOUtMcVNQYzl1TEZXT3NUZG5abldRRk8yLWtwMlBDaEg3cVRpcEtkUmNtR3NyRnd0NXN6NU9hanpHMnc?oc=5>
 
-### 特朗普：我们已经击沉了七艘小型船只。
+### 特朗普：不可接受
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 腾讯新闻
+- 时间: 2026-05-03 22:56
+- 链接: <https://news.google.com/rss/articles/CBMiV0FVX3lxTE54QXU2YU9OUFQ5ZzZQdy1IaVRHc21fLUpnOTRrODlsVHBodXh5UjhJbEpsd29ZSGVhTHY4M2s5TFpLUWZ2RDRNSHo0bWlES3cwWE9ZdWdjbw?oc=5>
+
+### 伊朗称美国已回应最新的和平提案
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: BBC
+- 时间: 2026-05-04 04:11
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9CdlNnRG1xOUpLTndhcUhteDZrLWRFTlkzQ3JOSTVrZmFhWGdRTkphWWQ0WmhYU1pMajBMb1F2a3FycWFuZnBMWmRwd1RLTlJycmVIa2VPR05DT2tObl9QWFl2d3BRd9IBa0FVX3lxTE9mdk9JTW9sLTd4S3NXUF9UTzVselhueFdaN0FQejdSM1VCSmdtTkFFbEhnSW5FZDA3dl8wWXBEaHdkYjlVV2I5OTlDdUhsZkRDS1Q0aURQdC1mLW9vSzJLdlJaOEJHNFVCdWJZ?oc=5>
+
+### 特朗普：遭袭的韩国船只当时并无护航。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-04 17:17
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ZQWhjN3FEQi0wSkxOcmN0VGtLeHNqNGxaMUpIbFF2WEVPMk4xRGd0LVdyMW1mWFZKVTZia1JVbWp0UDM4MlBYYjdsVQ?oc=5>
+- 时间: 2026-05-04 19:09
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBkYnJ4UWxoLUJfbEl1V1VjMEN6dkpCX24xNU5ReGVkSUhYU29QY2lBYmlSeV9zNDYzLWNnbWVQTHB6cXJKWjVZejdGTQ?oc=5>
 
-### 特朗普下令海军开放海峡后，伊朗为展示武力袭击了多艘船只及阿联酋一处石油港口
+### 美财长称即将举行的美中元首峰会将推进去年韩国会晤达成的贸易共识
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-05-04 19:36
+- 链接: <https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdy1oTGVEcXdTR2s2WWxidjRDQmtQWGhzUHA1VDNEdFoxcVR4NnltVmFWeFpUeUo2NkpXa3RMNDVCNUUwajV6ZTVNcUhwQnJGTlNWNUlHN0t0bmVxb0RubVZUdGVxMTdIa0ZUOXVkWXhZNGhiWm5jVEVJWlFPNEptdnNNbmhnSWM4ZHFDVFBvOXBMT2ZNeVlxVTBEaTZZT2tjTHIwSVl0TU9JczAwblJRb0JGeV9iYlVScHNyYkw1QnhhWVItVHluekdwLWw3MXoxcVNmcE90YV91dmZMcGtGQnAwQTbSAecBQVVfeXFMUEIwZ25mN0RramFmTzlWRm5iVWtXTzJScXFxcko1RHF0dlRQYVFldDcxOE5McW9KYWR4bUwwSnBTYk9IdTJZU1lEMF8zbktWSDBMVGZhd0syT1lILVBPNjRuVmEyTFkxTXcxWW93MFFfSC1KcldRVVd6eW9MeFlFdGUxYklYZHVlS2lNT2IxNDdjWW4tWUZRVzdaLWJnYjVFbXlzY2tfQm5oREk1QkdKdGFOdHFaaDRwVlpvd0FfUzYwNzItbXFoSzhvRF9GNHBQdUlqNUlzd2lnOWpPX0VjTHMxc2c0RlhF?oc=5>
+
+### 特朗普出席小企业峰会并发表讲话。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-04 17:45
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxPMjUzXzB6Zy1qaEhSaDBtcERlT0labzlaR1JoTFlsS1pRWXZZV0dhQ2dCaFZQcjVBSjcwQ2hrMzNPdTNBLWlVNFRWeTAzUVRBTzVFeENKSFltSlgtWFRJc1dTYWJrSUN1ZzFTS3EzZ1FQTjNxdElVS1hhaGUzN3FncmdiMnBuVlU?oc=5>
+- 时间: 2026-05-04 19:47
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5DYnRZcFdjekVfanZSaFFTN2Y3N2k3S1R2cWM2N1hvd0RoYzdFUnlsWlJPSkEwRkVaTEdmM2dSZ3VyV3dmb1Ntai1oMA?oc=5>
 
-### 特朗普：或许韩国该来加入这项任务了。
+### 特朗普支持率低迷，共和党冲刺“重划选区”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-05-02 07:40
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE80RzNtQXpYM2xvQ3paeVhNQURIZzhPWHc2NUFwWGtnVlJ5OG11SXdxNUF5V0RVNEh1aDRrN1YtOFJTNDJEVEw4dF9UTjE?oc=5>
+
+### 为何特朗普时期的贸易赤字如此费解（又极易被操控解读）
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-04 17:19
-- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE95eGV6YmdFV2ZVWjlIY0htdmVhaFVXaWFteHJCbkFyQ05LWEt1dzBvemNYMU1EcWpWVnp5YjI5ZWVGeXE3ZXpVTTl1Y0E3dFU?oc=5>
+- 时间: 2026-05-04 13:09
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbDE4THYtQmxQNGZfYTZNU21oZlRDZEgxcWNHNVFXYl9QWDI4V3dVQ2J0eDNzX283VVBHektDU1V5czlpSGQ1cXJhZkx5OFphb0dEVWFadlF4NERNZzZMTVZOcTQzZWp0TzJLRllIWEV6bkwzU1JxU3puaE85b1VCcHlSTGpBTGFUMXh6QWotMThFUDl5Unp0YTRJR2x5Sk13bjkydWZ4RHdXakJlWDVMRVgxenRhSG11ZnMzWENvN3QwVVJ4MHRQUlBCZzd0eml0Wm5rdExzZ01rUVhTeEF3?oc=5>
 
-### 法国报纸摘要 - 关税加撤军 特朗普对欧洲祭出攻势
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-05-04 13:37
-- 链接: <https://news.google.com/rss/articles/CBMi9gJBVV95cUxOVkc4cnJTdzN6X0NPcUFIMzAyOHNGTzljQ3VVb2w2TEN2NURwdGVHZW1Rb1Z0Q2xSZTk4elcwSkdKSHZLOUpBYWdwZXcweTh2VzJ5QWNUVGVJVm1lcHlDTXIxdTF0SzlKZkVFeEF3X2ZaWjItU0JIR0tKTTBQcjJSMWxpaDM4UjJlVFBMY2JpSVVFZ3B0a0lyRTFVWWFWTVhmc3E2bTlYUTN0akxxR0hKLW12dG9IeW9WM0FWTVR0LU9WcVhXVkxaSGFBOG1BTXlfai1SV0JRVndZMWZTV2JzV2xpUVdqalN2OW9KYVlCeHZKVF8zaTgxTHc1UWpfS2JMX2Rfc2loNHQxNnQxa0ZDUTRJa041T0xNLVRLN0JSRm9UV1FiVmRHN09wMEpvZEFVMnhITHNOWnY1dFUwNFljVGwxeUxjX3FmSXFZY01zY05laUtMdThtd0szRnJ2OHlLU0FZSEZiRTJOa3dsOUdHeHA4VUJMQQ?oc=5>
-
-### 随着法美分歧加剧，马克龙对特朗普的霍尔木兹行动表示质疑
+### Treasury Secretary Scott Bessent says Trump-Xi visit in May will go ahead
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Al-Monitor
-- 时间: 2026-05-04 18:24
-- 链接: <https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUHhHbmR0cElsRjhBUEZ1MU9tVHhrb2I3UUZUbktJY2djZWZHNEJ3LW00TWRwSEwyRXltcTlvcUdWb0lRLTVMRWlRX09qMG1Lb2JjWHNkV3QzZjdmUnBtNW5jeDMtN0tTaG1aMzA5SkJ0MFJMU1I2TFFxNFRYYXllM3RMcTlJcks4NUt4WjNjUXZ1Q1JCeFFRTk9tazRZbjNtM2lVRVprTHcwNTZpdnBNOGRPNkdWSG9iZEJOQXN0cTBRQQ?oc=5>
+- 场馆: news.tvb.com
+- 时间: 2026-05-04 13:02
+- 链接: <https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTEhVQndINDN1dXpGYVJlM0VwR1g1ekxoVzc2cmlKUXY5M2pVd1cycTN1QzhrakMxLUZmdm42UWdydHkxV0ZXN2tyazNtZkpoNVpWblJkYUJvOG8yTzhwVENlWDZqV0QyY0FNbTdvZFpEaTlFVFZMRDhkcXdyYkMxb1c5RUtSWC1zaTR2aDJSYTJvTW5tZ21YSkNTX25na3JLNjNBcFRvSDkwaFJFWEFvZmdQQjU0LXFLeTlSV25uVVBzaEgtZVhMZ1piaXoxWkUyNkdrWUNyU1l0ZU0?oc=5>
 
-### Goblin Trump价格、GRUMP价格、实时图表和市值
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Coinbase
-- 时间: 2026-05-04 17:13
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1YOF8yZHBZaFdGMWZfcWR6ZnZoN1otdVoxRmhteTdQMzNSN0NRZlNWNkNSV0JTeWphSl9NQTRDWkpzR01pWVhFT1cydTNHb1B6MUpkVFRrNXlhRWtyb2oyQ2wwdkFTUG1ualBjQzlmLTctWWM?oc=5>
-
-### 特朗普又有新绰号：NACHO
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-05-04 10:22
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBER1cxVW5OVGhCVW8xUEJGNHJFdkYwNGE1Q1lZdng3RFF1RFpGeWJROFZ4R1pxVFVXaHdYTWpEa0Mxb2J5M2ZZMGFuZzhhY2tWcW9RSU5mVHBZZHVjN3VwMUVhQVpqWVNvV2c?oc=5>
-
-### 特习会前 快报专访：“衰落且不稳定的美国对中国而言同样危险”
+### 民调：61%受访美国人认为对伊朗用兵是个错误
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: RFI
-- 时间: 2026-05-01 21:58
-- 链接: <https://news.google.com/rss/articles/CBMimgNBVV95cUxNaE1Xd3VGX2J5VEhhTWxPMUtZeDBmOHBkNndrbWw5akVRXzhXWDlQeFpzajZGNGd5SEVjZXlkM1g0b3VKQlpPSHN3NHBrZkcxTm94Yjh6NGUzV29qa2xtMU80SUJWeWdTQl9tVnN5TDFEX205UF9Qekd3ZGZBYmhDNDN6TGVfRTJMd1lNWUpiNWkwU1A3MVgzQ18tTTNYeVhpNE5pLU5GM0s0RFdBMnBrUXZLbm9sczlGNVFvVVB0U3MtNnZRMFRmYW1CQjJnMkFuNmdYVTI2VzBldXpXVXlyUmhuV1d2RXFadDYzaTNBT253dWFxYThPT3VRRVBMSVY1LWxNZFlYR3lHLWZLSzd5Y05wN2ROSXloNDlGazN2TUJEd3E5VW5VWjhjMkZvUnB6UlVsemt6dkNRMkNYSXB3U2w4UFM2NnNQUEt5UkoxeEJVRkhHTGFGYkN1MXRhUUpadGFOclQ1VWhNM0c1UUhHZXU4UmtQMi0wLWdMV05rUkJYdTVXZmdIMnFtQXUtbzdLRjVTQzhNZnZuZw?oc=5>
+- 时间: 2026-05-04 19:16
+- 链接: <https://news.google.com/rss/articles/CBMi1AJBVV95cUxPZkNyc2MtejN2LUdXOHNHLVRKMndFWHkxSURWeHBTQVFmUV8xcWR1d3hqS25tcm9qWmU2UGxHbHZNaXhjTDZSVlhOTW5NUUl4QS16QjZkV1dMWDNic2o5Q21uTXdLMjloZ3NkbnVYZE1EazhvVXZ5eG5PRnV6N3c0MGJxazg1Z04wMnJuQWRJbHBRMGVfeDJsWnd5bE9kM05tYklaSVIzM0pOU2hlbzFtdWgxMERlMG1qdkVNLTR6Q3ZVWmFpbTFMX3YyUDE1RGRrM3VzekZoQUJHYmRrdUpoUHBtb0xncnluLThqdE9hYU05SkZOT3JfOVh2QTNXSFY5RzAwRnV2dks3NXdoOVo4dnJzY1Z0U0pLbXNjSEJSUFpqajBPWG9vNC1VeVpQZ3hNaEp4NXRJVUFfLXBMV1NhbmNsR3lCTVB2U2VtNHVhOE5pTWdn?oc=5>
+
+### 美财长促中国施压伊朗重开霍尔木兹海峡
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-05-04 16:42
+- 链接: <https://news.google.com/rss/articles/CBMitwJBVV95cUxNLXkxZXN2TmFMaGNSZmREeWxjdFFkelBRd04xWHBkS2h6UFhaYnhiNzItMlh4NDN5dHRJS2lDT21WSXp3dkdXWl9XVkVwUXhmYkZDQVpvWnVPNHhyZDRPa1JZb0stdjdMdGNWcE5FWnJ5cXRPa2dNQXJvQ1ZnclZGbktVMl9WYmlSZzRBc3ZJbTZERVE0ODRQQVc4TGpaM3ByX3VmV2RBektIc3ZBQXlCcnBPaWY4WDNVempkQ05kQ3pkUERkT1ljRHh3Y1RZalVDREpRZkhuLTZZTnlVX1FJM3N3eXVvUjRIZTZYd2dPaW1HSWVmMDVoVUlEejF5WF9oX0lzVTJaRVc4Tlg1THd1YVQ3SDQxb2x3aERDWWdYOVJTc2g1SlFPS2hjOVJKQXNjUFQxRjJLTQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-04 20:46  (11 条)
+
+- **特朗普** | 伊朗又一次让世界感到意外，特朗普刚说“不满意”就出高招？ <https://news.google.com/rss/articles/CBMidkFVX3lxTE1FcXpNSDFyZFNrNC14VHhIQTlGRkZHWG4ybkhOTWJpdkZnb2R4MG14MHIxb2VfdTVpUFJmOUtMcVNQYzl1TEZXT3NUZG5abldRRk8yLWtwMlBDaEg3cVRpcEtkUmNtR3NyRnd0NXN6NU9hanpHMnc?oc=5>
+- **特朗普** | 特朗普：不可接受 <https://news.google.com/rss/articles/CBMiV0FVX3lxTE54QXU2YU9OUFQ5ZzZQdy1IaVRHc21fLUpnOTRrODlsVHBodXh5UjhJbEpsd29ZSGVhTHY4M2s5TFpLUWZ2RDRNSHo0bWlES3cwWE9ZdWdjbw?oc=5>
+- **特朗普** | 伊朗称美国已回应最新的和平提案 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9CdlNnRG1xOUpLTndhcUhteDZrLWRFTlkzQ3JOSTVrZmFhWGdRTkphWWQ0WmhYU1pMajBMb1F2a3FycWFuZnBMWmRwd1RLTlJycmVIa2VPR05DT2tObl9QWFl2d3BRd9IBa0FVX3lxTE9mdk9JTW9sLTd4S3NXUF9UTzVselhueFdaN0FQejdSM1VCSmdtTkFFbEhnSW5FZDA3dl8wWXBEaHdkYjlVV2I5OTlDdUhsZkRDS1Q0aURQdC1mLW9vSzJLdlJaOEJHNFVCdWJZ?oc=5>
+- **特朗普** | 特朗普：遭袭的韩国船只当时并无护航。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBkYnJ4UWxoLUJfbEl1V1VjMEN6dkpCX24xNU5ReGVkSUhYU29QY2lBYmlSeV9zNDYzLWNnbWVQTHB6cXJKWjVZejdGTQ?oc=5>
+- **特朗普** | 美财长称即将举行的美中元首峰会将推进去年韩国会晤达成的贸易共识 <https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdy1oTGVEcXdTR2s2WWxidjRDQmtQWGhzUHA1VDNEdFoxcVR4NnltVmFWeFpUeUo2NkpXa3RMNDVCNUUwajV6ZTVNcUhwQnJGTlNWNUlHN0t0bmVxb0RubVZUdGVxMTdIa0ZUOXVkWXhZNGhiWm5jVEVJWlFPNEptdnNNbmhnSWM4ZHFDVFBvOXBMT2ZNeVlxVTBEaTZZT2tjTHIwSVl0TU9JczAwblJRb0JGeV9iYlVScHNyYkw1QnhhWVItVHluekdwLWw3MXoxcVNmcE90YV91dmZMcGtGQnAwQTbSAecBQVVfeXFMUEIwZ25mN0RramFmTzlWRm5iVWtXTzJScXFxcko1RHF0dlRQYVFldDcxOE5McW9KYWR4bUwwSnBTYk9IdTJZU1lEMF8zbktWSDBMVGZhd0syT1lILVBPNjRuVmEyTFkxTXcxWW93MFFfSC1KcldRVVd6eW9MeFlFdGUxYklYZHVlS2lNT2IxNDdjWW4tWUZRVzdaLWJnYjVFbXlzY2tfQm5oREk1QkdKdGFOdHFaaDRwVlpvd0FfUzYwNzItbXFoSzhvRF9GNHBQdUlqNUlzd2lnOWpPX0VjTHMxc2c0RlhF?oc=5>
+- **特朗普** | 特朗普出席小企业峰会并发表讲话。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5DYnRZcFdjekVfanZSaFFTN2Y3N2k3S1R2cWM2N1hvd0RoYzdFUnlsWlJPSkEwRkVaTEdmM2dSZ3VyV3dmb1Ntai1oMA?oc=5>
+- **特朗普** | 特朗普支持率低迷，共和党冲刺“重划选区” <https://news.google.com/rss/articles/CBMiTEFVX3lxTE80RzNtQXpYM2xvQ3paeVhNQURIZzhPWHc2NUFwWGtnVlJ5OG11SXdxNUF5V0RVNEh1aDRrN1YtOFJTNDJEVEw4dF9UTjE?oc=5>
+- **特朗普** | 为何特朗普时期的贸易赤字如此费解（又极易被操控解读） <https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbDE4THYtQmxQNGZfYTZNU21oZlRDZEgxcWNHNVFXYl9QWDI4V3dVQ2J0eDNzX283VVBHektDU1V5czlpSGQ1cXJhZkx5OFphb0dEVWFadlF4NERNZzZMTVZOcTQzZWp0TzJLRllIWEV6bkwzU1JxU3puaE85b1VCcHlSTGpBTGFUMXh6QWotMThFUDl5Unp0YTRJR2x5Sk13bjkydWZ4RHdXakJlWDVMRVgxenRhSG11ZnMzWENvN3QwVVJ4MHRQUlBCZzd0eml0Wm5rdExzZ01rUVhTeEF3?oc=5>
+- **Trump** | Treasury Secretary Scott Bessent says Trump-Xi visit in May will go ahead <https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTEhVQndINDN1dXpGYVJlM0VwR1g1ekxoVzc2cmlKUXY5M2pVd1cycTN1QzhrakMxLUZmdm42UWdydHkxV0ZXN2tyazNtZkpoNVpWblJkYUJvOG8yTzhwVENlWDZqV0QyY0FNbTdvZFpEaTlFVFZMRDhkcXdyYkMxb1c5RUtSWC1zaTR2aDJSYTJvTW5tZ21YSkNTX25na3JLNjNBcFRvSDkwaFJFWEFvZmdQQjU0LXFLeTlSV25uVVBzaEgtZVhMZ1piaXoxWkUyNkdrWUNyU1l0ZU0?oc=5>
+- **Trump** | 民调：61%受访美国人认为对伊朗用兵是个错误 <https://news.google.com/rss/articles/CBMi1AJBVV95cUxPZkNyc2MtejN2LUdXOHNHLVRKMndFWHkxSURWeHBTQVFmUV8xcWR1d3hqS25tcm9qWmU2UGxHbHZNaXhjTDZSVlhOTW5NUUl4QS16QjZkV1dMWDNic2o5Q21uTXdLMjloZ3NkbnVYZE1EazhvVXZ5eG5PRnV6N3c0MGJxazg1Z04wMnJuQWRJbHBRMGVfeDJsWnd5bE9kM05tYklaSVIzM0pOU2hlbzFtdWgxMERlMG1qdkVNLTR6Q3ZVWmFpbTFMX3YyUDE1RGRrM3VzekZoQUJHYmRrdUpoUHBtb0xncnluLThqdE9hYU05SkZOT3JfOVh2QTNXSFY5RzAwRnV2dks3NXdoOVo4dnJzY1Z0U0pLbXNjSEJSUFpqajBPWG9vNC1VeVpQZ3hNaEp4NXRJVUFfLXBMV1NhbmNsR3lCTVB2U2VtNHVhOE5pTWdn?oc=5>
+- **Trump** | 美财长促中国施压伊朗重开霍尔木兹海峡 <https://news.google.com/rss/articles/CBMitwJBVV95cUxNLXkxZXN2TmFMaGNSZmREeWxjdFFkelBRd04xWHBkS2h6UFhaYnhiNzItMlh4NDN5dHRJS2lDT21WSXp3dkdXWl9XVkVwUXhmYkZDQVpvWnVPNHhyZDRPa1JZb0stdjdMdGNWcE5FWnJ5cXRPa2dNQXJvQ1ZnclZGbktVMl9WYmlSZzRBc3ZJbTZERVE0ODRQQVc4TGpaM3ByX3VmV2RBektIc3ZBQXlCcnBPaWY4WDNVempkQ05kQ3pkUERkT1ljRHh3Y1RZalVDREpRZkhuLTZZTnlVX1FJM3N3eXVvUjRIZTZYd2dPaW1HSWVmMDVoVUlEejF5WF9oX0lzVTJaRVc4Tlg1THd1YVQ3SDQxb2x3aERDWWdYOVJTc2g1SlFPS2hjOVJKQXNjUFQxRjJLTQ?oc=5>
 
 ### 2026-05-04 19:03  (11 条)
 
