@@ -1047,36 +1047,49 @@ def send_pushplus(items, debug=False):
 
 
 def _build_wecom_md(items):
-    """企业微信 markdown 单消息上限 4096 字节, 多就分批"""
+    """企业微信 markdown 单消息上限 4096 字节, 多就分批。
+    布局: 每条信息单独一行, 视觉清爽。
+    """
     grouped = {}
     for it in items:
         kw = it.get("keyword", "其他")
         grouped.setdefault(kw, []).append(it)
 
-    lines = [f"## 演出监控提醒 ({len(items)} 条)"]
+    lines = [f"# 演出监控提醒 · {len(items)} 条"]
+
     for kw, kw_items in grouped.items():
-        lines.append(f"\n### **{kw}** · {len(kw_items)} 条")
-        for it in kw_items:
+        lines.append("")
+        lines.append(f"## <font color=\"info\">{kw}</font> ({len(kw_items)} 条)")
+
+        for idx, it in enumerate(kw_items, 1):
             full = it.get("full_name") or it.get("title", "")
-            lines.append(f"\n>  **{full}**")
-            details = []
+            lines.append("")
+            lines.append(f"**{idx}. {full}**")
+
+            # 每个字段独立一行, 易读
             if it.get("status"):
-                # 企业微信支持的颜色 tag: info/comment/warning
-                details.append(f"在售: <font color=\"warning\">{it['status']}</font>")
+                lines.append(f"在售状态:<font color=\"warning\">{it['status']}</font>")
             if it.get("city"):
-                details.append(f"城市: {it['city']}")
+                lines.append(f"城市:{it['city']}")
             if it.get("venue"):
-                details.append(f"场馆: {it['venue']}")
+                lines.append(f"场馆:{it['venue']}")
+            if it.get("address"):
+                lines.append(f"详细地址:{it['address']}")
             if it.get("date"):
-                details.append(f"时间: {it['date']}")
-            if it.get("price_range"):
-                details.append(f"票价: ¥{it['price_range']}")
+                lines.append(f"时间:{it['date']}")
+            # 测试推送 / 没价格的不显示价格行
+            pr = it.get("price_range", "")
+            if pr and pr not in ("0-0", "0", "0.00-0.00"):
+                lines.append(f"票价:¥{pr}")
             elif it.get("price"):
-                details.append(f"起价: ¥{it['price']}")
-            if details:
-                lines.append("\n> " + " | ".join(details))
+                try:
+                    if float(it["price"]) > 0:
+                        lines.append(f"起价:¥{it['price']}")
+                except (TypeError, ValueError):
+                    pass
             if it.get("url"):
-                lines.append(f"\n> [打开链接]({it['url']})")
+                lines.append(f"[> 打开详情]({it['url']})")
+
     return "\n".join(lines)
 
 
@@ -1321,19 +1334,16 @@ def main():
     if args.test_notify:
         log("test-notify 模式: 发送测试推送验证链路 ...")
         fake = [{
-            "keyword": "测试",
+            "keyword": "系统通知",
             "id": "self-test-001",
             "source": "self-test",
-            "title": "演出监控部署成功 · 推送链路验证 · 提醒",
-            "status": "测试通过",
-            "venue": "GitHub Actions Cloud",
-            "city": "云端",
+            "title": "演出监控部署成功 · 推送链路已打通 · 提醒",
+            "status": "运行中",
             "date": datetime.now().strftime("%Y-%m-%d %H:%M"),
-            "price_range": "0-0",
             "url": "https://github.com/guangli395/artist-show-monitor",
         }]
         notify_new_items(fake, debug=True)
-        log("test-notify 完成, 检查你的微信公众号 'PushPlus推送加'")
+        log("test-notify 完成, 检查你的企业微信群 / PushPlus 公众号")
         return
 
     cfg = load_config()
