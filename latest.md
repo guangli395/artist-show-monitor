@@ -1,70 +1,60 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-04 22:55**
-- 本轮扫到 162 条, 新增 **7** 条
+- 最近更新: **2026-05-04 23:49**
+- 本轮扫到 167 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (5 条)
 
-### 王一博两年献唱五四主题曲
+### 王一博献唱央视五四主题曲《未来我来》，宇宙意象引爆青年共鸣
 
 - 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002kaai.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801jcpg.html>
 
-### 特朗普：对美国来说时间并不紧迫。
+### 王一博演唱的《未来我来》主题曲完整歌词是什么？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-04 22:04
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9OQlY1LURiSlkyZXZLRlYxOTg2WHhjWDZnYzNwS3hwdVB6bjJlVEdBTGlfZDREMEl3Y0Jha0ZWX3RKY1ZpNE1kSFBnOA?oc=5>
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801jcpk.html>
 
-### 特朗普拒绝确认美伊停火协议是否仍然有效
+### 伊朗已收到美国回应 特朗普称正与伊方进行积极讨论
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-04 21:44
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFA0UmxYU0lkMEtOY0ZIWUFKNjhLeDQ0N2NOOEllcDc1UG4yb1pKY2pHUENlT3lSUXYza1Z2T1BjSUZZUm5oeG45SlMwYkRfQ1FIR1IzNWRmcWFzZVZPeHZUUVJDSWc3MmNXNk9ZcXJDNGtOTnc4UkVxcQ?oc=5>
+- 场馆: 联合早报
+- 时间: 2026-05-03 23:44
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFA3TTBzSE9zUUQ1OUJnNHpjeTVTd1V3U2xuVVREQTY1NlRtdXpHU1ZSTi14VEdiWTdhaHFxUDg0OWR3MjRUNDg2UjFWX1hmX2dSbjBWSUphdThCMW8ySWxoa0Jjckc0dw?oc=5>
 
-### 特朗普称美国正从委内瑞拉获得“数亿桶石油”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-04 22:06
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1JcUpVWWZFTERMY3B4bjd2NjhVR2h3QzdNUTUxY2lpbnhyb2xTN0hCRTJZbEczQkRrQTU4bHFXa2RBMTBLX0ZqZV90VQ?oc=5>
-
-### 特朗普称美国与伊朗处于“迷你战争”状态
+### 特朗普：若伊朗攻击美国军舰，将被“从地球上彻底抹去”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-05-04 21:33
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2V3J3UE9IWjFERUh0M1d6YzZRQUJ5d04waWJQWlplTkN4dnZWeDNEV3N6dmxkSFFxU3hjeHJndnkydWZqOHRsc2VIMTd0ODRCNmN0a09mRy0xa0JDSXlwZQ?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-05-04 17:21
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBpc1MxdmFVa2w2VkZ5MEVDbURKV0pfWHNDaWk2MThfR2NmTWZMYkJITVNYUC03NXBocGV6cGFvZ3NoMTZhUlotUG41eUY?oc=5>
 
-### 川普家族加密公司反诉孙宇晨 双方关系彻底破裂
+### 霍尔木兹海峡爆发冲突，伊朗战局急转直下
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 文学城
-- 时间: 2026-05-04 20:30
-- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxNbnV0WW5xellqNVZTWlZUbndKOTZEdnRaT0NrNm5mWVJfTDBqUmpEMXZLanRUakFvamp3bWpLQkYzN2lRbGo4MjM2aVF0c3kzanVzSzB4ZFlKaldtRWRUdnAzZlZxMl85M1BxUzdIemhnZHZwc2wtanBqcDZiNFVrZA?oc=5>
-
-### Trump 称 Amazon 考虑重启《Apprentice》，由其长子担任主持美股US Stocks Quote - 外围新闻内容Golbal News Content
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: AASTOCKS.com
-- 时间: 2026-04-30 23:11
-- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOWdGaGhRWjhVbzRjOEhNYURtNTNLUUdydmFMQ2RFT1ZXQkhVS0VLdkc2SzczcTNNcEFRdXJvMmtNV0F2TUJyQUo4dEJJTTJqbUxlS3pvSjJBUE1JUUxZZ3dBbGxqOHVobk4taHlhSWhqSlQxWlczQWRRU1hiTEh5OWdrb2RyamxqbVpj?oc=5>
+- 场馆: 华尔街日报中文网
+- 时间: 2026-05-04 23:40
+- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxPMVNQOGlrOWwtQWVva3pvNUlZREZjZEJ2bnMyX1o2aFljaW9EY0MyUGxCNklDdTRzQ2YyYlBwNk9qVUM5UlVyd0lXNlRkMGJNWXBIdVFWX0lTQ0hmTHVxY1lGeFpTNTZsb1pzRUxFTTN5elJfMmxyN1FmVEZiZm1tNFNyVHlRcFZQZEJlblZFMA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-04 23:49  (5 条)
+
+- **王一博** | 王一博献唱央视五四主题曲《未来我来》，宇宙意象引爆青年共鸣 <https://k.sina.com.cn/article_7879776328_1d5abd84806801jcpg.html>
+- **王一博** | 王一博演唱的《未来我来》主题曲完整歌词是什么？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801jcpk.html>
+- **特朗普** | 伊朗已收到美国回应 特朗普称正与伊方进行积极讨论 <https://news.google.com/rss/articles/CBMiZkFVX3lxTFA3TTBzSE9zUUQ1OUJnNHpjeTVTd1V3U2xuVVREQTY1NlRtdXpHU1ZSTi14VEdiWTdhaHFxUDg0OWR3MjRUNDg2UjFWX1hmX2dSbjBWSUphdThCMW8ySWxoa0Jjckc0dw?oc=5>
+- **特朗普** | 特朗普：若伊朗攻击美国军舰，将被“从地球上彻底抹去” <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBpc1MxdmFVa2w2VkZ5MEVDbURKV0pfWHNDaWk2MThfR2NmTWZMYkJITVNYUC03NXBocGV6cGFvZ3NoMTZhUlotUG41eUY?oc=5>
+- **Trump** | 霍尔木兹海峡爆发冲突，伊朗战局急转直下 <https://news.google.com/rss/articles/CBMijwFBVV95cUxPMVNQOGlrOWwtQWVva3pvNUlZREZjZEJ2bnMyX1o2aFljaW9EY0MyUGxCNklDdTRzQ2YyYlBwNk9qVUM5UlVyd0lXNlRkMGJNWXBIdVFWX0lTQ0hmTHVxY1lGeFpTNTZsb1pzRUxFTTN5elJfMmxyN1FmVEZiZm1tNFNyVHlRcFZQZEJlblZFMA?oc=5>
 
 ### 2026-05-04 22:55  (7 条)
 
