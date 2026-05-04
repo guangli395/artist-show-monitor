@@ -961,6 +961,98 @@ def fetch_all(keyword, platforms, debug=False):
 # ============================================================
 # 输出
 # ============================================================
+# ============================================================
+# 推送 (PushPlus -> 微信; 后续可扩展钉钉/Server酱/Bark)
+# ============================================================
+def _build_md_for_push(items):
+    """把多条 items 渲染成一段 Markdown, 标题已含安全关键字 '提醒'"""
+    grouped = {}
+    for it in items:
+        kw = it.get("keyword", "其他")
+        grouped.setdefault(kw, []).append(it)
+
+    lines = []
+    for kw, kw_items in grouped.items():
+        lines.append(f"## **{kw}** ({len(kw_items)} 条)")
+        lines.append("")
+        for it in kw_items:
+            full = it.get("full_name") or it.get("title", "")
+            lines.append(f"### {full}")
+            meta = []
+            if it.get("status"):
+                meta.append(f"在售: **{it['status']}**")
+            if it.get("city"):
+                meta.append(f"城市: {it['city']}")
+            if it.get("venue"):
+                meta.append(f"场馆: {it['venue']}")
+            if it.get("date"):
+                meta.append(f"时间: {it['date']}")
+            if it.get("price_range"):
+                meta.append(f"票价: ¥{it['price_range']}")
+            elif it.get("price"):
+                meta.append(f"起价: ¥{it['price']}")
+            if meta:
+                lines.append("  \n".join(meta))  # markdown 强制换行用两个空格+\n
+            if it.get("url"):
+                lines.append(f"\n[> 打开详情]({it['url']})")
+            lines.append("")
+            lines.append("---")
+            lines.append("")
+    return "\n".join(lines)
+
+
+def send_pushplus(items, debug=False):
+    """
+    通过 PushPlus 推送到微信。
+    需要环境变量 PUSHPLUS_TOKEN, 没配就静默跳过。
+    """
+    if not items:
+        return
+    import os
+    token = os.environ.get("PUSHPLUS_TOKEN", "").strip()
+    if not token:
+        if debug:
+            log("[PushPlus] 未配置 PUSHPLUS_TOKEN, 跳过推送")
+        return
+
+    title = f"演出提醒 · {len(items)} 条新动态"
+    content = _build_md_for_push(items)
+
+    # PushPlus 单条 content 上限 64KB, 我们这点字数不会超
+    try:
+        r = requests.post(
+            "https://www.pushplus.plus/send",
+            json={
+                "token": token,
+                "title": title,
+                "content": content,
+                "template": "markdown",
+            },
+            timeout=15,
+        )
+        if r.status_code == 200:
+            try:
+                resp = r.json()
+                if resp.get("code") == 200:
+                    log(f"[PushPlus] 已推送 {len(items)} 条")
+                else:
+                    log(f"[PushPlus] 推送失败 code={resp.get('code')} msg={resp.get('msg')}",
+                        "ERROR")
+            except Exception:
+                log(f"[PushPlus] 响应解析失败: {r.text[:200]}", "ERROR")
+        else:
+            log(f"[PushPlus] HTTP {r.status_code}: {r.text[:200]}", "ERROR")
+    except Exception as e:
+        log(f"[PushPlus] 推送异常: {e}", "ERROR")
+
+
+def notify_new_items(items, debug=False):
+    """统一推送入口, 后续要加钉钉/邮箱/Bark 在这里加分支"""
+    if not items:
+        return
+    send_pushplus(items, debug=debug)
+
+
 def print_show(item):
     log("-" * 60, tag="NEW ")
     log(f"  [发现新演出] 来源: {item.get('source', '')}", tag="NEW ")
@@ -1192,6 +1284,14 @@ def main():
                     )
                 except Exception as e:
                     log(f"写 latest.md 失败: {e}", "ERROR")
+
+            # 推送新发现到微信(PushPlus)/未来扩展更多通道
+            # 注意: run_once 在首轮已经返回 [], 所以 round_new 天然不含基线
+            if round_new:
+                try:
+                    notify_new_items(round_new, debug=cfg.get("debug", False))
+                except Exception as e:
+                    log(f"推送异常: {e}", "ERROR")
 
             if args.once:
                 log("--once 指定,退出。")
