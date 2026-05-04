@@ -1,0 +1,4 @@
+requests>=2.31.0
+# curl_cffi 只在启用 damai/douban/weibo 等需要绕阿里风控的源时需要
+# 默认用 juzimima + sina 不需要它, 注释掉可以加快云端部署
+# curl_cffi>=0.15.0

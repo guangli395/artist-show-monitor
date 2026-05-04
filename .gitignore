@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+# seen.json 和 latest.md 需要被云端 Action 提交回仓库, 不要 ignore
+# monitor.log 会膨胀, 保持 ignore
+monitor.log
+# 临时调试文件(以下划线开头)
+_*.py
+_*.txt
+_*.html

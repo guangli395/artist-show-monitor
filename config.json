@@ -1,0 +1,25 @@
+{
+  "keywords": [
+    "王一博",
+    "蔡徐坤",
+    "周杰伦"
+  ],
+  "platforms": {
+    "showstart": false,
+    "damai": false,
+    "juzimima": true,
+    "sina": true,
+    "douban": false,
+    "weibo": false,
+    "rsshub_weibo": false,
+    "rsshub_douban": false
+  },
+  "interval_seconds": 300,
+  "debug": true,
+  "first_run_preview": 5,
+  "sina_artists": {
+    "王一博": "wangyibo",
+    "蔡徐坤": "caixukun",
+    "周杰伦": "zhoujielun"
+  }
+}

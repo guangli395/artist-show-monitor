@@ -1,0 +1,63 @@
+name: Artist Show Monitor
+
+on:
+  # 每 30 分钟跑一次。GitHub Actions 免费公共仓库无限量。
+  # 注意: Actions 的 cron 是"尽力而为", 高峰期可能延迟 10-30 分钟, 本场景够用。
+  schedule:
+    - cron: "*/30 * * * *"
+
+  # 允许手动触发,用于调试
+  workflow_dispatch:
+
+  # push 时也跑一次,方便初始化
+  push:
+    branches: [main]
+    paths:
+      - "config.json"
+      - "monitor.py"
+      - ".github/workflows/monitor.yml"
+
+permissions:
+  # 让 workflow 可以 commit seen.json / latest.md 回仓库
+  contents: write
+
+# 防止多个触发器同时跑导致 commit 冲突
+concurrency:
+  group: monitor
+  cancel-in-progress: false
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Run monitor (once, CI mode)
+        run: python monitor.py --once --ci
+
+      - name: Commit & push updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add seen.json latest.md
+          # 如果没变化就跳过, 避免空 commit
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore(monitor): update data $(date -u +'%Y-%m-%d %H:%M UTC')"
+            # 重试一次, 避免 pull-rebase 冲突
+            git pull --rebase --autostash || true
+            git push
+          fi
