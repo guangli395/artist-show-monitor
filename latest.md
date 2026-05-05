@@ -1,52 +1,117 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-04 23:49**
-- 本轮扫到 167 条, 新增 **5** 条
+- 最近更新: **2026-05-05 01:24**
+- 本轮扫到 179 条, 新增 **12** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (12 条)
 
-### 王一博献唱央视五四主题曲《未来我来》，宇宙意象引爆青年共鸣
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801jcpg.html>
-
-### 王一博演唱的《未来我来》主题曲完整歌词是什么？
+### 人民官宣!王一博演唱，MV正式发布_亚洲_冰雪_运动
 
 - 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801jcpk.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019053acg.html>
 
-### 伊朗已收到美国回应 特朗普称正与伊方进行积极讨论
+### 蔡徐坤MetGala红毯暗黑造型灵感源自新专辑主打歌Deadman
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-05-03 23:44
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFA3TTBzSE9zUUQ1OUJnNHpjeTVTd1V3U2xuVVREQTY1NlRtdXpHU1ZSTi14VEdiWTdhaHFxUDg0OWR3MjRUNDg2UjFWX1hmX2dSbjBWSUphdThCMW8ySWxoa0Jjckc0dw?oc=5>
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1765870915_m69410d4303301lq2w.html>
 
-### 特朗普：若伊朗攻击美国军舰，将被“从地球上彻底抹去”
+### 蔡徐坤新歌《Deadman》剖析：向死而生的音乐告白与舆论风暴
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801jd20.html>
+
+### 周杰伦演唱会唱《说好的幸福呢》引全场共鸣
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923551_m1d5ae175f03301jjru.html>
+
+### 周杰伦2024台北演唱会 Day3JayMe歌迷会点歌成功
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879924015_m1d5ae192f03301j6hg.html>
+
+### 新战线突然开辟，特朗普怒率美国“两线作战”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-05-04 17:21
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBpc1MxdmFVa2w2VkZ5MEVDbURKV0pfWHNDaWk2MThfR2NmTWZMYkJITVNYUC03NXBocGV6cGFvZ3NoMTZhUlotUG41eUY?oc=5>
+- 时间: 2026-05-02 13:54
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9Mdmxkc1p0T3JESTJWZU1Bb0thNDBiVTA1YmtJNFY1aHQ1SUJLc3BPU244Q2F5R0lGNTJhUmZSVTlzaXhyTEo1RFh3bnI?oc=5>
 
-### 霍尔木兹海峡爆发冲突，伊朗战局急转直下
+### 特朗普未明言伊朗违反停火协议
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华尔街日报中文网
+- 场馆: 新浪财经
 - 时间: 2026-05-04 23:40
-- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxPMVNQOGlrOWwtQWVva3pvNUlZREZjZEJ2bnMyX1o2aFljaW9EY0MyUGxCNklDdTRzQ2YyYlBwNk9qVUM5UlVyd0lXNlRkMGJNWXBIdVFWX0lTQ0hmTHVxY1lGeFpTNTZsb1pzRUxFTTN5elJfMmxyN1FmVEZiZm1tNFNyVHlRcFZQZEJlblZFMA?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE0wX2l5MW0xc0FwOGR1eml2dVZvMmczaXlzTkxoUGw2WnNaTXotTlJHYkJtRk5HY2RHZFFPWDBjdHFjY2ROS0Z2a0NyVQ?oc=5>
+
+### 美国加州调查特朗普政府取消海上风电租赁协议一事
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-04 23:46
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZWNkSGk4eGlkdEdudndUSlNVTFZQX0pYb0ZPdmhOLVYtbzJLelNhSUZrangyd0F5TDIxdXdnWWF5T1hnaGR1bUg2eEFQVkhfUlBaS0p1TFU0WTNhOWZLTlpaQkxqRUNVMXRxekE5RXAyT281eEU2V25HNDBMQ01SQk92WWNxYWRkNjBOa3hCOHFIQ1JhSEMzbWtLdUMxSnpGN0szdUZ4Umx1QUJKUkVuRWJpeXVuZDY2VTQyU2dRN3lCOHdPSXBqUC1SRF9Gdlg2WTlYYnhZbmJMTlhQZ3M0?oc=5>
+
+### 特朗普威胁：若伊朗向美国船只开火，将被“从地球表面抹去”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 腾讯新闻
+- 时间: 2026-05-04 23:00
+- 链接: <https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1RUYwRnZXUXVETkN0b0o2aXBxNzhkckZGWWY1SjZNXzhqWGNmbVZaaDN0UHlYeS15bVdCczZhUk43UXpUMVpudlZCS1ZOMmp0ZndBMXJxdw?oc=5>
+
+### 美伊开火争夺霍尔木兹主导、特朗普威胁“炸飞”，停火以来阿联酋首次遭袭，伊称未计划袭阿
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街见闻
+- 时间: 2026-05-04 19:35
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZTUxYMXdnbG1oenk3YldZQ3Z6cy0wci1wWlRGQ25NWk8tUG1wN1EweW5kckJOVVhrenpUbUp6UzFFMlpIY29kM3hYbEF2UXBzQ0xR?oc=5>
+
+### 特朗普拒绝确认美伊停火协议是否仍然有效：如果我回答了，你会说这个人不够聪明当总统
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-05 00:00
+- 链接: <https://news.google.com/rss/articles/CBMiowFBVV95cUxOeE9Fdm9EcDFyWS1GRDgxcGNwbUxRVTAxRjY3WTB5NC1RY01OeWRleXQxbTlROWxKVF94Z1pQR2U0b0V4bTFNRnFEbkFLUW9sOGtqWXp5U1VTbWhaRU5WcVB5aHpySjZCMEV3dnJYd3lGa3JObFNJUTlBZXNwaThPV3JoM3ltdm5YNlkxYTJobEowSkFiWlhTVjRiWXZUa2x0aExF?oc=5>
+
+### 刚刚，全线跳水！特朗普重磅发声！仅7只，商业航天再落关键一子，融资客埋伏的绩优潜力股曝光（附股）
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 证券时报
+- 时间: 2026-05-05 00:18
+- 链接: <https://news.google.com/rss/articles/CBMiXEFVX3lxTFBlY0QzQ3ByYncyOVozeFdqdDBuYTluZHVMVTNoVlEyOGpxUDBjNkdzVDM4SVBzVTQxVzlvY3FJQmF0Z082NUphd3RGSmpLd29GNU5pbzhfaHNfelZ5?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-05 01:24  (12 条)
+
+- **王一博** | 人民官宣!王一博演唱，MV正式发布_亚洲_冰雪_运动 <https://k.sina.com.cn/article_7857201856_1d45362c0019053acg.html>
+- **蔡徐坤** | 蔡徐坤MetGala红毯暗黑造型灵感源自新专辑主打歌Deadman <https://k.sina.com.cn/article_1765870915_m69410d4303301lq2w.html>
+- **蔡徐坤** | 蔡徐坤新歌《Deadman》剖析：向死而生的音乐告白与舆论风暴 <https://k.sina.com.cn/article_7879776328_1d5abd84806801jd20.html>
+- **周杰伦** | 周杰伦演唱会唱《说好的幸福呢》引全场共鸣 <https://k.sina.com.cn/article_7879923551_m1d5ae175f03301jjru.html>
+- **周杰伦** | 周杰伦2024台北演唱会 Day3JayMe歌迷会点歌成功 <https://k.sina.com.cn/article_7879924015_m1d5ae192f03301j6hg.html>
+- **特朗普** | 新战线突然开辟，特朗普怒率美国“两线作战” <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9Mdmxkc1p0T3JESTJWZU1Bb0thNDBiVTA1YmtJNFY1aHQ1SUJLc3BPU244Q2F5R0lGNTJhUmZSVTlzaXhyTEo1RFh3bnI?oc=5>
+- **特朗普** | 特朗普未明言伊朗违反停火协议 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE0wX2l5MW0xc0FwOGR1eml2dVZvMmczaXlzTkxoUGw2WnNaTXotTlJHYkJtRk5HY2RHZFFPWDBjdHFjY2ROS0Z2a0NyVQ?oc=5>
+- **特朗普** | 美国加州调查特朗普政府取消海上风电租赁协议一事 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZWNkSGk4eGlkdEdudndUSlNVTFZQX0pYb0ZPdmhOLVYtbzJLelNhSUZrangyd0F5TDIxdXdnWWF5T1hnaGR1bUg2eEFQVkhfUlBaS0p1TFU0WTNhOWZLTlpaQkxqRUNVMXRxekE5RXAyT281eEU2V25HNDBMQ01SQk92WWNxYWRkNjBOa3hCOHFIQ1JhSEMzbWtLdUMxSnpGN0szdUZ4Umx1QUJKUkVuRWJpeXVuZDY2VTQyU2dRN3lCOHdPSXBqUC1SRF9Gdlg2WTlYYnhZbmJMTlhQZ3M0?oc=5>
+- **特朗普** | 特朗普威胁：若伊朗向美国船只开火，将被“从地球表面抹去” <https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1RUYwRnZXUXVETkN0b0o2aXBxNzhkckZGWWY1SjZNXzhqWGNmbVZaaDN0UHlYeS15bVdCczZhUk43UXpUMVpudlZCS1ZOMmp0ZndBMXJxdw?oc=5>
+- **特朗普** | 美伊开火争夺霍尔木兹主导、特朗普威胁“炸飞”，停火以来阿联酋首次遭袭，伊称未计划袭阿 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZTUxYMXdnbG1oenk3YldZQ3Z6cy0wci1wWlRGQ25NWk8tUG1wN1EweW5kckJOVVhrenpUbUp6UzFFMlpIY29kM3hYbEF2UXBzQ0xR?oc=5>
+- **特朗普** | 特朗普拒绝确认美伊停火协议是否仍然有效：如果我回答了，你会说这个人不够聪明当总统 <https://news.google.com/rss/articles/CBMiowFBVV95cUxOeE9Fdm9EcDFyWS1GRDgxcGNwbUxRVTAxRjY3WTB5NC1RY01OeWRleXQxbTlROWxKVF94Z1pQR2U0b0V4bTFNRnFEbkFLUW9sOGtqWXp5U1VTbWhaRU5WcVB5aHpySjZCMEV3dnJYd3lGa3JObFNJUTlBZXNwaThPV3JoM3ltdm5YNlkxYTJobEowSkFiWlhTVjRiWXZUa2x0aExF?oc=5>
+- **特朗普** | 刚刚，全线跳水！特朗普重磅发声！仅7只，商业航天再落关键一子，融资客埋伏的绩优潜力股曝光（附股） <https://news.google.com/rss/articles/CBMiXEFVX3lxTFBlY0QzQ3ByYncyOVozeFdqdDBuYTluZHVMVTNoVlEyOGpxUDBjNkdzVDM4SVBzVTQxVzlvY3FJQmF0Z082NUphd3RGSmpLd29GNU5pbzhfaHNfelZ5?oc=5>
 
 ### 2026-05-04 23:49  (5 条)
 
