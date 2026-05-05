@@ -1,144 +1,73 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-05 17:03**
-- 本轮扫到 260 条, 新增 **17** 条
+- 最近更新: **2026-05-05 18:52**
+- 本轮扫到 266 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (17 条)
+## 本轮新发现 (6 条)
 
-### 蔡徐坤戴红色隐形眼镜亮相MetGala，造型灵感源自新专辑
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1453501745_m56a2ad310330269v8.html>
-
-### 男子承诺代购周杰伦演唱会门票诈骗43万余元，建群自导自演并谎称“钱已转给上线”，获刑7年8个月罚6万元
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1720962692_6693ce84020031x7i.html>
-
-### 杰伦演唱会有趣瞬间最近过得好吗？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923551_m1d5ae175f03301jkds.html>
-
-### 调好闹钟！周杰伦演唱会温州站二次开票时间确定
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://finance.sina.com.cn/wm/2026-05-05/doc-inhwwezc9696246.shtml>
-
-### “从造王者沦为票房毒药，5月多地初选，特朗普战绩堪忧”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-05-05 13:22
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5HcW5IXzBWbGFiSnZnMzRNWDZzV0FHb2ZkZkN0UlFObTJtbXBxQU9BallFWDZlTWg2bEhBa09KMlBLbkZUNi1FVHFFVVpkSGtxQjhxamJGZ3B5bV9WRTlWQUhHcl85YTNscGc?oc=5>
-
-### 特朗普：对部分参议院共和党人在阻挠议事中的表现感到失望。
+### 特朗普避谈伊朗何种行为将被视为违反停火协议
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-05 15:48
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE4yaGVwelpKMlJZS0c4MENCTExtdjZ3dW9CWWlGT1RrSE5xN1Z0M2VjLXlqU0ZqZndFTFowd2RoV1NzZDVIcjR3N0Vncw?oc=5>
+- 时间: 2026-05-05 17:10
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE15Nkd4bHJzeGRGWDNxeGlQOFZZUkV1UHFic3dIbUF2aS1jRnF3UlRwTk1oeHkzTWFkcGNPN3k1WlhZRk5QTjFycjUzTQ?oc=5>
 
-### 特朗普总统说，他将在美中领导人会晤期间向习近平提起黎智英案
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-05-05 16:11
-- 链接: <https://news.google.com/rss/articles/CBMivAFBVV95cUxNOWRvY2JPckFrV0J2QVlEaHdEdDNOdGdtay1iYXdtWlg5T2dXYkhtOWhNSWg3YklBOTJWYkFmX2ppMjQybER4ay1NMnpXQ0R4b0RvaHZLYno4U3pWZ1FwLU9fTzdITDFjN2RBU3h0VFRpMXRUaVVqMGdTazA5MWhJcDVMNDctbFRHUGxqa2JPeUxydE10ZGc4cUdMeHZYbXdpbnNUczQxZE9PeWZndHhVRnNrMDFaYmhKWkQta9IBvwFBVV95cUxPc0xQQl9KeXM0Sk5tZVE0bmNPcFNCZm81cS1ubmF0SV8wRlFMcUNXZGI0VEpPVjJDcjdiN0prMzFKVGc1VHhmX01PQ25ucXEzSmNsek5iQ2JzZU5ySWJTdDlZVy1rWFlWT2p3cklTWEtXc1NDTmxVLUFqaDMweG92ajNxb1JwYkNzOHJtS25VT216UkhyOE5yRlh6WnNKYmpvR3hOZFNsU3ZtXzJsSk13UEJKTzY3ZV9vRlB3RTR3WQ?oc=5>
-
-### 特朗普政府正拟定相关规则，加强对违规无人机飞行的安全管控。
+### 特朗普：伊朗国内的人想发起抗议活动，但他们没有枪。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-05 16:11
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE56T2h3VXREamxJemJ5clpqZnZNdXpkVjFYeE1MaHF2UkdsSUtHa1Q2eU5kY0hVS1hZUXNVTWs0Wm01emd3dElYRjJOWQ?oc=5>
+- 时间: 2026-05-05 16:52
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9Ga2x6b2xsaFdwcTVCOVc4T1BtRC1uRzRINklDVjBGaVZpNkpaS290eDNiUVdaQzIwRmhjU0dWTHR6S056TjVCal9uaw?oc=5>
 
-### 特朗普承认自己曾“不得不”常买中国货
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-05-05 12:08
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBtUDBmanVId3l3dHl4T3Azcklvd3JfUkg1TG9hbHBhN2hZM2prNWZxT3FWNnBVdnJ2QzAxREV5dlN3R3lidC1sTjl5czUwWFZTTExyTnBxSmg3MXhCMFpySUczOFloa0JQVUpOdW9WRWtmdDNQQldNc3VWdHJsVEE?oc=5>
-
-### 特朗普：我以前常买中国货，不得不买
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-05 15:03
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE5lSmFfUjhUQXdheVFyd1dKUjM1b01jNkFZNWNHWHU0b3pYRGltYjk4WjRabnJjNFRoRkNqUTdEQXVhY3NHWDR1LVZXR1E2b1B0SEpONlVMZUk3U0w0YVpXaXFxZWQtWGQtUnN1NjFLWDU0VHFIRXc?oc=5>
-
-### 伊朗造核弹速度和去年一模一样！特朗普被自己人的情报打脸
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-05-05 11:48
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBQRGRjbUVZbE5QODlxdXRGa2Y2bzdtZ19Wdjg1czh3MVR6VVFaNWxpTUR3QVZPRHByemhhMTVLLTQ1VElQVG8wLUk4WlY?oc=5>
-
-### 特朗普：美伊冲突是“迷你战争”
+### 特朗普承认：曾经常买中国货，网友锐评：中国货“真香”吧
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: thepaper.cn
-- 时间: 2026-05-05 13:17
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EQ2dfeU1YMHlxRkFRNmJtN2cteUJaUTVkZHpWTFVjaXdtRGdka0d6c1VPaDhjeVd2SlJ0QzZNZV9HaGYzZGxwS3ZoR0ZBd0phWTVscTdBTkFJdF9XQ3Rmbg?oc=5>
+- 时间: 2026-05-05 13:47
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kSlp4dHJlakR2QllaV0J4cTdkelhxM3VaUUY2SW9OOUZ3anRpSjE5NzNuUk5vREw0dTBZZWw3ekJ3TkFWbldYRElOakF3VjdhZFhIZVlUVnBna0w5b0cyVA?oc=5>
 
-### 对伊朗战争支持率低迷 特朗普：民调数据是“假的”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中国网新闻中心
-- 时间: 2026-05-05 13:18
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTFBwbFQwTDJYMlZrdHZBNmpuNHdZRWVSXzR2ZWdIeWZSNHdQVGttMnRFcnhjZy1BUGpYZ3FjMjdxWDNJWnBxTXRfQ0hqZlNmYXpVQ3Y3a1FkNEd3a0VwVUlBMlQ5OFNwUy1LYWhn?oc=5>
-
-### 美防长称特朗普无需寻求国会批准即可继续对伊军事行动
+### 立场反转，特朗普政府考虑对AI模型进行安全审查
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-05 14:06
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5ONUNzRTR4dXN5M0trd2dscHVZQjdjZmVTdXI1emZnbFk0TEN4Xy1WUVNabDdMSXotMkJISHhuYWRJSHkyekMxaXQzNU1hM3ZfbVI3cGpXREhQNkxNSzR0Y1hNLUthcTJGd1pBcDRaLV95YVVvalhmRw?oc=5>
+- 场馆: thepaper.cn
+- 时间: 2026-05-05 09:05
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TYnR6YW5jRU9wamdfSmZNVFo3Z2dHdjMwRmdITUJjR29OZ1ZOcm55b2tGMTVoVWFBXzYtbUNaYnoyOWEyQ2JqaGVKRGVjVnNsbWVIay1aLS1HRDFsT19pZg?oc=5>
 
-### 美国驻梵蒂冈大使：特朗普政府与教宗之间并无“深层裂痕”
+### 美媒：美伊冲突久拖不决，特朗普访华时的筹码将被削弱
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-05-05 14:54
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYmZ3WjJuM3AzU0xGU1g3OEdmcVp5VkxwcGxGa0t6a2t0QTRLS29FRmt5M3J6QnZkTHpTS21fWk1nTnhPMzhUX0UzWTFDbkFhWG1aWEpKNzhTeG9nYms3cjNCdHJ6UHdJNElDTF83VEdWemhVaUw5X2hsUDhfQ2Z5MHVGd01kSEpia1Vrb0NFeXVMLVNhMVY2RTRIdkE2dG5NcF9fdC1aODNqSU1RM2pZSzNhREFRMUs5MUo1REJDdFYzVmJpNkp1YUVqdXg2MDcz0gHTAUFVX3lxTE5jU0VXT2JOcW1CV3FVTE5STl91MEp1TG1RYU91cHVnRWhld3lzQzJRSDAtZ3RsLUx3TDNpU05pRlJwV1dmeHVTLVpnUGtHY0tNR0Q2b29qNVJWSmk5b21rQlgybGZEUDFsQ1B1Rlo1N1UwOEdxUXJDY0lXM1I3c1RUTmhNdHZyLVFSdlBkRkZ1dkFBb2pJRFozLVJGNkxiS2lUOTZWVERPSEM0UGt5Y1puSDdsZDNzUzdZMXhvTGloYlR5TXh5Mzl6UllSQ2NmY0JINUk?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-05-05 07:22
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBhcWN0TEI1YS1MV1JfZ0p4ODc4NHRLbHRHSzlBTGRsSjdwRXVyR2xENEg0bnFxRUFDMlBlVmU0U2UyOXNHZ3lEblVScXI?oc=5>
 
-### Donald Trump expresses wish to talk Strait of Hormuz on China trip
+### 美财长：特朗普不会再推迟访华
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: news.tvb.com
-- 时间: 2026-05-05 12:36
-- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxQdzBTYXl1RFpsRU44dlRoODFBOWZEZE9oazczTWJmNHlFOTZZWWd1VEY5VlJ3R3NCQ2tQcl90VWpqREItMDd0SDFfTVI5em5uV2ZOOUZfMUUzUnpzOXFKNU0xcmV0UTlkNWloZHNybnR6Yk82Q25wNWR5QmE1eUVNY2pZREpvOGJDdlp2cWNkaXRic1hoLU1oMjQtU1dLZjRSMDIxTEd3LWYteXFqcHg1aW90WFdrb09nZFpieGk4dDVCaE5FVG1xZUpBcVhGb2s?oc=5>
-
-### 纽时 : 白宫计划建立审批人工智能模型机制
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-05-05 09:35
-- 链接: <https://news.google.com/rss/articles/CBMiuAJBVV95cUxPeUhFbEFzSXZvdVdMQ3FDd2ExanNQS3kta2tKeTN2MWdUU2pjRkdmRFExRWg1V0hGN0pfSXh6NDBVQXFKajM3VmpWc01DY05OdGo3dUg4QmhPaW85QnVvRXFBc3FCNVNGNUdIOU0zRVc1TktaQWZrOVI2LVVDbm1LWHg3aXBJdW1RT0J2ZTNYZVFzNzVtM2pKbVFETEx2emRMTU03TXBTd3Y2RExaajUyd1JYU2VOTGljSGxXSkh2dWVLXzJ0a3Utb1RzLTluZzI2ZlYwaGViNzBGeXhENFR5OUhVS01fZEtObDRWTlYxcGdXbzFsMlhzR3VSc25nZW5iN3pGeHdia3RqeDFNM1BnSDJobDE3S3dFNUdaSTFzWEVOeEZTN3FHUmtvMmJ5VTFHdW10YUw1dG4?oc=5>
+- 场馆: 观察者
+- 时间: 2026-05-04 07:10
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5xeHprVmVrWUFpUk9uazlxc3hvUUc0MkFUdUZ6TlpHNHFuSlVvWmFxcDdZZENUQzVlbEkxQXBDcWdwa1p2cFMyY2JKUGsyZ2VkVHYzMzducTh6MFhrNnV2UHJFYTRLVHV0MHc?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-05 18:52  (6 条)
+
+- **特朗普** | 特朗普避谈伊朗何种行为将被视为违反停火协议 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE15Nkd4bHJzeGRGWDNxeGlQOFZZUkV1UHFic3dIbUF2aS1jRnF3UlRwTk1oeHkzTWFkcGNPN3k1WlhZRk5QTjFycjUzTQ?oc=5>
+- **特朗普** | 特朗普：伊朗国内的人想发起抗议活动，但他们没有枪。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9Ga2x6b2xsaFdwcTVCOVc4T1BtRC1uRzRINklDVjBGaVZpNkpaS290eDNiUVdaQzIwRmhjU0dWTHR6S056TjVCal9uaw?oc=5>
+- **特朗普** | 特朗普承认：曾经常买中国货，网友锐评：中国货“真香”吧 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kSlp4dHJlakR2QllaV0J4cTdkelhxM3VaUUY2SW9OOUZ3anRpSjE5NzNuUk5vREw0dTBZZWw3ekJ3TkFWbldYRElOakF3VjdhZFhIZVlUVnBna0w5b0cyVA?oc=5>
+- **特朗普** | 立场反转，特朗普政府考虑对AI模型进行安全审查 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TYnR6YW5jRU9wamdfSmZNVFo3Z2dHdjMwRmdITUJjR29OZ1ZOcm55b2tGMTVoVWFBXzYtbUNaYnoyOWEyQ2JqaGVKRGVjVnNsbWVIay1aLS1HRDFsT19pZg?oc=5>
+- **特朗普** | 美媒：美伊冲突久拖不决，特朗普访华时的筹码将被削弱 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBhcWN0TEI1YS1MV1JfZ0p4ODc4NHRLbHRHSzlBTGRsSjdwRXVyR2xENEg0bnFxRUFDMlBlVmU0U2UyOXNHZ3lEblVScXI?oc=5>
+- **特朗普** | 美财长：特朗普不会再推迟访华 <https://news.google.com/rss/articles/CBMiakFVX3lxTE5xeHprVmVrWUFpUk9uazlxc3hvUUc0MkFUdUZ6TlpHNHFuSlVvWmFxcDdZZENUQzVlbEkxQXBDcWdwa1p2cFMyY2JKUGsyZ2VkVHYzMzducTh6MFhrNnV2UHJFYTRLVHV0MHc?oc=5>
 
 ### 2026-05-05 17:03  (17 条)
 
