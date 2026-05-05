@@ -1,9 +1,13 @@
 # 从零搭建一个云端 24/7 关键词监控推送系统
 
-> 一份可复用的工程笔记。这次做的是"艺人演出 + 特朗普新闻"监控,
-> 但同样的架构能复用到:监控竞品价格、追踪行业新闻、监听某 GitHub
+> 一份可复用的工程笔记。这次做的是"艺人演出 + 特朗普新闻"双类型监控,
+> 同样的架构能复用到:监控竞品价格、追踪行业新闻、监听某 GitHub
 > 仓库 issue、监控自家服务故障公告、跟踪某项政策动态... 任何
 > "网上某处有更新就告诉我"的需求,都能套这个模板。
+>
+> **核心思想**: 多源抓取 → 增量去重 → **按内容类型智能渲染** → 推送。
+> 系统会根据这一轮抓到的内容自动切换推送卡片的标题和字段:
+> 纯新闻显示"资讯速报",纯演出显示"演出动态",混合则显示"实时监控"。
 
 ---
 
@@ -27,12 +31,22 @@
               └──────┬───────────┘
                      │ 仅"真·新增"
                      ▼
-        ┌────────────────────────┐
-        │ 推送层 (并联多通道)        │
-        ├────────────────────────┤
-        │ 企业微信群机器人 (主)      │
-        │ PushPlus (次)           │
-        └──────┬─────────────────┘
+        ┌──────────────────────────────────┐
+        │ 推送层 (并联多通道 + 智能标题)      │
+        ├──────────────────────────────────┤
+        │ 按内容类型自动切换卡片标题:        │
+        │   纯新闻  → "资讯速报"             │
+        │   纯演出  → "演出动态"             │
+        │   混合    → "实时监控"             │
+        │   测试    → "推送测试"             │
+        │                                  │
+        │ 按数据源渲染差异化字段:             │
+        │   新闻: 标题 / 媒体 / 时间 / 原文   │
+        │   演出: 标题 / 场馆 / 票价 / 详情   │
+        │                                  │
+        │ 通道:  企业微信机器人 (主)          │
+        │        PushPlus (次, 不推荐)       │
+        └──────┬───────────────────────────┘
                │
                ▼
          手机企业微信收消息
@@ -205,7 +219,9 @@ def run_once(cfg, seen, first_run=False):
 - 把首次抓到的全部进基线, 不推送
 - 第二次起, 只有真正"新出现的条目"才推送
 
-### 3.4 推送层(并联多通道)
+### 3.4 推送层(并联多通道 + 智能分类)
+
+#### 3.4.1 多通道并联
 
 ```python
 def notify_new_items(items, debug=False):
@@ -234,6 +250,94 @@ def send_wecom(items, debug=False):
 - 通道间**互不依赖**, 一个挂了不影响其他
 - 没配 secret 就**静默跳过**, 不报错
 - 大消息**自动切分**, 不让企业微信 4096 字节限制截断
+
+#### 3.4.2 按来源类型智能渲染(推送消息核心)
+
+**动机**: 同一个监控系统抓新闻和抓演出,两者字段完全不同,不能拿同一套模板硬套。否则新闻条目里会出现"场馆:路透社"这种语义错误的标签。
+
+**方案**: 三个辅助函数,两个 builder 共享:
+
+```python
+# 把 source 名归类到"新闻 / 其他"
+NEWS_SOURCES = {"googlenews"}  # 以后加 rss_feed / twitter 等往这加
+
+
+def _classify_items(items):
+    """这一轮的 items 是什么性质的组合"""
+    srcs = {it.get("source", "") for it in items}
+    if srcs == {"self-test"}:
+        return "test"
+    has_news = bool(srcs & NEWS_SOURCES)
+    has_show = bool(srcs - NEWS_SOURCES - {"self-test"})
+    if has_news and has_show:
+        return "mixed"
+    if has_news:
+        return "news"
+    return "show"
+
+
+def _push_title(items):
+    """推送卡片顶部的大标题, 自带'提醒'安全关键字防过滤"""
+    kind = _classify_items(items)
+    label = {
+        "test": "推送测试",
+        "news": "资讯速报",
+        "show": "演出动态",
+        "mixed": "实时监控",
+    }[kind]
+    return f"{label} · {len(items)} 条 · 提醒"
+
+
+def _render_item_fields(it):
+    """根据 source 挑选该条目该显示哪些字段"""
+    src = it.get("source", "")
+    rows = []
+
+    if src in NEWS_SOURCES:
+        # 新闻: 只要 标题/媒体/时间/链接, 不要"在售/场馆/票价"
+        if it.get("venue"):  rows.append(f"媒体:{it['venue']}")
+        if it.get("date"):   rows.append(f"时间:{it['date']}")
+        if it.get("url"):    rows.append(f"[> 阅读原文]({it['url']})")
+        return rows
+
+    # 演出 / 其他: 完整字段集
+    if it.get("status"):      rows.append(f"在售:{it['status']}")
+    if it.get("city"):        rows.append(f"城市:{it['city']}")
+    if it.get("venue"):       rows.append(f"场馆:{it['venue']}")
+    if it.get("date"):        rows.append(f"时间:{it['date']}")
+    if it.get("price_range"): rows.append(f"票价:¥{it['price_range']}")
+    if it.get("url"):         rows.append(f"[> 打开详情]({it['url']})")
+    return rows
+
+
+def _build_wecom_md(items):
+    """企业微信 builder 就是 title + 按关键词分组 + 每条调通用字段渲染"""
+    lines = [f"# {_push_title(items)}"]
+    grouped = {}
+    for it in items:
+        grouped.setdefault(it.get("keyword", "其他"), []).append(it)
+    for kw, kw_items in grouped.items():
+        lines.append(f"\n## {kw} ({len(kw_items)} 条)")
+        for i, it in enumerate(kw_items, 1):
+            lines.append(f"\n**{i}. {it.get('title', '')}**")
+            lines.extend(_render_item_fields(it))
+    return "\n".join(lines)
+```
+
+**收益**:
+
+| 场景 | 生成的卡片标题 | 字段集 |
+|------|-------------|--------|
+| 这一轮只抓到特朗普新闻 | `资讯速报 · 6 条 · 提醒` | 媒体/时间/原文链接 |
+| 这一轮只抓到王一博演唱会 | `演出动态 · 3 条 · 提醒` | 场馆/城市/时间/票价/详情 |
+| 这一轮两种都有 | `实时监控 · 9 条 · 提醒` | 每条按自己来源挑字段 |
+| 手动触发 `--test-notify` | `推送测试 · 1 条 · 提醒` | 最小化 |
+
+**扩展方法**: 以后加视频/商品/工单等新类别, 只需:
+1. 往 `NEWS_SOURCES` 之类的类别集合里加 source 名
+2. 在 `_classify_items` 里多一个分支
+3. 在 `_render_item_fields` 里多一个字段集
+4. 在 `_push_title` 的 `label` dict 里多一个中文名
 
 ### 3.5 CLI 模式
 
@@ -476,6 +580,15 @@ def send_xxx(items, debug=False):
 
 只要按 `fetch_xxx` 模板写一个, 注册到 `PLATFORM_FUNCS`, 在 `config.json` 里把开关打开就完事。
 
+**如果新源是"新类别"(不同于已有的演出/新闻)**, 还要同步更新**智能渲染**(§3.4.2):
+
+1. 在 `NEWS_SOURCES` 之类的类别集合里加 source 名(或新建一个集合如 `PRODUCT_SOURCES`)
+2. `_classify_items` 里加一个分支(`"商品" / "工单" / ...`)
+3. `_push_title` 的 label dict 加一行中文名
+4. `_render_item_fields` 里给这个类别配专属字段集
+
+如果新源的数据能塞进现有模型(比如又是个新闻 RSS), 只需做第 1 步就行,其它三处自动生效。
+
 ### 选源原则(避免反爬陷阱)
 
 按"做起来由易到难"排序:
@@ -624,6 +737,8 @@ git push
 
 5. **CLI 模式齐全**。`--once`(跑一轮)、`--ci`(报告模式)、`--test-notify`(测推送)、`--debug`(详细日志)、`--reset`(清基线)。**部署期间至少要用三次 `--test-notify`,绝对值得**。
 
+6. **按内容类型智能渲染, 不要一套模板走天下**。当系统扩展到多类监控(新闻/演出/商品/工单)时, 把"这一轮是什么性质"抽成一个分类函数 `_classify_items`, 让标题和字段按类型切换。否则新闻条目显示"场馆:路透社"这种语义错误会让用户尴尬。**这个抽象让系统从单一领域顺滑扩展到多领域**。
+
 ### 选型层面
 
 1. **能选 RSS 不选 JSON, 能选 JSON 不选 HTML, 能选静态 HTML 不选 JS 动态**。开发心智成本由低到高排序。
@@ -664,17 +779,20 @@ git push
 
 ## 11. 本项目最终交付物清单
 
-- ✓ Python 主脚本 1500 行,3 数据源 + 2 推送通道 + CLI 完整
-- ✓ `config.json` 一改即生效
+- ✓ Python 主脚本 1500 行,**3 数据源**(juzimima / sina / googlenews) + **2 推送通道**(企业微信 / PushPlus) + CLI 完整
+- ✓ `config.json` 一改即生效(艺人关键词 / 新闻关键词 / 频率 / 平台开关)
 - ✓ GitHub Actions 每 30 分钟自动运行
 - ✓ 增量去重 + 静默吸收防刷屏
-- ✓ 企业微信卡片格式美化
+- ✓ **按内容类型智能渲染推送**(资讯速报 / 演出动态 / 实时监控 / 推送测试)
+- ✓ 按数据源差异化字段(新闻用"媒体", 演出用"场馆", 不会语义错乱)
+- ✓ 企业微信卡片格式美化(每字段独立一行, 一级标题 + 关键词二级标题)
 - ✓ 一键测试推送 (`workflow_dispatch` 勾选 `test_push`)
 - ✓ 所有状态自动持久化到仓库
 
 **月成本: ¥0  
 人工干预: 添加新关键词时改一次 config.json  
-持续运行: 24x7 不间断**
+持续运行: 24x7 不间断  
+可扩展: 加新类别(商品/工单/股价...) 只需加 4 处配置**
 
 ---
 
