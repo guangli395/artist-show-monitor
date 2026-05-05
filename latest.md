@@ -1,120 +1,130 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-05 05:27**
-- 本轮扫到 202 条, 新增 **14** 条
+- 最近更新: **2026-05-05 07:31**
+- 本轮扫到 215 条, 新增 **13** 条
 
 ---
 
-## 本轮新发现 (14 条)
+## 本轮新发现 (13 条)
 
-### 不忘(2019泰国粉丝见面会现场)_王一博_单曲在线试听_酷我音乐
+### 今天，蔡徐坤 沉浸式化身新专辑主打歌《Deadman》中的专属角色登上2026MetGala，他看起来
 
-- 艺人/关键词: **王一博**
+- 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019053irm.html>
+- 链接: <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002kbbc.html>
 
-### 周杰伦《霍元甲》跟练方案发布，边听歌边燃脂
+### 如何抢购周杰伦新加坡演唱会的门票，有哪几种优先购票通道？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5581431993_m14cade4b9033019cce.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801je7i.html>
 
-### 【真·4K修复】周杰伦《雨下一整晚》MV
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019053mvi.html>
-
-### “周同学”演唱会风雨无阻 - 文体 - 东南网厦门频道
+### 周杰伦新加坡演唱会预售开启，2027年连唱三天，票价及抢票攻略速览
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019053k9i.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801je78.html>
 
-### 特朗普放话“撤军”，欧盟惊诧
+### 美国小企业抓狂：去年对华关税一团糟，现在又拿不到退款
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-05 03:36
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTFA3RE5PaWMwZ0o2UDNhaDRXM041eFViZVBOdWRadEdCaE1paDZmZ3htaFRsWU90aTdLQ19FLWZXWHBBazduM3JqbEJfLW9icFRka1B1c3B0UnNNSXpLazhKZ05DRUZMRFFUS2NDME5kVlNDWThkVUE?oc=5>
+- 场馆: 观察者
+- 时间: 2026-05-05 06:19
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBWMmduQ2NBcVJUWGRBLUp3dFgyQVRVUm8wNUNpNmJVdDRjOUFBWGVmSGtPNUkwSkh3RndBREl1eW9uY1R3VXRXQ2s0a1BvQnVONnp2aUVDTFFZaWV4THFLUTI3M1hsSTdsVVE?oc=5>
 
-### 特朗普承认自己以前常买中国货
+### 霍尔木兹海峡：特朗普的“自由计划”会如何保护船只通行
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-05 04:02
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ObTNlLWJCc1oya3A2YVNYYmhmbHlNazVQd1RkcHRGUTlfNG5IX3I1QXpGcThpN3M0UHlmbVNhcEJ2N2FDUnEybXF3VQ?oc=5>
+- 场馆: BBC
+- 时间: 2026-05-05 06:18
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHd1ZqbFhhRl9Lc0xpb0FTMlVDYkMtYlR0Mk5JNDFzNmx0akJFbjdQNUUzWmpRYldITHh5X2NyT2dMT0hoRGVMUVVJcklUTXNaSHJWV2g3NVZrcUZMRXNYcjVZem14UdIBa0FVX3lxTFBDRkhwOFB0bkZ0YmU5MllZREFxd2tuMURDRV9SUVAybmEwZnNac0J1dU1DUkVUZXE1UmZUcFJrVzhVVE5CVUxGd3dxbmdUMTJmNktYcy1ZZG5YLWkwSzl3NzVyWG9vRWhPWG5N?oc=5>
 
-### 事关霍尔木兹海峡，特朗普预告4日上午启动，伊朗发出警告
+### “停火协议”完了？特朗普“刻意淡化”，阿联酋谴责，伊朗军方警告、外长抨击“自由计划”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街见闻
+- 时间: 2026-05-05 01:32
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE92Q1BTdF94T1BYOVlFSzlVX2x2bFFDQjZqdzhQeExUTzFWZ1Q0dUxybW55ZFFvRGo1b0hjc3pwNFJUNnBjSDBoZkY0TGxveXVnNVhr?oc=5>
+
+### 特朗普要用卡塔尔送的豪华飞机当“空军一号”，国内舆论炸了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-05-04 03:52
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1tYnpIejhqLTdIZ3J3SHVVdFVXNFJlckZ6WDB3NV85VmpaUjJUUFQ3dGZNY0dkYzQtYWlmdmJBelZxd1JfX09sXzJaX0k?oc=5>
+- 时间: 2026-05-05 04:51
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1pSHZ6d2hzUFkyRVdKYzFOcElqXzM1SXNYZm1zM3lqRUx2dDRMNjlzY1ZSaVJXcjc4YnYxZHppODNGcDByVVZtbklwb1M?oc=5>
 
-### 要疏通霍尔木兹海峡，特朗普这次说到做到？美军宣称打击伊朗船只
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-05-05 02:36
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1xTEtxcjlBTERpalI3RGRmdEVTVGQ5ZjNYSC1sWUtuRDlNcWU4TW9nc0F4UWR4LWd2Z0ZXUTBkUGlud1VDbjRBV2k2OA?oc=5>
-
-### 霍尔木兹海峡，突传大消息！特朗普，最新发声，伊朗回应！黄金、白银飘绿，原油跳水！
+### 特朗普：我在过去8个月让美国赚了450亿美元
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-04 23:52
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE1xQVVYQ19JQnlsYUZYYTJBNmNYSmNsOHlreEpnSjRRQ0tNSmNzaUxKdjYyZzQxWUx4UzFDZ1lXaG1abW9va2tlVldHRHJNQ01vZGo3ZXFGU3FLU3BnaXkzb25EV3J1VDdtcFhxVW1LMUhSNkp4dHc?oc=5>
+- 时间: 2026-05-04 19:12
+- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxQOVh0LTRuMU5lRGhFUUpWbDREdS1qQ0RtUElDTEJ5UUNRbWV5dmlWV0VGSWkxc3A2bDItQWdmc3dEc09YRUpMNFZDTWhFdUtmZEFaelBQNDU1T1dFRy1vMXlxTmU5a19mOUVBOTFyRV9Kby1QbkRRaDRVS3RBTVU3Sw?oc=5>
 
-### 特朗普：美国正从委内瑞拉获得数亿桶石油，与委方“关系良好”，大型能源企业已入委开发资源！已卖了1亿桶委石油，赚回出兵成本的37倍
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 每日经济新闻
-- 时间: 2026-05-05 04:22
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Ndm5hRVNBYW8tVHdjZWljQlNDQjRndmdfaFhpWVlYNy1fT3pMSk93QU96OXRadGtFcFpwSE9NTHgwdFQ1LU9uZ0tVdUZjQUNmQzBUYzJha0FSV1d0bWNrbnpjR3RlUQ?oc=5>
-
-### 特朗普称期待与习近平会面
+### 特朗普称美国正从委内瑞拉获得“数亿桶石油”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-05-04 23:57
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFB4SEx2c3ZLU3p3T2FZM29NQjkxMG9KcS1uVXdiSGpHS1NoYVBMOXVMckZjbDJJWlJQN2tFYU9fMVlBT3VBcGlaS0ZQQTdzV2hBQ0JxbTVPLTQ0WHE3UGhpZWNBRUpzZw?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-05-05 02:13
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBqS1duLWM0OUtrajB2bG11UklCanpvSEZxOFo3M2tpbXc2dTRJT0RQNE9WVFRCeklNWUJCQnJzMy1ORVRzZk5QMTNUSzhjd0o1UUtQcXRFaVlMMjNoVVk2RXFjM29vb0g4ZnJEbDUzeThid1dSZENJMHRhUGNFZ3M?oc=5>
 
-### 长平观察：查尔斯为特朗普上语言课，为何不是“背书单”？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: DW.com
-- 时间: 2026-05-02 10:38
-- 链接: <https://news.google.com/rss/articles/CBMi0AJBVV95cUxNN1hSNXpwSGpSU2NqTkNzcXFEQjFGTHJabEV3SEJ1aUJpNUhld2U3SmJmZ1VpSkY2VTE0ZXBTc2kwZ1RNM3hpZHRMVllySmdGVEVMN05LTEFXN0lYaVE5dnZBaXBpWE9uYl93RldqUnlHdjBRYlc3STZKOGFjQW1pT0lydUJnU3JjSXZPWTFNMnZCNUNHSFVJY3ZHZTNURmcxa3piTm1SSW5kMlZMRVdZcUFsRFhyOXRuZll2dV9NTEx0Z2Ftc3ZBQzg4RGQ4TUotVHhJZ2NLZjRvczVMQkVBVElOT1ZMOURQWFZBOWVFRXB2RlJpWEhxNmgwNmhCTVZXbnB1eWpTUk1yc3VvbmJIUXpWbWkxSS1yaVdwUHU5NWF4bW1NbGVSUDBUWkZWbU5qNGRKZ1hscHd3SHdPeHRzYjN3MzR5OWtwdzFZUVpBT1rSAdACQVVfeXFMTWJhcWV2cDdzZzJkZEVqU1FoaGVaWDNUbzlNVGZqM0Zudko5RUZSVzJWS1pLQU5nSnY5T2RjdDVVOU1rWlU1VWx2N19TejZpVk1iSE92d29OOW1QZGU1RFhKcWZ5dmhVVVFPMjJCZ3d2UlRucUtFR1JXZDk1U09NVlA3MG9fMlctS3dmM0xKNU42aHVNZ0FhOWJBOWxsU2pZZTd6aldIcTZEV0J2ajFyT04ybDk5QmU5NHdpaHhZWi1hUGMtZ2daRmZTZXlETmY5dFhvbXpzeDZIWFFzWDFKQzhlVkRVRXJ6V0xCbHZCOVoxN09ENkJ5ejBHV0dpdk1MQUdSN3c1dXFPOTM1Z3RnOTJ4QkRZaGRxWlpjZ2dGaTlnUjI0V1BvUXgzQ0hZTWZFcm1KbjQweWhyOG5IYS1lSHczZzdRcUdha19VTnB3ZUZh?oc=5>
-
-### 经济学家：特朗普和习近平终将使霍尔木兹海峡重开
+### 特朗普：我以前常买中国货
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-05-04 07:30
-- 链接: <https://news.google.com/rss/articles/CBMi1wJBVV95cUxNMFJmdkhING0zYUhzaDNCdzJfZ3VzdkRZd2lFcUNsV3pxOFdFYURFSlhvOV80U216aEl1eEo2Q244d3prRnNWcTVWYzZhSENvRlJSdFV5NG5uU0lYOTRIMm0xTjlTQXNmN2x6WUR3MDN3T3hlc0hoX3plV2ZqQWVwc1pWWkhkU09nZzQ5WTZ3Vmo1T2hQWVFxR1duMUhWek92VTFlam13RlVLOXF1NHFrVXZMWjNJcjd4TFYzVE45bE5zLWZ5RXBCMzFXNzB1dzE0cExJVDd6azhQbk8ydTFsVDNCWFBoaW42S3RzcFhfT1NQbVA5c2ctMVJTaEhYVHVIQ2wtX1BPVU16STBoMk02SGFWMWxfN0JqajUzczUwVkRQc0lISUJNX21weEZwa1pvM1FRVko1OU1ueHJqZDZsZ2VISzF2X2VhenVtSEUzdE1fVmdsS1RN?oc=5>
+- 场馆: 腾讯新闻
+- 时间: 2026-05-05 02:42
+- 链接: <https://news.google.com/rss/articles/CBMiV0FVX3lxTE1lcm00V1RQeE9pb1E2TnN2UnBTdEVHQkg2anFISlZXakJmbUhwWHJaTGxCNkhzcXUzWGhTT0Y4Wjg5ZGJvUTNtQkpkbG53U2J2R093U29Ucw?oc=5>
 
-### 特朗普呼吁加入霍尔木兹海峡任务让韩国感到棘手
+### 特朗普拒绝确认美伊停火协议是否仍然有效
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-05-05 04:48
-- 链接: <https://news.google.com/rss/articles/CBMimgFBVV95cUxQN1pXUlFxR1RhajJPeXBER2lHb1NlZmNOdEY1cFJRZmN0U2stcnNCejE1SHM0SjFVY3RTUUNQbGRzZnN4b3pnczh1QXE2aHFnQW9tb1B1VFF6amEtUnhVbnhWZFBoVDhIbHltQjlOSFpmcGV5N2FfX0NGcEhoa2tyQ25uVlhpNzk2b1JjenBydHpwbU5FS0FtdGln?oc=5>
+- 场馆: 东方财富
+- 时间: 2026-05-05 03:30
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhd3JrOUVfd0owQTRlRGJzRHhiVHZSZDM3WHdTSU1CT0U2b3hpemV6YWtaU1FuMmo2U0oydldYNEdnY1NpYkxMVjhEQnF3SWJaTXR6Q1ZBYU1UbjYzSkJHZw?oc=5>
+
+### 特朗普称美国与伊朗处于“迷你战争”状态
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: chinanews.com.cn
+- 时间: 2026-05-04 22:08
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE43eGE1YmtOVVlqVkpsQkJ0eGhGY1lzWEJJZW9yQ2I0eF9scWw5S0pVOTNpeEpYSHktU05LbVRYWmhyVVduWjhJSmNJN2Q4Zi1PTW5mWU5DMG9oRU15Q1Rvdm1tTnpVV1Ut?oc=5>
+
+### 刚刚，全线跳水！特朗普重磅发声！仅7只，商业航天再落关键一子，融资客埋伏的绩优潜力股曝光（附股）
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 证券时报
+- 时间: 2026-05-05 00:04
+- 链接: <https://news.google.com/rss/articles/CBMiXEFVX3lxTE9RUG44MHVVRGxJelQ1OHlxNWt3SXBJcjRiclJWeUtrMEJsM0hrdlNtZ205NXJDalRJTXBJWThEUnBPTzB2c0Vic3lhY24yNDZJRmdsMVVFLVFFMzVJ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-05 07:31  (13 条)
+
+- **蔡徐坤** | 今天，蔡徐坤 沉浸式化身新专辑主打歌《Deadman》中的专属角色登上2026MetGala，他看起来 <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002kbbc.html>
+- **周杰伦** | 如何抢购周杰伦新加坡演唱会的门票，有哪几种优先购票通道？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801je7i.html>
+- **周杰伦** | 周杰伦新加坡演唱会预售开启，2027年连唱三天，票价及抢票攻略速览 <https://k.sina.com.cn/article_7879776328_1d5abd84806801je78.html>
+- **特朗普** | 美国小企业抓狂：去年对华关税一团糟，现在又拿不到退款 <https://news.google.com/rss/articles/CBMiakFVX3lxTFBWMmduQ2NBcVJUWGRBLUp3dFgyQVRVUm8wNUNpNmJVdDRjOUFBWGVmSGtPNUkwSkh3RndBREl1eW9uY1R3VXRXQ2s0a1BvQnVONnp2aUVDTFFZaWV4THFLUTI3M1hsSTdsVVE?oc=5>
+- **特朗普** | 霍尔木兹海峡：特朗普的“自由计划”会如何保护船只通行 <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHd1ZqbFhhRl9Lc0xpb0FTMlVDYkMtYlR0Mk5JNDFzNmx0akJFbjdQNUUzWmpRYldITHh5X2NyT2dMT0hoRGVMUVVJcklUTXNaSHJWV2g3NVZrcUZMRXNYcjVZem14UdIBa0FVX3lxTFBDRkhwOFB0bkZ0YmU5MllZREFxd2tuMURDRV9SUVAybmEwZnNac0J1dU1DUkVUZXE1UmZUcFJrVzhVVE5CVUxGd3dxbmdUMTJmNktYcy1ZZG5YLWkwSzl3NzVyWG9vRWhPWG5N?oc=5>
+- **特朗普** | “停火协议”完了？特朗普“刻意淡化”，阿联酋谴责，伊朗军方警告、外长抨击“自由计划” <https://news.google.com/rss/articles/CBMiU0FVX3lxTE92Q1BTdF94T1BYOVlFSzlVX2x2bFFDQjZqdzhQeExUTzFWZ1Q0dUxybW55ZFFvRGo1b0hjc3pwNFJUNnBjSDBoZkY0TGxveXVnNVhr?oc=5>
+- **特朗普** | 特朗普要用卡塔尔送的豪华飞机当“空军一号”，国内舆论炸了 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1pSHZ6d2hzUFkyRVdKYzFOcElqXzM1SXNYZm1zM3lqRUx2dDRMNjlzY1ZSaVJXcjc4YnYxZHppODNGcDByVVZtbklwb1M?oc=5>
+- **特朗普** | 特朗普：我在过去8个月让美国赚了450亿美元 <https://news.google.com/rss/articles/CBMigAFBVV95cUxQOVh0LTRuMU5lRGhFUUpWbDREdS1qQ0RtUElDTEJ5UUNRbWV5dmlWV0VGSWkxc3A2bDItQWdmc3dEc09YRUpMNFZDTWhFdUtmZEFaelBQNDU1T1dFRy1vMXlxTmU5a19mOUVBOTFyRV9Kby1QbkRRaDRVS3RBTVU3Sw?oc=5>
+- **特朗普** | 特朗普称美国正从委内瑞拉获得“数亿桶石油” <https://news.google.com/rss/articles/CBMif0FVX3lxTFBqS1duLWM0OUtrajB2bG11UklCanpvSEZxOFo3M2tpbXc2dTRJT0RQNE9WVFRCeklNWUJCQnJzMy1ORVRzZk5QMTNUSzhjd0o1UUtQcXRFaVlMMjNoVVk2RXFjM29vb0g4ZnJEbDUzeThid1dSZENJMHRhUGNFZ3M?oc=5>
+- **特朗普** | 特朗普：我以前常买中国货 <https://news.google.com/rss/articles/CBMiV0FVX3lxTE1lcm00V1RQeE9pb1E2TnN2UnBTdEVHQkg2anFISlZXakJmbUhwWHJaTGxCNkhzcXUzWGhTT0Y4Wjg5ZGJvUTNtQkpkbG53U2J2R093U29Ucw?oc=5>
+- **特朗普** | 特朗普拒绝确认美伊停火协议是否仍然有效 <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhd3JrOUVfd0owQTRlRGJzRHhiVHZSZDM3WHdTSU1CT0U2b3hpemV6YWtaU1FuMmo2U0oydldYNEdnY1NpYkxMVjhEQnF3SWJaTXR6Q1ZBYU1UbjYzSkJHZw?oc=5>
+- **特朗普** | 特朗普称美国与伊朗处于“迷你战争”状态 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE43eGE1YmtOVVlqVkpsQkJ0eGhGY1lzWEJJZW9yQ2I0eF9scWw5S0pVOTNpeEpYSHktU05LbVRYWmhyVVduWjhJSmNJN2Q4Zi1PTW5mWU5DMG9oRU15Q1Rvdm1tTnpVV1Ut?oc=5>
+- **特朗普** | 刚刚，全线跳水！特朗普重磅发声！仅7只，商业航天再落关键一子，融资客埋伏的绩优潜力股曝光（附股） <https://news.google.com/rss/articles/CBMiXEFVX3lxTE9RUG44MHVVRGxJelQ1OHlxNWt3SXBJcjRiclJWeUtrMEJsM0hrdlNtZ205NXJDalRJTXBJWThEUnBPTzB2c0Vic3lhY24yNDZJRmdsMVVFLVFFMzVJ?oc=5>
 
 ### 2026-05-05 05:27  (14 条)
 
