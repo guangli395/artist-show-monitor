@@ -1,57 +1,39 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-05 01:24**
-- 本轮扫到 179 条, 新增 **12** 条
+- 最近更新: **2026-05-05 02:12**
+- 本轮扫到 188 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (12 条)
+## 本轮新发现 (9 条)
 
-### 人民官宣!王一博演唱，MV正式发布_亚洲_冰雪_运动
+### 王一博献唱五四青年节主题曲《未来我来》
 
 - 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019053acg.html>
+- 链接: <https://k.sina.com.cn/article_7879924004_m1d5ae192403301yi1a.html>
 
-### 蔡徐坤MetGala红毯暗黑造型灵感源自新专辑主打歌Deadman
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1765870915_m69410d4303301lq2w.html>
-
-### 蔡徐坤新歌《Deadman》剖析：向死而生的音乐告白与舆论风暴
+### 蔡徐坤携CT创始人亮相MetGala红毯，暗黑造型灵感源自新专辑
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801jd20.html>
+- 链接: <https://k.sina.com.cn/article_6597499539_m1893dda9303301s1dw.html>
 
-### 周杰伦演唱会唱《说好的幸福呢》引全场共鸣
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923551_m1d5ae175f03301jjru.html>
-
-### 周杰伦2024台北演唱会 Day3JayMe歌迷会点歌成功
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924015_m1d5ae192f03301j6hg.html>
-
-### 新战线突然开辟，特朗普怒率美国“两线作战”
+### 美国决定从德国撤军5000人，特朗普与默茨争拗升温
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-05-02 13:54
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9Mdmxkc1p0T3JESTJWZU1Bb0thNDBiVTA1YmtJNFY1aHQ1SUJLc3BPU244Q2F5R0lGNTJhUmZSVTlzaXhyTEo1RFh3bnI?oc=5>
+- 场馆: BBC
+- 时间: 2026-05-02 01:36
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1YcDREZFZCSW41WVVtT2RQN2w0ZHF6YmJiU2pwbENEeVowOEcxazJNR0JJQ0ZTRjRvbDB6aHVCbDlCcjFNSlpLRDRlWnBXZ0JtbzZIX2tSemdtRWpvaXBkOUI4alU3UdIBa0FVX3lxTFBOQmszbURqTllwSzdwc1NVU0NvbHNRZGFSNnJ5WDJ4LXltajNtelYtTEtVNUVmcnRsQXZIclhheFhkbzRwOGZQYW01ZjNyYTZ3WUY4WjQtLUxqQVJjVzMtVklJRURLUTgyZ2FN?oc=5>
 
-### 特朗普未明言伊朗违反停火协议
+### 特朗普：无法想象伊朗的提案是可接受的 以批准购买两个中队的F-35I和F-15IA战机
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-04 23:40
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE0wX2l5MW0xc0FwOGR1eml2dVZvMmczaXlzTkxoUGw2WnNaTXotTlJHYkJtRk5HY2RHZFFPWDBjdHFjY2ROS0Z2a0NyVQ?oc=5>
+- 场馆: RFI
+- 时间: 2026-05-03 10:16
+- 链接: <https://news.google.com/rss/articles/CBMi2ANBVV95cUxQNkYtbnN2cU1uNEV0WmNPY3dxNENnczdxSTVxTXI0MTEwVHd4aXJYSjhMQTY2LVlleTcweTF1bzdvSERFb0dySzB4Z1BzUjZBZW5ubDdJcjZ0eHVVd2k1VzVQM2xMV1dVU3hnV0Q4bHM0WmFjazR5QWM1NWZaNmk3c1lZQ2JKc1FuV0h3LTFSdjh4eHZkcVZnMmpqUlo0djNsMXctVVR3RUNvRHFscVo1dzN0X0RFeThBZnkxbENqZnpxMkR5c3o1eGVVR0IwZkx3ZEZUZDJvMzl6ajBPeXNPdGk2ZWMwSWVFandBSTNWSjhvY2dydjhYM2c3UTVWOVVYTE1jbnFBdHVZMXhDTnZTY0gxeGhoNW9vU29vWkVOUEtlWUNJNlFmOXdnaEhGR3lBVnN5S2ZWcmhmRjJYQ0JnSHNHRjFLZ0NXa3dKaE9wbDJ5cE9fdlo0T2pZTzNxMTl5QngtTHZDTDlIS0pTeWhOel9aS1hGQVBsZmUzUlZVaTNCUTVmN05DNVdOVjFLTTVmOUR4SU9GNk52UUhkal9adVotRUgwMU9MRnlzTnVHV1FHeXFkOEtsZlVHM2FWaUVXbHQ2dlVobXlZT21pWDVZOC15QnlfVTlk?oc=5>
 
 ### 美国加州调查特朗普政府取消海上风电租赁协议一事
 
@@ -59,44 +41,56 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-05-04 23:46
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZWNkSGk4eGlkdEdudndUSlNVTFZQX0pYb0ZPdmhOLVYtbzJLelNhSUZrangyd0F5TDIxdXdnWWF5T1hnaGR1bUg2eEFQVkhfUlBaS0p1TFU0WTNhOWZLTlpaQkxqRUNVMXRxekE5RXAyT281eEU2V25HNDBMQ01SQk92WWNxYWRkNjBOa3hCOHFIQ1JhSEMzbWtLdUMxSnpGN0szdUZ4Umx1QUJKUkVuRWJpeXVuZDY2VTQyU2dRN3lCOHdPSXBqUC1SRF9Gdlg2WTlYYnhZbmJMTlhQZ3M0?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZm1HcEF4OEtKckRlYVZtRk5OS0xNRHVjVF9UWndoUGVWVWctOFNzLUZ5RXVzTkRET2xZTXlKTmVmaU9YMFlseDN0Z1g3QV9mdE41cWhzaWp0Rkxla1BEWlM2ZEtOaEh0T3FYT0NmMTh4WmtZRkdiSDdZajVXYm5GRGtLOEJscWFncmVWOEhSWFdTS0ZIYTZXa3pNTUJXdzBEa2pZOUc2ZU1mQTNYOTUxOUtMUlpPYVRXWmVuX1REX25kbmx1eGYwR1BYelM4S0UyZnZSOGJ6Nm1WeWJXajhv?oc=5>
 
-### 特朗普威胁：若伊朗向美国船只开火，将被“从地球表面抹去”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 腾讯新闻
-- 时间: 2026-05-04 23:00
-- 链接: <https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1RUYwRnZXUXVETkN0b0o2aXBxNzhkckZGWWY1SjZNXzhqWGNmbVZaaDN0UHlYeS15bVdCczZhUk43UXpUMVpudlZCS1ZOMmp0ZndBMXJxdw?oc=5>
-
-### 美伊开火争夺霍尔木兹主导、特朗普威胁“炸飞”，停火以来阿联酋首次遭袭，伊称未计划袭阿
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-05-04 19:35
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZTUxYMXdnbG1oenk3YldZQ3Z6cy0wci1wWlRGQ25NWk8tUG1wN1EweW5kckJOVVhrenpUbUp6UzFFMlpIY29kM3hYbEF2UXBzQ0xR?oc=5>
-
-### 特朗普拒绝确认美伊停火协议是否仍然有效：如果我回答了，你会说这个人不够聪明当总统
+### 美国白宫附近发生枪击，一名枪手被击毙，特朗普当时在白宫有会见活动
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-05 00:00
-- 链接: <https://news.google.com/rss/articles/CBMiowFBVV95cUxOeE9Fdm9EcDFyWS1GRDgxcGNwbUxRVTAxRjY3WTB5NC1RY01OeWRleXQxbTlROWxKVF94Z1pQR2U0b0V4bTFNRnFEbkFLUW9sOGtqWXp5U1VTbWhaRU5WcVB5aHpySjZCMEV3dnJYd3lGa3JObFNJUTlBZXNwaThPV3JoM3ltdm5YNlkxYTJobEowSkFiWlhTVjRiWXZUa2x0aExF?oc=5>
+- 时间: 2026-05-05 00:36
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTFAwcWJQaHNvUDNMSW54LWRIYzFvWUlsNGd4Q3F1RGhyMk1ZRXZDbVpxSkp6aEJPdW5WbGZqRzZjWUVSdVZhUGVCS2N3cVJCaXhrQXo4N0ozTzdsTVg2SjVUTGd3MkJYc1kxT0ZxRUtRdkdXUVVyN3c?oc=5>
 
-### 刚刚，全线跳水！特朗普重磅发声！仅7只，商业航天再落关键一子，融资客埋伏的绩优潜力股曝光（附股）
+### 不死心！“日本怂恿特朗普访华途中访日，告诉他…”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 证券时报
-- 时间: 2026-05-05 00:18
-- 链接: <https://news.google.com/rss/articles/CBMiXEFVX3lxTFBlY0QzQ3ByYncyOVozeFdqdDBuYTluZHVMVTNoVlEyOGpxUDBjNkdzVDM4SVBzVTQxVzlvY3FJQmF0Z082NUphd3RGSmpLd29GNU5pbzhfaHNfelZ5?oc=5>
+- 场馆: 观察者
+- 时间: 2026-05-03 08:04
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1fbjJnSzJjdGxrbHNSZ1ZyTjg2UW9Yem9ZUGxNRWFzRXpPcV84aG84X0dpTUNTUmpGMVRBSmRnODl1am5TQWhLbThNVFRpOWJfLUhrWndQdUNXbUl2T1Q2NE1mSVVPN1NoNFE?oc=5>
+
+### 特朗普威胁伊朗不要向美国船开火
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: chinanews.com.cn
+- 时间: 2026-05-04 23:16
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE55Y0pWTDNoa0k3TEJLdVFLRm41VUhja1E2LXdNYWtDeG03aGMwa2lWR2pKZ2J3M2RERWFka29NOU9yQ0hKNy1hY01vcUZETHBKeU1tN1FpUzRtWmNOVl9Cc0FMTmRQZk8x?oc=5>
+
+### 特朗普一声“撤兵”，默茨“服软”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-05-04 11:20
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4tUGplT2tYWTNtbDR1VWs4a2NHaE5MYk5ncUw2M2syOGp2WjI2NUNJRlFTbldwOTZSQzdVWVhvb1FrWk9qQ3lBOWNUQmdQWHJNb0ZLbTdTUHQzaFMyZTUtZUI2SWwySjg?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-05 02:12  (9 条)
+
+- **王一博** | 王一博献唱五四青年节主题曲《未来我来》 <https://k.sina.com.cn/article_7879924004_m1d5ae192403301yi1a.html>
+- **蔡徐坤** | 蔡徐坤携CT创始人亮相MetGala红毯，暗黑造型灵感源自新专辑 <https://k.sina.com.cn/article_6597499539_m1893dda9303301s1dw.html>
+- **特朗普** | 美国决定从德国撤军5000人，特朗普与默茨争拗升温 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1YcDREZFZCSW41WVVtT2RQN2w0ZHF6YmJiU2pwbENEeVowOEcxazJNR0JJQ0ZTRjRvbDB6aHVCbDlCcjFNSlpLRDRlWnBXZ0JtbzZIX2tSemdtRWpvaXBkOUI4alU3UdIBa0FVX3lxTFBOQmszbURqTllwSzdwc1NVU0NvbHNRZGFSNnJ5WDJ4LXltajNtelYtTEtVNUVmcnRsQXZIclhheFhkbzRwOGZQYW01ZjNyYTZ3WUY4WjQtLUxqQVJjVzMtVklJRURLUTgyZ2FN?oc=5>
+- **特朗普** | 特朗普：无法想象伊朗的提案是可接受的 以批准购买两个中队的F-35I和F-15IA战机 <https://news.google.com/rss/articles/CBMi2ANBVV95cUxQNkYtbnN2cU1uNEV0WmNPY3dxNENnczdxSTVxTXI0MTEwVHd4aXJYSjhMQTY2LVlleTcweTF1bzdvSERFb0dySzB4Z1BzUjZBZW5ubDdJcjZ0eHVVd2k1VzVQM2xMV1dVU3hnV0Q4bHM0WmFjazR5QWM1NWZaNmk3c1lZQ2JKc1FuV0h3LTFSdjh4eHZkcVZnMmpqUlo0djNsMXctVVR3RUNvRHFscVo1dzN0X0RFeThBZnkxbENqZnpxMkR5c3o1eGVVR0IwZkx3ZEZUZDJvMzl6ajBPeXNPdGk2ZWMwSWVFandBSTNWSjhvY2dydjhYM2c3UTVWOVVYTE1jbnFBdHVZMXhDTnZTY0gxeGhoNW9vU29vWkVOUEtlWUNJNlFmOXdnaEhGR3lBVnN5S2ZWcmhmRjJYQ0JnSHNHRjFLZ0NXa3dKaE9wbDJ5cE9fdlo0T2pZTzNxMTl5QngtTHZDTDlIS0pTeWhOel9aS1hGQVBsZmUzUlZVaTNCUTVmN05DNVdOVjFLTTVmOUR4SU9GNk52UUhkal9adVotRUgwMU9MRnlzTnVHV1FHeXFkOEtsZlVHM2FWaUVXbHQ2dlVobXlZT21pWDVZOC15QnlfVTlk?oc=5>
+- **特朗普** | 美国加州调查特朗普政府取消海上风电租赁协议一事 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZm1HcEF4OEtKckRlYVZtRk5OS0xNRHVjVF9UWndoUGVWVWctOFNzLUZ5RXVzTkRET2xZTXlKTmVmaU9YMFlseDN0Z1g3QV9mdE41cWhzaWp0Rkxla1BEWlM2ZEtOaEh0T3FYT0NmMTh4WmtZRkdiSDdZajVXYm5GRGtLOEJscWFncmVWOEhSWFdTS0ZIYTZXa3pNTUJXdzBEa2pZOUc2ZU1mQTNYOTUxOUtMUlpPYVRXWmVuX1REX25kbmx1eGYwR1BYelM4S0UyZnZSOGJ6Nm1WeWJXajhv?oc=5>
+- **特朗普** | 美国白宫附近发生枪击，一名枪手被击毙，特朗普当时在白宫有会见活动 <https://news.google.com/rss/articles/CBMidkFVX3lxTFAwcWJQaHNvUDNMSW54LWRIYzFvWUlsNGd4Q3F1RGhyMk1ZRXZDbVpxSkp6aEJPdW5WbGZqRzZjWUVSdVZhUGVCS2N3cVJCaXhrQXo4N0ozTzdsTVg2SjVUTGd3MkJYc1kxT0ZxRUtRdkdXUVVyN3c?oc=5>
+- **特朗普** | 不死心！“日本怂恿特朗普访华途中访日，告诉他…” <https://news.google.com/rss/articles/CBMiakFVX3lxTE1fbjJnSzJjdGxrbHNSZ1ZyTjg2UW9Yem9ZUGxNRWFzRXpPcV84aG84X0dpTUNTUmpGMVRBSmRnODl1am5TQWhLbThNVFRpOWJfLUhrWndQdUNXbUl2T1Q2NE1mSVVPN1NoNFE?oc=5>
+- **特朗普** | 特朗普威胁伊朗不要向美国船开火 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE55Y0pWTDNoa0k3TEJLdVFLRm41VUhja1E2LXdNYWtDeG03aGMwa2lWR2pKZ2J3M2RERWFka29NOU9yQ0hKNy1hY01vcUZETHBKeU1tN1FpUzRtWmNOVl9Cc0FMTmRQZk8x?oc=5>
+- **特朗普** | 特朗普一声“撤兵”，默茨“服软” <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4tUGplT2tYWTNtbDR1VWs4a2NHaE5MYk5ncUw2M2syOGp2WjI2NUNJRlFTbldwOTZSQzdVWVhvb1FrWk9qQ3lBOWNUQmdQWHJNb0ZLbTdTUHQzaFMyZTUtZUI2SWwySjg?oc=5>
 
 ### 2026-05-05 01:24  (12 条)
 
