@@ -1,27 +1,19 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-05 21:34**
-- 本轮扫到 273 条, 新增 **3** 条
+- 最近更新: **2026-05-05 22:51**
+- 本轮扫到 275 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (2 条)
 
-### 特朗普总统说，他将在美中领导人会晤期间向习近平提起黎智英案
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-05-05 13:12
-- 链接: <https://news.google.com/rss/articles/CBMiuwFBVV95cUxPblVJT0kyQl9kOHpBMTdiaEo0SkVfb3Q1bDNYSTcxVllyUlhxekh0YmxuRjJaZDQ5dTlLS3laVjhVWEJWRzQ1dVJlQ3gxNzRsWVh5REVwOHF6Ny1oVG9WX3l2RlU2QkZ6dkRRRDVBaFBoOGs0Rk9HNWo5eUJZLXNzRzNQS2FvYlRBSFF1TlpjSTZKY1lnWkpQV1ZKaWs0aHdPaThfZDkxQnRmVjVWN0RSd29Lb0pscUdJMUhv0gG-AUFVX3lxTE5BUzV6SDloWUxKR1Y4ejdGRElaQWtPalRpc2dVV2dDTndoLW1xS1JwN3RNajZDNHR3NkJQdVJ5WlQtSGR2NEZ4RElYakdDam9RdkhGcFdMOTFRUGZ0alRQT0NfMzZ4Vmw2VGQxbmRCd282b2xVR1Z0SlJWclZWU2VRYmtpSFR0QWdEblh3dHl4UG9ZUnBPY3Q2M05uX3VEckl5N0ZKZE14dE53WTU2blMwUlhhczBuMVduUklYbVE?oc=5>
-
-### 反对率高达62%，特朗普民调支持率跌至新低
+### 国金宏观赵宏鹤：冲出霍尔木兹海峡
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-04 00:21
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9GUGZ2WGJTbnRXbHE5WFpQakxHbzNVNUZ0Y0UxR0NJS2VTMGRLYVI2Q01NU3AyeHljQ1pHR0RXOHVYREVKTk5XclhvMl9MNWZRX2FueFVPY1ZyRGRPVnQyd0NscFBPTDJHR0ZlN3lPOWE3SFBCM3FoWA?oc=5>
+- 时间: 2026-05-05 15:45
+- 链接: <https://news.google.com/rss/articles/CBMiowFBVV95cUxOb3VIZW5sWE55cGxVaVFISHp2SWFxNjY4NGdkMlpqZlZOenlyMEs5ZG5Db0stZlRBUGVGc0Zhbml1aEhNRVB5MF84MDlhbnpIT3RkVE1GaF9kOElDS2xmV29IOGRjUDU3emloNFVpODdYR1lwZFR1MDNZUEpfVG9lN054QXMwNnJoRHBFRWVNa3VESlc1VkV3R0QwNTlST3V6eXYw?oc=5>
 
 ### 特朗普称伊朗“知道什么不该做”
 
@@ -29,12 +21,17 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-05-05 15:42
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRVp4REIxMFBncXFoVkUwRFU5dF9UcXlNWWhWM0RCczRkUm8zX1hTVkpLWDQ3Y1N0LTk4enlidWxETjVxWHBVU2RsN0VNNVdNZjNabkEyTEFTNUxZdFFHNU13VnhFR0NpSFVNUS0zM1ZwVVRwdWZWX3JvdDVRRkw4enE5MlhLS0F3cExHNTB2ZWhYaEZpMDFJejhuaENTY0Y3a2U5aTRRZU5WbVhrQjFKTkFvUUhGRGd4RTNWQ3lFNnlVSVRGM2VHNWVQcTdraUdT?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMFFhZHl3LXp6RWZEakFzekExNWxiN3VtaXF3djZTY2hidjhHdHpCOGNxTS1xYmNBTUVYWGhnclhLTnR3QUJra1lZT09XeS1pRHZwb29UQzdFVV91bVp0OFl3dDBIYUxDWHczeFRlZXpIMXZOZ2dwV0JxQnAzSnIwbV9XajFyNmVVSGduZXd4cjRUOGVUa2xkZjV3MF9JN3V2bHhOR1R4MmpjLXFWWWd1ajRSdVNVc3RCRWViQWY3RnozWW9RWXdhMEhLdjFqcEpy?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-05 22:51  (2 条)
+
+- **特朗普** | 国金宏观赵宏鹤：冲出霍尔木兹海峡 <https://news.google.com/rss/articles/CBMiowFBVV95cUxOb3VIZW5sWE55cGxVaVFISHp2SWFxNjY4NGdkMlpqZlZOenlyMEs5ZG5Db0stZlRBUGVGc0Zhbml1aEhNRVB5MF84MDlhbnpIT3RkVE1GaF9kOElDS2xmV29IOGRjUDU3emloNFVpODdYR1lwZFR1MDNZUEpfVG9lN054QXMwNnJoRHBFRWVNa3VESlc1VkV3R0QwNTlST3V6eXYw?oc=5>
+- **特朗普** | 特朗普称伊朗“知道什么不该做” <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMFFhZHl3LXp6RWZEakFzekExNWxiN3VtaXF3djZTY2hidjhHdHpCOGNxTS1xYmNBTUVYWGhnclhLTnR3QUJra1lZT09XeS1pRHZwb29UQzdFVV91bVp0OFl3dDBIYUxDWHczeFRlZXpIMXZOZ2dwV0JxQnAzSnIwbV9XajFyNmVVSGduZXd4cjRUOGVUa2xkZjV3MF9JN3V2bHhOR1R4MmpjLXFWWWd1ajRSdVNVc3RCRWViQWY3RnozWW9RWXdhMEhLdjFqcEpy?oc=5>
 
 ### 2026-05-05 21:34  (3 条)
 
