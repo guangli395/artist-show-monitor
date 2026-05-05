@@ -1,27 +1,27 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-05 20:04**
-- 本轮扫到 270 条, 新增 **4** 条
+- 最近更新: **2026-05-05 21:34**
+- 本轮扫到 273 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (3 条)
 
-### 美国交通部称，特朗普政府已与墨西哥达成共识，以解决美国对2015年美墨航空运输协定的担忧。
+### 特朗普总统说，他将在美中领导人会晤期间向习近平提起黎智英案
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-05-05 13:12
+- 链接: <https://news.google.com/rss/articles/CBMiuwFBVV95cUxPblVJT0kyQl9kOHpBMTdiaEo0SkVfb3Q1bDNYSTcxVllyUlhxekh0YmxuRjJaZDQ5dTlLS3laVjhVWEJWRzQ1dVJlQ3gxNzRsWVh5REVwOHF6Ny1oVG9WX3l2RlU2QkZ6dkRRRDVBaFBoOGs0Rk9HNWo5eUJZLXNzRzNQS2FvYlRBSFF1TlpjSTZKY1lnWkpQV1ZKaWs0aHdPaThfZDkxQnRmVjVWN0RSd29Lb0pscUdJMUhv0gG-AUFVX3lxTE5BUzV6SDloWUxKR1Y4ejdGRElaQWtPalRpc2dVV2dDTndoLW1xS1JwN3RNajZDNHR3NkJQdVJ5WlQtSGR2NEZ4RElYakdDam9RdkhGcFdMOTFRUGZ0alRQT0NfMzZ4Vmw2VGQxbmRCd282b2xVR1Z0SlJWclZWU2VRYmtpSFR0QWdEblh3dHl4UG9ZUnBPY3Q2M05uX3VEckl5N0ZKZE14dE53WTU2blMwUlhhczBuMVduUklYbVE?oc=5>
+
+### 反对率高达62%，特朗普民调支持率跌至新低
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-05 19:20
-- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xZkFuUExsb21zZjlMMjl2Z3c5VkpjcVZiazNOQ3J4ZlZYN2R6b1BoczR1T3VtUUwybDRoa3BXTENrTGUyeVFrUkhXaVgyREk?oc=5>
-
-### 美中元首会晤在即 特朗普称习近平“了不起的人”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-05-05 19:12
-- 链接: <https://news.google.com/rss/articles/CBMi0gJBVV95cUxNaFVCUm9NbE45REtiTkcyejVyN1duMUNRZENiZjd5QWZGeVZ3elRHck8xNTNnblhwTTlRMHlMWkdDOHN4T1dFb3RhaXdjWFdlWUVJSzlhQVVjbGNJZEE4Q19RdjhNdWRsUVpnNEJOdVVaT3dCR3lZdVE3NzdEVTY3T1AtZURERWhvby1mb19ESzNta0M0dWxfeWRLNGR6Qm82WE5RUUhFakJLUzdXcGlSZUNBTnFFcGFjWkltVTRvcFRCVlVVREttVlhvbnRrdmEwZFpZWlRpNHFfOTVfVHhuNG9iTlNvTUVkdzVDQ1BUV1F3SlNoZVZlcTlYMUdGeVU1LXdmOTVnV3dReVp2T1RDRnVVUzdRMkhsX2xJUjVoQVh5UmlpTU8tZHplYUxKeG5JTnlnVS14SU9uZ28yVTdvb0cwbnpQYXRvTWZNcmRscjB1Zw?oc=5>
+- 时间: 2026-05-04 00:21
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9GUGZ2WGJTbnRXbHE5WFpQakxHbzNVNUZ0Y0UxR0NJS2VTMGRLYVI2Q01NU3AyeHljQ1pHR0RXOHVYREVKTk5XclhvMl9MNWZRX2FueFVPY1ZyRGRPVnQyd0NscFBPTDJHR0ZlN3lPOWE3SFBCM3FoWA?oc=5>
 
 ### 特朗普称伊朗“知道什么不该做”
 
@@ -29,20 +29,18 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-05-05 15:42
-- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxPTFFPWjBrSFF3TzR3NHVBQ0JHS01URDRCQm4yVi1mSDNGMlhVZ1lPNldxR2tITGc3U0xPUHZFRzhJR1F1Vm9yM1Nta2l5Q0RQNGRQak9Mbllrc3JzNG01TGxBY0ZwWkdQSElEOGUwUnVWQjVFNC1sRUJyQkdobm5ROHpqOTVXMWtld3VyZWVIbmtLanY1OV9Ib2FDcUVkeHFKcGlHM282SEtXSk5ETHFkM3BSMTNLUENVMjZBZEpvUExpaTYxdVBPMEdyaXpjQ1U?oc=5>
-
-### Donald Trump expresses wish to talk Strait of Hormuz on China trip
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: news.tvb.com
-- 时间: 2026-05-05 12:36
-- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOTdoQndZNFJmbWhlTHd6ancxOWVURnB1NTZzY0RsQ19sYnI1MjNZdXJ3bDdOekRRRDYya3VWZG12TFNONWZqRFFFQjlBVndjZ1E3MF9zb1k5dk5CVVMyQ2d4bDR6MHRlaGNiNEQ3ZDVRcHRoTlA0dmg5d2ZnazZ4WVRMQmE5OGUwSTNqYk1zdmt0RzFlNmhnUDdHMWZjWl9kaG8tV2trMGxLY1NwdUtqR041YTZ1YzVKa1F2cHhPQmRSdk95Uzg5eFcxeDJDWlB2Zmc?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRVp4REIxMFBncXFoVkUwRFU5dF9UcXlNWWhWM0RCczRkUm8zX1hTVkpLWDQ3Y1N0LTk4enlidWxETjVxWHBVU2RsN0VNNVdNZjNabkEyTEFTNUxZdFFHNU13VnhFR0NpSFVNUS0zM1ZwVVRwdWZWX3JvdDVRRkw4enE5MlhLS0F3cExHNTB2ZWhYaEZpMDFJejhuaENTY0Y3a2U5aTRRZU5WbVhrQjFKTkFvUUhGRGd4RTNWQ3lFNnlVSVRGM2VHNWVQcTdraUdT?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-05 21:34  (3 条)
+
+- **特朗普** | 特朗普总统说，他将在美中领导人会晤期间向习近平提起黎智英案 <https://news.google.com/rss/articles/CBMiuwFBVV95cUxPblVJT0kyQl9kOHpBMTdiaEo0SkVfb3Q1bDNYSTcxVllyUlhxekh0YmxuRjJaZDQ5dTlLS3laVjhVWEJWRzQ1dVJlQ3gxNzRsWVh5REVwOHF6Ny1oVG9WX3l2RlU2QkZ6dkRRRDVBaFBoOGs0Rk9HNWo5eUJZLXNzRzNQS2FvYlRBSFF1TlpjSTZKY1lnWkpQV1ZKaWs0aHdPaThfZDkxQnRmVjVWN0RSd29Lb0pscUdJMUhv0gG-AUFVX3lxTE5BUzV6SDloWUxKR1Y4ejdGRElaQWtPalRpc2dVV2dDTndoLW1xS1JwN3RNajZDNHR3NkJQdVJ5WlQtSGR2NEZ4RElYakdDam9RdkhGcFdMOTFRUGZ0alRQT0NfMzZ4Vmw2VGQxbmRCd282b2xVR1Z0SlJWclZWU2VRYmtpSFR0QWdEblh3dHl4UG9ZUnBPY3Q2M05uX3VEckl5N0ZKZE14dE53WTU2blMwUlhhczBuMVduUklYbVE?oc=5>
+- **特朗普** | 反对率高达62%，特朗普民调支持率跌至新低 <https://news.google.com/rss/articles/CBMieEFVX3lxTE9GUGZ2WGJTbnRXbHE5WFpQakxHbzNVNUZ0Y0UxR0NJS2VTMGRLYVI2Q01NU3AyeHljQ1pHR0RXOHVYREVKTk5XclhvMl9MNWZRX2FueFVPY1ZyRGRPVnQyd0NscFBPTDJHR0ZlN3lPOWE3SFBCM3FoWA?oc=5>
+- **特朗普** | 特朗普称伊朗“知道什么不该做” <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRVp4REIxMFBncXFoVkUwRFU5dF9UcXlNWWhWM0RCczRkUm8zX1hTVkpLWDQ3Y1N0LTk4enlidWxETjVxWHBVU2RsN0VNNVdNZjNabkEyTEFTNUxZdFFHNU13VnhFR0NpSFVNUS0zM1ZwVVRwdWZWX3JvdDVRRkw4enE5MlhLS0F3cExHNTB2ZWhYaEZpMDFJejhuaENTY0Y3a2U5aTRRZU5WbVhrQjFKTkFvUUhGRGd4RTNWQ3lFNnlVSVRGM2VHNWVQcTdraUdT?oc=5>
 
 ### 2026-05-05 20:04  (4 条)
 
