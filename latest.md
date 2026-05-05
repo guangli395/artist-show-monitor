@@ -1,114 +1,107 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-05 07:31**
-- 本轮扫到 215 条, 新增 **13** 条
+- 最近更新: **2026-05-05 09:57**
+- 本轮扫到 225 条, 新增 **10** 条
 
 ---
 
-## 本轮新发现 (13 条)
+## 本轮新发现 (10 条)
 
-### 今天，蔡徐坤 沉浸式化身新专辑主打歌《Deadman》中的专属角色登上2026MetGala，他看起来
+### 王一博：获央视重用，在《2026五四晚会》上压轴演唱晚会主题曲
 
-- 艺人/关键词: **蔡徐坤**
+- 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002kbbc.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c00190543w0.html>
 
-### 如何抢购周杰伦新加坡演唱会的门票，有哪几种优先购票通道？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801je7i.html>
-
-### 周杰伦新加坡演唱会预售开启，2027年连唱三天，票价及抢票攻略速览
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801je78.html>
-
-### 美国小企业抓狂：去年对华关税一团糟，现在又拿不到退款
+### 北约秘书长：北约欧洲国家听懂特朗普的话了 正落实美军请求
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-05-05 06:19
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBWMmduQ2NBcVJUWGRBLUp3dFgyQVRVUm8wNUNpNmJVdDRjOUFBWGVmSGtPNUkwSkh3RndBREl1eW9uY1R3VXRXQ2s0a1BvQnVONnp2aUVDTFFZaWV4THFLUTI3M1hsSTdsVVE?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-05-04 07:23
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE93N2dnVngzRkJGWGE4aEp6TlRnQUtKR2hqaVFzclkzTTh0cUxCZk02ald6aDRGQllCMERfV2FQUGVFaDFZOHZZR0dvcE5iRnRhVTJOTzNsLU9yRVU0dl9vWDJJRXRCTGFmQnlsY1IyU09jOE5l?oc=5>
 
-### 霍尔木兹海峡：特朗普的“自由计划”会如何保护船只通行
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-05-05 06:18
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHd1ZqbFhhRl9Lc0xpb0FTMlVDYkMtYlR0Mk5JNDFzNmx0akJFbjdQNUUzWmpRYldITHh5X2NyT2dMT0hoRGVMUVVJcklUTXNaSHJWV2g3NVZrcUZMRXNYcjVZem14UdIBa0FVX3lxTFBDRkhwOFB0bkZ0YmU5MllZREFxd2tuMURDRV9SUVAybmEwZnNac0J1dU1DUkVUZXE1UmZUcFJrVzhVVE5CVUxGd3dxbmdUMTJmNktYcy1ZZG5YLWkwSzl3NzVyWG9vRWhPWG5N?oc=5>
-
-### “停火协议”完了？特朗普“刻意淡化”，阿联酋谴责，伊朗军方警告、外长抨击“自由计划”
+### 立场反转，特朗普政府考虑对AI模型进行安全审查
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-05-05 01:32
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE92Q1BTdF94T1BYOVlFSzlVX2x2bFFDQjZqdzhQeExUTzFWZ1Q0dUxybW55ZFFvRGo1b0hjc3pwNFJUNnBjSDBoZkY0TGxveXVnNVhr?oc=5>
+- 场馆: thepaper.cn
+- 时间: 2026-05-05 09:05
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE1DZThQSTZ0ZS1lRmJ5b3hSUThyNUg1ZXlETGZCSk9kTUVrUVpWTDBtMDRNckFQZVhrdlI3c1FWRHpNY0NucVQzWmtIRFV0RktzclJCMTJDbVNRUWdrQlE?oc=5>
 
-### 特朗普要用卡塔尔送的豪华飞机当“空军一号”，国内舆论炸了
+### 美国总统特朗普：（谈......_7x24快讯_新浪财经
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-05 09:39
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBhMlpoRHJkNnJFeFpTMXo2ZXpfYjJ6ODZQanJlZHo1dGVXSk5ob3Y0VlRFMzZodWRLQmR6UEJoR0EtS3VvRXVMQUxpUQ?oc=5>
+
+### 特朗普将美伊冲突形容为“迷你战争”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-05-05 04:51
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1pSHZ6d2hzUFkyRVdKYzFOcElqXzM1SXNYZm1zM3lqRUx2dDRMNjlzY1ZSaVJXcjc4YnYxZHppODNGcDByVVZtbklwb1M?oc=5>
+- 时间: 2026-05-05 08:49
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9hYjZmVmdsZWFmSlQ1NkNCbEhadzlTd2piVW51V19kNjRPY3dCT3BiMjRXaVNCVERLdXdLQXJjbmpWMkw5ZzNMNG1iWU0?oc=5>
 
-### 特朗普：我在过去8个月让美国赚了450亿美元
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-04 19:12
-- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxQOVh0LTRuMU5lRGhFUUpWbDREdS1qQ0RtUElDTEJ5UUNRbWV5dmlWV0VGSWkxc3A2bDItQWdmc3dEc09YRUpMNFZDTWhFdUtmZEFaelBQNDU1T1dFRy1vMXlxTmU5a19mOUVBOTFyRV9Kby1QbkRRaDRVS3RBTVU3Sw?oc=5>
-
-### 特朗普称美国正从委内瑞拉获得“数亿桶石油”
+### 特朗普炮轰民调
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-05 02:13
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBqS1duLWM0OUtrajB2bG11UklCanpvSEZxOFo3M2tpbXc2dTRJT0RQNE9WVFRCeklNWUJCQnJzMy1ORVRzZk5QMTNUSzhjd0o1UUtQcXRFaVlMMjNoVVk2RXFjM29vb0g4ZnJEbDUzeThid1dSZENJMHRhUGNFZ3M?oc=5>
+- 时间: 2026-05-05 08:51
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE54UFlQNEpmT21pTjd0ZWVMZk5lQ29rZkFWWGVvZEx0OWlOaEE4NDFKbTlRZ3BBaTBpN2xSN2RFcVJINXNVN1VhUUtmV3k5aHZBUWdNUFB2MXVnT0hscUd2a0cyaXR3amhoOUZKUk9GckxMOXAtbUNXdA?oc=5>
 
-### 特朗普：我以前常买中国货
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 腾讯新闻
-- 时间: 2026-05-05 02:42
-- 链接: <https://news.google.com/rss/articles/CBMiV0FVX3lxTE1lcm00V1RQeE9pb1E2TnN2UnBTdEVHQkg2anFISlZXakJmbUhwWHJaTGxCNkhzcXUzWGhTT0Y4Wjg5ZGJvUTNtQkpkbG53U2J2R093U29Ucw?oc=5>
-
-### 特朗普拒绝确认美伊停火协议是否仍然有效
+### 特朗普称美伊处于迷你战争状态
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-05-05 03:30
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhd3JrOUVfd0owQTRlRGJzRHhiVHZSZDM3WHdTSU1CT0U2b3hpemV6YWtaU1FuMmo2U0oydldYNEdnY1NpYkxMVjhEQnF3SWJaTXR6Q1ZBYU1UbjYzSkJHZw?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-05-05 07:56
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFB6Yl85OFowNTA3bllydF8wT1V6Zkd1bXNRZC0tMEVLbXZIaG9GVHpBZndVazhwN3c0cEY2cHNLd0wwbUlUT1p6Y2N3bw?oc=5>
 
-### 特朗普称美国与伊朗处于“迷你战争”状态
+### Trump issues new threat to Iran’s civilian infrastructure
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-05-04 22:08
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE43eGE1YmtOVVlqVkpsQkJ0eGhGY1lzWEJJZW9yQ2I0eF9scWw5S0pVOTNpeEpYSHktU05LbVRYWmhyVVduWjhJSmNJN2Q4Zi1PTW5mWU5DMG9oRU15Q1Rvdm1tTnpVV1Ut?oc=5>
+- 场馆: 澳門廣播電視股份有限公司
+- 时间: 2026-05-05 06:46
+- 链接: <https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aeHBSY2tDMGxCb1p6MncwMVN2QUc3S3ZXaUpZbHdwRFJxNHVnclJvLTJRT3piMFduaWEwWEtEMmJNUEtfOHhQczJ1Ukx0VUEwaGRzX0pWRktqQjlUMlRR?oc=5>
 
-### 刚刚，全线跳水！特朗普重磅发声！仅7只，商业航天再落关键一子，融资客埋伏的绩优潜力股曝光（附股）
+### 路透独家：美官员称美国准备就移民问题对中国实施签证制裁
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 证券时报
-- 时间: 2026-05-05 00:04
-- 链接: <https://news.google.com/rss/articles/CBMiXEFVX3lxTE9RUG44MHVVRGxJelQ1OHlxNWt3SXBJcjRiclJWeUtrMEJsM0hrdlNtZ205NXJDalRJTXBJWThEUnBPTzB2c0Vic3lhY24yNDZJRmdsMVVFLVFFMzVJ?oc=5>
+- 场馆: RFI
+- 时间: 2026-05-05 07:56
+- 链接: <https://news.google.com/rss/articles/CBMimANBVV95cUxOVTA4eVB6ZHhUWjZNN3VvTXZqYk1tc0hWUjVETmRZTVEtQTlEam9WMFNGX2FHQmpxaXZ2elpVVG1EbDItWk14MjVscW9vTlhxR2NEazJpeUpqYkY0Q09yb0s5cUZ2RGJOSGIzWWpBVnN4WklLSmVuUDVfX0RvbzlMSThvYlZQS3VQQUd1bzlkRjhGdzl4M1FwZzdqMXY4WWV3V3d1dTU5bFJvX0RfTUM4Rk12OUdMX3N3cTZmY3BoNmw4Q3dxS0ZjbmFWREI4ZWxrNVZVcDZCRzVFbWxmZGstV1d0enJidElyS0lIS3NVenFHM1RnV1BSRDkzVzVYUVRaUm5weXZ0R3Npb3FjamdXV05QUDBsZktacXpIekRKNlU0aS05WURoOHNsemFIREo1bWNScDJUdUZTbnVEVHNVbDc0aXp1SmtGSUlrMXZ2clliVGtqc1Q0MUdNVHRYekZuUkNBa3l6LWtkNFZ6empUa2ZCSkkwTVpKdWFKTjNCZUhGX2RpcmF3T3dPN2pUQ3B1Zy13Y2s1UmY?oc=5>
+
+### 中美摩擦持续特习会进入筹备阶段– 普通话主页
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Radio Free Asia
+- 时间: 2026-05-05 08:51
+- 链接: <https://news.google.com/rss/articles/CBMihgFBVV95cUxOTzR6enVuMnUtb2p1aXRWeFZoclVYWm5penBIZThYUGNjTnlfcGlPWnFFcVpMSGJYYTZjcFJtVzhGb1VqaFdIRXFKdmpPekpqOGwxRmkwYTlxN2Y3WExqcVlvTmdRYlBnR0ljR2l0d1lva2RQdDcyd09La0hmNVZwQXlBSGpHQQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-05 09:57  (10 条)
+
+- **王一博** | 王一博：获央视重用，在《2026五四晚会》上压轴演唱晚会主题曲 <https://k.sina.com.cn/article_7857201856_1d45362c00190543w0.html>
+- **特朗普** | 北约秘书长：北约欧洲国家听懂特朗普的话了 正落实美军请求 <https://news.google.com/rss/articles/CBMidEFVX3lxTE93N2dnVngzRkJGWGE4aEp6TlRnQUtKR2hqaVFzclkzTTh0cUxCZk02ald6aDRGQllCMERfV2FQUGVFaDFZOHZZR0dvcE5iRnRhVTJOTzNsLU9yRVU0dl9vWDJJRXRCTGFmQnlsY1IyU09jOE5l?oc=5>
+- **特朗普** | 立场反转，特朗普政府考虑对AI模型进行安全审查 <https://news.google.com/rss/articles/CBMiXkFVX3lxTE1DZThQSTZ0ZS1lRmJ5b3hSUThyNUg1ZXlETGZCSk9kTUVrUVpWTDBtMDRNckFQZVhrdlI3c1FWRHpNY0NucVQzWmtIRFV0RktzclJCMTJDbVNRUWdrQlE?oc=5>
+- **特朗普** | 美国总统特朗普：（谈......_7x24快讯_新浪财经 <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBhMlpoRHJkNnJFeFpTMXo2ZXpfYjJ6ODZQanJlZHo1dGVXSk5ob3Y0VlRFMzZodWRLQmR6UEJoR0EtS3VvRXVMQUxpUQ?oc=5>
+- **特朗普** | 特朗普将美伊冲突形容为“迷你战争” <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9hYjZmVmdsZWFmSlQ1NkNCbEhadzlTd2piVW51V19kNjRPY3dCT3BiMjRXaVNCVERLdXdLQXJjbmpWMkw5ZzNMNG1iWU0?oc=5>
+- **特朗普** | 特朗普炮轰民调 <https://news.google.com/rss/articles/CBMieEFVX3lxTE54UFlQNEpmT21pTjd0ZWVMZk5lQ29rZkFWWGVvZEx0OWlOaEE4NDFKbTlRZ3BBaTBpN2xSN2RFcVJINXNVN1VhUUtmV3k5aHZBUWdNUFB2MXVnT0hscUd2a0cyaXR3amhoOUZKUk9GckxMOXAtbUNXdA?oc=5>
+- **特朗普** | 特朗普称美伊处于迷你战争状态 <https://news.google.com/rss/articles/CBMiS0FVX3lxTFB6Yl85OFowNTA3bllydF8wT1V6Zkd1bXNRZC0tMEVLbXZIaG9GVHpBZndVazhwN3c0cEY2cHNLd0wwbUlUT1p6Y2N3bw?oc=5>
+- **Trump** | Trump issues new threat to Iran’s civilian infrastructure <https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aeHBSY2tDMGxCb1p6MncwMVN2QUc3S3ZXaUpZbHdwRFJxNHVnclJvLTJRT3piMFduaWEwWEtEMmJNUEtfOHhQczJ1Ukx0VUEwaGRzX0pWRktqQjlUMlRR?oc=5>
+- **Trump** | 路透独家：美官员称美国准备就移民问题对中国实施签证制裁 <https://news.google.com/rss/articles/CBMimANBVV95cUxOVTA4eVB6ZHhUWjZNN3VvTXZqYk1tc0hWUjVETmRZTVEtQTlEam9WMFNGX2FHQmpxaXZ2elpVVG1EbDItWk14MjVscW9vTlhxR2NEazJpeUpqYkY0Q09yb0s5cUZ2RGJOSGIzWWpBVnN4WklLSmVuUDVfX0RvbzlMSThvYlZQS3VQQUd1bzlkRjhGdzl4M1FwZzdqMXY4WWV3V3d1dTU5bFJvX0RfTUM4Rk12OUdMX3N3cTZmY3BoNmw4Q3dxS0ZjbmFWREI4ZWxrNVZVcDZCRzVFbWxmZGstV1d0enJidElyS0lIS3NVenFHM1RnV1BSRDkzVzVYUVRaUm5weXZ0R3Npb3FjamdXV05QUDBsZktacXpIekRKNlU0aS05WURoOHNsemFIREo1bWNScDJUdUZTbnVEVHNVbDc0aXp1SmtGSUlrMXZ2clliVGtqc1Q0MUdNVHRYekZuUkNBa3l6LWtkNFZ6empUa2ZCSkkwTVpKdWFKTjNCZUhGX2RpcmF3T3dPN2pUQ3B1Zy13Y2s1UmY?oc=5>
+- **Trump** | 中美摩擦持续特习会进入筹备阶段– 普通话主页 <https://news.google.com/rss/articles/CBMihgFBVV95cUxOTzR6enVuMnUtb2p1aXRWeFZoclVYWm5penBIZThYUGNjTnlfcGlPWnFFcVpMSGJYYTZjcFJtVzhGb1VqaFdIRXFKdmpPekpqOGwxRmkwYTlxN2Y3WExqcVlvTmdRYlBnR0ljR2l0d1lva2RQdDcyd09La0hmNVZwQXlBSGpHQQ?oc=5>
 
 ### 2026-05-05 07:31  (13 条)
 
