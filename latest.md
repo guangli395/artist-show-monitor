@@ -1,94 +1,107 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-05 09:57**
-- 本轮扫到 225 条, 新增 **10** 条
+- 最近更新: **2026-05-05 11:16**
+- 本轮扫到 235 条, 新增 **10** 条
 
 ---
 
 ## 本轮新发现 (10 条)
 
-### 王一博：获央视重用，在《2026五四晚会》上压轴演唱晚会主题曲
+### 怎么不会懂他呢 你只是挡住了他最害怕面对镜头的时刻周杰伦 演唱会
 
-- 艺人/关键词: **王一博**
+- 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c00190543w0.html>
+- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301bczo.html>
 
-### 北约秘书长：北约欧洲国家听懂特朗普的话了 正落实美军请求
+### 突撤驻德美军惹众怒！北约盟友彻底慌了：特朗普真要抛弃欧洲？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-05-04 07:23
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE93N2dnVngzRkJGWGE4aEp6TlRnQUtKR2hqaVFzclkzTTh0cUxCZk02ald6aDRGQllCMERfV2FQUGVFaDFZOHZZR0dvcE5iRnRhVTJOTzNsLU9yRVU0dl9vWDJJRXRCTGFmQnlsY1IyU09jOE5l?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-05-05 10:41
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE93bzh1RWw4S2MteHdBTEhQay1zMGZ6QUlSSmhjUzhNVnpNc3gzamVvLUx3Wm1abjNZU0E5RGhKLVZOWXJJd0lHdkpNQXJSWGNKd1FadktTbWFjSUsxc21tRTFNU2JIWlhtWUlyT2VFSjNXYnNFemRHRA?oc=5>
+
+### 为何特朗普时期的贸易赤字如此费解（又极易被操控解读）
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-04 13:09
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZWt4eGd4cW96eFZ4bnZNbG52QXNucWFvYVFCNDdDWEJnT1JiWFU4YnVUQ0tBQWItcFRjckw0NTN4eGg2NmxIV3lyajNYcjhfOFJVLWVFeUdWaEZOSGtCVktfTDFHVlZkWmZ0a0ZqVG8zQWI4RTQtY2dSWU9LakhMZTBLRkRsTmZxZHJXVm9IaXZrMDlhRUJOMlhVdzRxMEZ1NXZud2ZrYWM3aE5XQy1fT1R5LWlOZTREWGlMMWRiajV3NUIxZUhJWU54Z2Utd3ZyQlBnRmVKSTNnWGFERjJJ?oc=5>
+
+### 欧盟再就特朗普汽车关税威胁回应：已做好各种准备
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-05 09:57
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5zaHQxeWRESF9HaEM3TnJvV2ttUF9ZSlB5b1VoWHAzUi0wcmZPTGdNM3ZPZVdzN2hPQWJDeVJUVXM0QU5sb0dfZWs4NA?oc=5>
+
+### 特朗普威胁提高欧洲汽车关税 欧盟：已为所有情景做好准备
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-05-05 10:28
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBMZmVlX21nc1EyVENzcjFGM1c3QmVPeHpxMWU5U0t4aF9Qem9VZUh2SUlvdzRZbkUxcEVvNV9CNWR3b0pzRHhINmgweUNON2hXR3hmUEhSdWJqeVhXNE1ESVp5ZmtqUTZyYUE?oc=5>
+
+### 霍尔木兹又打起来了！特朗普还首次公开承认是“战争” | 京酿馆
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-05 10:47
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE5NVjBXYjB1dmh6OVd6bHJMckV1VU5UeXY2OEF2cXdOMWU3STJnTkF2aUE3MDV0UjNMdXJFeUUtVmkwNWtLM2hlZ0VMVk1PTExxTUxJaDFLb29sQ1VDcmdHY2QwbHJuQTFEOVNuNnpLcURjTUg3NWc?oc=5>
+
+### 美伊局势追踪：霍尔木兹博弈升级 特朗普警告将伊朗“从地球表面抹去”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 财联社
+- 时间: 2026-05-04 17:15
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTFBsZ0EtN1Y1NTlKQi0zWV96OTF6ZnR5alZobmxTOXVqb0licmZrdWpuck9mX1dWZGJtTDJqWUs5OXhOaG1LV0dpMQ?oc=5>
+
+### 特朗普过去24小时都忙了什么？（2026-05-05）
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-05 11:03
+- 链接: <https://news.google.com/rss/articles/CBMingFBVV95cUxNREVGbGdnLXJWNlhjbXBVbXdRS3g5cnpZWlA4N1JaZXk4NUhtUHRKMkZJNVFkbHozNnA1bGxtT0YydWxIQjFmd3FZaUZ4c2FsMWhSWklMNEt2OVdNdFJHSDFjaVV6Z3pCVGVaWVdlTThQRm9jQW51YXNsNF9yZG4teldJMW02aWo2bEpHdTJPRVBwYUxlOXduczFCdkVidw?oc=5>
+
+### 对伊朗战争支持率低迷 特朗普：民调数据是“假的”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-05-05 08:11
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE8xT2E4OGpmOU9raHRTVHoyYVB4cGVFdThuYmJhT3R6NzRrSXdRWDNqdE11MkkxOUJXT2ExZlBNOVlOYXRSbEhqclBCeG0tNHhWNGhILTNFSzEyX2VnSlhyV0g0eUFySF9VcmpZUnc0RmlicjF3aDRLdElXWTE4UVk?oc=5>
 
 ### 立场反转，特朗普政府考虑对AI模型进行安全审查
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-05-05 09:05
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE1DZThQSTZ0ZS1lRmJ5b3hSUThyNUg1ZXlETGZCSk9kTUVrUVpWTDBtMDRNckFQZVhrdlI3c1FWRHpNY0NucVQzWmtIRFV0RktzclJCMTJDbVNRUWdrQlE?oc=5>
-
-### 美国总统特朗普：（谈......_7x24快讯_新浪财经
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-05 09:39
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBhMlpoRHJkNnJFeFpTMXo2ZXpfYjJ6ODZQanJlZHo1dGVXSk5ob3Y0VlRFMzZodWRLQmR6UEJoR0EtS3VvRXVMQUxpUQ?oc=5>
-
-### 特朗普将美伊冲突形容为“迷你战争”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-05-05 08:49
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9hYjZmVmdsZWFmSlQ1NkNCbEhadzlTd2piVW51V19kNjRPY3dCT3BiMjRXaVNCVERLdXdLQXJjbmpWMkw5ZzNMNG1iWU0?oc=5>
-
-### 特朗普炮轰民调
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-05 08:51
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE54UFlQNEpmT21pTjd0ZWVMZk5lQ29rZkFWWGVvZEx0OWlOaEE4NDFKbTlRZ3BBaTBpN2xSN2RFcVJINXNVN1VhUUtmV3k5aHZBUWdNUFB2MXVnT0hscUd2a0cyaXR3amhoOUZKUk9GckxMOXAtbUNXdA?oc=5>
-
-### 特朗普称美伊处于迷你战争状态
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-05 07:56
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFB6Yl85OFowNTA3bllydF8wT1V6Zkd1bXNRZC0tMEVLbXZIaG9GVHpBZndVazhwN3c0cEY2cHNLd0wwbUlUT1p6Y2N3bw?oc=5>
-
-### Trump issues new threat to Iran’s civilian infrastructure
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 澳門廣播電視股份有限公司
-- 时间: 2026-05-05 06:46
-- 链接: <https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aeHBSY2tDMGxCb1p6MncwMVN2QUc3S3ZXaUpZbHdwRFJxNHVnclJvLTJRT3piMFduaWEwWEtEMmJNUEtfOHhQczJ1Ukx0VUEwaGRzX0pWRktqQjlUMlRR?oc=5>
-
-### 路透独家：美官员称美国准备就移民问题对中国实施签证制裁
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-05-05 07:56
-- 链接: <https://news.google.com/rss/articles/CBMimANBVV95cUxOVTA4eVB6ZHhUWjZNN3VvTXZqYk1tc0hWUjVETmRZTVEtQTlEam9WMFNGX2FHQmpxaXZ2elpVVG1EbDItWk14MjVscW9vTlhxR2NEazJpeUpqYkY0Q09yb0s5cUZ2RGJOSGIzWWpBVnN4WklLSmVuUDVfX0RvbzlMSThvYlZQS3VQQUd1bzlkRjhGdzl4M1FwZzdqMXY4WWV3V3d1dTU5bFJvX0RfTUM4Rk12OUdMX3N3cTZmY3BoNmw4Q3dxS0ZjbmFWREI4ZWxrNVZVcDZCRzVFbWxmZGstV1d0enJidElyS0lIS3NVenFHM1RnV1BSRDkzVzVYUVRaUm5weXZ0R3Npb3FjamdXV05QUDBsZktacXpIekRKNlU0aS05WURoOHNsemFIREo1bWNScDJUdUZTbnVEVHNVbDc0aXp1SmtGSUlrMXZ2clliVGtqc1Q0MUdNVHRYekZuUkNBa3l6LWtkNFZ6empUa2ZCSkkwTVpKdWFKTjNCZUhGX2RpcmF3T3dPN2pUQ3B1Zy13Y2s1UmY?oc=5>
-
-### 中美摩擦持续特习会进入筹备阶段– 普通话主页
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Radio Free Asia
-- 时间: 2026-05-05 08:51
-- 链接: <https://news.google.com/rss/articles/CBMihgFBVV95cUxOTzR6enVuMnUtb2p1aXRWeFZoclVYWm5penBIZThYUGNjTnlfcGlPWnFFcVpMSGJYYTZjcFJtVzhGb1VqaFdIRXFKdmpPekpqOGwxRmkwYTlxN2Y3WExqcVlvTmdRYlBnR0ljR2l0d1lva2RQdDcyd09La0hmNVZwQXlBSGpHQQ?oc=5>
+- 时间: 2026-05-05 09:31
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5JQVJVY1VlTlltb1VfMDNNN2loTHN5a19INTZLWnRMNXFrZGFVRm5MYklERWc5MXlrd1NfRjFnTkhsWWtqV2ZtUE5KaGg?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-05 11:16  (10 条)
+
+- **周杰伦** | 怎么不会懂他呢 你只是挡住了他最害怕面对镜头的时刻周杰伦 演唱会 <https://k.sina.com.cn/article_7879924009_m1d5ae192903301bczo.html>
+- **特朗普** | 突撤驻德美军惹众怒！北约盟友彻底慌了：特朗普真要抛弃欧洲？ <https://news.google.com/rss/articles/CBMieEFVX3lxTE93bzh1RWw4S2MteHdBTEhQay1zMGZ6QUlSSmhjUzhNVnpNc3gzamVvLUx3Wm1abjNZU0E5RGhKLVZOWXJJd0lHdkpNQXJSWGNKd1FadktTbWFjSUsxc21tRTFNU2JIWlhtWUlyT2VFSjNXYnNFemRHRA?oc=5>
+- **特朗普** | 为何特朗普时期的贸易赤字如此费解（又极易被操控解读） <https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZWt4eGd4cW96eFZ4bnZNbG52QXNucWFvYVFCNDdDWEJnT1JiWFU4YnVUQ0tBQWItcFRjckw0NTN4eGg2NmxIV3lyajNYcjhfOFJVLWVFeUdWaEZOSGtCVktfTDFHVlZkWmZ0a0ZqVG8zQWI4RTQtY2dSWU9LakhMZTBLRkRsTmZxZHJXVm9IaXZrMDlhRUJOMlhVdzRxMEZ1NXZud2ZrYWM3aE5XQy1fT1R5LWlOZTREWGlMMWRiajV3NUIxZUhJWU54Z2Utd3ZyQlBnRmVKSTNnWGFERjJJ?oc=5>
+- **特朗普** | 欧盟再就特朗普汽车关税威胁回应：已做好各种准备 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5zaHQxeWRESF9HaEM3TnJvV2ttUF9ZSlB5b1VoWHAzUi0wcmZPTGdNM3ZPZVdzN2hPQWJDeVJUVXM0QU5sb0dfZWs4NA?oc=5>
+- **特朗普** | 特朗普威胁提高欧洲汽车关税 欧盟：已为所有情景做好准备 <https://news.google.com/rss/articles/CBMiakFVX3lxTFBMZmVlX21nc1EyVENzcjFGM1c3QmVPeHpxMWU5U0t4aF9Qem9VZUh2SUlvdzRZbkUxcEVvNV9CNWR3b0pzRHhINmgweUNON2hXR3hmUEhSdWJqeVhXNE1ESVp5ZmtqUTZyYUE?oc=5>
+- **特朗普** | 霍尔木兹又打起来了！特朗普还首次公开承认是“战争” | 京酿馆 <https://news.google.com/rss/articles/CBMidkFVX3lxTE5NVjBXYjB1dmh6OVd6bHJMckV1VU5UeXY2OEF2cXdOMWU3STJnTkF2aUE3MDV0UjNMdXJFeUUtVmkwNWtLM2hlZ0VMVk1PTExxTUxJaDFLb29sQ1VDcmdHY2QwbHJuQTFEOVNuNnpLcURjTUg3NWc?oc=5>
+- **特朗普** | 美伊局势追踪：霍尔木兹博弈升级 特朗普警告将伊朗“从地球表面抹去” <https://news.google.com/rss/articles/CBMiSEFVX3lxTFBsZ0EtN1Y1NTlKQi0zWV96OTF6ZnR5alZobmxTOXVqb0licmZrdWpuck9mX1dWZGJtTDJqWUs5OXhOaG1LV0dpMQ?oc=5>
+- **特朗普** | 特朗普过去24小时都忙了什么？（2026-05-05） <https://news.google.com/rss/articles/CBMingFBVV95cUxNREVGbGdnLXJWNlhjbXBVbXdRS3g5cnpZWlA4N1JaZXk4NUhtUHRKMkZJNVFkbHozNnA1bGxtT0YydWxIQjFmd3FZaUZ4c2FsMWhSWklMNEt2OVdNdFJHSDFjaVV6Z3pCVGVaWVdlTThQRm9jQW51YXNsNF9yZG4teldJMW02aWo2bEpHdTJPRVBwYUxlOXduczFCdkVidw?oc=5>
+- **特朗普** | 对伊朗战争支持率低迷 特朗普：民调数据是“假的” <https://news.google.com/rss/articles/CBMif0FVX3lxTE8xT2E4OGpmOU9raHRTVHoyYVB4cGVFdThuYmJhT3R6NzRrSXdRWDNqdE11MkkxOUJXT2ExZlBNOVlOYXRSbEhqclBCeG0tNHhWNGhILTNFSzEyX2VnSlhyV0g0eUFySF9VcmpZUnc0RmlicjF3aDRLdElXWTE4UVk?oc=5>
+- **特朗普** | 立场反转，特朗普政府考虑对AI模型进行安全审查 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5JQVJVY1VlTlltb1VfMDNNN2loTHN5a19INTZLWnRMNXFrZGFVRm5MYklERWc5MXlrd1NfRjFnTkhsWWtqV2ZtUE5KaGg?oc=5>
 
 ### 2026-05-05 09:57  (10 条)
 
