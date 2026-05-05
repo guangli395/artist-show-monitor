@@ -1,33 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-05 11:16**
-- 本轮扫到 235 条, 新增 **10** 条
+- 最近更新: **2026-05-05 12:45**
+- 本轮扫到 243 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (10 条)
+## 本轮新发现 (8 条)
 
-### 怎么不会懂他呢 你只是挡住了他最害怕面对镜头的时刻周杰伦 演唱会
+### 王一博的《青春探路者》和《未来我来》两首主题曲是如何在社会上产生影响力的？
 
-- 艺人/关键词: **周杰伦**
+- 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301bczo.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801jfgu.html>
 
-### 突撤驻德美军惹众怒！北约盟友彻底慌了：特朗普真要抛弃欧洲？
+### 王一博连续两年获央视邀请献唱五四主题曲的原因是什么？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-05 10:41
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE93bzh1RWw4S2MteHdBTEhQay1zMGZ6QUlSSmhjUzhNVnpNc3gzamVvLUx3Wm1abjNZU0E5RGhKLVZOWXJJd0lHdkpNQXJSWGNKd1FadktTbWFjSUsxc21tRTFNU2JIWlhtWUlyT2VFSjNXYnNFemRHRA?oc=5>
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801jfgq.html>
 
-### 为何特朗普时期的贸易赤字如此费解（又极易被操控解读）
+### 赫格塞思：特朗普已明确表示，我们不会卷入这项国家建设工程。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-04 13:09
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZWt4eGd4cW96eFZ4bnZNbG52QXNucWFvYVFCNDdDWEJnT1JiWFU4YnVUQ0tBQWItcFRjckw0NTN4eGg2NmxIV3lyajNYcjhfOFJVLWVFeUdWaEZOSGtCVktfTDFHVlZkWmZ0a0ZqVG8zQWI4RTQtY2dSWU9LakhMZTBLRkRsTmZxZHJXVm9IaXZrMDlhRUJOMlhVdzRxMEZ1NXZud2ZrYWM3aE5XQy1fT1R5LWlOZTREWGlMMWRiajV3NUIxZUhJWU54Z2Utd3ZyQlBnRmVKSTNnWGFERjJJ?oc=5>
+- 时间: 2026-05-05 12:33
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9uVy12cUdIZXdrd2pQRTA2RnhvdWlDLXFpeXpIOVhDbVBnZDJmXzF3UWFJRDRUY2RBemVKeUdIMlNXRUFBdnVuYjBhRQ?oc=5>
+
+### 特朗普承认自己曾“不得不”常买中国货
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-05 12:06
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1LTkotRmcyaktHbzZiRTFZSTR3dF9pclpmajFGal9majhmZHlZSlVwM051SlV5VFkzYWVqcE5aMTdfaWVaYzkwc2ZHNA?oc=5>
+
+### 特朗普邀功：被困船只跟着美国走
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-05-04 00:53
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBzU3lia0hWQTdaSFo0MnZSUUtMY1FmSlVxUEVlLWwxOWZVbHhTel8tNUhqalFEZ0NodnByaV95dDRXU3lYWmtPU21RTnd6ZHpWQUpCclNiRkJfem9VZDhzNUFXcWdoREptWkE?oc=5>
+
+### 欧盟回应特朗普威胁
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-05 10:27
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE8xV1h6OEdOb2JtZmNzYzJzQjQzQ2hQZXF6aHNNLW1vSFdMWVBldnRVU2ZlVzZnYU5nVW55TXR4VXBlTldnMmkzcW93X1E1V1p5ak90cDJEU09VcW1pRVJPTWI2MkNLZmhhV0J4dWlGR3FnbjF1YWc?oc=5>
 
 ### 欧盟再就特朗普汽车关税威胁回应：已做好各种准备
 
@@ -35,60 +57,31 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-05-05 09:57
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5zaHQxeWRESF9HaEM3TnJvV2ttUF9ZSlB5b1VoWHAzUi0wcmZPTGdNM3ZPZVdzN2hPQWJDeVJUVXM0QU5sb0dfZWs4NA?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE5UQUEtUXhyMVE0Z255SWR4YWU1TDV0bmcyNVpUa29GZ3RCM3dKWmVuaDhFSUZsQVh4cXNpZ1o2c3pDUEt6TGg3VzlPUFRpdlE?oc=5>
 
-### 特朗普威胁提高欧洲汽车关税 欧盟：已为所有情景做好准备
+### “房间里的大象”——欧洲各国谋求团结，但特朗普“阴霾不散”
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-05-05 10:28
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBMZmVlX21nc1EyVENzcjFGM1c3QmVPeHpxMWU5U0t4aF9Qem9VZUh2SUlvdzRZbkUxcEVvNV9CNWR3b0pzRHhINmgweUNON2hXR3hmUEhSdWJqeVhXNE1ESVp5ZmtqUTZyYUE?oc=5>
-
-### 霍尔木兹又打起来了！特朗普还首次公开承认是“战争” | 京酿馆
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-05 10:47
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE5NVjBXYjB1dmh6OVd6bHJMckV1VU5UeXY2OEF2cXdOMWU3STJnTkF2aUE3MDV0UjNMdXJFeUUtVmkwNWtLM2hlZ0VMVk1PTExxTUxJaDFLb29sQ1VDcmdHY2QwbHJuQTFEOVNuNnpLcURjTUg3NWc?oc=5>
-
-### 美伊局势追踪：霍尔木兹博弈升级 特朗普警告将伊朗“从地球表面抹去”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-05-04 17:15
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTFBsZ0EtN1Y1NTlKQi0zWV96OTF6ZnR5alZobmxTOXVqb0licmZrdWpuck9mX1dWZGJtTDJqWUs5OXhOaG1LV0dpMQ?oc=5>
-
-### 特朗普过去24小时都忙了什么？（2026-05-05）
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-05 11:03
-- 链接: <https://news.google.com/rss/articles/CBMingFBVV95cUxNREVGbGdnLXJWNlhjbXBVbXdRS3g5cnpZWlA4N1JaZXk4NUhtUHRKMkZJNVFkbHozNnA1bGxtT0YydWxIQjFmd3FZaUZ4c2FsMWhSWklMNEt2OVdNdFJHSDFjaVV6Z3pCVGVaWVdlTThQRm9jQW51YXNsNF9yZG4teldJMW02aWo2bEpHdTJPRVBwYUxlOXduczFCdkVidw?oc=5>
-
-### 对伊朗战争支持率低迷 特朗普：民调数据是“假的”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-05-05 08:11
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE8xT2E4OGpmOU9raHRTVHoyYVB4cGVFdThuYmJhT3R6NzRrSXdRWDNqdE11MkkxOUJXT2ExZlBNOVlOYXRSbEhqclBCeG0tNHhWNGhILTNFSzEyX2VnSlhyV0g0eUFySF9VcmpZUnc0RmlicjF3aDRLdElXWTE4UVk?oc=5>
-
-### 立场反转，特朗普政府考虑对AI模型进行安全审查
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-05-05 09:31
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5JQVJVY1VlTlltb1VfMDNNN2loTHN5a19INTZLWnRMNXFrZGFVRm5MYklERWc5MXlrd1NfRjFnTkhsWWtqV2ZtUE5KaGg?oc=5>
+- 场馆: BBC
+- 时间: 2026-05-05 07:52
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1OaVJRVTlmb1dtZW9JWmJYUjN0VFpDZl9nSmM3eHdjSmRrUk9HZk9BemtjSDZHeGQ5dmIzYkxnMGhRY3BLZEJmOU02S05leU9ZcGwtWkxMNjZsdlRXdU5IaW9uYkVjd9IBa0FVX3lxTE9uRmQ5OWRlWmx4R1pZRDNpY3ZLcE5kZ3ZpcFo2V2JuR0VrVDJtazh5cFhsM0toR1l6TGJualRiRnNEOHg4cEJhRk1sRG93OTN0VHR3NkxMeDE0VmFzVjcxRFptWEJ0ZjAtbU5n?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-05 12:45  (8 条)
+
+- **王一博** | 王一博的《青春探路者》和《未来我来》两首主题曲是如何在社会上产生影响力的？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801jfgu.html>
+- **王一博** | 王一博连续两年获央视邀请献唱五四主题曲的原因是什么？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801jfgq.html>
+- **特朗普** | 赫格塞思：特朗普已明确表示，我们不会卷入这项国家建设工程。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9uVy12cUdIZXdrd2pQRTA2RnhvdWlDLXFpeXpIOVhDbVBnZDJmXzF3UWFJRDRUY2RBemVKeUdIMlNXRUFBdnVuYjBhRQ?oc=5>
+- **特朗普** | 特朗普承认自己曾“不得不”常买中国货 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1LTkotRmcyaktHbzZiRTFZSTR3dF9pclpmajFGal9majhmZHlZSlVwM051SlV5VFkzYWVqcE5aMTdfaWVaYzkwc2ZHNA?oc=5>
+- **特朗普** | 特朗普邀功：被困船只跟着美国走 <https://news.google.com/rss/articles/CBMiakFVX3lxTFBzU3lia0hWQTdaSFo0MnZSUUtMY1FmSlVxUEVlLWwxOWZVbHhTel8tNUhqalFEZ0NodnByaV95dDRXU3lYWmtPU21RTnd6ZHpWQUpCclNiRkJfem9VZDhzNUFXcWdoREptWkE?oc=5>
+- **特朗普** | 欧盟回应特朗普威胁 <https://news.google.com/rss/articles/CBMidkFVX3lxTE8xV1h6OEdOb2JtZmNzYzJzQjQzQ2hQZXF6aHNNLW1vSFdMWVBldnRVU2ZlVzZnYU5nVW55TXR4VXBlTldnMmkzcW93X1E1V1p5ak90cDJEU09VcW1pRVJPTWI2MkNLZmhhV0J4dWlGR3FnbjF1YWc?oc=5>
+- **特朗普** | 欧盟再就特朗普汽车关税威胁回应：已做好各种准备 <https://news.google.com/rss/articles/CBMiT0FVX3lxTE5UQUEtUXhyMVE0Z255SWR4YWU1TDV0bmcyNVpUa29GZ3RCM3dKWmVuaDhFSUZsQVh4cXNpZ1o2c3pDUEt6TGg3VzlPUFRpdlE?oc=5>
+- **Trump** | “房间里的大象”——欧洲各国谋求团结，但特朗普“阴霾不散” <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1OaVJRVTlmb1dtZW9JWmJYUjN0VFpDZl9nSmM3eHdjSmRrUk9HZk9BemtjSDZHeGQ5dmIzYkxnMGhRY3BLZEJmOU02S05leU9ZcGwtWkxMNjZsdlRXdU5IaW9uYkVjd9IBa0FVX3lxTE9uRmQ5OWRlWmx4R1pZRDNpY3ZLcE5kZ3ZpcFo2V2JuR0VrVDJtazh5cFhsM0toR1l6TGJualRiRnNEOHg4cEJhRk1sRG93OTN0VHR3NkxMeDE0VmFzVjcxRFptWEJ0ZjAtbU5n?oc=5>
 
 ### 2026-05-05 11:16  (10 条)
 
