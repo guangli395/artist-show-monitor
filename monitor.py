@@ -1061,9 +1061,82 @@ def fetch_all(keyword, platforms, debug=False):
 # ============================================================
 # ============================================================
 # 推送 (PushPlus -> 微信; 后续可扩展钉钉/Server酱/Bark)
+# ------------------------------------------------------------
+# 根据数据源的"类型"渲染不同字段集 + 智能推送标题
+#   - 新闻类 (googlenews): 标题 / 媒体 / 时间 / 原文链接
+#   - 演出类 (其他全部):   标题 / 在售 / 城市 / 场馆 / 时间 / 票价
 # ============================================================
+NEWS_SOURCES = {"googlenews"}
+
+
+def _classify_items(items):
+    """判断 items 的组合类型: 'test' / 'news' / 'show' / 'mixed'"""
+    srcs = {it.get("source", "") for it in items}
+    if srcs == {"self-test"}:
+        return "test"
+    has_news = bool(srcs & NEWS_SOURCES)
+    has_show = bool(srcs - NEWS_SOURCES - {"self-test"})
+    if has_news and has_show:
+        return "mixed"
+    if has_news:
+        return "news"
+    return "show"
+
+
+def _push_title(items):
+    """顶层推送标题, 内含'提醒'安全关键字防止企业微信过滤"""
+    kind = _classify_items(items)
+    label = {
+        "test": "推送测试",
+        "news": "资讯速报",
+        "show": "演出动态",
+        "mixed": "实时监控",
+    }[kind]
+    return f"{label} · {len(items)} 条 · 提醒"
+
+
+def _render_item_fields(it):
+    """根据 source 渲染该条目的字段列表(不含标题)。返回 [str, ...]"""
+    src = it.get("source", "")
+    rows = []
+
+    # ---- 新闻类: 媒体 + 时间 + 链接 ----
+    if src in NEWS_SOURCES:
+        if it.get("venue"):
+            rows.append(f"媒体:{it['venue']}")
+        if it.get("date"):
+            rows.append(f"时间:{it['date']}")
+        if it.get("url"):
+            rows.append(f"[> 阅读原文]({it['url']})")
+        return rows
+
+    # ---- 演出类 / 其它: 完整字段 ----
+    if it.get("status"):
+        rows.append(f"在售:<font color=\"warning\">{it['status']}</font>")
+    if it.get("city"):
+        rows.append(f"城市:{it['city']}")
+    if it.get("venue"):
+        rows.append(f"场馆:{it['venue']}")
+    if it.get("address"):
+        rows.append(f"详细地址:{it['address']}")
+    if it.get("date"):
+        rows.append(f"时间:{it['date']}")
+    pr = it.get("price_range", "")
+    if pr and pr not in ("0-0", "0", "0.00-0.00"):
+        rows.append(f"票价:¥{pr}")
+    elif it.get("price"):
+        try:
+            if float(it["price"]) > 0:
+                rows.append(f"起价:¥{it['price']}")
+        except (TypeError, ValueError):
+            pass
+    if it.get("url"):
+        rows.append(f"[> 打开详情]({it['url']})")
+    return rows
+
+
 def _build_md_for_push(items):
-    """把多条 items 渲染成一段 Markdown, 标题已含安全关键字 '提醒'"""
+    """PushPlus 用的 markdown 正文 (按关键词分组, 按来源智能渲染字段)"""
     grouped = {}
     for it in items:
         kw = it.get("keyword", "其他")
@@ -1076,23 +1149,9 @@ def _build_md_for_push(items):
         for it in kw_items:
             full = it.get("full_name") or it.get("title", "")
             lines.append(f"### {full}")
-            meta = []
-            if it.get("status"):
-                meta.append(f"在售: **{it['status']}**")
-            if it.get("city"):
-                meta.append(f"城市: {it['city']}")
-            if it.get("venue"):
-                meta.append(f"场馆: {it['venue']}")
-            if it.get("date"):
-                meta.append(f"时间: {it['date']}")
-            if it.get("price_range"):
-                meta.append(f"票价: ¥{it['price_range']}")
-            elif it.get("price"):
-                meta.append(f"起价: ¥{it['price']}")
+            meta = _render_item_fields(it)
             if meta:
                 lines.append("  \n".join(meta))  # markdown 强制换行用两个空格+\n
-            if it.get("url"):
-                lines.append(f"\n[> 打开详情]({it['url']})")
             lines.append("")
             lines.append("---")
             lines.append("")
@@ -1113,7 +1172,7 @@ def send_pushplus(items, debug=False):
             log("[PushPlus] 未配置 PUSHPLUS_TOKEN, 跳过推送")
         return
 
-    title = f"演出提醒 · {len(items)} 条新动态"
+    title = _push_title(items)
     content = _build_md_for_push(items)
 
     # PushPlus 单条 content 上限 64KB, 我们这点字数不会超
@@ -1146,14 +1205,16 @@ def send_pushplus(items, debug=False):
 
 def _build_wecom_md(items):
     """企业微信 markdown 单消息上限 4096 字节, 多就分批。
-    布局: 每条信息单独一行, 视觉清爽。
+    - 顶部标题根据数据源类型智能切换: 资讯速报 / 演出动态 / 实时监控
+    - 每条字段按 source 差异化渲染 (见 _render_item_fields)
+    - 布局: 每个字段独立一行, 视觉清爽
     """
     grouped = {}
     for it in items:
         kw = it.get("keyword", "其他")
         grouped.setdefault(kw, []).append(it)
 
-    lines = [f"# 演出监控提醒 · {len(items)} 条"]
+    lines = [f"# {_push_title(items)}"]
 
     for kw, kw_items in grouped.items():
         lines.append("")
@@ -1163,30 +1224,8 @@ def _build_wecom_md(items):
             full = it.get("full_name") or it.get("title", "")
             lines.append("")
             lines.append(f"**{idx}. {full}**")
-
-            # 每个字段独立一行, 易读
-            if it.get("status"):
-                lines.append(f"在售状态:<font color=\"warning\">{it['status']}</font>")
-            if it.get("city"):
-                lines.append(f"城市:{it['city']}")
-            if it.get("venue"):
-                lines.append(f"场馆:{it['venue']}")
-            if it.get("address"):
-                lines.append(f"详细地址:{it['address']}")
-            if it.get("date"):
-                lines.append(f"时间:{it['date']}")
-            # 测试推送 / 没价格的不显示价格行
-            pr = it.get("price_range", "")
-            if pr and pr not in ("0-0", "0", "0.00-0.00"):
-                lines.append(f"票价:¥{pr}")
-            elif it.get("price"):
-                try:
-                    if float(it["price"]) > 0:
-                        lines.append(f"起价:¥{it['price']}")
-                except (TypeError, ValueError):
-                    pass
-            if it.get("url"):
-                lines.append(f"[> 打开详情]({it['url']})")
+            # 复用通用字段渲染 (按 source 自动选择字段集)
+            lines.extend(_render_item_fields(it))
 
     return "\n".join(lines)
 
@@ -1250,24 +1289,40 @@ def notify_new_items(items, debug=False):
 
 
 def print_show(item):
+    """本地控制台打印单条新发现, 根据 source 类型切换字段集"""
+    src = item.get("source", "")
+    is_news = src in NEWS_SOURCES
+    label = "[新资讯]" if is_news else "[新演出]"
+
     log("-" * 60, tag="NEW ")
-    log(f"  [发现新演出] 来源: {item.get('source', '')}", tag="NEW ")
+    log(f"  {label} 来源: {src}", tag="NEW ")
     log(f"  关键词  : {item.get('keyword', '')}", tag="NEW ")
     title = item.get("full_name") or item.get("title", "")
     log(f"  标题    : {title}", tag="NEW ")
-    if item.get("status"):
-        log(f"  在售状态: {item['status']}", tag="NEW ")
-    if item.get("city"):
-        log(f"  城市    : {item['city']}", tag="NEW ")
-    log(f"  场馆    : {item.get('venue', '')}", tag="NEW ")
-    if item.get("address"):
-        log(f"  详细地址: {item['address']}", tag="NEW ")
-    log(f"  时间    : {item.get('date', '')}", tag="NEW ")
-    if item.get("price_range"):
-        log(f"  票价区间: ¥{item['price_range']}", tag="NEW ")
-    elif item.get("price"):
-        log(f"  起价    : ¥{item['price']}", tag="NEW ")
-    log(f"  链接    : {item.get('url', '')}", tag="NEW ")
+
+    if is_news:
+        # 新闻: 媒体 + 时间 + 链接
+        if item.get("venue"):
+            log(f"  媒体    : {item['venue']}", tag="NEW ")
+        log(f"  时间    : {item.get('date', '')}", tag="NEW ")
+        log(f"  链接    : {item.get('url', '')}", tag="NEW ")
+    else:
+        # 演出: 完整字段
+        if item.get("status"):
+            log(f"  在售状态: {item['status']}", tag="NEW ")
+        if item.get("city"):
+            log(f"  城市    : {item['city']}", tag="NEW ")
+        if item.get("venue"):
+            log(f"  场馆    : {item['venue']}", tag="NEW ")
+        if item.get("address"):
+            log(f"  详细地址: {item['address']}", tag="NEW ")
+        log(f"  时间    : {item.get('date', '')}", tag="NEW ")
+        if item.get("price_range"):
+            log(f"  票价区间: ¥{item['price_range']}", tag="NEW ")
+        elif item.get("price"):
+            log(f"  起价    : ¥{item['price']}", tag="NEW ")
+        log(f"  链接    : {item.get('url', '')}", tag="NEW ")
+
     log("-" * 60, tag="NEW ")
 
 
@@ -1463,7 +1518,7 @@ def main():
             "keyword": "系统通知",
             "id": "self-test-001",
             "source": "self-test",
-            "title": "演出监控部署成功 · 推送链路已打通 · 提醒",
+            "title": "监控系统部署成功 · 推送链路已打通 · 提醒",
             "status": "运行中",
             "date": datetime.now().strftime("%Y-%m-%d %H:%M"),
             "url": "https://github.com/guangli395/artist-show-monitor",
