@@ -1,64 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-05 18:52**
-- 本轮扫到 266 条, 新增 **6** 条
+- 最近更新: **2026-05-05 20:04**
+- 本轮扫到 270 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (4 条)
 
-### 特朗普避谈伊朗何种行为将被视为违反停火协议
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-05 17:10
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE15Nkd4bHJzeGRGWDNxeGlQOFZZUkV1UHFic3dIbUF2aS1jRnF3UlRwTk1oeHkzTWFkcGNPN3k1WlhZRk5QTjFycjUzTQ?oc=5>
-
-### 特朗普：伊朗国内的人想发起抗议活动，但他们没有枪。
+### 美国交通部称，特朗普政府已与墨西哥达成共识，以解决美国对2015年美墨航空运输协定的担忧。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-05 16:52
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9Ga2x6b2xsaFdwcTVCOVc4T1BtRC1uRzRINklDVjBGaVZpNkpaS290eDNiUVdaQzIwRmhjU0dWTHR6S056TjVCal9uaw?oc=5>
+- 时间: 2026-05-05 19:20
+- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xZkFuUExsb21zZjlMMjl2Z3c5VkpjcVZiazNOQ3J4ZlZYN2R6b1BoczR1T3VtUUwybDRoa3BXTENrTGUyeVFrUkhXaVgyREk?oc=5>
 
-### 特朗普承认：曾经常买中国货，网友锐评：中国货“真香”吧
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-05-05 13:47
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kSlp4dHJlakR2QllaV0J4cTdkelhxM3VaUUY2SW9OOUZ3anRpSjE5NzNuUk5vREw0dTBZZWw3ekJ3TkFWbldYRElOakF3VjdhZFhIZVlUVnBna0w5b0cyVA?oc=5>
-
-### 立场反转，特朗普政府考虑对AI模型进行安全审查
+### 美中元首会晤在即 特朗普称习近平“了不起的人”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-05-05 09:05
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TYnR6YW5jRU9wamdfSmZNVFo3Z2dHdjMwRmdITUJjR29OZ1ZOcm55b2tGMTVoVWFBXzYtbUNaYnoyOWEyQ2JqaGVKRGVjVnNsbWVIay1aLS1HRDFsT19pZg?oc=5>
+- 场馆: RFI
+- 时间: 2026-05-05 19:12
+- 链接: <https://news.google.com/rss/articles/CBMi0gJBVV95cUxNaFVCUm9NbE45REtiTkcyejVyN1duMUNRZENiZjd5QWZGeVZ3elRHck8xNTNnblhwTTlRMHlMWkdDOHN4T1dFb3RhaXdjWFdlWUVJSzlhQVVjbGNJZEE4Q19RdjhNdWRsUVpnNEJOdVVaT3dCR3lZdVE3NzdEVTY3T1AtZURERWhvby1mb19ESzNta0M0dWxfeWRLNGR6Qm82WE5RUUhFakJLUzdXcGlSZUNBTnFFcGFjWkltVTRvcFRCVlVVREttVlhvbnRrdmEwZFpZWlRpNHFfOTVfVHhuNG9iTlNvTUVkdzVDQ1BUV1F3SlNoZVZlcTlYMUdGeVU1LXdmOTVnV3dReVp2T1RDRnVVUzdRMkhsX2xJUjVoQVh5UmlpTU8tZHplYUxKeG5JTnlnVS14SU9uZ28yVTdvb0cwbnpQYXRvTWZNcmRscjB1Zw?oc=5>
 
-### 美媒：美伊冲突久拖不决，特朗普访华时的筹码将被削弱
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-05-05 07:22
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBhcWN0TEI1YS1MV1JfZ0p4ODc4NHRLbHRHSzlBTGRsSjdwRXVyR2xENEg0bnFxRUFDMlBlVmU0U2UyOXNHZ3lEblVScXI?oc=5>
-
-### 美财长：特朗普不会再推迟访华
+### 特朗普称伊朗“知道什么不该做”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-05-04 07:10
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5xeHprVmVrWUFpUk9uazlxc3hvUUc0MkFUdUZ6TlpHNHFuSlVvWmFxcDdZZENUQzVlbEkxQXBDcWdwa1p2cFMyY2JKUGsyZ2VkVHYzMzducTh6MFhrNnV2UHJFYTRLVHV0MHc?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-05-05 15:42
+- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxPTFFPWjBrSFF3TzR3NHVBQ0JHS01URDRCQm4yVi1mSDNGMlhVZ1lPNldxR2tITGc3U0xPUHZFRzhJR1F1Vm9yM1Nta2l5Q0RQNGRQak9Mbllrc3JzNG01TGxBY0ZwWkdQSElEOGUwUnVWQjVFNC1sRUJyQkdobm5ROHpqOTVXMWtld3VyZWVIbmtLanY1OV9Ib2FDcUVkeHFKcGlHM282SEtXSk5ETHFkM3BSMTNLUENVMjZBZEpvUExpaTYxdVBPMEdyaXpjQ1U?oc=5>
+
+### Donald Trump expresses wish to talk Strait of Hormuz on China trip
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: news.tvb.com
+- 时间: 2026-05-05 12:36
+- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOTdoQndZNFJmbWhlTHd6ancxOWVURnB1NTZzY0RsQ19sYnI1MjNZdXJ3bDdOekRRRDYya3VWZG12TFNONWZqRFFFQjlBVndjZ1E3MF9zb1k5dk5CVVMyQ2d4bDR6MHRlaGNiNEQ3ZDVRcHRoTlA0dmg5d2ZnazZ4WVRMQmE5OGUwSTNqYk1zdmt0RzFlNmhnUDdHMWZjWl9kaG8tV2trMGxLY1NwdUtqR041YTZ1YzVKa1F2cHhPQmRSdk95Uzg5eFcxeDJDWlB2Zmc?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-05 20:04  (4 条)
+
+- **特朗普** | 美国交通部称，特朗普政府已与墨西哥达成共识，以解决美国对2015年美墨航空运输协定的担忧。 <https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xZkFuUExsb21zZjlMMjl2Z3c5VkpjcVZiazNOQ3J4ZlZYN2R6b1BoczR1T3VtUUwybDRoa3BXTENrTGUyeVFrUkhXaVgyREk?oc=5>
+- **特朗普** | 美中元首会晤在即 特朗普称习近平“了不起的人” <https://news.google.com/rss/articles/CBMi0gJBVV95cUxNaFVCUm9NbE45REtiTkcyejVyN1duMUNRZENiZjd5QWZGeVZ3elRHck8xNTNnblhwTTlRMHlMWkdDOHN4T1dFb3RhaXdjWFdlWUVJSzlhQVVjbGNJZEE4Q19RdjhNdWRsUVpnNEJOdVVaT3dCR3lZdVE3NzdEVTY3T1AtZURERWhvby1mb19ESzNta0M0dWxfeWRLNGR6Qm82WE5RUUhFakJLUzdXcGlSZUNBTnFFcGFjWkltVTRvcFRCVlVVREttVlhvbnRrdmEwZFpZWlRpNHFfOTVfVHhuNG9iTlNvTUVkdzVDQ1BUV1F3SlNoZVZlcTlYMUdGeVU1LXdmOTVnV3dReVp2T1RDRnVVUzdRMkhsX2xJUjVoQVh5UmlpTU8tZHplYUxKeG5JTnlnVS14SU9uZ28yVTdvb0cwbnpQYXRvTWZNcmRscjB1Zw?oc=5>
+- **特朗普** | 特朗普称伊朗“知道什么不该做” <https://news.google.com/rss/articles/CBMizwFBVV95cUxPTFFPWjBrSFF3TzR3NHVBQ0JHS01URDRCQm4yVi1mSDNGMlhVZ1lPNldxR2tITGc3U0xPUHZFRzhJR1F1Vm9yM1Nta2l5Q0RQNGRQak9Mbllrc3JzNG01TGxBY0ZwWkdQSElEOGUwUnVWQjVFNC1sRUJyQkdobm5ROHpqOTVXMWtld3VyZWVIbmtLanY1OV9Ib2FDcUVkeHFKcGlHM282SEtXSk5ETHFkM3BSMTNLUENVMjZBZEpvUExpaTYxdVBPMEdyaXpjQ1U?oc=5>
+- **Trump** | Donald Trump expresses wish to talk Strait of Hormuz on China trip <https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOTdoQndZNFJmbWhlTHd6ancxOWVURnB1NTZzY0RsQ19sYnI1MjNZdXJ3bDdOekRRRDYya3VWZG12TFNONWZqRFFFQjlBVndjZ1E3MF9zb1k5dk5CVVMyQ2d4bDR6MHRlaGNiNEQ3ZDVRcHRoTlA0dmg5d2ZnazZ4WVRMQmE5OGUwSTNqYk1zdmt0RzFlNmhnUDdHMWZjWl9kaG8tV2trMGxLY1NwdUtqR041YTZ1YzVKa1F2cHhPQmRSdk95Uzg5eFcxeDJDWlB2Zmc?oc=5>
 
 ### 2026-05-05 18:52  (6 条)
 
