@@ -1,19 +1,35 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-05 22:51**
-- 本轮扫到 275 条, 新增 **2** 条
+- 最近更新: **2026-05-05 23:43**
+- 本轮扫到 282 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (7 条)
 
-### 国金宏观赵宏鹤：冲出霍尔木兹海峡
+### 特朗普避谈伊朗何种行为将被视为违反停火协议
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中国青年网
+- 时间: 2026-05-05 21:20
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFB3LVVadkZhX3Q1bl9mMl81TGlWR3dHaklPc18weTBwd0RXRDJIV2prRW9mc29BalM3b2IxWElwWEJXajlFbUZrUVVuT3ZlY1JUd1VwVHJPWUJRdERPOTZOR1VYQkk?oc=5>
+
+### 特朗普：伊朗与美......_7x24快讯_新浪财经
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-05 15:45
-- 链接: <https://news.google.com/rss/articles/CBMiowFBVV95cUxOb3VIZW5sWE55cGxVaVFISHp2SWFxNjY4NGdkMlpqZlZOenlyMEs5ZG5Db0stZlRBUGVGc0Zhbml1aEhNRVB5MF84MDlhbnpIT3RkVE1GaF9kOElDS2xmV29IOGRjUDU3emloNFVpODdYR1lwZFR1MDNZUEpfVG9lN054QXMwNnJoRHBFRWVNa3VESlc1VkV3R0QwNTlST3V6eXYw?oc=5>
+- 时间: 2026-05-05 22:55
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE44T29sbjE1dC1zR01pU2RkTFA4akxPTjRRMUhSVVU4MjJWMjV3ZHZEc0NxdTBWNjNvTVhmYlpSZW9ZWnJqSmNSam42UQ?oc=5>
+
+### 特朗普称暂停“自由计划”行动
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-05 23:01
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5hblpSZ242eDRNVkh0N2paMU1Dd0ptLWp6ZFFOZERBZ3VlelBNWTdCLXdsWTUwY1o1cjdyMGNOa25FUmEydnhmSVlxYw?oc=5>
 
 ### 特朗普称伊朗“知道什么不该做”
 
@@ -21,12 +37,46 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-05-05 15:42
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMFFhZHl3LXp6RWZEakFzekExNWxiN3VtaXF3djZTY2hidjhHdHpCOGNxTS1xYmNBTUVYWGhnclhLTnR3QUJra1lZT09XeS1pRHZwb29UQzdFVV91bVp0OFl3dDBIYUxDWHczeFRlZXpIMXZOZ2dwV0JxQnAzSnIwbV9XajFyNmVVSGduZXd4cjRUOGVUa2xkZjV3MF9JN3V2bHhOR1R4MmpjLXFWWWd1ajRSdVNVc3RCRWViQWY3RnozWW9RWXdhMEhLdjFqcEpy?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQXN0RnR0SFI1Sm1raFFrd2NVMGxCQXB3ajZYamhwbTgtX1d0OXVrR0NSbjNKQVpBaVV5ODk4anZnbHFpMkhHTEdsQXlXV2NrNWVRcE52VEt3eVVTM195QmJYWkNtSFViVmF2di1HRkNyWGFCUGZzZi1wdXA2X0lxUFg4alFsdDFWTVFsZ1RTX1FHX1FSbV9yNDVoZkhRVWFIZzFCanllaUk1TUxiMTZ2MEVJMWQyeTB2ZFlqcURzb05YM0ZaWlNqWEVjR2pkV3d1?oc=5>
+
+### 美防长称特朗普无需寻求国会批准即可继续对伊军事行动
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 央视网
+- 时间: 2026-05-05 14:37
+- 链接: <https://news.google.com/rss/articles/CBMid0FVX3lxTE0ydTJxTGxwemVqOFQtNjVjbThoc2hsMkF1Q3NOcG90ZE9ZRjVpaFpKLWkzTnFYNk9yd1FwRTNFbVhTcTJ2LTVaSzkzM1dHS2ZCY200M2VqQkxYMUd1b09JM3hfZEdldE1VcUh1LU50TkdfeTBmQk9v?oc=5>
+
+### 特朗普威胁提高欧洲汽车关税 欧盟：已为所有情景做好准备
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-05-05 10:28
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XRDRoNnNINW1WVTJpSVpiWnhTcmowSE83WWhUeTFwaDBMTUcyNHVaWHdOTFpINTU1N2NEZU5kUTRmQUhrWkltZDI2RGlyUVFwcm5TNTRMM0VCdlRCS2tpWm02OE53UQ?oc=5>
+
+### 美国扩大对古巴制裁 特朗普：从伊朗回来的路上顺道“解决古巴” 航母一去他们就会投降！
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 东方财富
+- 时间: 2026-05-02 17:02
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZWTZGR21USWg3ZnI2ZjNVQmxsNnQ1YmwxUl9UQm1DR09WZmptTmZ5WmJTSVVyczNOdWdXemEzbXVDeGFFS3pWLVRYaXE4LU1sTmJ0Y1hTUTlRamlKZzdDQg?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-05 23:43  (7 条)
+
+- **特朗普** | 特朗普避谈伊朗何种行为将被视为违反停火协议 <https://news.google.com/rss/articles/CBMiZEFVX3lxTFB3LVVadkZhX3Q1bl9mMl81TGlWR3dHaklPc18weTBwd0RXRDJIV2prRW9mc29BalM3b2IxWElwWEJXajlFbUZrUVVuT3ZlY1JUd1VwVHJPWUJRdERPOTZOR1VYQkk?oc=5>
+- **特朗普** | 特朗普：伊朗与美......_7x24快讯_新浪财经 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE44T29sbjE1dC1zR01pU2RkTFA4akxPTjRRMUhSVVU4MjJWMjV3ZHZEc0NxdTBWNjNvTVhmYlpSZW9ZWnJqSmNSam42UQ?oc=5>
+- **特朗普** | 特朗普称暂停“自由计划”行动 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5hblpSZ242eDRNVkh0N2paMU1Dd0ptLWp6ZFFOZERBZ3VlelBNWTdCLXdsWTUwY1o1cjdyMGNOa25FUmEydnhmSVlxYw?oc=5>
+- **特朗普** | 特朗普称伊朗“知道什么不该做” <https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQXN0RnR0SFI1Sm1raFFrd2NVMGxCQXB3ajZYamhwbTgtX1d0OXVrR0NSbjNKQVpBaVV5ODk4anZnbHFpMkhHTEdsQXlXV2NrNWVRcE52VEt3eVVTM195QmJYWkNtSFViVmF2di1HRkNyWGFCUGZzZi1wdXA2X0lxUFg4alFsdDFWTVFsZ1RTX1FHX1FSbV9yNDVoZkhRVWFIZzFCanllaUk1TUxiMTZ2MEVJMWQyeTB2ZFlqcURzb05YM0ZaWlNqWEVjR2pkV3d1?oc=5>
+- **特朗普** | 美防长称特朗普无需寻求国会批准即可继续对伊军事行动 <https://news.google.com/rss/articles/CBMid0FVX3lxTE0ydTJxTGxwemVqOFQtNjVjbThoc2hsMkF1Q3NOcG90ZE9ZRjVpaFpKLWkzTnFYNk9yd1FwRTNFbVhTcTJ2LTVaSzkzM1dHS2ZCY200M2VqQkxYMUd1b09JM3hfZEdldE1VcUh1LU50TkdfeTBmQk9v?oc=5>
+- **特朗普** | 特朗普威胁提高欧洲汽车关税 欧盟：已为所有情景做好准备 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XRDRoNnNINW1WVTJpSVpiWnhTcmowSE83WWhUeTFwaDBMTUcyNHVaWHdOTFpINTU1N2NEZU5kUTRmQUhrWkltZDI2RGlyUVFwcm5TNTRMM0VCdlRCS2tpWm02OE53UQ?oc=5>
+- **特朗普** | 美国扩大对古巴制裁 特朗普：从伊朗回来的路上顺道“解决古巴” 航母一去他们就会投降！ <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZWTZGR21USWg3ZnI2ZjNVQmxsNnQ1YmwxUl9UQm1DR09WZmptTmZ5WmJTSVVyczNOdWdXemEzbXVDeGFFS3pWLVRYaXE4LU1sTmJ0Y1hTUTlRamlKZzdDQg?oc=5>
 
 ### 2026-05-05 22:51  (2 条)
 
