@@ -1,33 +1,77 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-06 12:25**
-- 本轮扫到 348 条, 新增 **10** 条
+- 最近更新: **2026-05-06 15:10**
+- 本轮扫到 361 条, 新增 **13** 条
 
 ---
 
-## 本轮新发现 (10 条)
+## 本轮新发现 (13 条)
 
-### 王一博新歌展现河南山海美景
+### 周杰伦的鸟巢演唱会对行业和粉丝意味着什么？
 
-- 艺人/关键词: **王一博**
+- 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1733763180_m6757206c03301c3io.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801jjb6.html>
 
-### 习特会下周登场 特朗普称将与习近平讨论伊朗战争
+### 周杰伦鸟巢演唱会的门票预计如何购买和实名制规定？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-05-06 00:28
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5KRnhZNjdUclVQQkxIXzdOUXFsOHhzaFo1OXh4RFp5VlR4bFJYVl9ES0ZvU2xabHd0empCTDBLRDJVUVJ3YUVLVTBMbmhyUC1vZ051VjZIYkNhQjZGTHQweDdheFZkUQ?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801jjbs.html>
 
-### 美国总统特朗普：白宫......_7x24快讯_新浪财经
+### 周杰伦2026年鸟巢演唱会的具体时间和主题是什么？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801jjbc.html>
+
+### 特朗普解雇民主党籍矿山安全专员及其工作人员。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-06 11:33
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9tZVdfZzBhNFEtY3RjcWk0V0VPc1AzSHZPbFVfVEhySHZoUlNEUE5LOFVJZmRwMkFIclVrdUZXamtyQzBuQWt0MjBBWQ?oc=5>
+- 时间: 2026-05-06 14:25
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1JbG9hWlZJOG1CM29FaVk5VXdxSzVBVE52eHBBbE1zTWpBTWZWSW0wYXVWODBHc0FsaTNuMW5mU2c5QmQ4TkJ3ODBWNA?oc=5>
+
+### 全线上涨，超12万人爆仓，特朗普发声
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-05-06 13:47
+- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTFBoTVB6Y3RlaE9McmxqWTliZDN2RXFuMGZ2c2hCXy1YM1JPZEpSd2F0d0Q5bFlzd2lLTzM5OUgwd2g4U0hOTjAwTWZpRlBJSWZN?oc=5>
+
+### 立场反转——特朗普政府考虑对AI模型进行安全审查｜有画说
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-06 14:24
+- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE9fRjVuZUNsajNKRDliUFdZODNiM3Fzc3N6YUFTQ1RDX1BJbEdjN1ZhVnhOeHg0UTBMOHozVEoxb1FfSkR3MmhqeGoyMkxYNVJSaU1DVVNwUlI2NmJ1aDM4emE1bk9vNGlFRGhwQTdoSEwyZERrRlFLM19NbDA?oc=5>
+
+### 特朗普暂停疏导海峡被困船舶 称美伊和谈取得“巨大进展”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 财新
+- 时间: 2026-05-06 11:12
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE95N2lxN0FpUVFuTzlhd2F3Sll5Z1dORkc5dGdGek01ZXRjMnN1eUYxeUJVeTNBM1hKT2NEbE55aVU1ZnpaQ3VQS0Z5ek1Fczd6YTB1Q2xBRVlVR0laYmN0aTJQUEtPYkt4UlE?oc=5>
+
+### 特朗普：伊朗若接受协议，战争就可结束
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-05-06 13:45
+- 链接: <https://news.google.com/rss/articles/CBMinwFBVV95cUxPSmdpeTFfWGNXek1MOFoxZUcyUE12QkNpcFhlYlZWbHo3NXBibmxrem5CZ3JuLXhWbzB4aEJXcXhoZWhWSHlRaUpWQWVoVGFUVmJQMnJGT29YQ091UUYyLXc4b3pRSUhJTnVZT25PWjQ2anRfNVRrdEhVbmlXTWppYTJ6NjZMTmowUC1uUHVONklLTEtSam1rXzE1eHZycWvSAaIBQVVfeXFMUHFSRzlHLWIxS1Q1ckp4VjNHS3B6Mzg0Z3NQNnNQSm4wdFdremprdG8xZDdwazZ1RTlqeGNvUW5sQ011X3NGcDA3TTZoajI1RV9PZ2Rhd2RsaHBSU3Y1YmJVdzVWN09oT3IxaGp6dy1XY0wwN3gxcmlma1FXX0owWEI2SGdRcXNTT1NxSUUtTzVwLWE3VHhxTTRTTTdUVzhsR293?oc=5>
+
+### 特朗普宣布“收手”，伊朗媒体：他退缩没牌打，咱赢了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-05-06 08:29
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE90MllzZWtKOEI2eGttaGJ1emNLWjFKcF9LQzRfSTNKejlZS2oyX2FhT29KMmlKMTdXUzRmWmEyV09Va0tMTkNDNjhDR2pjZHZxMmdhZTJ0YlFkNi14QzFmcXJVYnV5dEVuV2c?oc=5>
 
 ### 特朗普：如果伊朗同意美方条款，“史诗怒火”行动将宣告结束
 
@@ -35,60 +79,52 @@
 - 来源: `googlenews`
 - 场馆: thepaper.cn
 - 时间: 2026-05-06 11:54
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HRFRDRXNYNHFLd2Jqd1ZUQ0JHVWlmbWNQQXA2TEhneEVCZkVLaXpubVVYckctc19Nd3NZeE1TOGNwM1RteHJWSU5RaWo5NDEwNGhmeG5ZS3dBQlRZdkE?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQOGI1NFVTSmIyeDY5SFNPS05mSDhqMzh2REZzcTh6QU03T3NxTkhqVzJRYXRFVkplUENpeGtHN0JwYW5wTldPYWlER3VucG92M1lQQTA2OUFFU0Q0WExjRg?oc=5>
 
-### Axios: 官员称美国和伊朗即将达成一页14点备忘录以结束战争
+### 特朗普称暂停“自由计划”行动
 
 - 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 东方财富
+- 时间: 2026-05-06 08:38
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE94djdkNVJ6UFlCdV9MS1lxbXlaNHdnbjdYWlJ1STJhNmhreUwxZm9zMktoZU9IeVUxM0RlaTgyUUJ6WVdNeGYzYU52UzRlTDRQMFhSZGJsMTB6WmZtRVFiMg?oc=5>
+
+### 特朗普访华：北京仍缄其口
+
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: RFI
-- 时间: 2026-05-06 12:01
-- 链接: <https://news.google.com/rss/articles/CBMi_gJBVV95cUxNRC1xelFjcnpwckUxRTBTLUJoYmF0R19fTmRNY3liNzFiV2pjWGFONEIwUjY1WTVteGhfSXFSdmc1SmxyR0QyQ2JsYmxJNDZpUEZ1bnpNYnRLQ3lHVEtEbHJoMFk2VGQ1Z1c3QmV1cEUyWGdQdGpsYWlRVnF1emFyRjN0WERpYUczQmljM2tJNkJjY2xDUXZHSlNvaVgtMF9EZGFueTRBZEJ5SVg2RGFOM1FsRmRiREFfUEZjLWpLa0x1Q3oxYnktSUF2YklkZERvXzVkeWtOQzgxSmdBQXlyeW5oOWFoV0w4V19TTVB4aW5NZjRDMXpmbUoyc1ZwRXN1cm1qRGRfM0pUX0laT1hiaWNaczE4T1JWV3d2STR5bmVzdkJBLVdCQ3B2eEVuTFhkT2llYXdib1Q1dGFYb05CQVRSa01acm1jd2loRzRKcU9IaFpwQ0xael9jRWlTdFZpR0hkOURSRk9nUmtyaFEtOGJZc18wR0xkV3AwUExn?oc=5>
+- 时间: 2026-05-06 13:59
+- 链接: <https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdWgtME5CX1JlMWhMdW40VkVUUnp5M0tqVjNOeU0xbmphUU5MOF9QMXFUWWJTYmdkQnVnNWxCbzlOR2lOdGRwMVRqUUpIaU5Ub2w5cXRpZUgyODkwWVJyUGdkSUZlVlVDMUZ6T0hGWXFlVW5lY051M3hWSXdjZUYtdTlhX1hQcFMzZFFiY2pkVmpDX2dXclk0YW1tdUlLYUk1NjJoX3VybnNKc1pJUXJjWENXNFFiZ1pXbVpYYWt3VGpYOXFWX2ZERzJiTXBtTVJqdXp2Nzk1S1dJZ0ZaeGwxclV3VHM?oc=5>
 
-### 特朗普称暂停霍尔木兹海峡“自由计划”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-06 00:27
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE9OVFRudkJZWWFfYUw0T0pkZFpBeUJMcGxFTnVxdWtGaTVjVktkMWo3WW1XdlpCUy1sU2Q3UTZyQmQ2S1hTTHowLXhfakdVLUFvdmUzQjVjVXRPSHlCWkU5dFN2TUNPeU1TZmYtOUxuc1BPaFFzRXc?oc=5>
-
-### 外交部：中美双方就特朗普总统访华事保持着沟通
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-05-06 08:03
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1sSEI0N2V2dGdqbTZ2SEFUMzk0cFFJN1pMMHdvcjdsQVRSTEdCTDVBeEdCSTNsSXdEODhvQlNURW9oTEVCU3NTS2ZnOUNBenJkblNWQTE1djJhTW1HRi1zaTAxNmJoekI4ckE?oc=5>
-
-### 特朗普：相比阻止伊朗拥核 油价飙升只是“小代价”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中国青年网
-- 时间: 2026-05-06 07:52
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vaUlFNWI5eEhkUzZIVEdqSzBncGsteTJyWkZpbklBMVNISnh0UmZlNko2MXRXN3pNN3dlRlBwMndtZ2JlMW1qMG5IM20zc1BkVFlwTFFpM0JYaDJYTkUtd2JlT3E?oc=5>
-
-### Trump pauses operation to guide ships from Strait of Hormuz
+### 视频 伊朗外长赶在“特习会”前到访北京
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: news.tvb.com
-- 时间: 2026-05-06 04:38
-- 链接: <https://news.google.com/rss/articles/CBMiygFBVV95cUxOT2Z4UkpGNTg4YXJkUm1NQ1k4bTUzSmNzeS1jbVEyMUJKc3NUckpudG1USDBfOHhXZlZBa204SGR5TkN5ZzVpalRHUmdDRGRXUDVvTS1CSTNfd0VVb29KZlJKTFZGbEJsdWM3M3ZQQ0kxQkQ1VEQxNmJpUFI5YjBDVTV3b2hOTDNZbE51eE1na1JtWlg1cjVmNDIzR2Q2Y1VFNURTajFKMHdZYmZMR3Y3a1hsZWtfYkxTRWs2T3lLUkVFb3dhM2ZjaUZR?oc=5>
-
-### US President Donald Trump casts doubts on Iran peace proposal as details emerge
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: TMGM
-- 时间: 2026-05-03 07:00
-- 链接: <https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRUUxSkVtNlIzY2pVMEY5eE5XTmpFS2tQQWVUZmQyOXhVcjFRU180WHR3dkl6ajQ3eW0xZlhRYkFpaFJRZ3F3d2tPMHNMSnhSSnFSS294c0xHM3l0ei1EQUlqSmlYZ3Y3UmVmOTBmcGVabEFlZDduVDlhMlJNaUp0d2ZGb3RhNS1VaWVPODdJNzZFNVphWUtkYWZRSkFhQjJkQVpoRGR5eDIxNl90LVdCTWdYN0pTYXY3NnVoVG5feTFkYlJTY3FMRzhNQ1RDaWhpVkdDM2ctNnN6dU1DTUdCNU11Sl9ZX19L?oc=5>
+- 场馆: RFI
+- 时间: 2026-05-06 12:35
+- 链接: <https://news.google.com/rss/articles/CBMiowJBVV95cUxOS19BdDQ4NFRRelFYUXRGTkR0d2NDYmN0UzhVb3RVX1dDQjNRRU9Pc3JCWUxfczV6WThCQzBBOGZhVjZMclFJNHFqQnhtaDg4ZG8wVXRWWjE1SVUxSDljZFNCYjZfcjM1VTJqZ2V0azRCNlJXalQ1UWJreXY0cHFpbmxnMjdtbE85aXdzdWRzN3ByYjFzTWlzb1pmUmxiaDUxMWt4b0xJaVhnLWs2ZGpUZlFsN3hUUGoyZnhSZlpjZldrdDY2X2ZjUjEwZFgweHBYbUFmZ2Jpbkw4TlJuMmI1SHhYRXZZZlFtNlhSbHJPQ0l2SEN0R0ZxN1pJU1ZZeEowTUwyMmxMRXZfSGhYZkVBa3JhQ1liQWdDY1NCdmUwZ2p6X2s?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-06 15:10  (13 条)
+
+- **周杰伦** | 周杰伦的鸟巢演唱会对行业和粉丝意味着什么？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801jjb6.html>
+- **周杰伦** | 周杰伦鸟巢演唱会的门票预计如何购买和实名制规定？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801jjbs.html>
+- **周杰伦** | 周杰伦2026年鸟巢演唱会的具体时间和主题是什么？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801jjbc.html>
+- **特朗普** | 特朗普解雇民主党籍矿山安全专员及其工作人员。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1JbG9hWlZJOG1CM29FaVk5VXdxSzVBVE52eHBBbE1zTWpBTWZWSW0wYXVWODBHc0FsaTNuMW5mU2c5QmQ4TkJ3ODBWNA?oc=5>
+- **特朗普** | 全线上涨，超12万人爆仓，特朗普发声 <https://news.google.com/rss/articles/CBMiUEFVX3lxTFBoTVB6Y3RlaE9McmxqWTliZDN2RXFuMGZ2c2hCXy1YM1JPZEpSd2F0d0Q5bFlzd2lLTzM5OUgwd2g4U0hOTjAwTWZpRlBJSWZN?oc=5>
+- **特朗普** | 立场反转——特朗普政府考虑对AI模型进行安全审查｜有画说 <https://news.google.com/rss/articles/CBMifEFVX3lxTE9fRjVuZUNsajNKRDliUFdZODNiM3Fzc3N6YUFTQ1RDX1BJbEdjN1ZhVnhOeHg0UTBMOHozVEoxb1FfSkR3MmhqeGoyMkxYNVJSaU1DVVNwUlI2NmJ1aDM4emE1bk9vNGlFRGhwQTdoSEwyZERrRlFLM19NbDA?oc=5>
+- **特朗普** | 特朗普暂停疏导海峡被困船舶 称美伊和谈取得“巨大进展” <https://news.google.com/rss/articles/CBMiakFVX3lxTE95N2lxN0FpUVFuTzlhd2F3Sll5Z1dORkc5dGdGek01ZXRjMnN1eUYxeUJVeTNBM1hKT2NEbE55aVU1ZnpaQ3VQS0Z5ek1Fczd6YTB1Q2xBRVlVR0laYmN0aTJQUEtPYkt4UlE?oc=5>
+- **特朗普** | 特朗普：伊朗若接受协议，战争就可结束 <https://news.google.com/rss/articles/CBMinwFBVV95cUxPSmdpeTFfWGNXek1MOFoxZUcyUE12QkNpcFhlYlZWbHo3NXBibmxrem5CZ3JuLXhWbzB4aEJXcXhoZWhWSHlRaUpWQWVoVGFUVmJQMnJGT29YQ091UUYyLXc4b3pRSUhJTnVZT25PWjQ2anRfNVRrdEhVbmlXTWppYTJ6NjZMTmowUC1uUHVONklLTEtSam1rXzE1eHZycWvSAaIBQVVfeXFMUHFSRzlHLWIxS1Q1ckp4VjNHS3B6Mzg0Z3NQNnNQSm4wdFdremprdG8xZDdwazZ1RTlqeGNvUW5sQ011X3NGcDA3TTZoajI1RV9PZ2Rhd2RsaHBSU3Y1YmJVdzVWN09oT3IxaGp6dy1XY0wwN3gxcmlma1FXX0owWEI2SGdRcXNTT1NxSUUtTzVwLWE3VHhxTTRTTTdUVzhsR293?oc=5>
+- **特朗普** | 特朗普宣布“收手”，伊朗媒体：他退缩没牌打，咱赢了 <https://news.google.com/rss/articles/CBMiakFVX3lxTE90MllzZWtKOEI2eGttaGJ1emNLWjFKcF9LQzRfSTNKejlZS2oyX2FhT29KMmlKMTdXUzRmWmEyV09Va0tMTkNDNjhDR2pjZHZxMmdhZTJ0YlFkNi14QzFmcXJVYnV5dEVuV2c?oc=5>
+- **特朗普** | 特朗普：如果伊朗同意美方条款，“史诗怒火”行动将宣告结束 <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQOGI1NFVTSmIyeDY5SFNPS05mSDhqMzh2REZzcTh6QU03T3NxTkhqVzJRYXRFVkplUENpeGtHN0JwYW5wTldPYWlER3VucG92M1lQQTA2OUFFU0Q0WExjRg?oc=5>
+- **特朗普** | 特朗普称暂停“自由计划”行动 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE94djdkNVJ6UFlCdV9MS1lxbXlaNHdnbjdYWlJ1STJhNmhreUwxZm9zMktoZU9IeVUxM0RlaTgyUUJ6WVdNeGYzYU52UzRlTDRQMFhSZGJsMTB6WmZtRVFiMg?oc=5>
+- **Trump** | 特朗普访华：北京仍缄其口 <https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdWgtME5CX1JlMWhMdW40VkVUUnp5M0tqVjNOeU0xbmphUU5MOF9QMXFUWWJTYmdkQnVnNWxCbzlOR2lOdGRwMVRqUUpIaU5Ub2w5cXRpZUgyODkwWVJyUGdkSUZlVlVDMUZ6T0hGWXFlVW5lY051M3hWSXdjZUYtdTlhX1hQcFMzZFFiY2pkVmpDX2dXclk0YW1tdUlLYUk1NjJoX3VybnNKc1pJUXJjWENXNFFiZ1pXbVpYYWt3VGpYOXFWX2ZERzJiTXBtTVJqdXp2Nzk1S1dJZ0ZaeGwxclV3VHM?oc=5>
+- **Trump** | 视频 伊朗外长赶在“特习会”前到访北京 <https://news.google.com/rss/articles/CBMiowJBVV95cUxOS19BdDQ4NFRRelFYUXRGTkR0d2NDYmN0UzhVb3RVX1dDQjNRRU9Pc3JCWUxfczV6WThCQzBBOGZhVjZMclFJNHFqQnhtaDg4ZG8wVXRWWjE1SVUxSDljZFNCYjZfcjM1VTJqZ2V0azRCNlJXalQ1UWJreXY0cHFpbmxnMjdtbE85aXdzdWRzN3ByYjFzTWlzb1pmUmxiaDUxMWt4b0xJaVhnLWs2ZGpUZlFsN3hUUGoyZnhSZlpjZldrdDY2X2ZjUjEwZFgweHBYbUFmZ2Jpbkw4TlJuMmI1SHhYRXZZZlFtNlhSbHJPQ0l2SEN0R0ZxN1pJU1ZZeEowTUwyMmxMRXZfSGhYZkVBa3JhQ1liQWdDY1NCdmUwZ2p6X2s?oc=5>
 
 ### 2026-05-06 12:25  (10 条)
 
