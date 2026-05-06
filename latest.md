@@ -1,114 +1,98 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-06 15:10**
-- 本轮扫到 361 条, 新增 **13** 条
+- 最近更新: **2026-05-06 16:59**
+- 本轮扫到 370 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (13 条)
+## 本轮新发现 (9 条)
 
-### 周杰伦的鸟巢演唱会对行业和粉丝意味着什么？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801jjb6.html>
-
-### 周杰伦鸟巢演唱会的门票预计如何购买和实名制规定？
+### 周杰伦首场鸟巢演唱会筹备引热议
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801jjbs.html>
+- 链接: <https://k.sina.com.cn/article_3876174997_e709bc9504001tenk.html>
 
-### 周杰伦2026年鸟巢演唱会的具体时间和主题是什么？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801jjbc.html>
-
-### 特朗普解雇民主党籍矿山安全专员及其工作人员。
+### 美国总统特朗普：此前曾感觉协议在望，接下来拭目以待。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-06 14:25
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1JbG9hWlZJOG1CM29FaVk5VXdxSzVBVE52eHBBbE1zTWpBTWZWSW0wYXVWODBHc0FsaTNuMW5mU2c5QmQ4TkJ3ODBWNA?oc=5>
+- 时间: 2026-05-06 14:59
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ENi1RTEk4Zm1BRHIxcU1TYnBfMlRqQTF6V0NrWlZxYjRid2ZUbnRjdVZBXzdIaTYtZDdFT2lncUM2X01MeFhDUzl5Zw?oc=5>
 
-### 全线上涨，超12万人爆仓，特朗普发声
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-05-06 13:47
-- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTFBoTVB6Y3RlaE9McmxqWTliZDN2RXFuMGZ2c2hCXy1YM1JPZEpSd2F0d0Q5bFlzd2lLTzM5OUgwd2g4U0hOTjAwTWZpRlBJSWZN?oc=5>
-
-### 立场反转——特朗普政府考虑对AI模型进行安全审查｜有画说
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-06 14:24
-- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE9fRjVuZUNsajNKRDliUFdZODNiM3Fzc3N6YUFTQ1RDX1BJbEdjN1ZhVnhOeHg0UTBMOHozVEoxb1FfSkR3MmhqeGoyMkxYNVJSaU1DVVNwUlI2NmJ1aDM4emE1bk9vNGlFRGhwQTdoSEwyZERrRlFLM19NbDA?oc=5>
-
-### 特朗普暂停疏导海峡被困船舶 称美伊和谈取得“巨大进展”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财新
-- 时间: 2026-05-06 11:12
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE95N2lxN0FpUVFuTzlhd2F3Sll5Z1dORkc5dGdGek01ZXRjMnN1eUYxeUJVeTNBM1hKT2NEbE55aVU1ZnpaQ3VQS0Z5ek1Fczd6YTB1Q2xBRVlVR0laYmN0aTJQUEtPYkt4UlE?oc=5>
-
-### 特朗普：伊朗若接受协议，战争就可结束
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-05-06 13:45
-- 链接: <https://news.google.com/rss/articles/CBMinwFBVV95cUxPSmdpeTFfWGNXek1MOFoxZUcyUE12QkNpcFhlYlZWbHo3NXBibmxrem5CZ3JuLXhWbzB4aEJXcXhoZWhWSHlRaUpWQWVoVGFUVmJQMnJGT29YQ091UUYyLXc4b3pRSUhJTnVZT25PWjQ2anRfNVRrdEhVbmlXTWppYTJ6NjZMTmowUC1uUHVONklLTEtSam1rXzE1eHZycWvSAaIBQVVfeXFMUHFSRzlHLWIxS1Q1ckp4VjNHS3B6Mzg0Z3NQNnNQSm4wdFdremprdG8xZDdwazZ1RTlqeGNvUW5sQ011X3NGcDA3TTZoajI1RV9PZ2Rhd2RsaHBSU3Y1YmJVdzVWN09oT3IxaGp6dy1XY0wwN3gxcmlma1FXX0owWEI2SGdRcXNTT1NxSUUtTzVwLWE3VHhxTTRTTTdUVzhsR293?oc=5>
-
-### 特朗普宣布“收手”，伊朗媒体：他退缩没牌打，咱赢了
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-05-06 08:29
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE90MllzZWtKOEI2eGttaGJ1emNLWjFKcF9LQzRfSTNKejlZS2oyX2FhT29KMmlKMTdXUzRmWmEyV09Va0tMTkNDNjhDR2pjZHZxMmdhZTJ0YlFkNi14QzFmcXJVYnV5dEVuV2c?oc=5>
-
-### 特朗普：如果伊朗同意美方条款，“史诗怒火”行动将宣告结束
+### 特朗普称伊朗战事“很有可能结束”，双方正接近达成协议
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: thepaper.cn
-- 时间: 2026-05-06 11:54
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQOGI1NFVTSmIyeDY5SFNPS05mSDhqMzh2REZzcTh6QU03T3NxTkhqVzJRYXRFVkplUENpeGtHN0JwYW5wTldPYWlER3VucG92M1lQQTA2OUFFU0Q0WExjRg?oc=5>
+- 时间: 2026-05-06 15:17
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE92NjVpakNManNFN1ZPY2tqcWZHNFA4anBFZHlwVDRyUk9veGZ1MXJXUThjVGxSYnVJc2JYdzlQazlaUTZYUjdaMm5ja1NBZGxxVUZHd3p6aE9HNGZfMEJrWQ?oc=5>
 
-### 特朗普称暂停“自由计划”行动
+### 美国总统特朗普：伊朗协议包含不得使用地下设施的条款。
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-06 14:47
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE80N0dmRWtFOFNSUVVLTzcycURBR3pMMUtvQll5TE1Ock9fb3IzMEN5Q0ZNcVRLcVExVXVaMXdMQldjYWVmZ0FlVnVOcw?oc=5>
+
+### 为什么特朗普“不得不”常买中国货
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-05-06 13:17
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9KWlJBeGM0a0NBWk9YLTd4akhKdTdvUDlIanduZEh3VnMzLW1MNnJnNnEwS0RMT09uQ3d4cU04U2JPNTZfOUxZSDNvU3M?oc=5>
+
+### 特朗普称伊朗“知道什么不该做”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-05 15:42
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxQblc5WjUxN2Vhd2hGcHZsbXUyY0VRMFlxMmlOWkdWZHdTNWMtQVhMNjhVVnlGOUJvZHg3QW5CeHJHcWpWU0RwSEpicXRuaE96LWNJTWtVc3lrSzk3LW9oUmEzcGJCcUFwZG9hVWlndnJLNzNGamN5ZW4yWWJKanZFQU5HV1hTS2t5WWFKZUtPWU8xc1FqWUdnQXoyRHB2cWdEVnBqeHF6MDNEdld3aTdEUU5kV0JQV3ZnU1pIWVpRbDlWUW1FYV9sRGttbEp3MThC?oc=5>
+
+### 民主党人要求特朗普政府披露以色列核武的“公开秘密”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中国网
+- 时间: 2026-05-06 08:17
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTFBmVHZFVmllRTRCNVRjZzIwQkVSVTdqeFRSNWFsTklKVmN4bnFaUFhZcVJWZjJybnpROWNpUzNLQ2tiVXJUbG1jRjVmclN6TVQtRmp1UVU4Zl9wanBvUGRJV2pRVklGYW9JcTExVVpMNA?oc=5>
+
+### 特朗普：如果伊朗同意美方条款 “史诗怒火”行动将宣告结束
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 东方财富
-- 时间: 2026-05-06 08:38
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE94djdkNVJ6UFlCdV9MS1lxbXlaNHdnbjdYWlJ1STJhNmhreUwxZm9zMktoZU9IeVUxM0RlaTgyUUJ6WVdNeGYzYU52UzRlTDRQMFhSZGJsMTB6WmZtRVFiMg?oc=5>
+- 时间: 2026-05-06 11:55
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGdGllT2RxWVU5SURpdXRpU2lzVlNWUk92R3ZnTlBFZy12ZTZNRVVOcWxobm4yUTdiNFdTdVp4U2x5X0lEc1lMYUdTZGNQeTVfRnY3UWZjRTJJOFBObTl0Vg?oc=5>
 
-### 特朗普访华：北京仍缄其口
+### 停航不停封，特朗普为何主动刹车？
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-05-06 13:59
-- 链接: <https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdWgtME5CX1JlMWhMdW40VkVUUnp5M0tqVjNOeU0xbmphUU5MOF9QMXFUWWJTYmdkQnVnNWxCbzlOR2lOdGRwMVRqUUpIaU5Ub2w5cXRpZUgyODkwWVJyUGdkSUZlVlVDMUZ6T0hGWXFlVW5lY051M3hWSXdjZUYtdTlhX1hQcFMzZFFiY2pkVmpDX2dXclk0YW1tdUlLYUk1NjJoX3VybnNKc1pJUXJjWENXNFFiZ1pXbVpYYWt3VGpYOXFWX2ZERzJiTXBtTVJqdXp2Nzk1S1dJZ0ZaeGwxclV3VHM?oc=5>
-
-### 视频 伊朗外长赶在“特习会”前到访北京
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-05-06 12:35
-- 链接: <https://news.google.com/rss/articles/CBMiowJBVV95cUxOS19BdDQ4NFRRelFYUXRGTkR0d2NDYmN0UzhVb3RVX1dDQjNRRU9Pc3JCWUxfczV6WThCQzBBOGZhVjZMclFJNHFqQnhtaDg4ZG8wVXRWWjE1SVUxSDljZFNCYjZfcjM1VTJqZ2V0azRCNlJXalQ1UWJreXY0cHFpbmxnMjdtbE85aXdzdWRzN3ByYjFzTWlzb1pmUmxiaDUxMWt4b0xJaVhnLWs2ZGpUZlFsN3hUUGoyZnhSZlpjZldrdDY2X2ZjUjEwZFgweHBYbUFmZ2Jpbkw4TlJuMmI1SHhYRXZZZlFtNlhSbHJPQ0l2SEN0R0ZxN1pJU1ZZeEowTUwyMmxMRXZfSGhYZkVBa3JhQ1liQWdDY1NCdmUwZ2p6X2s?oc=5>
+- 场馆: chinanews.com.cn
+- 时间: 2026-05-06 07:00
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rZzlQY1ZKY2p0UWVYTlNRMUNLcXp6RU5ON1ZjRlB6VERyWVRRbjUyd3JyZ0F6bC11c24tNXFjcUExdXVQUzVHYVpXcXhhblktYUdsMHg3dW1iQVJVTVZ0T1BEWEN1d3Fp?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-06 16:59  (9 条)
+
+- **周杰伦** | 周杰伦首场鸟巢演唱会筹备引热议 <https://k.sina.com.cn/article_3876174997_e709bc9504001tenk.html>
+- **特朗普** | 美国总统特朗普：此前曾感觉协议在望，接下来拭目以待。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ENi1RTEk4Zm1BRHIxcU1TYnBfMlRqQTF6V0NrWlZxYjRid2ZUbnRjdVZBXzdIaTYtZDdFT2lncUM2X01MeFhDUzl5Zw?oc=5>
+- **特朗普** | 特朗普称伊朗战事“很有可能结束”，双方正接近达成协议 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE92NjVpakNManNFN1ZPY2tqcWZHNFA4anBFZHlwVDRyUk9veGZ1MXJXUThjVGxSYnVJc2JYdzlQazlaUTZYUjdaMm5ja1NBZGxxVUZHd3p6aE9HNGZfMEJrWQ?oc=5>
+- **特朗普** | 美国总统特朗普：伊朗协议包含不得使用地下设施的条款。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE80N0dmRWtFOFNSUVVLTzcycURBR3pMMUtvQll5TE1Ock9fb3IzMEN5Q0ZNcVRLcVExVXVaMXdMQldjYWVmZ0FlVnVOcw?oc=5>
+- **特朗普** | 为什么特朗普“不得不”常买中国货 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9KWlJBeGM0a0NBWk9YLTd4akhKdTdvUDlIanduZEh3VnMzLW1MNnJnNnEwS0RMT09uQ3d4cU04U2JPNTZfOUxZSDNvU3M?oc=5>
+- **特朗普** | 特朗普称伊朗“知道什么不该做” <https://news.google.com/rss/articles/CBMi0AFBVV95cUxQblc5WjUxN2Vhd2hGcHZsbXUyY0VRMFlxMmlOWkdWZHdTNWMtQVhMNjhVVnlGOUJvZHg3QW5CeHJHcWpWU0RwSEpicXRuaE96LWNJTWtVc3lrSzk3LW9oUmEzcGJCcUFwZG9hVWlndnJLNzNGamN5ZW4yWWJKanZFQU5HV1hTS2t5WWFKZUtPWU8xc1FqWUdnQXoyRHB2cWdEVnBqeHF6MDNEdld3aTdEUU5kV0JQV3ZnU1pIWVpRbDlWUW1FYV9sRGttbEp3MThC?oc=5>
+- **特朗普** | 民主党人要求特朗普政府披露以色列核武的“公开秘密” <https://news.google.com/rss/articles/CBMib0FVX3lxTFBmVHZFVmllRTRCNVRjZzIwQkVSVTdqeFRSNWFsTklKVmN4bnFaUFhZcVJWZjJybnpROWNpUzNLQ2tiVXJUbG1jRjVmclN6TVQtRmp1UVU4Zl9wanBvUGRJV2pRVklGYW9JcTExVVpMNA?oc=5>
+- **特朗普** | 特朗普：如果伊朗同意美方条款 “史诗怒火”行动将宣告结束 <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGdGllT2RxWVU5SURpdXRpU2lzVlNWUk92R3ZnTlBFZy12ZTZNRVVOcWxobm4yUTdiNFdTdVp4U2x5X0lEc1lMYUdTZGNQeTVfRnY3UWZjRTJJOFBObTl0Vg?oc=5>
+- **特朗普** | 停航不停封，特朗普为何主动刹车？ <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rZzlQY1ZKY2p0UWVYTlNRMUNLcXp6RU5ON1ZjRlB6VERyWVRRbjUyd3JyZ0F6bC11c24tNXFjcUExdXVQUzVHYVpXcXhhblktYUdsMHg3dW1iQVJVTVZ0T1BEWEN1d3Fp?oc=5>
 
 ### 2026-05-06 15:10  (13 条)
 
