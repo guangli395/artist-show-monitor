@@ -1,48 +1,73 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-06 21:39**
-- 本轮扫到 390 条, 新增 **4** 条
+- 最近更新: **2026-05-06 22:44**
+- 本轮扫到 396 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (6 条)
 
-### 特朗普声称伊朗已同意放弃研发核武器
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-06 19:15
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE95NlhKX0RrWkRNVmFNNjhMdTk1eERaZzRvZmVwQWZWMFdmVEFYTlgzNlBQOWdNZlZObTRqaXEyemVDRXZhMlN1UlBGYw?oc=5>
-
-### 美国前助理国务卿冯稼时：特朗普关税政策完全失败
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-06 05:46
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTlpNS21pN0tlM2I5dDVma3RRdWlxNHhpb3N4RzBhZzZ2MDQtajdReGRXVklMczlqYTVDZHZGQlRxNGplU1oxOVk1YkdhQkNoMjdWVzlDTHVvYnU3NHBmZWhvMEhwNkVBVVozZ3dNeGZrd21oazZlS0RYS3Y1M2ZKVjF3bTVnOTRMUFFOWWtGQ242MjlJVWozcTdLeUFvTFdLQUdhYmJiV3pDMEJyanBsa2F0NHRqNzM1LVFaSGZYVkdGQV8zbllvY0FKMHhxbURT?oc=5>
-
-### 直说了！美高官：特朗普跟中国桌上谈，桌下踢
+### 最新民调曝光！特朗普支持率创新低
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-05-06 02:41
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1JcGRtX2xsclB3ZkVuVjZ5R3lWLXhncUVsZXM0U3ZkZGQ3dG9sQUF2U1dHRkJPWmd4Zm1DdnZRX1ZIemwtTVMxQnplRV8?oc=5>
+- 时间: 2026-05-04 00:16
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE03TkZoYnlsVFV0ZmJQM2Y2Tk1uNUU4OENDQnVlSjNIYkZlWGRWT1RqTjg4TWZOWmRvNzNjQnlpdHRmNWdxTTRiaklrOU0?oc=5>
 
-### Trump: Even If Oil Hit $200 a Barrel, War Would Have Been Worth It -- WSJ
+### 外交部：中美双方就特朗普总统访华事保持着沟通
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新京报
+- 时间: 2026-05-06 07:49
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE10bFN1eVZmRzVBVFBVQWpoSEJtS0VaSWkzTmw1TDVXcGFDWnpPQmRrWGVvNGY4RDN4cmZnS2tpc2tiOWFKal9qQVdxZE4tZnpOa29PaXpZUEdrSlQ1WXZFejBibXI?oc=5>
+
+### 美国前助理国务卿冯稼时答一财：特朗普关税政策完全失败
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 第一财经
+- 时间: 2026-05-06 05:47
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ia00ydTZmcGF2TjRPaWVDYkcyWDNUQVRpbFMxVldvRVlIQ0lRUXlMRG9tUVJkR1hyeXlVelNtX1VPR2RxS3lTekxBdmxlTGptSzNB?oc=5>
+
+### 特朗普将会见巴西总统卢拉 预计讨论经济和安全问题
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-05-06 14:03
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1lM2dDNDh6U19MSWNUQThqTWhOWnRWUHBNNTZQZEl5X05YZ2o5NUVweEpqYnFEMmI1R0VpcG52dXVzelBXTzRyXzl5anlEZFU0cmJzVjBXREkyYlhoM2tYQXhjMkhhQQ?oc=5>
+
+### 特朗普：埃克森美孚与雪佛龙董事长周二晚间到访白宫。
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-06 19:02
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9PUU0xSXRuU2ZXUzRFamNUUUtsMWFyREpXTGFNLWN4MWY3ejVsS1dXU0VrVDhJaGhUY3NjSVJZZVo1ZG52aHFueExqcw?oc=5>
+
+### 特朗普家族支持矿企 American Bitcoin 连续第二季度亏损，股价较峰值跌近 90%
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-05-06 21:17
-- 链接: <https://news.google.com/rss/articles/CBMilgFBVV95cUxNWmFpamlBZzVXWE5PbGIyaWROVktkTkpINDFRd0NaNUN2OTJSYTJqSmZCLW5qOUxVNUFwS0g4ZlF6YjZ2a2JucG5uZE9vbGZVWU92SXZUZEZTVHpBa09JeDFpWllIV1NnODdzMVU4cjRNOXdlVU1NYjV4aUNMZkQtbHo1TF9aY3cyZFdOV0E1aVIzMGJ4OGc?oc=5>
+- 场馆: 吴说
+- 时间: 2026-05-06 21:43
+- 链接: <https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYjlqSUxNbXBoanZrbDUzdkVfcF9VYXhhZEZHNHQxUS1VOE9LeTBKNEFKNnlSR1RYY0dQNzQ0XzF0UVRSUjdzNzBiWDNtWHFKckk1b3ZBa3NuTk81OUJpZGJhOGhPXzFOVDlFYmV2c19FajdIdWJwbE82ZF9jM3FRRkRvQ0dxUkJqYWtPdTQzOEd2LXo4V2o0QzVacWdBdmRZeVdwUkNTSXplXzlGNngwc1pQT0ZVbDBPUVNQUjRQZHI?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-06 22:44  (6 条)
+
+- **特朗普** | 最新民调曝光！特朗普支持率创新低 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE03TkZoYnlsVFV0ZmJQM2Y2Tk1uNUU4OENDQnVlSjNIYkZlWGRWT1RqTjg4TWZOWmRvNzNjQnlpdHRmNWdxTTRiaklrOU0?oc=5>
+- **特朗普** | 外交部：中美双方就特朗普总统访华事保持着沟通 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE10bFN1eVZmRzVBVFBVQWpoSEJtS0VaSWkzTmw1TDVXcGFDWnpPQmRrWGVvNGY4RDN4cmZnS2tpc2tiOWFKal9qQVdxZE4tZnpOa29PaXpZUEdrSlQ1WXZFejBibXI?oc=5>
+- **特朗普** | 美国前助理国务卿冯稼时答一财：特朗普关税政策完全失败 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ia00ydTZmcGF2TjRPaWVDYkcyWDNUQVRpbFMxVldvRVlIQ0lRUXlMRG9tUVJkR1hyeXlVelNtX1VPR2RxS3lTekxBdmxlTGptSzNB?oc=5>
+- **特朗普** | 特朗普将会见巴西总统卢拉 预计讨论经济和安全问题 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1lM2dDNDh6U19MSWNUQThqTWhOWnRWUHBNNTZQZEl5X05YZ2o5NUVweEpqYnFEMmI1R0VpcG52dXVzelBXTzRyXzl5anlEZFU0cmJzVjBXREkyYlhoM2tYQXhjMkhhQQ?oc=5>
+- **特朗普** | 特朗普：埃克森美孚与雪佛龙董事长周二晚间到访白宫。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9PUU0xSXRuU2ZXUzRFamNUUUtsMWFyREpXTGFNLWN4MWY3ejVsS1dXU0VrVDhJaGhUY3NjSVJZZVo1ZG52aHFueExqcw?oc=5>
+- **Trump** | 特朗普家族支持矿企 American Bitcoin 连续第二季度亏损，股价较峰值跌近 90% <https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYjlqSUxNbXBoanZrbDUzdkVfcF9VYXhhZEZHNHQxUS1VOE9LeTBKNEFKNnlSR1RYY0dQNzQ0XzF0UVRSUjdzNzBiWDNtWHFKckk1b3ZBa3NuTk81OUJpZGJhOGhPXzFOVDlFYmV2c19FajdIdWJwbE82ZF9jM3FRRkRvQ0dxUkJqYWtPdTQzOEd2LXo4V2o0QzVacWdBdmRZeVdwUkNTSXplXzlGNngwc1pQT0ZVbDBPUVNQUjRQZHI?oc=5>
 
 ### 2026-05-06 21:39  (4 条)
 
