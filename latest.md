@@ -1,146 +1,96 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-06 02:14**
-- 本轮扫到 299 条, 新增 **17** 条
+- 最近更新: **2026-05-06 05:42**
+- 本轮扫到 308 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (17 条)
+## 本轮新发现 (9 条)
 
-### 2019-2020湖南卫视跨年演唱会-综艺-高清视频在线观看-芒果TV
+### 蔡徐坤MetGala短片发布当日涨粉17万
 
-- 艺人/关键词: **王一博**
+- 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019054vza.html>
+- 链接: <https://k.sina.com.cn/article_1960601312_m74dc66e0053038f6w.html>
 
-### Q版赵丽颖王一博好萌！《有翡》发布卡通角色海报_华语制造_图集_电影网_1905.com
+### 蔡徐坤新歌《DeadmanWalking》舞台表现力惊艳全场
 
-- 艺人/关键词: **王一博**
+- 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019054v4c.html>
+- 链接: <https://k.sina.com.cn/article_1502793162_m5992cdca03301321s.html>
 
-### 王一博献唱央视五四晚会主题曲《未来我来》
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002kd1m.html>
-
-### 特朗普会晤习近平，人权、台湾和伊朗，全都要谈
+### 又反转！特朗普宣布暂停霍尔木兹海峡“自由行动”，并透露原因
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-05-06 00:46
-- 链接: <https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQzJ6dm1KZ2o4dW1GV1VhTjRNa0xUa3ZobnBzQWRGOUVKaVNjM3pZMjBMWVlFU3N2X2RmbEFHbmdHZEtEa1lRMVFTRko1SkpVQ2hES1Z3TU85V1drYWJOakpMX19lZ3RlR0tYQmZSRHV3NkxURGZNNFJKeVR1aURSZ2o0bHgxMnQzYndkeDMtYUJJZGRnTnJDeEdPRFdaczJMb2JvX0lsbXZhcFo5YlRodi15dUoyTTF3N0hSUlc0V3llVTjSAcYBQVVfeXFMT24yMVhwSXlTUE5hRVVZYTdaLWZXbHZST1RjenhTV2szZVhMdkZYZk5MdjNFajFXWmlVTlJVVmdfZGl1QU42RGwyR2lmNld2WlhUaUNCSVpnXzZRVDNUWDE0Uk5Rd0NwMnlhR2xaYXRNbzB5bzh2MThrRWdzOUFLRTJhSjFWZ2NpWXZxa19aampEVDNIaE55RjlZRWtCZkQxTVdvVFBGN2hXcVdxblZiM1dEbnM3bHhaczB3M2doby14ekNjckhn?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-05-05 23:03
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBhMGFuakU1djBxSlVaQzZyUmQ3MVNUcE1RcUhJa0U4Nk5wWl90eUE5RmdkQlZOdHlybzdHV1NzLUR0QlFuX19wdnlMZ3o?oc=5>
 
-### 特朗普避谈伊朗怎样算违反停火
+### 以总理或再访美劝特朗普重启战争
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-06 00:41
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1fd19SLTVzNngzNG02OWVxX0VZU0hWcDFRRlk2UUhOVFlnWlBsQ1BRUHJHdzlaREFHbjRsZkEwVXBKR0Rta2VXR201RQ?oc=5>
+- 时间: 2026-05-06 05:20
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE43cW9BSHg2YmZxQ2JVYkVHT0xuSHZIZUlXbzYzcDZKRmtzUXZ6VWg2bEswenVacEN0TmVtTEFzX0NRVmdtTXB3cWwxaw?oc=5>
 
-### 清晨全线拉升，特朗普重大宣布
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰财经
-- 时间: 2026-05-05 23:26
-- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTFBybFpuRGVhd0JPNktQUjhmQi1DRkh2M0c4Vlg2a0xtX1NYeDA2UzlPeWhrcU1IZk1zeVBvb2c4OHlLbmc5TjRhSzItQWpTY2pI?oc=5>
-
-### 新华社消息丨特朗普宣布暂停“自由计划”行动
+### 国际丨特朗普建议爱好排球的女孩去踢足球，被美国网友批评
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-05-06 02:02
-- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTFB1NGZJSXUzTXRtVGpmaW9ERndzQjBoVXFyZmpNeVVsbC1YQXdqazUwUllhNHkyWXhZc1I3R1RsMHZwdXBkYUVHZlBYTlF1aGRrYXh6NUZaR0hSR3VSSlNkOTFtckJJSV9SMktuTW4tY2s0SVhFeUI4S2FEdk8wQQ?oc=5>
+- 场馆: 新京报
+- 时间: 2026-05-06 05:24
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMYlZHQjZiMzgzWWxxX3VPVC10dmV4TEF4MXFnWGQtUEoxcTBHN3h4ZkFsd000Z1pNUXBDWG5fSTNVMXhvbjl3a3FXM0NkT1lCTlpZTDZjWFBEVGtJVFNsZGJqeE8?oc=5>
 
-### 特朗普政府起诉纽约时报公司，称其歧视白人男性
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-05-06 01:04
-- 链接: <https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSUJlbmhrdWZmMzQyaXFRTi1ydEE4bHdzSWd4NUtlWXVrQjJpNl9sbTBDTDVtTmd2ckZfQjhHbE1fTFBuWUotYWhHNE9LY2VWRnNmLXg3N25ndlN0dncxMmcxcEFpcFg0QUJfb09UZFhUZ1M0T3UxUWRsdVg2ZjZnQlIzMldrbzUxQ0VRQ3ZhR1RzVFBlRGZlZ1JyYkNTeEZmS0JNM1JES3ZVdnlfNzJ5Y0g3SEs5NUw1TWV3dGcxS2E?oc=5>
-
-### 晨枫：如果特朗普从欧洲撤走美军……
+### 霍尔木兹海峡，突发！特朗普：美伊协议取得重大进展，暂停“自由计划”！
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-05-05 23:58
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HQVQweFRNMlZKSWlVVHBFNVhaVkFuTW40WlZTWnpta1dadlRaeVl4eURBc1lRZ3c4cXJ6WFY1SVpaNXVsRnpCQ1g1a1d5bE9lRTkxUXJQQUEtWWQ3YkpHdE02S1hza2s?oc=5>
+- 场馆: 证券时报
+- 时间: 2026-05-06 00:17
+- 链接: <https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMdXROZWMwUm4wcDBXY3FXQnNIUEZfZndPb1dHMUI3NXJoMkVUY09JQXpSMmZyQW9RLWl5N0pOM25qNVFscnBJczhYdHhuTTQwYUZqZFFUMThvUDJE?oc=5>
 
-### 特朗普称伊朗“知道什么不该做”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-05 15:42
-- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxOUVpIeG5wbTlXLUhBX1JXWVZHWWJiYVJpNWJpMjhXcUpDRjJiUzhZcGVYSV8yMHB0a0EyZkw5S2Q4ZzgzbzVhbHZuaHlqanBtYjZfRTZkNER5dXppdUx0cEhUdWItOEdRZ2lfdm1ZVzVhcVdkalBtZUxuWENIQ1BfYTBhQTF5QXZ1NDhoRTB2aEZRZmZqLTBUek5tR0JydTJOSC1WVnUyTGhMRTFXOG9Qb3o2UW5OWWp1TEFuVWVtV1EwT043c010R0FodGJVMW8?oc=5>
-
-### 特朗普宣布暂停“自由计划”行动
+### 特朗普称暂停“自由计划”行动
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-05-06 00:05
-- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTFAwLUtvbUJySXpLSmd5eS0tZm92MmpGeHQxanJvOENVRWppS29PdzZZUUFFRFF4ODlrVVYxZVVZdGprOEpidzcxazVYVjlyamotdmdNMk1yX3FVTTZuM2lvMTRCTDBVQ3BZeElmcVNOV2FRUEp4eW5ESkRIRVBXdw?oc=5>
+- 场馆: chinanews.com.cn
+- 时间: 2026-05-05 23:19
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE13NW02UnQ2Rk9aNlJsQTF5LVpyQXY0ZGNqdDNycWhwSGJoVW5GQXZaRnZ6c3I1M2JlZ2FBRlVYZ2c2WVRQUERwNGFCUlhZckV6ZGprU3JuWng4aUJpTXNxVk5SMUlKcFlM?oc=5>
 
-### 特朗普宣布暂停“自由计划”行动
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-05-06 00:05
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1mWWJoWGJxMEJ5eHNCNi1DY2VFRGdwb0c1ZjBaRkc3VXRQQ0hRYXB2d2JEOG01N0NMZVgwNzVFelE2c19FNlJNYURMaVlaVGh6bVVhNWMxclBDRWlKQTFUT041Nnl0Q29QUUgtSU9lVGczYWxYWmM4Ri0zQWpQcWc?oc=5>
-
-### Oil Futures Fall After Trump Pauses Effort to Partially Reopen Strait of Hormuz
+### Trump pauses operation to guide ships from Strait of Hormuz
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 富途牛牛
-- 时间: 2026-05-05 23:54
-- 链接: <https://news.google.com/rss/articles/CBMiogFBVV95cUxPblJETkc1TjFTQlBweHUyTlhiT1RxYjR5eGN5QUFMczhId084WlRBYWxpSTlQYmg3b0VUR0FoaGRheFM4aTc4UFNoOEFubWE1aEEzV0xpbDhiNkdGVHQtejZIRDdnQTh5STNySzJ3N0VvNW5tdUUxWmpjb2gybkdKX0ptR2h2WDdvLVVmMTJ5N3VjZEFaUEhES3FiSjAwT2IxVEE?oc=5>
+- 场馆: news.tvb.com
+- 时间: 2026-05-06 04:38
+- 链接: <https://news.google.com/rss/articles/CBMixwFBVV95cUxOUnpTcmVNMVcyMWpOa3VZVUdzMUJzQ1ZPa1ZMTnhJVFM4QkE5TGFrVm9UYkItQzBlVTI2b0lzeVNROUFDNW91N3MxRmJPQkZ6LWZDaTZtckpNSC1NemE1QnNWU3FuQmVxZ09XNi13MV8zUFNOMHNzY2R0RENabExBVFRXVzJiMEdGOWNPRGFUU0VXdnB4ZUQxTWJoeXdBSWRkSjVpN1VxcTJTOUlJZHd2WmUtSkJHV2NIRXBaVHhhTGdLQmxtbThZ?oc=5>
 
-### 特朗普宣布暂停霍尔木兹海峡“自由计划”
+### 特朗普称同习近平关系好 指他在伊朗问题上尊重美方
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: 8world
-- 时间: 2026-05-05 23:46
-- 链接: <https://news.google.com/rss/articles/CBMinwFBVV95cUxNNmdZS2J3ZjliYUtGc3VqYnNjcE9mSVhQWTF4Ync2N2ZFeDZXYVJaOE5jdHc3bmdCU0FfQnBRaExuS3BmeTVuTERLUlZLYzN2aDlQWEJHRHBHdGlISUd5NERJQkQxWXRmLTVxS1pWQ3NRdEhQT19fcFM3ZFY3YUxLQnVnRDRud3VlMnM4N3Z1bk03Tk9NLTdpaXI4M2NOclk?oc=5>
-
-### 特朗普：期待两周后会见习主席，会再提黎智英
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-05-05 09:12
-- 链接: <https://news.google.com/rss/articles/CBMi0AJBVV95cUxQVXhsQWxubTNwdWVDUmNJNVRFa1RIcGZldEs4ekxpcXJZOVk2X0syMUtjMGJoWjkwTjVseUR3S0FsWjJkSGZPSnBfdEVBck5EQUFScEZPTXNWOEU5WURYYjRJcFd5QnZYQ1Eyc1N0OHE3c1QtRTdCMHRramxUZTkzQzdqRDJmd3h1Nks5VjRyNDZoQWROeElRa3lxUHcxV3VORXR0bFBMcjcxcWlaemlZZ01EeFJqWW9MSE5SZDV0WXQzdWZlUU05emhmUWxMeU9pbC04SnJSbWxxSlJ4d2NqQjdfOXJicXc4NmNvN1FQZWxSUjlqTHE3S0hHNS1PVkFmbjZfOFFnTG8wd0xLaGhOQzczbFBuRGJXdjFJYi1lRTcteWMyclJKbnRFb3NrdG9wVGlXci1NZE9ZbXF2LS1OMUhPYWR3MzViNlVPczMtQjg?oc=5>
-
-### 特朗普指责教皇良十四世：反对伊朗战争是让天主教徒面临危险
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-05-06 00:50
-- 链接: <https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRm5falc1U3NPaXY3WVdGY254Y25hcGdiR2FtMUZyS0VhYmhJRmtyOURjMDBnMUs1TExsay1FMXRGc1ZjNG9aRjJ3VVJZLTVRWlRBOWZhZ3hBUjJ2NU5Kd1lIVXhGNlpSMHFQR1U5Qmw2aEV5bzdXTUpMUjBuYWFhVmUyRjQwMDhtWTlqMjR5Vi12cFNsM0FTdFk2UGxCN1JySXpEWHN6N0U?oc=5>
-
-### 卢比奥：特朗普和习近平下周会面时 或触及台湾课题
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-05-05 23:40
-- 链接: <https://news.google.com/rss/articles/CBMijgFBVV95cUxOSlBsaU1LajV5RFBvakV0SGw2OXh6aVhsYXBpUlRjS3JCZlFwMzV0LXJZdTltUGs3UmdaSVZlQncwM2dmZ3JudkFiTWNmd1BaeV9BcVNvLWYzZ1FDMF91MzRRV1N2QVhmdG1VdjlILW11ajJ5MW9vRDMzb29aWFduV09wZzhuVVlLbTlWOExR?oc=5>
+- 时间: 2026-05-06 05:28
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBGVDBSVGxKRFVaWDlrN2Mxei1YSjV2cm0ySFY4SXlRd0NRWTdVcVppeDVHcWw0S1BLSHg2RkhpMWJjT2VabFNCdlR4TjhRRnR2Slk5MjZMRXVHLTVNR1BCR2Y1dnpUeEVWZ1E?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-06 05:42  (9 条)
+
+- **蔡徐坤** | 蔡徐坤MetGala短片发布当日涨粉17万 <https://k.sina.com.cn/article_1960601312_m74dc66e0053038f6w.html>
+- **蔡徐坤** | 蔡徐坤新歌《DeadmanWalking》舞台表现力惊艳全场 <https://k.sina.com.cn/article_1502793162_m5992cdca03301321s.html>
+- **特朗普** | 又反转！特朗普宣布暂停霍尔木兹海峡“自由行动”，并透露原因 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBhMGFuakU1djBxSlVaQzZyUmQ3MVNUcE1RcUhJa0U4Nk5wWl90eUE5RmdkQlZOdHlybzdHV1NzLUR0QlFuX19wdnlMZ3o?oc=5>
+- **特朗普** | 以总理或再访美劝特朗普重启战争 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE43cW9BSHg2YmZxQ2JVYkVHT0xuSHZIZUlXbzYzcDZKRmtzUXZ6VWg2bEswenVacEN0TmVtTEFzX0NRVmdtTXB3cWwxaw?oc=5>
+- **特朗普** | 国际丨特朗普建议爱好排球的女孩去踢足球，被美国网友批评 <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMYlZHQjZiMzgzWWxxX3VPVC10dmV4TEF4MXFnWGQtUEoxcTBHN3h4ZkFsd000Z1pNUXBDWG5fSTNVMXhvbjl3a3FXM0NkT1lCTlpZTDZjWFBEVGtJVFNsZGJqeE8?oc=5>
+- **特朗普** | 霍尔木兹海峡，突发！特朗普：美伊协议取得重大进展，暂停“自由计划”！ <https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMdXROZWMwUm4wcDBXY3FXQnNIUEZfZndPb1dHMUI3NXJoMkVUY09JQXpSMmZyQW9RLWl5N0pOM25qNVFscnBJczhYdHhuTTQwYUZqZFFUMThvUDJE?oc=5>
+- **特朗普** | 特朗普称暂停“自由计划”行动 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE13NW02UnQ2Rk9aNlJsQTF5LVpyQXY0ZGNqdDNycWhwSGJoVW5GQXZaRnZ6c3I1M2JlZ2FBRlVYZ2c2WVRQUERwNGFCUlhZckV6ZGprU3JuWng4aUJpTXNxVk5SMUlKcFlM?oc=5>
+- **Trump** | Trump pauses operation to guide ships from Strait of Hormuz <https://news.google.com/rss/articles/CBMixwFBVV95cUxOUnpTcmVNMVcyMWpOa3VZVUdzMUJzQ1ZPa1ZMTnhJVFM4QkE5TGFrVm9UYkItQzBlVTI2b0lzeVNROUFDNW91N3MxRmJPQkZ6LWZDaTZtckpNSC1NemE1QnNWU3FuQmVxZ09XNi13MV8zUFNOMHNzY2R0RENabExBVFRXVzJiMEdGOWNPRGFUU0VXdnB4ZUQxTWJoeXdBSWRkSjVpN1VxcTJTOUlJZHd2WmUtSkJHV2NIRXBaVHhhTGdLQmxtbThZ?oc=5>
+- **Trump** | 特朗普称同习近平关系好 指他在伊朗问题上尊重美方 <https://news.google.com/rss/articles/CBMiakFVX3lxTFBGVDBSVGxKRFVaWDlrN2Mxei1YSjV2cm0ySFY4SXlRd0NRWTdVcVppeDVHcWw0S1BLSHg2RkhpMWJjT2VabFNCdlR4TjhRRnR2Slk5MjZMRXVHLTVNR1BCR2Y1dnpUeEVWZ1E?oc=5>
 
 ### 2026-05-06 02:14  (17 条)
 
