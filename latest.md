@@ -1,64 +1,62 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-06 22:44**
-- 本轮扫到 396 条, 新增 **6** 条
+- 最近更新: **2026-05-06 23:44**
+- 本轮扫到 401 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (5 条)
 
-### 最新民调曝光！特朗普支持率创新低
+### 王一博灵感双语早安问候发布
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-05-04 00:16
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE03TkZoYnlsVFV0ZmJQM2Y2Tk1uNUU4OENDQnVlSjNIYkZlWGRWT1RqTjg4TWZOWmRvNzNjQnlpdHRmNWdxTTRiaklrOU0?oc=5>
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://video.sina.com.cn/p/finance/2026-05-07/detail-inhwzmmr2912616.d.html>
 
-### 外交部：中美双方就特朗普总统访华事保持着沟通
+### 特朗普提议中国改买美国石油，外交部：能源政策建议向有关方面了解
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-05-06 07:49
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE10bFN1eVZmRzVBVFBVQWpoSEJtS0VaSWkzTmw1TDVXcGFDWnpPQmRrWGVvNGY4RDN4cmZnS2tpc2tiOWFKal9qQVdxZE4tZnpOa29PaXpZUEdrSlQ1WXZFejBibXI?oc=5>
+- 场馆: thepaper.cn
+- 时间: 2026-05-06 08:39
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuWXNaaS1GTFBzTTFuUzFaRzFXWFpqbnlVcDAwZ1J4dHFIMV9LTTJJU3ZuejJJelZ6TFNYamh4QUhDZTV4RnVfUUZZZWZJcnFGMmJYQWZrd0VUcXhNNWRhbw?oc=5>
 
-### 美国前助理国务卿冯稼时答一财：特朗普关税政策完全失败
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 第一财经
-- 时间: 2026-05-06 05:47
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ia00ydTZmcGF2TjRPaWVDYkcyWDNUQVRpbFMxVldvRVlIQ0lRUXlMRG9tUVJkR1hyeXlVelNtX1VPR2RxS3lTekxBdmxlTGptSzNB?oc=5>
-
-### 特朗普将会见巴西总统卢拉 预计讨论经济和安全问题
+### 美媒：“遗憾的是，事态发展让特朗普言中了”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-05-06 14:03
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1lM2dDNDh6U19MSWNUQThqTWhOWnRWUHBNNTZQZEl5X05YZ2o5NUVweEpqYnFEMmI1R0VpcG52dXVzelBXTzRyXzl5anlEZFU0cmJzVjBXREkyYlhoM2tYQXhjMkhhQQ?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-05-06 23:39
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE0tU0VLQUJpVWNUU2drUW8tYlBjeUktcHJUamgtcWRuTm1RTkNTQTY4TkpMWkVMWVI4TDk4NjNFYUVEbVdKNjNTRjhxUnBQak1pYjh1VmZ3MV9HNVQ0M1FfZkNoZXFYMFN2WDdVRWp0T3U?oc=5>
 
-### 特朗普：埃克森美孚与雪佛龙董事长周二晚间到访白宫。
+### 为什么特朗普“不得不”常买中国货
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-06 19:02
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9PUU0xSXRuU2ZXUzRFamNUUUtsMWFyREpXTGFNLWN4MWY3ejVsS1dXU0VrVDhJaGhUY3NjSVJZZVo1ZG52aHFueExqcw?oc=5>
+- 场馆: Sohu
+- 时间: 2026-05-06 22:21
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxOYS1zNUFkRmJRT2ptbjFjUThxOEZfbFN5YjV3aGFHNmJNby0yMWpoNXRuTWhBNzJxZFhORDlSQVMxUFpjN1FKUTRGRUtKOTM4TVVrTnRrWlZKN1RMcU43dU54ZXhSN3d5dEx6Y29xckpobFdFaTMtem5KUURWcDJqb3RqVy14dWRqeWIydg?oc=5>
 
-### 特朗普家族支持矿企 American Bitcoin 连续第二季度亏损，股价较峰值跌近 90%
+### 特朗普称伊朗战事可能在他访华前结束
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 吴说
-- 时间: 2026-05-06 21:43
-- 链接: <https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYjlqSUxNbXBoanZrbDUzdkVfcF9VYXhhZEZHNHQxUS1VOE9LeTBKNEFKNnlSR1RYY0dQNzQ0XzF0UVRSUjdzNzBiWDNtWHFKckk1b3ZBa3NuTk81OUJpZGJhOGhPXzFOVDlFYmV2c19FajdIdWJwbE82ZF9jM3FRRkRvQ0dxUkJqYWtPdTQzOEd2LXo4V2o0QzVacWdBdmRZeVdwUkNTSXplXzlGNngwc1pQT0ZVbDBPUVNQUjRQZHI?oc=5>
+- 场馆: RFI
+- 时间: 2026-05-06 21:44
+- 链接: <https://news.google.com/rss/articles/CBMiqwJBVV95cUxOb3JOOWs5TXFPU0xGbmZNT0s0RWhmNVM2dzFhWXJXbHNXUVpNeGFqOTJndklDUVRBYnk1dVl1OXBna1dLS1FsbXBOX0dvMjM5M29yaFFVMEI3YXFTVnBaeFFWbDB1ZHdpX1EtRXFsSGdhcm0yTE1pelFxVXMxWVFycVVaVnRmejVkMmdrVFppU1VhMjFndDdyZFlWY1NKN1lMeGo2TzJjYXlYNF80WjRVNk42Q1FBYXUxQXBGZnp2SnQxci1JazNjSllLb0pRTWxwV084YllDQS1IQ2ZmZENsQjh5R0pHb2p4VDFCUVlHMDhvTFM4bXdfQWp1LWd3T29HNzVBODJMOW11NG1XdEdPcTdSVVhmOHF1UWJ4OC1xNkY2VHBjcHVxYm0tYw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-06 23:44  (5 条)
+
+- **王一博** | 王一博灵感双语早安问候发布 <https://video.sina.com.cn/p/finance/2026-05-07/detail-inhwzmmr2912616.d.html>
+- **特朗普** | 特朗普提议中国改买美国石油，外交部：能源政策建议向有关方面了解 <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuWXNaaS1GTFBzTTFuUzFaRzFXWFpqbnlVcDAwZ1J4dHFIMV9LTTJJU3ZuejJJelZ6TFNYamh4QUhDZTV4RnVfUUZZZWZJcnFGMmJYQWZrd0VUcXhNNWRhbw?oc=5>
+- **特朗普** | 美媒：“遗憾的是，事态发展让特朗普言中了” <https://news.google.com/rss/articles/CBMicEFVX3lxTE0tU0VLQUJpVWNUU2drUW8tYlBjeUktcHJUamgtcWRuTm1RTkNTQTY4TkpMWkVMWVI4TDk4NjNFYUVEbVdKNjNTRjhxUnBQak1pYjh1VmZ3MV9HNVQ0M1FfZkNoZXFYMFN2WDdVRWp0T3U?oc=5>
+- **特朗普** | 为什么特朗普“不得不”常买中国货 <https://news.google.com/rss/articles/CBMijAFBVV95cUxOYS1zNUFkRmJRT2ptbjFjUThxOEZfbFN5YjV3aGFHNmJNby0yMWpoNXRuTWhBNzJxZFhORDlSQVMxUFpjN1FKUTRGRUtKOTM4TVVrTnRrWlZKN1RMcU43dU54ZXhSN3d5dEx6Y29xckpobFdFaTMtem5KUURWcDJqb3RqVy14dWRqeWIydg?oc=5>
+- **Trump** | 特朗普称伊朗战事可能在他访华前结束 <https://news.google.com/rss/articles/CBMiqwJBVV95cUxOb3JOOWs5TXFPU0xGbmZNT0s0RWhmNVM2dzFhWXJXbHNXUVpNeGFqOTJndklDUVRBYnk1dVl1OXBna1dLS1FsbXBOX0dvMjM5M29yaFFVMEI3YXFTVnBaeFFWbDB1ZHdpX1EtRXFsSGdhcm0yTE1pelFxVXMxWVFycVVaVnRmejVkMmdrVFppU1VhMjFndDdyZFlWY1NKN1lMeGo2TzJjYXlYNF80WjRVNk42Q1FBYXUxQXBGZnp2SnQxci1JazNjSllLb0pRTWxwV084YllDQS1IQ2ZmZENsQjh5R0pHb2p4VDFCUVlHMDhvTFM4bXdfQWp1LWd3T29HNzVBODJMOW11NG1XdEdPcTdSVVhmOHF1UWJ4OC1xNkY2VHBjcHVxYm0tYw?oc=5>
 
 ### 2026-05-06 22:44  (6 条)
 
