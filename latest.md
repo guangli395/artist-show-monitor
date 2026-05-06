@@ -1,86 +1,125 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-06 16:59**
-- 本轮扫到 370 条, 新增 **9** 条
+- 最近更新: **2026-05-06 18:21**
+- 本轮扫到 382 条, 新增 **12** 条
 
 ---
 
-## 本轮新发现 (9 条)
+## 本轮新发现 (12 条)
 
-### 周杰伦首场鸟巢演唱会筹备引热议
+### 妆造摄影、烤串小吃、就餐接送车,“周杰伦演唱会经济”太疯狂!
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_3876174997_e709bc9504001tenk.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019055wca.html>
 
-### 美国总统特朗普：此前曾感觉协议在望，接下来拭目以待。
+### 特朗普：我们拭目以待，看对方是否愿意达成共识。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-06 14:59
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ENi1RTEk4Zm1BRHIxcU1TYnBfMlRqQTF6V0NrWlZxYjRid2ZUbnRjdVZBXzdIaTYtZDdFT2lncUM2X01MeFhDUzl5Zw?oc=5>
+- 时间: 2026-05-06 16:59
+- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE8ySml2eWtXT0pHUk1CTEdOOVRKWFlTY2dkMDVla2hqUEd0MFpVRlBDMFVaWEQ2ZnMyQmhCcUFqdzdCNW82UU9FQjRqSHBRNzQ?oc=5>
 
-### 特朗普称伊朗战事“很有可能结束”，双方正接近达成协议
+### 特朗普称对伊行动“进展顺利”，强调封锁与谈判并行
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: thepaper.cn
-- 时间: 2026-05-06 15:17
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE92NjVpakNManNFN1ZPY2tqcWZHNFA4anBFZHlwVDRyUk9veGZ1MXJXUThjVGxSYnVJc2JYdzlQazlaUTZYUjdaMm5ja1NBZGxxVUZHd3p6aE9HNGZfMEJrWQ?oc=5>
+- 时间: 2026-05-06 17:52
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuZGxnbWRzMThwa0VoX0lGT1N5VXFEUjU2YlNVeW9TdUNMczZEaXpmdmswM1MxOFZTUnQ1S25TOVFSdGNMaGVVV3Mzb3c1cEwxem5aT1NSUFZNVGRQdnc?oc=5>
 
-### 美国总统特朗普：伊朗协议包含不得使用地下设施的条款。
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-06 14:47
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE80N0dmRWtFOFNSUVVLTzcycURBR3pMMUtvQll5TE1Ock9fb3IzMEN5Q0ZNcVRLcVExVXVaMXdMQldjYWVmZ0FlVnVOcw?oc=5>
-
-### 为什么特朗普“不得不”常买中国货
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-05-06 13:17
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9KWlJBeGM0a0NBWk9YLTd4akhKdTdvUDlIanduZEh3VnMzLW1MNnJnNnEwS0RMT09uQ3d4cU04U2JPNTZfOUxZSDNvU3M?oc=5>
-
-### 特朗普称伊朗“知道什么不该做”
+### 特朗普称美伊谈判进展顺利，伊朗希望达成协议
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-05 15:42
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxQblc5WjUxN2Vhd2hGcHZsbXUyY0VRMFlxMmlOWkdWZHdTNWMtQVhMNjhVVnlGOUJvZHg3QW5CeHJHcWpWU0RwSEpicXRuaE96LWNJTWtVc3lrSzk3LW9oUmEzcGJCcUFwZG9hVWlndnJLNzNGamN5ZW4yWWJKanZFQU5HV1hTS2t5WWFKZUtPWU8xc1FqWUdnQXoyRHB2cWdEVnBqeHF6MDNEdld3aTdEUU5kV0JQV3ZnU1pIWVpRbDlWUW1FYV9sRGttbEp3MThC?oc=5>
+- 时间: 2026-05-06 17:28
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxOUlBWSGNlVTVoZHZVMVhRb25RT2ZEc0phbktORUVheUNQTkJHcmNJMnpmNExVZWVaLTRtZGVnRUpaSHpsWnF4VE1UdWNoS0x6RGxPRDJDbEpmWHpudVdkTUs0OGZqbFBMU1AxSk5GZWJYVVJIN3pNaXU4dGx6MXdmTUpVbGFtZjA?oc=5>
 
-### 民主党人要求特朗普政府披露以色列核武的“公开秘密”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中国网
-- 时间: 2026-05-06 08:17
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTFBmVHZFVmllRTRCNVRjZzIwQkVSVTdqeFRSNWFsTklKVmN4bnFaUFhZcVJWZjJybnpROWNpUzNLQ2tiVXJUbG1jRjVmclN6TVQtRmp1UVU4Zl9wanBvUGRJV2pRVklGYW9JcTExVVpMNA?oc=5>
-
-### 特朗普：如果伊朗同意美方条款 “史诗怒火”行动将宣告结束
+### 特朗普是疯言疯语还是老谋深算
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-05-06 11:55
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGdGllT2RxWVU5SURpdXRpU2lzVlNWUk92R3ZnTlBFZy12ZTZNRVVOcWxobm4yUTdiNFdTdVp4U2x5X0lEc1lMYUdTZGNQeTVfRnY3UWZjRTJJOFBObTl0Vg?oc=5>
+- 场馆: 财新
+- 时间: 2026-05-06 09:47
+- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE54SEpVMktVeV9oZWNIWm1uT21SQlVXbnhQWW9TVHZXeHpqQ1kyRG9hVmJmUmFnMFU0MHhfMS1PYmxvUUwtOFotaVd3OHktZktUSUUweXhndllVWTlGbldUWk5B?oc=5>
 
-### 停航不停封，特朗普为何主动刹车？
+### 特朗普总统访华前，两党参议员提出决议案呼吁特朗普政府将中国威胁列为其最优先的外交政策议题
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-05-06 07:00
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rZzlQY1ZKY2p0UWVYTlNRMUNLcXp6RU5ON1ZjRlB6VERyWVRRbjUyd3JyZ0F6bC11c24tNXFjcUExdXVQUzVHYVpXcXhhblktYUdsMHg3dW1iQVJVTVZ0T1BEWEN1d3Fp?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-05-06 17:48
+- 链接: <https://news.google.com/rss/articles/CBMixwFBVV95cUxPM2x0Wmo1RXBsZVpUS1NHcl9pMDc1YkJwM1E1QWtkWThtT2RnY25sOFMxV25wem5mdEl0UjRRenh6Rmx4bnZDQkNBSGVySGMzdnRmbGo1aTR5cU1QY3E5NE9ISjdSUjJiYjBxMFFsNlNYNWkzNzhGcEJFTUtPYXBkTnhwU01MV2hkaGtmUTdNVVZlTk02RERkOE9YUVVlellQQkxjbXVoT2p6cGRBcFNCY1haWVBvZ2FkcDhxdUtabDRZMHUzN3hV0gHKAUFVX3lxTE9WUUFWZlcydEZraG1vVWI4dFZTN1ZybGRHY3RaT3Zsdmt1cjFMVU95bTBvcEVUTUZmTTcxUi1JOXNIVGVKaU9zdTdEZWs2d28zWGNqUlVDeFA5SmtnVkpHNEpSNTJCdG9Qd2RqMDVTX1lxTWRPQzVudkdPZVlGNlBOclBpX2JVdGNFU194ZmFkY0xyYWVSdVIzUm83SXJ4OGs0SXJMR2ZreDRuTnhuU1lHWjdscmxuSGNoSElRa3Z6MTJuLVA5ckJkWHc?oc=5>
+
+### ArcelorMittal 为特朗普新宴会厅建设先提供“约600吨钢材”
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-05-04 20:22
+- 链接: <https://news.google.com/rss/articles/CBMiwwJBVV95cUxObjhaT29UUW51eUY2V3NkN3V2dnFnS0NKbnRpVjI2emFHanJfYWFyR3JGRUdUdHhJVXpaeTk0VG1qRW9GNkU0MGVhZmNBM2F6ZVU3cEZRcFV6Q1BqanY3VHVOb3FZN3NfNDV0azhMZVJoYnZxZVA5S3NEUk9VRXJqTzN2RzRKXzI4MHVzOTRIYk5sLWEzaThrMTJfY0lZMmZnbzlnUDZ2WV9LLWFQY09yaXdLcTU0cWh2RzUxQ0Z2RHhyS1o1NjZmcXRRQlpNN2lIQ0FLXzNBb3p4NWk5V2ZRRXBpVWl1bVRDWHN1Y0hYU18xVEF1bXVGT1dDaEpxdmZjYjVtVnpORFF5RkIzLXp3MjdoNjZPalJLQnNVNmZHbU53d1k4MkVNRjZvdU1CVnB6ai01eWx2ejhQWjFKTDQ3LVdGSQ?oc=5>
+
+### 法媒：减少驻欧美军 特朗普在削弱北约
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-05-03 21:11
+- 链接: <https://news.google.com/rss/articles/CBMiogJBVV95cUxNa2lmOVJCZUlEanM2ektBdGFzUmQ5TjdsbzF2OWJ0MXFSd09aVm5TRE4xNXZlZHp2a2RBZF8tWVRKRFlNNWl0T1VXZzNVcUZfXy1XU1dVSW01b1NUYXJoRmpBeklTMTBWV0U4N0V2NVlMb3kxdlJTSkM0NGJDNUkxMGpNLUZXLUtiQ3gyUXZvVjlXX3FFbFJXUWw3bzJLaWdMQjdyRzVZemNVZmxoNXIxZmg1dG9kM3NLN0RYZF9fM1JzOWVlNG1na3ZXS2xZUFIxNGo0UHNlMGVwaUdOOE00cFd5MU9kMFktRWNqVEk0Z1dyUnhWUFd3Uk1Ha0lyODNxMVoxM1N0aVgzQ2xoYjJfaUc0bElQN2d6dnNoNS1oelh6QQ?oc=5>
+
+### Eric Trump在摩根大通对比特币态度转变后对其进行了抨击，此前摩根大通曾‘贬低’该资产。
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-05-06 18:13
+- 链接: <https://news.google.com/rss/articles/CBMitAFBVV95cUxOYmN1OWZtZHhoQi1vTG9GeURtWFdyaEZuUTRHTkJGbEI4MGtzT1N6Q01URnhkbTdJdXFETTdmZE5LcXNUc2x5bUo0dDNpdE1Tb0QyTVZsS0hMX2pkUllseDRBVFpfM2VvSWFnUXBlbnVlbmhJaFhfMXlfRVZlUFc0OWlNajA4ajVHOWx6RjluOUdVV2R1Q19naGhfWXVlaWoxSURLamRScVBCQzB2QkN1b0p5SmM?oc=5>
+
+### 特朗普与习近平将在北京会晤之际，美中因伊朗、朝鲜和台湾问题关系紧张
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-05-06 17:47
+- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxQSDNZQ3dFNG0xeVRwWXJBRS1YbDdTZWJyMGpDSDdVSURJYUtqakZQN2NNRzJxNjMwd0ZwenpKOHBmVFVPRjU1eFI2cTVlN2Rjdl9ESmNDbFB1Ym9EQWxSc1diY1lTVGxnR1NVdXJCMERnX0VHN2RRQkhWaUV6Y1VPQ21WaGZydEwxWXdmelBhM0RGUHEyY0N1QnFpb3VJbnlaU19BSDkxZ3ZlZXZKbmRpUmRXWjQyWGNuWHV5c05WZ3BOLUsyRzVnR3NtenJIWTDSAdIBQVVfeXFMT3VXdnNNUFRBZzhseEkwcjl0amo5RmsyTUdLZ3p3d0t1ZFhZT285VW5ydGZpNmJxUURtb1luUDlhRmdBTDRucTVHOTNoajFBN2kwMzRpMEJKUjBkR1cwdVFCWTRwY1JnblhST3NsWmpoLWRFQlAwZ1AxZ3ZldlppUHljV0lQOVJtejhLdXpHOUk4UnRKbm9uNXVydzF6cE1YYUxReDA4MC0wN2U4eGNqRnFuRF9OQlhESk1RYlRnekFoR1ZVMlZVeVRraG5SZmFBQU9B?oc=5>
+
+### 澳廣視新聞｜Trump gives Iran 48 hours to open Strait of Hormuz｜Trump gives Iran 48 hours to open Strait of Hormuz
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 澳門廣播電視股份有限公司
+- 时间: 2026-05-05 23:52
+- 链接: <https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SRG5uajJqZFVMeWNESHVsNzZhWG53dXg3X1ZlNy1XblM1dV9aRFI2ems5ZGdHQ2lhc3hpMjZfTXlsNTZUM09uNHBFMXh5ZjF1cF9WVlB1UGNFSEViZDJV?oc=5>
+
+### Eric Trump：传统机构已转向支持比特币
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: bitget.com
+- 时间: 2026-05-06 03:10
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1UeFVGZl9fOWZoUU1sMjNKOV9mdDBWcHZrUWhxY2dQOTJKZDRCYW0weThzUnMwaEtyUlRrdGltVG02S2tMMm8yQmNiN1NBZTgzZDNKd1dRck8xaFFIZUtyRFFMQW1LQdIBa0FVX3lxTE5fN3JmOWtDVFZwdHN3REMzbUZqSVVFMWI4SWloRXA4a2liSHJKT2tDdm01Wlh6S2FyUFJmSkNoU3R6OGwzbHFCRGpYWEwwVDE0bzlic1BSVlhZLTNqZWVKRFhDYXc2MHBmRklF?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-06 18:21  (12 条)
+
+- **周杰伦** | 妆造摄影、烤串小吃、就餐接送车,“周杰伦演唱会经济”太疯狂! <https://k.sina.com.cn/article_7857201856_1d45362c0019055wca.html>
+- **特朗普** | 特朗普：我们拭目以待，看对方是否愿意达成共识。 <https://news.google.com/rss/articles/CBMiT0FVX3lxTE8ySml2eWtXT0pHUk1CTEdOOVRKWFlTY2dkMDVla2hqUEd0MFpVRlBDMFVaWEQ2ZnMyQmhCcUFqdzdCNW82UU9FQjRqSHBRNzQ?oc=5>
+- **特朗普** | 特朗普称对伊行动“进展顺利”，强调封锁与谈判并行 <https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuZGxnbWRzMThwa0VoX0lGT1N5VXFEUjU2YlNVeW9TdUNMczZEaXpmdmswM1MxOFZTUnQ1S25TOVFSdGNMaGVVV3Mzb3c1cEwxem5aT1NSUFZNVGRQdnc?oc=5>
+- **特朗普** | 特朗普称美伊谈判进展顺利，伊朗希望达成协议 <https://news.google.com/rss/articles/CBMihwFBVV95cUxOUlBWSGNlVTVoZHZVMVhRb25RT2ZEc0phbktORUVheUNQTkJHcmNJMnpmNExVZWVaLTRtZGVnRUpaSHpsWnF4VE1UdWNoS0x6RGxPRDJDbEpmWHpudVdkTUs0OGZqbFBMU1AxSk5GZWJYVVJIN3pNaXU4dGx6MXdmTUpVbGFtZjA?oc=5>
+- **特朗普** | 特朗普是疯言疯语还是老谋深算 <https://news.google.com/rss/articles/CBMiYkFVX3lxTE54SEpVMktVeV9oZWNIWm1uT21SQlVXbnhQWW9TVHZXeHpqQ1kyRG9hVmJmUmFnMFU0MHhfMS1PYmxvUUwtOFotaVd3OHktZktUSUUweXhndllVWTlGbldUWk5B?oc=5>
+- **特朗普** | 特朗普总统访华前，两党参议员提出决议案呼吁特朗普政府将中国威胁列为其最优先的外交政策议题 <https://news.google.com/rss/articles/CBMixwFBVV95cUxPM2x0Wmo1RXBsZVpUS1NHcl9pMDc1YkJwM1E1QWtkWThtT2RnY25sOFMxV25wem5mdEl0UjRRenh6Rmx4bnZDQkNBSGVySGMzdnRmbGo1aTR5cU1QY3E5NE9ISjdSUjJiYjBxMFFsNlNYNWkzNzhGcEJFTUtPYXBkTnhwU01MV2hkaGtmUTdNVVZlTk02RERkOE9YUVVlellQQkxjbXVoT2p6cGRBcFNCY1haWVBvZ2FkcDhxdUtabDRZMHUzN3hV0gHKAUFVX3lxTE9WUUFWZlcydEZraG1vVWI4dFZTN1ZybGRHY3RaT3Zsdmt1cjFMVU95bTBvcEVUTUZmTTcxUi1JOXNIVGVKaU9zdTdEZWs2d28zWGNqUlVDeFA5SmtnVkpHNEpSNTJCdG9Qd2RqMDVTX1lxTWRPQzVudkdPZVlGNlBOclBpX2JVdGNFU194ZmFkY0xyYWVSdVIzUm83SXJ4OGs0SXJMR2ZreDRuTnhuU1lHWjdscmxuSGNoSElRa3Z6MTJuLVA5ckJkWHc?oc=5>
+- **Trump** | ArcelorMittal 为特朗普新宴会厅建设先提供“约600吨钢材” <https://news.google.com/rss/articles/CBMiwwJBVV95cUxObjhaT29UUW51eUY2V3NkN3V2dnFnS0NKbnRpVjI2emFHanJfYWFyR3JGRUdUdHhJVXpaeTk0VG1qRW9GNkU0MGVhZmNBM2F6ZVU3cEZRcFV6Q1BqanY3VHVOb3FZN3NfNDV0azhMZVJoYnZxZVA5S3NEUk9VRXJqTzN2RzRKXzI4MHVzOTRIYk5sLWEzaThrMTJfY0lZMmZnbzlnUDZ2WV9LLWFQY09yaXdLcTU0cWh2RzUxQ0Z2RHhyS1o1NjZmcXRRQlpNN2lIQ0FLXzNBb3p4NWk5V2ZRRXBpVWl1bVRDWHN1Y0hYU18xVEF1bXVGT1dDaEpxdmZjYjVtVnpORFF5RkIzLXp3MjdoNjZPalJLQnNVNmZHbU53d1k4MkVNRjZvdU1CVnB6ai01eWx2ejhQWjFKTDQ3LVdGSQ?oc=5>
+- **Trump** | 法媒：减少驻欧美军 特朗普在削弱北约 <https://news.google.com/rss/articles/CBMiogJBVV95cUxNa2lmOVJCZUlEanM2ektBdGFzUmQ5TjdsbzF2OWJ0MXFSd09aVm5TRE4xNXZlZHp2a2RBZF8tWVRKRFlNNWl0T1VXZzNVcUZfXy1XU1dVSW01b1NUYXJoRmpBeklTMTBWV0U4N0V2NVlMb3kxdlJTSkM0NGJDNUkxMGpNLUZXLUtiQ3gyUXZvVjlXX3FFbFJXUWw3bzJLaWdMQjdyRzVZemNVZmxoNXIxZmg1dG9kM3NLN0RYZF9fM1JzOWVlNG1na3ZXS2xZUFIxNGo0UHNlMGVwaUdOOE00cFd5MU9kMFktRWNqVEk0Z1dyUnhWUFd3Uk1Ha0lyODNxMVoxM1N0aVgzQ2xoYjJfaUc0bElQN2d6dnNoNS1oelh6QQ?oc=5>
+- **Trump** | Eric Trump在摩根大通对比特币态度转变后对其进行了抨击，此前摩根大通曾‘贬低’该资产。 <https://news.google.com/rss/articles/CBMitAFBVV95cUxOYmN1OWZtZHhoQi1vTG9GeURtWFdyaEZuUTRHTkJGbEI4MGtzT1N6Q01URnhkbTdJdXFETTdmZE5LcXNUc2x5bUo0dDNpdE1Tb0QyTVZsS0hMX2pkUllseDRBVFpfM2VvSWFnUXBlbnVlbmhJaFhfMXlfRVZlUFc0OWlNajA4ajVHOWx6RjluOUdVV2R1Q19naGhfWXVlaWoxSURLamRScVBCQzB2QkN1b0p5SmM?oc=5>
+- **Trump** | 特朗普与习近平将在北京会晤之际，美中因伊朗、朝鲜和台湾问题关系紧张 <https://news.google.com/rss/articles/CBMizwFBVV95cUxQSDNZQ3dFNG0xeVRwWXJBRS1YbDdTZWJyMGpDSDdVSURJYUtqakZQN2NNRzJxNjMwd0ZwenpKOHBmVFVPRjU1eFI2cTVlN2Rjdl9ESmNDbFB1Ym9EQWxSc1diY1lTVGxnR1NVdXJCMERnX0VHN2RRQkhWaUV6Y1VPQ21WaGZydEwxWXdmelBhM0RGUHEyY0N1QnFpb3VJbnlaU19BSDkxZ3ZlZXZKbmRpUmRXWjQyWGNuWHV5c05WZ3BOLUsyRzVnR3NtenJIWTDSAdIBQVVfeXFMT3VXdnNNUFRBZzhseEkwcjl0amo5RmsyTUdLZ3p3d0t1ZFhZT285VW5ydGZpNmJxUURtb1luUDlhRmdBTDRucTVHOTNoajFBN2kwMzRpMEJKUjBkR1cwdVFCWTRwY1JnblhST3NsWmpoLWRFQlAwZ1AxZ3ZldlppUHljV0lQOVJtejhLdXpHOUk4UnRKbm9uNXVydzF6cE1YYUxReDA4MC0wN2U4eGNqRnFuRF9OQlhESk1RYlRnekFoR1ZVMlZVeVRraG5SZmFBQU9B?oc=5>
+- **Trump** | 澳廣視新聞｜Trump gives Iran 48 hours to open Strait of Hormuz｜Trump gives Iran 48 hours to open Strait of Hormuz <https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SRG5uajJqZFVMeWNESHVsNzZhWG53dXg3X1ZlNy1XblM1dV9aRFI2ems5ZGdHQ2lhc3hpMjZfTXlsNTZUM09uNHBFMXh5ZjF1cF9WVlB1UGNFSEViZDJV?oc=5>
+- **Trump** | Eric Trump：传统机构已转向支持比特币 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1UeFVGZl9fOWZoUU1sMjNKOV9mdDBWcHZrUWhxY2dQOTJKZDRCYW0weThzUnMwaEtyUlRrdGltVG02S2tMMm8yQmNiN1NBZTgzZDNKd1dRck8xaFFIZUtyRFFMQW1LQdIBa0FVX3lxTE5fN3JmOWtDVFZwdHN3REMzbUZqSVVFMWI4SWloRXA4a2liSHJKT2tDdm01Wlh6S2FyUFJmSkNoU3R6OGwzbHFCRGpYWEwwVDE0bzlic1BSVlhZLTNqZWVKRFhDYXc2MHBmRklF?oc=5>
 
 ### 2026-05-06 16:59  (9 条)
 
