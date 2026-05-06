@@ -1,48 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-06 20:09**
-- 本轮扫到 386 条, 新增 **4** 条
+- 最近更新: **2026-05-06 21:39**
+- 本轮扫到 390 条, 新增 **4** 条
 
 ---
 
 ## 本轮新发现 (4 条)
 
-### 特朗普：昨晚会见了埃克森美孚董事长。
+### 特朗普声称伊朗已同意放弃研发核武器
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-06 19:02
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9scUNrUlV0YldSVGRwaDFZbXVWSUE4aTEyR0tGb0g1dUdSNkszSUNkMElDcGFBRjdqVnl6ZWE5YkhWZW5BTEZqc01nUQ?oc=5>
+- 时间: 2026-05-06 19:15
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE95NlhKX0RrWkRNVmFNNjhMdTk1eERaZzRvZmVwQWZWMFdmVEFYTlgzNlBQOWdNZlZObTRqaXEyemVDRXZhMlN1UlBGYw?oc=5>
 
-### 特朗普称对伊行动“进展顺利”，强调封锁与谈判并行
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-05-06 17:52
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQVzA5VEJxX05VaXlYYzBkcXN2cU5vT1F1N3lVTUd3VGpWU2FDZ3NwdUFydncyYTA5T295RTRRLUUxYkFNNE9mOWFnc2IyV2tkZXZ1UENWLWlDSlJYRkpWeg?oc=5>
-
-### 特朗普称美伊“很可能”达成协议、威胁谈不成更强力轰炸，伊朗指美报道失实、称还在审阅美方提案
+### 美国前助理国务卿冯稼时：特朗普关税政策完全失败
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-05-06 19:23
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE9OUFF6UTVuNlh3cGdpSFV5YWF6bWxaNXUtOFF0RW5QS092bHd5ZWhUbEdDdUp3X3ZPQmNHQWJhUTJGN012M1VrT20xMk1pRWotaGlv?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-05-06 05:46
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTlpNS21pN0tlM2I5dDVma3RRdWlxNHhpb3N4RzBhZzZ2MDQtajdReGRXVklMczlqYTVDZHZGQlRxNGplU1oxOVk1YkdhQkNoMjdWVzlDTHVvYnU3NHBmZWhvMEhwNkVBVVozZ3dNeGZrd21oazZlS0RYS3Y1M2ZKVjF3bTVnOTRMUFFOWWtGQ242MjlJVWozcTdLeUFvTFdLQUdhYmJiV3pDMEJyanBsa2F0NHRqNzM1LVFaSGZYVkdGQV8zbllvY0FKMHhxbURT?oc=5>
 
-### 美贸易代表：总统会向习近平提中国发禁令阻止美国制裁一事，但不希望其“破坏更广泛的双边关系”
+### 直说了！美高官：特朗普跟中国桌上谈，桌下踢
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-05-06 02:41
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1JcGRtX2xsclB3ZkVuVjZ5R3lWLXhncUVsZXM0U3ZkZGQ3dG9sQUF2U1dHRkJPWmd4Zm1DdnZRX1ZIemwtTVMxQnplRV8?oc=5>
+
+### Trump: Even If Oil Hit $200 a Barrel, War Would Have Been Worth It -- WSJ
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-05-06 18:26
-- 链接: <https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeVNsR1FjMjdfZ3BNT29CbDZjTEhDN3VTT3RYZk10SDl4UDRFYlFfa2xKQWJzTVdTQlhuZEFubjBHUmltRXV0RzVTTXB4eGQ0YjFwODJ3WXNodEJDR21Yb2hfdTV5MGw5UkhHOUhzbVhDdE56UEhGVkl3LVVDeDhKWkxHZEJINTVRT0h2eElSbkdsV2NLTVVZdmxQY3p3Q3hkVGEyTWV5dmJWQ0FQczZqS0ZQVXVvajJmZkxZRGtjaERlcnfSAcYBQVVfeXFMTklHODNzNU5zQ1E3ZWd3ZDBWY3hwWjFwUmExbUlDTFlTUzZQLXdkb1ZROV81VE0wNmxOczgwMVI2eHpzYmpGQ3FxRWVoQzhmZnpKeUlybURVWE0zUFFVYmJWb0JKNTA2NnpKMlpLY0RielI2YUZ1ekFjd28wSVJJaHF0djFQSGxsakJaQ0pjMWxIYnV5X3N4bFRUd3FXc0V5MHRCT0oyMUxHUFQzWko2cVNkalk2a01iT3Fzc3BBMlh1ZVRJSUVn?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-05-06 21:17
+- 链接: <https://news.google.com/rss/articles/CBMilgFBVV95cUxNWmFpamlBZzVXWE5PbGIyaWROVktkTkpINDFRd0NaNUN2OTJSYTJqSmZCLW5qOUxVNUFwS0g4ZlF6YjZ2a2JucG5uZE9vbGZVWU92SXZUZEZTVHpBa09JeDFpWllIV1NnODdzMVU4cjRNOXdlVU1NYjV4aUNMZkQtbHo1TF9aY3cyZFdOV0E1aVIzMGJ4OGc?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-06 21:39  (4 条)
+
+- **特朗普** | 特朗普声称伊朗已同意放弃研发核武器 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE95NlhKX0RrWkRNVmFNNjhMdTk1eERaZzRvZmVwQWZWMFdmVEFYTlgzNlBQOWdNZlZObTRqaXEyemVDRXZhMlN1UlBGYw?oc=5>
+- **特朗普** | 美国前助理国务卿冯稼时：特朗普关税政策完全失败 <https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTlpNS21pN0tlM2I5dDVma3RRdWlxNHhpb3N4RzBhZzZ2MDQtajdReGRXVklMczlqYTVDZHZGQlRxNGplU1oxOVk1YkdhQkNoMjdWVzlDTHVvYnU3NHBmZWhvMEhwNkVBVVozZ3dNeGZrd21oazZlS0RYS3Y1M2ZKVjF3bTVnOTRMUFFOWWtGQ242MjlJVWozcTdLeUFvTFdLQUdhYmJiV3pDMEJyanBsa2F0NHRqNzM1LVFaSGZYVkdGQV8zbllvY0FKMHhxbURT?oc=5>
+- **特朗普** | 直说了！美高官：特朗普跟中国桌上谈，桌下踢 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1JcGRtX2xsclB3ZkVuVjZ5R3lWLXhncUVsZXM0U3ZkZGQ3dG9sQUF2U1dHRkJPWmd4Zm1DdnZRX1ZIemwtTVMxQnplRV8?oc=5>
+- **Trump** | Trump: Even If Oil Hit $200 a Barrel, War Would Have Been Worth It -- WSJ <https://news.google.com/rss/articles/CBMilgFBVV95cUxNWmFpamlBZzVXWE5PbGIyaWROVktkTkpINDFRd0NaNUN2OTJSYTJqSmZCLW5qOUxVNUFwS0g4ZlF6YjZ2a2JucG5uZE9vbGZVWU92SXZUZEZTVHpBa09JeDFpWllIV1NnODdzMVU4cjRNOXdlVU1NYjV4aUNMZkQtbHo1TF9aY3cyZFdOV0E1aVIzMGJ4OGc?oc=5>
 
 ### 2026-05-06 20:09  (4 条)
 
