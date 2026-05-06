@@ -1,108 +1,107 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-06 10:32**
-- 本轮扫到 338 条, 新增 **12** 条
+- 最近更新: **2026-05-06 12:25**
+- 本轮扫到 348 条, 新增 **10** 条
 
 ---
 
-## 本轮新发现 (12 条)
+## 本轮新发现 (10 条)
 
-### 周杰伦首次鸟巢演唱会官宣
+### 王一博新歌展现河南山海美景
 
-- 艺人/关键词: **周杰伦**
+- 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_3285889392_c3dab17004001a1mo.html>
+- 链接: <https://k.sina.com.cn/article_1733763180_m6757206c03301c3io.html>
 
-### 周杰伦2026鸟巢演唱会连开三场
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1789681642_m6aac5fea033055ciq.html>
-
-### 特朗普：将与习近平讨论伊朗战争 中方不会挑战美方
+### 习特会下周登场 特朗普称将与习近平讨论伊朗战争
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 联合早报
-- 时间: 2026-05-06 10:15
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE13Um1IeFdrRWpOUUZDeklaUTN4UURFOEJib09vYU41a3A2aVp4eTh4dndwNlNzYjNwQnBCdW9nZU5yRzBRYVRKUnE3UEtTNl80amh5RGI2ejZDT0MxWVZ2Qnd6ZGRrS2FSQ2c?oc=5>
+- 时间: 2026-05-06 00:28
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5KRnhZNjdUclVQQkxIXzdOUXFsOHhzaFo1OXh4RFp5VlR4bFJYVl9ES0ZvU2xabHd0empCTDBLRDJVUVJ3YUVLVTBMbmhyUC1vZ051VjZIYkNhQjZGTHQweDdheFZkUQ?oc=5>
 
-### 特朗普宣布暂停霍尔木兹海峡“自由计划”行动
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-05-05 23:32
-- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaHFBQThBMVFYMzFsRGhJMDlORUFzMnhQb3Z3b28wTEtmWFpnUmtTckU2bDZEcHhDUXR6YWdaR0tpb1JmWnJhNGV5cXlxRzF1Q1l6WWRnSU1VNWNwajlLaGMzT0VEYkV2X252bzFCbzVHMy1zaW1KTHczRGhZWk1VNzNTbVc2dkFDejJaQjZlc2ZOZ2RBOGJEczVzZDR2OWZkSmhhVl96aF95cXhReFNSZmwzOGdYU3lQVkJqbUhFREV1ei1BR3dkYllOdl95Nl9QOWc?oc=5>
-
-### 重大转变：特朗普宣布暂停霍尔木兹海峡护航行动
+### 美国总统特朗普：白宫......_7x24快讯_新浪财经
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网财经
-- 时间: 2026-05-06 03:38
-- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE5LR0lPWkhKTXg1dWxMRWp6cHh3ZDcyNFIzLXN4eHNBZzRGa0ZRNG5ZaWVYdjRJSmZ3YmQ1MHEwV3N2bnpWSUJIZ0FRSWlJa1dl?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-05-06 11:33
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9tZVdfZzBhNFEtY3RjcWk0V0VPc1AzSHZPbFVfVEhySHZoUlNEUE5LOFVJZmRwMkFIclVrdUZXamtyQzBuQWt0MjBBWQ?oc=5>
+
+### 特朗普：如果伊朗同意美方条款，“史诗怒火”行动将宣告结束
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-05-06 11:54
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HRFRDRXNYNHFLd2Jqd1ZUQ0JHVWlmbWNQQXA2TEhneEVCZkVLaXpubVVYckctc19Nd3NZeE1TOGNwM1RteHJWSU5RaWo5NDEwNGhmeG5ZS3dBQlRZdkE?oc=5>
+
+### Axios: 官员称美国和伊朗即将达成一页14点备忘录以结束战争
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-05-06 12:01
+- 链接: <https://news.google.com/rss/articles/CBMi_gJBVV95cUxNRC1xelFjcnpwckUxRTBTLUJoYmF0R19fTmRNY3liNzFiV2pjWGFONEIwUjY1WTVteGhfSXFSdmc1SmxyR0QyQ2JsYmxJNDZpUEZ1bnpNYnRLQ3lHVEtEbHJoMFk2VGQ1Z1c3QmV1cEUyWGdQdGpsYWlRVnF1emFyRjN0WERpYUczQmljM2tJNkJjY2xDUXZHSlNvaVgtMF9EZGFueTRBZEJ5SVg2RGFOM1FsRmRiREFfUEZjLWpLa0x1Q3oxYnktSUF2YklkZERvXzVkeWtOQzgxSmdBQXlyeW5oOWFoV0w4V19TTVB4aW5NZjRDMXpmbUoyc1ZwRXN1cm1qRGRfM0pUX0laT1hiaWNaczE4T1JWV3d2STR5bmVzdkJBLVdCQ3B2eEVuTFhkT2llYXdib1Q1dGFYb05CQVRSa01acm1jd2loRzRKcU9IaFpwQ0xael9jRWlTdFZpR0hkOURSRk9nUmtyaFEtOGJZc18wR0xkV3AwUExn?oc=5>
+
+### 特朗普称暂停霍尔木兹海峡“自由计划”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-06 00:27
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE9OVFRudkJZWWFfYUw0T0pkZFpBeUJMcGxFTnVxdWtGaTVjVktkMWo3WW1XdlpCUy1sU2Q3UTZyQmQ2S1hTTHowLXhfakdVLUFvdmUzQjVjVXRPSHlCWkU5dFN2TUNPeU1TZmYtOUxuc1BPaFFzRXc?oc=5>
 
 ### 外交部：中美双方就特朗普总统访华事保持着沟通
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-05-06 08:06
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1raG9YRUFlcHpxemNLd1R6bVNUX2RfOEx6N3lTeEJIc2RQUk1GTGdtRW1ZQ2pCNndSVUtBR2h5WmVlMGNXUTZ2YnhYaFpWT3BrMDNwWUg2TzgxQ19uUTUzNw?oc=5>
-
-### 特朗普建议中国停止进口伊朗原油，外交部回应
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-05-06 08:56
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFAxeGFFNklFZmVveVB1bmN0Z196ekRLTUtFb0VIYTVQOXlEQ3FxMFc4TW1XVmpjMElqaGRHRk41V0pQeUFqdlRycDlFeVk?oc=5>
-
-### 中美是否就特朗普访华一事保持沟通？中方：可以继续保持关注
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-05-06 09:05
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE51MWk3aDNEVVVaNUplN3hpVEZsZHREbTZ1ajE1XzVNR2dIeE1lVVBGZUtOUldDUElNcUQ2WWlyRjh6OFAxTmVqZGhfMjlkblZNYS1DN0hIQzRPRGk2OVRmTQ?oc=5>
-
-### 涉特朗普访华，中方最新回应
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪军事
-- 时间: 2026-05-06 10:07
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE0zbEFSY2Y4TF9hSHZWZ2h0THJLMmZEaTl4enBPeVNhTTg4ZFYwR29FZjZzOXZjc1NEZFg4UWlORnBUZ1BNM1NoekFLMFNUN0NjZHNiU3dZbjRsREN3ODE5NE1oMGdzM3NhaUJRaXZaOExoQ1U?oc=5>
-
-### “中方拿捏了：特朗普耗不起，那就…”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
 - 场馆: 观察者
-- 时间: 2026-05-06 05:34
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1uSGpvWWtJb3E3RkZhTXFKX0UxU0UtaUZpM0FvbkJfTGVFUE1yRTBoYXNtQ3NlOXBUTFdBdXZUX190aFpQLU1BQndlUElZMngxa2lrSEhRQ0VIN1pubDJHLWZ1Um84SzRJTWc?oc=5>
+- 时间: 2026-05-06 08:03
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1sSEI0N2V2dGdqbTZ2SEFUMzk0cFFJN1pMMHdvcjdsQVRSTEdCTDVBeEdCSTNsSXdEODhvQlNURW9oTEVCU3NTS2ZnOUNBenJkblNWQTE1djJhTW1HRi1zaTAxNmJoekI4ckE?oc=5>
 
-### 特朗普说油价飙升只是小代价
+### 特朗普：相比阻止伊朗拥核 油价飙升只是“小代价”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-06 07:57
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBNRndEbVpZRm5CdC00eXAzaXRNbHV1eGlGcTRWM3ZERjhmWEczWTNrSG1uZGZqTmtJWlh2MEVHZnd4SUVEUHhBc0VqWQ?oc=5>
+- 场馆: 中国青年网
+- 时间: 2026-05-06 07:52
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vaUlFNWI5eEhkUzZIVEdqSzBncGsteTJyWkZpbklBMVNISnh0UmZlNko2MXRXN3pNN3dlRlBwMndtZ2JlMW1qMG5IM20zc1BkVFlwTFFpM0JYaDJYTkUtd2JlT3E?oc=5>
 
-### 特朗普对伊朗的封锁使其访华议程更为复杂
+### Trump pauses operation to guide ships from Strait of Hormuz
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-05-06 03:27
-- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTFBYWlA3ZE02eWV0VTJxYXhUOEFUQVhmOURHTWpTaC1Zd0ljUWp4RlEtT2pua2h4MUR5d05qWTdqUVpGbDNNalZJTDUydHVLQTdNaDhDZ09EMURodURkWl95RFdQaw?oc=5>
+- 场馆: news.tvb.com
+- 时间: 2026-05-06 04:38
+- 链接: <https://news.google.com/rss/articles/CBMiygFBVV95cUxOT2Z4UkpGNTg4YXJkUm1NQ1k4bTUzSmNzeS1jbVEyMUJKc3NUckpudG1USDBfOHhXZlZBa204SGR5TkN5ZzVpalRHUmdDRGRXUDVvTS1CSTNfd0VVb29KZlJKTFZGbEJsdWM3M3ZQQ0kxQkQ1VEQxNmJpUFI5YjBDVTV3b2hOTDNZbE51eE1na1JtWlg1cjVmNDIzR2Q2Y1VFNURTajFKMHdZYmZMR3Y3a1hsZWtfYkxTRWs2T3lLUkVFb3dhM2ZjaUZR?oc=5>
+
+### US President Donald Trump casts doubts on Iran peace proposal as details emerge
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: TMGM
+- 时间: 2026-05-03 07:00
+- 链接: <https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRUUxSkVtNlIzY2pVMEY5eE5XTmpFS2tQQWVUZmQyOXhVcjFRU180WHR3dkl6ajQ3eW0xZlhRYkFpaFJRZ3F3d2tPMHNMSnhSSnFSS294c0xHM3l0ei1EQUlqSmlYZ3Y3UmVmOTBmcGVabEFlZDduVDlhMlJNaUp0d2ZGb3RhNS1VaWVPODdJNzZFNVphWUtkYWZRSkFhQjJkQVpoRGR5eDIxNl90LVdCTWdYN0pTYXY3NnVoVG5feTFkYlJTY3FMRzhNQ1RDaWhpVkdDM2ctNnN6dU1DTUdCNU11Sl9ZX19L?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-06 12:25  (10 条)
+
+- **王一博** | 王一博新歌展现河南山海美景 <https://k.sina.com.cn/article_1733763180_m6757206c03301c3io.html>
+- **特朗普** | 习特会下周登场 特朗普称将与习近平讨论伊朗战争 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5KRnhZNjdUclVQQkxIXzdOUXFsOHhzaFo1OXh4RFp5VlR4bFJYVl9ES0ZvU2xabHd0empCTDBLRDJVUVJ3YUVLVTBMbmhyUC1vZ051VjZIYkNhQjZGTHQweDdheFZkUQ?oc=5>
+- **特朗普** | 美国总统特朗普：白宫......_7x24快讯_新浪财经 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9tZVdfZzBhNFEtY3RjcWk0V0VPc1AzSHZPbFVfVEhySHZoUlNEUE5LOFVJZmRwMkFIclVrdUZXamtyQzBuQWt0MjBBWQ?oc=5>
+- **特朗普** | 特朗普：如果伊朗同意美方条款，“史诗怒火”行动将宣告结束 <https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HRFRDRXNYNHFLd2Jqd1ZUQ0JHVWlmbWNQQXA2TEhneEVCZkVLaXpubVVYckctc19Nd3NZeE1TOGNwM1RteHJWSU5RaWo5NDEwNGhmeG5ZS3dBQlRZdkE?oc=5>
+- **特朗普** | Axios: 官员称美国和伊朗即将达成一页14点备忘录以结束战争 <https://news.google.com/rss/articles/CBMi_gJBVV95cUxNRC1xelFjcnpwckUxRTBTLUJoYmF0R19fTmRNY3liNzFiV2pjWGFONEIwUjY1WTVteGhfSXFSdmc1SmxyR0QyQ2JsYmxJNDZpUEZ1bnpNYnRLQ3lHVEtEbHJoMFk2VGQ1Z1c3QmV1cEUyWGdQdGpsYWlRVnF1emFyRjN0WERpYUczQmljM2tJNkJjY2xDUXZHSlNvaVgtMF9EZGFueTRBZEJ5SVg2RGFOM1FsRmRiREFfUEZjLWpLa0x1Q3oxYnktSUF2YklkZERvXzVkeWtOQzgxSmdBQXlyeW5oOWFoV0w4V19TTVB4aW5NZjRDMXpmbUoyc1ZwRXN1cm1qRGRfM0pUX0laT1hiaWNaczE4T1JWV3d2STR5bmVzdkJBLVdCQ3B2eEVuTFhkT2llYXdib1Q1dGFYb05CQVRSa01acm1jd2loRzRKcU9IaFpwQ0xael9jRWlTdFZpR0hkOURSRk9nUmtyaFEtOGJZc18wR0xkV3AwUExn?oc=5>
+- **特朗普** | 特朗普称暂停霍尔木兹海峡“自由计划” <https://news.google.com/rss/articles/CBMidkFVX3lxTE9OVFRudkJZWWFfYUw0T0pkZFpBeUJMcGxFTnVxdWtGaTVjVktkMWo3WW1XdlpCUy1sU2Q3UTZyQmQ2S1hTTHowLXhfakdVLUFvdmUzQjVjVXRPSHlCWkU5dFN2TUNPeU1TZmYtOUxuc1BPaFFzRXc?oc=5>
+- **特朗普** | 外交部：中美双方就特朗普总统访华事保持着沟通 <https://news.google.com/rss/articles/CBMiakFVX3lxTE1sSEI0N2V2dGdqbTZ2SEFUMzk0cFFJN1pMMHdvcjdsQVRSTEdCTDVBeEdCSTNsSXdEODhvQlNURW9oTEVCU3NTS2ZnOUNBenJkblNWQTE1djJhTW1HRi1zaTAxNmJoekI4ckE?oc=5>
+- **特朗普** | 特朗普：相比阻止伊朗拥核 油价飙升只是“小代价” <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vaUlFNWI5eEhkUzZIVEdqSzBncGsteTJyWkZpbklBMVNISnh0UmZlNko2MXRXN3pNN3dlRlBwMndtZ2JlMW1qMG5IM20zc1BkVFlwTFFpM0JYaDJYTkUtd2JlT3E?oc=5>
+- **Trump** | Trump pauses operation to guide ships from Strait of Hormuz <https://news.google.com/rss/articles/CBMiygFBVV95cUxOT2Z4UkpGNTg4YXJkUm1NQ1k4bTUzSmNzeS1jbVEyMUJKc3NUckpudG1USDBfOHhXZlZBa204SGR5TkN5ZzVpalRHUmdDRGRXUDVvTS1CSTNfd0VVb29KZlJKTFZGbEJsdWM3M3ZQQ0kxQkQ1VEQxNmJpUFI5YjBDVTV3b2hOTDNZbE51eE1na1JtWlg1cjVmNDIzR2Q2Y1VFNURTajFKMHdZYmZMR3Y3a1hsZWtfYkxTRWs2T3lLUkVFb3dhM2ZjaUZR?oc=5>
+- **Trump** | US President Donald Trump casts doubts on Iran peace proposal as details emerge <https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRUUxSkVtNlIzY2pVMEY5eE5XTmpFS2tQQWVUZmQyOXhVcjFRU180WHR3dkl6ajQ3eW0xZlhRYkFpaFJRZ3F3d2tPMHNMSnhSSnFSS294c0xHM3l0ei1EQUlqSmlYZ3Y3UmVmOTBmcGVabEFlZDduVDlhMlJNaUp0d2ZGb3RhNS1VaWVPODdJNzZFNVphWUtkYWZRSkFhQjJkQVpoRGR5eDIxNl90LVdCTWdYN0pTYXY3NnVoVG5feTFkYlJTY3FMRzhNQ1RDaWhpVkdDM2ctNnN6dU1DTUdCNU11Sl9ZX19L?oc=5>
 
 ### 2026-05-06 10:32  (12 条)
 
