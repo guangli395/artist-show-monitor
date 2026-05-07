@@ -1,54 +1,91 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-06 23:44**
-- 本轮扫到 401 条, 新增 **5** 条
+- 最近更新: **2026-05-07 02:24**
+- 本轮扫到 409 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (8 条)
 
-### 王一博灵感双语早安问候发布
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://video.sina.com.cn/p/finance/2026-05-07/detail-inhwzmmr2912616.d.html>
-
-### 特朗普提议中国改买美国石油，外交部：能源政策建议向有关方面了解
+### 新华社消息丨特朗普称美伊“很有可能”达成协议
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-05-06 08:39
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuWXNaaS1GTFBzTTFuUzFaRzFXWFpqbnlVcDAwZ1J4dHFIMV9LTTJJU3ZuejJJelZ6TFNYamh4QUhDZTV4RnVfUUZZZWZJcnFGMmJYQWZrd0VUcXhNNWRhbw?oc=5>
+- 场馆: 新华网
+- 时间: 2026-05-07 02:18
+- 链接: <https://news.google.com/rss/articles/CBMid0FVX3lxTFBkdTYwMEJvT09Lbmc1SXpEa2Z4MnlhM0FqUHFPRVdPOVZMUUdyYkhQZzAzQWNqNjdPcEx3Rk5xdjd1YVVraVRyR3NEbklTMWRvRDNWYWVDbC1IZzc0TTRtQktFbnVPMWp1bDZlOU5EaEFvX1Jod1dB?oc=5>
 
-### 美媒：“遗憾的是，事态发展让特朗普言中了”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-05-06 23:39
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE0tU0VLQUJpVWNUU2drUW8tYlBjeUktcHJUamgtcWRuTm1RTkNTQTY4TkpMWkVMWVI4TDk4NjNFYUVEbVdKNjNTRjhxUnBQak1pYjh1VmZ3MV9HNVQ0M1FfZkNoZXFYMFN2WDdVRWp0T3U?oc=5>
-
-### 为什么特朗普“不得不”常买中国货
+### 特朗普：华盛顿特区的犯罪率已降至30年来的最低点！
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Sohu
-- 时间: 2026-05-06 22:21
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxOYS1zNUFkRmJRT2ptbjFjUThxOEZfbFN5YjV3aGFHNmJNby0yMWpoNXRuTWhBNzJxZFhORDlSQVMxUFpjN1FKUTRGRUtKOTM4TVVrTnRrWlZKN1RMcU43dU54ZXhSN3d5dEx6Y29xckpobFdFaTMtem5KUURWcDJqb3RqVy14dWRqeWIydg?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-05-07 01:23
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9VYWtQU1JVREczNFQtM1RrdHdsRUQzdV9oZ04zOUVaUHZ4YzhoRlJ3Qjd1OUJHRWs0MzVRRFdyZDV0cFkwaTdHWUZxYw?oc=5>
 
-### 特朗普称伊朗战事可能在他访华前结束
+### 昨夜全线爆发，特朗普最新发声
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-05-06 21:44
-- 链接: <https://news.google.com/rss/articles/CBMiqwJBVV95cUxOb3JOOWs5TXFPU0xGbmZNT0s0RWhmNVM2dzFhWXJXbHNXUVpNeGFqOTJndklDUVRBYnk1dVl1OXBna1dLS1FsbXBOX0dvMjM5M29yaFFVMEI3YXFTVnBaeFFWbDB1ZHdpX1EtRXFsSGdhcm0yTE1pelFxVXMxWVFycVVaVnRmejVkMmdrVFppU1VhMjFndDdyZFlWY1NKN1lMeGo2TzJjYXlYNF80WjRVNk42Q1FBYXUxQXBGZnp2SnQxci1JazNjSllLb0pRTWxwV084YllDQS1IQ2ZmZENsQjh5R0pHb2p4VDFCUVlHMDhvTFM4bXdfQWp1LWd3T29HNzVBODJMOW11NG1XdEdPcTdSVVhmOHF1UWJ4OC1xNkY2VHBjcHVxYm0tYw?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-05-07 00:38
+- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE95UFpoNU5ydzBQWkxvNldqeDRvSERZb3ZEUk1IcDRHUGxaOG9YUDJHNmpQMmlsTXNfNGhaNzlvUUNzeU5SSGEtckRfRDFraHJv?oc=5>
+
+### “美伊接近达成停战谅解备忘录，特朗普为脱困正改口”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-05-06 12:37
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE56TjhvTEt6LS1IVDZKR2xfZVFRdU1jUVNHNjR1MGtTT1V1Yks2dHBUbmlqU0J5UWgtWm42bTRwY05IeEtjX1VqTG5MZ0t0QlJDVlFBa01WbWszQ0xXR2NTTUFaaUl1Zjg4U0E?oc=5>
+
+### 美国前助理国务卿冯稼时：特朗普关税政策完全失败
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-06 05:46
+- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxPZEdsVnRoX2VnYzlTRnMtNGtTcnhPRFNNNTZSa1QwNjRPS2Z0dXhGYW9OajZvQUN4MWMzaU5JX25DMlROZ2FTQ0poUzFDaVljek9SamVpbjB3ekRST0ZrM0IxWXRJWWlsZWR5T2NaVE5PMU9xZEZKV1JBWWI3OTU0aUI1MUpaZ0VZdjIzMW1rYU1NcmVBU0NEZGhmSGRZV3VZOVJKSWpLS1JpczdjRFdRNzVmVWY3ak1TOFhidGpmUjVkRC1kVlU5aDZvdEF2NWs?oc=5>
+
+### 特朗普预估美伊一周达成协议，伊朗称尚未回应美国14点提议-腾讯新闻
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: QQ News
+- 时间: 2026-05-06 23:05
+- 链接: <https://news.google.com/rss/articles/CBMiV0FVX3lxTE40UzhMTlA2bFM0V080bVAxN2pvZ01JNzRUaVdPXzFTSlN0UVF2WFJwNlJmRXd5bV9XWmNtZUZiMkdEZGwxSnVHVkt5a0pOZ2dGUDBHdFJIcw?oc=5>
+
+### 特朗普访华在即 美中会谈聚焦三大敏感议题
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-05-06 22:34
+- 链接: <https://news.google.com/rss/articles/CBMikwFBVV95cUxNaEF2UDlqLUpKdmQ0b1pnX2VmM2M5VlFCY3lrUEEzTjNRcm1JSktLRXZ2VWdWVXVVdlpKWGxsS2JfMG9MZUk2cmJPSjJEbkZEUnRmenNqYUhzU2F3aEFsaXVuWEZpdjZUV09QR3h2TjBtMHBiamRKRnBtcUViNWRrNXA3SW1oYnRKeWY5T05Da0JqYUXSAZYBQVVfeXFMTmlhRm5iQzIwSExnUnJkUl9lX1R2b0ZUZG10Zmc2Vk9iZldPenprTFFPUnJEemlwS09EVHN4eVlrbEppN0UzTUJ5MGd2a3NISkVra1Jhb0szUWlkV05KMDVlOUxnN0JDMThySlgzdXF1akJqM3haRzM5WS1KbUVVX2xReWdsVHVvd05hT2JmUkZsOWNJLUtn?oc=5>
+
+### 特朗普：美伊“很有可能”达成协议 伊朗：不允许美不付出代价就脱身
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 东方财富
+- 时间: 2026-05-07 01:04
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kQ1RmVHlCWExvZmJWSVBOMnRjSnJSY0I1cU1ZcEJDcDJpSGs1ZkVzbUpWZ2JXbGFNV3dqVlZTeUxaUkZlZzg2ZHVWVmE0VXRBZklpMmp2UG02THpEeFJ6Sg?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-07 02:24  (8 条)
+
+- **特朗普** | 新华社消息丨特朗普称美伊“很有可能”达成协议 <https://news.google.com/rss/articles/CBMid0FVX3lxTFBkdTYwMEJvT09Lbmc1SXpEa2Z4MnlhM0FqUHFPRVdPOVZMUUdyYkhQZzAzQWNqNjdPcEx3Rk5xdjd1YVVraVRyR3NEbklTMWRvRDNWYWVDbC1IZzc0TTRtQktFbnVPMWp1bDZlOU5EaEFvX1Jod1dB?oc=5>
+- **特朗普** | 特朗普：华盛顿特区的犯罪率已降至30年来的最低点！ <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9VYWtQU1JVREczNFQtM1RrdHdsRUQzdV9oZ04zOUVaUHZ4YzhoRlJ3Qjd1OUJHRWs0MzVRRFdyZDV0cFkwaTdHWUZxYw?oc=5>
+- **特朗普** | 昨夜全线爆发，特朗普最新发声 <https://news.google.com/rss/articles/CBMiUEFVX3lxTE95UFpoNU5ydzBQWkxvNldqeDRvSERZb3ZEUk1IcDRHUGxaOG9YUDJHNmpQMmlsTXNfNGhaNzlvUUNzeU5SSGEtckRfRDFraHJv?oc=5>
+- **特朗普** | “美伊接近达成停战谅解备忘录，特朗普为脱困正改口” <https://news.google.com/rss/articles/CBMiakFVX3lxTE56TjhvTEt6LS1IVDZKR2xfZVFRdU1jUVNHNjR1MGtTT1V1Yks2dHBUbmlqU0J5UWgtWm42bTRwY05IeEtjX1VqTG5MZ0t0QlJDVlFBa01WbWszQ0xXR2NTTUFaaUl1Zjg4U0E?oc=5>
+- **特朗普** | 美国前助理国务卿冯稼时：特朗普关税政策完全失败 <https://news.google.com/rss/articles/CBMizwFBVV95cUxPZEdsVnRoX2VnYzlTRnMtNGtTcnhPRFNNNTZSa1QwNjRPS2Z0dXhGYW9OajZvQUN4MWMzaU5JX25DMlROZ2FTQ0poUzFDaVljek9SamVpbjB3ekRST0ZrM0IxWXRJWWlsZWR5T2NaVE5PMU9xZEZKV1JBWWI3OTU0aUI1MUpaZ0VZdjIzMW1rYU1NcmVBU0NEZGhmSGRZV3VZOVJKSWpLS1JpczdjRFdRNzVmVWY3ak1TOFhidGpmUjVkRC1kVlU5aDZvdEF2NWs?oc=5>
+- **特朗普** | 特朗普预估美伊一周达成协议，伊朗称尚未回应美国14点提议-腾讯新闻 <https://news.google.com/rss/articles/CBMiV0FVX3lxTE40UzhMTlA2bFM0V080bVAxN2pvZ01JNzRUaVdPXzFTSlN0UVF2WFJwNlJmRXd5bV9XWmNtZUZiMkdEZGwxSnVHVkt5a0pOZ2dGUDBHdFJIcw?oc=5>
+- **特朗普** | 特朗普访华在即 美中会谈聚焦三大敏感议题 <https://news.google.com/rss/articles/CBMikwFBVV95cUxNaEF2UDlqLUpKdmQ0b1pnX2VmM2M5VlFCY3lrUEEzTjNRcm1JSktLRXZ2VWdWVXVVdlpKWGxsS2JfMG9MZUk2cmJPSjJEbkZEUnRmenNqYUhzU2F3aEFsaXVuWEZpdjZUV09QR3h2TjBtMHBiamRKRnBtcUViNWRrNXA3SW1oYnRKeWY5T05Da0JqYUXSAZYBQVVfeXFMTmlhRm5iQzIwSExnUnJkUl9lX1R2b0ZUZG10Zmc2Vk9iZldPenprTFFPUnJEemlwS09EVHN4eVlrbEppN0UzTUJ5MGd2a3NISkVra1Jhb0szUWlkV05KMDVlOUxnN0JDMThySlgzdXF1akJqM3haRzM5WS1KbUVVX2xReWdsVHVvd05hT2JmUkZsOWNJLUtn?oc=5>
+- **特朗普** | 特朗普：美伊“很有可能”达成协议 伊朗：不允许美不付出代价就脱身 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kQ1RmVHlCWExvZmJWSVBOMnRjSnJSY0I1cU1ZcEJDcDJpSGs1ZkVzbUpWZ2JXbGFNV3dqVlZTeUxaUkZlZzg2ZHVWVmE0VXRBZklpMmp2UG02THpEeFJ6Sg?oc=5>
 
 ### 2026-05-06 23:44  (5 条)
 
