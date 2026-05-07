@@ -1,114 +1,116 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-07 05:45**
-- 本轮扫到 422 条, 新增 **13** 条
+- 最近更新: **2026-05-07 08:26**
+- 本轮扫到 433 条, 新增 **11** 条
 
 ---
 
-## 本轮新发现 (13 条)
+## 本轮新发现 (11 条)
 
-### 王一博连续2年献唱五四主题曲
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5952915720_v162d2490806703v4mw.html>
-
-### 王一博连续两年献唱五四主题曲，四大硬核点获官方认可
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923551_m1d5ae175f03301jlk8.html>
-
-### 周杰伦深圳演唱会粉丝应援引热议
+### 周杰伦早期演唱会15大神级现场，这场面估计再也看不到了吧
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301beam.html>
+- 链接: <https://k.sina.com.cn/article_7480851854_m1bde4bd8e001018z2k.html>
 
-### 美全力以赴赶在7月4日前改好卡塔尔送的特朗普专机
+### 外交部：中美双方就特朗普总统访华保持着沟通
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中国青年网
+- 时间: 2026-05-07 08:05
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqUVE2cFl6d2VZOGxJRHBPeXdpdVlsemJHRXpZQXN2bUljLWhzZ3VJSXN1ODdsZzhwQ1BTSFFscWRDSFJpQkt0ZUxfQ0ZpMkdDQVpWYk1seVdRME1ZeUNUQmd4ODFFOHc?oc=5>
+
+### 外交部：中美双方就特朗普总统访华保持着沟通
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-05-07 06:48
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBRcGNWTGp2dEkxS0phRTRMb3N6eHgwblZGWlI2VGdFUGVqQllVY3BRaldLY1c0Q3Y3UTIxRC1RMGVKMmdfclVIRWVHcmw?oc=5>
+
+### “特朗普急着结束战争，不然得找中国出面了”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: guancha.cn
-- 时间: 2026-05-07 05:31
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE41TVFzQ291bmtRaHhyM28xd2RoZ0hXWkcwcE91SGVacjBTa0xaZm1pZUtnVk1kUjlpamZLd1N1NFFUVTE3XzUxakxuY01lM2xjdUJTOTJJRGNtV0ZFaDJXWnVPdDY4Um9sLXc?oc=5>
+- 时间: 2026-05-07 07:18
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE41cUtjenFZaW9manAxb3N2bmYxWmc1LWIydVVQTW4tWFpwOW0xMDg2VnRGLWRPbXFzX1pZUjYyR1BrTFVXOTZBVm5iLW1qdGN1VVd6OXVWWE9NcDZtbnRYTGxZTUZGcU9ZQXc?oc=5>
 
-### 特朗普说美将从伊朗获得浓缩铀
+### 特朗普称伊朗同意不拥有核武器伊方暂无回应_新闻_新浪新闻
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-07 04:47
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5NNW4wRHRBbjJCMm1wWGllWDNHOFJCX2FvZXpramkxejJOMVNETXhlOEFWbEMtOWRhOHhOTnZWbHdCNzBpX0pDY3ozUQ?oc=5>
+- 时间: 2026-05-07 08:14
+- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTFBlMm5oY0swS29melluN3BKT3VlMUlEZ0lqOUxRN25PZEdWQURjUWg5QlMySnZoeXVVS2pxWU9TbGRZcmZ5eWpvY1dJZFd0WGltbm82a3VUck1SYjRVVFNVX3dGZVJXZDFSTU1TMWhjcUtPTXNtclpQb1UxbnhfZw?oc=5>
 
-### 海湾盟国愤怒并关闭领空特朗普自由计划迅速失败
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: guancha.cn
-- 时间: 2026-05-07 04:50
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5hdnpYQ0FnZFpXQzJialNGOEdHd19hc3BIeXM2LUNHREpwOE1EeEFlS3c1WGpnUDBGMTBFMWhEUHVia2syamhWeFJRRFRMR1pnQkgtekNWVlRidkp3NkIyYS11R3VoSnkyYUE?oc=5>
-
-### 特朗普称美伊“很有可能”达成协议
+### CNN创始人去世，曾骂该台“假新闻”的特朗普罕见悼念：赞其“行业最伟大”，却补刀“新东家毁了CNN”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-05-06 22:10
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE41WUR0X1NuZ0dqZ1BDZkVoQzc0Z0ZnazRGLTRFWDBob2xfV0xKX3hYeG5xdXVEajFsV0p5UVVIUXJWem5lbXl5UldUV2c2anM2NlhELWowbUdZX2hfZkpuZFY4RTJCcEZ5R2xfaFktSUNaaV9ldWQ4SlpjekJ3bzA?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-05-07 08:07
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE5qNjVCbWVmU3o4bEg2T1dMVGZzRFl4dzl6TEpaMERLTWtiRVZ6eFlRRm1ERGVqMGJ1emJybjJDOXJjN0VjSUdJRW9icnc3V29lR3FwZkdNRTh5a3ROVUdCamUxR1B0Sy1zWVN6M1F1QTBseXFlMUE?oc=5>
 
-### 利好突袭，史诗级暴涨！特朗普重磅发声
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网财经
-- 时间: 2026-05-06 23:27
-- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE51eURxTEZENXBVdm4zY0Y2V01vcGlSRVY0RmF1ekQwVDRmbERUeGxzSUxoZFgzOHBfY1ZKUTJpX3gtd3JQQmtiUkFKZ0dxUzBT?oc=5>
-
-### 特朗普说特纳是广播史上最伟大的人 缅怀CNN创始人
+### 不得不买？特朗普承认常买中国货 贸易战攻守逆转
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 中华网
-- 时间: 2026-05-07 02:41
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBndUFMRFN5Umw3U1ZfVDhzTE1mZGxKMEU5YzIzWHVEYl9LZ0RVTmtETUpUSU5VNVJicjBJRE9FVUhicHFpRzB3elNkbDlweVVvWjlNWk5hS0ZkdnhfVC1Nd0FXZThxQXpOdjdsSnZWMlo?oc=5>
+- 时间: 2026-05-07 05:30
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBRb3RjYmVDdEtlTDFsMm1VT1FKV3JNNGdyXzZHcXFORlRTS2RlQUIxdHpPcjlxZVJjYU1oekZ3NWZpY0VSdFVBLTFLUFpBaFZwaHVfaklJVXZOYlQzT0EzWXdxT2xpUlN2YkdSaFhNR2U?oc=5>
 
-### 美国前助理国务卿冯稼时：特朗普关税政策完全失败
+### 特朗普承认自己曾“不得不”常买中国货
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-06 05:46
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQzcwMjVqUDBDVlFiaXgzMm5lR2F5U3Q1YU5BdjdjME9BdjNmVFJjLURaODJGVVNCNTFyX0xoSkFsMHFNYkdZbllRWFpzNWRtZHZnS3F5d05tT3pWMm1JSFZOQTRXbmVZM2FYaWZaV0MwTUhNMFRYamZqZUJPOFhEY1kxdjFCUVV4dnBBdlpqRHJIWlZuSzVIZkdieTFoU0J6OTJJX2pwNV85eWhtbDNHM3dGM19nVzJJWDVGclhQZk1kWXpta1lHcFpMdVZ0MThi?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-05-05 13:02
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE04em1LdDFmaVRzV2U4Rk93bnZzVUh3WEpISlRvQVhxZWUtWDM4RE0xUUhkd0FmcDEtWGRQRmp1ek1TSGtLb012Q2dqa2x2M0VjOFJoRm9nN0MyYVhVVDZpWk9yVnc1blVQM3hvTlBhRkk3R3FZ?oc=5>
 
-### 真会玩，特朗普也来做中转了，卷到没边了。
+### 特朗普享中国制造红利却对华加征关税！
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华军事
+- 时间: 2026-05-07 06:51
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFA4LUJIa0E5dFRTQXJfcEdBSXp2ZDhtN3hZTnA3amN3NjhwR2VuNkV6djhZUlRFSjA5eVluYU5hbzRCRFFJX2pXRWlPWFg5RXhRTjFYR1hXQmQ4QzRsVHV2dWY5cVhfRUVTb0xtaUJQeWU?oc=5>
+
+### 特朗普再称对美伊达成协议表示乐观
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 央视网
+- 时间: 2026-05-06 22:15
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBaeWR0c1JNVVgyeWN5NkVtM0xaU0xtZjdOMmhwOWFpZTJ1MTZNUVppNEpDeUw0bElEVWRINnBRclVfOWpXUE96RWdMN29rUFYwSXUzeGNVS1JkM1NZYmdYVHl5djVQQVBNeVJ1QWFqSE01WmhDT1pIRQ?oc=5>
+
+### 特朗普将访问一个早已不再仰视美国的中国
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 电子工程专辑
-- 时间: 2026-05-06 10:32
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE9rMFNrZzBqS1N3eDN0QUtVSjZtOFotcFJnUFA4cDhVd3pxOVFiZ0xGcmM3djgtLWRiUVl3QTNxdWJ3Zk1kb1BsVVN0X000dEhGdWtZ?oc=5>
-
-### 特朗普政府如何变身激进投资者
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-05-07 04:44
-- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE1OV0NpRDV1NW9oYTRoSFdJMDQxZWhLQ2hHREtoOUVaV0Iwa29QMTZoNUFEd1c3SVRQVzhYT3JUXzdtTUl3cGlWLTNmUENjRGhYTnFYakIxZHZyc2xCMkktdDdqV25wNVlZTFZsTVY0d0F5VGhBc1diSk9iNTZidw?oc=5>
-
-### 伊朗战争：美伊可能达成终战协议，油价股市作出快速反应
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-05-07 04:36
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5CLTc1cEZ0c2l0Q0JUN24xaHdaX05wczVYMVNLc2R6blJfMFdZbGpfZ3pFczQtYTl0WTI3ekxfZ1VpU2dMbXB6UUtKVW44TjNaeDYxSVlmUFZyaU9SQ1VOdDY5SUZNUdIBa0FVX3lxTFBoQlFiU0hrNXFjck1LaU15aUZIZURSWWc1SUIzeWFCNnJLYTJnbHJBVnlIc2k1TFRoTko2M1hqcU1EVEpuSi1pVXBUVDlMYzFYYjRPUjBDOUxOYndtUnZ4bUdHV2NCSkhaZndJ?oc=5>
+- 场馆: 纽约时报中文网
+- 时间: 2026-05-07 02:41
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE1FOWpRQW51MmNzU3FGQVgtS2sxSTZvLWpPS2hxMkhMV1FQdndaaHhTa0RMMmo0d0o1LWN6UzhKWk9iNXc3aEN2NE5XV1VCQVFwaHlHazhCM1hRSjdObl9xY281UC1EVmNpSGJXRUdUQQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-07 08:26  (11 条)
+
+- **周杰伦** | 周杰伦早期演唱会15大神级现场，这场面估计再也看不到了吧 <https://k.sina.com.cn/article_7480851854_m1bde4bd8e001018z2k.html>
+- **特朗普** | 外交部：中美双方就特朗普总统访华保持着沟通 <https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqUVE2cFl6d2VZOGxJRHBPeXdpdVlsemJHRXpZQXN2bUljLWhzZ3VJSXN1ODdsZzhwQ1BTSFFscWRDSFJpQkt0ZUxfQ0ZpMkdDQVpWYk1seVdRME1ZeUNUQmd4ODFFOHc?oc=5>
+- **特朗普** | 外交部：中美双方就特朗普总统访华保持着沟通 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBRcGNWTGp2dEkxS0phRTRMb3N6eHgwblZGWlI2VGdFUGVqQllVY3BRaldLY1c0Q3Y3UTIxRC1RMGVKMmdfclVIRWVHcmw?oc=5>
+- **特朗普** | “特朗普急着结束战争，不然得找中国出面了” <https://news.google.com/rss/articles/CBMiakFVX3lxTE41cUtjenFZaW9manAxb3N2bmYxWmc1LWIydVVQTW4tWFpwOW0xMDg2VnRGLWRPbXFzX1pZUjYyR1BrTFVXOTZBVm5iLW1qdGN1VVd6OXVWWE9NcDZtbnRYTGxZTUZGcU9ZQXc?oc=5>
+- **特朗普** | 特朗普称伊朗同意不拥有核武器伊方暂无回应_新闻_新浪新闻 <https://news.google.com/rss/articles/CBMifkFVX3lxTFBlMm5oY0swS29melluN3BKT3VlMUlEZ0lqOUxRN25PZEdWQURjUWg5QlMySnZoeXVVS2pxWU9TbGRZcmZ5eWpvY1dJZFd0WGltbm82a3VUck1SYjRVVFNVX3dGZVJXZDFSTU1TMWhjcUtPTXNtclpQb1UxbnhfZw?oc=5>
+- **特朗普** | CNN创始人去世，曾骂该台“假新闻”的特朗普罕见悼念：赞其“行业最伟大”，却补刀“新东家毁了CNN” <https://news.google.com/rss/articles/CBMidkFVX3lxTE5qNjVCbWVmU3o4bEg2T1dMVGZzRFl4dzl6TEpaMERLTWtiRVZ6eFlRRm1ERGVqMGJ1emJybjJDOXJjN0VjSUdJRW9icnc3V29lR3FwZkdNRTh5a3ROVUdCamUxR1B0Sy1zWVN6M1F1QTBseXFlMUE?oc=5>
+- **特朗普** | 不得不买？特朗普承认常买中国货 贸易战攻守逆转 <https://news.google.com/rss/articles/CBMicEFVX3lxTFBRb3RjYmVDdEtlTDFsMm1VT1FKV3JNNGdyXzZHcXFORlRTS2RlQUIxdHpPcjlxZVJjYU1oekZ3NWZpY0VSdFVBLTFLUFpBaFZwaHVfaklJVXZOYlQzT0EzWXdxT2xpUlN2YkdSaFhNR2U?oc=5>
+- **特朗普** | 特朗普承认自己曾“不得不”常买中国货 <https://news.google.com/rss/articles/CBMidEFVX3lxTE04em1LdDFmaVRzV2U4Rk93bnZzVUh3WEpISlRvQVhxZWUtWDM4RE0xUUhkd0FmcDEtWGRQRmp1ek1TSGtLb012Q2dqa2x2M0VjOFJoRm9nN0MyYVhVVDZpWk9yVnc1blVQM3hvTlBhRkk3R3FZ?oc=5>
+- **特朗普** | 特朗普享中国制造红利却对华加征关税！ <https://news.google.com/rss/articles/CBMicEFVX3lxTFA4LUJIa0E5dFRTQXJfcEdBSXp2ZDhtN3hZTnA3amN3NjhwR2VuNkV6djhZUlRFSjA5eVluYU5hbzRCRFFJX2pXRWlPWFg5RXhRTjFYR1hXQmQ4QzRsVHV2dWY5cVhfRUVTb0xtaUJQeWU?oc=5>
+- **特朗普** | 特朗普再称对美伊达成协议表示乐观 <https://news.google.com/rss/articles/CBMieEFVX3lxTFBaeWR0c1JNVVgyeWN5NkVtM0xaU0xtZjdOMmhwOWFpZTJ1MTZNUVppNEpDeUw0bElEVWRINnBRclVfOWpXUE96RWdMN29rUFYwSXUzeGNVS1JkM1NZYmdYVHl5djVQQVBNeVJ1QWFqSE01WmhDT1pIRQ?oc=5>
+- **Trump** | 特朗普将访问一个早已不再仰视美国的中国 <https://news.google.com/rss/articles/CBMib0FVX3lxTE1FOWpRQW51MmNzU3FGQVgtS2sxSTZvLWpPS2hxMkhMV1FQdndaaHhTa0RMMmo0d0o1LWN6UzhKWk9iNXc3aEN2NE5XV1VCQVFwaHlHazhCM1hRSjdObl9xY281UC1EVmNpSGJXRUdUQQ?oc=5>
 
 ### 2026-05-07 05:45  (13 条)
 
