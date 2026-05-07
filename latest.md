@@ -1,72 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-07 19:13**
-- 本轮扫到 465 条, 新增 **7** 条
+- 最近更新: **2026-05-07 20:47**
+- 本轮扫到 467 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (2 条)
 
-### 特朗普：与卢拉的会面进展顺利。
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-07 18:22
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBOUjFlVTBFQWZOZWEydkdBSTY1OGNUbk14SEdGd1JjYThGc2swNTNNZjlLZE9CcUc1aDdrUXZJeG41ekwzbm8tbUFJcw?oc=5>
-
-### 特朗普政府正寻求重启“自由计划”，最早可能在本周实施
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-05-07 18:17
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBzcFF2ZlN6ejlLdWpFd1BmQjcyb0NTNFBZOU1BY252bHFKb0ViV0J4REhUalBabnVIamdxNXptYlk2aldTbjloMENvRHg3NmNfNUJhTmdsYzVXVDlDOWR0aA?oc=5>
-
-### 特朗普政府解除在公共土地上使用“氰化物炸弹”的禁令。
+### 特朗普：我与欧盟委员会主席冯德莱恩通了一次非常愉快的电话。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-07 18:49
-- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FSXotMzh4LWlTdkFBdk9lelJSRGtIUkVibzl4Q0lwb3ZzSzFMRk15SUdfWGNyUlhDSFNtc05pWnpRT1EwZkN6OUNnTWpmUFE?oc=5>
+- 时间: 2026-05-07 19:08
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE03MVJhR0I3dW9QSzVGdFpmVnhuQUpLNVVIVXFBUzdLOHdMUUZTRGVlY0RCS1c2aFlIVU5kNTJOZkwzYmp3ME0yVEY2RQ?oc=5>
 
-### 特朗普：若伊朗不同意和平协议，将遭遇“更大规模”的轰炸
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: Sina finance
-- 时间: 2026-05-06 21:45
-- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE9TQTY4VUVKSDh1Wl92UU5xakJzQ3VxSWEtSnk5X243WnlXb2hsWnVOS3o5dDdaeVo2ZjFGdDNsS2JlUVNCZ2N2UEVhdloxdldvNWVuazI3NS12U24yMFVpdXZ5Wmdjb1d4N3RoQXVJYXpyQkt5aXpweU1R?oc=5>
-
-### “特习会”在即 中国出口商：已麻木 无所谓 不抱希望
+### 特朗普访华前瞻：台湾问题会摆上桌？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: DW.com
-- 时间: 2026-05-07 11:37
-- 链接: <https://news.google.com/rss/articles/CBMivAJBVV95cUxOclI3c2dOQXgzbFFRbjVkRnZCa2o3VmQ1dTJIUjhjMjhCTlRxYnhXTDQ3OGc1YWYzR1RPRG0xR3RrdlpCdm1RQXJSekY4RzI2eDBFMTZzVkFfZUhKTGdpemtRSFhXb0dJTGc4WHNaRFdEZFMtb3ZuMEdJVTQ4WXE3WUtjWXVEQWpoWlZSblh4d2EwOUlOdW5lRXFyd1FleFAtVXVjWjdUQW5LaDl2NENibFU0d1VrUzVUYkRBTU9DZjczRGdEWFpkVEg2eE4ta25HWmZPVlBZZXlfX3pVUDh4R3Z3N2h6RnRWVWR6c1g5OHBDZ2RkUGt5TVFGbFZhUjJwaGNPX1hRdlo3SHFXVXhzWGxFTWZna3RZODFkQmhDNFB4eFF1ME9KQ3p3Z2VsTkg5dlY5TThUSnJnVnl6?oc=5>
-
-### 特朗普80岁生日时将在白宫举办拳击赛
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-05-07 11:29
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IbngtUGF1QzlrQUZ4ekJfNEY3YXd6LXR3SGppX2lZN180eno1VXowcWRaaWNiYTdfQkVZY0QxM19peGw0VTY3eHBBSnBHNnYxSjRsX2ZDWnppSVBHNlgxYXczMXZiQkFM?oc=5>
-
-### 独家专访高瑜：特习会难改中美长期竞争格局– 普通话主页
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Radio Free Asia
-- 时间: 2026-05-07 09:07
-- 链接: <https://news.google.com/rss/articles/CBMijgFBVV95cUxOOTRYd1QxU3NCS1dZRFZiN3JHZFFWb3BVdGx2ZVZ0d0locEdrM1A2dWRKWUtrUXZwWUxlMno0RnJreGFNTFJWM09NdlFnbzJwMm4zZlVidUVaczE1VTd2TmhGUlNYY1dMSHkzN1I2REJ0WGl6RVRibUs0UGR6NEU5ZlE1MmdtcjF1aGd4UFF3?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-05-07 14:29
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE8tVndwU1h4dzR2ak9aYnVuUUxWVERTVE1HZ3NRdk5ucEdvWVdnV2R3X1RWLW1HTFlSUGdBeF8xNWlFQnFOOWpjQk5Wdnc?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-07 20:47  (2 条)
+
+- **特朗普** | 特朗普：我与欧盟委员会主席冯德莱恩通了一次非常愉快的电话。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE03MVJhR0I3dW9QSzVGdFpmVnhuQUpLNVVIVXFBUzdLOHdMUUZTRGVlY0RCS1c2aFlIVU5kNTJOZkwzYmp3ME0yVEY2RQ?oc=5>
+- **特朗普** | 特朗普访华前瞻：台湾问题会摆上桌？ <https://news.google.com/rss/articles/CBMiTEFVX3lxTE8tVndwU1h4dzR2ak9aYnVuUUxWVERTVE1HZ3NRdk5ucEdvWVdnV2R3X1RWLW1HTFlSUGdBeF8xNWlFQnFOOWpjQk5Wdnc?oc=5>
 
 ### 2026-05-07 19:13  (7 条)
 
