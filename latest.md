@@ -1,40 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-07 21:52**
-- 本轮扫到 470 条, 新增 **3** 条
+- 最近更新: **2026-05-07 22:56**
+- 本轮扫到 475 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (5 条)
 
-### 5月8日外盘头条：美国计划本周重启护航行动特朗普给予欧盟至7月4日批准贸易协议OpenAI与博通芯片豪赌遇冷
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-05-07 21:30
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxQRFZZa2dsWTIzVTB0UjB2c0dzMzhxV0pwSFJJaUdvcl96WXd1RW5CSW8xU0ZBZ2FCSDlfYzRGTDBaZ2s5R2N0alpnVkNCeDFFZWZXZlZVclFtNUpLSy0xTGlXWHBqRXFFRndGTXhWa2s4XzNMNW84N2VranRZaXdlS0JxajN6ZkU?oc=5>
-
-### 从狂热支持到强烈担忧，日本“铁粉”也要弃特朗普了？
+### 特朗普会见巴西总统卢拉讨论关税等问题
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-05-07 13:53
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1tZTlaandkeW9YeXpnSGtLbzhDT1cwYzVCeWhMallpYkRXLTFOaWlGTHZ6SUgzQXpqdzFpSk90OFFZaWUzYnhval94Z3hyZC1SUjlQdUtaMU1RRWJzdkxxckNBc1JLaEZodlE?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-05-07 22:03
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE90N2dTQy1zNjBUQ2VhOEtoMTVRVnNkWkV2Q1ZPZG41azloMzR4a3VDTldxaWdmY1Q1YlhGNGliVzBvbTR0eURIdk9vbw?oc=5>
 
-### 美贸易法院：特朗普10%的全球关税政策无效
+### 特朗普对美国广播公司新闻表示：“停火正在推进，目前已经生效。”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-07 22:25
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE92N1ZzMVlVVkF1bFcyQl9nUjV3b1BBMDNmaXNXYVlVNHN2SklyLXN2Zk9KMjI5TUhpMTRiV1d0SHEtQ1FuUUxpcVZfZw?oc=5>
+
+### 美媒：特朗普在结束伊朗战争问题上态度急转
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-05-07 21:37
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE01c3JsWkQwdmsxTTNDamg3N09udlAxMmhMMDBibmJZd1BiNDZ2UWRQcEl0Q25xcnROeWh2ZExFanprTUNVbHVIN3o4dnk?oc=5>
+- 时间: 2026-05-06 19:23
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5seDFBX1lkM1lOVmd4R0VIWjV3d1RXX1F3djZDcFh1bnByQU1CdTktdFJIOXh6bVkza3JvMjlMMk5jNzFRSE1RTDMxM1o?oc=5>
+
+### 美伊再交火，特朗普回应
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-05-07 22:47
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9yZnJzeGJtcmpGOHV4TTllTE83bVlyTXlPVkNfa0xBNG1WbzFWV2FoOE11dnBCOXU4YzQ5akNRalhYRnBjNDlZbDRXWFE?oc=5>
+
+### Trump says dialogue with Iran has been effective and the two sides will reach an agreement
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: news.tvb.com
+- 时间: 2026-05-07 13:17
+- 链接: <https://news.google.com/rss/articles/CBMi8gFBVV95cUxQblRHWXB0VE5TOGdKMG5FdXI1VUNpQk16NHhmWVNNZnhBcUYwT3ROVFhjdjB2U1Z1N1Y4Yk45QThqN3dycEtwa3QyOElIOFFZYkJ2MzVEZDJmTGM0MzVzTGhyMmh4emhZeW5WTGJiN2loSHhNc3kxSXRuNWUxRnpfaXFVbGtKMS1Fcjh6dnhBQkVzV2ptTExjTmgtT3VVTHRFemVCMWZOdkJjSnEzZW1HMlJwbnVuLTlNWF9Va2JWZ3FYWEJtclc1M044dDVWdkhXZVpEMjVXRU16V1pIRGhrYzVIZUpmUXAwb0piVzFFVHN1dw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-07 22:56  (5 条)
+
+- **特朗普** | 特朗普会见巴西总统卢拉讨论关税等问题 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE90N2dTQy1zNjBUQ2VhOEtoMTVRVnNkWkV2Q1ZPZG41azloMzR4a3VDTldxaWdmY1Q1YlhGNGliVzBvbTR0eURIdk9vbw?oc=5>
+- **特朗普** | 特朗普对美国广播公司新闻表示：“停火正在推进，目前已经生效。” <https://news.google.com/rss/articles/CBMiS0FVX3lxTE92N1ZzMVlVVkF1bFcyQl9nUjV3b1BBMDNmaXNXYVlVNHN2SklyLXN2Zk9KMjI5TUhpMTRiV1d0SHEtQ1FuUUxpcVZfZw?oc=5>
+- **特朗普** | 美媒：特朗普在结束伊朗战争问题上态度急转 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5seDFBX1lkM1lOVmd4R0VIWjV3d1RXX1F3djZDcFh1bnByQU1CdTktdFJIOXh6bVkza3JvMjlMMk5jNzFRSE1RTDMxM1o?oc=5>
+- **特朗普** | 美伊再交火，特朗普回应 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9yZnJzeGJtcmpGOHV4TTllTE83bVlyTXlPVkNfa0xBNG1WbzFWV2FoOE11dnBCOXU4YzQ5akNRalhYRnBjNDlZbDRXWFE?oc=5>
+- **Trump** | Trump says dialogue with Iran has been effective and the two sides will reach an agreement <https://news.google.com/rss/articles/CBMi8gFBVV95cUxQblRHWXB0VE5TOGdKMG5FdXI1VUNpQk16NHhmWVNNZnhBcUYwT3ROVFhjdjB2U1Z1N1Y4Yk45QThqN3dycEtwa3QyOElIOFFZYkJ2MzVEZDJmTGM0MzVzTGhyMmh4emhZeW5WTGJiN2loSHhNc3kxSXRuNWUxRnpfaXFVbGtKMS1Fcjh6dnhBQkVzV2ptTExjTmgtT3VVTHRFemVCMWZOdkJjSnEzZW1HMlJwbnVuLTlNWF9Va2JWZ3FYWEJtclc1M044dDVWdkhXZVpEMjVXRU16V1pIRGhrYzVIZUpmUXAwb0piVzFFVHN1dw?oc=5>
 
 ### 2026-05-07 21:52  (3 条)
 
