@@ -1,32 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-07 20:47**
-- 本轮扫到 467 条, 新增 **2** 条
+- 最近更新: **2026-05-07 21:52**
+- 本轮扫到 470 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (3 条)
 
-### 特朗普：我与欧盟委员会主席冯德莱恩通了一次非常愉快的电话。
+### 5月8日外盘头条：美国计划本周重启护航行动特朗普给予欧盟至7月4日批准贸易协议OpenAI与博通芯片豪赌遇冷
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-07 19:08
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE03MVJhR0I3dW9QSzVGdFpmVnhuQUpLNVVIVXFBUzdLOHdMUUZTRGVlY0RCS1c2aFlIVU5kNTJOZkwzYmp3ME0yVEY2RQ?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-05-07 21:30
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxQRFZZa2dsWTIzVTB0UjB2c0dzMzhxV0pwSFJJaUdvcl96WXd1RW5CSW8xU0ZBZ2FCSDlfYzRGTDBaZ2s5R2N0alpnVkNCeDFFZWZXZlZVclFtNUpLSy0xTGlXWHBqRXFFRndGTXhWa2s4XzNMNW84N2VranRZaXdlS0JxajN6ZkU?oc=5>
 
-### 特朗普访华前瞻：台湾问题会摆上桌？
+### 从狂热支持到强烈担忧，日本“铁粉”也要弃特朗普了？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-05-07 13:53
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1tZTlaandkeW9YeXpnSGtLbzhDT1cwYzVCeWhMallpYkRXLTFOaWlGTHZ6SUgzQXpqdzFpSk90OFFZaWUzYnhval94Z3hyZC1SUjlQdUtaMU1RRWJzdkxxckNBc1JLaEZodlE?oc=5>
+
+### 美贸易法院：特朗普10%的全球关税政策无效
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-05-07 14:29
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE8tVndwU1h4dzR2ak9aYnVuUUxWVERTVE1HZ3NRdk5ucEdvWVdnV2R3X1RWLW1HTFlSUGdBeF8xNWlFQnFOOWpjQk5Wdnc?oc=5>
+- 时间: 2026-05-07 21:37
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE01c3JsWkQwdmsxTTNDamg3N09udlAxMmhMMDBibmJZd1BiNDZ2UWRQcEl0Q25xcnROeWh2ZExFanprTUNVbHVIN3o4dnk?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-07 21:52  (3 条)
+
+- **特朗普** | 5月8日外盘头条：美国计划本周重启护航行动特朗普给予欧盟至7月4日批准贸易协议OpenAI与博通芯片豪赌遇冷 <https://news.google.com/rss/articles/CBMihwFBVV95cUxQRFZZa2dsWTIzVTB0UjB2c0dzMzhxV0pwSFJJaUdvcl96WXd1RW5CSW8xU0ZBZ2FCSDlfYzRGTDBaZ2s5R2N0alpnVkNCeDFFZWZXZlZVclFtNUpLSy0xTGlXWHBqRXFFRndGTXhWa2s4XzNMNW84N2VranRZaXdlS0JxajN6ZkU?oc=5>
+- **特朗普** | 从狂热支持到强烈担忧，日本“铁粉”也要弃特朗普了？ <https://news.google.com/rss/articles/CBMiakFVX3lxTE1tZTlaandkeW9YeXpnSGtLbzhDT1cwYzVCeWhMallpYkRXLTFOaWlGTHZ6SUgzQXpqdzFpSk90OFFZaWUzYnhval94Z3hyZC1SUjlQdUtaMU1RRWJzdkxxckNBc1JLaEZodlE?oc=5>
+- **特朗普** | 美贸易法院：特朗普10%的全球关税政策无效 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE01c3JsWkQwdmsxTTNDamg3N09udlAxMmhMMDBibmJZd1BiNDZ2UWRQcEl0Q25xcnROeWh2ZExFanprTUNVbHVIN3o4dnk?oc=5>
 
 ### 2026-05-07 20:47  (2 条)
 
