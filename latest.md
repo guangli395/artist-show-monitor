@@ -1,35 +1,27 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-07 10:40**
-- 本轮扫到 440 条, 新增 **7** 条
+- 最近更新: **2026-05-07 12:27**
+- 本轮扫到 444 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (4 条)
 
-### “特朗普没哄好，沙特关闭领空致‘自由计划’夭折”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-05-07 06:43
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBDMWk5YlFuOTdsYlQxQks3emtKZi1zZGRpaWdkWVl6T29xNVNkYXN1NzE3SkNyODktOU5saFZUNzliY1otY3J4Yy00WlBLckU1a0FtOXFpU2w2SFhRXzNnS1ZBeTg2dlQwbWc?oc=5>
-
-### 美媒透露：特朗普给了伊朗一周时间签署和平提议
+### 特朗普自由计划遭沙特反制紧急叫停
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-05-07 02:58
-- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxOaUllSVhYemhTNU15N2JNazEwVTFfNmMwLUZkLUlwSzNjZHZfZXdYZklXazBkbVR3bGF0SGlUcVV1MFRiczZ6OFZCV1NzRlpkdnliZU14TWRMZFp5UWlrdEZZYng1SHdBWkFhNG5IRDZEV0JaYk9Yei1DdEtobXh5LU5sUQ?oc=5>
+- 时间: 2026-05-07 11:43
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE85dFVuQU50Q0JnM1E1MGdfV1dneTFQYTdkZGJrZ1dhSjFZWk1CRm9vX2hiX0hyay1Bcm1Ca0QzN29ITFBoQ3ZlMG5XYkJxUktNUjZ3UktvYTZJTnNJZ2tOME9nWk4xemtjS3QybHpjRVp4MWpKWElzag?oc=5>
 
-### “特朗普一搅，默茨雄心破灭”
+### 特朗普周四日程
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-05-07 06:05
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFByS2EzaFQxMHhOeGo4WVdaYi1aVndpYzN4MThZWWdRRDFZUWNnTTdQcnZXbFEyMXZDdy10cXdXZDZTM0RrM3dOMWZrXzU?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-05-07 11:37
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5PVENzUVBmRDZqMXJBcXJiSGZ0SzBIZjNKd3pQY3N5T2lJRDBXT0ZyU25NUnczdWdkdHdrVDdDY3E1bHVLSVZucXBjbw?oc=5>
 
 ### 美国前助理国务卿冯稼时：特朗普关税政策完全失败
 
@@ -37,36 +29,27 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-05-06 05:46
-- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxPX2tJc00tb05WOGR3d0xTcTk2S012TU1Ob05Lb1NwdGdVY2ZSWlYxYnp3Sm5ORXJnSF9kSUJ2WFJJcFpaNXAtb0dOamRjOEZteDZGYTY5eFEyNklXbi0yWjI3LXNESURCVmR1R0sxT1Z0QTc0WFpOVnZHZmNpVUZBZzFVQmpRZzVsRjZYaF9CZU9RS2I5U1ZVWk5BcElQVFFzYWpWa1hHNEVxWU9uN0UtRDNpc3Q3UFhyQUNNby00dWJMUEN2Z0diRjZDdTF0T0k?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQmdlU0hSaUNKNzM4TUFtNDBIMzExS3NoemQ3cVd0M3FjaWNzOEdmdVJRQjdCVnlSNmxYaWozUU5YaThZaGRvYmgyWnpGZExZX183YjFuN3pJaDJTclBINF8xTVJ6V3VmT1hLc2tuZjFuVGJvT0xpTXJINFJBZEFMbmJCbzRjNDFrZHoxXzhPQ1FWX0ctckJxcnNsNmJrWnVZak5MRElEd2lvS2p5VjNGYXV6VnRkQm01M28tQW16aFdVQ0ZPX0p2SDFCcjE3Z3V1?oc=5>
 
-### 外交部：中美双方就特朗普总统访华事保持着沟通；台湾问题是中国核心利益中的核心，是中美关系政治基础中的基础
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 每日经济新闻
-- 时间: 2026-05-07 07:06
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBuVXB1T3ZCYjBUanRvWExaRmZ4T1lhbUtuQmJpZW1fWW1waGhFT0pnTDlEM1hzQ3FJNEg4SVJhdEpfMzZLLVEtX1NFZ1pJVUcwSXdNSU5LSDhndzRTYS02djkwUGM0Zw?oc=5>
-
-### 特朗普80岁生日要在白宫办格斗赛 八角笼效果图曝光
+### 【早报】油价大幅跳水！特朗普：美伊“很有可能”达成协议；以军在停火期间突袭贝鲁特
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-05-07 08:55
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnYTM3bUhxZGlsSDRuUGVmYjNHV2hrTU9Wc1hMeDJJSkRWaVpaYnBBd0NNVTZERFJKcWktMTZsMkNkdW42SEZaS2tLamxvZzF6dWgyTTFLOFVBRndtZm5XazloN2M?oc=5>
-
-### US President Donald Trump warns Iran of ‘much bigger’ bombing if it doesn’t agree to peace deal
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: TMGM
-- 时间: 2026-05-07 00:46
-- 链接: <https://news.google.com/rss/articles/CBMi-gFBVV95cUxNUzdzQnhreUhablZ2V0g3SllkTmx2MFFhV2N4TFM4ZDNRLXRZLVVnTWhVbU41RnBENndGeTlrNkxvWVhRblFSdmc0MUJjNXg3cjFLVkpueDFoc0N4RmJ0dDFpcm5lRTRreHptTzFtYjA2YWVFaVBsWVhqNWdpNG8wYXNuQThaRXpwdUlPVjlnY2NFUXJlM2l1V1JOWWFlTElPTGVaV2hGbjUyaUNCY3A2VG9BUlBHcnhQY0k4Q2RURnV5WldKbGdYOVZxZWNMTzNOY2VsWEhWMnRKWGNHQ20xRkhoZ0hoN0Q0WVNteHJ1RDhPX3llUzFDZGNB?oc=5>
+- 场馆: 财联社
+- 时间: 2026-05-06 23:11
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE55a3VrM3Q5bTl4Rm5TeVI0RmtMM1JvNGVxZzdzemlydXN4MjhHci03TjEweWVvd2ltdWhaUV8wSEdrUi1ydUtyUQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-07 12:27  (4 条)
+
+- **特朗普** | 特朗普自由计划遭沙特反制紧急叫停 <https://news.google.com/rss/articles/CBMieEFVX3lxTE85dFVuQU50Q0JnM1E1MGdfV1dneTFQYTdkZGJrZ1dhSjFZWk1CRm9vX2hiX0hyay1Bcm1Ca0QzN29ITFBoQ3ZlMG5XYkJxUktNUjZ3UktvYTZJTnNJZ2tOME9nWk4xemtjS3QybHpjRVp4MWpKWElzag?oc=5>
+- **特朗普** | 特朗普周四日程 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5PVENzUVBmRDZqMXJBcXJiSGZ0SzBIZjNKd3pQY3N5T2lJRDBXT0ZyU25NUnczdWdkdHdrVDdDY3E1bHVLSVZucXBjbw?oc=5>
+- **特朗普** | 美国前助理国务卿冯稼时：特朗普关税政策完全失败 <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQmdlU0hSaUNKNzM4TUFtNDBIMzExS3NoemQ3cVd0M3FjaWNzOEdmdVJRQjdCVnlSNmxYaWozUU5YaThZaGRvYmgyWnpGZExZX183YjFuN3pJaDJTclBINF8xTVJ6V3VmT1hLc2tuZjFuVGJvT0xpTXJINFJBZEFMbmJCbzRjNDFrZHoxXzhPQ1FWX0ctckJxcnNsNmJrWnVZak5MRElEd2lvS2p5VjNGYXV6VnRkQm01M28tQW16aFdVQ0ZPX0p2SDFCcjE3Z3V1?oc=5>
+- **特朗普** | 【早报】油价大幅跳水！特朗普：美伊“很有可能”达成协议；以军在停火期间突袭贝鲁特 <https://news.google.com/rss/articles/CBMiSEFVX3lxTE55a3VrM3Q5bTl4Rm5TeVI0RmtMM1JvNGVxZzdzemlydXN4MjhHci03TjEweWVvd2ltdWhaUV8wSEdrUi1ydUtyUQ?oc=5>
 
 ### 2026-05-07 10:40  (7 条)
 
