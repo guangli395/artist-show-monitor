@@ -1,25 +1,43 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-07 17:15**
-- 本轮扫到 458 条, 新增 **7** 条
+- 最近更新: **2026-05-07 19:13**
+- 本轮扫到 465 条, 新增 **7** 条
 
 ---
 
 ## 本轮新发现 (7 条)
 
-### 温州周杰伦二开抢票失败？别自责！
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6042105246_m16823359e05301v0tq.html>
-
-### 重振德国？“特朗普一搅，默茨雄心破灭”
+### 特朗普：与卢拉的会面进展顺利。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-05-07 07:38
-- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxNNlNjVEJCU0hHcjB0cV9STU9NSm8wLXMxY1RBWlNJbm5pYnFNaDMxQXRKZ3hsTDhCblFyeDFhS1NJM1dXTUgzU0hYUWlNNHRJQUV1ZXczVURwbTU5SDRITE9lU1pJaVloMkhyTTQ1Qy1DR29MVUlsOHRuVVFMbjV0N3RKS0lSTWdJeG5iU1d4T3oxTThi?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-05-07 18:22
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBOUjFlVTBFQWZOZWEydkdBSTY1OGNUbk14SEdGd1JjYThGc2swNTNNZjlLZE9CcUc1aDdrUXZJeG41ekwzbm8tbUFJcw?oc=5>
+
+### 特朗普政府正寻求重启“自由计划”，最早可能在本周实施
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-05-07 18:17
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBzcFF2ZlN6ejlLdWpFd1BmQjcyb0NTNFBZOU1BY252bHFKb0ViV0J4REhUalBabnVIamdxNXptYlk2aldTbjloMENvRHg3NmNfNUJhTmdsYzVXVDlDOWR0aA?oc=5>
+
+### 特朗普政府解除在公共土地上使用“氰化物炸弹”的禁令。
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-07 18:49
+- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FSXotMzh4LWlTdkFBdk9lelJSRGtIUkVibzl4Q0lwb3ZzSzFMRk15SUdfWGNyUlhDSFNtc05pWnpRT1EwZkN6OUNnTWpmUFE?oc=5>
+
+### 特朗普：若伊朗不同意和平协议，将遭遇“更大规模”的轰炸
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Sina finance
+- 时间: 2026-05-06 21:45
+- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE9TQTY4VUVKSDh1Wl92UU5xakJzQ3VxSWEtSnk5X243WnlXb2hsWnVOS3o5dDdaeVo2ZjFGdDNsS2JlUVNCZ2N2UEVhdloxdldvNWVuazI3NS12U24yMFVpdXZ5Wmdjb1d4N3RoQXVJYXpyQkt5aXpweU1R?oc=5>
 
 ### “特习会”在即 中国出口商：已麻木 无所谓 不抱希望
 
@@ -27,44 +45,38 @@
 - 来源: `googlenews`
 - 场馆: DW.com
 - 时间: 2026-05-07 11:37
-- 链接: <https://news.google.com/rss/articles/CBMivAJBVV95cUxOclI3c2dOQXgzbFFRbjVkRnZCa2o3VmQ1dTJIUjhjMjhCTlRxYnhXTDQ3OGc1YWYzR1RPRG0xR3RrdlpCdm1RQXJSekY4RzI2eDBFMTZzVkFfZUhKTGdpemtRSFhXb0dJTGc4WHNaRFdEZFMtb3ZuMEdJVTQ4WXE3WUtjWXVEQWpoWlZSblh4d2EwOUlOdW5lRXFyd1FleFAtVXVjWjdUQW5LaDl2NENibFU0d1VrUzVUYkRBTU9DZjczRGdEWFpkVEg2eE4ta25HWmZPVlBZZXlfX3pVUDh4R3Z3N2h6RnRWVWR6c1g5OHBDZ2RkUGt5TVFGbFZhUjJwaGNPX1hRdlo3SHFXVXhzWGxFTWZna3RZODFkQmhDNFB4eFF1ME9KQ3p3Z2VsTkg5dlY5TThUSnJnVnl60gG8AkFVX3lxTE1zRFN4NDh5Xy01X2NMV2FGQkNBX0JBVGdWQUU4SElqLXQ4ZHRIM0JtRXJzTFZPZVpkMnp3Nlp2UWJJdnZCem5MNThNb0ZPTWFvNUFMS1BRWW53UXJNTXh4NklEa1JTLWlVZS1fMnhjVGdKY0dicnMySmpwSnRIMklidzR1TUZCOW16OUpiaGpGZzM2bDM3M3FscWFQS1M2WUpyQ1QyZllmUjB4bUpKYVBZM1lZa2VaTDNxX1FKUFVrdkJkaVA2U0tHUG1GTXlOYUdfQUFrLUU5cHg3RnVvMjhtSzZWdENua1ZKRHVOMHNlQ3c5RnVUY0ptN00tQXZ0eDFRSVNGRDJVcDB4bUtrWmhGcWNYZXM0dEdGdHI0aUhFd0ppNGpiTmhvYmFudm96eXhVYkk5aTlEQnJmT3I?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMivAJBVV95cUxOclI3c2dOQXgzbFFRbjVkRnZCa2o3VmQ1dTJIUjhjMjhCTlRxYnhXTDQ3OGc1YWYzR1RPRG0xR3RrdlpCdm1RQXJSekY4RzI2eDBFMTZzVkFfZUhKTGdpemtRSFhXb0dJTGc4WHNaRFdEZFMtb3ZuMEdJVTQ4WXE3WUtjWXVEQWpoWlZSblh4d2EwOUlOdW5lRXFyd1FleFAtVXVjWjdUQW5LaDl2NENibFU0d1VrUzVUYkRBTU9DZjczRGdEWFpkVEg2eE4ta25HWmZPVlBZZXlfX3pVUDh4R3Z3N2h6RnRWVWR6c1g5OHBDZ2RkUGt5TVFGbFZhUjJwaGNPX1hRdlo3SHFXVXhzWGxFTWZna3RZODFkQmhDNFB4eFF1ME9KQ3p3Z2VsTkg5dlY5TThUSnJnVnl6?oc=5>
 
-### 特朗普：即便油价涨到200美元，打这场仗也值得
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-05-06 23:09
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBkcUNLX2JETmJKbjRVbWgybThYYlFtLTFmWFduUjVEVXMtWTQ4R1ZBVFFweGw3NVBqajVTTW14bTl0QnFYTWRjc3NYWUg?oc=5>
-
-### 美国前助理国务卿冯稼时：特朗普关税政策完全失败
+### 特朗普80岁生日时将在白宫举办拳击赛
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-06 05:46
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRWVyRmxjQXd2QkNITUpEbHpoNEdOODRpN2hQbFJHbl94dXRuZ2wyZXJxY2EtR3VLQWdTQ1pBTTAzLUM1b21ON1Y5Z1VEU1JseWNXcU53LWRveGFQLXEtMU9SMjRsOXRsWFBfQXcwaXpZS05OX0RnMlJTRHFodHJpRWxLWWNndDNZXzRIX0Y1Zzd3TktrWGxIY3JuSWJQNmhKTFRvVDljeGdnQUdtMjI1VnVRaWE2aGF2Vk5wbjJpV0xXUUZiZWtwdGQ1NnJ5SHNP?oc=5>
+- 场馆: chinanews.com.cn
+- 时间: 2026-05-07 11:29
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IbngtUGF1QzlrQUZ4ekJfNEY3YXd6LXR3SGppX2lZN180eno1VXowcWRaaWNiYTdfQkVZY0QxM19peGw0VTY3eHBBSnBHNnYxSjRsX2ZDWnppSVBHNlgxYXczMXZiQkFM?oc=5>
 
-### 特朗普说美将从伊朗获得浓缩铀
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 央广网
-- 时间: 2026-05-07 08:01
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFBOc0ljQkRvNTdXVWxXdGRfWkxMREg2MW8teVZWLTVUTWxHUlFXVGJrblZpNUJWcmQ0VFFTRjA4ZEwzbndKOXdlZ29mbGp1MVVsbnV3Yjd0YllmZ3hyZVNKTHZqQXhuM2RYaUxybC03aVVMRzA?oc=5>
-
-### Oil Prices Drop Below $100 as Trump Fuels Iran Peace Hopes -- Barrons.com
+### 独家专访高瑜：特习会难改中美长期竞争格局– 普通话主页
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-05-07 12:32
-- 链接: <https://news.google.com/rss/articles/CBMinwFBVV95cUxOLVFybDBNSFRnU1JwOFBwc2JNTng0VGtGOU80b1ZiblRLV3pBNkpKQUtYSzgxdC1Wdm1jdzdvbFF4MzFoTlZUbzVWNjIyejV3WmQxLVNyQ2pwOGl5WXpJYjdXRnNqZWRwV2h4OHZxMTgyRmJ4cFJTNnlXdTA0MlZrZjc3bGlvN19hOWctdnNmMC1qSGJSR0laMjJSaU9fMGc?oc=5>
+- 场馆: Radio Free Asia
+- 时间: 2026-05-07 09:07
+- 链接: <https://news.google.com/rss/articles/CBMijgFBVV95cUxOOTRYd1QxU3NCS1dZRFZiN3JHZFFWb3BVdGx2ZVZ0d0locEdrM1A2dWRKWUtrUXZwWUxlMno0RnJreGFNTFJWM09NdlFnbzJwMm4zZlVidUVaczE1VTd2TmhGUlNYY1dMSHkzN1I2REJ0WGl6RVRibUs0UGR6NEU5ZlE1MmdtcjF1aGd4UFF3?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-07 19:13  (7 条)
+
+- **特朗普** | 特朗普：与卢拉的会面进展顺利。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBOUjFlVTBFQWZOZWEydkdBSTY1OGNUbk14SEdGd1JjYThGc2swNTNNZjlLZE9CcUc1aDdrUXZJeG41ekwzbm8tbUFJcw?oc=5>
+- **特朗普** | 特朗普政府正寻求重启“自由计划”，最早可能在本周实施 <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBzcFF2ZlN6ejlLdWpFd1BmQjcyb0NTNFBZOU1BY252bHFKb0ViV0J4REhUalBabnVIamdxNXptYlk2aldTbjloMENvRHg3NmNfNUJhTmdsYzVXVDlDOWR0aA?oc=5>
+- **特朗普** | 特朗普政府解除在公共土地上使用“氰化物炸弹”的禁令。 <https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FSXotMzh4LWlTdkFBdk9lelJSRGtIUkVibzl4Q0lwb3ZzSzFMRk15SUdfWGNyUlhDSFNtc05pWnpRT1EwZkN6OUNnTWpmUFE?oc=5>
+- **特朗普** | 特朗普：若伊朗不同意和平协议，将遭遇“更大规模”的轰炸 <https://news.google.com/rss/articles/CBMiekFVX3lxTE9TQTY4VUVKSDh1Wl92UU5xakJzQ3VxSWEtSnk5X243WnlXb2hsWnVOS3o5dDdaeVo2ZjFGdDNsS2JlUVNCZ2N2UEVhdloxdldvNWVuazI3NS12U24yMFVpdXZ5Wmdjb1d4N3RoQXVJYXpyQkt5aXpweU1R?oc=5>
+- **特朗普** | “特习会”在即 中国出口商：已麻木 无所谓 不抱希望 <https://news.google.com/rss/articles/CBMivAJBVV95cUxOclI3c2dOQXgzbFFRbjVkRnZCa2o3VmQ1dTJIUjhjMjhCTlRxYnhXTDQ3OGc1YWYzR1RPRG0xR3RrdlpCdm1RQXJSekY4RzI2eDBFMTZzVkFfZUhKTGdpemtRSFhXb0dJTGc4WHNaRFdEZFMtb3ZuMEdJVTQ4WXE3WUtjWXVEQWpoWlZSblh4d2EwOUlOdW5lRXFyd1FleFAtVXVjWjdUQW5LaDl2NENibFU0d1VrUzVUYkRBTU9DZjczRGdEWFpkVEg2eE4ta25HWmZPVlBZZXlfX3pVUDh4R3Z3N2h6RnRWVWR6c1g5OHBDZ2RkUGt5TVFGbFZhUjJwaGNPX1hRdlo3SHFXVXhzWGxFTWZna3RZODFkQmhDNFB4eFF1ME9KQ3p3Z2VsTkg5dlY5TThUSnJnVnl6?oc=5>
+- **特朗普** | 特朗普80岁生日时将在白宫举办拳击赛 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IbngtUGF1QzlrQUZ4ekJfNEY3YXd6LXR3SGppX2lZN180eno1VXowcWRaaWNiYTdfQkVZY0QxM19peGw0VTY3eHBBSnBHNnYxSjRsX2ZDWnppSVBHNlgxYXczMXZiQkFM?oc=5>
+- **Trump** | 独家专访高瑜：特习会难改中美长期竞争格局– 普通话主页 <https://news.google.com/rss/articles/CBMijgFBVV95cUxOOTRYd1QxU3NCS1dZRFZiN3JHZFFWb3BVdGx2ZVZ0d0locEdrM1A2dWRKWUtrUXZwWUxlMno0RnJreGFNTFJWM09NdlFnbzJwMm4zZlVidUVaczE1VTd2TmhGUlNYY1dMSHkzN1I2REJ0WGl6RVRibUs0UGR6NEU5ZlE1MmdtcjF1aGd4UFF3?oc=5>
 
 ### 2026-05-07 17:15  (7 条)
 
