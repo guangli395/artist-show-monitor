@@ -1,48 +1,80 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-07 12:27**
-- 本轮扫到 444 条, 新增 **4** 条
+- 最近更新: **2026-05-07 15:12**
+- 本轮扫到 451 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (7 条)
 
-### 特朗普自由计划遭沙特反制紧急叫停
+### 周杰伦北京鸟巢演唱会压轴曲目定为《龙拳》
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_6605859659_m189bd6b4b03301nkme.html>
+
+### 特朗普80岁生日要在白宫举办格斗赛 特朗普公布办格斗赛的八角笼效果图
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: video.sina.com.cn
+- 时间: 2026-05-07 14:17
+- 链接: <https://news.google.com/rss/articles/CBMi4AFBVV95cUxQaEJrU3FiaEZVWTQ3RE5NN24tcW82VUxsVkl2VUhQVmtCOGVYTjYxLWRRWDdoYnlYLTl1dW41clVLMGd2c0lHYXNSR1RuMkhXLW9fbHlUZ2lCbDVsSnpOSHlDS01oSktKWWhxd2xsYVA2eU84YmxIdHBfX2lLVndkSm9oOHVWdFRYMXN4N2MxU0NzOW1yS3g4VkZld0hkY2dwVld5YlYtMHJKaEU5YmVEelE5S0xMcGtTSDNXZ2s2MnVOLTByRGt6TTlkaGplQ20wck1Kd3I5bVdVQ1pqcm1faw?oc=5>
+
+### 重振德国？“特朗普一搅，默茨雄心破灭”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-05-07 11:43
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE85dFVuQU50Q0JnM1E1MGdfV1dneTFQYTdkZGJrZ1dhSjFZWk1CRm9vX2hiX0hyay1Bcm1Ca0QzN29ITFBoQ3ZlMG5XYkJxUktNUjZ3UktvYTZJTnNJZ2tOME9nWk4xemtjS3QybHpjRVp4MWpKWElzag?oc=5>
+- 时间: 2026-05-07 09:32
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE9vMGRIZ1hvdlJ1WFhGTklEUzQ2d3dfdUV4ZDNpakhmdWxsTHhvSHZmYW1aN0tFX3RuOG9OdnZXY3M0SmhHSFpTTm1oYlNNeUhQTFpzWkstRlotd3FQbjBmTk5wenJtbTJTTi12UmZHVkFOZGdp?oc=5>
 
-### 特朗普周四日程
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-07 11:37
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5PVENzUVBmRDZqMXJBcXJiSGZ0SzBIZjNKd3pQY3N5T2lJRDBXT0ZyU25NUnczdWdkdHdrVDdDY3E1bHVLSVZucXBjbw?oc=5>
-
-### 美国前助理国务卿冯稼时：特朗普关税政策完全失败
+### 特朗普有了新绰号
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-06 05:46
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQmdlU0hSaUNKNzM4TUFtNDBIMzExS3NoemQ3cVd0M3FjaWNzOEdmdVJRQjdCVnlSNmxYaWozUU5YaThZaGRvYmgyWnpGZExZX183YjFuN3pJaDJTclBINF8xTVJ6V3VmT1hLc2tuZjFuVGJvT0xpTXJINFJBZEFMbmJCbzRjNDFrZHoxXzhPQ1FWX0ctckJxcnNsNmJrWnVZak5MRElEd2lvS2p5VjNGYXV6VnRkQm01M28tQW16aFdVQ0ZPX0p2SDFCcjE3Z3V1?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-05-06 23:23
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFB2V2swSml2aWFGbldlVUZtVlJzeGJuamRvOU9zd1FFa2N2YnFEQlF3ZVlUSnZSd0g0bGdHUDJpMkZ6SVB2QWRvVFpnc0c?oc=5>
 
-### 【早报】油价大幅跳水！特朗普：美伊“很有可能”达成协议；以军在停火期间突袭贝鲁特
+### 台湾、伊战、AI——特朗普习近平会面谈什么？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-05-06 23:11
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE55a3VrM3Q5bTl4Rm5TeVI0RmtMM1JvNGVxZzdzemlydXN4MjhHci03TjEweWVvd2ltdWhaUV8wSEdrUi1ydUtyUQ?oc=5>
+- 场馆: DW.com
+- 时间: 2026-05-07 11:06
+- 链接: <https://news.google.com/rss/articles/CBMi_wFBVV95cUxQeUplSTl0V3pZQzdsVXBZZ2JwSjkwRkl5ZUlKc1BndTVjbnhEQWUwb2JMZjR2VHFOVThaZzUwTWJJakRiWE1xTUhUZDV1aWg4RmVvako0NUFNWjNyY2lRdF9ISmo0N0hBaGRsSXFDbEJoS0xReHhIdV9QbVkzc0d0UndxLVF6RS00MDJxSjVCeWhqZ1NCcjFmZ0NzSHdpT2JXWjR1TGxGNjlRMl8yTmNUY0ZPa0ktVGZjMnhpcXkwMERUbWVSMUZvRi1mMnV6bTRMQzBEa3F4bUpVdVRQUnEzcVI0WlgtakhWTUhWNmJFMHlIUU1feEJuekZUN3dfa2fSAf8BQVVfeXFMTWNwZ0o3R0dFMmx6RTNubHJDZDRxdDl1bFA4a25LaWlXdHRCS1ZOMmk5bFBYMHBTTFpEVzN5ZWR0N2FUcHBLYUtNRUh4V21qb2JIaWs4aGV1c3psY0J2ZkNOdVdOZTRMM0hnUGNoNWhuNEtnY0J4OFdwVUNaTmJWTUxPel9RVGFuS2RsQ1ZhZ0FuVnh5d1IxWFlJUDYzbjZmS3VWSnpVSlVSVDZiNklsTXd0WTR6elliRkpVMWlvdFF0S3p2TGt3ZEMtSkh0TVpMLUstNTBZMWxhUVk0SnZzYU0xbXhDQXhCM0VmWEhBREJRNzlScEpIUmJtNzFCWHQ0?oc=5>
+
+### 外交部：中美双方就特朗普总统访华保持着沟通
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新京报
+- 时间: 2026-05-07 07:14
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Ja1dUSktNeWw2TXptSHQ4ZWZ6VnhtYnVfUU1XRU9HVWNJVU5BU1NPUGVzYlZNTXg1eW1QZ2hYVy13V0c1aldPNFBpeUo2bE1wNHlld1BHYXd1N0RleHp1RldFTDI?oc=5>
+
+### Trump says dialogue with Iran has been effective and the two sides will reach an agreement
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: news.tvb.com
+- 时间: 2026-05-07 13:17
+- 链接: <https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUEI0djAtZXc1d2hRVmVTemlRWkl6bDhFeXhIenh4YmxQWjlYcHI4aXRPS1ROZi1aX1V4Q1NobFhPMHRVN0ZXaTFiSi1CUnZrQmhKNG9YRGEyS2Rub2R0QmpvcHpEM29kdFJTd3FTWHYteEFEMUF6MnNDQjFEX3lsaG5ucnlFMEN6bjA0bTNnTkhCSXJzUURVNm1vaUVrS01xY2lwSFFlQXJCdDBWelJqeUVoU00tME9aYWFteUJoMTkyOXU2Y2FaOERJbHcySkJyRllPYmNNc0NrdjkyeXdZQjJuQThaN2NYZGo3dE9ZNA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-07 15:12  (7 条)
+
+- **周杰伦** | 周杰伦北京鸟巢演唱会压轴曲目定为《龙拳》 <https://k.sina.com.cn/article_6605859659_m189bd6b4b03301nkme.html>
+- **特朗普** | 特朗普80岁生日要在白宫举办格斗赛 特朗普公布办格斗赛的八角笼效果图 <https://news.google.com/rss/articles/CBMi4AFBVV95cUxQaEJrU3FiaEZVWTQ3RE5NN24tcW82VUxsVkl2VUhQVmtCOGVYTjYxLWRRWDdoYnlYLTl1dW41clVLMGd2c0lHYXNSR1RuMkhXLW9fbHlUZ2lCbDVsSnpOSHlDS01oSktKWWhxd2xsYVA2eU84YmxIdHBfX2lLVndkSm9oOHVWdFRYMXN4N2MxU0NzOW1yS3g4VkZld0hkY2dwVld5YlYtMHJKaEU5YmVEelE5S0xMcGtTSDNXZ2s2MnVOLTByRGt6TTlkaGplQ20wck1Kd3I5bVdVQ1pqcm1faw?oc=5>
+- **特朗普** | 重振德国？“特朗普一搅，默茨雄心破灭” <https://news.google.com/rss/articles/CBMidEFVX3lxTE9vMGRIZ1hvdlJ1WFhGTklEUzQ2d3dfdUV4ZDNpakhmdWxsTHhvSHZmYW1aN0tFX3RuOG9OdnZXY3M0SmhHSFpTTm1oYlNNeUhQTFpzWkstRlotd3FQbjBmTk5wenJtbTJTTi12UmZHVkFOZGdp?oc=5>
+- **特朗普** | 特朗普有了新绰号 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFB2V2swSml2aWFGbldlVUZtVlJzeGJuamRvOU9zd1FFa2N2YnFEQlF3ZVlUSnZSd0g0bGdHUDJpMkZ6SVB2QWRvVFpnc0c?oc=5>
+- **特朗普** | 台湾、伊战、AI——特朗普习近平会面谈什么？ <https://news.google.com/rss/articles/CBMi_wFBVV95cUxQeUplSTl0V3pZQzdsVXBZZ2JwSjkwRkl5ZUlKc1BndTVjbnhEQWUwb2JMZjR2VHFOVThaZzUwTWJJakRiWE1xTUhUZDV1aWg4RmVvako0NUFNWjNyY2lRdF9ISmo0N0hBaGRsSXFDbEJoS0xReHhIdV9QbVkzc0d0UndxLVF6RS00MDJxSjVCeWhqZ1NCcjFmZ0NzSHdpT2JXWjR1TGxGNjlRMl8yTmNUY0ZPa0ktVGZjMnhpcXkwMERUbWVSMUZvRi1mMnV6bTRMQzBEa3F4bUpVdVRQUnEzcVI0WlgtakhWTUhWNmJFMHlIUU1feEJuekZUN3dfa2fSAf8BQVVfeXFMTWNwZ0o3R0dFMmx6RTNubHJDZDRxdDl1bFA4a25LaWlXdHRCS1ZOMmk5bFBYMHBTTFpEVzN5ZWR0N2FUcHBLYUtNRUh4V21qb2JIaWs4aGV1c3psY0J2ZkNOdVdOZTRMM0hnUGNoNWhuNEtnY0J4OFdwVUNaTmJWTUxPel9RVGFuS2RsQ1ZhZ0FuVnh5d1IxWFlJUDYzbjZmS3VWSnpVSlVSVDZiNklsTXd0WTR6elliRkpVMWlvdFF0S3p2TGt3ZEMtSkh0TVpMLUstNTBZMWxhUVk0SnZzYU0xbXhDQXhCM0VmWEhBREJRNzlScEpIUmJtNzFCWHQ0?oc=5>
+- **特朗普** | 外交部：中美双方就特朗普总统访华保持着沟通 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Ja1dUSktNeWw2TXptSHQ4ZWZ6VnhtYnVfUU1XRU9HVWNJVU5BU1NPUGVzYlZNTXg1eW1QZ2hYVy13V0c1aldPNFBpeUo2bE1wNHlld1BHYXd1N0RleHp1RldFTDI?oc=5>
+- **Trump** | Trump says dialogue with Iran has been effective and the two sides will reach an agreement <https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUEI0djAtZXc1d2hRVmVTemlRWkl6bDhFeXhIenh4YmxQWjlYcHI4aXRPS1ROZi1aX1V4Q1NobFhPMHRVN0ZXaTFiSi1CUnZrQmhKNG9YRGEyS2Rub2R0QmpvcHpEM29kdFJTd3FTWHYteEFEMUF6MnNDQjFEX3lsaG5ucnlFMEN6bjA0bTNnTkhCSXJzUURVNm1vaUVrS01xY2lwSFFlQXJCdDBWelJqeUVoU00tME9aYWFteUJoMTkyOXU2Y2FaOERJbHcySkJyRllPYmNNc0NrdjkyeXdZQjJuQThaN2NYZGo3dE9ZNA?oc=5>
 
 ### 2026-05-07 12:27  (4 条)
 
