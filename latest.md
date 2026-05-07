@@ -1,43 +1,77 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-07 02:24**
-- 本轮扫到 409 条, 新增 **8** 条
+- 最近更新: **2026-05-07 05:45**
+- 本轮扫到 422 条, 新增 **13** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (13 条)
 
-### 新华社消息丨特朗普称美伊“很有可能”达成协议
+### 王一博连续2年献唱五四主题曲
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5952915720_v162d2490806703v4mw.html>
+
+### 王一博连续两年献唱五四主题曲，四大硬核点获官方认可
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923551_m1d5ae175f03301jlk8.html>
+
+### 周杰伦深圳演唱会粉丝应援引热议
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301beam.html>
+
+### 美全力以赴赶在7月4日前改好卡塔尔送的特朗普专机
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-05-07 02:18
-- 链接: <https://news.google.com/rss/articles/CBMid0FVX3lxTFBkdTYwMEJvT09Lbmc1SXpEa2Z4MnlhM0FqUHFPRVdPOVZMUUdyYkhQZzAzQWNqNjdPcEx3Rk5xdjd1YVVraVRyR3NEbklTMWRvRDNWYWVDbC1IZzc0TTRtQktFbnVPMWp1bDZlOU5EaEFvX1Jod1dB?oc=5>
+- 场馆: guancha.cn
+- 时间: 2026-05-07 05:31
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE41TVFzQ291bmtRaHhyM28xd2RoZ0hXWkcwcE91SGVacjBTa0xaZm1pZUtnVk1kUjlpamZLd1N1NFFUVTE3XzUxakxuY01lM2xjdUJTOTJJRGNtV0ZFaDJXWnVPdDY4Um9sLXc?oc=5>
 
-### 特朗普：华盛顿特区的犯罪率已降至30年来的最低点！
+### 特朗普说美将从伊朗获得浓缩铀
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-07 01:23
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9VYWtQU1JVREczNFQtM1RrdHdsRUQzdV9oZ04zOUVaUHZ4YzhoRlJ3Qjd1OUJHRWs0MzVRRFdyZDV0cFkwaTdHWUZxYw?oc=5>
+- 时间: 2026-05-07 04:47
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5NNW4wRHRBbjJCMm1wWGllWDNHOFJCX2FvZXpramkxejJOMVNETXhlOEFWbEMtOWRhOHhOTnZWbHdCNzBpX0pDY3ozUQ?oc=5>
 
-### 昨夜全线爆发，特朗普最新发声
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-05-07 00:38
-- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE95UFpoNU5ydzBQWkxvNldqeDRvSERZb3ZEUk1IcDRHUGxaOG9YUDJHNmpQMmlsTXNfNGhaNzlvUUNzeU5SSGEtckRfRDFraHJv?oc=5>
-
-### “美伊接近达成停战谅解备忘录，特朗普为脱困正改口”
+### 海湾盟国愤怒并关闭领空特朗普自由计划迅速失败
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-05-06 12:37
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE56TjhvTEt6LS1IVDZKR2xfZVFRdU1jUVNHNjR1MGtTT1V1Yks2dHBUbmlqU0J5UWgtWm42bTRwY05IeEtjX1VqTG5MZ0t0QlJDVlFBa01WbWszQ0xXR2NTTUFaaUl1Zjg4U0E?oc=5>
+- 场馆: guancha.cn
+- 时间: 2026-05-07 04:50
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5hdnpYQ0FnZFpXQzJialNGOEdHd19hc3BIeXM2LUNHREpwOE1EeEFlS3c1WGpnUDBGMTBFMWhEUHVia2syamhWeFJRRFRMR1pnQkgtekNWVlRidkp3NkIyYS11R3VoSnkyYUE?oc=5>
+
+### 特朗普称美伊“很有可能”达成协议
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-05-06 22:10
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE41WUR0X1NuZ0dqZ1BDZkVoQzc0Z0ZnazRGLTRFWDBob2xfV0xKX3hYeG5xdXVEajFsV0p5UVVIUXJWem5lbXl5UldUV2c2anM2NlhELWowbUdZX2hfZkpuZFY4RTJCcEZ5R2xfaFktSUNaaV9ldWQ4SlpjekJ3bzA?oc=5>
+
+### 利好突袭，史诗级暴涨！特朗普重磅发声
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网财经
+- 时间: 2026-05-06 23:27
+- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE51eURxTEZENXBVdm4zY0Y2V01vcGlSRVY0RmF1ekQwVDRmbERUeGxzSUxoZFgzOHBfY1ZKUTJpX3gtd3JQQmtiUkFKZ0dxUzBT?oc=5>
+
+### 特朗普说特纳是广播史上最伟大的人 缅怀CNN创始人
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-05-07 02:41
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBndUFMRFN5Umw3U1ZfVDhzTE1mZGxKMEU5YzIzWHVEYl9LZ0RVTmtETUpUSU5VNVJicjBJRE9FVUhicHFpRzB3elNkbDlweVVvWjlNWk5hS0ZkdnhfVC1Nd0FXZThxQXpOdjdsSnZWMlo?oc=5>
 
 ### 美国前助理国务卿冯稼时：特朗普关税政策完全失败
 
@@ -45,36 +79,52 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-05-06 05:46
-- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxPZEdsVnRoX2VnYzlTRnMtNGtTcnhPRFNNNTZSa1QwNjRPS2Z0dXhGYW9OajZvQUN4MWMzaU5JX25DMlROZ2FTQ0poUzFDaVljek9SamVpbjB3ekRST0ZrM0IxWXRJWWlsZWR5T2NaVE5PMU9xZEZKV1JBWWI3OTU0aUI1MUpaZ0VZdjIzMW1rYU1NcmVBU0NEZGhmSGRZV3VZOVJKSWpLS1JpczdjRFdRNzVmVWY3ak1TOFhidGpmUjVkRC1kVlU5aDZvdEF2NWs?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQzcwMjVqUDBDVlFiaXgzMm5lR2F5U3Q1YU5BdjdjME9BdjNmVFJjLURaODJGVVNCNTFyX0xoSkFsMHFNYkdZbllRWFpzNWRtZHZnS3F5d05tT3pWMm1JSFZOQTRXbmVZM2FYaWZaV0MwTUhNMFRYamZqZUJPOFhEY1kxdjFCUVV4dnBBdlpqRHJIWlZuSzVIZkdieTFoU0J6OTJJX2pwNV85eWhtbDNHM3dGM19nVzJJWDVGclhQZk1kWXpta1lHcFpMdVZ0MThi?oc=5>
 
-### 特朗普预估美伊一周达成协议，伊朗称尚未回应美国14点提议-腾讯新闻
+### 真会玩，特朗普也来做中转了，卷到没边了。
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: QQ News
-- 时间: 2026-05-06 23:05
-- 链接: <https://news.google.com/rss/articles/CBMiV0FVX3lxTE40UzhMTlA2bFM0V080bVAxN2pvZ01JNzRUaVdPXzFTSlN0UVF2WFJwNlJmRXd5bV9XWmNtZUZiMkdEZGwxSnVHVkt5a0pOZ2dGUDBHdFJIcw?oc=5>
+- 场馆: 电子工程专辑
+- 时间: 2026-05-06 10:32
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE9rMFNrZzBqS1N3eDN0QUtVSjZtOFotcFJnUFA4cDhVd3pxOVFiZ0xGcmM3djgtLWRiUVl3QTNxdWJ3Zk1kb1BsVVN0X000dEhGdWtZ?oc=5>
 
-### 特朗普访华在即 美中会谈聚焦三大敏感议题
+### 特朗普政府如何变身激进投资者
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-05-06 22:34
-- 链接: <https://news.google.com/rss/articles/CBMikwFBVV95cUxNaEF2UDlqLUpKdmQ0b1pnX2VmM2M5VlFCY3lrUEEzTjNRcm1JSktLRXZ2VWdWVXVVdlpKWGxsS2JfMG9MZUk2cmJPSjJEbkZEUnRmenNqYUhzU2F3aEFsaXVuWEZpdjZUV09QR3h2TjBtMHBiamRKRnBtcUViNWRrNXA3SW1oYnRKeWY5T05Da0JqYUXSAZYBQVVfeXFMTmlhRm5iQzIwSExnUnJkUl9lX1R2b0ZUZG10Zmc2Vk9iZldPenprTFFPUnJEemlwS09EVHN4eVlrbEppN0UzTUJ5MGd2a3NISkVra1Jhb0szUWlkV05KMDVlOUxnN0JDMThySlgzdXF1akJqM3haRzM5WS1KbUVVX2xReWdsVHVvd05hT2JmUkZsOWNJLUtn?oc=5>
+- 场馆: 华尔街日报中文网
+- 时间: 2026-05-07 04:44
+- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE1OV0NpRDV1NW9oYTRoSFdJMDQxZWhLQ2hHREtoOUVaV0Iwa29QMTZoNUFEd1c3SVRQVzhYT3JUXzdtTUl3cGlWLTNmUENjRGhYTnFYakIxZHZyc2xCMkktdDdqV25wNVlZTFZsTVY0d0F5VGhBc1diSk9iNTZidw?oc=5>
 
-### 特朗普：美伊“很有可能”达成协议 伊朗：不允许美不付出代价就脱身
+### 伊朗战争：美伊可能达成终战协议，油价股市作出快速反应
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-05-07 01:04
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kQ1RmVHlCWExvZmJWSVBOMnRjSnJSY0I1cU1ZcEJDcDJpSGs1ZkVzbUpWZ2JXbGFNV3dqVlZTeUxaUkZlZzg2ZHVWVmE0VXRBZklpMmp2UG02THpEeFJ6Sg?oc=5>
+- 场馆: BBC
+- 时间: 2026-05-07 04:36
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5CLTc1cEZ0c2l0Q0JUN24xaHdaX05wczVYMVNLc2R6blJfMFdZbGpfZ3pFczQtYTl0WTI3ekxfZ1VpU2dMbXB6UUtKVW44TjNaeDYxSVlmUFZyaU9SQ1VOdDY5SUZNUdIBa0FVX3lxTFBoQlFiU0hrNXFjck1LaU15aUZIZURSWWc1SUIzeWFCNnJLYTJnbHJBVnlIc2k1TFRoTko2M1hqcU1EVEpuSi1pVXBUVDlMYzFYYjRPUjBDOUxOYndtUnZ4bUdHV2NCSkhaZndJ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-07 05:45  (13 条)
+
+- **王一博** | 王一博连续2年献唱五四主题曲 <https://k.sina.com.cn/article_5952915720_v162d2490806703v4mw.html>
+- **王一博** | 王一博连续两年献唱五四主题曲，四大硬核点获官方认可 <https://k.sina.com.cn/article_7879923551_m1d5ae175f03301jlk8.html>
+- **周杰伦** | 周杰伦深圳演唱会粉丝应援引热议 <https://k.sina.com.cn/article_7879924009_m1d5ae192903301beam.html>
+- **特朗普** | 美全力以赴赶在7月4日前改好卡塔尔送的特朗普专机 <https://news.google.com/rss/articles/CBMiakFVX3lxTE41TVFzQ291bmtRaHhyM28xd2RoZ0hXWkcwcE91SGVacjBTa0xaZm1pZUtnVk1kUjlpamZLd1N1NFFUVTE3XzUxakxuY01lM2xjdUJTOTJJRGNtV0ZFaDJXWnVPdDY4Um9sLXc?oc=5>
+- **特朗普** | 特朗普说美将从伊朗获得浓缩铀 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5NNW4wRHRBbjJCMm1wWGllWDNHOFJCX2FvZXpramkxejJOMVNETXhlOEFWbEMtOWRhOHhOTnZWbHdCNzBpX0pDY3ozUQ?oc=5>
+- **特朗普** | 海湾盟国愤怒并关闭领空特朗普自由计划迅速失败 <https://news.google.com/rss/articles/CBMiakFVX3lxTE5hdnpYQ0FnZFpXQzJialNGOEdHd19hc3BIeXM2LUNHREpwOE1EeEFlS3c1WGpnUDBGMTBFMWhEUHVia2syamhWeFJRRFRMR1pnQkgtekNWVlRidkp3NkIyYS11R3VoSnkyYUE?oc=5>
+- **特朗普** | 特朗普称美伊“很有可能”达成协议 <https://news.google.com/rss/articles/CBMif0FVX3lxTE41WUR0X1NuZ0dqZ1BDZkVoQzc0Z0ZnazRGLTRFWDBob2xfV0xKX3hYeG5xdXVEajFsV0p5UVVIUXJWem5lbXl5UldUV2c2anM2NlhELWowbUdZX2hfZkpuZFY4RTJCcEZ5R2xfaFktSUNaaV9ldWQ4SlpjekJ3bzA?oc=5>
+- **特朗普** | 利好突袭，史诗级暴涨！特朗普重磅发声 <https://news.google.com/rss/articles/CBMiUEFVX3lxTE51eURxTEZENXBVdm4zY0Y2V01vcGlSRVY0RmF1ekQwVDRmbERUeGxzSUxoZFgzOHBfY1ZKUTJpX3gtd3JQQmtiUkFKZ0dxUzBT?oc=5>
+- **特朗普** | 特朗普说特纳是广播史上最伟大的人 缅怀CNN创始人 <https://news.google.com/rss/articles/CBMicEFVX3lxTFBndUFMRFN5Umw3U1ZfVDhzTE1mZGxKMEU5YzIzWHVEYl9LZ0RVTmtETUpUSU5VNVJicjBJRE9FVUhicHFpRzB3elNkbDlweVVvWjlNWk5hS0ZkdnhfVC1Nd0FXZThxQXpOdjdsSnZWMlo?oc=5>
+- **特朗普** | 美国前助理国务卿冯稼时：特朗普关税政策完全失败 <https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQzcwMjVqUDBDVlFiaXgzMm5lR2F5U3Q1YU5BdjdjME9BdjNmVFJjLURaODJGVVNCNTFyX0xoSkFsMHFNYkdZbllRWFpzNWRtZHZnS3F5d05tT3pWMm1JSFZOQTRXbmVZM2FYaWZaV0MwTUhNMFRYamZqZUJPOFhEY1kxdjFCUVV4dnBBdlpqRHJIWlZuSzVIZkdieTFoU0J6OTJJX2pwNV85eWhtbDNHM3dGM19nVzJJWDVGclhQZk1kWXpta1lHcFpMdVZ0MThi?oc=5>
+- **Trump** | 真会玩，特朗普也来做中转了，卷到没边了。 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE9rMFNrZzBqS1N3eDN0QUtVSjZtOFotcFJnUFA4cDhVd3pxOVFiZ0xGcmM3djgtLWRiUVl3QTNxdWJ3Zk1kb1BsVVN0X000dEhGdWtZ?oc=5>
+- **Trump** | 特朗普政府如何变身激进投资者 <https://news.google.com/rss/articles/CBMifkFVX3lxTE1OV0NpRDV1NW9oYTRoSFdJMDQxZWhLQ2hHREtoOUVaV0Iwa29QMTZoNUFEd1c3SVRQVzhYT3JUXzdtTUl3cGlWLTNmUENjRGhYTnFYakIxZHZyc2xCMkktdDdqV25wNVlZTFZsTVY0d0F5VGhBc1diSk9iNTZidw?oc=5>
+- **Trump** | 伊朗战争：美伊可能达成终战协议，油价股市作出快速反应 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5CLTc1cEZ0c2l0Q0JUN24xaHdaX05wczVYMVNLc2R6blJfMFdZbGpfZ3pFczQtYTl0WTI3ekxfZ1VpU2dMbXB6UUtKVW44TjNaeDYxSVlmUFZyaU9SQ1VOdDY5SUZNUdIBa0FVX3lxTFBoQlFiU0hrNXFjck1LaU15aUZIZURSWWc1SUIzeWFCNnJLYTJnbHJBVnlIc2k1TFRoTko2M1hqcU1EVEpuSi1pVXBUVDlMYzFYYjRPUjBDOUxOYndtUnZ4bUdHV2NCSkhaZndJ?oc=5>
 
 ### 2026-05-07 02:24  (8 条)
 
