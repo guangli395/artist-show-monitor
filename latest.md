@@ -1,56 +1,82 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-07 22:56**
-- 本轮扫到 475 条, 新增 **5** 条
+- 最近更新: **2026-05-07 23:51**
+- 本轮扫到 482 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (7 条)
 
-### 特朗普会见巴西总统卢拉讨论关税等问题
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-07 22:03
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE90N2dTQy1zNjBUQ2VhOEtoMTVRVnNkWkV2Q1ZPZG41azloMzR4a3VDTldxaWdmY1Q1YlhGNGliVzBvbTR0eURIdk9vbw?oc=5>
-
-### 特朗普对美国广播公司新闻表示：“停火正在推进，目前已经生效。”
+### 巴西总统卢拉赴美会晤特朗普，近期多次批评后者干涉他国内政
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-07 22:25
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE92N1ZzMVlVVkF1bFcyQl9nUjV3b1BBMDNmaXNXYVlVNHN2SklyLXN2Zk9KMjI5TUhpMTRiV1d0SHEtQ1FuUUxpcVZfZw?oc=5>
+- 时间: 2026-05-07 19:32
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1FWENwX1NVRmVBN0NvbjBYQzRGQ1UyZVBjVks3UmFDaGhqTFFfRHFNRFR6akI2d0ppQVpZaVRZQU9QdTJCam54aXFSLUF0NnY3NmpIa1ZWV00xWFhvazVfUW42R2dBTk5RR1dRcXA2Z3hHMFdwVGM1Xw?oc=5>
 
-### 美媒：特朗普在结束伊朗战争问题上态度急转
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-05-06 19:23
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5seDFBX1lkM1lOVmd4R0VIWjV3d1RXX1F3djZDcFh1bnByQU1CdTktdFJIOXh6bVkza3JvMjlMMk5jNzFRSE1RTDMxM1o?oc=5>
-
-### 美伊再交火，特朗普回应
+### 美官员：特朗普将在白宫接待巴西总统卢拉，预计讨论经济和安全问题
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-05-07 22:47
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9yZnJzeGJtcmpGOHV4TTllTE83bVlyTXlPVkNfa0xBNG1WbzFWV2FoOE11dnBCOXU4YzQ5akNRalhYRnBjNDlZbDRXWFE?oc=5>
+- 场馆: 环球网
+- 时间: 2026-05-07 07:53
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NN2RBczBnTHJpOW5qVmxtYzFJWWdrdmZxeGdqVHNMMWdEUlpCbGx5OS1iT181MGlwUko1eTJUbGwydFNDbl9aZkFjZTUzSFhDdHdYNktYNW4?oc=5>
 
-### Trump says dialogue with Iran has been effective and the two sides will reach an agreement
+### 美法院：特朗普政府的全球进口关税缺乏法律依据
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-05-07 22:48
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtOUM1UGZLdVRYdXhSNjNXLXVodm55MkhMa2hpUFJzNGh5M3JOZ1JxSWZzX1lsSGtwVUJzcC14cnlvMDlmVkJFR0ZMZ3N1Y252TVJ3QmNqQnZXUG5KU2Q3cg?oc=5>
+
+### 美国打击伊朗军事设施 特朗普称之为“轻轻一碰”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-07 23:06
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9JY2RVbzJwNmxLd1dhN3dwemRTaDdZcTZKaUluQUxVNTFvbmtXREpmTEVDTGljeWluUG5wMFFGRHd6T2xJRmN4SjV4Yw?oc=5>
+
+### 这一次，美伊会达成协议吗？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-07 23:20
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1MVnBYc05IZ1E2bEtla2hpQ21lWmEzdGY5eDBmUF9NWl8wZ3drZkNPVXNLUlJSLW5mZ3JZMlA4RXpNZHd3SFpvRTdXdWRKdWEzQXRZT1ZMTDNwZm9XZlA1M1pjanpHbDliaXpiSjRmUFA0Vmh4c19vMA?oc=5>
+
+### 学者：特朗普访华若成行 中东和涉台表述受关注
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 财新
+- 时间: 2026-05-07 23:44
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE55VVo0Z0ZsVW5JcEwyRWpZSXNiRlA0Z19tcGY3UmZ1MkFoWjRMVzZRUmZVcWRmYVJVZEdFUkFnYTlnLTVlVVVlOXdPTHV1QWd0djFxOU9PdGxjYzFaZ3dZWXhzWFR0ZmNiQkE?oc=5>
+
+### 中美峰会：管理竞争，而非解决分歧
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: news.tvb.com
-- 时间: 2026-05-07 13:17
-- 链接: <https://news.google.com/rss/articles/CBMi8gFBVV95cUxQblRHWXB0VE5TOGdKMG5FdXI1VUNpQk16NHhmWVNNZnhBcUYwT3ROVFhjdjB2U1Z1N1Y4Yk45QThqN3dycEtwa3QyOElIOFFZYkJ2MzVEZDJmTGM0MzVzTGhyMmh4emhZeW5WTGJiN2loSHhNc3kxSXRuNWUxRnpfaXFVbGtKMS1Fcjh6dnhBQkVzV2ptTExjTmgtT3VVTHRFemVCMWZOdkJjSnEzZW1HMlJwbnVuLTlNWF9Va2JWZ3FYWEJtclc1M044dDVWdkhXZVpEMjVXRU16V1pIRGhrYzVIZUpmUXAwb0piVzFFVHN1dw?oc=5>
+- 场馆: The Business Times
+- 时间: 2026-05-07 23:00
+- 链接: <https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRldDTlFWMEx6ZFlteThJaXhmSTVibWJPZlBSbFFfWmEzaTdYTmd0VHRRWUhjcUhYVUFQekxjSkswUVM3V1UzcmM3RWRRbG5HTWZLSWlQaW9JOE5tT0UzZzMyWXVIcFc1bVU5dEEtVnAwQVBWUjhTdjBNSHoxX0dCcG0taWttSC14NVY5VUtZNm1Sdzl2RUdWOGJhVFBWTjJOUzlSaFJ0X0VDQWs?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-07 23:51  (7 条)
+
+- **特朗普** | 巴西总统卢拉赴美会晤特朗普，近期多次批评后者干涉他国内政 <https://news.google.com/rss/articles/CBMieEFVX3lxTE1FWENwX1NVRmVBN0NvbjBYQzRGQ1UyZVBjVks3UmFDaGhqTFFfRHFNRFR6akI2d0ppQVpZaVRZQU9QdTJCam54aXFSLUF0NnY3NmpIa1ZWV00xWFhvazVfUW42R2dBTk5RR1dRcXA2Z3hHMFdwVGM1Xw?oc=5>
+- **特朗普** | 美官员：特朗普将在白宫接待巴西总统卢拉，预计讨论经济和安全问题 <https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NN2RBczBnTHJpOW5qVmxtYzFJWWdrdmZxeGdqVHNMMWdEUlpCbGx5OS1iT181MGlwUko1eTJUbGwydFNDbl9aZkFjZTUzSFhDdHdYNktYNW4?oc=5>
+- **特朗普** | 美法院：特朗普政府的全球进口关税缺乏法律依据 <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtOUM1UGZLdVRYdXhSNjNXLXVodm55MkhMa2hpUFJzNGh5M3JOZ1JxSWZzX1lsSGtwVUJzcC14cnlvMDlmVkJFR0ZMZ3N1Y252TVJ3QmNqQnZXUG5KU2Q3cg?oc=5>
+- **特朗普** | 美国打击伊朗军事设施 特朗普称之为“轻轻一碰” <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9JY2RVbzJwNmxLd1dhN3dwemRTaDdZcTZKaUluQUxVNTFvbmtXREpmTEVDTGljeWluUG5wMFFGRHd6T2xJRmN4SjV4Yw?oc=5>
+- **特朗普** | 这一次，美伊会达成协议吗？ <https://news.google.com/rss/articles/CBMieEFVX3lxTE1MVnBYc05IZ1E2bEtla2hpQ21lWmEzdGY5eDBmUF9NWl8wZ3drZkNPVXNLUlJSLW5mZ3JZMlA4RXpNZHd3SFpvRTdXdWRKdWEzQXRZT1ZMTDNwZm9XZlA1M1pjanpHbDliaXpiSjRmUFA0Vmh4c19vMA?oc=5>
+- **特朗普** | 学者：特朗普访华若成行 中东和涉台表述受关注 <https://news.google.com/rss/articles/CBMiakFVX3lxTE55VVo0Z0ZsVW5JcEwyRWpZSXNiRlA0Z19tcGY3UmZ1MkFoWjRMVzZRUmZVcWRmYVJVZEdFUkFnYTlnLTVlVVVlOXdPTHV1QWd0djFxOU9PdGxjYzFaZ3dZWXhzWFR0ZmNiQkE?oc=5>
+- **Trump** | 中美峰会：管理竞争，而非解决分歧 <https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRldDTlFWMEx6ZFlteThJaXhmSTVibWJPZlBSbFFfWmEzaTdYTmd0VHRRWUhjcUhYVUFQekxjSkswUVM3V1UzcmM3RWRRbG5HTWZLSWlQaW9JOE5tT0UzZzMyWXVIcFc1bVU5dEEtVnAwQVBWUjhTdjBNSHoxX0dCcG0taWttSC14NVY5VUtZNm1Sdzl2RUdWOGJhVFBWTjJOUzlSaFJ0X0VDQWs?oc=5>
 
 ### 2026-05-07 22:56  (5 条)
 
