@@ -1,102 +1,82 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-07 08:26**
-- 本轮扫到 433 条, 新增 **11** 条
+- 最近更新: **2026-05-07 10:40**
+- 本轮扫到 440 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (11 条)
+## 本轮新发现 (7 条)
 
-### 周杰伦早期演唱会15大神级现场，这场面估计再也看不到了吧
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7480851854_m1bde4bd8e001018z2k.html>
-
-### 外交部：中美双方就特朗普总统访华保持着沟通
+### “特朗普没哄好，沙特关闭领空致‘自由计划’夭折”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中国青年网
-- 时间: 2026-05-07 08:05
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqUVE2cFl6d2VZOGxJRHBPeXdpdVlsemJHRXpZQXN2bUljLWhzZ3VJSXN1ODdsZzhwQ1BTSFFscWRDSFJpQkt0ZUxfQ0ZpMkdDQVpWYk1seVdRME1ZeUNUQmd4ODFFOHc?oc=5>
+- 场馆: 观察者
+- 时间: 2026-05-07 06:43
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBDMWk5YlFuOTdsYlQxQks3emtKZi1zZGRpaWdkWVl6T29xNVNkYXN1NzE3SkNyODktOU5saFZUNzliY1otY3J4Yy00WlBLckU1a0FtOXFpU2w2SFhRXzNnS1ZBeTg2dlQwbWc?oc=5>
 
-### 外交部：中美双方就特朗普总统访华保持着沟通
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-05-07 06:48
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBRcGNWTGp2dEkxS0phRTRMb3N6eHgwblZGWlI2VGdFUGVqQllVY3BRaldLY1c0Q3Y3UTIxRC1RMGVKMmdfclVIRWVHcmw?oc=5>
-
-### “特朗普急着结束战争，不然得找中国出面了”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: guancha.cn
-- 时间: 2026-05-07 07:18
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE41cUtjenFZaW9manAxb3N2bmYxWmc1LWIydVVQTW4tWFpwOW0xMDg2VnRGLWRPbXFzX1pZUjYyR1BrTFVXOTZBVm5iLW1qdGN1VVd6OXVWWE9NcDZtbnRYTGxZTUZGcU9ZQXc?oc=5>
-
-### 特朗普称伊朗同意不拥有核武器伊方暂无回应_新闻_新浪新闻
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-07 08:14
-- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTFBlMm5oY0swS29melluN3BKT3VlMUlEZ0lqOUxRN25PZEdWQURjUWg5QlMySnZoeXVVS2pxWU9TbGRZcmZ5eWpvY1dJZFd0WGltbm82a3VUck1SYjRVVFNVX3dGZVJXZDFSTU1TMWhjcUtPTXNtclpQb1UxbnhfZw?oc=5>
-
-### CNN创始人去世，曾骂该台“假新闻”的特朗普罕见悼念：赞其“行业最伟大”，却补刀“新东家毁了CNN”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-07 08:07
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE5qNjVCbWVmU3o4bEg2T1dMVGZzRFl4dzl6TEpaMERLTWtiRVZ6eFlRRm1ERGVqMGJ1emJybjJDOXJjN0VjSUdJRW9icnc3V29lR3FwZkdNRTh5a3ROVUdCamUxR1B0Sy1zWVN6M1F1QTBseXFlMUE?oc=5>
-
-### 不得不买？特朗普承认常买中国货 贸易战攻守逆转
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-05-07 05:30
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBRb3RjYmVDdEtlTDFsMm1VT1FKV3JNNGdyXzZHcXFORlRTS2RlQUIxdHpPcjlxZVJjYU1oekZ3NWZpY0VSdFVBLTFLUFpBaFZwaHVfaklJVXZOYlQzT0EzWXdxT2xpUlN2YkdSaFhNR2U?oc=5>
-
-### 特朗普承认自己曾“不得不”常买中国货
+### 美媒透露：特朗普给了伊朗一周时间签署和平提议
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-05-05 13:02
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE04em1LdDFmaVRzV2U4Rk93bnZzVUh3WEpISlRvQVhxZWUtWDM4RE0xUUhkd0FmcDEtWGRQRmp1ek1TSGtLb012Q2dqa2x2M0VjOFJoRm9nN0MyYVhVVDZpWk9yVnc1blVQM3hvTlBhRkk3R3FZ?oc=5>
+- 时间: 2026-05-07 02:58
+- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxOaUllSVhYemhTNU15N2JNazEwVTFfNmMwLUZkLUlwSzNjZHZfZXdYZklXazBkbVR3bGF0SGlUcVV1MFRiczZ6OFZCV1NzRlpkdnliZU14TWRMZFp5UWlrdEZZYng1SHdBWkFhNG5IRDZEV0JaYk9Yei1DdEtobXh5LU5sUQ?oc=5>
 
-### 特朗普享中国制造红利却对华加征关税！
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华军事
-- 时间: 2026-05-07 06:51
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFA4LUJIa0E5dFRTQXJfcEdBSXp2ZDhtN3hZTnA3amN3NjhwR2VuNkV6djhZUlRFSjA5eVluYU5hbzRCRFFJX2pXRWlPWFg5RXhRTjFYR1hXQmQ4QzRsVHV2dWY5cVhfRUVTb0xtaUJQeWU?oc=5>
-
-### 特朗普再称对美伊达成协议表示乐观
+### “特朗普一搅，默茨雄心破灭”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 央视网
-- 时间: 2026-05-06 22:15
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBaeWR0c1JNVVgyeWN5NkVtM0xaU0xtZjdOMmhwOWFpZTJ1MTZNUVppNEpDeUw0bElEVWRINnBRclVfOWpXUE96RWdMN29rUFYwSXUzeGNVS1JkM1NZYmdYVHl5djVQQVBNeVJ1QWFqSE01WmhDT1pIRQ?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-05-07 06:05
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFByS2EzaFQxMHhOeGo4WVdaYi1aVndpYzN4MThZWWdRRDFZUWNnTTdQcnZXbFEyMXZDdy10cXdXZDZTM0RrM3dOMWZrXzU?oc=5>
 
-### 特朗普将访问一个早已不再仰视美国的中国
+### 美国前助理国务卿冯稼时：特朗普关税政策完全失败
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-06 05:46
+- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxPX2tJc00tb05WOGR3d0xTcTk2S012TU1Ob05Lb1NwdGdVY2ZSWlYxYnp3Sm5ORXJnSF9kSUJ2WFJJcFpaNXAtb0dOamRjOEZteDZGYTY5eFEyNklXbi0yWjI3LXNESURCVmR1R0sxT1Z0QTc0WFpOVnZHZmNpVUZBZzFVQmpRZzVsRjZYaF9CZU9RS2I5U1ZVWk5BcElQVFFzYWpWa1hHNEVxWU9uN0UtRDNpc3Q3UFhyQUNNby00dWJMUEN2Z0diRjZDdTF0T0k?oc=5>
+
+### 外交部：中美双方就特朗普总统访华事保持着沟通；台湾问题是中国核心利益中的核心，是中美关系政治基础中的基础
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 每日经济新闻
+- 时间: 2026-05-07 07:06
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBuVXB1T3ZCYjBUanRvWExaRmZ4T1lhbUtuQmJpZW1fWW1waGhFT0pnTDlEM1hzQ3FJNEg4SVJhdEpfMzZLLVEtX1NFZ1pJVUcwSXdNSU5LSDhndzRTYS02djkwUGM0Zw?oc=5>
+
+### 特朗普80岁生日要在白宫办格斗赛 八角笼效果图曝光
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新京报
+- 时间: 2026-05-07 08:55
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnYTM3bUhxZGlsSDRuUGVmYjNHV2hrTU9Wc1hMeDJJSkRWaVpaYnBBd0NNVTZERFJKcWktMTZsMkNkdW42SEZaS2tLamxvZzF6dWgyTTFLOFVBRndtZm5XazloN2M?oc=5>
+
+### US President Donald Trump warns Iran of ‘much bigger’ bombing if it doesn’t agree to peace deal
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-05-07 02:41
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE1FOWpRQW51MmNzU3FGQVgtS2sxSTZvLWpPS2hxMkhMV1FQdndaaHhTa0RMMmo0d0o1LWN6UzhKWk9iNXc3aEN2NE5XV1VCQVFwaHlHazhCM1hRSjdObl9xY281UC1EVmNpSGJXRUdUQQ?oc=5>
+- 场馆: TMGM
+- 时间: 2026-05-07 00:46
+- 链接: <https://news.google.com/rss/articles/CBMi-gFBVV95cUxNUzdzQnhreUhablZ2V0g3SllkTmx2MFFhV2N4TFM4ZDNRLXRZLVVnTWhVbU41RnBENndGeTlrNkxvWVhRblFSdmc0MUJjNXg3cjFLVkpueDFoc0N4RmJ0dDFpcm5lRTRreHptTzFtYjA2YWVFaVBsWVhqNWdpNG8wYXNuQThaRXpwdUlPVjlnY2NFUXJlM2l1V1JOWWFlTElPTGVaV2hGbjUyaUNCY3A2VG9BUlBHcnhQY0k4Q2RURnV5WldKbGdYOVZxZWNMTzNOY2VsWEhWMnRKWGNHQ20xRkhoZ0hoN0Q0WVNteHJ1RDhPX3llUzFDZGNB?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-07 10:40  (7 条)
+
+- **特朗普** | “特朗普没哄好，沙特关闭领空致‘自由计划’夭折” <https://news.google.com/rss/articles/CBMiakFVX3lxTFBDMWk5YlFuOTdsYlQxQks3emtKZi1zZGRpaWdkWVl6T29xNVNkYXN1NzE3SkNyODktOU5saFZUNzliY1otY3J4Yy00WlBLckU1a0FtOXFpU2w2SFhRXzNnS1ZBeTg2dlQwbWc?oc=5>
+- **特朗普** | 美媒透露：特朗普给了伊朗一周时间签署和平提议 <https://news.google.com/rss/articles/CBMigwFBVV95cUxOaUllSVhYemhTNU15N2JNazEwVTFfNmMwLUZkLUlwSzNjZHZfZXdYZklXazBkbVR3bGF0SGlUcVV1MFRiczZ6OFZCV1NzRlpkdnliZU14TWRMZFp5UWlrdEZZYng1SHdBWkFhNG5IRDZEV0JaYk9Yei1DdEtobXh5LU5sUQ?oc=5>
+- **特朗普** | “特朗普一搅，默茨雄心破灭” <https://news.google.com/rss/articles/CBMiTEFVX3lxTFByS2EzaFQxMHhOeGo4WVdaYi1aVndpYzN4MThZWWdRRDFZUWNnTTdQcnZXbFEyMXZDdy10cXdXZDZTM0RrM3dOMWZrXzU?oc=5>
+- **特朗普** | 美国前助理国务卿冯稼时：特朗普关税政策完全失败 <https://news.google.com/rss/articles/CBMizwFBVV95cUxPX2tJc00tb05WOGR3d0xTcTk2S012TU1Ob05Lb1NwdGdVY2ZSWlYxYnp3Sm5ORXJnSF9kSUJ2WFJJcFpaNXAtb0dOamRjOEZteDZGYTY5eFEyNklXbi0yWjI3LXNESURCVmR1R0sxT1Z0QTc0WFpOVnZHZmNpVUZBZzFVQmpRZzVsRjZYaF9CZU9RS2I5U1ZVWk5BcElQVFFzYWpWa1hHNEVxWU9uN0UtRDNpc3Q3UFhyQUNNby00dWJMUEN2Z0diRjZDdTF0T0k?oc=5>
+- **特朗普** | 外交部：中美双方就特朗普总统访华事保持着沟通；台湾问题是中国核心利益中的核心，是中美关系政治基础中的基础 <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBuVXB1T3ZCYjBUanRvWExaRmZ4T1lhbUtuQmJpZW1fWW1waGhFT0pnTDlEM1hzQ3FJNEg4SVJhdEpfMzZLLVEtX1NFZ1pJVUcwSXdNSU5LSDhndzRTYS02djkwUGM0Zw?oc=5>
+- **特朗普** | 特朗普80岁生日要在白宫办格斗赛 八角笼效果图曝光 <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnYTM3bUhxZGlsSDRuUGVmYjNHV2hrTU9Wc1hMeDJJSkRWaVpaYnBBd0NNVTZERFJKcWktMTZsMkNkdW42SEZaS2tLamxvZzF6dWgyTTFLOFVBRndtZm5XazloN2M?oc=5>
+- **Trump** | US President Donald Trump warns Iran of ‘much bigger’ bombing if it doesn’t agree to peace deal <https://news.google.com/rss/articles/CBMi-gFBVV95cUxNUzdzQnhreUhablZ2V0g3SllkTmx2MFFhV2N4TFM4ZDNRLXRZLVVnTWhVbU41RnBENndGeTlrNkxvWVhRblFSdmc0MUJjNXg3cjFLVkpueDFoc0N4RmJ0dDFpcm5lRTRreHptTzFtYjA2YWVFaVBsWVhqNWdpNG8wYXNuQThaRXpwdUlPVjlnY2NFUXJlM2l1V1JOWWFlTElPTGVaV2hGbjUyaUNCY3A2VG9BUlBHcnhQY0k4Q2RURnV5WldKbGdYOVZxZWNMTzNOY2VsWEhWMnRKWGNHQ20xRkhoZ0hoN0Q0WVNteHJ1RDhPX3llUzFDZGNB?oc=5>
 
 ### 2026-05-07 08:26  (11 条)
 
