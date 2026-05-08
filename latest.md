@@ -1,64 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-08 15:07**
-- 本轮扫到 540 条, 新增 **6** 条
+- 最近更新: **2026-05-08 16:50**
+- 本轮扫到 544 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (4 条)
 
-### 特朗普：共和党以......_7x24快讯_新浪财经
+### 特朗普：我们已将移民入境人数降至零。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-08 14:56
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFB6TU9aYW9LVmRVdmE2dmVicVcwQ2VJeEZ1UUJ5TkxibDJEMm1VbkxTQUI3Q2ZLVF9nOW1nOENFel9oWTFlOG1FVUJhOA?oc=5>
+- 时间: 2026-05-08 16:48
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1nXzkyN0ZRXzlXekc5SEdibUl2dFZxUjZVbkdOMk5jQkZCVGRoMmhfN1NuaDV0VHRnN0hyVzlCcnkwRHhVQWV4bDNDQQ?oc=5>
 
-### 巴西总统卢拉：特朗普告诉我，不考虑入侵古巴
+### 特朗普全球关税又受阻
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-05-08 13:55
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtQnROYURDYlJCVFpjRzZvdGNCWmc1dU9NenZxeVpzQWxsNDBfb0FUR0hzRWEtS3MzVXEzWjhCbzd0aXhTeUJ6WFZ6SGR4azlJeXduY0dmMzA5eldSekNOdQ?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-05-08 16:10
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE9aN3NLX09pN3RqSmhpZWxNbzN3dVE1Y0pWR3FtSEl5TEp0RGtJcDFjU1dWYktYQk5NbzRtZmNnMU9acjdQejF2VzlaQlVmYTZGYi12VTdqR2dPMlQ1dl9lRkJ2UHdyVW5UaWF6c3U2OWNvT3dQUmc?oc=5>
 
-### 哈里斯谈特朗普时飙脏话：不会把他当白痴看待
+### 特朗普：从海上流入美国的毒品数量已下降
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-08 16:47
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1BZWRVVHRFUWQxVGV0SUppT3ZHN0JsOGY3WFpXZnNOZFN6eWxnN3dEQ0t0bndOMXN6djNtUjJwbUxJSWllUm9JZXRVZw?oc=5>
+
+### 沙特断路、海峡起火，特朗普亲手按下护航计划暂停键
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-05-08 10:07
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5zeHV1NWRfWWVaM05KbmY4dHhaeC1kUXctUVRSYjlUNEZoLTZ3ajhLUC1abEQxZHNWcTBQQ1lTUDdnSUFFbFJCbXB1bms?oc=5>
-
-### 美国总统特朗普：真正的黄金——位于迈阿密多拉尔。由伟大的美国爱国者们打造。
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: Sina finance
-- 时间: 2026-05-07 12:16
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxNbDZpRzhpS18weGVOYURXLVgxMXNSS2FIT0hRbUgtb1hqcTRnR2RELWoxZ2xHVkhoMGx0U295QXNqMV91TXR5cks4N25rUjNQdHJFOXlwemxGSFZvbDVNVmJMdjhXbThmb3l2ZzAzbjZ2SGoxckhtd1JSN3pFNHRScDJpdFdhY3c?oc=5>
-
-### Trump says he will travel to China next Thursday
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: news.tvb.com
-- 时间: 2026-05-08 13:14
-- 链接: <https://news.google.com/rss/articles/CBMitwFBVV95cUxQamw5YWF2dFk0WGlYbDBsN242M3FvMFhNdTZHenZlT25PZ0hPWWpwNGdqU21nQzhUX2VaUnRBd253UjVCT25zcVZQcElrQnZaWnlYT1ZKWUlJMTgyb2paQldSZGUzTF9MaUt4VjVCVUFKNXd5WV8teW0ySUxrYkRJNFlrVVY3YjczcG52Umt2VVpFQTVMbW1UR3JkQ0pud2RMamo2Vk0yNUxWeVpjQnZSV0RLcWtxaWc?oc=5>
-
-### 特朗普全球征收10%关税政策 再次被美国法院裁定无效
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-05-08 14:10
-- 链接: <https://news.google.com/rss/articles/CBMi7AJBVV95cUxOUE9NQkNBWFIyeTdQTnhTTU9QbHF0cXp5cV9fdmNhZkl1OWcxRXNxYVdFZl9IUmtnUjh4ek9FN2lBTEg4SGpXRUlvd29rMi16SHRJUlFXVHlnbkdWSVdUenhrbHRPOEZZYXFPLTdhcTMwUHFDNjR4TmVIN204WEYwdVMwTTNRcEFmbHdVTUNhbnFOazVLLXR0c25oVndJWWpzQjUyclFVa3UtNFRrNUpCR3lmSDlhM0tYOFBBWkRpaThUcFVhMTlEcGRfcEtubnlkRExGcEZKUElicnBlYkMzY3lZRy1sbXhVYlg0YkxMcHJ4X2pxcGNnSHB3SU1aX3JjemFPZUhmRVZidkRrZFB0WHg4aVhodUpORFVMQ2FBaGhZN0pmMk00TU1BRWtBVll4NGxkWmpIT01sb1pya09BeVA3NHljRGRYSkgwbDhpaFhhNXBOZlo0WFdsREZzVmdHU0lUa0Q2Tmw2anlK?oc=5>
+- 时间: 2026-05-08 13:44
+- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTFBBOHhpRDRfaGpBaFJ6ODJnNTJZTmFpNHZnbl9ZXzg3X3ZNREg5SEF3UFFORFFhY2JyYkxiNzBKLTBmSmRaU0pjdG1oWkU2LXZY?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-08 16:50  (4 条)
+
+- **特朗普** | 特朗普：我们已将移民入境人数降至零。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1nXzkyN0ZRXzlXekc5SEdibUl2dFZxUjZVbkdOMk5jQkZCVGRoMmhfN1NuaDV0VHRnN0hyVzlCcnkwRHhVQWV4bDNDQQ?oc=5>
+- **特朗普** | 特朗普全球关税又受阻 <https://news.google.com/rss/articles/CBMidkFVX3lxTE9aN3NLX09pN3RqSmhpZWxNbzN3dVE1Y0pWR3FtSEl5TEp0RGtJcDFjU1dWYktYQk5NbzRtZmNnMU9acjdQejF2VzlaQlVmYTZGYi12VTdqR2dPMlQ1dl9lRkJ2UHdyVW5UaWF6c3U2OWNvT3dQUmc?oc=5>
+- **特朗普** | 特朗普：从海上流入美国的毒品数量已下降 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1BZWRVVHRFUWQxVGV0SUppT3ZHN0JsOGY3WFpXZnNOZFN6eWxnN3dEQ0t0bndOMXN6djNtUjJwbUxJSWllUm9JZXRVZw?oc=5>
+- **特朗普** | 沙特断路、海峡起火，特朗普亲手按下护航计划暂停键 <https://news.google.com/rss/articles/CBMiUEFVX3lxTFBBOHhpRDRfaGpBaFJ6ODJnNTJZTmFpNHZnbl9ZXzg3X3ZNREg5SEF3UFFORFFhY2JyYkxiNzBKLTBmSmRaU0pjdG1oWkU2LXZY?oc=5>
 
 ### 2026-05-08 15:07  (6 条)
 
