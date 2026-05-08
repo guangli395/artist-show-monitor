@@ -1,56 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-08 08:54**
-- 本轮扫到 518 条, 新增 **5** 条
+- 最近更新: **2026-05-08 10:20**
+- 本轮扫到 523 条, 新增 **5** 条
 
 ---
 
 ## 本轮新发现 (5 条)
 
-### 外交部：中美双方就特朗普总统访华事保持着沟通
+### 特朗普威胁欧盟：7月4日之前履行贸易协议，否则加税
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中国日报网
-- 时间: 2026-05-08 08:14
-- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTFA0XzJWTUwyR0N2VnpPNmtQdmZWbjE2YWprOWF4T1JRWkFaV3gwbnh5Z0dnaWYyRHdhbzhHaV9oZEhnWnNVeHZSTzl5eFZDeEs0R2pwVC0yWTM0bldlN1hBUTZhRVhldW5zUTZ6cmtZUVp2Nm1lUExfb3JDQW0?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-05-08 07:32
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBDa0JUaXRUdndxbnhCeE8xWlhpc3NkUUhsZ0x6ODI1NUFCMktNNTQ4VWZmNFVkOW8yMi04NFZIQmhTS2w3eUI4MDZ0UzE?oc=5>
 
-### 特朗普称中美元首会谈将按计划举行，外交部回应
+### 特朗普威胁欧盟：新截止日前未签贸易协议，将征“更高”关税
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-05-08 09:42
+- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxPdElGUnJzVE1DR0ZjQVFHMmtJQUtuMTN1aGluNS1jbEhyVFVkaUVCaVRjbzFyNGg1VmlVcjdaUWFZWXhfd3NmX1FBUzVnYU01Q3dsbHU2ZVJlcUViZjlyYmtybjNvSFNCbG12RWxiZHFaSEppOUR1dnNpVG5GNzI4NGVYRmJGcUVIeDBuOEhvNHM1ajJSc013STNXWW8?oc=5>
+
+### 特朗普发出“最后通牒”！
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 每日经济新闻
+- 时间: 2026-05-08 07:47
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zSi0tdWxqa1FMVXh0R1ZKdmE0NkpWaWhQd0VCdnhBRzFGTmJXOGdKZ2wybEwwUUFMdDdtMHVvZlRIRFZMSE5CcFVsYVY3QXk3QjF5YkpvazN1MGhEMnBzYmU2V0phZw?oc=5>
+
+### 信你个鬼！“修园子2亿变10亿，还要拿纳税人的钱”-观察者网
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: guancha.cn
+- 时间: 2026-05-08 05:12
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE54SHg2allFMzRFR1VTOHpwRVRGamxaQkhwaUd1QllJa3l3d3FXdG1nc1pSOTN3d1dWUGZjcjhCdUdmSGZVdmFPX2xnNWRuZGVHS2RkakNLUlA3ZXdXbU1WZ2cyWGdmRVdKcHc?oc=5>
+
+### 英伟达CEO黄仁勋：若受邀，将随特朗普一同访问中国
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: thepaper.cn
-- 时间: 2026-05-08 07:56
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtSUd4TFY5eFB5ZF9vV1lJb3NOaTh2SVJQTVd1b2JPdG5kbjlzbmg2YXBpOWpiTjZSU3A2OUo2M2lhVzg0eUZjaGU1cVM2dGhoWTE1c0dZSHVfZ3FjVjRjNg?oc=5>
-
-### 特朗普全球关税再遭判违法 特习会前添变数
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: DW.com
-- 时间: 2026-05-08 05:48
-- 链接: <https://news.google.com/rss/articles/CBMirgJBVV95cUxQMi1uSzFJQ25QQ0FIdm9ERUVrTFYyeWFFdTIyZnd2Q09MNk1kNGk5d294bF9mVk1jSkNTbHpveGF4MGE2NXU4VVo5QjNPMVJ0aTdpcldsQ3Bna2tKMkYzbEh3eURJNjRGejhJbzB1ZmdQYXA5Z3RxRVZidGFYMjg4bnQzRFZTb1VkYW00cUVxSTFNVTh0TDVSRHd0VXNsdVRhRUFhS2lLdW41YmUzZGJnZ2E0dGNyTk1UUEFERlVaQnh4dkhyZHFJYkk2UEJxbTNBZk81X3BUZE04NWR4S2xlRVU3ZHBfVVhvSW41RzZ3SEd1OGFVNlVLcDBrdXdOajF6bHpidTFRT3lkWG9wTy0tUE55QjVhTGRNSU5GR1NEd3Y3VjA4SUJYZ3VaRVFUd9IBrgJBVV95cUxPSTQ2LXBwdUJRcGtkSXRINFZMR3VFZE80cWJDRGFhNmF3amliVHRUVC1KSXliV0FORTU4MHppT2thVjA4QkZ6QjRhc19sSzRPQTJFcEFhLVFYTGd6VUxnME1oUHNZUWpzelVsQlRZd0doTWU4Z3BrTkZjT0FjT1NZcTVIYVBpLWFfbXVfRlZsVHExcHJuc0IwQmxVN3ljazRlUXlBMFB3bkt0NWxNTkRVRklkcXZzTkVSTVJSemFMbjJQYnl1SWhqdXZyMmZfM1FRbnNpaENhaGsyZjRUQnBsMmZVTkZUOWNTeWs3NVZiOTFIVzViaUJ2YTVxVjcyQ2doYVMxYmN5ZU1MZjRUY3dLcDlVZmE0WUlGaEw3OU5kS2ZMM3B5ZkotNUNTTUdSUQ?oc=5>
-
-### 特朗普否认美军袭击伊朗意味着停火结束：这只是轻轻地敲打敲打
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-05-07 23:59
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1heDl6MTFfLTNDUTZmcFo3RXpJQ21TeUIyX1pmYVV3bTlUQTJrVEJxTjRhQ3l3WXhOYWpzTlk0RHlFNzlrUzRXZnJzc1JveEtCN1VBNlpkMmVGMG9RcWRRWnVoTVBDNUVRLU1vWjNzdFNJcnJaRWxuOA?oc=5>
-
-### 特朗普何时再次TACO？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-05-08 03:15
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE9FWUFHT2ludWVtZGhiQzlwUGtXMlZwN2NjaTE2OFVkdkdJbTZrSlRjVEFQWGhvOF9NN1hZN2VqMFZtM2tURzAtWk9sV3lvWFNpd1M0?oc=5>
+- 时间: 2026-05-08 04:19
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIbWNHc1FidzB2dVdKVG9UOVp3Q2xfMTM0Mm1tUHg4X28xQ044MEg2ZllBU2dCSFVOR0hXbldncW1qTE9HOF9Cd0g4R0p6clpNWFVGZ0JXamNGbUM1SWpjTg?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-08 10:20  (5 条)
+
+- **特朗普** | 特朗普威胁欧盟：7月4日之前履行贸易协议，否则加税 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBDa0JUaXRUdndxbnhCeE8xWlhpc3NkUUhsZ0x6ODI1NUFCMktNNTQ4VWZmNFVkOW8yMi04NFZIQmhTS2w3eUI4MDZ0UzE?oc=5>
+- **特朗普** | 特朗普威胁欧盟：新截止日前未签贸易协议，将征“更高”关税 <https://news.google.com/rss/articles/CBMinAFBVV95cUxPdElGUnJzVE1DR0ZjQVFHMmtJQUtuMTN1aGluNS1jbEhyVFVkaUVCaVRjbzFyNGg1VmlVcjdaUWFZWXhfd3NmX1FBUzVnYU01Q3dsbHU2ZVJlcUViZjlyYmtybjNvSFNCbG12RWxiZHFaSEppOUR1dnNpVG5GNzI4NGVYRmJGcUVIeDBuOEhvNHM1ajJSc013STNXWW8?oc=5>
+- **特朗普** | 特朗普发出“最后通牒”！ <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zSi0tdWxqa1FMVXh0R1ZKdmE0NkpWaWhQd0VCdnhBRzFGTmJXOGdKZ2wybEwwUUFMdDdtMHVvZlRIRFZMSE5CcFVsYVY3QXk3QjF5YkpvazN1MGhEMnBzYmU2V0phZw?oc=5>
+- **特朗普** | 信你个鬼！“修园子2亿变10亿，还要拿纳税人的钱”-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE54SHg2allFMzRFR1VTOHpwRVRGamxaQkhwaUd1QllJa3l3d3FXdG1nc1pSOTN3d1dWUGZjcjhCdUdmSGZVdmFPX2xnNWRuZGVHS2RkakNLUlA3ZXdXbU1WZ2cyWGdmRVdKcHc?oc=5>
+- **特朗普** | 英伟达CEO黄仁勋：若受邀，将随特朗普一同访问中国 <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIbWNHc1FidzB2dVdKVG9UOVp3Q2xfMTM0Mm1tUHg4X28xQ044MEg2ZllBU2dCSFVOR0hXbldncW1qTE9HOF9Cd0g4R0p6clpNWFVGZ0JXamNGbUM1SWpjTg?oc=5>
 
 ### 2026-05-08 08:54  (5 条)
 
