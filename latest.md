@@ -1,40 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-08 19:53**
-- 本轮扫到 550 条, 新增 **3** 条
+- 最近更新: **2026-05-08 20:54**
+- 本轮扫到 552 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (2 条)
 
-### 美国总统特朗普：与伊朗关于结束这个重大冲突的磋商继续进行。
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-08 18:01
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1URU9qWEhYTmxKemNvNm54U1plMk80SGhubS1tclRkRW5JeHU0b2psS1hpc2dLaWtXUmF3bHVlTTZSM2JjcVVTUWhvWQ?oc=5>
-
-### 特朗普称俄乌9日起停火三天并交换战俘
+### 黄仁勋回应陪同特朗普访华：若被邀请非常乐意
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-08 18:30
-- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE8ybnhGUFd0M1VvNk95UHdEOVdrWU5QN29VaGN0YzVma0JUUWI3eHBUT2QzU21takFHb3B3dm96ZXJrVWpzcGNRSUVxS0NZbkU?oc=5>
+- 场馆: 凤凰网科技
+- 时间: 2026-05-08 01:31
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE8yZUZZZFUyeVpScndvLVpnRGFDYV9SWnVCN0pSc0ZSaTVkUVJhcHptSTEyTzhCN0t3NzFQcWNObW54aVlEV0x1bGE5bkI?oc=5>
 
-### 5月8日外盘头条：美国计划本周重启护航行动 美国法院裁定特朗普10%进口关税违法 OpenAI与博通芯片豪赌遇冷
+### 特朗普对欧设定红线：若不将关税降至零，就大幅加税！
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-08 18:31
-- 链接: <https://news.google.com/rss/articles/CBMijwJBVV95cUxOOXdwZk1lXzhsN3ZocjN6aFBJc01DOUZqTFl1NUhLU1V5YUpnd25CN1BfMHRIV0RHazEzN09ocHFzbzVnM1psVmJLQ2poNWdfOWNOOU1pRFMxU3daSjZZbzJuZHRsVnlHM3VhLVFjM2M3eHUyYTNTRUdkR1V1V1FkOTZ4cndDZVJkblF3LXZsRjExdW9zSEhHVVJQeXVxVjVscDZwWlB0Nzk3UmFWaEJGaXFMVDlNaGtXSTlUQVJ4UjI1cTRjWWhEZVZkaVByQkNsWUg1UGNSbk0tUW4tdnVFOVNobTdMRTJwdkxlendTdDNmQVNuNnVzZ0xzSUtCYmVmVXYyTVF2Yjd3dWtKQTRj?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-05-08 08:21
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBJN3VZWFpsamtlUThrVWtzVHdvSE1SYWFwb1FUT2J2TEQtX2JoWEZReE5DalNvaXl5eXpLMlctMjdBb0JlNm9ocTVxWEhINmVsbmp5UUNlTXo1R0RlZEJSQzRjQTZKd2F6bW9nY2RVVU1jTEFURzU4bQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-08 20:54  (2 条)
+
+- **特朗普** | 黄仁勋回应陪同特朗普访华：若被邀请非常乐意 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE8yZUZZZFUyeVpScndvLVpnRGFDYV9SWnVCN0pSc0ZSaTVkUVJhcHptSTEyTzhCN0t3NzFQcWNObW54aVlEV0x1bGE5bkI?oc=5>
+- **特朗普** | 特朗普对欧设定红线：若不将关税降至零，就大幅加税！ <https://news.google.com/rss/articles/CBMieEFVX3lxTFBJN3VZWFpsamtlUThrVWtzVHdvSE1SYWFwb1FUT2J2TEQtX2JoWEZReE5DalNvaXl5eXpLMlctMjdBb0JlNm9ocTVxWEhINmVsbmp5UUNlTXo1R0RlZEJSQzRjQTZKd2F6bW9nY2RVVU1jTEFURzU4bQ?oc=5>
 
 ### 2026-05-08 19:53  (3 条)
 
