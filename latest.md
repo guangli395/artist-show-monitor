@@ -1,112 +1,82 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-08 05:26**
-- 本轮扫到 506 条, 新增 **12** 条
+- 最近更新: **2026-05-08 07:04**
+- 本轮扫到 513 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (12 条)
+## 本轮新发现 (7 条)
 
-### 特朗普访华，重要又特殊在哪儿？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-05-07 04:52
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9qR2NCNzY1cVV1alUwYkhtRVFWckszaEJqUGJfY1d0UGpmSER4azI1OUpST2liV1BJMUVyc0UzVUtqNW0tcmFtOWtpSzFacV90ZkxYcXUtZi1CaThzS1hKaUFWT0pxV0UyVnc?oc=5>
-
-### 特朗普：若停火失效，伊朗将火光冲天
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-05-08 02:49
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fMGk1QUdEbUNyX01tdzJaRDBPWURWT3NldUNjV2k2S081MDhVaDlKZHdhSUZpUE5SVkg0REZPSUs0T01ONTVfVl9YcmZGODVKVjExNzNtRzlLak5rM2Rfbg?oc=5>
-
-### 特朗普称对伊朗目标军事打击是一次“轻微惩罚”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 央视网
-- 时间: 2026-05-08 04:07
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBWd3ZwRDY1N3F3bnE4a2Q5aHQtY1VnWXFGWnh3NzdTMkJzcEs3N19VUnBzYUJKZHA3SjdYdzZ6c0NKcl9XYUdGMURnRWJUVGZTV0lfVVBSZkJjSFJMeUVVemVXSHZ0YmNzZmNKU1owV3VXS3JHMkRaUQ?oc=5>
-
-### 美国际贸易法院裁定10%全球关税无效 特朗普称将“另辟蹊径”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财新
-- 时间: 2026-05-08 04:15
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9KdVdWMTlReG56Z3FUZ3loeWstdHlPR2tCcWh1SkVfOE5rTDBDZVNlaFZEZ0FsbkdReW5WcFYwQ3ZXYVJqdmpBU1U2bW5MRGV1UVROY25lTVk0ZGo3ZUw2RmN6V3lQam5HZlE?oc=5>
-
-### 巴美领导人举行会晤 卢拉：特朗普会以美国总统的身份行事
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-05-08 03:40
-- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE9yMzZDYWVUZmZPQURBM2FaWHhpbTlJekN6aFlScnpqZElSczY4MHlJcE9SanhzNVZTdE56SThjaDVOXzdCUks4OUFXZGVqVF9uWGUybDJCVTV5X0hPRmVXVjN6THREQnJOUUNLQjNlV2lSSnNyMFlpZ1I3Qk0tZw?oc=5>
-
-### 卢拉会晤特朗普：希望你别吊销巴西球员的签证，他们可是来夺冠的
+### 特朗普：伊朗今天同意了，明天又忘了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-05-08 00:45
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE40T3Uxd3pTOUVLUUo4Q2hNU080bTl3NGljY19FZlNDZ3p3Zk9pd3BxZGR2UnRSb3o0VjBHN2FLMFFZSUxXcUlxY285aDI?oc=5>
+- 时间: 2026-05-08 06:52
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5yMXZNXzU2RlNKV1BYYm5aVS1uTEJMZnkyZk4wT3YzM19uX01RVUxBeDZGZmJGLUpmWjVOZHdlVW9HOVlaVlFTNFZoMU8?oc=5>
 
-### 美官员：特朗普将在白宫接待巴西总统卢拉，预计讨论经济和安全问题
+### 巴西总统卢拉：我告诉特朗普，欢迎包括中国在内的所有国家投资稀土本地加工
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: guancha.cn
+- 时间: 2026-05-08 01:04
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9OX2ZWMldYMXBQNl9SR3l6cVl0TklNTGNuVlZpMmJZZ09RdmU4WmU0cDdlYnZxRlFTRC1sNE9HdjNmUmpsY1FiX0FqenFXVGxhaTZfd2I3TE5wNXI4OV9hRG15YWttbEtsWFE?oc=5>
+
+### 特朗普见卢拉时说不考虑入侵古巴
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-07 22:56
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1kY3FINzY2WTk0Y2JFRmpjQ0J4Y1JTOG9kNUwxNUl5V3FzU0t2MV9YRDNKRTFCU0ZiNFBPTE9QRDJnU1ZVMEVXZlVkRDN6Rnc0UHN0VWFYQldEUk8wNEJnSEQzYjk0amN5eDNpbXluYWNjVTF6c3p3TA?oc=5>
+- 时间: 2026-05-08 06:13
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBJUlVoTkVzd3luMmpYRmszTThFdEttSU1xOXZjdDMtZ0lQY05mVjVWSnFVVzZmVHFjSWk4ZGJpY2FNZFZjQ3V6Vm80Yw?oc=5>
 
-### 戏精+1，“特朗普不能说啊，中俄都听着呢”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-05-08 02:31
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1adE9RN2wtU1gzWmRBNGdHcFA0R3RlbU5zWi1vRjRMcE1FTFgxV1JUOV9ZRl9EekduWmJSVktXQ1RYLTVIb1ZvRTRQTU1Ya05FeFhiNW5XTE5zSWlNRUlxTWRFZEpUcGNtTWc?oc=5>
-
-### 白宫记协晚宴枪击事件后 特朗普再为白宫宴会厅项目辩护
+### 特朗普说的全变了：造园子花费2亿变10亿，还要拿纳税人的钱
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-08 01:41
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9pRlNLbEM4cUpIRXFNQWZ4LVhMam9xb1FUSklXSFdaSUVRYlY2bDk3QVloNVBHMFNUeUlwSU0zY3JDT2ZxaVphRGd2OA?oc=5>
+- 时间: 2026-05-08 05:15
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE45T0xub3h5dDg1bGRZUDE0YmNya3IzT0dudGdwUlJ5Q0I3aEd6VnhoUG4yT3JmT3NQX1pPcEhZTDVvWVVKeXR3S2o5WEc5Um8zd1AxM01VRlRhX0Q3ZWh0QWp0WVBBRmdVNTJQREdaMUhlVEJnRUtJTw?oc=5>
 
-### 特朗普计划邀请英伟达等公司CEO一同访华，受邀名单竞争激烈
+### 美贸易法院：特朗普10%的全球关税政策无效
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-05-07 23:03
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTFBfLUZPalY5UFNRc005ZzNmdUpCeF9MeG56clkzTDE4SlJSak44NDhfYVNhMFc5NE5UY0I2NUJjanpZWnozRjVBSg?oc=5>
+- 时间: 2026-05-07 22:03
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE1mLVR2VDMwNXRSS2IzS0xxWmVMcHA0eV96NGtGV2pydV9tcU1FSXZEWHRENDhiUWdDdjRtalhMNUo2V2NENk9CRQ?oc=5>
 
-### 黄仁勋回应陪同特朗普访华：若被邀请非常乐意
+### 黄仁勋：若受邀，将随特朗普一同访问中国
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-05-08 04:41
-- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM1BtNGJQcmJraUhPUGZuaGdDaUlhSEx0TXhOS21HdUxOcDdUQ0xPaHJDeWpkUDc1QTR3bVA2U1BqdFg1TmRfZ19PaF9lV0c1MnlHR211dG8xQWlqeHJCS3FybFdZSTJtVjRBSVR2bm1hc1ItZ0IyQ2ItR3kxcDAtdXJUQl8xcHZy?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-05-08 04:32
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBtOEdRLTkwNzhsSFZkdy1wWWdlWGMtVVJ6WGVhZG12ZjdrdVZQV2VnLTBiLVRRMVdVTFBTMXU0U0NHM2lHLWljYmdodlU?oc=5>
 
-### 市场传闻：特朗普政府将邀请首席执行官们参加中国之行。
+### 特朗普“自由计划”被仓促叫停始末
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-05-08 05:10
-- 链接: <https://news.google.com/rss/articles/CBMisAFBVV95cUxNRy1kSzhUR1A2d241VldXclJaU19aMUd5MlNHb2stNlFFMnppOXMyZlJ5dWwwQllZLVBFQzcxTkZVRzdiRHREYjljNUx2aUhlSlNBNU14NnpkbmFRZk9qNzRQdW5NZjZSTWV1TklHenljUEt4UU1XMEpFcnd0WG1sQ0lpYWFDNUphV1RYZzEyX3N4RkdCVGlsLW9wZTctTkNCaDUzbnJuWngtWThHQ3hZLQ?oc=5>
+- 场馆: 华尔街日报中文网
+- 时间: 2026-05-08 03:30
+- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxOVTd0eTdVRlQ5TXJPeC00X2RDWUFER3R5OEJqamJwWTVaS29hQk5sSUxGbmliMG41ZWtweElOamg2RjBCMGlkdk1wNnowLVNwNWNVZVl6YVFFdmh4OWdlNnRreHU0ZWlpQTdrU0dEMEZDN2xMRThkR0RkSE53SnNhaXln?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-08 07:04  (7 条)
+
+- **特朗普** | 特朗普：伊朗今天同意了，明天又忘了 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5yMXZNXzU2RlNKV1BYYm5aVS1uTEJMZnkyZk4wT3YzM19uX01RVUxBeDZGZmJGLUpmWjVOZHdlVW9HOVlaVlFTNFZoMU8?oc=5>
+- **特朗普** | 巴西总统卢拉：我告诉特朗普，欢迎包括中国在内的所有国家投资稀土本地加工 <https://news.google.com/rss/articles/CBMiakFVX3lxTE9OX2ZWMldYMXBQNl9SR3l6cVl0TklNTGNuVlZpMmJZZ09RdmU4WmU0cDdlYnZxRlFTRC1sNE9HdjNmUmpsY1FiX0FqenFXVGxhaTZfd2I3TE5wNXI4OV9hRG15YWttbEtsWFE?oc=5>
+- **特朗普** | 特朗普见卢拉时说不考虑入侵古巴 <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBJUlVoTkVzd3luMmpYRmszTThFdEttSU1xOXZjdDMtZ0lQY05mVjVWSnFVVzZmVHFjSWk4ZGJpY2FNZFZjQ3V6Vm80Yw?oc=5>
+- **特朗普** | 特朗普说的全变了：造园子花费2亿变10亿，还要拿纳税人的钱 <https://news.google.com/rss/articles/CBMieEFVX3lxTE45T0xub3h5dDg1bGRZUDE0YmNya3IzT0dudGdwUlJ5Q0I3aEd6VnhoUG4yT3JmT3NQX1pPcEhZTDVvWVVKeXR3S2o5WEc5Um8zd1AxM01VRlRhX0Q3ZWh0QWp0WVBBRmdVNTJQREdaMUhlVEJnRUtJTw?oc=5>
+- **特朗普** | 美贸易法院：特朗普10%的全球关税政策无效 <https://news.google.com/rss/articles/CBMiSEFVX3lxTE1mLVR2VDMwNXRSS2IzS0xxWmVMcHA0eV96NGtGV2pydV9tcU1FSXZEWHRENDhiUWdDdjRtalhMNUo2V2NENk9CRQ?oc=5>
+- **特朗普** | 黄仁勋：若受邀，将随特朗普一同访问中国 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBtOEdRLTkwNzhsSFZkdy1wWWdlWGMtVVJ6WGVhZG12ZjdrdVZQV2VnLTBiLVRRMVdVTFBTMXU0U0NHM2lHLWljYmdodlU?oc=5>
+- **Trump** | 特朗普“自由计划”被仓促叫停始末 <https://news.google.com/rss/articles/CBMiggFBVV95cUxOVTd0eTdVRlQ5TXJPeC00X2RDWUFER3R5OEJqamJwWTVaS29hQk5sSUxGbmliMG41ZWtweElOamg2RjBCMGlkdk1wNnowLVNwNWNVZVl6YVFFdmh4OWdlNnRreHU0ZWlpQTdrU0dEMEZDN2xMRThkR0RkSE53SnNhaXln?oc=5>
 
 ### 2026-05-08 05:26  (12 条)
 
