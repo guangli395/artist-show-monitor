@@ -1,110 +1,127 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-08 02:32**
-- 本轮扫到 494 条, 新增 **12** 条
+- 最近更新: **2026-05-08 05:26**
+- 本轮扫到 506 条, 新增 **12** 条
 
 ---
 
 ## 本轮新发现 (12 条)
 
-### 华晨宇演唱会改编周杰伦双截棍引热议
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201853_v1d45362bd06801rmpw.html>
-
-### 特朗普：打击伊朗设施只是“小小警告”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-05-08 02:31
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1GUnJlM0UwWXdCMlU1TGc0cFloUHFuVGlnNHpnWmJHaEk1eGROeGpQZ1I0VzhRdGtqci1Nb0Q1YkNKTmE0NlQ1Sl9haw?oc=5>
-
-### 白宫：特朗普将于当地时间周五中午在玫瑰园发表讲话。
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-08 02:05
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5pSlZFNFNUVk1wZjJ6cDZjRlRpQllaZmVLS1dOOTE0Sm1QT191N3FfU05ITkQ0UGFZb0Zpa3lseUEyLXZ6Sy1qZGd4SQ?oc=5>
-
-### 特朗普和普京访华前，谈谈中美俄-安德烈·科尔图诺夫、黄靖
+### 特朗普访华，重要又特殊在哪儿？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 观察者
-- 时间: 2026-05-08 00:21
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5seEhGRkdNQnNMRVRuQnFFRlJrdkNxMnJfYWU5LWk0eDRmOFRuS1lMVGY2MkE4OVBaZlZyczItWlpFdzk0bU52bGJtNUFTWWxCUW1OUmpMSWU0VHZoSXczQWktM0E?oc=5>
+- 时间: 2026-05-07 04:52
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9qR2NCNzY1cVV1alUwYkhtRVFWckszaEJqUGJfY1d0UGpmSER4azI1OUpST2liV1BJMUVyc0UzVUtqNW0tcmFtOWtpSzFacV90ZkxYcXUtZi1CaThzS1hKaUFWT0pxV0UyVnc?oc=5>
 
-### 特朗普政府正寻求重启“自由计划” 最早可能在本周实施
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中国网新闻中心
-- 时间: 2026-05-07 23:39
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE5OSWZjNEhSWmlCenpaaDBwajdubS1FQ3NBWFdMOVNOLVJ0UWs5Sk14cG9qUzJBUWEzVENsVmJTVzZwaTdfM2VjM3NjMUlsc2Rvc0tFbm1HSzRjQW9aWU1CRHMwZHJYS3JPNWNv?oc=5>
-
-### 中国启动“实战条款”，强势反击特朗普，不介意和美国来次硬碰硬
+### 特朗普：若停火失效，伊朗将火光冲天
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-05-07 16:03
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTFBfNkUzVWNPQlRjMDlfSVdqS1doTm5HM1JCSXd6N1VLOXVDU2htaGdZMnB1SW1MUjMtZGdUcmN0dkpWRlUxV1BDc3NPVUZFelc2N1JKMjdkem5LZWhuZml4bHBRa3RYRmphYnhXRG1ndjRaUjFvU0E?oc=5>
+- 场馆: thepaper.cn
+- 时间: 2026-05-08 02:49
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fMGk1QUdEbUNyX01tdzJaRDBPWURWT3NldUNjV2k2S081MDhVaDlKZHdhSUZpUE5SVkg0REZPSUs0T01ONTVfVl9YcmZGODVKVjExNzNtRzlLak5rM2Rfbg?oc=5>
 
-### 美国政府邀英伟达等多间大型企业CEO随同特朗普访华
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-05-07 21:13
-- 链接: <https://news.google.com/rss/articles/CBMi6wJBVV95cUxPdGxraGVLdjZRVll1QjlXZUZsUUI5LXZCLTh3Mk1mRFJuWm5Fcy1JZVBDMkRoSnRNRzk1NWN0Q19CTW5qVzliY1g1b0owemg0c1RvOExqV1JjMUlwa3FkS2VJR1hHdkhFdFFTOVRjb3JVNTlkZlhYSnNzaUlJZWg1U18wX1d6M0ZvQUk0OTJVRy1GT2FteDlqajkwYzdMMUNnSkZfV2xzZzEtTWZId2lEdkZDLXplNjROZHNOVGxpMDl3T2FZUXRaM0xFdGk4Z2xaVS1MN0RXRldjNXlXbUN6bmRacENUS3FHcnNmS0ZBY2F2Yk81bFFnVE1nN3Mxc05TZGJ1SXA1UUltLWRjODhlMFhqMC02RGV1WXlDT0VpQXY3RFY2LS01RG40cS1FQ05wekllMEhYZm5FVWNjbWNWQVlMVEhBS01IRmpLcWhhNFptaHdXOUl6UWdMMFlTRGZWSGg4RTBBbkcwNnM?oc=5>
-
-### 特朗普为欧盟履行美欧贸易协议设定最后期限
+### 特朗普称对伊朗目标军事打击是一次“轻微惩罚”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-05-08 00:10
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFByOEdzcEc2UkVlTXJabTVUaDdTd2xHdkx6X1pWVm9pTEtRU2dUMzI4TmY2d3hYcEdwbEp5V1hqY0Nzd0U2dUQxQTdHbGU1WnIxb3ZMZG1BaW9iM1BTNzlGR2xKTGY?oc=5>
+- 场馆: 央视网
+- 时间: 2026-05-08 04:07
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBWd3ZwRDY1N3F3bnE4a2Q5aHQtY1VnWXFGWnh3NzdTMkJzcEs3N19VUnBzYUJKZHA3SjdYdzZ6c0NKcl9XYUdGMURnRWJUVGZTV0lfVVBSZkJjSFJMeUVVemVXSHZ0YmNzZmNKU1owV3VXS3JHMkRaUQ?oc=5>
 
-### 特朗普与巴西总统卢拉在白宫会晤
+### 美国际贸易法院裁定10%全球关税无效 特朗普称将“另辟蹊径”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-05-08 00:19
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE41eVU0TDVMNWdIY0YzbWt0U3BpSm9lbTFaWFA1VVJhY1BvdG1WeExmRmZlSE1HSDJrS3ZNWnhDellRMmpEYVNYbHhjYnhkTDEwWHItSFZKLW1qS08yXzFXV0ZmcmUwMlg1?oc=5>
+- 场馆: 财新
+- 时间: 2026-05-08 04:15
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9KdVdWMTlReG56Z3FUZ3loeWstdHlPR2tCcWh1SkVfOE5rTDBDZVNlaFZEZ0FsbkdReW5WcFYwQ3ZXYVJqdmpBU1U2bW5MRGV1UVROY25lTVk0ZGo3ZUw2RmN6V3lQam5HZlE?oc=5>
 
-### 特朗普限欧盟至2026年7月4日削减关税 否则将面临更高关税
+### 巴美领导人举行会晤 卢拉：特朗普会以美国总统的身份行事
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-05-08 03:40
+- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE9yMzZDYWVUZmZPQURBM2FaWHhpbTlJekN6aFlScnpqZElSczY4MHlJcE9SanhzNVZTdE56SThjaDVOXzdCUks4OUFXZGVqVF9uWGUybDJCVTV5X0hPRmVXVjN6THREQnJOUUNLQjNlV2lSSnNyMFlpZ1I3Qk0tZw?oc=5>
+
+### 卢拉会晤特朗普：希望你别吊销巴西球员的签证，他们可是来夺冠的
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-05-08 00:45
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE40T3Uxd3pTOUVLUUo4Q2hNU080bTl3NGljY19FZlNDZ3p3Zk9pd3BxZGR2UnRSb3o0VjBHN2FLMFFZSUxXcUlxY285aDI?oc=5>
+
+### 美官员：特朗普将在白宫接待巴西总统卢拉，预计讨论经济和安全问题
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-07 22:56
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1kY3FINzY2WTk0Y2JFRmpjQ0J4Y1JTOG9kNUwxNUl5V3FzU0t2MV9YRDNKRTFCU0ZiNFBPTE9QRDJnU1ZVMEVXZlVkRDN6Rnc0UHN0VWFYQldEUk8wNEJnSEQzYjk0amN5eDNpbXluYWNjVTF6c3p3TA?oc=5>
+
+### 戏精+1，“特朗普不能说啊，中俄都听着呢”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-05-08 02:31
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1adE9RN2wtU1gzWmRBNGdHcFA0R3RlbU5zWi1vRjRMcE1FTFgxV1JUOV9ZRl9EekduWmJSVktXQ1RYLTVIb1ZvRTRQTU1Ya05FeFhiNW5XTE5zSWlNRUlxTWRFZEpUcGNtTWc?oc=5>
+
+### 白宫记协晚宴枪击事件后 特朗普再为白宫宴会厅项目辩护
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-08 01:41
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9pRlNLbEM4cUpIRXFNQWZ4LVhMam9xb1FUSklXSFdaSUVRYlY2bDk3QVloNVBHMFNUeUlwSU0zY3JDT2ZxaVphRGd2OA?oc=5>
+
+### 特朗普计划邀请英伟达等公司CEO一同访华，受邀名单竞争激烈
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-05-07 23:03
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTFBfLUZPalY5UFNRc005ZzNmdUpCeF9MeG56clkzTDE4SlJSak44NDhfYVNhMFc5NE5UY0I2NUJjanpZWnozRjVBSg?oc=5>
+
+### 黄仁勋回应陪同特朗普访华：若被邀请非常乐意
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 搜狐网
+- 时间: 2026-05-08 04:41
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM1BtNGJQcmJraUhPUGZuaGdDaUlhSEx0TXhOS21HdUxOcDdUQ0xPaHJDeWpkUDc1QTR3bVA2U1BqdFg1TmRfZ19PaF9lV0c1MnlHR211dG8xQWlqeHJCS3FybFdZSTJtVjRBSVR2bm1hc1ItZ0IyQ2ItR3kxcDAtdXJUQl8xcHZy?oc=5>
+
+### 市场传闻：特朗普政府将邀请首席执行官们参加中国之行。
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: AASTOCKS.com
-- 时间: 2026-05-07 23:40
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE5OTkphVTZBa28wLTNiN2RSY1RyOVZ3R0NaVEhlN05Ycm1faDJfNmdZTWc3U2xLaWM0WnotRFRlZjNabUdBX2g3ZWpWV0F5S1BEblB0eUMzanhOSElmYUR3R0IxUVpyV0lwYjBjSzE3dw?oc=5>
-
-### IOSG现场观察：Trump Crypto午宴与“年轻的美国”
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: PANews
-- 时间: 2026-05-08 01:22
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9jZTlZck1kSFNoUVlXa2QtU09YYnFkajUtMnVUTURibmZVQkx4aVJaRk13R3FiZnRkeF9HdXhZcUM3QWUtdzhER2lZazhsQXd3RThzZmpzOUE3Zk5IdG9ORG41MURyZ1E3QmNhUWFxLURQdGhPMkFyQmVUam5QYUU?oc=5>
-
-### 特朗普与巴西总统卢拉寻求修复关系，缓和外交裂痕
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-05-08 01:31
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ1E4NWJTekxhSG1laW81N3VWaEE0WlFDdWxqRFRtVjVZbGZWMG5hbjRyVWdIVlRqYmUxaWpyeTFiYVFBRDBFU0k5NmhQVG55UWp6OEFuYl9UdElpTFZ1YjRILWFQNGg0MUpwM2k2Y3ZCOUVfaE5adWh1UXRIa1ZaLWZ4bkZ3QkIwMWs1TDN1R1pMYm9MeHNuOQ?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-05-08 05:10
+- 链接: <https://news.google.com/rss/articles/CBMisAFBVV95cUxNRy1kSzhUR1A2d241VldXclJaU19aMUd5MlNHb2stNlFFMnppOXMyZlJ5dWwwQllZLVBFQzcxTkZVRzdiRHREYjljNUx2aUhlSlNBNU14NnpkbmFRZk9qNzRQdW5NZjZSTWV1TklHenljUEt4UU1XMEpFcnd0WG1sQ0lpYWFDNUphV1RYZzEyX3N4RkdCVGlsLW9wZTctTkNCaDUzbnJuWngtWThHQ3hZLQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-08 05:26  (12 条)
+
+- **特朗普** | 特朗普访华，重要又特殊在哪儿？ <https://news.google.com/rss/articles/CBMiakFVX3lxTE9qR2NCNzY1cVV1alUwYkhtRVFWckszaEJqUGJfY1d0UGpmSER4azI1OUpST2liV1BJMUVyc0UzVUtqNW0tcmFtOWtpSzFacV90ZkxYcXUtZi1CaThzS1hKaUFWT0pxV0UyVnc?oc=5>
+- **特朗普** | 特朗普：若停火失效，伊朗将火光冲天 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fMGk1QUdEbUNyX01tdzJaRDBPWURWT3NldUNjV2k2S081MDhVaDlKZHdhSUZpUE5SVkg0REZPSUs0T01ONTVfVl9YcmZGODVKVjExNzNtRzlLak5rM2Rfbg?oc=5>
+- **特朗普** | 特朗普称对伊朗目标军事打击是一次“轻微惩罚” <https://news.google.com/rss/articles/CBMieEFVX3lxTFBWd3ZwRDY1N3F3bnE4a2Q5aHQtY1VnWXFGWnh3NzdTMkJzcEs3N19VUnBzYUJKZHA3SjdYdzZ6c0NKcl9XYUdGMURnRWJUVGZTV0lfVVBSZkJjSFJMeUVVemVXSHZ0YmNzZmNKU1owV3VXS3JHMkRaUQ?oc=5>
+- **特朗普** | 美国际贸易法院裁定10%全球关税无效 特朗普称将“另辟蹊径” <https://news.google.com/rss/articles/CBMiakFVX3lxTE9KdVdWMTlReG56Z3FUZ3loeWstdHlPR2tCcWh1SkVfOE5rTDBDZVNlaFZEZ0FsbkdReW5WcFYwQ3ZXYVJqdmpBU1U2bW5MRGV1UVROY25lTVk0ZGo3ZUw2RmN6V3lQam5HZlE?oc=5>
+- **特朗普** | 巴美领导人举行会晤 卢拉：特朗普会以美国总统的身份行事 <https://news.google.com/rss/articles/CBMifkFVX3lxTE9yMzZDYWVUZmZPQURBM2FaWHhpbTlJekN6aFlScnpqZElSczY4MHlJcE9SanhzNVZTdE56SThjaDVOXzdCUks4OUFXZGVqVF9uWGUybDJCVTV5X0hPRmVXVjN6THREQnJOUUNLQjNlV2lSSnNyMFlpZ1I3Qk0tZw?oc=5>
+- **特朗普** | 卢拉会晤特朗普：希望你别吊销巴西球员的签证，他们可是来夺冠的 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE40T3Uxd3pTOUVLUUo4Q2hNU080bTl3NGljY19FZlNDZ3p3Zk9pd3BxZGR2UnRSb3o0VjBHN2FLMFFZSUxXcUlxY285aDI?oc=5>
+- **特朗普** | 美官员：特朗普将在白宫接待巴西总统卢拉，预计讨论经济和安全问题 <https://news.google.com/rss/articles/CBMieEFVX3lxTE1kY3FINzY2WTk0Y2JFRmpjQ0J4Y1JTOG9kNUwxNUl5V3FzU0t2MV9YRDNKRTFCU0ZiNFBPTE9QRDJnU1ZVMEVXZlVkRDN6Rnc0UHN0VWFYQldEUk8wNEJnSEQzYjk0amN5eDNpbXluYWNjVTF6c3p3TA?oc=5>
+- **特朗普** | 戏精+1，“特朗普不能说啊，中俄都听着呢” <https://news.google.com/rss/articles/CBMiakFVX3lxTE1adE9RN2wtU1gzWmRBNGdHcFA0R3RlbU5zWi1vRjRMcE1FTFgxV1JUOV9ZRl9EekduWmJSVktXQ1RYLTVIb1ZvRTRQTU1Ya05FeFhiNW5XTE5zSWlNRUlxTWRFZEpUcGNtTWc?oc=5>
+- **特朗普** | 白宫记协晚宴枪击事件后 特朗普再为白宫宴会厅项目辩护 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9pRlNLbEM4cUpIRXFNQWZ4LVhMam9xb1FUSklXSFdaSUVRYlY2bDk3QVloNVBHMFNUeUlwSU0zY3JDT2ZxaVphRGd2OA?oc=5>
+- **特朗普** | 特朗普计划邀请英伟达等公司CEO一同访华，受邀名单竞争激烈 <https://news.google.com/rss/articles/CBMiSEFVX3lxTFBfLUZPalY5UFNRc005ZzNmdUpCeF9MeG56clkzTDE4SlJSak44NDhfYVNhMFc5NE5UY0I2NUJjanpZWnozRjVBSg?oc=5>
+- **特朗普** | 黄仁勋回应陪同特朗普访华：若被邀请非常乐意 <https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM1BtNGJQcmJraUhPUGZuaGdDaUlhSEx0TXhOS21HdUxOcDdUQ0xPaHJDeWpkUDc1QTR3bVA2U1BqdFg1TmRfZ19PaF9lV0c1MnlHR211dG8xQWlqeHJCS3FybFdZSTJtVjRBSVR2bm1hc1ItZ0IyQ2ItR3kxcDAtdXJUQl8xcHZy?oc=5>
+- **Trump** | 市场传闻：特朗普政府将邀请首席执行官们参加中国之行。 <https://news.google.com/rss/articles/CBMisAFBVV95cUxNRy1kSzhUR1A2d241VldXclJaU19aMUd5MlNHb2stNlFFMnppOXMyZlJ5dWwwQllZLVBFQzcxTkZVRzdiRHREYjljNUx2aUhlSlNBNU14NnpkbmFRZk9qNzRQdW5NZjZSTWV1TklHenljUEt4UU1XMEpFcnd0WG1sQ0lpYWFDNUphV1RYZzEyX3N4RkdCVGlsLW9wZTctTkNCaDUzbnJuWngtWThHQ3hZLQ?oc=5>
 
 ### 2026-05-08 02:32  (12 条)
 
