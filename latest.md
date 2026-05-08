@@ -1,32 +1,91 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-08 20:54**
-- 本轮扫到 552 条, 新增 **2** 条
+- 最近更新: **2026-05-08 21:55**
+- 本轮扫到 560 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (8 条)
 
-### 黄仁勋回应陪同特朗普访华：若被邀请非常乐意
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网科技
-- 时间: 2026-05-08 01:31
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE8yZUZZZFUyeVpScndvLVpnRGFDYV9SWnVCN0pSc0ZSaTVkUVJhcHptSTEyTzhCN0t3NzFQcWNObW54aVlEV0x1bGE5bkI?oc=5>
-
-### 特朗普对欧设定红线：若不将关税降至零，就大幅加税！
+### 特朗普称俄乌9日起停火三天 互换千名战俘
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-05-08 08:21
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBJN3VZWFpsamtlUThrVWtzVHdvSE1SYWFwb1FUT2J2TEQtX2JoWEZReE5DalNvaXl5eXpLMlctMjdBb0JlNm9ocTVxWEhINmVsbmp5UUNlTXo1R0RlZEJSQzRjQTZKd2F6bW9nY2RVVU1jTEFURzU4bQ?oc=5>
+- 场馆: 央视网
+- 时间: 2026-05-08 21:20
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE44a204MTlUTGotR3kwVDB4bnRJbTREdW1BUm5LZkRfRUZ4aGo0a184ZWhpeGFCYW9kejJBZ2dFSlpTQmxnSVhUeEE2bktMdThYSUNOTkh2aDNWdUxUbUFTalQzZjA2NFZDU3VEeE9qMDVTMHRxcWQzYQ?oc=5>
+
+### 美贸易法院裁定特朗普的10%全球关税无效后 司法部提出上诉
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-08 20:31
+- 链接: <https://news.google.com/rss/articles/CBMingJBVV95cUxPYTdMYURoTzZ1LUNDaUJDa3BxS2trdGd3Qm5IcmczMEtWN1N2dUpwQlpxWXNQUFQ2V2R0X200MmpidDduaHV0blNDNVMzQmJkR3l4bHlwX1FmdS1waWlSOUwtYlVkdWE2eFNHcTkzSGczazl5ZWJBUFlBd3ZzaFJpSE5ZT0pCWHpHLXp5cXdjZmFiLXVJazB5VzJLQW5KSzdQZ0kxcXctUkpXb3JEOUJWci12dGthWHJlZ0E5YWhuZG1RdEd2VDBFS0JyYUlacTM2TzhfV2dJSk14QjdTYTVyQWNXSHRJUGltY3NUQVd0dWtwN01VQkpCVS1FTzlhTXVrS3A0N0VUWk9tZXF5VWtmOC1yd0o0NXE4Z29GaVZ3?oc=5>
+
+### 特朗普威胁欧盟：新截止日前未签贸易协议，将征“更高”关税
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-08 20:15
+- 链接: <https://news.google.com/rss/articles/CBMiqAJBVV95cUxOV1kyTUc2OUs1WlVhc2NZX2VhY2FFeVZSSXJqTHhqbU5vek9NeUJKd3A0Umc1NjNuRTRJSHprbGxLRU80UTZ2eFVtX1YyRXBHWXZOVUxkMUc5dHg5ZTJzLXVnd1FodzliWDkxbUptTFcxUkkySmVZT19GcmViM2ZQOTNFOHFsQk9hNDl0ckxTWU5MMnBtVVppU0JKUnpLZkc3cjNkVTc3ZzhmYXZPQmM3em5zZlV6SDhJRmptT3dZcHJrR3hwRm1RUFFEV2dUNGZQYzNCbDNXQjkyb3lxR3JYeHFKLUE5M0lSVG94U29za2U0SnFqcjBHMmR6ck9QZjBpLUhiYjRfNHpsX2YwcUxHVm10dHJHcnZaTVpSZU1vaHNUeFFQbm14WA?oc=5>
+
+### 特朗普宣布俄乌将停火三天 莫斯科阅兵前双方仍持续交火
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-05-08 21:25
+- 链接: <https://news.google.com/rss/articles/CBMijANBVV95cUxQNXdBUmlZSExnTEYtTVVFcHFRc2xfSlpWTHdiNW81VTVHRGwxaklwUTlwNE9GMWdEUDNVNUU2NGYxWEdjWEUzekpQQmFEMHFicTlkZU1abDY4Y2p4X05La0VySEUySERmRnRkVVJOS19mbG9qMG1RYm14RFF2SVFKOEhoVlhGYXNIcncyUG9oSEVxbC1BWVY0blBfVENPNDVpYWl3OGd3eHJrZVZuYk5xTG51eGFWbEJQSWxkMTlZaXdudWNUN3dINDN1eTZtQzM5d29mYVRvTzEwZHNmOVBPck1FREZOdmxkdm9PUkxya1RhTGwxSGp0ZDU3eUo4NHQwWHVzbWVsX3ZBdTBVYWxPYS1NT2NYTFp0OWp2M0dIQk0ta2RyNmVfMHNqaEwwNXN2RGtOcE4zS1EyRk54XzNTYy1GcnE2TnZiQ2JHWDVOYVVJWTZId2Y0djlDYVhZX0JSWVJtWFU0aFJTdHBodGVjZXM1RU5kcWxVeHRmdHEyS2hRY3UtRnlwOHBHaGs?oc=5>
+
+### 特朗普总统宣布，俄罗斯和乌克兰双方同意5月9日起停火三天
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-05-08 21:21
+- 链接: <https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQ3h6QV9BZTQ0VXhSY21fcnNPOU83SGJFTWdfSTBlTXBnMUppM19raEotdFU0OTdQanVLNXdwVFRYYnkySi14b3dYZzZ4Wjk4a0gxdTNSVXJyNV85UkJFeG4wMWNqOW9kUXlWNlB2V09ReVdZS1VsRE5wZ3Zjc2lBSEFOMGRmelZzSTFlZmtVQ2dyWktqOTlia2JELUl4VFV1LVdqTHA3bmhKaG1TeFc3em5uTHNGVGw2ckNscVVYUktUVllpZkFnVFh6SWR3dGtKbVJqQ3c5UmFSYlFmX2VOdE5LRTRqcGZpbURB0gHuAUFVX3lxTFB4LS1ZcXlqd1puaDU2LVRnNkNGNC0xa2E3MXBhaXhTcGNuSFZ4NFJEVFBmNHBveEtEb04wNnlaSk9LZnVWTXUxTjQyNEVsakczYWtOWDM3UDVVd050cWhGSGc1dGtNT3ZzTVFVQXNvM1RGdUJSMnk0c1JKODJFVmR5anFfRzhSQ09IdUxkVWJjZTJQenB0ZW8yWFFVZnFubWtxTUJEN2IzYmFQWHZzSmxYQnBDNUgzOExJdDZuQTBOWnU2MjdCRG8zdk11XzFJVzlJb0VYcHdJNXN4NFpTUXI1b09Nbkx1ZTRvc2dnYVE?oc=5>
+
+### Trump Media & Technology(Q1)亏损扩大
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: AASTOCKS.com
+- 时间: 2026-05-08 20:49
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE5NRE1BcTFJUkludWRyakgyYVJ1T2d0NTBwQVZ4OGw4NnRWMGJIdWJzbkxYWUZEa290N1J2TC1CYUxqRFlQYnU5SUFUU3NQTDFUZlJESG96RjVGQnEzVERRMTg5QU5YdXZxVmc5aWZrUQ?oc=5>
+
+### 特朗普媒体科技集团（Trump Media & Technology Group）公布了其2026年第一季度的财务业绩
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Bitget
+- 时间: 2026-05-08 05:33
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBETkpkeFNJY21FU2lHbnU4bU40VG9jN1FCNDI0ZmdSUDhHclAxc0lIdnU4M2xKMXJrS2lRTlFrYmlNbWdfOEVEbFJNS010MWoxbmJnQ0Z6ZXhKZ0REWENqZ3FMcE82QdIBa0FVX3lxTE42QUFmeDhkRFRFdGNTUWNZOVg1NV90dEhuZ2UxcnprM185NXZuTENHakc2cWZhbzI4aFlmU1czemt5VkZfUVp5RS0tVGpVNnNQWnlvOGNneTVqTUNsSzdvRnUzakNfV01YbTIw?oc=5>
+
+### Trump Media & Technology(Q1)亏损扩大
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: AASTOCKS.com
+- 时间: 2026-05-08 20:49
+- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxNUndaUlBicjFMdWxhTjdJQ256bU5iZ2t2S2lBb1I0T3loSlJTRDBTX1pQSEhRaXhoWkVDdlYybWQzNTNEdktBQ04wVmR3b1g3bEN6TmlvS0lOUE9rMVFWMWNGd0pOdW16UTFTN1g0RWlGVk9NLXB4dk1NYTZfMFFwanZB?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-08 21:55  (8 条)
+
+- **特朗普** | 特朗普称俄乌9日起停火三天 互换千名战俘 <https://news.google.com/rss/articles/CBMieEFVX3lxTE44a204MTlUTGotR3kwVDB4bnRJbTREdW1BUm5LZkRfRUZ4aGo0a184ZWhpeGFCYW9kejJBZ2dFSlpTQmxnSVhUeEE2bktMdThYSUNOTkh2aDNWdUxUbUFTalQzZjA2NFZDU3VEeE9qMDVTMHRxcWQzYQ?oc=5>
+- **特朗普** | 美贸易法院裁定特朗普的10%全球关税无效后 司法部提出上诉 <https://news.google.com/rss/articles/CBMingJBVV95cUxPYTdMYURoTzZ1LUNDaUJDa3BxS2trdGd3Qm5IcmczMEtWN1N2dUpwQlpxWXNQUFQ2V2R0X200MmpidDduaHV0blNDNVMzQmJkR3l4bHlwX1FmdS1waWlSOUwtYlVkdWE2eFNHcTkzSGczazl5ZWJBUFlBd3ZzaFJpSE5ZT0pCWHpHLXp5cXdjZmFiLXVJazB5VzJLQW5KSzdQZ0kxcXctUkpXb3JEOUJWci12dGthWHJlZ0E5YWhuZG1RdEd2VDBFS0JyYUlacTM2TzhfV2dJSk14QjdTYTVyQWNXSHRJUGltY3NUQVd0dWtwN01VQkpCVS1FTzlhTXVrS3A0N0VUWk9tZXF5VWtmOC1yd0o0NXE4Z29GaVZ3?oc=5>
+- **特朗普** | 特朗普威胁欧盟：新截止日前未签贸易协议，将征“更高”关税 <https://news.google.com/rss/articles/CBMiqAJBVV95cUxOV1kyTUc2OUs1WlVhc2NZX2VhY2FFeVZSSXJqTHhqbU5vek9NeUJKd3A0Umc1NjNuRTRJSHprbGxLRU80UTZ2eFVtX1YyRXBHWXZOVUxkMUc5dHg5ZTJzLXVnd1FodzliWDkxbUptTFcxUkkySmVZT19GcmViM2ZQOTNFOHFsQk9hNDl0ckxTWU5MMnBtVVppU0JKUnpLZkc3cjNkVTc3ZzhmYXZPQmM3em5zZlV6SDhJRmptT3dZcHJrR3hwRm1RUFFEV2dUNGZQYzNCbDNXQjkyb3lxR3JYeHFKLUE5M0lSVG94U29za2U0SnFqcjBHMmR6ck9QZjBpLUhiYjRfNHpsX2YwcUxHVm10dHJHcnZaTVpSZU1vaHNUeFFQbm14WA?oc=5>
+- **特朗普** | 特朗普宣布俄乌将停火三天 莫斯科阅兵前双方仍持续交火 <https://news.google.com/rss/articles/CBMijANBVV95cUxQNXdBUmlZSExnTEYtTVVFcHFRc2xfSlpWTHdiNW81VTVHRGwxaklwUTlwNE9GMWdEUDNVNUU2NGYxWEdjWEUzekpQQmFEMHFicTlkZU1abDY4Y2p4X05La0VySEUySERmRnRkVVJOS19mbG9qMG1RYm14RFF2SVFKOEhoVlhGYXNIcncyUG9oSEVxbC1BWVY0blBfVENPNDVpYWl3OGd3eHJrZVZuYk5xTG51eGFWbEJQSWxkMTlZaXdudWNUN3dINDN1eTZtQzM5d29mYVRvTzEwZHNmOVBPck1FREZOdmxkdm9PUkxya1RhTGwxSGp0ZDU3eUo4NHQwWHVzbWVsX3ZBdTBVYWxPYS1NT2NYTFp0OWp2M0dIQk0ta2RyNmVfMHNqaEwwNXN2RGtOcE4zS1EyRk54XzNTYy1GcnE2TnZiQ2JHWDVOYVVJWTZId2Y0djlDYVhZX0JSWVJtWFU0aFJTdHBodGVjZXM1RU5kcWxVeHRmdHEyS2hRY3UtRnlwOHBHaGs?oc=5>
+- **特朗普** | 特朗普总统宣布，俄罗斯和乌克兰双方同意5月9日起停火三天 <https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQ3h6QV9BZTQ0VXhSY21fcnNPOU83SGJFTWdfSTBlTXBnMUppM19raEotdFU0OTdQanVLNXdwVFRYYnkySi14b3dYZzZ4Wjk4a0gxdTNSVXJyNV85UkJFeG4wMWNqOW9kUXlWNlB2V09ReVdZS1VsRE5wZ3Zjc2lBSEFOMGRmelZzSTFlZmtVQ2dyWktqOTlia2JELUl4VFV1LVdqTHA3bmhKaG1TeFc3em5uTHNGVGw2ckNscVVYUktUVllpZkFnVFh6SWR3dGtKbVJqQ3c5UmFSYlFmX2VOdE5LRTRqcGZpbURB0gHuAUFVX3lxTFB4LS1ZcXlqd1puaDU2LVRnNkNGNC0xa2E3MXBhaXhTcGNuSFZ4NFJEVFBmNHBveEtEb04wNnlaSk9LZnVWTXUxTjQyNEVsakczYWtOWDM3UDVVd050cWhGSGc1dGtNT3ZzTVFVQXNvM1RGdUJSMnk0c1JKODJFVmR5anFfRzhSQ09IdUxkVWJjZTJQenB0ZW8yWFFVZnFubWtxTUJEN2IzYmFQWHZzSmxYQnBDNUgzOExJdDZuQTBOWnU2MjdCRG8zdk11XzFJVzlJb0VYcHdJNXN4NFpTUXI1b09Nbkx1ZTRvc2dnYVE?oc=5>
+- **Trump** | Trump Media & Technology(Q1)亏损扩大 <https://news.google.com/rss/articles/CBMib0FVX3lxTE5NRE1BcTFJUkludWRyakgyYVJ1T2d0NTBwQVZ4OGw4NnRWMGJIdWJzbkxYWUZEa290N1J2TC1CYUxqRFlQYnU5SUFUU3NQTDFUZlJESG96RjVGQnEzVERRMTg5QU5YdXZxVmc5aWZrUQ?oc=5>
+- **Trump** | 特朗普媒体科技集团（Trump Media & Technology Group）公布了其2026年第一季度的财务业绩 <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBETkpkeFNJY21FU2lHbnU4bU40VG9jN1FCNDI0ZmdSUDhHclAxc0lIdnU4M2xKMXJrS2lRTlFrYmlNbWdfOEVEbFJNS010MWoxbmJnQ0Z6ZXhKZ0REWENqZ3FMcE82QdIBa0FVX3lxTE42QUFmeDhkRFRFdGNTUWNZOVg1NV90dEhuZ2UxcnprM185NXZuTENHakc2cWZhbzI4aFlmU1czemt5VkZfUVp5RS0tVGpVNnNQWnlvOGNneTVqTUNsSzdvRnUzakNfV01YbTIw?oc=5>
+- **Trump** | Trump Media & Technology(Q1)亏损扩大 <https://news.google.com/rss/articles/CBMiggFBVV95cUxNUndaUlBicjFMdWxhTjdJQ256bU5iZ2t2S2lBb1I0T3loSlJTRDBTX1pQSEhRaXhoWkVDdlYybWQzNTNEdktBQ04wVmR3b1g3bEN6TmlvS0lOUE9rMVFWMWNGd0pOdW16UTFTN1g0RWlGVk9NLXB4dk1NYTZfMFFwanZB?oc=5>
 
 ### 2026-05-08 20:54  (2 条)
 
