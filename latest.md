@@ -1,62 +1,62 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-08 11:52**
-- 本轮扫到 529 条, 新增 **6** 条
+- 最近更新: **2026-05-08 13:19**
+- 本轮扫到 534 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (5 条)
 
 ### 刘雨昕可爱困难户，把主题曲消化成自己的风格，杀回A 班
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6579089051_m18824ee9b033020qfy.html>
+- 链接: <https://k.sina.com.cn/article_7879924004_m1d5ae192403301yo0k.html>
 
-### 德国推动缔结新联盟，因特朗普加剧西方阵营裂痕
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-08 11:47
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1lMkJQc0JNdTh3djFZZUNQZW9sVXYzamtPYUZocTYwcUxBUElFQkIxNVBoYjZCckQ0ckVUTUM5eW41MERrZXp0UExWWQ?oc=5>
-
-### 特朗普又遭重大打击！美法院裁决：其新宣布的“征收10%全球进口关税”政策，法律依据不成立！此前收的上万亿元关税已被裁定违法将退还
+### 特朗普全球关税又受阻！122关税被指缺乏依据，后续也能退款？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-05-08 08:26
-- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZHphYmZ0TWd1czRrQ3VFQkdqSjRJeWZhMEhnaEs4QXRpa002a2wtR3JscWtoY3AxX0NmRVpGUjYzWlI3ME1CR3ZDamRUdjc0ZDdnNngxMFJpeWhxb2pKQzFZeG9Nd0hMYzBiQjY4SmpVNF85bzhMWVhvUVlNMXBQOXFURE1Ca2o0bmpZS2I5aHdiaUt6MUZ0eFNZUjJqQjZXRXVILVkzOXpheHA0UmxBTjZ0a1FZY3FpV1dPTGdGVnZWeWtaMVEyNHBqaVB1QU16X1E?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-05-08 11:17
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5sZ3FGWkxzaHY5MVZHTGZwa2NWZkY3d2dUWTRDdzRJUk83XzRlN3d0bkM4OWpDWGVoS1JpWnpBZjJwY3daSHR0aVZtSEk?oc=5>
 
-### 5月8日外盘头条：美国计划本周重启护航行动美国法院裁定特朗普10%进口关税违法OpenAI与博通芯片豪赌遇冷
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-07 21:30
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUm1HcHgtZHRuOUhaVmpWSXI1VmlQVk1VWkVROVZxSXZ5dGsyY05La283bno2TmR0VDR0R0NidDh2dzJXTmRJZlIyVUdyc2E2MEU2TWk5Q0JFX2dwRExObjJPUjBOSEtZZy00RXpULXpoNHJob2pmUk1JZmt3UVNYRmRyRzMxMEF6MTlTRmFhenhHSDlVYlBEdkI4bXY3dGJfTmtiSkkwSFlickFtR3VjcEJVQ192M2RqUW9JN3RlSHNvSHZvNURYZGlPalI5ek9Fa2phd3dlUVNfYlR5RFJn?oc=5>
-
-### 特朗普发图称已降低油价
+### 特朗普威胁欧盟：新期限前不签贸易协议将面临“高得多”的关税
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-08 10:00
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBXa2RYaTVjMnJwNjZEd01vVWFNWFlVX1VtN0JGZklLdklhN1EybThtNURkSHFHWHJrcDdBaW1ZZ0l0RUk2X3hDelRUajJNcTRibTVQRmlfY0VKNE96dkNTSFZJa2hJZnlIYzNzSnJYcEdoN2FRcDNlNQ?oc=5>
+- 场馆: Sina finance
+- 时间: 2026-05-08 12:12
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxPMmhwSDMxemNiUnBtclpKQkFNbS1QXzZ1Und1NW90cFdEMnZzWWUwemVHUmRRSWo5eGpwaHZiUzBSenRRNDdDaGhSWERGZzdjVUZ5U0hNbGp6Z0xoSnR6LUZQOW83TUhXTXJCeWU5dzNjRjBZVEp1UVE1d1Q4ODVINTZWZVJ6ZVU?oc=5>
 
-### 白宫记者晚宴枪击案：31岁男子被捕、特勤人员中弹——我们还知道什么？
+### 特朗普NACHO是什么意思？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中国日报网
+- 时间: 2026-05-08 07:31
+- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTFAxcXlnQzJsMzRCejZxY0FHc0o4MmxOUHdocEJONk9mRm9DcW91NFloYmRnclNOTWJUMlVndy0zZXFNNTJaaU9QMmVDejQzbXRObGI3YnU0b09XSUxPYUdQNVg1WlFxd05Id3pBMXZwdkQ1MjFwTUQ1VkJVdw?oc=5>
+
+### 美股期货开市前造好；特朗普称尽管霍尔木兹海峡发生零星冲突但停火仍然生效财经新闻Financial News
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-04-26 07:00
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFA5NUQ1RmNrQkNrVGxMU3lqbWVWYmRHVnZpSjRIR2NudE5TdlRKdVJuNllKdFh2aEU4alZmMjZZZ3hKS1p1czRTb3RRaVdyZV9pZDNGemo0cUQzdWE4NmVoLUVrTzJ5d9IBa0FVX3lxTE1PSlMwdTZ0NnFGVk5FSGN2U205eEVXMzAtenhoOTJGVnhQcTZjTVpyOGxvMl93azh0akRadnlKYjNWU0FqeFdURlpOZUxadlV6VzRLTFloZ0JKa3hkMS1VaER4SFZ6U2dFWm0w?oc=5>
+- 场馆: AASTOCKS.com
+- 时间: 2026-05-08 12:48
+- 链接: <https://news.google.com/rss/articles/CBMihAFBVV95cUxNdVJRUFB5UENLb2VDXzNaSFhGZEowNl85TzFmT0VzQklhMW1fZXYwRGVKSy1Uc3RlM212eG4xbGN4dkdJeHUybjhKU0ZQcnhRMk5GRkJFY2tFODBEemdJSFkzSlR5SVRlcWVaUm4ydkNIYU1DaWo1Z2d3SnFZMlBhUEo5Sng?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-08 13:19  (5 条)
+
+- **蔡徐坤** | 刘雨昕可爱困难户，把主题曲消化成自己的风格，杀回A 班 <https://k.sina.com.cn/article_7879924004_m1d5ae192403301yo0k.html>
+- **特朗普** | 特朗普全球关税又受阻！122关税被指缺乏依据，后续也能退款？ <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5sZ3FGWkxzaHY5MVZHTGZwa2NWZkY3d2dUWTRDdzRJUk83XzRlN3d0bkM4OWpDWGVoS1JpWnpBZjJwY3daSHR0aVZtSEk?oc=5>
+- **特朗普** | 特朗普威胁欧盟：新期限前不签贸易协议将面临“高得多”的关税 <https://news.google.com/rss/articles/CBMihwFBVV95cUxPMmhwSDMxemNiUnBtclpKQkFNbS1QXzZ1Und1NW90cFdEMnZzWWUwemVHUmRRSWo5eGpwaHZiUzBSenRRNDdDaGhSWERGZzdjVUZ5U0hNbGp6Z0xoSnR6LUZQOW83TUhXTXJCeWU5dzNjRjBZVEp1UVE1d1Q4ODVINTZWZVJ6ZVU?oc=5>
+- **特朗普** | 特朗普NACHO是什么意思？ <https://news.google.com/rss/articles/CBMie0FVX3lxTFAxcXlnQzJsMzRCejZxY0FHc0o4MmxOUHdocEJONk9mRm9DcW91NFloYmRnclNOTWJUMlVndy0zZXFNNTJaaU9QMmVDejQzbXRObGI3YnU0b09XSUxPYUdQNVg1WlFxd05Id3pBMXZwdkQ1MjFwTUQ1VkJVdw?oc=5>
+- **Trump** | 美股期货开市前造好；特朗普称尽管霍尔木兹海峡发生零星冲突但停火仍然生效财经新闻Financial News <https://news.google.com/rss/articles/CBMihAFBVV95cUxNdVJRUFB5UENLb2VDXzNaSFhGZEowNl85TzFmT0VzQklhMW1fZXYwRGVKSy1Uc3RlM212eG4xbGN4dkdJeHUybjhKU0ZQcnhRMk5GRkJFY2tFODBEemdJSFkzSlR5SVRlcWVaUm4ydkNIYU1DaWo1Z2d3SnFZMlBhUEo5Sng?oc=5>
 
 ### 2026-05-08 11:52  (6 条)
 
