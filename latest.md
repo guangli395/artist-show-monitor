@@ -1,54 +1,73 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-08 13:19**
-- 本轮扫到 534 条, 新增 **5** 条
+- 最近更新: **2026-05-08 15:07**
+- 本轮扫到 540 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (6 条)
 
-### 刘雨昕可爱困难户，把主题曲消化成自己的风格，杀回A 班
+### 特朗普：共和党以......_7x24快讯_新浪财经
 
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924004_m1d5ae192403301yo0k.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-08 14:56
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFB6TU9aYW9LVmRVdmE2dmVicVcwQ2VJeEZ1UUJ5TkxibDJEMm1VbkxTQUI3Q2ZLVF9nOW1nOENFel9oWTFlOG1FVUJhOA?oc=5>
 
-### 特朗普全球关税又受阻！122关税被指缺乏依据，后续也能退款？
+### 巴西总统卢拉：特朗普告诉我，不考虑入侵古巴
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-05-08 13:55
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtQnROYURDYlJCVFpjRzZvdGNCWmc1dU9NenZxeVpzQWxsNDBfb0FUR0hzRWEtS3MzVXEzWjhCbzd0aXhTeUJ6WFZ6SGR4azlJeXduY0dmMzA5eldSekNOdQ?oc=5>
+
+### 哈里斯谈特朗普时飙脏话：不会把他当白痴看待
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-05-08 11:17
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5sZ3FGWkxzaHY5MVZHTGZwa2NWZkY3d2dUWTRDdzRJUk83XzRlN3d0bkM4OWpDWGVoS1JpWnpBZjJwY3daSHR0aVZtSEk?oc=5>
+- 时间: 2026-05-08 10:07
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5zeHV1NWRfWWVaM05KbmY4dHhaeC1kUXctUVRSYjlUNEZoLTZ3ajhLUC1abEQxZHNWcTBQQ1lTUDdnSUFFbFJCbXB1bms?oc=5>
 
-### 特朗普威胁欧盟：新期限前不签贸易协议将面临“高得多”的关税
+### 美国总统特朗普：真正的黄金——位于迈阿密多拉尔。由伟大的美国爱国者们打造。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: Sina finance
-- 时间: 2026-05-08 12:12
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxPMmhwSDMxemNiUnBtclpKQkFNbS1QXzZ1Und1NW90cFdEMnZzWWUwemVHUmRRSWo5eGpwaHZiUzBSenRRNDdDaGhSWERGZzdjVUZ5U0hNbGp6Z0xoSnR6LUZQOW83TUhXTXJCeWU5dzNjRjBZVEp1UVE1d1Q4ODVINTZWZVJ6ZVU?oc=5>
+- 时间: 2026-05-07 12:16
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxNbDZpRzhpS18weGVOYURXLVgxMXNSS2FIT0hRbUgtb1hqcTRnR2RELWoxZ2xHVkhoMGx0U295QXNqMV91TXR5cks4N25rUjNQdHJFOXlwemxGSFZvbDVNVmJMdjhXbThmb3l2ZzAzbjZ2SGoxckhtd1JSN3pFNHRScDJpdFdhY3c?oc=5>
 
-### 特朗普NACHO是什么意思？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中国日报网
-- 时间: 2026-05-08 07:31
-- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTFAxcXlnQzJsMzRCejZxY0FHc0o4MmxOUHdocEJONk9mRm9DcW91NFloYmRnclNOTWJUMlVndy0zZXFNNTJaaU9QMmVDejQzbXRObGI3YnU0b09XSUxPYUdQNVg1WlFxd05Id3pBMXZwdkQ1MjFwTUQ1VkJVdw?oc=5>
-
-### 美股期货开市前造好；特朗普称尽管霍尔木兹海峡发生零星冲突但停火仍然生效财经新闻Financial News
+### Trump says he will travel to China next Thursday
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: AASTOCKS.com
-- 时间: 2026-05-08 12:48
-- 链接: <https://news.google.com/rss/articles/CBMihAFBVV95cUxNdVJRUFB5UENLb2VDXzNaSFhGZEowNl85TzFmT0VzQklhMW1fZXYwRGVKSy1Uc3RlM212eG4xbGN4dkdJeHUybjhKU0ZQcnhRMk5GRkJFY2tFODBEemdJSFkzSlR5SVRlcWVaUm4ydkNIYU1DaWo1Z2d3SnFZMlBhUEo5Sng?oc=5>
+- 场馆: news.tvb.com
+- 时间: 2026-05-08 13:14
+- 链接: <https://news.google.com/rss/articles/CBMitwFBVV95cUxQamw5YWF2dFk0WGlYbDBsN242M3FvMFhNdTZHenZlT25PZ0hPWWpwNGdqU21nQzhUX2VaUnRBd253UjVCT25zcVZQcElrQnZaWnlYT1ZKWUlJMTgyb2paQldSZGUzTF9MaUt4VjVCVUFKNXd5WV8teW0ySUxrYkRJNFlrVVY3YjczcG52Umt2VVpFQTVMbW1UR3JkQ0pud2RMamo2Vk0yNUxWeVpjQnZSV0RLcWtxaWc?oc=5>
+
+### 特朗普全球征收10%关税政策 再次被美国法院裁定无效
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-05-08 14:10
+- 链接: <https://news.google.com/rss/articles/CBMi7AJBVV95cUxOUE9NQkNBWFIyeTdQTnhTTU9QbHF0cXp5cV9fdmNhZkl1OWcxRXNxYVdFZl9IUmtnUjh4ek9FN2lBTEg4SGpXRUlvd29rMi16SHRJUlFXVHlnbkdWSVdUenhrbHRPOEZZYXFPLTdhcTMwUHFDNjR4TmVIN204WEYwdVMwTTNRcEFmbHdVTUNhbnFOazVLLXR0c25oVndJWWpzQjUyclFVa3UtNFRrNUpCR3lmSDlhM0tYOFBBWkRpaThUcFVhMTlEcGRfcEtubnlkRExGcEZKUElicnBlYkMzY3lZRy1sbXhVYlg0YkxMcHJ4X2pxcGNnSHB3SU1aX3JjemFPZUhmRVZidkRrZFB0WHg4aVhodUpORFVMQ2FBaGhZN0pmMk00TU1BRWtBVll4NGxkWmpIT01sb1pya09BeVA3NHljRGRYSkgwbDhpaFhhNXBOZlo0WFdsREZzVmdHU0lUa0Q2Tmw2anlK?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-08 15:07  (6 条)
+
+- **特朗普** | 特朗普：共和党以......_7x24快讯_新浪财经 <https://news.google.com/rss/articles/CBMiS0FVX3lxTFB6TU9aYW9LVmRVdmE2dmVicVcwQ2VJeEZ1UUJ5TkxibDJEMm1VbkxTQUI3Q2ZLVF9nOW1nOENFel9oWTFlOG1FVUJhOA?oc=5>
+- **特朗普** | 巴西总统卢拉：特朗普告诉我，不考虑入侵古巴 <https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtQnROYURDYlJCVFpjRzZvdGNCWmc1dU9NenZxeVpzQWxsNDBfb0FUR0hzRWEtS3MzVXEzWjhCbzd0aXhTeUJ6WFZ6SGR4azlJeXduY0dmMzA5eldSekNOdQ?oc=5>
+- **特朗普** | 哈里斯谈特朗普时飙脏话：不会把他当白痴看待 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5zeHV1NWRfWWVaM05KbmY4dHhaeC1kUXctUVRSYjlUNEZoLTZ3ajhLUC1abEQxZHNWcTBQQ1lTUDdnSUFFbFJCbXB1bms?oc=5>
+- **特朗普** | 美国总统特朗普：真正的黄金——位于迈阿密多拉尔。由伟大的美国爱国者们打造。 <https://news.google.com/rss/articles/CBMihwFBVV95cUxNbDZpRzhpS18weGVOYURXLVgxMXNSS2FIT0hRbUgtb1hqcTRnR2RELWoxZ2xHVkhoMGx0U295QXNqMV91TXR5cks4N25rUjNQdHJFOXlwemxGSFZvbDVNVmJMdjhXbThmb3l2ZzAzbjZ2SGoxckhtd1JSN3pFNHRScDJpdFdhY3c?oc=5>
+- **Trump** | Trump says he will travel to China next Thursday <https://news.google.com/rss/articles/CBMitwFBVV95cUxQamw5YWF2dFk0WGlYbDBsN242M3FvMFhNdTZHenZlT25PZ0hPWWpwNGdqU21nQzhUX2VaUnRBd253UjVCT25zcVZQcElrQnZaWnlYT1ZKWUlJMTgyb2paQldSZGUzTF9MaUt4VjVCVUFKNXd5WV8teW0ySUxrYkRJNFlrVVY3YjczcG52Umt2VVpFQTVMbW1UR3JkQ0pud2RMamo2Vk0yNUxWeVpjQnZSV0RLcWtxaWc?oc=5>
+- **Trump** | 特朗普全球征收10%关税政策 再次被美国法院裁定无效 <https://news.google.com/rss/articles/CBMi7AJBVV95cUxOUE9NQkNBWFIyeTdQTnhTTU9QbHF0cXp5cV9fdmNhZkl1OWcxRXNxYVdFZl9IUmtnUjh4ek9FN2lBTEg4SGpXRUlvd29rMi16SHRJUlFXVHlnbkdWSVdUenhrbHRPOEZZYXFPLTdhcTMwUHFDNjR4TmVIN204WEYwdVMwTTNRcEFmbHdVTUNhbnFOazVLLXR0c25oVndJWWpzQjUyclFVa3UtNFRrNUpCR3lmSDlhM0tYOFBBWkRpaThUcFVhMTlEcGRfcEtubnlkRExGcEZKUElicnBlYkMzY3lZRy1sbXhVYlg0YkxMcHJ4X2pxcGNnSHB3SU1aX3JjemFPZUhmRVZidkRrZFB0WHg4aVhodUpORFVMQ2FBaGhZN0pmMk00TU1BRWtBVll4NGxkWmpIT01sb1pya09BeVA3NHljRGRYSkgwbDhpaFhhNXBOZlo0WFdsREZzVmdHU0lUa0Q2Tmw2anlK?oc=5>
 
 ### 2026-05-08 13:19  (5 条)
 
