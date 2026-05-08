@@ -1,56 +1,71 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-08 10:20**
-- 本轮扫到 523 条, 新增 **5** 条
+- 最近更新: **2026-05-08 11:52**
+- 本轮扫到 529 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (6 条)
 
-### 特朗普威胁欧盟：7月4日之前履行贸易协议，否则加税
+### 刘雨昕可爱困难户，把主题曲消化成自己的风格，杀回A 班
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-05-08 07:32
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBDa0JUaXRUdndxbnhCeE8xWlhpc3NkUUhsZ0x6ODI1NUFCMktNNTQ4VWZmNFVkOW8yMi04NFZIQmhTS2w3eUI4MDZ0UzE?oc=5>
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_6579089051_m18824ee9b033020qfy.html>
 
-### 特朗普威胁欧盟：新截止日前未签贸易协议，将征“更高”关税
+### 德国推动缔结新联盟，因特朗普加剧西方阵营裂痕
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-05-08 09:42
-- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxPdElGUnJzVE1DR0ZjQVFHMmtJQUtuMTN1aGluNS1jbEhyVFVkaUVCaVRjbzFyNGg1VmlVcjdaUWFZWXhfd3NmX1FBUzVnYU01Q3dsbHU2ZVJlcUViZjlyYmtybjNvSFNCbG12RWxiZHFaSEppOUR1dnNpVG5GNzI4NGVYRmJGcUVIeDBuOEhvNHM1ajJSc013STNXWW8?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-05-08 11:47
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1lMkJQc0JNdTh3djFZZUNQZW9sVXYzamtPYUZocTYwcUxBUElFQkIxNVBoYjZCckQ0ckVUTUM5eW41MERrZXp0UExWWQ?oc=5>
 
-### 特朗普发出“最后通牒”！
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 每日经济新闻
-- 时间: 2026-05-08 07:47
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zSi0tdWxqa1FMVXh0R1ZKdmE0NkpWaWhQd0VCdnhBRzFGTmJXOGdKZ2wybEwwUUFMdDdtMHVvZlRIRFZMSE5CcFVsYVY3QXk3QjF5YkpvazN1MGhEMnBzYmU2V0phZw?oc=5>
-
-### 信你个鬼！“修园子2亿变10亿，还要拿纳税人的钱”-观察者网
+### 特朗普又遭重大打击！美法院裁决：其新宣布的“征收10%全球进口关税”政策，法律依据不成立！此前收的上万亿元关税已被裁定违法将退还
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: guancha.cn
-- 时间: 2026-05-08 05:12
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE54SHg2allFMzRFR1VTOHpwRVRGamxaQkhwaUd1QllJa3l3d3FXdG1nc1pSOTN3d1dWUGZjcjhCdUdmSGZVdmFPX2xnNWRuZGVHS2RkakNLUlA3ZXdXbU1WZ2cyWGdmRVdKcHc?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-05-08 08:26
+- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZHphYmZ0TWd1czRrQ3VFQkdqSjRJeWZhMEhnaEs4QXRpa002a2wtR3JscWtoY3AxX0NmRVpGUjYzWlI3ME1CR3ZDamRUdjc0ZDdnNngxMFJpeWhxb2pKQzFZeG9Nd0hMYzBiQjY4SmpVNF85bzhMWVhvUVlNMXBQOXFURE1Ca2o0bmpZS2I5aHdiaUt6MUZ0eFNZUjJqQjZXRXVILVkzOXpheHA0UmxBTjZ0a1FZY3FpV1dPTGdGVnZWeWtaMVEyNHBqaVB1QU16X1E?oc=5>
 
-### 英伟达CEO黄仁勋：若受邀，将随特朗普一同访问中国
+### 5月8日外盘头条：美国计划本周重启护航行动美国法院裁定特朗普10%进口关税违法OpenAI与博通芯片豪赌遇冷
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-05-08 04:19
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIbWNHc1FidzB2dVdKVG9UOVp3Q2xfMTM0Mm1tUHg4X28xQ044MEg2ZllBU2dCSFVOR0hXbldncW1qTE9HOF9Cd0g4R0p6clpNWFVGZ0JXamNGbUM1SWpjTg?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-05-07 21:30
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUm1HcHgtZHRuOUhaVmpWSXI1VmlQVk1VWkVROVZxSXZ5dGsyY05La283bno2TmR0VDR0R0NidDh2dzJXTmRJZlIyVUdyc2E2MEU2TWk5Q0JFX2dwRExObjJPUjBOSEtZZy00RXpULXpoNHJob2pmUk1JZmt3UVNYRmRyRzMxMEF6MTlTRmFhenhHSDlVYlBEdkI4bXY3dGJfTmtiSkkwSFlickFtR3VjcEJVQ192M2RqUW9JN3RlSHNvSHZvNURYZGlPalI5ek9Fa2phd3dlUVNfYlR5RFJn?oc=5>
+
+### 特朗普发图称已降低油价
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-08 10:00
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBXa2RYaTVjMnJwNjZEd01vVWFNWFlVX1VtN0JGZklLdklhN1EybThtNURkSHFHWHJrcDdBaW1ZZ0l0RUk2X3hDelRUajJNcTRibTVQRmlfY0VKNE96dkNTSFZJa2hJZnlIYzNzSnJYcEdoN2FRcDNlNQ?oc=5>
+
+### 白宫记者晚宴枪击案：31岁男子被捕、特勤人员中弹——我们还知道什么？
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: BBC
+- 时间: 2026-04-26 07:00
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFA5NUQ1RmNrQkNrVGxMU3lqbWVWYmRHVnZpSjRIR2NudE5TdlRKdVJuNllKdFh2aEU4alZmMjZZZ3hKS1p1czRTb3RRaVdyZV9pZDNGemo0cUQzdWE4NmVoLUVrTzJ5d9IBa0FVX3lxTE1PSlMwdTZ0NnFGVk5FSGN2U205eEVXMzAtenhoOTJGVnhQcTZjTVpyOGxvMl93azh0akRadnlKYjNWU0FqeFdURlpOZUxadlV6VzRLTFloZ0JKa3hkMS1VaER4SFZ6U2dFWm0w?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-08 11:52  (6 条)
+
+- **蔡徐坤** | 刘雨昕可爱困难户，把主题曲消化成自己的风格，杀回A 班 <https://k.sina.com.cn/article_6579089051_m18824ee9b033020qfy.html>
+- **特朗普** | 德国推动缔结新联盟，因特朗普加剧西方阵营裂痕 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1lMkJQc0JNdTh3djFZZUNQZW9sVXYzamtPYUZocTYwcUxBUElFQkIxNVBoYjZCckQ0ckVUTUM5eW41MERrZXp0UExWWQ?oc=5>
+- **特朗普** | 特朗普又遭重大打击！美法院裁决：其新宣布的“征收10%全球进口关税”政策，法律依据不成立！此前收的上万亿元关税已被裁定违法将退还 <https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZHphYmZ0TWd1czRrQ3VFQkdqSjRJeWZhMEhnaEs4QXRpa002a2wtR3JscWtoY3AxX0NmRVpGUjYzWlI3ME1CR3ZDamRUdjc0ZDdnNngxMFJpeWhxb2pKQzFZeG9Nd0hMYzBiQjY4SmpVNF85bzhMWVhvUVlNMXBQOXFURE1Ca2o0bmpZS2I5aHdiaUt6MUZ0eFNZUjJqQjZXRXVILVkzOXpheHA0UmxBTjZ0a1FZY3FpV1dPTGdGVnZWeWtaMVEyNHBqaVB1QU16X1E?oc=5>
+- **特朗普** | 5月8日外盘头条：美国计划本周重启护航行动美国法院裁定特朗普10%进口关税违法OpenAI与博通芯片豪赌遇冷 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUm1HcHgtZHRuOUhaVmpWSXI1VmlQVk1VWkVROVZxSXZ5dGsyY05La283bno2TmR0VDR0R0NidDh2dzJXTmRJZlIyVUdyc2E2MEU2TWk5Q0JFX2dwRExObjJPUjBOSEtZZy00RXpULXpoNHJob2pmUk1JZmt3UVNYRmRyRzMxMEF6MTlTRmFhenhHSDlVYlBEdkI4bXY3dGJfTmtiSkkwSFlickFtR3VjcEJVQ192M2RqUW9JN3RlSHNvSHZvNURYZGlPalI5ek9Fa2phd3dlUVNfYlR5RFJn?oc=5>
+- **特朗普** | 特朗普发图称已降低油价 <https://news.google.com/rss/articles/CBMieEFVX3lxTFBXa2RYaTVjMnJwNjZEd01vVWFNWFlVX1VtN0JGZklLdklhN1EybThtNURkSHFHWHJrcDdBaW1ZZ0l0RUk2X3hDelRUajJNcTRibTVQRmlfY0VKNE96dkNTSFZJa2hJZnlIYzNzSnJYcEdoN2FRcDNlNQ?oc=5>
+- **Trump** | 白宫记者晚宴枪击案：31岁男子被捕、特勤人员中弹——我们还知道什么？ <https://news.google.com/rss/articles/CBMiZkFVX3lxTFA5NUQ1RmNrQkNrVGxMU3lqbWVWYmRHVnZpSjRIR2NudE5TdlRKdVJuNllKdFh2aEU4alZmMjZZZ3hKS1p1czRTb3RRaVdyZV9pZDNGemo0cUQzdWE4NmVoLUVrTzJ5d9IBa0FVX3lxTE1PSlMwdTZ0NnFGVk5FSGN2U205eEVXMzAtenhoOTJGVnhQcTZjTVpyOGxvMl93azh0akRadnlKYjNWU0FqeFdURlpOZUxadlV6VzRLTFloZ0JKa3hkMS1VaER4SFZ6U2dFWm0w?oc=5>
 
 ### 2026-05-08 10:20  (5 条)
 
