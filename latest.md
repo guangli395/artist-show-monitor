@@ -1,72 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-08 22:52**
-- 本轮扫到 567 条, 新增 **7** 条
+- 最近更新: **2026-05-08 23:52**
+- 本轮扫到 572 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (5 条)
 
-### 特朗普即将访问中国 美中关系面临多重考验
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-05-08 22:00
-- 链接: <https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZUMwNWsxcktTRkNzTjN1alFiNUNoWnI0emtraFhqYUk5X1ByUVQ4TWJsbUZycU5leVoyV1NGREJSWk1YZHNhRlFJd1ZfOFV4aVJ2Q25ZZjZuTjBQM2tqUmhPV0hwTEdPQklxSzdORWF6TXNxUlBUVExtVm1zSnJJZ2NQaWlJNk01cjJYUFN2YTBjWEtxY3RXQUk5WFVRVlRtTk5FT3NTME45OGdBRG04b3B4VjI4S2JRVHVOWDBkWC04a2pyMUIySWlUa1dDX1RHZFhvZlJIaw?oc=5>
-
-### 特朗普将于明日出席在弗吉尼亚州举行的LIV高尔夫锦标赛。
+### “特朗普来谈也好，来打也罢，我们不怕”-观察者网
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-08 22:19
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE95Z1V4ZXNZWG9qRldpMXVpUUEyTFo1QXNQb05QVGMxTV9lVlRzQzlMV2FzdEVwem9MZjVNQVVJVThMRTd3YnhXQTVKVQ?oc=5>
+- 场馆: 观察者
+- 时间: 2026-05-08 01:10
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE95cHFSYmVYektOZlJFcnRMODVSWTBab3ZBa0NMYjFfODFXUDFhTWFzV000WWFRdEs3bmZZN0loQXQ3d2txYzRVXy1kNF9yWUZ2bzZQd0RObjBsczRHVlkxWkdJWHIxNWNlZlE?oc=5>
 
-### 美国前助理国务卿冯稼时：特朗普关税政策完全失败
+### 特朗普：或把撤离德国的美军调往波兰。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-06 05:46
-- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxNRUh2cS05NVQ1Nlk5eV9xT040VVF1Z3NESVdGMEZhaDJ5ZThaZFVDV2oyZDRLLUdsX0xBQ0NocEFLaGtxalVpR2drbzU0bFZ0bTdoTnRpdm1qSmR5OGl1d0lmWWF6V3YyZ190b0RuYm9hRHRGWHpCT2UxMGZSekMzMExUSzZiWDQzRDNuQ0EweS1pb1FzQi02cmlIVTUtWDlDS0xta2Y3a3VVWDZIX0JtOW50blFoajhfSTdKMy1wNlN1bzFoNndZWWwtLWlYWEk?oc=5>
+- 时间: 2026-05-08 22:40
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBTSEpVNkI1a21lOWhyLTNGbWNNVjhaWHhQVFRUcjhtWlBlNTljXzJGc3M2QTNFV1RlYXQ3M1RiU0E0XzVzRmtJc0dvVQ?oc=5>
 
-### 特朗普：与巴西总统卢拉会晤非常成功。
+### 特朗普：乌克兰-俄罗斯停火可能持续超过3天。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-05-08 22:38
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9oOU9kbXJjVlpRX0ExcGU0dzR4OGlVVE9WUkxob2owQ0ZVYnZhZ0NnR2JBWjhjTXFObjFxSUZNdG5ZREtwd2lHWmNpaw?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBWdi02ZUgxRHNCd0VCWlhYdDRKVmZ2dEs0TndodEZPU1ktUGVQQ1N3VUg1MWR4OWJwckxRaTB2S3BjZm5seE55RnlBQQ?oc=5>
 
-### US President Donald Trump says truce with Iran still 'in effect’
+### 特朗普：巴西想和我们做生意。
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-08 22:37
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE90MENyR0tCLWJoYmFJTkFOU1l1eC12NnJEU1VXSGhRWnIyX1Yzc1d2Vnp1ZHFhTkF2QTRvTk56cU9kRDlja05pWm1Dbw?oc=5>
+
+### Trump Media & Technology(Q1)亏损扩大
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: TMGM
-- 时间: 2026-05-08 03:37
-- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcmZDT0JvZ0g2ZEFSTVltYkl4WUFPZUd6Slg1aVRvbHFxU1c1NFlRZmRPYV9zUm1PVXdaMlBvb2d6UnJkWG9xYlVpUlRzVFdXRnQ5UUNmN1dmbVg4b0lmcFlvbklQSEpyTkgxT0tpSDBQaXNMcUhkQlJmMzhjTDQ4b3pVWHhmdGprSUFOZlE0OFdhTEFnbWo0dUhBS0xXN2VYbXNPUFVidm9KdWVKX2dZZ0x4emowSFFXZ3RQVmJEZ2Q4dmpoYVNBcE1vYVBVN2RWR3c?oc=5>
-
-### Press Release: Trump Media & Technology Group Reports First Quarter 2026 Results
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 富途牛牛
-- 时间: 2026-05-08 20:30
-- 链接: <https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSEVacGxLdHI2V2ZBYUVSOE1PMzkxWEl5MlFEY09ZNU42eEhzYlpBZU1YbEFMaEd6OEdEaDNaQmNiUjZiZ3FpYkVpSVM5SktCU0UtT2VsZGNzSkJRY3BNNHliSlRmSzlaMnVIY1JtWTFaUTIzWk5pSGZQeTAtX1RMSDNhMUNzQnZHOEZIWk1vUGhUU18zUDVpaC1sLVVfWnNIejMweUhJM3JKakE?oc=5>
-
-### 五角大楼开始公布UFO解密文件
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-05-08 18:31
-- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxQanpSMThOM0xNa2h3OERyZGc5SFNMY2pWTlpRdXNIcHIxR1RjZ0RfUHZOX0dHNmdLZ29wOHJLTXAycTNrclhLd040Yk1zdUNEQmhiOGRNWDNGem9TWGoyeDZPakVsbXJLdHpISFRkR0lSaElqNE1jdXVaeFVGdUV6Y0Utd2dhWmxTSVFWMnl3V2JfMFcwbUpvbkhJdVBNcmgx0gGjAUFVX3lxTE52b2NjWUJEZDQyZG4xN0UtTUhvNFhMbnY0cm53Mmd3Ty1ZZ210cmdpcVpaMG44NlRoZDR6RUtTcTEyMm5wWTV4N0tTVy1nbDFydFNwX3BPank5UnNlWjVYN3BZR3pzTVkzU09sdVpyb3l1TnpXMEpNM25qU1BIRWNJWnA2ZktNc3NwVjRPNUMxRmJsUWhEVWQ3SlI4dWtXNXktd2s?oc=5>
+- 场馆: AASTOCKS.com
+- 时间: 2026-05-08 20:49
+- 链接: <https://news.google.com/rss/articles/CBMinwFBVV95cUxPQW02YXZ6RXduZEQyUFN0OVYyQldvWGFQVGdCVHJ3U0kybTRzc25QMmhseWZ2eElXVmc5cmZYaE5CRWlfb01Gc1JpRXNkeUpKemNSVjdKZnppcnUzeDNlZXpuc2UxQmlRdmFTWDZIQUx0SWs3R1J6cjZMTWJ0MGNjQzBVVmNtQk5oYUxZQTdYZTUwREJzQmo0LUxwYzJOWEE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-08 23:52  (5 条)
+
+- **特朗普** | “特朗普来谈也好，来打也罢，我们不怕”-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE95cHFSYmVYektOZlJFcnRMODVSWTBab3ZBa0NMYjFfODFXUDFhTWFzV000WWFRdEs3bmZZN0loQXQ3d2txYzRVXy1kNF9yWUZ2bzZQd0RObjBsczRHVlkxWkdJWHIxNWNlZlE?oc=5>
+- **特朗普** | 特朗普：或把撤离德国的美军调往波兰。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBTSEpVNkI1a21lOWhyLTNGbWNNVjhaWHhQVFRUcjhtWlBlNTljXzJGc3M2QTNFV1RlYXQ3M1RiU0E0XzVzRmtJc0dvVQ?oc=5>
+- **特朗普** | 特朗普：乌克兰-俄罗斯停火可能持续超过3天。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBWdi02ZUgxRHNCd0VCWlhYdDRKVmZ2dEs0TndodEZPU1ktUGVQQ1N3VUg1MWR4OWJwckxRaTB2S3BjZm5seE55RnlBQQ?oc=5>
+- **特朗普** | 特朗普：巴西想和我们做生意。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE90MENyR0tCLWJoYmFJTkFOU1l1eC12NnJEU1VXSGhRWnIyX1Yzc1d2Vnp1ZHFhTkF2QTRvTk56cU9kRDlja05pWm1Dbw?oc=5>
+- **Trump** | Trump Media & Technology(Q1)亏损扩大 <https://news.google.com/rss/articles/CBMinwFBVV95cUxPQW02YXZ6RXduZEQyUFN0OVYyQldvWGFQVGdCVHJ3U0kybTRzc25QMmhseWZ2eElXVmc5cmZYaE5CRWlfb01Gc1JpRXNkeUpKemNSVjdKZnppcnUzeDNlZXpuc2UxQmlRdmFTWDZIQUx0SWs3R1J6cjZMTWJ0MGNjQzBVVmNtQk5oYUxZQTdYZTUwREJzQmo0LUxwYzJOWEE?oc=5>
 
 ### 2026-05-08 22:52  (7 条)
 
