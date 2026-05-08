@@ -1,72 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-08 07:04**
-- 本轮扫到 513 条, 新增 **7** 条
+- 最近更新: **2026-05-08 08:54**
+- 本轮扫到 518 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (5 条)
 
-### 特朗普：伊朗今天同意了，明天又忘了
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-05-08 06:52
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5yMXZNXzU2RlNKV1BYYm5aVS1uTEJMZnkyZk4wT3YzM19uX01RVUxBeDZGZmJGLUpmWjVOZHdlVW9HOVlaVlFTNFZoMU8?oc=5>
-
-### 巴西总统卢拉：我告诉特朗普，欢迎包括中国在内的所有国家投资稀土本地加工
+### 外交部：中美双方就特朗普总统访华事保持着沟通
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: guancha.cn
-- 时间: 2026-05-08 01:04
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9OX2ZWMldYMXBQNl9SR3l6cVl0TklNTGNuVlZpMmJZZ09RdmU4WmU0cDdlYnZxRlFTRC1sNE9HdjNmUmpsY1FiX0FqenFXVGxhaTZfd2I3TE5wNXI4OV9hRG15YWttbEtsWFE?oc=5>
+- 场馆: 中国日报网
+- 时间: 2026-05-08 08:14
+- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTFA0XzJWTUwyR0N2VnpPNmtQdmZWbjE2YWprOWF4T1JRWkFaV3gwbnh5Z0dnaWYyRHdhbzhHaV9oZEhnWnNVeHZSTzl5eFZDeEs0R2pwVC0yWTM0bldlN1hBUTZhRVhldW5zUTZ6cmtZUVp2Nm1lUExfb3JDQW0?oc=5>
 
-### 特朗普见卢拉时说不考虑入侵古巴
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-08 06:13
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBJUlVoTkVzd3luMmpYRmszTThFdEttSU1xOXZjdDMtZ0lQY05mVjVWSnFVVzZmVHFjSWk4ZGJpY2FNZFZjQ3V6Vm80Yw?oc=5>
-
-### 特朗普说的全变了：造园子花费2亿变10亿，还要拿纳税人的钱
+### 特朗普称中美元首会谈将按计划举行，外交部回应
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-08 05:15
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE45T0xub3h5dDg1bGRZUDE0YmNya3IzT0dudGdwUlJ5Q0I3aEd6VnhoUG4yT3JmT3NQX1pPcEhZTDVvWVVKeXR3S2o5WEc5Um8zd1AxM01VRlRhX0Q3ZWh0QWp0WVBBRmdVNTJQREdaMUhlVEJnRUtJTw?oc=5>
+- 场馆: thepaper.cn
+- 时间: 2026-05-08 07:56
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtSUd4TFY5eFB5ZF9vV1lJb3NOaTh2SVJQTVd1b2JPdG5kbjlzbmg2YXBpOWpiTjZSU3A2OUo2M2lhVzg0eUZjaGU1cVM2dGhoWTE1c0dZSHVfZ3FjVjRjNg?oc=5>
 
-### 美贸易法院：特朗普10%的全球关税政策无效
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-05-07 22:03
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE1mLVR2VDMwNXRSS2IzS0xxWmVMcHA0eV96NGtGV2pydV9tcU1FSXZEWHRENDhiUWdDdjRtalhMNUo2V2NENk9CRQ?oc=5>
-
-### 黄仁勋：若受邀，将随特朗普一同访问中国
+### 特朗普全球关税再遭判违法 特习会前添变数
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-05-08 04:32
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBtOEdRLTkwNzhsSFZkdy1wWWdlWGMtVVJ6WGVhZG12ZjdrdVZQV2VnLTBiLVRRMVdVTFBTMXU0U0NHM2lHLWljYmdodlU?oc=5>
+- 场馆: DW.com
+- 时间: 2026-05-08 05:48
+- 链接: <https://news.google.com/rss/articles/CBMirgJBVV95cUxQMi1uSzFJQ25QQ0FIdm9ERUVrTFYyeWFFdTIyZnd2Q09MNk1kNGk5d294bF9mVk1jSkNTbHpveGF4MGE2NXU4VVo5QjNPMVJ0aTdpcldsQ3Bna2tKMkYzbEh3eURJNjRGejhJbzB1ZmdQYXA5Z3RxRVZidGFYMjg4bnQzRFZTb1VkYW00cUVxSTFNVTh0TDVSRHd0VXNsdVRhRUFhS2lLdW41YmUzZGJnZ2E0dGNyTk1UUEFERlVaQnh4dkhyZHFJYkk2UEJxbTNBZk81X3BUZE04NWR4S2xlRVU3ZHBfVVhvSW41RzZ3SEd1OGFVNlVLcDBrdXdOajF6bHpidTFRT3lkWG9wTy0tUE55QjVhTGRNSU5GR1NEd3Y3VjA4SUJYZ3VaRVFUd9IBrgJBVV95cUxPSTQ2LXBwdUJRcGtkSXRINFZMR3VFZE80cWJDRGFhNmF3amliVHRUVC1KSXliV0FORTU4MHppT2thVjA4QkZ6QjRhc19sSzRPQTJFcEFhLVFYTGd6VUxnME1oUHNZUWpzelVsQlRZd0doTWU4Z3BrTkZjT0FjT1NZcTVIYVBpLWFfbXVfRlZsVHExcHJuc0IwQmxVN3ljazRlUXlBMFB3bkt0NWxNTkRVRklkcXZzTkVSTVJSemFMbjJQYnl1SWhqdXZyMmZfM1FRbnNpaENhaGsyZjRUQnBsMmZVTkZUOWNTeWs3NVZiOTFIVzViaUJ2YTVxVjcyQ2doYVMxYmN5ZU1MZjRUY3dLcDlVZmE0WUlGaEw3OU5kS2ZMM3B5ZkotNUNTTUdSUQ?oc=5>
 
-### 特朗普“自由计划”被仓促叫停始末
+### 特朗普否认美军袭击伊朗意味着停火结束：这只是轻轻地敲打敲打
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-05-08 03:30
-- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxOVTd0eTdVRlQ5TXJPeC00X2RDWUFER3R5OEJqamJwWTVaS29hQk5sSUxGbmliMG41ZWtweElOamg2RjBCMGlkdk1wNnowLVNwNWNVZVl6YVFFdmh4OWdlNnRreHU0ZWlpQTdrU0dEMEZDN2xMRThkR0RkSE53SnNhaXln?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-05-07 23:59
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1heDl6MTFfLTNDUTZmcFo3RXpJQ21TeUIyX1pmYVV3bTlUQTJrVEJxTjRhQ3l3WXhOYWpzTlk0RHlFNzlrUzRXZnJzc1JveEtCN1VBNlpkMmVGMG9RcWRRWnVoTVBDNUVRLU1vWjNzdFNJcnJaRWxuOA?oc=5>
+
+### 特朗普何时再次TACO？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街见闻
+- 时间: 2026-05-08 03:15
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE9FWUFHT2ludWVtZGhiQzlwUGtXMlZwN2NjaTE2OFVkdkdJbTZrSlRjVEFQWGhvOF9NN1hZN2VqMFZtM2tURzAtWk9sV3lvWFNpd1M0?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-08 08:54  (5 条)
+
+- **特朗普** | 外交部：中美双方就特朗普总统访华事保持着沟通 <https://news.google.com/rss/articles/CBMifEFVX3lxTFA0XzJWTUwyR0N2VnpPNmtQdmZWbjE2YWprOWF4T1JRWkFaV3gwbnh5Z0dnaWYyRHdhbzhHaV9oZEhnWnNVeHZSTzl5eFZDeEs0R2pwVC0yWTM0bldlN1hBUTZhRVhldW5zUTZ6cmtZUVp2Nm1lUExfb3JDQW0?oc=5>
+- **特朗普** | 特朗普称中美元首会谈将按计划举行，外交部回应 <https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtSUd4TFY5eFB5ZF9vV1lJb3NOaTh2SVJQTVd1b2JPdG5kbjlzbmg2YXBpOWpiTjZSU3A2OUo2M2lhVzg0eUZjaGU1cVM2dGhoWTE1c0dZSHVfZ3FjVjRjNg?oc=5>
+- **特朗普** | 特朗普全球关税再遭判违法 特习会前添变数 <https://news.google.com/rss/articles/CBMirgJBVV95cUxQMi1uSzFJQ25QQ0FIdm9ERUVrTFYyeWFFdTIyZnd2Q09MNk1kNGk5d294bF9mVk1jSkNTbHpveGF4MGE2NXU4VVo5QjNPMVJ0aTdpcldsQ3Bna2tKMkYzbEh3eURJNjRGejhJbzB1ZmdQYXA5Z3RxRVZidGFYMjg4bnQzRFZTb1VkYW00cUVxSTFNVTh0TDVSRHd0VXNsdVRhRUFhS2lLdW41YmUzZGJnZ2E0dGNyTk1UUEFERlVaQnh4dkhyZHFJYkk2UEJxbTNBZk81X3BUZE04NWR4S2xlRVU3ZHBfVVhvSW41RzZ3SEd1OGFVNlVLcDBrdXdOajF6bHpidTFRT3lkWG9wTy0tUE55QjVhTGRNSU5GR1NEd3Y3VjA4SUJYZ3VaRVFUd9IBrgJBVV95cUxPSTQ2LXBwdUJRcGtkSXRINFZMR3VFZE80cWJDRGFhNmF3amliVHRUVC1KSXliV0FORTU4MHppT2thVjA4QkZ6QjRhc19sSzRPQTJFcEFhLVFYTGd6VUxnME1oUHNZUWpzelVsQlRZd0doTWU4Z3BrTkZjT0FjT1NZcTVIYVBpLWFfbXVfRlZsVHExcHJuc0IwQmxVN3ljazRlUXlBMFB3bkt0NWxNTkRVRklkcXZzTkVSTVJSemFMbjJQYnl1SWhqdXZyMmZfM1FRbnNpaENhaGsyZjRUQnBsMmZVTkZUOWNTeWs3NVZiOTFIVzViaUJ2YTVxVjcyQ2doYVMxYmN5ZU1MZjRUY3dLcDlVZmE0WUlGaEw3OU5kS2ZMM3B5ZkotNUNTTUdSUQ?oc=5>
+- **特朗普** | 特朗普否认美军袭击伊朗意味着停火结束：这只是轻轻地敲打敲打 <https://news.google.com/rss/articles/CBMieEFVX3lxTE1heDl6MTFfLTNDUTZmcFo3RXpJQ21TeUIyX1pmYVV3bTlUQTJrVEJxTjRhQ3l3WXhOYWpzTlk0RHlFNzlrUzRXZnJzc1JveEtCN1VBNlpkMmVGMG9RcWRRWnVoTVBDNUVRLU1vWjNzdFNJcnJaRWxuOA?oc=5>
+- **特朗普** | 特朗普何时再次TACO？ <https://news.google.com/rss/articles/CBMiU0FVX3lxTE9FWUFHT2ludWVtZGhiQzlwUGtXMlZwN2NjaTE2OFVkdkdJbTZrSlRjVEFQWGhvOF9NN1hZN2VqMFZtM2tURzAtWk9sV3lvWFNpd1M0?oc=5>
 
 ### 2026-05-08 07:04  (7 条)
 
