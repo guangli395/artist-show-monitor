@@ -1,40 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-08 18:06**
-- 本轮扫到 547 条, 新增 **3** 条
+- 最近更新: **2026-05-08 19:53**
+- 本轮扫到 550 条, 新增 **3** 条
 
 ---
 
 ## 本轮新发现 (3 条)
+
+### 美国总统特朗普：与伊朗关于结束这个重大冲突的磋商继续进行。
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-08 18:01
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1URU9qWEhYTmxKemNvNm54U1plMk80SGhubS1tclRkRW5JeHU0b2psS1hpc2dLaWtXUmF3bHVlTTZSM2JjcVVTUWhvWQ?oc=5>
+
+### 特朗普称俄乌9日起停火三天并交换战俘
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-08 18:30
+- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE8ybnhGUFd0M1VvNk95UHdEOVdrWU5QN29VaGN0YzVma0JUUWI3eHBUT2QzU21takFHb3B3dm96ZXJrVWpzcGNRSUVxS0NZbkU?oc=5>
 
 ### 5月8日外盘头条：美国计划本周重启护航行动 美国法院裁定特朗普10%进口关税违法 OpenAI与博通芯片豪赌遇冷
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-08 18:01
-- 链接: <https://news.google.com/rss/articles/CBMijgJBVV95cUxPTGMwTjlYeExWcXh1Tzd3S1JiOFUtaGM0OWVBRWNpbkZ3YUVTQmNWVTVuMHB4UGJlLTJRdC1WX0RSc2k0TmowQzFMTlpIQkQ5QkVrdERTdUhOR2c4YkZjU1paSGFpcGx6TWVzVjZPUE5rNVdmNm04MWdHVmJXTUx4ZV9wTGk1dWxjU2locHFSWGxwQlUxN00zRjlQUkE0aXZQcDBFa3pMYTBvT250TVRyVW96aFJsNzhLWFI1U0hweE9VUFRFRmxIQ2Q1bTJtblZ5T29acnE0Vy1Wbm8zLUd1czkwNXF3dlBNaEswdS1TZjVDOGZrZlJzUlhtRFBsMmZRSnhZQVhtalVtN2o1MUE?oc=5>
-
-### 据称特朗普已批准解雇FDA局长马卡里。
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-08 17:51
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBLeUdhQ1JEU3dWQ2lNTk1IVHg0OVp1QjlCRGF0YmowZjBNamY4aU1uYTExaGxyVHI2dHVLMldXb05SVXRLb3A4V1ZtRQ?oc=5>
-
-### 特朗普2.0如何改写跨大西洋格局 专家热议中美欧三边关系演进
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财新
-- 时间: 2026-05-08 05:20
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5oaV9UcWx4NWlnQlhKMHRSUG9xaTdvUXpmbF9iNU1KeVhGLXluVnFReGwwWVZHU1dRQ2RSVHhSWVZiSHhOMnVXbWw0VE1SNkh1QU4yV19wTGNwSFlVbE1YVzc0Y18xaG8wamc?oc=5>
+- 时间: 2026-05-08 18:31
+- 链接: <https://news.google.com/rss/articles/CBMijwJBVV95cUxOOXdwZk1lXzhsN3ZocjN6aFBJc01DOUZqTFl1NUhLU1V5YUpnd25CN1BfMHRIV0RHazEzN09ocHFzbzVnM1psVmJLQ2poNWdfOWNOOU1pRFMxU3daSjZZbzJuZHRsVnlHM3VhLVFjM2M3eHUyYTNTRUdkR1V1V1FkOTZ4cndDZVJkblF3LXZsRjExdW9zSEhHVVJQeXVxVjVscDZwWlB0Nzk3UmFWaEJGaXFMVDlNaGtXSTlUQVJ4UjI1cTRjWWhEZVZkaVByQkNsWUg1UGNSbk0tUW4tdnVFOVNobTdMRTJwdkxlendTdDNmQVNuNnVzZ0xzSUtCYmVmVXYyTVF2Yjd3dWtKQTRj?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-08 19:53  (3 条)
+
+- **特朗普** | 美国总统特朗普：与伊朗关于结束这个重大冲突的磋商继续进行。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1URU9qWEhYTmxKemNvNm54U1plMk80SGhubS1tclRkRW5JeHU0b2psS1hpc2dLaWtXUmF3bHVlTTZSM2JjcVVTUWhvWQ?oc=5>
+- **特朗普** | 特朗普称俄乌9日起停火三天并交换战俘 <https://news.google.com/rss/articles/CBMiT0FVX3lxTE8ybnhGUFd0M1VvNk95UHdEOVdrWU5QN29VaGN0YzVma0JUUWI3eHBUT2QzU21takFHb3B3dm96ZXJrVWpzcGNRSUVxS0NZbkU?oc=5>
+- **特朗普** | 5月8日外盘头条：美国计划本周重启护航行动 美国法院裁定特朗普10%进口关税违法 OpenAI与博通芯片豪赌遇冷 <https://news.google.com/rss/articles/CBMijwJBVV95cUxOOXdwZk1lXzhsN3ZocjN6aFBJc01DOUZqTFl1NUhLU1V5YUpnd25CN1BfMHRIV0RHazEzN09ocHFzbzVnM1psVmJLQ2poNWdfOWNOOU1pRFMxU3daSjZZbzJuZHRsVnlHM3VhLVFjM2M3eHUyYTNTRUdkR1V1V1FkOTZ4cndDZVJkblF3LXZsRjExdW9zSEhHVVJQeXVxVjVscDZwWlB0Nzk3UmFWaEJGaXFMVDlNaGtXSTlUQVJ4UjI1cTRjWWhEZVZkaVByQkNsWUg1UGNSbk0tUW4tdnVFOVNobTdMRTJwdkxlendTdDNmQVNuNnVzZ0xzSUtCYmVmVXYyTVF2Yjd3dWtKQTRj?oc=5>
 
 ### 2026-05-08 18:06  (3 条)
 
