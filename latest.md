@@ -1,48 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-08 16:50**
-- 本轮扫到 544 条, 新增 **4** 条
+- 最近更新: **2026-05-08 18:06**
+- 本轮扫到 547 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (3 条)
 
-### 特朗普：我们已将移民入境人数降至零。
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-08 16:48
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1nXzkyN0ZRXzlXekc5SEdibUl2dFZxUjZVbkdOMk5jQkZCVGRoMmhfN1NuaDV0VHRnN0hyVzlCcnkwRHhVQWV4bDNDQQ?oc=5>
-
-### 特朗普全球关税又受阻
+### 5月8日外盘头条：美国计划本周重启护航行动 美国法院裁定特朗普10%进口关税违法 OpenAI与博通芯片豪赌遇冷
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-08 16:10
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE9aN3NLX09pN3RqSmhpZWxNbzN3dVE1Y0pWR3FtSEl5TEp0RGtJcDFjU1dWYktYQk5NbzRtZmNnMU9acjdQejF2VzlaQlVmYTZGYi12VTdqR2dPMlQ1dl9lRkJ2UHdyVW5UaWF6c3U2OWNvT3dQUmc?oc=5>
+- 时间: 2026-05-08 18:01
+- 链接: <https://news.google.com/rss/articles/CBMijgJBVV95cUxPTGMwTjlYeExWcXh1Tzd3S1JiOFUtaGM0OWVBRWNpbkZ3YUVTQmNWVTVuMHB4UGJlLTJRdC1WX0RSc2k0TmowQzFMTlpIQkQ5QkVrdERTdUhOR2c4YkZjU1paSGFpcGx6TWVzVjZPUE5rNVdmNm04MWdHVmJXTUx4ZV9wTGk1dWxjU2locHFSWGxwQlUxN00zRjlQUkE0aXZQcDBFa3pMYTBvT250TVRyVW96aFJsNzhLWFI1U0hweE9VUFRFRmxIQ2Q1bTJtblZ5T29acnE0Vy1Wbm8zLUd1czkwNXF3dlBNaEswdS1TZjVDOGZrZlJzUlhtRFBsMmZRSnhZQVhtalVtN2o1MUE?oc=5>
 
-### 特朗普：从海上流入美国的毒品数量已下降
+### 据称特朗普已批准解雇FDA局长马卡里。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-08 16:47
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1BZWRVVHRFUWQxVGV0SUppT3ZHN0JsOGY3WFpXZnNOZFN6eWxnN3dEQ0t0bndOMXN6djNtUjJwbUxJSWllUm9JZXRVZw?oc=5>
+- 时间: 2026-05-08 17:51
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBLeUdhQ1JEU3dWQ2lNTk1IVHg0OVp1QjlCRGF0YmowZjBNamY4aU1uYTExaGxyVHI2dHVLMldXb05SVXRLb3A4V1ZtRQ?oc=5>
 
-### 沙特断路、海峡起火，特朗普亲手按下护航计划暂停键
+### 特朗普2.0如何改写跨大西洋格局 专家热议中美欧三边关系演进
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-05-08 13:44
-- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTFBBOHhpRDRfaGpBaFJ6ODJnNTJZTmFpNHZnbl9ZXzg3X3ZNREg5SEF3UFFORFFhY2JyYkxiNzBKLTBmSmRaU0pjdG1oWkU2LXZY?oc=5>
+- 场馆: 财新
+- 时间: 2026-05-08 05:20
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5oaV9UcWx4NWlnQlhKMHRSUG9xaTdvUXpmbF9iNU1KeVhGLXluVnFReGwwWVZHU1dRQ2RSVHhSWVZiSHhOMnVXbWw0VE1SNkh1QU4yV19wTGNwSFlVbE1YVzc0Y18xaG8wamc?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-08 18:06  (3 条)
+
+- **特朗普** | 5月8日外盘头条：美国计划本周重启护航行动 美国法院裁定特朗普10%进口关税违法 OpenAI与博通芯片豪赌遇冷 <https://news.google.com/rss/articles/CBMijgJBVV95cUxPTGMwTjlYeExWcXh1Tzd3S1JiOFUtaGM0OWVBRWNpbkZ3YUVTQmNWVTVuMHB4UGJlLTJRdC1WX0RSc2k0TmowQzFMTlpIQkQ5QkVrdERTdUhOR2c4YkZjU1paSGFpcGx6TWVzVjZPUE5rNVdmNm04MWdHVmJXTUx4ZV9wTGk1dWxjU2locHFSWGxwQlUxN00zRjlQUkE0aXZQcDBFa3pMYTBvT250TVRyVW96aFJsNzhLWFI1U0hweE9VUFRFRmxIQ2Q1bTJtblZ5T29acnE0Vy1Wbm8zLUd1czkwNXF3dlBNaEswdS1TZjVDOGZrZlJzUlhtRFBsMmZRSnhZQVhtalVtN2o1MUE?oc=5>
+- **特朗普** | 据称特朗普已批准解雇FDA局长马卡里。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBLeUdhQ1JEU3dWQ2lNTk1IVHg0OVp1QjlCRGF0YmowZjBNamY4aU1uYTExaGxyVHI2dHVLMldXb05SVXRLb3A4V1ZtRQ?oc=5>
+- **特朗普** | 特朗普2.0如何改写跨大西洋格局 专家热议中美欧三边关系演进 <https://news.google.com/rss/articles/CBMiakFVX3lxTE5oaV9UcWx4NWlnQlhKMHRSUG9xaTdvUXpmbF9iNU1KeVhGLXluVnFReGwwWVZHU1dRQ2RSVHhSWVZiSHhOMnVXbWw0VE1SNkh1QU4yV19wTGNwSFlVbE1YVzc0Y18xaG8wamc?oc=5>
 
 ### 2026-05-08 16:50  (4 条)
 
