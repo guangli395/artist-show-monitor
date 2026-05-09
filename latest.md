@@ -1,96 +1,53 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-09 07:49**
-- 本轮扫到 597 条, 新增 **10** 条
+- 最近更新: **2026-05-09 09:13**
+- 本轮扫到 601 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (10 条)
+## 本轮新发现 (4 条)
 
-### 特朗普称中美元首会谈将按计划举行，外交部：目前无进一步信息提供
+### 肖老师发布两张月照引猜测
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-05-08 07:34
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SYzJFb1J6Y0R5WWFlNzgxVFFrcklFQ0ZEVHo2X1NUYTY2bW1pb0xrRk9JaHpkZVo0aHkxQnh1YXBNTmd4VEJiQUxRTlZxdmRTMmQtbXlhOEwzbkJxSVBFTQ?oc=5>
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_6085757622_m16abd4ab603301qzg6.html>
 
-### 250周年将近，特朗普嘴上不要，身体很诚实-观察者网
+### 国会两院两党百余名议员敦促特朗普总统美中峰会期间呼吁习近平释放黎智英
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察
-- 时间: 2026-05-09 06:55
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBEVFNuSHpVU2VPSkdXVC1xd1dCYVdva0hYbERMcUlMbjJjUzYxZlFUcmcwZFdLNkNyaGJJdXpyZkNUZnNuNDBFbDFkNWVJZHZ3YVFfeXJEWlJlVk5XT3JBendCbF9wNVA0MUE?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-05-08 16:05
+- 链接: <https://news.google.com/rss/articles/CBMi-AFBVV95cUxOVzhGdUhYNUFZdEg5YnZscnNJX1Y5Q0VDRGRUajdTUEo0Z3VOcHZqenZzaElOc05BM1p2aXVIUmVPQ0wtczdfa0JmTm1CNmZMb1dIRXdmV0g3T2s3SWMtT3JxQTJ2MXFrTG52aXo2WFoydXdZLWRheUpPZjJuVlJ1UzQ3QVhaelMxbkdxdGZlM0RvN0M3R3llSTFEcDFpYUJJX2ZuekRpYXJ2ZlJjbEhxVFQ1RG1WQ1RVaEUyTHdhdmd3eF9aaE1qYmNodUtPVHFPREd0NEZGZ1VYWUZCV2hmcHlOREFWb0dwemdBcTByQ2ppR1lhSzFiddIB-wFBVV95cUxOTi1uVnBQY1VRM2otUGZRTWN0UE84TDFOaEVLZ2NVOHJtYkMwbDFWOVBlOTB6WVliT0U2X0hiQWE0ZHdjbWJnMW1Gd1pNSHR1TTJCbzZqMjZOeG9VTDFyMjVvRjhrX1ZITWoybmxXR1ZhcDhEXzBhWjR3ZHc0bkF1eUsxYm9FeExjNXFCOUh6SHVobno5UmloVzFEdnRBQy1XbHFEaUx0M2l5M0VuN0JhVjVWS1ZOcDBUWVhYWmVZN2ZTTlEza2x4LXhSYmtXVmlONTNRUk9fdjZuN2doSEQyWG8zT2RLczZBa1ZYbWV0WmFnblg4ZTRSendkQQ?oc=5>
 
-### 特朗普“密友”，访华了
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-05-08 22:58
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE10aWRIbnlpWmJacUlxSnhrQWgtUVlVc1d2eGpRc3EwSXBlbmpQbTBYNl9Yc25hdmdzZG9XQXlGSFZKXzFNWGpad09jTmhCdHpFN0lZSnpvQW5pS2NhQUp5QzVrVlpralh0WDdnNlBuT1J2ODBqR3A1Xw?oc=5>
-
-### 特朗普称俄乌9日起停火三天，互换千名战俘；纳指、标普连涨六周再创新高；美团、淘宝、滴滴等平台优化算法；OPPO就母亲节文案致歉丨每经早参
+### 对抗特朗普，德国拉了个名单-观察者网
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 每日经济新闻
-- 时间: 2026-05-08 22:53
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ocm1UOVlHajR5NzJNTEUzWE5TSUhISW9lOXFPMm1RSFVzRlo4bTAyeDg2VElXMkZNLS1kZ1A5dWJoTElCSWhTaVpzMEF5SEtsSlZLaUNaQldNRHZpbEcxTUtGYzBLdw?oc=5>
+- 场馆: guancha.cn
+- 时间: 2026-05-08 15:16
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE4yajZvcXFMYVg2QXRYM3ZRaXFqZmxtdFhNNWg1TDRqQXBoX0ZsWTFEYm5mbHNOenNEV2kwLVdRbHlveUlkUGRMQy1oaDJZakVrTGVHM1VhSEVVSmhlZWc4UTRqN2VYUmtEMGc?oc=5>
 
-### 特朗普撤军“惩罚”德国，跨大西洋同盟何去何从？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中国网
-- 时间: 2026-05-09 00:59
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE9kNkNjNklrNHlpTWUwRFBuYzU1elhIUUx5bjVLcUNpQ1d6Z0I2LUFrUnZreEI0NG9HR2FqMEVPNzVULUVTRUt4eWcxNWZKdjJyOUc2RWxiZ0ZLbTlBRnlmU3l2R0ptVzlVUlBfVWRCWQ?oc=5>
-
-### 贸易法院裁定特朗普新版全球关税无效
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-08 17:03
-- 链接: <https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTmswNmRSLVEtbFhQa1ZEclRqUEJmZnpuaS1iT1VKWGNzdElRbVdheGJlUUVFWnBqRGZmVkhHSnI0U3V6UXlqSVQwbXp4cGhaMmNkRVpzNklpV0E2Y0VPa2MwZDl0NjJFTlNkMzFGU29jckdUeVBaN0NnYkJkWTBoTVNVVktLX25LYUpkVWNMVlJOa3ZsTEFlWGFYOFBjcTJrR2EwX1VDMVp5anR3Q0QxX0l2dXBaN0ZOcUQ4RE9FeThpY2NqLVVGNzRjWnQ4LTVTdnc0c3lDbFNMMXpk?oc=5>
-
-### 晚宴枪击事件后，特朗普再为白宫宴会厅项目辩护
+### 美国独立250周年将近，特朗普嘴上不要中国烟花，身体很诚实
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-05-08 02:10
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9LY3dQSnZVWDFLQlNwN3pWOEV1bjlsY1E2enRwRm1hem42RHVNX2YtVDBBaklCUWpZeHNTQ201bjN3SWxkc2FUVGk0ZG4?oc=5>
-
-### 特朗普称可能恢复“自由计划”行动
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-05-09 00:21
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE81b2xwNmU0ZUI3QjRUZXBMUFp5YXdsOW5xOEl0aDhpc3ZiMXZ3V3lCMW5HektFdE5VaVJXX3h3eEI5OFR1Ulo4cGlNVERFbERTaFNMY3hWQ2V6OVhIWFNQUGR5Ukc?oc=5>
-
-### 美国贸易法院裁定：特朗普政府最新10%关税不合法
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网财经
-- 时间: 2026-05-08 00:01
-- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE52SDVqdnFsNENFMkVsd3c2bGJyc1BuS0NEd0hOUmhlM3UxaFAzREZnRU43V1gtc2xKMGlMT2pzcl9SNzN2a0tpdzNjWWZzSnVK?oc=5>
-
-### 特朗普媒体集团 Q1 财报：受数字资产下挫影响净亏损超 4 亿美元
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 吴说
-- 时间: 2026-05-09 07:12
-- 链接: <https://news.google.com/rss/articles/CBMijgFBVV95cUxOYUtaWUtCTERuUE0wNjdzTFQ2UjFhcmN2SXFfZTdwUDZOQXd4RWJmSmxseDZ5WG0tUmhyMmlsTVY4eTFhSldaM2FERkZVbTdhVVV4MTh6V3g1X3E0alhDZFRYMWJ4NWVtX1laVFB4bERUSHpyRGJ1YThtaUh3ZmdWQlU2ZWdfSlpYM0FQU3pR?oc=5>
+- 时间: 2026-05-09 07:43
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1hTk02cEQ1RVBra0Npcl82WUV4V0duWXZWTmpESjQ0VEdXV1BkMTd2SGpjMVFBQjRUbGtxMllOTk9FZnhnb3RMM1Izb1I?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-09 09:13  (4 条)
+
+- **王一博** | 肖老师发布两张月照引猜测 <https://k.sina.com.cn/article_6085757622_m16abd4ab603301qzg6.html>
+- **特朗普** | 国会两院两党百余名议员敦促特朗普总统美中峰会期间呼吁习近平释放黎智英 <https://news.google.com/rss/articles/CBMi-AFBVV95cUxOVzhGdUhYNUFZdEg5YnZscnNJX1Y5Q0VDRGRUajdTUEo0Z3VOcHZqenZzaElOc05BM1p2aXVIUmVPQ0wtczdfa0JmTm1CNmZMb1dIRXdmV0g3T2s3SWMtT3JxQTJ2MXFrTG52aXo2WFoydXdZLWRheUpPZjJuVlJ1UzQ3QVhaelMxbkdxdGZlM0RvN0M3R3llSTFEcDFpYUJJX2ZuekRpYXJ2ZlJjbEhxVFQ1RG1WQ1RVaEUyTHdhdmd3eF9aaE1qYmNodUtPVHFPREd0NEZGZ1VYWUZCV2hmcHlOREFWb0dwemdBcTByQ2ppR1lhSzFiddIB-wFBVV95cUxOTi1uVnBQY1VRM2otUGZRTWN0UE84TDFOaEVLZ2NVOHJtYkMwbDFWOVBlOTB6WVliT0U2X0hiQWE0ZHdjbWJnMW1Gd1pNSHR1TTJCbzZqMjZOeG9VTDFyMjVvRjhrX1ZITWoybmxXR1ZhcDhEXzBhWjR3ZHc0bkF1eUsxYm9FeExjNXFCOUh6SHVobno5UmloVzFEdnRBQy1XbHFEaUx0M2l5M0VuN0JhVjVWS1ZOcDBUWVhYWmVZN2ZTTlEza2x4LXhSYmtXVmlONTNRUk9fdjZuN2doSEQyWG8zT2RLczZBa1ZYbWV0WmFnblg4ZTRSendkQQ?oc=5>
+- **特朗普** | 对抗特朗普，德国拉了个名单-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE4yajZvcXFMYVg2QXRYM3ZRaXFqZmxtdFhNNWg1TDRqQXBoX0ZsWTFEYm5mbHNOenNEV2kwLVdRbHlveUlkUGRMQy1oaDJZakVrTGVHM1VhSEVVSmhlZWc4UTRqN2VYUmtEMGc?oc=5>
+- **特朗普** | 美国独立250周年将近，特朗普嘴上不要中国烟花，身体很诚实 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1hTk02cEQ1RVBra0Npcl82WUV4V0duWXZWTmpESjQ0VEdXV1BkMTd2SGpjMVFBQjRUbGtxMllOTk9FZnhnb3RMM1Izb1I?oc=5>
 
 ### 2026-05-09 07:49  (10 条)
 
