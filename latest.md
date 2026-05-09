@@ -1,14 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-09 18:52**
-- 本轮扫到 638 条, 新增 **0** 条
+- 最近更新: **2026-05-09 19:54**
+- 本轮扫到 642 条, 新增 **4** 条
 
 ---
 
-## 本轮无新增
+## 本轮新发现 (4 条)
 
-数据库里所有演出/动态都已见过,暂无新增。
+### 意媒：特朗普“仍在考虑”调整驻意美军
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-09 18:08
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBxaGxrNHZSZzgzcFBaV0U4ZWtqdzd1LXo4dVpVTDBBLXo5UVlEOUhNUzJvaWZPMHgyZGlUaFhiRUNrdUpzR3A0ZmxuNA?oc=5>
+
+### 特朗普：预计“很快”收到伊朗对美方最新和平方案的回应
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-05-09 18:19
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE43aXlMa0ZKVTdNY1RWaTlibTRQODgxUFkxSkdiTFJmU0tDc2VHdlVqRndwNnZMZEhWU1ZmS19nSGFSY29pcnNjWm85RklBZE1WcHkyZTlXT1lUcGVRR29HUw?oc=5>
+
+### 特朗普表示“仍在考虑”调整驻意美军
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-09 18:05
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1aTEpmT3BPcl8xOUVQeWdDVVE4RldsY3oxVXpSMHVUbm1LT3VCWERZdlY4dmhNU1hKeDJmd0htUjc0Rk1qODVialA0dHpZQzF2NkoyT3BDS2ZnWk1mZ0FaNHVQNXVQV3o3bGszeXZ3NDM3aGJJX0hjUA?oc=5>
+
+### 特朗普媒体第一季度亏损扩大至4.06亿美元，受比特币和CRO减值影响
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: CoinDesk
+- 时间: 2026-05-09 02:28
+- 链接: <https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdE9nVTFsdEpja3c5bVpSeDNRRXVMbTBTNXlMVHNLUmxwVVFhdWNmWEl1dkpiQmt0WGhzeFpRMXR6UXhBek44LW1qWDRLOUpRTDNWaHJFRUZBRzNUTUlQMkNyTG95YXRwbHZfMGw2QnJvRFhDMWtGUTYwWDNMdmJrVElOT1RpQTBYRWJkcVZhajEwb2tCcFZnSU02bTNxM2ZudTFacTRJRWJvbnhHcGIzdmNBMzdrejBzN2Zr?oc=5>
+
+
+---
+
 ## 历史发现
+
+### 2026-05-09 19:54  (4 条)
+
+- **特朗普** | 意媒：特朗普“仍在考虑”调整驻意美军 <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBxaGxrNHZSZzgzcFBaV0U4ZWtqdzd1LXo4dVpVTDBBLXo5UVlEOUhNUzJvaWZPMHgyZGlUaFhiRUNrdUpzR3A0ZmxuNA?oc=5>
+- **特朗普** | 特朗普：预计“很快”收到伊朗对美方最新和平方案的回应 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE43aXlMa0ZKVTdNY1RWaTlibTRQODgxUFkxSkdiTFJmU0tDc2VHdlVqRndwNnZMZEhWU1ZmS19nSGFSY29pcnNjWm85RklBZE1WcHkyZTlXT1lUcGVRR29HUw?oc=5>
+- **特朗普** | 特朗普表示“仍在考虑”调整驻意美军 <https://news.google.com/rss/articles/CBMieEFVX3lxTE1aTEpmT3BPcl8xOUVQeWdDVVE4RldsY3oxVXpSMHVUbm1LT3VCWERZdlY4dmhNU1hKeDJmd0htUjc0Rk1qODVialA0dHpZQzF2NkoyT3BDS2ZnWk1mZ0FaNHVQNXVQV3o3bGszeXZ3NDM3aGJJX0hjUA?oc=5>
+- **Trump** | 特朗普媒体第一季度亏损扩大至4.06亿美元，受比特币和CRO减值影响 <https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdE9nVTFsdEpja3c5bVpSeDNRRXVMbTBTNXlMVHNLUmxwVVFhdWNmWEl1dkpiQmt0WGhzeFpRMXR6UXhBek44LW1qWDRLOUpRTDNWaHJFRUZBRzNUTUlQMkNyTG95YXRwbHZfMGw2QnJvRFhDMWtGUTYwWDNMdmJrVElOT1RpQTBYRWJkcVZhajEwb2tCcFZnSU02bTNxM2ZudTFacTRJRWJvbnhHcGIzdmNBMzdrejBzN2Zr?oc=5>
 
 ### 2026-05-09 17:44  (3 条)
 
