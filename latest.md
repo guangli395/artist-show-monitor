@@ -1,56 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-09 16:45**
-- 本轮扫到 635 条, 新增 **5** 条
+- 最近更新: **2026-05-09 17:44**
+- 本轮扫到 638 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (3 条)
 
-### 特朗普访华前 美国制裁九个协助伊朗军事及卫星定位的中国大陆及香港实体
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-05-09 15:58
-- 链接: <https://news.google.com/rss/articles/CBMi7ANBVV95cUxOUjV6NnZHa195M3labFU1MzhkdHBUdTBHdDBNX2RDSVNGQUlYdkk1bEtaa1hZTTFReDFyN0NQelJRYVNBdVJpeUp4WnVqNEZ1ODhmUTZRdUZScjhJS1h6TllQYy0tREE2b1BjVDlVSVdRY1BDUFZEVWR0SHdOamUtOWJpbW5Vdl9CR2dFcm84aGc2Vk9jUmJDaDFNS0x3ZnBtc2U2QmRSNG0yS3NsS1k5dGlkNFYyQmhadjlrU2pWM200aGwwNU5LNVlMMDRRNEoyaVJUR3dnb0FaYWFNXzIxVWhPTWZoWU9nTGY3UVZBbGtaMDhRbWwxNDltM3hLQzB6RERsWVZhcHN6cTRpa3ZnLXJZeS1aeWY1YUF1eXBjZ2k1bFFCR1VfUDRGS2tKbHROcV9fbEtBTHRfZlVjc0NsVkl4cTRXTUF4ZHdReElJejZhSDM5TzJKUHFiWUU2dWJjRlNaUjRiaFFHMUpmSXlOMDJrUnpqRS01SE56bGdlMkpPTXdrTmRZX3RSLS1JZV9RbTBHcHY4MXJ6UjRWQVFOYVE0elRZRjVkbEZqQ1JKYTNNZ2h0VGs2ejhhZ1V3c2w3X0paYUlZVV8xQ3NfR2h6bkxkcUVUQU9VSXU2RUdWRTlkTzY3MUNtd3hIVlI?oc=5>
-
-### 北约国家为特朗普从欧洲撤出更多部队做准备
+### 特朗普：预计“很快”收到伊朗对美方最新和平方案的回应
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-09 15:42
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XQTNDdWJvWEJnb3hJZzdMbXg1dS1KWlZIa0lvWG1aU1owUzJGYWRRSjA2U2daTEhvREJVU3ZmNGVhZUVPVUloU2x3aw?oc=5>
+- 时间: 2026-05-09 17:39
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5TWG9LcjJfdlQ4bVlNYnFVV2xOd0lLRklvcHJfT1pDS21EbEFvODRJei1fdDBneEctUExaMDZjT09zUy1zVkVaZGpnTQ?oc=5>
 
 ### 特朗普还有一场硬仗
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-09 14:52
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE50cEN5blR1TnN1MWJtMVR4b1VDR2pTcl9KZlFybG52R1N4X1VPQVFmMThaeF9kUUtSSk91VTZyNHMxaFJfaTN0UVJETzhiVXhSdFliRlkyV0huazlUbERmT0FkQS02c3VLekpYY2ZOLUtmOGlYTUE?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-05-09 14:50
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1wa3lMY05xV0p2c1IzWWdUekEtU2FqOG5ON1hleEo5dnMxRW9pNUpaMTZkbkVuV2NSaHFlVGN6WWR0WnRaVkNqV2RsSF8?oc=5>
 
-### 贸易法院裁定特朗普新版全球关税无效
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-08 17:03
-- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxOLVpLVzRwYVUxOEtDdkFLbXZWX2c3NkpZWkw4X0xzUUU0d3NQU3cyRUhseXVQMlFaY2pWU0xEamllaHZBRGswdUh5Qi1OQzRRUnlhUmtPclIxMTZsX1ZMM0VQOGxmWlFDaHJOdC1HOG1ZSU9acTdvZWlEQ3VlUjdmV1RsamY1TWlGQzFmcGZLeXNfNmpaTkdtZFlnZC1EMEFETk55aXFvYzdjMGlRQW9pZ0NjSVc5eXJrempQTkhMZE5NOHlreVFncHVDa0pIMWoxSU5xa0pHRVpnMDg1SGc?oc=5>
-
-### 特习会谈什么？(1)贸易：美中争相“出筹码”，但寻求“稳定”依然是双方目标
+### 特朗普媒体第一季度亏损扩大至$4.06亿，原因是比特币和CRO减值。
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-05-09 16:02
-- 链接: <https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ2ZNZ3YxNjM4blBTbTJTRHpLOGUxaDZEMm1UalFKT1dtWUhNYTR3UWpUc1NHdjh2UEx3R3h1amNKVkRtRmM4TzZjZnZZd20xNjV0N0VzcTVySkFYZ2JpMFFDZzgwUWdsZlR2VDRtUlFndDc4WmtfcUlPaF9GRm1rZ1gxQUVKaDB4b1VxWllFc0JqdWkySHN4UUhvUzd4Q0tQbjVjNGdJQ3V5UC1Pb2RjUVlCT1ZaeVRtaUpHUNIBvwFBVV95cUxQSzRWaVU2MDdsZXhPTm5DNGhKLVZDVG53UFBJMnYzdjlBWXdQTnh1U3V0bHB4MlE1Zmw4MzYtZ0xHN3RQMDhMdmpGS1MxbmR0YXRwTWgzdnRHQUtrUk1YVWVROWFpZ05JZTdaUlc4SGsyS0ZXZnhjdTBUc19JdmJkSlJWTWJrNUNndmMtOHptdFU1NlU5MVZDSDZ4RzZhdkppQThYWDZ2bV9kOEtLUXFranJLa2U3dU1wRW83WW5VOA?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-05-09 17:28
+- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxOWkwxUG55N3Z5ZVZTcXpOMU1fRGhEWG80Wld3LUZSQWJZdjVZNDVKVEtiUjNPYzcyTjdrenJrVjg2UXhlczcycGx6OHRSZlFrU3BsSEZxUkl2VV9pZFUxY0lCLWpLSTZ6TkNZalN5SEZENzZYaHhIRGdrUXZRU3dnaFF3YlRwdmJhaDU0VkNSM1dpbnFBNEdjSQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-09 17:44  (3 条)
+
+- **特朗普** | 特朗普：预计“很快”收到伊朗对美方最新和平方案的回应 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5TWG9LcjJfdlQ4bVlNYnFVV2xOd0lLRklvcHJfT1pDS21EbEFvODRJei1fdDBneEctUExaMDZjT09zUy1zVkVaZGpnTQ?oc=5>
+- **特朗普** | 特朗普还有一场硬仗 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1wa3lMY05xV0p2c1IzWWdUekEtU2FqOG5ON1hleEo5dnMxRW9pNUpaMTZkbkVuV2NSaHFlVGN6WWR0WnRaVkNqV2RsSF8?oc=5>
+- **Trump** | 特朗普媒体第一季度亏损扩大至$4.06亿，原因是比特币和CRO减值。 <https://news.google.com/rss/articles/CBMimAFBVV95cUxOWkwxUG55N3Z5ZVZTcXpOMU1fRGhEWG80Wld3LUZSQWJZdjVZNDVKVEtiUjNPYzcyTjdrenJrVjg2UXhlczcycGx6OHRSZlFrU3BsSEZxUkl2VV9pZFUxY0lCLWpLSTZ6TkNZalN5SEZENzZYaHhIRGdrUXZRU3dnaFF3YlRwdmJhaDU0VkNSM1dpbnFBNEdjSQ?oc=5>
 
 ### 2026-05-09 16:45  (5 条)
 
