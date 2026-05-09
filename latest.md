@@ -1,80 +1,109 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-09 05:34**
-- 本轮扫到 587 条, 新增 **8** 条
+- 最近更新: **2026-05-09 07:49**
+- 本轮扫到 597 条, 新增 **10** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (10 条)
 
-### 特朗普亲自说和，乌总统称“允许”红场阅兵-观察者网
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-05-09 03:46
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5yb1MwaHZFZTZNc292Z3hnTDV3a0RkMDlueFh3ZThfRWlsNnlTNGpuOGdXdkp5VUZmLVk3eEd0LU5BOThDcEVWUU5ORzRpUlhicXp6UFFkcVRDdEZzUHhDNVBBRXB5dmc3NWc?oc=5>
-
-### 特朗普称俄乌9日起停火三天并交换战俘
+### 特朗普称中美元首会谈将按计划举行，外交部：目前无进一步信息提供
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: thepaper.cn
-- 时间: 2026-05-08 18:32
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xSUlMcHpNQkZtMW52TC13ZU5rYkFhOXVXUWxSSnZGXzlUWUxwUGJSM0hVLWp0ZmVtSUw1RXkwWjNQekh1UXRERjdlOTdhZC1sSnZKTVdibmkwZ290Q3hwOQ?oc=5>
+- 时间: 2026-05-08 07:34
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SYzJFb1J6Y0R5WWFlNzgxVFFrcklFQ0ZEVHo2X1NUYTY2bW1pb0xrRk9JaHpkZVo0aHkxQnh1YXBNTmd4VEJiQUxRTlZxdmRTMmQtbXlhOEwzbkJxSVBFTQ?oc=5>
+
+### 250周年将近，特朗普嘴上不要，身体很诚实-观察者网
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察
+- 时间: 2026-05-09 06:55
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBEVFNuSHpVU2VPSkdXVC1xd1dCYVdva0hYbERMcUlMbjJjUzYxZlFUcmcwZFdLNkNyaGJJdXpyZkNUZnNuNDBFbDFkNWVJZHZ3YVFfeXJEWlJlVk5XT3JBendCbF9wNVA0MUE?oc=5>
+
+### 特朗普“密友”，访华了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-05-08 22:58
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE10aWRIbnlpWmJacUlxSnhrQWgtUVlVc1d2eGpRc3EwSXBlbmpQbTBYNl9Yc25hdmdzZG9XQXlGSFZKXzFNWGpad09jTmhCdHpFN0lZSnpvQW5pS2NhQUp5QzVrVlpralh0WDdnNlBuT1J2ODBqR3A1Xw?oc=5>
+
+### 特朗普称俄乌9日起停火三天，互换千名战俘；纳指、标普连涨六周再创新高；美团、淘宝、滴滴等平台优化算法；OPPO就母亲节文案致歉丨每经早参
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 每日经济新闻
+- 时间: 2026-05-08 22:53
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ocm1UOVlHajR5NzJNTEUzWE5TSUhISW9lOXFPMm1RSFVzRlo4bTAyeDg2VElXMkZNLS1kZ1A5dWJoTElCSWhTaVpzMEF5SEtsSlZLaUNaQldNRHZpbEcxTUtGYzBLdw?oc=5>
+
+### 特朗普撤军“惩罚”德国，跨大西洋同盟何去何从？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中国网
+- 时间: 2026-05-09 00:59
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE9kNkNjNklrNHlpTWUwRFBuYzU1elhIUUx5bjVLcUNpQ1d6Z0I2LUFrUnZreEI0NG9HR2FqMEVPNzVULUVTRUt4eWcxNWZKdjJyOUc2RWxiZ0ZLbTlBRnlmU3l2R0ptVzlVUlBfVWRCWQ?oc=5>
 
 ### 贸易法院裁定特朗普新版全球关税无效
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-09 04:21
-- 链接: <https://news.google.com/rss/articles/CBMijwJBVV95cUxQZlBXYXpuMU5sNllmVWRkbFJNT2ZPT0J0V3pSY2JhWS1HSDlHSGpmSTdRTFNIN0JjdG84bGdjb1M5c25fNXpnUE5PLTNJRkRYc2NsdTV2VUUwMG9Wb2o3aDExRWlYU3ZZa0NLSTV5OTZNOWdZZm1XVFNneHBVWVBYVWpKSzRWUGlfUzhZMFJOT21JakMtYWpxVU9USEtMeC1TOUJ1QWpPRElnMkFyZG5uWjRGZ1Y1ellrRE9Od1pZck5GMDFpUy1MeENySmZfcjNuNVRldnNjc3J0TGd0MlFwUkRDY0dQdmdTQW12SDhvX3ZGMURXcjlOcU1PNWhqN3JvbkZIdWNLTWxLemcxLTZJ?oc=5>
+- 时间: 2026-05-08 17:03
+- 链接: <https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTmswNmRSLVEtbFhQa1ZEclRqUEJmZnpuaS1iT1VKWGNzdElRbVdheGJlUUVFWnBqRGZmVkhHSnI0U3V6UXlqSVQwbXp4cGhaMmNkRVpzNklpV0E2Y0VPa2MwZDl0NjJFTlNkMzFGU29jckdUeVBaN0NnYkJkWTBoTVNVVktLX25LYUpkVWNMVlJOa3ZsTEFlWGFYOFBjcTJrR2EwX1VDMVp5anR3Q0QxX0l2dXBaN0ZOcUQ4RE9FeThpY2NqLVVGNzRjWnQ4LTVTdnc0c3lDbFNMMXpk?oc=5>
 
-### 美贸易法院裁定特朗普的10%全球关税无效后 司法部提出上诉
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-09 04:07
-- 链接: <https://news.google.com/rss/articles/CBMipwJBVV95cUxOczlQOEk4SGk4M0o0WjNyQ1RodVdSSGg2WUs4SkpzWVBlbkJKSHRIbXZNYjhEekk2VXRyeFhZUWNDRGVtUmdqMm5neVhyR200NWtVd3o1aGk5WFZySXdSREdjQkg1TnVYRVVWNVVrZUstaDNELXBQamhaZ3l4TXNVUDNmTFZlVTJnMjVBdkpLZWdPcm5OeEZaOFFzc3p1b3F3VTUxNEJJMjIzdWttNnpTeVhGeGNfN2ZqR1VLVE8tN1E5S01ISUMxUWhNVXFwMU1mX1MtQU5aQWluZkJxemZrUUxfamVTSGN3cWNzZF9DQTRWVWszQm5oUHpxaG9PdFBXRlJ3UTZWUmRfN19ma0JpQlEtUXVFWGotNEF4ME9FdHNUSU5na0pJ?oc=5>
-
-### “特朗普急于抽身，但伊朗似乎铁了心要羞辱他”-观察者网
+### 晚宴枪击事件后，特朗普再为白宫宴会厅项目辩护
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-05-09 03:53
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1UYnJWM0NSN0hOTTVLUVVTTjZBUWR2Wks0Q0JwaUFjYjlzYW1qY3RCbTlMUFJleTRSSEJaNXJ0SFF6QUZJZXNma3Z5YXV1VXZYR3ZvQ2EydVd4ZTd1SGExcDI2NS1fdTJoM1E?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-05-08 02:10
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9LY3dQSnZVWDFLQlNwN3pWOEV1bjlsY1E2enRwRm1hem42RHVNX2YtVDBBaklCUWpZeHNTQ201bjN3SWxkc2FUVGk0ZG4?oc=5>
 
-### 北京视美国为“跛脚的巨人”：习特会特朗普处境被动？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-05-07 19:30
-- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTE5yUTVUSk5qTnZvLXhJeWphRUxWYVh4ajdUR1JRMHFGRGwwMEhsZTRmMm5NRGZjOHUyX1U3R2NZWnZKTjJNMFUzLWdEdmZiVXdRUk15S1VjU2VLcHVDUzlnaHhwUEltSDA4Z0c3OGtZOHVUUlJXUjBDRl9sOA?oc=5>
-
-### 普林斯顿思想客｜谁是特朗普背后的智囊？美国新右翼激进主义的崛起
+### 特朗普称可能恢复“自由计划”行动
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-05-09 02:59
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE9vc3ZNX2x5M0ZBdEk2bWpTVG1IWXpMOXdLdXBHTDV5Nk51WlhMemVpZ2p3ZzZ6TVJ3UVMwOUpMZkM2OHE1cHFDbmRNTklrNmZoLVJqUFpyNy1uSXIya2toTDNlWEhpd3JxbkJpWTJvUEdtdw?oc=5>
+- 场馆: 新京报
+- 时间: 2026-05-09 00:21
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE81b2xwNmU0ZUI3QjRUZXBMUFp5YXdsOW5xOEl0aDhpc3ZiMXZ3V3lCMW5HektFdE5VaVJXX3h3eEI5OFR1Ulo4cGlNVERFbERTaFNMY3hWQ2V6OVhIWFNQUGR5Ukc?oc=5>
 
-### 特朗普“密友”，访华了-腾讯新闻
+### 美国贸易法院裁定：特朗普政府最新10%关税不合法
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: QQ News
-- 时间: 2026-05-09 00:31
-- 链接: <https://news.google.com/rss/articles/CBMiV0FVX3lxTFA0Ui1Rd3ZKalFZZjZzdzNjeHJ5ZHYwUG9LZXIzc0Z2V0J0bHF5Qkd5NDQ4ZFYwYWpYTnllSzZOby1yWllLY0RPX0diekk2UkRWamhYaUlXOA?oc=5>
+- 场馆: 凤凰网财经
+- 时间: 2026-05-08 00:01
+- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE52SDVqdnFsNENFMkVsd3c2bGJyc1BuS0NEd0hOUmhlM3UxaFAzREZnRU43V1gtc2xKMGlMT2pzcl9SNzN2a0tpdzNjWWZzSnVK?oc=5>
+
+### 特朗普媒体集团 Q1 财报：受数字资产下挫影响净亏损超 4 亿美元
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 吴说
+- 时间: 2026-05-09 07:12
+- 链接: <https://news.google.com/rss/articles/CBMijgFBVV95cUxOYUtaWUtCTERuUE0wNjdzTFQ2UjFhcmN2SXFfZTdwUDZOQXd4RWJmSmxseDZ5WG0tUmhyMmlsTVY4eTFhSldaM2FERkZVbTdhVVV4MTh6V3g1X3E0alhDZFRYMWJ4NWVtX1laVFB4bERUSHpyRGJ1YThtaUh3ZmdWQlU2ZWdfSlpYM0FQU3pR?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-09 07:49  (10 条)
+
+- **特朗普** | 特朗普称中美元首会谈将按计划举行，外交部：目前无进一步信息提供 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SYzJFb1J6Y0R5WWFlNzgxVFFrcklFQ0ZEVHo2X1NUYTY2bW1pb0xrRk9JaHpkZVo0aHkxQnh1YXBNTmd4VEJiQUxRTlZxdmRTMmQtbXlhOEwzbkJxSVBFTQ?oc=5>
+- **特朗普** | 250周年将近，特朗普嘴上不要，身体很诚实-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTFBEVFNuSHpVU2VPSkdXVC1xd1dCYVdva0hYbERMcUlMbjJjUzYxZlFUcmcwZFdLNkNyaGJJdXpyZkNUZnNuNDBFbDFkNWVJZHZ3YVFfeXJEWlJlVk5XT3JBendCbF9wNVA0MUE?oc=5>
+- **特朗普** | 特朗普“密友”，访华了 <https://news.google.com/rss/articles/CBMieEFVX3lxTE10aWRIbnlpWmJacUlxSnhrQWgtUVlVc1d2eGpRc3EwSXBlbmpQbTBYNl9Yc25hdmdzZG9XQXlGSFZKXzFNWGpad09jTmhCdHpFN0lZSnpvQW5pS2NhQUp5QzVrVlpralh0WDdnNlBuT1J2ODBqR3A1Xw?oc=5>
+- **特朗普** | 特朗普称俄乌9日起停火三天，互换千名战俘；纳指、标普连涨六周再创新高；美团、淘宝、滴滴等平台优化算法；OPPO就母亲节文案致歉丨每经早参 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ocm1UOVlHajR5NzJNTEUzWE5TSUhISW9lOXFPMm1RSFVzRlo4bTAyeDg2VElXMkZNLS1kZ1A5dWJoTElCSWhTaVpzMEF5SEtsSlZLaUNaQldNRHZpbEcxTUtGYzBLdw?oc=5>
+- **特朗普** | 特朗普撤军“惩罚”德国，跨大西洋同盟何去何从？ <https://news.google.com/rss/articles/CBMib0FVX3lxTE9kNkNjNklrNHlpTWUwRFBuYzU1elhIUUx5bjVLcUNpQ1d6Z0I2LUFrUnZreEI0NG9HR2FqMEVPNzVULUVTRUt4eWcxNWZKdjJyOUc2RWxiZ0ZLbTlBRnlmU3l2R0ptVzlVUlBfVWRCWQ?oc=5>
+- **特朗普** | 贸易法院裁定特朗普新版全球关税无效 <https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTmswNmRSLVEtbFhQa1ZEclRqUEJmZnpuaS1iT1VKWGNzdElRbVdheGJlUUVFWnBqRGZmVkhHSnI0U3V6UXlqSVQwbXp4cGhaMmNkRVpzNklpV0E2Y0VPa2MwZDl0NjJFTlNkMzFGU29jckdUeVBaN0NnYkJkWTBoTVNVVktLX25LYUpkVWNMVlJOa3ZsTEFlWGFYOFBjcTJrR2EwX1VDMVp5anR3Q0QxX0l2dXBaN0ZOcUQ4RE9FeThpY2NqLVVGNzRjWnQ4LTVTdnc0c3lDbFNMMXpk?oc=5>
+- **特朗普** | 晚宴枪击事件后，特朗普再为白宫宴会厅项目辩护 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9LY3dQSnZVWDFLQlNwN3pWOEV1bjlsY1E2enRwRm1hem42RHVNX2YtVDBBaklCUWpZeHNTQ201bjN3SWxkc2FUVGk0ZG4?oc=5>
+- **特朗普** | 特朗普称可能恢复“自由计划”行动 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE81b2xwNmU0ZUI3QjRUZXBMUFp5YXdsOW5xOEl0aDhpc3ZiMXZ3V3lCMW5HektFdE5VaVJXX3h3eEI5OFR1Ulo4cGlNVERFbERTaFNMY3hWQ2V6OVhIWFNQUGR5Ukc?oc=5>
+- **特朗普** | 美国贸易法院裁定：特朗普政府最新10%关税不合法 <https://news.google.com/rss/articles/CBMiUEFVX3lxTE52SDVqdnFsNENFMkVsd3c2bGJyc1BuS0NEd0hOUmhlM3UxaFAzREZnRU43V1gtc2xKMGlMT2pzcl9SNzN2a0tpdzNjWWZzSnVK?oc=5>
+- **Trump** | 特朗普媒体集团 Q1 财报：受数字资产下挫影响净亏损超 4 亿美元 <https://news.google.com/rss/articles/CBMijgFBVV95cUxOYUtaWUtCTERuUE0wNjdzTFQ2UjFhcmN2SXFfZTdwUDZOQXd4RWJmSmxseDZ5WG0tUmhyMmlsTVY4eTFhSldaM2FERkZVbTdhVVV4MTh6V3g1X3E0alhDZFRYMWJ4NWVtX1laVFB4bERUSHpyRGJ1YThtaUh3ZmdWQlU2ZWdfSlpYM0FQU3pR?oc=5>
 
 ### 2026-05-09 05:34  (8 条)
 
