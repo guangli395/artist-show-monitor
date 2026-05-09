@@ -1,72 +1,91 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-09 02:25**
-- 本轮扫到 579 条, 新增 **7** 条
+- 最近更新: **2026-05-09 05:34**
+- 本轮扫到 587 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (8 条)
 
-### 特朗普：祝大家母亲节周末快乐，尤其要祝贺仅4月一个月就新增11.5万就业岗位的全体美国民众！
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-09 01:25
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE45N0YtdTFtY3dqakNlaFkzYWZ5dHBtQ2JobXozM2EtZUZfMFFVRXFJSldreUZyS3Y1cVJ4Q2lkQ0prZGFZNGwwbWcyRQ?oc=5>
-
-### 俄方同意特朗普俄乌停火换俘提议
+### 特朗普亲自说和，乌总统称“允许”红场阅兵-观察者网
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Shangbao Indonesia
-- 时间: 2026-05-08 23:32
-- 链接: <https://news.google.com/rss/articles/CBMihAFBVV95cUxNWkRnVDF1SDJQdnlkZ0Jsa3pOeERDMVNSb0tGdWZvamVPcDZxd0JYc0tRelB4S0pkWjlRNkp1SjU4emc5MXNyRFpSTGhpdE9ieElhcW9HLXZESl8xSU9wbXVxVkdUUWwtakU2RFZRcHdxQVh0Sl9ENnpLLTRiU00yVkZzZmw?oc=5>
+- 场馆: 观察者
+- 时间: 2026-05-09 03:46
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5yb1MwaHZFZTZNc292Z3hnTDV3a0RkMDlueFh3ZThfRWlsNnlTNGpuOGdXdkp5VUZmLVk3eEd0LU5BOThDcEVWUU5ORzRpUlhicXp6UFFkcVRDdEZzUHhDNVBBRXB5dmc3NWc?oc=5>
 
-### 公然欺诈？特朗普手机吸金6000万美元，却没人知道发货时间-观察者网
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: guancha.cn
-- 时间: 2026-05-09 01:42
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE95cER1SkR0MDlfVnVvcTQ4bGxBdHVFX3Jpbm5FMFNTSk0xQjItWnctVGRwMUVGdGZrUE9nS29WYnV0YlBxclhNWGFuaUI3a0JnV1hyd1BBcUlzY0dkbWJIVjFjZGdOY3kxQWc?oc=5>
-
-### 谈到特朗普对伊朗动武，美国前副总统忍不住当场爆粗口
+### 特朗普称俄乌9日起停火三天并交换战俘
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: thepaper.cn
-- 时间: 2026-05-09 01:42
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mTDVlZy04c0V0XzhjQlVCX1lqejA0LTYzbG8tRkJiNlljdFpiTkpFblVlVGl4Z2U4M3lBOUhSbnFrZ0o0UnhjMjh1VFdwTkpnT2RVMGlNVTNXY0l4bEp2cg?oc=5>
+- 时间: 2026-05-08 18:32
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xSUlMcHpNQkZtMW52TC13ZU5rYkFhOXVXUWxSSnZGXzlUWUxwUGJSM0hVLWp0ZmVtSUw1RXkwWjNQekh1UXRERjdlOTdhZC1sSnZKTVdibmkwZ290Q3hwOQ?oc=5>
 
-### 特朗普：伊朗今晚可能给我们答复
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-05-08 23:51
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9WT2FfSGJvZVVyQXNGWnRJcm1uRTlQQk1Dd3daOFBiODZnZzdQdnlfMS00bHVZYmRFYk4xVVhtY2ZXODZBbVlURXdFQ3c?oc=5>
-
-### 特朗普：伊朗局势似乎进展得非常顺利。
+### 贸易法院裁定特朗普新版全球关税无效
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-08 23:53
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9idFhXT080Z3NMZG9Jdks5Z1A3ZHJ5YVIyd0JhNmVTLWNGNm55NC1PTnZuOUN6czFOMHY2MjNjXzh6dElIZ3QwX3lHVQ?oc=5>
+- 时间: 2026-05-09 04:21
+- 链接: <https://news.google.com/rss/articles/CBMijwJBVV95cUxQZlBXYXpuMU5sNllmVWRkbFJNT2ZPT0J0V3pSY2JhWS1HSDlHSGpmSTdRTFNIN0JjdG84bGdjb1M5c25fNXpnUE5PLTNJRkRYc2NsdTV2VUUwMG9Wb2o3aDExRWlYU3ZZa0NLSTV5OTZNOWdZZm1XVFNneHBVWVBYVWpKSzRWUGlfUzhZMFJOT21JakMtYWpxVU9USEtMeC1TOUJ1QWpPRElnMkFyZG5uWjRGZ1Y1ellrRE9Od1pZck5GMDFpUy1MeENySmZfcjNuNVRldnNjc3J0TGd0MlFwUkRDY0dQdmdTQW12SDhvX3ZGMURXcjlOcU1PNWhqN3JvbkZIdWNLTWxLemcxLTZJ?oc=5>
 
-### 特朗普撤军“惩罚”德国，跨大西洋同盟何去何从？
+### 美贸易法院裁定特朗普的10%全球关税无效后 司法部提出上诉
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中国网
-- 时间: 2026-05-09 00:59
-- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE5kYmdITW5DRzV2SEIxaklqSGVqMmtmMmxyOHoxTGxYWENOeE9rbEdSZGlxYzBRMDRsRmdMQjllYkpOeERsU3lZMVRXMmFVU01rOFNoMDNCQU5qRUJCRldPQkt4R1hEaXAyazc0a1dpdXRtcXRaM1diUG1R?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-05-09 04:07
+- 链接: <https://news.google.com/rss/articles/CBMipwJBVV95cUxOczlQOEk4SGk4M0o0WjNyQ1RodVdSSGg2WUs4SkpzWVBlbkJKSHRIbXZNYjhEekk2VXRyeFhZUWNDRGVtUmdqMm5neVhyR200NWtVd3o1aGk5WFZySXdSREdjQkg1TnVYRVVWNVVrZUstaDNELXBQamhaZ3l4TXNVUDNmTFZlVTJnMjVBdkpLZWdPcm5OeEZaOFFzc3p1b3F3VTUxNEJJMjIzdWttNnpTeVhGeGNfN2ZqR1VLVE8tN1E5S01ISUMxUWhNVXFwMU1mX1MtQU5aQWluZkJxemZrUUxfamVTSGN3cWNzZF9DQTRWVWszQm5oUHpxaG9PdFBXRlJ3UTZWUmRfN19ma0JpQlEtUXVFWGotNEF4ME9FdHNUSU5na0pJ?oc=5>
+
+### “特朗普急于抽身，但伊朗似乎铁了心要羞辱他”-观察者网
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-05-09 03:53
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1UYnJWM0NSN0hOTTVLUVVTTjZBUWR2Wks0Q0JwaUFjYjlzYW1qY3RCbTlMUFJleTRSSEJaNXJ0SFF6QUZJZXNma3Z5YXV1VXZYR3ZvQ2EydVd4ZTd1SGExcDI2NS1fdTJoM1E?oc=5>
+
+### 北京视美国为“跛脚的巨人”：习特会特朗普处境被动？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 纽约时报中文网
+- 时间: 2026-05-07 19:30
+- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTE5yUTVUSk5qTnZvLXhJeWphRUxWYVh4ajdUR1JRMHFGRGwwMEhsZTRmMm5NRGZjOHUyX1U3R2NZWnZKTjJNMFUzLWdEdmZiVXdRUk15S1VjU2VLcHVDUzlnaHhwUEltSDA4Z0c3OGtZOHVUUlJXUjBDRl9sOA?oc=5>
+
+### 普林斯顿思想客｜谁是特朗普背后的智囊？美国新右翼激进主义的崛起
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-05-09 02:59
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE9vc3ZNX2x5M0ZBdEk2bWpTVG1IWXpMOXdLdXBHTDV5Nk51WlhMemVpZ2p3ZzZ6TVJ3UVMwOUpMZkM2OHE1cHFDbmRNTklrNmZoLVJqUFpyNy1uSXIya2toTDNlWEhpd3JxbkJpWTJvUEdtdw?oc=5>
+
+### 特朗普“密友”，访华了-腾讯新闻
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: QQ News
+- 时间: 2026-05-09 00:31
+- 链接: <https://news.google.com/rss/articles/CBMiV0FVX3lxTFA0Ui1Rd3ZKalFZZjZzdzNjeHJ5ZHYwUG9LZXIzc0Z2V0J0bHF5Qkd5NDQ4ZFYwYWpYTnllSzZOby1yWllLY0RPX0diekk2UkRWamhYaUlXOA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-09 05:34  (8 条)
+
+- **特朗普** | 特朗普亲自说和，乌总统称“允许”红场阅兵-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE5yb1MwaHZFZTZNc292Z3hnTDV3a0RkMDlueFh3ZThfRWlsNnlTNGpuOGdXdkp5VUZmLVk3eEd0LU5BOThDcEVWUU5ORzRpUlhicXp6UFFkcVRDdEZzUHhDNVBBRXB5dmc3NWc?oc=5>
+- **特朗普** | 特朗普称俄乌9日起停火三天并交换战俘 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xSUlMcHpNQkZtMW52TC13ZU5rYkFhOXVXUWxSSnZGXzlUWUxwUGJSM0hVLWp0ZmVtSUw1RXkwWjNQekh1UXRERjdlOTdhZC1sSnZKTVdibmkwZ290Q3hwOQ?oc=5>
+- **特朗普** | 贸易法院裁定特朗普新版全球关税无效 <https://news.google.com/rss/articles/CBMijwJBVV95cUxQZlBXYXpuMU5sNllmVWRkbFJNT2ZPT0J0V3pSY2JhWS1HSDlHSGpmSTdRTFNIN0JjdG84bGdjb1M5c25fNXpnUE5PLTNJRkRYc2NsdTV2VUUwMG9Wb2o3aDExRWlYU3ZZa0NLSTV5OTZNOWdZZm1XVFNneHBVWVBYVWpKSzRWUGlfUzhZMFJOT21JakMtYWpxVU9USEtMeC1TOUJ1QWpPRElnMkFyZG5uWjRGZ1Y1ellrRE9Od1pZck5GMDFpUy1MeENySmZfcjNuNVRldnNjc3J0TGd0MlFwUkRDY0dQdmdTQW12SDhvX3ZGMURXcjlOcU1PNWhqN3JvbkZIdWNLTWxLemcxLTZJ?oc=5>
+- **特朗普** | 美贸易法院裁定特朗普的10%全球关税无效后 司法部提出上诉 <https://news.google.com/rss/articles/CBMipwJBVV95cUxOczlQOEk4SGk4M0o0WjNyQ1RodVdSSGg2WUs4SkpzWVBlbkJKSHRIbXZNYjhEekk2VXRyeFhZUWNDRGVtUmdqMm5neVhyR200NWtVd3o1aGk5WFZySXdSREdjQkg1TnVYRVVWNVVrZUstaDNELXBQamhaZ3l4TXNVUDNmTFZlVTJnMjVBdkpLZWdPcm5OeEZaOFFzc3p1b3F3VTUxNEJJMjIzdWttNnpTeVhGeGNfN2ZqR1VLVE8tN1E5S01ISUMxUWhNVXFwMU1mX1MtQU5aQWluZkJxemZrUUxfamVTSGN3cWNzZF9DQTRWVWszQm5oUHpxaG9PdFBXRlJ3UTZWUmRfN19ma0JpQlEtUXVFWGotNEF4ME9FdHNUSU5na0pJ?oc=5>
+- **特朗普** | “特朗普急于抽身，但伊朗似乎铁了心要羞辱他”-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE1UYnJWM0NSN0hOTTVLUVVTTjZBUWR2Wks0Q0JwaUFjYjlzYW1qY3RCbTlMUFJleTRSSEJaNXJ0SFF6QUZJZXNma3Z5YXV1VXZYR3ZvQ2EydVd4ZTd1SGExcDI2NS1fdTJoM1E?oc=5>
+- **特朗普** | 北京视美国为“跛脚的巨人”：习特会特朗普处境被动？ <https://news.google.com/rss/articles/CBMie0FVX3lxTE5yUTVUSk5qTnZvLXhJeWphRUxWYVh4ajdUR1JRMHFGRGwwMEhsZTRmMm5NRGZjOHUyX1U3R2NZWnZKTjJNMFUzLWdEdmZiVXdRUk15S1VjU2VLcHVDUzlnaHhwUEltSDA4Z0c3OGtZOHVUUlJXUjBDRl9sOA?oc=5>
+- **特朗普** | 普林斯顿思想客｜谁是特朗普背后的智囊？美国新右翼激进主义的崛起 <https://news.google.com/rss/articles/CBMickFVX3lxTE9vc3ZNX2x5M0ZBdEk2bWpTVG1IWXpMOXdLdXBHTDV5Nk51WlhMemVpZ2p3ZzZ6TVJ3UVMwOUpMZkM2OHE1cHFDbmRNTklrNmZoLVJqUFpyNy1uSXIya2toTDNlWEhpd3JxbkJpWTJvUEdtdw?oc=5>
+- **特朗普** | 特朗普“密友”，访华了-腾讯新闻 <https://news.google.com/rss/articles/CBMiV0FVX3lxTFA0Ui1Rd3ZKalFZZjZzdzNjeHJ5ZHYwUG9LZXIzc0Z2V0J0bHF5Qkd5NDQ4ZFYwYWpYTnllSzZOby1yWllLY0RPX0diekk2UkRWamhYaUlXOA?oc=5>
 
 ### 2026-05-09 02:25  (7 条)
 
