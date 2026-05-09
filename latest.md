@@ -1,56 +1,100 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-09 11:44**
-- 本轮扫到 611 条, 新增 **5** 条
+- 最近更新: **2026-05-09 13:04**
+- 本轮扫到 620 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (9 条)
 
-### 今晚，特朗普没等到伊朗的回复，伊方：不在乎什么截止日期！
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-05-09 05:28
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1hNEJ2ckQ1UXlxRFJjcXIxb21NdG5fc2k3YV8xaXV1MHpESkJsMkZvWnpDQW45N0JjOVh1ZmJLbDhMV3ZzQ2JvQjBjV2I?oc=5>
-
-### “他俩都把对方坑惨了，还甩不掉”-观察者网
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-05-09 10:46
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5Xd3lhXzFuVUdhcm40YVlvRkpqVDBzeVJWRmFlc0Y1d1NBSUJDbWlhekdQSm1BZ0pMeXhVZ2hEeFRKSHl2eV9yMGNFTWFvZW9jVWg5T25fa0xncmtPM0JlRnBxTGhCR3AzZ1E?oc=5>
-
-### 特朗普：俄乌停火可能持续超过3天
+### “特朗普急于抽身，但伊朗似乎铁了心要羞辱他”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-08 22:52
-- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE5sUjZRQndHTC1UdmhpbFEzbVd3RlpLYmZEamJOQm9zZGFSWndhWERjOVJXbmpRMFZWemZvaGtfUU1zZzcwWWNTWFRpcVB3aFcwUXRwRzYwTlE0cWJUS3pjcmFBRkU1cHpzTWs1ZjQ5ZlpROVZpNDNEWkpR?oc=5>
+- 时间: 2026-05-09 09:22
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE50eGlDdFZyUE9ZMzhoRDNZUXM4ZlRTVXh2VXp4Z0xIOHd2WEsyUHdxdE1WdlZPWXp4MC1Cdmo3UFRjSzA1VjJDS2x3UDFtUUQ0aWw0dXVxR3ppVHMwN1c1QlRicWF3LTE4WG5YSTJpa2lTMnNHOVE?oc=5>
 
-### 特朗普2028交棒：万斯、卢比奥，谁会是接班人？
+### 特朗普希望俄乌3天停火协议能够延长
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-05-09 13:00
+- 链接: <https://news.google.com/rss/articles/CBMioAJBVV95cUxOWjFiZjFCaDd3eC04ZE5lem4xajUtQ2l1al9zUFJMYkRtMC0xWmJsZnlPSm8zSEtSQ0VvTXpkS05Kcm1XLXUxaWFjVEV6VkFhaU53elk4NmEweWloTy1BSTMtZFdjT1hzeXJ1UkZabXFNTl9uanNkWW5wOU1OQlVKNDhSdTRsY29hMVZ3dDBYbGFPSGMtUVZ3b1JkdzZRcFNUaHRPNnpNYWJtOVBSSlBIYzFqSHFWR3FkelhrOHNJeEJsVTI2alNGbzczUUtCbjhhT2tIdUhETlJ2cEMybHVVeW9tSm5CVGNmNThVVmVvV0lGdTJ6YWlOUUxpbWNIT3AwR29wWEtUd3ZqSktRbDhuTFBlLW8zcWZrVWRRSXU3T1I?oc=5>
+
+### “内塔尼亚胡和特朗普都把对方坑惨了”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-09 10:55
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE12NUo1NExmVFQ4R2Y0d3hRakxGbmRJOXVNX19wT2VldTFiQVVwVUpwUzRtQXhiVEdtY1RTX29UYUJlT2RvQUdjNjlCN2Rqd3RmbXNkd05yX0hQYkQtVmstb25Gc1NBSDdnT0k2czVRZGh4SW4wenpWZA?oc=5>
+
+### “特朗普政府针对中企的限制，正危及美国制造业和发电业”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-05-08 14:50
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBrZHh1NjdPc3JxZHk0RTg2bnc3M1MyZXdQYS04d05oYzFNak5wY1JXbjRFYmtSQ0xIcHN4Nk9SYW5OZDZ0MkVGYzFrZnUzUUVUelRHODQ0NVNwX2JRNDdnc2NpMDBYLVlKR1E?oc=5>
+
+### 中美元首峰会在即：北京想要什么？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: DW.com
-- 时间: 2026-05-09 07:42
-- 链接: <https://news.google.com/rss/articles/CBMikwJBVV95cUxOLUVDNVJPSmJ1SEt2aEpDNTJiRHFRLXc4U0lfcVMxd3FkNmp3VG1pYzVvcEFmd0NHQms5VzdjWkZtMlhhVmdMaU1UVjNiZVVIV0FaZlBhVm1oM3pwd21RRXRiWDNYaTBEQjZxRUFMa1cyeTdnbG9hdTBVcTJ3dVNwUWhFeGo4SGVHaWtiZVZ0SFlfNW1VcTBvUkdsVnpoM21XMEhMS2VvMXp1bUZBaVZGTlBRYmZ4MEFMU0RTSzlYdHgwd0E4RlVUVFhTSHRWYnAzMHRYMkpyTTJUQUNIa1VGWHRZU3hQS3ZjbkoyYkJQYk1xYVpmZFBkeXFzWEFRcGozdlpFOEtoNi1PMnFFSERnaVJjZw?oc=5>
+- 时间: 2026-05-09 10:26
+- 链接: <https://news.google.com/rss/articles/CBMi8AFBVV95cUxQd2R1MXdyWnI1MXB6ZkZQWmdPNXEySWhaaFY1aWJHeWJwQnpjN0Q0YmtCZzNzZWhUMmdPaW5SVHRvV2xhWHhGQzI2LXJLMWVXTlNJeWJtWTVwd0JzRi1XOWNMSllGZkRueDhlWF9GMi1VS0tIZ3licXN6MGhpNGdDRmdKVVkwbVhsemxib1hndUxsRFl0SnpkeEY2ZG95cTVzSG1QYlFtVmV4T19WenlzSU4zRF9Ybk01R3haZUhad1JYaVdISk1CajRkOVRxaHJnNzB2OTlvYjdFalJaUTRwUWc0WENPRFNmRWl4NWs3RnHSAfABQVVfeXFMTnljZUVfTTVmcXo5b0JxcXZ5SjJIRHhWSUhNN3p0THJta3ZCTVAtMmFPNkZYZHJYTHM0cFZJb3N3RDd4ZnZoUWFhVmRTMHduaUVWd0ljLUNya0dRWmJDSFB1ZEhuVWhXUXhDUXlhU0dsRE5GeW9IMm95WS1OX01kWm5iNlQ5MndYOEJzVWlVTWttSXFqZGtZTUFLa1JlT0ExNVlrbGRGeFQzSjFDbG5TMF84RWE1WnAyRmJIN2Z0dkkzeFdsUTZ4TFRHOTNpdVFiVHNucVJvaDlBQVZQOVpKR0U0RU5Edi1UWDhGUzJKek9K?oc=5>
 
-### US President Donald Trump says truce with Iran still 'in effect’
+### 普林斯顿思想客｜谁是特朗普背后的智囊？美国新右翼激进主义的崛起
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-05-09 02:59
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE4yQjRSMFVNMTRlYTB4bWdTdkVwZU4xV3l3WklnUkZlOTVQeFJhRndTZHNWczBYTGZubXFmS0ZadDhCcFhjT21hQXc4TG5oVFNrd2Y4c3ZzdWZVcWtsNk9GbA?oc=5>
+
+### 《星球大战》男主角发“特朗普躺坟墓图”，配文“如果……就好了”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-05-08 18:15
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9saUpJVDJiTXNsWUhQUjJCUjFSQjhBeTdyaUxJVnNmYzNzWEZPaXV0dEpkaXZWUWMtOW85Uk1SeTJuamVPRUdPMmFBcVE?oc=5>
+
+### 特朗普称中美元首会谈将按计划举行 外交部：目前无进一步信息提供
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 东方财富
+- 时间: 2026-05-08 22:31
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5SZUkxcXJQaXY5WHh6TVVWQUxON1FJWUFaazVWS0RlWXVQMncyc1ZNSE1oUnUwYTFOazB2d3hudll4UVBmakVGb2M0UkZMMFlIaEtVQmliTmRnaVZDQWlPVg?oc=5>
+
+### 图辑：华盛顿宴会厅骤响枪声，晚宴现场陷入混乱
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: TMGM
-- 时间: 2026-05-08 17:34
-- 链接: <https://news.google.com/rss/articles/CBMizgFBVV95cUxONS1ROW1Udm8wbnVjQnliem5JZXJkS2Y5LURuOUhveEdxakZMaENOQll3Tm1ULTJ0RzBiNFgxNWJJMWxTcGRId2JVSVA1SW5BeEhhVFNrbl9GaVpqa05FcHFHLUQxcHJfZ0ZfbGhwWktFU0VubnFjOWhvaG1MR1UybTFaVjBrN0JsQTlEaXZMYjRHQ2RqRXdGcGFpY0lwdW9hakFtU2NrMHE4MkdPdUlOR2NNV0EtRl9admVmWWdwQXotcTFHUWxCYV9ENldfUQ?oc=5>
+- 场馆: BBC
+- 时间: 2026-04-26 07:00
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE40cWNxY2dHOVprX0Y2Nkowak1GcVNtaGhyaXJQa3ZEcV9SNUFzbUZJZmM0OVF4SHdxOVFpbFNXZVdQcVNONElJNjhvNUZtcFB5czc1d1dYVm1lekNDZmRwTVMtaW1pUdIBa0FVX3lxTE9wak4xNUsxb1ZWNF9OVUhvbzg1OXQ1eEdWZ0tPTElQT3JvY3E4WmdBejFYa1BCSm5oNUFLeV9LZDFjamVaUEdHMGZ3LXloc2p4bjBtMlhWX0JsTE95MFZFTTJlUFdFSXRDcTU0?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-09 13:04  (9 条)
+
+- **特朗普** | “特朗普急于抽身，但伊朗似乎铁了心要羞辱他” <https://news.google.com/rss/articles/CBMidkFVX3lxTE50eGlDdFZyUE9ZMzhoRDNZUXM4ZlRTVXh2VXp4Z0xIOHd2WEsyUHdxdE1WdlZPWXp4MC1Cdmo3UFRjSzA1VjJDS2x3UDFtUUQ0aWw0dXVxR3ppVHMwN1c1QlRicWF3LTE4WG5YSTJpa2lTMnNHOVE?oc=5>
+- **特朗普** | 特朗普希望俄乌3天停火协议能够延长 <https://news.google.com/rss/articles/CBMioAJBVV95cUxOWjFiZjFCaDd3eC04ZE5lem4xajUtQ2l1al9zUFJMYkRtMC0xWmJsZnlPSm8zSEtSQ0VvTXpkS05Kcm1XLXUxaWFjVEV6VkFhaU53elk4NmEweWloTy1BSTMtZFdjT1hzeXJ1UkZabXFNTl9uanNkWW5wOU1OQlVKNDhSdTRsY29hMVZ3dDBYbGFPSGMtUVZ3b1JkdzZRcFNUaHRPNnpNYWJtOVBSSlBIYzFqSHFWR3FkelhrOHNJeEJsVTI2alNGbzczUUtCbjhhT2tIdUhETlJ2cEMybHVVeW9tSm5CVGNmNThVVmVvV0lGdTJ6YWlOUUxpbWNIT3AwR29wWEtUd3ZqSktRbDhuTFBlLW8zcWZrVWRRSXU3T1I?oc=5>
+- **特朗普** | “内塔尼亚胡和特朗普都把对方坑惨了” <https://news.google.com/rss/articles/CBMieEFVX3lxTE12NUo1NExmVFQ4R2Y0d3hRakxGbmRJOXVNX19wT2VldTFiQVVwVUpwUzRtQXhiVEdtY1RTX29UYUJlT2RvQUdjNjlCN2Rqd3RmbXNkd05yX0hQYkQtVmstb25Gc1NBSDdnT0k2czVRZGh4SW4wenpWZA?oc=5>
+- **特朗普** | “特朗普政府针对中企的限制，正危及美国制造业和发电业” <https://news.google.com/rss/articles/CBMiakFVX3lxTFBrZHh1NjdPc3JxZHk0RTg2bnc3M1MyZXdQYS04d05oYzFNak5wY1JXbjRFYmtSQ0xIcHN4Nk9SYW5OZDZ0MkVGYzFrZnUzUUVUelRHODQ0NVNwX2JRNDdnc2NpMDBYLVlKR1E?oc=5>
+- **特朗普** | 中美元首峰会在即：北京想要什么？ <https://news.google.com/rss/articles/CBMi8AFBVV95cUxQd2R1MXdyWnI1MXB6ZkZQWmdPNXEySWhaaFY1aWJHeWJwQnpjN0Q0YmtCZzNzZWhUMmdPaW5SVHRvV2xhWHhGQzI2LXJLMWVXTlNJeWJtWTVwd0JzRi1XOWNMSllGZkRueDhlWF9GMi1VS0tIZ3licXN6MGhpNGdDRmdKVVkwbVhsemxib1hndUxsRFl0SnpkeEY2ZG95cTVzSG1QYlFtVmV4T19WenlzSU4zRF9Ybk01R3haZUhad1JYaVdISk1CajRkOVRxaHJnNzB2OTlvYjdFalJaUTRwUWc0WENPRFNmRWl4NWs3RnHSAfABQVVfeXFMTnljZUVfTTVmcXo5b0JxcXZ5SjJIRHhWSUhNN3p0THJta3ZCTVAtMmFPNkZYZHJYTHM0cFZJb3N3RDd4ZnZoUWFhVmRTMHduaUVWd0ljLUNya0dRWmJDSFB1ZEhuVWhXUXhDUXlhU0dsRE5GeW9IMm95WS1OX01kWm5iNlQ5MndYOEJzVWlVTWttSXFqZGtZTUFLa1JlT0ExNVlrbGRGeFQzSjFDbG5TMF84RWE1WnAyRmJIN2Z0dkkzeFdsUTZ4TFRHOTNpdVFiVHNucVJvaDlBQVZQOVpKR0U0RU5Edi1UWDhGUzJKek9K?oc=5>
+- **特朗普** | 普林斯顿思想客｜谁是特朗普背后的智囊？美国新右翼激进主义的崛起 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE4yQjRSMFVNMTRlYTB4bWdTdkVwZU4xV3l3WklnUkZlOTVQeFJhRndTZHNWczBYTGZubXFmS0ZadDhCcFhjT21hQXc4TG5oVFNrd2Y4c3ZzdWZVcWtsNk9GbA?oc=5>
+- **特朗普** | 《星球大战》男主角发“特朗普躺坟墓图”，配文“如果……就好了” <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9saUpJVDJiTXNsWUhQUjJCUjFSQjhBeTdyaUxJVnNmYzNzWEZPaXV0dEpkaXZWUWMtOW85Uk1SeTJuamVPRUdPMmFBcVE?oc=5>
+- **特朗普** | 特朗普称中美元首会谈将按计划举行 外交部：目前无进一步信息提供 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5SZUkxcXJQaXY5WHh6TVVWQUxON1FJWUFaazVWS0RlWXVQMncyc1ZNSE1oUnUwYTFOazB2d3hudll4UVBmakVGb2M0UkZMMFlIaEtVQmliTmRnaVZDQWlPVg?oc=5>
+- **Trump** | 图辑：华盛顿宴会厅骤响枪声，晚宴现场陷入混乱 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE40cWNxY2dHOVprX0Y2Nkowak1GcVNtaGhyaXJQa3ZEcV9SNUFzbUZJZmM0OVF4SHdxOVFpbFNXZVdQcVNONElJNjhvNUZtcFB5czc1d1dYVm1lekNDZmRwTVMtaW1pUdIBa0FVX3lxTE9wak4xNUsxb1ZWNF9OVUhvbzg1OXQ1eEdWZ0tPTElQT3JvY3E4WmdBejFYa1BCSm5oNUFLeV9LZDFjamVaUEdHMGZ3LXloc2p4bjBtMlhWX0JsTE95MFZFTTJlUFdFSXRDcTU0?oc=5>
 
 ### 2026-05-09 11:44  (5 条)
 
