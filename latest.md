@@ -1,11 +1,11 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-09 21:38**
-- 本轮扫到 650 条, 新增 **3** 条
+- 最近更新: **2026-05-09 22:37**
+- 本轮扫到 652 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (2 条)
 
 ### 特朗普表示：道理很简单。无论我能否让教皇满意，伊朗都绝对不能拥有核武器。”
 
@@ -13,28 +13,25 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-05-09 21:34
-- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ieVk5blR2TTRTUmRfMTd4dGVid0Rfc1VFWTZUN1VVenhLZFpYcHFGbUR2aWlXTG13NzBNYkl3eWp6dV9KQ2dXTUo5R1dTaDA?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBtMUEzeFRsUjFSdE1OS2JXOGpnM2pydE5ScUwxSEF2clY1RUQ4b2NuMkExQzB1UmozYXBDMWRkbmpNdjRncmRDakRGVQ?oc=5>
 
-### 特朗普称俄乌9日起停火三天 互换千名战俘
+### 美国市场 Donald Trump 今日价格｜TRUMP 兑 USD 实时价格和图表
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-05-08 18:02
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE9oRGg2Vkl5RDNfblZKZ1dDb2I4dXZwMkRNNDNLc3ZYX0JQQVF6UDlMcE56aWFPTXdxcUFhSmlWc0hxUEZPTmdBRmE4TldQX3RCcFNKZGp0VDdlSk9xcmt4Njh1dDZzaHZ1RUZZam9adkVtVjBf?oc=5>
-
-### 特朗普希望俄乌“大幅延长”停火，俄方回应
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-09 19:32
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE92LUFMMlptdDFUUy04LTJIV0ExcnNRWHRtSTRwMUZhRFZ3aXNSM0tYN0RzMnZMTjJPLVJycE5aamd2cGg2bmxnYkV5eXdRMG5KLXp6azVQR0hWRXJ4VzVxa3NBaUlEMlJoZ01wWW1NdS1KazVqUlNMeA?oc=5>
+- 场馆: Binance
+- 时间: 2026-05-05 19:32
+- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTFBrU0RsVzJrRzhiS0hNa2hWTjV5QUhacjJNSllkS21sOHhOLS1QMjRwMGhBS3dnNlV6SUhRQjRkMFRPVWNmZDhKVzJNQjljVl91VV81bVlWOXZGdE5rYlpELVdB?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-09 22:37  (2 条)
+
+- **特朗普** | 特朗普表示：道理很简单。无论我能否让教皇满意，伊朗都绝对不能拥有核武器。” <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBtMUEzeFRsUjFSdE1OS2JXOGpnM2pydE5ScUwxSEF2clY1RUQ4b2NuMkExQzB1UmozYXBDMWRkbmpNdjRncmRDakRGVQ?oc=5>
+- **Trump** | 美国市场 Donald Trump 今日价格｜TRUMP 兑 USD 实时价格和图表 <https://news.google.com/rss/articles/CBMiYkFVX3lxTFBrU0RsVzJrRzhiS0hNa2hWTjV5QUhacjJNSllkS21sOHhOLS1QMjRwMGhBS3dnNlV6SUhRQjRkMFRPVWNmZDhKVzJNQjljVl91VV81bVlWOXZGdE5rYlpELVdB?oc=5>
 
 ### 2026-05-09 21:38  (3 条)
 
