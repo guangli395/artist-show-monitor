@@ -1,39 +1,13 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-09 17:44**
-- 本轮扫到 638 条, 新增 **3** 条
+- 最近更新: **2026-05-09 18:52**
+- 本轮扫到 638 条, 新增 **0** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮无新增
 
-### 特朗普：预计“很快”收到伊朗对美方最新和平方案的回应
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-09 17:39
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5TWG9LcjJfdlQ4bVlNYnFVV2xOd0lLRklvcHJfT1pDS21EbEFvODRJei1fdDBneEctUExaMDZjT09zUy1zVkVaZGpnTQ?oc=5>
-
-### 特朗普还有一场硬仗
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-05-09 14:50
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1wa3lMY05xV0p2c1IzWWdUekEtU2FqOG5ON1hleEo5dnMxRW9pNUpaMTZkbkVuV2NSaHFlVGN6WWR0WnRaVkNqV2RsSF8?oc=5>
-
-### 特朗普媒体第一季度亏损扩大至$4.06亿，原因是比特币和CRO减值。
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-05-09 17:28
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxOWkwxUG55N3Z5ZVZTcXpOMU1fRGhEWG80Wld3LUZSQWJZdjVZNDVKVEtiUjNPYzcyTjdrenJrVjg2UXhlczcycGx6OHRSZlFrU3BsSEZxUkl2VV9pZFUxY0lCLWpLSTZ6TkNZalN5SEZENzZYaHhIRGdrUXZRU3dnaFF3YlRwdmJhaDU0VkNSM1dpbnFBNEdjSQ?oc=5>
-
-
----
-
+数据库里所有演出/动态都已见过,暂无新增。
 ## 历史发现
 
 ### 2026-05-09 17:44  (3 条)
