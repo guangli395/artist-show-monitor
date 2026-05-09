@@ -1,56 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-09 20:38**
-- 本轮扫到 647 条, 新增 **5** 条
+- 最近更新: **2026-05-09 21:38**
+- 本轮扫到 650 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (3 条)
 
-### 特朗普：预计“很快”收到伊朗对美方最新和平方案的回应
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 央视网
-- 时间: 2026-05-09 19:32
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1qdWloUE1mUS1sWTJINlNFbUl0M08tWWIwekFjRDlLdDZLTE9GdWVYT05IN21CVkNiNzFoVnNQLTVNbGxEOVgyX0txY1ZWWEpEa0FHaEZwR0tiUzFzWVJnZ1hWMm9oWERRVEhmUFRzakxVNExLQVNISw?oc=5>
-
-### 特朗普接受法国LCJ频道采访称：伊朗确实有意达成协议。
+### 特朗普表示：道理很简单。无论我能否让教皇满意，伊朗都绝对不能拥有核武器。”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-09 17:46
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5qMjFVcWVUOURmbzV2YkhoVFI4eERhTjNnRHhBZmxfNUYyWHQzSE0zQzY4cEJoZU5sclhDYV83TVplczRrNHJRN1Vwaw?oc=5>
+- 时间: 2026-05-09 21:34
+- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ieVk5blR2TTRTUmRfMTd4dGVid0Rfc1VFWTZUN1VVenhLZFpYcHFGbUR2aWlXTG13NzBNYkl3eWp6dV9KQ2dXTUo5R1dTaDA?oc=5>
 
-### 美国公布首批UFO文件，特朗普：大家自行判断
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-05-09 03:14
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUWXNNaEpsbVNxV3FJSHBkR0VSdlNIQ0R6dEdIdzFPNDRmcTNjTEZLQ2pfME5XNjlDMzRYQ3M3VmIzSkpOWDZqUFhYdGo0bGdWMjc5a2cybVhRSVFjZ0hycg?oc=5>
-
-### 特朗普又遭重大打击！美法院裁决：其新宣布的“征收10%全球进口关税”政策，法律依据不成立！此前收的上万亿元关税已被裁定违法将退还
+### 特朗普称俄乌9日起停火三天 互换千名战俘
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-05-08 11:24
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9MU0NqN2NheGpBYnZkdzFHNnVEaUF6bzc1NDdWdVNoV2t0VzNocExYMWw3YXVpY1NUOURCVHdIS0xtcGg4aU5fT1RaQUVkcG5Sci1jY05uV0VtWUk5RXZDWXVyaDZudHNYZzBuZ25iX2Z2Rk9qbGYwZw?oc=5>
+- 时间: 2026-05-08 18:02
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE9oRGg2Vkl5RDNfblZKZ1dDb2I4dXZwMkRNNDNLc3ZYX0JQQVF6UDlMcE56aWFPTXdxcUFhSmlWc0hxUEZPTmdBRmE4TldQX3RCcFNKZGp0VDdlSk9xcmt4Njh1dDZzaHZ1RUZZam9adkVtVjBf?oc=5>
 
-### 美贸易法院裁定特朗普的10%全球关税无效后 司法部提出上诉
+### 特朗普希望俄乌“大幅延长”停火，俄方回应
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-08 20:04
-- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxQUzBveTQzNmMtYmNXbFNzRjNiMnZmYmFKT0hFd1hSSjdfTlpCekhwMUlmVUZrVGpBUlBpOFdLSF9RdHJFMUlrSzhGOFRTY2Z5bjVUM3JETV9HZ3hGYm8zUGs5WllhVFVRbWZkdHFUYjVyYm8xT00xMFBLLTNiZjVKV0RNTEVwMWtoVnp0VGRDbw?oc=5>
+- 时间: 2026-05-09 19:32
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE92LUFMMlptdDFUUy04LTJIV0ExcnNRWHRtSTRwMUZhRFZ3aXNSM0tYN0RzMnZMTjJPLVJycE5aamd2cGg2bmxnYkV5eXdRMG5KLXp6azVQR0hWRXJ4VzVxa3NBaUlEMlJoZ01wWW1NdS1KazVqUlNMeA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-09 21:38  (3 条)
+
+- **特朗普** | 特朗普表示：道理很简单。无论我能否让教皇满意，伊朗都绝对不能拥有核武器。” <https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ieVk5blR2TTRTUmRfMTd4dGVid0Rfc1VFWTZUN1VVenhLZFpYcHFGbUR2aWlXTG13NzBNYkl3eWp6dV9KQ2dXTUo5R1dTaDA?oc=5>
+- **特朗普** | 特朗普称俄乌9日起停火三天 互换千名战俘 <https://news.google.com/rss/articles/CBMidEFVX3lxTE9oRGg2Vkl5RDNfblZKZ1dDb2I4dXZwMkRNNDNLc3ZYX0JQQVF6UDlMcE56aWFPTXdxcUFhSmlWc0hxUEZPTmdBRmE4TldQX3RCcFNKZGp0VDdlSk9xcmt4Njh1dDZzaHZ1RUZZam9adkVtVjBf?oc=5>
+- **特朗普** | 特朗普希望俄乌“大幅延长”停火，俄方回应 <https://news.google.com/rss/articles/CBMieEFVX3lxTE92LUFMMlptdDFUUy04LTJIV0ExcnNRWHRtSTRwMUZhRFZ3aXNSM0tYN0RzMnZMTjJPLVJycE5aamd2cGg2bmxnYkV5eXdRMG5KLXp6azVQR0hWRXJ4VzVxa3NBaUlEMlJoZ01wWW1NdS1KazVqUlNMeA?oc=5>
 
 ### 2026-05-09 20:38  (5 条)
 
