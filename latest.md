@@ -1,52 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-09 10:32**
-- 本轮扫到 606 条, 新增 **5** 条
+- 最近更新: **2026-05-09 11:44**
+- 本轮扫到 611 条, 新增 **5** 条
 
 ---
 
 ## 本轮新发现 (5 条)
 
-### 王一博曾包揽多场重磅赛事主题曲
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1496814565_m593793e5033020ri0.html>
-
-### 周杰伦演唱会合唱《蒲公英的约定》引发观众青春共鸣
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301bgvy.html>
-
-### 特朗普访华，重要又特殊在哪儿？
+### 今晚，特朗普没等到伊朗的回复，伊方：不在乎什么截止日期！
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: guancha.cn
-- 时间: 2026-05-07 04:52
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wYUN0cDlIOXVSd3VoU0h6YjFjRVJuc2J6NlhEZnlzeHN1XzZtSmpGenVvYnUzNU15YVZINlJPZmw5VFhGa2hoMmk1NTduY1hXRnpJSWVtaEptb1l4dm92cWgyZXN1aEk?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-05-09 05:28
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1hNEJ2ckQ1UXlxRFJjcXIxb21NdG5fc2k3YV8xaXV1MHpESkJsMkZvWnpDQW45N0JjOVh1ZmJLbDhMV3ZzQ2JvQjBjV2I?oc=5>
 
-### 美媒：北京邀随特朗普访华美企与中国领导人会谈 被美拒绝
+### “他俩都把对方坑惨了，还甩不掉”-观察者网
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-05-08 07:26
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pZ3ZYMGltZkYtY0xCaHdIVWRYQURQYlV3a2dJQnpoSnljemFqWjlTa2thTEdHbm12b0lreTFZUC0teVh0QjNVSzZyUTBZSUFOOHFFLUV2ZEdqbjRFTmU4c0V0ZU9vQQ?oc=5>
+- 场馆: 观察者
+- 时间: 2026-05-09 10:46
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5Xd3lhXzFuVUdhcm40YVlvRkpqVDBzeVJWRmFlc0Y1d1NBSUJDbWlhekdQSm1BZ0pMeXhVZ2hEeFRKSHl2eV9yMGNFTWFvZW9jVWg5T25fa0xncmtPM0JlRnBxTGhCR3AzZ1E?oc=5>
 
-### 悬浮物体与闪光：五角大楼的UFO解密档案披露了什么？
+### 特朗普：俄乌停火可能持续超过3天
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-08 22:52
+- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE5sUjZRQndHTC1UdmhpbFEzbVd3RlpLYmZEamJOQm9zZGFSWndhWERjOVJXbmpRMFZWemZvaGtfUU1zZzcwWWNTWFRpcVB3aFcwUXRwRzYwTlE0cWJUS3pjcmFBRkU1cHpzTWs1ZjQ5ZlpROVZpNDNEWkpR?oc=5>
+
+### 特朗普2028交棒：万斯、卢比奥，谁会是接班人？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: DW.com
+- 时间: 2026-05-09 07:42
+- 链接: <https://news.google.com/rss/articles/CBMikwJBVV95cUxOLUVDNVJPSmJ1SEt2aEpDNTJiRHFRLXc4U0lfcVMxd3FkNmp3VG1pYzVvcEFmd0NHQms5VzdjWkZtMlhhVmdMaU1UVjNiZVVIV0FaZlBhVm1oM3pwd21RRXRiWDNYaTBEQjZxRUFMa1cyeTdnbG9hdTBVcTJ3dVNwUWhFeGo4SGVHaWtiZVZ0SFlfNW1VcTBvUkdsVnpoM21XMEhMS2VvMXp1bUZBaVZGTlBRYmZ4MEFMU0RTSzlYdHgwd0E4RlVUVFhTSHRWYnAzMHRYMkpyTTJUQUNIa1VGWHRZU3hQS3ZjbkoyYkJQYk1xYVpmZFBkeXFzWEFRcGozdlpFOEtoNi1PMnFFSERnaVJjZw?oc=5>
+
+### US President Donald Trump says truce with Iran still 'in effect’
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-05-09 01:51
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5aUHlTOWZGcE5ad1F5SWVacGo0eklmOEt5X0Q1cl92NXlBWWpBRldlaEVjeV9UUUF0dEFxVEp1UDFfek9wdTRabU92Rnl6M0Q1a1B6X0V1V25jeXBMbExjYlJLWHZTQdIBa0FVX3lxTE9zU29KQjVyODZkbTBCemhhWGtTeXZ6M2VyN1RkTXo0ZWxKRGdiYmV2S1V0bm50OHIzQm5fR0VEUFNYZVZwOXN5UFdUenl4NUJjcUVna0t0Z3hwNGMzeGFoUWdBSFpGbGd4YWY0?oc=5>
+- 场馆: TMGM
+- 时间: 2026-05-08 17:34
+- 链接: <https://news.google.com/rss/articles/CBMizgFBVV95cUxONS1ROW1Udm8wbnVjQnliem5JZXJkS2Y5LURuOUhveEdxakZMaENOQll3Tm1ULTJ0RzBiNFgxNWJJMWxTcGRId2JVSVA1SW5BeEhhVFNrbl9GaVpqa05FcHFHLUQxcHJfZ0ZfbGhwWktFU0VubnFjOWhvaG1MR1UybTFaVjBrN0JsQTlEaXZMYjRHQ2RqRXdGcGFpY0lwdW9hakFtU2NrMHE4MkdPdUlOR2NNV0EtRl9admVmWWdwQXotcTFHUWxCYV9ENldfUQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-09 11:44  (5 条)
+
+- **特朗普** | 今晚，特朗普没等到伊朗的回复，伊方：不在乎什么截止日期！ <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1hNEJ2ckQ1UXlxRFJjcXIxb21NdG5fc2k3YV8xaXV1MHpESkJsMkZvWnpDQW45N0JjOVh1ZmJLbDhMV3ZzQ2JvQjBjV2I?oc=5>
+- **特朗普** | “他俩都把对方坑惨了，还甩不掉”-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE5Xd3lhXzFuVUdhcm40YVlvRkpqVDBzeVJWRmFlc0Y1d1NBSUJDbWlhekdQSm1BZ0pMeXhVZ2hEeFRKSHl2eV9yMGNFTWFvZW9jVWg5T25fa0xncmtPM0JlRnBxTGhCR3AzZ1E?oc=5>
+- **特朗普** | 特朗普：俄乌停火可能持续超过3天 <https://news.google.com/rss/articles/CBMiekFVX3lxTE5sUjZRQndHTC1UdmhpbFEzbVd3RlpLYmZEamJOQm9zZGFSWndhWERjOVJXbmpRMFZWemZvaGtfUU1zZzcwWWNTWFRpcVB3aFcwUXRwRzYwTlE0cWJUS3pjcmFBRkU1cHpzTWs1ZjQ5ZlpROVZpNDNEWkpR?oc=5>
+- **特朗普** | 特朗普2028交棒：万斯、卢比奥，谁会是接班人？ <https://news.google.com/rss/articles/CBMikwJBVV95cUxOLUVDNVJPSmJ1SEt2aEpDNTJiRHFRLXc4U0lfcVMxd3FkNmp3VG1pYzVvcEFmd0NHQms5VzdjWkZtMlhhVmdMaU1UVjNiZVVIV0FaZlBhVm1oM3pwd21RRXRiWDNYaTBEQjZxRUFMa1cyeTdnbG9hdTBVcTJ3dVNwUWhFeGo4SGVHaWtiZVZ0SFlfNW1VcTBvUkdsVnpoM21XMEhMS2VvMXp1bUZBaVZGTlBRYmZ4MEFMU0RTSzlYdHgwd0E4RlVUVFhTSHRWYnAzMHRYMkpyTTJUQUNIa1VGWHRZU3hQS3ZjbkoyYkJQYk1xYVpmZFBkeXFzWEFRcGozdlpFOEtoNi1PMnFFSERnaVJjZw?oc=5>
+- **Trump** | US President Donald Trump says truce with Iran still 'in effect’ <https://news.google.com/rss/articles/CBMizgFBVV95cUxONS1ROW1Udm8wbnVjQnliem5JZXJkS2Y5LURuOUhveEdxakZMaENOQll3Tm1ULTJ0RzBiNFgxNWJJMWxTcGRId2JVSVA1SW5BeEhhVFNrbl9GaVpqa05FcHFHLUQxcHJfZ0ZfbGhwWktFU0VubnFjOWhvaG1MR1UybTFaVjBrN0JsQTlEaXZMYjRHQ2RqRXdGcGFpY0lwdW9hakFtU2NrMHE4MkdPdUlOR2NNV0EtRl9admVmWWdwQXotcTFHUWxCYV9ENldfUQ?oc=5>
 
 ### 2026-05-09 10:32  (5 条)
 
