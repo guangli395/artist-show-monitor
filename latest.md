@@ -1,66 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-09 15:45**
-- 本轮扫到 630 条, 新增 **7** 条
+- 最近更新: **2026-05-09 16:45**
+- 本轮扫到 635 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (5 条)
 
-### 王一博连续2年献唱五四主题曲
+### 特朗普访华前 美国制裁九个协助伊朗军事及卫星定位的中国大陆及香港实体
 
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019058xcq.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-05-09 15:58
+- 链接: <https://news.google.com/rss/articles/CBMi7ANBVV95cUxOUjV6NnZHa195M3labFU1MzhkdHBUdTBHdDBNX2RDSVNGQUlYdkk1bEtaa1hZTTFReDFyN0NQelJRYVNBdVJpeUp4WnVqNEZ1ODhmUTZRdUZScjhJS1h6TllQYy0tREE2b1BjVDlVSVdRY1BDUFZEVWR0SHdOamUtOWJpbW5Vdl9CR2dFcm84aGc2Vk9jUmJDaDFNS0x3ZnBtc2U2QmRSNG0yS3NsS1k5dGlkNFYyQmhadjlrU2pWM200aGwwNU5LNVlMMDRRNEoyaVJUR3dnb0FaYWFNXzIxVWhPTWZoWU9nTGY3UVZBbGtaMDhRbWwxNDltM3hLQzB6RERsWVZhcHN6cTRpa3ZnLXJZeS1aeWY1YUF1eXBjZ2k1bFFCR1VfUDRGS2tKbHROcV9fbEtBTHRfZlVjc0NsVkl4cTRXTUF4ZHdReElJejZhSDM5TzJKUHFiWUU2dWJjRlNaUjRiaFFHMUpmSXlOMDJrUnpqRS01SE56bGdlMkpPTXdrTmRZX3RSLS1JZV9RbTBHcHY4MXJ6UjRWQVFOYVE0elRZRjVkbEZqQ1JKYTNNZ2h0VGs2ejhhZ1V3c2w3X0paYUlZVV8xQ3NfR2h6bkxkcUVUQU9VSXU2RUdWRTlkTzY3MUNtd3hIVlI?oc=5>
 
-### 王一博献唱！《无名》主题曲MV曝光
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019058vz6.html>
-
-### 她可是周杰伦MV里闪耀登场的女主角！
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6063043098_m16962b21a03301eemm.html>
-
-### “特朗普真的想结束战争，但伊朗似乎铁了心要羞辱他”
+### 北约国家为特朗普从欧洲撤出更多部队做准备
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-09 03:53
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1HU2paWGhvaTVWY2l5SWlRakF1OE4tbWZVRS1MZElBWHBCWDVNWnlXRDBlRnItd2Z1MEFKOEpqODFkRHNBQ2ZjaE9DUU9kMFI1aTdUQUhfTTNSejk1RXQ5VlJmaE1Ya0lORllzSERMVjhZYnVUTWF6RQ?oc=5>
+- 时间: 2026-05-09 15:42
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XQTNDdWJvWEJnb3hJZzdMbXg1dS1KWlZIa0lvWG1aU1owUzJGYWRRSjA2U2daTEhvREJVU3ZmNGVhZUVPVUloU2x3aw?oc=5>
 
-### 大变局：美国认怂了？特朗普不惜代价重开霍尔木兹海峡
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网财经
-- 时间: 2026-05-09 00:27
-- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE9EXzVPUk9XbTFYSUpNdzJwa2pmbU9JWHRvQThUVXkxSmozMmxWTGg5bnhNbmRCWnprZ2RkY1BBMG1uOUxuWkZkLUxYdC1uUHEy?oc=5>
-
-### 特朗普连打几个电话训斥，他也“危”了？-观察者网
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察
-- 时间: 2026-05-09 15:20
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE0wUVMxNGdPN1h4cWpVSl9vZkY4MVJXSGttYkVVdWswdUVHeF9QdXpKRHk5N25yZ1FzYk40MXBUYktFdEVVbnIzRTkzdEphM21pRUVMeW1YRTFjU3hUZ29kUEpnaUJvRURzMEE?oc=5>
-
-### 特朗普希望俄乌“大幅延长”停火 俄方回应
+### 特朗普还有一场硬仗
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-09 12:56
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE92ck1mMTZLNTE0QnFVOTlmZXNqZ2VmMTZ0MnJaTnpMb2RRT2duaTFXQVNySVNwM2VnS1A1b1c5enRneTdpV0NscWRURQ?oc=5>
+- 时间: 2026-05-09 14:52
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE50cEN5blR1TnN1MWJtMVR4b1VDR2pTcl9KZlFybG52R1N4X1VPQVFmMThaeF9kUUtSSk91VTZyNHMxaFJfaTN0UVJETzhiVXhSdFliRlkyV0huazlUbERmT0FkQS02c3VLekpYY2ZOLUtmOGlYTUE?oc=5>
+
+### 贸易法院裁定特朗普新版全球关税无效
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-08 17:03
+- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxOLVpLVzRwYVUxOEtDdkFLbXZWX2c3NkpZWkw4X0xzUUU0d3NQU3cyRUhseXVQMlFaY2pWU0xEamllaHZBRGswdUh5Qi1OQzRRUnlhUmtPclIxMTZsX1ZMM0VQOGxmWlFDaHJOdC1HOG1ZSU9acTdvZWlEQ3VlUjdmV1RsamY1TWlGQzFmcGZLeXNfNmpaTkdtZFlnZC1EMEFETk55aXFvYzdjMGlRQW9pZ0NjSVc5eXJrempQTkhMZE5NOHlreVFncHVDa0pIMWoxSU5xa0pHRVpnMDg1SGc?oc=5>
+
+### 特习会谈什么？(1)贸易：美中争相“出筹码”，但寻求“稳定”依然是双方目标
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-05-09 16:02
+- 链接: <https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ2ZNZ3YxNjM4blBTbTJTRHpLOGUxaDZEMm1UalFKT1dtWUhNYTR3UWpUc1NHdjh2UEx3R3h1amNKVkRtRmM4TzZjZnZZd20xNjV0N0VzcTVySkFYZ2JpMFFDZzgwUWdsZlR2VDRtUlFndDc4WmtfcUlPaF9GRm1rZ1gxQUVKaDB4b1VxWllFc0JqdWkySHN4UUhvUzd4Q0tQbjVjNGdJQ3V5UC1Pb2RjUVlCT1ZaeVRtaUpHUNIBvwFBVV95cUxQSzRWaVU2MDdsZXhPTm5DNGhKLVZDVG53UFBJMnYzdjlBWXdQTnh1U3V0bHB4MlE1Zmw4MzYtZ0xHN3RQMDhMdmpGS1MxbmR0YXRwTWgzdnRHQUtrUk1YVWVROWFpZ05JZTdaUlc4SGsyS0ZXZnhjdTBUc19JdmJkSlJWTWJrNUNndmMtOHptdFU1NlU5MVZDSDZ4RzZhdkppQThYWDZ2bV9kOEtLUXFranJLa2U3dU1wRW83WW5VOA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-09 16:45  (5 条)
+
+- **特朗普** | 特朗普访华前 美国制裁九个协助伊朗军事及卫星定位的中国大陆及香港实体 <https://news.google.com/rss/articles/CBMi7ANBVV95cUxOUjV6NnZHa195M3labFU1MzhkdHBUdTBHdDBNX2RDSVNGQUlYdkk1bEtaa1hZTTFReDFyN0NQelJRYVNBdVJpeUp4WnVqNEZ1ODhmUTZRdUZScjhJS1h6TllQYy0tREE2b1BjVDlVSVdRY1BDUFZEVWR0SHdOamUtOWJpbW5Vdl9CR2dFcm84aGc2Vk9jUmJDaDFNS0x3ZnBtc2U2QmRSNG0yS3NsS1k5dGlkNFYyQmhadjlrU2pWM200aGwwNU5LNVlMMDRRNEoyaVJUR3dnb0FaYWFNXzIxVWhPTWZoWU9nTGY3UVZBbGtaMDhRbWwxNDltM3hLQzB6RERsWVZhcHN6cTRpa3ZnLXJZeS1aeWY1YUF1eXBjZ2k1bFFCR1VfUDRGS2tKbHROcV9fbEtBTHRfZlVjc0NsVkl4cTRXTUF4ZHdReElJejZhSDM5TzJKUHFiWUU2dWJjRlNaUjRiaFFHMUpmSXlOMDJrUnpqRS01SE56bGdlMkpPTXdrTmRZX3RSLS1JZV9RbTBHcHY4MXJ6UjRWQVFOYVE0elRZRjVkbEZqQ1JKYTNNZ2h0VGs2ejhhZ1V3c2w3X0paYUlZVV8xQ3NfR2h6bkxkcUVUQU9VSXU2RUdWRTlkTzY3MUNtd3hIVlI?oc=5>
+- **特朗普** | 北约国家为特朗普从欧洲撤出更多部队做准备 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XQTNDdWJvWEJnb3hJZzdMbXg1dS1KWlZIa0lvWG1aU1owUzJGYWRRSjA2U2daTEhvREJVU3ZmNGVhZUVPVUloU2x3aw?oc=5>
+- **特朗普** | 特朗普还有一场硬仗 <https://news.google.com/rss/articles/CBMidkFVX3lxTE50cEN5blR1TnN1MWJtMVR4b1VDR2pTcl9KZlFybG52R1N4X1VPQVFmMThaeF9kUUtSSk91VTZyNHMxaFJfaTN0UVJETzhiVXhSdFliRlkyV0huazlUbERmT0FkQS02c3VLekpYY2ZOLUtmOGlYTUE?oc=5>
+- **特朗普** | 贸易法院裁定特朗普新版全球关税无效 <https://news.google.com/rss/articles/CBMi3gFBVV95cUxOLVpLVzRwYVUxOEtDdkFLbXZWX2c3NkpZWkw4X0xzUUU0d3NQU3cyRUhseXVQMlFaY2pWU0xEamllaHZBRGswdUh5Qi1OQzRRUnlhUmtPclIxMTZsX1ZMM0VQOGxmWlFDaHJOdC1HOG1ZSU9acTdvZWlEQ3VlUjdmV1RsamY1TWlGQzFmcGZLeXNfNmpaTkdtZFlnZC1EMEFETk55aXFvYzdjMGlRQW9pZ0NjSVc5eXJrempQTkhMZE5NOHlreVFncHVDa0pIMWoxSU5xa0pHRVpnMDg1SGc?oc=5>
+- **Trump** | 特习会谈什么？(1)贸易：美中争相“出筹码”，但寻求“稳定”依然是双方目标 <https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ2ZNZ3YxNjM4blBTbTJTRHpLOGUxaDZEMm1UalFKT1dtWUhNYTR3UWpUc1NHdjh2UEx3R3h1amNKVkRtRmM4TzZjZnZZd20xNjV0N0VzcTVySkFYZ2JpMFFDZzgwUWdsZlR2VDRtUlFndDc4WmtfcUlPaF9GRm1rZ1gxQUVKaDB4b1VxWllFc0JqdWkySHN4UUhvUzd4Q0tQbjVjNGdJQ3V5UC1Pb2RjUVlCT1ZaeVRtaUpHUNIBvwFBVV95cUxQSzRWaVU2MDdsZXhPTm5DNGhKLVZDVG53UFBJMnYzdjlBWXdQTnh1U3V0bHB4MlE1Zmw4MzYtZ0xHN3RQMDhMdmpGS1MxbmR0YXRwTWgzdnRHQUtrUk1YVWVROWFpZ05JZTdaUlc4SGsyS0ZXZnhjdTBUc19JdmJkSlJWTWJrNUNndmMtOHptdFU1NlU5MVZDSDZ4RzZhdkppQThYWDZ2bV9kOEtLUXFranJLa2U3dU1wRW83WW5VOA?oc=5>
 
 ### 2026-05-09 15:45  (7 条)
 
