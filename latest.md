@@ -1,40 +1,76 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-09 14:33**
-- 本轮扫到 623 条, 新增 **3** 条
+- 最近更新: **2026-05-09 15:45**
+- 本轮扫到 630 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (7 条)
 
-### 美AI企业恼火：白宫内部大乱斗，到底在搞什么？！
+### 王一博连续2年献唱五四主题曲
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019058xcq.html>
+
+### 王一博献唱！《无名》主题曲MV曝光
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019058vz6.html>
+
+### 她可是周杰伦MV里闪耀登场的女主角！
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_6063043098_m16962b21a03301eemm.html>
+
+### “特朗普真的想结束战争，但伊朗似乎铁了心要羞辱他”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-09 14:22
-- 链接: <https://news.google.com/rss/articles/CBMipwFBVV95cUxQTnAzYlZKYnpzTm11RVV0NDRBRU5XbHc3YXhBeHl1anRHT3BVS2RJS1NaTENzcjZRMk9JcmNnOW9NeFJNaHBreUQ5M3FzLVlFeHNaT1BnbzNZNy1mc1MwNWNRN0poTmVWNlZWc3hLSEMxSnJreTFIak1VTURLeTg0Y2VETHpPN3VMX0stZUVaNU9hV0Y3X2x3V3ZDeDMybVJYUUY0VVRFNA?oc=5>
+- 时间: 2026-05-09 03:53
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1HU2paWGhvaTVWY2l5SWlRakF1OE4tbWZVRS1MZElBWHBCWDVNWnlXRDBlRnItd2Z1MEFKOEpqODFkRHNBQ2ZjaE9DUU9kMFI1aTdUQUhfTTNSejk1RXQ5VlJmaE1Ya0lORllzSERMVjhZYnVUTWF6RQ?oc=5>
 
-### 长平观察：为什么特朗普的北京之行注定失败？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: DW.com
-- 时间: 2026-05-09 13:11
-- 链接: <https://news.google.com/rss/articles/CBMirAJBVV95cUxPY0RRZnJXR2RHN1pSM1E4N21DNHBUeURqNEdqM0hvTGRVMHZBMmVsRUdBSHVzcEhQRGMwdVNOS0NOYnFwWTJlQlVESVowaFcwRk1WWnpmUkoxbWtaTVhyb2loNDRLSzg0c29zNGdvSk82NWVFbDczNi1RYVlvMHlPbzZPakdiQnZpT243UUhJMGRfVE9MSGh5d2E0bUdKRWlmdjFJbVd1MzVrWFI3eWo3Q0lrcjloLTRhT0pISDAyTnlpV0VaUnJnUWVKRENuRFhUbDZ0ODhiWDdUd1VmSzZrU19KUzNCMWpEcGQtNlVZZjQ5MmhOSTlycVNrUGRBZkV0TmFFNGZXUGlPQUlWRDRuV1ZRdGxyUDRZNUVNNXFLdmROZ2s3ZmFJLXJFUkfSAawCQVVfeXFMTUpWTzBfYzdra2hBZjdCWjVjN003YVZCa0NQY191LXotQlJHS0pDbUFsYnJyS2JEYl8tMEE5YWpJWTh5NV95el9HWktmRXgwQTdjN2lZS2FISVdsVXlTZ19ER05SR3VqRTVhUjJNMGVqYjIxbTJWZlZzYTdwaWhnWlNwTmhBaFVQRVB4VjBCUDdJLXFId0c5My1aSHkycEN0TlY5MjBjM2JFVHZJOGtzWTFxNjhrRW5ieHpVdC1oN2RiYjUzY0I2bnRDZXpEY3Y0MEhDd2c3UXhydmR2aFRWM3NxbmxlcE1TdmE3S3RWMTRXdloxN1c4Z0NsMFNBbHBrZDNyR3BzR3cxM0NQbkV6Skt2TnVoUVFWSjhOYWFFSzhNZ2hVaUZjaW9PelBI?oc=5>
-
-### 特朗普称中美元首会谈将按计划举行，外交部回应
+### 大变局：美国认怂了？特朗普不惜代价重开霍尔木兹海峡
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-05-08 07:47
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTFBOUUxJVC1KbmlpTU9oeEx1YXZ3bENqeVlKX1BhS0MyS0RPb0I5ZURLeHJqUW1nUjBnUjYxeFVyU013QXFzRXQ4aA?oc=5>
+- 场馆: 凤凰网财经
+- 时间: 2026-05-09 00:27
+- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE9EXzVPUk9XbTFYSUpNdzJwa2pmbU9JWHRvQThUVXkxSmozMmxWTGg5bnhNbmRCWnprZ2RkY1BBMG1uOUxuWkZkLUxYdC1uUHEy?oc=5>
+
+### 特朗普连打几个电话训斥，他也“危”了？-观察者网
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察
+- 时间: 2026-05-09 15:20
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE0wUVMxNGdPN1h4cWpVSl9vZkY4MVJXSGttYkVVdWswdUVHeF9QdXpKRHk5N25yZ1FzYk40MXBUYktFdEVVbnIzRTkzdEphM21pRUVMeW1YRTFjU3hUZ29kUEpnaUJvRURzMEE?oc=5>
+
+### 特朗普希望俄乌“大幅延长”停火 俄方回应
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-09 12:56
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE92ck1mMTZLNTE0QnFVOTlmZXNqZ2VmMTZ0MnJaTnpMb2RRT2duaTFXQVNySVNwM2VnS1A1b1c5enRneTdpV0NscWRURQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-09 15:45  (7 条)
+
+- **王一博** | 王一博连续2年献唱五四主题曲 <https://k.sina.com.cn/article_7857201856_1d45362c0019058xcq.html>
+- **王一博** | 王一博献唱！《无名》主题曲MV曝光 <https://k.sina.com.cn/article_7857201856_1d45362c0019058vz6.html>
+- **周杰伦** | 她可是周杰伦MV里闪耀登场的女主角！ <https://k.sina.com.cn/article_6063043098_m16962b21a03301eemm.html>
+- **特朗普** | “特朗普真的想结束战争，但伊朗似乎铁了心要羞辱他” <https://news.google.com/rss/articles/CBMieEFVX3lxTE1HU2paWGhvaTVWY2l5SWlRakF1OE4tbWZVRS1MZElBWHBCWDVNWnlXRDBlRnItd2Z1MEFKOEpqODFkRHNBQ2ZjaE9DUU9kMFI1aTdUQUhfTTNSejk1RXQ5VlJmaE1Ya0lORllzSERMVjhZYnVUTWF6RQ?oc=5>
+- **特朗普** | 大变局：美国认怂了？特朗普不惜代价重开霍尔木兹海峡 <https://news.google.com/rss/articles/CBMiUEFVX3lxTE9EXzVPUk9XbTFYSUpNdzJwa2pmbU9JWHRvQThUVXkxSmozMmxWTGg5bnhNbmRCWnprZ2RkY1BBMG1uOUxuWkZkLUxYdC1uUHEy?oc=5>
+- **特朗普** | 特朗普连打几个电话训斥，他也“危”了？-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE0wUVMxNGdPN1h4cWpVSl9vZkY4MVJXSGttYkVVdWswdUVHeF9QdXpKRHk5N25yZ1FzYk40MXBUYktFdEVVbnIzRTkzdEphM21pRUVMeW1YRTFjU3hUZ29kUEpnaUJvRURzMEE?oc=5>
+- **特朗普** | 特朗普希望俄乌“大幅延长”停火 俄方回应 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE92ck1mMTZLNTE0QnFVOTlmZXNqZ2VmMTZ0MnJaTnpMb2RRT2duaTFXQVNySVNwM2VnS1A1b1c5enRneTdpV0NscWRURQ?oc=5>
 
 ### 2026-05-09 14:33  (3 条)
 
