@@ -1,56 +1,82 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-08 23:52**
-- 本轮扫到 572 条, 新增 **5** 条
+- 最近更新: **2026-05-09 02:25**
+- 本轮扫到 579 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (7 条)
 
-### “特朗普来谈也好，来打也罢，我们不怕”-观察者网
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-05-08 01:10
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE95cHFSYmVYektOZlJFcnRMODVSWTBab3ZBa0NMYjFfODFXUDFhTWFzV000WWFRdEs3bmZZN0loQXQ3d2txYzRVXy1kNF9yWUZ2bzZQd0RObjBsczRHVlkxWkdJWHIxNWNlZlE?oc=5>
-
-### 特朗普：或把撤离德国的美军调往波兰。
+### 特朗普：祝大家母亲节周末快乐，尤其要祝贺仅4月一个月就新增11.5万就业岗位的全体美国民众！
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-08 22:40
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBTSEpVNkI1a21lOWhyLTNGbWNNVjhaWHhQVFRUcjhtWlBlNTljXzJGc3M2QTNFV1RlYXQ3M1RiU0E0XzVzRmtJc0dvVQ?oc=5>
+- 时间: 2026-05-09 01:25
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE45N0YtdTFtY3dqakNlaFkzYWZ5dHBtQ2JobXozM2EtZUZfMFFVRXFJSldreUZyS3Y1cVJ4Q2lkQ0prZGFZNGwwbWcyRQ?oc=5>
 
-### 特朗普：乌克兰-俄罗斯停火可能持续超过3天。
+### 俄方同意特朗普俄乌停火换俘提议
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Shangbao Indonesia
+- 时间: 2026-05-08 23:32
+- 链接: <https://news.google.com/rss/articles/CBMihAFBVV95cUxNWkRnVDF1SDJQdnlkZ0Jsa3pOeERDMVNSb0tGdWZvamVPcDZxd0JYc0tRelB4S0pkWjlRNkp1SjU4emc5MXNyRFpSTGhpdE9ieElhcW9HLXZESl8xSU9wbXVxVkdUUWwtakU2RFZRcHdxQVh0Sl9ENnpLLTRiU00yVkZzZmw?oc=5>
+
+### 公然欺诈？特朗普手机吸金6000万美元，却没人知道发货时间-观察者网
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: guancha.cn
+- 时间: 2026-05-09 01:42
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE95cER1SkR0MDlfVnVvcTQ4bGxBdHVFX3Jpbm5FMFNTSk0xQjItWnctVGRwMUVGdGZrUE9nS29WYnV0YlBxclhNWGFuaUI3a0JnV1hyd1BBcUlzY0dkbWJIVjFjZGdOY3kxQWc?oc=5>
+
+### 谈到特朗普对伊朗动武，美国前副总统忍不住当场爆粗口
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-05-09 01:42
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mTDVlZy04c0V0XzhjQlVCX1lqejA0LTYzbG8tRkJiNlljdFpiTkpFblVlVGl4Z2U4M3lBOUhSbnFrZ0o0UnhjMjh1VFdwTkpnT2RVMGlNVTNXY0l4bEp2cg?oc=5>
+
+### 特朗普：伊朗今晚可能给我们答复
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-05-08 23:51
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9WT2FfSGJvZVVyQXNGWnRJcm1uRTlQQk1Dd3daOFBiODZnZzdQdnlfMS00bHVZYmRFYk4xVVhtY2ZXODZBbVlURXdFQ3c?oc=5>
+
+### 特朗普：伊朗局势似乎进展得非常顺利。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-08 22:38
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBWdi02ZUgxRHNCd0VCWlhYdDRKVmZ2dEs0TndodEZPU1ktUGVQQ1N3VUg1MWR4OWJwckxRaTB2S3BjZm5seE55RnlBQQ?oc=5>
+- 时间: 2026-05-08 23:53
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9idFhXT080Z3NMZG9Jdks5Z1A3ZHJ5YVIyd0JhNmVTLWNGNm55NC1PTnZuOUN6czFOMHY2MjNjXzh6dElIZ3QwX3lHVQ?oc=5>
 
-### 特朗普：巴西想和我们做生意。
+### 特朗普撤军“惩罚”德国，跨大西洋同盟何去何从？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-08 22:37
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE90MENyR0tCLWJoYmFJTkFOU1l1eC12NnJEU1VXSGhRWnIyX1Yzc1d2Vnp1ZHFhTkF2QTRvTk56cU9kRDlja05pWm1Dbw?oc=5>
-
-### Trump Media & Technology(Q1)亏损扩大
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: AASTOCKS.com
-- 时间: 2026-05-08 20:49
-- 链接: <https://news.google.com/rss/articles/CBMinwFBVV95cUxPQW02YXZ6RXduZEQyUFN0OVYyQldvWGFQVGdCVHJ3U0kybTRzc25QMmhseWZ2eElXVmc5cmZYaE5CRWlfb01Gc1JpRXNkeUpKemNSVjdKZnppcnUzeDNlZXpuc2UxQmlRdmFTWDZIQUx0SWs3R1J6cjZMTWJ0MGNjQzBVVmNtQk5oYUxZQTdYZTUwREJzQmo0LUxwYzJOWEE?oc=5>
+- 场馆: 中国网
+- 时间: 2026-05-09 00:59
+- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE5kYmdITW5DRzV2SEIxaklqSGVqMmtmMmxyOHoxTGxYWENOeE9rbEdSZGlxYzBRMDRsRmdMQjllYkpOeERsU3lZMVRXMmFVU01rOFNoMDNCQU5qRUJCRldPQkt4R1hEaXAyazc0a1dpdXRtcXRaM1diUG1R?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-09 02:25  (7 条)
+
+- **特朗普** | 特朗普：祝大家母亲节周末快乐，尤其要祝贺仅4月一个月就新增11.5万就业岗位的全体美国民众！ <https://news.google.com/rss/articles/CBMiS0FVX3lxTE45N0YtdTFtY3dqakNlaFkzYWZ5dHBtQ2JobXozM2EtZUZfMFFVRXFJSldreUZyS3Y1cVJ4Q2lkQ0prZGFZNGwwbWcyRQ?oc=5>
+- **特朗普** | 俄方同意特朗普俄乌停火换俘提议 <https://news.google.com/rss/articles/CBMihAFBVV95cUxNWkRnVDF1SDJQdnlkZ0Jsa3pOeERDMVNSb0tGdWZvamVPcDZxd0JYc0tRelB4S0pkWjlRNkp1SjU4emc5MXNyRFpSTGhpdE9ieElhcW9HLXZESl8xSU9wbXVxVkdUUWwtakU2RFZRcHdxQVh0Sl9ENnpLLTRiU00yVkZzZmw?oc=5>
+- **特朗普** | 公然欺诈？特朗普手机吸金6000万美元，却没人知道发货时间-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE95cER1SkR0MDlfVnVvcTQ4bGxBdHVFX3Jpbm5FMFNTSk0xQjItWnctVGRwMUVGdGZrUE9nS29WYnV0YlBxclhNWGFuaUI3a0JnV1hyd1BBcUlzY0dkbWJIVjFjZGdOY3kxQWc?oc=5>
+- **特朗普** | 谈到特朗普对伊朗动武，美国前副总统忍不住当场爆粗口 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mTDVlZy04c0V0XzhjQlVCX1lqejA0LTYzbG8tRkJiNlljdFpiTkpFblVlVGl4Z2U4M3lBOUhSbnFrZ0o0UnhjMjh1VFdwTkpnT2RVMGlNVTNXY0l4bEp2cg?oc=5>
+- **特朗普** | 特朗普：伊朗今晚可能给我们答复 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9WT2FfSGJvZVVyQXNGWnRJcm1uRTlQQk1Dd3daOFBiODZnZzdQdnlfMS00bHVZYmRFYk4xVVhtY2ZXODZBbVlURXdFQ3c?oc=5>
+- **特朗普** | 特朗普：伊朗局势似乎进展得非常顺利。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9idFhXT080Z3NMZG9Jdks5Z1A3ZHJ5YVIyd0JhNmVTLWNGNm55NC1PTnZuOUN6czFOMHY2MjNjXzh6dElIZ3QwX3lHVQ?oc=5>
+- **特朗普** | 特朗普撤军“惩罚”德国，跨大西洋同盟何去何从？ <https://news.google.com/rss/articles/CBMiekFVX3lxTE5kYmdITW5DRzV2SEIxaklqSGVqMmtmMmxyOHoxTGxYWENOeE9rbEdSZGlxYzBRMDRsRmdMQjllYkpOeERsU3lZMVRXMmFVU01rOFNoMDNCQU5qRUJCRldPQkt4R1hEaXAyazc0a1dpdXRtcXRaM1diUG1R?oc=5>
 
 ### 2026-05-08 23:52  (5 条)
 
