@@ -1,46 +1,60 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-09 09:13**
-- 本轮扫到 601 条, 新增 **4** 条
+- 最近更新: **2026-05-09 10:32**
+- 本轮扫到 606 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (5 条)
 
-### 肖老师发布两张月照引猜测
+### 王一博曾包揽多场重磅赛事主题曲
 
 - 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6085757622_m16abd4ab603301qzg6.html>
+- 链接: <https://k.sina.com.cn/article_1496814565_m593793e5033020ri0.html>
 
-### 国会两院两党百余名议员敦促特朗普总统美中峰会期间呼吁习近平释放黎智英
+### 周杰伦演唱会合唱《蒲公英的约定》引发观众青春共鸣
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-05-08 16:05
-- 链接: <https://news.google.com/rss/articles/CBMi-AFBVV95cUxOVzhGdUhYNUFZdEg5YnZscnNJX1Y5Q0VDRGRUajdTUEo0Z3VOcHZqenZzaElOc05BM1p2aXVIUmVPQ0wtczdfa0JmTm1CNmZMb1dIRXdmV0g3T2s3SWMtT3JxQTJ2MXFrTG52aXo2WFoydXdZLWRheUpPZjJuVlJ1UzQ3QVhaelMxbkdxdGZlM0RvN0M3R3llSTFEcDFpYUJJX2ZuekRpYXJ2ZlJjbEhxVFQ1RG1WQ1RVaEUyTHdhdmd3eF9aaE1qYmNodUtPVHFPREd0NEZGZ1VYWUZCV2hmcHlOREFWb0dwemdBcTByQ2ppR1lhSzFiddIB-wFBVV95cUxOTi1uVnBQY1VRM2otUGZRTWN0UE84TDFOaEVLZ2NVOHJtYkMwbDFWOVBlOTB6WVliT0U2X0hiQWE0ZHdjbWJnMW1Gd1pNSHR1TTJCbzZqMjZOeG9VTDFyMjVvRjhrX1ZITWoybmxXR1ZhcDhEXzBhWjR3ZHc0bkF1eUsxYm9FeExjNXFCOUh6SHVobno5UmloVzFEdnRBQy1XbHFEaUx0M2l5M0VuN0JhVjVWS1ZOcDBUWVhYWmVZN2ZTTlEza2x4LXhSYmtXVmlONTNRUk9fdjZuN2doSEQyWG8zT2RLczZBa1ZYbWV0WmFnblg4ZTRSendkQQ?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301bgvy.html>
 
-### 对抗特朗普，德国拉了个名单-观察者网
+### 特朗普访华，重要又特殊在哪儿？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: guancha.cn
-- 时间: 2026-05-08 15:16
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE4yajZvcXFMYVg2QXRYM3ZRaXFqZmxtdFhNNWg1TDRqQXBoX0ZsWTFEYm5mbHNOenNEV2kwLVdRbHlveUlkUGRMQy1oaDJZakVrTGVHM1VhSEVVSmhlZWc4UTRqN2VYUmtEMGc?oc=5>
+- 时间: 2026-05-07 04:52
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wYUN0cDlIOXVSd3VoU0h6YjFjRVJuc2J6NlhEZnlzeHN1XzZtSmpGenVvYnUzNU15YVZINlJPZmw5VFhGa2hoMmk1NTduY1hXRnpJSWVtaEptb1l4dm92cWgyZXN1aEk?oc=5>
 
-### 美国独立250周年将近，特朗普嘴上不要中国烟花，身体很诚实
+### 美媒：北京邀随特朗普访华美企与中国领导人会谈 被美拒绝
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-05-09 07:43
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1hTk02cEQ1RVBra0Npcl82WUV4V0duWXZWTmpESjQ0VEdXV1BkMTd2SGpjMVFBQjRUbGtxMllOTk9FZnhnb3RMM1Izb1I?oc=5>
+- 场馆: 联合早报
+- 时间: 2026-05-08 07:26
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pZ3ZYMGltZkYtY0xCaHdIVWRYQURQYlV3a2dJQnpoSnljemFqWjlTa2thTEdHbm12b0lreTFZUC0teVh0QjNVSzZyUTBZSUFOOHFFLUV2ZEdqbjRFTmU4c0V0ZU9vQQ?oc=5>
+
+### 悬浮物体与闪光：五角大楼的UFO解密档案披露了什么？
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: BBC
+- 时间: 2026-05-09 01:51
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5aUHlTOWZGcE5ad1F5SWVacGo0eklmOEt5X0Q1cl92NXlBWWpBRldlaEVjeV9UUUF0dEFxVEp1UDFfek9wdTRabU92Rnl6M0Q1a1B6X0V1V25jeXBMbExjYlJLWHZTQdIBa0FVX3lxTE9zU29KQjVyODZkbTBCemhhWGtTeXZ6M2VyN1RkTXo0ZWxKRGdiYmV2S1V0bm50OHIzQm5fR0VEUFNYZVZwOXN5UFdUenl4NUJjcUVna0t0Z3hwNGMzeGFoUWdBSFpGbGd4YWY0?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-09 10:32  (5 条)
+
+- **王一博** | 王一博曾包揽多场重磅赛事主题曲 <https://k.sina.com.cn/article_1496814565_m593793e5033020ri0.html>
+- **周杰伦** | 周杰伦演唱会合唱《蒲公英的约定》引发观众青春共鸣 <https://k.sina.com.cn/article_7879924009_m1d5ae192903301bgvy.html>
+- **特朗普** | 特朗普访华，重要又特殊在哪儿？ <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wYUN0cDlIOXVSd3VoU0h6YjFjRVJuc2J6NlhEZnlzeHN1XzZtSmpGenVvYnUzNU15YVZINlJPZmw5VFhGa2hoMmk1NTduY1hXRnpJSWVtaEptb1l4dm92cWgyZXN1aEk?oc=5>
+- **特朗普** | 美媒：北京邀随特朗普访华美企与中国领导人会谈 被美拒绝 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pZ3ZYMGltZkYtY0xCaHdIVWRYQURQYlV3a2dJQnpoSnljemFqWjlTa2thTEdHbm12b0lreTFZUC0teVh0QjNVSzZyUTBZSUFOOHFFLUV2ZEdqbjRFTmU4c0V0ZU9vQQ?oc=5>
+- **Trump** | 悬浮物体与闪光：五角大楼的UFO解密档案披露了什么？ <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5aUHlTOWZGcE5ad1F5SWVacGo0eklmOEt5X0Q1cl92NXlBWWpBRldlaEVjeV9UUUF0dEFxVEp1UDFfek9wdTRabU92Rnl6M0Q1a1B6X0V1V25jeXBMbExjYlJLWHZTQdIBa0FVX3lxTE9zU29KQjVyODZkbTBCemhhWGtTeXZ6M2VyN1RkTXo0ZWxKRGdiYmV2S1V0bm50OHIzQm5fR0VEUFNYZVZwOXN5UFdUenl4NUJjcUVna0t0Z3hwNGMzeGFoUWdBSFpGbGd4YWY0?oc=5>
 
 ### 2026-05-09 09:13  (4 条)
 
