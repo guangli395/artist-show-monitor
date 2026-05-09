@@ -1,32 +1,44 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-09 22:37**
-- 本轮扫到 652 条, 新增 **2** 条
+- 最近更新: **2026-05-09 23:41**
+- 本轮扫到 655 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (3 条)
 
-### 特朗普表示：道理很简单。无论我能否让教皇满意，伊朗都绝对不能拥有核武器。”
+### 王一博灵感双语早安问候发布，可灵AI生成繁花主题内容
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://video.sina.com.cn/p/finance/2026-05-10/detail-inhxkhwm6225510.d.html>
+
+### 特朗普：预计“很快”收到伊朗对美方最新和平方案的回应
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-05-09 18:19
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE1FMjhFU3c0NGNwSy1LcGRfN1hOaTAwQTJkT3VETk1MRVlxLVVJYVpTN0xpSXRMNWFHcnhUXzJCempfSThHM2IxMm1NYlRuNGZlUktOazFINXlmakk4TmRPWk5JX0NhT05QMHpxVXRZbW9Qdw?oc=5>
+
+### 特朗普表示“仍在考虑”调整驻意美军
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-09 21:34
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBtMUEzeFRsUjFSdE1OS2JXOGpnM2pydE5ScUwxSEF2clY1RUQ4b2NuMkExQzB1UmozYXBDMWRkbmpNdjRncmRDakRGVQ?oc=5>
-
-### 美国市场 Donald Trump 今日价格｜TRUMP 兑 USD 实时价格和图表
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Binance
-- 时间: 2026-05-05 19:32
-- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTFBrU0RsVzJrRzhiS0hNa2hWTjV5QUhacjJNSllkS21sOHhOLS1QMjRwMGhBS3dnNlV6SUhRQjRkMFRPVWNmZDhKVzJNQjljVl91VV81bVlWOXZGdE5rYlpELVdB?oc=5>
+- 时间: 2026-05-09 22:32
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5JTUl3bWhwUDREX3VmWUU5X1FYVzM2TEpMdlVOWGJVZTZUQWdmdU9nZG1PdmlEVzR2MlM4MGFkZlpvekFjanYwNUV0a1YtaGQzT2l4ZGJuNzB1UGZNRVY1dTFmNF9HblJSNkJlTDVYZW56WXZWY2pMdA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-09 23:41  (3 条)
+
+- **王一博** | 王一博灵感双语早安问候发布，可灵AI生成繁花主题内容 <https://video.sina.com.cn/p/finance/2026-05-10/detail-inhxkhwm6225510.d.html>
+- **特朗普** | 特朗普：预计“很快”收到伊朗对美方最新和平方案的回应 <https://news.google.com/rss/articles/CBMickFVX3lxTE1FMjhFU3c0NGNwSy1LcGRfN1hOaTAwQTJkT3VETk1MRVlxLVVJYVpTN0xpSXRMNWFHcnhUXzJCempfSThHM2IxMm1NYlRuNGZlUktOazFINXlmakk4TmRPWk5JX0NhT05QMHpxVXRZbW9Qdw?oc=5>
+- **特朗普** | 特朗普表示“仍在考虑”调整驻意美军 <https://news.google.com/rss/articles/CBMieEFVX3lxTE5JTUl3bWhwUDREX3VmWUU5X1FYVzM2TEpMdlVOWGJVZTZUQWdmdU9nZG1PdmlEVzR2MlM4MGFkZlpvekFjanYwNUV0a1YtaGQzT2l4ZGJuNzB1UGZNRVY1dTFmNF9HblJSNkJlTDVYZW56WXZWY2pMdA?oc=5>
 
 ### 2026-05-09 22:37  (2 条)
 
