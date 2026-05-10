@@ -1,40 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-10 19:56**
-- 本轮扫到 699 条, 新增 **3** 条
+- 最近更新: **2026-05-10 20:43**
+- 本轮扫到 701 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (2 条)
 
-### 特朗普将于今日择机与以色列总理内塔尼亚胡通电话。
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-10 19:08
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE02ZVBxOUE5ZnhXdkNBU2VvZjRIdlBzMUYzaERmRFlhVEM3Nm9semZsZ3JZbnpZQXYxQU9lXzV5UVRBNXJKTDVBTGREOA?oc=5>
-
-### 特朗普指责伊朗“拖延、戏弄”美国
+### 特朗普：伊朗的回应“完全不可接受”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-10 19:41
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBKRXZPbldCdFhpcjBnRVpaMGVxd3lQbjBXX3ZlSVpJS21rRnFGazMwSXhtLUVCdlFTWElTcUxvRVAyc2t0R3dzQUdaZw?oc=5>
+- 场馆: thepaper.cn
+- 时间: 2026-05-10 20:26
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE1DNXlpNzZsYTJ5SXlVWWNoM0FFLUNWckYxcml2UGdkcnozbFdkU09JRVlZUjcxel91MVVwZjRvYXZXdi1yRUxaeUFESVJuMmVqTUhKZmtySXB6TmVsX1E?oc=5>
 
-### 特朗普声称伊朗47年来一直在“玩弄”美国
+### 特朗普嗨了！我从Intel为美国政府赚了几百亿美元
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-05-10 18:53
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFB0WXhPbjZiUnp5NWJKOFJrczdYQUhrT1JxTXd4cU1mZUdwNl9UMkg1VE40N25rTm1lSThUMFNRZ1ZQRU5yMXpGZVd0OHU?oc=5>
+- 场馆: 驱动之家
+- 时间: 2026-05-10 06:35
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE5VLWpiOGFoRXZmeVNQTTYzVm11UElBOWRXakN3UXZpcjhVSm1OdF9YckwwbHVaS0NidTZMQ1EyNFR3TXFZOUxBdGZPOFo4Z3hENkNobjVCbXE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-10 20:43  (2 条)
+
+- **特朗普** | 特朗普：伊朗的回应“完全不可接受” <https://news.google.com/rss/articles/CBMiXkFVX3lxTE1DNXlpNzZsYTJ5SXlVWWNoM0FFLUNWckYxcml2UGdkcnozbFdkU09JRVlZUjcxel91MVVwZjRvYXZXdi1yRUxaeUFESVJuMmVqTUhKZmtySXB6TmVsX1E?oc=5>
+- **特朗普** | 特朗普嗨了！我从Intel为美国政府赚了几百亿美元 <https://news.google.com/rss/articles/CBMiWEFVX3lxTE5VLWpiOGFoRXZmeVNQTTYzVm11UElBOWRXakN3UXZpcjhVSm1OdF9YckwwbHVaS0NidTZMQ1EyNFR3TXFZOUxBdGZPOFo4Z3hENkNobjVCbXE?oc=5>
 
 ### 2026-05-10 19:56  (3 条)
 
