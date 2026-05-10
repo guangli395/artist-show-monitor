@@ -1,56 +1,73 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-10 22:40**
-- 本轮扫到 709 条, 新增 **5** 条
+- 最近更新: **2026-05-10 23:44**
+- 本轮扫到 715 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (6 条)
 
-### 特朗普访华将促请习近平协助推动伊朗停火
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-05-10 21:22
-- 链接: <https://news.google.com/rss/articles/CBMiwwJBVV95cUxQMURKTHVBb0RHWXYwWl9oOWdPT0JSQ21NWG1HY0Z1YWFRdVZKQld0VDMyVkExSWZocEpWNGNzOVFWeHRvV3NqQ2Njb2k3RWJKTHRTb3VyVkxDMDloMkZ3a1FmckE2cFRiRnhqY25Md0R4MHB0b1Znc2ZwdUVMVTktSXVfdkNZT0c2YTh5REZraVZIcHpULWdBYndtU3NEVjBRNkowdGt3S1VyclkybUQ2dnc0RXdvZ08ydFpMRnJvMjMxWVNGX0ZfeGN1UGNXT0QwVjJGRC1LUFJFNE9pVU5SMWg0WlhLQ2J3aEZCTEpUMGJfa1hBNjZKMHB6WmU0YWhseUhSbzRQQ0Nrbmt6SDhVZlp4MTVVczdvRGpYZU5ETUFTV0JlQWx6WEIwRVJvU2x5OXZQdWVtMFdsQTk2b3h3RjluYw?oc=5>
-
-### 【环球财经】特朗普：联邦机构必须优先采购美国货
+### 特朗普称伊朗方面的回应“完全不可接受”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-10 22:13
-- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxOdVU3Xzhwb0R1cWpmWEg1M0phZmpqT1Qwa3FwSm1QdHpmYVRxZ2NjbmRQRHJqWWpYZGQwV19OSkJhMXhPWHVYNng2NDhLcEtlRm9QZUltQTVkTnhOTG02QTgwdkZhdUtaUGhhMEtNZEdUb1RHRXBqa3RPUjFBd0pLNA?oc=5>
-
-### 伊朗回应美国提出的结束战争方案，特朗普：完全不可接受；中美将在韩国举行经贸磋商
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 每日经济新闻
-- 时间: 2026-05-10 22:35
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE51ZGVYYm5za0dtanFKRm0wMWhDUTkwUHE1cnJsSzc3SHhZT0Q0aGxsS21DeW5jWXN1R08wdW9LWXFGaDJXYVZ3T0wtSEIzOVhJMlFjQnNTVFBXNkJhNTNQV1hxTHpfdw?oc=5>
-
-### 特朗普：两周内可打击伊朗“每一个目标”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-05-10 15:52
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE01QUd6NmNZNWdyRk5VS1pnTHN2WlA1dUhxUTVQdmpWU0l0WFRxWGVUdjlTTkk0MFhfcTlaS3VHTVJHTXg5cmR1Y0t6Y3gtVjlLZEh0a1F4YTJOZzVGY3lCNXIwb2FFQQ?oc=5>
+- 场馆: 新华网
+- 时间: 2026-05-10 21:28
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE8zX25tMzJIMTJKc0QtMWsyNWxYbExoY2NtdDRMXzhSTE1UZXJQd2VUWFBuQ0VxSVdoVnVBRjJ6dl9CaW41aG5oMVNpN25pRXpyYzNDWmZybG5SODgyQ1hTZFE4YlVldXpJaFc3UG5namZWR0RPQUppcERrcldDR1U?oc=5>
 
 ### 特朗普：伊朗的回应“完全不可接受”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-10 21:06
-- 链接: <https://news.google.com/rss/articles/CBMi7gFBVV95cUxQcURSOVcycjgyVGYxUUwtV2JGMkFOdG54aVdZcWlMYmtmaVJWbXlvbHdOM1NlTGk2R3BGS056UHhfYk90ZGVHTTF3U21sRk9uVklOTVM5bjBHN2F0S1pYMGdHS2VXZzRBQkdDOWYtb2FXTllJZnVXVnN4YU5yZzZNZEdGTDZldzNadnFHMzV2RXI1aV8tNTJ1TDRGMnQxWEpIY0JqRE0yYm1ZbFZ3ZVdrcV9CRFBHSW9mRUJSNWJBSGg1NU42el8ycW1NejlWWHlnQlFtMnc5ZlNCWmFFNEluY2dkTlF0TGIzaTZpTmV3?oc=5>
+- 时间: 2026-05-10 20:52
+- 链接: <https://news.google.com/rss/articles/CBMimAJBVV95cUxONk1JM0ZHQ1RteE50ZFdqcElSMlFSU0Zud0VXb3VtMmh2UnpiMTdFY1FOalBmZjZtNW4zQTE4YXZ4RE9wektIMlpmbW91aHB5TEo3ZnA3bTFNWVFQTTBNNGFmdUZuZkRmOFNvMUNmQWU0RU5YMFlUSlJqRTZ0eVBFM3d5VFdvWWwwQ05FODEyamtJdVA0dm5wWHd2VDJVOFdtMmZNM1ZEM1BoZWxYTFhNRnkzTlJUZkJhSEN1cEZEUVkwQlcwbjl3T1N1LWJyOUFabjRSZHpxNC1VeTJUMEZVTTBaczk3bFhhQzk5QzVYejlFS0tnZUFNMmhEV1d5b19oT29SeWYwM2FtZzllVjBkdnJrZzd2eHkx?oc=5>
+
+### 特朗普：伊朗的回应“完全不可接受”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新蓝网
+- 时间: 2026-05-10 22:29
+- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Oc0Z6Q2VNcTNqaXZmZ01qNVRWckRDZ1g1NHZZbjM5UmxicHc5OEE3YjgtNVl5eXNJTHJCa2lxV3NWMnlkQnIxbUFHMnN4a3M?oc=5>
+
+### 特朗普在社交平台发文......_7x24快讯_新浪财经
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-10 22:25
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1RZnhxWmNEeEEzY1dwYThsbjZHVE5LUVBfeDl0WkZfVGZFZTJMTjFGd09rZEtCa2xiZkhxdDNPcy1FaXJ0MGRTNEM5RQ?oc=5>
+
+### 特朗普是该来好好看看了-腾讯新闻
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: QQ News
+- 时间: 2026-05-10 03:38
+- 链接: <https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SY2FmNVVqTGxBdEhBc3ZGVHpORUtvLUZOWUt1ZFBoT3NEd3NMNTdsZmdQWHNBUmdMV25qVHlsZG9OZHhERXdSZk5IX20zTkFvcHlqaFdR?oc=5>
+
+### Dell Jumps 13% after President Trump Says "Get Out and Buy a Dell"
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Tiger Brokers
+- 时间: 2026-05-09 05:08
+- 链接: <https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OQ2ZXMUxRWW02T2hfMzQ0M25pbXhQY3FjU19BcmlQRFRhUFhTUkJNMWx3Y1UwbEVSaEJndV9rZUg5ZWl4WFl3VDlhYTJGN01tcG05blV3?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-10 23:44  (6 条)
+
+- **特朗普** | 特朗普称伊朗方面的回应“完全不可接受” <https://news.google.com/rss/articles/CBMif0FVX3lxTE8zX25tMzJIMTJKc0QtMWsyNWxYbExoY2NtdDRMXzhSTE1UZXJQd2VUWFBuQ0VxSVdoVnVBRjJ6dl9CaW41aG5oMVNpN25pRXpyYzNDWmZybG5SODgyQ1hTZFE4YlVldXpJaFc3UG5namZWR0RPQUppcERrcldDR1U?oc=5>
+- **特朗普** | 特朗普：伊朗的回应“完全不可接受” <https://news.google.com/rss/articles/CBMimAJBVV95cUxONk1JM0ZHQ1RteE50ZFdqcElSMlFSU0Zud0VXb3VtMmh2UnpiMTdFY1FOalBmZjZtNW4zQTE4YXZ4RE9wektIMlpmbW91aHB5TEo3ZnA3bTFNWVFQTTBNNGFmdUZuZkRmOFNvMUNmQWU0RU5YMFlUSlJqRTZ0eVBFM3d5VFdvWWwwQ05FODEyamtJdVA0dm5wWHd2VDJVOFdtMmZNM1ZEM1BoZWxYTFhNRnkzTlJUZkJhSEN1cEZEUVkwQlcwbjl3T1N1LWJyOUFabjRSZHpxNC1VeTJUMEZVTTBaczk3bFhhQzk5QzVYejlFS0tnZUFNMmhEV1d5b19oT29SeWYwM2FtZzllVjBkdnJrZzd2eHkx?oc=5>
+- **特朗普** | 特朗普：伊朗的回应“完全不可接受” <https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Oc0Z6Q2VNcTNqaXZmZ01qNVRWckRDZ1g1NHZZbjM5UmxicHc5OEE3YjgtNVl5eXNJTHJCa2lxV3NWMnlkQnIxbUFHMnN4a3M?oc=5>
+- **特朗普** | 特朗普在社交平台发文......_7x24快讯_新浪财经 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1RZnhxWmNEeEEzY1dwYThsbjZHVE5LUVBfeDl0WkZfVGZFZTJMTjFGd09rZEtCa2xiZkhxdDNPcy1FaXJ0MGRTNEM5RQ?oc=5>
+- **特朗普** | 特朗普是该来好好看看了-腾讯新闻 <https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SY2FmNVVqTGxBdEhBc3ZGVHpORUtvLUZOWUt1ZFBoT3NEd3NMNTdsZmdQWHNBUmdMV25qVHlsZG9OZHhERXdSZk5IX20zTkFvcHlqaFdR?oc=5>
+- **Trump** | Dell Jumps 13% after President Trump Says "Get Out and Buy a Dell" <https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OQ2ZXMUxRWW02T2hfMzQ0M25pbXhQY3FjU19BcmlQRFRhUFhTUkJNMWx3Y1UwbEVSaEJndV9rZUg5ZWl4WFl3VDlhYTJGN01tcG05blV3?oc=5>
 
 ### 2026-05-10 22:40  (5 条)
 
