@@ -1,40 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-10 21:42**
-- 本轮扫到 704 条, 新增 **3** 条
+- 最近更新: **2026-05-10 22:40**
+- 本轮扫到 709 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (5 条)
 
-### 特朗普：伊朗再也笑不出来了。
+### 特朗普访华将促请习近平协助推动伊朗停火
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-05-10 21:22
+- 链接: <https://news.google.com/rss/articles/CBMiwwJBVV95cUxQMURKTHVBb0RHWXYwWl9oOWdPT0JSQ21NWG1HY0Z1YWFRdVZKQld0VDMyVkExSWZocEpWNGNzOVFWeHRvV3NqQ2Njb2k3RWJKTHRTb3VyVkxDMDloMkZ3a1FmckE2cFRiRnhqY25Md0R4MHB0b1Znc2ZwdUVMVTktSXVfdkNZT0c2YTh5REZraVZIcHpULWdBYndtU3NEVjBRNkowdGt3S1VyclkybUQ2dnc0RXdvZ08ydFpMRnJvMjMxWVNGX0ZfeGN1UGNXT0QwVjJGRC1LUFJFNE9pVU5SMWg0WlhLQ2J3aEZCTEpUMGJfa1hBNjZKMHB6WmU0YWhseUhSbzRQQ0Nrbmt6SDhVZlp4MTVVczdvRGpYZU5ETUFTV0JlQWx6WEIwRVJvU2x5OXZQdWVtMFdsQTk2b3h3RjluYw?oc=5>
+
+### 【环球财经】特朗普：联邦机构必须优先采购美国货
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-10 18:40
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE45Sm5tRjFnNzdIOHlYVlZwb01DcjZMb0x4T0dwS2twdzRDcjlqMkQ1NkdYLUdoNzA2bHVHaGtoWFJpSWlHdlEzdllqTQ?oc=5>
+- 时间: 2026-05-10 22:13
+- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxOdVU3Xzhwb0R1cWpmWEg1M0phZmpqT1Qwa3FwSm1QdHpmYVRxZ2NjbmRQRHJqWWpYZGQwV19OSkJhMXhPWHVYNng2NDhLcEtlRm9QZUltQTVkTnhOTG02QTgwdkZhdUtaUGhhMEtNZEdUb1RHRXBqa3RPUjFBd0pLNA?oc=5>
+
+### 伊朗回应美国提出的结束战争方案，特朗普：完全不可接受；中美将在韩国举行经贸磋商
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 每日经济新闻
+- 时间: 2026-05-10 22:35
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE51ZGVYYm5za0dtanFKRm0wMWhDUTkwUHE1cnJsSzc3SHhZT0Q0aGxsS21DeW5jWXN1R08wdW9LWXFGaDJXYVZ3T0wtSEIzOVhJMlFjQnNTVFBXNkJhNTNQV1hxTHpfdw?oc=5>
+
+### 特朗普：两周内可打击伊朗“每一个目标”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-05-10 15:52
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE01QUd6NmNZNWdyRk5VS1pnTHN2WlA1dUhxUTVQdmpWU0l0WFRxWGVUdjlTTkk0MFhfcTlaS3VHTVJHTXg5cmR1Y0t6Y3gtVjlLZEh0a1F4YTJOZzVGY3lCNXIwb2FFQQ?oc=5>
 
 ### 特朗普：伊朗的回应“完全不可接受”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-05-10 20:26
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBSODN3SmgtMGFZOUE3VU1GTzVMTWdwQ1ZoZXlWYmFvVXpmRktpdTZGRy0xNmNyc0tjRXFJSXk0SUVpaE56VzFiWFlUY2dnVHBYQnZuTHA1RUpMbU5Ja0NJdw?oc=5>
-
-### 特朗普 Mobile T1 手机发布近一年依然还是“概念产品”
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: cnBeta.COM
-- 时间: 2026-05-10 15:26
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UXzBBNU0xTU9tT0FTRlh2VGQyVVh3eGR2YUdrN0xuR1ZJTDlQRGg5ZzE3VWE5X2dBVnJOa2NQWUk3OUhSWmxKZ0tKLXdoTUZHMFM1SUUwYzFCUlVsYlZLSg?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-05-10 21:06
+- 链接: <https://news.google.com/rss/articles/CBMi7gFBVV95cUxQcURSOVcycjgyVGYxUUwtV2JGMkFOdG54aVdZcWlMYmtmaVJWbXlvbHdOM1NlTGk2R3BGS056UHhfYk90ZGVHTTF3U21sRk9uVklOTVM5bjBHN2F0S1pYMGdHS2VXZzRBQkdDOWYtb2FXTllJZnVXVnN4YU5yZzZNZEdGTDZldzNadnFHMzV2RXI1aV8tNTJ1TDRGMnQxWEpIY0JqRE0yYm1ZbFZ3ZVdrcV9CRFBHSW9mRUJSNWJBSGg1NU42el8ycW1NejlWWHlnQlFtMnc5ZlNCWmFFNEluY2dkTlF0TGIzaTZpTmV3?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-10 22:40  (5 条)
+
+- **特朗普** | 特朗普访华将促请习近平协助推动伊朗停火 <https://news.google.com/rss/articles/CBMiwwJBVV95cUxQMURKTHVBb0RHWXYwWl9oOWdPT0JSQ21NWG1HY0Z1YWFRdVZKQld0VDMyVkExSWZocEpWNGNzOVFWeHRvV3NqQ2Njb2k3RWJKTHRTb3VyVkxDMDloMkZ3a1FmckE2cFRiRnhqY25Md0R4MHB0b1Znc2ZwdUVMVTktSXVfdkNZT0c2YTh5REZraVZIcHpULWdBYndtU3NEVjBRNkowdGt3S1VyclkybUQ2dnc0RXdvZ08ydFpMRnJvMjMxWVNGX0ZfeGN1UGNXT0QwVjJGRC1LUFJFNE9pVU5SMWg0WlhLQ2J3aEZCTEpUMGJfa1hBNjZKMHB6WmU0YWhseUhSbzRQQ0Nrbmt6SDhVZlp4MTVVczdvRGpYZU5ETUFTV0JlQWx6WEIwRVJvU2x5OXZQdWVtMFdsQTk2b3h3RjluYw?oc=5>
+- **特朗普** | 【环球财经】特朗普：联邦机构必须优先采购美国货 <https://news.google.com/rss/articles/CBMigAFBVV95cUxOdVU3Xzhwb0R1cWpmWEg1M0phZmpqT1Qwa3FwSm1QdHpmYVRxZ2NjbmRQRHJqWWpYZGQwV19OSkJhMXhPWHVYNng2NDhLcEtlRm9QZUltQTVkTnhOTG02QTgwdkZhdUtaUGhhMEtNZEdUb1RHRXBqa3RPUjFBd0pLNA?oc=5>
+- **特朗普** | 伊朗回应美国提出的结束战争方案，特朗普：完全不可接受；中美将在韩国举行经贸磋商 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE51ZGVYYm5za0dtanFKRm0wMWhDUTkwUHE1cnJsSzc3SHhZT0Q0aGxsS21DeW5jWXN1R08wdW9LWXFGaDJXYVZ3T0wtSEIzOVhJMlFjQnNTVFBXNkJhNTNQV1hxTHpfdw?oc=5>
+- **特朗普** | 特朗普：两周内可打击伊朗“每一个目标” <https://news.google.com/rss/articles/CBMiZkFVX3lxTE01QUd6NmNZNWdyRk5VS1pnTHN2WlA1dUhxUTVQdmpWU0l0WFRxWGVUdjlTTkk0MFhfcTlaS3VHTVJHTXg5cmR1Y0t6Y3gtVjlLZEh0a1F4YTJOZzVGY3lCNXIwb2FFQQ?oc=5>
+- **特朗普** | 特朗普：伊朗的回应“完全不可接受” <https://news.google.com/rss/articles/CBMi7gFBVV95cUxQcURSOVcycjgyVGYxUUwtV2JGMkFOdG54aVdZcWlMYmtmaVJWbXlvbHdOM1NlTGk2R3BGS056UHhfYk90ZGVHTTF3U21sRk9uVklOTVM5bjBHN2F0S1pYMGdHS2VXZzRBQkdDOWYtb2FXTllJZnVXVnN4YU5yZzZNZEdGTDZldzNadnFHMzV2RXI1aV8tNTJ1TDRGMnQxWEpIY0JqRE0yYm1ZbFZ3ZVdrcV9CRFBHSW9mRUJSNWJBSGg1NU42el8ycW1NejlWWHlnQlFtMnc5ZlNCWmFFNEluY2dkTlF0TGIzaTZpTmV3?oc=5>
 
 ### 2026-05-10 21:42  (3 条)
 
