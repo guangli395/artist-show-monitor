@@ -1,11 +1,19 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-10 20:43**
-- 本轮扫到 701 条, 新增 **2** 条
+- 最近更新: **2026-05-10 21:42**
+- 本轮扫到 704 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (3 条)
+
+### 特朗普：伊朗再也笑不出来了。
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-10 18:40
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE45Sm5tRjFnNzdIOHlYVlZwb01DcjZMb0x4T0dwS2twdzRDcjlqMkQ1NkdYLUdoNzA2bHVHaGtoWFJpSWlHdlEzdllqTQ?oc=5>
 
 ### 特朗普：伊朗的回应“完全不可接受”
 
@@ -13,20 +21,26 @@
 - 来源: `googlenews`
 - 场馆: thepaper.cn
 - 时间: 2026-05-10 20:26
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE1DNXlpNzZsYTJ5SXlVWWNoM0FFLUNWckYxcml2UGdkcnozbFdkU09JRVlZUjcxel91MVVwZjRvYXZXdi1yRUxaeUFESVJuMmVqTUhKZmtySXB6TmVsX1E?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBSODN3SmgtMGFZOUE3VU1GTzVMTWdwQ1ZoZXlWYmFvVXpmRktpdTZGRy0xNmNyc0tjRXFJSXk0SUVpaE56VzFiWFlUY2dnVHBYQnZuTHA1RUpMbU5Ja0NJdw?oc=5>
 
-### 特朗普嗨了！我从Intel为美国政府赚了几百亿美元
+### 特朗普 Mobile T1 手机发布近一年依然还是“概念产品”
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 驱动之家
-- 时间: 2026-05-10 06:35
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE5VLWpiOGFoRXZmeVNQTTYzVm11UElBOWRXakN3UXZpcjhVSm1OdF9YckwwbHVaS0NidTZMQ1EyNFR3TXFZOUxBdGZPOFo4Z3hENkNobjVCbXE?oc=5>
+- 场馆: cnBeta.COM
+- 时间: 2026-05-10 15:26
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UXzBBNU0xTU9tT0FTRlh2VGQyVVh3eGR2YUdrN0xuR1ZJTDlQRGg5ZzE3VWE5X2dBVnJOa2NQWUk3OUhSWmxKZ0tKLXdoTUZHMFM1SUUwYzFCUlVsYlZLSg?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-10 21:42  (3 条)
+
+- **特朗普** | 特朗普：伊朗再也笑不出来了。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE45Sm5tRjFnNzdIOHlYVlZwb01DcjZMb0x4T0dwS2twdzRDcjlqMkQ1NkdYLUdoNzA2bHVHaGtoWFJpSWlHdlEzdllqTQ?oc=5>
+- **特朗普** | 特朗普：伊朗的回应“完全不可接受” <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBSODN3SmgtMGFZOUE3VU1GTzVMTWdwQ1ZoZXlWYmFvVXpmRktpdTZGRy0xNmNyc0tjRXFJSXk0SUVpaE56VzFiWFlUY2dnVHBYQnZuTHA1RUpMbU5Ja0NJdw?oc=5>
+- **Trump** | 特朗普 Mobile T1 手机发布近一年依然还是“概念产品” <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UXzBBNU0xTU9tT0FTRlh2VGQyVVh3eGR2YUdrN0xuR1ZJTDlQRGg5ZzE3VWE5X2dBVnJOa2NQWUk3OUhSWmxKZ0tKLXdoTUZHMFM1SUUwYzFCUlVsYlZLSg?oc=5>
 
 ### 2026-05-10 20:43  (2 条)
 
