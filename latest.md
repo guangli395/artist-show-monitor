@@ -1,32 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-10 15:46**
-- 本轮扫到 684 条, 新增 **2** 条
+- 最近更新: **2026-05-10 16:47**
+- 本轮扫到 688 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (4 条)
 
-### “政教合一”？特朗普的“宗教委员会”越来越颠了-观察者网
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: guancha.cn
-- 时间: 2026-05-10 14:44
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE4ybGdTMWZZMmpsUVRzdXdjbzR3NHRsWHE0ZjZUZnZMOEJENFV2UGFCRWlTZGZvVjJCWjVHT1Zmcm1sT2d3dnh2YjVZOFZFYWZqLVhQaXVfVlhKZV9IOTJzenVvOVNiZHZRN2c?oc=5>
-
-### 美国总统特朗普：油价已经大幅下跌。
+### 特朗普宣布访华的前夕，两党代表团突访北京当面致谢，直接摊牌两大诉求
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-10 14:02
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5sV1dUTmZZN1ZsRzFGWGotSWNBNWRQMnE2NzJPTG00WDFvMzZ1a3RiLUZRWnB1NG9nMzR6MFlQV0MxbkxRTFc2S2pWQQ?oc=5>
+- 时间: 2026-05-10 16:01
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTFBuRmhGdjJUNlI4bndpbl9ET0EwbjV2clhHQkJhd2dBclBnaTFiclE3TWc2V3RQQUlZSF9vaVJUY2Y0X1B1QjRvajM2ZEhzSjhZUmwtdmdnTlh2WjFzSGU4YTNVZUtUbmZfaF9YbmxXdUlyZXB4Z1E?oc=5>
+
+### 特朗普 T1 手机交付遥遥无期，近 60 万用户订金难追回
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 手机新浪网
+- 时间: 2026-05-10 15:11
+- 链接: <https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRFN4YURCazQ0N05LYXdZZTM3Wk16NDRETGp5dHhsVzF2c0JSUTdPcVpQN2d5SXZOUGw2YUhrczNQQ0c1SWt3UHkyUFZrT19MeUhReklkVmVTcHVDcVVBcHNOVHRhY2RFYnU2eEZNZmFSSHhRT3BraFBXSDdOQ2pGeENHMVJhcTNpU2Q0ejFoS1ZtUHZoZnRIOWJsb3kxZ003MW5NQ3dicnFENHdzZEI5WlduRkZmQTFLaFU3aDRHUDZVckw1NjFDZVRzSVJJU3FBeEQ4eGtLNUE0QkU2WHUzZUNnT0pLeTFJN1E?oc=5>
+
+### 特朗普：太空军监视伊朗核设施，若有人靠近就炸飞他
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-05-10 14:27
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9iaWNjTjFGOWVCdGJrZEg5TXAydEd0cFFNYk1fTUlrNHVhcGF4bV9nQzVmdUdiSnlsMmZ2cnBXZnQtSW80SklnSWZmMjA?oc=5>
+
+### 特朗普谈伊朗：他们的......_7x24快讯_新浪财经
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-10 15:42
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1wNk9uNVBnSFNOTnpGbGZxd0pvNDg0RnA4RFJCUHVaVWNBT1dOTnczMzZOaWxicTh3WTA5VTdHRlFHek52M3BaYUIxcw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-10 16:47  (4 条)
+
+- **特朗普** | 特朗普宣布访华的前夕，两党代表团突访北京当面致谢，直接摊牌两大诉求 <https://news.google.com/rss/articles/CBMidkFVX3lxTFBuRmhGdjJUNlI4bndpbl9ET0EwbjV2clhHQkJhd2dBclBnaTFiclE3TWc2V3RQQUlZSF9vaVJUY2Y0X1B1QjRvajM2ZEhzSjhZUmwtdmdnTlh2WjFzSGU4YTNVZUtUbmZfaF9YbmxXdUlyZXB4Z1E?oc=5>
+- **特朗普** | 特朗普 T1 手机交付遥遥无期，近 60 万用户订金难追回 <https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRFN4YURCazQ0N05LYXdZZTM3Wk16NDRETGp5dHhsVzF2c0JSUTdPcVpQN2d5SXZOUGw2YUhrczNQQ0c1SWt3UHkyUFZrT19MeUhReklkVmVTcHVDcVVBcHNOVHRhY2RFYnU2eEZNZmFSSHhRT3BraFBXSDdOQ2pGeENHMVJhcTNpU2Q0ejFoS1ZtUHZoZnRIOWJsb3kxZ003MW5NQ3dicnFENHdzZEI5WlduRkZmQTFLaFU3aDRHUDZVckw1NjFDZVRzSVJJU3FBeEQ4eGtLNUE0QkU2WHUzZUNnT0pLeTFJN1E?oc=5>
+- **特朗普** | 特朗普：太空军监视伊朗核设施，若有人靠近就炸飞他 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9iaWNjTjFGOWVCdGJrZEg5TXAydEd0cFFNYk1fTUlrNHVhcGF4bV9nQzVmdUdiSnlsMmZ2cnBXZnQtSW80SklnSWZmMjA?oc=5>
+- **特朗普** | 特朗普谈伊朗：他们的......_7x24快讯_新浪财经 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1wNk9uNVBnSFNOTnpGbGZxd0pvNDg0RnA4RFJCUHVaVWNBT1dOTnczMzZOaWxicTh3WTA5VTdHRlFHek52M3BaYUIxcw?oc=5>
 
 ### 2026-05-10 15:46  (2 条)
 
