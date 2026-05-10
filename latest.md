@@ -1,40 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-10 11:51**
-- 本轮扫到 676 条, 新增 **3** 条
+- 最近更新: **2026-05-10 13:05**
+- 本轮扫到 677 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (1 条)
 
-### 继德国后，特朗普瞄准意大利
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-05-09 23:19
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE40Y3ZmbHRUUEl5RGdaa3FWTUtvV05QaDVORkRyNXNFaHJrZTJvMHRMaXRaemFZcDc3anZxWTQ1OTB5TGQ0SWdqdTN5c0l6SEdLZkJWQXNsNnNyMUh0QWc1TlJ4MTNmVmlLX1BGQmtuOTJkN3Uz?oc=5>
-
-### “特朗普主动请求访华，中国手里的谈判筹码更多了”
+### 特朗普媒体科技集团因加密货币持仓亏损4.05亿美元
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪网
-- 时间: 2026-05-10 07:21
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9DdVpRb3cxdDM3NEFhcHExNGhQYjlZS0Q2endDdE1NTWktVzlnVlQyeTY0MWF1Wm1LeHZwckNQeVJvcFgtSzFxd2FXemFkdzVmYkRBVmNoQXBQcW9OZHh4dmZtUWMxbXExZWlidjJJQzRtaG9SMWVuZA?oc=5>
-
-### 普林斯顿思想客｜谁是特朗普背后的智囊？美国新右翼激进主义的崛起
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-05-09 02:59
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE9nUFlBQXhFZDVyZ25QaEVoNks5cTM4S2JVVzRQeGVyQ1JSVzB0dlg0V0EwSC1jRmhVeGZvckpsWGJIN3NyTnYwT2NLcWdvSHUxQVNwTjI2TkR5Mlp4V2c?oc=5>
+- 时间: 2026-05-09 23:40
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1heWE5Rm1nbTlidThTVy16MTVDY2p6OGstNkZLMzhLNnZxZzdLTkV2TlBfNlV6d3FubFViZmhLdzM5aDhqeVUxWVB4M3VPQnQ3dlJNWWdkUHZab2NFd2JaSnpoS3pJRjRoVVc0UmZnMUdEMF9qTURzRQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-10 13:05  (1 条)
+
+- **特朗普** | 特朗普媒体科技集团因加密货币持仓亏损4.05亿美元 <https://news.google.com/rss/articles/CBMieEFVX3lxTE1heWE5Rm1nbTlidThTVy16MTVDY2p6OGstNkZLMzhLNnZxZzdLTkV2TlBfNlV6d3FubFViZmhLdzM5aDhqeVUxWVB4M3VPQnQ3dlJNWWdkUHZab2NFd2JaSnpoS3pJRjRoVVc0UmZnMUdEMF9qTURzRQ?oc=5>
 
 ### 2026-05-10 11:51  (3 条)
 
