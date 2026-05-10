@@ -1,24 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-10 13:05**
-- 本轮扫到 677 条, 新增 **1** 条
+- 最近更新: **2026-05-10 14:35**
+- 本轮扫到 682 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮新发现 (5 条)
 
-### 特朗普媒体科技集团因加密货币持仓亏损4.05亿美元
+### 美国能源部部长赖特释放信号：特朗普政府考虑暂停燃油税
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-05-09 23:40
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1heWE5Rm1nbTlidThTVy16MTVDY2p6OGstNkZLMzhLNnZxZzdLTkV2TlBfNlV6d3FubFViZmhLdzM5aDhqeVUxWVB4M3VPQnQ3dlJNWWdkUHZab2NFd2JaSnpoS3pJRjRoVVc0UmZnMUdEMF9qTURzRQ?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-05-10 13:43
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9DdmpOSmt6WEw4b2xHbVlmalVkcUFlcTRSSlB4YzJZVXNYMWJSdnlNLTNMMFNxYTdfR0ZXcUYycDVjLVJfMDNEbjItRQ?oc=5>
+
+### 美国能源部部长赖特释放信号：特朗普政府考虑暂停燃油税
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-10 13:45
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxNRFR4UHdtbVNGUjRFNDcxX0JoS2dyR2lDNzJXNEtCMFdTZE9udXVHYzdIQ3pqWm5IRzQ4WDNZbTNnM0dSbFJ1QWw2elN2WGdOQ1FIcUJEV3NvZ1VTZjZNVV9OYlU3OUszb19lMXFEWmdmR093MWd5Vy1sc3hFal9tY0NLVzlLYW8?oc=5>
+
+### 特朗普 T1 手机交付遥遥无期，近 60 万用户订金难追回
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 手机新浪网
+- 时间: 2026-05-10 14:28
+- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxOQU9VNi14VDZCRHNpWjlxLXBrSGwyZDJmYWMtVHlCS0c1cllVdnhJeEJyLWw5bFQ4THVoOUdRTWVFdktVanlrWXZhNVhoV0hJTEowbmo4RWMtb2x6N3Fwd1Y4YXdsWTQ0ZWZtUXBRODNBd2RKTGpYSnFlV3I5U3lucXZiUGJuQmlTYnNrLUpXckJQZmdq?oc=5>
+
+### 美国总统特朗普：绝不允许伊朗拥有核武器。
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-10 14:24
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5idVVTVzBXVVpqalAwcVhjN2NoX2oxZkU2V0ttYUxBQ2p4MklObWVuS2xLS1YyaXQ5ZDFGRUZoQzQ2ZmFySjFNbWtBbw?oc=5>
+
+### 美国总统特朗普：如果有人靠近伊朗掩埋在废墟下的浓缩铀，我们会知道，并且会将其炸毁。
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-10 14:16
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE15VmdIU2wxUlhQQ2hBbnlXYlJLQV9UQThjVXVKc0hTNlQ4bEdwVUtxcGZ6T3NvSjJOVnozbm1iNmQ4WWhSdnc0dExYSQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-10 14:35  (5 条)
+
+- **特朗普** | 美国能源部部长赖特释放信号：特朗普政府考虑暂停燃油税 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9DdmpOSmt6WEw4b2xHbVlmalVkcUFlcTRSSlB4YzJZVXNYMWJSdnlNLTNMMFNxYTdfR0ZXcUYycDVjLVJfMDNEbjItRQ?oc=5>
+- **特朗普** | 美国能源部部长赖特释放信号：特朗普政府考虑暂停燃油税 <https://news.google.com/rss/articles/CBMihwFBVV95cUxNRFR4UHdtbVNGUjRFNDcxX0JoS2dyR2lDNzJXNEtCMFdTZE9udXVHYzdIQ3pqWm5IRzQ4WDNZbTNnM0dSbFJ1QWw2elN2WGdOQ1FIcUJEV3NvZ1VTZjZNVV9OYlU3OUszb19lMXFEWmdmR093MWd5Vy1sc3hFal9tY0NLVzlLYW8?oc=5>
+- **特朗普** | 特朗普 T1 手机交付遥遥无期，近 60 万用户订金难追回 <https://news.google.com/rss/articles/CBMilAFBVV95cUxOQU9VNi14VDZCRHNpWjlxLXBrSGwyZDJmYWMtVHlCS0c1cllVdnhJeEJyLWw5bFQ4THVoOUdRTWVFdktVanlrWXZhNVhoV0hJTEowbmo4RWMtb2x6N3Fwd1Y4YXdsWTQ0ZWZtUXBRODNBd2RKTGpYSnFlV3I5U3lucXZiUGJuQmlTYnNrLUpXckJQZmdq?oc=5>
+- **特朗普** | 美国总统特朗普：绝不允许伊朗拥有核武器。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5idVVTVzBXVVpqalAwcVhjN2NoX2oxZkU2V0ttYUxBQ2p4MklObWVuS2xLS1YyaXQ5ZDFGRUZoQzQ2ZmFySjFNbWtBbw?oc=5>
+- **特朗普** | 美国总统特朗普：如果有人靠近伊朗掩埋在废墟下的浓缩铀，我们会知道，并且会将其炸毁。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE15VmdIU2wxUlhQQ2hBbnlXYlJLQV9UQThjVXVKc0hTNlQ4bEdwVUtxcGZ6T3NvSjJOVnozbm1iNmQ4WWhSdnc0dExYSQ?oc=5>
 
 ### 2026-05-10 13:05  (1 条)
 
