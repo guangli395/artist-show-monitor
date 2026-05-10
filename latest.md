@@ -1,24 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-10 10:57**
-- 本轮扫到 673 条, 新增 **1** 条
+- 最近更新: **2026-05-10 11:51**
+- 本轮扫到 676 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮新发现 (3 条)
 
-### 特习峰会谈什么？(2)台湾：中国视其为“最大风险点”，美国说“不会是此行重点”
+### 继德国后，特朗普瞄准意大利
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-05-10 10:42
-- 链接: <https://news.google.com/rss/articles/CBMixwFBVV95cUxNZVNXZmFZZnZWMHM2bmpPczUxNDdCVGg0dEZhNFlWdHNwTC0yalhBeGFwSTNoN2d5UkstbmZiMWczNDRpNVFWSk1IQUJfaEk1YnhMSmdhcnhCYkhmYTgwVHZTRVU5SEluZU1ZRDdTMDhqY0xmNkRJVWxyZWZwQzd4b2FVdUtQMXltemxobmdjNkFHZ1Y0dDBYZllQN1Z1blJLQUNVTG5ubnhqRE5ybURKUVRlQjZZWkhCYUZuQXNiS1FYTlllYzFZ0gHKAUFVX3lxTE0xcFM0bUs4cjMyTFZnWlZwZVpZaE1MTmxHN1pQOEhranpTczkwdmI2eWlYR1piWmlYN3lfVGxkZzdvaUFSaDJpblF0bDZmYWpKMTRBenRLSEFQcnNyNEh5aUNxM3pqNXdNY2VUQl9vckpad1Y2a0hMaV8xWFFsb2JpRmJxVEVGS2RFekN3MGZ5Y2tUbTFLZ2JTdHpRTW55UWdISUJRRFl6NkltenFJcUd6Y2tLc0ZIb1ZEaUlJZm93RjMtb3lnb0ppb2c?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-05-09 23:19
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE40Y3ZmbHRUUEl5RGdaa3FWTUtvV05QaDVORkRyNXNFaHJrZTJvMHRMaXRaemFZcDc3anZxWTQ1OTB5TGQ0SWdqdTN5c0l6SEdLZkJWQXNsNnNyMUh0QWc1TlJ4MTNmVmlLX1BGQmtuOTJkN3Uz?oc=5>
+
+### “特朗普主动请求访华，中国手里的谈判筹码更多了”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-05-10 07:21
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9DdVpRb3cxdDM3NEFhcHExNGhQYjlZS0Q2endDdE1NTWktVzlnVlQyeTY0MWF1Wm1LeHZwckNQeVJvcFgtSzFxd2FXemFkdzVmYkRBVmNoQXBQcW9OZHh4dmZtUWMxbXExZWlidjJJQzRtaG9SMWVuZA?oc=5>
+
+### 普林斯顿思想客｜谁是特朗普背后的智囊？美国新右翼激进主义的崛起
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-05-09 02:59
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE9nUFlBQXhFZDVyZ25QaEVoNks5cTM4S2JVVzRQeGVyQ1JSVzB0dlg0V0EwSC1jRmhVeGZvckpsWGJIN3NyTnYwT2NLcWdvSHUxQVNwTjI2TkR5Mlp4V2c?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-10 11:51  (3 条)
+
+- **特朗普** | 继德国后，特朗普瞄准意大利 <https://news.google.com/rss/articles/CBMidEFVX3lxTE40Y3ZmbHRUUEl5RGdaa3FWTUtvV05QaDVORkRyNXNFaHJrZTJvMHRMaXRaemFZcDc3anZxWTQ1OTB5TGQ0SWdqdTN5c0l6SEdLZkJWQXNsNnNyMUh0QWc1TlJ4MTNmVmlLX1BGQmtuOTJkN3Uz?oc=5>
+- **特朗普** | “特朗普主动请求访华，中国手里的谈判筹码更多了” <https://news.google.com/rss/articles/CBMieEFVX3lxTE9DdVpRb3cxdDM3NEFhcHExNGhQYjlZS0Q2endDdE1NTWktVzlnVlQyeTY0MWF1Wm1LeHZwckNQeVJvcFgtSzFxd2FXemFkdzVmYkRBVmNoQXBQcW9OZHh4dmZtUWMxbXExZWlidjJJQzRtaG9SMWVuZA?oc=5>
+- **特朗普** | 普林斯顿思想客｜谁是特朗普背后的智囊？美国新右翼激进主义的崛起 <https://news.google.com/rss/articles/CBMiXkFVX3lxTE9nUFlBQXhFZDVyZ25QaEVoNks5cTM4S2JVVzRQeGVyQ1JSVzB0dlg0V0EwSC1jRmhVeGZvckpsWGJIN3NyTnYwT2NLcWdvSHUxQVNwTjI2TkR5Mlp4V2c?oc=5>
 
 ### 2026-05-10 10:57  (1 条)
 
