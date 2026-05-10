@@ -1,52 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-10 09:52**
-- 本轮扫到 672 条, 新增 **5** 条
+- 最近更新: **2026-05-10 10:57**
+- 本轮扫到 673 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (1 条)
 
-### 王一博新歌《旁观者》发布，低吟浅唱诠释从容追梦
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2002549363_m775c7a7303301d8b2.html>
-
-### 用周杰伦新歌《那天下雨了》，打开江西的烟雨江南
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5543512579_m14a6b4a0303301l8iq.html>
-
-### “几轮博弈后，特朗普发现：中国比他想象中更强大”-观察者网
+### 特习峰会谈什么？(2)台湾：中国视其为“最大风险点”，美国说“不会是此行重点”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-05-10 03:44
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5kREh4eVZmZG1iOG1WOUxCQ3d3dl8xOGxLOGZ6dUdTQ1RVM1VwWEJ2UmtFRjdkendkeVNRMmQtLTBVaVp5Q2RIUTRHUnFxY3BHMFptSWxVQ3B6ZTNRdElHcXpLeU1sMlNLUmc?oc=5>
-
-### 国际特稿：特朗普押上1.5万亿预算 军备竞赛加剧烟硝味渐浓
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-05-09 21:00
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1JQ0E3U3ZGTlhqSEZjV0dabGE5SjZNUmNRbE4way1FSkZNekRhNjZsdlNaS2FzTzFxRGQwdGt4dkdpNTFfT0VKRkNUbVRHRjFzdDlNS3RVeXRyZzRHLWFBOGloRmZiQQ?oc=5>
-
-### IOSG 现场观察：Trump Crypto 午宴与“年轻的美国”
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 吴说
-- 时间: 2026-05-09 11:24
-- 链接: <https://news.google.com/rss/articles/CBMilwFBVV95cUxOZVBfN1VJT0pfVFBTeUxHX1JBWWlrZWE1NkJZNnZaOHBPUnNkblpZQnJvRGs5cmR0Tmg3XzdkZVBUNWFMbE5rSlY5NE5Ec0VoYlN4MFQwbVBRRUlINWNJYlZ2VWtfYjg4cHdEWHpVUG5IM1N0SVpHT3BhcVJYcnNCZlBiQVJSTGJIWU5VSlNYUG9DOFV6MW8w?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-05-10 10:42
+- 链接: <https://news.google.com/rss/articles/CBMixwFBVV95cUxNZVNXZmFZZnZWMHM2bmpPczUxNDdCVGg0dEZhNFlWdHNwTC0yalhBeGFwSTNoN2d5UkstbmZiMWczNDRpNVFWSk1IQUJfaEk1YnhMSmdhcnhCYkhmYTgwVHZTRVU5SEluZU1ZRDdTMDhqY0xmNkRJVWxyZWZwQzd4b2FVdUtQMXltemxobmdjNkFHZ1Y0dDBYZllQN1Z1blJLQUNVTG5ubnhqRE5ybURKUVRlQjZZWkhCYUZuQXNiS1FYTlllYzFZ0gHKAUFVX3lxTE0xcFM0bUs4cjMyTFZnWlZwZVpZaE1MTmxHN1pQOEhranpTczkwdmI2eWlYR1piWmlYN3lfVGxkZzdvaUFSaDJpblF0bDZmYWpKMTRBenRLSEFQcnNyNEh5aUNxM3pqNXdNY2VUQl9vckpad1Y2a0hMaV8xWFFsb2JpRmJxVEVGS2RFekN3MGZ5Y2tUbTFLZ2JTdHpRTW55UWdISUJRRFl6NkltenFJcUd6Y2tLc0ZIb1ZEaUlJZm93RjMtb3lnb0ppb2c?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-10 10:57  (1 条)
+
+- **特朗普** | 特习峰会谈什么？(2)台湾：中国视其为“最大风险点”，美国说“不会是此行重点” <https://news.google.com/rss/articles/CBMixwFBVV95cUxNZVNXZmFZZnZWMHM2bmpPczUxNDdCVGg0dEZhNFlWdHNwTC0yalhBeGFwSTNoN2d5UkstbmZiMWczNDRpNVFWSk1IQUJfaEk1YnhMSmdhcnhCYkhmYTgwVHZTRVU5SEluZU1ZRDdTMDhqY0xmNkRJVWxyZWZwQzd4b2FVdUtQMXltemxobmdjNkFHZ1Y0dDBYZllQN1Z1blJLQUNVTG5ubnhqRE5ybURKUVRlQjZZWkhCYUZuQXNiS1FYTlllYzFZ0gHKAUFVX3lxTE0xcFM0bUs4cjMyTFZnWlZwZVpZaE1MTmxHN1pQOEhranpTczkwdmI2eWlYR1piWmlYN3lfVGxkZzdvaUFSaDJpblF0bDZmYWpKMTRBenRLSEFQcnNyNEh5aUNxM3pqNXdNY2VUQl9vckpad1Y2a0hMaV8xWFFsb2JpRmJxVEVGS2RFekN3MGZ5Y2tUbTFLZ2JTdHpRTW55UWdISUJRRFl6NkltenFJcUd6Y2tLc0ZIb1ZEaUlJZm93RjMtb3lnb0ppb2c?oc=5>
 
 ### 2026-05-10 09:52  (5 条)
 
