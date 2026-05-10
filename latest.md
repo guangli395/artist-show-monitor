@@ -1,56 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-10 14:35**
-- 本轮扫到 682 条, 新增 **5** 条
+- 最近更新: **2026-05-10 15:46**
+- 本轮扫到 684 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (2 条)
 
-### 美国能源部部长赖特释放信号：特朗普政府考虑暂停燃油税
+### “政教合一”？特朗普的“宗教委员会”越来越颠了-观察者网
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: guancha.cn
+- 时间: 2026-05-10 14:44
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE4ybGdTMWZZMmpsUVRzdXdjbzR3NHRsWHE0ZjZUZnZMOEJENFV2UGFCRWlTZGZvVjJCWjVHT1Zmcm1sT2d3dnh2YjVZOFZFYWZqLVhQaXVfVlhKZV9IOTJzenVvOVNiZHZRN2c?oc=5>
+
+### 美国总统特朗普：油价已经大幅下跌。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-10 13:43
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9DdmpOSmt6WEw4b2xHbVlmalVkcUFlcTRSSlB4YzJZVXNYMWJSdnlNLTNMMFNxYTdfR0ZXcUYycDVjLVJfMDNEbjItRQ?oc=5>
-
-### 美国能源部部长赖特释放信号：特朗普政府考虑暂停燃油税
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-10 13:45
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxNRFR4UHdtbVNGUjRFNDcxX0JoS2dyR2lDNzJXNEtCMFdTZE9udXVHYzdIQ3pqWm5IRzQ4WDNZbTNnM0dSbFJ1QWw2elN2WGdOQ1FIcUJEV3NvZ1VTZjZNVV9OYlU3OUszb19lMXFEWmdmR093MWd5Vy1sc3hFal9tY0NLVzlLYW8?oc=5>
-
-### 特朗普 T1 手机交付遥遥无期，近 60 万用户订金难追回
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-05-10 14:28
-- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxOQU9VNi14VDZCRHNpWjlxLXBrSGwyZDJmYWMtVHlCS0c1cllVdnhJeEJyLWw5bFQ4THVoOUdRTWVFdktVanlrWXZhNVhoV0hJTEowbmo4RWMtb2x6N3Fwd1Y4YXdsWTQ0ZWZtUXBRODNBd2RKTGpYSnFlV3I5U3lucXZiUGJuQmlTYnNrLUpXckJQZmdq?oc=5>
-
-### 美国总统特朗普：绝不允许伊朗拥有核武器。
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-10 14:24
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5idVVTVzBXVVpqalAwcVhjN2NoX2oxZkU2V0ttYUxBQ2p4MklObWVuS2xLS1YyaXQ5ZDFGRUZoQzQ2ZmFySjFNbWtBbw?oc=5>
-
-### 美国总统特朗普：如果有人靠近伊朗掩埋在废墟下的浓缩铀，我们会知道，并且会将其炸毁。
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-10 14:16
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE15VmdIU2wxUlhQQ2hBbnlXYlJLQV9UQThjVXVKc0hTNlQ4bEdwVUtxcGZ6T3NvSjJOVnozbm1iNmQ4WWhSdnc0dExYSQ?oc=5>
+- 时间: 2026-05-10 14:02
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5sV1dUTmZZN1ZsRzFGWGotSWNBNWRQMnE2NzJPTG00WDFvMzZ1a3RiLUZRWnB1NG9nMzR6MFlQV0MxbkxRTFc2S2pWQQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-10 15:46  (2 条)
+
+- **特朗普** | “政教合一”？特朗普的“宗教委员会”越来越颠了-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE4ybGdTMWZZMmpsUVRzdXdjbzR3NHRsWHE0ZjZUZnZMOEJENFV2UGFCRWlTZGZvVjJCWjVHT1Zmcm1sT2d3dnh2YjVZOFZFYWZqLVhQaXVfVlhKZV9IOTJzenVvOVNiZHZRN2c?oc=5>
+- **特朗普** | 美国总统特朗普：油价已经大幅下跌。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5sV1dUTmZZN1ZsRzFGWGotSWNBNWRQMnE2NzJPTG00WDFvMzZ1a3RiLUZRWnB1NG9nMzR6MFlQV0MxbkxRTFc2S2pWQQ?oc=5>
 
 ### 2026-05-10 14:35  (5 条)
 
