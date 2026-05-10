@@ -1,40 +1,60 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-10 08:02**
-- 本轮扫到 667 条, 新增 **3** 条
+- 最近更新: **2026-05-10 09:52**
+- 本轮扫到 672 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (5 条)
 
-### 【今日特朗普要闻】 ......_7x24快讯_新浪财经
+### 王一博新歌《旁观者》发布，低吟浅唱诠释从容追梦
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-10 07:15
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5VMWRWZ3JTeHJ6Tm1oLTNJa2UxcWREbWVRNmRSLU5uSHpwcEJRelF6aGFlQUtneEpfbGJRZTE0Xy1VenNZMGpVRWc5TQ?oc=5>
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_2002549363_m775c7a7303301d8b2.html>
 
-### “特朗普主动找来，中国谈判更有底气了”-观察者网
+### 用周杰伦新歌《那天下雨了》，打开江西的烟雨江南
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-05-10 07:15
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE53bEhmUWh6dWN4eFRKcDRRUHRBVUR5NjJUR2oyZEZMMmpoSzFoa1lLZU5velk4dzFoV2F3ZWx4YXlWanVyVGMwQnJiNnJiSmxCdWlBZ25kQUVXdUpKLWZqRkdrQXZOMkRMVWc?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5543512579_m14a6b4a0303301l8iq.html>
 
-### 市场消息：在与特朗普发生争执后，德国重新推动采购战斧巡航导弹。
+### “几轮博弈后，特朗普发现：中国比他想象中更强大”-观察者网
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-10 04:48
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE81VW5jS0dZcE5xb1Bsdm05VGh4Sl9PWk9ERkJXSk9fX3pLakJ0YzR1em9GV1d0RnRRMzZSMWdxaUZwbmxveGlQb00xUQ?oc=5>
+- 场馆: 观察者网
+- 时间: 2026-05-10 03:44
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5kREh4eVZmZG1iOG1WOUxCQ3d3dl8xOGxLOGZ6dUdTQ1RVM1VwWEJ2UmtFRjdkendkeVNRMmQtLTBVaVp5Q2RIUTRHUnFxY3BHMFptSWxVQ3B6ZTNRdElHcXpLeU1sMlNLUmc?oc=5>
+
+### 国际特稿：特朗普押上1.5万亿预算 军备竞赛加剧烟硝味渐浓
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-05-09 21:00
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1JQ0E3U3ZGTlhqSEZjV0dabGE5SjZNUmNRbE4way1FSkZNekRhNjZsdlNaS2FzTzFxRGQwdGt4dkdpNTFfT0VKRkNUbVRHRjFzdDlNS3RVeXRyZzRHLWFBOGloRmZiQQ?oc=5>
+
+### IOSG 现场观察：Trump Crypto 午宴与“年轻的美国”
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 吴说
+- 时间: 2026-05-09 11:24
+- 链接: <https://news.google.com/rss/articles/CBMilwFBVV95cUxOZVBfN1VJT0pfVFBTeUxHX1JBWWlrZWE1NkJZNnZaOHBPUnNkblpZQnJvRGs5cmR0Tmg3XzdkZVBUNWFMbE5rSlY5NE5Ec0VoYlN4MFQwbVBRRUlINWNJYlZ2VWtfYjg4cHdEWHpVUG5IM1N0SVpHT3BhcVJYcnNCZlBiQVJSTGJIWU5VSlNYUG9DOFV6MW8w?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-10 09:52  (5 条)
+
+- **王一博** | 王一博新歌《旁观者》发布，低吟浅唱诠释从容追梦 <https://k.sina.com.cn/article_2002549363_m775c7a7303301d8b2.html>
+- **周杰伦** | 用周杰伦新歌《那天下雨了》，打开江西的烟雨江南 <https://k.sina.com.cn/article_5543512579_m14a6b4a0303301l8iq.html>
+- **特朗普** | “几轮博弈后，特朗普发现：中国比他想象中更强大”-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE5kREh4eVZmZG1iOG1WOUxCQ3d3dl8xOGxLOGZ6dUdTQ1RVM1VwWEJ2UmtFRjdkendkeVNRMmQtLTBVaVp5Q2RIUTRHUnFxY3BHMFptSWxVQ3B6ZTNRdElHcXpLeU1sMlNLUmc?oc=5>
+- **特朗普** | 国际特稿：特朗普押上1.5万亿预算 军备竞赛加剧烟硝味渐浓 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1JQ0E3U3ZGTlhqSEZjV0dabGE5SjZNUmNRbE4way1FSkZNekRhNjZsdlNaS2FzTzFxRGQwdGt4dkdpNTFfT0VKRkNUbVRHRjFzdDlNS3RVeXRyZzRHLWFBOGloRmZiQQ?oc=5>
+- **Trump** | IOSG 现场观察：Trump Crypto 午宴与“年轻的美国” <https://news.google.com/rss/articles/CBMilwFBVV95cUxOZVBfN1VJT0pfVFBTeUxHX1JBWWlrZWE1NkJZNnZaOHBPUnNkblpZQnJvRGs5cmR0Tmg3XzdkZVBUNWFMbE5rSlY5NE5Ec0VoYlN4MFQwbVBRRUlINWNJYlZ2VWtfYjg4cHdEWHpVUG5IM1N0SVpHT3BhcVJYcnNCZlBiQVJSTGJIWU5VSlNYUG9DOFV6MW8w?oc=5>
 
 ### 2026-05-10 08:02  (3 条)
 
