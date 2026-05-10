@@ -1,40 +1,73 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-10 02:27**
-- 本轮扫到 658 条, 新增 **3** 条
+- 最近更新: **2026-05-10 05:49**
+- 本轮扫到 664 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (6 条)
 
-### 特朗普再提调整驻意美军 意美关系骤然紧张
+### 特朗普希望俄乌“大幅延长”停火 俄方回应
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-05-10 01:04
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBrUDU1c2NsVEZXN0tJR0lMOUlpNHBwOGxGSy1FRlVSbnUzWHZWem81Vnpxa0tfSkt1UTFKdGRGWFI2QVVMRTdpOWh4ajRPSmNIandsb0lmMUhRYjBMd0hwVEc4eFgwRy00RXVkS0pleDY0TlZxUFV2Yg?oc=5>
+- 场馆: 新华网
+- 时间: 2026-05-10 03:49
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBEVkEwaE15VUQxZUNoTk9aR1hwbWlXYXh2Y1dBdldCWnV2UVlvQW14UktDRXphUFhkOGFlcG5VVmJwZkRuWnRYRWpMcGxITjJhODhvSnEzUkJsZlpVVnhIUjJsRnVadEVBREcweEY3clJvNXUzWFdfRnJacEw4TVU?oc=5>
 
-### 继德国后，特朗普瞄准意大利
+### 特朗普希望俄乌“大幅延长”停火 俄方回应
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-09 23:31
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBNN1ZPdWQ0ZGU3Vzh4Zzc2Zl8wVkRSOTZZSlVZQTdTMTl1Z2pwemZiQmFnWVRXZ29pRm1YaGo0UnN3UF84cjZJdkVlajR0OWR3bHc4NExPdUllUEpIR3dJUmI4VnRhbnlOOWJVRDBBOEJFVjY3SmdJag?oc=5>
+- 时间: 2026-05-10 03:50
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9aOFBLSFpiSVdWZV9kOFlSRXMxQzc0bHdhcV9PNUNWcjJGMHFHS2J0UXVvM2VvSTkwRlRYcno2dE42UUpSbk8yQlQ0cw?oc=5>
 
-### trump表示应该买入 avav
+### 特朗普连打几个电话训斥他，局长宝座“危”了？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-05-10 04:12
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwSWd3djQ5Qjg5UUdzU1I0UzJKWl9xN3hrZ2NsMG1yQXo4NmhQcUs5YmtxaUtZNll4Mms1d2djWkVtX0VPRlhBRG9zcm9JRFMxOWVoN0NnRkl1YVZTUWc?oc=5>
+
+### 特朗普潜在访华行开始前美法院当头棒喝裁定关税非法反会刺激特朗普从中国“讨回面子”？他能如愿吗？张思南深度解析
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-10 03:39
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFB6anBtSHdqMW9vNUV6ekFoVzZDTnlnYlBpeVBJZmtybWd6LVBjZURuVmV6bmJYNVhmblRGbGVWVEJ3V3FMM2xkclFNalhFSF9NRkx1NFc0Q2plY1Z1Rno0NW9LT05TY0oyc3lrVURLWkZvMG52XzRRWQ?oc=5>
+
+### 特朗普称中美元首会谈将按计划举行，外交部：目前无进一步信息提供
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-05-08 07:37
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5STV9kcHpEcnA2dXpXN1dJaG53djdycW0wTXA4OHNVdEJPZlU1bWZXaFA5N0RUWm41ZVhxb0NjWFpYeWN6bHNUTGpRRXZ1SXctT2FiY2dVZmRfaHBjVXlhRVZUUW85V3NWZUh0ZW1kYU1GNGlqMTZzdw?oc=5>
+
+### Trump Media & Technology(Q1)亏损扩大美股US Stocks Quote - 外围新闻内容Golbal News Content
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-05-10 01:07
-- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOFVYZ3M0cUxfdTVEWHcxTFh1NEIxVkY5Rlg1ZVBlRWVjakk0NGNLUDYwNmE4anBlWExhNE1jamc0Szl0WGhsc3dqTkhfSUxLRXlMelBYODRqVE80WmhGVU9KUmtseDFEV0NSaHZFSmo0ZWNEdHNwdmt2UjZCb1dGTDVBeTlYaUl2?oc=5>
+- 场馆: AASTOCKS.com
+- 时间: 2026-05-08 20:49
+- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxQT21qQ0p6S2NfNzJqQmtDRThVOVJHQ3NhbmJCM0doYldnZ1oxSmxKTVhhWU1POS1qX1gzSFQ5QmJJUjFHZHpLQTRWWmhMd0ZmS0JkaFI1ZjF2UHE2ZEdIR3pYeGJRbTBFRHFxQ256R0ZoZDFkek13QU4weFNfNjlQRXgySUhwbXdJeVE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-10 05:49  (6 条)
+
+- **特朗普** | 特朗普希望俄乌“大幅延长”停火 俄方回应 <https://news.google.com/rss/articles/CBMif0FVX3lxTFBEVkEwaE15VUQxZUNoTk9aR1hwbWlXYXh2Y1dBdldCWnV2UVlvQW14UktDRXphUFhkOGFlcG5VVmJwZkRuWnRYRWpMcGxITjJhODhvSnEzUkJsZlpVVnhIUjJsRnVadEVBREcweEY3clJvNXUzWFdfRnJacEw4TVU?oc=5>
+- **特朗普** | 特朗普希望俄乌“大幅延长”停火 俄方回应 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9aOFBLSFpiSVdWZV9kOFlSRXMxQzc0bHdhcV9PNUNWcjJGMHFHS2J0UXVvM2VvSTkwRlRYcno2dE42UUpSbk8yQlQ0cw?oc=5>
+- **特朗普** | 特朗普连打几个电话训斥他，局长宝座“危”了？ <https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwSWd3djQ5Qjg5UUdzU1I0UzJKWl9xN3hrZ2NsMG1yQXo4NmhQcUs5YmtxaUtZNll4Mms1d2djWkVtX0VPRlhBRG9zcm9JRFMxOWVoN0NnRkl1YVZTUWc?oc=5>
+- **特朗普** | 特朗普潜在访华行开始前美法院当头棒喝裁定关税非法反会刺激特朗普从中国“讨回面子”？他能如愿吗？张思南深度解析 <https://news.google.com/rss/articles/CBMieEFVX3lxTFB6anBtSHdqMW9vNUV6ekFoVzZDTnlnYlBpeVBJZmtybWd6LVBjZURuVmV6bmJYNVhmblRGbGVWVEJ3V3FMM2xkclFNalhFSF9NRkx1NFc0Q2plY1Z1Rno0NW9LT05TY0oyc3lrVURLWkZvMG52XzRRWQ?oc=5>
+- **特朗普** | 特朗普称中美元首会谈将按计划举行，外交部：目前无进一步信息提供 <https://news.google.com/rss/articles/CBMieEFVX3lxTE5STV9kcHpEcnA2dXpXN1dJaG53djdycW0wTXA4OHNVdEJPZlU1bWZXaFA5N0RUWm41ZVhxb0NjWFpYeWN6bHNUTGpRRXZ1SXctT2FiY2dVZmRfaHBjVXlhRVZUUW85V3NWZUh0ZW1kYU1GNGlqMTZzdw?oc=5>
+- **Trump** | Trump Media & Technology(Q1)亏损扩大美股US Stocks Quote - 外围新闻内容Golbal News Content <https://news.google.com/rss/articles/CBMiigFBVV95cUxQT21qQ0p6S2NfNzJqQmtDRThVOVJHQ3NhbmJCM0doYldnZ1oxSmxKTVhhWU1POS1qX1gzSFQ5QmJJUjFHZHpLQTRWWmhMd0ZmS0JkaFI1ZjF2UHE2ZEdIR3pYeGJRbTBFRHFxQ256R0ZoZDFkek13QU4weFNfNjlQRXgySUhwbXdJeVE?oc=5>
 
 ### 2026-05-10 02:27  (3 条)
 
