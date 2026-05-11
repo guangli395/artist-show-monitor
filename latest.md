@@ -1,67 +1,89 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-11 02:37**
-- 本轮扫到 728 条, 新增 **13** 条
+- 最近更新: **2026-05-11 06:34**
+- 本轮扫到 742 条, 新增 **14** 条
 
 ---
 
-## 本轮新发现 (13 条)
+## 本轮新发现 (14 条)
 
-### 外交部：特朗普将于5月13日至15日访华
+### 周杰伦王力宏华语乐坛传奇交锋，嘉年华巡演启动
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中国科技网
-- 时间: 2026-05-11 01:11
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1HUWIwb2RZRDJmNG16R3B6Q1p1SW11Z25vNC1GUDVuX3hZOHVkM0Vsc3VDLVZ4MGZNdHk4S2d3N29Wa21lTTUtaGZzVXpNdW1xWTJUcEJKcThlcXUtZ2lscnE2WXo3eWV4Q0xlT21QMDE?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_6086153017_m16ac3533905301mysy.html>
 
-### 特朗普民调雪崩
+### 特朗普：期待访华之旅 一定会非常精彩
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-05-11 01:59
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxNVkxvRW4wRnI3X0xLUFdSMEZmeGhkdzAzRFVfZGNfQk5nSTBUNUlORmpfZDQwdEpOVDlnc0hFWk9vY284Vm9BVHhZdHlIb1JWREFKMnNGYllZU2xWX3ZueUdsUGgzX0RwS1dPZEZwdjRDS3FrTnFZTFd1NmNQRVBUS3ZnRXhGc3FzcU53WA?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-05-11 06:16
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBHWG9HQ2RZQTd3Q1BXSUJ2RlNGb1BadWZtNDkwMDdoVHBobGdEcDNTYkQ0bElqdU9xQ2ZJcEExZ2N2ZHZvcWJXQ1lzbw?oc=5>
 
-### 特朗普手机T1画饼一年不发货59万人支付定金-PChome
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: Pchome电脑之家
-- 时间: 2026-05-11 01:51
-- 链接: <https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mekRoTUdvM3pCcnVSZVRmdVJNb0Z0Z05WcXlDcW5SV1VINXNReFFabnROM1lKR1ZObU1INTZ4NUsyeFV3U08yUnlKQWVuMXB2RVVaQU9qSGVIMjg?oc=5>
-
-### 中美北京峰会特朗普能如愿以偿吗？
+### 释新闻｜特朗普称伊朗提案“完全不可接受”，停火协议出现松动
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 文学城
-- 时间: 2026-05-10 00:17
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBlUDdWenladHF5c0dyZ3QtTjl3RmYwa1drdTc3STF0THg0T0xZWDczOGk3RWtQTDVDYlQwclpXd051WjBlX1Zra1VUVlllTVZkY0dRQWw0WTVzTWxvbFV5eHdKbFg?oc=5>
+- 场馆: thepaper.cn
+- 时间: 2026-05-11 05:53
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE9YM19TYXJwNFJQVDY0T0hfNy1XUWlYeVRHdkhVYmxScVIyeDVkRmdEUTdFc1BKNGxvUGdEZUVlM1Y0emR2aGdqQnJBeHNoX29lR3BZTkd5aG9XaG9oQ3c?oc=5>
 
-### 新华社权威快报丨美国总统特朗普将对中国进行国事访问
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-05-11 01:02
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE83MTlHWXVrT0xRSHhSS0RBWnV4eWJKTFF4RVZPM0lXUVhIMF9sYUV6UlBfRXV4S0xSTkRMMFN0MVlKY2loWVB2RTFNWnBnMDI2dTZ0LUR4Q2FJM1YxSUdYNDh6WGNsUTJrVU5QcEc2Rm4wa1E1UGlPcEt1T19scGM?oc=5>
-
-### 特朗普二次访华与习特会：成行前夕盘点中美舆论场上的“叫板”热点
+### “特朗普金卡”8万目标仅338人申请，美律师警告“别上当”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-05-11 00:38
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tTUNSSHUteDVmZWl3Zi1SZzF6SFV4cVZ4RHBnQzZDZXZ1a2ZaeU1uejBCTm9vRUd6a3owZ210MlFmazVhUTBLb3A3aGxRbGh3OElYTTBUZHRmTlNIUjg0cVdtVWJ2Z9IBa0FVX3lxTFBLOFhWTkIxLWU2QW10azd6SjNCbTlJdzE1OWxEcXc3bjBVaG80LWRlZFpzSmxGMGNPMWZZa0ZsNXVqQWtqSktucDhFRHZRQVQ4SFdDVkVLd2VYSF9YbEVlVHRzaDlrOUxJVlVV?oc=5>
+- 场馆: guancha.cn
+- 时间: 2026-05-11 00:54
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBObVFRUS14YTNOTFlnV0swbVpGN1dSTlBKNUZLVnJaWFlpWWNKV01CQ1dQVDM3YVNUanZoT2lqV1pGbEQtendMV0dvYkgtbVpKb1VIR0NCLXhJVUxkaXl3Y0x1ODB2QXlMNWc?oc=5>
 
-### 美国发布特朗普访华行程
+### 特朗普要对CNN下手了？ 今日特读 媒体巨擘离世
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 日经中文网
-- 时间: 2026-05-11 02:16
-- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxPd2ItTVoxekxDcEd1WDg0TnFpYkdXenBvVEZtbXNzeDBuSE13SzFLcFdPN0M3OVhUSVRsaDZrc05jOUhodzRwRVh4b0FNMzRLaDhTZ2pSc2l3TFgyaXM0ckhtS21JUW90bWFNVUxhNFNFa1pSTHVndmhkSko4dVFHZFdMUFVfTm9ES0twRTNYWQ?oc=5>
+- 场馆: 中华网
+- 时间: 2026-05-11 00:05
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1qVmNWcG1EYzFqck9YYWNJc3pjV0NYXzNSeXFiNDFUVXhCb0hDUW82WE84SWtaYlExZXFpMHp1NDFlbkZNT2NBMWgtTDJ2MlI2R2U0NkdQa1lwWHRNWEZHeEd5YjM1YmRjaTRjRmZnRUw?oc=5>
+
+### 美特勤局专车现身北京，特朗普访华准备远超2017年？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-11 02:40
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdy1YUU9vaTZjNk9xNlUwNkotT0JleFZhX25DYkh0MVlFNWR6d1RDc2hRSi1nR3VaeENWRFRJLXdFS084aW8xaS1HUXUyM0w3cDNsSmZuMG85N1lKXzNJcU1XY0cyaFI2eTRiMjV3V3JEdFAxd2tLSDhxQzdFWUtPMV9iM3NxdGM5N1F3MUhBTEJpeGZ0a2pGczVlbUhSaDZfQlk4R0VXbF9GYWJGRVowUzVCUWFrVVo0QW44dDk0QWlNMzZyR1Rvd3poV2kyWXZt?oc=5>
+
+### 美国中选前瞻：特朗普“大败局”？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 财新
+- 时间: 2026-05-11 02:46
+- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Icnp3eEZLMVJVaTBtMW5tdEdxOU1RSi1HU09vejZqeU1fLTlZaXVuSGVfSUZIRS0yY1RXak9abjl5NFRxRzhUaF9IbTlnam9ZUk5vUlRBZk0tWmJtT1JYckh3?oc=5>
+
+### 特朗普：最高法院关税裁决应写入“已支付政府的税款不必偿还”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-05-11 03:22
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBra0p4MmN4UDUwQ3RwQ2UwdjBpNVMtWWxyWUd0d01yZkw3WTVIazI2RVExT2ZuY2lSeEZwdEgxUTJ0bHVqWnBfZ0EwRGRsajgySmZuUElhTno4MkJrcl9oSDJYdUlDblQ0T3c?oc=5>
+
+### 特朗普为欧盟履行美欧贸易协议设定最后期限
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-05-08 01:36
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBIU1kwNGd5XzJfbkpXT05TVEU3RGVzZ2YxX3gzblotSENlbExzSmxURVB6LWdrZlZ1YUlXNjRBRkFORkdVLU1ZUjJUbUNQZjJDOUdaakFaazBFWlM5N05vN0NUTmhacDFaRFE?oc=5>
+
+### 伊朗战争、贸易、台湾：习特会将谈些什么？
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 纽约时报中文网
+- 时间: 2026-05-11 01:37
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5HR0s5X1RWQ2VTemllOFJaRkxnOTNGY0Rxc2ozQ2hnZlRFNklaWUdtUDV6c3lJYjV4RWVwbjNrUld6a2Z2QkNuS2VSZXpWRXFvajkxNlJqaGRJVjV0SmYwWjRjUkhubzFRa0FQa0U0SnI?oc=5>
 
 ### China confirms US President Trump state visit for May 13-15
 
@@ -69,52 +91,53 @@
 - 来源: `googlenews`
 - 场馆: MLex
 - 时间: 2026-05-11 01:31
-- 链接: <https://news.google.com/rss/articles/CBMirAFBVV95cUxQcTNna2twdllFTkRaWTVUbUFXSjJkb0oxbWYxUmxlY1lxSVBoSWIzUERIMDhzM0YzNGlWLVBXV0ZFbmhNUmpRM3NEUkdhOXRYX0dPTUlxOWRDUzhqakxxb2lXc0hwV3pqdUh3dE9qXzhvdldaWVdwbnJpOWs2dHFDRTc5cmhXMmxaeVV1aGFJU2taRkFzVWVOQkNfM0dlZmo3SGd4OUYtSXVJdVpP0gFaQVVfeXFMTVJxNG9aN0QwaTBzUUVtZWpjUUpoZWFmdjdKa3cxNHlIYTJPZjA5WXc4SFRtbTExUW9xdmVYVGUyN3BoT1Q4UENzR0hPN2U4SnRRUFZrWWYtMzR3?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMipAFBVV95cUxQX283OHdycko5LTBnNHdXU05FcFhYOFgyMHZQb2sxMUZrVm5jQmhnUTdQbGZvOHV0TWxGTGVvSjBLYUhmOEZkVVlEM1FFSnpjbjI0a0VRcXlxcGljTU50WjFENW9qTnhqc3lSLWhhNmk2dVlOeHFKUVRkTmtKTGNuYUZzRHBqbG9BTXlXMGhhVDZFMHNXREt3Q1c0N0tyY3hrdW9QS9IBWkFVX3lxTE1ScTRvWjdEMGkwc1FFbWVqY1FKaGVhZnY3Smt3MTR5SGEyT2YwOVl3OEhUbW0xMVFvcXZlWFRlMjdwaE9UOFBDc0dITzdlOEp0UVBWa1lmLTM0dw?oc=5>
 
-### 美中峰会：习特会能否稳定两国关系？
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: The Business Times
-- 时间: 2026-05-10 23:00
-- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxNamk1bmNDTmRoODg2bmh2VzB2Z1ZOc2JMLXJoVXJ1WG40WVo0NjBaYl9LZU5qUlIzSVY5LXZuOVZOZHZvR3NHVHNYeW5nUTk1cWlsaVNGUGlQSEoxMnBuVTE0M25SVzZ5alhFQ09VTGJVUmFENktCVy1qaXhRcVVvZ205QkNsLW5ZZDRjaXZoWG1meVRlR292MzhLcS1RZFRrbkpVOFg4VVlwQQ?oc=5>
-
-### U.S. Stock Futures Fall, Oil Surges as Trump Calls Iran's Latest Offer to End War 'Totally Unacceptable'
+### Gold slumps below $4,700 on Trump rejection of Iran peace proposal
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-05-11 00:06
-- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxQekpZZUwtUTdhdEowYXZRa2JROE42YURyMzNXVWpIU01YRkNrYnJnZVBtekpYSTdTcXltQTFkZ3A4T21zYlRxbERyRWktVXZjZF9WQnVGSzRPWEVDN3VpVHlTZmloZHU2eU5JRmtvdXhPVWNFSlZkOTBUVVM1U3pVOUIxUVN6dnNwOFJvbFpIcFZzSjVvZXhHbmZ1MktPSnNy?oc=5>
+- 场馆: TMGM
+- 时间: 2026-05-11 03:16
+- 链接: <https://news.google.com/rss/articles/CBMi1gFBVV95cUxOa2dkQ28yTWlxQkZlRHljbklPQkMwRWZuZjRpeEY3bHF1SmF5UlVsczllN1NCb2RYaTMwdml0TXpXYmRESmh4V2piaE1rbV9uOHdNNVFzbXZib2Z2M3l1d1NuaXVDRjVlZ0FLVjlFRGNfU3ZDbVIxN2JfdlJlZXhmUXRsQ2NobktFSnJ3VTFRdG0xR3Jka21qVnJGZ2lCQkFzUUxEbzFCMnpOdGZJQTNwTlBRN3FWNi1IeVV1SDE0eTgyTDJoUVFFZEZ5NWRnUWp5dVF4aG5n?oc=5>
 
-### 只闻其声不见其机：特朗普 T1 手机演变成一场数码界“闹剧”
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 动点科技
-- 时间: 2026-05-11 02:14
-- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTTdCRFVLc2RHRFBUa0lYYWo4aXhSdmZCeG13SE83R3F3cmpZbmJ0T2NXelBmNFFmanlMS2YwdGFwd3U3SG5CSUsyVG1tYzVQSE1BdktpNm5wcUZtUmJsc3BMcXNCWkdsWnV0S2ZWN3F5cEtxcXlhTGt4dHc3SXN2VTd2TjMzQ1Rz?oc=5>
-
-### IOSG 现场观察：Trump Crypto 午宴与“年轻的美国”
+### Trump set to visit Beijing this week
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-09 11:31
-- 链接: <https://news.google.com/rss/articles/CBMihAFBVV95cUxQdUo2U0V1NEw2RVdMb1daRW82clN3d3BxZG5kWE5fcC1BLUNLVXQ0eUQyS2hJMVZmajJhU3NjU2hwYnc1elJEUnhROVowaDhNRHpuX091UnJ5WjVfV3g1aDB2OTRxTzlKM29qN0ZPdDhKYV81b1JvUTBJaFloOVYwNi1TdGc?oc=5>
+- 场馆: news.tvb.com
+- 时间: 2026-05-11 04:32
+- 链接: <https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ1BWUm8xZDhHMVd1TldSUy16aUtNMjREN3M5SThVVkJ6TlR4YkdGdUNyMkdUNnJ1cFhsRnQzRjU1SmNydFRPY2UxcDNlVzBHdkp2eFgyUlFCNkFRdGFodkZpLXF6Q1dYLVVjUFBHb1B2ajZSaENSU25KWXd5dGZwYWF1T3BkQXhFRlFuZm1VR3BNQkt2ZllEQ3VOV0o0dHdDUzc3N3Mwcw?oc=5>
 
-### 伊朗战争、贸易、台湾：习特会将谈些什么？
+### 头条：特朗普本周访华 将讨论贸易、伊朗、台湾和黎智英等问题
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 茉莉花新闻网
-- 时间: 2026-05-11 02:29
-- 链接: <https://news.google.com/rss/articles/CBMiqAJBVV95cUxPLUh3RmlWdXo5YmUta0ZvbTdwSzNvcmhncWJ6dHRXTGlPYXV0UDZyV1VSNTdidFBEVmZwbUFKcmtXdy00SXJqaWd6MEhJT3J0Um5JUHgyMFVyZ19GVThIMFo2c2FCVnV3WVZKYThyakZiVWp4R21GSXNCWUstbE43ZVpDSXpTTTZQZ3RsVlNsX2hGSU1WeGlNMXlad0ZQajczSGlSVndmUUluZDUxdTVOejBTX1ZuMVYzb2JaMHB4ZlZqaHZScVdrbERKOVFJYy1NOHgwVUVYb3ZsclBvNnNBS2tmeDhBRzJXU1VTT2ktQkRUVTdMMnNDQ056ZXd2U25fZGZnc2Z2N1NLeEcta0V3TmxmVWZnYy04azhFc0J6ejR1Z2Iwd3hFTw?oc=5>
+- 场馆: Australian Broadcasting Corporation
+- 时间: 2026-05-10 09:47
+- 链接: <https://news.google.com/rss/articles/CBMid0FVX3lxTE1oVm5iRlZDTGpPQUF3TEd2c1NaM2FuZzlQdVZsS1lWMnlyMWVHZWVZRDJvSl9HNXdEdldJcTd2MXV2ZUZRSExXMWRRekREUXRsSEpTYk04eE5nS0MybUZWRjZZODhNejRzY29GeHBYOVE2UWYtcnhj?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-11 06:34  (14 条)
+
+- **周杰伦** | 周杰伦王力宏华语乐坛传奇交锋，嘉年华巡演启动 <https://k.sina.com.cn/article_6086153017_m16ac3533905301mysy.html>
+- **特朗普** | 特朗普：期待访华之旅 一定会非常精彩 <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBHWG9HQ2RZQTd3Q1BXSUJ2RlNGb1BadWZtNDkwMDdoVHBobGdEcDNTYkQ0bElqdU9xQ2ZJcEExZ2N2ZHZvcWJXQ1lzbw?oc=5>
+- **特朗普** | 释新闻｜特朗普称伊朗提案“完全不可接受”，停火协议出现松动 <https://news.google.com/rss/articles/CBMiXkFVX3lxTE9YM19TYXJwNFJQVDY0T0hfNy1XUWlYeVRHdkhVYmxScVIyeDVkRmdEUTdFc1BKNGxvUGdEZUVlM1Y0emR2aGdqQnJBeHNoX29lR3BZTkd5aG9XaG9oQ3c?oc=5>
+- **特朗普** | “特朗普金卡”8万目标仅338人申请，美律师警告“别上当” <https://news.google.com/rss/articles/CBMiakFVX3lxTFBObVFRUS14YTNOTFlnV0swbVpGN1dSTlBKNUZLVnJaWFlpWWNKV01CQ1dQVDM3YVNUanZoT2lqV1pGbEQtendMV0dvYkgtbVpKb1VIR0NCLXhJVUxkaXl3Y0x1ODB2QXlMNWc?oc=5>
+- **特朗普** | 特朗普要对CNN下手了？ 今日特读 媒体巨擘离世 <https://news.google.com/rss/articles/CBMicEFVX3lxTE1qVmNWcG1EYzFqck9YYWNJc3pjV0NYXzNSeXFiNDFUVXhCb0hDUW82WE84SWtaYlExZXFpMHp1NDFlbkZNT2NBMWgtTDJ2MlI2R2U0NkdQa1lwWHRNWEZHeEd5YjM1YmRjaTRjRmZnRUw?oc=5>
+- **特朗普** | 美特勤局专车现身北京，特朗普访华准备远超2017年？ <https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdy1YUU9vaTZjNk9xNlUwNkotT0JleFZhX25DYkh0MVlFNWR6d1RDc2hRSi1nR3VaeENWRFRJLXdFS084aW8xaS1HUXUyM0w3cDNsSmZuMG85N1lKXzNJcU1XY0cyaFI2eTRiMjV3V3JEdFAxd2tLSDhxQzdFWUtPMV9iM3NxdGM5N1F3MUhBTEJpeGZ0a2pGczVlbUhSaDZfQlk4R0VXbF9GYWJGRVowUzVCUWFrVVo0QW44dDk0QWlNMzZyR1Rvd3poV2kyWXZt?oc=5>
+- **特朗普** | 美国中选前瞻：特朗普“大败局”？ <https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Icnp3eEZLMVJVaTBtMW5tdEdxOU1RSi1HU09vejZqeU1fLTlZaXVuSGVfSUZIRS0yY1RXak9abjl5NFRxRzhUaF9IbTlnam9ZUk5vUlRBZk0tWmJtT1JYckh3?oc=5>
+- **特朗普** | 特朗普：最高法院关税裁决应写入“已支付政府的税款不必偿还” <https://news.google.com/rss/articles/CBMiakFVX3lxTFBra0p4MmN4UDUwQ3RwQ2UwdjBpNVMtWWxyWUd0d01yZkw3WTVIazI2RVExT2ZuY2lSeEZwdEgxUTJ0bHVqWnBfZ0EwRGRsajgySmZuUElhTno4MkJrcl9oSDJYdUlDblQ0T3c?oc=5>
+- **特朗普** | 特朗普为欧盟履行美欧贸易协议设定最后期限 <https://news.google.com/rss/articles/CBMiakFVX3lxTFBIU1kwNGd5XzJfbkpXT05TVEU3RGVzZ2YxX3gzblotSENlbExzSmxURVB6LWdrZlZ1YUlXNjRBRkFORkdVLU1ZUjJUbUNQZjJDOUdaakFaazBFWlM5N05vN0NUTmhacDFaRFE?oc=5>
+- **Trump** | 伊朗战争、贸易、台湾：习特会将谈些什么？ <https://news.google.com/rss/articles/CBMicEFVX3lxTE5HR0s5X1RWQ2VTemllOFJaRkxnOTNGY0Rxc2ozQ2hnZlRFNklaWUdtUDV6c3lJYjV4RWVwbjNrUld6a2Z2QkNuS2VSZXpWRXFvajkxNlJqaGRJVjV0SmYwWjRjUkhubzFRa0FQa0U0SnI?oc=5>
+- **Trump** | China confirms US President Trump state visit for May 13-15 <https://news.google.com/rss/articles/CBMipAFBVV95cUxQX283OHdycko5LTBnNHdXU05FcFhYOFgyMHZQb2sxMUZrVm5jQmhnUTdQbGZvOHV0TWxGTGVvSjBLYUhmOEZkVVlEM1FFSnpjbjI0a0VRcXlxcGljTU50WjFENW9qTnhqc3lSLWhhNmk2dVlOeHFKUVRkTmtKTGNuYUZzRHBqbG9BTXlXMGhhVDZFMHNXREt3Q1c0N0tyY3hrdW9QS9IBWkFVX3lxTE1ScTRvWjdEMGkwc1FFbWVqY1FKaGVhZnY3Smt3MTR5SGEyT2YwOVl3OEhUbW0xMVFvcXZlWFRlMjdwaE9UOFBDc0dITzdlOEp0UVBWa1lmLTM0dw?oc=5>
+- **Trump** | Gold slumps below $4,700 on Trump rejection of Iran peace proposal <https://news.google.com/rss/articles/CBMi1gFBVV95cUxOa2dkQ28yTWlxQkZlRHljbklPQkMwRWZuZjRpeEY3bHF1SmF5UlVsczllN1NCb2RYaTMwdml0TXpXYmRESmh4V2piaE1rbV9uOHdNNVFzbXZib2Z2M3l1d1NuaXVDRjVlZ0FLVjlFRGNfU3ZDbVIxN2JfdlJlZXhmUXRsQ2NobktFSnJ3VTFRdG0xR3Jka21qVnJGZ2lCQkFzUUxEbzFCMnpOdGZJQTNwTlBRN3FWNi1IeVV1SDE0eTgyTDJoUVFFZEZ5NWRnUWp5dVF4aG5n?oc=5>
+- **Trump** | Trump set to visit Beijing this week <https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ1BWUm8xZDhHMVd1TldSUy16aUtNMjREN3M5SThVVkJ6TlR4YkdGdUNyMkdUNnJ1cFhsRnQzRjU1SmNydFRPY2UxcDNlVzBHdkp2eFgyUlFCNkFRdGFodkZpLXF6Q1dYLVVjUFBHb1B2ajZSaENSU25KWXd5dGZwYWF1T3BkQXhFRlFuZm1VR3BNQkt2ZllEQ3VOV0o0dHdDUzc3N3Mwcw?oc=5>
+- **Trump** | 头条：特朗普本周访华 将讨论贸易、伊朗、台湾和黎智英等问题 <https://news.google.com/rss/articles/CBMid0FVX3lxTE1oVm5iRlZDTGpPQUF3TEd2c1NaM2FuZzlQdVZsS1lWMnlyMWVHZWVZRDJvSl9HNXdEdldJcTd2MXV2ZUZRSExXMWRRekREUXRsSEpTYk04eE5nS0MybUZWRjZZODhNejRzY29GeHBYOVE2UWYtcnhj?oc=5>
 
 ### 2026-05-11 02:37  (13 条)
 
