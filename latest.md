@@ -1,126 +1,161 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-11 06:34**
-- 本轮扫到 742 条, 新增 **14** 条
+- 最近更新: **2026-05-11 10:33**
+- 本轮扫到 758 条, 新增 **16** 条
 
 ---
 
-## 本轮新发现 (14 条)
+## 本轮新发现 (16 条)
 
-### 周杰伦王力宏华语乐坛传奇交锋，嘉年华巡演启动
+### 周杰伦日本演唱会唱《搁浅》，弯腰蓄力青筋暴起，我们的青春老了
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6086153017_m16ac3533905301mysy.html>
+- 链接: <https://k.sina.com.cn/article_7481409689_m1bded40990010256lw.html>
 
-### 特朗普：期待访华之旅 一定会非常精彩
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-11 06:16
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBHWG9HQ2RZQTd3Q1BXSUJ2RlNGb1BadWZtNDkwMDdoVHBobGdEcDNTYkQ0bElqdU9xQ2ZJcEExZ2N2ZHZvcWJXQ1lzbw?oc=5>
-
-### 释新闻｜特朗普称伊朗提案“完全不可接受”，停火协议出现松动
+### 新华社消息丨外交部介绍美国总统特朗普访华安排和中方期待
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-05-11 05:53
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE9YM19TYXJwNFJQVDY0T0hfNy1XUWlYeVRHdkhVYmxScVIyeDVkRmdEUTdFc1BKNGxvUGdEZUVlM1Y0emR2aGdqQnJBeHNoX29lR3BZTkd5aG9XaG9oQ3c?oc=5>
+- 场馆: 新华网
+- 时间: 2026-05-11 10:02
+- 链接: <https://news.google.com/rss/articles/CBMid0FVX3lxTE1WOUNQN25QYUl4bTVYanZVQV9hRFpGOGNFR2FRcnowYlNNSjFsQjFiWFByeEQzbmRSbTlhQVRKQ3JsaklXZU94YUNhZ3lwZnVkN2NiZnlGQzBKRzZucUdtbkdqM2Q4S0stcDN4U09vYXZDdFRCekFF?oc=5>
 
-### “特朗普金卡”8万目标仅338人申请，美律师警告“别上当”
+### 特朗普访华在即 传下榻酒店外警车聚集
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-05-11 09:55
+- 链接: <https://news.google.com/rss/articles/CBMirAJBVV95cUxNbHFyLWhIM0VrUlhSZkJGM09FZkdDQUhzb1FxUlBndzlDRGRDb1FaMjVPQkpkcU9NNWszX2cwc0JYVGxPSDRHY3NuQzd4WnphckwzSV9qMi1rZ1E4QnlsNE5wdGJEZnpKVWRKUzlwNDhLWmpEVHF1SW44QmxZcVgwbjVra3ZvRlFIN2g3Y1l6NU9FYkMwNGV4ckUxVElvQVV3TnI5VTU1cWY1d291Sy1sNy1Iak91c2pmUU5CMFEwQ1d2WTlyU2dCblk5OEtlTkUzajlXRmxwdkdUYlhXSTRJNy0xZTlYVFNRTTJDYVBMWE95djJKR0FoTjVIRUl2aHZCQkdsSmtEVVppUS1jdGdYbm96bzVxX200bWljNjRSQ0REa1dRdXJyMEFSTkg?oc=5>
+
+### 特朗普：伊朗的回应“完全不可接受”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 东方财富
+- 时间: 2026-05-11 04:07
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE83UmhWMnh5Yy1XWnFFNnVhbXZ2bHJDN19VTjdscDJBYUZqN1lzdHBCbGtyVTgyWDN4VFJXdlBXUUVpUUNDdGpTUngwbzlMZEtJYTRTVFdYY2tDakxyUjF2TQ?oc=5>
+
+### 特朗普指责伊朗“拖延、戏弄”美国
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-05-10 20:16
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBpWnhMRHRLem1ieE9iTFhtdkprSlRoT000OEpHRW9keXRGNC1SUkR6ZzhaZEJ1UW1JcHNmLXByWm1qRlFrVFNBZ3dlRnJDekxYTXlLaVVObVRoRl9vNGk0QUlSUWNMVlR3YVdlMHlVSi1tUm5kdG1kaFliWHJRYlE?oc=5>
+
+### 两岸圆桌派｜盛九元、唐湘龙：被伊朗羞辱的特朗普，急需来中国“冲喜”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: guancha.cn
-- 时间: 2026-05-11 00:54
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBObVFRUS14YTNOTFlnV0swbVpGN1dSTlBKNUZLVnJaWFlpWWNKV01CQ1dQVDM3YVNUanZoT2lqV1pGbEQtendMV0dvYkgtbVpKb1VIR0NCLXhJVUxkaXl3Y0x1ODB2QXlMNWc?oc=5>
+- 时间: 2026-05-11 05:14
+- 链接: <https://news.google.com/rss/articles/CBMibEFVX3lxTE1xdTZQRkJJQW1CZktRVVVlNEsydHFMNWhWcFhrcjg2ZjI2S2V1NXh1RUs4UGtHY19QX3JJSTUwdVhBTmdJUTlLdndScUpmNGhQLVVmc0p5VDc5eFlieEVUOEl0QmdKX1R2R2JBNw?oc=5>
 
-### 特朗普要对CNN下手了？ 今日特读 媒体巨擘离世
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-05-11 00:05
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1qVmNWcG1EYzFqck9YYWNJc3pjV0NYXzNSeXFiNDFUVXhCb0hDUW82WE84SWtaYlExZXFpMHp1NDFlbkZNT2NBMWgtTDJ2MlI2R2U0NkdQa1lwWHRNWEZHeEd5YjM1YmRjaTRjRmZnRUw?oc=5>
-
-### 美特勤局专车现身北京，特朗普访华准备远超2017年？
+### 美国民主党人泼冷水：特朗普这回访华，硬气不起来
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-11 02:40
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdy1YUU9vaTZjNk9xNlUwNkotT0JleFZhX25DYkh0MVlFNWR6d1RDc2hRSi1nR3VaeENWRFRJLXdFS084aW8xaS1HUXUyM0w3cDNsSmZuMG85N1lKXzNJcU1XY0cyaFI2eTRiMjV3V3JEdFAxd2tLSDhxQzdFWUtPMV9iM3NxdGM5N1F3MUhBTEJpeGZ0a2pGczVlbUhSaDZfQlk4R0VXbF9GYWJGRVowUzVCUWFrVVo0QW44dDk0QWlNMzZyR1Rvd3poV2kyWXZt?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-05-11 07:17
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9tanN4dm4zdDd6NEVFcDhBWktoVnk4Q3hUMkdnY1hnWkVKSkhCekpoWWFCaTZfWDAtNzE2ZC1VZVNZYW9BNmE4U0RGcEE?oc=5>
 
-### 美国中选前瞻：特朗普“大败局”？
+### 特朗普金卡翻车：8万目标338申请，律师警告别上当
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 财新
-- 时间: 2026-05-11 02:46
-- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Icnp3eEZLMVJVaTBtMW5tdEdxOU1RSi1HU09vejZqeU1fLTlZaXVuSGVfSUZIRS0yY1RXak9abjl5NFRxRzhUaF9IbTlnam9ZUk5vUlRBZk0tWmJtT1JYckh3?oc=5>
+- 场馆: Sina finance
+- 时间: 2026-05-11 04:45
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE9IeXY2X181dUczdFMwaDNJM2ZpMUxuMGtnZ0k1LWhLeGZ2MmVrQVVSS0RyRzJtMWpxTDZnVWZNQ1VWbjdubjRHVnQxU0hseHdnanJRMnk0Y0xiemVPZVg2S2ZrTldMNUxKbDEzMmNvQ1NPZzJUc1E?oc=5>
 
-### 特朗普：最高法院关税裁决应写入“已支付政府的税款不必偿还”
+### 伊朗拒绝美国停战方案 特朗普称“完全不可接受”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中国网新闻中心
+- 时间: 2026-05-11 03:42
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE5qSVJvNmVLbWJzelI4Qi11eldieXJZS0NwV0dYU25ZRWVtTllSMXJ6Mm04VmtJcmtFU3l0NGk5bjNxLTZqN3phRVlDZGpsRzZydUx6b1FWTXp2ZGFTWkotRHA2M2xJV01zQjhN?oc=5>
+
+### 美业界与两党议员紧急劝阻特朗普：勿对中国开放汽车市场！
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 电子工程专辑
+- 时间: 2026-05-11 08:26
+- 链接: <https://news.google.com/rss/articles/CBMiXEFVX3lxTE8yajl4c2drdGRBWEl3eWdmNG1KYXdDNmNmYU5zQmhCU0lVM0NtQVZjcEJtMmF2WDRjMFNDcENJNENNM09UTkN5REVSOWtxYXBibWprQzN2bTlmcE15?oc=5>
+
+### 美媒：北京邀随特朗普访华美企与中国领导人会谈 被美拒绝
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 联合早报
-- 时间: 2026-05-11 03:22
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBra0p4MmN4UDUwQ3RwQ2UwdjBpNVMtWWxyWUd0d01yZkw3WTVIazI2RVExT2ZuY2lSeEZwdEgxUTJ0bHVqWnBfZ0EwRGRsajgySmZuUElhTno4MkJrcl9oSDJYdUlDblQ0T3c?oc=5>
+- 时间: 2026-05-08 07:26
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9sWmNfWXBjR0p1Nmk2T19OVEI5VTRySkF5Mk1nbUZCQTluMU1vMzVjQ1NMX3ZpNGQxUGZOSFhKQlUyTzFBUV90M0MyR0J4dU95aXJoX1M4a05saFdlWWtvQmJOQ0lmeUd4b0E?oc=5>
 
-### 特朗普为欧盟履行美欧贸易协议设定最后期限
+### 特朗普访华前瞻：贸易、科技、台湾和伊朗四大焦点，美中各自希望得到什么
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-05-08 01:36
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBIU1kwNGd5XzJfbkpXT05TVEU3RGVzZ2YxX3gzblotSENlbExzSmxURVB6LWdrZlZ1YUlXNjRBRkFORkdVLU1ZUjJUbUNQZjJDOUdaakFaazBFWlM5N05vN0NUTmhacDFaRFE?oc=5>
+- 场馆: BBC
+- 时间: 2026-05-11 05:08
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9iN2F1MzQzNFFIM2VOX0VSYVd0RFdGdWlnTl9QOUJ6TEVsTXQxMHNycUNlN2w0S3lQU0dqa0pBQUFRbmR6UUZoMHZ6eHBHRU9yQnBoX2NoZWxTMGExV1F2MDJ0WFk2d9IBa0FVX3lxTFB0QkxRT3ZZcF9ua0ZhYlFIZUdicW5qM2p4YVU3MVhxckNyamNiTzMwWm8ySEFwWlRFcGhvT2thRjJjclFjUFo4R3ZheG1rd0FIaFlBdUM1cEFlX2hVTk1ZQ1loNU9NT1lFTU5F?oc=5>
 
-### 伊朗战争、贸易、台湾：习特会将谈些什么？
+### 全球前瞻｜美国总统特朗普本周访华，中美将在韩国举行经贸磋商
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-05-11 06:03
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBSUWpiQzRjTjlqMVhXVjMwQUdtVWR4bVUwLWUtTXk3c0hnRk56Vmg1RHVqRm9xdnh6bHdJTUtNT3ZUR1Vpb3dXRkJqRkVkOUlnUG5rRWFTdkszdXJBeTVMVQ?oc=5>
+
+### Arkham：TRUMP 代币团队转移 1209 万美元 TRUMP
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-05-11 01:37
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5HR0s5X1RWQ2VTemllOFJaRkxnOTNGY0Rxc2ozQ2hnZlRFNklaWUdtUDV6c3lJYjV4RWVwbjNrUld6a2Z2QkNuS2VSZXpWRXFvajkxNlJqaGRJVjV0SmYwWjRjUkhubzFRa0FQa0U0SnI?oc=5>
+- 场馆: 吴说
+- 时间: 2026-05-11 07:25
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxOSVRhNnd0RXNlRERaVWt5T1diUkVSZnhyLXJWWS1yLTBmRHBEdXhsUjctU2lVczhjc3M5eGY5c3pEcm84TVI3S2tBNUlpY1RPNzMwdnFqcUJQYVJTQ2tGRHFUUFNZaGJYaFZuZXZQUWp2YWc5UXRoUFhkWDI5RjVSUFdfNklSSk0?oc=5>
 
-### China confirms US President Trump state visit for May 13-15
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: MLex
-- 时间: 2026-05-11 01:31
-- 链接: <https://news.google.com/rss/articles/CBMipAFBVV95cUxQX283OHdycko5LTBnNHdXU05FcFhYOFgyMHZQb2sxMUZrVm5jQmhnUTdQbGZvOHV0TWxGTGVvSjBLYUhmOEZkVVlEM1FFSnpjbjI0a0VRcXlxcGljTU50WjFENW9qTnhqc3lSLWhhNmk2dVlOeHFKUVRkTmtKTGNuYUZzRHBqbG9BTXlXMGhhVDZFMHNXREt3Q1c0N0tyY3hrdW9QS9IBWkFVX3lxTE1ScTRvWjdEMGkwc1FFbWVqY1FKaGVhZnY3Smt3MTR5SGEyT2YwOVl3OEhUbW0xMVFvcXZlWFRlMjdwaE9UOFBDc0dITzdlOEp0UVBWa1lmLTM0dw?oc=5>
-
-### Gold slumps below $4,700 on Trump rejection of Iran peace proposal
+### 油价在特朗普否决伊朗对美国和平提议的回应后跳升
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: TMGM
-- 时间: 2026-05-11 03:16
-- 链接: <https://news.google.com/rss/articles/CBMi1gFBVV95cUxOa2dkQ28yTWlxQkZlRHljbklPQkMwRWZuZjRpeEY3bHF1SmF5UlVsczllN1NCb2RYaTMwdml0TXpXYmRESmh4V2piaE1rbV9uOHdNNVFzbXZib2Z2M3l1d1NuaXVDRjVlZ0FLVjlFRGNfU3ZDbVIxN2JfdlJlZXhmUXRsQ2NobktFSnJ3VTFRdG0xR3Jka21qVnJGZ2lCQkFzUUxEbzFCMnpOdGZJQTNwTlBRN3FWNi1IeVV1SDE0eTgyTDJoUVFFZEZ5NWRnUWp5dVF4aG5n?oc=5>
+- 场馆: AASTOCKS.com
+- 时间: 2026-05-11 09:17
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE9aYUEzQTlXTUFyLVBaSXMtbnNJY2lTbXVtdW5LMVJGMy1LU29CY05qZzdPVDB2NHNOWUhsQVNFdlBoX2s2dThZbkw1MlZuMXduMmYzU0JlSzJCUEhjOFNvbnY0VW11MExaTEJUbGw1Zw?oc=5>
 
-### Trump set to visit Beijing this week
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: news.tvb.com
-- 时间: 2026-05-11 04:32
-- 链接: <https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ1BWUm8xZDhHMVd1TldSUy16aUtNMjREN3M5SThVVkJ6TlR4YkdGdUNyMkdUNnJ1cFhsRnQzRjU1SmNydFRPY2UxcDNlVzBHdkp2eFgyUlFCNkFRdGFodkZpLXF6Q1dYLVVjUFBHb1B2ajZSaENSU25KWXd5dGZwYWF1T3BkQXhFRlFuZm1VR3BNQkt2ZllEQ3VOV0o0dHdDUzc3N3Mwcw?oc=5>
-
-### 头条：特朗普本周访华 将讨论贸易、伊朗、台湾和黎智英等问题
+### 在特朗普驳回伊朗对美国和平提议的回应后，油价上涨。
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Australian Broadcasting Corporation
-- 时间: 2026-05-10 09:47
-- 链接: <https://news.google.com/rss/articles/CBMid0FVX3lxTE1oVm5iRlZDTGpPQUF3TEd2c1NaM2FuZzlQdVZsS1lWMnlyMWVHZWVZRDJvSl9HNXdEdldJcTd2MXV2ZUZRSExXMWRRekREUXRsSEpTYk04eE5nS0MybUZWRjZZODhNejRzY29GeHBYOVE2UWYtcnhj?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-05-11 09:20
+- 链接: <https://news.google.com/rss/articles/CBMipgFBVV95cUxOd2JTbmtXNi1vWmtHRFAwdXE1aC1xZUZaLWNWTi1mSnN1THZTX3g4YXlDOTlRell0R3R5VU5EV1pvVkJtekR6YWRFeWlPWUhwanBCbVIwWlNaSzdOQXlYVTNEQ3kyb0FYQzVGR3JEVXctTzh0NWlJVnF5TzFRYnpLSnA0OFhDNE5XOU9wYmhMNmlTM18zVHlnVnhaVnVzT05CVUxHcU1n?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-11 10:33  (16 条)
+
+- **周杰伦** | 周杰伦日本演唱会唱《搁浅》，弯腰蓄力青筋暴起，我们的青春老了 <https://k.sina.com.cn/article_7481409689_m1bded40990010256lw.html>
+- **特朗普** | 新华社消息丨外交部介绍美国总统特朗普访华安排和中方期待 <https://news.google.com/rss/articles/CBMid0FVX3lxTE1WOUNQN25QYUl4bTVYanZVQV9hRFpGOGNFR2FRcnowYlNNSjFsQjFiWFByeEQzbmRSbTlhQVRKQ3JsaklXZU94YUNhZ3lwZnVkN2NiZnlGQzBKRzZucUdtbkdqM2Q4S0stcDN4U09vYXZDdFRCekFF?oc=5>
+- **特朗普** | 特朗普访华在即 传下榻酒店外警车聚集 <https://news.google.com/rss/articles/CBMirAJBVV95cUxNbHFyLWhIM0VrUlhSZkJGM09FZkdDQUhzb1FxUlBndzlDRGRDb1FaMjVPQkpkcU9NNWszX2cwc0JYVGxPSDRHY3NuQzd4WnphckwzSV9qMi1rZ1E4QnlsNE5wdGJEZnpKVWRKUzlwNDhLWmpEVHF1SW44QmxZcVgwbjVra3ZvRlFIN2g3Y1l6NU9FYkMwNGV4ckUxVElvQVV3TnI5VTU1cWY1d291Sy1sNy1Iak91c2pmUU5CMFEwQ1d2WTlyU2dCblk5OEtlTkUzajlXRmxwdkdUYlhXSTRJNy0xZTlYVFNRTTJDYVBMWE95djJKR0FoTjVIRUl2aHZCQkdsSmtEVVppUS1jdGdYbm96bzVxX200bWljNjRSQ0REa1dRdXJyMEFSTkg?oc=5>
+- **特朗普** | 特朗普：伊朗的回应“完全不可接受” <https://news.google.com/rss/articles/CBMiYEFVX3lxTE83UmhWMnh5Yy1XWnFFNnVhbXZ2bHJDN19VTjdscDJBYUZqN1lzdHBCbGtyVTgyWDN4VFJXdlBXUUVpUUNDdGpTUngwbzlMZEtJYTRTVFdYY2tDakxyUjF2TQ?oc=5>
+- **特朗普** | 特朗普指责伊朗“拖延、戏弄”美国 <https://news.google.com/rss/articles/CBMif0FVX3lxTFBpWnhMRHRLem1ieE9iTFhtdkprSlRoT000OEpHRW9keXRGNC1SUkR6ZzhaZEJ1UW1JcHNmLXByWm1qRlFrVFNBZ3dlRnJDekxYTXlLaVVObVRoRl9vNGk0QUlSUWNMVlR3YVdlMHlVSi1tUm5kdG1kaFliWHJRYlE?oc=5>
+- **特朗普** | 两岸圆桌派｜盛九元、唐湘龙：被伊朗羞辱的特朗普，急需来中国“冲喜” <https://news.google.com/rss/articles/CBMibEFVX3lxTE1xdTZQRkJJQW1CZktRVVVlNEsydHFMNWhWcFhrcjg2ZjI2S2V1NXh1RUs4UGtHY19QX3JJSTUwdVhBTmdJUTlLdndScUpmNGhQLVVmc0p5VDc5eFlieEVUOEl0QmdKX1R2R2JBNw?oc=5>
+- **特朗普** | 美国民主党人泼冷水：特朗普这回访华，硬气不起来 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9tanN4dm4zdDd6NEVFcDhBWktoVnk4Q3hUMkdnY1hnWkVKSkhCekpoWWFCaTZfWDAtNzE2ZC1VZVNZYW9BNmE4U0RGcEE?oc=5>
+- **特朗普** | 特朗普金卡翻车：8万目标338申请，律师警告别上当 <https://news.google.com/rss/articles/CBMidkFVX3lxTE9IeXY2X181dUczdFMwaDNJM2ZpMUxuMGtnZ0k1LWhLeGZ2MmVrQVVSS0RyRzJtMWpxTDZnVWZNQ1VWbjdubjRHVnQxU0hseHdnanJRMnk0Y0xiemVPZVg2S2ZrTldMNUxKbDEzMmNvQ1NPZzJUc1E?oc=5>
+- **特朗普** | 伊朗拒绝美国停战方案 特朗普称“完全不可接受” <https://news.google.com/rss/articles/CBMia0FVX3lxTE5qSVJvNmVLbWJzelI4Qi11eldieXJZS0NwV0dYU25ZRWVtTllSMXJ6Mm04VmtJcmtFU3l0NGk5bjNxLTZqN3phRVlDZGpsRzZydUx6b1FWTXp2ZGFTWkotRHA2M2xJV01zQjhN?oc=5>
+- **特朗普** | 美业界与两党议员紧急劝阻特朗普：勿对中国开放汽车市场！ <https://news.google.com/rss/articles/CBMiXEFVX3lxTE8yajl4c2drdGRBWEl3eWdmNG1KYXdDNmNmYU5zQmhCU0lVM0NtQVZjcEJtMmF2WDRjMFNDcENJNENNM09UTkN5REVSOWtxYXBibWprQzN2bTlmcE15?oc=5>
+- **特朗普** | 美媒：北京邀随特朗普访华美企与中国领导人会谈 被美拒绝 <https://news.google.com/rss/articles/CBMiakFVX3lxTE9sWmNfWXBjR0p1Nmk2T19OVEI5VTRySkF5Mk1nbUZCQTluMU1vMzVjQ1NMX3ZpNGQxUGZOSFhKQlUyTzFBUV90M0MyR0J4dU95aXJoX1M4a05saFdlWWtvQmJOQ0lmeUd4b0E?oc=5>
+- **特朗普** | 特朗普访华前瞻：贸易、科技、台湾和伊朗四大焦点，美中各自希望得到什么 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9iN2F1MzQzNFFIM2VOX0VSYVd0RFdGdWlnTl9QOUJ6TEVsTXQxMHNycUNlN2w0S3lQU0dqa0pBQUFRbmR6UUZoMHZ6eHBHRU9yQnBoX2NoZWxTMGExV1F2MDJ0WFk2d9IBa0FVX3lxTFB0QkxRT3ZZcF9ua0ZhYlFIZUdicW5qM2p4YVU3MVhxckNyamNiTzMwWm8ySEFwWlRFcGhvT2thRjJjclFjUFo4R3ZheG1rd0FIaFlBdUM1cEFlX2hVTk1ZQ1loNU9NT1lFTU5F?oc=5>
+- **特朗普** | 全球前瞻｜美国总统特朗普本周访华，中美将在韩国举行经贸磋商 <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBSUWpiQzRjTjlqMVhXVjMwQUdtVWR4bVUwLWUtTXk3c0hnRk56Vmg1RHVqRm9xdnh6bHdJTUtNT3ZUR1Vpb3dXRkJqRkVkOUlnUG5rRWFTdkszdXJBeTVMVQ?oc=5>
+- **Trump** | Arkham：TRUMP 代币团队转移 1209 万美元 TRUMP <https://news.google.com/rss/articles/CBMihwFBVV95cUxOSVRhNnd0RXNlRERaVWt5T1diUkVSZnhyLXJWWS1yLTBmRHBEdXhsUjctU2lVczhjc3M5eGY5c3pEcm84TVI3S2tBNUlpY1RPNzMwdnFqcUJQYVJTQ2tGRHFUUFNZaGJYaFZuZXZQUWp2YWc5UXRoUFhkWDI5RjVSUFdfNklSSk0?oc=5>
+- **Trump** | 油价在特朗普否决伊朗对美国和平提议的回应后跳升 <https://news.google.com/rss/articles/CBMib0FVX3lxTE9aYUEzQTlXTUFyLVBaSXMtbnNJY2lTbXVtdW5LMVJGMy1LU29CY05qZzdPVDB2NHNOWUhsQVNFdlBoX2s2dThZbkw1MlZuMXduMmYzU0JlSzJCUEhjOFNvbnY0VW11MExaTEJUbGw1Zw?oc=5>
+- **Trump** | 在特朗普驳回伊朗对美国和平提议的回应后，油价上涨。 <https://news.google.com/rss/articles/CBMipgFBVV95cUxOd2JTbmtXNi1vWmtHRFAwdXE1aC1xZUZaLWNWTi1mSnN1THZTX3g4YXlDOTlRell0R3R5VU5EV1pvVkJtekR6YWRFeWlPWUhwanBCbVIwWlNaSzdOQXlYVTNEQ3kyb0FYQzVGR3JEVXctTzh0NWlJVnF5TzFRYnpLSnA0OFhDNE5XOU9wYmhMNmlTM18zVHlnVnhaVnVzT05CVUxHcU1n?oc=5>
 
 ### 2026-05-11 06:34  (14 条)
 
