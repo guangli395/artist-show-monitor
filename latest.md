@@ -1,32 +1,82 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-11 20:15**
-- 本轮扫到 796 条, 新增 **2** 条
+- 最近更新: **2026-05-11 21:48**
+- 本轮扫到 803 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (7 条)
 
-### US 纽约时报-0.50%
+### 特朗普：我们需要更多关税。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-11 19:20
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBKdzY5Q0FYQ19SUmx3NHJMUmdTTHJXZFBWbFBkUUhkcU5lcGhUMXRCd0hLZlVvM0lLd2xtVUlmakZkYnNhNGVMTHFMOA?oc=5>
+- 时间: 2026-05-11 20:21
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBPUTNjdDhua3hCRHpWcTdkcG52UktBSE12UGRNVUpDZDhLQ2RKcE9rdXdmTk1BNV83SkNNLUdiMEFNSTIwdjlZQW5adw?oc=5>
 
-### 特习峰会谈什么？(3) 伊朗：美中几度交锋，但更广泛的双边关系不会因其被破坏
+### 特朗普希望暂停征收燃油税
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-05-11 20:42
+- 链接: <https://news.google.com/rss/articles/CBMi7wFBVV95cUxQSnhrQlVUa3k2dXJUd1NqMDc3anlvYW9GSUFvQzcySGc1VWtlY2laRUFnTlIwcDY4a21lTG51aHhFS05uZnV0cDZXVkRCUnZJOUIyNmRiVUR2LThNLWJrQWhwM1pDUllsNk5JaTI5U3NZVllNcTQ5S21manVxZzk2Tm9MSTAzZUloal9BRXo5WVg5LWYwNmVTSXJoWl9OSks3ZzI0ZWRzNGp4alpiaTcxeXh6ZFk3d0xscFVKU2dnZ3YtYjllSG5MTGd4WldHNGEwMk0tTGF0aWNTSGJ5RlhUQ2FtbHVYdUhPc0pDaUE0cw?oc=5>
+
+### 伊朗拒绝美国停战方案 特朗普称“完全不可接受”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-05-11 03:27
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9tVDdQcFpjdXM0ZFpBbEplbVEzN0R3Z0stUTdCdDZOMEZsOGtKc3BFeGlUaS1XaWRWUElDNFRKMDktcERRRk5ENnV5b2RuNFpuQm8ydkVZOW93NlE0MFRaRlB0NnUxQWpQekJjLWxpSDU4UHpNRk1iSkVuQks0Wkk?oc=5>
+
+### 特朗普重申，伊朗战争后物价将“暴跌”。
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-11 20:20
+- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE5UQXpmcUZMRFZvVW1zR19jbzRFcjFUdUJHTXNNVnpfSjktek5pSlVZeHhKVFNkNEJwLVhNTUMxTlJKNzlDVzZod29TWFljem8?oc=5>
+
+### 中美将举行新一轮经贸磋商；特朗普称伊朗的回应“完全不可接受”｜21早新闻-腾讯新闻
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: xw.qq.com
+- 时间: 2026-05-10 23:14
+- 链接: <https://news.google.com/rss/articles/CBMiV0FVX3lxTFA3ZzZaUnpwLVFiRnotWUtYck5CUm8xQm5WQVlGenRNMUhvVEVCVTluRlZqaGpXVlJ4alVaNFM4WFEyLWU4Q1YtcEIwc1diM0h4aDB6UjV4SQ?oc=5>
+
+### 美国汽车业和议员敦促特朗普勿向中国汽车开放市场
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-05-11 08:45
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE01ZUJ2d0lmU0VaaXpJMTJMcU4tSkRQMG51bTJHLWJBUVV3VE1lb2x1WkNudnhJam5pa053S05BQnQ4WGt3eGs2TUFtQnlSTWZ1c3ZHdlhhbFR1STAtM0ktd2VUWVlRUQ?oc=5>
+
+### 特朗普：将与习近平讨论美国对台军售；美两党参议员敦促总统在峰会前推进140亿美元对台军售案
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 美国之音
-- 时间: 2026-05-11 18:13
-- 链接: <https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSFUxRWE3R1Y4RnNseEt3dHA0eWVoZWUxNFdfaGQ2UTMyVmYtam91OXA2a2V4U044VEtVMUt0d3g3UEN6NTNjeXlKWjgtcUU5QVN5a2hkTFBvS1U2YkRTMUlrY2Ftb2hUMWhkOW9VZl9fWE1pb0VILXl6SGpINnkycXNuaTF2Z0RUZ0RwekJNV0htMmJtUkdSMUZFc3VMdG05a2VyMjZPUmM1S0xsUVZTMnJPczZnUHM3WWFaTzVlRUlIRGhfd1hCVWVTQXZ0enNlRDFr0gHWAUFVX3lxTE1PTzA0WEtsZ0JYVFl5eWQtOUh5aVU5Ry1RX2RwWUZSV3NaNHkwT3RwMVNCOVZjanduUzk2RXYxTFFNZnhwYmxuZWZhTnJHbmlTOVBpZnFIaFFyZ0NvM0VkcjhvVTlyeE1lcVBDRk5DZy1FNzVEQXEzN095c1lzS1dqNllQN1BMbUV3YV9kZHVtVzFNcTF4VUJ2RGo4MDlOcTQwZ3Y5UFk4anVFOEtEbV9PSWlkaWxSS3p6VVEwUU1DSUR5S3BJeENxaFJNUUF0c29wbndCUmc?oc=5>
+- 时间: 2026-05-11 19:35
+- 链接: <https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYUtDX1pyZHZMcUJWcVdnaU1VYmZTdU1FOEIxWWVoTHN0ZnIwRVNZREhjSURVcjBobWhxQjM1RjYzVHFTTE50LUxrWkxGYk5sRFRpaGcydVBTS2hjSVphZkxSakhneGhfa1pSdVFyWDFORlFZWFVQU1ZPY1A4NzZXQ09Jb3pYZ1BvbGpINTlyRzBubTBJOU5ReHhLT1F5cENPZXMzamN1S0xaRWdZcGlJU3JSc0RuUy1NS3lZM2lNeUZXS2lMbUo3bUUyVzNFTE0wcTVaZkJXLUtidjjSAd4BQVVfeXFMTkkyNFZfa0pjdFI2R08tOXNfSWpuUGN3U1o0M0JRWFp3UXRHUXdTM1ZQenNoMVJ2WkRtU0hZT0czbEtuVFk2UzJ4Tk9JTEpuV0RRVW03SnVMOHlyTi1pN1J1emdhTG5UejFITGJyLUw2c3RLN3BQWU05RGR1OWZWRHU0RFhzbjZicWF4TF9OTV9xdzlDOWxzMzMtMFBTaUw0OG5sSWZXWDV2VnNJNlhzd1N0WVAtWWF3SWkzMUlKSFJPdC1hWjZpd3BISDZjZ2FtWm9vdTVYLXlRR19KYUl3?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-11 21:48  (7 条)
+
+- **特朗普** | 特朗普：我们需要更多关税。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBPUTNjdDhua3hCRHpWcTdkcG52UktBSE12UGRNVUpDZDhLQ2RKcE9rdXdmTk1BNV83SkNNLUdiMEFNSTIwdjlZQW5adw?oc=5>
+- **特朗普** | 特朗普希望暂停征收燃油税 <https://news.google.com/rss/articles/CBMi7wFBVV95cUxQSnhrQlVUa3k2dXJUd1NqMDc3anlvYW9GSUFvQzcySGc1VWtlY2laRUFnTlIwcDY4a21lTG51aHhFS05uZnV0cDZXVkRCUnZJOUIyNmRiVUR2LThNLWJrQWhwM1pDUllsNk5JaTI5U3NZVllNcTQ5S21manVxZzk2Tm9MSTAzZUloal9BRXo5WVg5LWYwNmVTSXJoWl9OSks3ZzI0ZWRzNGp4alpiaTcxeXh6ZFk3d0xscFVKU2dnZ3YtYjllSG5MTGd4WldHNGEwMk0tTGF0aWNTSGJ5RlhUQ2FtbHVYdUhPc0pDaUE0cw?oc=5>
+- **特朗普** | 伊朗拒绝美国停战方案 特朗普称“完全不可接受” <https://news.google.com/rss/articles/CBMif0FVX3lxTE9tVDdQcFpjdXM0ZFpBbEplbVEzN0R3Z0stUTdCdDZOMEZsOGtKc3BFeGlUaS1XaWRWUElDNFRKMDktcERRRk5ENnV5b2RuNFpuQm8ydkVZOW93NlE0MFRaRlB0NnUxQWpQekJjLWxpSDU4UHpNRk1iSkVuQks0Wkk?oc=5>
+- **特朗普** | 特朗普重申，伊朗战争后物价将“暴跌”。 <https://news.google.com/rss/articles/CBMiT0FVX3lxTE5UQXpmcUZMRFZvVW1zR19jbzRFcjFUdUJHTXNNVnpfSjktek5pSlVZeHhKVFNkNEJwLVhNTUMxTlJKNzlDVzZod29TWFljem8?oc=5>
+- **特朗普** | 中美将举行新一轮经贸磋商；特朗普称伊朗的回应“完全不可接受”｜21早新闻-腾讯新闻 <https://news.google.com/rss/articles/CBMiV0FVX3lxTFA3ZzZaUnpwLVFiRnotWUtYck5CUm8xQm5WQVlGenRNMUhvVEVCVTluRlZqaGpXVlJ4alVaNFM4WFEyLWU4Q1YtcEIwc1diM0h4aDB6UjV4SQ?oc=5>
+- **特朗普** | 美国汽车业和议员敦促特朗普勿向中国汽车开放市场 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE01ZUJ2d0lmU0VaaXpJMTJMcU4tSkRQMG51bTJHLWJBUVV3VE1lb2x1WkNudnhJam5pa053S05BQnQ4WGt3eGs2TUFtQnlSTWZ1c3ZHdlhhbFR1STAtM0ktd2VUWVlRUQ?oc=5>
+- **特朗普** | 特朗普：将与习近平讨论美国对台军售；美两党参议员敦促总统在峰会前推进140亿美元对台军售案 <https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYUtDX1pyZHZMcUJWcVdnaU1VYmZTdU1FOEIxWWVoTHN0ZnIwRVNZREhjSURVcjBobWhxQjM1RjYzVHFTTE50LUxrWkxGYk5sRFRpaGcydVBTS2hjSVphZkxSakhneGhfa1pSdVFyWDFORlFZWFVQU1ZPY1A4NzZXQ09Jb3pYZ1BvbGpINTlyRzBubTBJOU5ReHhLT1F5cENPZXMzamN1S0xaRWdZcGlJU3JSc0RuUy1NS3lZM2lNeUZXS2lMbUo3bUUyVzNFTE0wcTVaZkJXLUtidjjSAd4BQVVfeXFMTkkyNFZfa0pjdFI2R08tOXNfSWpuUGN3U1o0M0JRWFp3UXRHUXdTM1ZQenNoMVJ2WkRtU0hZT0czbEtuVFk2UzJ4Tk9JTEpuV0RRVW03SnVMOHlyTi1pN1J1emdhTG5UejFITGJyLUw2c3RLN3BQWU05RGR1OWZWRHU0RFhzbjZicWF4TF9OTV9xdzlDOWxzMzMtMFBTaUw0OG5sSWZXWDV2VnNJNlhzd1N0WVAtWWF3SWkzMUlKSFJPdC1hWjZpd3BISDZjZ2FtWm9vdTVYLXlRR19KYUl3?oc=5>
 
 ### 2026-05-11 20:15  (2 条)
 
