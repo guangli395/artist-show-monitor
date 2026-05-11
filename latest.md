@@ -1,88 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-11 18:17**
-- 本轮扫到 794 条, 新增 **9** 条
+- 最近更新: **2026-05-11 20:15**
+- 本轮扫到 796 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (9 条)
+## 本轮新发现 (2 条)
 
-### 特朗普最快今日或将签署人工智能安全相关行政令
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-11 17:38
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9YWHdncWZGanJoaG9Jb1B6NkFUb2k4cUFGSWNTTklBalVEbjYyUDVXcER3SUk5eVpnWWZSWUFScno2SjV1Ul9NcXJiYw?oc=5>
-
-### 特朗普：完全不可接受
+### US 纽约时报-0.50%
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-11 16:45
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1VOVBvZGJCZFloNm9WSHZoOXlLZ21LakNKVkJ6dzN5eDh6S19pVUNVREJfUFdtcFA3WmpkUmhrN2Vjeml4TDVocnBEb0ItZWxhR0lnaDROcnktaWRaak5qNS1feXVicVZsdG9WQzEzVG1DV09tZTk0RQ?oc=5>
+- 时间: 2026-05-11 19:20
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBKdzY5Q0FYQ19SUmx3NHJMUmdTTHJXZFBWbFBkUUhkcU5lcGhUMXRCd0hLZlVvM0lLd2xtVUlmakZkYnNhNGVMTHFMOA?oc=5>
 
-### 特朗普即将率团访华，马斯克在受邀企业家名单
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 车家号
-- 时间: 2026-05-11 16:26
-- 链接: <https://news.google.com/rss/articles/CBMiW0FVX3lxTFAyamJsVW5WSVdTVVRla3lTNjc2SDlDdnZSS3FMOGhHd2NRYVFySnVVS1dUenRod0pjUmlMUVFRNkRVR2RqSGtycXFfZUI5UkpiV3pvTEExdUFjR1k?oc=5>
-
-### 特朗普：我们与中国的关系非常好。
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-11 15:55
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBDb2l2UzByYXlhQ3hGX3JqRS1IeUU0VkdhZ0UxckNXQW95ZFFBZ2lGMG9IblFpMkFwU205Y2x2V3JmX2tFN2NYZzFBTQ?oc=5>
-
-### 美国会否改口“反对”台独？特朗普访华前夕台湾陷“菜单焦虑”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-05-11 13:18
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9jMEJIcnFJMlQ3ZGM2WkJVYmVvYWxrRlZzWGNCZUhkX21fZ3Bmd0t5QkEwRlRoMUZsYThaczdQWTFBTkt3dDFTNFc1cjZTb0d2ZUZUVFZDVk5XRUM5V2ktYXlRWTNid9IBa0FVX3lxTFAzdmtiTmNUcDN3VmtNWXRSdHRYNnh5Nkw3VWlKYWZxSDlfaXhJV0FLZ3BqU1pPT1k4UVBKY3lFZjd4eWR4dEpVUjFhNDl6WXVObWV3RzdUeDF6aFU5QllpOGpMNm10ZEtBbU1Z?oc=5>
-
-### 时隔九年再访华，“特朗普吸取一个重要教训”-观察者网
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: guancha.cn
-- 时间: 2026-05-11 11:42
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1CdjBfWTJmZkNfZi1XdUtFLU9OTld0VTl4aHluQmVESkpjd2x1NlhHQS0tV3BFOExRdVBRVERzOU5VakFFVEZZekRwZDhhUXVGY3pjYkt5TU9hREQ4Wnc4Yml6WEd1WkJwdHc?oc=5>
-
-### 特朗普总统本周访华，将与习近平就双边关系和世界和平议题进行“深入”交流
+### 特习峰会谈什么？(3) 伊朗：美中几度交锋，但更广泛的双边关系不会因其被破坏
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 美国之音
-- 时间: 2026-05-11 16:35
-- 链接: <https://news.google.com/rss/articles/CBMigwJBVV95cUxOcXk2VVlpeG9LSnl4SHJNb3BmZlRsN3VtY0NRTGNsMl9ZVC15b1NXbHJ5QkVlbjh3V3dFZU5BQWgxZlAtTHllTUdPdDN3T1hhNUJyTEdZaEFKY1NQNUlHRHdtcWd4b0FCUGRiaDFGa1ZBV2NydHU3TW0wbk5COTZ1a3dab1lBUWFzR3VIaTRBMGlJYUNqLTYtMmQyLXJNWUFEeXZlVEFER2dyc0RERm10UHg4ODJkOEticFZQMWE3dzZhdzZBdXFBTHRKeXZSeU00ZGh6U185OEhHT0VGQ0Izd2lWSkdkQllvVHNndnQ4LVN0a1lwOE9scDZ6NFdWR0J4bWY40gGGAkFVX3lxTE1YVnRSX1VNdy1XWUZ0S1ZUZnB5X05DY1czMzZMb1kzRkRXMkk1eE9pVmpNNDZhaGhRWEZtaTd0UjF3ZXlOdTBnNng2RTA5d3N1UDg2V3hweUZpRkRFZDd0SGpVSjVIMUNHNE1lWElobTJhOXNDM1ZrVmc1bk1tb1U4TmFqeEUyTjctMzFUY1FHUHRqNG03aXlwblN3RzktczVSSkVvTXZMSmFnelJ1Tm5UQW5pOFp0azl5Q1YzTUR1XzNkRGVNZnpnUWZuakU4bEdiUG55SGZQcXZkVHlReFFTS2NyLWRtbFU1VkxEV094SEhNWXdSQzdZSGFnVHFOc1NQOHZrb0E?oc=5>
-
-### “跟着川普”精准投资 2子掌握财富密码赚大钱
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 万维读者网
-- 时间: 2026-05-10 04:23
-- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE5mXzd0aFNzSExHN1FIakE1QVdMM3l4OV9GWnA3Sk82UEJqY1VXMVJxNkNzTVgyTGpab1dZLVY1OEpINUVxOExGSHNPSGR2RFpPRFJKMVVzLWx3RlBSUktNc053?oc=5>
-
-### 油价上升因特朗普拒绝伊朗反建议加剧供应不确定性财经新闻Financial News
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: AASTOCKS.com
-- 时间: 2026-05-11 15:37
-- 链接: <https://news.google.com/rss/articles/CBMihgFBVV95cUxPRXFiaWd6VjFKYU1iNy1fRTMyZ2x3bzdwYVo4blBXa0VXWnhvSm1LN3lxSTZVb2c3Qk93dzlPbmlPZDVHa3pIWEJyUV9ZcEtDRjE5VklwX08tbkExY2YzZXZoZ2FMYnVWbTlXZGFzUFdWcnhhTGJsUnhTU2RWaWVsWU1qR0lEdw?oc=5>
+- 时间: 2026-05-11 18:13
+- 链接: <https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSFUxRWE3R1Y4RnNseEt3dHA0eWVoZWUxNFdfaGQ2UTMyVmYtam91OXA2a2V4U044VEtVMUt0d3g3UEN6NTNjeXlKWjgtcUU5QVN5a2hkTFBvS1U2YkRTMUlrY2Ftb2hUMWhkOW9VZl9fWE1pb0VILXl6SGpINnkycXNuaTF2Z0RUZ0RwekJNV0htMmJtUkdSMUZFc3VMdG05a2VyMjZPUmM1S0xsUVZTMnJPczZnUHM3WWFaTzVlRUlIRGhfd1hCVWVTQXZ0enNlRDFr0gHWAUFVX3lxTE1PTzA0WEtsZ0JYVFl5eWQtOUh5aVU5Ry1RX2RwWUZSV3NaNHkwT3RwMVNCOVZjanduUzk2RXYxTFFNZnhwYmxuZWZhTnJHbmlTOVBpZnFIaFFyZ0NvM0VkcjhvVTlyeE1lcVBDRk5DZy1FNzVEQXEzN095c1lzS1dqNllQN1BMbUV3YV9kZHVtVzFNcTF4VUJ2RGo4MDlOcTQwZ3Y5UFk4anVFOEtEbV9PSWlkaWxSS3p6VVEwUU1DSUR5S3BJeENxaFJNUUF0c29wbndCUmc?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-11 20:15  (2 条)
+
+- **特朗普** | US 纽约时报-0.50% <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBKdzY5Q0FYQ19SUmx3NHJMUmdTTHJXZFBWbFBkUUhkcU5lcGhUMXRCd0hLZlVvM0lLd2xtVUlmakZkYnNhNGVMTHFMOA?oc=5>
+- **特朗普** | 特习峰会谈什么？(3) 伊朗：美中几度交锋，但更广泛的双边关系不会因其被破坏 <https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSFUxRWE3R1Y4RnNseEt3dHA0eWVoZWUxNFdfaGQ2UTMyVmYtam91OXA2a2V4U044VEtVMUt0d3g3UEN6NTNjeXlKWjgtcUU5QVN5a2hkTFBvS1U2YkRTMUlrY2Ftb2hUMWhkOW9VZl9fWE1pb0VILXl6SGpINnkycXNuaTF2Z0RUZ0RwekJNV0htMmJtUkdSMUZFc3VMdG05a2VyMjZPUmM1S0xsUVZTMnJPczZnUHM3WWFaTzVlRUlIRGhfd1hCVWVTQXZ0enNlRDFr0gHWAUFVX3lxTE1PTzA0WEtsZ0JYVFl5eWQtOUh5aVU5Ry1RX2RwWUZSV3NaNHkwT3RwMVNCOVZjanduUzk2RXYxTFFNZnhwYmxuZWZhTnJHbmlTOVBpZnFIaFFyZ0NvM0VkcjhvVTlyeE1lcVBDRk5DZy1FNzVEQXEzN095c1lzS1dqNllQN1BMbUV3YV9kZHVtVzFNcTF4VUJ2RGo4MDlOcTQwZ3Y5UFk4anVFOEtEbV9PSWlkaWxSS3p6VVEwUU1DSUR5S3BJeENxaFJNUUF0c29wbndCUmc?oc=5>
 
 ### 2026-05-11 18:17  (9 条)
 
