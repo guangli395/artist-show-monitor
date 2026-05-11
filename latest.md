@@ -1,29 +1,81 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-11 13:43**
-- 本轮扫到 770 条, 新增 **12** 条
+- 最近更新: **2026-05-11 16:28**
+- 本轮扫到 785 条, 新增 **15** 条
 
 ---
 
-## 本轮新发现 (12 条)
+## 本轮新发现 (15 条)
 
-### 蔡徐坤在TikTok总部的直播里透露了哪些关于《An Evening with KUN》巡演的具体计划？
+### 暖心！龙湾为周杰伦粉丝提供演唱会专属日租房
 
-- 艺人/关键词: **蔡徐坤**
+- 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801k5tw.html>
+- 链接: <https://finance.sina.com.cn/wm/2026-05-11/doc-inhxptre2190043.shtml>
 
-### 蔡徐坤在直播中提到的全新专辑《KUN》的实体版和黑胶版本预计何时发售？
+### 美国总统特朗普表示，将暂时取消汽油税。
 
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801k5tk.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-11 14:54
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBtc0tYR1N2ODVvMk90TFQ3OFZka0p3UjV3UEhTQXpIZXAwcDFZUlhJdWtIR2xEOFRFUWN3Ui01WnJuSC1yUzZHWFpnUQ?oc=5>
 
-### 蔡徐坤在W艺术晚高峰访谈中是如何阐述新专辑《KUN》的复古核心理念的？
+### 特朗普：与伊朗停火协议已“岌岌可危”
 
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801k5tm.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-05-11 16:22
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5IWE5sNDZBMlMxZy1UVV9GQXBMVFJ4b3V6V0QyWVQ5eVlxNkZXVGVhdzB2ZExMTVZhWDBORnE2U3R6NHV0NTVjdm5fcVZXRGlHNHN2djc5ejhLWDFYWEo2aDhPR2RKcGZzNXUta1lSRTE?oc=5>
+
+### 特朗普总统拒绝伊朗提出的结束中东冲突的最新提议
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-05-11 15:24
+- 链接: <https://news.google.com/rss/articles/CBMixgFBVV95cUxPZnp6WTctYXFRYkVmekdpemxmVFhLdGZkU2RtZkhoQjg5cnNfUjdJV2tQRjhEVms2azRURXl6eTM2X0NtYmxIME5JLXJ1R2xZMnM0d0xQWUMycHF1NlVadU10eGp1ZDFtQ2M5RlBDVFZSeGhtYkllQkJ0YjJJaHpJN0NIbDl5QUd2OVoyNHNxQUdDSFN5bHYtMk5wcG9kQ3VjYlZMSUhlS0xGaFdyTUdmRDV0dm5rQndLeU8wZjBFeEdpWVM3M2fSAcgBQVVfeXFMTlRTX2l3UFZqdURMbTltS2daY1JpeXNLUVF6TGxkdHc1VjEyR0oxMkJRUFpLME9UYkt4Mk5PRkZuZXk1YjFJQTcyaWZPWXY4ajM5U1EtWTVLaWVwVmV2RC1YeXQ1cFlkNTBVeGRWd3p0TlJ3bEt6djVxUUthbmR6ektvcmUxdkJIb3FTcHVCRXNkMnJBU09HMzE1MjlGYVVTSnlfZnhwdDVKOVg2RjNWX1I2clNHYXNFSTlVZ1loUWN3dXVYc19ockc?oc=5>
+
+### 全球关税被裁定违法，特朗普访华前谈判筹码被削弱
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 纽约时报中文网
+- 时间: 2026-05-11 04:20
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTFA4OTlMTHpFd1Jnam5WOXRiS2poQVZ6ek42M29PSDdVT1AxVWlvc3ZzMWRpOWN5QTh3SWQwUUdDNG9vNWViQUJLSmFYSTREdG5FZFBVQUpMT1dXV2JmZUhCSmV2Y2NGbVAwU0VEd2RMa09YOWtJQnc?oc=5>
+
+### 特朗普来华前，两邻国给中国“埋雷” 以色列窜台添乱
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华军事
+- 时间: 2026-05-11 09:36
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFA3S29pU0pua3BNWGM4LVdlY2ZNMXhSQjJTem5BZ3k2cmdYSGdwWjNqWXJMSVUtMVZBY3ZFZWJaWlZsS3pQU1pjbERUOV9CSGI3VUlIc1NCRlB3V0dNZ3BSTmhEWXNtT0xOWXQ1R1ZmWEM?oc=5>
+
+### 特朗普拒绝伊朗和平方案：完全不可接受！-市场参考
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 金十数据
+- 时间: 2026-05-11 05:53
+- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE14UkttbmFvT1FHaGd4Rks2SnBETEFEdVppQkhjYms3RlVjVWlXMFZhRjhnclJlX0ZYS1N5Y3V5ejJCOHlQVGlhaWgxbjJFeVE?oc=5>
+
+### 特朗普：共和党人应该赢得中期选举。
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-11 15:54
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFA3d0lMNVB4cGtKb2RENWpFcWpYd3RLbHJ2TGdWSGVka0JvSmZ2eXE1eDdZLVJ5MWU2QXlxVmVDaTVmdzJxVW1lSjZtQQ?oc=5>
+
+### 特朗普称伊朗强硬派领导人将妥协
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-11 15:07
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9HSm9acHlvcUJKdkRJbDc0SWhaTUU2QnJXZlkydjJDY2labEFfTUl2Y3k5ZkRza1cyRVZzRHR3enA3M21QZ3BQb1VJRQ?oc=5>
 
 ### 外交部介绍美国总统特朗普访华安排和中方期待
 
@@ -31,76 +83,70 @@
 - 来源: `googlenews`
 - 场馆: 新华网
 - 时间: 2026-05-11 08:54
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZNEp0c1h3YmxrTHFvdUpKbXl6WG9xa1NpQzhCb1piNTVodE1GM0lWQTJycmZVSjJWc3VfNkszQ1J0aEN4RWxUUEwtaHNzdWpiTzVBSXpqS1BvWTBuQ21EUWFFZXRYakQ5THM4TkdCUzlzUU9pSU14aGNaVmlmVnc?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMid0FVX3lxTE9wa2l2aDBDSUZBMkwzc2Fvd19BLW1HNVZUbi0tUmxXaWhXUDdXcjZEME82dnA4Z0Ixd0hWUHJyZjZTQUtWY3BrSE96Wktmd3EtalUzdnVMM3R6Yy13YWlNQk9nSWlyVkNVMXBuYzg3RC1MbDJwVlZV?oc=5>
 
-### 杨德龙：特朗普访华释放积极信号 节后大盘展开新一轮上涨行情
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-11 12:13
-- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTE0zR3A3eDJBeWhTSHpUVnJ2Q1NGQTRQOEFPT2RLS0RVUHpSUWlVbXBSLWg4Vm9rSjBDcm1sR3plMTlLZmhETE1IYjUzeEFXWXdaOWpIYnJlUHVfazUzSVFGVzB0anhwRWVmeDRHWGxB?oc=5>
-
-### 开盘：美股周一小幅低开 特朗普拒绝伊朗提议后油价攀升
+### 美国总统特朗普将对中国进行国事访问
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-11 13:41
-- 链接: <https://news.google.com/rss/articles/CBMi_wFBVV95cUxQNU9Pb2wzVDlmaUdFTWhvSmxWWHp1ZVdSUVdra3dNLUVSa2J2M1Qwb19FdjRWY3JtVWhIckd3dnBCYU9qUmF3R1lLWHVUekJpN0Y2WjNybnBBS1g4cmpNOWw4VVhhdGkzQXZTM1dFbnRvUndmb1ZBcUZaWllxQ2xBTVVVZEEzcFpEOUtPMHU1TldhTFdDR0thWjhHcTUwWkRRS3JvaXM5RUl6S1ZNc3FwVFd6TkdfeVZ3cWFuNmN5aW8xSl9zLUZDQnQ3VDZ3QnRrOGU3LW05THhGRm0xdmdtZnBxMFlqVUJiZ3lUNzlXSFhoVUl6QWhDd2xOUWpjRlk?oc=5>
+- 场馆: 求是
+- 时间: 2026-05-11 02:15
+- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE14azItNUduaWYyYnFMU1ppejZ6YkRhVzIzLXgtZU1RbWpuYl8wb1lONjZfRk1wOG53TjNOU01BQTFVZ1FTX3BHQl9jaXVSNndGWlVKcHVwRnpscEM3WEtJdm04bGxQOEhYWGVGbUdNbUxKQ3BGd0xHdzZUT0E?oc=5>
 
-### 释新闻｜特朗普称伊朗提案“完全不可接受”，停火协议出现松动
+### 美国总统特朗普将于5月13日至15日访华
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: thepaper.cn
-- 时间: 2026-05-11 05:53
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9XeFFoX0pxS2JySWVGVWRyeGJGcWdSTGdLbDB6MENRQzJhMlV5NW1KREtndkZQOFQxaElrbUI5QXgwc0tKcTgwcENoUUJfZVA5cDI2TUFFY0tjSmVHXzFGNg?oc=5>
+- 时间: 2026-05-11 01:02
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE43djBjUG4tVmVmNVIweUdOdUY0Y0IyUG1kc1VZNXZKTGNRTlhfM0t3WC1sV3JYTHZPeFJadDVTZ29JV25BY0hVWGxxeUxHcEhMWlpqTERaTHZyTmhSNW5qQg?oc=5>
 
-### 特朗普访华最后关头！74位美议员联名致信：求别让中国车入美
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 驱动之家
-- 时间: 2026-05-11 10:45
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE9mMG1ybHhGYjlKd3pFNkxsckJGeHJKSWVqRlExWjlWajFsTlIwa0JSakFLRFNoeWpodkE3S1BSM3VxbFI3clNCMWoyVmJtOWtIbWpYdF9Fclg?oc=5>
-
-### 疑似大量特朗普访华物资抵京，美特勤局专车现身，专家解读
+### 美国总统特朗普将于5月13日至15日对中国进行国事访问
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: news.qq.com
-- 时间: 2026-05-11 02:45
-- 链接: <https://news.google.com/rss/articles/CBMibEFVX3lxTFBuV1RXdXZxM1Z2Uld3M0tNSHZnZm9fTFd1Ui1Hb2JYbGxnM2Q1XzB5NWhTeU55bm50bWliTFByTDlEUFJCZkRvMGtORzlyLWtnN2U1bXJNeDF3WUxxQU9kSGxoSmNDdkUtMm5seA?oc=5>
+- 场馆: 东方财富
+- 时间: 2026-05-11 04:34
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE00MTlZUmQ2c2w1dnJsLUZ1WHJIVjMyU1lmLW1jZ29CWFBiX3JaSWlZZHFfcUtXN3E5SGZKQVlPTkI2ajM5V01XM3h3ck1LVmJwS0dXZVc4LVhWZGN1bE5LTQ?oc=5>
 
-### 特朗普访华行程披露 北京：双方将就中美关系及世界和平发展交换意见
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-05-11 08:54
-- 链接: <https://news.google.com/rss/articles/CBMiygNBVV95cUxPdkhUa2dfdV9HM2E0bmM3QXVJbnlDVzNJZzByZi1BZFFnUmNsdTdvTmJnU1JRNFc0cFZEeXo5TG4tbzV1Ty1xV0Z0Ry1qT2czR3p2UjZGZFhzX1hidnZtaWZFd04xMGxuNEdGMHN5UzNRaEZWeWNkTlhEaFZzWkY0LTN1RThjeC1zM084aVNfY09BSGpCRXpjcGdDY3c1WTM0R1dVdHRQblk5VlBwX2c0cFQtV1V0QXdHQnBkWE9oNjdjYzZ2eVlPb0JaYjY1UDZsQVpBQ095aDd5a3ZWTWZRTndRekoyeC1CT0haRW01dnc0Z1pQWXN2cEVTRVVBd21DRnQxcWppWWt5aVhBbF9iMl9kSUwtTzdiVUtHQVJIWXQyNVYyTFdFSC1ON1VMRDFBbDFHRUJLak1CVXkzNk13YzZvTjJzeUExYU9HSHY0QnhHRURVSXA4MGpGaFpQZ1dTbnRQWDZQRE5jbFY3RzBNd0hQaTB6WlZpalBKMGxrVkR2bUQ3YVNWRG4zYXRzQ0U5cTdYNF9oUmNxeDdienJSYWdCV2JVemV4MldrajFXY2NFYUc2blBZUGFheFpCUzYwT1dLQThWR1A3dw?oc=5>
-
-### 59万人预订一年未发货，特朗普手机被指“退款无望”-观察者网
+### US President Donald Trump rejects new Iran peace proposal as ‘totally unacceptable’
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: guancha.cn
-- 时间: 2026-05-11 10:45
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFAtdWxqYmtmZ0hvdXU5NmNtVFktdEJzNkNvak1vYkVreTdYUWhKWnNRLUE0aHB2TEJLVjE3SS1kT3hlTjlSTU5EWk9mVHlKWVlnVTVBcC12VzlwN0dqT0xTU1ZDaVJKSW1XTkE?oc=5>
+- 场馆: TMGM
+- 时间: 2026-05-10 23:09
+- 链接: <https://news.google.com/rss/articles/CBMi6wFBVV95cUxNelA2S1VtSDRsczBiQ1NNd1V1QmhtSFFRb016UmpSVllVaGZmS0RieXpYN0hhcFlNbmhBX0dGMGtHZ045b3VJby1TTG5oN1BQd2x1YlRUX2hMYlctOVlDR0VaT2ZPbGVvMzBjbHRnUU9YaFFHTEtvZkEzSzAwY2NHcHItT0VhQXVRX0hnT2ViSGc0ZTloWGZsb2VnbnNlY2pFXzJUTlk2MmJFM251NTVrVUd0dTdBUHVyNnVPenlNckNsbmNhVkVvd0xfNTlaZlpsRVNWT0JCTnhhdGpCRlRuSmlIbE5Vb1VsbUtZ?oc=5>
 
-### 特朗普迷因团队将1700万美元的TRUMP转入Bitgo，分配钱包再度引发关注
+### Arkham：TRUMP 代币团队转移 1209 万美元 TRUMP
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Bitcoin News
-- 时间: 2026-05-11 10:43
-- 链接: <https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMnZmU0dyOEQ2WE0tYWswbDhnYV9JMFQtdGhJV2c1cDhlSlhGWDhNYk9keWpXMnR5M1k1akdtVWh2VVlkWEp5MmtDUnZrNDJwbzMtaWtlOThzVFBzMU1mb0w1cXZGcVVocDRsa2Fod09hY0xKQVRhYmNYdTB2S1IwTzlkLUxzUDAxcFNQcVo0RHl5WHF0VXZuSVh4cGVZVF92cDNGNlhHQ1pIQXlUeWtvcm50M3RBSmtseU9nUkdXa0d3Z0xPT2RqdFg2amxRam85Si1oRlEtOVgtdTA?oc=5>
+- 场馆: 吴说
+- 时间: 2026-05-11 07:25
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ2lLN3ZmXzVoZE5paVY1OV9Ed3I3QXBBUkt3eElxSjhTbGszdER1elNhTVk2R1BOZURNc3ZuT3puY1RMd1l3R2ozejlGOEROZFMzSlRFenIyVG56YkU0ekRfWXZLc3VxSnE2azFsS0IzcUhKTXgtTFZpSkhNTzRwTnBJYTRoQjAzWkd5bA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-11 16:28  (15 条)
+
+- **周杰伦** | 暖心！龙湾为周杰伦粉丝提供演唱会专属日租房 <https://finance.sina.com.cn/wm/2026-05-11/doc-inhxptre2190043.shtml>
+- **特朗普** | 美国总统特朗普表示，将暂时取消汽油税。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBtc0tYR1N2ODVvMk90TFQ3OFZka0p3UjV3UEhTQXpIZXAwcDFZUlhJdWtIR2xEOFRFUWN3Ui01WnJuSC1yUzZHWFpnUQ?oc=5>
+- **特朗普** | 特朗普：与伊朗停火协议已“岌岌可危” <https://news.google.com/rss/articles/CBMicEFVX3lxTE5IWE5sNDZBMlMxZy1UVV9GQXBMVFJ4b3V6V0QyWVQ5eVlxNkZXVGVhdzB2ZExMTVZhWDBORnE2U3R6NHV0NTVjdm5fcVZXRGlHNHN2djc5ejhLWDFYWEo2aDhPR2RKcGZzNXUta1lSRTE?oc=5>
+- **特朗普** | 特朗普总统拒绝伊朗提出的结束中东冲突的最新提议 <https://news.google.com/rss/articles/CBMixgFBVV95cUxPZnp6WTctYXFRYkVmekdpemxmVFhLdGZkU2RtZkhoQjg5cnNfUjdJV2tQRjhEVms2azRURXl6eTM2X0NtYmxIME5JLXJ1R2xZMnM0d0xQWUMycHF1NlVadU10eGp1ZDFtQ2M5RlBDVFZSeGhtYkllQkJ0YjJJaHpJN0NIbDl5QUd2OVoyNHNxQUdDSFN5bHYtMk5wcG9kQ3VjYlZMSUhlS0xGaFdyTUdmRDV0dm5rQndLeU8wZjBFeEdpWVM3M2fSAcgBQVVfeXFMTlRTX2l3UFZqdURMbTltS2daY1JpeXNLUVF6TGxkdHc1VjEyR0oxMkJRUFpLME9UYkt4Mk5PRkZuZXk1YjFJQTcyaWZPWXY4ajM5U1EtWTVLaWVwVmV2RC1YeXQ1cFlkNTBVeGRWd3p0TlJ3bEt6djVxUUthbmR6ektvcmUxdkJIb3FTcHVCRXNkMnJBU09HMzE1MjlGYVVTSnlfZnhwdDVKOVg2RjNWX1I2clNHYXNFSTlVZ1loUWN3dXVYc19ockc?oc=5>
+- **特朗普** | 全球关税被裁定违法，特朗普访华前谈判筹码被削弱 <https://news.google.com/rss/articles/CBMidkFVX3lxTFA4OTlMTHpFd1Jnam5WOXRiS2poQVZ6ek42M29PSDdVT1AxVWlvc3ZzMWRpOWN5QTh3SWQwUUdDNG9vNWViQUJLSmFYSTREdG5FZFBVQUpMT1dXV2JmZUhCSmV2Y2NGbVAwU0VEd2RMa09YOWtJQnc?oc=5>
+- **特朗普** | 特朗普来华前，两邻国给中国“埋雷” 以色列窜台添乱 <https://news.google.com/rss/articles/CBMicEFVX3lxTFA3S29pU0pua3BNWGM4LVdlY2ZNMXhSQjJTem5BZ3k2cmdYSGdwWjNqWXJMSVUtMVZBY3ZFZWJaWlZsS3pQU1pjbERUOV9CSGI3VUlIc1NCRlB3V0dNZ3BSTmhEWXNtT0xOWXQ1R1ZmWEM?oc=5>
+- **特朗普** | 特朗普拒绝伊朗和平方案：完全不可接受！-市场参考 <https://news.google.com/rss/articles/CBMiT0FVX3lxTE14UkttbmFvT1FHaGd4Rks2SnBETEFEdVppQkhjYms3RlVjVWlXMFZhRjhnclJlX0ZYS1N5Y3V5ejJCOHlQVGlhaWgxbjJFeVE?oc=5>
+- **特朗普** | 特朗普：共和党人应该赢得中期选举。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTFA3d0lMNVB4cGtKb2RENWpFcWpYd3RLbHJ2TGdWSGVka0JvSmZ2eXE1eDdZLVJ5MWU2QXlxVmVDaTVmdzJxVW1lSjZtQQ?oc=5>
+- **特朗普** | 特朗普称伊朗强硬派领导人将妥协 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9HSm9acHlvcUJKdkRJbDc0SWhaTUU2QnJXZlkydjJDY2labEFfTUl2Y3k5ZkRza1cyRVZzRHR3enA3M21QZ3BQb1VJRQ?oc=5>
+- **特朗普** | 外交部介绍美国总统特朗普访华安排和中方期待 <https://news.google.com/rss/articles/CBMid0FVX3lxTE9wa2l2aDBDSUZBMkwzc2Fvd19BLW1HNVZUbi0tUmxXaWhXUDdXcjZEME82dnA4Z0Ixd0hWUHJyZjZTQUtWY3BrSE96Wktmd3EtalUzdnVMM3R6Yy13YWlNQk9nSWlyVkNVMXBuYzg3RC1MbDJwVlZV?oc=5>
+- **特朗普** | 美国总统特朗普将对中国进行国事访问 <https://news.google.com/rss/articles/CBMifEFVX3lxTE14azItNUduaWYyYnFMU1ppejZ6YkRhVzIzLXgtZU1RbWpuYl8wb1lONjZfRk1wOG53TjNOU01BQTFVZ1FTX3BHQl9jaXVSNndGWlVKcHVwRnpscEM3WEtJdm04bGxQOEhYWGVGbUdNbUxKQ3BGd0xHdzZUT0E?oc=5>
+- **特朗普** | 美国总统特朗普将于5月13日至15日访华 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE43djBjUG4tVmVmNVIweUdOdUY0Y0IyUG1kc1VZNXZKTGNRTlhfM0t3WC1sV3JYTHZPeFJadDVTZ29JV25BY0hVWGxxeUxHcEhMWlpqTERaTHZyTmhSNW5qQg?oc=5>
+- **特朗普** | 美国总统特朗普将于5月13日至15日对中国进行国事访问 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE00MTlZUmQ2c2w1dnJsLUZ1WHJIVjMyU1lmLW1jZ29CWFBiX3JaSWlZZHFfcUtXN3E5SGZKQVlPTkI2ajM5V01XM3h3ck1LVmJwS0dXZVc4LVhWZGN1bE5LTQ?oc=5>
+- **Trump** | US President Donald Trump rejects new Iran peace proposal as ‘totally unacceptable’ <https://news.google.com/rss/articles/CBMi6wFBVV95cUxNelA2S1VtSDRsczBiQ1NNd1V1QmhtSFFRb016UmpSVllVaGZmS0RieXpYN0hhcFlNbmhBX0dGMGtHZ045b3VJby1TTG5oN1BQd2x1YlRUX2hMYlctOVlDR0VaT2ZPbGVvMzBjbHRnUU9YaFFHTEtvZkEzSzAwY2NHcHItT0VhQXVRX0hnT2ViSGc0ZTloWGZsb2VnbnNlY2pFXzJUTlk2MmJFM251NTVrVUd0dTdBUHVyNnVPenlNckNsbmNhVkVvd0xfNTlaZlpsRVNWT0JCTnhhdGpCRlRuSmlIbE5Vb1VsbUtZ?oc=5>
+- **Trump** | Arkham：TRUMP 代币团队转移 1209 万美元 TRUMP <https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ2lLN3ZmXzVoZE5paVY1OV9Ed3I3QXBBUkt3eElxSjhTbGszdER1elNhTVk2R1BOZURNc3ZuT3puY1RMd1l3R2ozejlGOEROZFMzSlRFenIyVG56YkU0ekRfWXZLc3VxSnE2azFsS0IzcUhKTXgtTFZpSkhNTzRwTnBJYTRoQjAzWkd5bA?oc=5>
 
 ### 2026-05-11 13:43  (12 条)
 
