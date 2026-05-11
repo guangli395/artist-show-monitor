@@ -1,72 +1,100 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-11 21:48**
-- 本轮扫到 803 条, 新增 **7** 条
+- 最近更新: **2026-05-11 22:49**
+- 本轮扫到 812 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (9 条)
 
-### 特朗普：我们需要更多关税。
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-11 20:21
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBPUTNjdDhua3hCRHpWcTdkcG52UktBSE12UGRNVUpDZDhLQ2RKcE9rdXdmTk1BNV83SkNNLUdiMEFNSTIwdjlZQW5adw?oc=5>
-
-### 特朗普希望暂停征收燃油税
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-05-11 20:42
-- 链接: <https://news.google.com/rss/articles/CBMi7wFBVV95cUxQSnhrQlVUa3k2dXJUd1NqMDc3anlvYW9GSUFvQzcySGc1VWtlY2laRUFnTlIwcDY4a21lTG51aHhFS05uZnV0cDZXVkRCUnZJOUIyNmRiVUR2LThNLWJrQWhwM1pDUllsNk5JaTI5U3NZVllNcTQ5S21manVxZzk2Tm9MSTAzZUloal9BRXo5WVg5LWYwNmVTSXJoWl9OSks3ZzI0ZWRzNGp4alpiaTcxeXh6ZFk3d0xscFVKU2dnZ3YtYjllSG5MTGd4WldHNGEwMk0tTGF0aWNTSGJ5RlhUQ2FtbHVYdUhPc0pDaUE0cw?oc=5>
-
-### 伊朗拒绝美国停战方案 特朗普称“完全不可接受”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-05-11 03:27
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9tVDdQcFpjdXM0ZFpBbEplbVEzN0R3Z0stUTdCdDZOMEZsOGtKc3BFeGlUaS1XaWRWUElDNFRKMDktcERRRk5ENnV5b2RuNFpuQm8ydkVZOW93NlE0MFRaRlB0NnUxQWpQekJjLWxpSDU4UHpNRk1iSkVuQks0Wkk?oc=5>
-
-### 特朗普重申，伊朗战争后物价将“暴跌”。
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-11 20:20
-- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE5UQXpmcUZMRFZvVW1zR19jbzRFcjFUdUJHTXNNVnpfSjktek5pSlVZeHhKVFNkNEJwLVhNTUMxTlJKNzlDVzZod29TWFljem8?oc=5>
-
-### 中美将举行新一轮经贸磋商；特朗普称伊朗的回应“完全不可接受”｜21早新闻-腾讯新闻
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: xw.qq.com
-- 时间: 2026-05-10 23:14
-- 链接: <https://news.google.com/rss/articles/CBMiV0FVX3lxTFA3ZzZaUnpwLVFiRnotWUtYck5CUm8xQm5WQVlGenRNMUhvVEVCVTluRlZqaGpXVlJ4alVaNFM4WFEyLWU4Q1YtcEIwc1diM0h4aDB6UjV4SQ?oc=5>
-
-### 美国汽车业和议员敦促特朗普勿向中国汽车开放市场
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-05-11 08:45
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE01ZUJ2d0lmU0VaaXpJMTJMcU4tSkRQMG51bTJHLWJBUVV3VE1lb2x1WkNudnhJam5pa053S05BQnQ4WGt3eGs2TUFtQnlSTWZ1c3ZHdlhhbFR1STAtM0ktd2VUWVlRUQ?oc=5>
-
-### 特朗普：将与习近平讨论美国对台军售；美两党参议员敦促总统在峰会前推进140亿美元对台军售案
+### 北京美中峰会将聚焦贸易、人工智能和稀土等领域
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 美国之音
-- 时间: 2026-05-11 19:35
-- 链接: <https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYUtDX1pyZHZMcUJWcVdnaU1VYmZTdU1FOEIxWWVoTHN0ZnIwRVNZREhjSURVcjBobWhxQjM1RjYzVHFTTE50LUxrWkxGYk5sRFRpaGcydVBTS2hjSVphZkxSakhneGhfa1pSdVFyWDFORlFZWFVQU1ZPY1A4NzZXQ09Jb3pYZ1BvbGpINTlyRzBubTBJOU5ReHhLT1F5cENPZXMzamN1S0xaRWdZcGlJU3JSc0RuUy1NS3lZM2lNeUZXS2lMbUo3bUUyVzNFTE0wcTVaZkJXLUtidjjSAd4BQVVfeXFMTkkyNFZfa0pjdFI2R08tOXNfSWpuUGN3U1o0M0JRWFp3UXRHUXdTM1ZQenNoMVJ2WkRtU0hZT0czbEtuVFk2UzJ4Tk9JTEpuV0RRVW03SnVMOHlyTi1pN1J1emdhTG5UejFITGJyLUw2c3RLN3BQWU05RGR1OWZWRHU0RFhzbjZicWF4TF9OTV9xdzlDOWxzMzMtMFBTaUw0OG5sSWZXWDV2VnNJNlhzd1N0WVAtWWF3SWkzMUlKSFJPdC1hWjZpd3BISDZjZ2FtWm9vdTVYLXlRR19KYUl3?oc=5>
+- 时间: 2026-05-11 20:52
+- 链接: <https://news.google.com/rss/articles/CBMi7AFBVV95cUxQeEZCVjhxSlJRUHVWUWdWWlpCN1dPd0tLMEpLanozakRNb2k5d3lUT0x1NERPZ0VyVnJwS0RqM2lqOWt6RVdDTUdSaGpseHZaUFgtZ2VyTmtsNTlZc1RmYmV2dDlzUXNCU0QtOXlvSW9VSnd2VS1HLTZnTzJEeXprNDRwbkt6S3dPYVFvSmx4RTBVR25FbDhEQnZhTUZqbm5UclNrblJmMDk5T1lMd1BCYUF1bHBGSlFWMmllSUVCbExjcjVFN0tzRDJvOGdtcnh3U2Q3bDkyWmRodi1Ua0lJYUNEQmllVHNMZi0zMNIB7wFBVV95cUxOTGdtNjQ0Rkc1R2dJaktiVldlbW02T1VaOUNyaDJmaFBFX1psNDliX3BEaXpmSFFVck5Fc2dtaGkwNDNwQzhiOERMbURVRHBMaG1BVnc3UW00bDAwalpCTVFYVTlvRkZJMWNCSDVoekcxYnppbXQwam9RV0luem55SEN0eGdXUnotS0JaY09raG9mMEdOQlF2bTZzRDJXTUJqRWIzTTg2NG1Udk5peU9Id1JWbjJHN1pibHV0SkYySmM4WmV1d21YMkRFR3AtellPSEU0RGl0c1NLTl81OXFIdDRXXzE1OUZKQW1DVmgzQQ?oc=5>
+
+### 特朗普总统拒绝伊朗提出的和平方案反提议后，油价飙升，股市再度上涨
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-05-11 22:14
+- 链接: <https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWlE0aE9OX2ZTN1o1WXcyMDZkdDA3emRyZWp0V0JtRzlYSmhfU0RiTUlhTk56cV9CSGVDaG13eXZ4QUcyUHNhS25JQzZLYzh5R0tER1hZVlpiV3BOVjFxOEZQZWJjUHhpOHUyUVpRUGtCVy1DdHZndW0tYWhhMnZDYVVydUZiRnIxSlFLYThiVm1lUWJzZWRNUVY1QlE1QUV6VVp4U1NLYjZQbUFQLTEyV01XaTF4VldMOFdPN3RCdTBQYTBOMUNzeXJnMnl3enZubXZjZ1BBS01LUHZfaUU4Y9IB4wFBVV95cUxQTldIb0tUVVVDZE1hZEwySnU5MXF1Rlg0czJGLUdrRkxZMlBQLVV0MWN6dTQ0T2M2NFphaGM3LVZvQlNXTEVpbUFyeXpLYkk3NFhUMHI4QkxGVWpBbWJxWVpwajloeGNsY2plS1plaE03eU9vU0hubzlGOTE1Z1A0ZkZVWk9id0JQZWk3QmhlSmg4N2trTXU5dGtxRzJ5MGllNTdCWTVhcGUzQ01XU3ZCSTR6NW1xaVRyeUhFYzg2VHZ6QjR2bnRONVJ0Y3BlOVlGTnF0aFVyRXRBd2E1RC1NcnM3SQ?oc=5>
+
+### 特朗普，又送中国一份大礼！
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-05-11 11:56
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE56YkE2Mmd0d1k0ZEEtZHdWcGtibWxDbGMyVTV0XzNzb1FrNEhENEE0MjFUYTBTRlpNeVUxaThfZ1FjcV9iQ3o2MzdQR1JQTm5qZkFJNVpTVW54UjlzTFZ5enFlOElIXzlxTVE?oc=5>
+
+### 特朗普对伊朗战争泄密事件不满 促使司法部展开积极调查
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-11 22:35
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxPOXctaHE0ZEpZZU9pVUtlYk9sVjhaT0VXUm1ZSFUwLXViTjdlSGhJbzY3azV3TWZfRC1HZ2Z4LXY3ZklTb29OMkRGUGV0aHhZdjhibUE2a3Jya3FJa0h1eS1VMmFrU1BKVmxTaUZVdl9hYThzZ1J0MlFTM3l5TVBqcDRycGpZSTQ?oc=5>
+
+### 外交部介绍美国总统特朗普访华安排和中方期待
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中国网新闻中心
+- 时间: 2026-05-11 16:09
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTFBNYTNLWXRMSGszOC1lNzRXQlRmUVVqMThSRVJaQjdLbmdMYzJuUmpSZGQ5TW1HTGx1RGhTT19pOFc2Nk44SlQzY0F2elpFNUx5ZWx5WUZxZU5DRzRCaVBQc2ZkV0NmSVFhZ004?oc=5>
+
+### 特朗普拒绝了德黑兰的回应，称伊朗停火协议“岌岌可危”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-11 16:54
+- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxQRUtQNGhTOF9SbEF1dkFmdHk4d2FvNldocWVON3VnNF9mRHZ6ZVMzSFltRC0wYzFUZkw0cVNqWHdENmtyRTRqVUE0YlRjbC1NWnBFTHhTMDlINVpReUt1QTR5MDNJUGZ5QUZpUEhIVWh2WUJNVkZpNXd5Ym1kVzJnWXZDc0hTT1FlS3c?oc=5>
+
+### 特朗普：美伊停火“岌岌可危”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-05-11 20:46
+- 链接: <https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdE82SGNwZ1lDSWt2TXh6TS0wb2ZFblk5bTZLbXRLYnZybUV6d2tFQUZ3UWttWV9wWXZHWGJTb0dicVBmdGc1WVRDa0U0bFRxNjJHNzJRMDN1eTZOYnphQjM2ODB0ZGZmX3FkWWttNm9sTTVTb1lWSFUxU3BuS2k2QnNiV2RUMVUwRTBEMTUxeTZNb3ZmMXBPc2wzT3I0VmhFSkUxRUlPdDl5c09jRzM5WXBLV08ybXJZbE1ZRXhXbHpxbFZuN2RJaDJzbERnOEExdFZDN0xna01kOGppajNBdGdkNUVhUQ?oc=5>
+
+### 特朗普称美伊停火“极其脆弱”，伊朗方面的回应“完全不可接受”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-11 19:31
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9TR1VKRXlFei10SjVReW9lR3FNaE5hUTdyUWwxcXRZVHRleGJpSmQyZ2xiWWJHRzVMMk1UcS1GV1A1LUlGR3VOTDc2VXlxMU5JREVWcEZUVldTTDZfM0xjTlZnbE9adEc4ZGhzU2lPcEZ6TWt1MUljRA?oc=5>
+
+### Trump China visit; China’s Next Generation Industrial Policy; Standardizing and developing AI agents; No more deflation?; Ding Xuexiang visits Huawei
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Sinocism | Bill Bishop
+- 时间: 2026-05-11 22:18
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE8wUW15NV85OTVrUl9iRVkyMTNCQUEyb0pQNGItRUtmUVlwUjhadTVTM2RNVzlzdm9YUW1URE1uRG1kTUhKdWw0S1hKX0g5WURCYWx6YWtOQkpXa3p0cmVtQzc5TU56RkhxZWRUWC1tR3U?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-11 22:49  (9 条)
+
+- **特朗普** | 北京美中峰会将聚焦贸易、人工智能和稀土等领域 <https://news.google.com/rss/articles/CBMi7AFBVV95cUxQeEZCVjhxSlJRUHVWUWdWWlpCN1dPd0tLMEpLanozakRNb2k5d3lUT0x1NERPZ0VyVnJwS0RqM2lqOWt6RVdDTUdSaGpseHZaUFgtZ2VyTmtsNTlZc1RmYmV2dDlzUXNCU0QtOXlvSW9VSnd2VS1HLTZnTzJEeXprNDRwbkt6S3dPYVFvSmx4RTBVR25FbDhEQnZhTUZqbm5UclNrblJmMDk5T1lMd1BCYUF1bHBGSlFWMmllSUVCbExjcjVFN0tzRDJvOGdtcnh3U2Q3bDkyWmRodi1Ua0lJYUNEQmllVHNMZi0zMNIB7wFBVV95cUxOTGdtNjQ0Rkc1R2dJaktiVldlbW02T1VaOUNyaDJmaFBFX1psNDliX3BEaXpmSFFVck5Fc2dtaGkwNDNwQzhiOERMbURVRHBMaG1BVnc3UW00bDAwalpCTVFYVTlvRkZJMWNCSDVoekcxYnppbXQwam9RV0luem55SEN0eGdXUnotS0JaY09raG9mMEdOQlF2bTZzRDJXTUJqRWIzTTg2NG1Udk5peU9Id1JWbjJHN1pibHV0SkYySmM4WmV1d21YMkRFR3AtellPSEU0RGl0c1NLTl81OXFIdDRXXzE1OUZKQW1DVmgzQQ?oc=5>
+- **特朗普** | 特朗普总统拒绝伊朗提出的和平方案反提议后，油价飙升，股市再度上涨 <https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWlE0aE9OX2ZTN1o1WXcyMDZkdDA3emRyZWp0V0JtRzlYSmhfU0RiTUlhTk56cV9CSGVDaG13eXZ4QUcyUHNhS25JQzZLYzh5R0tER1hZVlpiV3BOVjFxOEZQZWJjUHhpOHUyUVpRUGtCVy1DdHZndW0tYWhhMnZDYVVydUZiRnIxSlFLYThiVm1lUWJzZWRNUVY1QlE1QUV6VVp4U1NLYjZQbUFQLTEyV01XaTF4VldMOFdPN3RCdTBQYTBOMUNzeXJnMnl3enZubXZjZ1BBS01LUHZfaUU4Y9IB4wFBVV95cUxQTldIb0tUVVVDZE1hZEwySnU5MXF1Rlg0czJGLUdrRkxZMlBQLVV0MWN6dTQ0T2M2NFphaGM3LVZvQlNXTEVpbUFyeXpLYkk3NFhUMHI4QkxGVWpBbWJxWVpwajloeGNsY2plS1plaE03eU9vU0hubzlGOTE1Z1A0ZkZVWk9id0JQZWk3QmhlSmg4N2trTXU5dGtxRzJ5MGllNTdCWTVhcGUzQ01XU3ZCSTR6NW1xaVRyeUhFYzg2VHZ6QjR2bnRONVJ0Y3BlOVlGTnF0aFVyRXRBd2E1RC1NcnM3SQ?oc=5>
+- **特朗普** | 特朗普，又送中国一份大礼！ <https://news.google.com/rss/articles/CBMiakFVX3lxTE56YkE2Mmd0d1k0ZEEtZHdWcGtibWxDbGMyVTV0XzNzb1FrNEhENEE0MjFUYTBTRlpNeVUxaThfZ1FjcV9iQ3o2MzdQR1JQTm5qZkFJNVpTVW54UjlzTFZ5enFlOElIXzlxTVE?oc=5>
+- **特朗普** | 特朗普对伊朗战争泄密事件不满 促使司法部展开积极调查 <https://news.google.com/rss/articles/CBMihwFBVV95cUxPOXctaHE0ZEpZZU9pVUtlYk9sVjhaT0VXUm1ZSFUwLXViTjdlSGhJbzY3azV3TWZfRC1HZ2Z4LXY3ZklTb29OMkRGUGV0aHhZdjhibUE2a3Jya3FJa0h1eS1VMmFrU1BKVmxTaUZVdl9hYThzZ1J0MlFTM3l5TVBqcDRycGpZSTQ?oc=5>
+- **特朗普** | 外交部介绍美国总统特朗普访华安排和中方期待 <https://news.google.com/rss/articles/CBMia0FVX3lxTFBNYTNLWXRMSGszOC1lNzRXQlRmUVVqMThSRVJaQjdLbmdMYzJuUmpSZGQ5TW1HTGx1RGhTT19pOFc2Nk44SlQzY0F2elpFNUx5ZWx5WUZxZU5DRzRCaVBQc2ZkV0NmSVFhZ004?oc=5>
+- **特朗普** | 特朗普拒绝了德黑兰的回应，称伊朗停火协议“岌岌可危” <https://news.google.com/rss/articles/CBMiigFBVV95cUxQRUtQNGhTOF9SbEF1dkFmdHk4d2FvNldocWVON3VnNF9mRHZ6ZVMzSFltRC0wYzFUZkw0cVNqWHdENmtyRTRqVUE0YlRjbC1NWnBFTHhTMDlINVpReUt1QTR5MDNJUGZ5QUZpUEhIVWh2WUJNVkZpNXd5Ym1kVzJnWXZDc0hTT1FlS3c?oc=5>
+- **特朗普** | 特朗普：美伊停火“岌岌可危” <https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdE82SGNwZ1lDSWt2TXh6TS0wb2ZFblk5bTZLbXRLYnZybUV6d2tFQUZ3UWttWV9wWXZHWGJTb0dicVBmdGc1WVRDa0U0bFRxNjJHNzJRMDN1eTZOYnphQjM2ODB0ZGZmX3FkWWttNm9sTTVTb1lWSFUxU3BuS2k2QnNiV2RUMVUwRTBEMTUxeTZNb3ZmMXBPc2wzT3I0VmhFSkUxRUlPdDl5c09jRzM5WXBLV08ybXJZbE1ZRXhXbHpxbFZuN2RJaDJzbERnOEExdFZDN0xna01kOGppajNBdGdkNUVhUQ?oc=5>
+- **特朗普** | 特朗普称美伊停火“极其脆弱”，伊朗方面的回应“完全不可接受” <https://news.google.com/rss/articles/CBMieEFVX3lxTE9TR1VKRXlFei10SjVReW9lR3FNaE5hUTdyUWwxcXRZVHRleGJpSmQyZ2xiWWJHRzVMMk1UcS1GV1A1LUlGR3VOTDc2VXlxMU5JREVWcEZUVldTTDZfM0xjTlZnbE9adEc4ZGhzU2lPcEZ6TWt1MUljRA?oc=5>
+- **Trump** | Trump China visit; China’s Next Generation Industrial Policy; Standardizing and developing AI agents; No more deflation?; Ding Xuexiang visits Huawei <https://news.google.com/rss/articles/CBMicEFVX3lxTE8wUW15NV85OTVrUl9iRVkyMTNCQUEyb0pQNGItRUtmUVlwUjhadTVTM2RNVzlzdm9YUW1URE1uRG1kTUhKdWw0S1hKX0g5WURCYWx6YWtOQkpXa3p0cmVtQzc5TU56RkhxZWRUWC1tR3U?oc=5>
 
 ### 2026-05-11 21:48  (7 条)
 
