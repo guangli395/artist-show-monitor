@@ -1,88 +1,107 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-11 22:49**
-- 本轮扫到 812 条, 新增 **9** 条
+- 最近更新: **2026-05-11 23:53**
+- 本轮扫到 822 条, 新增 **10** 条
 
 ---
 
-## 本轮新发现 (9 条)
+## 本轮新发现 (10 条)
 
-### 北京美中峰会将聚焦贸易、人工智能和稀土等领域
+### 王一博灵感音乐早安双语问候发布
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-05-11 20:52
-- 链接: <https://news.google.com/rss/articles/CBMi7AFBVV95cUxQeEZCVjhxSlJRUHVWUWdWWlpCN1dPd0tLMEpLanozakRNb2k5d3lUT0x1NERPZ0VyVnJwS0RqM2lqOWt6RVdDTUdSaGpseHZaUFgtZ2VyTmtsNTlZc1RmYmV2dDlzUXNCU0QtOXlvSW9VSnd2VS1HLTZnTzJEeXprNDRwbkt6S3dPYVFvSmx4RTBVR25FbDhEQnZhTUZqbm5UclNrblJmMDk5T1lMd1BCYUF1bHBGSlFWMmllSUVCbExjcjVFN0tzRDJvOGdtcnh3U2Q3bDkyWmRodi1Ua0lJYUNEQmllVHNMZi0zMNIB7wFBVV95cUxOTGdtNjQ0Rkc1R2dJaktiVldlbW02T1VaOUNyaDJmaFBFX1psNDliX3BEaXpmSFFVck5Fc2dtaGkwNDNwQzhiOERMbURVRHBMaG1BVnc3UW00bDAwalpCTVFYVTlvRkZJMWNCSDVoekcxYnppbXQwam9RV0luem55SEN0eGdXUnotS0JaY09raG9mMEdOQlF2bTZzRDJXTUJqRWIzTTg2NG1Udk5peU9Id1JWbjJHN1pibHV0SkYySmM4WmV1d21YMkRFR3AtellPSEU0RGl0c1NLTl81OXFIdDRXXzE1OUZKQW1DVmgzQQ?oc=5>
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://video.sina.com.cn/p/finance/2026-05-12/detail-inhxqvav0006026.d.html>
 
-### 特朗普总统拒绝伊朗提出的和平方案反提议后，油价飙升，股市再度上涨
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-05-11 22:14
-- 链接: <https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWlE0aE9OX2ZTN1o1WXcyMDZkdDA3emRyZWp0V0JtRzlYSmhfU0RiTUlhTk56cV9CSGVDaG13eXZ4QUcyUHNhS25JQzZLYzh5R0tER1hZVlpiV3BOVjFxOEZQZWJjUHhpOHUyUVpRUGtCVy1DdHZndW0tYWhhMnZDYVVydUZiRnIxSlFLYThiVm1lUWJzZWRNUVY1QlE1QUV6VVp4U1NLYjZQbUFQLTEyV01XaTF4VldMOFdPN3RCdTBQYTBOMUNzeXJnMnl3enZubXZjZ1BBS01LUHZfaUU4Y9IB4wFBVV95cUxQTldIb0tUVVVDZE1hZEwySnU5MXF1Rlg0czJGLUdrRkxZMlBQLVV0MWN6dTQ0T2M2NFphaGM3LVZvQlNXTEVpbUFyeXpLYkk3NFhUMHI4QkxGVWpBbWJxWVpwajloeGNsY2plS1plaE03eU9vU0hubzlGOTE1Z1A0ZkZVWk9id0JQZWk3QmhlSmg4N2trTXU5dGtxRzJ5MGllNTdCWTVhcGUzQ01XU3ZCSTR6NW1xaVRyeUhFYzg2VHZ6QjR2bnRONVJ0Y3BlOVlGTnF0aFVyRXRBd2E1RC1NcnM3SQ?oc=5>
-
-### 特朗普，又送中国一份大礼！
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-05-11 11:56
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE56YkE2Mmd0d1k0ZEEtZHdWcGtibWxDbGMyVTV0XzNzb1FrNEhENEE0MjFUYTBTRlpNeVUxaThfZ1FjcV9iQ3o2MzdQR1JQTm5qZkFJNVpTVW54UjlzTFZ5enFlOElIXzlxTVE?oc=5>
-
-### 特朗普对伊朗战争泄密事件不满 促使司法部展开积极调查
+### 特朗普：密切关注南卡罗来纳州选区重划投票。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-11 22:35
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxPOXctaHE0ZEpZZU9pVUtlYk9sVjhaT0VXUm1ZSFUwLXViTjdlSGhJbzY3azV3TWZfRC1HZ2Z4LXY3ZklTb29OMkRGUGV0aHhZdjhibUE2a3Jya3FJa0h1eS1VMmFrU1BKVmxTaUZVdl9hYThzZ1J0MlFTM3l5TVBqcDRycGpZSTQ?oc=5>
+- 时间: 2026-05-11 23:15
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE45VVVVREw5d0VRRDdCYy1DaWJnQ2dOdklsU3ZycWEzUkVUa0V4Q1NKNzFFNU1OaHBELWdTQnh2WW1JUDB4V0N0bzloRQ?oc=5>
 
-### 外交部介绍美国总统特朗普访华安排和中方期待
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中国网新闻中心
-- 时间: 2026-05-11 16:09
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTFBNYTNLWXRMSGszOC1lNzRXQlRmUVVqMThSRVJaQjdLbmdMYzJuUmpSZGQ5TW1HTGx1RGhTT19pOFc2Nk44SlQzY0F2elpFNUx5ZWx5WUZxZU5DRzRCaVBQc2ZkV0NmSVFhZ004?oc=5>
-
-### 特朗普拒绝了德黑兰的回应，称伊朗停火协议“岌岌可危”
+### 特朗普政府请求法院暂停执行针对10%全球关税的裁决
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-11 16:54
-- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxQRUtQNGhTOF9SbEF1dkFmdHk4d2FvNldocWVON3VnNF9mRHZ6ZVMzSFltRC0wYzFUZkw0cVNqWHdENmtyRTRqVUE0YlRjbC1NWnBFTHhTMDlINVpReUt1QTR5MDNJUGZ5QUZpUEhIVWh2WUJNVkZpNXd5Ym1kVzJnWXZDc0hTT1FlS3c?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-05-11 23:29
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1jSVBmLXk4Z3pvWHJzdUVEZnBfbk5wUUsyeVZnR1JWLWhJX2xGcXNPM1NTMHYyUGNWeE55dHVORnowZF85bTFRTk5wbzA?oc=5>
 
-### 特朗普：美伊停火“岌岌可危”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-05-11 20:46
-- 链接: <https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdE82SGNwZ1lDSWt2TXh6TS0wb2ZFblk5bTZLbXRLYnZybUV6d2tFQUZ3UWttWV9wWXZHWGJTb0dicVBmdGc1WVRDa0U0bFRxNjJHNzJRMDN1eTZOYnphQjM2ODB0ZGZmX3FkWWttNm9sTTVTb1lWSFUxU3BuS2k2QnNiV2RUMVUwRTBEMTUxeTZNb3ZmMXBPc2wzT3I0VmhFSkUxRUlPdDl5c09jRzM5WXBLV08ybXJZbE1ZRXhXbHpxbFZuN2RJaDJzbERnOEExdFZDN0xna01kOGppajNBdGdkNUVhUQ?oc=5>
-
-### 特朗普称美伊停火“极其脆弱”，伊朗方面的回应“完全不可接受”
+### 特朗普称美伊停火协议命悬一线 据报华府考虑恢复军事行动可能性
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-11 19:31
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9TR1VKRXlFei10SjVReW9lR3FNaE5hUTdyUWwxcXRZVHRleGJpSmQyZ2xiWWJHRzVMMk1UcS1GV1A1LUlGR3VOTDc2VXlxMU5JREVWcEZUVldTTDZfM0xjTlZnbE9adEc4ZGhzU2lPcEZ6TWt1MUljRA?oc=5>
+- 时间: 2026-05-11 17:24
+- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxPMXNaM2pkX1M4Ump3czYzOUdyajZtdzBqS29zM0FZdk9hc0lFcC1vaXV2MkZraHF0LTZ1UzRmTm1ob3dmU2lhLS15bC1ybGlvSVFpdWUzT0VHUWp3V01PNGdkQkdjZUN1dUtOcFBKTGg2WWQzYzljNFZITlZUbXE3V2hYWXNHV2RDbmc?oc=5>
 
-### Trump China visit; China’s Next Generation Industrial Policy; Standardizing and developing AI agents; No more deflation?; Ding Xuexiang visits Huawei
+### “命悬一线”！特朗普宣布美伊停火濒临崩溃，正权衡对伊朗恢复军事行动
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-11 23:06
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFB0NGRvLUZINmNlS2ZMT3FuQ1dHNnp2aGNwWEhGa2s5VWtFWXJDQmJGdlZCRERVSXRhYlFDWjFiTjhIWDBuN29XcGRyMmJmQVYwc01fTEhQRFdiVUM2X1V0UFN1bjUwdVVkOVo1VXBaQ2Z6MkJGTGhXdA?oc=5>
+
+### 特朗普否定伊朗终战提案，油价再度上涨
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: BBC
+- 时间: 2026-05-11 04:26
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJRjRjS3c4MVUzNlFfNGNKa1hqNWNLREZKWmFzMktkQ21uek9oa2tNOGdLSTBUa2RpSlhyYnVKNzZuYU5RcUhzNHlvczFKTldGS1BNc3BLd1lXRlJEOGpqbWVLbjVlQdIBa0FVX3lxTFBWM0duZDNYNU14QlJWZmpLSmFEclJPMnZZcXBobV9jLTVyRWZ6VHJRMDU5bUZERUp4aHhXZ01YMnU2MUVWS1F6QTc1ems3RFpnZVlkRFF0X2VFb1RJTUFXNkFXWUd1RkJPSmNz?oc=5>
+
+### 美国总统特朗普将访华 关键时刻中美高层互动备受关注
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街见闻
+- 时间: 2026-05-11 14:28
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XbFlfN3BnWGx2dWNReEowMGN3Q3RScEhxdXRVa2tjMmhvWGxkdjFVbjZyYkwxaW9Zb2MyNk9XY19zZjRNZGV4SXl3TmZpTVMtMG1z?oc=5>
+
+### 特朗普：与伊朗停火协议已“岌岌可危”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: chinanews.com.cn
+- 时间: 2026-05-11 22:12
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE41Wjc3cTNoTzNNN1l5ZUktb3kyNTFrZEFTd2VpUGNGbFdJQUdFWDF2TDctYmxEMDM1OEZHOW5MV0lnVkpQbElQNmhTdDgxV0JGSS1WNjNBVnpxWDRnT3dYMWd6M2hyVFpR?oc=5>
+
+### 蓝厅观察丨美国总统特朗普将访华，关键时刻中美高层互动备受关注
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-05-11 23:06
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Na2dMeVY5OXFpWW9ZaXBwbDJSNHlneVZnUHhyTUJRdmFHeGZaMzZLUkw4RXR4d2FhX1BjaWJmSUZmYkNnckt2Y3pqU2FmaTJ5N1JUelZZS29ScUFsS0E?oc=5>
+
+### 特朗普“黄金手机”一年收5900万定金，“不保证产品会发布”
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Sinocism | Bill Bishop
-- 时间: 2026-05-11 22:18
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE8wUW15NV85OTVrUl9iRVkyMTNCQUEyb0pQNGItRUtmUVlwUjhadTVTM2RNVzlzdm9YUW1URE1uRG1kTUhKdWw0S1hKX0g5WURCYWx6YWtOQkpXa3p0cmVtQzc5TU56RkhxZWRUWC1tR3U?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-05-11 10:52
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9vTDhFNVpnWVV3c1J0cEEtZ2otLW9HdXpjYndOSG9hTm5ISklXZUFBaXZ2WXBDa25KNGR1Q1RMcUE3V1BVdVZPMUZCTHIzZXVJOTc4eHZ1T1JMTGRzekw2bFNCTFAzMGhpSlhaTGwtcjZiMEtQVXJXYg?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-11 23:53  (10 条)
+
+- **王一博** | 王一博灵感音乐早安双语问候发布 <https://video.sina.com.cn/p/finance/2026-05-12/detail-inhxqvav0006026.d.html>
+- **特朗普** | 特朗普：密切关注南卡罗来纳州选区重划投票。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE45VVVVREw5d0VRRDdCYy1DaWJnQ2dOdklsU3ZycWEzUkVUa0V4Q1NKNzFFNU1OaHBELWdTQnh2WW1JUDB4V0N0bzloRQ?oc=5>
+- **特朗普** | 特朗普政府请求法院暂停执行针对10%全球关税的裁决 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1jSVBmLXk4Z3pvWHJzdUVEZnBfbk5wUUsyeVZnR1JWLWhJX2xGcXNPM1NTMHYyUGNWeE55dHVORnowZF85bTFRTk5wbzA?oc=5>
+- **特朗普** | 特朗普称美伊停火协议命悬一线 据报华府考虑恢复军事行动可能性 <https://news.google.com/rss/articles/CBMiigFBVV95cUxPMXNaM2pkX1M4Ump3czYzOUdyajZtdzBqS29zM0FZdk9hc0lFcC1vaXV2MkZraHF0LTZ1UzRmTm1ob3dmU2lhLS15bC1ybGlvSVFpdWUzT0VHUWp3V01PNGdkQkdjZUN1dUtOcFBKTGg2WWQzYzljNFZITlZUbXE3V2hYWXNHV2RDbmc?oc=5>
+- **特朗普** | “命悬一线”！特朗普宣布美伊停火濒临崩溃，正权衡对伊朗恢复军事行动 <https://news.google.com/rss/articles/CBMieEFVX3lxTFB0NGRvLUZINmNlS2ZMT3FuQ1dHNnp2aGNwWEhGa2s5VWtFWXJDQmJGdlZCRERVSXRhYlFDWjFiTjhIWDBuN29XcGRyMmJmQVYwc01fTEhQRFdiVUM2X1V0UFN1bjUwdVVkOVo1VXBaQ2Z6MkJGTGhXdA?oc=5>
+- **特朗普** | 特朗普否定伊朗终战提案，油价再度上涨 <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJRjRjS3c4MVUzNlFfNGNKa1hqNWNLREZKWmFzMktkQ21uek9oa2tNOGdLSTBUa2RpSlhyYnVKNzZuYU5RcUhzNHlvczFKTldGS1BNc3BLd1lXRlJEOGpqbWVLbjVlQdIBa0FVX3lxTFBWM0duZDNYNU14QlJWZmpLSmFEclJPMnZZcXBobV9jLTVyRWZ6VHJRMDU5bUZERUp4aHhXZ01YMnU2MUVWS1F6QTc1ems3RFpnZVlkRFF0X2VFb1RJTUFXNkFXWUd1RkJPSmNz?oc=5>
+- **特朗普** | 美国总统特朗普将访华 关键时刻中美高层互动备受关注 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XbFlfN3BnWGx2dWNReEowMGN3Q3RScEhxdXRVa2tjMmhvWGxkdjFVbjZyYkwxaW9Zb2MyNk9XY19zZjRNZGV4SXl3TmZpTVMtMG1z?oc=5>
+- **特朗普** | 特朗普：与伊朗停火协议已“岌岌可危” <https://news.google.com/rss/articles/CBMiaEFVX3lxTE41Wjc3cTNoTzNNN1l5ZUktb3kyNTFrZEFTd2VpUGNGbFdJQUdFWDF2TDctYmxEMDM1OEZHOW5MV0lnVkpQbElQNmhTdDgxV0JGSS1WNjNBVnpxWDRnT3dYMWd6M2hyVFpR?oc=5>
+- **特朗普** | 蓝厅观察丨美国总统特朗普将访华，关键时刻中美高层互动备受关注 <https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Na2dMeVY5OXFpWW9ZaXBwbDJSNHlneVZnUHhyTUJRdmFHeGZaMzZLUkw4RXR4d2FhX1BjaWJmSUZmYkNnckt2Y3pqU2FmaTJ5N1JUelZZS29ScUFsS0E?oc=5>
+- **Trump** | 特朗普“黄金手机”一年收5900万定金，“不保证产品会发布” <https://news.google.com/rss/articles/CBMieEFVX3lxTE9vTDhFNVpnWVV3c1J0cEEtZ2otLW9HdXpjYndOSG9hTm5ISklXZUFBaXZ2WXBDa25KNGR1Q1RMcUE3V1BVdVZPMUZCTHIzZXVJOTc4eHZ1T1JMTGRzekw2bFNCTFAzMGhpSlhaTGwtcjZiMEtQVXJXYg?oc=5>
 
 ### 2026-05-11 22:49  (9 条)
 
