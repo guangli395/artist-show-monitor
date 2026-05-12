@@ -1,104 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-12 18:02**
-- 本轮扫到 892 条, 新增 **11** 条
+- 最近更新: **2026-05-12 20:14**
+- 本轮扫到 894 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (11 条)
+## 本轮新发现 (2 条)
 
-### 特朗普访华前，我建议主动给美国划四条“互信线”-高志凯-观察者网
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: guancha.cn
-- 时间: 2026-05-12 05:19
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WdHY3dmdMMlpKaktpOFE0VHNwZU8tZWUwLU9JUlI2WG5hYkxLelFpMnR5OU1uU3UxSEFiUTV0dXZ6eWF4SFl3bkIzcV9zRTJwX2t1UmM4RkhLc05EZVJkazhYOWl1aDg?oc=5>
-
-### 特朗普谈及美国食......_7x24快讯_新浪财经
+### 美国总统特朗普启程。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-12 18:00
-- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xR1FvWEJoV1M2aU45R2M3emdUWGZ2alBjVXFSaGRJcXItR0tlZS1ZUmVLT2Fvd0U4RG1SR1lDQlcxUmNpQi1zcVBnMVl1VDA?oc=5>
+- 场馆: Sina finance
+- 时间: 2026-05-12 18:32
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFA2SmRYc3hrUkVoLVFNRFhsZGxJZm5nY09HRGk4Y09vZUc1NHlaQ0Z3UUhtdk5nOTYzZzNZX0dPcklCS2w3cUVQNHhnU0g2dDZ1RGNOMkVHb3BZbmpyZ19WM3FUT05hTExTSzhiNDYxMzB2TFh1SnFzdQ?oc=5>
 
-### 伊朗阴影笼罩特朗普的访华
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-05-12 17:29
-- 链接: <https://news.google.com/rss/articles/CBMi7wFBVV95cUxPYW9SUmZNWmV3YTcyR3ZMam5OSDdlMlM2OERiWnlZQlA1MG9zX2JSdkpHMnZrSXJHSTduSm5KLXQ3Q05wRjR1eFUyVmlpVl9GN3ByMmphWndmX1RpT2w0NnE1eTVEV0xreHpzblR5cXAwVTJ0ZDYzMkNaUm5HOFpQRjBWSmMzWTlYajNSb0tJRlgyY2RkdUt5QzA5VGlLQ2Q5OF9TOEVkVHp0N3VNUnRjc254aGhIUWxmWkZYVWY3Z2JqWmd6N0gteng2UVRWVEJBWEN5b2VlVE4xU3pSdzNIWTV1SlQtbjlQVzNjb1B5UQ?oc=5>
-
-### 特朗普：古巴是一个失败的国家。
+### 白宫公布名单：美国16位商业巨头与特朗普一同访华
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-12 17:58
-- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE9lRzhkVVozaHoyOTBSMjFCNWZUem5tYVBoS0JsR1BnZkd3UU9fa3NpTU1zTGVQZlhGdEp4b1p5c3hOUm9uZFF1c3duUzNnZXc?oc=5>
-
-### 特朗普访华 商业“天团”拟随行 黄仁勋缺席
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-05-12 11:32
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLNWxPWHYyakxvM1lCTnF3UVgyYnhFVElfcXN4MzhaUUh1UjlHb0g0all6a1g4NlE1dDF5NFlQT2wtVnVwT0RHVmdDYlZ3b2FmQTdVcWJjX2piTjVHMUphaQ?oc=5>
-
-### 王权幻象与制衡底色：特朗普为何对“党内叛离者”束手无策？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-12 04:50
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5GQVU2bDh2REIza1RjOEhMSzNnQTFQX0k1ekt6UGNSUDBsd29JbEdUT044NkJsOC1JbHFlRXR6ZndKUFVDN3hTY293a2F0SzZqNE9BR2VUdEhPNGVoTkhDZUZkRDBHRUtNZmZvdzlLWjFueFhWS0xVVQ?oc=5>
-
-### 中东冲突、全球经济料成特朗普总统赴北京与习近平会谈重点
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-05-12 16:09
-- 链接: <https://news.google.com/rss/articles/CBMi7AFBVV95cUxNaldLTFZqblNWZ09PR0V0VTRRWmhXYktBTjRaQnhTMkxva2QxX21vcDRyMTV0YVgwTlRvTjcwUDMtRGRNMzNuaHluWmVuMnBmVmJMV3pTY2lBV2J1aEtISDlSdm51aWpPZVdaYnFaRW1LUWpEN2hvb2d4UjBCQXVUUE1yU0d6Mmc5Y0FzNzNYWWVFcDNMZnhhMWhSanZ1aGRhYmIydVBzSHFlbUc2Q0lBTlFiOXMzcGxPa0F0dWluZ0IySmowV1VpT2VMa2loZWhKYU14NGRlYmJmcjhQT25QaWVQRHhBRXVsZmRyV9IB7wFBVV95cUxQSE1iMEt2UUNMYWhfalBkVEM4aThIOGZyUEQtSnByNG1aUmNUTXM1enBJazhHTkl5aENQVUVfUjExNU5XUFliY3VKZVY1R09CMl9fN05nd2l1ZmQ1a1RpMlZPU3lpU2Y3LW1jTFNhbkRSQVRaZEtYem42dFFXTjlIbzR0YTBDWHNHZk13WGsxUURUQk5rbmhxOFo5SDFXSHNNaEZ6Z1NuRGNlTEtkVUowZnpZbDY0VDVBeWxWbzNoeWpTa2RWS2p4dlhKZHRBNFZEMXRlTHF6Ry1CTEl0SWRMVGJ6a2JHOTZvU0FXZ3BvUQ?oc=5>
-
-### 新闻人物丨美国总统唐纳德·特朗普
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-05-12 13:23
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBESHFwby15V0RBSU9jVk9pZWk2dWtqMEJDelZfWkc4dlRKNDFTYTFPa2JwMHA2QVFkYV8yQWxaMUh4SmVFb291UlFCTm54bUVwNEwwSnFPSF9fSUtsU3BqcHFxT3ljckVv?oc=5>
-
-### 特习峰会谈什么？(4) 人权、人工智能和其他
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-05-12 17:24
-- 链接: <https://news.google.com/rss/articles/CBMiowFBVV95cUxNQmMwaDZGdDEwMllMU29ELUp3VXJzcGl5Tzlwb0x5d05KYWtseTM2ek5GMm1XOC05VlpJVjlGWHJZeDhyVHJVazRiMjJTdzNWRlY0M01hUmQwNk9vQnBGMTNnQWxMck9vckkwN0VaNUFJYUVacml3a1RkclRtQ1h4NHBqVGc2ZldnVEQzVjhUcWlPYURvdjRzb1BaVWY2YWMtYXMw0gGmAUFVX3lxTE9JQ3dOSmJtTUw0eGs1RUVLZ29lekZOdEdnNzdaZ3dnQUZBNmREOXZSN2FGWnNHRGNlQ3BMVFNGWDJhV2JEYlBKRlZBdlpLUTQyTVh5aUVFeG9GZ1NlU3VLWGJXQUwyR1hSME0zR3hpMl9jV1VkRWtHeHZqUkRXQ2tiZlpZMnZGclpUZUpnemRWWXdVX3FzY3NHRXQwdi1aUTlBVFVWc2c?oc=5>
-
-### Nvidia's Huang Wants to Sell Chips to China. Trump Has Other Priorities
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-05-12 17:11
-- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxOOHlQbmxLVHRMc3BPZ2I1bWVialo4M0t0WXYwaFRWbWpYRHlZNDJpVUZTOGdyMHdFc2Q0N01tck1FN3QtWmxmSS03N3l2Qk8wa0RGWFdJaXJIOHVoMkd0SG9QaWhkS1h5T2RGR2tId1VjbU5NX1MyWnRhbjQ2M2lKYklzT2xmaGJ3M0ZmX3lIdEJ1QzJiaS1sdV81enM?oc=5>
-
-### 特朗普访华行程表曝光：14日上午见习 15日饮早茶…
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 文学城
-- 时间: 2026-05-12 16:32
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SbXJwZTIyU3JkVTE4STJ5WjJPOEtQT2hYd0xxb1h2Q2kxNHNyS1RzOHBqLWlQY2MwQlBHaHp0Wk1SOGtiRXNsYnMtN2dBRFVIYU1mVkU3OGlpZm9ERmNZbE5BMHY3MWVU?oc=5>
+- 场馆: thepaper.cn
+- 时间: 2026-05-12 13:43
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1UZGYtblNYY3JxanpNV2pqMDJlWnNZU1BQU1RNdnZ4N2I5czBnWlpFR1E5ZWJ1UlFzYVJfTEExUHZMbF9FbG4xaExwR0pXVVRiT0thQldaLUlyUFhJN2dNdg?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-12 20:14  (2 条)
+
+- **特朗普** | 美国总统特朗普启程。 <https://news.google.com/rss/articles/CBMieEFVX3lxTFA2SmRYc3hrUkVoLVFNRFhsZGxJZm5nY09HRGk4Y09vZUc1NHlaQ0Z3UUhtdk5nOTYzZzNZX0dPcklCS2w3cUVQNHhnU0g2dDZ1RGNOMkVHb3BZbmpyZ19WM3FUT05hTExTSzhiNDYxMzB2TFh1SnFzdQ?oc=5>
+- **特朗普** | 白宫公布名单：美国16位商业巨头与特朗普一同访华 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1UZGYtblNYY3JxanpNV2pqMDJlWnNZU1BQU1RNdnZ4N2I5czBnWlpFR1E5ZWJ1UlFzYVJfTEExUHZMbF9FbG4xaExwR0pXVVRiT0thQldaLUlyUFhJN2dNdg?oc=5>
 
 ### 2026-05-12 18:02  (11 条)
 
