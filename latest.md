@@ -1,102 +1,91 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-12 08:32**
-- 本轮扫到 857 条, 新增 **11** 条
+- 最近更新: **2026-05-12 11:16**
+- 本轮扫到 865 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (11 条)
+## 本轮新发现 (8 条)
 
-### 周杰伦跨界导演拍MV电影，曾赴好莱坞拍青蜂侠
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923674_m1d5ae17da03301fid2.html>
-
-### 凯文·沃什出任美联储主席，将面临通胀重燃和失去耐心的唐纳德·特朗普
+### 特朗普：与伊朗停火协议已“岌岌可危”，将对伊朗取得彻底胜利
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-12 07:31
-- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVTF3NkNwcmdxTE83WEVGTVhYVDR4Wm03Zkhlc1NrcnduZm9iNWlseUt3ZHNjVGtreGNYRFl0cG5lZzhwSGtOaUN3RzROM0swZVNuYS05YnlWM2JORU5DeHVtTVZCRDJReHlzSXlzdjlqU3dESFpFSnBQOXV6TWdDMkpGQ3NSNnozSll4WEp5WDZiblgxLWlTTkRJMGFoNzN0NGJEeXVJSXFXZw?oc=5>
+- 时间: 2026-05-11 16:36
+- 链接: <https://news.google.com/rss/articles/CBMihAFBVV95cUxPQlJHdnVqVEVUYXE1d2dRWGh2ZGdoUHNZT1dJYS1HRnJxc3dDUmV2VHVvbU1tcDlRUVpBQzJzVHU4cjVYRWhnNWxNSXBQZ3RJVTRMVlJCdjRxU1A5azBMejh4TVYtYlJMR0hDM1p1UkdSeFh4ZGVPaDRQcmVJa2NMS2l2dzg?oc=5>
 
-### 美国总统特朗普：中国是“一个令人惊叹的国家”！陪同特朗普来华企业负责人名单曝光：包括库克、马斯克，黄仁勋未在其列
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: Sina finance
-- 时间: 2026-05-12 03:05
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE1ySG9mX3BjbF9QcE1pb1hSQUsxN3lOOWFHdzNIbkRDS2FKLWRwOUxWbVoza3JZdHdSUUlaUWRZRTFJM0xYUldJYlpIRTZLU2VwNVo4VnZFQnhnV1pzRTFVQ0sxdmp2TDFWdi1sV0JyWUlCZmk2M1E?oc=5>
-
-### 美企代表团更新：加了马斯克，没了黄仁勋-观察者网
+### 特朗普越来越不满，他想给中国施加压力
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察
-- 时间: 2026-05-12 07:03
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5PU3h0T0RHa3VEVFIzOXFJbDZ0YXF6WFhuNjRMaGRwNVFJOVZodVRGbFFIcWU1YUFjUkFfUnBFUUdmYWxzYXM0SGlkQnpCSjNwTmVDQlhTYW9LT3pvN3VnQTlxcjIzMXplSUE?oc=5>
+- 场馆: 观察者
+- 时间: 2026-05-12 10:22
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5tU3h0a2RqR0RXaFNHX3NULTNEMVNpV3ZCbGRkTk9WWDcxSnlIZVpGNlI0aXE0QkhZbFktM1JpY2FSdUp0WV83eWdEcFBpNE1kOTZDR2pZSGtUS2JBdVBJcFliS212cjFORkE?oc=5>
 
-### 特朗普对伊朗战争泄密事件不满 促使司法部展开积极调查
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: Sina finance
-- 时间: 2026-05-11 22:35
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZTh0OGduMjB5aHhxRVFZVWdvTjlWV1lta0RaMERLc1F1b2M1c1ZQZVA2Uko1NVNYbUsyY191V1JYczJJN2ZwUllJYjU3c3ozbGlBajJaZ3g5bHktUXZraHdzTF9QZEFwRGFKX2xCdkpEV0ZDRERVbWxMaXJmMEV1b2dkeWtDVHJvSWxuVUtqbHJxbTQyT3gxVjMtbURIeTVaV0YyNmFVLTc0czNfakc4YjFiMXhXa2JwUENlcWc5YXVGc1pHV1oweTNSQWFrbDVNY0VGY3ZXV1dlQ3ZzdldZ?oc=5>
-
-### 为应对燃油价格飙升，特朗普支持暂停征收汽油税
+### 特朗普访华团5富豪总身家超8700亿美元
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-12 06:09
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE1QekpMUV8xbm5Yc1Nfb1JNeTVlYVgyTm50Rkp4VUJvRGVqVkVKU1RkR3E1NXVCMDhDZjdwVHp2cXVORjB2N2RYOVV2YlowTjJIVmNlbi1vSTFvVWUyYzlXaklrNWxqTnMxcUUxaG85Z0R3VUJDVGc?oc=5>
+- 时间: 2026-05-12 09:43
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE52aFJOV0tNdXB2cUpYMUN2SnRiNVJzLVlrbnpGc1NIYnVOYVFqM2pOOXZyc1J6SlpKQXloczBObEt0RTlVR3VISVVZSm05TC1EeWVNQkVKb0tjaU1Zc0Z0bDFvRE5yd3FVTnlXR01raw?oc=5>
 
-### 扛不住高油价，特朗普打算出手-观察者网
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察
-- 时间: 2026-05-12 02:19
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBWcDJiOWg3bVd6V2RhSm5uSzVpQjZMVlVmRGhLWVlQZ1R3ektmc2JaT2w3WWdGSDloMDE4MXRhcDZ5cENiUEhiNUpMcF9ERFZGODJRaW9CM3lHR0RzMV93blNqdWhuRFFBd0E?oc=5>
-
-### 火线评论｜时隔九年再访华，特朗普与中美关系之变
+### 特朗普访华在即，随行商界大咖都有谁？马斯克、库克在列，黄仁勋未获邀请
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 财新
-- 时间: 2026-05-12 08:31
-- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE41WnBLUW1rNmk1QlFpZnRIQmdGQmF6MnM2SnROeHVOZE1rUmhnOEJpSDYwWnF0SkN0cndSUDhOeS1YRDROT2c1a1AtV1F5OWtpQzJia0tTUHN4eXBTWW5oenFR?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-05-12 07:02
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9DQWxKSHhRVFp0OW1YR2dJcWdYeHZuQjFxX05uZG5ybmJJVWplUWxjOTEzZVJHak9XZmN4a0NGNG9pZE9yQXRHenJwQnF3TWlfU0FIamljUlNqdXI5eWdIYUloNWlBTVI5RUp1S1FHZXg?oc=5>
 
-### 盘点将随特朗普访华的美国商界代表团成员
+### 5900万美元定金恐打水漂！特朗普手机或跳票：官网已撤下发货日
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-05-12 00:00
-- 链接: <https://news.google.com/rss/articles/CBMiowFBVV95cUxQSkZDYkF6aG1XbS1KZDk1RjZYR1BtNlFWMTdvTkJENjdlQ0tnSHhOejA4cVRpODhPb0JzdFpRajdhTmVBMDA4N0RfLXlDV3RRbE5IS2dKaXdOWTlrMDgxN3BoQ1NDUF9HQm4xTUJfZW1hQThrbmtmUmZ5bXhhQmRoMFIyYW9DR1NLSGZCSmdFYU84eVI0X1k2YjA1amRCZkVFVjRJ?oc=5>
+- 场馆: 驱动之家
+- 时间: 2026-05-12 11:02
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE5tUDVvSWRmc3NWWmVZVUZYR0RPQjlINkxxVlhKcFhQVXM4eUZ5eTZUSTYwdXdOUkZtQVQtV0tnSU9JOUdtZ3pPZTF5TmRfMkgxa085YUFaRV8?oc=5>
 
-### 世界银行前行长表示：中国应停止囤积粮食、化肥
+### 特朗普政府为英特尔拉订单？特斯拉AI6芯片或转移至英特尔
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 电子工程专辑
+- 时间: 2026-05-12 08:21
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OcEkwQUc3MC1yN3JLYkFCN1FaUmdhY2Zuem5KU2RYZVRVRWtPY0ZqelFoTldEQTFndkdUOThNZk1vMVFZN2VoYUhNSm16RHJxdHZB?oc=5>
+
+### 特朗普二次访华：商贸代表团能带来多大经济成果？
+
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: BBC
-- 时间: 2026-05-12 04:47
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE4waV9JLXlPUGZyTVJTOEVWOFY4VVlBQXFvZnRHVjQ3ekM4Q2U0RTVkVDRQNG40RVJWZjJydUhYMzZ6ZjFmWUp4dWNyVzZsc0k5eDhzM2lSOE9EMXdkUjMtWE5YbGk0QdIBa0FVX3lxTE9vQTJodlVLUWp1aXBMdkJPMEdLLS1hR3R3Z0stWjhiUE4yWTRuWWZVZk9GbWNoYmEtZU1pN0xmTXNHLW9RcGZuUlZFYnhEQjNKQnJPT1FtcUM4Q1NPTTNEMzNHX3lVT2ppeEcw?oc=5>
+- 时间: 2026-05-12 08:54
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1zYTU4QkxEYnNnXzV1U0ZWVHNOMmIxVFF3amRYTjJ2MUdlOVFkZVRlSU1PVXpQWXh1NDIxSTh3ZGFFVFlZUkZLNUJZa25KOEFQOXlQZUo0LXVFbzdvLWFUSTRCem5vUdIBa0FVX3lxTE9QMFc1NGd2ZDdBVzNMTkdvWHJRMmJ5eVhKdXR5NnpfTzVtcVljQlhRdzI3N21wV0ZqaHJqNWZqQU45NDJ4d0JlVlhXYjhqSnpWbUNncHVzek55TFpBYnhvWkMtWmpObElpV3VV?oc=5>
 
-### WTI Price Forecast: Returns above 20-day EMA as Trump dismisses Iran’s response
+### 特朗普访华在即，北京对经贸冲突升级风险严阵以待
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: TMGM
-- 时间: 2026-05-11 16:21
-- 链接: <https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWmVob25HYnlna3F0ZHdYNk1EMTBldEZwM1o0T05saEkxeTJmVEl2aHhTLVZjOHJ6TUVOQmdaQkkzaDNHMHA4VURodUpvTEJWcmt1ZEhKNU1KVDRDZzQxSUkyX1JRWFJTLWV1ek5Zd2VfbHl6RmgyaW90UEp5clFsSG9mMHNuYTVDVzBESmpVdWJ0TmFabnViZV81cngyRy1jcFVTMkhZdlJ1SDhIbFFTTjJkYjYzOWpFUHgxMG1ncWR4NnFWNGRVbkxVeWJPQXdKcFpYc2Jvd3oySnI1eThBRnFiSHZwdw?oc=5>
+- 场馆: 纽约时报中文网
+- 时间: 2026-05-12 01:59
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE5ET2lqT2dQbjhmWHJWNWYwY2RzQnFjZ1E2bW5SSE1RU2pfU3JzbXZQX3NzQVY0U1pKWS1jblhxNF9yZ0lxRUtNdlVPQ3ZTMGV1ZlFkYjh0M2NSa2RwVEkyZzRCaDIyVlp4M0lmZTBvR3hnMk05TVE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-12 11:16  (8 条)
+
+- **特朗普** | 特朗普：与伊朗停火协议已“岌岌可危”，将对伊朗取得彻底胜利 <https://news.google.com/rss/articles/CBMihAFBVV95cUxPQlJHdnVqVEVUYXE1d2dRWGh2ZGdoUHNZT1dJYS1HRnJxc3dDUmV2VHVvbU1tcDlRUVpBQzJzVHU4cjVYRWhnNWxNSXBQZ3RJVTRMVlJCdjRxU1A5azBMejh4TVYtYlJMR0hDM1p1UkdSeFh4ZGVPaDRQcmVJa2NMS2l2dzg?oc=5>
+- **特朗普** | 特朗普越来越不满，他想给中国施加压力 <https://news.google.com/rss/articles/CBMiakFVX3lxTE5tU3h0a2RqR0RXaFNHX3NULTNEMVNpV3ZCbGRkTk9WWDcxSnlIZVpGNlI0aXE0QkhZbFktM1JpY2FSdUp0WV83eWdEcFBpNE1kOTZDR2pZSGtUS2JBdVBJcFliS212cjFORkE?oc=5>
+- **特朗普** | 特朗普访华团5富豪总身家超8700亿美元 <https://news.google.com/rss/articles/CBMib0FVX3lxTE52aFJOV0tNdXB2cUpYMUN2SnRiNVJzLVlrbnpGc1NIYnVOYVFqM2pOOXZyc1J6SlpKQXloczBObEt0RTlVR3VISVVZSm05TC1EeWVNQkVKb0tjaU1Zc0Z0bDFvRE5yd3FVTnlXR01raw?oc=5>
+- **特朗普** | 特朗普访华在即，随行商界大咖都有谁？马斯克、库克在列，黄仁勋未获邀请 <https://news.google.com/rss/articles/CBMicEFVX3lxTE9DQWxKSHhRVFp0OW1YR2dJcWdYeHZuQjFxX05uZG5ybmJJVWplUWxjOTEzZVJHak9XZmN4a0NGNG9pZE9yQXRHenJwQnF3TWlfU0FIamljUlNqdXI5eWdIYUloNWlBTVI5RUp1S1FHZXg?oc=5>
+- **特朗普** | 5900万美元定金恐打水漂！特朗普手机或跳票：官网已撤下发货日 <https://news.google.com/rss/articles/CBMiWEFVX3lxTE5tUDVvSWRmc3NWWmVZVUZYR0RPQjlINkxxVlhKcFhQVXM4eUZ5eTZUSTYwdXdOUkZtQVQtV0tnSU9JOUdtZ3pPZTF5TmRfMkgxa085YUFaRV8?oc=5>
+- **特朗普** | 特朗普政府为英特尔拉订单？特斯拉AI6芯片或转移至英特尔 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OcEkwQUc3MC1yN3JLYkFCN1FaUmdhY2Zuem5KU2RYZVRVRWtPY0ZqelFoTldEQTFndkdUOThNZk1vMVFZN2VoYUhNSm16RHJxdHZB?oc=5>
+- **特朗普** | 特朗普二次访华：商贸代表团能带来多大经济成果？ <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1zYTU4QkxEYnNnXzV1U0ZWVHNOMmIxVFF3amRYTjJ2MUdlOVFkZVRlSU1PVXpQWXh1NDIxSTh3ZGFFVFlZUkZLNUJZa25KOEFQOXlQZUo0LXVFbzdvLWFUSTRCem5vUdIBa0FVX3lxTE9QMFc1NGd2ZDdBVzNMTkdvWHJRMmJ5eVhKdXR5NnpfTzVtcVljQlhRdzI3N21wV0ZqaHJqNWZqQU45NDJ4d0JlVlhXYjhqSnpWbUNncHVzek55TFpBYnhvWkMtWmpObElpV3VV?oc=5>
+- **Trump** | 特朗普访华在即，北京对经贸冲突升级风险严阵以待 <https://news.google.com/rss/articles/CBMidkFVX3lxTE5ET2lqT2dQbjhmWHJWNWYwY2RzQnFjZ1E2bW5SSE1RU2pfU3JzbXZQX3NzQVY0U1pKWS1jblhxNF9yZ0lxRUtNdlVPQ3ZTMGV1ZlFkYjh0M2NSa2RwVEkyZzRCaDIyVlp4M0lmZTBvR3hnMk05TVE?oc=5>
 
 ### 2026-05-12 08:32  (11 条)
 
