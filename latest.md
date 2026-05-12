@@ -1,32 +1,73 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-12 20:14**
-- 本轮扫到 894 条, 新增 **2** 条
+- 最近更新: **2026-05-12 21:47**
+- 本轮扫到 900 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (6 条)
 
-### 美国总统特朗普启程。
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: Sina finance
-- 时间: 2026-05-12 18:32
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFA2SmRYc3hrUkVoLVFNRFhsZGxJZm5nY09HRGk4Y09vZUc1NHlaQ0Z3UUhtdk5nOTYzZzNZX0dPcklCS2w3cUVQNHhnU0g2dDZ1RGNOMkVHb3BZbmpyZ19WM3FUT05hTExTSzhiNDYxMzB2TFh1SnFzdQ?oc=5>
-
-### 白宫公布名单：美国16位商业巨头与特朗普一同访华
+### 特朗普经济顾问哈塞特谈汽油税：特朗普的观点是我们应当进行税制现代化改革。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-05-12 13:43
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1UZGYtblNYY3JxanpNV2pqMDJlWnNZU1BQU1RNdnZ4N2I5czBnWlpFR1E5ZWJ1UlFzYVJfTEExUHZMbF9FbG4xaExwR0pXVVRiT0thQldaLUlyUFhJN2dNdg?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-05-12 20:25
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5WM21CV1ROQU1ZU3NULVp1NlN5eDFKdmZLUXN1bnZNVjJ4ZGdEVjRnOEF1Rm1aRUtEVXl2NHJkZ25GQzNxbVU5Z010QQ?oc=5>
+
+### 特朗普发布一张疑似显示FDA局长马卡里辞职的图片。
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-12 19:28
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFA0ZHlPZGpocm5panhTZmtlY0RWRUJ2VURZaVZOaENpazVvbzc5Vnh6VzRWdUpsMXhfSWZvQlVubGRsWlZ1dDBrUHZoNnBDTmdsTkJPbTFFd2lHQU9LZmdPOHFEbHA4ekw3MG5UeWQ4SVlpdG5XR3BuNw?oc=5>
+
+### 特朗普携强大的商界领袖访华
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-05-12 20:41
+- 链接: <https://news.google.com/rss/articles/CBMi-wFBVV95cUxOcDg1MWdOVXJZQW9wc0tVZGVMMklrZVNYS1hTU0FoRUIwdEk5VWVSM2RQQ29PMU5MYU01clJ3NmhiN0NmTGU5cHEweEh1VVhRbHU3RUVwTWJBUUp1eEdrTjhRd01QSlU2YXFNTkU0bzRmb1FBaVJYSUhfMWdiWUhIZHB0LVU2Z0w2Rng5UVhnQTJSbndpVEVXWWE1MHBmbWp4bUY5bkxPRHRob0w1SDd5QmdGcGd4eEoxNzN2eDZQV0NoUHVjVVJFMERtY0NYcnVINE5KV0ZkMTJqcjcyODVRSWVsMkdUbEI2WTRhbTRnaVd4VTh0eE9LRS0xaw?oc=5>
+
+### 还是谈不成，特朗普没招了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-05-12 10:00
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE53QVVkWEJsTFJfVlNMVS1FVFItdk9zVjBoVTZmekZCVG9sWnhpa3FuMHdxTTZqdkU0M0hEU2tlNzREZzhnUnlxeVkyOEI?oc=5>
+
+### 特朗普称阻止伊朗研发核武器“只是时间问题”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新京报
+- 时间: 2026-05-12 14:23
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1eDZZR0Q3bHVRVklUNF9xbjlLazNHZGxHYXo4eGZ2ako0aDlOc0NtajVCTC1ST1FJcGJIdDZqcUU4UDloMlNRQ05Pa2tsTDFGNHJueGFaNWY0Qjd1bi1sLTRhZlI?oc=5>
+
+### 据报特朗普政府暂停推行下调牛肉进口关税计划
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: AASTOCKS.com
+- 时间: 2026-05-12 16:44
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE5qZm1wNFVNa1FxdlE1NTNMYWdYNENZYVdHOXhwZHNGSVA1QXZGNkZMSV8xR0YwcGpHYWx6STVLVE5JblFqZXNHa0dQcHJXekxMNVVCRzNQSGdZUnk0enptSnZjWGpBVEhLd3BFQWtmYw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-12 21:47  (6 条)
+
+- **特朗普** | 特朗普经济顾问哈塞特谈汽油税：特朗普的观点是我们应当进行税制现代化改革。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5WM21CV1ROQU1ZU3NULVp1NlN5eDFKdmZLUXN1bnZNVjJ4ZGdEVjRnOEF1Rm1aRUtEVXl2NHJkZ25GQzNxbVU5Z010QQ?oc=5>
+- **特朗普** | 特朗普发布一张疑似显示FDA局长马卡里辞职的图片。 <https://news.google.com/rss/articles/CBMieEFVX3lxTFA0ZHlPZGpocm5panhTZmtlY0RWRUJ2VURZaVZOaENpazVvbzc5Vnh6VzRWdUpsMXhfSWZvQlVubGRsWlZ1dDBrUHZoNnBDTmdsTkJPbTFFd2lHQU9LZmdPOHFEbHA4ekw3MG5UeWQ4SVlpdG5XR3BuNw?oc=5>
+- **特朗普** | 特朗普携强大的商界领袖访华 <https://news.google.com/rss/articles/CBMi-wFBVV95cUxOcDg1MWdOVXJZQW9wc0tVZGVMMklrZVNYS1hTU0FoRUIwdEk5VWVSM2RQQ29PMU5MYU01clJ3NmhiN0NmTGU5cHEweEh1VVhRbHU3RUVwTWJBUUp1eEdrTjhRd01QSlU2YXFNTkU0bzRmb1FBaVJYSUhfMWdiWUhIZHB0LVU2Z0w2Rng5UVhnQTJSbndpVEVXWWE1MHBmbWp4bUY5bkxPRHRob0w1SDd5QmdGcGd4eEoxNzN2eDZQV0NoUHVjVVJFMERtY0NYcnVINE5KV0ZkMTJqcjcyODVRSWVsMkdUbEI2WTRhbTRnaVd4VTh0eE9LRS0xaw?oc=5>
+- **特朗普** | 还是谈不成，特朗普没招了 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE53QVVkWEJsTFJfVlNMVS1FVFItdk9zVjBoVTZmekZCVG9sWnhpa3FuMHdxTTZqdkU0M0hEU2tlNzREZzhnUnlxeVkyOEI?oc=5>
+- **特朗普** | 特朗普称阻止伊朗研发核武器“只是时间问题” <https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1eDZZR0Q3bHVRVklUNF9xbjlLazNHZGxHYXo4eGZ2ako0aDlOc0NtajVCTC1ST1FJcGJIdDZqcUU4UDloMlNRQ05Pa2tsTDFGNHJueGFaNWY0Qjd1bi1sLTRhZlI?oc=5>
+- **Trump** | 据报特朗普政府暂停推行下调牛肉进口关税计划 <https://news.google.com/rss/articles/CBMib0FVX3lxTE5qZm1wNFVNa1FxdlE1NTNMYWdYNENZYVdHOXhwZHNGSVA1QXZGNkZMSV8xR0YwcGpHYWx6STVLVE5JblFqZXNHa0dQcHJXekxMNVVCRzNQSGdZUnk0enptSnZjWGpBVEhLd3BFQWtmYw?oc=5>
 
 ### 2026-05-12 20:14  (2 条)
 
