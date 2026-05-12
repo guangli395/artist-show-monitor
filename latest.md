@@ -1,94 +1,125 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-11 23:53**
-- 本轮扫到 822 条, 新增 **10** 条
+- 最近更新: **2026-05-12 02:30**
+- 本轮扫到 834 条, 新增 **12** 条
 
 ---
 
-## 本轮新发现 (10 条)
+## 本轮新发现 (12 条)
 
-### 王一博灵感音乐早安双语问候发布
+### 用王一博新歌打开贵州户外旅行
 
 - 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://video.sina.com.cn/p/finance/2026-05-12/detail-inhxqvav0006026.d.html>
+- 链接: <https://k.sina.com.cn/article_1960601312_m74dc66e0053038ndk.html>
 
-### 特朗普：密切关注南卡罗来纳州选区重划投票。
+### 特朗普：中国令人惊叹-观察者网
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: guancha.cn
+- 时间: 2026-05-12 00:32
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFA2N0wyYkM0VG41QVplUXZqZmgwYWZxUzRTVkt4aFVJb0dBcm95el9jOEZzdW9SbEtkLWlDZjlPdVNGcExCRkVyTzlIVkdrbk9pSXBObjJVM1FMTUZhVjE3QzJmX3hDbmtBeUE?oc=5>
+
+### 市场消息：特朗普推迟下调牛肉进口关税。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-11 23:15
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE45VVVVREw5d0VRRDdCYy1DaWJnQ2dOdklsU3ZycWEzUkVUa0V4Q1NKNzFFNU1OaHBELWdTQnh2WW1JUDB4V0N0bzloRQ?oc=5>
+- 时间: 2026-05-12 00:48
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBLeWI5aU9NM1JOOFBJY00zNlpjbjY2akNHZl9VMmh3WEN5TFE0d1JZekl4WnBpQW1xak1FdW1EWnRXZnVhM3A4UDVVWQ?oc=5>
 
-### 特朗普政府请求法院暂停执行针对10%全球关税的裁决
+### 特朗普政府请求法院：暂停执行针对10%全球关税的裁决！此前被裁决“法律依据不成立”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 每日经济新闻
+- 时间: 2026-05-12 01:24
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBvMl9VTzF5VFo3M1hLUjRKT1VNZWVkWmVQamR3OXJkc2s3R1dYbVBFYVpaN3pUNU14Qm5iZ0JQd1l6ckFLU25XeC1GcktxaHppUE4yYnRWSGxoOEM1SWFBbGotNWRKZw?oc=5>
+
+### 特朗普政府请求法院暂停执行针对10%全球关税的裁决-观察者网
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: guancha.cn
+- 时间: 2026-05-12 00:51
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5GNVJXWDZaQUNzNHVTSEtILXBMbXFtUmZnV3ZCVGdLSVdidkRkcUEtSHIydWh3cF9iaS1TcnZJQmphRjljbDVObkcxeTNxc0dJZnhCWmM1emtaeVZvOS1WaEdPa1ZzeS1zSXc?oc=5>
+
+### 一图看懂｜特朗普时隔9年再访华，回顾中美元首历次会晤
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中国网新闻中心
+- 时间: 2026-05-12 01:03
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE5JZjhwNHBHb0RSMl9pdFNmSkFnQXgxcXgxOVVoSkh5SDBhSjJXMzgtX2o5MDF6UDlxSEZraFhrc3lDSEhBbHVnSHdadGwxdHF5NXRhX2NhRU9SUmctSHVUbEtnZExsV2pjb0I4?oc=5>
+
+### 特朗普称美伊停火协议“岌岌可危”，消息人士：访华前难有突破
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-05-11 23:29
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1jSVBmLXk4Z3pvWHJzdUVEZnBfbk5wUUsyeVZnR1JWLWhJX2xGcXNPM1NTMHYyUGNWeE55dHVORnowZF85bTFRTk5wbzA?oc=5>
+- 时间: 2026-05-12 00:18
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9jVU1zVWNzWTFzN3RLQWw5VlVWREFMZmFLb19xa2xLSUZJU1VWd3hfUjRaSTZlNkY3cFFHS2h1THVqYlJ6Y1pxUlpLNUI?oc=5>
 
-### 特朗普称美伊停火协议命悬一线 据报华府考虑恢复军事行动可能性
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-11 17:24
-- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxPMXNaM2pkX1M4Ump3czYzOUdyajZtdzBqS29zM0FZdk9hc0lFcC1vaXV2MkZraHF0LTZ1UzRmTm1ob3dmU2lhLS15bC1ybGlvSVFpdWUzT0VHUWp3V01PNGdkQkdjZUN1dUtOcFBKTGg2WWQzYzljNFZITlZUbXE3V2hYWXNHV2RDbmc?oc=5>
-
-### “命悬一线”！特朗普宣布美伊停火濒临崩溃，正权衡对伊朗恢复军事行动
+### 访华前，特朗普仍不满伊朗提议：垃圾-观察者网
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-11 23:06
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFB0NGRvLUZINmNlS2ZMT3FuQ1dHNnp2aGNwWEhGa2s5VWtFWXJDQmJGdlZCRERVSXRhYlFDWjFiTjhIWDBuN29XcGRyMmJmQVYwc01fTEhQRFdiVUM2X1V0UFN1bjUwdVVkOVo1VXBaQ2Z6MkJGTGhXdA?oc=5>
-
-### 特朗普否定伊朗终战提案，油价再度上涨
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-05-11 04:26
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJRjRjS3c4MVUzNlFfNGNKa1hqNWNLREZKWmFzMktkQ21uek9oa2tNOGdLSTBUa2RpSlhyYnVKNzZuYU5RcUhzNHlvczFKTldGS1BNc3BLd1lXRlJEOGpqbWVLbjVlQdIBa0FVX3lxTFBWM0duZDNYNU14QlJWZmpLSmFEclJPMnZZcXBobV9jLTVyRWZ6VHJRMDU5bUZERUp4aHhXZ01YMnU2MUVWS1F6QTc1ems3RFpnZVlkRFF0X2VFb1RJTUFXNkFXWUd1RkJPSmNz?oc=5>
+- 场馆: guancha.cn
+- 时间: 2026-05-12 00:45
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE8wZVpfWk5fRVVmS0VWWDV1bzU5RXJmMF9hWHlxeTNpS1gxSEJaMHM3cFpNY0d3bDMxemd1TXFWWUpUX1BCTXNxcXh2TmprcVpBcE83bGs1WXdHaHBXYTJmQ3dTeXcyb3dVNXc?oc=5>
 
 ### 美国总统特朗普将访华 关键时刻中美高层互动备受关注
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-05-11 14:28
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XbFlfN3BnWGx2dWNReEowMGN3Q3RScEhxdXRVa2tjMmhvWGxkdjFVbjZyYkwxaW9Zb2MyNk9XY19zZjRNZGV4SXl3TmZpTVMtMG1z?oc=5>
+- 场馆: 中国青年网
+- 时间: 2026-05-11 23:55
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE13S0hSZmZEanktdks2VFQwVFhSSlNlUUFDc3RBdWY3UmtOM1RyaHBnOXpUNkF6ZGtqTUlVSnhBZ2NWWmw2YjFldWwwclR2cGx2RUh1UUYtckRZMVV0TUhyajNQMGI?oc=5>
 
-### 特朗普：与伊朗停火协议已“岌岌可危”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-05-11 22:12
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE41Wjc3cTNoTzNNN1l5ZUktb3kyNTFrZEFTd2VpUGNGbFdJQUdFWDF2TDctYmxEMDM1OEZHOW5MV0lnVkpQbElQNmhTdDgxV0JGSS1WNjNBVnpxWDRnT3dYMWd6M2hyVFpR?oc=5>
-
-### 蓝厅观察丨美国总统特朗普将访华，关键时刻中美高层互动备受关注
+### “八年贸易战”后特朗普再访华：打破旧平衡，还是重构新底线？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-05-11 23:06
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Na2dMeVY5OXFpWW9ZaXBwbDJSNHlneVZnUHhyTUJRdmFHeGZaMzZLUkw4RXR4d2FhX1BjaWJmSUZmYkNnckt2Y3pqU2FmaTJ5N1JUelZZS29ScUFsS0E?oc=5>
+- 场馆: BBC
+- 时间: 2026-05-12 02:01
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE82V0gteHNHS24tQTJidXBlZWZtcEhuc1QxYXRqa3kyU2pONmw2SlNrQkViZEhNeXdLcUhWaVN6R2EtODN5WGpfSUpDc1hLZGMtOFRka1dQbnRCemV0M0hJTnNBQ0hTQdIBa0FVX3lxTFBBVUR4UlZYMlVQSGtSbEFqMGZ4QlAxVTNGTzBKOERfbTVDeHdnTFNPeks5SDY3U2R2ZXRBbmxzdGdqaFhLVGJJZExlYUdLX1hnM01wRmJCakg0dDRoZDl6aFg1VFcwclNwdnM4?oc=5>
 
-### 特朗普“黄金手机”一年收5900万定金，“不保证产品会发布”
+### 8点1氪丨美国总统特朗普：非常期待中国之行；OPPO发布母亲节文案事件问责通告；快手计划分拆可灵AI，融资20亿美元
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 36kr.com
+- 时间: 2026-05-11 09:16
+- 链接: <https://news.google.com/rss/articles/CBMiTkFVX3lxTE1yb3lYNEFhUUNsSHBvZmtjUGsySUk3LWc3N21pUFlnUEp0c2k0R3Z3czJqZjg3Wl85V0xoU3RET2lnRWNDSU5nV3h4Sjk5QQ?oc=5>
+
+### 特朗普拟推汽油税假期料每月成本35亿美元
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-11 10:52
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9vTDhFNVpnWVV3c1J0cEEtZ2otLW9HdXpjYndOSG9hTm5ISklXZUFBaXZ2WXBDa25KNGR1Q1RMcUE3V1BVdVZPMUZCTHIzZXVJOTc4eHZ1T1JMTGRzekw2bFNCTFAzMGhpSlhaTGwtcjZiMEtQVXJXYg?oc=5>
+- 场馆: AASTOCKS.com
+- 时间: 2026-05-11 23:42
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTFBfSU9ZaHNjTEU5R3Q4ZXd0NXo5WFo0M1ZDSTBtYVBmN3hPZmJ6ajRQUE5oM2NQNVFOUzFQeVotT3VPSVdpRnBHbkRSbEg4eDRPVXA0VHkzQ1dSelBfZHRtakFQbW50NHRPNldkalhWQQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-12 02:30  (12 条)
+
+- **王一博** | 用王一博新歌打开贵州户外旅行 <https://k.sina.com.cn/article_1960601312_m74dc66e0053038ndk.html>
+- **特朗普** | 特朗普：中国令人惊叹-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTFA2N0wyYkM0VG41QVplUXZqZmgwYWZxUzRTVkt4aFVJb0dBcm95el9jOEZzdW9SbEtkLWlDZjlPdVNGcExCRkVyTzlIVkdrbk9pSXBObjJVM1FMTUZhVjE3QzJmX3hDbmtBeUE?oc=5>
+- **特朗普** | 市场消息：特朗普推迟下调牛肉进口关税。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBLeWI5aU9NM1JOOFBJY00zNlpjbjY2akNHZl9VMmh3WEN5TFE0d1JZekl4WnBpQW1xak1FdW1EWnRXZnVhM3A4UDVVWQ?oc=5>
+- **特朗普** | 特朗普政府请求法院：暂停执行针对10%全球关税的裁决！此前被裁决“法律依据不成立” <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBvMl9VTzF5VFo3M1hLUjRKT1VNZWVkWmVQamR3OXJkc2s3R1dYbVBFYVpaN3pUNU14Qm5iZ0JQd1l6ckFLU25XeC1GcktxaHppUE4yYnRWSGxoOEM1SWFBbGotNWRKZw?oc=5>
+- **特朗普** | 特朗普政府请求法院暂停执行针对10%全球关税的裁决-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE5GNVJXWDZaQUNzNHVTSEtILXBMbXFtUmZnV3ZCVGdLSVdidkRkcUEtSHIydWh3cF9iaS1TcnZJQmphRjljbDVObkcxeTNxc0dJZnhCWmM1emtaeVZvOS1WaEdPa1ZzeS1zSXc?oc=5>
+- **特朗普** | 一图看懂｜特朗普时隔9年再访华，回顾中美元首历次会晤 <https://news.google.com/rss/articles/CBMia0FVX3lxTE5JZjhwNHBHb0RSMl9pdFNmSkFnQXgxcXgxOVVoSkh5SDBhSjJXMzgtX2o5MDF6UDlxSEZraFhrc3lDSEhBbHVnSHdadGwxdHF5NXRhX2NhRU9SUmctSHVUbEtnZExsV2pjb0I4?oc=5>
+- **特朗普** | 特朗普称美伊停火协议“岌岌可危”，消息人士：访华前难有突破 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9jVU1zVWNzWTFzN3RLQWw5VlVWREFMZmFLb19xa2xLSUZJU1VWd3hfUjRaSTZlNkY3cFFHS2h1THVqYlJ6Y1pxUlpLNUI?oc=5>
+- **特朗普** | 访华前，特朗普仍不满伊朗提议：垃圾-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE8wZVpfWk5fRVVmS0VWWDV1bzU5RXJmMF9hWHlxeTNpS1gxSEJaMHM3cFpNY0d3bDMxemd1TXFWWUpUX1BCTXNxcXh2TmprcVpBcE83bGs1WXdHaHBXYTJmQ3dTeXcyb3dVNXc?oc=5>
+- **特朗普** | 美国总统特朗普将访华 关键时刻中美高层互动备受关注 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE13S0hSZmZEanktdks2VFQwVFhSSlNlUUFDc3RBdWY3UmtOM1RyaHBnOXpUNkF6ZGtqTUlVSnhBZ2NWWmw2YjFldWwwclR2cGx2RUh1UUYtckRZMVV0TUhyajNQMGI?oc=5>
+- **特朗普** | “八年贸易战”后特朗普再访华：打破旧平衡，还是重构新底线？ <https://news.google.com/rss/articles/CBMiZkFVX3lxTE82V0gteHNHS24tQTJidXBlZWZtcEhuc1QxYXRqa3kyU2pONmw2SlNrQkViZEhNeXdLcUhWaVN6R2EtODN5WGpfSUpDc1hLZGMtOFRka1dQbnRCemV0M0hJTnNBQ0hTQdIBa0FVX3lxTFBBVUR4UlZYMlVQSGtSbEFqMGZ4QlAxVTNGTzBKOERfbTVDeHdnTFNPeks5SDY3U2R2ZXRBbmxzdGdqaFhLVGJJZExlYUdLX1hnM01wRmJCakg0dDRoZDl6aFg1VFcwclNwdnM4?oc=5>
+- **特朗普** | 8点1氪丨美国总统特朗普：非常期待中国之行；OPPO发布母亲节文案事件问责通告；快手计划分拆可灵AI，融资20亿美元 <https://news.google.com/rss/articles/CBMiTkFVX3lxTE1yb3lYNEFhUUNsSHBvZmtjUGsySUk3LWc3N21pUFlnUEp0c2k0R3Z3czJqZjg3Wl85V0xoU3RET2lnRWNDSU5nV3h4Sjk5QQ?oc=5>
+- **Trump** | 特朗普拟推汽油税假期料每月成本35亿美元 <https://news.google.com/rss/articles/CBMib0FVX3lxTFBfSU9ZaHNjTEU5R3Q4ZXd0NXo5WFo0M1ZDSTBtYVBmN3hPZmJ6ajRQUE5oM2NQNVFOUzFQeVotT3VPSVdpRnBHbkRSbEg4eDRPVXA0VHkzQ1dSelBfZHRtakFQbW50NHRPNldkalhWQQ?oc=5>
 
 ### 2026-05-11 23:53  (10 条)
 
