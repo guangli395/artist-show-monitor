@@ -1,110 +1,127 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-12 02:30**
-- 本轮扫到 834 条, 新增 **12** 条
+- 最近更新: **2026-05-12 05:53**
+- 本轮扫到 846 条, 新增 **12** 条
 
 ---
 
 ## 本轮新发现 (12 条)
 
-### 用王一博新歌打开贵州户外旅行
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1960601312_m74dc66e0053038ndk.html>
-
-### 特朗普：中国令人惊叹-观察者网
+### 王权幻象与制衡底色：特朗普为何对“党内叛离者”束手无策？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: guancha.cn
-- 时间: 2026-05-12 00:32
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFA2N0wyYkM0VG41QVplUXZqZmgwYWZxUzRTVkt4aFVJb0dBcm95el9jOEZzdW9SbEtkLWlDZjlPdVNGcExCRkVyTzlIVkdrbk9pSXBObjJVM1FMTUZhVjE3QzJmX3hDbmtBeUE?oc=5>
+- 场馆: thepaper.cn
+- 时间: 2026-05-12 04:50
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ybXl3SmdBdUo3NG1peFUxTlhYQ3lqUEpGdlBWalJxT3lBVzI1ak1GbkJTcDNkNkZjLWhhSEQ5X3lBQXB1X3pLVHJaRnNsR0pnLUgyeFlmYzVjbEVaWGFzOA?oc=5>
 
-### 市场消息：特朗普推迟下调牛肉进口关税。
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-12 00:48
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBLeWI5aU9NM1JOOFBJY00zNlpjbjY2akNHZl9VMmh3WEN5TFE0d1JZekl4WnBpQW1xak1FdW1EWnRXZnVhM3A4UDVVWQ?oc=5>
-
-### 特朗普政府请求法院：暂停执行针对10%全球关税的裁决！此前被裁决“法律依据不成立”
+### 特朗普要调查媒体泄密，甩给代理司法部长一摞报道，贴着“叛国”标签
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 每日经济新闻
-- 时间: 2026-05-12 01:24
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBvMl9VTzF5VFo3M1hLUjRKT1VNZWVkWmVQamR3OXJkc2s3R1dYbVBFYVpaN3pUNU14Qm5iZ0JQd1l6ckFLU25XeC1GcktxaHppUE4yYnRWSGxoOEM1SWFBbGotNWRKZw?oc=5>
+- 场馆: 观察者
+- 时间: 2026-05-12 05:17
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5JcE9famR5VC1fRXFrczdoWnFzbHdqSTlQdVhKc293VGxtN3hiekp1UXd0SEtpTGNnQnlQY25xajhERHFtSkZRS3VUTmoxLTFBUmtiaDZCekk5TGxXdnJHZFNuSGQtaFdrSlE?oc=5>
 
-### 特朗普政府请求法院暂停执行针对10%全球关税的裁决-观察者网
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: guancha.cn
-- 时间: 2026-05-12 00:51
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5GNVJXWDZaQUNzNHVTSEtILXBMbXFtUmZnV3ZCVGdLSVdidkRkcUEtSHIydWh3cF9iaS1TcnZJQmphRjljbDVObkcxeTNxc0dJZnhCWmM1emtaeVZvOS1WaEdPa1ZzeS1zSXc?oc=5>
-
-### 一图看懂｜特朗普时隔9年再访华，回顾中美元首历次会晤
+### 美媒曝陪同特朗普来华企业负责人名单：包括库克、马斯克、奥特伯格，高通、黑石集团、花旗集团和Visa 等高管，黄仁勋未在其列
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中国网新闻中心
-- 时间: 2026-05-12 01:03
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE5JZjhwNHBHb0RSMl9pdFNmSkFnQXgxcXgxOVVoSkh5SDBhSjJXMzgtX2o5MDF6UDlxSEZraFhrc3lDSEhBbHVnSHdadGwxdHF5NXRhX2NhRU9SUmctSHVUbEtnZExsV2pjb0I4?oc=5>
+- 场馆: Sina finance
+- 时间: 2026-05-12 04:36
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE50REVPWmlJd2F5c2J5WGM5ZWtGWnNTdjQ3eW1JYVY4Rmlnb0RMdklLMFVDbGRlc0VfeUZqNmU0dnY4RlN2d1RERmNhazZhRlhjOXIzX3IxS2tKVFNOaHRHYmFvNFJoc29faV85Y3JjejRPU2Z2VUE?oc=5>
 
-### 特朗普称美伊停火协议“岌岌可危”，消息人士：访华前难有突破
+### 特朗普：美伊停火正处于“生命维持”状态
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-05-11 17:11
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE5QOV9ZMTI1aXFZQURNT05QbVRUcjRPZlBEZGlCaVJfM2R5UjdGSmpycDY2cDJqejFLdWw4V0lNXzZfbURlaC13ZmVVUjlqdVNvS01ETmJtX1JHR3F6dzRwSVZNTmd3d1Q0VWZtVXR2WWtaeXFNSm9qMkxQbUhjVnM?oc=5>
+
+### 特朗普称美伊停火协议命悬一线 据报华府考虑恢复军事行动可能性
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Sina finance
+- 时间: 2026-05-11 17:15
+- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTGI3NWVEZWl4ekdnd1AwMFRQZVI2REQ4TTVZU2dzbnhpSnJhb0o0OENlT0l0Q1BRdEVQb0tZaG8teWc3WURITDRPbkJVNTFmQnppWWthbS1DZ29lemR4em15UnY4ZWxPc2hobjdQNWRzVDZEc0ZfSHFmYURKRDBPZ201emFJelVtejNxeW5rMmJEdHY5RUx3Qi0tcnZ4MzRkeGRwSzFYOUZDWll2NE5MUFI4WGZDNkRwTkxoaWUzVWtfYmNjRjRmZURpVTF4Z3E2N2c?oc=5>
+
+### 特朗普开始疏远最激进幕僚？主导百万驱逐计划的斯蒂芬·米勒在白宫失宠
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-05-12 00:18
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9jVU1zVWNzWTFzN3RLQWw5VlVWREFMZmFLb19xa2xLSUZJU1VWd3hfUjRaSTZlNkY3cFFHS2h1THVqYlJ6Y1pxUlpLNUI?oc=5>
+- 时间: 2026-05-12 03:56
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE8tVVMzVXF6TU5MNTlYNE10QzBDUlFxUUVpLS1xVG5lSENkUWxPMkNwQ3JEXzdBem1HbXhBVUZsZjdPeC1NaVBFX3g0MU0?oc=5>
 
-### 访华前，特朗普仍不满伊朗提议：垃圾-观察者网
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: guancha.cn
-- 时间: 2026-05-12 00:45
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE8wZVpfWk5fRVVmS0VWWDV1bzU5RXJmMF9hWHlxeTNpS1gxSEJaMHM3cFpNY0d3bDMxemd1TXFWWUpUX1BCTXNxcXh2TmprcVpBcE83bGs1WXdHaHBXYTJmQ3dTeXcyb3dVNXc?oc=5>
-
-### 美国总统特朗普将访华 关键时刻中美高层互动备受关注
+### 特朗普说将推动暂停征收联邦汽油消费税
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中国青年网
-- 时间: 2026-05-11 23:55
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE13S0hSZmZEanktdks2VFQwVFhSSlNlUUFDc3RBdWY3UmtOM1RyaHBnOXpUNkF6ZGtqTUlVSnhBZ2NWWmw2YjFldWwwclR2cGx2RUh1UUYtckRZMVV0TUhyajNQMGI?oc=5>
+- 场馆: 新京报
+- 时间: 2026-05-11 23:09
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBoclhvNXZPUkV2QU9CX3ZxeHpucWJEM2plYVMtZFh1em5ieXcxVHRhUUljbkFsaTZlemZ5QVNwdXFJQW80c1dWS3ljOXlnQlR1RUtkTlNPUU5HQXZQc0Y2WU1kT2w?oc=5>
 
-### “八年贸易战”后特朗普再访华：打破旧平衡，还是重构新底线？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-05-12 02:01
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE82V0gteHNHS24tQTJidXBlZWZtcEhuc1QxYXRqa3kyU2pONmw2SlNrQkViZEhNeXdLcUhWaVN6R2EtODN5WGpfSUpDc1hLZGMtOFRka1dQbnRCemV0M0hJTnNBQ0hTQdIBa0FVX3lxTFBBVUR4UlZYMlVQSGtSbEFqMGZ4QlAxVTNGTzBKOERfbTVDeHdnTFNPeks5SDY3U2R2ZXRBbmxzdGdqaFhLVGJJZExlYUdLX1hnM01wRmJCakg0dDRoZDl6aFg1VFcwclNwdnM4?oc=5>
-
-### 8点1氪丨美国总统特朗普：非常期待中国之行；OPPO发布母亲节文案事件问责通告；快手计划分拆可灵AI，融资20亿美元
+### 特朗普总统：他将向习近平提起被拘押的民主活动人士黎智英和金明日牧师案
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 36kr.com
-- 时间: 2026-05-11 09:16
-- 链接: <https://news.google.com/rss/articles/CBMiTkFVX3lxTE1yb3lYNEFhUUNsSHBvZmtjUGsySUk3LWc3N21pUFlnUEp0c2k0R3Z3czJqZjg3Wl85V0xoU3RET2lnRWNDSU5nV3h4Sjk5QQ?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-05-11 20:37
+- 链接: <https://news.google.com/rss/articles/CBMi8AFBVV95cUxNN0pfV1EyUEpGT2dhX1k3RlNlQ05LbS1QVHdpZ1pqTXZFdERqVnQ0S2tYb3VaRGxNTXY2TG1rVjVNay1lbVJHR2hIblFJV3VZWXRmdTNBSUJCaGRZY2ZRSW1GWHU3Y25Lb2JmRVFnSkRTbmdOVlBBdmRMTHAyR0NjV3Nlbk5SX2dteFJXaVRLZTZRNVNROEtJU3lXYk5sbWZUUlVzSUNpWFVHWXpwbHp0aVg4YlNDVHMwVkVfOWE1MXZCMjgybDVfOVpoTW5XVXAydFFrM25WRmY3S3pROVJyZ196VXU5UTA4aEg2NmFRWHPSAfMBQVVfeXFMTWNOODBjU1lRQ01QLVNfMnBrRmVyZUNZM3FGbFVsNHZFcW1MTDJqMVUzV3gzV29mb2hhQ3h1dGFJb1RVQ0RveHlGaU1OY2ZwZG9qak9xUHJSSjNZcEk3VWR5RUFxVVpTT3dTRE84X01zOURRQnY2WGlDNmVJeko5UTZScDZuTlU0WkFxZGNOdGZVMUNjTW5yM2xBRElIRjFnYnFiR2lSQmY4V0JNYzg2WVV2TmVsVy1GbEJpNjFTdmQxZWJwRXVkWU9nUy0zWkF6SkNhRHh0c3pVR2JLYUpJTUkwMDkxU2pLczkwaU9VUlByTVNn?oc=5>
 
-### 特朗普拟推汽油税假期料每月成本35亿美元
+### 美国总统特朗普：非常期待中国之行
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-05-11 23:12
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sU1ZqSjlzLUxCMDBTTjFseHJRYVItSExrbHZWNzJaRWR3MnRueU9RU0NBZThmdnBNNUIzYTdFdllHN2N4Mm9zN0V6R2J4VlBfS0pyTUYzVHlwMGw2MGlucg?oc=5>
+
+### 16位商界领袖将陪同特朗普访华，他们是谁？
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: AASTOCKS.com
-- 时间: 2026-05-11 23:42
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTFBfSU9ZaHNjTEU5R3Q4ZXd0NXo5WFo0M1ZDSTBtYVBmN3hPZmJ6ajRQUE5oM2NQNVFOUzFQeVotT3VPSVdpRnBHbkRSbEg4eDRPVXA0VHkzQ1dSelBfZHRtakFQbW50NHRPNldkalhWQQ?oc=5>
+- 场馆: 纽约时报中文网
+- 时间: 2026-05-12 01:08
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5IRzR4bFNySEJFalZUclloYnFYNFhHUnRYZk4zMDA3N3hoeGFvWFlvcG9fenJZM0JaZGlsektKSXRBR0NCa1VZVm9PRzhvbW8xRjc4T2tTNE10T0RFN2oxTWJRSjVtVVNxNVE?oc=5>
+
+### 余茂春谈“特习会”：特朗普2.0应对中共更有信心、也更有具体的对策
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-05-08 23:24
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTG5tZUM5NTJWVmRZWjRSdVZ2dmkyajJJT3lEWHhLeXA1WlFPVW9paHVMNm9NdmVQaFJ3eGptQjg5d2dMRGVVSWI1Zi14ek1uZy0tMFJSYVhUOUx5ckxpbUJhUUF6UUdHNzBzZTJLT0ZOdDhzYS1MY0I5dnEtajgxeWhKSkdaczZkSWR0NXMxcTl1QksxY3ctbDduMlBwV0EwTWNyVHJyOUJpWXRNczFJY1RfOTJ4bG1GWnZaQ29aTGpEV3NpV1oxT01ablZ0ejhx0gHTAUFVX3lxTE1zU2p1Y1NIVVpoMlRaVi1Ibk9uRVFwSV9sb3Q2TmZTbUtLTkFfQ2ZTZVNuM1hTWjhfTnFiOFY3ZjlJUFdpRms5dXdNaWJQc2o0Tl95Vzdaem1XeUNqeXJQT0NOZnhqeVhOUVB1a2NyZ0JLOXIyYnQwS1ViaTVsZ0NYaUNNV1hvN0VSQnY2WGVKXzMzclJZMFp0S1JsUFJqcjR0Qkp0aHpoRG1ncFBPQU5YZVVaQWhCWFpnQlNWeVdxSk5kZHZnMGFGMWpsTnZ0a0lCUVU?oc=5>
+
+### 特朗普表示，美国与伊朗的停火协议正处于‘大规模生命维持’状态
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-05-12 02:54
+- 链接: <https://news.google.com/rss/articles/CBMiogFBVV95cUxOaDhwUEJuRF8ycXozeUdGU3hmS2ZXRWtaWkY1dGUyMjFyLWRrMEZhUXFXRURHLXo5M1JXSnpZQTdYb0pXN1RCNFJrM0NkS1FwTG1nTFljX0xaQ1pzdU14U3E3T0ZWcFJlQ2lNT1pVd0JST3dMaTZ4N3FvUWdBU1FQMU1lQ1I0UFZENmdwSy1rUUdFRUxHNlF5eXc2X2NPNl9tTkE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-12 05:53  (12 条)
+
+- **特朗普** | 王权幻象与制衡底色：特朗普为何对“党内叛离者”束手无策？ <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ybXl3SmdBdUo3NG1peFUxTlhYQ3lqUEpGdlBWalJxT3lBVzI1ak1GbkJTcDNkNkZjLWhhSEQ5X3lBQXB1X3pLVHJaRnNsR0pnLUgyeFlmYzVjbEVaWGFzOA?oc=5>
+- **特朗普** | 特朗普要调查媒体泄密，甩给代理司法部长一摞报道，贴着“叛国”标签 <https://news.google.com/rss/articles/CBMiakFVX3lxTE5JcE9famR5VC1fRXFrczdoWnFzbHdqSTlQdVhKc293VGxtN3hiekp1UXd0SEtpTGNnQnlQY25xajhERHFtSkZRS3VUTmoxLTFBUmtiaDZCekk5TGxXdnJHZFNuSGQtaFdrSlE?oc=5>
+- **特朗普** | 美媒曝陪同特朗普来华企业负责人名单：包括库克、马斯克、奥特伯格，高通、黑石集团、花旗集团和Visa 等高管，黄仁勋未在其列 <https://news.google.com/rss/articles/CBMidkFVX3lxTE50REVPWmlJd2F5c2J5WGM5ZWtGWnNTdjQ3eW1JYVY4Rmlnb0RMdklLMFVDbGRlc0VfeUZqNmU0dnY4RlN2d1RERmNhazZhRlhjOXIzX3IxS2tKVFNOaHRHYmFvNFJoc29faV85Y3JjejRPU2Z2VUE?oc=5>
+- **特朗普** | 特朗普：美伊停火正处于“生命维持”状态 <https://news.google.com/rss/articles/CBMif0FVX3lxTE5QOV9ZMTI1aXFZQURNT05QbVRUcjRPZlBEZGlCaVJfM2R5UjdGSmpycDY2cDJqejFLdWw4V0lNXzZfbURlaC13ZmVVUjlqdVNvS01ETmJtX1JHR3F6dzRwSVZNTmd3d1Q0VWZtVXR2WWtaeXFNSm9qMkxQbUhjVnM?oc=5>
+- **特朗普** | 特朗普称美伊停火协议命悬一线 据报华府考虑恢复军事行动可能性 <https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTGI3NWVEZWl4ekdnd1AwMFRQZVI2REQ4TTVZU2dzbnhpSnJhb0o0OENlT0l0Q1BRdEVQb0tZaG8teWc3WURITDRPbkJVNTFmQnppWWthbS1DZ29lemR4em15UnY4ZWxPc2hobjdQNWRzVDZEc0ZfSHFmYURKRDBPZ201emFJelVtejNxeW5rMmJEdHY5RUx3Qi0tcnZ4MzRkeGRwSzFYOUZDWll2NE5MUFI4WGZDNkRwTkxoaWUzVWtfYmNjRjRmZURpVTF4Z3E2N2c?oc=5>
+- **特朗普** | 特朗普开始疏远最激进幕僚？主导百万驱逐计划的斯蒂芬·米勒在白宫失宠 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE8tVVMzVXF6TU5MNTlYNE10QzBDUlFxUUVpLS1xVG5lSENkUWxPMkNwQ3JEXzdBem1HbXhBVUZsZjdPeC1NaVBFX3g0MU0?oc=5>
+- **特朗普** | 特朗普说将推动暂停征收联邦汽油消费税 <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBoclhvNXZPUkV2QU9CX3ZxeHpucWJEM2plYVMtZFh1em5ieXcxVHRhUUljbkFsaTZlemZ5QVNwdXFJQW80c1dWS3ljOXlnQlR1RUtkTlNPUU5HQXZQc0Y2WU1kT2w?oc=5>
+- **特朗普** | 特朗普总统：他将向习近平提起被拘押的民主活动人士黎智英和金明日牧师案 <https://news.google.com/rss/articles/CBMi8AFBVV95cUxNN0pfV1EyUEpGT2dhX1k3RlNlQ05LbS1QVHdpZ1pqTXZFdERqVnQ0S2tYb3VaRGxNTXY2TG1rVjVNay1lbVJHR2hIblFJV3VZWXRmdTNBSUJCaGRZY2ZRSW1GWHU3Y25Lb2JmRVFnSkRTbmdOVlBBdmRMTHAyR0NjV3Nlbk5SX2dteFJXaVRLZTZRNVNROEtJU3lXYk5sbWZUUlVzSUNpWFVHWXpwbHp0aVg4YlNDVHMwVkVfOWE1MXZCMjgybDVfOVpoTW5XVXAydFFrM25WRmY3S3pROVJyZ196VXU5UTA4aEg2NmFRWHPSAfMBQVVfeXFMTWNOODBjU1lRQ01QLVNfMnBrRmVyZUNZM3FGbFVsNHZFcW1MTDJqMVUzV3gzV29mb2hhQ3h1dGFJb1RVQ0RveHlGaU1OY2ZwZG9qak9xUHJSSjNZcEk3VWR5RUFxVVpTT3dTRE84X01zOURRQnY2WGlDNmVJeko5UTZScDZuTlU0WkFxZGNOdGZVMUNjTW5yM2xBRElIRjFnYnFiR2lSQmY4V0JNYzg2WVV2TmVsVy1GbEJpNjFTdmQxZWJwRXVkWU9nUy0zWkF6SkNhRHh0c3pVR2JLYUpJTUkwMDkxU2pLczkwaU9VUlByTVNn?oc=5>
+- **特朗普** | 美国总统特朗普：非常期待中国之行 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sU1ZqSjlzLUxCMDBTTjFseHJRYVItSExrbHZWNzJaRWR3MnRueU9RU0NBZThmdnBNNUIzYTdFdllHN2N4Mm9zN0V6R2J4VlBfS0pyTUYzVHlwMGw2MGlucg?oc=5>
+- **Trump** | 16位商界领袖将陪同特朗普访华，他们是谁？ <https://news.google.com/rss/articles/CBMiakFVX3lxTE5IRzR4bFNySEJFalZUclloYnFYNFhHUnRYZk4zMDA3N3hoeGFvWFlvcG9fenJZM0JaZGlsektKSXRBR0NCa1VZVm9PRzhvbW8xRjc4T2tTNE10T0RFN2oxTWJRSjVtVVNxNVE?oc=5>
+- **Trump** | 余茂春谈“特习会”：特朗普2.0应对中共更有信心、也更有具体的对策 <https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTG5tZUM5NTJWVmRZWjRSdVZ2dmkyajJJT3lEWHhLeXA1WlFPVW9paHVMNm9NdmVQaFJ3eGptQjg5d2dMRGVVSWI1Zi14ek1uZy0tMFJSYVhUOUx5ckxpbUJhUUF6UUdHNzBzZTJLT0ZOdDhzYS1MY0I5dnEtajgxeWhKSkdaczZkSWR0NXMxcTl1QksxY3ctbDduMlBwV0EwTWNyVHJyOUJpWXRNczFJY1RfOTJ4bG1GWnZaQ29aTGpEV3NpV1oxT01ablZ0ejhx0gHTAUFVX3lxTE1zU2p1Y1NIVVpoMlRaVi1Ibk9uRVFwSV9sb3Q2TmZTbUtLTkFfQ2ZTZVNuM1hTWjhfTnFiOFY3ZjlJUFdpRms5dXdNaWJQc2o0Tl95Vzdaem1XeUNqeXJQT0NOZnhqeVhOUVB1a2NyZ0JLOXIyYnQwS1ViaTVsZ0NYaUNNV1hvN0VSQnY2WGVKXzMzclJZMFp0S1JsUFJqcjR0Qkp0aHpoRG1ncFBPQU5YZVVaQWhCWFpnQlNWeVdxSk5kZHZnMGFGMWpsTnZ0a0lCUVU?oc=5>
+- **Trump** | 特朗普表示，美国与伊朗的停火协议正处于‘大规模生命维持’状态 <https://news.google.com/rss/articles/CBMiogFBVV95cUxOaDhwUEJuRF8ycXozeUdGU3hmS2ZXRWtaWkY1dGUyMjFyLWRrMEZhUXFXRURHLXo5M1JXSnpZQTdYb0pXN1RCNFJrM0NkS1FwTG1nTFljX0xaQ1pzdU14U3E3T0ZWcFJlQ2lNT1pVd0JST3dMaTZ4N3FvUWdBU1FQMU1lQ1I0UFZENmdwSy1rUUdFRUxHNlF5eXc2X2NPNl9tTkE?oc=5>
 
 ### 2026-05-12 02:30  (12 条)
 
