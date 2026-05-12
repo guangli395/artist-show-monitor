@@ -1,64 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-12 21:47**
-- 本轮扫到 900 条, 新增 **6** 条
+- 最近更新: **2026-05-12 22:58**
+- 本轮扫到 903 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (3 条)
 
-### 特朗普经济顾问哈塞特谈汽油税：特朗普的观点是我们应当进行税制现代化改革。
+### 特朗普批评媒体有关伊朗 “局势向好” 的报道。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
+- 场馆: 新浪网
 - 时间: 2026-05-12 20:25
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5WM21CV1ROQU1ZU3NULVp1NlN5eDFKdmZLUXN1bnZNVjJ4ZGdEVjRnOEF1Rm1aRUtEVXl2NHJkZ25GQzNxbVU5Z010QQ?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFA4MXdCdEVvTDJBSmE4ZWR5Rzg0WXk5QzN3dnlOX2RYVG1UY19JU2F6dWlqT1lxb3YwLVJ0TWJfYW5Rd2NKd2d5TGZEWTRwUGVGNko0UjhKMHlpRkFoUDNWNFBqTXA4LXloY0REQ1A1S3FCMF9YZEQtdQ?oc=5>
 
-### 特朗普发布一张疑似显示FDA局长马卡里辞职的图片。
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-12 19:28
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFA0ZHlPZGpocm5panhTZmtlY0RWRUJ2VURZaVZOaENpazVvbzc5Vnh6VzRWdUpsMXhfSWZvQlVubGRsWlZ1dDBrUHZoNnBDTmdsTkJPbTFFd2lHQU9LZmdPOHFEbHA4ekw3MG5UeWQ4SVlpdG5XR3BuNw?oc=5>
-
-### 特朗普携强大的商界领袖访华
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-05-12 20:41
-- 链接: <https://news.google.com/rss/articles/CBMi-wFBVV95cUxOcDg1MWdOVXJZQW9wc0tVZGVMMklrZVNYS1hTU0FoRUIwdEk5VWVSM2RQQ29PMU5MYU01clJ3NmhiN0NmTGU5cHEweEh1VVhRbHU3RUVwTWJBUUp1eEdrTjhRd01QSlU2YXFNTkU0bzRmb1FBaVJYSUhfMWdiWUhIZHB0LVU2Z0w2Rng5UVhnQTJSbndpVEVXWWE1MHBmbWp4bUY5bkxPRHRob0w1SDd5QmdGcGd4eEoxNzN2eDZQV0NoUHVjVVJFMERtY0NYcnVINE5KV0ZkMTJqcjcyODVRSWVsMkdUbEI2WTRhbTRnaVd4VTh0eE9LRS0xaw?oc=5>
-
-### 还是谈不成，特朗普没招了
+### 特朗普将访华，联合国发声
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-05-12 10:00
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE53QVVkWEJsTFJfVlNMVS1FVFItdk9zVjBoVTZmekZCVG9sWnhpa3FuMHdxTTZqdkU0M0hEU2tlNzREZzhnUnlxeVkyOEI?oc=5>
+- 时间: 2026-05-12 14:03
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBqd0ZBeTdmTDZsQ3BnU1hxcHp6LUZqN2VuZ0J2cjdqZlpRcFNIcXh3REEwd1lGTThhTDdMYW9KOTA4Y0pBd3FuNjNvcXg?oc=5>
 
-### 特朗普称阻止伊朗研发核武器“只是时间问题”
+### 美国总统唐纳德·特朗普今起对我国进行国事访问--国际
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-05-12 14:23
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1eDZZR0Q3bHVRVklUNF9xbjlLazNHZGxHYXo4eGZ2ako0aDlOc0NtajVCTC1ST1FJcGJIdDZqcUU4UDloMlNRQ05Pa2tsTDFGNHJueGFaNWY0Qjd1bi1sLTRhZlI?oc=5>
-
-### 据报特朗普政府暂停推行下调牛肉进口关税计划
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: AASTOCKS.com
-- 时间: 2026-05-12 16:44
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE5qZm1wNFVNa1FxdlE1NTNMYWdYNENZYVdHOXhwZHNGSVA1QXZGNkZMSV8xR0YwcGpHYWx6STVLVE5JblFqZXNHa0dQcHJXekxMNVVCRzNQSGdZUnk0enptSnZjWGpBVEhLd3BFQWtmYw?oc=5>
+- 场馆: 人民网
+- 时间: 2026-05-12 22:22
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTFBaZ3RIaktqUXBBQ3VMMVlEUTlWSkFBWDY1SFBhRWR6TXBGaUkyTEJCT2xpdF9reVJmTU0tU2FpZFVYZVIyTE5BREQzbGFYVFJaSk5RVTBPVlpoVXJFcldmSnFBOUFpWHpsZXJv?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-12 22:58  (3 条)
+
+- **特朗普** | 特朗普批评媒体有关伊朗 “局势向好” 的报道。 <https://news.google.com/rss/articles/CBMieEFVX3lxTFA4MXdCdEVvTDJBSmE4ZWR5Rzg0WXk5QzN3dnlOX2RYVG1UY19JU2F6dWlqT1lxb3YwLVJ0TWJfYW5Rd2NKd2d5TGZEWTRwUGVGNko0UjhKMHlpRkFoUDNWNFBqTXA4LXloY0REQ1A1S3FCMF9YZEQtdQ?oc=5>
+- **特朗普** | 特朗普将访华，联合国发声 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBqd0ZBeTdmTDZsQ3BnU1hxcHp6LUZqN2VuZ0J2cjdqZlpRcFNIcXh3REEwd1lGTThhTDdMYW9KOTA4Y0pBd3FuNjNvcXg?oc=5>
+- **特朗普** | 美国总统唐纳德·特朗普今起对我国进行国事访问--国际 <https://news.google.com/rss/articles/CBMia0FVX3lxTFBaZ3RIaktqUXBBQ3VMMVlEUTlWSkFBWDY1SFBhRWR6TXBGaUkyTEJCT2xpdF9reVJmTU0tU2FpZFVYZVIyTE5BREQzbGFYVFJaSk5RVTBPVlpoVXJFcldmSnFBOUFpWHpsZXJv?oc=5>
 
 ### 2026-05-12 21:47  (6 条)
 
