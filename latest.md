@@ -1,80 +1,91 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-12 13:19**
-- 本轮扫到 873 条, 新增 **8** 条
+- 最近更新: **2026-05-12 15:59**
+- 本轮扫到 881 条, 新增 **8** 条
 
 ---
 
 ## 本轮新发现 (8 条)
 
-### 特朗普总统访华前夕，CECC两党领袖致函白宫敦促特习峰会上提出中国政治犯问题
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-05-11 17:00
-- 链接: <https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMmFrTUVmUjVGanFWY3U0dDdmbXQyeEZlRWlwYmljYWVObUNsMGM5R19PalRudUZJd1JIZEJQNTZhOTZmZlJhV1I3MzgwZHp5R1JnLW43V1pobzFEa3hyeXFreUZjTnB4Q0xNSlNOZXBzNS1QcExZbkRDemFIY1d3MXFRUkZUY1Fad3RyTTRBR2xuOFVQQWF6NEFjU19LOHhDRFdtS3pYSU5MY1VDUzEwN0lkWFZkdzUzSkp4cHFfUjI0ZFnSAcYBQVVfeXFMTV91dXhvUUlWWnEzd0NRbkF6TzI0Q1hmcV9XQWozMVVzNUtsak1CMkw0NjFOVUVDU0IwOU1QVFExWTRNdzd4V3Q1QWlNdk1WNnBNRC1ZcWk0aWZmVlVKUTc0Ulc5N2NqekhpUVIzWDU5YmlTTW96dGZCb2dKTXVjLWYxTXZDTlZZWjF4M2lTeHNid3dGWE5YTzBVam0wV3UtOVI3b0piUENnLVRJLTdiY0JmZ2xqdzhyUmR2czFqcXdMTjEyQ3h3?oc=5>
-
-### 特朗普总统支持多项降......_7x24快讯_新浪财经
+### 美国总统特朗普：非常期待即将开启的中国之行，中国是“一个令人惊叹的国家”！
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-12 13:05
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1fdEp4c2FuX0diaEpiZi1OTVkzWWpJT2pqT2RJSmE1RE9Hdzd5WG5KNFJHTzA3cGJpZjVfU1h2Vnp0UkRhdXI4TjNRMA?oc=5>
+- 时间: 2026-05-11 23:06
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE1RNllFNFZzS0pUajUxQ0t2c3Vrc1NFR1loaTc2YW9TRG9OUzU2NFdGMHVxNGlXSUFPRHdYcktnbTF1RlE0eXlrLWRwTkExSDhpTmNLRVdoU1E1TE9zc0VpT0ZCZnZwWUt3TnlSUlQ3dTFHMGt2X1E?oc=5>
 
-### 柏林飞鸿 - 特朗普访华——谁才是真正的超级大国？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-05-12 11:59
-- 链接: <https://news.google.com/rss/articles/CBMi3gJBVV95cUxNaFFKdkt5UGJ0WDhxbDVqZnNDdjNmcnRfX3RFdGdUQmJGNmFINHkxSm5KQnkxcXhHMGtLQ2ZCdFRPZHBSanFwRDRGWGthM3h2ZVdWeFA5Uk5iTmxVMWFpRC1xZ0I5Z21DbzBIUGxma3BEVWRucWkxRERaLVZYekVwV3JiNFBWbXcxOGY5Z0FKb0JWYTMybzBtbWYtS05TQWhlTHlEU3dBZ0dnSE8yOXZVVXZoMWg1V25ncjExUzB4U21CQmFOSGxpWkx4ZE1HUjJBRkMzY3FZM0tvSGRNaFVKeXNlbUt1dkU2RG5GX0s4clVsMXFscllzMTNtOUJ3eEVNZDdpN0p4eDdSRWVwUWtFQTNVT3dwaUpmRVc3VEcxc05aSGhnRG12ZGpjREYxbnZ0dllUQ08tQmhnbW1NdE1kWkJBZkpDS0JXSnZ5NTBaa3Q2Q2JGeVR1UmxfMGwwdw?oc=5>
-
-### 特朗普求合作，中方更有底气
+### 视频评论：特朗普将访华 世界聚焦中美
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-05-12 07:32
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5lOE4zb0l1MXRkTlRMOEdNZ1NjWXhTb29yZG14U1JFOTMxMTR6OU9mQ0liV2tKUHc5dXZWa0hmMWNoVnBaMEVOaFd0LTYyUjFGd0lKQWhGUWdISXJ2djJDR3FfdWl5ZlFjdnc?oc=5>
+- 场馆: 中国日报网
+- 时间: 2026-05-12 14:00
+- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTFBjbTdQMmg3di1Eek9yN2p4VG1VcHpJX2RjRktSUllxV1k2aXQ3UDJENmhaRWNzRmthd0pvZjBrcnZiYjZZbS1XaUx2c0hzT1JQd01Od19EYnJpcWxfTkwyZE1oa25EaFg2aDE4QzFmR0FOelFub0E4TnFOenI?oc=5>
 
-### 特朗普访华，通用汽车和福特高层为何缺席？
+### 特朗普访华在即，随行商界大咖都有谁？马斯克、库克在列，黄仁勋未获邀请
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-05-12 04:01
+- 链接: <https://news.google.com/rss/articles/CBMiygFBVV95cUxQWktNZEVteFdMV3Z5SERnb2JJdTFNY0M0dU1zSUZRMkY5c295TEdYaldjY3NVTzgwUTZDMUwtczFGMkxrOWw4OHNMclBQYkdHbzNsZnRCTFFGZmFycHlESmpWcE5QOWVDRnRrbWZ0ZlJzSWt0d0c4cDlzamNlM1MzRVBOWUNlX1pybVRseG1SdlBNa1VBbkJZZWRkdlFzbkFROHFISXJoSDhoUnh0Q0owTVVfaTVlXzVGczl3ME1BZDZpSGtjSmVvd213?oc=5>
+
+### 马斯克、库克等将随特朗普访华
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-12 14:16
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTFBMTjl5SFpCbHFORnVvdnlBWFdCX0RYVklEMXJKRHdkeU5XOUl6bDhDV2FmSWIyWmM4bzhKZ3NYTmhjTXEwQmdvWFJibndBTHZ6ZDhOT3lEZ3UwWS1oeHV0MnotMFFnQTVRNVF5VENyb2NCczNZRHc?oc=5>
+
+### “特朗普‘更认真考虑’重启对伊朗军事行动”-观察者网
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: guancha.cn
+- 时间: 2026-05-12 09:43
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE05U005YVkycFNSbFlhdC1rRWRKYTJ6MUpDQUx3aHJjbEdrRnEyQl9BTnpRRnZpT3oyT0h2R1lYclhqZkVWZW85NTd2Q2oxdGwzVzR5eGhyQ3YwWUNMbTZkZUFFMU5tUlRLQkE?oc=5>
+
+### 特朗普要来了！美驻华大使馆附近酒店已无房，警车待命
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-05-12 10:41
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1VYTF6SHo4cFExcFBvMDRiRXhHLUpqemZaeEhUdFBYajctOTZnTkhRSENGa1hNaDJ0VExKT3FLX1JuQzNaUlJoU0U4eGg?oc=5>
+- 时间: 2026-05-12 08:07
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1SS29NLUtxZFJuR2Vpa1c0SkkxZnRaZnZLeTlmRUpQSkdJd3Z3UG5wMWdqMC1Zckp0ZXNyaFlrMllzRGJTVzdVeFB1VlY?oc=5>
 
-### 这些美国企业高管陪同特朗普访华
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: DW.com
-- 时间: 2026-05-12 10:20
-- 链接: <https://news.google.com/rss/articles/CBMi_AFBVV95cUxQcldvOEYxaC1MMWVaUktCM2JuU0FKYlR3RFYzeUdlX0oyZ3pjRF9PMmxpOUx3cTl6dThuNmVnNFQzU0Jnekw1NkxNZ25pd0FWR3JRa05fMExxZWtpZ213WmxGM3Y0RVZIOVRCTW1iVXNPYTZLQWdiTVhpQ1BPQTlPbTJxWW1XZllnWElSSGFTaXVTRWNraE1uUjhmRVp6VXVpaXFWUmZzOHd3cU91djFPSnRDN3dhNGVKUmxXZjdVOG9jMnVka09jeHd5MExUTkRyVlItdUljYXRIMm1CS3h0OGw5b0FZVk1SWWZ4dmU5YldzcW5Rdm02LVJmZ0rSAfwBQVVfeXFMTzYyTm84X3dOWnBudE1hQnY4ZU5YcVlLcHlqMF9SNmZwRWZpbmo1eEtrMGhqSmJpQTVqSDBPSkVhbGVkRjNPVjNJRnc3T3FCc1pXal9JYnNYWkU0M3lrSVhhU0swUFNMWWhIRDZtLXZQRjhrbF9JYjZUZDNKQjlqQmlNX3RuQmlKWDd2ZkRHa0FCZHMtZFRhQ3JIeUtPZnNmYmhlM0JuSGl2R3hqOHhkWk5TTmtLdGRvSDNac2JKTDZCajNfZFVNWlV6d0xFSDFWdjdlTlkzejhSU2tkaTlkZVVkNDdsYmZnZV9kSVU4VzFQNmpic01yOGdNak5D?oc=5>
-
-### 特朗普北京行将谈对台军售　称会再度为黎智英发声
+### 习近平或就对台军售问题向特朗普施压
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: DW.com
-- 时间: 2026-05-12 03:16
-- 链接: <https://news.google.com/rss/articles/CBMi0AJBVV95cUxPb09CX25PbkM1Q1V6cG4tYjVVOHBBNEZkQ3hIb2ppYXJfUFNpci0tTmlaUmZqNG5CUWxLNHpSY1R1Ulk1bU5sYVJkZDNuQU1MTlRWNjNMNW8wSHRySHJfd2lDampsdFNHRV83cXRnVDYxSWZQdlBsQmVvbHF0ZTNPYWFoU3JnRXhwYUxHcXVsQkRLdzRaMklkZXRQQUhnbE40dG5KYS1Qc3VMYVU4SzhmS0dfRHlmM2R0QUQ2SVhTSGVmQi1uZ1FBSjgxX0V4azRwTm1ucWZkTVFFUFF2YXB6dW5URVFUWDRnczhWVVRLS1JOZEk0VWRqaWxqem1RTEtDYlc3UHlNd2NETzhIZE95b2JqWE1IWlJ0bFhfN2U4bEx5TEQtU0VsVHQtMWRrc1JHMnFtaU5MWU1VVVpaaTBpM3JvbExXSG1yaTN5U21sMEHSAdACQVVfeXFMTUZpUmFjOUtTTXIzemhwTEk1ZlpaMDdpdWxHM1MyOUt5bVV2MTdrVzdGcEp6TEpvemM2VTMyTW5GYTdNRlpoZXNQQmVHb2ZIeVpzY3k4Qm1kbHVSUTJMa2JOdW5uaW45eGRYMmZVbGM5NVpTa1dOZHZyN2tfVGdfVWJDc05pQWtTZE9BZGEzV2VWZFpuenZZei1uQTdhbjR4MWJyU05sMUZxR2QyT1dnRVk2S3RWdXBSQWhENUVMSmVrMHdLY0hFMmV5WU1xVUVVSmxMRmwzMEJGVEhFTlpFNlVRa294NWpicWdSenhMR0c3M0dTZWVOUW80SlZUWFd1amo3Z2FVdk5CM1VkLVA0Y3NoNVdIQ01COUJaT0NqLUJkS1MtdzQ0ZmY2YzdMRjFJT2lVT3BtcHVESWZKZXhVbVZqQ1BZSkpjZVlnVHlwZ2dZ?oc=5>
+- 场馆: 纽约时报中文网
+- 时间: 2026-05-12 04:39
+- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTE1NQk5TMnVNb0ZBN2ZrQzUxenEtV1lIcVh4dENZc2daMXhfRjNOcXFUMVNqbTFyWmthSk40cFN0QUkya2RMemtGd1YzOE1tQ1VZRG5vaVctY2h6ei0tRTBzNi1iVl82VGRfV3g5YWxqa3Jmd1hiZWJ1VVAyOA?oc=5>
 
-### 美股盘前下跌；特朗普称美伊停火脆弱、通胀数据将公布财经新闻Financial News
+### US President Donald Trump said a ceasefire with Iran was on life support
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: AASTOCKS.com
-- 时间: 2026-05-12 11:07
-- 链接: <https://news.google.com/rss/articles/CBMihgFBVV95cUxPOTNCSlJJb28zdVhTRFE3Wi05eE90MnhFN2NrZzR3STJBaTZidjVSV3hILUVUV2VuTUthd3M1MU11M2R2THo0Vmg1NUVyMkpkbGxZbmp4WXNsTFZmYXcwRFMtak91UWt2RE1FSjV1V05seUZZaW5RbzBTcDJXbE1SeEU1SWZGQQ?oc=5>
+- 场馆: news.tvb.com
+- 时间: 2026-05-12 14:02
+- 链接: <https://news.google.com/rss/articles/CBMi1wFBVV95cUxOamo0eXI4LS1PYzhxNFdNbnlETEpxQTV4WDJKdHFtSlNPeHFQamQzbEJrV2twck5YNm03dVE2STFITDktT0FqaGVhRlRDOWdvZF9LcDVSLUx0eVFTWVVkTWVyZDEzTHRkQ1pDczdkeFBIZ2RaM0g2MDlYbjNlNWQtcVZpWnJYRGRrUjl4Zld3ZG1YOGZmdDNFQ3MyWldOZ2puYzhKYjV1SjlfU1BTWXFOZWUyUmI1RlEyM1Jlc0VxNnVrTnN3YldHYl9oNXlGWFJYUGpQQ3I3cw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-12 15:59  (8 条)
+
+- **特朗普** | 美国总统特朗普：非常期待即将开启的中国之行，中国是“一个令人惊叹的国家”！ <https://news.google.com/rss/articles/CBMidkFVX3lxTE1RNllFNFZzS0pUajUxQ0t2c3Vrc1NFR1loaTc2YW9TRG9OUzU2NFdGMHVxNGlXSUFPRHdYcktnbTF1RlE0eXlrLWRwTkExSDhpTmNLRVdoU1E1TE9zc0VpT0ZCZnZwWUt3TnlSUlQ3dTFHMGt2X1E?oc=5>
+- **特朗普** | 视频评论：特朗普将访华 世界聚焦中美 <https://news.google.com/rss/articles/CBMifEFVX3lxTFBjbTdQMmg3di1Eek9yN2p4VG1VcHpJX2RjRktSUllxV1k2aXQ3UDJENmhaRWNzRmthd0pvZjBrcnZiYjZZbS1XaUx2c0hzT1JQd01Od19EYnJpcWxfTkwyZE1oa25EaFg2aDE4QzFmR0FOelFub0E4TnFOenI?oc=5>
+- **特朗普** | 特朗普访华在即，随行商界大咖都有谁？马斯克、库克在列，黄仁勋未获邀请 <https://news.google.com/rss/articles/CBMiygFBVV95cUxQWktNZEVteFdMV3Z5SERnb2JJdTFNY0M0dU1zSUZRMkY5c295TEdYaldjY3NVTzgwUTZDMUwtczFGMkxrOWw4OHNMclBQYkdHbzNsZnRCTFFGZmFycHlESmpWcE5QOWVDRnRrbWZ0ZlJzSWt0d0c4cDlzamNlM1MzRVBOWUNlX1pybVRseG1SdlBNa1VBbkJZZWRkdlFzbkFROHFISXJoSDhoUnh0Q0owTVVfaTVlXzVGczl3ME1BZDZpSGtjSmVvd213?oc=5>
+- **特朗普** | 马斯克、库克等将随特朗普访华 <https://news.google.com/rss/articles/CBMidkFVX3lxTFBMTjl5SFpCbHFORnVvdnlBWFdCX0RYVklEMXJKRHdkeU5XOUl6bDhDV2FmSWIyWmM4bzhKZ3NYTmhjTXEwQmdvWFJibndBTHZ6ZDhOT3lEZ3UwWS1oeHV0MnotMFFnQTVRNVF5VENyb2NCczNZRHc?oc=5>
+- **特朗普** | “特朗普‘更认真考虑’重启对伊朗军事行动”-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE05U005YVkycFNSbFlhdC1rRWRKYTJ6MUpDQUx3aHJjbEdrRnEyQl9BTnpRRnZpT3oyT0h2R1lYclhqZkVWZW85NTd2Q2oxdGwzVzR5eGhyQ3YwWUNMbTZkZUFFMU5tUlRLQkE?oc=5>
+- **特朗普** | 特朗普要来了！美驻华大使馆附近酒店已无房，警车待命 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1SS29NLUtxZFJuR2Vpa1c0SkkxZnRaZnZLeTlmRUpQSkdJd3Z3UG5wMWdqMC1Zckp0ZXNyaFlrMllzRGJTVzdVeFB1VlY?oc=5>
+- **特朗普** | 习近平或就对台军售问题向特朗普施压 <https://news.google.com/rss/articles/CBMie0FVX3lxTE1NQk5TMnVNb0ZBN2ZrQzUxenEtV1lIcVh4dENZc2daMXhfRjNOcXFUMVNqbTFyWmthSk40cFN0QUkya2RMemtGd1YzOE1tQ1VZRG5vaVctY2h6ei0tRTBzNi1iVl82VGRfV3g5YWxqa3Jmd1hiZWJ1VVAyOA?oc=5>
+- **Trump** | US President Donald Trump said a ceasefire with Iran was on life support <https://news.google.com/rss/articles/CBMi1wFBVV95cUxOamo0eXI4LS1PYzhxNFdNbnlETEpxQTV4WDJKdHFtSlNPeHFQamQzbEJrV2twck5YNm03dVE2STFITDktT0FqaGVhRlRDOWdvZF9LcDVSLUx0eVFTWVVkTWVyZDEzTHRkQ1pDczdkeFBIZ2RaM0g2MDlYbjNlNWQtcVZpWnJYRGRrUjl4Zld3ZG1YOGZmdDNFQ3MyWldOZ2puYzhKYjV1SjlfU1BTWXFOZWUyUmI1RlEyM1Jlc0VxNnVrTnN3YldHYl9oNXlGWFJYUGpQQ3I3cw?oc=5>
 
 ### 2026-05-12 13:19  (8 条)
 
