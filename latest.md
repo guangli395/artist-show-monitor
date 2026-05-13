@@ -1,40 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-12 22:58**
-- 本轮扫到 903 条, 新增 **3** 条
+- 最近更新: **2026-05-13 00:00**
+- 本轮扫到 907 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (4 条)
 
-### 特朗普批评媒体有关伊朗 “局势向好” 的报道。
+### 特朗普经济顾问哈塞特：特朗普相信霍尔木兹海峡很快就会开放。
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-12 23:06
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9UdVhpbjdyWmhKeUpyQW1vRVFaUjNZZ3JBUWlpVmM4WTA1dTlVSWFSTlZzTVl5WFRSeU9jTF96ZUdhMUZMNE52SGg0RQ?oc=5>
+
+### 美伊博弈持续 特朗普称“不着急” 伊朗设谈判门槛
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪网
-- 时间: 2026-05-12 20:25
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFA4MXdCdEVvTDJBSmE4ZWR5Rzg0WXk5QzN3dnlOX2RYVG1UY19JU2F6dWlqT1lxb3YwLVJ0TWJfYW5Rd2NKd2d5TGZEWTRwUGVGNko0UjhKMHlpRkFoUDNWNFBqTXA4LXloY0REQ1A1S3FCMF9YZEQtdQ?oc=5>
+- 时间: 2026-05-12 22:26
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBPMkgtM2VIMzA4WTVJQlZlWmhZNkhTX1JHbFgtemxYRGJkT3R3d244TGJuOWlLdHdaVDh6TEQ4b0VDMExpcXVwNWlkaDk3eU0zN3dTVXUtelBQWFo4U2dZVmU1d2NUMUlXZTdkaS1PSmxDRkM0S0l3Wg?oc=5>
 
-### 特朗普将访华，联合国发声
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-05-12 14:03
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBqd0ZBeTdmTDZsQ3BnU1hxcHp6LUZqN2VuZ0J2cjdqZlpRcFNIcXh3REEwd1lGTThhTDdMYW9KOTA4Y0pBd3FuNjNvcXg?oc=5>
-
-### 美国总统唐纳德·特朗普今起对我国进行国事访问--国际
+### 马斯克库克随特朗普访华
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 人民网
-- 时间: 2026-05-12 22:22
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTFBaZ3RIaktqUXBBQ3VMMVlEUTlWSkFBWDY1SFBhRWR6TXBGaUkyTEJCT2xpdF9reVJmTU0tU2FpZFVYZVIyTE5BREQzbGFYVFJaSk5RVTBPVlpoVXJFcldmSnFBOUFpWHpsZXJv?oc=5>
+- 场馆: 财联社
+- 时间: 2026-05-11 23:27
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE9uR29UV0t2V0FrTUprZ01LR1dNMDVkR1pKRVA4VDdDWWowejkyLW96eW9yV1NWNk5mMFdpYUhKMkNscUpiSlhiVg?oc=5>
+
+### 特朗普访华期间是否会讨论台湾和香港有关问题？外交部回应
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-05-12 07:17
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9seHBWNEx4Tl9TdnloS2lpb1g3ZUNXQjFTSDVxRWpNV21NdDVPYVVrRFN6bm1ZMTlIMkszaU1WREFzZGN6TWxHbFZvb2UyVjNHa1JPUUttSl9JN1F4ZDRGUw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-13 00:00  (4 条)
+
+- **特朗普** | 特朗普经济顾问哈塞特：特朗普相信霍尔木兹海峡很快就会开放。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9UdVhpbjdyWmhKeUpyQW1vRVFaUjNZZ3JBUWlpVmM4WTA1dTlVSWFSTlZzTVl5WFRSeU9jTF96ZUdhMUZMNE52SGg0RQ?oc=5>
+- **特朗普** | 美伊博弈持续 特朗普称“不着急” 伊朗设谈判门槛 <https://news.google.com/rss/articles/CBMieEFVX3lxTFBPMkgtM2VIMzA4WTVJQlZlWmhZNkhTX1JHbFgtemxYRGJkT3R3d244TGJuOWlLdHdaVDh6TEQ4b0VDMExpcXVwNWlkaDk3eU0zN3dTVXUtelBQWFo4U2dZVmU1d2NUMUlXZTdkaS1PSmxDRkM0S0l3Wg?oc=5>
+- **特朗普** | 马斯克库克随特朗普访华 <https://news.google.com/rss/articles/CBMiSEFVX3lxTE9uR29UV0t2V0FrTUprZ01LR1dNMDVkR1pKRVA4VDdDWWowejkyLW96eW9yV1NWNk5mMFdpYUhKMkNscUpiSlhiVg?oc=5>
+- **特朗普** | 特朗普访华期间是否会讨论台湾和香港有关问题？外交部回应 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9seHBWNEx4Tl9TdnloS2lpb1g3ZUNXQjFTSDVxRWpNV21NdDVPYVVrRFN6bm1ZMTlIMkszaU1WREFzZGN6TWxHbFZvb2UyVjNHa1JPUUttSl9JN1F4ZDRGUw?oc=5>
 
 ### 2026-05-12 22:58  (3 条)
 
