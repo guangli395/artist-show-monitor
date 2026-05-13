@@ -1,48 +1,80 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-13 22:44**
-- 本轮扫到 987 条, 新增 **4** 条
+- 最近更新: **2026-05-13 23:52**
+- 本轮扫到 994 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (7 条)
 
-### 独家视频丨美国总统特朗普抵达北京-腾讯新闻
+### 周杰伦海口演唱会粉丝点歌 平等羡慕每一个演唱会被点到的人
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301bkue.html>
+
+### 马斯克等随特朗普下飞机，黄仁勋换了西装
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: QQ News
-- 时间: 2026-05-13 11:49
-- 链接: <https://news.google.com/rss/articles/CBMiV0FVX3lxTE9taExwTGRyMlVwWk5PWHdldlpKMTZYN0RTc000MmtVUVE0REhMLTlyclhmLUZJT0xwRUxWb2JyVXRleUc3TkYzc1drV2ppMjBFWXZaZ3FjZw?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-05-13 16:30
+- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxNTW1ES2ZoSEthYm5ha3VDcHBsdTZpSUIwWmlVWGJPUWxPdkpsQ2ZqaWozN3IybEdVeXlDWHA5cGJNQUNiOXFneEpsU0hSS3BNck1ZN1ZwejlaUHQ5U2FtU1dxcjg3ZkRaT0k5dW9ZRVZnbDZxMXlxZUYyNGoxcFVZNkFRVlFUUDdOc1hyQUY2ZVJsU0tETUFaZg?oc=5>
 
-### 图片集：特朗普总统抵达北京，中国举行欢迎仪式
+### 美国总统特朗普抵达北京
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中国网
+- 时间: 2026-05-13 23:27
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE1rMy04MHItQV83S2hxRWdUNDNXVTlaY0c3eURfV0xPSHcySG00T1pMRFA0TW1BWGdUaE5TMkhnYmxpdzR2RHA3NlVIUXp5aUpNcGxVbGl3MDRaRFRMbjQ2MkVHWnZTQ29qQWhraW92OA?oc=5>
+
+### 特朗普移动公司开始交付499美元智能手机，在美国组装
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-13 23:33
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxQTEtHZ2c1Y1g0U01UbDFONnp2NGZLeTdjeUJyWkRGMGpCcktnZTN0VXk3cHlPTmpSbDJFMm1QU3dxMjJ4emhmUjhVdTI5a18xanhQWkdpYjF2Z0FQWEFmTnJBa1JIcWV3bXBOcnBpUVFzOUZQWkRyYnQzZ3Z5Um5MaGVtNmxvR1U?oc=5>
+
+### 美中峰会之际，众议院一致通过决议敦促中国释放政治犯
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 美国之音
-- 时间: 2026-05-13 21:28
-- 链接: <https://news.google.com/rss/articles/CBMiugFBVV95cUxPSUQ4TjN3TmlWT3BiRUZuOUotVFBmZzBjS0t4N2RyZlhnMGdFdGVLOXB5dUN0RmN5MGRqOGE5czhXdUVnYXBGNXNLLTJJOXNUc3RQdFpiRVpRbHZQVGN6TlU3SkNYODhTN1hGOTNjT3dtdkRBSWxIaXU4S1h2SW9ubmxhRlpWNkVIMFM0eDVCX1NpUmtRT2p3S3N4SUIzQ0MtS3dHRDhJbzlfQXo1T0ZCWlloQlAwQTNJc1HSAbwBQVVfeXFMTm9LTlJYdTFsNWFnVWs2VzhVdjBFRHVGd1BsLWxTSlQ3VGRQT2FoMXNaZ2lYTS1leHZzS3VuNXdMRDA3c0xzc3FSamhMUTBjOGxsZUhHb2Y2SnlNdlRUVEl2VlcySlhmZWFWOUx3TjJiS3NYS2ZkbUo4N3BRYVptV0RYOWhQTHk1VlE4aGVoY2l4V1FneEQteVJJb19DR3BJM0Z5VTFjaG1JREZvY2F6RjB5SVI5OFN6cWJHeEU?oc=5>
+- 时间: 2026-05-13 23:27
+- 链接: <https://news.google.com/rss/articles/CBMi6wFBVV95cUxQaGdxYlVPaGI2N0EzeTB1cUR2Smh6d2xEenUzaXB3eV9BSHd4MzlwZlVVdVpVY05jUV8xcHpUdXI1ZGxoOC15bjRXNWRRbGVsUlBYTjlTSjY4QXk4Mm40UXVfWVJRWHdCTWxob0lfMmVTT2FreERhaS1BZkVGSHJwQ0IwWDVzQmxnSElTM3BqTkVDZ3pMUHlQZGdoTU15ZlVuRlIxUVVfaG9xQUZrVTJiY2dSLTI0TTRkZk93bW5SMU1vSGYzMkIwQmNhcTE1a04tZEpWYmtrYllvR1NQRFZKT1VfUEVXU2lnMXRn0gHuAUFVX3lxTE9wa0U4M2pUTkhEenFzN213QXVqbTFQamtpd3RVR09Qb0JrSjlFeG13M1lua29qbUlHWDRkYVUxck1qUW5faDMxNHZtakM1YTJLVmRyOVBjeXdhUG5ESDZPdGtaY0plamlFTnhRMkRzaWw4Qk03dHl4UXRDdkxlTEVGSnNodWFWYy1HeW5nZUwwa0xDVzg4UGxYcEhZLVpMZ3Jvb25uY1Z4bzhtelktbkVtUWNSQzRpYjBKV3dCYV9neFFabFR2blR1UkdQSjIyaS1kTGlpZFhSdVFFM0FaNkJkNEo2Ni12N0NmbXdqR1E?oc=5>
 
-### 视频 | 看现场！十余位商界代表随特朗普访华
+### 美国总统特朗普启程访华
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Sina finance
-- 时间: 2026-05-13 13:10
-- 链接: <https://news.google.com/rss/articles/CBMizgFBVV95cUxNSXMyNDNBX3hVeXU4R3NXazZfbjU3djhsbTVubzhCWWJtTEdyWnhGTDJhNDBPQjB3RFhtRDYtT1puMWVlVWp3ZUNDOXUwQ0FSSHZ2OVFldDlFaUo5Y0VIZTZmeGZfRmZKVVZOMzhkNDNzMW1RZTN4Z1NSZ0Z4NFFyOC1iekpHU3M5cHRxYXlHSEhuRG9CVnF6LU9WOXBVc0ZaSnl4ejZUX3pQa0tEZmpqdFU4ZXc0Nkk4aExTUHR6WU42MVNZaG5ZY21xRzJ1dw?oc=5>
+- 场馆: chinanews.com.cn
+- 时间: 2026-05-13 01:04
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9yVC1lc3BzWnBFNTdGVmU2eUxqR0FkdFZuTHRiVm5xU0UyY0VjU2ZablJZRDRtSVpXcEZ3VXdIcE1MNE1LUWRhWXRlMXI0VHhSdjY2a09VSHMwaWt0T05BNmI5ckhaOXJRaDluLXNDbmU?oc=5>
 
-### Trump arrives in Beijing; Xi's busy Tuesday; Fair competition and unified markets; Action plan for AI and Energy
+### Trump Mobile开始发货延迟推出的T1智能手机美股US Stocks Quote - 外围新闻内容Golbal News Content
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Sinocism | Bill Bishop
-- 时间: 2026-05-13 22:17
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HalRfNjNMemw4WnNEazVsQldTN0E4YVBTOXlLNlFQVUNSQTlxc3o2cV95SDNSbjRVdEtZbzlaZXUtR2JhV1h4SWZ5QTh2eGw2cDhsZV95OTljdGlpeW5US2xxQ2ViUU0?oc=5>
+- 场馆: AASTOCKS.com
+- 时间: 2026-05-13 23:38
+- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxPUnBpQVR5LU1fQjJsM2ZKMXhxWWRSX1Y1MVdlbVRQU3NHekpzSjhYWHMzQy1GVHBVS3gzS0lJSFc4S1duZFFVRGhGZkxYR1V2ak9wdXplSjZmVjlNamlEVU55Tnl5WHlwWmN5WlY1OHhGbGx0S2JIVzhtMzJfa2l5WHNLbVl0MlVVeUE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-13 23:52  (7 条)
+
+- **周杰伦** | 周杰伦海口演唱会粉丝点歌 平等羡慕每一个演唱会被点到的人 <https://k.sina.com.cn/article_7879924009_m1d5ae192903301bkue.html>
+- **特朗普** | 马斯克等随特朗普下飞机，黄仁勋换了西装 <https://news.google.com/rss/articles/CBMimAFBVV95cUxNTW1ES2ZoSEthYm5ha3VDcHBsdTZpSUIwWmlVWGJPUWxPdkpsQ2ZqaWozN3IybEdVeXlDWHA5cGJNQUNiOXFneEpsU0hSS3BNck1ZN1ZwejlaUHQ5U2FtU1dxcjg3ZkRaT0k5dW9ZRVZnbDZxMXlxZUYyNGoxcFVZNkFRVlFUUDdOc1hyQUY2ZVJsU0tETUFaZg?oc=5>
+- **特朗普** | 美国总统特朗普抵达北京 <https://news.google.com/rss/articles/CBMib0FVX3lxTE1rMy04MHItQV83S2hxRWdUNDNXVTlaY0c3eURfV0xPSHcySG00T1pMRFA0TW1BWGdUaE5TMkhnYmxpdzR2RHA3NlVIUXp5aUpNcGxVbGl3MDRaRFRMbjQ2MkVHWnZTQ29qQWhraW92OA?oc=5>
+- **特朗普** | 特朗普移动公司开始交付499美元智能手机，在美国组装 <https://news.google.com/rss/articles/CBMihwFBVV95cUxQTEtHZ2c1Y1g0U01UbDFONnp2NGZLeTdjeUJyWkRGMGpCcktnZTN0VXk3cHlPTmpSbDJFMm1QU3dxMjJ4emhmUjhVdTI5a18xanhQWkdpYjF2Z0FQWEFmTnJBa1JIcWV3bXBOcnBpUVFzOUZQWkRyYnQzZ3Z5Um5MaGVtNmxvR1U?oc=5>
+- **特朗普** | 美中峰会之际，众议院一致通过决议敦促中国释放政治犯 <https://news.google.com/rss/articles/CBMi6wFBVV95cUxQaGdxYlVPaGI2N0EzeTB1cUR2Smh6d2xEenUzaXB3eV9BSHd4MzlwZlVVdVpVY05jUV8xcHpUdXI1ZGxoOC15bjRXNWRRbGVsUlBYTjlTSjY4QXk4Mm40UXVfWVJRWHdCTWxob0lfMmVTT2FreERhaS1BZkVGSHJwQ0IwWDVzQmxnSElTM3BqTkVDZ3pMUHlQZGdoTU15ZlVuRlIxUVVfaG9xQUZrVTJiY2dSLTI0TTRkZk93bW5SMU1vSGYzMkIwQmNhcTE1a04tZEpWYmtrYllvR1NQRFZKT1VfUEVXU2lnMXRn0gHuAUFVX3lxTE9wa0U4M2pUTkhEenFzN213QXVqbTFQamtpd3RVR09Qb0JrSjlFeG13M1lua29qbUlHWDRkYVUxck1qUW5faDMxNHZtakM1YTJLVmRyOVBjeXdhUG5ESDZPdGtaY0plamlFTnhRMkRzaWw4Qk03dHl4UXRDdkxlTEVGSnNodWFWYy1HeW5nZUwwa0xDVzg4UGxYcEhZLVpMZ3Jvb25uY1Z4bzhtelktbkVtUWNSQzRpYjBKV3dCYV9neFFabFR2blR1UkdQSjIyaS1kTGlpZFhSdVFFM0FaNkJkNEo2Ni12N0NmbXdqR1E?oc=5>
+- **特朗普** | 美国总统特朗普启程访华 <https://news.google.com/rss/articles/CBMicEFVX3lxTE9yVC1lc3BzWnBFNTdGVmU2eUxqR0FkdFZuTHRiVm5xU0UyY0VjU2ZablJZRDRtSVpXcEZ3VXdIcE1MNE1LUWRhWXRlMXI0VHhSdjY2a09VSHMwaWt0T05BNmI5ckhaOXJRaDluLXNDbmU?oc=5>
+- **Trump** | Trump Mobile开始发货延迟推出的T1智能手机美股US Stocks Quote - 外围新闻内容Golbal News Content <https://news.google.com/rss/articles/CBMiigFBVV95cUxPUnBpQVR5LU1fQjJsM2ZKMXhxWWRSX1Y1MVdlbVRQU3NHekpzSjhYWHMzQy1GVHBVS3gzS0lJSFc4S1duZFFVRGhGZkxYR1V2ak9wdXplSjZmVjlNamlEVU55Tnl5WHlwWmN5WlY1OHhGbGx0S2JIVzhtMzJfa2l5WHNLbVl0MlVVeUE?oc=5>
 
 ### 2026-05-13 22:44  (4 条)
 
