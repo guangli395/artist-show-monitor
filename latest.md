@@ -1,100 +1,71 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-13 10:19**
-- 本轮扫到 944 条, 新增 **11** 条
+- 最近更新: **2026-05-13 12:27**
+- 本轮扫到 950 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (11 条)
+## 本轮新发现 (6 条)
 
-### 音乐榜发布2022年度榜单,多元评价体系展现乐坛全貌
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905f4gg.html>
-
-### 5月15-17日，周杰伦演唱会！交通出行看这里→
+### 周杰伦“痛楼”、6米高巨型大娃……演唱会期间这些打卡点别错过
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://finance.sina.com.cn/wm/2026-05-13/doc-inhxtvfk9378801.shtml>
+- 链接: <https://finance.sina.com.cn/jjxw/2026-05-13/doc-inhxufve9230415.shtml>
 
-### 特朗普访华前夕 台湾立法院通过“阉割版”对美军购案背后的内外角力
+### 美国总统特朗普将抵达北京
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察
+- 时间: 2026-05-13 11:22
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBtcENvbUtpd0ZOaHRBMFltbm1iS0ZYRVk1UzU0WmFMbW8zRDY0Ni1OZTlCM0xTZjdVS3U0ZXp5aHdWd0FuYjFpT1hVQl9xbnplSVI0VFlzLUxfeWlrbkV5Y1h1YklXSkdhQ0E?oc=5>
+
+### 中国小孩想教特朗普练书法
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中国日报网
+- 时间: 2026-05-13 08:44
+- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTE9PMU1rRG1aWUZFdGdpZjJURXRPTTdNVUREYVR0R0M3T1A2Zk9zcUMza3JrcENsaHBLTkRSUWdYRnYtRFg5S2V0N1Iwc2VQOHdLenRzanliMFY5VHk3VDV3QVBWOHhkVHhIM1JQUEtjQll3bzRpQjFybno3SQ?oc=5>
+
+### 特朗普访华与“特习会”：站在重庆前瞻中美元首会晤
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: BBC
-- 时间: 2026-05-13 09:41
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1IY1pWR1ZRTC1uZDYycFZoNEJpc0E4ektjb0F5VDJyNWllY0ROUVdKSzlMUlFGb1RlVjN6QVQzdVRPSW56VFFqUVNYRzRsUHVWLVJwWUFjSzBKVjhYcE5YOEVkZVF1QdIBa0FVX3lxTE9nUUtLRHYtU0R4blBDVjdkQjMwN3VtYy1WbW1sdjJnLVJvYjE3cGdDbmJQbFViUURYNGc4bnRJUk5JcFZFazl5OFk5a2Frem5yNG11dmxybGtUc3ZsNF83ak9PZFEzODR5ZnhN?oc=5>
+- 时间: 2026-05-13 10:49
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1JRkFxQ2dkemxoWURkc3hCOV9nZTNpQTBxSEI5aHJ3MURTUk5GQU1Nc2tzNTdZYUpzSkQ1Y0JHMUM4OXlfTF9OdEhyZnI0VlAzT0d3cHBxLWI1eXdsbjByclMzNHNLQdIBa0FVX3lxTE1Jdl9lcHlSWUtTY3NzTE11ZGJ6clctSEJmTlR4VXJ5TE1tLUpXVHBxaUgwbHlZZXhzTy1vYWdfQzhKSDZpcmxrRGdDQnVJbXZJVURqd21BYVRvRkZjTDBRMWlNajJGNk9td2pF?oc=5>
 
-### 黄仁勋在阿拉斯加登上专机随行访华 特朗普透露将向习近平提出的首个请求
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-05-13 09:18
-- 链接: <https://news.google.com/rss/articles/CBMi7ANBVV95cUxOeUdZVFJrT3dKcVY4d0lGRnFLQ3RpbHVHNEdGU3NPSE5rd09VM2VwcTNOZUdVVE50eEp0RFRtRmV3cl9UUktYUm02UFQ3Rm5lUW02cURJdkd0elI3MkdPMnp0aWlTZ2cwakMycWxJSVQ1UEVmMkFxeDZ4Tm5mc3I1TnVVeS1CREN5ZGtheENoZjZZQXRGVFRaSVJZclpjSUl2SjRsZGxlTVJNQkV2Z0xfRWpVMldZTEZudGtrRl9PeWNvX2JwUmtaRkZGVEgxcF9FWGVzeVd6X25ldGVxZ2ZYU3VncDRCNF9iOVE2NHJKQWJzUWFSMHVWOHdaYXpoSWRfczhVaGJfT3lCbkoxYWdOSWFqc2VXelZWU0NoOUEtbVdXcVFibmpEbzRfZm0ycGVuYVkyTVQ3WmJPVmhmV2tlY0JpOEQybmxXRXhqRVhjOHUtQ1FHQTFWcEF2TVFlYTJjQkpfalRTY2hxaG43S25MOW9wcmxfRjdsSGIwWk0tYUdyV3MwUHp3YXhlci14ZnZSTTJxUHpPMW5lcXBJNDZTVHliRHhHUnlBakVYaFQ1bVFhdURPUmFpWkxTaXJqTGNiYXVCb19DQ1BEb3lBMjNRVGRVLXlSVW9qNTMybG4zcFZVdUhlNDE4b1RzZTI?oc=5>
-
-### 特朗普称将请求中国提供便利，中方回应
+### 特朗普空中发文：与众多杰出人士一同前往伟大的中国，是我的荣幸
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-05-13 07:28
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1zb1I3NUU4Z1RGTU90ZVNPYW1BZUtQRFlYby1hbzNybUs1ak0xbVF0V1dJM0F3VnJ1VTBzZHBzSWhDSDI5LWNHU3hKV3BoamxGaW1VRTIxNC1WeU05dWN2TWgteGp5LXhBS3c?oc=5>
+- 场馆: 观察
+- 时间: 2026-05-13 06:12
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9ad0pkbUF3elo1Slc4b1V6YUJRQV9hdmZmMjNRTXVmeWY2RHQ0NmlXSmNsbVo4Y3drZE5hWC13N1JUaFhBLXU4TExteFRQTjdhdU1LVTdOS2huVUNJTDRxYU02QVlLTlBkWnc?oc=5>
 
-### 特朗普动身访华，鲁比奥、赫格塞思随行
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: news.ifeng.com
-- 时间: 2026-05-12 23:58
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5GbG9kbC05Q1hnbnJfemMyWTZic0labUdsSi1fbVFaVjNWdEJJbVM5YkcwOS1vVDhSSHV1SHVWTWVxWEJGQkpIRHp2Ry0?oc=5>
-
-### 商界巨头、政府高官、儿子儿媳：哪些人即将随特朗普同机抵达中国
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-05-13 07:58
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCSXZRaE10bjZiQnM0REEtRnZtbUlhNHBKTl8tMXZ3Wm91QUl3OWcyTFVyNy1aOGhmQWdza2FmYlJhZW8zZUlkcFhTc1lCazJiLVp4YWl3Z1VmM01LNk5RTQ?oc=5>
-
-### 特习会：美国总统再访华，直面更强势崛起的中国
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-05-13 07:23
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9GQWxOSzVpb2tDMVE2RlpNMjJKRFNPdGdVTGtEeFlJQWdTZ2F6ekxRUW1VZkhtZEhKY2VMeGNva0laNi1SY0JTbGlEaHVGSFFOWXNqcFppNU5XLTZHbmdVQWw1M1pjZ9IBa0FVX3lxTE11ckpEMkxqaHBhMjJxNENVanpYVWZoWl9NUW92UEJVVWlWMlR1dVFGemxzM0loMWI3Rk9INWZVaE96Wk1YbHVSUnRFY0NsU2VLa1l2R2VqcTBIY3pRcXI0YTZVRWUyM3ZFSTNF?oc=5>
-
-### 最后一刻，黄仁勋背着包，随特朗普访华！知情人：特朗普在看到报道其缺席代表团后，致电邀请
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-13 06:34
-- 链接: <https://news.google.com/rss/articles/CBMivgFBVV95cUxNSEE3R1d5UUZKbk11SDltNU96SUJZSW1DMURjWlh3UzQzNEEyeUw5c0pWcXkwNTh3cTQ0NFVKZXZ3dlU1c0V3MUNnMUJMeFJnVFpxZHUxQ3NYQnhFdjNrYnBFUG5oalEyUzJ4UVFLSndHaVNfM0JwazJZNzBRaFpDSUlUTHd4bWRRTmdMY0JkdFlKNVQ0cWdwcS0wOEkxOVhpdjRsdUVQOEpNaG9IODUtSTRvaG5MS2tCLTRWdEVB?oc=5>
-
-### 中国愈发将特朗普治下的美国视为一个衰落的帝国
+### 习特会走访天坛 古代祈丰收之地成外交舞台
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-05-13 00:22
-- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTE5uSUZ3OFZUMUtUMkcyeVNQUWFVbi02WC1YODNnVlBUYm1HM2JwR3RmTFJxeWZ2NVRXTTF5SjdrcHVlTzktN29xdENpSExKa0s0bGJvNllWRndTclZ5T0tVM0twV0dPZzF1enpwbnRR?oc=5>
-
-### WTI Crude Oil rallies (again) as Trump rejects Iran peace proposal
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: TMGM
-- 时间: 2026-05-13 00:26
-- 链接: <https://news.google.com/rss/articles/CBMi1AFBVV95cUxON3RDcFQ3bEY0ak5XbW8xQkJRZVhPSV9iWFFfdHpTbGpnUmRLLUNQaHJxRmpTdWRXdUt4UHk3cGZzQkRKdW5Ca3JCUnBxVm1oc0JOR1ozTS1LOVBCdnpocWZYV2doYWw5Z1dzTU41eUxCU2FCQUFNQlJrekFud1p1MHVMQW44YzdYR1ZHenNuX1lSMVdHRGJ2R2NQZnhJaU9nM25SU2RJbWo1bFFmOHJCNmtZR2F5ZkJ2OTNBb1ZiTEN4b00tdjQzV2JiM0M3Z0ZucmNRQw?oc=5>
+- 场馆: 8world
+- 时间: 2026-05-13 01:29
+- 链接: <https://news.google.com/rss/articles/CBMirgFBVV95cUxPT1dZdXdsMVRlRFJ1RllJUHF0dG1hVVRla0ZKS2dGTjZWaEcyNEdZZ0ZlSDAzUlVQVnV6eXk5UHpKc3U5V09XNHhNeFBDbVlZbWEta3VvcWxLU2VmRlVQeEFrTGdPcWhQVEs1WTBsRDI0Q2RPOEpSM2syTE1GRmg4VHVoMzdGZF8xaVBMeUdSaHJpRVJDVXJmNC1PVFBDVC0zVUpnaDdydlhwbDFiU3c?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-13 12:27  (6 条)
+
+- **周杰伦** | 周杰伦“痛楼”、6米高巨型大娃……演唱会期间这些打卡点别错过 <https://finance.sina.com.cn/jjxw/2026-05-13/doc-inhxufve9230415.shtml>
+- **特朗普** | 美国总统特朗普将抵达北京 <https://news.google.com/rss/articles/CBMiakFVX3lxTFBtcENvbUtpd0ZOaHRBMFltbm1iS0ZYRVk1UzU0WmFMbW8zRDY0Ni1OZTlCM0xTZjdVS3U0ZXp5aHdWd0FuYjFpT1hVQl9xbnplSVI0VFlzLUxfeWlrbkV5Y1h1YklXSkdhQ0E?oc=5>
+- **特朗普** | 中国小孩想教特朗普练书法 <https://news.google.com/rss/articles/CBMie0FVX3lxTE9PMU1rRG1aWUZFdGdpZjJURXRPTTdNVUREYVR0R0M3T1A2Zk9zcUMza3JrcENsaHBLTkRSUWdYRnYtRFg5S2V0N1Iwc2VQOHdLenRzanliMFY5VHk3VDV3QVBWOHhkVHhIM1JQUEtjQll3bzRpQjFybno3SQ?oc=5>
+- **特朗普** | 特朗普访华与“特习会”：站在重庆前瞻中美元首会晤 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1JRkFxQ2dkemxoWURkc3hCOV9nZTNpQTBxSEI5aHJ3MURTUk5GQU1Nc2tzNTdZYUpzSkQ1Y0JHMUM4OXlfTF9OdEhyZnI0VlAzT0d3cHBxLWI1eXdsbjByclMzNHNLQdIBa0FVX3lxTE1Jdl9lcHlSWUtTY3NzTE11ZGJ6clctSEJmTlR4VXJ5TE1tLUpXVHBxaUgwbHlZZXhzTy1vYWdfQzhKSDZpcmxrRGdDQnVJbXZJVURqd21BYVRvRkZjTDBRMWlNajJGNk9td2pF?oc=5>
+- **特朗普** | 特朗普空中发文：与众多杰出人士一同前往伟大的中国，是我的荣幸 <https://news.google.com/rss/articles/CBMiakFVX3lxTE9ad0pkbUF3elo1Slc4b1V6YUJRQV9hdmZmMjNRTXVmeWY2RHQ0NmlXSmNsbVo4Y3drZE5hWC13N1JUaFhBLXU4TExteFRQTjdhdU1LVTdOS2huVUNJTDRxYU02QVlLTlBkWnc?oc=5>
+- **Trump** | 习特会走访天坛 古代祈丰收之地成外交舞台 <https://news.google.com/rss/articles/CBMirgFBVV95cUxPT1dZdXdsMVRlRFJ1RllJUHF0dG1hVVRla0ZKS2dGTjZWaEcyNEdZZ0ZlSDAzUlVQVnV6eXk5UHpKc3U5V09XNHhNeFBDbVlZbWEta3VvcWxLU2VmRlVQeEFrTGdPcWhQVEs1WTBsRDI0Q2RPOEpSM2syTE1GRmg4VHVoMzdGZF8xaVBMeUdSaHJpRVJDVXJmNC1PVFBDVC0zVUpnaDdydlhwbDFiU3c?oc=5>
 
 ### 2026-05-13 10:19  (11 条)
 
