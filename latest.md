@@ -1,48 +1,141 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-13 00:00**
-- 本轮扫到 907 条, 新增 **4** 条
+- 最近更新: **2026-05-13 04:28**
+- 本轮扫到 921 条, 新增 **14** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (14 条)
 
-### 特朗普经济顾问哈塞特：特朗普相信霍尔木兹海峡很快就会开放。
+### China GT 宁波站今天开票，但一看票价和须知，就知道啦！
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-12 23:06
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9UdVhpbjdyWmhKeUpyQW1vRVFaUjNZZ3JBUWlpVmM4WTA1dTlVSWFSTlZzTVl5WFRSeU9jTF96ZUdhMUZMNE52SGg0RQ?oc=5>
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923704_m1d5ae17f803301sad8.html>
 
-### 美伊博弈持续 特朗普称“不着急” 伊朗设谈判门槛
+### 王一博新歌《未来我来》成贵州户外旅行主题曲
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-05-12 22:26
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBPMkgtM2VIMzA4WTVJQlZlWmhZNkhTX1JHbFgtemxYRGJkT3R3d244TGJuOWlLdHdaVDh6TEQ4b0VDMExpcXVwNWlkaDk3eU0zN3dTVXUtelBQWFo4U2dZVmU1d2NUMUlXZTdkaS1PSmxDRkM0S0l3Wg?oc=5>
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857263936_v1d454554006801kik0.html>
 
-### 马斯克库克随特朗普访华
+### “当初挨了特朗普一拳，中国这回从健身房练出来了”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-05-11 23:27
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE9uR29UV0t2V0FrTUprZ01LR1dNMDVkR1pKRVA4VDdDWWowejkyLW96eW9yV1NWNk5mMFdpYUhKMkNscUpiSlhiVg?oc=5>
+- 场馆: guancha.cn
+- 时间: 2026-05-13 00:52
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFA4SXBIVHVIOTB2bTRhQWZHd05yLWJKWXIySGY0bjdiVFcxYkkyNEFFWXh4SnNoZGw5b0Z3UFcwZG5IZWdZX2ZCWXUxWGRJeEkyTHA4dk1VdGhXR3BGTXY2QXh4cUNSZ0VoSGc?oc=5>
 
-### 特朗普访华期间是否会讨论台湾和香港有关问题？外交部回应
+### 黄仁勋被看到登上空军一号，随特朗普访华
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-05-12 07:17
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9seHBWNEx4Tl9TdnloS2lpb1g3ZUNXQjFTSDVxRWpNV21NdDVPYVVrRFN6bm1ZMTlIMkszaU1WREFzZGN6TWxHbFZvb2UyVjNHa1JPUUttSl9JN1F4ZDRGUw?oc=5>
+- 场馆: guancha.cn
+- 时间: 2026-05-13 03:33
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1iYnl2MjNXZFhmZE5BLVdIVEdGbDMxelY1NlFZRGNRYVNKOFkxM2ZLcndsVlV3akVhOTY1YkFiaXV6ZzA5a0o4dV82VHdaM19pMXpCR25aaGx2c09xdzRzR0F5UHhpaTdRTHc?oc=5>
+
+### 美企高管随特朗普访华
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网汽车
+- 时间: 2026-05-13 03:10
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9RNnVUcFFWM2VybnFrRm5CdEZmUU12amVEUHd5UU94ZVJaUHpZYkp4T0VybmkzZ2VaNjRkaVBRclJmUExNR05zTm5rYTQ?oc=5>
+
+### 特朗普深夜刷屏Truth Social背后：透视总统的内心世界
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-05-13 03:31
+- 链接: <https://news.google.com/rss/articles/CBMitwJBVV95cUxNUFVYMTl5T1ZFbFJadm1fTG9lRDFnMTJiaE9xWHV2NjVQdm1vOHZ6bkZ3NFdzQ2Mtb0lSVmc3R3FDVEJzUWs4NVRPVkdfd0hyRDROZ01KcGJfVVNaUUxpTDlTTDBweXpteGxqS1I2bV9CMlFGdU1ubzZBelJSYlVkN2hsTmVUZVBaOXpsTkkwenNzdGtHWFRXRGlqaDBrdVR5R3VRbXdYXzdnQnBmeTlOT3FGdHYzbWtEU1ZJZDJoYlJUYVg5MmhERkEwRUpZQjU5TEhUTVlyblhIRDhUalNDQk5YRVlJd3JtS0pheERBSkpTTC0yRFdZeXB5Qk5LaTRvVDlxN0MtaEtQSEZsWG1zVkZfTlpESUZ3cXY4WjZuX24yTUdfWWh6Vm1JWUFuRUtlQ25MaHljdw?oc=5>
+
+### 名单公布！16位美国商界领袖将随特朗普访华
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 央广网
+- 时间: 2026-05-12 16:00
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFBVdlFUajlqYkw2c1VRak5XVkdhcURRNUlVc3ZPc0RpdElVNnc3WXdEMElSSk42RnNPX18yRGdvU1EyN0JGN3pLUGUwNmFRN2hTemNudzNIdzFrTThrcGNsdEI5a2wzbk5pdElYSlYwSFRPdw?oc=5>
+
+### 特朗普今起对我国进行国事访问 美国16位商业巨头与特朗普一同访华
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 东方财富
+- 时间: 2026-05-12 23:37
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwM29NVWpZZkIxbWNxZUY3OGFxdHRZNlN3bUZZZ1RDaUNpdEhZZ1pfRnBoQm1mWG1XQmdyblh1X255WnJNQTBla04wNC1QeXhFVkNLMnEwQVJqVk90bkRUOA?oc=5>
+
+### 特朗普的撤军策略是重塑欧洲防务格局的关键一步吗？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-05-13 00:43
+- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxPVEZLS2VLSmtOZmtaTFZWMWxyQVI4YWtWWi1jbmRnUVI1RzZ3TXQtMmtibVc0NnJKVEUwQ1RMd28xSmtBV2FZcHlTZThZaUctRUYtXzJ2TGt0Ny1nUjdzLUt6a1ZDU183NE8yMmZBVFh3NWpPWDh2VnVPQ0RIeWM1WWxURQ?oc=5>
+
+### 特朗普今日访华，中美元首会晤为何值得世界期待
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新蓝网
+- 时间: 2026-05-12 22:39
+- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yUVp6R2VLNWRZTTFlRVdBQWJPdm95em5MYkE5LTFaMXZJVzRSQ2JYdGdvTWxmQmZITmtLX19XR3BpMnNPWENEOHVfM0pFVFE?oc=5>
+
+### 特朗普访华随行美企高管名单曝光，黄仁勋最后一刻登上空军一号
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 电子工程专辑
+- 时间: 2026-05-13 02:36
+- 链接: <https://news.google.com/rss/articles/CBMiXEFVX3lxTFBGLWZaVXhMalBrdGdMWGh1bFZ1am9BbjVuZE5IUHE2LWdiYzlQay1RZ25mMG1Bb2FkanBuYjY0a3hUdXdmN1dNSkFZYzdPbWdNQlFaYk1iTTV5SzE2?oc=5>
+
+### 中东冲突和全球经济将成为特朗普总统访中会谈的焦点
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-05-13 00:16
+- 链接: <https://news.google.com/rss/articles/CBMi5wFBVV95cUxQSmptd1lXWHAzTXR6VDJlQ0hoMEZrOTBQOTlSc3MzdHlzcHc4ZEFhenZ5elRVUlpnT3NsdVNOWHdweDgyME1aS20zNVVrYWZwcDFwZ1dLUkdBRW5qSXVoSGRZbE1LZDlxbHpqVFpZMVphRmMyR0N2SFhmZkVPUkhjX3prbGp6TUh1d2l2eEVLM0Z1QkFkWWZtWGc4cjMxVDQ5ZzQ1WlFNaEswYktfdmk3b3JOSC1DcUFJSU0yOWF4RXlKVW92MkVGVmJJWm9OUlRCQkxKQ2I5OEJhaWJwV3g2aDlDVUlxVm_SAeoBQVVfeXFMTUdfNHN5ekdzYXBZQnRsa2lpZEpLdDJNVnZVMjhHQjJ4b2x3LWRYWFRGUTQ0dTBua3BjLXR1cWRveWVQdW5tNjJ1SE1TaDNURkg4czhhUnVlbkVmVE9CZ25hX2lXMTBiSXJFTloxeEYwM2gwSnNFTW02NWtEYVctTjEwaE5HNU4xVk1YMXpvei1BakdvelFxd2xjLXdQVE9EWkt1UEFGM3hiaFJxS0ZLNlljQlBHMjg3ZzFjUDV4UWZWNW9ZVEhUbnNFamxPZUVldWp1QXR6eTFBNkRTMndHR1lYMG05NFhtSE53?oc=5>
+
+### 历任美国总统访华：国事以外的时刻
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: BBC
+- 时间: 2026-05-13 04:07
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE53djJ3dGhCQ0huZTVFREVJUUdYSVR1V0s4RkxBX0x2S3FiaWlLcWFwSXFNYTlhWXJQUFdmUjlCcXBUd2lDNkIxd3FyTWhTS2x4cmFvLXlZaGd1N3B6c3ZEREtOWWF2UdIBa0FVX3lxTE0tTVZEcXM5dm1GTU9Yd0V4QmtUVm1rQjFBX3hDWWJaeVlPb1V6RlhRTFNKYTlib1JIaHFzUmVOaXRFQ3FFaTBvVUVmRkRjV1pRYTNCZDlNV3pPenl0VWFWYUxMRlI5QVdtdnNn?oc=5>
+
+### 战争、贸易紧张与竞争加剧背景下，特朗普动身前往北京
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: The Business Times
+- 时间: 2026-05-13 01:48
+- 链接: <https://news.google.com/rss/articles/CBMixAFBVV95cUxPTUZkczRjTmJaWm8xbHpCaVNwMEFIS3VSMmF1dEFZckJlcDJ6djRGYkpJQ0V2Y1I2TEdocmZvWHBpTTlVTGQxcmxtWjRRLUtRb2w3d0ZHTjRIOGdlYXRsa0ROMnVOQlpqM29BVXFEVTNJUXZ5aElnTC1fNDcxQTFyb1VwR0I0U2ZxcUY1b19mdnprZFZJZFBFYTl4cmxhWkdzWVRuYXFTXzJUOGV3VGJSS25YZTZwX0xUekpraF9wMjNsWXlM?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-13 04:28  (14 条)
+
+- **王一博** | China GT 宁波站今天开票，但一看票价和须知，就知道啦！ <https://k.sina.com.cn/article_7879923704_m1d5ae17f803301sad8.html>
+- **王一博** | 王一博新歌《未来我来》成贵州户外旅行主题曲 <https://k.sina.com.cn/article_7857263936_v1d454554006801kik0.html>
+- **特朗普** | “当初挨了特朗普一拳，中国这回从健身房练出来了” <https://news.google.com/rss/articles/CBMiakFVX3lxTFA4SXBIVHVIOTB2bTRhQWZHd05yLWJKWXIySGY0bjdiVFcxYkkyNEFFWXh4SnNoZGw5b0Z3UFcwZG5IZWdZX2ZCWXUxWGRJeEkyTHA4dk1VdGhXR3BGTXY2QXh4cUNSZ0VoSGc?oc=5>
+- **特朗普** | 黄仁勋被看到登上空军一号，随特朗普访华 <https://news.google.com/rss/articles/CBMiakFVX3lxTE1iYnl2MjNXZFhmZE5BLVdIVEdGbDMxelY1NlFZRGNRYVNKOFkxM2ZLcndsVlV3akVhOTY1YkFiaXV6ZzA5a0o4dV82VHdaM19pMXpCR25aaGx2c09xdzRzR0F5UHhpaTdRTHc?oc=5>
+- **特朗普** | 美企高管随特朗普访华 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9RNnVUcFFWM2VybnFrRm5CdEZmUU12amVEUHd5UU94ZVJaUHpZYkp4T0VybmkzZ2VaNjRkaVBRclJmUExNR05zTm5rYTQ?oc=5>
+- **特朗普** | 特朗普深夜刷屏Truth Social背后：透视总统的内心世界 <https://news.google.com/rss/articles/CBMitwJBVV95cUxNUFVYMTl5T1ZFbFJadm1fTG9lRDFnMTJiaE9xWHV2NjVQdm1vOHZ6bkZ3NFdzQ2Mtb0lSVmc3R3FDVEJzUWs4NVRPVkdfd0hyRDROZ01KcGJfVVNaUUxpTDlTTDBweXpteGxqS1I2bV9CMlFGdU1ubzZBelJSYlVkN2hsTmVUZVBaOXpsTkkwenNzdGtHWFRXRGlqaDBrdVR5R3VRbXdYXzdnQnBmeTlOT3FGdHYzbWtEU1ZJZDJoYlJUYVg5MmhERkEwRUpZQjU5TEhUTVlyblhIRDhUalNDQk5YRVlJd3JtS0pheERBSkpTTC0yRFdZeXB5Qk5LaTRvVDlxN0MtaEtQSEZsWG1zVkZfTlpESUZ3cXY4WjZuX24yTUdfWWh6Vm1JWUFuRUtlQ25MaHljdw?oc=5>
+- **特朗普** | 名单公布！16位美国商界领袖将随特朗普访华 <https://news.google.com/rss/articles/CBMickFVX3lxTFBVdlFUajlqYkw2c1VRak5XVkdhcURRNUlVc3ZPc0RpdElVNnc3WXdEMElSSk42RnNPX18yRGdvU1EyN0JGN3pLUGUwNmFRN2hTemNudzNIdzFrTThrcGNsdEI5a2wzbk5pdElYSlYwSFRPdw?oc=5>
+- **特朗普** | 特朗普今起对我国进行国事访问 美国16位商业巨头与特朗普一同访华 <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwM29NVWpZZkIxbWNxZUY3OGFxdHRZNlN3bUZZZ1RDaUNpdEhZZ1pfRnBoQm1mWG1XQmdyblh1X255WnJNQTBla04wNC1QeXhFVkNLMnEwQVJqVk90bkRUOA?oc=5>
+- **特朗普** | 特朗普的撤军策略是重塑欧洲防务格局的关键一步吗？ <https://news.google.com/rss/articles/CBMigwFBVV95cUxPVEZLS2VLSmtOZmtaTFZWMWxyQVI4YWtWWi1jbmRnUVI1RzZ3TXQtMmtibVc0NnJKVEUwQ1RMd28xSmtBV2FZcHlTZThZaUctRUYtXzJ2TGt0Ny1nUjdzLUt6a1ZDU183NE8yMmZBVFh3NWpPWDh2VnVPQ0RIeWM1WWxURQ?oc=5>
+- **特朗普** | 特朗普今日访华，中美元首会晤为何值得世界期待 <https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yUVp6R2VLNWRZTTFlRVdBQWJPdm95em5MYkE5LTFaMXZJVzRSQ2JYdGdvTWxmQmZITmtLX19XR3BpMnNPWENEOHVfM0pFVFE?oc=5>
+- **特朗普** | 特朗普访华随行美企高管名单曝光，黄仁勋最后一刻登上空军一号 <https://news.google.com/rss/articles/CBMiXEFVX3lxTFBGLWZaVXhMalBrdGdMWGh1bFZ1am9BbjVuZE5IUHE2LWdiYzlQay1RZ25mMG1Bb2FkanBuYjY0a3hUdXdmN1dNSkFZYzdPbWdNQlFaYk1iTTV5SzE2?oc=5>
+- **特朗普** | 中东冲突和全球经济将成为特朗普总统访中会谈的焦点 <https://news.google.com/rss/articles/CBMi5wFBVV95cUxQSmptd1lXWHAzTXR6VDJlQ0hoMEZrOTBQOTlSc3MzdHlzcHc4ZEFhenZ5elRVUlpnT3NsdVNOWHdweDgyME1aS20zNVVrYWZwcDFwZ1dLUkdBRW5qSXVoSGRZbE1LZDlxbHpqVFpZMVphRmMyR0N2SFhmZkVPUkhjX3prbGp6TUh1d2l2eEVLM0Z1QkFkWWZtWGc4cjMxVDQ5ZzQ1WlFNaEswYktfdmk3b3JOSC1DcUFJSU0yOWF4RXlKVW92MkVGVmJJWm9OUlRCQkxKQ2I5OEJhaWJwV3g2aDlDVUlxVm_SAeoBQVVfeXFMTUdfNHN5ekdzYXBZQnRsa2lpZEpLdDJNVnZVMjhHQjJ4b2x3LWRYWFRGUTQ0dTBua3BjLXR1cWRveWVQdW5tNjJ1SE1TaDNURkg4czhhUnVlbkVmVE9CZ25hX2lXMTBiSXJFTloxeEYwM2gwSnNFTW02NWtEYVctTjEwaE5HNU4xVk1YMXpvei1BakdvelFxd2xjLXdQVE9EWkt1UEFGM3hiaFJxS0ZLNlljQlBHMjg3ZzFjUDV4UWZWNW9ZVEhUbnNFamxPZUVldWp1QXR6eTFBNkRTMndHR1lYMG05NFhtSE53?oc=5>
+- **Trump** | 历任美国总统访华：国事以外的时刻 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE53djJ3dGhCQ0huZTVFREVJUUdYSVR1V0s4RkxBX0x2S3FiaWlLcWFwSXFNYTlhWXJQUFdmUjlCcXBUd2lDNkIxd3FyTWhTS2x4cmFvLXlZaGd1N3B6c3ZEREtOWWF2UdIBa0FVX3lxTE0tTVZEcXM5dm1GTU9Yd0V4QmtUVm1rQjFBX3hDWWJaeVlPb1V6RlhRTFNKYTlib1JIaHFzUmVOaXRFQ3FFaTBvVUVmRkRjV1pRYTNCZDlNV3pPenl0VWFWYUxMRlI5QVdtdnNn?oc=5>
+- **Trump** | 战争、贸易紧张与竞争加剧背景下，特朗普动身前往北京 <https://news.google.com/rss/articles/CBMixAFBVV95cUxPTUZkczRjTmJaWm8xbHpCaVNwMEFIS3VSMmF1dEFZckJlcDJ6djRGYkpJQ0V2Y1I2TEdocmZvWHBpTTlVTGQxcmxtWjRRLUtRb2w3d0ZHTjRIOGdlYXRsa0ROMnVOQlpqM29BVXFEVTNJUXZ5aElnTC1fNDcxQTFyb1VwR0I0U2ZxcUY1b19mdnprZFZJZFBFYTl4cmxhWkdzWVRuYXFTXzJUOGV3VGJSS25YZTZwX0xUekpraF9wMjNsWXlM?oc=5>
 
 ### 2026-05-13 00:00  (4 条)
 
