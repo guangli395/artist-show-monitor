@@ -1,94 +1,73 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-13 17:33**
-- 本轮扫到 972 条, 新增 **10** 条
+- 最近更新: **2026-05-13 19:47**
+- 本轮扫到 978 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (10 条)
+## 本轮新发现 (6 条)
 
-### 温州已入夏，会一直热下去吗？本周末周杰伦演唱会会下雨吗？最新预报来了……
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://finance.sina.com.cn/wm/2026-05-13/doc-inhxunaz7359144.shtml>
-
-### 美国总统特朗普抵达北京开始访华
+### 特朗普访华之际，泽连斯基指责俄罗斯“故意”向乌克兰发射至少800架无人机
 
 - 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-05-13 11:50
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE81TUpjWTMxTk5wZG9vTnpQcTlPbnV0Q2xqaVVFMFdKbGJSQTV1cV94MUlQZjJiZVNXc3dfWkNXUktVbEVaSmp1THBRQVlaQkwwNkdIakFDQWp2VExuVVZOYg?oc=5>
-
-### 杨德龙：特朗普本周访华释放积极信号
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-13 16:41
-- 链接: <https://news.google.com/rss/articles/CBMikgJBVV95cUxQR01xb042X2RCYnBGR1ZlNEF4d1lRRkVNMUp2ZnVFM3hQaXRiNmY4blFQQ3JiX0VGdGtVRm1ybG1iUUpad0ZEY3dVdWszYzJzQnEwRFAtRlhqbHZmSl93UkZBVHNGZHd6N19KWUJhSkthM1dnV1BkM2FmSmRub2c3OG5KcXlvaktfemh6bUFTSlhyTHYweWRyM1JEUEpYYXk4VmxVWkpGUzRESmhjZndUSXlkMzBxdk5MRUgxcGhHLWVuYXNIdzJNcUpmVXZTSzVmRUhzMU5nUHpDbHlFTUk3aEZiWVhzRDlLSU14TVZOMjJtNmdtanFXZzZEWGdERFdhbG9wbkJLS3l6SXNYajhTOEZ3?oc=5>
-
-### 外国记者说中文欢迎特朗普
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中国日报网
-- 时间: 2026-05-13 15:53
-- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTFBaN1J5ZHQ1S08zVkdFUGdtM2s2WktDWDlXSTEwR2V5c3ZrZE13QThkb0xNd2x4Q2FleDU1MFJIZ3FEMFc2cW9LQ2JzdTZPNlhKN1Q5bXAtSldzd1VHblo0UVNaWDUzbGZYQ1pqYmUxS3k0X3d1NU93RkY1QQ?oc=5>
-
-### 谢锋大使就美国总统特朗普访华和中美关系接受美国《新闻周刊》 资深记者专访
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华人民共和国驻美利坚合众国大使馆
-- 时间: 2026-05-12 06:00
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE1TaXJiYlRBYk82QVkwT1BIenVZTjJyQnAxVmpQT0JGRHFaYXJ3S3hHc25oWDgtQTBQUS1QLXJtT3djd0h5a1lrRkVrQk94bWE0RGp0N1VJZVl5eGdoU21pb1paMzV3YUFfUnI0eVFIYmlabk94?oc=5>
-
-### 中国人民太好客了，trump肯定会说，中国，
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-05-13 16:12
-- 链接: <https://news.google.com/rss/articles/CBMirwFBVV95cUxNd29ubXo2OXhpLWtLVTQxVTN2WEs4UkdOUFlGaXN0eVlmeUNHZm5CbmYtNWVQaktuZ3h1T1lvaTFya0ZxZVVscXFFYnBpYU1lU0pTdVVka3BzVE1WamVFVVp4T1pUMUVIcFJWRDcyZXhoclRmbGF3VG15VkRYd2ZBLTBzd2FwcXhscnZiQWptM19heDRKQURqbGZ2TzVEdlR0czR2Rm81eFFwN0w3Mkdr?oc=5>
-
-### 泽连斯基：望特朗普访华期间提及结束俄对乌战争问题
-
-- 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: RFI
-- 时间: 2026-05-13 14:04
-- 链接: <https://news.google.com/rss/articles/CBMi9AJBVV95cUxPcG1wLWl5c1d5YVh4cmdDM0FuZ0NQSk45REJCU21jS0NtSU9xT082c0RBMnBJVmItUU83SVJsMlZnRGR6S0tTUzAtTkNabGRhS2Vib0poU3B4VzZWb1B0MlRxZFF5VEJfTzFWQkZ4N1MtS0tJWGQtNEdtdFh1ajA3Z2FQamxObS1RUGVLaTlNdXFkZm52UXhUTXVLa29RRlNSQUhWRHg0d2Zseno4ZW8zUzh5YUdodFY0cWZzNUp2UkdIN29YZUttMjNnQjg5YlBrQWtfVHA1RDE0ellXalZ0bEdiQkZ2ZWpJNW1pNURQSTFEUFI3SndpY0FhMVdvSzdDOUVFWk53TWVydUQ3RlM3NkVza2JKdmFZbm53U0RlRV96Y2YycnBGTmtnUTZQbFBiZk85YUpaN09FOVR2d3pTeUVFdkVXMHJOaTd4QXR0aEEzdXpmVzNKSXpqYXZmQktOSnJJYUhxZ0ZWaGtLeWoxVy1LaUE?oc=5>
+- 时间: 2026-05-13 18:39
+- 链接: <https://news.google.com/rss/articles/CBMi2gNBVV95cUxPOGlFdjAwanQ0MjRBQlZUVDZlMEota19iVnhDSVllOEVYQ2JOQXB5R0hlMnJPTnFONVhYZTRUYUNHSHd0VWtxR2cwa05scWdsZUdxdkNSWXA1akN4cmROQzZwck1veEdFVEZydllwdGp1Y3NndDcteUpyTkZoSzFESGs2TzJ3Y2pHUXlYTVhfcHh1bVotN0ROLUZjRmo5Yl9pVEc2UUJyVkZvOGZXdHBvTVZKa1E0UjZ3UFlVRVRJWDBOV3N1Z3IxT194QktzTmF2ajVERUlBSDJfUTVadllCTkEySThzeEdGajBMSFJYWGFXV1BTNDdtbTR1WWlUbWQtT09SdWhkNTRBbk5JR2l3YTZ2SzFEQk40dUhBNmFIUkZobmlQX2hxUGZhUGRwYUxQMElKZ0JvdDNZVHQ3bE9XdXZlR0RjbGdqQnBxbmhnaWtHeHAzZmgwLUNTZ0xmQlB3R1Q0MnVHY0dvU0Jfc3JpZVVCMkgzcGlZeF9rckNDSktyY01GM2lYeTQwbGVqbmVPMzZfT3VmaWZLTzR0d2c0VUlhYlltMkE1UTFScTktYkctMFNkNkozeWNRVmNDQmg5cjBTZnNSMHY1Sl96dWpVaktJS3ZiS3dXOGc?oc=5>
 
-### 梅拉尼娅缺席访华引猜测，释放什么信号？
+### 黄仁勋随特朗普访华 特朗普亲自邀约最后一刻登机
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-05-13 13:38
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5JUEVHVEVkaEF1dF84VWZ0VkVKUDFlRzV6VmVMd0dNNUJjRGxLY00yOXBkNWJHQjIyOHNWUWkyWm5yU0NfSXFDMVFVWkJ6X09LdlRyQ3FUY01lVDBtUDJPb1o2dmxDMG5BUENMVGN2WDM?oc=5>
+
+### 特朗普抵京学者：习近平将面对谈判高手– 普通话主页
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Radio Free Asia
+- 时间: 2026-05-13 12:53
+- 链接: <https://news.google.com/rss/articles/CBMikAFBVV95cUxPeWNjeWU0dHEzc3J4M1pOTmFfUk5PeGp3U1g3V0Z3ckVOaWdqdjM0bUZibWZ6VlFCazlHVWM4YTV5VExadUtBYVB4N1hKV0pyRU5vRWRMWkNCVzJXWElxTFRqZGVhS0pWdHJRXy1Xd2haWWx2MEZHdkxXWFQ4OG9PTy1PcGhQT2xNbVdXcUtkcG8?oc=5>
+
+### 特朗普和习近平希望在此次关键峰会上取得什么成果?
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 文学城
-- 时间: 2026-05-13 16:22
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9odXJJUFgzckZZYTV3S0JPTlRzMHFmeGNGcE1ZRFQzZUJHR0NkMGpGZkNINi1Rb1poYTQ5RTE4THhKeUdQdmYxYWo4Y2FmWGxOdzNxYTQ5aTBhZzVoc3QxRkhDaUJqNXR4?oc=5>
+- 场馆: 华尔街日报中文网
+- 时间: 2026-05-13 07:26
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE1QTDRVdVpWTXdsek4zU1RJOGJOVGR1U1lIOUNMNHI0RWcwU1BTWVg3YWR2b01DeTc0RnpjTVBJWjZZM0JTY2U5RG5JbWs4aXo4SS1sYTdzVlRrQmhUSjhUSHpLeGRObng4dGxj?oc=5>
 
-### 美国大企业高管随特朗普总统抵达北京，英伟达CEO最后时刻加入
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-05-13 16:58
-- 链接: <https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYUlSdWRCTUJiSUZkMWNhaUdJMENLODdXRnlscXhYa1h2QUtkQnpLZEgwazFPdGwxOE1LYlAzY1g2bkRNaVY5NTMzbTg2YUlvaEhnbnFjV1hJNlQxVFBHZ2ZsNGNtdnNHbzJ4V0lnLVI3OHdmblJMdjRlZ3RhNXlsRzY4bzA4Zl9ldlpFcnNlLWFSUjBxb1BZczJ3NzhRVGRRVm4wd2cwZkbSAasBQVVfeXFMTUlOQXZzRVdZTUw1MVIwZGhrQjhmaGxMNml2aEZyZEZSOFR3a294SkNCcHVzUVc2bkRjTDYycVpXVENPeUJRalpuNm9jbk5NLU5zd2pqLUZ5RVlKeHlQWGhNTDBDTzA5V01ETnlCUkxaNWRrc0otR2JMQk9VVFE2VUZ1NmIwb0h4U0dSTUJxY182UjJiRUw2UE14Y21SSXA1QnN0cFRTRXdPUHY4?oc=5>
-
-### 美国财长贝森特与中国副总理何立峰在首尔举行会谈，为特习峰会铺平道路
+### 伊朗问题对特朗普访华行程影响巨大，但取得突破的可能性不大。
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-05-13 15:14
-- 链接: <https://news.google.com/rss/articles/CBMingFBVV95cUxQVzFMbmlEdGtvcXdpSUs5Z2xyWHhPamRHY2Y1YUFUZlhwQ0Y4MXN2S0pCcEVuNWp0czY5TzVWQnlyTnkxTVREem5hVmxuXzZiVk1WdFR2TXhsQThPUmZPWmJnemdDcm9HN0gwdTVlNGgyOEFyZFZIckI2MFJZaHFZVjNOWjJUSkhlR0RlNVJBTnBndEh1ODVmUUZiazhOQdIBoAFBVV95cUxNblRSZWVUQXgtdjVtNU9KRzd3MEhtdWhtQzBJRWdqcnd1bDRkWXhOTkc5MkZiXzVkTTlmNlVTTkxwRlZITi1IanZxUGc0OWFndURPTHYtandJX2VUMkdHd3BZR1J6UUg4TFBSaXVYVGpudVB4TXUtOTgxWEZuaEFPZy1fUXF2eVpmMlRzOV9OVzFibWZlWFJlSFFRZEFIZkFB?oc=5>
+- 场馆: Al-Monitor
+- 时间: 2026-05-13 18:51
+- 链接: <https://news.google.com/rss/articles/CBMiywFBVV95cUxQdEdhLTJlTHFzUHJzVGRmaHctWHVjMGlwbXMwZUtHN0ZSUUxzd2o1ZDlTbzFFdnA1aGhDREY1QWR2cFNaMzVKSWREWjI2TGxYQ2g3cTQ2Mnl1eU4xc1VWbEo0RVF4T3kwaHlZZ0VKcUFlYTE1bTB0cWo1SGR0WTdFSEhCWlJMa0JSQ0o2UUpTMDRhczV4Y2lFeUZjQ09BeDRzVWZMY2lfTWFfRmlwNjZUc013S0dJSzE0ZDlOVFY4VV9acXJZcTUzajloZw?oc=5>
+
+### Gold edges higher above $4,700 despite hotter US inflation, Trump–Xi summit in focus
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: TMGM
+- 时间: 2026-05-13 01:20
+- 链接: <https://news.google.com/rss/articles/CBMi7AFBVV95cUxOTFQtbHFIZ29vOVYtakx0MzViSWpzVHdMTWcyaXhheTZrQUJVT1dYaTB3T3F0NHRqbHo5N0lwM1JhWjE4LTBoZk1xTFNTZFdfcUJ3VmZNbE5PR0VNR0dOQ0ltaVVVd0hRNW9IMHkyLTZ1MzRtYVZZWnB2cXdFZ19fS3JXRTV2Mm1Eem11MXJiTXo2c0k5bDFxY2thTG56b0haQVBIUGFoQzJIUkdQOGxkUjZMUjFuanMxQWs4MUhtUF9vc294bERkbVlwWG9fNFFSUWFYeG5tbGJMU3BlZFNRUGtPaUw0clZ3VkRIeQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-13 19:47  (6 条)
+
+- **特朗普** | 特朗普访华之际，泽连斯基指责俄罗斯“故意”向乌克兰发射至少800架无人机 <https://news.google.com/rss/articles/CBMi2gNBVV95cUxPOGlFdjAwanQ0MjRBQlZUVDZlMEota19iVnhDSVllOEVYQ2JOQXB5R0hlMnJPTnFONVhYZTRUYUNHSHd0VWtxR2cwa05scWdsZUdxdkNSWXA1akN4cmROQzZwck1veEdFVEZydllwdGp1Y3NndDcteUpyTkZoSzFESGs2TzJ3Y2pHUXlYTVhfcHh1bVotN0ROLUZjRmo5Yl9pVEc2UUJyVkZvOGZXdHBvTVZKa1E0UjZ3UFlVRVRJWDBOV3N1Z3IxT194QktzTmF2ajVERUlBSDJfUTVadllCTkEySThzeEdGajBMSFJYWGFXV1BTNDdtbTR1WWlUbWQtT09SdWhkNTRBbk5JR2l3YTZ2SzFEQk40dUhBNmFIUkZobmlQX2hxUGZhUGRwYUxQMElKZ0JvdDNZVHQ3bE9XdXZlR0RjbGdqQnBxbmhnaWtHeHAzZmgwLUNTZ0xmQlB3R1Q0MnVHY0dvU0Jfc3JpZVVCMkgzcGlZeF9rckNDSktyY01GM2lYeTQwbGVqbmVPMzZfT3VmaWZLTzR0d2c0VUlhYlltMkE1UTFScTktYkctMFNkNkozeWNRVmNDQmg5cjBTZnNSMHY1Sl96dWpVaktJS3ZiS3dXOGc?oc=5>
+- **特朗普** | 黄仁勋随特朗普访华 特朗普亲自邀约最后一刻登机 <https://news.google.com/rss/articles/CBMicEFVX3lxTE5JUEVHVEVkaEF1dF84VWZ0VkVKUDFlRzV6VmVMd0dNNUJjRGxLY00yOXBkNWJHQjIyOHNWUWkyWm5yU0NfSXFDMVFVWkJ6X09LdlRyQ3FUY01lVDBtUDJPb1o2dmxDMG5BUENMVGN2WDM?oc=5>
+- **特朗普** | 特朗普抵京学者：习近平将面对谈判高手– 普通话主页 <https://news.google.com/rss/articles/CBMikAFBVV95cUxPeWNjeWU0dHEzc3J4M1pOTmFfUk5PeGp3U1g3V0Z3ckVOaWdqdjM0bUZibWZ6VlFCazlHVWM4YTV5VExadUtBYVB4N1hKV0pyRU5vRWRMWkNCVzJXWElxTFRqZGVhS0pWdHJRXy1Xd2haWWx2MEZHdkxXWFQ4OG9PTy1PcGhQT2xNbVdXcUtkcG8?oc=5>
+- **Trump** | 特朗普和习近平希望在此次关键峰会上取得什么成果? <https://news.google.com/rss/articles/CBMia0FVX3lxTE1QTDRVdVpWTXdsek4zU1RJOGJOVGR1U1lIOUNMNHI0RWcwU1BTWVg3YWR2b01DeTc0RnpjTVBJWjZZM0JTY2U5RG5JbWs4aXo4SS1sYTdzVlRrQmhUSjhUSHpLeGRObng4dGxj?oc=5>
+- **Trump** | 伊朗问题对特朗普访华行程影响巨大，但取得突破的可能性不大。 <https://news.google.com/rss/articles/CBMiywFBVV95cUxQdEdhLTJlTHFzUHJzVGRmaHctWHVjMGlwbXMwZUtHN0ZSUUxzd2o1ZDlTbzFFdnA1aGhDREY1QWR2cFNaMzVKSWREWjI2TGxYQ2g3cTQ2Mnl1eU4xc1VWbEo0RVF4T3kwaHlZZ0VKcUFlYTE1bTB0cWo1SGR0WTdFSEhCWlJMa0JSQ0o2UUpTMDRhczV4Y2lFeUZjQ09BeDRzVWZMY2lfTWFfRmlwNjZUc013S0dJSzE0ZDlOVFY4VV9acXJZcTUzajloZw?oc=5>
+- **Trump** | Gold edges higher above $4,700 despite hotter US inflation, Trump–Xi summit in focus <https://news.google.com/rss/articles/CBMi7AFBVV95cUxOTFQtbHFIZ29vOVYtakx0MzViSWpzVHdMTWcyaXhheTZrQUJVT1dYaTB3T3F0NHRqbHo5N0lwM1JhWjE4LTBoZk1xTFNTZFdfcUJ3VmZNbE5PR0VNR0dOQ0ltaVVVd0hRNW9IMHkyLTZ1MzRtYVZZWnB2cXdFZ19fS3JXRTV2Mm1Eem11MXJiTXo2c0k5bDFxY2thTG56b0haQVBIUGFoQzJIUkdQOGxkUjZMUjFuanMxQWs4MUhtUF9vc294bERkbVlwWG9fNFFSUWFYeG5tbGJMU3BlZFNRUGtPaUw0clZ3VkRIeQ?oc=5>
 
 ### 2026-05-13 17:33  (10 条)
 
