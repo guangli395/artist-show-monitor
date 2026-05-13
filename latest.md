@@ -1,56 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-13 21:22**
-- 本轮扫到 983 条, 新增 **5** 条
+- 最近更新: **2026-05-13 22:44**
+- 本轮扫到 987 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (4 条)
 
-### 新华社快讯：美国总统特朗普抵达北京开始访华
+### 独家视频丨美国总统特朗普抵达北京-腾讯新闻
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-05-13 11:50
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE5UMl9KczFURU5XdkN5VVJidWdfME84S2VJVkc5eHZtaHVmM1liOXZrcjZUSjlnSnQ0eXI4MWduV3FGUUlXbURfdmRQLXFXMDdpakdmTk5hWnBsZlVvd1A5bENMWmRJQTNZWW5tZ1pwcF9fRy1rOW5Od0gzT2VOZzg?oc=5>
+- 场馆: QQ News
+- 时间: 2026-05-13 11:49
+- 链接: <https://news.google.com/rss/articles/CBMiV0FVX3lxTE9taExwTGRyMlVwWk5PWHdldlpKMTZYN0RTc000MmtVUVE0REhMLTlyclhmLUZJT0xwRUxWb2JyVXRleUc3TkYzc1drV2ppMjBFWXZaZ3FjZw?oc=5>
 
-### 特朗普总统将和习近平一同参观北京天坛
+### 图片集：特朗普总统抵达北京，中国举行欢迎仪式
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 美国之音
-- 时间: 2026-05-13 21:03
-- 链接: <https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd0d5Z19EUTY0X0Z6Z2tadVVQMTBsUmh3dDg0ZHRrU3RLaUFUbk1tNlg0S05pUmgtNFdrTXd3dTU5T2xqVFgyUFN0N3JVOHlENGhHNTFQUkViOUdjSkh4R29DZEV3aEVCaGU2TVl0SVVtUU50YzZXNUEwMXlZNXdsQU5EVDVKcURsc19IOU1UdHNLY2ZzVk5waUxVa042bXZRYm9ZZGd6aXZ5cXIzU1l4NnRDQmJmNm50MG1R0gG-AUFVX3lxTE1xbnpoVEkyNW5HTTRrUlRibWRmc0RCOUNKaGNGRkF4VGhwaWN4MU0zVUFyZUI4b0VMNlFQRTJ2U09RQVZsRENwOFltdEIxRnZNcmpfMGVtNXlsRkVpTjN2WXVLRWJqX1FNby0xN1lQVHhDRHZ4aDRXUHVtQ1pKdTQ2QVlJTE9KV0NTTDJ5YmNUVFctWU5TUFN2eXZ1NVFqaTNKeTZxZ1hQOVU2UGdsRVNmSlEwOUNRY2FDcWx5b3c?oc=5>
+- 时间: 2026-05-13 21:28
+- 链接: <https://news.google.com/rss/articles/CBMiugFBVV95cUxPSUQ4TjN3TmlWT3BiRUZuOUotVFBmZzBjS0t4N2RyZlhnMGdFdGVLOXB5dUN0RmN5MGRqOGE5czhXdUVnYXBGNXNLLTJJOXNUc3RQdFpiRVpRbHZQVGN6TlU3SkNYODhTN1hGOTNjT3dtdkRBSWxIaXU4S1h2SW9ubmxhRlpWNkVIMFM0eDVCX1NpUmtRT2p3S3N4SUIzQ0MtS3dHRDhJbzlfQXo1T0ZCWlloQlAwQTNJc1HSAbwBQVVfeXFMTm9LTlJYdTFsNWFnVWs2VzhVdjBFRHVGd1BsLWxTSlQ3VGRQT2FoMXNaZ2lYTS1leHZzS3VuNXdMRDA3c0xzc3FSamhMUTBjOGxsZUhHb2Y2SnlNdlRUVEl2VlcySlhmZWFWOUx3TjJiS3NYS2ZkbUo4N3BRYVptV0RYOWhQTHk1VlE4aGVoY2l4V1FneEQteVJJb19DR3BJM0Z5VTFjaG1JREZvY2F6RjB5SVI5OFN6cWJHeEU?oc=5>
 
-### 特朗普对伊朗战争的代价高昂，美国生活成本大幅攀升
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-05-13 19:52
-- 链接: <https://news.google.com/rss/articles/CBMi_wJBVV95cUxQeEFXeFRGZXh4QXpERmg1c0liN1BrUmZ1THhHX3ctVlhoWGJ6ZUx1cnpSWXZfRUh2dDZjX2owYnJOYW1TMGdOaTJ3R0VvdURGQVlackdUNll1VURPaVJJc05Cc2Y3eTJpcHFHMjBtbnI0Y2piRHJKaGtWcGZyM1ZrQmljMm8wTjJ4M2xLa2cwSkVTTEdaemp6M2c2T3F5Q0hYS1JSdThBLTNQTDFpQVlXWkV6dWlPNGF5LTJkNVhhQXBUTFJFbU5rTU5JdmZ5N01wTDZYTlFNUVJXUHZWbEZWMVIxdk45RkdKV3N2WXZRanYxa2hEdjgyeWtWMnBiWFpSTkhISnJCZWVOTEFnZ2FicjR1dksyRjV5MnB3TTZaR1cwZkRvMmRWVV81V1IxTWhiMTlxRExla2h3LXd1RDJDenJBUER0bFgxczh5UEoxeFp3S3pOY2Jfb1pvWExZa0ltaVhpTVh6enVGQ3lscDZ1alFjVWktQkFsU19TWi1BWQ?oc=5>
-
-### 要闻分析 - 特习会即将举行 有美国国会议员致信特朗普 再次发声挺台湾
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-05-13 20:02
-- 链接: <https://news.google.com/rss/articles/CBMi4wNBVV95cUxOWk1keWN0Y2FMMGN1RlpzT1JrbWVQcHJkTWNFVWg5Z0tRb2d1LXgtYWFCTTRlbmZtMl81RnVieWhpQ1lWMWZuS2JuYWFSQWkwdWtRTG9KRlJweDl4bG1TRmJReUNyTFJqbWR1UU9jQktmVEdWeEliZmNPMFI0SUYxRk03dVlweHRrQy1KNlNfd1dGclhLMDRfY2JlejkyTFpyUHdlUHRlLTN5NGU4dFFFNFVGdnR4X1pPOTUtc3U2MTJzaC01MHdBcmEwVGlYQV8wQVJ5c3NySkxpVV9DMGFadnVzV2xtZFJjU2hLNUw3VjhmcExiNXZoY1NQMG1ucnNUTDA4VlptMVlPcGplUnVvMDFDbnlXQTBKMDU0WVBPamRIbFdLUWIxcWxZemsyZGE2VFNMVFpWQ0ZHQ0RRd3o3V2hHRXdXWFlfOTM5VDhiS0hETTB1bkEzWERFN2RSd3lYalliTDhjUjJzb21wWkh0dWl4UUJ3S2E0ZWJ2QW5ZZW1nNThGQmlsNFBMdkg3UVhhaUFhR1oxTGFSTFdSTzNnYUtGZk1mYTdIa1ZLRmdtTzNETHI5TXI3bU9QMzJQcnFCNFRLYVE3QXNJRFg2bmZIckNvbTNVZWNMSV85LXZBeWl5Z0U?oc=5>
-
-### 唐纳德·特朗普称伊朗停火协议已经岌岌可危
+### 视频 | 看现场！十余位商界代表随特朗普访华
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: Sina finance
-- 时间: 2026-05-12 06:27
-- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWHAzVVJEeFJ0VlJtby1WMnE5ZTc3TjlIQkhteHJHczJXV2hKcmRyb0d5S2Jmc2U5WjVYTENHRVlYbFFoUVNnckt6WmtKRUIyMkxPN0RpRmtqdFIxYWJ3T1RKRlp2T3J0XzZKeTZXZFROaWNRMW1HOGJIMG1lZGdHekFvS181VV9ua0lRMGJPV3dYWVNqYW41eFhlNWhOemd1QjAzUnQwVE5DTlR3T3FCLUI5aVlGaGxZaHVoX0xNYS1Ibk1LSzBuV053b2YtbUl3Z2RTTmtRYlJoV1dsdEE?oc=5>
+- 时间: 2026-05-13 13:10
+- 链接: <https://news.google.com/rss/articles/CBMizgFBVV95cUxNSXMyNDNBX3hVeXU4R3NXazZfbjU3djhsbTVubzhCWWJtTEdyWnhGTDJhNDBPQjB3RFhtRDYtT1puMWVlVWp3ZUNDOXUwQ0FSSHZ2OVFldDlFaUo5Y0VIZTZmeGZfRmZKVVZOMzhkNDNzMW1RZTN4Z1NSZ0Z4NFFyOC1iekpHU3M5cHRxYXlHSEhuRG9CVnF6LU9WOXBVc0ZaSnl4ejZUX3pQa0tEZmpqdFU4ZXc0Nkk4aExTUHR6WU42MVNZaG5ZY21xRzJ1dw?oc=5>
+
+### Trump arrives in Beijing; Xi's busy Tuesday; Fair competition and unified markets; Action plan for AI and Energy
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Sinocism | Bill Bishop
+- 时间: 2026-05-13 22:17
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HalRfNjNMemw4WnNEazVsQldTN0E4YVBTOXlLNlFQVUNSQTlxc3o2cV95SDNSbjRVdEtZbzlaZXUtR2JhV1h4SWZ5QTh2eGw2cDhsZV95OTljdGlpeW5US2xxQ2ViUU0?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-13 22:44  (4 条)
+
+- **特朗普** | 独家视频丨美国总统特朗普抵达北京-腾讯新闻 <https://news.google.com/rss/articles/CBMiV0FVX3lxTE9taExwTGRyMlVwWk5PWHdldlpKMTZYN0RTc000MmtVUVE0REhMLTlyclhmLUZJT0xwRUxWb2JyVXRleUc3TkYzc1drV2ppMjBFWXZaZ3FjZw?oc=5>
+- **特朗普** | 图片集：特朗普总统抵达北京，中国举行欢迎仪式 <https://news.google.com/rss/articles/CBMiugFBVV95cUxPSUQ4TjN3TmlWT3BiRUZuOUotVFBmZzBjS0t4N2RyZlhnMGdFdGVLOXB5dUN0RmN5MGRqOGE5czhXdUVnYXBGNXNLLTJJOXNUc3RQdFpiRVpRbHZQVGN6TlU3SkNYODhTN1hGOTNjT3dtdkRBSWxIaXU4S1h2SW9ubmxhRlpWNkVIMFM0eDVCX1NpUmtRT2p3S3N4SUIzQ0MtS3dHRDhJbzlfQXo1T0ZCWlloQlAwQTNJc1HSAbwBQVVfeXFMTm9LTlJYdTFsNWFnVWs2VzhVdjBFRHVGd1BsLWxTSlQ3VGRQT2FoMXNaZ2lYTS1leHZzS3VuNXdMRDA3c0xzc3FSamhMUTBjOGxsZUhHb2Y2SnlNdlRUVEl2VlcySlhmZWFWOUx3TjJiS3NYS2ZkbUo4N3BRYVptV0RYOWhQTHk1VlE4aGVoY2l4V1FneEQteVJJb19DR3BJM0Z5VTFjaG1JREZvY2F6RjB5SVI5OFN6cWJHeEU?oc=5>
+- **特朗普** | 视频 | 看现场！十余位商界代表随特朗普访华 <https://news.google.com/rss/articles/CBMizgFBVV95cUxNSXMyNDNBX3hVeXU4R3NXazZfbjU3djhsbTVubzhCWWJtTEdyWnhGTDJhNDBPQjB3RFhtRDYtT1puMWVlVWp3ZUNDOXUwQ0FSSHZ2OVFldDlFaUo5Y0VIZTZmeGZfRmZKVVZOMzhkNDNzMW1RZTN4Z1NSZ0Z4NFFyOC1iekpHU3M5cHRxYXlHSEhuRG9CVnF6LU9WOXBVc0ZaSnl4ejZUX3pQa0tEZmpqdFU4ZXc0Nkk4aExTUHR6WU42MVNZaG5ZY21xRzJ1dw?oc=5>
+- **Trump** | Trump arrives in Beijing; Xi's busy Tuesday; Fair competition and unified markets; Action plan for AI and Energy <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HalRfNjNMemw4WnNEazVsQldTN0E4YVBTOXlLNlFQVUNSQTlxc3o2cV95SDNSbjRVdEtZbzlaZXUtR2JhV1h4SWZ5QTh2eGw2cDhsZV95OTljdGlpeW5US2xxQ2ViUU0?oc=5>
 
 ### 2026-05-13 21:22  (5 条)
 
