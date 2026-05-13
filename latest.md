@@ -1,110 +1,107 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-13 15:23**
-- 本轮扫到 962 条, 新增 **12** 条
+- 最近更新: **2026-05-13 17:33**
+- 本轮扫到 972 条, 新增 **10** 条
 
 ---
 
-## 本轮新发现 (12 条)
+## 本轮新发现 (10 条)
 
-### 周杰伦“痛楼”、6米高巨型大娃……演唱会期间这些打卡点别错过
+### 温州已入夏，会一直热下去吗？本周末周杰伦演唱会会下雨吗？最新预报来了……
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5953740931_162dee083067037ca0.html>
+- 链接: <https://finance.sina.com.cn/wm/2026-05-13/doc-inhxunaz7359144.shtml>
 
-### 特朗普总统抵达北京，将与习近平举行峰会
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-05-13 14:01
-- 链接: <https://news.google.com/rss/articles/CBMirwFBVV95cUxPQkpqQW9yUWNDRFFkM2hCS3kybk90Ymo1SURJWXU3S2tzYkp2b3JtTDVDMzFoLVZoZ3JaaUFsSmg1Y3Z5bEZUdExsNjMxOS1ZS2o5QkVRbENjbjFkZ1pxNHhJVVZ2TXEtWjBEdHJkTGRiUkFIeXBnbzl2UXJmbUJEWldGczZMRGkzak52RWlMdGoydmRSRk93QWhmZ0g3ejl3bTdLcjNmUVJ3aW9KYWRr0gGyAUFVX3lxTE42WmJMUDdFNTFmR3k4MDFqVkpkQjJDLUxHcmZHZDl1Z3VDMjJ6UXoteDRtYWhqbEhJQ25VWWk5S3V1aDE4VVZYNDN2SW8tNldXR2tranZ4QzZrUC0wVElNZUZLdmVTRHgxZU14WGtSYjVzTk1zRHQza3FKN01nM2hCejNhNGpMSFVtVUhJaFhjSjhvZ1VvcHZONzZWWURZQ0kzMHRPTTdwMG9XTXZobkVNWUE?oc=5>
-
-### 黄仁勋被看到登上空军一号随特朗普访华
+### 美国总统特朗普抵达北京开始访华
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-05-13 02:25
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5hb0JIckpqaTZORXVkSGE0czl1NHJqS2dMOWR6dFMtbEtheVl6bWF4LWp3UkhscVJvb19mbU05bG5XZ0xhMFdJc0JxRG1vVXN1OVNWNTBHeHQ0NVlJbTBtUjlLVFV1TWNJQ2l2MjVLV3lmVXlseDFzYQ?oc=5>
+- 场馆: thepaper.cn
+- 时间: 2026-05-13 11:50
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE81TUpjWTMxTk5wZG9vTnpQcTlPbnV0Q2xqaVVFMFdKbGJSQTV1cV94MUlQZjJiZVNXc3dfWkNXUktVbEVaSmp1THBRQVlaQkwwNkdIakFDQWp2VExuVVZOYg?oc=5>
 
-### 最后一刻加入 黄仁勋随行特朗普访北京
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: dw.com
-- 时间: 2026-05-13 11:22
-- 链接: <https://news.google.com/rss/articles/CBMilgJBVV95cUxQUjlYTDFpdkZvR192ajNTZTJIN1BvRk5ZaEx2SG5vOUJBZklIX0F0QUdIX3BJUTRIc3NiTkhtSmxabXA0NklxV0Rja3VTRVp1bUtWX2h1VmJGemY3eWxMV21WTDFCNklhbVNvMU9lVkNrTk9wQjBjWFV3cE82bVhVR1A5OG9nU1EwTzZCUUZfY2R2dE9IYVExREZpSk5fLUZPOXZON0FGbUhZNXhLRzIwYXFPY3Bnckt4TF9yZG82aEVVMmo5ZlJ5SEhZTUp5SEZPbWZRd2pVd1pWUWpHQ0Y5VldWWXVBZFg3QzEzcFdrU0hDeW1NNzhLc0R0UXF0VXRPVVQxZHhiOTJpMjlOcGFrNThGQlo5d9IBlgJBVV95cUxPSWY4RHJPMnlQRXlHaUl3dkNDWmgxT2hiQTV4SXdPNzJJUkVqN3JSWi1ZN3g0ZGVRWTdSdU1oek5DUkZOWjhUelpYem9PY05fSnZJUnpXaTNuSl9HbUx0VmFnRnhuRTAwRFAzWFJ1WEU2OG1xZFNrWWxSNURTakJZdjc3UUFvQzhjbWVOMzNhQnVhRjZBV2U4WmUydHRYQ0p5TW8zMFZ0OXBXdS05bmZTU0ZsTERXX2tMaHp3TUVkR1ByalVHVnNxRlFabGJINlc5UWhuem9FRF9DWmFGRjVPRkJQLWVmZ2JxQTdGTWZaODF6Szc1c3lYM0NYUnBGVzM3NFVnd0kxXzNocUg5R1k1QkRuZVFZUQ?oc=5>
-
-### 马斯克等随特朗普下飞机，黄仁勋换了西装
+### 杨德龙：特朗普本周访华释放积极信号
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: xw.qq.com
-- 时间: 2026-05-13 15:07
-- 链接: <https://news.google.com/rss/articles/CBMiV0FVX3lxTE9TZWl2aEZucHpZajJYdFExQUN1bS1mallxUWg2aDlfM1dKVGN3QzBLYmp6QlBMclNHSm5YWER1MTh3c3BjVHd5aVVVaXRiSHRadTA0MjcyUQ?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-05-13 16:41
+- 链接: <https://news.google.com/rss/articles/CBMikgJBVV95cUxQR01xb042X2RCYnBGR1ZlNEF4d1lRRkVNMUp2ZnVFM3hQaXRiNmY4blFQQ3JiX0VGdGtVRm1ybG1iUUpad0ZEY3dVdWszYzJzQnEwRFAtRlhqbHZmSl93UkZBVHNGZHd6N19KWUJhSkthM1dnV1BkM2FmSmRub2c3OG5KcXlvaktfemh6bUFTSlhyTHYweWRyM1JEUEpYYXk4VmxVWkpGUzRESmhjZndUSXlkMzBxdk5MRUgxcGhHLWVuYXNIdzJNcUpmVXZTSzVmRUhzMU5nUHpDbHlFTUk3aEZiWVhzRDlLSU14TVZOMjJtNmdtanFXZzZEWGdERFdhbG9wbkJLS3l6SXNYajhTOEZ3?oc=5>
 
-### 特朗普回过味了，“万斯嗖一下就被提溜走了，我呢？”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: news.ifeng.com
-- 时间: 2026-05-13 08:29
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1jc29XSklINUNlV0RyeS1rUlJMaG1iZWpiMmU2dmpsa0ZQLVd4bVFXN3FSdnBRU3dKNHplZ2tMWWtER1VtZkdwSzY1YnQ?oc=5>
-
-### 特朗普直说了：美国人经济状况啥的，我毫不在乎
+### 外国记者说中文欢迎特朗普
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察
-- 时间: 2026-05-13 00:32
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE84T25QWXNRWkV4LUFXNXFyUV9jV1JZNkZMUEtpU0JTMDVJaTRTMlhtcThMWlN3bnBfZ0Z0eGhBNXFmcVI2WWZzaFBVU0ZtQ2w2OGpDMW5SclBvbjVtdFRTNUppLVMtcW4yZEE?oc=5>
+- 场馆: 中国日报网
+- 时间: 2026-05-13 15:53
+- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTFBaN1J5ZHQ1S08zVkdFUGdtM2s2WktDWDlXSTEwR2V5c3ZrZE13QThkb0xNd2x4Q2FleDU1MFJIZ3FEMFc2cW9LQ2JzdTZPNlhKN1Q5bXAtSldzd1VHblo0UVNaWDUzbGZYQ1pqYmUxS3k0X3d1NU93RkY1QQ?oc=5>
 
-### 特朗普访华：黄仁勋马斯克等十余位美国公司高管随行
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-05-13 11:56
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBlVGpNNEdod095YVNrMk9RZkFUQVBxQ0c3UDJ0ZkFEWEJ0YVc4VWZFUENLa2g1WFVJODlXYVVHY1hYZDFGMXNidDBveERLN3o2N0ppY2VqM3Q3dGp2SG0wUmwzX1lJZ9IBa0FVX3lxTE1HSnJvYWtRMFByd1FNUnF2ZkFTX1VYNWRVLXFKb21XOTY3bk1pbHd0Um9ER1NsUzlDRkNPOFhwanF0dDh5YVdMa1dSZ19KTGxDUGFXdy1mY1BUNndZQy1QV3RtTERxcUw0S3JN?oc=5>
-
-### 独家视频丨美国总统特朗普抵达北京
+### 谢锋大使就美国总统特朗普访华和中美关系接受美国《新闻周刊》 资深记者专访
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 央视网
-- 时间: 2026-05-13 12:11
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE42OGhhWFpNaEctclpueDBEM1dQVVhhR0xmQWZRSGxFQmtRd0xOZUNIazFwX1lmbEo3N2ZITzVwN3N2eURSaE5tQ3VjYVE3UTAyUUhEd2R2ZnNqVFlrWG1ZaGdHODF0RHpRRFBDRDRhUTRhU3hULWxldQ?oc=5>
+- 场馆: 中华人民共和国驻美利坚合众国大使馆
+- 时间: 2026-05-12 06:00
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE1TaXJiYlRBYk82QVkwT1BIenVZTjJyQnAxVmpQT0JGRHFaYXJ3S3hHc25oWDgtQTBQUS1QLXJtT3djd0h5a1lrRkVrQk94bWE0RGp0N1VJZVl5eGdoU21pb1paMzV3YUFfUnI0eVFIYmlabk94?oc=5>
 
-### 特朗普专机抵达北京 韩正等在机场迎接
+### 中国人民太好客了，trump肯定会说，中国，
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-05-13 16:12
+- 链接: <https://news.google.com/rss/articles/CBMirwFBVV95cUxNd29ubXo2OXhpLWtLVTQxVTN2WEs4UkdOUFlGaXN0eVlmeUNHZm5CbmYtNWVQaktuZ3h1T1lvaTFya0ZxZVVscXFFYnBpYU1lU0pTdVVka3BzVE1WamVFVVp4T1pUMUVIcFJWRDcyZXhoclRmbGF3VG15VkRYd2ZBLTBzd2FwcXhscnZiQWptM19heDRKQURqbGZ2TzVEdlR0czR2Rm81eFFwN0w3Mkdr?oc=5>
+
+### 泽连斯基：望特朗普访华期间提及结束俄对乌战争问题
+
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: RFI
-- 时间: 2026-05-13 12:01
-- 链接: <https://news.google.com/rss/articles/CBMirAJBVV95cUxQdjlQRWYxc0l6WGZDSUkzZWFjYU8wTWoyX1lRQ0RRX2lxNU1wVklIN1lsQXQ1NHNWV1BXUEE0aHB0MmltU3Q0R0NOclk1VjJXbDRkX0xWTHdVRC1QV28wamFZSTk0V1V0UjBWRTdDV3RGNDhvdnExQmF5MENfWGJBVm1SNExYTVZzQlpfNmw5c0JKTTlzWVN3OFJMQkRkYkVJakJKY0xJc01FdF9La2tySk0wTHZrbTgwQUhUYnFwdGJrUWdNeHBLcGZDQkl4RlRxVnpKb3hTZC11YzM4bUpvVzNQd3pzYkxteFlVblZQaGk5OW1FWUFXYkhBZkJxcW5USFh5RElDZm1sdjZpOTZuQ0pYQUx3VE9iY1JkdlpvS3Y3S0c1RnNLWEljME0?oc=5>
+- 时间: 2026-05-13 14:04
+- 链接: <https://news.google.com/rss/articles/CBMi9AJBVV95cUxPcG1wLWl5c1d5YVh4cmdDM0FuZ0NQSk45REJCU21jS0NtSU9xT082c0RBMnBJVmItUU83SVJsMlZnRGR6S0tTUzAtTkNabGRhS2Vib0poU3B4VzZWb1B0MlRxZFF5VEJfTzFWQkZ4N1MtS0tJWGQtNEdtdFh1ajA3Z2FQamxObS1RUGVLaTlNdXFkZm52UXhUTXVLa29RRlNSQUhWRHg0d2Zseno4ZW8zUzh5YUdodFY0cWZzNUp2UkdIN29YZUttMjNnQjg5YlBrQWtfVHA1RDE0ellXalZ0bEdiQkZ2ZWpJNW1pNURQSTFEUFI3SndpY0FhMVdvSzdDOUVFWk53TWVydUQ3RlM3NkVza2JKdmFZbm53U0RlRV96Y2YycnBGTmtnUTZQbFBiZk85YUpaN09FOVR2d3pTeUVFdkVXMHJOaTd4QXR0aEEzdXpmVzNKSXpqYXZmQktOSnJJYUhxZ0ZWaGtLeWoxVy1LaUE?oc=5>
 
-### 美国总统特朗普抵达北京 开启三天访华之行
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-05-13 11:01
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTFBXc3lvY1VVVWhjcld5SVdoU2tiRXFOcUtJXzVnazBvSWlMT0tyaXo4Z01mSVJITDZsSGp6VnQzdmF6R1otemxaazM2ZFBjcnRyTnVjZHNhd1RpU200RkRxTUdqbEo3V3BfcFIzWnduT040UHYzN3c?oc=5>
-
-### 美股开市前普遍向上；市场聚焦特朗普访华及PPI数据
+### 梅拉尼娅缺席访华引猜测，释放什么信号？
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: AASTOCKS.com
-- 时间: 2026-05-13 11:05
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE9pZVU0NlBpZGJXaGVhYVRPNDVMandZS3ZsdDZxeC00NG13ajVjNXJteTRFcU5TUDVrdjRmVzlHejhXUjE3MVhMcjNHdm5vdnRRUUVDVS1FQVRmRHJzVXZJV1dDcDZiOXRYVG5NY19Edw?oc=5>
+- 场馆: 文学城
+- 时间: 2026-05-13 16:22
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9odXJJUFgzckZZYTV3S0JPTlRzMHFmeGNGcE1ZRFQzZUJHR0NkMGpGZkNINi1Rb1poYTQ5RTE4THhKeUdQdmYxYWo4Y2FmWGxOdzNxYTQ5aTBhZzVoc3QxRkhDaUJqNXR4?oc=5>
+
+### 美国大企业高管随特朗普总统抵达北京，英伟达CEO最后时刻加入
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-05-13 16:58
+- 链接: <https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYUlSdWRCTUJiSUZkMWNhaUdJMENLODdXRnlscXhYa1h2QUtkQnpLZEgwazFPdGwxOE1LYlAzY1g2bkRNaVY5NTMzbTg2YUlvaEhnbnFjV1hJNlQxVFBHZ2ZsNGNtdnNHbzJ4V0lnLVI3OHdmblJMdjRlZ3RhNXlsRzY4bzA4Zl9ldlpFcnNlLWFSUjBxb1BZczJ3NzhRVGRRVm4wd2cwZkbSAasBQVVfeXFMTUlOQXZzRVdZTUw1MVIwZGhrQjhmaGxMNml2aEZyZEZSOFR3a294SkNCcHVzUVc2bkRjTDYycVpXVENPeUJRalpuNm9jbk5NLU5zd2pqLUZ5RVlKeHlQWGhNTDBDTzA5V01ETnlCUkxaNWRrc0otR2JMQk9VVFE2VUZ1NmIwb0h4U0dSTUJxY182UjJiRUw2UE14Y21SSXA1QnN0cFRTRXdPUHY4?oc=5>
+
+### 美国财长贝森特与中国副总理何立峰在首尔举行会谈，为特习峰会铺平道路
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-05-13 15:14
+- 链接: <https://news.google.com/rss/articles/CBMingFBVV95cUxQVzFMbmlEdGtvcXdpSUs5Z2xyWHhPamRHY2Y1YUFUZlhwQ0Y4MXN2S0pCcEVuNWp0czY5TzVWQnlyTnkxTVREem5hVmxuXzZiVk1WdFR2TXhsQThPUmZPWmJnemdDcm9HN0gwdTVlNGgyOEFyZFZIckI2MFJZaHFZVjNOWjJUSkhlR0RlNVJBTnBndEh1ODVmUUZiazhOQdIBoAFBVV95cUxNblRSZWVUQXgtdjVtNU9KRzd3MEhtdWhtQzBJRWdqcnd1bDRkWXhOTkc5MkZiXzVkTTlmNlVTTkxwRlZITi1IanZxUGc0OWFndURPTHYtandJX2VUMkdHd3BZR1J6UUg4TFBSaXVYVGpudVB4TXUtOTgxWEZuaEFPZy1fUXF2eVpmMlRzOV9OVzFibWZlWFJlSFFRZEFIZkFB?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-13 17:33  (10 条)
+
+- **周杰伦** | 温州已入夏，会一直热下去吗？本周末周杰伦演唱会会下雨吗？最新预报来了…… <https://finance.sina.com.cn/wm/2026-05-13/doc-inhxunaz7359144.shtml>
+- **特朗普** | 美国总统特朗普抵达北京开始访华 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE81TUpjWTMxTk5wZG9vTnpQcTlPbnV0Q2xqaVVFMFdKbGJSQTV1cV94MUlQZjJiZVNXc3dfWkNXUktVbEVaSmp1THBRQVlaQkwwNkdIakFDQWp2VExuVVZOYg?oc=5>
+- **特朗普** | 杨德龙：特朗普本周访华释放积极信号 <https://news.google.com/rss/articles/CBMikgJBVV95cUxQR01xb042X2RCYnBGR1ZlNEF4d1lRRkVNMUp2ZnVFM3hQaXRiNmY4blFQQ3JiX0VGdGtVRm1ybG1iUUpad0ZEY3dVdWszYzJzQnEwRFAtRlhqbHZmSl93UkZBVHNGZHd6N19KWUJhSkthM1dnV1BkM2FmSmRub2c3OG5KcXlvaktfemh6bUFTSlhyTHYweWRyM1JEUEpYYXk4VmxVWkpGUzRESmhjZndUSXlkMzBxdk5MRUgxcGhHLWVuYXNIdzJNcUpmVXZTSzVmRUhzMU5nUHpDbHlFTUk3aEZiWVhzRDlLSU14TVZOMjJtNmdtanFXZzZEWGdERFdhbG9wbkJLS3l6SXNYajhTOEZ3?oc=5>
+- **特朗普** | 外国记者说中文欢迎特朗普 <https://news.google.com/rss/articles/CBMie0FVX3lxTFBaN1J5ZHQ1S08zVkdFUGdtM2s2WktDWDlXSTEwR2V5c3ZrZE13QThkb0xNd2x4Q2FleDU1MFJIZ3FEMFc2cW9LQ2JzdTZPNlhKN1Q5bXAtSldzd1VHblo0UVNaWDUzbGZYQ1pqYmUxS3k0X3d1NU93RkY1QQ?oc=5>
+- **特朗普** | 谢锋大使就美国总统特朗普访华和中美关系接受美国《新闻周刊》 资深记者专访 <https://news.google.com/rss/articles/CBMidEFVX3lxTE1TaXJiYlRBYk82QVkwT1BIenVZTjJyQnAxVmpQT0JGRHFaYXJ3S3hHc25oWDgtQTBQUS1QLXJtT3djd0h5a1lrRkVrQk94bWE0RGp0N1VJZVl5eGdoU21pb1paMzV3YUFfUnI0eVFIYmlabk94?oc=5>
+- **Trump** | 中国人民太好客了，trump肯定会说，中国， <https://news.google.com/rss/articles/CBMirwFBVV95cUxNd29ubXo2OXhpLWtLVTQxVTN2WEs4UkdOUFlGaXN0eVlmeUNHZm5CbmYtNWVQaktuZ3h1T1lvaTFya0ZxZVVscXFFYnBpYU1lU0pTdVVka3BzVE1WamVFVVp4T1pUMUVIcFJWRDcyZXhoclRmbGF3VG15VkRYd2ZBLTBzd2FwcXhscnZiQWptM19heDRKQURqbGZ2TzVEdlR0czR2Rm81eFFwN0w3Mkdr?oc=5>
+- **Trump** | 泽连斯基：望特朗普访华期间提及结束俄对乌战争问题 <https://news.google.com/rss/articles/CBMi9AJBVV95cUxPcG1wLWl5c1d5YVh4cmdDM0FuZ0NQSk45REJCU21jS0NtSU9xT082c0RBMnBJVmItUU83SVJsMlZnRGR6S0tTUzAtTkNabGRhS2Vib0poU3B4VzZWb1B0MlRxZFF5VEJfTzFWQkZ4N1MtS0tJWGQtNEdtdFh1ajA3Z2FQamxObS1RUGVLaTlNdXFkZm52UXhUTXVLa29RRlNSQUhWRHg0d2Zseno4ZW8zUzh5YUdodFY0cWZzNUp2UkdIN29YZUttMjNnQjg5YlBrQWtfVHA1RDE0ellXalZ0bEdiQkZ2ZWpJNW1pNURQSTFEUFI3SndpY0FhMVdvSzdDOUVFWk53TWVydUQ3RlM3NkVza2JKdmFZbm53U0RlRV96Y2YycnBGTmtnUTZQbFBiZk85YUpaN09FOVR2d3pTeUVFdkVXMHJOaTd4QXR0aEEzdXpmVzNKSXpqYXZmQktOSnJJYUhxZ0ZWaGtLeWoxVy1LaUE?oc=5>
+- **Trump** | 梅拉尼娅缺席访华引猜测，释放什么信号？ <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9odXJJUFgzckZZYTV3S0JPTlRzMHFmeGNGcE1ZRFQzZUJHR0NkMGpGZkNINi1Rb1poYTQ5RTE4THhKeUdQdmYxYWo4Y2FmWGxOdzNxYTQ5aTBhZzVoc3QxRkhDaUJqNXR4?oc=5>
+- **Trump** | 美国大企业高管随特朗普总统抵达北京，英伟达CEO最后时刻加入 <https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYUlSdWRCTUJiSUZkMWNhaUdJMENLODdXRnlscXhYa1h2QUtkQnpLZEgwazFPdGwxOE1LYlAzY1g2bkRNaVY5NTMzbTg2YUlvaEhnbnFjV1hJNlQxVFBHZ2ZsNGNtdnNHbzJ4V0lnLVI3OHdmblJMdjRlZ3RhNXlsRzY4bzA4Zl9ldlpFcnNlLWFSUjBxb1BZczJ3NzhRVGRRVm4wd2cwZkbSAasBQVVfeXFMTUlOQXZzRVdZTUw1MVIwZGhrQjhmaGxMNml2aEZyZEZSOFR3a294SkNCcHVzUVc2bkRjTDYycVpXVENPeUJRalpuNm9jbk5NLU5zd2pqLUZ5RVlKeHlQWGhNTDBDTzA5V01ETnlCUkxaNWRrc0otR2JMQk9VVFE2VUZ1NmIwb0h4U0dSTUJxY182UjJiRUw2UE14Y21SSXA1QnN0cFRTRXdPUHY4?oc=5>
+- **Trump** | 美国财长贝森特与中国副总理何立峰在首尔举行会谈，为特习峰会铺平道路 <https://news.google.com/rss/articles/CBMingFBVV95cUxQVzFMbmlEdGtvcXdpSUs5Z2xyWHhPamRHY2Y1YUFUZlhwQ0Y4MXN2S0pCcEVuNWp0czY5TzVWQnlyTnkxTVREem5hVmxuXzZiVk1WdFR2TXhsQThPUmZPWmJnemdDcm9HN0gwdTVlNGgyOEFyZFZIckI2MFJZaHFZVjNOWjJUSkhlR0RlNVJBTnBndEh1ODVmUUZiazhOQdIBoAFBVV95cUxNblRSZWVUQXgtdjVtNU9KRzd3MEhtdWhtQzBJRWdqcnd1bDRkWXhOTkc5MkZiXzVkTTlmNlVTTkxwRlZITi1IanZxUGc0OWFndURPTHYtandJX2VUMkdHd3BZR1J6UUg4TFBSaXVYVGpudVB4TXUtOTgxWEZuaEFPZy1fUXF2eVpmMlRzOV9OVzFibWZlWFJlSFFRZEFIZkFB?oc=5>
 
 ### 2026-05-13 15:23  (12 条)
 
