@@ -1,17 +1,23 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-14 06:20**
-- 本轮扫到 1024 条, 新增 **17** 条
+- 最近更新: **2026-05-14 09:14**
+- 本轮扫到 1035 条, 新增 **11** 条
 
 ---
 
-## 本轮新发现 (17 条)
+## 本轮新发现 (11 条)
+
+### 周杰伦温州演唱会倒计时，歌迷集结应援
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5393529473_m1417aba8103302pwt4.html>
 
 ### 酒店客房售罄、联名商品热卖、票根当钱花……周杰伦温州演唱会未演先燃
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://finance.sina.com.cn/jjxw/2026-05-13/doc-inhxvtwr4029240.shtml>
+- 链接: <https://k.sina.com.cn/article_5952915720_162d2490806703x21y.html>
 
 ### 独家视频丨习近平同美国总统特朗普举行会谈
 
@@ -19,132 +25,90 @@
 - 来源: `googlenews`
 - 场馆: 新浪新闻_手机新浪网
 - 时间: 2026-05-14 03:45
-- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTFBWN3NMaW9CUVgxNWcySTZmU21nYTVKMWdFVXp1M3JNSEk0S0NKa2ZUaFRBU2MtNUZLQlRFOWlubElvaXd2bTBLWGZhcHVNUTN3MUZqelJJVDJueTE2eHdBOTdPZmlVVW1CbzZMS1B3?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE1kZHJDaExldEFzaUVpSVJzZXhfTE5RX0NQM3k1V24wQVhUNjBfWU1TVU81NXdMcVVXUlgySWVSbU1XNFczektEQmI0SGpQTXFCVV9rdkJxdnkwU2NCc0NZMWtJeHJ5ektxWnl1NWtaVUxYWUdv?oc=5>
 
-### 直播丨习近平将举行仪式欢迎美国总统特朗普访华
+### 特朗普的豪华代表团都有谁
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-05-14 03:21
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mUHdpV0doTnJSUEtmY2R0U3oyQllrR05rSzlBUHRNS0x2bGZaYkpBQ19QZFl4OWlaM1ZtZEttLURLdkVsVjlfMlJGWWtnSzRYVU80S0Z6NmI1cUpaT0l0VQ?oc=5>
+- 场馆: 中国日报网
+- 时间: 2026-05-14 09:01
+- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTFBYMThMVUtnX3daSXdpRzlLUVBvckdvQTNUbGowU3dtOUZFSmpKVGVSYXRPX0N6eWJJajducmhMT3RPRjBuckRnQUo2Tl8yVTgwUm9zV1NZZWlNYTF6cW1sbXZyM3RJaGtxZllfMTNHQW1CRTZ2V2I1cDZJZw?oc=5>
 
-### 新华社权威快报丨习近平同美国总统特朗普举行会谈
+### 习近平同美国总统特朗普会谈
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新华网
-- 时间: 2026-05-14 02:23
-- 链接: <https://news.google.com/rss/articles/CBMijgFBVV95cUxOb3FrRHo3dmNlbEF3ZGtfdGhpRkJSQXEyUUtVTjRfajdQYk1IVnVBMjlPN0RVMk53MTZkSm1ic3UydjJtTDUwYWVuS2IzaldydDdIbXJaVTl0RVZhMGh5dUdTWnZ4dU1Nbkw1Y0otTVduX3ZlTzNOSDVWVUxWUFUwdlV1QlhPbGg5VTlsejhn?oc=5>
+- 时间: 2026-05-14 05:42
+- 链接: <https://news.google.com/rss/articles/CBMijgFBVV95cUxPazVPcnJzWnU5ZHJIdGVER2otcHQ5ZXdjUUR4Q1Q3UHQxeDIyRm1Rb2VoMERkVm1kT2JCd1RJQ0FKY3MwSmY2WDlaaXh1aEVWYlh6MzEybktnQm9EU05xcEdOeUxVLXpxYVBjanZKUVg1Z1cxclo1MmZ5N1VLcDBGR1RRdlBQU1NhRGJOdGVn?oc=5>
 
-### 红毯、国宴与黄仁勋：特朗普重返北京的第一天
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-05-14 04:32
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WVTlISnJMRVpnX3JJakVoTTgxOVk5T0ZXY2ZjMjd3eWtGQV9meWhBUFk4dUJQN0lBU1dISzJIV2sweUJ1SG9RMkkyMDZMclpicU0zaHBNOFRtQ2tCU24xcWxnWHBGZ9IBa0FVX3lxTE85Yy14Q0F4cUNwczFMVkphTXJPYk9KdnQxX25ZcGgwbUktYVYtYlZLN0dvSlVKZGw1Sy1XV3BnQWhNNzBSM0xod1lJa1FEdERZS25DRk9VV3VBUVJkRl9TcmlzV1FoOEtGb20w?oc=5>
-
-### 习近平举行仪式欢迎美国总统特朗普访华
+### 新华图讯丨习近平同美国总统特朗普参观天坛
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: court.gov.cn
-- 时间: 2026-05-14 02:05
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0wcHVOTXRBVTluQWFFTm44blh5VldXV3VZSW80d1NNMWJCRVV5SW4tMHR3ZWE1SkxaX09hSHRqTWFYSFZMYzUycmZaZ1dDNWRSV3U0ZE1rNTRKaFZrWlYxVFhvX2czemc?oc=5>
+- 场馆: 新华网
+- 时间: 2026-05-14 06:18
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE5tdEhlMUxZQ2lwSmlxSUNJOGVrQkhCb1lRSEVGOEl2ODBHOEZ5LUxzNUZiRng4LU5vME1CMmVzRFR3VWZYRVF2UE9jdHFPM3BZbnU5blZJWmZwR29uWG1WUVVlT3l1b3JqUHBuNVZNV3lNVzhlRV9ER0pCRUZPWGs?oc=5>
 
-### 时政第一线丨习近平主席将举行仪式欢迎美国总统特朗普访华
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: politics.people.com.cn
-- 时间: 2026-05-14 01:15
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTFBGNVNYTjd0REdrRUtnVTRGemVCU0ExVTFFZjVBUDA0QVl0WkJBSllhakFLaFlsenlxcE9KQW9KNHkyRWpTV3V6NTd4ejVHUzBSVU5FLWI5SGtPTFgyMWVfUTQyVG91QTdwRkVQR2FDYw?oc=5>
-
-### 习近平将举行仪式欢迎美国总统特朗普访华
+### 习近平将举行仪式欢迎特朗普访华
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 央视网
-- 时间: 2026-05-14 01:39
-- 链接: <https://news.google.com/rss/articles/CBMibEFVX3lxTE9RUWNMdnRjZ2NEM0tTMWt3dXNPcDVONGRZNXd1ekMza3ZOLWJRUldsVkJWc1hsWngzVjZzVExUVlJZQ3RvMGxVM21nZmVmZ2RlZDhkOTdmNXdJbktON1k5bFNCYm1xU3FwN3NPcg?oc=5>
+- 场馆: 观察
+- 时间: 2026-05-14 01:22
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE8zWFphMUdnLU5HeGNnZ2RZekxZSXB0bnlQX1lMMm8teXNlV0R0bnpmaTc3b2FUM0k3TDRicU95LVM5Y3RRRldpMlI2NzRHX1F3eE5TdklnS09EZF8xTGx6Y251S1JIUUdVb1E?oc=5>
 
 ### 新华图讯丨习近平为美国总统特朗普举行欢迎仪式
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中华人民共和国国防部
-- 时间: 2026-05-14 03:47
-- 链接: <https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LN1BlRGJwZ01zWGhxcEtyVnlONS1odWRLNXBJSkZTakpPcUZhOFpRcks4cFdYYVRPOHlnbkhrb2dicXcyWHpfLUxpVkU2QTQ2SVJkMERfX0Jydw?oc=5>
-
-### 特朗普时隔九年再度访华，中国年轻一代的“美国梦”在褪色吗？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-05-14 03:21
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NaEh2bEJieVdsMUtZdFo2YzNFWEpaWnNLQ3NuVGRPUkM4bzBMaUYxTXktTlk0eDdDazZDdHZHcV9kQzY3OEFLZ21KSmY5cjVPZkpZUFY0TW1ra1RhRDgwX0xhclhzd9IBa0FVX3lxTE9qS1E2VUg3eW1idnJ6RG91Ulk5WFhETEswbzRpM0RHUTNkdHdhM0pLY1BXVmRqb0xueDM5bjRTOW9oSjFzaU9Wa1VKbDBaNThXM0FqVkc4di1Jb21PZnZ5X2EyN2tFbjNVSUNV?oc=5>
-
-### 新华社消息丨习近平为美国总统特朗普举行欢迎仪式
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
 - 场馆: 新华网
-- 时间: 2026-05-14 02:19
-- 链接: <https://news.google.com/rss/articles/CBMid0FVX3lxTE51YzhkQXNRRXJRbjJ2VHEyY0ZfOW9US2ZjaHlXdS1JWW9LNzRyWjRrWnMwcDNVYkJFSGk0ZEJQalpxR254RTdDZVhfQV9SZF9XdC1YU195bVZteW1FcGY2U1BsYWxxanNzVzZ2Rmd2M1dWRTlHZ180?oc=5>
+- 时间: 2026-05-14 03:38
+- 链接: <https://news.google.com/rss/articles/CBMijgFBVV95cUxOZjB2a0NWTGVlY0dHaVdhR2tpWk1aRjU1RmZQLXJ4b29rcW9lVEpuc0s1WFNYaWtpTTFMYmRsSlUtMnJWVG1VcWcyNjBKNm01SVZJY3IxVU9ZY0ZRcTF2czNNOWZfWlpUZ1NxdTc1TWpZSy1fYllKWDVfeUZoQzdabzllZEp2THRsdWlVTk1n?oc=5>
 
-### 新华图讯丨习近平同美国总统特朗普举行会谈
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-05-14 04:31
-- 链接: <https://news.google.com/rss/articles/CBMid0FVX3lxTE1Bc2FjZDg4ZjNPdnVnN0J0aG4tQjA2LUZKeVRMd014X082MmdKSFlCeDNQbjFMQm1sX3BsR2ZBU1BWQ0ZGdkY2cVgyTEg5c0l2TlRWcTN2dVF1WVJyYVRhRzlWb3I0YW44cVpMTThXa0FlaXVtQ1BF?oc=5>
-
-### TRUMP 代币下跌 5%，同名手机将于下周开始发货
+### President Xi Jinping Holds Talks with U.S. President Donald J. Trump_中华人民共和国驻大韩民国大使馆
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: CoinDesk
-- 时间: 2026-05-13 13:52
-- 链接: <https://news.google.com/rss/articles/CBMisAFBVV95cUxOTUpleHlMM2NVTkZrVTBFZzJYMTJyYlBsbHNsaHRCblkzRmNlUVZidlFJOGtzenpYZnNkaC1tQ2I4QzBGbld5dVlYeW5aemRZbzE3SUVMcHU0NnZ6N0w3VjcxTno4SHQ3SlZVNmhvb2RPX1g4OURJNG9PVzlBcl9ETE05ZG9FOXVWeTcwWUxvRDZlMklmdDU2bWdHNmRNTW1ENWhrMmZCY2xnUXA1d0pxRA?oc=5>
+- 场馆: 驻韩国大使馆
+- 时间: 2026-05-14 07:27
+- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTE53MGZRMmZncEZDbHp6Z0MyU1JkRF9iSGVvQTNHczFVLWk5czdyTVJsbHBUWnY1eWZSd2wwUmRHelBEaTcwUmhUYm94RDdnTU12SFZJUGVpS1FENGpIUzc1WkZzUHBxU0tySjdKbjl5MnBrQjJsSFdLYXdjZw?oc=5>
 
-### Xi Jinping to Trump: China-US should partner, not compete
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: VOI.id
-- 时间: 2026-05-14 05:52
-- 链接: <https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5aSHBuYTBSM1hILXZaN3E2cm00RjlqeTkxbzFMNm5tVkhzVXl4SGRvVmlrYjI4SnVPbHlpV2dYSldfbGvSAUJBVV95cUxORy1ZOGU2VWZMVkg5UFZqbWUySkprdk5yTGpTSGJncmlpV3NPVUNXSGtpNE9jdkNWbk43UVFGTU0wX0E?oc=5>
-
-### Trump Mobile T1智能手机于多次延迟后开始向客户发货
+### Xi Raises Taiwan Question With Trump, Chinese State Media Reports
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 金融界
-- 时间: 2026-05-14 01:11
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE9uVkJjdjdhakx1X3dNR25jV0FOSnBCZlNxT1hfUjdDWEEza1pWU1RWSktrbUpHdXE1UFF4UFBHM2pycUF6TFNCUGlfM0FibkpZZWZsX3FNaTZ2Wl9Xc1NUYWhPMXpBR3VkRGNZRVNoZw?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-05-14 05:54
+- 链接: <https://news.google.com/rss/articles/CBMisAFBVV95cUxQX3UwRGg4eHlPaWxvMVQzUE51VG9NYnJnRlpVQXdDU0RFV2RGdEd4VVNSMEt4VklCZWJBVTRHdFF3OWJhcVlDQUNFbDNkU0hxTU1rUVFXbXZHOFYxYjlSNFF0Y2hZZXVHNk9wVWVISW51enBITi00aVNha2E4WXhXMDlDdC1TQjZoaVZVeUdna1oxMjZhZmJKbUxib29NT0lPWmdEODZ3ZGpONWJ5S2dkUQ?oc=5>
 
-### 特朗普总统抵达北京，出席自其第二任期开始以来与中国国家主席习近平举行的第二次峰会
+### 特习面对面，特朗普强调美中一起“会拥有美好的未来”
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: 美国之音
-- 时间: 2026-05-13 17:51
-- 链接: <https://news.google.com/rss/articles/CBMinwFBVV95cUxNcHZCUGV5Wno0N0JpNmNrZkFicjZ2bXFHSEJOaVMtS1I1RzFmWTM3Vkk5ZTZVbG83Q1VRTFhTa2lMZjRBVjV0Zmp5X2NfUkRteC1JSlNUR2JxNFUyMl9YRnpIRmpQSE1tLUZsNWc1YkptT084eHFfZDZ3Y2pfazVLX0g5VVVCa1NkRk10blh5X1J4elA3aU1WbW9oLUh2SDDSAaIBQVVfeXFMTnJYT3lqalg1b1ZNakYtS1B3ZUhkajhjMFBfVVFTRXdUTTNSVlNFNDRZSmpIN20tVlRRMXJ6RW9QaUFBZVBxaFJzQjNCcGc1SUljUUhfa0R3aDlUOXA5QUFHSU1IZ1hJdXRUTmVYdkdfbmE1dmI4eE5fdUk3WDBOTHRoSXdzT3p2SmxtRGp1d0xvNWVCQjVYMFJtU0R2N2h6ZXFn?oc=5>
-
-### 卢比奥：我们并非要束缚中国，但他们的崛起不能以牺牲我们为代价
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-05-14 05:11
-- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxQX19nM2xLN3FCcHgwaHk1X2VRSXE4bnN2Y3hVMTJKSXNxYWFVcHJSRGxyazZxcVFiS2hXcURsYlpaZWJCdnhmNDVRMkt3ZkJvVHBITGNQZzA5UUFPakRSMlQ0aFl0b3lRaDQxS2UzWGRWWnVFWjJiTXJNcmlRS2lmdTRMVlVvZmoxbXZRa21BY1hyc2dGVWhPNTJ1UFZQSW9HSklXZE80RTlSaUY4LXMyVWVkc3ZhU0IxaFdnYS1aWnNSM2JJVF9wQXM1djhQbWfSAdIBQVVfeXFMTnd5ekxlLWpRSGdwWVhlbWtwOE1wX1VWMl9jYnctTVdLZjVscllZT0l1ZkluWnZwQnhFd2FhM29KUlJQN3BERDRmVzJ1WllzSkR4cHUtV0hnTWZCV0ZlX3UtMEplWTFIUDZRZDBoZHNYTzVFMVhzYlRxLTNKMVR2ZFRpdS1HRXVXTThhdFVUR0hUdEVnOFVxc011WDFxdm1NYVhRa1k3R2h4ZjVSaTBtdGxiSmRuc2RMN1JST3lhZkVpRUlZaUFtWVRTaUpSMWc0bFR3?oc=5>
+- 时间: 2026-05-14 02:50
+- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxPekZSdDRsQmVId1pkVHFjQndKejdnLXd5ZF9rODNwOTgyVGt1dk9aLWlhUkJ4X0xza0FEREFpYVhROWxDX1JYWlNRZGZzNFhZelMyY3o4eFg3R0pqT05mdzZmVmoyOWRkZFlJNmFhMDMycGdMQUZldnVRX01IdkJzUlBmMXlOVW1jQmfSAYwBQVVfeXFMTmhoRmhsWVAwUzJyMWQ0ODFsX2pBSldLTUxyZzFqTW82Y0FFM3lYNVJQVDVTNnB6cllmcnFUZXR1b20xZFBaMlhsWHptclptYU91ZFgxVVJ6S2xIYlVUd0x0V25XSmp1RTBYYkV3ZUZGTlN4NW5kbXZlRklONUpiWWgxY180ZU9fdzJtTkU?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-14 09:14  (11 条)
+
+- **周杰伦** | 周杰伦温州演唱会倒计时，歌迷集结应援 <https://k.sina.com.cn/article_5393529473_m1417aba8103302pwt4.html>
+- **周杰伦** | 酒店客房售罄、联名商品热卖、票根当钱花……周杰伦温州演唱会未演先燃 <https://k.sina.com.cn/article_5952915720_162d2490806703x21y.html>
+- **特朗普** | 独家视频丨习近平同美国总统特朗普举行会谈 <https://news.google.com/rss/articles/CBMidEFVX3lxTE1kZHJDaExldEFzaUVpSVJzZXhfTE5RX0NQM3k1V24wQVhUNjBfWU1TVU81NXdMcVVXUlgySWVSbU1XNFczektEQmI0SGpQTXFCVV9rdkJxdnkwU2NCc0NZMWtJeHJ5ektxWnl1NWtaVUxYWUdv?oc=5>
+- **特朗普** | 特朗普的豪华代表团都有谁 <https://news.google.com/rss/articles/CBMie0FVX3lxTFBYMThMVUtnX3daSXdpRzlLUVBvckdvQTNUbGowU3dtOUZFSmpKVGVSYXRPX0N6eWJJajducmhMT3RPRjBuckRnQUo2Tl8yVTgwUm9zV1NZZWlNYTF6cW1sbXZyM3RJaGtxZllfMTNHQW1CRTZ2V2I1cDZJZw?oc=5>
+- **特朗普** | 习近平同美国总统特朗普会谈 <https://news.google.com/rss/articles/CBMijgFBVV95cUxPazVPcnJzWnU5ZHJIdGVER2otcHQ5ZXdjUUR4Q1Q3UHQxeDIyRm1Rb2VoMERkVm1kT2JCd1RJQ0FKY3MwSmY2WDlaaXh1aEVWYlh6MzEybktnQm9EU05xcEdOeUxVLXpxYVBjanZKUVg1Z1cxclo1MmZ5N1VLcDBGR1RRdlBQU1NhRGJOdGVn?oc=5>
+- **特朗普** | 新华图讯丨习近平同美国总统特朗普参观天坛 <https://news.google.com/rss/articles/CBMif0FVX3lxTE5tdEhlMUxZQ2lwSmlxSUNJOGVrQkhCb1lRSEVGOEl2ODBHOEZ5LUxzNUZiRng4LU5vME1CMmVzRFR3VWZYRVF2UE9jdHFPM3BZbnU5blZJWmZwR29uWG1WUVVlT3l1b3JqUHBuNVZNV3lNVzhlRV9ER0pCRUZPWGs?oc=5>
+- **特朗普** | 习近平将举行仪式欢迎特朗普访华 <https://news.google.com/rss/articles/CBMiakFVX3lxTE8zWFphMUdnLU5HeGNnZ2RZekxZSXB0bnlQX1lMMm8teXNlV0R0bnpmaTc3b2FUM0k3TDRicU95LVM5Y3RRRldpMlI2NzRHX1F3eE5TdklnS09EZF8xTGx6Y251S1JIUUdVb1E?oc=5>
+- **特朗普** | 新华图讯丨习近平为美国总统特朗普举行欢迎仪式 <https://news.google.com/rss/articles/CBMijgFBVV95cUxOZjB2a0NWTGVlY0dHaVdhR2tpWk1aRjU1RmZQLXJ4b29rcW9lVEpuc0s1WFNYaWtpTTFMYmRsSlUtMnJWVG1VcWcyNjBKNm01SVZJY3IxVU9ZY0ZRcTF2czNNOWZfWlpUZ1NxdTc1TWpZSy1fYllKWDVfeUZoQzdabzllZEp2THRsdWlVTk1n?oc=5>
+- **Trump** | President Xi Jinping Holds Talks with U.S. President Donald J. Trump_中华人民共和国驻大韩民国大使馆 <https://news.google.com/rss/articles/CBMie0FVX3lxTE53MGZRMmZncEZDbHp6Z0MyU1JkRF9iSGVvQTNHczFVLWk5czdyTVJsbHBUWnY1eWZSd2wwUmRHelBEaTcwUmhUYm94RDdnTU12SFZJUGVpS1FENGpIUzc1WkZzUHBxU0tySjdKbjl5MnBrQjJsSFdLYXdjZw?oc=5>
+- **Trump** | Xi Raises Taiwan Question With Trump, Chinese State Media Reports <https://news.google.com/rss/articles/CBMisAFBVV95cUxQX3UwRGg4eHlPaWxvMVQzUE51VG9NYnJnRlpVQXdDU0RFV2RGdEd4VVNSMEt4VklCZWJBVTRHdFF3OWJhcVlDQUNFbDNkU0hxTU1rUVFXbXZHOFYxYjlSNFF0Y2hZZXVHNk9wVWVISW51enBITi00aVNha2E4WXhXMDlDdC1TQjZoaVZVeUdna1oxMjZhZmJKbUxib29NT0lPWmdEODZ3ZGpONWJ5S2dkUQ?oc=5>
+- **Trump** | 特习面对面，特朗普强调美中一起“会拥有美好的未来” <https://news.google.com/rss/articles/CBMiigFBVV95cUxPekZSdDRsQmVId1pkVHFjQndKejdnLXd5ZF9rODNwOTgyVGt1dk9aLWlhUkJ4X0xza0FEREFpYVhROWxDX1JYWlNRZGZzNFhZelMyY3o4eFg3R0pqT05mdzZmVmoyOWRkZFlJNmFhMDMycGdMQUZldnVRX01IdkJzUlBmMXlOVW1jQmfSAYwBQVVfeXFMTmhoRmhsWVAwUzJyMWQ0ODFsX2pBSldLTUxyZzFqTW82Y0FFM3lYNVJQVDVTNnB6cllmcnFUZXR1b20xZFBaMlhsWHptclptYU91ZFgxVVJ6S2xIYlVUd0x0V25XSmp1RTBYYkV3ZUZGTlN4NW5kbXZlRklONUpiWWgxY180ZU9fdzJtTkU?oc=5>
 
 ### 2026-05-14 06:20  (17 条)
 
