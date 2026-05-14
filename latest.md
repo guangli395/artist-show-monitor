@@ -1,100 +1,98 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-14 17:45**
-- 本轮扫到 1085 条, 新增 **11** 条
+- 最近更新: **2026-05-14 19:40**
+- 本轮扫到 1094 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (11 条)
+## 本轮新发现 (9 条)
 
-### 新浪演唱会热点小时报丨2026年05月15日01时_今日实时演唱会热点速递
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905h5ss.html>
-
-### 新浪演唱会热点小时报丨2026年05月15日00时_今日实时演唱会热点速递
+### 温州接机成功！第一次接机哈，演唱会就要开始啦，你准备好了吗
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905h3ym.html>
+- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301blp2.html>
 
-### 特朗普访华之际，看懂关税战背后的产业真相
+### 美中各自公布特习峰会会谈纪要：白宫强调经贸、能源与伊朗问题，北京突出台湾问题和美中关系长期定位
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Sina finance
-- 时间: 2026-05-14 16:02
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE4yemdNRDByT3ZNbnF0Tk9oZWNGbnZqTHkyZmU3U3lkaEdUVk0xREltTkVwejhMZjNNMjFrTVN0OVVwcnRVUzM1U3FyMVNLVXFsUmdONmFBeEduSk5ISEp0ZW82c2hYQUIwTXVCR0k5TVF5X19DZlE?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-05-14 18:33
+- 链接: <https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbVhsZmVVX21yVkZodnZiWkpfVGt3VVdsdFNtczVpUWh6emhNS2hUcVR4YWcwem1IUHFhT1IyU2lXaEMtUUwwYUFZU08tV2puel9PM19zQktjaHY1REU2M21kMW9zTVpidnFaTFlMd1VUbDZUa1lBZXpqSHpaX3Z2RHh5OU0tNi14bkoyVnFTcFN5RU5uVEVILUhrMXVydWUtV0o2X21FZkNGQWpKcmRrYmtaSXFwd0tpVVNDYlQtTkpTQlJDbldKYtIBywFBVV95cUxPZTd5THJrV0djTnNwMnF1WXRFNVItV0xFTkF3ZFdPUGUyX0l4Y21DSm5VSDlLSGtJWmRhTWJtV2tqeXpQTnNNNlozMmt5V29hSkJOU080QmduNWpzYjlVcGRvRHFtSnpCYnRZT1J3ZVZWYmRpcEZ1eS13UmU0N0paMThvMFc3SlRXS0tCXzU1ajJvaVdVNVF3LVFjblNVcVFSaVk4Q0J6RUdCdmtzTG5aN09ISERZc1BGWmlwR1hqRWJPRVNzNS1OZmlfNA?oc=5>
 
-### 特朗普面对的是一个如今将自己视为与美国平起平坐的中国 法媒评
+### 特朗普称中国已同意购买200架波音飞机，数量远低于此前媒体透露的规模
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: RFI
-- 时间: 2026-05-14 17:13
-- 链接: <https://news.google.com/rss/articles/CBMivANBVV95cUxObFFEUjl0dFVrbjVobWVVczBUR1FySVprdUVONXA1amdVQzB6SkxOSDVfSTBSUWdpWHhuczFZaFJLNGtVZTRuTkRLQzZhcnhXZHppSGk4VEFfX25wM3FzWGJ4QU16ZVBlOTJmM2RVV0ZMTG84aFFFWWpXODJmelVBNjh1RzB6T05STUkydmlBOVpzOWh1Uk9YaVYyNHA0SVJqZnNQc1ZQSXpNQ2QtREFRMzB1NDFMVWJFNWZWSkI5YkNNSWpWb3hfRDZEZGRqVklfbUQxSHphbngtTE9qUlRsQlc5elVqZDE5Wk9ka0VabS1YSngxRGNFZ2JtV0lsXzZwTllsSFAyeUtuYXNHRktMRmNyd0NpbTZTZGE4WVpISGEzRy1TdWx0RDNIOE5tbTlEOG1XeGNJbmR4bktpbUctaFBiQTc2U3NpWEpYZkNTREZILWVEYTJ2Z3Q1MWNiak10eWsxV3BPQWZLbGlpQ3hyb09ZUTlXODRMOUN2NVhNM3F4UTY1RzQ5amdBZVpDWHNTdVl2MmcyQ0R4U0VUdzBWazRWYUZoMlEtSjNIdmlHTlM1Y1Zzc0hIVTlOMC0?oc=5>
+- 时间: 2026-05-14 17:50
+- 链接: <https://news.google.com/rss/articles/CBMi4wNBVV95cUxPOWNpZXp5UWZ2M0h6M0xkOG4wWnlZSUllZFFuUVRxTkhLczU3c2kxMjlfWnV6b0ZEcTBYUnJnaHFLZDRMaXlndGVZWUdzN3pVei1kRVYzZEU3Z092MXliVE9TZkhKdmZnODVDdHBGTzYyYk1aZzc2dGtydi1DaUExTUY0UlVhUEEwLWhBRXlNQ0VucHJyb05NUWRQb3pLak1wRklWc2VKUUJfSlc1cVJtQ0E4NC0zY0l1LURTTGVqekJSWVNhNW00Q0VzVDlYczN0aG9GS2pOVXh0eU5fY0Y5MHJzZlp6R3VpNFRqNlp2MTNweW82eXV5NXVkS2VLbVlDZF9hYmRjd1ZyMGdYNlZZVTV6TnluRVlBbkZLQnRWS19lS2FuSHVaVDlRRmtldm9reVNWVExLTEFWZ3B0RFQxQjZkbU00a0JoUWNYY0tXUGFwWHZsRE1MaHFKbVVBeS1WM2VHRTNCWEVyUWZrWER0cHNlWmNFM2pNU0ZNZlNpcjFvUUZjd0pfQmkyNjNXSUxXMTREaXBPbzIyYm92TGswRUhoRXMwSjBxZ2J4UExXdzRwcEExa2FxUVFGc2xMc1hoMHRmcG9GR0psUVc1RTRINExoeEthWU5IQjdSYWVEbjdEcXM?oc=5>
 
-### 特习会进行之际，伊朗宣布已允许若干中国船只通过霍尔木兹海峡
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-05-14 17:29
-- 链接: <https://news.google.com/rss/articles/CBMiuwNBVV95cUxNWnB2aWQ4eDNNLXVtaE5XUHZNRVZZZnJXOWwza054Q0hmUnBneVF4aHRiSnZTQk5FRWhtcVBWSGJoYnRaam1DTGY2WUVadFlHMk8wcFZLMS12MmhwNXVFSVR2SHNqNF9QS2hEQTFnSDJ0WXlvVGlNWEJrdHFZcFVhcXQ4R2c4N3NObzhMeWRWR2dBY0R1S2k2U1ZUUkFDVnlPN19zNEpHNXVHdy1CelF2bXR4UkY2RzI2RXo1dTJLSVN5LUNJeDh5aU1xSTlqMXEtNVExRzVIYjNnNW82eHdMZ0QtTG1EQzYxQ2V1Y2FrT0gzS3R2V2ctSFNOVTFIQnIybEFWRUNQaE96QmwzT2tjQ3VON2t0MEMydlA1dU9BMlFqZzliSEV5NnBpVXppV2lUUklnVEU5eGk0Z3RLN2JYU2gybXB1UXR2MWFEanlFakFRbTJTSVVlNHFsemo2c3JxWFU5cHNGTW11MjBIRDRuNFZpTGdoNHltd01HUXphcDFkZmNlZXZrQjM0MUVVcUxmakl4LW1yRk1fejdCcjFuSXhncmN3R0dMNHhiWFRadjdMNTZEeE1kM0Y5Yw?oc=5>
-
-### 视频丨习近平同美国总统特朗普参观天坛
+### “难以置信！”基辛格多年前的感叹，特朗普今日懂了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-05-14 14:51
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE00ZlpvMWxjZ0JkNG9FYUFfWHhGRTRMR25TeEgxYVRNajJ6cFdHY2tnS2s3Q0JhMGV5Tm9CVlZTR0FGYmluUGVnaG1sYlB5SkJkdjZsUFptV2lSOHVHcGxDaVB4bzh1dVFJZ1k1bWFab3JGdVR2cmtxQg?oc=5>
+- 时间: 2026-05-14 13:00
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9SSEdONGpfZTRRdC1HSXBGUkNBVWd3MWF0VFFxSmVkYmE0SE1IMjRaWGpwM3psUURMRUR6SmxId0tEUTdKOV9NbFJianhmSXRuZWpxMzJFZ0FzOU1OM0lYcGJ2SEliV2V6U2JKb0sxVUo?oc=5>
 
-### 习近平就台湾问题向特朗普发出警告，凸显北京峰会紧张焦点
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-05-14 11:44
-- 链接: <https://news.google.com/rss/articles/CBMilgFBVV95cUxOeExPR2RDc2IwQnNPbVE0ZUFlTS1wZl9YZFFQV0w1OXdYRkZOZjc4MjhKMVZJbWRFM1pMRVR4YlBSZk1SNWtQVFBYNFhsS21zZVo3RlI1TjJzWUE2NGlQSjc2SXdYS2JEUnotd3Z3WUFQV3BsZUlmcTNfNmpOYjRCcW9fdUFGbGFUeGpKTFk1NUFiY2FIcmc?oc=5>
-
-### 特朗普访华：习近平迎接美国总统，但棘手问题仍未解决
+### 美国总统特朗普乘车抵达天坛
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-05-14 15:30
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBaeVlQVV96Y25DRWZwb21VU0U2WFFhZFRNZExqaW5IM1N2UkhHejFvNnpxdlBBZ25oZmIzLVlDdy1kZ19uTkNDeUlhaHgzMTR5Y2N3aGVBVHFPWXZvQjFxZHY1Y1hWUdIBa0FVX3lxTFBXRFZ1T1dZOTdNNk5URVhFc0pULURpTkV5SENreHZfWUhia3VfQUVVc19QLTQ1Q2F2NEVIQVJ4dTB2bW15M3pyR1VvdVdSYV8yc0x3SnFvNzJWSmJBamYwZllSYXpMWkNMZHZN?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-05-14 08:33
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5kN3lEMDZudmFrN2trR19QNnhqenZnZnFOTEFkbHJ4RnhVdWRwWF9BYWZ4RFgxSHU0aTBpUUk1cXU2NFYzalZqSmc2Nm9odHUtTW1oZEtwVVJ4NHp1SG8xeVEza0FmSzJOZFBOa0xLT3VaWFVhclJ1cA?oc=5>
 
-### 特习会首日：习近平对台表述变化是什么意思？
+### 全视角看特朗普访华欢迎仪式
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: DW.com
-- 时间: 2026-05-14 13:31
-- 链接: <https://news.google.com/rss/articles/CBMirAJBVV95cUxPZXMyTXBoUzhmWmJMTlZZNHliQ0xyRGxjMHlueUhrWkl5dURKRERBR1BqM1hUek5oT2tGcm9Sb0xGV0tHRG9uTjJJcnBhczVsWUJMaDI0T2pYdUM4XzNYc3Rnd2o4MXlma3NZYXhkYjAwWlkxUGlZU2pLRkZmME5qNEU3WFBuTTBycnlrSEc5RnNHSDY4VE94QVlQMW50bk5vQmUwSGZ1UElSalpTWHpnUnhCYl9obk9wRk83QjZtNDk4d0FtX3ppMVFVU21renhZV1JJbUg0X3ktdVFlS011blFrVTFtTS1fRkwtWGlUaXNQa3dBWFF5QUVqMkdrdmFPVkpKc1V2VVB0cS1ESmZvSWxDbDFsQnNpaHJpR2xlRF9NVlJqTHkyWjhGeWHSAawCQVVfeXFMTll1OGxfYVNDYXJtRnNmZjN5QTVERGFrZTVtbE80T256M1A2WTU5RUg0Smp0UlJnZkR3SDFtbzhNcktvVzZsY01HRVZyR2Q1c2hUbGlvOHBtVzlMaUJCNllOUTcyOEJxVzdDRHdvaHFyMGpiZmxaNk1vTXVIeXRTSkNPOHBwaXZ5TlhOWXRwblFock5HamJEQjVvdkhsb2pSN3dLT25hcmRKeTgtR1FBVHBJSXh3VkxfZVJma21taGgza29jdm5rNFp5aURfZ20tT21Md2JtYklqbXAxN0d2TXBiSEYxQjBKbHBURkR3QWo1eHAyMmlMVnU1WS1WMHh0S3NjOElpeV9LQzF6cjBySFNqV0FqRHg1Z3NnM0xYejUwVDJWN2ZNRC13QnZu?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-05-14 08:18
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBDcE5jdDZYYXZDU09RbDRTZ1B0RnNrV1NVRmhLNE9JU0tqTnp6cmVtcFpOMzl6TVVyT3FENjh0eURuLUF4UnZxZVdGbHo?oc=5>
 
-### 特朗普总统抵达北京，展开为期两天的中国行
+### 澳廣視新聞｜Xi, Trump visit Temple of Heaven｜Xi, Trump visit Temple of Heaven
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 澳門廣播電視股份有限公司
+- 时间: 2026-05-14 15:23
+- 链接: <https://news.google.com/rss/articles/CBMikgFBVV95cUxNOHgtSThTTUNsV0JlbmJGMERJaGUxN3lYV3ZyS0ZhYmF1aG1TZjFLRmtqa09lYkVZZEdTMUN1dktSakRiX2xodFc2VVppVWdJWnlLM194ekRJYVprcm5DRnVfTGNhVTNHSVY1QVdjdUlzdFN2SlJsWmEwRUhTNnp5WXhYbmdfVnBMbGFmVlBYWVJmZw?oc=5>
+
+### Trump Discloses Big Buys of Shares in Boeing, Nvidia Amid President's China Trip
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-05-14 17:57
+- 链接: <https://news.google.com/rss/articles/CBMipgFBVV95cUxNempjVXU0RUpneVlHQVpEZlQ3YjBzM0ZGWVZWemFodHgwT055b3FBUlFHV1FBMXRPQ1hyU1VKSWQwTGk5ajBuUDM4VEtuWmN4UnJPOW9rc0FGZ0FEX1E2dkhQVUNOUUM2dGlSLTMxai12MjVjWkRDM2JmaDBGWlRJSFUzTDFUa2ZxYm9wQW1JSHRTdkl1aWYtaUlYMmhjdVZoZ2lCVnl3?oc=5>
+
+### 特朗普与习近平北京峰会首日气氛热络，双方提及伊朗与台湾等分歧议题
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: 美国之音
-- 时间: 2026-05-13 21:00
-- 链接: <https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMlFCNXJ0bDJtSUd4eEZqQlBfSmo2YkVlV3kxb3Y4Snlqb3VSNjZrZ0tRM2FoN2l5MUdTTUZITlp5Vkp1THpPeVo0N1pHSkt6ZGJidlRnMjk1WGdrTzBIX25SZVA0MlVyZjNMcFg1X2NubklFS0EwOGdRQmN6QVczRldCWEViVDhDOHg1M25hMDBNVVFQb3FHRUp6SkdJTkRWVFBHRmhPQk5lUFA0Z2xVWDFqdDg3NzJFUkMtaW8tTHJ2bmJNUk5rT0dvWW9pTEU3UTd2QVBpWE5YZkV5OHA5Szk0UkTSAecBQVVfeXFMT2NDNnhRY29nMGhJa0Z6NE1aU3VfY3NJTml0NllsTDNwMTRERi16RzJQMHRESExmQjJKN1VaQnZlX3NLZzVQM0NRUkpHeDZraHBDcUttZ1RYUm9YTkxOelktOC0tR2U0cDZfS0drT3M3SXp3LXFJM3VMcWR4UTIzZTZTbTAzeG9TMENvWVJoVTF1RWZBN25LN1NhLVQ0MzlybXNjZ0todlZiRlM0djZseWtwcWpRRl94TUVlQ2psNkdoOG1YckROc3dTcm9Hck1CVXZUNzVETW1pSzN4U3hRdWJZOTZWMXQ0?oc=5>
-
-### 特朗普总统与习近平北京会晤之际，全球市场涨跌互现，美股大幅上扬，油价保持稳定
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-05-14 15:55
-- 链接: <https://news.google.com/rss/articles/CBMi8wFBVV95cUxPVHZBQjI3RGY0UUlLNEhaaEZkU051ZXhFUHhTTXZJOGRGR3ZkT0tFYUJYcGwxWjFKd2t4anZzWGdfMDVteW1uNENPaFpFU0hhQjlsbDZ5N0t2OEM4ejFnLVh2dEY2enlFYjdfOUhBTDA5T0JSeks2ZG9oRXdPcWZ6bVR1RFNOZ1pQYWt1MHFfaFJtQjRBS0d6b0Y2TU1WUzhPd3ZlU2NxcEpqZGM5dEd3bVVlci1RemI5RG5yTWkyZmhKMXpET001RGxUc2VueWkzbDNCeEt3QXEzUHhhMGFjUnFqMTJXWUVOM1AxQ3dVQzA3aUXSAfYBQVVfeXFMT0lTa1IxZ3ZQQ0hnYWVoM29sQXU4eXFuQ3dDUWlDYm5XZ0FjbUtxLW1hd3dHM3lEaHNoSHBIeFgyZlNfdlFXU05GLWc0dHA0ekdWcnVNMnJWV2huM2FfaTV2TzF5SG9mZ2Mxd2pzMXpNdEtYck1qU3RET2hzYWExakJKV1hZQmlROVF0TUZ6WkFJbXR6dXpKYTRqa3pxdFBhb3hzdWFLM0VvM1lyU1E5MXhXaXNJSE5yUndJamJoZmU4bnQ5OWNKaHZHQ1ZXTzhIeks1Nzkxc3o3MHJ4S1FzdnNVdV9FLUYxcE1QNXlETTdRU012OVJB?oc=5>
+- 时间: 2026-05-14 17:36
+- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYWgxXy02anZrZ0toODN3RnpZR3VKc3ZDdE9TcXAydHp4SUdtYUVjOUFMU0NlMFlzaXMxLUFZelpjUUdjdHJJRzFsMXNJNVlMeGVOdXJFMHltMFBHcDdSVk9TMlZheXVhYjJnNWNDWjhfcUVreTZuRHJnd29fWi14SWwxUmx1azYxcFlBLXZlcVkyNnR6VC1ZUzZudXNoTVY0MjUxckdwR1lEZ9IBrAFBVV95cUxPanRWS3MxLVluR0NzczVSR0x4TVEtYVJqbDk0SVRLS2FrY05icmFKRVNXX0lDYlIxVlZRZjhlRnFURjhCVUpoS1NRYXl1eHVDMnhmRlNOVmplYXo2NmtrbXpMVC1HWUE3eTc3anhiR0dZeU9Pdy11Zzk3cGhYTkJ2LUVtYkgxQVhBSC1uU3JvMUxPRDRaRTFmSTFaU0hScjNhQjMySTM5WUIzZFhX?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-14 19:40  (9 条)
+
+- **周杰伦** | 温州接机成功！第一次接机哈，演唱会就要开始啦，你准备好了吗 <https://k.sina.com.cn/article_7879924009_m1d5ae192903301blp2.html>
+- **特朗普** | 美中各自公布特习峰会会谈纪要：白宫强调经贸、能源与伊朗问题，北京突出台湾问题和美中关系长期定位 <https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbVhsZmVVX21yVkZodnZiWkpfVGt3VVdsdFNtczVpUWh6emhNS2hUcVR4YWcwem1IUHFhT1IyU2lXaEMtUUwwYUFZU08tV2puel9PM19zQktjaHY1REU2M21kMW9zTVpidnFaTFlMd1VUbDZUa1lBZXpqSHpaX3Z2RHh5OU0tNi14bkoyVnFTcFN5RU5uVEVILUhrMXVydWUtV0o2X21FZkNGQWpKcmRrYmtaSXFwd0tpVVNDYlQtTkpTQlJDbldKYtIBywFBVV95cUxPZTd5THJrV0djTnNwMnF1WXRFNVItV0xFTkF3ZFdPUGUyX0l4Y21DSm5VSDlLSGtJWmRhTWJtV2tqeXpQTnNNNlozMmt5V29hSkJOU080QmduNWpzYjlVcGRvRHFtSnpCYnRZT1J3ZVZWYmRpcEZ1eS13UmU0N0paMThvMFc3SlRXS0tCXzU1ajJvaVdVNVF3LVFjblNVcVFSaVk4Q0J6RUdCdmtzTG5aN09ISERZc1BGWmlwR1hqRWJPRVNzNS1OZmlfNA?oc=5>
+- **特朗普** | 特朗普称中国已同意购买200架波音飞机，数量远低于此前媒体透露的规模 <https://news.google.com/rss/articles/CBMi4wNBVV95cUxPOWNpZXp5UWZ2M0h6M0xkOG4wWnlZSUllZFFuUVRxTkhLczU3c2kxMjlfWnV6b0ZEcTBYUnJnaHFLZDRMaXlndGVZWUdzN3pVei1kRVYzZEU3Z092MXliVE9TZkhKdmZnODVDdHBGTzYyYk1aZzc2dGtydi1DaUExTUY0UlVhUEEwLWhBRXlNQ0VucHJyb05NUWRQb3pLak1wRklWc2VKUUJfSlc1cVJtQ0E4NC0zY0l1LURTTGVqekJSWVNhNW00Q0VzVDlYczN0aG9GS2pOVXh0eU5fY0Y5MHJzZlp6R3VpNFRqNlp2MTNweW82eXV5NXVkS2VLbVlDZF9hYmRjd1ZyMGdYNlZZVTV6TnluRVlBbkZLQnRWS19lS2FuSHVaVDlRRmtldm9reVNWVExLTEFWZ3B0RFQxQjZkbU00a0JoUWNYY0tXUGFwWHZsRE1MaHFKbVVBeS1WM2VHRTNCWEVyUWZrWER0cHNlWmNFM2pNU0ZNZlNpcjFvUUZjd0pfQmkyNjNXSUxXMTREaXBPbzIyYm92TGswRUhoRXMwSjBxZ2J4UExXdzRwcEExa2FxUVFGc2xMc1hoMHRmcG9GR0psUVc1RTRINExoeEthWU5IQjdSYWVEbjdEcXM?oc=5>
+- **特朗普** | “难以置信！”基辛格多年前的感叹，特朗普今日懂了 <https://news.google.com/rss/articles/CBMicEFVX3lxTE9SSEdONGpfZTRRdC1HSXBGUkNBVWd3MWF0VFFxSmVkYmE0SE1IMjRaWGpwM3psUURMRUR6SmxId0tEUTdKOV9NbFJianhmSXRuZWpxMzJFZ0FzOU1OM0lYcGJ2SEliV2V6U2JKb0sxVUo?oc=5>
+- **特朗普** | 美国总统特朗普乘车抵达天坛 <https://news.google.com/rss/articles/CBMieEFVX3lxTE5kN3lEMDZudmFrN2trR19QNnhqenZnZnFOTEFkbHJ4RnhVdWRwWF9BYWZ4RFgxSHU0aTBpUUk1cXU2NFYzalZqSmc2Nm9odHUtTW1oZEtwVVJ4NHp1SG8xeVEza0FmSzJOZFBOa0xLT3VaWFVhclJ1cA?oc=5>
+- **特朗普** | 全视角看特朗普访华欢迎仪式 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBDcE5jdDZYYXZDU09RbDRTZ1B0RnNrV1NVRmhLNE9JU0tqTnp6cmVtcFpOMzl6TVVyT3FENjh0eURuLUF4UnZxZVdGbHo?oc=5>
+- **Trump** | 澳廣視新聞｜Xi, Trump visit Temple of Heaven｜Xi, Trump visit Temple of Heaven <https://news.google.com/rss/articles/CBMikgFBVV95cUxNOHgtSThTTUNsV0JlbmJGMERJaGUxN3lYV3ZyS0ZhYmF1aG1TZjFLRmtqa09lYkVZZEdTMUN1dktSakRiX2xodFc2VVppVWdJWnlLM194ekRJYVprcm5DRnVfTGNhVTNHSVY1QVdjdUlzdFN2SlJsWmEwRUhTNnp5WXhYbmdfVnBMbGFmVlBYWVJmZw?oc=5>
+- **Trump** | Trump Discloses Big Buys of Shares in Boeing, Nvidia Amid President's China Trip <https://news.google.com/rss/articles/CBMipgFBVV95cUxNempjVXU0RUpneVlHQVpEZlQ3YjBzM0ZGWVZWemFodHgwT055b3FBUlFHV1FBMXRPQ1hyU1VKSWQwTGk5ajBuUDM4VEtuWmN4UnJPOW9rc0FGZ0FEX1E2dkhQVUNOUUM2dGlSLTMxai12MjVjWkRDM2JmaDBGWlRJSFUzTDFUa2ZxYm9wQW1JSHRTdkl1aWYtaUlYMmhjdVZoZ2lCVnl3?oc=5>
+- **Trump** | 特朗普与习近平北京峰会首日气氛热络，双方提及伊朗与台湾等分歧议题 <https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYWgxXy02anZrZ0toODN3RnpZR3VKc3ZDdE9TcXAydHp4SUdtYUVjOUFMU0NlMFlzaXMxLUFZelpjUUdjdHJJRzFsMXNJNVlMeGVOdXJFMHltMFBHcDdSVk9TMlZheXVhYjJnNWNDWjhfcUVreTZuRHJnd29fWi14SWwxUmx1azYxcFlBLXZlcVkyNnR6VC1ZUzZudXNoTVY0MjUxckdwR1lEZ9IBrAFBVV95cUxPanRWS3MxLVluR0NzczVSR0x4TVEtYVJqbDk0SVRLS2FrY05icmFKRVNXX0lDYlIxVlZRZjhlRnFURjhCVUpoS1NRYXl1eHVDMnhmRlNOVmplYXo2NmtrbXpMVC1HWUE3eTc3anhiR0dZeU9Pdy11Zzk3cGhYTkJ2LUVtYkgxQVhBSC1uU3JvMUxPRDRaRTFmSTFaU0hScjNhQjMySTM5WUIzZFhX?oc=5>
 
 ### 2026-05-14 17:45  (11 条)
 
