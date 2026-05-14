@@ -1,48 +1,96 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-14 21:06**
-- 本轮扫到 1098 条, 新增 **4** 条
+- 最近更新: **2026-05-14 22:36**
+- 本轮扫到 1107 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (9 条)
 
-### 市场消息：特朗普伦理申报文件披露其涉及美股相关交易。
+### 周杰伦这次重返温州开演唱会，粉丝的反响有多热烈？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801kkia.html>
+
+### 周杰伦2005年和2024年在温州的演唱会有什么不同？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801kki8.html>
+
+### 习近平同美国总统特朗普会谈
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: mfa.gov.cn
+- 时间: 2026-05-14 05:44
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE9UN3VoUWJJZHpyck1nMzdZZ2FZWUJJemNvX2F2TUhmNzllTlpSb0dLemhteXlYRTVnckR4NjdfS2tBdElreElERGc0aTVzdVFvNC1OTGJNalU2RGVSN2RSZWdRRjN6YTZTVEI0?oc=5>
+
+### 习近平同美国总统特朗普参观天坛
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-05-14 08:56
+- 链接: <https://news.google.com/rss/articles/CBMijgFBVV95cUxNZTRqczhSVDd5MUVOX1FIc00zYV92T3RGZlYwajR2bVM5Ynh2THBub3RCNGtjM0dTdEdNU0xJcEEyLTl0NkJNVTJIeXhzRDlSa2lHNF9BZEdVMmNMdmphQkhJYWNjU3ZjeDVEQXNVOUdMd2l4VzdNNkZsM290Zmc3MmF1YnI5NFNlSmxNdWhn?oc=5>
+
+### 特朗普：中国同意购买200架波音飞机
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-05-14 21:54
+- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxQOVprbkpCZ2RSNUtUZXdiUG5TTEZYbnp2eHBLVmlEbTJnWmJ1WjZlUTMya0ZDWGI3WUhpbGk1SE05MkxkZENaemZibWltZV9ncm13RGxBWDVnOFRHTGRkT1BvRGhuSGJyTXdJQTRaTHp5NmpaZDMzU3lfa0o1N0gzVWM4VGQyeHlEN2pWbU5qck1pRGNv0gGXAUFVX3lxTFBrMWZUUVhTYzJhN3hrZ3RBY2Q5T3lfeXg4V0dIaHR0MC00eHJocXR0aEZ2TDhfNWNreUNVR2VrMW4wbFNkYS1CZklYRjRkYmQ0WHY1RDNRWDRwMzIxS19BcjBQYUZEXzhhcjZRR1RKUjFLZUttblNqcm1fZHNSYkl3Um5XZ3J2ZGR0Vk01MzhseVFTZmxTdTQ?oc=5>
+
+### 特朗普：对伊朗的军事打击将继续进行。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-14 20:46
-- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE5sSWV2VGUya0ExQzNxZ1hoQ1R1NHRMLVBmZ2E0WnRIaXU3VXNsdUZwd05BcUpNdFN5OWltME9SaVVOVXhmV2tYTDlobzJQems?oc=5>
+- 时间: 2026-05-14 21:44
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5HRjAwMUc0ckl4S1c4Rk92Qjl2OU15NUs4eTR1RXdsWHVaWXBTUWM4eTNMZTFtQzJ1aHVURFJnV3dEM2tVclJWeF9yWQ?oc=5>
 
-### 特朗普在天坛现场画面
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-14 20:05
-- 链接: <https://news.google.com/rss/articles/CBMilgJBVV95cUxQcnA1UThvVm1Ca1RFWWp1SlV6RV93N0RhbGxPQ19pQV9tN2gxa0hoNW5oNHpraUVrUW1JM01xb3NDczFmM2pLT1dZd1VUV2VIdHYyZ2VaZXZmUzRldVlubE01bHRvSF9Zb3NKOE9ySTZ4NnNvTWt6UGNSODFBVmE3UjEtNlJRNFduQ2FTVldidjhrdUZXTjdGUEYydHZlcE1WaFc4YV8tTG9hLXFsRzZmUkpiZ0EwSXp1QWxFdnNPQXdYamc3OGpBWmpQTFU2a1Etd2Z0YlI2UVBGcnNCZ2pmZU1kcDlMdjRBNVNxS3Jnb1YtdEhyMjNJeHRDY255X2NReFd0NTRWejI3eHotSGtnUzVybjFndw?oc=5>
-
-### 中方安保拒绝美特勤局特工携武器进入天坛 白宫记者团被延误近30分钟
+### 特朗普第一季度进行3,642笔股票交易，打破数十年保密信托惯例
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-05-14 08:50
-- 链接: <https://news.google.com/rss/articles/CBMi1wNBVV95cUxQbDlaZThqazZpTzlnek45RkROa1ZzRzBjQVA0cm51RWlJcE5VanhsUlpGQWtWUEhVTTNyVjBNLVc5NEVJUS1ya3RxOVM4WnYza05haWNrNDM2TzY4R09JbzlrczFiRXZaamZrQlJqRVZKbm9UWjdxeVhDa0d0MnRQTjlHWGpvQlJnOV9JbE9HZ0RqOG5QbVZtWHA3SE9FS2hQbm9tWnBBWXNRUGxqaDhfQm5nUDFKYTY2eTNIVmNVY25SQ3hkQXlKS0ZoOHRHOWd0NFJaX1BtYk4xMHlkeTJqeGpGQ0xRakVKMVdQRUsxVDdiWjBiTDdvNUNEaHcyTXBEZUNTWGFrLXNKaFFFRE5pYURhbXoxM1YtczBQUmdjVDFfUFFOaVQ5c0x2ekJNREpPS0JXd3lQWGhnVTVzVTdmeG92YXNkNmsxbU9lY0VDd2dic2ktT3dOdXVtNG1QZDIzVmNzc2hKRk1nS3VWQUFtRGdhVUY1UmdMOVZacUktZUhLbldfWm9OT19ka3NMMzFMS1ZrVVpCME0zdEpBVFhxeTRmV0hSVktLdXIwck5VM1BuV0Q5YzRDNU0zOXVHak9WcWJjNDhBRWVLT1h4UUNLbDEtLXlNdVE?oc=5>
+- 场馆: Sina finance
+- 时间: 2026-05-14 21:40
+- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTFBGUmxPNWQ1UmdfSGVGem1KWkZFX0RiVTA4cHc5LTYyS0JlZktVVTFNcVZTYjZ1dG1UNk1tSXlFcnBUa1RndFBnT0hncXE5WXlVdTdielVfcGNJdzNTcGdlNUJWNjE4M0d2UU1tWGgyTThJRlI0ZGltU1pB?oc=5>
 
-### 特朗普“深夜发帖”风暴：第二任期以来8800条帖子的内容特征与运作机制
+### 习近平同美国总统特朗普会谈
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: qq.com
-- 时间: 2026-05-13 20:50
-- 链接: <https://news.google.com/rss/articles/CBMiV0FVX3lxTE85U2tqZkphV21LdEkxY1ZiMXpZaFFxN1JxQ2RNYko3MEk0b0p4N05vRk1ERU44SjRkLVctbUxiUzNHNTVPNkVDVlVSUVIwcFB4LXh1QUFtYw?oc=5>
+- 场馆: 新华网
+- 时间: 2026-05-14 07:10
+- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTFBxNFk5bXAtdmN4Zl8wWDJYLTJnWEVBbkVIb3ZET29IR2N4WmZWOURnY2pnVUYwSkFRMlRrMDh3cmc4OTRpTnRMb3V4WF9KTXB0ejdGdnJpSUozclhsSVdMcjF3M0tuYWNrWVpaei1qWnJydEE4V05ESHlTMVlhQQ?oc=5>
+
+### 特朗普总统与习近平北京会晤之际，美国股市上扬，全球市场涨跌互现，油价上涨
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-05-14 21:21
+- 链接: <https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUXBvamJPZTdvMnA5XzFMNzJ2cENUcjY0NjFCMFVyWE5VNm5XMnY3VTRuWjF1eG0zRjNoVkN3N1lwd0VGZzRTSHJCazlmRlRrSTVXQ3VWb0R3SzZ3OFFod1A1WUxIOUdEUjNYLXZFNm1GbnM4ZDBtbkc1ZTlZN1d1TGV4aFZBd3YteVNkU2M3U0FvVHJXeUhsRjQ4c2hpQXNScnpZVzVsQUJzUUpZZTBmWG5QdEVhWnZzU0t3MkszRS1KTlZyNm9KUFJrSlRVaUNwWGZweVNZTGJRSFZ0NmtpNEJ3d011UlnSAeoBQVVfeXFMTWFjRVp5SHJmMUZZS2cwSDNUbDAyZ3VOb0FkOFUyNmVkeXk1dVZPYmlaQjR6ZFNHb2k4cDZzODRlNmZZcmpDdi0wYmhSSUhIWjlEZ1U5ZzRsaUsybTNscTltOEVyOWxIVHhYcVlSdHBOamxmbFhzN2lJa2VWYmZlNngycWNBOGZud3lieHlzX0l2cks2QnpWVTFuMmZidXRlZFBuWEhTUzJvbkpNbktIM1E2cndnTHBpLWQwWW9NZXZBc1Z6ZVhuNkRXWXlKMXFCRDdRSDNsVExFZTN3UWZjY3AtWndwcHE0YW9B?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-14 22:36  (9 条)
+
+- **周杰伦** | 周杰伦这次重返温州开演唱会，粉丝的反响有多热烈？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801kkia.html>
+- **周杰伦** | 周杰伦2005年和2024年在温州的演唱会有什么不同？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801kki8.html>
+- **特朗普** | 习近平同美国总统特朗普会谈 <https://news.google.com/rss/articles/CBMia0FVX3lxTE9UN3VoUWJJZHpyck1nMzdZZ2FZWUJJemNvX2F2TUhmNzllTlpSb0dLemhteXlYRTVnckR4NjdfS2tBdElreElERGc0aTVzdVFvNC1OTGJNalU2RGVSN2RSZWdRRjN6YTZTVEI0?oc=5>
+- **特朗普** | 习近平同美国总统特朗普参观天坛 <https://news.google.com/rss/articles/CBMijgFBVV95cUxNZTRqczhSVDd5MUVOX1FIc00zYV92T3RGZlYwajR2bVM5Ynh2THBub3RCNGtjM0dTdEdNU0xJcEEyLTl0NkJNVTJIeXhzRDlSa2lHNF9BZEdVMmNMdmphQkhJYWNjU3ZjeDVEQXNVOUdMd2l4VzdNNkZsM290Zmc3MmF1YnI5NFNlSmxNdWhn?oc=5>
+- **特朗普** | 特朗普：中国同意购买200架波音飞机 <https://news.google.com/rss/articles/CBMilAFBVV95cUxQOVprbkpCZ2RSNUtUZXdiUG5TTEZYbnp2eHBLVmlEbTJnWmJ1WjZlUTMya0ZDWGI3WUhpbGk1SE05MkxkZENaemZibWltZV9ncm13RGxBWDVnOFRHTGRkT1BvRGhuSGJyTXdJQTRaTHp5NmpaZDMzU3lfa0o1N0gzVWM4VGQyeHlEN2pWbU5qck1pRGNv0gGXAUFVX3lxTFBrMWZUUVhTYzJhN3hrZ3RBY2Q5T3lfeXg4V0dIaHR0MC00eHJocXR0aEZ2TDhfNWNreUNVR2VrMW4wbFNkYS1CZklYRjRkYmQ0WHY1RDNRWDRwMzIxS19BcjBQYUZEXzhhcjZRR1RKUjFLZUttblNqcm1fZHNSYkl3Um5XZ3J2ZGR0Vk01MzhseVFTZmxTdTQ?oc=5>
+- **特朗普** | 特朗普：对伊朗的军事打击将继续进行。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5HRjAwMUc0ckl4S1c4Rk92Qjl2OU15NUs4eTR1RXdsWHVaWXBTUWM4eTNMZTFtQzJ1aHVURFJnV3dEM2tVclJWeF9yWQ?oc=5>
+- **特朗普** | 特朗普第一季度进行3,642笔股票交易，打破数十年保密信托惯例 <https://news.google.com/rss/articles/CBMiekFVX3lxTFBGUmxPNWQ1UmdfSGVGem1KWkZFX0RiVTA4cHc5LTYyS0JlZktVVTFNcVZTYjZ1dG1UNk1tSXlFcnBUa1RndFBnT0hncXE5WXlVdTdielVfcGNJdzNTcGdlNUJWNjE4M0d2UU1tWGgyTThJRlI0ZGltU1pB?oc=5>
+- **特朗普** | 习近平同美国总统特朗普会谈 <https://news.google.com/rss/articles/CBMifkFVX3lxTFBxNFk5bXAtdmN4Zl8wWDJYLTJnWEVBbkVIb3ZET29IR2N4WmZWOURnY2pnVUYwSkFRMlRrMDh3cmc4OTRpTnRMb3V4WF9KTXB0ejdGdnJpSUozclhsSVdMcjF3M0tuYWNrWVpaei1qWnJydEE4V05ESHlTMVlhQQ?oc=5>
+- **Trump** | 特朗普总统与习近平北京会晤之际，美国股市上扬，全球市场涨跌互现，油价上涨 <https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUXBvamJPZTdvMnA5XzFMNzJ2cENUcjY0NjFCMFVyWE5VNm5XMnY3VTRuWjF1eG0zRjNoVkN3N1lwd0VGZzRTSHJCazlmRlRrSTVXQ3VWb0R3SzZ3OFFod1A1WUxIOUdEUjNYLXZFNm1GbnM4ZDBtbkc1ZTlZN1d1TGV4aFZBd3YteVNkU2M3U0FvVHJXeUhsRjQ4c2hpQXNScnpZVzVsQUJzUUpZZTBmWG5QdEVhWnZzU0t3MkszRS1KTlZyNm9KUFJrSlRVaUNwWGZweVNZTGJRSFZ0NmtpNEJ3d011UlnSAeoBQVVfeXFMTWFjRVp5SHJmMUZZS2cwSDNUbDAyZ3VOb0FkOFUyNmVkeXk1dVZPYmlaQjR6ZFNHb2k4cDZzODRlNmZZcmpDdi0wYmhSSUhIWjlEZ1U5ZzRsaUsybTNscTltOEVyOWxIVHhYcVlSdHBOamxmbFhzN2lJa2VWYmZlNngycWNBOGZud3lieHlzX0l2cks2QnpWVTFuMmZidXRlZFBuWEhTUzJvbkpNbktIM1E2cndnTHBpLWQwWW9NZXZBc1Z6ZVhuNkRXWXlKMXFCRDdRSDNsVExFZTN3UWZjY3AtWndwcHE0YW9B?oc=5>
 
 ### 2026-05-14 21:06  (4 条)
 
