@@ -1,84 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-14 22:36**
-- 本轮扫到 1107 条, 新增 **9** 条
+- 最近更新: **2026-05-14 23:52**
+- 本轮扫到 1108 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (9 条)
+## 本轮新发现 (1 条)
 
-### 周杰伦这次重返温州开演唱会，粉丝的反响有多热烈？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801kkia.html>
-
-### 周杰伦2005年和2024年在温州的演唱会有什么不同？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801kki8.html>
-
-### 习近平同美国总统特朗普会谈
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: mfa.gov.cn
-- 时间: 2026-05-14 05:44
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE9UN3VoUWJJZHpyck1nMzdZZ2FZWUJJemNvX2F2TUhmNzllTlpSb0dLemhteXlYRTVnckR4NjdfS2tBdElreElERGc0aTVzdVFvNC1OTGJNalU2RGVSN2RSZWdRRjN6YTZTVEI0?oc=5>
-
-### 习近平同美国总统特朗普参观天坛
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-05-14 08:56
-- 链接: <https://news.google.com/rss/articles/CBMijgFBVV95cUxNZTRqczhSVDd5MUVOX1FIc00zYV92T3RGZlYwajR2bVM5Ynh2THBub3RCNGtjM0dTdEdNU0xJcEEyLTl0NkJNVTJIeXhzRDlSa2lHNF9BZEdVMmNMdmphQkhJYWNjU3ZjeDVEQXNVOUdMd2l4VzdNNkZsM290Zmc3MmF1YnI5NFNlSmxNdWhn?oc=5>
-
-### 特朗普：中国同意购买200架波音飞机
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-05-14 21:54
-- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxQOVprbkpCZ2RSNUtUZXdiUG5TTEZYbnp2eHBLVmlEbTJnWmJ1WjZlUTMya0ZDWGI3WUhpbGk1SE05MkxkZENaemZibWltZV9ncm13RGxBWDVnOFRHTGRkT1BvRGhuSGJyTXdJQTRaTHp5NmpaZDMzU3lfa0o1N0gzVWM4VGQyeHlEN2pWbU5qck1pRGNv0gGXAUFVX3lxTFBrMWZUUVhTYzJhN3hrZ3RBY2Q5T3lfeXg4V0dIaHR0MC00eHJocXR0aEZ2TDhfNWNreUNVR2VrMW4wbFNkYS1CZklYRjRkYmQ0WHY1RDNRWDRwMzIxS19BcjBQYUZEXzhhcjZRR1RKUjFLZUttblNqcm1fZHNSYkl3Um5XZ3J2ZGR0Vk01MzhseVFTZmxTdTQ?oc=5>
-
-### 特朗普：对伊朗的军事打击将继续进行。
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-14 21:44
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5HRjAwMUc0ckl4S1c4Rk92Qjl2OU15NUs4eTR1RXdsWHVaWXBTUWM4eTNMZTFtQzJ1aHVURFJnV3dEM2tVclJWeF9yWQ?oc=5>
-
-### 特朗普第一季度进行3,642笔股票交易，打破数十年保密信托惯例
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: Sina finance
-- 时间: 2026-05-14 21:40
-- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTFBGUmxPNWQ1UmdfSGVGem1KWkZFX0RiVTA4cHc5LTYyS0JlZktVVTFNcVZTYjZ1dG1UNk1tSXlFcnBUa1RndFBnT0hncXE5WXlVdTdielVfcGNJdzNTcGdlNUJWNjE4M0d2UU1tWGgyTThJRlI0ZGltU1pB?oc=5>
-
-### 习近平同美国总统特朗普会谈
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-05-14 07:10
-- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTFBxNFk5bXAtdmN4Zl8wWDJYLTJnWEVBbkVIb3ZET29IR2N4WmZWOURnY2pnVUYwSkFRMlRrMDh3cmc4OTRpTnRMb3V4WF9KTXB0ejdGdnJpSUozclhsSVdMcjF3M0tuYWNrWVpaei1qWnJydEE4V05ESHlTMVlhQQ?oc=5>
-
-### 特朗普总统与习近平北京会晤之际，美国股市上扬，全球市场涨跌互现，油价上涨
+### Trump meets Xi; The new vision of building a constructive China-U.S. relationship of strategic stability; AI
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-05-14 21:21
-- 链接: <https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUXBvamJPZTdvMnA5XzFMNzJ2cENUcjY0NjFCMFVyWE5VNm5XMnY3VTRuWjF1eG0zRjNoVkN3N1lwd0VGZzRTSHJCazlmRlRrSTVXQ3VWb0R3SzZ3OFFod1A1WUxIOUdEUjNYLXZFNm1GbnM4ZDBtbkc1ZTlZN1d1TGV4aFZBd3YteVNkU2M3U0FvVHJXeUhsRjQ4c2hpQXNScnpZVzVsQUJzUUpZZTBmWG5QdEVhWnZzU0t3MkszRS1KTlZyNm9KUFJrSlRVaUNwWGZweVNZTGJRSFZ0NmtpNEJ3d011UlnSAeoBQVVfeXFMTWFjRVp5SHJmMUZZS2cwSDNUbDAyZ3VOb0FkOFUyNmVkeXk1dVZPYmlaQjR6ZFNHb2k4cDZzODRlNmZZcmpDdi0wYmhSSUhIWjlEZ1U5ZzRsaUsybTNscTltOEVyOWxIVHhYcVlSdHBOamxmbFhzN2lJa2VWYmZlNngycWNBOGZud3lieHlzX0l2cks2QnpWVTFuMmZidXRlZFBuWEhTUzJvbkpNbktIM1E2cndnTHBpLWQwWW9NZXZBc1Z6ZVhuNkRXWXlKMXFCRDdRSDNsVExFZTN3UWZjY3AtWndwcHE0YW9B?oc=5>
+- 场馆: Sinocism | Bill Bishop
+- 时间: 2026-05-14 22:42
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5leWVKbDFGc0VOd1BZOWhMYzc5ZDNTR2hMQXotWG9YdmdSR1pTbUxxMENpejBEa3o5cG5vc3gtLWxSWWJka0cxcmQ2dG1EeENWOUhBTS1kempVa2gyVmI3OFFLelAtZw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-14 23:52  (1 条)
+
+- **Trump** | Trump meets Xi; The new vision of building a constructive China-U.S. relationship of strategic stability; AI <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5leWVKbDFGc0VOd1BZOWhMYzc5ZDNTR2hMQXotWG9YdmdSR1pTbUxxMENpejBEa3o5cG5vc3gtLWxSWWJka0cxcmQ2dG1EeENWOUhBTS1kempVa2gyVmI3OFFLelAtZw?oc=5>
 
 ### 2026-05-14 22:36  (9 条)
 
