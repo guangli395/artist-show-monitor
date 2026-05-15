@@ -1,54 +1,44 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-15 21:55**
-- 本轮扫到 1222 条, 新增 **5** 条
+- 最近更新: **2026-05-15 22:50**
+- 本轮扫到 1225 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (3 条)
 
-### 新浪演唱会热点小时报丨2026年05月16日05时_今日实时演唱会热点速递
+### 新浪演唱会热点小时报丨2026年05月16日06时_今日实时演唱会热点速递
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905ir62.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905itgk.html>
 
-### 特朗普结束与习近平的北京峰会，强调中国预计大规模购买美国客机和大豆
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-05-15 21:23
-- 链接: <https://news.google.com/rss/articles/CBMijwJBVV95cUxPMHBzXzg0QVJNZ3NBQ1VsbElHc18wUXpHVmZEWExRWENyc0FmVEZlNGFYa0FGRE5Ba3ZIR2EzWWhMNy13THpjNUY3THFxZUJKRFVHUENUR0lpaG9LODV2d0lycmx0SmhDX0FmTmd2aDdBWTJ6RXBVY0lGN1BJcWZ4R3phTW5Bc3Rac2taQWstcGZqOEVKaDZDeWw1eWtDcURuYlpNOHdadjVpcUFFWmg2QjJTR2hId2p0UVBFYWg5Z3J6QXhGZlgxREFtelg3MVIyaXhja254OXlyellkcjRLV251NEMyQ0d4em84SnRlZVM4LW1Pb212c3A0VHVnWmc3QW5sT1dyOWItd2tya3RJ0gGSAkFVX3lxTE9xajQ0c2FVaG05MmliWlQxT1dXdU9sc3lXOXRIOGJBcWZxVmw2ZElYWElXVjFUMjdnRDFVMnc1NzJkQ2Y4QTF3eGlLRVBSdEZ0TFdhSnpmZ2JQT3ZDR1M4QzNyZDJQX3ZSSXBWRndqLWJacDRuUmUyTmQ3d0pieG1zVjAzQXlKZVZEV2FLbWdSVzhqc0RjdkNyUHJZMVd6Mlc2dUhHWUJZVFhZbVFJY0ZzdS1KdkdvOGl4Z0lqZG5fRDZxNlhEcXVjUG05MmdNODJGTXkzT1lyelhpTjZOU2ZybHZDVHN0STFRWjh2X1VpUXNPYmthbXUyMm9ZNWZUV002U1Q4OVFRazJOa2o0cjlkc3c?oc=5>
-
-### 美民主党质疑特朗普政府放宽英伟达对华出口涉及利益冲突
+### 中方接待特朗普规格，为何更高了？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-05-15 21:33
-- 链接: <https://news.google.com/rss/articles/CBMilwNBVV95cUxOUnJBWTE0YzNJZVV0SG9lekhxUGlLN2pSSDROV282S0J3V24zcFByaEdWdzhmQ3VDT2RpR2czX3BTX1d0bDdEQWwzWUZqTTk4Yy1GMEwwdzVxN1luNTlnS1V6X1V1R0drSkRwaFBtNjdybmtBajB6bm91aXpvT1htQ05ESkI5bTdlSGZTa2c5YW1kT0FhM1hMbzZUQXVxZ3VVY0NIaWpFc1FLYXNZWmstUUlBMmVpZWpseVFQa0lrLXJxcTlKNGRRbm1BUXhncE90aE54Um1HSF93bG1qNW95Z3BDRWRIS1FrM3VoVjJOOUwzbmFCOWZ5SUgxellaMlRRams0V09WODZHSlVJYmZkdWxUcE5Zbnh5amMyUU00ZVdhazVPNzRuUmtzQ0NETkhadWFCY2FCb19BcldwVDkyaVQwSnF0RzFMcU9Jc2tsX1ppUVRJZUYxcW1sNW9UUEpsLURBQ1h3ZjAyM01WVW01UnB0NlBDMFlTblMzV3hMV1I1ZlhmZlBPaUhJTmFKZFNnWGdxR0pJSQ?oc=5>
+- 场馆: guancha.cn
+- 时间: 2026-05-14 12:50
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5nbW56VTBoQzNsakVTZHc3TF9mNGNJbjFwU0s5eVZ2cHNsWGlNMmx2R3lvX2ViR1NneXJsdjRySTZMN3Y5ZTJJUXgtRXFOVFQwZDkyOHZKMDBnOEdIakZaWXlYQThjQUhEUmc?oc=5>
 
-### 特朗普结束访华：一次历史性标志性的访问
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-05-15 12:39
-- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxONVpib1dkQ1YtSGV0TWNQNWdqNXFieHJjQ2NEcE9FdGtxMlBVQmVTTDh3Z2t5ZUFxYkhyR3J1NHJVd1dUcWtNSTFsV0x6NEF6aG41RDB2a3JrSktaRmtaTlk3M3Y5VkNIV1ptVXhySlVKYjNnbVdKazJ2MEpWb0l5ZW5qSQ?oc=5>
-
-### Trump departs for Washington after a private meeting with President Xi Jinping on Friday
+### 特朗普称对伊朗"失去耐心" 中国未明确介入霍尔木兹海峡危机
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 澳門廣播電視股份有限公司
-- 时间: 2026-05-15 08:41
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxQYXdJVWZuWnhpNWZGVnY4ZXV3cG5GSHdBRjdHUUg5SnZkNE5ZV1dSVW9DcmxFU21ab21IWjdNb1QwTjBQNEZYRXBYSzU4cktjYUJjZmlMVWRQUlB0WlNzY1BGbk9PX1A3cGc1aVNPSlNmdlBDdFhXUXRhWDh4RlJkR1pDT3RWbms?oc=5>
+- 场馆: RFI
+- 时间: 2026-05-15 21:29
+- 链接: <https://news.google.com/rss/articles/CBMimgNBVV95cUxNNlFhT2JTcmVveWdjY3BUODZYWjFmWHhYNURQWnFQLW45RFhXU2NoUDVHMnhFS1kzLUNEWXFUTzdoMGdEVHN5SHVGS0J3THRtYUlfV0dCMjZUZ3NveE5WN0pCakNzZXVGbVBjNVo2c0psUmNsUGx2YXQyTHlWLWZZN2FyMEpjWVVhcFVuTlVtNkxlSG5QZEdyWVI4dHZ4eV9qSVdDRDNUbUctUW5GbjdEM1E5N1F3R0lHd21iMEtFNEM3TGdCQlZMN2VCYUl2RkF1ei1WTWpobUFlTUt1UzN3WWZndnJfR3dBemFKYzF5am9QdEJLanQtbHFrSVdETXg1UHlHVXNKSmVNRFkyalBQU3F4Qk1QYlRVTHp0VWM1dGlndGRMZFFtS2RQWGY5ZkJOTU9hRU4tV28ycW5HT0l5REw0THIzMm9aUFBUNTNzSk5HNzZqcm1hN3F5dW5uZGxrNXNBeHRTUC0yZ3B2ZmgzRnNNOTZRNlJDcXlkY0tLZ3YtbVZWdkNybXpBVktmWHB2dHRDMTdwY0Rodw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-15 22:50  (3 条)
+
+- **周杰伦** | 新浪演唱会热点小时报丨2026年05月16日06时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001905itgk.html>
+- **特朗普** | 中方接待特朗普规格，为何更高了？ <https://news.google.com/rss/articles/CBMiakFVX3lxTE5nbW56VTBoQzNsakVTZHc3TF9mNGNJbjFwU0s5eVZ2cHNsWGlNMmx2R3lvX2ViR1NneXJsdjRySTZMN3Y5ZTJJUXgtRXFOVFQwZDkyOHZKMDBnOEdIakZaWXlYQThjQUhEUmc?oc=5>
+- **Trump** | 特朗普称对伊朗"失去耐心" 中国未明确介入霍尔木兹海峡危机 <https://news.google.com/rss/articles/CBMimgNBVV95cUxNNlFhT2JTcmVveWdjY3BUODZYWjFmWHhYNURQWnFQLW45RFhXU2NoUDVHMnhFS1kzLUNEWXFUTzdoMGdEVHN5SHVGS0J3THRtYUlfV0dCMjZUZ3NveE5WN0pCakNzZXVGbVBjNVo2c0psUmNsUGx2YXQyTHlWLWZZN2FyMEpjWVVhcFVuTlVtNkxlSG5QZEdyWVI4dHZ4eV9qSVdDRDNUbUctUW5GbjdEM1E5N1F3R0lHd21iMEtFNEM3TGdCQlZMN2VCYUl2RkF1ei1WTWpobUFlTUt1UzN3WWZndnJfR3dBemFKYzF5am9QdEJLanQtbHFrSVdETXg1UHlHVXNKSmVNRFkyalBQU3F4Qk1QYlRVTHp0VWM1dGlndGRMZFFtS2RQWGY5ZkJOTU9hRU4tV28ycW5HT0l5REw0THIzMm9aUFBUNTNzSk5HNzZqcm1hN3F5dW5uZGxrNXNBeHRTUC0yZ3B2ZmgzRnNNOTZRNlJDcXlkY0tLZ3YtbVZWdkNybXpBVktmWHB2dHRDMTdwY0Rodw?oc=5>
 
 ### 2026-05-15 21:55  (5 条)
 
