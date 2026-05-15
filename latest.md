@@ -1,24 +1,89 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-14 23:52**
-- 本轮扫到 1108 条, 新增 **1** 条
+- 最近更新: **2026-05-15 02:37**
+- 本轮扫到 1116 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮新发现 (8 条)
 
-### Trump meets Xi; The new vision of building a constructive China-U.S. relationship of strategic stability; AI
+### 周杰伦昆凌携三子女抵温州，全家现身演唱会
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879924004_m1d5ae192403301yzfu.html>
+
+### 习近平同美国总统特朗普会谈
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-05-14 12:40
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5aeFNVR3EyUzV3cU92SjZzN28tVTJYOEU2eU1hTXNsUmMxaWNVeEc0azF2dy13Vk5YckFSUDNxQ0pOZzJWTmxMaE00cWk?oc=5>
+
+### 中国媒体将特朗普访华视为外交胜利
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 纽约时报中文网
+- 时间: 2026-05-15 01:08
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE16TVdLR1dvNllhSUFqWHlCaGJMbV9NZFg5WExtY2pfUmRWTDFnVDBjOUE4YnJ4LUxFZDU4X0Z5Y193ZlU0UTUteWZOUEVPYlZIWExQQy04MkV2a3JBdWt1N3E2ODhwNTI4UUlz?oc=5>
+
+### “需要共同书写的时代答卷”——习近平主席同特朗普总统会晤侧记
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-05-14 17:21
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1oWGZ2MWlpT2RBM2VNR3I2S0ZGSUt2YUlmTHNkcGNPSlZqb3BLdU9uQnRqbUJ4SFk2dUtpal91OXVYZnB2NEhrenptNnhVRTVVTUdkOFRTUHhXeEtmTzBPcmZrdDFSbW83WHAzVmhmNWJYVHVfdG9IWkRiN1R0SHM?oc=5>
+
+### 特朗普：“对台军售 习主席不希望我们这么做”
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Sinocism | Bill Bishop
-- 时间: 2026-05-14 22:42
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5leWVKbDFGc0VOd1BZOWhMYzc5ZDNTR2hMQXotWG9YdmdSR1pTbUxxMENpejBEa3o5cG5vc3gtLWxSWWJka0cxcmQ2dG1EeENWOUhBTS1kempVa2gyVmI3OFFLelAtZw?oc=5>
+- 场馆: RFI
+- 时间: 2026-05-11 20:51
+- 链接: <https://news.google.com/rss/articles/CBMiugJBVV95cUxOd0lBTTVDVUhhS3h5TXZiaHVsSjZBNE5zdUMzTjVKYnlZT1E5UUZJY0h1d3lJSE1MM0dGeGhNcXFmbFEtck10N2NiaEE3UWF1b0EyZzZWbGtBZ0twb1FvalVQOWJGWU5Pc0hmd09yb0d2OVZFQmkzWXBDYjNYYVhGY3JZMGxxeE5hV0FreVNyTmdhX1JQNFNiYkY1ejhBd0ZHR08ycFhxbHdZMklLQ2d0SUd6YmVCMDZMcnlPZ2ZlamN6MWV1QVFoazVuYy1YSmNCMXplQzZ2RjBvWjhpM2UtWHFzNEUzTzBBcGVxeVZXS0YyQW9mUnhGV3QyMjRlWEFHNGJkNFNsWjlPRC1kcVR6anhyc0VwWWdqcFJweEhCLTRwcnczZklhd0w5ZjRuZmNDMkFiM1dBb2lTdw?oc=5>
+
+### 习特会北京国宴 淮扬菜料成宴席主角
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 8world
+- 时间: 2026-05-14 09:32
+- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxQU3l3U2R5UEFRQlRjYlFnNUFHOWdiXzhkUm56MTdrRVNYNEkwMUNzSkwxVGQ1akFuSEFWS3F0dTk5S3JZcmZJZTlKNUVTWW5kLXZ1dEx3anoxSXZXbXd3WjBuUEhOVm9pbmcwZjRqY3FYVEFHRHkyZTFkdjU5YzhSMTRoSTFoYTJ0R1ZjaVpKY1lJMVdGc1RlZlptb3FaWl9n?oc=5>
+
+### 为什么说习近平手握王牌、不需要与特朗普达成协议
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 纽约时报中文网
+- 时间: 2026-05-14 02:26
+- 链接: <https://news.google.com/rss/articles/CBMid0FVX3lxTE96dExtckVHcUp3czhqVlRUTlFRemtYSHpQWVBhTGFJRDI4Zjk4U2poWTdXQnJ1ZzFIU3RQeC0wai0ycUFtRXkzTXAyWURoV1NNT2JPdm9hWkF4Q2g3T0p3NGNtT3dhaUZjVlhqZ0hzQVpwa2ZmUUpB?oc=5>
+
+### Trump於Q1买入Nvidia、Boeing、Microsoft股份
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: AASTOCKS.com
+- 时间: 2026-05-14 23:59
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE5EajZ1TUxUcmpfZk92QVJnSVY5UEF1UWhzQ09nTGUzUnh0c2w4TzFiN3E3ZmRvd3V2S1RrbThoc2dpc0dUSU9ac3FpT3dIbGNxOFdGeW1kUzF6Rk1SR2hlUnBOSzZhOGN1alY5N3pUbw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-15 02:37  (8 条)
+
+- **周杰伦** | 周杰伦昆凌携三子女抵温州，全家现身演唱会 <https://k.sina.com.cn/article_7879924004_m1d5ae192403301yzfu.html>
+- **特朗普** | 习近平同美国总统特朗普会谈 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5aeFNVR3EyUzV3cU92SjZzN28tVTJYOEU2eU1hTXNsUmMxaWNVeEc0azF2dy13Vk5YckFSUDNxQ0pOZzJWTmxMaE00cWk?oc=5>
+- **特朗普** | 中国媒体将特朗普访华视为外交胜利 <https://news.google.com/rss/articles/CBMia0FVX3lxTE16TVdLR1dvNllhSUFqWHlCaGJMbV9NZFg5WExtY2pfUmRWTDFnVDBjOUE4YnJ4LUxFZDU4X0Z5Y193ZlU0UTUteWZOUEVPYlZIWExQQy04MkV2a3JBdWt1N3E2ODhwNTI4UUlz?oc=5>
+- **特朗普** | “需要共同书写的时代答卷”——习近平主席同特朗普总统会晤侧记 <https://news.google.com/rss/articles/CBMif0FVX3lxTE1oWGZ2MWlpT2RBM2VNR3I2S0ZGSUt2YUlmTHNkcGNPSlZqb3BLdU9uQnRqbUJ4SFk2dUtpal91OXVYZnB2NEhrenptNnhVRTVVTUdkOFRTUHhXeEtmTzBPcmZrdDFSbW83WHAzVmhmNWJYVHVfdG9IWkRiN1R0SHM?oc=5>
+- **Trump** | 特朗普：“对台军售 习主席不希望我们这么做” <https://news.google.com/rss/articles/CBMiugJBVV95cUxOd0lBTTVDVUhhS3h5TXZiaHVsSjZBNE5zdUMzTjVKYnlZT1E5UUZJY0h1d3lJSE1MM0dGeGhNcXFmbFEtck10N2NiaEE3UWF1b0EyZzZWbGtBZ0twb1FvalVQOWJGWU5Pc0hmd09yb0d2OVZFQmkzWXBDYjNYYVhGY3JZMGxxeE5hV0FreVNyTmdhX1JQNFNiYkY1ejhBd0ZHR08ycFhxbHdZMklLQ2d0SUd6YmVCMDZMcnlPZ2ZlamN6MWV1QVFoazVuYy1YSmNCMXplQzZ2RjBvWjhpM2UtWHFzNEUzTzBBcGVxeVZXS0YyQW9mUnhGV3QyMjRlWEFHNGJkNFNsWjlPRC1kcVR6anhyc0VwWWdqcFJweEhCLTRwcnczZklhd0w5ZjRuZmNDMkFiM1dBb2lTdw?oc=5>
+- **Trump** | 习特会北京国宴 淮扬菜料成宴席主角 <https://news.google.com/rss/articles/CBMioAFBVV95cUxQU3l3U2R5UEFRQlRjYlFnNUFHOWdiXzhkUm56MTdrRVNYNEkwMUNzSkwxVGQ1akFuSEFWS3F0dTk5S3JZcmZJZTlKNUVTWW5kLXZ1dEx3anoxSXZXbXd3WjBuUEhOVm9pbmcwZjRqY3FYVEFHRHkyZTFkdjU5YzhSMTRoSTFoYTJ0R1ZjaVpKY1lJMVdGc1RlZlptb3FaWl9n?oc=5>
+- **Trump** | 为什么说习近平手握王牌、不需要与特朗普达成协议 <https://news.google.com/rss/articles/CBMid0FVX3lxTE96dExtckVHcUp3czhqVlRUTlFRemtYSHpQWVBhTGFJRDI4Zjk4U2poWTdXQnJ1ZzFIU3RQeC0wai0ycUFtRXkzTXAyWURoV1NNT2JPdm9hWkF4Q2g3T0p3NGNtT3dhaUZjVlhqZ0hzQVpwa2ZmUUpB?oc=5>
+- **Trump** | Trump於Q1买入Nvidia、Boeing、Microsoft股份 <https://news.google.com/rss/articles/CBMib0FVX3lxTE5EajZ1TUxUcmpfZk92QVJnSVY5UEF1UWhzQ09nTGUzUnh0c2w4TzFiN3E3ZmRvd3V2S1RrbThoc2dpc0dUSU9ac3FpT3dIbGNxOFdGeW1kUzF6Rk1SR2hlUnBOSzZhOGN1alY5N3pUbw?oc=5>
 
 ### 2026-05-14 23:52  (1 条)
 
