@@ -1,38 +1,96 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-15 22:50**
-- 本轮扫到 1225 条, 新增 **3** 条
+- 最近更新: **2026-05-15 23:51**
+- 本轮扫到 1234 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (9 条)
 
-### 新浪演唱会热点小时报丨2026年05月16日06时_今日实时演唱会热点速递
+### 新浪演唱会热点小时报丨2026年05月16日07时_今日实时演唱会热点速递
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905itgk.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905itvi.html>
 
-### 中方接待特朗普规格，为何更高了？
+### 孙颖莎球迷周杰伦演唱会点歌《我是如此相信》致敬拼搏精神
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923920_m1d5ae18d003301cvb4.html>
+
+### 特朗普手机历经数月延期，本周终于开始发货
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: guancha.cn
-- 时间: 2026-05-14 12:50
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5nbW56VTBoQzNsakVTZHc3TF9mNGNJbjFwU0s5eVZ2cHNsWGlNMmx2R3lvX2ViR1NneXJsdjRySTZMN3Y5ZTJJUXgtRXFOVFQwZDkyOHZKMDBnOEdIakZaWXlYQThjQUhEUmc?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-05-15 23:48
+- 链接: <https://news.google.com/rss/articles/CBMijgJBVV95cUxPMnJCZ085bGx0Z25IVWZpN19VdkE5WjJJTGJMeWJnRXpVcUdxTlFGdEFvMUt6V2dldVlWbUh2YXhfcVpIVVdrZWFibDA0cGl3TlQwRG5sakRsSU96NENHOFEtbFg4bktMeGVZbVhXc1FfNkRrZHlZR2IzeTdkck5yZWJlVFB5RF9hU1M0X2ZpME1qMTFoRDNzSzc1aDRUVXdNcHZQVU5PbFkycU9rWGw0N1lEM1o2MUpTMEIzRTBaY0NfN3ZTV08wSmxlUHZZNFU2UDRlMU1WLTZ5Mmk5T3UwVGFBbjlVTTlTRTBKcVdwSllsNVVtb1ZMaXd1YktJNFJ5MkFFSUU3R3Uyc09hVkE?oc=5>
 
-### 特朗普称对伊朗"失去耐心" 中国未明确介入霍尔木兹海峡危机
+### 默茨：与特朗普进行了“愉快的交谈”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Sina finance
+- 时间: 2026-05-15 23:08
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE44ZFB6alBGVHFsbjhTQm4ycE1IOUdHQ3JXdHNXR0ZydTdZTS1VNktwNDN6UnhISW92bXYtLUFybEU4Y0dwZGpaaVNubFdJNzFtSENUSThUMFRyaVp4RFp0R3JOMG9WSi1QdlpkTWpsQTZoUllHMWc?oc=5>
+
+### 美国总统特朗普结束访华
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: chinanews.com.cn
+- 时间: 2026-05-15 06:24
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE83SjdvZERhTS15UTFSNV9fRkdBcm1qWnlWMW0tSWhmSnAwVFFPcXFITTN4M0tmd05lZERKVDNpOWVqcl95TTFvUzZWNUZJRTE5Rmo4TFdaTVE1X0ZEZjlVRlhJekFzY2F3?oc=5>
+
+### 美国会保卫台湾吗？特朗普说我回答习近平：“我不想谈这个”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-05-15 15:44
+- 链接: <https://news.google.com/rss/articles/CBMiggNBVV95cUxQTWJjRnFoZlktSXZXUm9reWpMd3pzTThqTlA5YzdaVjBnR1ZtZVlTRURfVlMycFk1TWhtbUd6Vk4tMVl1Z2hlM09LLXh6eGVmQXloakhVOHdyS2Q4czZwRDI3bEdsSmNHWnAwR2NFd3ZxR25ESF9UMnRrQ1hMelZiR1cybGpOb2prMThLbmlpMmNoSjdZbnlNeUNTUGp1djNtRmxwRmdpWk45SkQ4R256Z3M4YWFjVTdZZ0V1Z1JkeXY0dldtaElEdlBIUzZwUW1nM2hnMTRIQ3lUaWNkeVdtU1labjAyOFkxVmxQVXVFUWlyeWxvQ1ozVnNQM3FnZkd3aHJOWEplMnFteE9BQkwyaThOTGdTMHhMWjRJeGNtSUlYLWlqTUY2VTU4TG9SSnRULVdiYW5TbWZxeXotSF9xdGV4bEg2Mm45dU1PSU83aGs3TGpJNFFIODJwZDRxeW1OdUxPVWl5bjNGc3poblN6UDUtaV9GdDhjS0RUeHYzNG5rUQ?oc=5>
+
+### 特朗普结束访华 强调反对台湾宣布“独立”
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: RFI
-- 时间: 2026-05-15 21:29
-- 链接: <https://news.google.com/rss/articles/CBMimgNBVV95cUxNNlFhT2JTcmVveWdjY3BUODZYWjFmWHhYNURQWnFQLW45RFhXU2NoUDVHMnhFS1kzLUNEWXFUTzdoMGdEVHN5SHVGS0J3THRtYUlfV0dCMjZUZ3NveE5WN0pCakNzZXVGbVBjNVo2c0psUmNsUGx2YXQyTHlWLWZZN2FyMEpjWVVhcFVuTlVtNkxlSG5QZEdyWVI4dHZ4eV9qSVdDRDNUbUctUW5GbjdEM1E5N1F3R0lHd21iMEtFNEM3TGdCQlZMN2VCYUl2RkF1ei1WTWpobUFlTUt1UzN3WWZndnJfR3dBemFKYzF5am9QdEJLanQtbHFrSVdETXg1UHlHVXNKSmVNRFkyalBQU3F4Qk1QYlRVTHp0VWM1dGlndGRMZFFtS2RQWGY5ZkJOTU9hRU4tV28ycW5HT0l5REw0THIzMm9aUFBUNTNzSk5HNzZqcm1hN3F5dW5uZGxrNXNBeHRTUC0yZ3B2ZmgzRnNNOTZRNlJDcXlkY0tLZ3YtbVZWdkNybXpBVktmWHB2dHRDMTdwY0Rodw?oc=5>
+- 时间: 2026-05-15 21:25
+- 链接: <https://news.google.com/rss/articles/CBMirgJBVV95cUxNekE2aDlMbS1qODdTSWdueHpFY3YwRGNMSkJWb09MWEhLUERJSDM4NFI1NjIxdkp2b1VlYUYtZk93Z0ZhZWFBbXM5eXd6WU0tLTN2S2dYRXFSQ2d4YnhxUXpGTVBJNmZSS3NIUi1lUGdhVEZDT0Jwa21qZzZhRjFtbTdpT3RQZVVoYmhrYi1tbWd0Y3hQOE9aU29fWkZMTU9TWkZtcjZVUmVsM3R0T1Yzd2tINVJjWUdhSzUyQVljSjZzWFRjdnVxcDg3UzZCX0F3akVXR09Mc1Bnc2tLZ0ZYaXNIRTlhTlo2ZzBscC1qM1pzcms1OUJfQ0t0eUN1aDdsWllVNVZkR0UxMEFfYkVjVVVKOEozVmZLSHk5Q3JQUkd4MTRHX0F3UXlVT0pMdw?oc=5>
+
+### Trump在Truth Social赞扬Palantir前已买入其股份
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: AASTOCKS.com
+- 时间: 2026-05-15 23:14
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE9UOTIyWldkYklfUmprT0VncXpuTDFLRzJYbTVGYkpvakJfQ2h1NWIwS1BfbUN3dzdjelVpVkxudTdtQkk0QWt6OEJiNVlMRGtQRngyTHNTNU45VEZsZkV4SnVwSTRTQ2RvNEdxT29TMA?oc=5>
+
+### Trump在Truth Social赞扬Palantir前已买入其股份美股US Stocks Quote - 外围新闻内容Golbal News Content
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: AASTOCKS.com
+- 时间: 2026-05-15 23:14
+- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxOckpwdDV3UEw2R3BfdEFTR2FtWHlqZ2lLaVJQSG12WTVQUFVqZG9XT0xuSG5KM00tYUJKdWNKWFY4cjV4NS16bnhmckV0QXhudmJXQy1xZXhQYVdYYTdOV1B1U0JwRmNrNURLX0Q0YktkUno1c2Y5ZURsbERVWS01Ulg1eWRYWHpvZ3Br?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-15 23:51  (9 条)
+
+- **周杰伦** | 新浪演唱会热点小时报丨2026年05月16日07时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001905itvi.html>
+- **周杰伦** | 孙颖莎球迷周杰伦演唱会点歌《我是如此相信》致敬拼搏精神 <https://k.sina.com.cn/article_7879923920_m1d5ae18d003301cvb4.html>
+- **特朗普** | 特朗普手机历经数月延期，本周终于开始发货 <https://news.google.com/rss/articles/CBMijgJBVV95cUxPMnJCZ085bGx0Z25IVWZpN19VdkE5WjJJTGJMeWJnRXpVcUdxTlFGdEFvMUt6V2dldVlWbUh2YXhfcVpIVVdrZWFibDA0cGl3TlQwRG5sakRsSU96NENHOFEtbFg4bktMeGVZbVhXc1FfNkRrZHlZR2IzeTdkck5yZWJlVFB5RF9hU1M0X2ZpME1qMTFoRDNzSzc1aDRUVXdNcHZQVU5PbFkycU9rWGw0N1lEM1o2MUpTMEIzRTBaY0NfN3ZTV08wSmxlUHZZNFU2UDRlMU1WLTZ5Mmk5T3UwVGFBbjlVTTlTRTBKcVdwSllsNVVtb1ZMaXd1YktJNFJ5MkFFSUU3R3Uyc09hVkE?oc=5>
+- **特朗普** | 默茨：与特朗普进行了“愉快的交谈” <https://news.google.com/rss/articles/CBMidkFVX3lxTE44ZFB6alBGVHFsbjhTQm4ycE1IOUdHQ3JXdHNXR0ZydTdZTS1VNktwNDN6UnhISW92bXYtLUFybEU4Y0dwZGpaaVNubFdJNzFtSENUSThUMFRyaVp4RFp0R3JOMG9WSi1QdlpkTWpsQTZoUllHMWc?oc=5>
+- **特朗普** | 美国总统特朗普结束访华 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE83SjdvZERhTS15UTFSNV9fRkdBcm1qWnlWMW0tSWhmSnAwVFFPcXFITTN4M0tmd05lZERKVDNpOWVqcl95TTFvUzZWNUZJRTE5Rmo4TFdaTVE1X0ZEZjlVRlhJekFzY2F3?oc=5>
+- **特朗普** | 美国会保卫台湾吗？特朗普说我回答习近平：“我不想谈这个” <https://news.google.com/rss/articles/CBMiggNBVV95cUxQTWJjRnFoZlktSXZXUm9reWpMd3pzTThqTlA5YzdaVjBnR1ZtZVlTRURfVlMycFk1TWhtbUd6Vk4tMVl1Z2hlM09LLXh6eGVmQXloakhVOHdyS2Q4czZwRDI3bEdsSmNHWnAwR2NFd3ZxR25ESF9UMnRrQ1hMelZiR1cybGpOb2prMThLbmlpMmNoSjdZbnlNeUNTUGp1djNtRmxwRmdpWk45SkQ4R256Z3M4YWFjVTdZZ0V1Z1JkeXY0dldtaElEdlBIUzZwUW1nM2hnMTRIQ3lUaWNkeVdtU1labjAyOFkxVmxQVXVFUWlyeWxvQ1ozVnNQM3FnZkd3aHJOWEplMnFteE9BQkwyaThOTGdTMHhMWjRJeGNtSUlYLWlqTUY2VTU4TG9SSnRULVdiYW5TbWZxeXotSF9xdGV4bEg2Mm45dU1PSU83aGs3TGpJNFFIODJwZDRxeW1OdUxPVWl5bjNGc3poblN6UDUtaV9GdDhjS0RUeHYzNG5rUQ?oc=5>
+- **Trump** | 特朗普结束访华 强调反对台湾宣布“独立” <https://news.google.com/rss/articles/CBMirgJBVV95cUxNekE2aDlMbS1qODdTSWdueHpFY3YwRGNMSkJWb09MWEhLUERJSDM4NFI1NjIxdkp2b1VlYUYtZk93Z0ZhZWFBbXM5eXd6WU0tLTN2S2dYRXFSQ2d4YnhxUXpGTVBJNmZSS3NIUi1lUGdhVEZDT0Jwa21qZzZhRjFtbTdpT3RQZVVoYmhrYi1tbWd0Y3hQOE9aU29fWkZMTU9TWkZtcjZVUmVsM3R0T1Yzd2tINVJjWUdhSzUyQVljSjZzWFRjdnVxcDg3UzZCX0F3akVXR09Mc1Bnc2tLZ0ZYaXNIRTlhTlo2ZzBscC1qM1pzcms1OUJfQ0t0eUN1aDdsWllVNVZkR0UxMEFfYkVjVVVKOEozVmZLSHk5Q3JQUkd4MTRHX0F3UXlVT0pMdw?oc=5>
+- **Trump** | Trump在Truth Social赞扬Palantir前已买入其股份 <https://news.google.com/rss/articles/CBMib0FVX3lxTE9UOTIyWldkYklfUmprT0VncXpuTDFLRzJYbTVGYkpvakJfQ2h1NWIwS1BfbUN3dzdjelVpVkxudTdtQkk0QWt6OEJiNVlMRGtQRngyTHNTNU45VEZsZkV4SnVwSTRTQ2RvNEdxT29TMA?oc=5>
+- **Trump** | Trump在Truth Social赞扬Palantir前已买入其股份美股US Stocks Quote - 外围新闻内容Golbal News Content <https://news.google.com/rss/articles/CBMiiwFBVV95cUxOckpwdDV3UEw2R3BfdEFTR2FtWHlqZ2lLaVJQSG12WTVQUFVqZG9XT0xuSG5KM00tYUJKdWNKWFY4cjV4NS16bnhmckV0QXhudmJXQy1xZXhQYVdYYTdOV1B1U0JwRmNrNURLX0Q0YktkUno1c2Y5ZURsbERVWS01Ulg1eWRYWHpvZ3Br?oc=5>
 
 ### 2026-05-15 22:50  (3 条)
 
