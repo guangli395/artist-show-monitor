@@ -1,84 +1,153 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-15 11:51**
-- 本轮扫到 1157 条, 新增 **9** 条
+- 最近更新: **2026-05-15 13:55**
+- 本轮扫到 1173 条, 新增 **16** 条
 
 ---
 
-## 本轮新发现 (9 条)
+## 本轮新发现 (16 条)
 
-### 蔡徐坤首张实体专辑正式发布
+### 蔡徐坤新专辑实体版空降发售
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6377398640_17c1f617004001o7g4.html>
+- 链接: <https://k.sina.com.cn/article_5751949769_156d7c9c904001knjg.html>
 
-### 周杰伦演唱会余温未散，歌迷追捧同款咖啡治愈青春
+### 周杰伦演唱会场外粉丝应援活动，除了歌词杯还有什么新玩法？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7369428569_1b7408e5904001a59e.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ko0u.html>
 
-### 特朗普手机历经数月延期，本周终于开始发货
+### 周杰伦演唱会最火周边！星巴克歌词杯凭啥成粉丝情怀爆款？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-15 10:41
-- 链接: <https://news.google.com/rss/articles/CBMimgJBVV95cUxQTVRta2tCTVVyd1lqRVVzRVZ0RlJMSUd1a2Jfc2ZTY0RXNURqNjBhUVhUUmgzOVRmNlRFM1ZTWXdjU1lOdmdsMzRWU3oyV25KbW5TaXQwSjJFZkxqeHp6NXp0NVRUYndEV2IxY2dLMDRvWkgzdzRmNHRnU3V4NzRndjJDN2ZtRzdFWWNyamt2TGJDdklXMTlmZ2tOUE5oNFdKSVRPQjl0WGFtNEZKajJoQlJzQmkwS3RSVm81RnAtSEhpdkJiSXBaUzN1LXdtcWhza2RuRmtIeTRueVloUTdhbTQzTEZzVkRWOFE0X095aGlBRE9IaC1oXzVlN21yTllnaVFLVXp3NEt2TzdRa2QzcmZBbG9WOXpkeHc?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ko0i.html>
 
-### 美国政府披露特朗普Q1交易：买入英伟达、苹果；减持微软、亚马逊
+### 周杰伦温州演唱会问歌迷18年前观众举手，现场激动回应
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-05-15 05:21
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE5QNmlHY2RwYWx2SnJnZUxtaDNJaUplckV0Mm0teHdUbTFyaGFPYlp2eG1OVUw4SDZwS24zMjE0R0dYa2xrM25HdQ?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1725252714_m66d5446a03301yffk.html?from=ent>
 
-### 快讯:件件要命！特朗普寝食难安的三大噩梦，藏不住了
+### 周杰伦温州开唱！现场呼叫“18年前就看过演唱会的粉丝”，他们激动到手抖……
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机网易网
-- 时间: 2026-05-15 11:27
-- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE5EOVl1bFU1dWtEVUUtWTA0eUphekVpaDMtby1HQ2lCRjdfbHhPWFpieFNYZmVHYUJRdFo4dVpKSjBQdkZiQkdZS2J3WVphUk1kc1V4Tk5maDlIRTE4MHdnbF9R?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://finance.sina.com.cn/wm/2026-05-15/doc-inhxytzf3348541.shtml>
 
-### 美国总统特朗普结束访华离京
+### 习近平同美国总统特朗普在中南海小范围会晤
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新华网
-- 时间: 2026-05-15 06:53
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFAzY0lOanJiNS1hSFMwSlNWeVE3VDJ4dDVXalM1dGlBX3hQMEdBLTR0b2s5cG1rZGlkUTdjanlobWJLaWJod3Jjc2x5cGhZdVhHNHAzbUxuWlE5Zzl4b0trQVpKQk12eDNLZUl4bE1CRXRCNXVNRmZzYmNteGJxRUk?oc=5>
+- 时间: 2026-05-15 05:49
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE8wcGpVMU55MmN3OU0zWGJhQm51WEs3ZWU0ZW5KZjhxMlVsem9XY3otZTYtZDNTTU85ZmdYX0t2aXlOS201VUZ4Y2Fjam1mamhiNVVjQTZKWFBCRFNGYmpybmZ4UTdUZml0TWNvZm82YTNUbFhMMnZ5dlhIcS1xQXc?oc=5>
 
-### 美国总统特朗普结束访华离开北京
+### 特朗普称美伊停火系“应其他国家要求”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: politics.people.com.cn
-- 时间: 2026-05-15 06:34
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE1hUnFqYUNQd2NGS25lOGZlXzhiX1hReUZ2aVRXajYxT1lPeFRtV3hKaUc2ZTc2ZzI3MGhBVDBhUklsZTBGOWthMHl3M0dBR2ZzRG92QnFCRnNJTVBRcjF6MGFFUmFEOHQ2Q1Jfd0lJQm9SQQ?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-05-15 13:28
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5VbjRfR19aOEp6b1RJaV8tbzEwUVEtV1d4QlpicTZkSENHRUZNdHZCbkMxVW1LQnFmejc5alNZTTY0b01GVzVNVFYyYw?oc=5>
 
-### 澳廣視新聞｜Xi holds welcome banquet for Trump｜Xi holds welcome banquet for Trump
+### 白宫发布中国仪仗队画面，特朗普：中国军人棒极了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-05-15 13:32
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFB2ZmhJVlBsX0dNdHhKbzQwYWNYc3lwLXozYmFmT2FRamdpYjBlRVZlWHBpcDdKQmd0c2FjUjk4ZXhmSDVCZFNzcHFtTkNUNU10WjAwV2tSRlFaSjRzamxGUmJ2d29vNzlQVmc?oc=5>
+
+### 吴心伯亲历特朗普欢迎晚宴：同桌美国人主动说“我们是朋友”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-05-15 12:59
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE9oUzhTNk9OS0tsTkxWdmNjalJJc3pHeWVubUh4SklHVk1OOHl0NTczNWN3RlJRb00td3VCZHN4U1Jrb2ZLOVp0NjF2a0xQM1Q3dVpva2NSeWh6Z1NoUmc?oc=5>
+
+### 大国外交最前线丨特朗普结束访华：一次历史性标志性的访问
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中国青年网
+- 时间: 2026-05-15 12:06
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE83WGE4THJFb3lydk95bmpqOEFoTWNWYU1VOEVkTUNKaWVGeG1kdDdnN0d0UkZEVVpYdDhDeE9rVkd4VU9BUFNxSVlaZlJBcWRsRE0xTWJzaW9UZVBSc0ZNYlh3NVY?oc=5>
+
+### 特朗普访华结果分析：美国盯着3B，中国盯着3T，谁占了上风？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: BBC
+- 时间: 2026-05-15 11:37
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrX0loU1dndVFLYlRIMzFYLWQ3YzFBNUZaanktZmw3QjJ5dXEwaUlmRW8zRTk4dzY3ZGd4bjVpSUxCSUpCZWMyc3F0QndPRlhSRVB3TFVPRm9fSkxfRS1yOGVpd0RMZ9IBa0FVX3lxTE5JbE13NWtiQzM3WVFOdE9vUzY3YXpDeXgxRHpwLTFhWXlIbVJWWmxaZWlwOFFjeGp5QW5tbW03V0VfU3NPQ05ycC1EbzdlSVVZOTJ1WGs1RWM5OW45dWVvQmxsVXFUcXpUaWM4?oc=5>
+
+### 499美元，特朗普T1手机确认本周启动发货
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 澳門廣播電視股份有限公司
-- 时间: 2026-05-15 08:41
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxPaHJ6aXEzZFo2S2xFTXozZ2hPRjhXdE1PV2dndU83ZXA2MXhPa20tdzVqcUx2TnJVa0VaR1FXUzJPNHRmUUc5eEctdk9XQU9Jai1WS1NZRWZfRnBRT01xa2NZc0s3MHg2UDJuMVVQSl9ZX3lUNkFEelIzNFgzeGtmNGxaMWZmX2c?oc=5>
+- 场馆: 华尔街见闻
+- 时间: 2026-05-15 09:30
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tSkoxc18xdVN0ZmtfQzl0Z2RrbzZEY0lsMEJvdTNpNEtVbHJ6WDYzUTNNenRTT3JRMEhIZDVPeWZkSzBWZFNXaklsei01TktsTVVj?oc=5>
 
-### China highlights drug crackdown as Trump presses Beijing on fentanyl precursors
+### 习特会国宴菜单有北京烤鸭 曲目包括《Y.M.C.A.》
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: MLex
-- 时间: 2026-05-15 08:41
-- 链接: <https://news.google.com/rss/articles/CBMixwFBVV95cUxNdEpJUHQxdHF6czVCN3FYNDBIQ1VVOUtZM01VSGVPb01UelhyUC1fVWZGYkpER24xTzBqRGNWOGxCbVR0VUJIU3R1LXVZaEswR0FQdW1FQmY1SnJJQy1zVGt6WmpwQW1icWVHZ3p3Z3ZzVlA5bW9tS3VVRXg5blF5YUhTdHdWNTJJNm1jSGtnY2FKTlpMN0ZMMTRTWUpJVmJRZHZHVUxYSW0wTTBhX2xOQ1NYVWdwcVUxSDRNS1V4SS1jaFVlN0Fj0gFaQVVfeXFMTUNDWWR6S3lyU1d4SkZ2a2pJRndwRVQwLUxlQ0NmWGJRQW8zVHBMRWJvREU1TFE0Rk44Wm13U09RNGh1VVNTcG5DbS00M19lY3Q3a2ZydTNFb2NR?oc=5>
+- 场馆: 8world
+- 时间: 2026-05-14 14:01
+- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxQOTRCaG5GUFkydE91TEpDbUM4ckEyVXZYb0JjLTNnOUI4cDhIRjM0MkF3UXhlbGtPdEpsbWJCZmFDZ0VLeUhpek1iajFqX0d2SVZuay1XZ2w2NEpyVTE1NFdLSFp6R25pWFFUSDctcFZ2VEt6WTI2RzRpNlhER1poMzhUM1pDQnNnMUlkbjhyeEU4TTc3NG9YT0g0ZGJzc1lV?oc=5>
+
+### President Xi Jinping Holds a Private Meeting with U.S. President Donald J. Trump at Zhongnanhai
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 驻韩国大使馆
+- 时间: 2026-05-15 08:00
+- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTE9jMGlxRHBxZ05nQXA5QWt1YmNCajdDZDJSeERoNnJXOVhXSi1sRHRnNzQ1ZXA1Q21GZHZvb2t4TlJWdWcxSDlHZ0xubnZtT25GdkE2c0hVcmp4a2YyOEtfOHBxdFhJT25DbzFiSmg2Y29iZDM3V0lXM0tpcw?oc=5>
+
+### 特朗普总统结束对北京的旋风式访问，启程返美
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-05-15 07:20
+- 链接: <https://news.google.com/rss/articles/CBMilgFBVV95cUxOY1F0MW45QkdNVTNzbHJ2T0ZZc2VSREowWkJnSVhXak9VZ0IybTUwck9fTkxVWFo5bWt3UHZWdzIwX0lWVnBKaXQtVW5UMkhFXzZLMHdXaVpZbzRyUWdEM0tkQ280cnBZYS1sYzFXeW04VDhYZGE1Ql9xbTY4WGVzblIzbUQ3ZDhaY0pfQ3ZsdXlpVFhETEHSAZgBQVVfeXFMUHp6dktKZEloWGFVMWNjYUU0d0JiR0RfU2hBSWV0cUIzdlpsRThVUklBVlExZlJVcXBnZTFBejF6M3lTT0k2WXlPZ2lCWnQ4dHh0bnZwZnNqMWhSRkUwZWxPQXd6Tlppbm9xMUp1RktCNVk5SkkwUWZPdHFOZVQ3bG1FS01RZTV1OW5aS1NaMkRQMk1kSm1hZUg?oc=5>
+
+### 特朗普之子Eric Trump专访：我爸是最好的朋友，美国想赢AI、能源与比特币的终极竞赛
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: PANews
+- 时间: 2026-05-15 13:30
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1XOGVmUTRGZ1VodG14N0VsUWNZaGtzNjZMQUZuOTByQ0o1Z1dPTU9WaEpuVWtiWHJlaXBNX2gtRHphS1pwT0EwNG5ITXdrLWdNdjNJNnBlZW12ZWRWcUpLT2xoNlZQT01MR25wRGI0ZUdPS19RUFR4NUxVMmpFQlU?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-15 13:55  (16 条)
+
+- **蔡徐坤** | 蔡徐坤新专辑实体版空降发售 <https://k.sina.com.cn/article_5751949769_156d7c9c904001knjg.html>
+- **周杰伦** | 周杰伦演唱会场外粉丝应援活动，除了歌词杯还有什么新玩法？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801ko0u.html>
+- **周杰伦** | 周杰伦演唱会最火周边！星巴克歌词杯凭啥成粉丝情怀爆款？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801ko0i.html>
+- **周杰伦** | 周杰伦温州演唱会问歌迷18年前观众举手，现场激动回应 <https://k.sina.com.cn/article_1725252714_m66d5446a03301yffk.html?from=ent>
+- **周杰伦** | 周杰伦温州开唱！现场呼叫“18年前就看过演唱会的粉丝”，他们激动到手抖…… <https://finance.sina.com.cn/wm/2026-05-15/doc-inhxytzf3348541.shtml>
+- **特朗普** | 习近平同美国总统特朗普在中南海小范围会晤 <https://news.google.com/rss/articles/CBMif0FVX3lxTE8wcGpVMU55MmN3OU0zWGJhQm51WEs3ZWU0ZW5KZjhxMlVsem9XY3otZTYtZDNTTU85ZmdYX0t2aXlOS201VUZ4Y2Fjam1mamhiNVVjQTZKWFBCRFNGYmpybmZ4UTdUZml0TWNvZm82YTNUbFhMMnZ5dlhIcS1xQXc?oc=5>
+- **特朗普** | 特朗普称美伊停火系“应其他国家要求” <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5VbjRfR19aOEp6b1RJaV8tbzEwUVEtV1d4QlpicTZkSENHRUZNdHZCbkMxVW1LQnFmejc5alNZTTY0b01GVzVNVFYyYw?oc=5>
+- **特朗普** | 白宫发布中国仪仗队画面，特朗普：中国军人棒极了 <https://news.google.com/rss/articles/CBMiakFVX3lxTFB2ZmhJVlBsX0dNdHhKbzQwYWNYc3lwLXozYmFmT2FRamdpYjBlRVZlWHBpcDdKQmd0c2FjUjk4ZXhmSDVCZFNzcHFtTkNUNU10WjAwV2tSRlFaSjRzamxGUmJ2d29vNzlQVmc?oc=5>
+- **特朗普** | 吴心伯亲历特朗普欢迎晚宴：同桌美国人主动说“我们是朋友” <https://news.google.com/rss/articles/CBMiXkFVX3lxTE9oUzhTNk9OS0tsTkxWdmNjalJJc3pHeWVubUh4SklHVk1OOHl0NTczNWN3RlJRb00td3VCZHN4U1Jrb2ZLOVp0NjF2a0xQM1Q3dVpva2NSeWh6Z1NoUmc?oc=5>
+- **特朗普** | 大国外交最前线丨特朗普结束访华：一次历史性标志性的访问 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE83WGE4THJFb3lydk95bmpqOEFoTWNWYU1VOEVkTUNKaWVGeG1kdDdnN0d0UkZEVVpYdDhDeE9rVkd4VU9BUFNxSVlaZlJBcWRsRE0xTWJzaW9UZVBSc0ZNYlh3NVY?oc=5>
+- **特朗普** | 特朗普访华结果分析：美国盯着3B，中国盯着3T，谁占了上风？ <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrX0loU1dndVFLYlRIMzFYLWQ3YzFBNUZaanktZmw3QjJ5dXEwaUlmRW8zRTk4dzY3ZGd4bjVpSUxCSUpCZWMyc3F0QndPRlhSRVB3TFVPRm9fSkxfRS1yOGVpd0RMZ9IBa0FVX3lxTE5JbE13NWtiQzM3WVFOdE9vUzY3YXpDeXgxRHpwLTFhWXlIbVJWWmxaZWlwOFFjeGp5QW5tbW03V0VfU3NPQ05ycC1EbzdlSVVZOTJ1WGs1RWM5OW45dWVvQmxsVXFUcXpUaWM4?oc=5>
+- **Trump** | 499美元，特朗普T1手机确认本周启动发货 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tSkoxc18xdVN0ZmtfQzl0Z2RrbzZEY0lsMEJvdTNpNEtVbHJ6WDYzUTNNenRTT3JRMEhIZDVPeWZkSzBWZFNXaklsei01TktsTVVj?oc=5>
+- **Trump** | 习特会国宴菜单有北京烤鸭 曲目包括《Y.M.C.A.》 <https://news.google.com/rss/articles/CBMioAFBVV95cUxQOTRCaG5GUFkydE91TEpDbUM4ckEyVXZYb0JjLTNnOUI4cDhIRjM0MkF3UXhlbGtPdEpsbWJCZmFDZ0VLeUhpek1iajFqX0d2SVZuay1XZ2w2NEpyVTE1NFdLSFp6R25pWFFUSDctcFZ2VEt6WTI2RzRpNlhER1poMzhUM1pDQnNnMUlkbjhyeEU4TTc3NG9YT0g0ZGJzc1lV?oc=5>
+- **Trump** | President Xi Jinping Holds a Private Meeting with U.S. President Donald J. Trump at Zhongnanhai <https://news.google.com/rss/articles/CBMie0FVX3lxTE9jMGlxRHBxZ05nQXA5QWt1YmNCajdDZDJSeERoNnJXOVhXSi1sRHRnNzQ1ZXA1Q21GZHZvb2t4TlJWdWcxSDlHZ0xubnZtT25GdkE2c0hVcmp4a2YyOEtfOHBxdFhJT25DbzFiSmg2Y29iZDM3V0lXM0tpcw?oc=5>
+- **Trump** | 特朗普总统结束对北京的旋风式访问，启程返美 <https://news.google.com/rss/articles/CBMilgFBVV95cUxOY1F0MW45QkdNVTNzbHJ2T0ZZc2VSREowWkJnSVhXak9VZ0IybTUwck9fTkxVWFo5bWt3UHZWdzIwX0lWVnBKaXQtVW5UMkhFXzZLMHdXaVpZbzRyUWdEM0tkQ280cnBZYS1sYzFXeW04VDhYZGE1Ql9xbTY4WGVzblIzbUQ3ZDhaY0pfQ3ZsdXlpVFhETEHSAZgBQVVfeXFMUHp6dktKZEloWGFVMWNjYUU0d0JiR0RfU2hBSWV0cUIzdlpsRThVUklBVlExZlJVcXBnZTFBejF6M3lTT0k2WXlPZ2lCWnQ4dHh0bnZwZnNqMWhSRkUwZWxPQXd6Tlppbm9xMUp1RktCNVk5SkkwUWZPdHFOZVQ3bG1FS01RZTV1OW5aS1NaMkRQMk1kSm1hZUg?oc=5>
+- **Trump** | 特朗普之子Eric Trump专访：我爸是最好的朋友，美国想赢AI、能源与比特币的终极竞赛 <https://news.google.com/rss/articles/CBMif0FVX3lxTE1XOGVmUTRGZ1VodG14N0VsUWNZaGtzNjZMQUZuOTByQ0o1Z1dPTU9WaEpuVWtiWHJlaXBNX2gtRHphS1pwT0EwNG5ITXdrLWdNdjNJNnBlZW12ZWRWcUpLT2xoNlZQT01MR25wRGI0ZUdPS19RUFR4NUxVMmpFQlU?oc=5>
 
 ### 2026-05-15 11:51  (9 条)
 
