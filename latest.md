@@ -1,148 +1,96 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-15 09:30**
-- 本轮扫到 1148 条, 新增 **18** 条
+- 最近更新: **2026-05-15 11:51**
+- 本轮扫到 1157 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (18 条)
+## 本轮新发现 (9 条)
 
-### 王一博演唱！“奔跑吧·少年”活动主题曲发布江西
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905i4ha.html>
-
-### 王一博新歌《万物可爱》配绣线菊下惬意小猫
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923674_m1d5ae17da03301fm34.html>
-
-### 蔡徐坤新专辑《破界》全球发行，首周销量登顶Spotify榜单_碰撞_单周_音乐
+### 蔡徐坤首张实体专辑正式发布
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905i554.html>
+- 链接: <https://k.sina.com.cn/article_6377398640_17c1f617004001o7g4.html>
 
-### 蔡徐坤新专辑《KUN》中的视觉设计有哪些特别之处？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801klj2.html>
-
-### 蔡徐坤新专辑《KUN》的核心创作理念是什么？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801klj0.html>
-
-### 周杰伦昆凌温州巡演后同赴清迈录制中餐厅
+### 周杰伦演唱会余温未散，歌迷追捧同款咖啡治愈青春
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5357417110_13f53b29604001csg6.html>
+- 链接: <https://k.sina.com.cn/article_7369428569_1b7408e5904001a59e.html>
 
-### 习近平同美国总统特朗普在中南海小范围会晤
+### 特朗普手机历经数月延期，本周终于开始发货
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-15 10:41
+- 链接: <https://news.google.com/rss/articles/CBMimgJBVV95cUxQTVRta2tCTVVyd1lqRVVzRVZ0RlJMSUd1a2Jfc2ZTY0RXNURqNjBhUVhUUmgzOVRmNlRFM1ZTWXdjU1lOdmdsMzRWU3oyV25KbW5TaXQwSjJFZkxqeHp6NXp0NVRUYndEV2IxY2dLMDRvWkgzdzRmNHRnU3V4NzRndjJDN2ZtRzdFWWNyamt2TGJDdklXMTlmZ2tOUE5oNFdKSVRPQjl0WGFtNEZKajJoQlJzQmkwS3RSVm81RnAtSEhpdkJiSXBaUzN1LXdtcWhza2RuRmtIeTRueVloUTdhbTQzTEZzVkRWOFE0X095aGlBRE9IaC1oXzVlN21yTllnaVFLVXp3NEt2TzdRa2QzcmZBbG9WOXpkeHc?oc=5>
+
+### 美国政府披露特朗普Q1交易：买入英伟达、苹果；减持微软、亚马逊
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 财联社
+- 时间: 2026-05-15 05:21
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE5QNmlHY2RwYWx2SnJnZUxtaDNJaUplckV0Mm0teHdUbTFyaGFPYlp2eG1OVUw4SDZwS24zMjE0R0dYa2xrM25HdQ?oc=5>
+
+### 快讯:件件要命！特朗普寝食难安的三大噩梦，藏不住了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 手机网易网
+- 时间: 2026-05-15 11:27
+- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE5EOVl1bFU1dWtEVUUtWTA0eUphekVpaDMtby1HQ2lCRjdfbHhPWFpieFNYZmVHYUJRdFo4dVpKSjBQdkZiQkdZS2J3WVphUk1kc1V4Tk5maDlIRTE4MHdnbF9R?oc=5>
+
+### 美国总统特朗普结束访华离京
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新华网
-- 时间: 2026-05-15 07:00
-- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE9UR0ZhdVcyVVFyOW5LaVJlaXhhVDUweTNrTXRLbGRQb1ZKdVVhc0xSQnVGZ2VmeGp6eklEWjhVSVRhQk14d2tLZnU0c3hmcGpmZVUydWRnRzhPbk1yd0wwWXA5c0JIa0F0Mnh1MDhLNl9POGl5NFREWWR0VXdWZw?oc=5>
+- 时间: 2026-05-15 06:53
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFAzY0lOanJiNS1hSFMwSlNWeVE3VDJ4dDVXalM1dGlBX3hQMEdBLTR0b2s5cG1rZGlkUTdjanlobWJLaWJod3Jjc2x5cGhZdVhHNHAzbUxuWlE5Zzl4b0trQVpKQk12eDNLZUl4bE1CRXRCNXVNRmZzYmNteGJxRUk?oc=5>
 
-### “企业天团”随特朗普来华释放新信号
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-05-15 09:15
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE5pRXJBMS1MOERoOHpxeFg4REJfQnBBdEVIUDlUalU3UTFZSjlLTXc1WGdkRHZGNzk1Zm5Pb0s5STc1N1hrVDJNRjQ2Y3R5SWtlc1RvOEtZNi1XLXZVbU40bWpraVVyV1BQODBvUGRLdlVOSV9fVUE?oc=5>
-
-### 视频|随特朗普总统访华的18位美国杰出企业家代表齐聚北京，对中国经济，他们表示充满期待
+### 美国总统特朗普结束访华离开北京
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-15 09:00
-- 链接: <https://news.google.com/rss/articles/CBMi-AFBVV95cUxQci1ia1FNSkFsR0Rac25qekRlclo4b0hNaWJmX1hzUUZTbl85Yl9zXzFWRVFQOTY0MkNNemVCMW52N09jOFFKMUdoMjB3cGhITmxiY0w4ZEJjTUpaTkNMUU5fekEtOVgwZnU4SzdvcmZYanVKSFVnVDRUb1BvTlJwZFpTQWszTlRQMDRDRWRmUUJnaGtFQ1hoMV96Q1hEeGZ6c0VJa0ZCSDM4VU1jZm9ZWFVBM3RXMDVJekZCMmszZ1Bva2dad3M2eERGUmJrRGJfWHVkaFIyZEF0ZXQtbzg3c2JHV1NmbjNQYVBkUjc5cVFTUkFWZVhIZw?oc=5>
+- 场馆: politics.people.com.cn
+- 时间: 2026-05-15 06:34
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE1hUnFqYUNQd2NGS25lOGZlXzhiX1hReUZ2aVRXajYxT1lPeFRtV3hKaUc2ZTc2ZzI3MGhBVDBhUklsZTBGOWthMHl3M0dBR2ZzRG92QnFCRnNJTVBRcjF6MGFFUmFEOHQ2Q1Jfd0lJQm9SQQ?oc=5>
 
-### 特朗普称中方同意购买200架波音飞机，外交部回应
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-05-15 07:56
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1ZVlFXMkh2X2MzT3E5MjB0c0J5YmliZmFCWGZ6SERjajJyZWxiZUtLYmFTX1pJSWVoZUFmeld3RGNqMUQyMHd4dlZsZzc?oc=5>
-
-### 习近平同美国总统特朗普参观天坛
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: fmprc.gov.cn
-- 时间: 2026-05-14 08:40
-- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTE9BZ0x5OFNDWUZpbjcxR1ZSal9UTFRKa3l5NXhyUDdta3BXWFhoVzBCNnJLMEJUNjJmcEk3N3NKbHhuZTZDamZDNDVJY3prcWlZMDBZWFA0c28tZ0RLZlpGR2cxUjJCVkU0NDljdGJn?oc=5>
-
-### 美国总统特朗普结束访华，乘专机离开北京
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-05-15 06:23
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KbmNCSHJvTUM2RWdiQjJIcDNRZ3pSal9TNXVzQ2k2eDJqYjhDZHFGNTBOOEtDdWRTQ0VYWHBDMm54T05lOWFrRzUwMUxrN3hpOFhzekM1S1BWNDFzYlF6bQ?oc=5>
-
-### “需要共同书写的时代答卷” ——习近平主席同特朗普总统会晤侧记
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: moj.gov.cn
-- 时间: 2026-05-15 01:51
-- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTFBYS0R3bTlTZTNBZWlUSGNEMDd4bjhIcE5tUmFZeDZPclFZRzR3bnVDYkI2RDNKVTFHUmNFLUEzZXFQLXRpam94TVVESWZXYjVmMTY0TmpmV1NxSy1RbW5kU1NjSFA3ZC1EUDdRdGxn?oc=5>
-
-### 特朗普第一季度进行3642笔股票交易，打破数十年保密信托惯例
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-14 21:40
-- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcndmM3ZRTzZvTmU3U0p1TFFjSHdzYVRYRzBub2g2bkJTQWpLMHN4RE5rU0ZfTHhGZTNqNHRiN3F3SkxSbVdNSWxNYzRqMklhc0otdVBTeWlTVDhsOEVHbVBiZFh4OF9nMk5YSE1TSTJzLVVQa1Zpb0l2S3RCWTBDN25SSTJVZ0FvYmtfWDljSUZ1dUNHamNXVENrM0hLQ0ZxZnl1c1VvODR1OGJEc05uTkNZSjFjSjBHZ2J5ejZNaFNCZWVYc05QdnVWaFpPLThGZHc?oc=5>
-
-### 图解丨特朗普Q1交易：大幅减持亚马逊、Meta和微软，买入英伟达、博通和苹果，抄底甲骨文、Adobe等软件股
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-15 07:51
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE95M3BDV2JENDZjN2ttM2hyTU05aVdfeWUzYzEzOEdycXc0bjJ1US14eXpjcUdBTzhtZWszTU1OX2JNRzlrM250aUZLSDZaSnVxd0Z6d29SeU1YbmRxaWpCVmk2bFVLaVBMendRLTMxZw?oc=5>
-
-### 特朗普总统参观中南海，并表示美中在伊朗以及许多方面非常一致
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-05-15 06:03
-- 链接: <https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYk8xWEhpZDdwV1RTOWlQQ2xmMHpNSjRSUmVIRC0tYXBhVm9xeGdiektmb0ZZMVJYY2x3MDkxU0NMdHhzWWZZUDJLUUpSMENuQjg3c3BucEVVNmZRX0c4eDR5WlI2WFVBajVlVGc5SGZRX2FNQVE5d1Q4MVdlR2IzY2QyaFFWdHpYSlhseUZRZUFBNzBtSTdweTVTRXFSYTUxbEVyZllfZEJvX2FVODRFdm9HRDlQc2p0MXhiVU1qR0hUY21qbTJOUldJRlVPOE9mUzAtc21JTdIB2gFBVV95cUxNSHp0OC1EdHlrWXUzNzV6bW52T090STRaeW12cG1jdnE4T2t4elFsanpRejFaRzFJMUJCbGpqcnlZalFyREdLVHB6UzU5bElpNDUtaGd2VU1oQURlSFMxRDhYUVNSTllwREFCYU5rWnNNU3NiMThJOTZLVFZJLXhnTG1wd2xoTHo4ZDBreGxWcUp1b0xnWHBsdTBzc3VzYXl5bUNuOU51eFdnTTl4S3M5OVJTQUgtOXd5UGZXYjkzUU9mSHEwVVlyTktFbW1vM0JMcG5majBQTmlfdw?oc=5>
-
-### 特朗普访华：17名美国商界领袖随行，尚未有大合同浮出水面
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-05-15 03:56
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9XdzhuN1lGRFZuNmxLWlBwc3ZnX2xXNHlQdkxDUlR1c0I2dm5FeGMtYVN4d0pteXRDQ20tMTVxbksyamFNYnRBUERWOE41WGJQanhyY2h3aXVaRDg2YnZrem55dGpZUdIBa0FVX3lxTE5Pak9BRTZQZXZNMXFQX2Rscmc2S2xLZXZubDNqV2g4TncyM3pyR01PSXp6ODE1OXZkR0FIUC1DMm1sSTdXTmhVaFMwRmdSUDdLMjhYaldoRkZscVUwcU5XSEN5eHR1blVDV3Rz?oc=5>
-
-### Relationship between the U.S. and China is a very strong one: Trump
+### 澳廣視新聞｜Xi holds welcome banquet for Trump｜Xi holds welcome banquet for Trump
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: 澳門廣播電視股份有限公司
-- 时间: 2026-05-15 06:16
-- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE5zMVdlZDRsTGRoZWV4RVRaYTZxd2JpQkk1SmNWUkQ0MkYyNUgyTXp4Q19BbTlsYmtlWFF3NHFranh3WjAtYWFhUkprMnh2dzA1X2V2b2Z2UXZrVGpXZ2U2XzFUU0xNMFZsaEFYS3VFSHJzR2IxeEhNNGhZZUg?oc=5>
+- 时间: 2026-05-15 08:41
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxPaHJ6aXEzZFo2S2xFTXozZ2hPRjhXdE1PV2dndU83ZXA2MXhPa20tdzVqcUx2TnJVa0VaR1FXUzJPNHRmUUc5eEctdk9XQU9Jai1WS1NZRWZfRnBRT01xa2NZc0s3MHg2UDJuMVVQSl9ZX3lUNkFEelIzNFgzeGtmNGxaMWZmX2c?oc=5>
+
+### China highlights drug crackdown as Trump presses Beijing on fentanyl precursors
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: MLex
+- 时间: 2026-05-15 08:41
+- 链接: <https://news.google.com/rss/articles/CBMixwFBVV95cUxNdEpJUHQxdHF6czVCN3FYNDBIQ1VVOUtZM01VSGVPb01UelhyUC1fVWZGYkpER24xTzBqRGNWOGxCbVR0VUJIU3R1LXVZaEswR0FQdW1FQmY1SnJJQy1zVGt6WmpwQW1icWVHZ3p3Z3ZzVlA5bW9tS3VVRXg5blF5YUhTdHdWNTJJNm1jSGtnY2FKTlpMN0ZMMTRTWUpJVmJRZHZHVUxYSW0wTTBhX2xOQ1NYVWdwcVUxSDRNS1V4SS1jaFVlN0Fj0gFaQVVfeXFMTUNDWWR6S3lyU1d4SkZ2a2pJRndwRVQwLUxlQ0NmWGJRQW8zVHBMRWJvREU1TFE0Rk44Wm13U09RNGh1VVNTcG5DbS00M19lY3Q3a2ZydTNFb2NR?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-15 11:51  (9 条)
+
+- **蔡徐坤** | 蔡徐坤首张实体专辑正式发布 <https://k.sina.com.cn/article_6377398640_17c1f617004001o7g4.html>
+- **周杰伦** | 周杰伦演唱会余温未散，歌迷追捧同款咖啡治愈青春 <https://k.sina.com.cn/article_7369428569_1b7408e5904001a59e.html>
+- **特朗普** | 特朗普手机历经数月延期，本周终于开始发货 <https://news.google.com/rss/articles/CBMimgJBVV95cUxQTVRta2tCTVVyd1lqRVVzRVZ0RlJMSUd1a2Jfc2ZTY0RXNURqNjBhUVhUUmgzOVRmNlRFM1ZTWXdjU1lOdmdsMzRWU3oyV25KbW5TaXQwSjJFZkxqeHp6NXp0NVRUYndEV2IxY2dLMDRvWkgzdzRmNHRnU3V4NzRndjJDN2ZtRzdFWWNyamt2TGJDdklXMTlmZ2tOUE5oNFdKSVRPQjl0WGFtNEZKajJoQlJzQmkwS3RSVm81RnAtSEhpdkJiSXBaUzN1LXdtcWhza2RuRmtIeTRueVloUTdhbTQzTEZzVkRWOFE0X095aGlBRE9IaC1oXzVlN21yTllnaVFLVXp3NEt2TzdRa2QzcmZBbG9WOXpkeHc?oc=5>
+- **特朗普** | 美国政府披露特朗普Q1交易：买入英伟达、苹果；减持微软、亚马逊 <https://news.google.com/rss/articles/CBMiSEFVX3lxTE5QNmlHY2RwYWx2SnJnZUxtaDNJaUplckV0Mm0teHdUbTFyaGFPYlp2eG1OVUw4SDZwS24zMjE0R0dYa2xrM25HdQ?oc=5>
+- **特朗普** | 快讯:件件要命！特朗普寝食难安的三大噩梦，藏不住了 <https://news.google.com/rss/articles/CBMiYkFVX3lxTE5EOVl1bFU1dWtEVUUtWTA0eUphekVpaDMtby1HQ2lCRjdfbHhPWFpieFNYZmVHYUJRdFo4dVpKSjBQdkZiQkdZS2J3WVphUk1kc1V4Tk5maDlIRTE4MHdnbF9R?oc=5>
+- **特朗普** | 美国总统特朗普结束访华离京 <https://news.google.com/rss/articles/CBMif0FVX3lxTFAzY0lOanJiNS1hSFMwSlNWeVE3VDJ4dDVXalM1dGlBX3hQMEdBLTR0b2s5cG1rZGlkUTdjanlobWJLaWJod3Jjc2x5cGhZdVhHNHAzbUxuWlE5Zzl4b0trQVpKQk12eDNLZUl4bE1CRXRCNXVNRmZzYmNteGJxRUk?oc=5>
+- **特朗普** | 美国总统特朗普结束访华离开北京 <https://news.google.com/rss/articles/CBMickFVX3lxTE1hUnFqYUNQd2NGS25lOGZlXzhiX1hReUZ2aVRXajYxT1lPeFRtV3hKaUc2ZTc2ZzI3MGhBVDBhUklsZTBGOWthMHl3M0dBR2ZzRG92QnFCRnNJTVBRcjF6MGFFUmFEOHQ2Q1Jfd0lJQm9SQQ?oc=5>
+- **Trump** | 澳廣視新聞｜Xi holds welcome banquet for Trump｜Xi holds welcome banquet for Trump <https://news.google.com/rss/articles/CBMihwFBVV95cUxPaHJ6aXEzZFo2S2xFTXozZ2hPRjhXdE1PV2dndU83ZXA2MXhPa20tdzVqcUx2TnJVa0VaR1FXUzJPNHRmUUc5eEctdk9XQU9Jai1WS1NZRWZfRnBRT01xa2NZc0s3MHg2UDJuMVVQSl9ZX3lUNkFEelIzNFgzeGtmNGxaMWZmX2c?oc=5>
+- **Trump** | China highlights drug crackdown as Trump presses Beijing on fentanyl precursors <https://news.google.com/rss/articles/CBMixwFBVV95cUxNdEpJUHQxdHF6czVCN3FYNDBIQ1VVOUtZM01VSGVPb01UelhyUC1fVWZGYkpER24xTzBqRGNWOGxCbVR0VUJIU3R1LXVZaEswR0FQdW1FQmY1SnJJQy1zVGt6WmpwQW1icWVHZ3p3Z3ZzVlA5bW9tS3VVRXg5blF5YUhTdHdWNTJJNm1jSGtnY2FKTlpMN0ZMMTRTWUpJVmJRZHZHVUxYSW0wTTBhX2xOQ1NYVWdwcVUxSDRNS1V4SS1jaFVlN0Fj0gFaQVVfeXFMTUNDWWR6S3lyU1d4SkZ2a2pJRndwRVQwLUxlQ0NmWGJRQW8zVHBMRWJvREU1TFE0Rk44Wm13U09RNGh1VVNTcG5DbS00M19lY3Q3a2ZydTNFb2NR?oc=5>
 
 ### 2026-05-15 09:30  (18 条)
 
