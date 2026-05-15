@@ -1,43 +1,65 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-15 19:44**
-- 本轮扫到 1207 条, 新增 **8** 条
+- 最近更新: **2026-05-15 20:55**
+- 本轮扫到 1217 条, 新增 **10** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (10 条)
 
-### 新浪演唱会热点小时报丨2026年05月16日03时_今日实时演唱会热点速递
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905iosu.html>
-
-### 新浪演唱会热点小时报丨2026年05月16日02时_今日实时演唱会热点速递
+### 为什么说周杰伦歌词杯能缓解演唱会的‘戒断反应’？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905ina4.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801kpc4.html>
 
-### 孙颖莎球迷周杰伦演唱会点歌《我是如此相信》
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068727_m1d5b04e7703303xm4o.html>
-
-### 周杰伦演唱会爆火！这次温州赚翻了！
+### 是周边更是情绪价值！星巴克周杰伦歌词杯如何治愈演唱会戒断反应？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905ion0.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801kpbe.html>
 
-### 特朗普结束与习近平的北京峰会，强调美方预期将获得重大客机与大豆订单
+### 新浪演唱会热点小时报丨2026年05月16日04时_今日实时演唱会热点速递
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905iq3y.html>
+
+### 周杰伦演唱会即将开唱！超全出行攻略收好
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905iqim.html>
+
+### 为什么这位外国球迷会选择在周杰伦演唱会上为孙颖莎点歌？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879995911_1d5af320706801vxew.html>
+
+### 特习北京峰会释放稳定信号，但关键分歧未见突破
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 美国之音
-- 时间: 2026-05-15 18:48
-- 链接: <https://news.google.com/rss/articles/CBMijwJBVV95cUxNdjVTX2dYRjhidVZ5Vy0zaDZyV1E3bzlkNDV5WV9KUndOeVZKRDdCNUJzT2dGQzd1dlFqTGtUOEZDMGlYYnlvSFNzMzVsYU96NUlkT2lVbU5fZ1VmRGI0V1Fqek9WU0VneVhUTzc4LTNUWVJjNm81S0xwVnNfZF9ubWZLYkVTcTlNd2NMWjFZRVhSTFpPRTZnQWJvMVI1UmI1X245d3hJR21FdktINUtDU0tyUUl6eC1hTk5xN1YwWFdoWEhMd1BsNFRWWVZGVFdSVndvWTBqcjJqU0s5UmlUNzBNaHVKWkdyR01pWkc5MVBCWVd0Z2NJRlJXYXFhR2d1c2YtQkdmR21sMVpETmZF0gGSAkFVX3lxTE5xUlFjWnFjUFVSOWRwZDRXbFVJTkZkaTF1NnJsMDFnOGsxb0lYc3h1WGltSmlxYk5MVFVqb2RJVEFhc1RUWF8zTjNvMGtIOXRPVkp1T1Vjck12V2ZESGUxbkhDRmFUTFVqNFBXX2VqNXJUN2p1Z094UHJ5aFhvWjEyTE5CNjJlN0NLU0ViV01sZmNSZzBxa1dWTm5tbGVrZHNOT3cxZUpXSS1MS0Z0dHdWb0luTHhlUVNBTjVkeHYwZ1FYcGo5ZFFKeldjYUhGNEpHeFptaXhFc1BfX24zakEtX2N6MzNqNDhWT0NnUkd1ZWRvdkdVZmRsZFpRaXg3VHR3Z2dPbnhFa1Z0Zmk2X1VjLXc?oc=5>
+- 时间: 2026-05-15 20:50
+- 链接: <https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNEQwNjBKM2JPRDRsTWs4YzA0X0xFaEd0b21wYTRzWkJCeDB2OEdaTG5TbldoOE9weWp0a24zcFhUSHZGRjlpQmtFVWJnM09DS21FN2xlMlZFc2QtQmpWVjRTRk5aN3ZBMzM1N0FrTXNJaXExSWpTblc4cUh5QU1FWE5UQVprb3Y5dFkxZFR5T0pheWZfRy1nLUx4MlBRSDJBN1ZnYTVnbTR6REJNQzhQM0hnU3hJQ3pr0gG7AUFVX3lxTE1yczFucWpYY0ZwLW1TajFnYzJRSDIybll3elVTRWpWNG1ISWMwQzQtb2FWR0RPeUVxaWZHZ0Z4X1NIaUhsWmNMa2pqZG1rU3p1MFNOOGtXQ1pFby03QnBvaVZ0TTNPeUlXMF80eEsyRDhCZWRyZzBxc3JOLVVtS0MwRVpTMjJBTFdkbkxoN2Z4VXd5V1RfZFBYdDVyNGJHelNPR1g4ZGJrUGdNWF9sbmpaeXFFb0htdmwwX1U?oc=5>
+
+### 美中峰会后，特朗普表示将很快就拟议中的140亿美元对台军售案做出决定
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-05-15 20:15
+- 链接: <https://news.google.com/rss/articles/CBMingFBVV95cUxQbkJadXZMNkZqR2UzWFhLX01fQmcyWnRlT0RjcHkwanV0Y044OGs2WmRtOGROdWVZLWc2dVJYd1RPaEhlTGRHWmRfc3M0TV9kcHQzNUxPaXlDUGlDODNNQnB3TEE1dnloM01XdklLamNod2FleWZMM1dYRVo1ZEpwNTF2dlJpS080T09sTDNNLWhJNURtVG9lckhHbHpwQdIBoAFBVV95cUxPMFY5VWxaT0FzRFJOZEFsNFB2bEpONUNoM3oydHZTbFc0YklBZWVwOGRtbGFkeXh5alFrRk84RUFOQV85cGNfN3E4cFNBVl9lSzZSQUpkWFJweGR2WmJIZ0U4RTB3OHdKVlZVVXFLMXlZY3VIdzExRUhkQmFUWDB6a19rU3MwTXViVG5tRnE4RFJrSDkxeGEtTVE4WVJ5Ti1k?oc=5>
+
+### 美国官方曝光！特朗普今年一季度是这么炒股的
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-15 13:02
+- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxPN2ZrbWZCclJIUWV0M19DNXptTHJ0R0xleXBqTW5rQ2t2YlVkdWMwWmRLVEVrX3pETVdZYmN2aG12dWx1bXNrT2J4dWZBX2t0SW9CMjhySW03SjBpbDFSY1Vtd1BQZzIzOFAzTEcyQUxRTzRBZmpUYVdVLUN1NzBkUE5IV3FJREM2TUE?oc=5>
 
 ### 最新披露文件显示：特朗普2026年第一季度大举买入科技股
 
@@ -45,28 +67,33 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-05-15 18:07
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaUV4aVZGZkhIYjJHU19VTV9CWkRtWFhIR2pnN2hVdjJvRlR2Rmd4SEtmLUdrNEZrX19qTVRial9PVmtFTkU1QWwtamV1RWFkUUJaWkF5V1RkbkdOTUtjN2RhcHNubHBuakg5WnN5dGFCVTkwOUltWlJQem85WDgwd2hPd29QaXg4cWwzTEpsSzM3Zzlpb1ZxUmJ6ZkFDeVh0ZDhPLUdpdzE1eUNRTU5ZS0FIZzFCZ2RrbkJXbEplUDdwOGxZeTFvWXlfQ0RMZWRz?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxPcDR4MXpNeF9pYzQwUzAyaHNvdEF3ZFU1WHU5aW9aUDE0NnhDekF6Y3ZKNFhzZDFIQ2Zkdm1DUWp6bTdtdWhJazdJdG9XMEJ5S0c1WjFvamtYMEhTWmlyMFpzWDY4UGlmbTNyZExuUzhsMExIN1gtTkNlWHc5RXVBTmJGejdUTDc5MXRCQXlGUQ?oc=5>
 
-### 默茨与特朗普通电话，似有意修补关系
+### 油价上升，因特朗普与Xi Jinping峰会后美伊协议前景仍不明朗
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-05-15 18:10
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrLWFnQnJWc2RYNG9KeDlYNGM1SEduWUtNcTllTHp0WW8wajRQSUM4RzVoc2ZFVS1DcVJDZWNnZGdzRFBKakY5Z19VQXlSSm1lVWNHaEZPU2VWblBnZzR1Uw?oc=5>
-
-### 特朗普结束访华：一次历史性标志性的访问
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-05-15 14:43
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBzYnNsSEpUdXVJU2t0NU9zUzF5Yk5SNUdUN0JOMWFBMG5HWVVmazVvMXk3MHRRNGdfU1k0VFVHcGNsMlhYY0kyRHNMVlE1S1dxOEFILTM4V3BKQTVndFZETGU2bzRNc193RlBXWEY4U0JfWkVDRFhlUA?oc=5>
+- 场馆: AASTOCKS.com
+- 时间: 2026-05-15 19:51
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE1GR1psUF9WX1M4MktGaFZzYWFrQzFyQXJfS051UzhBM05Ha1JsLXUwdjZEZW5HYUl0Zlo5U0NFbnUycGFrNERKd3RwdGFOaGhxYWJfZG1jRjRRWjNiQVBXeWRxbVlxLVdCMzJma09Kaw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-15 20:55  (10 条)
+
+- **周杰伦** | 为什么说周杰伦歌词杯能缓解演唱会的‘戒断反应’？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801kpc4.html>
+- **周杰伦** | 是周边更是情绪价值！星巴克周杰伦歌词杯如何治愈演唱会戒断反应？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801kpbe.html>
+- **周杰伦** | 新浪演唱会热点小时报丨2026年05月16日04时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001905iq3y.html>
+- **周杰伦** | 周杰伦演唱会即将开唱！超全出行攻略收好 <https://k.sina.com.cn/article_7857201856_1d45362c001905iqim.html>
+- **周杰伦** | 为什么这位外国球迷会选择在周杰伦演唱会上为孙颖莎点歌？ <https://k.sina.com.cn/article_7879995911_1d5af320706801vxew.html>
+- **特朗普** | 特习北京峰会释放稳定信号，但关键分歧未见突破 <https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNEQwNjBKM2JPRDRsTWs4YzA0X0xFaEd0b21wYTRzWkJCeDB2OEdaTG5TbldoOE9weWp0a24zcFhUSHZGRjlpQmtFVWJnM09DS21FN2xlMlZFc2QtQmpWVjRTRk5aN3ZBMzM1N0FrTXNJaXExSWpTblc4cUh5QU1FWE5UQVprb3Y5dFkxZFR5T0pheWZfRy1nLUx4MlBRSDJBN1ZnYTVnbTR6REJNQzhQM0hnU3hJQ3pr0gG7AUFVX3lxTE1yczFucWpYY0ZwLW1TajFnYzJRSDIybll3elVTRWpWNG1ISWMwQzQtb2FWR0RPeUVxaWZHZ0Z4X1NIaUhsWmNMa2pqZG1rU3p1MFNOOGtXQ1pFby03QnBvaVZ0TTNPeUlXMF80eEsyRDhCZWRyZzBxc3JOLVVtS0MwRVpTMjJBTFdkbkxoN2Z4VXd5V1RfZFBYdDVyNGJHelNPR1g4ZGJrUGdNWF9sbmpaeXFFb0htdmwwX1U?oc=5>
+- **特朗普** | 美中峰会后，特朗普表示将很快就拟议中的140亿美元对台军售案做出决定 <https://news.google.com/rss/articles/CBMingFBVV95cUxQbkJadXZMNkZqR2UzWFhLX01fQmcyWnRlT0RjcHkwanV0Y044OGs2WmRtOGROdWVZLWc2dVJYd1RPaEhlTGRHWmRfc3M0TV9kcHQzNUxPaXlDUGlDODNNQnB3TEE1dnloM01XdklLamNod2FleWZMM1dYRVo1ZEpwNTF2dlJpS080T09sTDNNLWhJNURtVG9lckhHbHpwQdIBoAFBVV95cUxPMFY5VWxaT0FzRFJOZEFsNFB2bEpONUNoM3oydHZTbFc0YklBZWVwOGRtbGFkeXh5alFrRk84RUFOQV85cGNfN3E4cFNBVl9lSzZSQUpkWFJweGR2WmJIZ0U4RTB3OHdKVlZVVXFLMXlZY3VIdzExRUhkQmFUWDB6a19rU3MwTXViVG5tRnE4RFJrSDkxeGEtTVE4WVJ5Ti1k?oc=5>
+- **特朗普** | 美国官方曝光！特朗普今年一季度是这么炒股的 <https://news.google.com/rss/articles/CBMiigFBVV95cUxPN2ZrbWZCclJIUWV0M19DNXptTHJ0R0xleXBqTW5rQ2t2YlVkdWMwWmRLVEVrX3pETVdZYmN2aG12dWx1bXNrT2J4dWZBX2t0SW9CMjhySW03SjBpbDFSY1Vtd1BQZzIzOFAzTEcyQUxRTzRBZmpUYVdVLUN1NzBkUE5IV3FJREM2TUE?oc=5>
+- **特朗普** | 最新披露文件显示：特朗普2026年第一季度大举买入科技股 <https://news.google.com/rss/articles/CBMijwFBVV95cUxPcDR4MXpNeF9pYzQwUzAyaHNvdEF3ZFU1WHU5aW9aUDE0NnhDekF6Y3ZKNFhzZDFIQ2Zkdm1DUWp6bTdtdWhJazdJdG9XMEJ5S0c1WjFvamtYMEhTWmlyMFpzWDY4UGlmbTNyZExuUzhsMExIN1gtTkNlWHc5RXVBTmJGejdUTDc5MXRCQXlGUQ?oc=5>
+- **Trump** | 油价上升，因特朗普与Xi Jinping峰会后美伊协议前景仍不明朗 <https://news.google.com/rss/articles/CBMib0FVX3lxTE1GR1psUF9WX1M4MktGaFZzYWFrQzFyQXJfS051UzhBM05Ha1JsLXUwdjZEZW5HYUl0Zlo5U0NFbnUycGFrNERKd3RwdGFOaGhxYWJfZG1jRjRRWjNiQVBXeWRxbVlxLVdCMzJma09Kaw?oc=5>
 
 ### 2026-05-15 19:44  (8 条)
 
