@@ -1,65 +1,67 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-15 13:55**
-- 本轮扫到 1173 条, 新增 **16** 条
+- 最近更新: **2026-05-15 16:01**
+- 本轮扫到 1186 条, 新增 **13** 条
 
 ---
 
-## 本轮新发现 (16 条)
+## 本轮新发现 (13 条)
 
-### 蔡徐坤新专辑实体版空降发售
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5751949769_156d7c9c904001knjg.html>
-
-### 周杰伦演唱会场外粉丝应援活动，除了歌词杯还有什么新玩法？
+### 周杰伦温州演唱会首日嗨翻四万人，双截棍引爆全场
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ko0u.html>
+- 链接: <https://k.sina.com.cn/article_1725252714_m66d5446a03301yfrm.html?from=ent&amp;subch=oent>
 
-### 周杰伦演唱会最火周边！星巴克歌词杯凭啥成粉丝情怀爆款？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ko0i.html>
-
-### 周杰伦温州演唱会问歌迷18年前观众举手，现场激动回应
+### 周杰伦温州演唱会首日开唱，外国粉丝同台合唱
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1725252714_m66d5446a03301yffk.html?from=ent>
+- 链接: <https://k.sina.com.cn/article_1725252714_m66d5446a03301yfq6.html?>
 
-### 周杰伦温州开唱！现场呼叫“18年前就看过演唱会的粉丝”，他们激动到手抖……
+### 周杰伦温州演唱会为母女粉丝升key飙高音
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://finance.sina.com.cn/wm/2026-05-15/doc-inhxytzf3348541.shtml>
+- 链接: <https://k.sina.com.cn/article_1725252714_m66d5446a03301yfq2.html?>
 
-### 习近平同美国总统特朗普在中南海小范围会晤
+### 周杰伦温州演唱会开唱，温州场的主题曲是《蜗牛》
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-05-15 05:49
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE8wcGpVMU55MmN3OU0zWGJhQm51WEs3ZWU0ZW5KZjhxMlVsem9XY3otZTYtZDNTTU85ZmdYX0t2aXlOS201VUZ4Y2Fjam1mamhiNVVjQTZKWFBCRFNGYmpybmZ4UTdUZml0TWNvZm82YTNUbFhMMnZ5dlhIcS1xQXc?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1744332207_m67f865af03301ibea.html>
+
+### 李现追星成功,把周杰伦to签T恤穿在身上,演唱会现场献唱花海
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905iea0.html>
+
+### 周杰伦抵温州，15日起连开三场演唱会
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1725252714_m66d5446a03301ydfa.html?from=ent&amp;subch=oent>
+
+### 杰伦：温州接机的朋友们 快回家吧 雨有点大 演唱会见啦
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_2254646594_m86632d4205301hgo0.html>
+
+### 周杰伦5月15至17日温州连开三场演唱会
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1926641510_m72d6376603301jr1i.html>
 
 ### 特朗普称美伊停火系“应其他国家要求”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-15 13:28
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5VbjRfR19aOEp6b1RJaV8tbzEwUVEtV1d4QlpicTZkSENHRUZNdHZCbkMxVW1LQnFmejc5alNZTTY0b01GVzVNVFYyYw?oc=5>
-
-### 白宫发布中国仪仗队画面，特朗普：中国军人棒极了
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-05-15 13:32
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFB2ZmhJVlBsX0dNdHhKbzQwYWNYc3lwLXozYmFmT2FRamdpYjBlRVZlWHBpcDdKQmd0c2FjUjk4ZXhmSDVCZFNzcHFtTkNUNU10WjAwV2tSRlFaSjRzamxGUmJ2d29vNzlQVmc?oc=5>
+- 时间: 2026-05-15 14:37
+- 链接: <https://news.google.com/rss/articles/CBMiiAJBVV95cUxObG5Ka3NvZ3ZERzFPQUlqUzBXeXRMYklWZVVENld1X0JIT01DbzRuVmY4Q0w5ZjBRZlJOSUN5MXdyZGQ2UFV1Ymx3OEhPY0JscjNfeThFendTQlRFbmNmZjg1V2dCbFpUTktIX2xwVHBxMUwzaDByclhvOXZ6MFlaZWYxY1FycU9TRFJRUWlNY3hqUVRlUm01NWdOWkhkbHVrNGZHWG82QWdpUHdtZm5ReGlDRlUtenotZnFVMjZtY1FlUkoxd21WcTFUQmc1dFZpVlowcnNfSjRyb2xSdW5Ia1B3bUZjYk5TaTc2TmZPRzFUWWtaYkN0SDFyd2xjUjQyUHZUclo5S24?oc=5>
 
 ### 吴心伯亲历特朗普欢迎晚宴：同桌美国人主动说“我们是朋友”
 
@@ -67,68 +69,52 @@
 - 来源: `googlenews`
 - 场馆: thepaper.cn
 - 时间: 2026-05-15 12:59
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE9oUzhTNk9OS0tsTkxWdmNjalJJc3pHeWVubUh4SklHVk1OOHl0NTczNWN3RlJRb00td3VCZHN4U1Jrb2ZLOVp0NjF2a0xQM1Q3dVpva2NSeWh6Z1NoUmc?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ubDVlVzRVeWxTZHRnNTBqaE5EeGNnLUVLUjdCYzU0VmZRN28takdYV2R1UnBDR2ZPZk1pWF9kU2NibFp1VUpqOWUwSWo2R05jRXFNc2ZkbDVsbUJES2VmZA?oc=5>
 
-### 大国外交最前线丨特朗普结束访华：一次历史性标志性的访问
+### 特朗普前脚刚走，万斯后脚就带娃把白宫当自己家了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中国青年网
-- 时间: 2026-05-15 12:06
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE83WGE4THJFb3lydk95bmpqOEFoTWNWYU1VOEVkTUNKaWVGeG1kdDdnN0d0UkZEVVpYdDhDeE9rVkd4VU9BUFNxSVlaZlJBcWRsRE0xTWJzaW9UZVBSc0ZNYlh3NVY?oc=5>
+- 场馆: 搜狐网
+- 时间: 2026-05-15 15:54
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxPR3ZvazJFWlZhbGp0MkVjal82b2F5VmxySldLUWIzVklmT18tWk1uVjRKcGNldVd3dUFsM1VGUUMzZnVyZkRxTTZ6QV9LQzBDamRkb1Jvekk0QTg4eHdhd1lNMmhsRHVGbGtzTzJXMkZJMm90MUlyZHdCbWxiVU1ha3dJZnBCN1VoakVkbw?oc=5>
 
-### 特朗普访华结果分析：美国盯着3B，中国盯着3T，谁占了上风？
+### 特朗普访华最后一程参观中南海 习近平强调这种安排“极为罕见”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: BBC
-- 时间: 2026-05-15 11:37
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrX0loU1dndVFLYlRIMzFYLWQ3YzFBNUZaanktZmw3QjJ5dXEwaUlmRW8zRTk4dzY3ZGd4bjVpSUxCSUpCZWMyc3F0QndPRlhSRVB3TFVPRm9fSkxfRS1yOGVpd0RMZ9IBa0FVX3lxTE5JbE13NWtiQzM3WVFOdE9vUzY3YXpDeXgxRHpwLTFhWXlIbVJWWmxaZWlwOFFjeGp5QW5tbW03V0VfU3NPQ05ycC1EbzdlSVVZOTJ1WGs1RWM5OW45dWVvQmxsVXFUcXpUaWM4?oc=5>
+- 时间: 2026-05-15 11:02
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kTVljdnA0azJEZENtbGkwcC1PWVZTZ2RONDRCdE14SE43NjhXc1U2M1JsTzZ2d3BBTWhVOGxzQTlaZXcxYlVmZmxad3dqVmlLUFNrNGRWcmZGRnpnNm5EQ2N6eWtvd9IBa0FVX3lxTFBSaHo0V2VEd2F1cjVQUFdTdF9lQk1WWnMxUkR0U0FMWDNoQVhZRGZNQ3pZNjZhaWlqb1Fmd0dtZC1QeWpUekFQV0NOTk43QzVicDFmdnZFRERaRVBUMjBzUnY4ZjN5ZllaTTNN?oc=5>
 
-### 499美元，特朗普T1手机确认本周启动发货
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-05-15 09:30
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tSkoxc18xdVN0ZmtfQzl0Z2RrbzZEY0lsMEJvdTNpNEtVbHJ6WDYzUTNNenRTT3JRMEhIZDVPeWZkSzBWZFNXaklsei01TktsTVVj?oc=5>
-
-### 习特会国宴菜单有北京烤鸭 曲目包括《Y.M.C.A.》
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-05-14 14:01
-- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxQOTRCaG5GUFkydE91TEpDbUM4ckEyVXZYb0JjLTNnOUI4cDhIRjM0MkF3UXhlbGtPdEpsbWJCZmFDZ0VLeUhpek1iajFqX0d2SVZuay1XZ2w2NEpyVTE1NFdLSFp6R25pWFFUSDctcFZ2VEt6WTI2RzRpNlhER1poMzhUM1pDQnNnMUlkbjhyeEU4TTc3NG9YT0g0ZGJzc1lV?oc=5>
-
-### President Xi Jinping Holds a Private Meeting with U.S. President Donald J. Trump at Zhongnanhai
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 驻韩国大使馆
-- 时间: 2026-05-15 08:00
-- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTE9jMGlxRHBxZ05nQXA5QWt1YmNCajdDZDJSeERoNnJXOVhXSi1sRHRnNzQ1ZXA1Q21GZHZvb2t4TlJWdWcxSDlHZ0xubnZtT25GdkE2c0hVcmp4a2YyOEtfOHBxdFhJT25DbzFiSmg2Y29iZDM3V0lXM0tpcw?oc=5>
-
-### 特朗普总统结束对北京的旋风式访问，启程返美
+### 特朗普总统结束对中国的国事访问，重点提及贸易与台湾议题
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: 美国之音
-- 时间: 2026-05-15 07:20
-- 链接: <https://news.google.com/rss/articles/CBMilgFBVV95cUxOY1F0MW45QkdNVTNzbHJ2T0ZZc2VSREowWkJnSVhXak9VZ0IybTUwck9fTkxVWFo5bWt3UHZWdzIwX0lWVnBKaXQtVW5UMkhFXzZLMHdXaVpZbzRyUWdEM0tkQ280cnBZYS1sYzFXeW04VDhYZGE1Ql9xbTY4WGVzblIzbUQ3ZDhaY0pfQ3ZsdXlpVFhETEHSAZgBQVVfeXFMUHp6dktKZEloWGFVMWNjYUU0d0JiR0RfU2hBSWV0cUIzdlpsRThVUklBVlExZlJVcXBnZTFBejF6M3lTT0k2WXlPZ2lCWnQ4dHh0bnZwZnNqMWhSRkUwZWxPQXd6Tlppbm9xMUp1RktCNVk5SkkwUWZPdHFOZVQ3bG1FS01RZTV1OW5aS1NaMkRQMk1kSm1hZUg?oc=5>
-
-### 特朗普之子Eric Trump专访：我爸是最好的朋友，美国想赢AI、能源与比特币的终极竞赛
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: PANews
-- 时间: 2026-05-15 13:30
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1XOGVmUTRGZ1VodG14N0VsUWNZaGtzNjZMQUZuOTByQ0o1Z1dPTU9WaEpuVWtiWHJlaXBNX2gtRHphS1pwT0EwNG5ITXdrLWdNdjNJNnBlZW12ZWRWcUpLT2xoNlZQT01MR25wRGI0ZUdPS19RUFR4NUxVMmpFQlU?oc=5>
+- 时间: 2026-05-15 15:03
+- 链接: <https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWHVlU3JfUjd1d2V3Y0NjR3UxRnVCd25TY0JGUlBZeWRVbFFJbEh6VmJ6RzRxeDNBa2FfWVJENU85a3cyUndtSmxkYTgzbUdpOC12MkhSa0JjNEJBVXhBTE5VTFNuOGVMMXV5dU5vSXNsTUdZeXBiSURTMFFuaUdoU19FR0xnV3QtNTNwajM1b1JlTzBJUEsyNVFrYS1KODRyVEpVaEk4SzBMMktFTlRVTnNTY0l5RWN1RDdxd0tIVjd4dG1uZldDd9IBywFBVV95cUxQUDJub3gwR01NVlFKNDlhTXFkRmhVRzVTUkhqUUdFemViZEpPTFJmZXlPZW5iUXFod3RoMHF4UVI0Szg1VmhQWFd3MnRnc1lIYjlNZkg3Y1NNNFRGRVV0QnlkUXJ0OFNWT293dWNtN1ZxN1VmWGRNdEM1MUh0X05nX0ItemtfYjMxaW5saUwweWJMS0pqX1BsQ05HbjJOZUxaVExjQjJNdWdaNHJMajBISXhTdWxZSVhkZHdDY2ViczFld3lHcWxDcXI2Zw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-15 16:01  (13 条)
+
+- **周杰伦** | 周杰伦温州演唱会首日嗨翻四万人，双截棍引爆全场 <https://k.sina.com.cn/article_1725252714_m66d5446a03301yfrm.html?from=ent&amp;subch=oent>
+- **周杰伦** | 周杰伦温州演唱会首日开唱，外国粉丝同台合唱 <https://k.sina.com.cn/article_1725252714_m66d5446a03301yfq6.html?>
+- **周杰伦** | 周杰伦温州演唱会为母女粉丝升key飙高音 <https://k.sina.com.cn/article_1725252714_m66d5446a03301yfq2.html?>
+- **周杰伦** | 周杰伦温州演唱会开唱，温州场的主题曲是《蜗牛》 <https://k.sina.com.cn/article_1744332207_m67f865af03301ibea.html>
+- **周杰伦** | 李现追星成功,把周杰伦to签T恤穿在身上,演唱会现场献唱花海 <https://k.sina.com.cn/article_7857201856_1d45362c001905iea0.html>
+- **周杰伦** | 周杰伦抵温州，15日起连开三场演唱会 <https://k.sina.com.cn/article_1725252714_m66d5446a03301ydfa.html?from=ent&amp;subch=oent>
+- **周杰伦** | 杰伦：温州接机的朋友们 快回家吧 雨有点大 演唱会见啦 <https://k.sina.com.cn/article_2254646594_m86632d4205301hgo0.html>
+- **周杰伦** | 周杰伦5月15至17日温州连开三场演唱会 <https://k.sina.com.cn/article_1926641510_m72d6376603301jr1i.html>
+- **特朗普** | 特朗普称美伊停火系“应其他国家要求” <https://news.google.com/rss/articles/CBMiiAJBVV95cUxObG5Ka3NvZ3ZERzFPQUlqUzBXeXRMYklWZVVENld1X0JIT01DbzRuVmY4Q0w5ZjBRZlJOSUN5MXdyZGQ2UFV1Ymx3OEhPY0JscjNfeThFendTQlRFbmNmZjg1V2dCbFpUTktIX2xwVHBxMUwzaDByclhvOXZ6MFlaZWYxY1FycU9TRFJRUWlNY3hqUVRlUm01NWdOWkhkbHVrNGZHWG82QWdpUHdtZm5ReGlDRlUtenotZnFVMjZtY1FlUkoxd21WcTFUQmc1dFZpVlowcnNfSjRyb2xSdW5Ia1B3bUZjYk5TaTc2TmZPRzFUWWtaYkN0SDFyd2xjUjQyUHZUclo5S24?oc=5>
+- **特朗普** | 吴心伯亲历特朗普欢迎晚宴：同桌美国人主动说“我们是朋友” <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ubDVlVzRVeWxTZHRnNTBqaE5EeGNnLUVLUjdCYzU0VmZRN28takdYV2R1UnBDR2ZPZk1pWF9kU2NibFp1VUpqOWUwSWo2R05jRXFNc2ZkbDVsbUJES2VmZA?oc=5>
+- **特朗普** | 特朗普前脚刚走，万斯后脚就带娃把白宫当自己家了 <https://news.google.com/rss/articles/CBMijAFBVV95cUxPR3ZvazJFWlZhbGp0MkVjal82b2F5VmxySldLUWIzVklmT18tWk1uVjRKcGNldVd3dUFsM1VGUUMzZnVyZkRxTTZ6QV9LQzBDamRkb1Jvekk0QTg4eHdhd1lNMmhsRHVGbGtzTzJXMkZJMm90MUlyZHdCbWxiVU1ha3dJZnBCN1VoakVkbw?oc=5>
+- **特朗普** | 特朗普访华最后一程参观中南海 习近平强调这种安排“极为罕见” <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kTVljdnA0azJEZENtbGkwcC1PWVZTZ2RONDRCdE14SE43NjhXc1U2M1JsTzZ2d3BBTWhVOGxzQTlaZXcxYlVmZmxad3dqVmlLUFNrNGRWcmZGRnpnNm5EQ2N6eWtvd9IBa0FVX3lxTFBSaHo0V2VEd2F1cjVQUFdTdF9lQk1WWnMxUkR0U0FMWDNoQVhZRGZNQ3pZNjZhaWlqb1Fmd0dtZC1QeWpUekFQV0NOTk43QzVicDFmdnZFRERaRVBUMjBzUnY4ZjN5ZllaTTNN?oc=5>
+- **Trump** | 特朗普总统结束对中国的国事访问，重点提及贸易与台湾议题 <https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWHVlU3JfUjd1d2V3Y0NjR3UxRnVCd25TY0JGUlBZeWRVbFFJbEh6VmJ6RzRxeDNBa2FfWVJENU85a3cyUndtSmxkYTgzbUdpOC12MkhSa0JjNEJBVXhBTE5VTFNuOGVMMXV5dU5vSXNsTUdZeXBiSURTMFFuaUdoU19FR0xnV3QtNTNwajM1b1JlTzBJUEsyNVFrYS1KODRyVEpVaEk4SzBMMktFTlRVTnNTY0l5RWN1RDdxd0tIVjd4dG1uZldDd9IBywFBVV95cUxQUDJub3gwR01NVlFKNDlhTXFkRmhVRzVTUkhqUUdFemViZEpPTFJmZXlPZW5iUXFod3RoMHF4UVI0Szg1VmhQWFd3MnRnc1lIYjlNZkg3Y1NNNFRGRVV0QnlkUXJ0OFNWT293dWNtN1ZxN1VmWGRNdEM1MUh0X05nX0ItemtfYjMxaW5saUwweWJMS0pqX1BsQ05HbjJOZUxaVExjQjJNdWdaNHJMajBISXhTdWxZSVhkZHdDY2ViczFld3lHcWxDcXI2Zw?oc=5>
 
 ### 2026-05-15 13:55  (16 条)
 
