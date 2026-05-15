@@ -1,106 +1,83 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-15 17:59**
-- 本轮扫到 1199 条, 新增 **13** 条
+- 最近更新: **2026-05-15 19:44**
+- 本轮扫到 1207 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (13 条)
+## 本轮新发现 (8 条)
 
-### 腾讯视频发布综艺片单，《主咖》回归，王一博继续“探索新境”
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905iif0.html>
-
-### 王一博：献唱全国青少年阳光体育大会主题曲，获央视第一时间力挺_订阅
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905iiz4.html>
-
-### 新浪演唱会热点小时报丨2026年05月16日01时_今日实时演唱会热点速递
+### 新浪演唱会热点小时报丨2026年05月16日03时_今日实时演唱会热点速递
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905iikc.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905iosu.html>
 
-### 陈梦对孙颖莎使出\&quot;捏脸杀\&quot; 相约看周杰伦演唱会
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905igqu.html>
-
-### 暖心！外国球迷在周杰伦演唱会上举孙颖莎照片点歌《我是如此相信》
+### 新浪演唱会热点小时报丨2026年05月16日02时_今日实时演唱会热点速递
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879995911_1d5af320706801vwuk.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905ina4.html>
 
-### 孙颖莎本人得知在演唱会上被点歌后有何反应？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879995911_1d5af320706801vwui.html>
-
-### 新浪演唱会热点小时报丨2026年05月16日00时_今日实时演唱会热点速递
+### 孙颖莎球迷周杰伦演唱会点歌《我是如此相信》
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905igfa.html>
+- 链接: <https://k.sina.com.cn/article_7880068727_m1d5b04e7703303xm4o.html>
 
-### “企业天团”随特朗普来华释放新信号
+### 周杰伦演唱会爆火！这次温州赚翻了！
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-05-15 16:33
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE81bnMxU0d3akt6M2lodEt2UlhySlhlZl9QbHFnMkhNbk85ejIyY2VqOGdmQXdqLW5wMXEzZHRaYlBYbGNzMEJiRDgwbUYzbUducVRvQmJCNUdDYnJ0Qjh5cTY3aVVGNmp2R1c2MWZxRHpGa0piT0E?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905ion0.html>
 
-### 特朗普总统归国途中与日本首相通话，向其介绍访华情况；两人重申美日同盟“坚定不移”
+### 特朗普结束与习近平的北京峰会，强调美方预期将获得重大客机与大豆订单
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 美国之音
-- 时间: 2026-05-15 17:05
-- 链接: <https://news.google.com/rss/articles/CBMizAFBVV95cUxNWjAxR2p4a25uWFJqM19RbHdMVTJDalNlWWFMaFZFTmZ4RUVJVFk2SEJrT2hoYU9Vak9taHIxVGJHNEZaRXdmZWhpTWlfOG1aT3FxWkoyb0Q3UUZnc1diQXVlOG01MWZVeXliOU1ma2NMTkl3ckh6QTBJU3RESGFNWEhPbHRsNExGYktpTGhTNjh3WF9xeDJyVWVNTGJlYlpKRTRtZ3JuUk4zZTZqM3hROE9QMkJ0ZHFRRVBtTUdxRGU4a2lHeU1OOGU2WTXSAc8BQVVfeXFMTmQtb2F3SkxRNFAyWkJmR2Y0V2VIYzA1ekxNLWNpWDZkU2xXLWloODktbTVJNHBfb1JaOTcybWlxbEFVQTlzemcwQVlJaUhIUFNwR2FEUWtWTFRTcTdENlJhYnR5dlFSZGMyRkp0REx6aVdLZm1iRUE0bnFaellpT18tbDhHbExEZjZCZGc4YzhBLVJlNDVGZ3RfVzZlSnJCbS1GdS1wclIzdzc3bUxOaEphcmNrZUYtREFJUnZiVGdIdGltSVQzeW1WV3o3Vm5Z?oc=5>
+- 时间: 2026-05-15 18:48
+- 链接: <https://news.google.com/rss/articles/CBMijwJBVV95cUxNdjVTX2dYRjhidVZ5Vy0zaDZyV1E3bzlkNDV5WV9KUndOeVZKRDdCNUJzT2dGQzd1dlFqTGtUOEZDMGlYYnlvSFNzMzVsYU96NUlkT2lVbU5fZ1VmRGI0V1Fqek9WU0VneVhUTzc4LTNUWVJjNm81S0xwVnNfZF9ubWZLYkVTcTlNd2NMWjFZRVhSTFpPRTZnQWJvMVI1UmI1X245d3hJR21FdktINUtDU0tyUUl6eC1hTk5xN1YwWFdoWEhMd1BsNFRWWVZGVFdSVndvWTBqcjJqU0s5UmlUNzBNaHVKWkdyR01pWkc5MVBCWVd0Z2NJRlJXYXFhR2d1c2YtQkdmR21sMVpETmZF0gGSAkFVX3lxTE5xUlFjWnFjUFVSOWRwZDRXbFVJTkZkaTF1NnJsMDFnOGsxb0lYc3h1WGltSmlxYk5MVFVqb2RJVEFhc1RUWF8zTjNvMGtIOXRPVkp1T1Vjck12V2ZESGUxbkhDRmFUTFVqNFBXX2VqNXJUN2p1Z094UHJ5aFhvWjEyTE5CNjJlN0NLU0ViV01sZmNSZzBxa1dWTm5tbGVrZHNOT3cxZUpXSS1MS0Z0dHdWb0luTHhlUVNBTjVkeHYwZ1FYcGo5ZFFKeldjYUhGNEpHeFptaXhFc1BfX24zakEtX2N6MzNqNDhWT0NnUkd1ZWRvdkdVZmRsZFpRaXg3VHR3Z2dPbnhFa1Z0Zmk2X1VjLXc?oc=5>
 
-### 美国总统特朗普：我并没有低估伊朗的承受能力。
+### 最新披露文件显示：特朗普2026年第一季度大举买入科技股
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-15 16:12
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5sWVdCdEpQc1JQb2xyREFPNnBOWUVtSFBqY3BDUTVVa2o4aVhhdDgzcFRQSEdacjk1U3pQS2ljTk9BQWZCcW9oS0ZxRQ?oc=5>
+- 时间: 2026-05-15 18:07
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaUV4aVZGZkhIYjJHU19VTV9CWkRtWFhIR2pnN2hVdjJvRlR2Rmd4SEtmLUdrNEZrX19qTVRial9PVmtFTkU1QWwtamV1RWFkUUJaWkF5V1RkbkdOTUtjN2RhcHNubHBuakg5WnN5dGFCVTkwOUltWlJQem85WDgwd2hPd29QaXg4cWwzTEpsSzM3Zzlpb1ZxUmJ6ZkFDeVh0ZDhPLUdpdzE1eUNRTU5ZS0FIZzFCZ2RrbkJXbEplUDdwOGxZeTFvWXlfQ0RMZWRz?oc=5>
 
-### 特朗普称美伊停火系“应其他国家要求”
+### 默茨与特朗普通电话，似有意修补关系
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: thepaper.cn
-- 时间: 2026-05-15 13:47
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqNW1feDh4Sl90N3IwNzdFU1U2d1E1RUdLLW12bldKSUx1SDY1TFZaUnRWSm5RTnhrSG50cFNIV1RQbi1zUUF2a21nWVhrMGFqMHBkUkd2OFlHWEdIcThZeg?oc=5>
+- 时间: 2026-05-15 18:10
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrLWFnQnJWc2RYNG9KeDlYNGM1SEduWUtNcTllTHp0WW8wajRQSUM4RzVoc2ZFVS1DcVJDZWNnZGdzRFBKakY5Z19VQXlSSm1lVWNHaEZPU2VWblBnZzR1Uw?oc=5>
 
-### 特朗普总统与中国国家主席习近平的会谈纪要- 美国驻华大使馆和领事馆
+### 特朗普结束访华：一次历史性标志性的访问
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: U.S. Embassy & Consulates in China
-- 时间: 2026-05-15 12:22
-- 链接: <https://news.google.com/rss/articles/CBMirwFBVV95cUxQVi1BYllfQVJOTTYwa2JzMFA2d3hMWnN4Zk5EOGsxMFJCb3lvYVlkM0hYeUo1S1dCa0RBV1FNenpYRkJ0N3RBTUNmdUV6Y3ZyeFVTdWZGU3BlNFZsdEZJMHpMQmlMNEQ4YkhYNDZxdEg3VnhQLU43Q2ZJQlNtWWU4X3I2LVdXVFpyRmZ5VmY1WGs2VExKZzdTTjZWbkZtQkxxOEVCZEFXRVkwY3ppcFVB?oc=5>
-
-### 特朗普:习近平很温暖完全实干型不空谈不玩虚招- 国际观察BackChina Network
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: BackChina
-- 时间: 2026-05-15 13:38
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lRHdOOVotaXZJcWZ5My1YOHFJc0QwdjFvQmJmajZ1cFc2SDBaTE15a2s0NWsyNEJsdk1GeExaLXN2MGVaWWtOdjF6T3ZZVmloM2hsMkRfNWtFXzM0aGVDUlRSODE?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-05-15 14:43
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBzYnNsSEpUdXVJU2t0NU9zUzF5Yk5SNUdUN0JOMWFBMG5HWVVmazVvMXk3MHRRNGdfU1k0VFVHcGNsMlhYY0kyRHNMVlE1S1dxOEFILTM4V3BKQTVndFZETGU2bzRNc193RlBXWEY4U0JfWkVDRFhlUA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-15 19:44  (8 条)
+
+- **周杰伦** | 新浪演唱会热点小时报丨2026年05月16日03时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001905iosu.html>
+- **周杰伦** | 新浪演唱会热点小时报丨2026年05月16日02时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001905ina4.html>
+- **周杰伦** | 孙颖莎球迷周杰伦演唱会点歌《我是如此相信》 <https://k.sina.com.cn/article_7880068727_m1d5b04e7703303xm4o.html>
+- **周杰伦** | 周杰伦演唱会爆火！这次温州赚翻了！ <https://k.sina.com.cn/article_7857201856_1d45362c001905ion0.html>
+- **特朗普** | 特朗普结束与习近平的北京峰会，强调美方预期将获得重大客机与大豆订单 <https://news.google.com/rss/articles/CBMijwJBVV95cUxNdjVTX2dYRjhidVZ5Vy0zaDZyV1E3bzlkNDV5WV9KUndOeVZKRDdCNUJzT2dGQzd1dlFqTGtUOEZDMGlYYnlvSFNzMzVsYU96NUlkT2lVbU5fZ1VmRGI0V1Fqek9WU0VneVhUTzc4LTNUWVJjNm81S0xwVnNfZF9ubWZLYkVTcTlNd2NMWjFZRVhSTFpPRTZnQWJvMVI1UmI1X245d3hJR21FdktINUtDU0tyUUl6eC1hTk5xN1YwWFdoWEhMd1BsNFRWWVZGVFdSVndvWTBqcjJqU0s5UmlUNzBNaHVKWkdyR01pWkc5MVBCWVd0Z2NJRlJXYXFhR2d1c2YtQkdmR21sMVpETmZF0gGSAkFVX3lxTE5xUlFjWnFjUFVSOWRwZDRXbFVJTkZkaTF1NnJsMDFnOGsxb0lYc3h1WGltSmlxYk5MVFVqb2RJVEFhc1RUWF8zTjNvMGtIOXRPVkp1T1Vjck12V2ZESGUxbkhDRmFUTFVqNFBXX2VqNXJUN2p1Z094UHJ5aFhvWjEyTE5CNjJlN0NLU0ViV01sZmNSZzBxa1dWTm5tbGVrZHNOT3cxZUpXSS1MS0Z0dHdWb0luTHhlUVNBTjVkeHYwZ1FYcGo5ZFFKeldjYUhGNEpHeFptaXhFc1BfX24zakEtX2N6MzNqNDhWT0NnUkd1ZWRvdkdVZmRsZFpRaXg3VHR3Z2dPbnhFa1Z0Zmk2X1VjLXc?oc=5>
+- **特朗普** | 最新披露文件显示：特朗普2026年第一季度大举买入科技股 <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaUV4aVZGZkhIYjJHU19VTV9CWkRtWFhIR2pnN2hVdjJvRlR2Rmd4SEtmLUdrNEZrX19qTVRial9PVmtFTkU1QWwtamV1RWFkUUJaWkF5V1RkbkdOTUtjN2RhcHNubHBuakg5WnN5dGFCVTkwOUltWlJQem85WDgwd2hPd29QaXg4cWwzTEpsSzM3Zzlpb1ZxUmJ6ZkFDeVh0ZDhPLUdpdzE1eUNRTU5ZS0FIZzFCZ2RrbkJXbEplUDdwOGxZeTFvWXlfQ0RMZWRz?oc=5>
+- **特朗普** | 默茨与特朗普通电话，似有意修补关系 <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrLWFnQnJWc2RYNG9KeDlYNGM1SEduWUtNcTllTHp0WW8wajRQSUM4RzVoc2ZFVS1DcVJDZWNnZGdzRFBKakY5Z19VQXlSSm1lVWNHaEZPU2VWblBnZzR1Uw?oc=5>
+- **特朗普** | 特朗普结束访华：一次历史性标志性的访问 <https://news.google.com/rss/articles/CBMieEFVX3lxTFBzYnNsSEpUdXVJU2t0NU9zUzF5Yk5SNUdUN0JOMWFBMG5HWVVmazVvMXk3MHRRNGdfU1k0VFVHcGNsMlhYY0kyRHNMVlE1S1dxOEFILTM4V3BKQTVndFZETGU2bzRNc193RlBXWEY4U0JfWkVDRFhlUA?oc=5>
 
 ### 2026-05-15 17:59  (13 条)
 
