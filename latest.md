@@ -1,120 +1,78 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-16 07:56**
-- 本轮扫到 1287 条, 新增 **15** 条
+- 最近更新: **2026-05-16 09:27**
+- 本轮扫到 1294 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (15 条)
+## 本轮新发现 (7 条)
 
-### 蔡徐坤演唱会向粉丝鞠躬道歉！
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301bn5g.html>
-
-### 蔡徐坤新专辑 在外面听到deadman！KUN新专大爆！
+### 蔡徐坤新专辑实体专辑突然空降，这销量怎么样？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923551_m1d5ae175f03301jwk0.html>
+- 链接: <https://k.sina.com.cn/article_5665478463_p151b0573f027022jx2.html>
 
-### 周杰伦演唱会现梦幻联动，外国球迷替孙颖莎点歌:她是你的超级粉丝_新闻
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905jb04.html>
-
-### 新浪演唱会热点小时报丨2026年05月16日14时_今日实时演唱会热点速递
+### 新浪演唱会热点小时报丨2026年05月16日16时_今日实时演唱会热点速递
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905j5g0.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905jc1q.html>
 
-### 周杰伦温州演唱会被点孙颖莎最爱歌曲
+### 特朗普：“伊斯兰国”二号人物在尼日利亚被击毙
 
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923920_m1d5ae18d003301cvne.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: dw.com
+- 时间: 2026-05-16 08:55
+- 链接: <https://news.google.com/rss/articles/CBMirAJBVV95cUxQMGpObTVQUjYtVU9zRmtNamJXRkx0M29mTTJXWHVDX0pFc0tPUlJCMVNpNTh0WVFNOFpFYzdpMUZiUG1Ldkt3SjlJcTNfMWhEVE1IQWlJOFkwWVJJbEliNHBVd1plOWc3U3RsSkNUam1SR1NxVUNhV25vU2dCUk5HX0hDMjNneGphdEczQVlucGRrZjVZMHk4cjNxQkhzVVJtN29URGxOV1hVWXcwYWpVcmtvMkMxSllscTdKYmY1WDlqUkl0UmFlcXZtTmZkdTI3a1d6RVd1bzJxNGpOSTlWOHVVYWE0Z3J3aUFOU0ZGOEZSNEswVWlRZnQ5RUYwY25PaVVXRDVpYzA4bmtGTjJ5M3Mtb0t5ZS10aWFTaFo2c3l2cUNicXg4MjBxWkrSAawCQVVfeXFMT0NzdEk2RWIweHQyVXk1a01JcHQybU9TWkNEVVp4ZjE3X045SDZKWURZUjdSeU5GamJmcTFQQ3BDaGpjV05od3NRSmhkaWVZUUp4MklLT2kxLTg5U09KTDZORFhKMmlpRzlZTlQxTk1PdGhCV0o0cTRTNk00SU9fbndFbFl4LWRrSFVUV0lTcmRzVzdrVGdGYjdMN1pIUWhFUnhqNEVVWkd0THQ3QjZ6UXlzd21hVUNqbHJIUHhUdm9lNlY5ekNDeThFejNkNjQ4YnR2ZlVDaEQzUGFHY3FKT0tocVZuRG9RRjI0Q3I2WVJOY3QxNF9YRTk3TFFlMVdLb1h5dk95UkZGblVzeGZEZ1k4TmJyVGppajl2WWlQSDJ6TlZfNkVKYXRJM2VJ?oc=5>
 
-### 洋薯条在周杰伦演唱会点了孙颖莎最爱的歌！
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5257326592_m1395c7000033017zr0.html>
-
-### 周杰伦温州演唱会唱响《蜗牛》，4万歌迷共赴青春之约
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301bmx2.html>
-
-### 孙颖莎获球迷周杰伦演唱会点歌《我是如此相信》
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_3191360333_mbe384b4d05301wh2q.html>
-
-### 特朗普面临是否恢复对伊朗打击抉择，称接受暂停核计划20年
+### 特朗普披露清除“伊斯兰国”二号头目详情：在我指挥下，美军与尼日利亚武装部队执行任务，其藏身于非洲，线人全程掌握其动向
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-16 06:08
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5xUGs4bXFhZlpkYUpzS1NlZm1FV0xvNklqZVdCblVjUTB3bEFxTnJRYmNZbFhzbGlKMU1lZHBTRURSZjZPR25xTnpSMA?oc=5>
+- 时间: 2026-05-16 05:36
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTFAtVVkzaEFlMkRTRVNnOW1HdG1jalU2X3NSaW1md0hfVGtSa0plNDlyVWtEUXZleEVQbzcydndHQWxlRmlBNEhHTDdqYUs2M19oTUdXRDA3bmJJcG5NZXNndXA4SG9QbGlJVndLcHFrQTlOZDh3a3c?oc=5>
 
-### 中美各有所得，世界收获稳定
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪军事
-- 时间: 2026-05-16 05:59
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE80V20wYWlCdXo5TzYzQjgwUUtETl82Y0ZVWEpLOGs4U2JzM1lsRjUzVXRuUVhXa3ZNbGVpZnRwU3JrR2pHME5rRER0bWd0SkRqNlQzWGJ5cnFFMF8xUzlxcGFTbEo3TWRrOUwzVWtoQlhIQTA?oc=5>
-
-### 消费者起诉亚马逊：未退还特朗普关税费用|唐纳德·特朗普|美国大选|诉讼|成本|资金_手机新浪网
+### 特朗普儿子投了：Cerebras缔造今年最大IPO
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-16 06:21
-- 链接: <https://news.google.com/rss/articles/CBMingJBVV95cUxQMlFLRC0tMWhrSU1sZGpHMVBtcUJ2a0R4ZUZHc1o3SFdOQ3U3TzJKY3AzejNEZ0gtWUs2MXI4Vlhaam5TSjlxeEF1aE8zNlZtZGpGQnN4NVlxTDc2c09UMHdGNWJ5ZVVXSU1hVlFGd0t5SXVpNlZQamNMcWozeWxKTmFRN1h5VnpMQUxHQ2U5QnNWXzBQSkxBNnlIZG50eDdPUnB4a1NGdGxWRnNoTUI1cjJWRldBdVMtdzRWTTlmX3hTSUp6dXBCbm9LVV9FUkQ3cTB2eEExR09HMlpFYWFxWVg3OE5SLTc2eVZFVXM1OU9oRGFxOFltWmZYM05RaGV4NmZVSkc0VDAwdkNmYXNNX2ctNVg2YlpwbkxFVVlB?oc=5>
+- 场馆: 手机新浪网
+- 时间: 2026-05-16 08:18
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE1EMWlRTlZBMVFZX3JfVUFwb2Y1eVR6d3p6cERoR3V4RjNaelJvMU9Ha1hjclNaTk1TYmFOT09BWUdhTEFzeTIxa2V5UzRiN2VsUndtMHl5bnVtcWVHSlRBbzg0dHVOVDhBVXUySlUtR3loc0ht?oc=5>
 
-### 特朗普说“伊斯兰国”二号头目被“清除”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-05-16 03:42
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LQ0x1aEw3Z1JSUzJ5Mlc1STRqeGdwWmlZc3Y2MGtsQlFQeFRpbjh1YkNSSUJUemVKcElQSzUtNzdtbzZtVDdwR0d1aEczM0ZGNlZmZXBtZ1RhYVFuUDE0Rw?oc=5>
-
-### 中南海茶叙后特朗普登机结束访华– 普通话主页
+### 特朗普儿媳发布游览长城照
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Radio Free Asia
-- 时间: 2026-05-15 07:43
-- 链接: <https://news.google.com/rss/articles/CBMikgFBVV95cUxPNWJPUjJPQmswRFhWZGV0c1lXbjBTSjBRa3d2Um5UMzBoNUJnRW02NzZDbTFuTTlhMk1vMlliN01lZ1ozXzNXSDV4U3FCQmp0eWhwOG9lSi0wQ3VlYmpuRFNoOUtjS09KYlIyRWdCUXEtdFd5SDdocjJpcVBhMVFqQ2VVajhlX1JfUU1ORHVsXzNoZw?oc=5>
+- 场馆: video.sina.com.cn
+- 时间: 2026-05-16 09:26
+- 链接: <https://news.google.com/rss/articles/CBMi4AFBVV95cUxQS3JXdU84VFVYSmNpY1VHYzBqWUk4bGdfRDZRaDVPVTcyQjV1MUF2dVE4RG1KSF9pdGFibXduZlFZNndkQWJDcF9HN0psRXFTdkNZQlJUclNUYzh0X3ZZTmgyci1xRlp1a1NnaFl2WGNLRkF2S2JOaE9FcnpUZmhUMFJNeTFfbzhuOE90SnM2d2JsVGhEQVA4UHI0SlFFYUxmb1JPekQ1X3Y1R0EzMGZ6ekVjX25pWjdreWs0YUFNbENMeTZvTDFHVjg0cTdCMW1IbU01SDBoSUJXVmpYNFJBQQ?oc=5>
 
-### 特朗普访华：与习近平举行峰会数小时后，他告诫台湾不要宣布独立
+### 特朗普在空军一号受访，释放大量信号
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-05-16 03:00
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBOdmNJaFVicjEzRENWdTAxOTRyU21fQ2V5WmdtSWd6eUMzWEwxUDdlTlVzN1hQbk1GUlZVeVpiOTZ1STRTY3RFNGhKdURPQlFMVG9LVkRyRDZsYTRUbWQ1Wk1EZzlvQdIBa0FVX3lxTFB0NnBIS0RXdWoxN3hJblZ5YkJYNGcxaWh3VTA5Y09JTnIwbkJTX3lmbll1a0FhYUR4NEZmQTNqSFZNM0ZqMmZpODFiVHdOVXJwTng3U2g2U0JvSVBhcXVwb29sQUdSSzlOalRF?oc=5>
-
-### Trump spoke on China trip after arriving in Washington
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: news.tvb.com
-- 时间: 2026-05-16 05:03
-- 链接: <https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUk9jZTBaeEpLWEZKVE1qY1RYSnlUNlMxOVB1bkpxUlh6M0xhWE93bllBdE9XWDlLbDBoNzVVVFpkZkN3RDhET3hEd241YWxxR3htdG85bkVEdFUwc0g4NHFyQlFMcjRJQ2FTb2VBNzZFTXN3V1RQcGRBdVRCdlZUZDJnSnJUdzRSbXZvaWtaUVlYaHBGWG1udDN6d1htNVpDbUpYZ3k4ekY2Mnpfb3FPanVhR3RHNktCTlJWV1J6WG05dw?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-05-16 07:38
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9laG9ocll0OVlVWVlGbGpRNXRzWDU5WlVWMU1TNWk0WE9nd0FlZTQxc0VfaGtBaFp5RjA2MndwejJYVkwtNDhYeGZwMUs?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-16 09:27  (7 条)
+
+- **蔡徐坤** | 蔡徐坤新专辑实体专辑突然空降，这销量怎么样？ <https://k.sina.com.cn/article_5665478463_p151b0573f027022jx2.html>
+- **周杰伦** | 新浪演唱会热点小时报丨2026年05月16日16时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001905jc1q.html>
+- **特朗普** | 特朗普：“伊斯兰国”二号人物在尼日利亚被击毙 <https://news.google.com/rss/articles/CBMirAJBVV95cUxQMGpObTVQUjYtVU9zRmtNamJXRkx0M29mTTJXWHVDX0pFc0tPUlJCMVNpNTh0WVFNOFpFYzdpMUZiUG1Ldkt3SjlJcTNfMWhEVE1IQWlJOFkwWVJJbEliNHBVd1plOWc3U3RsSkNUam1SR1NxVUNhV25vU2dCUk5HX0hDMjNneGphdEczQVlucGRrZjVZMHk4cjNxQkhzVVJtN29URGxOV1hVWXcwYWpVcmtvMkMxSllscTdKYmY1WDlqUkl0UmFlcXZtTmZkdTI3a1d6RVd1bzJxNGpOSTlWOHVVYWE0Z3J3aUFOU0ZGOEZSNEswVWlRZnQ5RUYwY25PaVVXRDVpYzA4bmtGTjJ5M3Mtb0t5ZS10aWFTaFo2c3l2cUNicXg4MjBxWkrSAawCQVVfeXFMT0NzdEk2RWIweHQyVXk1a01JcHQybU9TWkNEVVp4ZjE3X045SDZKWURZUjdSeU5GamJmcTFQQ3BDaGpjV05od3NRSmhkaWVZUUp4MklLT2kxLTg5U09KTDZORFhKMmlpRzlZTlQxTk1PdGhCV0o0cTRTNk00SU9fbndFbFl4LWRrSFVUV0lTcmRzVzdrVGdGYjdMN1pIUWhFUnhqNEVVWkd0THQ3QjZ6UXlzd21hVUNqbHJIUHhUdm9lNlY5ekNDeThFejNkNjQ4YnR2ZlVDaEQzUGFHY3FKT0tocVZuRG9RRjI0Q3I2WVJOY3QxNF9YRTk3TFFlMVdLb1h5dk95UkZGblVzeGZEZ1k4TmJyVGppajl2WWlQSDJ6TlZfNkVKYXRJM2VJ?oc=5>
+- **特朗普** | 特朗普披露清除“伊斯兰国”二号头目详情：在我指挥下，美军与尼日利亚武装部队执行任务，其藏身于非洲，线人全程掌握其动向 <https://news.google.com/rss/articles/CBMidkFVX3lxTFAtVVkzaEFlMkRTRVNnOW1HdG1jalU2X3NSaW1md0hfVGtSa0plNDlyVWtEUXZleEVQbzcydndHQWxlRmlBNEhHTDdqYUs2M19oTUdXRDA3bmJJcG5NZXNndXA4SG9QbGlJVndLcHFrQTlOZDh3a3c?oc=5>
+- **特朗普** | 特朗普儿子投了：Cerebras缔造今年最大IPO <https://news.google.com/rss/articles/CBMidEFVX3lxTE1EMWlRTlZBMVFZX3JfVUFwb2Y1eVR6d3p6cERoR3V4RjNaelJvMU9Ha1hjclNaTk1TYmFOT09BWUdhTEFzeTIxa2V5UzRiN2VsUndtMHl5bnVtcWVHSlRBbzg0dHVOVDhBVXUySlUtR3loc0ht?oc=5>
+- **特朗普** | 特朗普儿媳发布游览长城照 <https://news.google.com/rss/articles/CBMi4AFBVV95cUxQS3JXdU84VFVYSmNpY1VHYzBqWUk4bGdfRDZRaDVPVTcyQjV1MUF2dVE4RG1KSF9pdGFibXduZlFZNndkQWJDcF9HN0psRXFTdkNZQlJUclNUYzh0X3ZZTmgyci1xRlp1a1NnaFl2WGNLRkF2S2JOaE9FcnpUZmhUMFJNeTFfbzhuOE90SnM2d2JsVGhEQVA4UHI0SlFFYUxmb1JPekQ1X3Y1R0EzMGZ6ekVjX25pWjdreWs0YUFNbENMeTZvTDFHVjg0cTdCMW1IbU01SDBoSUJXVmpYNFJBQQ?oc=5>
+- **特朗普** | 特朗普在空军一号受访，释放大量信号 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9laG9ocll0OVlVWVlGbGpRNXRzWDU5WlVWMU1TNWk0WE9nd0FlZTQxc0VfaGtBaFp5RjA2MndwejJYVkwtNDhYeGZwMUs?oc=5>
 
 ### 2026-05-16 07:56  (15 条)
 
