@@ -1,46 +1,62 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-16 15:53**
-- 本轮扫到 1324 条, 新增 **4** 条
+- 最近更新: **2026-05-16 16:53**
+- 本轮扫到 1329 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (5 条)
 
-### 合肥歌迷温州点歌周杰伦演唱会合唱《轨迹》
+### 外国球迷帮孙颖莎在周杰伦演唱会点歌
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_3072036264_mb71b8da803301j432.html>
+- 链接: <https://k.sina.com.cn/article_2992050891_mb25712cb05301rnco.html>
+
+### 白宫发言人：特朗普总统手握所有可行应对方案，但他更倾向于选择外交途径解决问题。
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-16 16:11
+- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE1IWmpZN3d3Q1pjOV90ck95QU9hS2syREVIVy1qTzJKYUVKUXRyYlprbk5GVUJKTFJLcXlwWE9PZGE5Y1IwMUdfdmhmVUNjSjA?oc=5>
 
 ### 特朗普返程飞机上与高市早苗通话
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-16 14:39
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFA0d2xIWjFlYzZ5Vkt0c0hJZlJEdjZtT0RoMG9VSWl2NXE1UkVHRHdkcExMVHpNQmRqTHZqSDczZjBYU2JzbmVraUo3Rjk3YVJ5Ymx2eUNIam82aGtzNFU0ZTN2c0lEVVI3RE9xcVozMTI2U0MxTG9WNQ?oc=5>
+- 时间: 2026-05-16 15:29
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9LS2U0aU9LSzd6M3dwdWxqUlljaTZzTFFaUzRPOUs1UXpGZUZmRGxXaTUxeDJGXzFiYkM5Y1VZT2Q1NExjR2lnamJwX3RjMzd5YjR4TWM1cWJteld5Z1pLNWt3ZGdLdnUtWEZPVmpWekhCRFY5OXF2SQ?oc=5>
 
-### 特朗普政府考虑设立17亿美元基金，用于调查拜登执政期间被调查的盟友
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-16 15:48
-- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE00N0ZiY2Z5MGlJQXlBMElVUjh0eWV2MnhBYWl5NGRJM19OUzlibTRQd3U5eGo4YXVJZUtwd1V0cTFTSHJnV3IzN1lPWGRHREE?oc=5>
-
-### 国际媒体如何看特朗普北京之行
+### 特朗普发出警告后 台湾呼吁美国履行对台军售承诺
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: DW.com
-- 时间: 2026-05-16 05:19
-- 链接: <https://news.google.com/rss/articles/CBMi8AFBVV95cUxQeWEzc0E1QkUwNGV6RGdSSWc0b1o0Y1lpUEZhQURGaGpPUHB0RkJ1bnlXLVk2QVNIX2F6aGZYWEJzdXdRdkhzRURRNjZqYXhKZHEyN040cTVPbk1aQThlYjZ4cU9MaFdoWXdQMUFidmFkdW1rMlFFa2tLd0YwYU9TLVYwamI4cmZYcG51eWpSUVdHdTBfTEV6d0N5UmpuOVNXcGNHYXBlYjZ1YjgzWFlzVGpoc1JmRVJlU3BVSDdTV01pR1VHbF9mUGVKYnBqdFc1WG83ZmhERlktUGdsMy1LY2VrMnVVWlhxdlE0RG0tcjHSAfABQVVfeXFMUGtqTGJOemtwSHcwT2xtc2hOaVJtUjhza0V0RmlCSmpPdXQ1NzFRazRMcGdkMENRTkk3OFMzamtTZ0hjMm1pZ0V6LU52Q2NmdlJTNWVraGFTeXRoMXdwLTlWdTlqSTdHdTA5bi12LWZfUUQzdVBaZlAyNC1RY0FqRjN0ODBNVkhYVGRsVXRXYy1OVUFVOGpNWkJnNWZlQmlfRnN1c18zR2hZRHNXTzN2QVF3bnJpLXNBNHdwOUhFWDFzdVB3SkJ2dFZ1WjJoTmpXN2ZIVi1rOWI4LVl6eUhwb2FnVXAtaWtmX0NES3V6RlBs?oc=5>
+- 场馆: RFI
+- 时间: 2026-05-16 15:59
+- 链接: <https://news.google.com/rss/articles/CBMi6AJBVV95cUxPVlk5eWZEWmFPR2pXQkNfZU9FcHpnai1ic25xamk3VDhtazM5ckVIYnU4dUtoaTYwNHN6NzVjSjhzdHBuNEdMWGtLa042RXdRRUFmdE1yZXhUd2dxTGxPbVJwQUhoVUozZWFVVUhzc08xVWxXWElZNkVaX3VjOG9uUnBydnhyalJGYkg3RXEwU0JuT0FLU0tEeVA4VkJ1eTdDejZxZk5EUXZRRUxleVp6YlBNV05Calh6eGxjSHozVWxoa3BsUXFoMFVLSGVfTWprdGF2RHlqQkxpcnJrLWJXVzFGUWk4Q0kwRG1zOFk5VHJ3TXJsTWNuYV9CdDhpTkFyOEFWQTRibFU3NFphZWJPYlB4TWM1WjdUbEM2TF92T05Jamdvb3NnZzV4LTQ1YVBSYmx5VmlCMXQ3ZDJLWTEzazNHbnBQX0FJLVFFbFNrSkhKeU5pZ05ydnBuTzZySzNxQXcxcHFqUGs?oc=5>
+
+### 习近平同美国总统特朗普参观天坛
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 人民日报
+- 时间: 2026-05-14 22:09
+- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxPdGpUVkNTY2N5eGE5VlVsZjY5a3IzSThsUEdoNzlGc2RVQnh5MDFDNFJTQWJpSGFXQTVYLUJoQkhIQjVSVi13M1ItMUt2bWZEbkhEay1qal9mUVI4cnVpdDZjdG11UWJMb3A2Nm44NEFCVnRHWDdtN3p0cUI4NFhvTw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-16 16:53  (5 条)
+
+- **周杰伦** | 外国球迷帮孙颖莎在周杰伦演唱会点歌 <https://k.sina.com.cn/article_2992050891_mb25712cb05301rnco.html>
+- **特朗普** | 白宫发言人：特朗普总统手握所有可行应对方案，但他更倾向于选择外交途径解决问题。 <https://news.google.com/rss/articles/CBMiT0FVX3lxTE1IWmpZN3d3Q1pjOV90ck95QU9hS2syREVIVy1qTzJKYUVKUXRyYlprbk5GVUJKTFJLcXlwWE9PZGE5Y1IwMUdfdmhmVUNjSjA?oc=5>
+- **特朗普** | 特朗普返程飞机上与高市早苗通话 <https://news.google.com/rss/articles/CBMieEFVX3lxTE9LS2U0aU9LSzd6M3dwdWxqUlljaTZzTFFaUzRPOUs1UXpGZUZmRGxXaTUxeDJGXzFiYkM5Y1VZT2Q1NExjR2lnamJwX3RjMzd5YjR4TWM1cWJteld5Z1pLNWt3ZGdLdnUtWEZPVmpWekhCRFY5OXF2SQ?oc=5>
+- **特朗普** | 特朗普发出警告后 台湾呼吁美国履行对台军售承诺 <https://news.google.com/rss/articles/CBMi6AJBVV95cUxPVlk5eWZEWmFPR2pXQkNfZU9FcHpnai1ic25xamk3VDhtazM5ckVIYnU4dUtoaTYwNHN6NzVjSjhzdHBuNEdMWGtLa042RXdRRUFmdE1yZXhUd2dxTGxPbVJwQUhoVUozZWFVVUhzc08xVWxXWElZNkVaX3VjOG9uUnBydnhyalJGYkg3RXEwU0JuT0FLU0tEeVA4VkJ1eTdDejZxZk5EUXZRRUxleVp6YlBNV05Calh6eGxjSHozVWxoa3BsUXFoMFVLSGVfTWprdGF2RHlqQkxpcnJrLWJXVzFGUWk4Q0kwRG1zOFk5VHJ3TXJsTWNuYV9CdDhpTkFyOEFWQTRibFU3NFphZWJPYlB4TWM1WjdUbEM2TF92T05Jamdvb3NnZzV4LTQ1YVBSYmx5VmlCMXQ3ZDJLWTEzazNHbnBQX0FJLVFFbFNrSkhKeU5pZ05ydnBuTzZySzNxQXcxcHFqUGs?oc=5>
+- **特朗普** | 习近平同美国总统特朗普参观天坛 <https://news.google.com/rss/articles/CBMigAFBVV95cUxPdGpUVkNTY2N5eGE5VlVsZjY5a3IzSThsUEdoNzlGc2RVQnh5MDFDNFJTQWJpSGFXQTVYLUJoQkhIQjVSVi13M1ItMUt2bWZEbkhEay1qal9mUVI4cnVpdDZjdG11UWJMb3A2Nm44NEFCVnRHWDdtN3p0cUI4NFhvTw?oc=5>
 
 ### 2026-05-16 15:53  (4 条)
 
