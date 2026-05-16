@@ -1,46 +1,101 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-16 13:09**
-- 本轮扫到 1310 条, 新增 **4** 条
+- 最近更新: **2026-05-16 14:38**
+- 本轮扫到 1320 条, 新增 **10** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (10 条)
 
-### 蔡徐坤的新专辑《KUN》实体版售价和配置具体是怎样的？
+### [流言板]孙颖莎球迷现身周杰伦演唱会,为孙颖莎点歌《我是如此相信》
 
-- 艺人/关键词: **蔡徐坤**
+- 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801kslo.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905jo7u.html>
 
-### 特朗普警告台湾不要试图走向“独立” 强调美国政策未变
+### 球迷帮孙颖莎在周杰伦演唱会点歌
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905jnva.html>
+
+### 残疾人去看周杰伦演唱会，却被网友给网暴了！ 周杰伦 娱乐评论大赏
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301bn6e.html>
+
+### 错开人流！周杰伦温州演唱会散场方式速看~
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://finance.sina.com.cn/wm/2026-05-16/doc-inhycchc2445670.shtml>
+
+### 特朗普宣布：ISIS全球二号人物米努基在美尼联合行动中被击毙
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-05-16 12:42
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBKeVpoOERXdng5NzBUZlRiQ1RfaVJ1TGVTa2ZCM3J4b01YN0t4c1JXSDhHMElwaUdZRE5JbjVPOW5zZWNCdFJGWUNnaGFJbFA5Rm45a3NYSHpRWE5XR3hZR0NHYWg4TkpVcnhsSHRSQzU?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-05-16 14:33
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBlRFNIdHdTR1NZbWxPZFNMdGlQd2JNS3lVVVU5ZWdzZ1Y0SFdQVnVseHAzenRwcUdqVF9aWkxEVFVHS0RmMHl3bGdpSQ?oc=5>
 
-### 特朗普回国后谈中国之行：“巨大成功，非常精彩”
+### 这些企业家为何随特朗普访华
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-16 13:04
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFBKNEVzSy1qZDNjbkhiZjExSFhiMmhFakxZSXYyeU0tUnVHODl1dU1IV0VtV2s3c2g4SzVMelhGS0lxQmY4NzRZNnZMeHltYmNqaHQ2ZUY2MjgxRGExMHpsSzFMWE04bnZtOFp0Z3RVaDlJQQ?oc=5>
+- 场馆: 中国日报网
+- 时间: 2026-05-16 13:20
+- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTFA2cE1zRlFNNDMtbjhwWEVpb1I1U0hPdlhGTGMzdW00WVVQY3Z6aElrUnZKTFI0LWlyckd6ZFc1cGpUVU1TMWtobUJtdFotRnVMRVNMVHo0Uzg2NWQ0ZF9MWUExZHhwbGh0cEp2eFprQk1fbUxqS0ZqTTBTYmU?oc=5>
 
-### $高通 (QCOM.US)$ trump都买了，没理由不买[让我看看]
+### 特朗普就涉台问题表态 明言反对“台独”引起战争
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-05-16 12:14
-- 链接: <https://news.google.com/rss/articles/CBMisAFBVV95cUxQTHFJeXBXWnJJakJzRXZnVWFRN3FQbVN0TEhDMHpsbmlGOVM4QlZLSFRhTHNobGFxQmNlODNZQmUxaGphb0NQX1cwVmdiV0JlRFlnTWRzRjFhN0ZIbGN1RXliVEJ2WDRVY1E5VFYyTWdjaUYxWFlwU2xLN0VjQV9TcjNWZnlnU3RISUpPQVIyMFdSNFgtLVRnaVRzOUluejlXMDgtLXhqcjZiYlVaOUgwLQ?oc=5>
+- 场馆: Caixin
+- 时间: 2026-05-16 07:30
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5qSHVBcWdyYkJ0WFpaOUZ4VmNWY1ktczVBazdpVmZpM203dTJkM1o2UmRtZkNqdVJLMkg5Vk5yU0paLTJYRnVRZUdMV3JQekR5Q2dic2dMemFjSGZ6b1FZVTl2ekRMYi1yREE?oc=5>
+
+### 美国总统特朗普结束访华离京
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-05-15 06:58
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1QeTVReWFtX1JlTjhxRzJIYVEtbThQamNMaVZ3bWJRNjY1UkNoWjk1WUhjdl9UTUs2aUItT0lEaVM2d3RLOUFwV0M4RFZ0ZnI0NmFib1VoaThSNFVUQjY5c3VDMXBBZG1jbGV5d3lrQTg?oc=5>
+
+### 特朗普访华落幕：美中各取所需，台湾、关税等未解之事走向何方？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: BBC
+- 时间: 2026-05-16 10:15
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5HekxuS3BVQ1lHNWJlczZxUzVxUkx3S1AtNV83bTZfUmdmcU8xb2RVbkhjendoc2xHZVJENnluNmVVX0NFUUdBZHpvYWVMY2w5TF9OMFc3cnFfQVBvVm1lUTd0VWpDUdIBa0FVX3lxTE1oYjRvSVpIeW5KelFFYUU2WkZneUZna2VsekVUaFE1UDM3eXh0NDFaZnhiWUt6R016TVVkMXJkb284dEpKY08xMkdsWmZ6TnJyRWZ5R3FkaTBnODVadHhRcFFVRnJIYzZiQWw4?oc=5>
+
+### 特朗普:“不希望看到台湾走向独立” 台湾:“中华民国主权独立”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: DW.com
+- 时间: 2026-05-16 13:17
+- 链接: <https://news.google.com/rss/articles/CBMi6gJBVV95cUxOZnVqdk1ENU1PcGlWYkk0N1cxaHBiWEoxckl3bFJUbEhBSnB5Z2F1YktpcXFjOEhSd1dRakc4TG9QNHJlNHNMejNRWl82WjlpUERaZGJLOUhZUkxINEYxb0RHc1dEV1ZnY2FVNnhyNEJtRlRwMmlveHRnNU1ZTXlQeEZIa0poRl8xYWRhcmxUSU9lV2U2T3RNUzM0MUJnSFRXTXZ2cUgyNWtuRU52VDFGWkRsUUQ5TF9sckpzMzlGd2d3Y1EyZ2hmZ3psX0dvNUlKSzlpbDMtdmt0U1VsNXJpRUtkMU1zbWRjc2V1cUZGTmdiVGF4WkI3cWxra3JyTlZ5TGNISTE3Q0sxWFR1eVpyS0lNWEhMUUV4aDRKcm0ydEVlN0ZWSFJDN3RrMWw5YkpOMGFsUGdNaXNfanpJUmRSMjhxUjB4Wlg0Mm9kYlEwU1FoMWYyNW90S3hOdm9jUnZhOUxucUNpTi1DZ9IB6gJBVV95cUxOeTFfSUVyZEY5YXFTSkFlOVRTVTZwb3ZiRWx1WDBPSzRNaHRHUUVoT3ExaVFtaDBGY2dFd3pkU2lmR2hmdHRyOUtlYldqS3lwZUlmRnFiQzBTc0pQYnFQVHVnM0IwQ3hpYjhCZGNLX1lkelVUSVVUT3JKSWxicHFobHRISDZ2YnZzWU9Scm00dDdHb0JaQ0t5TXlQNVhCeWRmNU9ZaEtvNFdqRGhzRFRlNVJPbDh6cjJlb25uaU9QRGtIVmZ1SXZMSGthbzk5emFBUEVfQktkSEVPb2hyUmNEYkZYMFU2dFhvekNBTXlUZ1huZFFKOHg0ZHUtZGV2d2toNWQ1cjdBN1NteDNEbkVyVXhIMEVtQk5VcVdxazFkNkpZY2Ruc0EySVF4TDBvN25yQWw2WFF3VS1RRjY1X1J1XzVlQnFOTklpamdKUmhPQnpmU0JBZVlkd1F3V0hQTlZxbm5UaEZKaEh0QQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-16 14:38  (10 条)
+
+- **周杰伦** | [流言板]孙颖莎球迷现身周杰伦演唱会,为孙颖莎点歌《我是如此相信》 <https://k.sina.com.cn/article_7857201856_1d45362c001905jo7u.html>
+- **周杰伦** | 球迷帮孙颖莎在周杰伦演唱会点歌 <https://k.sina.com.cn/article_7857201856_1d45362c001905jnva.html>
+- **周杰伦** | 残疾人去看周杰伦演唱会，却被网友给网暴了！ 周杰伦 娱乐评论大赏 <https://k.sina.com.cn/article_7879924009_m1d5ae192903301bn6e.html>
+- **周杰伦** | 错开人流！周杰伦温州演唱会散场方式速看~ <https://finance.sina.com.cn/wm/2026-05-16/doc-inhycchc2445670.shtml>
+- **特朗普** | 特朗普宣布：ISIS全球二号人物米努基在美尼联合行动中被击毙 <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBlRFNIdHdTR1NZbWxPZFNMdGlQd2JNS3lVVVU5ZWdzZ1Y0SFdQVnVseHAzenRwcUdqVF9aWkxEVFVHS0RmMHl3bGdpSQ?oc=5>
+- **特朗普** | 这些企业家为何随特朗普访华 <https://news.google.com/rss/articles/CBMifEFVX3lxTFA2cE1zRlFNNDMtbjhwWEVpb1I1U0hPdlhGTGMzdW00WVVQY3Z6aElrUnZKTFI0LWlyckd6ZFc1cGpUVU1TMWtobUJtdFotRnVMRVNMVHo0Uzg2NWQ0ZF9MWUExZHhwbGh0cEp2eFprQk1fbUxqS0ZqTTBTYmU?oc=5>
+- **特朗普** | 特朗普就涉台问题表态 明言反对“台独”引起战争 <https://news.google.com/rss/articles/CBMiakFVX3lxTE5qSHVBcWdyYkJ0WFpaOUZ4VmNWY1ktczVBazdpVmZpM203dTJkM1o2UmRtZkNqdVJLMkg5Vk5yU0paLTJYRnVRZUdMV3JQekR5Q2dic2dMemFjSGZ6b1FZVTl2ekRMYi1yREE?oc=5>
+- **特朗普** | 美国总统特朗普结束访华离京 <https://news.google.com/rss/articles/CBMicEFVX3lxTE1QeTVReWFtX1JlTjhxRzJIYVEtbThQamNMaVZ3bWJRNjY1UkNoWjk1WUhjdl9UTUs2aUItT0lEaVM2d3RLOUFwV0M4RFZ0ZnI0NmFib1VoaThSNFVUQjY5c3VDMXBBZG1jbGV5d3lrQTg?oc=5>
+- **特朗普** | 特朗普访华落幕：美中各取所需，台湾、关税等未解之事走向何方？ <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5HekxuS3BVQ1lHNWJlczZxUzVxUkx3S1AtNV83bTZfUmdmcU8xb2RVbkhjendoc2xHZVJENnluNmVVX0NFUUdBZHpvYWVMY2w5TF9OMFc3cnFfQVBvVm1lUTd0VWpDUdIBa0FVX3lxTE1oYjRvSVpIeW5KelFFYUU2WkZneUZna2VsekVUaFE1UDM3eXh0NDFaZnhiWUt6R016TVVkMXJkb284dEpKY08xMkdsWmZ6TnJyRWZ5R3FkaTBnODVadHhRcFFVRnJIYzZiQWw4?oc=5>
+- **特朗普** | 特朗普:“不希望看到台湾走向独立” 台湾:“中华民国主权独立” <https://news.google.com/rss/articles/CBMi6gJBVV95cUxOZnVqdk1ENU1PcGlWYkk0N1cxaHBiWEoxckl3bFJUbEhBSnB5Z2F1YktpcXFjOEhSd1dRakc4TG9QNHJlNHNMejNRWl82WjlpUERaZGJLOUhZUkxINEYxb0RHc1dEV1ZnY2FVNnhyNEJtRlRwMmlveHRnNU1ZTXlQeEZIa0poRl8xYWRhcmxUSU9lV2U2T3RNUzM0MUJnSFRXTXZ2cUgyNWtuRU52VDFGWkRsUUQ5TF9sckpzMzlGd2d3Y1EyZ2hmZ3psX0dvNUlKSzlpbDMtdmt0U1VsNXJpRUtkMU1zbWRjc2V1cUZGTmdiVGF4WkI3cWxra3JyTlZ5TGNISTE3Q0sxWFR1eVpyS0lNWEhMUUV4aDRKcm0ydEVlN0ZWSFJDN3RrMWw5YkpOMGFsUGdNaXNfanpJUmRSMjhxUjB4Wlg0Mm9kYlEwU1FoMWYyNW90S3hOdm9jUnZhOUxucUNpTi1DZ9IB6gJBVV95cUxOeTFfSUVyZEY5YXFTSkFlOVRTVTZwb3ZiRWx1WDBPSzRNaHRHUUVoT3ExaVFtaDBGY2dFd3pkU2lmR2hmdHRyOUtlYldqS3lwZUlmRnFiQzBTc0pQYnFQVHVnM0IwQ3hpYjhCZGNLX1lkelVUSVVUT3JKSWxicHFobHRISDZ2YnZzWU9Scm00dDdHb0JaQ0t5TXlQNVhCeWRmNU9ZaEtvNFdqRGhzRFRlNVJPbDh6cjJlb25uaU9QRGtIVmZ1SXZMSGthbzk5emFBUEVfQktkSEVPb2hyUmNEYkZYMFU2dFhvekNBTXlUZ1huZFFKOHg0ZHUtZGV2d2toNWQ1cjdBN1NteDNEbkVyVXhIMEVtQk5VcVdxazFkNkpZY2Ruc0EySVF4TDBvN25yQWw2WFF3VS1RRjY1X1J1XzVlQnFOTklpamdKUmhPQnpmU0JBZVlkd1F3V0hQTlZxbm5UaEZKaEh0QQ?oc=5>
 
 ### 2026-05-16 13:09  (4 条)
 
