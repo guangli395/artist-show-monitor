@@ -1,138 +1,179 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-16 02:27**
-- 本轮扫到 1252 条, 新增 **18** 条
+- 最近更新: **2026-05-16 05:40**
+- 本轮扫到 1272 条, 新增 **20** 条
 
 ---
 
-## 本轮新发现 (18 条)
+## 本轮新发现 (20 条)
 
 ### 韩红基金会发布！去年收入近7.83亿元，支出2.92亿元，易烊千玺、王一博等明星艺人捐赠金额披露
 
 - 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://finance.sina.com.cn/wm/2026-05-16/doc-inhxzzuv4718084.shtml>
+- 链接: <https://finance.sina.com.cn/wm/2026-05-16/doc-inhyahap2765747.shtml>
 
-### 周杰伦演唱会现最暖点歌：外国球迷高举孙颖莎照片，为她点播《我是如此相信》
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879995911_1d5af320706801vy6w.html>
-
-### 孙颖莎的偶像圆梦时刻！外国铁粉在周杰伦万人演唱会替她要签名
+### 周杰伦演唱会点歌环节外国歌迷多次获选引热议
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801kq40.html>
+- 链接: <https://k.sina.com.cn/article_7879924004_m1d5ae192403301z16i.html>
 
-### 新浪演唱会热点小时报丨2026年05月16日10时_今日实时演唱会热点速递
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905ivt8.html>
-
-### 周杰伦演唱会上球迷为孙颖莎点歌
+### 周杰伦温州演唱会，酒店涨疯了！
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7096020439_v1a6f4add706801qxui.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905ixuq.html>
 
-### 新浪演唱会热点小时报丨2026年05月16日09时_今日实时演唱会热点速递
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905iv3e.html>
-
-### 周杰伦演唱会上外籍球迷举孙颖莎照片点歌
+### 球迷帮孙颖莎在周杰伦演唱会点歌
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7096020439_1a6f4add706801qxsw.html>
+- 链接: <https://k.sina.com.cn/article_1789681642_m6aac5fea03305ixiy.html>
 
-### 新浪演唱会热点小时报丨2026年05月16日08时_今日实时演唱会热点速递
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905iu88.html>
-
-### 外籍球迷周杰伦演唱会上为孙颖莎点播战歌
+### 孙颖莎球迷在周杰伦演唱会领唱
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7095179045_1a6e7d72506801jw7e.html>
+- 链接: <https://k.sina.com.cn/article_2992050891_mb25712cb05301rmnu.html>
 
-### 周杰伦演唱会上外籍球迷为孙颖莎点歌
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7096020439_1a6f4add706801qxnq.html>
-
-### 周杰伦张惠妹等众星送花篮贺孙燕姿台北演唱会
+### 外籍球迷周杰伦演唱会上举孙颖莎照片点歌：“我想为世界第一点战歌”
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2653906910_9e2f67de040020ze4.html>
+- 链接: <https://k.sina.com.cn/article_7879995911_1d5af320706801vyg2.html>
 
-### 油价大涨！特朗普在“空军一号”上发声：本不赞成同伊朗停火
+### 新浪演唱会热点小时报丨2026年05月16日11时_今日实时演唱会热点速递
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经新闻
-- 时间: 2026-05-16 00:04
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE1EVmJEV3RVUGZoem9hTzlxUWRvdzRTQXdpS3BRaHc5cHpFV1MwWXdnbndoVTBtN1BucG9BWXlpM1gzT2c2UmRNbjNCcEdaN3RYQTNkNmpvaEZ4M3JtTWgxV0NjSWhLZ2lBZHJfb0h4VkJwTDl1TFE?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905iwvi.html>
 
-### 消费者起诉亚马逊：未退还特朗普关税费用|唐纳德·特朗普|美国大选|诉讼|成本|资金_手机新浪网
+### 梦幻联动！外国球迷周杰伦演唱会点歌，提到孙颖莎，偶像的最爱
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-16 02:03
-- 链接: <https://news.google.com/rss/articles/CBMiqgJBVV95cUxOcmNyOF9BNnlWZTR3YVk2dHBnb1N1cl94a2FDZjBwTV9rN28tOFB3VlpXNmUwUDZxQjZGNXN3dGdzRmx5VW9lV0ZqTm94OGJhU1NlRDJYMVBmRHlYVl9TZ2RWMWgzT1Z2QmRDSHlrWFBMcERLQ1Bmeld5UHRwenpsOHFXeWttcy04b0xyV3lqY3ZIbFF6X184eDNHay12WDVxUkx4TWZfUEY1aXlPY3E2ZzJ1LWJpTGN4eWlNY09vVFRPRTZ3VHRUWm45R2J4bDF2RmJDeHpjaloxV0thVHFSYUJxc0N3YjA5ZDBzU1h1UmstOW16ekJabGY2Y1RBbjNLNmpTUUU5bHR3OTZGbkg4UDlPYy14OU14RWF2M09kQUo1RUxXZDJwZWFn?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1356168525_m50d57d4d00101l2gs.html>
 
-### 特朗普在中国破例喝酒了？白宫回应
+### 周杰伦演唱会上外籍球迷为孙颖莎点播歌曲
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7096020439_1a6f4add706801qxmi.html>
+
+### 外籍球迷周杰伦演唱会举孙颖莎照片点歌
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7095179041_1a6e7d72106801t2ri.html>
+
+### 特朗普：“伊斯兰国”二号头目被“清除”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-05-15 22:45
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9iNlJ6dUZxWXBwV2RIOHFqek9MdWRHaGRrVGc2eTR1NVJHb3dWWUlFc0VkRjdiX2tobHR1Y3FZY29YYkxzejV4NTdoZFA?oc=5>
+- 时间: 2026-05-16 03:51
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1oZENFT1hISVlEUWdTYS1hU19mam56dlNxMTdDTUtyNXhWUTZHU0NvWDdUcDdvazVyemhOYUxtSzNTeTA0OU4xRVFqMk8?oc=5>
 
-### 外交部发言人就美国总统特朗普访华情况答记者问
+### 特朗普称“伊斯兰国”二号头目被“清除”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 央视网
+- 时间: 2026-05-16 03:49
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBzYUVUZWdTR1hzOV9jazhuY1d6V2pfMUQ5NVh3S3NObVFlOG1jblFIYXdqVVJmNEpQeEMxdU0wcG5Ua3R4ckgxRGN5RUhpcDA2dDFvZ2U2cjRyRHNCVHpkUzdiWFRhbWM0bGhiZnhxcUVmQ21RblhENw?oc=5>
+
+### 特朗普宣布“清除”的“伊斯兰国”二号头目是谁？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-16 04:28
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE0wMC1LYWVMYW9HLXNxRHdKdlNpMF9KNkMzZTFxQXZvTkppSXRyTThKX1VMbUE5Unp5WkNSOUxyS3pHNXFoVnBDYVNZdw?oc=5>
+
+### 特朗普面临是否恢复对伊朗打击抉择，称接受暂停核计划20年
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-16 03:52
+- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE5GbVVKSWFaTk5kQ252WWQ3Um9aQTk4RWY0cmRpdENGbjVDQmhBN2ZhM0ZIWHRmNFhyWDc4Sk55aWRTNlNNRWcybHpLU2RFY2c?oc=5>
+
+### 特朗普面临是否恢复对伊朗打击抉择，称接受暂停核计划20年
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: thepaper.cn
-- 时间: 2026-05-15 02:46
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5IbnFtTUpqZE1mdGhmRlphTFduaEUzS0pqaDlHRkdlaGtYUG9ock1WUFA2QWxvV1FuZ1E4QUdNYVhLNGRnamU5akhrVy0ybGt5TmZmSy1FaTFQZ2Q4cWl3OA?oc=5>
+- 时间: 2026-05-16 03:46
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9hY0pGbnlqVE1vUk1PNGpXMmtHeXJ6YjFSVG9KUzhUN1NKLXliZGJLUDYtYW5hZXo2RGFLOVZDUlktMnpVNW83OXkyVmZ3b1QxUTRKMEV6YWZzTHpvSGt4Qw?oc=5>
 
-### 特朗普称美伊停火系“应其他国家要求”
+### 特朗普返回白宫，再谈中国之行
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-05-15 22:15
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5iN0ExZXRuWTNpR3VFQ1pNRWxMZVNRVWMwVERZTUNpWUd4U09fOEh3S1UtS1VoNVVjWFZuc1FWVng4V1dXY05xVVVPdDUzc0o2SXJwMjl1NEJnd2M5S0tISF8wNG9qZ2RD?oc=5>
+- 场馆: xw.qq.com
+- 时间: 2026-05-16 01:29
+- 链接: <https://news.google.com/rss/articles/CBMiV0FVX3lxTE9fc2hBSUNoRXNOUXlPSkhSc0lWOEM5Z09pazVmc3NOM1hVRXlIc3hJZmdXbEdDTENNUmdUMHg1dHJ6ZDhmQ2NNMVJ5QTBQNVAzQ282Rnp6bw?oc=5>
 
-### 习近平对特朗普明确表示：台湾问题是中美关系重中之重
+### 默茨：与特朗普进行了“愉快的交谈”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪军事_手机新浪网
+- 时间: 2026-05-16 00:06
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE9KZ24wd2dOdFdHYWZnY0QyZ1pSZDVGdVhNYk9MeEJzcTFyVXFEZ3Y5SHpEbkNqelBESHhmNjlDaERtWnAxdGo1eXhWZ2ExUk5CMHdSMGlZVE96LVhjaDZLbTI5Y3VvMmdHZzI0RVRjX0NneWc?oc=5>
+
+### 最新披露文件显示：特朗普2026年第一季度大举买入科技股
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-15 22:10
+- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxNaDlvZzVoOHU1QTJpX1NYSDJMNHl4TGdWRTZ6anRWSEZuUC1qcFlmVm9sc2VrMEdWNDRDNGgxbENUc2xqS3dRRXRkQlZVVHBrMndlQzhPNFcyY2tSN1AtajNnRTJvNHB4S21IcEZ5ajh5WmNUcnJPR2h2bEhxNFFwcEJWdlZjTnlCREE?oc=5>
+
+### 特朗普，买入英伟达、苹果、英特尔
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-05-16 02:03
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTFBkLWZQZk5EZnRJUVZMVjhqbEZNcWVsTXNTZ04xYmplSTVtVzZsd3FYRGRtLUFuMFNINVpRNmtCdmd1NWFWZmpndw?oc=5>
+
+### Trump spoke on China trip after arriving in Washington
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-05-15 02:00
-- 链接: <https://news.google.com/rss/articles/CBMid0FVX3lxTE00a3JjTUpvcUpOS2s5RDRVbjZDU1JRck91SXBTVEhxMi1HcEcyMFl1aUpUUi1qZ01ualpLamM4ZTJldUZhdWhxbHI1REM2Tk9vMXQybnVqcFNXSEEzT2lPQmE2MEU5N3pqWlJzMjk5Q184bWRTalJB?oc=5>
-
-### Trump在Truth Social赞扬Palantir前已买入其股份
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: AASTOCKS.com
-- 时间: 2026-05-15 23:14
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE9JTENZOEZpbk9uaS1tMlBVU25Mel9HSnBqT3VhdTd5LXE5Nm5sTkYwTjNDZEVhOGJJTnFmNWNDcUk3TV93QTVIcm53TmJvWGlLZ2JlNUJsSFR5VEp6X0lhNFdNRGV5eEZ4M1BoZERLVQ?oc=5>
+- 场馆: news.tvb.com
+- 时间: 2026-05-16 05:03
+- 链接: <https://news.google.com/rss/articles/CBMivwFBVV95cUxPSnk0SWFhaU5Ib0NrdE9QZWV5c3dycFNMY0tNRjlIU2FWRVh2bElGY1FZZElucmFYOTdWTUFKOGJvaXVsaHUxZmFFRnFlX3RNNV93WW9vZjBIMjZpa0tjTmJXUkhkU0dNa1RYS1F6UEo2RTVuZ0JRWFByejZ2TUhSQV8wblVPaDV3UW9lNHgzaG1Jd0Rra1dleERmRUJ6VlV5V1ZDTjNrZFduMDJnSFktR2EybkkzZExXNTVfd0gzZw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-16 05:40  (20 条)
+
+- **王一博** | 韩红基金会发布！去年收入近7.83亿元，支出2.92亿元，易烊千玺、王一博等明星艺人捐赠金额披露 <https://finance.sina.com.cn/wm/2026-05-16/doc-inhyahap2765747.shtml>
+- **周杰伦** | 周杰伦演唱会点歌环节外国歌迷多次获选引热议 <https://k.sina.com.cn/article_7879924004_m1d5ae192403301z16i.html>
+- **周杰伦** | 周杰伦温州演唱会，酒店涨疯了！ <https://k.sina.com.cn/article_7857201856_1d45362c001905ixuq.html>
+- **周杰伦** | 球迷帮孙颖莎在周杰伦演唱会点歌 <https://k.sina.com.cn/article_1789681642_m6aac5fea03305ixiy.html>
+- **周杰伦** | 孙颖莎球迷在周杰伦演唱会领唱 <https://k.sina.com.cn/article_2992050891_mb25712cb05301rmnu.html>
+- **周杰伦** | 外籍球迷周杰伦演唱会上举孙颖莎照片点歌：“我想为世界第一点战歌” <https://k.sina.com.cn/article_7879995911_1d5af320706801vyg2.html>
+- **周杰伦** | 新浪演唱会热点小时报丨2026年05月16日11时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001905iwvi.html>
+- **周杰伦** | 梦幻联动！外国球迷周杰伦演唱会点歌，提到孙颖莎，偶像的最爱 <https://k.sina.com.cn/article_1356168525_m50d57d4d00101l2gs.html>
+- **周杰伦** | 周杰伦演唱会上外籍球迷为孙颖莎点播歌曲 <https://k.sina.com.cn/article_7096020439_1a6f4add706801qxmi.html>
+- **周杰伦** | 外籍球迷周杰伦演唱会举孙颖莎照片点歌 <https://k.sina.com.cn/article_7095179041_1a6e7d72106801t2ri.html>
+- **特朗普** | 特朗普：“伊斯兰国”二号头目被“清除” <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1oZENFT1hISVlEUWdTYS1hU19mam56dlNxMTdDTUtyNXhWUTZHU0NvWDdUcDdvazVyemhOYUxtSzNTeTA0OU4xRVFqMk8?oc=5>
+- **特朗普** | 特朗普称“伊斯兰国”二号头目被“清除” <https://news.google.com/rss/articles/CBMieEFVX3lxTFBzYUVUZWdTR1hzOV9jazhuY1d6V2pfMUQ5NVh3S3NObVFlOG1jblFIYXdqVVJmNEpQeEMxdU0wcG5Ua3R4ckgxRGN5RUhpcDA2dDFvZ2U2cjRyRHNCVHpkUzdiWFRhbWM0bGhiZnhxcUVmQ21RblhENw?oc=5>
+- **特朗普** | 特朗普宣布“清除”的“伊斯兰国”二号头目是谁？ <https://news.google.com/rss/articles/CBMiS0FVX3lxTE0wMC1LYWVMYW9HLXNxRHdKdlNpMF9KNkMzZTFxQXZvTkppSXRyTThKX1VMbUE5Unp5WkNSOUxyS3pHNXFoVnBDYVNZdw?oc=5>
+- **特朗普** | 特朗普面临是否恢复对伊朗打击抉择，称接受暂停核计划20年 <https://news.google.com/rss/articles/CBMiT0FVX3lxTE5GbVVKSWFaTk5kQ252WWQ3Um9aQTk4RWY0cmRpdENGbjVDQmhBN2ZhM0ZIWHRmNFhyWDc4Sk55aWRTNlNNRWcybHpLU2RFY2c?oc=5>
+- **特朗普** | 特朗普面临是否恢复对伊朗打击抉择，称接受暂停核计划20年 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9hY0pGbnlqVE1vUk1PNGpXMmtHeXJ6YjFSVG9KUzhUN1NKLXliZGJLUDYtYW5hZXo2RGFLOVZDUlktMnpVNW83OXkyVmZ3b1QxUTRKMEV6YWZzTHpvSGt4Qw?oc=5>
+- **特朗普** | 特朗普返回白宫，再谈中国之行 <https://news.google.com/rss/articles/CBMiV0FVX3lxTE9fc2hBSUNoRXNOUXlPSkhSc0lWOEM5Z09pazVmc3NOM1hVRXlIc3hJZmdXbEdDTENNUmdUMHg1dHJ6ZDhmQ2NNMVJ5QTBQNVAzQ282Rnp6bw?oc=5>
+- **特朗普** | 默茨：与特朗普进行了“愉快的交谈” <https://news.google.com/rss/articles/CBMic0FVX3lxTE9KZ24wd2dOdFdHYWZnY0QyZ1pSZDVGdVhNYk9MeEJzcTFyVXFEZ3Y5SHpEbkNqelBESHhmNjlDaERtWnAxdGo1eXhWZ2ExUk5CMHdSMGlZVE96LVhjaDZLbTI5Y3VvMmdHZzI0RVRjX0NneWc?oc=5>
+- **特朗普** | 最新披露文件显示：特朗普2026年第一季度大举买入科技股 <https://news.google.com/rss/articles/CBMiigFBVV95cUxNaDlvZzVoOHU1QTJpX1NYSDJMNHl4TGdWRTZ6anRWSEZuUC1qcFlmVm9sc2VrMEdWNDRDNGgxbENUc2xqS3dRRXRkQlZVVHBrMndlQzhPNFcyY2tSN1AtajNnRTJvNHB4S21IcEZ5ajh5WmNUcnJPR2h2bEhxNFFwcEJWdlZjTnlCREE?oc=5>
+- **特朗普** | 特朗普，买入英伟达、苹果、英特尔 <https://news.google.com/rss/articles/CBMiSEFVX3lxTFBkLWZQZk5EZnRJUVZMVjhqbEZNcWVsTXNTZ04xYmplSTVtVzZsd3FYRGRtLUFuMFNINVpRNmtCdmd1NWFWZmpndw?oc=5>
+- **Trump** | Trump spoke on China trip after arriving in Washington <https://news.google.com/rss/articles/CBMivwFBVV95cUxPSnk0SWFhaU5Ib0NrdE9QZWV5c3dycFNMY0tNRjlIU2FWRVh2bElGY1FZZElucmFYOTdWTUFKOGJvaXVsaHUxZmFFRnFlX3RNNV93WW9vZjBIMjZpa0tjTmJXUkhkU0dNa1RYS1F6UEo2RTVuZ0JRWFByejZ2TUhSQV8wblVPaDV3UW9lNHgzaG1Jd0Rra1dleERmRUJ6VlV5V1ZDTjNrZFduMDJnSFktR2EybkkzZExXNTVfd0gzZw?oc=5>
 
 ### 2026-05-16 02:27  (18 条)
 
