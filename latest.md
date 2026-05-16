@@ -1,48 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-16 17:52**
-- 本轮扫到 1334 条, 新增 **5** 条
+- 最近更新: **2026-05-16 18:57**
+- 本轮扫到 1336 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (2 条)
 
-### 周杰伦温州演唱会现场，歌迷是如何与国乒夺冠画面联动的？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ktss.html>
-
-### 2026周杰伦温州演唱会的门票开售后多久售罄？创造了什么纪录？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ktsm.html>
-
-### 温州为周杰伦演唱会提供了哪些独特的城市应援和文旅优惠？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ktso.html>
-
-### 周杰伦2026温州演唱会‘蜗牛’主题是如何与温州城市精神结合的？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ktsi.html>
-
-### 特朗普访华，美国后院悄悄换了个操盘手，对中国有何影响？
+### 最新披露文件显示：特朗普2026年第一季度大举买入科技股
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-16 16:00
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTFBSQU9LWDMxY2NycnhDS0E5OFJuTVBqX18tZmFyQS1fdjN3Zm0tNjhjakhoRlNIVmNvczU1MzhRaG1ZT0J5dE9ZclZrTW1IN2ZLOGNvLXpnZjFGNFpFbHRmMWJJMzlOeWdJRkhmM3ViSHo5TWZlc3c?oc=5>
+- 时间: 2026-05-16 17:20
+- 链接: <https://news.google.com/rss/articles/CBMipwJBVV95cUxOVmJVakNvdWtIM09IZnJjN0NrTlpwMzh1a2lXQ2dEZldtV19TYkxLNlBSSFZDRk5ES2V0cGRLMWstTE51VWc4eGlhY3puVGNCOUpFdUdJNXdoaUt3QUFNdHBuQ0NoQXdqand5SWZ5X2FlUnhfY09iSTdJYXFuSkV2d0hKM0tnNnNtQmpMQ3VHR1lTclpSNjRSOGUzNGRnTms1ejVIVUltaFByN3BDMWR4RG1ubEVEMVVhUTJlQ2pLRHJaVFFWejVTNlBBLXhjT2J4X2dqbTc2M3BfV21CWnhoRENRZlVKaEtCaWNPWVZwQ3FoWmxfb0o2UU5XYXFhLUlyUGVfdmRMaHBkMDM0VnFCNDM1UklSUkl6VFluN0Z6WW0zNHJUUmRF?oc=5>
+
+### 习近平“真实身高”引热议 与特朗普同框看似一样高
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 8world
+- 时间: 2026-05-14 12:45
+- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE9nVF96c0xQWHUtVnFLX1F4NE5KNGpvb3I5SWR3VU9GR0MyMXg4LXoxM0ZYV3d1VmlESHl1OFBNVnlTblpmVGxoalRPQUZoSkw3dGFpNHd4Nkd2WjEzeVpRYWVMVDd6SWtGUWdkc05aWVhZeTE2Vl9td2JSYlA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-16 18:57  (2 条)
+
+- **特朗普** | 最新披露文件显示：特朗普2026年第一季度大举买入科技股 <https://news.google.com/rss/articles/CBMipwJBVV95cUxOVmJVakNvdWtIM09IZnJjN0NrTlpwMzh1a2lXQ2dEZldtV19TYkxLNlBSSFZDRk5ES2V0cGRLMWstTE51VWc4eGlhY3puVGNCOUpFdUdJNXdoaUt3QUFNdHBuQ0NoQXdqand5SWZ5X2FlUnhfY09iSTdJYXFuSkV2d0hKM0tnNnNtQmpMQ3VHR1lTclpSNjRSOGUzNGRnTms1ejVIVUltaFByN3BDMWR4RG1ubEVEMVVhUTJlQ2pLRHJaVFFWejVTNlBBLXhjT2J4X2dqbTc2M3BfV21CWnhoRENRZlVKaEtCaWNPWVZwQ3FoWmxfb0o2UU5XYXFhLUlyUGVfdmRMaHBkMDM0VnFCNDM1UklSUkl6VFluN0Z6WW0zNHJUUmRF?oc=5>
+- **Trump** | 习近平“真实身高”引热议 与特朗普同框看似一样高 <https://news.google.com/rss/articles/CBMifEFVX3lxTE9nVF96c0xQWHUtVnFLX1F4NE5KNGpvb3I5SWR3VU9GR0MyMXg4LXoxM0ZYV3d1VmlESHl1OFBNVnlTblpmVGxoalRPQUZoSkw3dGFpNHd4Nkd2WjEzeVpRYWVMVDd6SWtGUWdkc05aWVhZeTE2Vl9td2JSYlA?oc=5>
 
 ### 2026-05-16 17:52  (5 条)
 
