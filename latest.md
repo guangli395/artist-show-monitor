@@ -1,68 +1,97 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-16 09:27**
-- 本轮扫到 1294 条, 新增 **7** 条
+- 最近更新: **2026-05-16 10:45**
+- 本轮扫到 1304 条, 新增 **10** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (10 条)
 
-### 蔡徐坤新专辑实体专辑突然空降，这销量怎么样？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5665478463_p151b0573f027022jx2.html>
-
-### 新浪演唱会热点小时报丨2026年05月16日16时_今日实时演唱会热点速递
+### 昆凌在周杰伦温州演唱会前参加了什么节目的录制？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905jc1q.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ks7g.html>
 
-### 特朗普：“伊斯兰国”二号人物在尼日利亚被击毙
+### 为何周杰伦此次温州演唱会选择《蜗牛》作为主题？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ks7k.html>
+
+### 周杰伦的演唱会为温州当地带来了哪些文旅活动和经济效益？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ks7i.html>
+
+### 周杰伦温州演唱会三场门票如何在一分钟内被抢光的？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ks40.html>
+
+### 为什么说周杰伦18年后的这场温州演唱会是两代人的音乐传承？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ks3y.html>
+
+### 周杰伦这次温州演唱会的定制主题《蜗牛》有什么特殊含义？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ks3o.html>
+
+### 特朗普：“伊斯兰国”二号头目被“清除”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: dw.com
-- 时间: 2026-05-16 08:55
-- 链接: <https://news.google.com/rss/articles/CBMirAJBVV95cUxQMGpObTVQUjYtVU9zRmtNamJXRkx0M29mTTJXWHVDX0pFc0tPUlJCMVNpNTh0WVFNOFpFYzdpMUZiUG1Ldkt3SjlJcTNfMWhEVE1IQWlJOFkwWVJJbEliNHBVd1plOWc3U3RsSkNUam1SR1NxVUNhV25vU2dCUk5HX0hDMjNneGphdEczQVlucGRrZjVZMHk4cjNxQkhzVVJtN29URGxOV1hVWXcwYWpVcmtvMkMxSllscTdKYmY1WDlqUkl0UmFlcXZtTmZkdTI3a1d6RVd1bzJxNGpOSTlWOHVVYWE0Z3J3aUFOU0ZGOEZSNEswVWlRZnQ5RUYwY25PaVVXRDVpYzA4bmtGTjJ5M3Mtb0t5ZS10aWFTaFo2c3l2cUNicXg4MjBxWkrSAawCQVVfeXFMT0NzdEk2RWIweHQyVXk1a01JcHQybU9TWkNEVVp4ZjE3X045SDZKWURZUjdSeU5GamJmcTFQQ3BDaGpjV05od3NRSmhkaWVZUUp4MklLT2kxLTg5U09KTDZORFhKMmlpRzlZTlQxTk1PdGhCV0o0cTRTNk00SU9fbndFbFl4LWRrSFVUV0lTcmRzVzdrVGdGYjdMN1pIUWhFUnhqNEVVWkd0THQ3QjZ6UXlzd21hVUNqbHJIUHhUdm9lNlY5ekNDeThFejNkNjQ4YnR2ZlVDaEQzUGFHY3FKT0tocVZuRG9RRjI0Q3I2WVJOY3QxNF9YRTk3TFFlMVdLb1h5dk95UkZGblVzeGZEZ1k4TmJyVGppajl2WWlQSDJ6TlZfNkVKYXRJM2VJ?oc=5>
+- 场馆: 新浪军事
+- 时间: 2026-05-16 10:01
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1YVHBRbkhQczlzUlVzb3hQcko3QkpkdWRDeU9qdC1pTWhDVElaMmF5NHNFSG05RDRsTWtsdUNkOWJpY3NnVk45S3JmdHpsNUhhNU11c3Y1TEFnZktPNmNFbWtMUDJ5WWhZZG1mT2FiUXZ2cTg?oc=5>
 
-### 特朗普披露清除“伊斯兰国”二号头目详情：在我指挥下，美军与尼日利亚武装部队执行任务，其藏身于非洲，线人全程掌握其动向
+### 最新披露文件显示：特朗普2026年第一季度大举买入科技股
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-16 05:36
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTFAtVVkzaEFlMkRTRVNnOW1HdG1jalU2X3NSaW1md0hfVGtSa0plNDlyVWtEUXZleEVQbzcydndHQWxlRmlBNEhHTDdqYUs2M19oTUdXRDA3bmJJcG5NZXNndXA4SG9QbGlJVndLcHFrQTlOZDh3a3c?oc=5>
+- 时间: 2026-05-16 09:54
+- 链接: <https://news.google.com/rss/articles/CBMikwJBVV95cUxNMUwwV1VPaHBtQnY2MThwbjA3cHBwYktPZjlxZmFwSlBQRkhVbXJwWXlPbElpQVQ5VTlTRnBjd2lBdG5VU0s2d2FYeVlJckpVNDk5TWphMzNyZWtlblVfUkM1dEtsYVgtdlNmUXJjdkhBcFFsRHZZN1QwT2RsYTJMeUNfRFVwbDctS1Q2bFlRaEJYa2otV3VNVkcwWGRSVjU4amIwZmZUaGd1V2lHVEVRbE5OUWJsbEhxbjhET0RvTHZEVVRPSDhtdEl0bUlfSFJUbXdCZmFWend5MWpCU013MUpLbVhfUU1ldlVkM2ZxNkJFLWYxeF9uRVlrVU1NbmxZV0RSRFdXakJkcTVVZnhiUGhDQQ?oc=5>
 
-### 特朗普儿子投了：Cerebras缔造今年最大IPO
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-05-16 08:18
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE1EMWlRTlZBMVFZX3JfVUFwb2Y1eVR6d3p6cERoR3V4RjNaelJvMU9Ha1hjclNaTk1TYmFOT09BWUdhTEFzeTIxa2V5UzRiN2VsUndtMHl5bnVtcWVHSlRBbzg0dHVOVDhBVXUySlUtR3loc0ht?oc=5>
-
-### 特朗普儿媳发布游览长城照
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: video.sina.com.cn
-- 时间: 2026-05-16 09:26
-- 链接: <https://news.google.com/rss/articles/CBMi4AFBVV95cUxQS3JXdU84VFVYSmNpY1VHYzBqWUk4bGdfRDZRaDVPVTcyQjV1MUF2dVE4RG1KSF9pdGFibXduZlFZNndkQWJDcF9HN0psRXFTdkNZQlJUclNUYzh0X3ZZTmgyci1xRlp1a1NnaFl2WGNLRkF2S2JOaE9FcnpUZmhUMFJNeTFfbzhuOE90SnM2d2JsVGhEQVA4UHI0SlFFYUxmb1JPekQ1X3Y1R0EzMGZ6ekVjX25pWjdreWs0YUFNbENMeTZvTDFHVjg0cTdCMW1IbU01SDBoSUJXVmpYNFJBQQ?oc=5>
-
-### 特朗普在空军一号受访，释放大量信号
+### “美国制造”不见了！“特朗普移动”手机开始发货，59万人交了总计5900万美元定金
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-05-16 07:38
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9laG9ocll0OVlVWVlGbGpRNXRzWDU5WlVWMU1TNWk0WE9nd0FlZTQxc0VfaGtBaFp5RjA2MndwejJYVkwtNDhYeGZwMUs?oc=5>
+- 时间: 2026-05-16 10:41
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ZU1lBZHpvMXQ3UzZqQ1pBeGhaanh2S0VWNmJwbW52TmFmOWdhN0xySVdXZnE1blFnZWZ1VkNYZnMtSGRIdk1vb0pXc1Q?oc=5>
+
+### 特朗普访华：MAGA运动中的中国批评者如何看待他这次北京之行
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: BBC
+- 时间: 2026-05-16 03:41
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5WaUU0eE90bTBvRk5YYjdfcVZ5RGVGeHY4OVo4N1NueHFfWWZhNUQtakxnMnFWS3Q4d0ZLTXNxakplU2E4OEh3M2hMYklhUi16eFhuOFJGdDRpUG5sU1JNR0ZJNThKQdIBa0FVX3lxTFBWZmo1YUpMbGg5YkIycE50NlFxd0ZubVMzTmlOVjVsTWItYUVNWnNCVXBWZHRRSXU5YVF5QVlRSVdUelhJSWE5NjRkb3ktb3lzMTVmMWkwbXhELVJsTVVuVWpEdnM4R2F5Wnhr?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-16 10:45  (10 条)
+
+- **周杰伦** | 昆凌在周杰伦温州演唱会前参加了什么节目的录制？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801ks7g.html>
+- **周杰伦** | 为何周杰伦此次温州演唱会选择《蜗牛》作为主题？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801ks7k.html>
+- **周杰伦** | 周杰伦的演唱会为温州当地带来了哪些文旅活动和经济效益？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801ks7i.html>
+- **周杰伦** | 周杰伦温州演唱会三场门票如何在一分钟内被抢光的？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801ks40.html>
+- **周杰伦** | 为什么说周杰伦18年后的这场温州演唱会是两代人的音乐传承？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801ks3y.html>
+- **周杰伦** | 周杰伦这次温州演唱会的定制主题《蜗牛》有什么特殊含义？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801ks3o.html>
+- **特朗普** | 特朗普：“伊斯兰国”二号头目被“清除” <https://news.google.com/rss/articles/CBMic0FVX3lxTE1YVHBRbkhQczlzUlVzb3hQcko3QkpkdWRDeU9qdC1pTWhDVElaMmF5NHNFSG05RDRsTWtsdUNkOWJpY3NnVk45S3JmdHpsNUhhNU11c3Y1TEFnZktPNmNFbWtMUDJ5WWhZZG1mT2FiUXZ2cTg?oc=5>
+- **特朗普** | 最新披露文件显示：特朗普2026年第一季度大举买入科技股 <https://news.google.com/rss/articles/CBMikwJBVV95cUxNMUwwV1VPaHBtQnY2MThwbjA3cHBwYktPZjlxZmFwSlBQRkhVbXJwWXlPbElpQVQ5VTlTRnBjd2lBdG5VU0s2d2FYeVlJckpVNDk5TWphMzNyZWtlblVfUkM1dEtsYVgtdlNmUXJjdkhBcFFsRHZZN1QwT2RsYTJMeUNfRFVwbDctS1Q2bFlRaEJYa2otV3VNVkcwWGRSVjU4amIwZmZUaGd1V2lHVEVRbE5OUWJsbEhxbjhET0RvTHZEVVRPSDhtdEl0bUlfSFJUbXdCZmFWend5MWpCU013MUpLbVhfUU1ldlVkM2ZxNkJFLWYxeF9uRVlrVU1NbmxZV0RSRFdXakJkcTVVZnhiUGhDQQ?oc=5>
+- **特朗普** | “美国制造”不见了！“特朗普移动”手机开始发货，59万人交了总计5900万美元定金 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ZU1lBZHpvMXQ3UzZqQ1pBeGhaanh2S0VWNmJwbW52TmFmOWdhN0xySVdXZnE1blFnZWZ1VkNYZnMtSGRIdk1vb0pXc1Q?oc=5>
+- **特朗普** | 特朗普访华：MAGA运动中的中国批评者如何看待他这次北京之行 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5WaUU0eE90bTBvRk5YYjdfcVZ5RGVGeHY4OVo4N1NueHFfWWZhNUQtakxnMnFWS3Q4d0ZLTXNxakplU2E4OEh3M2hMYklhUi16eFhuOFJGdDRpUG5sU1JNR0ZJNThKQdIBa0FVX3lxTFBWZmo1YUpMbGg5YkIycE50NlFxd0ZubVMzTmlOVjVsTWItYUVNWnNCVXBWZHRRSXU5YVF5QVlRSVdUelhJSWE5NjRkb3ktb3lzMTVmMWkwbXhELVJsTVVuVWpEdnM4R2F5Wnhr?oc=5>
 
 ### 2026-05-16 09:27  (7 条)
 
