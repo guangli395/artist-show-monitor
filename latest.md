@@ -1,84 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-16 10:45**
-- 本轮扫到 1304 条, 新增 **10** 条
+- 最近更新: **2026-05-16 11:45**
+- 本轮扫到 1306 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (10 条)
+## 本轮新发现 (2 条)
 
-### 昆凌在周杰伦温州演唱会前参加了什么节目的录制？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ks7g.html>
-
-### 为何周杰伦此次温州演唱会选择《蜗牛》作为主题？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ks7k.html>
-
-### 周杰伦的演唱会为温州当地带来了哪些文旅活动和经济效益？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ks7i.html>
-
-### 周杰伦温州演唱会三场门票如何在一分钟内被抢光的？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ks40.html>
-
-### 为什么说周杰伦18年后的这场温州演唱会是两代人的音乐传承？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ks3y.html>
-
-### 周杰伦这次温州演唱会的定制主题《蜗牛》有什么特殊含义？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ks3o.html>
-
-### 特朗普：“伊斯兰国”二号头目被“清除”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪军事
-- 时间: 2026-05-16 10:01
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1YVHBRbkhQczlzUlVzb3hQcko3QkpkdWRDeU9qdC1pTWhDVElaMmF5NHNFSG05RDRsTWtsdUNkOWJpY3NnVk45S3JmdHpsNUhhNU11c3Y1TEFnZktPNmNFbWtMUDJ5WWhZZG1mT2FiUXZ2cTg?oc=5>
-
-### 最新披露文件显示：特朗普2026年第一季度大举买入科技股
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-16 09:54
-- 链接: <https://news.google.com/rss/articles/CBMikwJBVV95cUxNMUwwV1VPaHBtQnY2MThwbjA3cHBwYktPZjlxZmFwSlBQRkhVbXJwWXlPbElpQVQ5VTlTRnBjd2lBdG5VU0s2d2FYeVlJckpVNDk5TWphMzNyZWtlblVfUkM1dEtsYVgtdlNmUXJjdkhBcFFsRHZZN1QwT2RsYTJMeUNfRFVwbDctS1Q2bFlRaEJYa2otV3VNVkcwWGRSVjU4amIwZmZUaGd1V2lHVEVRbE5OUWJsbEhxbjhET0RvTHZEVVRPSDhtdEl0bUlfSFJUbXdCZmFWend5MWpCU013MUpLbVhfUU1ldlVkM2ZxNkJFLWYxeF9uRVlrVU1NbmxZV0RSRFdXakJkcTVVZnhiUGhDQQ?oc=5>
-
-### “美国制造”不见了！“特朗普移动”手机开始发货，59万人交了总计5900万美元定金
+### 特朗普表态“不希望台湾走向独立”，引爆岛内舆论
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-05-16 10:41
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ZU1lBZHpvMXQ3UzZqQ1pBeGhaanh2S0VWNmJwbW52TmFmOWdhN0xySVdXZnE1blFnZWZ1VkNYZnMtSGRIdk1vb0pXc1Q?oc=5>
+- 时间: 2026-05-16 10:01
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBuZjN1SDdrR3k2d1RnSEF0VFF2SGxPSjdTbWx0MEYtT3d0T0RseEtNNnZVWGF0dmc4cTUxdWVOVlc2Q1lzbTRFMHFDa0I?oc=5>
 
-### 特朗普访华：MAGA运动中的中国批评者如何看待他这次北京之行
+### “不考虑美国人经济状况”，特朗普：这是完美的表态，我可以再说一遍
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-05-16 03:41
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5WaUU0eE90bTBvRk5YYjdfcVZ5RGVGeHY4OVo4N1NueHFfWWZhNUQtakxnMnFWS3Q4d0ZLTXNxakplU2E4OEh3M2hMYklhUi16eFhuOFJGdDRpUG5sU1JNR0ZJNThKQdIBa0FVX3lxTFBWZmo1YUpMbGg5YkIycE50NlFxd0ZubVMzTmlOVjVsTWItYUVNWnNCVXBWZHRRSXU5YVF5QVlRSVdUelhJSWE5NjRkb3ktb3lzMTVmMWkwbXhELVJsTVVuVWpEdnM4R2F5Wnhr?oc=5>
+- 场馆: 观察者
+- 时间: 2026-05-16 07:41
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE0wek1PTHJoSW5wbTNjcHltaEd0aU9KekpRVE10OHl0b3BwdW1CN0xPRjdEZmZXcmtRWV93ekVEdGs3Qjh2bU14QWpjcEF5R19SNEF0YnEwUWZPUzNGckNNSjBNSWgwVHJEa1E?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-16 11:45  (2 条)
+
+- **特朗普** | 特朗普表态“不希望台湾走向独立”，引爆岛内舆论 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBuZjN1SDdrR3k2d1RnSEF0VFF2SGxPSjdTbWx0MEYtT3d0T0RseEtNNnZVWGF0dmc4cTUxdWVOVlc2Q1lzbTRFMHFDa0I?oc=5>
+- **特朗普** | “不考虑美国人经济状况”，特朗普：这是完美的表态，我可以再说一遍 <https://news.google.com/rss/articles/CBMiakFVX3lxTE0wek1PTHJoSW5wbTNjcHltaEd0aU9KekpRVE10OHl0b3BwdW1CN0xPRjdEZmZXcmtRWV93ekVEdGs3Qjh2bU14QWpjcEF5R19SNEF0YnEwUWZPUzNGckNNSjBNSWgwVHJEa1E?oc=5>
 
 ### 2026-05-16 10:45  (10 条)
 
