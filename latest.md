@@ -1,32 +1,53 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-16 11:45**
-- 本轮扫到 1306 条, 新增 **2** 条
+- 最近更新: **2026-05-16 13:09**
+- 本轮扫到 1310 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (4 条)
 
-### 特朗普表态“不希望台湾走向独立”，引爆岛内舆论
+### 蔡徐坤的新专辑《KUN》实体版售价和配置具体是怎样的？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-05-16 10:01
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBuZjN1SDdrR3k2d1RnSEF0VFF2SGxPSjdTbWx0MEYtT3d0T0RseEtNNnZVWGF0dmc4cTUxdWVOVlc2Q1lzbTRFMHFDa0I?oc=5>
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801kslo.html>
 
-### “不考虑美国人经济状况”，特朗普：这是完美的表态，我可以再说一遍
+### 特朗普警告台湾不要试图走向“独立” 强调美国政策未变
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-05-16 07:41
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE0wek1PTHJoSW5wbTNjcHltaEd0aU9KekpRVE10OHl0b3BwdW1CN0xPRjdEZmZXcmtRWV93ekVEdGs3Qjh2bU14QWpjcEF5R19SNEF0YnEwUWZPUzNGckNNSjBNSWgwVHJEa1E?oc=5>
+- 场馆: 中华网
+- 时间: 2026-05-16 12:42
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBKeVpoOERXdng5NzBUZlRiQ1RfaVJ1TGVTa2ZCM3J4b01YN0t4c1JXSDhHMElwaUdZRE5JbjVPOW5zZWNCdFJGWUNnaGFJbFA5Rm45a3NYSHpRWE5XR3hZR0NHYWg4TkpVcnhsSHRSQzU?oc=5>
+
+### 特朗普回国后谈中国之行：“巨大成功，非常精彩”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-16 13:04
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFBKNEVzSy1qZDNjbkhiZjExSFhiMmhFakxZSXYyeU0tUnVHODl1dU1IV0VtV2s3c2g4SzVMelhGS0lxQmY4NzRZNnZMeHltYmNqaHQ2ZUY2MjgxRGExMHpsSzFMWE04bnZtOFp0Z3RVaDlJQQ?oc=5>
+
+### $高通 (QCOM.US)$ trump都买了，没理由不买[让我看看]
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-05-16 12:14
+- 链接: <https://news.google.com/rss/articles/CBMisAFBVV95cUxQTHFJeXBXWnJJakJzRXZnVWFRN3FQbVN0TEhDMHpsbmlGOVM4QlZLSFRhTHNobGFxQmNlODNZQmUxaGphb0NQX1cwVmdiV0JlRFlnTWRzRjFhN0ZIbGN1RXliVEJ2WDRVY1E5VFYyTWdjaUYxWFlwU2xLN0VjQV9TcjNWZnlnU3RISUpPQVIyMFdSNFgtLVRnaVRzOUluejlXMDgtLXhqcjZiYlVaOUgwLQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-16 13:09  (4 条)
+
+- **蔡徐坤** | 蔡徐坤的新专辑《KUN》实体版售价和配置具体是怎样的？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801kslo.html>
+- **特朗普** | 特朗普警告台湾不要试图走向“独立” 强调美国政策未变 <https://news.google.com/rss/articles/CBMicEFVX3lxTFBKeVpoOERXdng5NzBUZlRiQ1RfaVJ1TGVTa2ZCM3J4b01YN0t4c1JXSDhHMElwaUdZRE5JbjVPOW5zZWNCdFJGWUNnaGFJbFA5Rm45a3NYSHpRWE5XR3hZR0NHYWg4TkpVcnhsSHRSQzU?oc=5>
+- **特朗普** | 特朗普回国后谈中国之行：“巨大成功，非常精彩” <https://news.google.com/rss/articles/CBMickFVX3lxTFBKNEVzSy1qZDNjbkhiZjExSFhiMmhFakxZSXYyeU0tUnVHODl1dU1IV0VtV2s3c2g4SzVMelhGS0lxQmY4NzRZNnZMeHltYmNqaHQ2ZUY2MjgxRGExMHpsSzFMWE04bnZtOFp0Z3RVaDlJQQ?oc=5>
+- **Trump** | $高通 (QCOM.US)$ trump都买了，没理由不买[让我看看] <https://news.google.com/rss/articles/CBMisAFBVV95cUxQTHFJeXBXWnJJakJzRXZnVWFRN3FQbVN0TEhDMHpsbmlGOVM4QlZLSFRhTHNobGFxQmNlODNZQmUxaGphb0NQX1cwVmdiV0JlRFlnTWRzRjFhN0ZIbGN1RXliVEJ2WDRVY1E5VFYyTWdjaUYxWFlwU2xLN0VjQV9TcjNWZnlnU3RISUpPQVIyMFdSNFgtLVRnaVRzOUluejlXMDgtLXhqcjZiYlVaOUgwLQ?oc=5>
 
 ### 2026-05-16 11:45  (2 条)
 
