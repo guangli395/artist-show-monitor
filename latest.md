@@ -1,43 +1,13 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-16 20:01**
-- 本轮扫到 1340 条, 新增 **4** 条
+- 最近更新: **2026-05-16 21:09**
+- 本轮扫到 1340 条, 新增 **0** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮无新增
 
-### 孙颖莎本人是通过什么方式知道并回应这次周杰伦演唱会的点歌事件的？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ktxu.html>
-
-### 这位替孙颖莎在周杰伦演唱会上点歌的外国球迷Franz，是什么来历？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ktxq.html>
-
-### 特朗普面临是否恢复对伊朗打击抉择，称接受暂停核计划20年
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: news.sina.cn
-- 时间: 2026-05-16 08:03
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE1fQlBTOG1NR2JvSXRNZ3BHOWl5dm5lTFhpVVZMaUJRQWpOdjAybndObzZ3Y1I3MUxTWTJrcDVEMVFLNnVucmFGZmxlR05rVXdxYldETlR0YWMyOHhzY01ETkNHNnprTVNQcGdwRVNpYm5QWWFt?oc=5>
-
-### 特朗普称中方同意购买200架波音飞机，外交部：中美经贸关系本质是互利共赢
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-05-15 07:29
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqUE1Ha0Roc0RMcS05SE5xSjQ0NW9tWEFMNUVuOEphNkxZU25IaS05SWN3a1pwZEZBMU1WYk1QbmNUb3JSa0c0V2FhUFpHSkdpMFlhZEVCQkZ3bkNpUWtESg?oc=5>
-
-
----
-
+数据库里所有演出/动态都已见过,暂无新增。
 ## 历史发现
 
 ### 2026-05-16 20:01  (4 条)
