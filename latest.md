@@ -1,56 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-16 22:09**
-- 本轮扫到 1345 条, 新增 **5** 条
+- 最近更新: **2026-05-16 23:13**
+- 本轮扫到 1347 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (2 条)
 
-### 特朗普称：（伊朗）哈......_7x24快讯_新浪财经
+### 特朗普谈及伊朗问题：“我们这么做，是为了扶持以色列、沙特阿拉伯、卡塔尔、阿联酋，还有科威特以及巴林等。”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-16 22:03
-- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTFBmUTRENWhfQ1dJVDlicFpfQXhLY0V5Z0F5Mk5YTmctcEpZelhwS1JoOHFlZnBWVGdOM1ZPaWFUZS1BSXpIemNvUkZ2WXQ0dWc?oc=5>
+- 时间: 2026-05-16 23:07
+- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTFBZcFU5b0tYS1ZYZERGc25QZmJ4N2IzdFhMeF9XYk51UUptZHFmdjVUbE9KVlhROURXNjMxZ3I3ODkzeTBrcmtHWVdSMGw5TlE?oc=5>
 
-### 普京紧接着特朗普访华 莫斯科称中俄关系更深厚
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-05-16 21:53
-- 链接: <https://news.google.com/rss/articles/CBMi3AJBVV95cUxOSHdzNjJNWUZWWlEzTHNSOThuRllBUXlPTHdqTWlKSldqTkdTbUtZZGJMaXg5NEJtaDlmek1lM2tZRENJaUJIaVpmX0dCVkFHZ0ZsOFRBM1lQMFJNOWxzQ1dhR1dpMUd1WHhFSXRIXzF0VGtfNHB3U2ZhTnFvVVlPSVF4RG1VMFJuUDRDaHdJbGNKeWZiWHRZTy13dHFZcktILU5qSWZKd3U0MHgwbzZIbFAwYU5CRnlQOXFuR2RjRGg1a01ybFRpckhvZkRmdExCeTBJcnRsY1NBRlJzN1hLUThsSFRyUFhCSTlIblZVMk1fazZOckdSRlp6TzhhNWw3MHdLd29WQ3NwbHdhZlVFSHJFUmdMbFFGVW9rN3gyTW9OTjc4QWtLMVZzaEd4TDhYQ3JrTHIyNWpUT1o1MHRLSVFNcHQ2TnlhNGZwcGNVZXJiZVl4b1FScjliZ3k?oc=5>
-
-### 特朗普对台军售未表态 美国会两党促白宫尽快放行
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-05-16 21:30
-- 链接: <https://news.google.com/rss/articles/CBMi6AJBVV95cUxNZXJmRFNYYTlQSU1Ec3k3RnhuOGpDVjJ1OTAzNzRCVGpwUzIyanN2MXpaaG53V3JTT3lFbGcyU2VBT3pYbll2YklGYWNXNm8xbDREcHU3ZUUzR1JiWTd1aWdtYTBfUHl3bVJzWUU5YjFha1B2OHdGRU5HR3pJb0VlY3c3aWdnVG43RWRYckJGNDAtbzlsZ0JDMzd2bWdYWk13UkVqTDBCSzJJN1hvOEc4a01OUjZoRjdPbjk1UDlUa2ZISnVWcXlDaXVsTG84UzEwMHRaZXl2QUJCYjlkSWUwak90M0FVZ1RkR1VRU1N1NngxM0U5WHNKYV9jdG9jX2t3SmwtTzEyRFl6bENwRFBEWGZSc3FaY3NTUFNVTDBSdkVPU0xDdXdmV0ZEQmtndHgxR1N4dU16MENndzVVOXRtYlVfNV9Edlg1R3ZlVFJsTzFHZkhVUmFrNHNwS3RGWWJTLWg3WWVlTkI?oc=5>
-
-### 这个反种族主义组织靠反对特朗普获巨额募款，如今面临总统强力打压
+### Relationship between the U.S. and China is a very strong one: Trump
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-05-15 05:44
-- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTFBYSjhVdDUwQkZVNWdMMTBqMU9HMDlNQ05GWmJTVVBHVjNQWlpuWnMydTVaLXQtWGRxdGI1eGkzWUh3VWFwTDhSQ0dVUnhRaDd3TWVUM1kzZDFuRHc0cmpab3llQmFXSTcwYWw3MV9fZ2hFdXF3UmtDQ0hR?oc=5>
-
-### "特习会"后 中美部分产品降税 农产品贸易释放缓和迹象
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-05-16 21:23
-- 链接: <https://news.google.com/rss/articles/CBMi9wJBVV95cUxPeEJKOFdON3p0dXNxRU5CcC1fUFZmNU9GOGQ5UjJGZTY1alJkdmJDeGpXc2J2MW5kYTByYUxCcXNDY1BSNUdPQlJoOUdhM1B3NGZudFRwODNpWGE2WHJCZ2R4NDd2QkxVRy1aUXVKN0VLS1owWVFoX0NZb0pMNEw5clMwel9lSlc3emRBLU84NzZxZUxiSkdCbTdwbXptR1hrcXRkaGJ4aVQ4M1hkb1UtNG1vc0VSWktzeXdBWG9BaVR0S1c2RFgwbGtxYUUzQ2hTV09EMTFFN0VfRjZ1Vi1MUmxrc19JZHp1MlFiR3pybWFnUk0zNkN6MUdudkJqQkNvVVZEREtpdm9nN3NlaHZoOU5XQ0Zma2lPMjUxckVkNnVfTTBLbDlaLWItcW4xblp0clluQXEyMkFhNUk5NlE2ZllYWWNFdzVXbVdocVpocjR1MVk2QVQyQ1V5RzRadUd1X2VCel9tMlhfZHdkdVJUUnctYUhBc1k?oc=5>
+- 场馆: 澳門廣播電視股份有限公司
+- 时间: 2026-05-15 06:48
+- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxNX0xHdVpNUjNvcU1Wb2gxYWYxRGNZWlJZMHBhS1dFSndsVXhvWDU5MkdTLXpJLTNZVzR0dGZGTnMxMnRvXzN6aDZBTHhYWlZyTlBteUFNaWtvRkdIMHFSTWVlWmxrLXduMFR3VFdRUEVRMW9tbTl1MHhOX3hnR1dLYkd3X0UycXBXSE1US1ZJZVFoMjVJRDFHMw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-16 23:13  (2 条)
+
+- **特朗普** | 特朗普谈及伊朗问题：“我们这么做，是为了扶持以色列、沙特阿拉伯、卡塔尔、阿联酋，还有科威特以及巴林等。” <https://news.google.com/rss/articles/CBMiT0FVX3lxTFBZcFU5b0tYS1ZYZERGc25QZmJ4N2IzdFhMeF9XYk51UUptZHFmdjVUbE9KVlhROURXNjMxZ3I3ODkzeTBrcmtHWVdSMGw5TlE?oc=5>
+- **Trump** | Relationship between the U.S. and China is a very strong one: Trump <https://news.google.com/rss/articles/CBMimAFBVV95cUxNX0xHdVpNUjNvcU1Wb2gxYWYxRGNZWlJZMHBhS1dFSndsVXhvWDU5MkdTLXpJLTNZVzR0dGZGTnMxMnRvXzN6aDZBTHhYWlZyTlBteUFNaWtvRkdIMHFSTWVlWmxrLXduMFR3VFdRUEVRMW9tbTl1MHhOX3hnR1dLYkd3X0UycXBXSE1US1ZJZVFoMjVJRDFHMw?oc=5>
 
 ### 2026-05-16 22:09  (5 条)
 
