@@ -1,54 +1,56 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-16 16:53**
-- 本轮扫到 1329 条, 新增 **5** 条
+- 最近更新: **2026-05-16 17:52**
+- 本轮扫到 1334 条, 新增 **5** 条
 
 ---
 
 ## 本轮新发现 (5 条)
 
-### 外国球迷帮孙颖莎在周杰伦演唱会点歌
+### 周杰伦温州演唱会现场，歌迷是如何与国乒夺冠画面联动的？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2992050891_mb25712cb05301rnco.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ktss.html>
 
-### 白宫发言人：特朗普总统手握所有可行应对方案，但他更倾向于选择外交途径解决问题。
+### 2026周杰伦温州演唱会的门票开售后多久售罄？创造了什么纪录？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ktsm.html>
+
+### 温州为周杰伦演唱会提供了哪些独特的城市应援和文旅优惠？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ktso.html>
+
+### 周杰伦2026温州演唱会‘蜗牛’主题是如何与温州城市精神结合的？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ktsi.html>
+
+### 特朗普访华，美国后院悄悄换了个操盘手，对中国有何影响？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-16 16:11
-- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE1IWmpZN3d3Q1pjOV90ck95QU9hS2syREVIVy1qTzJKYUVKUXRyYlprbk5GVUJKTFJLcXlwWE9PZGE5Y1IwMUdfdmhmVUNjSjA?oc=5>
-
-### 特朗普返程飞机上与高市早苗通话
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-16 15:29
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9LS2U0aU9LSzd6M3dwdWxqUlljaTZzTFFaUzRPOUs1UXpGZUZmRGxXaTUxeDJGXzFiYkM5Y1VZT2Q1NExjR2lnamJwX3RjMzd5YjR4TWM1cWJteld5Z1pLNWt3ZGdLdnUtWEZPVmpWekhCRFY5OXF2SQ?oc=5>
-
-### 特朗普发出警告后 台湾呼吁美国履行对台军售承诺
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-05-16 15:59
-- 链接: <https://news.google.com/rss/articles/CBMi6AJBVV95cUxPVlk5eWZEWmFPR2pXQkNfZU9FcHpnai1ic25xamk3VDhtazM5ckVIYnU4dUtoaTYwNHN6NzVjSjhzdHBuNEdMWGtLa042RXdRRUFmdE1yZXhUd2dxTGxPbVJwQUhoVUozZWFVVUhzc08xVWxXWElZNkVaX3VjOG9uUnBydnhyalJGYkg3RXEwU0JuT0FLU0tEeVA4VkJ1eTdDejZxZk5EUXZRRUxleVp6YlBNV05Calh6eGxjSHozVWxoa3BsUXFoMFVLSGVfTWprdGF2RHlqQkxpcnJrLWJXVzFGUWk4Q0kwRG1zOFk5VHJ3TXJsTWNuYV9CdDhpTkFyOEFWQTRibFU3NFphZWJPYlB4TWM1WjdUbEM2TF92T05Jamdvb3NnZzV4LTQ1YVBSYmx5VmlCMXQ3ZDJLWTEzazNHbnBQX0FJLVFFbFNrSkhKeU5pZ05ydnBuTzZySzNxQXcxcHFqUGs?oc=5>
-
-### 习近平同美国总统特朗普参观天坛
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 人民日报
-- 时间: 2026-05-14 22:09
-- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxPdGpUVkNTY2N5eGE5VlVsZjY5a3IzSThsUEdoNzlGc2RVQnh5MDFDNFJTQWJpSGFXQTVYLUJoQkhIQjVSVi13M1ItMUt2bWZEbkhEay1qal9mUVI4cnVpdDZjdG11UWJMb3A2Nm44NEFCVnRHWDdtN3p0cUI4NFhvTw?oc=5>
+- 时间: 2026-05-16 16:00
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTFBSQU9LWDMxY2NycnhDS0E5OFJuTVBqX18tZmFyQS1fdjN3Zm0tNjhjakhoRlNIVmNvczU1MzhRaG1ZT0J5dE9ZclZrTW1IN2ZLOGNvLXpnZjFGNFpFbHRmMWJJMzlOeWdJRkhmM3ViSHo5TWZlc3c?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-16 17:52  (5 条)
+
+- **周杰伦** | 周杰伦温州演唱会现场，歌迷是如何与国乒夺冠画面联动的？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801ktss.html>
+- **周杰伦** | 2026周杰伦温州演唱会的门票开售后多久售罄？创造了什么纪录？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801ktsm.html>
+- **周杰伦** | 温州为周杰伦演唱会提供了哪些独特的城市应援和文旅优惠？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801ktso.html>
+- **周杰伦** | 周杰伦2026温州演唱会‘蜗牛’主题是如何与温州城市精神结合的？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801ktsi.html>
+- **特朗普** | 特朗普访华，美国后院悄悄换了个操盘手，对中国有何影响？ <https://news.google.com/rss/articles/CBMidkFVX3lxTFBSQU9LWDMxY2NycnhDS0E5OFJuTVBqX18tZmFyQS1fdjN3Zm0tNjhjakhoRlNIVmNvczU1MzhRaG1ZT0J5dE9ZclZrTW1IN2ZLOGNvLXpnZjFGNFpFbHRmMWJJMzlOeWdJRkhmM3ViSHo5TWZlc3c?oc=5>
 
 ### 2026-05-16 16:53  (5 条)
 
