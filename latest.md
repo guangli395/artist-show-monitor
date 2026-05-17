@@ -1,46 +1,60 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-17 17:54**
-- 本轮扫到 1408 条, 新增 **4** 条
+- 最近更新: **2026-05-17 19:00**
+- 本轮扫到 1413 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (5 条)
 
-### 周杰伦温州演唱会为何能吸引超过80%的跨省观众？
+### 温州周杰伦演唱会带动了当地哪些文旅消费？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801kyke.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801kypy.html>
 
-### 美国官员：特朗普预计于周二在白宫战情室与高层安全官员召开会议，研讨针对伊朗的应对方案，其中包含军事行动选项。
+### 周杰伦这次温州演唱会的主题为什么是《蜗牛》？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-17 17:17
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5yZmVYQXl0bzNvQlViLXFneXdYRkZ4TU45a1ZsX0NTTWlhRDNIb3VULUNLWE1SM2RJUHo3aU41V0VfYldQWERGTDE5SQ?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801kypo.html>
 
-### 美国官员：特朗普仍有......_7x24快讯_新浪财经
+### 特朗普：仍认为伊朗希望达成协议
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-17 17:17
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBOUXk4MDZ5Tjh1UDJ4N2lORnROdjdzQkZSd2dST1VSRks5N3oxMmVPOEpiZXBaMGdYZWhaSEJsaGhpNHIwd1Mtd19YWQ?oc=5>
+- 时间: 2026-05-17 18:54
+- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFZHpndkFaV1RBeE4xWjBYUDlZVXQxQ0pzYkF3Ym9qT1pROFBielB3U1l4V1lZU1Zyb1hkN3JUX1g4UHlCNXpPMExodUtqYVE?oc=5>
 
-### 回应特朗普？赖清德谈“台独”：台湾不属于中华人民共和国
+### 特朗普：对伊朗而言，时限已所剩无几，他们最好赶快行动，否则将自身难保。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: dw.com
-- 时间: 2026-05-17 12:48
-- 链接: <https://news.google.com/rss/articles/CBMi3AJBVV95cUxObVo4bVJFN1JTTkdnaC02MmtodFJJVGtsdEI0OTJROTFQVGtMSGR4ZGkzWVZ4eGFrUTF2RU5GaVNSWnNrVXM1aVVDZ2E1a0NDMVlZaGlwSzZ5aW9FeFFWRFZJNlZkUTB2X3JJMm83NnlYbTVYVHdzZll6TUNqR0p2c3FOQ04zX2kzZmZOaXFOMjFSRVRoVDdIT1hxSGFOdExTMmZIajN6aWZmUDdmejViY3JUeVBMQVktZlZ5eTlsS1cyN1p3RVZ1QU1WTDZETEFWN0lmZ3hkZG9kQW5DYXFWUXFBZ1hKM0R6ZWcydEwyRmhhNDFsYzlMUlNteE93cXFxR1gzVm80V1lTbTJJQ2VUbWs1UjU5Tm5YUG1lQ0dpZVptVWkweW02VHpyRDFVN3RJNWxSTU5aS3hRbDVwYnhzMHVxM0FsLTZ3WndvekJtRURyVXdPMXJEQjl0Nmw?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-05-17 16:43
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE4tdWhqZ1ZVV0c2a1BUT2t2VGR5ZzRZTUVLWW9vRzBQeENCUlpNdFRKdVBtVGYwd2tSbGNUb2tSd0VCVDlGNUFNTEprTExvWGpjTkFlcTI3VUstdnJUOWZrai1lQmMwY2xGZnFVczdhZlozcXBzRTd4cA?oc=5>
+
+### 有称特朗普与习近平谍对谍！
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-05-17 17:58
+- 链接: <https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZ01EWjRwRWl5bDJTU3NzZ1NNNk9jQU04b1otTjgwc2gwSERhRG5Va1VndVBuU3lFZ1MyTjJ1ejRiNmdBX3Y0M0FsNzh0TFhFSVA0V2k4QkpaS3dYMldfd0NGQTZLQnlnbmY2VllfQWs3YUo2NTBGZVNfQU1sNEpHcld1YmNqZUF4ai0xbzAwb2MwUjdjTEJjcV9wYTRBeXcyampTLThFZ3VxOUtlanRZYmw4b0hxLUpFY25HWFVjWEwzRXBlMURxNHB6MnB3dlE4RzE5Qk5heXh3Rk9yQzgxNlIxSU4zTzlwVmw2TkhLRnM?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-17 19:00  (5 条)
+
+- **周杰伦** | 温州周杰伦演唱会带动了当地哪些文旅消费？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801kypy.html>
+- **周杰伦** | 周杰伦这次温州演唱会的主题为什么是《蜗牛》？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801kypo.html>
+- **特朗普** | 特朗普：仍认为伊朗希望达成协议 <https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFZHpndkFaV1RBeE4xWjBYUDlZVXQxQ0pzYkF3Ym9qT1pROFBielB3U1l4V1lZU1Zyb1hkN3JUX1g4UHlCNXpPMExodUtqYVE?oc=5>
+- **特朗普** | 特朗普：对伊朗而言，时限已所剩无几，他们最好赶快行动，否则将自身难保。 <https://news.google.com/rss/articles/CBMieEFVX3lxTE4tdWhqZ1ZVV0c2a1BUT2t2VGR5ZzRZTUVLWW9vRzBQeENCUlpNdFRKdVBtVGYwd2tSbGNUb2tSd0VCVDlGNUFNTEprTExvWGpjTkFlcTI3VUstdnJUOWZrai1lQmMwY2xGZnFVczdhZlozcXBzRTd4cA?oc=5>
+- **特朗普** | 有称特朗普与习近平谍对谍！ <https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZ01EWjRwRWl5bDJTU3NzZ1NNNk9jQU04b1otTjgwc2gwSERhRG5Va1VndVBuU3lFZ1MyTjJ1ejRiNmdBX3Y0M0FsNzh0TFhFSVA0V2k4QkpaS3dYMldfd0NGQTZLQnlnbmY2VllfQWs3YUo2NTBGZVNfQU1sNEpHcld1YmNqZUF4ai0xbzAwb2MwUjdjTEJjcV9wYTRBeXcyampTLThFZ3VxOUtlanRZYmw4b0hxLUpFY25HWFVjWEwzRXBlMURxNHB6MnB3dlE4RzE5Qk5heXh3Rk9yQzgxNlIxSU4zTzlwVmw2TkhLRnM?oc=5>
 
 ### 2026-05-17 17:54  (4 条)
 
