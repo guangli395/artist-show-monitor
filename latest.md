@@ -1,38 +1,44 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-17 20:07**
-- 本轮扫到 1416 条, 新增 **3** 条
+- 最近更新: **2026-05-17 21:14**
+- 本轮扫到 1419 条, 新增 **3** 条
 
 ---
 
 ## 本轮新发现 (3 条)
 
-### 有哪些暖心瞬间发生在周杰伦温州演唱会的点歌环节？
+### 蔡徐坤不愧是强者，挑战加速版主题曲，再快也在点上
 
-- 艺人/关键词: **周杰伦**
+- 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801kyq6.html>
+- 链接: <https://k.sina.com.cn/article_6579089051_m18824ee9b0330211ig.html>
 
-### 特朗普：仍认为伊朗希望达成协议
+### 美贸易代表：中国同意不对伊朗提供实质支持
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-05-17 21:10
+- 链接: <https://news.google.com/rss/articles/CBMixAJBVV95cUxPUzNubGFwZnMwdmlMbzlodi1qeXl6bWZocnBXVjlRcE9wNm1ER0o4bFlMU1pWZnYzV1p3ZjZ3WDM5d2tzV1g2Um5iaDFqcEFRM0h5amdIZzhienRyTDhoeGljeVNkUWs0ZlpreXZ4cUltTUp6dmJDcDZSRUhKbXR1NTBwZ1E5WGx5cjVhYTVZLWI2UHp1NGJXYjRBNmpuSnRubzFnMjkwa1dBREtTU19kbzNpN0YtZWZRVDduQmhmVTJiM2VURW1IQ1MxakhpaWRvQ3dUek5YSDJsTXllMjNKakpKWHo0X3BSV0VXTFA0TFRGcTNOZ1BHRUh5VU5EdExLbG5VTU03VGtqcVJLMFl5N0pEQ1haZXU1c2xyQTJDUEI1c1dDbTFjdjVCcEhhOEdnbTh0UWVtYnlTM0tSQW1Qc0ZyemU?oc=5>
+
+### 特朗普于当地时间下午4点55分（北京时间4点55分）抵达白宫，随行媒体并未拍到其进入官邸的画面。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-17 18:54
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9BTERwRmFMZDhEYVdDMlFqZ0hvMEh6dFFsRmw2VjNubjBSZHgxXzNVRHVSdEFxU1ViSkJ6N01mOWFxdEZQYXIyOTBxRQ?oc=5>
-
-### 特朗普周六在弗吉尼亚......_7x24快讯_新浪财经
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-17 18:51
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBUaHdjYWJIbUFfRU0wSy16Z2lKYmstcnMxRVhFdTFlZkJxTVd2NmEybXBmSkZpak5TdzJabld2QWZPVkdiYk5qWjRfQQ?oc=5>
+- 时间: 2026-05-17 21:08
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE05YTFrdmJYN0pYNTJUMzYwaGhZZnlRaEhwaUQxQV9pRVBFcFMyd1ZEc0J0OGhCSC1yOVZrand5bHBxNmk0SHJHa1A3TQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-17 21:14  (3 条)
+
+- **蔡徐坤** | 蔡徐坤不愧是强者，挑战加速版主题曲，再快也在点上 <https://k.sina.com.cn/article_6579089051_m18824ee9b0330211ig.html>
+- **特朗普** | 美贸易代表：中国同意不对伊朗提供实质支持 <https://news.google.com/rss/articles/CBMixAJBVV95cUxPUzNubGFwZnMwdmlMbzlodi1qeXl6bWZocnBXVjlRcE9wNm1ER0o4bFlMU1pWZnYzV1p3ZjZ3WDM5d2tzV1g2Um5iaDFqcEFRM0h5amdIZzhienRyTDhoeGljeVNkUWs0ZlpreXZ4cUltTUp6dmJDcDZSRUhKbXR1NTBwZ1E5WGx5cjVhYTVZLWI2UHp1NGJXYjRBNmpuSnRubzFnMjkwa1dBREtTU19kbzNpN0YtZWZRVDduQmhmVTJiM2VURW1IQ1MxakhpaWRvQ3dUek5YSDJsTXllMjNKakpKWHo0X3BSV0VXTFA0TFRGcTNOZ1BHRUh5VU5EdExLbG5VTU03VGtqcVJLMFl5N0pEQ1haZXU1c2xyQTJDUEI1c1dDbTFjdjVCcEhhOEdnbTh0UWVtYnlTM0tSQW1Qc0ZyemU?oc=5>
+- **特朗普** | 特朗普于当地时间下午4点55分（北京时间4点55分）抵达白宫，随行媒体并未拍到其进入官邸的画面。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE05YTFrdmJYN0pYNTJUMzYwaGhZZnlRaEhwaUQxQV9pRVBFcFMyd1ZEc0J0OGhCSC1yOVZrand5bHBxNmk0SHJHa1A3TQ?oc=5>
 
 ### 2026-05-17 20:07  (3 条)
 
