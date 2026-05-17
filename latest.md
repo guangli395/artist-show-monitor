@@ -1,70 +1,51 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-17 14:02**
-- 本轮扫到 1395 条, 新增 **7** 条
+- 最近更新: **2026-05-17 15:35**
+- 本轮扫到 1399 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (4 条)
 
-### 网红派小轩发布职场搞笑视频引热议
+### 周杰伦在温州的最后一场演唱会了吧，你赶上了吗
 
-- 艺人/关键词: **王一博**
+- 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924013_m1d5ae192d03301he9g.html>
+- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301boim.html>
 
-### 特朗普就台湾问题表态
+### 周杰伦温州演唱会把《蜗牛》定为城市主题曲真的戳爆了
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: Sina finance
-- 时间: 2026-05-17 12:50
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTFBVMUlfWmh3VnZZLW5Ga0lQY3dPdUI4UUo5YVAtaVR3dk15WS1zam5ILV9SOVpUMjNGVHJYYm5uSjV2YUg5OWJqTjZFX0VmQnQ3VUg3OFlFdl9ZdnN5ZU5HMUdRWDJBWlVLaWk2T0NWOHRoZUd3S3c?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_2164376267_m8101c2cb03302odoy.html>
 
-### 墙外文摘：特朗普拿台湾能赌到什么？
+### 特朗普发文抨击众议员汤姆·马西 呼吁用选票将他赶下台
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: DW.com
-- 时间: 2026-05-17 12:39
-- 链接: <https://news.google.com/rss/articles/CBMi_AFBVV95cUxOTTd1NjRKZWxhRC1qbWZ0MGxRRGVFQVBvRUVTeC1QUHhPcXdPQ2RVMmdtNmt5c09pYkpKZl9EaEtNOU9PSlNzb2pJaFR2cjhFXzAySnhOSE9mQms0Tkc4dVMtcDctaGNPTHVaSGYwdzlDd3RWeW5vRTJmZS04Wm15R1VtVkgzdGpHSmMybFVFNXc0eWNMMXowSXZyb2k4cjJlbDhWNWRiZ1I2Vk10RUtZUE5MTmFhbjNVcHpOUzRjeEN3eHdXUnVyTnJZOGRZYU5XcFNMQzlQOUhUSi0zR2l4Ykc2aTJlSHNDYU5zX2lxejNQMnJtbVIxNXl1RFbSAfwBQVVfeXFMTlBYbmZ3Q21rTFR5dWo3SzZhSV9IakRmMTZGMUp2c0xWS1NhRXpKV3owTWhqS01qbmhnMjEydzU4eGdjTksyaGd2Ql9vUEEwZkhCZWFEMW03aHNaSGtFdml0eGlWZzJqdTZMX094Y2lYUDB4SkpGTEdFTTkybC1GLUFEZGlmR3FHcnd4VUY4YXNDVjZjTzhEQ1djRWpJeXc0LV9IcHBXWWVpbWJqSjY2Mmlvb2RSSmpSX2owU1ZzSW9fVk9kUlhlVmN4YXAxQ3k3dmY2WHRVQ2xONnVQRUl4VXVjdWM4SGphMWhlWjBKZm9tbXBWblFFTE9BbVVj?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-05-17 14:18
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5sNjBzcU9LRzI2M3FvRVU2UWV3RVcxV2J3WWduOFhoYVBOTldIQkttbjFyR003WkVPTTM2N3ljWmFvTG9yN3B3dXNWNA?oc=5>
 
-### 结束中美元首北京会晤数小时后，特朗普警告“台独”
+### 特朗普变得越来越不耐烦...
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中国网新闻中心
-- 时间: 2026-05-17 13:54
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE9LQ2hBMlRQZkpTbWZTejh0TWVjbEZZODdOTUdnQjVjUkFhLXM3dXlDa2hJbDNodGdPa2dITHloS0ZTVFlndVNlZTh3ck41bE1ZVHYwVDdQdEFlX2YxSTdtZkM1amJoMFBXaEFF?oc=5>
-
-### 2026年5月美国总统特朗普访华瞬间
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: DW.com
-- 时间: 2026-05-17 02:03
-- 链接: <https://news.google.com/rss/articles/CBMi6wFBVV95cUxPc3RwU0lYc21rTnRDVlBISzlKX3BSYVp5dndfTWtweVU3cnJvd1VVWUlKSXA3REpyeUlaSVV3ZXRSQWlIOE9iLXZiTkJldUllQmo3UTBTRnUwX3I3ZXBfekoxWEwxVENSc3pwQW1Vdk1YRFdRbHMxSy1xQkU4LUIweVhFWjR4c0RXQ21FdTNMTk9qQmRwNzFtamZ3cG9BN0RoUGl2Zm4zNGFsal9HWGNWTmpiZS1CTDRRT2xPYmQzQ1NTMHp0Y0hGN01vOWxSOUNCVHcwTzVkUVlKUXdLR2FhMXRjc2FWdXlYR0dV?oc=5>
-
-### 特朗普相关动态_新浪新闻
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-05-17 03:08
-- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTE53Yy1sU29VLVpaRGpyS1pQU2RDT21Oa0tmakJ5cDJZaVVvSlNJT2p1R2RPcF9xMC13Q0E4UUEzVFpDZGN6YjJnQ0x3c3dzMDFHUWV1Q0xtaGwtdzJlLWhlWF9RTQ?oc=5>
-
-### DONALD TRUMP VOICES HIGHLIGHT VIDEOS OF CHINA VISIT
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: news.tvb.com
-- 时间: 2026-05-17 12:42
-- 链接: <https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSG5ETmh6a2RfVTJiY2xOMlRYLVBZMHNwM3lOSkxWMXQwOV92OUlpZzJTR0ZVM3d0RjEyeXZqUlpmU3NhTGstQ0VNU0pXRjlGdlFIZFJFZU1OOHFUSEliY1VqOVJ1NWpvRktmVUxyOF9LNjQ0ZTZpcW1UYlIyajdmSkQtTjhzX003R0g3bm5GVWhRS0RjS1NrRlFnNi1uNEZlaW43emkzd1pHQlJqSXJmSHp4c1ZuTjdrNFFz?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-05-17 05:08
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5ucDNqaDVHOFVYNGU1X3FPbGZmNERRV0FwbDNDcXN4VGlpZGU3RXlqZUgxcURnX01OX2xXV3BXaHZLeVJEdGQ0NTVwRW1XdEptNDNBLWdKNGxaNkNGakxUSzNhTGFQMm81bE5WLXVWMzJTNnBtN2dkUA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-17 15:35  (4 条)
+
+- **周杰伦** | 周杰伦在温州的最后一场演唱会了吧，你赶上了吗 <https://k.sina.com.cn/article_7879924009_m1d5ae192903301boim.html>
+- **周杰伦** | 周杰伦温州演唱会把《蜗牛》定为城市主题曲真的戳爆了 <https://k.sina.com.cn/article_2164376267_m8101c2cb03302odoy.html>
+- **特朗普** | 特朗普发文抨击众议员汤姆·马西 呼吁用选票将他赶下台 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5sNjBzcU9LRzI2M3FvRVU2UWV3RVcxV2J3WWduOFhoYVBOTldIQkttbjFyR003WkVPTTM2N3ljWmFvTG9yN3B3dXNWNA?oc=5>
+- **特朗普** | 特朗普变得越来越不耐烦... <https://news.google.com/rss/articles/CBMieEFVX3lxTE5ucDNqaDVHOFVYNGU1X3FPbGZmNERRV0FwbDNDcXN4VGlpZGU3RXlqZUgxcURnX01OX2xXV3BXaHZLeVJEdGQ0NTVwRW1XdEptNDNBLWdKNGxaNkNGakxUSzNhTGFQMm81bE5WLXVWMzJTNnBtN2dkUA?oc=5>
 
 ### 2026-05-17 14:02  (7 条)
 
