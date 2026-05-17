@@ -1,100 +1,62 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-17 09:42**
-- 本轮扫到 1381 条, 新增 **12** 条
+- 最近更新: **2026-05-17 11:00**
+- 本轮扫到 1386 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (12 条)
+## 本轮新发现 (5 条)
 
-### 蔡徐坤新专辑《Deadman》暗黑氛围感拉满
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002kxeu.html>
-
-### 周杰伦演唱会这天，孙颖莎球迷上演跨界互动，江湖地位展露无遗
+### 新浪演唱会热点小时报丨2026年05月17日18时_今日实时演唱会热点速递
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905kutm.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905kwow.html>
 
-### 新浪演唱会热点小时报丨2026年05月17日17时_今日实时演唱会热点速递
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905ksty.html>
-
-### 暖心！外籍球迷在周杰伦演唱会替孙颖莎圆梦，万人合唱引泪目
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801kwoa.html>
-
-### 新浪演唱会热点小时报丨2026年05月17日16时_今日实时演唱会热点速递
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905kogk.html>
-
-### 周杰伦票价碾压同期演唱会，谁的“情怀”在买单？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905km1w.html>
-
-### 结束中美元首北京会晤数小时后，特朗普警告“台独”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: China Daily
-- 时间: 2026-05-17 08:48
-- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxPYlpmNU9jMWhxMFlxempnU0syUWR4VTJXaUtBeE13VFZDWW8xcXljeS1aREh4dU80NmJTcEVkRFRlbEZsUDdhNHdSbGN6b2wwclNwVTVDX01aM0Q4QXZTQ2RncTdkYmNqbEFsMldGRlUtWnYtdHRLb1M4bTlTUlJZRw?oc=5>
-
-### 特朗普结束访华后，中俄即宣布普京下周二起对中国进行国事访问
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-05-17 08:04
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBmcjM5MU42aW5lb0hUN0J0WG9nLWFVOERqSFJKNlZMYjJTVUNmM3Q0OEh3X2U0dWZtU1B3ZkhBQmxfUTlhRFdLc2ptVm5RZDMyaWlmVnZXRkVXM19MTFdBb2tsbGRhUdIBa0FVX3lxTE1mdF9kZ0sza1NWV3JualdjVEFmMW85V1FRR1FOUEhGWFJ2Szh0UEppaWZ4b3lxUm1WbDZJUXMxcThaQlptUkxTYlhMMFRLdVN2WGRGbEpXRTJGbFYzMk5VOUZkbGJwSXYtTm5B?oc=5>
-
-### 特朗普称此次中美元首会晤将载入史册
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-05-17 03:15
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5fb1FaX2xSSjhXaVhNdnJKSkROQ0F2c1hJbEpLdlZKbU9vUkJBRElwNFR6QnlnTGNTbDduZ0NGdVNVU1BxeWhHOVVFdWcwVWpVcjVpYmlaNDlMclh2RWllb2MxUFY3X20wZnZsR0dNem1qTFVVMkFKUw?oc=5>
-
-### 特朗普称不希望有人推动“台独”，国民党团：狠狠戳破民进党政治粉红泡泡
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-05-17 06:22
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFAtd2dHdGNlNDFQTUJGb0FHaHBocWlFRzBUTTlYcF95bDJQdzZuWURWSEJZbVNOUVZxYUZjZmpYY05NcXJnbVpXdDlHTEM?oc=5>
-
-### 特朗普手机历经数月延期，本周终于开始发货
+### 巴西总统卢拉：特朗普表示会审阅这份由巴西、土耳其与伊朗磋商达成的2010年核协议文件。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-15 10:31
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVDR2bnN5dy1va2twaTM5N2Z2ejJNR3k5enVZWVFsUzRjUUtxODB2WTdHcmN5Nzlqc2dxSE1oVnBHUjJiVEtIZkhKZFp2M196Zm52T0xfT1NfTHhyUF83WHZ3V0gwcUYyUnY2UFhPX2FBZWNsam5telc2WnpKbmZ1TEtSWFNjMjBIZXcxZnZqcVFrTkpiRmlQX3BONTIxMW5vM0pGeXlJbEZCbHdJcENZVG1mUWYyOU1GWTFHSzRRQzJMUDlSSVpVWlFSX2huQ3I3ajEzaVFTQlFLa2Y4dmMw?oc=5>
+- 时间: 2026-05-17 10:33
+- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE5PLVJOZXFxd2FTdDBaUjZXT0lIWHJ3ZXlpNTI3TEpiS01nOUhScWoxdEdxWkVrSTlJcnN2NHUwTTl2TW5obGxDZmVZc1FrdUk?oc=5>
 
-### 习近平同美国总统特朗普在中南海小范围会晤
+### 特朗普访华和中美关系走向的理解| 建投宏观 · 周君芝团队
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 习近平外交思想和新时代中国外交
-- 时间: 2026-05-17 09:20
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE9Ia2xUdE5rTnJ0MlNTX08tNEQ4alhjS1l3ZFBpby1sRVg3NzQwTHU2eU9WSjlSbWwtaEswVldUVUtwVTg4QVNsVE1yY3RyNUxnNWlqVk0xN2Y0eEE5T2ZnMThyc1JQeDY2YURzRndiakJOVkZY?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-05-17 09:47
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTFBuS3IyT1c4bS1wdERWMWxhZEthSXpxX3J0TWxNYzRIR1JfUkNjVW1uSWVCWW50emRUVTlYRGpxSDlMVmNHSXdQQUdMYWItek1aQ1g2Y0FvUHBwTjZTcFN3R0FHZW9ocmFQZldRQmtwUkNQbk5QdWc?oc=5>
+
+### 特朗普儿子，投出今年最大IPO
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-05-17 09:57
+- 链接: <https://news.google.com/rss/articles/CBMikAFBVV95cUxPOHVZcmVtZzAzdjZhY3hoTEZjY3pwUVBPWHBvN1k0QWE0NS1HNW1PUWZiSmRCZ08xb2ZGSHBnOGRRd2dhblAtX2ctMGhqUXpCOFd3ZHFCd3RUek9pNDRZNEhLaktueTRQaWU2SXlMUFd3VExZbHhZMXJNOEFyN0VQRVlieDlXek54UjJjYTg5dTg?oc=5>
+
+### 此行间·什么景观，让特朗普总统称赞“中国太美了”？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: China Daily
+- 时间: 2026-05-17 01:40
+- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxNQzBmS290U1RCZGFWSVNEYmJCUExRQ1loV3FOa0ZKWEs0UWZhTUV4Nnl6X19od2F2UldXLWRuU21oTnpQQ2V2ZmRYV1ZoeHBmQXFITlRSNEktN3J2dHJNQ0pQeWhDZGpXeFhQSWo0dkQwM2FTOFhLV1dPaVc1a2RpVA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-17 11:00  (5 条)
+
+- **周杰伦** | 新浪演唱会热点小时报丨2026年05月17日18时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001905kwow.html>
+- **特朗普** | 巴西总统卢拉：特朗普表示会审阅这份由巴西、土耳其与伊朗磋商达成的2010年核协议文件。 <https://news.google.com/rss/articles/CBMiT0FVX3lxTE5PLVJOZXFxd2FTdDBaUjZXT0lIWHJ3ZXlpNTI3TEpiS01nOUhScWoxdEdxWkVrSTlJcnN2NHUwTTl2TW5obGxDZmVZc1FrdUk?oc=5>
+- **特朗普** | 特朗普访华和中美关系走向的理解| 建投宏观 · 周君芝团队 <https://news.google.com/rss/articles/CBMidkFVX3lxTFBuS3IyT1c4bS1wdERWMWxhZEthSXpxX3J0TWxNYzRIR1JfUkNjVW1uSWVCWW50emRUVTlYRGpxSDlMVmNHSXdQQUdMYWItek1aQ1g2Y0FvUHBwTjZTcFN3R0FHZW9ocmFQZldRQmtwUkNQbk5QdWc?oc=5>
+- **特朗普** | 特朗普儿子，投出今年最大IPO <https://news.google.com/rss/articles/CBMikAFBVV95cUxPOHVZcmVtZzAzdjZhY3hoTEZjY3pwUVBPWHBvN1k0QWE0NS1HNW1PUWZiSmRCZ08xb2ZGSHBnOGRRd2dhblAtX2ctMGhqUXpCOFd3ZHFCd3RUek9pNDRZNEhLaktueTRQaWU2SXlMUFd3VExZbHhZMXJNOEFyN0VQRVlieDlXek54UjJjYTg5dTg?oc=5>
+- **特朗普** | 此行间·什么景观，让特朗普总统称赞“中国太美了”？ <https://news.google.com/rss/articles/CBMigAFBVV95cUxNQzBmS290U1RCZGFWSVNEYmJCUExRQ1loV3FOa0ZKWEs0UWZhTUV4Nnl6X19od2F2UldXLWRuU21oTnpQQ2V2ZmRYV1ZoeHBmQXFITlRSNEktN3J2dHJNQ0pQeWhDZGpXeFhQSWo0dkQwM2FTOFhLV1dPaVc1a2RpVA?oc=5>
 
 ### 2026-05-17 09:42  (12 条)
 
