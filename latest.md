@@ -1,44 +1,62 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-17 15:35**
-- 本轮扫到 1399 条, 新增 **4** 条
+- 最近更新: **2026-05-17 16:52**
+- 本轮扫到 1404 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (5 条)
 
 ### 周杰伦在温州的最后一场演唱会了吧，你赶上了吗
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301boim.html>
+- 链接: <https://k.sina.com.cn/article_7879924002_m1d5ae192203301cxoy.html>
 
-### 周杰伦温州演唱会把《蜗牛》定为城市主题曲真的戳爆了
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2164376267_m8101c2cb03302odoy.html>
-
-### 特朗普发文抨击众议员汤姆·马西 呼吁用选票将他赶下台
+### 特朗普：时间（对伊朗而言）至关重要。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-17 14:18
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5sNjBzcU9LRzI2M3FvRVU2UWV3RVcxV2J3WWduOFhoYVBOTldIQkttbjFyR003WkVPTTM2N3ljWmFvTG9yN3B3dXNWNA?oc=5>
+- 时间: 2026-05-17 16:44
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9zRUxLUmc0Tm55Vzl0ZmQwSU5iR3BJN0NsSnZlcEFkdlJpX3BBUmx3blhzWTN0MVlsLTZ3a1h5NmNlNWtORVNHX0VSVQ?oc=5>
 
-### 特朗普变得越来越不耐烦...
+### 日本最怕的事发生了：特朗普用15分钟电话，告诉东京什么叫战略施舍！
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-17 05:08
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5ucDNqaDVHOFVYNGU1X3FPbGZmNERRV0FwbDNDcXN4VGlpZGU3RXlqZUgxcURnX01OX2xXV3BXaHZLeVJEdGQ0NTVwRW1XdEptNDNBLWdKNGxaNkNGakxUSzNhTGFQMm81bE5WLXVWMzJTNnBtN2dkUA?oc=5>
+- 时间: 2026-05-17 11:57
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1vZW5KODFQSGpHZVN1c0lMNXRXR1FrSU9fc0o0cnZQb3VNNjk1dGNaTXlRZW9GQ3FMSGxPZ1FGa3JYQndnNk80OEE0eF9NNFZjYmhCUWZTUUczOXhlRlM3R2pGVzFsWER0Q2ZPZjdkdklzQXJEeG11Wg?oc=5>
+
+### 习近平同美国总统特朗普在中南海小范围会晤
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 习近平外交思想和新时代中国外交
+- 时间: 2026-05-17 09:19
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTFBxX0ZfcXpqZjJvYnBZallIQUlTaXFFdUI0Wm82ZThWQm94ZzVkaF9lSTF2Qkoxbk5vUjA2VzFJODFYckZGY2FYb0VlcHZKUjZwWkdDX2h2NXJjQ2NReHV1b0EzUkRqcFBCajdWYWo2bENYS1lHNEE?oc=5>
+
+### “江山如此多娇”川普儿子夫妇留影 发打卡长城照
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 文学城
+- 时间: 2026-05-17 15:29
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE04MzhjblFSakRqTExmWnZhQ0Ezd0ctd1NxVW5tcHYzSHpQRUJfdXBHdXF2cTM5enNqS2NyRThkeXFWbklvdWt2QU9zMmlNTzhEX3pBUk1EWlJPeUI3bmdjZ19ka0Y4WExs?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-17 16:52  (5 条)
+
+- **周杰伦** | 周杰伦在温州的最后一场演唱会了吧，你赶上了吗 <https://k.sina.com.cn/article_7879924002_m1d5ae192203301cxoy.html>
+- **特朗普** | 特朗普：时间（对伊朗而言）至关重要。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9zRUxLUmc0Tm55Vzl0ZmQwSU5iR3BJN0NsSnZlcEFkdlJpX3BBUmx3blhzWTN0MVlsLTZ3a1h5NmNlNWtORVNHX0VSVQ?oc=5>
+- **特朗普** | 日本最怕的事发生了：特朗普用15分钟电话，告诉东京什么叫战略施舍！ <https://news.google.com/rss/articles/CBMieEFVX3lxTE1vZW5KODFQSGpHZVN1c0lMNXRXR1FrSU9fc0o0cnZQb3VNNjk1dGNaTXlRZW9GQ3FMSGxPZ1FGa3JYQndnNk80OEE0eF9NNFZjYmhCUWZTUUczOXhlRlM3R2pGVzFsWER0Q2ZPZjdkdklzQXJEeG11Wg?oc=5>
+- **特朗普** | 习近平同美国总统特朗普在中南海小范围会晤 <https://news.google.com/rss/articles/CBMidkFVX3lxTFBxX0ZfcXpqZjJvYnBZallIQUlTaXFFdUI0Wm82ZThWQm94ZzVkaF9lSTF2Qkoxbk5vUjA2VzFJODFYckZGY2FYb0VlcHZKUjZwWkdDX2h2NXJjQ2NReHV1b0EzUkRqcFBCajdWYWo2bENYS1lHNEE?oc=5>
+- **Trump** | “江山如此多娇”川普儿子夫妇留影 发打卡长城照 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE04MzhjblFSakRqTExmWnZhQ0Ezd0ctd1NxVW5tcHYzSHpQRUJfdXBHdXF2cTM5enNqS2NyRThkeXFWbklvdWt2QU9zMmlNTzhEX3pBUk1EWlJPeUI3bmdjZ19ka0Y4WExs?oc=5>
 
 ### 2026-05-17 15:35  (4 条)
 
