@@ -1,56 +1,44 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-17 22:13**
-- 本轮扫到 1424 条, 新增 **5** 条
+- 最近更新: **2026-05-17 23:28**
+- 本轮扫到 1427 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (3 条)
 
-### 习近平同美国总统特朗普会谈
+### 周杰伦演唱会最佳物料
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 央视网
-- 时间: 2026-05-14 11:25
-- 链接: <https://news.google.com/rss/articles/CBMid0FVX3lxTE5GSm9xSzhrNndYTW8xMGFEaWxvcHVKdElNTDlGZzdObmVmWXBRLVVqcTBPcUZscU5ybGpxMk5nVW1iTk1PTUswQ2w0S0NoN1NaTkZnMGlWSjJQVWFFelhCclVZd3g3UHpVQVg0emNVNV9VY2FpVk1z?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905lh6w.html>
 
-### 特朗普在社交媒体发布了对伊朗的强硬围堵的照片。
+### 5月18日周末要闻：特朗普称伊朗问题时间紧迫 油价上涨
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-17 21:36
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9pc1h2OF9zOWl6T05tZ00xaHVvajNJVktac1hwa05iTm9uZE5qV3ZNNnpEOVZnYWxrVlJ3a1BCWF9HZE9yZHFIci1MY0luVk1Dd2RyeUdXYkJSaDl0V2Y0N3NYLWdUT1I3ZUJkN3ZfMDhfV1RPeXFsUw?oc=5>
+- 时间: 2026-05-17 22:30
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxPQWx5VFUwek5WUXNvdlBRSFZvd2FobXpZcHB1WnpsLUV1bGFZdTFWQXlxQzFBUEQwMjRITUh3U3lwcEdMaUVZZVVwbVVWaWlnRGdfektYWHJMTW4tTVBOaVNrYlhiMEp1ekZHY0VUaktjcEo0TEhXaG8zaUkzcFQ5dXJqQWZoV1k?oc=5>
 
-### 美贸易代表格里尔：特朗普权衡对台军售 美中关系成关键因素
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-05-17 21:26
-- 链接: <https://news.google.com/rss/articles/CBMimgNBVV95cUxQMVIyajhnQ21WQ2lVSzR5alNvU1ByNXAtTVM3cFFGS2NLUkpHLS1OdmRmMThrQmNadWZBblR3enNsOWlMd0pFckkzMVlXTjFYQjN4TVBpUENPY0pUb0MydXpnMV9QUnFLMVI5aUxfYWs0MjdwcDNad0NoZ1NPb1FEdXp6OTE0Vk5kSU1yLXlHNkZIMXBtdzlmbnBCV05HdEs1R1liYjZxUHdBWXQ3d3ZMTlEybTR0LU8wVWkybVJOZm1JcmlzMVVUTlM0dkt4N3JBV0prN1pFRjBncWdYYXNJeGpTZG4tS1hfUlViRUlKUGN4X25RQnJTS0FIOU9HdS0wRGNZY1dsRElXZDExbldBNmttdmVKNDJ5Skx5R2xoQk1PNTRESzM4ODRGVnFud1IyQklkWmFaQWtod0IxelUwYWxDWkx4UGkxZUllQ09RRkNOTmdzWnZXRm54eEVKT2ZVOFRRd0EyRkZGTUk5Y3E0U3Jlb1dKOGk1anFydkZ5d0dId2JCRkxrQnMwcWVsOE1sbnhaY3JuU0dtQQ?oc=5>
-
-### 特朗普就台湾问题表态
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-05-17 11:55
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ZbS1ScVZwSi1mZTJ5ZXg0d29WajJtMlozcXVZejZtZzZ4b1EtcWoyc0VfMk9iR0I0Zl9IVE1fZmhuOUxlWm93RldnU0cwU1daVDhObF83ZVhxNzVIT25ZZU1BN00?oc=5>
-
-### 白宫：中国承诺未来三年每年至少采购170亿美元美国农产品
+### 特朗普再次向伊朗发警告 Axios：白宫将讨论对伊军事选项
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: RFI
-- 时间: 2026-05-17 21:30
-- 链接: <https://news.google.com/rss/articles/CBMihANBVV95cUxNTEhwd00yNUpPbFVJeFl6aVRRWGVLSGhLOG5oMjhDeWVncTFDbWxLTWFsYncxMUVhbkVTbUhlelo5Zlhkdld1QzVMd0FnbE45aGM1TzA4YWdUMGo4Z2swcUpXUmZsZGxvaXJGV3llcWZzc1I5aG80RG92clMxdUdaTjVzQXVyTEhlNUp0UUR0b3NMUUktUmJhYncxam1aQ3EyUUI5bUNTTWo5SnF4OWtiWm04XzBITmRCMmliWVVkQ3hieHlEbGpQSnFvbmtIUDd2VDN2NURMNllGeUcxVDNsWVVuRTFGaDZhQ2s5YUdELUhDNHNwR3pRTEtGdEdwSFNMekdzUjZPN09sYmxId055SGphaHhrX0Nxa05hZTBvajJIWE1OMUYtTTNWbWJMSVctWG1TWDRrY3Z5azh1V2hmZlJHRHBpRnJrNDd5dThhUXdPUFpMcHVaNUI0ZGtRdmpGanowUmp3Tk1OS3A0ZmJfUlR0RlI4WnhmQjNfcHRoMTJxT01O?oc=5>
+- 时间: 2026-05-17 21:16
+- 链接: <https://news.google.com/rss/articles/CBMi8AJBVV95cUxQUjR0MklCLW93bFZfRmJBRUNFRi1ZZ2thYmMtSVhvX09PSjFIcFlSM2xaNWtFWGxtdlU0dmpvSHVFUUxjX2lEZHZvcEk2RHUyRDJWZy1GdlhURXJBZjNyczlobW1zRGl4R1VZcmFpdEpKVl9wVFUwQ2JEeWhrU280RFBMUnBGREVObzlCYU81ZmczeGlwMUp3T2dvS21uZ0prNzJBM3FWck5QR0ZNODRNMENkVTlyZWx6R1RpbTBWQWV0b1plMkV4aHF1Zjg0a29CLTAtWGluMWl1UU54ejFGNFRqSkgzU08tSzY5eE05ZFFZRGhjZ3pydnBTc1o2SVBoM3FrTk50aDBzZVdxWTBMYWZhNEc3bUliNjAtem5lajRvaUc4bndTaUFJOHVkRnRXSnpiYUVOQWVwXzRhRHhCbF9IeFhYTkdGMlVacDNKNjNtQTZmVVd2N3lHdXQ4T1ZsSUZrUktBVWhqcHBrdC1vQQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-17 23:28  (3 条)
+
+- **周杰伦** | 周杰伦演唱会最佳物料 <https://k.sina.com.cn/article_7857201856_1d45362c001905lh6w.html>
+- **特朗普** | 5月18日周末要闻：特朗普称伊朗问题时间紧迫 油价上涨 <https://news.google.com/rss/articles/CBMihwFBVV95cUxPQWx5VFUwek5WUXNvdlBRSFZvd2FobXpZcHB1WnpsLUV1bGFZdTFWQXlxQzFBUEQwMjRITUh3U3lwcEdMaUVZZVVwbVVWaWlnRGdfektYWHJMTW4tTVBOaVNrYlhiMEp1ekZHY0VUaktjcEo0TEhXaG8zaUkzcFQ5dXJqQWZoV1k?oc=5>
+- **Trump** | 特朗普再次向伊朗发警告 Axios：白宫将讨论对伊军事选项 <https://news.google.com/rss/articles/CBMi8AJBVV95cUxQUjR0MklCLW93bFZfRmJBRUNFRi1ZZ2thYmMtSVhvX09PSjFIcFlSM2xaNWtFWGxtdlU0dmpvSHVFUUxjX2lEZHZvcEk2RHUyRDJWZy1GdlhURXJBZjNyczlobW1zRGl4R1VZcmFpdEpKVl9wVFUwQ2JEeWhrU280RFBMUnBGREVObzlCYU81ZmczeGlwMUp3T2dvS21uZ0prNzJBM3FWck5QR0ZNODRNMENkVTlyZWx6R1RpbTBWQWV0b1plMkV4aHF1Zjg0a29CLTAtWGluMWl1UU54ejFGNFRqSkgzU08tSzY5eE05ZFFZRGhjZ3pydnBTc1o2SVBoM3FrTk50aDBzZVdxWTBMYWZhNEc3bUliNjAtem5lajRvaUc4bndTaUFJOHVkRnRXSnpiYUVOQWVwXzRhRHhCbF9IeFhYTkdGMlVacDNKNjNtQTZmVVd2N3lHdXQ4T1ZsSUZrUktBVWhqcHBrdC1vQQ?oc=5>
 
 ### 2026-05-17 22:13  (5 条)
 
