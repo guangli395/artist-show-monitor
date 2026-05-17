@@ -1,23 +1,17 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-17 19:00**
-- 本轮扫到 1413 条, 新增 **5** 条
+- 最近更新: **2026-05-17 20:07**
+- 本轮扫到 1416 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (3 条)
 
-### 温州周杰伦演唱会带动了当地哪些文旅消费？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801kypy.html>
-
-### 周杰伦这次温州演唱会的主题为什么是《蜗牛》？
+### 有哪些暖心瞬间发生在周杰伦温州演唱会的点歌环节？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801kypo.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801kyq6.html>
 
 ### 特朗普：仍认为伊朗希望达成协议
 
@@ -25,28 +19,26 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-05-17 18:54
-- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFZHpndkFaV1RBeE4xWjBYUDlZVXQxQ0pzYkF3Ym9qT1pROFBielB3U1l4V1lZU1Zyb1hkN3JUX1g4UHlCNXpPMExodUtqYVE?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9BTERwRmFMZDhEYVdDMlFqZ0hvMEh6dFFsRmw2VjNubjBSZHgxXzNVRHVSdEFxU1ViSkJ6N01mOWFxdEZQYXIyOTBxRQ?oc=5>
 
-### 特朗普：对伊朗而言，时限已所剩无几，他们最好赶快行动，否则将自身难保。
+### 特朗普周六在弗吉尼亚......_7x24快讯_新浪财经
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-17 16:43
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE4tdWhqZ1ZVV0c2a1BUT2t2VGR5ZzRZTUVLWW9vRzBQeENCUlpNdFRKdVBtVGYwd2tSbGNUb2tSd0VCVDlGNUFNTEprTExvWGpjTkFlcTI3VUstdnJUOWZrai1lQmMwY2xGZnFVczdhZlozcXBzRTd4cA?oc=5>
-
-### 有称特朗普与习近平谍对谍！
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-05-17 17:58
-- 链接: <https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZ01EWjRwRWl5bDJTU3NzZ1NNNk9jQU04b1otTjgwc2gwSERhRG5Va1VndVBuU3lFZ1MyTjJ1ejRiNmdBX3Y0M0FsNzh0TFhFSVA0V2k4QkpaS3dYMldfd0NGQTZLQnlnbmY2VllfQWs3YUo2NTBGZVNfQU1sNEpHcld1YmNqZUF4ai0xbzAwb2MwUjdjTEJjcV9wYTRBeXcyampTLThFZ3VxOUtlanRZYmw4b0hxLUpFY25HWFVjWEwzRXBlMURxNHB6MnB3dlE4RzE5Qk5heXh3Rk9yQzgxNlIxSU4zTzlwVmw2TkhLRnM?oc=5>
+- 时间: 2026-05-17 18:51
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBUaHdjYWJIbUFfRU0wSy16Z2lKYmstcnMxRVhFdTFlZkJxTVd2NmEybXBmSkZpak5TdzJabld2QWZPVkdiYk5qWjRfQQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-17 20:07  (3 条)
+
+- **周杰伦** | 有哪些暖心瞬间发生在周杰伦温州演唱会的点歌环节？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801kyq6.html>
+- **特朗普** | 特朗普：仍认为伊朗希望达成协议 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9BTERwRmFMZDhEYVdDMlFqZ0hvMEh6dFFsRmw2VjNubjBSZHgxXzNVRHVSdEFxU1ViSkJ6N01mOWFxdEZQYXIyOTBxRQ?oc=5>
+- **特朗普** | 特朗普周六在弗吉尼亚......_7x24快讯_新浪财经 <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBUaHdjYWJIbUFfRU0wSy16Z2lKYmstcnMxRVhFdTFlZkJxTVd2NmEybXBmSkZpak5TdzJabld2QWZPVkdiYk5qWjRfQQ?oc=5>
 
 ### 2026-05-17 19:00  (5 条)
 
