@@ -1,54 +1,53 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-17 16:52**
-- 本轮扫到 1404 条, 新增 **5** 条
+- 最近更新: **2026-05-17 17:54**
+- 本轮扫到 1408 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (4 条)
 
-### 周杰伦在温州的最后一场演唱会了吧，你赶上了吗
+### 周杰伦温州演唱会为何能吸引超过80%的跨省观众？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924002_m1d5ae192203301cxoy.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801kyke.html>
 
-### 特朗普：时间（对伊朗而言）至关重要。
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-17 16:44
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9zRUxLUmc0Tm55Vzl0ZmQwSU5iR3BJN0NsSnZlcEFkdlJpX3BBUmx3blhzWTN0MVlsLTZ3a1h5NmNlNWtORVNHX0VSVQ?oc=5>
-
-### 日本最怕的事发生了：特朗普用15分钟电话，告诉东京什么叫战略施舍！
+### 美国官员：特朗普预计于周二在白宫战情室与高层安全官员召开会议，研讨针对伊朗的应对方案，其中包含军事行动选项。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-17 11:57
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1vZW5KODFQSGpHZVN1c0lMNXRXR1FrSU9fc0o0cnZQb3VNNjk1dGNaTXlRZW9GQ3FMSGxPZ1FGa3JYQndnNk80OEE0eF9NNFZjYmhCUWZTUUczOXhlRlM3R2pGVzFsWER0Q2ZPZjdkdklzQXJEeG11Wg?oc=5>
+- 时间: 2026-05-17 17:17
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5yZmVYQXl0bzNvQlViLXFneXdYRkZ4TU45a1ZsX0NTTWlhRDNIb3VULUNLWE1SM2RJUHo3aU41V0VfYldQWERGTDE5SQ?oc=5>
 
-### 习近平同美国总统特朗普在中南海小范围会晤
+### 美国官员：特朗普仍有......_7x24快讯_新浪财经
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 习近平外交思想和新时代中国外交
-- 时间: 2026-05-17 09:19
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTFBxX0ZfcXpqZjJvYnBZallIQUlTaXFFdUI0Wm82ZThWQm94ZzVkaF9lSTF2Qkoxbk5vUjA2VzFJODFYckZGY2FYb0VlcHZKUjZwWkdDX2h2NXJjQ2NReHV1b0EzUkRqcFBCajdWYWo2bENYS1lHNEE?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-05-17 17:17
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBOUXk4MDZ5Tjh1UDJ4N2lORnROdjdzQkZSd2dST1VSRks5N3oxMmVPOEpiZXBaMGdYZWhaSEJsaGhpNHIwd1Mtd19YWQ?oc=5>
 
-### “江山如此多娇”川普儿子夫妇留影 发打卡长城照
+### 回应特朗普？赖清德谈“台独”：台湾不属于中华人民共和国
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 文学城
-- 时间: 2026-05-17 15:29
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE04MzhjblFSakRqTExmWnZhQ0Ezd0ctd1NxVW5tcHYzSHpQRUJfdXBHdXF2cTM5enNqS2NyRThkeXFWbklvdWt2QU9zMmlNTzhEX3pBUk1EWlJPeUI3bmdjZ19ka0Y4WExs?oc=5>
+- 场馆: dw.com
+- 时间: 2026-05-17 12:48
+- 链接: <https://news.google.com/rss/articles/CBMi3AJBVV95cUxObVo4bVJFN1JTTkdnaC02MmtodFJJVGtsdEI0OTJROTFQVGtMSGR4ZGkzWVZ4eGFrUTF2RU5GaVNSWnNrVXM1aVVDZ2E1a0NDMVlZaGlwSzZ5aW9FeFFWRFZJNlZkUTB2X3JJMm83NnlYbTVYVHdzZll6TUNqR0p2c3FOQ04zX2kzZmZOaXFOMjFSRVRoVDdIT1hxSGFOdExTMmZIajN6aWZmUDdmejViY3JUeVBMQVktZlZ5eTlsS1cyN1p3RVZ1QU1WTDZETEFWN0lmZ3hkZG9kQW5DYXFWUXFBZ1hKM0R6ZWcydEwyRmhhNDFsYzlMUlNteE93cXFxR1gzVm80V1lTbTJJQ2VUbWs1UjU5Tm5YUG1lQ0dpZVptVWkweW02VHpyRDFVN3RJNWxSTU5aS3hRbDVwYnhzMHVxM0FsLTZ3WndvekJtRURyVXdPMXJEQjl0Nmw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-17 17:54  (4 条)
+
+- **周杰伦** | 周杰伦温州演唱会为何能吸引超过80%的跨省观众？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801kyke.html>
+- **特朗普** | 美国官员：特朗普预计于周二在白宫战情室与高层安全官员召开会议，研讨针对伊朗的应对方案，其中包含军事行动选项。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5yZmVYQXl0bzNvQlViLXFneXdYRkZ4TU45a1ZsX0NTTWlhRDNIb3VULUNLWE1SM2RJUHo3aU41V0VfYldQWERGTDE5SQ?oc=5>
+- **特朗普** | 美国官员：特朗普仍有......_7x24快讯_新浪财经 <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBOUXk4MDZ5Tjh1UDJ4N2lORnROdjdzQkZSd2dST1VSRks5N3oxMmVPOEpiZXBaMGdYZWhaSEJsaGhpNHIwd1Mtd19YWQ?oc=5>
+- **特朗普** | 回应特朗普？赖清德谈“台独”：台湾不属于中华人民共和国 <https://news.google.com/rss/articles/CBMi3AJBVV95cUxObVo4bVJFN1JTTkdnaC02MmtodFJJVGtsdEI0OTJROTFQVGtMSGR4ZGkzWVZ4eGFrUTF2RU5GaVNSWnNrVXM1aVVDZ2E1a0NDMVlZaGlwSzZ5aW9FeFFWRFZJNlZkUTB2X3JJMm83NnlYbTVYVHdzZll6TUNqR0p2c3FOQ04zX2kzZmZOaXFOMjFSRVRoVDdIT1hxSGFOdExTMmZIajN6aWZmUDdmejViY3JUeVBMQVktZlZ5eTlsS1cyN1p3RVZ1QU1WTDZETEFWN0lmZ3hkZG9kQW5DYXFWUXFBZ1hKM0R6ZWcydEwyRmhhNDFsYzlMUlNteE93cXFxR1gzVm80V1lTbTJJQ2VUbWs1UjU5Tm5YUG1lQ0dpZVptVWkweW02VHpyRDFVN3RJNWxSTU5aS3hRbDVwYnhzMHVxM0FsLTZ3WndvekJtRURyVXdPMXJEQjl0Nmw?oc=5>
 
 ### 2026-05-17 16:52  (5 条)
 
