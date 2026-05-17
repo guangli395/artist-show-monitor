@@ -1,90 +1,115 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-17 07:31**
-- 本轮扫到 1369 条, 新增 **10** 条
+- 最近更新: **2026-05-17 09:42**
+- 本轮扫到 1381 条, 新增 **12** 条
 
 ---
 
-## 本轮新发现 (10 条)
+## 本轮新发现 (12 条)
 
-### 新浪演唱会热点小时报丨2026年05月17日15时_今日实时演唱会热点速递
+### 蔡徐坤新专辑《Deadman》暗黑氛围感拉满
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002kxeu.html>
+
+### 周杰伦演唱会这天，孙颖莎球迷上演跨界互动，江湖地位展露无遗
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905klnq.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905kutm.html>
 
-### 新浪演唱会热点小时报丨2026年05月17日14时_今日实时演唱会热点速递
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905khj8.html>
-
-### 新浪演唱会热点小时报丨2026年05月17日13时_今日实时演唱会热点速递
+### 新浪演唱会热点小时报丨2026年05月17日17时_今日实时演唱会热点速递
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905kcye.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905ksty.html>
+
+### 暖心！外籍球迷在周杰伦演唱会替孙颖莎圆梦，万人合唱引泪目
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801kwoa.html>
+
+### 新浪演唱会热点小时报丨2026年05月17日16时_今日实时演唱会热点速递
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905kogk.html>
+
+### 周杰伦票价碾压同期演唱会，谁的“情怀”在买单？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905km1w.html>
+
+### 结束中美元首北京会晤数小时后，特朗普警告“台独”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: China Daily
+- 时间: 2026-05-17 08:48
+- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxPYlpmNU9jMWhxMFlxempnU0syUWR4VTJXaUtBeE13VFZDWW8xcXljeS1aREh4dU80NmJTcEVkRFRlbEZsUDdhNHdSbGN6b2wwclNwVTVDX01aM0Q4QXZTQ2RncTdkYmNqbEFsMldGRlUtWnYtdHRLb1M4bTlTUlJZRw?oc=5>
+
+### 特朗普结束访华后，中俄即宣布普京下周二起对中国进行国事访问
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: BBC
+- 时间: 2026-05-17 08:04
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBmcjM5MU42aW5lb0hUN0J0WG9nLWFVOERqSFJKNlZMYjJTVUNmM3Q0OEh3X2U0dWZtU1B3ZkhBQmxfUTlhRFdLc2ptVm5RZDMyaWlmVnZXRkVXM19MTFdBb2tsbGRhUdIBa0FVX3lxTE1mdF9kZ0sza1NWV3JualdjVEFmMW85V1FRR1FOUEhGWFJ2Szh0UEppaWZ4b3lxUm1WbDZJUXMxcThaQlptUkxTYlhMMFRLdVN2WGRGbEpXRTJGbFYzMk5VOUZkbGJwSXYtTm5B?oc=5>
 
 ### 特朗普称此次中美元首会晤将载入史册
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-05-16 23:26
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxOQVNEb18xV3liLWNZMnNFUjFjdi1wdVhWbjhmWTFjb0pDNnZFZzJhYVBtVWRJdWZNYlhVUmV1ZzhTT3pRXy1sU2o0QTZhRnJrTzlFdWVyekJRLUR5U2UtTXZTU2RwWkQ0ZVlZYVMxRFBBU3JHLUpuVHE3a2p0X1Y0OFNWb2lyOWRBR3Jsem10cFFsQWQxLUJpWA?oc=5>
+- 时间: 2026-05-17 03:15
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5fb1FaX2xSSjhXaVhNdnJKSkROQ0F2c1hJbEpLdlZKbU9vUkJBRElwNFR6QnlnTGNTbDduZ0NGdVNVU1BxeWhHOVVFdWcwVWpVcjVpYmlaNDlMclh2RWllb2MxUFY3X20wZnZsR0dNem1qTFVVMkFKUw?oc=5>
 
-### 面对特朗普政府威胁，加拿大和北极国家“抱团取暖”：我们不怕你
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-17 06:14
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9Ub085UE5YbktreVVpdjRVNXpSZV9Xb3JlWXhIOWtVYnkxd1VfSWZwTy1YeDJvSG1JWFhCWFQ0Z3U4THZ6ZGhKWVNlaw?oc=5>
-
-### 特朗普结束访华回国途中，与高市早苗通电话
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-17 05:47
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5WZ1c1aGdoR08ydE5DdUtoTEI4U1NZNWZvYS1HZW90a0o0b1QtZEFCdGJmbnRESE5XX1pUWTktSGU1N1hDbHFaRkN3cw?oc=5>
-
-### 杨德龙：特朗普访华体现了中美对等关系 美通胀再起导致美联储推迟降息
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-17 05:55
-- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxPalkwWkF2ZWl6S3BDa2Y0d1dTNEZKUFhaMTFEOG5JaGE4V0ktRDJ0MUlEN2NKaGlDYkpETkdIeTBXR05PeWFBRVJuZThDR0dWTFNBTGJSazVTc2VoOTFlVUxnd1BLVURndkhvbXc4d3dTeTA5cjQxaVY3TWJJZ0FySXVySmZTek8zeVd1cVR3Vy1ROHJu?oc=5>
-
-### 此行间·什么景观，让特朗普总统称赞“中国太美了”？
+### 特朗普称不希望有人推动“台独”，国民党团：狠狠戳破民进党政治粉红泡泡
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-05-17 00:51
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE8xcU5hZjZMNHdScm4wVHVYMHhRYWVERlRSVnFodlA1MzJ0RjhzZHFvTEIwMTBJREYyX3k1cmdxMlRhdGY0TFJDVGh3Rm0?oc=5>
+- 时间: 2026-05-17 06:22
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFAtd2dHdGNlNDFQTUJGb0FHaHBocWlFRzBUTTlYcF95bDJQdzZuWURWSEJZbVNOUVZxYUZjZmpYY05NcXJnbVpXdDlHTEM?oc=5>
 
-### 习近平为美国总统特朗普举行欢迎宴会
+### 特朗普手机历经数月延期，本周终于开始发货
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-05-14 12:57
-- 链接: <https://news.google.com/rss/articles/CBMilgFBVV95cUxNSllETTBmdDFpSGgyaHZKWE9MNTl0d0V4V3hWZ0kzQk84ZVpyTXl0SzZyRVNPczkwcFpJR2VFZmFuT0hjeUZUZmNCX3BjTXJuX083Q1NSTEFUOXVBSEpJek9KNG91dG43Rno2TlBMZUVkTWkwY2ptSjk3ekJELW4yUGlmT2J0b2FMM0JDSlktZHBxQVV6VGc?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-05-15 10:31
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVDR2bnN5dy1va2twaTM5N2Z2ejJNR3k5enVZWVFsUzRjUUtxODB2WTdHcmN5Nzlqc2dxSE1oVnBHUjJiVEtIZkhKZFp2M196Zm52T0xfT1NfTHhyUF83WHZ3V0gwcUYyUnY2UFhPX2FBZWNsam5telc2WnpKbmZ1TEtSWFNjMjBIZXcxZnZqcVFrTkpiRmlQX3BONTIxMW5vM0pGeXlJbEZCbHdJcENZVG1mUWYyOU1GWTFHSzRRQzJMUDlSSVpVWlFSX2huQ3I3ajEzaVFTQlFLa2Y4dmMw?oc=5>
 
-### The Deal Beijing Offered Trump: Constructive Strategic Stability
+### 习近平同美国总统特朗普在中南海小范围会晤
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Tracking People's Daily
-- 时间: 2026-05-17 05:19
-- 链接: <https://news.google.com/rss/articles/CBMikAFBVV95cUxNVHRwT1R1QVp1Yjg1MTJPMXB4d0hnT0otS0liYUkyUm9pcE9VVnM1d3FTUFJVb0lMQktzamZwVVhOaXhXSjF5VVJZZ2hDc3JLWG1QZ2czNkVHZDdLd2k4N2l3cVFRZnlybF9iWFlZcnhZYUNXZnE3LWNIWWExSmdyQm1mLVFtTEVXc1ZObEwyTl8?oc=5>
+- 场馆: 习近平外交思想和新时代中国外交
+- 时间: 2026-05-17 09:20
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE9Ia2xUdE5rTnJ0MlNTX08tNEQ4alhjS1l3ZFBpby1sRVg3NzQwTHU2eU9WSjlSbWwtaEswVldUVUtwVTg4QVNsVE1yY3RyNUxnNWlqVk0xN2Y0eEE5T2ZnMThyc1JQeDY2YURzRndiakJOVkZY?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-17 09:42  (12 条)
+
+- **蔡徐坤** | 蔡徐坤新专辑《Deadman》暗黑氛围感拉满 <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002kxeu.html>
+- **周杰伦** | 周杰伦演唱会这天，孙颖莎球迷上演跨界互动，江湖地位展露无遗 <https://k.sina.com.cn/article_7857201856_1d45362c001905kutm.html>
+- **周杰伦** | 新浪演唱会热点小时报丨2026年05月17日17时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001905ksty.html>
+- **周杰伦** | 暖心！外籍球迷在周杰伦演唱会替孙颖莎圆梦，万人合唱引泪目 <https://k.sina.com.cn/article_7879776328_1d5abd84806801kwoa.html>
+- **周杰伦** | 新浪演唱会热点小时报丨2026年05月17日16时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001905kogk.html>
+- **周杰伦** | 周杰伦票价碾压同期演唱会，谁的“情怀”在买单？ <https://k.sina.com.cn/article_7857201856_1d45362c001905km1w.html>
+- **特朗普** | 结束中美元首北京会晤数小时后，特朗普警告“台独” <https://news.google.com/rss/articles/CBMigAFBVV95cUxPYlpmNU9jMWhxMFlxempnU0syUWR4VTJXaUtBeE13VFZDWW8xcXljeS1aREh4dU80NmJTcEVkRFRlbEZsUDdhNHdSbGN6b2wwclNwVTVDX01aM0Q4QXZTQ2RncTdkYmNqbEFsMldGRlUtWnYtdHRLb1M4bTlTUlJZRw?oc=5>
+- **特朗普** | 特朗普结束访华后，中俄即宣布普京下周二起对中国进行国事访问 <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBmcjM5MU42aW5lb0hUN0J0WG9nLWFVOERqSFJKNlZMYjJTVUNmM3Q0OEh3X2U0dWZtU1B3ZkhBQmxfUTlhRFdLc2ptVm5RZDMyaWlmVnZXRkVXM19MTFdBb2tsbGRhUdIBa0FVX3lxTE1mdF9kZ0sza1NWV3JualdjVEFmMW85V1FRR1FOUEhGWFJ2Szh0UEppaWZ4b3lxUm1WbDZJUXMxcThaQlptUkxTYlhMMFRLdVN2WGRGbEpXRTJGbFYzMk5VOUZkbGJwSXYtTm5B?oc=5>
+- **特朗普** | 特朗普称此次中美元首会晤将载入史册 <https://news.google.com/rss/articles/CBMieEFVX3lxTE5fb1FaX2xSSjhXaVhNdnJKSkROQ0F2c1hJbEpLdlZKbU9vUkJBRElwNFR6QnlnTGNTbDduZ0NGdVNVU1BxeWhHOVVFdWcwVWpVcjVpYmlaNDlMclh2RWllb2MxUFY3X20wZnZsR0dNem1qTFVVMkFKUw?oc=5>
+- **特朗普** | 特朗普称不希望有人推动“台独”，国民党团：狠狠戳破民进党政治粉红泡泡 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFAtd2dHdGNlNDFQTUJGb0FHaHBocWlFRzBUTTlYcF95bDJQdzZuWURWSEJZbVNOUVZxYUZjZmpYY05NcXJnbVpXdDlHTEM?oc=5>
+- **特朗普** | 特朗普手机历经数月延期，本周终于开始发货 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVDR2bnN5dy1va2twaTM5N2Z2ejJNR3k5enVZWVFsUzRjUUtxODB2WTdHcmN5Nzlqc2dxSE1oVnBHUjJiVEtIZkhKZFp2M196Zm52T0xfT1NfTHhyUF83WHZ3V0gwcUYyUnY2UFhPX2FBZWNsam5telc2WnpKbmZ1TEtSWFNjMjBIZXcxZnZqcVFrTkpiRmlQX3BONTIxMW5vM0pGeXlJbEZCbHdJcENZVG1mUWYyOU1GWTFHSzRRQzJMUDlSSVpVWlFSX2huQ3I3ajEzaVFTQlFLa2Y4dmMw?oc=5>
+- **特朗普** | 习近平同美国总统特朗普在中南海小范围会晤 <https://news.google.com/rss/articles/CBMidEFVX3lxTE9Ia2xUdE5rTnJ0MlNTX08tNEQ4alhjS1l3ZFBpby1sRVg3NzQwTHU2eU9WSjlSbWwtaEswVldUVUtwVTg4QVNsVE1yY3RyNUxnNWlqVk0xN2Y0eEE5T2ZnMThyc1JQeDY2YURzRndiakJOVkZY?oc=5>
 
 ### 2026-05-17 07:31  (10 条)
 
