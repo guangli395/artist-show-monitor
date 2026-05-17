@@ -1,96 +1,103 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-17 04:37**
-- 本轮扫到 1359 条, 新增 **11** 条
+- 最近更新: **2026-05-17 07:31**
+- 本轮扫到 1369 条, 新增 **10** 条
 
 ---
 
-## 本轮新发现 (11 条)
+## 本轮新发现 (10 条)
 
-### 两个半小时 回忆了26年青春 如果时钟倒叙 每首歌都会唱的演唱会
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1862727307_m6f06f68b03301aiq6.html>
-
-### 周杰伦演唱会巨型吉祥物成打卡热点，粉丝争相合影
+### 新浪演唱会热点小时报丨2026年05月17日15时_今日实时演唱会热点速递
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2016483877_78311a2504001ii76.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905klnq.html>
 
-### 周杰伦温州演唱会以蜗牛为主题传递励志精神
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2016483877_78311a2504001ii6u.html>
-
-### 外国球迷周杰伦演唱会为孙颖莎点歌
+### 新浪演唱会热点小时报丨2026年05月17日14时_今日实时演唱会热点速递
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://video.sina.com.cn/p/finance/2026-05-17/detail-inhyekzt3755348.d.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905khj8.html>
 
-### 特朗普白宫宴会厅安保拨款遭参议院裁定删除
+### 新浪演唱会热点小时报丨2026年05月17日13时_今日实时演唱会热点速递
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905kcye.html>
+
+### 特朗普称此次中美元首会晤将载入史册
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-05-16 23:26
+- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxOQVNEb18xV3liLWNZMnNFUjFjdi1wdVhWbjhmWTFjb0pDNnZFZzJhYVBtVWRJdWZNYlhVUmV1ZzhTT3pRXy1sU2o0QTZhRnJrTzlFdWVyekJRLUR5U2UtTXZTU2RwWkQ0ZVlZYVMxRFBBU3JHLUpuVHE3a2p0X1Y0OFNWb2lyOWRBR3Jsem10cFFsQWQxLUJpWA?oc=5>
+
+### 面对特朗普政府威胁，加拿大和北极国家“抱团取暖”：我们不怕你
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-17 03:33
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9NRHlUNlhqSjR0LWlKLWFoSFZLb1A1MER6SUp5SkJHSVZDdWJkRHNKTE0xUUxNVWczVDNfMDhZWDk1Q3BSQUEwZDZxMA?oc=5>
+- 时间: 2026-05-17 06:14
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9Ub085UE5YbktreVVpdjRVNXpSZV9Xb3JlWXhIOWtVYnkxd1VfSWZwTy1YeDJvSG1JWFhCWFQ0Z3U4THZ6ZGhKWVNlaw?oc=5>
 
-### 日本慌了？特朗普结束访华回国飞机上，高市早苗就急着打电话
+### 特朗普结束访华回国途中，与高市早苗通电话
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-17 04:12
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE1aSkw3NUVROWVndGViSVlRT2Frb0JHMkxFLVBlWF9fT3hUWjhPM0hNRUNxcDlRYVl3V1VxUUlwRmFNc1hTVGk3TThjNEt6Tk5lcVFuOU1CcTRUV0xGNUxQdDkyOGtGVVBMZDF6a2pqa0pXSVpSdkE?oc=5>
+- 时间: 2026-05-17 05:47
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5WZ1c1aGdoR08ydE5DdUtoTEI4U1NZNWZvYS1HZW90a0o0b1QtZEFCdGJmbnRESE5XX1pUWTktSGU1N1hDbHFaRkN3cw?oc=5>
 
-### 特朗普发出警告后，台湾仍坚称本身就是主权独立的国家
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-05-17 04:05
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE4xRnhGVm1reUFvWW84eWxodFBQT0hVZG9XdzNmSllBdDhVRE9XNlItVjY4ZEJ5RnpGS2tpUmxJanFDa2NvemNwVkktbS1aYWxpQVZmRFB3bmI4MkZXTnI0OF9CME5SQdIBa0FVX3lxTE1UOVpqQUdrZkRTaDIyOXd0WXBnVG01S0ZHdVIxNkY1eWFnMmIyQTlBcDVISDZPbzlsTTM0WTFZTHBQTFVYVVo5Rl9DSVFjRlF2Qi1HSXo4T2tob21OM0xEVFA5Vk9RWm83eUxj?oc=5>
-
-### 外媒称特朗普对华越发务实
+### 杨德龙：特朗普访华体现了中美对等关系 美通胀再起导致美联储推迟降息
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-05-16 23:51
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1CcGFaNER3X3Y2UW1Hb25tU1RrWEZYWVhwbk1aWU9LUDZGZXpzWUxuTjVRTDdIZlNPRHJmX3lQUVFQSzdJU3hYcFRHaTU?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-05-17 05:55
+- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxPalkwWkF2ZWl6S3BDa2Y0d1dTNEZKUFhaMTFEOG5JaGE4V0ktRDJ0MUlEN2NKaGlDYkpETkdIeTBXR05PeWFBRVJuZThDR0dWTFNBTGJSazVTc2VoOTFlVUxnd1BLVURndkhvbXc4d3dTeTA5cjQxaVY3TWJJZ0FySXVySmZTek8zeVd1cVR3Vy1ROHJu?oc=5>
 
 ### 此行间·什么景观，让特朗普总统称赞“中国太美了”？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 光明网
-- 时间: 2026-05-17 00:22
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFAyWTBUczBLTHE2Mm9XU1hlNXZiWGs2LTdBR2VsdGxFdnp6ZVhlRk1tLWgtTUMxWlNXckxnMjNzckUtMW5DcmlCb21OZDlfa1g0eUxGV2NGV0k2Q1UyaVZNQ2hqWFJMUQ?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-05-17 00:51
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE8xcU5hZjZMNHdScm4wVHVYMHhRYWVERlRSVnFodlA1MzJ0RjhzZHFvTEIwMTBJREYyX3k1cmdxMlRhdGY0TFJDVGh3Rm0?oc=5>
 
-### 特朗普访华团里，被忽略的“粮食大佬”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-05-16 23:51
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LX0NMZlFVNmpQTTZzVXpIZGNlZWg4VS1QSUlMc2c4TjlEZ1FVOEl1bmM1MlEyU1dSZU9RU29uUXRwb3owUWtsemlpczNIRm5WUHNPRzFKd0Nxb3p1YXc?oc=5>
-
-### 特朗普：美军与尼日利亚军方联合，击毙ISIS“二号人物”-观察者网
+### 习近平为美国总统特朗普举行欢迎宴会
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-05-16 07:58
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE8xVmw3UkJfUXRKSDUwZVV1cjRHaUFOMlRYbUJia3RzRUVURS1EX1Z4UkJkXzRGZW85bGRYa3pMNDB5dTI3UWdfYUl3ZnVMZnctMHpZbDdocnIybG9Sc0NpODBFV1JZQTBhcUE?oc=5>
+- 场馆: 新华网
+- 时间: 2026-05-14 12:57
+- 链接: <https://news.google.com/rss/articles/CBMilgFBVV95cUxNSllETTBmdDFpSGgyaHZKWE9MNTl0d0V4V3hWZ0kzQk84ZVpyTXl0SzZyRVNPczkwcFpJR2VFZmFuT0hjeUZUZmNCX3BjTXJuX083Q1NSTEFUOXVBSEpJek9KNG91dG43Rno2TlBMZUVkTWkwY2ptSjk3ekJELW4yUGlmT2J0b2FMM0JDSlktZHBxQVV6VGc?oc=5>
+
+### The Deal Beijing Offered Trump: Constructive Strategic Stability
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Tracking People's Daily
+- 时间: 2026-05-17 05:19
+- 链接: <https://news.google.com/rss/articles/CBMikAFBVV95cUxNVHRwT1R1QVp1Yjg1MTJPMXB4d0hnT0otS0liYUkyUm9pcE9VVnM1d3FTUFJVb0lMQktzamZwVVhOaXhXSjF5VVJZZ2hDc3JLWG1QZ2czNkVHZDdLd2k4N2l3cVFRZnlybF9iWFlZcnhZYUNXZnE3LWNIWWExSmdyQm1mLVFtTEVXc1ZObEwyTl8?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-17 07:31  (10 条)
+
+- **周杰伦** | 新浪演唱会热点小时报丨2026年05月17日15时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001905klnq.html>
+- **周杰伦** | 新浪演唱会热点小时报丨2026年05月17日14时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001905khj8.html>
+- **周杰伦** | 新浪演唱会热点小时报丨2026年05月17日13时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001905kcye.html>
+- **特朗普** | 特朗普称此次中美元首会晤将载入史册 <https://news.google.com/rss/articles/CBMimAFBVV95cUxOQVNEb18xV3liLWNZMnNFUjFjdi1wdVhWbjhmWTFjb0pDNnZFZzJhYVBtVWRJdWZNYlhVUmV1ZzhTT3pRXy1sU2o0QTZhRnJrTzlFdWVyekJRLUR5U2UtTXZTU2RwWkQ0ZVlZYVMxRFBBU3JHLUpuVHE3a2p0X1Y0OFNWb2lyOWRBR3Jsem10cFFsQWQxLUJpWA?oc=5>
+- **特朗普** | 面对特朗普政府威胁，加拿大和北极国家“抱团取暖”：我们不怕你 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9Ub085UE5YbktreVVpdjRVNXpSZV9Xb3JlWXhIOWtVYnkxd1VfSWZwTy1YeDJvSG1JWFhCWFQ0Z3U4THZ6ZGhKWVNlaw?oc=5>
+- **特朗普** | 特朗普结束访华回国途中，与高市早苗通电话 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5WZ1c1aGdoR08ydE5DdUtoTEI4U1NZNWZvYS1HZW90a0o0b1QtZEFCdGJmbnRESE5XX1pUWTktSGU1N1hDbHFaRkN3cw?oc=5>
+- **特朗普** | 杨德龙：特朗普访华体现了中美对等关系 美通胀再起导致美联储推迟降息 <https://news.google.com/rss/articles/CBMilAFBVV95cUxPalkwWkF2ZWl6S3BDa2Y0d1dTNEZKUFhaMTFEOG5JaGE4V0ktRDJ0MUlEN2NKaGlDYkpETkdIeTBXR05PeWFBRVJuZThDR0dWTFNBTGJSazVTc2VoOTFlVUxnd1BLVURndkhvbXc4d3dTeTA5cjQxaVY3TWJJZ0FySXVySmZTek8zeVd1cVR3Vy1ROHJu?oc=5>
+- **特朗普** | 此行间·什么景观，让特朗普总统称赞“中国太美了”？ <https://news.google.com/rss/articles/CBMiTEFVX3lxTE8xcU5hZjZMNHdScm4wVHVYMHhRYWVERlRSVnFodlA1MzJ0RjhzZHFvTEIwMTBJREYyX3k1cmdxMlRhdGY0TFJDVGh3Rm0?oc=5>
+- **特朗普** | 习近平为美国总统特朗普举行欢迎宴会 <https://news.google.com/rss/articles/CBMilgFBVV95cUxNSllETTBmdDFpSGgyaHZKWE9MNTl0d0V4V3hWZ0kzQk84ZVpyTXl0SzZyRVNPczkwcFpJR2VFZmFuT0hjeUZUZmNCX3BjTXJuX083Q1NSTEFUOXVBSEpJek9KNG91dG43Rno2TlBMZUVkTWkwY2ptSjk3ekJELW4yUGlmT2J0b2FMM0JDSlktZHBxQVV6VGc?oc=5>
+- **Trump** | The Deal Beijing Offered Trump: Constructive Strategic Stability <https://news.google.com/rss/articles/CBMikAFBVV95cUxNVHRwT1R1QVp1Yjg1MTJPMXB4d0hnT0otS0liYUkyUm9pcE9VVnM1d3FTUFJVb0lMQktzamZwVVhOaXhXSjF5VVJZZ2hDc3JLWG1QZ2czNkVHZDdLd2k4N2l3cVFRZnlybF9iWFlZcnhZYUNXZnE3LWNIWWExSmdyQm1mLVFtTEVXc1ZObEwyTl8?oc=5>
 
 ### 2026-05-17 04:37  (11 条)
 
