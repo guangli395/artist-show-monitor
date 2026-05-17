@@ -1,32 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-16 23:13**
-- 本轮扫到 1347 条, 新增 **2** 条
+- 最近更新: **2026-05-17 00:12**
+- 本轮扫到 1348 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (1 条)
 
-### 特朗普谈及伊朗问题：“我们这么做，是为了扶持以色列、沙特阿拉伯、卡塔尔、阿联酋，还有科威特以及巴林等。”
+### 外媒称特朗普对华越发务实
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-16 23:07
-- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTFBZcFU5b0tYS1ZYZERGc25QZmJ4N2IzdFhMeF9XYk51UUptZHFmdjVUbE9KVlhROURXNjMxZ3I3ODkzeTBrcmtHWVdSMGw5TlE?oc=5>
-
-### Relationship between the U.S. and China is a very strong one: Trump
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 澳門廣播電視股份有限公司
-- 时间: 2026-05-15 06:48
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxNX0xHdVpNUjNvcU1Wb2gxYWYxRGNZWlJZMHBhS1dFSndsVXhvWDU5MkdTLXpJLTNZVzR0dGZGTnMxMnRvXzN6aDZBTHhYWlZyTlBteUFNaWtvRkdIMHFSTWVlWmxrLXduMFR3VFdRUEVRMW9tbTl1MHhOX3hnR1dLYkd3X0UycXBXSE1US1ZJZVFoMjVJRDFHMw?oc=5>
+- 时间: 2026-05-16 23:33
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ubi1YTFpUVy1LNUpUeWw0QmRKTXQyYWdubUhkaDlHSjNKVjRGZy1wcFpvYk0wLVdSeXJnTUpvV1ZwZzZLMlAzdncyTQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-17 00:12  (1 条)
+
+- **特朗普** | 外媒称特朗普对华越发务实 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ubi1YTFpUVy1LNUpUeWw0QmRKTXQyYWdubUhkaDlHSjNKVjRGZy1wcFpvYk0wLVdSeXJnTUpvV1ZwZzZLMlAzdncyTQ?oc=5>
 
 ### 2026-05-16 23:13  (2 条)
 
