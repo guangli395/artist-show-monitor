@@ -1,56 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-18 21:45**
-- 本轮扫到 1522 条, 新增 **5** 条
+- 最近更新: **2026-05-18 22:55**
+- 本轮扫到 1526 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (4 条)
 
-### 特朗普称已取消原定于明天对伊朗发动袭击的计划
+### 特朗普政府将仿制药纳入特朗普处方药计划
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-18 19:09
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE85OFRILXRpZGVMNVNiTklKdkxxTS11VnR5NUZOMVlNMjFja1BTOXE3TFpBN215bzhuLURmM0NQUzNRQzEwMm9fVC10WQ?oc=5>
+- 时间: 2026-05-18 22:32
+- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTFA3NHhnb095Y3FrVW1oZ2dnQm5tNGtnSjIyNlJsRXRXYjZuQVNNTHlzOE5sMk1nX1lRcVVOUlpRRGFfZTk0RkhiUm1GUG5UN0x0eEtPNzJzc0lRUzNNM3BjWjNKalNCYTZVSFRybURPYVdRdHhlRHlscF9B?oc=5>
 
-### 国际观察丨特朗普连发威胁，中东战火重燃的风险犹存
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中国网
-- 时间: 2026-05-18 21:32
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE8tbHZ5b1Y5SVUzcHhSNnNGcWc1bGxOZnktVzJzTm5hVDEyaC16LUZ0WGV1eEJCRzdCTGVjZ1VSa2h0QlUwWk1GUHFtNGNHMFBXa01Tbm1NU2ltbUdJcWhfaGFrbFQyUENJaUtKaS1Eaw?oc=5>
-
-### 日韩首脑主动联系特朗普 欲了解中美元首会谈结果
+### 习近平同美国总统特朗普在中南海小范围会晤
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 财新
-- 时间: 2026-05-18 14:15
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFA0WFVVb2VzRUttT2RPbFNPZGhlMEc2QWpVRjdKWTRua1dvRFA3eS1BbkFBaHhoT194d3dSb3E0b1VpcVVXb1NhSS1CQ2t4eTJVcU4zS1VZT3Q4WTBBOHE2MHRhMkcxYldibXc?oc=5>
+- 场馆: 人民日报
+- 时间: 2026-05-15 21:45
+- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxQTWhZYXRkUXBrdF82bFFGTEM1cC02TV9kS0ZDdUVvWWo1Rm5scExWakZidTloMkpYNWZpdDluTlg3WlFmeXQ1ZkFFNnFHaXdTWUE1Sm1ZaU1lemN4Y2dvMDYwTGVfWHhUbWswWkEzNGROelFBVmRRT1dNaDNZRkVGVA?oc=5>
 
-### 特朗普访华后在回国专机上与高市通电话 高市表示无法透露细节
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-05-16 09:29
-- 链接: <https://news.google.com/rss/articles/CBMisANBVV95cUxOZlVLS3QtaVpXLXJCTGV3YXdfbGUxRGJ0S1ZEQnI3bWZVMDdnUkJ0Nmdlb3dnYXhKaWtUMFBVYjFvNFZXZFIwWkx1cGg0Z0lLdWNVTVphNjZiRGpzbVBHbEdYa1VxSFJ3UVRBVkZyUTNpMzgzVnBwNDFWelFkNjd1R0xJdXNYNm9mOENnR0lGYVY2N3hZNkV4enNEaXRvbTZBb1VsTHRrRGc0bjI4a1NvTnNISjVGc3o2YUhRTlZVaGRnZjRkTGJ3Vy1rOENTMUdJZUN1QnE0dnBjem53enpCN0d0dS1jSWxkSldZaUQycmxUZVhENnhxR1dkaGdBVVNENkZKVTRpUmpRTWtnUS1EeUlkTS04NFU1WUZTZlZRNkMwYko3ZjZYSzJDMHRCZkJibEp1Y0ZSdEUxdVRKdHYtSjNiSUdsZmJFM05MLVEzdWRYSHBPOW0xVUJsa1JHUm9mclZxU2NqY0FMenVraS1tbW45akppMkxZb19XZ1JUdE56dmhxbTBGV0pLaTVLMkd4ZEhRQ2hjZTRSaHFlbUQ4Mm1WNkhBTXJ5Zm92alJmcUk?oc=5>
-
-### 美股指数收复部分失地；特朗普押后对伊朗攻击
+### 美参院外委会批总统“单打独斗” 令美国陷入被动
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: AASTOCKS.com
-- 时间: 2026-05-18 21:10
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE8zUm9uMW5zVFFYVWdrWkFNTVBZcVBZUU84ZjdRMUpkVldCVXc2MkFnTnBtd1M2RnVEMUlSUFBVbG1heGVyeDF3Yi1vNkFRV3JPYTN0TDdaclRrYU43Z3N1cG1LXzV6blJITjBZekxOOA?oc=5>
+- 场馆: wenxuecity
+- 时间: 2026-05-17 21:06
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3Vnc1RTg4RjFMaHk0SVhoOWJrRXZNZjlpUWNkR0hHb094cllZdlJ4R0M3ZnVKRU1CRlN5LWwxa3hjdmFoVzFRckNBOGNOdXNJdkNfcHJpQzlLTUM0RFNjYXpsSHdnTUdj?oc=5>
+
+### 特朗普称应卡塔尔、沙特和阿联酋要求，美国将“暂缓”对伊朗政权即将发动的打击计划
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-05-18 21:47
+- 链接: <https://news.google.com/rss/articles/CBMiiwJBVV95cUxOU1hLSW5WY0FUZ0pqVjB5bFNGMzE4cjI5UHV4QWdNUmhpTHlNMVZTdTMwQ1NQVFFBVkhzOVZPTnczRWd4R1ljQ1JmRkprRXFtUHVqMk1memh2bnpMUzIwaHVscFliRkVMS0NCaC1RN005YW9ZdEtETDFHbVpYOWxUZ0hKY2FNN0UtdXlULXFrQnRyQ2YxRy13RHNiTTRhekQ4TFRQOWVLelhQSGRWejc4LTJTZC1rdnRLWjA1TmowVzVJTFd1aVA4QnExdXFUMjhWSENDMWtqVXhsTllDdjkybW1pNlZXWWp0NW9ZalNmUnhlc0Y1SmNYLXlnekkyNWVfMDFtWjdfeTRQTTjSAY4CQVVfeXFMTWhrS0JvdGFPYnQ5YzhINldkQ1VJV25US1g4Nm12ZnNEM3ZaRW52LUVlVmZsOXVNU1ZsSUowWWdSbnNjaEp1VEp6TnpJRnVDUjFiaHFRLTVZLVVKWnpiaGoxUU51ZmxKV2Utd0VNQUxzdFhucnc0NGpEaXZEdERVbzJyODQwV1hvaDhqMlRJcWFYcFRMSUljSUw3ZU9sTDZEM3JoSGRFc0Nkb0N5Vm14a2t1RXNRR1V1YkpELUpObEpMeEZvNHFRYkwtY3U1U0tHRVoxSUZuSUVrWjBHb3RZUDhXMlJvUnVaY0JBWGJnN2J2NUs4LWh5eGxPRE5ZSFlkYjlDMkh2REZEX2QyUE9B?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-18 22:55  (4 条)
+
+- **特朗普** | 特朗普政府将仿制药纳入特朗普处方药计划 <https://news.google.com/rss/articles/CBMiekFVX3lxTFA3NHhnb095Y3FrVW1oZ2dnQm5tNGtnSjIyNlJsRXRXYjZuQVNNTHlzOE5sMk1nX1lRcVVOUlpRRGFfZTk0RkhiUm1GUG5UN0x0eEtPNzJzc0lRUzNNM3BjWjNKalNCYTZVSFRybURPYVdRdHhlRHlscF9B?oc=5>
+- **特朗普** | 习近平同美国总统特朗普在中南海小范围会晤 <https://news.google.com/rss/articles/CBMigAFBVV95cUxQTWhZYXRkUXBrdF82bFFGTEM1cC02TV9kS0ZDdUVvWWo1Rm5scExWakZidTloMkpYNWZpdDluTlg3WlFmeXQ1ZkFFNnFHaXdTWUE1Sm1ZaU1lemN4Y2dvMDYwTGVfWHhUbWswWkEzNGROelFBVmRRT1dNaDNZRkVGVA?oc=5>
+- **Trump** | 美参院外委会批总统“单打独斗” 令美国陷入被动 <https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3Vnc1RTg4RjFMaHk0SVhoOWJrRXZNZjlpUWNkR0hHb094cllZdlJ4R0M3ZnVKRU1CRlN5LWwxa3hjdmFoVzFRckNBOGNOdXNJdkNfcHJpQzlLTUM0RFNjYXpsSHdnTUdj?oc=5>
+- **Trump** | 特朗普称应卡塔尔、沙特和阿联酋要求，美国将“暂缓”对伊朗政权即将发动的打击计划 <https://news.google.com/rss/articles/CBMiiwJBVV95cUxOU1hLSW5WY0FUZ0pqVjB5bFNGMzE4cjI5UHV4QWdNUmhpTHlNMVZTdTMwQ1NQVFFBVkhzOVZPTnczRWd4R1ljQ1JmRkprRXFtUHVqMk1memh2bnpMUzIwaHVscFliRkVMS0NCaC1RN005YW9ZdEtETDFHbVpYOWxUZ0hKY2FNN0UtdXlULXFrQnRyQ2YxRy13RHNiTTRhekQ4TFRQOWVLelhQSGRWejc4LTJTZC1rdnRLWjA1TmowVzVJTFd1aVA4QnExdXFUMjhWSENDMWtqVXhsTllDdjkybW1pNlZXWWp0NW9ZalNmUnhlc0Y1SmNYLXlnekkyNWVfMDFtWjdfeTRQTTjSAY4CQVVfeXFMTWhrS0JvdGFPYnQ5YzhINldkQ1VJV25US1g4Nm12ZnNEM3ZaRW52LUVlVmZsOXVNU1ZsSUowWWdSbnNjaEp1VEp6TnpJRnVDUjFiaHFRLTVZLVVKWnpiaGoxUU51ZmxKV2Utd0VNQUxzdFhucnc0NGpEaXZEdERVbzJyODQwV1hvaDhqMlRJcWFYcFRMSUljSUw3ZU9sTDZEM3JoSGRFc0Nkb0N5Vm14a2t1RXNRR1V1YkpELUpObEpMeEZvNHFRYkwtY3U1U0tHRVoxSUZuSUVrWjBHb3RZUDhXMlJvUnVaY0JBWGJnN2J2NUs4LWh5eGxPRE5ZSFlkYjlDMkh2REZEX2QyUE9B?oc=5>
 
 ### 2026-05-18 21:45  (5 条)
 
