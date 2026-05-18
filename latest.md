@@ -1,68 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-18 20:14**
-- 本轮扫到 1517 条, 新增 **7** 条
+- 最近更新: **2026-05-18 21:45**
+- 本轮扫到 1522 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (5 条)
 
-### 新浪演唱会热点小时报丨2026年05月19日04时_今日实时演唱会热点速递
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905ms9a.html>
-
-### 新浪演唱会热点小时报丨2026年05月19日03时_今日实时演唱会热点速递
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905mrby.html>
-
-### 特朗普：将要求美国司法部调查马里兰州邮寄选票相关问题。
+### 特朗普称已取消原定于明天对伊朗发动袭击的计划
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-18 19:43
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE52RVpCaDZGVFdxWG43TG40Ri1YS3JLYTVhSk5LalpCYktZemFXdkNxTVQ2bEh5M3hKMGwtRWx3NGdJQXczQm9rRFpjTQ?oc=5>
+- 时间: 2026-05-18 19:09
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE85OFRILXRpZGVMNVNiTklKdkxxTS11VnR5NUZOMVlNMjFja1BTOXE3TFpBN215bzhuLURmM0NQUzNRQzEwMm9fVC10WQ?oc=5>
 
-### 特朗普称将推迟对伊朗发动军事打击
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-05-18 19:32
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE9XNWFtM1JNZ3d2aTVpQTFHaExWN3BoYUFCMzQ0c3Y2bEdRd2pQNGMyem9sdVExTW9BNlN6RkJmc2JkcjVOeVRka28tZU1XYndxTWx5VkF6V2hPdXNmVVE?oc=5>
-
-### 特朗普称已取消原定周二对伊朗发动袭击的计划 目前正进行严肃谈判
+### 国际观察丨特朗普连发威胁，中东战火重燃的风险犹存
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-18 19:32
-- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxNMndObkdTSE4wcWlmSFowelQ2WkV0OHhnSVM1ei1BTGpHMmJtX1h4X1Zaalc3WllxS3FWV2RWdEFfR2RMcld4NnBsZWxMbDduMWZlbVBVR3dudDZqRFFtTXlRNU8xMFlNUmtRSTN1bmM4YkJkYVl2ZXg4cW5oQ0x6VmxBZ002LWlFc0NzbmNfOA?oc=5>
+- 场馆: 中国网
+- 时间: 2026-05-18 21:32
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE8tbHZ5b1Y5SVUzcHhSNnNGcWc1bGxOZnktVzJzTm5hVDEyaC16LUZ0WGV1eEJCRzdCTGVjZ1VSa2h0QlUwWk1GUHFtNGNHMFBXa01Tbm1NU2ltbUdJcWhfaGFrbFQyUENJaUtKaS1Eaw?oc=5>
 
-### 习近平同美国总统特朗普会谈
+### 日韩首脑主动联系特朗普 欲了解中美元首会谈结果
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-05-14 07:10
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE5PS3plczVfT0dJSXRld3lqeFNGTFNJX3JHb0twVktIRlNVTHZ2LXh4cmFidTgxSG1Ic0RrNDZaRlM4cXVhbXlXTXI1NnhyUF9MSVBveEVfRkxhYk1ON1BDWG9JUmdKWUFwZDJtdFhlTWVydHZodUJwUTBoX2JhcUU?oc=5>
+- 场馆: 财新
+- 时间: 2026-05-18 14:15
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFA0WFVVb2VzRUttT2RPbFNPZGhlMEc2QWpVRjdKWTRua1dvRFA3eS1BbkFBaHhoT194d3dSb3E0b1VpcVVXb1NhSS1CQ2t4eTJVcU4zS1VZT3Q4WTBBOHE2MHRhMkcxYldibXc?oc=5>
 
-### Oil Climbs as Trump Warns the 'Clock Is Ticking' on Iran, but There's a Bigger Danger Lurking on the Horizon
+### 特朗普访华后在回国专机上与高市通电话 高市表示无法透露细节
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-05-18 18:27
-- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxPNU5NX1NyUHN1MldBenliQi0zTXJIbm0zLWtLTHg5RzN6clY5VVNoYUQweVNuSWFKTW5GU0pPdG1LWEU4RmowVFp5N3V5MHpnN2hDcjlnemRqdElXUWlHckJSYjdfVmkxeXRaa3F0ZjlNOG5yS3JJLXdiTlpPRGhRZTFiNG94aXhBcHpmOXh2bzdXeE5BZkExNjJINFg?oc=5>
+- 场馆: RFI
+- 时间: 2026-05-16 09:29
+- 链接: <https://news.google.com/rss/articles/CBMisANBVV95cUxOZlVLS3QtaVpXLXJCTGV3YXdfbGUxRGJ0S1ZEQnI3bWZVMDdnUkJ0Nmdlb3dnYXhKaWtUMFBVYjFvNFZXZFIwWkx1cGg0Z0lLdWNVTVphNjZiRGpzbVBHbEdYa1VxSFJ3UVRBVkZyUTNpMzgzVnBwNDFWelFkNjd1R0xJdXNYNm9mOENnR0lGYVY2N3hZNkV4enNEaXRvbTZBb1VsTHRrRGc0bjI4a1NvTnNISjVGc3o2YUhRTlZVaGRnZjRkTGJ3Vy1rOENTMUdJZUN1QnE0dnBjem53enpCN0d0dS1jSWxkSldZaUQycmxUZVhENnhxR1dkaGdBVVNENkZKVTRpUmpRTWtnUS1EeUlkTS04NFU1WUZTZlZRNkMwYko3ZjZYSzJDMHRCZkJibEp1Y0ZSdEUxdVRKdHYtSjNiSUdsZmJFM05MLVEzdWRYSHBPOW0xVUJsa1JHUm9mclZxU2NqY0FMenVraS1tbW45akppMkxZb19XZ1JUdE56dmhxbTBGV0pLaTVLMkd4ZEhRQ2hjZTRSaHFlbUQ4Mm1WNkhBTXJ5Zm92alJmcUk?oc=5>
+
+### 美股指数收复部分失地；特朗普押后对伊朗攻击
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: AASTOCKS.com
+- 时间: 2026-05-18 21:10
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE8zUm9uMW5zVFFYVWdrWkFNTVBZcVBZUU84ZjdRMUpkVldCVXc2MkFnTnBtd1M2RnVEMUlSUFBVbG1heGVyeDF3Yi1vNkFRV3JPYTN0TDdaclRrYU43Z3N1cG1LXzV6blJITjBZekxOOA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-18 21:45  (5 条)
+
+- **特朗普** | 特朗普称已取消原定于明天对伊朗发动袭击的计划 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE85OFRILXRpZGVMNVNiTklKdkxxTS11VnR5NUZOMVlNMjFja1BTOXE3TFpBN215bzhuLURmM0NQUzNRQzEwMm9fVC10WQ?oc=5>
+- **特朗普** | 国际观察丨特朗普连发威胁，中东战火重燃的风险犹存 <https://news.google.com/rss/articles/CBMib0FVX3lxTE8tbHZ5b1Y5SVUzcHhSNnNGcWc1bGxOZnktVzJzTm5hVDEyaC16LUZ0WGV1eEJCRzdCTGVjZ1VSa2h0QlUwWk1GUHFtNGNHMFBXa01Tbm1NU2ltbUdJcWhfaGFrbFQyUENJaUtKaS1Eaw?oc=5>
+- **特朗普** | 日韩首脑主动联系特朗普 欲了解中美元首会谈结果 <https://news.google.com/rss/articles/CBMiakFVX3lxTFA0WFVVb2VzRUttT2RPbFNPZGhlMEc2QWpVRjdKWTRua1dvRFA3eS1BbkFBaHhoT194d3dSb3E0b1VpcVVXb1NhSS1CQ2t4eTJVcU4zS1VZT3Q4WTBBOHE2MHRhMkcxYldibXc?oc=5>
+- **Trump** | 特朗普访华后在回国专机上与高市通电话 高市表示无法透露细节 <https://news.google.com/rss/articles/CBMisANBVV95cUxOZlVLS3QtaVpXLXJCTGV3YXdfbGUxRGJ0S1ZEQnI3bWZVMDdnUkJ0Nmdlb3dnYXhKaWtUMFBVYjFvNFZXZFIwWkx1cGg0Z0lLdWNVTVphNjZiRGpzbVBHbEdYa1VxSFJ3UVRBVkZyUTNpMzgzVnBwNDFWelFkNjd1R0xJdXNYNm9mOENnR0lGYVY2N3hZNkV4enNEaXRvbTZBb1VsTHRrRGc0bjI4a1NvTnNISjVGc3o2YUhRTlZVaGRnZjRkTGJ3Vy1rOENTMUdJZUN1QnE0dnBjem53enpCN0d0dS1jSWxkSldZaUQycmxUZVhENnhxR1dkaGdBVVNENkZKVTRpUmpRTWtnUS1EeUlkTS04NFU1WUZTZlZRNkMwYko3ZjZYSzJDMHRCZkJibEp1Y0ZSdEUxdVRKdHYtSjNiSUdsZmJFM05MLVEzdWRYSHBPOW0xVUJsa1JHUm9mclZxU2NqY0FMenVraS1tbW45akppMkxZb19XZ1JUdE56dmhxbTBGV0pLaTVLMkd4ZEhRQ2hjZTRSaHFlbUQ4Mm1WNkhBTXJ5Zm92alJmcUk?oc=5>
+- **Trump** | 美股指数收复部分失地；特朗普押后对伊朗攻击 <https://news.google.com/rss/articles/CBMib0FVX3lxTE8zUm9uMW5zVFFYVWdrWkFNTVBZcVBZUU84ZjdRMUpkVldCVXc2MkFnTnBtd1M2RnVEMUlSUFBVbG1heGVyeDF3Yi1vNkFRV3JPYTN0TDdaclRrYU43Z3N1cG1LXzV6blJITjBZekxOOA?oc=5>
 
 ### 2026-05-18 20:14  (7 条)
 
