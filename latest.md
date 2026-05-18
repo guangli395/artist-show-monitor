@@ -1,110 +1,67 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-18 16:45**
-- 本轮扫到 1504 条, 新增 **12** 条
+- 最近更新: **2026-05-18 18:28**
+- 本轮扫到 1510 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (12 条)
+## 本轮新发现 (6 条)
 
-### 周杰伦发布新歌《八月爱人》，晒帅气造型全身照
+### 新浪演唱会热点小时报丨2026年05月19日02时_今日实时演唱会热点速递
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2170828672_m8164378003301ko7s.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905mpd8.html>
 
-### 白宫称美中达成协议，发布事实清单详述特习峰会贸易与安全成果
+### 新浪演唱会热点小时报丨2026年05月19日01时_今日实时演唱会热点速递
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-05-18 14:52
-- 链接: <https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMVNsbzVYQktkRUF3ZHFLRVcwcFQtc19vSnYycURpTlpMallGM3luOFRSdEZPTWVJWXZBUjFBM05sYlROdnNlNHZ2T0wtMWVNb3J2Uk1ld0Q5aE5MSkRub21xTWlPOHBuZWwyUUhVa29BTHRxYk5Vc09HeW1NaE53M2pZNVRpUVhDUlBFVFIxWktGWDRrZjBhNmFka2FVMU1YaEJ6bnY5OTZZaU9lMTJnTlJGam1DOHY1OXFPYXM4RndMOWMwSVd1aHZMTlZSRFctc3d2amxCSFV3SWJXckwwS2kwTG9xZ0hoekp30gHuAUFVX3lxTE40VS0weUFHMGF0R0NpaFJUQmowOXdtckt0Z0RJeTVfLWhONy1Nb3hhdC1HZVZLbkJQVmY0UTA4TndDZGEzaGg0bXNXaUUxbXFaSlZjTTRGSFFZN0R4OVpiRHBqemU2S1luV21kZ2daT0xjMUtxMzZKc0MzekdDN3pyRG4yekVNdGRqYk9ZUWJudVZZVGdnZGtxejlvRFU0dS1EZmlPUnl3ekdES2g0enFidlkzZXBmU0F5MTlLdHV0WW5OZk1TTXc2RTZiTUxWeUJaeFhaSFZ0OXZIY3VvMzk1SWNKR3UzM1d0aVJBQ2c?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905ml2s.html>
 
-### 特朗普涉台“四不”示警“台独”
+### 25场演唱会之后，温州龙湾学会了什么？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-05-17 23:36
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTFAzQzNraFV5TlhtTDhYZ0tBUUpyZTlndURPOGMxbzVwRjJOZzE3NkxaLTFFSWtfNG56WGhSejNXbk8tbDlRWDAyXw?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5044281310_12ca99fde02002iiwy.html>
 
-### 特朗普就台湾问题表态，中方回应
+### 特朗普连发15张图分享“中国记忆”，“不可思议的中国”依然刷屏海外
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-05-18 07:33
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFA0NktGdnIwUFA0N1JwZjU1LWV0TFBzSHlCUk43SElUNmtIc3VUb2dEZ3MtSHVXNHBsM00zWVBZX0FXM3hMcGtOZHBOZDRUa2hDZkFNOTBoZEhyWF9sc3l2Y2ZWR08yUDU1d3NPSWdEaUZkMGpfT3F2VA?oc=5>
+- 时间: 2026-05-18 12:33
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE00ZjJ6U1pvR0ZuUHF3ZVFBS19lQURYSnkyMUlBdGI3UG11VFFQWWE0MWJtd0dscmpkbEpxcTAxRVVpVi1PNjNpaXdBb3pTNnpJN09PN2RCemZSMnp4YlpHdXpCdjB0RzhOY0ZRVUtiQlFRTTl0?oc=5>
 
-### 特朗普撤销对美国国税局的100亿美元诉讼
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-18 14:41
-- 链接: <https://news.google.com/rss/articles/CBMijwJBVV95cUxOM0J3WnNoTlRmcFpDOEUwYWpjc3N2a3R6dmZTRzRVVkR6cUJmemFNX0g0Z3Nqb1lZZ3pVVlVIRHQ2ZzRieWZhN3Fxc3pvaFMxRXNMb2ROSWdXT25wQUlfektwLVJQZ3lZay1ValpsUmlFQXRFcW5yT0oyb1YzZi1SZmxTYmUwTEo0Y3F1TTVzUl8yalIwMXoyeFR3SzItQXBsUm1mWkw5Vk94NmF4NGFhamlRN01jczFZTW1FOWhEZ0hGajRuMWpPb3hNenUtV05nQUZYNmJJTFBmSG93TExBSTgzcnNaUmVVRTlIU1FrQWw1aVA5bGNLQVhUM2ZfQjd2bjFfYVNEQ0FoTnpVLVZN?oc=5>
-
-### 市场消息：特朗普政府将多款仿制药纳入特朗普处方药优惠平台，亿万富翁马克・库班将于周一出席白宫相关发布仪式。
+### 美国总统特朗普：伊朗知道“很快会发生什么”。（纽约邮报）
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-18 15:47
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFA5NjlJSk10X3BacWd3V3VydnI0NnF3RXJtcGxHb1ZObGYtUDltQmMxR2tfUE80eEFTOWhkRFFmdEZRcjh2WjRvNDZGMA?oc=5>
+- 时间: 2026-05-18 17:00
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5FYXlHb1pkQl9lZFYwMlY1NTU2WFJ5b3VacGVaa3dQcDUzTC1Qb3IxeUQtRFd3aF93dHZ6UXJmckZOSEVWS1dzdmUxOA?oc=5>
 
-### 特朗普连发15张图分享“中国记忆”
+### 美国总统特朗普：（谈及铀相关议题时）我目前对此事持坚决拒绝态度，暂无任何商谈余地。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-18 16:03
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFAwNGFkaFJqMXdyLXhGT0dDSFRYMDZ2eXZTNXhhRE9CYkJFM0VLdHROZFFmalBMX1ozQmxiaXlUcDIzVlJqeVByMDBCOFB4TDMxTzdlMldUd1I0bmlIdDN1aTBzc1ZGT2oxLU9rbDRvVm5iQQ?oc=5>
-
-### 白宫发布特朗普访华事实清单，中方回应
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-05-18 07:57
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE92MXZXV2NQOHU4NDFDaHNlemQyRVJFLW5ybU9FY3I1MXNWN2g3WVpUWUtUcFBtcUhkVkdqRUZLSUdZWXJWQWJMcUhYLWFKWmh3aDdvczl5d29fUVVDOXdJdDVZeUlETDhYXzI0RXNfVkk?oc=5>
-
-### 特朗普总统警告伊朗“时日无多”，德黑兰证实已提交结束冲突的修订提案
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-05-18 14:23
-- 链接: <https://news.google.com/rss/articles/CBMimgFBVV95cUxNejdCaEx1YjRfRzZlYy1jWWdCODR6RGFURG1hZFc4dEt3TGt5emNQRHh6Uzh3Z2U0MkhyVXVTTUk3QkVRVTR4ZDJUZkkyYXRsNlNzZTc4ZnRFVzV5SjBJanpkbjY2U0NxSkYwdjE0aVdHaXYwLU9jQzZkQ1hlcGFLazBnU3h3cEF0R1JsYWhFdmIyX3l4NWJvZWxB0gGcAUFVX3lxTE9DRkVoNUJGSFRUYnVkRk45TmFTYm5FbnJJTnNKNHNPU0ZqVmtkSWJSVG9obTh5cTZwdlRLVHlDLS1wOHNIaU1uNGxkajAzU3JmYjYtZi1aYlpWcHc3eHF6YjV0elBqNmoxMUp3WVFnNHBwcHA1LU1ORl9FUC15TjVtM3R6bWRQZW1FMXZtMWQzUkd5MnRrYmNMZVhJZg?oc=5>
-
-### 未受邀他“强行”访问，“特朗普让我来多交朋友”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-05-18 10:11
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBZeC1zVjAtSkpsV2x2OE9lVE5xN1ZCeE5LbVRCQ3lJTFFrVzN3MTJKNVEtVkpiX1FsV2cyUE8xRDRGWmJhcEc0Y2tUUG8xS1BUUlVtNjFlaDROUkt2bXJxZ1BkOThnOHdUZ1E?oc=5>
-
-### 特朗普走普京来，全世界都看清中国成了新主角
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-05-18 14:32
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9GanpvRWl1V2tKR3J5Y1ZxS1N0NDBHck1mSlU2Z2JKcjV2VDNPMnNYMHRFMEczMHU2VGVQT3NIRngtUUxuMTU3MGVMcWg?oc=5>
-
-### 德语媒体：华盛顿——台湾的新忧虑
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: DW.com
-- 时间: 2026-05-18 14:59
-- 链接: <https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeTRRVG1uVFlQTFoxMHpKMFI5Si1jeklFaUtBSk1nZlp1SkhZcmNVd25aWWd5OVFIbTFKSDBrRHNiekJhbnlqbWhBeWZSZ1JTclZqWlpKOGJTQU1tdDhmd1FGWkk4YmVFY0JlbVNBMDg2THdPYUJxaVBIcnNyRldhaXhnSEw4TGVOSWhFZlFEQzUyM0U5Tk1HUW5PQk5jdThpZENrRlhyZEY4ZV9ka2hYUU5jb1dSWHFPbEVULUlSaHFFRHBfN2lUQ2JONVZkSjhoQzVndnc1ZnEzVFJfdk9WTXZneknSAeQBQVVfeXFMTTUwdzliYWRrakhOZjBMU1BxMGJkWW85QTVSMEVLNUI0TFJzZ2hzQkd3b2w3WGY3MkVGWU80OU9HUi15MENkV1Uwb3lUMmNfcXlZXzE2MjFDaDI1LUxIRGJydEZGbVlBTk5FQWZ0ZGRHMzRmUUF6RjFNMkZMRlVGb1VFNEpsLVN6SkFVT2dqbGQ2UjctVXNVNmZ1cXNpV1JIaWRacnpHZnFTN0t0UTk4aURjR0pIQ2xldmJXWW5RNmF4eWRWYWttdW1iSHdiMHd1N1V0Y0ktcTcxZThGZU5acXR0N1lY?oc=5>
+- 时间: 2026-05-18 17:06
+- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sY1ZwQnU4ZjRmNF96Y2JmVTlaYUU3blV6bVdSbkJlQTgwbTZ0YUpQTEppbU4yWjBPcGJmejQ2Y3haTzF0ODRybGVHVmNJbHM?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-18 18:28  (6 条)
+
+- **周杰伦** | 新浪演唱会热点小时报丨2026年05月19日02时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001905mpd8.html>
+- **周杰伦** | 新浪演唱会热点小时报丨2026年05月19日01时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001905ml2s.html>
+- **周杰伦** | 25场演唱会之后，温州龙湾学会了什么？ <https://k.sina.com.cn/article_5044281310_12ca99fde02002iiwy.html>
+- **特朗普** | 特朗普连发15张图分享“中国记忆”，“不可思议的中国”依然刷屏海外 <https://news.google.com/rss/articles/CBMidEFVX3lxTE00ZjJ6U1pvR0ZuUHF3ZVFBS19lQURYSnkyMUlBdGI3UG11VFFQWWE0MWJtd0dscmpkbEpxcTAxRVVpVi1PNjNpaXdBb3pTNnpJN09PN2RCemZSMnp4YlpHdXpCdjB0RzhOY0ZRVUtiQlFRTTl0?oc=5>
+- **特朗普** | 美国总统特朗普：伊朗知道“很快会发生什么”。（纽约邮报） <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5FYXlHb1pkQl9lZFYwMlY1NTU2WFJ5b3VacGVaa3dQcDUzTC1Qb3IxeUQtRFd3aF93dHZ6UXJmckZOSEVWS1dzdmUxOA?oc=5>
+- **特朗普** | 美国总统特朗普：（谈及铀相关议题时）我目前对此事持坚决拒绝态度，暂无任何商谈余地。 <https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sY1ZwQnU4ZjRmNF96Y2JmVTlaYUU3blV6bVdSbkJlQTgwbTZ0YUpQTEppbU4yWjBPcGJmejQ2Y3haTzF0ODRybGVHVmNJbHM?oc=5>
 
 ### 2026-05-18 16:45  (12 条)
 
