@@ -1,38 +1,121 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-17 23:28**
-- 本轮扫到 1427 条, 新增 **3** 条
+- 最近更新: **2026-05-18 01:28**
+- 本轮扫到 1439 条, 新增 **12** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (12 条)
 
-### 周杰伦演唱会最佳物料
+### 周杰伦在温州演唱会后感性发文： Day3溫州
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905lh6w.html>
+- 链接: <https://k.sina.com.cn/article_5393529473_m1417aba8103302pz7i.html>
 
-### 5月18日周末要闻：特朗普称伊朗问题时间紧迫 油价上涨
+### 龚俊李现大闹周杰伦演唱会，笑不活了！
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301bono.html>
+
+### 我美嘛～杰伦你听到了嘛 周杰伦温州演唱会 Pura90 Pro Max果然在哪都是第一排
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_2292724833_m88a83461033018now.html?from=tech>
+
+### 清晨，直线拉升，特朗普重磅发声
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-05-18 00:32
+- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTFBUbGh5QnFOU1dzRWR0OXFjc080VzFnUjM1RVpJcWluXzlKRjlXVmNrN0pOanNITkxmNWhEbkpiODU1emJlOUtjU2RwVXV3VkRG?oc=5>
+
+### 59万人为特朗普手机交5900万定金 发货延迟引发争议
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-05-18 01:16
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9VT2hEcmlpTl9lMTBVZ2J2dXM3MFZSSW0tM1BWMmRaUHdhdXZWeTdWbDlPVmtfd291LUtONGQzRXdISVRRdWMyTmExUmZmWFpCY3ZoSlh0eXUwQzJYaEFiMmtaUF9pMFZCbEVLSDlmYlk?oc=5>
+
+### 美国总统特朗普分享了一张与外星人合影的AI生成照片。
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-05-17 23:07
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9GUWVZQ1Nya2NBY1VrUWotSnJZdTRBRVE3U1hNSkhMMlEzdmRmRDVRZm1GRUpMckk4dTZpWEpSeHNYQ3ViREJzYkJUVndsNW41c2pVUFczUnBQNmcyR2hwUGVITTB3QjhWVDZXamp0SUY2akZ3WUpHVg?oc=5>
+
+### 特朗普称如果伊朗不迅速行动 “将一无所有”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 央视网
+- 时间: 2026-05-18 00:48
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5FdW5nXzlTRkl3cE40d0JvT0hfZVJRY0NPZEhpNkpXWWFTMHdRNU1ib0Jvakh4ekNWSWhGOEI5QnJxOWd0SVA3ME5veEo3T1BCN1loOU9VZVhWSHVZdGpNVGNuSWpMTEQxMld2QURpQTFKWVRQMEFjZg?oc=5>
+
+### 特朗普访华开启中美关系新定位，元首外交为大年积势
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中国网
+- 时间: 2026-05-17 09:09
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE85N1FvMzh1bEdPLWtSNmhEQnRMOGlWbWE2R0w1bEhwSlhZMnc2d1E0S2ZPWG15S0ZzMDdfRmltbmhMdy1mSl96Vnd0NV80QUV4OElYVmtvaHA5VFFWTm5vUHRyWnhnTE5scmxLZXNMcw?oc=5>
+
+### 最新封面报道之二｜特朗普访华“企业天团”换新
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 财新
+- 时间: 2026-05-17 10:39
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wbkdKdDVjb2d5VlRQZkM4dXptemxxSGRrc1FhaFFpNmVnNFc4ZU9vQUFNN1R1UWRhZ0ZydlZETVUweFEzNVhDZXhKTEF3OW13Wk1TNDdPcDZvZjNGU1FwVA?oc=5>
+
+### 特朗普发文警告：如果伊朗不迅速行动，“将一无所有”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: chinanews.com.cn
+- 时间: 2026-05-17 23:34
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oMWRNekhJZWVZQ0paUTRBZW5uM3NwX29tM0l2UERSNW5aR3A4ZzJGaDdKR21sVkNzZ05XQmdwcWI1Z2dCUkNhcEIxMzhNdFBSTWNZR1YzZTh5YWNVSkZoZ2s0UTRFTkNP?oc=5>
+
+### 特朗普：伊朗不迅速行动“将一无所有”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-17 22:30
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxPQWx5VFUwek5WUXNvdlBRSFZvd2FobXpZcHB1WnpsLUV1bGFZdTFWQXlxQzFBUEQwMjRITUh3U3lwcEdMaUVZZVVwbVVWaWlnRGdfektYWHJMTW4tTVBOaVNrYlhiMEp1ekZHY0VUaktjcEo0TEhXaG8zaUkzcFQ5dXJqQWZoV1k?oc=5>
+- 时间: 2026-05-17 23:55
+- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxOOVhoX0xGaEZiUURHSFhacC1RMVZCd3d1VUZEZTdFeENCYmxpakZtTGhnSWpVaFJxUGtNeVVTeVhyWTRVaU5HM1FDRWdhMDRFRHdHaDNyX2M4MkhFOUpIdDNHcDY2MU95OUpfRDI3WGpmOUMwb3A5NWVBVGt2Y21Nc0VjUUk2eGdxaUlZbjBIN2luOHRXRDdIVA?oc=5>
 
-### 特朗普再次向伊朗发警告 Axios：白宫将讨论对伊军事选项
+### 从对抗到和解：特朗普学会跟中国打交道？
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-05-17 21:16
-- 链接: <https://news.google.com/rss/articles/CBMi8AJBVV95cUxQUjR0MklCLW93bFZfRmJBRUNFRi1ZZ2thYmMtSVhvX09PSjFIcFlSM2xaNWtFWGxtdlU0dmpvSHVFUUxjX2lEZHZvcEk2RHUyRDJWZy1GdlhURXJBZjNyczlobW1zRGl4R1VZcmFpdEpKVl9wVFUwQ2JEeWhrU280RFBMUnBGREVObzlCYU81ZmczeGlwMUp3T2dvS21uZ0prNzJBM3FWck5QR0ZNODRNMENkVTlyZWx6R1RpbTBWQWV0b1plMkV4aHF1Zjg0a29CLTAtWGluMWl1UU54ejFGNFRqSkgzU08tSzY5eE05ZFFZRGhjZ3pydnBTc1o2SVBoM3FrTk50aDBzZVdxWTBMYWZhNEc3bUliNjAtem5lajRvaUc4bndTaUFJOHVkRnRXSnpiYUVOQWVwXzRhRHhCbF9IeFhYTkdGMlVacDNKNjNtQTZmVVd2N3lHdXQ4T1ZsSUZrUktBVWhqcHBrdC1vQQ?oc=5>
+- 场馆: 纽约时报中文网
+- 时间: 2026-05-16 02:54
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFA5WElfSjBPX3FhOFBkanJCWmRKNzRZVzZxN1VUVTNTM1ZDR1IzVlVjeWdsZHk0alFUdV93cnI2QWdVVEpGM0VrYVlkWU1URDZ4OV9Gam8zQTAxWHh6c016YU15QXE0bC1nNmc?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-18 01:28  (12 条)
+
+- **周杰伦** | 周杰伦在温州演唱会后感性发文： Day3溫州 <https://k.sina.com.cn/article_5393529473_m1417aba8103302pz7i.html>
+- **周杰伦** | 龚俊李现大闹周杰伦演唱会，笑不活了！ <https://k.sina.com.cn/article_7879924009_m1d5ae192903301bono.html>
+- **周杰伦** | 我美嘛～杰伦你听到了嘛 周杰伦温州演唱会 Pura90 Pro Max果然在哪都是第一排 <https://k.sina.com.cn/article_2292724833_m88a83461033018now.html?from=tech>
+- **特朗普** | 清晨，直线拉升，特朗普重磅发声 <https://news.google.com/rss/articles/CBMiUEFVX3lxTFBUbGh5QnFOU1dzRWR0OXFjc080VzFnUjM1RVpJcWluXzlKRjlXVmNrN0pOanNITkxmNWhEbkpiODU1emJlOUtjU2RwVXV3VkRG?oc=5>
+- **特朗普** | 59万人为特朗普手机交5900万定金 发货延迟引发争议 <https://news.google.com/rss/articles/CBMicEFVX3lxTE9VT2hEcmlpTl9lMTBVZ2J2dXM3MFZSSW0tM1BWMmRaUHdhdXZWeTdWbDlPVmtfd291LUtONGQzRXdISVRRdWMyTmExUmZmWFpCY3ZoSlh0eXUwQzJYaEFiMmtaUF9pMFZCbEVLSDlmYlk?oc=5>
+- **特朗普** | 美国总统特朗普分享了一张与外星人合影的AI生成照片。 <https://news.google.com/rss/articles/CBMieEFVX3lxTE9GUWVZQ1Nya2NBY1VrUWotSnJZdTRBRVE3U1hNSkhMMlEzdmRmRDVRZm1GRUpMckk4dTZpWEpSeHNYQ3ViREJzYkJUVndsNW41c2pVUFczUnBQNmcyR2hwUGVITTB3QjhWVDZXamp0SUY2akZ3WUpHVg?oc=5>
+- **特朗普** | 特朗普称如果伊朗不迅速行动 “将一无所有” <https://news.google.com/rss/articles/CBMieEFVX3lxTE5FdW5nXzlTRkl3cE40d0JvT0hfZVJRY0NPZEhpNkpXWWFTMHdRNU1ib0Jvakh4ekNWSWhGOEI5QnJxOWd0SVA3ME5veEo3T1BCN1loOU9VZVhWSHVZdGpNVGNuSWpMTEQxMld2QURpQTFKWVRQMEFjZg?oc=5>
+- **特朗普** | 特朗普访华开启中美关系新定位，元首外交为大年积势 <https://news.google.com/rss/articles/CBMib0FVX3lxTE85N1FvMzh1bEdPLWtSNmhEQnRMOGlWbWE2R0w1bEhwSlhZMnc2d1E0S2ZPWG15S0ZzMDdfRmltbmhMdy1mSl96Vnd0NV80QUV4OElYVmtvaHA5VFFWTm5vUHRyWnhnTE5scmxLZXNMcw?oc=5>
+- **特朗普** | 最新封面报道之二｜特朗普访华“企业天团”换新 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wbkdKdDVjb2d5VlRQZkM4dXptemxxSGRrc1FhaFFpNmVnNFc4ZU9vQUFNN1R1UWRhZ0ZydlZETVUweFEzNVhDZXhKTEF3OW13Wk1TNDdPcDZvZjNGU1FwVA?oc=5>
+- **特朗普** | 特朗普发文警告：如果伊朗不迅速行动，“将一无所有” <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oMWRNekhJZWVZQ0paUTRBZW5uM3NwX29tM0l2UERSNW5aR3A4ZzJGaDdKR21sVkNzZ05XQmdwcWI1Z2dCUkNhcEIxMzhNdFBSTWNZR1YzZTh5YWNVSkZoZ2s0UTRFTkNP?oc=5>
+- **特朗普** | 特朗普：伊朗不迅速行动“将一无所有” <https://news.google.com/rss/articles/CBMimAFBVV95cUxOOVhoX0xGaEZiUURHSFhacC1RMVZCd3d1VUZEZTdFeENCYmxpakZtTGhnSWpVaFJxUGtNeVVTeVhyWTRVaU5HM1FDRWdhMDRFRHdHaDNyX2M4MkhFOUpIdDNHcDY2MU95OUpfRDI3WGpmOUMwb3A5NWVBVGt2Y21Nc0VjUUk2eGdxaUlZbjBIN2luOHRXRDdIVA?oc=5>
+- **Trump** | 从对抗到和解：特朗普学会跟中国打交道？ <https://news.google.com/rss/articles/CBMiakFVX3lxTFA5WElfSjBPX3FhOFBkanJCWmRKNzRZVzZxN1VUVTNTM1ZDR1IzVlVjeWdsZHk0alFUdV93cnI2QWdVVEpGM0VrYVlkWU1URDZ4OV9Gam8zQTAxWHh6c016YU15QXE0bC1nNmc?oc=5>
 
 ### 2026-05-17 23:28  (3 条)
 
