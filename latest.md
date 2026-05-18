@@ -1,58 +1,78 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-18 18:28**
-- 本轮扫到 1510 条, 新增 **6** 条
+- 最近更新: **2026-05-18 20:14**
+- 本轮扫到 1517 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (7 条)
 
-### 新浪演唱会热点小时报丨2026年05月19日02时_今日实时演唱会热点速递
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905mpd8.html>
-
-### 新浪演唱会热点小时报丨2026年05月19日01时_今日实时演唱会热点速递
+### 新浪演唱会热点小时报丨2026年05月19日04时_今日实时演唱会热点速递
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905ml2s.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905ms9a.html>
 
-### 25场演唱会之后，温州龙湾学会了什么？
+### 新浪演唱会热点小时报丨2026年05月19日03时_今日实时演唱会热点速递
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5044281310_12ca99fde02002iiwy.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905mrby.html>
 
-### 特朗普连发15张图分享“中国记忆”，“不可思议的中国”依然刷屏海外
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-05-18 12:33
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE00ZjJ6U1pvR0ZuUHF3ZVFBS19lQURYSnkyMUlBdGI3UG11VFFQWWE0MWJtd0dscmpkbEpxcTAxRVVpVi1PNjNpaXdBb3pTNnpJN09PN2RCemZSMnp4YlpHdXpCdjB0RzhOY0ZRVUtiQlFRTTl0?oc=5>
-
-### 美国总统特朗普：伊朗知道“很快会发生什么”。（纽约邮报）
+### 特朗普：将要求美国司法部调查马里兰州邮寄选票相关问题。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-18 17:00
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5FYXlHb1pkQl9lZFYwMlY1NTU2WFJ5b3VacGVaa3dQcDUzTC1Qb3IxeUQtRFd3aF93dHZ6UXJmckZOSEVWS1dzdmUxOA?oc=5>
+- 时间: 2026-05-18 19:43
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE52RVpCaDZGVFdxWG43TG40Ri1YS3JLYTVhSk5LalpCYktZemFXdkNxTVQ2bEh5M3hKMGwtRWx3NGdJQXczQm9rRFpjTQ?oc=5>
 
-### 美国总统特朗普：（谈及铀相关议题时）我目前对此事持坚决拒绝态度，暂无任何商谈余地。
+### 特朗普称将推迟对伊朗发动军事打击
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-05-18 19:32
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE9XNWFtM1JNZ3d2aTVpQTFHaExWN3BoYUFCMzQ0c3Y2bEdRd2pQNGMyem9sdVExTW9BNlN6RkJmc2JkcjVOeVRka28tZU1XYndxTWx5VkF6V2hPdXNmVVE?oc=5>
+
+### 特朗普称已取消原定周二对伊朗发动袭击的计划 目前正进行严肃谈判
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-18 17:06
-- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sY1ZwQnU4ZjRmNF96Y2JmVTlaYUU3blV6bVdSbkJlQTgwbTZ0YUpQTEppbU4yWjBPcGJmejQ2Y3haTzF0ODRybGVHVmNJbHM?oc=5>
+- 时间: 2026-05-18 19:32
+- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxNMndObkdTSE4wcWlmSFowelQ2WkV0OHhnSVM1ei1BTGpHMmJtX1h4X1Zaalc3WllxS3FWV2RWdEFfR2RMcld4NnBsZWxMbDduMWZlbVBVR3dudDZqRFFtTXlRNU8xMFlNUmtRSTN1bmM4YkJkYVl2ZXg4cW5oQ0x6VmxBZ002LWlFc0NzbmNfOA?oc=5>
+
+### 习近平同美国总统特朗普会谈
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-05-14 07:10
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE5PS3plczVfT0dJSXRld3lqeFNGTFNJX3JHb0twVktIRlNVTHZ2LXh4cmFidTgxSG1Ic0RrNDZaRlM4cXVhbXlXTXI1NnhyUF9MSVBveEVfRkxhYk1ON1BDWG9JUmdKWUFwZDJtdFhlTWVydHZodUJwUTBoX2JhcUU?oc=5>
+
+### Oil Climbs as Trump Warns the 'Clock Is Ticking' on Iran, but There's a Bigger Danger Lurking on the Horizon
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-05-18 18:27
+- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxPNU5NX1NyUHN1MldBenliQi0zTXJIbm0zLWtLTHg5RzN6clY5VVNoYUQweVNuSWFKTW5GU0pPdG1LWEU4RmowVFp5N3V5MHpnN2hDcjlnemRqdElXUWlHckJSYjdfVmkxeXRaa3F0ZjlNOG5yS3JJLXdiTlpPRGhRZTFiNG94aXhBcHpmOXh2bzdXeE5BZkExNjJINFg?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-18 20:14  (7 条)
+
+- **周杰伦** | 新浪演唱会热点小时报丨2026年05月19日04时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001905ms9a.html>
+- **周杰伦** | 新浪演唱会热点小时报丨2026年05月19日03时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001905mrby.html>
+- **特朗普** | 特朗普：将要求美国司法部调查马里兰州邮寄选票相关问题。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE52RVpCaDZGVFdxWG43TG40Ri1YS3JLYTVhSk5LalpCYktZemFXdkNxTVQ2bEh5M3hKMGwtRWx3NGdJQXczQm9rRFpjTQ?oc=5>
+- **特朗普** | 特朗普称将推迟对伊朗发动军事打击 <https://news.google.com/rss/articles/CBMiXkFVX3lxTE9XNWFtM1JNZ3d2aTVpQTFHaExWN3BoYUFCMzQ0c3Y2bEdRd2pQNGMyem9sdVExTW9BNlN6RkJmc2JkcjVOeVRka28tZU1XYndxTWx5VkF6V2hPdXNmVVE?oc=5>
+- **特朗普** | 特朗普称已取消原定周二对伊朗发动袭击的计划 目前正进行严肃谈判 <https://news.google.com/rss/articles/CBMijwFBVV95cUxNMndObkdTSE4wcWlmSFowelQ2WkV0OHhnSVM1ei1BTGpHMmJtX1h4X1Zaalc3WllxS3FWV2RWdEFfR2RMcld4NnBsZWxMbDduMWZlbVBVR3dudDZqRFFtTXlRNU8xMFlNUmtRSTN1bmM4YkJkYVl2ZXg4cW5oQ0x6VmxBZ002LWlFc0NzbmNfOA?oc=5>
+- **特朗普** | 习近平同美国总统特朗普会谈 <https://news.google.com/rss/articles/CBMif0FVX3lxTE5PS3plczVfT0dJSXRld3lqeFNGTFNJX3JHb0twVktIRlNVTHZ2LXh4cmFidTgxSG1Ic0RrNDZaRlM4cXVhbXlXTXI1NnhyUF9MSVBveEVfRkxhYk1ON1BDWG9JUmdKWUFwZDJtdFhlTWVydHZodUJwUTBoX2JhcUU?oc=5>
+- **Trump** | Oil Climbs as Trump Warns the 'Clock Is Ticking' on Iran, but There's a Bigger Danger Lurking on the Horizon <https://news.google.com/rss/articles/CBMinAFBVV95cUxPNU5NX1NyUHN1MldBenliQi0zTXJIbm0zLWtLTHg5RzN6clY5VVNoYUQweVNuSWFKTW5GU0pPdG1LWEU4RmowVFp5N3V5MHpnN2hDcjlnemRqdElXUWlHckJSYjdfVmkxeXRaa3F0ZjlNOG5yS3JJLXdiTlpPRGhRZTFiNG94aXhBcHpmOXh2bzdXeE5BZkExNjJINFg?oc=5>
 
 ### 2026-05-18 18:28  (6 条)
 
