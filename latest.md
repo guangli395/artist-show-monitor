@@ -1,142 +1,170 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-18 05:46**
-- 本轮扫到 1457 条, 新增 **18** 条
+- 最近更新: **2026-05-18 09:51**
+- 本轮扫到 1476 条, 新增 **19** 条
 
 ---
 
-## 本轮新发现 (18 条)
+## 本轮新发现 (19 条)
 
-### 周杰伦温州演唱会17岁歌迷获点歌，华为Pura90 Pro Max远距拍摄
+### 蔡徐坤成为《绝地求生》全球代言人 首支剧情短片发布
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905lwuq.html>
+
+### 除了温州，周杰伦这场“嘉年华”世界巡演接下来还会在国内哪些城市举办？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2292724833_m88a83461033018nte.html?from=tech>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801l0ry.html>
 
-### 周杰伦温州演唱会粉丝求婚告白气球漫天华为Pura90超长焦记录
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1644232732_m6201001c03303g2u6.html>
-
-### 周杰伦温州站演唱会现场氛围感直接拉满周杰伦演唱会温州站气氛太好了
+### 周杰伦这次温州巡演，现场观众的整体年龄段构成是怎样的？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1269466381_m4baa850d03302iihu.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801l0r8.html>
 
-### 周杰伦温州演唱会万人合唱，华为Pura90清晰记录求婚名场面
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1299061017_m4d6e191903301ykfu.html>
-
-### 新浪演唱会热点小时报丨2026年05月18日10时_今日实时演唱会热点速递
+### 周杰伦温州演唱会内场观众盛赞华为Pura拍摄效果
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905lj54.html>
+- 链接: <https://k.sina.com.cn/article_2292724833_88a83461040018nv4.html>
 
-### 周杰伦温州演唱会把《蜗牛》定为城市主题曲真的戳爆了
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301bome.html>
-
-### 周杰伦线下演唱会圆歌迷耳机梦想
+### 温州女孩演唱会举牌邀周杰伦吃杨梅
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2606812875_m9b60cecb05301hyhc.html>
+- 链接: <https://k.sina.com.cn/article_1926641510_m72d6376603301jtmk.html>
 
-### 周杰伦演唱会现场圆梦青春
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5934541885_m161b9ec3d03301du8g.html>
-
-### 周杰伦线下见面会圆梦粉丝耳机里的心动
+### 周杰伦温州演唱会红衣铁粉秀歌喉引全场沸腾
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2606812875_m9b60cecb03301hyfs.html>
+- 链接: <https://k.sina.com.cn/article_1725252714_m66d5446a03301yjsw.html?from=ent&amp;subch=oent>
 
-### 特朗普威胁伊朗，又开始倒计时了
+### 周杰伦温州演唱会现肌肉照海报，笑称腹肌有过就好
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1725252714_m66d5446a03301yjsq.html?from=ent&amp;subch=oent>
+
+### 周杰伦温州演唱会粉丝点歌邀约散场吃杨梅
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1725252714_m66d5446a03301yjs0.html?from=ent&amp;subch=oent>
+
+### 周杰伦温州演唱会第三场合唱获赞，孙颖莎球迷现场点歌
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1725252714_m66d5446a03301yjro.html?from=ent&amp;subch=oent>
+
+### 周杰伦温州演唱会双截棍名场面引发全场互动
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1725252714_m66d5446a03301yjrq.html?>
+
+### 油价狂飙通胀难控，特朗普表态：战争结束前无法看清利率走势
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-05-17 23:54
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBUc2pQYWRmcm1ONld3V2RsdEpWR0xQeFM3U2dSdXhlcGxHdzBsVE5hb3NHOFhBY1ZJQUhjWF94LVMyVzVEbExEekdUN1c?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-05-18 09:35
+- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxPTTRPQmIyN1FDbGhIVW90WmM2M1VzekJ0UDczTnREdVJHMm42QTRPOUhmQzBDTjM2SjdXZl9hRXBhOFNYUDRjRy03b0pTci1BVG5KVEtqMzRGNEJObE40OTQ4dkdFTmw2UUprWldUZXRlRmJDWlpPZ3FqMWtVVGR2ZFFkcGJ2Z3Z5ZloySm9nY1pMSzJGc1QxYw?oc=5>
 
-### 特朗普称如果伊朗不迅速行动 “将一无所有”
+### 美国白宫发布特朗普访华事实清单，外交部回应
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-05-17 17:53
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9USmxmMG9TdXFSVlkwWWwwczcyeE54ZENBd1ZMQlk5MmpyclUtWU9NZGxMenZxZkZNeVg5Uy11S0xZNWpyWDFobE1SX1p6VUxEVWliRkx4ZHVPTGJCWVdUMTFFUS1seTBJUGIwUjVOSW9BUDItRDJtUElrTVVMQ2M?oc=5>
+- 场馆: thepaper.cn
+- 时间: 2026-05-18 08:14
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9BMDkzYWhtZE0wZXdVM2Q4UnZWSC1ZU3NYTFF2ZVZPa2NxcDVNRldnbUYwM3FOTWg2aUY3NDZUYzBPWkVGTFkyMUhidjJiMDhjamdZZ1JhRmZVSE5nV1RXRA?oc=5>
 
-### 特朗普：伊朗再不行动，将一无所有-观察者网
+### 特朗普谈及利率时表示“要等到战争结束才能真正看清数据”。
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-18 08:11
+- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTFBNY29tUDBjRzRCVkNlTHNzSTNCY2txMG91QW5NaWdjWF9zR21kSlVGQjZDLVUzUkxvRG5UODRydFBPa1FlU3paTTNJS1NYRVE?oc=5>
+
+### 伊朗回应特朗普威胁：“我们知道如何应对”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-18 08:19
+- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxPS0xmRDV4ektKSERaYVBOTkd0d1gwMUJxbW16b284U2doU3pqQUk0Y01WWjEwU0ZTWWZrNXVjQVg5Rk5sSU9ZZEhBbl9iLWFvZ1ZtMmVtTjB1aDBLbGRleWhvZ0xpeEREQVJqalRoMVA5M0RJWElBaHJDSzEtZUJLQ0Y5WWN0UjhNZ3gzODZDdHAzV3k0Z2xmNkJqZ3Y?oc=5>
+
+### 特朗普在北京大谈“友谊”，但峰会未达成任何实质成果
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 纽约时报中文网
+- 时间: 2026-05-18 02:36
+- 链接: <https://news.google.com/rss/articles/CBMibEFVX3lxTFBCdC1yOTRYZXM3N1ZuY1NmZm1LVExqTUtjX0Uwd01wa1VmV0FuQl9lMGkxVHd1Zng5X185N2gwWkF6NlRYYUJsUUpnMVJDY1J1TEswNHlNb0llNXR4bTM2UlhDYUZjV3NSc2lmUA?oc=5>
+
+### 特朗普的股票投资除了大型科技公司 还有寿司连锁店的股份
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-18 08:53
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxNN2ljV2o1SmxyMU9xYy1LSC1JMGhtMDdXeHpGRjdVT09QMktMUTZSYlNPN2oycUxGOEpaSUhKT3FJZlkwdERkVEtHeUZiUGp5Z1puX0tQUFVQbi1rRFB3ZXh5UEtvMWdIcUx6M3o0NXM2S1FGZHNmNlZkaXdWenNJOGJqQ0dMakU?oc=5>
+
+### 特朗普轰动谈台海，四动向令“台独”惊惧
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 观察者
-- 时间: 2026-05-18 00:09
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFA1ZTVxM05aalFtTk1oVnFHb2Z0b3lpUV9mQUsxZEtpRl85MzV3SUl1VHRRU2tkVXpEd1J2SlBRWGIyODdzeXNOc1RpN1FBYVVjV2I3bFRFSldmTE1OTXdTeFNVYlFyb1NIMGc?oc=5>
+- 时间: 2026-05-18 09:27
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1nTU8zZ2dVVlJGNEttVVBic0ZVdnFwSnpteVhEM2R5STRjTHJmUnZFamxBVzVYQmw1dER3QUF2bGxsLS1WcjNzeGlvNWtqRjBtSGZzc1RGbDJtMmo5WWRzZUhISDl2WldUT3c?oc=5>
 
-### “特朗普这事做对了，他终于懂得中国拥有巨大实力”-观察者网
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-05-18 03:47
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBtV3gtWXJ0Q085eVJXZ2RzNmpRS0pxc2s4MjgtcFUxcFhZakZGTHk4OWxzc0FNc01LN3lkRGVEZUZGcDB0NVIxWk9paVpnV2tBbld1ckY1ZEFVdHJucW1oMVBLQ0ZYQkNVV0E?oc=5>
-
-### 特朗普在中国认真练习演讲画面曝光
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-05-18 00:02
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE41Ui1tbnRCeEFRcV83ZlZkM3BMQlVGVTBmN2dpQ1BFMXdCNjRySWVhMW9zS09lNGtQUmxscUU4M1hZQ2o4MFZRdzcwRTU?oc=5>
-
-### “台独”成陷阱？ 赖清德回应特朗普
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-05-17 22:06
-- 链接: <https://news.google.com/rss/articles/CBMi_gFBVV95cUxNR05BWVZvcHpzaUc5V3lqeGUxUVJVSjBTUmhiNG5IM0RsMVpqZV84QllNRHk4U09LVXFlSWdIQXRuTUxRM3hfcThod3c1c2FIeU1PRTN4SXF3SXVFRFJHQVpia0FTa0RuaTVJdU05Z1hteWN5YUstMk5zTDJURnBXNTI2c3k1cUtOcjktUHBudVc3VGlBZ1lzSXY5Xy1zd2diUF9PQnJSQ1lzeWpic0g0OTRlYnF1Mlp4VDEyRHc3YklQa19BWjZ4ekl0OGtRUTAySTlENmluR1Z5QTdOaWl3X2VZNFJPcjZ2b0tYcEVRS2VXU0FmNy02UEtOZEx1QQ?oc=5>
-
-### 事实核查：特朗普离京时扔掉所有中方礼品？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: DW.com
-- 时间: 2026-05-18 02:30
-- 链接: <https://news.google.com/rss/articles/CBMioAJBVV95cUxPUVdabTBNWGFNd0hFTjNyLVhqUVJJZkcxR3MtaFdsWFNqS0NYQUxCWFh1eDlER2xVY2VDUFBEX0szNXFJczlDcGJEM1FBOVAxRlNKbTNIX3BxMFpxLXNfNmdsVXMta0swWTU0YmZuSWxIVEgwS1VNTmdBU3V3WW5sZGJKV3dQRkF2T1kyRS1rTlhjdFNyZ1RkVENkbHFGYlVwY0VnWmFpd05OcVJCQ0RwMEIweF9OUXFVLWpacmQ2NUVzSjZ4UkVRNGxaSjRaYUZLeThoVXVWMmJZSzRhbi16YWVRYTJKLXpHX2xWclh4cGJlOHhrRDEtVUZzcXpqQ2IzZm1iVlh6SE4tYXVoTWo4VVhVUEdxNW4wdW01NkFUY3LSAaACQVVfeXFMT2Q3Ry1IXzJIaUk0ODFoSEJSUWM0Q19SWldmNE5raGVHbG95ZW9PSkE3ZTd5TlZaU0dXbzFmd2toMlg0bDh1RGcweVdaYk01RWVMWDlTUThFY2VMdWsyTE1KbjhKQkl6VTlhUEJwam44RWd1UXhaQ19nd19aWkNBZFh1ZG0zMkh4Uy1jTml5T05FTFVuVWtUS0xBN05XZjJjemVmeUgtTk1rUFR3TWRpWTEycmZxS2dyYlhXb3BfQmtmZ3hCNmVmMlFaNTRDTl9neEdLbmtIMXJTSlhtQzh5eTRvYVVuVzlGaElnMjJ1TXQxekU5OUowbGg3SlgyV1pFdHhDZHg4YkM5UGdZcDVpWk1Wa3gxME82b2hTR2NDaDFi?oc=5>
-
-### 凤凰卫视：（屠新泉）特朗普开启访华行程，世界进入“中美时间”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 对外经济贸易大学新闻网
-- 时间: 2026-05-18 02:50
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE9UUENxbjllV3M5anctZlJ1RG1Rdkpwdk1ySnlTZ0FlaTZHLThNTFVNUWs1OTNuRXE2S1hTWTJzak9Wc0VJUy1ScUhmLV85TlpfVW9EWjJ4WG8?oc=5>
-
-### Trump Mobile称T1 Phone本周发货 此前已跳票近9个月
+### 特朗普总统归国途中与日本首相通话，向其介绍访华情况；两人重申美日同盟“坚定不移”
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-05-18 01:10
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE1jbXRBZmY2MUxFc0R4S045OEM5VnVnZllLS2ItSWhCV3FWUEplV21jdjliYkRCYmdaREp4c0FfNWNCVUpFWkZnMA?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-05-15 17:05
+- 链接: <https://news.google.com/rss/articles/CBMizAFBVV95cUxNWjAxR2p4a25uWFJqM19RbHdMVTJDalNlWWFMaFZFTmZ4RUVJVFk2SEJrT2hoYU9Vak9taHIxVGJHNEZaRXdmZWhpTWlfOG1aT3FxWkoyb0Q3UUZnc1diQXVlOG01MWZVeXliOU1ma2NMTkl3ckh6QTBJU3RESGFNWEhPbHRsNExGYktpTGhTNjh3WF9xeDJyVWVNTGJlYlpKRTRtZ3JuUk4zZTZqM3hROE9QMkJ0ZHFRRVBtTUdxRGU4a2lHeU1OOGU2WTU?oc=5>
+
+### Trump-Xi Summit Likely to Bring Short-Term Stability to Bilateral Relations -- Market Talk
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 富途牛牛
+- 时间: 2026-05-18 05:07
+- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxQWm5QWXl6am5uVkgyMHNoTlpYalVLTm56OHgtdHhkTjRyM29fNmNKUl9OY2pCMWJaZVVIQURNRTJBQ0VIVkxLWThhZ3J4emg4SEsxQnZYUGJFQ3hZdmJGV19yWG1fUlJXdlB4dGxINzBJUWY5RklFNE1VU3E1WFRVS25UZHMtYU9ndW1oR2ZhVkFHY0hhSlozYg?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-18 09:51  (19 条)
+
+- **蔡徐坤** | 蔡徐坤成为《绝地求生》全球代言人 首支剧情短片发布 <https://k.sina.com.cn/article_7857201856_1d45362c001905lwuq.html>
+- **周杰伦** | 除了温州，周杰伦这场“嘉年华”世界巡演接下来还会在国内哪些城市举办？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801l0ry.html>
+- **周杰伦** | 周杰伦这次温州巡演，现场观众的整体年龄段构成是怎样的？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801l0r8.html>
+- **周杰伦** | 周杰伦温州演唱会内场观众盛赞华为Pura拍摄效果 <https://k.sina.com.cn/article_2292724833_88a83461040018nv4.html>
+- **周杰伦** | 温州女孩演唱会举牌邀周杰伦吃杨梅 <https://k.sina.com.cn/article_1926641510_m72d6376603301jtmk.html>
+- **周杰伦** | 周杰伦温州演唱会红衣铁粉秀歌喉引全场沸腾 <https://k.sina.com.cn/article_1725252714_m66d5446a03301yjsw.html?from=ent&amp;subch=oent>
+- **周杰伦** | 周杰伦温州演唱会现肌肉照海报，笑称腹肌有过就好 <https://k.sina.com.cn/article_1725252714_m66d5446a03301yjsq.html?from=ent&amp;subch=oent>
+- **周杰伦** | 周杰伦温州演唱会粉丝点歌邀约散场吃杨梅 <https://k.sina.com.cn/article_1725252714_m66d5446a03301yjs0.html?from=ent&amp;subch=oent>
+- **周杰伦** | 周杰伦温州演唱会第三场合唱获赞，孙颖莎球迷现场点歌 <https://k.sina.com.cn/article_1725252714_m66d5446a03301yjro.html?from=ent&amp;subch=oent>
+- **周杰伦** | 周杰伦温州演唱会双截棍名场面引发全场互动 <https://k.sina.com.cn/article_1725252714_m66d5446a03301yjrq.html?>
+- **特朗普** | 油价狂飙通胀难控，特朗普表态：战争结束前无法看清利率走势 <https://news.google.com/rss/articles/CBMimAFBVV95cUxPTTRPQmIyN1FDbGhIVW90WmM2M1VzekJ0UDczTnREdVJHMm42QTRPOUhmQzBDTjM2SjdXZl9hRXBhOFNYUDRjRy03b0pTci1BVG5KVEtqMzRGNEJObE40OTQ4dkdFTmw2UUprWldUZXRlRmJDWlpPZ3FqMWtVVGR2ZFFkcGJ2Z3Z5ZloySm9nY1pMSzJGc1QxYw?oc=5>
+- **特朗普** | 美国白宫发布特朗普访华事实清单，外交部回应 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9BMDkzYWhtZE0wZXdVM2Q4UnZWSC1ZU3NYTFF2ZVZPa2NxcDVNRldnbUYwM3FOTWg2aUY3NDZUYzBPWkVGTFkyMUhidjJiMDhjamdZZ1JhRmZVSE5nV1RXRA?oc=5>
+- **特朗普** | 特朗普谈及利率时表示“要等到战争结束才能真正看清数据”。 <https://news.google.com/rss/articles/CBMiT0FVX3lxTFBNY29tUDBjRzRCVkNlTHNzSTNCY2txMG91QW5NaWdjWF9zR21kSlVGQjZDLVUzUkxvRG5UODRydFBPa1FlU3paTTNJS1NYRVE?oc=5>
+- **特朗普** | 伊朗回应特朗普威胁：“我们知道如何应对” <https://news.google.com/rss/articles/CBMinAFBVV95cUxPS0xmRDV4ektKSERaYVBOTkd0d1gwMUJxbW16b284U2doU3pqQUk0Y01WWjEwU0ZTWWZrNXVjQVg5Rk5sSU9ZZEhBbl9iLWFvZ1ZtMmVtTjB1aDBLbGRleWhvZ0xpeEREQVJqalRoMVA5M0RJWElBaHJDSzEtZUJLQ0Y5WWN0UjhNZ3gzODZDdHAzV3k0Z2xmNkJqZ3Y?oc=5>
+- **特朗普** | 特朗普在北京大谈“友谊”，但峰会未达成任何实质成果 <https://news.google.com/rss/articles/CBMibEFVX3lxTFBCdC1yOTRYZXM3N1ZuY1NmZm1LVExqTUtjX0Uwd01wa1VmV0FuQl9lMGkxVHd1Zng5X185N2gwWkF6NlRYYUJsUUpnMVJDY1J1TEswNHlNb0llNXR4bTM2UlhDYUZjV3NSc2lmUA?oc=5>
+- **特朗普** | 特朗普的股票投资除了大型科技公司 还有寿司连锁店的股份 <https://news.google.com/rss/articles/CBMihwFBVV95cUxNN2ljV2o1SmxyMU9xYy1LSC1JMGhtMDdXeHpGRjdVT09QMktMUTZSYlNPN2oycUxGOEpaSUhKT3FJZlkwdERkVEtHeUZiUGp5Z1puX0tQUFVQbi1rRFB3ZXh5UEtvMWdIcUx6M3o0NXM2S1FGZHNmNlZkaXdWenNJOGJqQ0dMakU?oc=5>
+- **特朗普** | 特朗普轰动谈台海，四动向令“台独”惊惧 <https://news.google.com/rss/articles/CBMiakFVX3lxTE1nTU8zZ2dVVlJGNEttVVBic0ZVdnFwSnpteVhEM2R5STRjTHJmUnZFamxBVzVYQmw1dER3QUF2bGxsLS1WcjNzeGlvNWtqRjBtSGZzc1RGbDJtMmo5WWRzZUhISDl2WldUT3c?oc=5>
+- **Trump** | 特朗普总统归国途中与日本首相通话，向其介绍访华情况；两人重申美日同盟“坚定不移” <https://news.google.com/rss/articles/CBMizAFBVV95cUxNWjAxR2p4a25uWFJqM19RbHdMVTJDalNlWWFMaFZFTmZ4RUVJVFk2SEJrT2hoYU9Vak9taHIxVGJHNEZaRXdmZWhpTWlfOG1aT3FxWkoyb0Q3UUZnc1diQXVlOG01MWZVeXliOU1ma2NMTkl3ckh6QTBJU3RESGFNWEhPbHRsNExGYktpTGhTNjh3WF9xeDJyVWVNTGJlYlpKRTRtZ3JuUk4zZTZqM3hROE9QMkJ0ZHFRRVBtTUdxRGU4a2lHeU1OOGU2WTU?oc=5>
+- **Trump** | Trump-Xi Summit Likely to Bring Short-Term Stability to Bilateral Relations -- Market Talk <https://news.google.com/rss/articles/CBMimAFBVV95cUxQWm5QWXl6am5uVkgyMHNoTlpYalVLTm56OHgtdHhkTjRyM29fNmNKUl9OY2pCMWJaZVVIQURNRTJBQ0VIVkxLWThhZ3J4emg4SEsxQnZYUGJFQ3hZdmJGV19yWG1fUlJXdlB4dGxINzBJUWY5RklFNE1VU3E1WFRVS25UZHMtYU9ndW1oR2ZhVkFHY0hhSlozYg?oc=5>
 
 ### 2026-05-18 05:46  (18 条)
 
