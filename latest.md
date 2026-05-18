@@ -1,106 +1,163 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-18 01:28**
-- 本轮扫到 1439 条, 新增 **12** 条
+- 最近更新: **2026-05-18 05:46**
+- 本轮扫到 1457 条, 新增 **18** 条
 
 ---
 
-## 本轮新发现 (12 条)
+## 本轮新发现 (18 条)
 
-### 周杰伦在温州演唱会后感性发文： Day3溫州
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5393529473_m1417aba8103302pz7i.html>
-
-### 龚俊李现大闹周杰伦演唱会，笑不活了！
+### 周杰伦温州演唱会17岁歌迷获点歌，华为Pura90 Pro Max远距拍摄
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301bono.html>
+- 链接: <https://k.sina.com.cn/article_2292724833_m88a83461033018nte.html?from=tech>
 
-### 我美嘛～杰伦你听到了嘛 周杰伦温州演唱会 Pura90 Pro Max果然在哪都是第一排
+### 周杰伦温州演唱会粉丝求婚告白气球漫天华为Pura90超长焦记录
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2292724833_m88a83461033018now.html?from=tech>
+- 链接: <https://k.sina.com.cn/article_1644232732_m6201001c03303g2u6.html>
 
-### 清晨，直线拉升，特朗普重磅发声
+### 周杰伦温州站演唱会现场氛围感直接拉满周杰伦演唱会温州站气氛太好了
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1269466381_m4baa850d03302iihu.html>
+
+### 周杰伦温州演唱会万人合唱，华为Pura90清晰记录求婚名场面
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1299061017_m4d6e191903301ykfu.html>
+
+### 新浪演唱会热点小时报丨2026年05月18日10时_今日实时演唱会热点速递
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905lj54.html>
+
+### 周杰伦温州演唱会把《蜗牛》定为城市主题曲真的戳爆了
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301bome.html>
+
+### 周杰伦线下演唱会圆歌迷耳机梦想
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_2606812875_m9b60cecb05301hyhc.html>
+
+### 周杰伦演唱会现场圆梦青春
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5934541885_m161b9ec3d03301du8g.html>
+
+### 周杰伦线下见面会圆梦粉丝耳机里的心动
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_2606812875_m9b60cecb03301hyfs.html>
+
+### 特朗普威胁伊朗，又开始倒计时了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-05-18 00:32
-- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTFBUbGh5QnFOU1dzRWR0OXFjc080VzFnUjM1RVpJcWluXzlKRjlXVmNrN0pOanNITkxmNWhEbkpiODU1emJlOUtjU2RwVXV3VkRG?oc=5>
-
-### 59万人为特朗普手机交5900万定金 发货延迟引发争议
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-05-18 01:16
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9VT2hEcmlpTl9lMTBVZ2J2dXM3MFZSSW0tM1BWMmRaUHdhdXZWeTdWbDlPVmtfd291LUtONGQzRXdISVRRdWMyTmExUmZmWFpCY3ZoSlh0eXUwQzJYaEFiMmtaUF9pMFZCbEVLSDlmYlk?oc=5>
-
-### 美国总统特朗普分享了一张与外星人合影的AI生成照片。
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-05-17 23:07
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9GUWVZQ1Nya2NBY1VrUWotSnJZdTRBRVE3U1hNSkhMMlEzdmRmRDVRZm1GRUpMckk4dTZpWEpSeHNYQ3ViREJzYkJUVndsNW41c2pVUFczUnBQNmcyR2hwUGVITTB3QjhWVDZXamp0SUY2akZ3WUpHVg?oc=5>
+- 时间: 2026-05-17 23:54
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBUc2pQYWRmcm1ONld3V2RsdEpWR0xQeFM3U2dSdXhlcGxHdzBsVE5hb3NHOFhBY1ZJQUhjWF94LVMyVzVEbExEekdUN1c?oc=5>
 
 ### 特朗普称如果伊朗不迅速行动 “将一无所有”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 央视网
-- 时间: 2026-05-18 00:48
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5FdW5nXzlTRkl3cE40d0JvT0hfZVJRY0NPZEhpNkpXWWFTMHdRNU1ib0Jvakh4ekNWSWhGOEI5QnJxOWd0SVA3ME5veEo3T1BCN1loOU9VZVhWSHVZdGpNVGNuSWpMTEQxMld2QURpQTFKWVRQMEFjZg?oc=5>
+- 场馆: 新华网
+- 时间: 2026-05-17 17:53
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9USmxmMG9TdXFSVlkwWWwwczcyeE54ZENBd1ZMQlk5MmpyclUtWU9NZGxMenZxZkZNeVg5Uy11S0xZNWpyWDFobE1SX1p6VUxEVWliRkx4ZHVPTGJCWVdUMTFFUS1seTBJUGIwUjVOSW9BUDItRDJtUElrTVVMQ2M?oc=5>
 
-### 特朗普访华开启中美关系新定位，元首外交为大年积势
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中国网
-- 时间: 2026-05-17 09:09
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE85N1FvMzh1bEdPLWtSNmhEQnRMOGlWbWE2R0w1bEhwSlhZMnc2d1E0S2ZPWG15S0ZzMDdfRmltbmhMdy1mSl96Vnd0NV80QUV4OElYVmtvaHA5VFFWTm5vUHRyWnhnTE5scmxLZXNMcw?oc=5>
-
-### 最新封面报道之二｜特朗普访华“企业天团”换新
+### 特朗普：伊朗再不行动，将一无所有-观察者网
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 财新
-- 时间: 2026-05-17 10:39
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wbkdKdDVjb2d5VlRQZkM4dXptemxxSGRrc1FhaFFpNmVnNFc4ZU9vQUFNN1R1UWRhZ0ZydlZETVUweFEzNVhDZXhKTEF3OW13Wk1TNDdPcDZvZjNGU1FwVA?oc=5>
+- 场馆: 观察者
+- 时间: 2026-05-18 00:09
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFA1ZTVxM05aalFtTk1oVnFHb2Z0b3lpUV9mQUsxZEtpRl85MzV3SUl1VHRRU2tkVXpEd1J2SlBRWGIyODdzeXNOc1RpN1FBYVVjV2I3bFRFSldmTE1OTXdTeFNVYlFyb1NIMGc?oc=5>
 
-### 特朗普发文警告：如果伊朗不迅速行动，“将一无所有”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-05-17 23:34
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oMWRNekhJZWVZQ0paUTRBZW5uM3NwX29tM0l2UERSNW5aR3A4ZzJGaDdKR21sVkNzZ05XQmdwcWI1Z2dCUkNhcEIxMzhNdFBSTWNZR1YzZTh5YWNVSkZoZ2s0UTRFTkNP?oc=5>
-
-### 特朗普：伊朗不迅速行动“将一无所有”
+### “特朗普这事做对了，他终于懂得中国拥有巨大实力”-观察者网
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-17 23:55
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxOOVhoX0xGaEZiUURHSFhacC1RMVZCd3d1VUZEZTdFeENCYmxpakZtTGhnSWpVaFJxUGtNeVVTeVhyWTRVaU5HM1FDRWdhMDRFRHdHaDNyX2M4MkhFOUpIdDNHcDY2MU95OUpfRDI3WGpmOUMwb3A5NWVBVGt2Y21Nc0VjUUk2eGdxaUlZbjBIN2luOHRXRDdIVA?oc=5>
+- 场馆: 观察者
+- 时间: 2026-05-18 03:47
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBtV3gtWXJ0Q085eVJXZ2RzNmpRS0pxc2s4MjgtcFUxcFhZakZGTHk4OWxzc0FNc01LN3lkRGVEZUZGcDB0NVIxWk9paVpnV2tBbld1ckY1ZEFVdHJucW1oMVBLQ0ZYQkNVV0E?oc=5>
 
-### 从对抗到和解：特朗普学会跟中国打交道？
+### 特朗普在中国认真练习演讲画面曝光
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-05-18 00:02
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE41Ui1tbnRCeEFRcV83ZlZkM3BMQlVGVTBmN2dpQ1BFMXdCNjRySWVhMW9zS09lNGtQUmxscUU4M1hZQ2o4MFZRdzcwRTU?oc=5>
+
+### “台独”成陷阱？ 赖清德回应特朗普
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-05-17 22:06
+- 链接: <https://news.google.com/rss/articles/CBMi_gFBVV95cUxNR05BWVZvcHpzaUc5V3lqeGUxUVJVSjBTUmhiNG5IM0RsMVpqZV84QllNRHk4U09LVXFlSWdIQXRuTUxRM3hfcThod3c1c2FIeU1PRTN4SXF3SXVFRFJHQVpia0FTa0RuaTVJdU05Z1hteWN5YUstMk5zTDJURnBXNTI2c3k1cUtOcjktUHBudVc3VGlBZ1lzSXY5Xy1zd2diUF9PQnJSQ1lzeWpic0g0OTRlYnF1Mlp4VDEyRHc3YklQa19BWjZ4ekl0OGtRUTAySTlENmluR1Z5QTdOaWl3X2VZNFJPcjZ2b0tYcEVRS2VXU0FmNy02UEtOZEx1QQ?oc=5>
+
+### 事实核查：特朗普离京时扔掉所有中方礼品？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: DW.com
+- 时间: 2026-05-18 02:30
+- 链接: <https://news.google.com/rss/articles/CBMioAJBVV95cUxPUVdabTBNWGFNd0hFTjNyLVhqUVJJZkcxR3MtaFdsWFNqS0NYQUxCWFh1eDlER2xVY2VDUFBEX0szNXFJczlDcGJEM1FBOVAxRlNKbTNIX3BxMFpxLXNfNmdsVXMta0swWTU0YmZuSWxIVEgwS1VNTmdBU3V3WW5sZGJKV3dQRkF2T1kyRS1rTlhjdFNyZ1RkVENkbHFGYlVwY0VnWmFpd05OcVJCQ0RwMEIweF9OUXFVLWpacmQ2NUVzSjZ4UkVRNGxaSjRaYUZLeThoVXVWMmJZSzRhbi16YWVRYTJKLXpHX2xWclh4cGJlOHhrRDEtVUZzcXpqQ2IzZm1iVlh6SE4tYXVoTWo4VVhVUEdxNW4wdW01NkFUY3LSAaACQVVfeXFMT2Q3Ry1IXzJIaUk0ODFoSEJSUWM0Q19SWldmNE5raGVHbG95ZW9PSkE3ZTd5TlZaU0dXbzFmd2toMlg0bDh1RGcweVdaYk01RWVMWDlTUThFY2VMdWsyTE1KbjhKQkl6VTlhUEJwam44RWd1UXhaQ19nd19aWkNBZFh1ZG0zMkh4Uy1jTml5T05FTFVuVWtUS0xBN05XZjJjemVmeUgtTk1rUFR3TWRpWTEycmZxS2dyYlhXb3BfQmtmZ3hCNmVmMlFaNTRDTl9neEdLbmtIMXJTSlhtQzh5eTRvYVVuVzlGaElnMjJ1TXQxekU5OUowbGg3SlgyV1pFdHhDZHg4YkM5UGdZcDVpWk1Wa3gxME82b2hTR2NDaDFi?oc=5>
+
+### 凤凰卫视：（屠新泉）特朗普开启访华行程，世界进入“中美时间”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 对外经济贸易大学新闻网
+- 时间: 2026-05-18 02:50
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE9UUENxbjllV3M5anctZlJ1RG1Rdkpwdk1ySnlTZ0FlaTZHLThNTFVNUWs1OTNuRXE2S1hTWTJzak9Wc0VJUy1ScUhmLV85TlpfVW9EWjJ4WG8?oc=5>
+
+### Trump Mobile称T1 Phone本周发货 此前已跳票近9个月
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-05-16 02:54
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFA5WElfSjBPX3FhOFBkanJCWmRKNzRZVzZxN1VUVTNTM1ZDR1IzVlVjeWdsZHk0alFUdV93cnI2QWdVVEpGM0VrYVlkWU1URDZ4OV9Gam8zQTAxWHh6c016YU15QXE0bC1nNmc?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-05-18 01:10
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE1jbXRBZmY2MUxFc0R4S045OEM5VnVnZllLS2ItSWhCV3FWUEplV21jdjliYkRCYmdaREp4c0FfNWNCVUpFWkZnMA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-18 05:46  (18 条)
+
+- **周杰伦** | 周杰伦温州演唱会17岁歌迷获点歌，华为Pura90 Pro Max远距拍摄 <https://k.sina.com.cn/article_2292724833_m88a83461033018nte.html?from=tech>
+- **周杰伦** | 周杰伦温州演唱会粉丝求婚告白气球漫天华为Pura90超长焦记录 <https://k.sina.com.cn/article_1644232732_m6201001c03303g2u6.html>
+- **周杰伦** | 周杰伦温州站演唱会现场氛围感直接拉满周杰伦演唱会温州站气氛太好了 <https://k.sina.com.cn/article_1269466381_m4baa850d03302iihu.html>
+- **周杰伦** | 周杰伦温州演唱会万人合唱，华为Pura90清晰记录求婚名场面 <https://k.sina.com.cn/article_1299061017_m4d6e191903301ykfu.html>
+- **周杰伦** | 新浪演唱会热点小时报丨2026年05月18日10时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001905lj54.html>
+- **周杰伦** | 周杰伦温州演唱会把《蜗牛》定为城市主题曲真的戳爆了 <https://k.sina.com.cn/article_7879924009_m1d5ae192903301bome.html>
+- **周杰伦** | 周杰伦线下演唱会圆歌迷耳机梦想 <https://k.sina.com.cn/article_2606812875_m9b60cecb05301hyhc.html>
+- **周杰伦** | 周杰伦演唱会现场圆梦青春 <https://k.sina.com.cn/article_5934541885_m161b9ec3d03301du8g.html>
+- **周杰伦** | 周杰伦线下见面会圆梦粉丝耳机里的心动 <https://k.sina.com.cn/article_2606812875_m9b60cecb03301hyfs.html>
+- **特朗普** | 特朗普威胁伊朗，又开始倒计时了 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBUc2pQYWRmcm1ONld3V2RsdEpWR0xQeFM3U2dSdXhlcGxHdzBsVE5hb3NHOFhBY1ZJQUhjWF94LVMyVzVEbExEekdUN1c?oc=5>
+- **特朗普** | 特朗普称如果伊朗不迅速行动 “将一无所有” <https://news.google.com/rss/articles/CBMif0FVX3lxTE9USmxmMG9TdXFSVlkwWWwwczcyeE54ZENBd1ZMQlk5MmpyclUtWU9NZGxMenZxZkZNeVg5Uy11S0xZNWpyWDFobE1SX1p6VUxEVWliRkx4ZHVPTGJCWVdUMTFFUS1seTBJUGIwUjVOSW9BUDItRDJtUElrTVVMQ2M?oc=5>
+- **特朗普** | 特朗普：伊朗再不行动，将一无所有-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTFA1ZTVxM05aalFtTk1oVnFHb2Z0b3lpUV9mQUsxZEtpRl85MzV3SUl1VHRRU2tkVXpEd1J2SlBRWGIyODdzeXNOc1RpN1FBYVVjV2I3bFRFSldmTE1OTXdTeFNVYlFyb1NIMGc?oc=5>
+- **特朗普** | “特朗普这事做对了，他终于懂得中国拥有巨大实力”-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTFBtV3gtWXJ0Q085eVJXZ2RzNmpRS0pxc2s4MjgtcFUxcFhZakZGTHk4OWxzc0FNc01LN3lkRGVEZUZGcDB0NVIxWk9paVpnV2tBbld1ckY1ZEFVdHJucW1oMVBLQ0ZYQkNVV0E?oc=5>
+- **特朗普** | 特朗普在中国认真练习演讲画面曝光 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE41Ui1tbnRCeEFRcV83ZlZkM3BMQlVGVTBmN2dpQ1BFMXdCNjRySWVhMW9zS09lNGtQUmxscUU4M1hZQ2o4MFZRdzcwRTU?oc=5>
+- **特朗普** | “台独”成陷阱？ 赖清德回应特朗普 <https://news.google.com/rss/articles/CBMi_gFBVV95cUxNR05BWVZvcHpzaUc5V3lqeGUxUVJVSjBTUmhiNG5IM0RsMVpqZV84QllNRHk4U09LVXFlSWdIQXRuTUxRM3hfcThod3c1c2FIeU1PRTN4SXF3SXVFRFJHQVpia0FTa0RuaTVJdU05Z1hteWN5YUstMk5zTDJURnBXNTI2c3k1cUtOcjktUHBudVc3VGlBZ1lzSXY5Xy1zd2diUF9PQnJSQ1lzeWpic0g0OTRlYnF1Mlp4VDEyRHc3YklQa19BWjZ4ekl0OGtRUTAySTlENmluR1Z5QTdOaWl3X2VZNFJPcjZ2b0tYcEVRS2VXU0FmNy02UEtOZEx1QQ?oc=5>
+- **特朗普** | 事实核查：特朗普离京时扔掉所有中方礼品？ <https://news.google.com/rss/articles/CBMioAJBVV95cUxPUVdabTBNWGFNd0hFTjNyLVhqUVJJZkcxR3MtaFdsWFNqS0NYQUxCWFh1eDlER2xVY2VDUFBEX0szNXFJczlDcGJEM1FBOVAxRlNKbTNIX3BxMFpxLXNfNmdsVXMta0swWTU0YmZuSWxIVEgwS1VNTmdBU3V3WW5sZGJKV3dQRkF2T1kyRS1rTlhjdFNyZ1RkVENkbHFGYlVwY0VnWmFpd05OcVJCQ0RwMEIweF9OUXFVLWpacmQ2NUVzSjZ4UkVRNGxaSjRaYUZLeThoVXVWMmJZSzRhbi16YWVRYTJKLXpHX2xWclh4cGJlOHhrRDEtVUZzcXpqQ2IzZm1iVlh6SE4tYXVoTWo4VVhVUEdxNW4wdW01NkFUY3LSAaACQVVfeXFMT2Q3Ry1IXzJIaUk0ODFoSEJSUWM0Q19SWldmNE5raGVHbG95ZW9PSkE3ZTd5TlZaU0dXbzFmd2toMlg0bDh1RGcweVdaYk01RWVMWDlTUThFY2VMdWsyTE1KbjhKQkl6VTlhUEJwam44RWd1UXhaQ19nd19aWkNBZFh1ZG0zMkh4Uy1jTml5T05FTFVuVWtUS0xBN05XZjJjemVmeUgtTk1rUFR3TWRpWTEycmZxS2dyYlhXb3BfQmtmZ3hCNmVmMlFaNTRDTl9neEdLbmtIMXJTSlhtQzh5eTRvYVVuVzlGaElnMjJ1TXQxekU5OUowbGg3SlgyV1pFdHhDZHg4YkM5UGdZcDVpWk1Wa3gxME82b2hTR2NDaDFi?oc=5>
+- **特朗普** | 凤凰卫视：（屠新泉）特朗普开启访华行程，世界进入“中美时间” <https://news.google.com/rss/articles/CBMiWEFVX3lxTE9UUENxbjllV3M5anctZlJ1RG1Rdkpwdk1ySnlTZ0FlaTZHLThNTFVNUWs1OTNuRXE2S1hTWTJzak9Wc0VJUy1ScUhmLV85TlpfVW9EWjJ4WG8?oc=5>
+- **Trump** | Trump Mobile称T1 Phone本周发货 此前已跳票近9个月 <https://news.google.com/rss/articles/CBMiSEFVX3lxTE1jbXRBZmY2MUxFc0R4S045OEM5VnVnZllLS2ItSWhCV3FWUEplV21jdjliYkRCYmdaREp4c0FfNWNCVUpFWkZnMA?oc=5>
 
 ### 2026-05-18 01:28  (12 条)
 
