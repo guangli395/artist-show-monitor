@@ -1,88 +1,73 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-19 17:36**
-- 本轮扫到 1589 条, 新增 **9** 条
+- 最近更新: **2026-05-19 19:47**
+- 本轮扫到 1595 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (9 条)
+## 本轮新发现 (6 条)
 
-### 特朗普称美国或将再次“沉重打击”伊朗
+### 万斯称特朗普本人并未亲自进行股票交易
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-19 16:08
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5NQUdudEhLSW5UU2Y0X3RBbC1JTVh1LXltMnRsM1l4ZERTS0daYUtxVDFFWFZGRmNCcW5QZnhXMDhnNnU3SDFIaXdWUQ?oc=5>
+- 时间: 2026-05-19 18:40
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE54LWlpUm1NWmZ2bTFNcVEyTDI2Zmx1NGZqUkFDNm4zOVRfclR0SW81RElmeS1yOVZLd050Z3NQOUJWc1M1Y0lncXMwYw?oc=5>
+
+### VOA专访：金明日牧师女儿：感谢特朗普总统为爸爸发声，期待全家尽快团聚
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-05-19 19:31
+- 链接: <https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ3pVWnZ2VlhmbjZRQ3MxUGpkVDNscmZDVWlmTmFJVi12U0Z3UWJBck1OcmZ0OE81Nm5uY3RCTXlVT1dBYUpzOVpDd2RWNXFBMGdnOGtyWTRaN1JTMnBERVM1MWhvWUgwUERQeEcwbEVqWmlld0ZVdFhFSGtObzV6T2xacTlWUkN2QXpObl9lWHVXRTB5TWJ0cG4wTFRPakRMTGJ3WHJ1b9IBqgFBVV95cUxQc0pnQ3B6UVlUcGd4U01kdE1Ec2ZQTWk5U1NzNjE4Z0lURmpJRWpmaG41UVVzdFV2MnBMOC1jY2RCbEVwOHlFYVZGUjMwMHMwUk5qUGdJWEl0V0VWSjYtM2tROUU4U0d2TE41RkZ3REJoNVdEU3A1ckltQnpuOS12WHFKVkZjckhwQ2dLbDctNGNfZXJoaVotZmZBblpGQmI5UjRST0I4WWI0QQ?oc=5>
+
+### 特朗普总统表示做好与哈瓦那达成协议的准备；美国对古巴官员和情报机构实施新制裁
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-05-19 18:15
+- 链接: <https://news.google.com/rss/articles/CBMihgJBVV95cUxON2lsRmtTMklJV1dMcUozVnNnQXlmT2ppb1VqRVNiVGx4Y0FUYTJmQW40ZVpKVmU4SlZGWjFhVzNtQ2pnNE1RMy10ZUJTTUIxRzlSbUpRUUJWWlNwN1VzQ2VGV1RzOUJ2WnlHaHZUMEdQS2J2cnBFb3hqZXU5QXBYbzF3Vkgwd2lwak8taTdYa0pJRF9wZ3NaTzE0Z2xoR2VPSkFBOWt0YlRsa2tFUGhjLXNpSmV0ZTRTcDlJelRFMnZEYXl2UVpZVERRRlk2NHJCYlJkZGhDR1VCc3lRSWl1Rml0TklkY0FETnp6ZEJsc0dMMmdqcVRhUXpyWUMwY1lFNUVVZ0p30gGIAkFVX3lxTFBfcFVtdmRaTkJXaVlVNzNaSG1pNEttWjRJWHAySVdEa29QV3ktaHlpMnI3RTRnLTJMTmR0TEFKSG9wMW85Um9LSWNXV2dJSUtvb0pTNVA3NDI2R0dTV0lLb1pQUXRhdklhSWZjX1VrXzBJZ2QzQXZISVZYVFluWkoweDlibWNZbm11WW42OF9BWERZRmNfVFVPd1NHaFlfdlVKMDZsNDZsUnFvRThNcl9WTjNYR1lpWENYcWlieGUycWRSNk9lQWpTVmpja0lvczlVLVFGcHljQnl4eFIzUjc3N0l3OGRzYWlIUlBFYnNaOVlPNE1rQjBVcG9Yck5zUWE3dkpMVDQ5Ug?oc=5>
+
+### 特朗普：再给伊朗两三天时间。
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-19 15:03
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE51RjdQeExES1ViWUhPZkR5cGd3aWI3ckNseWZJa1B0LVlGTDJRQjdQdVpTeUFNaVRRNmstSHhiRTZvRW1wTDBpbHhXRQ?oc=5>
 
 ### 特朗普称美方可能不得不对伊朗“再予以一击”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-19 14:56
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfTDJ5WW42eTFsRGlnYVFjNDFkak1KOVZXSnZlM1NMZmJ2QjhmUF95emlZLTYwRnIxNjRRWHdibFJOa1ZaNU8tWEhoaw?oc=5>
+- 场馆: 东方财富
+- 时间: 2026-05-19 15:37
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzNjI3bWpYRjRzUzREdTZNWFVyekVFdG5zeFdpS2d6NUtvbmRCWExWcWZLUVZtYS1oUDhIQ2ZLd1QzRkMtM1VQZ0hhUGVFajBNNlZUU2NjWnBjTy1YTld5Uw?oc=5>
 
-### 特朗普再次访华！6本书看懂中美会谈的关键
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 钛媒体
-- 时间: 2026-05-19 09:45
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9faE11N093OHJvdzhqWmdrdUZiNFBhYVIzMkt5VmxxamppWFBnX19lVEh4VHVJSXU2VUVnN2dxbkViOFhpMTJNYWkxRjY?oc=5>
-
-### 中美达成"建设性战略稳定关系"新定位 经贸与地缘安全取得突破性进展
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 虎嗅
-- 时间: 2026-05-19 15:17
-- 链接: <https://news.google.com/rss/articles/CBMiVEFVX3lxTE82VWgyYWNac1dJdmRuZW1CeEpZTWxzSkZ0dGJmYjE5ZlJJVVFuZ1lIWlZFTmlGTHJFejFVY29nQU5fM1dKMzJNWXJwQktWQ0tPTXZ0ag?oc=5>
-
-### 美国总统特朗普：我们将帮助古巴。不清楚是否会改变古巴政权。
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-19 14:52
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE45U1dWczVBeG0tU1lGMEZKeGVLVWlqendZclhVRm93d3Q4dlJ6dldNM3htaDh0YzdfRXhOZDlNZEEtN0c5MzQ1cUtjSQ?oc=5>
-
-### 特朗普：我认为宗教对一个国家而言非常重要。
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-19 14:55
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFAxTFZCbFlsZEVVby1CYy01N25ReWc3WEtZQXFUNGIyczloYzFfdHhPRkRmOWJSSGhPTjVZUG5sem9ZWFFEMjBNT0M1NA?oc=5>
-
-### 美防长神模仿川普笑翻全场 被要求“像屎一样强悍”
+### OFFICIAL TRUMP(TRUMP) 币价，图表，市值以及其他指标
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 文学城
-- 时间: 2026-05-19 16:30
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CWHZ3MEk5dEttVjVtWGlJSmhNQ2dFSGFRMjFQODI5RnlVeVV0bFFQaVNsYjY1cTQ5aHFvMWc3bExrMzNpbUo0QXMtaWNzWkU1N0RzblpXNFlQT2laWDcxOTExWi1Qd0hZ?oc=5>
-
-### 特朗普总统：在重启与德黑兰谈判努力之际，他曾距下令打击伊朗“只有一小时”
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-05-19 16:16
-- 链接: <https://news.google.com/rss/articles/CBMi1gFBVV95cUxNb0V2TTdNZzVJdVBuNEIycUFZRUtTSzlybUtCdXRYUTMyaXlaRlJJN2htLUtnT25jWHJkaUNfTUlWeENHYWNTaTRMYWRLek9VZVlxb2RQSm1pRVBJRUtFV1ZTUWFNdGhBVXVBT1VqMkxHQUk3TVZXZ01WWDVIUG5jUkRJS3gzVG9Udnc0MnNoRkR0R2VBTFJYTnlLTkhwWTY2ak9ZdmE0RXdtZUdtVmNtYy1odlVGRDBOWHpCZmpKWVFQUlJ2NXUzUkNWbjNFT2dWZUFYZXp30gHYAUFVX3lxTE5jbGpwY2Q2NGdobk9CQ1FER1pNVlNBZ2Njc1otRFJXYy1JZzk4ZFh2dHdmMHRYYjJJSEpwWGNMaGNSdDdRWUo3NlNUVHJxbkRUSHZrM3FPdnFPSE56VlBoX2ZubHpVVG1QbGVyOVkzVHgzV3lUeGFNQUx6TldIVW5JMlVHM3p1eUNfWnpMUHMzc0sxZENuUlFNdkdZRk5KWUcwZ0NtR0RIVHBBZkxTZ1BUTHVvQThpWE1FWnBRMWJyRTcyOFZtbzZEb3FqbmJsSzhQdWowZnJqMA?oc=5>
-
-### Nymex Overview: Petroleum Futures Falling as Trump Pauses Plans to Attack Iran -- OPIS
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-05-19 15:59
-- 链接: <https://news.google.com/rss/articles/CBMisgFBVV95cUxPNE9BekhJQkFRb2FrQVhCeWpTOHh4RHNyb2FKTEF5RmxZdW1PNUR2Y1Z1bHJZLTE5QllLWUREdWlOTm93ZTgzeUpTdGZlN0xGellGYmFXMjBFVkNzdFEwcEtsUlF0X2JZb3JhSGowbVlja3cycmRiRW04OGt1VDVnNG16X3FDdGFLT0hNeHZYTkFlQTlWYlNBTjhXQUpVd2FKc1p4LWs4XzdnVEhJa2paa19B?oc=5>
+- 场馆: CoinMarketCap
+- 时间: 2026-05-18 17:10
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1LWWhvWks4YV9Xdk41bXQwTEppZG5XRE1KcGRJa3kzZUJtTVBuY2ZDT3RRZFE4SGg4ZzdZSDJkSGt1V19NX2ZhZ0NQNWRRcXlyenBRblpDN01NMl9yZWFKRFBKamFDZw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-19 19:47  (6 条)
+
+- **特朗普** | 万斯称特朗普本人并未亲自进行股票交易 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE54LWlpUm1NWmZ2bTFNcVEyTDI2Zmx1NGZqUkFDNm4zOVRfclR0SW81RElmeS1yOVZLd050Z3NQOUJWc1M1Y0lncXMwYw?oc=5>
+- **特朗普** | VOA专访：金明日牧师女儿：感谢特朗普总统为爸爸发声，期待全家尽快团聚 <https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ3pVWnZ2VlhmbjZRQ3MxUGpkVDNscmZDVWlmTmFJVi12U0Z3UWJBck1OcmZ0OE81Nm5uY3RCTXlVT1dBYUpzOVpDd2RWNXFBMGdnOGtyWTRaN1JTMnBERVM1MWhvWUgwUERQeEcwbEVqWmlld0ZVdFhFSGtObzV6T2xacTlWUkN2QXpObl9lWHVXRTB5TWJ0cG4wTFRPakRMTGJ3WHJ1b9IBqgFBVV95cUxQc0pnQ3B6UVlUcGd4U01kdE1Ec2ZQTWk5U1NzNjE4Z0lURmpJRWpmaG41UVVzdFV2MnBMOC1jY2RCbEVwOHlFYVZGUjMwMHMwUk5qUGdJWEl0V0VWSjYtM2tROUU4U0d2TE41RkZ3REJoNVdEU3A1ckltQnpuOS12WHFKVkZjckhwQ2dLbDctNGNfZXJoaVotZmZBblpGQmI5UjRST0I4WWI0QQ?oc=5>
+- **特朗普** | 特朗普总统表示做好与哈瓦那达成协议的准备；美国对古巴官员和情报机构实施新制裁 <https://news.google.com/rss/articles/CBMihgJBVV95cUxON2lsRmtTMklJV1dMcUozVnNnQXlmT2ppb1VqRVNiVGx4Y0FUYTJmQW40ZVpKVmU4SlZGWjFhVzNtQ2pnNE1RMy10ZUJTTUIxRzlSbUpRUUJWWlNwN1VzQ2VGV1RzOUJ2WnlHaHZUMEdQS2J2cnBFb3hqZXU5QXBYbzF3Vkgwd2lwak8taTdYa0pJRF9wZ3NaTzE0Z2xoR2VPSkFBOWt0YlRsa2tFUGhjLXNpSmV0ZTRTcDlJelRFMnZEYXl2UVpZVERRRlk2NHJCYlJkZGhDR1VCc3lRSWl1Rml0TklkY0FETnp6ZEJsc0dMMmdqcVRhUXpyWUMwY1lFNUVVZ0p30gGIAkFVX3lxTFBfcFVtdmRaTkJXaVlVNzNaSG1pNEttWjRJWHAySVdEa29QV3ktaHlpMnI3RTRnLTJMTmR0TEFKSG9wMW85Um9LSWNXV2dJSUtvb0pTNVA3NDI2R0dTV0lLb1pQUXRhdklhSWZjX1VrXzBJZ2QzQXZISVZYVFluWkoweDlibWNZbm11WW42OF9BWERZRmNfVFVPd1NHaFlfdlVKMDZsNDZsUnFvRThNcl9WTjNYR1lpWENYcWlieGUycWRSNk9lQWpTVmpja0lvczlVLVFGcHljQnl4eFIzUjc3N0l3OGRzYWlIUlBFYnNaOVlPNE1rQjBVcG9Yck5zUWE3dkpMVDQ5Ug?oc=5>
+- **特朗普** | 特朗普：再给伊朗两三天时间。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE51RjdQeExES1ViWUhPZkR5cGd3aWI3ckNseWZJa1B0LVlGTDJRQjdQdVpTeUFNaVRRNmstSHhiRTZvRW1wTDBpbHhXRQ?oc=5>
+- **特朗普** | 特朗普称美方可能不得不对伊朗“再予以一击” <https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzNjI3bWpYRjRzUzREdTZNWFVyekVFdG5zeFdpS2d6NUtvbmRCWExWcWZLUVZtYS1oUDhIQ2ZLd1QzRkMtM1VQZ0hhUGVFajBNNlZUU2NjWnBjTy1YTld5Uw?oc=5>
+- **Trump** | OFFICIAL TRUMP(TRUMP) 币价，图表，市值以及其他指标 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1LWWhvWks4YV9Xdk41bXQwTEppZG5XRE1KcGRJa3kzZUJtTVBuY2ZDT3RRZFE4SGg4ZzdZSDJkSGt1V19NX2ZhZ0NQNWRRcXlyenBRblpDN01NMl9yZWFKRFBKamFDZw?oc=5>
 
 ### 2026-05-19 17:36  (9 条)
 
