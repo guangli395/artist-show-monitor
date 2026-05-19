@@ -1,48 +1,91 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-18 22:55**
-- 本轮扫到 1526 条, 新增 **4** 条
+- 最近更新: **2026-05-19 00:01**
+- 本轮扫到 1534 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (8 条)
 
-### 特朗普政府将仿制药纳入特朗普处方药计划
+### 特朗普称将推迟对伊朗发动军事打击
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 央视网
+- 时间: 2026-05-18 23:22
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5VUnpyUmRpdWdiSmttcG5haW5qREU5WmRZOFo0ZlBBcEtjQi10NXNDMkNaQVJDZGRybXdEWS1qS1JMd0dkTlpVV2NzcjgySFN1aTBUWlJoVEZmbFY0NUtad19YLUlyaUdXc1MyMFpEc0dHTGthODRXWg?oc=5>
+
+### 凌晨，特朗普前无古人的救市
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-18 22:32
-- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTFA3NHhnb095Y3FrVW1oZ2dnQm5tNGtnSjIyNlJsRXRXYjZuQVNNTHlzOE5sMk1nX1lRcVVOUlpRRGFfZTk0RkhiUm1GUG5UN0x0eEtPNzJzc0lRUzNNM3BjWjNKalNCYTZVSFRybURPYVdRdHhlRHlscF9B?oc=5>
+- 时间: 2026-05-18 23:06
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE9UejVkek5Mc3ZROV9ITTFRY21oOXFONC1LS25VOXZHVFZFd190SEdRVk04cE9tQ0xZRFdTNFVDeDNqejBYbWJiN0R1ZGZZOWx0QmZhaUhEeTZYczFzVGV3akplQlRoZjFzVWVzcENPUEttbFdLR3c?oc=5>
 
-### 习近平同美国总统特朗普在中南海小范围会晤
+### 习近平同美国总统特朗普会谈
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 人民日报
-- 时间: 2026-05-15 21:45
-- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxQTWhZYXRkUXBrdF82bFFGTEM1cC02TV9kS0ZDdUVvWWo1Rm5scExWakZidTloMkpYNWZpdDluTlg3WlFmeXQ1ZkFFNnFHaXdTWUE1Sm1ZaU1lemN4Y2dvMDYwTGVfWHhUbWswWkEzNGROelFBVmRRT1dNaDNZRkVGVA?oc=5>
+- 场馆: 新华网
+- 时间: 2026-05-14 07:10
+- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxNcGN3TzRhVlNHaDFzZU1tdlkzekpjX2pXQ2h6eGRtUzJXc2RXcDg5ZkxYYkwxQTNfRXAySmtNMWlQUmNrYkswaUExZ2dQWWRQNmlwMm9qNEZPZ0l2cVNiRjFCdTdsdDNVTzRvRXpFS2ZqTTBSZmlwcVNfSUFpTEJEdWk0aDB5cWQ2NFgxamdCNXF1eG81eFJqdA?oc=5>
 
-### 美参院外委会批总统“单打独斗” 令美国陷入被动
+### 法国世界报 - 特朗普掉进了中国在对台军售问题上的“谈判陷阱”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-05-18 22:43
+- 链接: <https://news.google.com/rss/articles/CBMisgNBVV95cUxQNTMxR2FFTzJxX0V2amNVdl9vMmNVRmZpOXVidF9xQ1FpM1R6YW1SNjVYcG1oS3dpU1dEMlJScjRIdWpsOFR5ZkxvMWNPN0V1ZGdlbW02c1dZb29ENmhMclByRS14V0EzRG9JWHkySTZsdDhObGhFYnB0b2h1QnhLeUlLRW5uczRUWE1WUi14T3hVTVJUTXpyTEhCYkl1TGdibktWWDBlSVdjOVhGM3ZUOWxVWUcwcEZTWnFIRl82eVZPSzItOE9JQXpsOVAtR0NQZzRtWFNHNll4dkVPQnJaWFNueklKTEpadmVzS080U19IVkdiMU8xdjdjSEtUWjBMQW1yTXY1UUtlNXZrcktLLUNtSTBwY2ktLXk4aWlXUzRzZ09vYmZCMWpsbW1OdjB0aG1SWVRZc3U0SmtsdjBXMmdRQzY0QkpkVXN1VDBwUGVUeTllY05MMnA2VUhnUGd4Z3piV1UxeUFmTUpqV2l4R1ZGOHluSjVWOVM3MHIxb015T2xsM3BYcWlwS1Q5VUlNRlBvREtqRXRWOFZZdm04aHlNdTdacEJlWGVyTm9lWlNqZw?oc=5>
+
+### 特朗普叫停对伊朗军事打击 称谈判正朝着和平协议推进
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 搜狐网
+- 时间: 2026-05-18 23:45
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxNWm82aWZ6clppWHdSM1pNLWN2RGh6dE94RE1qXzgycmxYZ3Nwa01aTTFpZ1o5RFZ1S1c2WXc4bzdpa2g5a3JoTzZzQWFFdG9WRWhRcTM4dXExZHBESEFYT0JqT1pXVWNsZGIxZ0xoSjI5UWpQcEhfMVRNS2t6TElOVnk5RTROR0Q1dWNlcg?oc=5>
+
+### 特朗普称不考虑向伊朗作任何让步
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新京报
+- 时间: 2026-05-18 23:32
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vSm9ROVVFM1dNSDF0Q2lPNzlYLW5FdzNTMUxQWHVtLXFteW9QVjZQclVNYU5PTnFuZm56VHhNRUdGV2p3d2dZQVNRQTMyN2JnTkNhRkdFQ1lKTmw0REJvQ2FWQkM?oc=5>
+
+### 特朗普称已"叫停"对伊空袭计划 警告若谈判失败将发动“全面攻击”
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: wenxuecity
-- 时间: 2026-05-17 21:06
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3Vnc1RTg4RjFMaHk0SVhoOWJrRXZNZjlpUWNkR0hHb094cllZdlJ4R0M3ZnVKRU1CRlN5LWwxa3hjdmFoVzFRckNBOGNOdXNJdkNfcHJpQzlLTUM0RFNjYXpsSHdnTUdj?oc=5>
+- 场馆: RFI
+- 时间: 2026-05-18 21:22
+- 链接: <https://news.google.com/rss/articles/CBMiqANBVV95cUxQNWt4TjVUZ1FmTWl2VFluMVVvS2ZELTdQeHBiclVwRENNakVDdTF0Z3ZyQjZKMGhOZ2F5Vm1ESjNoM2NqOXhuV0E2ZFZWUUtheDM3YkgyRHFMbmJjMDRXMjFoaklFTEkwdE1uU1p0dXZMVUs5NmZCSE5mZ2pCS1lxbXVlZ3k5Z2dFVzh6ZlNlbHd0VWpSZEQtYU9OdExCaGN5Zlpna2l4RGotVXVwdkNZbTFRaXdEU3NhYnh2S1ZMandEWVlyM05KTnRpd3R0QXJkQkdTYzFXU056eDZPNWhWa3Q2bllEcDVDbzhYbUFydkg3RGRkeDJWS2xxUmlIV2pKeExwSThlWVJzSFctSW5EUjhCRFR6eEhoTjZ4QkRrQWdQWVBPRnNHLWlYTjB2QkRsam5FMHBoNFVucXRSbXF5aVB1UFBIRjNSY1BjWGdRb0JJbFhsY2RQUEsxM1dnem1EMGlYc0FQTFpEVmNuZ3RsUlRzWW1YMXVNRnFvYUxjNXp2bjk5b3JwNlBPUXN2ZjRwUnRhejJpSU1SSzBORXJMM1RDVHQxSGZr?oc=5>
 
-### 特朗普称应卡塔尔、沙特和阿联酋要求，美国将“暂缓”对伊朗政权即将发动的打击计划
+### Trump Says Planned Iran Attack On Hold After Gulf Leaders' Request
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-05-18 21:47
-- 链接: <https://news.google.com/rss/articles/CBMiiwJBVV95cUxOU1hLSW5WY0FUZ0pqVjB5bFNGMzE4cjI5UHV4QWdNUmhpTHlNMVZTdTMwQ1NQVFFBVkhzOVZPTnczRWd4R1ljQ1JmRkprRXFtUHVqMk1memh2bnpMUzIwaHVscFliRkVMS0NCaC1RN005YW9ZdEtETDFHbVpYOWxUZ0hKY2FNN0UtdXlULXFrQnRyQ2YxRy13RHNiTTRhekQ4TFRQOWVLelhQSGRWejc4LTJTZC1rdnRLWjA1TmowVzVJTFd1aVA4QnExdXFUMjhWSENDMWtqVXhsTllDdjkybW1pNlZXWWp0NW9ZalNmUnhlc0Y1SmNYLXlnekkyNWVfMDFtWjdfeTRQTTjSAY4CQVVfeXFMTWhrS0JvdGFPYnQ5YzhINldkQ1VJV25US1g4Nm12ZnNEM3ZaRW52LUVlVmZsOXVNU1ZsSUowWWdSbnNjaEp1VEp6TnpJRnVDUjFiaHFRLTVZLVVKWnpiaGoxUU51ZmxKV2Utd0VNQUxzdFhucnc0NGpEaXZEdERVbzJyODQwV1hvaDhqMlRJcWFYcFRMSUljSUw3ZU9sTDZEM3JoSGRFc0Nkb0N5Vm14a2t1RXNRR1V1YkpELUpObEpMeEZvNHFRYkwtY3U1U0tHRVoxSUZuSUVrWjBHb3RZUDhXMlJvUnVaY0JBWGJnN2J2NUs4LWh5eGxPRE5ZSFlkYjlDMkh2REZEX2QyUE9B?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-05-18 23:42
+- 链接: <https://news.google.com/rss/articles/CBMipwFBVV95cUxNUExMUS1sNy1MTUt1ZWhyQ0NUdGJoUGw3TzB4S1prRmxxYnZIdy1Vb29pVGdlSC03NE8wRVRha3d4elczQWtnVHE2NklIOGk5elRDUFFVX053VUZ0OG1BTk8zb1NOODl1RHJBNzRQbTlEaWtTVXJJSmVwbkZyQVJ1elZFWUs0Z0tOTmxaVjZZcTF4N1RsLVUxNzZhZHgyVjd6bzg5MXJyTQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-19 00:01  (8 条)
+
+- **特朗普** | 特朗普称将推迟对伊朗发动军事打击 <https://news.google.com/rss/articles/CBMieEFVX3lxTE5VUnpyUmRpdWdiSmttcG5haW5qREU5WmRZOFo0ZlBBcEtjQi10NXNDMkNaQVJDZGRybXdEWS1qS1JMd0dkTlpVV2NzcjgySFN1aTBUWlJoVEZmbFY0NUtad19YLUlyaUdXc1MyMFpEc0dHTGthODRXWg?oc=5>
+- **特朗普** | 凌晨，特朗普前无古人的救市 <https://news.google.com/rss/articles/CBMidkFVX3lxTE9UejVkek5Mc3ZROV9ITTFRY21oOXFONC1LS25VOXZHVFZFd190SEdRVk04cE9tQ0xZRFdTNFVDeDNqejBYbWJiN0R1ZGZZOWx0QmZhaUhEeTZYczFzVGV3akplQlRoZjFzVWVzcENPUEttbFdLR3c?oc=5>
+- **特朗普** | 习近平同美国总统特朗普会谈 <https://news.google.com/rss/articles/CBMimAFBVV95cUxNcGN3TzRhVlNHaDFzZU1tdlkzekpjX2pXQ2h6eGRtUzJXc2RXcDg5ZkxYYkwxQTNfRXAySmtNMWlQUmNrYkswaUExZ2dQWWRQNmlwMm9qNEZPZ0l2cVNiRjFCdTdsdDNVTzRvRXpFS2ZqTTBSZmlwcVNfSUFpTEJEdWk0aDB5cWQ2NFgxamdCNXF1eG81eFJqdA?oc=5>
+- **特朗普** | 法国世界报 - 特朗普掉进了中国在对台军售问题上的“谈判陷阱” <https://news.google.com/rss/articles/CBMisgNBVV95cUxQNTMxR2FFTzJxX0V2amNVdl9vMmNVRmZpOXVidF9xQ1FpM1R6YW1SNjVYcG1oS3dpU1dEMlJScjRIdWpsOFR5ZkxvMWNPN0V1ZGdlbW02c1dZb29ENmhMclByRS14V0EzRG9JWHkySTZsdDhObGhFYnB0b2h1QnhLeUlLRW5uczRUWE1WUi14T3hVTVJUTXpyTEhCYkl1TGdibktWWDBlSVdjOVhGM3ZUOWxVWUcwcEZTWnFIRl82eVZPSzItOE9JQXpsOVAtR0NQZzRtWFNHNll4dkVPQnJaWFNueklKTEpadmVzS080U19IVkdiMU8xdjdjSEtUWjBMQW1yTXY1UUtlNXZrcktLLUNtSTBwY2ktLXk4aWlXUzRzZ09vYmZCMWpsbW1OdjB0aG1SWVRZc3U0SmtsdjBXMmdRQzY0QkpkVXN1VDBwUGVUeTllY05MMnA2VUhnUGd4Z3piV1UxeUFmTUpqV2l4R1ZGOHluSjVWOVM3MHIxb015T2xsM3BYcWlwS1Q5VUlNRlBvREtqRXRWOFZZdm04aHlNdTdacEJlWGVyTm9lWlNqZw?oc=5>
+- **特朗普** | 特朗普叫停对伊朗军事打击 称谈判正朝着和平协议推进 <https://news.google.com/rss/articles/CBMijAFBVV95cUxNWm82aWZ6clppWHdSM1pNLWN2RGh6dE94RE1qXzgycmxYZ3Nwa01aTTFpZ1o5RFZ1S1c2WXc4bzdpa2g5a3JoTzZzQWFFdG9WRWhRcTM4dXExZHBESEFYT0JqT1pXVWNsZGIxZ0xoSjI5UWpQcEhfMVRNS2t6TElOVnk5RTROR0Q1dWNlcg?oc=5>
+- **特朗普** | 特朗普称不考虑向伊朗作任何让步 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vSm9ROVVFM1dNSDF0Q2lPNzlYLW5FdzNTMUxQWHVtLXFteW9QVjZQclVNYU5PTnFuZm56VHhNRUdGV2p3d2dZQVNRQTMyN2JnTkNhRkdFQ1lKTmw0REJvQ2FWQkM?oc=5>
+- **Trump** | 特朗普称已"叫停"对伊空袭计划 警告若谈判失败将发动“全面攻击” <https://news.google.com/rss/articles/CBMiqANBVV95cUxQNWt4TjVUZ1FmTWl2VFluMVVvS2ZELTdQeHBiclVwRENNakVDdTF0Z3ZyQjZKMGhOZ2F5Vm1ESjNoM2NqOXhuV0E2ZFZWUUtheDM3YkgyRHFMbmJjMDRXMjFoaklFTEkwdE1uU1p0dXZMVUs5NmZCSE5mZ2pCS1lxbXVlZ3k5Z2dFVzh6ZlNlbHd0VWpSZEQtYU9OdExCaGN5Zlpna2l4RGotVXVwdkNZbTFRaXdEU3NhYnh2S1ZMandEWVlyM05KTnRpd3R0QXJkQkdTYzFXU056eDZPNWhWa3Q2bllEcDVDbzhYbUFydkg3RGRkeDJWS2xxUmlIV2pKeExwSThlWVJzSFctSW5EUjhCRFR6eEhoTjZ4QkRrQWdQWVBPRnNHLWlYTjB2QkRsam5FMHBoNFVucXRSbXF5aVB1UFBIRjNSY1BjWGdRb0JJbFhsY2RQUEsxM1dnem1EMGlYc0FQTFpEVmNuZ3RsUlRzWW1YMXVNRnFvYUxjNXp2bjk5b3JwNlBPUXN2ZjRwUnRhejJpSU1SSzBORXJMM1RDVHQxSGZr?oc=5>
+- **Trump** | Trump Says Planned Iran Attack On Hold After Gulf Leaders' Request <https://news.google.com/rss/articles/CBMipwFBVV95cUxNUExMUS1sNy1MTUt1ZWhyQ0NUdGJoUGw3TzB4S1prRmxxYnZIdy1Vb29pVGdlSC03NE8wRVRha3d4elczQWtnVHE2NklIOGk5elRDUFFVX053VUZ0OG1BTk8zb1NOODl1RHJBNzRQbTlEaWtTVXJJSmVwbkZyQVJ1elZFWUs0Z0tOTmxaVjZZcTF4N1RsLVUxNzZhZHgyVjd6bzg5MXJyTQ?oc=5>
 
 ### 2026-05-18 22:55  (4 条)
 
