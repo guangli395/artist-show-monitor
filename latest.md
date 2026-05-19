@@ -1,80 +1,164 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-19 00:01**
-- 本轮扫到 1534 条, 新增 **8** 条
+- 最近更新: **2026-05-19 04:40**
+- 本轮扫到 1551 条, 新增 **17** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (17 条)
 
-### 特朗普称将推迟对伊朗发动军事打击
+### 5月19日开抢！2027周杰伦新加坡嘉年华演唱会抢票攻略来啦～
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1788599907_6a9bde6300101s9pc.html>
+
+### 周杰伦邓紫棋演唱会抢票攻略引热议
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301bpw8.html>
+
+### 周杰伦温州演唱会气氛热烈，粉丝热情高涨
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_2327169883_p8ab5cb5b02701l3eg.html>
+
+### 三夜狂欢，一城共振！一场演唱会如何“点燃”龙湾72小时？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://finance.sina.com.cn/jjxw/2026-05-18/doc-inhykxfq0085289.shtml>
+
+### 赫格塞思模仿特朗普：他跟我说，你得硬得像坨屎
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 央视网
-- 时间: 2026-05-18 23:22
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5VUnpyUmRpdWdiSmttcG5haW5qREU5WmRZOFo0ZlBBcEtjQi10NXNDMkNaQVJDZGRybXdEWS1qS1JMd0dkTlpVV2NzcjgySFN1aTBUWlJoVEZmbFY0NUtad19YLUlyaUdXc1MyMFpEc0dHTGthODRXWg?oc=5>
+- 场馆: 观察者
+- 时间: 2026-05-19 02:30
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1xSXNFT1FJQlhwcHU0ZjRZOUw0NXFQeWtRTmM3bHczVzVMMDR3VVROZUhoTVJNVFRJOVFLX3lFSUJJclJTTnFVSWVJblhRSmNyWWhFSDA4N3YxMDJYa19zVU9vZHlOLXZnUkE?oc=5>
 
-### 凌晨，特朗普前无古人的救市
+### 沃什周五将宣誓就任美联储主席，特朗普主持仪式
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-05-19 00:10
+- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE9HVDNhUWFQRDVjeTdUYlk1T3k2bjgzVDZHZ2NhRXkyNzhxQlVTU2RGLV9rWld6ZkZYNVVQX1laTkp6aHNRRW9OemU0ZTU5MjJr?oc=5>
+
+### 美媒：沃什22日将宣誓就任美联储主席 特朗普主持仪式
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中国经济网
+- 时间: 2026-05-19 02:34
+- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTE0yVTM2VVFMYkY2MkFwNkh6cUk0WnpKWXRUOXZodGVQWVp0TWZ4OGJuTlhMM3psaHRhVktVTFpCYlNxamhpaFBYTFRmbGtWOXIxRW96RnBESURpUERXRzJrRDE5bw?oc=5>
+
+### 美联储换届风波不断！鲍威尔临时主席安排引特朗普亲信不满
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-05-18 06:51
+- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxPMjM4V1Nud01RR19oZTJLZEtDMzQyMWQ2SVFEMmVldlN5ckFCUlI2WXZTdWcwa28wdm0za3pOeDc5TlQ2NDBnR243TWJYVnY0cmthYjIza0p0eFBjSlR5WGRldFpsTW5QX0lTczk4RHJ1enlNRWh0ZElZRi1nMnVKbFNGVXcxQ3h6OWhHSzV3dzBhdlFFV25GWElFaWt4ejdvdnhlRUFjQW5GYjVPZjN3SmFQZ3NCa0t0YUowcGx6MXVlandZbDF2WVU1RExPSTg?oc=5>
+
+### 特朗普连发15张图分享“中国记忆”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-05-18 22:13
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1DVVdTYjlVSHB5cGpRN0FWa21VX2pVcldwUUI2MHhla2RZUVNjM25zdWF0OTB4NjNmUWxDdzJvbzNvaEVocEZTaThWQWI?oc=5>
+
+### 特朗普：推迟打伊朗
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-05-18 23:45
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBhOTRSOG5kZ2tHOWZkclY4NEdsSjBzd0FFM3RvVjR3VU93UnNqOXBlOGQ1Y2FwUHJ1czdlZUxnY0VvTnlVODNMOTE2eHh4N3gyMGVXNDdwWU9aaXlPaElIS082SVVjdmlIR0E?oc=5>
+
+### 特朗普撤销对美国国税局的100亿美元诉讼
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-18 23:06
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE9UejVkek5Mc3ZROV9ITTFRY21oOXFONC1LS25VOXZHVFZFd190SEdRVk04cE9tQ0xZRFdTNFVDeDNqejBYbWJiN0R1ZGZZOWx0QmZhaUhEeTZYczFzVGV3akplQlRoZjFzVWVzcENPUEttbFdLR3c?oc=5>
+- 时间: 2026-05-17 03:02
+- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQTgyUkNNSzJyWnRQODRfVWZ5cUVQeEdmZnBPeW8wbjM5endQWGJnTW1vOU92N3JPTGRfVjRPeGJWUzR1UGtoYUp3bm85R2dJX0FVbjhiOXV3YlRqbDVhZW4zUG5ncjZISGVTMVpDaGQ0UXRsVmpYbWZvTHBLMWptWjZLZ2t6Ykd4ZWs0MHhCdlJDekhHUENTZ1hBLTZWeHRZenEzdWY2MUpaZw?oc=5>
 
-### 习近平同美国总统特朗普会谈
+### 特朗普与赖清德通话的可能性有多大
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-05-18 22:22
+- 链接: <https://news.google.com/rss/articles/CBMinwJBVV95cUxPanptanFBNC1Pc0FteVdKcUE1U2Y1Skg2aExyZ0xWZFVoeGo1dDBWWWZOcGRsWDU2YkZZMGR5RHBJTmNfRXV5V3RpUEt5M3NvWTZSTWlPSTVfSkpfTU5oRG9vZUE3YWZWZ2xua3hVWkZWeDJmeHVoYkF0dllubURHZERzbnM1b1NzaGJad3VGNkhPZ1FfeEtyT0ZkRzBYd0tUbUtfYUJpUnpGejBab0tBV2x6c2kzaTVOS2kxM2ktU1V5ajJnVzZiSnNXVWlxRzh2dTZsekV0cGtkcTR2SllvRks0dDBudmU4U1VpcXpiT3UtMFIybWdoZXluNGdKbmhmYzNJR1UtMnRDTDFfYk9SRXR4SXdFbm1ZT3N6ejVBVQ?oc=5>
+
+### 默克尔：不要低估特朗普 警告背后的深层含义
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-05-19 02:04
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5jbEtnNmEzWGVrMFJqYW0zajdfZFZxOHBsSXB0ZUprU0cyd1RITXpCcXk1Z1d1QnhZcHZBRjZiaFBjbnJmVUNiUl92aWVTeVFVV1h1NVJpME5yRXQ2ZG9jdnlVMEVhSjVfYUtzNjJ0d1U?oc=5>
+
+### 特朗普：应海湾三国请求 推迟攻击伊朗
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新华网
-- 时间: 2026-05-14 07:10
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxNcGN3TzRhVlNHaDFzZU1tdlkzekpjX2pXQ2h6eGRtUzJXc2RXcDg5ZkxYYkwxQTNfRXAySmtNMWlQUmNrYkswaUExZ2dQWWRQNmlwMm9qNEZPZ0l2cVNiRjFCdTdsdDNVTzRvRXpFS2ZqTTBSZmlwcVNfSUFpTEJEdWk0aDB5cWQ2NFgxamdCNXF1eG81eFJqdA?oc=5>
+- 时间: 2026-05-18 21:51
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1fUktJa3pFUlVUdEJSSTVRdHJKTEFIQUdTNzVMT1pvajFFTnRCQm8wdktkRGVpdEdyZUhIYlgxZndlOWNLNHRCd21ab1N2VlBRbEMtc0hjWkZOdlNpSlN4cGtTNXlncGlndk5JY1ktT2ZuUUU1Y253ZUFqVmxTUkU?oc=5>
 
-### 法国世界报 - 特朗普掉进了中国在对台军售问题上的“谈判陷阱”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-05-18 22:43
-- 链接: <https://news.google.com/rss/articles/CBMisgNBVV95cUxQNTMxR2FFTzJxX0V2amNVdl9vMmNVRmZpOXVidF9xQ1FpM1R6YW1SNjVYcG1oS3dpU1dEMlJScjRIdWpsOFR5ZkxvMWNPN0V1ZGdlbW02c1dZb29ENmhMclByRS14V0EzRG9JWHkySTZsdDhObGhFYnB0b2h1QnhLeUlLRW5uczRUWE1WUi14T3hVTVJUTXpyTEhCYkl1TGdibktWWDBlSVdjOVhGM3ZUOWxVWUcwcEZTWnFIRl82eVZPSzItOE9JQXpsOVAtR0NQZzRtWFNHNll4dkVPQnJaWFNueklKTEpadmVzS080U19IVkdiMU8xdjdjSEtUWjBMQW1yTXY1UUtlNXZrcktLLUNtSTBwY2ktLXk4aWlXUzRzZ09vYmZCMWpsbW1OdjB0aG1SWVRZc3U0SmtsdjBXMmdRQzY0QkpkVXN1VDBwUGVUeTllY05MMnA2VUhnUGd4Z3piV1UxeUFmTUpqV2l4R1ZGOHluSjVWOVM3MHIxb015T2xsM3BYcWlwS1Q5VUlNRlBvREtqRXRWOFZZdm04aHlNdTdacEJlWGVyTm9lWlNqZw?oc=5>
-
-### 特朗普叫停对伊朗军事打击 称谈判正朝着和平协议推进
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-05-18 23:45
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxNWm82aWZ6clppWHdSM1pNLWN2RGh6dE94RE1qXzgycmxYZ3Nwa01aTTFpZ1o5RFZ1S1c2WXc4bzdpa2g5a3JoTzZzQWFFdG9WRWhRcTM4dXExZHBESEFYT0JqT1pXVWNsZGIxZ0xoSjI5UWpQcEhfMVRNS2t6TElOVnk5RTROR0Q1dWNlcg?oc=5>
-
-### 特朗普称不考虑向伊朗作任何让步
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-05-18 23:32
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vSm9ROVVFM1dNSDF0Q2lPNzlYLW5FdzNTMUxQWHVtLXFteW9QVjZQclVNYU5PTnFuZm56VHhNRUdGV2p3d2dZQVNRQTMyN2JnTkNhRkdFQ1lKTmw0REJvQ2FWQkM?oc=5>
-
-### 特朗普称已"叫停"对伊空袭计划 警告若谈判失败将发动“全面攻击”
+### 中美北京峰会后稀土争议未解 白宫称中方将回应供应关切
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: RFI
-- 时间: 2026-05-18 21:22
-- 链接: <https://news.google.com/rss/articles/CBMiqANBVV95cUxQNWt4TjVUZ1FmTWl2VFluMVVvS2ZELTdQeHBiclVwRENNakVDdTF0Z3ZyQjZKMGhOZ2F5Vm1ESjNoM2NqOXhuV0E2ZFZWUUtheDM3YkgyRHFMbmJjMDRXMjFoaklFTEkwdE1uU1p0dXZMVUs5NmZCSE5mZ2pCS1lxbXVlZ3k5Z2dFVzh6ZlNlbHd0VWpSZEQtYU9OdExCaGN5Zlpna2l4RGotVXVwdkNZbTFRaXdEU3NhYnh2S1ZMandEWVlyM05KTnRpd3R0QXJkQkdTYzFXU056eDZPNWhWa3Q2bllEcDVDbzhYbUFydkg3RGRkeDJWS2xxUmlIV2pKeExwSThlWVJzSFctSW5EUjhCRFR6eEhoTjZ4QkRrQWdQWVBPRnNHLWlYTjB2QkRsam5FMHBoNFVucXRSbXF5aVB1UFBIRjNSY1BjWGdRb0JJbFhsY2RQUEsxM1dnem1EMGlYc0FQTFpEVmNuZ3RsUlRzWW1YMXVNRnFvYUxjNXp2bjk5b3JwNlBPUXN2ZjRwUnRhejJpSU1SSzBORXJMM1RDVHQxSGZr?oc=5>
+- 时间: 2026-05-18 21:25
+- 链接: <https://news.google.com/rss/articles/CBMijANBVV95cUxNYjdZTUJwYmFLOVhLOW0tNkR4cVc1NE53TUt2TzZEVXRnVlJJM2xoa1V5NEJfNi1XSjBoMHp6YkM5VUlqa3VJRzBDR25nNlZESVl3akhIc3JCdS15OEpRTWFadE9uVlQtSDVVdGtaTW9LOFVNZDBKdnN1WTFKTnVnVXVPN1o1YmdxUzIyNHJ4cmJjZzk2ZFZIcFlFUmJfc0lTWmNtTDNtWmJFOU1hV2dpXzNfS1J2TlVmTVlIcVdwMWhYbGdOYXVWSlVHdFN3TXF0V3YtUnpmLVozbHJwUzRVZ3hpR2pJa2ZBb3VFcEdseGVsbmJrakp4dlpLSGE3TEJYOVdFRUVLWXlLR1h5ZUVNRWd6ZU9CQWFEVENlRXUtMHZGOFlqX21wTmlDdGRKYnVIcy1fRXlxQ01acDV3RzFIOVMyNTZaRGxOdDh4UFo2UXF5VFVqTmhRRkx5dXc2MUlORFZpR0JWOG4zLXVvUGNaTWE5SjI2WjhERS1sbVlVOHpnZUROMlhDUjZ2cnM?oc=5>
 
-### Trump Says Planned Iran Attack On Hold After Gulf Leaders' Request
+### 说唱巨星妮琪·米娜如何变身为特朗普的“头号粉丝”？
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-05-18 23:42
-- 链接: <https://news.google.com/rss/articles/CBMipwFBVV95cUxNUExMUS1sNy1MTUt1ZWhyQ0NUdGJoUGw3TzB4S1prRmxxYnZIdy1Vb29pVGdlSC03NE8wRVRha3d4elczQWtnVHE2NklIOGk5elRDUFFVX053VUZ0OG1BTk8zb1NOODl1RHJBNzRQbTlEaWtTVXJJSmVwbkZyQVJ1elZFWUs0Z0tOTmxaVjZZcTF4N1RsLVUxNzZhZHgyVjd6bzg5MXJyTQ?oc=5>
+- 场馆: 华尔街日报中文网
+- 时间: 2026-05-19 04:33
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5fS0xKN1ZfbFdSQnQ0SWxFWV9PVlB3WTdnQ3hPcHluaG1GRUtvd0lfeEpMU3RmWUVKUVlqVDRON1hwYUxKSF9aZkRjWmpHTWlOVjd4S09pVmRQdnl0WlRTejFlRmlKeE50clE?oc=5>
+
+### 美股指数收复部分失地；特朗普押后对伊朗攻击
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: AASTOCKS.com
+- 时间: 2026-05-18 21:10
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE92c1VWN1RRQ0R0cmdvOV9ENmFleEdEajV3bEFvbnBjQ3ZianNQQkRoZ1BSdEFLeHNZeHVvMlNlYkxSM2xITXNyNThrNEtRdWZkU0hqRW1heUpaeEtiZXRzV3ZxOVdURjZpV3B4MGFpZw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-19 04:40  (17 条)
+
+- **周杰伦** | 5月19日开抢！2027周杰伦新加坡嘉年华演唱会抢票攻略来啦～ <https://k.sina.com.cn/article_1788599907_6a9bde6300101s9pc.html>
+- **周杰伦** | 周杰伦邓紫棋演唱会抢票攻略引热议 <https://k.sina.com.cn/article_7879924009_m1d5ae192903301bpw8.html>
+- **周杰伦** | 周杰伦温州演唱会气氛热烈，粉丝热情高涨 <https://k.sina.com.cn/article_2327169883_p8ab5cb5b02701l3eg.html>
+- **周杰伦** | 三夜狂欢，一城共振！一场演唱会如何“点燃”龙湾72小时？ <https://finance.sina.com.cn/jjxw/2026-05-18/doc-inhykxfq0085289.shtml>
+- **特朗普** | 赫格塞思模仿特朗普：他跟我说，你得硬得像坨屎 <https://news.google.com/rss/articles/CBMiakFVX3lxTE1xSXNFT1FJQlhwcHU0ZjRZOUw0NXFQeWtRTmM3bHczVzVMMDR3VVROZUhoTVJNVFRJOVFLX3lFSUJJclJTTnFVSWVJblhRSmNyWWhFSDA4N3YxMDJYa19zVU9vZHlOLXZnUkE?oc=5>
+- **特朗普** | 沃什周五将宣誓就任美联储主席，特朗普主持仪式 <https://news.google.com/rss/articles/CBMiUEFVX3lxTE9HVDNhUWFQRDVjeTdUYlk1T3k2bjgzVDZHZ2NhRXkyNzhxQlVTU2RGLV9rWld6ZkZYNVVQX1laTkp6aHNRRW9OemU0ZTU5MjJr?oc=5>
+- **特朗普** | 美媒：沃什22日将宣誓就任美联储主席 特朗普主持仪式 <https://news.google.com/rss/articles/CBMiY0FVX3lxTE0yVTM2VVFMYkY2MkFwNkh6cUk0WnpKWXRUOXZodGVQWVp0TWZ4OGJuTlhMM3psaHRhVktVTFpCYlNxamhpaFBYTFRmbGtWOXIxRW96RnBESURpUERXRzJrRDE5bw?oc=5>
+- **特朗普** | 美联储换届风波不断！鲍威尔临时主席安排引特朗普亲信不满 <https://news.google.com/rss/articles/CBMizwFBVV95cUxPMjM4V1Nud01RR19oZTJLZEtDMzQyMWQ2SVFEMmVldlN5ckFCUlI2WXZTdWcwa28wdm0za3pOeDc5TlQ2NDBnR243TWJYVnY0cmthYjIza0p0eFBjSlR5WGRldFpsTW5QX0lTczk4RHJ1enlNRWh0ZElZRi1nMnVKbFNGVXcxQ3h6OWhHSzV3dzBhdlFFV25GWElFaWt4ejdvdnhlRUFjQW5GYjVPZjN3SmFQZ3NCa0t0YUowcGx6MXVlandZbDF2WVU1RExPSTg?oc=5>
+- **特朗普** | 特朗普连发15张图分享“中国记忆” <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1DVVdTYjlVSHB5cGpRN0FWa21VX2pVcldwUUI2MHhla2RZUVNjM25zdWF0OTB4NjNmUWxDdzJvbzNvaEVocEZTaThWQWI?oc=5>
+- **特朗普** | 特朗普：推迟打伊朗 <https://news.google.com/rss/articles/CBMiakFVX3lxTFBhOTRSOG5kZ2tHOWZkclY4NEdsSjBzd0FFM3RvVjR3VU93UnNqOXBlOGQ1Y2FwUHJ1czdlZUxnY0VvTnlVODNMOTE2eHh4N3gyMGVXNDdwWU9aaXlPaElIS082SVVjdmlIR0E?oc=5>
+- **特朗普** | 特朗普撤销对美国国税局的100亿美元诉讼 <https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQTgyUkNNSzJyWnRQODRfVWZ5cUVQeEdmZnBPeW8wbjM5endQWGJnTW1vOU92N3JPTGRfVjRPeGJWUzR1UGtoYUp3bm85R2dJX0FVbjhiOXV3YlRqbDVhZW4zUG5ncjZISGVTMVpDaGQ0UXRsVmpYbWZvTHBLMWptWjZLZ2t6Ykd4ZWs0MHhCdlJDekhHUENTZ1hBLTZWeHRZenEzdWY2MUpaZw?oc=5>
+- **特朗普** | 特朗普与赖清德通话的可能性有多大 <https://news.google.com/rss/articles/CBMinwJBVV95cUxPanptanFBNC1Pc0FteVdKcUE1U2Y1Skg2aExyZ0xWZFVoeGo1dDBWWWZOcGRsWDU2YkZZMGR5RHBJTmNfRXV5V3RpUEt5M3NvWTZSTWlPSTVfSkpfTU5oRG9vZUE3YWZWZ2xua3hVWkZWeDJmeHVoYkF0dllubURHZERzbnM1b1NzaGJad3VGNkhPZ1FfeEtyT0ZkRzBYd0tUbUtfYUJpUnpGejBab0tBV2x6c2kzaTVOS2kxM2ktU1V5ajJnVzZiSnNXVWlxRzh2dTZsekV0cGtkcTR2SllvRks0dDBudmU4U1VpcXpiT3UtMFIybWdoZXluNGdKbmhmYzNJR1UtMnRDTDFfYk9SRXR4SXdFbm1ZT3N6ejVBVQ?oc=5>
+- **特朗普** | 默克尔：不要低估特朗普 警告背后的深层含义 <https://news.google.com/rss/articles/CBMicEFVX3lxTE5jbEtnNmEzWGVrMFJqYW0zajdfZFZxOHBsSXB0ZUprU0cyd1RITXpCcXk1Z1d1QnhZcHZBRjZiaFBjbnJmVUNiUl92aWVTeVFVV1h1NVJpME5yRXQ2ZG9jdnlVMEVhSjVfYUtzNjJ0d1U?oc=5>
+- **特朗普** | 特朗普：应海湾三国请求 推迟攻击伊朗 <https://news.google.com/rss/articles/CBMif0FVX3lxTE1fUktJa3pFUlVUdEJSSTVRdHJKTEFIQUdTNzVMT1pvajFFTnRCQm8wdktkRGVpdEdyZUhIYlgxZndlOWNLNHRCd21ab1N2VlBRbEMtc0hjWkZOdlNpSlN4cGtTNXlncGlndk5JY1ktT2ZuUUU1Y253ZUFqVmxTUkU?oc=5>
+- **Trump** | 中美北京峰会后稀土争议未解 白宫称中方将回应供应关切 <https://news.google.com/rss/articles/CBMijANBVV95cUxNYjdZTUJwYmFLOVhLOW0tNkR4cVc1NE53TUt2TzZEVXRnVlJJM2xoa1V5NEJfNi1XSjBoMHp6YkM5VUlqa3VJRzBDR25nNlZESVl3akhIc3JCdS15OEpRTWFadE9uVlQtSDVVdGtaTW9LOFVNZDBKdnN1WTFKTnVnVXVPN1o1YmdxUzIyNHJ4cmJjZzk2ZFZIcFlFUmJfc0lTWmNtTDNtWmJFOU1hV2dpXzNfS1J2TlVmTVlIcVdwMWhYbGdOYXVWSlVHdFN3TXF0V3YtUnpmLVozbHJwUzRVZ3hpR2pJa2ZBb3VFcEdseGVsbmJrakp4dlpLSGE3TEJYOVdFRUVLWXlLR1h5ZUVNRWd6ZU9CQWFEVENlRXUtMHZGOFlqX21wTmlDdGRKYnVIcy1fRXlxQ01acDV3RzFIOVMyNTZaRGxOdDh4UFo2UXF5VFVqTmhRRkx5dXc2MUlORFZpR0JWOG4zLXVvUGNaTWE5SjI2WjhERS1sbVlVOHpnZUROMlhDUjZ2cnM?oc=5>
+- **Trump** | 说唱巨星妮琪·米娜如何变身为特朗普的“头号粉丝”？ <https://news.google.com/rss/articles/CBMiakFVX3lxTE5fS0xKN1ZfbFdSQnQ0SWxFWV9PVlB3WTdnQ3hPcHluaG1GRUtvd0lfeEpMU3RmWUVKUVlqVDRON1hwYUxKSF9aZkRjWmpHTWlOVjd4S09pVmRQdnl0WlRTejFlRmlKeE50clE?oc=5>
+- **Trump** | 美股指数收复部分失地；特朗普押后对伊朗攻击 <https://news.google.com/rss/articles/CBMib0FVX3lxTE92c1VWN1RRQ0R0cmdvOV9ENmFleEdEajV3bEFvbnBjQ3ZianNQQkRoZ1BSdEFLeHNZeHVvMlNlYkxSM2xITXNyNThrNEtRdWZkU0hqRW1heUpaeEtiZXRzV3ZxOVdURjZpV3B4MGFpZw?oc=5>
 
 ### 2026-05-19 00:01  (8 条)
 
