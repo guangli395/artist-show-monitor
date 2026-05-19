@@ -1,56 +1,91 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-19 22:43**
-- 本轮扫到 1604 条, 新增 **5** 条
+- 最近更新: **2026-05-19 23:58**
+- 本轮扫到 1612 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (8 条)
 
-### 美国总统特朗普：呼吁国会山出台铁路安全法案（立法草案）。
+### 特朗普：在推迟对伊朗打击决定之前，他“只差一小时”就要做出决定
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-19 21:37
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zcWxiSEFPTDFhVTY0S0hmbFlqSTd3SEFOUFRYN3BZUzhFenZZQ3E2QVpnOHQ2MjM5U0t0aFFBbHA5RHBqcVFtZldlYw?oc=5>
+- 时间: 2026-05-19 19:05
+- 链接: <https://news.google.com/rss/articles/CBMikwJBVV95cUxQN1ZsZGliSXBsNjJjTjlVeVJaZnUtTzl0ckNxSmxPSndIYi1rdmNoVXZmNFlsTlprbGZMSEY5WkctWTR5M3JFdWdPSDhWeFhLN1FqNUpxLXVBUGVidHRWVDd4SG1yQXM0bGh4MXp6VFVQcUdtWEl3Z1RZWURHLTBzWlVUUHhEc1lVOFBuUmpaU1lTdFVkSUhQTHh4QU44WFRiekxFVUhaVGtiQ1IycTZ0NXJlbFkycUJuUldZTHFmLWJVR0tmWWhzeTdld251ZC1NcFAtejF3WWp5ZFRFRkQzemUxXzBBbjEtcEE5UnhsU0dnbWlCXzhUUEp3aWg5VGV2czdSNTc1RlR4RHN5bTE2UmtUYw?oc=5>
 
-### 5月20日外盘头条：特朗普再发威胁谷歌升级搜索大幅下调订阅价格北约开始考虑护航船霍尔木兹海峡
+### 特朗普施政满意度降至35%，共和党人支持率下滑
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: Sina finance
-- 时间: 2026-05-19 21:35
-- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeDZIZzV2NzJLY3FJbUp5LS1iOVU2X3hEdWtEYkg1dEYyQjNQNTRRNWRrcEM1UldSc19VMmVNSEprVndvMFlGeGl5alZPVzVaNWFNY0hwQ3c5LXgyb2JqUGM0dkZxdFF3b3JnWTEzODVvYW5ha0gwdGNxRW1IZFV2R0hvRnNkeWNnRlgwakVLY3E2Z3A2cExpUTRyX1lJUjZ5Sm95NEdSTU1ocU1XOGZwZFlZWUx5S2Rrc3VEd0I5WEdGV3BjTkNRdkZGN2dvbTdIaFJjVTRYZEJ2b0NpbkE?oc=5>
+- 时间: 2026-05-19 22:36
+- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxQR0g4elRpaHlZVjUxM0pFeXl1MkYzYWJEclBydnJUWWVvSGp4dUJfbFdxMWhJNTRTQm01OUg4U3VsLW41VUlUcDAwTzRlZmEycElXblNRNTBvRmxMbjNzUndpV2VlQ0hRM0hZa3FrNVhjRjhmRnlDME0zWXNzZUpJR3V5amxuZzNKSkxDYVBrOXNqMGRPcklRcFA3eGJ0RFdSOU9BZTYtQThOQzU3STFEUEZvbTFuWExxWGJBYTJ3aUVMRWx4eFk1MUlpOV9lZGdzdWx2bGEtX3VUN3VpYmc?oc=5>
 
-### 这一夜油价剧烈波动，特朗普再次推迟对伊朗打击行动，期盼跟伊朗达成协议
+### 美国航空公司反对特朗普要求小型机场使用私营安保公司的计划
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-19 20:41
-- 链接: <https://news.google.com/rss/articles/CBMilAJBVV95cUxPYV8xMnd0RktHZDdQcmtORVAzOXJKbTNScnJwN3U3WGJ1eHJ3bFlzeHJCb2RmaHU3U0pZQzR3X2xaWnFqVHRzRGVXcmhZS0FuaTdkV0hnX0daVjM3OW5Xb2Jsa2R3Z2RyRVVlVllacW55bGVuX0tMRFU1WjFCQWlRbVZWbG5VQlRDcDBpc0lCWVZrMFRtYU44cDhBZGh4azNVekFmTllucTc5OEktRXFnTGUwcGZaVFBKdXA0LUJWYnR4YVdTdDVsRzZxXzFJZVhLaHZmY3hWZDFUWE9tbGlxX0JIQnhIcDJDbjZGeldLUlJHUnF2aG9nN1ZKaW11WWZacFEtcHFMMmdETnU4VzJPS1NSeDQ?oc=5>
+- 时间: 2026-05-19 23:09
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ISHJIVUJOTzRHNkUtSTNhWkxRTDQ2MzhrY0VQZFlXZE1SQzFsX0RUYzZfRXZMdXI1QTlSRElwT0ZiZUlHRVROZG5uMA?oc=5>
 
-### 可能在trump决定是否要打击伊朗之后买入，可能会出现一些波动，500多到600出头是美光财报行情的理想入场区间
+### 美参院推进法案限制特朗普对伊朗动武
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-05-19 23:06
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGOTNZRzE3TGJmNENQa1J2REdXMlUxenlkam00V09yVkY3NTlGcmNGUEVRTWhKWllTVnlDczZfNEhqNWZKY1ZJVnUyY2pEVXYxYWE1WnZXUExObDVSWkNFTg?oc=5>
+
+### 沃什上任在即！特朗普“撤回”降息压力：伊朗战争结束前无法确定利率前景
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 东方财富
+- 时间: 2026-05-19 07:09
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE95Z0Q3bEVaX1Q0OXNNYVo5UWpPNXk3cG93N1RKaWdGV2dwbmppLW90LUhLWHZGc3ZoZjljUktnNzNQeEU3VnA0bWlZdVlZdTVmTjJoWm9DWjhHWV9PS1YxeQ?oc=5>
+
+### 特朗普中国之行是否取得胜利？法国智库专家给答案
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-05-19 15:29
-- 链接: <https://news.google.com/rss/articles/CBMivgFBVV95cUxNY2VkazFnYzlocGNTYmQ4RFphZnl1VklHZENBMTAxRTl6bVNVSUllcEhNMzhjV0xaMDVHbWF4c2VWSGl4aUJFRHBURjlxRTk5aVpCZWJieXhBeFVsV0dPMl9xVlM1Y1dSOW1IMHFIZWNoMWRmY3NuUkJIWGZkdkRwSmk1UVdsX2FDeTF4Ui01VF9xbDh0aFladGNVN1hHWnE5VzUya2tMVVBTSTNQTmpoLUNmaTBuNUtiT2p0MEd3?oc=5>
+- 场馆: RFI
+- 时间: 2026-05-18 20:20
+- 链接: <https://news.google.com/rss/articles/CBMi6AJBVV95cUxQYkkyMWtucUEtVmtHTVZ5a1pmUEtUaG5VeVRyUkNPQ1NqWXVyMDNvUURaYldKMzAwTWRkcURBRC1zZzFXbk5KRURHNU5lZFVQYnhMYnVzOFRxZ2FSMkZNLU9yeFlxdGc5cEF6RmxkSHIycnBCQ2ltVjdWeXJTei0yQjhEemQ5V1F3X3FmQ2tHWFlkX2N5Rl9MU3lhblNudmhFdm5uemxtcld3bVJVa0ZnZEdNbURMZ09XYUxMdF9UdzF6T0kzVzVFLUszdmxVS1NYa1JaY2c2MDFQWE9xVU1jVFFOU1FyNWd6VGlrRkxLWkJqbGRCWjk3TVN6WDlYa0llaUUxX3VHbmFjM3Y4a2Y3UWZzcGg5WFItQXhrWFNDQlk3LWRDMU5SN1Z3ckdBcDJraS1PaXlqZUUwVzBXbXpUYWpsSG5aS3FyZkFiMmV6ZHBTcDJuS284Zm5vYjdvT1RvU2QtWHJta0E?oc=5>
 
-### 美股指数下跌 因特朗普警告如伊朗谈判无果将恢复打击推高美债孳息
+### Trump 指若短期内未达成协议将对伊朗作出「重大打击」美股 US Stocks Quote - 外围新闻内容Golbal News Content
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: AASTOCKS.com
-- 时间: 2026-05-19 21:00
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTFBGZWdJbmw0SlJnYlNYejRnWms5SHMxZFpjd09YUUJkOEJIdW5WdGJYV0hWeTJfMnFPX3ZtbE9uZHJPMWVPR3o2dTFzeXBVQngwR1o0cXNYSUgza2hCS2xlOFZLWDR3RXlLSmFSU29fUQ?oc=5>
+- 时间: 2026-05-19 23:49
+- 链接: <https://news.google.com/rss/articles/CBMihAFBVV95cUxQblFxb1hnc1ZKaVVicHFaalVLWmdVSVVsWm9fVy1oR1Nya3JZVEVuVlRRYjF1RWp3RXlfRFpxMHhja25uZ1NwMWloTTdwbDZDR3NrVFVTQXZ2bXAzeUxUOG1zd3d6cDhkSGhpcTRtYm1ncjRqdUoxQUplaDlMa01hd3d1cUI?oc=5>
+
+### Trump 签署行政命令，要求金融监管机构六个月内推出加密支付相关创新措施
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 吴说
+- 时间: 2026-05-19 23:07
+- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxNNkVSZ0RKNm5uM2lkN1JjUkpaWlI3UFZ0QzFtUC1fYmluYzc5NHBaLTNFS2M4T0tMeDczb2M5a3JneTE0T3JzRDVHclFYdjh1ZFR3OXExSEF2U1RCRUsxb1lSZGdUWXVOOVk5eWtYa212TzFBMkM4T19pVUE2NnMwQjBmU2c2WndSWWtGdjRfMUpZQXg0MFRRbA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-19 23:58  (8 条)
+
+- **特朗普** | 特朗普：在推迟对伊朗打击决定之前，他“只差一小时”就要做出决定 <https://news.google.com/rss/articles/CBMikwJBVV95cUxQN1ZsZGliSXBsNjJjTjlVeVJaZnUtTzl0ckNxSmxPSndIYi1rdmNoVXZmNFlsTlprbGZMSEY5WkctWTR5M3JFdWdPSDhWeFhLN1FqNUpxLXVBUGVidHRWVDd4SG1yQXM0bGh4MXp6VFVQcUdtWEl3Z1RZWURHLTBzWlVUUHhEc1lVOFBuUmpaU1lTdFVkSUhQTHh4QU44WFRiekxFVUhaVGtiQ1IycTZ0NXJlbFkycUJuUldZTHFmLWJVR0tmWWhzeTdld251ZC1NcFAtejF3WWp5ZFRFRkQzemUxXzBBbjEtcEE5UnhsU0dnbWlCXzhUUEp3aWg5VGV2czdSNTc1RlR4RHN5bTE2UmtUYw?oc=5>
+- **特朗普** | 特朗普施政满意度降至35%，共和党人支持率下滑 <https://news.google.com/rss/articles/CBMi3gFBVV95cUxQR0g4elRpaHlZVjUxM0pFeXl1MkYzYWJEclBydnJUWWVvSGp4dUJfbFdxMWhJNTRTQm01OUg4U3VsLW41VUlUcDAwTzRlZmEycElXblNRNTBvRmxMbjNzUndpV2VlQ0hRM0hZa3FrNVhjRjhmRnlDME0zWXNzZUpJR3V5amxuZzNKSkxDYVBrOXNqMGRPcklRcFA3eGJ0RFdSOU9BZTYtQThOQzU3STFEUEZvbTFuWExxWGJBYTJ3aUVMRWx4eFk1MUlpOV9lZGdzdWx2bGEtX3VUN3VpYmc?oc=5>
+- **特朗普** | 美国航空公司反对特朗普要求小型机场使用私营安保公司的计划 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ISHJIVUJOTzRHNkUtSTNhWkxRTDQ2MzhrY0VQZFlXZE1SQzFsX0RUYzZfRXZMdXI1QTlSRElwT0ZiZUlHRVROZG5uMA?oc=5>
+- **特朗普** | 美参院推进法案限制特朗普对伊朗动武 <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGOTNZRzE3TGJmNENQa1J2REdXMlUxenlkam00V09yVkY3NTlGcmNGUEVRTWhKWllTVnlDczZfNEhqNWZKY1ZJVnUyY2pEVXYxYWE1WnZXUExObDVSWkNFTg?oc=5>
+- **特朗普** | 沃什上任在即！特朗普“撤回”降息压力：伊朗战争结束前无法确定利率前景 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE95Z0Q3bEVaX1Q0OXNNYVo5UWpPNXk3cG93N1RKaWdGV2dwbmppLW90LUhLWHZGc3ZoZjljUktnNzNQeEU3VnA0bWlZdVlZdTVmTjJoWm9DWjhHWV9PS1YxeQ?oc=5>
+- **Trump** | 特朗普中国之行是否取得胜利？法国智库专家给答案 <https://news.google.com/rss/articles/CBMi6AJBVV95cUxQYkkyMWtucUEtVmtHTVZ5a1pmUEtUaG5VeVRyUkNPQ1NqWXVyMDNvUURaYldKMzAwTWRkcURBRC1zZzFXbk5KRURHNU5lZFVQYnhMYnVzOFRxZ2FSMkZNLU9yeFlxdGc5cEF6RmxkSHIycnBCQ2ltVjdWeXJTei0yQjhEemQ5V1F3X3FmQ2tHWFlkX2N5Rl9MU3lhblNudmhFdm5uemxtcld3bVJVa0ZnZEdNbURMZ09XYUxMdF9UdzF6T0kzVzVFLUszdmxVS1NYa1JaY2c2MDFQWE9xVU1jVFFOU1FyNWd6VGlrRkxLWkJqbGRCWjk3TVN6WDlYa0llaUUxX3VHbmFjM3Y4a2Y3UWZzcGg5WFItQXhrWFNDQlk3LWRDMU5SN1Z3ckdBcDJraS1PaXlqZUUwVzBXbXpUYWpsSG5aS3FyZkFiMmV6ZHBTcDJuS284Zm5vYjdvT1RvU2QtWHJta0E?oc=5>
+- **Trump** | Trump 指若短期内未达成协议将对伊朗作出「重大打击」美股 US Stocks Quote - 外围新闻内容Golbal News Content <https://news.google.com/rss/articles/CBMihAFBVV95cUxQblFxb1hnc1ZKaVVicHFaalVLWmdVSVVsWm9fVy1oR1Nya3JZVEVuVlRRYjF1RWp3RXlfRFpxMHhja25uZ1NwMWloTTdwbDZDR3NrVFVTQXZ2bXAzeUxUOG1zd3d6cDhkSGhpcTRtYm1ncjRqdUoxQUplaDlMa01hd3d1cUI?oc=5>
+- **Trump** | Trump 签署行政命令，要求金融监管机构六个月内推出加密支付相关创新措施 <https://news.google.com/rss/articles/CBMimAFBVV95cUxNNkVSZ0RKNm5uM2lkN1JjUkpaWlI3UFZ0QzFtUC1fYmluYzc5NHBaLTNFS2M4T0tMeDczb2M5a3JneTE0T3JzRDVHclFYdjh1ZFR3OXExSEF2U1RCRUsxb1lSZGdUWXVOOVk5eWtYa212TzFBMkM4T19pVUE2NnMwQjBmU2c2WndSWWtGdjRfMUpZQXg0MFRRbA?oc=5>
 
 ### 2026-05-19 22:43  (5 条)
 
