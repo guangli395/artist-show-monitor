@@ -1,62 +1,100 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-19 14:47**
-- 本轮扫到 1580 条, 新增 **6** 条
+- 最近更新: **2026-05-19 17:36**
+- 本轮扫到 1589 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (9 条)
 
-### 网友连获汪苏泷演唱会门票与国乐无双录制机会
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923704_m1d5ae17f803301shy2.html>
-
-### 被特朗普称作“我的朋友”的习近平即将与他的“老朋友”普京见面
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: DW.com
-- 时间: 2026-05-19 09:07
-- 链接: <https://news.google.com/rss/articles/CBMigANBVV95cUxQMmtHUGhhSjU0VEdmM1BiNTVDcklLcm5oZjNWVl9nSk5PRmRHTmlsOWpqUmdzelR0UmRkVnItR21WZjZUWXFJbnNQbVRPRHJHUWhDbU5sM0NVaUgxUzhMU09PVlRCU29pa0c4T2tUdWpCTTBYVjVjZVItZXFtWUZkVU1LUEFfTnR0VXVTeDNsNnQydUVWbVMxTGt0V3dsa2VBN2JUTjlkQ0VjQ2RlZDd6X3pnRkg2cE5aMWo5WERpTGRSMjJ5NWVzWkY5V2ZzaEwtZFN0SS00UV9VNkE0aTFQNUJyYzFmOHNQZDhMMWx3Qk4wQ0lKVmFneTVRZDl0QkdNR1A4ZUxnQkdJeVVQd1VFVHh3VkVUWWlDRXRCMDI1dlByRC05Y0NLSDRiRDczbXFEZVFsYkdNVWVSTzFrZFJKX1NZaG5qYThtUnM1XzlqWk9fUEwwRGpjN2RDcnoyN3djeGhlbDFSc1VnUkIxVjBFeGZPd0dDTjFoeTJpbkVkMDTSAYADQVVfeXFMT0t0TDFGeXBySi1hWk51TVF6WUdlRFJfSExXRmJfN2dyaVRSSk1PWEdSMmZQRjhqcXdKUGJXSzBrakVxTkU5bnhGSEZjTTFESy1EUTF1Q3pKQzZka0otT0JDUkFmUnFkaXFTdUhPazNRdUl5bDJ5NUpYaWNXNGYwMVl5aEhWVEFkb1REREwtS0NsRGNBZjc3bGROcnZTLXA1eXFtVXFqN2o3UnFsX1N5dHZsd2F4RFJ4SU16WWVWOWdpbmVUeElKOVZtdVhmYk9mZlQxaWJyQmY3cmp5TjRyRzhmVldSNU11cGt0ZkFfS2xVYlF6UXMwbVNUSTh3U0FXSTZMZmliRlQwYi0zZzg4M1FEQnlFQnBvb0hBT2t2SzR6YUgzb0N1blNXU1FpREdFejZhZnVDbFlTaUxpbUgxaDVlT1RJSXZvVXp3eUc4R0RldmJ4clB5Vmw0TlBLUlJMVkRZRlQ5ZjJua3oxMTdfOG1CRDM0VGNrbGYyRlhUVmxa?oc=5>
-
-### 据《华尔街日报》报道，特朗普将于周五主持沃什的就职宣誓仪式。
+### 特朗普称美国或将再次“沉重打击”伊朗
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-18 16:41
-- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTFBROFhaOExvT0FIUFJrZjNEVWNfS2swUzlublI0bzJNS2FiekZkd1ZzenZZR3daRGpkYlZEb1lVajBIb3lHdlJ4VWF0N1RFT1hhclZ3bERsQlItUllKY3VVZ2dmQW5KU1lwNjhWcGtPTkxqVS1menRaWXY5S1hYQQ?oc=5>
+- 时间: 2026-05-19 16:08
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5NQUdudEhLSW5UU2Y0X3RBbC1JTVh1LXltMnRsM1l4ZERTS0daYUtxVDFFWFZGRmNCcW5QZnhXMDhnNnU3SDFIaXdWUQ?oc=5>
 
-### 特朗普主持！沃什周五宣誓就任美联储主席，挑战已近在眼前
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 第一财经
-- 时间: 2026-05-19 00:01
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE1fSXlJRk1oYmVlanZhM0Z5Y1VhNXJUYVVsTnF4cTEwRC1qbWxYWC1vakYzSkJyd29mREJDaHFSZDZfQng2X3ZNUVF3eXJ0Rk9JanR3?oc=5>
-
-### 美欧贸易协定迎成败关键时刻，特朗普政府25%关税加码施压
+### 特朗普称美方可能不得不对伊朗“再予以一击”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 第一财经
-- 时间: 2026-05-19 08:41
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaeTA3Rm1YSXlyWk5tTmpyV1pBcEtTa3ZSYUNjQkJuUFQzeVNWajBJQktQMW9KVHJnWllIRENyLUdES3M3V2hlUkZWbUFUSFVlVjNr?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-05-19 14:56
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfTDJ5WW42eTFsRGlnYVFjNDFkak1KOVZXSnZlM1NMZmJ2QjhmUF95emlZLTYwRnIxNjRRWHdibFJOa1ZaNU8tWEhoaw?oc=5>
 
-### 美股开市前下跌投资者关注特朗普最新伊朗言论财经新闻Financial News
+### 特朗普再次访华！6本书看懂中美会谈的关键
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 钛媒体
+- 时间: 2026-05-19 09:45
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9faE11N093OHJvdzhqWmdrdUZiNFBhYVIzMkt5VmxxamppWFBnX19lVEh4VHVJSXU2VUVnN2dxbkViOFhpMTJNYWkxRjY?oc=5>
+
+### 中美达成"建设性战略稳定关系"新定位 经贸与地缘安全取得突破性进展
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 虎嗅
+- 时间: 2026-05-19 15:17
+- 链接: <https://news.google.com/rss/articles/CBMiVEFVX3lxTE82VWgyYWNac1dJdmRuZW1CeEpZTWxzSkZ0dGJmYjE5ZlJJVVFuZ1lIWlZFTmlGTHJFejFVY29nQU5fM1dKMzJNWXJwQktWQ0tPTXZ0ag?oc=5>
+
+### 美国总统特朗普：我们将帮助古巴。不清楚是否会改变古巴政权。
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-19 14:52
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE45U1dWczVBeG0tU1lGMEZKeGVLVWlqendZclhVRm93d3Q4dlJ6dldNM3htaDh0YzdfRXhOZDlNZEEtN0c5MzQ1cUtjSQ?oc=5>
+
+### 特朗普：我认为宗教对一个国家而言非常重要。
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-19 14:55
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFAxTFZCbFlsZEVVby1CYy01N25ReWc3WEtZQXFUNGIyczloYzFfdHhPRkRmOWJSSGhPTjVZUG5sem9ZWFFEMjBNT0M1NA?oc=5>
+
+### 美防长神模仿川普笑翻全场 被要求“像屎一样强悍”
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: AASTOCKS.com
-- 时间: 2026-05-19 11:10
-- 链接: <https://news.google.com/rss/articles/CBMihgFBVV95cUxPQmJPRUJON0FPeEM4UWZIZXdUb1RhZ3dCV2RobGxNajM1WFloMXVnVm53Z1BFQ1dhSW52dERVWW9aUEt6SWpIUE5ZS285TUpBZGV6QjRtcXliaWt1NmU4QTJ1elExeDF1aHFfYkVndjI3c09lQ28wWm5Yb3FIa1BWR1IzcWVJUQ?oc=5>
+- 场馆: 文学城
+- 时间: 2026-05-19 16:30
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CWHZ3MEk5dEttVjVtWGlJSmhNQ2dFSGFRMjFQODI5RnlVeVV0bFFQaVNsYjY1cTQ5aHFvMWc3bExrMzNpbUo0QXMtaWNzWkU1N0RzblpXNFlQT2laWDcxOTExWi1Qd0hZ?oc=5>
+
+### 特朗普总统：在重启与德黑兰谈判努力之际，他曾距下令打击伊朗“只有一小时”
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-05-19 16:16
+- 链接: <https://news.google.com/rss/articles/CBMi1gFBVV95cUxNb0V2TTdNZzVJdVBuNEIycUFZRUtTSzlybUtCdXRYUTMyaXlaRlJJN2htLUtnT25jWHJkaUNfTUlWeENHYWNTaTRMYWRLek9VZVlxb2RQSm1pRVBJRUtFV1ZTUWFNdGhBVXVBT1VqMkxHQUk3TVZXZ01WWDVIUG5jUkRJS3gzVG9Udnc0MnNoRkR0R2VBTFJYTnlLTkhwWTY2ak9ZdmE0RXdtZUdtVmNtYy1odlVGRDBOWHpCZmpKWVFQUlJ2NXUzUkNWbjNFT2dWZUFYZXp30gHYAUFVX3lxTE5jbGpwY2Q2NGdobk9CQ1FER1pNVlNBZ2Njc1otRFJXYy1JZzk4ZFh2dHdmMHRYYjJJSEpwWGNMaGNSdDdRWUo3NlNUVHJxbkRUSHZrM3FPdnFPSE56VlBoX2ZubHpVVG1QbGVyOVkzVHgzV3lUeGFNQUx6TldIVW5JMlVHM3p1eUNfWnpMUHMzc0sxZENuUlFNdkdZRk5KWUcwZ0NtR0RIVHBBZkxTZ1BUTHVvQThpWE1FWnBRMWJyRTcyOFZtbzZEb3FqbmJsSzhQdWowZnJqMA?oc=5>
+
+### Nymex Overview: Petroleum Futures Falling as Trump Pauses Plans to Attack Iran -- OPIS
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-05-19 15:59
+- 链接: <https://news.google.com/rss/articles/CBMisgFBVV95cUxPNE9BekhJQkFRb2FrQVhCeWpTOHh4RHNyb2FKTEF5RmxZdW1PNUR2Y1Z1bHJZLTE5QllLWUREdWlOTm93ZTgzeUpTdGZlN0xGellGYmFXMjBFVkNzdFEwcEtsUlF0X2JZb3JhSGowbVlja3cycmRiRW04OGt1VDVnNG16X3FDdGFLT0hNeHZYTkFlQTlWYlNBTjhXQUpVd2FKc1p4LWs4XzdnVEhJa2paa19B?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-19 17:36  (9 条)
+
+- **特朗普** | 特朗普称美国或将再次“沉重打击”伊朗 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5NQUdudEhLSW5UU2Y0X3RBbC1JTVh1LXltMnRsM1l4ZERTS0daYUtxVDFFWFZGRmNCcW5QZnhXMDhnNnU3SDFIaXdWUQ?oc=5>
+- **特朗普** | 特朗普称美方可能不得不对伊朗“再予以一击” <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfTDJ5WW42eTFsRGlnYVFjNDFkak1KOVZXSnZlM1NMZmJ2QjhmUF95emlZLTYwRnIxNjRRWHdibFJOa1ZaNU8tWEhoaw?oc=5>
+- **特朗普** | 特朗普再次访华！6本书看懂中美会谈的关键 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9faE11N093OHJvdzhqWmdrdUZiNFBhYVIzMkt5VmxxamppWFBnX19lVEh4VHVJSXU2VUVnN2dxbkViOFhpMTJNYWkxRjY?oc=5>
+- **特朗普** | 中美达成"建设性战略稳定关系"新定位 经贸与地缘安全取得突破性进展 <https://news.google.com/rss/articles/CBMiVEFVX3lxTE82VWgyYWNac1dJdmRuZW1CeEpZTWxzSkZ0dGJmYjE5ZlJJVVFuZ1lIWlZFTmlGTHJFejFVY29nQU5fM1dKMzJNWXJwQktWQ0tPTXZ0ag?oc=5>
+- **特朗普** | 美国总统特朗普：我们将帮助古巴。不清楚是否会改变古巴政权。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE45U1dWczVBeG0tU1lGMEZKeGVLVWlqendZclhVRm93d3Q4dlJ6dldNM3htaDh0YzdfRXhOZDlNZEEtN0c5MzQ1cUtjSQ?oc=5>
+- **特朗普** | 特朗普：我认为宗教对一个国家而言非常重要。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTFAxTFZCbFlsZEVVby1CYy01N25ReWc3WEtZQXFUNGIyczloYzFfdHhPRkRmOWJSSGhPTjVZUG5sem9ZWFFEMjBNT0M1NA?oc=5>
+- **Trump** | 美防长神模仿川普笑翻全场 被要求“像屎一样强悍” <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CWHZ3MEk5dEttVjVtWGlJSmhNQ2dFSGFRMjFQODI5RnlVeVV0bFFQaVNsYjY1cTQ5aHFvMWc3bExrMzNpbUo0QXMtaWNzWkU1N0RzblpXNFlQT2laWDcxOTExWi1Qd0hZ?oc=5>
+- **Trump** | 特朗普总统：在重启与德黑兰谈判努力之际，他曾距下令打击伊朗“只有一小时” <https://news.google.com/rss/articles/CBMi1gFBVV95cUxNb0V2TTdNZzVJdVBuNEIycUFZRUtTSzlybUtCdXRYUTMyaXlaRlJJN2htLUtnT25jWHJkaUNfTUlWeENHYWNTaTRMYWRLek9VZVlxb2RQSm1pRVBJRUtFV1ZTUWFNdGhBVXVBT1VqMkxHQUk3TVZXZ01WWDVIUG5jUkRJS3gzVG9Udnc0MnNoRkR0R2VBTFJYTnlLTkhwWTY2ak9ZdmE0RXdtZUdtVmNtYy1odlVGRDBOWHpCZmpKWVFQUlJ2NXUzUkNWbjNFT2dWZUFYZXp30gHYAUFVX3lxTE5jbGpwY2Q2NGdobk9CQ1FER1pNVlNBZ2Njc1otRFJXYy1JZzk4ZFh2dHdmMHRYYjJJSEpwWGNMaGNSdDdRWUo3NlNUVHJxbkRUSHZrM3FPdnFPSE56VlBoX2ZubHpVVG1QbGVyOVkzVHgzV3lUeGFNQUx6TldIVW5JMlVHM3p1eUNfWnpMUHMzc0sxZENuUlFNdkdZRk5KWUcwZ0NtR0RIVHBBZkxTZ1BUTHVvQThpWE1FWnBRMWJyRTcyOFZtbzZEb3FqbmJsSzhQdWowZnJqMA?oc=5>
+- **Trump** | Nymex Overview: Petroleum Futures Falling as Trump Pauses Plans to Attack Iran -- OPIS <https://news.google.com/rss/articles/CBMisgFBVV95cUxPNE9BekhJQkFRb2FrQVhCeWpTOHh4RHNyb2FKTEF5RmxZdW1PNUR2Y1Z1bHJZLTE5QllLWUREdWlOTm93ZTgzeUpTdGZlN0xGellGYmFXMjBFVkNzdFEwcEtsUlF0X2JZb3JhSGowbVlja3cycmRiRW04OGt1VDVnNG16X3FDdGFLT0hNeHZYTkFlQTlWYlNBTjhXQUpVd2FKc1p4LWs4XzdnVEhJa2paa19B?oc=5>
 
 ### 2026-05-19 14:47  (6 条)
 
