@@ -1,64 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-19 19:47**
-- 本轮扫到 1595 条, 新增 **6** 条
+- 最近更新: **2026-05-19 21:15**
+- 本轮扫到 1599 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (4 条)
 
-### 万斯称特朗普本人并未亲自进行股票交易
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-19 18:40
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE54LWlpUm1NWmZ2bTFNcVEyTDI2Zmx1NGZqUkFDNm4zOVRfclR0SW81RElmeS1yOVZLd050Z3NQOUJWc1M1Y0lncXMwYw?oc=5>
-
-### VOA专访：金明日牧师女儿：感谢特朗普总统为爸爸发声，期待全家尽快团聚
+### 宣布暂停对伊打击后，特朗普曾召开会议听取对伊军事行动方案
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-05-19 19:31
-- 链接: <https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ3pVWnZ2VlhmbjZRQ3MxUGpkVDNscmZDVWlmTmFJVi12U0Z3UWJBck1OcmZ0OE81Nm5uY3RCTXlVT1dBYUpzOVpDd2RWNXFBMGdnOGtyWTRaN1JTMnBERVM1MWhvWUgwUERQeEcwbEVqWmlld0ZVdFhFSGtObzV6T2xacTlWUkN2QXpObl9lWHVXRTB5TWJ0cG4wTFRPakRMTGJ3WHJ1b9IBqgFBVV95cUxQc0pnQ3B6UVlUcGd4U01kdE1Ec2ZQTWk5U1NzNjE4Z0lURmpJRWpmaG41UVVzdFV2MnBMOC1jY2RCbEVwOHlFYVZGUjMwMHMwUk5qUGdJWEl0V0VWSjYtM2tROUU4U0d2TE41RkZ3REJoNVdEU3A1ckltQnpuOS12WHFKVkZjckhwQ2dLbDctNGNfZXJoaVotZmZBblpGQmI5UjRST0I4WWI0QQ?oc=5>
+- 场馆: thepaper.cn
+- 时间: 2026-05-19 20:44
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE01di1BYTJBX0FxR252c05zYWpqR1VNMFVwMnpoSFJUclpieGlna3libHFTSWVXazBseEplSFFVU0tNZTctc1QwT0M4VktxYzFSbGdPMU9pTk1GXzRnTWxRRg?oc=5>
 
-### 特朗普总统表示做好与哈瓦那达成协议的准备；美国对古巴官员和情报机构实施新制裁
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-05-19 18:15
-- 链接: <https://news.google.com/rss/articles/CBMihgJBVV95cUxON2lsRmtTMklJV1dMcUozVnNnQXlmT2ppb1VqRVNiVGx4Y0FUYTJmQW40ZVpKVmU4SlZGWjFhVzNtQ2pnNE1RMy10ZUJTTUIxRzlSbUpRUUJWWlNwN1VzQ2VGV1RzOUJ2WnlHaHZUMEdQS2J2cnBFb3hqZXU5QXBYbzF3Vkgwd2lwak8taTdYa0pJRF9wZ3NaTzE0Z2xoR2VPSkFBOWt0YlRsa2tFUGhjLXNpSmV0ZTRTcDlJelRFMnZEYXl2UVpZVERRRlk2NHJCYlJkZGhDR1VCc3lRSWl1Rml0TklkY0FETnp6ZEJsc0dMMmdqcVRhUXpyWUMwY1lFNUVVZ0p30gGIAkFVX3lxTFBfcFVtdmRaTkJXaVlVNzNaSG1pNEttWjRJWHAySVdEa29QV3ktaHlpMnI3RTRnLTJMTmR0TEFKSG9wMW85Um9LSWNXV2dJSUtvb0pTNVA3NDI2R0dTV0lLb1pQUXRhdklhSWZjX1VrXzBJZ2QzQXZISVZYVFluWkoweDlibWNZbm11WW42OF9BWERZRmNfVFVPd1NHaFlfdlVKMDZsNDZsUnFvRThNcl9WTjNYR1lpWENYcWlieGUycWRSNk9lQWpTVmpja0lvczlVLVFGcHljQnl4eFIzUjc3N0l3OGRzYWlIUlBFYnNaOVlPNE1rQjBVcG9Yck5zUWE3dkpMVDQ5Ug?oc=5>
-
-### 特朗普：再给伊朗两三天时间。
+### 叙利亚过渡政府总统艾哈迈德·沙拉晒出特朗普赠予其的香水照片。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-19 15:03
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE51RjdQeExES1ViWUhPZkR5cGd3aWI3ckNseWZJa1B0LVlGTDJRQjdQdVpTeUFNaVRRNmstSHhiRTZvRW1wTDBpbHhXRQ?oc=5>
+- 场馆: Sina finance
+- 时间: 2026-05-19 20:46
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9wOGxxa0tGcWdTaEdjbHF4MkprckxUV0Z4YjVHOEJmOGd2cTVjWDlWRlI5dFpjU09PeFlYY2tGNC03OTZ2bDlnRkxxcnBoWGcteFhUSUctTVdIWE5rdURnOFVLOXM4aS00MW1uM3I2ekJacjV0VzdRVw?oc=5>
 
 ### 特朗普称美方可能不得不对伊朗“再予以一击”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-05-19 15:37
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzNjI3bWpYRjRzUzREdTZNWFVyekVFdG5zeFdpS2d6NUtvbmRCWExWcWZLUVZtYS1oUDhIQ2ZLd1QzRkMtM1VQZ0hhUGVFajBNNlZUU2NjWnBjTy1YTld5Uw?oc=5>
+- 场馆: chinanews.com.cn
+- 时间: 2026-05-19 15:11
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZVTlzMEh1bVdHb2V0OFhTcTZxMFctQ2I0eW0tVmYtWlJTcklja1BWRGNnMHVnalJra1BWNFprdHFCaXlxOUw4aTVrQjByLUtRUXd2OC1HTTNuLUdYZTdkMlpfaElkNDZV?oc=5>
 
-### OFFICIAL TRUMP(TRUMP) 币价，图表，市值以及其他指标
+### 美股指数下挫，因美债孳息飙升及特朗普警告若无和平协议将再度打击伊朗
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: CoinMarketCap
-- 时间: 2026-05-18 17:10
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1LWWhvWks4YV9Xdk41bXQwTEppZG5XRE1KcGRJa3kzZUJtTVBuY2ZDT3RRZFE4SGg4ZzdZSDJkSGt1V19NX2ZhZ0NQNWRRcXlyenBRblpDN01NMl9yZWFKRFBKamFDZw?oc=5>
+- 场馆: AASTOCKS.com
+- 时间: 2026-05-19 19:57
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTFBtT0gtOUtZRF9XNG1SNGxSMEZEZzVNUXdWRVdRRmU0TUdfUjJiNU5SdjVjejVETzJTQlZLZ2JpTXFVa2NYQ3RCWVQzcFBneFViM0pDZ0dOamQzWVhfNk1selhhVFFkMGJGY3V0dmd1SQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-19 21:15  (4 条)
+
+- **特朗普** | 宣布暂停对伊打击后，特朗普曾召开会议听取对伊军事行动方案 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE01di1BYTJBX0FxR252c05zYWpqR1VNMFVwMnpoSFJUclpieGlna3libHFTSWVXazBseEplSFFVU0tNZTctc1QwT0M4VktxYzFSbGdPMU9pTk1GXzRnTWxRRg?oc=5>
+- **特朗普** | 叙利亚过渡政府总统艾哈迈德·沙拉晒出特朗普赠予其的香水照片。 <https://news.google.com/rss/articles/CBMieEFVX3lxTE9wOGxxa0tGcWdTaEdjbHF4MkprckxUV0Z4YjVHOEJmOGd2cTVjWDlWRlI5dFpjU09PeFlYY2tGNC03OTZ2bDlnRkxxcnBoWGcteFhUSUctTVdIWE5rdURnOFVLOXM4aS00MW1uM3I2ekJacjV0VzdRVw?oc=5>
+- **特朗普** | 特朗普称美方可能不得不对伊朗“再予以一击” <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZVTlzMEh1bVdHb2V0OFhTcTZxMFctQ2I0eW0tVmYtWlJTcklja1BWRGNnMHVnalJra1BWNFprdHFCaXlxOUw4aTVrQjByLUtRUXd2OC1HTTNuLUdYZTdkMlpfaElkNDZV?oc=5>
+- **Trump** | 美股指数下挫，因美债孳息飙升及特朗普警告若无和平协议将再度打击伊朗 <https://news.google.com/rss/articles/CBMib0FVX3lxTFBtT0gtOUtZRF9XNG1SNGxSMEZEZzVNUXdWRVdRRmU0TUdfUjJiNU5SdjVjejVETzJTQlZLZ2JpTXFVa2NYQ3RCWVQzcFBneFViM0pDZ0dOamQzWVhfNk1selhhVFFkMGJGY3V0dmd1SQ?oc=5>
 
 ### 2026-05-19 19:47  (6 条)
 
