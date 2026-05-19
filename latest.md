@@ -1,48 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-19 21:15**
-- 本轮扫到 1599 条, 新增 **4** 条
+- 最近更新: **2026-05-19 22:43**
+- 本轮扫到 1604 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (5 条)
 
-### 宣布暂停对伊打击后，特朗普曾召开会议听取对伊军事行动方案
+### 美国总统特朗普：呼吁国会山出台铁路安全法案（立法草案）。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-05-19 20:44
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE01di1BYTJBX0FxR252c05zYWpqR1VNMFVwMnpoSFJUclpieGlna3libHFTSWVXazBseEplSFFVU0tNZTctc1QwT0M4VktxYzFSbGdPMU9pTk1GXzRnTWxRRg?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-05-19 21:37
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zcWxiSEFPTDFhVTY0S0hmbFlqSTd3SEFOUFRYN3BZUzhFenZZQ3E2QVpnOHQ2MjM5U0t0aFFBbHA5RHBqcVFtZldlYw?oc=5>
 
-### 叙利亚过渡政府总统艾哈迈德·沙拉晒出特朗普赠予其的香水照片。
+### 5月20日外盘头条：特朗普再发威胁谷歌升级搜索大幅下调订阅价格北约开始考虑护航船霍尔木兹海峡
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: Sina finance
-- 时间: 2026-05-19 20:46
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9wOGxxa0tGcWdTaEdjbHF4MkprckxUV0Z4YjVHOEJmOGd2cTVjWDlWRlI5dFpjU09PeFlYY2tGNC03OTZ2bDlnRkxxcnBoWGcteFhUSUctTVdIWE5rdURnOFVLOXM4aS00MW1uM3I2ekJacjV0VzdRVw?oc=5>
+- 时间: 2026-05-19 21:35
+- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeDZIZzV2NzJLY3FJbUp5LS1iOVU2X3hEdWtEYkg1dEYyQjNQNTRRNWRrcEM1UldSc19VMmVNSEprVndvMFlGeGl5alZPVzVaNWFNY0hwQ3c5LXgyb2JqUGM0dkZxdFF3b3JnWTEzODVvYW5ha0gwdGNxRW1IZFV2R0hvRnNkeWNnRlgwakVLY3E2Z3A2cExpUTRyX1lJUjZ5Sm95NEdSTU1ocU1XOGZwZFlZWUx5S2Rrc3VEd0I5WEdGV3BjTkNRdkZGN2dvbTdIaFJjVTRYZEJ2b0NpbkE?oc=5>
 
-### 特朗普称美方可能不得不对伊朗“再予以一击”
+### 这一夜油价剧烈波动，特朗普再次推迟对伊朗打击行动，期盼跟伊朗达成协议
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-05-19 15:11
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZVTlzMEh1bVdHb2V0OFhTcTZxMFctQ2I0eW0tVmYtWlJTcklja1BWRGNnMHVnalJra1BWNFprdHFCaXlxOUw4aTVrQjByLUtRUXd2OC1HTTNuLUdYZTdkMlpfaElkNDZV?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-05-19 20:41
+- 链接: <https://news.google.com/rss/articles/CBMilAJBVV95cUxPYV8xMnd0RktHZDdQcmtORVAzOXJKbTNScnJwN3U3WGJ1eHJ3bFlzeHJCb2RmaHU3U0pZQzR3X2xaWnFqVHRzRGVXcmhZS0FuaTdkV0hnX0daVjM3OW5Xb2Jsa2R3Z2RyRVVlVllacW55bGVuX0tMRFU1WjFCQWlRbVZWbG5VQlRDcDBpc0lCWVZrMFRtYU44cDhBZGh4azNVekFmTllucTc5OEktRXFnTGUwcGZaVFBKdXA0LUJWYnR4YVdTdDVsRzZxXzFJZVhLaHZmY3hWZDFUWE9tbGlxX0JIQnhIcDJDbjZGeldLUlJHUnF2aG9nN1ZKaW11WWZacFEtcHFMMmdETnU4VzJPS1NSeDQ?oc=5>
 
-### 美股指数下挫，因美债孳息飙升及特朗普警告若无和平协议将再度打击伊朗
+### 可能在trump决定是否要打击伊朗之后买入，可能会出现一些波动，500多到600出头是美光财报行情的理想入场区间
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-05-19 15:29
+- 链接: <https://news.google.com/rss/articles/CBMivgFBVV95cUxNY2VkazFnYzlocGNTYmQ4RFphZnl1VklHZENBMTAxRTl6bVNVSUllcEhNMzhjV0xaMDVHbWF4c2VWSGl4aUJFRHBURjlxRTk5aVpCZWJieXhBeFVsV0dPMl9xVlM1Y1dSOW1IMHFIZWNoMWRmY3NuUkJIWGZkdkRwSmk1UVdsX2FDeTF4Ui01VF9xbDh0aFladGNVN1hHWnE5VzUya2tMVVBTSTNQTmpoLUNmaTBuNUtiT2p0MEd3?oc=5>
+
+### 美股指数下跌 因特朗普警告如伊朗谈判无果将恢复打击推高美债孳息
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: AASTOCKS.com
-- 时间: 2026-05-19 19:57
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTFBtT0gtOUtZRF9XNG1SNGxSMEZEZzVNUXdWRVdRRmU0TUdfUjJiNU5SdjVjejVETzJTQlZLZ2JpTXFVa2NYQ3RCWVQzcFBneFViM0pDZ0dOamQzWVhfNk1selhhVFFkMGJGY3V0dmd1SQ?oc=5>
+- 时间: 2026-05-19 21:00
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTFBGZWdJbmw0SlJnYlNYejRnWms5SHMxZFpjd09YUUJkOEJIdW5WdGJYV0hWeTJfMnFPX3ZtbE9uZHJPMWVPR3o2dTFzeXBVQngwR1o0cXNYSUgza2hCS2xlOFZLWDR3RXlLSmFSU29fUQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-19 22:43  (5 条)
+
+- **特朗普** | 美国总统特朗普：呼吁国会山出台铁路安全法案（立法草案）。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zcWxiSEFPTDFhVTY0S0hmbFlqSTd3SEFOUFRYN3BZUzhFenZZQ3E2QVpnOHQ2MjM5U0t0aFFBbHA5RHBqcVFtZldlYw?oc=5>
+- **特朗普** | 5月20日外盘头条：特朗普再发威胁谷歌升级搜索大幅下调订阅价格北约开始考虑护航船霍尔木兹海峡 <https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeDZIZzV2NzJLY3FJbUp5LS1iOVU2X3hEdWtEYkg1dEYyQjNQNTRRNWRrcEM1UldSc19VMmVNSEprVndvMFlGeGl5alZPVzVaNWFNY0hwQ3c5LXgyb2JqUGM0dkZxdFF3b3JnWTEzODVvYW5ha0gwdGNxRW1IZFV2R0hvRnNkeWNnRlgwakVLY3E2Z3A2cExpUTRyX1lJUjZ5Sm95NEdSTU1ocU1XOGZwZFlZWUx5S2Rrc3VEd0I5WEdGV3BjTkNRdkZGN2dvbTdIaFJjVTRYZEJ2b0NpbkE?oc=5>
+- **特朗普** | 这一夜油价剧烈波动，特朗普再次推迟对伊朗打击行动，期盼跟伊朗达成协议 <https://news.google.com/rss/articles/CBMilAJBVV95cUxPYV8xMnd0RktHZDdQcmtORVAzOXJKbTNScnJwN3U3WGJ1eHJ3bFlzeHJCb2RmaHU3U0pZQzR3X2xaWnFqVHRzRGVXcmhZS0FuaTdkV0hnX0daVjM3OW5Xb2Jsa2R3Z2RyRVVlVllacW55bGVuX0tMRFU1WjFCQWlRbVZWbG5VQlRDcDBpc0lCWVZrMFRtYU44cDhBZGh4azNVekFmTllucTc5OEktRXFnTGUwcGZaVFBKdXA0LUJWYnR4YVdTdDVsRzZxXzFJZVhLaHZmY3hWZDFUWE9tbGlxX0JIQnhIcDJDbjZGeldLUlJHUnF2aG9nN1ZKaW11WWZacFEtcHFMMmdETnU4VzJPS1NSeDQ?oc=5>
+- **Trump** | 可能在trump决定是否要打击伊朗之后买入，可能会出现一些波动，500多到600出头是美光财报行情的理想入场区间 <https://news.google.com/rss/articles/CBMivgFBVV95cUxNY2VkazFnYzlocGNTYmQ4RFphZnl1VklHZENBMTAxRTl6bVNVSUllcEhNMzhjV0xaMDVHbWF4c2VWSGl4aUJFRHBURjlxRTk5aVpCZWJieXhBeFVsV0dPMl9xVlM1Y1dSOW1IMHFIZWNoMWRmY3NuUkJIWGZkdkRwSmk1UVdsX2FDeTF4Ui01VF9xbDh0aFladGNVN1hHWnE5VzUya2tMVVBTSTNQTmpoLUNmaTBuNUtiT2p0MEd3?oc=5>
+- **Trump** | 美股指数下跌 因特朗普警告如伊朗谈判无果将恢复打击推高美债孳息 <https://news.google.com/rss/articles/CBMib0FVX3lxTFBGZWdJbmw0SlJnYlNYejRnWms5SHMxZFpjd09YUUJkOEJIdW5WdGJYV0hWeTJfMnFPX3ZtbE9uZHJPMWVPR3o2dTFzeXBVQngwR1o0cXNYSUgza2hCS2xlOFZLWDR3RXlLSmFSU29fUQ?oc=5>
 
 ### 2026-05-19 21:15  (4 条)
 
