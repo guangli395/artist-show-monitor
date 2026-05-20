@@ -1,132 +1,87 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-20 16:51**
-- 本轮扫到 1716 条, 新增 **17** 条
+- 最近更新: **2026-05-20 19:19**
+- 本轮扫到 1724 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (17 条)
+## 本轮新发现 (8 条)
 
-### Dont Call 欢乐版火热上线！蔡徐坤新专辑燃爆全场，巡演脚步即将踏遍山海
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6085757482_m16abd4a2a05301lw8c.html>
-
-### 周杰伦线上演唱会2022活动时间+直播观看方式- 深圳本地宝
+### 新浪演唱会热点小时报丨2026年05月21日01时_今日实时演唱会热点速递
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905ppaa.html>
-
-### 超千万人预约的周杰伦演唱会来了
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905ppa8.html>
-
-### 新浪演唱会热点小时报丨2026年05月21日00时_今日实时演唱会热点速递
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905pp7u.html>
-
-### 新浪演唱会热点小时报丨2026年05月20日23时_今日实时演唱会热点速递
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905poa8.html>
-
-### 周杰伦等台湾歌手在大陆多地举办演唱会 国台办：欢迎台湾演艺人员来大陆演出 也欢迎岛内歌迷来大陆观看演出
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5952915720_v162d2490806703ywme.html>
-
-### 新浪演唱会热点小时报丨2026年05月20日22时_今日实时演唱会热点速递
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905pmt0.html>
-
-### 新浪演唱会热点小时报丨2026年05月20日21时_今日实时演唱会热点速递
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905pmde.html>
-
-### 交运股份资产置换计划出炉：拟置入的4家文体旅公司，去年合计盈利超亿元，办过周杰伦演唱会、斯诺克上海大师赛
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://finance.sina.com.cn/roll/2026-05-21/doc-inhyqqfz6688781.shtml>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905pr1a.html>
 
 ### 周杰伦等台湾歌手在大陆多地举办演唱会，国台办回应
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://finance.sina.com.cn/wm/2026-05-20/doc-inhyqcsf6869377.shtml>
+- 链接: <https://finance.sina.com.cn/jjxw/2026-05-21/doc-inhyqqhf8579949.shtml>
 
-### 特朗普称将与赖清德通话
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-05-20 14:52
-- 链接: <https://news.google.com/rss/articles/CBMi1wFBVV95cUxOS19wNFViMlM1elVDNXNfVk5zV0xMQlRMeXp0cVhUZ2JWcjdTZHhzZnZjMm1xQnEybGd1TWVmWVRhQ3VPYUFQMTFfbTMxa1ZzbDdiZEVWRVZoZlU4NEVvUDZuOFY0bTNBZ1pTSW9CRkRlYS1Gck9EcXVEM2hiTy1GMDgwallVQVIyNFhJMUpwS3ZrcU1BZ0wzaWlBNUdhMmtyNlQ1OW9yUkFDOTFvOFFsUVczMkt1ZnpOYUY4c2I5V250bGVBY0dqR2JKLURYWVVSRGZ3ZTl5UQ?oc=5>
-
-### 憋坏水！“单挑干不过中国，我们得拉帮结派”
+### 特朗普：我们必须帮助古巴人民。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-05-20 13:49
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBaOVZiTTA5ci0wb0RHd3RVaVQzWmU2OVFHbzlHMFB4Qzc5TUw1NndXdms5VnctaGhZa0hzT25VM3pIaEdubXlMYy11cFJqemRIanVzU0RESkVKWmg0ZkVEQ2xHNkZ5VGVIbmc?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-05-20 18:41
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBUVTYzWkp2dFAwVUNicWVrMVZtNVlYYS1HOG5hMzB2Ni10MEJsb1JZVHNIbHJoTlEwUmx1d1k3Z1EzS1lnbU1WQUtYMA?oc=5>
 
-### 白宫新宴会厅预算飙升，特朗普：全是我和捐赠者的钱
+### 特朗普称其或会公开自己最新的纳税申报单。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 每经网
-- 时间: 2026-05-20 13:19
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBpZGhCenpwUlNxSUNiRW9wQmlSRTVUMVp1d2pjQTBKQ1BuOFVsN1lKeVJDVTQwRkk0RHlDS1NWRU1YMVNWS0E5bFRFV1Jac2hNRnAzeENTMGxYUVk4R2E3bUZma2laUQ?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-05-20 18:48
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBhU054N1hmV2t1RDlnY0hPTEVIN3k0MktLSzA4NkZvZTJRdndMVzg4WVA0MWVkdV9ibWZIX2FwaVFZQ0NUUWdFeVZwNA?oc=5>
 
-### 白宫发布特朗普访华事实清单 中方回应
+### 特朗普：已与土耳其总统埃尔多安通了一次愉快的通话。
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-20 18:46
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9reFd1NXY2dGpPbU1tRlc4dU9sR0lxMUE5d3BLYzZhZFUzckNZUnl4dTk0VHJKTjdGMlZvN1h2VlNPT3pfQm04ZS0wMA?oc=5>
+
+### 集体拉升！美伊传出大消息！特朗普最新发声
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 东方财富
-- 时间: 2026-05-18 08:07
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5EbDAzM1pCZFloWUEtUTctM0pYY2RTc3VZSlpHaDNYcklaeGdyUHVhMlFPTmlKN0ZvR1dyR1ZpUnk1VlhKaFR2RzlrZGY3MWhFX0RURDh1NUx5dE1HdGNiSHJHRXVvZw?oc=5>
+- 时间: 2026-05-20 12:56
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YaTFZb1JGdUZ3cklDS3hIT21VRGxETENqTlhKYVhhQ3QxdFdKOTU4bWItWUhQQlpZNWp2djBONUhhTGxKcDRCaDJvQUVWQThPaHhZM0RJOE01eElWVk5wYg?oc=5>
 
-### 外媒上手特朗普T1手机：不再标榜“美国制造”|唐纳德·特朗普|智能手机|HTC|HTC U24 pro|促销价_手机新浪网
+### 特朗普说在伊朗问题上内塔尼亚胡“听我的”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 央视网
+- 时间: 2026-05-20 16:14
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFA1YUJPNTIzbmxleXZwMXVXemk2VGpqaVpXZ0RoX2pLR1RYREVvbDljZGx2aVZaRXNoZmdKeWlReDBFejd5ZERMaU1RLVhkcWgteDlvaFloSHA0WTdVenltdEVVSjBRSmRhdDcySXR4eEFOMmI2OGVLUA?oc=5>
+
+### 市场传闻：教师团体促请 Apollo 调查行政总裁与 Trump 合作事宜
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-20 16:42
-- 链接: <https://news.google.com/rss/articles/CBMisgFBVV95cUxOTWRKZE52NnhtZHRaa25TWE51V1RPTm5kWDFiNURod0k0R2ZMUjNWdHJ0ajU0T3dTVm0zY2UtWkoyb2NzNTE4RmlESXE0WDdoaEpZckJ1XzZxR0FlSTVoUGV1WnNVRXVVT2tGcXM3SnNLbzVwU2EzdkdDRG1YdllPb0RyRHQ5V2ZwU1BhV2RWUjhSbHh1RDVobVVybmk4QzIwNFB1WGF0TXVrU0tFZ3MzSzBn?oc=5>
-
-### Top Chinese, US Execs Meet at State Dinner as Trump Visits China
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 一财全球Yicai Global
-- 时间: 2026-05-15 10:56
-- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxPaXdDclJqaVZaREVmaENndDVkSmZ6c0NkcTJ3OC1saTdhcW0taWFVR0xzeHJnalVhcm9yOGlmX1pTektuWUhoTXB1X3FWWUFEd2Vyb09PaExOdVR5bndaV3plVFRHMmlDbGdyS2xRMjFoeVdqWEdGZzFsam1UMmFKU0s1c003Qmh3aWt2d3hPOTh6V3ZPT2xhR1lmS2Q?oc=5>
-
-### 特朗普总统：他“不着急”达成有关伊朗冲突的协议
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-05-20 15:26
-- 链接: <https://news.google.com/rss/articles/CBMivAFBVV95cUxPdTk4eDJBd1VvbmNHNGg0ZDBBbTl3ZjFoVnZhMFZaWlV0NGpMSmp2eVZtR2xoRzNYRmIxZTVaWE05Y0xIV2JrMGhJNF9HS0xaZjdRdjJqdDNZbUt1RVlSREN4eFFEY2czZ0hlY3g4ODAxb2NYdXNwUkFMY0Z1R1gwY2FIcXUyMVNPRnZseUVWQ3paTmo4bFNrOEJEVXRiXzVjU0xMckJETnFTaUZsR0MtbHFCM1JYd2FrLU9Ba9IBvwFBVV95cUxOQXA3VE5paFBGZTlScjJ2NUFmTUFQN0stWmJfQ1BONVd4QzUtSVZuTjZrdVNpYXFqZ1JTazVZcnJGTjVyRldRa2xwajA4bnpVZzgyLVg5b2tETUt3STVfQkJIZDZqam9yYXV0bFE1ejkyOGR4d0UwUldGWDJrSGNYcFNXMGRYV2czenVkTmYyeDNOcllsZWNlRWMzeWxoaDF5bzNSa0Y3OXpfYkJSNGtHUzl6bDVua2hwNV9YZzNZUQ?oc=5>
+- 场馆: AASTOCKS.com
+- 时间: 2026-05-20 17:49
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE01dEw0U2FuVDR1Vjh5ZGtTM0pJWTZiYlBxNVBTYkhHZWwyaEpKeUxzaXZ2SWtTNE1oTEZPUnloaVBmWEJVWkdEQUVkaHRvQ1dIa0ctSlBydk9Fc3hrTWp1RTY2N1FRM0hIdGlpcWhFcw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-20 19:19  (8 条)
+
+- **周杰伦** | 新浪演唱会热点小时报丨2026年05月21日01时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001905pr1a.html>
+- **周杰伦** | 周杰伦等台湾歌手在大陆多地举办演唱会，国台办回应 <https://finance.sina.com.cn/jjxw/2026-05-21/doc-inhyqqhf8579949.shtml>
+- **特朗普** | 特朗普：我们必须帮助古巴人民。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBUVTYzWkp2dFAwVUNicWVrMVZtNVlYYS1HOG5hMzB2Ni10MEJsb1JZVHNIbHJoTlEwUmx1d1k3Z1EzS1lnbU1WQUtYMA?oc=5>
+- **特朗普** | 特朗普称其或会公开自己最新的纳税申报单。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBhU054N1hmV2t1RDlnY0hPTEVIN3k0MktLSzA4NkZvZTJRdndMVzg4WVA0MWVkdV9ibWZIX2FwaVFZQ0NUUWdFeVZwNA?oc=5>
+- **特朗普** | 特朗普：已与土耳其总统埃尔多安通了一次愉快的通话。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9reFd1NXY2dGpPbU1tRlc4dU9sR0lxMUE5d3BLYzZhZFUzckNZUnl4dTk0VHJKTjdGMlZvN1h2VlNPT3pfQm04ZS0wMA?oc=5>
+- **特朗普** | 集体拉升！美伊传出大消息！特朗普最新发声 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YaTFZb1JGdUZ3cklDS3hIT21VRGxETENqTlhKYVhhQ3QxdFdKOTU4bWItWUhQQlpZNWp2djBONUhhTGxKcDRCaDJvQUVWQThPaHhZM0RJOE01eElWVk5wYg?oc=5>
+- **特朗普** | 特朗普说在伊朗问题上内塔尼亚胡“听我的” <https://news.google.com/rss/articles/CBMieEFVX3lxTFA1YUJPNTIzbmxleXZwMXVXemk2VGpqaVpXZ0RoX2pLR1RYREVvbDljZGx2aVZaRXNoZmdKeWlReDBFejd5ZERMaU1RLVhkcWgteDlvaFloSHA0WTdVenltdEVVSjBRSmRhdDcySXR4eEFOMmI2OGVLUA?oc=5>
+- **Trump** | 市场传闻：教师团体促请 Apollo 调查行政总裁与 Trump 合作事宜 <https://news.google.com/rss/articles/CBMib0FVX3lxTE01dEw0U2FuVDR1Vjh5ZGtTM0pJWTZiYlBxNVBTYkhHZWwyaEpKeUxzaXZ2SWtTNE1oTEZPUnloaVBmWEJVWkdEQUVkaHRvQ1dIa0ctSlBydk9Fc3hrTWp1RTY2N1FRM0hIdGlpcWhFcw?oc=5>
 
 ### 2026-05-20 16:51  (17 条)
 
