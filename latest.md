@@ -1,54 +1,62 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-20 21:18**
-- 本轮扫到 1729 条, 新增 **5** 条
+- 最近更新: **2026-05-20 22:50**
+- 本轮扫到 1734 条, 新增 **5** 条
 
 ---
 
 ## 本轮新发现 (5 条)
 
-### 新浪演唱会热点小时报丨2026年05月21日05时_今日实时演唱会热点速递
+### 新浪演唱会热点小时报丨2026年05月21日06时_今日实时演唱会热点速递
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905pz6i.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905q1q4.html>
 
-### 特朗普再表态将与赖清德通话；赖清德称有责任说出台湾社会心声：中国是台海和平破坏者，没有任何国家有权利并吞台湾
+### 特朗普访华数日后，普京在北京会晤习近平
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 美国之音
-- 时间: 2026-05-20 19:36
-- 链接: <https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU1d5VnJCZVNxYWVncXhpS3AzVVNFNkk5MGRISlQ4cFNocmplbGx0THJidTZQNUVWSjI2dHpVMEVYek0zblV4elhBbVRnbmFWeUw0UmR0WFVsLXBHamNkUmZSV2dNVmQ0WVhLblVpZUw4a2RiZmY4VFU5T3M3Ni1NZ0s0VUdEenIxeVdzWjBqRE5OSTNsQ2tGbjVYU0VaQnZQM25fZElsalA3VW_SAa4BQVVfeXFMTjl5V3R0VHFPREdfZVlIb2tmcGdlV3hDOXd5SU1XSF9Uc3NoMkZDcFJYQ0hvVi1RWmNwZmltbDlrY1YyN0VIWW9iam43azR0Zmo2enUtQm10RFhXMUJMUkI1RDJoTVFQTnExQTBCMVVRSzk4YWs3M2xxSkhQM1dpTHJTQ0tkdTJ3RmdoSzNFZTR3UEpjM1JnM2VOTF9zS1NWZ1NRQjlab0tjNVhSSzJn?oc=5>
+- 时间: 2026-05-20 21:40
+- 链接: <https://news.google.com/rss/articles/CBMirwFBVV95cUxOeWI2cTNRMzc5bUQxRThKUjNDMThvZlZ5cnFBN2t1dlhLNUF2WTVHMFdIWUVSdGUweW42WWNhM29JZUhMRXZWYnBxTkNqRVMyaUMwcmJLcnE1ZXg1T0piU0VqdGdpSEd0WjA3bldyS3RBTDhvN3Z5SHVhYkt2OVMtaVVkWEFKSlR4ZXl0UTNFNGlHYjFKUm9OMTg3Q2lMRkZ4RmZ5Nzhrc1Y3QmhQTlpv0gGyAUFVX3lxTFBNaTZFUk9iSlpNLUxabG5wWWk2ZlR3QzB5MVp5SGZkSnp6cTdad1pNb01RakJfTWtUcmp5YUdHWjRlX0l1WDNZYkxvRk1BNndXMU5QT3JoTmc2cEk0djNiM0J1UklZaG9yT1dpRG1QTkRpY3BtT1FOOU1oUWZRZnp0Vnl0TWd4MHRhSl9sT2dRak51Y1Zkbl9QTTl3WXVrdHM2Tks0a3FXNFZmQWZOaEIxMHc?oc=5>
 
-### 5月20日外盘头条：特朗普再发威胁 谷歌升级搜索 大幅下调订阅价格 北约开始考虑护航船霍尔木兹海峡
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-20 19:55
-- 链接: <https://news.google.com/rss/articles/CBMi_wFBVV95cUxNbG5veG0wczR4Zjh1d1BWdTJSamt6akMxaEhYYzdMUjk5NmdVZ1JIenZ3TlZpSkVhc2lKSzBCVG84Q3FwclJTRWZWQUxrbWZyQU93S3FiaEZ3TURWcmNyWDdDa3puUDcyTTczLXo2NDRZU2tQMHFsUlRoSWFoYWVWRy1tYVhTZUVZOUl5aENCNmg3cV9Rbkt1ckprYXdNZElNV1dkU2Q4aEdXd1czaXVFczNxRHMwSEtaS0VTYnpGbWxnRXpBazN1a1VzOElfbXd5TnpURkxURHZzb2NUTnZVMC1UMllTMTlVVUNmY3N3ZXFZWHZHQUs1VlBaY0dEYms?oc=5>
-
-### 特朗普共和党内“复仇”杀红了眼，但“血溅自己一身”-观察者网
+### 特朗普就台湾问题表态，中方回应
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-05-20 14:50
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1fbGd3Ui15SFFlQUlUcGJiYV9GY3R2b3Z6OVRBWTVodlJkRkNVR25ISkU1VEx4UGpDaFdxWFlhQjVCc0RhbDlFdkg5azhFdllyYmJ6VENhall5aW1nZ0pnOFNDZnV0Ul9Uenc?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-05-18 07:33
+- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxOSndjZkhvTEJwb2VHU3V2UVpscUl3Wkg5RGVXTFBjbngwN21IQUF2TFVObVRZb0tpVk9nNlJzMWxIYVZabkFVd2J4dVhhQjlRTGhfdFQzS18yZkZRNmdPc3Zha0lZSGlZVTlUOXV4TkxPTTRDRlVfV1FrZ1J4QWd5OEtjaw?oc=5>
 
-### 沃什上任在即！特朗普“撤回”降息压力：伊朗战争结束前无法确定利率前景
+### 特朗普称美方可能不得不对伊朗“再予以一击”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Sina finance
-- 时间: 2026-05-19 05:34
-- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxQejFOS1RWdlJtMTJnNWQtamw0bHVLQ0JpT3MxR21hNHZGQ2cySVBaZ3RuN01PdzdRZkJ6UklrRmNqYTJlM1ladzZUVUIwYVhQcllIMUg1VEhjai1VRXV3OUNWdmhSbjhEa1lkZXRraUpxVHdzamV0NXpwM3ZZTW5reXpsR3RUX0o2SnhYNDNmNWhSLXVfeUNGcFc4ek5DbDltNnBDVnAxVEtZOW5Rajg3Q1NXNmpqZG4tYTRqbkdLaFFudTQzblE5WjhlUEF0TUU?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-05-20 02:35
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTFA5dUVFYk94RHAzY3dfTHY4eEhvd1hyZXZ3dVhwXzlsNDA3bVkzVTlZdWtKb3Nfd2RqOWM2OXNyX0Qwd3FIcHBDdWh6TURnWEFTNDVzMkN6ZmRSZ19nUFNnOFZkT0c2NXJMYVFNWnB6c0Z3aDhq?oc=5>
+
+### 美伊谈判进最后阶段 特朗普称内塔尼亚胡“会照我意思做”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-05-20 21:46
+- 链接: <https://news.google.com/rss/articles/CBMigANBVV95cUxNcEFLLUV1bkd0T0tuYVA3dlM5R3d0VHJpaW5HSWd5RVJvSmZSaFpoOXBJMWR1dmFoSkpNejJ4R212QU5BN2lYY1daQTBGNkYyYkVJNUZfQ3cwZDI5ZkMwVjU1Nk53TUJmOWlXOHpieHRWYWZwcFR2ZGlXb1BmaFYtelpldm9ZNGhiSFFlZzJRUGJoLUtHeWZiaXZqR25JajNCd0Ewby1fNXp4bklmZnQ1XzBCcXJzUHBXMzI0RTZabWdiWnE2MF9VRm5ZZWk3U01FNmNxdGtFUmRIRkVFaU9kOE5tdkdaQlQxclRRSkFONjNTMVdwVEhrQWZHbzZyQW9SSmF2ZzgtRFRhVmlhZVZua1hRV1NuNEgtQW5ISEt5V1pzTE5zRDhuaTJkbURySksxZlVOSVc1LXJpTlFIV3g4c3U4RTM2WUkyNm1FV19neHlRbzhocGJ3Vk8xWlh3X0YtWno5c0NfanZMNlQ5MlZ1OFpqV1NsZ0tsS3hpbEZWM1k?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-20 22:50  (5 条)
+
+- **周杰伦** | 新浪演唱会热点小时报丨2026年05月21日06时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001905q1q4.html>
+- **特朗普** | 特朗普访华数日后，普京在北京会晤习近平 <https://news.google.com/rss/articles/CBMirwFBVV95cUxOeWI2cTNRMzc5bUQxRThKUjNDMThvZlZ5cnFBN2t1dlhLNUF2WTVHMFdIWUVSdGUweW42WWNhM29JZUhMRXZWYnBxTkNqRVMyaUMwcmJLcnE1ZXg1T0piU0VqdGdpSEd0WjA3bldyS3RBTDhvN3Z5SHVhYkt2OVMtaVVkWEFKSlR4ZXl0UTNFNGlHYjFKUm9OMTg3Q2lMRkZ4RmZ5Nzhrc1Y3QmhQTlpv0gGyAUFVX3lxTFBNaTZFUk9iSlpNLUxabG5wWWk2ZlR3QzB5MVp5SGZkSnp6cTdad1pNb01RakJfTWtUcmp5YUdHWjRlX0l1WDNZYkxvRk1BNndXMU5QT3JoTmc2cEk0djNiM0J1UklZaG9yT1dpRG1QTkRpY3BtT1FOOU1oUWZRZnp0Vnl0TWd4MHRhSl9sT2dRak51Y1Zkbl9QTTl3WXVrdHM2Tks0a3FXNFZmQWZOaEIxMHc?oc=5>
+- **特朗普** | 特朗普就台湾问题表态，中方回应 <https://news.google.com/rss/articles/CBMigwFBVV95cUxOSndjZkhvTEJwb2VHU3V2UVpscUl3Wkg5RGVXTFBjbngwN21IQUF2TFVObVRZb0tpVk9nNlJzMWxIYVZabkFVd2J4dVhhQjlRTGhfdFQzS18yZkZRNmdPc3Zha0lZSGlZVTlUOXV4TkxPTTRDRlVfV1FrZ1J4QWd5OEtjaw?oc=5>
+- **特朗普** | 特朗普称美方可能不得不对伊朗“再予以一击” <https://news.google.com/rss/articles/CBMidEFVX3lxTFA5dUVFYk94RHAzY3dfTHY4eEhvd1hyZXZ3dVhwXzlsNDA3bVkzVTlZdWtKb3Nfd2RqOWM2OXNyX0Qwd3FIcHBDdWh6TURnWEFTNDVzMkN6ZmRSZ19nUFNnOFZkT0c2NXJMYVFNWnB6c0Z3aDhq?oc=5>
+- **特朗普** | 美伊谈判进最后阶段 特朗普称内塔尼亚胡“会照我意思做” <https://news.google.com/rss/articles/CBMigANBVV95cUxNcEFLLUV1bkd0T0tuYVA3dlM5R3d0VHJpaW5HSWd5RVJvSmZSaFpoOXBJMWR1dmFoSkpNejJ4R212QU5BN2lYY1daQTBGNkYyYkVJNUZfQ3cwZDI5ZkMwVjU1Nk53TUJmOWlXOHpieHRWYWZwcFR2ZGlXb1BmaFYtelpldm9ZNGhiSFFlZzJRUGJoLUtHeWZiaXZqR25JajNCd0Ewby1fNXp4bklmZnQ1XzBCcXJzUHBXMzI0RTZabWdiWnE2MF9VRm5ZZWk3U01FNmNxdGtFUmRIRkVFaU9kOE5tdkdaQlQxclRRSkFONjNTMVdwVEhrQWZHbzZyQW9SSmF2ZzgtRFRhVmlhZVZua1hRV1NuNEgtQW5ISEt5V1pzTE5zRDhuaTJkbURySksxZlVOSVc1LXJpTlFIV3g4c3U4RTM2WUkyNm1FV19neHlRbzhocGJ3Vk8xWlh3X0YtWno5c0NfanZMNlQ5MlZ1OFpqV1NsZ0tsS3hpbEZWM1k?oc=5>
 
 ### 2026-05-20 21:18  (5 条)
 
