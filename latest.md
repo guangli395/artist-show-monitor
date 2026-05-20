@@ -1,198 +1,94 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-20 10:46**
-- 本轮扫到 1690 条, 新增 **27** 条
+- 最近更新: **2026-05-20 13:35**
+- 本轮扫到 1699 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (27 条)
+## 本轮新发现 (9 条)
 
-### 周杰伦等台湾歌手在大陆多地举办演唱会，国台办回应
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2650591473_9dfcd0f101902k6d0.html>
-
-### 周杰伦线上演唱会超1200万人预约——中国青年网
+### 新浪演唱会热点小时报丨2026年05月20日20时_今日实时演唱会热点速递
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905pg4m.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905pk3c.html>
 
-### 新专辑12首歌中有5首是老歌，周杰伦直播时回应:“岁月感是无法取代的”
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905pfza.html>
-
-### 周杰伦线上演唱会2022(直播时间+预约入口+歌单)- 无锡本地宝
+### Vista天下文娱|周杰伦新歌mv像AI生成的
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905pfzc.html>
+- 链接: <https://k.sina.com.cn/article_1323527941_m4ee36f0503301kyje.html>
 
-### 2023周杰伦嘉年华巡回演唱会海口门票还保留吗?- 海口本地宝
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905pfw8.html>
-
-### 周杰伦 2019~2025嘉年华世界巡回演唱会 场次表
+### 周杰伦等台湾歌手今年在大陆多地办演唱会，国台办回应
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905pfws.html>
+- 链接: <https://finance.sina.com.cn/wm/2026-05-20/doc-inhyqcsc1591741.shtml>
 
-### 周杰伦520发布新歌七月的极光MV
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301br46.html>
-
-### 2024周杰伦深圳演唱会时间+地点+门票+歌单+交通
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905pag0.html>
-
-### 2022周杰伦海口演唱会演出时间、场馆及门票
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905pak2.html>
-
-### 2022周杰伦520-521演唱会线上演唱会时间+节目单
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905pa9q.html>
-
-### 周杰伦演唱会票价达到2580元,网友表示太贵了
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905paie.html>
-
-### 2022周杰伦演唱会520521重映(附直播入口)
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905pa82.html>
-
-### 周杰伦线上演唱会2022(附节目单+直播预约入口)
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905pa6e.html>
-
-### 周杰伦演唱会对促进两岸文旅交流具体有哪些贡献？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801l9p2.html>
-
-### 周杰伦等台湾歌手在大陆多地举办演唱会 国台办：与大陆文旅双向奔赴
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5952915705_162d248f906702z256.html>
-
-### 周杰伦演唱会上歌迷推介云和梯田，丽水风光引关注
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923674_m1d5ae17da03301frvw.html>
-
-### 周杰伦演唱会吸引歌迷跨城前往国台办：欢迎台湾演艺人员来大陆“开唱”
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://finance.sina.com.cn/jjxw/2026-05-20/doc-inhypxkk9645641.shtml>
-
-### 就美中峰会后特朗普有关对台军售评论，台湾防长称审慎乐观，批中国破坏台海和平
+### 港大学者李成：我觉得特朗普对台军售政策会调整
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-05-19 23:54
-- 链接: <https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQzNwZ2pkN2dSdVNsbm9XNGxiNnVCcHZjMENZdUxqWWh2TWdfWmRFS01wa0RlYlF0Z2kyZk1NYU93NVpSVGpWYUE0WS1FWjV6UVNHWHhqdW0wd0tIbDJLUGhhLVpva0RoS3VXOTViWmtSV3NmWTlja2tEdWc3RWs2eC1wdzZpOElMUGtPM3ZySzFWc3ZoZ3d3Ym5ZY0dGVTdSZmhZMFJpcnF5aXNvVndzbWtsVzd1cW9YRGZMRkI5OE12a1dRLUU5TF9ScnFhd2l5SGlvLWFXSnhLQXhGUUw1S0YxYUdaQdIB6AFBVV95cUxOSHhQY1k0TnY5OVljUkV2TGhwM1kwdjVaY2UyTWhLX2NmMUZyR3JEZGFwUWRhNnVwU2RONDhxSmNGeFJXYWxmY2pLeXBjQVVaRG5Lckc1aHdrRUZ0RnJzZkhqZEZVY1h0Q1NFVEFCUU5qRkxXMnloSGl4RzFiNFc4OHcxb2VRVHhqWWJMdDlMYkxRS1FrR1hoZHMtdVNPVDRnWmttak1jMVk5OUkweTlzN3lQQ3JIZHRCdjZJNV9ORlJXVW1xNlg1UWxwUC1KV2IxWWdTemVySmFKYW5aMmJzMG5QSjFWZ1hS?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-05-20 11:51
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBWTDVVdVhCcThIbDBHN29tZEtjYVNyMk15LUEwMzJQSkRZUTcwU1pVUjlrV1dUVFZJTk1idDdUdUxwYXR2VnB5NDZNRDQ?oc=5>
 
-### 聚焦台海 - 赖清德在特朗普的「不乐见走向独立」发言后澄清没有台独问题 究竟「台湾独立」是什么？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-05-20 10:15
-- 链接: <https://news.google.com/rss/articles/CBMi0wRBVV95cUxPRHRyQnVmYTdqM19Obk1US0dfT3F3R1dxdmdKMFBWXzFRVWRNYlRsbklNNTcyYmpTSnJGVWRrM2Y5ejBkWFBrckJaMC1yMGNNS0RnSmNvVkxMLTA5VTFfRGZocTBqREcxa0FmVlhzQ1RKU0UyQWhWYWlUNV9EMTlnampZR1FKVWRmV2FnMWtWcl9pdGt6VnpVc045U1kyRTVvbnV6Y0xVSGljV2VPR2IxckN4ZGdvRnBmYTlIUUVRZUM4bHJ3QmdHZWVQYThxNGl2aUlzTURjRDF5ZW5xWGxaWjRCMFJnZjY3SzM2RHptbmVyV29GQlR1dmxPZVBiVHBuREJBMzJ2Y3J5SzF2YWJkX01WZm1zU1dCdFZHZnFhZUNmaVBOTkVLR2hyRDFYOGdHRUw2QWlzdFpQSGF3VlFCeFVtblc4cDJ0QmlSZllpVjFNdlRQZWRVT1Z5cXJGYzBtX0xvRXNsODdwLTN2MHVfU1liS1Y0MWR4UkpUbjRQUWM4R2haN3hKblRRRmN3WkZPcWFOa2RkY0VySnhDeUZhS3daTFlJODV4WmZTNXJYVlJTV2NhRWJWV0M1S2RWc2gwYU1GcGprZlg4UmJ2Z3FzcEp3SUkzNW5Nb0tlcDYwNS1EM1NxZEczMEhWelBmWGY1Ym5LSlJBZkRiX1NSRm8xMlZwOGpjMm9YNEVJd3RGVVI5TmFOS2xOdFBkSW9HZ2syNm0yTlcxdTFjRENkdmEta01SX0d0S1I5dllydnQzU3VOM3hGRC1HR2FwWTdyc2FUczBj?oc=5>
-
-### 特朗普前脚离开，普京后脚抵京：两场访问背后的中国外交密码
+### 特朗普暗示日本过头了，曾点名日本：对台湾的支持力度很大
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-05-20 09:22
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PX0Z0SWZEZkZLblZSX05FYWdYNDFjUTFzdEpQenNSN0xkTFhsb2RyR3E3dXViSnJYV0F5R2l3ekV5MkFBS1FrVElKbTYyODNua3RqakxVQkM2eS10SzNET01VR3Q4Z9IBa0FVX3lxTFBmNnZBOXlYSVNvamM3bG5JbkJRaEhuZml3Q0JsRW1OYWlmcnRDcGp2UWRMdzQxWEt4T1lNSERyWlJ0QTJ5cGxvRFpVeEhLMEhKelhPTmFMa0o4a1c2NWJvTTJPbGJyOGlRMTdj?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-05-19 02:57
+- 链接: <https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSHlkTlU3OTJRa3ZKRGUzemMteXM1czJMeDlGV0c2T19ZX1dhUHhUbmZIMVVGWWhBUjlBbFVXZkN1UDR2WEp5RG9hTFdadFdQcHo0bUtpd2N4WGw3Yk5zTjhEelZDUmtIeVYwXzRoUjFXZEpsUHRfeHRpaXpnNUxyQ1FkYnJXRzd4TFZCaS1wZU9VQmlsZmo1anhDOVgxM09WVE8xMDJJdTlxcEhzandsY0cwdGZUWjhtaXZhaHdra1NCazRpcXBKWDlzRGZ2aGE2emllU3lMX1o?oc=5>
 
-### 送别特朗普 习近平在北京热情接待普京
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: DW.com
-- 时间: 2026-05-20 09:35
-- 链接: <https://news.google.com/rss/articles/CBMilgJBVV95cUxNVDdWWkJxOFlZZVEzNVo0T001dDdHWEZ4eGlzc3Z5LTZ6TGp3ME9tTXNBMWRIVDZhZ3dYZlVibEVyTjNTUVZpLVpQbzYyamVQaDFtUnlRMzRyVmtzU0VIcEs2cFgxS3pRaHp3ZmhxMjRXcGZ0THFoa3gyOWRsSk9tTldIbExQVjhJTDNRT0djdjA5RFZ0eWFfd204V2RNbUppaGNuSmE5eEJmVHFQa1pFdEROUGlnRkdyNURtQUtJUXduUFpPQjZ2VzB6YUl6ZEF4N1hZR0piUzhxblRBQlhuT1pHeXZDUmtDYS1ndlFKeTd6VHRLUTdfVmRTVFZIYlFubTB5VncyRmhURDhzUDlsLWtycUIxd9IBlgJBVV95cUxPc2FVam5JaWVtdlVqWWtYSWJfRTByWEtoU0xSbUtJU1k4RldwZHc2Qk1EQWhfbWZ4OXdJdjFxMGx4Rk1XSVpVaHlvdFlsMVRob2tvcFljOTdBZTE4X2RvX3JVakM3b285WDkyWl9aTEZ0UU5mTktnX3VWZk5UX0VSMWNHbFkyNE9uZVlTSEZJazdIRTZkZTRZTlI4YzFTV2VWNnU2Q3hWdy00NnpUX1loQi1wU1BiREJmekQxSFp1NHF4NHJiem9lUTROSW1lWEFnNUE0LXZ4cXpOdmZXcTRxUkhXQ3pTOEN1djI5bVZEanc5U0lYN0Y4S0tTc3pBeXN1LTRBQ2JkbEdRZkFZdTRncl96Y1VRZw?oc=5>
-
-### 特朗普来到白宫工地：请看我给美国的礼物，无人机撞上能弹开
+### 特朗普听取对伊朗军事行动方案
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-05-20 09:29
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9sRmFMd1NaUnhqZ1htOHBvUzVsN3ZDcS05aTR6RTQ2SUY0QjZIZThlbXdJZUFRZVhJX2xBOTU2WDRhN2VIWE96bGVkczdCWHRlSDFSak1FVE9ZbkJaNlZUMw?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-05-19 18:16
+- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE5GMEl0MGwyNFF5cXhVa1JMaURIaTNobzhDN29jSUFWRW9SXzNBWWlZNVBESkNkNXR4M2JHTmhQbWFRN0xZeElXZXhDd1J6MjZvcFcta2FySFNqLUt5Smt4OUU3aFk3M3EzX2JTNkhLSFZMOVktZUFjVjZMZWhYdw?oc=5>
 
-### 特朗普批评者落败
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: Sina finance
-- 时间: 2026-05-20 09:15
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9pa2JiYlFYaXBPWEdMWUg1anBOclhpT193TjZaMmw3R1FDem9pQ1FmTHNDZGVzV2Z5eVVvOGp4cjFyeUJoZkNndjZRYS02OUlWVjllNkpPazF6ZHdUaXE4bVF1WGVrNkJ5X0daUkxndGNXR0otdFVwaA?oc=5>
-
-### 在特朗普的压力下，欧盟各国终于就关税问题达成协议
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-05-20 09:16
-- 链接: <https://news.google.com/rss/articles/CBMi_wJBVV95cUxQendvM3pGVXBMbUVGeThyQnZ2a2U5dWtaOFpIRmxWeElsM1pmMHUwaWRYbFlJY0NMTUEyVnQyczJYUjA0YW9rWERnaV9hTUQzd3V2U1Nmd2RZa1NZd2ZJNEQ2bFcwNEk3LXNPN1hmdFY0T19Mc0E4SWZnaTIyN1VncHVweVJyRTBSQVpJV1ZGUy1zYTFEWlkyTW9kYl9jSkd1THFSYkotWDNSVHBmYTY2OERuTEI0MFhIX2VKbUl5VEozeDdjVVpPZ3FULTBCZkU1Z3IzS21NbEZxcEstZWRzQ2xPWV9XSmtENnd4d1ZNRnVXaGhmdlhJbHpKY25WaUQzNl9qNG9DUHdrcTFSWDZleVNUOWhrV2c4QndoTXVBU0VCcndJVmlueVBWNXo5SG5hTjF1X3V4S0ZkUGtoRkpIc2pqTU5qSkd4eHVJbEVTNnNuMGtoWmktcy1LZUh4WWdnOWg1NmNOQ2hqaXBHVUNqS2FjZWQ2aGl4TUoxdk5adw?oc=5>
-
-### 特朗普派出格陵兰岛特使访格 格自治政府重申自决权不容讨论
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财新
-- 时间: 2026-05-20 10:10
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFB0TGFVNUgxOEktMm9SY3I4Ry04MmNZd2FxMndpeEhqZ2U5R3pKUzRLSmFGVl9BTXhjZkhHTUFKYnZXOF81T1lGcWtJYVQ4UXMxNmVvTEJuTUt1V0p4ZnBTWThVa056VDgyQ1E?oc=5>
-
-### 外媒上手特朗普T1手机：不再标榜“美国制造”
+### 特朗普将对台军售用作与习近平谈判筹码
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 凤凰网科技
-- 时间: 2026-05-20 04:27
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1uVXp0em45TEtIZVNtbnN3M2s4NWk4ODk2eHdqdURYX0RSVFh6eTI5ZG5HUFNzRGlRZU04QUVmQ0hxSGFBVFY3VzByaHU?oc=5>
+- 场馆: 纽约时报中文网
+- 时间: 2026-05-17 23:43
+- 链接: <https://news.google.com/rss/articles/CBMihAFBVV95cUxPM2FKNmxwWmlFZ2VPdnFaWHRzTnpVN0t1V3dtYjVwaXZybGxNamNTZEkxSlhUdFlBems5LVVWTFd2TFlVN2ZXVmhJWjJVNUFNOWRlZEVmYldqclNVS0wyVDMxb1hGdWttRjVRUDlvckkyaFpmNFB4N0xERzdfWGY4MEV4eEQ?oc=5>
 
-### 特朗普为何不顾党内反对，冒险为肯·帕克斯顿背书
+### Euro steadies as Trump threatens to resume Iran strikes
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-05-20 01:02
-- 链接: <https://news.google.com/rss/articles/CBMihAFBVV95cUxPdGJsZUJFcGVPV21iT0F5VkJsQnF2Vkc5Sm92U3VpVEItNk5hdnl4R2pWRlFyUVcwdWltMENueGZxNEZITHNVOUg2dzcyM0Z0YU50M01yTFlEVTV3ZGIyWFJvcGZIXzlwcDFPQUF4Z2dQbTJWeDJmWVM5ZnQyeVN0RzRLUHU?oc=5>
+- 场馆: TMGM
+- 时间: 2026-05-20 02:10
+- 链接: <https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQXBscjA2aTFudTQxNDJGNmVNUGptYTBmMXZwWVJvVTZoeS04NWE5QW9hd1ExdkxZR2VUWjNVci1pTnBaSEtEYkNlSDJOOUJSa25mZWNQeTVVejZMUFRCc3hRV3B1clotbWpOMl8wTmZWdEx2SUhhWWZ3c1kyRHlrZ2M1T0syNHNPZ1NCQUZXb2wzWXh6UGJVS2I3MEhVTVdiR2c1T1JuV3Z3aG9qZmo2OFJkWFhfd0pnRnJqZDQxVE5JRGZ2VkVtMA?oc=5>
+
+### Oil Prices Decline After Trump Reaffirmed He Would End the War in Iran 'Very Quickly'
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-05-20 10:58
+- 链接: <https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYzkwTEFQV19TM1d1OFpaVjJkbERRbHVZYzBKZGp5MEg2ZlVnN1diWEFVWUVieVdPZV9paUJBS3VnNDJONkZjeGcwaGhHSjdpclNaSGRkUWJlbmU2ejlEMnMyWnlrZUQ4Z0ZPRzVXNFlGRDZUV1BQcTNaSHFoYWlza1VxZGRGZzkyTC1PcUZiT0k5SDJHSWtjOVdmV3FrYThhYUJOdFBwTEg?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-20 13:35  (9 条)
+
+- **周杰伦** | 新浪演唱会热点小时报丨2026年05月20日20时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001905pk3c.html>
+- **周杰伦** | Vista天下文娱|周杰伦新歌mv像AI生成的 <https://k.sina.com.cn/article_1323527941_m4ee36f0503301kyje.html>
+- **周杰伦** | 周杰伦等台湾歌手今年在大陆多地办演唱会，国台办回应 <https://finance.sina.com.cn/wm/2026-05-20/doc-inhyqcsc1591741.shtml>
+- **特朗普** | 港大学者李成：我觉得特朗普对台军售政策会调整 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBWTDVVdVhCcThIbDBHN29tZEtjYVNyMk15LUEwMzJQSkRZUTcwU1pVUjlrV1dUVFZJTk1idDdUdUxwYXR2VnB5NDZNRDQ?oc=5>
+- **特朗普** | 特朗普暗示日本过头了，曾点名日本：对台湾的支持力度很大 <https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSHlkTlU3OTJRa3ZKRGUzemMteXM1czJMeDlGV0c2T19ZX1dhUHhUbmZIMVVGWWhBUjlBbFVXZkN1UDR2WEp5RG9hTFdadFdQcHo0bUtpd2N4WGw3Yk5zTjhEelZDUmtIeVYwXzRoUjFXZEpsUHRfeHRpaXpnNUxyQ1FkYnJXRzd4TFZCaS1wZU9VQmlsZmo1anhDOVgxM09WVE8xMDJJdTlxcEhzandsY0cwdGZUWjhtaXZhaHdra1NCazRpcXBKWDlzRGZ2aGE2emllU3lMX1o?oc=5>
+- **特朗普** | 特朗普听取对伊朗军事行动方案 <https://news.google.com/rss/articles/CBMifkFVX3lxTE5GMEl0MGwyNFF5cXhVa1JMaURIaTNobzhDN29jSUFWRW9SXzNBWWlZNVBESkNkNXR4M2JHTmhQbWFRN0xZeElXZXhDd1J6MjZvcFcta2FySFNqLUt5Smt4OUU3aFk3M3EzX2JTNkhLSFZMOVktZUFjVjZMZWhYdw?oc=5>
+- **Trump** | 特朗普将对台军售用作与习近平谈判筹码 <https://news.google.com/rss/articles/CBMihAFBVV95cUxPM2FKNmxwWmlFZ2VPdnFaWHRzTnpVN0t1V3dtYjVwaXZybGxNamNTZEkxSlhUdFlBems5LVVWTFd2TFlVN2ZXVmhJWjJVNUFNOWRlZEVmYldqclNVS0wyVDMxb1hGdWttRjVRUDlvckkyaFpmNFB4N0xERzdfWGY4MEV4eEQ?oc=5>
+- **Trump** | Euro steadies as Trump threatens to resume Iran strikes <https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQXBscjA2aTFudTQxNDJGNmVNUGptYTBmMXZwWVJvVTZoeS04NWE5QW9hd1ExdkxZR2VUWjNVci1pTnBaSEtEYkNlSDJOOUJSa25mZWNQeTVVejZMUFRCc3hRV3B1clotbWpOMl8wTmZWdEx2SUhhWWZ3c1kyRHlrZ2M1T0syNHNPZ1NCQUZXb2wzWXh6UGJVS2I3MEhVTVdiR2c1T1JuV3Z3aG9qZmo2OFJkWFhfd0pnRnJqZDQxVE5JRGZ2VkVtMA?oc=5>
+- **Trump** | Oil Prices Decline After Trump Reaffirmed He Would End the War in Iran 'Very Quickly' <https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYzkwTEFQV19TM1d1OFpaVjJkbERRbHVZYzBKZGp5MEg2ZlVnN1diWEFVWUVieVdPZV9paUJBS3VnNDJONkZjeGcwaGhHSjdpclNaSGRkUWJlbmU2ejlEMnMyWnlrZUQ4Z0ZPRzVXNFlGRDZUV1BQcTNaSHFoYWlza1VxZGRGZzkyTC1PcUZiT0k5SDJHSWtjOVdmV3FrYThhYUJOdFBwTEg?oc=5>
 
 ### 2026-05-20 10:46  (27 条)
 
