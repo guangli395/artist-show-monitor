@@ -1,174 +1,225 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-20 03:45**
-- 本轮扫到 1635 条, 新增 **23** 条
+- 最近更新: **2026-05-20 07:39**
+- 本轮扫到 1663 条, 新增 **28** 条
 
 ---
 
-## 本轮新发现 (23 条)
+## 本轮新发现 (28 条)
+
+### 2018-2019湖南卫视跨年演唱会_芒果TV
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905p558.html>
+
+### 国台办发布会提到“周杰伦”：演唱会吸引两岸歌迷跨城观演，与地方文化旅游增收共赢双赢
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5953190046_v162d6789e067035w9a.html>
+
+### 周杰伦520MV又开始走来走去
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_3203137375_mbeebff5f03302l20q.html>
+
+### 周杰伦新歌《七月的极光》MV今日上线
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7811161072_m1d194dbf003301ocoi.html>
+
+### 国台办回应周杰伦等台湾歌手大陆办演唱会,乐见两岸文化交流
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_3514732862_d17e913e04001ctki.html>
+
+### 周杰伦演唱会吸引歌迷跨城前往 国台办：欢迎台湾演艺人员来大陆“开唱”
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1496814565_593793e502002148c.html>
+
+### 周杰伦上海演唱会为什么取消了 周杰伦上海演唱会取消原因
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905p350.html>
+
+### 周杰伦2023年巡回演唱会时间表(持续更新中)
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905p352.html>
+
+### 周杰伦2023年巡回演唱会来了!有哪些城市?开票时间及购票入口→
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905p33o.html>
+
+### 2023周杰伦巡回演唱会有哪些城市(附官网订票入口)- 开封本地宝
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905p2uc.html>
+
+### 2026年南宁周杰伦演唱会最新消息
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905p2r8.html>
+
+### 2023周杰伦演唱会行程(时间+地点)
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905p2kg.html>
+
+### 2023周杰伦内地演唱会时间表(时间地点门票)
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905p2pw.html>
+
+### 周杰伦大陆演唱会带火文旅消费 国台办回应：乐见更多有温度、有人气的两岸文化交流活动
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_6105713761_16bedcc61020022s0g.html>
+
+### 国台办回应周杰伦在大陆举办演唱会 ：欢迎台湾演艺人员来大陆演出 国台办点赞台星大陆演唱会促两岸交流
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_2003952255_m7771e27f03302z0n6.html>
+
+### 国台办回应周杰伦等台湾歌手大陆演唱会，欢迎两岸文化交流
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1726918143_66eeadff04001t49c.html>
+
+### 新歌MV丨周杰伦「七月的极光」官方MV
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_2640993657_m9d6a5d7903301aszo.html>
+
+### 周杰伦等台湾歌手在大陆办演唱会，国台办回应：两岸同根同源，文脉相通
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1655444627_m62ac1493020032aiw.html>
+
+### 周杰伦演唱会的座驾居然一直是它？ 别克你得抓住这波流量啊！
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1708849635_m65daf9e303301v89e.html>
+
+### 【4K修复】周杰伦 梁心颐 - 珊瑚海 MV 2160P修复版
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7480864266_m1bde4ee0a001016cem.html>
 
 ### 周杰伦等台湾歌手在大陆多地举办演唱会，国台办回应
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1667821284_6368eee401901n1to.html>
-
-### 周杰伦等台湾歌手在大陆多地举办演唱会，国台办：与大陆文旅双向奔赴
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_3363163410_c875cd1202001wjgy.html>
-
-### 周杰伦等台湾歌手在大陆办演唱会引文旅热潮，国台办回应
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1893892941_70e2834d0200203jk.html>
-
-### 国台办回应台湾歌手在大陆办演唱会：与大陆文旅双向奔赴
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7295511708_m1b2d8ac9c033019vpi.html>
-
-### 周杰伦等台湾歌手在大陆多地举办演唱会，国台办：欢迎！
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6145283913_16e49974901902e46i.html>
-
-### 国台办回应周杰伦大陆演唱会热促两岸文旅双赢
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1644114654_61ff32de040025c3y.html>
-
-### 国台办回应周杰伦大陆演唱会，欢迎台湾演艺人员交流
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1899227237_7133e86504005orgg.html>
-
-### 周杰伦等台湾歌手在大陆多地举办演唱会  国台办：与大陆文旅双向奔赴
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2810373291_a782e4ab02002ufsw.html>
-
-### 能拍周杰伦的MV，与林志颖搭戏，那刘荷娜当初为什么分开台湾？ 林志颖
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2045192714_m79e72a0a033019pvq.html>
-
-### 周杰伦等在大陆多地办演唱会，国台办回应
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://finance.sina.com.cn/wm/2026-05-20/doc-inhyphnp1740617.shtml>
+- 链接: <https://finance.sina.com.cn/wm/2026-05-20/doc-inhypnup7002172.shtml>
 
 ### 周杰伦等台湾歌手在大陆多地举办演唱会 国台办：与大陆文旅双向奔赴
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://finance.sina.com.cn/jjxw/2026-05-20/doc-inhyphnk2656222.shtml>
+- 链接: <https://finance.sina.com.cn/wm/2026-05-20/doc-inhypnup7015897.shtml>
 
-### 周杰伦等台湾歌手在大陆多地举办演唱会，吸引大量歌迷跨城前往，国台办：欢迎！
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://finance.sina.com.cn/wm/2026-05-20/doc-inhyphnr6969826.shtml>
-
-### 国台办回应周杰伦等在大陆举办演唱会：与大陆文旅双向奔赴
+### 周杰伦等台湾歌手在大陆多地举办演唱会，国台办：与大陆文旅双向奔赴
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://finance.sina.com.cn/wm/2026-05-20/doc-inhyphnr6960434.shtml>
+- 链接: <https://finance.sina.com.cn/jjxw/2026-05-20/doc-inhyphnk2676563.shtml>
 
-### 特朗普称或将再次打击伊朗 美参院推进法案限制其行动
+### 特朗普称美方可能不得不对伊朗“再予以一击”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-05-19 15:26
+- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxObDNWekFVdVBQTUhGOGV1UHgwbGhRUW5nZ0tLN3YxSks3Tk00MHoxU1NYSGxieE45NnNWc2R6T1VRVUZUYVhVWFZtdkdGUWFiVWw0NWJhN2VaYWNCT3BHeEtJU3g5WFAzVld4WnJVLVdVQ2VKNnBfYVcyZnRVTDczQXBEUjlVb3FnLVpick55SmtCNDJ3?oc=5>
+
+### 特朗普带记者参观白宫宴会厅工地 相关花费或飙升至14亿美元
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新华网
-- 时间: 2026-05-20 01:24
-- 链接: <https://news.google.com/rss/articles/CBMid0FVX3lxTFBmWlNvQWZ4SE1nWmhnQTZWWVBmenhRcm1Ucm5GazFSS3BIVEVxWktheHdPeENwWkFtWnB2VEpCX0JjTnBhV3lXeC1BaW9maHRTQzExemtMQm9fZHJxVWpHajNFTHJWdF9FZnNaNnUxSGhmTTI5YWFZ?oc=5>
+- 时间: 2026-05-20 05:57
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE16YXIwdjEzaWVXbXNHYk1iYm1ab1FlV05sR2txbGdmaG40MGJ4OGtrR1NhV0RMUjdfOE1nd3lyaEhXX2dlUlpsbVdUakhBV29YQWc4ZEpfaWNlcUg3aU0wT3FHaW8za09LRGl2U1JlX2ZsaGZlSWRaX0Q2LTRUdDg?oc=5>
 
-### 特朗普刚走，普京将至：中国的外交“高光时刻”？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: DW.com
-- 时间: 2026-05-18 09:50
-- 链接: <https://news.google.com/rss/articles/CBMioAJBVV95cUxNV0hLbHRzcUlIVUVIeUViOUx4UmM3VF80X3dNaEhxa2t5bE1zRHlzOWpaWWVQbFVjVFd0bGRhOTREa1hTcjdLZDVjQzlubEEtTGJKeDFtVE0xT1g5U1oyZjBXNVYwMU9ES2UxeVdhUmNNWm5QbU5RWnNZVm1FMm5QRUI0OHdRUFRvczBmNE1JMm83aGxhWnNOa2t5UUduOWJvSmx5YVFCb2VhZVBDTXloWnZIVnU1aFpTSk1IRnVMRXEzRHlvUkZNcXBKazU2ek9zTkZfSHlYZXIxM0tmWGhFSFVwVkJaRGE3RkJFUEd4aVZ2UEp1b1BtNzZfNFZDbHBBSjBSMWppd3NuazR5M2N5MEx0NU1mSTdWaU1DOFhYZjk?oc=5>
-
-### 普京再次访华，伊朗战争给俄罗斯带来新契机
+### 为啥特朗普抛涉台“四不”说法？鲁比奥用大白话解释了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-05-20 01:58
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTFBISU01bFN6QmhkOExNZHRYTjF1SjNETGU0UTRCRjl3ckVvck1nWWJrWjZNX09vMG52aE8yandKMVpmSlRDM2tZTjVTb2VEaEFNSXRkSUJyMkk2U1VLZDlCMTBoRWstTThmX2kwdW95Zw?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-05-19 09:59
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE93OW5LbXotcXE3MFc1RUZkVlVGcFZESWZSS0l2THY4M2dvaGlIaTJtSWlxcEU0U0xWaEZkblljUmJrVVZDSzloSEFfbng?oc=5>
 
-### “特朗普家族获得豁免，永久禁止国税局审计过往纳税申报表”-观察者网
+### “没用中国零件，没在中国造，特朗普敢说吗？”-观察者网
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 观察者
-- 时间: 2026-05-20 01:21
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5IS3N2ejFvQUpKTDdsOGhpdVBwcFphMGVJN1BzdC12OE1Cb3NDYVByWTBJeEtXNE5vRTV4SzRpTGJUYzBJRTJLZ3JWT3p5ZlZINThJSHJ2WURRZFh1aFFod01INXFoc0RTaHc?oc=5>
+- 时间: 2026-05-20 01:05
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE4zSGhDX0wwVS02Z0JfUjdWQWRoTTJIZnE4aTQ5bndyeVYxT2FnRlBVdk5kamZJLW9BNm05S2hhdC1ROTN4ZWJFd0l1NUxyZTlXSkVNU2FFZ2p0MjNUdXFSQTF0QlV2Z2dSRHc?oc=5>
 
-### VOA专访：金明日牧师女儿：感谢特朗普总统为爸爸发声，期待全家尽快团聚
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-05-20 00:31
-- 链接: <https://news.google.com/rss/articles/CBMizgFBVV95cUxNTlRzQWZocUJpMzJEd0M1dERYS3RxQjlCWDB1ZzN4bzlnU1ZBM1VubGs0YjRuZFoxREZLVFpVRWZqWWIxeVdlLTZoQXloMWhKOUNFY0FkUE9ZTVlkOHNMejZqQU11bUlENjZ1VzJHZUpVTXcxeDJjWGNwbHdWRVpxTnQ0OWV5dnBQdFpEbTVvekZuZE91MFJXUGZQeVM4eUdzRDhSUjV6VWh1eVUxTm1ESEtJd0d2NTJJcDU1ZERsYXJvaTZuRjAtWVBCWEZpUdIB0AFBVV95cUxNMi1ZYjJTeURoWE5nNzY0UHpKLXd5M1ZpT2N4Zzlfd3B1QmxlUHdhMi1MR1FYQk80VjRHbFV4dWdNX0RDNDc0YTh1dFl3Nzd2RzV2aGJpMl9iM1RVRnUxZVBfMWtmUUc4akdQeVNpQmc1b1Zld0RjZnBuVmRNRXFQanBqSnlPdXhhVTkyaFl6V1VBbTZnR1dDS3F2b2ZnU3BEb3ZObXQ1eXpaWlBzWDBCNnk5cVRYMmlqM0R6QWEtSFhFRmh0aVY4LWY2Zm91Z0kw?oc=5>
-
-### 美联储加息概率飙升！特朗普松口：沃什可“按自己意愿” 决定利率
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-05-20 00:41
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE9DZDJ1bDcydThBNkFiNFRkYlBENmtVajI1aHpUWEtLOHJQVHR6cUJmYTktU0lrNUotUTl6aXJOdzNFR1ZNcjJEUg?oc=5>
-
-### 特朗普访华：自由世界的精英们原形毕露...
+### 特朗普施政满意度降至35%，共和党人支持率下滑
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-20 00:29
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE10OUxDajRJQU9WcGNjYjFORktEUC12b3lBLVpfa1picDhrTXg4QmZjZGJPWDFyNzZhNnhYNzRoa2dJOG02cWtqc1p5ZENyUXNhLUZIYUtxY1JNWUxyd2xkVTEzalJRaUJnbFpFMTFDYw?oc=5>
-
-### 欧盟迎合特朗普要求 加速启动美欧贸易协议
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-20 00:34
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBCVDdERU41X2M1cHJ5Ykk3VzAtVVE1bGhwVDYzWWxlczdKRDRVTzFMLUNBZ2NLUE9OZzBFMGpwbzctRmJvaWxwNl9Mbw?oc=5>
-
-### 特朗普称美国或将再次“沉重打击”伊朗
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-05-19 16:09
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9YdE9MZGtZOFhCYWRWTGtFODIwY0E1ZGR6OEVMaUtnR1NaQWNMSEpLb09uVDl4WG53SXR2anNPQ3FiSFI3UjBvWUQ3cDhFY29UU0JDVDJBXzY0bXFZWGRVbi1iaHIyd0hyTE1WRmlxSEl4VndvRnh4LVBNd0JhZ3M?oc=5>
-
-### Trump 指若短期内未达成协议将对伊朗作出「重大打击」
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: AASTOCKS.com
-- 时间: 2026-05-19 23:49
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE5CQXQyZEl5NGpubDhMQVNWSll3R2ZWUmhHX0RrdlBvYTdkbDc1UDRvc2Q4Vk9LYURVVk5aR3dKNndCaVhub1dZWEthUHNZY3hWOVZGbVNLNUNzWGFEamRxUUN4Y1NRVUtYaVNreEFVcw?oc=5>
+- 时间: 2026-05-19 22:36
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxNUlJ5X282QXExTzdrYTRGYlN5Vkx4eGtyeW43Z2NXWWthQ0UtT18wOGViRkFvQmVzRjhvRE9hZFpKVlVhNnlpZ1A3RUZER1ZxYnV1M2J1S0kzRF8tdVFGcmVFbHB5MEtIbDNVV2VDRkJrejNEODd0Z3JJRDFBTlFlUGVmdWdLNEU?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-20 07:39  (28 条)
+
+- **王一博** | 2018-2019湖南卫视跨年演唱会_芒果TV <https://k.sina.com.cn/article_7857201856_1d45362c001905p558.html>
+- **周杰伦** | 国台办发布会提到“周杰伦”：演唱会吸引两岸歌迷跨城观演，与地方文化旅游增收共赢双赢 <https://k.sina.com.cn/article_5953190046_v162d6789e067035w9a.html>
+- **周杰伦** | 周杰伦520MV又开始走来走去 <https://k.sina.com.cn/article_3203137375_mbeebff5f03302l20q.html>
+- **周杰伦** | 周杰伦新歌《七月的极光》MV今日上线 <https://k.sina.com.cn/article_7811161072_m1d194dbf003301ocoi.html>
+- **周杰伦** | 国台办回应周杰伦等台湾歌手大陆办演唱会,乐见两岸文化交流 <https://k.sina.com.cn/article_3514732862_d17e913e04001ctki.html>
+- **周杰伦** | 周杰伦演唱会吸引歌迷跨城前往 国台办：欢迎台湾演艺人员来大陆“开唱” <https://k.sina.com.cn/article_1496814565_593793e502002148c.html>
+- **周杰伦** | 周杰伦上海演唱会为什么取消了 周杰伦上海演唱会取消原因 <https://k.sina.com.cn/article_7857201856_1d45362c001905p350.html>
+- **周杰伦** | 周杰伦2023年巡回演唱会时间表(持续更新中) <https://k.sina.com.cn/article_7857201856_1d45362c001905p352.html>
+- **周杰伦** | 周杰伦2023年巡回演唱会来了!有哪些城市?开票时间及购票入口→ <https://k.sina.com.cn/article_7857201856_1d45362c001905p33o.html>
+- **周杰伦** | 2023周杰伦巡回演唱会有哪些城市(附官网订票入口)- 开封本地宝 <https://k.sina.com.cn/article_7857201856_1d45362c001905p2uc.html>
+- **周杰伦** | 2026年南宁周杰伦演唱会最新消息 <https://k.sina.com.cn/article_7857201856_1d45362c001905p2r8.html>
+- **周杰伦** | 2023周杰伦演唱会行程(时间+地点) <https://k.sina.com.cn/article_7857201856_1d45362c001905p2kg.html>
+- **周杰伦** | 2023周杰伦内地演唱会时间表(时间地点门票) <https://k.sina.com.cn/article_7857201856_1d45362c001905p2pw.html>
+- **周杰伦** | 周杰伦大陆演唱会带火文旅消费 国台办回应：乐见更多有温度、有人气的两岸文化交流活动 <https://k.sina.com.cn/article_6105713761_16bedcc61020022s0g.html>
+- **周杰伦** | 国台办回应周杰伦在大陆举办演唱会 ：欢迎台湾演艺人员来大陆演出 国台办点赞台星大陆演唱会促两岸交流 <https://k.sina.com.cn/article_2003952255_m7771e27f03302z0n6.html>
+- **周杰伦** | 国台办回应周杰伦等台湾歌手大陆演唱会，欢迎两岸文化交流 <https://k.sina.com.cn/article_1726918143_66eeadff04001t49c.html>
+- **周杰伦** | 新歌MV丨周杰伦「七月的极光」官方MV <https://k.sina.com.cn/article_2640993657_m9d6a5d7903301aszo.html>
+- **周杰伦** | 周杰伦等台湾歌手在大陆办演唱会，国台办回应：两岸同根同源，文脉相通 <https://k.sina.com.cn/article_1655444627_m62ac1493020032aiw.html>
+- **周杰伦** | 周杰伦演唱会的座驾居然一直是它？ 别克你得抓住这波流量啊！ <https://k.sina.com.cn/article_1708849635_m65daf9e303301v89e.html>
+- **周杰伦** | 【4K修复】周杰伦 梁心颐 - 珊瑚海 MV 2160P修复版 <https://k.sina.com.cn/article_7480864266_m1bde4ee0a001016cem.html>
+- **周杰伦** | 周杰伦等台湾歌手在大陆多地举办演唱会，国台办回应 <https://finance.sina.com.cn/wm/2026-05-20/doc-inhypnup7002172.shtml>
+- **周杰伦** | 周杰伦等台湾歌手在大陆多地举办演唱会 国台办：与大陆文旅双向奔赴 <https://finance.sina.com.cn/wm/2026-05-20/doc-inhypnup7015897.shtml>
+- **周杰伦** | 周杰伦等台湾歌手在大陆多地举办演唱会，国台办：与大陆文旅双向奔赴 <https://finance.sina.com.cn/jjxw/2026-05-20/doc-inhyphnk2676563.shtml>
+- **特朗普** | 特朗普称美方可能不得不对伊朗“再予以一击” <https://news.google.com/rss/articles/CBMilAFBVV95cUxObDNWekFVdVBQTUhGOGV1UHgwbGhRUW5nZ0tLN3YxSks3Tk00MHoxU1NYSGxieE45NnNWc2R6T1VRVUZUYVhVWFZtdkdGUWFiVWw0NWJhN2VaYWNCT3BHeEtJU3g5WFAzVld4WnJVLVdVQ2VKNnBfYVcyZnRVTDczQXBEUjlVb3FnLVpick55SmtCNDJ3?oc=5>
+- **特朗普** | 特朗普带记者参观白宫宴会厅工地 相关花费或飙升至14亿美元 <https://news.google.com/rss/articles/CBMif0FVX3lxTE16YXIwdjEzaWVXbXNHYk1iYm1ab1FlV05sR2txbGdmaG40MGJ4OGtrR1NhV0RMUjdfOE1nd3lyaEhXX2dlUlpsbVdUakhBV29YQWc4ZEpfaWNlcUg3aU0wT3FHaW8za09LRGl2U1JlX2ZsaGZlSWRaX0Q2LTRUdDg?oc=5>
+- **特朗普** | 为啥特朗普抛涉台“四不”说法？鲁比奥用大白话解释了 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE93OW5LbXotcXE3MFc1RUZkVlVGcFZESWZSS0l2THY4M2dvaGlIaTJtSWlxcEU0U0xWaEZkblljUmJrVVZDSzloSEFfbng?oc=5>
+- **特朗普** | “没用中国零件，没在中国造，特朗普敢说吗？”-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE4zSGhDX0wwVS02Z0JfUjdWQWRoTTJIZnE4aTQ5bndyeVYxT2FnRlBVdk5kamZJLW9BNm05S2hhdC1ROTN4ZWJFd0l1NUxyZTlXSkVNU2FFZ2p0MjNUdXFSQTF0QlV2Z2dSRHc?oc=5>
+- **特朗普** | 特朗普施政满意度降至35%，共和党人支持率下滑 <https://news.google.com/rss/articles/CBMihwFBVV95cUxNUlJ5X282QXExTzdrYTRGYlN5Vkx4eGtyeW43Z2NXWWthQ0UtT18wOGViRkFvQmVzRjhvRE9hZFpKVlVhNnlpZ1A3RUZER1ZxYnV1M2J1S0kzRF8tdVFGcmVFbHB5MEtIbDNVV2VDRkJrejNEODd0Z3JJRDFBTlFlUGVmdWdLNEU?oc=5>
 
 ### 2026-05-20 03:45  (23 条)
 
