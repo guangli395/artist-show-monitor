@@ -1,78 +1,105 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-21 08:29**
-- 本轮扫到 1764 条, 新增 **8** 条
+- 最近更新: **2026-05-21 11:49**
+- 本轮扫到 1774 条, 新增 **10** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (10 条)
 
-### 盘点周杰伦线上歌友会投票人气最高的六首歌，有你喜欢的歌吗
+### 蔡徐坤见面会突发状况，有女孩子好直接冲上台抱抱，蔡徐坤也很温暖嘱咐小心点
 
-- 艺人/关键词: **周杰伦**
+- 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7480851854_m1bde4bd8e0010194f0.html>
+- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301brxu.html>
 
-### 中方回应特朗普称将与赖清德对话
+### 澳百亿发布蔡徐坤活动道歉声明
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_6377398640_17c1f617004001o9pm.html>
+
+### 《南德意志报》：特朗普和普京的错误正成为习近平的机会
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-05-20 21:35
+- 链接: <https://news.google.com/rss/articles/CBMi9AJBVV95cUxQOW90TU8waEhtTHJoN0tPSC1pdG1IOE04Y2pJZTVUQ0lEN1d0SHFKSC1xNVd0WGRWRTBHaWYxeU1KQzFLNHp5Tk5hT0R6Tk50RkZnMlNNXzhyWHhidTdJenU4b1NfVGlBUjJCcTQ2MnBJNmF5WkZYd09TZWxLSURtTFhraS1FRFJMWk84RXE3OUE4eS1GLVJXQkkzSUI4MmhnOW03SmxMc3F3LVBsZEZobjlCN01zUzh2Uk9vdFRNUDlxVXczTkhqUUZOX00zU0xEeU04LWlLcldhZVF1bXkxcXhHYXVSWXNoYVE1ZFRGVmhZWWtrczZVS09oSlRCOWg2LVU1Y0RfQkxmc1VXOFVVamc0aGdMSjZxRzhsekhUU1QtQ0VpNVpkYnV2OTAzNzM0a1l3VUdHN1FPUE5UUW15WXJzYkFlNDlSUVdwVno5MENsNXlnY1lnNU1jN0xRSWo3WDNEMTcycUZyRXZNbEp4VTB3ZEY?oc=5>
+
+### 特朗普：不要中国学生，那可太冒犯了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-05-21 07:38
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5obkU2Sm12U1pxcjFhYTR2SjBHWjZHOWxuQUxKSWlXcVlJZ3drNm1RZ2RwZDBXcHhBbFRjTTRET19IS3R3OVJ4SXVKdjc?oc=5>
+- 时间: 2026-05-21 01:12
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9iSVg4ci1GbHFjOEQ1SXduc1JXa0V6Qm91Z084MTM0V0N5TWxNYnhyWDFZWUgyUWtObDJIS2JWVXNIYThQbEZfaGpkaWg?oc=5>
 
-### 沃什会向特朗普妥协吗？一文盘点白宫与美联储70年权力暗战
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-21 08:12
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxPX2F5clBZMHkteWQ2R0ZxWDAxZXJTLW14cV9XaVJvM2RUdHY0Y0dSRHpBcUowNWlxUVItQVVIck9wc3FobDNLWVZVeHdJclhadVd2WHVIQkZtMGRBSzFFSnY5T0R2UUtzREVmdEhjZTlCb3NVN3Bzbmx6elhBejdwYkdBTmtsSGd4V3pKYmNRRC1FUndvbXlxVg?oc=5>
-
-### 美媒称特朗普政府已开始制定对古巴军事行动方案
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-05-21 03:31
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pZUpkSFVOM2NlZXhqV0pZdzNrN2dmNGFpeGdFZGZtWmx3MXlhVFQ0bU1DbUE5c1dWQjBUNUQ0NGdnZnBPYVB5VQ?oc=5>
-
-### 特朗普特使“强行”访问格陵兰后称：“美国是时候重新上岛了”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-05-21 07:02
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE41QjBPU0FIMWhxVDFuZ2ZYQm1Ka2Zia0tlcmZBSk55THBVOS1yMjQ2NDZIMzJoeUNQaHp3a0ZjTWFaMng1OFIwWGZNQk5BTkJpRHZkWGk2RnpHX1dvYWgwYw?oc=5>
-
-### “台湾所有芯片企业应该赴美设厂”，特朗普称台湾偷走美芯片产业：当年如果我当总统，台积电不会是业界龙头
+### 美政府披露：特朗普一季度买卖股票3600多次，涉及英伟达、特斯拉、苹果、波音以及洛马等军火公司！交易额或超1亿美元
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-20 15:51
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUm1CYUNTYldlZU5IWklBU05ocU1EektLTkJqMGdJYlAyZFQ1dHJKYVd5SnhBNFZCdmU5Z1hnSEtHMkJtbXBmSFVmYjhENmFzT0t1WWFfRUN5ZTJJUmtqM2lYSG9wRVNkOHJFY1YyR3NEM0JDVUpsMkhpQktUWk9JUmdxajdQY1ZvQmthekxQQXpaRWpORHhrRVZhalZmMXNJNlM2UXVCY00yT0dCbTFvY2RCakpTU052N1JxckJ2b2p3ZlVFQTNJN3djWmZwbjlX?oc=5>
+- 时间: 2026-05-21 09:11
+- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTFAzVXpBLW4wSFRCclNpYU01Z1Qwa2RuWjAyVVpXZng0VW96LWI1UHZtd2o2TFBtNVFndk5iTlJ6T3BIZjZHdlNNNE5nV2h2Uk1VSFRpTUpmNFBfeFp3eklDeEhkVEc4dktkLXhOS1VB?oc=5>
 
-### 特朗普带记者参观白宫宴会厅工地：“都是我和捐赠者出资的” 并称这是“送给美国的礼物”
+### “特朗普一季度进行了3600多次股票买卖”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 每日经济新闻
-- 时间: 2026-05-21 04:38
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ETG5wSmczWi1YdjFkcnhXWF95dnFrUEZzaUFYNENCenhSQmRSeVhJR2I3TS10ckNJakFtUXNtVDhPbEFmc3pxdEl6MFoybzBESVFwdGFqNEZJdUtQU2tpWEhDR2VRUQ?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-05-21 08:20
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1WQzdQUUZ5MEkwaC1nSXFUUThJdVczQkhlbXR4c211TWVJemRacFdEcjdqWXhxbkl4UUcxYVdQVHpJZWp5WHBfVlZFS0tNZmlNV1YtZVRrcHdjVXRtU0l6TWRrWjVnRHBRa1ZQd2FCM3dkNjlmOGhFaA?oc=5>
 
-### 美国起诉卡斯特罗，特朗普押注委内瑞拉“剧本”能在古巴奏效
+### 特朗普一季度“炒股”记录曝光！
 
 - 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 搜狐网
+- 时间: 2026-05-21 09:10
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR3FobGZLamVMRl94eXdNaThLaEtTanFjQXh1djJfQ2lmSGFYWGhSNUpsM0xpTkJ5OWRueGd0Qm5WNEcwdHBZSWxPZ0FKcWlDcnlCMVNwcU03ZkxDUllwb0xER3UtaG9mWUl0ZVUtbGVheGdmVWpCSXg4NFg4Vm9MVnI5SFAxYVZn?oc=5>
+
+### 特朗普称将与赖清德谈军售 北京施压会否奏效？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: DW.com
+- 时间: 2026-05-21 07:55
+- 链接: <https://news.google.com/rss/articles/CBMiugJBVV95cUxOZl9CWUdreHFFb0hOdWxzX3FXTW9Md1gyUkJFRmdKOV9NM2o5YV90TGRTUEFnU2IyMFNwZF9EUFhhcFo3bFF3bGxEVXBiQTdLWHoyVUI0LXpQeFZUSHZsZFpKRnE1RGVKM0JqX2hFdVF1ZmRXZER2b1dOYTNhby1KVkZIVlI4VzZJdGxoMllORWhTRVdRM0w5YnZIdV9nc3BDcWFsTFFiVzNMYXVUNzZGNWtoTWhiRXd1SFNuZ25veTFTTmZSVHFiQ2FyTUNuWFBvc2FqdWIwWVl0UFBVdHRTbUFrOXNoMmNtSVMyMVdxV1BQUVAzNzRLOTRkYmJhdlRBTVl4cHd1dU5MRzlhYjRPZ1NWXzhOTjhKM0pfNHhzYTZCSGlkY0ZsZU1WblRJVk9Ga1FxU0l1ZUhEZ9IBugJBVV95cUxQbHJ5RHNqWUIwSFJwSnZqMmd3cy1RWG1HSVUxc2FkYUhiVERzT1p4TS1Ueno0YW85R19DLWlkMUg1Z1dBS0FqbGJleFV5U0YyeW90aGV6YTdfMmRVOElRRXJYam9MZWdlRWxQMlR5SzNFUE1UR21wYVZTRzFrQkVnQXNRQWVXYmFQZnJ6aFN4OUNhdkRVaXMwYWE1eWFMbVBFbG8zVEh1TnE2cFlmdm9NaW84T1BZVktBd3p4Y05qZWI0UDgzT0dnX25mOUplSlVQNmZoWWpDSGdobWdUU2VSVE9HYnJ3LXB1Wk8tZ3NBTHF2UHJmdUI5Uk56STRfeGpUdGFwNnJDOHhVdWIycl9KOGVwbElNNjJTVlVTY3FkMUFyZ1RsTERaX0NpbmFqdlFEeGhBaFBvNmhPUQ?oc=5>
+
+### 特朗普对台军售态度存疑，台湾发声捍卫自身立场
+
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: 华尔街日报中文网
-- 时间: 2026-05-21 05:34
-- 链接: <https://news.google.com/rss/articles/CBMisAFBVV95cUxNazhaTnVIY1ZGTkhaWWJ1NTFlcGtsdVZlc21QMm1rOV8xaXNwSnZFUmxWUkxZUkJNMVRQR0tEQmNkcmpvM3czYzRDSE1xdXY2ZWlHRFBYYkxkQmsyVU1LQVFIMjhsYllVbUhjdFZjak5QcUJGVWd3elZzUjgzd01LSW00MEYyZndpMmpHMFNHX3g3dmN6NjNMMmFxaDV4RTVFUzB3VTlUTmpubDZXekhOLQ?oc=5>
+- 时间: 2026-05-20 11:59
+- 链接: <https://news.google.com/rss/articles/CBMiogFBVV95cUxQOXFpdU1TbDk0NVd0UVBjVnpHYW02azREUDVESGIxM3FvZlZFdnA4dmxHTWNWcU03OHNab1RJaTgyR2ZsRV8tY2g0Y3U4Y2V1ay1WZmhTSmpZUU5GRG9JZFAzdmdRWS1DQnRYTHRpY01OMmlURHVYUUVUY3VkdmhHcElnaW43aDUyWjBDMVYxNU5POWN5WjNKNjNWMi04QTEtcGc?oc=5>
+
+### Quantum Stocks Soar as Trump Administration Is Reportedly Buying in
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 富途牛牛
+- 时间: 2026-05-21 11:30
+- 链接: <https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVmJOTTlTZUdMazRQeTVuS0IzdkM5eGNLTGN0TDhDQmZEWm5zRjNfTFI4eHdhd3cyS0dwNVEtVEo4cnVuRDJhTnhjU1Mwc3RhY2x2SGxBeTA3ekwzMG9lc2RrZTR3TXg2NmZVcmdTdUF2UDQtS29oM1lmRWptYktiWk1wZkVrUU04R3kyQmRzT2xBSkhqcTRaYmVfVEFvd09WTUhhTUt4QXY?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-21 11:49  (10 条)
+
+- **蔡徐坤** | 蔡徐坤见面会突发状况，有女孩子好直接冲上台抱抱，蔡徐坤也很温暖嘱咐小心点 <https://k.sina.com.cn/article_7879924009_m1d5ae192903301brxu.html>
+- **蔡徐坤** | 澳百亿发布蔡徐坤活动道歉声明 <https://k.sina.com.cn/article_6377398640_17c1f617004001o9pm.html>
+- **特朗普** | 《南德意志报》：特朗普和普京的错误正成为习近平的机会 <https://news.google.com/rss/articles/CBMi9AJBVV95cUxQOW90TU8waEhtTHJoN0tPSC1pdG1IOE04Y2pJZTVUQ0lEN1d0SHFKSC1xNVd0WGRWRTBHaWYxeU1KQzFLNHp5Tk5hT0R6Tk50RkZnMlNNXzhyWHhidTdJenU4b1NfVGlBUjJCcTQ2MnBJNmF5WkZYd09TZWxLSURtTFhraS1FRFJMWk84RXE3OUE4eS1GLVJXQkkzSUI4MmhnOW03SmxMc3F3LVBsZEZobjlCN01zUzh2Uk9vdFRNUDlxVXczTkhqUUZOX00zU0xEeU04LWlLcldhZVF1bXkxcXhHYXVSWXNoYVE1ZFRGVmhZWWtrczZVS09oSlRCOWg2LVU1Y0RfQkxmc1VXOFVVamc0aGdMSjZxRzhsekhUU1QtQ0VpNVpkYnV2OTAzNzM0a1l3VUdHN1FPUE5UUW15WXJzYkFlNDlSUVdwVno5MENsNXlnY1lnNU1jN0xRSWo3WDNEMTcycUZyRXZNbEp4VTB3ZEY?oc=5>
+- **特朗普** | 特朗普：不要中国学生，那可太冒犯了 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9iSVg4ci1GbHFjOEQ1SXduc1JXa0V6Qm91Z084MTM0V0N5TWxNYnhyWDFZWUgyUWtObDJIS2JWVXNIYThQbEZfaGpkaWg?oc=5>
+- **特朗普** | 美政府披露：特朗普一季度买卖股票3600多次，涉及英伟达、特斯拉、苹果、波音以及洛马等军火公司！交易额或超1亿美元 <https://news.google.com/rss/articles/CBMibkFVX3lxTFAzVXpBLW4wSFRCclNpYU01Z1Qwa2RuWjAyVVpXZng0VW96LWI1UHZtd2o2TFBtNVFndk5iTlJ6T3BIZjZHdlNNNE5nV2h2Uk1VSFRpTUpmNFBfeFp3eklDeEhkVEc4dktkLXhOS1VB?oc=5>
+- **特朗普** | “特朗普一季度进行了3600多次股票买卖” <https://news.google.com/rss/articles/CBMieEFVX3lxTE1WQzdQUUZ5MEkwaC1nSXFUUThJdVczQkhlbXR4c211TWVJemRacFdEcjdqWXhxbkl4UUcxYVdQVHpJZWp5WHBfVlZFS0tNZmlNV1YtZVRrcHdjVXRtU0l6TWRrWjVnRHBRa1ZQd2FCM3dkNjlmOGhFaA?oc=5>
+- **特朗普** | 特朗普一季度“炒股”记录曝光！ <https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR3FobGZLamVMRl94eXdNaThLaEtTanFjQXh1djJfQ2lmSGFYWGhSNUpsM0xpTkJ5OWRueGd0Qm5WNEcwdHBZSWxPZ0FKcWlDcnlCMVNwcU03ZkxDUllwb0xER3UtaG9mWUl0ZVUtbGVheGdmVWpCSXg4NFg4Vm9MVnI5SFAxYVZn?oc=5>
+- **特朗普** | 特朗普称将与赖清德谈军售 北京施压会否奏效？ <https://news.google.com/rss/articles/CBMiugJBVV95cUxOZl9CWUdreHFFb0hOdWxzX3FXTW9Md1gyUkJFRmdKOV9NM2o5YV90TGRTUEFnU2IyMFNwZF9EUFhhcFo3bFF3bGxEVXBiQTdLWHoyVUI0LXpQeFZUSHZsZFpKRnE1RGVKM0JqX2hFdVF1ZmRXZER2b1dOYTNhby1KVkZIVlI4VzZJdGxoMllORWhTRVdRM0w5YnZIdV9nc3BDcWFsTFFiVzNMYXVUNzZGNWtoTWhiRXd1SFNuZ25veTFTTmZSVHFiQ2FyTUNuWFBvc2FqdWIwWVl0UFBVdHRTbUFrOXNoMmNtSVMyMVdxV1BQUVAzNzRLOTRkYmJhdlRBTVl4cHd1dU5MRzlhYjRPZ1NWXzhOTjhKM0pfNHhzYTZCSGlkY0ZsZU1WblRJVk9Ga1FxU0l1ZUhEZ9IBugJBVV95cUxQbHJ5RHNqWUIwSFJwSnZqMmd3cy1RWG1HSVUxc2FkYUhiVERzT1p4TS1Ueno0YW85R19DLWlkMUg1Z1dBS0FqbGJleFV5U0YyeW90aGV6YTdfMmRVOElRRXJYam9MZWdlRWxQMlR5SzNFUE1UR21wYVZTRzFrQkVnQXNRQWVXYmFQZnJ6aFN4OUNhdkRVaXMwYWE1eWFMbVBFbG8zVEh1TnE2cFlmdm9NaW84T1BZVktBd3p4Y05qZWI0UDgzT0dnX25mOUplSlVQNmZoWWpDSGdobWdUU2VSVE9HYnJ3LXB1Wk8tZ3NBTHF2UHJmdUI5Uk56STRfeGpUdGFwNnJDOHhVdWIycl9KOGVwbElNNjJTVlVTY3FkMUFyZ1RsTERaX0NpbmFqdlFEeGhBaFBvNmhPUQ?oc=5>
+- **Trump** | 特朗普对台军售态度存疑，台湾发声捍卫自身立场 <https://news.google.com/rss/articles/CBMiogFBVV95cUxQOXFpdU1TbDk0NVd0UVBjVnpHYW02azREUDVESGIxM3FvZlZFdnA4dmxHTWNWcU03OHNab1RJaTgyR2ZsRV8tY2g0Y3U4Y2V1ay1WZmhTSmpZUU5GRG9JZFAzdmdRWS1DQnRYTHRpY01OMmlURHVYUUVUY3VkdmhHcElnaW43aDUyWjBDMVYxNU5POWN5WjNKNjNWMi04QTEtcGc?oc=5>
+- **Trump** | Quantum Stocks Soar as Trump Administration Is Reportedly Buying in <https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVmJOTTlTZUdMazRQeTVuS0IzdkM5eGNLTGN0TDhDQmZEWm5zRjNfTFI4eHdhd3cyS0dwNVEtVEo4cnVuRDJhTnhjU1Mwc3RhY2x2SGxBeTA3ekwzMG9lc2RrZTR3TXg2NmZVcmdTdUF2UDQtS29oM1lmRWptYktiWk1wZkVrUU04R3kyQmRzT2xBSkhqcTRaYmVfVEFvd09WTUhhTUt4QXY?oc=5>
 
 ### 2026-05-21 08:29  (8 条)
 
