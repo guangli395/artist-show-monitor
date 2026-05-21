@@ -1,120 +1,89 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-21 04:51**
-- 本轮扫到 1756 条, 新增 **14** 条
+- 最近更新: **2026-05-21 08:29**
+- 本轮扫到 1764 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (14 条)
+## 本轮新发现 (8 条)
 
-### 孙颖莎现身周杰伦演唱会，国际粉丝跨界追星
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6042105397_m16823363503301kalq.html>
-
-### 张杰、周杰伦、五月天演唱会门票在哪买?2026京津演出时间表来了
+### 盘点周杰伦线上歌友会投票人气最高的六首歌，有你喜欢的歌吗
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905qf9a.html>
+- 链接: <https://k.sina.com.cn/article_7480851854_m1bde4bd8e0010194f0.html>
 
-### 周杰伦2026年5月最新动态:鸟巢演唱会重磅定档 嘉年华巡演再创乐坛巅峰
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905q3zq.html>
-
-### 新浪演唱会热点小时报丨2026年05月21日08时_今日实时演唱会热点速递
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905q3do.html>
-
-### 特朗普回应中俄元首会晤
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-05-21 00:41
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1BMDhtUHlGNWN4Z1d2dUJZZkJVcVllSjVYRjEtVUppczFfNFAzMUpfQmp3ZF8yMU5HMUVyZi1nSGNsQ0JtNnlIRnJnUUs4RW1OVVdQZV8xN1V2aHVBYXVzR1lJcWZSQmJkcGc?oc=5>
-
-### 特朗普称愿意多花几天等待伊朗最新回应
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 光明网
-- 时间: 2026-05-21 00:47
-- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE5SdzNtRXlMTUZVOFIyc0g1TEc4cHN4Rm9Wc3A0N05fdHJLYXJ0Z0RDYm82bFBNZ050SEVOTmpYRHNvUmF2TldjMnktY0xSZWZtVDh3SlI1b05kWnI1Q0FWSnNB?oc=5>
-
-### 特朗普说在伊朗问题上内塔尼亚胡“听我的”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 央视网
-- 时间: 2026-05-20 15:32
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1ibDB6Uk1TdzV4dE8zN0FkTTVKaUY3bk5WREdXUlR6ZldOa0ZMazNiWFFRSXNvUkt2ZF9xeDdQbjBFclJVQzZYZURnREJrQ3VXc0ZCWWo5czExX2V0Y1pnX3hTRWtKMTBRYmdkcS0wRTZhdEhmMVRsZw?oc=5>
-
-### 消息人士：内塔尼亚胡和特朗普通话后“气急败坏”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-05-21 04:33
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBFb3VhdWpLR3dPMWFSMEtnV3psQkJHQTRyMlBsYjNYSndzUmFBLXNRSHlvVHhHNWRIVHNvVXdaZnR4LTNyM3VjWC1Oak1SYWNrcnRiNEQzNXh0NTNUYndLYllTUXhSUXhORldxQ3B0RXl3cVhadnc1dUs3SnBDWXM?oc=5>
-
-### 特朗普：不要中国学生，那可太冒犯了
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-05-21 00:43
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5xdk9JQ21UMUhrTzAtck92eHNGLUJuZDNWaThEOWRQXzF3Q0dDYnFsNXc4dDRkLVh4WnFIR1ROeXhRR3ZNVlYwWWZraFFQcEZDb3A1RHpOcTBLay0wMm9kVHdnZ1g3RnNKQWc?oc=5>
-
-### 特朗普：我是以色列人气王，可以去竞选总理
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-05-21 02:42
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xcUxNblNEM2lxdkVObjI0b0JpT0s5b2tPNVVvWE5Kbk9PZkw4ajcwU19SNVVxb2oxNjRuNXl5QmF1enM2bXViTktWNks5NDRjU05oX2JNcE5xX3ROZElJdg?oc=5>
-
-### 特朗普：我讨厌长得帅的男人
+### 中方回应特朗普称将与赖清德对话
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-05-21 01:12
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE96WWJOSU53QTNScnVmemlrckItQ2dLUXlhRXBaOHZRUVNEX1hXTmhQTWhFSThCRkxlY21MQnVZd2lYb3BkTGZ6c1RJR3U?oc=5>
+- 时间: 2026-05-21 07:38
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5obkU2Sm12U1pxcjFhYTR2SjBHWjZHOWxuQUxKSWlXcVlJZ3drNm1RZ2RwZDBXcHhBbFRjTTRET19IS3R3OVJ4SXVKdjc?oc=5>
+
+### 沃什会向特朗普妥协吗？一文盘点白宫与美联储70年权力暗战
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-21 08:12
+- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxPX2F5clBZMHkteWQ2R0ZxWDAxZXJTLW14cV9XaVJvM2RUdHY0Y0dSRHpBcUowNWlxUVItQVVIck9wc3FobDNLWVZVeHdJclhadVd2WHVIQkZtMGRBSzFFSnY5T0R2UUtzREVmdEhjZTlCb3NVN3Bzbmx6elhBejdwYkdBTmtsSGd4V3pKYmNRRC1FUndvbXlxVg?oc=5>
+
+### 美媒称特朗普政府已开始制定对古巴军事行动方案
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 财联社
+- 时间: 2026-05-21 03:31
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pZUpkSFVOM2NlZXhqV0pZdzNrN2dmNGFpeGdFZGZtWmx3MXlhVFQ0bU1DbUE5c1dWQjBUNUQ0NGdnZnBPYVB5VQ?oc=5>
+
+### 特朗普特使“强行”访问格陵兰后称：“美国是时候重新上岛了”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-05-21 07:02
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE41QjBPU0FIMWhxVDFuZ2ZYQm1Ka2Zia0tlcmZBSk55THBVOS1yMjQ2NDZIMzJoeUNQaHp3a0ZjTWFaMng1OFIwWGZNQk5BTkJpRHZkWGk2RnpHX1dvYWgwYw?oc=5>
 
 ### “台湾所有芯片企业应该赴美设厂”，特朗普称台湾偷走美芯片产业：当年如果我当总统，台积电不会是业界龙头
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
+- 场馆: 新浪财经
 - 时间: 2026-05-20 15:51
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZFJ4dmpVRmlsVHFGYzFhM0tjT1FZdGFEXzJpZHRYWl9LMGNtOE9CVHBFX1BiakQyWWdCOHI0TWtRb3hNWnExczFLTDJCd0dCaE1SMDNRTVgzeTNDdl9nNENmNmRHQnZoWVdHWjNOcU5kQUhKdDFyc3BPTkIxS0IwX19QMlJVdVoxQWdoODF5VVpFNXo1clJ4dzNuSFFXNk9XOWR4aTN6M0xSUGd0RW9fMUpkOW9wR1dfYlVCajA2b3A2ZVgtY0xPcHBEUVVrNVE2?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUm1CYUNTYldlZU5IWklBU05ocU1EektLTkJqMGdJYlAyZFQ1dHJKYVd5SnhBNFZCdmU5Z1hnSEtHMkJtbXBmSFVmYjhENmFzT0t1WWFfRUN5ZTJJUmtqM2lYSG9wRVNkOHJFY1YyR3NEM0JDVUpsMkhpQktUWk9JUmdxajdQY1ZvQmthekxQQXpaRWpORHhrRVZhalZmMXNJNlM2UXVCY00yT0dCbTFvY2RCakpTU052N1JxckJ2b2p3ZlVFQTNJN3djWmZwbjlX?oc=5>
 
-### 操纵油价，特朗普有一套！
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-05-21 00:23
-- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTE1MaGRwS0ptZURIMVNwdExRVEowR1AtWjRYQlJNYmo1bExXVy1MbkhFS0h3LWpialVnY2pmbk9KUUhTQkx3SXJMb0RVRk5ySlhBbmc?oc=5>
-
-### 习近平同美国总统特朗普在中南海小范围会晤
+### 特朗普带记者参观白宫宴会厅工地：“都是我和捐赠者出资的” 并称这是“送给美国的礼物”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: idcpc.org.cn
-- 时间: 2026-05-21 02:55
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBSSnNaZUVhRHdaUmlRdmFTVFBwMWxsckNnbGdBeFpHSmtXVEh2ZmQzdUZXVDFHTFY2bzFFRE1FZnpYWjBxOXI3d2hhbFM5RTQ2Y3VtelM2TnZGaHJUUlFYMnM4MnBwZWY1Uk52dlpWckM?oc=5>
+- 场馆: 每日经济新闻
+- 时间: 2026-05-21 04:38
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ETG5wSmczWi1YdjFkcnhXWF95dnFrUEZzaUFYNENCenhSQmRSeVhJR2I3TS10ckNJakFtUXNtVDhPbEFmc3pxdEl6MFoybzBESVFwdGFqNEZJdUtQU2tpWEhDR2VRUQ?oc=5>
+
+### 美国起诉卡斯特罗，特朗普押注委内瑞拉“剧本”能在古巴奏效
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-05-21 05:34
+- 链接: <https://news.google.com/rss/articles/CBMisAFBVV95cUxNazhaTnVIY1ZGTkhaWWJ1NTFlcGtsdVZlc21QMm1rOV8xaXNwSnZFUmxWUkxZUkJNMVRQR0tEQmNkcmpvM3czYzRDSE1xdXY2ZWlHRFBYYkxkQmsyVU1LQVFIMjhsYllVbUhjdFZjak5QcUJGVWd3elZzUjgzd01LSW00MEYyZndpMmpHMFNHX3g3dmN6NjNMMmFxaDV4RTVFUzB3VTlUTmpubDZXekhOLQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-21 08:29  (8 条)
+
+- **周杰伦** | 盘点周杰伦线上歌友会投票人气最高的六首歌，有你喜欢的歌吗 <https://k.sina.com.cn/article_7480851854_m1bde4bd8e0010194f0.html>
+- **特朗普** | 中方回应特朗普称将与赖清德对话 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5obkU2Sm12U1pxcjFhYTR2SjBHWjZHOWxuQUxKSWlXcVlJZ3drNm1RZ2RwZDBXcHhBbFRjTTRET19IS3R3OVJ4SXVKdjc?oc=5>
+- **特朗普** | 沃什会向特朗普妥协吗？一文盘点白宫与美联储70年权力暗战 <https://news.google.com/rss/articles/CBMimAFBVV95cUxPX2F5clBZMHkteWQ2R0ZxWDAxZXJTLW14cV9XaVJvM2RUdHY0Y0dSRHpBcUowNWlxUVItQVVIck9wc3FobDNLWVZVeHdJclhadVd2WHVIQkZtMGRBSzFFSnY5T0R2UUtzREVmdEhjZTlCb3NVN3Bzbmx6elhBejdwYkdBTmtsSGd4V3pKYmNRRC1FUndvbXlxVg?oc=5>
+- **特朗普** | 美媒称特朗普政府已开始制定对古巴军事行动方案 <https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pZUpkSFVOM2NlZXhqV0pZdzNrN2dmNGFpeGdFZGZtWmx3MXlhVFQ0bU1DbUE5c1dWQjBUNUQ0NGdnZnBPYVB5VQ?oc=5>
+- **特朗普** | 特朗普特使“强行”访问格陵兰后称：“美国是时候重新上岛了” <https://news.google.com/rss/articles/CBMiYEFVX3lxTE41QjBPU0FIMWhxVDFuZ2ZYQm1Ka2Zia0tlcmZBSk55THBVOS1yMjQ2NDZIMzJoeUNQaHp3a0ZjTWFaMng1OFIwWGZNQk5BTkJpRHZkWGk2RnpHX1dvYWgwYw?oc=5>
+- **特朗普** | “台湾所有芯片企业应该赴美设厂”，特朗普称台湾偷走美芯片产业：当年如果我当总统，台积电不会是业界龙头 <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUm1CYUNTYldlZU5IWklBU05ocU1EektLTkJqMGdJYlAyZFQ1dHJKYVd5SnhBNFZCdmU5Z1hnSEtHMkJtbXBmSFVmYjhENmFzT0t1WWFfRUN5ZTJJUmtqM2lYSG9wRVNkOHJFY1YyR3NEM0JDVUpsMkhpQktUWk9JUmdxajdQY1ZvQmthekxQQXpaRWpORHhrRVZhalZmMXNJNlM2UXVCY00yT0dCbTFvY2RCakpTU052N1JxckJ2b2p3ZlVFQTNJN3djWmZwbjlX?oc=5>
+- **特朗普** | 特朗普带记者参观白宫宴会厅工地：“都是我和捐赠者出资的” 并称这是“送给美国的礼物” <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ETG5wSmczWi1YdjFkcnhXWF95dnFrUEZzaUFYNENCenhSQmRSeVhJR2I3TS10ckNJakFtUXNtVDhPbEFmc3pxdEl6MFoybzBESVFwdGFqNEZJdUtQU2tpWEhDR2VRUQ?oc=5>
+- **特朗普** | 美国起诉卡斯特罗，特朗普押注委内瑞拉“剧本”能在古巴奏效 <https://news.google.com/rss/articles/CBMisAFBVV95cUxNazhaTnVIY1ZGTkhaWWJ1NTFlcGtsdVZlc21QMm1rOV8xaXNwSnZFUmxWUkxZUkJNMVRQR0tEQmNkcmpvM3czYzRDSE1xdXY2ZWlHRFBYYkxkQmsyVU1LQVFIMjhsYllVbUhjdFZjak5QcUJGVWd3elZzUjgzd01LSW00MEYyZndpMmpHMFNHX3g3dmN6NjNMMmFxaDV4RTVFUzB3VTlUTmpubDZXekhOLQ?oc=5>
 
 ### 2026-05-21 04:51  (14 条)
 
