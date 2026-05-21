@@ -1,72 +1,78 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-21 14:52**
-- 本轮扫到 1781 条, 新增 **7** 条
+- 最近更新: **2026-05-21 17:28**
+- 本轮扫到 1788 条, 新增 **7** 条
 
 ---
 
 ## 本轮新发现 (7 条)
 
-### 图说“赢学”：“习特会” vs. “习普会”
+### Bio-E品牌发布会的安保具体存在哪些漏洞导致骚扰者得逞？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: DW.com
-- 时间: 2026-05-21 10:48
-- 链接: <https://news.google.com/rss/articles/CBMixgFBVV95cUxOZlZTdFFxaHRVeDhabzVwb2JIZklSdjJ3QnFyRk4tOGFhT25tVjhUNm5vMFp6MTNoRExRSndzUG1KVDR3UndBVEFhb0ZFSURUd1BSXzlPUWpoNGtMbmxsVWlPcWhHMkRRZWlhT1RWbEtxTUhZdTF4bzZnekJyclVGSlUwV3dMVkNkV214a1o3RHZydEhTUkFUaWZtSTZpYXVVb2V4VHI1TUlkeGpTdTlucldLRVc0Y2RoOTA0ZDBfc05rcE9oRGc?oc=5>
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801leec.html>
 
-### 特朗普将与赖清德交谈？ 外交部回应
+### 粉丝用华为Pura90 Pro Max清晰记录周杰伦演唱会
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-05-21 07:38
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0M1ctRDR3OHl0S1JnSGNIclp2Q3dmMVVfdGM5TGdMWFdtcUxBTGUxWGhTeEo5cm56ZUxpMEJzTGszUFZvd0JjZWtvcnozU29vTG9pYWpCZDFUS2NCVWU5U1UxQWhDTkFP?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_2292724833_m88a83461033018ota.html?from=tech>
 
-### 白宫官员：特朗普将推迟实施拜登时期出台的制冷剂管控规则。
+### 特朗普：或需补缴1490亿美元关税款项。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-21 13:27
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TejlUOFQ2NkZPYm9qTVZsNjNMYXZob2JHME51NXNDNVNONUoxQmZTbF92TlpHWW1FV1lnT0JLc2Y4UUVjemU2cFVSSQ?oc=5>
+- 时间: 2026-05-21 16:16
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9zSzhqZm1pWGVsQzlyU3pHUFZYVFg1UG40eE9heVBKU1VsRVQ4Yl9TNUItdnpxRFExek5BcWkxU0RMMzdJVXNtTHZaQQ?oc=5>
 
-### 特朗普称愿意多花几天等待伊方消息
+### 20亿美元！特朗普政府下场直接投资，瞄准这一高科技行业，被投企业股价大涨
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中国网新闻中心
-- 时间: 2026-05-20 23:17
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTFB6cmdfdDluX0FyeklBRDZ2WEhFLWIxZVZ2QXE2TXBYRjFFc25HZTYzaTUzWGNudnd4Nzd5LVlMNlBWazFPYm1nZ2VMVDdpMnpSaUtibzA1aGVtUG84OEFNX3dqaFZpdXhoNl9v?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-05-21 16:55
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBTckVXQ05yZTg2bF95UjhxOE5kOGVKVGNfM2szSHZNUl91ZS00aG9wcEhJTkFIVGpsYnpqY2lPZ3B3akVzdzhuWXJDMHpCeldQWUg2X3YwclBOSDQ4aF9Ca2NQcFIzUmNJVWhfWEFTUjY?oc=5>
 
-### 特朗普过去24小时都忙了什么？（2026-05-21）
+### 特朗普：伊朗局势平息后油价将会回落。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-21 14:12
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxQdU9nUGdpZHlHM2g5VHplS1R2WjkzU2hab2E5blVLSDQ3eE80VWtjTkhDZjl4WllrejdMVUZzMFRZUk5jS2dCb3ZWRENSck51OUtPTG1Sb05fckNCSkpoWktTT1ZidWdPOEFDMkc2ZklFUEE0THJqdUVjNS0xVHZaWTZleXphZGs?oc=5>
+- 时间: 2026-05-21 16:17
+- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE5EVnZnRTVfXzl2NUxGVkdSSlV6T1BPOGY5aDMtR2lQV2FHOTZ1ckZVeW9uYlhxTExjQjdCV19QZndKV0tteWxTRlplNU91Tlk?oc=5>
 
-### 美对台军售悬而未决 北京暂缓美副防长访华
+### 从TACO到FOMO：散户如何将特朗普的市场冲击炼成“交易手册”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: DW.com
-- 时间: 2026-05-21 09:30
-- 链接: <https://news.google.com/rss/articles/CBMi3gJBVV95cUxPcmVyb0otM3gxT3dNMllOeUw5TnVxUUREaW9Cak9NMDVweWdYaDg0YmlKT2ZuRFNZTFhsSDJzVTFpVlI0WEtQVFExR1o2b0phYldGUmh0dTJ1by1uellfWGlqdC13N3BVSTBNa3Bzclk0dlJfNGtyaU9iRnNIRW5DODNvSnM3RjQ2MGRjNmNIRlFtZ05LdGc0LU54N0VzREhPQ2VhWHB3aHZvODBfLV9aNGxVR2NBc1ZWLTRwUUR4ajZ2NnVIWGJneG5UTGk3WWxPNE5vdklpWGhNekhmSlZfQ2pfWDV0SklkUkk0cDYwMHhyeU1venQ3R0NCM01ES0lmbUlYS3BsSHIzaXlTSmpmTUlTcFZuZTZkY05VUjlMQnZrLUtEMExWRmk5YXpySkJYZXcxVE1vcHM1c0FmUHgzQmM4M1lxX011ZkdlcjBmMGpqb2ZScUUyeXIxTmFJdw?oc=5>
+- 场馆: 华尔街见闻
+- 时间: 2026-05-21 05:56
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5zZVJuSEF2eDc1N2g0TzlNVEx1UldNUUxEV2tkcFlCeFdkRHFkWjFwV3R6cmtUVHF1VjdpZkxyc0ZkakplWmNFVldwUkJOZmp6TEhZ?oc=5>
 
-### TRUMP/USDT
+### 美股指数下跌因伊朗维持浓缩铀或触发特朗普底线财经新闻Financial News
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Binance
-- 时间: 2026-05-21 12:23
-- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE83N3E2eUQ0dnIzMDFOcGoyVGtta2FXdHFvSHZHTnpMRjFrMDV5eVZ4VThIVnNlVlR6azdyYWVabHVicFRnVE4wdHFNZDlrNnhhWTVWOHdsNjZ1YnhLeW5hQW9HMU5QYkZwemRKMFZILTh2aW1UQzR0dUtubHE?oc=5>
+- 场馆: AASTOCKS.com
+- 时间: 2026-05-21 16:28
+- 链接: <https://news.google.com/rss/articles/CBMihAFBVV95cUxNdGRWYXJtQ25ZYVRMWHN6QXUxWW5WODVnd0k4VGUxTGZwM1pzdTdNOGUxbmRKbTl0aTJvemZUMjFiNFIxcDBCcHNUbUlqdWIzdzhielpqRjJfRnNCZnZwWk9WYzlzRGdWbzNaXzFRLXNoMDFOaTBVd1VJVTc0QmxOQkV2WmE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-21 17:28  (7 条)
+
+- **蔡徐坤** | Bio-E品牌发布会的安保具体存在哪些漏洞导致骚扰者得逞？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801leec.html>
+- **周杰伦** | 粉丝用华为Pura90 Pro Max清晰记录周杰伦演唱会 <https://k.sina.com.cn/article_2292724833_m88a83461033018ota.html?from=tech>
+- **特朗普** | 特朗普：或需补缴1490亿美元关税款项。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9zSzhqZm1pWGVsQzlyU3pHUFZYVFg1UG40eE9heVBKU1VsRVQ4Yl9TNUItdnpxRFExek5BcWkxU0RMMzdJVXNtTHZaQQ?oc=5>
+- **特朗普** | 20亿美元！特朗普政府下场直接投资，瞄准这一高科技行业，被投企业股价大涨 <https://news.google.com/rss/articles/CBMicEFVX3lxTFBTckVXQ05yZTg2bF95UjhxOE5kOGVKVGNfM2szSHZNUl91ZS00aG9wcEhJTkFIVGpsYnpqY2lPZ3B3akVzdzhuWXJDMHpCeldQWUg2X3YwclBOSDQ4aF9Ca2NQcFIzUmNJVWhfWEFTUjY?oc=5>
+- **特朗普** | 特朗普：伊朗局势平息后油价将会回落。 <https://news.google.com/rss/articles/CBMiT0FVX3lxTE5EVnZnRTVfXzl2NUxGVkdSSlV6T1BPOGY5aDMtR2lQV2FHOTZ1ckZVeW9uYlhxTExjQjdCV19QZndKV0tteWxTRlplNU91Tlk?oc=5>
+- **特朗普** | 从TACO到FOMO：散户如何将特朗普的市场冲击炼成“交易手册” <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5zZVJuSEF2eDc1N2g0TzlNVEx1UldNUUxEV2tkcFlCeFdkRHFkWjFwV3R6cmtUVHF1VjdpZkxyc0ZkakplWmNFVldwUkJOZmp6TEhZ?oc=5>
+- **Trump** | 美股指数下跌因伊朗维持浓缩铀或触发特朗普底线财经新闻Financial News <https://news.google.com/rss/articles/CBMihAFBVV95cUxNdGRWYXJtQ25ZYVRMWHN6QXUxWW5WODVnd0k4VGUxTGZwM1pzdTdNOGUxbmRKbTl0aTJvemZUMjFiNFIxcDBCcHNUbUlqdWIzdzhielpqRjJfRnNCZnZwWk9WYzlzRGdWbzNaXzFRLXNoMDFOaTBVd1VJVTc0QmxOQkV2WmE?oc=5>
 
 ### 2026-05-21 14:52  (7 条)
 
