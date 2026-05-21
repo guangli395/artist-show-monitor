@@ -1,56 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-21 21:12**
-- 本轮扫到 1803 条, 新增 **5** 条
+- 最近更新: **2026-05-21 22:48**
+- 本轮扫到 1806 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (3 条)
 
-### 特朗普称不乐见“台独”，台湾民众怎么看？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-05-21 09:49
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1NTzB3YTZsYWM4d2lObExkZWl3em95TXdFeDFFZ3BzbVpRcm90NFMwZ29UQU1RT2w1MGZWTVQtQVN5RXZLLV9sNVpqbTBJRmQtYjBFT00zOXBFeVFiOHBJR3dtRURvd9IBa0FVX3lxTE9CRVVkdU93a2pZUmxsV05tVGsta1Njdzh3VUJzVUNVOUhEXzVGeDJqSm9hUW51d0dqYmNmU3BSTWV4T3JqZy1WcFdnVVp6NUtQUjl6bnl0Zmd6ZEl5TURYbU1IWlE2WnhwOTh3?oc=5>
-
-### 特朗普总统称将聚焦对古巴人道援助，起诉劳尔·卡斯特罗后，不打算采取“升级”行动
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-05-21 21:06
-- 链接: <https://news.google.com/rss/articles/CBMigAJBVV95cUxNNmo3cjh0TDJVdkc2Rmd6WTNKWlFuMXRXaTZha3NhdDZLcGxtaGprNUN0UjFsRlNteUxwaTNGb0pBUlp1a3RiNm1EUlZramFFalU2YjBJZllLbGFkcTNrOU5Rb0h5cWk0b0dSY0x5YnYtUEg4emtMRzUyWjRiZFVKQW1EMURJWlg3VVp4TG5ITXZ4QkhfdXh1V2xmY29Ubk1Oa3lmUElJeng5V0dEVzBJREl0TElqaWlUeFphVk9sOHJyNVhPanZkbmliRF9GeHlhbjlJeDFaTGJWdVROZzlkT3Z5eUtnRDdvMGJBRThVQWFoVDhpeU9QUjk1aTU0ckhp0gGDAkFVX3lxTE4wSXo4Z2RqR0lSWDBkeXBDQkwtaDVHZmpvOGQ0UkdSa25haExIRXJUajZFLUMyZW9VMm9NWVowdE5sRVVscFQ1aHJVeFRDUTR3UWZkM05zcGp6ZDVIUE85RlpWM3pxYVJMVlBIM3RqV20yN3NUR3dJMTFsajRZemNXLXZXMmRYQWJUVEI4TFhoNTNkYWlpYXNVU1l2MWxMWlBCcHBKeFFOd1o1WGh5S3hpR1NNLTRQLWFtb0hZdFpmbGJyT3lCVjc5MVpMSU9LSlQyMGxYSXVkanJkSUtWdGZJampkVDZqZUs5MmJJdDZSMmpjX2JBOWRsdnlZWi1EOXJ5b0U?oc=5>
-
-### 特朗普再威胁伊朗交出浓缩铀 称到手后或销毁
+### 美国总统特朗普将于当地时间周五上午11点主持沃什的就职宣誓仪式。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-21 20:42
-- 链接: <https://news.google.com/rss/articles/CBMilgJBVV95cUxPN19Rdm9IdXkzMGU1WGgwdGJ5UjBoRTA1WmRKLXRjRTctcFM2M25wdEJhby1QOFNOR1ZaMmVOUkQ0UWN1cDRLTTFadzBOd2FlSlpqSTVVeGxoOV8zVTZzMGszOWdFdFZ3S1FLcU5LSWlzSHNBd0VsZ3BEamt0NjhGVUdXNEN3Qm0xelF0bTVwd1NDMjZ2VkwtNHNiMXFDRHZSd0Qxb0kyc2xtYTREVzR1UlFzQkFOSUNENDhBSHdvcnRiR3NvbXVNM25rVjdoUm5pMnJTcE9TdVE5LVVsZ1J3T2lqNmVmQi0yVTJVVlZVV1VBUXJjQ3ctMWljVXJJNVJFYk15QW9Fb3NoelJqbXY4ampqXzBGQQ?oc=5>
+- 时间: 2026-05-21 22:24
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xY1N3b05XU3lDYkJLanhleXlpRzNQcmZ2TDVMUE9kdjlPT1FDenpIVS14TlpIb3h3TXNVTVAwS2RMV3RxOThRTkRiaw?oc=5>
 
-### 特朗普在美国参议院遭遇罕见挫折
+### 美国等待伊朗就结束战争的潜在协议作出回应
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-05-21 19:41
-- 链接: <https://news.google.com/rss/articles/CBMikwJBVV95cUxNV3N0VktNbDliRS13MXlyWDZ0UkE3S1BxS1l1Ym9iS3dacERYTXllWTgtQTYyLWJBaGtmZGJyX21pbmRvWEJ2VHdIWkc3Nmc0VnY3UmtqcnFJd2hzRWFqdVhtdUctcEZVLTFEU2hxUVBRUU9lcFB3Z0E1YUx4SUZuWW8ySkFKN19ZVVdFcFZIRTdFTmRBVnZCVGlmVkktNnVuUS1uMUlEcVF3UWJwbzZpZUhCYUNqNHBYM0NPdDNmMTNZbUpMY1JQWUFwVzR0STA3WW1IR0Y4MUFTUlk1T21uRDQ1ekJEZVlhVDFSUFB1U1BVY2EwY3BGNG1nUkpZcEVjT2J3N1NpTXRGVlBNQmlicHlHbw?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-05-21 16:05
+- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTWxIT2tDVGRKb19oWFE2SEMzTjFOMlUzbGRfSlhXMktwV2N4dGNPRlJmYXQ2VU9oV0gtQk9XdTVsSS1IaVd6MmZaZDZqaUxmX0pJNjVsLW9DZjNHQ2JfanAzdFN0cTdCWFpUYm1CdlFQdFpZVkI4YVFTQXh4bzlXSDFhUDdwMmFDVHNvUXpZdDBONFdhVTNRSzZWZmI2eDdtQXNobUNtX3FxUdIBrAFBVV95cUxPQ2dnM0VIT2prUVJqT3NXRHBwZXl4Nm5yWE4zczJYbDZzV1ZPaml6OWwyVmNZUEo4ZnZuV29QNTN0STlkOVBHZUtMYnpndWxFSG9KeWE5c3Z5b1U4bS1fRUdNY3Q1MUhrZ2pncXNURUNlQllYQ1RMSl83RmJpOVFscVNSZU5CWDdyci1VNmZMb0JsTUQ2eFBuRkJyOVJIVkRvN0I4ZzFjajQtRjR4?oc=5>
 
-### 特朗普：美国会取得伊朗高浓缩铀 不支持海峡过路费
+### 美国总统特朗普：美国将向波兰增派5000名士兵
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-05-21 20:15
-- 链接: <https://news.google.com/rss/articles/CBMi6gJBVV95cUxNTjFoczFNUXhtaTZuaThZdDJuOWtSalBfbzZOYUR3QXd2SHpKeGt6eGRhTEttV1hockxUaUQtV01SeDItbGlhOEQ5ZHhRbmI3dkdqdldPUlFGVTBrSElQM1kzc2hJdW1ILW85OVRMNUJDbVBwRUVIWlNsd3ROMTdFUFUtcE1vQ1FJSFRNWHFmczNEZk1uWFk1UmpJWDd1eHdTemVSTVlxbl9IM2Z5dHc0ckMyTlY5QWFubnA4Q0pfTTRHRkNXX2Y1eHBldzRNUFFGd2dTSTZwbkJ3UFBIeGEyRmhacmhVcndnUnRpVFVrRkNxVHNSYlQ4NV83STF6Vi1ka3hMVnh6cEpjR3NIQzhKcE96RGxnY0ZvX1hwQVVJM2FfYXA3VHNVSG1tSVRZXzVGRXFQVnhKZ1lIcGhNSjd4RjJwcG9RbE9JZVpVcXNuS1dsMmdUM3FaMWpVV2l4QWZOaXo4MzlkeUtkdw?oc=5>
+- 场馆: Sina finance
+- 时间: 2026-05-21 20:37
+- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxNRmpaemtOZzRtSXJ4VnlwaTdRaE02bUNJbUtGMWxyaW9vOVhTYThYaXl1X3luV3pZdGV6VF80bktkRjlHLWFUN2VNSlBkeTlxd09PaGdNN0o1LWt1NDQ3UUNYQ2dhRUpGMFJLYWFna092aE5DcjVHZVJwZ2VTWFdRYmg2c2JORWNYb1VkSThXMjlaT0paUzNRb2QzUWs?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-21 22:48  (3 条)
+
+- **特朗普** | 美国总统特朗普将于当地时间周五上午11点主持沃什的就职宣誓仪式。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xY1N3b05XU3lDYkJLanhleXlpRzNQcmZ2TDVMUE9kdjlPT1FDenpIVS14TlpIb3h3TXNVTVAwS2RMV3RxOThRTkRiaw?oc=5>
+- **特朗普** | 美国等待伊朗就结束战争的潜在协议作出回应 <https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTWxIT2tDVGRKb19oWFE2SEMzTjFOMlUzbGRfSlhXMktwV2N4dGNPRlJmYXQ2VU9oV0gtQk9XdTVsSS1IaVd6MmZaZDZqaUxmX0pJNjVsLW9DZjNHQ2JfanAzdFN0cTdCWFpUYm1CdlFQdFpZVkI4YVFTQXh4bzlXSDFhUDdwMmFDVHNvUXpZdDBONFdhVTNRSzZWZmI2eDdtQXNobUNtX3FxUdIBrAFBVV95cUxPQ2dnM0VIT2prUVJqT3NXRHBwZXl4Nm5yWE4zczJYbDZzV1ZPaml6OWwyVmNZUEo4ZnZuV29QNTN0STlkOVBHZUtMYnpndWxFSG9KeWE5c3Z5b1U4bS1fRUdNY3Q1MUhrZ2pncXNURUNlQllYQ1RMSl83RmJpOVFscVNSZU5CWDdyci1VNmZMb0JsTUQ2eFBuRkJyOVJIVkRvN0I4ZzFjajQtRjR4?oc=5>
+- **特朗普** | 美国总统特朗普：美国将向波兰增派5000名士兵 <https://news.google.com/rss/articles/CBMinAFBVV95cUxNRmpaemtOZzRtSXJ4VnlwaTdRaE02bUNJbUtGMWxyaW9vOVhTYThYaXl1X3luV3pZdGV6VF80bktkRjlHLWFUN2VNSlBkeTlxd09PaGdNN0o1LWt1NDQ3UUNYQ2dhRUpGMFJLYWFna092aE5DcjVHZVJwZ2VTWFdRYmg2c2JORWNYb1VkSThXMjlaT0paUzNRb2QzUWs?oc=5>
 
 ### 2026-05-21 21:12  (5 条)
 
