@@ -1,54 +1,89 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-20 22:50**
-- 本轮扫到 1734 条, 新增 **5** 条
+- 最近更新: **2026-05-21 00:03**
+- 本轮扫到 1742 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (8 条)
 
-### 新浪演唱会热点小时报丨2026年05月21日06时_今日实时演唱会热点速递
+### 新浪演唱会热点小时报丨2026年05月21日07时_今日实时演唱会热点速递
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905q1q4.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905q2nc.html>
 
-### 特朗普访华数日后，普京在北京会晤习近平
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-05-20 21:40
-- 链接: <https://news.google.com/rss/articles/CBMirwFBVV95cUxOeWI2cTNRMzc5bUQxRThKUjNDMThvZlZ5cnFBN2t1dlhLNUF2WTVHMFdIWUVSdGUweW42WWNhM29JZUhMRXZWYnBxTkNqRVMyaUMwcmJLcnE1ZXg1T0piU0VqdGdpSEd0WjA3bldyS3RBTDhvN3Z5SHVhYkt2OVMtaVVkWEFKSlR4ZXl0UTNFNGlHYjFKUm9OMTg3Q2lMRkZ4RmZ5Nzhrc1Y3QmhQTlpv0gGyAUFVX3lxTFBNaTZFUk9iSlpNLUxabG5wWWk2ZlR3QzB5MVp5SGZkSnp6cTdad1pNb01RakJfTWtUcmp5YUdHWjRlX0l1WDNZYkxvRk1BNndXMU5QT3JoTmc2cEk0djNiM0J1UklZaG9yT1dpRG1QTkRpY3BtT1FOOU1oUWZRZnp0Vnl0TWd4MHRhSl9sT2dRak51Y1Zkbl9QTTl3WXVrdHM2Tks0a3FXNFZmQWZOaEIxMHc?oc=5>
-
-### 特朗普就台湾问题表态，中方回应
+### 特朗普将于美国东部时间周四上午11点与美国环保署署长共同宣布一项声明。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-05-18 07:33
-- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxOSndjZkhvTEJwb2VHU3V2UVpscUl3Wkg5RGVXTFBjbngwN21IQUF2TFVObVRZb0tpVk9nNlJzMWxIYVZabkFVd2J4dVhhQjlRTGhfdFQzS18yZkZRNmdPc3Zha0lZSGlZVTlUOXV4TkxPTTRDRlVfV1FrZ1J4QWd5OEtjaw?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-05-20 23:09
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1wWWpaMllZVzB1QVU5ZlIxcDQzWUtBSFJBbGY2ZXVhV1FoRmFxRklFZTh4NmtnXzlDNGRKajRTcXk3Zmk4OTVvNnFxZw?oc=5>
 
-### 特朗普称美方可能不得不对伊朗“再予以一击”
+### 特朗普：内塔尼亚胡“听我的”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-05-20 02:35
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTFA5dUVFYk94RHAzY3dfTHY4eEhvd1hyZXZ3dVhwXzlsNDA3bVkzVTlZdWtKb3Nfd2RqOWM2OXNyX0Qwd3FIcHBDdWh6TURnWEFTNDVzMkN6ZmRSZ19nUFNnOFZkT0c2NXJMYVFNWnB6c0Z3aDhq?oc=5>
+- 场馆: 观察者
+- 时间: 2026-05-20 23:42
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5SWVpyUTUtc1A3c3RVeW9KVXU1Rld3RHBqQmNJb3FiT08zN2I5YTB5eE9YSUxzM1NpeFhaNGY0TE9wakJHRzJkYTlnSFg1eDA0SmFxOHNFQXBOLTBHLUVEaGlJaUdqWjhWOXc?oc=5>
+
+### 对伊朗总决战？特朗普已下战书，美军突然行动，伊朗全民发枪备战
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-05-21 00:01
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE4xUVdhZ0FuT2lDa1hSTk9IaVRNMmNPZFRsQUpDeHlSTDhFVGVnQ05venRJZGxmOGJWSEVYanNZdjYyT1E4ZFB6SlpKZw?oc=5>
+
+### 特朗普称处理伊朗问题进入最后阶段 德黑兰威胁若遇袭将扩大报复范围
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-20 21:16
+- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTFBlbjFuREV0bTVPQWN0ZUpzVUpLNzlvVDBROWRNdXJuWkpJX3M3RFF0TUFwS2l6cUtTcDJvUENWazVUV0I2VmkxaVllWG1SNG1pQlNmYmZtZjQyZURGOERMa0NwQ09RaUFqalFfYUJualdJWlVZa29lTy13?oc=5>
+
+### 油价大跌！美国WTI失守100美元关口，特朗普称会非常迅速结束美伊战争
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-20 23:28
+- 链接: <https://news.google.com/rss/articles/CBMisAFBVV95cUxPYVRxUENTQnItRGJ5bXBSNm9DWXVBbWFocG5oTXVLSmE4bWtncWg2ajVYZlJvaVN0R0VWYkU2UTdsUmcxZFlBWlFkM2NkU3g2cGRaTnpJM0hMMjQxOWVGb0JEM3QxT2VRUmIzbFpydHNabnRVUExubWZqeTcyMWFfNU5lN1ZRRFBsZ05WZnduNnJaSkNURzd6RnQtci02ZkxMLVQwaTVManFEVTcyVU81bQ?oc=5>
+
+### 特朗普一句话击穿油市！布油盘中跌超7%，美国库存创纪录暴跌也挡不住
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街见闻
+- 时间: 2026-05-20 16:47
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE05dmpGVlFVeFdwYWxkY1NNR043c0tIMmtyMUxuelR1R1VHeWtpaGF4Q1lGd2RFSVVkaHhZOHFZdlRzQzhhR0JNZWtjeVBnTl9PSnpB?oc=5>
 
 ### 美伊谈判进最后阶段 特朗普称内塔尼亚胡“会照我意思做”
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: RFI
 - 时间: 2026-05-20 21:46
-- 链接: <https://news.google.com/rss/articles/CBMigANBVV95cUxNcEFLLUV1bkd0T0tuYVA3dlM5R3d0VHJpaW5HSWd5RVJvSmZSaFpoOXBJMWR1dmFoSkpNejJ4R212QU5BN2lYY1daQTBGNkYyYkVJNUZfQ3cwZDI5ZkMwVjU1Nk53TUJmOWlXOHpieHRWYWZwcFR2ZGlXb1BmaFYtelpldm9ZNGhiSFFlZzJRUGJoLUtHeWZiaXZqR25JajNCd0Ewby1fNXp4bklmZnQ1XzBCcXJzUHBXMzI0RTZabWdiWnE2MF9VRm5ZZWk3U01FNmNxdGtFUmRIRkVFaU9kOE5tdkdaQlQxclRRSkFONjNTMVdwVEhrQWZHbzZyQW9SSmF2ZzgtRFRhVmlhZVZua1hRV1NuNEgtQW5ISEt5V1pzTE5zRDhuaTJkbURySksxZlVOSVc1LXJpTlFIV3g4c3U4RTM2WUkyNm1FV19neHlRbzhocGJ3Vk8xWlh3X0YtWno5c0NfanZMNlQ5MlZ1OFpqV1NsZ0tsS3hpbEZWM1k?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMiggNBVV95cUxNZFdUN0JDLUlJMC1nSXI5N1duUFBIT3phTnphQndZeGZuUFpmcXVDUk9jcldwZmRpbDRfMndTMjJNS1YzOTNDbjJuSTBCNTd5M2dHU01IckxLdkE0UC0xNTFvelBpM25OMTJwbEl4YUMzQWpsd0R2TTd5T0U1SmxHWndiV0JDdERHMWdmQ3BHOGQ4V0FzcWFldHJ5V053LXhXbmZ5ekxfaDJGWWNtbnJ6eU5HOUdiMmdfSUZVM2F1OGtUZVhtUmhPWTF5UDhqaUJtYVZGT3VVTVEzTXRXSUotWUFCVTZJZnMxajh0ejhxZl9obFJ3aUxiaVJBeHhIMU9hNjdabk04VHMwSDhmdDJQN2lrbkFsOXJPN2VwMjh6MC1wTXJ5NlBPalk1eFpQY2RBS25yMUN6R21TX0JXRFZjbDV0QjdjZl9jREllcjdsTzQ1OU5fWW9wdDBjNVVlMG5CUEQ4ZmFtdk44OTdIeGFzbFgwTzNVZlN1UXVVYUpxVDBZUQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-21 00:03  (8 条)
+
+- **周杰伦** | 新浪演唱会热点小时报丨2026年05月21日07时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001905q2nc.html>
+- **特朗普** | 特朗普将于美国东部时间周四上午11点与美国环保署署长共同宣布一项声明。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1wWWpaMllZVzB1QVU5ZlIxcDQzWUtBSFJBbGY2ZXVhV1FoRmFxRklFZTh4NmtnXzlDNGRKajRTcXk3Zmk4OTVvNnFxZw?oc=5>
+- **特朗普** | 特朗普：内塔尼亚胡“听我的” <https://news.google.com/rss/articles/CBMiakFVX3lxTE5SWVpyUTUtc1A3c3RVeW9KVXU1Rld3RHBqQmNJb3FiT08zN2I5YTB5eE9YSUxzM1NpeFhaNGY0TE9wakJHRzJkYTlnSFg1eDA0SmFxOHNFQXBOLTBHLUVEaGlJaUdqWjhWOXc?oc=5>
+- **特朗普** | 对伊朗总决战？特朗普已下战书，美军突然行动，伊朗全民发枪备战 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE4xUVdhZ0FuT2lDa1hSTk9IaVRNMmNPZFRsQUpDeHlSTDhFVGVnQ05venRJZGxmOGJWSEVYanNZdjYyT1E4ZFB6SlpKZw?oc=5>
+- **特朗普** | 特朗普称处理伊朗问题进入最后阶段 德黑兰威胁若遇袭将扩大报复范围 <https://news.google.com/rss/articles/CBMiekFVX3lxTFBlbjFuREV0bTVPQWN0ZUpzVUpLNzlvVDBROWRNdXJuWkpJX3M3RFF0TUFwS2l6cUtTcDJvUENWazVUV0I2VmkxaVllWG1SNG1pQlNmYmZtZjQyZURGOERMa0NwQ09RaUFqalFfYUJualdJWlVZa29lTy13?oc=5>
+- **特朗普** | 油价大跌！美国WTI失守100美元关口，特朗普称会非常迅速结束美伊战争 <https://news.google.com/rss/articles/CBMisAFBVV95cUxPYVRxUENTQnItRGJ5bXBSNm9DWXVBbWFocG5oTXVLSmE4bWtncWg2ajVYZlJvaVN0R0VWYkU2UTdsUmcxZFlBWlFkM2NkU3g2cGRaTnpJM0hMMjQxOWVGb0JEM3QxT2VRUmIzbFpydHNabnRVUExubWZqeTcyMWFfNU5lN1ZRRFBsZ05WZnduNnJaSkNURzd6RnQtci02ZkxMLVQwaTVManFEVTcyVU81bQ?oc=5>
+- **特朗普** | 特朗普一句话击穿油市！布油盘中跌超7%，美国库存创纪录暴跌也挡不住 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE05dmpGVlFVeFdwYWxkY1NNR043c0tIMmtyMUxuelR1R1VHeWtpaGF4Q1lGd2RFSVVkaHhZOHFZdlRzQzhhR0JNZWtjeVBnTl9PSnpB?oc=5>
+- **Trump** | 美伊谈判进最后阶段 特朗普称内塔尼亚胡“会照我意思做” <https://news.google.com/rss/articles/CBMiggNBVV95cUxNZFdUN0JDLUlJMC1nSXI5N1duUFBIT3phTnphQndZeGZuUFpmcXVDUk9jcldwZmRpbDRfMndTMjJNS1YzOTNDbjJuSTBCNTd5M2dHU01IckxLdkE0UC0xNTFvelBpM25OMTJwbEl4YUMzQWpsd0R2TTd5T0U1SmxHWndiV0JDdERHMWdmQ3BHOGQ4V0FzcWFldHJ5V053LXhXbmZ5ekxfaDJGWWNtbnJ6eU5HOUdiMmdfSUZVM2F1OGtUZVhtUmhPWTF5UDhqaUJtYVZGT3VVTVEzTXRXSUotWUFCVTZJZnMxajh0ejhxZl9obFJ3aUxiaVJBeHhIMU9hNjdabk04VHMwSDhmdDJQN2lrbkFsOXJPN2VwMjh6MC1wTXJ5NlBPalk1eFpQY2RBS25yMUN6R21TX0JXRFZjbDV0QjdjZl9jREllcjdsTzQ1OU5fWW9wdDBjNVVlMG5CUEQ4ZmFtdk44OTdIeGFzbFgwTzNVZlN1UXVVYUpxVDBZUQ?oc=5>
 
 ### 2026-05-20 22:50  (5 条)
 
