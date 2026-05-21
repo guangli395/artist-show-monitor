@@ -1,40 +1,82 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-21 22:48**
-- 本轮扫到 1806 条, 新增 **3** 条
+- 最近更新: **2026-05-21 23:57**
+- 本轮扫到 1813 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (7 条)
 
-### 美国总统特朗普将于当地时间周五上午11点主持沃什的就职宣誓仪式。
+### 从细节中看“习特会”和“习普会”的异同
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-21 22:24
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xY1N3b05XU3lDYkJLanhleXlpRzNQcmZ2TDVMUE9kdjlPT1FDenpIVS14TlpIb3h3TXNVTVAwS2RMV3RxOThRTkRiaw?oc=5>
+- 场馆: dw.com
+- 时间: 2026-05-21 16:03
+- 链接: <https://news.google.com/rss/articles/CBMi_AFBVV95cUxNMmFHY2RsS25HLUcwUFhIWEdRcDBWX1g5SWRHNjAwVmtYcGpGcmJqU201YTQ0emRhOUxUTmNwQ1VHU19rNXgyUmg4RGJDYlU5QW1hLV9xeG5UeV9pdl9IOEVJSVFHanZZaWZRSjVoa09HUTRnQnR1MHF3b0JyWTJfOVhpN2gyYzlVTWN5QnpIMlZiNGV2S2FUbWxfLWhuVjVHTFktOVQ1d0F1dU1nZVp5NVVrbTd6M0VKODRZYlhwMzdhN1NocV9NemJzLXhyZGFQZWJhY3A0N1FycmZFWm9BbXk0NV9UdGs2em9qc2ZIbTlaU0JaZXpIUWdVeVM?oc=5>
 
-### 美国等待伊朗就结束战争的潜在协议作出回应
+### 特朗普称将与赖清德通话，台湾：“非常乐意”，但未接到通话讯息；中国：“坚决反对”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 美国之音
-- 时间: 2026-05-21 16:05
-- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTWxIT2tDVGRKb19oWFE2SEMzTjFOMlUzbGRfSlhXMktwV2N4dGNPRlJmYXQ2VU9oV0gtQk9XdTVsSS1IaVd6MmZaZDZqaUxmX0pJNjVsLW9DZjNHQ2JfanAzdFN0cTdCWFpUYm1CdlFQdFpZVkI4YVFTQXh4bzlXSDFhUDdwMmFDVHNvUXpZdDBONFdhVTNRSzZWZmI2eDdtQXNobUNtX3FxUdIBrAFBVV95cUxPQ2dnM0VIT2prUVJqT3NXRHBwZXl4Nm5yWE4zczJYbDZzV1ZPaml6OWwyVmNZUEo4ZnZuV29QNTN0STlkOVBHZUtMYnpndWxFSG9KeWE5c3Z5b1U4bS1fRUdNY3Q1MUhrZ2pncXNURUNlQllYQ1RMSl83RmJpOVFscVNSZU5CWDdyci1VNmZMb0JsTUQ2eFBuRkJyOVJIVkRvN0I4ZzFjajQtRjR4?oc=5>
+- 时间: 2026-05-21 19:42
+- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxPak5fM0ZjYWVfem05QnNld0stNDMwYl9kYWUyRmpqRmY0TGpURHZ0aXotVmpuRnJHTW1Pb2JFN3ZCSExiYzhvcmJxSXpEenhEUS04aEF0ZFVuZGFUdGVQNlBnZUdJUjdpT3hWdmQ0bXJIWWU2czd5MFB4LU54MG1lV1lSWWpmaVBBUjYyNlU4WWdubUw3NHlVazZ2VE5DM2hLN2s5aHBRWWFaR1Q2VWkzenZpT041MFd0YlcxdkFhQWJVaUJlVUd1ZVYxWlA3LVpkR2fSAdQBQVVfeXFMT3Rfa2E3ZTJuYTZhYUtkd2FTOG1YUDFrSVNYV1R5WU5nV2hBZFVvMlNWTXVGYlltUmdYUXlBbjNQcDUwUm1sQUEzdEx5eDFTNUVmYU9HTmVmZE45aFIzbXhsZFc2d1JYZWEtM2w0OWo5OXNVTVNyd3JNMG9CdG4tdGVxUjI0al9TZlNrdFdLb1Y1MGpab2F1V0IxQzdrRDRjRlV6a2ZaeTYtcHdNd1RzWG9KeUNrSVhNdGJrVUR6WGJhUlZuT3R0dVI1MDBJOGIxRHo0c3Y?oc=5>
 
-### 美国总统特朗普：美国将向波兰增派5000名士兵
+### 特朗普称将向波兰增派5000名美军
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Sina finance
-- 时间: 2026-05-21 20:37
-- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxNRmpaemtOZzRtSXJ4VnlwaTdRaE02bUNJbUtGMWxyaW9vOVhTYThYaXl1X3luV3pZdGV6VF80bktkRjlHLWFUN2VNSlBkeTlxd09PaGdNN0o1LWt1NDQ3UUNYQ2dhRUpGMFJLYWFna092aE5DcjVHZVJwZ2VTWFdRYmg2c2JORWNYb1VkSThXMjlaT0paUzNRb2QzUWs?oc=5>
+- 场馆: 中国网新闻中心
+- 时间: 2026-05-21 23:07
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTFBQMnd2RzdTX1JkN0RoRnRWbjNablZ6SkhqZkd5U0lpQXIxaTZ4dUVzeXBJa3pvbXc2UmVRNld0blFVSlpBNkREaklVaW9LWk1WZDNLRHRIOG5xQVREQThxUkNkM25iemRvdFlV?oc=5>
+
+### 美国总统特朗普：今日......_7x24快讯_新浪财经
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-21 22:59
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9VWXUxcGZwVVdZSEgtb2plYWprbVFyUWNyMDA1RFEzVWVudzAwQnlzUng4NXYyYTlnNjVkY0wzdXA3THRkUER6TkVzRQ?oc=5>
+
+### 特朗普家族涉逃税遭司法部调查
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: video.sina.com.cn
+- 时间: 2026-05-21 23:46
+- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxPTmhEd2R2TE1wUWphMG5vSmNEa0dvU3REZXEweWVGbWhVRHE2VmpkbkU1NmM5cHdKdm53dkQwMDhIZDdZZUsxcThlMmo1cXluMVRaSFVyU1M0c04ybjV0TjFiSDJXMmFTUFRQMUlrVk92VWhDV3MxQ2ltR2FwQlJYRGh3?oc=5>
+
+### 美大使称特朗普放弃使用武力“接管”格陵兰岛
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新京报
+- 时间: 2026-05-21 23:15
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE84aTFleVVPRnc5d3ZhOHFYXzMxRWUzcTJDQUI1V3hFMk51U2lsTTR5T3RsLU4yeFVhYkQ1Q04yYWZTMmtQZVdJbTdDdTVYZjM5a05kd092SExqZ1FRM1Y5SjFZemE?oc=5>
+
+### 美股指数自日内高位回落 因伊朗审视和平协议 但特朗普坚持德黑兰不得拥核
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: AASTOCKS.com
+- 时间: 2026-05-21 20:55
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE1qQ01DUGxMbzB3aEc4NmNXUkNqc2ZGRU9fSmc3ZnB1V01QdHRFSWV4ckJrUXlsYUFETGNnWG5ZRC1PTDk2TVhpVGdWd3BJVVdzcTVQdEQ0andMM2FtcTFlaERJNms2c2xOaVR4aXBfMA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-21 23:57  (7 条)
+
+- **特朗普** | 从细节中看“习特会”和“习普会”的异同 <https://news.google.com/rss/articles/CBMi_AFBVV95cUxNMmFHY2RsS25HLUcwUFhIWEdRcDBWX1g5SWRHNjAwVmtYcGpGcmJqU201YTQ0emRhOUxUTmNwQ1VHU19rNXgyUmg4RGJDYlU5QW1hLV9xeG5UeV9pdl9IOEVJSVFHanZZaWZRSjVoa09HUTRnQnR1MHF3b0JyWTJfOVhpN2gyYzlVTWN5QnpIMlZiNGV2S2FUbWxfLWhuVjVHTFktOVQ1d0F1dU1nZVp5NVVrbTd6M0VKODRZYlhwMzdhN1NocV9NemJzLXhyZGFQZWJhY3A0N1FycmZFWm9BbXk0NV9UdGs2em9qc2ZIbTlaU0JaZXpIUWdVeVM?oc=5>
+- **特朗普** | 特朗普称将与赖清德通话，台湾：“非常乐意”，但未接到通话讯息；中国：“坚决反对” <https://news.google.com/rss/articles/CBMi0gFBVV95cUxPak5fM0ZjYWVfem05QnNld0stNDMwYl9kYWUyRmpqRmY0TGpURHZ0aXotVmpuRnJHTW1Pb2JFN3ZCSExiYzhvcmJxSXpEenhEUS04aEF0ZFVuZGFUdGVQNlBnZUdJUjdpT3hWdmQ0bXJIWWU2czd5MFB4LU54MG1lV1lSWWpmaVBBUjYyNlU4WWdubUw3NHlVazZ2VE5DM2hLN2s5aHBRWWFaR1Q2VWkzenZpT041MFd0YlcxdkFhQWJVaUJlVUd1ZVYxWlA3LVpkR2fSAdQBQVVfeXFMT3Rfa2E3ZTJuYTZhYUtkd2FTOG1YUDFrSVNYV1R5WU5nV2hBZFVvMlNWTXVGYlltUmdYUXlBbjNQcDUwUm1sQUEzdEx5eDFTNUVmYU9HTmVmZE45aFIzbXhsZFc2d1JYZWEtM2w0OWo5OXNVTVNyd3JNMG9CdG4tdGVxUjI0al9TZlNrdFdLb1Y1MGpab2F1V0IxQzdrRDRjRlV6a2ZaeTYtcHdNd1RzWG9KeUNrSVhNdGJrVUR6WGJhUlZuT3R0dVI1MDBJOGIxRHo0c3Y?oc=5>
+- **特朗普** | 特朗普称将向波兰增派5000名美军 <https://news.google.com/rss/articles/CBMia0FVX3lxTFBQMnd2RzdTX1JkN0RoRnRWbjNablZ6SkhqZkd5U0lpQXIxaTZ4dUVzeXBJa3pvbXc2UmVRNld0blFVSlpBNkREaklVaW9LWk1WZDNLRHRIOG5xQVREQThxUkNkM25iemRvdFlV?oc=5>
+- **特朗普** | 美国总统特朗普：今日......_7x24快讯_新浪财经 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9VWXUxcGZwVVdZSEgtb2plYWprbVFyUWNyMDA1RFEzVWVudzAwQnlzUng4NXYyYTlnNjVkY0wzdXA3THRkUER6TkVzRQ?oc=5>
+- **特朗普** | 特朗普家族涉逃税遭司法部调查 <https://news.google.com/rss/articles/CBMiggFBVV95cUxPTmhEd2R2TE1wUWphMG5vSmNEa0dvU3REZXEweWVGbWhVRHE2VmpkbkU1NmM5cHdKdm53dkQwMDhIZDdZZUsxcThlMmo1cXluMVRaSFVyU1M0c04ybjV0TjFiSDJXMmFTUFRQMUlrVk92VWhDV3MxQ2ltR2FwQlJYRGh3?oc=5>
+- **特朗普** | 美大使称特朗普放弃使用武力“接管”格陵兰岛 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE84aTFleVVPRnc5d3ZhOHFYXzMxRWUzcTJDQUI1V3hFMk51U2lsTTR5T3RsLU4yeFVhYkQ1Q04yYWZTMmtQZVdJbTdDdTVYZjM5a05kd092SExqZ1FRM1Y5SjFZemE?oc=5>
+- **Trump** | 美股指数自日内高位回落 因伊朗审视和平协议 但特朗普坚持德黑兰不得拥核 <https://news.google.com/rss/articles/CBMib0FVX3lxTE1qQ01DUGxMbzB3aEc4NmNXUkNqc2ZGRU9fSmc3ZnB1V01QdHRFSWV4ckJrUXlsYUFETGNnWG5ZRC1PTDk2TVhpVGdWd3BJVVdzcTVQdEQ0andMM2FtcTFlaERJNms2c2xOaVR4aXBfMA?oc=5>
 
 ### 2026-05-21 22:48  (3 条)
 
