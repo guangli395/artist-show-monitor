@@ -1,68 +1,109 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-21 17:28**
-- 本轮扫到 1788 条, 新增 **7** 条
+- 最近更新: **2026-05-21 19:27**
+- 本轮扫到 1798 条, 新增 **10** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (10 条)
 
-### Bio-E品牌发布会的安保具体存在哪些漏洞导致骚扰者得逞？
+### 美国驻丹麦大使：特朗普已排除对格陵兰岛使用武力
 
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801leec.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-05-21 17:17
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwQUQ3bGhkUl9mSm9mWlp1U0lqQ1NodVozdmRSaEl4ZmJsX2tFdGswSUVtVzdiMzJaUFlYMGl4N3ZCSDlQNGF1VnN1blRpR09LOGRQX3djSGxTWWxuRl9pbQ?oc=5>
 
-### 粉丝用华为Pura90 Pro Max清晰记录周杰伦演唱会
+### 美中AI对话，为什么谈？谈什么？结果会如何？
 
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2292724833_m88a83461033018ota.html?from=tech>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-05-21 19:06
+- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxPREkzOE5HYWlTRWhqOTROSjFlanlTMXpHdnNnUGRKc3diQ3JmM29VUzlXbkRreTJSSElCTHJPcXI1NzdjM0Nlb1k3LUpTSWUwXzFSRC15S24yWGc5dXh5TU51dXZHQTVGaW5vbmpYOXhqM3R0eXpOcmZENE4xSEpxTFNHNXBib2o4Y3NkU1pDdVh4ektrODZNZWtkek_SAZ8BQVVfeXFMUFJteFRrMExvRGVQdl84Z2lDMF9ielktUDc4VmlpTHozWmJLdG1VZW1KT0VxN3p2aWhJdFBJc212bG5Wem03UmRfQ0V0ZEVPOEV0QW4wOTlDenVXT2Z5SnN6VWhIZG1xdjRGNmZUTEZvVDZDazdDazNkOXhXcXJsRGMzYm1aVUZHX21seWxySDBPUm1vbFRQZkFVV2hqODVJ?oc=5>
 
-### 特朗普：或需补缴1490亿美元关税款项。
+### 特朗普政府推动量子战略升级：20亿美元扶持9家企业 政府将直接持股
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 财联社
+- 时间: 2026-05-21 12:12
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTFBlN01kV0FvQ2JvRVhMbFYyOHctQXJWTHVGUzZKQUo4RUlWaG1SNlduSkRxMmRqOEpNc1R6c3ZpU0hnZkg5YktURQ?oc=5>
+
+### 特朗普回应中俄元首会晤
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-05-21 00:56
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1hT1VURk1KcU9ZQ1VfcDNQVnJwMTUwMVNyVmFGSmY4QWJwY0FFYmFVV2xFbWVaVWdsakZMOWdwNmkta3RLVFJDVV9zQ3U?oc=5>
+
+### 特朗普：台湾“偷走了”美国的芯片产业！要是我早当总统，英特尔世界第一，没台积电什么事
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-21 16:16
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9zSzhqZm1pWGVsQzlyU3pHUFZYVFg1UG40eE9heVBKU1VsRVQ4Yl9TNUItdnpxRFExek5BcWkxU0RMMzdJVXNtTHZaQQ?oc=5>
+- 时间: 2026-05-21 04:18
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE15NVJJcTM2U2xFUWtPd2JraUFzeWhONk5RNjhvQVZzV0FYd3BvWVA1T281S1h3X0NaVmV6MUQwcDh5WWx1dzJkVWdrWXVZVHE2NFFma2ZJbk14UEhORXhCQV83enVNTDQwaHIzamNELVFXY1dwa2c?oc=5>
 
-### 20亿美元！特朗普政府下场直接投资，瞄准这一高科技行业，被投企业股价大涨
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-05-21 16:55
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBTckVXQ05yZTg2bF95UjhxOE5kOGVKVGNfM2szSHZNUl91ZS00aG9wcEhJTkFIVGpsYnpqY2lPZ3B3akVzdzhuWXJDMHpCeldQWUg2X3YwclBOSDQ4aF9Ca2NQcFIzUmNJVWhfWEFTUjY?oc=5>
-
-### 特朗普：伊朗局势平息后油价将会回落。
+### 美媒：特朗普政府已开始制定对古巴军事行动方案
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-21 16:17
-- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE5EVnZnRTVfXzl2NUxGVkdSSlV6T1BPOGY5aDMtR2lQV2FHOTZ1ckZVeW9uYlhxTExjQjdCV19QZndKV0tteWxTRlplNU91Tlk?oc=5>
+- 场馆: 新京报
+- 时间: 2026-05-21 05:41
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GSnBEU0I1U01qMnlETHctWXY2OTcxaGFBMWdzcmxXY1p5YzZudDhESjlHVHF0eFdnWUNpUXBiSlBGMWN5ZWpvdEJaTVQ2c1ZTREhKWFVfSXY1NnNaT2NEY1NaS2k?oc=5>
 
-### 从TACO到FOMO：散户如何将特朗普的市场冲击炼成“交易手册”
+### 特朗普推迟对伊军事行动 称若谈判无法达成协议将再次动武
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-05-21 05:56
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5zZVJuSEF2eDc1N2g0TzlNVEx1UldNUUxEV2tkcFlCeFdkRHFkWjFwV3R6cmtUVHF1VjdpZkxyc0ZkakplWmNFVldwUkJOZmp6TEhZ?oc=5>
+- 场馆: 财新
+- 时间: 2026-05-19 11:23
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9VNHV2QjBwTzJVSjM5VjVnc0JRVHVGX0tiVHhjZEdEdnBwcl9MLVFCbm1FTWRfUkV4OWFhNUdrX3gyeGswS1NtU0JfRlZqbnBjODFqb0dnM1NuZ1FlY1dwQ0RlS3VUUHUxQnc?oc=5>
 
-### 美股指数下跌因伊朗维持浓缩铀或触发特朗普底线财经新闻Financial News
+### 特朗普可能与赖清德通话，或将是1979年来美台领导人首次直接沟通
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-05-21 08:19
+- 链接: <https://news.google.com/rss/articles/CBMitANBVV95cUxNMjVzcjRFV2xVdDFqdEtRcW45QzRabkFiZWtlYy14djgxTXBYUG5HQTFBVjNDazZ0U1h4TzFob1RHRm9wb0FCeFd3QmFYamZjUFdGOUk4ckx1dS04WGJDUjVzTFZtWUZ0ZlFLSkhMMFd0VUQ0NjJDRzY1U2ZSY3k3UkpKdUxRc2l2NXVTUHRIdmdERHhja0JxOVNQZEZkN0NPREFXRHlObUJwdTNnWEEyQzNvOXNrOVViVk9jV3Y5S2pmM1VfaWVIWGM0a0tKMjFWekRFZWZUZXR5OHJfTEtwWDBURTBUMEhFUTIxWXFDZUZ6ZFdNOFpWQWJCSDcydmxuZ19BLVdHUDJlZVM2UDVwVTNiY0tzX3JyOWF0bWxwZS1qYlFaNDU5U1JvRjRtV2FMblhYNlp3ZVo4X0N3TjQzUTJfeXdwb3BMZ1VvY2tOY0VJSmVqTFlzd2lkY2h1WFhZWG45X21IOGJFTlVXVEM5a0hLNmVSMS1abUVFVTZzWVo5SGZqUElOaXhoWW9MblVMYWdyWi1pb0lEeDVtcWxMbF90M0VBMmRDME91SXFScjdUeVZN?oc=5>
+
+### 法新社专访：美国认为“还要在格陵兰岛留下印记”！
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: AASTOCKS.com
-- 时间: 2026-05-21 16:28
-- 链接: <https://news.google.com/rss/articles/CBMihAFBVV95cUxNdGRWYXJtQ25ZYVRMWHN6QXUxWW5WODVnd0k4VGUxTGZwM1pzdTdNOGUxbmRKbTl0aTJvemZUMjFiNFIxcDBCcHNUbUlqdWIzdzhielpqRjJfRnNCZnZwWk9WYzlzRGdWbzNaXzFRLXNoMDFOaTBVd1VJVTc0QmxOQkV2WmE?oc=5>
+- 场馆: RFI
+- 时间: 2026-05-20 22:21
+- 链接: <https://news.google.com/rss/articles/CBMi0gJBVV95cUxPVzNEWHFQaFlLMkd0b1djeFIzTFpiRWowQ2phbVB6bWpRZVhCLU4tMGRwN0xYRXZ6Mm16dkU2alFDUXlNVXMwajdNQ1YyZ3J0QWpkWlRrdlAySEc1UzcwSG1uTVVCejZmdEJadUpsQXZpQWhiWVZadW1ycWRyOXowY0hJT3YwRThsRVRpSkpLREZ3NW40T0Q2T3ZfcGJ5RjZfUnkzdlVaa0Zma1FTM1NrZW0xbHdnZ1RNeEpLNkh3eFdKZHpGY3VmS3NFLS1tWmlwa3RVMXctOEdVMmRMTGJRTkxVMWxuMG8xcEFrNGJKQ1JIOEpKYkhBT0ZnVlE1YXFVdWNtZ3FzWHhjcHVCMEw2NEV2ZEdFQnE0VHlPa2QtMDcyckV3aGJSaFNTSzhVT3lXRVVPZXNhaDY4c1BqSExGY200ZlNtZnFBUEJtUl9EWmYyUQ?oc=5>
+
+### US President Donald Trump warns Iran to ‘get moving’ or ‘there won’t be anything left’
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: TMGM
+- 时间: 2026-05-18 03:56
+- 链接: <https://news.google.com/rss/articles/CBMi6wFBVV95cUxQdm5iSzBNZG0yQW1uWjVld1hNeTVIdmlDcWVhZnZHVGJFcnVKWkpLeFZkMUVQck1NRXVwc05NZG9YbTktQ3NBdFQ4cHU5QzJUaXp2NHRHVDRselRiUUxnM01Ydk1fdUNXREczZzA2bVBNSXh3N2I2YTJ6dUVCV3pZZXlwalZ3eTZSdkdlRmttUTB6MW5IYl9ldjFSRWRuNTFJTnUyV2VZSVZfdktiLWpqN09LZWhuY0dmdGpaQWxRd0lRNmJNSWl6TjRIUTE0cElkV0N4bUVjcWlnUVlPRFBTX0MzUTdkbzhMbEJz?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-21 19:27  (10 条)
+
+- **特朗普** | 美国驻丹麦大使：特朗普已排除对格陵兰岛使用武力 <https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwQUQ3bGhkUl9mSm9mWlp1U0lqQ1NodVozdmRSaEl4ZmJsX2tFdGswSUVtVzdiMzJaUFlYMGl4N3ZCSDlQNGF1VnN1blRpR09LOGRQX3djSGxTWWxuRl9pbQ?oc=5>
+- **特朗普** | 美中AI对话，为什么谈？谈什么？结果会如何？ <https://news.google.com/rss/articles/CBMinAFBVV95cUxPREkzOE5HYWlTRWhqOTROSjFlanlTMXpHdnNnUGRKc3diQ3JmM29VUzlXbkRreTJSSElCTHJPcXI1NzdjM0Nlb1k3LUpTSWUwXzFSRC15S24yWGc5dXh5TU51dXZHQTVGaW5vbmpYOXhqM3R0eXpOcmZENE4xSEpxTFNHNXBib2o4Y3NkU1pDdVh4ektrODZNZWtkek_SAZ8BQVVfeXFMUFJteFRrMExvRGVQdl84Z2lDMF9ielktUDc4VmlpTHozWmJLdG1VZW1KT0VxN3p2aWhJdFBJc212bG5Wem03UmRfQ0V0ZEVPOEV0QW4wOTlDenVXT2Z5SnN6VWhIZG1xdjRGNmZUTEZvVDZDazdDazNkOXhXcXJsRGMzYm1aVUZHX21seWxySDBPUm1vbFRQZkFVV2hqODVJ?oc=5>
+- **特朗普** | 特朗普政府推动量子战略升级：20亿美元扶持9家企业 政府将直接持股 <https://news.google.com/rss/articles/CBMiSEFVX3lxTFBlN01kV0FvQ2JvRVhMbFYyOHctQXJWTHVGUzZKQUo4RUlWaG1SNlduSkRxMmRqOEpNc1R6c3ZpU0hnZkg5YktURQ?oc=5>
+- **特朗普** | 特朗普回应中俄元首会晤 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1hT1VURk1KcU9ZQ1VfcDNQVnJwMTUwMVNyVmFGSmY4QWJwY0FFYmFVV2xFbWVaVWdsakZMOWdwNmkta3RLVFJDVV9zQ3U?oc=5>
+- **特朗普** | 特朗普：台湾“偷走了”美国的芯片产业！要是我早当总统，英特尔世界第一，没台积电什么事 <https://news.google.com/rss/articles/CBMidkFVX3lxTE15NVJJcTM2U2xFUWtPd2JraUFzeWhONk5RNjhvQVZzV0FYd3BvWVA1T281S1h3X0NaVmV6MUQwcDh5WWx1dzJkVWdrWXVZVHE2NFFma2ZJbk14UEhORXhCQV83enVNTDQwaHIzamNELVFXY1dwa2c?oc=5>
+- **特朗普** | 美媒：特朗普政府已开始制定对古巴军事行动方案 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GSnBEU0I1U01qMnlETHctWXY2OTcxaGFBMWdzcmxXY1p5YzZudDhESjlHVHF0eFdnWUNpUXBiSlBGMWN5ZWpvdEJaTVQ2c1ZTREhKWFVfSXY1NnNaT2NEY1NaS2k?oc=5>
+- **特朗普** | 特朗普推迟对伊军事行动 称若谈判无法达成协议将再次动武 <https://news.google.com/rss/articles/CBMiakFVX3lxTE9VNHV2QjBwTzJVSjM5VjVnc0JRVHVGX0tiVHhjZEdEdnBwcl9MLVFCbm1FTWRfUkV4OWFhNUdrX3gyeGswS1NtU0JfRlZqbnBjODFqb0dnM1NuZ1FlY1dwQ0RlS3VUUHUxQnc?oc=5>
+- **特朗普** | 特朗普可能与赖清德通话，或将是1979年来美台领导人首次直接沟通 <https://news.google.com/rss/articles/CBMitANBVV95cUxNMjVzcjRFV2xVdDFqdEtRcW45QzRabkFiZWtlYy14djgxTXBYUG5HQTFBVjNDazZ0U1h4TzFob1RHRm9wb0FCeFd3QmFYamZjUFdGOUk4ckx1dS04WGJDUjVzTFZtWUZ0ZlFLSkhMMFd0VUQ0NjJDRzY1U2ZSY3k3UkpKdUxRc2l2NXVTUHRIdmdERHhja0JxOVNQZEZkN0NPREFXRHlObUJwdTNnWEEyQzNvOXNrOVViVk9jV3Y5S2pmM1VfaWVIWGM0a0tKMjFWekRFZWZUZXR5OHJfTEtwWDBURTBUMEhFUTIxWXFDZUZ6ZFdNOFpWQWJCSDcydmxuZ19BLVdHUDJlZVM2UDVwVTNiY0tzX3JyOWF0bWxwZS1qYlFaNDU5U1JvRjRtV2FMblhYNlp3ZVo4X0N3TjQzUTJfeXdwb3BMZ1VvY2tOY0VJSmVqTFlzd2lkY2h1WFhZWG45X21IOGJFTlVXVEM5a0hLNmVSMS1abUVFVTZzWVo5SGZqUElOaXhoWW9MblVMYWdyWi1pb0lEeDVtcWxMbF90M0VBMmRDME91SXFScjdUeVZN?oc=5>
+- **Trump** | 法新社专访：美国认为“还要在格陵兰岛留下印记”！ <https://news.google.com/rss/articles/CBMi0gJBVV95cUxPVzNEWHFQaFlLMkd0b1djeFIzTFpiRWowQ2phbVB6bWpRZVhCLU4tMGRwN0xYRXZ6Mm16dkU2alFDUXlNVXMwajdNQ1YyZ3J0QWpkWlRrdlAySEc1UzcwSG1uTVVCejZmdEJadUpsQXZpQWhiWVZadW1ycWRyOXowY0hJT3YwRThsRVRpSkpLREZ3NW40T0Q2T3ZfcGJ5RjZfUnkzdlVaa0Zma1FTM1NrZW0xbHdnZ1RNeEpLNkh3eFdKZHpGY3VmS3NFLS1tWmlwa3RVMXctOEdVMmRMTGJRTkxVMWxuMG8xcEFrNGJKQ1JIOEpKYkhBT0ZnVlE1YXFVdWNtZ3FzWHhjcHVCMEw2NEV2ZEdFQnE0VHlPa2QtMDcyckV3aGJSaFNTSzhVT3lXRVVPZXNhaDY4c1BqSExGY200ZlNtZnFBUEJtUl9EWmYyUQ?oc=5>
+- **Trump** | US President Donald Trump warns Iran to ‘get moving’ or ‘there won’t be anything left’ <https://news.google.com/rss/articles/CBMi6wFBVV95cUxQdm5iSzBNZG0yQW1uWjVld1hNeTVIdmlDcWVhZnZHVGJFcnVKWkpLeFZkMUVQck1NRXVwc05NZG9YbTktQ3NBdFQ4cHU5QzJUaXp2NHRHVDRselRiUUxnM01Ydk1fdUNXREczZzA2bVBNSXh3N2I2YTJ6dUVCV3pZZXlwalZ3eTZSdkdlRmttUTB6MW5IYl9ldjFSRWRuNTFJTnUyV2VZSVZfdktiLWpqN09LZWhuY0dmdGpaQWxRd0lRNmJNSWl6TjRIUTE0cElkV0N4bUVjcWlnUVlPRFBTX0MzUTdkbzhMbEJz?oc=5>
 
 ### 2026-05-21 17:28  (7 条)
 
