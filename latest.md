@@ -1,78 +1,137 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-21 00:03**
-- 本轮扫到 1742 条, 新增 **8** 条
+- 最近更新: **2026-05-21 04:51**
+- 本轮扫到 1756 条, 新增 **14** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (14 条)
 
-### 新浪演唱会热点小时报丨2026年05月21日07时_今日实时演唱会热点速递
+### 孙颖莎现身周杰伦演唱会，国际粉丝跨界追星
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905q2nc.html>
+- 链接: <https://k.sina.com.cn/article_6042105397_m16823363503301kalq.html>
 
-### 特朗普将于美国东部时间周四上午11点与美国环保署署长共同宣布一项声明。
+### 张杰、周杰伦、五月天演唱会门票在哪买?2026京津演出时间表来了
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-20 23:09
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1wWWpaMllZVzB1QVU5ZlIxcDQzWUtBSFJBbGY2ZXVhV1FoRmFxRklFZTh4NmtnXzlDNGRKajRTcXk3Zmk4OTVvNnFxZw?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905qf9a.html>
 
-### 特朗普：内塔尼亚胡“听我的”
+### 周杰伦2026年5月最新动态:鸟巢演唱会重磅定档 嘉年华巡演再创乐坛巅峰
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905q3zq.html>
+
+### 新浪演唱会热点小时报丨2026年05月21日08时_今日实时演唱会热点速递
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905q3do.html>
+
+### 特朗普回应中俄元首会晤
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 观察者
-- 时间: 2026-05-20 23:42
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5SWVpyUTUtc1A3c3RVeW9KVXU1Rld3RHBqQmNJb3FiT08zN2I5YTB5eE9YSUxzM1NpeFhaNGY0TE9wakJHRzJkYTlnSFg1eDA0SmFxOHNFQXBOLTBHLUVEaGlJaUdqWjhWOXc?oc=5>
+- 时间: 2026-05-21 00:41
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1BMDhtUHlGNWN4Z1d2dUJZZkJVcVllSjVYRjEtVUppczFfNFAzMUpfQmp3ZF8yMU5HMUVyZi1nSGNsQ0JtNnlIRnJnUUs4RW1OVVdQZV8xN1V2aHVBYXVzR1lJcWZSQmJkcGc?oc=5>
 
-### 对伊朗总决战？特朗普已下战书，美军突然行动，伊朗全民发枪备战
+### 特朗普称愿意多花几天等待伊朗最新回应
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 光明网
+- 时间: 2026-05-21 00:47
+- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE5SdzNtRXlMTUZVOFIyc0g1TEc4cHN4Rm9Wc3A0N05fdHJLYXJ0Z0RDYm82bFBNZ050SEVOTmpYRHNvUmF2TldjMnktY0xSZWZtVDh3SlI1b05kWnI1Q0FWSnNB?oc=5>
+
+### 特朗普说在伊朗问题上内塔尼亚胡“听我的”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 央视网
+- 时间: 2026-05-20 15:32
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1ibDB6Uk1TdzV4dE8zN0FkTTVKaUY3bk5WREdXUlR6ZldOa0ZMazNiWFFRSXNvUkt2ZF9xeDdQbjBFclJVQzZYZURnREJrQ3VXc0ZCWWo5czExX2V0Y1pnX3hTRWtKMTBRYmdkcS0wRTZhdEhmMVRsZw?oc=5>
+
+### 消息人士：内塔尼亚胡和特朗普通话后“气急败坏”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-05-21 04:33
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBFb3VhdWpLR3dPMWFSMEtnV3psQkJHQTRyMlBsYjNYSndzUmFBLXNRSHlvVHhHNWRIVHNvVXdaZnR4LTNyM3VjWC1Oak1SYWNrcnRiNEQzNXh0NTNUYndLYllTUXhSUXhORldxQ3B0RXl3cVhadnc1dUs3SnBDWXM?oc=5>
+
+### 特朗普：不要中国学生，那可太冒犯了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-05-21 00:43
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5xdk9JQ21UMUhrTzAtck92eHNGLUJuZDNWaThEOWRQXzF3Q0dDYnFsNXc4dDRkLVh4WnFIR1ROeXhRR3ZNVlYwWWZraFFQcEZDb3A1RHpOcTBLay0wMm9kVHdnZ1g3RnNKQWc?oc=5>
+
+### 特朗普：我是以色列人气王，可以去竞选总理
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-05-21 02:42
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xcUxNblNEM2lxdkVObjI0b0JpT0s5b2tPNVVvWE5Kbk9PZkw4ajcwU19SNVVxb2oxNjRuNXl5QmF1enM2bXViTktWNks5NDRjU05oX2JNcE5xX3ROZElJdg?oc=5>
+
+### 特朗普：我讨厌长得帅的男人
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-05-21 00:01
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE4xUVdhZ0FuT2lDa1hSTk9IaVRNMmNPZFRsQUpDeHlSTDhFVGVnQ05venRJZGxmOGJWSEVYanNZdjYyT1E4ZFB6SlpKZw?oc=5>
+- 时间: 2026-05-21 01:12
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE96WWJOSU53QTNScnVmemlrckItQ2dLUXlhRXBaOHZRUVNEX1hXTmhQTWhFSThCRkxlY21MQnVZd2lYb3BkTGZ6c1RJR3U?oc=5>
 
-### 特朗普称处理伊朗问题进入最后阶段 德黑兰威胁若遇袭将扩大报复范围
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-20 21:16
-- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTFBlbjFuREV0bTVPQWN0ZUpzVUpLNzlvVDBROWRNdXJuWkpJX3M3RFF0TUFwS2l6cUtTcDJvUENWazVUV0I2VmkxaVllWG1SNG1pQlNmYmZtZjQyZURGOERMa0NwQ09RaUFqalFfYUJualdJWlVZa29lTy13?oc=5>
-
-### 油价大跌！美国WTI失守100美元关口，特朗普称会非常迅速结束美伊战争
+### “台湾所有芯片企业应该赴美设厂”，特朗普称台湾偷走美芯片产业：当年如果我当总统，台积电不会是业界龙头
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-20 23:28
-- 链接: <https://news.google.com/rss/articles/CBMisAFBVV95cUxPYVRxUENTQnItRGJ5bXBSNm9DWXVBbWFocG5oTXVLSmE4bWtncWg2ajVYZlJvaVN0R0VWYkU2UTdsUmcxZFlBWlFkM2NkU3g2cGRaTnpJM0hMMjQxOWVGb0JEM3QxT2VRUmIzbFpydHNabnRVUExubWZqeTcyMWFfNU5lN1ZRRFBsZ05WZnduNnJaSkNURzd6RnQtci02ZkxMLVQwaTVManFEVTcyVU81bQ?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-05-20 15:51
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZFJ4dmpVRmlsVHFGYzFhM0tjT1FZdGFEXzJpZHRYWl9LMGNtOE9CVHBFX1BiakQyWWdCOHI0TWtRb3hNWnExczFLTDJCd0dCaE1SMDNRTVgzeTNDdl9nNENmNmRHQnZoWVdHWjNOcU5kQUhKdDFyc3BPTkIxS0IwX19QMlJVdVoxQWdoODF5VVpFNXo1clJ4dzNuSFFXNk9XOWR4aTN6M0xSUGd0RW9fMUpkOW9wR1dfYlVCajA2b3A2ZVgtY0xPcHBEUVVrNVE2?oc=5>
 
-### 特朗普一句话击穿油市！布油盘中跌超7%，美国库存创纪录暴跌也挡不住
+### 操纵油价，特朗普有一套！
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 华尔街见闻
-- 时间: 2026-05-20 16:47
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE05dmpGVlFVeFdwYWxkY1NNR043c0tIMmtyMUxuelR1R1VHeWtpaGF4Q1lGd2RFSVVkaHhZOHFZdlRzQzhhR0JNZWtjeVBnTl9PSnpB?oc=5>
+- 时间: 2026-05-21 00:23
+- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTE1MaGRwS0ptZURIMVNwdExRVEowR1AtWjRYQlJNYmo1bExXVy1MbkhFS0h3LWpialVnY2pmbk9KUUhTQkx3SXJMb0RVRk5ySlhBbmc?oc=5>
 
-### 美伊谈判进最后阶段 特朗普称内塔尼亚胡“会照我意思做”
+### 习近平同美国总统特朗普在中南海小范围会晤
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-05-20 21:46
-- 链接: <https://news.google.com/rss/articles/CBMiggNBVV95cUxNZFdUN0JDLUlJMC1nSXI5N1duUFBIT3phTnphQndZeGZuUFpmcXVDUk9jcldwZmRpbDRfMndTMjJNS1YzOTNDbjJuSTBCNTd5M2dHU01IckxLdkE0UC0xNTFvelBpM25OMTJwbEl4YUMzQWpsd0R2TTd5T0U1SmxHWndiV0JDdERHMWdmQ3BHOGQ4V0FzcWFldHJ5V053LXhXbmZ5ekxfaDJGWWNtbnJ6eU5HOUdiMmdfSUZVM2F1OGtUZVhtUmhPWTF5UDhqaUJtYVZGT3VVTVEzTXRXSUotWUFCVTZJZnMxajh0ejhxZl9obFJ3aUxiaVJBeHhIMU9hNjdabk04VHMwSDhmdDJQN2lrbkFsOXJPN2VwMjh6MC1wTXJ5NlBPalk1eFpQY2RBS25yMUN6R21TX0JXRFZjbDV0QjdjZl9jREllcjdsTzQ1OU5fWW9wdDBjNVVlMG5CUEQ4ZmFtdk44OTdIeGFzbFgwTzNVZlN1UXVVYUpxVDBZUQ?oc=5>
+- 场馆: idcpc.org.cn
+- 时间: 2026-05-21 02:55
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBSSnNaZUVhRHdaUmlRdmFTVFBwMWxsckNnbGdBeFpHSmtXVEh2ZmQzdUZXVDFHTFY2bzFFRE1FZnpYWjBxOXI3d2hhbFM5RTQ2Y3VtelM2TnZGaHJUUlFYMnM4MnBwZWY1Uk52dlpWckM?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-21 04:51  (14 条)
+
+- **周杰伦** | 孙颖莎现身周杰伦演唱会，国际粉丝跨界追星 <https://k.sina.com.cn/article_6042105397_m16823363503301kalq.html>
+- **周杰伦** | 张杰、周杰伦、五月天演唱会门票在哪买?2026京津演出时间表来了 <https://k.sina.com.cn/article_7857201856_1d45362c001905qf9a.html>
+- **周杰伦** | 周杰伦2026年5月最新动态:鸟巢演唱会重磅定档 嘉年华巡演再创乐坛巅峰 <https://k.sina.com.cn/article_7857201856_1d45362c001905q3zq.html>
+- **周杰伦** | 新浪演唱会热点小时报丨2026年05月21日08时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001905q3do.html>
+- **特朗普** | 特朗普回应中俄元首会晤 <https://news.google.com/rss/articles/CBMiakFVX3lxTE1BMDhtUHlGNWN4Z1d2dUJZZkJVcVllSjVYRjEtVUppczFfNFAzMUpfQmp3ZF8yMU5HMUVyZi1nSGNsQ0JtNnlIRnJnUUs4RW1OVVdQZV8xN1V2aHVBYXVzR1lJcWZSQmJkcGc?oc=5>
+- **特朗普** | 特朗普称愿意多花几天等待伊朗最新回应 <https://news.google.com/rss/articles/CBMiYkFVX3lxTE5SdzNtRXlMTUZVOFIyc0g1TEc4cHN4Rm9Wc3A0N05fdHJLYXJ0Z0RDYm82bFBNZ050SEVOTmpYRHNvUmF2TldjMnktY0xSZWZtVDh3SlI1b05kWnI1Q0FWSnNB?oc=5>
+- **特朗普** | 特朗普说在伊朗问题上内塔尼亚胡“听我的” <https://news.google.com/rss/articles/CBMieEFVX3lxTE1ibDB6Uk1TdzV4dE8zN0FkTTVKaUY3bk5WREdXUlR6ZldOa0ZMazNiWFFRSXNvUkt2ZF9xeDdQbjBFclJVQzZYZURnREJrQ3VXc0ZCWWo5czExX2V0Y1pnX3hTRWtKMTBRYmdkcS0wRTZhdEhmMVRsZw?oc=5>
+- **特朗普** | 消息人士：内塔尼亚胡和特朗普通话后“气急败坏” <https://news.google.com/rss/articles/CBMif0FVX3lxTFBFb3VhdWpLR3dPMWFSMEtnV3psQkJHQTRyMlBsYjNYSndzUmFBLXNRSHlvVHhHNWRIVHNvVXdaZnR4LTNyM3VjWC1Oak1SYWNrcnRiNEQzNXh0NTNUYndLYllTUXhSUXhORldxQ3B0RXl3cVhadnc1dUs3SnBDWXM?oc=5>
+- **特朗普** | 特朗普：不要中国学生，那可太冒犯了 <https://news.google.com/rss/articles/CBMiakFVX3lxTE5xdk9JQ21UMUhrTzAtck92eHNGLUJuZDNWaThEOWRQXzF3Q0dDYnFsNXc4dDRkLVh4WnFIR1ROeXhRR3ZNVlYwWWZraFFQcEZDb3A1RHpOcTBLay0wMm9kVHdnZ1g3RnNKQWc?oc=5>
+- **特朗普** | 特朗普：我是以色列人气王，可以去竞选总理 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xcUxNblNEM2lxdkVObjI0b0JpT0s5b2tPNVVvWE5Kbk9PZkw4ajcwU19SNVVxb2oxNjRuNXl5QmF1enM2bXViTktWNks5NDRjU05oX2JNcE5xX3ROZElJdg?oc=5>
+- **特朗普** | 特朗普：我讨厌长得帅的男人 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE96WWJOSU53QTNScnVmemlrckItQ2dLUXlhRXBaOHZRUVNEX1hXTmhQTWhFSThCRkxlY21MQnVZd2lYb3BkTGZ6c1RJR3U?oc=5>
+- **特朗普** | “台湾所有芯片企业应该赴美设厂”，特朗普称台湾偷走美芯片产业：当年如果我当总统，台积电不会是业界龙头 <https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZFJ4dmpVRmlsVHFGYzFhM0tjT1FZdGFEXzJpZHRYWl9LMGNtOE9CVHBFX1BiakQyWWdCOHI0TWtRb3hNWnExczFLTDJCd0dCaE1SMDNRTVgzeTNDdl9nNENmNmRHQnZoWVdHWjNOcU5kQUhKdDFyc3BPTkIxS0IwX19QMlJVdVoxQWdoODF5VVpFNXo1clJ4dzNuSFFXNk9XOWR4aTN6M0xSUGd0RW9fMUpkOW9wR1dfYlVCajA2b3A2ZVgtY0xPcHBEUVVrNVE2?oc=5>
+- **特朗普** | 操纵油价，特朗普有一套！ <https://news.google.com/rss/articles/CBMiUkFVX3lxTE1MaGRwS0ptZURIMVNwdExRVEowR1AtWjRYQlJNYmo1bExXVy1MbkhFS0h3LWpialVnY2pmbk9KUUhTQkx3SXJMb0RVRk5ySlhBbmc?oc=5>
+- **特朗普** | 习近平同美国总统特朗普在中南海小范围会晤 <https://news.google.com/rss/articles/CBMicEFVX3lxTFBSSnNaZUVhRHdaUmlRdmFTVFBwMWxsckNnbGdBeFpHSmtXVEh2ZmQzdUZXVDFHTFY2bzFFRE1FZnpYWjBxOXI3d2hhbFM5RTQ2Y3VtelM2TnZGaHJUUlFYMnM4MnBwZWY1Uk52dlpWckM?oc=5>
 
 ### 2026-05-21 00:03  (8 条)
 
