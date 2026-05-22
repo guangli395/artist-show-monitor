@@ -1,104 +1,80 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-22 03:32**
-- 本轮扫到 1825 条, 新增 **12** 条
+- 最近更新: **2026-05-22 07:39**
+- 本轮扫到 1832 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (12 条)
+## 本轮新发现 (7 条)
 
-### 蔡徐坤演唱会拥抱粉丝小黄豆，台下互动引热议
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301bsh6.html>
-
-### 蔡徐坤品牌发布会遭骚扰，Bio-E道歉承认安保疏漏
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7096020439_v1a6f4add706801r4pc.html>
-
-### 告别秒空焦虑!周杰伦、谢霆锋、陶喆2026年演唱会抢票指南
+### 这是真爱粉 真正的杰瑞 周杰伦台北演唱会 下水道 粉丝 抽象
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905rrmg.html>
+- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301bslg.html>
 
-### 2004年电影头文字D发布会
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1720464350_m668c33de033019q6m.html>
-
-### 赖清德执政两週年：特朗普涉台发言带来什么冲击？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: DW.com
-- 时间: 2026-05-21 12:26
-- 链接: <https://news.google.com/rss/articles/CBMixAJBVV95cUxQcndUWFNxZEZnRjRvcFhqeVZlVXVOUUdtdmFpaVVpb1ozQ3R6c2M5QnFPMk01SV9XWVF0dXI1U0hfRktsQUVNZm9VMlNNT2tJWXJ5Z19IWVFmLVpXX1Z3TGwxVDBmcHJtbnUzc0pJc0hfcmtCOHF6MzMyTXlmZHJOTXVybmZKMk94Mi1CbEE2eDl0c2JxWkVzc0kzWkZWdlJla1NaZEZmZzlzaUxVSVJ1dFloYVpRMGFieE1ZOFpjRzBuWDdvdjdLanVCRkU2cm9XbHQ5VVF5VHNGdjdGelNxZy10U2p3UGIyUWpxRjBFY1VURWhBNHhtZG9SVG84aEVQUWlVOVYxSlp0NE9Xa2JUOG44MGVtZmxoR2Q5cUhZWU5qbjJuampFbzlzRjF1SE5JQ3NHd0x5ekRSU3BHcnE2X2JETV_SAcQCQVVfeXFMTll6VFQ0b1o4UmZvUzZYVkdhQUZjQ0ppOWNYMkNsUjJuazdoZ3owcHBRSGsxd3pTLTFwM29GQ25QNTJ3Vzg5RkM3VUh1UGE4b2pvUkVtUEcxN2p3NkJXdWJPbWFnWW5LNUdIT2lQLWNTTFRDTmZ4YlczcmRldkFOT1lIR25tMUx1RkRPXzBzQVVtc0VqdS1GTXdfR1FheXlhVnAybmFIbnYxbmUzQVE0bUdXdGFIN0UtRlRyMTRHYWUtTnBHS3VHN0ctYXdCa1ZqUnV1ZEFIT0s1MmNHcTRYTHE5QWk1bkZ4WHFCczBwOUdvcl9tVGowbC1SekxOYmwwRUxzTjhyMjdveFVsWjc5M2pZNzlBeXdSNzZwWFo3ZVJGZTkzZ0tEUThMOHdLUlE1Wm1VQWU5U3pVLTlfM1JIV1Axd3Vf?oc=5>
-
-### 特朗普：美众议院委员会通过夏令时永久化法案-观察者网
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: guancha.cn
-- 时间: 2026-05-22 00:30
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5VUFBSTW5IcTlUbTZiYnZrN2diZlMwNlFkcFBNZFlzTmpKU29uMWlDbV82UXNUX2lLeEY5YVNCYjFlQ2FoelBoMVZrdERsUkd0Tk1KNEFKcnk1Q0REdWw0Zk1ad3Ewd0N4UkE?oc=5>
-
-### 美众议院将表决一项决议：要求特朗普停止对伊朗军事行动
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-05-21 12:25
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE92RXNqM2hsdG1BQ2hwSDZRS1FsZ0duYTQ2VmpkbGNDU090Qk8zaTFjSENZOXY3NmhNZEh5aFhLWGpXcEZhWXVuelZpRVNRUHA3MmszeG9HVGstc3B0SFk5OXl0NEFnWThmUkhSaS1wbkVCczZ0cWNDZw?oc=5>
-
-### 美大使：特朗普已排除使用武力“接管”格陵兰岛的可能
+### 特朗普“凯旋门”方案获批
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 中国网新闻中心
-- 时间: 2026-05-22 00:41
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE5qMzhUakFreExxSUJFU05MbEVLbW1OdVBHMFhvN3BobjZ5VENoeFZ3VHJzVjBsTG5wNTA3VS1HX2M4YXRkazRUVTBHOTV3ZENPNmVIX2RfZ2hRZmxCZktuX2lkX0VWSXR2Ujk4?oc=5>
+- 时间: 2026-05-22 06:20
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTFBrSlpsMDB2aWRMSDM3U0RDXzRvemo0OExldm16SHZnOTBvaFNWSjZKZ19NWFNOVnMzb3VSOFJqUjlKcGJJeDBmRkVNNVlmRHBCb0RVaFNweE1uLWNkeVBpQ1NKQWhwckNFNGtv?oc=5>
 
-### 特朗普称将向波兰增派5000名美军
+### 特朗普宣布：美国将向波兰增派5000名士兵
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Sina finance
-- 时间: 2026-05-21 20:29
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5Fd3JkNzgxaUlINWxqMXRxVHdfVDdzQ2c0R2JKbWd4MnNPMmd0cF9mSW1YYUVON1hwbTNSRkV5aVMzb1J5MGRrTjEtWDRZQkN5X01QeTBFS0FZcVFiRWJTeDFHd1F5NVFCbXpBNUZGaHdrUVV2X1VCUg?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-05-22 02:37
+- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxQb3ZKNGZHUDRhN1BiQ3N0eHB5ai04b05HVnRodDdoeXVKb1NlWlJUYnNUd1lrMHQyWjhab2cwSlFiWmUzTHBtV1I4aktNV3p3VmVBQzhkNzlMWnFKbXdJU3NmNVJWenRGazl2cDNCSWI0MlpBSTlWWFBYX2VCR21pQ29mSQ?oc=5>
 
-### TRUMP/USDT
+### 特朗普宣布向波兰增兵5000人：我和波兰总统私交甚好
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-05-22 06:21
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqSWN4czZwbXI0ZEh5YTlVcDQtbjU0SlhZTjhxb2FMQ3JQWW9jNFRzanVZcHJoRXJuVlJEV1FCMXh1c05YUG9jMFdWNWdISklsZG8zeFFHOWRleDl3dDVCWg?oc=5>
+
+### 特朗普再威胁伊朗交出浓缩铀 称到手后或销毁
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-05-21 20:16
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE5oWEpGeDNJLXNVQlM0WGZOVnFpdndWeEstNUh2ZjJHY19QcHpfSk4wOVQxOWJOV21KTlpCcDFrSzdrNUhxalcwb3ZPM0JSb3JfT296VEtyc2xSZTktSXNIX1g4aTFwekZnRTdMUExhcG8xSW5Oa0tGZDFwR29HX3c?oc=5>
+
+### 特朗普再威胁伊朗交出浓缩铀 称到手后或销毁
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-22 04:21
+- 链接: <https://news.google.com/rss/articles/CBMiiAJBVV95cUxOaWczZ2xHT3NMelliQ0FyTlRSeDRhUG5WSHBfM2xXQ0ZscWxmbG1IdXFtRVpBNjBGTmRfS2NOOW5SSmdrel9BMWZ3LTJYUFJ6RWNxRm9hUjdjZ29FNnFvQVlfTVhTZ1BTQ3IzNTF5UUhVRWVLMEFWcThuQzItODNxejN5cWJjUF91amZNSXVWX3lVeTRPdVBWWUtYeGgtczJkUHBGVV9JT3NnZ0V6UEFtSkF5U1VVdUxsQ1B4S0NzTFJmTjl3bUFaclhCQUFSb05oay1fV05KMHpUS1pQM1l2QlpjMnFLdVBHU2xUR1hnQzF5Qk9IWkJFdlFneXNPZlNWbmNjMXZmSm8?oc=5>
+
+### T1 Trump Phone正式发货 金色外观配后置三摄
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Binance
-- 时间: 2026-05-22 03:26
-- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE1rNDFYOFNTQ21ra2xBYkE1ZjRpRVM3dFFJSElmNWpaVXJhUWxWSGFILVR6OHpxX1I4amluUURsNGZzbXljbV9pMjhxMHZMN2VYaklVUVBrU3Y2bFV1RDJ0dmZXdVo3UE5zdjBXX29pMWFHX0J3WjlIeGpPX0c?oc=5>
-
-### 头条：特朗普推迟人工智能行政令 称需要与中国竞争
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Australian Broadcasting Corporation
-- 时间: 2026-05-22 00:25
-- 链接: <https://news.google.com/rss/articles/CBMikAFBVV95cUxQd08tQU45cFE4bVFmaTJVZml1OWxVMmgySWFkQS1SaW1DWDNrYXdRal83RHlmbzN3QmlRcFVXc0R4bUpDTU9xY3lRdzU4QzM3LU5TSkVRWld1V0tXSFk5bHNTMkhCODJuamRkajB0WHRkQ2Q5ZnpyRlVjNXgzQWQ2Z0FTQkRJd09QdkNrX0VjRFk?oc=5>
-
-### 北京接连举行峰会背后的真实信息
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: The Business Times
-- 时间: 2026-05-22 01:50
-- 链接: <https://news.google.com/rss/articles/CBMipwFBVV95cUxOOVBRX0VHZVJuemd5c3RkcEo5RWFHU290ME5DMVRBWUZidmd5Ynp6azJoZFVYWGVUTTNZSFNlVFNZS0F5UktBSkVzOFJZSWo0YV9INGpobXR4THdRbEc0a0lXX2pvRHYya1pxVGNMWXdWVVFTNG9EeDNVTW9CN09LT0RmX21yUVFFWTZoRDJvdW03dWZTdEQwSktDQXZiclN1cUdBVTc2UQ?oc=5>
+- 场馆: 搜狐网
+- 时间: 2026-05-22 05:10
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRWx0UEZsd2EybDd3RGRXVS1RNzAxZFR0bVNIMV9pQVBtTVQxck1PQ2V2X050Z0MxUHRGQjRHMGFVekxwbzVVbVk5YnBwX0g3LTRwbnl2MTRVOVpsSVlDSEdNbF94VHhXeG1GSF80cmFQcFhhZjltUHY3XzFWaThVV21DSWtpUG5i?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-22 07:39  (7 条)
+
+- **周杰伦** | 这是真爱粉 真正的杰瑞 周杰伦台北演唱会 下水道 粉丝 抽象 <https://k.sina.com.cn/article_7879924009_m1d5ae192903301bslg.html>
+- **特朗普** | 特朗普“凯旋门”方案获批 <https://news.google.com/rss/articles/CBMia0FVX3lxTFBrSlpsMDB2aWRMSDM3U0RDXzRvemo0OExldm16SHZnOTBvaFNWSjZKZ19NWFNOVnMzb3VSOFJqUjlKcGJJeDBmRkVNNVlmRHBCb0RVaFNweE1uLWNkeVBpQ1NKQWhwckNFNGtv?oc=5>
+- **特朗普** | 特朗普宣布：美国将向波兰增派5000名士兵 <https://news.google.com/rss/articles/CBMigwFBVV95cUxQb3ZKNGZHUDRhN1BiQ3N0eHB5ai04b05HVnRodDdoeXVKb1NlWlJUYnNUd1lrMHQyWjhab2cwSlFiWmUzTHBtV1I4aktNV3p3VmVBQzhkNzlMWnFKbXdJU3NmNVJWenRGazl2cDNCSWI0MlpBSTlWWFBYX2VCR21pQ29mSQ?oc=5>
+- **特朗普** | 特朗普宣布向波兰增兵5000人：我和波兰总统私交甚好 <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqSWN4czZwbXI0ZEh5YTlVcDQtbjU0SlhZTjhxb2FMQ3JQWW9jNFRzanVZcHJoRXJuVlJEV1FCMXh1c05YUG9jMFdWNWdISklsZG8zeFFHOWRleDl3dDVCWg?oc=5>
+- **特朗普** | 特朗普再威胁伊朗交出浓缩铀 称到手后或销毁 <https://news.google.com/rss/articles/CBMif0FVX3lxTE5oWEpGeDNJLXNVQlM0WGZOVnFpdndWeEstNUh2ZjJHY19QcHpfSk4wOVQxOWJOV21KTlpCcDFrSzdrNUhxalcwb3ZPM0JSb3JfT296VEtyc2xSZTktSXNIX1g4aTFwekZnRTdMUExhcG8xSW5Oa0tGZDFwR29HX3c?oc=5>
+- **特朗普** | 特朗普再威胁伊朗交出浓缩铀 称到手后或销毁 <https://news.google.com/rss/articles/CBMiiAJBVV95cUxOaWczZ2xHT3NMelliQ0FyTlRSeDRhUG5WSHBfM2xXQ0ZscWxmbG1IdXFtRVpBNjBGTmRfS2NOOW5SSmdrel9BMWZ3LTJYUFJ6RWNxRm9hUjdjZ29FNnFvQVlfTVhTZ1BTQ3IzNTF5UUhVRWVLMEFWcThuQzItODNxejN5cWJjUF91amZNSXVWX3lVeTRPdVBWWUtYeGgtczJkUHBGVV9JT3NnZ0V6UEFtSkF5U1VVdUxsQ1B4S0NzTFJmTjl3bUFaclhCQUFSb05oay1fV05KMHpUS1pQM1l2QlpjMnFLdVBHU2xUR1hnQzF5Qk9IWkJFdlFneXNPZlNWbmNjMXZmSm8?oc=5>
+- **Trump** | T1 Trump Phone正式发货 金色外观配后置三摄 <https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRWx0UEZsd2EybDd3RGRXVS1RNzAxZFR0bVNIMV9pQVBtTVQxck1PQ2V2X050Z0MxUHRGQjRHMGFVekxwbzVVbVk5YnBwX0g3LTRwbnl2MTRVOVpsSVlDSEdNbF94VHhXeG1GSF80cmFQcFhhZjltUHY3XzFWaThVV21DSWtpUG5i?oc=5>
 
 ### 2026-05-22 03:32  (12 条)
 
