@@ -1,72 +1,119 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-21 23:57**
-- 本轮扫到 1813 条, 新增 **7** 条
+- 最近更新: **2026-05-22 03:32**
+- 本轮扫到 1825 条, 新增 **12** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (12 条)
 
-### 从细节中看“习特会”和“习普会”的异同
+### 蔡徐坤演唱会拥抱粉丝小黄豆，台下互动引热议
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301bsh6.html>
+
+### 蔡徐坤品牌发布会遭骚扰，Bio-E道歉承认安保疏漏
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7096020439_v1a6f4add706801r4pc.html>
+
+### 告别秒空焦虑!周杰伦、谢霆锋、陶喆2026年演唱会抢票指南
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905rrmg.html>
+
+### 2004年电影头文字D发布会
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1720464350_m668c33de033019q6m.html>
+
+### 赖清德执政两週年：特朗普涉台发言带来什么冲击？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: dw.com
-- 时间: 2026-05-21 16:03
-- 链接: <https://news.google.com/rss/articles/CBMi_AFBVV95cUxNMmFHY2RsS25HLUcwUFhIWEdRcDBWX1g5SWRHNjAwVmtYcGpGcmJqU201YTQ0emRhOUxUTmNwQ1VHU19rNXgyUmg4RGJDYlU5QW1hLV9xeG5UeV9pdl9IOEVJSVFHanZZaWZRSjVoa09HUTRnQnR1MHF3b0JyWTJfOVhpN2gyYzlVTWN5QnpIMlZiNGV2S2FUbWxfLWhuVjVHTFktOVQ1d0F1dU1nZVp5NVVrbTd6M0VKODRZYlhwMzdhN1NocV9NemJzLXhyZGFQZWJhY3A0N1FycmZFWm9BbXk0NV9UdGs2em9qc2ZIbTlaU0JaZXpIUWdVeVM?oc=5>
+- 场馆: DW.com
+- 时间: 2026-05-21 12:26
+- 链接: <https://news.google.com/rss/articles/CBMixAJBVV95cUxQcndUWFNxZEZnRjRvcFhqeVZlVXVOUUdtdmFpaVVpb1ozQ3R6c2M5QnFPMk01SV9XWVF0dXI1U0hfRktsQUVNZm9VMlNNT2tJWXJ5Z19IWVFmLVpXX1Z3TGwxVDBmcHJtbnUzc0pJc0hfcmtCOHF6MzMyTXlmZHJOTXVybmZKMk94Mi1CbEE2eDl0c2JxWkVzc0kzWkZWdlJla1NaZEZmZzlzaUxVSVJ1dFloYVpRMGFieE1ZOFpjRzBuWDdvdjdLanVCRkU2cm9XbHQ5VVF5VHNGdjdGelNxZy10U2p3UGIyUWpxRjBFY1VURWhBNHhtZG9SVG84aEVQUWlVOVYxSlp0NE9Xa2JUOG44MGVtZmxoR2Q5cUhZWU5qbjJuampFbzlzRjF1SE5JQ3NHd0x5ekRSU3BHcnE2X2JETV_SAcQCQVVfeXFMTll6VFQ0b1o4UmZvUzZYVkdhQUZjQ0ppOWNYMkNsUjJuazdoZ3owcHBRSGsxd3pTLTFwM29GQ25QNTJ3Vzg5RkM3VUh1UGE4b2pvUkVtUEcxN2p3NkJXdWJPbWFnWW5LNUdIT2lQLWNTTFRDTmZ4YlczcmRldkFOT1lIR25tMUx1RkRPXzBzQVVtc0VqdS1GTXdfR1FheXlhVnAybmFIbnYxbmUzQVE0bUdXdGFIN0UtRlRyMTRHYWUtTnBHS3VHN0ctYXdCa1ZqUnV1ZEFIT0s1MmNHcTRYTHE5QWk1bkZ4WHFCczBwOUdvcl9tVGowbC1SekxOYmwwRUxzTjhyMjdveFVsWjc5M2pZNzlBeXdSNzZwWFo3ZVJGZTkzZ0tEUThMOHdLUlE1Wm1VQWU5U3pVLTlfM1JIV1Axd3Vf?oc=5>
 
-### 特朗普称将与赖清德通话，台湾：“非常乐意”，但未接到通话讯息；中国：“坚决反对”
+### 特朗普：美众议院委员会通过夏令时永久化法案-观察者网
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-05-21 19:42
-- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxPak5fM0ZjYWVfem05QnNld0stNDMwYl9kYWUyRmpqRmY0TGpURHZ0aXotVmpuRnJHTW1Pb2JFN3ZCSExiYzhvcmJxSXpEenhEUS04aEF0ZFVuZGFUdGVQNlBnZUdJUjdpT3hWdmQ0bXJIWWU2czd5MFB4LU54MG1lV1lSWWpmaVBBUjYyNlU4WWdubUw3NHlVazZ2VE5DM2hLN2s5aHBRWWFaR1Q2VWkzenZpT041MFd0YlcxdkFhQWJVaUJlVUd1ZVYxWlA3LVpkR2fSAdQBQVVfeXFMT3Rfa2E3ZTJuYTZhYUtkd2FTOG1YUDFrSVNYV1R5WU5nV2hBZFVvMlNWTXVGYlltUmdYUXlBbjNQcDUwUm1sQUEzdEx5eDFTNUVmYU9HTmVmZE45aFIzbXhsZFc2d1JYZWEtM2w0OWo5OXNVTVNyd3JNMG9CdG4tdGVxUjI0al9TZlNrdFdLb1Y1MGpab2F1V0IxQzdrRDRjRlV6a2ZaeTYtcHdNd1RzWG9KeUNrSVhNdGJrVUR6WGJhUlZuT3R0dVI1MDBJOGIxRHo0c3Y?oc=5>
+- 场馆: guancha.cn
+- 时间: 2026-05-22 00:30
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5VUFBSTW5IcTlUbTZiYnZrN2diZlMwNlFkcFBNZFlzTmpKU29uMWlDbV82UXNUX2lLeEY5YVNCYjFlQ2FoelBoMVZrdERsUkd0Tk1KNEFKcnk1Q0REdWw0Zk1ad3Ewd0N4UkE?oc=5>
+
+### 美众议院将表决一项决议：要求特朗普停止对伊朗军事行动
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-05-21 12:25
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE92RXNqM2hsdG1BQ2hwSDZRS1FsZ0duYTQ2VmpkbGNDU090Qk8zaTFjSENZOXY3NmhNZEh5aFhLWGpXcEZhWXVuelZpRVNRUHA3MmszeG9HVGstc3B0SFk5OXl0NEFnWThmUkhSaS1wbkVCczZ0cWNDZw?oc=5>
+
+### 美大使：特朗普已排除使用武力“接管”格陵兰岛的可能
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中国网新闻中心
+- 时间: 2026-05-22 00:41
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE5qMzhUakFreExxSUJFU05MbEVLbW1OdVBHMFhvN3BobjZ5VENoeFZ3VHJzVjBsTG5wNTA3VS1HX2M4YXRkazRUVTBHOTV3ZENPNmVIX2RfZ2hRZmxCZktuX2lkX0VWSXR2Ujk4?oc=5>
 
 ### 特朗普称将向波兰增派5000名美军
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中国网新闻中心
-- 时间: 2026-05-21 23:07
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTFBQMnd2RzdTX1JkN0RoRnRWbjNablZ6SkhqZkd5U0lpQXIxaTZ4dUVzeXBJa3pvbXc2UmVRNld0blFVSlpBNkREaklVaW9LWk1WZDNLRHRIOG5xQVREQThxUkNkM25iemRvdFlV?oc=5>
+- 场馆: Sina finance
+- 时间: 2026-05-21 20:29
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5Fd3JkNzgxaUlINWxqMXRxVHdfVDdzQ2c0R2JKbWd4MnNPMmd0cF9mSW1YYUVON1hwbTNSRkV5aVMzb1J5MGRrTjEtWDRZQkN5X01QeTBFS0FZcVFiRWJTeDFHd1F5NVFCbXpBNUZGaHdrUVV2X1VCUg?oc=5>
 
-### 美国总统特朗普：今日......_7x24快讯_新浪财经
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-21 22:59
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9VWXUxcGZwVVdZSEgtb2plYWprbVFyUWNyMDA1RFEzVWVudzAwQnlzUng4NXYyYTlnNjVkY0wzdXA3THRkUER6TkVzRQ?oc=5>
-
-### 特朗普家族涉逃税遭司法部调查
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: video.sina.com.cn
-- 时间: 2026-05-21 23:46
-- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxPTmhEd2R2TE1wUWphMG5vSmNEa0dvU3REZXEweWVGbWhVRHE2VmpkbkU1NmM5cHdKdm53dkQwMDhIZDdZZUsxcThlMmo1cXluMVRaSFVyU1M0c04ybjV0TjFiSDJXMmFTUFRQMUlrVk92VWhDV3MxQ2ltR2FwQlJYRGh3?oc=5>
-
-### 美大使称特朗普放弃使用武力“接管”格陵兰岛
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-05-21 23:15
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE84aTFleVVPRnc5d3ZhOHFYXzMxRWUzcTJDQUI1V3hFMk51U2lsTTR5T3RsLU4yeFVhYkQ1Q04yYWZTMmtQZVdJbTdDdTVYZjM5a05kd092SExqZ1FRM1Y5SjFZemE?oc=5>
-
-### 美股指数自日内高位回落 因伊朗审视和平协议 但特朗普坚持德黑兰不得拥核
+### TRUMP/USDT
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: AASTOCKS.com
-- 时间: 2026-05-21 20:55
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE1qQ01DUGxMbzB3aEc4NmNXUkNqc2ZGRU9fSmc3ZnB1V01QdHRFSWV4ckJrUXlsYUFETGNnWG5ZRC1PTDk2TVhpVGdWd3BJVVdzcTVQdEQ0andMM2FtcTFlaERJNms2c2xOaVR4aXBfMA?oc=5>
+- 场馆: Binance
+- 时间: 2026-05-22 03:26
+- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE1rNDFYOFNTQ21ra2xBYkE1ZjRpRVM3dFFJSElmNWpaVXJhUWxWSGFILVR6OHpxX1I4amluUURsNGZzbXljbV9pMjhxMHZMN2VYaklVUVBrU3Y2bFV1RDJ0dmZXdVo3UE5zdjBXX29pMWFHX0J3WjlIeGpPX0c?oc=5>
+
+### 头条：特朗普推迟人工智能行政令 称需要与中国竞争
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Australian Broadcasting Corporation
+- 时间: 2026-05-22 00:25
+- 链接: <https://news.google.com/rss/articles/CBMikAFBVV95cUxQd08tQU45cFE4bVFmaTJVZml1OWxVMmgySWFkQS1SaW1DWDNrYXdRal83RHlmbzN3QmlRcFVXc0R4bUpDTU9xY3lRdzU4QzM3LU5TSkVRWld1V0tXSFk5bHNTMkhCODJuamRkajB0WHRkQ2Q5ZnpyRlVjNXgzQWQ2Z0FTQkRJd09QdkNrX0VjRFk?oc=5>
+
+### 北京接连举行峰会背后的真实信息
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: The Business Times
+- 时间: 2026-05-22 01:50
+- 链接: <https://news.google.com/rss/articles/CBMipwFBVV95cUxOOVBRX0VHZVJuemd5c3RkcEo5RWFHU290ME5DMVRBWUZidmd5Ynp6azJoZFVYWGVUTTNZSFNlVFNZS0F5UktBSkVzOFJZSWo0YV9INGpobXR4THdRbEc0a0lXX2pvRHYya1pxVGNMWXdWVVFTNG9EeDNVTW9CN09LT0RmX21yUVFFWTZoRDJvdW03dWZTdEQwSktDQXZiclN1cUdBVTc2UQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-22 03:32  (12 条)
+
+- **蔡徐坤** | 蔡徐坤演唱会拥抱粉丝小黄豆，台下互动引热议 <https://k.sina.com.cn/article_7879924009_m1d5ae192903301bsh6.html>
+- **蔡徐坤** | 蔡徐坤品牌发布会遭骚扰，Bio-E道歉承认安保疏漏 <https://k.sina.com.cn/article_7096020439_v1a6f4add706801r4pc.html>
+- **周杰伦** | 告别秒空焦虑!周杰伦、谢霆锋、陶喆2026年演唱会抢票指南 <https://k.sina.com.cn/article_7857201856_1d45362c001905rrmg.html>
+- **周杰伦** | 2004年电影头文字D发布会 <https://k.sina.com.cn/article_1720464350_m668c33de033019q6m.html>
+- **特朗普** | 赖清德执政两週年：特朗普涉台发言带来什么冲击？ <https://news.google.com/rss/articles/CBMixAJBVV95cUxQcndUWFNxZEZnRjRvcFhqeVZlVXVOUUdtdmFpaVVpb1ozQ3R6c2M5QnFPMk01SV9XWVF0dXI1U0hfRktsQUVNZm9VMlNNT2tJWXJ5Z19IWVFmLVpXX1Z3TGwxVDBmcHJtbnUzc0pJc0hfcmtCOHF6MzMyTXlmZHJOTXVybmZKMk94Mi1CbEE2eDl0c2JxWkVzc0kzWkZWdlJla1NaZEZmZzlzaUxVSVJ1dFloYVpRMGFieE1ZOFpjRzBuWDdvdjdLanVCRkU2cm9XbHQ5VVF5VHNGdjdGelNxZy10U2p3UGIyUWpxRjBFY1VURWhBNHhtZG9SVG84aEVQUWlVOVYxSlp0NE9Xa2JUOG44MGVtZmxoR2Q5cUhZWU5qbjJuampFbzlzRjF1SE5JQ3NHd0x5ekRSU3BHcnE2X2JETV_SAcQCQVVfeXFMTll6VFQ0b1o4UmZvUzZYVkdhQUZjQ0ppOWNYMkNsUjJuazdoZ3owcHBRSGsxd3pTLTFwM29GQ25QNTJ3Vzg5RkM3VUh1UGE4b2pvUkVtUEcxN2p3NkJXdWJPbWFnWW5LNUdIT2lQLWNTTFRDTmZ4YlczcmRldkFOT1lIR25tMUx1RkRPXzBzQVVtc0VqdS1GTXdfR1FheXlhVnAybmFIbnYxbmUzQVE0bUdXdGFIN0UtRlRyMTRHYWUtTnBHS3VHN0ctYXdCa1ZqUnV1ZEFIT0s1MmNHcTRYTHE5QWk1bkZ4WHFCczBwOUdvcl9tVGowbC1SekxOYmwwRUxzTjhyMjdveFVsWjc5M2pZNzlBeXdSNzZwWFo3ZVJGZTkzZ0tEUThMOHdLUlE1Wm1VQWU5U3pVLTlfM1JIV1Axd3Vf?oc=5>
+- **特朗普** | 特朗普：美众议院委员会通过夏令时永久化法案-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE5VUFBSTW5IcTlUbTZiYnZrN2diZlMwNlFkcFBNZFlzTmpKU29uMWlDbV82UXNUX2lLeEY5YVNCYjFlQ2FoelBoMVZrdERsUkd0Tk1KNEFKcnk1Q0REdWw0Zk1ad3Ewd0N4UkE?oc=5>
+- **特朗普** | 美众议院将表决一项决议：要求特朗普停止对伊朗军事行动 <https://news.google.com/rss/articles/CBMieEFVX3lxTE92RXNqM2hsdG1BQ2hwSDZRS1FsZ0duYTQ2VmpkbGNDU090Qk8zaTFjSENZOXY3NmhNZEh5aFhLWGpXcEZhWXVuelZpRVNRUHA3MmszeG9HVGstc3B0SFk5OXl0NEFnWThmUkhSaS1wbkVCczZ0cWNDZw?oc=5>
+- **特朗普** | 美大使：特朗普已排除使用武力“接管”格陵兰岛的可能 <https://news.google.com/rss/articles/CBMia0FVX3lxTE5qMzhUakFreExxSUJFU05MbEVLbW1OdVBHMFhvN3BobjZ5VENoeFZ3VHJzVjBsTG5wNTA3VS1HX2M4YXRkazRUVTBHOTV3ZENPNmVIX2RfZ2hRZmxCZktuX2lkX0VWSXR2Ujk4?oc=5>
+- **特朗普** | 特朗普称将向波兰增派5000名美军 <https://news.google.com/rss/articles/CBMieEFVX3lxTE5Fd3JkNzgxaUlINWxqMXRxVHdfVDdzQ2c0R2JKbWd4MnNPMmd0cF9mSW1YYUVON1hwbTNSRkV5aVMzb1J5MGRrTjEtWDRZQkN5X01QeTBFS0FZcVFiRWJTeDFHd1F5NVFCbXpBNUZGaHdrUVV2X1VCUg?oc=5>
+- **Trump** | TRUMP/USDT <https://news.google.com/rss/articles/CBMifEFVX3lxTE1rNDFYOFNTQ21ra2xBYkE1ZjRpRVM3dFFJSElmNWpaVXJhUWxWSGFILVR6OHpxX1I4amluUURsNGZzbXljbV9pMjhxMHZMN2VYaklVUVBrU3Y2bFV1RDJ0dmZXdVo3UE5zdjBXX29pMWFHX0J3WjlIeGpPX0c?oc=5>
+- **Trump** | 头条：特朗普推迟人工智能行政令 称需要与中国竞争 <https://news.google.com/rss/articles/CBMikAFBVV95cUxQd08tQU45cFE4bVFmaTJVZml1OWxVMmgySWFkQS1SaW1DWDNrYXdRal83RHlmbzN3QmlRcFVXc0R4bUpDTU9xY3lRdzU4QzM3LU5TSkVRWld1V0tXSFk5bHNTMkhCODJuamRkajB0WHRkQ2Q5ZnpyRlVjNXgzQWQ2Z0FTQkRJd09QdkNrX0VjRFk?oc=5>
+- **Trump** | 北京接连举行峰会背后的真实信息 <https://news.google.com/rss/articles/CBMipwFBVV95cUxOOVBRX0VHZVJuemd5c3RkcEo5RWFHU290ME5DMVRBWUZidmd5Ynp6azJoZFVYWGVUTTNZSFNlVFNZS0F5UktBSkVzOFJZSWo0YV9INGpobXR4THdRbEc0a0lXX2pvRHYya1pxVGNMWXdWVVFTNG9EeDNVTW9CN09LT0RmX21yUVFFWTZoRDJvdW03dWZTdEQwSktDQXZiclN1cUdBVTc2UQ?oc=5>
 
 ### 2026-05-21 23:57  (7 条)
 
