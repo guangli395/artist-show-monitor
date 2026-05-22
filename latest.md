@@ -1,62 +1,91 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-22 18:14**
-- 本轮扫到 1863 条, 新增 **6** 条
+- 最近更新: **2026-05-22 20:17**
+- 本轮扫到 1871 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (8 条)
 
-### 温州演唱会惊现周杰伦腹肌照 是魔天伦啦，不过确实挺想看现在的杰伦露腹肌噢
+### 忧削弱美国对中优势 特朗普暂缓签署AI监管新规
 
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002l63c.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: dw.com
+- 时间: 2026-05-22 05:49
+- 链接: <https://news.google.com/rss/articles/CBMivAJBVV95cUxNVDg3TTdTTEFjWHViTVpnRzlGWDhaWXAyN0RSWTBMYkdQaW9ibk5VakhOMmRON2hrdlp2NktoOW5LejRtTkhUNmpmakVURW1OVW1yTWtiX2ctZGwyMXQtZi1HQjhpaG5vcWZJNUFrTkdjdkJTbC1RbzdaZVdEdXlWMEFtbFVGdUVpZU1wcVlBN1Y4WEdTanh1WjhHcmZvRTA5a0k5V0luR2l0bEdoVHNNMmg0OVNmd2RqakdINTRlZDUtMThpYmZpMG9zWDZMTkxCQUdnWlNhaVdJS3pZNGk5V0haTldJS2UtcnRWZkNvU2Q0enhhN19xS1BBRFlVdGxudnF3ZkJoSjFlb1lPM0JycUM3cDJZNy12cm5kLVJ2OUJUd3ZiZ2Z1dUV0U1lmVHc0RFRTUTJ3OUdJQ1VZ0gG8AkFVX3lxTE9IQTNheXVJS1FTbFFFV0FjVW9SQWgycE1hUC1wejM2dmtMSXZUWGh2b1Q4UnA4OW9sVXBFdGZ1MlFMWUdaa3Q0aUR1N21TS1VxUnp6c01YNzRxNWdveUZvNF9VMnFvVXZfQV9MYjlEQ2ZqaEo3TVZWaHRTM2JiSm9PUFlhYkJfZ3czV2lIZnhpbGlKRXVPVkNDVVN1RS1KYVlOaHBnUG55QzhOUTdfbXg0aU9CbGpNRlFoRkdkRFkwZFdzXzFGRFhvYVpSSXFheHBvWlowcUozSGxxdXBsYlZnSjcteHRqZnRibVBjRVJsUm9pOWhYMkpFaDZnaUE2X2VEakdnRFM2Y3Q1X2FMWFNCQkFjR3hWd1lJdUEtZVVYVl8xSmVOYzlVSkNrTUo1N1JvaGVHeWZpMjMwSms?oc=5>
 
 ### 特朗普告诉沃什：在美联储“按自己的方式行事”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
+- 时间: 2026-05-22 16:33
+- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxNMmFWNGhWakdTYnp5REk4OXllblE4ak5nZDJiNGFuQ1hmcEw0V2hiXzVraFJRekJPdGxTaGp1RlVZSzUtY1d3M2hUMlk1eVpBMm9iS201NV9OanRyQndGbFNBbU80Q1pwbFUyMm9wRTFoMy1MRlhsRDB0TEVPend5dy0xc1IzVmN2Znc?oc=5>
+
+### 特朗普主持沃什就任美联储主席仪式
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
 - 时间: 2026-05-22 16:31
-- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMWZMQ1BZOG5rU3JsMUlRdTZxUVdvRkZoVDJBRFJDZHNnMTVrVDdUMFlmY2xtQmE1aEdBTkdBSW1jOGl1Szc3ZFpIeEF4TE1Bam1MTVEzRGJlOFg5bEVsNGRzWVQ5VGZiRzFCbUNRS01FdjVDLTBETjVlNUVZOWJjYzR3a0IwcDdNOU5VUmJGNElKdTBnZUlsbTNZMzhWZmd1WWhxR1diaEVTUQ?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTFBiOGVEdDdpdkdVOHBIc3lmdkZFWU43Tm5SLV81UXFwSWRNNDBfeVlUUzROVVd6VWFEQjBOYy1DeFBTUGUwQjRubQ?oc=5>
 
-### 特朗普：我们拥有全球最强军队，计划将国防预算提升至 1.5 万亿美元。
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-22 16:08
-- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE9MaXlNVlFEWk5WV1Zuelk5X21aSU5hY0FzUkFuVXFkZkhwR29RYzJXSWRaWVZ6RXZkU21FemN6ZUtlMUh2bjBERVFqUHdWUlE?oc=5>
-
-### 特朗普考虑对古巴采取行动古巴强硬表态|唐纳德·特朗普|马尔科·鲁比奥|美国总统|达成协议|卡内尔_手机新浪网
+### 特朗普任命沃什意在降息，市场却预判政策或将反向收紧
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-22 16:58
-- 链接: <https://news.google.com/rss/articles/CBMi_wFBVV95cUxPZjFjYkpPWk1xelRwWVFNcjVOYXlJcVJnU2JvT0lrdmxNSXBvczhPLUFRRVRDZENZQ1pJZGlUd3hhYW1rTzIxYzBjUjk4bXdDTTBTb1JsN3RYeWIwb3NVTFJlNk1PTHItOE9oLUNwODJuVFpRZk5qUXVLWTNHb01qdTRTcjZNazVmc1cyM3M3TF9Ja0UxUEZPVms2cTZjYzA2VjdlNjdwM0QzSkQtV1R3X2pEbjk3QWhpdDEwZWhGVzFaRjNlUzNGTnFKVUtTNXI5ZzA0anZLZDB6dFF4ME1FTm9xcElGYmxfckRMQzB0aFRnUmtaMjZJWE5telVJYWs?oc=5>
+- 时间: 2026-05-22 17:13
+- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxQalFGS1l3YV92R0plcnJsTW1VajloRmNYekhnZEtQa2EtY1lnNGlhMG5CZEhQOWNNOXIwQ3NWM2xudmY1SlcyTllnWFg4OHIxRFBPWDRlSG1LeHZYNXN3TXFweGFzTmVkT1VlRW5SMDZrZkFHNXVMeE4zemk3UnJkV1ZsaDhKQkZ4SThSTUF2eEc5ZDRvTUNEcHJOb19xZ1Mycjh2ZnNQWm9Fdw?oc=5>
 
-### 特朗普品牌运营商Trump Mobile确认客户个人信息曾被暴露在互联网上- 通信运营商
+### 特朗普政府新规 临时签证持有人须返国申请绿卡
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-05-22 18:32
+- 链接: <https://news.google.com/rss/articles/CBMi3AJBVV95cUxNLUotTXNOYVFIODRmQm1jTzFDN05mTnJDTHQwNUNTUXBRUWExaEF5WF9rd3Q3RllIOFBKTjdBSzZKU2Ezekg2NTEza01NVGN0NXVjOGVvLVdseEZJMEZIeWJsbWZmai1ZTzZLNnUycm5HVEVEN3VLUF9GWnBfenJSWm9tMzBIc3NMOUxvNFZMeGp2bERDdnhtTnVhNTg3WDlZM3JvQXpaZVhvejFvUENQazJDSGVRWldKaTVmLWtwaktpWWZlaGwtc1EyaEhBQ0R5Sk1CRGVWb2ZSSVpiVU5Uc25OVHFBeFJmMXhiZHJ2ekxiNk95azZ5R1N4MG53UWhlNElOOV96eC1qTTJ3M255SU5SRVlJYk12STBVV3dXQ1piLXl3R1ZIOU13RExaUlViWGJpWG9LdC01NFFzRGwtUVpqdGcyblQ2bXV2X0NGY0VqU2lJeEttR0Q1MHo?oc=5>
+
+### 特朗普：将在这段重要时期留在华盛顿特区。
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-22 17:12
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE15YzZEY0hnWS1WTmg0VWE5M3NDUGRuSDNtNEw2WVRvak5zcVNmOFN5MGxPZEN6aWxzS3V6czNqNFkxWDJRZWgzQmx6VQ?oc=5>
+
+### 特朗普拟在首都建“凯旋门” 方案获批
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 央视网
+- 时间: 2026-05-22 05:20
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1jbWJ2M3lYd0lXb1JqRk1Id3pGWlR2X3lQZ2g0eXprVVpYS0JOQ250ZUx4ZjVMSFYyYU5PRExtSTN5RjBXWlA2SHNzaTA2dC1lTjRmamljUTZvdThoQ1ljWURxN3pGa3d2M1VzbFM4Z1FDT2NiSkNUNQ?oc=5>
+
+### TRUMP/USDT
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: cnBeta.COM
-- 时间: 2026-05-22 16:39
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE0yQ1NzeDFXM2N0UmRlazRhZDB6MEE2Y3dFRFJ5aGxRemIxSHhFaXB3SGsyd0NXV2dzNDEzX2dRa1JBZVRQUkhfYnhHNVJCclhrMDBoS2JJRjg0anJBNGFSMg?oc=5>
-
-### Trump Admin Grants Reinforce IBM's Quantum Computing Leadership -- Market Talk
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-05-22 15:55
-- 链接: <https://news.google.com/rss/articles/CBMiuAFBVV95cUxQc205RHRpMGcyNTFyZDBCcWdrUnRyX2VLYTlVVXdkYjBqSGM1TkFyR01GeUhaWE5vMlpxT2pJQXdYTnZjb3JfMkJ4TzgxZ0FWOGlUWWhoa3dCNVlqSFFQN1JLWGlQNHZHQVhEaDBUVVVhX1dUWmlWY3RNSmZ0MWxRN0U5dFJLTVpENGczcFlIZHlIY3UzSU5oMUY4V3ExSmtfREIzWlFsdmxXZHRoZTRfMmdwWWRVWGpp?oc=5>
+- 场馆: Binance
+- 时间: 2026-05-22 16:55
+- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE5sLUdVOTlydDd3bVU1cy1jSl9JcVRldG5yRm1nZnBjR01DdloxU0prSUI4OHJ0aFAxazBwMXZLWGp0VkdYNkluazNhTVlnejFsN0RqVlk0WFdUZVh6R2hoaWoydDBTNUkwMVRyUk5ZMW1oM3JFVHRBNEx2YVI?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-22 20:17  (8 条)
+
+- **特朗普** | 忧削弱美国对中优势 特朗普暂缓签署AI监管新规 <https://news.google.com/rss/articles/CBMivAJBVV95cUxNVDg3TTdTTEFjWHViTVpnRzlGWDhaWXAyN0RSWTBMYkdQaW9ibk5VakhOMmRON2hrdlp2NktoOW5LejRtTkhUNmpmakVURW1OVW1yTWtiX2ctZGwyMXQtZi1HQjhpaG5vcWZJNUFrTkdjdkJTbC1RbzdaZVdEdXlWMEFtbFVGdUVpZU1wcVlBN1Y4WEdTanh1WjhHcmZvRTA5a0k5V0luR2l0bEdoVHNNMmg0OVNmd2RqakdINTRlZDUtMThpYmZpMG9zWDZMTkxCQUdnWlNhaVdJS3pZNGk5V0haTldJS2UtcnRWZkNvU2Q0enhhN19xS1BBRFlVdGxudnF3ZkJoSjFlb1lPM0JycUM3cDJZNy12cm5kLVJ2OUJUd3ZiZ2Z1dUV0U1lmVHc0RFRTUTJ3OUdJQ1VZ0gG8AkFVX3lxTE9IQTNheXVJS1FTbFFFV0FjVW9SQWgycE1hUC1wejM2dmtMSXZUWGh2b1Q4UnA4OW9sVXBFdGZ1MlFMWUdaa3Q0aUR1N21TS1VxUnp6c01YNzRxNWdveUZvNF9VMnFvVXZfQV9MYjlEQ2ZqaEo3TVZWaHRTM2JiSm9PUFlhYkJfZ3czV2lIZnhpbGlKRXVPVkNDVVN1RS1KYVlOaHBnUG55QzhOUTdfbXg0aU9CbGpNRlFoRkdkRFkwZFdzXzFGRFhvYVpSSXFheHBvWlowcUozSGxxdXBsYlZnSjcteHRqZnRibVBjRVJsUm9pOWhYMkpFaDZnaUE2X2VEakdnRFM2Y3Q1X2FMWFNCQkFjR3hWd1lJdUEtZVVYVl8xSmVOYzlVSkNrTUo1N1JvaGVHeWZpMjMwSms?oc=5>
+- **特朗普** | 特朗普告诉沃什：在美联储“按自己的方式行事” <https://news.google.com/rss/articles/CBMiigFBVV95cUxNMmFWNGhWakdTYnp5REk4OXllblE4ak5nZDJiNGFuQ1hmcEw0V2hiXzVraFJRekJPdGxTaGp1RlVZSzUtY1d3M2hUMlk1eVpBMm9iS201NV9OanRyQndGbFNBbU80Q1pwbFUyMm9wRTFoMy1MRlhsRDB0TEVPend5dy0xc1IzVmN2Znc?oc=5>
+- **特朗普** | 特朗普主持沃什就任美联储主席仪式 <https://news.google.com/rss/articles/CBMiSEFVX3lxTFBiOGVEdDdpdkdVOHBIc3lmdkZFWU43Tm5SLV81UXFwSWRNNDBfeVlUUzROVVd6VWFEQjBOYy1DeFBTUGUwQjRubQ?oc=5>
+- **特朗普** | 特朗普任命沃什意在降息，市场却预判政策或将反向收紧 <https://news.google.com/rss/articles/CBMiqgFBVV95cUxQalFGS1l3YV92R0plcnJsTW1VajloRmNYekhnZEtQa2EtY1lnNGlhMG5CZEhQOWNNOXIwQ3NWM2xudmY1SlcyTllnWFg4OHIxRFBPWDRlSG1LeHZYNXN3TXFweGFzTmVkT1VlRW5SMDZrZkFHNXVMeE4zemk3UnJkV1ZsaDhKQkZ4SThSTUF2eEc5ZDRvTUNEcHJOb19xZ1Mycjh2ZnNQWm9Fdw?oc=5>
+- **特朗普** | 特朗普政府新规 临时签证持有人须返国申请绿卡 <https://news.google.com/rss/articles/CBMi3AJBVV95cUxNLUotTXNOYVFIODRmQm1jTzFDN05mTnJDTHQwNUNTUXBRUWExaEF5WF9rd3Q3RllIOFBKTjdBSzZKU2Ezekg2NTEza01NVGN0NXVjOGVvLVdseEZJMEZIeWJsbWZmai1ZTzZLNnUycm5HVEVEN3VLUF9GWnBfenJSWm9tMzBIc3NMOUxvNFZMeGp2bERDdnhtTnVhNTg3WDlZM3JvQXpaZVhvejFvUENQazJDSGVRWldKaTVmLWtwaktpWWZlaGwtc1EyaEhBQ0R5Sk1CRGVWb2ZSSVpiVU5Uc25OVHFBeFJmMXhiZHJ2ekxiNk95azZ5R1N4MG53UWhlNElOOV96eC1qTTJ3M255SU5SRVlJYk12STBVV3dXQ1piLXl3R1ZIOU13RExaUlViWGJpWG9LdC01NFFzRGwtUVpqdGcyblQ2bXV2X0NGY0VqU2lJeEttR0Q1MHo?oc=5>
+- **特朗普** | 特朗普：将在这段重要时期留在华盛顿特区。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE15YzZEY0hnWS1WTmg0VWE5M3NDUGRuSDNtNEw2WVRvak5zcVNmOFN5MGxPZEN6aWxzS3V6czNqNFkxWDJRZWgzQmx6VQ?oc=5>
+- **特朗普** | 特朗普拟在首都建“凯旋门” 方案获批 <https://news.google.com/rss/articles/CBMieEFVX3lxTE1jbWJ2M3lYd0lXb1JqRk1Id3pGWlR2X3lQZ2g0eXprVVpYS0JOQ250ZUx4ZjVMSFYyYU5PRExtSTN5RjBXWlA2SHNzaTA2dC1lTjRmamljUTZvdThoQ1ljWURxN3pGa3d2M1VzbFM4Z1FDT2NiSkNUNQ?oc=5>
+- **Trump** | TRUMP/USDT <https://news.google.com/rss/articles/CBMifEFVX3lxTE5sLUdVOTlydDd3bVU1cy1jSl9JcVRldG5yRm1nZnBjR01DdloxU0prSUI4OHJ0aFAxazBwMXZLWGp0VkdYNkluazNhTVlnejFsN0RqVlk0WFdUZVh6R2hoaWoydDBTNUkwMVRyUk5ZMW1oM3JFVHRBNEx2YVI?oc=5>
 
 ### 2026-05-22 18:14  (6 条)
 
