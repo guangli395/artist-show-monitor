@@ -1,41 +1,35 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-22 07:39**
-- 本轮扫到 1832 条, 新增 **7** 条
+- 最近更新: **2026-05-22 10:45**
+- 本轮扫到 1839 条, 新增 **7** 条
 
 ---
 
 ## 本轮新发现 (7 条)
 
-### 这是真爱粉 真正的杰瑞 周杰伦台北演唱会 下水道 粉丝 抽象
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301bslg.html>
-
-### 特朗普“凯旋门”方案获批
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中国网新闻中心
-- 时间: 2026-05-22 06:20
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTFBrSlpsMDB2aWRMSDM3U0RDXzRvemo0OExldm16SHZnOTBvaFNWSjZKZ19NWFNOVnMzb3VSOFJqUjlKcGJJeDBmRkVNNVlmRHBCb0RVaFNweE1uLWNkeVBpQ1NKQWhwckNFNGtv?oc=5>
-
-### 特朗普宣布：美国将向波兰增派5000名士兵
+### 特朗普：不要中国学生，那可太冒犯了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-05-22 02:37
-- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxQb3ZKNGZHUDRhN1BiQ3N0eHB5ai04b05HVnRodDdoeXVKb1NlWlJUYnNUd1lrMHQyWjhab2cwSlFiWmUzTHBtV1I4aktNV3p3VmVBQzhkNzlMWnFKbXdJU3NmNVJWenRGazl2cDNCSWI0MlpBSTlWWFBYX2VCR21pQ29mSQ?oc=5>
+- 时间: 2026-05-21 04:58
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1ubUR6VTRHWFBJNC1tUVY3OEs3U2QzSV9ETDU5SkpFUUJQVFI4N0ZIYlhqYmktTlc1QktQSG5WN0w1eEExUXpmWTYzV08tM3cyRHhjUnlPbXktZ0FhaFo4di1VZ2Q0MUZwSXF6ZU5mODc?oc=5>
 
-### 特朗普宣布向波兰增兵5000人：我和波兰总统私交甚好
+### 特朗普拟在首都建“凯旋门” 方案获批
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-05-22 06:21
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqSWN4czZwbXI0ZEh5YTlVcDQtbjU0SlhZTjhxb2FMQ3JQWW9jNFRzanVZcHJoRXJuVlJEV1FCMXh1c05YUG9jMFdWNWdISklsZG8zeFFHOWRleDl3dDVCWg?oc=5>
+- 场馆: 中国日报网
+- 时间: 2026-05-22 05:52
+- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTFBwZDduZWxmZGVhempUa0hGRl94NUt4VloyY1ZXb2xTZDBqRGdQMEI2ZUlqUW14YnFTblk4ODVQakdoeWwxWmFMOERYd0t5bUhEbDBxdUdMV1JvZlJMWVpCWnlYSXdsT3N2aVNaYk9OTnEyT0IyNEZZSU1hTQ?oc=5>
+
+### 两岸圆桌派｜金灿荣、唐湘龙：日本、“台独”遭特朗普当头棒喝
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察
+- 时间: 2026-05-22 05:17
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hTW1GeGthcFVYNGhVeWFEYlYtMTI3cHFnZFVnYjhVQmx5SUtzMkt0UnBPWnpNQkdhVURMVG1kR1NoM3QyVW85NVdoZS05REt2dW8tcGFIYzRHY0E1eVVubXRGNFBtT0d4?oc=5>
 
 ### 特朗普再威胁伊朗交出浓缩铀 称到手后或销毁
 
@@ -43,28 +37,46 @@
 - 来源: `googlenews`
 - 场馆: 新华网
 - 时间: 2026-05-21 20:16
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE5oWEpGeDNJLXNVQlM0WGZOVnFpdndWeEstNUh2ZjJHY19QcHpfSk4wOVQxOWJOV21KTlpCcDFrSzdrNUhxalcwb3ZPM0JSb3JfT296VEtyc2xSZTktSXNIX1g4aTFwekZnRTdMUExhcG8xSW5Oa0tGZDFwR29HX3c?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMid0FVX3lxTE14M1NmWWQ4THVPbURxNi1jNW5YbkRGQlI5cGJRNUtUQXRqSUJxcHJ5WEdCa0J2RU1GQ25tYlJlWTJBdmUzT1kwZ3BzaEpxQ2hzckF5YWdFQ1FpVjVBX1NfWm1aeXRnX3BsZ2hWVFk0aUc4M1JEQWl3?oc=5>
 
-### 特朗普再威胁伊朗交出浓缩铀 称到手后或销毁
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-22 04:21
-- 链接: <https://news.google.com/rss/articles/CBMiiAJBVV95cUxOaWczZ2xHT3NMelliQ0FyTlRSeDRhUG5WSHBfM2xXQ0ZscWxmbG1IdXFtRVpBNjBGTmRfS2NOOW5SSmdrel9BMWZ3LTJYUFJ6RWNxRm9hUjdjZ29FNnFvQVlfTVhTZ1BTQ3IzNTF5UUhVRWVLMEFWcThuQzItODNxejN5cWJjUF91amZNSXVWX3lVeTRPdVBWWUtYeGgtczJkUHBGVV9JT3NnZ0V6UEFtSkF5U1VVdUxsQ1B4S0NzTFJmTjl3bUFaclhCQUFSb05oay1fV05KMHpUS1pQM1l2QlpjMnFLdVBHU2xUR1hnQzF5Qk9IWkJFdlFneXNPZlNWbmNjMXZmSm8?oc=5>
-
-### T1 Trump Phone正式发货 金色外观配后置三摄
+### TRUMP/USDT
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-05-22 05:10
-- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRWx0UEZsd2EybDd3RGRXVS1RNzAxZFR0bVNIMV9pQVBtTVQxck1PQ2V2X050Z0MxUHRGQjRHMGFVekxwbzVVbVk5YnBwX0g3LTRwbnl2MTRVOVpsSVlDSEdNbF94VHhXeG1GSF80cmFQcFhhZjltUHY3XzFWaThVV21DSWtpUG5i?oc=5>
+- 场馆: Binance
+- 时间: 2026-05-22 08:18
+- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTE5mOVgtNThqNzVVV2dXbDcxcEJySS0xNXJuWV9wSzVNUmJHWVVFWjN0bTl4YWRtQVR1dGlZOG13WWpKVHpGbmN5aDdDLXN3cmRVQnFuanZpUW9BbG1RVFFxUzFVQTcweWg0Z2lDb20wcTNQODFvd0pzTlF2QQ?oc=5>
+
+### 特朗普称美国将向波兰增派5,000名军人
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: AASTOCKS.com
+- 时间: 2026-05-22 10:00
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE5vSG9SYzhOWHBwdUh4V1dXSUNmZzhhcDkwTmw1d3RqWVhTSk1sd3lEQVNkUWJOeUpfaTIzSEloYUFsbkFwc0V5R1U2alVfaEJjRG5WbWtVbGVzc254SlMtSm1FT2R6QllJV0NfVVB6SQ?oc=5>
+
+### Trump 指若短期内未达成协议将对伊朗作出「重大打击」
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: AASTOCKS.com
+- 时间: 2026-05-19 23:49
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTFB2a2M5eXZEcW4xcGE3N19sT2VRdXhyQlFDUERCdFRvd1Fnc1lERkRhNFBTSnFDY01oTUo2UkxJMVJIbEsyUTdmTGRoQzhhUTRqV2RWdHpWbGdfV24wckVpaFVwbFJxc25TOFlGWXhkQQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-22 10:45  (7 条)
+
+- **特朗普** | 特朗普：不要中国学生，那可太冒犯了 <https://news.google.com/rss/articles/CBMicEFVX3lxTE1ubUR6VTRHWFBJNC1tUVY3OEs3U2QzSV9ETDU5SkpFUUJQVFI4N0ZIYlhqYmktTlc1QktQSG5WN0w1eEExUXpmWTYzV08tM3cyRHhjUnlPbXktZ0FhaFo4di1VZ2Q0MUZwSXF6ZU5mODc?oc=5>
+- **特朗普** | 特朗普拟在首都建“凯旋门” 方案获批 <https://news.google.com/rss/articles/CBMie0FVX3lxTFBwZDduZWxmZGVhempUa0hGRl94NUt4VloyY1ZXb2xTZDBqRGdQMEI2ZUlqUW14YnFTblk4ODVQakdoeWwxWmFMOERYd0t5bUhEbDBxdUdMV1JvZlJMWVpCWnlYSXdsT3N2aVNaYk9OTnEyT0IyNEZZSU1hTQ?oc=5>
+- **特朗普** | 两岸圆桌派｜金灿荣、唐湘龙：日本、“台独”遭特朗普当头棒喝 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hTW1GeGthcFVYNGhVeWFEYlYtMTI3cHFnZFVnYjhVQmx5SUtzMkt0UnBPWnpNQkdhVURMVG1kR1NoM3QyVW85NVdoZS05REt2dW8tcGFIYzRHY0E1eVVubXRGNFBtT0d4?oc=5>
+- **特朗普** | 特朗普再威胁伊朗交出浓缩铀 称到手后或销毁 <https://news.google.com/rss/articles/CBMid0FVX3lxTE14M1NmWWQ4THVPbURxNi1jNW5YbkRGQlI5cGJRNUtUQXRqSUJxcHJ5WEdCa0J2RU1GQ25tYlJlWTJBdmUzT1kwZ3BzaEpxQ2hzckF5YWdFQ1FpVjVBX1NfWm1aeXRnX3BsZ2hWVFk0aUc4M1JEQWl3?oc=5>
+- **Trump** | TRUMP/USDT <https://news.google.com/rss/articles/CBMie0FVX3lxTE5mOVgtNThqNzVVV2dXbDcxcEJySS0xNXJuWV9wSzVNUmJHWVVFWjN0bTl4YWRtQVR1dGlZOG13WWpKVHpGbmN5aDdDLXN3cmRVQnFuanZpUW9BbG1RVFFxUzFVQTcweWg0Z2lDb20wcTNQODFvd0pzTlF2QQ?oc=5>
+- **Trump** | 特朗普称美国将向波兰增派5,000名军人 <https://news.google.com/rss/articles/CBMib0FVX3lxTE5vSG9SYzhOWHBwdUh4V1dXSUNmZzhhcDkwTmw1d3RqWVhTSk1sd3lEQVNkUWJOeUpfaTIzSEloYUFsbkFwc0V5R1U2alVfaEJjRG5WbWtVbGVzc254SlMtSm1FT2R6QllJV0NfVVB6SQ?oc=5>
+- **Trump** | Trump 指若短期内未达成协议将对伊朗作出「重大打击」 <https://news.google.com/rss/articles/CBMib0FVX3lxTFB2a2M5eXZEcW4xcGE3N19sT2VRdXhyQlFDUERCdFRvd1Fnc1lERkRhNFBTSnFDY01oTUo2UkxJMVJIbEsyUTdmTGRoQzhhUTRqV2RWdHpWbGdfV24wckVpaFVwbFJxc25TOFlGWXhkQQ?oc=5>
 
 ### 2026-05-22 07:39  (7 条)
 
