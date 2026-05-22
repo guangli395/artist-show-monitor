@@ -1,48 +1,71 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-22 21:41**
-- 本轮扫到 1875 条, 新增 **4** 条
+- 最近更新: **2026-05-22 22:53**
+- 本轮扫到 1881 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (6 条)
 
-### 特朗普：我们已从委内瑞拉开采大量石油。
+### 只能说哥的兵还是太猛了! 南昌 蔡徐坤 ikun 粉丝 见面会
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301bteu.html>
+
+### 要闻分析 - 亲特朗普、涉以色列“黑立方”风波，争议“推特元帅”第四次出任斯洛文尼亚总理引震动
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-05-22 19:16
+- 链接: <https://news.google.com/rss/articles/CBMi0wRBVV95cUxPN0draGk4NFpabmN2cFl6MHIzNzFHLXBUd0VLYXpMbkJTdGNUbGFONkFXam5OQ3dhTGpjU3duYlpRdVZkUVZ3SFhkLWQ3YWs4ZFo0YjFVQkJ6UExsN2IwU1FDR1JMZFBZQS1abklhNXZvSy13S0tkQW9qc05ZZzM1eHJmT2gteWdmeHBRRDhXM2tHTGR5OXNLa3VwdHR0SWJNQzB1SXYxTzBoLUpJa1hQT2UwMzJ4ZmhsZlhUUjJkY1k5NExUeFdqVlVLYUJSQlJTN2duWlE1M0NSM2NvcHlsOW84WFdOWUJZVnMzNmc2dGRiMmN1TFRYTkIwT2xhelp0WkhMU2o1OHBUeVYwdnl1Z2hPTFNlTDNpMGtlYWNXSXVhN195Q1VOdXNDdTFFck02TDJYQjZ5RkZjSzE5RDhYaVExdmt1RXl1TF9ORllpRHdwSlZRYmYzS3pYYnRtZFhyMGlkeS1kUTJ0MzdQRGJ4cUJ2WmxtUnJEMjloc0lZU09UU282UXZsNkQ3WHZReDZyMGlyb19iczY4MkgtbHNac2JpOF92LWJfUWRnZW5KS2xUbFdtSmg3QzNETFRvdXVyaXc2M09RRXJrOXNxdndHbzVTd0R5VGFSajA0ZUpXQ1hPWkpwWU9zTnFKWlNyVzA1RFlveVQ5RUwtSkV3SlBldGkxU3NDZ3hWRl9xUnRiWGxsM3Q1ZFNvMjgwREViTEpCbHRwN19sWDduV01XTGpid3Z3YjlyZDg1WGRCMkhXWTA4V1dxSERzMVQ4Qzl6Wkk1M1pR?oc=5>
+
+### 特朗普与国家安全团队举行会议，商讨对伊战事
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-05-22 21:04
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLamlZcUVPS0NxNWxqb2hPSXJDTFB0bkloUDJXcTdWSWJ1QU81SzExVFdCX0tEemdvVGVyQVU5b1JOaHZ5ZDdoV3VaSm0tLWtwaTdKbUFLRGJJRG10MEl5OQ?oc=5>
+
+### 特朗普：此前听到了有关人工智能行政令的担忧，而自己也察觉到了这些担忧。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-22 20:22
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1EM0VpN0JZLVNFTGxYbjY0dlB0cEo0S1lUaWNvejRUN3BtRUIxSXhBR19wTV8zRVZyeDR0TlZNVENXN2RKWHJMcXlKNA?oc=5>
+- 时间: 2026-05-22 22:08
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zcUVKSmpxMGNQaDJHZEpSLW85Rk5lRVo0UFJDeUNxRlRUeG10TlUzMEV2VDhURWNMVjJwbEFpb3RrQ25QZm9RTVN6OA?oc=5>
 
-### 特朗普：伊朗永远不会拥有核武器，伊朗方面对此心知肚明。
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-22 21:06
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1RaFJrdEpQYmN6OThZYnZsSEZ1S3RFWi1RRWN0Vm02NGFuMVJDeEVCR2szUi1SQk13bGxUTkdkQlVVeWFiYlIyX2M2VQ?oc=5>
-
-### “特朗普”级将分布式建造，用造航母船坞总装-观察者网
+### 特朗普主持沃什就任美联储主席仪式
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察
-- 时间: 2026-05-22 09:46
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5aY1B0NTVjeVNTTmh5ZjQ4enRadmRGNjFSWGlpOFh5SHV2VlpKRUZvTUtPNkxwVktfUnRrel81bGFaZ1IyX2NhZUZSck0zZWVrTUVwa0ozU2xGRGRrcDllMzFsVk80R29Rd3BUVDd3NTg?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-05-22 16:31
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1QTnYwMkw5MkZDVWFtVkJQQ2RIWjBHdWZXZlVOZFZMR2FUVlAxdnMtLWNnbjdqRUhIXzdRZ1NWbUd0S0UtZEJPVmRIRFo?oc=5>
 
-### US President Donald Trump hints he could intervene in Cuba
+### TRUMP/USDT
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: news.tvb.com
-- 时间: 2026-05-22 14:14
-- 链接: <https://news.google.com/rss/articles/CBMixwFBVV95cUxNZGRnNmFpN0E5SDJKcm9HZF9WYzltVjBXellMVG9jVTY3V2hoeERhdkhvS09aZnNUaUd4UnNaTzVrS3psX2kyVjBnT2ZlRmN1ME03WWtOZVlpSEJ0dTlISzIzV0VrSEVqUWw2LVc0S1AzMW5OS0ZZbjRaV0R2d01pYS1DXzZMQTl0WlVFWTBGbDBqaEpFNXd0cE5udlhLMllqd1pXLUhTVVYzTG5GWUFuUk11R3RkbE9KQUVreTJTTWR3TXJXalBB?oc=5>
+- 场馆: Binance
+- 时间: 2026-05-22 20:46
+- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTE1NUVhFU0JiRURDSVUtNXZJWEFVLXhScUgzZXA2OVpMY1hLaFJVYlFfdFl4eUxhZFN2NkQ0cUREakpIM3R3aVl5d1h5VU8zdXVxOHhhS3g1WUl6a3duVklIMm9nTVoyOWpMQjlMYV9HWldCNGNwbTJBMklUbw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-22 22:53  (6 条)
+
+- **蔡徐坤** | 只能说哥的兵还是太猛了! 南昌 蔡徐坤 ikun 粉丝 见面会 <https://k.sina.com.cn/article_7879924009_m1d5ae192903301bteu.html>
+- **特朗普** | 要闻分析 - 亲特朗普、涉以色列“黑立方”风波，争议“推特元帅”第四次出任斯洛文尼亚总理引震动 <https://news.google.com/rss/articles/CBMi0wRBVV95cUxPN0draGk4NFpabmN2cFl6MHIzNzFHLXBUd0VLYXpMbkJTdGNUbGFONkFXam5OQ3dhTGpjU3duYlpRdVZkUVZ3SFhkLWQ3YWs4ZFo0YjFVQkJ6UExsN2IwU1FDR1JMZFBZQS1abklhNXZvSy13S0tkQW9qc05ZZzM1eHJmT2gteWdmeHBRRDhXM2tHTGR5OXNLa3VwdHR0SWJNQzB1SXYxTzBoLUpJa1hQT2UwMzJ4ZmhsZlhUUjJkY1k5NExUeFdqVlVLYUJSQlJTN2duWlE1M0NSM2NvcHlsOW84WFdOWUJZVnMzNmc2dGRiMmN1TFRYTkIwT2xhelp0WkhMU2o1OHBUeVYwdnl1Z2hPTFNlTDNpMGtlYWNXSXVhN195Q1VOdXNDdTFFck02TDJYQjZ5RkZjSzE5RDhYaVExdmt1RXl1TF9ORllpRHdwSlZRYmYzS3pYYnRtZFhyMGlkeS1kUTJ0MzdQRGJ4cUJ2WmxtUnJEMjloc0lZU09UU282UXZsNkQ3WHZReDZyMGlyb19iczY4MkgtbHNac2JpOF92LWJfUWRnZW5KS2xUbFdtSmg3QzNETFRvdXVyaXc2M09RRXJrOXNxdndHbzVTd0R5VGFSajA0ZUpXQ1hPWkpwWU9zTnFKWlNyVzA1RFlveVQ5RUwtSkV3SlBldGkxU3NDZ3hWRl9xUnRiWGxsM3Q1ZFNvMjgwREViTEpCbHRwN19sWDduV01XTGpid3Z3YjlyZDg1WGRCMkhXWTA4V1dxSERzMVQ4Qzl6Wkk1M1pR?oc=5>
+- **特朗普** | 特朗普与国家安全团队举行会议，商讨对伊战事 <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLamlZcUVPS0NxNWxqb2hPSXJDTFB0bkloUDJXcTdWSWJ1QU81SzExVFdCX0tEemdvVGVyQVU5b1JOaHZ5ZDdoV3VaSm0tLWtwaTdKbUFLRGJJRG10MEl5OQ?oc=5>
+- **特朗普** | 特朗普：此前听到了有关人工智能行政令的担忧，而自己也察觉到了这些担忧。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zcUVKSmpxMGNQaDJHZEpSLW85Rk5lRVo0UFJDeUNxRlRUeG10TlUzMEV2VDhURWNMVjJwbEFpb3RrQ25QZm9RTVN6OA?oc=5>
+- **特朗普** | 特朗普主持沃什就任美联储主席仪式 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1QTnYwMkw5MkZDVWFtVkJQQ2RIWjBHdWZXZlVOZFZMR2FUVlAxdnMtLWNnbjdqRUhIXzdRZ1NWbUd0S0UtZEJPVmRIRFo?oc=5>
+- **Trump** | TRUMP/USDT <https://news.google.com/rss/articles/CBMie0FVX3lxTE1NUVhFU0JiRURDSVUtNXZJWEFVLXhScUgzZXA2OVpMY1hLaFJVYlFfdFl4eUxhZFN2NkQ0cUREakpIM3R3aVl5d1h5VU8zdXVxOHhhS3g1WUl6a3duVklIMm9nTVoyOWpMQjlMYV9HWldCNGNwbTJBMklUbw?oc=5>
 
 ### 2026-05-22 21:41  (4 条)
 
