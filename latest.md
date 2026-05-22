@@ -1,96 +1,87 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-22 13:27**
-- 本轮扫到 1849 条, 新增 **10** 条
+- 最近更新: **2026-05-22 16:01**
+- 本轮扫到 1857 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (10 条)
+## 本轮新发现 (8 条)
 
-### 最后关头，特朗普推迟签署AI监管政令
+### 华语乐坛实力派歌手将抽奖送演唱会门票
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_6042105301_m1682335d503302y4f4.html>
+
+### 蔡徐坤将启动商务合作及亚洲巡演
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5665478463_151b0573f040022vwi.html>
+
+### 法国报纸摘要 - 回声报：特朗普返回白宫后就台湾问题给中美关系泼了盆冷水
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-05-22 14:25
+- 链接: <https://news.google.com/rss/articles/CBMi-gNBVV95cUxQeW1rclZqcXpIdUx1ZUN6VU11WHRaYXNVbW5QLVNYdDc4WnRNWTJmTFN1c2VOTGRjaUpfcmVZeGk4VkstckJtMEN0VTNjUkFzQmVwdVZSVEtVTTNyWGtZclZnN1NOZVNkSUxnSnlIVnd3TW9FczJnTEgyQVZuMF9fVEU5TXl5TmZKc3JOTEJodnhKWFg4TENzekNRenVzejJZVHZOVXdFdXlLX1FyUG41WGREd2RCOTlGcTNfSnJKV29qZzRRUXk0ekVVeURfNVE2U3ZLVHl0WmRWMU5oSmVsZ3hrWDFERXktTGxweTRwR0lmM242clZRV1ZZRmJ2d05KaHBMdzJnVWZUakVUN2t2d2d3T0oxRmNlTTU4SjYwakVyei1TTVFLdG9BNF9uVWNfUWJTd2pMZXBiNlJUMmxpRDBaWE1OeTcyS1h4UDg2SnlGLUpScWZIS1c5WkRfalBFNkdEQmdHNHZfc1hsaGxpU296S2w0SWl0TVgycjZ1MHk3aVUtcjZYbExnd1FKNmZ6VVN0STh3bVFpb2NfOGJKeDJtdGhHa3ZpTUloeUFoYkZHWmVOcDUzTVJyNHRqX3dEaHRudWcwSWNBOGpBa3RaSjBjNUkzTU5VbWdzdUZPUE5OdDg0RVpZOW9YTmM4YTZTemZ0cFAtVUNpUQ?oc=5>
+
+### 特朗普为司法部基金辩护，遭参议院共和党人反对
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-22 12:43
-- 链接: <https://news.google.com/rss/articles/CBMikwFBVV95cUxPQVlCQU9aWWlWRzhsR3ZDdENPNzZiZnpqVkNoNm96WHEtQTR1a0Q5cDJubF9ERXdqQ3gxS29GdTVGQWtzTGNYeld0a3dydjFuZklFSk1wcUtxUWd6aFh0SjJjVC1zeEV5U2Rlck9zbkxld1piSG5sOXlvaWxYNDRPWGJOV0dCX05ka3dFd1Q3d2RVLVE?oc=5>
+- 时间: 2026-05-22 14:56
+- 链接: <https://news.google.com/rss/articles/CBMi_wFBVV95cUxQUDJCOXRwQTVqQVJRQXZmMGpZWFZhclhtblJJWllTVTloejk0ZjZjOG5JOV9VSzdHeFV3UHlyRU1rVzJ4b3VFcURKMHpmVW5pZmpTN2JIT3dxR0t5VEE2MVJfQ25vWExvN0JwaWt0eXphaDg1VHc1SHpmU2xtLTlab2dkTE9vY2xVTGxkdWVNYzJkNzhOWjRRNFJyRmgxY0wxSnBWVmF2WmJNaEVPaHZuNDBnM2YzOXJPT3dCbHNLSHA0eF91NXNFQlFiNFVNbEZxVWdXZnRDMXBQTURJWU45MVRGQkowanNpaFBRTEMwekFjVUxwWTFmUkVxb2t5MzA?oc=5>
 
-### 阿联酋据悉加入沙特及卡塔尔阵营 呼吁特朗普勿重启对伊战争
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: video.sina.com.cn
-- 时间: 2026-05-22 12:37
-- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxQMXBVZUtDWkxDZ1FDWHhRUjEzX3d5eGxTRk5qNXBoZEowdWh0XzM5M3FQMy11V29YR0FST1UzNFZ5b0loTkJYclJaU3pJektxU3hwQ1JIX2hTUW1WTVVRcmxRbmdNbGJkMlNkNTVBWVRkQ1FSZTQ4RTl6NDZfX09tcHdR?oc=5>
-
-### 媒体：特朗普为打破伊朗僵局推出的高风险军事选项
+### 特朗普：希望沃什保持独立，并出色地完成工作。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-22 12:25
-- 链接: <https://news.google.com/rss/articles/CBMijgJBVV95cUxNZ19GN2lvdjVZY1o0Z2dHbFJ0WVhaQ1pUdFJsUW5pMHFVLU9WT2dLTS1YSHdCQkFSbHlTNWtTZUxfbHlNVnJoSU1sZTg4MzZqWC1qeFRVbnpRT0gzMVdMdmxRanRWYlFiSVRUeUU5SXZDYVR0Y3pLMkt0SEpvN3FyVWZ3Ui03SEdfRG9zakZHZ0xFdmNycmhKeUx5NHlmdjJ4ZnE0OF9ma2V2Sm1Lb2c2UTdMWVJWaXU0RU9ELXlBNkxiekpBRnFQdHpoQXZVbUVJNFRoNDYxT1Z0QmhGOTlPLV9NR0JQWlB3R0JtNHJ6MHh4RGh2dkdfdmVQSG4zR3JBODNjaV9XUWVwVGRCeXc?oc=5>
+- 时间: 2026-05-22 15:57
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9aRkdQOTEzR3kyLWhyRGZlSW5lQ0hJTUNXRnY1TVk1SEpjdGJPV0lmbjM2OVBWTmpiZDJkX0NnYk5lZGlSdktDdE92TQ?oc=5>
 
-### 特朗普儿媳：中国太震撼了，强烈安利长城
+### 鲁比奥：特朗普有担忧，可能无法与伊朗达成协议。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-05-22 09:09
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBOcVIxRUk5XzBsTGNlMTVYY25XcmRPSE81R1F5NjM3MmJyUXNtZEZZbUFDWVQ2MlRCM1BMc09kVkRDa3k1bWl2WTNNM2duYlVzZ1M0YnlTVEhQYi1zR09OVQ?oc=5>
-
-### 美国总统特朗普推迟签署有关人工智能的行政命令财经新闻Financial News
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: AASTOCKS.com
-- 时间: 2026-05-22 11:35
-- 链接: <https://news.google.com/rss/articles/CBMihAFBVV95cUxOb1dhTDZkeGtQOUpSM3lrWHA2UWVPV0xMQUpzZkRMQU1fSXdzRzQtcGttZ3RIYThiZDFlb2picXhOU0xrUVVyOWVvbVY1Q3VKbDdEOThoQ3JST1NOZm1IaXo1NkdzRlZnTEpISmtzVzAya3ZpRTY2ckhQTXpRdXVrUkY1eFQ?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-05-22 13:45
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBPSUxTSi1pNGZpQzNkWExfUzBBcUdPNTNaRnF3NlBoZmJUSXB2QUdrckJhSlVpMTdBSzEybmp2UVl5Y2M1X2ZLUWs3Zw?oc=5>
 
 ### TRUMP/USDT
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: Binance
-- 时间: 2026-05-22 10:47
-- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE1nZHl0LV9ZeG96T0dLMlRad3BHalRQRDlyZ20wa0RpQ3dWcDlpZDZGUm5tanlPNXZ0cjg4VHpYLUdaSTZZV1l0NnB0YnhxbjllMHd4YVJYMHRrVnJDaUM4QmV2UjBGN0VhcWRRTDlseGFXdXdORi12ZmFUOGY?oc=5>
+- 时间: 2026-05-22 12:43
+- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE1pTEJKd3dld29vQWdlUTl6TjZqdk1COE82LTdYZXRQb3Zmci1OVldqN1luSFpZa1l1OUhhREZuTlU0UVhWbWpoNlhFTURoUWppOXdXdTRDV24zM2Y1VG9VeVdGaFZlbHE2Vk5uLTRTcEpCOV9idzVsNlg1MjA?oc=5>
 
-### Trump Media 再次买入 $2.05亿 比特币，其在加密货币押注上的亏损已扩大至 $4.55亿
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-05-22 13:12
-- 链接: <https://news.google.com/rss/articles/CBMiowFBVV95cUxPWHdVUU9YY3BPclNpUXA4ZmlrbFJjS3JWSnFYdWNxZTNHSDhadmVfN29QSXVJWi1ZUjVhM0hVNnZSTlhqRE90OFNBczIwTlFjLWRuanJrUTZyd3F3UWpaaXNSc3cwNFhxWWMtX3dGbzZTaElYYXhHTXZOUFN5cC1qa2VaTENLR3U4OTlTWm8tY01LUTFYbFNjSkpqeUlyc19jMHlR?oc=5>
-
-### Trump Picked Warsh to Cut Rates. Markets Are Bracing for the Opposite
+### US President Donald Trump hints he could intervene in Cuba
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-05-22 11:57
-- 链接: <https://news.google.com/rss/articles/CBMipAFBVV95cUxQcU5DZFdwTVlJbjN4SkRTcFZOR2xIUW9JSnlBb1ppQlB0ZlNHVlcwSDRwV09lT01zQkgyUkJsVjlCWDdFMDVqaTV6a0FqMVdvWWh1S01IYTd1dVd2ZEVHYkgzYzhkeF9hV01zeU0ya1FQNW9XTmViVkZYTnBvZFRDNlh6Y2p0b0VtdFdKakZ5U1B3X0ZPTXhJbEdKSUpiaVFFWFdRYQ?oc=5>
-
-### $BTC Trump Media，又转了。 2 亿美元级BTC。 直接打进Crypto.com。 | jimwilldoit发布于币安广场
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Binance
-- 时间: 2026-05-22 05:40
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tdWFrbjlDRFVvTHRvSlZvT1RxUVUtQlpfdlFxX2RSNWk0Y0l5c3NMQ3VnMDM0Q19VRG5ZOUhCUmJ1X25VNXJJSktEMUJmdE9CVWtkOUtLaTBodml2ZGVpeTNaU05CT2RD?oc=5>
-
-### 美国总统特朗普推迟签署有关人工智能的行政命令
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: AASTOCKS.com
-- 时间: 2026-05-22 11:35
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE9KV25rUWlEOWtITlRlaGxnVnlucHgzbnkwdEU3LTNPVXpZUlNJRDVnV2k0cGdiSFlLbWNGVzR2S0paWmh4WkRNcEVGNklMQ3ZMWUZrR3BJcFdjcEhGZWVtaTFOWmRWS0ozZGJEMndVRQ?oc=5>
+- 场馆: news.tvb.com
+- 时间: 2026-05-22 14:14
+- 链接: <https://news.google.com/rss/articles/CBMixAFBVV95cUxPZDlDcU1WdjRUU0Q3U2dKQ2dnR0FJWDFFZU9TenV0VkQwR2lIOFg1c0NPZjlSQmdHdVhlbl9iSHlmVHExVTNCc2FoYTVoTENHSEVkc2NmekpFa1diYUZhODAzVEFRWW1IYkppRTBMNjhYSUdxelJKYW00eHdWdW5VR3daN2ZQbWdHN2ZYM0Uyb1hDS25XdzdoOGUyekhQck9fZVdNVEd4SnAza1FGY25Vb3ZnN05WMmVOX0x4M1FkWFBVczJt?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-22 16:01  (8 条)
+
+- **蔡徐坤** | 华语乐坛实力派歌手将抽奖送演唱会门票 <https://k.sina.com.cn/article_6042105301_m1682335d503302y4f4.html>
+- **蔡徐坤** | 蔡徐坤将启动商务合作及亚洲巡演 <https://k.sina.com.cn/article_5665478463_151b0573f040022vwi.html>
+- **特朗普** | 法国报纸摘要 - 回声报：特朗普返回白宫后就台湾问题给中美关系泼了盆冷水 <https://news.google.com/rss/articles/CBMi-gNBVV95cUxQeW1rclZqcXpIdUx1ZUN6VU11WHRaYXNVbW5QLVNYdDc4WnRNWTJmTFN1c2VOTGRjaUpfcmVZeGk4VkstckJtMEN0VTNjUkFzQmVwdVZSVEtVTTNyWGtZclZnN1NOZVNkSUxnSnlIVnd3TW9FczJnTEgyQVZuMF9fVEU5TXl5TmZKc3JOTEJodnhKWFg4TENzekNRenVzejJZVHZOVXdFdXlLX1FyUG41WGREd2RCOTlGcTNfSnJKV29qZzRRUXk0ekVVeURfNVE2U3ZLVHl0WmRWMU5oSmVsZ3hrWDFERXktTGxweTRwR0lmM242clZRV1ZZRmJ2d05KaHBMdzJnVWZUakVUN2t2d2d3T0oxRmNlTTU4SjYwakVyei1TTVFLdG9BNF9uVWNfUWJTd2pMZXBiNlJUMmxpRDBaWE1OeTcyS1h4UDg2SnlGLUpScWZIS1c5WkRfalBFNkdEQmdHNHZfc1hsaGxpU296S2w0SWl0TVgycjZ1MHk3aVUtcjZYbExnd1FKNmZ6VVN0STh3bVFpb2NfOGJKeDJtdGhHa3ZpTUloeUFoYkZHWmVOcDUzTVJyNHRqX3dEaHRudWcwSWNBOGpBa3RaSjBjNUkzTU5VbWdzdUZPUE5OdDg0RVpZOW9YTmM4YTZTemZ0cFAtVUNpUQ?oc=5>
+- **特朗普** | 特朗普为司法部基金辩护，遭参议院共和党人反对 <https://news.google.com/rss/articles/CBMi_wFBVV95cUxQUDJCOXRwQTVqQVJRQXZmMGpZWFZhclhtblJJWllTVTloejk0ZjZjOG5JOV9VSzdHeFV3UHlyRU1rVzJ4b3VFcURKMHpmVW5pZmpTN2JIT3dxR0t5VEE2MVJfQ25vWExvN0JwaWt0eXphaDg1VHc1SHpmU2xtLTlab2dkTE9vY2xVTGxkdWVNYzJkNzhOWjRRNFJyRmgxY0wxSnBWVmF2WmJNaEVPaHZuNDBnM2YzOXJPT3dCbHNLSHA0eF91NXNFQlFiNFVNbEZxVWdXZnRDMXBQTURJWU45MVRGQkowanNpaFBRTEMwekFjVUxwWTFmUkVxb2t5MzA?oc=5>
+- **特朗普** | 特朗普：希望沃什保持独立，并出色地完成工作。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9aRkdQOTEzR3kyLWhyRGZlSW5lQ0hJTUNXRnY1TVk1SEpjdGJPV0lmbjM2OVBWTmpiZDJkX0NnYk5lZGlSdktDdE92TQ?oc=5>
+- **特朗普** | 鲁比奥：特朗普有担忧，可能无法与伊朗达成协议。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBPSUxTSi1pNGZpQzNkWExfUzBBcUdPNTNaRnF3NlBoZmJUSXB2QUdrckJhSlVpMTdBSzEybmp2UVl5Y2M1X2ZLUWs3Zw?oc=5>
+- **Trump** | TRUMP/USDT <https://news.google.com/rss/articles/CBMifEFVX3lxTE1pTEJKd3dld29vQWdlUTl6TjZqdk1COE82LTdYZXRQb3Zmci1OVldqN1luSFpZa1l1OUhhREZuTlU0UVhWbWpoNlhFTURoUWppOXdXdTRDV24zM2Y1VG9VeVdGaFZlbHE2Vk5uLTRTcEpCOV9idzVsNlg1MjA?oc=5>
+- **Trump** | US President Donald Trump hints he could intervene in Cuba <https://news.google.com/rss/articles/CBMixAFBVV95cUxPZDlDcU1WdjRUU0Q3U2dKQ2dnR0FJWDFFZU9TenV0VkQwR2lIOFg1c0NPZjlSQmdHdVhlbl9iSHlmVHExVTNCc2FoYTVoTENHSEVkc2NmekpFa1diYUZhODAzVEFRWW1IYkppRTBMNjhYSUdxelJKYW00eHdWdW5VR3daN2ZQbWdHN2ZYM0Uyb1hDS25XdzdoOGUyekhQck9fZVdNVEd4SnAza1FGY25Vb3ZnN05WMmVOX0x4M1FkWFBVczJt?oc=5>
 
 ### 2026-05-22 13:27  (10 条)
 
