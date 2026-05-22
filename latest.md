@@ -1,76 +1,71 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-22 16:01**
-- 本轮扫到 1857 条, 新增 **8** 条
+- 最近更新: **2026-05-22 18:14**
+- 本轮扫到 1863 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (6 条)
 
-### 华语乐坛实力派歌手将抽奖送演唱会门票
+### 温州演唱会惊现周杰伦腹肌照 是魔天伦啦，不过确实挺想看现在的杰伦露腹肌噢
 
-- 艺人/关键词: **蔡徐坤**
+- 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6042105301_m1682335d503302y4f4.html>
+- 链接: <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002l63c.html>
 
-### 蔡徐坤将启动商务合作及亚洲巡演
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5665478463_151b0573f040022vwi.html>
-
-### 法国报纸摘要 - 回声报：特朗普返回白宫后就台湾问题给中美关系泼了盆冷水
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-05-22 14:25
-- 链接: <https://news.google.com/rss/articles/CBMi-gNBVV95cUxQeW1rclZqcXpIdUx1ZUN6VU11WHRaYXNVbW5QLVNYdDc4WnRNWTJmTFN1c2VOTGRjaUpfcmVZeGk4VkstckJtMEN0VTNjUkFzQmVwdVZSVEtVTTNyWGtZclZnN1NOZVNkSUxnSnlIVnd3TW9FczJnTEgyQVZuMF9fVEU5TXl5TmZKc3JOTEJodnhKWFg4TENzekNRenVzejJZVHZOVXdFdXlLX1FyUG41WGREd2RCOTlGcTNfSnJKV29qZzRRUXk0ekVVeURfNVE2U3ZLVHl0WmRWMU5oSmVsZ3hrWDFERXktTGxweTRwR0lmM242clZRV1ZZRmJ2d05KaHBMdzJnVWZUakVUN2t2d2d3T0oxRmNlTTU4SjYwakVyei1TTVFLdG9BNF9uVWNfUWJTd2pMZXBiNlJUMmxpRDBaWE1OeTcyS1h4UDg2SnlGLUpScWZIS1c5WkRfalBFNkdEQmdHNHZfc1hsaGxpU296S2w0SWl0TVgycjZ1MHk3aVUtcjZYbExnd1FKNmZ6VVN0STh3bVFpb2NfOGJKeDJtdGhHa3ZpTUloeUFoYkZHWmVOcDUzTVJyNHRqX3dEaHRudWcwSWNBOGpBa3RaSjBjNUkzTU5VbWdzdUZPUE5OdDg0RVpZOW9YTmM4YTZTemZ0cFAtVUNpUQ?oc=5>
-
-### 特朗普为司法部基金辩护，遭参议院共和党人反对
+### 特朗普告诉沃什：在美联储“按自己的方式行事”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-22 14:56
-- 链接: <https://news.google.com/rss/articles/CBMi_wFBVV95cUxQUDJCOXRwQTVqQVJRQXZmMGpZWFZhclhtblJJWllTVTloejk0ZjZjOG5JOV9VSzdHeFV3UHlyRU1rVzJ4b3VFcURKMHpmVW5pZmpTN2JIT3dxR0t5VEE2MVJfQ25vWExvN0JwaWt0eXphaDg1VHc1SHpmU2xtLTlab2dkTE9vY2xVTGxkdWVNYzJkNzhOWjRRNFJyRmgxY0wxSnBWVmF2WmJNaEVPaHZuNDBnM2YzOXJPT3dCbHNLSHA0eF91NXNFQlFiNFVNbEZxVWdXZnRDMXBQTURJWU45MVRGQkowanNpaFBRTEMwekFjVUxwWTFmUkVxb2t5MzA?oc=5>
+- 时间: 2026-05-22 16:31
+- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMWZMQ1BZOG5rU3JsMUlRdTZxUVdvRkZoVDJBRFJDZHNnMTVrVDdUMFlmY2xtQmE1aEdBTkdBSW1jOGl1Szc3ZFpIeEF4TE1Bam1MTVEzRGJlOFg5bEVsNGRzWVQ5VGZiRzFCbUNRS01FdjVDLTBETjVlNUVZOWJjYzR3a0IwcDdNOU5VUmJGNElKdTBnZUlsbTNZMzhWZmd1WWhxR1diaEVTUQ?oc=5>
 
-### 特朗普：希望沃什保持独立，并出色地完成工作。
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-22 15:57
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9aRkdQOTEzR3kyLWhyRGZlSW5lQ0hJTUNXRnY1TVk1SEpjdGJPV0lmbjM2OVBWTmpiZDJkX0NnYk5lZGlSdktDdE92TQ?oc=5>
-
-### 鲁比奥：特朗普有担忧，可能无法与伊朗达成协议。
+### 特朗普：我们拥有全球最强军队，计划将国防预算提升至 1.5 万亿美元。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-22 13:45
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBPSUxTSi1pNGZpQzNkWExfUzBBcUdPNTNaRnF3NlBoZmJUSXB2QUdrckJhSlVpMTdBSzEybmp2UVl5Y2M1X2ZLUWs3Zw?oc=5>
+- 时间: 2026-05-22 16:08
+- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE9MaXlNVlFEWk5WV1Zuelk5X21aSU5hY0FzUkFuVXFkZkhwR29RYzJXSWRaWVZ6RXZkU21FemN6ZUtlMUh2bjBERVFqUHdWUlE?oc=5>
 
-### TRUMP/USDT
+### 特朗普考虑对古巴采取行动古巴强硬表态|唐纳德·特朗普|马尔科·鲁比奥|美国总统|达成协议|卡内尔_手机新浪网
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-22 16:58
+- 链接: <https://news.google.com/rss/articles/CBMi_wFBVV95cUxPZjFjYkpPWk1xelRwWVFNcjVOYXlJcVJnU2JvT0lrdmxNSXBvczhPLUFRRVRDZENZQ1pJZGlUd3hhYW1rTzIxYzBjUjk4bXdDTTBTb1JsN3RYeWIwb3NVTFJlNk1PTHItOE9oLUNwODJuVFpRZk5qUXVLWTNHb01qdTRTcjZNazVmc1cyM3M3TF9Ja0UxUEZPVms2cTZjYzA2VjdlNjdwM0QzSkQtV1R3X2pEbjk3QWhpdDEwZWhGVzFaRjNlUzNGTnFKVUtTNXI5ZzA0anZLZDB6dFF4ME1FTm9xcElGYmxfckRMQzB0aFRnUmtaMjZJWE5telVJYWs?oc=5>
+
+### 特朗普品牌运营商Trump Mobile确认客户个人信息曾被暴露在互联网上- 通信运营商
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Binance
-- 时间: 2026-05-22 12:43
-- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE1pTEJKd3dld29vQWdlUTl6TjZqdk1COE82LTdYZXRQb3Zmci1OVldqN1luSFpZa1l1OUhhREZuTlU0UVhWbWpoNlhFTURoUWppOXdXdTRDV24zM2Y1VG9VeVdGaFZlbHE2Vk5uLTRTcEpCOV9idzVsNlg1MjA?oc=5>
+- 场馆: cnBeta.COM
+- 时间: 2026-05-22 16:39
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE0yQ1NzeDFXM2N0UmRlazRhZDB6MEE2Y3dFRFJ5aGxRemIxSHhFaXB3SGsyd0NXV2dzNDEzX2dRa1JBZVRQUkhfYnhHNVJCclhrMDBoS2JJRjg0anJBNGFSMg?oc=5>
 
-### US President Donald Trump hints he could intervene in Cuba
+### Trump Admin Grants Reinforce IBM's Quantum Computing Leadership -- Market Talk
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: news.tvb.com
-- 时间: 2026-05-22 14:14
-- 链接: <https://news.google.com/rss/articles/CBMixAFBVV95cUxPZDlDcU1WdjRUU0Q3U2dKQ2dnR0FJWDFFZU9TenV0VkQwR2lIOFg1c0NPZjlSQmdHdVhlbl9iSHlmVHExVTNCc2FoYTVoTENHSEVkc2NmekpFa1diYUZhODAzVEFRWW1IYkppRTBMNjhYSUdxelJKYW00eHdWdW5VR3daN2ZQbWdHN2ZYM0Uyb1hDS25XdzdoOGUyekhQck9fZVdNVEd4SnAza1FGY25Vb3ZnN05WMmVOX0x4M1FkWFBVczJt?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-05-22 15:55
+- 链接: <https://news.google.com/rss/articles/CBMiuAFBVV95cUxQc205RHRpMGcyNTFyZDBCcWdrUnRyX2VLYTlVVXdkYjBqSGM1TkFyR01GeUhaWE5vMlpxT2pJQXdYTnZjb3JfMkJ4TzgxZ0FWOGlUWWhoa3dCNVlqSFFQN1JLWGlQNHZHQVhEaDBUVVVhX1dUWmlWY3RNSmZ0MWxRN0U5dFJLTVpENGczcFlIZHlIY3UzSU5oMUY4V3ExSmtfREIzWlFsdmxXZHRoZTRfMmdwWWRVWGpp?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-22 18:14  (6 条)
+
+- **周杰伦** | 温州演唱会惊现周杰伦腹肌照 是魔天伦啦，不过确实挺想看现在的杰伦露腹肌噢 <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002l63c.html>
+- **特朗普** | 特朗普告诉沃什：在美联储“按自己的方式行事” <https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMWZMQ1BZOG5rU3JsMUlRdTZxUVdvRkZoVDJBRFJDZHNnMTVrVDdUMFlmY2xtQmE1aEdBTkdBSW1jOGl1Szc3ZFpIeEF4TE1Bam1MTVEzRGJlOFg5bEVsNGRzWVQ5VGZiRzFCbUNRS01FdjVDLTBETjVlNUVZOWJjYzR3a0IwcDdNOU5VUmJGNElKdTBnZUlsbTNZMzhWZmd1WWhxR1diaEVTUQ?oc=5>
+- **特朗普** | 特朗普：我们拥有全球最强军队，计划将国防预算提升至 1.5 万亿美元。 <https://news.google.com/rss/articles/CBMiT0FVX3lxTE9MaXlNVlFEWk5WV1Zuelk5X21aSU5hY0FzUkFuVXFkZkhwR29RYzJXSWRaWVZ6RXZkU21FemN6ZUtlMUh2bjBERVFqUHdWUlE?oc=5>
+- **特朗普** | 特朗普考虑对古巴采取行动古巴强硬表态|唐纳德·特朗普|马尔科·鲁比奥|美国总统|达成协议|卡内尔_手机新浪网 <https://news.google.com/rss/articles/CBMi_wFBVV95cUxPZjFjYkpPWk1xelRwWVFNcjVOYXlJcVJnU2JvT0lrdmxNSXBvczhPLUFRRVRDZENZQ1pJZGlUd3hhYW1rTzIxYzBjUjk4bXdDTTBTb1JsN3RYeWIwb3NVTFJlNk1PTHItOE9oLUNwODJuVFpRZk5qUXVLWTNHb01qdTRTcjZNazVmc1cyM3M3TF9Ja0UxUEZPVms2cTZjYzA2VjdlNjdwM0QzSkQtV1R3X2pEbjk3QWhpdDEwZWhGVzFaRjNlUzNGTnFKVUtTNXI5ZzA0anZLZDB6dFF4ME1FTm9xcElGYmxfckRMQzB0aFRnUmtaMjZJWE5telVJYWs?oc=5>
+- **Trump** | 特朗普品牌运营商Trump Mobile确认客户个人信息曾被暴露在互联网上- 通信运营商 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE0yQ1NzeDFXM2N0UmRlazRhZDB6MEE2Y3dFRFJ5aGxRemIxSHhFaXB3SGsyd0NXV2dzNDEzX2dRa1JBZVRQUkhfYnhHNVJCclhrMDBoS2JJRjg0anJBNGFSMg?oc=5>
+- **Trump** | Trump Admin Grants Reinforce IBM's Quantum Computing Leadership -- Market Talk <https://news.google.com/rss/articles/CBMiuAFBVV95cUxQc205RHRpMGcyNTFyZDBCcWdrUnRyX2VLYTlVVXdkYjBqSGM1TkFyR01GeUhaWE5vMlpxT2pJQXdYTnZjb3JfMkJ4TzgxZ0FWOGlUWWhoa3dCNVlqSFFQN1JLWGlQNHZHQVhEaDBUVVVhX1dUWmlWY3RNSmZ0MWxRN0U5dFJLTVpENGczcFlIZHlIY3UzSU5oMUY4V3ExSmtfREIzWlFsdmxXZHRoZTRfMmdwWWRVWGpp?oc=5>
 
 ### 2026-05-22 16:01  (8 条)
 
