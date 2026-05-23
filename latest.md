@@ -1,43 +1,43 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-23 09:19**
-- 本轮扫到 1910 条, 新增 **5** 条
+- 最近更新: **2026-05-23 10:50**
+- 本轮扫到 1919 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (9 条)
 
-### 特朗普告诉沃什：在美联储“按自己的方式行事”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-23 07:46
-- 链接: <https://news.google.com/rss/articles/CBMi_wFBVV95cUxOcDBPaUg5UVlVb3pldGZoOTdTTEhKcTdKdTdXVWNWMlRYemhpOTlubER4Zm4wSW5ZblU4YWxtZm9SYUNEYmFXVHJTVkl0VEI1UFZTLWRNZVV1VktXWFBWcjRGTVBYcDROTzhQenFBeGs3T2FHbTlQX0VuWG9wQWVOTWg4S1ZEbkZ5SGQwNlQzTEV5QS1FeGhGdnZFSjM1MDE3TlFOZnY2MFJPNlVyUmhOMXVLM0l3WUp2QVpPRHI0OHMwcGxSQmVSOXpid3l5eWZZOURqdkp2YVdWdUZmLUlVb3lLSmRCUE9WSzB1aUtRMnZIdXF4a091SWZhUkJoNmM?oc=5>
-
-### 美伊谈判细节披露：草案来回修改，特朗普越来越沮丧
+### 特朗普和赖清德 到底还谈不谈？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中国网新闻中心
-- 时间: 2026-05-23 08:41
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE5HMm43VnVtUkhDbzZvWEh6NzVVZ0h2djU4TEdQMG9JNlNFN3otcUQ0SlBpcXFyRWxXZmduRlE5QXZSLXc3NXp1bTNSWjJKZWRucFh1VS1jTDc4NFNvTG1yMlF6anBUeTI2elkw?oc=5>
+- 场馆: DW.com
+- 时间: 2026-05-23 09:50
+- 链接: <https://news.google.com/rss/articles/CBMi5gFBVV95cUxQaU5JMGZGZ3pfYng1SUFldE5VTkd4RG95QUpma1hGRFkyT0tseDdGZzBjMGsyTk9vQ0R1dGRMaHNvZk92RkhiSlFxempWeUN2UlBYb0tGbkJOclJvT2F0a1d4RUwxeURoTVNoS19UWGlsRzNfWEJuTnNtTTRsZzR2MjBDeldHWU5qVWNQZzU5dkpEZVdtY3BMdTk0RTBneHpLVXhmNUpoR1BWS0xpTkpha1pMTUxtQk9fT2tLN2lTVVY3N3hPanVMRlo4eEEwQzlXanZkMEgxVU9rR0JZUFhzQUhjMWgxd9IB5gFBVV95cUxOX1YxRUZJY2lvRFRURW5qSXk4eFdXeXQ3SFBBUDNDdWhVLVhESjE4c25Nc1hVVWJQODFQTkoyeHF4dFVUZ2c0U3JTeHhHOGN6SU12VXZ2dmM2aXhXaHRNeWRZSHl5bnMtdVdGRUVQb1lLblBfdDVZRktpSEtMWFlsLWpxWWg0TlFtS2hERU1kUnpEUUNjbGsxNEZ1a1RYaTVZT2lXZ0tVeEMyS0ZJVzE1SjBQbGszTGloRjF0cXRHX0xXOHVIaDl6enJwcEFKQzRpN2hNZW1zRzJMNG5nWGFfN3FDOExXUQ?oc=5>
 
-### 消息人士称对台军售与伊朗战争无关 白宫官员：特朗普将在不久后作出决定
+### 消息人士称美台就潜在特赖通话有接触但无具体计划 鲁比奥怎么说？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: RFI
-- 时间: 2026-05-23 08:49
-- 链接: <https://news.google.com/rss/articles/CBMiygNBVV95cUxQLURuSXdQRnBFMGlUQXA3TXlmT0VJazk3ZW40VXI4NTRWNFZsZGtXUzFaVnZoSUtsQ0tINVFuTUpidnNBSTlCb05NUUpzblZQbmloNnRMcEotWWNHY0RUSkc1LVBJVnVObWxiZDJGOGVwNUU0WDdNUzBiSVMtcEpDdHFrb2tmamZ3SUdESWFkb3B1eFBmMm81X1VULTdwMlhFanlvbVAzZmZGN2taUk94STd1UndDa1RTd1dTVy02ejZVcUNlMWFOZjZYNFJrS2JqcW9GYWtFa0UzekN5VEdpWENOek1GNGNqR1REeGRPbVoxUWpfNFp0V0VnRGlIcjNVLTF0Qkt4WTZfRFhIWXZzZFpFT2pFbGNPUGFZM3NYVnFXS2lfanRFRElEekM2QV9XMkdGUUdSM1dwN2dUN2tNTElzamMtTng1Wk5hMWFhQTRLcnlPaDFoMERJay1IY0dNTFMyQ0g5T3ZFVUR4eks3MEFQX0NldXZsNkNjc3kyUU1kRURiWjBIbjlnTGNIcnBLZi15NmsyR0M1T0ZXYVN0dmJWYlAzeUJGMURudjcwYUZhV1Jyc3E0ZjZGTDIwYTM2eGFKelplMVZwUQ?oc=5>
+- 时间: 2026-05-23 09:28
+- 链接: <https://news.google.com/rss/articles/CBMivANBVV95cUxOM29xNk83bDRsNHg3aUhKems2UFJTeGhITTd5MEFGeTN6ODZDWXFucF81ODZTc0xDUW95R19RdHZ5a3ktZ2tjSjRXT2R0b1gxSW81eUhIOTBiRE80emMwUmZkcVVtOXFZMmd3NjV0OG5XWGJxQ3dpNTZ1cHNsbG5zTEdDWmpjRnhOaE80RS1VYjVmVmh6dnI3NS1zT3NyLXFBb0djNlZWZ1A1bGhSZi1sUGtrSlhPTE1vSDZudW45TFdLM29ySVZfdG1qQ2U3djkySjl2YllPbUdzMmN3R3QzdEVuOC1DYloyMnNmVjdrRm9nME5QUHY5M0Y1YXRvVTNyZnBVcTRudF9LcWdMRDRLU2lXcEk2WnNkUDFxS1VJWV9RLVpLYTdqZF9UMUFEWkk1MW40cHgtUHRDeUNvZnk0TmlzNzJmSkY4V05PSGtKOFZDbnAxTDdIRTBkYjRsbzhldlNjUEQ5LUFWYlRJTjR4WlB2a05xZmJBN1VycGdxSkdGY2tYOG16OU9PMkhzTEhzNVp5QzlOanVtcFVIX3l3d1dtWXVPYjRzWmxKQVFkeS0yTVpNZEctME9fMWw?oc=5>
 
-### “特朗普变卦前，接到电话警告‘会输给中国’”-观察者网
+### 牛弹琴：印度的麻烦来了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-05-23 07:50
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBpOFJmN1dZeW5iQWRpbmV6R3hnTldpRy01bkhrNjQxR2xzNlNUM2hac0tuaW9EUEpwV0JPSUQ2V2ZxRC1XNDZVOC1EUWRQZmdKSmJOa3ZLc2JrOFFzSW1rUVFLRVlPVGF6WEE?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-05-23 10:18
+- 链接: <https://news.google.com/rss/articles/CBMimAJBVV95cUxQc2ZIU2hTanlGVnhXNWU1WnktWDhUNk51MnQ4X2haVWdfXzlhelBacE5nUzJBb2w2eFRXeURxU205OUpsdUhDQjlkNDN2Sll2SHNEM1pmWnptbzJvcFZ2WDYyRk1UMXJTUzJQMEZxdmplcmt4Wm9SRmx0OXRTaV9DTXVqS3FXYUpIZTlqb29ISzd1ZWRkMGdTUUdXVWpvdDNiUTFqd0hla1dvaVJ3eEJ5dDh0cDZSRnU3M2NLTm5QX1FySzZSNjczVVR2T2Rhbm9NYkRhRThlOWUtdUJIZkpzVUh3cUtXbmwyQk80YlNxd1NPNXVfaUlkSnlpNERWQVBqY0JjWjR3Ni1PUXJ4OW5xUFR0aURCSVp4?oc=5>
+
+### 特朗普取消出席儿子婚礼，返回白宫
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-23 10:04
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE5kakNjNjhzT1pnS1Q0Z09FSnY0WkwtaGVGcGtQWk1RMnRGVjVwSWNjYjByVjYtOUZ5Y0w0QUkyT0xjT1REUEt4eC1HcEluRUtibW9mX0Z0akNKb2FtQ0lSMzRlbFV6VWFlNEw1LU1zX0lQdw?oc=5>
 
 ### “史上最贵美国众议院初选”，特朗普批评者落败丨周观天下
 
@@ -45,12 +45,56 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-05-23 06:47
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE16S2JKcG95OERZVmtiSlF2LU1QdDY0Q3c1VUVKRVNYend3Y0FycFE4N01jN2tiZWdlN3lneXlRVXJ6N2xVcEJCSGRwVjN6bWJRSWIwRFhIRjJSbXhrWWtPbUxHQmdfenp5VENGbHY2MGtZXzhLaTI2VQ?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1QWlhxdVQ0aUlyWi1Fb1AzcXU0M3A4dUtpZlIxZVBNSXZPNU9Hb2ROT2szSXJ1ZFZycWNIOUxNdGhzRi1TVUpjMnZHLW5VV19tbmE5bzdSVkhyX3NmV3ozTWRubmEzemJPamNOa2dLc1ZEc3hCd1Zieg?oc=5>
+
+### 美联储新主席宣誓！特朗普呼吁“要遏制通胀，不要遏制伟大”，沃什表态要做格林斯潘
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街见闻
+- 时间: 2026-05-23 02:43
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE4teGtTTjlybXh3UEVYNDVRT2FacEJFNVd2MFlnQnpRbjFkRFlJVjgtczI1OHczeEJjZ0FQc2dKU2NoVW9oRGVLbF9VRHVyZXBlWE5r?oc=5>
+
+### 与特朗普唱反调？美国情报总监被曝遭白宫“逼走”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 搜狐网
+- 时间: 2026-05-23 08:32
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxOLXR5SXNMOUdET0Z4V3A5VV9PYjByZEN4NVM5QW1rbVFzRjhEdlc1aDE1VWVxSWVxVHdJdm1iYVgtUDE1QUxwLW9yZV9lU2JXVDRWMDNxZmFfZUJfR0ZrbHhrVmFSRnFKVkF1U1hsSXF4Y3QteVJ0V1lHeEFMMmI3aF9aZWVfa1kwQTlKUQ?oc=5>
+
+### OFFICIAL TRUMP价格
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Binance
+- 时间: 2026-05-21 18:41
+- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTE5jVFpJTzZhT09WVXJzbS1PVHlOQWhUdThjUEZqd3lPQjI4ZjNRcXpSMHZKaGg2SEdKbkxfUlVKTUFSdHRUYnRxUEpvQVY1MzhHSWh4b0loTVdCU2VZNGtaRkE0aXZOaXBIOXFueGoxWG1DekJHeGhMc0NMTQ?oc=5>
+
+### Relationship between the U.S. and China is a very strong one: Trump
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 澳门广播电视股份有限公司
+- 时间: 2026-05-18 21:37
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE5zWjNFV3haUUZmTkNQVHJRZEttdzRRS0dFd0E0WFFhZEo1UUJQcnlmNlJBTDZtZE9wRFZFQmtwcE0wcEJCTnRoM3BPTXZMcE80b2JjbHI3b0tmZGNqeXp0RmFUbGtfc2g3RTNF?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-23 10:50  (9 条)
+
+- **特朗普** | 特朗普和赖清德 到底还谈不谈？ <https://news.google.com/rss/articles/CBMi5gFBVV95cUxQaU5JMGZGZ3pfYng1SUFldE5VTkd4RG95QUpma1hGRFkyT0tseDdGZzBjMGsyTk9vQ0R1dGRMaHNvZk92RkhiSlFxempWeUN2UlBYb0tGbkJOclJvT2F0a1d4RUwxeURoTVNoS19UWGlsRzNfWEJuTnNtTTRsZzR2MjBDeldHWU5qVWNQZzU5dkpEZVdtY3BMdTk0RTBneHpLVXhmNUpoR1BWS0xpTkpha1pMTUxtQk9fT2tLN2lTVVY3N3hPanVMRlo4eEEwQzlXanZkMEgxVU9rR0JZUFhzQUhjMWgxd9IB5gFBVV95cUxOX1YxRUZJY2lvRFRURW5qSXk4eFdXeXQ3SFBBUDNDdWhVLVhESjE4c25Nc1hVVWJQODFQTkoyeHF4dFVUZ2c0U3JTeHhHOGN6SU12VXZ2dmM2aXhXaHRNeWRZSHl5bnMtdVdGRUVQb1lLblBfdDVZRktpSEtMWFlsLWpxWWg0TlFtS2hERU1kUnpEUUNjbGsxNEZ1a1RYaTVZT2lXZ0tVeEMyS0ZJVzE1SjBQbGszTGloRjF0cXRHX0xXOHVIaDl6enJwcEFKQzRpN2hNZW1zRzJMNG5nWGFfN3FDOExXUQ?oc=5>
+- **特朗普** | 消息人士称美台就潜在特赖通话有接触但无具体计划 鲁比奥怎么说？ <https://news.google.com/rss/articles/CBMivANBVV95cUxOM29xNk83bDRsNHg3aUhKems2UFJTeGhITTd5MEFGeTN6ODZDWXFucF81ODZTc0xDUW95R19RdHZ5a3ktZ2tjSjRXT2R0b1gxSW81eUhIOTBiRE80emMwUmZkcVVtOXFZMmd3NjV0OG5XWGJxQ3dpNTZ1cHNsbG5zTEdDWmpjRnhOaE80RS1VYjVmVmh6dnI3NS1zT3NyLXFBb0djNlZWZ1A1bGhSZi1sUGtrSlhPTE1vSDZudW45TFdLM29ySVZfdG1qQ2U3djkySjl2YllPbUdzMmN3R3QzdEVuOC1DYloyMnNmVjdrRm9nME5QUHY5M0Y1YXRvVTNyZnBVcTRudF9LcWdMRDRLU2lXcEk2WnNkUDFxS1VJWV9RLVpLYTdqZF9UMUFEWkk1MW40cHgtUHRDeUNvZnk0TmlzNzJmSkY4V05PSGtKOFZDbnAxTDdIRTBkYjRsbzhldlNjUEQ5LUFWYlRJTjR4WlB2a05xZmJBN1VycGdxSkdGY2tYOG16OU9PMkhzTEhzNVp5QzlOanVtcFVIX3l3d1dtWXVPYjRzWmxKQVFkeS0yTVpNZEctME9fMWw?oc=5>
+- **特朗普** | 牛弹琴：印度的麻烦来了 <https://news.google.com/rss/articles/CBMimAJBVV95cUxQc2ZIU2hTanlGVnhXNWU1WnktWDhUNk51MnQ4X2haVWdfXzlhelBacE5nUzJBb2w2eFRXeURxU205OUpsdUhDQjlkNDN2Sll2SHNEM1pmWnptbzJvcFZ2WDYyRk1UMXJTUzJQMEZxdmplcmt4Wm9SRmx0OXRTaV9DTXVqS3FXYUpIZTlqb29ISzd1ZWRkMGdTUUdXVWpvdDNiUTFqd0hla1dvaVJ3eEJ5dDh0cDZSRnU3M2NLTm5QX1FySzZSNjczVVR2T2Rhbm9NYkRhRThlOWUtdUJIZkpzVUh3cUtXbmwyQk80YlNxd1NPNXVfaUlkSnlpNERWQVBqY0JjWjR3Ni1PUXJ4OW5xUFR0aURCSVp4?oc=5>
+- **特朗普** | 特朗普取消出席儿子婚礼，返回白宫 <https://news.google.com/rss/articles/CBMickFVX3lxTE5kakNjNjhzT1pnS1Q0Z09FSnY0WkwtaGVGcGtQWk1RMnRGVjVwSWNjYjByVjYtOUZ5Y0w0QUkyT0xjT1REUEt4eC1HcEluRUtibW9mX0Z0akNKb2FtQ0lSMzRlbFV6VWFlNEw1LU1zX0lQdw?oc=5>
+- **特朗普** | “史上最贵美国众议院初选”，特朗普批评者落败丨周观天下 <https://news.google.com/rss/articles/CBMieEFVX3lxTE1QWlhxdVQ0aUlyWi1Fb1AzcXU0M3A4dUtpZlIxZVBNSXZPNU9Hb2ROT2szSXJ1ZFZycWNIOUxNdGhzRi1TVUpjMnZHLW5VV19tbmE5bzdSVkhyX3NmV3ozTWRubmEzemJPamNOa2dLc1ZEc3hCd1Zieg?oc=5>
+- **特朗普** | 美联储新主席宣誓！特朗普呼吁“要遏制通胀，不要遏制伟大”，沃什表态要做格林斯潘 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE4teGtTTjlybXh3UEVYNDVRT2FacEJFNVd2MFlnQnpRbjFkRFlJVjgtczI1OHczeEJjZ0FQc2dKU2NoVW9oRGVLbF9VRHVyZXBlWE5r?oc=5>
+- **特朗普** | 与特朗普唱反调？美国情报总监被曝遭白宫“逼走” <https://news.google.com/rss/articles/CBMijAFBVV95cUxOLXR5SXNMOUdET0Z4V3A5VV9PYjByZEN4NVM5QW1rbVFzRjhEdlc1aDE1VWVxSWVxVHdJdm1iYVgtUDE1QUxwLW9yZV9lU2JXVDRWMDNxZmFfZUJfR0ZrbHhrVmFSRnFKVkF1U1hsSXF4Y3QteVJ0V1lHeEFMMmI3aF9aZWVfa1kwQTlKUQ?oc=5>
+- **Trump** | OFFICIAL TRUMP价格 <https://news.google.com/rss/articles/CBMie0FVX3lxTE5jVFpJTzZhT09WVXJzbS1PVHlOQWhUdThjUEZqd3lPQjI4ZjNRcXpSMHZKaGg2SEdKbkxfUlVKTUFSdHRUYnRxUEpvQVY1MzhHSWh4b0loTVdCU2VZNGtaRkE0aXZOaXBIOXFueGoxWG1DekJHeGhMc0NMTQ?oc=5>
+- **Trump** | Relationship between the U.S. and China is a very strong one: Trump <https://news.google.com/rss/articles/CBMia0FVX3lxTE5zWjNFV3haUUZmTkNQVHJRZEttdzRRS0dFd0E0WFFhZEo1UUJQcnlmNlJBTDZtZE9wRFZFQmtwcE0wcEJCTnRoM3BPTXZMcE80b2JjbHI3b0tmZGNqeXp0RmFUbGtfc2g3RTNF?oc=5>
 
 ### 2026-05-23 09:19  (5 条)
 
