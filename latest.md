@@ -1,32 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-23 20:03**
-- 本轮扫到 1941 条, 新增 **2** 条
+- 最近更新: **2026-05-23 21:14**
+- 本轮扫到 1942 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (1 条)
 
-### 特朗普突然变卦，中方叫停美国投资？消息一出，外资抢购中国资产
+### 美媒：特朗普政府扩大撤销公民资格行动
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-23 01:29
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE9KcFdFbkotX3JzOGxNdU9yVWhVMUh4eFZ4VWMxRXdrUk4zcFUtX3Nsc2gwdlRsM3RuTTZmX1Iydkx2cjlyeHpXeTExLU8xdWN0UVRmc0ZTQkJGYkM4Q2VLZ3Y2T1dDN3JDR1NrSkdfT1FCcWZVV0E?oc=5>
-
-### TRUMP/USDT
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Binance
-- 时间: 2026-05-23 13:01
-- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTE50al9GdDJ3Y0ZlU1lYWjh2UjcxbVpVSy16U2NvdEo0ME0zdWM4SG5PYzNtV1Btc0JjOUlvM3k0LWJGd3ZsVjlwbmJxem5aMC02cU83YndreEZFQ200UFBnRGIyaENFOTFXTWJrYmc0a1YzVG9GZWNDU29TRQ?oc=5>
+- 场馆: RFI
+- 时间: 2026-05-23 20:53
+- 链接: <https://news.google.com/rss/articles/CBMirAJBVV95cUxOU3Nzb2ZpNGs3NzQ0TDgyNDFlOElDYmFidTJWc0pRWTI0d2lnWUNxSWI2aWowRlA0OV83N3hfTzUyeHdtb0IwRENNeUEwLUZQQktUMXNJall1SUM2elJyYkJPYTdlWGY2eVNEQkZXcEhxSERUdVRrMVB3dmZJRjdSbk9mOFIydDI5X2stVjBQYzQ4bUtOTU9LcnVEZVU1U2dHdXFTTXdXUGRoYW9HRmFPSnFUdWliTU9xU0xTSUY1eHRNa1JvSzdibndiZTNCNll0b1NvUU1lOGdvLVZDQjl0ZDc5MEppSEJweDVfNlhFdDZiOUhNOW5PakgyS0lEZW85VS1xWmdDNEVnZ1hpa056OE9IeTJCNWlJR3J0bEFLM0xIdXBpR3Y4Ul80RlY?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-23 21:14  (1 条)
+
+- **特朗普** | 美媒：特朗普政府扩大撤销公民资格行动 <https://news.google.com/rss/articles/CBMirAJBVV95cUxOU3Nzb2ZpNGs3NzQ0TDgyNDFlOElDYmFidTJWc0pRWTI0d2lnWUNxSWI2aWowRlA0OV83N3hfTzUyeHdtb0IwRENNeUEwLUZQQktUMXNJall1SUM2elJyYkJPYTdlWGY2eVNEQkZXcEhxSERUdVRrMVB3dmZJRjdSbk9mOFIydDI5X2stVjBQYzQ4bUtOTU9LcnVEZVU1U2dHdXFTTXdXUGRoYW9HRmFPSnFUdWliTU9xU0xTSUY1eHRNa1JvSzdibndiZTNCNll0b1NvUU1lOGdvLVZDQjl0ZDc5MEppSEJweDVfNlhFdDZiOUhNOW5PakgyS0lEZW85VS1xWmdDNEVnZ1hpa056OE9IeTJCNWlJR3J0bEFLM0xIdXBpR3Y4Ul80RlY?oc=5>
 
 ### 2026-05-23 20:03  (2 条)
 
