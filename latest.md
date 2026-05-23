@@ -1,56 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-23 17:04**
-- 本轮扫到 1937 条, 新增 **5** 条
+- 最近更新: **2026-05-23 18:33**
+- 本轮扫到 1939 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (2 条)
 
-### 特朗普告诉沃什：在美联储“按自己的方式行事”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-23 16:38
-- 链接: <https://news.google.com/rss/articles/CBMikwJBVV95cUxQamxCS0syLW1xc2dNSEp1S01ncVNndkhzUTJVZ3dWYWs3d2t0WVVSbnZZRndOZjY5RFd0c1FxNjFnaUtoaHVrcWtqZnJVY3otNHBhLWVDSDNwME9CeFg2eVBKazVTcXAwUXhjZk9wUWJ4NmYtSzJfYk9uWXRxOTRwNXFZOWtBM1RTa3ROckkyYk5sTWlRbXlLbVB6VURERHhHTjNBRVprZnd0RmdaSWdJUklFUTVOazdkV05fNWhaSlpUSlJmVzZqVjE0WTdzMFdHdDd4Z19CUTZaVVFPN29GVzFJY3JTTGFoRzdNNFdfQ2p1WTRIeE13Wkp4MFFKUGFES1M1bGlJeHIwbDFWUnZkU3BZaw?oc=5>
-
-### 特朗普主持仪式，凯文·沃什宣誓就任美联储主席，强调美联储将“以改革为导向”，“通胀会降低，经济将强劲增长”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 每日经济新闻
-- 时间: 2026-05-23 15:57
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ldEtmbjV5QTdsNzNtOTh5Szc3bUJDcGVjUUtGdWhWR1NYWkpwRTY0OF9udlZ1RVQwVlU5RXZzMkluc1hQdTRDNURFeUxnRzRqT18xbThaa3RsZkhrU2ZvUVl0VlR0QQ?oc=5>
-
-### 牛弹琴：印度的麻烦来了
+### 特朗普主持！“鹰派”沃什，就任美联储主席
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-23 15:21
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBrTGJIVzlYblFjd2loMVVxbEFyT0RNVzlKeXNHMTlYay1sVEdHUFRYaV9rV19RRHk3NHVxT1JwQWZYVkZJQW1CZ3NmTnMya3RWSGxIU2pFRXlWbVhWdkc0aWZXYy05N3M0ekFUUWtlV3ZmeE5tZTRwZw?oc=5>
+- 时间: 2026-05-23 17:03
+- 链接: <https://news.google.com/rss/articles/CBMiggJBVV95cUxNVVRVRDZGRjY0RHlQWGJyZW1wMWVrckF6Y2JEUWMtbnZwWi1yRkgtSGY1QV9nNkhLQ1lkZ203eFkxaU5rMUo0QU4xR3hzYWJvdkJfZllHMHlRZFhDOUZDXzFwLWQ5MDFhQ0VURTVLT1MwSGxYNndPaUZyaU8yZTZ2TFFOY1R2bVpHWnRzcFJtY3ByVFFXRXFhZkxoSW9sbEN4MU9GckVwLWFmRDZuYmhmZ3B5YW1XaGo1RXpUZGVWaFN4U0ZPRUFlSzdZRFJQTlVremhVb0hDR1d0TnpRQUpPekU4UlRLZEUyeXVldTRiQVBwWGhqd3o1eHFoRlphX05xWkE?oc=5>
 
-### 特朗普称可能于24日决定是否恢复对伊军事行动
+### 特朗普为司法部基金辩护，遭参议院共和党人反对
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-05-23 16:24
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KUXhEeVVHdG9OR1RtalFrTzVndmxQSVBHVDFuMzZKczk2NlNsYnpuWXE0U09qS2hTMXpPbXJtVVVENndoNzA3YU9EdDY5d2FPdHRUWk5jQjlESTJudWc?oc=5>
-
-### TRUMP/USDT
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Binance
-- 时间: 2026-05-23 14:28
-- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTFA2aDY1MWFLekYwOEVOVDVnRGZRbjB1T00wdW1MdUE3ZUxXcEpfb3VsSEdnWlBUS3p2YzNjTzAwRDIwdG4zYlF0SjQ5YjdEWV9USW9UQVZyRXJoNGx1QlhPLTRFbHpCdkp3ZkFxNFpTMmYyUlhwNDc0RTJEWQ?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-05-22 14:31
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQkg4TmhKNHQ1SzljUTB1c0c2VHFnOHRtNjQxQjJqeVloVGJoSVNzbER4RUd1RzR6aDV4QlhrdXc3N2JvSDdwSl9oWG5iVXZOZ0ZGWEwzRXRuSy1pNmF4X3ZCZFBydjNPY08teDRueWs1N1JsUlpzcGlta2JERmpCT1BRaXJFNno0d0xST1RBVWJpc0JRanY4NHhLYkJDS3hrTHk0dWs1YmFObGIyX3RzU0VsWjRPbG5waWF6VGtJUUJ1Q2hZTVZ5NUYtSmp2cGFrQldwYmYxUzNoV2gxcTdz?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-23 18:33  (2 条)
+
+- **特朗普** | 特朗普主持！“鹰派”沃什，就任美联储主席 <https://news.google.com/rss/articles/CBMiggJBVV95cUxNVVRVRDZGRjY0RHlQWGJyZW1wMWVrckF6Y2JEUWMtbnZwWi1yRkgtSGY1QV9nNkhLQ1lkZ203eFkxaU5rMUo0QU4xR3hzYWJvdkJfZllHMHlRZFhDOUZDXzFwLWQ5MDFhQ0VURTVLT1MwSGxYNndPaUZyaU8yZTZ2TFFOY1R2bVpHWnRzcFJtY3ByVFFXRXFhZkxoSW9sbEN4MU9GckVwLWFmRDZuYmhmZ3B5YW1XaGo1RXpUZGVWaFN4U0ZPRUFlSzdZRFJQTlVremhVb0hDR1d0TnpRQUpPekU4UlRLZEUyeXVldTRiQVBwWGhqd3o1eHFoRlphX05xWkE?oc=5>
+- **特朗普** | 特朗普为司法部基金辩护，遭参议院共和党人反对 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQkg4TmhKNHQ1SzljUTB1c0c2VHFnOHRtNjQxQjJqeVloVGJoSVNzbER4RUd1RzR6aDV4QlhrdXc3N2JvSDdwSl9oWG5iVXZOZ0ZGWEwzRXRuSy1pNmF4X3ZCZFBydjNPY08teDRueWs1N1JsUlpzcGlta2JERmpCT1BRaXJFNno0d0xST1RBVWJpc0JRanY4NHhLYkJDS3hrTHk0dWs1YmFObGIyX3RzU0VsWjRPbG5waWF6VGtJUUJ1Q2hZTVZ5NUYtSmp2cGFrQldwYmYxUzNoV2gxcTdz?oc=5>
 
 ### 2026-05-23 17:04  (5 条)
 
