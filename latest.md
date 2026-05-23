@@ -1,88 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-23 10:50**
-- 本轮扫到 1919 条, 新增 **9** 条
+- 最近更新: **2026-05-23 11:57**
+- 本轮扫到 1921 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (9 条)
+## 本轮新发现 (2 条)
 
-### 特朗普和赖清德 到底还谈不谈？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: DW.com
-- 时间: 2026-05-23 09:50
-- 链接: <https://news.google.com/rss/articles/CBMi5gFBVV95cUxQaU5JMGZGZ3pfYng1SUFldE5VTkd4RG95QUpma1hGRFkyT0tseDdGZzBjMGsyTk9vQ0R1dGRMaHNvZk92RkhiSlFxempWeUN2UlBYb0tGbkJOclJvT2F0a1d4RUwxeURoTVNoS19UWGlsRzNfWEJuTnNtTTRsZzR2MjBDeldHWU5qVWNQZzU5dkpEZVdtY3BMdTk0RTBneHpLVXhmNUpoR1BWS0xpTkpha1pMTUxtQk9fT2tLN2lTVVY3N3hPanVMRlo4eEEwQzlXanZkMEgxVU9rR0JZUFhzQUhjMWgxd9IB5gFBVV95cUxOX1YxRUZJY2lvRFRURW5qSXk4eFdXeXQ3SFBBUDNDdWhVLVhESjE4c25Nc1hVVWJQODFQTkoyeHF4dFVUZ2c0U3JTeHhHOGN6SU12VXZ2dmM2aXhXaHRNeWRZSHl5bnMtdVdGRUVQb1lLblBfdDVZRktpSEtMWFlsLWpxWWg0TlFtS2hERU1kUnpEUUNjbGsxNEZ1a1RYaTVZT2lXZ0tVeEMyS0ZJVzE1SjBQbGszTGloRjF0cXRHX0xXOHVIaDl6enJwcEFKQzRpN2hNZW1zRzJMNG5nWGFfN3FDOExXUQ?oc=5>
-
-### 消息人士称美台就潜在特赖通话有接触但无具体计划 鲁比奥怎么说？
+### 不愿削弱对华竞争优势 特朗普暂缓签署国内AI行政令
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-05-23 09:28
-- 链接: <https://news.google.com/rss/articles/CBMivANBVV95cUxOM29xNk83bDRsNHg3aUhKems2UFJTeGhITTd5MEFGeTN6ODZDWXFucF81ODZTc0xDUW95R19RdHZ5a3ktZ2tjSjRXT2R0b1gxSW81eUhIOTBiRE80emMwUmZkcVVtOXFZMmd3NjV0OG5XWGJxQ3dpNTZ1cHNsbG5zTEdDWmpjRnhOaE80RS1VYjVmVmh6dnI3NS1zT3NyLXFBb0djNlZWZ1A1bGhSZi1sUGtrSlhPTE1vSDZudW45TFdLM29ySVZfdG1qQ2U3djkySjl2YllPbUdzMmN3R3QzdEVuOC1DYloyMnNmVjdrRm9nME5QUHY5M0Y1YXRvVTNyZnBVcTRudF9LcWdMRDRLU2lXcEk2WnNkUDFxS1VJWV9RLVpLYTdqZF9UMUFEWkk1MW40cHgtUHRDeUNvZnk0TmlzNzJmSkY4V05PSGtKOFZDbnAxTDdIRTBkYjRsbzhldlNjUEQ5LUFWYlRJTjR4WlB2a05xZmJBN1VycGdxSkdGY2tYOG16OU9PMkhzTEhzNVp5QzlOanVtcFVIX3l3d1dtWXVPYjRzWmxKQVFkeS0yTVpNZEctME9fMWw?oc=5>
+- 场馆: 联合早报
+- 时间: 2026-05-22 09:33
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFB6NUVTS3Nzbks2SjFvS2YxVEstTlZIQWxsNndOeF9CNGRETENvQVhOWFl1TTVETWZvTG9jWDd3aE9UTE1xWXlJS0Y3SWxCV1VnVTdKN25TMzdLTjdYUTRMVVFxNldrUQ?oc=5>
 
-### 牛弹琴：印度的麻烦来了
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-23 10:18
-- 链接: <https://news.google.com/rss/articles/CBMimAJBVV95cUxQc2ZIU2hTanlGVnhXNWU1WnktWDhUNk51MnQ4X2haVWdfXzlhelBacE5nUzJBb2w2eFRXeURxU205OUpsdUhDQjlkNDN2Sll2SHNEM1pmWnptbzJvcFZ2WDYyRk1UMXJTUzJQMEZxdmplcmt4Wm9SRmx0OXRTaV9DTXVqS3FXYUpIZTlqb29ISzd1ZWRkMGdTUUdXVWpvdDNiUTFqd0hla1dvaVJ3eEJ5dDh0cDZSRnU3M2NLTm5QX1FySzZSNjczVVR2T2Rhbm9NYkRhRThlOWUtdUJIZkpzVUh3cUtXbmwyQk80YlNxd1NPNXVfaUlkSnlpNERWQVBqY0JjWjR3Ni1PUXJ4OW5xUFR0aURCSVp4?oc=5>
-
-### 特朗普取消出席儿子婚礼，返回白宫
+### 事实简报：唐纳德·特朗普总统与中国达成历史性协议，惠及美国工人、农民及产业- 美国驻华大使馆和领事馆
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-23 10:04
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE5kakNjNjhzT1pnS1Q0Z09FSnY0WkwtaGVGcGtQWk1RMnRGVjVwSWNjYjByVjYtOUZ5Y0w0QUkyT0xjT1REUEt4eC1HcEluRUtibW9mX0Z0akNKb2FtQ0lSMzRlbFV6VWFlNEw1LU1zX0lQdw?oc=5>
-
-### “史上最贵美国众议院初选”，特朗普批评者落败丨周观天下
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-23 06:47
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1QWlhxdVQ0aUlyWi1Fb1AzcXU0M3A4dUtpZlIxZVBNSXZPNU9Hb2ROT2szSXJ1ZFZycWNIOUxNdGhzRi1TVUpjMnZHLW5VV19tbmE5bzdSVkhyX3NmV3ozTWRubmEzemJPamNOa2dLc1ZEc3hCd1Zieg?oc=5>
-
-### 美联储新主席宣誓！特朗普呼吁“要遏制通胀，不要遏制伟大”，沃什表态要做格林斯潘
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-05-23 02:43
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE4teGtTTjlybXh3UEVYNDVRT2FacEJFNVd2MFlnQnpRbjFkRFlJVjgtczI1OHczeEJjZ0FQc2dKU2NoVW9oRGVLbF9VRHVyZXBlWE5r?oc=5>
-
-### 与特朗普唱反调？美国情报总监被曝遭白宫“逼走”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-05-23 08:32
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxOLXR5SXNMOUdET0Z4V3A5VV9PYjByZEN4NVM5QW1rbVFzRjhEdlc1aDE1VWVxSWVxVHdJdm1iYVgtUDE1QUxwLW9yZV9lU2JXVDRWMDNxZmFfZUJfR0ZrbHhrVmFSRnFKVkF1U1hsSXF4Y3QteVJ0V1lHeEFMMmI3aF9aZWVfa1kwQTlKUQ?oc=5>
-
-### OFFICIAL TRUMP价格
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Binance
-- 时间: 2026-05-21 18:41
-- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTE5jVFpJTzZhT09WVXJzbS1PVHlOQWhUdThjUEZqd3lPQjI4ZjNRcXpSMHZKaGg2SEdKbkxfUlVKTUFSdHRUYnRxUEpvQVY1MzhHSWh4b0loTVdCU2VZNGtaRkE0aXZOaXBIOXFueGoxWG1DekJHeGhMc0NMTQ?oc=5>
-
-### Relationship between the U.S. and China is a very strong one: Trump
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 澳门广播电视股份有限公司
-- 时间: 2026-05-18 21:37
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE5zWjNFV3haUUZmTkNQVHJRZEttdzRRS0dFd0E0WFFhZEo1UUJQcnlmNlJBTDZtZE9wRFZFQmtwcE0wcEJCTnRoM3BPTXZMcE80b2JjbHI3b0tmZGNqeXp0RmFUbGtfc2g3RTNF?oc=5>
+- 场馆: U.S. Embassy & Consulates in China
+- 时间: 2026-05-19 08:52
+- 链接: <https://news.google.com/rss/articles/CBMi9gFBVV95cUxOeVVYRW5yZTEtSDhPV2lRVnBNNDBLbVVVSkdWSFM1emE5NXpZRWhyVFVwaG9oNFd2d1p3blpCamNYR0RNOVVrVG00T2t1RjV5dFU1OGoyU1pNa3kzZGNHQkM1cEs1M3Z1Qm12UEY4cFRuWG5EdUx4NzBueWtsRE8tVS1waDllQVlHeDY4dTRhQ2wzZW9JbUZMRENqVVkxcmV1X2VYVjQtT2UtZnh3UDMxbXd0S1NTc3RxbmU3U2hMUGYzYkE4a3RhVUl4bGpUYjJPRUVwVmlmdkNMYVVhM0RhOE9aeEU2RXBBbVBZa040N2NkbHJnQWc?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-23 11:57  (2 条)
+
+- **特朗普** | 不愿削弱对华竞争优势 特朗普暂缓签署国内AI行政令 <https://news.google.com/rss/articles/CBMiZkFVX3lxTFB6NUVTS3Nzbks2SjFvS2YxVEstTlZIQWxsNndOeF9CNGRETENvQVhOWFl1TTVETWZvTG9jWDd3aE9UTE1xWXlJS0Y3SWxCV1VnVTdKN25TMzdLTjdYUTRMVVFxNldrUQ?oc=5>
+- **特朗普** | 事实简报：唐纳德·特朗普总统与中国达成历史性协议，惠及美国工人、农民及产业- 美国驻华大使馆和领事馆 <https://news.google.com/rss/articles/CBMi9gFBVV95cUxOeVVYRW5yZTEtSDhPV2lRVnBNNDBLbVVVSkdWSFM1emE5NXpZRWhyVFVwaG9oNFd2d1p3blpCamNYR0RNOVVrVG00T2t1RjV5dFU1OGoyU1pNa3kzZGNHQkM1cEs1M3Z1Qm12UEY4cFRuWG5EdUx4NzBueWtsRE8tVS1waDllQVlHeDY4dTRhQ2wzZW9JbUZMRENqVVkxcmV1X2VYVjQtT2UtZnh3UDMxbXd0S1NTc3RxbmU3U2hMUGYzYkE4a3RhVUl4bGpUYjJPRUVwVmlmdkNMYVVhM0RhOE9aeEU2RXBBbVBZa040N2NkbHJnQWc?oc=5>
 
 ### 2026-05-23 10:50  (9 条)
 
