@@ -1,56 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-23 15:59**
-- 本轮扫到 1932 条, 新增 **5** 条
+- 最近更新: **2026-05-23 17:04**
+- 本轮扫到 1937 条, 新增 **5** 条
 
 ---
 
 ## 本轮新发现 (5 条)
 
-### 美官员：特朗普愿给美伊谈判“更多时间”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中国青年网
-- 时间: 2026-05-23 13:14
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RYnFmYjBLd2R5SnNreUVjRnAteEhlUC02V1F2WTJVLW1qWFhmMmkzR3JGWGxxaDBiZnk3ME0yOWpiZkx0elIzNkZ4cHdNSWJrQVpsX29xdEVTQkU5a1NfQ0dnbmI?oc=5>
-
-### 特朗普预计于美国东部......_7x24快讯_新浪财经
+### 特朗普告诉沃什：在美联储“按自己的方式行事”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-23 15:35
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5teC1pWHFOYXZ6aFB4R1BqcFNfU3RjVFc1ci1XMWFieXpMV0hRRW94bldmUHQtbXBOTnRpM0k3YUdjVXROeWJSRHZVbw?oc=5>
+- 时间: 2026-05-23 16:38
+- 链接: <https://news.google.com/rss/articles/CBMikwJBVV95cUxQamxCS0syLW1xc2dNSEp1S01ncVNndkhzUTJVZ3dWYWs3d2t0WVVSbnZZRndOZjY5RFd0c1FxNjFnaUtoaHVrcWtqZnJVY3otNHBhLWVDSDNwME9CeFg2eVBKazVTcXAwUXhjZk9wUWJ4NmYtSzJfYk9uWXRxOTRwNXFZOWtBM1RTa3ROckkyYk5sTWlRbXlLbVB6VURERHhHTjNBRVprZnd0RmdaSWdJUklFUTVOazdkV05fNWhaSlpUSlJmVzZqVjE0WTdzMFdHdDd4Z19CUTZaVVFPN29GVzFJY3JTTGFoRzdNNFdfQ2p1WTRIeE13Wkp4MFFKUGFES1M1bGlJeHIwbDFWUnZkU3BZaw?oc=5>
 
-### 特朗普再次表示将与赖清德通话，或激怒中国
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-05-22 01:01
-- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxPenU4MUNtSWphWXMyeHV5czVGSlhQOGp6VmhHSVRRRGI1bExLcV9LLWVYZ091N2JSaEl5T1hhZUg5TWRvUTNMYUxWdkxpUlp0X3c3dkRKTzBmYXp0NTNWME8ycml3Ym9HZ3J3QzJ3NHU1V3ZLRkhSV3NHWU1qblhmVFZNNjdBN2x0RmJj?oc=5>
-
-### 沃什接棒第11任美联储主席！特朗普：别看我的脸色
+### 特朗普主持仪式，凯文·沃什宣誓就任美联储主席，强调美联储将“以改革为导向”，“通胀会降低，经济将强劲增长”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 第一财经
-- 时间: 2026-05-23 00:25
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5UQWVxYXFsRFJ5SVBkNzI0dmoteW9EU2JnUGZ6MDd5UVQ5MnFxODd6NjNCdndWUFNfZnRnbmNlTEE3cjF2TkhJczg3WjNGWjJLWVNV?oc=5>
+- 场馆: 每日经济新闻
+- 时间: 2026-05-23 15:57
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ldEtmbjV5QTdsNzNtOTh5Szc3bUJDcGVjUUtGdWhWR1NYWkpwRTY0OF9udlZ1RVQwVlU5RXZzMkluc1hQdTRDNURFeUxnRzRqT18xbThaa3RsZkhrU2ZvUVl0VlR0QQ?oc=5>
+
+### 牛弹琴：印度的麻烦来了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-23 15:21
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBrTGJIVzlYblFjd2loMVVxbEFyT0RNVzlKeXNHMTlYay1sVEdHUFRYaV9rV19RRHk3NHVxT1JwQWZYVkZJQW1CZ3NmTnMya3RWSGxIU2pFRXlWbVhWdkc0aWZXYy05N3M0ekFUUWtlV3ZmeE5tZTRwZw?oc=5>
+
+### 特朗普称可能于24日决定是否恢复对伊军事行动
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-05-23 16:24
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KUXhEeVVHdG9OR1RtalFrTzVndmxQSVBHVDFuMzZKczk2NlNsYnpuWXE0U09qS2hTMXpPbXJtVVVENndoNzA3YU9EdDY5d2FPdHRUWk5jQjlESTJudWc?oc=5>
 
 ### TRUMP/USDT
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: Binance
-- 时间: 2026-05-23 14:44
-- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTE1xdmxPMnlpV0RsVld0c3U2Yld5OEF3VjlJa1MyNDczUjdWYlhXaU1nNnBTLTUtaGw3M3pCUzN3amRvYXVVNjYtRWtSZTZ0Q1dxaDVjT2xKVlFuX3pEOHg5d1lSQ0s0RWh2a2VCR1RNcy1DdFV3LUtfMkNSSQ?oc=5>
+- 时间: 2026-05-23 14:28
+- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTFA2aDY1MWFLekYwOEVOVDVnRGZRbjB1T00wdW1MdUE3ZUxXcEpfb3VsSEdnWlBUS3p2YzNjTzAwRDIwdG4zYlF0SjQ5YjdEWV9USW9UQVZyRXJoNGx1QlhPLTRFbHpCdkp3ZkFxNFpTMmYyUlhwNDc0RTJEWQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-23 17:04  (5 条)
+
+- **特朗普** | 特朗普告诉沃什：在美联储“按自己的方式行事” <https://news.google.com/rss/articles/CBMikwJBVV95cUxQamxCS0syLW1xc2dNSEp1S01ncVNndkhzUTJVZ3dWYWs3d2t0WVVSbnZZRndOZjY5RFd0c1FxNjFnaUtoaHVrcWtqZnJVY3otNHBhLWVDSDNwME9CeFg2eVBKazVTcXAwUXhjZk9wUWJ4NmYtSzJfYk9uWXRxOTRwNXFZOWtBM1RTa3ROckkyYk5sTWlRbXlLbVB6VURERHhHTjNBRVprZnd0RmdaSWdJUklFUTVOazdkV05fNWhaSlpUSlJmVzZqVjE0WTdzMFdHdDd4Z19CUTZaVVFPN29GVzFJY3JTTGFoRzdNNFdfQ2p1WTRIeE13Wkp4MFFKUGFES1M1bGlJeHIwbDFWUnZkU3BZaw?oc=5>
+- **特朗普** | 特朗普主持仪式，凯文·沃什宣誓就任美联储主席，强调美联储将“以改革为导向”，“通胀会降低，经济将强劲增长” <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ldEtmbjV5QTdsNzNtOTh5Szc3bUJDcGVjUUtGdWhWR1NYWkpwRTY0OF9udlZ1RVQwVlU5RXZzMkluc1hQdTRDNURFeUxnRzRqT18xbThaa3RsZkhrU2ZvUVl0VlR0QQ?oc=5>
+- **特朗普** | 牛弹琴：印度的麻烦来了 <https://news.google.com/rss/articles/CBMieEFVX3lxTFBrTGJIVzlYblFjd2loMVVxbEFyT0RNVzlKeXNHMTlYay1sVEdHUFRYaV9rV19RRHk3NHVxT1JwQWZYVkZJQW1CZ3NmTnMya3RWSGxIU2pFRXlWbVhWdkc0aWZXYy05N3M0ekFUUWtlV3ZmeE5tZTRwZw?oc=5>
+- **特朗普** | 特朗普称可能于24日决定是否恢复对伊军事行动 <https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KUXhEeVVHdG9OR1RtalFrTzVndmxQSVBHVDFuMzZKczk2NlNsYnpuWXE0U09qS2hTMXpPbXJtVVVENndoNzA3YU9EdDY5d2FPdHRUWk5jQjlESTJudWc?oc=5>
+- **Trump** | TRUMP/USDT <https://news.google.com/rss/articles/CBMie0FVX3lxTFA2aDY1MWFLekYwOEVOVDVnRGZRbjB1T00wdW1MdUE3ZUxXcEpfb3VsSEdnWlBUS3p2YzNjTzAwRDIwdG4zYlF0SjQ5YjdEWV9USW9UQVZyRXJoNGx1QlhPLTRFbHpCdkp3ZkFxNFpTMmYyUlhwNDc0RTJEWQ?oc=5>
 
 ### 2026-05-23 15:59  (5 条)
 
