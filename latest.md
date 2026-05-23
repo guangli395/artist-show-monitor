@@ -1,32 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-23 18:33**
-- 本轮扫到 1939 条, 新增 **2** 条
+- 最近更新: **2026-05-23 20:03**
+- 本轮扫到 1941 条, 新增 **2** 条
 
 ---
 
 ## 本轮新发现 (2 条)
 
-### 特朗普主持！“鹰派”沃什，就任美联储主席
+### 特朗普突然变卦，中方叫停美国投资？消息一出，外资抢购中国资产
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-23 17:03
-- 链接: <https://news.google.com/rss/articles/CBMiggJBVV95cUxNVVRVRDZGRjY0RHlQWGJyZW1wMWVrckF6Y2JEUWMtbnZwWi1yRkgtSGY1QV9nNkhLQ1lkZ203eFkxaU5rMUo0QU4xR3hzYWJvdkJfZllHMHlRZFhDOUZDXzFwLWQ5MDFhQ0VURTVLT1MwSGxYNndPaUZyaU8yZTZ2TFFOY1R2bVpHWnRzcFJtY3ByVFFXRXFhZkxoSW9sbEN4MU9GckVwLWFmRDZuYmhmZ3B5YW1XaGo1RXpUZGVWaFN4U0ZPRUFlSzdZRFJQTlVremhVb0hDR1d0TnpRQUpPekU4UlRLZEUyeXVldTRiQVBwWGhqd3o1eHFoRlphX05xWkE?oc=5>
+- 时间: 2026-05-23 01:29
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE9KcFdFbkotX3JzOGxNdU9yVWhVMUh4eFZ4VWMxRXdrUk4zcFUtX3Nsc2gwdlRsM3RuTTZmX1Iydkx2cjlyeHpXeTExLU8xdWN0UVRmc0ZTQkJGYkM4Q2VLZ3Y2T1dDN3JDR1NrSkdfT1FCcWZVV0E?oc=5>
 
-### 特朗普为司法部基金辩护，遭参议院共和党人反对
+### TRUMP/USDT
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-22 14:31
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQkg4TmhKNHQ1SzljUTB1c0c2VHFnOHRtNjQxQjJqeVloVGJoSVNzbER4RUd1RzR6aDV4QlhrdXc3N2JvSDdwSl9oWG5iVXZOZ0ZGWEwzRXRuSy1pNmF4X3ZCZFBydjNPY08teDRueWs1N1JsUlpzcGlta2JERmpCT1BRaXJFNno0d0xST1RBVWJpc0JRanY4NHhLYkJDS3hrTHk0dWs1YmFObGIyX3RzU0VsWjRPbG5waWF6VGtJUUJ1Q2hZTVZ5NUYtSmp2cGFrQldwYmYxUzNoV2gxcTdz?oc=5>
+- 场馆: Binance
+- 时间: 2026-05-23 13:01
+- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTE50al9GdDJ3Y0ZlU1lYWjh2UjcxbVpVSy16U2NvdEo0ME0zdWM4SG5PYzNtV1Btc0JjOUlvM3k0LWJGd3ZsVjlwbmJxem5aMC02cU83YndreEZFQ200UFBnRGIyaENFOTFXTWJrYmc0a1YzVG9GZWNDU29TRQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-23 20:03  (2 条)
+
+- **特朗普** | 特朗普突然变卦，中方叫停美国投资？消息一出，外资抢购中国资产 <https://news.google.com/rss/articles/CBMidkFVX3lxTE9KcFdFbkotX3JzOGxNdU9yVWhVMUh4eFZ4VWMxRXdrUk4zcFUtX3Nsc2gwdlRsM3RuTTZmX1Iydkx2cjlyeHpXeTExLU8xdWN0UVRmc0ZTQkJGYkM4Q2VLZ3Y2T1dDN3JDR1NrSkdfT1FCcWZVV0E?oc=5>
+- **Trump** | TRUMP/USDT <https://news.google.com/rss/articles/CBMie0FVX3lxTE50al9GdDJ3Y0ZlU1lYWjh2UjcxbVpVSy16U2NvdEo0ME0zdWM4SG5PYzNtV1Btc0JjOUlvM3k0LWJGd3ZsVjlwbmJxem5aMC02cU83YndreEZFQ200UFBnRGIyaENFOTFXTWJrYmc0a1YzVG9GZWNDU29TRQ?oc=5>
 
 ### 2026-05-23 18:33  (2 条)
 
