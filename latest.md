@@ -1,62 +1,73 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-22 22:53**
-- 本轮扫到 1881 条, 新增 **6** 条
+- 最近更新: **2026-05-23 00:01**
+- 本轮扫到 1887 条, 新增 **6** 条
 
 ---
 
 ## 本轮新发现 (6 条)
 
-### 只能说哥的兵还是太猛了! 南昌 蔡徐坤 ikun 粉丝 见面会
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301bteu.html>
-
-### 要闻分析 - 亲特朗普、涉以色列“黑立方”风波，争议“推特元帅”第四次出任斯洛文尼亚总理引震动
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-05-22 19:16
-- 链接: <https://news.google.com/rss/articles/CBMi0wRBVV95cUxPN0draGk4NFpabmN2cFl6MHIzNzFHLXBUd0VLYXpMbkJTdGNUbGFONkFXam5OQ3dhTGpjU3duYlpRdVZkUVZ3SFhkLWQ3YWs4ZFo0YjFVQkJ6UExsN2IwU1FDR1JMZFBZQS1abklhNXZvSy13S0tkQW9qc05ZZzM1eHJmT2gteWdmeHBRRDhXM2tHTGR5OXNLa3VwdHR0SWJNQzB1SXYxTzBoLUpJa1hQT2UwMzJ4ZmhsZlhUUjJkY1k5NExUeFdqVlVLYUJSQlJTN2duWlE1M0NSM2NvcHlsOW84WFdOWUJZVnMzNmc2dGRiMmN1TFRYTkIwT2xhelp0WkhMU2o1OHBUeVYwdnl1Z2hPTFNlTDNpMGtlYWNXSXVhN195Q1VOdXNDdTFFck02TDJYQjZ5RkZjSzE5RDhYaVExdmt1RXl1TF9ORllpRHdwSlZRYmYzS3pYYnRtZFhyMGlkeS1kUTJ0MzdQRGJ4cUJ2WmxtUnJEMjloc0lZU09UU282UXZsNkQ3WHZReDZyMGlyb19iczY4MkgtbHNac2JpOF92LWJfUWRnZW5KS2xUbFdtSmg3QzNETFRvdXVyaXc2M09RRXJrOXNxdndHbzVTd0R5VGFSajA0ZUpXQ1hPWkpwWU9zTnFKWlNyVzA1RFlveVQ5RUwtSkV3SlBldGkxU3NDZ3hWRl9xUnRiWGxsM3Q1ZFNvMjgwREViTEpCbHRwN19sWDduV01XTGpid3Z3YjlyZDg1WGRCMkhXWTA4V1dxSERzMVQ4Qzl6Wkk1M1pR?oc=5>
-
-### 特朗普与国家安全团队举行会议，商讨对伊战事
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-05-22 21:04
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLamlZcUVPS0NxNWxqb2hPSXJDTFB0bkloUDJXcTdWSWJ1QU81SzExVFdCX0tEemdvVGVyQVU5b1JOaHZ5ZDdoV3VaSm0tLWtwaTdKbUFLRGJJRG10MEl5OQ?oc=5>
-
-### 特朗普：此前听到了有关人工智能行政令的担忧，而自己也察觉到了这些担忧。
+### 特朗普向纽约民众表示......_7x24快讯_新浪财经
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-22 22:08
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zcUVKSmpxMGNQaDJHZEpSLW85Rk5lRVo0UFJDeUNxRlRUeG10TlUzMEV2VDhURWNMVjJwbEFpb3RrQ25QZm9RTVN6OA?oc=5>
+- 时间: 2026-05-22 19:54
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9RWEphWXNmLWppamwyUkh0RkVzSGdSV1NDWE44bEp6YUNCdnZaa1hwUi14cGFjUlQ2R0RUaDd0dHJoa2VOVS1uYkcwMA?oc=5>
 
-### 特朗普主持沃什就任美联储主席仪式
+### 特朗普：我们看好电动汽车。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-05-22 16:31
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1QTnYwMkw5MkZDVWFtVkJQQ2RIWjBHdWZXZlVOZFZMR2FUVlAxdnMtLWNnbjdqRUhIXzdRZ1NWbUd0S0UtZEJPVmRIRFo?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-05-22 20:22
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XR2VlUktpNGNveDZWYmZXbFVGQ2pObTlWSElZRzVmN1RqUm9xN184T2VJUGhSVm9jdzdIMnBGbWh3NWJ1d1ctQXQ2Yw?oc=5>
+
+### 特朗普：我获得了执法群体99%的选票，难以置信吧。至今还没弄清剩下1%的选票花落谁家。
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-22 20:12
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFAyYlpsZklfSkdDeE5NTENXR0lEdEFpeFRncXJWaFVRX040UTB3dGJyYnZSRHBfclVCU3BuYUFnWTVkRlJ4QktuM2Vodw?oc=5>
+
+### 报道：特朗普周五与国家安全高级顾问会面
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-22 20:48
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9jbUN1ZzZPWWZvQ1VGeTZZX05wazR1TkZEVmpSQjZGZlJyZTNlNU9rZFZZb3YxSXAxeld6M0FXT0lldTZzek15MkVLVQ?oc=5>
+
+### 美伊僵持局势仍无缓解迹象 特朗普与内塔尼亚胡分歧曝光
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 财新
+- 时间: 2026-05-22 08:11
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBJNnpaaDZQYm8ybnBlYTE3MTdTbDZYZWJtcXlBcDVLajdFSHZRekF1b3FveGh6WTYyVHpaQ19COTFXRVNkN2d5d2JwdHBVYWRKWWN5LUlFWVY0YTNwU0dyMEc1NVpUQ3ZZYlE?oc=5>
 
 ### TRUMP/USDT
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: Binance
-- 时间: 2026-05-22 20:46
-- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTE1NUVhFU0JiRURDSVUtNXZJWEFVLXhScUgzZXA2OVpMY1hLaFJVYlFfdFl4eUxhZFN2NkQ0cUREakpIM3R3aVl5d1h5VU8zdXVxOHhhS3g1WUl6a3duVklIMm9nTVoyOWpMQjlMYV9HWldCNGNwbTJBMklUbw?oc=5>
+- 时间: 2026-05-22 06:25
+- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE1mRkhyVmpfN3Y0S21ZQnROOGlZbU9WaE5ScUo5QkprSDMzLWVmOVYtUDdYMl9wcUgwTWR6d2lyYWE4NzBreXE4UW5GUG1JaTc1R0h6ZnU1UjFvNlNqbjh5bkFBVmRCYk50bjFPTlkyZlRGMDh1OEszM1h1a1E?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-23 00:01  (6 条)
+
+- **特朗普** | 特朗普向纽约民众表示......_7x24快讯_新浪财经 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9RWEphWXNmLWppamwyUkh0RkVzSGdSV1NDWE44bEp6YUNCdnZaa1hwUi14cGFjUlQ2R0RUaDd0dHJoa2VOVS1uYkcwMA?oc=5>
+- **特朗普** | 特朗普：我们看好电动汽车。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XR2VlUktpNGNveDZWYmZXbFVGQ2pObTlWSElZRzVmN1RqUm9xN184T2VJUGhSVm9jdzdIMnBGbWh3NWJ1d1ctQXQ2Yw?oc=5>
+- **特朗普** | 特朗普：我获得了执法群体99%的选票，难以置信吧。至今还没弄清剩下1%的选票花落谁家。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTFAyYlpsZklfSkdDeE5NTENXR0lEdEFpeFRncXJWaFVRX040UTB3dGJyYnZSRHBfclVCU3BuYUFnWTVkRlJ4QktuM2Vodw?oc=5>
+- **特朗普** | 报道：特朗普周五与国家安全高级顾问会面 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9jbUN1ZzZPWWZvQ1VGeTZZX05wazR1TkZEVmpSQjZGZlJyZTNlNU9rZFZZb3YxSXAxeld6M0FXT0lldTZzek15MkVLVQ?oc=5>
+- **特朗普** | 美伊僵持局势仍无缓解迹象 特朗普与内塔尼亚胡分歧曝光 <https://news.google.com/rss/articles/CBMiakFVX3lxTFBJNnpaaDZQYm8ybnBlYTE3MTdTbDZYZWJtcXlBcDVLajdFSHZRekF1b3FveGh6WTYyVHpaQ19COTFXRVNkN2d5d2JwdHBVYWRKWWN5LUlFWVY0YTNwU0dyMEc1NVpUQ3ZZYlE?oc=5>
+- **Trump** | TRUMP/USDT <https://news.google.com/rss/articles/CBMifEFVX3lxTE1mRkhyVmpfN3Y0S21ZQnROOGlZbU9WaE5ScUo5QkprSDMzLWVmOVYtUDdYMl9wcUgwTWR6d2lyYWE4NzBreXE4UW5GUG1JaTc1R0h6ZnU1UjFvNlNqbjh5bkFBVmRCYk50bjFPTlkyZlRGMDh1OEszM1h1a1E?oc=5>
 
 ### 2026-05-22 22:53  (6 条)
 
