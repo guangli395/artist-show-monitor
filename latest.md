@@ -1,94 +1,80 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-23 04:14**
-- 本轮扫到 1898 条, 新增 **11** 条
+- 最近更新: **2026-05-23 07:13**
+- 本轮扫到 1905 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (11 条)
+## 本轮新发现 (7 条)
 
-### 这个蔡徐坤真的夯爆了！ 蔡徐坤 Chinesenewyear 迪拜音乐节 权志龙 新年快乐
+### 豆豆给KUN说“期待演唱会” 蔡徐坤 单眼皮的小黄豆
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301bsiq.html>
+- 链接: <https://k.sina.com.cn/article_7879923704_m1d5ae17f803301slns.html>
 
-### 演唱会拍摄秘籍大公开，外场也能拍出神级大片！Pura90两亿追星神器
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6090644800_m16b07dd4003301zhdo.html>
-
-### 中国新歌声庾澄庆战队学员都有谁 中国新歌声第一季四强学员
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905thcs.html>
-
-### 《追踪新歌声》第二期
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905thaq.html>
-
-### 周杰伦2026年北京鸟巢演唱会启动售票，票价即将上涨
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6605420664_m189b6b87803302vsqi.html>
-
-### 沃什接棒第11任美联储主席！特朗普：别看我的脸色
+### 沃什宣誓就任美联储主席，特朗普：希望沃什成为一名“完全独立”的美联储主席
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-23 03:14
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxONHI1OHRHcTd0M0owYjRZN3I5Q0x3SGxuamhCMjhoank5RkZtcFA1SnlodmoydmFlNzJxRGpmS0k2WlBLdmNxbHN6R0V2QUNsd0FnN1pIWTQ3UjhWNW1QS0FLOVhHNmhqZm1UT2xDUGFQZWFyOXJaLS1DNVhGMmpMTzJ3QTdxdUowSVAxWGhEanUxbnBHVkNFZg?oc=5>
+- 时间: 2026-05-23 06:56
+- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE1scnpwNFlBZHpQVktEQjJ3X1pTaU9FRDE1Yzk2QWM2TDVWbEJwbTdfdjRhZ2RGblBta0V0azRVNnRSNHlpR1d1b2d2eWhiNFZVeTE3UGFINXdKT2FHaTBFdThSdkhoRko0SWZWR1dnTzhFQnZmeVlrNDlGeXJVQQ?oc=5>
 
-### 前盟友警告：特朗普或利用对伊战争取消美国选举
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-05-23 04:05
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE8zU3JVUXNhSjNYVkR0VWJaZ2hQSzJwSkJaUUJmeGlRb0h3X0pkNmRRU0gydWY2SHZ4ejBvT01SSmpLSmc0el95MDBpZlE?oc=5>
-
-### 特朗普：我会销毁-观察者网
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-05-21 23:42
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1oeEpuS3FZYmFPWVlsSVJockxxcXZlTzhaN1VPb0FJZ0RnNXlPVUpwN3RUTFB3V3R3bEdCNkpmRG9lMHVYMkRFSHZ2Y0lFNk1sVjlsQ29YRVZHTDVMUEd2TjFMcWoya2ttSFE?oc=5>
-
-### 市场消息：特朗普获悉伊朗谈判失败后的各类应对预案。
+### 媒体：特朗普为打破伊朗僵局推出的高风险军事选项
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-22 20:35
-- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE13eVJua3FmVkxhenpRaEh5QWQwcHB6R1RYRlFjTEJIbmZILVZaQ0VtT3dWSzVuS1FDczd3bUp5VkZrX21GdVN0U1REWGV2NTVCSEV5QWJJNDZRMVRnai1ndW4wb1YxQUJnd003dXJjaWZCanRfNExkMXhObmE3UQ?oc=5>
+- 时间: 2026-05-23 05:01
+- 链接: <https://news.google.com/rss/articles/CBMiigJBVV95cUxQWkhYQ3lOaE14Z0NfNjV1alU5SGQ5ODBWbFFvSWNQU1FlMUtTbUpRdkxVdDRWWk4zcHgwb0Jvdm5mRXZRa3E2ekFuT1JXT3B6YWE3TlB0Y3VVVzgxTkRwYmFnR3l2Y1BKQU54R0EyaWp0dkl1RHBpdURMYldReE9hTGdmVlMzbHIzQUJVYVM3QVpHelQzQzhzVnMzNkgtYW9CUDhUeWVQc015MFYyemFUeDhhSUpTWWU1Ql80NUxwQlFlUEdXUjZQSFM5UHRXdG9jX0VlTlpfc3dlUVh1QTVQYWJyY0tBWWc4c1NFVlhQWjFQd3dEckZsUUE3blZrVDJnMmxveTB2dm1nQQ?oc=5>
 
-### 特朗普称美国将向波兰增派5,000名士兵
+### 特朗普与国家安全团队举行会议 商讨对伊战事
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: china.zjol.com.cn
+- 时间: 2026-05-23 03:27
+- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTE5RMnJXZk0yems0cm44cHpTREtzUUVGdWs0U1hZRTI1VjB0MHQtWnQ2Qk0xSENZaF9ONXRXeE41cHFqXy1uX2NMZFdSXzkySjhzVm56bjB2TTdZM2p6bnItRE9fczgwc05oNldsWm53?oc=5>
+
+### 特朗普取消出席儿子婚礼，返回白宫
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Sina finance
+- 时间: 2026-05-23 03:51
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTFBTandJVWdQZjZwS2RBdm9UaUxFVmp4NU5XdDFnLTR5anh4bnVFVU5wQjNpS0Zpc3pTczVmZjA5dC1JQThnTm81NkxVckd3T0tHTjNrY2xIbVU3R2ZSdHVwdFlxMjY0cEZWSGR1ODdGTFNfX3E0anc?oc=5>
+
+### 特朗普周末“坐镇白宫” ：若谈判破裂或对伊朗发动“决定性打击”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-05-23 03:49
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hSGN6dHZaa3oySTExMFFvSGNYM3NVNjRNdTFmQm5TWmRnMC1oX3ZKc3Iwa04wSnNCVzdtN1lnMXhDWmc3d1VtUGZNUmJFeC12d2p3TGM5YndCSFVsbGpnWA?oc=5>
+
+### TRUMP/USDT
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-05-22 08:01
-- 链接: <https://news.google.com/rss/articles/CBMikwFBVV95cUxPWU14OHBlejYyTmNKWEVPMlhwSDNFWGplWHJPYlVYY3o0UnR2ck9taXV1Wmx5S2hncVVucjBKOFpyRENMZTJIV0hkcnpRc2FJUXVIZ24zN3pGVk5BN21Kdm1jaURuSXFCNTVYRExmcnlNVmdXWVdaUVN2cllDcHFjNUl0X2ViZ0VpUXVPdmZTQWdLYW8?oc=5>
-
-### 外媒上手特朗普T1手机：不再标榜“美国制造”|唐纳德·特朗普|智能手机|HTC|HTC U24 pro|促销价_手机新浪网
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-20 05:33
-- 链接: <https://news.google.com/rss/articles/CBMi5wJBVV95cUxPc0lsVXFlb1NvOTlNb09YLVpwUXZIeEZFQnNtT3RkQWlDVVN2Ny1oSE1OZTNlY2l4WmxrOHN3TWU4cUR3c0t5MGN6cTZrMnh0TlZBcGs5SFRBSWo0V3h3enBQOFBmZEVwazFieFFTVVByd2U3Qmp0THpaaldVVHhLRmplcWNocFVHQUpKTW05bl9uM1AyODB4U0NCNHd2b04wQ0FvX2I0M19oMzVUTkFOZVFvY2MxanEtN0J0VnNxTUdQb2Z0TjNPLU00YnJiMURJTWtaNlFxNDBvWkN0c3piOUc3NGpwMDBmM09tMThBc1doalVGRXM5RzN1Y1RlcUZXUDZCdkkzblpsNEY4TDJLaGhmWC05Mk82VnZ5X3Zsd1AzWnJxcVV4V01zMTZNRTVQX3F6MUlKSk5BbFpLblViMG9LTTQ1eG42dTRRQ1dhM2hqdTh2TkdRbmF4UGE5Rm5rZl83NkVQaw?oc=5>
+- 场馆: Binance
+- 时间: 2026-05-23 00:34
+- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTE1LY0taUEFqaGFWRWZyQ1k0MTRmM1ZESEIxTzhlcTlEVEdUbmhIMmo4d3dIY2pfbk5NYzFRV0t3MGFfUDFHTUVPLTJqc1U3R0EwTGxQczJ6MEMtSjNYLUFQWmk2eDZKOHFFZ3pwbEJzcHNTOU1PRzJieGVwOA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-23 07:13  (7 条)
+
+- **蔡徐坤** | 豆豆给KUN说“期待演唱会” 蔡徐坤 单眼皮的小黄豆 <https://k.sina.com.cn/article_7879923704_m1d5ae17f803301slns.html>
+- **特朗普** | 沃什宣誓就任美联储主席，特朗普：希望沃什成为一名“完全独立”的美联储主席 <https://news.google.com/rss/articles/CBMifkFVX3lxTE1scnpwNFlBZHpQVktEQjJ3X1pTaU9FRDE1Yzk2QWM2TDVWbEJwbTdfdjRhZ2RGblBta0V0azRVNnRSNHlpR1d1b2d2eWhiNFZVeTE3UGFINXdKT2FHaTBFdThSdkhoRko0SWZWR1dnTzhFQnZmeVlrNDlGeXJVQQ?oc=5>
+- **特朗普** | 媒体：特朗普为打破伊朗僵局推出的高风险军事选项 <https://news.google.com/rss/articles/CBMiigJBVV95cUxQWkhYQ3lOaE14Z0NfNjV1alU5SGQ5ODBWbFFvSWNQU1FlMUtTbUpRdkxVdDRWWk4zcHgwb0Jvdm5mRXZRa3E2ekFuT1JXT3B6YWE3TlB0Y3VVVzgxTkRwYmFnR3l2Y1BKQU54R0EyaWp0dkl1RHBpdURMYldReE9hTGdmVlMzbHIzQUJVYVM3QVpHelQzQzhzVnMzNkgtYW9CUDhUeWVQc015MFYyemFUeDhhSUpTWWU1Ql80NUxwQlFlUEdXUjZQSFM5UHRXdG9jX0VlTlpfc3dlUVh1QTVQYWJyY0tBWWc4c1NFVlhQWjFQd3dEckZsUUE3blZrVDJnMmxveTB2dm1nQQ?oc=5>
+- **特朗普** | 特朗普与国家安全团队举行会议 商讨对伊战事 <https://news.google.com/rss/articles/CBMibkFVX3lxTE5RMnJXZk0yems0cm44cHpTREtzUUVGdWs0U1hZRTI1VjB0MHQtWnQ2Qk0xSENZaF9ONXRXeE41cHFqXy1uX2NMZFdSXzkySjhzVm56bjB2TTdZM2p6bnItRE9fczgwc05oNldsWm53?oc=5>
+- **特朗普** | 特朗普取消出席儿子婚礼，返回白宫 <https://news.google.com/rss/articles/CBMidkFVX3lxTFBTandJVWdQZjZwS2RBdm9UaUxFVmp4NU5XdDFnLTR5anh4bnVFVU5wQjNpS0Zpc3pTczVmZjA5dC1JQThnTm81NkxVckd3T0tHTjNrY2xIbVU3R2ZSdHVwdFlxMjY0cEZWSGR1ODdGTFNfX3E0anc?oc=5>
+- **特朗普** | 特朗普周末“坐镇白宫” ：若谈判破裂或对伊朗发动“决定性打击” <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hSGN6dHZaa3oySTExMFFvSGNYM3NVNjRNdTFmQm5TWmRnMC1oX3ZKc3Iwa04wSnNCVzdtN1lnMXhDWmc3d1VtUGZNUmJFeC12d2p3TGM5YndCSFVsbGpnWA?oc=5>
+- **Trump** | TRUMP/USDT <https://news.google.com/rss/articles/CBMie0FVX3lxTE1LY0taUEFqaGFWRWZyQ1k0MTRmM1ZESEIxTzhlcTlEVEdUbmhIMmo4d3dIY2pfbk5NYzFRV0t3MGFfUDFHTUVPLTJqc1U3R0EwTGxQczJ6MEMtSjNYLUFQWmk2eDZKOHFFZ3pwbEJzcHNTOU1PRzJieGVwOA?oc=5>
 
 ### 2026-05-23 04:14  (11 条)
 
