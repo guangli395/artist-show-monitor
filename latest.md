@@ -1,32 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-23 14:47**
-- 本轮扫到 1927 条, 新增 **2** 条
+- 最近更新: **2026-05-23 15:59**
+- 本轮扫到 1932 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (5 条)
 
-### 美媒：特朗普愿给美伊谈判“更多时间”
+### 美官员：特朗普愿给美伊谈判“更多时间”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中国青年网
+- 时间: 2026-05-23 13:14
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RYnFmYjBLd2R5SnNreUVjRnAteEhlUC02V1F2WTJVLW1qWFhmMmkzR3JGWGxxaDBiZnk3ME0yOWpiZkx0elIzNkZ4cHdNSWJrQVpsX29xdEVTQkU5a1NfQ0dnbmI?oc=5>
+
+### 特朗普预计于美国东部......_7x24快讯_新浪财经
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-23 13:05
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBobFVNNkgwaDZ4Y1JTYkVfQnVYSDZTcl9OZmRVOXVtdEhQOEhlbXFPa2tFbjA0UC1LVWRlSjRBRU42VjVWZ1BNYlJmVQ?oc=5>
+- 时间: 2026-05-23 15:35
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5teC1pWHFOYXZ6aFB4R1BqcFNfU3RjVFc1ci1XMWFieXpMV0hRRW94bldmUHQtbXBOTnRpM0k3YUdjVXROeWJSRHZVbw?oc=5>
 
-### 要闻解说 - 鲁比奥访印显示美国需要修复与印度的关系？
+### 特朗普再次表示将与赖清德通话，或激怒中国
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-05-23 14:14
-- 链接: <https://news.google.com/rss/articles/CBMimwNBVV95cUxNeEhIT2lSWTdUTGljSmVQMkNhTmJpaV9BM29Bd3Z6LWIxMUROSThuU2YyME1UaFdON0R6R1lqa3RxQmtBeE5UR2dDdFpjUzBXa19DMWdkUHB3RzRrMjVFbWswdmRDMktoOG5qRThqemMyZE9RcjlhTkJEcWdZRW9vUW12Tk9IRmRoVklha2lfVTRkQjZuNEhpNDlIaWNUOFEyUW4yM3BMQlZCWTByNVhJWlBERml0V1UwVmdoRUhzWHJYX0dpMTE5ZDl2SGtsVUpFU281UVRfaEdfdTlVaEpTWEFCalF2Sl96NkZTNzhKVnFKbXV3QkNQZ002b0lNV0xmYlBlMW5JTk5RdXM4VHB2RVFNdkx1Q1g2bXRvLVRXTndiR2dBSXhLbVNhbVliMnlYenZJV0VmVnZHdG5WRm1adTNWdG5ZaGpUb01UQTNtYnVONlZHS1VsbFhJUFp3ejFrUWRndGh2RW1oZXlEYTVvOHE1bnBwa05qZXotS2psSEtxb0RvNEVMSWhCV2h4MV9PeTd3Qm5RcDhaTEU?oc=5>
+- 场馆: 纽约时报中文网
+- 时间: 2026-05-22 01:01
+- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxPenU4MUNtSWphWXMyeHV5czVGSlhQOGp6VmhHSVRRRGI1bExLcV9LLWVYZ091N2JSaEl5T1hhZUg5TWRvUTNMYUxWdkxpUlp0X3c3dkRKTzBmYXp0NTNWME8ycml3Ym9HZ3J3QzJ3NHU1V3ZLRkhSV3NHWU1qblhmVFZNNjdBN2x0RmJj?oc=5>
+
+### 沃什接棒第11任美联储主席！特朗普：别看我的脸色
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 第一财经
+- 时间: 2026-05-23 00:25
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5UQWVxYXFsRFJ5SVBkNzI0dmoteW9EU2JnUGZ6MDd5UVQ5MnFxODd6NjNCdndWUFNfZnRnbmNlTEE3cjF2TkhJczg3WjNGWjJLWVNV?oc=5>
+
+### TRUMP/USDT
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Binance
+- 时间: 2026-05-23 14:44
+- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTE1xdmxPMnlpV0RsVld0c3U2Yld5OEF3VjlJa1MyNDczUjdWYlhXaU1nNnBTLTUtaGw3M3pCUzN3amRvYXVVNjYtRWtSZTZ0Q1dxaDVjT2xKVlFuX3pEOHg5d1lSQ0s0RWh2a2VCR1RNcy1DdFV3LUtfMkNSSQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-23 15:59  (5 条)
+
+- **特朗普** | 美官员：特朗普愿给美伊谈判“更多时间” <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RYnFmYjBLd2R5SnNreUVjRnAteEhlUC02V1F2WTJVLW1qWFhmMmkzR3JGWGxxaDBiZnk3ME0yOWpiZkx0elIzNkZ4cHdNSWJrQVpsX29xdEVTQkU5a1NfQ0dnbmI?oc=5>
+- **特朗普** | 特朗普预计于美国东部......_7x24快讯_新浪财经 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5teC1pWHFOYXZ6aFB4R1BqcFNfU3RjVFc1ci1XMWFieXpMV0hRRW94bldmUHQtbXBOTnRpM0k3YUdjVXROeWJSRHZVbw?oc=5>
+- **特朗普** | 特朗普再次表示将与赖清德通话，或激怒中国 <https://news.google.com/rss/articles/CBMiiwFBVV95cUxPenU4MUNtSWphWXMyeHV5czVGSlhQOGp6VmhHSVRRRGI1bExLcV9LLWVYZ091N2JSaEl5T1hhZUg5TWRvUTNMYUxWdkxpUlp0X3c3dkRKTzBmYXp0NTNWME8ycml3Ym9HZ3J3QzJ3NHU1V3ZLRkhSV3NHWU1qblhmVFZNNjdBN2x0RmJj?oc=5>
+- **特朗普** | 沃什接棒第11任美联储主席！特朗普：别看我的脸色 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5UQWVxYXFsRFJ5SVBkNzI0dmoteW9EU2JnUGZ6MDd5UVQ5MnFxODd6NjNCdndWUFNfZnRnbmNlTEE3cjF2TkhJczg3WjNGWjJLWVNV?oc=5>
+- **Trump** | TRUMP/USDT <https://news.google.com/rss/articles/CBMie0FVX3lxTE1xdmxPMnlpV0RsVld0c3U2Yld5OEF3VjlJa1MyNDczUjdWYlhXaU1nNnBTLTUtaGw3M3pCUzN3amRvYXVVNjYtRWtSZTZ0Q1dxaDVjT2xKVlFuX3pEOHg5d1lSQ0s0RWh2a2VCR1RNcy1DdFV3LUtfMkNSSQ?oc=5>
 
 ### 2026-05-23 14:47  (2 条)
 
