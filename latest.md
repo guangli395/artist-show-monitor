@@ -1,32 +1,53 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-23 11:57**
-- 本轮扫到 1921 条, 新增 **2** 条
+- 最近更新: **2026-05-23 13:23**
+- 本轮扫到 1925 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (4 条)
 
-### 不愿削弱对华竞争优势 特朗普暂缓签署国内AI行政令
+### 周杰伦新歌《七月的极光》上线，治愈嗓音演绎夏日浪漫
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-05-22 09:33
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFB6NUVTS3Nzbks2SjFvS2YxVEstTlZIQWxsNndOeF9CNGRETENvQVhOWFl1TTVETWZvTG9jWDd3aE9UTE1xWXlJS0Y3SWxCV1VnVTdKN25TMzdLTjdYUTRMVVFxNldrUQ?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_2002676497_m775e6b1103301p9eu.html>
 
-### 事实简报：唐纳德·特朗普总统与中国达成历史性协议，惠及美国工人、农民及产业- 美国驻华大使馆和领事馆
+### “奖励”铁杆盟友？特朗普称将向波兰增兵五千
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: U.S. Embassy & Consulates in China
-- 时间: 2026-05-19 08:52
-- 链接: <https://news.google.com/rss/articles/CBMi9gFBVV95cUxOeVVYRW5yZTEtSDhPV2lRVnBNNDBLbVVVSkdWSFM1emE5NXpZRWhyVFVwaG9oNFd2d1p3blpCamNYR0RNOVVrVG00T2t1RjV5dFU1OGoyU1pNa3kzZGNHQkM1cEs1M3Z1Qm12UEY4cFRuWG5EdUx4NzBueWtsRE8tVS1waDllQVlHeDY4dTRhQ2wzZW9JbUZMRENqVVkxcmV1X2VYVjQtT2UtZnh3UDMxbXd0S1NTc3RxbmU3U2hMUGYzYkE4a3RhVUl4bGpUYjJPRUVwVmlmdkNMYVVhM0RhOE9aeEU2RXBBbVBZa040N2NkbHJnQWc?oc=5>
+- 场馆: DW.com
+- 时间: 2026-05-23 13:09
+- 链接: <https://news.google.com/rss/articles/CBMioAJBVV95cUxNZERsTWo4Qkpab3RFZDgzUG1Za0xVQ1VFNWF0NEJRZUtsUEZfOEF1dkY5OVh1X25ZRktxVUpYQUlEUHVmZnlkY0F4RzhPQU1iWW03Q3VMRkhfbkZJRzN0cFE5NGkwdXJEN3FjQm1WR3FEVjdadmtTNU1sOFltUy1Ob3RRc1VEclg5OFV5NXlBYUo5WVlWNHhJdjUwNlZ4c2N4SjNKalNpSXZ2MXRfOFN2TnQ3Sy1mMWJKbjI4SGFXT2FPRnBnRUNDWWxLcElhWVdxX3IzbWVlQ3FvdHVKdnc2OXdtc1B0Y044MkFYUFB3SE9UNGNjNm1SNV85dFBrdUFJb1A1cTBJSk5jWkV3cVR0MkRjSDR5MHp4Vl9RQjNLYXfSAaACQVVfeXFMTWNwUE5lel9ISDROM3NVZEYwWnUzUzY3eks4Wlk3OC1XWldJNVZqLXRwN3h4Q25lTDhJYVFvTnM0Zm1HdFV3ek0xenJTMjJrbTBaQTRuWWdJTzdSS3VQaDI1cDRwdHJGWTdrTW9tbjY5eE1RQnhIeGdmTmlJU0Qwb1BkNWhfbzRWU0hfNlN5eGp0eFVkajQtXzVTWFVqQm9hQzlSdGZ0QWNkSUV3MVdNYWp5bHZ0YlpZX05vSUlsWDUxQWp2YmJwSnRqMW1mX2F6eFJzbXI4ZEtwangyQzh6UXdNRS03Wmp3OEh6SGFlV2puSVpfSGI3b3FrOW5sN3R4QmFOYnpoTFBqNExCRjJtRnV0ZFZGYkxPVDRxbnkzQ2Fm?oc=5>
+
+### 特朗普和他的顾问们显然根本没读过修昔底德
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 纽约时报中文网
+- 时间: 2026-05-21 06:01
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9CeW1oaS0zRy10VE9EVHQzdURKSVljejdIRzV1ZW9QdF9fSVp1dTM2Y1RySEpBN0pnZEptTFR0VmhRbHFWX2xrRkVLMGpkZ01qb25fUVNnOXVKOW5ua3NvUlFzeW9kSjU1QlE?oc=5>
+
+### TRUMP/USDT
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Binance
+- 时间: 2026-05-22 14:47
+- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTE9jNnZfU3Bnd3RIR0VyTHRqZUIzLVBFQlZBTkRaRHBjclBtUXBfRnU5ajVjVG1jUUQ0ZFQ3bzV0MnJZUkhKLWhERndRelZKVGxZdXhsYXNYMlhaMUtLdDJzUVR6aFQ4RTcxak5ma2lCaVZkbnByZzEwSURWbw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-23 13:23  (4 条)
+
+- **周杰伦** | 周杰伦新歌《七月的极光》上线，治愈嗓音演绎夏日浪漫 <https://k.sina.com.cn/article_2002676497_m775e6b1103301p9eu.html>
+- **特朗普** | “奖励”铁杆盟友？特朗普称将向波兰增兵五千 <https://news.google.com/rss/articles/CBMioAJBVV95cUxNZERsTWo4Qkpab3RFZDgzUG1Za0xVQ1VFNWF0NEJRZUtsUEZfOEF1dkY5OVh1X25ZRktxVUpYQUlEUHVmZnlkY0F4RzhPQU1iWW03Q3VMRkhfbkZJRzN0cFE5NGkwdXJEN3FjQm1WR3FEVjdadmtTNU1sOFltUy1Ob3RRc1VEclg5OFV5NXlBYUo5WVlWNHhJdjUwNlZ4c2N4SjNKalNpSXZ2MXRfOFN2TnQ3Sy1mMWJKbjI4SGFXT2FPRnBnRUNDWWxLcElhWVdxX3IzbWVlQ3FvdHVKdnc2OXdtc1B0Y044MkFYUFB3SE9UNGNjNm1SNV85dFBrdUFJb1A1cTBJSk5jWkV3cVR0MkRjSDR5MHp4Vl9RQjNLYXfSAaACQVVfeXFMTWNwUE5lel9ISDROM3NVZEYwWnUzUzY3eks4Wlk3OC1XWldJNVZqLXRwN3h4Q25lTDhJYVFvTnM0Zm1HdFV3ek0xenJTMjJrbTBaQTRuWWdJTzdSS3VQaDI1cDRwdHJGWTdrTW9tbjY5eE1RQnhIeGdmTmlJU0Qwb1BkNWhfbzRWU0hfNlN5eGp0eFVkajQtXzVTWFVqQm9hQzlSdGZ0QWNkSUV3MVdNYWp5bHZ0YlpZX05vSUlsWDUxQWp2YmJwSnRqMW1mX2F6eFJzbXI4ZEtwangyQzh6UXdNRS03Wmp3OEh6SGFlV2puSVpfSGI3b3FrOW5sN3R4QmFOYnpoTFBqNExCRjJtRnV0ZFZGYkxPVDRxbnkzQ2Fm?oc=5>
+- **Trump** | 特朗普和他的顾问们显然根本没读过修昔底德 <https://news.google.com/rss/articles/CBMiakFVX3lxTE9CeW1oaS0zRy10VE9EVHQzdURKSVljejdIRzV1ZW9QdF9fSVp1dTM2Y1RySEpBN0pnZEptTFR0VmhRbHFWX2xrRkVLMGpkZ01qb25fUVNnOXVKOW5ua3NvUlFzeW9kSjU1QlE?oc=5>
+- **Trump** | TRUMP/USDT <https://news.google.com/rss/articles/CBMie0FVX3lxTE9jNnZfU3Bnd3RIR0VyTHRqZUIzLVBFQlZBTkRaRHBjclBtUXBfRnU5ajVjVG1jUUQ0ZFQ3bzV0MnJZUkhKLWhERndRelZKVGxZdXhsYXNYMlhaMUtLdDJzUVR6aFQ4RTcxak5ma2lCaVZkbnByZzEwSURWbw?oc=5>
 
 ### 2026-05-23 11:57  (2 条)
 
