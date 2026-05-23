@@ -1,64 +1,108 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-23 00:01**
-- 本轮扫到 1887 条, 新增 **6** 条
+- 最近更新: **2026-05-23 04:14**
+- 本轮扫到 1898 条, 新增 **11** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (11 条)
 
-### 特朗普向纽约民众表示......_7x24快讯_新浪财经
+### 这个蔡徐坤真的夯爆了！ 蔡徐坤 Chinesenewyear 迪拜音乐节 权志龙 新年快乐
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301bsiq.html>
+
+### 演唱会拍摄秘籍大公开，外场也能拍出神级大片！Pura90两亿追星神器
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_6090644800_m16b07dd4003301zhdo.html>
+
+### 中国新歌声庾澄庆战队学员都有谁 中国新歌声第一季四强学员
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905thcs.html>
+
+### 《追踪新歌声》第二期
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905thaq.html>
+
+### 周杰伦2026年北京鸟巢演唱会启动售票，票价即将上涨
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_6605420664_m189b6b87803302vsqi.html>
+
+### 沃什接棒第11任美联储主席！特朗普：别看我的脸色
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-22 19:54
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9RWEphWXNmLWppamwyUkh0RkVzSGdSV1NDWE44bEp6YUNCdnZaa1hwUi14cGFjUlQ2R0RUaDd0dHJoa2VOVS1uYkcwMA?oc=5>
+- 时间: 2026-05-23 03:14
+- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxONHI1OHRHcTd0M0owYjRZN3I5Q0x3SGxuamhCMjhoank5RkZtcFA1SnlodmoydmFlNzJxRGpmS0k2WlBLdmNxbHN6R0V2QUNsd0FnN1pIWTQ3UjhWNW1QS0FLOVhHNmhqZm1UT2xDUGFQZWFyOXJaLS1DNVhGMmpMTzJ3QTdxdUowSVAxWGhEanUxbnBHVkNFZg?oc=5>
 
-### 特朗普：我们看好电动汽车。
+### 前盟友警告：特朗普或利用对伊战争取消美国选举
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-05-23 04:05
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE8zU3JVUXNhSjNYVkR0VWJaZ2hQSzJwSkJaUUJmeGlRb0h3X0pkNmRRU0gydWY2SHZ4ejBvT01SSmpLSmc0el95MDBpZlE?oc=5>
+
+### 特朗普：我会销毁-观察者网
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-05-21 23:42
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1oeEpuS3FZYmFPWVlsSVJockxxcXZlTzhaN1VPb0FJZ0RnNXlPVUpwN3RUTFB3V3R3bEdCNkpmRG9lMHVYMkRFSHZ2Y0lFNk1sVjlsQ29YRVZHTDVMUEd2TjFMcWoya2ttSFE?oc=5>
+
+### 市场消息：特朗普获悉伊朗谈判失败后的各类应对预案。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-22 20:22
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XR2VlUktpNGNveDZWYmZXbFVGQ2pObTlWSElZRzVmN1RqUm9xN184T2VJUGhSVm9jdzdIMnBGbWh3NWJ1d1ctQXQ2Yw?oc=5>
+- 时间: 2026-05-22 20:35
+- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE13eVJua3FmVkxhenpRaEh5QWQwcHB6R1RYRlFjTEJIbmZILVZaQ0VtT3dWSzVuS1FDczd3bUp5VkZrX21GdVN0U1REWGV2NTVCSEV5QWJJNDZRMVRnai1ndW4wb1YxQUJnd003dXJjaWZCanRfNExkMXhObmE3UQ?oc=5>
 
-### 特朗普：我获得了执法群体99%的选票，难以置信吧。至今还没弄清剩下1%的选票花落谁家。
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-22 20:12
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFAyYlpsZklfSkdDeE5NTENXR0lEdEFpeFRncXJWaFVRX040UTB3dGJyYnZSRHBfclVCU3BuYUFnWTVkRlJ4QktuM2Vodw?oc=5>
-
-### 报道：特朗普周五与国家安全高级顾问会面
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-22 20:48
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9jbUN1ZzZPWWZvQ1VGeTZZX05wazR1TkZEVmpSQjZGZlJyZTNlNU9rZFZZb3YxSXAxeld6M0FXT0lldTZzek15MkVLVQ?oc=5>
-
-### 美伊僵持局势仍无缓解迹象 特朗普与内塔尼亚胡分歧曝光
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财新
-- 时间: 2026-05-22 08:11
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBJNnpaaDZQYm8ybnBlYTE3MTdTbDZYZWJtcXlBcDVLajdFSHZRekF1b3FveGh6WTYyVHpaQ19COTFXRVNkN2d5d2JwdHBVYWRKWWN5LUlFWVY0YTNwU0dyMEc1NVpUQ3ZZYlE?oc=5>
-
-### TRUMP/USDT
+### 特朗普称美国将向波兰增派5,000名士兵
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Binance
-- 时间: 2026-05-22 06:25
-- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE1mRkhyVmpfN3Y0S21ZQnROOGlZbU9WaE5ScUo5QkprSDMzLWVmOVYtUDdYMl9wcUgwTWR6d2lyYWE4NzBreXE4UW5GUG1JaTc1R0h6ZnU1UjFvNlNqbjh5bkFBVmRCYk50bjFPTlkyZlRGMDh1OEszM1h1a1E?oc=5>
+- 场馆: 华尔街日报中文网
+- 时间: 2026-05-22 08:01
+- 链接: <https://news.google.com/rss/articles/CBMikwFBVV95cUxPWU14OHBlejYyTmNKWEVPMlhwSDNFWGplWHJPYlVYY3o0UnR2ck9taXV1Wmx5S2hncVVucjBKOFpyRENMZTJIV0hkcnpRc2FJUXVIZ24zN3pGVk5BN21Kdm1jaURuSXFCNTVYRExmcnlNVmdXWVdaUVN2cllDcHFjNUl0X2ViZ0VpUXVPdmZTQWdLYW8?oc=5>
+
+### 外媒上手特朗普T1手机：不再标榜“美国制造”|唐纳德·特朗普|智能手机|HTC|HTC U24 pro|促销价_手机新浪网
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-20 05:33
+- 链接: <https://news.google.com/rss/articles/CBMi5wJBVV95cUxPc0lsVXFlb1NvOTlNb09YLVpwUXZIeEZFQnNtT3RkQWlDVVN2Ny1oSE1OZTNlY2l4WmxrOHN3TWU4cUR3c0t5MGN6cTZrMnh0TlZBcGs5SFRBSWo0V3h3enBQOFBmZEVwazFieFFTVVByd2U3Qmp0THpaaldVVHhLRmplcWNocFVHQUpKTW05bl9uM1AyODB4U0NCNHd2b04wQ0FvX2I0M19oMzVUTkFOZVFvY2MxanEtN0J0VnNxTUdQb2Z0TjNPLU00YnJiMURJTWtaNlFxNDBvWkN0c3piOUc3NGpwMDBmM09tMThBc1doalVGRXM5RzN1Y1RlcUZXUDZCdkkzblpsNEY4TDJLaGhmWC05Mk82VnZ5X3Zsd1AzWnJxcVV4V01zMTZNRTVQX3F6MUlKSk5BbFpLblViMG9LTTQ1eG42dTRRQ1dhM2hqdTh2TkdRbmF4UGE5Rm5rZl83NkVQaw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-23 04:14  (11 条)
+
+- **蔡徐坤** | 这个蔡徐坤真的夯爆了！ 蔡徐坤 Chinesenewyear 迪拜音乐节 权志龙 新年快乐 <https://k.sina.com.cn/article_7879924009_m1d5ae192903301bsiq.html>
+- **周杰伦** | 演唱会拍摄秘籍大公开，外场也能拍出神级大片！Pura90两亿追星神器 <https://k.sina.com.cn/article_6090644800_m16b07dd4003301zhdo.html>
+- **周杰伦** | 中国新歌声庾澄庆战队学员都有谁 中国新歌声第一季四强学员 <https://k.sina.com.cn/article_7857201856_1d45362c001905thcs.html>
+- **周杰伦** | 《追踪新歌声》第二期 <https://k.sina.com.cn/article_7857201856_1d45362c001905thaq.html>
+- **周杰伦** | 周杰伦2026年北京鸟巢演唱会启动售票，票价即将上涨 <https://k.sina.com.cn/article_6605420664_m189b6b87803302vsqi.html>
+- **特朗普** | 沃什接棒第11任美联储主席！特朗普：别看我的脸色 <https://news.google.com/rss/articles/CBMimAFBVV95cUxONHI1OHRHcTd0M0owYjRZN3I5Q0x3SGxuamhCMjhoank5RkZtcFA1SnlodmoydmFlNzJxRGpmS0k2WlBLdmNxbHN6R0V2QUNsd0FnN1pIWTQ3UjhWNW1QS0FLOVhHNmhqZm1UT2xDUGFQZWFyOXJaLS1DNVhGMmpMTzJ3QTdxdUowSVAxWGhEanUxbnBHVkNFZg?oc=5>
+- **特朗普** | 前盟友警告：特朗普或利用对伊战争取消美国选举 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE8zU3JVUXNhSjNYVkR0VWJaZ2hQSzJwSkJaUUJmeGlRb0h3X0pkNmRRU0gydWY2SHZ4ejBvT01SSmpLSmc0el95MDBpZlE?oc=5>
+- **特朗普** | 特朗普：我会销毁-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE1oeEpuS3FZYmFPWVlsSVJockxxcXZlTzhaN1VPb0FJZ0RnNXlPVUpwN3RUTFB3V3R3bEdCNkpmRG9lMHVYMkRFSHZ2Y0lFNk1sVjlsQ29YRVZHTDVMUEd2TjFMcWoya2ttSFE?oc=5>
+- **特朗普** | 市场消息：特朗普获悉伊朗谈判失败后的各类应对预案。 <https://news.google.com/rss/articles/CBMifkFVX3lxTE13eVJua3FmVkxhenpRaEh5QWQwcHB6R1RYRlFjTEJIbmZILVZaQ0VtT3dWSzVuS1FDczd3bUp5VkZrX21GdVN0U1REWGV2NTVCSEV5QWJJNDZRMVRnai1ndW4wb1YxQUJnd003dXJjaWZCanRfNExkMXhObmE3UQ?oc=5>
+- **Trump** | 特朗普称美国将向波兰增派5,000名士兵 <https://news.google.com/rss/articles/CBMikwFBVV95cUxPWU14OHBlejYyTmNKWEVPMlhwSDNFWGplWHJPYlVYY3o0UnR2ck9taXV1Wmx5S2hncVVucjBKOFpyRENMZTJIV0hkcnpRc2FJUXVIZ24zN3pGVk5BN21Kdm1jaURuSXFCNTVYRExmcnlNVmdXWVdaUVN2cllDcHFjNUl0X2ViZ0VpUXVPdmZTQWdLYW8?oc=5>
+- **Trump** | 外媒上手特朗普T1手机：不再标榜“美国制造”|唐纳德·特朗普|智能手机|HTC|HTC U24 pro|促销价_手机新浪网 <https://news.google.com/rss/articles/CBMi5wJBVV95cUxPc0lsVXFlb1NvOTlNb09YLVpwUXZIeEZFQnNtT3RkQWlDVVN2Ny1oSE1OZTNlY2l4WmxrOHN3TWU4cUR3c0t5MGN6cTZrMnh0TlZBcGs5SFRBSWo0V3h3enBQOFBmZEVwazFieFFTVVByd2U3Qmp0THpaaldVVHhLRmplcWNocFVHQUpKTW05bl9uM1AyODB4U0NCNHd2b04wQ0FvX2I0M19oMzVUTkFOZVFvY2MxanEtN0J0VnNxTUdQb2Z0TjNPLU00YnJiMURJTWtaNlFxNDBvWkN0c3piOUc3NGpwMDBmM09tMThBc1doalVGRXM5RzN1Y1RlcUZXUDZCdkkzblpsNEY4TDJLaGhmWC05Mk82VnZ5X3Zsd1AzWnJxcVV4V01zMTZNRTVQX3F6MUlKSk5BbFpLblViMG9LTTQ1eG42dTRRQ1dhM2hqdTh2TkdRbmF4UGE5Rm5rZl83NkVQaw?oc=5>
 
 ### 2026-05-23 00:01  (6 条)
 
