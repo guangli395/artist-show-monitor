@@ -1,24 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-24 14:47**
-- 本轮扫到 1992 条, 新增 **1** 条
+- 最近更新: **2026-05-24 15:58**
+- 本轮扫到 1996 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮新发现 (4 条)
 
-### TRUMP/USDT
+### 特朗普称不急于与伊朗达成协议
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-24 15:26
+- 链接: <https://news.google.com/rss/articles/CBMixAJBVV95cUxPdnRXQWtlamxCRXQ2aGlfcWtLY1VURkZ0QmFrcXVoVl9zS2Z6OVU2Yl9LQUptQmNJbTZlcldYb0c3Y1YtSVZLM0tqeFpLazkxdWl0ZmZxTjZuU2d4V0JiaEFhLTJfdFRtaVp5bUN6ZzFabktEM0NfdXV5SUZUbTNzUGlPOEtrQjd2eGJPYnFXdFVZeEZFN00tNHlqSThmTWhmc0pQcTliMVlCdXdFcUlON3pNYXVRQnV6OEhFMDJQUE93V1dTOWlFaG8yN05EOHNqSWVXd2dPb0N6d3RDdmpKYXBkd08yNkNucWV0WmpmdnNmcFc3Vkl6cWpFRHdITktIYjdmMUNiN3R4MWZaV201ME9hNktzMUxVZHQxSG1FcW9Ba3ViaHM0cms0NXVkaG1zb0RLNVZPb1ExckJDaloyekdSVzQ?oc=5>
+
+### 特朗普称美伊协议基本谈成 内容包括开放霍尔木兹海峡
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中国日报网
+- 时间: 2026-05-23 22:41
+- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTE5ieEh2M3BIcHlleUdMNEQwTEtNSjQtd3AteV9va2JqdmNQOUJhZ3kyeHdBY0E2WVlaUktvUllGNUUwRUlHWGpDRnBGUGF0Rm5GUWh6bTctSkxnRTMxLW9ySm8xRGd5azN1MDZNYXJtclJERlk5M2phbkdLWQ?oc=5>
+
+### 特朗普称美伊协议基本谈成 伊朗：霍尔木兹海峡仍将由伊方“管理”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Shangbao Indonesia
+- 时间: 2026-05-24 10:23
+- 链接: <https://news.google.com/rss/articles/CBMihAFBVV95cUxPSmVxcUM4SWNsVnNVbkxtb3JXX1VzQ3cwTS13R2Q4aTFqYUFsckhQRjFSZl96S2JwTEdWbVluSmtGMUdyTzc4bml3TWFfWmtBMGNYVmVBVTkwRlJqWVZURDJ2bWhRRHpqM0xsVWhTYjFlTzhqYm11WFpsTElLc2d2ZkZsS1Q?oc=5>
+
+### 特朗普：已指示代表不要仓促达成协议，时间站在我们这边，封锁保持全面有效
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Binance
-- 时间: 2026-05-23 22:59
-- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE9YT2xkT2NSaGxZazVDTzBhSzNXSmNzX2x2VWd1RGxHakl3RHdJVmJMTFJBWjRmRVM0T2Q0QUhqT2pfd2xSZHR3M0ZhdkdtMGU5ZW1vcl9ob2g3MzdWT3ItYnh2dEJRZkVHbkJubnU1dkRZTEVWMENfbUFQQnM?oc=5>
+- 场馆: RFI
+- 时间: 2026-05-24 14:59
+- 链接: <https://news.google.com/rss/articles/CBMi-ANBVV95cUxOdzRERnZ5dXJrVHdkc21FdWgtVGM5Qk00NUVJRkloeDFTRUw3bWhmQVBmM3NORDNQU3pBLW1uU0FOb2hjWWpEb3BPdHhMOHNBNnhVSkZoQVN0a0ljOWY3NnYxLXdXZ0lCczRjX09xaVZtcGZoZ1V0UFJQandfR2pCQks5TGFaU0VEMjdtSDl4LXZYaFk2dXFBbWlJQWlRSVdIUko1T1FDUXVUb1dET2JuV3doSXFIbWN5N1l1OURrSkxVLU9WdHV2NjhnR2xjZlJkQ2FvM0tPQ2JpaHJRWHhPWk9pSFdOVXJUaldHcTFxcHh6Y2lna093NzlrRWRaUlpILWxKNm5uakMtaEIwbU5lbkZYTXBEWGVCMWdTNFVPdU50WFdqRlR6cU5ZVmVwVi15cHE1Z0ZkLTVDRHA2OGhKRmZ1M09XTmYyamdtR1ZFUUNCeG5QczY0VHZpVDJSVldKMzVrUTFsWmZyVFBaMUIxa0c1T2FTVGpERFc1Z3AyTHBfR2xraUJwYjhNcGlBUUkwTFVWNF9jeXlqTVdqYUNBNm0xZTBXS2R3amFXcWVER1NvSV96Q3l5a2k2cEJMeFlXUC1mWEpMV0U1QW9DQlJySVFwVWpCSTlTUzRzU18tTzRzbzgwUVU5RUJqUUdGbWZ0MzlRcVZZOGg?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-24 15:58  (4 条)
+
+- **特朗普** | 特朗普称不急于与伊朗达成协议 <https://news.google.com/rss/articles/CBMixAJBVV95cUxPdnRXQWtlamxCRXQ2aGlfcWtLY1VURkZ0QmFrcXVoVl9zS2Z6OVU2Yl9LQUptQmNJbTZlcldYb0c3Y1YtSVZLM0tqeFpLazkxdWl0ZmZxTjZuU2d4V0JiaEFhLTJfdFRtaVp5bUN6ZzFabktEM0NfdXV5SUZUbTNzUGlPOEtrQjd2eGJPYnFXdFVZeEZFN00tNHlqSThmTWhmc0pQcTliMVlCdXdFcUlON3pNYXVRQnV6OEhFMDJQUE93V1dTOWlFaG8yN05EOHNqSWVXd2dPb0N6d3RDdmpKYXBkd08yNkNucWV0WmpmdnNmcFc3Vkl6cWpFRHdITktIYjdmMUNiN3R4MWZaV201ME9hNktzMUxVZHQxSG1FcW9Ba3ViaHM0cms0NXVkaG1zb0RLNVZPb1ExckJDaloyekdSVzQ?oc=5>
+- **特朗普** | 特朗普称美伊协议基本谈成 内容包括开放霍尔木兹海峡 <https://news.google.com/rss/articles/CBMie0FVX3lxTE5ieEh2M3BIcHlleUdMNEQwTEtNSjQtd3AteV9va2JqdmNQOUJhZ3kyeHdBY0E2WVlaUktvUllGNUUwRUlHWGpDRnBGUGF0Rm5GUWh6bTctSkxnRTMxLW9ySm8xRGd5azN1MDZNYXJtclJERlk5M2phbkdLWQ?oc=5>
+- **特朗普** | 特朗普称美伊协议基本谈成 伊朗：霍尔木兹海峡仍将由伊方“管理” <https://news.google.com/rss/articles/CBMihAFBVV95cUxPSmVxcUM4SWNsVnNVbkxtb3JXX1VzQ3cwTS13R2Q4aTFqYUFsckhQRjFSZl96S2JwTEdWbVluSmtGMUdyTzc4bml3TWFfWmtBMGNYVmVBVTkwRlJqWVZURDJ2bWhRRHpqM0xsVWhTYjFlTzhqYm11WFpsTElLc2d2ZkZsS1Q?oc=5>
+- **Trump** | 特朗普：已指示代表不要仓促达成协议，时间站在我们这边，封锁保持全面有效 <https://news.google.com/rss/articles/CBMi-ANBVV95cUxOdzRERnZ5dXJrVHdkc21FdWgtVGM5Qk00NUVJRkloeDFTRUw3bWhmQVBmM3NORDNQU3pBLW1uU0FOb2hjWWpEb3BPdHhMOHNBNnhVSkZoQVN0a0ljOWY3NnYxLXdXZ0lCczRjX09xaVZtcGZoZ1V0UFJQandfR2pCQks5TGFaU0VEMjdtSDl4LXZYaFk2dXFBbWlJQWlRSVdIUko1T1FDUXVUb1dET2JuV3doSXFIbWN5N1l1OURrSkxVLU9WdHV2NjhnR2xjZlJkQ2FvM0tPQ2JpaHJRWHhPWk9pSFdOVXJUaldHcTFxcHh6Y2lna093NzlrRWRaUlpILWxKNm5uakMtaEIwbU5lbkZYTXBEWGVCMWdTNFVPdU50WFdqRlR6cU5ZVmVwVi15cHE1Z0ZkLTVDRHA2OGhKRmZ1M09XTmYyamdtR1ZFUUNCeG5QczY0VHZpVDJSVldKMzVrUTFsWmZyVFBaMUIxa0c1T2FTVGpERFc1Z3AyTHBfR2xraUJwYjhNcGlBUUkwTFVWNF9jeXlqTVdqYUNBNm0xZTBXS2R3amFXcWVER1NvSV96Q3l5a2k2cEJMeFlXUC1mWEpMV0U1QW9DQlJySVFwVWpCSTlTUzRzU18tTzRzbzgwUVU5RUJqUUdGbWZ0MzlRcVZZOGg?oc=5>
 
 ### 2026-05-24 14:47  (1 条)
 
