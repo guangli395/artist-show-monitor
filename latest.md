@@ -1,38 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-24 13:12**
-- 本轮扫到 1991 条, 新增 **3** 条
+- 最近更新: **2026-05-24 14:47**
+- 本轮扫到 1992 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (1 条)
 
-### 别克今日官宣 20 号发布会上“不能说的秘密”：周杰伦成为至境世家 MPV 代言人
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://finance.sina.com.cn/tech/digi/2026-05-24/doc-inhyzeaf5727392.shtml>
-
-### 特朗普长女伊万卡被曝曾遭恐怖组织密谋暗杀，32岁伊拉克籍男子面临审判，其声称掌握伊万卡住宅内部平面图
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-05-24 03:20
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxQQkRkN29ZM0JZcmN0clVOYVJsSG9sdVJoOXVHalZXMXJwcXZfX3hRdjYxc04tdjVNcFhoYlNJbGo0bDh6NFVoVDhRNjc5em9DQUxOaXNnSWQzeTdjZUFPcUwzb1FVY1B3dHBKRUs1UEJWQV9scmtMWDU0YkFmUTZON0w1VTZaRDRMRGVGb2Y1VVlSbUZaaEZlSA?oc=5>
-
-### 特朗普称美伊协议将“很快”公布 据报停火延长60天海峡重新开放、谈判核计划
+### TRUMP/USDT
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-05-24 10:24
-- 链接: <https://news.google.com/rss/articles/CBMi2wNBVV95cUxNYmd3WXhmVVM2Q0lEbk94WkM2aENUNlZUc2l3NTJtRmpSU3ZLbkwxd0IxLW92RXhDVWhWNF8xTF9ZY0hWazNia2hrc0QtdlRnNW5fUGd0aGg4S2xJU0dyNFU4NWtGMnd1T1FWN2ljemxaYzlSZUQtODNlb3huS1FETVpDSHUzWEFPUEk0ME1IVE5PaVF3cmk2aXBzUkZ6blc0MVJGQ0o2Wmt4alhzVGdSY01aX1JycDZjaHBIcG5JdUhFRE44WUZ1bjV1T2U3UWp6dzFoaFBwQUxHd2JGbjZkeUJIU3NoV194eGZGWXlxOV9oMkZqWGxhREt6Y2hPN255SENib2VId29iSXRJdXU0cWl6VTJiVHZPUUZpd3FfLWlGbW9wdXpIVzV5S245R0IwOEtfWloydG1SZ3dtUnlMcWp1a245aDJWMktESU9MNTd0aDNWUHI2Tkh2WVU0S1I0cGYwRG10SUFxY1JPS08tMEZXSmVjeDFqU3k3ZVpuNUh2Z1dJUkc1Y0hCNzRVUEZHSXNHeWN0UHRzVkpNakVjR2pQZlRzenhZcGhPYkRLdHhrbVlIZnEzSE9SUFg3dnRpUVU4eXR6aVh6ZzRHRlpsb1QycHFLVk5yR3NN?oc=5>
+- 场馆: Binance
+- 时间: 2026-05-23 22:59
+- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE9YT2xkT2NSaGxZazVDTzBhSzNXSmNzX2x2VWd1RGxHakl3RHdJVmJMTFJBWjRmRVM0T2Q0QUhqT2pfd2xSZHR3M0ZhdkdtMGU5ZW1vcl9ob2g3MzdWT3ItYnh2dEJRZkVHbkJubnU1dkRZTEVWMENfbUFQQnM?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-24 14:47  (1 条)
+
+- **Trump** | TRUMP/USDT <https://news.google.com/rss/articles/CBMifEFVX3lxTE9YT2xkT2NSaGxZazVDTzBhSzNXSmNzX2x2VWd1RGxHakl3RHdJVmJMTFJBWjRmRVM0T2Q0QUhqT2pfd2xSZHR3M0ZhdkdtMGU5ZW1vcl9ob2g3MzdWT3ItYnh2dEJRZkVHbkJubnU1dkRZTEVWMENfbUFQQnM?oc=5>
 
 ### 2026-05-24 13:12  (3 条)
 
