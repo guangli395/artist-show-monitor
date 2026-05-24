@@ -1,54 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-24 21:27**
-- 本轮扫到 2008 条, 新增 **5** 条
+- 最近更新: **2026-05-24 22:29**
+- 本轮扫到 2009 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (1 条)
 
-### 新浪演唱会热点小时报丨2026年05月25日04时_今日实时演唱会热点速递
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905w8f0.html>
-
-### 特朗普：美伊协议“尚未完全谈妥”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-05-24 20:11
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ESDFPOEZNVE00RlFiLWNtMHFTN2xQV3ZqMTFOSU13N19EeTRmNVBXS25DLTNCdVkwWDVMSWFnZ1hycHNNUERZRHZzS3FWTWJ3U080eDZUM0VYdWFBY2Fjeg?oc=5>
-
-### 特朗普总统说，与伊朗的谈判正以有序和建设性的方式进行
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-05-24 15:59
-- 链接: <https://news.google.com/rss/articles/CBMiwwFBVV95cUxOd1o4YmlSbEhWbDYtMHVUZTNlUlZ6ajY1MmZJSzN6OWxTdzZaSGQxc2dEd2hNQjU0NENtaklTcWJRWHJqTmxPQ0htbVpsUnJGZzRKRjdRQV9MQXlxbTZHTVc2UEpuSlliTGFiN254VWl4V0pHR3RLTEdJZ09nOGZ3M01JWkRPaWFva2k2QnZlWnNUR19SczNWeGJZVk5DLWFqZGV2ckppNkNtbWkxMXl5MXJmeTNfNHhVdk5yT1B3YlN5eWPSAcYBQVVfeXFMUHlvekpWdFl0YVU3dTFDQ0FrTFpndzNqTHNQeEJlT1RnSDVPd19HbTFROGlWNk9BSU1KNGg1MEY1NVY2b1RKNkJkN19LYXM5U1VEYmJSdUJHTWQwQmlOLUN6NmdNWEhlWjNzQXNRMmtZa2ZqTnhObnQ0ZnhQVnFpdVdDZU4zdnRjMGZ1anctSmRUamRpS0VFV3FLY3JSMkRjaXpvSjRvSVVKYndGT1BlSXlrVkctNWh3MHhJZWtXSHRUa2JmNEpB?oc=5>
-
-### TRUMP/USDT
+### 特朗普缺席长子婚礼 因“爱国”留守华府处理政务
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Binance
-- 时间: 2026-05-24 20:33
-- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE9GUGhWSTVTVERDdnpQTVl1eFJHS0RpMzdyNG0xUG94aENhZ19DRlZkRjNjTFhwWmo1aXBJc1dCSVIzWG1KY3hEODg4cURIVk9XeEZBZ3pqNV9nMldVQjhQYjd2LXZaRUdIUXVFa0RPYlRQbWtoRGl1cm8xME4?oc=5>
-
-### Crypto Ahmet (@Crypto_Ahmet)的见解
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Binance
-- 时间: 2026-05-24 15:04
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE44T1VQMnJGanJUYXBRamQ5Wms2dkNBQ3pmV1BMS1ZQN09PNlZlZktkcmtJaXMzekd5NHV2bDY3Rl8zbWZTei0wMjllVVBoYVpYb3NoU0tab18ta2xMYk5WNnRCLVZPVWdC?oc=5>
+- 场馆: 8world
+- 时间: 2026-05-24 15:33
+- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUEcxX2F2MG5xaUVXcmpmQjhfRGtTNWpCVzNVTXJTdEZTMTA2RHNkUklaS0duN21pUkdnd2J5a29ONHlReEpOQ1VEYTgwdmlKb2RFdGhLRkJXY3Z3WlFlam5SM1hqWlBYWTVPUWZpS3Z4M1l0U3c3a0t6Yzl5UmpoVGMwbnh6UDdVd0dr?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-24 22:29  (1 条)
+
+- **Trump** | 特朗普缺席长子婚礼 因“爱国”留守华府处理政务 <https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUEcxX2F2MG5xaUVXcmpmQjhfRGtTNWpCVzNVTXJTdEZTMTA2RHNkUklaS0duN21pUkdnd2J5a29ONHlReEpOQ1VEYTgwdmlKb2RFdGhLRkJXY3Z3WlFlam5SM1hqWlBYWTVPUWZpS3Z4M1l0U3c3a0t6Yzl5UmpoVGMwbnh6UDdVd0dr?oc=5>
 
 ### 2026-05-24 21:27  (5 条)
 
