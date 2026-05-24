@@ -1,56 +1,44 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-24 11:48**
-- 本轮扫到 1988 条, 新增 **5** 条
+- 最近更新: **2026-05-24 13:12**
+- 本轮扫到 1991 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (3 条)
 
-### 中东再传利好！特朗普：美伊协议基本谈成 霍尔木兹海峡将开放
+### 别克今日官宣 20 号发布会上“不能说的秘密”：周杰伦成为至境世家 MPV 代言人
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-05-24 00:09
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTFBCTmhkWTZNdGtFeXVTbDRLaEVTY1VkWHhwV190T05XbnhNTzcyazNBdlpDREFYalNNMXRaaERodmNIVXczbmNOdg?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://finance.sina.com.cn/tech/digi/2026-05-24/doc-inhyzeaf5727392.shtml>
 
-### 枪手曝光：他自称“上帝”，有意伤害特朗普
+### 特朗普长女伊万卡被曝曾遭恐怖组织密谋暗杀，32岁伊拉克籍男子面临审判，其声称掌握伊万卡住宅内部平面图
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-05-24 05:55
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBaRGR1YmNSeW44eDlWcHlmQjd1QXZhWTVGZkFfY0ZPcnZ2eWpKNUFQcjg4dUVfMEcxcVFKazRVbmk0S0FvczdSN29fVVJkS2VDd0UwWXhUUEFQMjlXZDN6MjVHRThqYW5RX0E?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-05-24 03:20
+- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxQQkRkN29ZM0JZcmN0clVOYVJsSG9sdVJoOXVHalZXMXJwcXZfX3hRdjYxc04tdjVNcFhoYlNJbGo0bDh6NFVoVDhRNjc5em9DQUxOaXNnSWQzeTdjZUFPcUwzb1FVY1B3dHBKRUs1UEJWQV9scmtMWDU0YkFmUTZON0w1VTZaRDRMRGVGb2Y1VVlSbUZaaEZlSA?oc=5>
 
-### 特朗普：白宫附近枪击事件枪手在与特勤局人员交火后死亡
+### 特朗普称美伊协议将“很快”公布 据报停火延长60天海峡重新开放、谈判核计划
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 手机鳳凰網
-- 时间: 2026-05-24 04:53
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE9lN2QzSk5RRExXMGtDTld1WVBPYlpZTS03eWo0cWhBN3lGSk1YXzVQSi1DbWo3ZDYtZFdHWk9wSGFtN0dGNUJJNQ?oc=5>
-
-### 白宫附近枪声大作现场记者惊慌躲避 特朗普：开枪者“有暴力史”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-05-24 08:20
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZaXdOa2dlWUNJbGwtTFgxVWlRYVg5SjdPUGtsSDBQWlZONjJuRE9DVkxtVWltb0dQQlhULWRyZ2ZrbW9xOTdGdDhjU05aUEVOS3ZmYkk1dEFlZW9zcXEwVVJIa0VGMHpaNHEzc1pUazZWYUtIUWJQaVJORV9oVlk?oc=5>
-
-### 周末要闻汇总：特朗普称美伊协议基本谈成；DeepSeek宣布永久降价
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-05-24 08:33
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE1DVm14YkRmODJpVklXenYxRmZaazR3Rk5lbHpseVU1dHpXZDllc0djZElfenduNWtaUG43NkRaVlNCZzN2V0NTYw?oc=5>
+- 场馆: RFI
+- 时间: 2026-05-24 10:24
+- 链接: <https://news.google.com/rss/articles/CBMi2wNBVV95cUxNYmd3WXhmVVM2Q0lEbk94WkM2aENUNlZUc2l3NTJtRmpSU3ZLbkwxd0IxLW92RXhDVWhWNF8xTF9ZY0hWazNia2hrc0QtdlRnNW5fUGd0aGg4S2xJU0dyNFU4NWtGMnd1T1FWN2ljemxaYzlSZUQtODNlb3huS1FETVpDSHUzWEFPUEk0ME1IVE5PaVF3cmk2aXBzUkZ6blc0MVJGQ0o2Wmt4alhzVGdSY01aX1JycDZjaHBIcG5JdUhFRE44WUZ1bjV1T2U3UWp6dzFoaFBwQUxHd2JGbjZkeUJIU3NoV194eGZGWXlxOV9oMkZqWGxhREt6Y2hPN255SENib2VId29iSXRJdXU0cWl6VTJiVHZPUUZpd3FfLWlGbW9wdXpIVzV5S245R0IwOEtfWloydG1SZ3dtUnlMcWp1a245aDJWMktESU9MNTd0aDNWUHI2Tkh2WVU0S1I0cGYwRG10SUFxY1JPS08tMEZXSmVjeDFqU3k3ZVpuNUh2Z1dJUkc1Y0hCNzRVUEZHSXNHeWN0UHRzVkpNakVjR2pQZlRzenhZcGhPYkRLdHhrbVlIZnEzSE9SUFg3dnRpUVU4eXR6aVh6ZzRHRlpsb1QycHFLVk5yR3NN?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-24 13:12  (3 条)
+
+- **周杰伦** | 别克今日官宣 20 号发布会上“不能说的秘密”：周杰伦成为至境世家 MPV 代言人 <https://finance.sina.com.cn/tech/digi/2026-05-24/doc-inhyzeaf5727392.shtml>
+- **特朗普** | 特朗普长女伊万卡被曝曾遭恐怖组织密谋暗杀，32岁伊拉克籍男子面临审判，其声称掌握伊万卡住宅内部平面图 <https://news.google.com/rss/articles/CBMimAFBVV95cUxQQkRkN29ZM0JZcmN0clVOYVJsSG9sdVJoOXVHalZXMXJwcXZfX3hRdjYxc04tdjVNcFhoYlNJbGo0bDh6NFVoVDhRNjc5em9DQUxOaXNnSWQzeTdjZUFPcUwzb1FVY1B3dHBKRUs1UEJWQV9scmtMWDU0YkFmUTZON0w1VTZaRDRMRGVGb2Y1VVlSbUZaaEZlSA?oc=5>
+- **Trump** | 特朗普称美伊协议将“很快”公布 据报停火延长60天海峡重新开放、谈判核计划 <https://news.google.com/rss/articles/CBMi2wNBVV95cUxNYmd3WXhmVVM2Q0lEbk94WkM2aENUNlZUc2l3NTJtRmpSU3ZLbkwxd0IxLW92RXhDVWhWNF8xTF9ZY0hWazNia2hrc0QtdlRnNW5fUGd0aGg4S2xJU0dyNFU4NWtGMnd1T1FWN2ljemxaYzlSZUQtODNlb3huS1FETVpDSHUzWEFPUEk0ME1IVE5PaVF3cmk2aXBzUkZ6blc0MVJGQ0o2Wmt4alhzVGdSY01aX1JycDZjaHBIcG5JdUhFRE44WUZ1bjV1T2U3UWp6dzFoaFBwQUxHd2JGbjZkeUJIU3NoV194eGZGWXlxOV9oMkZqWGxhREt6Y2hPN255SENib2VId29iSXRJdXU0cWl6VTJiVHZPUUZpd3FfLWlGbW9wdXpIVzV5S245R0IwOEtfWloydG1SZ3dtUnlMcWp1a245aDJWMktESU9MNTd0aDNWUHI2Tkh2WVU0S1I0cGYwRG10SUFxY1JPS08tMEZXSmVjeDFqU3k3ZVpuNUh2Z1dJUkc1Y0hCNzRVUEZHSXNHeWN0UHRzVkpNakVjR2pQZlRzenhZcGhPYkRLdHhrbVlIZnEzSE9SUFg3dnRpUVU4eXR6aVh6ZzRHRlpsb1QycHFLVk5yR3NN?oc=5>
 
 ### 2026-05-24 11:48  (5 条)
 
