@@ -1,32 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-24 17:03**
-- 本轮扫到 1998 条, 新增 **2** 条
+- 最近更新: **2026-05-24 18:35**
+- 本轮扫到 2001 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (3 条)
 
-### 特朗普称不急于与伊朗达成协议
+### 白宫附近枪声大作现场记者惊慌躲避 特朗普：开枪者“有暴力史”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-05-24 15:39
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5HMkQ0VVJxMVd5YmhPdjJNVGhWWkRIMlJuQUVWOTFTQlRzMllIUlQ1cXRNMkJyOFNFb1BLaHZudEZ1QnIydko5SlV3clBJUjRXUlRvT040aEN1OHNfQ2w0RFZXa3Q?oc=5>
+- 场馆: 新华网
+- 时间: 2026-05-24 08:20
+- 链接: <https://news.google.com/rss/articles/CBMid0FVX3lxTFA0ZUg2YUEtdDVMeXhUOVBUXzdpSmxJNHB0VDRxWnZMOUVhQUJ1NVIxRzJ1Z3FoMzFsVFFram1tLTV6Z195Vmx1OWVZdmVUcVJES2V0emlCZEJmbjBlcG1jVUs5VkV0bExQeGdnODlnNXlPckpFOV9R?oc=5>
 
-### 特朗普就白宫附近枪击案发声
+### 特朗普：印度可以百分之百地信赖我和我们的国家。如果他们需要任何帮助，他们知道该找谁——就打给我。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-24 16:30
-- 链接: <https://news.google.com/rss/articles/CBMilwJBVV95cUxPdmsycjJmZ2huRUk2ekxkNE14MDBwVmF3LVhRTWJqWnVpOFlpUVo2OFByOXl6TDlSLUQ1MWl4ZURtbGs2U05CdzhZOEgxVDlubnVXekdpS3lRbGo4XzI0T3RrcWhaSjhDLVl6QWZrSkNvNDI1MGxYVl9pYVJwMFp6Zk16dUhNQ3UwUTBhNHU4MGZNR1RKZThfT3ppWldnSXFZSnlTUWs0dGRFY21UNXpnckpDNUFuNEhqMEFwRXcxN1I3MGxQdUlJbVp3MHEzQk9SclZPVzFhZ2x0R2dPRU5NWGMyNllSMDVURm5HaHM5eVNuYXF4ZkFLcTUyVk5CYXk4emRDcjlFa3luOUI0ejZtaW5LQ1JvUEU?oc=5>
+- 时间: 2026-05-24 17:42
+- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OQUNPb2g0aFNleG50aU9sTkxacDAxVmNiMWp5aVRINHhjZ1BTczdkMTlkUHJaR2xhSlA5Y0luMkEwUTl4ekV3ZDhEeEVDdDA?oc=5>
+
+### 特朗普发文：不急-观察者网
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者网
+- 时间: 2026-05-24 14:52
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5JLWhKaFRyVHJrMHJIU2szeXRWUHdQQ016c3EwTmltTlN0QUJRUklCWU43SjRxbDBKQU5KbjBDQTMzWV9JNWY3Q3k1bXVqdF9mYmZoVWdvVG9KY3lud3Npc0RrV21qMUxHd2c?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-24 18:35  (3 条)
+
+- **特朗普** | 白宫附近枪声大作现场记者惊慌躲避 特朗普：开枪者“有暴力史” <https://news.google.com/rss/articles/CBMid0FVX3lxTFA0ZUg2YUEtdDVMeXhUOVBUXzdpSmxJNHB0VDRxWnZMOUVhQUJ1NVIxRzJ1Z3FoMzFsVFFram1tLTV6Z195Vmx1OWVZdmVUcVJES2V0emlCZEJmbjBlcG1jVUs5VkV0bExQeGdnODlnNXlPckpFOV9R?oc=5>
+- **特朗普** | 特朗普：印度可以百分之百地信赖我和我们的国家。如果他们需要任何帮助，他们知道该找谁——就打给我。 <https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OQUNPb2g0aFNleG50aU9sTkxacDAxVmNiMWp5aVRINHhjZ1BTczdkMTlkUHJaR2xhSlA5Y0luMkEwUTl4ekV3ZDhEeEVDdDA?oc=5>
+- **特朗普** | 特朗普发文：不急-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE5JLWhKaFRyVHJrMHJIU2szeXRWUHdQQ016c3EwTmltTlN0QUJRUklCWU43SjRxbDBKQU5KbjBDQTMzWV9JNWY3Q3k1bXVqdF9mYmZoVWdvVG9KY3lud3Npc0RrV21qMUxHd2c?oc=5>
 
 ### 2026-05-24 17:03  (2 条)
 
