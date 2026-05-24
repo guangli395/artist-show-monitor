@@ -1,96 +1,98 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-24 01:29**
-- 本轮扫到 1958 条, 新增 **10** 条
+- 最近更新: **2026-05-24 05:39**
+- 本轮扫到 1967 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (10 条)
+## 本轮新发现 (9 条)
 
-### 特朗普：美伊协议基本谈成 包括开放霍尔木兹海峡
+### 周杰伦演唱会戒断期歌迷重温经典快歌
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-05-23 21:50
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1CVl9YQVVnaENmMHRtWmRHLVpDenZVZXVhSGZBXzdXMWpUTGNaYVd4bTNvandpeHJyTzc0ajIwTWxIS1ZKLVRmWV9kVmt5cTJ1WGYxOEtWc3ZUNmFVSjN0RGhodFE2VUx5bkFYOTBuenF2SnNPVU5od0Rtd1o3TjQ?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923704_m1d5ae17f803301smg2.html>
 
-### 特朗普的3711笔股票交易引发审视：自动化调仓、税损收割还是另有玄机
+### 特朗普：白宫附近枪击事件枪手在与特勤局人员交火后死亡
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-24 00:34
-- 链接: <https://news.google.com/rss/articles/CBMivgJBVV95cUxNSUVMMVlCUkhMSi13S2hVN055ZzVzcEVERzhVMWF4QmJiWGE3cUNyMndySVU2V0g5eFh1cWtPM3YyYjdKRUh0MkQ5TGswb2ZtYzBvWXZzbk84akhyNWNjSDVSRmxBTWRSeTNWdDZmcUxmRU9kZmhzbGpFbFYzcHVJRmxhdFYtam9IQ3hoZzBfN3dGSzV1WXZwY01GTzJTT1hxRDJ1bnNmXzE0NE1WeGFiWng0ZXU3SFRVMlZXTUlubFBzZzZwS2JJNUtzX1ZOUXQ0bkFIWW0wMlFvVzdkeG5TLTNWZTNsbW5fbDNBVDdLNF9aR2NHV3hab195NktVR25ZNDlSSU04OEpCQVZKb2ZEaG5XeWhPUTdad2xzcTQzZTRWZXFMNVg5eGRTOFI3VExjMHRlNE91Y081ZU5OTnc?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-05-24 04:50
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE85d012blpwT09uWFRFZFV2VEJhVVZRTUFXaTM0X29CcXRrUkVXeFRSVWk0YjIxOHJoQjR1Y1VTV2pzQzlVUEJGczI1V0diNzBhYmoyaGFvWWoyamQxSjFYeFpNMjdPUUh1LU9DVUhNSUY?oc=5>
 
-### 特朗普主持！“鹰派”沃什，就任美联储主席
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-24 00:44
-- 链接: <https://news.google.com/rss/articles/CBMirAJBVV95cUxPZE50Y3YyUmVZakZ1ODdVcmpXbzFsSkN1OTRwdkpYVXlpQ1l5S0xLLUt3ZHhnMDlsVzNZVUQxSzhJYkItdEU0VFQzeDBwMU1nV3p3RklzMkNHbDdwZjRkMVFTVDYwQzJqel85T2QwMU9SSk4zY09KRjFNZ3V1ODc3T0NxeFJEbDl1Q3p0Tl96aFFCdDhKdlNkNjBHVEhrYmxDeGxySlJ6RGRDdmVxLTJwNnlxMFFyREdmbW11RzZYWTI0clNrMklDalZTTEZjSDZ0dk5acWduQ3JoSlJRV0hSc0t2RXR5UlRuc29WOG03aGtzN2VYaDZyVXR1MUJkdjczZ1c3cDh1S0hIRTd6TWhwZlNUc0JMdFdFelNxMVpjMlVaWmZ3U0FwRy1TQUg?oc=5>
-
-### 又来？特朗普正在白宫内，附近传来数十声枪响…
+### 白宫检查站发生枪击，特朗普在白宫工作，枪手被击毙
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-05-24 00:28
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE90S05rTWhvTVFMVzllaHlxYnlKOXRPbGd4bW9PQUJENUg1OHhJbEhpcDNTM0R5QVo3M2tKNUpVM3JtMktwenZJZnlHbEIwZWljcmdjU3FPQTg2T3hhRG5hQkJoOUF5OHMtUFE?oc=5>
+- 场馆: RFI
+- 时间: 2026-05-24 00:50
+- 链接: <https://news.google.com/rss/articles/CBMi_wJBVV95cUxQTExEem45eFR2U2ZaV1hWd1hIMmpReGdRdDdLdnZ2TVgyWk01ZEpmQld6MUlSM3VsOFNWdHdfTnFUVm5JSzdQazRmUGRvT2ZTaHZZQWhIdTFaYnYtSTZDUU1DU0lXay10c1ppaVV4TUxIQ2hsV1hlYTVEdFZTZjBweDV2Vy1zaWRyWmxUSlB5ZDNVdnpETko2ZmFyclJfNjMtSHowek1jT0t1Wkl3TFVWbEpxbVZZRTFPQ2dKcE84TF95YklKa2hQVFpZM3hyMlFybDlQUzZQcW5PRmxaNXZBTVNENGdoSGlPYzJVWXJoeUZ5bkp5VWswczM5VktpaFg5d25YY3p3blpMY3dZbHZqOE1hdzNnRS1aRWpPbU56SkRoVzVBSVZWZXpPYVBzYlRUTWhHWjRERm9GRVhkNlpEVmU0VUpMT1JEZ2xqQ0l0NHlUQlBFd2tZeFF5aURxZk55RnZQMkxTLVFEUWRKOVdkSGRmdXJIVE02ZU81THZlZw?oc=5>
 
-### 美媒：美官员称，特朗普已听取有关白宫附近枪击事件的简报
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-24 01:03
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBoZEFCZ2VEWnE2MjBTT204ZGpkY3ltUF9ScVluNjhkU1ZYa1FwMjMxeEw5Z0hvMk1TdmVMSlpDRlFsMDdOQW80b3liWQ?oc=5>
-
-### 美国白宫附近再次发生枪击事件 枪手送医后死亡特朗普无恙
+### 特朗普此行让印度有点傻眼了，鲁比奥访印“收拾烂摊子”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 财新
-- 时间: 2026-05-24 00:57
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBHV1QyblVTcl81NEotRFM2Z1RTdEtBWEpPbDgtZ0ZDU3l6eG1ZNjZXN0E4OXNrNFQ5VVlyOTFCM3ROWlktS1RPdnRrTFZmb0xoS1lpUE15NVRvXzZwSS1hQWlNbURWcExzeGc?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-05-23 15:51
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE9FdERlb00tMnBwUXNOcXRNTENtTTZ3RjY3dWhNTlJSamd2T3RTSTVVVTM2RWZGZktfUE1LakpXMnlhVl9DdlI1X3BYRlZHVUlxSnNHWVZ4WjdFR2NMMHo1bzY1emNnd0lNQ1dGTm1PQnRVdmNO?oc=5>
 
-### 特朗普为司法部基金辩护，遭参议院共和党人反对
+### 特朗普称美伊协议基本谈成 内容包括开放霍尔木兹海峡
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Sina finance
-- 时间: 2026-05-22 14:31
-- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWTk3YVRvdFJ4UXBTSENXRGR2cWhFdGU5WjVZbUJsODBqXzBwNFVlMlp6MVVBRFhQeVo4LTdGd01YQzQ2cklNYV8ybjY2a3dYWld4bkJOQ3Q0d2E2ZjB6U1A3S2l5d1JiYVF5QmNXU2VaZ2Q1aWx6RU4zaWF4UVl2X2dhT3d3aFE2MjZlYXlCNXlZdzZEeU9OQk1ycUVENHRhQnZ1U3MxVUM2Zjc0WnFkM2NwckU0MGhsZVVSa0lfR1BzU29hb3JmZnYzTG9nSWlHNHJjTDhtZnRVS3l2d3c?oc=5>
+- 场馆: 央视网
+- 时间: 2026-05-23 21:41
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5jWUZPNUlKZHFwV19fOUxGeXViYXdPNEhQX09zanozWlpTVFhyQy1UUTdPVXFneGlyN0Q1SDBPeDAwdGhyYlc1TFpJX3ByQk4yaHpvdkg3Z0JxbjFnQlYxWHpibl9vZHBjRUt6MmhJUDZ4RTNDVTJjMg?oc=5>
 
-### 特朗普总统：与伊朗的协议“基本谈判达成”
+### 和平分手？没那么简单，特朗普又一内阁大员离职内幕曝光
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-05-23 02:47
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9Za3REa3JrNU1VQ0paR1FJNVpGeDQ5TTQ1MkllRUJhYk1meWxhV2t3aFJaWWRDLVBjS0pJU1JfS09DQ2FDVDZkTnFnRE8?oc=5>
+
+### 纽时：马斯克随特朗普访华 冀解开30亿美元太阳能设备输美禁令
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-05-24 02:45
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrclkxdnB5cUYtNkpaRlhrMWxXX0h6cEdBVjJZWlBFVDRnSHBJMVVKVlpmdkRLUVIzMk40QmgwOUdRR2w1ZlFjYXVRU19pTHk5ZzFwUFNIQXFzWE53QS1ZYmNnR2RxZw?oc=5>
+
+### 有待最终敲定 特朗普称美伊协议基本谈成 细节将于近期公布
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华报业网
+- 时间: 2026-05-23 23:14
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTFBMZGdDZVZELXhyNm1xOGw3OWNpNlN6al9mZHhaQ2dBY3FXM2tCeFFWazhnbTIxaHRmLXA0Q2pmUWVFOUR6SUpHTnBzcnVRUkZPV1ppYk1SX2N1WjZKRFAxRXp0djRwcmtFdzZB?oc=5>
+
+### Trump: Iran peace agreement "largely negotiated"
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-05-23 22:26
-- 链接: <https://news.google.com/rss/articles/CBMivgFBVV95cUxPTmU0MWp0azFkVjh5d1FIN0QtcXd5UmczZ0RGTzF1UU9yd0pIOUhwTWNYNlFaZjZKNUU5QkRMcjhJODE0ODRqbzhobTdHemVmaWhjVURaUDZLdTczRE0zal9JVVR2bTNmVTd2YUtfWkc3QVM1X3pFQm9uSEpwaTNMZWVTaW9tX2VOcFFHUU4yV2VUc01KSHJZOFpPa3RvVVFzMEF2YjJtX1JYTk9hMzk5b3Y2RnhzN3RReXIyZ1BR0gG-AUFVX3lxTE9OZTQxanRrMWRWOHl3UUg3RC1xd3lSZzNnREZPMXVRT3J3Skg5SHBNY1g2UVpmNko1RTlCRExyOEk4MTQ4NGpvOGhtN0d6ZWZpaGNVRFpQNkt1NzNETTNqX0lVVHZtM2ZVN3ZhS19aRzdBUzVfekVCb25ISnBpM0xlZVNpb21fZU5wUUdRTjJXZVRzTUpIclk4Wk9rdG9VUXMwQXZiMm1fUlhOT2EzOTlvdjZGeHM3dFF5cjJnUFE?oc=5>
-
-### TRUMP/USDT
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Binance
-- 时间: 2026-05-23 18:29
-- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTE1uVjRaYjY2aWo2eGROa1A4bWpSd3lMY3llZmV1Yl85MDkycHB0bElWRFNPeWVzeWswbW9BVU5pR3plbUhQcFloREoxbGpFajNYTnRJTFJaZTV1Skk0cXJZZmlBeFB5ZHFqRmFkdWZoeTZad00ydlZFRlhIWQ?oc=5>
-
-### Trump Announces Near 'Finalization' of Deal to End Iran War
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-05-24 01:21
-- 链接: <https://news.google.com/rss/articles/CBMipwFBVV95cUxPeVNvcmRHZW5OckpYLXpHeGRLa1dveXcyUDdNc3c4ZXhwRnZSc052ZnV3NHktYzNvb1VITExXOG9YWjZ5OU9RQUNlZDRNNFdsZmhxZVpWY0J3b1l5MXBwT3lUWXhBcVJEeUdFUDdOMWdBSTRyRS1vY0ZpbnE0d0x2SmF3c3pLbExHWjRhTV9MR1VzejFTRW9aWXc5RWtKSGp0OUJyc0VTMA?oc=5>
+- 场馆: news.tvb.com
+- 时间: 2026-05-24 04:23
+- 链接: <https://news.google.com/rss/articles/CBMiswFBVV95cUxOUWROR0FNV016YVl0RmtKUnI2U05sNWpZaEEwajBJOXhianhKUzAyTDNFMkVQWDFDMTBjRkxLT2VhcjZiVFB3eXFpNXBELUpCUmVsU0JBVVV2MjFZYnI5czI4N1drRFM2T1EwS3BTcm81NjNpWEhFa0JKYnk4ZlUwLTRCZk4xNWtKclRvNUZvdFNNdFphNTVmRGVydWpvczhGOUR4Qld0YTlsT0xJTTZDQ0tZZw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-24 05:39  (9 条)
+
+- **周杰伦** | 周杰伦演唱会戒断期歌迷重温经典快歌 <https://k.sina.com.cn/article_7879923704_m1d5ae17f803301smg2.html>
+- **特朗普** | 特朗普：白宫附近枪击事件枪手在与特勤局人员交火后死亡 <https://news.google.com/rss/articles/CBMicEFVX3lxTE85d012blpwT09uWFRFZFV2VEJhVVZRTUFXaTM0X29CcXRrUkVXeFRSVWk0YjIxOHJoQjR1Y1VTV2pzQzlVUEJGczI1V0diNzBhYmoyaGFvWWoyamQxSjFYeFpNMjdPUUh1LU9DVUhNSUY?oc=5>
+- **特朗普** | 白宫检查站发生枪击，特朗普在白宫工作，枪手被击毙 <https://news.google.com/rss/articles/CBMi_wJBVV95cUxQTExEem45eFR2U2ZaV1hWd1hIMmpReGdRdDdLdnZ2TVgyWk01ZEpmQld6MUlSM3VsOFNWdHdfTnFUVm5JSzdQazRmUGRvT2ZTaHZZQWhIdTFaYnYtSTZDUU1DU0lXay10c1ppaVV4TUxIQ2hsV1hlYTVEdFZTZjBweDV2Vy1zaWRyWmxUSlB5ZDNVdnpETko2ZmFyclJfNjMtSHowek1jT0t1Wkl3TFVWbEpxbVZZRTFPQ2dKcE84TF95YklKa2hQVFpZM3hyMlFybDlQUzZQcW5PRmxaNXZBTVNENGdoSGlPYzJVWXJoeUZ5bkp5VWswczM5VktpaFg5d25YY3p3blpMY3dZbHZqOE1hdzNnRS1aRWpPbU56SkRoVzVBSVZWZXpPYVBzYlRUTWhHWjRERm9GRVhkNlpEVmU0VUpMT1JEZ2xqQ0l0NHlUQlBFd2tZeFF5aURxZk55RnZQMkxTLVFEUWRKOVdkSGRmdXJIVE02ZU81THZlZw?oc=5>
+- **特朗普** | 特朗普此行让印度有点傻眼了，鲁比奥访印“收拾烂摊子” <https://news.google.com/rss/articles/CBMidEFVX3lxTE9FdERlb00tMnBwUXNOcXRNTENtTTZ3RjY3dWhNTlJSamd2T3RTSTVVVTM2RWZGZktfUE1LakpXMnlhVl9DdlI1X3BYRlZHVUlxSnNHWVZ4WjdFR2NMMHo1bzY1emNnd0lNQ1dGTm1PQnRVdmNO?oc=5>
+- **特朗普** | 特朗普称美伊协议基本谈成 内容包括开放霍尔木兹海峡 <https://news.google.com/rss/articles/CBMieEFVX3lxTE5jWUZPNUlKZHFwV19fOUxGeXViYXdPNEhQX09zanozWlpTVFhyQy1UUTdPVXFneGlyN0Q1SDBPeDAwdGhyYlc1TFpJX3ByQk4yaHpvdkg3Z0JxbjFnQlYxWHpibl9vZHBjRUt6MmhJUDZ4RTNDVTJjMg?oc=5>
+- **特朗普** | 和平分手？没那么简单，特朗普又一内阁大员离职内幕曝光 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9Za3REa3JrNU1VQ0paR1FJNVpGeDQ5TTQ1MkllRUJhYk1meWxhV2t3aFJaWWRDLVBjS0pJU1JfS09DQ2FDVDZkTnFnRE8?oc=5>
+- **特朗普** | 纽时：马斯克随特朗普访华 冀解开30亿美元太阳能设备输美禁令 <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrclkxdnB5cUYtNkpaRlhrMWxXX0h6cEdBVjJZWlBFVDRnSHBJMVVKVlpmdkRLUVIzMk40QmgwOUdRR2w1ZlFjYXVRU19pTHk5ZzFwUFNIQXFzWE53QS1ZYmNnR2RxZw?oc=5>
+- **特朗普** | 有待最终敲定 特朗普称美伊协议基本谈成 细节将于近期公布 <https://news.google.com/rss/articles/CBMia0FVX3lxTFBMZGdDZVZELXhyNm1xOGw3OWNpNlN6al9mZHhaQ2dBY3FXM2tCeFFWazhnbTIxaHRmLXA0Q2pmUWVFOUR6SUpHTnBzcnVRUkZPV1ppYk1SX2N1WjZKRFAxRXp0djRwcmtFdzZB?oc=5>
+- **Trump** | Trump: Iran peace agreement "largely negotiated" <https://news.google.com/rss/articles/CBMiswFBVV95cUxOUWROR0FNV016YVl0RmtKUnI2U05sNWpZaEEwajBJOXhianhKUzAyTDNFMkVQWDFDMTBjRkxLT2VhcjZiVFB3eXFpNXBELUpCUmVsU0JBVVV2MjFZYnI5czI4N1drRFM2T1EwS3BTcm81NjNpWEhFa0JKYnk4ZlUwLTRCZk4xNWtKclRvNUZvdFNNdFphNTVmRGVydWpvczhGOUR4Qld0YTlsT0xJTTZDQ0tZZw?oc=5>
 
 ### 2026-05-24 01:29  (10 条)
 
