@@ -1,48 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-24 15:58**
-- 本轮扫到 1996 条, 新增 **4** 条
+- 最近更新: **2026-05-24 17:03**
+- 本轮扫到 1998 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (2 条)
 
 ### 特朗普称不急于与伊朗达成协议
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
+- 场馆: 新京报
+- 时间: 2026-05-24 15:39
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5HMkQ0VVJxMVd5YmhPdjJNVGhWWkRIMlJuQUVWOTFTQlRzMllIUlQ1cXRNMkJyOFNFb1BLaHZudEZ1QnIydko5SlV3clBJUjRXUlRvT040aEN1OHNfQ2w0RFZXa3Q?oc=5>
+
+### 特朗普就白宫附近枪击案发声
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-24 15:26
-- 链接: <https://news.google.com/rss/articles/CBMixAJBVV95cUxPdnRXQWtlamxCRXQ2aGlfcWtLY1VURkZ0QmFrcXVoVl9zS2Z6OVU2Yl9LQUptQmNJbTZlcldYb0c3Y1YtSVZLM0tqeFpLazkxdWl0ZmZxTjZuU2d4V0JiaEFhLTJfdFRtaVp5bUN6ZzFabktEM0NfdXV5SUZUbTNzUGlPOEtrQjd2eGJPYnFXdFVZeEZFN00tNHlqSThmTWhmc0pQcTliMVlCdXdFcUlON3pNYXVRQnV6OEhFMDJQUE93V1dTOWlFaG8yN05EOHNqSWVXd2dPb0N6d3RDdmpKYXBkd08yNkNucWV0WmpmdnNmcFc3Vkl6cWpFRHdITktIYjdmMUNiN3R4MWZaV201ME9hNktzMUxVZHQxSG1FcW9Ba3ViaHM0cms0NXVkaG1zb0RLNVZPb1ExckJDaloyekdSVzQ?oc=5>
-
-### 特朗普称美伊协议基本谈成 内容包括开放霍尔木兹海峡
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中国日报网
-- 时间: 2026-05-23 22:41
-- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTE5ieEh2M3BIcHlleUdMNEQwTEtNSjQtd3AteV9va2JqdmNQOUJhZ3kyeHdBY0E2WVlaUktvUllGNUUwRUlHWGpDRnBGUGF0Rm5GUWh6bTctSkxnRTMxLW9ySm8xRGd5azN1MDZNYXJtclJERlk5M2phbkdLWQ?oc=5>
-
-### 特朗普称美伊协议基本谈成 伊朗：霍尔木兹海峡仍将由伊方“管理”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: Shangbao Indonesia
-- 时间: 2026-05-24 10:23
-- 链接: <https://news.google.com/rss/articles/CBMihAFBVV95cUxPSmVxcUM4SWNsVnNVbkxtb3JXX1VzQ3cwTS13R2Q4aTFqYUFsckhQRjFSZl96S2JwTEdWbVluSmtGMUdyTzc4bml3TWFfWmtBMGNYVmVBVTkwRlJqWVZURDJ2bWhRRHpqM0xsVWhTYjFlTzhqYm11WFpsTElLc2d2ZkZsS1Q?oc=5>
-
-### 特朗普：已指示代表不要仓促达成协议，时间站在我们这边，封锁保持全面有效
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-05-24 14:59
-- 链接: <https://news.google.com/rss/articles/CBMi-ANBVV95cUxOdzRERnZ5dXJrVHdkc21FdWgtVGM5Qk00NUVJRkloeDFTRUw3bWhmQVBmM3NORDNQU3pBLW1uU0FOb2hjWWpEb3BPdHhMOHNBNnhVSkZoQVN0a0ljOWY3NnYxLXdXZ0lCczRjX09xaVZtcGZoZ1V0UFJQandfR2pCQks5TGFaU0VEMjdtSDl4LXZYaFk2dXFBbWlJQWlRSVdIUko1T1FDUXVUb1dET2JuV3doSXFIbWN5N1l1OURrSkxVLU9WdHV2NjhnR2xjZlJkQ2FvM0tPQ2JpaHJRWHhPWk9pSFdOVXJUaldHcTFxcHh6Y2lna093NzlrRWRaUlpILWxKNm5uakMtaEIwbU5lbkZYTXBEWGVCMWdTNFVPdU50WFdqRlR6cU5ZVmVwVi15cHE1Z0ZkLTVDRHA2OGhKRmZ1M09XTmYyamdtR1ZFUUNCeG5QczY0VHZpVDJSVldKMzVrUTFsWmZyVFBaMUIxa0c1T2FTVGpERFc1Z3AyTHBfR2xraUJwYjhNcGlBUUkwTFVWNF9jeXlqTVdqYUNBNm0xZTBXS2R3amFXcWVER1NvSV96Q3l5a2k2cEJMeFlXUC1mWEpMV0U1QW9DQlJySVFwVWpCSTlTUzRzU18tTzRzbzgwUVU5RUJqUUdGbWZ0MzlRcVZZOGg?oc=5>
+- 时间: 2026-05-24 16:30
+- 链接: <https://news.google.com/rss/articles/CBMilwJBVV95cUxPdmsycjJmZ2huRUk2ekxkNE14MDBwVmF3LVhRTWJqWnVpOFlpUVo2OFByOXl6TDlSLUQ1MWl4ZURtbGs2U05CdzhZOEgxVDlubnVXekdpS3lRbGo4XzI0T3RrcWhaSjhDLVl6QWZrSkNvNDI1MGxYVl9pYVJwMFp6Zk16dUhNQ3UwUTBhNHU4MGZNR1RKZThfT3ppWldnSXFZSnlTUWs0dGRFY21UNXpnckpDNUFuNEhqMEFwRXcxN1I3MGxQdUlJbVp3MHEzQk9SclZPVzFhZ2x0R2dPRU5NWGMyNllSMDVURm5HaHM5eVNuYXF4ZkFLcTUyVk5CYXk4emRDcjlFa3luOUI0ejZtaW5LQ1JvUEU?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-24 17:03  (2 条)
+
+- **特朗普** | 特朗普称不急于与伊朗达成协议 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5HMkQ0VVJxMVd5YmhPdjJNVGhWWkRIMlJuQUVWOTFTQlRzMllIUlQ1cXRNMkJyOFNFb1BLaHZudEZ1QnIydko5SlV3clBJUjRXUlRvT040aEN1OHNfQ2w0RFZXa3Q?oc=5>
+- **特朗普** | 特朗普就白宫附近枪击案发声 <https://news.google.com/rss/articles/CBMilwJBVV95cUxPdmsycjJmZ2huRUk2ekxkNE14MDBwVmF3LVhRTWJqWnVpOFlpUVo2OFByOXl6TDlSLUQ1MWl4ZURtbGs2U05CdzhZOEgxVDlubnVXekdpS3lRbGo4XzI0T3RrcWhaSjhDLVl6QWZrSkNvNDI1MGxYVl9pYVJwMFp6Zk16dUhNQ3UwUTBhNHU4MGZNR1RKZThfT3ppWldnSXFZSnlTUWs0dGRFY21UNXpnckpDNUFuNEhqMEFwRXcxN1I3MGxQdUlJbVp3MHEzQk9SclZPVzFhZ2x0R2dPRU5NWGMyNllSMDVURm5HaHM5eVNuYXF4ZkFLcTUyVk5CYXk4emRDcjlFa3luOUI0ejZtaW5LQ1JvUEU?oc=5>
 
 ### 2026-05-24 15:58  (4 条)
 
