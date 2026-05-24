@@ -1,24 +1,51 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-24 22:29**
-- 本轮扫到 2009 条, 新增 **1** 条
+- 最近更新: **2026-05-24 23:34**
+- 本轮扫到 2013 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮新发现 (4 条)
 
-### 特朗普缺席长子婚礼 因“爱国”留守华府处理政务
+### 志邦家居请你看周杰伦演唱会,助力青春不散场
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857141524_1d452771401902su7k.html>
+
+### 最容易抢到周杰伦演唱会门票的方式?志邦定制家年华聚合“真”粉丝
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857141524_1d452771401902su50.html>
+
+### 特朗普：美伊协议“尚未完全谈妥”
+
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-05-24 15:33
-- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUEcxX2F2MG5xaUVXcmpmQjhfRGtTNWpCVzNVTXJTdEZTMTA2RHNkUklaS0duN21pUkdnd2J5a29ONHlReEpOQ1VEYTgwdmlKb2RFdGhLRkJXY3Z3WlFlam5SM1hqWlBYWTVPUWZpS3Z4M1l0U3c3a0t6Yzl5UmpoVGMwbnh6UDdVd0dr?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-05-24 20:00
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5zOVNiOU5fTjJrWDRORVNpeGtOYjZVZWlYMHgzRHFVcDdLVEFSSV92UVNHWkZBczBSNGlFdUJYTGVvWFhXNEhqaFQ4UQ?oc=5>
+
+### 上任伊始，沃什面临五大难题
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-24 23:32
+- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxNZlZCSmpfYzZCRHJPVlNWSTNkUTZEUERWVlk4WnotZFpXN0ZkOHVPTERrWWN1akFLRXlMX19PYy1pMXl2cUpscjJtTkk5LXpnLWpOR3RTLXMxQkVMY0owazB1OENETC1iZVRuWkZPZFZLeUlEeG1JYkRoUVFxV05qRDUyMWU1ZzQ5WDY2M1dDcEJqRjFpYlhJeA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-24 23:34  (4 条)
+
+- **周杰伦** | 志邦家居请你看周杰伦演唱会,助力青春不散场 <https://k.sina.com.cn/article_7857141524_1d452771401902su7k.html>
+- **周杰伦** | 最容易抢到周杰伦演唱会门票的方式?志邦定制家年华聚合“真”粉丝 <https://k.sina.com.cn/article_7857141524_1d452771401902su50.html>
+- **特朗普** | 特朗普：美伊协议“尚未完全谈妥” <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5zOVNiOU5fTjJrWDRORVNpeGtOYjZVZWlYMHgzRHFVcDdLVEFSSV92UVNHWkZBczBSNGlFdUJYTGVvWFhXNEhqaFQ4UQ?oc=5>
+- **特朗普** | 上任伊始，沃什面临五大难题 <https://news.google.com/rss/articles/CBMimAFBVV95cUxNZlZCSmpfYzZCRHJPVlNWSTNkUTZEUERWVlk4WnotZFpXN0ZkOHVPTERrWWN1akFLRXlMX19PYy1pMXl2cUpscjJtTkk5LXpnLWpOR3RTLXMxQkVMY0owazB1OENETC1iZVRuWkZPZFZLeUlEeG1JYkRoUVFxV05qRDUyMWU1ZzQ5WDY2M1dDcEJqRjFpYlhJeA?oc=5>
 
 ### 2026-05-24 22:29  (1 条)
 
