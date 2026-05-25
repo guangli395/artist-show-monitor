@@ -1,44 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-24 23:34**
-- 本轮扫到 2013 条, 新增 **4** 条
+- 最近更新: **2026-05-25 02:51**
+- 本轮扫到 2017 条, 新增 **4** 条
 
 ---
 
 ## 本轮新发现 (4 条)
 
-### 志邦家居请你看周杰伦演唱会,助力青春不散场
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857141524_1d452771401902su7k.html>
-
-### 最容易抢到周杰伦演唱会门票的方式?志邦定制家年华聚合“真”粉丝
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857141524_1d452771401902su50.html>
-
-### 特朗普：美伊协议“尚未完全谈妥”
+### 鲁比奥：虽然特朗普加关税还限制移民，但美印关系依然牢固-观察者网
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-24 20:00
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5zOVNiOU5fTjJrWDRORVNpeGtOYjZVZWlYMHgzRHFVcDdLVEFSSV92UVNHWkZBczBSNGlFdUJYTGVvWFhXNEhqaFQ4UQ?oc=5>
+- 场馆: 观察者
+- 时间: 2026-05-25 00:44
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE40LTBvaE1vM180UU9POGNGX2t5aWtjakg1ekR0ZVNHaGllZXlWRkxuWkU2Zk52VFJwWTctN05WNVhMSU9MMHNyN3JxUVJSdjlPRnllQ1V5TkRJQU9RZlRYRmtZVjdJUEsxM2c?oc=5>
 
-### 上任伊始，沃什面临五大难题
+### 纽约时报：特朗普向中国示好引发印度担忧
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-24 23:32
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxNZlZCSmpfYzZCRHJPVlNWSTNkUTZEUERWVlk4WnotZFpXN0ZkOHVPTERrWWN1akFLRXlMX19PYy1pMXl2cUpscjJtTkk5LXpnLWpOR3RTLXMxQkVMY0owazB1OENETC1iZVRuWkZPZFZLeUlEeG1JYkRoUVFxV05qRDUyMWU1ZzQ5WDY2M1dDcEJqRjFpYlhJeA?oc=5>
+- 场馆: 文学城
+- 时间: 2026-05-25 02:22
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE83SnNrWU9lcFhQeHhZVVNqUEpaSHVUeWpERUt0dkZJdWJLVWpfTEFDdm5td3o5YTI3OXRHbHkxN0hxUS1ZM2JWbUtMRWJiazNjajRRSFEyQzNzLTRfcTM2dzl6Y3g4V2gx?oc=5>
+
+### 特朗普称“尚未完全谈妥” 美伊谈判进展遇阻协议签署仍存变数_央广网
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 央广网
+- 时间: 2026-05-25 00:36
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE00Nm1ISl9jdFJUcGhoUVF5SW56aUJSbW5YTGdoeGM1ODFJTjZnRFY1SFdjdDZkM2ZLaExHZ21Gb25XMVh0VnB6YkdvbGZTZWE5V1lad2ZQTkk1aVlSUVJHYXRmWXBoOEU4?oc=5>
+
+### Oil Prices Tumble as Deal to End Iran War Appears Close, Though Trump Says There's No Rush
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-05-25 01:53
+- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxNSUdza2I1eHlKVVVSZWJXWVY5SWEwd19KZXNSZDNyV3N0ZUJlZDY1UGZXTEJtTl9UUzFZclB0RENHc3ZSdE5WQTdwX3BPVGJDTnp4X3RHMXp5MF95MEl2dnAwMTB1dDY1bnNOc2RWQVJlRWVEeEZaMnFLYlpzb3p2ZGVoSDh2QnREUmhLNnBYdFNHWWJfNnNIakZleFg?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-25 02:51  (4 条)
+
+- **特朗普** | 鲁比奥：虽然特朗普加关税还限制移民，但美印关系依然牢固-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE40LTBvaE1vM180UU9POGNGX2t5aWtjakg1ekR0ZVNHaGllZXlWRkxuWkU2Zk52VFJwWTctN05WNVhMSU9MMHNyN3JxUVJSdjlPRnllQ1V5TkRJQU9RZlRYRmtZVjdJUEsxM2c?oc=5>
+- **特朗普** | 纽约时报：特朗普向中国示好引发印度担忧 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE83SnNrWU9lcFhQeHhZVVNqUEpaSHVUeWpERUt0dkZJdWJLVWpfTEFDdm5td3o5YTI3OXRHbHkxN0hxUS1ZM2JWbUtMRWJiazNjajRRSFEyQzNzLTRfcTM2dzl6Y3g4V2gx?oc=5>
+- **特朗普** | 特朗普称“尚未完全谈妥” 美伊谈判进展遇阻协议签署仍存变数_央广网 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE00Nm1ISl9jdFJUcGhoUVF5SW56aUJSbW5YTGdoeGM1ODFJTjZnRFY1SFdjdDZkM2ZLaExHZ21Gb25XMVh0VnB6YkdvbGZTZWE5V1lad2ZQTkk1aVlSUVJHYXRmWXBoOEU4?oc=5>
+- **Trump** | Oil Prices Tumble as Deal to End Iran War Appears Close, Though Trump Says There's No Rush <https://news.google.com/rss/articles/CBMinAFBVV95cUxNSUdza2I1eHlKVVVSZWJXWVY5SWEwd19KZXNSZDNyV3N0ZUJlZDY1UGZXTEJtTl9UUzFZclB0RENHc3ZSdE5WQTdwX3BPVGJDTnp4X3RHMXp5MF95MEl2dnAwMTB1dDY1bnNOc2RWQVJlRWVEeEZaMnFLYlpzb3p2ZGVoSDh2QnREUmhLNnBYdFNHWWJfNnNIakZleFg?oc=5>
 
 ### 2026-05-24 23:34  (4 条)
 
