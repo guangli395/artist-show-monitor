@@ -1,84 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-25 17:03**
-- 本轮扫到 2055 条, 新增 **9** 条
+- 最近更新: **2026-05-25 18:58**
+- 本轮扫到 2060 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (9 条)
-
-### 张杰杭州演唱会有点尴尬[偷笑]张杰的人气和周杰伦的人气
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905xgbo.html>
-
-### 昆凌带女儿现身周杰伦演唱会，小小萌娃应援超有范儿
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905xfk2.html>
-
-### 特朗普想把美伊协议同“亚伯拉罕协议”挂钩？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪军事
-- 时间: 2026-05-25 06:10
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFBFbnlzdDZuaW5jcmtVM3M5Q0Z3dFl0R2dyRkt6OHhBeHBNZWpNNUhLUzExOVQyRmlDNUNMNmNSeHl2MXBoQ1o2QVd2SGFxdEx0Nzg5ZDAtMEtTZFMtY3lIMjJqNUxwMVo0NnlReklwQXhjV0U?oc=5>
+## 本轮新发现 (5 条)
 
 ### 特朗普称伊朗谈判正在“顺利推进” 协议似乎更近一步
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-25 16:39
-- 链接: <https://news.google.com/rss/articles/CBMiigJBVV95cUxPWW1HSHYzUHN3bWdlR1dtVjdROGpmOVRBUTFsaG9Dak9RaF9aSnBtTWZmd2JIX215aUozYUhMQWRFWnpDNjFqV1l0Z004R21zVFFObTVFMnk5SUE0eXVuWVZaTy00dXl3azRFSEkxMjRhMHdpVUpQc2swNzc5QlVJcDZqOGJ3dXFNSlUxQVNqRV91X19hSXhGTFV2ZjdFT1JvMVp4TUMycDlBbE5MZ2VTRmZIOE9DOU5pRDhXVHpfcGZjQ28tUEFlbF9tMUJHall5aXh6Zmh4N0JMbWtKMVBYSE80UHE5RkVIQno2QlRBY2VjTzlqOFBaOEdlT0xEeFM5VHZQRTNXNGIwUQ?oc=5>
+- 时间: 2026-05-25 17:21
+- 链接: <https://news.google.com/rss/articles/CBMimgJBVV95cUxQcjVkWHNlSFEwSzgweDdoWUNSTDJZNDhZM21QOGVYZXVzaVRNQXNaVHA3RlltVmw0c3B6a00xUG9uN0pWU0VuZFpCNlhSaFI0X2M3Y29vZHNnRmNxOVFLLXBuZEo1MlJDeWprZnRtY19BVS1VNWJqTGdoY2xPT1NCdlV3NXRNRnJ3MnVYamh1aWprcFhvUzhRSmF1U01DMDgyR1BuMTJTQ1VuYm5NaWtUcUFobTd4SEM4R0YtQ0hoTTJ0eEJJRXNGUjJSbmpmZmZXeUl0TkxwS08xY3pOamdDSnZFMFFIQ3NaRzNTWk8tQXdiRWo2V1dUc1VjLTVzZGdQakVIaXdPTWFaT0gtb1FQWm5fRHAxRkY0aVE?oc=5>
 
-### 美司法部称白宫附近枪击案是针对特朗普的暗杀图谋
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-05-25 15:42
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5qZTQ4SkhxU1A5cF9wamxUdGRvMHJjcENvRlhmNjFkbWtlcFdJLXZJZ0Y5R1hPQlQ1S0FqZjdKVFNaUTNmdG5RUnVTSVlsTmhodFJ5OWxweV8yTmZuSWlZdFJDcmc?oc=5>
-
-### 特朗普称与伊朗的谈判进展顺利
+### 高油价冲击持续，美伊框架协议“达成95%”，特朗普：进展顺利
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-05-25 12:36
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aREx5Zl9GNUtVbnlxdUlJOFdKYmRzYUVRdEFTaGVjWFFKR1IxUDRTNW81YkE5WU1iTS1iQWo1VWtCazB5WFlwZGtxb21rZlhfV0ZKaXZrM29qYzc2bHJNOHZkclQ5djls?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-05-25 17:10
+- 链接: <https://news.google.com/rss/articles/CBMiggJBVV95cUxOVm1rU2tRbFVvbnFndWFEbkNkOHJTQmYwcUtvNVlZS1dvbXhvcnBPMkp5RW5aR0NoT1BOcVZnc0J3NEhWb0Rsb1ZCUzNaYmJYS3BNbmdjRFdsXzBDSTJIVmRVQUpwRWlFOUtqelNUOEF5S3pzdVhLYWRIWTFUU3pnTzNpc0s5d0RaNUZ0bjhnUG5FSEVYUUlBNTJjUEw1THhPRWxqNEUzak0tMk1sOXhMbDdkTkNOR0xoeHNCenpLenVweVZnQVhIMGFFbjg2T1Y0NWxTa0NVRXhQWWVGTmRmZkFyY25ac1lFcTJaRGszQkc3bGNvMlhHa1BDYW1ZYzhrLUE?oc=5>
+
+### 国际纵横 - 特朗普、普京接连访华，北京正在重塑国际外交格局？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-05-25 10:00
+- 链接: <https://news.google.com/rss/articles/CBMisgNBVV95cUxQQkxOZjh4YzBDcy1FaUJPR3MwXzZEbU04anRLZmZpTkI2TDh5TFFpRGxSaVJVb19ZLTVCSzFaU1RPdTZZTmVWYVNTSGkycUh4VzRtRDRKVTRKUXNXN1JUQmlra1FvOV9xeXlTaEJlamZIMWZsYnVMb0hPX2EzdmRCV0pKd0U1bjNMRDJtNEhJeDZxZDFlOXlCeDk5X1RUOW53cHc1YVFmbHg2Qm03TVBvN2xUUXJBNGg5TFVsU1FTZ0pTZ24xQUYtVUJyQTN1WFh3Z04wSkE4TE5ZTWUtRHdScFEzYzlMaUZla1Itb1hPbmhQM1V5X2xYYWVtSVlaSXNNd3JMRWQ2WVllSjBaZk9xUHp6bVZ4N2J2TkcwZHZMdWhOSWxKOXRzNnpXbGZ4MUFEa0JxNktmTndBcGY3SElWTlViSEhqT0FabFFoR0gzZzFuZG01TkdNRWN5NHh6RmduRGg5ZjhyeDFzTkYwdURtbWIwY29wcTNHZjBWMTBJdWh2ZTVjdU5ac3NQaHROdHZrNnB5U21IMkd5bEl1clNvVVd6QndwS1BKYlpOT1ZhVlNRQQ?oc=5>
 
 ### TRUMP/USDT
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: Binance
-- 时间: 2026-05-25 13:37
-- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTFBtSUhlbXZjRHhQaGF1Y3M2Rkd3cDJjNlNFLUNKMUdCWVlrX2FWZUp0cHIxZXN1S09BbWdsOWdNSzhuSlhWZ2dyMjlQOEcyekloeTFIa2s3YUJULXV4b0o0aWRIS3pWWWVrS2I2Smo4UW5zZ0I0WUdWb21xOA?oc=5>
-
-### 美国敦促中东国家加入《亚伯拉罕协议》，以此作为美伊协议的一部分
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-05-25 15:24
-- 链接: <https://news.google.com/rss/articles/CBMizAFBVV95cUxOVkhsQ29qMm5jVXlULXZPRmxWS00yZmhSdG1FeDRjMEtsekVybGVQZFRfTWNYS3FtN25ZMVFMREowQXpCNW05SEliX1YzekZJb3IzbnZQRzhDWHlxZ1dSVGVuZHpYeEMxODlhMElqU3htd3p3eHk0eW1MLUxrbjlBQ3RvTDNfR3g3SEoxR1lrTVdqUW9PWnQ3VC0yX0dKWklibkJUWnFpOXRQTEluTU91Ql9JT3MyR3lNLXR6YlZPRzFzUVdBVF9lX0tYUljSAc8BQVVfeXFMUFo5amluYlZlZFh1S3ZxN05relhsYXdiV1BpVTdIbUZFcnZDekQwQXZHR0VLRU1SRlJkOS1Qalo4bkRPaUs1bjVuQTZodFVHZkdhdkgwVDFTaGhwbElXTFN5SEpTamVjQkppQ0oweWpiYkZxNVpTZkVpLVlWa1gyRjNRQmRuMzgyWE9zanpxZGtBRk1fQlRxU0hnQm1Lelo2T2lEZzE4dTJZSEN2eU9JQk5wLW9RQ19vWTEzaVpyQnpzc3JSN2UyQVBnbFJlS3B3?oc=5>
+- 时间: 2026-05-25 10:58
+- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTFBzNnFJR01CNnRSVm1TbnNqcU9VLWJNUlNhUTVFOEpXaThoWi14Q0JJamR2azR5YUNXUW9sSWQ1Qy1PUGw2N3hQdVVpNjkyaUJIejViZDVIWS1jNUFBYVFOR3hqdzdLV1Z0RTlxd1BfLUNHellzX19TMmxaaw?oc=5>
 
 ### TRUMP/USDT
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: Binance
-- 时间: 2026-05-22 04:00
-- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE5ZOWwxZ2tyMV9zY0FvNFhIZ3oybWV3MmdBbllLaXVRWTR0d0NfYTJwRFJJVjlYMTc5UDRsWkF4bmI0TXNOSzdNTGUwNmNQdVBFYXhmcG1sX3cyZ1NTWm1vbk9CckprekdUdVNaLVh6TEZTT0tBQzd5amlxOTc?oc=5>
+- 时间: 2026-05-22 08:02
+- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTE1qOFFGNy1WeGdCb19xRVExOUhfc3VhZ2U4UFBQWUgzWTJaRy1EN053WHBrdGZsbGhncW5TT0IydWhHeTJ6Z0ZVY1pPX0ppSEVHaU5FdXNFLUpxN0JDMGJONnJXbE5peURVVzRmTFNLMzhWUXFtMmxWcTBwaw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-25 18:58  (5 条)
+
+- **特朗普** | 特朗普称伊朗谈判正在“顺利推进” 协议似乎更近一步 <https://news.google.com/rss/articles/CBMimgJBVV95cUxQcjVkWHNlSFEwSzgweDdoWUNSTDJZNDhZM21QOGVYZXVzaVRNQXNaVHA3RlltVmw0c3B6a00xUG9uN0pWU0VuZFpCNlhSaFI0X2M3Y29vZHNnRmNxOVFLLXBuZEo1MlJDeWprZnRtY19BVS1VNWJqTGdoY2xPT1NCdlV3NXRNRnJ3MnVYamh1aWprcFhvUzhRSmF1U01DMDgyR1BuMTJTQ1VuYm5NaWtUcUFobTd4SEM4R0YtQ0hoTTJ0eEJJRXNGUjJSbmpmZmZXeUl0TkxwS08xY3pOamdDSnZFMFFIQ3NaRzNTWk8tQXdiRWo2V1dUc1VjLTVzZGdQakVIaXdPTWFaT0gtb1FQWm5fRHAxRkY0aVE?oc=5>
+- **特朗普** | 高油价冲击持续，美伊框架协议“达成95%”，特朗普：进展顺利 <https://news.google.com/rss/articles/CBMiggJBVV95cUxOVm1rU2tRbFVvbnFndWFEbkNkOHJTQmYwcUtvNVlZS1dvbXhvcnBPMkp5RW5aR0NoT1BOcVZnc0J3NEhWb0Rsb1ZCUzNaYmJYS3BNbmdjRFdsXzBDSTJIVmRVQUpwRWlFOUtqelNUOEF5S3pzdVhLYWRIWTFUU3pnTzNpc0s5d0RaNUZ0bjhnUG5FSEVYUUlBNTJjUEw1THhPRWxqNEUzak0tMk1sOXhMbDdkTkNOR0xoeHNCenpLenVweVZnQVhIMGFFbjg2T1Y0NWxTa0NVRXhQWWVGTmRmZkFyY25ac1lFcTJaRGszQkc3bGNvMlhHa1BDYW1ZYzhrLUE?oc=5>
+- **特朗普** | 国际纵横 - 特朗普、普京接连访华，北京正在重塑国际外交格局？ <https://news.google.com/rss/articles/CBMisgNBVV95cUxQQkxOZjh4YzBDcy1FaUJPR3MwXzZEbU04anRLZmZpTkI2TDh5TFFpRGxSaVJVb19ZLTVCSzFaU1RPdTZZTmVWYVNTSGkycUh4VzRtRDRKVTRKUXNXN1JUQmlra1FvOV9xeXlTaEJlamZIMWZsYnVMb0hPX2EzdmRCV0pKd0U1bjNMRDJtNEhJeDZxZDFlOXlCeDk5X1RUOW53cHc1YVFmbHg2Qm03TVBvN2xUUXJBNGg5TFVsU1FTZ0pTZ24xQUYtVUJyQTN1WFh3Z04wSkE4TE5ZTWUtRHdScFEzYzlMaUZla1Itb1hPbmhQM1V5X2xYYWVtSVlaSXNNd3JMRWQ2WVllSjBaZk9xUHp6bVZ4N2J2TkcwZHZMdWhOSWxKOXRzNnpXbGZ4MUFEa0JxNktmTndBcGY3SElWTlViSEhqT0FabFFoR0gzZzFuZG01TkdNRWN5NHh6RmduRGg5ZjhyeDFzTkYwdURtbWIwY29wcTNHZjBWMTBJdWh2ZTVjdU5ac3NQaHROdHZrNnB5U21IMkd5bEl1clNvVVd6QndwS1BKYlpOT1ZhVlNRQQ?oc=5>
+- **Trump** | TRUMP/USDT <https://news.google.com/rss/articles/CBMie0FVX3lxTFBzNnFJR01CNnRSVm1TbnNqcU9VLWJNUlNhUTVFOEpXaThoWi14Q0JJamR2azR5YUNXUW9sSWQ1Qy1PUGw2N3hQdVVpNjkyaUJIejViZDVIWS1jNUFBYVFOR3hqdzdLV1Z0RTlxd1BfLUNHellzX19TMmxaaw?oc=5>
+- **Trump** | TRUMP/USDT <https://news.google.com/rss/articles/CBMie0FVX3lxTE1qOFFGNy1WeGdCb19xRVExOUhfc3VhZ2U4UFBQWUgzWTJaRy1EN053WHBrdGZsbGhncW5TT0IydWhHeTJ6Z0ZVY1pPX0ppSEVHaU5FdXNFLUpxN0JDMGJONnJXbE5peURVVzRmTFNLMzhWUXFtMmxWcTBwaw?oc=5>
 
 ### 2026-05-25 17:03  (9 条)
 
