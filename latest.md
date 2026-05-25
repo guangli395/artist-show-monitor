@@ -1,48 +1,127 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-25 02:51**
-- 本轮扫到 2017 条, 新增 **4** 条
+- 最近更新: **2026-05-25 07:10**
+- 本轮扫到 2029 条, 新增 **12** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (12 条)
 
-### 鲁比奥：虽然特朗普加关税还限制移民，但美印关系依然牢固-观察者网
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-05-25 00:44
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE40LTBvaE1vM180UU9POGNGX2t5aWtjakg1ekR0ZVNHaGllZXlWRkxuWkU2Zk52VFJwWTctN05WNVhMSU9MMHNyN3JxUVJSdjlPRnllQ1V5TkRJQU9RZlRYRmtZVjdJUEsxM2c?oc=5>
-
-### 纽约时报：特朗普向中国示好引发印度担忧
+### 关于美伊协议 特朗普与鲁比奥最新表态
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 文学城
-- 时间: 2026-05-25 02:22
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE83SnNrWU9lcFhQeHhZVVNqUEpaSHVUeWpERUt0dkZJdWJLVWpfTEFDdm5td3o5YTI3OXRHbHkxN0hxUS1ZM2JWbUtMRWJiazNjajRRSFEyQzNzLTRfcTM2dzl6Y3g4V2gx?oc=5>
+- 场馆: 新华网
+- 时间: 2026-05-25 02:57
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1faWZKaUFHY2RjSUZCUzFPSmhSZkIwTWlPTERMejg0aVJkRFhWREhIZ3R1cWNQOWprMnpTdENtcEFENElqeWFXWElZbU5MeC1iSjhzM0lYLVZSa0toOWpIMU5vWkdHRE5RMS1rU3FmdlFqRWZnNEhtaHBEcjNxVGs?oc=5>
 
-### 特朗普称“尚未完全谈妥” 美伊谈判进展遇阻协议签署仍存变数_央广网
+### 媒体：习近平在特习会批高市早苗 遭特朗普反驳
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 央广网
-- 时间: 2026-05-25 00:36
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE00Nm1ISl9jdFJUcGhoUVF5SW56aUJSbW5YTGdoeGM1ODFJTjZnRFY1SFdjdDZkM2ZLaExHZ21Gb25XMVh0VnB6YkdvbGZTZWE5V1lad2ZQTkk1aVlSUVJHYXRmWXBoOEU4?oc=5>
+- 场馆: DW.com
+- 时间: 2026-05-25 04:47
+- 链接: <https://news.google.com/rss/articles/CBMiugJBVV95cUxQaC1qSnZlQ3Zmam03b3VyS2VoSHg4ckM2TW5nSGY3ckJRN0ZwWklRMmF5SVlaeFRaSDJrWVV5YzZ3UUtJb0dOQ0p6b0d1MDBZUWpVWFNIdklVRVcxOFc5bEJNaXgxWmxQZ2hyc1RGS1NUOFBxeUhHdVdleVhZZGw0NlNrY28tM2lDdW8yMWZaVkRaQ2N1amt4endmcmhSMUNzOUNGTlFnazhwV1JuRTEwT3hYbUNaVjc5U1ctNDBBSlBQbTNlTzVMa295NlFNYUNqeEJkM2ZzZVRzcDVlMFA1M2VzSTBJVE5reHpTZ05KRndyYWthcDc4cE9qa29GSkxmdWp2aGFiUEdzOW1zZ2NwWGIya1dkSVdEdlpwcWVsRzJhTndJaC1sZEROZG1DWGhrcF9TazM4Vm1vZ9IBugJBVV95cUxQTFBvcU1Ld3kxUFo5VUx5Q2txZWV0LXZwWk8xUFpSV2xVWVlsdnA1MV9ZZ040REtIRUcxQlllUlFqYVJpczFKLWZucUVUckRhbU1icUREaEdIM0Vxb2pfamw0OTZjR3VqUTJfVVNSZXRUdmNVYVNXMkpGMEtIWmpTUjI5cTFScThPZzhNMFpUeFpoWkZhMFhxWlowNzk3bkRjQTFsUFpUYmllV2U4QmNhUjFYSDAtRWJqaVNrUmVlVE4xM1ZiejZjd2toNmJhRlZhYjZ6Z0dvQWN5VzVVN2lsNUR1YjFfaVRzNFc1RXBpeldtcnowWWFWYWpiU0dpMGJ2X3dYYU0yQUxkVENndWxQdC1adjk4TXpkTHpZTU1aS1hIRmxKVXB6UWtBanp2azZKRkpkNUpXaVFwUQ?oc=5>
 
-### Oil Prices Tumble as Deal to End Iran War Appears Close, Though Trump Says There's No Rush
+### 中国对非洲推行零关税政策，以在与特朗普的博弈中抢占先机
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-05-25 01:45
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1LWEZVeTNGSjE4ZndPQndza3pKVXpralExaENhWEpjLWNpWERpc3UtVVBnWlBJUlRzNUlyc3MtbVh5aDJHQllCV3ItU2N1WHplazNzcHAySXBudEFSMS16UzNnZTRKQl9i?oc=5>
+
+### 特朗普向中国示好引发印度担忧
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 纽约时报中文网
+- 时间: 2026-05-25 01:12
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE9lajlfMkRrWHdHYW9qRmt6SHk4LVd3Zlh3Rl9rUXpudGRobzZVc3lLbnN3Xzk4bGtlQzRsLTlabXlBQy10ZFcyTTNpNWFVWS1nU1ZidmNwZk9mYmZHRlV4bTFBNW55alljdjYtQWNKSQ?oc=5>
+
+### 特朗普指示谈判代表“不要急于与伊朗达成协议”，油价大幅下跌
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: BBC
+- 时间: 2026-05-25 03:29
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tRVRsSUFhSnpmQ25TYzJuOVN6OW42SVRwSEp4VmZnVUhMT3FMNDNxRC1rVzV0NnlwYnVJdjVweW1XeFQ1cmNBdXppQ1FsN3M1aC1nTm9kbXc4R092bXEwVkg0OC1nZ9IBa0FVX3lxTE5pdnJLNnBGQnVYblJmSE9GSWxjTl9UcS1ZOUNBQWRlVVdMQVp5Q2ZCT1BBaWJnU3I4dnhwV2RENktod2s0RmI4VkpNT3hJQTBFREozbWVqUGU1cjB3c0hvUEhzMWF3WVppYmJn?oc=5>
+
+### 又改口？特朗普：美伊尚未“完全谈妥” 美国不急于达成协议
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 财联社
+- 时间: 2026-05-25 00:16
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTFBQb3hXSUFSbG5BUmhqRjJlVTVkRGJaN1ZHc0k1SzY2dVZlZXRIZUpoUTZHZHhUMXVqNUM0TzhZUGFoUmliYlZiag?oc=5>
+
+### 国际新闻早知道丨特朗普称美伊协议“尚未完全谈妥” 伊朗总统称伊方不寻求核武器
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 21财经
+- 时间: 2026-05-25 02:08
+- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxPWnZQSm8tcjhmMXBMbE4zbGNPcHV1RFM0d3RvTW5qQ2JScmhEUV9QVEJvTEFETUEzVnlSZFlidEVRVUMzMkJiNURPamt1S2dwemxCRmI4QzRreldrVXo2ZEZ1MXZMbjlCaEJJRHZwanl1Wjd2R2E0ZlNlUnY3M3l3R0pNVXFuSlhPQm0yWWtsRQ?oc=5>
+
+### 特朗普称不急于达成伊朗协议，最终方案仍远未敲定
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-05-25 01:53
-- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxNSUdza2I1eHlKVVVSZWJXWVY5SWEwd19KZXNSZDNyV3N0ZUJlZDY1UGZXTEJtTl9UUzFZclB0RENHc3ZSdE5WQTdwX3BPVGJDTnp4X3RHMXp5MF95MEl2dnAwMTB1dDY1bnNOc2RWQVJlRWVEeEZaMnFLYlpzb3p2ZGVoSDh2QnREUmhLNnBYdFNHWWJfNnNIakZleFg?oc=5>
+- 场馆: 华尔街日报中文网
+- 时间: 2026-05-25 00:39
+- 链接: <https://news.google.com/rss/articles/CBMipAFBVV95cUxObDlzaFpSYTZMVlZyeWhqNzNUN0c0ZjliM2lzVC1od1BYV2FBQWZrRWZJMnJqWjJ4V2JaLXlsYnBJY0tLaE9PQjNCTlRMMGdEQkZQSkxPX3dFNG4tUzBOS3MxV3RoM2FhME44X3EzYnFRVERSeDNSMmlBbm1oVFJ2S2pzbVFPRTV1MHRhdU52UVpfbkI0S1NpNlVraGV5ekF0XzB5NA?oc=5>
+
+### 特朗普向中国示好引发印度担忧
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 茉莉花新闻网
+- 时间: 2026-05-25 02:03
+- 链接: <https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSDAzWWRzeTExeUthdGg4MkZNbzNVcHBRV3VqRUgyODFuSjk3czd6NDBUcXpYTjJqRUhlSk5pZi1mdTJxSkctcG1VbWFheS1Gcm5hTkV4djFVeElDdUxCend5aUFsNkVDX1QzOVB3dHpoUlRiYjVGQzRHWmJKZEhPSnhqMGRvREpoeHlvbVloNWE3bGdSSVBBNGdSaDdvS2d3Qy1EV0lDZ1BldDhsdEt1TGRZMkhpLV85VEpkR1dYY05qODVhWWN3eWhZd3pMTXV4Z0RQTnlSbzFMVW5jNVRQSA?oc=5>
+
+### T1 Trump Phone正式发货 金色外观配后置三摄
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 手机鳳凰網
+- 时间: 2026-05-22 08:10
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTFBjc2lUXzVWUURMSnQ0d25GSF8ycmtoNmlxcERsUWxUdTlTX1lKWE9FSTJScTFOSnppVU1EUzJESElVcGNtN2U4NA?oc=5>
+
+### 头条：特朗普改口说不急于与伊朗达成协议
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Australian Broadcasting Corporation
+- 时间: 2026-05-25 00:23
+- 链接: <https://news.google.com/rss/articles/CBMinwFBVV95cUxPZkdmb2w4NUtBQkItQ3k3YkJIRUNPOC1sWl9TRzRlbHIxeUl1RndCY3FnZDJfYWZVZTFMY1JCYkN0SGMxcXBjS3cyTlpSVGppRlFraEM3alNjTTBrTUIxaEowVnl6c0JNb3hJemM5VHNfQjdZYWxZSVprODZ3YUR1R1NGdkg0cVpfQ0NsZExmdXp3amZJWG9VRl82MGs3aUE?oc=5>
+
+### 这些德国政客认同特朗普的观点：美军是时候撤离了
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-05-25 05:50
+- 链接: <https://news.google.com/rss/articles/CBMiswFBVV95cUxOenQ5c1l2aExXNm9icWszWFlXd1MtVExINjI1SXVWX2RPeW9iaVhsZzVNNE5YeGdjdUZ4d2VFd2hUY244TXJWTkxRb1FVZE5fNXR2UF9hbEhrUHRTNC1iaHo5Q0J3OUo1ZHJLMzF1Rmp2UmdNUzZUWlVzYXJBOS1TbnRHTk5LZnVobUhlVkhtdGg4cEt4MnR5bzdOM2ZWcEx1b1k0M3ZzU0RSdWswc2pqWWJwYw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-25 07:10  (12 条)
+
+- **特朗普** | 关于美伊协议 特朗普与鲁比奥最新表态 <https://news.google.com/rss/articles/CBMif0FVX3lxTE1faWZKaUFHY2RjSUZCUzFPSmhSZkIwTWlPTERMejg0aVJkRFhWREhIZ3R1cWNQOWprMnpTdENtcEFENElqeWFXWElZbU5MeC1iSjhzM0lYLVZSa0toOWpIMU5vWkdHRE5RMS1rU3FmdlFqRWZnNEhtaHBEcjNxVGs?oc=5>
+- **特朗普** | 媒体：习近平在特习会批高市早苗 遭特朗普反驳 <https://news.google.com/rss/articles/CBMiugJBVV95cUxQaC1qSnZlQ3Zmam03b3VyS2VoSHg4ckM2TW5nSGY3ckJRN0ZwWklRMmF5SVlaeFRaSDJrWVV5YzZ3UUtJb0dOQ0p6b0d1MDBZUWpVWFNIdklVRVcxOFc5bEJNaXgxWmxQZ2hyc1RGS1NUOFBxeUhHdVdleVhZZGw0NlNrY28tM2lDdW8yMWZaVkRaQ2N1amt4endmcmhSMUNzOUNGTlFnazhwV1JuRTEwT3hYbUNaVjc5U1ctNDBBSlBQbTNlTzVMa295NlFNYUNqeEJkM2ZzZVRzcDVlMFA1M2VzSTBJVE5reHpTZ05KRndyYWthcDc4cE9qa29GSkxmdWp2aGFiUEdzOW1zZ2NwWGIya1dkSVdEdlpwcWVsRzJhTndJaC1sZEROZG1DWGhrcF9TazM4Vm1vZ9IBugJBVV95cUxQTFBvcU1Ld3kxUFo5VUx5Q2txZWV0LXZwWk8xUFpSV2xVWVlsdnA1MV9ZZ040REtIRUcxQlllUlFqYVJpczFKLWZucUVUckRhbU1icUREaEdIM0Vxb2pfamw0OTZjR3VqUTJfVVNSZXRUdmNVYVNXMkpGMEtIWmpTUjI5cTFScThPZzhNMFpUeFpoWkZhMFhxWlowNzk3bkRjQTFsUFpUYmllV2U4QmNhUjFYSDAtRWJqaVNrUmVlVE4xM1ZiejZjd2toNmJhRlZhYjZ6Z0dvQWN5VzVVN2lsNUR1YjFfaVRzNFc1RXBpeldtcnowWWFWYWpiU0dpMGJ2X3dYYU0yQUxkVENndWxQdC1adjk4TXpkTHpZTU1aS1hIRmxKVXB6UWtBanp2azZKRkpkNUpXaVFwUQ?oc=5>
+- **特朗普** | 中国对非洲推行零关税政策，以在与特朗普的博弈中抢占先机 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1LWEZVeTNGSjE4ZndPQndza3pKVXpralExaENhWEpjLWNpWERpc3UtVVBnWlBJUlRzNUlyc3MtbVh5aDJHQllCV3ItU2N1WHplazNzcHAySXBudEFSMS16UzNnZTRKQl9i?oc=5>
+- **特朗普** | 特朗普向中国示好引发印度担忧 <https://news.google.com/rss/articles/CBMib0FVX3lxTE9lajlfMkRrWHdHYW9qRmt6SHk4LVd3Zlh3Rl9rUXpudGRobzZVc3lLbnN3Xzk4bGtlQzRsLTlabXlBQy10ZFcyTTNpNWFVWS1nU1ZidmNwZk9mYmZHRlV4bTFBNW55alljdjYtQWNKSQ?oc=5>
+- **特朗普** | 特朗普指示谈判代表“不要急于与伊朗达成协议”，油价大幅下跌 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tRVRsSUFhSnpmQ25TYzJuOVN6OW42SVRwSEp4VmZnVUhMT3FMNDNxRC1rVzV0NnlwYnVJdjVweW1XeFQ1cmNBdXppQ1FsN3M1aC1nTm9kbXc4R092bXEwVkg0OC1nZ9IBa0FVX3lxTE5pdnJLNnBGQnVYblJmSE9GSWxjTl9UcS1ZOUNBQWRlVVdMQVp5Q2ZCT1BBaWJnU3I4dnhwV2RENktod2s0RmI4VkpNT3hJQTBFREozbWVqUGU1cjB3c0hvUEhzMWF3WVppYmJn?oc=5>
+- **特朗普** | 又改口？特朗普：美伊尚未“完全谈妥” 美国不急于达成协议 <https://news.google.com/rss/articles/CBMiSEFVX3lxTFBQb3hXSUFSbG5BUmhqRjJlVTVkRGJaN1ZHc0k1SzY2dVZlZXRIZUpoUTZHZHhUMXVqNUM0TzhZUGFoUmliYlZiag?oc=5>
+- **特朗普** | 国际新闻早知道丨特朗普称美伊协议“尚未完全谈妥” 伊朗总统称伊方不寻求核武器 <https://news.google.com/rss/articles/CBMijwFBVV95cUxPWnZQSm8tcjhmMXBMbE4zbGNPcHV1RFM0d3RvTW5qQ2JScmhEUV9QVEJvTEFETUEzVnlSZFlidEVRVUMzMkJiNURPamt1S2dwemxCRmI4QzRreldrVXo2ZEZ1MXZMbjlCaEJJRHZwanl1Wjd2R2E0ZlNlUnY3M3l3R0pNVXFuSlhPQm0yWWtsRQ?oc=5>
+- **Trump** | 特朗普称不急于达成伊朗协议，最终方案仍远未敲定 <https://news.google.com/rss/articles/CBMipAFBVV95cUxObDlzaFpSYTZMVlZyeWhqNzNUN0c0ZjliM2lzVC1od1BYV2FBQWZrRWZJMnJqWjJ4V2JaLXlsYnBJY0tLaE9PQjNCTlRMMGdEQkZQSkxPX3dFNG4tUzBOS3MxV3RoM2FhME44X3EzYnFRVERSeDNSMmlBbm1oVFJ2S2pzbVFPRTV1MHRhdU52UVpfbkI0S1NpNlVraGV5ekF0XzB5NA?oc=5>
+- **Trump** | 特朗普向中国示好引发印度担忧 <https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSDAzWWRzeTExeUthdGg4MkZNbzNVcHBRV3VqRUgyODFuSjk3czd6NDBUcXpYTjJqRUhlSk5pZi1mdTJxSkctcG1VbWFheS1Gcm5hTkV4djFVeElDdUxCend5aUFsNkVDX1QzOVB3dHpoUlRiYjVGQzRHWmJKZEhPSnhqMGRvREpoeHlvbVloNWE3bGdSSVBBNGdSaDdvS2d3Qy1EV0lDZ1BldDhsdEt1TGRZMkhpLV85VEpkR1dYY05qODVhWWN3eWhZd3pMTXV4Z0RQTnlSbzFMVW5jNVRQSA?oc=5>
+- **Trump** | T1 Trump Phone正式发货 金色外观配后置三摄 <https://news.google.com/rss/articles/CBMiSEFVX3lxTFBjc2lUXzVWUURMSnQ0d25GSF8ycmtoNmlxcERsUWxUdTlTX1lKWE9FSTJScTFOSnppVU1EUzJESElVcGNtN2U4NA?oc=5>
+- **Trump** | 头条：特朗普改口说不急于与伊朗达成协议 <https://news.google.com/rss/articles/CBMinwFBVV95cUxPZkdmb2w4NUtBQkItQ3k3YkJIRUNPOC1sWl9TRzRlbHIxeUl1RndCY3FnZDJfYWZVZTFMY1JCYkN0SGMxcXBjS3cyTlpSVGppRlFraEM3alNjTTBrTUIxaEowVnl6c0JNb3hJemM5VHNfQjdZYWxZSVprODZ3YUR1R1NGdkg0cVpfQ0NsZExmdXp3amZJWG9VRl82MGs3aUE?oc=5>
+- **Trump** | 这些德国政客认同特朗普的观点：美军是时候撤离了 <https://news.google.com/rss/articles/CBMiswFBVV95cUxOenQ5c1l2aExXNm9icWszWFlXd1MtVExINjI1SXVWX2RPeW9iaVhsZzVNNE5YeGdjdUZ4d2VFd2hUY244TXJWTkxRb1FVZE5fNXR2UF9hbEhrUHRTNC1iaHo5Q0J3OUo1ZHJLMzF1Rmp2UmdNUzZUWlVzYXJBOS1TbnRHTk5LZnVobUhlVkhtdGg4cEt4MnR5bzdOM2ZWcEx1b1k0M3ZzU0RSdWswc2pqWWJwYw?oc=5>
 
 ### 2026-05-25 02:51  (4 条)
 
