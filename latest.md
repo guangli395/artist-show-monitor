@@ -1,72 +1,96 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-25 14:43**
-- 本轮扫到 2046 条, 新增 **7** 条
+- 最近更新: **2026-05-25 17:03**
+- 本轮扫到 2055 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (9 条)
 
-### 特朗普：美伊协议“尚未完全谈妥”
+### 张杰杭州演唱会有点尴尬[偷笑]张杰的人气和周杰伦的人气
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905xgbo.html>
+
+### 昆凌带女儿现身周杰伦演唱会，小小萌娃应援超有范儿
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905xfk2.html>
+
+### 特朗普想把美伊协议同“亚伯拉罕协议”挂钩？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-05-24 20:05
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE42UlBYb2t3b0c4NTUyNkJWbVVpb3dERTBGbGJNQUdRZHh1Yl96akdnRFNCcHF4QzdGS2prNGd2RGdUZVozRTFVUkQ1R0hSSTk3VW1ZbUVFWFllRE5OZGxUQldpY3N6d1ItRFFjeXRpbFpvX3ZlLWMxR2lRaGhrTGs?oc=5>
+- 场馆: 新浪军事
+- 时间: 2026-05-25 06:10
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFBFbnlzdDZuaW5jcmtVM3M5Q0Z3dFl0R2dyRkt6OHhBeHBNZWpNNUhLUzExOVQyRmlDNUNMNmNSeHl2MXBoQ1o2QVd2SGFxdEx0Nzg5ZDAtMEtTZFMtY3lIMjJqNUxwMVo0NnlReklwQXhjV0U?oc=5>
 
-### 美伊谈判，突传大消息！特朗普发声！油价暴跌，黄金、白银大涨！
+### 特朗普称伊朗谈判正在“顺利推进” 协议似乎更近一步
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-25 13:30
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxOMVQ3anRmUUFxMUpUM2Q4ZElMQThmdWtmaXlUYW5LMmlmdi0xZGhoVEd0bWtlX3ZNMWpJTURNZUtNWGVfbVk3THVrZ2xkWElYSmYwQmlyVEhEYk5mc1czR0dLbzlYUG01NkYwRjFqbFU0dkVrMXdfWkpWTzFyTjh6X0FsLU9nMkc2ZHkyclM3bndaaVRNcHMwQg?oc=5>
+- 时间: 2026-05-25 16:39
+- 链接: <https://news.google.com/rss/articles/CBMiigJBVV95cUxPWW1HSHYzUHN3bWdlR1dtVjdROGpmOVRBUTFsaG9Dak9RaF9aSnBtTWZmd2JIX215aUozYUhMQWRFWnpDNjFqV1l0Z004R21zVFFObTVFMnk5SUE0eXVuWVZaTy00dXl3azRFSEkxMjRhMHdpVUpQc2swNzc5QlVJcDZqOGJ3dXFNSlUxQVNqRV91X19hSXhGTFV2ZjdFT1JvMVp4TUMycDlBbE5MZ2VTRmZIOE9DOU5pRDhXVHpfcGZjQ28tUEFlbF9tMUJHall5aXh6Zmh4N0JMbWtKMVBYSE80UHE5RkVIQno2QlRBY2VjTzlqOFBaOEdlT0xEeFM5VHZQRTNXNGIwUQ?oc=5>
 
-### 6月满80岁 特朗普本周体检引关注
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-05-25 04:47
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ZVUlJbzhJdHRDeldWRlVNM2hiOFY4SkFNczZYYjRsWnNoRktpelIyLXJTTS1paldCUnhQS1JYSWp5djRYaGJMNUdMSldQY0w4Z0JreXNKUHFMQnkySUJLU1Y4OXBNQQ?oc=5>
-
-### “白宫股神”推了“最火的存储”！特朗普公开大赞美光
+### 美司法部称白宫附近枪击案是针对特朗普的暗杀图谋
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-05-22 07:00
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvcTlTcEdKXzVDVDN2WF9nanRxNkNKTTVFZEFaVS03cFB1bHJxLUJKWHBRdWtkME1OckVxNkxsSFNreTlLVVltSlRfVjRINDI0bWI0?oc=5>
+- 场馆: 新京报
+- 时间: 2026-05-25 15:42
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5qZTQ4SkhxU1A5cF9wamxUdGRvMHJjcENvRlhmNjFkbWtlcFdJLXZJZ0Y5R1hPQlQ1S0FqZjdKVFNaUTNmdG5RUnVTSVlsTmhodFJ5OWxweV8yTmZuSWlZdFJDcmc?oc=5>
 
-### 特朗普手机图赏：质感俗气 被吐槽像尿液黄
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 驱动之家
-- 时间: 2026-05-25 08:13
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTFBVM1R0VVRCNlpOdjkxOVNUdTFKSzVKRExyOGxhZDlMYTJvOXNnTzJHb2ZUZDNnb0M4cnNWRDNmMTA1R3ZVZlp2SHNrSHJFb2lLbXp5TUtCR3c?oc=5>
-
-### 内塔尼亚胡被曝承认难影响特朗普决策：以色列基本被排除在美伊谈判之外
+### 特朗普称与伊朗的谈判进展顺利
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-05-25 12:54
-- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZmZaZEJYQ1pNV3dfby02MnlBU1pNRFNIbFNBMjF6a0E3SXpSSTNaWXZMNVlKSDFaRnUwZDdMZEY5S040SDVaT3JzUnE4NW1xSGRyT2puaHlZUG13YlRBbmZEUEo1bmVod1FJQmFRcURNUk5RSEVzMVp6ZS1zX2h1UGFCZXhoQjFW?oc=5>
+- 场馆: chinanews.com.cn
+- 时间: 2026-05-25 12:36
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aREx5Zl9GNUtVbnlxdUlJOFdKYmRzYUVRdEFTaGVjWFFKR1IxUDRTNW81YkE5WU1iTS1iQWo1VWtCazB5WFlwZGtxb21rZlhfV0ZKaXZrM29qYzc2bHJNOHZkclQ5djls?oc=5>
 
-### 特朗普称要么是一项伟大而有意义的协议，要么就根本不会有任何协议
+### TRUMP/USDT
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-05-25 14:21
-- 链接: <https://news.google.com/rss/articles/CBMi0wNBVV95cUxObjdGcFl3R1dob0NPUU4yRWlsYzA3MzJ6Y092OHBEc3QzeEtTTExnQzJvZnRfZEV2WHAxSUxiLUpfSnVtZHBxWmpHVW9LREdMbkVxLVBxbnhUZEpGUlZBRWNkTHVhSk45elFUSDFlbmRRbE9faUlSVTBWU21fU0JxeTlRemlwR3YxdXdxV0dRQzJvVlhWOTA4Z0xFd1ZzMEFTemZrX1p5WGJsbUtnSGJfaU5EQ1ppNkM2ZUxHWTZHc1N5SXhmNlhKZF9FT1MxN2xaRUxTNlhMQ285YnBkcWNBVUFUbzNOaFBVcWV4LWZaZTJiYmhQTnlMa01sbGJndHo4VGtmMUVDR1FPZFh1NnRSVDBLbEFEdUJNZWlOYndxYWtvZXFKSFlLNEFGTjRZUXhJLWRqckxaUThOZnZEMW95UXJnbnVLVzI4TWNyalZWMXpKbzQ2cDJYQ2p1WUpVdnRGS2pjZE55ZXN2VzFvWE1MZ1hVM1RQSTRuY3NvRklHMENhRUg0Wm1IWER0WHc4VjJ0bFVjY2U4ZW5oVUpnMXZ0WU9fWk9aWTRIdUt2NEt5Vl9oTFpTU1lZaHRtcXRETF82dlBaUnM1STViR2tiY2tYY0pTNA?oc=5>
+- 场馆: Binance
+- 时间: 2026-05-25 13:37
+- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTFBtSUhlbXZjRHhQaGF1Y3M2Rkd3cDJjNlNFLUNKMUdCWVlrX2FWZUp0cHIxZXN1S09BbWdsOWdNSzhuSlhWZ2dyMjlQOEcyekloeTFIa2s3YUJULXV4b0o0aWRIS3pWWWVrS2I2Smo4UW5zZ0I0WUdWb21xOA?oc=5>
+
+### 美国敦促中东国家加入《亚伯拉罕协议》，以此作为美伊协议的一部分
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-05-25 15:24
+- 链接: <https://news.google.com/rss/articles/CBMizAFBVV95cUxOVkhsQ29qMm5jVXlULXZPRmxWS00yZmhSdG1FeDRjMEtsekVybGVQZFRfTWNYS3FtN25ZMVFMREowQXpCNW05SEliX1YzekZJb3IzbnZQRzhDWHlxZ1dSVGVuZHpYeEMxODlhMElqU3htd3p3eHk0eW1MLUxrbjlBQ3RvTDNfR3g3SEoxR1lrTVdqUW9PWnQ3VC0yX0dKWklibkJUWnFpOXRQTEluTU91Ql9JT3MyR3lNLXR6YlZPRzFzUVdBVF9lX0tYUljSAc8BQVVfeXFMUFo5amluYlZlZFh1S3ZxN05relhsYXdiV1BpVTdIbUZFcnZDekQwQXZHR0VLRU1SRlJkOS1Qalo4bkRPaUs1bjVuQTZodFVHZkdhdkgwVDFTaGhwbElXTFN5SEpTamVjQkppQ0oweWpiYkZxNVpTZkVpLVlWa1gyRjNRQmRuMzgyWE9zanpxZGtBRk1fQlRxU0hnQm1Lelo2T2lEZzE4dTJZSEN2eU9JQk5wLW9RQ19vWTEzaVpyQnpzc3JSN2UyQVBnbFJlS3B3?oc=5>
+
+### TRUMP/USDT
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Binance
+- 时间: 2026-05-22 04:00
+- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE5ZOWwxZ2tyMV9zY0FvNFhIZ3oybWV3MmdBbllLaXVRWTR0d0NfYTJwRFJJVjlYMTc5UDRsWkF4bmI0TXNOSzdNTGUwNmNQdVBFYXhmcG1sX3cyZ1NTWm1vbk9CckprekdUdVNaLVh6TEZTT0tBQzd5amlxOTc?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-25 17:03  (9 条)
+
+- **周杰伦** | 张杰杭州演唱会有点尴尬[偷笑]张杰的人气和周杰伦的人气 <https://k.sina.com.cn/article_7857201856_1d45362c001905xgbo.html>
+- **周杰伦** | 昆凌带女儿现身周杰伦演唱会，小小萌娃应援超有范儿 <https://k.sina.com.cn/article_7857201856_1d45362c001905xfk2.html>
+- **特朗普** | 特朗普想把美伊协议同“亚伯拉罕协议”挂钩？ <https://news.google.com/rss/articles/CBMic0FVX3lxTFBFbnlzdDZuaW5jcmtVM3M5Q0Z3dFl0R2dyRkt6OHhBeHBNZWpNNUhLUzExOVQyRmlDNUNMNmNSeHl2MXBoQ1o2QVd2SGFxdEx0Nzg5ZDAtMEtTZFMtY3lIMjJqNUxwMVo0NnlReklwQXhjV0U?oc=5>
+- **特朗普** | 特朗普称伊朗谈判正在“顺利推进” 协议似乎更近一步 <https://news.google.com/rss/articles/CBMiigJBVV95cUxPWW1HSHYzUHN3bWdlR1dtVjdROGpmOVRBUTFsaG9Dak9RaF9aSnBtTWZmd2JIX215aUozYUhMQWRFWnpDNjFqV1l0Z004R21zVFFObTVFMnk5SUE0eXVuWVZaTy00dXl3azRFSEkxMjRhMHdpVUpQc2swNzc5QlVJcDZqOGJ3dXFNSlUxQVNqRV91X19hSXhGTFV2ZjdFT1JvMVp4TUMycDlBbE5MZ2VTRmZIOE9DOU5pRDhXVHpfcGZjQ28tUEFlbF9tMUJHall5aXh6Zmh4N0JMbWtKMVBYSE80UHE5RkVIQno2QlRBY2VjTzlqOFBaOEdlT0xEeFM5VHZQRTNXNGIwUQ?oc=5>
+- **特朗普** | 美司法部称白宫附近枪击案是针对特朗普的暗杀图谋 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5qZTQ4SkhxU1A5cF9wamxUdGRvMHJjcENvRlhmNjFkbWtlcFdJLXZJZ0Y5R1hPQlQ1S0FqZjdKVFNaUTNmdG5RUnVTSVlsTmhodFJ5OWxweV8yTmZuSWlZdFJDcmc?oc=5>
+- **特朗普** | 特朗普称与伊朗的谈判进展顺利 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aREx5Zl9GNUtVbnlxdUlJOFdKYmRzYUVRdEFTaGVjWFFKR1IxUDRTNW81YkE5WU1iTS1iQWo1VWtCazB5WFlwZGtxb21rZlhfV0ZKaXZrM29qYzc2bHJNOHZkclQ5djls?oc=5>
+- **Trump** | TRUMP/USDT <https://news.google.com/rss/articles/CBMie0FVX3lxTFBtSUhlbXZjRHhQaGF1Y3M2Rkd3cDJjNlNFLUNKMUdCWVlrX2FWZUp0cHIxZXN1S09BbWdsOWdNSzhuSlhWZ2dyMjlQOEcyekloeTFIa2s3YUJULXV4b0o0aWRIS3pWWWVrS2I2Smo4UW5zZ0I0WUdWb21xOA?oc=5>
+- **Trump** | 美国敦促中东国家加入《亚伯拉罕协议》，以此作为美伊协议的一部分 <https://news.google.com/rss/articles/CBMizAFBVV95cUxOVkhsQ29qMm5jVXlULXZPRmxWS00yZmhSdG1FeDRjMEtsekVybGVQZFRfTWNYS3FtN25ZMVFMREowQXpCNW05SEliX1YzekZJb3IzbnZQRzhDWHlxZ1dSVGVuZHpYeEMxODlhMElqU3htd3p3eHk0eW1MLUxrbjlBQ3RvTDNfR3g3SEoxR1lrTVdqUW9PWnQ3VC0yX0dKWklibkJUWnFpOXRQTEluTU91Ql9JT3MyR3lNLXR6YlZPRzFzUVdBVF9lX0tYUljSAc8BQVVfeXFMUFo5amluYlZlZFh1S3ZxN05relhsYXdiV1BpVTdIbUZFcnZDekQwQXZHR0VLRU1SRlJkOS1Qalo4bkRPaUs1bjVuQTZodFVHZkdhdkgwVDFTaGhwbElXTFN5SEpTamVjQkppQ0oweWpiYkZxNVpTZkVpLVlWa1gyRjNRQmRuMzgyWE9zanpxZGtBRk1fQlRxU0hnQm1Lelo2T2lEZzE4dTJZSEN2eU9JQk5wLW9RQ19vWTEzaVpyQnpzc3JSN2UyQVBnbFJlS3B3?oc=5>
+- **Trump** | TRUMP/USDT <https://news.google.com/rss/articles/CBMifEFVX3lxTE5ZOWwxZ2tyMV9zY0FvNFhIZ3oybWV3MmdBbllLaXVRWTR0d0NfYTJwRFJJVjlYMTc5UDRsWkF4bmI0TXNOSzdNTGUwNmNQdVBFYXhmcG1sX3cyZ1NTWm1vbk9CckprekdUdVNaLVh6TEZTT0tBQzd5amlxOTc?oc=5>
 
 ### 2026-05-25 14:43  (7 条)
 
