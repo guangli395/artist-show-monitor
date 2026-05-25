@@ -1,94 +1,82 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-25 11:34**
-- 本轮扫到 2039 条, 新增 **10** 条
+- 最近更新: **2026-05-25 14:43**
+- 本轮扫到 2046 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (10 条)
+## 本轮新发现 (7 条)
 
-### Apple Music国区上线周杰伦新专辑，腾讯音乐独占期结束
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1726544024_66e8f89804001g6gy.html>
-
-### 撕毁伊核协议的特朗普，正在活成奥巴马的“翻版”？｜907编辑部
+### 特朗普：美伊协议“尚未完全谈妥”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-05-25 11:02
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Qd25xakVteHdxdDBXaXlQS0s4RUVSMW52ZF8yZWFGSDh6U1A5UlFlZ09HMUlHajJiQV9oUnhvQ29GOXB1M0hDSHlvbGk0Wm1QMmtRTGJUbGU5TWw3NDhYWQ?oc=5>
+- 场馆: 新华网
+- 时间: 2026-05-24 20:05
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE42UlBYb2t3b0c4NTUyNkJWbVVpb3dERTBGbGJNQUdRZHh1Yl96akdnRFNCcHF4QzdGS2prNGd2RGdUZVozRTFVUkQ1R0hSSTk3VW1ZbUVFWFllRE5OZGxUQldpY3N6d1ItRFFjeXRpbFpvX3ZlLWMxR2lRaGhrTGs?oc=5>
 
-### 消息：内坦亚胡告知特朗普 以色列有应对威胁的行动自由
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-05-25 00:22
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE4yQ2VDa0dYa0o5eGVtclE1MUs3VklLR04xRjB3YkNMYno1a0VNNVhtTWhjd2hfZnMwX1RKdVU1U0xGSUEzcklCSzVVQ3EtOVRXZUt5dkN6YlViVlUyS1Vvakx2bE1uUQ?oc=5>
-
-### 特朗普过去24小时都忙了什么？（2026-05-25）
+### 美伊谈判，突传大消息！特朗普发声！油价暴跌，黄金、白银大涨！
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-25 10:47
-- 链接: <https://news.google.com/rss/articles/CBMihwJBVV95cUxPb0lfZDU0aXpSWVpDVk1jdjRhSjRDV1VKV3NGd0tienNSc3BOSFZIWWtDSEttZTBNWVNnWjZBcTFzTFJ6MUFSeTl0MksxSWMzVTJrcktRc2JOUXhLZjNQNlVaYjlxb3E3QjdaNHNCRWxudGRUenJQVENBd2VzZWNuYXVHcXNvTXZFbjFvWEQ3XzBoeXFmRmwwcWU4a2FQZnZEdHNobFg2a0hxQUhSc0VXcjE5M3g1d1ZEOHVPdFlzSG9rOFpfWE1hbjhGTUZobDV4cDc4T1hYUnR4RmQxNzNrSDR0b3lzQlhiQzJLLVAtUkJ0RlM4Z0hoVWJDQXdaclY3bU53MUNvaw?oc=5>
+- 时间: 2026-05-25 13:30
+- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxOMVQ3anRmUUFxMUpUM2Q4ZElMQThmdWtmaXlUYW5LMmlmdi0xZGhoVEd0bWtlX3ZNMWpJTURNZUtNWGVfbVk3THVrZ2xkWElYSmYwQmlyVEhEYk5mc1czR0dLbzlYUG01NkYwRjFqbFU0dkVrMXdfWkpWTzFyTjh6X0FsLU9nMkc2ZHkyclM3bndaaVRNcHMwQg?oc=5>
 
-### TRUMP/USDT
+### 6月满80岁 特朗普本周体检引关注
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-05-25 04:47
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ZVUlJbzhJdHRDeldWRlVNM2hiOFY4SkFNczZYYjRsWnNoRktpelIyLXJTTS1paldCUnhQS1JYSWp5djRYaGJMNUdMSldQY0w4Z0JreXNKUHFMQnkySUJLU1Y4OXBNQQ?oc=5>
+
+### “白宫股神”推了“最火的存储”！特朗普公开大赞美光
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街见闻
+- 时间: 2026-05-22 07:00
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvcTlTcEdKXzVDVDN2WF9nanRxNkNKTTVFZEFaVS03cFB1bHJxLUJKWHBRdWtkME1OckVxNkxsSFNreTlLVVltSlRfVjRINDI0bWI0?oc=5>
+
+### 特朗普手机图赏：质感俗气 被吐槽像尿液黄
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 驱动之家
+- 时间: 2026-05-25 08:13
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTFBVM1R0VVRCNlpOdjkxOVNUdTFKSzVKRExyOGxhZDlMYTJvOXNnTzJHb2ZUZDNnb0M4cnNWRDNmMTA1R3ZVZlp2SHNrSHJFb2lLbXp5TUtCR3c?oc=5>
+
+### 内塔尼亚胡被曝承认难影响特朗普决策：以色列基本被排除在美伊谈判之外
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 搜狐网
+- 时间: 2026-05-25 12:54
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZmZaZEJYQ1pNV3dfby02MnlBU1pNRFNIbFNBMjF6a0E3SXpSSTNaWXZMNVlKSDFaRnUwZDdMZEY5S040SDVaT3JzUnE4NW1xSGRyT2puaHlZUG13YlRBbmZEUEo1bmVod1FJQmFRcURNUk5RSEVzMVp6ZS1zX2h1UGFCZXhoQjFW?oc=5>
+
+### 特朗普称要么是一项伟大而有意义的协议，要么就根本不会有任何协议
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Binance
-- 时间: 2026-05-25 04:00
-- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTFBkMllFaHpYTkhpcnlYY01WQ2pvRkZuaTZwdHNKUkpucVlpRDZTQm83YVJNTzFYMXhZRkZrZDVwVTVTTXJ6bXJaZWxsRGpTeGoxajVtMUxYT3BtWDVqcms3Q0tKUjQxRTVudXJ1SUNMUXZoWDFOekFQaGNHX1Q?oc=5>
-
-### TRUMP/USDT
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Binance
-- 时间: 2026-05-22 06:36
-- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE9SaS1fREtYT3VaTUk2Xy11SUJSQTFXSG1hSnVoZ1V1QVV3N0ZOVnRqcy1BYnhzV1F3LVZzRlFFdW9IYWpYZEhpUnUyVUNPci1uUTBuTjBmWmkxeVowck0zOVYycERNQU5YdnEzR09ZdW9tRjNRRHByQnRlckc?oc=5>
-
-### TRUMP/USDT
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Binance
-- 时间: 2026-05-22 10:42
-- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTE9JUmxyUWc4S2RkeW15RTVwVVF4Qi02V05YM2tpczFQNy1oMzVYa2dZTEo0Z0h1endUUnpnbGhPVTdPUXZGVmVfbW1jT3VyYjl0ZjFxZnlHWVM2UHFsZDJLdjl3amdTMmpEeWNCOWNYcXUxY09ZMEV2QUlFTQ?oc=5>
-
-### TRUMP/USDT
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Binance
-- 时间: 2026-05-21 13:52
-- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE9MWkNWUmlYcGp0X3dVYm9XV01wWkhwZ09OS1FTSXV4YldZcUViM1lTMy1iblZFS3NrbmdYWWlFQmxSN29raFllOHFVT3hIWTNEX2ota1lTcVRDNGM2Q2k4VkRJZE1GR3R0S1lMcmQta09QS3EtYjZ2aEYtMkU?oc=5>
-
-### TRUMP/USDT
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Binance
-- 时间: 2026-05-22 08:20
-- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE1SZjNrWDhwVTUtVDhxa3l3cS1TRmtCcXI4bGxqamtnV0Z6OTZKaGJvZGZNQ09rQTI0d2lQSFByVWgyLURlSXdhRU1iNDU5bUpCNE10ajdXQ0I5VkU5ekRMZzJLaDd5U2xmU3FaeFJTYTd2MnFHMldOakowYzk?oc=5>
-
-### Dow Jones Top Markets Headlines at 3 AM ET: Oil Slides as Ships Move Toward Hormuz | Trump ...
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 富途牛牛
-- 时间: 2026-05-25 07:23
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxQVzFhNE5SalVnVlFUTmZiUHlad2N0djRDNzFubFB5OXhGMGxHakIxd2NoeXhkNElDTTF2a0dKc3YxQUt2R2RWZnhVNkdRazhLLVBkUDhza01maTNjd0NubUhCSklGRklTVjlhMEdVRjhzbXo1ZW9LNHV1YVQyaHcxenEyX3hyZlh0aFhhVQ?oc=5>
+- 场馆: RFI
+- 时间: 2026-05-25 14:21
+- 链接: <https://news.google.com/rss/articles/CBMi0wNBVV95cUxObjdGcFl3R1dob0NPUU4yRWlsYzA3MzJ6Y092OHBEc3QzeEtTTExnQzJvZnRfZEV2WHAxSUxiLUpfSnVtZHBxWmpHVW9LREdMbkVxLVBxbnhUZEpGUlZBRWNkTHVhSk45elFUSDFlbmRRbE9faUlSVTBWU21fU0JxeTlRemlwR3YxdXdxV0dRQzJvVlhWOTA4Z0xFd1ZzMEFTemZrX1p5WGJsbUtnSGJfaU5EQ1ppNkM2ZUxHWTZHc1N5SXhmNlhKZF9FT1MxN2xaRUxTNlhMQ285YnBkcWNBVUFUbzNOaFBVcWV4LWZaZTJiYmhQTnlMa01sbGJndHo4VGtmMUVDR1FPZFh1NnRSVDBLbEFEdUJNZWlOYndxYWtvZXFKSFlLNEFGTjRZUXhJLWRqckxaUThOZnZEMW95UXJnbnVLVzI4TWNyalZWMXpKbzQ2cDJYQ2p1WUpVdnRGS2pjZE55ZXN2VzFvWE1MZ1hVM1RQSTRuY3NvRklHMENhRUg0Wm1IWER0WHc4VjJ0bFVjY2U4ZW5oVUpnMXZ0WU9fWk9aWTRIdUt2NEt5Vl9oTFpTU1lZaHRtcXRETF82dlBaUnM1STViR2tiY2tYY0pTNA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-25 14:43  (7 条)
+
+- **特朗普** | 特朗普：美伊协议“尚未完全谈妥” <https://news.google.com/rss/articles/CBMif0FVX3lxTE42UlBYb2t3b0c4NTUyNkJWbVVpb3dERTBGbGJNQUdRZHh1Yl96akdnRFNCcHF4QzdGS2prNGd2RGdUZVozRTFVUkQ1R0hSSTk3VW1ZbUVFWFllRE5OZGxUQldpY3N6d1ItRFFjeXRpbFpvX3ZlLWMxR2lRaGhrTGs?oc=5>
+- **特朗普** | 美伊谈判，突传大消息！特朗普发声！油价暴跌，黄金、白银大涨！ <https://news.google.com/rss/articles/CBMimAFBVV95cUxOMVQ3anRmUUFxMUpUM2Q4ZElMQThmdWtmaXlUYW5LMmlmdi0xZGhoVEd0bWtlX3ZNMWpJTURNZUtNWGVfbVk3THVrZ2xkWElYSmYwQmlyVEhEYk5mc1czR0dLbzlYUG01NkYwRjFqbFU0dkVrMXdfWkpWTzFyTjh6X0FsLU9nMkc2ZHkyclM3bndaaVRNcHMwQg?oc=5>
+- **特朗普** | 6月满80岁 特朗普本周体检引关注 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ZVUlJbzhJdHRDeldWRlVNM2hiOFY4SkFNczZYYjRsWnNoRktpelIyLXJTTS1paldCUnhQS1JYSWp5djRYaGJMNUdMSldQY0w4Z0JreXNKUHFMQnkySUJLU1Y4OXBNQQ?oc=5>
+- **特朗普** | “白宫股神”推了“最火的存储”！特朗普公开大赞美光 <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvcTlTcEdKXzVDVDN2WF9nanRxNkNKTTVFZEFaVS03cFB1bHJxLUJKWHBRdWtkME1OckVxNkxsSFNreTlLVVltSlRfVjRINDI0bWI0?oc=5>
+- **特朗普** | 特朗普手机图赏：质感俗气 被吐槽像尿液黄 <https://news.google.com/rss/articles/CBMiWEFVX3lxTFBVM1R0VVRCNlpOdjkxOVNUdTFKSzVKRExyOGxhZDlMYTJvOXNnTzJHb2ZUZDNnb0M4cnNWRDNmMTA1R3ZVZlp2SHNrSHJFb2lLbXp5TUtCR3c?oc=5>
+- **特朗普** | 内塔尼亚胡被曝承认难影响特朗普决策：以色列基本被排除在美伊谈判之外 <https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZmZaZEJYQ1pNV3dfby02MnlBU1pNRFNIbFNBMjF6a0E3SXpSSTNaWXZMNVlKSDFaRnUwZDdMZEY5S040SDVaT3JzUnE4NW1xSGRyT2puaHlZUG13YlRBbmZEUEo1bmVod1FJQmFRcURNUk5RSEVzMVp6ZS1zX2h1UGFCZXhoQjFW?oc=5>
+- **Trump** | 特朗普称要么是一项伟大而有意义的协议，要么就根本不会有任何协议 <https://news.google.com/rss/articles/CBMi0wNBVV95cUxObjdGcFl3R1dob0NPUU4yRWlsYzA3MzJ6Y092OHBEc3QzeEtTTExnQzJvZnRfZEV2WHAxSUxiLUpfSnVtZHBxWmpHVW9LREdMbkVxLVBxbnhUZEpGUlZBRWNkTHVhSk45elFUSDFlbmRRbE9faUlSVTBWU21fU0JxeTlRemlwR3YxdXdxV0dRQzJvVlhWOTA4Z0xFd1ZzMEFTemZrX1p5WGJsbUtnSGJfaU5EQ1ppNkM2ZUxHWTZHc1N5SXhmNlhKZF9FT1MxN2xaRUxTNlhMQ285YnBkcWNBVUFUbzNOaFBVcWV4LWZaZTJiYmhQTnlMa01sbGJndHo4VGtmMUVDR1FPZFh1NnRSVDBLbEFEdUJNZWlOYndxYWtvZXFKSFlLNEFGTjRZUXhJLWRqckxaUThOZnZEMW95UXJnbnVLVzI4TWNyalZWMXpKbzQ2cDJYQ2p1WUpVdnRGS2pjZE55ZXN2VzFvWE1MZ1hVM1RQSTRuY3NvRklHMENhRUg0Wm1IWER0WHc4VjJ0bFVjY2U4ZW5oVUpnMXZ0WU9fWk9aWTRIdUt2NEt5Vl9oTFpTU1lZaHRtcXRETF82dlBaUnM1STViR2tiY2tYY0pTNA?oc=5>
 
 ### 2026-05-25 11:34  (10 条)
 
