@@ -1,32 +1,73 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-25 21:43**
-- 本轮扫到 2066 条, 新增 **2** 条
+- 最近更新: **2026-05-25 22:55**
+- 本轮扫到 2072 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (6 条)
 
-### 德语媒体：“特朗普绕不开中国 普京离不开中国”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: dw.com
-- 时间: 2026-05-25 14:04
-- 链接: <https://news.google.com/rss/articles/CBMirgJBVV95cUxPb1VOaGFEdW5QLU1TUjBQRXBvZU12TjR4WDQ0ZFFmdFJxSm85RkFOY3k4STd3NmxtTW9La3RZSE1wVWE1aFJlTE1COXJMUWpuWkJkWXllZGcwYVdZWkMyQUJ5V3dTYm52V3lYYWQxRjJCT1ZZejkxNFBkcU4xT3ZJSWdISkRObVFIMm5RRGR6WDdMZkF4SkZIWjNzbTdkZ2tZVU5GVnJheEZPSlI4Nno3MFA1bFVCdVlFQ2c1V2J0ckw5bU1iWHppRC1nY3RIcWw2b3BRVHctZmJBZHhLZER2NjFwMkVxX1hlc0M5RjFFVTZOZHJDSDA0MXoxdUdmcDBDVlZ1SmUxbURPeWUzYm5HX3FQczREc2EwcGhTWGZPRG1IV1VtX2ZlNmEwbjNBQdIBrgJBVV95cUxNYV9rSnBaUmp1VjR3QUd0Uzd5WnptUmItRWt6YUFxZnVFUDY1ZXExLUVoa3JVdWlHa0k3eTRBOThWakFfTWdpTlE4Sm1WQU1NZlhkdVZjaFhsanRPY0JITWY0TDc0OE5QaEt5bURuYUxsX29fSFZqQm9OeUxRdjhMOHp0NF8xQUhEWWdwUGVPUENIU05kejMtWTJwVndYNUJWNFFwaEM1d3ZncEtwcjVZV3F6ZjBXeFMtZWw2bmFybGwzRkxaWTdORTJqSU9XT0tQRkFUVzNpUlhuYlRKaUZ6NDI0Y3B4aG5kODZlUFZCZUFtYjJtS28xeEwzc0Z6UXE0anRUMDJwUDlmb3hyQUlqTDV3YlV5YVh6VEg4Vm5lLWh5azVMTVRybXBSQ1ZJQQ?oc=5>
-
-### 特朗普要求先签“亚伯拉罕协议” 沙特方面回应
+### 特朗普：美伊协议“尚未完全谈妥”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-05-25 21:43
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9YU3oyZFg5RnJSaFZmR29rZVVTcHFVcGxZQnpuV1lWSGViNVBWQ2pvOVhuSGM0a1dSeVFmbnVMSG40TVF5QVR3QUNDWl9IUTVaV2ZWNDJQYTBNc0dQVHJTbXNLMTZaakJjMHJERzFQblU?oc=5>
+- 场馆: 新华报业网
+- 时间: 2026-05-24 23:20
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE5zaDgyYXdlUFMtbVgyZjJBUG9IVFBHWV9BZ0VrTGg2b1Z5YmFhMlB1VWVYU3l3TndiMFU5VG5IaFZ0TFZzeWVCQXM3ZUJfU0JWQ1Z4S3lKNkRJN0tHb1B6QjloUkdIYkhnaWdz?oc=5>
+
+### TRUMP/USDT
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Binance
+- 时间: 2026-05-25 12:34
+- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE1CZG42ZzRjYjBDN3ZOcDYtMHQ2cDJsYzIwR2J4U0VXMDJ0Z25UUnZFcGF2M2d2Z2xuVTQyY3kzODFpTUJDSW52ZUpZQkRkODVXLVNfNXNvMU12UC1qREF1eE5NM2tzbnFaZzFOYVF1V21wUk5sNDZXLXJwZmc?oc=5>
+
+### Oil Prices Tumble as Deal to End Iran War Appears Close, Though Trump Says There's No Rush
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-05-25 22:35
+- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxQN21OS2dVYXFSdzM1d0dHMklmS0lxU29YWHFYV3Y4bUJmeUUwY2dGb3JibzlZTEFiTG9yTTctWWRCYlJOd3JKR3dHODJMTjhYM3pQaUc3WUFVTWNPQ1dFZlowandSSWZ6MWJsb3BPdEYxdnpJTDRRMll3LUdLajhXd2tWeVhqQmVTZHdURXptQUVpVVFTQ3BGOHdjYkQ?oc=5>
+
+### TRUMP/USDT
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Binance
+- 时间: 2026-05-22 17:53
+- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE13UUNkbnljUnhCR0dCaWU0TlRZRnJWN0R1TlZkTEd1RW9MTkN3X3NmSFhHZ2tHRXpwc0FlcGFkT1FYNXhna3dCQ2xaOFNQYUhNOTJXNE1tLVR0NVhpdVBBTDB2UG1rRHRqUExQd2dyQXpEVlFyOEpNeUxRdVI?oc=5>
+
+### TRUMP/USDT
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Binance
+- 时间: 2026-05-22 20:47
+- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTFBQMlZycVdPR1hybEo4QVN1R1U2cXlvODdCQ3pORmhJZ2JVQ1JsSnRVaEVCUnhFVmRZOHVqN205dGhUOWdCR0FkNGVHZ0h0UDk0TjRXalZ0N1B2V3BJWUZpQ3A4SkFZaVR4bTBHNzJqOXNMMm12eDdDV3FORTE?oc=5>
+
+### TRUMP/USDT
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Binance
+- 时间: 2026-05-22 12:53
+- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE9KYjBfN2JWYzBWRXY2Vk1IbXZTV3FvUVBZT3IwaXBKNTZmbTZEYmc4cEtpaHJjYzRaVEFRRXg2MDBJdFZNQkF3RXBFUDd1ZkxaenJKQTg0U3pCbzlROU5GeG8wOU5xYVpWRXRaYkxpbnlGTHBuY1hER3FNZUo?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-25 22:55  (6 条)
+
+- **特朗普** | 特朗普：美伊协议“尚未完全谈妥” <https://news.google.com/rss/articles/CBMia0FVX3lxTE5zaDgyYXdlUFMtbVgyZjJBUG9IVFBHWV9BZ0VrTGg2b1Z5YmFhMlB1VWVYU3l3TndiMFU5VG5IaFZ0TFZzeWVCQXM3ZUJfU0JWQ1Z4S3lKNkRJN0tHb1B6QjloUkdIYkhnaWdz?oc=5>
+- **Trump** | TRUMP/USDT <https://news.google.com/rss/articles/CBMifEFVX3lxTE1CZG42ZzRjYjBDN3ZOcDYtMHQ2cDJsYzIwR2J4U0VXMDJ0Z25UUnZFcGF2M2d2Z2xuVTQyY3kzODFpTUJDSW52ZUpZQkRkODVXLVNfNXNvMU12UC1qREF1eE5NM2tzbnFaZzFOYVF1V21wUk5sNDZXLXJwZmc?oc=5>
+- **Trump** | Oil Prices Tumble as Deal to End Iran War Appears Close, Though Trump Says There's No Rush <https://news.google.com/rss/articles/CBMinAFBVV95cUxQN21OS2dVYXFSdzM1d0dHMklmS0lxU29YWHFYV3Y4bUJmeUUwY2dGb3JibzlZTEFiTG9yTTctWWRCYlJOd3JKR3dHODJMTjhYM3pQaUc3WUFVTWNPQ1dFZlowandSSWZ6MWJsb3BPdEYxdnpJTDRRMll3LUdLajhXd2tWeVhqQmVTZHdURXptQUVpVVFTQ3BGOHdjYkQ?oc=5>
+- **Trump** | TRUMP/USDT <https://news.google.com/rss/articles/CBMifEFVX3lxTE13UUNkbnljUnhCR0dCaWU0TlRZRnJWN0R1TlZkTEd1RW9MTkN3X3NmSFhHZ2tHRXpwc0FlcGFkT1FYNXhna3dCQ2xaOFNQYUhNOTJXNE1tLVR0NVhpdVBBTDB2UG1rRHRqUExQd2dyQXpEVlFyOEpNeUxRdVI?oc=5>
+- **Trump** | TRUMP/USDT <https://news.google.com/rss/articles/CBMifEFVX3lxTFBQMlZycVdPR1hybEo4QVN1R1U2cXlvODdCQ3pORmhJZ2JVQ1JsSnRVaEVCUnhFVmRZOHVqN205dGhUOWdCR0FkNGVHZ0h0UDk0TjRXalZ0N1B2V3BJWUZpQ3A4SkFZaVR4bTBHNzJqOXNMMm12eDdDV3FORTE?oc=5>
+- **Trump** | TRUMP/USDT <https://news.google.com/rss/articles/CBMifEFVX3lxTE9KYjBfN2JWYzBWRXY2Vk1IbXZTV3FvUVBZT3IwaXBKNTZmbTZEYmc4cEtpaHJjYzRaVEFRRXg2MDBJdFZNQkF3RXBFUDd1ZkxaenJKQTg0U3pCbzlROU5GeG8wOU5xYVpWRXRaYkxpbnlGTHBuY1hER3FNZUo?oc=5>
 
 ### 2026-05-25 21:43  (2 条)
 
