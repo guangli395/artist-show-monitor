@@ -1,56 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-25 18:58**
-- 本轮扫到 2060 条, 新增 **5** 条
+- 最近更新: **2026-05-25 20:23**
+- 本轮扫到 2064 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (5 条)
-
-### 特朗普称伊朗谈判正在“顺利推进” 协议似乎更近一步
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-25 17:21
-- 链接: <https://news.google.com/rss/articles/CBMimgJBVV95cUxQcjVkWHNlSFEwSzgweDdoWUNSTDJZNDhZM21QOGVYZXVzaVRNQXNaVHA3RlltVmw0c3B6a00xUG9uN0pWU0VuZFpCNlhSaFI0X2M3Y29vZHNnRmNxOVFLLXBuZEo1MlJDeWprZnRtY19BVS1VNWJqTGdoY2xPT1NCdlV3NXRNRnJ3MnVYamh1aWprcFhvUzhRSmF1U01DMDgyR1BuMTJTQ1VuYm5NaWtUcUFobTd4SEM4R0YtQ0hoTTJ0eEJJRXNGUjJSbmpmZmZXeUl0TkxwS08xY3pOamdDSnZFMFFIQ3NaRzNTWk8tQXdiRWo2V1dUc1VjLTVzZGdQakVIaXdPTWFaT0gtb1FQWm5fRHAxRkY0aVE?oc=5>
+## 本轮新发现 (4 条)
 
 ### 高油价冲击持续，美伊框架协议“达成95%”，特朗普：进展顺利
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-25 17:10
-- 链接: <https://news.google.com/rss/articles/CBMiggJBVV95cUxOVm1rU2tRbFVvbnFndWFEbkNkOHJTQmYwcUtvNVlZS1dvbXhvcnBPMkp5RW5aR0NoT1BOcVZnc0J3NEhWb0Rsb1ZCUzNaYmJYS3BNbmdjRFdsXzBDSTJIVmRVQUpwRWlFOUtqelNUOEF5S3pzdVhLYWRIWTFUU3pnTzNpc0s5d0RaNUZ0bjhnUG5FSEVYUUlBNTJjUEw1THhPRWxqNEUzak0tMk1sOXhMbDdkTkNOR0xoeHNCenpLenVweVZnQVhIMGFFbjg2T1Y0NWxTa0NVRXhQWWVGTmRmZkFyY25ac1lFcTJaRGszQkc3bGNvMlhHa1BDYW1ZYzhrLUE?oc=5>
+- 时间: 2026-05-25 20:19
+- 链接: <https://news.google.com/rss/articles/CBMi-AFBVV95cUxNN01GUDJkdERsVzBVZUdoeThoYzZVVEZ0UWxsTXQ5NlpDS0ZOb1I2SEtveGljeXE3SUNNdmdQVWtCSGcyak1hMzh2ZXg0RUp4bjFHcE5JcXpWNUluS3FJaTZXRkd3eEpybXdBcklXWUhpMkJkWVlmYXJPTXVVV1pYQUlUNDFXNm5uNE5DQjY4NHFDUkRQYU1xenNXU0FvVzEwMDExbXJTUEpTcTRxRFl0cUFPWndmYk8tdVJCbFNzcTdILTdrU2l4bGg4MDBKSVZWaGV4eXJGbzk5WEFMcExTWUpvNlhwek9BWTZEU3pNUGxac0VUTmJqdA?oc=5>
 
-### 国际纵横 - 特朗普、普京接连访华，北京正在重塑国际外交格局？
+### 特朗普拿对台军售当“筹码” 岛内名嘴赖岳谦警告
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-05-25 10:00
-- 链接: <https://news.google.com/rss/articles/CBMisgNBVV95cUxQQkxOZjh4YzBDcy1FaUJPR3MwXzZEbU04anRLZmZpTkI2TDh5TFFpRGxSaVJVb19ZLTVCSzFaU1RPdTZZTmVWYVNTSGkycUh4VzRtRDRKVTRKUXNXN1JUQmlra1FvOV9xeXlTaEJlamZIMWZsYnVMb0hPX2EzdmRCV0pKd0U1bjNMRDJtNEhJeDZxZDFlOXlCeDk5X1RUOW53cHc1YVFmbHg2Qm03TVBvN2xUUXJBNGg5TFVsU1FTZ0pTZ24xQUYtVUJyQTN1WFh3Z04wSkE4TE5ZTWUtRHdScFEzYzlMaUZla1Itb1hPbmhQM1V5X2xYYWVtSVlaSXNNd3JMRWQ2WVllSjBaZk9xUHp6bVZ4N2J2TkcwZHZMdWhOSWxKOXRzNnpXbGZ4MUFEa0JxNktmTndBcGY3SElWTlViSEhqT0FabFFoR0gzZzFuZG01TkdNRWN5NHh6RmduRGg5ZjhyeDFzTkYwdURtbWIwY29wcTNHZjBWMTBJdWh2ZTVjdU5ac3NQaHROdHZrNnB5U21IMkd5bEl1clNvVVd6QndwS1BKYlpOT1ZhVlNRQQ?oc=5>
+- 场馆: video.sina.com.cn
+- 时间: 2026-05-25 14:42
+- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE02XzFELWxqOGJaT3l0RU04NTR6LUFhWkg3YnJvbktYak9zXzFWQUlRMmFCc2h4TElPUTdlT0d4NnBCNFhEcC1Cb3B3Q0k1d3VGQk1qS21FSVpJQ2hZaWd4M2dma1loaFNtcHRTbnE2SzdROFBCRFNQR05LMHVYdw?oc=5>
 
-### TRUMP/USDT
+### 特朗普自称是莫迪“铁粉”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 21财经
+- 时间: 2026-05-25 11:08
+- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxNN1Q2dXBlSU5iVUduaElxNzBCVlNiVXNDQjFhYV9uRlNHcTJjbkpjaTRSaU4wdXJkaXVyZE1WT0tTU2pRV2NJc0w5M1VaSlBUUlgxbVdzQjVyUjdLcl9mM1REZFV6Yzk5MFdKMFF4X1dEenUxbm80UkdGcVd6a1BsVndUZWZhSmdqTjN5RVI1UQ?oc=5>
+
+### Oil Prices Tumble as Deal to End Iran War Appears Close, Though Trump Says There's No Rush
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Binance
-- 时间: 2026-05-25 10:58
-- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTFBzNnFJR01CNnRSVm1TbnNqcU9VLWJNUlNhUTVFOEpXaThoWi14Q0JJamR2azR5YUNXUW9sSWQ1Qy1PUGw2N3hQdVVpNjkyaUJIejViZDVIWS1jNUFBYVFOR3hqdzdLV1Z0RTlxd1BfLUNHellzX19TMmxaaw?oc=5>
-
-### TRUMP/USDT
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Binance
-- 时间: 2026-05-22 08:02
-- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTE1qOFFGNy1WeGdCb19xRVExOUhfc3VhZ2U4UFBQWUgzWTJaRy1EN053WHBrdGZsbGhncW5TT0IydWhHeTJ6Z0ZVY1pPX0ppSEVHaU5FdXNFLUpxN0JDMGJONnJXbE5peURVVzRmTFNLMzhWUXFtMmxWcTBwaw?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-05-25 19:40
+- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxOdUx5WW9DU1NwYktzT3M0aVJndUlCOHo1QS05T1RxZlZqdEYwQ243UFI2N0l0ckxCQVlFWlRvSFZIdDVsYk9CRi1JU29KSUNySkZpcWVZVVFHZ0k2U2l1eWJuaE4taW5RY1hYeTJvZUwxVTJERGhrLVJ4VHdFR3NFU3UyWjZITFVGLXhLVmxFX2dRT1RMN3l1RGVDNXU?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-25 20:23  (4 条)
+
+- **特朗普** | 高油价冲击持续，美伊框架协议“达成95%”，特朗普：进展顺利 <https://news.google.com/rss/articles/CBMi-AFBVV95cUxNN01GUDJkdERsVzBVZUdoeThoYzZVVEZ0UWxsTXQ5NlpDS0ZOb1I2SEtveGljeXE3SUNNdmdQVWtCSGcyak1hMzh2ZXg0RUp4bjFHcE5JcXpWNUluS3FJaTZXRkd3eEpybXdBcklXWUhpMkJkWVlmYXJPTXVVV1pYQUlUNDFXNm5uNE5DQjY4NHFDUkRQYU1xenNXU0FvVzEwMDExbXJTUEpTcTRxRFl0cUFPWndmYk8tdVJCbFNzcTdILTdrU2l4bGg4MDBKSVZWaGV4eXJGbzk5WEFMcExTWUpvNlhwek9BWTZEU3pNUGxac0VUTmJqdA?oc=5>
+- **特朗普** | 特朗普拿对台军售当“筹码” 岛内名嘴赖岳谦警告 <https://news.google.com/rss/articles/CBMifkFVX3lxTE02XzFELWxqOGJaT3l0RU04NTR6LUFhWkg3YnJvbktYak9zXzFWQUlRMmFCc2h4TElPUTdlT0d4NnBCNFhEcC1Cb3B3Q0k1d3VGQk1qS21FSVpJQ2hZaWd4M2dma1loaFNtcHRTbnE2SzdROFBCRFNQR05LMHVYdw?oc=5>
+- **特朗普** | 特朗普自称是莫迪“铁粉” <https://news.google.com/rss/articles/CBMijwFBVV95cUxNN1Q2dXBlSU5iVUduaElxNzBCVlNiVXNDQjFhYV9uRlNHcTJjbkpjaTRSaU4wdXJkaXVyZE1WT0tTU2pRV2NJc0w5M1VaSlBUUlgxbVdzQjVyUjdLcl9mM1REZFV6Yzk5MFdKMFF4X1dEenUxbm80UkdGcVd6a1BsVndUZWZhSmdqTjN5RVI1UQ?oc=5>
+- **Trump** | Oil Prices Tumble as Deal to End Iran War Appears Close, Though Trump Says There's No Rush <https://news.google.com/rss/articles/CBMinAFBVV95cUxOdUx5WW9DU1NwYktzT3M0aVJndUlCOHo1QS05T1RxZlZqdEYwQ243UFI2N0l0ckxCQVlFWlRvSFZIdDVsYk9CRi1JU29KSUNySkZpcWVZVVFHZ0k2U2l1eWJuaE4taW5RY1hYeTJvZUwxVTJERGhrLVJ4VHdFR3NFU3UyWjZITFVGLXhLVmxFX2dRT1RMN3l1RGVDNXU?oc=5>
 
 ### 2026-05-25 18:58  (5 条)
 
