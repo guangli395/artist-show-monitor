@@ -1,64 +1,85 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-25 22:55**
-- 本轮扫到 2072 条, 新增 **6** 条
+- 最近更新: **2026-05-26 00:01**
+- 本轮扫到 2080 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (8 条)
 
-### 特朗普：美伊协议“尚未完全谈妥”
+### 周杰伦新歌发布被赞不忘初心志邦家居22载,愿以美好点亮万家灯火
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857141524_1d452771401902trki.html>
+
+### 别克官宣周杰伦成为MVP家族代言人,至境世家万家版41.99万元起
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857141524_1d452771401902tp68.html>
+
+### 新浪演唱会热点小时报丨2026年05月26日07时_今日实时演唱会热点速递
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905xs4s.html>
+
+### 明查｜特朗普家族被“永久豁免”国税局审计？从此高枕无忧？一些争议待厘清
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华报业网
-- 时间: 2026-05-24 23:20
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE5zaDgyYXdlUFMtbVgyZjJBUG9IVFBHWV9BZ0VrTGg2b1Z5YmFhMlB1VWVYU3l3TndiMFU5VG5IaFZ0TFZzeWVCQXM3ZUJfU0JWQ1Z4S3lKNkRJN0tHb1B6QjloUkdIYkhnaWdz?oc=5>
+- 场馆: thepaper.cn
+- 时间: 2026-05-25 23:18
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0c045U1QyblhROW9KbXdvZEJaMWsyay1rMVdwYmdQdklwRThpeEJUWjhEYllCSW9CWFJrbmpQbTBFZWZJZTVtMkVCb2RHczVCVm44U1kxZ2JpZ0t2Sjk2bA?oc=5>
 
 ### TRUMP/USDT
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: Binance
-- 时间: 2026-05-25 12:34
-- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE1CZG42ZzRjYjBDN3ZOcDYtMHQ2cDJsYzIwR2J4U0VXMDJ0Z25UUnZFcGF2M2d2Z2xuVTQyY3kzODFpTUJDSW52ZUpZQkRkODVXLVNfNXNvMU12UC1qREF1eE5NM2tzbnFaZzFOYVF1V21wUk5sNDZXLXJwZmc?oc=5>
+- 时间: 2026-05-25 21:17
+- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTE9RdjRHSmF5RDJyUkQxZHgyMUlZcTlrcTROZ1BNVHVPX0ZRWjczUGNMSGgtZnVBdnJjZWQtQmFOeUc5QnotbWd6Wm9fcVV2U3VIbU5NLTJrTzdtU3V6N1VPWlV5WW91bnB4bmtvSjcxUEhtRXZpUlJhR1RUUQ?oc=5>
 
-### Oil Prices Tumble as Deal to End Iran War Appears Close, Though Trump Says There's No Rush
+### 特朗普总统敦促中东国家“同步”加入《亚伯拉罕协议》，作为广泛区域和平协议的一部分
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-05-25 22:35
-- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxQN21OS2dVYXFSdzM1d0dHMklmS0lxU29YWHFYV3Y4bUJmeUUwY2dGb3JibzlZTEFiTG9yTTctWWRCYlJOd3JKR3dHODJMTjhYM3pQaUc3WUFVTWNPQ1dFZlowandSSWZ6MWJsb3BPdEYxdnpJTDRRMll3LUdLajhXd2tWeVhqQmVTZHdURXptQUVpVVFTQ3BGOHdjYkQ?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-05-25 22:58
+- 链接: <https://news.google.com/rss/articles/CBMiggJBVV95cUxNek10X1NjOGFmSnlRRnMwd3JiMmoxRjNCNFl1eEZoOXhwem4xcGR1QmNWN1NHVzl2M1hvckhBcDhkZFZXT0ZXNE1TcEliX2dZZDNFWmNfd2l3SE1SUVdWMHc2NkJ4Yno5ZUFQSVRhbTFIRFFHQU1sU3ItWUVjMjBxMXFCVTBGellyUndsQWM1NFJBOGd1TzZOeUJGeHZpZGU4T2QyeHRyNWo3VGQ2SUN3eFhoRVZhbV84dk1fSFFOXzlKOENoNVlVMGdPTlpwblQwNEQ3anl5ekRybEdva2FndWZuMHJfNHRZMnJnaUdCcGRqb3lXR2ZUbjVUeHloVWJ6aHfSAYQCQVVfeXFMTTJJSmxueGpTTW56MHJib1RWS181S0tiNWJOdm42RWx4M0tfbnB4S1o5WUotUjJVSDIyNTY1Mko5T0lPV3RQTmNwM2x2enQyUnpWT2czRG1nRVE5R09uUUJfenlaZnZoOS1YcU45Y00ySnhxbWdRT1R2OV9TWU1uYXVGcE01QjZjalNzblpaeUtSdHFYc19mekxlQUV3blcySkZHVWN1ZkRTWjNFQzJXa2lkZGh5TE5kMHdiNW9pc05LeVhlRWg1ZXFpeHctUWdzbnctRzIzNWxQWDhiVFVKTFJxVWd1T3ZLeURFOHE3M2V3WHRHUnRHWFdfNFhXTVgybEN4WVE?oc=5>
 
 ### TRUMP/USDT
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: Binance
-- 时间: 2026-05-22 17:53
-- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE13UUNkbnljUnhCR0dCaWU0TlRZRnJWN0R1TlZkTEd1RW9MTkN3X3NmSFhHZ2tHRXpwc0FlcGFkT1FYNXhna3dCQ2xaOFNQYUhNOTJXNE1tLVR0NVhpdVBBTDB2UG1rRHRqUExQd2dyQXpEVlFyOEpNeUxRdVI?oc=5>
+- 时间: 2026-05-21 19:15
+- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE01QWlBalhQZmVyMzJfRHQ5UlBobXpDcGtLcWlrenJ6bnNvdUxPQ3R0dDJLYmdMZEgwaVNoeUdlRW9EQW92TFUtMUVSTGdyVnVkYng5QjdFeFN2N2NVUm5LYzliRUcxNUtKT0locDVTQV84bWtEelVqR3pRbU0?oc=5>
 
 ### TRUMP/USDT
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: Binance
-- 时间: 2026-05-22 20:47
-- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTFBQMlZycVdPR1hybEo4QVN1R1U2cXlvODdCQ3pORmhJZ2JVQ1JsSnRVaEVCUnhFVmRZOHVqN205dGhUOWdCR0FkNGVHZ0h0UDk0TjRXalZ0N1B2V3BJWUZpQ3A4SkFZaVR4bTBHNzJqOXNMMm12eDdDV3FORTE?oc=5>
-
-### TRUMP/USDT
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Binance
-- 时间: 2026-05-22 12:53
-- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE9KYjBfN2JWYzBWRXY2Vk1IbXZTV3FvUVBZT3IwaXBKNTZmbTZEYmc4cEtpaHJjYzRaVEFRRXg2MDBJdFZNQkF3RXBFUDd1ZkxaenJKQTg0U3pCbzlROU5GeG8wOU5xYVpWRXRaYkxpbnlGTHBuY1hER3FNZUo?oc=5>
+- 时间: 2026-05-21 17:40
+- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE5uXzlRMnRSVjEwakNIdWlxczBqQTJkdWhROFVrSnRWSmtSemJOUmRkNmd6anlkdVpObWc3RVZRVEJyNV9mN2dOMG5OcldVUE1UWnFmTE1yUS1pNzM2XzQ4bnFwTmdhRXFqNkpGMTZaOVdneWpOb25wbU5qai0?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-26 00:01  (8 条)
+
+- **周杰伦** | 周杰伦新歌发布被赞不忘初心志邦家居22载,愿以美好点亮万家灯火 <https://k.sina.com.cn/article_7857141524_1d452771401902trki.html>
+- **周杰伦** | 别克官宣周杰伦成为MVP家族代言人,至境世家万家版41.99万元起 <https://k.sina.com.cn/article_7857141524_1d452771401902tp68.html>
+- **周杰伦** | 新浪演唱会热点小时报丨2026年05月26日07时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001905xs4s.html>
+- **特朗普** | 明查｜特朗普家族被“永久豁免”国税局审计？从此高枕无忧？一些争议待厘清 <https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0c045U1QyblhROW9KbXdvZEJaMWsyay1rMVdwYmdQdklwRThpeEJUWjhEYllCSW9CWFJrbmpQbTBFZWZJZTVtMkVCb2RHczVCVm44U1kxZ2JpZ0t2Sjk2bA?oc=5>
+- **Trump** | TRUMP/USDT <https://news.google.com/rss/articles/CBMie0FVX3lxTE9RdjRHSmF5RDJyUkQxZHgyMUlZcTlrcTROZ1BNVHVPX0ZRWjczUGNMSGgtZnVBdnJjZWQtQmFOeUc5QnotbWd6Wm9fcVV2U3VIbU5NLTJrTzdtU3V6N1VPWlV5WW91bnB4bmtvSjcxUEhtRXZpUlJhR1RUUQ?oc=5>
+- **Trump** | 特朗普总统敦促中东国家“同步”加入《亚伯拉罕协议》，作为广泛区域和平协议的一部分 <https://news.google.com/rss/articles/CBMiggJBVV95cUxNek10X1NjOGFmSnlRRnMwd3JiMmoxRjNCNFl1eEZoOXhwem4xcGR1QmNWN1NHVzl2M1hvckhBcDhkZFZXT0ZXNE1TcEliX2dZZDNFWmNfd2l3SE1SUVdWMHc2NkJ4Yno5ZUFQSVRhbTFIRFFHQU1sU3ItWUVjMjBxMXFCVTBGellyUndsQWM1NFJBOGd1TzZOeUJGeHZpZGU4T2QyeHRyNWo3VGQ2SUN3eFhoRVZhbV84dk1fSFFOXzlKOENoNVlVMGdPTlpwblQwNEQ3anl5ekRybEdva2FndWZuMHJfNHRZMnJnaUdCcGRqb3lXR2ZUbjVUeHloVWJ6aHfSAYQCQVVfeXFMTTJJSmxueGpTTW56MHJib1RWS181S0tiNWJOdm42RWx4M0tfbnB4S1o5WUotUjJVSDIyNTY1Mko5T0lPV3RQTmNwM2x2enQyUnpWT2czRG1nRVE5R09uUUJfenlaZnZoOS1YcU45Y00ySnhxbWdRT1R2OV9TWU1uYXVGcE01QjZjalNzblpaeUtSdHFYc19mekxlQUV3blcySkZHVWN1ZkRTWjNFQzJXa2lkZGh5TE5kMHdiNW9pc05LeVhlRWg1ZXFpeHctUWdzbnctRzIzNWxQWDhiVFVKTFJxVWd1T3ZLeURFOHE3M2V3WHRHUnRHWFdfNFhXTVgybEN4WVE?oc=5>
+- **Trump** | TRUMP/USDT <https://news.google.com/rss/articles/CBMifEFVX3lxTE01QWlBalhQZmVyMzJfRHQ5UlBobXpDcGtLcWlrenJ6bnNvdUxPQ3R0dDJLYmdMZEgwaVNoeUdlRW9EQW92TFUtMUVSTGdyVnVkYng5QjdFeFN2N2NVUm5LYzliRUcxNUtKT0locDVTQV84bWtEelVqR3pRbU0?oc=5>
+- **Trump** | TRUMP/USDT <https://news.google.com/rss/articles/CBMifEFVX3lxTE5uXzlRMnRSVjEwakNIdWlxczBqQTJkdWhROFVrSnRWSmtSemJOUmRkNmd6anlkdVpObWc3RVZRVEJyNV9mN2dOMG5OcldVUE1UWnFmTE1yUS1pNzM2XzQ4bnFwTmdhRXFqNkpGMTZaOVdneWpOb25wbU5qai0?oc=5>
 
 ### 2026-05-25 22:55  (6 条)
 
