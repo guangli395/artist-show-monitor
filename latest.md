@@ -1,74 +1,91 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-26 00:01**
-- 本轮扫到 2080 条, 新增 **8** 条
+- 最近更新: **2026-05-26 04:41**
+- 本轮扫到 2088 条, 新增 **8** 条
 
 ---
 
 ## 本轮新发现 (8 条)
 
-### 周杰伦新歌发布被赞不忘初心志邦家居22载,愿以美好点亮万家灯火
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857141524_1d452771401902trki.html>
-
-### 别克官宣周杰伦成为MVP家族代言人,至境世家万家版41.99万元起
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857141524_1d452771401902tp68.html>
-
-### 新浪演唱会热点小时报丨2026年05月26日07时_今日实时演唱会热点速递
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905xs4s.html>
-
-### 明查｜特朗普家族被“永久豁免”国税局审计？从此高枕无忧？一些争议待厘清
+### 特朗普称与伊朗的谈判进展顺利
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-05-25 23:18
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0c045U1QyblhROW9KbXdvZEJaMWsyay1rMVdwYmdQdklwRThpeEJUWjhEYllCSW9CWFJrbmpQbTBFZWZJZTVtMkVCb2RHczVCVm44U1kxZ2JpZ0t2Sjk2bA?oc=5>
+- 场馆: 央视网
+- 时间: 2026-05-25 20:31
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE4weFhaWGszU0hDUGpjbFRRLVZBUVM3LTBNT2pmUVlvU2thSEpsclY3RlJDU0lZaGo5MXdEclhlYkdnenBXU1NxNHVlWXZqcERaVWoxeGlUWGtPeTBod2ZSSHlBTUFFWF93V2pybGVtSVl5RnRIYjR5Vg?oc=5>
+
+### 特朗普称伊朗浓缩铀可运到其他地点销毁
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-25 23:26
+- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxOdm41MkhMQ192T0tEZHpycWo5cXhzRHFkN0tBSWc5UmI5N0xhcWNsUHE0dm9oZzNCYjRyeDl0X2wwRE5JcmhzMVp2MElMMkc5cjdxQmJUdzFuUVRqZmxjLXMwaWxWemkxQllWNlV5T3hjNlVpVHNoNF83NFpzTDlWNC11NFNHV0xMSk9ObjFzdzM4Z3NmdFgtaA?oc=5>
+
+### 特朗普要求先签“亚伯拉罕协议” 沙特方面回应
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-05-25 21:18
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE9zbEtHOE1tdVB6ZzJMSU0tTmZLNElkUmdWYVNucXd3TlhoQW9fVnAxRWJTSkdZOHhhREQwT21Ib0s2U20tb0U2VzBLU3k2ZGUtUkYzNG9WZ0Q3Y3JDLWZzaEhGeVlpZS15d201cW40cG1kVHpX?oc=5>
+
+### 特朗普：强制要求中东多国立即签署
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-05-25 13:26
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZcVNDM0tDTG13bjNTeWxGMWJCZjh5UXJyZTdHYy1NT1RYSzJLYTQwd3l6RHNZcHZZTUJMMVFfQWItbXBzRENXbV9BVGgyVkhoNUV3d2RkT2M4bmdMUG1HNDRpZ1NLWGtRZHc?oc=5>
+
+### 40次提及！选前还在大吹宴会厅，特朗普被批无视美国人的经济痛苦
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-26 03:46
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1YSXcydHpVMC1jcVFrUk41cnlLMWFHcWI5cmZRWVBWWFpMZkdVVHhkdi04ZzBfRlh4ZGxCSmoyT1BaTnJLeFZzVUsycWZvRG9xYlVpTE1mV1V1eWtzWTVBX202dW5wNFNBSFZtSHhHM2o2TXZIeWJmUA?oc=5>
+
+### 特朗普冰火两重天：一边准备办“地球最精彩演出”庆生，一边民调支持率创新低
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-05-26 04:35
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE42ZHE0eXJkZ1FyaGw1clZYWmhiYnNyVzZ2WVFHNW9mLS1aZEo0aERVN05SZFUwZXJaWXctdmVwa0JocWcxWmp0T01GZ20?oc=5>
 
 ### TRUMP/USDT
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: Binance
-- 时间: 2026-05-25 21:17
-- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTE9RdjRHSmF5RDJyUkQxZHgyMUlZcTlrcTROZ1BNVHVPX0ZRWjczUGNMSGgtZnVBdnJjZWQtQmFOeUc5QnotbWd6Wm9fcVV2U3VIbU5NLTJrTzdtU3V6N1VPWlV5WW91bnB4bmtvSjcxUEhtRXZpUlJhR1RUUQ?oc=5>
+- 时间: 2026-05-25 18:36
+- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTE1XcUlMNldydVg0blRMWDdqZXFNRlpDZG1MeUtUSVhxNm5Ta0pjXzRUZG1PWTNDSkJXRVlxLUVySUpwMmhIOVlfM2hVMnNHQ0xkdXVtVDE4YnpFQ0xKeE0yNGtYczJ5Z3NKTlUxVVJibTNTTC1FWFVNenlrRQ?oc=5>
 
-### 特朗普总统敦促中东国家“同步”加入《亚伯拉罕协议》，作为广泛区域和平协议的一部分
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-05-25 22:58
-- 链接: <https://news.google.com/rss/articles/CBMiggJBVV95cUxNek10X1NjOGFmSnlRRnMwd3JiMmoxRjNCNFl1eEZoOXhwem4xcGR1QmNWN1NHVzl2M1hvckhBcDhkZFZXT0ZXNE1TcEliX2dZZDNFWmNfd2l3SE1SUVdWMHc2NkJ4Yno5ZUFQSVRhbTFIRFFHQU1sU3ItWUVjMjBxMXFCVTBGellyUndsQWM1NFJBOGd1TzZOeUJGeHZpZGU4T2QyeHRyNWo3VGQ2SUN3eFhoRVZhbV84dk1fSFFOXzlKOENoNVlVMGdPTlpwblQwNEQ3anl5ekRybEdva2FndWZuMHJfNHRZMnJnaUdCcGRqb3lXR2ZUbjVUeHloVWJ6aHfSAYQCQVVfeXFMTTJJSmxueGpTTW56MHJib1RWS181S0tiNWJOdm42RWx4M0tfbnB4S1o5WUotUjJVSDIyNTY1Mko5T0lPV3RQTmNwM2x2enQyUnpWT2czRG1nRVE5R09uUUJfenlaZnZoOS1YcU45Y00ySnhxbWdRT1R2OV9TWU1uYXVGcE01QjZjalNzblpaeUtSdHFYc19mekxlQUV3blcySkZHVWN1ZkRTWjNFQzJXa2lkZGh5TE5kMHdiNW9pc05LeVhlRWg1ZXFpeHctUWdzbnctRzIzNWxQWDhiVFVKTFJxVWd1T3ZLeURFOHE3M2V3WHRHUnRHWFdfNFhXTVgybEN4WVE?oc=5>
-
-### TRUMP/USDT
+### 特朗普在霍尔木兹袭击报道中宣扬伊朗取得进展
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Binance
-- 时间: 2026-05-21 19:15
-- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE01QWlBalhQZmVyMzJfRHQ5UlBobXpDcGtLcWlrenJ6bnNvdUxPQ3R0dDJLYmdMZEgwaVNoeUdlRW9EQW92TFUtMUVSTGdyVnVkYng5QjdFeFN2N2NVUm5LYzliRUcxNUtKT0locDVTQV84bWtEelVqR3pRbU0?oc=5>
-
-### TRUMP/USDT
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Binance
-- 时间: 2026-05-21 17:40
-- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE5uXzlRMnRSVjEwakNIdWlxczBqQTJkdWhROFVrSnRWSmtSemJOUmRkNmd6anlkdVpObWc3RVZRVEJyNV9mN2dOMG5OcldVUE1UWnFmTE1yUS1pNzM2XzQ4bnFwTmdhRXFqNkpGMTZaOVdneWpOb25wbU5qai0?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-05-26 01:41
+- 链接: <https://news.google.com/rss/articles/CBMiogFBVV95cUxQT1VqNFdMSjhHMjdJNmt6dUxiWmd2ZDZfLXZPLXl3OXVHempVa3pnUTk2dVRLZkFNRmpXYWpKRy1zQUVQd0JiTnpQOU9KaERSSHNzWjloLTk0dkNBM2MxVnU5dmhOczdPSFdidDJLbW1nSExSbU8tempseUp6c1Y1QUpiTlpHOHlJRXNzQXBTSEVHRGh0ZTFPdVdUZjBFVjJhdFE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-26 04:41  (8 条)
+
+- **特朗普** | 特朗普称与伊朗的谈判进展顺利 <https://news.google.com/rss/articles/CBMieEFVX3lxTE4weFhaWGszU0hDUGpjbFRRLVZBUVM3LTBNT2pmUVlvU2thSEpsclY3RlJDU0lZaGo5MXdEclhlYkdnenBXU1NxNHVlWXZqcERaVWoxeGlUWGtPeTBod2ZSSHlBTUFFWF93V2pybGVtSVl5RnRIYjR5Vg?oc=5>
+- **特朗普** | 特朗普称伊朗浓缩铀可运到其他地点销毁 <https://news.google.com/rss/articles/CBMimAFBVV95cUxOdm41MkhMQ192T0tEZHpycWo5cXhzRHFkN0tBSWc5UmI5N0xhcWNsUHE0dm9oZzNCYjRyeDl0X2wwRE5JcmhzMVp2MElMMkc5cjdxQmJUdzFuUVRqZmxjLXMwaWxWemkxQllWNlV5T3hjNlVpVHNoNF83NFpzTDlWNC11NFNHV0xMSk9ObjFzdzM4Z3NmdFgtaA?oc=5>
+- **特朗普** | 特朗普要求先签“亚伯拉罕协议” 沙特方面回应 <https://news.google.com/rss/articles/CBMidEFVX3lxTE9zbEtHOE1tdVB6ZzJMSU0tTmZLNElkUmdWYVNucXd3TlhoQW9fVnAxRWJTSkdZOHhhREQwT21Ib0s2U20tb0U2VzBLU3k2ZGUtUkYzNG9WZ0Q3Y3JDLWZzaEhGeVlpZS15d201cW40cG1kVHpX?oc=5>
+- **特朗普** | 特朗普：强制要求中东多国立即签署 <https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZcVNDM0tDTG13bjNTeWxGMWJCZjh5UXJyZTdHYy1NT1RYSzJLYTQwd3l6RHNZcHZZTUJMMVFfQWItbXBzRENXbV9BVGgyVkhoNUV3d2RkT2M4bmdMUG1HNDRpZ1NLWGtRZHc?oc=5>
+- **特朗普** | 40次提及！选前还在大吹宴会厅，特朗普被批无视美国人的经济痛苦 <https://news.google.com/rss/articles/CBMieEFVX3lxTE1YSXcydHpVMC1jcVFrUk41cnlLMWFHcWI5cmZRWVBWWFpMZkdVVHhkdi04ZzBfRlh4ZGxCSmoyT1BaTnJLeFZzVUsycWZvRG9xYlVpTE1mV1V1eWtzWTVBX202dW5wNFNBSFZtSHhHM2o2TXZIeWJmUA?oc=5>
+- **特朗普** | 特朗普冰火两重天：一边准备办“地球最精彩演出”庆生，一边民调支持率创新低 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE42ZHE0eXJkZ1FyaGw1clZYWmhiYnNyVzZ2WVFHNW9mLS1aZEo0aERVN05SZFUwZXJaWXctdmVwa0JocWcxWmp0T01GZ20?oc=5>
+- **Trump** | TRUMP/USDT <https://news.google.com/rss/articles/CBMie0FVX3lxTE1XcUlMNldydVg0blRMWDdqZXFNRlpDZG1MeUtUSVhxNm5Ta0pjXzRUZG1PWTNDSkJXRVlxLUVySUpwMmhIOVlfM2hVMnNHQ0xkdXVtVDE4YnpFQ0xKeE0yNGtYczJ5Z3NKTlUxVVJibTNTTC1FWFVNenlrRQ?oc=5>
+- **Trump** | 特朗普在霍尔木兹袭击报道中宣扬伊朗取得进展 <https://news.google.com/rss/articles/CBMiogFBVV95cUxQT1VqNFdMSjhHMjdJNmt6dUxiWmd2ZDZfLXZPLXl3OXVHempVa3pnUTk2dVRLZkFNRmpXYWpKRy1zQUVQd0JiTnpQOU9KaERSSHNzWjloLTk0dkNBM2MxVnU5dmhOczdPSFdidDJLbW1nSExSbU8tempseUp6c1Y1QUpiTlpHOHlJRXNzQXBTSEVHRGh0ZTFPdVdUZjBFVjJhdFE?oc=5>
 
 ### 2026-05-26 00:01  (8 条)
 
