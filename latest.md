@@ -1,64 +1,107 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-26 22:03**
-- 本轮扫到 2126 条, 新增 **6** 条
+- 最近更新: **2026-05-26 23:37**
+- 本轮扫到 2136 条, 新增 **10** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (10 条)
 
-### 美伊局势追踪：特朗普再称谈判“进展顺利” 双方据悉就资产解冻达成谅解
+### 别克官宣周杰伦成为MVP家族代言人,至境世家万家版41.99万元起
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-05-26 00:17
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE5CMktzRzRGS0NvWVlfLWJHSnhwZ0I3YVYyUFJxSElfRk1pa0FrcDM2eFZONjVNLXEzdlpDajcwWE9zOXU2OHlaRg?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857141524_1d452771401902uapc.html>
 
-### 伊朗指责美国违反停火协议 特朗普将召集内阁会议聚焦伊朗局势
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-05-26 21:32
-- 链接: <https://news.google.com/rss/articles/CBMisANBVV95cUxPaDFNN0FDeE0zQ0o1a19NbElfbnBuTldZc2JYVXlMTFZMbkNWSWxiRG9ia2VMdG5BYkl6MTkxb1Fib2dGY2ZMZ3VCcWhPbGhvRkhab3RqUGVDLThtTF9fLVN5ekpyMklKTklaY2lBTWJlcnRiZGwwQy04UUlpTzBoYk03b3A1NVRsQm44dzdWZWF1WEMyWjlEbTlqTkNMaElLNFVjWDRtZlYwV1NnOHl0djE2Sm1yNjZ1a3VwTUk5WUR1YVl5NHFzM3E3V1dpVnZ2Mzh1d0tWUkN3Sy1HUHBKLWgxNExFWWJpbGNmODVqRmpwY3R5TXBzZW1jblVoVnBYRGdTMDdkTFkycDFiZWFjbVJ4bVE3V05XekdVYjhiaVNHX1hSRnlhVmRsUVlwRUZfNWJTUTdvb0NuZ1BxRzQ1QkZXd0JwTHJleEJzNFhyWTVIcXR1OXctampIak5qQ0pMWEhHWkhKSGJJemVTeFBOUWVXZjNwRFU4bXNSTkRXLXMxVGowLWZKYWk2QmdBUzV4X2pNa250bEs4QnVXSkpmVjBMb0lCZjBPTDYwXzVRVks?oc=5>
-
-### 特朗普称体检完美 但未透露具体细节
+### 美伊协议四个症结 霍尔木兹海峡仅是其中之一
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-26 20:12
-- 链接: <https://news.google.com/rss/articles/CBMi_wFBVV95cUxNWUgzanQtd3Nvb3VSd2duQ0pIRF9rUUd0cjVodi1sX0doaTNHQXVjaDJVSmx3VnpMQmliWElpMDlFWXhmQ0ZJeUtPV3NQY214Y0JnMEt6V0pCYTl1dkh2VjNjX19PNlFvczA2Y3M5QU5zckFhdXF4M1gtQUo5Z2doUXhTbFE0X2xsWGgzSkNMbUFUVFVxeWQ5RGlLekNTYTBBdmExak5yVDZvZThEYnhXNnJNamNlNkZpR1VUb2V0Y0ZiVjJvbFB4Tmp6bnFQUGlvVlFaOUZQaHpzZGpteVU5TkNOeG1YWmVlNmpWSXBQNFU1b1VFQjJoTEo5WmQyR2s?oc=5>
+- 时间: 2026-05-26 23:33
+- 链接: <https://news.google.com/rss/articles/CBMi_wFBVV95cUxQS2hrYWVZTzlRei1ZM3FNdXIzeDQxWmY3dEVpRHVNUDlzRXRYNUFVU3dqSmdCX0tCOE5JTlBlaXUtMWs0QkJFLTVHdl9meTdXNDB4enJOUmJBeFFJSkRrVXVLUmRfak90YjBvcXlhVFR4amF2VWR2aF94ckZvaUJSSHZMa2JUTFQzTjJBeXltUGNHc1dhRDM4YVJSNVNXUkhHRkp6Wk5kUGdPQmhMdFBUWWc5d1hUVnFtNzlVSm9xdGsxdENGNmtpaWdkNUJmMXFZU1FMUGE1RHhQQWQxN3Qzc2QyWHFOR2VGQ3lDR0d6amVxNGJOVVJwa1dXSDZZdVE?oc=5>
 
-### 40次提及！特朗普大吹宴会厅，被批无视美国人痛苦-观察者网
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: guancha.cn
-- 时间: 2026-05-26 03:45
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFA0bWZJT1B3RUNPUmlmR0tOUUFaWHBxTHhTQXFEMVMzMDQ0RnNNU3VhR3BmVllFU2daVS1YNXQzeTBqcHVSckJ6b1pkRzVQcmhBTVRBZU5JMW83VThWWVNGMlJRcEtGWGR4M2c?oc=5>
-
-### 参院共和党人质疑美伊核协议 特朗普回击批评者
+### 美国与亚美尼亚承诺推进“特朗普走廊项目”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-05-24 23:41
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9YaXFocm5oc1FfaC1BcGQxZ0VNYnZsQVhvSDhPcW5pWU1JRFJleDJ4RnN1a3JYLW4yTEZwaWVtLUZVa0NlZUJLV2I2cG1hOHVJLVF3NTJFblNrQS1EVXBTcDdTcTFyUQ?oc=5>
+- 场馆: RFI
+- 时间: 2026-05-26 22:53
+- 链接: <https://news.google.com/rss/articles/CBMiuAJBVV95cUxNN3pkdjdtUVB2NVNmYVBoNFVvY2MwcF9KUTcxM0p6T01ldHJmcXNFYmhQQTJJaU1TVVBkNENqMldEekRMdlNRWnlXS1lXbk1lQjM5U0hvVUlWdWNBSDExR2VtYnk2Vmc2eHB3dV8yanE5WjEtV05wYm9WU2hjeWNaU2RBLTU4VlI2U3JsbVJrRmZuR1ZnRjVtYWdrd1U3UzNaNWZYakZkT2hCZHN2SkkxSk5jVHc5OFNPTGNmS3dsbjVwbldvZlpfdTN3Q0pqcDc0ckRBWUhaRTZ1cmFiTVkxV1Y5bU56ZTZnUXJiaDg1S1Bic1AwUzlwY0VwdklJWFQ2aEVoODdodjRKZDJCWUNrNzhqZHBFQ01NSlhLQ1B0Nk5GUFNtNHl4NWs3Q1FhS0wtQVFKcEFGa0E?oc=5>
 
-### Relationship between the U.S. and China is a very strong one: Trump
+### 【中国网评】“台独”已由“棋子”变成“弃子”_观点中国
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中国网
+- 时间: 2026-05-26 23:02
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFBMejFaVVQ1V3FJdUE4SzhmWWo3X2ZPYXJ3d1pmSklJT2o3bkdsUDhlS1RCVVdqel95U25GR3ZwMFE2bFgwdzRCX0xQREdRUUExMmJWU3VoWHdaQTRxYTg0YVBWTGpET0FRV0lPNW1rWklkOGM?oc=5>
+
+### 美伊谈判关键之际 特朗普与内塔尼亚胡通话
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新京报
+- 时间: 2026-05-26 23:23
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFAxRDdHcWxXX19CTy0yenc5TnpaMzRsNlRTTUlmMFNxYkM3ZGRQZUpQSVQxbzNOWHdiSTVoQ2pBbkFsdkpRa1dPZHdJeTB5OWZLeDg4V0tXTV9iM3VZRWZKMWFZQnc?oc=5>
+
+### 特朗普：内阁会议将由戴维营改至白宫举行
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-05-26 21:26
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBFWmhIdkVPQkZwb3IyVFc4OE9kSmJZdmtyZm0tZ0hXdlZhNWV4NEN0S0xfREszT0JPLWlaYjZWR2FqdU1fQnUzUEJLdTM?oc=5>
+
+### Trump於白宫会见巴西总统候选人Flavio Bolsonaro美股 US Stocks Quote - 外围新闻内容Golbal News Content
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 澳門廣播電視股份有限公司
-- 时间: 2026-05-15 06:19
-- 链接: <https://news.google.com/rss/articles/CBMinwFBVV95cUxNNGNhNnZackJTOXNMT1oxWG0wOTdmTTNmOWl6X3FEbWZuLVJjY3FzQkliN0dGVWJyS19OZTJZem84clExMkN0RGg4OFFDYTNPaVlCT1dhR1dNWUJJX0tVdDdsdllZVzhBSUtWRF9FUjRpMFJLT3RNM2dqN2ZPajAxRE1LY1JlUXVVYzBjVmJLYmF4VVJYUVYxWTVaXzRSWFE?oc=5>
+- 场馆: AASTOCKS.com
+- 时间: 2026-05-26 23:18
+- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxOcTdLUFVoTnc3TUJqMDRrV284TUhfQkhuZllhNlhUUXN4UFRwdU40NUJkNDZLclFaaVBONVVpcFB1ZjFHWGRVYTJfQWtVdHBEY0FUd1Y0c0ZhMmlxODZ2WFJNUmdoY2R3V29pOURKNk9SdHlPUW41ZF9fcDhzVXlUUWFNbzVlT1FaWXc?oc=5>
+
+### 伊万卡揪19岁侄女辣晒比基尼！好身材全露
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 万维读者网
+- 时间: 2026-05-26 16:21
+- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vVVhvb09Ea3ZJc0Zpd3psTExFMzBlWWlyUEFUUVV2dDFwLUlBd0E2WVByT3VKcG1qb2R6UkY5NENvUEVVVlY1SDVBYUpOZEdSVEE?oc=5>
+
+### OFFICIAL TRUMP价格
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Binance
+- 时间: 2026-05-26 14:06
+- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE9zZ25wU2NTdncyZEtHcEpLNms2R0JkV2pwRW5OcXBYVXhROHJRMEREZDY3UkszN01RZmwyVHA0TDhBQ1ZBUVByLURiRlg1M0RrTTV2MS1mdC1NSi1icWVSUUNQcEdPcERNQVpKRUV5WHp2ODZlUzA1RlRraF8?oc=5>
+
+### Trump於白宫会见巴西总统候选人Flavio Bolsonaro美股 US Stocks Quote - 外围新闻内容Golbal News Content
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: AASTOCKS.com
+- 时间: 2026-05-26 23:18
+- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOWJTLTZwaVZMbkd4c2FYREw4Rkd1TS1DMGZ2RUk5LXI2Z2VObWVKREw0VUVTaFROVHUzM1ZweG1LNl80RXJzN2U2aENNXzlYYl9UbFRURURUUDVXcmRodlkwUXpqSW1wMWtqazFDU0IxdFJtUExYWUp0VHhtdFVBWkI2ejZiQk5jRTJ3?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-26 23:37  (10 条)
+
+- **周杰伦** | 别克官宣周杰伦成为MVP家族代言人,至境世家万家版41.99万元起 <https://k.sina.com.cn/article_7857141524_1d452771401902uapc.html>
+- **特朗普** | 美伊协议四个症结 霍尔木兹海峡仅是其中之一 <https://news.google.com/rss/articles/CBMi_wFBVV95cUxQS2hrYWVZTzlRei1ZM3FNdXIzeDQxWmY3dEVpRHVNUDlzRXRYNUFVU3dqSmdCX0tCOE5JTlBlaXUtMWs0QkJFLTVHdl9meTdXNDB4enJOUmJBeFFJSkRrVXVLUmRfak90YjBvcXlhVFR4amF2VWR2aF94ckZvaUJSSHZMa2JUTFQzTjJBeXltUGNHc1dhRDM4YVJSNVNXUkhHRkp6Wk5kUGdPQmhMdFBUWWc5d1hUVnFtNzlVSm9xdGsxdENGNmtpaWdkNUJmMXFZU1FMUGE1RHhQQWQxN3Qzc2QyWHFOR2VGQ3lDR0d6amVxNGJOVVJwa1dXSDZZdVE?oc=5>
+- **特朗普** | 美国与亚美尼亚承诺推进“特朗普走廊项目” <https://news.google.com/rss/articles/CBMiuAJBVV95cUxNN3pkdjdtUVB2NVNmYVBoNFVvY2MwcF9KUTcxM0p6T01ldHJmcXNFYmhQQTJJaU1TVVBkNENqMldEekRMdlNRWnlXS1lXbk1lQjM5U0hvVUlWdWNBSDExR2VtYnk2Vmc2eHB3dV8yanE5WjEtV05wYm9WU2hjeWNaU2RBLTU4VlI2U3JsbVJrRmZuR1ZnRjVtYWdrd1U3UzNaNWZYakZkT2hCZHN2SkkxSk5jVHc5OFNPTGNmS3dsbjVwbldvZlpfdTN3Q0pqcDc0ckRBWUhaRTZ1cmFiTVkxV1Y5bU56ZTZnUXJiaDg1S1Bic1AwUzlwY0VwdklJWFQ2aEVoODdodjRKZDJCWUNrNzhqZHBFQ01NSlhLQ1B0Nk5GUFNtNHl4NWs3Q1FhS0wtQVFKcEFGa0E?oc=5>
+- **特朗普** | 【中国网评】“台独”已由“棋子”变成“弃子”_观点中国 <https://news.google.com/rss/articles/CBMic0FVX3lxTFBMejFaVVQ1V3FJdUE4SzhmWWo3X2ZPYXJ3d1pmSklJT2o3bkdsUDhlS1RCVVdqel95U25GR3ZwMFE2bFgwdzRCX0xQREdRUUExMmJWU3VoWHdaQTRxYTg0YVBWTGpET0FRV0lPNW1rWklkOGM?oc=5>
+- **特朗普** | 美伊谈判关键之际 特朗普与内塔尼亚胡通话 <https://news.google.com/rss/articles/CBMiZEFVX3lxTFAxRDdHcWxXX19CTy0yenc5TnpaMzRsNlRTTUlmMFNxYkM3ZGRQZUpQSVQxbzNOWHdiSTVoQ2pBbkFsdkpRa1dPZHdJeTB5OWZLeDg4V0tXTV9iM3VZRWZKMWFZQnc?oc=5>
+- **特朗普** | 特朗普：内阁会议将由戴维营改至白宫举行 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBFWmhIdkVPQkZwb3IyVFc4OE9kSmJZdmtyZm0tZ0hXdlZhNWV4NEN0S0xfREszT0JPLWlaYjZWR2FqdU1fQnUzUEJLdTM?oc=5>
+- **Trump** | Trump於白宫会见巴西总统候选人Flavio Bolsonaro美股 US Stocks Quote - 外围新闻内容Golbal News Content <https://news.google.com/rss/articles/CBMiigFBVV95cUxOcTdLUFVoTnc3TUJqMDRrV284TUhfQkhuZllhNlhUUXN4UFRwdU40NUJkNDZLclFaaVBONVVpcFB1ZjFHWGRVYTJfQWtVdHBEY0FUd1Y0c0ZhMmlxODZ2WFJNUmdoY2R3V29pOURKNk9SdHlPUW41ZF9fcDhzVXlUUWFNbzVlT1FaWXc?oc=5>
+- **Trump** | 伊万卡揪19岁侄女辣晒比基尼！好身材全露 <https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vVVhvb09Ea3ZJc0Zpd3psTExFMzBlWWlyUEFUUVV2dDFwLUlBd0E2WVByT3VKcG1qb2R6UkY5NENvUEVVVlY1SDVBYUpOZEdSVEE?oc=5>
+- **Trump** | OFFICIAL TRUMP价格 <https://news.google.com/rss/articles/CBMifEFVX3lxTE9zZ25wU2NTdncyZEtHcEpLNms2R0JkV2pwRW5OcXBYVXhROHJRMEREZDY3UkszN01RZmwyVHA0TDhBQ1ZBUVByLURiRlg1M0RrTTV2MS1mdC1NSi1icWVSUUNQcEdPcERNQVpKRUV5WHp2ODZlUzA1RlRraF8?oc=5>
+- **Trump** | Trump於白宫会见巴西总统候选人Flavio Bolsonaro美股 US Stocks Quote - 外围新闻内容Golbal News Content <https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOWJTLTZwaVZMbkd4c2FYREw4Rkd1TS1DMGZ2RUk5LXI2Z2VObWVKREw0VUVTaFROVHUzM1ZweG1LNl80RXJzN2U2aENNXzlYYl9UbFRURURUUDVXcmRodlkwUXpqSW1wMWtqazFDU0IxdFJtUExYWUp0VHhtdFVBWkI2ejZiQk5jRTJ3?oc=5>
 
 ### 2026-05-26 22:03  (6 条)
 
