@@ -1,72 +1,91 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-26 17:53**
-- 本轮扫到 2112 条, 新增 **7** 条
+- 最近更新: **2026-05-26 20:02**
+- 本轮扫到 2120 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (8 条)
 
-### 首款特朗普手机跑分出炉，打不过2023年的国产中端机|vivo|Geekbench 6|唐纳德·特朗普|vivo T1|vivo S18_手机新浪网
+### 美伊谈判关键之际 特朗普与内塔尼亚胡通话
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-05-26 19:53
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1kaWdnQl9pdjRNNWV4YkdKYzg0bUVWTW9mR29UblJNdUJKcExnUEJOZ3BUZlNTUUlzSlBaQUYyZTVBSV9XR055VG00anBKUnp0YWlJY25sZ2czbGFuUjJrM00xVGdTVktnRzlpcVNLdi0?oc=5>
+
+### 特朗普称体检完美 但未透露具体细节
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-26 17:16
-- 链接: <https://news.google.com/rss/articles/CBMipwFBVV95cUxPeUxjTWVyNTNJNWlsejhodUtBQ29fUFRiSXNESkI2amlNcm90bTdZamJ2bS1uTFQyY0JXdDd2aFJadl9PbFQ1M0NwVUR3YjJ2dHFoejI1QlF4RE5idFhTNm1qRXZ2Znptczlpb2FZTnB5YXRZZUV6OEViTWdocDBqb0YtY0RGbC0wclJkaFY1NXM1bmk0dEl5eHVqbUd2N3pnTW41aUp6NA?oc=5>
+- 时间: 2026-05-26 19:53
+- 链接: <https://news.google.com/rss/articles/CBMiqAJBVV95cUxOZWMyN3MzNkpjckZmM1FIcVY2b3RxV01TSml6Uzg2elJDa3lDTHlSeVFsLVY4Q25ORm9FRFYzZnJWUldGaVdvdm02a2hlVUQyY3lNVVB0cktyRHJobHNyUWk4MHZmazRPMHRXd3FSeGZWSWFaelMyM2N5SWxYWnhrSTVBSTE0VVV2R0hUa01kc3N6RkZCSHVhSlItenV0c1hqYTE3Tk91bnc5Sjd3SnEwSzM3aG5IYWVXYlYzNkxFaEwtT3RRdkt5Nk1tcmhFdmUtMkJlSkpyYXlOcXlYQlpPdVdYOG1pSDJ2ZnZhandZSG1UUHYwSWprLXdqRlRET3Ayb2N3NUlsZFJHQXoyanZ6S2VlN2FGR254T1ZNaFdPcTFwMy16OGFjRQ?oc=5>
 
-### 特朗普周三将在戴维营主持内阁会议，美伊谈判持续进行中
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-26 16:18
-- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxQRVk0ZE1HN3dWZzhHM25kUEFpSC1tRUxqWXlEeHdnUVpxb1NKNjNINmZVUkl2OUlfOXEzZmtsRThibXVkQXVQUU43dkNJUGM5T2JRbEFPeXFUcUJicDZ3N3JGU1hLNWNrUVhid3FzaS1NRjR4cnpHamxXbXRyaVNERUpLOTR5bThaY0E?oc=5>
-
-### 特朗普的要求，被拒绝！
+### 释新闻｜美伊谈判冲刺阶段，特朗普为何突然提起《亚伯拉罕协议》？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 每日经济新闻
-- 时间: 2026-05-26 16:56
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RYlVENmppUGNaeldTcDVVRC1nbEdvUlY2c0l0aVg4WGhyay1xTEVlTmJmODQ5MnI3ajJYaGVaN1M3YWM1OGljN1RpMkpZSnpKbUg4RTdTVzl1T21VOUxyRWJBUlNMUQ?oc=5>
+- 场馆: thepaper.cn
+- 时间: 2026-05-26 11:45
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE10N1REX0oyUjd1YndlVDRKYUZsRm9WLTVaek1GdTc4UERER2x1bzBFaUgzc2dhQ19oTDhXNF9Lb0dEMmNtdVI0LTBuTkNqNy1BVTZIOWJCcEJiMlFtNDZnbw?oc=5>
 
-### 惊人让步！特朗普的新帖子炸了
+### 特朗普将在戴维营召开集体内阁会议，美媒：罕见
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-05-26 15:52
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5PZEdyaTM0bEZVVEF5VmxxdTVzT3ZTYWIzUng3QlI2NDZDYTRKZml1ZnZYdGgtVkdCQ3Y1SG95MUVVdWJwOGlwZjZEakU?oc=5>
+- 时间: 2026-05-26 16:02
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE8zM196TXBiME93VHNBVVdXQ1hRTjdYWlpTTGZON0s2dEJ1LW5ZcWVObWtlUUZNT0RObE4yeTdUcmtoNFlCQlR1YU9mVjU?oc=5>
+
+### 特朗普就处置伊朗浓缩铀提出新选项
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-05-25 23:58
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBiUGRiekpRTGYzNDZvSkhsbEEtOWt3MlFzVlQtbHJ1ZnIzekNyMFlFOTR2dEFMYUFlZFRHR1hMNlVCcmJ3V0YzRzZXODVSNkpTT2J4Ni1aaWxibHdzcFR4d0ZnZHYxRXZzU0E?oc=5>
 
 ### TRUMP/USDT
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: Binance
-- 时间: 2026-05-26 01:43
-- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTE9mYVVzT2FTOXJ5VnUzOXptMWhnNDYtX3BoNGN1Yi1wdUt4M01ianljNVJLNk0xcThXbzY4cnVkdUdNV25jYUtGVHBhX2hHM3A2cXdaS3ljWWlPVXJILWkxWGQxTTUtcjZuVXZwOTR0MnNaM3FDZGVmR0tLbw?oc=5>
+- 时间: 2026-05-23 16:27
+- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTFBZZy1TeGpKZWlEX1VjaWtzanQ5elJpQ3VFZFliRzJXQWU3N1M1YjcxX2FhT1p3MDBxWVBwcG1TY1BqUnBjUEdFcGFMSzJzVmxWX0I3aXR3N2JIekJpaERIZE1YeGpWZGVrUWZ1bzdkUlJ3MlBHakRhLXhDLWQ?oc=5>
 
-### TRUMP/USDT
+### 特朗普专机旁站姿笔直 中国军官：热浪拍背也不能动
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 8world
+- 时间: 2026-05-26 13:06
+- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxNdHljRGJUUWc3MXdpdllMY0lkQjg4dndGSlRvREJ1dGhQSUJmTDJYSVNSelJGTW5YMnRiZ1lBVlJicDNFSEZGM0pTdkN3bDdUOWYyMHE5b0ltX3o5YWFWejJka2V3MzQ1cWxmS3BSQXRGWFR2YWVKRnVTc3M5N3dIcDVaUQ?oc=5>
+
+### OFFICIAL TRUMP价格
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: Binance
-- 时间: 2026-05-21 18:44
-- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE5RV3BKY1RuU0FBQmJNdnd3d05vZU1RampDRnpTWTJSS1lYem1WcXhLNWxKU2RtdlJjUWZNU056ZmZhSzlISThWMEhaYjhESThQT3piQTB3VWtXX21VQjJSWU4wX3ZkNk5hUnZ3UlNzT2lPQloyX09kYzJrMUc?oc=5>
-
-### TRUMP/USDT
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Binance
-- 时间: 2026-05-22 12:43
-- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE9OZ05YREJDMFRIZkRtaWZNN251Q19lVExuOGRDbkxfVnlPd28yams3ZERuN3dPbG1hQk9FYzZrSnVxUHFWRV9YYk1zY2xvYVFCbVZHVWVoUFFiTlcteGRoazRhdWtyMU9lT0Z6NVcxREN5VTRtVUtWSW1oUko?oc=5>
+- 时间: 2026-05-21 12:46
+- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE1IRy04NUxSd1BqeXpFaHRSZlRlWFJFbEtrblBURXFTOHVoeHhjTGVrZWpEcXhtdlZCQTJpYkxtZTRsMGx6SHBSemZJcTZQc1p1WlV4OUs0cTlzMmh2NV85Y05Xb2h4Y3lkNzlCbk9Sbmh1bFAtNGFFRDJ0Wno?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-26 20:02  (8 条)
+
+- **特朗普** | 美伊谈判关键之际 特朗普与内塔尼亚胡通话 <https://news.google.com/rss/articles/CBMicEFVX3lxTE1kaWdnQl9pdjRNNWV4YkdKYzg0bUVWTW9mR29UblJNdUJKcExnUEJOZ3BUZlNTUUlzSlBaQUYyZTVBSV9XR055VG00anBKUnp0YWlJY25sZ2czbGFuUjJrM00xVGdTVktnRzlpcVNLdi0?oc=5>
+- **特朗普** | 特朗普称体检完美 但未透露具体细节 <https://news.google.com/rss/articles/CBMiqAJBVV95cUxOZWMyN3MzNkpjckZmM1FIcVY2b3RxV01TSml6Uzg2elJDa3lDTHlSeVFsLVY4Q25ORm9FRFYzZnJWUldGaVdvdm02a2hlVUQyY3lNVVB0cktyRHJobHNyUWk4MHZmazRPMHRXd3FSeGZWSWFaelMyM2N5SWxYWnhrSTVBSTE0VVV2R0hUa01kc3N6RkZCSHVhSlItenV0c1hqYTE3Tk91bnc5Sjd3SnEwSzM3aG5IYWVXYlYzNkxFaEwtT3RRdkt5Nk1tcmhFdmUtMkJlSkpyYXlOcXlYQlpPdVdYOG1pSDJ2ZnZhandZSG1UUHYwSWprLXdqRlRET3Ayb2N3NUlsZFJHQXoyanZ6S2VlN2FGR254T1ZNaFdPcTFwMy16OGFjRQ?oc=5>
+- **特朗普** | 释新闻｜美伊谈判冲刺阶段，特朗普为何突然提起《亚伯拉罕协议》？ <https://news.google.com/rss/articles/CBMiYEFVX3lxTE10N1REX0oyUjd1YndlVDRKYUZsRm9WLTVaek1GdTc4UERER2x1bzBFaUgzc2dhQ19oTDhXNF9Lb0dEMmNtdVI0LTBuTkNqNy1BVTZIOWJCcEJiMlFtNDZnbw?oc=5>
+- **特朗普** | 特朗普将在戴维营召开集体内阁会议，美媒：罕见 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE8zM196TXBiME93VHNBVVdXQ1hRTjdYWlpTTGZON0s2dEJ1LW5ZcWVObWtlUUZNT0RObE4yeTdUcmtoNFlCQlR1YU9mVjU?oc=5>
+- **特朗普** | 特朗普就处置伊朗浓缩铀提出新选项 <https://news.google.com/rss/articles/CBMiakFVX3lxTFBiUGRiekpRTGYzNDZvSkhsbEEtOWt3MlFzVlQtbHJ1ZnIzekNyMFlFOTR2dEFMYUFlZFRHR1hMNlVCcmJ3V0YzRzZXODVSNkpTT2J4Ni1aaWxibHdzcFR4d0ZnZHYxRXZzU0E?oc=5>
+- **Trump** | TRUMP/USDT <https://news.google.com/rss/articles/CBMifEFVX3lxTFBZZy1TeGpKZWlEX1VjaWtzanQ5elJpQ3VFZFliRzJXQWU3N1M1YjcxX2FhT1p3MDBxWVBwcG1TY1BqUnBjUEdFcGFMSzJzVmxWX0I3aXR3N2JIekJpaERIZE1YeGpWZGVrUWZ1bzdkUlJ3MlBHakRhLXhDLWQ?oc=5>
+- **Trump** | 特朗普专机旁站姿笔直 中国军官：热浪拍背也不能动 <https://news.google.com/rss/articles/CBMigwFBVV95cUxNdHljRGJUUWc3MXdpdllMY0lkQjg4dndGSlRvREJ1dGhQSUJmTDJYSVNSelJGTW5YMnRiZ1lBVlJicDNFSEZGM0pTdkN3bDdUOWYyMHE5b0ltX3o5YWFWejJka2V3MzQ1cWxmS3BSQXRGWFR2YWVKRnVTc3M5N3dIcDVaUQ?oc=5>
+- **Trump** | OFFICIAL TRUMP价格 <https://news.google.com/rss/articles/CBMifEFVX3lxTE1IRy04NUxSd1BqeXpFaHRSZlRlWFJFbEtrblBURXFTOHVoeHhjTGVrZWpEcXhtdlZCQTJpYkxtZTRsMGx6SHBSemZJcTZQc1p1WlV4OUs0cTlzMmh2NV85Y05Xb2h4Y3lkNzlCbk9Sbmh1bFAtNGFFRDJ0Wno?oc=5>
 
 ### 2026-05-26 17:53  (7 条)
 
