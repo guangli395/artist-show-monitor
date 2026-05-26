@@ -1,80 +1,73 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-26 20:02**
-- 本轮扫到 2120 条, 新增 **8** 条
+- 最近更新: **2026-05-26 22:03**
+- 本轮扫到 2126 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (6 条)
 
-### 美伊谈判关键之际 特朗普与内塔尼亚胡通话
+### 美伊局势追踪：特朗普再称谈判“进展顺利” 双方据悉就资产解冻达成谅解
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-05-26 19:53
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1kaWdnQl9pdjRNNWV4YkdKYzg0bUVWTW9mR29UblJNdUJKcExnUEJOZ3BUZlNTUUlzSlBaQUYyZTVBSV9XR055VG00anBKUnp0YWlJY25sZ2czbGFuUjJrM00xVGdTVktnRzlpcVNLdi0?oc=5>
+- 场馆: 财联社
+- 时间: 2026-05-26 00:17
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE5CMktzRzRGS0NvWVlfLWJHSnhwZ0I3YVYyUFJxSElfRk1pa0FrcDM2eFZONjVNLXEzdlpDajcwWE9zOXU2OHlaRg?oc=5>
+
+### 伊朗指责美国违反停火协议 特朗普将召集内阁会议聚焦伊朗局势
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-05-26 21:32
+- 链接: <https://news.google.com/rss/articles/CBMisANBVV95cUxPaDFNN0FDeE0zQ0o1a19NbElfbnBuTldZc2JYVXlMTFZMbkNWSWxiRG9ia2VMdG5BYkl6MTkxb1Fib2dGY2ZMZ3VCcWhPbGhvRkhab3RqUGVDLThtTF9fLVN5ekpyMklKTklaY2lBTWJlcnRiZGwwQy04UUlpTzBoYk03b3A1NVRsQm44dzdWZWF1WEMyWjlEbTlqTkNMaElLNFVjWDRtZlYwV1NnOHl0djE2Sm1yNjZ1a3VwTUk5WUR1YVl5NHFzM3E3V1dpVnZ2Mzh1d0tWUkN3Sy1HUHBKLWgxNExFWWJpbGNmODVqRmpwY3R5TXBzZW1jblVoVnBYRGdTMDdkTFkycDFiZWFjbVJ4bVE3V05XekdVYjhiaVNHX1hSRnlhVmRsUVlwRUZfNWJTUTdvb0NuZ1BxRzQ1QkZXd0JwTHJleEJzNFhyWTVIcXR1OXctampIak5qQ0pMWEhHWkhKSGJJemVTeFBOUWVXZjNwRFU4bXNSTkRXLXMxVGowLWZKYWk2QmdBUzV4X2pNa250bEs4QnVXSkpmVjBMb0lCZjBPTDYwXzVRVks?oc=5>
 
 ### 特朗普称体检完美 但未透露具体细节
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-26 19:53
-- 链接: <https://news.google.com/rss/articles/CBMiqAJBVV95cUxOZWMyN3MzNkpjckZmM1FIcVY2b3RxV01TSml6Uzg2elJDa3lDTHlSeVFsLVY4Q25ORm9FRFYzZnJWUldGaVdvdm02a2hlVUQyY3lNVVB0cktyRHJobHNyUWk4MHZmazRPMHRXd3FSeGZWSWFaelMyM2N5SWxYWnhrSTVBSTE0VVV2R0hUa01kc3N6RkZCSHVhSlItenV0c1hqYTE3Tk91bnc5Sjd3SnEwSzM3aG5IYWVXYlYzNkxFaEwtT3RRdkt5Nk1tcmhFdmUtMkJlSkpyYXlOcXlYQlpPdVdYOG1pSDJ2ZnZhandZSG1UUHYwSWprLXdqRlRET3Ayb2N3NUlsZFJHQXoyanZ6S2VlN2FGR254T1ZNaFdPcTFwMy16OGFjRQ?oc=5>
+- 时间: 2026-05-26 20:12
+- 链接: <https://news.google.com/rss/articles/CBMi_wFBVV95cUxNWUgzanQtd3Nvb3VSd2duQ0pIRF9rUUd0cjVodi1sX0doaTNHQXVjaDJVSmx3VnpMQmliWElpMDlFWXhmQ0ZJeUtPV3NQY214Y0JnMEt6V0pCYTl1dkh2VjNjX19PNlFvczA2Y3M5QU5zckFhdXF4M1gtQUo5Z2doUXhTbFE0X2xsWGgzSkNMbUFUVFVxeWQ5RGlLekNTYTBBdmExak5yVDZvZThEYnhXNnJNamNlNkZpR1VUb2V0Y0ZiVjJvbFB4Tmp6bnFQUGlvVlFaOUZQaHpzZGpteVU5TkNOeG1YWmVlNmpWSXBQNFU1b1VFQjJoTEo5WmQyR2s?oc=5>
 
-### 释新闻｜美伊谈判冲刺阶段，特朗普为何突然提起《亚伯拉罕协议》？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-05-26 11:45
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE10N1REX0oyUjd1YndlVDRKYUZsRm9WLTVaek1GdTc4UERER2x1bzBFaUgzc2dhQ19oTDhXNF9Lb0dEMmNtdVI0LTBuTkNqNy1BVTZIOWJCcEJiMlFtNDZnbw?oc=5>
-
-### 特朗普将在戴维营召开集体内阁会议，美媒：罕见
+### 40次提及！特朗普大吹宴会厅，被批无视美国人痛苦-观察者网
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-05-26 16:02
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE8zM196TXBiME93VHNBVVdXQ1hRTjdYWlpTTGZON0s2dEJ1LW5ZcWVObWtlUUZNT0RObE4yeTdUcmtoNFlCQlR1YU9mVjU?oc=5>
+- 场馆: guancha.cn
+- 时间: 2026-05-26 03:45
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFA0bWZJT1B3RUNPUmlmR0tOUUFaWHBxTHhTQXFEMVMzMDQ0RnNNU3VhR3BmVllFU2daVS1YNXQzeTBqcHVSckJ6b1pkRzVQcmhBTVRBZU5JMW83VThWWVNGMlJRcEtGWGR4M2c?oc=5>
 
-### 特朗普就处置伊朗浓缩铀提出新选项
+### 参院共和党人质疑美伊核协议 特朗普回击批评者
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 联合早报
-- 时间: 2026-05-25 23:58
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBiUGRiekpRTGYzNDZvSkhsbEEtOWt3MlFzVlQtbHJ1ZnIzekNyMFlFOTR2dEFMYUFlZFRHR1hMNlVCcmJ3V0YzRzZXODVSNkpTT2J4Ni1aaWxibHdzcFR4d0ZnZHYxRXZzU0E?oc=5>
+- 时间: 2026-05-24 23:41
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9YaXFocm5oc1FfaC1BcGQxZ0VNYnZsQVhvSDhPcW5pWU1JRFJleDJ4RnN1a3JYLW4yTEZwaWVtLUZVa0NlZUJLV2I2cG1hOHVJLVF3NTJFblNrQS1EVXBTcDdTcTFyUQ?oc=5>
 
-### TRUMP/USDT
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Binance
-- 时间: 2026-05-23 16:27
-- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTFBZZy1TeGpKZWlEX1VjaWtzanQ5elJpQ3VFZFliRzJXQWU3N1M1YjcxX2FhT1p3MDBxWVBwcG1TY1BqUnBjUEdFcGFMSzJzVmxWX0I3aXR3N2JIekJpaERIZE1YeGpWZGVrUWZ1bzdkUlJ3MlBHakRhLXhDLWQ?oc=5>
-
-### 特朗普专机旁站姿笔直 中国军官：热浪拍背也不能动
+### Relationship between the U.S. and China is a very strong one: Trump
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-05-26 13:06
-- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxNdHljRGJUUWc3MXdpdllMY0lkQjg4dndGSlRvREJ1dGhQSUJmTDJYSVNSelJGTW5YMnRiZ1lBVlJicDNFSEZGM0pTdkN3bDdUOWYyMHE5b0ltX3o5YWFWejJka2V3MzQ1cWxmS3BSQXRGWFR2YWVKRnVTc3M5N3dIcDVaUQ?oc=5>
-
-### OFFICIAL TRUMP价格
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Binance
-- 时间: 2026-05-21 12:46
-- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE1IRy04NUxSd1BqeXpFaHRSZlRlWFJFbEtrblBURXFTOHVoeHhjTGVrZWpEcXhtdlZCQTJpYkxtZTRsMGx6SHBSemZJcTZQc1p1WlV4OUs0cTlzMmh2NV85Y05Xb2h4Y3lkNzlCbk9Sbmh1bFAtNGFFRDJ0Wno?oc=5>
+- 场馆: 澳門廣播電視股份有限公司
+- 时间: 2026-05-15 06:19
+- 链接: <https://news.google.com/rss/articles/CBMinwFBVV95cUxNNGNhNnZackJTOXNMT1oxWG0wOTdmTTNmOWl6X3FEbWZuLVJjY3FzQkliN0dGVWJyS19OZTJZem84clExMkN0RGg4OFFDYTNPaVlCT1dhR1dNWUJJX0tVdDdsdllZVzhBSUtWRF9FUjRpMFJLT3RNM2dqN2ZPajAxRE1LY1JlUXVVYzBjVmJLYmF4VVJYUVYxWTVaXzRSWFE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-26 22:03  (6 条)
+
+- **特朗普** | 美伊局势追踪：特朗普再称谈判“进展顺利” 双方据悉就资产解冻达成谅解 <https://news.google.com/rss/articles/CBMiSEFVX3lxTE5CMktzRzRGS0NvWVlfLWJHSnhwZ0I3YVYyUFJxSElfRk1pa0FrcDM2eFZONjVNLXEzdlpDajcwWE9zOXU2OHlaRg?oc=5>
+- **特朗普** | 伊朗指责美国违反停火协议 特朗普将召集内阁会议聚焦伊朗局势 <https://news.google.com/rss/articles/CBMisANBVV95cUxPaDFNN0FDeE0zQ0o1a19NbElfbnBuTldZc2JYVXlMTFZMbkNWSWxiRG9ia2VMdG5BYkl6MTkxb1Fib2dGY2ZMZ3VCcWhPbGhvRkhab3RqUGVDLThtTF9fLVN5ekpyMklKTklaY2lBTWJlcnRiZGwwQy04UUlpTzBoYk03b3A1NVRsQm44dzdWZWF1WEMyWjlEbTlqTkNMaElLNFVjWDRtZlYwV1NnOHl0djE2Sm1yNjZ1a3VwTUk5WUR1YVl5NHFzM3E3V1dpVnZ2Mzh1d0tWUkN3Sy1HUHBKLWgxNExFWWJpbGNmODVqRmpwY3R5TXBzZW1jblVoVnBYRGdTMDdkTFkycDFiZWFjbVJ4bVE3V05XekdVYjhiaVNHX1hSRnlhVmRsUVlwRUZfNWJTUTdvb0NuZ1BxRzQ1QkZXd0JwTHJleEJzNFhyWTVIcXR1OXctampIak5qQ0pMWEhHWkhKSGJJemVTeFBOUWVXZjNwRFU4bXNSTkRXLXMxVGowLWZKYWk2QmdBUzV4X2pNa250bEs4QnVXSkpmVjBMb0lCZjBPTDYwXzVRVks?oc=5>
+- **特朗普** | 特朗普称体检完美 但未透露具体细节 <https://news.google.com/rss/articles/CBMi_wFBVV95cUxNWUgzanQtd3Nvb3VSd2duQ0pIRF9rUUd0cjVodi1sX0doaTNHQXVjaDJVSmx3VnpMQmliWElpMDlFWXhmQ0ZJeUtPV3NQY214Y0JnMEt6V0pCYTl1dkh2VjNjX19PNlFvczA2Y3M5QU5zckFhdXF4M1gtQUo5Z2doUXhTbFE0X2xsWGgzSkNMbUFUVFVxeWQ5RGlLekNTYTBBdmExak5yVDZvZThEYnhXNnJNamNlNkZpR1VUb2V0Y0ZiVjJvbFB4Tmp6bnFQUGlvVlFaOUZQaHpzZGpteVU5TkNOeG1YWmVlNmpWSXBQNFU1b1VFQjJoTEo5WmQyR2s?oc=5>
+- **特朗普** | 40次提及！特朗普大吹宴会厅，被批无视美国人痛苦-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTFA0bWZJT1B3RUNPUmlmR0tOUUFaWHBxTHhTQXFEMVMzMDQ0RnNNU3VhR3BmVllFU2daVS1YNXQzeTBqcHVSckJ6b1pkRzVQcmhBTVRBZU5JMW83VThWWVNGMlJRcEtGWGR4M2c?oc=5>
+- **特朗普** | 参院共和党人质疑美伊核协议 特朗普回击批评者 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9YaXFocm5oc1FfaC1BcGQxZ0VNYnZsQVhvSDhPcW5pWU1JRFJleDJ4RnN1a3JYLW4yTEZwaWVtLUZVa0NlZUJLV2I2cG1hOHVJLVF3NTJFblNrQS1EVXBTcDdTcTFyUQ?oc=5>
+- **Trump** | Relationship between the U.S. and China is a very strong one: Trump <https://news.google.com/rss/articles/CBMinwFBVV95cUxNNGNhNnZackJTOXNMT1oxWG0wOTdmTTNmOWl6X3FEbWZuLVJjY3FzQkliN0dGVWJyS19OZTJZem84clExMkN0RGg4OFFDYTNPaVlCT1dhR1dNWUJJX0tVdDdsdllZVzhBSUtWRF9FUjRpMFJLT3RNM2dqN2ZPajAxRE1LY1JlUXVVYzBjVmJLYmF4VVJYUVYxWTVaXzRSWFE?oc=5>
 
 ### 2026-05-26 20:02  (8 条)
 
