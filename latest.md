@@ -1,64 +1,116 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-26 08:28**
-- 本轮扫到 2094 条, 新增 **6** 条
+- 最近更新: **2026-05-26 14:54**
+- 本轮扫到 2105 条, 新增 **11** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (11 条)
 
-### 特朗普就处置伊朗浓缩铀提出新选项
+### 结束两个月的付费独占：周杰伦新专辑《太阳之子》登陆苹果 Apple Music 国区
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-05-25 23:35
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBPNElROGhTYUlOM0RxOUZ2YW5hSzdCb1Rpam5iSkhsV1FjcFFFTlBOX0dLVU5xR0UzejNfM0UyanE0ai04eXVIMDZSRXpOUURhaWRpMHYxMUxfZzZTSlZ0Vnk5M0RTUW9KV0ZORTVQZ3VxUzJkMzE4WURORzBldHc?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://finance.sina.com.cn/tech/digi/2026-05-26/doc-inhzequv2414022.shtml>
 
-### 特朗普呼吁多国先签“亚伯拉罕协议” 沙特方面回应
+### 柏林飞鸿 - 美俄自我削弱 中国进一步崛起
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 光明网
-- 时间: 2026-05-26 00:40
-- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTFB4TWFIMk5VSkZuZHlvM1BseWZtcWxQY2dQS3RJS0hGcnFWSG93WHZuMVV4YWlLOF84WHQ1LUVKS3pJa2JJTGUzdlJFeVNqb0lIZHZqcmZJMWhmV3F5TVY3Z2Vn?oc=5>
+- 场馆: RFI
+- 时间: 2026-05-26 14:44
+- 链接: <https://news.google.com/rss/articles/CBMixgJBVV95cUxOVnRybTJfTmJYTUJDYnRMNnJXMmNNTmxDNmlMdHBWLXNpRkdyallKQ09JeWZSbUV1TjdnRUNreGFScndWWWJ1VklXb2R3Y2hHc0VWWEp0QVhOckRoZTQwZXdQaXZRSXJsOTY5dkFzeU9aaWNyQjRNMDhWMzFpSXpFLUlGMm1wRkFKZk1UMDFfOFRPa2RuZkN0dWgyNmNaZjA3V1FGVC0tT293bE9PM3RmcncwbHY4SEJzcnlRU1NQZ213WEZicnlrNWFDNXZKTjlrQnhfZEtJSUxhVi1UX0FhLUoxNHhsYlZkYVpyMWVhZnZZWFItZF9NT2MxX19iRjBmekVRUnNDaVBRLVJPTjVzU2NqX2l4MW1MUjFEQzVFc1hQM2hzMTdVRHRiRy1Cc01FTTJJSF81bEFZTEZPTzBsc0VXa1Rtdw?oc=5>
 
-### 特朗普“按头”6国承认以色列，巴基斯坦拒绝-观察者网
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-05-26 07:42
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1BVHVtLVplV2RCbGlzT05tcS1DNWExWVlzQW53NWo3dVZNUFZCY092Z3lGSVN0eEh3SVhQN2syYkd4bkx5enlybzVVeGM5WjZaWDJCUEgwOEp2NXg3SXF0cS1lMFpZUzl2TGc?oc=5>
-
-### 特朗普被批无视美国人的经济痛苦 宴会厅项目引争议
+### 孟维瞻：当特朗普和普京相继访华——“民族文明主义”如何“颠覆”大国关系？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-05-26 05:59
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBrNVFlbXZxekhIUS1aYzRGQzJtNk16a0dKRlRSWXU5T0N6SzRZcUphaDJEWS1xdmtvckxQV2VkdUFDT3RORzZmXzUwZ0lEWV9YdUlfVGRYTUVZY0RHaXVtcUZpSExNTHNyd08tXzBkeTg?oc=5>
+- 场馆: 风闻
+- 时间: 2026-05-26 00:02
+- 链接: <https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nNGJWS25ZczVNaTNMZU9Nd2xyNHpKSjBDem9SU212NWQ0cjJHN3RybDE1QWwwRW1GX3k1Y0otZmgtbE1LblhRc1c5YS1FV2IyMlBENUppVmV3ejQ?oc=5>
 
-### 美司法部：白宫附近枪击案是针对特朗普的暗杀图谋
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-05-25 23:47
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9yZTFacDlkdm9mRXoxUjNIVm9zTFpyN0t3QVZ2VTVyWjRuQjUwUVA3WnpiT1dxalFMOGFvWU9mbVBHRGRGUW0yMWdDVQ?oc=5>
-
-### 特朗普冰火两重天：一边准备办“地球最精彩演出”庆80岁生日，一边民调支持率创新低
+### 特习会后 中国人权案件前景不明
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Sina finance
-- 时间: 2026-05-26 06:37
-- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcGt0NlI0XzE4emx6a2hRbHpZU1F0amM0TnB4YUNpQjQ3QXc3dVBxZjFCNmZoanN2NHAxTG9tN04wSUVramtLVXNmUGFUekNmNFdtMlRwM2VSMjU5bmVNZFl5Sm5PYURGTG1qbHFQY21jVVRDUnJraW44S3FteXlqU0pNZ3hxeU9xU292OVJaMnZtWVJHeFRWdjNfMkNQNDRmUG1jaFRWa1NzUExILTZSRlczZ3lUNlFCX0c1U0Q4UzFWU2IwTW1JbmZubWM3TjdXWVE?oc=5>
+- 场馆: DW.com
+- 时间: 2026-05-26 14:44
+- 链接: <https://news.google.com/rss/articles/CBMi8gFBVV95cUxPYk8tMDR0REhqUUlNSGRXM2duU3RBWDA2VF8wM2c2eWFyMXptN0NkYzg0dVhPQ2hPRDRzbHI1M0RkOFk5Sy04YWY1VXdtaDJTeXhoS0RnYjBTOS1KWkNzSnltd3JVR1ZKZi1UVDR2MVI3bFM3SHJNQm50SmhraEFCN1huZXNYQjZ0Sm1vMll3VU9MTFJIUmNlVGUtNG5DN1JPQ1U3dE0wVVpkYzJFMHlHcktCT1d3N0hKeUZTTXZnLUpEVDJCQ1Fnb1BFNlEtTlVHWmUzYzVwcnZKbkxMamJqLVZhVXlEd095MVIwM1ZtTkVXUdIB8gFBVV95cUxQU2hDaVlRX0NxZFRKYjlqSnJIZ2Rxb0E3N0pvSUVVV1h0UW9iUmw3UTAzUFFFemFlbVZXZ3FMRmVSZmh5S0l0WmxkVGlzYmE2bmZyMWJjekgwTXdUc1ozemdpUFI4T3lpd0UxWFM3a28xTFpxRUNHeHNMNEI5QVBIOWdrakJwRWhCcWJvM3owRE44WVRDWVNTZ1VHWWhUY0xlNDN1SE5PRVVTSjE1bGE4Y0ktaHp6bERTb1N6UEtsazg1eURzQTZhak1NRndnRnUzcUVpUUZVbVFMaloxc2xyN09jcTVsRmRlVlJ0UGZKS0tjZw?oc=5>
+
+### 闻所未闻！“特朗普让美国科学家闭嘴”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-05-26 06:01
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFB0MFlIemFjYjhjUmhVRW9ycEJ6Y21VRkIzcWNKREJ0M01OcGpjZDVER3pQNGVGbjgwX0Q5N1FNVnNYWmRmanZQWGliMTA1S2F6a0xvY0Q2dUpfVlZ6NFk3dnhFN1ZRRWhDcGttRmFoREo?oc=5>
+
+### 特朗普过去24小时都忙了什么？（2026-05-26）
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-26 11:15
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxOMDBqQ203b2JQdGJTWkFVd19ibWpXcmlYZTNYUThRZW5xMUpxM2dPTEE1N2N2OW43RzA1a3VFWTFGc3doU2o0UUdYZ1BycW5FeWQtQl8yOE13YUhQZXhPckh5b000alkzV0YyUTMyTEt2Vnh3RXFaV2FxUndwYmIzMS12OGZUUDQ?oc=5>
+
+### 特朗普就处置伊朗浓缩铀提出新选项 释放这一重要信号
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 金融界
+- 时间: 2026-05-26 05:24
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE5JNFd5MW55cnNxVWJ1Sl9FRzVlQnhVOE1landUSnJvSkpmX1RqS1JEYzZjTTc3ZWtULWVVallpQzN3ZnBfSzFDcW9CV21fR3hsX3NwamM3THVlYk1fWGRRR2FMcURpYTY2MFVuXzNaSHY0Zw?oc=5>
+
+### 白宫枪击事件21岁枪手照片曝光，多次踩点问如何进白宫，曾对特朗普发出暴力威胁，去年闯禁区高喊：快逮捕我
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-05-24 04:58
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBxbkJBYVEzY011MUFUZFB6elYxbUJMdHMxdHJLUlJ2Yk1NYjc0bU5oTVZPMkpOOEoxa2REWDcwV0dOdVotdTRPTC1NSHg2Q0xPc3VqS3Ywem55RmxDSl9UMW8yTjhwczM2VU45V1FBQlVIa0o4WnptNg?oc=5>
+
+### TRUMP/USDT
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Binance
+- 时间: 2026-05-26 00:12
+- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTFBhVFJWYkJXSERZSzMzU0dEc3FJS1BzSG5XQ3hIQVhFQ1hRNmVIMVJHNkx5NHFlYWsxbG1PcUFrQkRQWjJrNFpDYkp2dDRRd3IzUGJnSzF3TlF3Z1pNUGhQN0FHalZnWFphM0h5RjF5Nmhpa3JCa2FsR2FSYmk?oc=5>
+
+### TRUMP/USDT
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Binance
+- 时间: 2026-05-22 02:09
+- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTFAwUHhib3l3WVVZS20tVlFrYkxmR25nRnBOMlVwNHkxTmZ5anhteGRHMWIxek9wUzNVMm5Id25vVGwtcl9LVVBlZ0ZXUVZZeVpqMVE4dnN0R1RKR3NKeHB5dTAtZ2hsc3liZ0daVXdxNnFBRXU3TDVUY2lsWQ?oc=5>
+
+### TRUMP/USDT
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Binance
+- 时间: 2026-05-21 18:31
+- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTFBwYmFUdnotblRSWS16dmhPTTFFbGdZUE9SSkpaWE9FYTFhcG9XbEdURXJ6U2sxYVY1MHVDWVNDeFREcHZaMHoybGRZZkNPVjZ5b1l3UFM2eUlvX0tkVUFpOVltQlRiZVBSZVNuSEtBVjlEZURFVzlYOXlReUU?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-26 14:54  (11 条)
+
+- **周杰伦** | 结束两个月的付费独占：周杰伦新专辑《太阳之子》登陆苹果 Apple Music 国区 <https://finance.sina.com.cn/tech/digi/2026-05-26/doc-inhzequv2414022.shtml>
+- **特朗普** | 柏林飞鸿 - 美俄自我削弱 中国进一步崛起 <https://news.google.com/rss/articles/CBMixgJBVV95cUxOVnRybTJfTmJYTUJDYnRMNnJXMmNNTmxDNmlMdHBWLXNpRkdyallKQ09JeWZSbUV1TjdnRUNreGFScndWWWJ1VklXb2R3Y2hHc0VWWEp0QVhOckRoZTQwZXdQaXZRSXJsOTY5dkFzeU9aaWNyQjRNMDhWMzFpSXpFLUlGMm1wRkFKZk1UMDFfOFRPa2RuZkN0dWgyNmNaZjA3V1FGVC0tT293bE9PM3RmcncwbHY4SEJzcnlRU1NQZ213WEZicnlrNWFDNXZKTjlrQnhfZEtJSUxhVi1UX0FhLUoxNHhsYlZkYVpyMWVhZnZZWFItZF9NT2MxX19iRjBmekVRUnNDaVBRLVJPTjVzU2NqX2l4MW1MUjFEQzVFc1hQM2hzMTdVRHRiRy1Cc01FTTJJSF81bEFZTEZPTzBsc0VXa1Rtdw?oc=5>
+- **特朗普** | 孟维瞻：当特朗普和普京相继访华——“民族文明主义”如何“颠覆”大国关系？ <https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nNGJWS25ZczVNaTNMZU9Nd2xyNHpKSjBDem9SU212NWQ0cjJHN3RybDE1QWwwRW1GX3k1Y0otZmgtbE1LblhRc1c5YS1FV2IyMlBENUppVmV3ejQ?oc=5>
+- **特朗普** | 特习会后 中国人权案件前景不明 <https://news.google.com/rss/articles/CBMi8gFBVV95cUxPYk8tMDR0REhqUUlNSGRXM2duU3RBWDA2VF8wM2c2eWFyMXptN0NkYzg0dVhPQ2hPRDRzbHI1M0RkOFk5Sy04YWY1VXdtaDJTeXhoS0RnYjBTOS1KWkNzSnltd3JVR1ZKZi1UVDR2MVI3bFM3SHJNQm50SmhraEFCN1huZXNYQjZ0Sm1vMll3VU9MTFJIUmNlVGUtNG5DN1JPQ1U3dE0wVVpkYzJFMHlHcktCT1d3N0hKeUZTTXZnLUpEVDJCQ1Fnb1BFNlEtTlVHWmUzYzVwcnZKbkxMamJqLVZhVXlEd095MVIwM1ZtTkVXUdIB8gFBVV95cUxQU2hDaVlRX0NxZFRKYjlqSnJIZ2Rxb0E3N0pvSUVVV1h0UW9iUmw3UTAzUFFFemFlbVZXZ3FMRmVSZmh5S0l0WmxkVGlzYmE2bmZyMWJjekgwTXdUc1ozemdpUFI4T3lpd0UxWFM3a28xTFpxRUNHeHNMNEI5QVBIOWdrakJwRWhCcWJvM3owRE44WVRDWVNTZ1VHWWhUY0xlNDN1SE5PRVVTSjE1bGE4Y0ktaHp6bERTb1N6UEtsazg1eURzQTZhak1NRndnRnUzcUVpUUZVbVFMaloxc2xyN09jcTVsRmRlVlJ0UGZKS0tjZw?oc=5>
+- **特朗普** | 闻所未闻！“特朗普让美国科学家闭嘴” <https://news.google.com/rss/articles/CBMicEFVX3lxTFB0MFlIemFjYjhjUmhVRW9ycEJ6Y21VRkIzcWNKREJ0M01OcGpjZDVER3pQNGVGbjgwX0Q5N1FNVnNYWmRmanZQWGliMTA1S2F6a0xvY0Q2dUpfVlZ6NFk3dnhFN1ZRRWhDcGttRmFoREo?oc=5>
+- **特朗普** | 特朗普过去24小时都忙了什么？（2026-05-26） <https://news.google.com/rss/articles/CBMihwFBVV95cUxOMDBqQ203b2JQdGJTWkFVd19ibWpXcmlYZTNYUThRZW5xMUpxM2dPTEE1N2N2OW43RzA1a3VFWTFGc3doU2o0UUdYZ1BycW5FeWQtQl8yOE13YUhQZXhPckh5b000alkzV0YyUTMyTEt2Vnh3RXFaV2FxUndwYmIzMS12OGZUUDQ?oc=5>
+- **特朗普** | 特朗普就处置伊朗浓缩铀提出新选项 释放这一重要信号 <https://news.google.com/rss/articles/CBMickFVX3lxTE5JNFd5MW55cnNxVWJ1Sl9FRzVlQnhVOE1landUSnJvSkpmX1RqS1JEYzZjTTc3ZWtULWVVallpQzN3ZnBfSzFDcW9CV21fR3hsX3NwamM3THVlYk1fWGRRR2FMcURpYTY2MFVuXzNaSHY0Zw?oc=5>
+- **特朗普** | 白宫枪击事件21岁枪手照片曝光，多次踩点问如何进白宫，曾对特朗普发出暴力威胁，去年闯禁区高喊：快逮捕我 <https://news.google.com/rss/articles/CBMieEFVX3lxTFBxbkJBYVEzY011MUFUZFB6elYxbUJMdHMxdHJLUlJ2Yk1NYjc0bU5oTVZPMkpOOEoxa2REWDcwV0dOdVotdTRPTC1NSHg2Q0xPc3VqS3Ywem55RmxDSl9UMW8yTjhwczM2VU45V1FBQlVIa0o4WnptNg?oc=5>
+- **Trump** | TRUMP/USDT <https://news.google.com/rss/articles/CBMifEFVX3lxTFBhVFJWYkJXSERZSzMzU0dEc3FJS1BzSG5XQ3hIQVhFQ1hRNmVIMVJHNkx5NHFlYWsxbG1PcUFrQkRQWjJrNFpDYkp2dDRRd3IzUGJnSzF3TlF3Z1pNUGhQN0FHalZnWFphM0h5RjF5Nmhpa3JCa2FsR2FSYmk?oc=5>
+- **Trump** | TRUMP/USDT <https://news.google.com/rss/articles/CBMie0FVX3lxTFAwUHhib3l3WVVZS20tVlFrYkxmR25nRnBOMlVwNHkxTmZ5anhteGRHMWIxek9wUzNVMm5Id25vVGwtcl9LVVBlZ0ZXUVZZeVpqMVE4dnN0R1RKR3NKeHB5dTAtZ2hsc3liZ0daVXdxNnFBRXU3TDVUY2lsWQ?oc=5>
+- **Trump** | TRUMP/USDT <https://news.google.com/rss/articles/CBMifEFVX3lxTFBwYmFUdnotblRSWS16dmhPTTFFbGdZUE9SSkpaWE9FYTFhcG9XbEdURXJ6U2sxYVY1MHVDWVNDeFREcHZaMHoybGRZZkNPVjZ5b1l3UFM2eUlvX0tkVUFpOVltQlRiZVBSZVNuSEtBVjlEZURFVzlYOXlReUU?oc=5>
 
 ### 2026-05-26 08:28  (6 条)
 
