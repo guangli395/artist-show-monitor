@@ -1,80 +1,73 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-26 04:41**
-- 本轮扫到 2088 条, 新增 **8** 条
+- 最近更新: **2026-05-26 08:28**
+- 本轮扫到 2094 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (6 条)
 
-### 特朗普称与伊朗的谈判进展顺利
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 央视网
-- 时间: 2026-05-25 20:31
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE4weFhaWGszU0hDUGpjbFRRLVZBUVM3LTBNT2pmUVlvU2thSEpsclY3RlJDU0lZaGo5MXdEclhlYkdnenBXU1NxNHVlWXZqcERaVWoxeGlUWGtPeTBod2ZSSHlBTUFFWF93V2pybGVtSVl5RnRIYjR5Vg?oc=5>
-
-### 特朗普称伊朗浓缩铀可运到其他地点销毁
+### 特朗普就处置伊朗浓缩铀提出新选项
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-25 23:26
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxOdm41MkhMQ192T0tEZHpycWo5cXhzRHFkN0tBSWc5UmI5N0xhcWNsUHE0dm9oZzNCYjRyeDl0X2wwRE5JcmhzMVp2MElMMkc5cjdxQmJUdzFuUVRqZmxjLXMwaWxWemkxQllWNlV5T3hjNlVpVHNoNF83NFpzTDlWNC11NFNHV0xMSk9ObjFzdzM4Z3NmdFgtaA?oc=5>
+- 场馆: 新华网
+- 时间: 2026-05-25 23:35
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBPNElROGhTYUlOM0RxOUZ2YW5hSzdCb1Rpam5iSkhsV1FjcFFFTlBOX0dLVU5xR0UzejNfM0UyanE0ai04eXVIMDZSRXpOUURhaWRpMHYxMUxfZzZTSlZ0Vnk5M0RTUW9KV0ZORTVQZ3VxUzJkMzE4WURORzBldHc?oc=5>
 
-### 特朗普要求先签“亚伯拉罕协议” 沙特方面回应
+### 特朗普呼吁多国先签“亚伯拉罕协议” 沙特方面回应
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-05-25 21:18
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE9zbEtHOE1tdVB6ZzJMSU0tTmZLNElkUmdWYVNucXd3TlhoQW9fVnAxRWJTSkdZOHhhREQwT21Ib0s2U20tb0U2VzBLU3k2ZGUtUkYzNG9WZ0Q3Y3JDLWZzaEhGeVlpZS15d201cW40cG1kVHpX?oc=5>
+- 场馆: 光明网
+- 时间: 2026-05-26 00:40
+- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTFB4TWFIMk5VSkZuZHlvM1BseWZtcWxQY2dQS3RJS0hGcnFWSG93WHZuMVV4YWlLOF84WHQ1LUVKS3pJa2JJTGUzdlJFeVNqb0lIZHZqcmZJMWhmV3F5TVY3Z2Vn?oc=5>
 
-### 特朗普：强制要求中东多国立即签署
+### 特朗普“按头”6国承认以色列，巴基斯坦拒绝-观察者网
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 观察者
-- 时间: 2026-05-25 13:26
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZcVNDM0tDTG13bjNTeWxGMWJCZjh5UXJyZTdHYy1NT1RYSzJLYTQwd3l6RHNZcHZZTUJMMVFfQWItbXBzRENXbV9BVGgyVkhoNUV3d2RkT2M4bmdMUG1HNDRpZ1NLWGtRZHc?oc=5>
+- 时间: 2026-05-26 07:42
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1BVHVtLVplV2RCbGlzT05tcS1DNWExWVlzQW53NWo3dVZNUFZCY092Z3lGSVN0eEh3SVhQN2syYkd4bkx5enlybzVVeGM5WjZaWDJCUEgwOEp2NXg3SXF0cS1lMFpZUzl2TGc?oc=5>
 
-### 40次提及！选前还在大吹宴会厅，特朗普被批无视美国人的经济痛苦
+### 特朗普被批无视美国人的经济痛苦 宴会厅项目引争议
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-26 03:46
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1YSXcydHpVMC1jcVFrUk41cnlLMWFHcWI5cmZRWVBWWFpMZkdVVHhkdi04ZzBfRlh4ZGxCSmoyT1BaTnJLeFZzVUsycWZvRG9xYlVpTE1mV1V1eWtzWTVBX202dW5wNFNBSFZtSHhHM2o2TXZIeWJmUA?oc=5>
+- 场馆: 中华网
+- 时间: 2026-05-26 05:59
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBrNVFlbXZxekhIUS1aYzRGQzJtNk16a0dKRlRSWXU5T0N6SzRZcUphaDJEWS1xdmtvckxQV2VkdUFDT3RORzZmXzUwZ0lEWV9YdUlfVGRYTUVZY0RHaXVtcUZpSExNTHNyd08tXzBkeTg?oc=5>
 
-### 特朗普冰火两重天：一边准备办“地球最精彩演出”庆生，一边民调支持率创新低
+### 美司法部：白宫附近枪击案是针对特朗普的暗杀图谋
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-05-26 04:35
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE42ZHE0eXJkZ1FyaGw1clZYWmhiYnNyVzZ2WVFHNW9mLS1aZEo0aERVN05SZFUwZXJaWXctdmVwa0JocWcxWmp0T01GZ20?oc=5>
+- 时间: 2026-05-25 23:47
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9yZTFacDlkdm9mRXoxUjNIVm9zTFpyN0t3QVZ2VTVyWjRuQjUwUVA3WnpiT1dxalFMOGFvWU9mbVBHRGRGUW0yMWdDVQ?oc=5>
 
-### TRUMP/USDT
+### 特朗普冰火两重天：一边准备办“地球最精彩演出”庆80岁生日，一边民调支持率创新低
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Binance
-- 时间: 2026-05-25 18:36
-- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTE1XcUlMNldydVg0blRMWDdqZXFNRlpDZG1MeUtUSVhxNm5Ta0pjXzRUZG1PWTNDSkJXRVlxLUVySUpwMmhIOVlfM2hVMnNHQ0xkdXVtVDE4YnpFQ0xKeE0yNGtYczJ5Z3NKTlUxVVJibTNTTC1FWFVNenlrRQ?oc=5>
-
-### 特朗普在霍尔木兹袭击报道中宣扬伊朗取得进展
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-05-26 01:41
-- 链接: <https://news.google.com/rss/articles/CBMiogFBVV95cUxQT1VqNFdMSjhHMjdJNmt6dUxiWmd2ZDZfLXZPLXl3OXVHempVa3pnUTk2dVRLZkFNRmpXYWpKRy1zQUVQd0JiTnpQOU9KaERSSHNzWjloLTk0dkNBM2MxVnU5dmhOczdPSFdidDJLbW1nSExSbU8tempseUp6c1Y1QUpiTlpHOHlJRXNzQXBTSEVHRGh0ZTFPdVdUZjBFVjJhdFE?oc=5>
+- 场馆: Sina finance
+- 时间: 2026-05-26 06:37
+- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcGt0NlI0XzE4emx6a2hRbHpZU1F0amM0TnB4YUNpQjQ3QXc3dVBxZjFCNmZoanN2NHAxTG9tN04wSUVramtLVXNmUGFUekNmNFdtMlRwM2VSMjU5bmVNZFl5Sm5PYURGTG1qbHFQY21jVVRDUnJraW44S3FteXlqU0pNZ3hxeU9xU292OVJaMnZtWVJHeFRWdjNfMkNQNDRmUG1jaFRWa1NzUExILTZSRlczZ3lUNlFCX0c1U0Q4UzFWU2IwTW1JbmZubWM3TjdXWVE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-26 08:28  (6 条)
+
+- **特朗普** | 特朗普就处置伊朗浓缩铀提出新选项 <https://news.google.com/rss/articles/CBMif0FVX3lxTFBPNElROGhTYUlOM0RxOUZ2YW5hSzdCb1Rpam5iSkhsV1FjcFFFTlBOX0dLVU5xR0UzejNfM0UyanE0ai04eXVIMDZSRXpOUURhaWRpMHYxMUxfZzZTSlZ0Vnk5M0RTUW9KV0ZORTVQZ3VxUzJkMzE4WURORzBldHc?oc=5>
+- **特朗普** | 特朗普呼吁多国先签“亚伯拉罕协议” 沙特方面回应 <https://news.google.com/rss/articles/CBMiYkFVX3lxTFB4TWFIMk5VSkZuZHlvM1BseWZtcWxQY2dQS3RJS0hGcnFWSG93WHZuMVV4YWlLOF84WHQ1LUVKS3pJa2JJTGUzdlJFeVNqb0lIZHZqcmZJMWhmV3F5TVY3Z2Vn?oc=5>
+- **特朗普** | 特朗普“按头”6国承认以色列，巴基斯坦拒绝-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE1BVHVtLVplV2RCbGlzT05tcS1DNWExWVlzQW53NWo3dVZNUFZCY092Z3lGSVN0eEh3SVhQN2syYkd4bkx5enlybzVVeGM5WjZaWDJCUEgwOEp2NXg3SXF0cS1lMFpZUzl2TGc?oc=5>
+- **特朗普** | 特朗普被批无视美国人的经济痛苦 宴会厅项目引争议 <https://news.google.com/rss/articles/CBMicEFVX3lxTFBrNVFlbXZxekhIUS1aYzRGQzJtNk16a0dKRlRSWXU5T0N6SzRZcUphaDJEWS1xdmtvckxQV2VkdUFDT3RORzZmXzUwZ0lEWV9YdUlfVGRYTUVZY0RHaXVtcUZpSExNTHNyd08tXzBkeTg?oc=5>
+- **特朗普** | 美司法部：白宫附近枪击案是针对特朗普的暗杀图谋 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9yZTFacDlkdm9mRXoxUjNIVm9zTFpyN0t3QVZ2VTVyWjRuQjUwUVA3WnpiT1dxalFMOGFvWU9mbVBHRGRGUW0yMWdDVQ?oc=5>
+- **特朗普** | 特朗普冰火两重天：一边准备办“地球最精彩演出”庆80岁生日，一边民调支持率创新低 <https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcGt0NlI0XzE4emx6a2hRbHpZU1F0amM0TnB4YUNpQjQ3QXc3dVBxZjFCNmZoanN2NHAxTG9tN04wSUVramtLVXNmUGFUekNmNFdtMlRwM2VSMjU5bmVNZFl5Sm5PYURGTG1qbHFQY21jVVRDUnJraW44S3FteXlqU0pNZ3hxeU9xU292OVJaMnZtWVJHeFRWdjNfMkNQNDRmUG1jaFRWa1NzUExILTZSRlczZ3lUNlFCX0c1U0Q4UzFWU2IwTW1JbmZubWM3TjdXWVE?oc=5>
 
 ### 2026-05-26 04:41  (8 条)
 
