@@ -1,48 +1,82 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-27 22:15**
-- 本轮扫到 2193 条, 新增 **4** 条
+- 最近更新: **2026-05-27 23:43**
+- 本轮扫到 2200 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (7 条)
 
-### 特朗普：伊朗即使放弃高浓缩铀也无法获得解除制裁
+### 特朗普总统：伊朗“在快耗尽资源的状态下进行谈判”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 央视网
-- 时间: 2026-05-27 20:19
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBjSmphdk9Ody1tc1JFb2twWHQ3UUItc181cjZ0V2VYT3l2NThxRnVRSGRBN2NjM19hXzk0WTNLbzJud010SFVxd3pDVVNHd2NTNzAyczZjYk5nTlR0YkpVLWg0TXUzOGZLY2JMQi1ycUxXNEdibnlXaw?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-05-27 23:00
+- 链接: <https://news.google.com/rss/articles/CBMikAFBVV95cUxNYmx1NzVMSFdpdzZQT3FEM1R2QjlaTkRtVFRqV0t2WmRsT2ZVMW4yVHp1MjN3eXpJN0VNcWpoVnEzSjRmVmNpTWVaRV95ekdvN2hEOHhkdEU0N3UtSDcxUXUxQk9ZQkVaZTMzOGlwOE1zMWkyd3k1UVd6ZVA0Y3RIZGRmUHp1TEZuZnJrWHA4LTXSAZMBQVVfeXFMTk55RHl3V0taMEFTMEdiN1loUUVuN09NcnItbjlDa3dReHJ5SlhrSnNXcllsWUV2YkJUcktqSVJQWDBBWS1PS1BNMHlZWnhSRnVvTFJYQmE3aEZCTXlXM0pJN3F5bUJNNGIyeDFsX2xsR3o0TUY5eFItSC1yUmZiYkp3QjRGQnRVS0FQWXlPdlZUa1A0?oc=5>
+
+### 国际观察｜捆绑推销“亚伯拉罕协议”？特朗普的算盘难打成
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新蓝网
+- 时间: 2026-05-27 22:35
+- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE1uZDE1YTN4YmMwZ3Z5UjFGMHlsbGhyZG95TjBLZExuWUZjbS1FYTF1LVQ0V0RneEkzQ0tEbnNJUEQ5RUZkWG9NMVBLWGVMYlE?oc=5>
 
 ### 特朗普：对目前同伊朗谈判进程“不满意”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-05-27 16:53
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9NU1UxZG44RmtLSThRNFIwOG1FRFNDd1gwUWxlTlV3eUt3UWZ6TVU2b0g1LWZZbDVqOWRDUjZZTGlwRUlOOF8zUDZjY3VoVWlobENBWVpKb2pEekZRX09xOUx6XzJwbHUxUWx2NUN6RUU4elNlYjc3MjVNejdCbTg?oc=5>
+- 场馆: 中国青年网
+- 时间: 2026-05-27 22:30
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBSWkhDc2M4MDdFZkMteGNqaHBHbHkta2IwblZER2MyYm5GRzVtVXJ3SExfMHVONl94S2ZsbDV4YjlwWlF3ejRNUUdwaDl3WnhoN1lhakdNMmZsRVFyY0F4MjBWX2Y?oc=5>
 
-### 特朗普1~3月买卖美股3700笔，是去年10倍
+### 要闻分析 - 伊朗与美国还在撕扯什么
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 日经中文网
-- 时间: 2026-05-27 03:31
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxObmNveFRUXzN6OHd4UEk4RzlCaDRaMlY3MzNSUFhOemltX0FvcG9jSTdRZGExb0FkMFk2WS1pNTZRMXIxRU5wLTRMXzAtdzhCVktrSUJVZGVlQWpiRDBPS2hFa1ZJUllPR1J4NkpLUExZcDdJckVGWnJFSVN0WUdsV0xPREw5X2M?oc=5>
+- 场馆: RFI
+- 时间: 2026-05-27 21:38
+- 链接: <https://news.google.com/rss/articles/CBMirAJBVV95cUxNbzJUb2RNZE9oZjlhVWxaQ3dxczFZN3JjcF9RcFVDSk9wWl9nWHNhSnZ2Y19aQnlnTFVRdXEtVEpLNEdYU2hmOTdKeEJKQUMwNkFfaFZub0N0VWJ3SGhnYWxOZG5HUFYwcXQ4d2c1SFhVOE4tczNTMnB6VFVLUlJhMkl1UXNlaXFvcmxGb0Q3ZVJUNWlQT3FaQXBsSUR3ZFVLTnZ5UjVTeV93X0JlUEY2WS1Bbks4VUhaRVFKXzFjUGtBdkxtNVlPMnN5RHl1elR0NkJvWHY2Z1ZINXNyRlF1QVdnUTB1Z2c1R3c3aGxIVmgwaFJQdE9XRDVJOTJVUm1JWl9wa0hoRU5JS1BmZ1Myd1RYczJRWnJ3VVpjZnFVRmlpaFVzeEFOUm5zYWM?oc=5>
 
-### TRUMP/USDT
+### 临时改变举办地点，美媒列出关键问题，特朗普内阁会议商谈美伊协议
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Binance
-- 时间: 2026-05-27 10:36
-- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE1GQWsxampOZGpLd1NhMFVtWEJMaktKUEtxWXN5cW53dm9BN0RQZjVlZ01TZFBWSkhSeWVnaTI2UXNEX2RiaEpJZFhrSy1qRFptVmlIeU95S21POGxQcUxLMVpTYlJxRW9PblJka2IxWWVieDFObWRIWDVrV1E?oc=5>
+- 场馆: 环球网
+- 时间: 2026-05-27 07:33
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTFBza2lvZjlGMEo0Qlc0LTBneUpmYkgyWmItd1lmOURIQ2JyMmNGZjhqRHYwX2Rzdl9XMk1uQUVFbmhBbkVnZlNJa29PYjlYakJZVDcyU1VnUEI?oc=5>
+
+### 特朗普称霍尔木兹海峡不归任何人管 对阿曼发出警告
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: chinanews.com.cn
+- 时间: 2026-05-27 22:50
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5pa2Zab1haTVRrLW0wMUpaNXNaVDFSR3lzS2J1UXpHbnFQSkNNNU81UUhhc2hHT181SXRhQzU1WUVYWTF2QkZiWV8zMU40NnZmTDhxZTl4TnFwcFpZNjhBelFFVi05MHNC?oc=5>
+
+### 特朗普称美伊尚未达成协议，白宫否认伊朗媒体说法
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-27 20:28
+- 链接: <https://news.google.com/rss/articles/CBMinwJBVV95cUxPX3VQQ2dYOW84aHExNi1IWW0tUHVvSGpTeEU0cGwteG85RVFTMXJYRjNZNWJFVldlelVIbmMwU1c0RzFpMDBhUFVKWlRKYW0wZllaUi1meXc4bGFxNThuLUJ0M3A4M0gxc2hWV3NFYkZpeUNTdFVmX3dKZkJ5d0VyekVuVTFfMTdUWVQtWk94cjc0MWQ2aHk2Z3NNWFRkamxOX1NHM3k4RjhoYy1hcUl6QkN2TTEyTXk1M1V4V1oxNTYyMzJpUk1lUV9JNjdVVUx6SFF3bHNDbjlSQjE1bFY3OVlJMDc2d3pERk1qZEdGb05kVjhDSEFfdkY0cHhZLVA2ckJDYWxtRlpxaGtoMzBFSkdLdThGY0d3U3dnSU02Zw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-27 23:43  (7 条)
+
+- **特朗普** | 特朗普总统：伊朗“在快耗尽资源的状态下进行谈判” <https://news.google.com/rss/articles/CBMikAFBVV95cUxNYmx1NzVMSFdpdzZQT3FEM1R2QjlaTkRtVFRqV0t2WmRsT2ZVMW4yVHp1MjN3eXpJN0VNcWpoVnEzSjRmVmNpTWVaRV95ekdvN2hEOHhkdEU0N3UtSDcxUXUxQk9ZQkVaZTMzOGlwOE1zMWkyd3k1UVd6ZVA0Y3RIZGRmUHp1TEZuZnJrWHA4LTXSAZMBQVVfeXFMTk55RHl3V0taMEFTMEdiN1loUUVuN09NcnItbjlDa3dReHJ5SlhrSnNXcllsWUV2YkJUcktqSVJQWDBBWS1PS1BNMHlZWnhSRnVvTFJYQmE3aEZCTXlXM0pJN3F5bUJNNGIyeDFsX2xsR3o0TUY5eFItSC1yUmZiYkp3QjRGQnRVS0FQWXlPdlZUa1A0?oc=5>
+- **特朗普** | 国际观察｜捆绑推销“亚伯拉罕协议”？特朗普的算盘难打成 <https://news.google.com/rss/articles/CBMiT0FVX3lxTE1uZDE1YTN4YmMwZ3Z5UjFGMHlsbGhyZG95TjBLZExuWUZjbS1FYTF1LVQ0V0RneEkzQ0tEbnNJUEQ5RUZkWG9NMVBLWGVMYlE?oc=5>
+- **特朗普** | 特朗普：对目前同伊朗谈判进程“不满意” <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBSWkhDc2M4MDdFZkMteGNqaHBHbHkta2IwblZER2MyYm5GRzVtVXJ3SExfMHVONl94S2ZsbDV4YjlwWlF3ejRNUUdwaDl3WnhoN1lhakdNMmZsRVFyY0F4MjBWX2Y?oc=5>
+- **特朗普** | 要闻分析 - 伊朗与美国还在撕扯什么 <https://news.google.com/rss/articles/CBMirAJBVV95cUxNbzJUb2RNZE9oZjlhVWxaQ3dxczFZN3JjcF9RcFVDSk9wWl9nWHNhSnZ2Y19aQnlnTFVRdXEtVEpLNEdYU2hmOTdKeEJKQUMwNkFfaFZub0N0VWJ3SGhnYWxOZG5HUFYwcXQ4d2c1SFhVOE4tczNTMnB6VFVLUlJhMkl1UXNlaXFvcmxGb0Q3ZVJUNWlQT3FaQXBsSUR3ZFVLTnZ5UjVTeV93X0JlUEY2WS1Bbks4VUhaRVFKXzFjUGtBdkxtNVlPMnN5RHl1elR0NkJvWHY2Z1ZINXNyRlF1QVdnUTB1Z2c1R3c3aGxIVmgwaFJQdE9XRDVJOTJVUm1JWl9wa0hoRU5JS1BmZ1Myd1RYczJRWnJ3VVpjZnFVRmlpaFVzeEFOUm5zYWM?oc=5>
+- **特朗普** | 临时改变举办地点，美媒列出关键问题，特朗普内阁会议商谈美伊协议 <https://news.google.com/rss/articles/CBMiWEFVX3lxTFBza2lvZjlGMEo0Qlc0LTBneUpmYkgyWmItd1lmOURIQ2JyMmNGZjhqRHYwX2Rzdl9XMk1uQUVFbmhBbkVnZlNJa29PYjlYakJZVDcyU1VnUEI?oc=5>
+- **特朗普** | 特朗普称霍尔木兹海峡不归任何人管 对阿曼发出警告 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5pa2Zab1haTVRrLW0wMUpaNXNaVDFSR3lzS2J1UXpHbnFQSkNNNU81UUhhc2hHT181SXRhQzU1WUVYWTF2QkZiWV8zMU40NnZmTDhxZTl4TnFwcFpZNjhBelFFVi05MHNC?oc=5>
+- **特朗普** | 特朗普称美伊尚未达成协议，白宫否认伊朗媒体说法 <https://news.google.com/rss/articles/CBMinwJBVV95cUxPX3VQQ2dYOW84aHExNi1IWW0tUHVvSGpTeEU0cGwteG85RVFTMXJYRjNZNWJFVldlelVIbmMwU1c0RzFpMDBhUFVKWlRKYW0wZllaUi1meXc4bGFxNThuLUJ0M3A4M0gxc2hWV3NFYkZpeUNTdFVmX3dKZkJ5d0VyekVuVTFfMTdUWVQtWk94cjc0MWQ2aHk2Z3NNWFRkamxOX1NHM3k4RjhoYy1hcUl6QkN2TTEyTXk1M1V4V1oxNTYyMzJpUk1lUV9JNjdVVUx6SFF3bHNDbjlSQjE1bFY3OVlJMDc2d3pERk1qZEdGb05kVjhDSEFfdkY0cHhZLVA2ckJDYWxtRlpxaGtoMzBFSkdLdThGY0d3U3dnSU02Zw?oc=5>
 
 ### 2026-05-27 22:15  (4 条)
 
