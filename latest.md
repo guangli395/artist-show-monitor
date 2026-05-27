@@ -1,17 +1,19 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-27 20:07**
-- 本轮扫到 2189 条, 新增 **10** 条
+- 最近更新: **2026-05-27 22:15**
+- 本轮扫到 2193 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (10 条)
+## 本轮新发现 (4 条)
 
-### 别克官宣周杰伦成为MVP家族代言人，至境世家万家版41.99万元起
+### 特朗普：伊朗即使放弃高浓缩铀也无法获得解除制裁
 
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857141524_1d452771401902uolo.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 央视网
+- 时间: 2026-05-27 20:19
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBjSmphdk9Ody1tc1JFb2twWHQ3UUItc181cjZ0V2VYT3l2NThxRnVRSGRBN2NjM19hXzk0WTNLbzJud010SFVxd3pDVVNHd2NTNzAyczZjYk5nTlR0YkpVLWg0TXUzOGZLY2JMQi1ycUxXNEdibnlXaw?oc=5>
 
 ### 特朗普：对目前同伊朗谈判进程“不满意”
 
@@ -19,76 +21,35 @@
 - 来源: `googlenews`
 - 场馆: 新华网
 - 时间: 2026-05-27 16:53
-- 链接: <https://news.google.com/rss/articles/CBMid0FVX3lxTE16QTFzdHdfbmM1TzZDb1JiM0F6a04wX3RBalA1Ukt1UllFS0VPSlBZNkJRU0tqUGw1LWcySG5ZQVdtUnQ5ZGdRTktPRU1NTHczTDd4WEZNaURsNFdHQzBBU3FEY1RfV040aGdBakxtNGIyWmpJdzNV?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9NU1UxZG44RmtLSThRNFIwOG1FRFNDd1gwUWxlTlV3eUt3UWZ6TVU2b0g1LWZZbDVqOWRDUjZZTGlwRUlOOF8zUDZjY3VoVWlobENBWVpKb2pEekZRX09xOUx6XzJwbHUxUWx2NUN6RUU4elNlYjc3MjVNejdCbTg?oc=5>
 
-### 特朗普总统：伊朗别无选择，只能与美国继续谈判
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-05-27 18:54
-- 链接: <https://news.google.com/rss/articles/CBMisAFBVV95cUxNNGVWZXR3bTBWZjNFb0Z6VTBaek1rSzVNUTJlXzE5bUVhSERENjExeVQtaVpEaHBmczNYazdVVUtvaW85dEhyYlFLOWM4bjYtNThCWHota25pTy1KR2MxWGJLR1hDMDg0RE9mNS0wQWpUbWhfdmRvRHp2ZXdJQzhYUVBueFF4OUZvT3lmdkNEUlJOM0lMVWl2YjNSb284R3BKcmRQWm94aVByX05haURqUNIBswFBVV95cUxQdDdpY1dGY1ZINlJaS1hoa2pwRWRwY0NLaEloS0pXMVlwS3JwSS1FazU4Y3lUeDRDcHFGc2ZrUkx1djNld2VQTXNiWjhEYVZaTXNWd1ZpcFd3MGF6UUExZ0tzc244X1c3VV94VXJSUzBoSXVjX0FZRVdOZUhNdGk3bFBqdV9mOGJJQVE2cGFNTU1pWXh0dVBMS210ZkZGSEcydEZHUGFMSF96REJvY0NsWEEzOA?oc=5>
-
-### 特朗普反对伊朗控制霍尔木兹海峡 美伊谈判再遇关键分歧
+### 特朗普1~3月买卖美股3700笔，是去年10倍
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-27 19:29
-- 链接: <https://news.google.com/rss/articles/CBMimgJBVV95cUxQQzgySjlUbl9oaHJMbkUzdnR4dU1QNzViZkVvSUdFMjhuZVlOLURKZjRkTy1TbXVkdU42YXlIWE1Yd1JRc054UkZkc3pLaXpRNnBheWE0OG5uM3p5OWNLX3BIVUZnckNCZ0FodjFOdlE5cXpURXBORjFpUXZWM0RDSzNtZmFSQy1CdzZ1Z2lKb3ZZU3M5Ti1XWS1Vc1lrWHZ1VVZha3pKX3lOaVh0aUx3M3FxaWdlNVhjbEdPWHg2d19nSV9Dc3JRMXlOUFdrT0cyUHB2RWRhM016bk9LZm8xTHpjZ3pmQmRhSzF1ZEpsTFF4NGtueGlyQWZsQVdwNVU3SWl2YWkzNXhlM1NPcDZFRlV2NktzZ3JpMmc?oc=5>
+- 场馆: 日经中文网
+- 时间: 2026-05-27 03:31
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxObmNveFRUXzN6OHd4UEk4RzlCaDRaMlY3MzNSUFhOemltX0FvcG9jSTdRZGExb0FkMFk2WS1pNTZRMXIxRU5wLTRMXzAtdzhCVktrSUJVZGVlQWpiRDBPS2hFa1ZJUllPR1J4NkpLUExZcDdJckVGWnJFSVN0WUdsV0xPREw5X2M?oc=5>
 
-### 从特朗普到普京：北京正在重新布局战略空间？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: Radio Free Asia
-- 时间: 2026-05-27 17:50
-- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxPazg1bGx6dlRaeDhldHNwTGFmRHVKVURpNjhZQ0dFZDZ3cmUyS3RmUlBhOUR0eEcySkoxUVBpWUo5Y0kzSVJJWUZaaS1EZnNycF9RSllmQkxSOHdTQ2FESUhHVF9rVXkzNGJDOERiY0hMS211UHVqWVdrRkJNNGJDaS1kblduSEN6U1l3?oc=5>
-
-### 特朗普告诉内阁，伊朗“非常”想达成协议以结束冲突
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-05-27 18:36
-- 链接: <https://news.google.com/rss/articles/CBMixAFBVV95cUxQZjVGbWFabkUtUTdDemowQ2hiRVV3RTlmQjBOWU1ma2E1eUl5X2R6d0JQZjZ5SWIxRzJ3VDQtZGlYdVdPaWp0NkJYT1EyeU4wMEkyVmtDUklNYXQ5QlBGNk4xbXNYZUFJUGhDTVNhQ3c1SngwX2xMNWF4ZnQ5RzJNdFZLb1RROG40SjhJN3dpMEZkUnpaZlNoTE5UVzdHZ3dJbTlBa0ZVMlJWcU9USndUcmxkcVU4amcycmE1aDZpY1hJaW5z0gHHAUFVX3lxTE5QSTZqRUZnNUFkU0JuM0JudnY5QWxndmlSa2pMOGtqOW13bjl6ejNsTTFSUXlYY2NZd3JYYW9VWUR0bGZ3Si05M1ZKVjNfMHVVUDJIbUdfRXEweDZ5SFhoVkFsVWdjX0JRMUh1NlctWDZzcjNKOGc1VWxYUTlCWE9ZVTNubFp0Nzl2Mk5fWFRIZlBvUVY2OERDSXZqUkprYnVlUDlCRVNuejlLRHlXZmk5Rmc5RlV3OHpEcUlWQkhBZ3E4eWZkN2c?oc=5>
-
-### 美伊谈判陷入僵局，特朗普威胁要“炸毁”阿曼。
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Al-Monitor
-- 时间: 2026-05-27 18:59
-- 链接: <https://news.google.com/rss/articles/CBMipwFBVV95cUxONXhYTWxQc0ZxYm1vZUgxcmpuYmhxVXhMeTVRZDFtbDlPSVRYYnY2cXh2TmNxcUVGcF9QYlN0aVNyWV95Y3E1UGdhWGRvaER0ZjZxT29CN1RhcDRzUXphU0NPZmQwaEVkNVA0M2U3VEFvU0g3UGRaMFN1VmRpTEFWNm9Na0FMMHNqRi01UlBYSHpvdmNiQnlOVWRnRzJwVXZ4eUVnQWNqYw?oc=5>
-
-### The App for Trump Accounts Will Launch Thursday. Here's What to Know. -- Update
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-05-27 18:32
-- 链接: <https://news.google.com/rss/articles/CBMiowFBVV95cUxPUjNNX0lWMEpuTkRNVFBQNkNNUEptdENsQjNTUXNsdlF1ZGRmM0wzRzJtdldEVkw4QVpPR3M5SENGWmdsMlpVejVNcEZFNGNfVWh4NjlsRnpVMl8wd0d3MWk3cGdjZVIxYzZRNERuR2VvSXN2MHZZaVBSVzhlcklRajB5VFB2R1gyb1FIV3htOG5CQzNEa0FJMDE1ZUxfM21EN3NZ?oc=5>
-
-### 卢比奥：只要特朗普总统在任，伊朗就不会拥有核武器
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-05-27 19:56
-- 链接: <https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVTRRWmxrRjN6blZJY1NLbEgwUnZ4Z0tlajNEZFRNWnVfZld5OGZIQWg4S2k2STAzODBrQUFLQmxHX0lGVER0UXhtNGVxd2lpWGhoWFByRF9TR0w1Uy1BTVF0b3Jycy1hMFRPNDA4YkhLUkVabkl2NHlQb2F1cHpkYmtjLXdVblNIT2E3RDRHNDUxcl9RWDRzOU9KNVhvaVVMcEFFNFVuM2Nva1dETFRicExPZURabG5mZ2o3RU9nMzBlbGtFQm9MOXhDX0kxRDlmSkwyQlEtOW_SAdsBQVVfeXFMT2ZDQUpXSjFqeHJ1aEN6QWVMTjRKS0xXOHNHV0RwdzB0V0FORTR1aV9PMUp5Mk5OODdTR1BrSHVtYVJJWGxTVE43czQ2di1fZHN3QVFzUzdMTEJUUUhkdGZYVm03LUE4ZXlGU1FOX3JrYnI4NlJuMVJocHZnM1ZkeXE5bTNENzdrdmtaWWpXd090QjBxd0dYTmppSVdnYjE4WWpDVkE5N3BkTXlzWE1xZnpVOUtiV1FOTC15cDV4LVIxS281a1Ata3hXT0xfbkxHdE5sdG5uNWt3ejFR?oc=5>
-
-### Crypto Ahmet (@Crypto_Ahmet)的见解
+### TRUMP/USDT
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: Binance
-- 时间: 2026-05-27 16:22
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5raXNCNDVZcy1LYk1Fa1Jqc0RYYktqamppbHdZd2hRYUxNRUozd3ltdzZvWmNzYjQwckRaUFdXRkIxY1F2ZXVMWHJZSUJVQkJ3ZGpOaWpMWVM1R3BqSl8tekJFQkFIWGIx?oc=5>
+- 时间: 2026-05-27 10:36
+- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE1GQWsxampOZGpLd1NhMFVtWEJMaktKUEtxWXN5cW53dm9BN0RQZjVlZ01TZFBWSkhSeWVnaTI2UXNEX2RiaEpJZFhrSy1qRFptVmlIeU95S21POGxQcUxLMVpTYlJxRW9PblJka2IxWWVieDFObWRIWDVrV1E?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-27 22:15  (4 条)
+
+- **特朗普** | 特朗普：伊朗即使放弃高浓缩铀也无法获得解除制裁 <https://news.google.com/rss/articles/CBMieEFVX3lxTFBjSmphdk9Ody1tc1JFb2twWHQ3UUItc181cjZ0V2VYT3l2NThxRnVRSGRBN2NjM19hXzk0WTNLbzJud010SFVxd3pDVVNHd2NTNzAyczZjYk5nTlR0YkpVLWg0TXUzOGZLY2JMQi1ycUxXNEdibnlXaw?oc=5>
+- **特朗普** | 特朗普：对目前同伊朗谈判进程“不满意” <https://news.google.com/rss/articles/CBMif0FVX3lxTE9NU1UxZG44RmtLSThRNFIwOG1FRFNDd1gwUWxlTlV3eUt3UWZ6TVU2b0g1LWZZbDVqOWRDUjZZTGlwRUlOOF8zUDZjY3VoVWlobENBWVpKb2pEekZRX09xOUx6XzJwbHUxUWx2NUN6RUU4elNlYjc3MjVNejdCbTg?oc=5>
+- **特朗普** | 特朗普1~3月买卖美股3700笔，是去年10倍 <https://news.google.com/rss/articles/CBMihwFBVV95cUxObmNveFRUXzN6OHd4UEk4RzlCaDRaMlY3MzNSUFhOemltX0FvcG9jSTdRZGExb0FkMFk2WS1pNTZRMXIxRU5wLTRMXzAtdzhCVktrSUJVZGVlQWpiRDBPS2hFa1ZJUllPR1J4NkpLUExZcDdJckVGWnJFSVN0WUdsV0xPREw5X2M?oc=5>
+- **Trump** | TRUMP/USDT <https://news.google.com/rss/articles/CBMifEFVX3lxTE1GQWsxampOZGpLd1NhMFVtWEJMaktKUEtxWXN5cW53dm9BN0RQZjVlZ01TZFBWSkhSeWVnaTI2UXNEX2RiaEpJZFhrSy1qRFptVmlIeU95S21POGxQcUxLMVpTYlJxRW9PblJka2IxWWVieDFObWRIWDVrV1E?oc=5>
 
 ### 2026-05-27 20:07  (10 条)
 
