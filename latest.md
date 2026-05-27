@@ -1,80 +1,116 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-27 10:58**
-- 本轮扫到 2160 条, 新增 **8** 条
+- 最近更新: **2026-05-27 14:28**
+- 本轮扫到 2171 条, 新增 **11** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (11 条)
 
-### 特朗普提了一个非分要求|唐纳德·特朗普|伊朗|毛宁|以色列|巴基斯坦
+### 演唱会门票秒空算什么？冒险岛怀旧服5.20首测，70万抢2000资格！
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-05-27 06:31
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9xdlBrVEIzYjNSMVFsSEh5Vkp3ZFdFb2UycnFxWC0yS1RVbVBNOUZpZnNlMV9seTNnbFg0dFFvNDFCWEktR2xUamk4cjRfT1VDWFJDTlZQN19SMlJwNm1CXzVQTndJRmZWTmJBR0JyMm5NZXdPVEdZTA?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019060q4k.html>
 
-### 国际观察丨捆绑推销“亚伯拉罕协议”？特朗普的算盘难打成
+### 特朗普要求斡旋国正常化对以色列关系 遭巴基斯坦明确拒绝
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-05-27 10:30
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE5UX3VtRjBnN0ROS25hbHJKMWpTczFNNDRUTUFXaGY5b0FnMkpmQjhtU2NTUk9pSFYxdWRxcEtpME84M1VIR0dhZ2hOS0cxMGM5OG9tbFRnUEhUczRqSVoxVkM2RzdWMWNjSVF2MXZOUThIb1VhTG5sU1kxXzhGRjA?oc=5>
+- 场馆: 财新
+- 时间: 2026-05-27 01:49
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9iRXg0UHBkR0ZiNkpBY01zRnlXcld1LU5ZM3dxdmhKMDd4RWNpMjB4ZjVnQmc1SG0zNmNHU1lyREQwZ0Q1bllscnM2eklJOXNzanA0X3I1dzUxQjA2LXVzaWQzVjFCUGNGZEE?oc=5>
 
-### 特朗普称体检完美但未透露具体细节|唐纳德·特朗普|美国总统|医疗|社交媒体|淤青
+### 特朗普召开内阁会议，重点讨论潜在的伊朗协议
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-05-27 13:57
+- 链接: <https://news.google.com/rss/articles/CBMisAFBVV95cUxNS1BnZmxmdjdXY2FfUk4wbXNQcllmR0hLbkJ4bktyN1hPbXlYS2QtdkQ5OGY2YXFWSUxUUjJrOTIxUWVhZzFfRHAtenlzWFZtMV9WNno0dVFsWjYteGZjTVZoWFdrMG1PNno5N1BqZElueHhFMDY4RDFzWldSUTQ5MDFqOGxOM1NzaDEwcmpmNENhWHVFT3BlZHhuaG9KVTYweldTVkhuWnlUd1UySUUyctIBswFBVV95cUxQTDM0YTljR0xVLVdMOE5PZ3k1VHU3dFMwcjRjUlZTMGEtbkhZdXRzcjNoWmlXT2VEWGxDWmxVZVBTb2g5SHlwaGlremRXR0Y0REFVWHBTdVFNbDhqSHBNVUNEUUtoTkd3dmR6QnlxSm5mMzVDWU5BOGVkU3FtTjVkUS04QWUzdm5sTlROQzZCWmJuYkg3NExjZlF2dVBKQm13WEJKWEp3MVVKeDkzVzJmYXp6MA?oc=5>
+
+### 特朗普“和平委员会”：账上没钱，项目停摆
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-27 10:27
-- 链接: <https://news.google.com/rss/articles/CBMiigJBVV95cUxPX2FuSHNVb0RmNGVVdk5TaU96NXJDQkFsWWMxUVlTeUZ4ZjhoM2lPd092WmtLQWY3TXlESDVSNlNmS1k1NjRUZ2NnUEpjaTRaemdNcG9pUUF1MlU1WC1xSGVVRUtiYTg4WjA4QlM0bllmcnRPVlRyN25QRnA5UFYzR25QWmdXQkFsV1RpTmRMTTFxSkVjT0RpZnR4VzJnWWwyQmlUT3VUblh2ZWpCbE94MEZyZjI2cXJFaTl5X2xZM2RKME1BREM2V0xweEdxNTVjN2gxcTJFWm4yVUk4QU5oMFlSb0R2NmdmRVd6R2xTVlRyZG9kUjZpTFVjeklxSHRDSnFvTlJMRXViZw?oc=5>
+- 时间: 2026-05-27 12:51
+- 链接: <https://news.google.com/rss/articles/CBMi_wFBVV95cUxPQjE5WXhqc096LWtSS3NpS1lGcjRzb2k4SnpMTm9kMml2SUJ0Sm50VE0xeWhrTVlPeXp5NDNkVTllWUZKdlB6YW9tY2had3pmSmJGUjItTmxkR1JvejRoaktkaDVUcGNWTzhYSTJBNW11MkRfSHdaeXRHeW1tNTRoSWtRNFE5cm1uMGNabm1rWFZQdlloeXo1R1VXbnBoZ1VSUWJoTVJ0ak1DQzlaREVEOGxOdWlJSG5rNUlrWG9RT0xlZXotSFgxZ1J1bk15RThtSmJzdDJsdTlnTnJ0YmcwLVQwY1JuLXY2UUhtX2tMRnhUNDZDWG5nTFlOQ2xDbk0?oc=5>
 
-### 特朗普半年喊了107次“2020年大选被操纵”，为中期选举做准备？
+### 共和党直面通胀深渊，中期选举迫在眉睫
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察
-- 时间: 2026-05-27 07:50
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9JUzFkVXc0SEg1dzFjVVNvMGtHeEF5WkRyOEJ1dFB6dEJtV0tuaElkU1VyMk9xRzFqYjhtOXBZSG1NUkVsNVlUSXNiUkpsRmZfSGFsQmJDZWJhTTFvbWNsWDJzcE9LQTBCbnc?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-05-27 13:22
+- 链接: <https://news.google.com/rss/articles/CBMijwJBVV95cUxNSjJjYXRuUlVkZ0s1WWVlNHhiT2k1U0F1d1FuYWlUY2JTNkxyVlU5bzM0Z2dkMERKaEhzalpwbUtLdTlmbnhxa1d5bW5HcV9hYVZWNThYaXhqakhJeHpsUEdLNm5ZLTJJZkJYNkVZb205VkZaMmp4dHFESWdFV3FYbzRJdnhMcWMtUjducGxuSGZQUGVvaUZTNE8zSUt4RlJ5dWpHTDZYRS16MG9XVTI1VHZ4RlExcThjMGxXSTBXRFlrc001SEhFRlFHZG1mSjlpcnZscW1YVjlwVjNoTEhoRTB5YmQ1V3gtd3BDRlFIbGVmVGVQM0NFWTVVOU1OdmptMEVvY3hPOTF4MXFMVm84?oc=5>
 
-### 美媒担忧：特朗普内阁4人接连出局，全是女性
+### 民主党为何输给特朗普？2024年大选“检讨书”引发新危机，怎么输的都没搞明白！
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-05-27 05:54
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9kTDlTcFAyVFFlREhFbFp5enlNQTUwcG9uQzN2YmNyTjEtRUk5Ym45cVd0OVhXUnVUaGxKc3ZhaDhJX29fTUlZU1UzcE0?oc=5>
+- 时间: 2026-05-25 06:10
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5zSVVIX216b09MdkxxdDdMRFBsb0FzNmhjWlRrTDFPWDd2MDZOd3ZvcFNVMDExZ2Jhd3Jfbk9qR2xYVDFoY20yWlM4LXM?oc=5>
 
-### 特朗普涉格陵兰岛言论引发安全焦虑，冰岛燃起加入欧盟讨论
+### 特朗普年度体检后发文:一切完美 健康状况良好
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-05-27 08:54
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE50QjNJanBoQU5sd2dSZmhMenZjRV8xUlAyVUx6T3RSVEhxRGpyckxEcjFMNWtuZnFEZm8yMkliSFVUeGEtenlVZGZFaVItUEc4SGRpbWM4U1ltbzNqU0Fheg?oc=5>
+- 场馆: 中华网
+- 时间: 2026-05-27 10:40
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9HS1ZxNjJzeGozelRQRVpjUWxCajJoQno5d1BMbWRGUEV3ZnNfTzQ5REx0eEZIejhTWUpRY1hNaGozb0VQaS1VZHRGWTB0MU5QQ1lqWWJnaHplQ1MyNUNiaGs4VFlOTEtEREZsR2w2R2Y?oc=5>
 
-### 黄锦辉：中美战略新定位 稳定+合作防误判
+### 特朗普就处置伊朗浓缩铀提出新选项
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-05-26 02:54
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE03ZkUtaV9zOE1MMExBZVI1ZjNQRF93eHpwcWZoQnBkYkRoSEVGUFNvRERhYTZNY2JyeWt3YmlSVjc0RGRtNVZ5STE0RQ?oc=5>
+
+### 特朗普下月满80岁 称最新体检结果“完美”
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: hkong.cn
-- 时间: 2026-05-27 07:31
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE55ZGlpU2xsX25sVG9UTS1McHZvN3NFNXN5b3dlcUhzMHJBcWQtcFFDMExYY21LRHpYWjBHcTRCOE41RUxBWVNmNzlUbGJCYnRXUkJn?oc=5>
+- 场馆: 联合早报
+- 时间: 2026-05-27 11:55
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9UX1cxZXFOb1ZVdEI0cGx6SXhXZ1RQeG01R1ZXRjZBa1RWNVpaVWJUWDQ5YkZxa3hYQTlIYllXYmNURGVpc2pYNmlVZUZ6ZmtLQW1XTDJlZExmbURscEk4TU5qOXdkYm03dmc?oc=5>
 
-### 澳廣視新聞｜Xi, Trump visit Temple of Heaven｜Xi, Trump visit Temple of Heaven
+### Trump谈他的deal_新浪新闻
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 澳門廣播電視股份有限公司
-- 时间: 2026-05-14 21:20
-- 链接: <https://news.google.com/rss/articles/CBMijgFBVV95cUxPR0pYTUpCN0tNYldaRGZMV0tlR21tdWlQRG1pVWhaYUZyS1lZWmRUWHRYeS1oUFR3UDAzYXVTd3FrRzZhYUp6aWoxYTk0bzFWbEROZmJUWEFKbFVaZ1RINFgybThTVG5lY18tS0R3OUsxVzdrZ2QxY045TDZvdFUtRHpzRE9TNDVkeE55RHFn?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-05-24 18:35
+- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTFAtcUQ0Q2k3QWNWRXloOTBfSWRVT2RwMXVNMXNmdjVBcTFfZXNVQkpzV0RhZDZRTV9pNlBNbklBSTMtZkRTRjdwaUdDbUtaaWljaWdmRFJ1M2dpeFJmbmZQX1hiSQ?oc=5>
+
+### TRUMP/USDT
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Binance
+- 时间: 2026-05-25 19:39
+- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTE9VOWFIa3R5dlN2NmM1bkhZWnBnQUxPTWdtTjR1V1R3YWhnRG5Fd05wc2pDWHBvMEpZV1lFTE93djQ2VFB5TzQxT0dhZHpPZFViX2dHSjZrTHhHOUd2N095dGVTWXYtMk0xQTJ6NjNqRHFYLW5ZRi05X1k1QQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-27 14:28  (11 条)
+
+- **周杰伦** | 演唱会门票秒空算什么？冒险岛怀旧服5.20首测，70万抢2000资格！ <https://k.sina.com.cn/article_7857201856_1d45362c0019060q4k.html>
+- **特朗普** | 特朗普要求斡旋国正常化对以色列关系 遭巴基斯坦明确拒绝 <https://news.google.com/rss/articles/CBMiakFVX3lxTE9iRXg0UHBkR0ZiNkpBY01zRnlXcld1LU5ZM3dxdmhKMDd4RWNpMjB4ZjVnQmc1SG0zNmNHU1lyREQwZ0Q1bllscnM2eklJOXNzanA0X3I1dzUxQjA2LXVzaWQzVjFCUGNGZEE?oc=5>
+- **特朗普** | 特朗普召开内阁会议，重点讨论潜在的伊朗协议 <https://news.google.com/rss/articles/CBMisAFBVV95cUxNS1BnZmxmdjdXY2FfUk4wbXNQcllmR0hLbkJ4bktyN1hPbXlYS2QtdkQ5OGY2YXFWSUxUUjJrOTIxUWVhZzFfRHAtenlzWFZtMV9WNno0dVFsWjYteGZjTVZoWFdrMG1PNno5N1BqZElueHhFMDY4RDFzWldSUTQ5MDFqOGxOM1NzaDEwcmpmNENhWHVFT3BlZHhuaG9KVTYweldTVkhuWnlUd1UySUUyctIBswFBVV95cUxQTDM0YTljR0xVLVdMOE5PZ3k1VHU3dFMwcjRjUlZTMGEtbkhZdXRzcjNoWmlXT2VEWGxDWmxVZVBTb2g5SHlwaGlremRXR0Y0REFVWHBTdVFNbDhqSHBNVUNEUUtoTkd3dmR6QnlxSm5mMzVDWU5BOGVkU3FtTjVkUS04QWUzdm5sTlROQzZCWmJuYkg3NExjZlF2dVBKQm13WEJKWEp3MVVKeDkzVzJmYXp6MA?oc=5>
+- **特朗普** | 特朗普“和平委员会”：账上没钱，项目停摆 <https://news.google.com/rss/articles/CBMi_wFBVV95cUxPQjE5WXhqc096LWtSS3NpS1lGcjRzb2k4SnpMTm9kMml2SUJ0Sm50VE0xeWhrTVlPeXp5NDNkVTllWUZKdlB6YW9tY2had3pmSmJGUjItTmxkR1JvejRoaktkaDVUcGNWTzhYSTJBNW11MkRfSHdaeXRHeW1tNTRoSWtRNFE5cm1uMGNabm1rWFZQdlloeXo1R1VXbnBoZ1VSUWJoTVJ0ak1DQzlaREVEOGxOdWlJSG5rNUlrWG9RT0xlZXotSFgxZ1J1bk15RThtSmJzdDJsdTlnTnJ0YmcwLVQwY1JuLXY2UUhtX2tMRnhUNDZDWG5nTFlOQ2xDbk0?oc=5>
+- **特朗普** | 共和党直面通胀深渊，中期选举迫在眉睫 <https://news.google.com/rss/articles/CBMijwJBVV95cUxNSjJjYXRuUlVkZ0s1WWVlNHhiT2k1U0F1d1FuYWlUY2JTNkxyVlU5bzM0Z2dkMERKaEhzalpwbUtLdTlmbnhxa1d5bW5HcV9hYVZWNThYaXhqakhJeHpsUEdLNm5ZLTJJZkJYNkVZb205VkZaMmp4dHFESWdFV3FYbzRJdnhMcWMtUjducGxuSGZQUGVvaUZTNE8zSUt4RlJ5dWpHTDZYRS16MG9XVTI1VHZ4RlExcThjMGxXSTBXRFlrc001SEhFRlFHZG1mSjlpcnZscW1YVjlwVjNoTEhoRTB5YmQ1V3gtd3BDRlFIbGVmVGVQM0NFWTVVOU1OdmptMEVvY3hPOTF4MXFMVm84?oc=5>
+- **特朗普** | 民主党为何输给特朗普？2024年大选“检讨书”引发新危机，怎么输的都没搞明白！ <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5zSVVIX216b09MdkxxdDdMRFBsb0FzNmhjWlRrTDFPWDd2MDZOd3ZvcFNVMDExZ2Jhd3Jfbk9qR2xYVDFoY20yWlM4LXM?oc=5>
+- **特朗普** | 特朗普年度体检后发文:一切完美 健康状况良好 <https://news.google.com/rss/articles/CBMicEFVX3lxTE9HS1ZxNjJzeGozelRQRVpjUWxCajJoQno5d1BMbWRGUEV3ZnNfTzQ5REx0eEZIejhTWUpRY1hNaGozb0VQaS1VZHRGWTB0MU5QQ1lqWWJnaHplQ1MyNUNiaGs4VFlOTEtEREZsR2w2R2Y?oc=5>
+- **特朗普** | 特朗普就处置伊朗浓缩铀提出新选项 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE03ZkUtaV9zOE1MMExBZVI1ZjNQRF93eHpwcWZoQnBkYkRoSEVGUFNvRERhYTZNY2JyeWt3YmlSVjc0RGRtNVZ5STE0RQ?oc=5>
+- **Trump** | 特朗普下月满80岁 称最新体检结果“完美” <https://news.google.com/rss/articles/CBMiakFVX3lxTE9UX1cxZXFOb1ZVdEI0cGx6SXhXZ1RQeG01R1ZXRjZBa1RWNVpaVWJUWDQ5YkZxa3hYQTlIYllXYmNURGVpc2pYNmlVZUZ6ZmtLQW1XTDJlZExmbURscEk4TU5qOXdkYm03dmc?oc=5>
+- **Trump** | Trump谈他的deal_新浪新闻 <https://news.google.com/rss/articles/CBMiY0FVX3lxTFAtcUQ0Q2k3QWNWRXloOTBfSWRVT2RwMXVNMXNmdjVBcTFfZXNVQkpzV0RhZDZRTV9pNlBNbklBSTMtZkRTRjdwaUdDbUtaaWljaWdmRFJ1M2dpeFJmbmZQX1hiSQ?oc=5>
+- **Trump** | TRUMP/USDT <https://news.google.com/rss/articles/CBMie0FVX3lxTE9VOWFIa3R5dlN2NmM1bkhZWnBnQUxPTWdtTjR1V1R3YWhnRG5Fd05wc2pDWHBvMEpZV1lFTE93djQ2VFB5TzQxT0dhZHpPZFViX2dHSjZrTHhHOUd2N095dGVTWXYtMk0xQTJ6NjNqRHFYLW5ZRi05X1k1QQ?oc=5>
 
 ### 2026-05-27 10:58  (8 条)
 
