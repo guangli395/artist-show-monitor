@@ -1,62 +1,91 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-27 06:59**
-- 本轮扫到 2152 条, 新增 **6** 条
+- 最近更新: **2026-05-27 10:58**
+- 本轮扫到 2160 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (8 条)
 
-### 无羁-肖战|王一博(《陈情令》主题曲|少年意气风发)
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001905zulg.html>
-
-### 特朗普提了一个非分要求
+### 特朗普提了一个非分要求|唐纳德·特朗普|伊朗|毛宁|以色列|巴基斯坦
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-05-27 04:55
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFAxZ180Q2FFczNDRW05MjM0SEdqaTAySktOeVdid3cwLV9OWWhaNFV3VkQ0Y2JydFI3ejJ3OGNfNGQwUG9MeUNNMHM5UElkaGRTSzdIUmZNbEFIanhVRXJiSXU5VFRfZjB4WXRva24yQ28?oc=5>
+- 时间: 2026-05-27 06:31
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9xdlBrVEIzYjNSMVFsSEh5Vkp3ZFdFb2UycnFxWC0yS1RVbVBNOUZpZnNlMV9seTNnbFg0dFFvNDFCWEktR2xUamk4cjRfT1VDWFJDTlZQN19SMlJwNm1CXzVQTndJRmZWTmJBR0JyMm5NZXdPVEdZTA?oc=5>
 
-### 美伊谈判紧要关头 以色列越线突袭 特朗普将召开全体内阁会议
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 央广网
-- 时间: 2026-05-27 00:42
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5GUlNXa1lVMVE3a08xNWJMcjhmdl9IQk5YMjc3eWprOUk5Smc4d1ZodVFSZlpDNEVDTE1lNFpWcU5GdkJBMXFMNTJIbzdXWUJhS052eWhqWF93Z2pxN3VXR1ExdFNwc3Fz?oc=5>
-
-### 美医生警告特朗普嗜睡或预示重病，白宫反唇相讥：民主党庸医-观察者网
+### 国际观察丨捆绑推销“亚伯拉罕协议”？特朗普的算盘难打成
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-05-27 02:42
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE4tMUllUnJFYTJEWEVVS0ZUTGN5VnA3QThyblJCZnpGdnVKcE5Yc1k3eHZsSk5jR3V2bkdHOGFvLUM3Q3NCNm1YSGd5Q29fWkpnWEE0YThmZENYZVlydUYxQjNIZTRHaGFGaXc?oc=5>
+- 场馆: 新华网
+- 时间: 2026-05-27 10:30
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE5UX3VtRjBnN0ROS25hbHJKMWpTczFNNDRUTUFXaGY5b0FnMkpmQjhtU2NTUk9pSFYxdWRxcEtpME84M1VIR0dhZ2hOS0cxMGM5OG9tbFRnUEhUczRqSVoxVkM2RzdWMWNjSVF2MXZOUThIb1VhTG5sU1kxXzhGRjA?oc=5>
 
-### TRUMP/USDT
+### 特朗普称体检完美但未透露具体细节|唐纳德·特朗普|美国总统|医疗|社交媒体|淤青
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-27 10:27
+- 链接: <https://news.google.com/rss/articles/CBMiigJBVV95cUxPX2FuSHNVb0RmNGVVdk5TaU96NXJDQkFsWWMxUVlTeUZ4ZjhoM2lPd092WmtLQWY3TXlESDVSNlNmS1k1NjRUZ2NnUEpjaTRaemdNcG9pUUF1MlU1WC1xSGVVRUtiYTg4WjA4QlM0bllmcnRPVlRyN25QRnA5UFYzR25QWmdXQkFsV1RpTmRMTTFxSkVjT0RpZnR4VzJnWWwyQmlUT3VUblh2ZWpCbE94MEZyZjI2cXJFaTl5X2xZM2RKME1BREM2V0xweEdxNTVjN2gxcTJFWm4yVUk4QU5oMFlSb0R2NmdmRVd6R2xTVlRyZG9kUjZpTFVjeklxSHRDSnFvTlJMRXViZw?oc=5>
+
+### 特朗普半年喊了107次“2020年大选被操纵”，为中期选举做准备？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察
+- 时间: 2026-05-27 07:50
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9JUzFkVXc0SEg1dzFjVVNvMGtHeEF5WkRyOEJ1dFB6dEJtV0tuaElkU1VyMk9xRzFqYjhtOXBZSG1NUkVsNVlUSXNiUkpsRmZfSGFsQmJDZWJhTTFvbWNsWDJzcE9LQTBCbnc?oc=5>
+
+### 美媒担忧：特朗普内阁4人接连出局，全是女性
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-05-27 05:54
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9kTDlTcFAyVFFlREhFbFp5enlNQTUwcG9uQzN2YmNyTjEtRUk5Ym45cVd0OVhXUnVUaGxKc3ZhaDhJX29fTUlZU1UzcE0?oc=5>
+
+### 特朗普涉格陵兰岛言论引发安全焦虑，冰岛燃起加入欧盟讨论
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-05-27 08:54
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE50QjNJanBoQU5sd2dSZmhMenZjRV8xUlAyVUx6T3RSVEhxRGpyckxEcjFMNWtuZnFEZm8yMkliSFVUeGEtenlVZGZFaVItUEc4SGRpbWM4U1ltbzNqU0Fheg?oc=5>
+
+### 黄锦辉：中美战略新定位 稳定+合作防误判
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Binance
-- 时间: 2026-05-27 05:14
-- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE9jQl9qejFOZ0VwV2w1aWJiN1ROM0pYVU9vdjBPTC1GM0RPdl9IbTAzcjhXak0tX0FPQmMtcWtOX1RZOVhGYlVRNWpaQzdSX0czcmxvZk1vaFZnTkhGaXJrSGt0b3dPMFRfeEtWMzZvWk1leVl4RkVDT2dId1k?oc=5>
+- 场馆: hkong.cn
+- 时间: 2026-05-27 07:31
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE55ZGlpU2xsX25sVG9UTS1McHZvN3NFNXN5b3dlcUhzMHJBcWQtcFFDMExYY21LRHpYWjBHcTRCOE41RUxBWVNmNzlUbGJCYnRXUkJn?oc=5>
 
-### Trump於白宫会见巴西总统候选人Flavio Bolsonaro
+### 澳廣視新聞｜Xi, Trump visit Temple of Heaven｜Xi, Trump visit Temple of Heaven
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: AASTOCKS.com
-- 时间: 2026-05-26 23:18
-- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxPdlhQM21JaHRSUDhGUWVMSEtMTDFTTEttMm5LdW9nSjlvYVJBd0Q1Z3lVaC1KU2RXWFBJb2h2NWxxNmJENWRBQ0ZPekczUkgxcGZZcVhkSlRyYXdZM2Zmb3NyX19oM1M5YVUwUVRXMHJ1cmZfQkd0OFR1eUVxSG1rZ0Jn?oc=5>
+- 场馆: 澳門廣播電視股份有限公司
+- 时间: 2026-05-14 21:20
+- 链接: <https://news.google.com/rss/articles/CBMijgFBVV95cUxPR0pYTUpCN0tNYldaRGZMV0tlR21tdWlQRG1pVWhaYUZyS1lZWmRUWHRYeS1oUFR3UDAzYXVTd3FrRzZhYUp6aWoxYTk0bzFWbEROZmJUWEFKbFVaZ1RINFgybThTVG5lY18tS0R3OUsxVzdrZ2QxY045TDZvdFUtRHpzRE9TNDVkeE55RHFn?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-27 10:58  (8 条)
+
+- **特朗普** | 特朗普提了一个非分要求|唐纳德·特朗普|伊朗|毛宁|以色列|巴基斯坦 <https://news.google.com/rss/articles/CBMieEFVX3lxTE9xdlBrVEIzYjNSMVFsSEh5Vkp3ZFdFb2UycnFxWC0yS1RVbVBNOUZpZnNlMV9seTNnbFg0dFFvNDFCWEktR2xUamk4cjRfT1VDWFJDTlZQN19SMlJwNm1CXzVQTndJRmZWTmJBR0JyMm5NZXdPVEdZTA?oc=5>
+- **特朗普** | 国际观察丨捆绑推销“亚伯拉罕协议”？特朗普的算盘难打成 <https://news.google.com/rss/articles/CBMif0FVX3lxTE5UX3VtRjBnN0ROS25hbHJKMWpTczFNNDRUTUFXaGY5b0FnMkpmQjhtU2NTUk9pSFYxdWRxcEtpME84M1VIR0dhZ2hOS0cxMGM5OG9tbFRnUEhUczRqSVoxVkM2RzdWMWNjSVF2MXZOUThIb1VhTG5sU1kxXzhGRjA?oc=5>
+- **特朗普** | 特朗普称体检完美但未透露具体细节|唐纳德·特朗普|美国总统|医疗|社交媒体|淤青 <https://news.google.com/rss/articles/CBMiigJBVV95cUxPX2FuSHNVb0RmNGVVdk5TaU96NXJDQkFsWWMxUVlTeUZ4ZjhoM2lPd092WmtLQWY3TXlESDVSNlNmS1k1NjRUZ2NnUEpjaTRaemdNcG9pUUF1MlU1WC1xSGVVRUtiYTg4WjA4QlM0bllmcnRPVlRyN25QRnA5UFYzR25QWmdXQkFsV1RpTmRMTTFxSkVjT0RpZnR4VzJnWWwyQmlUT3VUblh2ZWpCbE94MEZyZjI2cXJFaTl5X2xZM2RKME1BREM2V0xweEdxNTVjN2gxcTJFWm4yVUk4QU5oMFlSb0R2NmdmRVd6R2xTVlRyZG9kUjZpTFVjeklxSHRDSnFvTlJMRXViZw?oc=5>
+- **特朗普** | 特朗普半年喊了107次“2020年大选被操纵”，为中期选举做准备？ <https://news.google.com/rss/articles/CBMiakFVX3lxTE9JUzFkVXc0SEg1dzFjVVNvMGtHeEF5WkRyOEJ1dFB6dEJtV0tuaElkU1VyMk9xRzFqYjhtOXBZSG1NUkVsNVlUSXNiUkpsRmZfSGFsQmJDZWJhTTFvbWNsWDJzcE9LQTBCbnc?oc=5>
+- **特朗普** | 美媒担忧：特朗普内阁4人接连出局，全是女性 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9kTDlTcFAyVFFlREhFbFp5enlNQTUwcG9uQzN2YmNyTjEtRUk5Ym45cVd0OVhXUnVUaGxKc3ZhaDhJX29fTUlZU1UzcE0?oc=5>
+- **特朗普** | 特朗普涉格陵兰岛言论引发安全焦虑，冰岛燃起加入欧盟讨论 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE50QjNJanBoQU5sd2dSZmhMenZjRV8xUlAyVUx6T3RSVEhxRGpyckxEcjFMNWtuZnFEZm8yMkliSFVUeGEtenlVZGZFaVItUEc4SGRpbWM4U1ltbzNqU0Fheg?oc=5>
+- **Trump** | 黄锦辉：中美战略新定位 稳定+合作防误判 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE55ZGlpU2xsX25sVG9UTS1McHZvN3NFNXN5b3dlcUhzMHJBcWQtcFFDMExYY21LRHpYWjBHcTRCOE41RUxBWVNmNzlUbGJCYnRXUkJn?oc=5>
+- **Trump** | 澳廣視新聞｜Xi, Trump visit Temple of Heaven｜Xi, Trump visit Temple of Heaven <https://news.google.com/rss/articles/CBMijgFBVV95cUxPR0pYTUpCN0tNYldaRGZMV0tlR21tdWlQRG1pVWhaYUZyS1lZWmRUWHRYeS1oUFR3UDAzYXVTd3FrRzZhYUp6aWoxYTk0bzFWbEROZmJUWEFKbFVaZ1RINFgybThTVG5lY18tS0R3OUsxVzdrZ2QxY045TDZvdFUtRHpzRE9TNDVkeE55RHFn?oc=5>
 
 ### 2026-05-27 06:59  (6 条)
 
