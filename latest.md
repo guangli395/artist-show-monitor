@@ -1,94 +1,109 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-26 23:37**
-- 本轮扫到 2136 条, 新增 **10** 条
+- 最近更新: **2026-05-27 02:49**
+- 本轮扫到 2146 条, 新增 **10** 条
 
 ---
 
 ## 本轮新发现 (10 条)
 
-### 别克官宣周杰伦成为MVP家族代言人,至境世家万家版41.99万元起
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857141524_1d452771401902uapc.html>
-
-### 美伊协议四个症结 霍尔木兹海峡仅是其中之一
+### 突发，以色列空袭黎巴嫩、加沙！特朗普同内塔尼亚胡通话！美军否认恢复护航行动！A股震荡蓄势
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-26 23:33
-- 链接: <https://news.google.com/rss/articles/CBMi_wFBVV95cUxQS2hrYWVZTzlRei1ZM3FNdXIzeDQxWmY3dEVpRHVNUDlzRXRYNUFVU3dqSmdCX0tCOE5JTlBlaXUtMWs0QkJFLTVHdl9meTdXNDB4enJOUmJBeFFJSkRrVXVLUmRfak90YjBvcXlhVFR4amF2VWR2aF94ckZvaUJSSHZMa2JUTFQzTjJBeXltUGNHc1dhRDM4YVJSNVNXUkhHRkp6Wk5kUGdPQmhMdFBUWWc5d1hUVnFtNzlVSm9xdGsxdENGNmtpaWdkNUJmMXFZU1FMUGE1RHhQQWQxN3Qzc2QyWHFOR2VGQ3lDR0d6amVxNGJOVVJwa1dXSDZZdVE?oc=5>
+- 时间: 2026-05-26 23:50
+- 链接: <https://news.google.com/rss/articles/CBMirgJBVV95cUxQdkxENVUzNUhZRGI2cUVlRlVhcEZpLW9QcHdqdk44LUVKd0FXQzZzOVNUMDE3MVNkWV9MbndyN0lHSk1JNGxYZFdwRkJiRXhOT1c5TjVnX3JBM21zbjFIcHpERkt6b3M4RzVYRHBaYWk0ZUJEdkx0YXJJYWY2aFVEM1N1Z3ZyRzJYTElwTXZFaFUzT0c4SUM1Ujc2QUNLSlZiWWxOczFEZzNySmg5YzVWUlFlTFBfa3JKRFpxVGFBbVR0cGpIUkNrZlIxaGQybE1wNXd3YnZJZXNwb1cwNUhEdEV6UnBHay1Id0ljcXNsZGlqR2dDT2R6ZDRkczlEYndfOExVNmJBRzJ0NmxIQ2RXNFlJdWNTd2JYRFBBZkZ2alRfLVMtQjBXSGZWVTY5Zw?oc=5>
 
-### 美国与亚美尼亚承诺推进“特朗普走廊项目”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-05-26 22:53
-- 链接: <https://news.google.com/rss/articles/CBMiuAJBVV95cUxNN3pkdjdtUVB2NVNmYVBoNFVvY2MwcF9KUTcxM0p6T01ldHJmcXNFYmhQQTJJaU1TVVBkNENqMldEekRMdlNRWnlXS1lXbk1lQjM5U0hvVUlWdWNBSDExR2VtYnk2Vmc2eHB3dV8yanE5WjEtV05wYm9WU2hjeWNaU2RBLTU4VlI2U3JsbVJrRmZuR1ZnRjVtYWdrd1U3UzNaNWZYakZkT2hCZHN2SkkxSk5jVHc5OFNPTGNmS3dsbjVwbldvZlpfdTN3Q0pqcDc0ckRBWUhaRTZ1cmFiTVkxV1Y5bU56ZTZnUXJiaDg1S1Bic1AwUzlwY0VwdklJWFQ2aEVoODdodjRKZDJCWUNrNzhqZHBFQ01NSlhLQ1B0Nk5GUFNtNHl4NWs3Q1FhS0wtQVFKcEFGa0E?oc=5>
-
-### 【中国网评】“台独”已由“棋子”变成“弃子”_观点中国
+### 特朗普任命邦迪加入白宫人工智能顾问小组
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中国网
-- 时间: 2026-05-26 23:02
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFBMejFaVVQ1V3FJdUE4SzhmWWo3X2ZPYXJ3d1pmSklJT2o3bkdsUDhlS1RCVVdqel95U25GR3ZwMFE2bFgwdzRCX0xQREdRUUExMmJWU3VoWHdaQTRxYTg0YVBWTGpET0FRV0lPNW1rWklkOGM?oc=5>
+- 场馆: video.sina.com.cn
+- 时间: 2026-05-27 00:27
+- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxPblBkYnZ4ZXpBS25PN3c5amJXY3RmbS1vbkJyUHVXb09hbHFVLVB3em1CYjc2cVZIamFGNlhzenpsOG9YaHZSU3Z5Q2ZiZ0ZOWGNmb014NlZfeUpYbE16M1BDY3dUcEZlTWFBak5iQnF1eEcxQnlqNmVlWnN4ODlSUzZn?oc=5>
+
+### 特朗普将27日内阁会议地点改回白宫
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中国新闻网
+- 时间: 2026-05-26 23:39
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwd245Ym5Ta0dVLWw2eWtvZk01UVczVy0yNE1NSHZHWmxzcnlmUzFiUDE5aHJsMHRfN0ZWT19XNE1qanFhY1VmRHNzY2hYNXlxRUs2U1hpQkhPU2RQRE9heFNEZXBDRm8?oc=5>
+
+### 特朗普提了一个非分要求
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-05-26 23:38
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBYOXVmZzNXMVJsMkZqTFJYRDFwYjhWc3RUUVpXQ1JBM0haZjBaQUsyZjctM1VrRlB0Q0wyenpuekM5S1Riaktrb3UzVEo?oc=5>
+
+### 特朗普将27日内阁会议地点改回白宫
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: chinanews.com.cn
+- 时间: 2026-05-26 23:36
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YYVpoM3JVX1owQ2tkVVl1MWwxei1jeU84T0x2ZXV1TkozT3NpeEViSWpvcktmSi0ta3NFUHlWTE9ETERKanUxMFZ2T2M4OHcwZmFqTElFVTVROGFVTTh0ZmlQUHJmbnM0?oc=5>
 
 ### 美伊谈判关键之际 特朗普与内塔尼亚胡通话
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-05-26 23:23
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFAxRDdHcWxXX19CTy0yenc5TnpaMzRsNlRTTUlmMFNxYkM3ZGRQZUpQSVQxbzNOWHdiSTVoQ2pBbkFsdkpRa1dPZHdJeTB5OWZLeDg4V0tXTV9iM3VZRWZKMWFZQnc?oc=5>
+- 场馆: 新蓝网
+- 时间: 2026-05-26 22:40
+- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE5XaXdEM3RGUXpNV1U0STEzaUNfdWQzamt4Z19ic1JlaUkxM09NNDc1X29BU0ZqM1ZNUHZnT1NobDZIQ0ZzSlB1cVN6RjJCS1k?oc=5>
 
-### 特朗普：内阁会议将由戴维营改至白宫举行
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-05-26 21:26
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBFWmhIdkVPQkZwb3IyVFc4OE9kSmJZdmtyZm0tZ0hXdlZhNWV4NEN0S0xfREszT0JPLWlaYjZWR2FqdU1fQnUzUEJLdTM?oc=5>
-
-### Trump於白宫会见巴西总统候选人Flavio Bolsonaro美股 US Stocks Quote - 外围新闻内容Golbal News Content
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: AASTOCKS.com
-- 时间: 2026-05-26 23:18
-- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxOcTdLUFVoTnc3TUJqMDRrV284TUhfQkhuZllhNlhUUXN4UFRwdU40NUJkNDZLclFaaVBONVVpcFB1ZjFHWGRVYTJfQWtVdHBEY0FUd1Y0c0ZhMmlxODZ2WFJNUmdoY2R3V29pOURKNk9SdHlPUW41ZF9fcDhzVXlUUWFNbzVlT1FaWXc?oc=5>
-
-### 伊万卡揪19岁侄女辣晒比基尼！好身材全露
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 万维读者网
-- 时间: 2026-05-26 16:21
-- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vVVhvb09Ea3ZJc0Zpd3psTExFMzBlWWlyUEFUUVV2dDFwLUlBd0E2WVByT3VKcG1qb2R6UkY5NENvUEVVVlY1SDVBYUpOZEdSVEE?oc=5>
-
-### OFFICIAL TRUMP价格
+### TRUMP/USDT
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: Binance
-- 时间: 2026-05-26 14:06
-- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE9zZ25wU2NTdncyZEtHcEpLNms2R0JkV2pwRW5OcXBYVXhROHJRMEREZDY3UkszN01RZmwyVHA0TDhBQ1ZBUVByLURiRlg1M0RrTTV2MS1mdC1NSi1icWVSUUNQcEdPcERNQVpKRUV5WHp2ODZlUzA1RlRraF8?oc=5>
+- 时间: 2026-05-26 18:44
+- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTE1EWk5EeU1lbGtWeS05anBkVkZ5WXRiLVRjYkFzOGFQQWV1M2g5Y3d1MnFUX2Rnck1FdmlFWlBlVnBJYU5Tb2xtTWVXdDViWGMwQlg4Z3h5VVlDWUZ4N2NKVUxPOGFCa013ck1uNk9kVWhGT2QzckRaQlUwUQ?oc=5>
 
-### Trump於白宫会见巴西总统候选人Flavio Bolsonaro美股 US Stocks Quote - 外围新闻内容Golbal News Content
+### Trump於白宫会见巴西总统候选人Flavio Bolsonaro
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: AASTOCKS.com
 - 时间: 2026-05-26 23:18
-- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOWJTLTZwaVZMbkd4c2FYREw4Rkd1TS1DMGZ2RUk5LXI2Z2VObWVKREw0VUVTaFROVHUzM1ZweG1LNl80RXJzN2U2aENNXzlYYl9UbFRURURUUDVXcmRodlkwUXpqSW1wMWtqazFDU0IxdFJtUExYWUp0VHhtdFVBWkI2ejZiQk5jRTJ3?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE5fY3BlWjhjWnRGbzZmY0d3aUFkbjlBZWNKaGpMSkZ0WTgyZ2hXb2Ffd2tDbFBZVzl1WWZkMjNkaUkwSk1zdDhPLVpVblV6S2RzNlpDLUR0R3pTYmxEeTFsWDNUWWJuOEJpclEtb2dGSQ?oc=5>
+
+### Trump於白宫会见巴西总统候选人Flavio Bolsonaro财经新闻Financial News
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: AASTOCKS.com
+- 时间: 2026-05-26 23:18
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9BaU9JX1FsSUtmWjVsdnpnclhPRkpKbzV3UkFXbWpVR3Rmc01JR0pRWVFCRVh4NlJyRUxHb2ZjNjRabjZsTlhKNFduT1VPVnpRSXdtejg4UmctcjBqMzVoc0FHUUFrNnhXOUF4RElJb3VpTnpvOW9kV19NZG12ZW8?oc=5>
+
+### 市场传闻：Musk及多名行政总裁随特朗普访华促请北京处理出口及供应问题财经新闻Financial News
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: AASTOCKS.com
+- 时间: 2026-05-27 00:27
+- 链接: <https://news.google.com/rss/articles/CBMihgFBVV95cUxQUzBQSzIySnhLUGxLbFR1NjlveWM5alAtbTh4bF9JallQZUpkZjcyNGUyQl9td25oeWxoTXE1Q1BQaEstWjVXQnA3WE9BMHM1RGM3bkFENWFOMGR4Uk8zbnpDZl9xX3RXSDNhWS1QTmlCNU9ieklwWng4Qmk0MmUtTmhkX0JhZw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-27 02:49  (10 条)
+
+- **特朗普** | 突发，以色列空袭黎巴嫩、加沙！特朗普同内塔尼亚胡通话！美军否认恢复护航行动！A股震荡蓄势 <https://news.google.com/rss/articles/CBMirgJBVV95cUxQdkxENVUzNUhZRGI2cUVlRlVhcEZpLW9QcHdqdk44LUVKd0FXQzZzOVNUMDE3MVNkWV9MbndyN0lHSk1JNGxYZFdwRkJiRXhOT1c5TjVnX3JBM21zbjFIcHpERkt6b3M4RzVYRHBaYWk0ZUJEdkx0YXJJYWY2aFVEM1N1Z3ZyRzJYTElwTXZFaFUzT0c4SUM1Ujc2QUNLSlZiWWxOczFEZzNySmg5YzVWUlFlTFBfa3JKRFpxVGFBbVR0cGpIUkNrZlIxaGQybE1wNXd3YnZJZXNwb1cwNUhEdEV6UnBHay1Id0ljcXNsZGlqR2dDT2R6ZDRkczlEYndfOExVNmJBRzJ0NmxIQ2RXNFlJdWNTd2JYRFBBZkZ2alRfLVMtQjBXSGZWVTY5Zw?oc=5>
+- **特朗普** | 特朗普任命邦迪加入白宫人工智能顾问小组 <https://news.google.com/rss/articles/CBMiggFBVV95cUxPblBkYnZ4ZXpBS25PN3c5amJXY3RmbS1vbkJyUHVXb09hbHFVLVB3em1CYjc2cVZIamFGNlhzenpsOG9YaHZSU3Z5Q2ZiZ0ZOWGNmb014NlZfeUpYbE16M1BDY3dUcEZlTWFBak5iQnF1eEcxQnlqNmVlWnN4ODlSUzZn?oc=5>
+- **特朗普** | 特朗普将27日内阁会议地点改回白宫 <https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwd245Ym5Ta0dVLWw2eWtvZk01UVczVy0yNE1NSHZHWmxzcnlmUzFiUDE5aHJsMHRfN0ZWT19XNE1qanFhY1VmRHNzY2hYNXlxRUs2U1hpQkhPU2RQRE9heFNEZXBDRm8?oc=5>
+- **特朗普** | 特朗普提了一个非分要求 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBYOXVmZzNXMVJsMkZqTFJYRDFwYjhWc3RUUVpXQ1JBM0haZjBaQUsyZjctM1VrRlB0Q0wyenpuekM5S1Riaktrb3UzVEo?oc=5>
+- **特朗普** | 特朗普将27日内阁会议地点改回白宫 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YYVpoM3JVX1owQ2tkVVl1MWwxei1jeU84T0x2ZXV1TkozT3NpeEViSWpvcktmSi0ta3NFUHlWTE9ETERKanUxMFZ2T2M4OHcwZmFqTElFVTVROGFVTTh0ZmlQUHJmbnM0?oc=5>
+- **特朗普** | 美伊谈判关键之际 特朗普与内塔尼亚胡通话 <https://news.google.com/rss/articles/CBMiT0FVX3lxTE5XaXdEM3RGUXpNV1U0STEzaUNfdWQzamt4Z19ic1JlaUkxM09NNDc1X29BU0ZqM1ZNUHZnT1NobDZIQ0ZzSlB1cVN6RjJCS1k?oc=5>
+- **Trump** | TRUMP/USDT <https://news.google.com/rss/articles/CBMie0FVX3lxTE1EWk5EeU1lbGtWeS05anBkVkZ5WXRiLVRjYkFzOGFQQWV1M2g5Y3d1MnFUX2Rnck1FdmlFWlBlVnBJYU5Tb2xtTWVXdDViWGMwQlg4Z3h5VVlDWUZ4N2NKVUxPOGFCa013ck1uNk9kVWhGT2QzckRaQlUwUQ?oc=5>
+- **Trump** | Trump於白宫会见巴西总统候选人Flavio Bolsonaro <https://news.google.com/rss/articles/CBMib0FVX3lxTE5fY3BlWjhjWnRGbzZmY0d3aUFkbjlBZWNKaGpMSkZ0WTgyZ2hXb2Ffd2tDbFBZVzl1WWZkMjNkaUkwSk1zdDhPLVpVblV6S2RzNlpDLUR0R3pTYmxEeTFsWDNUWWJuOEJpclEtb2dGSQ?oc=5>
+- **Trump** | Trump於白宫会见巴西总统候选人Flavio Bolsonaro财经新闻Financial News <https://news.google.com/rss/articles/CBMif0FVX3lxTE9BaU9JX1FsSUtmWjVsdnpnclhPRkpKbzV3UkFXbWpVR3Rmc01JR0pRWVFCRVh4NlJyRUxHb2ZjNjRabjZsTlhKNFduT1VPVnpRSXdtejg4UmctcjBqMzVoc0FHUUFrNnhXOUF4RElJb3VpTnpvOW9kV19NZG12ZW8?oc=5>
+- **Trump** | 市场传闻：Musk及多名行政总裁随特朗普访华促请北京处理出口及供应问题财经新闻Financial News <https://news.google.com/rss/articles/CBMihgFBVV95cUxQUzBQSzIySnhLUGxLbFR1NjlveWM5alAtbTh4bF9JallQZUpkZjcyNGUyQl9td25oeWxoTXE1Q1BQaEstWjVXQnA3WE9BMHM1RGM3bkFENWFOMGR4Uk8zbnpDZl9xX3RXSDNhWS1QTmlCNU9ieklwWng4Qmk0MmUtTmhkX0JhZw?oc=5>
 
 ### 2026-05-26 23:37  (10 条)
 
