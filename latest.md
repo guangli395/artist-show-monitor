@@ -1,102 +1,91 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-27 14:28**
-- 本轮扫到 2171 条, 新增 **11** 条
+- 最近更新: **2026-05-27 17:41**
+- 本轮扫到 2179 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (11 条)
+## 本轮新发现 (8 条)
 
-### 演唱会门票秒空算什么？冒险岛怀旧服5.20首测，70万抢2000资格！
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019060q4k.html>
-
-### 特朗普要求斡旋国正常化对以色列关系 遭巴基斯坦明确拒绝
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财新
-- 时间: 2026-05-27 01:49
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9iRXg0UHBkR0ZiNkpBY01zRnlXcld1LU5ZM3dxdmhKMDd4RWNpMjB4ZjVnQmc1SG0zNmNHU1lyREQwZ0Q1bllscnM2eklJOXNzanA0X3I1dzUxQjA2LXVzaWQzVjFCUGNGZEE?oc=5>
-
-### 特朗普召开内阁会议，重点讨论潜在的伊朗协议
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-05-27 13:57
-- 链接: <https://news.google.com/rss/articles/CBMisAFBVV95cUxNS1BnZmxmdjdXY2FfUk4wbXNQcllmR0hLbkJ4bktyN1hPbXlYS2QtdkQ5OGY2YXFWSUxUUjJrOTIxUWVhZzFfRHAtenlzWFZtMV9WNno0dVFsWjYteGZjTVZoWFdrMG1PNno5N1BqZElueHhFMDY4RDFzWldSUTQ5MDFqOGxOM1NzaDEwcmpmNENhWHVFT3BlZHhuaG9KVTYweldTVkhuWnlUd1UySUUyctIBswFBVV95cUxQTDM0YTljR0xVLVdMOE5PZ3k1VHU3dFMwcjRjUlZTMGEtbkhZdXRzcjNoWmlXT2VEWGxDWmxVZVBTb2g5SHlwaGlremRXR0Y0REFVWHBTdVFNbDhqSHBNVUNEUUtoTkd3dmR6QnlxSm5mMzVDWU5BOGVkU3FtTjVkUS04QWUzdm5sTlROQzZCWmJuYkg3NExjZlF2dVBKQm13WEJKWEp3MVVKeDkzVzJmYXp6MA?oc=5>
-
-### 特朗普“和平委员会”：账上没钱，项目停摆
+### 特朗普对美伊谈判“不满意” 和平前景再添变数
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-27 12:51
-- 链接: <https://news.google.com/rss/articles/CBMi_wFBVV95cUxPQjE5WXhqc096LWtSS3NpS1lGcjRzb2k4SnpMTm9kMml2SUJ0Sm50VE0xeWhrTVlPeXp5NDNkVTllWUZKdlB6YW9tY2had3pmSmJGUjItTmxkR1JvejRoaktkaDVUcGNWTzhYSTJBNW11MkRfSHdaeXRHeW1tNTRoSWtRNFE5cm1uMGNabm1rWFZQdlloeXo1R1VXbnBoZ1VSUWJoTVJ0ak1DQzlaREVEOGxOdWlJSG5rNUlrWG9RT0xlZXotSFgxZ1J1bk15RThtSmJzdDJsdTlnTnJ0YmcwLVQwY1JuLXY2UUhtX2tMRnhUNDZDWG5nTFlOQ2xDbk0?oc=5>
+- 时间: 2026-05-27 17:18
+- 链接: <https://news.google.com/rss/articles/CBMijwJBVV95cUxNai1jc2hweEJVWnN2SzZlcU9nOGtfUmJud1FvR0Y3R2dhc1dyQUNwMEVTN3QtV2JWM2prT0IzbDlxTDdCa0ViemxkMTNmMnNIMlVvTWlGdGFKTDFIQVQwVXJsYVdhWk91blRIRzVMajZ0UzAxSk4wbEFtSl9wRGdKYnRTeWRBZDRpSzF3ZUtDSzdJT09zNVpHZFdKTS1XdVJpUms4SkZXT3hvQjFyN1Njb2ptNy1yY192RU1iNUh6aHdhT1lTRkVOdHRkcGtFOU9ORjQwRjVTYnU2UUZRd3hEX0dQSndidGlyNmQ5YzZYWXRET0NRamMwN09YSEl6MzZQT0JybWVneTk2WUpIeWlr?oc=5>
 
-### 共和党直面通胀深渊，中期选举迫在眉睫
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-27 13:22
-- 链接: <https://news.google.com/rss/articles/CBMijwJBVV95cUxNSjJjYXRuUlVkZ0s1WWVlNHhiT2k1U0F1d1FuYWlUY2JTNkxyVlU5bzM0Z2dkMERKaEhzalpwbUtLdTlmbnhxa1d5bW5HcV9hYVZWNThYaXhqakhJeHpsUEdLNm5ZLTJJZkJYNkVZb205VkZaMmp4dHFESWdFV3FYbzRJdnhMcWMtUjducGxuSGZQUGVvaUZTNE8zSUt4RlJ5dWpHTDZYRS16MG9XVTI1VHZ4RlExcThjMGxXSTBXRFlrc001SEhFRlFHZG1mSjlpcnZscW1YVjlwVjNoTEhoRTB5YmQ1V3gtd3BDRlFIbGVmVGVQM0NFWTVVOU1OdmptMEVvY3hPOTF4MXFMVm84?oc=5>
-
-### 民主党为何输给特朗普？2024年大选“检讨书”引发新危机，怎么输的都没搞明白！
+### 特朗普：对目前同伊朗谈判进程“不满意”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-05-25 06:10
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5zSVVIX216b09MdkxxdDdMRFBsb0FzNmhjWlRrTDFPWDd2MDZOd3ZvcFNVMDExZ2Jhd3Jfbk9qR2xYVDFoY20yWlM4LXM?oc=5>
+- 时间: 2026-05-27 16:57
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBHamZWQTc1anZ1bThrTWJFYk41RzBVTEU0X1lQdXZzcGxjYlBSWGsxYkxWNUlfbXhoMHRmeFRNUG1rMkdtb1k3RlozZ2o?oc=5>
 
-### 特朗普年度体检后发文:一切完美 健康状况良好
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-05-27 10:40
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9HS1ZxNjJzeGozelRQRVpjUWxCajJoQno5d1BMbWRGUEV3ZnNfTzQ5REx0eEZIejhTWUpRY1hNaGozb0VQaS1VZHRGWTB0MU5QQ1lqWWJnaHplQ1MyNUNiaGs4VFlOTEtEREZsR2w2R2Y?oc=5>
-
-### 特朗普就处置伊朗浓缩铀提出新选项
+### 关于特朗普政府绿卡新政，你需要了解什么
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-05-26 02:54
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE03ZkUtaV9zOE1MMExBZVI1ZjNQRF93eHpwcWZoQnBkYkRoSEVGUFNvRERhYTZNY2JyeWt3YmlSVjc0RGRtNVZ5STE0RQ?oc=5>
-
-### 特朗普下月满80岁 称最新体检结果“完美”
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-05-27 11:55
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9UX1cxZXFOb1ZVdEI0cGx6SXhXZ1RQeG01R1ZXRjZBa1RWNVpaVWJUWDQ5YkZxa3hYQTlIYllXYmNURGVpc2pYNmlVZUZ6ZmtLQW1XTDJlZExmbURscEk4TU5qOXdkYm03dmc?oc=5>
-
-### Trump谈他的deal_新浪新闻
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-05-24 18:35
-- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTFAtcUQ0Q2k3QWNWRXloOTBfSWRVT2RwMXVNMXNmdjVBcTFfZXNVQkpzV0RhZDZRTV9pNlBNbklBSTMtZkRTRjdwaUdDbUtaaWljaWdmRFJ1M2dpeFJmbmZQX1hiSQ?oc=5>
+- 场馆: 华尔街日报中文网
+- 时间: 2026-05-26 23:40
+- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE5hXzg2cVNmcVlYY3ZfMjR4QW85R0M1ZHRpQkRfYVRRYTByQUZZNWhkRklRemhNOWlldVR0RHRQQXZhUmxwenU3ektGcFExNExmdlFXQTJROUxzWGd2bS1DWkx4TDFyV1VXdWZXRUVHU29kVzhUUERFenQ5LWs?oc=5>
 
 ### TRUMP/USDT
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: Binance
-- 时间: 2026-05-25 19:39
-- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTE9VOWFIa3R5dlN2NmM1bkhZWnBnQUxPTWdtTjR1V1R3YWhnRG5Fd05wc2pDWHBvMEpZV1lFTE93djQ2VFB5TzQxT0dhZHpPZFViX2dHSjZrTHhHOUd2N095dGVTWXYtMk0xQTJ6NjNqRHFYLW5ZRi05X1k1QQ?oc=5>
+- 时间: 2026-05-27 12:44
+- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE53aEQtZHl5MnYxcEFYZDFoNTY1dzdOY2tILWNRMXc3d05XVEtaWXlpTEVtUVhBcjZYTENfemhIeDdIYTRBV0dSNW15VTdGc09vMXJvN05iSl8wbkVRVmhoRUNaUDNZakVOdXVyVVpKbUpBZXppamQ0cDhLaFM?oc=5>
+
+### TRUMP/USDT
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Binance
+- 时间: 2026-05-25 14:19
+- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTE1haDJtaWh1UE11bXhLemhEdnpVUmZVR1RsaXBaUWtTcW12cEtpOEI3empBYVBWTkV3NnEwWTJSbFlCc0E3MDJqM3NTYzBnTlJ5dVNHYnFJT0hsSHpFSjV4T21BT25LaTEyUXVYbFZxUTN2cEVIVnVTUDFSbw?oc=5>
+
+### TRUMP/USDT
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Binance
+- 时间: 2026-05-23 14:58
+- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE9hc1hiT3NlSGZLVWVCYkpIQXZ1dHVScnowbm9saF9xT0RCNFRjUHpYNkxNbGMzeU1mbEc5RHN6ZFNtVG9oMWwxbnVfb0dzUUJ2RjF2dE5GakJJTXIyMWJ6bGdxQksxaEZCMFBzanJfT25tT2J4STZtaFl0YzU?oc=5>
+
+### TRUMP/USDT
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Binance
+- 时间: 2026-05-23 11:38
+- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE5vNV85NVlLVmlKdkxOcFU5N3Z6Y1dqcURUS2lCbG1JZ3FIYjZpbXNPd2ZJQXM3QTN4Rjc4czFJcC1sUEp5R0dhc0k2TVRRSGxmUmhJQUxPWTZIYTg0bGRhczBUU01KRV9oQ29GalhxQjF3V1p6NnJSNmxlOWc?oc=5>
+
+### TRUMP/USDT
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Binance
+- 时间: 2026-05-23 14:16
+- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE9UVkFxQUl0ZGFOQnBlN1hYY3pNS243elZwc003c1o5N0kxd1Q3Tmg0cF8zTXktekM3UVhIVGFGaDNmNFVPLTEzWU5NbThUZHF2cnlJRFdTSUxOOElNR1I2c1BIcVRtWlRPcEh0cFAyYXI5THhaOGxIaklhQlk?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-27 17:41  (8 条)
+
+- **特朗普** | 特朗普对美伊谈判“不满意” 和平前景再添变数 <https://news.google.com/rss/articles/CBMijwJBVV95cUxNai1jc2hweEJVWnN2SzZlcU9nOGtfUmJud1FvR0Y3R2dhc1dyQUNwMEVTN3QtV2JWM2prT0IzbDlxTDdCa0ViemxkMTNmMnNIMlVvTWlGdGFKTDFIQVQwVXJsYVdhWk91blRIRzVMajZ0UzAxSk4wbEFtSl9wRGdKYnRTeWRBZDRpSzF3ZUtDSzdJT09zNVpHZFdKTS1XdVJpUms4SkZXT3hvQjFyN1Njb2ptNy1yY192RU1iNUh6aHdhT1lTRkVOdHRkcGtFOU9ORjQwRjVTYnU2UUZRd3hEX0dQSndidGlyNmQ5YzZYWXRET0NRamMwN09YSEl6MzZQT0JybWVneTk2WUpIeWlr?oc=5>
+- **特朗普** | 特朗普：对目前同伊朗谈判进程“不满意” <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBHamZWQTc1anZ1bThrTWJFYk41RzBVTEU0X1lQdXZzcGxjYlBSWGsxYkxWNUlfbXhoMHRmeFRNUG1rMkdtb1k3RlozZ2o?oc=5>
+- **特朗普** | 关于特朗普政府绿卡新政，你需要了解什么 <https://news.google.com/rss/articles/CBMifEFVX3lxTE5hXzg2cVNmcVlYY3ZfMjR4QW85R0M1ZHRpQkRfYVRRYTByQUZZNWhkRklRemhNOWlldVR0RHRQQXZhUmxwenU3ektGcFExNExmdlFXQTJROUxzWGd2bS1DWkx4TDFyV1VXdWZXRUVHU29kVzhUUERFenQ5LWs?oc=5>
+- **Trump** | TRUMP/USDT <https://news.google.com/rss/articles/CBMifEFVX3lxTE53aEQtZHl5MnYxcEFYZDFoNTY1dzdOY2tILWNRMXc3d05XVEtaWXlpTEVtUVhBcjZYTENfemhIeDdIYTRBV0dSNW15VTdGc09vMXJvN05iSl8wbkVRVmhoRUNaUDNZakVOdXVyVVpKbUpBZXppamQ0cDhLaFM?oc=5>
+- **Trump** | TRUMP/USDT <https://news.google.com/rss/articles/CBMie0FVX3lxTE1haDJtaWh1UE11bXhLemhEdnpVUmZVR1RsaXBaUWtTcW12cEtpOEI3empBYVBWTkV3NnEwWTJSbFlCc0E3MDJqM3NTYzBnTlJ5dVNHYnFJT0hsSHpFSjV4T21BT25LaTEyUXVYbFZxUTN2cEVIVnVTUDFSbw?oc=5>
+- **Trump** | TRUMP/USDT <https://news.google.com/rss/articles/CBMifEFVX3lxTE9hc1hiT3NlSGZLVWVCYkpIQXZ1dHVScnowbm9saF9xT0RCNFRjUHpYNkxNbGMzeU1mbEc5RHN6ZFNtVG9oMWwxbnVfb0dzUUJ2RjF2dE5GakJJTXIyMWJ6bGdxQksxaEZCMFBzanJfT25tT2J4STZtaFl0YzU?oc=5>
+- **Trump** | TRUMP/USDT <https://news.google.com/rss/articles/CBMifEFVX3lxTE5vNV85NVlLVmlKdkxOcFU5N3Z6Y1dqcURUS2lCbG1JZ3FIYjZpbXNPd2ZJQXM3QTN4Rjc4czFJcC1sUEp5R0dhc0k2TVRRSGxmUmhJQUxPWTZIYTg0bGRhczBUU01KRV9oQ29GalhxQjF3V1p6NnJSNmxlOWc?oc=5>
+- **Trump** | TRUMP/USDT <https://news.google.com/rss/articles/CBMifEFVX3lxTE9UVkFxQUl0ZGFOQnBlN1hYY3pNS243elZwc003c1o5N0kxd1Q3Tmg0cF8zTXktekM3UVhIVGFGaDNmNFVPLTEzWU5NbThUZHF2cnlJRFdTSUxOOElNR1I2c1BIcVRtWlRPcEh0cFAyYXI5THhaOGxIaklhQlk?oc=5>
 
 ### 2026-05-27 14:28  (11 条)
 
