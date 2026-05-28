@@ -1,68 +1,76 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-28 18:00**
-- 本轮扫到 2248 条, 新增 **7** 条
+- 最近更新: **2026-05-28 20:33**
+- 本轮扫到 2255 条, 新增 **7** 条
 
 ---
 
 ## 本轮新发现 (7 条)
 
-### 王一博新歌《未来我来》上线，为高考学子加油
+### 蔡徐坤这次音乐节的造型和舞台设计背后有什么故事？
 
-- 艺人/关键词: **王一博**
+- 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1912964267_720584ab040025i4g.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801m29u.html>
 
-### Vista天下文娱|周杰伦新歌mv像AI生成的
+### 蔡徐坤压轴马来西亚音乐节！落日余晖舞台引全网期待
 
-- 艺人/关键词: **周杰伦**
+- 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1323527941_m4ee36f0505301l0hy.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801m29o.html>
 
-### 孟加拉国酷似特朗普水牛宰杀前得救 官员出手买下送往动物园
+### 蔡徐坤在马来西亚音乐节上的50分钟舞台有哪些具体亮点？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-05-28 06:57
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE1fTGhIalN1aXFfYlNlR2ZMQWEyT1AyMDlFYVd2SVh6c3hXYzBmR04xZGVBLTZ5ZVpNeWFFOEhVdEdiamxYenlxeUdyaFI0cWZONjRESXowOGtRQl8tOHJjTXRwejZiWjN1eEhXMFRTWlMtV3lF?oc=5>
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801m29k.html>
 
-### 日本玩脱了，特朗普的警告意味深长
+### 特朗普白宫开会，会场变“带货直播间”：每位官员面前摆放“建国250周年纪念帽”，售价55美元
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-05-28 13:48
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9kMzBoOWJTZjg5SmltRFNqbHUxWWNoV2RfSC1tZVdfTTNOQ2lmX1B3eWxWbHNJQUtTMndybVk0ZzhCWkpRdlYzWGRPYVRJdmNlYm1GVXY5SDdyVzA4TkEwWWtsRGdOaUpGdXc?oc=5>
+- 场馆: 21财经
+- 时间: 2026-05-28 13:07
+- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxNc0I3aUwzWjRuUnN2ZXhDR0NhVzZQWXB5aTJ1SkFXTXR1Q01Fdjh4M1RSRkJDX2w1M0lqWF92LWx6YUpBb0VJM1FzajJiQ2F1LUUxN0Njb0FsclhkVnZ2R0ZTVHpsMkNYMVc3TXQxRDRwQVFRM2VjYmFCTnd4cFdVNGpGaXd6a3ZRRVRSRWhWUQ?oc=5>
 
-### 美伊谈判最后关头海峡地区冲突又起 特朗普称谈判不受选举压力影响
+### 美伊代表已就备忘录达成一致，有待特朗普批准
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 财新
-- 时间: 2026-05-28 14:46
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1WbzRFQ1V4R090Vk8zaklUVHFzM0xKMlFUUy1HNWthSklkVTB5WVlNR2Q2alBlUUpRc05sUlJKRHNBMlpoUEFhNlJDUkgyNEFxRlljQzVnaXoyM0k1VlRkZDZHVDFwMGl5WWc?oc=5>
+- 场馆: thepaper.cn
+- 时间: 2026-05-28 15:49
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5RMV84RHFSY041MTlValVwMGg4bGZNalF1cE85aGxSZzVEQUpRaDFUQl9CYnIzaWhqbGR3UFdVZXc2Yk5yUm54NW4wOU1nMk52SXFRMGZZU0M2Z1pWVTV1OQ?oc=5>
 
-### 市场传闻：美国与伊朗已达成协议 有待特朗普批准
+### 美股指数上升 因报道指伊朗和平协议待特朗普签署
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: AASTOCKS.com
-- 时间: 2026-05-28 14:29
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE1fZnFmUlRTeEtNaGlYdm0xQ1FkRmN1ZE1iYXN3Y3FWY19qcjlCY3N0aHpTY0pkbGRmcmtacW1vT1BWSk83eUxuQWdKSGdxc3FjMF9BdGhWUEEwWGtRMzFQT3dWbHJxY2V3UFFsWnRuRQ?oc=5>
+- 时间: 2026-05-28 19:58
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTFBzaWcwUWpVQ3lLamxiTjRtamhoWXhNTUc2RTVMTkh5UEt5YU51VXNDeXR4X2N3VGM4WXgwd1ZRQWM5cUppVG9nWFdnSUlRT1ZjQVZWT2J1bEVpSGk5ZDMtNVpFOGhTbTFuaDZjU2ZBYw?oc=5>
 
-### The Trump Administration Is in Talks to Fund U.S. Drone Companies
+### 美国消息人士告诉VOA，华盛顿已与德黑兰达成临时协议，以巩固持续50天的停火，目前有待特朗普最终批准
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-05-28 01:14
-- 链接: <https://news.google.com/rss/articles/CBMiogFBVV95cUxOaU9VOXR6d3V1blhCOEdlRFc1bWhHSmtJaXh4XzRaMmNnZXRuTHc3OUNFNnB1NHNmZmIwc1VhZERQVmI5MkxOTU91NGZjZy1KMTgyZm1oMUhsOUpUVFl3WEdwU3gxWkdfWjdXMFdNSDhDVThmZVc0bllyRk1PMWhUTWJkXzEzRHV1S21mSVBLWWFQbi1hcHhoOHJaUldYQ1doSkE?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-05-28 18:45
+- 链接: <https://news.google.com/rss/articles/CBMiygFBVV95cUxQaExkeXA5U1djNE44TmlMUFVudkdyVFc5bFowVzZ4ODRZbkptSkdKM0JOMUhvR0Y5ekdBT1lJMFFBTC1KcVJqa21hX1I2dmFkM29iZGJDaTRqWVlQWUlHbG9zLTlRN2pHSWRET09PSG1BTHpCNUJKVW1MbE5ITk5KLVB3bkVRZHJJYlJNTndvM0ZwdXlWVjJtdVFSR3diTGstNF9TMzFoRHpJTk5TaFkwWWFJZG1teXVpSUhuemZDbVJsa3dEU0k3dFBn0gHMAUFVX3lxTE55RkZldWxYdDUzTWVlWWdCMTVWR2dtcHRhcGpXaWhEa3QyZXF0OWsxWkM4M1BKQVBrMFBQWWhUbnFaV2E1Ty1OYWJ2SmpORHdDOVZadkI1R3ZkVHQ4SEhsUjRBUkRGYzdudGZtQ1g0cWQ1YXZYVjJBTGpqNGx4d0lFZFB4T1pEUFhDbTltZVZUUTZjV0ttQ005cV9vSmszN1Z2S3pzOXQ2eUUwVEpmcldnMWk2YzdKazJHQ09rdkwwY0RzaGVZLWY1UUlQbg?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-28 20:33  (7 条)
+
+- **蔡徐坤** | 蔡徐坤这次音乐节的造型和舞台设计背后有什么故事？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801m29u.html>
+- **蔡徐坤** | 蔡徐坤压轴马来西亚音乐节！落日余晖舞台引全网期待 <https://k.sina.com.cn/article_7879776328_1d5abd84806801m29o.html>
+- **蔡徐坤** | 蔡徐坤在马来西亚音乐节上的50分钟舞台有哪些具体亮点？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801m29k.html>
+- **特朗普** | 特朗普白宫开会，会场变“带货直播间”：每位官员面前摆放“建国250周年纪念帽”，售价55美元 <https://news.google.com/rss/articles/CBMijwFBVV95cUxNc0I3aUwzWjRuUnN2ZXhDR0NhVzZQWXB5aTJ1SkFXTXR1Q01Fdjh4M1RSRkJDX2w1M0lqWF92LWx6YUpBb0VJM1FzajJiQ2F1LUUxN0Njb0FsclhkVnZ2R0ZTVHpsMkNYMVc3TXQxRDRwQVFRM2VjYmFCTnd4cFdVNGpGaXd6a3ZRRVRSRWhWUQ?oc=5>
+- **特朗普** | 美伊代表已就备忘录达成一致，有待特朗普批准 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5RMV84RHFSY041MTlValVwMGg4bGZNalF1cE85aGxSZzVEQUpRaDFUQl9CYnIzaWhqbGR3UFdVZXc2Yk5yUm54NW4wOU1nMk52SXFRMGZZU0M2Z1pWVTV1OQ?oc=5>
+- **Trump** | 美股指数上升 因报道指伊朗和平协议待特朗普签署 <https://news.google.com/rss/articles/CBMib0FVX3lxTFBzaWcwUWpVQ3lLamxiTjRtamhoWXhNTUc2RTVMTkh5UEt5YU51VXNDeXR4X2N3VGM4WXgwd1ZRQWM5cUppVG9nWFdnSUlRT1ZjQVZWT2J1bEVpSGk5ZDMtNVpFOGhTbTFuaDZjU2ZBYw?oc=5>
+- **Trump** | 美国消息人士告诉VOA，华盛顿已与德黑兰达成临时协议，以巩固持续50天的停火，目前有待特朗普最终批准 <https://news.google.com/rss/articles/CBMiygFBVV95cUxQaExkeXA5U1djNE44TmlMUFVudkdyVFc5bFowVzZ4ODRZbkptSkdKM0JOMUhvR0Y5ekdBT1lJMFFBTC1KcVJqa21hX1I2dmFkM29iZGJDaTRqWVlQWUlHbG9zLTlRN2pHSWRET09PSG1BTHpCNUJKVW1MbE5ITk5KLVB3bkVRZHJJYlJNTndvM0ZwdXlWVjJtdVFSR3diTGstNF9TMzFoRHpJTk5TaFkwWWFJZG1teXVpSUhuemZDbVJsa3dEU0k3dFBn0gHMAUFVX3lxTE55RkZldWxYdDUzTWVlWWdCMTVWR2dtcHRhcGpXaWhEa3QyZXF0OWsxWkM4M1BKQVBrMFBQWWhUbnFaV2E1Ty1OYWJ2SmpORHdDOVZadkI1R3ZkVHQ4SEhsUjRBUkRGYzdudGZtQ1g0cWQ1YXZYVjJBTGpqNGx4d0lFZFB4T1pEUFhDbTltZVZUUTZjV0ttQ005cV9vSmszN1Z2S3pzOXQ2eUUwVEpmcldnMWk2YzdKazJHQ09rdkwwY0RzaGVZLWY1UUlQbg?oc=5>
 
 ### 2026-05-28 18:00  (7 条)
 
