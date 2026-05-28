@@ -1,48 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-28 22:29**
-- 本轮扫到 2259 条, 新增 **4** 条
+- 最近更新: **2026-05-28 23:51**
+- 本轮扫到 2261 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (2 条)
 
-### 美伊达成60天停火备忘录草案 待特朗普最终批准
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-05-28 20:36
-- 链接: <https://news.google.com/rss/articles/CBMi0wJBVV95cUxOalJqWXd2dWFSNm9ITlZPcjZxd24zbnRSOHZBczBFUHdpcXdWNVl5WUVzdGpGNk5FajBwQ0hMWXZyeER5dUZLYnA1SjB1M1JvNXFwMlJHNTdtVHkzV05aRVlJU0Y5a3dSWDU2eWIyVFk5OE5rM3RsV3pLTlB4TGZGSEZCSWp2Sl9HVC16bnowZk5nTGtDRWVOYTgwWnljMTRwbWpJalNpYklGSlYxX0duLWg3NnRoajZydzZjdndGbnlLeEdldnlmQ3BENzA5VHg5VDctTG1Da2hHeEh1bE9wZ3pHNE9Kd1ByVk8zMzZNdXFNelBHdXNKYjEtQzFHR0NSTHpIT0g2bXoyTHFVOE9Ea1J6NkZUVW5SX2lPVk53Z1o1bm1FckIwRi10VGNzb29MMWVaa2tYSkQ0dVhQcTF3QkFKR1JFVktqWENqSjhQN2xKeWc?oc=5>
-
-### 美财长：特朗普不会接受“糟糕的伊朗协议”
+### 特朗普：霍尔木兹海峡将被美军监控？这背后有何深意？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-05-28 19:11
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE81eWh5ZkU4X2RDdnF5al9oaTRmZzQ1TExuOXdBRzNEdXhXVV9RUEhMLXVHNHBZV2RZYWpUN0lKY29NakhSQVRVMTFVRS0?oc=5>
+- 场馆: video.sina.com.cn
+- 时间: 2026-05-28 23:37
+- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxOVkY3azYtbkloTDBSWVlsUHNQdG54MW9sQ1VTMnNWN1J4dG51MkNPZTJwaW1MZnZpb0tsUndGS2JkcEVlZS1PblJ2NXFlSVBvMW1rRDVKYi1DZk9CLWF2b0lOTmd3MzZ0eFNKOTlkNWg2VFJvTmZobUtyY2o4LUVURV9n?oc=5>
 
-### 67 Million Kids Haven't Signed up for 'Trump Accounts.' Here's What They Could Be Missing Out On.
+### 突发！美国和伊朗达成和平协议，需特朗普批准！
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-05-28 21:51
-- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxPaUhkYVpMNmZZTFNnZkdwMllWUkRmdzJXcG4zX1RvaHBQTVNrSnJzUXpPMEI0VXdIelZMaTRUdzdEUWFjV09DeWlCTHVjYXA2X09McnNNR25YdUFhMFBrZmF0R01jb3I4RS05MklBSWRldEQ4YkRPcUVuNzdnZWowLWlKeXV6RFJHdkRlcGJ0M19jYzM1WHJMUzd4N0FYdEhv?oc=5>
-
-### 在7月4日上线前夕推出特朗普账号应用后，Robinhood股价大涨11.29%
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-05-28 20:28
-- 链接: <https://news.google.com/rss/articles/CBMirgFBVV95cUxNdWkwU1pjR2UwNHFDUjViSHJRdWVXdXlsMzhDRkdFOHo3SnkteUVBXzJWem52d014aHR2S25zMW1mX0Q0ZTE2VU5qY3k0TVRvVUtPZnJsS3l2a3UzZGlQX0JSYk5XWXRLX0xJUi1pTTVzQXVYYXhBWENKdS1IUzduc0Q1MkR3dFVHZDJpcnQtR1p2LTZwSVRmbGhlVTFfZGhqbUJEamNDbWxiM01kcFE?oc=5>
+- 场馆: video.sina.com.cn
+- 时间: 2026-05-28 23:37
+- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxNOGg0TWI2NU5ldEZLR0ZORURhU0ROTEJkR0tZZS1ULUgzRjlubk5ZX2M0VFBTdEZSenUtd3RZR1pYbThQTE10RW93eHRRRUFPeXdKcmJZMkRHR3FiQ3JGdWpyYUxpaEt3SFotaE1sM2hNVW1jbjYzMGRsQjFuWnRLQVh3?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-28 23:51  (2 条)
+
+- **特朗普** | 特朗普：霍尔木兹海峡将被美军监控？这背后有何深意？ <https://news.google.com/rss/articles/CBMiggFBVV95cUxOVkY3azYtbkloTDBSWVlsUHNQdG54MW9sQ1VTMnNWN1J4dG51MkNPZTJwaW1MZnZpb0tsUndGS2JkcEVlZS1PblJ2NXFlSVBvMW1rRDVKYi1DZk9CLWF2b0lOTmd3MzZ0eFNKOTlkNWg2VFJvTmZobUtyY2o4LUVURV9n?oc=5>
+- **特朗普** | 突发！美国和伊朗达成和平协议，需特朗普批准！ <https://news.google.com/rss/articles/CBMiggFBVV95cUxNOGg0TWI2NU5ldEZLR0ZORURhU0ROTEJkR0tZZS1ULUgzRjlubk5ZX2M0VFBTdEZSenUtd3RZR1pYbThQTE10RW93eHRRRUFPeXdKcmJZMkRHR3FiQ3JGdWpyYUxpaEt3SFotaE1sM2hNVW1jbjYzMGRsQjFuWnRLQVh3?oc=5>
 
 ### 2026-05-28 22:29  (4 条)
 
