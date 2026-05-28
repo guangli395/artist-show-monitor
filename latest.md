@@ -1,118 +1,78 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-28 14:34**
-- 本轮扫到 2241 条, 新增 **14** 条
+- 最近更新: **2026-05-28 18:00**
+- 本轮扫到 2248 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (14 条)
+## 本轮新发现 (7 条)
 
-### 蔡徐坤马来西亚音乐节彩排曝光，夕阳下演绎西海岸风格
+### 王一博新歌《未来我来》上线，为高考学子加油
 
-- 艺人/关键词: **蔡徐坤**
+- 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1922407515_72959c5b04001fqdm.html>
+- 链接: <https://k.sina.com.cn/article_1912964267_720584ab040025i4g.html>
 
-### 蔡徐坤马来西亚音乐节彩排，穿AMIRI秋冬男装展摇滚风
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1453501745_56a2ad3104002vawe.html>
-
-### 手机支持杜比全景声，周董新歌高音质体验！
+### Vista天下文娱|周杰伦新歌mv像AI生成的
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857141524_1d452771401902vacg.html>
+- 链接: <https://k.sina.com.cn/article_1323527941_m4ee36f0505301l0hy.html>
 
-### 周杰伦为王嘉尔新歌打call 转发MV还配文\&quot;Magic\&quot;
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019062dnq.html>
-
-### 周杰伦出新歌不积极，帮好友宣传新歌很积极，王嘉尔和Rain太幸福
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019062dic.html>
-
-### “武器系统成熟前不准造”，美国会阻击“特朗普”级战列舰-观察者网
+### 孟加拉国酷似特朗普水牛宰杀前得救 官员出手买下送往动物园
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: guancha.cn
-- 时间: 2026-05-28 13:29
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFB5OGljVTNCb3RCemJkN2dhQzZuSDNYaHY3YUdFcEo1UkltbkJoYUZOR3NCQjdQcGkyUGNKelg2LUxPeTdwcUJ2ZXpHaTF0Z0VxamhCdkxRdGYyOHctV3o0Q09CVGotN1ZjWDYwWXA2eDI?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-05-28 06:57
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE1fTGhIalN1aXFfYlNlR2ZMQWEyT1AyMDlFYVd2SVh6c3hXYzBmR04xZGVBLTZ5ZVpNeWFFOEhVdEdiamxYenlxeUdyaFI0cWZONjRESXowOGtRQl8tOHJjTXRwejZiWjN1eEhXMFRTWlMtV3lF?oc=5>
 
-### 最新！伊朗阿巴斯港附近传出爆炸声！特朗普对谈判进程“不满意”，美锁定新目标！9国“退群”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-28 14:08
-- 链接: <https://news.google.com/rss/articles/CBMikAFBVV95cUxOakZfdFRCWDZNR2doMU9lRHNPQ0hWMWNsR0IxMEQ5aVBXSWVDYnlMUTlpOFZuNl9raWVxWEZGSUx4bGRTSk5JYVJ5UXJIVy1rLXBUbXd3d19QaEVOald1WTFUWWF3UFV0cUFNNkRqay1iNWJBUUNuUWJyNE9kSER1Q2ZMNnJsNmpLRnNEclNuRlg?oc=5>
-
-### 特朗普的两张稀土王牌，先打上“内战”了
+### 日本玩脱了，特朗普的警告意味深长
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-05-28 09:27
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1CSHNFLWttM3JjaWREUWc3NjdEWlVVWFBqaGdqUU8wSE1hcUNKT3J2SE1YVUpTam5OLXRzZHdINV9Cd2N3LWMwVU5EMDY?oc=5>
+- 场馆: 观察者
+- 时间: 2026-05-28 13:48
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9kMzBoOWJTZjg5SmltRFNqbHUxWWNoV2RfSC1tZVdfTTNOQ2lmX1B3eWxWbHNJQUtTMndybVk0ZzhCWkpRdlYzWGRPYVRJdmNlYm1GVXY5SDdyVzA4TkEwWWtsRGdOaUpGdXc?oc=5>
 
-### 特朗普威胁对三国发动进攻，伊朗军方回应
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-05-28 11:52
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBCNzRJNTJjdUdFakdWTjB1TFlVWEtCd3QxX2w3SUY3RU9BMi00cFdGTS15T1diTHNIUG03MFRMTG5UZE43dDFWbjQwcUY?oc=5>
-
-### 特朗普：伊朗不会因为谈判而获得任何制裁豁免
+### 美伊谈判最后关头海峡地区冲突又起 特朗普称谈判不受选举压力影响
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中国新闻网
-- 时间: 2026-05-27 23:41
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FdU9oalZsR0ZqSnZ3UjUzYS16Y1NndXBKRmszYU8zekY5QnA0NWgwYTV1dGVFbFp1ejNoMHk0ZVlfTVZnZlhIXzBXRU5iMkJuY0dfNTNpZE4xa1V2a0pYd0owNFVHVEk?oc=5>
+- 场馆: 财新
+- 时间: 2026-05-28 14:46
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1WbzRFQ1V4R090Vk8zaklUVHFzM0xKMlFUUy1HNWthSklkVTB5WVlNR2Q2alBlUUpRc05sUlJKRHNBMlpoUEFhNlJDUkgyNEFxRlljQzVnaXoyM0k1VlRkZDZHVDFwMGl5WWc?oc=5>
 
-### 特朗普“背书”主导多州国会初选，共和党人担忧铁腕控制或反噬选情
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-05-28 12:25
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE85cmp1VzY4MHVjOHBIR2t6QXNNTmV1cTVFSHNzVW45T2RjVlhHc3JMZ3JtWWZBU2FFNjJJTjAwOXE5M1dTWWg5NkRVdlRBVUtXZ01lcWZHbW8tUEstN1hfWQ?oc=5>
-
-### 特朗普：对目前同伊朗谈判进程“不满意”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中国网新闻中心
-- 时间: 2026-05-28 00:25
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE11NHAzeVdmZE10VjNNd3pKWkVwbU85Nkw0S2VVX0lWekdvWElMaWQ3Q09YanNpYk9GRllET2VnRUMwUDNDUWpNRC12VUpaalF0TzJXTk1waW1HQ2xJY2tMWlpMc0p1ckU5WkVF?oc=5>
-
-### 美国总统特朗普访华，为何逛北京的这座公园？_中新社_北京分社
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: bj.chinanews.com.cn
-- 时间: 2026-05-28 09:15
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1OVHB3WnpQaUxfSnlYUUN4QzlEc0FOb096TWRadl9ZaXZNUG5xN0dIajVyU2k5ei1uU0V4b2RHSUlwWUhjdUpuNndWcnlpcVhndlJRQU1wS05lR011YVRlVGY0OW9TSEpCQUE?oc=5>
-
-### 市场传闻：News 面临特朗普就Epstein 相关报道的新诉讼财经新闻Financial News
+### 市场传闻：美国与伊朗已达成协议 有待特朗普批准
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: AASTOCKS.com
-- 时间: 2026-05-28 10:13
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9sQjZiR0ZESldudHllcERXa0xXUkxQYXJtQXFhaEVKVE15YVRYOWs1b3JSZG1jNHZJeVlfa3UzVVY0RV9nRzRRVm5yQTJYQnNCUGd1QV80Z3ZpSElYZkNUOV9LMnFJQVl5R3E1eU9HU2pEOHRJNXRSTnZHcnZ2Mk0?oc=5>
+- 时间: 2026-05-28 14:29
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE1fZnFmUlRTeEtNaGlYdm0xQ1FkRmN1ZE1iYXN3Y3FWY19qcjlCY3N0aHpTY0pkbGRmcmtacW1vT1BWSk83eUxuQWdKSGdxc3FjMF9BdGhWUEEwWGtRMzFQT3dWbHJxY2V3UFFsWnRuRQ?oc=5>
+
+### The Trump Administration Is in Talks to Fund U.S. Drone Companies
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-05-28 01:14
+- 链接: <https://news.google.com/rss/articles/CBMiogFBVV95cUxOaU9VOXR6d3V1blhCOEdlRFc1bWhHSmtJaXh4XzRaMmNnZXRuTHc3OUNFNnB1NHNmZmIwc1VhZERQVmI5MkxOTU91NGZjZy1KMTgyZm1oMUhsOUpUVFl3WEdwU3gxWkdfWjdXMFdNSDhDVThmZVc0bllyRk1PMWhUTWJkXzEzRHV1S21mSVBLWWFQbi1hcHhoOHJaUldYQ1doSkE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-28 18:00  (7 条)
+
+- **王一博** | 王一博新歌《未来我来》上线，为高考学子加油 <https://k.sina.com.cn/article_1912964267_720584ab040025i4g.html>
+- **周杰伦** | Vista天下文娱|周杰伦新歌mv像AI生成的 <https://k.sina.com.cn/article_1323527941_m4ee36f0505301l0hy.html>
+- **特朗普** | 孟加拉国酷似特朗普水牛宰杀前得救 官员出手买下送往动物园 <https://news.google.com/rss/articles/CBMidEFVX3lxTE1fTGhIalN1aXFfYlNlR2ZMQWEyT1AyMDlFYVd2SVh6c3hXYzBmR04xZGVBLTZ5ZVpNeWFFOEhVdEdiamxYenlxeUdyaFI0cWZONjRESXowOGtRQl8tOHJjTXRwejZiWjN1eEhXMFRTWlMtV3lF?oc=5>
+- **特朗普** | 日本玩脱了，特朗普的警告意味深长 <https://news.google.com/rss/articles/CBMiakFVX3lxTE9kMzBoOWJTZjg5SmltRFNqbHUxWWNoV2RfSC1tZVdfTTNOQ2lmX1B3eWxWbHNJQUtTMndybVk0ZzhCWkpRdlYzWGRPYVRJdmNlYm1GVXY5SDdyVzA4TkEwWWtsRGdOaUpGdXc?oc=5>
+- **特朗普** | 美伊谈判最后关头海峡地区冲突又起 特朗普称谈判不受选举压力影响 <https://news.google.com/rss/articles/CBMiakFVX3lxTE1WbzRFQ1V4R090Vk8zaklUVHFzM0xKMlFUUy1HNWthSklkVTB5WVlNR2Q2alBlUUpRc05sUlJKRHNBMlpoUEFhNlJDUkgyNEFxRlljQzVnaXoyM0k1VlRkZDZHVDFwMGl5WWc?oc=5>
+- **Trump** | 市场传闻：美国与伊朗已达成协议 有待特朗普批准 <https://news.google.com/rss/articles/CBMib0FVX3lxTE1fZnFmUlRTeEtNaGlYdm0xQ1FkRmN1ZE1iYXN3Y3FWY19qcjlCY3N0aHpTY0pkbGRmcmtacW1vT1BWSk83eUxuQWdKSGdxc3FjMF9BdGhWUEEwWGtRMzFQT3dWbHJxY2V3UFFsWnRuRQ?oc=5>
+- **Trump** | The Trump Administration Is in Talks to Fund U.S. Drone Companies <https://news.google.com/rss/articles/CBMiogFBVV95cUxOaU9VOXR6d3V1blhCOEdlRFc1bWhHSmtJaXh4XzRaMmNnZXRuTHc3OUNFNnB1NHNmZmIwc1VhZERQVmI5MkxOTU91NGZjZy1KMTgyZm1oMUhsOUpUVFl3WEdwU3gxWkdfWjdXMFdNSDhDVThmZVc0bllyRk1PMWhUTWJkXzEzRHV1S21mSVBLWWFQbi1hcHhoOHJaUldYQ1doSkE?oc=5>
 
 ### 2026-05-28 14:34  (14 条)
 
