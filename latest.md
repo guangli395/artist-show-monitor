@@ -1,72 +1,91 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-27 23:43**
-- 本轮扫到 2200 条, 新增 **7** 条
+- 最近更新: **2026-05-28 02:37**
+- 本轮扫到 2208 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (8 条)
 
-### 特朗普总统：伊朗“在快耗尽资源的状态下进行谈判”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-05-27 23:00
-- 链接: <https://news.google.com/rss/articles/CBMikAFBVV95cUxNYmx1NzVMSFdpdzZQT3FEM1R2QjlaTkRtVFRqV0t2WmRsT2ZVMW4yVHp1MjN3eXpJN0VNcWpoVnEzSjRmVmNpTWVaRV95ekdvN2hEOHhkdEU0N3UtSDcxUXUxQk9ZQkVaZTMzOGlwOE1zMWkyd3k1UVd6ZVA0Y3RIZGRmUHp1TEZuZnJrWHA4LTXSAZMBQVVfeXFMTk55RHl3V0taMEFTMEdiN1loUUVuN09NcnItbjlDa3dReHJ5SlhrSnNXcllsWUV2YkJUcktqSVJQWDBBWS1PS1BNMHlZWnhSRnVvTFJYQmE3aEZCTXlXM0pJN3F5bUJNNGIyeDFsX2xsR3o0TUY5eFItSC1yUmZiYkp3QjRGQnRVS0FQWXlPdlZUa1A0?oc=5>
-
-### 国际观察｜捆绑推销“亚伯拉罕协议”？特朗普的算盘难打成
+### 特朗普“和平委员会”：账上没钱，项目停摆
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新蓝网
-- 时间: 2026-05-27 22:35
-- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE1uZDE1YTN4YmMwZ3Z5UjFGMHlsbGhyZG95TjBLZExuWUZjbS1FYTF1LVQ0V0RneEkzQ0tEbnNJUEQ5RUZkWG9NMVBLWGVMYlE?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-05-28 00:40
+- 链接: <https://news.google.com/rss/articles/CBMijgJBVV95cUxNdk9rQUdNa0Q0VmZSYkx6bUNPUlRJMUljZEhLeGt5RjItY0JlUlprQ0RlTnI5eXlPS1lzU3dLZnhBVkg3ZU9OMXZFVE1QLVdkckY0Yks1TWlINGpXOVE1YjNKSkRHN0xDdjY3N0NvNjVSR196aklqVTFrR01IQzhlU0Riay1hOFZ5MEZnSHRDTEYtaTkxcGtkS2J4NXhNTTFhTVpUSHN0YmNnR0xkU1U5QkF1WEdzZkI2ZXZSazhsY2tjVWMtRGhubVF2dWdXVFBDTFh6M2IyVml2WDhtbkRaWm54RkNYYnIxNGJ0Qjl0bGtRMG15ZGhYWVZEbXdJa2lFekk1MTBQQTVQYmMxeWc?oc=5>
 
-### 特朗普：对目前同伊朗谈判进程“不满意”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中国青年网
-- 时间: 2026-05-27 22:30
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBSWkhDc2M4MDdFZkMteGNqaHBHbHkta2IwblZER2MyYm5GRzVtVXJ3SExfMHVONl94S2ZsbDV4YjlwWlF3ejRNUUdwaDl3WnhoN1lhakdNMmZsRVFyY0F4MjBWX2Y?oc=5>
-
-### 要闻分析 - 伊朗与美国还在撕扯什么
+### 特朗普过去24小时都忙了什么？（2026-05-27）
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-05-27 21:38
-- 链接: <https://news.google.com/rss/articles/CBMirAJBVV95cUxNbzJUb2RNZE9oZjlhVWxaQ3dxczFZN3JjcF9RcFVDSk9wWl9nWHNhSnZ2Y19aQnlnTFVRdXEtVEpLNEdYU2hmOTdKeEJKQUMwNkFfaFZub0N0VWJ3SGhnYWxOZG5HUFYwcXQ4d2c1SFhVOE4tczNTMnB6VFVLUlJhMkl1UXNlaXFvcmxGb0Q3ZVJUNWlQT3FaQXBsSUR3ZFVLTnZ5UjVTeV93X0JlUEY2WS1Bbks4VUhaRVFKXzFjUGtBdkxtNVlPMnN5RHl1elR0NkJvWHY2Z1ZINXNyRlF1QVdnUTB1Z2c1R3c3aGxIVmgwaFJQdE9XRDVJOTJVUm1JWl9wa0hoRU5JS1BmZ1Myd1RYczJRWnJ3VVpjZnFVRmlpaFVzeEFOUm5zYWM?oc=5>
-
-### 临时改变举办地点，美媒列出关键问题，特朗普内阁会议商谈美伊协议
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 环球网
-- 时间: 2026-05-27 07:33
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTFBza2lvZjlGMEo0Qlc0LTBneUpmYkgyWmItd1lmOURIQ2JyMmNGZjhqRHYwX2Rzdl9XMk1uQUVFbmhBbkVnZlNJa29PYjlYakJZVDcyU1VnUEI?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-05-28 00:22
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxOdTRySWp3a0NrTGNOSHlLYkgwUXc1S29ROWdSdzlXa1ZsRjRCaXhCNXUwVHNNOVJlWDhXdVVIc3FVOHJuUUZ4dUF3RkpTSHY5S0hnYWV2bWhOdFBJVy1qNWItMWs3XzVZbGU1VUJ0b004VWJPM0dtT1VrZmY0MVppR1dyVmVsaVE?oc=5>
 
 ### 特朗普称霍尔木兹海峡不归任何人管 对阿曼发出警告
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-05-27 22:50
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5pa2Zab1haTVRrLW0wMUpaNXNaVDFSR3lzS2J1UXpHbnFQSkNNNU81UUhhc2hHT181SXRhQzU1WUVYWTF2QkZiWV8zMU40NnZmTDhxZTl4TnFwcFpZNjhBelFFVi05MHNC?oc=5>
+- 场馆: 中国新闻网
+- 时间: 2026-05-27 22:52
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1udkgteEE3NUVRdzRCN3MzcDRUeEtwY1JCdHdabVNIT2k2NjBIQjFYRS1XRDBPTllOWFRPcmxGMVJsN25EWW1pV1Z0dG5jZzN4TTlpbU9VX3RBdFFfODNRQnVHeVhCSUU?oc=5>
 
-### 特朗普称美伊尚未达成协议，白宫否认伊朗媒体说法
+### 特朗普：伊朗想拿这逼我？大错特错-观察者网
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-27 20:28
-- 链接: <https://news.google.com/rss/articles/CBMinwJBVV95cUxPX3VQQ2dYOW84aHExNi1IWW0tUHVvSGpTeEU0cGwteG85RVFTMXJYRjNZNWJFVldlelVIbmMwU1c0RzFpMDBhUFVKWlRKYW0wZllaUi1meXc4bGFxNThuLUJ0M3A4M0gxc2hWV3NFYkZpeUNTdFVmX3dKZkJ5d0VyekVuVTFfMTdUWVQtWk94cjc0MWQ2aHk2Z3NNWFRkamxOX1NHM3k4RjhoYy1hcUl6QkN2TTEyTXk1M1V4V1oxNTYyMzJpUk1lUV9JNjdVVUx6SFF3bHNDbjlSQjE1bFY3OVlJMDc2d3pERk1qZEdGb05kVjhDSEFfdkY0cHhZLVA2ckJDYWxtRlpxaGtoMzBFSkdLdThGY0d3U3dnSU02Zw?oc=5>
+- 场馆: 观察者
+- 时间: 2026-05-28 01:29
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFAtNUxDMjBTNTMzZFFLRENXZmxxV1JvLUxSTEVTSV9YSlV6OUJDME9haVZNWGtNdUxza25rVnBVZlEzUEZIdjNQcmt4RVVQV1FIVjc0djRFOXdGd0RkZUc1OUE2ZkVsbGgzU3c?oc=5>
+
+### 特朗普：伊朗不会因为谈判而获得任何制裁豁免
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: chinanews.com.cn
+- 时间: 2026-05-27 23:41
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE01dS1ySmpiNDEyeGppUzJMVTFDdUpEQk1wM21qa2I0dVlQTEJhSm1LWkV5VjJqeW9FMnpTb3ptNjN6S0M3NENlUjFsc0NEYVNQT1g2dk0zRE5XSFprRUNzektTbENUbGZY?oc=5>
+
+### 前联邦法官要求调查特朗普与国税局和解案
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: AASTOCKS.com
+- 时间: 2026-05-27 23:47
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE52LS10b1A4Skphc3VBeWI1YlRBak1FRHRQR3FqX2cyMWFmc3RfWGh4UFYzZTVQNVYzaEQ2WGhuMmx5VGRRcVJIM1Q2SVQzX0dic1lRUUZzdlo5Nk9fWWFvZW51TlpUYkdnN1ozS2Zjdw?oc=5>
+
+### “特朗普账户”应用程序将于周四上线，你需要了解什么
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-05-28 00:24
+- 链接: <https://news.google.com/rss/articles/CBMipgFBVV95cUxNQzRqSVg0Z1R2bGlTMGRCSW1fRXBmdmMxdlpHazNKS21ESUdadFNqdHItLUlIS1BPTlhDdnRiRTF1STNRMWJxc25iekdFRUM3V1hfRWlpRFBTYTBEOHlhaExDTkFEYnBLNk1nd1gzRUhGV19uOUhtX2ZWeUxXUXhkUE0xbDctX2FaTVJmYjFYRW1lWk9CYWdnYnRrN09NWlNiVXRBekJ3?oc=5>
+
+### 特朗普政府正就注资国内无人机公司进行谈判
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-05-28 01:53
+- 链接: <https://news.google.com/rss/articles/CBMid0FVX3lxTE9TT0Q5VkZSX0dEVTRqQmpSQllTWnhXbjNKWC1BSjF3VHBHZDhGd1pybjU5MWZzNUUtVzczQ2xFM2xISnZLUXJVWGg1enFBNVhoOFNITjhSOFRKaV9VZzFacEliMW5HYS1QcnBhZElqbnpqQm83ZENV?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-28 02:37  (8 条)
+
+- **特朗普** | 特朗普“和平委员会”：账上没钱，项目停摆 <https://news.google.com/rss/articles/CBMijgJBVV95cUxNdk9rQUdNa0Q0VmZSYkx6bUNPUlRJMUljZEhLeGt5RjItY0JlUlprQ0RlTnI5eXlPS1lzU3dLZnhBVkg3ZU9OMXZFVE1QLVdkckY0Yks1TWlINGpXOVE1YjNKSkRHN0xDdjY3N0NvNjVSR196aklqVTFrR01IQzhlU0Riay1hOFZ5MEZnSHRDTEYtaTkxcGtkS2J4NXhNTTFhTVpUSHN0YmNnR0xkU1U5QkF1WEdzZkI2ZXZSazhsY2tjVWMtRGhubVF2dWdXVFBDTFh6M2IyVml2WDhtbkRaWm54RkNYYnIxNGJ0Qjl0bGtRMG15ZGhYWVZEbXdJa2lFekk1MTBQQTVQYmMxeWc?oc=5>
+- **特朗普** | 特朗普过去24小时都忙了什么？（2026-05-27） <https://news.google.com/rss/articles/CBMihwFBVV95cUxOdTRySWp3a0NrTGNOSHlLYkgwUXc1S29ROWdSdzlXa1ZsRjRCaXhCNXUwVHNNOVJlWDhXdVVIc3FVOHJuUUZ4dUF3RkpTSHY5S0hnYWV2bWhOdFBJVy1qNWItMWs3XzVZbGU1VUJ0b004VWJPM0dtT1VrZmY0MVppR1dyVmVsaVE?oc=5>
+- **特朗普** | 特朗普称霍尔木兹海峡不归任何人管 对阿曼发出警告 <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1udkgteEE3NUVRdzRCN3MzcDRUeEtwY1JCdHdabVNIT2k2NjBIQjFYRS1XRDBPTllOWFRPcmxGMVJsN25EWW1pV1Z0dG5jZzN4TTlpbU9VX3RBdFFfODNRQnVHeVhCSUU?oc=5>
+- **特朗普** | 特朗普：伊朗想拿这逼我？大错特错-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTFAtNUxDMjBTNTMzZFFLRENXZmxxV1JvLUxSTEVTSV9YSlV6OUJDME9haVZNWGtNdUxza25rVnBVZlEzUEZIdjNQcmt4RVVQV1FIVjc0djRFOXdGd0RkZUc1OUE2ZkVsbGgzU3c?oc=5>
+- **特朗普** | 特朗普：伊朗不会因为谈判而获得任何制裁豁免 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE01dS1ySmpiNDEyeGppUzJMVTFDdUpEQk1wM21qa2I0dVlQTEJhSm1LWkV5VjJqeW9FMnpTb3ptNjN6S0M3NENlUjFsc0NEYVNQT1g2dk0zRE5XSFprRUNzektTbENUbGZY?oc=5>
+- **Trump** | 前联邦法官要求调查特朗普与国税局和解案 <https://news.google.com/rss/articles/CBMib0FVX3lxTE52LS10b1A4Skphc3VBeWI1YlRBak1FRHRQR3FqX2cyMWFmc3RfWGh4UFYzZTVQNVYzaEQ2WGhuMmx5VGRRcVJIM1Q2SVQzX0dic1lRUUZzdlo5Nk9fWWFvZW51TlpUYkdnN1ozS2Zjdw?oc=5>
+- **Trump** | “特朗普账户”应用程序将于周四上线，你需要了解什么 <https://news.google.com/rss/articles/CBMipgFBVV95cUxNQzRqSVg0Z1R2bGlTMGRCSW1fRXBmdmMxdlpHazNKS21ESUdadFNqdHItLUlIS1BPTlhDdnRiRTF1STNRMWJxc25iekdFRUM3V1hfRWlpRFBTYTBEOHlhaExDTkFEYnBLNk1nd1gzRUhGV19uOUhtX2ZWeUxXUXhkUE0xbDctX2FaTVJmYjFYRW1lWk9CYWdnYnRrN09NWlNiVXRBekJ3?oc=5>
+- **Trump** | 特朗普政府正就注资国内无人机公司进行谈判 <https://news.google.com/rss/articles/CBMid0FVX3lxTE9TT0Q5VkZSX0dEVTRqQmpSQllTWnhXbjNKWC1BSjF3VHBHZDhGd1pybjU5MWZzNUUtVzczQ2xFM2xISnZLUXJVWGg1enFBNVhoOFNITjhSOFRKaV9VZzFacEliMW5HYS1QcnBhZElqbnpqQm83ZENV?oc=5>
 
 ### 2026-05-27 23:43  (7 条)
 
