@@ -1,78 +1,135 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-28 10:51**
-- 本轮扫到 2227 条, 新增 **8** 条
+- 最近更新: **2026-05-28 14:34**
+- 本轮扫到 2241 条, 新增 **14** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (14 条)
 
-### 周杰伦嘉年华世界巡回演唱会
+### 蔡徐坤马来西亚音乐节彩排曝光，夕阳下演绎西海岸风格
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1922407515_72959c5b04001fqdm.html>
+
+### 蔡徐坤马来西亚音乐节彩排，穿AMIRI秋冬男装展摇滚风
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1453501745_56a2ad3104002vawe.html>
+
+### 手机支持杜比全景声，周董新歌高音质体验！
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924015_m1d5ae192f03301k1q8.html>
+- 链接: <https://k.sina.com.cn/article_7857141524_1d452771401902vacg.html>
 
-### 特朗普称美国将建立“经得起未来考验”的加密货币市场结构
+### 周杰伦为王嘉尔新歌打call 转发MV还配文\&quot;Magic\&quot;
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019062dnq.html>
+
+### 周杰伦出新歌不积极，帮好友宣传新歌很积极，王嘉尔和Rain太幸福
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019062dic.html>
+
+### “武器系统成熟前不准造”，美国会阻击“特朗普”级战列舰-观察者网
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: guancha.cn
+- 时间: 2026-05-28 13:29
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFB5OGljVTNCb3RCemJkN2dhQzZuSDNYaHY3YUdFcEo1UkltbkJoYUZOR3NCQjdQcGkyUGNKelg2LUxPeTdwcUJ2ZXpHaTF0Z0VxamhCdkxRdGYyOHctV3o0Q09CVGotN1ZjWDYwWXA2eDI?oc=5>
+
+### 最新！伊朗阿巴斯港附近传出爆炸声！特朗普对谈判进程“不满意”，美锁定新目标！9国“退群”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-28 10:07
-- 链接: <https://news.google.com/rss/articles/CBMijgJBVV95cUxNd3dVOFNDS1hlLWVqNVpPLWlPajhmaUJVdDF2NDYtb2VnSE5FbG5lVktOT1M0TzZ0V1dnUzlpejd3QWhiSGlDVERvRlJvWnRNa1RvXzhRd1hQSFFsaUoxQXAxNm12bnZXWndYUW9oMHlTS09hc0xFSUZ0bUVrdzdLMXQtRWVheG1EOXYyMVY5dm5vSjc1ZUx1UzkySU04RmF6endncGZ0NGV5cFAxcWgyUFlnaXlFTHh5WklDSXpHRW9KaERoYjJFWGJGVS1XQU5sNk1wWlRYVDJBUmtHRVE0WnBENjRkNHlRUFgySnZUNm1jSFdHaEZrbGxEZjRGT3lvdHROTFpiTWhGd0JnRWc?oc=5>
+- 时间: 2026-05-28 14:08
+- 链接: <https://news.google.com/rss/articles/CBMikAFBVV95cUxOakZfdFRCWDZNR2doMU9lRHNPQ0hWMWNsR0IxMEQ5aVBXSWVDYnlMUTlpOFZuNl9raWVxWEZGSUx4bGRTSk5JYVJ5UXJIVy1rLXBUbXd3d19QaEVOald1WTFUWWF3UFV0cUFNNkRqay1iNWJBUUNuUWJyNE9kSER1Q2ZMNnJsNmpLRnNEclNuRlg?oc=5>
 
-### 美伊互袭击军事设施 特朗普：不怕与德黑兰耗时间
+### 特朗普的两张稀土王牌，先打上“内战”了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: dw.com
-- 时间: 2026-05-28 10:18
-- 链接: <https://news.google.com/rss/articles/CBMixgJBVV95cUxNcmVta2ktdnEwWU82dkxQd1BXdThTR1RSQ0pRUDdnejBJUGRfd2l5RVlKcmc4X2MtTWhUbjNfbWJIX3Z5MmdJZklBMjZleGtLVEJISWotX2FkZFZGeWdzWTNKWmV0SkthQTNHWHVRZy1Fa2phRUViN253QzNEdHBOM0I2WTlmV3ZXZlpzcVBBMzRabjMtTUdVWUk3RmRERHlVNnVvRzRDa21NN3NCcUIxZUg2YU5fT2Vub1pObWxzUkNsM0tsNzlmV1psRFJhMkJ1SVBhZFhjZjN1ZmtNVl9tV21sWFRBZGlFZmw5SDF0YjdNSTY1WWZvYnNETUtOdkc4dWdnQWx4Nm1FS2ZXbjhTeTBDSGlwRG1zcHVGZTBJNWlWSUtXdmo1NVZmN1VOWlN0enJ5Q3o2YlFDNldYSVJqWVhFUEFnZ9IBxgJBVV95cUxONEhfUkhUTVo5NUlaU3FsZXRaTXpPUmg5cWN4a3BQLTAwNy1nTjVrRGhEYllOa25TT2NWZ0dzWUx2U1B3Zm5zUW5LZG8zb0dmSW1hQkRGU3VKYXNnYWplclRuU2wxZGdkalFMRVhNOXh1MFM0QmpJWUNRX0NkbzBON2lHdVNpSVROZFFzVTJhWUpvcEFsSHc0ZnBhOXp1MjNUSGhDaHdlekc4dHQ4VnhMLXExYmdjazVHLVNFWUY5VVBMcm05UlJaMlRrLTVtWHE5dk1TN1FpeFlmN3BmRVNSVUZnYncxZi1NTXNKcUhSNGlxMUV4VmV0dk9DYnptTHNkcnRiQnNESGctclNfWVo1ODAzS0dfNnF4NGoyRm9HM0Uzc1JlVXYtYXBIN0tmSGZTby13U0RxcTNRbkpNWVpYT1Uyb2pGdw?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-05-28 09:27
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1CSHNFLWttM3JjaWREUWc3NjdEWlVVWFBqaGdqUU8wSE1hcUNKT3J2SE1YVUpTam5OLXRzZHdINV9Cd2N3LWMwVU5EMDY?oc=5>
+
+### 特朗普威胁对三国发动进攻，伊朗军方回应
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-05-28 11:52
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBCNzRJNTJjdUdFakdWTjB1TFlVWEtCd3QxX2w3SUY3RU9BMi00cFdGTS15T1diTHNIUG03MFRMTG5UZE43dDFWbjQwcUY?oc=5>
+
+### 特朗普：伊朗不会因为谈判而获得任何制裁豁免
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中国新闻网
+- 时间: 2026-05-27 23:41
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FdU9oalZsR0ZqSnZ3UjUzYS16Y1NndXBKRmszYU8zekY5QnA0NWgwYTV1dGVFbFp1ejNoMHk0ZVlfTVZnZlhIXzBXRU5iMkJuY0dfNTNpZE4xa1V2a0pYd0owNFVHVEk?oc=5>
+
+### 特朗普“背书”主导多州国会初选，共和党人担忧铁腕控制或反噬选情
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-05-28 12:25
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE85cmp1VzY4MHVjOHBIR2t6QXNNTmV1cTVFSHNzVW45T2RjVlhHc3JMZ3JtWWZBU2FFNjJJTjAwOXE5M1dTWWg5NkRVdlRBVUtXZ01lcWZHbW8tUEstN1hfWQ?oc=5>
 
 ### 特朗普：对目前同伊朗谈判进程“不满意”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-28 09:30
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxQUXdBQl9zd3MyV2tfWkZWZzdUYmJfaFFLazRwOFZIcWJXOVh3UGxkeGtMNXhsOEZ3eVBqYTBmNnNPUWw1N3BZZU5IcnhmQU1IV3N1YktqUlBGVE5lSjVzSms4VzdoVFpZbDlRZ09sMHZjR3NYam5hZkFuWld0YTZ5S25pbm11Qk16STZjYlhlczlyaWhheUVzRQ?oc=5>
+- 场馆: 中国网新闻中心
+- 时间: 2026-05-28 00:25
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE11NHAzeVdmZE10VjNNd3pKWkVwbU85Nkw0S2VVX0lWekdvWElMaWQ3Q09YanNpYk9GRllET2VnRUMwUDNDUWpNRC12VUpaalF0TzJXTk1waW1HQ2xJY2tMWlpMc0p1ckU5WkVF?oc=5>
 
-### 特朗普：对目前同伊朗谈判进程“不满意” ！美股收涨，油价大幅跳水
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-28 10:15
-- 链接: <https://news.google.com/rss/articles/CBMiggJBVV95cUxOSmdyc1JOZUgweERKckg3NWtIS2dLeU9wS0hGcW04cDBaZmYxb2FfUkk5Z1NRSlk4bXNFbjlFRTdwQ0h3QXVSb19vMWd2QmtWNlJPQWk4RkF1Yy1hbzVDbkllZWp3T2JhNlFKSUl2SE5xY3pNczR2SkYtWkp3Si10M0h5THl4NkRBR29RSUN6bkx5WUVDWUpnNnAtSG9qQjlmcHo5MUNBeUg0TUkySEZ3Nmc5akRLaVY5NmtHRWFpNnVyd0tDUHMxa0xVWk5zREJKUXNjMncwTTVjRm5Dd0dqSXVneHRDTEt5ZWtPTEowbnQ3S3hWWjl1UXRqVGlHNzFGSGc?oc=5>
-
-### 哦吼，特朗普的两张稀土王牌，先打上“内战”了
+### 美国总统特朗普访华，为何逛北京的这座公园？_中新社_北京分社
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-05-28 08:34
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBZbnBaT1pFWG9icWp5NW9RTm5jTXpmTlY2S2ZkYzQ1ZlpPQmtQbjhVWWRycE1rOXpEODB3UmUxcFJoUzBSOHZrWl9NeVFTRjNFUUtmSUUtdTdTSEs2WlJ6NkJDMXk1ckZqdUE?oc=5>
+- 场馆: bj.chinanews.com.cn
+- 时间: 2026-05-28 09:15
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1OVHB3WnpQaUxfSnlYUUN4QzlEc0FOb096TWRadl9ZaXZNUG5xN0dIajVyU2k5ei1uU0V4b2RHSUlwWUhjdUpuNndWcnlpcVhndlJRQU1wS05lR011YVRlVGY0OW9TSEpCQUE?oc=5>
 
-### 金融学术前沿丨特朗普2026年访华：战略博弈与务实接触
+### 市场传闻：News 面临特朗普就Epstein 相关报道的新诉讼财经新闻Financial News
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 复旦发展研究院
-- 时间: 2026-05-28 09:34
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Fa1RvZFVFNnhaMURWeUtNQXUyN1YtTHN1cEdHNjQ5VmhxSHNjZ08ycHlsVjdyWjh0VGw4MF9yWFh2S2NMejdpU0V4RjI1OTQxdGlVdnJUdnFQX1k5Mk52VjBITXc?oc=5>
-
-### 两岸圆桌派｜高志凯、雷倩：特朗普不会打电话给赖清德，要打也会这样警告……
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-05-28 05:55
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYbVdad0NNQkZ2VmNCU0FjbkZWdVd2QV9JOGFTMlVITHp6Y0ZITk9OZGlpZ1ZzNGhBeE1JU1VrT19ZcVEtMmVqWU9kSFpUQmNGVXJHb0V3TU1HX2tXVGdFdm5LYjllNkU?oc=5>
+- 场馆: AASTOCKS.com
+- 时间: 2026-05-28 10:13
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9sQjZiR0ZESldudHllcERXa0xXUkxQYXJtQXFhaEVKVE15YVRYOWs1b3JSZG1jNHZJeVlfa3UzVVY0RV9nRzRRVm5yQTJYQnNCUGd1QV80Z3ZpSElYZkNUOV9LMnFJQVl5R3E1eU9HU2pEOHRJNXRSTnZHcnZ2Mk0?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-28 14:34  (14 条)
+
+- **蔡徐坤** | 蔡徐坤马来西亚音乐节彩排曝光，夕阳下演绎西海岸风格 <https://k.sina.com.cn/article_1922407515_72959c5b04001fqdm.html>
+- **蔡徐坤** | 蔡徐坤马来西亚音乐节彩排，穿AMIRI秋冬男装展摇滚风 <https://k.sina.com.cn/article_1453501745_56a2ad3104002vawe.html>
+- **周杰伦** | 手机支持杜比全景声，周董新歌高音质体验！ <https://k.sina.com.cn/article_7857141524_1d452771401902vacg.html>
+- **周杰伦** | 周杰伦为王嘉尔新歌打call 转发MV还配文\&quot;Magic\&quot; <https://k.sina.com.cn/article_7857201856_1d45362c0019062dnq.html>
+- **周杰伦** | 周杰伦出新歌不积极，帮好友宣传新歌很积极，王嘉尔和Rain太幸福 <https://k.sina.com.cn/article_7857201856_1d45362c0019062dic.html>
+- **特朗普** | “武器系统成熟前不准造”，美国会阻击“特朗普”级战列舰-观察者网 <https://news.google.com/rss/articles/CBMicEFVX3lxTFB5OGljVTNCb3RCemJkN2dhQzZuSDNYaHY3YUdFcEo1UkltbkJoYUZOR3NCQjdQcGkyUGNKelg2LUxPeTdwcUJ2ZXpHaTF0Z0VxamhCdkxRdGYyOHctV3o0Q09CVGotN1ZjWDYwWXA2eDI?oc=5>
+- **特朗普** | 最新！伊朗阿巴斯港附近传出爆炸声！特朗普对谈判进程“不满意”，美锁定新目标！9国“退群” <https://news.google.com/rss/articles/CBMikAFBVV95cUxOakZfdFRCWDZNR2doMU9lRHNPQ0hWMWNsR0IxMEQ5aVBXSWVDYnlMUTlpOFZuNl9raWVxWEZGSUx4bGRTSk5JYVJ5UXJIVy1rLXBUbXd3d19QaEVOald1WTFUWWF3UFV0cUFNNkRqay1iNWJBUUNuUWJyNE9kSER1Q2ZMNnJsNmpLRnNEclNuRlg?oc=5>
+- **特朗普** | 特朗普的两张稀土王牌，先打上“内战”了 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1CSHNFLWttM3JjaWREUWc3NjdEWlVVWFBqaGdqUU8wSE1hcUNKT3J2SE1YVUpTam5OLXRzZHdINV9Cd2N3LWMwVU5EMDY?oc=5>
+- **特朗普** | 特朗普威胁对三国发动进攻，伊朗军方回应 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBCNzRJNTJjdUdFakdWTjB1TFlVWEtCd3QxX2w3SUY3RU9BMi00cFdGTS15T1diTHNIUG03MFRMTG5UZE43dDFWbjQwcUY?oc=5>
+- **特朗普** | 特朗普：伊朗不会因为谈判而获得任何制裁豁免 <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FdU9oalZsR0ZqSnZ3UjUzYS16Y1NndXBKRmszYU8zekY5QnA0NWgwYTV1dGVFbFp1ejNoMHk0ZVlfTVZnZlhIXzBXRU5iMkJuY0dfNTNpZE4xa1V2a0pYd0owNFVHVEk?oc=5>
+- **特朗普** | 特朗普“背书”主导多州国会初选，共和党人担忧铁腕控制或反噬选情 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE85cmp1VzY4MHVjOHBIR2t6QXNNTmV1cTVFSHNzVW45T2RjVlhHc3JMZ3JtWWZBU2FFNjJJTjAwOXE5M1dTWWg5NkRVdlRBVUtXZ01lcWZHbW8tUEstN1hfWQ?oc=5>
+- **特朗普** | 特朗普：对目前同伊朗谈判进程“不满意” <https://news.google.com/rss/articles/CBMia0FVX3lxTE11NHAzeVdmZE10VjNNd3pKWkVwbU85Nkw0S2VVX0lWekdvWElMaWQ3Q09YanNpYk9GRllET2VnRUMwUDNDUWpNRC12VUpaalF0TzJXTk1waW1HQ2xJY2tMWlpMc0p1ckU5WkVF?oc=5>
+- **特朗普** | 美国总统特朗普访华，为何逛北京的这座公园？_中新社_北京分社 <https://news.google.com/rss/articles/CBMiakFVX3lxTE1OVHB3WnpQaUxfSnlYUUN4QzlEc0FOb096TWRadl9ZaXZNUG5xN0dIajVyU2k5ei1uU0V4b2RHSUlwWUhjdUpuNndWcnlpcVhndlJRQU1wS05lR011YVRlVGY0OW9TSEpCQUE?oc=5>
+- **Trump** | 市场传闻：News 面临特朗普就Epstein 相关报道的新诉讼财经新闻Financial News <https://news.google.com/rss/articles/CBMif0FVX3lxTE9sQjZiR0ZESldudHllcERXa0xXUkxQYXJtQXFhaEVKVE15YVRYOWs1b3JSZG1jNHZJeVlfa3UzVVY0RV9nRzRRVm5yQTJYQnNCUGd1QV80Z3ZpSElYZkNUOV9LMnFJQVl5R3E1eU9HU2pEOHRJNXRSTnZHcnZ2Mk0?oc=5>
 
 ### 2026-05-28 10:51  (8 条)
 
