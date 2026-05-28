@@ -1,66 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-28 20:33**
-- 本轮扫到 2255 条, 新增 **7** 条
+- 最近更新: **2026-05-28 22:29**
+- 本轮扫到 2259 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (4 条)
 
-### 蔡徐坤这次音乐节的造型和舞台设计背后有什么故事？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801m29u.html>
-
-### 蔡徐坤压轴马来西亚音乐节！落日余晖舞台引全网期待
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801m29o.html>
-
-### 蔡徐坤在马来西亚音乐节上的50分钟舞台有哪些具体亮点？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801m29k.html>
-
-### 特朗普白宫开会，会场变“带货直播间”：每位官员面前摆放“建国250周年纪念帽”，售价55美元
+### 美伊达成60天停火备忘录草案 待特朗普最终批准
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 21财经
-- 时间: 2026-05-28 13:07
-- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxNc0I3aUwzWjRuUnN2ZXhDR0NhVzZQWXB5aTJ1SkFXTXR1Q01Fdjh4M1RSRkJDX2w1M0lqWF92LWx6YUpBb0VJM1FzajJiQ2F1LUUxN0Njb0FsclhkVnZ2R0ZTVHpsMkNYMVc3TXQxRDRwQVFRM2VjYmFCTnd4cFdVNGpGaXd6a3ZRRVRSRWhWUQ?oc=5>
+- 场馆: RFI
+- 时间: 2026-05-28 20:36
+- 链接: <https://news.google.com/rss/articles/CBMi0wJBVV95cUxOalJqWXd2dWFSNm9ITlZPcjZxd24zbnRSOHZBczBFUHdpcXdWNVl5WUVzdGpGNk5FajBwQ0hMWXZyeER5dUZLYnA1SjB1M1JvNXFwMlJHNTdtVHkzV05aRVlJU0Y5a3dSWDU2eWIyVFk5OE5rM3RsV3pLTlB4TGZGSEZCSWp2Sl9HVC16bnowZk5nTGtDRWVOYTgwWnljMTRwbWpJalNpYklGSlYxX0duLWg3NnRoajZydzZjdndGbnlLeEdldnlmQ3BENzA5VHg5VDctTG1Da2hHeEh1bE9wZ3pHNE9Kd1ByVk8zMzZNdXFNelBHdXNKYjEtQzFHR0NSTHpIT0g2bXoyTHFVOE9Ea1J6NkZUVW5SX2lPVk53Z1o1bm1FckIwRi10VGNzb29MMWVaa2tYSkQ0dVhQcTF3QkFKR1JFVktqWENqSjhQN2xKeWc?oc=5>
 
-### 美伊代表已就备忘录达成一致，有待特朗普批准
+### 美财长：特朗普不会接受“糟糕的伊朗协议”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-05-28 15:49
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5RMV84RHFSY041MTlValVwMGg4bGZNalF1cE85aGxSZzVEQUpRaDFUQl9CYnIzaWhqbGR3UFdVZXc2Yk5yUm54NW4wOU1nMk52SXFRMGZZU0M2Z1pWVTV1OQ?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-05-28 19:11
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE81eWh5ZkU4X2RDdnF5al9oaTRmZzQ1TExuOXdBRzNEdXhXVV9RUEhMLXVHNHBZV2RZYWpUN0lKY29NakhSQVRVMTFVRS0?oc=5>
 
-### 美股指数上升 因报道指伊朗和平协议待特朗普签署
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: AASTOCKS.com
-- 时间: 2026-05-28 19:58
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTFBzaWcwUWpVQ3lLamxiTjRtamhoWXhNTUc2RTVMTkh5UEt5YU51VXNDeXR4X2N3VGM4WXgwd1ZRQWM5cUppVG9nWFdnSUlRT1ZjQVZWT2J1bEVpSGk5ZDMtNVpFOGhTbTFuaDZjU2ZBYw?oc=5>
-
-### 美国消息人士告诉VOA，华盛顿已与德黑兰达成临时协议，以巩固持续50天的停火，目前有待特朗普最终批准
+### 67 Million Kids Haven't Signed up for 'Trump Accounts.' Here's What They Could Be Missing Out On.
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-05-28 18:45
-- 链接: <https://news.google.com/rss/articles/CBMiygFBVV95cUxQaExkeXA5U1djNE44TmlMUFVudkdyVFc5bFowVzZ4ODRZbkptSkdKM0JOMUhvR0Y5ekdBT1lJMFFBTC1KcVJqa21hX1I2dmFkM29iZGJDaTRqWVlQWUlHbG9zLTlRN2pHSWRET09PSG1BTHpCNUJKVW1MbE5ITk5KLVB3bkVRZHJJYlJNTndvM0ZwdXlWVjJtdVFSR3diTGstNF9TMzFoRHpJTk5TaFkwWWFJZG1teXVpSUhuemZDbVJsa3dEU0k3dFBn0gHMAUFVX3lxTE55RkZldWxYdDUzTWVlWWdCMTVWR2dtcHRhcGpXaWhEa3QyZXF0OWsxWkM4M1BKQVBrMFBQWWhUbnFaV2E1Ty1OYWJ2SmpORHdDOVZadkI1R3ZkVHQ4SEhsUjRBUkRGYzdudGZtQ1g0cWQ1YXZYVjJBTGpqNGx4d0lFZFB4T1pEUFhDbTltZVZUUTZjV0ttQ005cV9vSmszN1Z2S3pzOXQ2eUUwVEpmcldnMWk2YzdKazJHQ09rdkwwY0RzaGVZLWY1UUlQbg?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-05-28 21:51
+- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxPaUhkYVpMNmZZTFNnZkdwMllWUkRmdzJXcG4zX1RvaHBQTVNrSnJzUXpPMEI0VXdIelZMaTRUdzdEUWFjV09DeWlCTHVjYXA2X09McnNNR25YdUFhMFBrZmF0R01jb3I4RS05MklBSWRldEQ4YkRPcUVuNzdnZWowLWlKeXV6RFJHdkRlcGJ0M19jYzM1WHJMUzd4N0FYdEhv?oc=5>
+
+### 在7月4日上线前夕推出特朗普账号应用后，Robinhood股价大涨11.29%
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-05-28 20:28
+- 链接: <https://news.google.com/rss/articles/CBMirgFBVV95cUxNdWkwU1pjR2UwNHFDUjViSHJRdWVXdXlsMzhDRkdFOHo3SnkteUVBXzJWem52d014aHR2S25zMW1mX0Q0ZTE2VU5qY3k0TVRvVUtPZnJsS3l2a3UzZGlQX0JSYk5XWXRLX0xJUi1pTTVzQXVYYXhBWENKdS1IUzduc0Q1MkR3dFVHZDJpcnQtR1p2LTZwSVRmbGhlVTFfZGhqbUJEamNDbWxiM01kcFE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-28 22:29  (4 条)
+
+- **特朗普** | 美伊达成60天停火备忘录草案 待特朗普最终批准 <https://news.google.com/rss/articles/CBMi0wJBVV95cUxOalJqWXd2dWFSNm9ITlZPcjZxd24zbnRSOHZBczBFUHdpcXdWNVl5WUVzdGpGNk5FajBwQ0hMWXZyeER5dUZLYnA1SjB1M1JvNXFwMlJHNTdtVHkzV05aRVlJU0Y5a3dSWDU2eWIyVFk5OE5rM3RsV3pLTlB4TGZGSEZCSWp2Sl9HVC16bnowZk5nTGtDRWVOYTgwWnljMTRwbWpJalNpYklGSlYxX0duLWg3NnRoajZydzZjdndGbnlLeEdldnlmQ3BENzA5VHg5VDctTG1Da2hHeEh1bE9wZ3pHNE9Kd1ByVk8zMzZNdXFNelBHdXNKYjEtQzFHR0NSTHpIT0g2bXoyTHFVOE9Ea1J6NkZUVW5SX2lPVk53Z1o1bm1FckIwRi10VGNzb29MMWVaa2tYSkQ0dVhQcTF3QkFKR1JFVktqWENqSjhQN2xKeWc?oc=5>
+- **特朗普** | 美财长：特朗普不会接受“糟糕的伊朗协议” <https://news.google.com/rss/articles/CBMiTEFVX3lxTE81eWh5ZkU4X2RDdnF5al9oaTRmZzQ1TExuOXdBRzNEdXhXVV9RUEhMLXVHNHBZV2RZYWpUN0lKY29NakhSQVRVMTFVRS0?oc=5>
+- **Trump** | 67 Million Kids Haven't Signed up for 'Trump Accounts.' Here's What They Could Be Missing Out On. <https://news.google.com/rss/articles/CBMioAFBVV95cUxPaUhkYVpMNmZZTFNnZkdwMllWUkRmdzJXcG4zX1RvaHBQTVNrSnJzUXpPMEI0VXdIelZMaTRUdzdEUWFjV09DeWlCTHVjYXA2X09McnNNR25YdUFhMFBrZmF0R01jb3I4RS05MklBSWRldEQ4YkRPcUVuNzdnZWowLWlKeXV6RFJHdkRlcGJ0M19jYzM1WHJMUzd4N0FYdEhv?oc=5>
+- **Trump** | 在7月4日上线前夕推出特朗普账号应用后，Robinhood股价大涨11.29% <https://news.google.com/rss/articles/CBMirgFBVV95cUxNdWkwU1pjR2UwNHFDUjViSHJRdWVXdXlsMzhDRkdFOHo3SnkteUVBXzJWem52d014aHR2S25zMW1mX0Q0ZTE2VU5qY3k0TVRvVUtPZnJsS3l2a3UzZGlQX0JSYk5XWXRLX0xJUi1pTTVzQXVYYXhBWENKdS1IUzduc0Q1MkR3dFVHZDJpcnQtR1p2LTZwSVRmbGhlVTFfZGhqbUJEamNDbWxiM01kcFE?oc=5>
 
 ### 2026-05-28 20:33  (7 条)
 
