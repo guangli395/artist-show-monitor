@@ -1,72 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-29 20:12**
-- 本轮扫到 2311 条, 新增 **7** 条
+- 最近更新: **2026-05-29 22:11**
+- 本轮扫到 2315 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (4 条)
 
-### 特朗普公布对伊协议条件：伊朗政权须承诺永不拥有核武器，并免费开放霍尔木兹海峡
+### 伊朗知情人士：特朗普言论“真假参半”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-05-29 17:49
-- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxPVnVGVURkblMxMGVsVjVLVW5ZS3dhdXR3dE8yNndlVTNJM1Z5cVNKSUxVNHotelRoRXlFVkNwTmNVY0JHU3BmbDVxbmFmZE5xeVBvVENrRlZ6RFgwckdKeTZlaWFibnQ4c2V4UXk5MFhIRkVRb3dqUTNPeDNyc2o4VTczdzZTUzJFby1COEEzZ1FnOEp2YWpBbUlEdDLSAZ8BQVVfeXFMT3FZREQ4bjhuTnQ2TDRja29jaVFBbkw1bnFoVWVmaS02SmtCSUdfTXE0LTRxNmZPSEt5bkx4U0pLTlNQb0wxSmR0LUVsLTEzSWxuZ0xSeng2dmRaWE5qLThubG10Z2JvMnpRT211LUExcEsxOFl1a1RlN3VYa0E2Y0dQYmtPOTdrSWVLNlpqQmZkZmJFVmNjRmJoQ3lqZFh3?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-05-29 16:07
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9Lc05aZjg0clJ2SThTaFVtaFRPWkVXeWlfVno1c3d5MVNxS0tfWXRwX3p5S2kzUmlFeEl6aXJVZ3lhN1lDWjZNdU9VMA?oc=5>
 
-### 美伊停火协议接近成形？特朗普召开战情室会议拍板
+### 美联邦法官裁定：特朗普不得将自己的姓名添加到肯尼迪中心的名字里
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: RFI
-- 时间: 2026-05-29 18:32
-- 链接: <https://news.google.com/rss/articles/CBMi6AJBVV95cUxPdEdpZnRGOXhWYVQxVzVVY3RuQnpkVE45eVY0Z09MWjdnTEM4SzhhTHVJWjktMGtpei1mOXNJSklfWkpsRnFiTjcxelJ5eGtLQXhIc1lWc1NnM2F1N0F2VGJIV0hCRVF3SXlMVDZCVlNUVXFHTzRBTzRkZ3RuMVB2dFNLVXdXajV5ME5sSl9ibW1oVVhNN0tqZDZ0eGRsYUdfWXJVTVVka25vTHVTQk5KVUUzNmZqQm1mTUZLOGZjemRiUFFoUE5GWm9TQ0lKU21nZHdVMWh2ZDlWZUxSdlQybi1JVXpKSERlcGdxLTdwdmhKQTd2bDdNYkV6S3JNNWF1bTAxLUhWYllRRjNuTWYyXzBPekI4RXlhWUxxWGkwYjBGSzhNZW1uY2FKNTI1RVZKby1QQW5BbUxHR0RsaXYwaTItd2o1am9ibUV4RUk0TnVPWFU4ajl4emxNUW9vR1RBS2NscWlLU2I?oc=5>
+- 时间: 2026-05-29 22:03
+- 链接: <https://news.google.com/rss/articles/CBMiyANBVV95cUxQeU5DOE9Ca0xKMnJxTGQ5ODVMMktjV3lzNTJRMW9LanQwZEV2UG1JRHpueU5TbEQxMU5hV2Jzd0RQTUxRMzhBRUVHRFozblZZY05wY1RuWWU2VjV1Z0FRUTFITmE0bmdhQVVqUVBLcFpQSXBCeHVmcXF1MTJGTzI0STB3cFlLbHZ1MkVZMnQzcDJZWTZSN195QXJwN3BKNGM2NF9wU3dQSE93S2g5cmZaOFBBLUlMZm9uOTFMeUhManVIc1FoQ3VJdGx0dDROSGJsa0NsdndLeVNHRG12QTRZZTJmXy1CYjdQR1lJYmhQNm5nNjg4UE50MVZXRVRSY2I1c1JYakFQaU9QYVVhMXVFRW5wb3ZJU2lUX0FDRUExeEp6TGh5Q0ZxeGpKQldvVTU3c3oxMUNIMWlad2ZBYVRzRENSNWVQUTVHMEMxUk0tTkFPdnExeXN1akNvUW5nTnF2MzNJWGduWFByVUV2Z2wyeGlwNlA5dWxRSnBuV2VSMGNXX1ROanViUkJHbjViS3V6MU1FVnBfS004QkwzeWd6d3pUa2YxbVp6M0RfX1FUR1hLZThUOHJPOGVFeFVPLWlWN1BwOUZvMlo?oc=5>
 
-### 美伊要“双赢”了
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-05-29 03:20
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5aM1ZPcEZnN01zSDdtbjdVOGh1aEpITDNRMXhOMEwwVF9tQzdXQm5xN0xuU0wzTWtSOFVFQ1dkSGliSkdzQnVTalFIQ2c1dUJ6VHdqRVVEcTV2N3NESGJTYk43NmJVSXBCRmRRaXRzck4?oc=5>
-
-### 特朗普：美伊就核问题和霍尔木兹海峡以外次要事项达成一致
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 21财经
-- 时间: 2026-05-29 15:21
-- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxQclczMlZqamlPTW9FUThwMWVQclpLWDBtUllIQmF0OGpRd1NhNG91WkJ2dmxsM0JERTM1QmdBMG42RVdKakFaNGs5S210dWRzTGpRVWZRMlQxbUZKb3k4Q29EYzY3TGk2RjhFQVBfSzRRU29Kc3ZIX3dzanpoR29JQnpNRzRtQ05iR3RoTlMtcw?oc=5>
-
-### 特朗普肖像纪念钞已设计完成 尚需国会“放行”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-05-29 07:57
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBieF9oOGYyMjZTRWhBYURBSkxlOVhSbkgtdW90MlFiNDU3U1M4Y3ZvWGNwemVKX0JDRUMxYU9seDhublkzeDBPdzZVbzQyMUVDdWVIaUx4VXltdlRxcjY2LWsweXZrQk9K?oc=5>
-
-### TRUMP/USDT
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Binance
-- 时间: 2026-05-27 13:23
-- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTE1UakxaT3RLV3Q1QU9oam1TQWdlQXp5djU3LVp1U0ZHeG8tUWRIa1g4MVlvcE9XTjgycUpyM0tOMFlxQXRaWUxXRHhDaDRReTc5a205VG4tRllLXzMzbVVTMzRvaHM3WC1sSjR6cUJ0NWNEa2t2YlM2a3VqRQ?oc=5>
-
-### 美股盘中上升 因特朗普提出伊朗协议条件
+### 美股创历史新高 静待特朗普就伊朗和平提案作决定
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: AASTOCKS.com
-- 时间: 2026-05-29 17:41
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE9pWlNIOUxhSG9GaVFOWld4eUoySkEwem1VNFRpRk5mdFMtT1IyTXRXTnlJRnh0YW1HRV9QRnUyQkFvQ3BHdVR6SFg4cUpKRmYxUGx5M2FiR1Y3ODU4Nl9JZDFUV1RSYlJyQ0ppT0V4dw?oc=5>
+- 时间: 2026-05-29 20:18
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTFBlQjVsbTMtclVNQWN3VTJaZkhPZ0JqeUlzUENZc1ZVdmhBQ2pQRXdJbVRVS2VOelJLcUNQV05zb3FBWHBwN0gzMFN4eUVucUhkSDlSQXpwaS1RY25fcTFnUjBsT1lNNlMzckJiTjVzMA?oc=5>
+
+### Oil Slides, Stocks Climb as Trump Puts off Determination on Iran Proposal
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-05-29 21:41
+- 链接: <https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYkJCX29POXNGWGR2ZHpXTWQ1Vld3Z3pWR1lEQk54S1Z6OGh0T3MwUnFVZ2VIZ2twZlBxZ3Vua3JtTDlBeS1uaXpJRWxuUVdfYl9Yd0JxY1VyQ3RwR09NOVFQLTFoSFYza1dTMjN2NjRHSUtoYTRIMjRmSTg0bk5ZN1o1RmtfaGxoLTJMUnZhR0QxRUhjSUNMeEdzb3Y1Ri1HTURJYkw3eWI?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-29 22:11  (4 条)
+
+- **特朗普** | 伊朗知情人士：特朗普言论“真假参半” <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9Lc05aZjg0clJ2SThTaFVtaFRPWkVXeWlfVno1c3d5MVNxS0tfWXRwX3p5S2kzUmlFeEl6aXJVZ3lhN1lDWjZNdU9VMA?oc=5>
+- **特朗普** | 美联邦法官裁定：特朗普不得将自己的姓名添加到肯尼迪中心的名字里 <https://news.google.com/rss/articles/CBMiyANBVV95cUxQeU5DOE9Ca0xKMnJxTGQ5ODVMMktjV3lzNTJRMW9LanQwZEV2UG1JRHpueU5TbEQxMU5hV2Jzd0RQTUxRMzhBRUVHRFozblZZY05wY1RuWWU2VjV1Z0FRUTFITmE0bmdhQVVqUVBLcFpQSXBCeHVmcXF1MTJGTzI0STB3cFlLbHZ1MkVZMnQzcDJZWTZSN195QXJwN3BKNGM2NF9wU3dQSE93S2g5cmZaOFBBLUlMZm9uOTFMeUhManVIc1FoQ3VJdGx0dDROSGJsa0NsdndLeVNHRG12QTRZZTJmXy1CYjdQR1lJYmhQNm5nNjg4UE50MVZXRVRSY2I1c1JYakFQaU9QYVVhMXVFRW5wb3ZJU2lUX0FDRUExeEp6TGh5Q0ZxeGpKQldvVTU3c3oxMUNIMWlad2ZBYVRzRENSNWVQUTVHMEMxUk0tTkFPdnExeXN1akNvUW5nTnF2MzNJWGduWFByVUV2Z2wyeGlwNlA5dWxRSnBuV2VSMGNXX1ROanViUkJHbjViS3V6MU1FVnBfS004QkwzeWd6d3pUa2YxbVp6M0RfX1FUR1hLZThUOHJPOGVFeFVPLWlWN1BwOUZvMlo?oc=5>
+- **Trump** | 美股创历史新高 静待特朗普就伊朗和平提案作决定 <https://news.google.com/rss/articles/CBMib0FVX3lxTFBlQjVsbTMtclVNQWN3VTJaZkhPZ0JqeUlzUENZc1ZVdmhBQ2pQRXdJbVRVS2VOelJLcUNQV05zb3FBWHBwN0gzMFN4eUVucUhkSDlSQXpwaS1RY25fcTFnUjBsT1lNNlMzckJiTjVzMA?oc=5>
+- **Trump** | Oil Slides, Stocks Climb as Trump Puts off Determination on Iran Proposal <https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYkJCX29POXNGWGR2ZHpXTWQ1Vld3Z3pWR1lEQk54S1Z6OGh0T3MwUnFVZ2VIZ2twZlBxZ3Vua3JtTDlBeS1uaXpJRWxuUVdfYl9Yd0JxY1VyQ3RwR09NOVFQLTFoSFYza1dTMjN2NjRHSUtoYTRIMjRmSTg0bk5ZN1o1RmtfaGxoLTJMUnZhR0QxRUhjSUNMeEdzb3Y1Ri1HTURJYkw3eWI?oc=5>
 
 ### 2026-05-29 20:12  (7 条)
 
