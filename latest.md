@@ -1,54 +1,116 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-29 13:54**
-- 本轮扫到 2293 条, 新增 **5** 条
+- 最近更新: **2026-05-29 17:30**
+- 本轮扫到 2304 条, 新增 **11** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (11 条)
 
-### AI动画MV-周杰伦《七里香》AIseedance周杰伦七里香
+### 《歌手2026》最新歌单公布：有林俊杰的《修炼爱情》、莫文蔚的《电台情歌》、周杰伦的《说了再见》，结石姐Jessie J
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1793049857_m6adfc50103301g4sm.html>
+- 链接: <https://k.sina.com.cn/article_7879922982_1d5ae15260200aotxq.html>
 
-### 特朗普：伊朗即使放弃高浓缩铀也无法获得解除制裁
+### 特朗普称对伊朗的海上封锁“即将被解除”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-05-27 21:32
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTFBmMlFOcGxadHE4X3ZzWmpCNFF3MHpGT1RnVm9qc2dBajktWGtSWTloMG84XzQ2SXVNckNrX3J5dlRadVVzdlRaNjRrYUxvZ2RBdTB0ZV9pckpzV3FsV1BSc29xWUxsY2lnV3pWODFiX1h4R2lB?oc=5>
+- 场馆: 央视网
+- 时间: 2026-05-29 16:03
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFAzUmNIazhhQmtVekFVcFpLMDUwbVBqbVlSNmhsclVZaE1OV1ZZdC1hVXMzcTNUMllnQUYxVEVwak1XMFBFR280YUJwY3RHWXI4dks1cHJ6cHpXQUNuSzdjMjU5STdTSFhLeEI5UjkzZmg0cVpCVzk4Wg?oc=5>
 
-### 贝森特：国会需要修改法律，让特朗普肖像出现在美元上
+### 特朗普说即将开会就伊朗战事作出最终决定
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-29 15:03
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1mN0FMMk1fODc1R2s0NFN5TEFpcURBXzJjWkh5WE96UXhTcFdzMVpTRmJjZWFPZEwxOEtlUTh3SnpLOTBvaXJ4ZGcxdw?oc=5>
+
+### 欧洲股市收盘涨跌互现；特朗普将就美国与伊朗和平协议作出最终决定
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-05-29 16:09
+- 链接: <https://news.google.com/rss/articles/CBMisAFBVV95cUxNTzBnT0cwWEo0TTUtdl9HVnVtSXJaN0t6YVEwWTJqSmZxWW1aOTFMN3Fpelh0YWxucXRFRXZWT0lmWFVtMlpPamNmbUMxT1JHUHZtWnhmMGkyMThsX3VueFJZRXYyWmpmbDdpS0xpM0hVaGtEUlF6RGxfUWplMUlJUEVRNVY4VHpqWENDNHlKSEdXZWl1NWtEZ2t1UWxDamYtbG9Rak1nTjFBeU5rN2pNMA?oc=5>
+
+### 特朗普如何让一个激进独立斗士变成“爱国者”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 观察者
-- 时间: 2026-05-29 06:27
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5NNFRmQlhSd2pJVXVaekUyWXFwWXNmaXBmemptT09rVGNVRnhiTmtxVm9faEtEX2pVVk12VVI4S1lEMzNzX2gzcmNQUXJfdi1RNklLQzVVMkhja1AtY1Uwb3VsRmFiaVJQR3c?oc=5>
+- 时间: 2026-05-29 13:26
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE83c0l4cTk3cWF2LVl5bXRESVNvdXlNenhrc0hkNVd3SjRFMzljZjdrRzVHYmJTWHlfVkhjM3NLYlNUUzhQSEdiOFJ4aXRINHhDdzdlSU5rS3FwZ0JBTWc2S3FLVmh3WjZmS1E?oc=5>
 
-### 美国东北牡蛎养殖场，走出一位特朗普“平替”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-05-28 10:28
-- 链接: <https://news.google.com/rss/articles/CBMikAFBVV95cUxOS2J2am5vRjJ2VjEtWmFDYXhtR0trWHU2Ujh4RkZoNVMxb0JDanR6RXNMYnI0dXNGSkJqNlhKU3BQdWs3c3MwZElRMmIzYThUQ3h5bWRoRVJRek5BMlNwOWQwTUN4eklMSTh4ZnBUNm1acnpLXy1hMWpkQWhOS2FWNFZIZTFSdVMxZ3JkSm5kT1I?oc=5>
-
-### 特朗普调侃美防长热衷战争有何意味 内阁会议上的意外言论
+### 美媒：美司法部对指控特朗普性侵的女作家展开调查
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-05-29 12:34
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5Ma0lHWVZ2Nk1tX29GQXFTSjczbmNFalpSam55RFJJRVI1eUVLbzhrS2cwOTNxQjFDQ3FnZXVGOXVlNDRDQTZkSFQyLThWVXJZQ051bldoMXBYZ3pDU0NxaE9KQW0yNFltUTRiUW91VXE?oc=5>
+- 场馆: 中国网
+- 时间: 2026-05-29 09:52
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE55ZVJ4ejB4ZDRMekJYTC12NWlJQzBIZE95TmhCSHBFSnlmN1VMMndubXlXZDdDbVM3RjdXMHNVVVQzd2NHV2E2QllWbXJyVG52NWFFNjBIMk02X19maHpTMkxmOG9uazdmX3VPSWQ3dw?oc=5>
+
+### 特朗普T1手机或违反美国法规 官网标注为美国制造
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 驱动之家
+- 时间: 2026-05-29 16:11
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE91dlpJajVSZnEwOHo3RVItWDZ0RnJsUVY0dzdLWFFyN2Rlc3VTWHVqbkduQ3UxZHQ2OFd2NmxKUTV2TGNPM3YzNVNRNTZ3eTlPZ3RYZTdXaWw?oc=5>
+
+### Oil Prices Slide as Trump Says the U.S. Is Close to an Iran Deal
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-05-29 15:48
+- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxQYks5YUpiM1hzbUVuSDhjVFNrUzlocUF6ejZwT1BEelQydktOWlE0YTNycVVtZlhkYzVQaXpDY19VZlZXTVc0Q000OG01UHBEblBUMEhfUUZ0eDBuVEw3SGlVUFhvNi16UGxoUklrb010ejBWbm9YNjFUUGhrbTV4VXlIa0VFblRSMmlhcDgxTUNIRk9hb1JtNw?oc=5>
+
+### 标普500、纳斯达克及道指创盘中历史高位；特朗普接近就伊朗和平协议作出决定财经新闻Financial News
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: AASTOCKS.com
+- 时间: 2026-05-29 16:06
+- 链接: <https://news.google.com/rss/articles/CBMihgFBVV95cUxPamNNQnFmS2ZYY2FiSng2S3pzZlNMRDVNTDduM3dDMnh4bDdNb2U3cFhEWHBBY0drSmhzZVhGZHNEeFNnVlNucVRrZmNvdHNqRVhHNFgwY211Ni1oR3BUeEFtenAwUVMteVN3VGxQNnVSZ1E2Zl81YTNfZ3JuYTJYZ0h5U21Gdw?oc=5>
+
+### TRUMP/USDT
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Binance
+- 时间: 2026-05-27 08:50
+- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTFBOd28wM2IweVkwcVNDLXRYTGo3Sy1pSUZ0UzZZRTNQbjVwbFd4OVd4endOdTdraGExRHpkWTk0UVJFODlLQWVvRU9VaXFDVWttLWhuc3RSdm03UTl2eFIwdmlyRFAxRi04Yl9uSzVTQVhaVWdVeU9CZ18zbw?oc=5>
+
+### 标普500、纳斯达克及道指创盘中历史高位；特朗普接近就伊朗和平协议作出决定
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: AASTOCKS.com
+- 时间: 2026-05-29 16:06
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE01RkEwN00xR29RbzJMU2kwZjZGSTZfd3E2TWRtT3h6eldUQUpYZHdCOVBiMFZJakRqd0ZaMDgtXzc4X1FjdHNaZnVxLUU4OFU4NzRmQTRjb1pOYmliRTZPY0pabXEzVFFWaGpzUDNIWQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-29 17:30  (11 条)
+
+- **周杰伦** | 《歌手2026》最新歌单公布：有林俊杰的《修炼爱情》、莫文蔚的《电台情歌》、周杰伦的《说了再见》，结石姐Jessie J <https://k.sina.com.cn/article_7879922982_1d5ae15260200aotxq.html>
+- **特朗普** | 特朗普称对伊朗的海上封锁“即将被解除” <https://news.google.com/rss/articles/CBMieEFVX3lxTFAzUmNIazhhQmtVekFVcFpLMDUwbVBqbVlSNmhsclVZaE1OV1ZZdC1hVXMzcTNUMllnQUYxVEVwak1XMFBFR280YUJwY3RHWXI4dks1cHJ6cHpXQUNuSzdjMjU5STdTSFhLeEI5UjkzZmg0cVpCVzk4Wg?oc=5>
+- **特朗普** | 特朗普说即将开会就伊朗战事作出最终决定 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1mN0FMMk1fODc1R2s0NFN5TEFpcURBXzJjWkh5WE96UXhTcFdzMVpTRmJjZWFPZEwxOEtlUTh3SnpLOTBvaXJ4ZGcxdw?oc=5>
+- **特朗普** | 欧洲股市收盘涨跌互现；特朗普将就美国与伊朗和平协议作出最终决定 <https://news.google.com/rss/articles/CBMisAFBVV95cUxNTzBnT0cwWEo0TTUtdl9HVnVtSXJaN0t6YVEwWTJqSmZxWW1aOTFMN3Fpelh0YWxucXRFRXZWT0lmWFVtMlpPamNmbUMxT1JHUHZtWnhmMGkyMThsX3VueFJZRXYyWmpmbDdpS0xpM0hVaGtEUlF6RGxfUWplMUlJUEVRNVY4VHpqWENDNHlKSEdXZWl1NWtEZ2t1UWxDamYtbG9Rak1nTjFBeU5rN2pNMA?oc=5>
+- **特朗普** | 特朗普如何让一个激进独立斗士变成“爱国者” <https://news.google.com/rss/articles/CBMiakFVX3lxTE83c0l4cTk3cWF2LVl5bXRESVNvdXlNenhrc0hkNVd3SjRFMzljZjdrRzVHYmJTWHlfVkhjM3NLYlNUUzhQSEdiOFJ4aXRINHhDdzdlSU5rS3FwZ0JBTWc2S3FLVmh3WjZmS1E?oc=5>
+- **特朗普** | 美媒：美司法部对指控特朗普性侵的女作家展开调查 <https://news.google.com/rss/articles/CBMib0FVX3lxTE55ZVJ4ejB4ZDRMekJYTC12NWlJQzBIZE95TmhCSHBFSnlmN1VMMndubXlXZDdDbVM3RjdXMHNVVVQzd2NHV2E2QllWbXJyVG52NWFFNjBIMk02X19maHpTMkxmOG9uazdmX3VPSWQ3dw?oc=5>
+- **特朗普** | 特朗普T1手机或违反美国法规 官网标注为美国制造 <https://news.google.com/rss/articles/CBMiWEFVX3lxTE91dlpJajVSZnEwOHo3RVItWDZ0RnJsUVY0dzdLWFFyN2Rlc3VTWHVqbkduQ3UxZHQ2OFd2NmxKUTV2TGNPM3YzNVNRNTZ3eTlPZ3RYZTdXaWw?oc=5>
+- **Trump** | Oil Prices Slide as Trump Says the U.S. Is Close to an Iran Deal <https://news.google.com/rss/articles/CBMimAFBVV95cUxQYks5YUpiM1hzbUVuSDhjVFNrUzlocUF6ejZwT1BEelQydktOWlE0YTNycVVtZlhkYzVQaXpDY19VZlZXTVc0Q000OG01UHBEblBUMEhfUUZ0eDBuVEw3SGlVUFhvNi16UGxoUklrb010ejBWbm9YNjFUUGhrbTV4VXlIa0VFblRSMmlhcDgxTUNIRk9hb1JtNw?oc=5>
+- **Trump** | 标普500、纳斯达克及道指创盘中历史高位；特朗普接近就伊朗和平协议作出决定财经新闻Financial News <https://news.google.com/rss/articles/CBMihgFBVV95cUxPamNNQnFmS2ZYY2FiSng2S3pzZlNMRDVNTDduM3dDMnh4bDdNb2U3cFhEWHBBY0drSmhzZVhGZHNEeFNnVlNucVRrZmNvdHNqRVhHNFgwY211Ni1oR3BUeEFtenAwUVMteVN3VGxQNnVSZ1E2Zl81YTNfZ3JuYTJYZ0h5U21Gdw?oc=5>
+- **Trump** | TRUMP/USDT <https://news.google.com/rss/articles/CBMie0FVX3lxTFBOd28wM2IweVkwcVNDLXRYTGo3Sy1pSUZ0UzZZRTNQbjVwbFd4OVd4endOdTdraGExRHpkWTk0UVJFODlLQWVvRU9VaXFDVWttLWhuc3RSdm03UTl2eFIwdmlyRFAxRi04Yl9uSzVTQVhaVWdVeU9CZ18zbw?oc=5>
+- **Trump** | 标普500、纳斯达克及道指创盘中历史高位；特朗普接近就伊朗和平协议作出决定 <https://news.google.com/rss/articles/CBMib0FVX3lxTE01RkEwN00xR29RbzJMU2kwZjZGSTZfd3E2TWRtT3h6eldUQUpYZHdCOVBiMFZJakRqd0ZaMDgtXzc4X1FjdHNaZnVxLUU4OFU4NzRmQTRjb1pOYmliRTZPY0pabXEzVFFWaGpzUDNIWQ?oc=5>
 
 ### 2026-05-29 13:54  (5 条)
 
