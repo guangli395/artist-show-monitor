@@ -1,102 +1,82 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-29 17:30**
-- 本轮扫到 2304 条, 新增 **11** 条
+- 最近更新: **2026-05-29 20:12**
+- 本轮扫到 2311 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (11 条)
+## 本轮新发现 (7 条)
 
-### 《歌手2026》最新歌单公布：有林俊杰的《修炼爱情》、莫文蔚的《电台情歌》、周杰伦的《说了再见》，结石姐Jessie J
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879922982_1d5ae15260200aotxq.html>
-
-### 特朗普称对伊朗的海上封锁“即将被解除”
+### 特朗普公布对伊协议条件：伊朗政权须承诺永不拥有核武器，并免费开放霍尔木兹海峡
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 央视网
-- 时间: 2026-05-29 16:03
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFAzUmNIazhhQmtVekFVcFpLMDUwbVBqbVlSNmhsclVZaE1OV1ZZdC1hVXMzcTNUMllnQUYxVEVwak1XMFBFR280YUJwY3RHWXI4dks1cHJ6cHpXQUNuSzdjMjU5STdTSFhLeEI5UjkzZmg0cVpCVzk4Wg?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-05-29 17:49
+- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxPVnVGVURkblMxMGVsVjVLVW5ZS3dhdXR3dE8yNndlVTNJM1Z5cVNKSUxVNHotelRoRXlFVkNwTmNVY0JHU3BmbDVxbmFmZE5xeVBvVENrRlZ6RFgwckdKeTZlaWFibnQ4c2V4UXk5MFhIRkVRb3dqUTNPeDNyc2o4VTczdzZTUzJFby1COEEzZ1FnOEp2YWpBbUlEdDLSAZ8BQVVfeXFMT3FZREQ4bjhuTnQ2TDRja29jaVFBbkw1bnFoVWVmaS02SmtCSUdfTXE0LTRxNmZPSEt5bkx4U0pLTlNQb0wxSmR0LUVsLTEzSWxuZ0xSeng2dmRaWE5qLThubG10Z2JvMnpRT211LUExcEsxOFl1a1RlN3VYa0E2Y0dQYmtPOTdrSWVLNlpqQmZkZmJFVmNjRmJoQ3lqZFh3?oc=5>
 
-### 特朗普说即将开会就伊朗战事作出最终决定
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-29 15:03
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1mN0FMMk1fODc1R2s0NFN5TEFpcURBXzJjWkh5WE96UXhTcFdzMVpTRmJjZWFPZEwxOEtlUTh3SnpLOTBvaXJ4ZGcxdw?oc=5>
-
-### 欧洲股市收盘涨跌互现；特朗普将就美国与伊朗和平协议作出最终决定
+### 美伊停火协议接近成形？特朗普召开战情室会议拍板
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-05-29 16:09
-- 链接: <https://news.google.com/rss/articles/CBMisAFBVV95cUxNTzBnT0cwWEo0TTUtdl9HVnVtSXJaN0t6YVEwWTJqSmZxWW1aOTFMN3Fpelh0YWxucXRFRXZWT0lmWFVtMlpPamNmbUMxT1JHUHZtWnhmMGkyMThsX3VueFJZRXYyWmpmbDdpS0xpM0hVaGtEUlF6RGxfUWplMUlJUEVRNVY4VHpqWENDNHlKSEdXZWl1NWtEZ2t1UWxDamYtbG9Rak1nTjFBeU5rN2pNMA?oc=5>
+- 场馆: RFI
+- 时间: 2026-05-29 18:32
+- 链接: <https://news.google.com/rss/articles/CBMi6AJBVV95cUxPdEdpZnRGOXhWYVQxVzVVY3RuQnpkVE45eVY0Z09MWjdnTEM4SzhhTHVJWjktMGtpei1mOXNJSklfWkpsRnFiTjcxelJ5eGtLQXhIc1lWc1NnM2F1N0F2VGJIV0hCRVF3SXlMVDZCVlNUVXFHTzRBTzRkZ3RuMVB2dFNLVXdXajV5ME5sSl9ibW1oVVhNN0tqZDZ0eGRsYUdfWXJVTVVka25vTHVTQk5KVUUzNmZqQm1mTUZLOGZjemRiUFFoUE5GWm9TQ0lKU21nZHdVMWh2ZDlWZUxSdlQybi1JVXpKSERlcGdxLTdwdmhKQTd2bDdNYkV6S3JNNWF1bTAxLUhWYllRRjNuTWYyXzBPekI4RXlhWUxxWGkwYjBGSzhNZW1uY2FKNTI1RVZKby1QQW5BbUxHR0RsaXYwaTItd2o1am9ibUV4RUk0TnVPWFU4ajl4emxNUW9vR1RBS2NscWlLU2I?oc=5>
 
-### 特朗普如何让一个激进独立斗士变成“爱国者”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-05-29 13:26
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE83c0l4cTk3cWF2LVl5bXRESVNvdXlNenhrc0hkNVd3SjRFMzljZjdrRzVHYmJTWHlfVkhjM3NLYlNUUzhQSEdiOFJ4aXRINHhDdzdlSU5rS3FwZ0JBTWc2S3FLVmh3WjZmS1E?oc=5>
-
-### 美媒：美司法部对指控特朗普性侵的女作家展开调查
+### 美伊要“双赢”了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中国网
-- 时间: 2026-05-29 09:52
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE55ZVJ4ejB4ZDRMekJYTC12NWlJQzBIZE95TmhCSHBFSnlmN1VMMndubXlXZDdDbVM3RjdXMHNVVVQzd2NHV2E2QllWbXJyVG52NWFFNjBIMk02X19maHpTMkxmOG9uazdmX3VPSWQ3dw?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-05-29 03:20
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5aM1ZPcEZnN01zSDdtbjdVOGh1aEpITDNRMXhOMEwwVF9tQzdXQm5xN0xuU0wzTWtSOFVFQ1dkSGliSkdzQnVTalFIQ2c1dUJ6VHdqRVVEcTV2N3NESGJTYk43NmJVSXBCRmRRaXRzck4?oc=5>
 
-### 特朗普T1手机或违反美国法规 官网标注为美国制造
+### 特朗普：美伊就核问题和霍尔木兹海峡以外次要事项达成一致
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 驱动之家
-- 时间: 2026-05-29 16:11
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE91dlpJajVSZnEwOHo3RVItWDZ0RnJsUVY0dzdLWFFyN2Rlc3VTWHVqbkduQ3UxZHQ2OFd2NmxKUTV2TGNPM3YzNVNRNTZ3eTlPZ3RYZTdXaWw?oc=5>
+- 场馆: 21财经
+- 时间: 2026-05-29 15:21
+- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxQclczMlZqamlPTW9FUThwMWVQclpLWDBtUllIQmF0OGpRd1NhNG91WkJ2dmxsM0JERTM1QmdBMG42RVdKakFaNGs5S210dWRzTGpRVWZRMlQxbUZKb3k4Q29EYzY3TGk2RjhFQVBfSzRRU29Kc3ZIX3dzanpoR29JQnpNRzRtQ05iR3RoTlMtcw?oc=5>
 
-### Oil Prices Slide as Trump Says the U.S. Is Close to an Iran Deal
+### 特朗普肖像纪念钞已设计完成 尚需国会“放行”
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-05-29 15:48
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxQYks5YUpiM1hzbUVuSDhjVFNrUzlocUF6ejZwT1BEelQydktOWlE0YTNycVVtZlhkYzVQaXpDY19VZlZXTVc0Q000OG01UHBEblBUMEhfUUZ0eDBuVEw3SGlVUFhvNi16UGxoUklrb010ejBWbm9YNjFUUGhrbTV4VXlIa0VFblRSMmlhcDgxTUNIRk9hb1JtNw?oc=5>
-
-### 标普500、纳斯达克及道指创盘中历史高位；特朗普接近就伊朗和平协议作出决定财经新闻Financial News
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: AASTOCKS.com
-- 时间: 2026-05-29 16:06
-- 链接: <https://news.google.com/rss/articles/CBMihgFBVV95cUxPamNNQnFmS2ZYY2FiSng2S3pzZlNMRDVNTDduM3dDMnh4bDdNb2U3cFhEWHBBY0drSmhzZVhGZHNEeFNnVlNucVRrZmNvdHNqRVhHNFgwY211Ni1oR3BUeEFtenAwUVMteVN3VGxQNnVSZ1E2Zl81YTNfZ3JuYTJYZ0h5U21Gdw?oc=5>
+- 场馆: chinanews.com.cn
+- 时间: 2026-05-29 07:57
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBieF9oOGYyMjZTRWhBYURBSkxlOVhSbkgtdW90MlFiNDU3U1M4Y3ZvWGNwemVKX0JDRUMxYU9seDhublkzeDBPdzZVbzQyMUVDdWVIaUx4VXltdlRxcjY2LWsweXZrQk9K?oc=5>
 
 ### TRUMP/USDT
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: Binance
-- 时间: 2026-05-27 08:50
-- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTFBOd28wM2IweVkwcVNDLXRYTGo3Sy1pSUZ0UzZZRTNQbjVwbFd4OVd4endOdTdraGExRHpkWTk0UVJFODlLQWVvRU9VaXFDVWttLWhuc3RSdm03UTl2eFIwdmlyRFAxRi04Yl9uSzVTQVhaVWdVeU9CZ18zbw?oc=5>
+- 时间: 2026-05-27 13:23
+- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTE1UakxaT3RLV3Q1QU9oam1TQWdlQXp5djU3LVp1U0ZHeG8tUWRIa1g4MVlvcE9XTjgycUpyM0tOMFlxQXRaWUxXRHhDaDRReTc5a205VG4tRllLXzMzbVVTMzRvaHM3WC1sSjR6cUJ0NWNEa2t2YlM2a3VqRQ?oc=5>
 
-### 标普500、纳斯达克及道指创盘中历史高位；特朗普接近就伊朗和平协议作出决定
+### 美股盘中上升 因特朗普提出伊朗协议条件
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: AASTOCKS.com
-- 时间: 2026-05-29 16:06
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE01RkEwN00xR29RbzJMU2kwZjZGSTZfd3E2TWRtT3h6eldUQUpYZHdCOVBiMFZJakRqd0ZaMDgtXzc4X1FjdHNaZnVxLUU4OFU4NzRmQTRjb1pOYmliRTZPY0pabXEzVFFWaGpzUDNIWQ?oc=5>
+- 时间: 2026-05-29 17:41
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE9pWlNIOUxhSG9GaVFOWld4eUoySkEwem1VNFRpRk5mdFMtT1IyTXRXTnlJRnh0YW1HRV9QRnUyQkFvQ3BHdVR6SFg4cUpKRmYxUGx5M2FiR1Y3ODU4Nl9JZDFUV1RSYlJyQ0ppT0V4dw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-29 20:12  (7 条)
+
+- **特朗普** | 特朗普公布对伊协议条件：伊朗政权须承诺永不拥有核武器，并免费开放霍尔木兹海峡 <https://news.google.com/rss/articles/CBMinAFBVV95cUxPVnVGVURkblMxMGVsVjVLVW5ZS3dhdXR3dE8yNndlVTNJM1Z5cVNKSUxVNHotelRoRXlFVkNwTmNVY0JHU3BmbDVxbmFmZE5xeVBvVENrRlZ6RFgwckdKeTZlaWFibnQ4c2V4UXk5MFhIRkVRb3dqUTNPeDNyc2o4VTczdzZTUzJFby1COEEzZ1FnOEp2YWpBbUlEdDLSAZ8BQVVfeXFMT3FZREQ4bjhuTnQ2TDRja29jaVFBbkw1bnFoVWVmaS02SmtCSUdfTXE0LTRxNmZPSEt5bkx4U0pLTlNQb0wxSmR0LUVsLTEzSWxuZ0xSeng2dmRaWE5qLThubG10Z2JvMnpRT211LUExcEsxOFl1a1RlN3VYa0E2Y0dQYmtPOTdrSWVLNlpqQmZkZmJFVmNjRmJoQ3lqZFh3?oc=5>
+- **特朗普** | 美伊停火协议接近成形？特朗普召开战情室会议拍板 <https://news.google.com/rss/articles/CBMi6AJBVV95cUxPdEdpZnRGOXhWYVQxVzVVY3RuQnpkVE45eVY0Z09MWjdnTEM4SzhhTHVJWjktMGtpei1mOXNJSklfWkpsRnFiTjcxelJ5eGtLQXhIc1lWc1NnM2F1N0F2VGJIV0hCRVF3SXlMVDZCVlNUVXFHTzRBTzRkZ3RuMVB2dFNLVXdXajV5ME5sSl9ibW1oVVhNN0tqZDZ0eGRsYUdfWXJVTVVka25vTHVTQk5KVUUzNmZqQm1mTUZLOGZjemRiUFFoUE5GWm9TQ0lKU21nZHdVMWh2ZDlWZUxSdlQybi1JVXpKSERlcGdxLTdwdmhKQTd2bDdNYkV6S3JNNWF1bTAxLUhWYllRRjNuTWYyXzBPekI4RXlhWUxxWGkwYjBGSzhNZW1uY2FKNTI1RVZKby1QQW5BbUxHR0RsaXYwaTItd2o1am9ibUV4RUk0TnVPWFU4ajl4emxNUW9vR1RBS2NscWlLU2I?oc=5>
+- **特朗普** | 美伊要“双赢”了 <https://news.google.com/rss/articles/CBMicEFVX3lxTE5aM1ZPcEZnN01zSDdtbjdVOGh1aEpITDNRMXhOMEwwVF9tQzdXQm5xN0xuU0wzTWtSOFVFQ1dkSGliSkdzQnVTalFIQ2c1dUJ6VHdqRVVEcTV2N3NESGJTYk43NmJVSXBCRmRRaXRzck4?oc=5>
+- **特朗普** | 特朗普：美伊就核问题和霍尔木兹海峡以外次要事项达成一致 <https://news.google.com/rss/articles/CBMijwFBVV95cUxQclczMlZqamlPTW9FUThwMWVQclpLWDBtUllIQmF0OGpRd1NhNG91WkJ2dmxsM0JERTM1QmdBMG42RVdKakFaNGs5S210dWRzTGpRVWZRMlQxbUZKb3k4Q29EYzY3TGk2RjhFQVBfSzRRU29Kc3ZIX3dzanpoR29JQnpNRzRtQ05iR3RoTlMtcw?oc=5>
+- **特朗普** | 特朗普肖像纪念钞已设计完成 尚需国会“放行” <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBieF9oOGYyMjZTRWhBYURBSkxlOVhSbkgtdW90MlFiNDU3U1M4Y3ZvWGNwemVKX0JDRUMxYU9seDhublkzeDBPdzZVbzQyMUVDdWVIaUx4VXltdlRxcjY2LWsweXZrQk9K?oc=5>
+- **Trump** | TRUMP/USDT <https://news.google.com/rss/articles/CBMie0FVX3lxTE1UakxaT3RLV3Q1QU9oam1TQWdlQXp5djU3LVp1U0ZHeG8tUWRIa1g4MVlvcE9XTjgycUpyM0tOMFlxQXRaWUxXRHhDaDRReTc5a205VG4tRllLXzMzbVVTMzRvaHM3WC1sSjR6cUJ0NWNEa2t2YlM2a3VqRQ?oc=5>
+- **Trump** | 美股盘中上升 因特朗普提出伊朗协议条件 <https://news.google.com/rss/articles/CBMib0FVX3lxTE9pWlNIOUxhSG9GaVFOWld4eUoySkEwem1VNFRpRk5mdFMtT1IyTXRXTnlJRnh0YW1HRV9QRnUyQkFvQ3BHdVR6SFg4cUpKRmYxUGx5M2FiR1Y3ODU4Nl9JZDFUV1RSYlJyQ0ppT0V4dw?oc=5>
 
 ### 2026-05-29 17:30  (11 条)
 
