@@ -1,48 +1,71 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-29 22:11**
-- 本轮扫到 2315 条, 新增 **4** 条
+- 最近更新: **2026-05-29 23:47**
+- 本轮扫到 2321 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (6 条)
 
-### 伊朗知情人士：特朗普言论“真假参半”
+### 王一博发布双语早安问候，AI生成内容引关注
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-29 16:07
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9Lc05aZjg0clJ2SThTaFVtaFRPWkVXeWlfVno1c3d5MVNxS0tfWXRwX3p5S2kzUmlFeEl6aXJVZ3lhN1lDWjZNdU9VMA?oc=5>
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://video.sina.com.cn/p/finance/2026-05-30/detail-inhzrkwv9069908.d.html>
 
-### 美联邦法官裁定：特朗普不得将自己的姓名添加到肯尼迪中心的名字里
+### 美媒：特朗普推迟就伊朗相关协议作最终决定
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-05-29 22:03
-- 链接: <https://news.google.com/rss/articles/CBMiyANBVV95cUxQeU5DOE9Ca0xKMnJxTGQ5ODVMMktjV3lzNTJRMW9LanQwZEV2UG1JRHpueU5TbEQxMU5hV2Jzd0RQTUxRMzhBRUVHRFozblZZY05wY1RuWWU2VjV1Z0FRUTFITmE0bmdhQVVqUVBLcFpQSXBCeHVmcXF1MTJGTzI0STB3cFlLbHZ1MkVZMnQzcDJZWTZSN195QXJwN3BKNGM2NF9wU3dQSE93S2g5cmZaOFBBLUlMZm9uOTFMeUhManVIc1FoQ3VJdGx0dDROSGJsa0NsdndLeVNHRG12QTRZZTJmXy1CYjdQR1lJYmhQNm5nNjg4UE50MVZXRVRSY2I1c1JYakFQaU9QYVVhMXVFRW5wb3ZJU2lUX0FDRUExeEp6TGh5Q0ZxeGpKQldvVTU3c3oxMUNIMWlad2ZBYVRzRENSNWVQUTVHMEMxUk0tTkFPdnExeXN1akNvUW5nTnF2MzNJWGduWFByVUV2Z2wyeGlwNlA5dWxRSnBuV2VSMGNXX1ROanViUkJHbjViS3V6MU1FVnBfS004QkwzeWd6d3pUa2YxbVp6M0RfX1FUR1hLZThUOHJPOGVFeFVPLWlWN1BwOUZvMlo?oc=5>
+- 场馆: 新华网
+- 时间: 2026-05-29 20:04
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBVNXMxYzRJOVUxMGxkSlNGdm8xMHRWVUZhVzlOZGNtRmVVSnM1TnFnUmRVcV90Zm1ueExZV3drM2U3ZGZqME5FWFU2bHVUZGlmeU9HQUlXaTNkT3pfcWRWRVZZcG9NS0xIYXNkSzh1NXU4Z0NVNVgwNWh4RjVqOUE?oc=5>
 
-### 美股创历史新高 静待特朗普就伊朗和平提案作决定
+### 美媒：特朗普推迟就伊朗相关协议作最终决定
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新京报
+- 时间: 2026-05-29 23:29
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SUEtyS29aR0RBRFM5NnJ3dzdrcmx5ODh5NHhHWW9FUEwzNmQ5T29KMlZQblQtdkVhWXQ5TGZhNHJxb1J3R0tsWF9oTzZRczJtNXpoYlprcUVJcDV0MWlUeUJUQ2M?oc=5>
+
+### 美国法官裁定将特朗普名字从肯尼迪中心移除
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-05-29 23:17
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tWlJ1ZEl2SS00bkJPYlVMdWswRjdGUG5zUXUyNHRoVVBTbGFFMW5BeV9EM3JmZGNkdHlXb3FIMFEyRVlPRjNtYjhrS1ZPdk1wTzBfRHlnUU1DS1hQcXctcw?oc=5>
+
+### 宁选丹麦不要美国 格陵兰独立派领袖因特朗普改变立场
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-05-29 12:38
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9OaHpndm5jQXFseURYeEFUVVZSX3otSmN5V2lRMmxWNko2UWh3cnl4TlBNQmpUcm5XaDFNb011QTZybnJIWnhaaFV1Y2RYNzU3TUZhdkxIVWZYX0N6bzdTWTNGQzluOVVaQ3c?oc=5>
+
+### 法官阻止特朗普将甘乃迪中心更名及因翻修而关闭场馆
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: AASTOCKS.com
-- 时间: 2026-05-29 20:18
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTFBlQjVsbTMtclVNQWN3VTJaZkhPZ0JqeUlzUENZc1ZVdmhBQ2pQRXdJbVRVS2VOelJLcUNQV05zb3FBWHBwN0gzMFN4eUVucUhkSDlSQXpwaS1RY25fcTFnUjBsT1lNNlMzckJiTjVzMA?oc=5>
-
-### Oil Slides, Stocks Climb as Trump Puts off Determination on Iran Proposal
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-05-29 21:41
-- 链接: <https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYkJCX29POXNGWGR2ZHpXTWQ1Vld3Z3pWR1lEQk54S1Z6OGh0T3MwUnFVZ2VIZ2twZlBxZ3Vua3JtTDlBeS1uaXpJRWxuUVdfYl9Yd0JxY1VyQ3RwR09NOVFQLTFoSFYza1dTMjN2NjRHSUtoYTRIMjRmSTg0bk5ZN1o1RmtfaGxoLTJMUnZhR0QxRUhjSUNMeEdzb3Y1Ri1HTURJYkw3eWI?oc=5>
+- 时间: 2026-05-29 23:32
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTFBEbGV5VjFLZU92aVQwUXE0TktkZ1E4Nk9GM2Rrbk0wcGhibUdWTTJNNzlZR1d1dGU1Tlk1TGxBbExvQV9lSlZDNWdldU8xTVVPWVRiSl9SRzhaSXZ0dlUwcDBZUWJoQUVSMmN5MjFibw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-29 23:47  (6 条)
+
+- **王一博** | 王一博发布双语早安问候，AI生成内容引关注 <https://video.sina.com.cn/p/finance/2026-05-30/detail-inhzrkwv9069908.d.html>
+- **特朗普** | 美媒：特朗普推迟就伊朗相关协议作最终决定 <https://news.google.com/rss/articles/CBMif0FVX3lxTFBVNXMxYzRJOVUxMGxkSlNGdm8xMHRWVUZhVzlOZGNtRmVVSnM1TnFnUmRVcV90Zm1ueExZV3drM2U3ZGZqME5FWFU2bHVUZGlmeU9HQUlXaTNkT3pfcWRWRVZZcG9NS0xIYXNkSzh1NXU4Z0NVNVgwNWh4RjVqOUE?oc=5>
+- **特朗普** | 美媒：特朗普推迟就伊朗相关协议作最终决定 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SUEtyS29aR0RBRFM5NnJ3dzdrcmx5ODh5NHhHWW9FUEwzNmQ5T29KMlZQblQtdkVhWXQ5TGZhNHJxb1J3R0tsWF9oTzZRczJtNXpoYlprcUVJcDV0MWlUeUJUQ2M?oc=5>
+- **特朗普** | 美国法官裁定将特朗普名字从肯尼迪中心移除 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tWlJ1ZEl2SS00bkJPYlVMdWswRjdGUG5zUXUyNHRoVVBTbGFFMW5BeV9EM3JmZGNkdHlXb3FIMFEyRVlPRjNtYjhrS1ZPdk1wTzBfRHlnUU1DS1hQcXctcw?oc=5>
+- **特朗普** | 宁选丹麦不要美国 格陵兰独立派领袖因特朗普改变立场 <https://news.google.com/rss/articles/CBMiakFVX3lxTE9OaHpndm5jQXFseURYeEFUVVZSX3otSmN5V2lRMmxWNko2UWh3cnl4TlBNQmpUcm5XaDFNb011QTZybnJIWnhaaFV1Y2RYNzU3TUZhdkxIVWZYX0N6bzdTWTNGQzluOVVaQ3c?oc=5>
+- **Trump** | 法官阻止特朗普将甘乃迪中心更名及因翻修而关闭场馆 <https://news.google.com/rss/articles/CBMib0FVX3lxTFBEbGV5VjFLZU92aVQwUXE0TktkZ1E4Nk9GM2Rrbk0wcGhibUdWTTJNNzlZR1d1dGU1Tlk1TGxBbExvQV9lSlZDNWdldU8xTVVPWVRiSl9SRzhaSXZ0dlUwcDBZUWJoQUVSMmN5MjFibw?oc=5>
 
 ### 2026-05-29 22:11  (4 条)
 
