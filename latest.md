@@ -1,32 +1,87 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-28 23:51**
-- 本轮扫到 2261 条, 新增 **2** 条
+- 最近更新: **2026-05-29 02:40**
+- 本轮扫到 2269 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (8 条)
 
-### 特朗普：霍尔木兹海峡将被美军监控？这背后有何深意？
+### 蔡徐坤压轴亚洲音乐节献50分钟华语专场
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7096020439_1a6f4add706801rey0.html>
+
+### 蔡徐坤将压轴出演亚洲TOP音乐节
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7096020439_v1a6f4add706801rexi.html>
+
+### 伊朗将浓缩铀运往中俄？特朗普回应
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: video.sina.com.cn
-- 时间: 2026-05-28 23:37
-- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxOVkY3azYtbkloTDBSWVlsUHNQdG54MW9sQ1VTMnNWN1J4dG51MkNPZTJwaW1MZnZpb0tsUndGS2JkcEVlZS1PblJ2NXFlSVBvMW1rRDVKYi1DZk9CLWF2b0lOTmd3MzZ0eFNKOTlkNWg2VFJvTmZobUtyY2o4LUVURV9n?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-05-28 04:53
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2SGk3UUdvSHVtTHVmajJjSzlKeHVMNlhTU1NsNmVTMDh5VlpROTM0Q0RtVDJxczdlTGVXYU9mV2dxcm1LVnlCRU9hNl8?oc=5>
 
-### 突发！美国和伊朗达成和平协议，需特朗普批准！
+### 特朗普警告盟友：不守规矩会被炸飞
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: video.sina.com.cn
-- 时间: 2026-05-28 23:37
-- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxNOGg0TWI2NU5ldEZLR0ZORURhU0ROTEJkR0tZZS1ULUgzRjlubk5ZX2M0VFBTdEZSenUtd3RZR1pYbThQTE10RW93eHRRRUFPeXdKcmJZMkRHR3FiQ3JGdWpyYUxpaEt3SFotaE1sM2hNVW1jbjYzMGRsQjFuWnRLQVh3?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-05-27 23:19
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE93cFlxdFlLNVljQzJ3M0NRbFJWTTgzSXZ2d3ZpUkZrdFRaQ0t0bWVXTUQwaU02MVJvWllSQXBGVU9wYnFNdW44OTlaSTdUWlNvamM2S3R2cUxXVlJBSUlsUDdnQjdwVC1NWjQyX0FsV2E?oc=5>
+
+### 美国推动特朗普头像登上250周年纪念钞，财长亲自站台
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网财经
+- 时间: 2026-05-29 00:16
+- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE8tVHRRQTNfN1FSR3YtTEFTYnJWanI5cjRsTjdzX0hON0d3NlVFem0zTUdhOHBjQktBYkZvS1d1VTRVVWRLdDEwdEdXYl9oYXE3?oc=5>
+
+### 特朗普肖像纪念钞已设计完成 只等国会“放行”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 金融界
+- 时间: 2026-05-28 23:56
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE0xMWN6dmwxX1B3cjBhOGw3U2VvMWdYVFRxUUxIN0NIYTBnREVQMWQ4QnBqSUxxdVV0ZXNiYUhkMzZmTTdVNV9iU0FOSE1DWUJrN3l4dVZHbmhQazlVU0o0Qk5WNWlkclFhSTYybjJZRQ?oc=5>
+
+### 黄仁勋披露访华细节：原本不去 特朗普打电话非要让我来
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 驱动之家
+- 时间: 2026-05-28 15:55
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE8zczRJbHluM1BlV3FPaXJSQTU1WUwyQWJ2MTBkZ0VnQTAwRVZ2X0JkVlJDQU1yWm1URzdkRWh2SThra21tcGwxUXI4XzlJTXJLV1czZ2VBdUg?oc=5>
+
+### TRUMP/USDT
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Binance
+- 时间: 2026-05-27 18:39
+- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTFBsbXdkUGRROUZXWTVtU1dzaGkxZS1lemh4MzR4cWlyODVhSXZIdld2eG9TaHJDMkxOZGNjUS1kYnpRcG9YV0hJTnpINU5oRnpvd2xtM016NnU4eTl2aFBjSGhlQ0ExNEJvalNSUFhHTXlIZW81Nk1EeElqaw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-29 02:40  (8 条)
+
+- **蔡徐坤** | 蔡徐坤压轴亚洲音乐节献50分钟华语专场 <https://k.sina.com.cn/article_7096020439_1a6f4add706801rey0.html>
+- **蔡徐坤** | 蔡徐坤将压轴出演亚洲TOP音乐节 <https://k.sina.com.cn/article_7096020439_v1a6f4add706801rexi.html>
+- **特朗普** | 伊朗将浓缩铀运往中俄？特朗普回应 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2SGk3UUdvSHVtTHVmajJjSzlKeHVMNlhTU1NsNmVTMDh5VlpROTM0Q0RtVDJxczdlTGVXYU9mV2dxcm1LVnlCRU9hNl8?oc=5>
+- **特朗普** | 特朗普警告盟友：不守规矩会被炸飞 <https://news.google.com/rss/articles/CBMicEFVX3lxTE93cFlxdFlLNVljQzJ3M0NRbFJWTTgzSXZ2d3ZpUkZrdFRaQ0t0bWVXTUQwaU02MVJvWllSQXBGVU9wYnFNdW44OTlaSTdUWlNvamM2S3R2cUxXVlJBSUlsUDdnQjdwVC1NWjQyX0FsV2E?oc=5>
+- **特朗普** | 美国推动特朗普头像登上250周年纪念钞，财长亲自站台 <https://news.google.com/rss/articles/CBMiUEFVX3lxTE8tVHRRQTNfN1FSR3YtTEFTYnJWanI5cjRsTjdzX0hON0d3NlVFem0zTUdhOHBjQktBYkZvS1d1VTRVVWRLdDEwdEdXYl9oYXE3?oc=5>
+- **特朗普** | 特朗普肖像纪念钞已设计完成 只等国会“放行” <https://news.google.com/rss/articles/CBMib0FVX3lxTE0xMWN6dmwxX1B3cjBhOGw3U2VvMWdYVFRxUUxIN0NIYTBnREVQMWQ4QnBqSUxxdVV0ZXNiYUhkMzZmTTdVNV9iU0FOSE1DWUJrN3l4dVZHbmhQazlVU0o0Qk5WNWlkclFhSTYybjJZRQ?oc=5>
+- **特朗普** | 黄仁勋披露访华细节：原本不去 特朗普打电话非要让我来 <https://news.google.com/rss/articles/CBMiWEFVX3lxTE8zczRJbHluM1BlV3FPaXJSQTU1WUwyQWJ2MTBkZ0VnQTAwRVZ2X0JkVlJDQU1yWm1URzdkRWh2SThra21tcGwxUXI4XzlJTXJLV1czZ2VBdUg?oc=5>
+- **Trump** | TRUMP/USDT <https://news.google.com/rss/articles/CBMie0FVX3lxTFBsbXdkUGRROUZXWTVtU1dzaGkxZS1lemh4MzR4cWlyODVhSXZIdld2eG9TaHJDMkxOZGNjUS1kYnpRcG9YV0hJTnpINU5oRnpvd2xtM016NnU4eTl2aFBjSGhlQ0ExNEJvalNSUFhHTXlIZW81Nk1EeElqaw?oc=5>
 
 ### 2026-05-28 23:51  (2 条)
 
