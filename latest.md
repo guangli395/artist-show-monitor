@@ -1,76 +1,78 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-29 02:40**
-- 本轮扫到 2269 条, 新增 **8** 条
+- 最近更新: **2026-05-29 06:49**
+- 本轮扫到 2276 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (7 条)
 
-### 蔡徐坤压轴亚洲音乐节献50分钟华语专场
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7096020439_1a6f4add706801rey0.html>
-
-### 蔡徐坤将压轴出演亚洲TOP音乐节
+### 蔡徐坤新歌Deadman打破爆表轮次纪录
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7096020439_v1a6f4add706801rexi.html>
+- 链接: <https://k.sina.com.cn/article_6580970034_18841a23204001aq98.html>
 
-### 伊朗将浓缩铀运往中俄？特朗普回应
+### 周杰伦无与伦比演唱会引爆夏日回忆
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-05-28 04:53
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2SGk3UUdvSHVtTHVmajJjSzlKeHVMNlhTU1NsNmVTMDh5VlpROTM0Q0RtVDJxczdlTGVXYU9mV2dxcm1LVnlCRU9hNl8?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5733486100_m155be0e1403301jqk4.html>
 
-### 特朗普警告盟友：不守规矩会被炸飞
+### 美国和伊朗是接近和平，还是正在滑向战争深渊？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-05-27 23:19
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE93cFlxdFlLNVljQzJ3M0NRbFJWTTgzSXZ2d3ZpUkZrdFRaQ0t0bWVXTUQwaU02MVJvWllSQXBGVU9wYnFNdW44OTlaSTdUWlNvamM2S3R2cUxXVlJBSUlsUDdnQjdwVC1NWjQyX0FsV2E?oc=5>
-
-### 美国推动特朗普头像登上250周年纪念钞，财长亲自站台
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网财经
-- 时间: 2026-05-29 00:16
-- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE8tVHRRQTNfN1FSR3YtTEFTYnJWanI5cjRsTjdzX0hON0d3NlVFem0zTUdhOHBjQktBYkZvS1d1VTRVVWRLdDEwdEdXYl9oYXE3?oc=5>
+- 场馆: BBC
+- 时间: 2026-05-29 04:39
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFAzMTNtbjVyVnZMNXdSMHdqQWthdzItZTZmT2pPYjhmbVVSRmthc3lpbFpNbFJNb3RuMzBQY3JEMHRkbFo1SnFvbjhlWTlHZ2RhZDFaRlVmd2VVckpUZ1c4WWhJZlNBd9IBa0FVX3lxTE1mSzJzeFFaTFZKMFZmcjFtMHpZV3RYTjg4cXJ0RzNPUDhYVTdWdVFsdEt1d214STdLOFdWTTFKS0NTNVg1WS1FUmdZWXYxN2NfbjRPWWVOcjZUUWNxNThudkwyOEM4cEpjRVlr?oc=5>
 
 ### 特朗普肖像纪念钞已设计完成 只等国会“放行”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 金融界
-- 时间: 2026-05-28 23:56
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE0xMWN6dmwxX1B3cjBhOGw3U2VvMWdYVFRxUUxIN0NIYTBnREVQMWQ4QnBqSUxxdVV0ZXNiYUhkMzZmTTdVNV9iU0FOSE1DWUJrN3l4dVZHbmhQazlVU0o0Qk5WNWlkclFhSTYybjJZRQ?oc=5>
+- 场馆: 新华网
+- 时间: 2026-05-29 00:14
+- 链接: <https://news.google.com/rss/articles/CBMimgFBVV95cUxOdGR6b3ZPLTFoaUdqU1ZFVEZTTlBmNUQtYjhHYjEwcDYxcm1EVWNkQUlCVWJ6SkFBZll5WFhYekxHTF84dDg2c05WdjJwb0VJcmhHQUt4V1JlZ3FFckY2cmpMWlo2YzZ0cjQ4eHVnc3BvZldxRU9uTlJLU1JrYThiamloTURwaElJak00MmxyU1BRTGEtYmZpZ2p3?oc=5>
 
-### 黄仁勋披露访华细节：原本不去 特朗普打电话非要让我来
+### 美媒：美司法部对指控特朗普性侵的女作家展开调查
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 驱动之家
-- 时间: 2026-05-28 15:55
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE8zczRJbHluM1BlV3FPaXJSQTU1WUwyQWJ2MTBkZ0VnQTAwRVZ2X0JkVlJDQU1yWm1URzdkRWh2SThra21tcGwxUXI4XzlJTXJLV1czZ2VBdUg?oc=5>
+- 场馆: 新京报
+- 时间: 2026-05-29 03:14
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1pWXprbjlrUGRaaUhZODctamhCSDM4Vmp5REhjRUF5UTJRVGRseFRTbGJ6aV85cVhxUVZfcmZTQU1wSm1RN1VydVZkUTQtX0NmSEd5RDJRWU9YaEplYjk4WFBybno?oc=5>
 
-### TRUMP/USDT
+### 关于美伊协议，特朗普有几条“红线”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 21财经
+- 时间: 2026-05-29 02:52
+- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxQOU5tN1FhM2hwMFM1U2wwWVJZczZlbUFGaUEzZGZBRjFsS1REWmhiRTF4bWxDMS1nYWhXV3pRb1BLNUxmeTh2ZHI3SUloMFFLekxfSVo2bHJXXzZNTVp4VDdkSUpucXdoVlVLcERKdGJ6NHNDQi01TV9CdG9maUxRMVJtMFZlN3hpTEgzdGxUYw?oc=5>
+
+### Vanessa Trump患癌后逛街_新浪新闻
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Binance
-- 时间: 2026-05-27 18:39
-- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTFBsbXdkUGRROUZXWTVtU1dzaGkxZS1lemh4MzR4cWlyODVhSXZIdld2eG9TaHJDMkxOZGNjUS1kYnpRcG9YV0hJTnpINU5oRnpvd2xtM016NnU4eTl2aFBjSGhlQ0ExNEJvalNSUFhHTXlIZW81Nk1EeElqaw?oc=5>
+- 场馆: 手机新浪网
+- 时间: 2026-05-25 03:34
+- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTE9xRTlrVkZMZjQ4MmJORTZYZ0RTUktpbkR2WUlUWGZNRVV1SWVHMGRqdmlJWXJaaUJkWElzS2dUSHI0dnhMM1hZMGUtVGw4UXVKRGhGOUJIMVlNR3NtcmR1Z2RTZw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-29 06:49  (7 条)
+
+- **蔡徐坤** | 蔡徐坤新歌Deadman打破爆表轮次纪录 <https://k.sina.com.cn/article_6580970034_18841a23204001aq98.html>
+- **周杰伦** | 周杰伦无与伦比演唱会引爆夏日回忆 <https://k.sina.com.cn/article_5733486100_m155be0e1403301jqk4.html>
+- **特朗普** | 美国和伊朗是接近和平，还是正在滑向战争深渊？ <https://news.google.com/rss/articles/CBMiZkFVX3lxTFAzMTNtbjVyVnZMNXdSMHdqQWthdzItZTZmT2pPYjhmbVVSRmthc3lpbFpNbFJNb3RuMzBQY3JEMHRkbFo1SnFvbjhlWTlHZ2RhZDFaRlVmd2VVckpUZ1c4WWhJZlNBd9IBa0FVX3lxTE1mSzJzeFFaTFZKMFZmcjFtMHpZV3RYTjg4cXJ0RzNPUDhYVTdWdVFsdEt1d214STdLOFdWTTFKS0NTNVg1WS1FUmdZWXYxN2NfbjRPWWVOcjZUUWNxNThudkwyOEM4cEpjRVlr?oc=5>
+- **特朗普** | 特朗普肖像纪念钞已设计完成 只等国会“放行” <https://news.google.com/rss/articles/CBMimgFBVV95cUxOdGR6b3ZPLTFoaUdqU1ZFVEZTTlBmNUQtYjhHYjEwcDYxcm1EVWNkQUlCVWJ6SkFBZll5WFhYekxHTF84dDg2c05WdjJwb0VJcmhHQUt4V1JlZ3FFckY2cmpMWlo2YzZ0cjQ4eHVnc3BvZldxRU9uTlJLU1JrYThiamloTURwaElJak00MmxyU1BRTGEtYmZpZ2p3?oc=5>
+- **特朗普** | 美媒：美司法部对指控特朗普性侵的女作家展开调查 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1pWXprbjlrUGRaaUhZODctamhCSDM4Vmp5REhjRUF5UTJRVGRseFRTbGJ6aV85cVhxUVZfcmZTQU1wSm1RN1VydVZkUTQtX0NmSEd5RDJRWU9YaEplYjk4WFBybno?oc=5>
+- **特朗普** | 关于美伊协议，特朗普有几条“红线” <https://news.google.com/rss/articles/CBMijwFBVV95cUxQOU5tN1FhM2hwMFM1U2wwWVJZczZlbUFGaUEzZGZBRjFsS1REWmhiRTF4bWxDMS1nYWhXV3pRb1BLNUxmeTh2ZHI3SUloMFFLekxfSVo2bHJXXzZNTVp4VDdkSUpucXdoVlVLcERKdGJ6NHNDQi01TV9CdG9maUxRMVJtMFZlN3hpTEgzdGxUYw?oc=5>
+- **Trump** | Vanessa Trump患癌后逛街_新浪新闻 <https://news.google.com/rss/articles/CBMiY0FVX3lxTE9xRTlrVkZMZjQ4MmJORTZYZ0RTUktpbkR2WUlUWGZNRVV1SWVHMGRqdmlJWXJaaUJkWElzS2dUSHI0dnhMM1hZMGUtVGw4UXVKRGhGOUJIMVlNR3NtcmR1Z2RTZw?oc=5>
 
 ### 2026-05-29 02:40  (8 条)
 
