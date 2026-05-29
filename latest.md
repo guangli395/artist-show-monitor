@@ -1,112 +1,62 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-29 10:41**
-- 本轮扫到 2288 条, 新增 **12** 条
+- 最近更新: **2026-05-29 13:54**
+- 本轮扫到 2293 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (12 条)
+## 本轮新发现 (5 条)
 
-### 美官员表示已与伊朗达成一项初步协议，尚待特朗普总统批准
+### AI动画MV-周杰伦《七里香》AIseedance周杰伦七里香
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-05-28 23:34
-- 链接: <https://news.google.com/rss/articles/CBMi1gFBVV95cUxPd1hWSFNlQm5mYzJHX294dnlOTWpzRDlZakFwNzdlUnNlSXV3SlR1QnpKZzBodjk1eGtZc1lUWkdQUlEwb1VSS01iY2pJTDFjWERGM0xnWGVScldkdV9tTF9TNDhtXzRaWnNDSlZYMUdqVjgxT0VWU3I0MVpyY1l1YU9ZTVMzSWNNNUd3SUIzMXRpbTNCaW1BSVRYdW9LUXRxRUNSOHNOTGw2TS0yYW11UjhqUkVGME1XdnlnNEZoUTYxdThLWkVqT293bXVjanJmd3ZsUVdn0gHYAUFVX3lxTFB1akZESzFpbHBpQ1hMZTVPY2NjZnVtTks5dmJOQkc2aEdIbXNMUGtXUXo4anY1NGRhd1p5WTVCSzd3VUM4OS1iT05OU1NFTDNGOFNQWmYwNVh0dXhwTkRlQTlERG9IMGo1TW1tQjhzQkVSOEFydVJyQTJLVE0wNVg1WlloN1JQdm02ZGpMTGZBUDZ2MWl6VmJJTlhTYy1aMUo0Q0NQM3FYcmpsenpLanc4cVoyNFo2dWNxTjdmOXJGSzBPS3l5TUVxUG41YlNUQmU1eUlnM0hHQg?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1793049857_m6adfc50103301g4sm.html>
 
-### 美媒：美司法部对指控特朗普性侵的女作家展开调查
+### 特朗普：伊朗即使放弃高浓缩铀也无法获得解除制裁
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-05-29 08:29
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE43WDJnMDQwQWVlZWlSZ25lVzJhc0RWNndYQThOZ1FEekstbU9nOXhJT0N4UUVOOExueDctbUhwSm8zc2RwRE5ZeEJoQldDdlRTc2tLam5XakNqT3RZaS0yVkNZVUdqNWF3OWk4TG1neUUwMUxlc3VVa0tYOWlDNEU?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-05-27 21:32
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTFBmMlFOcGxadHE4X3ZzWmpCNFF3MHpGT1RnVm9qc2dBajktWGtSWTloMG84XzQ2SXVNckNrX3J5dlRadVVzdlRaNjRrYUxvZ2RBdTB0ZV9pckpzV3FsV1BSc29xWUxsY2lnV3pWODFiX1h4R2lB?oc=5>
 
-### 特朗普肖像纪念钞已设计完成 只等国会“放行”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-05-29 00:09
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1EWDRMUlBoQ3dvTzVBQjB3MmVOanlxWExuYmVZQzZSb25KVjkwaVo3aUU1UW1aVGRWNVJieVdnQVhxR094MmdrcUsxeE4tOE1xVDU2VzZBZzA5LU5MQWFSeE9Ob3VNMUkzVXJpTkJPM21HUWVMbEJoeFpJbnNPT1k?oc=5>
-
-### 特朗普肖像纪念钞已设计完成 尚需国会“放行”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中国网
-- 时间: 2026-05-29 08:30
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTFBlVGZJdzdGb1R5QS1lZ0ZJR3dPUFFkVV9QamlqTl81VjlWbjhXQ000ODlwdXVIZHpldGU3ZlYzX0lfUlpwWklMTEFKNDZZZ3VrU0RmWW9nWlBwaGd5ei1HbkxGWDNEa28zQzlfLURxSQ?oc=5>
-
-### 美国专栏 - 特朗普访华后美国高层密集访亚洲 印太战略往哪走？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-05-29 09:14
-- 链接: <https://news.google.com/rss/articles/CBMisgNBVV95cUxQQmpkSVBRNGNJTG1FRHNIMmNGVW1Ybml2Ql9GbzY2cWh4WjB5SHRFMUtyQXN2Q2E3MkdOclh0bm50cE8yRjg4MVNPcXVVVlcxTklEODhoa0NIaFNBcVdUNWd4SGhtOWRiSlNmM2ZUOFloRkJXRXJ4ZDF0dFlFQ0JyZVhTdURvd3Q3YXJGVWt1VHBDZmVVbEx5MzdDNGh5N3pfdldLSV9mRVVYVjEzY0hoR2doRkNaZ2VBTndqY2J6LXZXblRDSW1pU3RWcFdjdWFLQXpEY19ZVG4xdklJTjVrSjdNYlJwMUNadzF2MFFZLVBzakl2YWJHMUpHR1pPdEhHTk5NZHFzWUk2cFBySWJzWHl6ZXZYdVhkYW5lUVAzWDAzaWFPUkJRTWJ4WmR6VzFhQW9oZThoOUJMN2xxQy1hLWItSmFvMGZETDNhMk5zdGpzUzIyNTRqMERfcUNpZ0xDcjVZVGJuemJFYWhfSnMtSWJ4QmMtb2ZCNWZIQlRIZDhPaS1QUzl3YVNVSzFtelRHSXlBcDU1blB6YW9lSDd2NldYQ0c5UHhvcWRfeUQzR0RxQQ?oc=5>
-
-### 63%不支持率！特朗普民调跌入“尼克松水门时刻”
+### 贝森特：国会需要修改法律，让特朗普肖像出现在美元上
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 观察者
-- 时间: 2026-05-29 06:45
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1tN09waThzeVZoUEhhaGlBdDNaamRYMENNbWVTSndoRzJUQUpjTHkxdEk5cGpBNFVudlhxLVJRVjIyRTVocExwT2t2d0dHMnVoNGdKaHdwa2VKUGFsZWktR1B6MGpoYzVmVmc?oc=5>
+- 时间: 2026-05-29 06:27
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5NNFRmQlhSd2pJVXVaekUyWXFwWXNmaXBmemptT09rVGNVRnhiTmtxVm9faEtEX2pVVk12VVI4S1lEMzNzX2gzcmNQUXJfdi1RNklLQzVVMkhja1AtY1Uwb3VsRmFiaVJQR3c?oc=5>
 
-### 黄仁勋披露随特朗普访华细节：原本不去，特朗普致电坚持让其上飞机，“我就匆忙收拾了一下”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 21财经
-- 时间: 2026-05-29 04:00
-- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxNTFVCUmhLdDlYbkRrTFlmN0kwc3ZQYmNsSkU4Tjhxa2ljSVkyZFZMa2wwUWFIUDRwQnhLcG52Z29qSFM4cXhQSURoZWFXNkhuQzRUc0xIVHFlaWNkeVVWTTd5a2hpZnplRDl2eF92UmY3NHFYLThfdnNhNzgzZTBCOTY0VTZXaUJ3cTRjZXk4Zw?oc=5>
-
-### 特朗普白宫开会，会场变“带货直播间”：每位官员面前摆放“建国250周年纪念帽”，售价55美元，已上线“特朗普商店”
+### 美国东北牡蛎养殖场，走出一位特朗普“平替”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-05-28 14:29
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE9WMnZnREFfTDZPMlFEanlHRU5fYnNBOG1aWGtXeWoxenQwN0prTkdlQ0JPNnZiTk5PY3lGMGtyLUxNTklzZ2Y4bEEtVkxNd3JaRnZB?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-05-28 10:28
+- 链接: <https://news.google.com/rss/articles/CBMikAFBVV95cUxOS2J2am5vRjJ2VjEtWmFDYXhtR0trWHU2Ujh4RkZoNVMxb0JDanR6RXNMYnI0dXNGSkJqNlhKU3BQdWs3c3MwZElRMmIzYThUQ3h5bWRoRVJRek5BMlNwOWQwTUN4eklMSTh4ZnBUNm1acnpLXy1hMWpkQWhOS2FWNFZIZTFSdVMxZ3JkSm5kT1I?oc=5>
 
-### 特朗普日均发20贴文 晚上9点至10点最活跃
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-05-28 07:23
-- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTE1lQWZCQXkyT3Jlb0l6MWhydWg4WDhVc0FUR1NOVjBGNjFUUVBnb0tTXzF2SjUyZG52OEEwWEVVUXlJT2xucUJ5TENTX0s3SUVkSEhBOE5idnVkZGIxaEU5QlVJRWMzam1USWI4dUZYR1AtRkRqTmR3dkNERQ?oc=5>
-
-### 特朗普承诺提供100亿美元，和平委员会：未收到丨夜观天下·漫话
+### 特朗普调侃美防长热衷战争有何意味 内阁会议上的意外言论
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 四川新闻
-- 时间: 2026-05-29 08:11
-- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTE5zN0VyVUFveHhRTTNiUlJoTDQ2TXJ5MnVWUmItWVIxTnRibENMQkRHdVpLdjc4eDBlRU5rblAyUkRFbVUzQWRsSVdYaDJvd0JLY01XUW1iRmtqbkFUSTRZaHVzMA?oc=5>
-
-### 文章精选
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 清华大学战略与安全研究中心
-- 时间: 2026-05-29 02:42
-- 链接: <https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoRXJQbVVOUU05aWtlTHYyblVIc20yb1d0ak5WMHRfZUJndWI3ZzhGbUQ4TmIzNkI0ZGlLMTJKSm9COWMxcU9kUjVEVElHSnJVdU1YSG93?oc=5>
-
-### 美国或迎来印有特朗普头像的250美元钞票 美国财长称已做好准备
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-05-29 03:50
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTFA4YlVIaGJvbzc4ZjJsdk5QSkZybFVrbVNiMFE1Y0NhOXRHUDhaN0R3OE5IWkVFWC1FTjJ5U0RJdU84QVk4d0xFaw?oc=5>
+- 场馆: 中华网
+- 时间: 2026-05-29 12:34
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5Ma0lHWVZ2Nk1tX29GQXFTSjczbmNFalpSam55RFJJRVI1eUVLbzhrS2cwOTNxQjFDQ3FnZXVGOXVlNDRDQTZkSFQyLThWVXJZQ051bldoMXBYZ3pDU0NxaE9KQW0yNFltUTRiUW91VXE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-29 13:54  (5 条)
+
+- **周杰伦** | AI动画MV-周杰伦《七里香》AIseedance周杰伦七里香 <https://k.sina.com.cn/article_1793049857_m6adfc50103301g4sm.html>
+- **特朗普** | 特朗普：伊朗即使放弃高浓缩铀也无法获得解除制裁 <https://news.google.com/rss/articles/CBMidEFVX3lxTFBmMlFOcGxadHE4X3ZzWmpCNFF3MHpGT1RnVm9qc2dBajktWGtSWTloMG84XzQ2SXVNckNrX3J5dlRadVVzdlRaNjRrYUxvZ2RBdTB0ZV9pckpzV3FsV1BSc29xWUxsY2lnV3pWODFiX1h4R2lB?oc=5>
+- **特朗普** | 贝森特：国会需要修改法律，让特朗普肖像出现在美元上 <https://news.google.com/rss/articles/CBMiakFVX3lxTE5NNFRmQlhSd2pJVXVaekUyWXFwWXNmaXBmemptT09rVGNVRnhiTmtxVm9faEtEX2pVVk12VVI4S1lEMzNzX2gzcmNQUXJfdi1RNklLQzVVMkhja1AtY1Uwb3VsRmFiaVJQR3c?oc=5>
+- **特朗普** | 美国东北牡蛎养殖场，走出一位特朗普“平替” <https://news.google.com/rss/articles/CBMikAFBVV95cUxOS2J2am5vRjJ2VjEtWmFDYXhtR0trWHU2Ujh4RkZoNVMxb0JDanR6RXNMYnI0dXNGSkJqNlhKU3BQdWs3c3MwZElRMmIzYThUQ3h5bWRoRVJRek5BMlNwOWQwTUN4eklMSTh4ZnBUNm1acnpLXy1hMWpkQWhOS2FWNFZIZTFSdVMxZ3JkSm5kT1I?oc=5>
+- **特朗普** | 特朗普调侃美防长热衷战争有何意味 内阁会议上的意外言论 <https://news.google.com/rss/articles/CBMicEFVX3lxTE5Ma0lHWVZ2Nk1tX29GQXFTSjczbmNFalpSam55RFJJRVI1eUVLbzhrS2cwOTNxQjFDQ3FnZXVGOXVlNDRDQTZkSFQyLThWVXJZQ051bldoMXBYZ3pDU0NxaE9KQW0yNFltUTRiUW91VXE?oc=5>
 
 ### 2026-05-29 10:41  (12 条)
 
