@@ -1,56 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-30 06:19**
-- 本轮扫到 2335 条, 新增 **5** 条
+- 最近更新: **2026-05-30 08:43**
+- 本轮扫到 2338 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (3 条)
 
-### 海格塞斯：任何未来美国对台军售的决定都将由特朗普总统做出
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-05-30 06:13
-- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxOTUF6V3BoUEgxYlFXQXc4dVVsQTZ5M0c2Vkdod0MxQnFvTHR0OEdyZ09IYVJpc2IzSHYyMmFkX0tESVhKSHR2MHFFYk5ieUxxS3VxTXhQOFQzdmxZU21PbUVKZGlxaE9HX3ZIMFBGWFViWGZDdHpOaGo1NHJrM3FaZG12UUJpVFRTcl9yZXF6cUp2dWExU0x6R1UyRVYtTDhDcGRzZlBFeFpRVUpQWWwyM2hvaXFabEhjZWNQdEJtRmljQ1ktN0tMaXhkRlMwNDDSAdIBQVVfeXFMT2RGclRXaTlPVzYzY1pmNlNIOGNNVktkbHBGbkliLURjOVcyeWVFTUVJekFKNzlkMkFVazRRYUZyVVNyNGFlLWoxZVFCZFVaa1dXSS1oVUZNVXFTamJwTHRDUWJLWG5WZzItSkNDV2JuVFBjZEx4aElNeU0tYWd6bUpxb3NLNzJSbHBfWUJKRVZtV1Z0S2pJZGNJdkZtTFYxWlhUTE54SHpVUy03Y0RiclBaaDBOMVNwSjhVQ1BzRDFCZm4xclB6SnlaVTU0NTBpZVBB?oc=5>
-
-### 伊朗撂下三句狠话
+### 美国法官裁定将特朗普名字从肯尼迪中心移除
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-05-30 02:15
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9TRkI1Yjdkdk9TWk0wSG8xUU9xVmNFcloxLWQ4VWFhMXcxcHFqbXZlRUNhOGhHeDBDZWZSUnBOVDh4cXZra0xwNlcwR2xZcjd5ai1pUVZ5eG9WdEZwZ0tScnFuQXY3dktObGt6MXRGczA?oc=5>
+- 场馆: 中国日报网
+- 时间: 2026-05-29 23:28
+- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE9fWXhFcVB6SG5YTml5WEZfNWw3WnhMbWttdlNuYVd0NWg0d1lXMUdIS2I3T1NjSnZxS3Q2enU5d1hvb21La2g0NDI3NUxwOXc5TDRpUHhDNERTSVpqVHBOWGlqQTJ2VzQtZkJlbTAxSHVMVXFMc0VmbnVOYWo?oc=5>
 
-### 美法官裁定将特朗普名字从肯尼迪中心移除
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察
-- 时间: 2026-05-30 02:13
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE0wSzhWSEZCMEVrRWttZllPcTY2MUhiSVc3cVdWZHJCdkVJTVEyQllHYWllSzVLYXNfdWdILTZWWTJ6azFmcHhBZGk3VngybDF2NFlURTZERkp2YW8tdE5fa3RSaXRrd1RHY1E?oc=5>
-
-### 酷似特朗普水牛住进孟加拉国动物园
+### 特朗普：拜登妻子终于承认了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-05-30 00:38
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5GRExOUVBPc29wMUdRT3dXOUw0UjVFX3o5ZjRXcVBJeGdVWllEb0tUSUVnQ1loWFhXbTZFaXZHVUxQT0FNU2tDVXVCMU0?oc=5>
+- 时间: 2026-05-30 02:08
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE54emdhZmdRVDRocWhjVjlPNUdlWkhwZ0FBTVo0NjRWelVMemFZNmV1aU1TR0cwRGVhd1JtUFhTU3NISmt4RTYxMlhxVlE?oc=5>
 
-### 特朗普被曝推迟就伊朗相关协议作最终决定
+### 习近平9月访美前 特朗普暂缓与赖清德通话
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-05-30 00:42
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RSGxUVVV0M2J5RDRqX25XWEoydzY0TjFJUGJpNENFUDJGanpCNU01OTd2VG5DbGk3c1luMXBlZFU3UW9EUTY4M1NGWC1qbnpRZjhWZXV0bVpiUnNEY3ktOE1mLU9FOUd2?oc=5>
+- 场馆: 联合早报
+- 时间: 2026-05-30 02:15
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBKbkhZMDNreEFzLUN6VktIUFcyRUt1WGEzSUplT2lFY3lISkF1Mm9yU1NNWlQ2d2hhUkJEU3l2RC12UnJTbWNsWEs3aUhYOURKTXdkUkRUd1VtZEZWMFBmYVZLOGVoUVRoT2c?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-30 08:43  (3 条)
+
+- **特朗普** | 美国法官裁定将特朗普名字从肯尼迪中心移除 <https://news.google.com/rss/articles/CBMifEFVX3lxTE9fWXhFcVB6SG5YTml5WEZfNWw3WnhMbWttdlNuYVd0NWg0d1lXMUdIS2I3T1NjSnZxS3Q2enU5d1hvb21La2g0NDI3NUxwOXc5TDRpUHhDNERTSVpqVHBOWGlqQTJ2VzQtZkJlbTAxSHVMVXFMc0VmbnVOYWo?oc=5>
+- **特朗普** | 特朗普：拜登妻子终于承认了 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE54emdhZmdRVDRocWhjVjlPNUdlWkhwZ0FBTVo0NjRWelVMemFZNmV1aU1TR0cwRGVhd1JtUFhTU3NISmt4RTYxMlhxVlE?oc=5>
+- **特朗普** | 习近平9月访美前 特朗普暂缓与赖清德通话 <https://news.google.com/rss/articles/CBMiakFVX3lxTFBKbkhZMDNreEFzLUN6VktIUFcyRUt1WGEzSUplT2lFY3lISkF1Mm9yU1NNWlQ2d2hhUkJEU3l2RC12UnJTbWNsWEs3aUhYOURKTXdkUkRUd1VtZEZWMFBmYVZLOGVoUVRoT2c?oc=5>
 
 ### 2026-05-30 06:19  (5 条)
 
