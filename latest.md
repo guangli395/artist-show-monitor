@@ -1,24 +1,42 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-30 16:55**
-- 本轮扫到 2360 条, 新增 **1** 条
+- 最近更新: **2026-05-30 18:00**
+- 本轮扫到 2363 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮新发现 (3 条)
 
-### 特朗普体检报告：比去年重超6公斤 医生建议减重
+### 周杰伦2026世界巡回演唱会官宣！！！
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019065zi2.html>
+
+### 陶喆、李健、周杰伦演唱会在哪里买？2026上海站购票指南来了！_新闻
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019065zf8.html>
+
+### 特朗普最新体检报告出炉 较去年增重12斤
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-05-30 14:33
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5yXzhEZXU1UXRRazlCU29jRFBVbEVvSHo0UEtjSEJiNzNoZ1VoYjVGMzNrcW4zb0p2WWZaUnppSFJsM3JjUHdPZ05yamd6ZVV0NHhXZTlJb1p4MmZCa2dMN2k2dWxUaG5qSUdEcG9pVGo?oc=5>
+- 场馆: 财联社
+- 时间: 2026-05-30 06:01
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTFBTeFlFRzZ1eHpYaEYzQVR2RlNfaHRaOE1zSGt5VGNWZ09QRXNBYjRCZ2VpNVlsRW5CcE51a0xCTGJjRjQ5TDZPNw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-30 18:00  (3 条)
+
+- **周杰伦** | 周杰伦2026世界巡回演唱会官宣！！！ <https://k.sina.com.cn/article_7857201856_1d45362c0019065zi2.html>
+- **周杰伦** | 陶喆、李健、周杰伦演唱会在哪里买？2026上海站购票指南来了！_新闻 <https://k.sina.com.cn/article_7857201856_1d45362c0019065zf8.html>
+- **特朗普** | 特朗普最新体检报告出炉 较去年增重12斤 <https://news.google.com/rss/articles/CBMiSEFVX3lxTFBTeFlFRzZ1eHpYaEYzQVR2RlNfaHRaOE1zSGt5VGNWZ09QRXNBYjRCZ2VpNVlsRW5CcE51a0xCTGJjRjQ5TDZPNw?oc=5>
 
 ### 2026-05-30 16:55  (1 条)
 
