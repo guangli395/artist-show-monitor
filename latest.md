@@ -1,61 +1,13 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-30 20:49**
-- 本轮扫到 2377 条, 新增 **6** 条
+- 最近更新: **2026-05-30 21:55**
+- 本轮扫到 2377 条, 新增 **0** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮无新增
 
-### 蔡徐坤5月30日亮相马来西亚音乐节，舞台彩排花絮曝光
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5556631847_m14b3379270530220g8.html>
-
-### 5名艺术家退出独立250周年庆典 特朗普尴尬
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-05-30 20:13
-- 链接: <https://news.google.com/rss/articles/CBMisgJBVV95cUxOMUhEWTJ2enR1d0pLWjY2dFlDZVB2b2tnQTZfU0g3MnZJT2RZY3hCYmdRX1AtNmZzbjVQVmZIenRrMGFPYkEtX05qYVRrdXowSWhROFZoQ1QxM3ZWWTdYbmVjVlloeGJrWm9FYlFSN2dEYVEyRmpjOTVjYWxuNUhiNUp3alVkNnBGMnJ0MmtjMzZMZDNZWUF2UUVZX1ZPTFVxeWVQUmJ1bjl2X2M5THl2emxyMzhkZVpQVUxmY3NuaXhFNllRQzQ2TTd6eTRHbEN4ZGtuMmozcm1nTW1iTzFya2xRLUx5bktZbzdzUndZcFM5cThTLUVSTXVqcktjS1pSM05rVThucmZyS2ExLUZ0eHdsckpXejVkQzAtRU1wTFItM1RhdFFHd0FHY1FTNnZpRnc?oc=5>
-
-### 特朗普称对伊朗的海上封锁“即将被解除”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-05-30 02:33
-- 链接: <https://news.google.com/rss/articles/CBMizgFBVV95cUxOV19pYkZSQThreERlVlV4dUlzbHFPUzlnTFNGUVlVbXhZQkczVHZVdU9KVEUtYVcwZV9RVDFJU2Nubmp6S1pwc2VvVDlUOVBSLXN6Y0pETzNaRDZIQlFvNk41SFQ1ZkN0QVE0U0Y5VWtyZkk0UHYtSU02SEdLNDNmczRyUHlFbllMQXNkMVVGTHZNYTBuZXJRaFFwdlB6dHdjSTlZcXVsTDhzeDY2cE1SM3FEWTFrMGx2VC11RHZZcVE5NE9keFA1SDZacDBDZw?oc=5>
-
-### 伊朗最高领袖顾问批特朗普背弃外交原则
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-05-30 16:07
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5TT2hSMUI0bnpZSm54TUVWMGY5U1M1aHM2Rmx5blhvUzdKYVRPbXhPZ2NSWW9xZGNEVEhxbnJRUG4wQjB3QjRaa2RZQWg?oc=5>
-
-### 伊朗撂下三句狠话
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-30 04:10
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE0yVlpoM1Q3Mnl3LUsybmJsQkIwTlRjd2kydGo4QVA4S01YVE01aTBzMmxqTFRaVlRmV09ZNy1CbDltYW5Pa2FaLXc1czRyTXpFZkszQVRVY0Y0bkpvM282aS0xX1FSaldkbUpBWkd0RDlnN0lzb2taUg?oc=5>
-
-### Pato-Von-Duck (@Square-Creator-6a8d2822b991)的见解
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Binance
-- 时间: 2026-05-29 10:47
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Sd1l1ODE5YzI0TklGSWwyakJiLWZiNGRQNTNTVUZOSFowZTRUOW94c1Q2U004eFhISjRHdjc2RUtSSU00N2VLZGZ5alY4MEpXbzlYd1BoTE9ZcXRRQ3BURG95aURBWHZh?oc=5>
-
-
----
-
+数据库里所有演出/动态都已见过,暂无新增。
 ## 历史发现
 
 ### 2026-05-30 20:49  (6 条)
