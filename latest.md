@@ -1,88 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-30 02:35**
-- 本轮扫到 2330 条, 新增 **9** 条
+- 最近更新: **2026-05-30 06:19**
+- 本轮扫到 2335 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (9 条)
+## 本轮新发现 (5 条)
 
-### 美财长尬吹：面对中国，特朗普“叫醒”了美国-观察者网
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-05-30 01:10
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1vb3BTR2tTNlFrZ1NRZUk0RkF2Nm8zaWxLanJTYV9PR2R5OXc2VGZLVjJocW0wVHQ1enV6YzFMbEhXM2JuaVRTZlZmNlRCM2t1U0k3QW5kUXhjdnozWXRybmRzeXJPOWxMWmc?oc=5>
-
-### 美国法官裁定将特朗普名字从肯尼迪中心移除
+### 海格塞斯：任何未来美国对台军售的决定都将由特朗普总统做出
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-05-29 23:54
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KUW1XYlpmMG85eWZ2N1VDN0RuankxemxXVldmN3hER1Vhbkxrd1lDQU95Unk5ZjBHNHlsZmF2Yk5CTDFMRHpZSC1WVU5fU29fR2U1WWtvSXdmN2ViaE94aU1BbEE?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-05-30 06:13
+- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxOTUF6V3BoUEgxYlFXQXc4dVVsQTZ5M0c2Vkdod0MxQnFvTHR0OEdyZ09IYVJpc2IzSHYyMmFkX0tESVhKSHR2MHFFYk5ieUxxS3VxTXhQOFQzdmxZU21PbUVKZGlxaE9HX3ZIMFBGWFViWGZDdHpOaGo1NHJrM3FaZG12UUJpVFRTcl9yZXF6cUp2dWExU0x6R1UyRVYtTDhDcGRzZlBFeFpRVUpQWWwyM2hvaXFabEhjZWNQdEJtRmljQ1ktN0tMaXhkRlMwNDDSAdIBQVVfeXFMT2RGclRXaTlPVzYzY1pmNlNIOGNNVktkbHBGbkliLURjOVcyeWVFTUVJekFKNzlkMkFVazRRYUZyVVNyNGFlLWoxZVFCZFVaa1dXSS1oVUZNVXFTamJwTHRDUWJLWG5WZzItSkNDV2JuVFBjZEx4aElNeU0tYWd6bUpxb3NLNzJSbHBfWUJKRVZtV1Z0S2pJZGNJdkZtTFYxWlhUTE54SHpVUy03Y0RiclBaaDBOMVNwSjhVQ1BzRDFCZm4xclB6SnlaVTU0NTBpZVBB?oc=5>
 
-### 一图看懂｜“不听话就炸掉”，特朗普威胁/攻击过哪些国家？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-05-29 23:52
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zVzBSVlVqZ1RzMkFGOUY0Z1BrZHp1ZUh4OHo5enEwanNTQlkzSU5hdXhkb0F3ZFppMmRSU25jcF95SjNLaHZlSGxJckhvZ3lRRW1rTXRiMWNqMDJFM0xmZA?oc=5>
-
-### 美国财政部拟将特朗普肖像印在新版250美元纸币上
+### 伊朗撂下三句狠话
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-05-29 04:00
-- 链接: <https://news.google.com/rss/articles/CBMibEFVX3lxTE5McEwzQS1UZi1YWG5TWndzd0tEUFJBYVRqTjZRLVNDaDZya25Vdi1WNVpYYml5ZFJ1am94enp2TVBBTURGc0R3QzJ6QWhUdUlxYlhxcHAyYm50cmVfUkV5bXctU3NsNzJncDh4bg?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-05-30 02:15
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9TRkI1Yjdkdk9TWk0wSG8xUU9xVmNFcloxLWQ4VWFhMXcxcHFqbXZlRUNhOGhHeDBDZWZSUnBOVDh4cXZra0xwNlcwR2xZcjd5ai1pUVZ5eG9WdEZwZ0tScnFuQXY3dktObGt6MXRGczA?oc=5>
+
+### 美法官裁定将特朗普名字从肯尼迪中心移除
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察
+- 时间: 2026-05-30 02:13
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE0wSzhWSEZCMEVrRWttZllPcTY2MUhiSVc3cVdWZHJCdkVJTVEyQllHYWllSzVLYXNfdWdILTZWWTJ6azFmcHhBZGk3VngybDF2NFlURTZERkp2YW8tdE5fa3RSaXRrd1RHY1E?oc=5>
+
+### 酷似特朗普水牛住进孟加拉国动物园
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-05-30 00:38
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5GRExOUVBPc29wMUdRT3dXOUw0UjVFX3o5ZjRXcVBJeGdVWllEb0tUSUVnQ1loWFhXbTZFaXZHVUxQT0FNU2tDVXVCMU0?oc=5>
 
 ### 特朗普被曝推迟就伊朗相关协议作最终决定
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: chinanews.com.cn
-- 时间: 2026-05-29 22:35
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE85bmF4eGU1eFdrM3dtWElRejg2MDRlSi1TU3J6SW5pOHZUZkJlN2JHM0dLWUlDYjlQaThYNFNWV3hjY3Q0VVV5a1haOVMtc1l3ak4xMTFhbFBNenRqd1JMVjRSXzFpaUZ0?oc=5>
-
-### 特朗普：结束战争，我有条件-观察者网
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-05-29 23:41
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBncXNMQTdsd3dCT1p2MEFsSTczRWlwYWpFZVNYM2MyQ1hvcnpXbnVsc0s2dEd6UWg2eW5nUWF2WG5Oa3hvWlB2aml0ZWZFalJXSjJTd1JGdW5UY3RPNnNQUkFFYmNxaGw3UEE?oc=5>
-
-### 美财长尬吹：面对中国，特朗普“叫醒”了美国
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-05-30 02:15
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFAyYzZlN212Rm1ncTNXV1hCV2plZmxJaTFEUzFmR0VFOHVYUm1vdXdncXJGemhOSENSU0ZneE5Hem9CeUtiVlRxdENNcDE?oc=5>
-
-### 美股创历史新高 静待特朗普就伊朗和平提案作决定
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: AASTOCKS.com
-- 时间: 2026-05-29 20:18
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE1scVY1d1ZndGdQSkYzOXc1SnBUbVRxd2tsSUpRS0szV1hLdEk2bjZmd0Z4MEZxQ2tpZFJ5Qi1McEJQRy11VzVsb3d2N2Vfd3BCX05FU3AxcWJtVVFDbndOVk1jVzZZMmJqQndSdG9Vdw?oc=5>
-
-### 美股盘中上升因特朗普提出伊朗协议条件财经新闻Financial News
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: AASTOCKS.com
-- 时间: 2026-05-29 17:41
-- 链接: <https://news.google.com/rss/articles/CBMihAFBVV95cUxPWFBoTURhR3RuQ0RvMUpzRmhSOWVPMTFXMndVdHd2cjJKRmxQckk4SjBXbXIyVXYzTFhtLVRCVEhmeUpvcm5la3RQMmFUanR6UkZ1eF9USWl0T1Y4dFd3cnd5aGFqeHNHZDc0Y3pHdTVyZFRwYkVpUVlnLUg3b25STzFUMlA?oc=5>
+- 时间: 2026-05-30 00:42
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RSGxUVVV0M2J5RDRqX25XWEoydzY0TjFJUGJpNENFUDJGanpCNU01OTd2VG5DbGk3c1luMXBlZFU3UW9EUTY4M1NGWC1qbnpRZjhWZXV0bVpiUnNEY3ktOE1mLU9FOUd2?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-30 06:19  (5 条)
+
+- **特朗普** | 海格塞斯：任何未来美国对台军售的决定都将由特朗普总统做出 <https://news.google.com/rss/articles/CBMizwFBVV95cUxOTUF6V3BoUEgxYlFXQXc4dVVsQTZ5M0c2Vkdod0MxQnFvTHR0OEdyZ09IYVJpc2IzSHYyMmFkX0tESVhKSHR2MHFFYk5ieUxxS3VxTXhQOFQzdmxZU21PbUVKZGlxaE9HX3ZIMFBGWFViWGZDdHpOaGo1NHJrM3FaZG12UUJpVFRTcl9yZXF6cUp2dWExU0x6R1UyRVYtTDhDcGRzZlBFeFpRVUpQWWwyM2hvaXFabEhjZWNQdEJtRmljQ1ktN0tMaXhkRlMwNDDSAdIBQVVfeXFMT2RGclRXaTlPVzYzY1pmNlNIOGNNVktkbHBGbkliLURjOVcyeWVFTUVJekFKNzlkMkFVazRRYUZyVVNyNGFlLWoxZVFCZFVaa1dXSS1oVUZNVXFTamJwTHRDUWJLWG5WZzItSkNDV2JuVFBjZEx4aElNeU0tYWd6bUpxb3NLNzJSbHBfWUJKRVZtV1Z0S2pJZGNJdkZtTFYxWlhUTE54SHpVUy03Y0RiclBaaDBOMVNwSjhVQ1BzRDFCZm4xclB6SnlaVTU0NTBpZVBB?oc=5>
+- **特朗普** | 伊朗撂下三句狠话 <https://news.google.com/rss/articles/CBMicEFVX3lxTE9TRkI1Yjdkdk9TWk0wSG8xUU9xVmNFcloxLWQ4VWFhMXcxcHFqbXZlRUNhOGhHeDBDZWZSUnBOVDh4cXZra0xwNlcwR2xZcjd5ai1pUVZ5eG9WdEZwZ0tScnFuQXY3dktObGt6MXRGczA?oc=5>
+- **特朗普** | 美法官裁定将特朗普名字从肯尼迪中心移除 <https://news.google.com/rss/articles/CBMiakFVX3lxTE0wSzhWSEZCMEVrRWttZllPcTY2MUhiSVc3cVdWZHJCdkVJTVEyQllHYWllSzVLYXNfdWdILTZWWTJ6azFmcHhBZGk3VngybDF2NFlURTZERkp2YW8tdE5fa3RSaXRrd1RHY1E?oc=5>
+- **特朗普** | 酷似特朗普水牛住进孟加拉国动物园 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5GRExOUVBPc29wMUdRT3dXOUw0UjVFX3o5ZjRXcVBJeGdVWllEb0tUSUVnQ1loWFhXbTZFaXZHVUxQT0FNU2tDVXVCMU0?oc=5>
+- **特朗普** | 特朗普被曝推迟就伊朗相关协议作最终决定 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RSGxUVVV0M2J5RDRqX25XWEoydzY0TjFJUGJpNENFUDJGanpCNU01OTd2VG5DbGk3c1luMXBlZFU3UW9EUTY4M1NGWC1qbnpRZjhWZXV0bVpiUnNEY3ktOE1mLU9FOUd2?oc=5>
 
 ### 2026-05-30 02:35  (9 条)
 
