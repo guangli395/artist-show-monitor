@@ -1,70 +1,71 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-30 19:47**
-- 本轮扫到 2371 条, 新增 **8** 条
+- 最近更新: **2026-05-30 20:49**
+- 本轮扫到 2377 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (6 条)
 
-### 蔡徐坤工作室再度营业，同步更新吉隆坡演唱会现场_新闻
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c00190660po.html>
-
-### 蔡徐坤在马来西亚音乐节彩排现场的工作照具体是什么样子？
+### 蔡徐坤5月30日亮相马来西亚音乐节，舞台彩排花絮曝光
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801m8dc.html>
+- 链接: <https://k.sina.com.cn/article_5556631847_m14b3379270530220g8.html>
 
-### 周杰伦2026巡演全攻略！8⃣️城抢票+游玩一站式搞定
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906620u.html>
-
-### 周杰伦上海演唱会即将开启，上海旅游节花车巡游首发，全上海寻找周同学_演唱会
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c00190661zm.html>
-
-### 周杰伦2025上海演唱会开票时间定了！（附更多演唱会预告）
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906608e.html>
-
-### 特朗普拟设贸易委员会管理美中贸易 企业界盼成降税新管道
+### 5名艺术家退出独立250周年庆典 特朗普尴尬
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: RFI
-- 时间: 2026-05-30 18:54
-- 链接: <https://news.google.com/rss/articles/CBMimANBVV95cUxQRDNNaHdkUHVrU1I5ckYyb1N6ZEMwMTl1S19XanlHQ2FkNVNPSEx0Wk5paW56RDlsVkhlUTlTMHB6Q1lOMFNaTmxTYmRLdnBiaUZEQ0dCNlUxRDJlejJIa29vNUszTVdTMXB6R2l4ZEItQUNpVmZGaVZiUUstZEsySUFWXy1hbEw4Z3lIN0JJZmN1Mk15VWJsZXlhamdHQmUtcC0wNTFVNVBhN2xSRWZTXzgybGJfOHVRd0dfamhCTU1URXpxZDl6aHVhUU45SmhFOGphdHFTYkIwdW9oZnBVMXByVmZrZlVWSEtMUWRmajd6RFVrZzBJVnU5R1c0a3FOTEUwTFIyclVCT1NYdkJLRFB1Ykk2TmhsLXJwS0pGMXhJN0hpeVlnYURhVkRJcnM3R25jTldaTnl1bmItaUNMZW5Ta0Q4RDBxeGFtZWRIN1hTY1FoNzZsbGdETFdiVmJNam1sTE5TZmxwRkpkVnZUUUljelBIdUllZU5wclhZM3VMSVNVQVBnQS1HYko2eFNGTGV0dDVFWFk?oc=5>
+- 时间: 2026-05-30 20:13
+- 链接: <https://news.google.com/rss/articles/CBMisgJBVV95cUxOMUhEWTJ2enR1d0pLWjY2dFlDZVB2b2tnQTZfU0g3MnZJT2RZY3hCYmdRX1AtNmZzbjVQVmZIenRrMGFPYkEtX05qYVRrdXowSWhROFZoQ1QxM3ZWWTdYbmVjVlloeGJrWm9FYlFSN2dEYVEyRmpjOTVjYWxuNUhiNUp3alVkNnBGMnJ0MmtjMzZMZDNZWUF2UUVZX1ZPTFVxeWVQUmJ1bjl2X2M5THl2emxyMzhkZVpQVUxmY3NuaXhFNllRQzQ2TTd6eTRHbEN4ZGtuMmozcm1nTW1iTzFya2xRLUx5bktZbzdzUndZcFM5cThTLUVSTXVqcktjS1pSM05rVThucmZyS2ExLUZ0eHdsckpXejVkQzAtRU1wTFItM1RhdFFHd0FHY1FTNnZpRnc?oc=5>
 
-### 习近平9月访美前 特朗普暂缓与赖清德通话
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-05-30 02:15
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE15aTZudDJ3d0NlZXBuazcwZUpWRVhNYlNqWHlmTHJob2ZUM25rMldfZEdCNi1qMjNhZ1phWUhHTnlsRE1Gb3pBWGtRQ3FkQk5hZ2xydmpoazZkMVNteVJBNExiU0haZw?oc=5>
-
-### 白宫公布特朗普年度体检报告：增重超6公斤
+### 特朗普称对伊朗的海上封锁“即将被解除”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-05-30 13:53
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBacEFyWkFVZm1kNkQ5Y0JxdzB0elBXN2FmNE5jMlBDeHk3Z1ozLTZJYUM0TGdrbG9jUlNCZnR6NllnWnB6TERwNXZfNlZucjY0eFl4RUhoTnRvMWxWbFZZZ29UdWc?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-05-30 02:33
+- 链接: <https://news.google.com/rss/articles/CBMizgFBVV95cUxOV19pYkZSQThreERlVlV4dUlzbHFPUzlnTFNGUVlVbXhZQkczVHZVdU9KVEUtYVcwZV9RVDFJU2Nubmp6S1pwc2VvVDlUOVBSLXN6Y0pETzNaRDZIQlFvNk41SFQ1ZkN0QVE0U0Y5VWtyZkk0UHYtSU02SEdLNDNmczRyUHlFbllMQXNkMVVGTHZNYTBuZXJRaFFwdlB6dHdjSTlZcXVsTDhzeDY2cE1SM3FEWTFrMGx2VC11RHZZcVE5NE9keFA1SDZacDBDZw?oc=5>
+
+### 伊朗最高领袖顾问批特朗普背弃外交原则
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-05-30 16:07
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5TT2hSMUI0bnpZSm54TUVWMGY5U1M1aHM2Rmx5blhvUzdKYVRPbXhPZ2NSWW9xZGNEVEhxbnJRUG4wQjB3QjRaa2RZQWg?oc=5>
+
+### 伊朗撂下三句狠话
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-30 04:10
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE0yVlpoM1Q3Mnl3LUsybmJsQkIwTlRjd2kydGo4QVA4S01YVE01aTBzMmxqTFRaVlRmV09ZNy1CbDltYW5Pa2FaLXc1czRyTXpFZkszQVRVY0Y0bkpvM282aS0xX1FSaldkbUpBWkd0RDlnN0lzb2taUg?oc=5>
+
+### Pato-Von-Duck (@Square-Creator-6a8d2822b991)的见解
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Binance
+- 时间: 2026-05-29 10:47
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Sd1l1ODE5YzI0TklGSWwyakJiLWZiNGRQNTNTVUZOSFowZTRUOW94c1Q2U004eFhISjRHdjc2RUtSSU00N2VLZGZ5alY4MEpXbzlYd1BoTE9ZcXRRQ3BURG95aURBWHZh?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-30 20:49  (6 条)
+
+- **蔡徐坤** | 蔡徐坤5月30日亮相马来西亚音乐节，舞台彩排花絮曝光 <https://k.sina.com.cn/article_5556631847_m14b3379270530220g8.html>
+- **特朗普** | 5名艺术家退出独立250周年庆典 特朗普尴尬 <https://news.google.com/rss/articles/CBMisgJBVV95cUxOMUhEWTJ2enR1d0pLWjY2dFlDZVB2b2tnQTZfU0g3MnZJT2RZY3hCYmdRX1AtNmZzbjVQVmZIenRrMGFPYkEtX05qYVRrdXowSWhROFZoQ1QxM3ZWWTdYbmVjVlloeGJrWm9FYlFSN2dEYVEyRmpjOTVjYWxuNUhiNUp3alVkNnBGMnJ0MmtjMzZMZDNZWUF2UUVZX1ZPTFVxeWVQUmJ1bjl2X2M5THl2emxyMzhkZVpQVUxmY3NuaXhFNllRQzQ2TTd6eTRHbEN4ZGtuMmozcm1nTW1iTzFya2xRLUx5bktZbzdzUndZcFM5cThTLUVSTXVqcktjS1pSM05rVThucmZyS2ExLUZ0eHdsckpXejVkQzAtRU1wTFItM1RhdFFHd0FHY1FTNnZpRnc?oc=5>
+- **特朗普** | 特朗普称对伊朗的海上封锁“即将被解除” <https://news.google.com/rss/articles/CBMizgFBVV95cUxOV19pYkZSQThreERlVlV4dUlzbHFPUzlnTFNGUVlVbXhZQkczVHZVdU9KVEUtYVcwZV9RVDFJU2Nubmp6S1pwc2VvVDlUOVBSLXN6Y0pETzNaRDZIQlFvNk41SFQ1ZkN0QVE0U0Y5VWtyZkk0UHYtSU02SEdLNDNmczRyUHlFbllMQXNkMVVGTHZNYTBuZXJRaFFwdlB6dHdjSTlZcXVsTDhzeDY2cE1SM3FEWTFrMGx2VC11RHZZcVE5NE9keFA1SDZacDBDZw?oc=5>
+- **特朗普** | 伊朗最高领袖顾问批特朗普背弃外交原则 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5TT2hSMUI0bnpZSm54TUVWMGY5U1M1aHM2Rmx5blhvUzdKYVRPbXhPZ2NSWW9xZGNEVEhxbnJRUG4wQjB3QjRaa2RZQWg?oc=5>
+- **特朗普** | 伊朗撂下三句狠话 <https://news.google.com/rss/articles/CBMieEFVX3lxTE0yVlpoM1Q3Mnl3LUsybmJsQkIwTlRjd2kydGo4QVA4S01YVE01aTBzMmxqTFRaVlRmV09ZNy1CbDltYW5Pa2FaLXc1czRyTXpFZkszQVRVY0Y0bkpvM282aS0xX1FSaldkbUpBWkd0RDlnN0lzb2taUg?oc=5>
+- **Trump** | Pato-Von-Duck (@Square-Creator-6a8d2822b991)的见解 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Sd1l1ODE5YzI0TklGSWwyakJiLWZiNGRQNTNTVUZOSFowZTRUOW94c1Q2U004eFhISjRHdjc2RUtSSU00N2VLZGZ5alY4MEpXbzlYd1BoTE9ZcXRRQ3BURG95aURBWHZh?oc=5>
 
 ### 2026-05-30 19:47  (8 条)
 
