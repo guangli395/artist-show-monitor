@@ -1,40 +1,73 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-30 08:43**
-- 本轮扫到 2338 条, 新增 **3** 条
+- 最近更新: **2026-05-30 10:45**
+- 本轮扫到 2344 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (6 条)
 
-### 美国法官裁定将特朗普名字从肯尼迪中心移除
+### 特朗普发文：令人震惊、无法容忍
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中国日报网
-- 时间: 2026-05-29 23:28
-- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE9fWXhFcVB6SG5YTml5WEZfNWw3WnhMbWttdlNuYVd0NWg0d1lXMUdIS2I3T1NjSnZxS3Q2enU5d1hvb21La2g0NDI3NUxwOXc5TDRpUHhDNERTSVpqVHBOWGlqQTJ2VzQtZkJlbTAxSHVMVXFMc0VmbnVOYWo?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-05-30 06:07
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBwVFl1YzFyNGxOOUk0NU9jdVdydXV6MlhHa1pNM1dtZGdieHZCbzlCUnFqLVhXT0l1TlFiSmhvWkI5RXpKZWVqd3VOQzBTU2VLeF9waU1WZTBleFQwMl9LekpGTk9PZXJhbElqMUFyaDI?oc=5>
 
-### 特朗普：拜登妻子终于承认了
+### 消息人士：特朗普预计不会在习近平今秋访美前与赖清德通话
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-05-30 09:06
+- 链接: <https://news.google.com/rss/articles/CBMimANBVV95cUxPU1hRS1VzTTBQWWNuZi0wWkJ4bTBROERqNFFlSldBS3hHZXgyZ3BnVEZXelJzV1IzWWdFbDVxdEVGUXVTZDA1bGdlYUNsN2ltRDhCWG5kOFpWRXFScTh5dllZNTE1SFRrTVF5NllJZzFpMEJtcmJsSi1xYjNWbUx4VXI0YWxCTWxfRFh3dXpCdFRSWThKR0lkMFRDNjJpenJpdUQtWl9tX3NHVkxsUnZON2hPZkV0T0otaG5wX2gtNG5kWkRCVGgxVEtfWm9fWDY0ckNwemZHaEJvUE0yakhlOUY0WEpVb3lEaExkUVItd3lOX2Y0azBDSXBJZDRLR21BN0tRM2I0SV9Yd3dnNXZGQXlob2E1TmFMY3J5eXlaendaQjE3dHFETGk0QVNhakxPZ0dmOFJIMHlEc096bU1Ga1U4eVItZjI4aF8ydzRZb1puSEN3MlByV0NfSFI0cDlHQW1TMzRpNEhuTWZTdVpVbl9kakNjek01UHI3d01RNTlXMklXOXc5MGF2VGUwdDdtdGptMHhSM0c?oc=5>
+
+### 美防长：特朗普对美伊谈判很有耐心，“达成任何交易都划算”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 环球网
+- 时间: 2026-05-29 17:49
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE8tX1ZzdkRNaFcyYms2Zy1uS3FucllCRi1nTTU5QmQ1T0E0aEFZSEQ5anVNRHZkbFdxTzF0RWlGWWh3UUE4b2VrLVVkcHNQTXlySnFUazZMSWM?oc=5>
+
+### 美伊局势迷雾重重：特朗普被曝推迟作“最终决定” 双方仍各说各话
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 财联社
+- 时间: 2026-05-29 23:36
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE10QWVaRkFHV1FvNzhHbmMwVlhjT211TklPWkVrdXZ2RElqVkxaeXk2eHg3cERuRDlEbU5xSXMzTjdWVHdRTl94bQ?oc=5>
+
+### 特朗普发文：令人震惊、无法容忍
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-05-30 02:08
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE54emdhZmdRVDRocWhjVjlPNUdlWkhwZ0FBTVo0NjRWelVMemFZNmV1aU1TR0cwRGVhd1JtUFhTU3NISmt4RTYxMlhxVlE?oc=5>
+- 时间: 2026-05-30 06:26
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ZYnk4NlpQS0dSUVhHYU0tUGxRcnR5YTlvTlRVMUs1NzdNSDg3a3dXTDFzendGbVppM05PVkJvQXp2dkxQWlhCWkJUbmE?oc=5>
 
-### 习近平9月访美前 特朗普暂缓与赖清德通话
+### 这才是史上最牛的“长钱长投”！美国近期推出“婴儿炒股”政策，正式名称为‌“特朗普账户”（Trump Accounts）‌，是一项旨在让新生儿自出生起即成为股市股东的政府金融实验，你不用自掏腰包，本金由美国政府出，凡2025年1月1日至2028年12月31日‌期间出生的美国公民
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-05-30 02:15
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBKbkhZMDNreEFzLUN6VktIUFcyRUt1WGEzSUplT2lFY3lISkF1Mm9yU1NNWlQ2d2hhUkJEU3l2RC12UnJTbWNsWEs3aUhYOURKTXdkUkRUd1VtZEZWMFBmYVZLOGVoUVRoT2c?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-05-30 06:15
+- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTE1TbVRqdjdzcTIyckVtUWNZVVUzcDhHeGhrYjdWWXhEN0tJaHZBSHVMQnpqUWh4OGFTUWtmTFVWckFQcy1MMVB6QTY1V25fdzBtMldvc1FVVHhVY3Y4Z2U5LTI0RQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-30 10:45  (6 条)
+
+- **特朗普** | 特朗普发文：令人震惊、无法容忍 <https://news.google.com/rss/articles/CBMicEFVX3lxTFBwVFl1YzFyNGxOOUk0NU9jdVdydXV6MlhHa1pNM1dtZGdieHZCbzlCUnFqLVhXT0l1TlFiSmhvWkI5RXpKZWVqd3VOQzBTU2VLeF9waU1WZTBleFQwMl9LekpGTk9PZXJhbElqMUFyaDI?oc=5>
+- **特朗普** | 消息人士：特朗普预计不会在习近平今秋访美前与赖清德通话 <https://news.google.com/rss/articles/CBMimANBVV95cUxPU1hRS1VzTTBQWWNuZi0wWkJ4bTBROERqNFFlSldBS3hHZXgyZ3BnVEZXelJzV1IzWWdFbDVxdEVGUXVTZDA1bGdlYUNsN2ltRDhCWG5kOFpWRXFScTh5dllZNTE1SFRrTVF5NllJZzFpMEJtcmJsSi1xYjNWbUx4VXI0YWxCTWxfRFh3dXpCdFRSWThKR0lkMFRDNjJpenJpdUQtWl9tX3NHVkxsUnZON2hPZkV0T0otaG5wX2gtNG5kWkRCVGgxVEtfWm9fWDY0ckNwemZHaEJvUE0yakhlOUY0WEpVb3lEaExkUVItd3lOX2Y0azBDSXBJZDRLR21BN0tRM2I0SV9Yd3dnNXZGQXlob2E1TmFMY3J5eXlaendaQjE3dHFETGk0QVNhakxPZ0dmOFJIMHlEc096bU1Ga1U4eVItZjI4aF8ydzRZb1puSEN3MlByV0NfSFI0cDlHQW1TMzRpNEhuTWZTdVpVbl9kakNjek01UHI3d01RNTlXMklXOXc5MGF2VGUwdDdtdGptMHhSM0c?oc=5>
+- **特朗普** | 美防长：特朗普对美伊谈判很有耐心，“达成任何交易都划算” <https://news.google.com/rss/articles/CBMiWEFVX3lxTE8tX1ZzdkRNaFcyYms2Zy1uS3FucllCRi1nTTU5QmQ1T0E0aEFZSEQ5anVNRHZkbFdxTzF0RWlGWWh3UUE4b2VrLVVkcHNQTXlySnFUazZMSWM?oc=5>
+- **特朗普** | 美伊局势迷雾重重：特朗普被曝推迟作“最终决定” 双方仍各说各话 <https://news.google.com/rss/articles/CBMiSEFVX3lxTE10QWVaRkFHV1FvNzhHbmMwVlhjT211TklPWkVrdXZ2RElqVkxaeXk2eHg3cERuRDlEbU5xSXMzTjdWVHdRTl94bQ?oc=5>
+- **特朗普** | 特朗普发文：令人震惊、无法容忍 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ZYnk4NlpQS0dSUVhHYU0tUGxRcnR5YTlvTlRVMUs1NzdNSDg3a3dXTDFzendGbVppM05PVkJvQXp2dkxQWlhCWkJUbmE?oc=5>
+- **Trump** | 这才是史上最牛的“长钱长投”！美国近期推出“婴儿炒股”政策，正式名称为‌“特朗普账户”（Trump Accounts）‌，是一项旨在让新生儿自出生起即成为股市股东的政府金融实验，你不用自掏腰包，本金由美国政府出，凡2025年1月1日至2028年12月31日‌期间出生的美国公民 <https://news.google.com/rss/articles/CBMiY0FVX3lxTE1TbVRqdjdzcTIyckVtUWNZVVUzcDhHeGhrYjdWWXhEN0tJaHZBSHVMQnpqUWh4OGFTUWtmTFVWckFQcy1MMVB6QTY1V25fdzBtMldvc1FVVHhVY3Y4Z2U5LTI0RQ?oc=5>
 
 ### 2026-05-30 08:43  (3 条)
 
