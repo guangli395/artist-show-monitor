@@ -1,44 +1,74 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-30 12:02**
-- 本轮扫到 2348 条, 新增 **4** 条
+- 最近更新: **2026-05-30 14:12**
+- 本轮扫到 2355 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (7 条)
 
-### 蔡徐坤亮相马来西亚音乐节，不驯光影引爆舞台
+### 周杰伦为张艺兴创作新歌
 
-- 艺人/关键词: **蔡徐坤**
+- 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6580970034_18841a23204001aqmm.html>
+- 链接: <https://k.sina.com.cn/article_2387456303_8e4db12f040016yss.html>
 
-### 蔡徐坤马来西亚音乐节彩排，不驯光影向夜而生
+### 周杰伦为张艺兴创作新歌，音源即将发布
 
-- 艺人/关键词: **蔡徐坤**
+- 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6377398640_17c1f617004001ocz2.html>
+- 链接: <https://k.sina.com.cn/article_3876174997_e709bc9504001tnak.html>
 
-### 美防长：特朗普对美伊谈判很有耐心 “达成任何交易都划算”
+### 周杰伦给张艺兴写了首歌！这样听就很好听，期待正式发布音源
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5129559114_p131bedc4a02701dh8i.html>
+
+### 周杰伦为张艺兴创作新歌，张艺兴难掩喜悦
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_3285889392_c3dab17004001a5ii.html>
+
+### 白宫公布特朗普年度体检报告：增重超6公斤
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新蓝网
+- 时间: 2026-05-30 14:03
+- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE4xQWNoSFdsSl9RNElMTGV6TWZvdDFwVi1iWktqZF9FU2FSejlXNGRNNmk5ZzlENjg1b0x0dlRQRklnNGlVbDhFVkNxeUdxY2c?oc=5>
+
+### 美媒：特朗普推迟就伊朗相关协议作最终决定
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-05-29 20:47
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fQ3FQczBhcFQ3TnZ1dUtKNElXU1F3OE9SVmlXRXRuczZtTGNTQmpFS3FxYUtZaFNaUERXZC1laTZxdnR3aU5BQlVYVUNfQjJ4N24xcFJmU2gwRDZoMl9PTA?oc=5>
+
+### 特朗普发文：令人震惊、无法容忍
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-30 10:22
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1FVU5GaDdadU52LW5YaDZ6TFFHSlk3cFhWaHVQUFY2NU90WVpHMXlCbURzaG9VTW95bEdOMElrM24yQUpubXI2VmZwYw?oc=5>
-
-### 美防长：特朗普对美伊谈判很有耐心，“达成任何交易都划算”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-05-30 08:55
-- 链接: <https://news.google.com/rss/articles/CBMid0FVX3lxTE5TZ0MyTENINFB3UEI0TjZ0cjFUTURzQlBEU3pLQjZOeEtrbGtBYW5zN3ZFemRqU0xnSFdiVXNDMjRXVUFnUEpWMVdmWVFVazFhV2pkX2Q0dDloTkYzVVg2LXd4NzhiSzNmUzBIdXZRdUdPUlVXOVpj?oc=5>
+- 时间: 2026-05-30 06:07
+- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxNd0o1TF9XdGRCZjdGLU9LclFQbjd1OTdwLV8xNmtnTndSS3YtMmtjYkZMdERkZlhtZHBsT3FzSFNIcVM3UkJtSGNxT0dRaHJmWDdEWkQyTl9JQ0dUMXJMZmFocGZQTEEzWXFHT0gxQXBER2VJbmx6TllDeGY3SVQwMg?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-30 14:12  (7 条)
+
+- **周杰伦** | 周杰伦为张艺兴创作新歌 <https://k.sina.com.cn/article_2387456303_8e4db12f040016yss.html>
+- **周杰伦** | 周杰伦为张艺兴创作新歌，音源即将发布 <https://k.sina.com.cn/article_3876174997_e709bc9504001tnak.html>
+- **周杰伦** | 周杰伦给张艺兴写了首歌！这样听就很好听，期待正式发布音源 <https://k.sina.com.cn/article_5129559114_p131bedc4a02701dh8i.html>
+- **周杰伦** | 周杰伦为张艺兴创作新歌，张艺兴难掩喜悦 <https://k.sina.com.cn/article_3285889392_c3dab17004001a5ii.html>
+- **特朗普** | 白宫公布特朗普年度体检报告：增重超6公斤 <https://news.google.com/rss/articles/CBMiT0FVX3lxTE4xQWNoSFdsSl9RNElMTGV6TWZvdDFwVi1iWktqZF9FU2FSejlXNGRNNmk5ZzlENjg1b0x0dlRQRklnNGlVbDhFVkNxeUdxY2c?oc=5>
+- **特朗普** | 美媒：特朗普推迟就伊朗相关协议作最终决定 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fQ3FQczBhcFQ3TnZ1dUtKNElXU1F3OE9SVmlXRXRuczZtTGNTQmpFS3FxYUtZaFNaUERXZC1laTZxdnR3aU5BQlVYVUNfQjJ4N24xcFJmU2gwRDZoMl9PTA?oc=5>
+- **特朗普** | 特朗普发文：令人震惊、无法容忍 <https://news.google.com/rss/articles/CBMigAFBVV95cUxNd0o1TF9XdGRCZjdGLU9LclFQbjd1OTdwLV8xNmtnTndSS3YtMmtjYkZMdERkZlhtZHBsT3FzSFNIcVM3UkJtSGNxT0dRaHJmWDdEWkQyTl9JQ0dUMXJMZmFocGZQTEEzWXFHT0gxQXBER2VJbmx6TllDeGY3SVQwMg?oc=5>
 
 ### 2026-05-30 12:02  (4 条)
 
