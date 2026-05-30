@@ -1,44 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-30 15:44**
-- 本轮扫到 2359 条, 新增 **4** 条
+- 最近更新: **2026-05-30 16:55**
+- 本轮扫到 2360 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (1 条)
 
-### 蔡徐坤压轴Asia Top音乐节,舞台路透引全球粉丝期待
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5727695436_m15565b24c03301pzny.html>
-
-### 为什么说蔡徐坤这次马来西亚音乐节表演是其国际化进程的关键一步？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801m818.html>
-
-### 美防长：特朗普对美伊谈判很有耐心，“达成任何交易都划算”
+### 特朗普体检报告：比去年重超6公斤 医生建议减重
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-05-30 08:55
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBDUmxpUG53WHg0bWZqdWdEcHhXNGt1U2pxX1VJYVlZU3Q1OE1RY19kU1VCYm9GUnBUU1VLT2o1MmRHT2dJYnRjbWV0NTZUbDhSa193eXA0clF0MXBBM3Q2c0hGeUZvTHlNSnFSWEwwbUtSclFaS1B4RjlLZWJlLW8?oc=5>
-
-### Kai Trump社交互动_新浪新闻
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-05-29 00:11
-- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DUXdINExIZTU1RGpDWURqZDgzeVBnSkxHQ1BPbGNlckdhSDQ3d25DalFGcnNialF1VF9zYlY2NWdQcDZQTVpEQ2lpNkNEM2JWZDlILUQ3Q2Y4SDhuNEpoWVQzQQ?oc=5>
+- 场馆: 中华网
+- 时间: 2026-05-30 14:33
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5yXzhEZXU1UXRRazlCU29jRFBVbEVvSHo0UEtjSEJiNzNoZ1VoYjVGMzNrcW4zb0p2WWZaUnppSFJsM3JjUHdPZ05yamd6ZVV0NHhXZTlJb1p4MmZCa2dMN2k2dWxUaG5qSUdEcG9pVGo?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-30 16:55  (1 条)
+
+- **特朗普** | 特朗普体检报告：比去年重超6公斤 医生建议减重 <https://news.google.com/rss/articles/CBMicEFVX3lxTE5yXzhEZXU1UXRRazlCU29jRFBVbEVvSHo0UEtjSEJiNzNoZ1VoYjVGMzNrcW4zb0p2WWZaUnppSFJsM3JjUHdPZ05yamd6ZVV0NHhXZTlJb1p4MmZCa2dMN2k2dWxUaG5qSUdEcG9pVGo?oc=5>
 
 ### 2026-05-30 15:44  (4 条)
 
