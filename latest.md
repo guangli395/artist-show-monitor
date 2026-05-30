@@ -1,36 +1,81 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-30 18:00**
-- 本轮扫到 2363 条, 新增 **3** 条
+- 最近更新: **2026-05-30 19:47**
+- 本轮扫到 2371 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (8 条)
 
-### 周杰伦2026世界巡回演唱会官宣！！！
+### 蔡徐坤工作室再度营业，同步更新吉隆坡演唱会现场_新闻
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c00190660po.html>
+
+### 蔡徐坤在马来西亚音乐节彩排现场的工作照具体是什么样子？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801m8dc.html>
+
+### 周杰伦2026巡演全攻略！8⃣️城抢票+游玩一站式搞定
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019065zi2.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906620u.html>
 
-### 陶喆、李健、周杰伦演唱会在哪里买？2026上海站购票指南来了！_新闻
+### 周杰伦上海演唱会即将开启，上海旅游节花车巡游首发，全上海寻找周同学_演唱会
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019065zf8.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c00190661zm.html>
 
-### 特朗普最新体检报告出炉 较去年增重12斤
+### 周杰伦2025上海演唱会开票时间定了！（附更多演唱会预告）
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906608e.html>
+
+### 特朗普拟设贸易委员会管理美中贸易 企业界盼成降税新管道
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-05-30 06:01
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTFBTeFlFRzZ1eHpYaEYzQVR2RlNfaHRaOE1zSGt5VGNWZ09QRXNBYjRCZ2VpNVlsRW5CcE51a0xCTGJjRjQ5TDZPNw?oc=5>
+- 场馆: RFI
+- 时间: 2026-05-30 18:54
+- 链接: <https://news.google.com/rss/articles/CBMimANBVV95cUxQRDNNaHdkUHVrU1I5ckYyb1N6ZEMwMTl1S19XanlHQ2FkNVNPSEx0Wk5paW56RDlsVkhlUTlTMHB6Q1lOMFNaTmxTYmRLdnBiaUZEQ0dCNlUxRDJlejJIa29vNUszTVdTMXB6R2l4ZEItQUNpVmZGaVZiUUstZEsySUFWXy1hbEw4Z3lIN0JJZmN1Mk15VWJsZXlhamdHQmUtcC0wNTFVNVBhN2xSRWZTXzgybGJfOHVRd0dfamhCTU1URXpxZDl6aHVhUU45SmhFOGphdHFTYkIwdW9oZnBVMXByVmZrZlVWSEtMUWRmajd6RFVrZzBJVnU5R1c0a3FOTEUwTFIyclVCT1NYdkJLRFB1Ykk2TmhsLXJwS0pGMXhJN0hpeVlnYURhVkRJcnM3R25jTldaTnl1bmItaUNMZW5Ta0Q4RDBxeGFtZWRIN1hTY1FoNzZsbGdETFdiVmJNam1sTE5TZmxwRkpkVnZUUUljelBIdUllZU5wclhZM3VMSVNVQVBnQS1HYko2eFNGTGV0dDVFWFk?oc=5>
+
+### 习近平9月访美前 特朗普暂缓与赖清德通话
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-05-30 02:15
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE15aTZudDJ3d0NlZXBuazcwZUpWRVhNYlNqWHlmTHJob2ZUM25rMldfZEdCNi1qMjNhZ1phWUhHTnlsRE1Gb3pBWGtRQ3FkQk5hZ2xydmpoazZkMVNteVJBNExiU0haZw?oc=5>
+
+### 白宫公布特朗普年度体检报告：增重超6公斤
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新京报
+- 时间: 2026-05-30 13:53
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBacEFyWkFVZm1kNkQ5Y0JxdzB0elBXN2FmNE5jMlBDeHk3Z1ozLTZJYUM0TGdrbG9jUlNCZnR6NllnWnB6TERwNXZfNlZucjY0eFl4RUhoTnRvMWxWbFZZZ29UdWc?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-30 19:47  (8 条)
+
+- **蔡徐坤** | 蔡徐坤工作室再度营业，同步更新吉隆坡演唱会现场_新闻 <https://k.sina.com.cn/article_7857201856_1d45362c00190660po.html>
+- **蔡徐坤** | 蔡徐坤在马来西亚音乐节彩排现场的工作照具体是什么样子？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801m8dc.html>
+- **周杰伦** | 周杰伦2026巡演全攻略！8⃣️城抢票+游玩一站式搞定 <https://k.sina.com.cn/article_7857201856_1d45362c001906620u.html>
+- **周杰伦** | 周杰伦上海演唱会即将开启，上海旅游节花车巡游首发，全上海寻找周同学_演唱会 <https://k.sina.com.cn/article_7857201856_1d45362c00190661zm.html>
+- **周杰伦** | 周杰伦2025上海演唱会开票时间定了！（附更多演唱会预告） <https://k.sina.com.cn/article_7857201856_1d45362c001906608e.html>
+- **特朗普** | 特朗普拟设贸易委员会管理美中贸易 企业界盼成降税新管道 <https://news.google.com/rss/articles/CBMimANBVV95cUxQRDNNaHdkUHVrU1I5ckYyb1N6ZEMwMTl1S19XanlHQ2FkNVNPSEx0Wk5paW56RDlsVkhlUTlTMHB6Q1lOMFNaTmxTYmRLdnBiaUZEQ0dCNlUxRDJlejJIa29vNUszTVdTMXB6R2l4ZEItQUNpVmZGaVZiUUstZEsySUFWXy1hbEw4Z3lIN0JJZmN1Mk15VWJsZXlhamdHQmUtcC0wNTFVNVBhN2xSRWZTXzgybGJfOHVRd0dfamhCTU1URXpxZDl6aHVhUU45SmhFOGphdHFTYkIwdW9oZnBVMXByVmZrZlVWSEtMUWRmajd6RFVrZzBJVnU5R1c0a3FOTEUwTFIyclVCT1NYdkJLRFB1Ykk2TmhsLXJwS0pGMXhJN0hpeVlnYURhVkRJcnM3R25jTldaTnl1bmItaUNMZW5Ta0Q4RDBxeGFtZWRIN1hTY1FoNzZsbGdETFdiVmJNam1sTE5TZmxwRkpkVnZUUUljelBIdUllZU5wclhZM3VMSVNVQVBnQS1HYko2eFNGTGV0dDVFWFk?oc=5>
+- **特朗普** | 习近平9月访美前 特朗普暂缓与赖清德通话 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE15aTZudDJ3d0NlZXBuazcwZUpWRVhNYlNqWHlmTHJob2ZUM25rMldfZEdCNi1qMjNhZ1phWUhHTnlsRE1Gb3pBWGtRQ3FkQk5hZ2xydmpoazZkMVNteVJBNExiU0haZw?oc=5>
+- **特朗普** | 白宫公布特朗普年度体检报告：增重超6公斤 <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBacEFyWkFVZm1kNkQ5Y0JxdzB0elBXN2FmNE5jMlBDeHk3Z1ozLTZJYUM0TGdrbG9jUlNCZnR6NllnWnB6TERwNXZfNlZucjY0eFl4RUhoTnRvMWxWbFZZZ29UdWc?oc=5>
 
 ### 2026-05-30 18:00  (3 条)
 
