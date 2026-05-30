@@ -1,23 +1,13 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-30 22:54**
-- 本轮扫到 2378 条, 新增 **1** 条
+- 最近更新: **2026-05-30 23:57**
+- 本轮扫到 2378 条, 新增 **0** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮无新增
 
-### 白宫公布特朗普年度体检报告：体重107.95公斤，比去年增重超6公斤，在用药治疗高胆固醇
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: Sina finance
-- 时间: 2026-05-30 13:09
-- 链接: <https://news.google.com/rss/articles/CBMihAFBVV95cUxPRnhKUWQ5OEQzMnF2ejVlNUQ2eG5md2NRVWdfdHVaNzNXWFlKdWxCcnFaZEJOaTVPc3lnb3drZFpfa0FTc0p5Q2dDTVZleHVKWF9TMzlNSjVndTVpOWozUVphSmJKRWpsQy1GRE03eUN1Slg5U2ZjTFlVSWtPeTFFajVwdGc?oc=5>
-
-
----
-
+数据库里所有演出/动态都已见过,暂无新增。
 ## 历史发现
 
 ### 2026-05-30 22:54  (1 条)
