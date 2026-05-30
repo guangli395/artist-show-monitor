@@ -1,62 +1,100 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-29 23:47**
-- 本轮扫到 2321 条, 新增 **6** 条
+- 最近更新: **2026-05-30 02:35**
+- 本轮扫到 2330 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (9 条)
 
-### 王一博发布双语早安问候，AI生成内容引关注
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://video.sina.com.cn/p/finance/2026-05-30/detail-inhzrkwv9069908.d.html>
-
-### 美媒：特朗普推迟就伊朗相关协议作最终决定
+### 美财长尬吹：面对中国，特朗普“叫醒”了美国-观察者网
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-05-29 20:04
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBVNXMxYzRJOVUxMGxkSlNGdm8xMHRWVUZhVzlOZGNtRmVVSnM1TnFnUmRVcV90Zm1ueExZV3drM2U3ZGZqME5FWFU2bHVUZGlmeU9HQUlXaTNkT3pfcWRWRVZZcG9NS0xIYXNkSzh1NXU4Z0NVNVgwNWh4RjVqOUE?oc=5>
-
-### 美媒：特朗普推迟就伊朗相关协议作最终决定
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-05-29 23:29
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SUEtyS29aR0RBRFM5NnJ3dzdrcmx5ODh5NHhHWW9FUEwzNmQ5T29KMlZQblQtdkVhWXQ5TGZhNHJxb1J3R0tsWF9oTzZRczJtNXpoYlprcUVJcDV0MWlUeUJUQ2M?oc=5>
+- 场馆: 观察者
+- 时间: 2026-05-30 01:10
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1vb3BTR2tTNlFrZ1NRZUk0RkF2Nm8zaWxLanJTYV9PR2R5OXc2VGZLVjJocW0wVHQ1enV6YzFMbEhXM2JuaVRTZlZmNlRCM2t1U0k3QW5kUXhjdnozWXRybmRzeXJPOWxMWmc?oc=5>
 
 ### 美国法官裁定将特朗普名字从肯尼迪中心移除
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-05-29 23:17
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tWlJ1ZEl2SS00bkJPYlVMdWswRjdGUG5zUXUyNHRoVVBTbGFFMW5BeV9EM3JmZGNkdHlXb3FIMFEyRVlPRjNtYjhrS1ZPdk1wTzBfRHlnUU1DS1hQcXctcw?oc=5>
+- 场馆: 新京报
+- 时间: 2026-05-29 23:54
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KUW1XYlpmMG85eWZ2N1VDN0RuankxemxXVldmN3hER1Vhbkxrd1lDQU95Unk5ZjBHNHlsZmF2Yk5CTDFMRHpZSC1WVU5fU29fR2U1WWtvSXdmN2ViaE94aU1BbEE?oc=5>
 
-### 宁选丹麦不要美国 格陵兰独立派领袖因特朗普改变立场
+### 一图看懂｜“不听话就炸掉”，特朗普威胁/攻击过哪些国家？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-05-29 12:38
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9OaHpndm5jQXFseURYeEFUVVZSX3otSmN5V2lRMmxWNko2UWh3cnl4TlBNQmpUcm5XaDFNb011QTZybnJIWnhaaFV1Y2RYNzU3TUZhdkxIVWZYX0N6bzdTWTNGQzluOVVaQ3c?oc=5>
+- 场馆: thepaper.cn
+- 时间: 2026-05-29 23:52
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zVzBSVlVqZ1RzMkFGOUY0Z1BrZHp1ZUh4OHo5enEwanNTQlkzSU5hdXhkb0F3ZFppMmRSU25jcF95SjNLaHZlSGxJckhvZ3lRRW1rTXRiMWNqMDJFM0xmZA?oc=5>
 
-### 法官阻止特朗普将甘乃迪中心更名及因翻修而关闭场馆
+### 美国财政部拟将特朗普肖像印在新版250美元纸币上
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 纽约时报中文网
+- 时间: 2026-05-29 04:00
+- 链接: <https://news.google.com/rss/articles/CBMibEFVX3lxTE5McEwzQS1UZi1YWG5TWndzd0tEUFJBYVRqTjZRLVNDaDZya25Vdi1WNVpYYml5ZFJ1am94enp2TVBBTURGc0R3QzJ6QWhUdUlxYlhxcHAyYm50cmVfUkV5bXctU3NsNzJncDh4bg?oc=5>
+
+### 特朗普被曝推迟就伊朗相关协议作最终决定
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: chinanews.com.cn
+- 时间: 2026-05-29 22:35
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE85bmF4eGU1eFdrM3dtWElRejg2MDRlSi1TU3J6SW5pOHZUZkJlN2JHM0dLWUlDYjlQaThYNFNWV3hjY3Q0VVV5a1haOVMtc1l3ak4xMTFhbFBNenRqd1JMVjRSXzFpaUZ0?oc=5>
+
+### 特朗普：结束战争，我有条件-观察者网
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-05-29 23:41
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBncXNMQTdsd3dCT1p2MEFsSTczRWlwYWpFZVNYM2MyQ1hvcnpXbnVsc0s2dEd6UWg2eW5nUWF2WG5Oa3hvWlB2aml0ZWZFalJXSjJTd1JGdW5UY3RPNnNQUkFFYmNxaGw3UEE?oc=5>
+
+### 美财长尬吹：面对中国，特朗普“叫醒”了美国
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-05-30 02:15
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFAyYzZlN212Rm1ncTNXV1hCV2plZmxJaTFEUzFmR0VFOHVYUm1vdXdncXJGemhOSENSU0ZneE5Hem9CeUtiVlRxdENNcDE?oc=5>
+
+### 美股创历史新高 静待特朗普就伊朗和平提案作决定
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: AASTOCKS.com
-- 时间: 2026-05-29 23:32
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTFBEbGV5VjFLZU92aVQwUXE0TktkZ1E4Nk9GM2Rrbk0wcGhibUdWTTJNNzlZR1d1dGU1Tlk1TGxBbExvQV9lSlZDNWdldU8xTVVPWVRiSl9SRzhaSXZ0dlUwcDBZUWJoQUVSMmN5MjFibw?oc=5>
+- 时间: 2026-05-29 20:18
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE1scVY1d1ZndGdQSkYzOXc1SnBUbVRxd2tsSUpRS0szV1hLdEk2bjZmd0Z4MEZxQ2tpZFJ5Qi1McEJQRy11VzVsb3d2N2Vfd3BCX05FU3AxcWJtVVFDbndOVk1jVzZZMmJqQndSdG9Vdw?oc=5>
+
+### 美股盘中上升因特朗普提出伊朗协议条件财经新闻Financial News
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: AASTOCKS.com
+- 时间: 2026-05-29 17:41
+- 链接: <https://news.google.com/rss/articles/CBMihAFBVV95cUxPWFBoTURhR3RuQ0RvMUpzRmhSOWVPMTFXMndVdHd2cjJKRmxQckk4SjBXbXIyVXYzTFhtLVRCVEhmeUpvcm5la3RQMmFUanR6UkZ1eF9USWl0T1Y4dFd3cnd5aGFqeHNHZDc0Y3pHdTVyZFRwYkVpUVlnLUg3b25STzFUMlA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-30 02:35  (9 条)
+
+- **特朗普** | 美财长尬吹：面对中国，特朗普“叫醒”了美国-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE1vb3BTR2tTNlFrZ1NRZUk0RkF2Nm8zaWxLanJTYV9PR2R5OXc2VGZLVjJocW0wVHQ1enV6YzFMbEhXM2JuaVRTZlZmNlRCM2t1U0k3QW5kUXhjdnozWXRybmRzeXJPOWxMWmc?oc=5>
+- **特朗普** | 美国法官裁定将特朗普名字从肯尼迪中心移除 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KUW1XYlpmMG85eWZ2N1VDN0RuankxemxXVldmN3hER1Vhbkxrd1lDQU95Unk5ZjBHNHlsZmF2Yk5CTDFMRHpZSC1WVU5fU29fR2U1WWtvSXdmN2ViaE94aU1BbEE?oc=5>
+- **特朗普** | 一图看懂｜“不听话就炸掉”，特朗普威胁/攻击过哪些国家？ <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zVzBSVlVqZ1RzMkFGOUY0Z1BrZHp1ZUh4OHo5enEwanNTQlkzSU5hdXhkb0F3ZFppMmRSU25jcF95SjNLaHZlSGxJckhvZ3lRRW1rTXRiMWNqMDJFM0xmZA?oc=5>
+- **特朗普** | 美国财政部拟将特朗普肖像印在新版250美元纸币上 <https://news.google.com/rss/articles/CBMibEFVX3lxTE5McEwzQS1UZi1YWG5TWndzd0tEUFJBYVRqTjZRLVNDaDZya25Vdi1WNVpYYml5ZFJ1am94enp2TVBBTURGc0R3QzJ6QWhUdUlxYlhxcHAyYm50cmVfUkV5bXctU3NsNzJncDh4bg?oc=5>
+- **特朗普** | 特朗普被曝推迟就伊朗相关协议作最终决定 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE85bmF4eGU1eFdrM3dtWElRejg2MDRlSi1TU3J6SW5pOHZUZkJlN2JHM0dLWUlDYjlQaThYNFNWV3hjY3Q0VVV5a1haOVMtc1l3ak4xMTFhbFBNenRqd1JMVjRSXzFpaUZ0?oc=5>
+- **特朗普** | 特朗普：结束战争，我有条件-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTFBncXNMQTdsd3dCT1p2MEFsSTczRWlwYWpFZVNYM2MyQ1hvcnpXbnVsc0s2dEd6UWg2eW5nUWF2WG5Oa3hvWlB2aml0ZWZFalJXSjJTd1JGdW5UY3RPNnNQUkFFYmNxaGw3UEE?oc=5>
+- **特朗普** | 美财长尬吹：面对中国，特朗普“叫醒”了美国 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFAyYzZlN212Rm1ncTNXV1hCV2plZmxJaTFEUzFmR0VFOHVYUm1vdXdncXJGemhOSENSU0ZneE5Hem9CeUtiVlRxdENNcDE?oc=5>
+- **Trump** | 美股创历史新高 静待特朗普就伊朗和平提案作决定 <https://news.google.com/rss/articles/CBMib0FVX3lxTE1scVY1d1ZndGdQSkYzOXc1SnBUbVRxd2tsSUpRS0szV1hLdEk2bjZmd0Z4MEZxQ2tpZFJ5Qi1McEJQRy11VzVsb3d2N2Vfd3BCX05FU3AxcWJtVVFDbndOVk1jVzZZMmJqQndSdG9Vdw?oc=5>
+- **Trump** | 美股盘中上升因特朗普提出伊朗协议条件财经新闻Financial News <https://news.google.com/rss/articles/CBMihAFBVV95cUxPWFBoTURhR3RuQ0RvMUpzRmhSOWVPMTFXMndVdHd2cjJKRmxQckk4SjBXbXIyVXYzTFhtLVRCVEhmeUpvcm5la3RQMmFUanR6UkZ1eF9USWl0T1Y4dFd3cnd5aGFqeHNHZDc0Y3pHdTVyZFRwYkVpUVlnLUg3b25STzFUMlA?oc=5>
 
 ### 2026-05-29 23:47  (6 条)
 
