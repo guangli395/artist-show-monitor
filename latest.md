@@ -1,23 +1,13 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-31 16:16**
-- 本轮扫到 2423 条, 新增 **1** 条
+- 最近更新: **2026-05-31 17:36**
+- 本轮扫到 2423 条, 新增 **0** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮无新增
 
-### 特朗普已放弃中期选举？美国政治与我们何干
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: wenxuecity
-- 时间: 2026-05-31 15:02
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tWThxVmhIcmx5VnQyb0FMMlBRYmIxRzEwU0p2WS00SktwWHZxb3UwdHZPRmt3VkZROGdfODdweW1PNzJFWGZPY2F0T3hEUEJIU09OOW52ei1oTG1IMnhGYWpzSmEtcERY?oc=5>
-
-
----
-
+数据库里所有演出/动态都已见过,暂无新增。
 ## 历史发现
 
 ### 2026-05-31 16:16  (1 条)
