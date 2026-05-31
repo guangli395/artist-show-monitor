@@ -1,82 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-31 10:10**
-- 本轮扫到 2415 条, 新增 **9** 条
+- 最近更新: **2026-05-31 11:55**
+- 本轮扫到 2416 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (9 条)
+## 本轮新发现 (1 条)
 
-### 蔡徐坤马来西亚音乐节压轴登场，唯一华语歌手演绎复古摩登
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1979989541_76043e25040011ahw.html>
-
-### 蔡徐坤马来西亚音乐节携coldy登台
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6514443328_m1844a844003308lm0q.html>
-
-### 蔡徐坤马来西亚音乐节压轴表演脸颊比心引爆全场
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7096020439_1a6f4add706801rhqw.html>
-
-### 多名艺人辞演 特朗普要当国庆开场秀主角
+### 特朗普：体检非常好
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-05-31 08:51
-- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE1vRksycXJSV3gwOWpuZFRiWVQ5NmdRZ0FPQ1VqRV9MaGp2NHZwUjVWeUJVLUtnUUwzb0lJUVFxUjZvVms4U0hidEkyTHRrcmtLeGp6YWI4RDVodmJDM0ZwandPZGMtWTIydEpvREx6R3JuRlZ1SU9TQ1ZwdmJtUQ?oc=5>
-
-### 特朗普最新健康状况公布
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-05-31 03:45
-- 链接: <https://news.google.com/rss/articles/CBMi5AFBVV95cUxPOVhwRFlvai13a085UnJESy1WZklhVjNZMUpzbHhFWXVlSVJPcEx1M2hVVVRvY0h0c1gyblBlbFBXSm9TeXpwZ1pWdlkzd3p0VmpmSzVIVURvT0ltZzQ4b3ExNlBnejI4Wm0zNnpnQjlYWjk2RzVsd0hORGdLZHdJeV9FM3VsR2NiNDMxVDFFWmx2MTVlNjdxeGg1YkZ6bUt3RGIwU2xTNkN1X3B5RVVCS0RzS0RSSXNhbzc3RXNwODdmeW1CZlYwR0JRNUtGeHFSWlMza0ZNNjdCNHdlUWVpMU00YzY?oc=5>
-
-### 国际｜增重超6公斤、体重超200斤，特朗普最新健康状况公布
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-05-31 02:33
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE05Y3VDNGVVbnVQTlJLQ1RsUkV4RWI1cTJxRU5mam9VeG5tZGZkZ0dhU3RpdXlCQUJMbFRuNTR6OGEtQkRVWUtGcGZLR0JxanZLZHFkZTNUdUpySnFLTzNxTnk5aUQ?oc=5>
-
-### 特朗普吁取消美国国庆音乐会 改办MAGA集会
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-05-31 01:43
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE4zaWhyTHJGMHVBZkd0UDNBX2h2LXpia1Q1RTdhZm9hR2cwNXNkdDZoSVdFbXl3QzFjeXI3YmVnOFkxR1drblhDREMwMkVfcmtzVXllNVN0YTR2VnY1MWZha2Z1azM5MEdPY0E?oc=5>
-
-### 【敏感词库】特朗普访华、六四37周年、躺平不合作、成都无差别（2026年5月）
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: China Digital Times
-- 时间: 2026-05-30 22:13
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4cllsUkt4RlFYOHVUUmlHWWJEaDJtSjBPb2RQaXlVYWlDcWtVelF2TkN0QXZ2UDFnai1TLXpiYWZPRF9RbHZDTjg4bWpSTW5aY2pYVGdoU1Q4SW1JX0HSAV5BVV95cUxQeHJZbFJLeEZRWDh1VFJpR1liRGgybUowT29kUGl5VWFpQ3FrVXpRdk5DdEF2dlAxZ2otUy16YmFmT0RfUWx2Q044OG1qUk1uWmNqWFRnaFNUOEltSV9B?oc=5>
-
-### TRUMP/USDT
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Binance
-- 时间: 2026-05-27 16:17
-- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTE41MTJIYlIybExPWUh1cDV1UmVfYmZQMHFkM2Y5b3hzMVQzOWVMZjNnYzFaa2Z5ZXNyTlpDMW1fNEdTVXlrQlpLblEtelJybGYtUWtfQ19kUGN4MzdBWkRQQmFMcDFmWnd4UFFoRHZTWUxJbzU5OXEtb3VMMA?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-05-31 04:38
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBOa2F5YVQ3NGoxRGplQmcxaktmTlBBcllxcEdzcmtDaks5YXlodGNjdzhQaXpKbDF5TFp5OWJsMkQyX1NTSlY3a2NrdElucGxvbzMzazliTVh3RTJzdWZlazN1SmNlRUlVOThCaUNWWmQtd1VaMzJZRg?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-31 11:55  (1 条)
+
+- **特朗普** | 特朗普：体检非常好 <https://news.google.com/rss/articles/CBMieEFVX3lxTFBOa2F5YVQ3NGoxRGplQmcxaktmTlBBcllxcEdzcmtDaks5YXlodGNjdzhQaXpKbDF5TFp5OWJsMkQyX1NTSlY3a2NrdElucGxvbzMzazliTVh3RTJzdWZlazN1SmNlRUlVOThCaUNWWmQtd1VaMzJZRg?oc=5>
 
 ### 2026-05-31 10:10  (9 条)
 
