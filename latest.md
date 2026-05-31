@@ -1,40 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-31 20:36**
-- 本轮扫到 2432 条, 新增 **3** 条
+- 最近更新: **2026-05-31 21:55**
+- 本轮扫到 2435 条, 新增 **3** 条
 
 ---
 
 ## 本轮新发现 (3 条)
 
-### 特朗普提出更强硬条款！美伊谈判，重大变数！
+### 30年前的“摧毁飞机谋杀案”，特朗普给翻出来了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-31 10:57
-- 链接: <https://news.google.com/rss/articles/CBMijAJBVV95cUxOdFhsd0pmeWk3VEVZb2tUN3pqTDVrbWQwSnNfd05tZ3RuYTJFUER6U2syM2UzeWNzcUY3bkF6cE42S080R09oYlVmU284QUEwQUdCbVhfbEFISGI2a1RDQVRLY2ozc2ZyZnlETkQzYnV2bk9CdXJhQkpRLXFvNzNJR3lhMmY5d1Z4WkVwSUR2Nm1fb0hMWnRSaG9SSXoyTUkxV2tjRjktdzFudzEtcl9JMzk5TVJ0b0Rja21KZ0NSTjNxRjJSMUhSd21MM2UtSGtVZkRGVmNCYWhrNnVPdV9XTTRNLXBNbjYtcHhXNmZ6SktpcnhHeHJSRmVMWjFXUS1sekY0SlduOEE1LTlL?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-05-31 16:04
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE11MklIdGxkUmpCMk9NSVVkeE1qVzctRm4wWFljSE9CMnoySE40U2Noc0RuSmlCZFJEbGEtdFRDUm9mRUZycl9rd3JJdFJaYkNLc0xpdkxmUEQ5cGZYbkRNVVlycmUzMDM3dHEzLXFseTFiYk1PVGJYXw?oc=5>
 
-### 白宫公布特朗普年度体检报告：增重超6公斤
+### 特朗普：美伊若无法达成协议 “战争部”将介入
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-05-31 01:07
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Fb3U0dm1PWVpKTW1kcFdXekVpTFFLZ1BjQnZra0pSRFM2YlNjLVN2VFZYMHFsaFMwZE80SmNSYWZuU3JwRWxRVUdSQ2YwVmJxTlNYazdjZzVQbjdxTmc?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-05-31 13:57
+- 链接: <https://news.google.com/rss/articles/CBMisgFBVV95cUxNTmoyYmdGMXZxU1NYMXg3UWN1WFlXLVY1SWlrdkVvSVRHbVhZYzl1SFhJdGtkUV9vR0ZJWTFCY1lWSjhFZVFhZXdNUDRYOHVYQ0ZGQXdGT0pmLTJpU191MVdXZGVsdy1td0xoMWFIWUFoTkRuUGFFRVd3VldmVTM3OGtkeVo2N3hTTklmNVdlcUNuZ0lCTkZQQndQbGh6VnN6bDRSLTFTTXpfN05CeTZnb09R?oc=5>
 
-### Trump於白宫会见巴西总统候选人Flavio Bolsonaro财经新闻Financial News
+### 不满“除名” 特朗普称肯尼迪中心“很快就会关闭”
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: AASTOCKS.com
-- 时间: 2026-05-26 23:18
-- 链接: <https://news.google.com/rss/articles/CBMilgFBVV95cUxPa205UlBUTHktYmFGcERqREdzZmdTLWxmQXJDak1lSnhWNFZmRlQ0MmtqNVJhVnV4RzRSaGdOemFxWURIUC1XMGVKQ3ZsUDBlNlozV18xSk9lMllaRm0zeWJIQVVuY0hYTmFFNXUtdk9BWUZzV3JmaWlDdllFM0JfUktOMXFINEtOZ3FFblhZSE9VZjc5eXc?oc=5>
+- 场馆: 新华网
+- 时间: 2026-05-31 07:29
+- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE1YOXFkZUE5V3JMSXFHa1QzcnpITUFWT2dvYlNxLWJQdy0wemJyUVFjWVU1S0V3YXVzdmJ5QUxueHhucUNjQUs4a0Vpenh0VGkyUVUxV0l1ZWN5NHFWdTB1WEVLcWNETDFmR3Q2U3Rxa24tbHhJS2xSWk93bWY4dw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-31 21:55  (3 条)
+
+- **特朗普** | 30年前的“摧毁飞机谋杀案”，特朗普给翻出来了 <https://news.google.com/rss/articles/CBMieEFVX3lxTE11MklIdGxkUmpCMk9NSVVkeE1qVzctRm4wWFljSE9CMnoySE40U2Noc0RuSmlCZFJEbGEtdFRDUm9mRUZycl9rd3JJdFJaYkNLc0xpdkxmUEQ5cGZYbkRNVVlycmUzMDM3dHEzLXFseTFiYk1PVGJYXw?oc=5>
+- **特朗普** | 特朗普：美伊若无法达成协议 “战争部”将介入 <https://news.google.com/rss/articles/CBMisgFBVV95cUxNTmoyYmdGMXZxU1NYMXg3UWN1WFlXLVY1SWlrdkVvSVRHbVhZYzl1SFhJdGtkUV9vR0ZJWTFCY1lWSjhFZVFhZXdNUDRYOHVYQ0ZGQXdGT0pmLTJpU191MVdXZGVsdy1td0xoMWFIWUFoTkRuUGFFRVd3VldmVTM3OGtkeVo2N3hTTklmNVdlcUNuZ0lCTkZQQndQbGh6VnN6bDRSLTFTTXpfN05CeTZnb09R?oc=5>
+- **特朗普** | 不满“除名” 特朗普称肯尼迪中心“很快就会关闭” <https://news.google.com/rss/articles/CBMifkFVX3lxTE1YOXFkZUE5V3JMSXFHa1QzcnpITUFWT2dvYlNxLWJQdy0wemJyUVFjWVU1S0V3YXVzdmJ5QUxueHhucUNjQUs4a0Vpenh0VGkyUVUxV0l1ZWN5NHFWdTB1WEVLcWNETDFmR3Q2U3Rxa24tbHhJS2xSWk93bWY4dw?oc=5>
 
 ### 2026-05-31 20:36  (3 条)
 
