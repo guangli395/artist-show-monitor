@@ -1,116 +1,137 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-31 03:49**
-- 本轮扫到 2392 条, 新增 **14** 条
+- 最近更新: **2026-05-31 07:40**
+- 本轮扫到 2406 条, 新增 **14** 条
 
 ---
 
 ## 本轮新发现 (14 条)
 
-### 蔡徐坤亚洲巡演马来西亚演出安排曝光!
+### 蔡徐坤马来西亚音乐节压轴亮相，复古混搭造型生图状态能打
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019066o18.html>
+- 链接: <https://k.sina.com.cn/article_1922407515_72959c5b04001frjq.html>
 
-### 蔡徐坤 KUN 2023 世界巡演马来西亚站开票啦!
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019066nw0.html>
-
-### 蔡徐坤吉隆坡演唱会官宣开票 VIP票五分钟内售罄 -闽南网
+### Don’t call my phone蔡徐坤 KUN 蔡徐坤新专辑KUN 蔡徐坤马来西亚音乐节 IKUN
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019066jvy.html>
+- 链接: <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002ljiw.html>
 
-### 蔡徐坤 KUN 2023 世界巡演马来西亚站开票啦！_音乐_门票_吉隆坡
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019066jlk.html>
-
-### 蔡徐坤压轴亮相亚洲音乐节全开麦表演50分钟
+### 又一场音乐节 演出顺利
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7096020439_1a6f4add706801rhlc.html>
+- 链接: <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002ljk6.html>
 
-### 蔡徐坤马来西亚音乐节跳舞了！唱跳rap的神！
+### 周杰伦上海演唱会即将开票
 
-- 艺人/关键词: **蔡徐坤**
+- 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002ljls.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019066zye.html>
 
-### 被从肯尼迪中心“除名” 特朗普表示“震惊”
+### 不满“除名” 特朗普称肯尼迪中心“很快就会关闭”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新华网
-- 时间: 2026-05-31 02:14
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBTRWtDRmNhNENpckJNZXhxMTcwSmloNEVHdy1MN0U2YVZxQ0t2QTdON2JUREItajBXRllYdVJVanZUVDFCUC1NSDRlLURVRnlVVDVBalVTOGlXQWRDMl93ZjE0NXVnMTdmS1BxV0JZMy15R19pZ0d0VnVLRlVDMm8?oc=5>
+- 时间: 2026-05-31 07:29
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE0zZE82Zjd4dmVKdGhabENCYkw3N3JlRnBDbE0xcF8wWWRBZkZxcFQ5aEItdG9Udlg1VjdLVmFvb2wzanVUUVRDbUhjVkhRWVRsWnVfWHhmNXZhbUQyWUVkT0FKRi1PV3BVY05TMFQ3and6QWtQeXpYc3h4SFdkaVE?oc=5>
 
-### 被“除名” 遭停工 特朗普最新回应：震惊 史上最不公对待
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 央视网
-- 时间: 2026-05-30 11:28
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE40WHJabFdGMHJTU3hyQ3ZQblJaQ29vMWVnM1VkckZ3U3BGZ0g1TDRWSU5MSFlWcHY1OW1qYzdYMnU4SDdfUHh5dnBILThzR1M0WnlndXN0MWxjV0xKcDA0OWE1OUEwd2VYYTRsZ2stMERtTVVlTzgwag?oc=5>
-
-### 特朗普发文：令人震惊、无法容忍
+### 被从肯尼迪中心“除名”，特朗普表示“震惊”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-30 06:07
-- 链接: <https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMkdWVHozOGwxY24walcxR1pZb2owX21MdGs5MUJuNkJ0cUcxWVdfRUFYa2JOdnhFNGZaSldidVMzQmhOT09UNUxlNTl0LUl6VXI4SjRUa3p5Z1NmMWZBR0FkSEhnU2oxUlBoOUtlYWFvOHVLQ0dyaVNqMHVfbFJpbzZfend0QzU5NWZ3RTF2b2hOMTV3OVd3MFhMZHNtY1Q4Si1SZ2pxeEp2LXZxYWxSNUxFaVB0M045NFlmRFI2VUVyYUo0YUpKbzJoTWoxb0xDVkpvRVNrcw?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-05-31 02:48
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1nNXFjdy1rcTZzaDdMRDFtVENCLTJjc2JOUnlCVDZBX0FUV0ZnRDJXVUltOGFlQmtGVUFST212dGd4dGg0VVpyM0xOX2Y?oc=5>
+
+### 美国要从中东基地撤军？赫格塞思回应：伊朗战事后特朗普再决定
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-05-31 06:56
+- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE02VlVZS1VlaWhfek1QYUpsN0NkN1ZtSjNuNEt2MkF4Rm43a0dVQnVvN3ZvZjdldHNvakE0ZkY5YUl5X29ueUMxaGp2cGc3dHVBRUdxVjVvdG5tYlY5R2JyaGx1bGRJNXBOY1NXbDZNUjFvbXg0ZnZwSXo0U3B2QQ?oc=5>
 
 ### 白宫公布特朗普年度体检报告：增重超6公斤
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-05-31 02:52
-- 链接: <https://news.google.com/rss/articles/CBMirAJBVV95cUxQYkdoN092TnJCZW02WF9TMGRwcDZIUk1vaW1Iel8wYU5xb2ZrUEphMXU2Vk9JZDlLN0lhQl9ZZjE4d0FIUWJPQi10WUw5ZXVxQ3JYeUZZQVdiMHF6SEdDZ093X1N5V184aVFjeXA0WlJzZ3JoUmlFdEoyVjZHbnJZcDJQUWVHODZWTmhtZm5YSDJWYWFMQTltQmszeHJaOXdyaW5HbnF5ODc1cVpaYmJ0aUdUN0FSdjZXTUxXQ2hZaE5saVFFdjlFR2VIRVpuWnlVYVVXSVRuZnhUN2JVT29NVWYtRnhaNE5KNTRGRy1nTktiZU5idjRVdzRYZlhWTF85NWp6aWE3Mml4YVpGVDJUZXRWUnBRckgyaWFpbmszQS04Z2hFQThBVmNvTjI?oc=5>
+- 时间: 2026-05-31 04:48
+- 链接: <https://news.google.com/rss/articles/CBMiggJBVV95cUxPS0NXMmdIYTFBQ3NUWkFXcm93TExPOGxtS0JLc1ctT1lvNEE2bW5CaXhyakxMS0RiNGVhUkNheGN5enN1azBvRWJTdlBhQWNNVWxpc29GeGdSUXdnSXFNamJNUXlHWE9zN1hGWWRFZlRWcjNmUW95dzFzZkRhU2w5Wnd6LUg4VUJNY3FZY3lCc3JkTlMtWlJHc3ZXNGswRFFONDlpVkI2Smdvd3A0ZUVrcmsxclRYLWNoUTJkZ0t1ZXBhOElRNGNmSjROZ0p6aFYyaC1LOXI5aEl0RGNJWTJEOW8wZkVBRDJCZ0NweUtpZkhlN3lxYmFBbzVHWF83d1RaSVE?oc=5>
 
-### 特朗普：美伊若无法达成协议 “战争部”将介入
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-05-31 02:53
-- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTE1HOTlnbHItblRoZFhybi02djFYTlc5cWloVmZQYjZxc0hGWHpQNzhhTHVwTi1vcE1uUElUSnZpdWxmTmdRNDBEVFVVbndsOVNLN2c?oc=5>
-
-### 美媒：官员透露特朗普向伊朗提出更强硬的协议条款
+### 特朗普体检：医疗考量还是公关手段？为什么美国总统要进行年度体检？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-05-31 01:09
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zU2tDaEpYU0hrV1NYME1OYXRPZW5jaHJscmhOZ2hhTjlwWm5QNXNHWndkSUNWNTFVaHlTdU1uaVJQU2lmVUFqaHJnTDF3TS1jT0lYSm0tOWhaRUYwNHdXOV9Tb0g2MTJJ?oc=5>
+- 场馆: BBC
+- 时间: 2026-05-31 05:11
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tUENfVG1PczUwLWNpUkRqOVB6Nmk0TWMzM1gtRWs3TERlMzNpRmJVVnAxTFR3TG1nN2daQXlxQWRCUG5HOWU4SEt5ekFzRThjV0lKUVZoRVhvNWVSRUxteG9TOUtNQdIBa0FVX3lxTE5LbEhla283c1F6bHR4dXpNbndxQzJKeGdSRjZYZmgtSXlWeUJIajdFc0ZuMVhTWVVCNFoySFlUODlHT2w5VlowMDFyNDNua0gtTFE2X0Jzb1gwaEJsSzdmOWQwb1AxNkpFNEFF?oc=5>
 
-### 特朗普被“震惊”了
+### 白宫医生称特朗普健康极佳 但建议他减肥
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 京报网
-- 时间: 2026-05-31 02:54
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE0wZGt1MjYybnJSRDRxRllTYlBldUhuTWZOaGo0RzdtSlVOemFPZjk0LUYtaWZxUi13bGpYeGF5YWZTOFJTekdIaU4wODYwakVlYXVQMGxCelllQ0NMUVE?oc=5>
+- 场馆: 联合早报
+- 时间: 2026-05-30 04:26
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zQnprc1BQdHpmSnJ2ZFJwM2s0WXBOdU5tRFR6VVVfY0xqemhwMElaTlJBdGxYbmVZdk42OXlVYmRUZXg3NHp3U3ZzVE9lTzhuYTNOYzlIbVpHdFhxcF94ekdqXzhhdw?oc=5>
 
-### 美国法院阻止唐纳德·特朗普 (Donald Trump) 改变肯尼迪中心名称和翻新雄心
+### 美国国庆音乐会爆退演潮，特朗普开喷
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-05-31 06:08
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5RVlFHa3BTNUg2UGZSOXVEaTJiWmV5bzctVUtGWGs1cURiVTlZNEpuVzVoZXlReEZObDF6WnlkdDhTQkJkMlpmY3ctWjk?oc=5>
+
+### “特朗普提出更严苛条款”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪军事
+- 时间: 2026-05-31 06:59
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE85NnlpYXBLajNvbmpDUXFhMDJzUW9OMndfaTVhNWhhSG9KVXhWZ2kyM29WdUphS2dRcVhnUTVRY2g3UHFRWG5aSnRQN3pRX1NpWkFRVTBxbnRhcWg4Q3l6cnVQaEtEa19rVnFuQ1JMczZyLXM?oc=5>
+
+### trump的礼物
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: VOI.ID
-- 时间: 2026-05-31 02:32
-- 链接: <https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1Gc3RWS0YydUVfV2hlTkJXYkM5aExnYXFRMTVNQVlnSWtnbUZ3ekFlX0NqMUxCMnRpd0wzNmlnMklZQXPSAUJBVV95cUxOeTU0bUtJdVBhM2lXck1CbG9sZmUyTzRFTF96QkVUT0RReFBUV0xKUzNNMkR6dmpkaFFrOEU0eWNqQlE?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-05-29 00:45
+- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE10a2ZqNlVzN2p6QTVhUkdxWVhoRE9rT0dlOVRZcV9hemNNcnFoV25BeWRmVm40MXdIZmd2TGdEaml6alpKNUNoQnNHQktQNkx3TmRQZG81MENMQzNiTlRBN3locFAxTVRfdGVrUkJJNUpzZmdocEQ4TjNR?oc=5>
+
+### $特朗普媒体科技集团 (DJT.US)$ 任何错误或拼写失误都可能让它付出巨额代价，Royal Rumble
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-05-31 04:07
+- 链接: <https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM2wwM29FTnN1MEYtVFJVUVM1Um5MRXdCaWFSWFpkZXBmcC1MeEQtdm9UcE5QUXlNWV9NTkIyRTVBWi05RktfVzlwVGd4dHBtZkNxY2xtMVpWdUlLb3FKWG5Uajd4RUVSRFVOQURTVDhCTFY5ckU1bXFMWEpDZGFURDBidkZUVDNFSmpOd25wX0N0bG5HZ0l1Y1R4MS01UnB4NnNoRjAzM1F4X3NxQTFFVDBsX0xDOWdhQkxF?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-31 07:40  (14 条)
+
+- **蔡徐坤** | 蔡徐坤马来西亚音乐节压轴亮相，复古混搭造型生图状态能打 <https://k.sina.com.cn/article_1922407515_72959c5b04001frjq.html>
+- **蔡徐坤** | Don’t call my phone蔡徐坤 KUN 蔡徐坤新专辑KUN 蔡徐坤马来西亚音乐节 IKUN <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002ljiw.html>
+- **蔡徐坤** | 又一场音乐节 演出顺利 <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002ljk6.html>
+- **周杰伦** | 周杰伦上海演唱会即将开票 <https://k.sina.com.cn/article_7857201856_1d45362c0019066zye.html>
+- **特朗普** | 不满“除名” 特朗普称肯尼迪中心“很快就会关闭” <https://news.google.com/rss/articles/CBMif0FVX3lxTE0zZE82Zjd4dmVKdGhabENCYkw3N3JlRnBDbE0xcF8wWWRBZkZxcFQ5aEItdG9Udlg1VjdLVmFvb2wzanVUUVRDbUhjVkhRWVRsWnVfWHhmNXZhbUQyWUVkT0FKRi1PV3BVY05TMFQ3and6QWtQeXpYc3h4SFdkaVE?oc=5>
+- **特朗普** | 被从肯尼迪中心“除名”，特朗普表示“震惊” <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1nNXFjdy1rcTZzaDdMRDFtVENCLTJjc2JOUnlCVDZBX0FUV0ZnRDJXVUltOGFlQmtGVUFST212dGd4dGg0VVpyM0xOX2Y?oc=5>
+- **特朗普** | 美国要从中东基地撤军？赫格塞思回应：伊朗战事后特朗普再决定 <https://news.google.com/rss/articles/CBMifkFVX3lxTE02VlVZS1VlaWhfek1QYUpsN0NkN1ZtSjNuNEt2MkF4Rm43a0dVQnVvN3ZvZjdldHNvakE0ZkY5YUl5X29ueUMxaGp2cGc3dHVBRUdxVjVvdG5tYlY5R2JyaGx1bGRJNXBOY1NXbDZNUjFvbXg0ZnZwSXo0U3B2QQ?oc=5>
+- **特朗普** | 白宫公布特朗普年度体检报告：增重超6公斤 <https://news.google.com/rss/articles/CBMiggJBVV95cUxPS0NXMmdIYTFBQ3NUWkFXcm93TExPOGxtS0JLc1ctT1lvNEE2bW5CaXhyakxMS0RiNGVhUkNheGN5enN1azBvRWJTdlBhQWNNVWxpc29GeGdSUXdnSXFNamJNUXlHWE9zN1hGWWRFZlRWcjNmUW95dzFzZkRhU2w5Wnd6LUg4VUJNY3FZY3lCc3JkTlMtWlJHc3ZXNGswRFFONDlpVkI2Smdvd3A0ZUVrcmsxclRYLWNoUTJkZ0t1ZXBhOElRNGNmSjROZ0p6aFYyaC1LOXI5aEl0RGNJWTJEOW8wZkVBRDJCZ0NweUtpZkhlN3lxYmFBbzVHWF83d1RaSVE?oc=5>
+- **特朗普** | 特朗普体检：医疗考量还是公关手段？为什么美国总统要进行年度体检？ <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tUENfVG1PczUwLWNpUkRqOVB6Nmk0TWMzM1gtRWs3TERlMzNpRmJVVnAxTFR3TG1nN2daQXlxQWRCUG5HOWU4SEt5ekFzRThjV0lKUVZoRVhvNWVSRUxteG9TOUtNQdIBa0FVX3lxTE5LbEhla283c1F6bHR4dXpNbndxQzJKeGdSRjZYZmgtSXlWeUJIajdFc0ZuMVhTWVVCNFoySFlUODlHT2w5VlowMDFyNDNua0gtTFE2X0Jzb1gwaEJsSzdmOWQwb1AxNkpFNEFF?oc=5>
+- **特朗普** | 白宫医生称特朗普健康极佳 但建议他减肥 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zQnprc1BQdHpmSnJ2ZFJwM2s0WXBOdU5tRFR6VVVfY0xqemhwMElaTlJBdGxYbmVZdk42OXlVYmRUZXg3NHp3U3ZzVE9lTzhuYTNOYzlIbVpHdFhxcF94ekdqXzhhdw?oc=5>
+- **特朗普** | 美国国庆音乐会爆退演潮，特朗普开喷 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5RVlFHa3BTNUg2UGZSOXVEaTJiWmV5bzctVUtGWGs1cURiVTlZNEpuVzVoZXlReEZObDF6WnlkdDhTQkJkMlpmY3ctWjk?oc=5>
+- **特朗普** | “特朗普提出更严苛条款” <https://news.google.com/rss/articles/CBMic0FVX3lxTE85NnlpYXBLajNvbmpDUXFhMDJzUW9OMndfaTVhNWhhSG9KVXhWZ2kyM29WdUphS2dRcVhnUTVRY2g3UHFRWG5aSnRQN3pRX1NpWkFRVTBxbnRhcWg4Q3l6cnVQaEtEa19rVnFuQ1JMczZyLXM?oc=5>
+- **Trump** | trump的礼物 <https://news.google.com/rss/articles/CBMiekFVX3lxTE10a2ZqNlVzN2p6QTVhUkdxWVhoRE9rT0dlOVRZcV9hemNNcnFoV25BeWRmVm40MXdIZmd2TGdEaml6alpKNUNoQnNHQktQNkx3TmRQZG81MENMQzNiTlRBN3locFAxTVRfdGVrUkJJNUpzZmdocEQ4TjNR?oc=5>
+- **Trump** | $特朗普媒体科技集团 (DJT.US)$ 任何错误或拼写失误都可能让它付出巨额代价，Royal Rumble <https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM2wwM29FTnN1MEYtVFJVUVM1Um5MRXdCaWFSWFpkZXBmcC1MeEQtdm9UcE5QUXlNWV9NTkIyRTVBWi05RktfVzlwVGd4dHBtZkNxY2xtMVpWdUlLb3FKWG5Uajd4RUVSRFVOQURTVDhCTFY5ckU1bXFMWEpDZGFURDBidkZUVDNFSmpOd25wX0N0bG5HZ0l1Y1R4MS01UnB4NnNoRjAzM1F4X3NxQTFFVDBsX0xDOWdhQkxF?oc=5>
 
 ### 2026-05-31 03:49  (14 条)
 
