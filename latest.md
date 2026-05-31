@@ -1,14 +1,73 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-31 17:36**
-- 本轮扫到 2423 条, 新增 **0** 条
+- 最近更新: **2026-05-31 19:07**
+- 本轮扫到 2429 条, 新增 **6** 条
 
 ---
 
-## 本轮无新增
+## 本轮新发现 (6 条)
 
-数据库里所有演出/动态都已见过,暂无新增。
+### 特朗普过去24小时都忙了什么？（2026-05-31）
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-31 14:30
+- 链接: <https://news.google.com/rss/articles/CBMikAJBVV95cUxNNkRuZ0dxbWFlSXNNUTNZaXFmX2NieFQ0cktGakxndEIwa0RIcnZvM08wSzhIbVZOSFBrUUJIWGp6SHRvc3JlbVZUUHdLWFR4UC1QMk5Vd18wMFBPX0JXRDl1T19Odk9vX0VtYTZCZWhYRDYxQVkwR3FZVlVVS2FlenFkd0NxZzlRdkp0cGk1NFcxMkN0YndWSGhXRmUxZzItV3BlUk5TUkE3ckRKVTZVR2c5MVRKV0lHWlhDcWZQdVNtSld2UWREajg3NHhNbjlGWlhpUjF6R1Vrb2RDYVhRWDZjTzd5ZWM5TFU0ck0tVE8xTm8tUDdQQnhJd3ZoaGRUc2p2dkR2QUlHaXRqMExLTQ?oc=5>
+
+### 白宫公布特朗普年度体检报告：增重超6公斤
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-05-31 01:07
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6NEJ5U3FZTEc1MUtBUUg2TkliNjZUREpkVWY3NlZweWtrN1FLb3BfN1FuWXFvNVpCVFNOWTAwLTB6Q0VRQmV0eEdPNi00dzVsQnJVeVBDUUxIS0ZZLVZjNg?oc=5>
+
+### 22名医生给特朗普做年度体检：用药状况公布，当总统后增重
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: chinanews.com.cn
+- 时间: 2026-05-31 03:35
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9sNHp6OXlqVXlMM3hjcjA5azFEVnhfSVFYSDFkWG43N1g3ZTdQY1ZVNGxTMGdsSzZrUnVuTElJZE1aSDZ4dm9mVFJDa3FManNTTjVETUFXd3JMTzRvejZuaTRTV2c1d2JQ?oc=5>
+
+### 美伊协议再生变数？特朗普要修改草案
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: dw.com
+- 时间: 2026-05-31 10:40
+- 链接: <https://news.google.com/rss/articles/CBMiiAJBVV95cUxOZ3p2VkRsSGd6N3I0YjNtd0xObjZVUEVFTVlSSmZjaWZzVFZJZ3NkWWQ3a3dfdlBOeFRScjNZaWZrN0JjeV9YcWFIMWFoRVB2ejRCOElkLUk2bjd6MU5nLXBCQ1RTSEN3MzN3RXNkbFpfbnoxQzAtOWY5WnNja0RKZkU0RjN4MEhlUU44UWNRMlNOWWh4TGRQUnFuUjAxanZyYTExdmF5RV9jdVpSelpNTlU1VDM4Sm10VkFLWURNSlpsdzg3Skw3MjMwUlVjQ3BGLU9paUs2RnVmNXN4QkNUWHBCLUZ5M0swN2VGMW1BcnJKWjc3d3pXbzA2Ujhtd2ZsRkRXQXJoQ1DSAYgCQVVfeXFMUDl5LVcwbDJfU3g3djAwbWttRVlkX09DM0ZEVEJRRVRtRE84UURNNG90OVRsbjJXbzdnNWVXV2hHQlhzYjJoNjk1VlMwTldwdXRxZUtCRUpvckdlQTlub2tzYjJ1al9FTU04c1ktekc2dHlYSTdteDFzYTdFdkgtMjJHTHNMODIxajJtSElVRlNwMndvSkdTNjQzUzFXNE5rOVZRQ1dTYXgySzFhMjlvLWhXa2NNQ3MwY0IyS1kybG5WcEIwU3oybnAwcEVsVWpJTHp4ZDN0a0hIUDdIMGtCaHpqQ1Q1eThkUHFIam9MazU4WGItRnFIWk9MNHM0YTVVWXZndXktcmVS?oc=5>
+
+### أيموناتشي - Aimonacci (@Aimonacci)的见解
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Binance
+- 时间: 2026-05-30 21:11
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9VZWV2VTg0dTdqeTRSZ0M2cUpsQnkxY0FYcnc5LVlKZG9HUkNpTXFBTTVmNkxFWFlIdGRMdExNcC1PY3NnQURSOGEwNS1ZZXFwODduel9HX3NMT0t2QzBYdzI4VFhxeW5z?oc=5>
+
+### 澳廣視新聞｜Xi And Trump Start Bilateral Talks In Beijing｜Xi And Trump Start Bilateral Talks In Beijing
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 澳門廣播電視股份有限公司
+- 时间: 2026-05-14 07:00
+- 链接: <https://news.google.com/rss/articles/CBMihgFBVV95cUxQcEZYeExHdFhuUDBhUzJLVGlUa1NCUFlvaURCV2dWRTlXakRIR3RtNnBLRHA3R01aVENqVGZaR0VxaFRndVc1cDhLUlpfeWpqY0VGRG12VG5pTndhVnhseEVZNnY3a3FjeDJjOC1JeFp0RUxCTDRHM3ZDSnNLeV9OMHVlVThCQQ?oc=5>
+
+
+---
+
 ## 历史发现
+
+### 2026-05-31 19:07  (6 条)
+
+- **特朗普** | 特朗普过去24小时都忙了什么？（2026-05-31） <https://news.google.com/rss/articles/CBMikAJBVV95cUxNNkRuZ0dxbWFlSXNNUTNZaXFmX2NieFQ0cktGakxndEIwa0RIcnZvM08wSzhIbVZOSFBrUUJIWGp6SHRvc3JlbVZUUHdLWFR4UC1QMk5Vd18wMFBPX0JXRDl1T19Odk9vX0VtYTZCZWhYRDYxQVkwR3FZVlVVS2FlenFkd0NxZzlRdkp0cGk1NFcxMkN0YndWSGhXRmUxZzItV3BlUk5TUkE3ckRKVTZVR2c5MVRKV0lHWlhDcWZQdVNtSld2UWREajg3NHhNbjlGWlhpUjF6R1Vrb2RDYVhRWDZjTzd5ZWM5TFU0ck0tVE8xTm8tUDdQQnhJd3ZoaGRUc2p2dkR2QUlHaXRqMExLTQ?oc=5>
+- **特朗普** | 白宫公布特朗普年度体检报告：增重超6公斤 <https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6NEJ5U3FZTEc1MUtBUUg2TkliNjZUREpkVWY3NlZweWtrN1FLb3BfN1FuWXFvNVpCVFNOWTAwLTB6Q0VRQmV0eEdPNi00dzVsQnJVeVBDUUxIS0ZZLVZjNg?oc=5>
+- **特朗普** | 22名医生给特朗普做年度体检：用药状况公布，当总统后增重 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9sNHp6OXlqVXlMM3hjcjA5azFEVnhfSVFYSDFkWG43N1g3ZTdQY1ZVNGxTMGdsSzZrUnVuTElJZE1aSDZ4dm9mVFJDa3FManNTTjVETUFXd3JMTzRvejZuaTRTV2c1d2JQ?oc=5>
+- **特朗普** | 美伊协议再生变数？特朗普要修改草案 <https://news.google.com/rss/articles/CBMiiAJBVV95cUxOZ3p2VkRsSGd6N3I0YjNtd0xObjZVUEVFTVlSSmZjaWZzVFZJZ3NkWWQ3a3dfdlBOeFRScjNZaWZrN0JjeV9YcWFIMWFoRVB2ejRCOElkLUk2bjd6MU5nLXBCQ1RTSEN3MzN3RXNkbFpfbnoxQzAtOWY5WnNja0RKZkU0RjN4MEhlUU44UWNRMlNOWWh4TGRQUnFuUjAxanZyYTExdmF5RV9jdVpSelpNTlU1VDM4Sm10VkFLWURNSlpsdzg3Skw3MjMwUlVjQ3BGLU9paUs2RnVmNXN4QkNUWHBCLUZ5M0swN2VGMW1BcnJKWjc3d3pXbzA2Ujhtd2ZsRkRXQXJoQ1DSAYgCQVVfeXFMUDl5LVcwbDJfU3g3djAwbWttRVlkX09DM0ZEVEJRRVRtRE84UURNNG90OVRsbjJXbzdnNWVXV2hHQlhzYjJoNjk1VlMwTldwdXRxZUtCRUpvckdlQTlub2tzYjJ1al9FTU04c1ktekc2dHlYSTdteDFzYTdFdkgtMjJHTHNMODIxajJtSElVRlNwMndvSkdTNjQzUzFXNE5rOVZRQ1dTYXgySzFhMjlvLWhXa2NNQ3MwY0IyS1kybG5WcEIwU3oybnAwcEVsVWpJTHp4ZDN0a0hIUDdIMGtCaHpqQ1Q1eThkUHFIam9MazU4WGItRnFIWk9MNHM0YTVVWXZndXktcmVS?oc=5>
+- **Trump** | أيموناتشي - Aimonacci (@Aimonacci)的见解 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9VZWV2VTg0dTdqeTRSZ0M2cUpsQnkxY0FYcnc5LVlKZG9HUkNpTXFBTTVmNkxFWFlIdGRMdExNcC1PY3NnQURSOGEwNS1ZZXFwODduel9HX3NMT0t2QzBYdzI4VFhxeW5z?oc=5>
+- **Trump** | 澳廣視新聞｜Xi And Trump Start Bilateral Talks In Beijing｜Xi And Trump Start Bilateral Talks In Beijing <https://news.google.com/rss/articles/CBMihgFBVV95cUxQcEZYeExHdFhuUDBhUzJLVGlUa1NCUFlvaURCV2dWRTlXakRIR3RtNnBLRHA3R01aVENqVGZaR0VxaFRndVc1cDhLUlpfeWpqY0VGRG12VG5pTndhVnhseEVZNnY3a3FjeDJjOC1JeFp0RUxCTDRHM3ZDSnNLeV9OMHVlVThCQQ?oc=5>
 
 ### 2026-05-31 16:16  (1 条)
 
