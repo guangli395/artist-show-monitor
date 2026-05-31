@@ -1,24 +1,60 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-31 13:24**
-- 本轮扫到 2417 条, 新增 **1** 条
+- 最近更新: **2026-05-31 14:59**
+- 本轮扫到 2422 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮新发现 (5 条)
 
-### 美官员透露：特朗普提出更强硬条款 试图施压伊朗加快谈判进程
+### 蔡徐坤 KUN 2023 世界巡演马来西亚站开票啦!_音乐_门票_吉隆坡
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019067ftg.html>
+
+### 蔡徐坤吉隆坡演唱会官宣开票 VIP票五分钟内售罄_巡回_vip_地区
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019067g2q.html>
+
+### 特朗普最新健康状况公布
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 央广网
-- 时间: 2026-05-31 02:03
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1yOG0ySnFMbkdGSk1WVHc5WF9PVU1yRThuWmlDa0JMNzBOR2V1aVBRODlFVzBDNkZvdHRSSkRXX092ZWl5QUNpSmlmaVdUa1lZQ0pzN1hZZ1JGTkRyVVBscjcyaFhXRHN5?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-05-31 08:30
+- 链接: <https://news.google.com/rss/articles/CBMiygFBVV95cUxNMExFbGZueEczOS1Vc1lrTi1STUdXM3FIemFpbXpRWlAzZUNtRF95YnF2enJxWE0xdkFlUDNkSHk2TDRYS0ZYVzhLUi1mSGZ3dlhJTU42bHg5ZUY1VG1kLWM4QWdkQkpXM3lDQU9kZFF0SFZmMEFFWHFaR1VBUXhUeFd1YnM5LUlIZGYyNUF6Q1VQYVY1b2ZZbVVxSTJNYkYycDlZSmJUdHROWkRscURDRDd3ZTZXN2JvOXhxUm5RLWd4Z1NCR3BaRUFn?oc=5>
+
+### 被“除名”、遭停工！特朗普回应：震惊，史上最不公对待
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-31 05:15
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVzl4cWZPbTJVUE1KM2lBTkhwTWk2ZkxvWUVTamJhZk9iS1BUemExaWpWOHh1ZHpuaFVVUUdfLWRrM3djYUp4QXloRVo2aktCczBUMzBOWnE0d1EwNEpaOElsN2VxTTRpbkRiNnkwTmxLVllPWGEwSWRnVTVyRmxVMFJlQTViV0oycjdJWUszbDdBSW9hWDRpbVJuTmJ6emYxS2FDR3VmOGtlM2FObTRIWlRYc204LVFOamdNUEpDWV9maHQtUW9MMHJBRlNjME1B?oc=5>
+
+### 泽连斯基向特朗普发求援信，俄媒：美方已读不回
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-05-31 14:49
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9NaFZVUGlCLU5SaWZXLUtMdU5IRHlNUUFFQ1NiQ0N5UFEzWHBCalNwMEtUV2cyWExsYzlJT1Z6SWVRbHNMa2lzR0x2dUs?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-05-31 14:59  (5 条)
+
+- **蔡徐坤** | 蔡徐坤 KUN 2023 世界巡演马来西亚站开票啦!_音乐_门票_吉隆坡 <https://k.sina.com.cn/article_7857201856_1d45362c0019067ftg.html>
+- **蔡徐坤** | 蔡徐坤吉隆坡演唱会官宣开票 VIP票五分钟内售罄_巡回_vip_地区 <https://k.sina.com.cn/article_7857201856_1d45362c0019067g2q.html>
+- **特朗普** | 特朗普最新健康状况公布 <https://news.google.com/rss/articles/CBMiygFBVV95cUxNMExFbGZueEczOS1Vc1lrTi1STUdXM3FIemFpbXpRWlAzZUNtRF95YnF2enJxWE0xdkFlUDNkSHk2TDRYS0ZYVzhLUi1mSGZ3dlhJTU42bHg5ZUY1VG1kLWM4QWdkQkpXM3lDQU9kZFF0SFZmMEFFWHFaR1VBUXhUeFd1YnM5LUlIZGYyNUF6Q1VQYVY1b2ZZbVVxSTJNYkYycDlZSmJUdHROWkRscURDRDd3ZTZXN2JvOXhxUm5RLWd4Z1NCR3BaRUFn?oc=5>
+- **特朗普** | 被“除名”、遭停工！特朗普回应：震惊，史上最不公对待 <https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVzl4cWZPbTJVUE1KM2lBTkhwTWk2ZkxvWUVTamJhZk9iS1BUemExaWpWOHh1ZHpuaFVVUUdfLWRrM3djYUp4QXloRVo2aktCczBUMzBOWnE0d1EwNEpaOElsN2VxTTRpbkRiNnkwTmxLVllPWGEwSWRnVTVyRmxVMFJlQTViV0oycjdJWUszbDdBSW9hWDRpbVJuTmJ6emYxS2FDR3VmOGtlM2FObTRIWlRYc204LVFOamdNUEpDWV9maHQtUW9MMHJBRlNjME1B?oc=5>
+- **特朗普** | 泽连斯基向特朗普发求援信，俄媒：美方已读不回 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9NaFZVUGlCLU5SaWZXLUtMdU5IRHlNUUFFQ1NiQ0N5UFEzWHBCalNwMEtUV2cyWExsYzlJT1Z6SWVRbHNMa2lzR0x2dUs?oc=5>
 
 ### 2026-05-31 13:24  (1 条)
 
