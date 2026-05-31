@@ -1,39 +1,13 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-31 21:55**
-- 本轮扫到 2435 条, 新增 **3** 条
+- 最近更新: **2026-05-31 22:55**
+- 本轮扫到 2435 条, 新增 **0** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮无新增
 
-### 30年前的“摧毁飞机谋杀案”，特朗普给翻出来了
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-05-31 16:04
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE11MklIdGxkUmpCMk9NSVVkeE1qVzctRm4wWFljSE9CMnoySE40U2Noc0RuSmlCZFJEbGEtdFRDUm9mRUZycl9rd3JJdFJaYkNLc0xpdkxmUEQ5cGZYbkRNVVlycmUzMDM3dHEzLXFseTFiYk1PVGJYXw?oc=5>
-
-### 特朗普：美伊若无法达成协议 “战争部”将介入
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-05-31 13:57
-- 链接: <https://news.google.com/rss/articles/CBMisgFBVV95cUxNTmoyYmdGMXZxU1NYMXg3UWN1WFlXLVY1SWlrdkVvSVRHbVhZYzl1SFhJdGtkUV9vR0ZJWTFCY1lWSjhFZVFhZXdNUDRYOHVYQ0ZGQXdGT0pmLTJpU191MVdXZGVsdy1td0xoMWFIWUFoTkRuUGFFRVd3VldmVTM3OGtkeVo2N3hTTklmNVdlcUNuZ0lCTkZQQndQbGh6VnN6bDRSLTFTTXpfN05CeTZnb09R?oc=5>
-
-### 不满“除名” 特朗普称肯尼迪中心“很快就会关闭”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-05-31 07:29
-- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE1YOXFkZUE5V3JMSXFHa1QzcnpITUFWT2dvYlNxLWJQdy0wemJyUVFjWVU1S0V3YXVzdmJ5QUxueHhucUNjQUs4a0Vpenh0VGkyUVUxV0l1ZWN5NHFWdTB1WEVLcWNETDFmR3Q2U3Rxa24tbHhJS2xSWk93bWY4dw?oc=5>
-
-
----
-
+数据库里所有演出/动态都已见过,暂无新增。
 ## 历史发现
 
 ### 2026-05-31 21:55  (3 条)
