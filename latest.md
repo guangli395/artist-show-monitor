@@ -1,108 +1,134 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-01 10:36**
-- 本轮扫到 2460 条, 新增 **12** 条
+- 最近更新: **2026-06-01 16:34**
+- 本轮扫到 2473 条, 新增 **13** 条
 
 ---
 
-## 本轮新发现 (12 条)
+## 本轮新发现 (13 条)
 
-### 蔡徐坤音乐节携玩偶coldy登台，温柔互动引粉丝模仿
+### 周杰伦宣布举办无限流演唱会
 
-- 艺人/关键词: **蔡徐坤**
+- 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5239863155_m13851f773033018xea.html>
+- 链接: <https://k.sina.com.cn/article_6514443328_1844a844004008ltno.html>
 
-### 蔡徐坤携玩偶coldy亮相音乐节称其为特别嘉宾
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6436652527_m17fa785ef03301dsw6.html>
-
-### 特朗普指责CNN：又老调重弹发假新闻
+### 卡拉希平台：鲁比奥2028年共和党提名赔率逼近万斯
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新蓝网
-- 时间: 2026-06-01 08:07
-- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE1DaGs2anNVeDltZmhxWVlUSjNSdnM0d1lJU28wMnVZYi1TWUhaMkkxZGdIRV9rNDEwZGlMYk00U1Y4dDdzR1h1U29xQ1gzX1k?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-06-01 15:48
+- 链接: <https://news.google.com/rss/articles/CBMikwJBVV95cUxOWG9ENFBPNVNURDZaZWtGeFljQklFVTVmZ3Fock54bC1VNDRCUF9rbnNMQndDeG9IOHlUX29ZRlVIRjZSV3hNQjZTRFhZa09oYTYyMTlQOWcwcFZEdTZnS2I4UTViUlV3dk1UbVJZTVNoZUl4NDhBVFdQX1p0eWRHU3g5NjNVeF93QThwLWp1bVBtNUw0VFM2X0lvUGE4R1A4NzR3MVhBQlJoc1otVzJIUEg2eWVFZ1loSEN4WWFqUW92dkE3UnRkU25tRmdnX1NjU2F4Z2FaNVlpZDZpQnZyWVo1RjBUNlRXZ1EwWTBFb2NQbGRiQmtlVS1EZ1RWWGFRZEJDMkhIWDVwa1hUSk5VWk9pVQ?oc=5>
 
-### 特朗普称伊朗“确实想要”达成协议
+### 特朗普据报促习近平使普京重返谈判桌以结束俄乌战争
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 紫牛新闻
-- 时间: 2026-06-01 06:34
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFB5bVowalcyZGFRcE9BRHc2eVdPTHppQXBHTFNnb0IxUEItSWd5dGpuTzhGQ3B6eG44STUtMTlQWVlHNVRxNWlTTHRJX0h0M1MtQWR4cjhIOHdFS25VV3RBUkdXTU5BNW9kUHc?oc=5>
+- 场馆: RFI
+- 时间: 2026-06-01 15:27
+- 链接: <https://news.google.com/rss/articles/CBMi_wJBVV95cUxQU1VkdnhnMElMQUl6X05oaUxmd1ZZTUhzalRNeDBYWXVsV0RmcWxGVkZFY295VmZWNFJwOHB5Rk1sRUl4alBJUGV0R2F6eFVoa1hnYUJiLUhab01YaFRZazB4ZEc0VlNRTVFrcTJVXzZXY0RTSEpOTENnSkhUWUtlU1FXZ3hjVFZGWTlkYk5qSXFnazFodmJMdEtUMzEwbHIyREs5alIzOEhLRGdZQTNmVWkzWVZqSnJrLVhKcnBfOHVubU44MUhhVF9mQU9kRjJGcHk0V2hyeVV2dzN4Q1BwQzJHTlByZWE1YmRQOFhrckJCWVpjSnpEWHJKZmluMnVHY0l2RzBua3ZHV1Z0MW5uNWZkdkRnX3k2SkhWT0ZmcDhscWNsVjBsd2NDOTkwZ2pZNzZvOE5NcngzdnZ5UWdFNnI0X3dWWGNmYkRCWWhIX2lrNWhwQ19HdTYxTDl0TVJlVXdKZllTT2h4NXpiYXVkYWxCZXNyN2V0Yl9IelBVQQ?oc=5>
+
+### 特朗普80岁生日，白宫将办格斗赛，最近距离观赛要花超过100万美元！美国250周年国庆演出，多名艺人已辞演
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-05-31 16:16
+- 链接: <https://news.google.com/rss/articles/CBMiwgFBVV95cUxONG45b3RTeTNOdjd1aXZkdE1TUk9LN3UzS1VoYV9ZSHdwejd1b0dhWU1aN3lQMjF2NVVxX1ZMckl1Y0tvQ2kxcHpPZ2FUcUdCa1lLVWJtNVVHZy01X2ZvMFRrakdsOWowNWpYc0VVa3pHZkRhaVQtcmZvNnc0b3BvUVBTMGxxZXk5UlpVN1h6T0NmeFEtemJZendzZ3pLMDZTcVBoaUhPdXZpUk80WG12N3NiWkV2SUtxc3FmRG56QmJ6UQ?oc=5>
 
 ### 叙过渡总统与特朗普通话谈取消制裁
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-06-01 04:25
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFB3YUQwcTFrcGd2elAtclJQS1E3c1AyRHdYek45eGE3SmhLekdFZzJna2FoNENyYnlkZEhVbFQ2aFhxZTdIYzBPRWVXczFHeHBxVTQ5b0tlay0yTlVRdENoSXFnUXJTODdWT2pyOHpqR0loTDRqa3JsRzRPaXAwSlk?oc=5>
+- 场馆: 中国网新闻中心
+- 时间: 2026-06-01 11:48
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTFBmb0tYWUZJc0hRRWN3TUtiMWk3dFl1TFh2RnExVnBtNzNIM2JhMEtCRkpkenlEckF5MW5xdUdHbXpkeVlEWkRsa3cta1J4MUtpSlZNbjkzc2xVbkJlNGw5MjFJZW5CS00xcWg0?oc=5>
 
-### 6月1日财经早餐：特朗普收紧伊核意向协议条款，金价坚守4540上方，美油触及90关口
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-31 23:50
-- 链接: <https://news.google.com/rss/articles/CBMipgJBVV95cUxNc0Fnd24zRldubjV2Vi1NQnppLXNPam9qLWY5aDZnZGNHOVNxemNFa2NvSHdZSW1XWDlraU95REF6d29rWXdRYmRuQWpGYUhNSzhKWmJMS1h2VGpfdHZLYzBoUzBfcXA2SktMbXhZT2p4MjNPLVJlNXo4c1VUdHZOVi1kSWxVd0ZXVXhtelJYQ2dZLWVrWXU3bGNSS1p0azlqek5EZmthVmJ1TjB4SFRrNlVzSGp6T213NEhJd0YwSHB6SE96bzZVdmlXQXpzNzBfOUJsRkhtVUk1bVJZQndjNTJuRmw3bVU1RFhNRy04YndhS0k5RlM1b0t1cUo5TlJHbmVZamx1NTgzQnNLNVZsbnVMbnJPaTBWNV9kT0ozelNnRFFacnc?oc=5>
-
-### 特朗普威胁“炸掉阿曼”粗暴又荒诞：美国的强权即是“规则”
+### 特朗普站台“嗑药奥运” 挑战体育精神底线
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-06-01 06:50
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Jd3FfQ0phc19Ob041ZFl4UjVEV1BNWkR2UHJYT2ppOEhuUURfczY4VDl4ekZidU5HOXprQnd0V1o2Z3JrTndIcnRnaUdpZE9GdEpzMWpJWnRSWWV3cV95aw?oc=5>
+- 场馆: 中华网
+- 时间: 2026-06-01 10:11
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE83SFZOdHV2RlVUdU41OHBHbEhMdEczb0RlM005NW4tNTl1cmdac19yeXNKVkpDSS1USjhMN3Y2cTVjX2NWd1hLYUpjUFRqemEwc2xPcGVZWjNiQXpzckt4d18zY2w1WnpiRGRScFdTenE?oc=5>
 
-### 美媒曝特朗普最新态度，民进党幻想再破灭，“台独”立场松动了
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-06-01 03:47
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1BeU5qUEVEbzZiT0N2dEszQXV3QUF5OFFwWjlnUXBGNWNCNE1LNFdYUjFpYThhZjVrUXdVamlhbXFXbGhnVzA3UUUwRlI?oc=5>
-
-### 特朗普发文：伊朗“确实想要”达成协议
+### 特朗普称伊朗“确实想要”达成协议
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-06-01 06:16
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBieVZNY3UxcmdpWnRqdUxXbTVJRjJrMW4zOUoxcjY0bno4cWJmWWVtTzVXSGMtN0MzU1ZlVUVNNDdXakpoaEJhTm1pMENKd3F2TUo0NjBva2FKMjMyNXRCbFZ5aGxPdzJQ?oc=5>
+- 场馆: 央广网
+- 时间: 2026-06-01 06:18
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfcXlReWFiUUdGUlF4RGZlWHc1aFJZaF8zMDl0aWFCN0p1dUVZUkkxYVUyVU9ucWlvUkd2bzdvTG12VHE1SnNiNXRlY2RjZFVYYWt3QjlqZFB1anJESTZFQTNKVGxMWGl6?oc=5>
 
-### 特朗普指责CNN就伊朗问题发布“假新闻”，坚称美伊协议“明确写明伊朗不会拥有核武器”
+### 特朗普提出更强硬条款，伊朗同步：已准备好谈判破裂
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪军事
-- 时间: 2026-06-01 04:49
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE9SY1dxbkRMSU5qQWtCdHUwbjN0QU5OcFVtYmZnUlZQQzRBUnVvSVV3SFh1em14QTE4QXZZSnF5bzVRUktiVG1sdUJHMkFITUpESmRRVzdnYUFYQ2EtVjFNWDBmWlZXZnFtOE9yVnBhSGhycm8?oc=5>
+- 场馆: 观察者
+- 时间: 2026-05-31 23:48
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1mSm1hRWV3eTlCWUpuT1JLTWpzaTF6V3ZqekNpVVhzYU40Nk4wbXU4a2F1dTRaNW5rbm1RQVNrQW1EcFVRc1NPVkpRSnRybmhsZElnX1NrOFJnZG9qWHNoZkpQYzR6YWlJRnc?oc=5>
 
-### TRUMP/USDT
+### 《美国观察》190 | 美国“大而美法案”的政策逻辑、实施困境与深远影响
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Binance
-- 时间: 2026-05-27 18:18
-- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTE1LdE1ROGQ1R19BbFJaMGNndmd4MGIwbk1vVk5qMGxfakw0VjFnNTdnRmkzQVIwR1NJZlB5elRsdDZzS2JZQ25BMXJDbDBILW1nRlk5OFNPRFlXaGlZQ0FTWVZNMEU5YTBNRnZScFY4ZnNrUU81Yl9Sa2htWQ?oc=5>
+- 场馆: 清华大学战略与安全研究中心
+- 时间: 2026-05-29 07:00
+- 链接: <https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQRGtXTWNidnVNVU9YUjQ4eUpsZUFIT2xnamljbnpycm80eW1heVJwdDljZHM3d3pRSl8zbFpQa3MyTWp3dEF3SnlMeEl0WEh1WkJnQi0tQTBiUXda?oc=5>
 
-### Trump於白宫会见巴西总统候选人Flavio Bolsonaro
+### 点石成金？特朗普“旧吹票视频”扩散，IBM盘前大涨15%
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: AASTOCKS.com
-- 时间: 2026-05-26 23:18
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE1RMEZsRHNOcG93Ymx6T01ULW5PN1RQdEN3a1ZIU0NDdkxDSDhCSTduRlZaMklIb0FPak1nNDBGelBEXzJSaEhPVU9NdlVmUUY5V0lhd095em83bVlrbU5iVXZoUFBURnhKWS1mckNoMA?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-06-01 13:28
+- 链接: <https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZVU0UkVueUNMaTVDLXR3bDhzaFVBMWk1Z3lYcGkwVTJQODBuTTl6bUxlZno2ODBzcXJvdWZtdl9LTHJZWXpIUGg4MUFXRVhHT1ZpekF1dWkyS3ZBMkRpcHN3amJMOHNYdUQ3UFd3a0dnQW1aVEtXbEYwVzJkdmEwZFdVNTBLXzZsZHdLZnpLaFhsRVI0SWllRjFoMjBGQ3pRN1JxWFN2bXU?oc=5>
+
+### 台湾国民党主席郑丽文访美 恐无缘会晤特朗普政府高层
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 8world
+- 时间: 2026-06-01 12:11
+- 链接: <https://news.google.com/rss/articles/CBMiowFBVV95cUxNc0FLeE9QSkFvTXR4cGphSEtzTENXSUZDSlM2cWduVzU5ZHFScmU5RkJmcWJsbW10Sk4xc3JhOWNuYkFRc29XUXI4S0NVWUU1UzZ2ejREa1drSHNCcVRCblZOWjhrdXVYMUNIbGNZUm5RTmRzcU1wUnNMWlkyZnFrRHFVYmwxS3JJTGlaZmNPaTluOHZRbWw0X1JoRVNYMEo5c1BV?oc=5>
+
+### Dow Jones Top Markets Headlines at 7 AM ET: Oil Prices Rise After U.S. and Iran Strikes Threaten Trump Peace Deal
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 富途牛牛
+- 时间: 2026-06-01 11:00
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxNcEY1N1FtRjdfclVoby16Ymk3WmRjVWwxN1ZqVFNWdk5zcllBa0U5N0pHOWV2WkN1dWFXZTdsc3NwNTdtc0o3QzNqLUNfRVhLTXNLNng4NkhWLTNEdnNNa3dscldZVHY4N1Ezc2VpdWNtTjZ2dHUxWGRuZ241TG5Rc0QySkJYWTNZbDc0WA?oc=5>
+
+### 第428天：降息 +特朗普2.0 第496天
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-06-01 15:46
+- 链接: <https://news.google.com/rss/articles/CBMimgFBVV95cUxOUXZNRVVFVVUzR0daUzRzejNwSF9GdERhY3lzU1I1SUdMRkJXTHNoTFFOalhDczR4SUhROEIwOHhPc2syQjZuTGFDRU11YV9WVm9EaXozUEpCYndKZURNbWs2S2JqR2l3YzRWQ0hYM2wwYWJ2TG5uamF3d2k1ZzFzMHpnQlppT2NyaW1EZWFrTnREcU1RQ2hWcWh3?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-01 16:34  (13 条)
+
+- **周杰伦** | 周杰伦宣布举办无限流演唱会 <https://k.sina.com.cn/article_6514443328_1844a844004008ltno.html>
+- **特朗普** | 卡拉希平台：鲁比奥2028年共和党提名赔率逼近万斯 <https://news.google.com/rss/articles/CBMikwJBVV95cUxOWG9ENFBPNVNURDZaZWtGeFljQklFVTVmZ3Fock54bC1VNDRCUF9rbnNMQndDeG9IOHlUX29ZRlVIRjZSV3hNQjZTRFhZa09oYTYyMTlQOWcwcFZEdTZnS2I4UTViUlV3dk1UbVJZTVNoZUl4NDhBVFdQX1p0eWRHU3g5NjNVeF93QThwLWp1bVBtNUw0VFM2X0lvUGE4R1A4NzR3MVhBQlJoc1otVzJIUEg2eWVFZ1loSEN4WWFqUW92dkE3UnRkU25tRmdnX1NjU2F4Z2FaNVlpZDZpQnZyWVo1RjBUNlRXZ1EwWTBFb2NQbGRiQmtlVS1EZ1RWWGFRZEJDMkhIWDVwa1hUSk5VWk9pVQ?oc=5>
+- **特朗普** | 特朗普据报促习近平使普京重返谈判桌以结束俄乌战争 <https://news.google.com/rss/articles/CBMi_wJBVV95cUxQU1VkdnhnMElMQUl6X05oaUxmd1ZZTUhzalRNeDBYWXVsV0RmcWxGVkZFY295VmZWNFJwOHB5Rk1sRUl4alBJUGV0R2F6eFVoa1hnYUJiLUhab01YaFRZazB4ZEc0VlNRTVFrcTJVXzZXY0RTSEpOTENnSkhUWUtlU1FXZ3hjVFZGWTlkYk5qSXFnazFodmJMdEtUMzEwbHIyREs5alIzOEhLRGdZQTNmVWkzWVZqSnJrLVhKcnBfOHVubU44MUhhVF9mQU9kRjJGcHk0V2hyeVV2dzN4Q1BwQzJHTlByZWE1YmRQOFhrckJCWVpjSnpEWHJKZmluMnVHY0l2RzBua3ZHV1Z0MW5uNWZkdkRnX3k2SkhWT0ZmcDhscWNsVjBsd2NDOTkwZ2pZNzZvOE5NcngzdnZ5UWdFNnI0X3dWWGNmYkRCWWhIX2lrNWhwQ19HdTYxTDl0TVJlVXdKZllTT2h4NXpiYXVkYWxCZXNyN2V0Yl9IelBVQQ?oc=5>
+- **特朗普** | 特朗普80岁生日，白宫将办格斗赛，最近距离观赛要花超过100万美元！美国250周年国庆演出，多名艺人已辞演 <https://news.google.com/rss/articles/CBMiwgFBVV95cUxONG45b3RTeTNOdjd1aXZkdE1TUk9LN3UzS1VoYV9ZSHdwejd1b0dhWU1aN3lQMjF2NVVxX1ZMckl1Y0tvQ2kxcHpPZ2FUcUdCa1lLVWJtNVVHZy01X2ZvMFRrakdsOWowNWpYc0VVa3pHZkRhaVQtcmZvNnc0b3BvUVBTMGxxZXk5UlpVN1h6T0NmeFEtemJZendzZ3pLMDZTcVBoaUhPdXZpUk80WG12N3NiWkV2SUtxc3FmRG56QmJ6UQ?oc=5>
+- **特朗普** | 叙过渡总统与特朗普通话谈取消制裁 <https://news.google.com/rss/articles/CBMia0FVX3lxTFBmb0tYWUZJc0hRRWN3TUtiMWk3dFl1TFh2RnExVnBtNzNIM2JhMEtCRkpkenlEckF5MW5xdUdHbXpkeVlEWkRsa3cta1J4MUtpSlZNbjkzc2xVbkJlNGw5MjFJZW5CS00xcWg0?oc=5>
+- **特朗普** | 特朗普站台“嗑药奥运” 挑战体育精神底线 <https://news.google.com/rss/articles/CBMicEFVX3lxTE83SFZOdHV2RlVUdU41OHBHbEhMdEczb0RlM005NW4tNTl1cmdac19yeXNKVkpDSS1USjhMN3Y2cTVjX2NWd1hLYUpjUFRqemEwc2xPcGVZWjNiQXpzckt4d18zY2w1WnpiRGRScFdTenE?oc=5>
+- **特朗普** | 特朗普称伊朗“确实想要”达成协议 <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfcXlReWFiUUdGUlF4RGZlWHc1aFJZaF8zMDl0aWFCN0p1dUVZUkkxYVUyVU9ucWlvUkd2bzdvTG12VHE1SnNiNXRlY2RjZFVYYWt3QjlqZFB1anJESTZFQTNKVGxMWGl6?oc=5>
+- **特朗普** | 特朗普提出更强硬条款，伊朗同步：已准备好谈判破裂 <https://news.google.com/rss/articles/CBMiakFVX3lxTE1mSm1hRWV3eTlCWUpuT1JLTWpzaTF6V3ZqekNpVVhzYU40Nk4wbXU4a2F1dTRaNW5rbm1RQVNrQW1EcFVRc1NPVkpRSnRybmhsZElnX1NrOFJnZG9qWHNoZkpQYzR6YWlJRnc?oc=5>
+- **Trump** | 《美国观察》190 | 美国“大而美法案”的政策逻辑、实施困境与深远影响 <https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQRGtXTWNidnVNVU9YUjQ4eUpsZUFIT2xnamljbnpycm80eW1heVJwdDljZHM3d3pRSl8zbFpQa3MyTWp3dEF3SnlMeEl0WEh1WkJnQi0tQTBiUXda?oc=5>
+- **Trump** | 点石成金？特朗普“旧吹票视频”扩散，IBM盘前大涨15% <https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZVU0UkVueUNMaTVDLXR3bDhzaFVBMWk1Z3lYcGkwVTJQODBuTTl6bUxlZno2ODBzcXJvdWZtdl9LTHJZWXpIUGg4MUFXRVhHT1ZpekF1dWkyS3ZBMkRpcHN3amJMOHNYdUQ3UFd3a0dnQW1aVEtXbEYwVzJkdmEwZFdVNTBLXzZsZHdLZnpLaFhsRVI0SWllRjFoMjBGQ3pRN1JxWFN2bXU?oc=5>
+- **Trump** | 台湾国民党主席郑丽文访美 恐无缘会晤特朗普政府高层 <https://news.google.com/rss/articles/CBMiowFBVV95cUxNc0FLeE9QSkFvTXR4cGphSEtzTENXSUZDSlM2cWduVzU5ZHFScmU5RkJmcWJsbW10Sk4xc3JhOWNuYkFRc29XUXI4S0NVWUU1UzZ2ejREa1drSHNCcVRCblZOWjhrdXVYMUNIbGNZUm5RTmRzcU1wUnNMWlkyZnFrRHFVYmwxS3JJTGlaZmNPaTluOHZRbWw0X1JoRVNYMEo5c1BV?oc=5>
+- **Trump** | Dow Jones Top Markets Headlines at 7 AM ET: Oil Prices Rise After U.S. and Iran Strikes Threaten Trump Peace Deal <https://news.google.com/rss/articles/CBMijAFBVV95cUxNcEY1N1FtRjdfclVoby16Ymk3WmRjVWwxN1ZqVFNWdk5zcllBa0U5N0pHOWV2WkN1dWFXZTdsc3NwNTdtc0o3QzNqLUNfRVhLTXNLNng4NkhWLTNEdnNNa3dscldZVHY4N1Ezc2VpdWNtTjZ2dHUxWGRuZ241TG5Rc0QySkJYWTNZbDc0WA?oc=5>
+- **Trump** | 第428天：降息 +特朗普2.0 第496天 <https://news.google.com/rss/articles/CBMimgFBVV95cUxOUXZNRVVFVVUzR0daUzRzejNwSF9GdERhY3lzU1I1SUdMRkJXTHNoTFFOalhDczR4SUhROEIwOHhPc2syQjZuTGFDRU11YV9WVm9EaXozUEpCYndKZURNbWs2S2JqR2l3YzRWQ0hYM2wwYWJ2TG5uamF3d2k1ZzFzMHpnQlppT2NyaW1EZWFrTnREcU1RQ2hWcWh3?oc=5>
 
 ### 2026-06-01 10:36  (12 条)
 
