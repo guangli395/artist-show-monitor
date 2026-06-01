@@ -1,14 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-05-31 22:55**
-- 本轮扫到 2435 条, 新增 **0** 条
+- 最近更新: **2026-06-01 00:03**
+- 本轮扫到 2438 条, 新增 **3** 条
 
 ---
 
-## 本轮无新增
+## 本轮新发现 (3 条)
 
-数据库里所有演出/动态都已见过,暂无新增。
+### 特朗普在真实社交上发表视频，把自己刻在了总统山上
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: video.sina.com.cn
+- 时间: 2026-05-31 23:47
+- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxPUDhYc2V5UDZIeF8wNVpFWG1EMHB0VWZpb0wtV2VTby14NEkwYW1KUGxoT0FqWFBNamdJOVQwU0ZQT0ZwcjAwTXpNOElSd1gwWU4wVWI5bEdDS3Ffd2tMOFJrU2lsRmVVVE9SU0dmQ0wyekdFcXNBb01pcE1NUTkzX2hn?oc=5>
+
+### 6月1日财经早餐：特朗普收紧伊核意向协议条款，金价坚守4540上方，美油触及90关口
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-05-31 23:50
+- 链接: <https://news.google.com/rss/articles/CBMikAJBVV95cUxPcFk0M2R3bVY4SFdqV283WnFQUFRfTE05WmN5dW1pbjAxX2dzV3lXUktZRkRDOEFibGM3aS01Z0JZb0pnS0dRVnBkNThDVk9OZmpFbGt1QmVKaGpUd0F4eG1yTkl6ZDZiLUxaYjB6WEd2bm1UbDhQVmd1bzlRUkJMckM0SlF5MUpiVFUtNTRhZnMtUmlrTXhWTlUyTGJwcmNhdTV5a0wxb2Q3MTRvblVLc1dsdGZKUW5mWEJKWVp1WW9GdU9SbWdjbnU2MDc0RHAtVFVhU28tcGxnX1VTQkFqTWtTUGVoMFFmbWJaeE9EanJZVnVsUlZrV2FmaExJS19TR1JKZDZtUnZrMlJDQkw2Uw?oc=5>
+
+### 特朗普年度体检报告：比去年增重超6公斤 “认知和身体状况非常好”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 每日经济新闻
+- 时间: 2026-05-31 17:14
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzb3dPcFVpRmZEQUdUWDZRdTFIUVV6MEx6aXZjNm1LZ0hFQTZUbHhEZUtsU19LMGFDcVVrRksyWmFCRmdVcmt5QjVYOGZVbVdBYW9fUGlTVzB0WXhSSy1NTTBoRk5zUQ?oc=5>
+
+
+---
+
 ## 历史发现
+
+### 2026-06-01 00:03  (3 条)
+
+- **特朗普** | 特朗普在真实社交上发表视频，把自己刻在了总统山上 <https://news.google.com/rss/articles/CBMiggFBVV95cUxPUDhYc2V5UDZIeF8wNVpFWG1EMHB0VWZpb0wtV2VTby14NEkwYW1KUGxoT0FqWFBNamdJOVQwU0ZQT0ZwcjAwTXpNOElSd1gwWU4wVWI5bEdDS3Ffd2tMOFJrU2lsRmVVVE9SU0dmQ0wyekdFcXNBb01pcE1NUTkzX2hn?oc=5>
+- **特朗普** | 6月1日财经早餐：特朗普收紧伊核意向协议条款，金价坚守4540上方，美油触及90关口 <https://news.google.com/rss/articles/CBMikAJBVV95cUxPcFk0M2R3bVY4SFdqV283WnFQUFRfTE05WmN5dW1pbjAxX2dzV3lXUktZRkRDOEFibGM3aS01Z0JZb0pnS0dRVnBkNThDVk9OZmpFbGt1QmVKaGpUd0F4eG1yTkl6ZDZiLUxaYjB6WEd2bm1UbDhQVmd1bzlRUkJMckM0SlF5MUpiVFUtNTRhZnMtUmlrTXhWTlUyTGJwcmNhdTV5a0wxb2Q3MTRvblVLc1dsdGZKUW5mWEJKWVp1WW9GdU9SbWdjbnU2MDc0RHAtVFVhU28tcGxnX1VTQkFqTWtTUGVoMFFmbWJaeE9EanJZVnVsUlZrV2FmaExJS19TR1JKZDZtUnZrMlJDQkw2Uw?oc=5>
+- **特朗普** | 特朗普年度体检报告：比去年增重超6公斤 “认知和身体状况非常好” <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzb3dPcFVpRmZEQUdUWDZRdTFIUVV6MEx6aXZjNm1LZ0hFQTZUbHhEZUtsU19LMGFDcVVrRksyWmFCRmdVcmt5QjVYOGZVbVdBYW9fUGlTVzB0WXhSSy1NTTBoRk5zUQ?oc=5>
 
 ### 2026-05-31 21:55  (3 条)
 
