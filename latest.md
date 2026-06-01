@@ -1,118 +1,136 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-01 16:34**
-- 本轮扫到 2473 条, 新增 **13** 条
+- 最近更新: **2026-06-01 20:52**
+- 本轮扫到 2486 条, 新增 **13** 条
 
 ---
 
 ## 本轮新发现 (13 条)
 
-### 周杰伦宣布举办无限流演唱会
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6514443328_1844a844004008ltno.html>
-
-### 卡拉希平台：鲁比奥2028年共和党提名赔率逼近万斯
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-01 15:48
-- 链接: <https://news.google.com/rss/articles/CBMikwJBVV95cUxOWG9ENFBPNVNURDZaZWtGeFljQklFVTVmZ3Fock54bC1VNDRCUF9rbnNMQndDeG9IOHlUX29ZRlVIRjZSV3hNQjZTRFhZa09oYTYyMTlQOWcwcFZEdTZnS2I4UTViUlV3dk1UbVJZTVNoZUl4NDhBVFdQX1p0eWRHU3g5NjNVeF93QThwLWp1bVBtNUw0VFM2X0lvUGE4R1A4NzR3MVhBQlJoc1otVzJIUEg2eWVFZ1loSEN4WWFqUW92dkE3UnRkU25tRmdnX1NjU2F4Z2FaNVlpZDZpQnZyWVo1RjBUNlRXZ1EwWTBFb2NQbGRiQmtlVS1EZ1RWWGFRZEJDMkhIWDVwa1hUSk5VWk9pVQ?oc=5>
-
-### 特朗普据报促习近平使普京重返谈判桌以结束俄乌战争
+### 特朗普：已促成以和真主党停止相互袭击
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: RFI
-- 时间: 2026-06-01 15:27
-- 链接: <https://news.google.com/rss/articles/CBMi_wJBVV95cUxQU1VkdnhnMElMQUl6X05oaUxmd1ZZTUhzalRNeDBYWXVsV0RmcWxGVkZFY295VmZWNFJwOHB5Rk1sRUl4alBJUGV0R2F6eFVoa1hnYUJiLUhab01YaFRZazB4ZEc0VlNRTVFrcTJVXzZXY0RTSEpOTENnSkhUWUtlU1FXZ3hjVFZGWTlkYk5qSXFnazFodmJMdEtUMzEwbHIyREs5alIzOEhLRGdZQTNmVWkzWVZqSnJrLVhKcnBfOHVubU44MUhhVF9mQU9kRjJGcHk0V2hyeVV2dzN4Q1BwQzJHTlByZWE1YmRQOFhrckJCWVpjSnpEWHJKZmluMnVHY0l2RzBua3ZHV1Z0MW5uNWZkdkRnX3k2SkhWT0ZmcDhscWNsVjBsd2NDOTkwZ2pZNzZvOE5NcngzdnZ5UWdFNnI0X3dWWGNmYkRCWWhIX2lrNWhwQ19HdTYxTDl0TVJlVXdKZllTT2h4NXpiYXVkYWxCZXNyN2V0Yl9IelBVQQ?oc=5>
+- 时间: 2026-06-01 20:41
+- 链接: <https://news.google.com/rss/articles/CBMirAJBVV95cUxPTVhjLW5KSjRlR3NDSUV6YXJLbmJRYUhLMTJVakYwYWhoUGdkbV9NUkduYWxDaU5wN05YNndqMjA4aEdsYVBhNDFEc2xSYXU5ZEdXX21IdGlPUVlZSVFnTTBFbnlMVTRDZ0RNUEc5a3NSelVDS0p2NjZwdW84T2FEZDR2T2dVV3h5WVlIaHJYNXVLSDFxRkx6Qjlfbkd6eG1qX3FkS1F1a2k5SmdpRmJHc2R5dkNlaHpPUS1uTWw1VHZNVGd5YklJU29hMjktQllVUGhyekhtaUNjbEQxNVRwODYzbi1zLVVpTTNOZjNldG1KTkRqZ0ZMcTVaN0hoU25sR1hmOWlkcmdrWThnVThleW4tTnA2Nkpvc2NLT1h5c0l2NkNIQXJ3aGhhQUU?oc=5>
 
-### 特朗普80岁生日，白宫将办格斗赛，最近距离观赛要花超过100万美元！美国250周年国庆演出，多名艺人已辞演
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-05-31 16:16
-- 链接: <https://news.google.com/rss/articles/CBMiwgFBVV95cUxONG45b3RTeTNOdjd1aXZkdE1TUk9LN3UzS1VoYV9ZSHdwejd1b0dhWU1aN3lQMjF2NVVxX1ZMckl1Y0tvQ2kxcHpPZ2FUcUdCa1lLVWJtNVVHZy01X2ZvMFRrakdsOWowNWpYc0VVa3pHZkRhaVQtcmZvNnc0b3BvUVBTMGxxZXk5UlpVN1h6T0NmeFEtemJZendzZ3pLMDZTcVBoaUhPdXZpUk80WG12N3NiWkV2SUtxc3FmRG56QmJ6UQ?oc=5>
-
-### 叙过渡总统与特朗普通话谈取消制裁
+### 特朗普家族的初创企业计划向军方部署人形机器人
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中国网新闻中心
-- 时间: 2026-06-01 11:48
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTFBmb0tYWUZJc0hRRWN3TUtiMWk3dFl1TFh2RnExVnBtNzNIM2JhMEtCRkpkenlEckF5MW5xdUdHbXpkeVlEWkRsa3cta1J4MUtpSlZNbjkzc2xVbkJlNGw5MjFJZW5CS00xcWg0?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-06-01 17:28
+- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxQZFdGNFlMNVIza2szNDNTX2w2Nk53UUlMa2d4Y2VVOEJLM09QWjl4bGEyV1hEajM0UzUyM0ZlV1c5YVIzdm5DQzhTZXFOLU12bHdaeG1EZEEyTHROcG5oTERZSVFsYVA4QTlvdlgzUHcyYm1LUkFQajZnT080QVFkV3pEOHlzZFh0dXc?oc=5>
 
-### 特朗普站台“嗑药奥运” 挑战体育精神底线
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-06-01 10:11
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE83SFZOdHV2RlVUdU41OHBHbEhMdEczb0RlM005NW4tNTl1cmdac19yeXNKVkpDSS1USjhMN3Y2cTVjX2NWd1hLYUpjUFRqemEwc2xPcGVZWjNiQXpzckt4d18zY2w1WnpiRGRScFdTenE?oc=5>
-
-### 特朗普称伊朗“确实想要”达成协议
+### 特朗普宣布：以军从贝鲁特折返，真主党同意“射击将会停止”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 央广网
-- 时间: 2026-06-01 06:18
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfcXlReWFiUUdGUlF4RGZlWHc1aFJZaF8zMDl0aWFCN0p1dUVZUkkxYVUyVU9ucWlvUkd2bzdvTG12VHE1SnNiNXRlY2RjZFVYYWt3QjlqZFB1anJESTZFQTNKVGxMWGl6?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-06-01 19:47
+- 链接: <https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMGk5QmhrV1dCT3VHTTFWbWMwajlOaTdGa2FyYmh5Znh0TGRkNmJjUG1wLUVseW40WDlqMnZiQU95UHlfSkkwaWdUWERZbTUxU2ozdTVsNmlvYVA3UjRCZ1MwcXpaN25jMzhRVXpfd2FCUlc5aGp1MXdidEw0cjBYNEZ4TExGNnN0bHhReF9RaDJTSVVSNEdzd3d0R003UDlxdzJhVi0xc25XMGZELTJDOUlNMEVPQ3FBeGctdGxMNHkwQzEtTFBwZVpiSXp1MDFuQzJzV3pNYlMyMVhMYkR6WGl4UW3SAecBQVVfeXFMTnNVWmp2NVVNTDFtNXoybkpQUGJWTndhQ1JuOVd2bEdueWtYUWJGalpHVWVyQ3pnU2sxVzM4VUZJMkFYZWh2NDJna3hBeXJlY2xHanVQekhVVEJnZlYxSVpQNkFzY01CLThZdzdsTFpkNXFheDZiSFlEZDREelhyMTJyZnFRVmR5WVU5aGtLUDlmaFRrZWtpdm85andpcGpkUUpmcFgyVEZRZFdySkVUZEM3eEtGeW41bkQteVBPaGQ3R1VBTk1fWEpLaGR4X0VVNkRpQWNmanNxa3JuSHdtalhQSFp2QWFZ?oc=5>
 
-### 特朗普提出更强硬条款，伊朗同步：已准备好谈判破裂
+### 特朗普：以色列和黎真主党的所有交火行动将立即停止
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-05-31 23:48
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1mSm1hRWV3eTlCWUpuT1JLTWpzaTF6V3ZqekNpVVhzYU40Nk4wbXU4a2F1dTRaNW5rbm1RQVNrQW1EcFVRc1NPVkpRSnRybmhsZElnX1NrOFJnZG9qWHNoZkpQYzR6YWlJRnc?oc=5>
+- 场馆: 央视网
+- 时间: 2026-06-01 19:07
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5NcmVadlJQQ1BZRnp6UGRTa2VzbDdGOS1NNGxidXE2R1JXdm5LZEQ1bFJvblFFT1kxT19va1JqajB0N3JSWmZ3VWhwSTJGeGZEVXJkMk1aVU9zei1NX2c3ZFl4cWRmbHUtZGU5SG45bEFOVGtEV1hNRw?oc=5>
 
-### 《美国观察》190 | 美国“大而美法案”的政策逻辑、实施困境与深远影响
+### 特朗普：以色列和黎真主党的所有交火行动将立即停止
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-06-01 18:03
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1mUlFURENWamcyMFNqT1lfMWFPUjdmUGZrTlU2TmNCT25ycFBtOEFOV0tQMnRqd205M1BuS0tJN2tacjhBdHJMbWlnRQ?oc=5>
+
+### 特朗普表示美伊谈判仍在“迅速进行”_新闻频道_央视网(cctv.com)
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 同花顺财经
+- 时间: 2026-06-01 19:08
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE5kcEFKbzEzVnRQSUw0WHYyU2NndWFNbDNhUHVvWjUxX1BodS1oWEFxaVJVZk1MUlhkSFczc20xN3kzb05xX085VC02V3dUOGZwWWFzRnkzSnFleGk3T2c?oc=5>
+
+### 特朗普称尚未收到伊朗暂停谈判的消息
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-06-01 17:25
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRZVZBVl8zUlB5YWdrQzVjbzdscGY5YndFQ21maEszVkFna3kzV01JS0pLZnRyY2JzOG9HVHVqd1JMZkh1YVdWbWZBYVVOam5tU0tpYTdhSTE0eERUbUc5LQ?oc=5>
+
+### 美国对越南再次开启301调查，解析特朗普政府贸易施压路径
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 第一财经
+- 时间: 2026-06-01 11:50
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE40QlBZeHVFYm5LTzRGckFtWUlqcTFEeGk0MlJMaXlVTnkxblZSbjhfeERQR3c1NHRxM1RzaGhKWjRwR2NONk5oTDhsaGE4WUNPNG5v?oc=5>
+
+### 特朗普回应伊朗暂停谈判
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-06-01 16:33
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5kSkh1bTZBNEZKOUhGclE0Z3lJVlI5a2tQTGZHTm81ZmVfYnAtYmtyc0RCTV9fc0FBUUtfd3JUdnQ5US1DQnZIdmFxSEg?oc=5>
+
+### 伊朗暂停与美谈判 特朗普称协商仍快速推进
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-06-01 18:46
+- 链接: <https://news.google.com/rss/articles/CBMixAJBVV95cUxPdVI2MElPX19PdEsyYWVCbEhQRHFEVkx3T1FvZlZ6c1RscFhIMk5oQ19GRGFqcGpKRmVxeWYtY0F6ejVfQUZWeUJ0UTEzTkNlRFVBMGtOaG1TNkhnakpWcHN6T0FQSVdycmhqUzhERC1iVTJEckhacm1haEJwbjU1S0tBc1FKaTZtbHlwRlJOeHFEYWdmb19FRW9abVRUYTA1QlQ4WjB1Q2E5VTBmYXZ3YVJaaTc2MWh3TE8xd2NSNEtHSFd5NDZTSFJnaFhjcFJheHdhalphaC04QmNJbmppZGRpQTQ3SE9JOXljRGJwT2dFUFJXOEtoRnNjOExqVDlUMmFaaklvbVdPdU9BNWh3OWVaM3JIeC1rR28zaFl2QlppZmFFdkszeDZrRWo3eXpnQjJFNkx5ckxCbjRNRXZsQXNDODQ?oc=5>
+
+### 特朗普：对美伊谈判是否破裂“毫不在乎”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-06-01 17:28
+- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxNTnJaWnhocDh5bi00c3dBcHVuektEZTR1ejM5TjIxalNrM3U5UnQ5OVo0QXd4U0Z5WTVGVVdYQXpmMlNLMjlMMmdBakxJeC1GNUhNN0p0RmdNUmR5eS04Vmw0T285V0JqR0JiQW9jVVFaMEZ3cl82WDNEODIzWnFfRjdmOFlrRVFaelE?oc=5>
+
+### 美股造好 因特朗普称以色列与真主党将停止战斗
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 清华大学战略与安全研究中心
-- 时间: 2026-05-29 07:00
-- 链接: <https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQRGtXTWNidnVNVU9YUjQ4eUpsZUFIT2xnamljbnpycm80eW1heVJwdDljZHM3d3pRSl8zbFpQa3MyTWp3dEF3SnlMeEl0WEh1WkJnQi0tQTBiUXda?oc=5>
+- 场馆: AASTOCKS.com
+- 时间: 2026-06-01 20:16
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTFBCanZ4UkEzVVk0MGdzLXNnb2JrQ1VKTDZ6SG5QbUczaF9temtma0x1V05nNFE1VWFvNHRJVkJfX0lCNkVzNXFfUXZ2aGdPdDl4RmUwTFVDMm8yV1FuWFc5NmxGWkVDaHFWTnRST2Vybw?oc=5>
 
-### 点石成金？特朗普“旧吹票视频”扩散，IBM盘前大涨15%
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-06-01 13:28
-- 链接: <https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZVU0UkVueUNMaTVDLXR3bDhzaFVBMWk1Z3lYcGkwVTJQODBuTTl6bUxlZno2ODBzcXJvdWZtdl9LTHJZWXpIUGg4MUFXRVhHT1ZpekF1dWkyS3ZBMkRpcHN3amJMOHNYdUQ3UFd3a0dnQW1aVEtXbEYwVzJkdmEwZFdVNTBLXzZsZHdLZnpLaFhsRVI0SWllRjFoMjBGQ3pRN1JxWFN2bXU?oc=5>
-
-### 台湾国民党主席郑丽文访美 恐无缘会晤特朗普政府高层
+### 美股指数上扬 因特朗普称以色列与真主党将停止交火
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-06-01 12:11
-- 链接: <https://news.google.com/rss/articles/CBMiowFBVV95cUxNc0FLeE9QSkFvTXR4cGphSEtzTENXSUZDSlM2cWduVzU5ZHFScmU5RkJmcWJsbW10Sk4xc3JhOWNuYkFRc29XUXI4S0NVWUU1UzZ2ejREa1drSHNCcVRCblZOWjhrdXVYMUNIbGNZUm5RTmRzcU1wUnNMWlkyZnFrRHFVYmwxS3JJTGlaZmNPaTluOHZRbWw0X1JoRVNYMEo5c1BV?oc=5>
-
-### Dow Jones Top Markets Headlines at 7 AM ET: Oil Prices Rise After U.S. and Iran Strikes Threaten Trump Peace Deal
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 富途牛牛
-- 时间: 2026-06-01 11:00
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxNcEY1N1FtRjdfclVoby16Ymk3WmRjVWwxN1ZqVFNWdk5zcllBa0U5N0pHOWV2WkN1dWFXZTdsc3NwNTdtc0o3QzNqLUNfRVhLTXNLNng4NkhWLTNEdnNNa3dscldZVHY4N1Ezc2VpdWNtTjZ2dHUxWGRuZ241TG5Rc0QySkJYWTNZbDc0WA?oc=5>
-
-### 第428天：降息 +特朗普2.0 第496天
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-06-01 15:46
-- 链接: <https://news.google.com/rss/articles/CBMimgFBVV95cUxOUXZNRVVFVVUzR0daUzRzejNwSF9GdERhY3lzU1I1SUdMRkJXTHNoTFFOalhDczR4SUhROEIwOHhPc2syQjZuTGFDRU11YV9WVm9EaXozUEpCYndKZURNbWs2S2JqR2l3YzRWQ0hYM2wwYWJ2TG5uamF3d2k1ZzFzMHpnQlppT2NyaW1EZWFrTnREcU1RQ2hWcWh3?oc=5>
+- 场馆: AASTOCKS.com
+- 时间: 2026-06-01 19:54
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTFBleUQ4QjRLX3NDUlV6OTMzTXVyQWVLVHA3VmJVYWhycVNFY1BhVWNfMlJSQmFibFBLY0FlZVdORElaOVlEa2t4N1N3cXdLRjNHRHhYV2RWa243dVVNN0d2YmpvOVBwanljVUdPMk5KVQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-01 20:52  (13 条)
+
+- **特朗普** | 特朗普：已促成以和真主党停止相互袭击 <https://news.google.com/rss/articles/CBMirAJBVV95cUxPTVhjLW5KSjRlR3NDSUV6YXJLbmJRYUhLMTJVakYwYWhoUGdkbV9NUkduYWxDaU5wN05YNndqMjA4aEdsYVBhNDFEc2xSYXU5ZEdXX21IdGlPUVlZSVFnTTBFbnlMVTRDZ0RNUEc5a3NSelVDS0p2NjZwdW84T2FEZDR2T2dVV3h5WVlIaHJYNXVLSDFxRkx6Qjlfbkd6eG1qX3FkS1F1a2k5SmdpRmJHc2R5dkNlaHpPUS1uTWw1VHZNVGd5YklJU29hMjktQllVUGhyekhtaUNjbEQxNVRwODYzbi1zLVVpTTNOZjNldG1KTkRqZ0ZMcTVaN0hoU25sR1hmOWlkcmdrWThnVThleW4tTnA2Nkpvc2NLT1h5c0l2NkNIQXJ3aGhhQUU?oc=5>
+- **特朗普** | 特朗普家族的初创企业计划向军方部署人形机器人 <https://news.google.com/rss/articles/CBMiigFBVV95cUxQZFdGNFlMNVIza2szNDNTX2w2Nk53UUlMa2d4Y2VVOEJLM09QWjl4bGEyV1hEajM0UzUyM0ZlV1c5YVIzdm5DQzhTZXFOLU12bHdaeG1EZEEyTHROcG5oTERZSVFsYVA4QTlvdlgzUHcyYm1LUkFQajZnT080QVFkV3pEOHlzZFh0dXc?oc=5>
+- **特朗普** | 特朗普宣布：以军从贝鲁特折返，真主党同意“射击将会停止” <https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMGk5QmhrV1dCT3VHTTFWbWMwajlOaTdGa2FyYmh5Znh0TGRkNmJjUG1wLUVseW40WDlqMnZiQU95UHlfSkkwaWdUWERZbTUxU2ozdTVsNmlvYVA3UjRCZ1MwcXpaN25jMzhRVXpfd2FCUlc5aGp1MXdidEw0cjBYNEZ4TExGNnN0bHhReF9RaDJTSVVSNEdzd3d0R003UDlxdzJhVi0xc25XMGZELTJDOUlNMEVPQ3FBeGctdGxMNHkwQzEtTFBwZVpiSXp1MDFuQzJzV3pNYlMyMVhMYkR6WGl4UW3SAecBQVVfeXFMTnNVWmp2NVVNTDFtNXoybkpQUGJWTndhQ1JuOVd2bEdueWtYUWJGalpHVWVyQ3pnU2sxVzM4VUZJMkFYZWh2NDJna3hBeXJlY2xHanVQekhVVEJnZlYxSVpQNkFzY01CLThZdzdsTFpkNXFheDZiSFlEZDREelhyMTJyZnFRVmR5WVU5aGtLUDlmaFRrZWtpdm85andpcGpkUUpmcFgyVEZRZFdySkVUZEM3eEtGeW41bkQteVBPaGQ3R1VBTk1fWEpLaGR4X0VVNkRpQWNmanNxa3JuSHdtalhQSFp2QWFZ?oc=5>
+- **特朗普** | 特朗普：以色列和黎真主党的所有交火行动将立即停止 <https://news.google.com/rss/articles/CBMieEFVX3lxTE5NcmVadlJQQ1BZRnp6UGRTa2VzbDdGOS1NNGxidXE2R1JXdm5LZEQ1bFJvblFFT1kxT19va1JqajB0N3JSWmZ3VWhwSTJGeGZEVXJkMk1aVU9zei1NX2c3ZFl4cWRmbHUtZGU5SG45bEFOVGtEV1hNRw?oc=5>
+- **特朗普** | 特朗普：以色列和黎真主党的所有交火行动将立即停止 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1mUlFURENWamcyMFNqT1lfMWFPUjdmUGZrTlU2TmNCT25ycFBtOEFOV0tQMnRqd205M1BuS0tJN2tacjhBdHJMbWlnRQ?oc=5>
+- **特朗普** | 特朗普表示美伊谈判仍在“迅速进行”_新闻频道_央视网(cctv.com) <https://news.google.com/rss/articles/CBMiXkFVX3lxTE5kcEFKbzEzVnRQSUw0WHYyU2NndWFNbDNhUHVvWjUxX1BodS1oWEFxaVJVZk1MUlhkSFczc20xN3kzb05xX085VC02V3dUOGZwWWFzRnkzSnFleGk3T2c?oc=5>
+- **特朗普** | 特朗普称尚未收到伊朗暂停谈判的消息 <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRZVZBVl8zUlB5YWdrQzVjbzdscGY5YndFQ21maEszVkFna3kzV01JS0pLZnRyY2JzOG9HVHVqd1JMZkh1YVdWbWZBYVVOam5tU0tpYTdhSTE0eERUbUc5LQ?oc=5>
+- **特朗普** | 美国对越南再次开启301调查，解析特朗普政府贸易施压路径 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE40QlBZeHVFYm5LTzRGckFtWUlqcTFEeGk0MlJMaXlVTnkxblZSbjhfeERQR3c1NHRxM1RzaGhKWjRwR2NONk5oTDhsaGE4WUNPNG5v?oc=5>
+- **特朗普** | 特朗普回应伊朗暂停谈判 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5kSkh1bTZBNEZKOUhGclE0Z3lJVlI5a2tQTGZHTm81ZmVfYnAtYmtyc0RCTV9fc0FBUUtfd3JUdnQ5US1DQnZIdmFxSEg?oc=5>
+- **特朗普** | 伊朗暂停与美谈判 特朗普称协商仍快速推进 <https://news.google.com/rss/articles/CBMixAJBVV95cUxPdVI2MElPX19PdEsyYWVCbEhQRHFEVkx3T1FvZlZ6c1RscFhIMk5oQ19GRGFqcGpKRmVxeWYtY0F6ejVfQUZWeUJ0UTEzTkNlRFVBMGtOaG1TNkhnakpWcHN6T0FQSVdycmhqUzhERC1iVTJEckhacm1haEJwbjU1S0tBc1FKaTZtbHlwRlJOeHFEYWdmb19FRW9abVRUYTA1QlQ4WjB1Q2E5VTBmYXZ3YVJaaTc2MWh3TE8xd2NSNEtHSFd5NDZTSFJnaFhjcFJheHdhalphaC04QmNJbmppZGRpQTQ3SE9JOXljRGJwT2dFUFJXOEtoRnNjOExqVDlUMmFaaklvbVdPdU9BNWh3OWVaM3JIeC1rR28zaFl2QlppZmFFdkszeDZrRWo3eXpnQjJFNkx5ckxCbjRNRXZsQXNDODQ?oc=5>
+- **特朗普** | 特朗普：对美伊谈判是否破裂“毫不在乎” <https://news.google.com/rss/articles/CBMiigFBVV95cUxNTnJaWnhocDh5bi00c3dBcHVuektEZTR1ejM5TjIxalNrM3U5UnQ5OVo0QXd4U0Z5WTVGVVdYQXpmMlNLMjlMMmdBakxJeC1GNUhNN0p0RmdNUmR5eS04Vmw0T285V0JqR0JiQW9jVVFaMEZ3cl82WDNEODIzWnFfRjdmOFlrRVFaelE?oc=5>
+- **Trump** | 美股造好 因特朗普称以色列与真主党将停止战斗 <https://news.google.com/rss/articles/CBMib0FVX3lxTFBCanZ4UkEzVVk0MGdzLXNnb2JrQ1VKTDZ6SG5QbUczaF9temtma0x1V05nNFE1VWFvNHRJVkJfX0lCNkVzNXFfUXZ2aGdPdDl4RmUwTFVDMm8yV1FuWFc5NmxGWkVDaHFWTnRST2Vybw?oc=5>
+- **Trump** | 美股指数上扬 因特朗普称以色列与真主党将停止交火 <https://news.google.com/rss/articles/CBMib0FVX3lxTFBleUQ4QjRLX3NDUlV6OTMzTXVyQWVLVHA3VmJVYWhycVNFY1BhVWNfMlJSQmFibFBLY0FlZVdORElaOVlEa2t4N1N3cXdLRjNHRHhYV2RWa243dVVNN0d2YmpvOVBwanljVUdPMk5KVQ?oc=5>
 
 ### 2026-06-01 16:34  (13 条)
 
