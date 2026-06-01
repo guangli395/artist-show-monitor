@@ -1,29 +1,39 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-01 05:23**
-- 本轮扫到 2448 条, 新增 **10** 条
+- 最近更新: **2026-06-01 10:36**
+- 本轮扫到 2460 条, 新增 **12** 条
 
 ---
 
-## 本轮新发现 (10 条)
+## 本轮新发现 (12 条)
 
-### 蔡徐坤马来西亚音乐节彩排曝光5月30日压轴登场
+### 蔡徐坤音乐节携玩偶coldy登台，温柔互动引粉丝模仿
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5556631847_m14b3379270530220g0.html>
+- 链接: <https://k.sina.com.cn/article_5239863155_m13851f773033018xea.html>
 
-### 周杰伦新专先行曲发布 热搜和播放都“爆”了
+### 蔡徐坤携玩偶coldy亮相音乐节称其为特别嘉宾
 
-- 艺人/关键词: **周杰伦**
+- 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019068cks.html>
+- 链接: <https://k.sina.com.cn/article_6436652527_m17fa785ef03301dsw6.html>
 
-### 周杰伦：不开演唱会、不打球、不等文山写词，新专辑一个月就做完
+### 特朗普指责CNN：又老调重弹发假新闻
 
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019068ca2.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新蓝网
+- 时间: 2026-06-01 08:07
+- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE1DaGs2anNVeDltZmhxWVlUSjNSdnM0d1lJU28wMnVZYi1TWUhaMkkxZGdIRV9rNDEwZGlMYk00U1Y4dDdzR1h1U29xQ1gzX1k?oc=5>
+
+### 特朗普称伊朗“确实想要”达成协议
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 紫牛新闻
+- 时间: 2026-06-01 06:34
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFB5bVowalcyZGFRcE9BRHc2eVdPTHppQXBHTFNnb0IxUEItSWd5dGpuTzhGQ3B6eG44STUtMTlQWVlHNVRxNWlTTHRJX0h0M1MtQWR4cjhIOHdFS25VV3RBUkdXTU5BNW9kUHc?oc=5>
 
 ### 叙过渡总统与特朗普通话谈取消制裁
 
@@ -31,60 +41,83 @@
 - 来源: `googlenews`
 - 场馆: 新华网
 - 时间: 2026-06-01 04:25
-- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE9TLXBJb1A5M2hObkNnUTdkbXhzVHNLZm1HOVRMeUtqbFdxMEk3ZGxJakdmZmFZRHk2dlZxVlMwTzBUb0xsS0t2b19vaDNoNHdONTlMOXFBbXMzb3Z4TG9TQkRPZjBITjdEUmVyQ1dMR01pRndCRV9CcEN5M3FUZw?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFB3YUQwcTFrcGd2elAtclJQS1E3c1AyRHdYek45eGE3SmhLekdFZzJna2FoNENyYnlkZEhVbFQ2aFhxZTdIYzBPRWVXczFHeHBxVTQ5b0tlay0yTlVRdENoSXFnUXJTODdWT2pyOHpqR0loTDRqa3JsRzRPaXAwSlk?oc=5>
 
-### 特朗普坚称美伊协议“明确禁止”伊朗拥核 发文批美媒体假新闻
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 紫牛新闻
-- 时间: 2026-06-01 03:15
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1uNWFqVXgtam9QYW5BVzNoUEE3OFdwbElTUzZwRV9tbWRPUlNPR0pKMnJnYkRLOXFlNXZ3VktjVzBZZEQtSE5oODlCazBSdnBwWnBTZVUxSl9NcTlsZTdTcGhVc1l3X2F5R1E?oc=5>
-
-### 特朗普最新健康状况公布-腾讯新闻
+### 6月1日财经早餐：特朗普收紧伊核意向协议条款，金价坚守4540上方，美油触及90关口
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: QQ News
-- 时间: 2026-05-31 00:46
-- 链接: <https://news.google.com/rss/articles/CBMibEFVX3lxTE1tZ0JnSUR0bXVXTk85SmtjeDFPTlpxd2loS0lrdVBTSEdGRzRfbFp3TEpQVS1OQ05XQm8wNmViTHh1NmczX3JKQkhNX0REXy02R2syclR5Uko4WV9mTy1Wd3Y2WTQxbDJ5amM2Qg?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-05-31 23:50
+- 链接: <https://news.google.com/rss/articles/CBMipgJBVV95cUxNc0Fnd24zRldubjV2Vi1NQnppLXNPam9qLWY5aDZnZGNHOVNxemNFa2NvSHdZSW1XWDlraU95REF6d29rWXdRYmRuQWpGYUhNSzhKWmJMS1h2VGpfdHZLYzBoUzBfcXA2SktMbXhZT2p4MjNPLVJlNXo4c1VUdHZOVi1kSWxVd0ZXVXhtelJYQ2dZLWVrWXU3bGNSS1p0azlqek5EZmthVmJ1TjB4SFRrNlVzSGp6T213NEhJd0YwSHB6SE96bzZVdmlXQXpzNzBfOUJsRkhtVUk1bVJZQndjNTJuRmw3bVU1RFhNRy04YndhS0k5RlM1b0t1cUo5TlJHbmVZamx1NTgzQnNLNVZsbnVMbnJPaTBWNV9kT0ozelNnRFFacnc?oc=5>
 
-### 美媒爆料：特朗普越来越质疑万斯的实力，并抱怨他休假太多
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-06-01 02:01
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5lY1hCdjZIWWY2bkx4cURwSEo2Z3VQbWFKNGRURVBudHlBYWY2NVNmR2MtakpHYWQzQVRfb2todlJOTWFwSUZhYzQ4YTk?oc=5>
-
-### 特朗普拟改《美墨加协定》：半数汽车部件须“美国制造”
+### 特朗普威胁“炸掉阿曼”粗暴又荒诞：美国的强权即是“规则”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-05-30 00:53
-- 链接: <https://news.google.com/rss/articles/CBMizgJBVV95cUxNTF82WkoxdGZfUXM2cENfSjR1Y0t3dm5yMk84a2FXbERlclZNTjF4QVBnQWhvTDNEYWN4cHdjQzRVbHpjRU9tdGdaN3BaVVBHNFVsMHhKQmVtTzVBVk1UVGh3cWtQbFQxNTFnazlUV0dZV1BRNVV1SnJMQnFOeUJYWlgzbjc1amw1c0QtVjhhU2Q0ellycFlYNDQxSDExby1Wb2F0czZBMnVwaXZiWkhBaHExVHczdkhyWUFfNVJjTXhLeHhCSU1DdHgtQTQ1WVN3LTd2TVZvU0d2NDNTLTFmR0tySVdKWkdITnJ1cTBNMGkxUFhkQXFwcEhzeUpacUZWVGNicENOWDFHTURWSGRlV2ZPVmoydXIzLVJZV3hEYXd0RjdtU3FWX291bVVkZnhPR2JtZ2M3QmtqVjNzaGVUWl9yNGdQbEd1Y2V1SDd3?oc=5>
+- 场馆: thepaper.cn
+- 时间: 2026-06-01 06:50
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Jd3FfQ0phc19Ob041ZFl4UjVEV1BNWkR2UHJYT2ppOEhuUURfczY4VDl4ekZidU5HOXprQnd0V1o2Z3JrTndIcnRnaUdpZE9GdEpzMWpJWnRSWWV3cV95aw?oc=5>
 
-### 特朗普：正“缓慢但切实”地接近与伊朗达成协议
+### 美媒曝特朗普最新态度，民进党幻想再破灭，“台独”立场松动了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-05-31 23:42
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBtRGhtWjlNS0FXdTJraHdtTXFvUnFVR1BieEQwNm04XzlrUVh0UUt5ZmRPem41UVpHOWZ4S1JjNkRVT01sTDZrR213Yw?oc=5>
+- 时间: 2026-06-01 03:47
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1BeU5qUEVEbzZiT0N2dEszQXV3QUF5OFFwWjlnUXBGNWNCNE1LNFdYUjFpYThhZjVrUXdVamlhbXFXbGhnVzA3UUUwRlI?oc=5>
 
-### yerlin_ (@yerlin)的见解
+### 特朗普发文：伊朗“确实想要”达成协议
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: chinanews.com.cn
+- 时间: 2026-06-01 06:16
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBieVZNY3UxcmdpWnRqdUxXbTVJRjJrMW4zOUoxcjY0bno4cWJmWWVtTzVXSGMtN0MzU1ZlVUVNNDdXakpoaEJhTm1pMENKd3F2TUo0NjBva2FKMjMyNXRCbFZ5aGxPdzJQ?oc=5>
+
+### 特朗普指责CNN就伊朗问题发布“假新闻”，坚称美伊协议“明确写明伊朗不会拥有核武器”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪军事
+- 时间: 2026-06-01 04:49
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE9SY1dxbkRMSU5qQWtCdHUwbjN0QU5OcFVtYmZnUlZQQzRBUnVvSVV3SFh1em14QTE4QXZZSnF5bzVRUktiVG1sdUJHMkFITUpESmRRVzdnYUFYQ2EtVjFNWDBmWlZXZnFtOE9yVnBhSGhycm8?oc=5>
+
+### TRUMP/USDT
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: Binance
-- 时间: 2026-05-31 00:43
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BQlRQbzVwS1Fwa3VTQU1yY192bm1yWFpGLXlmNGxhN1NKaGNiWVdJZEJaMURuckp6b0ZuT0xHankwa2U3RC10YXFnc0ZBYjNsUV9TYjAwR0xaU1NYRlJ0MFhqdnFLZ0N2?oc=5>
+- 时间: 2026-05-27 18:18
+- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTE1LdE1ROGQ1R19BbFJaMGNndmd4MGIwbk1vVk5qMGxfakw0VjFnNTdnRmkzQVIwR1NJZlB5elRsdDZzS2JZQ25BMXJDbDBILW1nRlk5OFNPRFlXaGlZQ0FTWVZNMEU5YTBNRnZScFY4ZnNrUU81Yl9Sa2htWQ?oc=5>
+
+### Trump於白宫会见巴西总统候选人Flavio Bolsonaro
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: AASTOCKS.com
+- 时间: 2026-05-26 23:18
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE1RMEZsRHNOcG93Ymx6T01ULW5PN1RQdEN3a1ZIU0NDdkxDSDhCSTduRlZaMklIb0FPak1nNDBGelBEXzJSaEhPVU9NdlVmUUY5V0lhd095em83bVlrbU5iVXZoUFBURnhKWS1mckNoMA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-01 10:36  (12 条)
+
+- **蔡徐坤** | 蔡徐坤音乐节携玩偶coldy登台，温柔互动引粉丝模仿 <https://k.sina.com.cn/article_5239863155_m13851f773033018xea.html>
+- **蔡徐坤** | 蔡徐坤携玩偶coldy亮相音乐节称其为特别嘉宾 <https://k.sina.com.cn/article_6436652527_m17fa785ef03301dsw6.html>
+- **特朗普** | 特朗普指责CNN：又老调重弹发假新闻 <https://news.google.com/rss/articles/CBMiT0FVX3lxTE1DaGs2anNVeDltZmhxWVlUSjNSdnM0d1lJU28wMnVZYi1TWUhaMkkxZGdIRV9rNDEwZGlMYk00U1Y4dDdzR1h1U29xQ1gzX1k?oc=5>
+- **特朗普** | 特朗普称伊朗“确实想要”达成协议 <https://news.google.com/rss/articles/CBMiakFVX3lxTFB5bVowalcyZGFRcE9BRHc2eVdPTHppQXBHTFNnb0IxUEItSWd5dGpuTzhGQ3B6eG44STUtMTlQWVlHNVRxNWlTTHRJX0h0M1MtQWR4cjhIOHdFS25VV3RBUkdXTU5BNW9kUHc?oc=5>
+- **特朗普** | 叙过渡总统与特朗普通话谈取消制裁 <https://news.google.com/rss/articles/CBMif0FVX3lxTFB3YUQwcTFrcGd2elAtclJQS1E3c1AyRHdYek45eGE3SmhLekdFZzJna2FoNENyYnlkZEhVbFQ2aFhxZTdIYzBPRWVXczFHeHBxVTQ5b0tlay0yTlVRdENoSXFnUXJTODdWT2pyOHpqR0loTDRqa3JsRzRPaXAwSlk?oc=5>
+- **特朗普** | 6月1日财经早餐：特朗普收紧伊核意向协议条款，金价坚守4540上方，美油触及90关口 <https://news.google.com/rss/articles/CBMipgJBVV95cUxNc0Fnd24zRldubjV2Vi1NQnppLXNPam9qLWY5aDZnZGNHOVNxemNFa2NvSHdZSW1XWDlraU95REF6d29rWXdRYmRuQWpGYUhNSzhKWmJMS1h2VGpfdHZLYzBoUzBfcXA2SktMbXhZT2p4MjNPLVJlNXo4c1VUdHZOVi1kSWxVd0ZXVXhtelJYQ2dZLWVrWXU3bGNSS1p0azlqek5EZmthVmJ1TjB4SFRrNlVzSGp6T213NEhJd0YwSHB6SE96bzZVdmlXQXpzNzBfOUJsRkhtVUk1bVJZQndjNTJuRmw3bVU1RFhNRy04YndhS0k5RlM1b0t1cUo5TlJHbmVZamx1NTgzQnNLNVZsbnVMbnJPaTBWNV9kT0ozelNnRFFacnc?oc=5>
+- **特朗普** | 特朗普威胁“炸掉阿曼”粗暴又荒诞：美国的强权即是“规则” <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Jd3FfQ0phc19Ob041ZFl4UjVEV1BNWkR2UHJYT2ppOEhuUURfczY4VDl4ekZidU5HOXprQnd0V1o2Z3JrTndIcnRnaUdpZE9GdEpzMWpJWnRSWWV3cV95aw?oc=5>
+- **特朗普** | 美媒曝特朗普最新态度，民进党幻想再破灭，“台独”立场松动了 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1BeU5qUEVEbzZiT0N2dEszQXV3QUF5OFFwWjlnUXBGNWNCNE1LNFdYUjFpYThhZjVrUXdVamlhbXFXbGhnVzA3UUUwRlI?oc=5>
+- **特朗普** | 特朗普发文：伊朗“确实想要”达成协议 <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBieVZNY3UxcmdpWnRqdUxXbTVJRjJrMW4zOUoxcjY0bno4cWJmWWVtTzVXSGMtN0MzU1ZlVUVNNDdXakpoaEJhTm1pMENKd3F2TUo0NjBva2FKMjMyNXRCbFZ5aGxPdzJQ?oc=5>
+- **特朗普** | 特朗普指责CNN就伊朗问题发布“假新闻”，坚称美伊协议“明确写明伊朗不会拥有核武器” <https://news.google.com/rss/articles/CBMic0FVX3lxTE9SY1dxbkRMSU5qQWtCdHUwbjN0QU5OcFVtYmZnUlZQQzRBUnVvSVV3SFh1em14QTE4QXZZSnF5bzVRUktiVG1sdUJHMkFITUpESmRRVzdnYUFYQ2EtVjFNWDBmWlZXZnFtOE9yVnBhSGhycm8?oc=5>
+- **Trump** | TRUMP/USDT <https://news.google.com/rss/articles/CBMie0FVX3lxTE1LdE1ROGQ1R19BbFJaMGNndmd4MGIwbk1vVk5qMGxfakw0VjFnNTdnRmkzQVIwR1NJZlB5elRsdDZzS2JZQ25BMXJDbDBILW1nRlk5OFNPRFlXaGlZQ0FTWVZNMEU5YTBNRnZScFY4ZnNrUU81Yl9Sa2htWQ?oc=5>
+- **Trump** | Trump於白宫会见巴西总统候选人Flavio Bolsonaro <https://news.google.com/rss/articles/CBMib0FVX3lxTE1RMEZsRHNOcG93Ymx6T01ULW5PN1RQdEN3a1ZIU0NDdkxDSDhCSTduRlZaMklIb0FPak1nNDBGelBEXzJSaEhPVU9NdlVmUUY5V0lhd095em83bVlrbU5iVXZoUFBURnhKWS1mckNoMA?oc=5>
 
 ### 2026-06-01 05:23  (10 条)
 
