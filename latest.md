@@ -1,40 +1,103 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-01 00:03**
-- 本轮扫到 2438 条, 新增 **3** 条
+- 最近更新: **2026-06-01 05:23**
+- 本轮扫到 2448 条, 新增 **10** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (10 条)
 
-### 特朗普在真实社交上发表视频，把自己刻在了总统山上
+### 蔡徐坤马来西亚音乐节彩排曝光5月30日压轴登场
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5556631847_m14b3379270530220g0.html>
+
+### 周杰伦新专先行曲发布 热搜和播放都“爆”了
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019068cks.html>
+
+### 周杰伦：不开演唱会、不打球、不等文山写词，新专辑一个月就做完
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019068ca2.html>
+
+### 叙过渡总统与特朗普通话谈取消制裁
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: video.sina.com.cn
-- 时间: 2026-05-31 23:47
-- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxPUDhYc2V5UDZIeF8wNVpFWG1EMHB0VWZpb0wtV2VTby14NEkwYW1KUGxoT0FqWFBNamdJOVQwU0ZQT0ZwcjAwTXpNOElSd1gwWU4wVWI5bEdDS3Ffd2tMOFJrU2lsRmVVVE9SU0dmQ0wyekdFcXNBb01pcE1NUTkzX2hn?oc=5>
+- 场馆: 新华网
+- 时间: 2026-06-01 04:25
+- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE9TLXBJb1A5M2hObkNnUTdkbXhzVHNLZm1HOVRMeUtqbFdxMEk3ZGxJakdmZmFZRHk2dlZxVlMwTzBUb0xsS0t2b19vaDNoNHdONTlMOXFBbXMzb3Z4TG9TQkRPZjBITjdEUmVyQ1dMR01pRndCRV9CcEN5M3FUZw?oc=5>
 
-### 6月1日财经早餐：特朗普收紧伊核意向协议条款，金价坚守4540上方，美油触及90关口
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-05-31 23:50
-- 链接: <https://news.google.com/rss/articles/CBMikAJBVV95cUxPcFk0M2R3bVY4SFdqV283WnFQUFRfTE05WmN5dW1pbjAxX2dzV3lXUktZRkRDOEFibGM3aS01Z0JZb0pnS0dRVnBkNThDVk9OZmpFbGt1QmVKaGpUd0F4eG1yTkl6ZDZiLUxaYjB6WEd2bm1UbDhQVmd1bzlRUkJMckM0SlF5MUpiVFUtNTRhZnMtUmlrTXhWTlUyTGJwcmNhdTV5a0wxb2Q3MTRvblVLc1dsdGZKUW5mWEJKWVp1WW9GdU9SbWdjbnU2MDc0RHAtVFVhU28tcGxnX1VTQkFqTWtTUGVoMFFmbWJaeE9EanJZVnVsUlZrV2FmaExJS19TR1JKZDZtUnZrMlJDQkw2Uw?oc=5>
-
-### 特朗普年度体检报告：比去年增重超6公斤 “认知和身体状况非常好”
+### 特朗普坚称美伊协议“明确禁止”伊朗拥核 发文批美媒体假新闻
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 每日经济新闻
-- 时间: 2026-05-31 17:14
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzb3dPcFVpRmZEQUdUWDZRdTFIUVV6MEx6aXZjNm1LZ0hFQTZUbHhEZUtsU19LMGFDcVVrRksyWmFCRmdVcmt5QjVYOGZVbVdBYW9fUGlTVzB0WXhSSy1NTTBoRk5zUQ?oc=5>
+- 场馆: 紫牛新闻
+- 时间: 2026-06-01 03:15
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1uNWFqVXgtam9QYW5BVzNoUEE3OFdwbElTUzZwRV9tbWRPUlNPR0pKMnJnYkRLOXFlNXZ3VktjVzBZZEQtSE5oODlCazBSdnBwWnBTZVUxSl9NcTlsZTdTcGhVc1l3X2F5R1E?oc=5>
+
+### 特朗普最新健康状况公布-腾讯新闻
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: QQ News
+- 时间: 2026-05-31 00:46
+- 链接: <https://news.google.com/rss/articles/CBMibEFVX3lxTE1tZ0JnSUR0bXVXTk85SmtjeDFPTlpxd2loS0lrdVBTSEdGRzRfbFp3TEpQVS1OQ05XQm8wNmViTHh1NmczX3JKQkhNX0REXy02R2syclR5Uko4WV9mTy1Wd3Y2WTQxbDJ5amM2Qg?oc=5>
+
+### 美媒爆料：特朗普越来越质疑万斯的实力，并抱怨他休假太多
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-06-01 02:01
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5lY1hCdjZIWWY2bkx4cURwSEo2Z3VQbWFKNGRURVBudHlBYWY2NVNmR2MtakpHYWQzQVRfb2todlJOTWFwSUZhYzQ4YTk?oc=5>
+
+### 特朗普拟改《美墨加协定》：半数汽车部件须“美国制造”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-05-30 00:53
+- 链接: <https://news.google.com/rss/articles/CBMizgJBVV95cUxNTF82WkoxdGZfUXM2cENfSjR1Y0t3dm5yMk84a2FXbERlclZNTjF4QVBnQWhvTDNEYWN4cHdjQzRVbHpjRU9tdGdaN3BaVVBHNFVsMHhKQmVtTzVBVk1UVGh3cWtQbFQxNTFnazlUV0dZV1BRNVV1SnJMQnFOeUJYWlgzbjc1amw1c0QtVjhhU2Q0ellycFlYNDQxSDExby1Wb2F0czZBMnVwaXZiWkhBaHExVHczdkhyWUFfNVJjTXhLeHhCSU1DdHgtQTQ1WVN3LTd2TVZvU0d2NDNTLTFmR0tySVdKWkdITnJ1cTBNMGkxUFhkQXFwcEhzeUpacUZWVGNicENOWDFHTURWSGRlV2ZPVmoydXIzLVJZV3hEYXd0RjdtU3FWX291bVVkZnhPR2JtZ2M3QmtqVjNzaGVUWl9yNGdQbEd1Y2V1SDd3?oc=5>
+
+### 特朗普：正“缓慢但切实”地接近与伊朗达成协议
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-05-31 23:42
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBtRGhtWjlNS0FXdTJraHdtTXFvUnFVR1BieEQwNm04XzlrUVh0UUt5ZmRPem41UVpHOWZ4S1JjNkRVT01sTDZrR213Yw?oc=5>
+
+### yerlin_ (@yerlin)的见解
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Binance
+- 时间: 2026-05-31 00:43
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BQlRQbzVwS1Fwa3VTQU1yY192bm1yWFpGLXlmNGxhN1NKaGNiWVdJZEJaMURuckp6b0ZuT0xHankwa2U3RC10YXFnc0ZBYjNsUV9TYjAwR0xaU1NYRlJ0MFhqdnFLZ0N2?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-01 05:23  (10 条)
+
+- **蔡徐坤** | 蔡徐坤马来西亚音乐节彩排曝光5月30日压轴登场 <https://k.sina.com.cn/article_5556631847_m14b3379270530220g0.html>
+- **周杰伦** | 周杰伦新专先行曲发布 热搜和播放都“爆”了 <https://k.sina.com.cn/article_7857201856_1d45362c0019068cks.html>
+- **周杰伦** | 周杰伦：不开演唱会、不打球、不等文山写词，新专辑一个月就做完 <https://k.sina.com.cn/article_7857201856_1d45362c0019068ca2.html>
+- **特朗普** | 叙过渡总统与特朗普通话谈取消制裁 <https://news.google.com/rss/articles/CBMifkFVX3lxTE9TLXBJb1A5M2hObkNnUTdkbXhzVHNLZm1HOVRMeUtqbFdxMEk3ZGxJakdmZmFZRHk2dlZxVlMwTzBUb0xsS0t2b19vaDNoNHdONTlMOXFBbXMzb3Z4TG9TQkRPZjBITjdEUmVyQ1dMR01pRndCRV9CcEN5M3FUZw?oc=5>
+- **特朗普** | 特朗普坚称美伊协议“明确禁止”伊朗拥核 发文批美媒体假新闻 <https://news.google.com/rss/articles/CBMiakFVX3lxTE1uNWFqVXgtam9QYW5BVzNoUEE3OFdwbElTUzZwRV9tbWRPUlNPR0pKMnJnYkRLOXFlNXZ3VktjVzBZZEQtSE5oODlCazBSdnBwWnBTZVUxSl9NcTlsZTdTcGhVc1l3X2F5R1E?oc=5>
+- **特朗普** | 特朗普最新健康状况公布-腾讯新闻 <https://news.google.com/rss/articles/CBMibEFVX3lxTE1tZ0JnSUR0bXVXTk85SmtjeDFPTlpxd2loS0lrdVBTSEdGRzRfbFp3TEpQVS1OQ05XQm8wNmViTHh1NmczX3JKQkhNX0REXy02R2syclR5Uko4WV9mTy1Wd3Y2WTQxbDJ5amM2Qg?oc=5>
+- **特朗普** | 美媒爆料：特朗普越来越质疑万斯的实力，并抱怨他休假太多 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5lY1hCdjZIWWY2bkx4cURwSEo2Z3VQbWFKNGRURVBudHlBYWY2NVNmR2MtakpHYWQzQVRfb2todlJOTWFwSUZhYzQ4YTk?oc=5>
+- **特朗普** | 特朗普拟改《美墨加协定》：半数汽车部件须“美国制造” <https://news.google.com/rss/articles/CBMizgJBVV95cUxNTF82WkoxdGZfUXM2cENfSjR1Y0t3dm5yMk84a2FXbERlclZNTjF4QVBnQWhvTDNEYWN4cHdjQzRVbHpjRU9tdGdaN3BaVVBHNFVsMHhKQmVtTzVBVk1UVGh3cWtQbFQxNTFnazlUV0dZV1BRNVV1SnJMQnFOeUJYWlgzbjc1amw1c0QtVjhhU2Q0ellycFlYNDQxSDExby1Wb2F0czZBMnVwaXZiWkhBaHExVHczdkhyWUFfNVJjTXhLeHhCSU1DdHgtQTQ1WVN3LTd2TVZvU0d2NDNTLTFmR0tySVdKWkdITnJ1cTBNMGkxUFhkQXFwcEhzeUpacUZWVGNicENOWDFHTURWSGRlV2ZPVmoydXIzLVJZV3hEYXd0RjdtU3FWX291bVVkZnhPR2JtZ2M3QmtqVjNzaGVUWl9yNGdQbEd1Y2V1SDd3?oc=5>
+- **特朗普** | 特朗普：正“缓慢但切实”地接近与伊朗达成协议 <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBtRGhtWjlNS0FXdTJraHdtTXFvUnFVR1BieEQwNm04XzlrUVh0UUt5ZmRPem41UVpHOWZ4S1JjNkRVT01sTDZrR213Yw?oc=5>
+- **Trump** | yerlin_ (@yerlin)的见解 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BQlRQbzVwS1Fwa3VTQU1yY192bm1yWFpGLXlmNGxhN1NKaGNiWVdJZEJaMURuckp6b0ZuT0xHankwa2U3RC10YXFnc0ZBYjNsUV9TYjAwR0xaU1NYRlJ0MFhqdnFLZ0N2?oc=5>
 
 ### 2026-06-01 00:03  (3 条)
 
