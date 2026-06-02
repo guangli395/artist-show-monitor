@@ -1,53 +1,59 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-02 09:47**
-- 本轮扫到 2537 条, 新增 **13** 条
+- 最近更新: **2026-06-02 13:56**
+- 本轮扫到 2548 条, 新增 **11** 条
 
 ---
 
-## 本轮新发现 (13 条)
+## 本轮新发现 (11 条)
 
-### 周杰伦发布与王俊凯黄晓明合照
+### 就是一种极致享受！ 王一博什么时候开演唱会啊
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_6060658738_m1693e5032033017ira.html>
+
+### 奚梦瑶婚礼在周杰伦MV取景地
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6377398640_17c1f617004001oe60.html>
+- 链接: <https://k.sina.com.cn/article_2434595460_m911cfa84033017f7i.html>
 
-### 周杰伦演唱会现场演出引歌迷感叹
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6085757482_m16abd4a2a05301m2ma.html>
-
-### 周杰伦演唱会“神级转场”画面太强大！歌迷赞爆：惩罚上厕所的人
+### 庾澄庆被“骗”来《中国新歌声2》?周杰伦竟请那英来当助唱导师!
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906af38.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906aph8.html>
 
-### 不满以方“搞事” 特朗普怒斥以总理“疯了”
+### 《中国新歌声》:那英邀郞朗帮忙 提升“古典”格调--文化
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-06-02 06:56
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE14U19taGl3YWltZ2JNaTZOcUJIV2lxSXAwcVN6eENwdmxRcnIxOGFJT1lIMWR1MVpJRE12TzBFa2U2c2dQTDZwZ1A4U1NoNFdLTUR6LUpPME5fRGlOcHFOZFZjVUNhazY0WVp3b3dVXy0xd2RtbmItUTc2SDhlc00?oc=5>
-
-### 被特朗普怒骂后 内塔尼亚胡强硬表态：真主党不停 以色列就不停 将继续打击黎巴嫩南部
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-06-02 09:26
-- 链接: <https://news.google.com/rss/articles/CBMixwFBVV95cUxQb19hWGpnUV9JRm1VbVRMdW1MaW1OQTBmVVBtZEg2dU1UcHIzbHk0bGJFNmlPaGVnU3R6d2gxd01HTlM3ekZuYWpETmlEWDM1TjFfSm5UcVhtM1pTME5CUTA4R1plelFpemxreG5PdVJtbHUxVGNyN2owb3kzVVRHR2loNXVfdmNKS3BTUHlJUVd5RE1WTV9fNGJVOEZ1dlJnMVZtX1pXMGFyb3BsWVFJNFpOTzIzYVEwQ0hfRUZqcU9DeEJ1VHpZ?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906api2.html>
 
 ### 特朗普怒斥内塔尼亚胡“疯了” 不满以色列升级黎巴嫩局势
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-06-02 03:06
-- 链接: <https://news.google.com/rss/articles/CBMimANBVV95cUxOWGFseFA0dUFHS3F6WVh3bzE4TWtfMkJ1NTltQVFwZDVlOHFxUW0tNmJqeTlmRkU5R2Q3dmpkVUoyNUpKYXhDYnI3bHhMM2ZsY0ZWRmFqbnpnVU90M2g2RmphZGVqMzB5ei1Lb3Fpbl9vcjhEZ0toR0R1S1hXV2I0bThUdWNqWGNnN240VmJsSXE0LXQtQm50eDE3clV0TkFqektsMmdQbGRPQ3pucnFZS2lDc1hKYU5IWU1PaDdXS0tzTDB0OF8tV0x6QVg1LXF1c09wamNSZXk4ZEhQZFFEaGxlanl3RVJRWFhTbS1VaWVXV1lDcUxuUlVyTXZLSHdQdXFKSTRHSlJuOGcyRnlsa2tyZFF1LVk4QWdOUFBaRlhCTW5IZzkybmtqckVKRUxNd19TRkQ5X1JFVVcwdFJXMWc1TEJYUDRiQlQ2dTBvdm9XR0ZaMjlFWExzNE9MTlBLX3NqZDVIM0tZYmlrZmZaT1czQ21TbXFhbVdYUW80ckxjNmdncFo0QThCQ3VPcUdUWkFzYXVSdjI?oc=5>
+- 时间: 2026-06-02 04:57
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFAybmpTd05oUUVIY1plNzRvbmd0ai1XbnhtZEstajA2SHlJOTVsb0MwTng1dUZydDR2Y3VfLU5Rc1NMSWFqNWF2QVFaTjhEZDgxUk5qQTNXeHFRMFNUOW9HV2ZPTWczMGhKYXhyeXVhRXA?oc=5>
+
+### 伊朗战争：特朗普需要结束这场战争，但伊朗不会退让——分析
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: BBC
+- 时间: 2026-06-02 03:50
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGdllEbGpScUxQeEthUWtUY1c3MWZrcGIwV3lTYjZ6blFPV1R3OGhtUWwzZmlsS1Y3ejhwVDdTdlJCelNXNElyNm9QV1NVQjMzeHIyWkc3SkVfTUVFS3AwMjNQU0JCQdIBa0FVX3lxTFBjSUkxNzJIWF96dElpM2pZdHR6X3FkU3l6d3BFMWdkRGxOSy1qYUZuWV9NT0F5X2hjQ2QzdEowaXQ1SUcwNjYyRGRWeENtUm9mVERkZ0p2MlNqWmI2UXNrVXgtZmM1UC00V1dF?oc=5>
+
+### 特朗普再发5张照片回味中国：他们有个宴会厅叫“中国大会堂”，又大又漂亮
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-06-02 06:49
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5sRGJOMXBReXU4Vk1SNnJzQ1JiNlB1X3VCYkR6MGhMQm1TdUNhN1d2bTh5Vkt2cWR2UE1vS0ZJMFl0cTBWY0hBY183Yjg?oc=5>
 
 ### 特朗普被曝拟放弃“反武器化”基金计划
 
@@ -55,60 +61,50 @@
 - 来源: `googlenews`
 - 场馆: 中国经济网
 - 时间: 2026-06-02 08:57
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DWlByb0lZN2NkWVotbFNYY1FxQTdBTTdfeF9SZ3paWHEyMUstWldQRWZTUGZURlRweTdyQ1lJTllEV2tPQ1R1Nkt4b05veUtBZG1IUjNQT3pYNWV2eUVxaw?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTE9lV2VrYjJkYmNRYnpMYVY1bVVrODdjU3FBSEluTkxvMGJfakp3cWhJSEsxMWVIekx3YVFBNUFoMDJiUDhhVXdqOG5OZ1FzWTVfdkwycEVDREFSYmRsaVF6c2dXOA?oc=5>
 
-### 特朗普对中国，比对加拿大都亲
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-06-02 02:43
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1LdEs2aV9rUC1adjR5NExwRldOeWFrV1dVTmhnWTNhWS1FZjh6ejZuMTlQdkNIZ0NBUVZoTzA2N01YS0w4dEc1M1dNb2JwX2gtb1dtdjJhZ2VBUG1leDYtNXFWOWVXWVMtclE?oc=5>
-
-### 特朗普执意将美伊谈判与“亚伯拉罕协议”捆绑，意图何在？
+### 郑丽文开始访美 称“非常愿意”见特朗普
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中国网
-- 时间: 2026-06-02 00:29
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE1NZm5yb2k2VGdyaldDdnlEcjhXeUZsSDJSUWVEOGkxQkt2dWlyY2lEMHhsSm9WZXg1YUxfTW9pWEJTVndGV0VJekVoRjdJR1Y4LUVDUVM3X0FkRDZaTFZpbnZsb2NTUDJRZXhhZThhVQ?oc=5>
+- 场馆: DW.com
+- 时间: 2026-06-02 11:55
+- 链接: <https://news.google.com/rss/articles/CBMiigJBVV95cUxQMk5wc1ZMeTRrb19QaEtRclliVF9IR0ViMGJWNXJOeEcteUljWXItdmdERDlmckRZQTlibUVBaG0tUDRLckFKM1R0REh5SzRhaVNlUjRjaHU0cWdHRlZSZUdKeHgyUnZOSzhkMGowMFEwdjhJNXBmUm5Fd2VPcTFCaTJGVkQ0UWhNWEt6Y0xFaUdFNkJQXzhpbzNubjRNU2JVWUpfcWFTTm1rTVZSUTcySC1NVEgzZk1BSUFUanNMeDRvbmd4cUJsV3pGYjNOSXQwZUNZU29LYVJGRXhDaXZPdlk4dWhEQzZPVE1ObklCUDRIVjNrQzF1b1puLUFHMFlUSzhPUzIyRnRVUdIBigJBVV95cUxPNmItaUpRUF9raVJleTFyVWZicFJ3RHJKREduZGQ1NUk1LVh2TzFUSDZTakZ4S0hKWElCaHdncG5yT214RzEwZlJzNzRuR2xrSTg0UjZ6YXhWSDY1MzhHR1A5TlI1dDVya1BfRGpta21uSHBFQXNscUFSVW9nMWU0ckZJNE1zR0lqa0h4MkZjUm53MXpoZGs4Z3NYanJFX3NzRnNOUDNnLXJxajFNbC1PUTdYZEN2VzlRRjVIbzlNeW8tckN5SXhESEkyV0lPejdxS1k4X1BVb2ZSVDl0d2g1eUJuRGZvRUZFUUpaWmJaTnBHZDhpeWgzNU0xQkI5SVN3OXR2QS1qTEFLZw?oc=5>
 
-### 联邦明察局·89｜特朗普的私愤正助力民主党在参议院翻盘？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-06-02 05:24
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GdG5XWS0yUHhrTVRXTUNQc09wbVQzbk41bk1vT1ctdG9pY0pRenFYWkhIMXptVmprMjVQc1N1UkUxejZBbU1vNkplVFlWMExTbXlTNEJtamRQc3gzWTJZcg?oc=5>
-
-### 特朗普被曝拟放弃“反武器化”基金计划
+### 郑丽文称愿与特朗普会面 外交部回应
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-06-02 07:26
-- 链接: <https://news.google.com/rss/articles/CBMid0FVX3lxTE9UWWdRcXIwSDljenV2VFdnWnFONEF0Q2dMTGoycGJxVGRQVGR4VW9DT0t5c1U0X0d4bUN5YnBwY1NxaFZMQUlBNUV1WUU3RFpmMlhaRDNkTExLU3paYmVZdmd1UjJBb2UtdDFPa2ktdGFrZDlvRnRv?oc=5>
-
-### Crypto Ahmet (@Crypto_Ahmet)的见解
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Binance
-- 时间: 2026-06-01 21:55
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBLUGY5N2htZmtBbG5jWS1XSzhRajhBbVdlMy14cERub2NsSlVVSzZtSmwyRUgyWmpTOERTX1ZJcF9ZcnVpT0IwYlduRmRKUVNBOWM4dW9FMDdrZmpvMGgyc3RoNDFIUTNW?oc=5>
-
-### Dow Jones Top Markets Headlines at 5 AM ET: Oil Pares Gains After Trump Efforts to Broker Israel-Hezbollah Ceasefire
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 富途牛牛
+- 场馆: 搜狐网
 - 时间: 2026-06-02 09:05
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxNdk8takM5QmR5cXVqcmVSd05xUE82RFk2cWh3S2VkQXpVSGpmSV9wWlhob2pJd0xKdC1udkZHWG9SdktZMXllZmlnNmpWUldySmVTcGdwUmtFMTcybFRvckdxY0ZsZHFXa2NZRlFsSkpEVnNPWHhhQUlZVHFOTlJiR2V2QUU2czJLWHlhSA?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcGpBbFN1SGlSMC1sSHNfUXNuRlFZZkxYQ3BXQ3VqWjR0S3ppYWhBMlV5TFFpeFRoeWxRUzQwVzhaemNzU1VGejZydkp4bmRFcjdSdGYzVzNROFE5MXVQWVFYVXhLVWlxUlNlZ2pGNFBkQ3hwMUg0cnBEcWQ4UmtHNUhRaHl4OEpJ?oc=5>
+
+### 港媒：特朗普亲自促中方帮忙结束俄乌战争
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-06-02 06:45
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5jWWRIWWp3RFdJVVg1STJPWWpyOGtKLUs0cEdZc28yaXQtRFlXVGo3aVZxVllqYkswVXlHN0FPbVNUbXRGSFp6N0RrbGJBXy1fRUphd0RLVjAwb3pPa1ZqZEFXOGh6UQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-02 13:56  (11 条)
+
+- **王一博** | 就是一种极致享受！ 王一博什么时候开演唱会啊 <https://k.sina.com.cn/article_6060658738_m1693e5032033017ira.html>
+- **周杰伦** | 奚梦瑶婚礼在周杰伦MV取景地 <https://k.sina.com.cn/article_2434595460_m911cfa84033017f7i.html>
+- **周杰伦** | 庾澄庆被“骗”来《中国新歌声2》?周杰伦竟请那英来当助唱导师! <https://k.sina.com.cn/article_7857201856_1d45362c001906aph8.html>
+- **周杰伦** | 《中国新歌声》:那英邀郞朗帮忙 提升“古典”格调--文化 <https://k.sina.com.cn/article_7857201856_1d45362c001906api2.html>
+- **特朗普** | 特朗普怒斥内塔尼亚胡“疯了” 不满以色列升级黎巴嫩局势 <https://news.google.com/rss/articles/CBMicEFVX3lxTFAybmpTd05oUUVIY1plNzRvbmd0ai1XbnhtZEstajA2SHlJOTVsb0MwTng1dUZydDR2Y3VfLU5Rc1NMSWFqNWF2QVFaTjhEZDgxUk5qQTNXeHFRMFNUOW9HV2ZPTWczMGhKYXhyeXVhRXA?oc=5>
+- **特朗普** | 伊朗战争：特朗普需要结束这场战争，但伊朗不会退让——分析 <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGdllEbGpScUxQeEthUWtUY1c3MWZrcGIwV3lTYjZ6blFPV1R3OGhtUWwzZmlsS1Y3ejhwVDdTdlJCelNXNElyNm9QV1NVQjMzeHIyWkc3SkVfTUVFS3AwMjNQU0JCQdIBa0FVX3lxTFBjSUkxNzJIWF96dElpM2pZdHR6X3FkU3l6d3BFMWdkRGxOSy1qYUZuWV9NT0F5X2hjQ2QzdEowaXQ1SUcwNjYyRGRWeENtUm9mVERkZ0p2MlNqWmI2UXNrVXgtZmM1UC00V1dF?oc=5>
+- **特朗普** | 特朗普再发5张照片回味中国：他们有个宴会厅叫“中国大会堂”，又大又漂亮 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5sRGJOMXBReXU4Vk1SNnJzQ1JiNlB1X3VCYkR6MGhMQm1TdUNhN1d2bTh5Vkt2cWR2UE1vS0ZJMFl0cTBWY0hBY183Yjg?oc=5>
+- **特朗普** | 特朗普被曝拟放弃“反武器化”基金计划 <https://news.google.com/rss/articles/CBMiY0FVX3lxTE9lV2VrYjJkYmNRYnpMYVY1bVVrODdjU3FBSEluTkxvMGJfakp3cWhJSEsxMWVIekx3YVFBNUFoMDJiUDhhVXdqOG5OZ1FzWTVfdkwycEVDREFSYmRsaVF6c2dXOA?oc=5>
+- **特朗普** | 郑丽文开始访美 称“非常愿意”见特朗普 <https://news.google.com/rss/articles/CBMiigJBVV95cUxQMk5wc1ZMeTRrb19QaEtRclliVF9IR0ViMGJWNXJOeEcteUljWXItdmdERDlmckRZQTlibUVBaG0tUDRLckFKM1R0REh5SzRhaVNlUjRjaHU0cWdHRlZSZUdKeHgyUnZOSzhkMGowMFEwdjhJNXBmUm5Fd2VPcTFCaTJGVkQ0UWhNWEt6Y0xFaUdFNkJQXzhpbzNubjRNU2JVWUpfcWFTTm1rTVZSUTcySC1NVEgzZk1BSUFUanNMeDRvbmd4cUJsV3pGYjNOSXQwZUNZU29LYVJGRXhDaXZPdlk4dWhEQzZPVE1ObklCUDRIVjNrQzF1b1puLUFHMFlUSzhPUzIyRnRVUdIBigJBVV95cUxPNmItaUpRUF9raVJleTFyVWZicFJ3RHJKREduZGQ1NUk1LVh2TzFUSDZTakZ4S0hKWElCaHdncG5yT214RzEwZlJzNzRuR2xrSTg0UjZ6YXhWSDY1MzhHR1A5TlI1dDVya1BfRGpta21uSHBFQXNscUFSVW9nMWU0ckZJNE1zR0lqa0h4MkZjUm53MXpoZGs4Z3NYanJFX3NzRnNOUDNnLXJxajFNbC1PUTdYZEN2VzlRRjVIbzlNeW8tckN5SXhESEkyV0lPejdxS1k4X1BVb2ZSVDl0d2g1eUJuRGZvRUZFUUpaWmJaTnBHZDhpeWgzNU0xQkI5SVN3OXR2QS1qTEFLZw?oc=5>
+- **特朗普** | 郑丽文称愿与特朗普会面 外交部回应 <https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcGpBbFN1SGlSMC1sSHNfUXNuRlFZZkxYQ3BXQ3VqWjR0S3ppYWhBMlV5TFFpeFRoeWxRUzQwVzhaemNzU1VGejZydkp4bmRFcjdSdGYzVzNROFE5MXVQWVFYVXhLVWlxUlNlZ2pGNFBkQ3hwMUg0cnBEcWQ4UmtHNUhRaHl4OEpJ?oc=5>
+- **特朗普** | 港媒：特朗普亲自促中方帮忙结束俄乌战争 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5jWWRIWWp3RFdJVVg1STJPWWpyOGtKLUs0cEdZc28yaXQtRFlXVGo3aVZxVllqYkswVXlHN0FPbVNUbXRGSFp6N0RrbGJBXy1fRUphd0RLVjAwb3pPa1ZqZEFXOGh6UQ?oc=5>
 
 ### 2026-06-02 09:47  (13 条)
 
