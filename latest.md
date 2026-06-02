@@ -1,96 +1,150 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-02 13:56**
-- 本轮扫到 2548 条, 新增 **11** 条
+- 最近更新: **2026-06-02 18:04**
+- 本轮扫到 2563 条, 新增 **15** 条
 
 ---
 
-## 本轮新发现 (11 条)
+## 本轮新发现 (15 条)
 
-### 就是一种极致享受！ 王一博什么时候开演唱会啊
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6060658738_m1693e5032033017ira.html>
-
-### 奚梦瑶婚礼在周杰伦MV取景地
+### 周杰伦新专辑首支MV预告发布，田馥甄出镜
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2434595460_m911cfa84033017f7i.html>
+- 链接: <https://k.sina.com.cn/article_6086153017_m16ac3533905301n76s.html>
 
-### 庾澄庆被“骗”来《中国新歌声2》?周杰伦竟请那英来当助唱导师!
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906aph8.html>
-
-### 《中国新歌声》:那英邀郞朗帮忙 提升“古典”格调--文化
+### 奚梦瑶何猷君婚礼内场曝光：选址法国圣米歇尔山城堡，周杰伦MV曾在此取景，现场铺满昂贵芍药，尽显奢华
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906api2.html>
+- 链接: <https://k.sina.com.cn/article_7879923674_1d5ae17da02001g56k.html>
 
-### 特朗普怒斥内塔尼亚胡“疯了” 不满以色列升级黎巴嫩局势
+### 特朗普任命威廉·普尔特为代理国家情报总监
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-06-02 04:57
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFAybmpTd05oUUVIY1plNzRvbmd0ai1XbnhtZEstajA2SHlJOTVsb0MwTng1dUZydDR2Y3VfLU5Rc1NMSWFqNWF2QVFaTjhEZDgxUk5qQTNXeHFRMFNUOW9HV2ZPTWczMGhKYXhyeXVhRXA?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-06-02 16:20
+- 链接: <https://news.google.com/rss/articles/CBMiswFBVV95cUxON1dJZ0hOaUVONndwMTU5c2FVdEZucFNkWml0UU0xb3h4SXZwMWN6RjM1eFJ5WGtzS3loNm5Rb293UFZWb1RYQUx6V2NRSjIxdlE4VVdRUk9Yd0loQ1l5djVJYmF2LVlqcnA3eW9XV1M0N0RlYTBzQ2F3MGFCT2E1cHUzTzVwQWNnVnZ5LWViVDdQd2EzUXhlck9qRjUwa0dTeTZRUmZPOUNkMU0xaS16cW9xZ9IBtgFBVV95cUxNRjYwLXBIc1p3QkVBQ1hLZ1dQSm5yaEc5X1VyQ0ExYTZWNDN1Y0MweU80V1F2OWRkVTE3TGVqZk1ueWc0clYtVGkzaC1jY0xJRGZkQlI5WDRFTHhhNDhwRG5jdml6RHY1Y3FZUnlLWmZ5ZUlCajl4ZFp3cUNWbUQ3bnNlbl9vYTAxeUVOc0FUQXN2WFNDSkllblRWSXd1Nl9ubURQZUx6blFKTlEwRGExU3ZVSUljdw?oc=5>
 
-### 伊朗战争：特朗普需要结束这场战争，但伊朗不会退让——分析
+### 特朗普任命普尔特为代理国家情报总监
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-06-02 03:50
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGdllEbGpScUxQeEthUWtUY1c3MWZrcGIwV3lTYjZ6blFPV1R3OGhtUWwzZmlsS1Y3ejhwVDdTdlJCelNXNElyNm9QV1NVQjMzeHIyWkc3SkVfTUVFS3AwMjNQU0JCQdIBa0FVX3lxTFBjSUkxNzJIWF96dElpM2pZdHR6X3FkU3l6d3BFMWdkRGxOSy1qYUZuWV9NT0F5X2hjQ2QzdEowaXQ1SUcwNjYyRGRWeENtUm9mVERkZ0p2MlNqWmI2UXNrVXgtZmM1UC00V1dF?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-06-02 14:16
+- 链接: <https://news.google.com/rss/articles/CBMiowFBVV95cUxOc2U1NkJJaVBxMUItbkEwMFc4NzNlNFlWajBub05tSjFyZHVza0FtYzhLeU5JU0xWSTNsYzVWTlgwbUNHYWR1eTIySjJzTm1DTlFwODBlektUSUNBVDk2dzVyTFNJQURmRlVSaHJpQTNsbldKN29NbHlyVVhGbmRsbEttSlMwMkhNYUhubVNQY3dMVkkwZnY4Wk1UdHE5MGwwclJJ?oc=5>
 
-### 特朗普再发5张照片回味中国：他们有个宴会厅叫“中国大会堂”，又大又漂亮
+### 特朗普，开掉“不听话的情报头子”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-06-02 06:49
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5sRGJOMXBReXU4Vk1SNnJzQ1JiNlB1X3VCYkR6MGhMQm1TdUNhN1d2bTh5Vkt2cWR2UE1vS0ZJMFl0cTBWY0hBY183Yjg?oc=5>
+- 时间: 2026-06-02 14:12
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5qUVU5RFJXdlo2S05vVl9nMG9iTGVUdUhNYzk2dWhJUy1kZzFpLXVMdUVwV0U2WFlzaHk0UWNoeXcwMlpoeXU0RjJaaXk?oc=5>
 
-### 特朗普被曝拟放弃“反武器化”基金计划
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中国经济网
-- 时间: 2026-06-02 08:57
-- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTE9lV2VrYjJkYmNRYnpMYVY1bVVrODdjU3FBSEluTkxvMGJfakp3cWhJSEsxMWVIekx3YVFBNUFoMDJiUDhhVXdqOG5OZ1FzWTVfdkwycEVDREFSYmRsaVF6c2dXOA?oc=5>
-
-### 郑丽文开始访美 称“非常愿意”见特朗普
+### 特朗普签署AI网络安全行政令 未纳入强制测试要求
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: DW.com
-- 时间: 2026-06-02 11:55
-- 链接: <https://news.google.com/rss/articles/CBMiigJBVV95cUxQMk5wc1ZMeTRrb19QaEtRclliVF9IR0ViMGJWNXJOeEcteUljWXItdmdERDlmckRZQTlibUVBaG0tUDRLckFKM1R0REh5SzRhaVNlUjRjaHU0cWdHRlZSZUdKeHgyUnZOSzhkMGowMFEwdjhJNXBmUm5Fd2VPcTFCaTJGVkQ0UWhNWEt6Y0xFaUdFNkJQXzhpbzNubjRNU2JVWUpfcWFTTm1rTVZSUTcySC1NVEgzZk1BSUFUanNMeDRvbmd4cUJsV3pGYjNOSXQwZUNZU29LYVJGRXhDaXZPdlk4dWhEQzZPVE1ObklCUDRIVjNrQzF1b1puLUFHMFlUSzhPUzIyRnRVUdIBigJBVV95cUxPNmItaUpRUF9raVJleTFyVWZicFJ3RHJKREduZGQ1NUk1LVh2TzFUSDZTakZ4S0hKWElCaHdncG5yT214RzEwZlJzNzRuR2xrSTg0UjZ6YXhWSDY1MzhHR1A5TlI1dDVya1BfRGpta21uSHBFQXNscUFSVW9nMWU0ckZJNE1zR0lqa0h4MkZjUm53MXpoZGs4Z3NYanJFX3NzRnNOUDNnLXJxajFNbC1PUTdYZEN2VzlRRjVIbzlNeW8tckN5SXhESEkyV0lPejdxS1k4X1BVb2ZSVDl0d2g1eUJuRGZvRUZFUUpaWmJaTnBHZDhpeWgzNU0xQkI5SVN3OXR2QS1qTEFLZw?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-06-02 17:08
+- 链接: <https://news.google.com/rss/articles/CBMijwJBVV95cUxQaTBLMERLQkM3VDQ0R1MyaVE3WlVQQVhsdHl4RVl6djFpb2dwaXJhbjlUeS1ocGpzV3VOaFFHVDNhdy1uREpWcmdRbU82RjVESm43cXcxNUM0S2tsdEZPNTBIb0l3UHBLLXc4MXNjWS01VmQydWVMWUFuSUpTRnVtT29FVk0tbnRaSjhBOXg1bmVCMWNXM29BRUkxaW5FYU9RNHFPS21HLWJzcjY1c1VlbmtyTGhSN24xNEtRZVZOTXhtTEczY2JabkdxZTBsZ0x4NHJJb3pXUkNKVDZqbzIwWndIckZ4aG1la1RFd29NSzJFV0oxYjB6YWJ4STZrSUx2VUpianpEOTlxWmRvMWNB?oc=5>
 
-### 郑丽文称愿与特朗普会面 外交部回应
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-06-02 09:05
-- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcGpBbFN1SGlSMC1sSHNfUXNuRlFZZkxYQ3BXQ3VqWjR0S3ppYWhBMlV5TFFpeFRoeWxRUzQwVzhaemNzU1VGejZydkp4bmRFcjdSdGYzVzNROFE5MXVQWVFYVXhLVWlxUlNlZ2pGNFBkQ3hwMUg0cnBEcWQ4UmtHNUhRaHl4OEpJ?oc=5>
-
-### 港媒：特朗普亲自促中方帮忙结束俄乌战争
+### 特朗普的人工智能去监管是真的，人工智能股票估值却不然
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-06-02 06:45
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5jWWRIWWp3RFdJVVg1STJPWWpyOGtKLUs0cEdZc28yaXQtRFlXVGo3aVZxVllqYkswVXlHN0FPbVNUbXRGSFp6N0RrbGJBXy1fRUphd0RLVjAwb3pPa1ZqZEFXOGh6UQ?oc=5>
+- 场馆: video.sina.com.cn
+- 时间: 2026-06-02 17:06
+- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxQWHMwam0tT25fNG55b3JIb1dDcHdWNTBTYXdoM2J5WU95S0d3bFNEbUlxWjdCdmlqX3Baczhzb1FpZWRaeEdoeEJTcE9QOG1BS094UFNTcHFfTlBfWEpUb09ZMndZY0d0cFV0MDhBRlBmeENYb2JNYVRud2VCWVdFdmtn?oc=5>
+
+### 特朗普被曝粗口怒斥以色列总理 以军对黎攻势拖宕美伊谈判
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 财新
+- 时间: 2026-06-02 12:47
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1UT3dlcFR4T00yS04tbmZDN1M3amFaX0VaY1dTTEd5VHE1SjRXOHRReks2Znhaa1FBNVVYSXdQNndCNmFCV2NsYnJnTWZvMEItaFktaFZydjdBejFwUE02VjFpZEE4Z2ZzUWc?oc=5>
+
+### 国际观察丨伊朗“放狠话” 美伊谈判能否迈过这道坎
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中国网
+- 时间: 2026-06-02 16:24
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE1mRTBSSjJvWFZRM19CS3UxeHcxR0dxQ2YxcmtEVG55T184dmpJUmhseXowQXU3dDBWQzI0aHpsa3lpNDh2UjdqZjF4ZldRRThKUGxOc3VfZ3UtQ0ZRSF83Tkx1RlBRR1BnUENONnppdw?oc=5>
+
+### 市场传闻：美国官员即使对基金存疑 仍遵守与特朗普的审计豁免协议
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: AASTOCKS.com
+- 时间: 2026-06-02 15:28
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTFBNMFFaUUdBOVY0YnRvMXB6XzMtYjVkYkNzZURTZUJ6cWFuN2dpR050Qk13eWZ3dktGd004bUdTR3hBaF9TWGZaSlpxbHFOSXYxN2I5VEpyVmtMUnBTSk90R3hmdFMwaFFycGU5Rl8zOA?oc=5>
+
+### US President Donald Trump expects deal with Iran to reopen Hormuz, extend ceasefire next week
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: TMGM
+- 时间: 2026-06-02 01:09
+- 链接: <https://news.google.com/rss/articles/CBMi9gFBVV95cUxOd283T1VXVkJ3dVlVcUNnN2FyS3F2OEZHLWk1MnBoRm9MWnhhNGFVZXhXZE5YOFhVd2dJNEVEVWtRNDN4WEtlSDExUThrcHBYRGotVlkxSzZ5OGJOcUdja2xTSG1tWi1DTkRsSFFEMEpxazBHbkxBaVgwQVdyR0NMMUpKa0M0SDZzWGJMTmRXQ1A4WWkxYTYtbTQ2YjJQZVZKV0c5dHpIemZZczk1RWJOdUttY05ZMGtJUUd3TWZMQnhNSVNvUGgzd1hlbWRKRTd2WTJub2x0QkhxZDVtR05mN0hsa3NxRHZPZE13TF9YeEdOZlJNS1E?oc=5>
+
+### 特朗普将农业设备关税从25%下调至15%
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-06-02 15:21
+- 链接: <https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM0doTlFyY3MyQ2VjMzhyd21qLXc4cG94M0RzR24tRjZQeVJGc0ZrcHR0RTdBbi1ta1JfdVpxSEVQWnphOWlOMVREUXNrSWxhdDBUczI1bUZ6d1BPOF9DRGxiWGRTelFWUVhLWFVBc2ZxaDREOENFaEVaSG0tYVdUaV9vNXFzNmpoMmhfVTFQVkJHUEhNNU9LSVVhcXNFdDg5bjR3ZHdySk04cGs?oc=5>
+
+### 美股指数微升 特朗普推动以色列－真主党停火、科技股延续升势
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: AASTOCKS.com
+- 时间: 2026-06-02 17:38
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE51S21iM2dhQXM4WFNCZ2V6ZXQ1TDRiZGxyT2ZBd2dtVDVLZWZFSVY5Q19MZW9YRGZzQmFHUW15VkxmdkxMc0JwRWxHQ2VoTkUtMjZpSmxzWGpCTlFzZDNQd3RFbmpCdm1lc0hhUlBpYw?oc=5>
+
+### US President Donald Trump says Iran really wants to make a deal
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: TMGM
+- 时间: 2026-06-01 06:18
+- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxNX3BCQ0loU0dSVVMzcXJHNTBoZmtIYzNza2NNQU4tV0RTTGhBVWpObzRHN2wydGdPdGg4aUhVQWVRM0xjUjNhV2VqWTJxY3BXT2NTU2J5UHRrWEZpeVNWcnlTN3JIbGlCaG5hLTJ4X0tfR2p2YkR4bnNweGdPWDRiMVA2MEp2RFE2cG1HQ1BIV1NUVjgzOUREakR1Unc3QkN5a2dpeEUta2VZZ3RYTDNPWi1wM2F3ckh2S01SektzNWRxZjJpQ1pDUHRoeWJEbDA?oc=5>
+
+### 白宫称特朗普签署有关人工智能创新及网络安全的行政命令
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: AASTOCKS.com
+- 时间: 2026-06-02 16:23
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE9iS1Bmb0t5LVR3M2M0RnJCWkpLU1ptbzNTT3BkLW1xQl9LcGN1Q3NUYlFTRTlEdDEzeGhFVzhJXzJyR0tVd3RzSW9UNkFPTzl5akxJREZzU05JTDNrZFN0QWdTS1ZWbmZIWV9ISlBEcw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-02 18:04  (15 条)
+
+- **周杰伦** | 周杰伦新专辑首支MV预告发布，田馥甄出镜 <https://k.sina.com.cn/article_6086153017_m16ac3533905301n76s.html>
+- **周杰伦** | 奚梦瑶何猷君婚礼内场曝光：选址法国圣米歇尔山城堡，周杰伦MV曾在此取景，现场铺满昂贵芍药，尽显奢华 <https://k.sina.com.cn/article_7879923674_1d5ae17da02001g56k.html>
+- **特朗普** | 特朗普任命威廉·普尔特为代理国家情报总监 <https://news.google.com/rss/articles/CBMiswFBVV95cUxON1dJZ0hOaUVONndwMTU5c2FVdEZucFNkWml0UU0xb3h4SXZwMWN6RjM1eFJ5WGtzS3loNm5Rb293UFZWb1RYQUx6V2NRSjIxdlE4VVdRUk9Yd0loQ1l5djVJYmF2LVlqcnA3eW9XV1M0N0RlYTBzQ2F3MGFCT2E1cHUzTzVwQWNnVnZ5LWViVDdQd2EzUXhlck9qRjUwa0dTeTZRUmZPOUNkMU0xaS16cW9xZ9IBtgFBVV95cUxNRjYwLXBIc1p3QkVBQ1hLZ1dQSm5yaEc5X1VyQ0ExYTZWNDN1Y0MweU80V1F2OWRkVTE3TGVqZk1ueWc0clYtVGkzaC1jY0xJRGZkQlI5WDRFTHhhNDhwRG5jdml6RHY1Y3FZUnlLWmZ5ZUlCajl4ZFp3cUNWbUQ3bnNlbl9vYTAxeUVOc0FUQXN2WFNDSkllblRWSXd1Nl9ubURQZUx6blFKTlEwRGExU3ZVSUljdw?oc=5>
+- **特朗普** | 特朗普任命普尔特为代理国家情报总监 <https://news.google.com/rss/articles/CBMiowFBVV95cUxOc2U1NkJJaVBxMUItbkEwMFc4NzNlNFlWajBub05tSjFyZHVza0FtYzhLeU5JU0xWSTNsYzVWTlgwbUNHYWR1eTIySjJzTm1DTlFwODBlektUSUNBVDk2dzVyTFNJQURmRlVSaHJpQTNsbldKN29NbHlyVVhGbmRsbEttSlMwMkhNYUhubVNQY3dMVkkwZnY4Wk1UdHE5MGwwclJJ?oc=5>
+- **特朗普** | 特朗普，开掉“不听话的情报头子” <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5qUVU5RFJXdlo2S05vVl9nMG9iTGVUdUhNYzk2dWhJUy1kZzFpLXVMdUVwV0U2WFlzaHk0UWNoeXcwMlpoeXU0RjJaaXk?oc=5>
+- **特朗普** | 特朗普签署AI网络安全行政令 未纳入强制测试要求 <https://news.google.com/rss/articles/CBMijwJBVV95cUxQaTBLMERLQkM3VDQ0R1MyaVE3WlVQQVhsdHl4RVl6djFpb2dwaXJhbjlUeS1ocGpzV3VOaFFHVDNhdy1uREpWcmdRbU82RjVESm43cXcxNUM0S2tsdEZPNTBIb0l3UHBLLXc4MXNjWS01VmQydWVMWUFuSUpTRnVtT29FVk0tbnRaSjhBOXg1bmVCMWNXM29BRUkxaW5FYU9RNHFPS21HLWJzcjY1c1VlbmtyTGhSN24xNEtRZVZOTXhtTEczY2JabkdxZTBsZ0x4NHJJb3pXUkNKVDZqbzIwWndIckZ4aG1la1RFd29NSzJFV0oxYjB6YWJ4STZrSUx2VUpianpEOTlxWmRvMWNB?oc=5>
+- **特朗普** | 特朗普的人工智能去监管是真的，人工智能股票估值却不然 <https://news.google.com/rss/articles/CBMiggFBVV95cUxQWHMwam0tT25fNG55b3JIb1dDcHdWNTBTYXdoM2J5WU95S0d3bFNEbUlxWjdCdmlqX3Baczhzb1FpZWRaeEdoeEJTcE9QOG1BS094UFNTcHFfTlBfWEpUb09ZMndZY0d0cFV0MDhBRlBmeENYb2JNYVRud2VCWVdFdmtn?oc=5>
+- **特朗普** | 特朗普被曝粗口怒斥以色列总理 以军对黎攻势拖宕美伊谈判 <https://news.google.com/rss/articles/CBMiakFVX3lxTE1UT3dlcFR4T00yS04tbmZDN1M3amFaX0VaY1dTTEd5VHE1SjRXOHRReks2Znhaa1FBNVVYSXdQNndCNmFCV2NsYnJnTWZvMEItaFktaFZydjdBejFwUE02VjFpZEE4Z2ZzUWc?oc=5>
+- **特朗普** | 国际观察丨伊朗“放狠话” 美伊谈判能否迈过这道坎 <https://news.google.com/rss/articles/CBMib0FVX3lxTE1mRTBSSjJvWFZRM19CS3UxeHcxR0dxQ2YxcmtEVG55T184dmpJUmhseXowQXU3dDBWQzI0aHpsa3lpNDh2UjdqZjF4ZldRRThKUGxOc3VfZ3UtQ0ZRSF83Tkx1RlBRR1BnUENONnppdw?oc=5>
+- **Trump** | 市场传闻：美国官员即使对基金存疑 仍遵守与特朗普的审计豁免协议 <https://news.google.com/rss/articles/CBMib0FVX3lxTFBNMFFaUUdBOVY0YnRvMXB6XzMtYjVkYkNzZURTZUJ6cWFuN2dpR050Qk13eWZ3dktGd004bUdTR3hBaF9TWGZaSlpxbHFOSXYxN2I5VEpyVmtMUnBTSk90R3hmdFMwaFFycGU5Rl8zOA?oc=5>
+- **Trump** | US President Donald Trump expects deal with Iran to reopen Hormuz, extend ceasefire next week <https://news.google.com/rss/articles/CBMi9gFBVV95cUxOd283T1VXVkJ3dVlVcUNnN2FyS3F2OEZHLWk1MnBoRm9MWnhhNGFVZXhXZE5YOFhVd2dJNEVEVWtRNDN4WEtlSDExUThrcHBYRGotVlkxSzZ5OGJOcUdja2xTSG1tWi1DTkRsSFFEMEpxazBHbkxBaVgwQVdyR0NMMUpKa0M0SDZzWGJMTmRXQ1A4WWkxYTYtbTQ2YjJQZVZKV0c5dHpIemZZczk1RWJOdUttY05ZMGtJUUd3TWZMQnhNSVNvUGgzd1hlbWRKRTd2WTJub2x0QkhxZDVtR05mN0hsa3NxRHZPZE13TF9YeEdOZlJNS1E?oc=5>
+- **Trump** | 特朗普将农业设备关税从25%下调至15% <https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM0doTlFyY3MyQ2VjMzhyd21qLXc4cG94M0RzR24tRjZQeVJGc0ZrcHR0RTdBbi1ta1JfdVpxSEVQWnphOWlOMVREUXNrSWxhdDBUczI1bUZ6d1BPOF9DRGxiWGRTelFWUVhLWFVBc2ZxaDREOENFaEVaSG0tYVdUaV9vNXFzNmpoMmhfVTFQVkJHUEhNNU9LSVVhcXNFdDg5bjR3ZHdySk04cGs?oc=5>
+- **Trump** | 美股指数微升 特朗普推动以色列－真主党停火、科技股延续升势 <https://news.google.com/rss/articles/CBMib0FVX3lxTE51S21iM2dhQXM4WFNCZ2V6ZXQ1TDRiZGxyT2ZBd2dtVDVLZWZFSVY5Q19MZW9YRGZzQmFHUW15VkxmdkxMc0JwRWxHQ2VoTkUtMjZpSmxzWGpCTlFzZDNQd3RFbmpCdm1lc0hhUlBpYw?oc=5>
+- **Trump** | US President Donald Trump says Iran really wants to make a deal <https://news.google.com/rss/articles/CBMizwFBVV95cUxNX3BCQ0loU0dSVVMzcXJHNTBoZmtIYzNza2NNQU4tV0RTTGhBVWpObzRHN2wydGdPdGg4aUhVQWVRM0xjUjNhV2VqWTJxY3BXT2NTU2J5UHRrWEZpeVNWcnlTN3JIbGlCaG5hLTJ4X0tfR2p2YkR4bnNweGdPWDRiMVA2MEp2RFE2cG1HQ1BIV1NUVjgzOUREakR1Unc3QkN5a2dpeEUta2VZZ3RYTDNPWi1wM2F3ckh2S01SektzNWRxZjJpQ1pDUHRoeWJEbDA?oc=5>
+- **Trump** | 白宫称特朗普签署有关人工智能创新及网络安全的行政命令 <https://news.google.com/rss/articles/CBMib0FVX3lxTE9iS1Bmb0t5LVR3M2M0RnJCWkpLU1ptbzNTT3BkLW1xQl9LcGN1Q3NUYlFTRTlEdDEzeGhFVzhJXzJyR0tVd3RzSW9UNkFPTzl5akxJREZzU05JTDNrZFN0QWdTS1ZWbmZIWV9ISlBEcw?oc=5>
 
 ### 2026-06-02 13:56  (11 条)
 
