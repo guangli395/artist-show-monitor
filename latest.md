@@ -1,148 +1,130 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-02 05:08**
-- 本轮扫到 2524 条, 新增 **18** 条
+- 最近更新: **2026-06-02 09:47**
+- 本轮扫到 2537 条, 新增 **13** 条
 
 ---
 
-## 本轮新发现 (18 条)
+## 本轮新发现 (13 条)
 
-### 蔡徐坤出道以来首张同名实体专辑《KUN》签售会具体时间地点是？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801mewy.html>
-
-### 蔡徐坤首次线下签售会名额告急，抽选规则引热议
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801mewo.html>
-
-### 周杰伦的MV对圣米歇尔山城堡的旅游热度有何影响？
+### 周杰伦发布与王俊凯黄晓明合照
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801meu8.html>
+- 链接: <https://k.sina.com.cn/article_6377398640_17c1f617004001oe60.html>
 
-### 奚梦瑶何猷君迟到7年的婚礼，竟选在周杰伦MV同款城堡！
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801metc.html>
-
-### 奚梦瑶婚礼地点是周杰伦MV取景地
+### 周杰伦演唱会现场演出引歌迷感叹
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1496814565_m593793e5033021igo.html>
+- 链接: <https://k.sina.com.cn/article_6085757482_m16abd4a2a05301m2ma.html>
 
-### 奚梦瑶婚礼在周杰伦MV取景地
+### 周杰伦演唱会“神级转场”画面太强大！歌迷赞爆：惩罚上厕所的人
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2318910945_m8a37c5e103301eqg6.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906af38.html>
 
-### 戏剧性一幕，特朗普被迫打了一个电话
+### 不满以方“搞事” 特朗普怒斥以总理“疯了”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-06-02 06:56
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE14U19taGl3YWltZ2JNaTZOcUJIV2lxSXAwcVN6eENwdmxRcnIxOGFJT1lIMWR1MVpJRE12TzBFa2U2c2dQTDZwZ1A4U1NoNFdLTUR6LUpPME5fRGlOcHFOZFZjVUNhazY0WVp3b3dVXy0xd2RtbmItUTc2SDhlc00?oc=5>
+
+### 被特朗普怒骂后 内塔尼亚胡强硬表态：真主党不停 以色列就不停 将继续打击黎巴嫩南部
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-06-02 05:07
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBmNE54enRhSm1adHhZTU9tTUhPdXhwNHBtRlBnQTJNTmVYR095R2piVk1WV2NWV0ZEMkQ1X1FRVTB6VVBFM0tmdTdnbjVqSnI4ckduUFpvbHdOVnIwalB0YURIQnNQcjE5Nl91X0JSR24?oc=5>
+- 时间: 2026-06-02 09:26
+- 链接: <https://news.google.com/rss/articles/CBMixwFBVV95cUxQb19hWGpnUV9JRm1VbVRMdW1MaW1OQTBmVVBtZEg2dU1UcHIzbHk0bGJFNmlPaGVnU3R6d2gxd01HTlM3ekZuYWpETmlEWDM1TjFfSm5UcVhtM1pTME5CUTA4R1plelFpemxreG5PdVJtbHUxVGNyN2owb3kzVVRHR2loNXVfdmNKS3BTUHlJUVd5RE1WTV9fNGJVOEZ1dlJnMVZtX1pXMGFyb3BsWVFJNFpOTzIzYVEwQ0hfRUZqcU9DeEJ1VHpZ?oc=5>
 
-### 油价，大涨！美媒：特朗普怒斥内塔尼亚胡“疯了”
+### 特朗普怒斥内塔尼亚胡“疯了” 不满以色列升级黎巴嫩局势
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-02 04:03
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE45ZTNadFI0cFBnemJSXzF4b2xvTDRlUjJrX1ppTlZ1OVlJYmFWVVgtajgzRDBxRkNOcGhfUHkzYUxiT09HNUFaQlZyNEZmSm5zSmx3akZYM3JoVXladXQ1cm1weFRrV2hUQmwwNEJhb29CQQ?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-06-02 03:06
+- 链接: <https://news.google.com/rss/articles/CBMimANBVV95cUxOWGFseFA0dUFHS3F6WVh3bzE4TWtfMkJ1NTltQVFwZDVlOHFxUW0tNmJqeTlmRkU5R2Q3dmpkVUoyNUpKYXhDYnI3bHhMM2ZsY0ZWRmFqbnpnVU90M2g2RmphZGVqMzB5ei1Lb3Fpbl9vcjhEZ0toR0R1S1hXV2I0bThUdWNqWGNnN240VmJsSXE0LXQtQm50eDE3clV0TkFqektsMmdQbGRPQ3pucnFZS2lDc1hKYU5IWU1PaDdXS0tzTDB0OF8tV0x6QVg1LXF1c09wamNSZXk4ZEhQZFFEaGxlanl3RVJRWFhTbS1VaWVXV1lDcUxuUlVyTXZLSHdQdXFKSTRHSlJuOGcyRnlsa2tyZFF1LVk4QWdOUFBaRlhCTW5IZzkybmtqckVKRUxNd19TRkQ5X1JFVVcwdFJXMWc1TEJYUDRiQlQ2dTBvdm9XR0ZaMjlFWExzNE9MTlBLX3NqZDVIM0tZYmlrZmZaT1czQ21TbXFhbVdYUW80ckxjNmdncFo0QThCQ3VPcUdUWkFzYXVSdjI?oc=5>
 
-### 美国法官裁定将特朗普名字从肯尼迪中心移除
+### 特朗普被曝拟放弃“反武器化”基金计划
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 中国经济网
-- 时间: 2026-06-02 02:25
-- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zTXZTQ19iQm1ldU13b1NDNDVkRVZhLWNvRkp4T1g3VVlTeGxWVDd3WnE3Yk53WmVYRUdKNTZlemJSYWo0TTM5aVhyWVhXeXE3ajZnQlBnQjhxN1d1eld1UVpnMA?oc=5>
+- 时间: 2026-06-02 08:57
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DWlByb0lZN2NkWVotbFNYY1FxQTdBTTdfeF9SZ3paWHEyMUstWldQRWZTUGZURlRweTdyQ1lJTllEV2tPQ1R1Nkt4b05veUtBZG1IUjNQT3pYNWV2eUVxaw?oc=5>
 
-### 国会共和党人反对压力下，特朗普暗示放弃设立“政治小金库”
+### 特朗普对中国，比对加拿大都亲
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-06-02 02:43
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1LdEs2aV9rUC1adjR5NExwRldOeWFrV1dVTmhnWTNhWS1FZjh6ejZuMTlQdkNIZ0NBUVZoTzA2N01YS0w4dEc1M1dNb2JwX2gtb1dtdjJhZ2VBUG1leDYtNXFWOWVXWVMtclE?oc=5>
+
+### 特朗普执意将美伊谈判与“亚伯拉罕协议”捆绑，意图何在？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中国网
+- 时间: 2026-06-02 00:29
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE1NZm5yb2k2VGdyaldDdnlEcjhXeUZsSDJSUWVEOGkxQkt2dWlyY2lEMHhsSm9WZXg1YUxfTW9pWEJTVndGV0VJekVoRjdJR1Y4LUVDUVM3X0FkRDZaTFZpbnZsb2NTUDJRZXhhZThhVQ?oc=5>
+
+### 联邦明察局·89｜特朗普的私愤正助力民主党在参议院翻盘？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: thepaper.cn
-- 时间: 2026-06-02 02:51
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TbzVHaFRCLW1HNDZSaUhXcUllSy1LTlM5dExCSDRmaXVQWVlXeGlyOGdjUFI3QjhnNjZHQnV3TW9mV1JMcjU3QlAxR3kxLUh2ZV9UeHdqWksxcThaMGlldg?oc=5>
+- 时间: 2026-06-02 05:24
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GdG5XWS0yUHhrTVRXTUNQc09wbVQzbk41bk1vT1ctdG9pY0pRenFYWkhIMXptVmprMjVQc1N1UkUxejZBbU1vNkplVFlWMExTbXlTNEJtamRQc3gzWTJZcg?oc=5>
 
-### 曝特朗普私下多次质疑万斯实力 继承人地位动摇
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-06-02 03:30
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5nY2Z5QkpGUFBuQ0UySFBOQy16YUM3MGx2OHlLM1dOMzZTV2RGRk56a2hjVTlXOE0yVG9jNVRhTkRWVzJQRFJ3YnJ3MU16bHN2ZmE4TzhEZ21xaDFaem9CYXJzTmdxaTlMWlNkcmFsN18?oc=5>
-
-### 美媒爆料：特朗普的做法让共和党内弥漫着极度愤怒情绪
+### 特朗普被曝拟放弃“反武器化”基金计划
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-06-02 03:57
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9WTkZzSVhrenJlSC1oUkVfVWRXc1N4bmswcWZrbEJTejg0Yl9vREd4eEVDR1NHU2lZTG5SQ2gyS0JPbEJzQ1VKZ0dVR18?oc=5>
+- 场馆: 新华网
+- 时间: 2026-06-02 07:26
+- 链接: <https://news.google.com/rss/articles/CBMid0FVX3lxTE9UWWdRcXIwSDljenV2VFdnWnFONEF0Q2dMTGoycGJxVGRQVGR4VW9DT0t5c1U0X0d4bUN5YnBwY1NxaFZMQUlBNUV1WUU3RFpmMlhaRDNkTExLU3paYmVZdmd1UjJBb2UtdDFPa2ktdGFrZDlvRnRv?oc=5>
 
-### 墙外文摘：台湾并非中美关系的核心问题
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: dw.com
-- 时间: 2026-05-31 12:37
-- 链接: <https://news.google.com/rss/articles/CBMilAJBVV95cUxOQ3FYRzhqNnUzM1NZamhoaGU5RkdjTzNHT2NfOG9NWXBLOUFpNEc3LVZ0MzNtUTkwS3NhWFREUUhSdXlJS2U2dzdZS0NJdmUtOHM0bjZiSjJhUWVuTVdlRkxjTlZDX3F6TUVUMjNfTUpPVVNyT2F4VTdrSVpfclBqTFhVR2JyeXpIcllkUHRyNHA2Mmh2TEtkR1FEX0NrQ0lZREpkSjRwZ1NBYmdBTTZudEF1bkUydTBDZUl5UzZIOHFGb0tIM3Rpc2xoQ0h3SXRYc19BSkRkbDhzSFR6dkxUdldwNXg5QmNCR3lnaDR0bXBnV3FEaURXTFhVUF84VHRYbGw4Q0U0SThyOEFXNER6N0l0WGHSAZQCQVVfeXFMTVkzdGNQNmZzY1E2SzUtaEhrVGNtRlZZWVhxb1FwT294aE9YVDdVM1U4UFZoWTFyZFBNaFVqWU1RcEdtS0FmektkZDNyMkhzMzZiVnk2WFFyNVUyd1U5eXVnTmFwT2ZOMy1zVU5hMkVQUkV5X1E4QTFFc3NIMGV4aGdLY1RUeUM5WEhWc0FFbkoyeXJnQUZQU1ZCeE1IemJRQm1BM08zU0VQQjQ1eXpWNE1aa0ZPYVR4WXBHbjJKd0Q3MHVEYlZoUnJKSjRKMFg3blZxS2FGXzBjb3dDenhXZC1vNUU3N0lPOGtZUmRQdUVlWlZaUmJuWlFpNkZIN3F5UnZvNHhhQ2c0QzFLTVZhRlo5eUk3?oc=5>
-
-### 特朗普调整部分金属进口关税 农业与工业设备税率下调
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-06-02 02:12
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1VRGozTFl6VTlqMnhaMmVUZ29iR2FHdGVXeU8yYXQ1bXhZMEpXZXotY0E0OTktUHFJOEJENXVtdkNodGU0cmZSNUl4M2FJeWNsUWxqdG9GN0FIeEtmZ0NtZWwwMktsNTBWdVE?oc=5>
-
-### 特朗普寻求缓解黎巴嫩战事 伊朗暂停与美国谈判
+### Crypto Ahmet (@Crypto_Ahmet)的见解
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: AASTOCKS.com
-- 时间: 2026-06-01 23:57
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE1vOERaaFloN0RBQXhvbVdPZjF0Vkh0TmNKM0NUTi1iUmE5amVyZFpfVEZfcmdMdFZ3ZHRPTTFqa2ZWZ21VRUZDUXl3QTc1UnZTZEdKNW1sdUJ2NGFwcGlZYXVyR2hEMUV4VkVpUy1oWQ?oc=5>
+- 场馆: Binance
+- 时间: 2026-06-01 21:55
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBLUGY5N2htZmtBbG5jWS1XSzhRajhBbVdlMy14cERub2NsSlVVSzZtSmwyRUgyWmpTOERTX1ZJcF9ZcnVpT0IwYlduRmRKUVNBOWM4dW9FMDdrZmpvMGgyc3RoNDFIUTNW?oc=5>
 
-### 特朗普旨在缓和黎巴嫩紧张局势，维持谈判不中断
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-06-02 04:06
-- 链接: <https://news.google.com/rss/articles/CBMiogFBVV95cUxQX0lFSHhWUHljR3hFNF9FSnlCci1qN3J6VVlMalpOSEUyQ1h0ZnRMMVAtczRGWWFjeUllUThFa3JRcWJJZVNLMDdXb2s3VlVZemRMX0RydDhTbTFFYW9naDBHYVgxZmtiek1iMzJGN09rcDVMMHJfS3dsczVnNFlsNnVHNzBBazlmMUExd2wyNm5feHhEM2pzUmw1ZzRrZnNELUE?oc=5>
-
-### 盘点：特朗普执政以来美国参与的军事行动
+### Dow Jones Top Markets Headlines at 5 AM ET: Oil Pares Gains After Trump Efforts to Broker Israel-Hezbollah Ceasefire
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 茉莉花新闻网
-- 时间: 2026-06-02 03:00
-- 链接: <https://news.google.com/rss/articles/CBMinAJBVV95cUxORzJLWnQyUWk3YmdCZ20wTjlCVE5wX3hFaGNmQW5aT3V3d3FOZUpUWmhlcTRyalZ6RUpESjRCVF9aNGNLYlZVRy1vS01WTktXZC1ZNnlobi0yMWFQUHNPRW9ZcUhjWDVJdlV0dkNwSzlXYWJnSTR6TDRXTUxiTlBIOXRaOXhUYXZwcVNKUW05Wm5DamNFMEFzYmpKemRwLWdjMnhXWHpOdm9TbGNQUk1kUThGbEo0OElSN2RnaWZFblNJWVh4OFNYSWVWMXJ3S1poRlhORFZoUzk4enp3aTZPWVJsUHJWTThnNlBva3RvYmQ1RGdkTVlyUE8xMTNJRy1pbWdnWlQtaDlaMFp2SloxVUNWQmFFVjlJY2F6dg?oc=5>
-
-### 美股指数回升因特朗普称以色列与真主党同意在黎巴嫩降温冲突财经新闻Financial News
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: AASTOCKS.com
-- 时间: 2026-06-01 21:03
-- 链接: <https://news.google.com/rss/articles/CBMihgFBVV95cUxNVmF5bmJNYWRpaFpxWW5YcXBrNExwa1J4NF8wQ3JnandKOUdDeXk0SHRkWmNUdHl5MkJHUEl1enRyZzVSSjMwUEtnYzZMUWxYN1YxREpLajNCX0dYZlNwSjVKYk9iMTcwNFdBYXJkb2lCdVh4Z3ItY3AwU1ozcDhvOTc5UHBlZw?oc=5>
+- 场馆: 富途牛牛
+- 时间: 2026-06-02 09:05
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxNdk8takM5QmR5cXVqcmVSd05xUE82RFk2cWh3S2VkQXpVSGpmSV9wWlhob2pJd0xKdC1udkZHWG9SdktZMXllZmlnNmpWUldySmVTcGdwUmtFMTcybFRvckdxY0ZsZHFXa2NZRlFsSkpEVnNPWHhhQUlZVHFOTlJiR2V2QUU2czJLWHlhSA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-02 09:47  (13 条)
+
+- **周杰伦** | 周杰伦发布与王俊凯黄晓明合照 <https://k.sina.com.cn/article_6377398640_17c1f617004001oe60.html>
+- **周杰伦** | 周杰伦演唱会现场演出引歌迷感叹 <https://k.sina.com.cn/article_6085757482_m16abd4a2a05301m2ma.html>
+- **周杰伦** | 周杰伦演唱会“神级转场”画面太强大！歌迷赞爆：惩罚上厕所的人 <https://k.sina.com.cn/article_7857201856_1d45362c001906af38.html>
+- **特朗普** | 不满以方“搞事” 特朗普怒斥以总理“疯了” <https://news.google.com/rss/articles/CBMif0FVX3lxTE14U19taGl3YWltZ2JNaTZOcUJIV2lxSXAwcVN6eENwdmxRcnIxOGFJT1lIMWR1MVpJRE12TzBFa2U2c2dQTDZwZ1A4U1NoNFdLTUR6LUpPME5fRGlOcHFOZFZjVUNhazY0WVp3b3dVXy0xd2RtbmItUTc2SDhlc00?oc=5>
+- **特朗普** | 被特朗普怒骂后 内塔尼亚胡强硬表态：真主党不停 以色列就不停 将继续打击黎巴嫩南部 <https://news.google.com/rss/articles/CBMixwFBVV95cUxQb19hWGpnUV9JRm1VbVRMdW1MaW1OQTBmVVBtZEg2dU1UcHIzbHk0bGJFNmlPaGVnU3R6d2gxd01HTlM3ekZuYWpETmlEWDM1TjFfSm5UcVhtM1pTME5CUTA4R1plelFpemxreG5PdVJtbHUxVGNyN2owb3kzVVRHR2loNXVfdmNKS3BTUHlJUVd5RE1WTV9fNGJVOEZ1dlJnMVZtX1pXMGFyb3BsWVFJNFpOTzIzYVEwQ0hfRUZqcU9DeEJ1VHpZ?oc=5>
+- **特朗普** | 特朗普怒斥内塔尼亚胡“疯了” 不满以色列升级黎巴嫩局势 <https://news.google.com/rss/articles/CBMimANBVV95cUxOWGFseFA0dUFHS3F6WVh3bzE4TWtfMkJ1NTltQVFwZDVlOHFxUW0tNmJqeTlmRkU5R2Q3dmpkVUoyNUpKYXhDYnI3bHhMM2ZsY0ZWRmFqbnpnVU90M2g2RmphZGVqMzB5ei1Lb3Fpbl9vcjhEZ0toR0R1S1hXV2I0bThUdWNqWGNnN240VmJsSXE0LXQtQm50eDE3clV0TkFqektsMmdQbGRPQ3pucnFZS2lDc1hKYU5IWU1PaDdXS0tzTDB0OF8tV0x6QVg1LXF1c09wamNSZXk4ZEhQZFFEaGxlanl3RVJRWFhTbS1VaWVXV1lDcUxuUlVyTXZLSHdQdXFKSTRHSlJuOGcyRnlsa2tyZFF1LVk4QWdOUFBaRlhCTW5IZzkybmtqckVKRUxNd19TRkQ5X1JFVVcwdFJXMWc1TEJYUDRiQlQ2dTBvdm9XR0ZaMjlFWExzNE9MTlBLX3NqZDVIM0tZYmlrZmZaT1czQ21TbXFhbVdYUW80ckxjNmdncFo0QThCQ3VPcUdUWkFzYXVSdjI?oc=5>
+- **特朗普** | 特朗普被曝拟放弃“反武器化”基金计划 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DWlByb0lZN2NkWVotbFNYY1FxQTdBTTdfeF9SZ3paWHEyMUstWldQRWZTUGZURlRweTdyQ1lJTllEV2tPQ1R1Nkt4b05veUtBZG1IUjNQT3pYNWV2eUVxaw?oc=5>
+- **特朗普** | 特朗普对中国，比对加拿大都亲 <https://news.google.com/rss/articles/CBMiakFVX3lxTE1LdEs2aV9rUC1adjR5NExwRldOeWFrV1dVTmhnWTNhWS1FZjh6ejZuMTlQdkNIZ0NBUVZoTzA2N01YS0w4dEc1M1dNb2JwX2gtb1dtdjJhZ2VBUG1leDYtNXFWOWVXWVMtclE?oc=5>
+- **特朗普** | 特朗普执意将美伊谈判与“亚伯拉罕协议”捆绑，意图何在？ <https://news.google.com/rss/articles/CBMib0FVX3lxTE1NZm5yb2k2VGdyaldDdnlEcjhXeUZsSDJSUWVEOGkxQkt2dWlyY2lEMHhsSm9WZXg1YUxfTW9pWEJTVndGV0VJekVoRjdJR1Y4LUVDUVM3X0FkRDZaTFZpbnZsb2NTUDJRZXhhZThhVQ?oc=5>
+- **特朗普** | 联邦明察局·89｜特朗普的私愤正助力民主党在参议院翻盘？ <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GdG5XWS0yUHhrTVRXTUNQc09wbVQzbk41bk1vT1ctdG9pY0pRenFYWkhIMXptVmprMjVQc1N1UkUxejZBbU1vNkplVFlWMExTbXlTNEJtamRQc3gzWTJZcg?oc=5>
+- **特朗普** | 特朗普被曝拟放弃“反武器化”基金计划 <https://news.google.com/rss/articles/CBMid0FVX3lxTE9UWWdRcXIwSDljenV2VFdnWnFONEF0Q2dMTGoycGJxVGRQVGR4VW9DT0t5c1U0X0d4bUN5YnBwY1NxaFZMQUlBNUV1WUU3RFpmMlhaRDNkTExLU3paYmVZdmd1UjJBb2UtdDFPa2ktdGFrZDlvRnRv?oc=5>
+- **Trump** | Crypto Ahmet (@Crypto_Ahmet)的见解 <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBLUGY5N2htZmtBbG5jWS1XSzhRajhBbVdlMy14cERub2NsSlVVSzZtSmwyRUgyWmpTOERTX1ZJcF9ZcnVpT0IwYlduRmRKUVNBOWM4dW9FMDdrZmpvMGgyc3RoNDFIUTNW?oc=5>
+- **Trump** | Dow Jones Top Markets Headlines at 5 AM ET: Oil Pares Gains After Trump Efforts to Broker Israel-Hezbollah Ceasefire <https://news.google.com/rss/articles/CBMijAFBVV95cUxNdk8takM5QmR5cXVqcmVSd05xUE82RFk2cWh3S2VkQXpVSGpmSV9wWlhob2pJd0xKdC1udkZHWG9SdktZMXllZmlnNmpWUldySmVTcGdwUmtFMTcybFRvckdxY0ZsZHFXa2NZRlFsSkpEVnNPWHhhQUlZVHFOTlJiR2V2QUU2czJLWHlhSA?oc=5>
 
 ### 2026-06-02 05:08  (18 条)
 
