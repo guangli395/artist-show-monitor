@@ -1,86 +1,53 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-02 21:29**
-- 本轮扫到 2572 条, 新增 **9** 条
+- 最近更新: **2026-06-02 23:16**
+- 本轮扫到 2576 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (9 条)
+## 本轮新发现 (4 条)
 
-### 2026年周杰伦南宁演唱会购票须知（票价+实名制+限购）- 南宁本地宝
+### 周杰伦长沙演唱会主办方最新回应!
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906b7ec.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906banu.html>
 
-### 特朗普总统签署人工智能行政令，要求新模型发布前让政府提前审查
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-06-02 20:17
-- 链接: <https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUFVWWko4bDBlaFEwZkNSWlFzN2dHM0t6Y29nYTQ4U1k4RDNiT2R1d3ZacmJRN2hoZ0M4bHZaeUl0YVVqSmpTZ0FvVUt1MTlCcTVRbTJCNVE3N1YwM2VQN2ZmTGJPeVg5YkxNRDg0TEY1MXZybng4MHJ4Qy11X01iM1owRW02cl9pVEJHLWdKXzVUZlhlVFRwRFBBcjNXWkhISTVaOERkdUlSVnBfRzV4ZmVxbUdQd1M2RC1pZTB6ZEFEZ0VMcU5hY2JaZ3dsZlRyLUtJcmdQVk9OVXJJS1J4cNIB4wFBVV95cUxQeUx0bkdjS3oyRWlIT05aTGUzdUdud0lHWGFhdm1TRnFhNnpScHpLNW5LLVVpRnFLSWRXY0JXbTk3OFlJSC1vUkp3VWxybG5iaTdaMXpaOVY2U3oxeURWOHhRWmFsMi1vLUlZZGtLQkI3Tmo2VVJ5LWpDWmhYRktFYVV2WkxSd2c4SE45LS1XazVhWGtXQzFsYWVycmZMTmtMeUgxSkFpa3ZjNGI0cjFidWpESkJLVkVOcWFaSV9TWjVGQlVia1V5NEZEeVN5UVhaZHBQV2szTXFyMXM1bVYwbEo0RQ?oc=5>
-
-### 白宫记协晚宴改期至7月 特朗普称计划出席
+### 特朗普称美伊对话一直在持续进行
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 央视网
-- 时间: 2026-06-02 20:56
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9wOVZObS1zSm5HZ01GcWlZcXIyTThKUnBjcHdxeVVzVEhwU2dPX3RMcVJMWmk0ZVk1NWtOdW5obExTS3VRNWlRcUJDZHBmbVd3eVMybkVvUktQWmtIMVhNMExzRlVNb09sckJhNDhCbTRJRDJWSDIzZA?oc=5>
+- 场馆: chinanews.com.cn
+- 时间: 2026-06-02 22:37
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fQmdEaGNnVFZDZFF5MFFmVXdVcndhem1ESFlYSFJid3BkLXRRNUJudlZEUm9Gb043WFA1Z2szaXpCaElMbFduMDZVWk9UNVJWUjhPQzlIbjdGX0haUWJrWFZHZWd2NXNs?oc=5>
 
-### 特朗普参加“补办”的白宫记者晚宴
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-06-02 20:18
-- 链接: <https://news.google.com/rss/articles/CBMiigJBVV95cUxQVGJ4T0lFVDY2OWJFTDRRSUoxeXAyV2hTcU9TcHQ0TDY4UHFqcklWUkRvSGktYUsxMlViRGlSVXdKMkVTdUJZbUlwR3ZJYVpjandXVDdSV3ROX2ZTUnQzMXpnbUhibDVBNTF6aThIQnp5SjU2azljZlUzbDhZRTFRTkNKcFFrX19vZDBVSEQtcFpGYld6bVNFeHQ5NHkzT2hBVTNHWVpxUUJacjhXdUN1dGMzdGZSVUNVRWRGcHVpNDZqRzJGaGRKZlgtcU1zbFhwb3ZHcmZGaVJfOC1kN0VJM24xYVpHbHhINWhWSHhtcUpPRVVDRXBBYVRNNHZVaXotNUhjc0J5WWRLUQ?oc=5>
-
-### 白宫宣布，特朗普已签署行政令，旨在推动人工智能创新并筑牢相关安全保障。
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-02 15:36
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5BZHM5ZGtyUHVZcGoxU3g0bDRhQjFTT2Jjb2NwenR6U1dFcVZYaVBjZG9GYnhOUExjaXdNVXFUYUt4TU5HLVYzN0ZSZw?oc=5>
-
-### 特朗普人工智能安全令核心涉及的三只股票
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: video.sina.com.cn
-- 时间: 2026-06-02 20:49
-- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxPa3ZCbW4tc3IxT0x1bHZSTzFOVWlYZVJ6VXdXWXdENUR5N0RWZ1ZJblZEaFdmVEp4YzZyOTZjdEpTOWEzbTJDcXdTUVFkQXhoUFpWZTB4aTRXNm40UGFqTnlUU25rTVdWUnlwMk1NRWsyZXFWXzhLVzZLanNpTkdlazl3?oc=5>
-
-### 特朗普任命普尔特为代理国家情报总监
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-06-02 13:18
-- 链接: <https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUW5uTkRFeV9iUlgtQzRteFEyTC0xa0MzRlJWVnpnLVNWQ1NucnhEcXBBYVByb3h2aXdPemg2VzVYaE1DWlNrT2dTMF9ZMFNtQTNCOWZtaHhXQ0prNWdEMy1iUFVneG1nMXEwZm1LWTlXUmNUU1JCT00tQzRpNlhHdWg5RE1na3E2Mll0U2ZfRUZpdFMtUDcxM1FOcW5WdjVscTExM05HSFJVS3QzNldfZ29pRVR5SExQSmdLZjRicTkzcXBIeWl0eEdSdnhmMWk1bVRz?oc=5>
-
-### 特朗普任命比尔·普特 （Bill Pulte）出任代理国家情报总监
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-06-02 19:56
-- 链接: <https://news.google.com/rss/articles/CBMi2wJBVV95cUxOMFhOcGtkSEgtY3pqb3ZJQTVPU25HYlAzVXBFeXBKS1RuU3ZCYlAwZEVKOVBRMDVNS3dwTFVvUWhHaE45V2h0Vkp6MjJqSjZLUVJuVjRCRGd3X3h3MXBMbVZoaFVjUmM0YUhqUnVLZFQwZXJvSGUyaUdtZTl0ZTZmeXdnYlNqZXhWQWZFUm1pMDdxMjFaN0I1U1JoQVFfbVdQazQ5VzJzQ0dscjNfeWpRaTI2U2RGbEIzZWJpMUVkWVhldjFzWDF0X0ZlUXJXSzRvcnVtZmVyeGk5d01JS1RmaXdXYVhIOXYtYl9QaERVdnBKLThzSjVuczhoYmxYX2prWjliN0dGNWlmQWNFMW5RMWh1eTVYRUJkbC15c0lTQU9QRWQ2Nnl6RDREUkxNeGxkYkEyVWJrS0VWQ1VWVXpFbERZYnhIanRhY0ZQaTVlZkFteWY5b1JUUmZobw?oc=5>
-
-### 特朗普驳斥美伊暂停谈判说法“虚假且错误”
+### 特朗普参加“补办”的白宫记者晚宴 - 法国国际广播电台
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-06-02 20:46
-- 链接: <https://news.google.com/rss/articles/CBMiuAJBVV95cUxNQWpfbEFnaDd3dU9BRGRjRURPcXFJSHpYS0hNcTVXVHktbTlrc18tdDNnVGV1RXhOMTkwNi1tRVByWndiZjczXzJqNHhwRUlxRnN1YllVWGJ3RURMcTBiUV82Vl93Q3VRVjQ5ZTlMQmNrVGV1bjcxcDI5U0dJdXRNam9jNVZ6bWlXRndRdlhrTnM4ZktNTGdYbUFaYjZEU1k4TWhwb211bzJiN3JJOXpsU3IxcjUtM1h0eWt1Z0FvT29PNkhrMHgtQ3R2NmxkRzZUS1pybTIya3RuWEtCVzhpNTBzbkFyVVJHZ2ptNWZGRlk5VjZBMVgyNXVTUU9BYnpNZVR2QkhGdkQyaHR1WThTYlNFVkVQSEhqSzJTNWVlYVdPbGRNbnZwaGZEUkxsOWJxRXVGM1dORWk?oc=5>
+- 场馆: 茉莉花新闻网
+- 时间: 2026-06-02 22:34
+- 链接: <https://news.google.com/rss/articles/CBMingJBVV95cUxOVUcxYTdUcEc0MmVTRFdMZnRWdEI2QUxLRnRUMlRlVFlsZGY4Ujk1eXUtekpSNVJUcks4bEhQRk1VYlVRY29Fd3o2OVNaUXNLd29HLXR2TFo0ZmtGeWVxRkhwd3lrcE9CNTJnajFGUTVpMlMyTVBfdTFNbFhzM2xIRFlZQWl6WG4ySE9pbG1ZMGFaeDU5bkpqUDVCRjNIdmFhWUhuZWx0NWI2Y3MyYXhJRmUzeEgyWUo2bjhEN2NHOTRxQ0ZDaFdwTDI0MDliUU8yVFFpNXB1RHdNT3VNeVJHNXNVNS1SS0g4M285OEpJWkV5NHQ0LWxyYUdxSUdEWlhpNWpHbkxFTEp2a3ktRUljVTVwckhreC1GaEhQdjZn?oc=5>
+
+### WLD PRIVACY (@Square-Creator-99_mohamed)的见解
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Binance
+- 时间: 2026-05-31 11:45
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HTGZEWjNwM0Q3SWlTV05PVGNmWENBRnRXRUdhcXlmMkI1VVg2TFM0NmdJNFlYSW96N3ZrbnBYcl9rZzFVNGdNUHhOWWhLQ2dDR3lhd1NWVnZLVnNRX0tYV3VZMEVwdVhf?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-02 23:16  (4 条)
+
+- **周杰伦** | 周杰伦长沙演唱会主办方最新回应! <https://k.sina.com.cn/article_7857201856_1d45362c001906banu.html>
+- **特朗普** | 特朗普称美伊对话一直在持续进行 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fQmdEaGNnVFZDZFF5MFFmVXdVcndhem1ESFlYSFJid3BkLXRRNUJudlZEUm9Gb043WFA1Z2szaXpCaElMbFduMDZVWk9UNVJWUjhPQzlIbjdGX0haUWJrWFZHZWd2NXNs?oc=5>
+- **Trump** | 特朗普参加“补办”的白宫记者晚宴 - 法国国际广播电台 <https://news.google.com/rss/articles/CBMingJBVV95cUxOVUcxYTdUcEc0MmVTRFdMZnRWdEI2QUxLRnRUMlRlVFlsZGY4Ujk1eXUtekpSNVJUcks4bEhQRk1VYlVRY29Fd3o2OVNaUXNLd29HLXR2TFo0ZmtGeWVxRkhwd3lrcE9CNTJnajFGUTVpMlMyTVBfdTFNbFhzM2xIRFlZQWl6WG4ySE9pbG1ZMGFaeDU5bkpqUDVCRjNIdmFhWUhuZWx0NWI2Y3MyYXhJRmUzeEgyWUo2bjhEN2NHOTRxQ0ZDaFdwTDI0MDliUU8yVFFpNXB1RHdNT3VNeVJHNXNVNS1SS0g4M285OEpJWkV5NHQ0LWxyYUdxSUdEWlhpNWpHbkxFTEp2a3ktRUljVTVwckhreC1GaEhQdjZn?oc=5>
+- **Trump** | WLD PRIVACY (@Square-Creator-99_mohamed)的见解 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HTGZEWjNwM0Q3SWlTV05PVGNmWENBRnRXRUdhcXlmMkI1VVg2TFM0NmdJNFlYSW96N3ZrbnBYcl9rZzFVNGdNUHhOWWhLQ2dDR3lhd1NWVnZLVnNRX0tYV3VZMEVwdVhf?oc=5>
 
 ### 2026-06-02 21:29  (9 条)
 
