@@ -1,46 +1,114 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-02 23:16**
-- 本轮扫到 2576 条, 新增 **4** 条
+- 最近更新: **2026-06-03 02:05**
+- 本轮扫到 2587 条, 新增 **11** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (11 条)
 
-### 周杰伦长沙演唱会主办方最新回应!
+### 粉丝豪掷14万购蔡徐坤专辑,获80秒签售对话机会
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7517306927_m1c011002f03301gje6.html>
+
+### 王楚钦2014至2024成长历程视频发布
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906banu.html>
+- 链接: <https://k.sina.com.cn/article_7879923907_m1d5ae18c303301ed1u.html>
 
-### 特朗普称美伊对话一直在持续进行
+### 特朗普据悉继续获得税务审计豁免 但18亿美元基金计划面临变数
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-06-02 22:37
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fQmdEaGNnVFZDZFF5MFFmVXdVcndhem1ESFlYSFJid3BkLXRRNUJudlZEUm9Gb043WFA1Z2szaXpCaElMbFduMDZVWk9UNVJWUjhPQzlIbjdGX0haUWJrWFZHZWd2NXNs?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-06-03 00:47
+- 链接: <https://news.google.com/rss/articles/CBMipwJBVV95cUxONkJUNkl2U2RiaDJiWEhiUjFsVWh2VFJNLVFvNV9fMGFadkREUGhjYWpjbUMzYl9GUEZWQnlsVVdqRFlHRnZ2ZmU3dnZBTW1QOV9vd0NoVVhncDdFd1I2VHJ4dWk0MUpLVWNsV19rbzVMUzFKX3pGZWdjd1JDdlVTdEpvdGNGck83S2poSUU4LW5Uam85eDRWNkRuMWV2Q1VqODZvaG01SmNzYS1qOUxJQ1JuOC1lakI4OUJRaG9FUnpwS09zUlF5bzN4Q0RRZk9qQS1EdVpNUTlGdDZIOElRUG4yZFFSR2RaT25YRFE1S1RYVjA2VlZBeGY0NkczM0cwN0lab0twR2hyOU02dksyRWt3NjFyM2FOeWhsbXp0S3VMYnIwUXBN?oc=5>
 
-### 特朗普参加“补办”的白宫记者晚宴 - 法国国际广播电台
+### “被特朗普斥‘疯了’”后，内塔尼亚胡最新强硬表态
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪军事
+- 时间: 2026-06-02 23:51
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5jOVdoZUVvM0dqR2RMX1hJaDI1Y3NRVDR4NkJJaVVGQy0tVk4yeTJqUlM2Nkl4cGgzSkxkTVhzSlhDME92X1pHZGprMmR1a2d4Q3R3bkZYSmo1N045NDBUY3FiQy12dE9OTEtVWHNyRGlyTU0?oc=5>
+
+### 特朗普签署AI行政令以加强政府监管
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-06-03 00:29
+- 链接: <https://news.google.com/rss/articles/CBMimgJBVV95cUxQWTk2ZFlYRlpwYzhKSUNtZUZIamF3SnZ1ZVVMaVY2dnZuRXBQQXU3MndKaG1BTHhObHJtN3F6WGFhNG9xb1dDZUVtZ1VNVEo4MFMxTkE2Q3JQRHlVUGxsM1V4LUpzS2djNEtZZkg5bmQzbGRWZ2k5d015MVJJa3hXUnlKVmQ1SXpqRkZDT2J6dTBQSUhNWmdkMUdDYk9DS1lNUmYxTE0tc2RSWHRnYnRZdGotc0J3NU56UGQwOXhqRG0tM3JmTURLdGFiSzZrazR4Zlh6ZzJxV1V5VmdEMWlFZjZDY09zYWo4QXd3bjc0VUNlQ0pWUWNMa0tOQ2o1emxBbkRjNTVRMkRFLUtja0E2VUx5LUR2VG1TSWc?oc=5>
+
+### 盘点：特朗普执政以来美国参与的军事行动
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 纽约时报中文网
+- 时间: 2026-06-02 02:13
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE11RnJSUnR5czQ4VUIxY2tKOEpRLTlxWU8yOXdIWVgzckx0d3FUYWppSHpQZ3gwUC0wZGhfaERnbm1oc0lNcHhEMW1FTXEwd3RLYWJEXzBVSi1DSHhicFQ0OFF0WFhldG1Q?oc=5>
+
+### 特朗普还是签了，曾忧心“让中国领先”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察
+- 时间: 2026-06-03 01:48
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBzcmpWbnU0T3pIQXZ0bVd1VFptSUc1akpuVUFNYV8xQWVCeC01Wk1uTGplalM3ZU14bUNLMU5Gc25tVkllT3lOdDlfSG5kUjVYVy1IdW1UeUVuSHpoeTBETHRSdW1tMjhpX3c?oc=5>
+
+### 特朗普否认美伊对话已暂停数日
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-06-03 01:10
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pTTE4akhEdWs0cjFjaUZJVkF2NmdUenVNVmU0RnV4VHRoMktkeXZhTmU5TmlZdWlEQWZEVVlsYnBNZW8wTWlHeUxBV0hkTVNBZXBQeGUwYkl2RHYyTnR1MA?oc=5>
+
+### Trump 签署行政命令 采取对 AI 网络安全的自愿性措施
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 茉莉花新闻网
-- 时间: 2026-06-02 22:34
-- 链接: <https://news.google.com/rss/articles/CBMingJBVV95cUxOVUcxYTdUcEc0MmVTRFdMZnRWdEI2QUxLRnRUMlRlVFlsZGY4Ujk1eXUtekpSNVJUcks4bEhQRk1VYlVRY29Fd3o2OVNaUXNLd29HLXR2TFo0ZmtGeWVxRkhwd3lrcE9CNTJnajFGUTVpMlMyTVBfdTFNbFhzM2xIRFlZQWl6WG4ySE9pbG1ZMGFaeDU5bkpqUDVCRjNIdmFhWUhuZWx0NWI2Y3MyYXhJRmUzeEgyWUo2bjhEN2NHOTRxQ0ZDaFdwTDI0MDliUU8yVFFpNXB1RHdNT3VNeVJHNXNVNS1SS0g4M285OEpJWkV5NHQ0LWxyYUdxSUdEWlhpNWpHbkxFTEp2a3ktRUljVTVwckhreC1GaEhQdjZn?oc=5>
+- 场馆: AASTOCKS.com
+- 时间: 2026-06-02 23:52
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE9FbEUyWVBRWngzM3hRXzNrdC04Zmp0Q1BVcXk4TWtweTNDWnhkLWdUUmdtTDdCRjMtTTY1QWJ4V0hON21JSWZIY0UtUThNd2MtTFR3bEN4SFB4SmhPQ2xMUHhTT180cGc4cHd1VHExYw?oc=5>
 
-### WLD PRIVACY (@Square-Creator-99_mohamed)的见解
+### Trump 签署行政命令采取对AI 网络安全的自愿性措施财经新闻Financial News
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Binance
-- 时间: 2026-05-31 11:45
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HTGZEWjNwM0Q3SWlTV05PVGNmWENBRnRXRUdhcXlmMkI1VVg2TFM0NmdJNFlYSW96N3ZrbnBYcl9rZzFVNGdNUHhOWWhLQ2dDR3lhd1NWVnZLVnNRX0tYV3VZMEVwdVhf?oc=5>
+- 场馆: AASTOCKS.com
+- 时间: 2026-06-02 23:52
+- 链接: <https://news.google.com/rss/articles/CBMihgFBVV95cUxQeUFBVDhZR1hnZ2luS0R2dDV1NXRmZHBjMTZEZWN2TlpYWlhOSnRkSHdDWmY1MDNhZ3ZUcXZxWHI5MHJKV0dXQlhGQlJKMExTOW5TTHQ1ZmpwRkR5ajRaeGZ0ejJaUVd2elI3WWZsWEJMaWxsWTVUeWg3eTJaUzFJMWViTERndw?oc=5>
+
+### 美股指数微升特朗普推动以色列－真主党停火、科技股延续升势财经新闻Financial News
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: AASTOCKS.com
+- 时间: 2026-06-02 17:38
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBFWFptVG4xRXplUkQzaDR0WGhXSFZSM0xVYUEySDgtZ1BlMDNjaU5RSklwdG1JSFhuQzRzTEt4b2tLdGhrdnhiNThMcHRwMl95ODJ2WWVtcFlzZDdiY0NZNTY4Zk05c1pjMlJUaFZMREZrT0hPcHFtY3p0Qnk0VVE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-03 02:05  (11 条)
+
+- **蔡徐坤** | 粉丝豪掷14万购蔡徐坤专辑,获80秒签售对话机会 <https://k.sina.com.cn/article_7517306927_m1c011002f03301gje6.html>
+- **周杰伦** | 王楚钦2014至2024成长历程视频发布 <https://k.sina.com.cn/article_7879923907_m1d5ae18c303301ed1u.html>
+- **特朗普** | 特朗普据悉继续获得税务审计豁免 但18亿美元基金计划面临变数 <https://news.google.com/rss/articles/CBMipwJBVV95cUxONkJUNkl2U2RiaDJiWEhiUjFsVWh2VFJNLVFvNV9fMGFadkREUGhjYWpjbUMzYl9GUEZWQnlsVVdqRFlHRnZ2ZmU3dnZBTW1QOV9vd0NoVVhncDdFd1I2VHJ4dWk0MUpLVWNsV19rbzVMUzFKX3pGZWdjd1JDdlVTdEpvdGNGck83S2poSUU4LW5Uam85eDRWNkRuMWV2Q1VqODZvaG01SmNzYS1qOUxJQ1JuOC1lakI4OUJRaG9FUnpwS09zUlF5bzN4Q0RRZk9qQS1EdVpNUTlGdDZIOElRUG4yZFFSR2RaT25YRFE1S1RYVjA2VlZBeGY0NkczM0cwN0lab0twR2hyOU02dksyRWt3NjFyM2FOeWhsbXp0S3VMYnIwUXBN?oc=5>
+- **特朗普** | “被特朗普斥‘疯了’”后，内塔尼亚胡最新强硬表态 <https://news.google.com/rss/articles/CBMic0FVX3lxTE5jOVdoZUVvM0dqR2RMX1hJaDI1Y3NRVDR4NkJJaVVGQy0tVk4yeTJqUlM2Nkl4cGgzSkxkTVhzSlhDME92X1pHZGprMmR1a2d4Q3R3bkZYSmo1N045NDBUY3FiQy12dE9OTEtVWHNyRGlyTU0?oc=5>
+- **特朗普** | 特朗普签署AI行政令以加强政府监管 <https://news.google.com/rss/articles/CBMimgJBVV95cUxQWTk2ZFlYRlpwYzhKSUNtZUZIamF3SnZ1ZVVMaVY2dnZuRXBQQXU3MndKaG1BTHhObHJtN3F6WGFhNG9xb1dDZUVtZ1VNVEo4MFMxTkE2Q3JQRHlVUGxsM1V4LUpzS2djNEtZZkg5bmQzbGRWZ2k5d015MVJJa3hXUnlKVmQ1SXpqRkZDT2J6dTBQSUhNWmdkMUdDYk9DS1lNUmYxTE0tc2RSWHRnYnRZdGotc0J3NU56UGQwOXhqRG0tM3JmTURLdGFiSzZrazR4Zlh6ZzJxV1V5VmdEMWlFZjZDY09zYWo4QXd3bjc0VUNlQ0pWUWNMa0tOQ2o1emxBbkRjNTVRMkRFLUtja0E2VUx5LUR2VG1TSWc?oc=5>
+- **特朗普** | 盘点：特朗普执政以来美国参与的军事行动 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE11RnJSUnR5czQ4VUIxY2tKOEpRLTlxWU8yOXdIWVgzckx0d3FUYWppSHpQZ3gwUC0wZGhfaERnbm1oc0lNcHhEMW1FTXEwd3RLYWJEXzBVSi1DSHhicFQ0OFF0WFhldG1Q?oc=5>
+- **特朗普** | 特朗普还是签了，曾忧心“让中国领先” <https://news.google.com/rss/articles/CBMiakFVX3lxTFBzcmpWbnU0T3pIQXZ0bVd1VFptSUc1akpuVUFNYV8xQWVCeC01Wk1uTGplalM3ZU14bUNLMU5Gc25tVkllT3lOdDlfSG5kUjVYVy1IdW1UeUVuSHpoeTBETHRSdW1tMjhpX3c?oc=5>
+- **特朗普** | 特朗普否认美伊对话已暂停数日 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pTTE4akhEdWs0cjFjaUZJVkF2NmdUenVNVmU0RnV4VHRoMktkeXZhTmU5TmlZdWlEQWZEVVlsYnBNZW8wTWlHeUxBV0hkTVNBZXBQeGUwYkl2RHYyTnR1MA?oc=5>
+- **Trump** | Trump 签署行政命令 采取对 AI 网络安全的自愿性措施 <https://news.google.com/rss/articles/CBMib0FVX3lxTE9FbEUyWVBRWngzM3hRXzNrdC04Zmp0Q1BVcXk4TWtweTNDWnhkLWdUUmdtTDdCRjMtTTY1QWJ4V0hON21JSWZIY0UtUThNd2MtTFR3bEN4SFB4SmhPQ2xMUHhTT180cGc4cHd1VHExYw?oc=5>
+- **Trump** | Trump 签署行政命令采取对AI 网络安全的自愿性措施财经新闻Financial News <https://news.google.com/rss/articles/CBMihgFBVV95cUxQeUFBVDhZR1hnZ2luS0R2dDV1NXRmZHBjMTZEZWN2TlpYWlhOSnRkSHdDWmY1MDNhZ3ZUcXZxWHI5MHJKV0dXQlhGQlJKMExTOW5TTHQ1ZmpwRkR5ajRaeGZ0ejJaUVd2elI3WWZsWEJMaWxsWTVUeWg3eTJaUzFJMWViTERndw?oc=5>
+- **Trump** | 美股指数微升特朗普推动以色列－真主党停火、科技股延续升势财经新闻Financial News <https://news.google.com/rss/articles/CBMif0FVX3lxTFBFWFptVG4xRXplUkQzaDR0WGhXSFZSM0xVYUEySDgtZ1BlMDNjaU5RSklwdG1JSFhuQzRzTEt4b2tLdGhrdnhiNThMcHRwMl95ODJ2WWVtcFlzZDdiY0NZNTY4Zk05c1pjMlJUaFZMREZrT0hPcHFtY3p0Qnk0VVE?oc=5>
 
 ### 2026-06-02 23:16  (4 条)
 
