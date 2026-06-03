@@ -1,100 +1,140 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-03 02:05**
-- 本轮扫到 2587 条, 新增 **11** 条
+- 最近更新: **2026-06-03 07:20**
+- 本轮扫到 2602 条, 新增 **15** 条
 
 ---
 
-## 本轮新发现 (11 条)
+## 本轮新发现 (15 条)
 
-### 粉丝豪掷14万购蔡徐坤专辑,获80秒签售对话机会
+### 不愧是蔡徐坤，主题曲再评级让张艺兴当众偏爱，惊爆全场！
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7517306927_m1c011002f03301gje6.html>
+- 链接: <https://k.sina.com.cn/article_6579479315_m1882ae31303301c5p6.html>
 
-### 王楚钦2014至2024成长历程视频发布
+### 除了乔杉，还有哪些明星在演唱会上被拍到过追星现场？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923907_m1d5ae18c303301ed1u.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801mieg.html>
 
-### 特朗普据悉继续获得税务审计豁免 但18亿美元基金计划面临变数
+### 【Hires】周杰伦中国风新歌《湘女多情》方文山这词绝了呀！
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-03 00:47
-- 链接: <https://news.google.com/rss/articles/CBMipwJBVV95cUxONkJUNkl2U2RiaDJiWEhiUjFsVWh2VFJNLVFvNV9fMGFadkREUGhjYWpjbUMzYl9GUEZWQnlsVVdqRFlHRnZ2ZmU3dnZBTW1QOV9vd0NoVVhncDdFd1I2VHJ4dWk0MUpLVWNsV19rbzVMUzFKX3pGZWdjd1JDdlVTdEpvdGNGck83S2poSUU4LW5Uam85eDRWNkRuMWV2Q1VqODZvaG01SmNzYS1qOUxJQ1JuOC1lakI4OUJRaG9FUnpwS09zUlF5bzN4Q0RRZk9qQS1EdVpNUTlGdDZIOElRUG4yZFFSR2RaT25YRFE1S1RYVjA2VlZBeGY0NkczM0cwN0lab0twR2hyOU02dksyRWt3NjFyM2FOeWhsbXp0S3VMYnIwUXBN?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7480863979_m1bde4eceb00101i3pm.html>
 
-### “被特朗普斥‘疯了’”后，内塔尼亚胡最新强硬表态
+### 新浪演唱会热点小时报丨2026年06月03日11时_今日实时演唱会热点速递
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪军事
-- 时间: 2026-06-02 23:51
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5jOVdoZUVvM0dqR2RMX1hJaDI1Y3NRVDR4NkJJaVVGQy0tVk4yeTJqUlM2Nkl4cGgzSkxkTVhzSlhDME92X1pHZGprMmR1a2d4Q3R3bkZYSmo1N045NDBUY3FiQy12dE9OTEtVWHNyRGlyTU0?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906buxq.html>
+
+### 为什么“一票难求”?如何验票?周杰伦长沙演唱会主办方回应
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906bmnw.html>
+
+### 新浪演唱会热点小时报丨2026年06月03日10时_今日实时演唱会热点速递
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906bito.html>
+
+### 【深圳】周杰伦2024“嘉年华”世界巡回演唱会-深圳站【网上订票】- 大麦网
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906bizk.html>
 
 ### 特朗普签署AI行政令以加强政府监管
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-03 00:29
-- 链接: <https://news.google.com/rss/articles/CBMimgJBVV95cUxQWTk2ZFlYRlpwYzhKSUNtZUZIamF3SnZ1ZVVMaVY2dnZuRXBQQXU3MndKaG1BTHhObHJtN3F6WGFhNG9xb1dDZUVtZ1VNVEo4MFMxTkE2Q3JQRHlVUGxsM1V4LUpzS2djNEtZZkg5bmQzbGRWZ2k5d015MVJJa3hXUnlKVmQ1SXpqRkZDT2J6dTBQSUhNWmdkMUdDYk9DS1lNUmYxTE0tc2RSWHRnYnRZdGotc0J3NU56UGQwOXhqRG0tM3JmTURLdGFiSzZrazR4Zlh6ZzJxV1V5VmdEMWlFZjZDY09zYWo4QXd3bjc0VUNlQ0pWUWNMa0tOQ2o1emxBbkRjNTVRMkRFLUtja0E2VUx5LUR2VG1TSWc?oc=5>
+- 时间: 2026-06-03 07:12
+- 链接: <https://news.google.com/rss/articles/CBMiigJBVV95cUxOc1V0SUtFRXlTcUFNRENfNHFoa0JldmgxNnhTSU5BYzYwY3pPTTJiVlI0UHprMUtDVlZWd0FxbXhEWDJjWUlvSHpEMDcyMDUxR0FGd0ZoTTNMYXpvZ0xHNlNqVmhaZUlILW83dUFTZ2NidUt3cEdYNzVVVVdPOHpiaGZZX1pXbjRyT1gtcmxIX1VsNXpmblZiNGdoUXdreVRxWDJISVRoM3NmeWZ0b3R2R0ZBZ3dlZ3l5ZWNDNVR6OEZTQmxZY3BnMVhIQXRleGZLNnpFQnVSSnhWYVJvWnZLMTVwanJ4U0Zhb3E1S0lkZnoxUmxRcm5hMmdZWFIxM3ZDbE1iOWFDNmt6QQ?oc=5>
 
-### 盘点：特朗普执政以来美国参与的军事行动
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-06-02 02:13
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE11RnJSUnR5czQ4VUIxY2tKOEpRLTlxWU8yOXdIWVgzckx0d3FUYWppSHpQZ3gwUC0wZGhfaERnbm1oc0lNcHhEMW1FTXEwd3RLYWJEXzBVSi1DSHhicFQ0OFF0WFhldG1Q?oc=5>
-
-### 特朗普还是签了，曾忧心“让中国领先”
+### “要是特朗普反问‘凭啥武装台湾’，一呼百应了就”-观察者网
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察
-- 时间: 2026-06-03 01:48
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBzcmpWbnU0T3pIQXZ0bVd1VFptSUc1akpuVUFNYV8xQWVCeC01Wk1uTGplalM3ZU14bUNLMU5Gc25tVkllT3lOdDlfSG5kUjVYVy1IdW1UeUVuSHpoeTBETHRSdW1tMjhpX3c?oc=5>
+- 场馆: 观察者
+- 时间: 2026-06-03 06:16
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1mQTlNcTZXME9JQjJIb3loOTBKbFo4YWpWcGVJV2J6NXU5VXZMNm5TdVVicnEzcFVWQ3p4X0FsUXprUHhCVjVvWG5yNjVBdjR3bmsxMlNIWmtnclNmekZLNERuZU82RnJveEE?oc=5>
 
-### 特朗普否认美伊对话已暂停数日
+### 特朗普据悉继续获得税务审计豁免 但18亿美元基金计划面临变数
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-06-03 01:10
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pTTE4akhEdWs0cjFjaUZJVkF2NmdUenVNVmU0RnV4VHRoMktkeXZhTmU5TmlZdWlEQWZEVVlsYnBNZW8wTWlHeUxBV0hkTVNBZXBQeGUwYkl2RHYyTnR1MA?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-06-02 17:26
+- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxPV250N0tISGh1YW5KTTl2YkhhcXJwUk0xOTdMcWxzVzFxYlM2QWgwR0w2M0JNSzZwU2VETmx0TjJCa2V3eFJYZHNReDQ2WjRWdGl5N05reFg5Y3ZMNWFKWFdaYzBoYzRXR0M0aW45by1qMnVoNkNFc0NrY1ZRNjhlMW81dlVTeElNSUE?oc=5>
 
-### Trump 签署行政命令 采取对 AI 网络安全的自愿性措施
+### 美国代理司法部长布兰奇：特朗普的“反武器化”基金已告吹
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-06-03 01:17
+- 链接: <https://news.google.com/rss/articles/CBMi2AJBVV95cUxONVBJbkt0Rkk0dGEwU3k2VlN3TF9NYWdOcXB3R0laOWtGWGdZY3RMd2x0VnFjUW1DMUo5bXpoZDZYbGNmZzdxUklObjJTNXd5WXRmZDdZVHA0amt1RU16aWpfQXdCaGNueFpFRExZSXNVTGt0N3l1ZV9XV1FDX19jaGQ0a2k3T3JtYjU1d3FwRE9NYWNuRFFmVXFvUTNmM1gwdW82ZHZNODVjeG1VU2pkY3hKTnYtcjJzUHdGcjNXem0yMkVkLWgwRmd5aEFuUjhBeGtZUHhWVkVMZ2xKSUFWQTZvcXpSUTdFMmVHRk9PaTJFMUE1dVU0TzFLU3h5RzZKZllSRFhHTkZEOEF5ai1aX25VcnZHSHFTSU8xVFRWV2d2c2RLVnNHOWVMdE9iYXFZLVRVdm1mU1BYSk5fTS1lVmJBaUVwTnlqTDFaN1FxTzY3MUtNYVVjbg?oc=5>
+
+### 特朗普任命普尔特为代理国家情报总监
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-06-02 13:18
+- 链接: <https://news.google.com/rss/articles/CBMivAFBVV95cUxONnZFbVBYUG5CRjRHMlRESFdjbkNwZGNaeWlkZUxzS1VtVlZ4Zl9PeEREZ3hDQ2g4T0xicjZCbHB0djNEYkhkaG5lUUFNWmJ2dFRxMWRfWWNoR2ZSaDJhNUFFSjJaTFVyOHVFcmJQZDd3Unh3N2tRVXBiT080ODlKVktLcEUxcjF4UGlSY2k1a09kY1ZEc3dXQUFOUDA1Qkdyb3BDSE5PRzBuT0ZkNTFycXk1WjlKYTNuTHZ3Rw?oc=5>
+
+### 地产商治国？“小特朗普”将任代理国家情报总监-观察者网
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-06-03 03:12
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBrT0pBN0F6ODg2RVE5eXFrblFQRWQ0TDRsaG9WTjZQRnZmRXF5OFpDUFhEQ3JUamNoeFRpN2RnVGpNd09lOS1HOVI5TXJoYXcwdnZnRGhVdWZVUy1kQ1ZCUFFRVXBSNm44SWc?oc=5>
+
+### 特朗普为何任命“小特朗普”比尔·普尔特为代理国家情报总监
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: AASTOCKS.com
-- 时间: 2026-06-02 23:52
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE9FbEUyWVBRWngzM3hRXzNrdC04Zmp0Q1BVcXk4TWtweTNDWnhkLWdUUmdtTDdCRjMtTTY1QWJ4V0hON21JSWZIY0UtUThNd2MtTFR3bEN4SFB4SmhPQ2xMUHhTT180cGc4cHd1VHExYw?oc=5>
+- 场馆: 华尔街日报中文网
+- 时间: 2026-06-03 02:47
+- 链接: <https://news.google.com/rss/articles/CBMiogFBVV95cUxNNzluaFl6WDFsaFF0eE5leFFNSUN3bXY2RmRVTmxsMkJKUzdqZjZzdnhjbGtieFRYNjVZdzRxNGpERG5WWElmVDRHWWNEbkxGNmowTzJ4MllGMG4tY1k1cG5feTZrTzNSVVVCLXBUcFlSVkRDUjdZeEhnZFhEMGE0bzZpVmlZNEJWNER0RE4wQXUxbFNNdWpnWXlQbC16djRzZWc?oc=5>
 
-### Trump 签署行政命令采取对AI 网络安全的自愿性措施财经新闻Financial News
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: AASTOCKS.com
-- 时间: 2026-06-02 23:52
-- 链接: <https://news.google.com/rss/articles/CBMihgFBVV95cUxQeUFBVDhZR1hnZ2luS0R2dDV1NXRmZHBjMTZEZWN2TlpYWlhOSnRkSHdDWmY1MDNhZ3ZUcXZxWHI5MHJKV0dXQlhGQlJKMExTOW5TTHQ1ZmpwRkR5ajRaeGZ0ejJaUVd2elI3WWZsWEJMaWxsWTVUeWg3eTJaUzFJMWViTERndw?oc=5>
-
-### 美股指数微升特朗普推动以色列－真主党停火、科技股延续升势财经新闻Financial News
+### 特朗普委任无国家安全经验盟友 担任情报部门负责人
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: AASTOCKS.com
-- 时间: 2026-06-02 17:38
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBFWFptVG4xRXplUkQzaDR0WGhXSFZSM0xVYUEySDgtZ1BlMDNjaU5RSklwdG1JSFhuQzRzTEt4b2tLdGhrdnhiNThMcHRwMl95ODJ2WWVtcFlzZDdiY0NZNTY4Zk05c1pjMlJUaFZMREZrT0hPcHFtY3p0Qnk0VVE?oc=5>
+- 场馆: 8world
+- 时间: 2026-06-03 00:20
+- 链接: <https://news.google.com/rss/articles/CBMiowFBVV95cUxNVjVBSW1wSzl4ZDhWaFhRc0ExbGhxbVQzNHdJLTdyeVRTdFRMUnMyWWhrWFl2MGp6OGVTX2FmUVdQSTRMM3Q4ZGVUdHhBeDBSMVY4R3UtZ3JrNG5RV2lBeTcxb0N1aDBqZ3BLeUZMMzctQkpxWDBEUEN6Z2ZkaTFxNm9jZU0tNkh6bVRhOVAxS1p6YUhSSUdndVNzOVBpYUx1NXpj?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-03 07:20  (15 条)
+
+- **蔡徐坤** | 不愧是蔡徐坤，主题曲再评级让张艺兴当众偏爱，惊爆全场！ <https://k.sina.com.cn/article_6579479315_m1882ae31303301c5p6.html>
+- **周杰伦** | 除了乔杉，还有哪些明星在演唱会上被拍到过追星现场？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801mieg.html>
+- **周杰伦** | 【Hires】周杰伦中国风新歌《湘女多情》方文山这词绝了呀！ <https://k.sina.com.cn/article_7480863979_m1bde4eceb00101i3pm.html>
+- **周杰伦** | 新浪演唱会热点小时报丨2026年06月03日11时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001906buxq.html>
+- **周杰伦** | 为什么“一票难求”?如何验票?周杰伦长沙演唱会主办方回应 <https://k.sina.com.cn/article_7857201856_1d45362c001906bmnw.html>
+- **周杰伦** | 新浪演唱会热点小时报丨2026年06月03日10时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001906bito.html>
+- **周杰伦** | 【深圳】周杰伦2024“嘉年华”世界巡回演唱会-深圳站【网上订票】- 大麦网 <https://k.sina.com.cn/article_7857201856_1d45362c001906bizk.html>
+- **特朗普** | 特朗普签署AI行政令以加强政府监管 <https://news.google.com/rss/articles/CBMiigJBVV95cUxOc1V0SUtFRXlTcUFNRENfNHFoa0JldmgxNnhTSU5BYzYwY3pPTTJiVlI0UHprMUtDVlZWd0FxbXhEWDJjWUlvSHpEMDcyMDUxR0FGd0ZoTTNMYXpvZ0xHNlNqVmhaZUlILW83dUFTZ2NidUt3cEdYNzVVVVdPOHpiaGZZX1pXbjRyT1gtcmxIX1VsNXpmblZiNGdoUXdreVRxWDJISVRoM3NmeWZ0b3R2R0ZBZ3dlZ3l5ZWNDNVR6OEZTQmxZY3BnMVhIQXRleGZLNnpFQnVSSnhWYVJvWnZLMTVwanJ4U0Zhb3E1S0lkZnoxUmxRcm5hMmdZWFIxM3ZDbE1iOWFDNmt6QQ?oc=5>
+- **特朗普** | “要是特朗普反问‘凭啥武装台湾’，一呼百应了就”-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE1mQTlNcTZXME9JQjJIb3loOTBKbFo4YWpWcGVJV2J6NXU5VXZMNm5TdVVicnEzcFVWQ3p4X0FsUXprUHhCVjVvWG5yNjVBdjR3bmsxMlNIWmtnclNmekZLNERuZU82RnJveEE?oc=5>
+- **特朗普** | 特朗普据悉继续获得税务审计豁免 但18亿美元基金计划面临变数 <https://news.google.com/rss/articles/CBMiigFBVV95cUxPV250N0tISGh1YW5KTTl2YkhhcXJwUk0xOTdMcWxzVzFxYlM2QWgwR0w2M0JNSzZwU2VETmx0TjJCa2V3eFJYZHNReDQ2WjRWdGl5N05reFg5Y3ZMNWFKWFdaYzBoYzRXR0M0aW45by1qMnVoNkNFc0NrY1ZRNjhlMW81dlVTeElNSUE?oc=5>
+- **特朗普** | 美国代理司法部长布兰奇：特朗普的“反武器化”基金已告吹 <https://news.google.com/rss/articles/CBMi2AJBVV95cUxONVBJbkt0Rkk0dGEwU3k2VlN3TF9NYWdOcXB3R0laOWtGWGdZY3RMd2x0VnFjUW1DMUo5bXpoZDZYbGNmZzdxUklObjJTNXd5WXRmZDdZVHA0amt1RU16aWpfQXdCaGNueFpFRExZSXNVTGt0N3l1ZV9XV1FDX19jaGQ0a2k3T3JtYjU1d3FwRE9NYWNuRFFmVXFvUTNmM1gwdW82ZHZNODVjeG1VU2pkY3hKTnYtcjJzUHdGcjNXem0yMkVkLWgwRmd5aEFuUjhBeGtZUHhWVkVMZ2xKSUFWQTZvcXpSUTdFMmVHRk9PaTJFMUE1dVU0TzFLU3h5RzZKZllSRFhHTkZEOEF5ai1aX25VcnZHSHFTSU8xVFRWV2d2c2RLVnNHOWVMdE9iYXFZLVRVdm1mU1BYSk5fTS1lVmJBaUVwTnlqTDFaN1FxTzY3MUtNYVVjbg?oc=5>
+- **特朗普** | 特朗普任命普尔特为代理国家情报总监 <https://news.google.com/rss/articles/CBMivAFBVV95cUxONnZFbVBYUG5CRjRHMlRESFdjbkNwZGNaeWlkZUxzS1VtVlZ4Zl9PeEREZ3hDQ2g4T0xicjZCbHB0djNEYkhkaG5lUUFNWmJ2dFRxMWRfWWNoR2ZSaDJhNUFFSjJaTFVyOHVFcmJQZDd3Unh3N2tRVXBiT080ODlKVktLcEUxcjF4UGlSY2k1a09kY1ZEc3dXQUFOUDA1Qkdyb3BDSE5PRzBuT0ZkNTFycXk1WjlKYTNuTHZ3Rw?oc=5>
+- **特朗普** | 地产商治国？“小特朗普”将任代理国家情报总监-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTFBrT0pBN0F6ODg2RVE5eXFrblFQRWQ0TDRsaG9WTjZQRnZmRXF5OFpDUFhEQ3JUamNoeFRpN2RnVGpNd09lOS1HOVI5TXJoYXcwdnZnRGhVdWZVUy1kQ1ZCUFFRVXBSNm44SWc?oc=5>
+- **Trump** | 特朗普为何任命“小特朗普”比尔·普尔特为代理国家情报总监 <https://news.google.com/rss/articles/CBMiogFBVV95cUxNNzluaFl6WDFsaFF0eE5leFFNSUN3bXY2RmRVTmxsMkJKUzdqZjZzdnhjbGtieFRYNjVZdzRxNGpERG5WWElmVDRHWWNEbkxGNmowTzJ4MllGMG4tY1k1cG5feTZrTzNSVVVCLXBUcFlSVkRDUjdZeEhnZFhEMGE0bzZpVmlZNEJWNER0RE4wQXUxbFNNdWpnWXlQbC16djRzZWc?oc=5>
+- **Trump** | 特朗普委任无国家安全经验盟友 担任情报部门负责人 <https://news.google.com/rss/articles/CBMiowFBVV95cUxNVjVBSW1wSzl4ZDhWaFhRc0ExbGhxbVQzNHdJLTdyeVRTdFRMUnMyWWhrWFl2MGp6OGVTX2FmUVdQSTRMM3Q4ZGVUdHhBeDBSMVY4R3UtZ3JrNG5RV2lBeTcxb0N1aDBqZ3BLeUZMMzctQkpxWDBEUEN6Z2ZkaTFxNm9jZU0tNkh6bVRhOVAxS1p6YUhSSUdndVNzOVBpYUx1NXpj?oc=5>
 
 ### 2026-06-03 02:05  (11 条)
 
