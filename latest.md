@@ -1,122 +1,143 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-03 07:20**
-- 本轮扫到 2602 条, 新增 **15** 条
+- 最近更新: **2026-06-03 12:18**
+- 本轮扫到 2616 条, 新增 **14** 条
 
 ---
 
-## 本轮新发现 (15 条)
+## 本轮新发现 (14 条)
 
-### 不愧是蔡徐坤，主题曲再评级让张艺兴当众偏爱，惊爆全场！
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6579479315_m1882ae31303301c5p6.html>
-
-### 除了乔杉，还有哪些明星在演唱会上被拍到过追星现场？
+### 周杰伦网球赢瞿颖三场！月底北京演唱会前约定再战
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801mieg.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801mile.html>
 
-### 【Hires】周杰伦中国风新歌《湘女多情》方文山这词绝了呀！
+### 特朗普签署“妥协版”AI模型审查行政令
 
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7480863979_m1bde4eceb00101i3pm.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-06-03 09:04
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBtTF9FWGtHUzZkR1lOS0RDT1pOWWZTdzBjbkR6a3V0VDFXZ2VuZFFQS3JDTURVSDRidzVvcVRpNnY4RURmUWhDa1dOQmVjVFkzLUhkbW92Z3hYRjZJdEdWWjhTeVRhazUydC1rUlNhaDFlbVFWTmltRGpGR1lxQjA?oc=5>
 
-### 新浪演唱会热点小时报丨2026年06月03日11时_今日实时演唱会热点速递
+### 特朗普证实：斥责内塔尼亚胡“疯了”
 
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906buxq.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪军事
+- 时间: 2026-06-03 12:08
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1GVE03YWhpOUFoQkkxWlF5dk4yWm52VHVLQnJRUGx0T3paWTZnNXFHT1JoU2htTXZVZ0pwSl9DdzR5Y3JkQjUyNTZZa0NNdHBhX2tGUHQzQkdxUkpiU3dhUnNHOEdWNUNKcDJ4TXl6amd1VGM?oc=5>
 
-### 为什么“一票难求”?如何验票?周杰伦长沙演唱会主办方回应
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906bmnw.html>
-
-### 新浪演唱会热点小时报丨2026年06月03日10时_今日实时演唱会热点速递
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906bito.html>
-
-### 【深圳】周杰伦2024“嘉年华”世界巡回演唱会-深圳站【网上订票】- 大麦网
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906bizk.html>
-
-### 特朗普签署AI行政令以加强政府监管
+### 特朗普为何骂内塔尼亚胡“疯了”？美媒：各有压力
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-03 07:12
-- 链接: <https://news.google.com/rss/articles/CBMiigJBVV95cUxOc1V0SUtFRXlTcUFNRENfNHFoa0JldmgxNnhTSU5BYzYwY3pPTTJiVlI0UHprMUtDVlZWd0FxbXhEWDJjWUlvSHpEMDcyMDUxR0FGd0ZoTTNMYXpvZ0xHNlNqVmhaZUlILW83dUFTZ2NidUt3cEdYNzVVVVdPOHpiaGZZX1pXbjRyT1gtcmxIX1VsNXpmblZiNGdoUXdreVRxWDJISVRoM3NmeWZ0b3R2R0ZBZ3dlZ3l5ZWNDNVR6OEZTQmxZY3BnMVhIQXRleGZLNnpFQnVSSnhWYVJvWnZLMTVwanJ4U0Zhb3E1S0lkZnoxUmxRcm5hMmdZWFIxM3ZDbE1iOWFDNmt6QQ?oc=5>
+- 时间: 2026-06-03 11:18
+- 链接: <https://news.google.com/rss/articles/CBMimAJBVV95cUxNeWpEYmYtRlVMZXg0TGwxeDVkcVJESWVfUGdDOE9KdXNjbFZXd1RSOUNkb3F4U3pNbV9CNmhPckViR2Z1R0FxdV9LbVQ0Z0FfYnlSN1NVVEg5TjRmc0prNEwyZDRYS1o3ZTFJblNIX0QwUHBYNk9vZzVVQ21DeU1GV2I3N2JvSmN5MExMd0tac0laU3NrMml6SGtzNVBubUJndnQ3bE9rdE9yc3IyMjJJckRkUmU0ZzhrcWRrNVF3eWVtQ2RTNjlDTnNISkVWcjdUNmRmYm1ZaVFONE9Wd2lNWGE4S3V1VUVLcDBvMTdTa05tUlNIMDU2M1ViN1h6QXRWS29lMTQ5VVV5bDBSTnJyRXc5RWZkX04x?oc=5>
 
-### “要是特朗普反问‘凭啥武装台湾’，一呼百应了就”-观察者网
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-06-03 06:16
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1mQTlNcTZXME9JQjJIb3loOTBKbFo4YWpWcGVJV2J6NXU5VXZMNm5TdVVicnEzcFVWQ3p4X0FsUXprUHhCVjVvWG5yNjVBdjR3bmsxMlNIWmtnclNmekZLNERuZU82RnJveEE?oc=5>
-
-### 特朗普据悉继续获得税务审计豁免 但18亿美元基金计划面临变数
+### 特朗普为何骂内塔尼亚胡“疯了”？美媒：各有压力
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-02 17:26
-- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxPV250N0tISGh1YW5KTTl2YkhhcXJwUk0xOTdMcWxzVzFxYlM2QWgwR0w2M0JNSzZwU2VETmx0TjJCa2V3eFJYZHNReDQ2WjRWdGl5N05reFg5Y3ZMNWFKWFdaYzBoYzRXR0M0aW45by1qMnVoNkNFc0NrY1ZRNjhlMW81dlVTeElNSUE?oc=5>
+- 场馆: 环球网
+- 时间: 2026-06-02 21:02
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE9NVF9ZVDN6YXl5S0Q3ZF81dTYyOGpJaGdFOTdPcTQ0VHNJbV9YNkdsLU5RMnJQXzZCS2pVZkV3al85RGZEVDlsY2N0c3VnS2F4cXpRcDVmcng?oc=5>
 
-### 美国代理司法部长布兰奇：特朗普的“反武器化”基金已告吹
+### 特朗普政府计划因强迫劳动对60个经济体加征关税
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-06-03 01:17
-- 链接: <https://news.google.com/rss/articles/CBMi2AJBVV95cUxONVBJbkt0Rkk0dGEwU3k2VlN3TF9NYWdOcXB3R0laOWtGWGdZY3RMd2x0VnFjUW1DMUo5bXpoZDZYbGNmZzdxUklObjJTNXd5WXRmZDdZVHA0amt1RU16aWpfQXdCaGNueFpFRExZSXNVTGt0N3l1ZV9XV1FDX19jaGQ0a2k3T3JtYjU1d3FwRE9NYWNuRFFmVXFvUTNmM1gwdW82ZHZNODVjeG1VU2pkY3hKTnYtcjJzUHdGcjNXem0yMkVkLWgwRmd5aEFuUjhBeGtZUHhWVkVMZ2xKSUFWQTZvcXpSUTdFMmVHRk9PaTJFMUE1dVU0TzFLU3h5RzZKZllSRFhHTkZEOEF5ai1aX25VcnZHSHFTSU8xVFRWV2d2c2RLVnNHOWVMdE9iYXFZLVRVdm1mU1BYSk5fTS1lVmJBaUVwTnlqTDFaN1FxTzY3MUtNYVVjbg?oc=5>
+- 场馆: DW
+- 时间: 2026-06-03 11:50
+- 链接: <https://news.google.com/rss/articles/CBMixwJBVV95cUxNSjJ6eFZwYkcxajB0RWNaYndtT1lvMGlVV3JaSVNNWEM3aG5ZY0ZVaUhhRTlmbUZmb05DWmhqOVUtclByS05WczRPQzlFSTBmaXcwT2EyOHA2eVFKQjRJb1M0V1k5MVd0dzJ2NjVQVVlkUTdtODI3cHZLd1NsdHJoVW5pVnFIME4za1BQTGxVMEFkOXpoRGppNkFuUGdhM1hyT19DRVI5UU83SVdQNlhvSGJZXzVzaDhOM2hPWUhIc2VmR3kwV2JIZ0RTOFMtYV90SXNJXzZwaWJ2NWUtNDd4VGg0UXg2aURycWpBaHdLbEFlYmZ3SjFuWnNkT1hCeVluU3pOMllTR2JueE9MY1o2NWxfcDVPN3E3TVM5VExmOUgxZzN3M0VEOWNPR0RsYVh4YW5lSGNBM0hfeU1OU2tIdGR6dUFlclnSAccCQVVfeXFMTnVJdXBMa2lhX0h5clBUUzlSSWhwZzQ3ejMtbXlGZjRwU2ZoWnp1ZWNEWXNBTGlVVmQyQUh4cWd0YlBBMnJoUXNSS0NvWHY1VXFQQjFRRS1WcGdiUXJJREYtcndneVg1SWhQMklmamg3dW50Z1VWVGg5ckM2bGFBSm52Y0NLaVcwRzNrbUNOOFJMTkZrS3hQTXp4ak5tZFhTV2VJcmduT2FmMTNXRW5rT2V2aDJfUUFvWkV0RE5oeWpKM2FFVUxwZlVYemlwaU9SS2FlRC1aNzRFNUlGRnRzNnZXanFZTFhoOXNSMU9EWUVDOGhZSGpRdjE1TzNDYWJYemJUUnpLclNFSi0xbHdfU0JnSHZ6ZW4zS0ZQV0JBXzJKdTdhNnU3d29TbXRfX3JDb2NkbDdxYkRjSWRiam1zZlVGdC1nRnZJ?oc=5>
 
-### 特朗普任命普尔特为代理国家情报总监
+### 特朗普称愿与伊朗最高领袖会面
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新京报
+- 时间: 2026-06-03 10:31
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5sZW80WlUzdE5YajlESTZIZkRmUWh3R0J0eFhJODNQNWpzcDFoVXdnLVRRak5lMExkaVBFV1VyNE4xN3U4M3RvMXlJbTB2YjVGSXpOcHJIUGhkS01rczhMYmRGR2U?oc=5>
+
+### 外交部：中国不存在所谓的“强迫劳动”，反对以此为借口搞政治操弄
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-06-02 13:18
-- 链接: <https://news.google.com/rss/articles/CBMivAFBVV95cUxONnZFbVBYUG5CRjRHMlRESFdjbkNwZGNaeWlkZUxzS1VtVlZ4Zl9PeEREZ3hDQ2g4T0xicjZCbHB0djNEYkhkaG5lUUFNWmJ2dFRxMWRfWWNoR2ZSaDJhNUFFSjJaTFVyOHVFcmJQZDd3Unh3N2tRVXBiT080ODlKVktLcEUxcjF4UGlSY2k1a09kY1ZEc3dXQUFOUDA1Qkdyb3BDSE5PRzBuT0ZkNTFycXk1WjlKYTNuTHZ3Rw?oc=5>
+- 时间: 2026-06-03 09:07
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE5GZ0FnSlRnNENCV1hRVFRnNF9wYWp1ZU1ZN3dNTFZjM3ByM1U1NXJOVHJrVHppLTF5UVRuTVlYUENDQ053MkZRUlI5MFZscjdTdV82OHZ5dVlXdFJQMjFuam81N2ExVzlWaUdUZk1EakY0aTdWM3BvNzh4ZFZ1OXc?oc=5>
 
-### 地产商治国？“小特朗普”将任代理国家情报总监-观察者网
+### 午后，生变！特朗普，关税又来了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-06-03 03:12
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBrT0pBN0F6ODg2RVE5eXFrblFQRWQ0TDRsaG9WTjZQRnZmRXF5OFpDUFhEQ3JUamNoeFRpN2RnVGpNd09lOS1HOVI5TXJoYXcwdnZnRGhVdWZVUy1kQ1ZCUFFRVXBSNm44SWc?oc=5>
+- 场馆: 同花顺财经
+- 时间: 2026-06-03 07:53
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTFBRN3pLcHdNNFY2LWxCYURtb0tHbFYwc0dHX3h2M09CVFVjNi04X3FPbm4yc05OeVBxMmlyQ0dqOGUtbGdtdk16enhlUkFPaVhxM1ZvVkx0THozYkNLRVE?oc=5>
 
-### 特朗普为何任命“小特朗普”比尔·普尔特为代理国家情报总监
+### 权力之手伸向末梢，揭秘特朗普掌控美国监管机器内幕
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 华尔街日报中文网
-- 时间: 2026-06-03 02:47
-- 链接: <https://news.google.com/rss/articles/CBMiogFBVV95cUxNNzluaFl6WDFsaFF0eE5leFFNSUN3bXY2RmRVTmxsMkJKUzdqZjZzdnhjbGtieFRYNjVZdzRxNGpERG5WWElmVDRHWWNEbkxGNmowTzJ4MllGMG4tY1k1cG5feTZrTzNSVVVCLXBUcFlSVkRDUjdZeEhnZFhEMGE0bzZpVmlZNEJWNER0RE4wQXUxbFNNdWpnWXlQbC16djRzZWc?oc=5>
+- 时间: 2026-06-03 08:04
+- 链接: <https://news.google.com/rss/articles/CBMi4wJBVV95cUxOemN4NUNqNm04NGdycWd3aDVnTUp2QnN1UmxXWHAyckFiVklDa0JEZTlPMEZNLWhBX01tU3VpcjZvbmVUc0JFZDU3RW9VM2duWUxOOXNib3NmLW9sNmJtd1d1M3djSGlzQmhNZExITHdHbmpacmNyanJrTEZHa3pPME1LWW5BaW91RkFTM1NtaGNNajV1UmEza0lhRkpVNGNBZzVkMFFid052dUlLSFlMTjZ6Y1NtSHFlOFlTQ2lVT240XzNzSDNENmNyN0hWZGlnelY3eDZuUzFGMUR2V3RBOURoQ3JEM0NBNTg5Z0RaRnV5VEFjanphX3E0NF9XOERPVUFVazBrT29ZOWNqbUYtMmdaNGpYeEhVS2R0bmxFMHhYRUlRZ3pqVFFwT0pZYWRJR2pnVXRMWWNzWmpMUlZxTHpFTXdta0ExNVZQemFrckhTRjNhaWRqbUlPWGp3RDZyMFJB?oc=5>
 
-### 特朗普委任无国家安全经验盟友 担任情报部门负责人
+### 特朗普任命房屋监管主管兼任情报总监
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-06-03 09:50
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1kRTE0MHJDODdrZXJvdHZIQi1CMFl4N19FT2x2dkdCR2RNZ3BDSmRjWVdiQXJwSUhjM3RmQmROVmo3Y3lPNEM5bEtCUl8?oc=5>
+
+### 特朗普签署“妥协版”AI模型审查行政令
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-06-03 09:04
+- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE1xb28wNXpfMjJwNmg3UUxzX0RBeFZIYXJtZ2tQS0cwNWo1N1hQSFJhV3JxU0ItTU03NERZVzdRR3lhM19zSFVhdGo1T0FHWnFGNUp0dzFYaEpNamZOZVktNHllUUh2WmZIUG1nSFo3VXVTc1NZVGIyOU5RaFpJdw?oc=5>
+
+### US President Trump signs order to gain early access to powerful AI models
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-06-03 00:20
-- 链接: <https://news.google.com/rss/articles/CBMiowFBVV95cUxNVjVBSW1wSzl4ZDhWaFhRc0ExbGhxbVQzNHdJLTdyeVRTdFRMUnMyWWhrWFl2MGp6OGVTX2FmUVdQSTRMM3Q4ZGVUdHhBeDBSMVY4R3UtZ3JrNG5RV2lBeTcxb0N1aDBqZ3BLeUZMMzctQkpxWDBEUEN6Z2ZkaTFxNm9jZU0tNkh6bVRhOVAxS1p6YUhSSUdndVNzOVBpYUx1NXpj?oc=5>
+- 场馆: TMGM
+- 时间: 2026-06-02 20:15
+- 链接: <https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMnBONGpNWjJqQXdHNmdoTnpuRjNRY2JSc1BlNWpJUlFLd0EwbVlFbk96YVhjZ2xiNTN5dzc1ZlY2QkpiSXNWaTY2bHE3Tlkwd1YwMFAyX3JPY1lOWFYxUlJaU0dyZXZlSHpoSFpXekVwUEV0Y2piQldFOGpZQWdOTXZhaE1oekJHV3NkenV0M19yc0FpWEZ2VnJuSDZzMnF0NnVIRnQxZUE5RE9wamlDbWt1UkdxYTFKVnhBb18yLU9pSGE1TnBfcTI2dkgyVjJCZGNQOHF5eVl3MmJn?oc=5>
+
+### Trump 签署行政命令 采取对 AI 网络安全的自愿性措施
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: AASTOCKS.com
+- 时间: 2026-06-02 23:52
+- 链接: <https://news.google.com/rss/articles/CBMihAFBVV95cUxPUDFqbHprRXNQTVd4S2R6Q1R3Q0p3SnRHNXN6RHBjMktuWjZDX0FnMlZPcGgzb0pyTnJFcENvamwzdHd4YmlpLXdMb00xenJYaTlmMzgzaHRtLWlOWlYxOWFWMWJMbGZyVlhGNUY0T1d0S1MwMXFWTnhaV1Z0bWRLMS1uVDc?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-03 12:18  (14 条)
+
+- **周杰伦** | 周杰伦网球赢瞿颖三场！月底北京演唱会前约定再战 <https://k.sina.com.cn/article_7879776328_1d5abd84806801mile.html>
+- **特朗普** | 特朗普签署“妥协版”AI模型审查行政令 <https://news.google.com/rss/articles/CBMif0FVX3lxTFBtTF9FWGtHUzZkR1lOS0RDT1pOWWZTdzBjbkR6a3V0VDFXZ2VuZFFQS3JDTURVSDRidzVvcVRpNnY4RURmUWhDa1dOQmVjVFkzLUhkbW92Z3hYRjZJdEdWWjhTeVRhazUydC1rUlNhaDFlbVFWTmltRGpGR1lxQjA?oc=5>
+- **特朗普** | 特朗普证实：斥责内塔尼亚胡“疯了” <https://news.google.com/rss/articles/CBMic0FVX3lxTE1GVE03YWhpOUFoQkkxWlF5dk4yWm52VHVLQnJRUGx0T3paWTZnNXFHT1JoU2htTXZVZ0pwSl9DdzR5Y3JkQjUyNTZZa0NNdHBhX2tGUHQzQkdxUkpiU3dhUnNHOEdWNUNKcDJ4TXl6amd1VGM?oc=5>
+- **特朗普** | 特朗普为何骂内塔尼亚胡“疯了”？美媒：各有压力 <https://news.google.com/rss/articles/CBMimAJBVV95cUxNeWpEYmYtRlVMZXg0TGwxeDVkcVJESWVfUGdDOE9KdXNjbFZXd1RSOUNkb3F4U3pNbV9CNmhPckViR2Z1R0FxdV9LbVQ0Z0FfYnlSN1NVVEg5TjRmc0prNEwyZDRYS1o3ZTFJblNIX0QwUHBYNk9vZzVVQ21DeU1GV2I3N2JvSmN5MExMd0tac0laU3NrMml6SGtzNVBubUJndnQ3bE9rdE9yc3IyMjJJckRkUmU0ZzhrcWRrNVF3eWVtQ2RTNjlDTnNISkVWcjdUNmRmYm1ZaVFONE9Wd2lNWGE4S3V1VUVLcDBvMTdTa05tUlNIMDU2M1ViN1h6QXRWS29lMTQ5VVV5bDBSTnJyRXc5RWZkX04x?oc=5>
+- **特朗普** | 特朗普为何骂内塔尼亚胡“疯了”？美媒：各有压力 <https://news.google.com/rss/articles/CBMiWEFVX3lxTE9NVF9ZVDN6YXl5S0Q3ZF81dTYyOGpJaGdFOTdPcTQ0VHNJbV9YNkdsLU5RMnJQXzZCS2pVZkV3al85RGZEVDlsY2N0c3VnS2F4cXpRcDVmcng?oc=5>
+- **特朗普** | 特朗普政府计划因强迫劳动对60个经济体加征关税 <https://news.google.com/rss/articles/CBMixwJBVV95cUxNSjJ6eFZwYkcxajB0RWNaYndtT1lvMGlVV3JaSVNNWEM3aG5ZY0ZVaUhhRTlmbUZmb05DWmhqOVUtclByS05WczRPQzlFSTBmaXcwT2EyOHA2eVFKQjRJb1M0V1k5MVd0dzJ2NjVQVVlkUTdtODI3cHZLd1NsdHJoVW5pVnFIME4za1BQTGxVMEFkOXpoRGppNkFuUGdhM1hyT19DRVI5UU83SVdQNlhvSGJZXzVzaDhOM2hPWUhIc2VmR3kwV2JIZ0RTOFMtYV90SXNJXzZwaWJ2NWUtNDd4VGg0UXg2aURycWpBaHdLbEFlYmZ3SjFuWnNkT1hCeVluU3pOMllTR2JueE9MY1o2NWxfcDVPN3E3TVM5VExmOUgxZzN3M0VEOWNPR0RsYVh4YW5lSGNBM0hfeU1OU2tIdGR6dUFlclnSAccCQVVfeXFMTnVJdXBMa2lhX0h5clBUUzlSSWhwZzQ3ejMtbXlGZjRwU2ZoWnp1ZWNEWXNBTGlVVmQyQUh4cWd0YlBBMnJoUXNSS0NvWHY1VXFQQjFRRS1WcGdiUXJJREYtcndneVg1SWhQMklmamg3dW50Z1VWVGg5ckM2bGFBSm52Y0NLaVcwRzNrbUNOOFJMTkZrS3hQTXp4ak5tZFhTV2VJcmduT2FmMTNXRW5rT2V2aDJfUUFvWkV0RE5oeWpKM2FFVUxwZlVYemlwaU9SS2FlRC1aNzRFNUlGRnRzNnZXanFZTFhoOXNSMU9EWUVDOGhZSGpRdjE1TzNDYWJYemJUUnpLclNFSi0xbHdfU0JnSHZ6ZW4zS0ZQV0JBXzJKdTdhNnU3d29TbXRfX3JDb2NkbDdxYkRjSWRiam1zZlVGdC1nRnZJ?oc=5>
+- **特朗普** | 特朗普称愿与伊朗最高领袖会面 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5sZW80WlUzdE5YajlESTZIZkRmUWh3R0J0eFhJODNQNWpzcDFoVXdnLVRRak5lMExkaVBFV1VyNE4xN3U4M3RvMXlJbTB2YjVGSXpOcHJIUGhkS01rczhMYmRGR2U?oc=5>
+- **特朗普** | 外交部：中国不存在所谓的“强迫劳动”，反对以此为借口搞政治操弄 <https://news.google.com/rss/articles/CBMif0FVX3lxTE5GZ0FnSlRnNENCV1hRVFRnNF9wYWp1ZU1ZN3dNTFZjM3ByM1U1NXJOVHJrVHppLTF5UVRuTVlYUENDQ053MkZRUlI5MFZscjdTdV82OHZ5dVlXdFJQMjFuam81N2ExVzlWaUdUZk1EakY0aTdWM3BvNzh4ZFZ1OXc?oc=5>
+- **特朗普** | 午后，生变！特朗普，关税又来了 <https://news.google.com/rss/articles/CBMiXkFVX3lxTFBRN3pLcHdNNFY2LWxCYURtb0tHbFYwc0dHX3h2M09CVFVjNi04X3FPbm4yc05OeVBxMmlyQ0dqOGUtbGdtdk16enhlUkFPaVhxM1ZvVkx0THozYkNLRVE?oc=5>
+- **特朗普** | 权力之手伸向末梢，揭秘特朗普掌控美国监管机器内幕 <https://news.google.com/rss/articles/CBMi4wJBVV95cUxOemN4NUNqNm04NGdycWd3aDVnTUp2QnN1UmxXWHAyckFiVklDa0JEZTlPMEZNLWhBX01tU3VpcjZvbmVUc0JFZDU3RW9VM2duWUxOOXNib3NmLW9sNmJtd1d1M3djSGlzQmhNZExITHdHbmpacmNyanJrTEZHa3pPME1LWW5BaW91RkFTM1NtaGNNajV1UmEza0lhRkpVNGNBZzVkMFFid052dUlLSFlMTjZ6Y1NtSHFlOFlTQ2lVT240XzNzSDNENmNyN0hWZGlnelY3eDZuUzFGMUR2V3RBOURoQ3JEM0NBNTg5Z0RaRnV5VEFjanphX3E0NF9XOERPVUFVazBrT29ZOWNqbUYtMmdaNGpYeEhVS2R0bmxFMHhYRUlRZ3pqVFFwT0pZYWRJR2pnVXRMWWNzWmpMUlZxTHpFTXdta0ExNVZQemFrckhTRjNhaWRqbUlPWGp3RDZyMFJB?oc=5>
+- **特朗普** | 特朗普任命房屋监管主管兼任情报总监 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1kRTE0MHJDODdrZXJvdHZIQi1CMFl4N19FT2x2dkdCR2RNZ3BDSmRjWVdiQXJwSUhjM3RmQmROVmo3Y3lPNEM5bEtCUl8?oc=5>
+- **特朗普** | 特朗普签署“妥协版”AI模型审查行政令 <https://news.google.com/rss/articles/CBMifkFVX3lxTE1xb28wNXpfMjJwNmg3UUxzX0RBeFZIYXJtZ2tQS0cwNWo1N1hQSFJhV3JxU0ItTU03NERZVzdRR3lhM19zSFVhdGo1T0FHWnFGNUp0dzFYaEpNamZOZVktNHllUUh2WmZIUG1nSFo3VXVTc1NZVGIyOU5RaFpJdw?oc=5>
+- **Trump** | US President Trump signs order to gain early access to powerful AI models <https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMnBONGpNWjJqQXdHNmdoTnpuRjNRY2JSc1BlNWpJUlFLd0EwbVlFbk96YVhjZ2xiNTN5dzc1ZlY2QkpiSXNWaTY2bHE3Tlkwd1YwMFAyX3JPY1lOWFYxUlJaU0dyZXZlSHpoSFpXekVwUEV0Y2piQldFOGpZQWdOTXZhaE1oekJHV3NkenV0M19yc0FpWEZ2VnJuSDZzMnF0NnVIRnQxZUE5RE9wamlDbWt1UkdxYTFKVnhBb18yLU9pSGE1TnBfcTI2dkgyVjJCZGNQOHF5eVl3MmJn?oc=5>
+- **Trump** | Trump 签署行政命令 采取对 AI 网络安全的自愿性措施 <https://news.google.com/rss/articles/CBMihAFBVV95cUxPUDFqbHprRXNQTVd4S2R6Q1R3Q0p3SnRHNXN6RHBjMktuWjZDX0FnMlZPcGgzb0pyTnJFcENvamwzdHd4YmlpLXdMb00xenJYaTlmMzgzaHRtLWlOWlYxOWFWMWJMbGZyVlhGNUY0T1d0S1MwMXFWTnhaV1Z0bWRLMS1uVDc?oc=5>
 
 ### 2026-06-03 07:20  (15 条)
 
