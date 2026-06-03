@@ -1,104 +1,127 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-03 20:35**
-- 本轮扫到 2639 条, 新增 **11** 条
+- 最近更新: **2026-06-03 23:01**
+- 本轮扫到 2651 条, 新增 **12** 条
 
 ---
 
-## 本轮新发现 (11 条)
+## 本轮新发现 (12 条)
 
-### 特朗普签署AI行政令以加强政府监管
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-03 17:03
-- 链接: <https://news.google.com/rss/articles/CBMijgJBVV95cUxPd244UHpTWHh4cjh2aXV1TWxhSmpMT0Q5N2t3dW5nTHdnZVJmSzVzS2ptcEdvWGRrOFZXY3pCa2RUTXJDMVhDck9jbDkybUdXMk40UncyNkI0WnJYdk81djkxa1M3VXpMZHdFNUxkRDRwckZTcmpvZkJyTFdYQ1lzNm1UcTNjY1lkSDRoMVBIXzhYUGJQTWkyMEJoMmpyeG5wV0d1aE9CRnpWcE5nY01ucEdjWElYcF94aXgtU0t3UUNwdGdaWTJBb19icjNrX0FlU2lDbDBjNElGOU1oYTJPazNwLXRrU3JZN2tYbkhRd2trZ3FWdzlfcjI0NGlNOXZUYnphbTVLbHhBaTVPbmc?oc=5>
-
-### SpaceX上市料让特朗普班底身家再增 文件显示多名美官员持有股份
+### 特朗普淡化霍尔木兹海峡水雷威胁 并推介替代航线
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-03 20:02
-- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVlZsVmgybm4yTmxmallvZHYyQk9GQkJ5WmFVZ0FyanlDSlQ1SlRlUC0tcnJScVlRRWpvUTdFeW9EV0k0cWRpRlB1cTl2amdBTWxlc0hkQ0oyYVJiaFVpVmJaZkdBQUs3SC1jRWczM0IyUThzcHN2X251czhKSHZIa1o5aXhsRnJsdmJtV3BRRWJXU0o2S2tTRXJLdGlsbDBManVmckd0MEVMUQ?oc=5>
+- 时间: 2026-06-03 22:15
+- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxOd2xESmlLSGthWno1cWRyVHdzaUdyLWVXUmhVU2NmSm5DemlSNzFTODUtVC1FeWZYZjRxX0NNUlNlZ2xKLXNKVEdOcEY4LTYtOU8xUm9YeXd0eU9RcC1EWDBOLUJNeExWWUxZNmQ3S3BxWlFLcm1TbGktU2w5MmI1SWVUVFlZcmtPSVE?oc=5>
 
-### 特朗普称对伊海上封锁或持续至9月
+### 美众议院通过决议 限制特朗普对伊动武权力
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-06-03 22:08
+- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxPdjFoNHZxSHdFU0JsUUwwMUI1UlJpNFNPeXRtNGwtVDV2RlRuZE1KM0JJbUhvT2l4N2FQcTNENVdaXzQxSVNnOXdJczgybFVob2pvR0t0LW1vRlFpU3lYT0FsR3VJbnNLanoydEpTZEx4MkczdC1iUGF5VG9FSUFpb3lVYWJ0eXUwNXRId1BGdnFvZTVs?oc=5>
+
+### 美众议院通过决议 限制特朗普对伊动武权力
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-03 11:09
-- 链接: <https://news.google.com/rss/articles/CBMiiAJBVV95cUxQbGVGd2tlOWFJUXJXNWVXc1lkU0pDQkM5bDN0aXVrcFRfc0pHUDJfWnJJb0gzNlNTR0cwSDVObFN1cC1ZNWFpd3dCUEFJektJNTRNNzFKSzFGN0VNTW5ZRUczUVlvcUZ1MmM5TUxvWDVRZU41dXJSU3QydjJIQmRvYk9MX0F4VjdiM3VhaTFBM2VMZWhGbFZDTjR1WktzUEJzZC00N216M1hSNjdldTNPZTFHdW5lbVlFYklVZWNKdTJXVTlYaVFoRmdaTEJYN3BjemJpSXFXNFMzdW9BMy1SMWh0MFFuQ05Ya1RodjU5bmZaeU4zWVZxeHM0T0FZVzA4N2JpMmZJUjE?oc=5>
+- 时间: 2026-06-03 22:37
+- 链接: <https://news.google.com/rss/articles/CBMiqwFBVV95cUxNa3VBTHBBZk5VajNzNHQ2dzQ5OTVBcW9GZnVWQnQwT2pSRFd4X0t3RUN6bzZjX29GR3hyazhwSGIwaEFMcnAyYkRkdlJmdVBmVVk1NXpYTFlpalZpbGswMmY0N3l4RzFqVDJpQ2x5NThMcWxDeDJ0M3QyZ3RLU0s3ZjcwUGlxbllYVGFfU1BLX3lidDVUdm0yS0MyUXBETFhZNF9NbUdIeUdfbUU?oc=5>
 
-### 特朗普插手，佩特罗怒斥：自由已死
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-06-03 12:07
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1IbVYyQjdfQm1fd2szZTVoLXRIOVBZSGZHVFVQZENabEt5bVBBQWh6YnNGazlWWk4yalRwQzhaVk5nVnE3NGVzQzZNQmt2UFpvSW16MEF2emU2NVRBanRfTkhiNVFxT1ZOZ2c?oc=5>
-
-### 特朗普政府拟对巴西加征25%关税 认定巴西两黑帮为“外国恐怖组织”
+### 特朗普遭遇倒戈！美众议院通过决议，限制其对伊动武权力
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 财新
-- 时间: 2026-06-03 12:16
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE4zb1RjdGlNQ1RrRXNicktvQy10VS04WGRkbHVGRXlkOWRTTXRNOVJsRnlOUmNwWjNieFVmQWlMRGVCZ1RtRk5LZTVEQV9oN2Jlcm9SNDROTXpYX01QNVdoOF9nTWJ5Y3ZXT2c?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-06-03 22:37
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE0zQWgyN2dCNjk0aW1sNW1DQkN2WjluLWxVRU01Ny1oNURoUnV0amloZnVaYXdJSEo4NnVxVVphUWJwSHZhS0hWNw?oc=5>
 
-### 午后，生变！特朗普，关税又来了
+### 特朗普总统表示，他曾敦促内塔尼亚胡停止与黎巴嫩的战斗
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-06-03 21:25
+- 链接: <https://news.google.com/rss/articles/CBMitwFBVV95cUxPNXdkWHpyUV9RcVcweHhCMWx1OXZpcFRnNjYtaGRORG1yS3FaUjV4TFRaU3JxMmJrRmt3SDcySjRyT1hTX2o5ejBta3dmVU1JRDBaYTFINUpCVHNtX0ZHdDNKQm1WT01rZWVuTGZQMzVaNE1KaUpIblRPZEVEdVFycDBWZUFpUjhpRlJqeFBRSjFlYVVrcDExWlgwRnVZZF84cmZjQmkzNFZ3OVhwa2w3ZEgwQ05VR1nSAboBQVVfeXFMT1M4WGYtZ3BqekZBMnRRR09QbXdmMjdlTHFhZHRPWGNmdjM4dER4THp2U0VDd2phMGVQMUZvc2FBeDl4NEhUQVR6T2F3ZHRoaVVNaHdsdW8yclprYUJldEVzcE1TbHpwbkpJVF9NdExIVl91bWVKaVhjaFZaZ1hfRS1Zbzk1TGpOZWV2MEwxWFIxSkNlMHZXNm9KV3VuZlQ3SE8ycksyNGloblVfbHhFcllJYk94MVVBTHRR?oc=5>
+
+### 特朗普宣布出席本月在法国举行的G7峰会
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Sina finance
+- 时间: 2026-06-03 20:57
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxNaTBTZXU5eGpndEtIcGRfcXFqV0U2Y2FDLVhEYVRJQm03TGVpc2QyY0xKZzVhc0RIb2kwSUZvVVFsdVFoSUZubWJUQXZrd3VmVXJ1LTNNNDVaclUtTGctc21RN3JYYmtMWkRVTkl0ekV3OF9sMWs3Mmw0NUxUUkQ0ZHVvWE5Xdk0?oc=5>
+
+### 特朗普宣布出席本月在法国举行的G7峰会
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-03 14:15
-- 链接: <https://news.google.com/rss/articles/CBMiowFBVV95cUxQRHJqbjRFaER0WDFqVWllSW5LZTN2RVpDMzNHcV9sMzZvUTBDSy1weEU0d2NXMUdlWFFTbUExTmdaMTAtcXg2WnhaUmROLTQtSUo2b1BSZ0NtTUFiTUNrYkNHOEZYUFctTWpnZnduUU90TS1KZmxCTXR0bXc5UnFwbFVKb0Fia1hYRFVCaGdEVGNCS1RmcEVWUlh0elVXbERQNlBZ?oc=5>
+- 时间: 2026-06-03 21:02
+- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRFJpcnpaU0t5OTFNcXlGc0o1U1FTNTNqU1p1Rjc2VU5iNlVoMmJKTjJMVVVfekpxeGNOU2N5blk0UDcyX2xoOWtMeXZRWHlqWG5BWTk0RTF4ZUFoNDlqbVpKaWNxS1dZUHpNUWdjWEtMUFNuRGlUTG1sQkswX0FDajhSVmEwdlp0dWU3Q3cxcWdqTzVsMlFrUm8xejU5TkM5TGUtU0ZCX09XZw?oc=5>
 
-### 特朗普政府提议对部分国家商品加征额外进口关税 外交部回应
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-06-03 07:46
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1mbkVUaHV5TTY2bGVnYU5JYkNVT090NXRCclYydnN0ako3NDdzdXhvZGRQQmN0Q1BMaVo5YnFvdUE1d0xuc3FmUlYwb3MyOFczT3lNbF96OGNuZ3lUS1FuSzkwalk?oc=5>
-
-### “激怒”特朗普后默茨要示好？德国将召集"E5"领导人共商美欧关系改善
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 第一财经
-- 时间: 2026-06-03 08:35
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0bHdxZFNHWktvVVJIaGR4RFRkbHgzMDJVZTc2Mm1naXl4YktJSlBDSGVSTG9sczNlczVtSkhkcm1DSHpXTHZaN1BBb1ZTT3JoUjdJ?oc=5>
-
-### 美国早间新闻电话会 |特朗普签署行政命令，要求在发布前审查先进人工智能模型
+### 美财长贝森特称美中关系进入稳定期
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-06-03 11:23
-- 链接: <https://news.google.com/rss/articles/CBMipAFBVV95cUxQRlB3NTJBOGtLd0JsVjY1Zm80RjFNM25KbXFJUmlQX2x3WE5oc09IWFI4QVFZQWVlc21VWmNjR1FuamN6QUh5RjFwOEhNanYzdUFTVUlINU0tZ1lscXdCUTRMM2lxaXpKN0ZKWTJ2NENjcW9yVUxIcXpJY0NtVThwbDJ6ZWhib3FBbnBUVkdMX2hUZGQwZ2h1a0hMUGFONjhaLU1uMg?oc=5>
+- 场馆: RFI
+- 时间: 2026-06-03 21:32
+- 链接: <https://news.google.com/rss/articles/CBMinwJBVV95cUxPeENrZEZKSkxjU1ZOTU1pS2cwMlZ5c3daOU15WUtwMmZ5YWpIZTJpcV90OHYzbGVYblcxUUNHcXBTR2ZTclc5dzJvcDJnZmh1T2w4SkpMV3RxNG1DcmljTEEyMU9LSl8xMm44bXpqbmtuc0s3dHpyVFF4NVY3N2xtWjBQdEZRN2xwdml5VDJIeHVlcWJjWmdxWDJ5YlZhRDlVeU5vQnBiNC1TRWdGTGRsT3lnRmJoeXFkYjY4T3plZU5XeXlYWjdIVHBCV0JrMkN3TDFNdDZVcTZkT0lBX0xFWkVRdVRJNU5hWTRKVkh0dmo1REdLbXRIMXZOcmx0bWxobGJjUHpKNjl0UDJqUk5idmxNSWo2X2p4YnpPaHdCcw?oc=5>
 
-### 美军称，美国和伙伴部队防御了伊朗针对科威特和巴林的空袭
+### 特朗普：美军将伊朗对科威特巴林的袭击“扼杀在萌芽状态”，美伊谈判继续“非常顺利”进行
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: 美国之音
-- 时间: 2026-06-03 17:28
-- 链接: <https://news.google.com/rss/articles/CBMi8gFBVV95cUxPRjFZVUx3cmJlMmNGWHc1bzhTRjE2M3d2NFFYNVZkNTFFSHhOOV83Q2M3NlhfM1hoTmtldU9GNlMwV0RKQmFZSFpnWWFpdmpoSWJsVDhNS3BmLWQ4Y05pQUV5U0o0RlV1d2s2ZHNEaVVtWWpJMnVZcG9XeUtxZGMxaXpCNExRdHVLY0RyWVcyOWExMHZUUlpWVVFqMUx6QWpsTXV5b3hYRUdFNDBmdkhEcmxhZ05QeTktV2w5ckxteXh2aVZobWVtMUY5ZXlObGJlV0pMUDVEVjBxd3Zfc0tha2dYZUhXWVJnNXItU0taV0JtQdIB9AFBVV95cUxNUVB2aFZEeVpvSnhfcHpJaWtOOUVCMWIxZFRkOTRZem00NW91M2hEZU5FZWp2M0NoUGphLTEwWDRCWWF1akQ2VUNacjJ6NlVZYTdmRTM5YXZjYWFLeEFFVWxoOHVFVWdFVWJWZUxjaFdFdDl5UDZuUGx2MEhTSkdxOFdITWZBMHZuNXh4R0E1VklmRlB5NTRXNW1TVThKbDFZU2ZfV0V4Y2d3V21vM0hkamxoVU9xenJWc1RGdndEZ0lCOHRhcXJHQjd4WnBWRlZUa2hIUWZ5S1QzaENoYmZEVU5jbDRQRDExbmpBY0F2eXZNbzJa?oc=5>
+- 时间: 2026-06-03 22:28
+- 链接: <https://news.google.com/rss/articles/CBMi8wFBVV95cUxNMGxMVFlvWjBYSG9FVnpPRmo4OXRnVXdDWElMM2t5ZEUwZnRZb1pCb3Z4Y3JuSFo0VUtiN1U4dEN3Qm11akdLU0VOcWExSDA1WTl4RFpybXFCaWhpb3RTWktvMWxaQkZramNQdmcwdGk5bkhCZjdjcWl5VFg3ZVZUek9sSlUzQnNLWDlNNkhjNjd1RV9GcndtTVpQRkVkbkxGdENROHFaQWZJTXc5STZCUEdWTi10WE1KZ245SEFSOUtFUG1jemdqakZiX3hITXRIYkRIcDh6NEg0dVNaWGdsaWhrSjNEeDA5MHhzeWZNeURHcXPSAfYBQVVfeXFMTlRWWHNPRGFiUWo2azc5R3UxZU9WLXg1c0ZVZmNmaEVlZ3lIQ1JXX01BRmE0TlJBVkRtV1ZMazlpWE9ycFZ4YTd2UWRYdlFvTzlWRWpoRmRMdFJNRnpOa25JUDFDZ2JzZ1ZKVWpJNnJraGVIXzY3M1VXRktqWUV3TF9HLXVURFY4Mm9QX3cteWJmY2pYeVhwbzh2ak1KOV9LV2d4SUpiUVMwb1FlVTM5cVVERmQwc2xCLTF4QzZCbUtwVFYyTHVCcVpBTmRWa0lrRF9SeGdPelJsRG5ydDUtNHFRY2RRYVlTV3VUNXFPbzBxdm84cUVB?oc=5>
 
-### 善财v587 (@Square-Creator-66c43b24c16ea)的见解
+### Trump 签署行政命令 采取对 AI 网络安全的自愿性措施
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Binance
-- 时间: 2026-06-02 09:39
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE42VVQ3ejNJdVdoZ29Sb0pzek1HcDJZVUJoV09GcWN0ZU4xN0U4cGlEMVIxSlhsU0RpMVFTVUdOOUkxYkZXbEd3U2VXTmZPMVdnSjNsQWxOVDhGclNfcmMxQUZjVFlndU9j?oc=5>
+- 场馆: AASTOCKS.com
+- 时间: 2026-06-02 23:52
+- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxOSGtyaFhFbnZFaWhndFFTaWo1SmlINWxjSGRWeERLWGxSWC03cTdKS1RaOXNOWmljVFZqYzcyWUlYaWlsUllrOUlWcFUtYnlDb1pXNlRMdVhhZVNEXzZucVdzc3pKUVVDaHhoQnp1MmJzR1BxV2VHUENPVk4weV9qYjJ3?oc=5>
+
+### 美国提议对其所称使用“强迫劳动”的60个经济体加征新关税
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-06-03 21:42
+- 链接: <https://news.google.com/rss/articles/CBMiwAFBVV95cUxQS3dSNG9xUlRKeDZxdldpLXNUaW5UalpTYTBLMnVCS3RkaDFWRFlUU1AyUFNrVEFyd2RRVTE2d1JzT19QQ29xU3pHVlBzZ25KYzhLQ3AwRWVyTjZJakk3VHNuOFNnRGRNYWRvY1ZUMVZCX2ZHQnNzTXVnUTJCeUlCLXplRlMyR3dJTjRkajVmTUFQUWI3RGdmS3hMdFlpbTBhbjhMcG96UjUzbE82VVlpQ2pvMW1WMDd4X2tFWTFFRm3SAcMBQVVfeXFMTTBLeDJqSFVVbURxakdaWXYzRU5OaXJUcGMyY0hTa0FOcEJ5WVllSk9PQXZZaks0ZVFhZmtiQ3dfNjdUU2F1OTVzelJEczIyangxOXcyTHNVRlQtR1ZOa0FZWVNWcS01MFZsaWY5cTR4RlVDVVB1ZFFrLUMydEtWS3Jla3lhZDJzQUh3cEg4Z29KNkxVb3Y3UDB6VEk2M1FvSTk3RTg2enNqZGtKWFB4YU94UWRnVDRSTVBkbnZITklhVTlJ?oc=5>
+
+### 市场传闻：特朗普将按《国防生产法》拨款US$500M予燃煤电厂及出口码头
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: AASTOCKS.com
+- 时间: 2026-06-03 22:45
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE43TXR5V0VKRUNvdmYwNktmWXFQdnV0cDdiZjlpQ1d0SHQ4Z3lCWGlaRGdNUGtGbzdwUmRGOTR5Q2R5MmI4R2FqV1JUdnU0T3NxZ3dnNWp3TXZENGtXdVRwVEZfY1J0MzhRdENDZENNTQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-03 23:01  (12 条)
+
+- **特朗普** | 特朗普淡化霍尔木兹海峡水雷威胁 并推介替代航线 <https://news.google.com/rss/articles/CBMiigFBVV95cUxOd2xESmlLSGthWno1cWRyVHdzaUdyLWVXUmhVU2NmSm5DemlSNzFTODUtVC1FeWZYZjRxX0NNUlNlZ2xKLXNKVEdOcEY4LTYtOU8xUm9YeXd0eU9RcC1EWDBOLUJNeExWWUxZNmQ3S3BxWlFLcm1TbGktU2w5MmI1SWVUVFlZcmtPSVE?oc=5>
+- **特朗普** | 美众议院通过决议 限制特朗普对伊动武权力 <https://news.google.com/rss/articles/CBMilAFBVV95cUxPdjFoNHZxSHdFU0JsUUwwMUI1UlJpNFNPeXRtNGwtVDV2RlRuZE1KM0JJbUhvT2l4N2FQcTNENVdaXzQxSVNnOXdJczgybFVob2pvR0t0LW1vRlFpU3lYT0FsR3VJbnNLanoydEpTZEx4MkczdC1iUGF5VG9FSUFpb3lVYWJ0eXUwNXRId1BGdnFvZTVs?oc=5>
+- **特朗普** | 美众议院通过决议 限制特朗普对伊动武权力 <https://news.google.com/rss/articles/CBMiqwFBVV95cUxNa3VBTHBBZk5VajNzNHQ2dzQ5OTVBcW9GZnVWQnQwT2pSRFd4X0t3RUN6bzZjX29GR3hyazhwSGIwaEFMcnAyYkRkdlJmdVBmVVk1NXpYTFlpalZpbGswMmY0N3l4RzFqVDJpQ2x5NThMcWxDeDJ0M3QyZ3RLU0s3ZjcwUGlxbllYVGFfU1BLX3lidDVUdm0yS0MyUXBETFhZNF9NbUdIeUdfbUU?oc=5>
+- **特朗普** | 特朗普遭遇倒戈！美众议院通过决议，限制其对伊动武权力 <https://news.google.com/rss/articles/CBMiSEFVX3lxTE0zQWgyN2dCNjk0aW1sNW1DQkN2WjluLWxVRU01Ny1oNURoUnV0amloZnVaYXdJSEo4NnVxVVphUWJwSHZhS0hWNw?oc=5>
+- **特朗普** | 特朗普总统表示，他曾敦促内塔尼亚胡停止与黎巴嫩的战斗 <https://news.google.com/rss/articles/CBMitwFBVV95cUxPNXdkWHpyUV9RcVcweHhCMWx1OXZpcFRnNjYtaGRORG1yS3FaUjV4TFRaU3JxMmJrRmt3SDcySjRyT1hTX2o5ejBta3dmVU1JRDBaYTFINUpCVHNtX0ZHdDNKQm1WT01rZWVuTGZQMzVaNE1KaUpIblRPZEVEdVFycDBWZUFpUjhpRlJqeFBRSjFlYVVrcDExWlgwRnVZZF84cmZjQmkzNFZ3OVhwa2w3ZEgwQ05VR1nSAboBQVVfeXFMT1M4WGYtZ3BqekZBMnRRR09QbXdmMjdlTHFhZHRPWGNmdjM4dER4THp2U0VDd2phMGVQMUZvc2FBeDl4NEhUQVR6T2F3ZHRoaVVNaHdsdW8yclprYUJldEVzcE1TbHpwbkpJVF9NdExIVl91bWVKaVhjaFZaZ1hfRS1Zbzk1TGpOZWV2MEwxWFIxSkNlMHZXNm9KV3VuZlQ3SE8ycksyNGloblVfbHhFcllJYk94MVVBTHRR?oc=5>
+- **特朗普** | 特朗普宣布出席本月在法国举行的G7峰会 <https://news.google.com/rss/articles/CBMihwFBVV95cUxNaTBTZXU5eGpndEtIcGRfcXFqV0U2Y2FDLVhEYVRJQm03TGVpc2QyY0xKZzVhc0RIb2kwSUZvVVFsdVFoSUZubWJUQXZrd3VmVXJ1LTNNNDVaclUtTGctc21RN3JYYmtMWkRVTkl0ekV3OF9sMWs3Mmw0NUxUUkQ0ZHVvWE5Xdk0?oc=5>
+- **特朗普** | 特朗普宣布出席本月在法国举行的G7峰会 <https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRFJpcnpaU0t5OTFNcXlGc0o1U1FTNTNqU1p1Rjc2VU5iNlVoMmJKTjJMVVVfekpxeGNOU2N5blk0UDcyX2xoOWtMeXZRWHlqWG5BWTk0RTF4ZUFoNDlqbVpKaWNxS1dZUHpNUWdjWEtMUFNuRGlUTG1sQkswX0FDajhSVmEwdlp0dWU3Q3cxcWdqTzVsMlFrUm8xejU5TkM5TGUtU0ZCX09XZw?oc=5>
+- **Trump** | 美财长贝森特称美中关系进入稳定期 <https://news.google.com/rss/articles/CBMinwJBVV95cUxPeENrZEZKSkxjU1ZOTU1pS2cwMlZ5c3daOU15WUtwMmZ5YWpIZTJpcV90OHYzbGVYblcxUUNHcXBTR2ZTclc5dzJvcDJnZmh1T2w4SkpMV3RxNG1DcmljTEEyMU9LSl8xMm44bXpqbmtuc0s3dHpyVFF4NVY3N2xtWjBQdEZRN2xwdml5VDJIeHVlcWJjWmdxWDJ5YlZhRDlVeU5vQnBiNC1TRWdGTGRsT3lnRmJoeXFkYjY4T3plZU5XeXlYWjdIVHBCV0JrMkN3TDFNdDZVcTZkT0lBX0xFWkVRdVRJNU5hWTRKVkh0dmo1REdLbXRIMXZOcmx0bWxobGJjUHpKNjl0UDJqUk5idmxNSWo2X2p4YnpPaHdCcw?oc=5>
+- **Trump** | 特朗普：美军将伊朗对科威特巴林的袭击“扼杀在萌芽状态”，美伊谈判继续“非常顺利”进行 <https://news.google.com/rss/articles/CBMi8wFBVV95cUxNMGxMVFlvWjBYSG9FVnpPRmo4OXRnVXdDWElMM2t5ZEUwZnRZb1pCb3Z4Y3JuSFo0VUtiN1U4dEN3Qm11akdLU0VOcWExSDA1WTl4RFpybXFCaWhpb3RTWktvMWxaQkZramNQdmcwdGk5bkhCZjdjcWl5VFg3ZVZUek9sSlUzQnNLWDlNNkhjNjd1RV9GcndtTVpQRkVkbkxGdENROHFaQWZJTXc5STZCUEdWTi10WE1KZ245SEFSOUtFUG1jemdqakZiX3hITXRIYkRIcDh6NEg0dVNaWGdsaWhrSjNEeDA5MHhzeWZNeURHcXPSAfYBQVVfeXFMTlRWWHNPRGFiUWo2azc5R3UxZU9WLXg1c0ZVZmNmaEVlZ3lIQ1JXX01BRmE0TlJBVkRtV1ZMazlpWE9ycFZ4YTd2UWRYdlFvTzlWRWpoRmRMdFJNRnpOa25JUDFDZ2JzZ1ZKVWpJNnJraGVIXzY3M1VXRktqWUV3TF9HLXVURFY4Mm9QX3cteWJmY2pYeVhwbzh2ak1KOV9LV2d4SUpiUVMwb1FlVTM5cVVERmQwc2xCLTF4QzZCbUtwVFYyTHVCcVpBTmRWa0lrRF9SeGdPelJsRG5ydDUtNHFRY2RRYVlTV3VUNXFPbzBxdm84cUVB?oc=5>
+- **Trump** | Trump 签署行政命令 采取对 AI 网络安全的自愿性措施 <https://news.google.com/rss/articles/CBMiggFBVV95cUxOSGtyaFhFbnZFaWhndFFTaWo1SmlINWxjSGRWeERLWGxSWC03cTdKS1RaOXNOWmljVFZqYzcyWUlYaWlsUllrOUlWcFUtYnlDb1pXNlRMdVhhZVNEXzZucVdzc3pKUVVDaHhoQnp1MmJzR1BxV2VHUENPVk4weV9qYjJ3?oc=5>
+- **Trump** | 美国提议对其所称使用“强迫劳动”的60个经济体加征新关税 <https://news.google.com/rss/articles/CBMiwAFBVV95cUxQS3dSNG9xUlRKeDZxdldpLXNUaW5UalpTYTBLMnVCS3RkaDFWRFlUU1AyUFNrVEFyd2RRVTE2d1JzT19QQ29xU3pHVlBzZ25KYzhLQ3AwRWVyTjZJakk3VHNuOFNnRGRNYWRvY1ZUMVZCX2ZHQnNzTXVnUTJCeUlCLXplRlMyR3dJTjRkajVmTUFQUWI3RGdmS3hMdFlpbTBhbjhMcG96UjUzbE82VVlpQ2pvMW1WMDd4X2tFWTFFRm3SAcMBQVVfeXFMTTBLeDJqSFVVbURxakdaWXYzRU5OaXJUcGMyY0hTa0FOcEJ5WVllSk9PQXZZaks0ZVFhZmtiQ3dfNjdUU2F1OTVzelJEczIyangxOXcyTHNVRlQtR1ZOa0FZWVNWcS01MFZsaWY5cTR4RlVDVVB1ZFFrLUMydEtWS3Jla3lhZDJzQUh3cEg4Z29KNkxVb3Y3UDB6VEk2M1FvSTk3RTg2enNqZGtKWFB4YU94UWRnVDRSTVBkbnZITklhVTlJ?oc=5>
+- **Trump** | 市场传闻：特朗普将按《国防生产法》拨款US$500M予燃煤电厂及出口码头 <https://news.google.com/rss/articles/CBMib0FVX3lxTE43TXR5V0VKRUNvdmYwNktmWXFQdnV0cDdiZjlpQ1d0SHQ4Z3lCWGlaRGdNUGtGbzdwUmRGOTR5Q2R5MmI4R2FqV1JUdnU0T3NxZ3dnNWp3TXZENGtXdVRwVEZfY1J0MzhRdENDZENNTQ?oc=5>
 
 ### 2026-06-03 20:35  (11 条)
 
