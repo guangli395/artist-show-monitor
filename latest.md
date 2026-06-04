@@ -1,76 +1,80 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-04 13:55**
-- 本轮扫到 2695 条, 新增 **8** 条
+- 最近更新: **2026-06-04 16:51**
+- 本轮扫到 2702 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (7 条)
 
-### 窦靖童音乐节首唱原创《Monday》，致敬周杰伦掀夏日爵士风
+### 蔡徐坤今晚亮相马来西亚AsiaTop音乐节
 
-- 艺人/关键词: **周杰伦**
+- 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_3207553234_mbf2f60d203301gp70.html>
+- 链接: <https://k.sina.com.cn/article_1852855013_m6e7052e505302n1ry.html>
 
-### 瞿颖连输三局赞周杰伦球技，约战北京演唱会
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923704_m1d5ae17f803301syr8.html>
-
-### 美众议院通过决议，限制特朗普对伊动武权力
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-06-03 22:55
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBMZ0ZqbE5PYUhnQl9WNy11eWdVaThleWFueGNJVlE1ZndJZHNMcWVWeTdNSDlGRUpuZWJKb2JHLWhPa18zZEdVTENLNmo?oc=5>
-
-### 为何特朗普频繁体检？“他喜欢”-观察者网
+### 特朗普慌不择路又想加税，中欧谴责-观察者网
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: guancha.cn
-- 时间: 2026-06-03 14:34
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE82dXZxalJSa3dMN2hFelFqODhrLXAtZm5aYUFwVHl3RnByODhfbnZCQ1kyWXpRdTJuS0twR1pfc3BwMXd4bDJYdjd5dmNOUUJZS0ZWdFhIZFpLU3NNU3hvYWsxV19ORGlNeGc?oc=5>
+- 时间: 2026-06-04 01:49
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9aZUpqcVVYZkVFelFMSFA4Ymx5NkZhNE5wcVl5N0VoT1lValdsN21QNGZ6S2tMVGZuRnJJOU5pSUFmcXNmZ3pCWGZycVRoY3JNRk8wSlZfMEdJMWFFb0p6Q3Vaa3hManRIdWc?oc=5>
 
-### 特朗普提议：万斯和鲁比奥一起参加2028总统选举，“不知道怎么输”！鲁比奥曾暗示：可能会对万斯“让贤”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 每日经济新闻
-- 时间: 2026-06-04 12:08
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1LR3VTTEliLUpUU2xxVHlkS0JualhZNExqV1NhYU1HLWFLbnZDWXVZQ3JkbU9mZ0pRVDZtOFhEcW5OdWdNYzNnZUp6ZnNqM2hvRjAyQ2V1ajlKX3FKZXVvLVI1T1pCQQ?oc=5>
-
-### 美国会议员播放特朗普开会打瞌睡视频，鲁比奥否认：假的！
+### 特朗普政府为旧关税找到新理由
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-06-04 11:10
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sTUdsT283R3dZTHdaSk9Ma0I5SU1yLUNURWtfbExpU3hJR2dFUEh6Vjl5UVBxTmNyZ3k2VFBrcU5LMV8waGkzcUNsOWFsZHpOXzhIbmpGR1hHcklCaWc?oc=5>
+- 场馆: 纽约时报中文网
+- 时间: 2026-06-04 02:32
+- 链接: <https://news.google.com/rss/articles/CBMid0FVX3lxTE85Q202ZG0wMGpHMlBHbVAtX0JlUlJ2Zmp3bF9EdzU3dzhiU3VNRFlJYzR3VTJ3aElmZnY0dV9QQzhzd0VMSnpSRjZTdmtMcFJhdENSc2N6c1lXdjNhakdWVnFaeVpudU12ZnJMMXpjeGhRZ1hDTV9B?oc=5>
 
-### 特朗普是加密行业的救世主还是掘墓人？
+### 特朗普前国家安全顾问博尔顿同意就私存机密信息认罪
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Binance
-- 时间: 2026-06-04 10:26
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWbkhDUEV1dUlRVHdpanFzM2RWb2QyYXpISGt3WmlFQmFrbXBSNWZXTHFjZmpHbXpkbnRkM0NYVlphMS1zTWJNU0Z1YUhuSEFGTFdYSDB0aXl2RHRNYVUzVnZSbUJmYURK?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-06-04 15:08
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUHlESFZ3MGY0dlJfMENSZHRMWGZpYVpJbnp5Ym5WTXlac21uMU83LVpaWVE3T21rNDRsVmxNZHV4cXJSSWdOUm50c3NGVDhqYUk1UW5pLVl2TkFFVUNEdkhxOHNLQTBnZWlWX0tyRDUzcW1tWUtMMUdVWXJaMU94SkVmWHNNWEN5YlNuZnlyOFBfYmZXUkJ0VDVSeWxWZHhtOC1GOFhrUXVnSWNoVWRodmlWVVZiblh2VEtldmc4MzhtVGdDX0hxenU2clpybThVa3U2WUVLNlZFUUN0d0Fr?oc=5>
 
-### Trump 签署行政命令 采取对 AI 网络安全的自愿性措施
+### 美众议院通过决议 限制特朗普对伊动武权力
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: AASTOCKS.com
-- 时间: 2026-06-02 23:52
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE55UFE1djhONlpFSmR4NFBDc1pEZ1dWV2RVNzFPUmRwVzc3VUtTUmlZR0VIMVIzVUYyQnhfSXdLdXFJb0MwazY0clBCZHNJU2EzbW5ycVY3QVZnVk1MbW5helYyVmRaRmdtSGc2czB3QQ?oc=5>
+- 场馆: 央视网
+- 时间: 2026-06-03 22:29
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1SRC03MnRtd29mVEhYVGVlYlNPU2p4WFg0UFFmT1ZfRFBSMXk4LXJzazVkWWhHX25MQS0zZldhT3JlSEF6RlpZN3N0ZnR2OWE4YkxjRlRXc0xoVmRrZ0hUQy11bVZ1UmRNUVlEamhjTldDWlJMaF9xMw?oc=5>
+
+### 中东局势持续紧张 特朗普称愿与伊朗最高领袖会面
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中国新闻网
+- 时间: 2026-06-03 12:19
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtOXBGUGRHMTZUeXNjY0lSTEhYaUFCVnRjUVZ1LWppWkZrVTFkVE1UcnFHODFYbjlrX0FTbEFVSmJVdHJEQ0FjLTB4TzJMaXBKdF80dDdab2tkMF9jamlsOExkV3RBRDg?oc=5>
+
+### 特朗普总统表示，他曾敦促内塔尼亚胡停止与黎巴嫩的战斗
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-06-03 21:25
+- 链接: <https://news.google.com/rss/articles/CBMiugFBVV95cUxPUzhYZi1ncGp6RkEydFFHT1Btd2YyN2VMcWFkdE9YY2Z2Mzh0RHhMenZTRUN3amEwZVAxRm9zYUF4OXg0SFRBVHpPYXdkdGhpVU1od2x1bzJyWmthQmV0RXNwTVNsenBuSklUX010TEhWX3VtZUppWGNoVlpnWF9FLVlvOTVMak5lZXYwTDFYUjFKQ2Uwdlc2b0pXdW5mVDdITzJySzI0aWhuVV9seEVyWUliT3gxVUFMdFHSAboBQVVfeXFMT1M4WGYtZ3BqekZBMnRRR09QbXdmMjdlTHFhZHRPWGNmdjM4dER4THp2U0VDd2phMGVQMUZvc2FBeDl4NEhUQVR6T2F3ZHRoaVVNaHdsdW8yclprYUJldEVzcE1TbHpwbkpJVF9NdExIVl91bWVKaVhjaFZaZ1hfRS1Zbzk1TGpOZWV2MEwxWFIxSkNlMHZXNm9KV3VuZlQ3SE8ycksyNGloblVfbHhFcllJYk94MVVBTHRR?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-04 16:51  (7 条)
+
+- **蔡徐坤** | 蔡徐坤今晚亮相马来西亚AsiaTop音乐节 <https://k.sina.com.cn/article_1852855013_m6e7052e505302n1ry.html>
+- **特朗普** | 特朗普慌不择路又想加税，中欧谴责-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE9aZUpqcVVYZkVFelFMSFA4Ymx5NkZhNE5wcVl5N0VoT1lValdsN21QNGZ6S2tMVGZuRnJJOU5pSUFmcXNmZ3pCWGZycVRoY3JNRk8wSlZfMEdJMWFFb0p6Q3Vaa3hManRIdWc?oc=5>
+- **特朗普** | 特朗普政府为旧关税找到新理由 <https://news.google.com/rss/articles/CBMid0FVX3lxTE85Q202ZG0wMGpHMlBHbVAtX0JlUlJ2Zmp3bF9EdzU3dzhiU3VNRFlJYzR3VTJ3aElmZnY0dV9QQzhzd0VMSnpSRjZTdmtMcFJhdENSc2N6c1lXdjNhakdWVnFaeVpudU12ZnJMMXpjeGhRZ1hDTV9B?oc=5>
+- **特朗普** | 特朗普前国家安全顾问博尔顿同意就私存机密信息认罪 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUHlESFZ3MGY0dlJfMENSZHRMWGZpYVpJbnp5Ym5WTXlac21uMU83LVpaWVE3T21rNDRsVmxNZHV4cXJSSWdOUm50c3NGVDhqYUk1UW5pLVl2TkFFVUNEdkhxOHNLQTBnZWlWX0tyRDUzcW1tWUtMMUdVWXJaMU94SkVmWHNNWEN5YlNuZnlyOFBfYmZXUkJ0VDVSeWxWZHhtOC1GOFhrUXVnSWNoVWRodmlWVVZiblh2VEtldmc4MzhtVGdDX0hxenU2clpybThVa3U2WUVLNlZFUUN0d0Fr?oc=5>
+- **特朗普** | 美众议院通过决议 限制特朗普对伊动武权力 <https://news.google.com/rss/articles/CBMieEFVX3lxTE1SRC03MnRtd29mVEhYVGVlYlNPU2p4WFg0UFFmT1ZfRFBSMXk4LXJzazVkWWhHX25MQS0zZldhT3JlSEF6RlpZN3N0ZnR2OWE4YkxjRlRXc0xoVmRrZ0hUQy11bVZ1UmRNUVlEamhjTldDWlJMaF9xMw?oc=5>
+- **特朗普** | 中东局势持续紧张 特朗普称愿与伊朗最高领袖会面 <https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtOXBGUGRHMTZUeXNjY0lSTEhYaUFCVnRjUVZ1LWppWkZrVTFkVE1UcnFHODFYbjlrX0FTbEFVSmJVdHJEQ0FjLTB4TzJMaXBKdF80dDdab2tkMF9jamlsOExkV3RBRDg?oc=5>
+- **特朗普** | 特朗普总统表示，他曾敦促内塔尼亚胡停止与黎巴嫩的战斗 <https://news.google.com/rss/articles/CBMiugFBVV95cUxPUzhYZi1ncGp6RkEydFFHT1Btd2YyN2VMcWFkdE9YY2Z2Mzh0RHhMenZTRUN3amEwZVAxRm9zYUF4OXg0SFRBVHpPYXdkdGhpVU1od2x1bzJyWmthQmV0RXNwTVNsenBuSklUX010TEhWX3VtZUppWGNoVlpnWF9FLVlvOTVMak5lZXYwTDFYUjFKQ2Uwdlc2b0pXdW5mVDdITzJySzI0aWhuVV9seEVyWUliT3gxVUFMdFHSAboBQVVfeXFMT1M4WGYtZ3BqekZBMnRRR09QbXdmMjdlTHFhZHRPWGNmdjM4dER4THp2U0VDd2phMGVQMUZvc2FBeDl4NEhUQVR6T2F3ZHRoaVVNaHdsdW8yclprYUJldEVzcE1TbHpwbkpJVF9NdExIVl91bWVKaVhjaFZaZ1hfRS1Zbzk1TGpOZWV2MEwxWFIxSkNlMHZXNm9KV3VuZlQ3SE8ycksyNGloblVfbHhFcllJYk94MVVBTHRR?oc=5>
 
 ### 2026-06-04 13:55  (8 条)
 
