@@ -1,140 +1,103 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-04 02:04**
-- 本轮扫到 2667 条, 新增 **16** 条
+- 最近更新: **2026-06-04 07:00**
+- 本轮扫到 2677 条, 新增 **10** 条
 
 ---
 
-## 本轮新发现 (16 条)
+## 本轮新发现 (10 条)
 
-### 蔡徐坤马来西亚音乐节彩排｜西海岸风裹热忱，落日赴音乐之约
+### 新浪演唱会热点小时报丨2026年06月04日14时_今日实时演唱会热点速递
 
-- 艺人/关键词: **蔡徐坤**
+- 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1301666333_4d95da1d0010136wa.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906dbee.html>
 
-### 自己在这演上签售了哈哈哈哈哈
+### 奚梦瑶婚礼城堡系周杰伦MV取景地
 
-- 艺人/关键词: **蔡徐坤**
+- 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002lpuq.html>
+- 链接: <https://k.sina.com.cn/article_1852855013_m6e7052e505302n0ta.html>
 
-### 关于特朗普最新301条款关税，你需要知道些什么？
+### 周杰伦2026年鸟巢首开龙拳演唱会
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-06-04 01:07
-- 链接: <https://news.google.com/rss/articles/CBMitwJBVV95cUxPQkJOTXRwUkVfVlZNc3BBSnNGQW5ldVU3NkpPQzROdU5wTmRnNVZ2OFRZTldEZmN2LWRnV0tvUVByZzgyemZKWGpjOVJpYjVSSEl0NHl0cjBwcDRFbU9iSUN1eGFiYldJLW5GT3dlN0ExM1pNMFI5Zl85UEdEQXlITGZzM0dNWXNfS3RJMDVWa2ZXckQxR2RKakM0WXhGOVlrYlNWOExLR0lFUjF1Sk82Uk9HZ25FakYwdThGY1hmdUV5ZHdVTVFYMnlzT3NMWHFkMVh0MllXV1dFOU5tSWItTGNhY0xOREt6MTEyd3dnR2c0eDBibTVWTV91R0Z1SGpfXzFLZlg2Y2ZIZG5ETFVFNHNTWGVNekJBV1VCQUlTT21vaVFiWk51aGkxRHFxUWhvQ1RfRUE2bw?oc=5>
-
-### 特朗普称与伊朗谈判进展“非常顺利”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 央视网
-- 时间: 2026-06-03 22:31
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5Gc1Zxd21WMG5CMXgyMVpjdTllMjZ0bHB3NWZmT0JKcnRXd0l3TEdoYkhNUXNTRmhCeDQteFBtUmpsUUU5Ym5zRFN0bDVwdDFEUHdFWmQxRWU1SFlYSFZ2dWF0Uk1VeGlmQlphN0JZLUlpMVFvNEhJdA?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1910355794_m71ddb752033021l6g.html>
 
 ### 美众议院通过决议 限制特朗普对伊动武权力
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-03 23:26
-- 链接: <https://news.google.com/rss/articles/CBMilwVBVV95cUxQTE9PZi13el9LajR0a0JPNlBsa1BkeDBINXdSNkV0RVRaTllQeDZINGZKSGR5bDdYRmRwcklWSHRUR0lBbFlnTXBVc3dFb2lWX1h2RHpoaGZEMWd1RzJkaVpkazRiTFRDM2VyVlFhb1I4bFdrSF9RMzlrZXdEemxGVmVVZ05qQUFQOGszalpYWXEtNUlIbTFkS2pQb29oYV9ES05BTDlFWHYxNkhyaVVmSFNJS19xR3lHaHBQTjFqd1l1UDVGOC1UcDU3ZTVTYnQ1a3lpM3B2WGVOQzdmMm1VYlBHb09lZVB3dWdQV0x2Qmc3UXp5LTM2eEk1TVphMmxlVGNVZWtMdGxHdjFIb2o3MVhXOE0taVpVUjJ4LXZBaldMRTFYSDNrRFRmN29lMTB4Z21oRGplN2xKUEpzbHJLSnlVS1g2eHROaEp5OU5aa0VtNk9OZHZJZE4xb1hDT0hpLVVGMTduQkl6MzQ0R3VCdFhSNXROTm56S2xhZEY2YmNNdFJjenhxcko5Wjk2X1NYVEpwVi1Gb0ppZXllOTFCdFl3VnY0MW5wZHdXRVozVlVlQUo5NzVGdkQ5Vm9tUnFxWVJ3LXRnZ1dTWGlMX2p3dl8yYzRiRmltQ011RWx6LXFjTUE1ZGpleVdEVURad3Q1MFdmTzVka3pDWm1LSTgyQWhoOVJYTEZZLTA4eUs3ZUhwaTlabFg1WF8zNldTS01FR1gzWkh5dG0wLVdfbGRiS2hfdDB2NjNEUTd6R3doX08ySHlWM1VRWHExOUlkZ0RhcHJycmRrN1FNS1JsekZ6ZFB5MS15RHhGSl9jWmtCeDYwUzN5cUlHRlNVaFE0NzA5S2d2a1RoUmU0QWZOX3R0c2o0Z0NMNEk?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-06-03 21:18
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE1IQkVfMUdQLU9DY0wyQXVxUC1Fcy1lRGhZbGNfZ3JzVHFPY2RZNTB5ZHFhTUdBc0xLUXZmUEI1MWdRMWZTc1JseEZicUxSeWRQMWVTc05sSS1FYmVlcm1qRkxxMkNXQnltRmpXaldfb0xtVlRM?oc=5>
 
-### 美众议院通过决议 限制特朗普对伊动武权力
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中国日报网
-- 时间: 2026-06-03 22:22
-- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTFBmMTNGaWZ6SGN4bGR1UFI4TWNqQmF6eFY5OTVNMDhRenpQRUdfTExIZGV3VVFGYWtaWkN4a2tuUFpJTXdiUW43R1BHeU1DVDJDcGlYVlJqdXBQUDVxMDEtWFlWWjRoaHo3eXREVjNWckQ3bmduWjIwaFlwVQ?oc=5>
-
-### 国际｜美众议院通过决议 限制特朗普对伊朗动武权力
+### 美众院首次通过！“要求特朗普结束战事”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-06-03 10:00
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkM19DdTE0S2g0YXhlYk1OUVZ4ak5uQ2QxYmtHMThvNUcyQ3FxeGF1TjZfaDNTV0dxSzZnSVFZS3dxeEZzMXJKM0l5WDF1QzRUazQwMXhQUjhGd3Jfb1FNaUtiMmI?oc=5>
+- 场馆: 新浪军事
+- 时间: 2026-06-04 02:14
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFBEeDFsZTE5VGVIT3lPZWJxMkNoWVBsc1pIZnZFZ2lCTkJ1MWlOXzRocnplVEJCd3BsYlAtN0luZjdaMnBiZFFyUjEybmZENFR6RjlydUNqdmxoT3VnejB4ODdaU19HWEhfOE9LRkpmbm8tcGc?oc=5>
 
-### 被特朗普骂后，内塔尼亚胡最新发声-观察者网
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-06-03 23:15
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1JbHZ6ZHZMSzhtcXZQeDJPVW1rUHlWazJqbnk5QXJKb3h1Z0J4bGQ5T3JCQWtBaUZPSTJDUzIwenFGRDRic0haeXRjMnpKM1kwRDV3WndGWGd0QVl2QUw3SWZSOS1BWmlwOGc?oc=5>
-
-### 特朗普爆粗口 大骂以总理“疯了”：所有人都讨厌你 你到底在干什么？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-06-01 23:59
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0eUxPZlJwUzR3NlFqVDVSV0wxbjlRdlpTdnJrbS1rSmRoLW8zaTMxX2Z2NVJ4Tk8tenZnNjdQN0lUa2o2VWNZTWt4TzhZaWhmRVU3Yll1NEZOLU5acUUzUA?oc=5>
-
-### 人物｜从美国房产商“转型”情报头子，特朗普钦点“小特朗普”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 同花顺
-- 时间: 2026-06-03 23:15
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE1qaXRxX1p2LUdETl9lR25wY21KbHZvelNBc3ZNQWx6Tk51LWxXb1ZWeUJwNUwteGlubHgxeUotSU8xTV9DMmdUNkdQdkVrWW5qUFZtYlVkLWJhZnZpSGc?oc=5>
-
-### 特朗普：若有美军士兵战死 将考虑终止同伊朗的停火
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-06-04 00:28
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBYSEhFeGdtdmJybEdzMWRocVRRcDZMSTFoMk5UdUJRQkVSb19nWlJXR0RCMDg3NHM5dUlPZ3FyNHpWWVAxQ1BMeV9XUFZQd2V5Z1VDNFpnSEZoZy1vNTI2YXJELTk?oc=5>
-
-### 特朗普淡化霍尔木兹海峡水雷威胁 并推介替代航线
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: Sina finance
-- 时间: 2026-06-03 22:07
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxObkFjcFhmd0ctUTR6bHp5b0tDXzh6Vms3bHZ5UDlOamV5cU14dWJSMWdjelZIYTJpM1gwckNhZ1J6RlpKUG5ZRzZOVmUzVGVQYXAzQ2puanp3Y0NJYVdvXzlib1c4YUUzalY0am85dXZOQ05wcVhjYkp4MEVZbF9wazRNTUJvdTQ?oc=5>
-
-### 特朗普称美伊协议可能在本周末达成
+### 美众院首次通过决议 要求特朗普结束对伊朗战事
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新华网
-- 时间: 2026-06-03 22:09
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFB2ckFpTU9pZkVFMDhJaTE1ZnNjaXVtendFODIyb1kyMzJvSDJ0T25FYW9DNFh6a0kxLThkTGNsU2FIXzQwYk1Vd25hVC1SQ01BOHBpRDBKTnVHaUJ6Zlk5OEwxR0pCQmI1bkNVd3YtWGtRN0VGMkdvRHZGa2RqZkk?oc=5>
+- 时间: 2026-06-04 00:10
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE90MjJjdElVZUxyeXFqQlNfelBtb3k4Vk5wS2xiZzJfYUFuOUZrR05Fb2MzbHA2Z2JhT245RGNHNWZxUThTZmZTSldUSUdGRlAzVkFFNV8tZ0EzV0loeGhXS0RVak1QMmlDVXNmVzhIOG50TExRdmJxektMaXRyd0k?oc=5>
 
-### 澳廣視新聞｜Trump acknowledges calling Netanyahu ‘crazy’｜Trump acknowledges calling Netanyahu ‘crazy’
+### 特朗普有意挑起万斯鲁比奥“龙虎斗”？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 日经中文网
+- 时间: 2026-06-04 02:05
+- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxQeEh1bEpRdnpGd0JvTEt1VTk1NFBLekgtOEFnV0NWM1NvZlBBcVY1ajRyM2lxOWhMTnZ1c0p5WmxZQUpDTVUtVThpMXJtVEFKX180dVRySG5vNlZsWTI5NG1oYTNVWmFKRXV1a0lhcUNOZmtvdEhkOFEwOUQyS3F1b2RtTmZDcUZBaXF2QUMtYw?oc=5>
+
+### 特朗普假设万斯卢比奥联手竞选总统 难以被击败的团队
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-06-04 03:25
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5MTWVfYXgyejRFc1JSQnItVURjM0RDdDJMcm9XQ1BldDVveXhjSlpEV25OcHYxZ3FjRmtuVEkteVp0RzJwWnR6V0U3anpTZ2dXdENXUlg0Q1N0Y3VwT19GMUZ4cmpRQ1FUaFMxaWJIMmg?oc=5>
+
+### 特朗普为何骂内塔尼亚胡“疯了”？美媒：各有压力
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-06-03 11:54
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9mdnA3ZUNkSG1EeW5yVDRWaHpJQkpmZGJuZy1Gb083eEVHNTZMQlFHWV91UEdCRXVuOE55THlTbEtKNFVBWFVyNm1HcXlBNWJiNXpfOFU1V0xaSG84bEZKblFCSW4yTjZaeUpfdmpyR3FCSkZ4VFZUaWs3NHJHbWc?oc=5>
+
+### 特朗普：万斯与卢比奥若联手参选将“无人能敌”
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 澳門廣播電視股份有限公司
-- 时间: 2026-06-03 20:25
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxOdlZpVDZUTUhUVTZ4UUpkbWJudXpCeEZNYjlFS0szLVBadWh2RDlvNGp6MjBYV3VSU0o3bWNHcjBmOWxzcmFWSE0tdWRUM19FRVBwYzljR3BJT3BlYkRnODA0WS0zbXo5enFaU3RmOGhmaDNoMm90ZW56VlZXc1lHZUtyU1ZkbWs?oc=5>
-
-### 特朗普称美国已清除霍尔木兹大部分水雷，伊朗达成协议后海峡将重新开放
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: AASTOCKS.com
-- 时间: 2026-06-03 22:57
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE9LVEUtclFWZ2FibFNzNXZYa1ZDWC11aThWdGRsd1JQYVRNc0xSSXotNVZIbFVBeXhTajNOdU90aE9XMndPdmJFaU1BUUNSa3BMVzVjVDdpWFdJNjFHWkpLbjVtLWlVRGpVVkFWZlBmNA?oc=5>
-
-### 市场传闻：特朗普将按《国防生产法》拨款US$500M予燃煤电厂及出口码头
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: AASTOCKS.com
-- 时间: 2026-06-03 22:45
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE1aWUNRM3llSFU1cDktdGQ5eGdpOWdUQlNZblptQ3VZQWJWNzhOSEJqbmc0ZDA2ZmZoRnhGdGgtVjBwMTFRdGcwdzd5eFFxUjJIdUNMdm9nNHNFN0JGZGhkNGd4Xy1zemZLNXZGU0g3Yw?oc=5>
+- 场馆: 8world
+- 时间: 2026-06-04 03:09
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKeDBhV2t6d1NrQzM4UTFmNWItSG5LWnFmaDBrQ05WRy0zTF9wNU5fUGctd1FrZEUzbG8wV2xUMVoyandPb0lZd1lIS2Q4aVRUTl9iVW9IbHZfTXA2N09LT1FsaGU?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-04 07:00  (10 条)
+
+- **周杰伦** | 新浪演唱会热点小时报丨2026年06月04日14时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001906dbee.html>
+- **周杰伦** | 奚梦瑶婚礼城堡系周杰伦MV取景地 <https://k.sina.com.cn/article_1852855013_m6e7052e505302n0ta.html>
+- **周杰伦** | 周杰伦2026年鸟巢首开龙拳演唱会 <https://k.sina.com.cn/article_1910355794_m71ddb752033021l6g.html>
+- **特朗普** | 美众议院通过决议 限制特朗普对伊动武权力 <https://news.google.com/rss/articles/CBMidEFVX3lxTE1IQkVfMUdQLU9DY0wyQXVxUC1Fcy1lRGhZbGNfZ3JzVHFPY2RZNTB5ZHFhTUdBc0xLUXZmUEI1MWdRMWZTc1JseEZicUxSeWRQMWVTc05sSS1FYmVlcm1qRkxxMkNXQnltRmpXaldfb0xtVlRM?oc=5>
+- **特朗普** | 美众院首次通过！“要求特朗普结束战事” <https://news.google.com/rss/articles/CBMic0FVX3lxTFBEeDFsZTE5VGVIT3lPZWJxMkNoWVBsc1pIZnZFZ2lCTkJ1MWlOXzRocnplVEJCd3BsYlAtN0luZjdaMnBiZFFyUjEybmZENFR6RjlydUNqdmxoT3VnejB4ODdaU19HWEhfOE9LRkpmbm8tcGc?oc=5>
+- **特朗普** | 美众院首次通过决议 要求特朗普结束对伊朗战事 <https://news.google.com/rss/articles/CBMif0FVX3lxTE90MjJjdElVZUxyeXFqQlNfelBtb3k4Vk5wS2xiZzJfYUFuOUZrR05Fb2MzbHA2Z2JhT245RGNHNWZxUThTZmZTSldUSUdGRlAzVkFFNV8tZ0EzV0loeGhXS0RVak1QMmlDVXNmVzhIOG50TExRdmJxektMaXRyd0k?oc=5>
+- **特朗普** | 特朗普有意挑起万斯鲁比奥“龙虎斗”？ <https://news.google.com/rss/articles/CBMijwFBVV95cUxQeEh1bEpRdnpGd0JvTEt1VTk1NFBLekgtOEFnV0NWM1NvZlBBcVY1ajRyM2lxOWhMTnZ1c0p5WmxZQUpDTVUtVThpMXJtVEFKX180dVRySG5vNlZsWTI5NG1oYTNVWmFKRXV1a0lhcUNOZmtvdEhkOFEwOUQyS3F1b2RtTmZDcUZBaXF2QUMtYw?oc=5>
+- **特朗普** | 特朗普假设万斯卢比奥联手竞选总统 难以被击败的团队 <https://news.google.com/rss/articles/CBMicEFVX3lxTE5MTWVfYXgyejRFc1JSQnItVURjM0RDdDJMcm9XQ1BldDVveXhjSlpEV25OcHYxZ3FjRmtuVEkteVp0RzJwWnR6V0U3anpTZ2dXdENXUlg0Q1N0Y3VwT19GMUZ4cmpRQ1FUaFMxaWJIMmg?oc=5>
+- **特朗普** | 特朗普为何骂内塔尼亚胡“疯了”？美媒：各有压力 <https://news.google.com/rss/articles/CBMif0FVX3lxTE9mdnA3ZUNkSG1EeW5yVDRWaHpJQkpmZGJuZy1Gb083eEVHNTZMQlFHWV91UEdCRXVuOE55THlTbEtKNFVBWFVyNm1HcXlBNWJiNXpfOFU1V0xaSG84bEZKblFCSW4yTjZaeUpfdmpyR3FCSkZ4VFZUaWs3NHJHbWc?oc=5>
+- **Trump** | 特朗普：万斯与卢比奥若联手参选将“无人能敌” <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKeDBhV2t6d1NrQzM4UTFmNWItSG5LWnFmaDBrQ05WRy0zTF9wNU5fUGctd1FrZEUzbG8wV2xUMVoyandPb0lZd1lIS2Q4aVRUTl9iVW9IbHZfTXA2N09LT1FsaGU?oc=5>
 
 ### 2026-06-04 02:04  (16 条)
 
