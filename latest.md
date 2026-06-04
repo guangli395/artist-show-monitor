@@ -1,48 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-04 21:10**
-- 本轮扫到 2710 条, 新增 **4** 条
+- 最近更新: **2026-06-04 22:52**
+- 本轮扫到 2714 条, 新增 **4** 条
 
 ---
 
 ## 本轮新发现 (4 条)
 
-### 特朗普认为赞成限制其战争权力的众议员“不爱国”
+### 首位出席NBA总决赛的现任总统！Shams：特朗普将在麦迪逊观看G3
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-04 21:00
-- 链接: <https://news.google.com/rss/articles/CBMijAJBVV95cUxPYk10dklhLUlGTFFuWEVpWHhqMXFJR1dkWjJhUTB3QUJ1WjdKcjlWaXg4bVNrampPQUlNTU00dTNUUVJ2QXA0V2dpTlplTEZXSVNIdG9URU0xbkprZm1kdW9CWTJLdzFycERfZ0diZEJzeWtsZG5leE13YTUwSGNGWmJVV1Aycl9mU0JON3ZtVXpDRDFBNnNvRTVsa1E3bVphWjJCczZBOVZkXy1DeTlEWi1DTklCeExfbGVCY055NVVhOHBVbXhuclFFSTZBc1RFaWliTmpydGdrYTNjZXJhSm5JU1l4QWpDVkFlNS1hV1dLREtPZ1ZWZDBwcU5YS09EU0JKY2wtUzFLYVBJ?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-06-04 22:32
+- 链接: <https://news.google.com/rss/articles/CBMihAFBVV95cUxQOEVPTk9GQlBfbVdFQnhNMUUybXhlbDBOQ0VzUkViVzR2ZU5xV0lmWXNwR096UGpicGdFSXNCdUoxZ1QxeFd1QTFDRG9oS0tqT0NLMnc1U09CRjN2WnlSUmZ6Zkc0M01SeW1LWk4zR0c4YTcwcjRjRDE3TEtHNjhNUWhMSWw?oc=5>
 
-### 快观察 | 特朗普在众院遭遇“罕见政治挫败”，说明什么？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-04 09:12
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9JY0JqTzZqUWt2eVhBcjRiSjNQQ1AxcTVHOFVzbUF4ZjZ1RWZaSzVubnZTSFRINDE3ZkE5alBsUEZPNFptOWNOUzZwd1daS09DeTdqZno0MWJPa081YmtKQXNxWWUtdFpFZG5CVGJVaE9sekpvRDNtaw?oc=5>
-
-### 特朗普就2028年总统选举表态
+### 特朗普：乐见“普泽会”，俄乌会“妥协”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-04 12:38
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTFB2azV5cHNkWFRzSUhCYWljT09WTHpqTXBlUDNhM0RiOXdTQWgxUFlrV3FpTkdMZW02VWV5R3N5bWFIR0hYUDJrb1pYem9nZkRhNENtbUxrTUNlbmJ1azBFaDVudERNbTN5VVUwS01HLXZzOUppUHc?oc=5>
+- 场馆: thepaper.cn
+- 时间: 2026-06-04 21:45
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9mSGV3MEhtVHltUVhSNkhhU3lkbTVHaEJiX04tdnFxN3B5Z0hNVnZLelRlNVdKTmNsRlhfZTNVX3dGLWdfRnE5Tm9BSnZUbDN5cC05NGFmSkZkenphSWlQeA?oc=5>
 
-### Trump签署行政命令指示海关收紧执法打击逃避关税并加强进口监管财经新闻Financial News
+### 澳廣視新聞｜Trump acknowledges calling Netanyahu ‘crazy’｜Trump acknowledges calling Netanyahu ‘crazy’
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: AASTOCKS.com
-- 时间: 2026-06-04 07:28
-- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxPWkVGWXRSWGQxY3JnT0tJaTQ2aW9vTFlCZno2RGZiQ1N5YjVqaWgwQ0o4Z2N6b0RCUkZCUGJVNVZRWWdlT1lBQnQyN0pzUUstdUN0Y3NSeXA2R2JPMGVsamVUcEtIT0U2NmlfcjU1YjVMQU5vMFJsYkhiYVlGQ0wxcDZKbm1JbUVrUnZGMTNJRlVQN0Zn?oc=5>
+- 场馆: 澳門廣播電視股份有限公司
+- 时间: 2026-06-04 14:58
+- 链接: <https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RZ3RFcmhWODJiU3dUTk91ekZ4cC1GYlZjSkdaMUExQ3R6eDRMY1dFZ3I5MnVBWlowMlI2ekw1alpmV1lNRDZUOFJIVkJBOXNzQk9nb0R3RWM3V2h6OHJR?oc=5>
+
+### 擔憂中共的法律制度 小川普：不會在中國投資
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 大纪元
+- 时间: 2026-06-04 21:21
+- 链接: <https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxRW9BeDFoTDFPdFoxVFhGbF9GTG1TNURqbUdLQmlmYnZrTlp0YWRlVHFVZU9HamVONkRWZ21GN3ZOTy1FczBRcExZX3UwMy1oZWJJNkE2MERSMzdvSlJV0gFkQVVfeXFMTVA5YXJLNi1ualZvNnI3ZHN4eklTTnlsSDF0OUFGOF85cWh3WWk1WS1OQ3ZSWGhOcUtnS3JRWXVwRVJ0em9mRmQ2aU8zWWF1VXJMeF9yMlkwdEtzcTZsVVI1U2Jwbg?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-04 22:52  (4 条)
+
+- **特朗普** | 首位出席NBA总决赛的现任总统！Shams：特朗普将在麦迪逊观看G3 <https://news.google.com/rss/articles/CBMihAFBVV95cUxQOEVPTk9GQlBfbVdFQnhNMUUybXhlbDBOQ0VzUkViVzR2ZU5xV0lmWXNwR096UGpicGdFSXNCdUoxZ1QxeFd1QTFDRG9oS0tqT0NLMnc1U09CRjN2WnlSUmZ6Zkc0M01SeW1LWk4zR0c4YTcwcjRjRDE3TEtHNjhNUWhMSWw?oc=5>
+- **特朗普** | 特朗普：乐见“普泽会”，俄乌会“妥协” <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9mSGV3MEhtVHltUVhSNkhhU3lkbTVHaEJiX04tdnFxN3B5Z0hNVnZLelRlNVdKTmNsRlhfZTNVX3dGLWdfRnE5Tm9BSnZUbDN5cC05NGFmSkZkenphSWlQeA?oc=5>
+- **Trump** | 澳廣視新聞｜Trump acknowledges calling Netanyahu ‘crazy’｜Trump acknowledges calling Netanyahu ‘crazy’ <https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RZ3RFcmhWODJiU3dUTk91ekZ4cC1GYlZjSkdaMUExQ3R6eDRMY1dFZ3I5MnVBWlowMlI2ekw1alpmV1lNRDZUOFJIVkJBOXNzQk9nb0R3RWM3V2h6OHJR?oc=5>
+- **Trump** | 擔憂中共的法律制度 小川普：不會在中國投資 <https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxRW9BeDFoTDFPdFoxVFhGbF9GTG1TNURqbUdLQmlmYnZrTlp0YWRlVHFVZU9HamVONkRWZ21GN3ZOTy1FczBRcExZX3UwMy1oZWJJNkE2MERSMzdvSlJV0gFkQVVfeXFMTVA5YXJLNi1ualZvNnI3ZHN4eklTTnlsSDF0OUFGOF85cWh3WWk1WS1OQ3ZSWGhOcUtnS3JRWXVwRVJ0em9mRmQ2aU8zWWF1VXJMeF9yMlkwdEtzcTZsVVI1U2Jwbg?oc=5>
 
 ### 2026-06-04 21:10  (4 条)
 
