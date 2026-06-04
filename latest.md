@@ -1,70 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-04 16:51**
-- 本轮扫到 2702 条, 新增 **7** 条
+- 最近更新: **2026-06-04 19:20**
+- 本轮扫到 2706 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (4 条)
 
-### 蔡徐坤今晚亮相马来西亚AsiaTop音乐节
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1852855013_m6e7052e505302n1ry.html>
-
-### 特朗普慌不择路又想加税，中欧谴责-观察者网
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: guancha.cn
-- 时间: 2026-06-04 01:49
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9aZUpqcVVYZkVFelFMSFA4Ymx5NkZhNE5wcVl5N0VoT1lValdsN21QNGZ6S2tMVGZuRnJJOU5pSUFmcXNmZ3pCWGZycVRoY3JNRk8wSlZfMEdJMWFFb0p6Q3Vaa3hManRIdWc?oc=5>
-
-### 特朗普政府为旧关税找到新理由
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-06-04 02:32
-- 链接: <https://news.google.com/rss/articles/CBMid0FVX3lxTE85Q202ZG0wMGpHMlBHbVAtX0JlUlJ2Zmp3bF9EdzU3dzhiU3VNRFlJYzR3VTJ3aElmZnY0dV9QQzhzd0VMSnpSRjZTdmtMcFJhdENSc2N6c1lXdjNhakdWVnFaeVpudU12ZnJMMXpjeGhRZ1hDTV9B?oc=5>
-
-### 特朗普前国家安全顾问博尔顿同意就私存机密信息认罪
+### 特朗普对2028年美国大选表态
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-04 15:08
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUHlESFZ3MGY0dlJfMENSZHRMWGZpYVpJbnp5Ym5WTXlac21uMU83LVpaWVE3T21rNDRsVmxNZHV4cXJSSWdOUm50c3NGVDhqYUk1UW5pLVl2TkFFVUNEdkhxOHNLQTBnZWlWX0tyRDUzcW1tWUtMMUdVWXJaMU94SkVmWHNNWEN5YlNuZnlyOFBfYmZXUkJ0VDVSeWxWZHhtOC1GOFhrUXVnSWNoVWRodmlWVVZiblh2VEtldmc4MzhtVGdDX0hxenU2clpybThVa3U2WUVLNlZFUUN0d0Fr?oc=5>
+- 时间: 2026-06-04 11:12
+- 链接: <https://news.google.com/rss/articles/CBMihAFBVV95cUxNcE1OdGMxWVRjOFBQN1c5ejN6WDBtRmZmMlgtS0dpOG9vTExLREZYbFpydGkwbWpKS0tqZ2hheXNGVGdWUHQzNjRJTDZTYnJwWVdnUmZrUTdYWWJtM3dtUUpUaE55VlgySmhzMUhobjY0T3ktY0Q0NXN6WWhVV1BVeHRmSjc?oc=5>
 
-### 美众议院通过决议 限制特朗普对伊动武权力
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 央视网
-- 时间: 2026-06-03 22:29
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1SRC03MnRtd29mVEhYVGVlYlNPU2p4WFg0UFFmT1ZfRFBSMXk4LXJzazVkWWhHX25MQS0zZldhT3JlSEF6RlpZN3N0ZnR2OWE4YkxjRlRXc0xoVmRrZ0hUQy11bVZ1UmRNUVlEamhjTldDWlJMaF9xMw?oc=5>
-
-### 中东局势持续紧张 特朗普称愿与伊朗最高领袖会面
+### 外交部：中国不存在所谓的“强迫劳动”，反对以此为借口搞政治操弄
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中国新闻网
-- 时间: 2026-06-03 12:19
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtOXBGUGRHMTZUeXNjY0lSTEhYaUFCVnRjUVZ1LWppWkZrVTFkVE1UcnFHODFYbjlrX0FTbEFVSmJVdHJEQ0FjLTB4TzJMaXBKdF80dDdab2tkMF9jamlsOExkV3RBRDg?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-06-03 12:38
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE5RSEdTVjJNZG5iYXdHakduSFBGUW5iUW1RamloVTBkVVpWLW01YzlxZF90bDVQeHpMSWk5aEI2QkV2NExMZXhXQm1Jdkd0Wm5zb3Rtd1lZTFoyTFFoUk5sd19xc29mMDBHdTg2SU5lRzFDSEZU?oc=5>
 
-### 特朗普总统表示，他曾敦促内塔尼亚胡停止与黎巴嫩的战斗
+### 美国会议员播放特朗普开会打瞌睡视频，鲁比奥否认：假的！
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-06-03 21:25
-- 链接: <https://news.google.com/rss/articles/CBMiugFBVV95cUxPUzhYZi1ncGp6RkEydFFHT1Btd2YyN2VMcWFkdE9YY2Z2Mzh0RHhMenZTRUN3amEwZVAxRm9zYUF4OXg0SFRBVHpPYXdkdGhpVU1od2x1bzJyWmthQmV0RXNwTVNsenBuSklUX010TEhWX3VtZUppWGNoVlpnWF9FLVlvOTVMak5lZXYwTDFYUjFKQ2Uwdlc2b0pXdW5mVDdITzJySzI0aWhuVV9seEVyWUliT3gxVUFMdFHSAboBQVVfeXFMT1M4WGYtZ3BqekZBMnRRR09QbXdmMjdlTHFhZHRPWGNmdjM4dER4THp2U0VDd2phMGVQMUZvc2FBeDl4NEhUQVR6T2F3ZHRoaVVNaHdsdW8yclprYUJldEVzcE1TbHpwbkpJVF9NdExIVl91bWVKaVhjaFZaZ1hfRS1Zbzk1TGpOZWV2MEwxWFIxSkNlMHZXNm9KV3VuZlQ3SE8ycksyNGloblVfbHhFcllJYk94MVVBTHRR?oc=5>
+- 场馆: thepaper.cn
+- 时间: 2026-06-04 11:10
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE45aEozal9Rc094VTFteGhYMEhzWERzdVQ2cnU5aFlpMkFxY01KT0pOZzBYQjE3LVpHNVRhRk1xVUx6algwNTlKT1dPVlBNODJpZWZ5QXpfQVI5TjJtZ2kwUw?oc=5>
+
+### Trump签署行政命令指示海关收紧执法打击逃避关税并加强进口监管财经新闻Financial News
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: AASTOCKS.com
+- 时间: 2026-06-04 07:28
+- 链接: <https://news.google.com/rss/articles/CBMihAFBVV95cUxONmZiTXBTbFg3cjJ2UmR4azhLTEdpWkI1WHhrb3VXbWJaOXN2WG9IWkJvZWlCbkFfNldVR3FFV0p6dTQ5SXd3TEJBcTNsME5QbDlDekpGQmlUMnV6czZyem5Vei0wZlpNRXNHVFJYODZ4SnI4VjI4UDE1VkhNNHRJNDQwVzE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-04 19:20  (4 条)
+
+- **特朗普** | 特朗普对2028年美国大选表态 <https://news.google.com/rss/articles/CBMihAFBVV95cUxNcE1OdGMxWVRjOFBQN1c5ejN6WDBtRmZmMlgtS0dpOG9vTExLREZYbFpydGkwbWpKS0tqZ2hheXNGVGdWUHQzNjRJTDZTYnJwWVdnUmZrUTdYWWJtM3dtUUpUaE55VlgySmhzMUhobjY0T3ktY0Q0NXN6WWhVV1BVeHRmSjc?oc=5>
+- **特朗普** | 外交部：中国不存在所谓的“强迫劳动”，反对以此为借口搞政治操弄 <https://news.google.com/rss/articles/CBMidEFVX3lxTE5RSEdTVjJNZG5iYXdHakduSFBGUW5iUW1RamloVTBkVVpWLW01YzlxZF90bDVQeHpMSWk5aEI2QkV2NExMZXhXQm1Jdkd0Wm5zb3Rtd1lZTFoyTFFoUk5sd19xc29mMDBHdTg2SU5lRzFDSEZU?oc=5>
+- **特朗普** | 美国会议员播放特朗普开会打瞌睡视频，鲁比奥否认：假的！ <https://news.google.com/rss/articles/CBMiYEFVX3lxTE45aEozal9Rc094VTFteGhYMEhzWERzdVQ2cnU5aFlpMkFxY01KT0pOZzBYQjE3LVpHNVRhRk1xVUx6algwNTlKT1dPVlBNODJpZWZ5QXpfQVI5TjJtZ2kwUw?oc=5>
+- **Trump** | Trump签署行政命令指示海关收紧执法打击逃避关税并加强进口监管财经新闻Financial News <https://news.google.com/rss/articles/CBMihAFBVV95cUxONmZiTXBTbFg3cjJ2UmR4azhLTEdpWkI1WHhrb3VXbWJaOXN2WG9IWkJvZWlCbkFfNldVR3FFV0p6dTQ5SXd3TEJBcTNsME5QbDlDekpGQmlUMnV6czZyem5Vei0wZlpNRXNHVFJYODZ4SnI4VjI4UDE1VkhNNHRJNDQwVzE?oc=5>
 
 ### 2026-06-04 16:51  (7 条)
 
