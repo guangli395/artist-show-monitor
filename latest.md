@@ -1,35 +1,35 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-04 19:20**
-- 本轮扫到 2706 条, 新增 **4** 条
+- 最近更新: **2026-06-04 21:10**
+- 本轮扫到 2710 条, 新增 **4** 条
 
 ---
 
 ## 本轮新发现 (4 条)
 
-### 特朗普对2028年美国大选表态
+### 特朗普认为赞成限制其战争权力的众议员“不爱国”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-04 11:12
-- 链接: <https://news.google.com/rss/articles/CBMihAFBVV95cUxNcE1OdGMxWVRjOFBQN1c5ejN6WDBtRmZmMlgtS0dpOG9vTExLREZYbFpydGkwbWpKS0tqZ2hheXNGVGdWUHQzNjRJTDZTYnJwWVdnUmZrUTdYWWJtM3dtUUpUaE55VlgySmhzMUhobjY0T3ktY0Q0NXN6WWhVV1BVeHRmSjc?oc=5>
+- 时间: 2026-06-04 21:00
+- 链接: <https://news.google.com/rss/articles/CBMijAJBVV95cUxPYk10dklhLUlGTFFuWEVpWHhqMXFJR1dkWjJhUTB3QUJ1WjdKcjlWaXg4bVNrampPQUlNTU00dTNUUVJ2QXA0V2dpTlplTEZXSVNIdG9URU0xbkprZm1kdW9CWTJLdzFycERfZ0diZEJzeWtsZG5leE13YTUwSGNGWmJVV1Aycl9mU0JON3ZtVXpDRDFBNnNvRTVsa1E3bVphWjJCczZBOVZkXy1DeTlEWi1DTklCeExfbGVCY055NVVhOHBVbXhuclFFSTZBc1RFaWliTmpydGdrYTNjZXJhSm5JU1l4QWpDVkFlNS1hV1dLREtPZ1ZWZDBwcU5YS09EU0JKY2wtUzFLYVBJ?oc=5>
 
-### 外交部：中国不存在所谓的“强迫劳动”，反对以此为借口搞政治操弄
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-06-03 12:38
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE5RSEdTVjJNZG5iYXdHakduSFBGUW5iUW1RamloVTBkVVpWLW01YzlxZF90bDVQeHpMSWk5aEI2QkV2NExMZXhXQm1Jdkd0Wm5zb3Rtd1lZTFoyTFFoUk5sd19xc29mMDBHdTg2SU5lRzFDSEZU?oc=5>
-
-### 美国会议员播放特朗普开会打瞌睡视频，鲁比奥否认：假的！
+### 快观察 | 特朗普在众院遭遇“罕见政治挫败”，说明什么？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-06-04 11:10
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE45aEozal9Rc094VTFteGhYMEhzWERzdVQ2cnU5aFlpMkFxY01KT0pOZzBYQjE3LVpHNVRhRk1xVUx6algwNTlKT1dPVlBNODJpZWZ5QXpfQVI5TjJtZ2kwUw?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-06-04 09:12
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9JY0JqTzZqUWt2eVhBcjRiSjNQQ1AxcTVHOFVzbUF4ZjZ1RWZaSzVubnZTSFRINDE3ZkE5alBsUEZPNFptOWNOUzZwd1daS09DeTdqZno0MWJPa081YmtKQXNxWWUtdFpFZG5CVGJVaE9sekpvRDNtaw?oc=5>
+
+### 特朗普就2028年总统选举表态
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-06-04 12:38
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTFB2azV5cHNkWFRzSUhCYWljT09WTHpqTXBlUDNhM0RiOXdTQWgxUFlrV3FpTkdMZW02VWV5R3N5bWFIR0hYUDJrb1pYem9nZkRhNENtbUxrTUNlbmJ1azBFaDVudERNbTN5VVUwS01HLXZzOUppUHc?oc=5>
 
 ### Trump签署行政命令指示海关收紧执法打击逃避关税并加强进口监管财经新闻Financial News
 
@@ -37,12 +37,19 @@
 - 来源: `googlenews`
 - 场馆: AASTOCKS.com
 - 时间: 2026-06-04 07:28
-- 链接: <https://news.google.com/rss/articles/CBMihAFBVV95cUxONmZiTXBTbFg3cjJ2UmR4azhLTEdpWkI1WHhrb3VXbWJaOXN2WG9IWkJvZWlCbkFfNldVR3FFV0p6dTQ5SXd3TEJBcTNsME5QbDlDekpGQmlUMnV6czZyem5Vei0wZlpNRXNHVFJYODZ4SnI4VjI4UDE1VkhNNHRJNDQwVzE?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxPWkVGWXRSWGQxY3JnT0tJaTQ2aW9vTFlCZno2RGZiQ1N5YjVqaWgwQ0o4Z2N6b0RCUkZCUGJVNVZRWWdlT1lBQnQyN0pzUUstdUN0Y3NSeXA2R2JPMGVsamVUcEtIT0U2NmlfcjU1YjVMQU5vMFJsYkhiYVlGQ0wxcDZKbm1JbUVrUnZGMTNJRlVQN0Zn?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-04 21:10  (4 条)
+
+- **特朗普** | 特朗普认为赞成限制其战争权力的众议员“不爱国” <https://news.google.com/rss/articles/CBMijAJBVV95cUxPYk10dklhLUlGTFFuWEVpWHhqMXFJR1dkWjJhUTB3QUJ1WjdKcjlWaXg4bVNrampPQUlNTU00dTNUUVJ2QXA0V2dpTlplTEZXSVNIdG9URU0xbkprZm1kdW9CWTJLdzFycERfZ0diZEJzeWtsZG5leE13YTUwSGNGWmJVV1Aycl9mU0JON3ZtVXpDRDFBNnNvRTVsa1E3bVphWjJCczZBOVZkXy1DeTlEWi1DTklCeExfbGVCY055NVVhOHBVbXhuclFFSTZBc1RFaWliTmpydGdrYTNjZXJhSm5JU1l4QWpDVkFlNS1hV1dLREtPZ1ZWZDBwcU5YS09EU0JKY2wtUzFLYVBJ?oc=5>
+- **特朗普** | 快观察 | 特朗普在众院遭遇“罕见政治挫败”，说明什么？ <https://news.google.com/rss/articles/CBMieEFVX3lxTE9JY0JqTzZqUWt2eVhBcjRiSjNQQ1AxcTVHOFVzbUF4ZjZ1RWZaSzVubnZTSFRINDE3ZkE5alBsUEZPNFptOWNOUzZwd1daS09DeTdqZno0MWJPa081YmtKQXNxWWUtdFpFZG5CVGJVaE9sekpvRDNtaw?oc=5>
+- **特朗普** | 特朗普就2028年总统选举表态 <https://news.google.com/rss/articles/CBMidkFVX3lxTFB2azV5cHNkWFRzSUhCYWljT09WTHpqTXBlUDNhM0RiOXdTQWgxUFlrV3FpTkdMZW02VWV5R3N5bWFIR0hYUDJrb1pYem9nZkRhNENtbUxrTUNlbmJ1azBFaDVudERNbTN5VVUwS01HLXZzOUppUHc?oc=5>
+- **Trump** | Trump签署行政命令指示海关收紧执法打击逃避关税并加强进口监管财经新闻Financial News <https://news.google.com/rss/articles/CBMilAFBVV95cUxPWkVGWXRSWGQxY3JnT0tJaTQ2aW9vTFlCZno2RGZiQ1N5YjVqaWgwQ0o4Z2N6b0RCUkZCUGJVNVZRWWdlT1lBQnQyN0pzUUstdUN0Y3NSeXA2R2JPMGVsamVUcEtIT0U2NmlfcjU1YjVMQU5vMFJsYkhiYVlGQ0wxcDZKbm1JbUVrUnZGMTNJRlVQN0Zn?oc=5>
 
 ### 2026-06-04 19:20  (4 条)
 
