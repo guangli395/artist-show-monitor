@@ -1,90 +1,105 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-04 07:00**
-- 本轮扫到 2677 条, 新增 **10** 条
+- 最近更新: **2026-06-04 10:41**
+- 本轮扫到 2687 条, 新增 **10** 条
 
 ---
 
 ## 本轮新发现 (10 条)
 
-### 新浪演唱会热点小时报丨2026年06月04日14时_今日实时演唱会热点速递
+### 蔡徐坤马来西亚音乐节彩排｜西海岸风裹热忱，落日赴音乐之约
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1301666333_4d95da1d0270136wq.html>
+
+### 新浪演唱会热点小时报丨2026年06月04日16时_今日实时演唱会热点速递
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906dbee.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906dbr6.html>
 
-### 奚梦瑶婚礼城堡系周杰伦MV取景地
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1852855013_m6e7052e505302n0ta.html>
-
-### 周杰伦2026年鸟巢首开龙拳演唱会
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1910355794_m71ddb752033021l6g.html>
-
-### 美众议院通过决议 限制特朗普对伊动武权力
+### 应对高级AI安全新挑战 特朗普发布监管行政令
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-06-03 21:18
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE1IQkVfMUdQLU9DY0wyQXVxUC1Fcy1lRGhZbGNfZ3JzVHFPY2RZNTB5ZHFhTUdBc0xLUXZmUEI1MWdRMWZTc1JseEZicUxSeWRQMWVTc05sSS1FYmVlcm1qRkxxMkNXQnltRmpXaldfb0xtVlRM?oc=5>
+- 场馆: 财新
+- 时间: 2026-06-04 04:10
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1RNlo4YlZEQ294dlRXT2NGR29FTm1wcHJFWFVrRm5Xd0Z4V1VHbzl0RjZiS2ZJMGozSDhqWWFsbjRWNkpYbURkbk9ING1qY2Npa0xJR3ViQ2hKbEcyREFtd2RPbmhkTGdzSkE?oc=5>
 
-### 美众院首次通过！“要求特朗普结束战事”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪军事
-- 时间: 2026-06-04 02:14
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFBEeDFsZTE5VGVIT3lPZWJxMkNoWVBsc1pIZnZFZ2lCTkJ1MWlOXzRocnplVEJCd3BsYlAtN0luZjdaMnBiZFFyUjEybmZENFR6RjlydUNqdmxoT3VnejB4ODdaU19HWEhfOE9LRkpmbm8tcGc?oc=5>
-
-### 美众院首次通过决议 要求特朗普结束对伊朗战事
+### 被特朗普斥责“疯了”后，内塔尼亚胡最新发声
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-06-04 00:10
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE90MjJjdElVZUxyeXFqQlNfelBtb3k4Vk5wS2xiZzJfYUFuOUZrR05Fb2MzbHA2Z2JhT245RGNHNWZxUThTZmZTSldUSUdGRlAzVkFFNV8tZ0EzV0loeGhXS0RVak1QMmlDVXNmVzhIOG50TExRdmJxektMaXRyd0k?oc=5>
-
-### 特朗普有意挑起万斯鲁比奥“龙虎斗”？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 日经中文网
+- 场馆: 凤凰网
 - 时间: 2026-06-04 02:05
-- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxQeEh1bEpRdnpGd0JvTEt1VTk1NFBLekgtOEFnV0NWM1NvZlBBcVY1ajRyM2lxOWhMTnZ1c0p5WmxZQUpDTVUtVThpMXJtVEFKX180dVRySG5vNlZsWTI5NG1oYTNVWmFKRXV1a0lhcUNOZmtvdEhkOFEwOUQyS3F1b2RtTmZDcUZBaXF2QUMtYw?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9TM3FNUENxLVlvTjZOMkNCSzhic2pXblIxYlZZSXdFZjkyTUh2ZVZ1NG13a0g4SWFybUVwbXhSSU9zYW5tWTBZVU90eFA?oc=5>
 
-### 特朗普假设万斯卢比奥联手竞选总统 难以被击败的团队
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-06-04 03:25
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5MTWVfYXgyejRFc1JSQnItVURjM0RDdDJMcm9XQ1BldDVveXhjSlpEV25OcHYxZ3FjRmtuVEkteVp0RzJwWnR6V0U3anpTZ2dXdENXUlg0Q1N0Y3VwT19GMUZ4cmpRQ1FUaFMxaWJIMmg?oc=5>
-
-### 特朗普为何骂内塔尼亚胡“疯了”？美媒：各有压力
+### 被特朗普怒骂“疯了”后，内塔尼亚胡最新强硬表态-观察者网
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-06-03 11:54
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9mdnA3ZUNkSG1EeW5yVDRWaHpJQkpmZGJuZy1Gb083eEVHNTZMQlFHWV91UEdCRXVuOE55THlTbEtKNFVBWFVyNm1HcXlBNWJiNXpfOFU1V0xaSG84bEZKblFCSW4yTjZaeUpfdmpyR3FCSkZ4VFZUaWs3NHJHbWc?oc=5>
+- 场馆: 观察者
+- 时间: 2026-06-03 00:31
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE55azVzamRtMGx5WnRoQlVDMXpjVFgwMmhmdnNDdTE4TVpXUVJFSXNQNFh2SzcxekxXLWdCT1VNQzh4MVU2Y2ZRSzJRcG4yUWk4WW5QUWdlcGQ0R1NDRFdRWDV6ZUZHMUt2Z2c?oc=5>
 
-### 特朗普：万斯与卢比奥若联手参选将“无人能敌”
+### 中东局势持续紧张 特朗普称愿与伊朗最高领袖会面
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中国网
+- 时间: 2026-06-03 17:21
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTFBvX3RWTmx0djFhUC04WkN5NXFuRmNTYzhWc1hiUVcwUzZGVl9TYWFNN2Rac2NPaFl0ZDBoYmZZaFNjZy05OGJrdDhKOENVME9zYWJGVmRGblVoVXp3NFZPQ1hjdlQtZEtGN0VZbWJCMA?oc=5>
+
+### 特朗普将提名其前私人律师任美国司法部长
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新京报
+- 时间: 2026-06-04 04:58
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBac3FfemZqaGxDdDhwSHNOdjYtVXZBbFpFMUlGSi14SV9XRGRldUNKcENkODUyWUZ6WG9QQmNuTDNSRFhzVUdjTXZHYW56ZURNUWlhVEt3YnY5cHhFeUcyLVAwYmQ?oc=5>
+
+### Trump签署行政命令指示海关收紧执法打击逃避关税并加强进口监管
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-06-04 03:09
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKeDBhV2t6d1NrQzM4UTFmNWItSG5LWnFmaDBrQ05WRy0zTF9wNU5fUGctd1FrZEUzbG8wV2xUMVoyandPb0lZd1lIS2Q4aVRUTl9iVW9IbHZfTXA2N09LT1FsaGU?oc=5>
+- 场馆: AASTOCKS.com
+- 时间: 2026-06-04 07:28
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE9pZkZwUVJvMzV0M0Y2dGcxMS05bzRmMDFpRVQ3OE9rYk1aTnV1STVkM1RDUXh4T2QtZEdFRTZnVGNLYllGd3hKd3hxbzl3elRVVndRWW4wRjNlLTlTaVFjRTA0X0VxWHVBWTFyOGx6QQ?oc=5>
+
+### Trump Tells Aides He Won't Resume All-Out War With Iran Unless U.S. Troops Killed
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-06-04 08:46
+- 链接: <https://news.google.com/rss/articles/CBMilwFBVV95cUxPV2d4Xzhsc1FOdk1sdjZTMzhCdWh2SkJGTUQ1SWNNTUl3TURDVjAxNXp4ZE5Sd3NwdXE2TzVCYXBwYWhNTVA1bVpYQ2p6RjNKYzN0cERkemNReXYxX3MyS2Z0RXJnTmRVZXBIamctUHRqTmJjSXcyNDc5UV9GaU9MZzVzZlIyclphem81SGNVWHd3NnZJeUhV?oc=5>
+
+### Trump签署行政命令指示海关收紧执法打击逃避关税并加强进口监管财经新闻Financial News
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: AASTOCKS.com
+- 时间: 2026-06-04 07:28
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBNdkwtMExCRDJfb2ZjdFMyYmZmdUNqNW53aUtMRVloWGZ5N01QS21ZQ09pOFNfcnkxSmhmNUV1Uzl5YW5Wb3FWcE5jZjI1X1FUMUFqM1hlM2s1b3FRTDJ6ZmZpa3lrVjE0VVNySkdDdjBkeXBxRlhHMnVULXNtLUU?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-04 10:41  (10 条)
+
+- **蔡徐坤** | 蔡徐坤马来西亚音乐节彩排｜西海岸风裹热忱，落日赴音乐之约 <https://k.sina.com.cn/article_1301666333_4d95da1d0270136wq.html>
+- **周杰伦** | 新浪演唱会热点小时报丨2026年06月04日16时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001906dbr6.html>
+- **特朗普** | 应对高级AI安全新挑战 特朗普发布监管行政令 <https://news.google.com/rss/articles/CBMiakFVX3lxTE1RNlo4YlZEQ294dlRXT2NGR29FTm1wcHJFWFVrRm5Xd0Z4V1VHbzl0RjZiS2ZJMGozSDhqWWFsbjRWNkpYbURkbk9ING1qY2Npa0xJR3ViQ2hKbEcyREFtd2RPbmhkTGdzSkE?oc=5>
+- **特朗普** | 被特朗普斥责“疯了”后，内塔尼亚胡最新发声 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9TM3FNUENxLVlvTjZOMkNCSzhic2pXblIxYlZZSXdFZjkyTUh2ZVZ1NG13a0g4SWFybUVwbXhSSU9zYW5tWTBZVU90eFA?oc=5>
+- **特朗普** | 被特朗普怒骂“疯了”后，内塔尼亚胡最新强硬表态-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE55azVzamRtMGx5WnRoQlVDMXpjVFgwMmhmdnNDdTE4TVpXUVJFSXNQNFh2SzcxekxXLWdCT1VNQzh4MVU2Y2ZRSzJRcG4yUWk4WW5QUWdlcGQ0R1NDRFdRWDV6ZUZHMUt2Z2c?oc=5>
+- **特朗普** | 中东局势持续紧张 特朗普称愿与伊朗最高领袖会面 <https://news.google.com/rss/articles/CBMib0FVX3lxTFBvX3RWTmx0djFhUC04WkN5NXFuRmNTYzhWc1hiUVcwUzZGVl9TYWFNN2Rac2NPaFl0ZDBoYmZZaFNjZy05OGJrdDhKOENVME9zYWJGVmRGblVoVXp3NFZPQ1hjdlQtZEtGN0VZbWJCMA?oc=5>
+- **特朗普** | 特朗普将提名其前私人律师任美国司法部长 <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBac3FfemZqaGxDdDhwSHNOdjYtVXZBbFpFMUlGSi14SV9XRGRldUNKcENkODUyWUZ6WG9QQmNuTDNSRFhzVUdjTXZHYW56ZURNUWlhVEt3YnY5cHhFeUcyLVAwYmQ?oc=5>
+- **Trump** | Trump签署行政命令指示海关收紧执法打击逃避关税并加强进口监管 <https://news.google.com/rss/articles/CBMib0FVX3lxTE9pZkZwUVJvMzV0M0Y2dGcxMS05bzRmMDFpRVQ3OE9rYk1aTnV1STVkM1RDUXh4T2QtZEdFRTZnVGNLYllGd3hKd3hxbzl3elRVVndRWW4wRjNlLTlTaVFjRTA0X0VxWHVBWTFyOGx6QQ?oc=5>
+- **Trump** | Trump Tells Aides He Won't Resume All-Out War With Iran Unless U.S. Troops Killed <https://news.google.com/rss/articles/CBMilwFBVV95cUxPV2d4Xzhsc1FOdk1sdjZTMzhCdWh2SkJGTUQ1SWNNTUl3TURDVjAxNXp4ZE5Sd3NwdXE2TzVCYXBwYWhNTVA1bVpYQ2p6RjNKYzN0cERkemNReXYxX3MyS2Z0RXJnTmRVZXBIamctUHRqTmJjSXcyNDc5UV9GaU9MZzVzZlIyclphem81SGNVWHd3NnZJeUhV?oc=5>
+- **Trump** | Trump签署行政命令指示海关收紧执法打击逃避关税并加强进口监管财经新闻Financial News <https://news.google.com/rss/articles/CBMif0FVX3lxTFBNdkwtMExCRDJfb2ZjdFMyYmZmdUNqNW53aUtMRVloWGZ5N01QS21ZQ09pOFNfcnkxSmhmNUV1Uzl5YW5Wb3FWcE5jZjI1X1FUMUFqM1hlM2s1b3FRTDJ6ZmZpa3lrVjE0VVNySkdDdjBkeXBxRlhHMnVULXNtLUU?oc=5>
 
 ### 2026-06-04 07:00  (10 条)
 
