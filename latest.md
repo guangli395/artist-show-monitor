@@ -1,70 +1,134 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-05 00:01**
-- 本轮扫到 2721 条, 新增 **7** 条
+- 最近更新: **2026-06-05 04:54**
+- 本轮扫到 2734 条, 新增 **13** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (13 条)
 
-### 王一博AI灵感工作室发布双语早安问候
+### 周杰伦2026南京演唱会9月开唱，连演三场
 
-- 艺人/关键词: **王一博**
+- 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://video.sina.com.cn/p/finance/2026-06-05/detail-iniaicux9790762.d.html>
+- 链接: <https://k.sina.com.cn/article_1729562517_6717079504001h03e.html>
 
-### 特朗普：在他与双方交谈后，以色列和真主党在结束冲突方面取得“进展”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-06-04 22:49
-- 链接: <https://news.google.com/rss/articles/CBMi2AFBVV95cUxQb0VSM0RDQVlObGFtbzRWbldZMEhYUHdxMzNJT284Zk03bjJKdGNIOGI1QkpKQzQtaUo2R0lBaENxcXFLTV82ZGZkNS1fU1l5bDdDQ2hYZnVqVVQzS0lYZGxWOVVXWlhXcHVXcXQxQXlYdUxDZGFIUGo3WUxsbGZFQnpLMnVrcWlqWllqa2dLa0Vab2t0VE9rWEZVc3dielhyMjJTWDBEa0hVS3BnWWlJdEM5cWdHVkRjVzFLQjQzX0l1c3d0RFQzRWZMTFpLWGxvTnNRd3hFRkrSAdsBQVVfeXFMTlZMNTYyY0dJcU5ya1VWaVRpTUY1SjdySC1qSjlIVTBBSGY5Y3pmQUdhMzZRSl9wM1JRbDlMT1hpV3VWZTUtbTZEQTdfdWhDb3JFSE1jRXpuRFBBQVM0VTljZmh0RVRiLUFQcS1YN2llcHZ6dTV4VXZGOEhlTXFDZGFPLXBFd1NsUFFuSUQ5T2FJSkNjbmZVQi10R0hXcE92YXJlaTFRMGx6NTRmT2xBcEttRkVvYkVobnBQTXFoU1FVMmswY05mcDI4Z0QzVDA1ajZ3M05BZjBtNWZv?oc=5>
-
-### 特朗普：若能促成协议，愿与伊朗最高领袖会面
+### 又有18人背刺特朗普，众议院通过援助乌克兰法案
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Sina finance
-- 时间: 2026-06-04 22:01
-- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxOelRHVnp2OC1oV09hSDdJZEtGSTFrOEkxOEZKU0RSRzl1ZHJOaTA1NnhGMjdneXBLZHRvRzY4WVRwdG1IZmlKRWozLTNwX0NHRkhGbTN6SzdYQWllMjVHQUhQMWFqZlBPd2g4WE1oWjZub0tYZmo3S3pfem5CYllXMFZKR1A3MFo2T1JKNlNoa0ZaWDRyZ193ZzlFZFY?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-06-05 01:28
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2aTNlTmZFSUd4T2Z5TDkyYzhKbWE2V1pCOWlkVVE1X2VJTlpBd0ctbGkxTlJUbnVXUDNNa2Y5N2NVSFN0RTI1LW50bWM?oc=5>
 
-### 特朗普：若达成协议 不排除与伊朗最高领袖会晤
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 大河财立方
-- 时间: 2026-06-04 23:09
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE04Vi1wNnV0bVRIUmM3bjBoMnluRjZPTXFVT2JWWlFYM3N3YWgxeDZSTVR3WHc4VjdNR2JOTzBpZUs4MXV2TUk5NC1MR21IejNVZlFoa3BlVTY2X1hDR05VUDJjLXpDQU5GWGc?oc=5>
-
-### 俄外长：“拜登的战争”变成“特朗普的战争”
+### 长能耐了，特朗普长子放话：不会投资中国-观察者网
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-06-04 23:12
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE50ZlBIQThhMnd3N19BWEo0ZEhVMVNoRjdEOWM1cXY2NFYxclJESndfUHNIWFZJemVVTXlDOEhKajhCWkxuM2c5YktRYmhLdDEzQy1pbWhOdVF0OC1uUGdfYW5yMWY?oc=5>
+- 场馆: 观察者
+- 时间: 2026-06-05 01:01
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBOb0dicjl4RUpWbFlCODVoakhCd29jWklzc2JjNEo1SmR4OV95RDZqajZTZUt3MEhEcTEwTzJtQXpqZXRrRlBEMHlNRzI0T1NqZGNuOXU3Tk9idEw1UUJweUNsSHVTdXZzS2c?oc=5>
 
-### 特朗普：在他与双方交谈后，以色列和真主党在结束冲突方面取得“进展”
+### 支持家乡球队？特朗普：NBA总决赛第三场，将到纽约现场观赛
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-06-04 22:49
-- 链接: <https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVkw1NjJjR0lxTnJrVVZpVGlNRjVKN3JILWpKOUhVMEFIZjljemZBR2EzNlFKX3AzUlFsOUxPWGlXdVZlNS1tNkRBN191aENvckVITWNFem5EUEFBUzRVOWNmaHRFVGItQVBxLVg3aWVwdnp1NXhVdkY4SGVNcUNkYU8tcEV3U2xQUW5JRDlPYUlKQ2NuZlVCLXRHSFdwT3ZhcmVpMVEwbHo1NGZPbEFwS21GRW9iRWhucFBNcWhTUVUyazBjTmZwMjhnRDNUMDVqNnczTkFmMG01Zm_SAdsBQVVfeXFMTlZMNTYyY0dJcU5ya1VWaVRpTUY1SjdySC1qSjlIVTBBSGY5Y3pmQUdhMzZRSl9wM1JRbDlMT1hpV3VWZTUtbTZEQTdfdWhDb3JFSE1jRXpuRFBBQVM0VTljZmh0RVRiLUFQcS1YN2llcHZ6dTV4VXZGOEhlTXFDZGFPLXBFd1NsUFFuSUQ5T2FJSkNjbmZVQi10R0hXcE92YXJlaTFRMGx6NTRmT2xBcEttRkVvYkVobnBQTXFoU1FVMmswY05mcDI4Z0QzVDA1ajZ3M05BZjBtNWZv?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-06-05 03:20
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5iWlRic01URFdTaFNZV0UyNTRoc1RwM3h2ZTQ1a2R1WHBrSVptRF9aelhfYTJZN1BoancxR3F4ZUpLSFFnYTlzclFHTmZsN0JRRFhSU0xDUW5vZl9wVDFBM2RGY29tZ2E4dmxXNnFHVS1YSGU0VG12Sg?oc=5>
 
-### 特朗普称将提名托德·布兰奇出任司法部长
+### 美联储维持鹰派姿态 贵金属延续震荡偏弱运行
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-06-05 02:37
+- 链接: <https://news.google.com/rss/articles/CBMikAFBVV95cUxPN0NPN1B5WjZqZUdJdVprU3pPV2pPNlpYdU9sVTZyX2VURkNaNVZUcFNGQUpDSWlLWWFvMTE4Y0M3TWtFQmJydEI0QUJUWkx0QUpkMjNwVmo4VXBiMURWVTdrV2QxZzdDaDNKV0tVQ0dBaGZHRktDRTdab3hIaDNvbGZCa3RvZ2RpcE9OYjNlQjg?oc=5>
+
+### 泽连斯基公开邀普京会晤 克宫称可随时赴莫斯科 特朗普表示欢迎
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-06-04 21:28
+- 链接: <https://news.google.com/rss/articles/CBMisgNBVV95cUxOcVdxdkRBV09EZHBwTk1LWGduaGltSnhOS3NQV0R2dHd1Rk5Ka0IyUFpnQ0tkS2Q4bG92eU9Gc2xER0xVLTFlVnBSa2phd2RGSTY1cURteXFhR1p0RUdibE1yQ2hZUEYyV2dLeWlCQTl0dUcwUnJwc2xkNU9CODd6T1lHUWxPR1NOSG04Q0k0ZmxjRlRoUDExTXVVQktlWDVrQ0hPX3BiOWxIQ0oxcldyVkZlR1NYNENhczV0UkZhZklLbXhUTjJ2UlRjbHptanZ5RThWS1V2UUlraU5VeHZIbGZ6OWpldTVxV3hUUFBXTDVUMl9FcWxZRngyOGJEcU5OTUNDR2NTSG5mUm5FUFB4YTU0SGtFM1k2X2lBbFM4WmlJdEVVTmhhNG9RZVFMak9LcFhyazRwcGlGbXhDaEI4cm9lOWRERkdKN1hwYTRCSUFtYWVqQ0ZxOEVnS3BVdUpLUVBwY2laOEhoOFM2SmUwQURiekZSVXBnLTBIaTFFSkx6WmJrVU5JNGdTRUJnNWdoWWp5d2tjUjRBcmkzQ3daa2kzaVNSbE9YMG4wQUxSUmFLZw?oc=5>
+
+### 特朗普将现身NBA总决赛G3 总统观战引爆话题
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-06-05 01:33
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBucjlVbTVPVXVVN0N5cDkzUkRqVzFfa2NYWUZKSkhiTlBqWlkzQWJlTUYzdHhuaS15NFlKcm5vaUE0Yzhwd2tzU2JuUmZ2N2tPU3V6SlVMYlBlMmFrejRDNFE3ZHVQcHgzeDFYNzc2N1A?oc=5>
+
+### 特朗普长子称不会投资中国：不能假装中国是盟友
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-06-04 23:37
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBOYTJsUlJEZFBqLXc0elhhd3lUbWNWY0FDZTFoVHFCYkNmY0tFUFNWLWNtMGhqT1FRc1EwbjhfNDdBbG5mREZzdDUtczJ3MDFiQktObjc5aWlSWTJKakhycy1DY2U4bElnQVE?oc=5>
+
+### 特朗普：不见-观察者网
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-06-05 02:05
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFAxWkdZa3k4RDh6Y2VxekczRlJyYzFzdzR4Sk9GRU51SnBBLWF0Z2VkSVc3OUJLTDlZQk1TYUdIQmhDVjJmNEg1M3RWbGNxSmMwMVJkdTE1VjUzNTduQUpzaGJvNWc4cmRoMnc?oc=5>
+
+### 共和党内讧令参议院表决一度停滞，特朗普“反武器化”基金面临废除博弈
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: 华尔街日报中文网
-- 时间: 2026-06-04 23:28
-- 链接: <https://news.google.com/rss/articles/CBMingFBVV95cUxPckJmOXdoZ3lDeVV5bHphdnVncmRtVm9RRElQcC11dHU5WDdIeGxjTVNLUFRoY2J0YkpZMy1WODh5V0xGVm5fWnNQMEhjWVVfdUZ3WGxNYk94NzMwNHhNUkVPa2RfX3pVRHdNOUZKQ1BqNk96V09zaW02RUVwU1ZMUkFIdEdENVpoVVB4SC1feUxPSjBxQ1d1NVdQb3VHZw?oc=5>
+- 时间: 2026-06-05 02:16
+- 链接: <https://news.google.com/rss/articles/CBMikwFBVV95cUxPQVpNYXFqc2U1NkJWZGFGOFpacWZaTFl0bFhBT0NkVTktMExZNm0zYTdIYy1ZYzFmZnZkem1MbFgxREZHdVlEeHBhamNKX1d6bjc0RWtDdzUyM1BzaW9jR2t0V0FvTWhXbklMT2RNNjNJUHBPeGFLVy14UUgta25SaTNGV1JmLTZfRzRibXU2U25uQU0?oc=5>
+
+### 小特朗普：不会投资中国 不能假装中国是盟友
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 8world
+- 时间: 2026-06-05 01:19
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxNb0xEdVNucEdITTZyLWZvUTJjNEhfNFVwMTZpbWlGd3dFZWhGb3BfNlBTTFFkX1RWVFRHY0NRZ212anFHU1RhSURJMTNpR0FoeFZjQk5lSXlNVFpIRDJsbGUyMjZFZzctRzd2TWhVVGJaU29fWklZZ0hablNoeFFoMVRaMjU4YVE?oc=5>
+
+### 特朗普称若达成协议可与伊朗最高领袖会面
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: AASTOCKS.com
+- 时间: 2026-06-04 23:31
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTFAxVkFqazUzTnFEbEFobmZMRW5WaU1vaERqeHhtUEhNU3FpRlVLN3dUXzFCTVE4dWJ3NTV5M0ZkY0R0UEd3SERJMGxDX1dvaXRMVFB5SmpaQnZPZVNwZXhfd1FZa3dXVHV1T0NwTnF4UQ?oc=5>
+
+### 特朗普称若达成协议可与伊朗最高领袖会面财经新闻Financial News
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: AASTOCKS.com
+- 时间: 2026-06-04 23:31
+- 链接: <https://news.google.com/rss/articles/CBMihAFBVV95cUxQX0RTS1FpdVczSlFHZ05CdEtyQTFLdXZvdm5DejdqZDdBYzhGTlV6QUpqZUNxdF95NEloVVBpd3h0aXZFWkMwX3R3Q1NtTlNJTFlaQlBvdWVnYWhBdE1odU1oRExIRE1XVWFyZVQtdFVsemItQU5lM1d1Mk4yX2IxT0lJUTM?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-05 04:54  (13 条)
+
+- **周杰伦** | 周杰伦2026南京演唱会9月开唱，连演三场 <https://k.sina.com.cn/article_1729562517_6717079504001h03e.html>
+- **特朗普** | 又有18人背刺特朗普，众议院通过援助乌克兰法案 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2aTNlTmZFSUd4T2Z5TDkyYzhKbWE2V1pCOWlkVVE1X2VJTlpBd0ctbGkxTlJUbnVXUDNNa2Y5N2NVSFN0RTI1LW50bWM?oc=5>
+- **特朗普** | 长能耐了，特朗普长子放话：不会投资中国-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTFBOb0dicjl4RUpWbFlCODVoakhCd29jWklzc2JjNEo1SmR4OV95RDZqajZTZUt3MEhEcTEwTzJtQXpqZXRrRlBEMHlNRzI0T1NqZGNuOXU3Tk9idEw1UUJweUNsSHVTdXZzS2c?oc=5>
+- **特朗普** | 支持家乡球队？特朗普：NBA总决赛第三场，将到纽约现场观赛 <https://news.google.com/rss/articles/CBMieEFVX3lxTE5iWlRic01URFdTaFNZV0UyNTRoc1RwM3h2ZTQ1a2R1WHBrSVptRF9aelhfYTJZN1BoancxR3F4ZUpLSFFnYTlzclFHTmZsN0JRRFhSU0xDUW5vZl9wVDFBM2RGY29tZ2E4dmxXNnFHVS1YSGU0VG12Sg?oc=5>
+- **特朗普** | 美联储维持鹰派姿态 贵金属延续震荡偏弱运行 <https://news.google.com/rss/articles/CBMikAFBVV95cUxPN0NPN1B5WjZqZUdJdVprU3pPV2pPNlpYdU9sVTZyX2VURkNaNVZUcFNGQUpDSWlLWWFvMTE4Y0M3TWtFQmJydEI0QUJUWkx0QUpkMjNwVmo4VXBiMURWVTdrV2QxZzdDaDNKV0tVQ0dBaGZHRktDRTdab3hIaDNvbGZCa3RvZ2RpcE9OYjNlQjg?oc=5>
+- **特朗普** | 泽连斯基公开邀普京会晤 克宫称可随时赴莫斯科 特朗普表示欢迎 <https://news.google.com/rss/articles/CBMisgNBVV95cUxOcVdxdkRBV09EZHBwTk1LWGduaGltSnhOS3NQV0R2dHd1Rk5Ka0IyUFpnQ0tkS2Q4bG92eU9Gc2xER0xVLTFlVnBSa2phd2RGSTY1cURteXFhR1p0RUdibE1yQ2hZUEYyV2dLeWlCQTl0dUcwUnJwc2xkNU9CODd6T1lHUWxPR1NOSG04Q0k0ZmxjRlRoUDExTXVVQktlWDVrQ0hPX3BiOWxIQ0oxcldyVkZlR1NYNENhczV0UkZhZklLbXhUTjJ2UlRjbHptanZ5RThWS1V2UUlraU5VeHZIbGZ6OWpldTVxV3hUUFBXTDVUMl9FcWxZRngyOGJEcU5OTUNDR2NTSG5mUm5FUFB4YTU0SGtFM1k2X2lBbFM4WmlJdEVVTmhhNG9RZVFMak9LcFhyazRwcGlGbXhDaEI4cm9lOWRERkdKN1hwYTRCSUFtYWVqQ0ZxOEVnS3BVdUpLUVBwY2laOEhoOFM2SmUwQURiekZSVXBnLTBIaTFFSkx6WmJrVU5JNGdTRUJnNWdoWWp5d2tjUjRBcmkzQ3daa2kzaVNSbE9YMG4wQUxSUmFLZw?oc=5>
+- **特朗普** | 特朗普将现身NBA总决赛G3 总统观战引爆话题 <https://news.google.com/rss/articles/CBMicEFVX3lxTFBucjlVbTVPVXVVN0N5cDkzUkRqVzFfa2NYWUZKSkhiTlBqWlkzQWJlTUYzdHhuaS15NFlKcm5vaUE0Yzhwd2tzU2JuUmZ2N2tPU3V6SlVMYlBlMmFrejRDNFE3ZHVQcHgzeDFYNzc2N1A?oc=5>
+- **特朗普** | 特朗普长子称不会投资中国：不能假装中国是盟友 <https://news.google.com/rss/articles/CBMiakFVX3lxTFBOYTJsUlJEZFBqLXc0elhhd3lUbWNWY0FDZTFoVHFCYkNmY0tFUFNWLWNtMGhqT1FRc1EwbjhfNDdBbG5mREZzdDUtczJ3MDFiQktObjc5aWlSWTJKakhycy1DY2U4bElnQVE?oc=5>
+- **特朗普** | 特朗普：不见-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTFAxWkdZa3k4RDh6Y2VxekczRlJyYzFzdzR4Sk9GRU51SnBBLWF0Z2VkSVc3OUJLTDlZQk1TYUdIQmhDVjJmNEg1M3RWbGNxSmMwMVJkdTE1VjUzNTduQUpzaGJvNWc4cmRoMnc?oc=5>
+- **Trump** | 共和党内讧令参议院表决一度停滞，特朗普“反武器化”基金面临废除博弈 <https://news.google.com/rss/articles/CBMikwFBVV95cUxPQVpNYXFqc2U1NkJWZGFGOFpacWZaTFl0bFhBT0NkVTktMExZNm0zYTdIYy1ZYzFmZnZkem1MbFgxREZHdVlEeHBhamNKX1d6bjc0RWtDdzUyM1BzaW9jR2t0V0FvTWhXbklMT2RNNjNJUHBPeGFLVy14UUgta25SaTNGV1JmLTZfRzRibXU2U25uQU0?oc=5>
+- **Trump** | 小特朗普：不会投资中国 不能假装中国是盟友 <https://news.google.com/rss/articles/CBMihwFBVV95cUxNb0xEdVNucEdITTZyLWZvUTJjNEhfNFVwMTZpbWlGd3dFZWhGb3BfNlBTTFFkX1RWVFRHY0NRZ212anFHU1RhSURJMTNpR0FoeFZjQk5lSXlNVFpIRDJsbGUyMjZFZzctRzd2TWhVVGJaU29fWklZZ0hablNoeFFoMVRaMjU4YVE?oc=5>
+- **Trump** | 特朗普称若达成协议可与伊朗最高领袖会面 <https://news.google.com/rss/articles/CBMib0FVX3lxTFAxVkFqazUzTnFEbEFobmZMRW5WaU1vaERqeHhtUEhNU3FpRlVLN3dUXzFCTVE4dWJ3NTV5M0ZkY0R0UEd3SERJMGxDX1dvaXRMVFB5SmpaQnZPZVNwZXhfd1FZa3dXVHV1T0NwTnF4UQ?oc=5>
+- **Trump** | 特朗普称若达成协议可与伊朗最高领袖会面财经新闻Financial News <https://news.google.com/rss/articles/CBMihAFBVV95cUxQX0RTS1FpdVczSlFHZ05CdEtyQTFLdXZvdm5DejdqZDdBYzhGTlV6QUpqZUNxdF95NEloVVBpd3h0aXZFWkMwX3R3Q1NtTlNJTFlaQlBvdWVnYWhBdE1odU1oRExIRE1XVWFyZVQtdFVsemItQU5lM1d1Mk4yX2IxT0lJUTM?oc=5>
 
 ### 2026-06-05 00:01  (7 条)
 
