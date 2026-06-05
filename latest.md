@@ -1,65 +1,19 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-05 19:15**
-- 本轮扫到 2775 条, 新增 **8** 条
+- 最近更新: **2026-06-05 21:06**
+- 本轮扫到 2780 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (5 条)
 
-### 周杰伦北京演唱会有哪些特别的舞台设计和歌单亮点？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801mlcq.html>
-
-### 美国、墨西哥和加拿大料错过7月美墨加协定续签节点 紧张局势恐加剧
+### 特朗普称伊朗浓缩铀仅美国与中国有能力取出
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-05 17:56
-- 链接: <https://news.google.com/rss/articles/CBMijwJBVV95cUxPaFotUldIdU1TYllBZDVuNElfZHlxaTJCMnVnOHRsam10UTdNVXlUYVpHa211QlFGWndPOUs4QXBOOGdtN05hT21GdkR6ejJ2SVVDZ2FvbDZwWXpRekxNV0VsMjlPMjlYVmY1ZmN2V2tkMHFPcXkyUGJXWlQ4bGNFWDhTZ1dVcWtwZEhJWjAtNk9USi14V0dPLVQ1TV9OVmthVjZyT0hlUklyNmtKVTdpUzRJR1NROERIYzBGeHNCMEFnNkRDVExScUxaVm5MTDViTU9KYTYzR21oYk45WjZGVnBsZ2t3eURFTmx2ejY2RGRqVDJfS3FqdEcxQzB6Y25YNXRLNVNiVTNyRk5PeXFV?oc=5>
-
-### 特朗普表示 房利美和房地美IPO并非不可能 但并不急
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-06-05 18:05
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xUHQ4Ry1TczRMSE5zb0xITEt3STVCcllXemM0cy1ybHJFeThEbkU3TW1EU21jaTUwODR4Q044VUJyVXZSU0w1U0UzLTgxRzFCd2lYNS00WmJjTE5nSDlWcg?oc=5>
-
-### 特朗普：正研究美国民众如何从人工智能发展中获益。
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-05 17:55
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5fd3liN2o5OTExSjJIRGdOVnN3OTR5R3FBalZ1NS1jdDFKN1pWWjdGUGdmcE43VldfU3FtTDRSdjEwQU9nMFJVWXV0dw?oc=5>
-
-### 特朗普：所有大型人工智能公司都将来到白宫
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-06-05 18:04
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5aUpwM1Z0YTVfb2hTYS1YaGE0OElCc1ZabXFFTDNTb0FFNWZ0cEU3RzQ0dmpkQnlISHY1clR6RzZhTTdGWE00a0dQX3k2UTJYekRpNWtSd25KWlpUdjlaQw?oc=5>
-
-### 特朗普称美伊协议可能在本周末达成
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-06-04 00:03
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTFBTM3FDTWlvYXF0WFowT0hRTkRRbHZYYWdNVm52dUJpbWhiNXFTVTF5bHZHWTRxcTNPVDhYMkJXN2xwRXRGaUlvaXdlQXh6NXVOeHZzZGRNNnpKZUtXdU5rSTE2Zm9SenFrS1BYeldqRUkyMTda?oc=5>
-
-### 美媒：深陷伊朗困局 特朗普面临“两难”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 紫牛新闻
-- 时间: 2026-06-05 10:41
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE52VVI3SXZac2EzWUdQMFQ3RXFmcm5DTkFUNWEyd0NFY3VpN0RjTXFscEl4WXBnVHRybkgzREhSZi13eXZKbEo0elNzdENmeWxIZ2RscWc3V0hpblhsYmUyOS1pY25yVF8wX1E?oc=5>
+- 场馆: RFI
+- 时间: 2026-06-05 20:50
+- 链接: <https://news.google.com/rss/articles/CBMizwJBVV95cUxNc3Y2Qm9rMzZCaW82MHgzYTIwb2tNY2VURkZvZm42eVpxMzNHaU9RdlQ1Q3NCOVV1SVFRZ1FLa0wwOGVha1pmLTRFSEJmcWZDWVY5Q2xENHpjOEpvdzJ2RldHY0N2eEoyc0Z6QlZyb3hRQ28zM3RLWjlFSlJub0Vid2hBMVBVVlV6UTRrY3JRZ1duejBfS0ZxbDQtamktekJhTGRnQ2JqQWprZ1BUTG1rc2lMNnFSTVpPMVA0VlAxQXhRUk1MWmQ0bEJid2hvMGVXNGFVZzZTQzFMMlV6V1NRN3ViT1hMcWQxWTg1eDZJczY3OHBXbTdIWWlqNWNvSVJUN3RESVRUZHRLaVFSckxhb043Q0hpQ2FZaHpCQ3JYX1ZtZkp6MFJWb2Flb0lUX1QwY2dmMnYzT0ZoMFNtbEt4R3dzWVA1aUNKVzhuMGM2aw?oc=5>
 
 ### 特朗普政府拆分“两房”计划面临新变数
 
@@ -67,12 +21,44 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-06-05 14:29
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdzFkYkg0Ymc2czJQdWxQeEFUeGdBSWhOSlJXVTA4WVBNczk0dkFpaHhFSnFkb1lWbWZHdS01QXdPYjQzRVQ0SWVnVWlNeG51OXc4bThZLWRSWnhpVzEwZXlkQ1Npa3JoWkFBMXZDTzJQbWdxOUVpRVp1elI3Xy1rV3J2UzkyZlpxamIxWjlCRGZjLUZTbjBNZUcyWWhhTG80UzM2Q1I1QTFGQmVUZVkxTE9RRFRMVWFUY3lsalBRTEg1YjkyMlFMbkFyWVJ4ZEVXcUVIZ2RHaU5LeXpseDhN?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxOWEJqTlVoWTBON25QaDRSYmRJM1BmV2RiTWtpdHI3MnNjcTctZWZFaFlpb2h6SENCTFZRZGE5Q0lUVzdFSWpHOEQ2Vl9PMWJiZmtidmRjMXZjVFFZNlpuVVJWRWoxdnQ4TU80LVB1cWZ4dWtPaXFaN1BFUVF0b0Z6c1Nzbk95Mmt6ZUlLWi1DVmI0LXZuUU5rR0xsSkI?oc=5>
+
+### OpenAI表态将遵守特朗普行政令：AI模型上线前需接受审查
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-06-05 12:24
+- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUHc0OWhjdXBiTFNCZlN6TTlhZ0hydlprOVVOcm4tWHNfRXpjRWhXMWRhZ2dELXg5S2p1RDVvVHl4eTFkVTc5YVJ0aGZVc2VJNjdHQ0hGTlVWcTUwbk1TZ3ZrS1BaVmVpbWo5TDBjVEZ2enNUbXREZnJfblg0TFNfQ21lRGdaZ0dCQTZ1cE5pTmJ6VlZQdEdid1pxOXQ3RzFfY3VSU09HX0cxTzA1elNlblNWWDNXLTN2bHByZi13TW91bkZ1QWVVb0hISmdjRWxEMGI0U01CUE95TWp2Vnc?oc=5>
+
+### 市场消息： 特朗普签署一份面向国家安全领域人工智能建设的行政指令。
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-06-05 18:26
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBQczdCT3FuLUxDbmRzSTlyLUZNUVJFWmlXWDQyZC1maEFZNndhTU5EUXVfVzlNeFVPMEJEcnA3ZEdTSk8xVHNLeHBGOA?oc=5>
+
+### 巴驻联合国官员喊话特朗普：管住以色列
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新京报
+- 时间: 2026-06-05 08:46
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE05U3p4QmxEenRaREkzTXp2RHVWV3RPSUlkd1h3T2dSMnJDS3lETkdvQ3ZGSnQ5bmxJZVRQYTI3cmxUV1pIcUhTd24yUGdRSzN5cFN1YUcyZ2s1ZFBWRGkxMXdENHc?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-05 21:06  (5 条)
+
+- **特朗普** | 特朗普称伊朗浓缩铀仅美国与中国有能力取出 <https://news.google.com/rss/articles/CBMizwJBVV95cUxNc3Y2Qm9rMzZCaW82MHgzYTIwb2tNY2VURkZvZm42eVpxMzNHaU9RdlQ1Q3NCOVV1SVFRZ1FLa0wwOGVha1pmLTRFSEJmcWZDWVY5Q2xENHpjOEpvdzJ2RldHY0N2eEoyc0Z6QlZyb3hRQ28zM3RLWjlFSlJub0Vid2hBMVBVVlV6UTRrY3JRZ1duejBfS0ZxbDQtamktekJhTGRnQ2JqQWprZ1BUTG1rc2lMNnFSTVpPMVA0VlAxQXhRUk1MWmQ0bEJid2hvMGVXNGFVZzZTQzFMMlV6V1NRN3ViT1hMcWQxWTg1eDZJczY3OHBXbTdIWWlqNWNvSVJUN3RESVRUZHRLaVFSckxhb043Q0hpQ2FZaHpCQ3JYX1ZtZkp6MFJWb2Flb0lUX1QwY2dmMnYzT0ZoMFNtbEt4R3dzWVA1aUNKVzhuMGM2aw?oc=5>
+- **特朗普** | 特朗普政府拆分“两房”计划面临新变数 <https://news.google.com/rss/articles/CBMinAFBVV95cUxOWEJqTlVoWTBON25QaDRSYmRJM1BmV2RiTWtpdHI3MnNjcTctZWZFaFlpb2h6SENCTFZRZGE5Q0lUVzdFSWpHOEQ2Vl9PMWJiZmtidmRjMXZjVFFZNlpuVVJWRWoxdnQ4TU80LVB1cWZ4dWtPaXFaN1BFUVF0b0Z6c1Nzbk95Mmt6ZUlLWi1DVmI0LXZuUU5rR0xsSkI?oc=5>
+- **特朗普** | OpenAI表态将遵守特朗普行政令：AI模型上线前需接受审查 <https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUHc0OWhjdXBiTFNCZlN6TTlhZ0hydlprOVVOcm4tWHNfRXpjRWhXMWRhZ2dELXg5S2p1RDVvVHl4eTFkVTc5YVJ0aGZVc2VJNjdHQ0hGTlVWcTUwbk1TZ3ZrS1BaVmVpbWo5TDBjVEZ2enNUbXREZnJfblg0TFNfQ21lRGdaZ0dCQTZ1cE5pTmJ6VlZQdEdid1pxOXQ3RzFfY3VSU09HX0cxTzA1elNlblNWWDNXLTN2bHByZi13TW91bkZ1QWVVb0hISmdjRWxEMGI0U01CUE95TWp2Vnc?oc=5>
+- **特朗普** | 市场消息： 特朗普签署一份面向国家安全领域人工智能建设的行政指令。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBQczdCT3FuLUxDbmRzSTlyLUZNUVJFWmlXWDQyZC1maEFZNndhTU5EUXVfVzlNeFVPMEJEcnA3ZEdTSk8xVHNLeHBGOA?oc=5>
+- **特朗普** | 巴驻联合国官员喊话特朗普：管住以色列 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE05U3p4QmxEenRaREkzTXp2RHVWV3RPSUlkd1h3T2dSMnJDS3lETkdvQ3ZGSnQ5bmxJZVRQYTI3cmxUV1pIcUhTd24yUGdRSzN5cFN1YUcyZ2s1ZFBWRGkxMXdENHc?oc=5>
 
 ### 2026-06-05 19:15  (8 条)
 
