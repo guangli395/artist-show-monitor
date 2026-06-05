@@ -1,48 +1,80 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-04 22:52**
-- 本轮扫到 2714 条, 新增 **4** 条
+- 最近更新: **2026-06-05 00:01**
+- 本轮扫到 2721 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (7 条)
 
-### 首位出席NBA总决赛的现任总统！Shams：特朗普将在麦迪逊观看G3
+### 王一博AI灵感工作室发布双语早安问候
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-06-04 22:32
-- 链接: <https://news.google.com/rss/articles/CBMihAFBVV95cUxQOEVPTk9GQlBfbVdFQnhNMUUybXhlbDBOQ0VzUkViVzR2ZU5xV0lmWXNwR096UGpicGdFSXNCdUoxZ1QxeFd1QTFDRG9oS0tqT0NLMnc1U09CRjN2WnlSUmZ6Zkc0M01SeW1LWk4zR0c4YTcwcjRjRDE3TEtHNjhNUWhMSWw?oc=5>
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://video.sina.com.cn/p/finance/2026-06-05/detail-iniaicux9790762.d.html>
 
-### 特朗普：乐见“普泽会”，俄乌会“妥协”
+### 特朗普：在他与双方交谈后，以色列和真主党在结束冲突方面取得“进展”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-06-04 21:45
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9mSGV3MEhtVHltUVhSNkhhU3lkbTVHaEJiX04tdnFxN3B5Z0hNVnZLelRlNVdKTmNsRlhfZTNVX3dGLWdfRnE5Tm9BSnZUbDN5cC05NGFmSkZkenphSWlQeA?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-06-04 22:49
+- 链接: <https://news.google.com/rss/articles/CBMi2AFBVV95cUxQb0VSM0RDQVlObGFtbzRWbldZMEhYUHdxMzNJT284Zk03bjJKdGNIOGI1QkpKQzQtaUo2R0lBaENxcXFLTV82ZGZkNS1fU1l5bDdDQ2hYZnVqVVQzS0lYZGxWOVVXWlhXcHVXcXQxQXlYdUxDZGFIUGo3WUxsbGZFQnpLMnVrcWlqWllqa2dLa0Vab2t0VE9rWEZVc3dielhyMjJTWDBEa0hVS3BnWWlJdEM5cWdHVkRjVzFLQjQzX0l1c3d0RFQzRWZMTFpLWGxvTnNRd3hFRkrSAdsBQVVfeXFMTlZMNTYyY0dJcU5ya1VWaVRpTUY1SjdySC1qSjlIVTBBSGY5Y3pmQUdhMzZRSl9wM1JRbDlMT1hpV3VWZTUtbTZEQTdfdWhDb3JFSE1jRXpuRFBBQVM0VTljZmh0RVRiLUFQcS1YN2llcHZ6dTV4VXZGOEhlTXFDZGFPLXBFd1NsUFFuSUQ5T2FJSkNjbmZVQi10R0hXcE92YXJlaTFRMGx6NTRmT2xBcEttRkVvYkVobnBQTXFoU1FVMmswY05mcDI4Z0QzVDA1ajZ3M05BZjBtNWZv?oc=5>
 
-### 澳廣視新聞｜Trump acknowledges calling Netanyahu ‘crazy’｜Trump acknowledges calling Netanyahu ‘crazy’
+### 特朗普：若能促成协议，愿与伊朗最高领袖会面
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Sina finance
+- 时间: 2026-06-04 22:01
+- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxOelRHVnp2OC1oV09hSDdJZEtGSTFrOEkxOEZKU0RSRzl1ZHJOaTA1NnhGMjdneXBLZHRvRzY4WVRwdG1IZmlKRWozLTNwX0NHRkhGbTN6SzdYQWllMjVHQUhQMWFqZlBPd2g4WE1oWjZub0tYZmo3S3pfem5CYllXMFZKR1A3MFo2T1JKNlNoa0ZaWDRyZ193ZzlFZFY?oc=5>
+
+### 特朗普：若达成协议 不排除与伊朗最高领袖会晤
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 大河财立方
+- 时间: 2026-06-04 23:09
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE04Vi1wNnV0bVRIUmM3bjBoMnluRjZPTXFVT2JWWlFYM3N3YWgxeDZSTVR3WHc4VjdNR2JOTzBpZUs4MXV2TUk5NC1MR21IejNVZlFoa3BlVTY2X1hDR05VUDJjLXpDQU5GWGc?oc=5>
+
+### 俄外长：“拜登的战争”变成“特朗普的战争”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新京报
+- 时间: 2026-06-04 23:12
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE50ZlBIQThhMnd3N19BWEo0ZEhVMVNoRjdEOWM1cXY2NFYxclJESndfUHNIWFZJemVVTXlDOEhKajhCWkxuM2c5YktRYmhLdDEzQy1pbWhOdVF0OC1uUGdfYW5yMWY?oc=5>
+
+### 特朗普：在他与双方交谈后，以色列和真主党在结束冲突方面取得“进展”
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 澳門廣播電視股份有限公司
-- 时间: 2026-06-04 14:58
-- 链接: <https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RZ3RFcmhWODJiU3dUTk91ekZ4cC1GYlZjSkdaMUExQ3R6eDRMY1dFZ3I5MnVBWlowMlI2ekw1alpmV1lNRDZUOFJIVkJBOXNzQk9nb0R3RWM3V2h6OHJR?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-06-04 22:49
+- 链接: <https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVkw1NjJjR0lxTnJrVVZpVGlNRjVKN3JILWpKOUhVMEFIZjljemZBR2EzNlFKX3AzUlFsOUxPWGlXdVZlNS1tNkRBN191aENvckVITWNFem5EUEFBUzRVOWNmaHRFVGItQVBxLVg3aWVwdnp1NXhVdkY4SGVNcUNkYU8tcEV3U2xQUW5JRDlPYUlKQ2NuZlVCLXRHSFdwT3ZhcmVpMVEwbHo1NGZPbEFwS21GRW9iRWhucFBNcWhTUVUyazBjTmZwMjhnRDNUMDVqNnczTkFmMG01Zm_SAdsBQVVfeXFMTlZMNTYyY0dJcU5ya1VWaVRpTUY1SjdySC1qSjlIVTBBSGY5Y3pmQUdhMzZRSl9wM1JRbDlMT1hpV3VWZTUtbTZEQTdfdWhDb3JFSE1jRXpuRFBBQVM0VTljZmh0RVRiLUFQcS1YN2llcHZ6dTV4VXZGOEhlTXFDZGFPLXBFd1NsUFFuSUQ5T2FJSkNjbmZVQi10R0hXcE92YXJlaTFRMGx6NTRmT2xBcEttRkVvYkVobnBQTXFoU1FVMmswY05mcDI4Z0QzVDA1ajZ3M05BZjBtNWZv?oc=5>
 
-### 擔憂中共的法律制度 小川普：不會在中國投資
+### 特朗普称将提名托德·布兰奇出任司法部长
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 大纪元
-- 时间: 2026-06-04 21:21
-- 链接: <https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxRW9BeDFoTDFPdFoxVFhGbF9GTG1TNURqbUdLQmlmYnZrTlp0YWRlVHFVZU9HamVONkRWZ21GN3ZOTy1FczBRcExZX3UwMy1oZWJJNkE2MERSMzdvSlJV0gFkQVVfeXFMTVA5YXJLNi1ualZvNnI3ZHN4eklTTnlsSDF0OUFGOF85cWh3WWk1WS1OQ3ZSWGhOcUtnS3JRWXVwRVJ0em9mRmQ2aU8zWWF1VXJMeF9yMlkwdEtzcTZsVVI1U2Jwbg?oc=5>
+- 场馆: 华尔街日报中文网
+- 时间: 2026-06-04 23:28
+- 链接: <https://news.google.com/rss/articles/CBMingFBVV95cUxPckJmOXdoZ3lDeVV5bHphdnVncmRtVm9RRElQcC11dHU5WDdIeGxjTVNLUFRoY2J0YkpZMy1WODh5V0xGVm5fWnNQMEhjWVVfdUZ3WGxNYk94NzMwNHhNUkVPa2RfX3pVRHdNOUZKQ1BqNk96V09zaW02RUVwU1ZMUkFIdEdENVpoVVB4SC1feUxPSjBxQ1d1NVdQb3VHZw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-05 00:01  (7 条)
+
+- **王一博** | 王一博AI灵感工作室发布双语早安问候 <https://video.sina.com.cn/p/finance/2026-06-05/detail-iniaicux9790762.d.html>
+- **特朗普** | 特朗普：在他与双方交谈后，以色列和真主党在结束冲突方面取得“进展” <https://news.google.com/rss/articles/CBMi2AFBVV95cUxQb0VSM0RDQVlObGFtbzRWbldZMEhYUHdxMzNJT284Zk03bjJKdGNIOGI1QkpKQzQtaUo2R0lBaENxcXFLTV82ZGZkNS1fU1l5bDdDQ2hYZnVqVVQzS0lYZGxWOVVXWlhXcHVXcXQxQXlYdUxDZGFIUGo3WUxsbGZFQnpLMnVrcWlqWllqa2dLa0Vab2t0VE9rWEZVc3dielhyMjJTWDBEa0hVS3BnWWlJdEM5cWdHVkRjVzFLQjQzX0l1c3d0RFQzRWZMTFpLWGxvTnNRd3hFRkrSAdsBQVVfeXFMTlZMNTYyY0dJcU5ya1VWaVRpTUY1SjdySC1qSjlIVTBBSGY5Y3pmQUdhMzZRSl9wM1JRbDlMT1hpV3VWZTUtbTZEQTdfdWhDb3JFSE1jRXpuRFBBQVM0VTljZmh0RVRiLUFQcS1YN2llcHZ6dTV4VXZGOEhlTXFDZGFPLXBFd1NsUFFuSUQ5T2FJSkNjbmZVQi10R0hXcE92YXJlaTFRMGx6NTRmT2xBcEttRkVvYkVobnBQTXFoU1FVMmswY05mcDI4Z0QzVDA1ajZ3M05BZjBtNWZv?oc=5>
+- **特朗普** | 特朗普：若能促成协议，愿与伊朗最高领袖会面 <https://news.google.com/rss/articles/CBMinAFBVV95cUxOelRHVnp2OC1oV09hSDdJZEtGSTFrOEkxOEZKU0RSRzl1ZHJOaTA1NnhGMjdneXBLZHRvRzY4WVRwdG1IZmlKRWozLTNwX0NHRkhGbTN6SzdYQWllMjVHQUhQMWFqZlBPd2g4WE1oWjZub0tYZmo3S3pfem5CYllXMFZKR1A3MFo2T1JKNlNoa0ZaWDRyZ193ZzlFZFY?oc=5>
+- **特朗普** | 特朗普：若达成协议 不排除与伊朗最高领袖会晤 <https://news.google.com/rss/articles/CBMiakFVX3lxTE04Vi1wNnV0bVRIUmM3bjBoMnluRjZPTXFVT2JWWlFYM3N3YWgxeDZSTVR3WHc4VjdNR2JOTzBpZUs4MXV2TUk5NC1MR21IejNVZlFoa3BlVTY2X1hDR05VUDJjLXpDQU5GWGc?oc=5>
+- **特朗普** | 俄外长：“拜登的战争”变成“特朗普的战争” <https://news.google.com/rss/articles/CBMiZEFVX3lxTE50ZlBIQThhMnd3N19BWEo0ZEhVMVNoRjdEOWM1cXY2NFYxclJESndfUHNIWFZJemVVTXlDOEhKajhCWkxuM2c5YktRYmhLdDEzQy1pbWhOdVF0OC1uUGdfYW5yMWY?oc=5>
+- **Trump** | 特朗普：在他与双方交谈后，以色列和真主党在结束冲突方面取得“进展” <https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVkw1NjJjR0lxTnJrVVZpVGlNRjVKN3JILWpKOUhVMEFIZjljemZBR2EzNlFKX3AzUlFsOUxPWGlXdVZlNS1tNkRBN191aENvckVITWNFem5EUEFBUzRVOWNmaHRFVGItQVBxLVg3aWVwdnp1NXhVdkY4SGVNcUNkYU8tcEV3U2xQUW5JRDlPYUlKQ2NuZlVCLXRHSFdwT3ZhcmVpMVEwbHo1NGZPbEFwS21GRW9iRWhucFBNcWhTUVUyazBjTmZwMjhnRDNUMDVqNnczTkFmMG01Zm_SAdsBQVVfeXFMTlZMNTYyY0dJcU5ya1VWaVRpTUY1SjdySC1qSjlIVTBBSGY5Y3pmQUdhMzZRSl9wM1JRbDlMT1hpV3VWZTUtbTZEQTdfdWhDb3JFSE1jRXpuRFBBQVM0VTljZmh0RVRiLUFQcS1YN2llcHZ6dTV4VXZGOEhlTXFDZGFPLXBFd1NsUFFuSUQ5T2FJSkNjbmZVQi10R0hXcE92YXJlaTFRMGx6NTRmT2xBcEttRkVvYkVobnBQTXFoU1FVMmswY05mcDI4Z0QzVDA1ajZ3M05BZjBtNWZv?oc=5>
+- **Trump** | 特朗普称将提名托德·布兰奇出任司法部长 <https://news.google.com/rss/articles/CBMingFBVV95cUxPckJmOXdoZ3lDeVV5bHphdnVncmRtVm9RRElQcC11dHU5WDdIeGxjTVNLUFRoY2J0YkpZMy1WODh5V0xGVm5fWnNQMEhjWVVfdUZ3WGxNYk94NzMwNHhNUkVPa2RfX3pVRHdNOUZKQ1BqNk96V09zaW02RUVwU1ZMUkFIdEdENVpoVVB4SC1feUxPSjBxQ1d1NVdQb3VHZw?oc=5>
 
 ### 2026-06-04 22:52  (4 条)
 
