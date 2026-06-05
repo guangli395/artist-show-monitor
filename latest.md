@@ -1,118 +1,103 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-05 04:54**
-- 本轮扫到 2734 条, 新增 **13** 条
+- 最近更新: **2026-06-05 08:40**
+- 本轮扫到 2744 条, 新增 **10** 条
 
 ---
 
-## 本轮新发现 (13 条)
+## 本轮新发现 (10 条)
 
-### 周杰伦2026南京演唱会9月开唱，连演三场
+### 豆豆买了500本蔡徐坤专辑 已经幻想签售的时候说什么了 我们要努力像豆豆看齐
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923942_m1d5ae18e603301tgke.html>
+
+### 谁不想去看周杰伦演唱会呀！这个鸟巢座位图真的绝了，抢不到根本抢不到
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1729562517_6717079504001h03e.html>
+- 链接: <https://k.sina.com.cn/article_2105980803_m7d86b78303301deri.html>
 
-### 又有18人背刺特朗普，众议院通过援助乌克兰法案
+### 周杰伦鸟巢演唱会座位图公布，将创华语歌手单场票房纪录
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7323270704_m1b4803e3003301lgkw.html>
+
+### 林肯纪念堂要建“特朗普步道”？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-06-05 07:30
+- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE9WZ2tSaWN2WUlSOThBM1ZscVhDczFQZ1pOaU1GQ1BQc1Z2NDJGdTZ3RmQ3SHVBY3pYbWE3WjhsZlY0OGhsZkpzUThsSWFjZnk3MTluQjdrc1k1VkFsc3F4WUVMR1pOc2trWkdncE5BdEJHRFFoX29xbC04dVUyZw?oc=5>
+
+### 特朗普：我早就是尼克斯球迷了 我肯定去纽约看比赛 或许两场都看
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-06-05 07:33
+- 链接: <https://news.google.com/rss/articles/CBMihAFBVV95cUxQRVo4MEhQM0xHY0NkVWJrUmQ2bEtUaFBYdGpCVVJNZkRxcE1BT2QzcUZvMDRMdlFobEZmQ0ZxVTJRQjBRVWxXRDRBTlE3SDVQMDFmWHJ2am5pb1pGM3RtNzlFd01lSU83aEhQbm80cXk0cG1XWDdMVUFldVJ1VDJfekwxR2o?oc=5>
+
+### 美媒：特朗普的中期选举策略令共和党人措手不及
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-06-05 01:28
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2aTNlTmZFSUd4T2Z5TDkyYzhKbWE2V1pCOWlkVVE1X2VJTlpBd0ctbGkxTlJUbnVXUDNNa2Y5N2NVSFN0RTI1LW50bWM?oc=5>
+- 时间: 2026-06-05 00:54
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5Dd2pUV0JCOXl2ZXdBaTBVVG4zY3p4enp5ZlEwMjB6OUlqUWxQQ0pFNGFMb0JuSGxHWGtiYk9wbXN6RUFheFduNmREeEo?oc=5>
 
-### 长能耐了，特朗普长子放话：不会投资中国-观察者网
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-06-05 01:01
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBOb0dicjl4RUpWbFlCODVoakhCd29jWklzc2JjNEo1SmR4OV95RDZqajZTZUt3MEhEcTEwTzJtQXpqZXRrRlBEMHlNRzI0T1NqZGNuOXU3Tk9idEw1UUJweUNsSHVTdXZzS2c?oc=5>
-
-### 支持家乡球队？特朗普：NBA总决赛第三场，将到纽约现场观赛
+### 特朗普：乐见“普泽会” 俄乌会“妥协”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-05 03:20
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5iWlRic01URFdTaFNZV0UyNTRoc1RwM3h2ZTQ1a2R1WHBrSVptRF9aelhfYTJZN1BoancxR3F4ZUpLSFFnYTlzclFHTmZsN0JRRFhSU0xDUW5vZl9wVDFBM2RGY29tZ2E4dmxXNnFHVS1YSGU0VG12Sg?oc=5>
+- 场馆: 新华网
+- 时间: 2026-06-04 21:54
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBMMlYxcjhzYzNzNEJOdGtoQ1pFaHVadGlxRXk4WlpaU1QyTmVOWThWWDQwdjluSUd4aldGalhCVkdZLVpWMENMQ3dhelh2MGxETDFwZVMtLXVseDZicDd2bEwzR0ZsUzZWejN3azJNMkF3Rng0aUN0cWhGSmNDNWM?oc=5>
 
-### 美联储维持鹰派姿态 贵金属延续震荡偏弱运行
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-05 02:37
-- 链接: <https://news.google.com/rss/articles/CBMikAFBVV95cUxPN0NPN1B5WjZqZUdJdVprU3pPV2pPNlpYdU9sVTZyX2VURkNaNVZUcFNGQUpDSWlLWWFvMTE4Y0M3TWtFQmJydEI0QUJUWkx0QUpkMjNwVmo4VXBiMURWVTdrV2QxZzdDaDNKV0tVQ0dBaGZHRktDRTdab3hIaDNvbGZCa3RvZ2RpcE9OYjNlQjg?oc=5>
-
-### 泽连斯基公开邀普京会晤 克宫称可随时赴莫斯科 特朗普表示欢迎
+### 特朗普：乐见“普泽会” 俄乌会“妥协”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-06-04 21:28
-- 链接: <https://news.google.com/rss/articles/CBMisgNBVV95cUxOcVdxdkRBV09EZHBwTk1LWGduaGltSnhOS3NQV0R2dHd1Rk5Ka0IyUFpnQ0tkS2Q4bG92eU9Gc2xER0xVLTFlVnBSa2phd2RGSTY1cURteXFhR1p0RUdibE1yQ2hZUEYyV2dLeWlCQTl0dUcwUnJwc2xkNU9CODd6T1lHUWxPR1NOSG04Q0k0ZmxjRlRoUDExTXVVQktlWDVrQ0hPX3BiOWxIQ0oxcldyVkZlR1NYNENhczV0UkZhZklLbXhUTjJ2UlRjbHptanZ5RThWS1V2UUlraU5VeHZIbGZ6OWpldTVxV3hUUFBXTDVUMl9FcWxZRngyOGJEcU5OTUNDR2NTSG5mUm5FUFB4YTU0SGtFM1k2X2lBbFM4WmlJdEVVTmhhNG9RZVFMak9LcFhyazRwcGlGbXhDaEI4cm9lOWRERkdKN1hwYTRCSUFtYWVqQ0ZxOEVnS3BVdUpLUVBwY2laOEhoOFM2SmUwQURiekZSVXBnLTBIaTFFSkx6WmJrVU5JNGdTRUJnNWdoWWp5d2tjUjRBcmkzQ3daa2kzaVNSbE9YMG4wQUxSUmFLZw?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-06-04 22:22
+- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxQV05iaWc5UmZ1NUpDdlFsUkNDN2otLWhzc19JUVBZV2xTUWNTbkN0VjNVVGE5ZzN0QVZELTNqc05uaEo1UUt0UWdialVMRTdyZ2EzZG1HNURESVExRm1KMS12LTF6TTQzOTdnSkF6d3d5M3lVTXExX05yaFBaUmp4RTFYSDJUbE1ENmpWZFllWV9HczB6?oc=5>
 
-### 特朗普将现身NBA总决赛G3 总统观战引爆话题
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-06-05 01:33
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBucjlVbTVPVXVVN0N5cDkzUkRqVzFfa2NYWUZKSkhiTlBqWlkzQWJlTUYzdHhuaS15NFlKcm5vaUE0Yzhwd2tzU2JuUmZ2N2tPU3V6SlVMYlBlMmFrejRDNFE3ZHVQcHgzeDFYNzc2N1A?oc=5>
-
-### 特朗普长子称不会投资中国：不能假装中国是盟友
+### 私人律师“掌舵司法部”，特朗普又要把水搅浑了 | 京酿馆
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-06-04 23:37
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBOYTJsUlJEZFBqLXc0elhhd3lUbWNWY0FDZTFoVHFCYkNmY0tFUFNWLWNtMGhqT1FRc1EwbjhfNDdBbG5mREZzdDUtczJ3MDFiQktObjc5aWlSWTJKakhycy1DY2U4bElnQVE?oc=5>
+- 场馆: 新京报
+- 时间: 2026-06-05 06:11
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9qUDdTVHBmOXZ5bUkzdm5zSXFoY21wa3o4c1VORXBtZWYxVE9Hdi02R2x1dldKSUExclVJUzhFOFdMeGVkTnBKaHA1OE1HUlZJbG1YU3RScXRaS2NVQ0wwdy01ZVI?oc=5>
 
-### 特朗普：不见-观察者网
+### 特朗普：协议如达成可会穆杰塔巴 无协议也可得浓缩铀
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-06-05 02:05
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFAxWkdZa3k4RDh6Y2VxekczRlJyYzFzdzR4Sk9GRU51SnBBLWF0Z2VkSVc3OUJLTDlZQk1TYUdIQmhDVjJmNEg1M3RWbGNxSmMwMVJkdTE1VjUzNTduQUpzaGJvNWc4cmRoMnc?oc=5>
-
-### 共和党内讧令参议院表决一度停滞，特朗普“反武器化”基金面临废除博弈
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-06-05 02:16
-- 链接: <https://news.google.com/rss/articles/CBMikwFBVV95cUxPQVpNYXFqc2U1NkJWZGFGOFpacWZaTFl0bFhBT0NkVTktMExZNm0zYTdIYy1ZYzFmZnZkem1MbFgxREZHdVlEeHBhamNKX1d6bjc0RWtDdzUyM1BzaW9jR2t0V0FvTWhXbklMT2RNNjNJUHBPeGFLVy14UUgta25SaTNGV1JmLTZfRzRibXU2U25uQU0?oc=5>
-
-### 小特朗普：不会投资中国 不能假装中国是盟友
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-06-05 01:19
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxNb0xEdVNucEdITTZyLWZvUTJjNEhfNFVwMTZpbWlGd3dFZWhGb3BfNlBTTFFkX1RWVFRHY0NRZ212anFHU1RhSURJMTNpR0FoeFZjQk5lSXlNVFpIRDJsbGUyMjZFZzctRzd2TWhVVGJaU29fWklZZ0hablNoeFFoMVRaMjU4YVE?oc=5>
-
-### 特朗普称若达成协议可与伊朗最高领袖会面
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: AASTOCKS.com
-- 时间: 2026-06-04 23:31
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTFAxVkFqazUzTnFEbEFobmZMRW5WaU1vaERqeHhtUEhNU3FpRlVLN3dUXzFCTVE4dWJ3NTV5M0ZkY0R0UEd3SERJMGxDX1dvaXRMVFB5SmpaQnZPZVNwZXhfd1FZa3dXVHV1T0NwTnF4UQ?oc=5>
-
-### 特朗普称若达成协议可与伊朗最高领袖会面财经新闻Financial News
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: AASTOCKS.com
-- 时间: 2026-06-04 23:31
-- 链接: <https://news.google.com/rss/articles/CBMihAFBVV95cUxQX0RTS1FpdVczSlFHZ05CdEtyQTFLdXZvdm5DejdqZDdBYzhGTlV6QUpqZUNxdF95NEloVVBpd3h0aXZFWkMwX3R3Q1NtTlNJTFlaQlBvdWVnYWhBdE1odU1oRExIRE1XVWFyZVQtdFVsemItQU5lM1d1Mk4yX2IxT0lJUTM?oc=5>
+- 场馆: 新华网
+- 时间: 2026-06-05 00:00
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9hV3F5Y3lLcUlVWE1IVVBtYS1QWkhoaS1oX2thMnExb0lad2hqTzBsWkFMZGE2YXRRZDZhOE84eWN6ZFRzVlQ4VlhKbE5UTXRzTm56ck9qaEJXRGcyRkJGVlI0MVh1RzdRSEJqV1lWWFNOdkxpYXd0bnVUR1Nwams?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-05 08:40  (10 条)
+
+- **蔡徐坤** | 豆豆买了500本蔡徐坤专辑 已经幻想签售的时候说什么了 我们要努力像豆豆看齐 <https://k.sina.com.cn/article_7879923942_m1d5ae18e603301tgke.html>
+- **周杰伦** | 谁不想去看周杰伦演唱会呀！这个鸟巢座位图真的绝了，抢不到根本抢不到 <https://k.sina.com.cn/article_2105980803_m7d86b78303301deri.html>
+- **周杰伦** | 周杰伦鸟巢演唱会座位图公布，将创华语歌手单场票房纪录 <https://k.sina.com.cn/article_7323270704_m1b4803e3003301lgkw.html>
+- **特朗普** | 林肯纪念堂要建“特朗普步道”？ <https://news.google.com/rss/articles/CBMifkFVX3lxTE9WZ2tSaWN2WUlSOThBM1ZscVhDczFQZ1pOaU1GQ1BQc1Z2NDJGdTZ3RmQ3SHVBY3pYbWE3WjhsZlY0OGhsZkpzUThsSWFjZnk3MTluQjdrc1k1VkFsc3F4WUVMR1pOc2trWkdncE5BdEJHRFFoX29xbC04dVUyZw?oc=5>
+- **特朗普** | 特朗普：我早就是尼克斯球迷了 我肯定去纽约看比赛 或许两场都看 <https://news.google.com/rss/articles/CBMihAFBVV95cUxQRVo4MEhQM0xHY0NkVWJrUmQ2bEtUaFBYdGpCVVJNZkRxcE1BT2QzcUZvMDRMdlFobEZmQ0ZxVTJRQjBRVWxXRDRBTlE3SDVQMDFmWHJ2am5pb1pGM3RtNzlFd01lSU83aEhQbm80cXk0cG1XWDdMVUFldVJ1VDJfekwxR2o?oc=5>
+- **特朗普** | 美媒：特朗普的中期选举策略令共和党人措手不及 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5Dd2pUV0JCOXl2ZXdBaTBVVG4zY3p4enp5ZlEwMjB6OUlqUWxQQ0pFNGFMb0JuSGxHWGtiYk9wbXN6RUFheFduNmREeEo?oc=5>
+- **特朗普** | 特朗普：乐见“普泽会” 俄乌会“妥协” <https://news.google.com/rss/articles/CBMif0FVX3lxTFBMMlYxcjhzYzNzNEJOdGtoQ1pFaHVadGlxRXk4WlpaU1QyTmVOWThWWDQwdjluSUd4aldGalhCVkdZLVpWMENMQ3dhelh2MGxETDFwZVMtLXVseDZicDd2bEwzR0ZsUzZWejN3azJNMkF3Rng0aUN0cWhGSmNDNWM?oc=5>
+- **特朗普** | 特朗普：乐见“普泽会” 俄乌会“妥协” <https://news.google.com/rss/articles/CBMilAFBVV95cUxQV05iaWc5UmZ1NUpDdlFsUkNDN2otLWhzc19JUVBZV2xTUWNTbkN0VjNVVGE5ZzN0QVZELTNqc05uaEo1UUt0UWdialVMRTdyZ2EzZG1HNURESVExRm1KMS12LTF6TTQzOTdnSkF6d3d5M3lVTXExX05yaFBaUmp4RTFYSDJUbE1ENmpWZFllWV9HczB6?oc=5>
+- **特朗普** | 私人律师“掌舵司法部”，特朗普又要把水搅浑了 | 京酿馆 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9qUDdTVHBmOXZ5bUkzdm5zSXFoY21wa3o4c1VORXBtZWYxVE9Hdi02R2x1dldKSUExclVJUzhFOFdMeGVkTnBKaHA1OE1HUlZJbG1YU3RScXRaS2NVQ0wwdy01ZVI?oc=5>
+- **特朗普** | 特朗普：协议如达成可会穆杰塔巴 无协议也可得浓缩铀 <https://news.google.com/rss/articles/CBMif0FVX3lxTE9hV3F5Y3lLcUlVWE1IVVBtYS1QWkhoaS1oX2thMnExb0lad2hqTzBsWkFMZGE2YXRRZDZhOE84eWN6ZFRzVlQ4VlhKbE5UTXRzTm56ck9qaEJXRGcyRkJGVlI0MVh1RzdRSEJqV1lWWFNOdkxpYXd0bnVUR1Nwams?oc=5>
 
 ### 2026-06-05 04:54  (13 条)
 
