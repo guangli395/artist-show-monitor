@@ -1,134 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-05 11:58**
-- 本轮扫到 2760 条, 新增 **16** 条
+- 最近更新: **2026-06-05 14:55**
+- 本轮扫到 2762 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (16 条)
+## 本轮新发现 (2 条)
 
-### 王一博新歌邀你共赏夏日荷花
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1779837945_m6a162bf903301m46q.html>
-
-### 周董盛赞刘宇宁演唱会,称台湾年轻人熟知其魅力
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923704_m1d5ae17f803301t03a.html>
-
-### 周董下次演唱会我穿这个见你好不好
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923551_m1d5ae175f03301kkci.html>
-
-### 周杰伦鸟巢座位图压哨！今年最难的演唱会怎么抢票？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923704_m1d5ae17f803301szt8.html>
-
-### 周杰伦北京演唱会抢票火爆，买演出门票别踩坑
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://finance.sina.com.cn/consume/xiaofei/2026-06-05/doc-iniaiyyn2826244.shtml>
-
-### 林肯纪念堂要建“特朗普步道”？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-06-05 07:30
-- 链接: <https://news.google.com/rss/articles/CBMid0FVX3lxTE5Jcl85b1RSNlFrdm53VUpIakpfSFhpRWc3Sjd3dVU4QURxUmhqeHcwRVNUeXNiSzF2b3BsaFRGNjRJLVpDVVRnNF9EN08wZnltd1VXbEthRFJzLWpIU3Q3YWVLbDd1VmxXdThkZU5TZjFOdTljTXVz?oc=5>
-
-### 特朗普要在林肯纪念堂旁增设“特朗普大道”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-06-05 07:06
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1taWVQWmdYTVNMaTBOaTlXbjJpVHk3MGJLTjJqLUt6Z2k1MkVSUjBwcUFyRzhzU1AtRTNXV1p1XzRzS3dBY2NVeTdrWkZJdnhHZGx3Q3Bya1g0WXJSQjdjcWZPWFpGdkdiRkE?oc=5>
-
-### 特朗普发AI视频，用人泪给林肯纪念堂倒影池灌水，外媒：他用的是“反对派眼泪”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-06-05 10:51
-- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxOaWl5aFl2dkNkZzNZTjUwdDRNUWtrUlo4bFFUVkhOWmNkeERsSzhaeXg4TW9OSmo0Rjd4UEhHSl96ZjZFZUpKRnR3bEVZX3NhOWI4b3JFRW1YS3BNdl9uVUY4U2p4b1F2Yk5fRWVFa2NLVWtCY01kNUlkelFYMG9hYkhEZ2lIUEhkMVRWbzlkTQ?oc=5>
-
-### 特朗普政府拟斥资7亿美元扶持煤电
+### 特朗普政府拆分“两房”计划面临新变数
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-05 08:53
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxOM0t2ZjQ0MWF0ekROOXluRmFZcDdjVDFheEVoZnB0SVE1YVJPWHlQQmFiMEI3Zzhzd3EwNUlrcnE1RXU1akJuYkM2NDNVb3NaRHpOVDZpcXo5S1FmQ0tseGNvSmJaQVZsdi1fQmhTZkxxMGZrSGQ5X3lBNHBnMjhoa3hjRGYzYlk?oc=5>
+- 时间: 2026-06-05 14:29
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQTBzYkxzQzZ5LTlLSnFELTg1ZF9DaEFHNlZySlc3UXdFR2F3eVNkS0pZa1E0bXIwOFJTR2c3VVYydmtTalRyTThJVktqWGpFYW8xRjVWUndHSVB1bV9Jd05LX0lQTnBpMlRiZTNWSVVWQmNwbGo4T21ZdF9pYkJHWWhSLVFneDN5NHpQTnRaUjcwb2NmRF95bzBYVVVxbXQzNElFdC14QUQ4Y2R4SEF3RVhtZlZYYmZzbDEwYV8zQ3h3X1dQR2c5UUFBb3gxNnRqREEwb0ZkX1BSNTZiZzhj?oc=5>
 
-### 特朗普称代理国家情报总监不会被正式任命
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-06-05 01:29
-- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE9jQjZVRkNmbmdoZlloSmxYTS1JandhQVVkTUpHU28xZm5XSnNHSS1WZUFfcDlZMHFpMlN1UFJkNUZ1R0g3bURXOEtiQWUtNUd5ZUpfMHR2U1hnZ095bzFOclN3YVZLb1g5T01UNGlDN2d0R3NoT19YU2FhQm02QQ?oc=5>
-
-### 共和党参议员蒂利斯痛批特朗普情报负责人提名人普尔特
+### OpenAI表态将遵守特朗普行政令：AI模型上线前需接受审查
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-03 13:30
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRXBfQ25zOXktRElFYlFfMk01MC1EaGREb1VRamZSRzVrWXhUQjBYVERTOWYyc2JicFdNVW5Cc0xpa0lROHRSMzJYLXd4WWtnbV9oUDR0bm1LTG5RVEwxQjVSVzFsak8yY1A3YmNCcGVVTFBCeWJMaFRuQUtfbkhWRGwxdml3LWNqbTA4T3hNSFhlU3ZZOW12S3JvdlZXS0t0QXVxTHk2cTh4d0lMZ2VvOTJsYUkwRUo1eHllcXo1cXV1bjBZQ016OTJvR1BZTFZ5Z1E4WldIM3ZWNlpNWnRV?oc=5>
-
-### 特朗普突向盟友发火背后，美国中东政策调整将如何落到实处？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-06-05 01:15
-- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxPcmRGbm5FU3JHZk9GYUwwVkEwY3o0UGNqWlJ6TGVZbklVVnFHVVpSdDVTMDVfQnRNVU9oaExWNmdVUWpRTHh5M1JlZXQtODNmVWkyWWgzU1F5VW9yVkVCTjJxM1E5NkNYZjRUZ0poblpYR21PTFVkQUxicFFRTnZkTE1HSQ?oc=5>
-
-### 软干预？特朗普这项AI模型审查行政令背后藏着哪些信号
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 第一财经
-- 时间: 2026-06-05 09:04
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE15OTJlbTlPNWJnQWRaWkgwMFRsNFJiblp6Zmc2bWUxb2RXQ0x0QW14eUoydnBRbmhseHZWeHFLYXYzUFJ6RkQyY052a05PZXRyTTBV?oc=5>
-
-### 市场传闻：OpenAI将遵从Trump要求政府预先审查AI模型的行政命令
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: AASTOCKS.com
-- 时间: 2026-06-05 10:17
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE1iazI5TlR6YVl4R1FRNjlTM3RDWmdIWmg5N0MwWThRdjA2WkpnTkx1aDhVXzNfMXdBTTNoRlk0LUJVckxTaFhvVXdXNkM5RFdJWm9Ob2tFMXB6YlJHbUJUSWh3VU1xTTNLWG9mSEdOUQ?oc=5>
-
-### 澳廣視新聞｜Trump acknowledges calling Netanyahu ‘crazy’｜Trump acknowledges calling Netanyahu ‘crazy’
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 澳門廣播電視股份有限公司
-- 时间: 2026-06-03 22:07
-- 链接: <https://news.google.com/rss/articles/CBMijgFBVV95cUxOTFZVN1EwdXhpQmc5MW1nbTRWbnBFYW1mS2ZYWWV6NUdHMVIxR3Qyb1JhbDdub0RXRGlaUjZ5cWVzN0puQWRDVUhwZ1Q0dU8ta1BQYUxZWk5YbFB2TnRWM3A1Z00wbUdVajlmemZGQ2t1OWZGV2FETElzYVFfaG95QnZDcmxqWHRheXplMnZn?oc=5>
-
-### 川普：對美印達成貿易協議充滿信心
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 大纪元
-- 时间: 2026-06-05 10:10
-- 链接: <https://news.google.com/rss/articles/CBMiX0FVX3lxTE1POUtqcEVUekFyNzB6VGFFZjloT09oWjZfTm1iVHM3bXhaVm1xUDdKYU5yYjEtQnREMkpsbEY0NWlaT01mVV9hTzkxSlE4aGVQU0VfU1BxQVdEYWw0cm5Z0gFkQVVfeXFMTVM4dG5hMDhLRlU5X05XUGFNQlQ0RGgtS3pVMHY2bHM1aTNKSjhwWTFXVG5zZHdHWHhnci1GQ1c3R2JmRDdGeVk2X043YXZSaW5XcUxPc0pfeVVXcDVRdGlmSF8xNg?oc=5>
+- 时间: 2026-06-05 12:24
+- 链接: <https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaDBhZVlyNDVxRkwyWW53dHBWWG5VcEdPNjE1WGlzc3JlRTJ4cnBkeTNSM2xPTUtCR1pvYV9jcWltTTlPNWU0TmdXSjE2RE90TWlfY1UzM09rUWxrUnZJSzk5eUZhNkJTOWgzUmZsQWNtNTVNdDFfSnJzQ2luUlBiTE5XbWtoRnczMTNER0lHRUx5YnpTOTV2Q1AxY2d5Ul9kU05GTHdKQlhoXzdMUTllRVpGNG9LdVd3UzNGcUJ4MnJKSTcwOTJiTjdpSENtNkd1WUNZS0N6UGV3QkYx?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-05 14:55  (2 条)
+
+- **特朗普** | 特朗普政府拆分“两房”计划面临新变数 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQTBzYkxzQzZ5LTlLSnFELTg1ZF9DaEFHNlZySlc3UXdFR2F3eVNkS0pZa1E0bXIwOFJTR2c3VVYydmtTalRyTThJVktqWGpFYW8xRjVWUndHSVB1bV9Jd05LX0lQTnBpMlRiZTNWSVVWQmNwbGo4T21ZdF9pYkJHWWhSLVFneDN5NHpQTnRaUjcwb2NmRF95bzBYVVVxbXQzNElFdC14QUQ4Y2R4SEF3RVhtZlZYYmZzbDEwYV8zQ3h3X1dQR2c5UUFBb3gxNnRqREEwb0ZkX1BSNTZiZzhj?oc=5>
+- **特朗普** | OpenAI表态将遵守特朗普行政令：AI模型上线前需接受审查 <https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaDBhZVlyNDVxRkwyWW53dHBWWG5VcEdPNjE1WGlzc3JlRTJ4cnBkeTNSM2xPTUtCR1pvYV9jcWltTTlPNWU0TmdXSjE2RE90TWlfY1UzM09rUWxrUnZJSzk5eUZhNkJTOWgzUmZsQWNtNTVNdDFfSnJzQ2luUlBiTE5XbWtoRnczMTNER0lHRUx5YnpTOTV2Q1AxY2d5Ul9kU05GTHdKQlhoXzdMUTllRVpGNG9LdVd3UzNGcUJ4MnJKSTcwOTJiTjdpSENtNkd1WUNZS0N6UGV3QkYx?oc=5>
 
 ### 2026-06-05 11:58  (16 条)
 
