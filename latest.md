@@ -1,56 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-05 21:06**
-- 本轮扫到 2780 条, 新增 **5** 条
+- 最近更新: **2026-06-05 22:39**
+- 本轮扫到 2782 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (2 条)
 
-### 特朗普称伊朗浓缩铀仅美国与中国有能力取出
+### 美对台140亿美元军售案 特朗普：正在考虑中
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: RFI
-- 时间: 2026-06-05 20:50
-- 链接: <https://news.google.com/rss/articles/CBMizwJBVV95cUxNc3Y2Qm9rMzZCaW82MHgzYTIwb2tNY2VURkZvZm42eVpxMzNHaU9RdlQ1Q3NCOVV1SVFRZ1FLa0wwOGVha1pmLTRFSEJmcWZDWVY5Q2xENHpjOEpvdzJ2RldHY0N2eEoyc0Z6QlZyb3hRQ28zM3RLWjlFSlJub0Vid2hBMVBVVlV6UTRrY3JRZ1duejBfS0ZxbDQtamktekJhTGRnQ2JqQWprZ1BUTG1rc2lMNnFSTVpPMVA0VlAxQXhRUk1MWmQ0bEJid2hvMGVXNGFVZzZTQzFMMlV6V1NRN3ViT1hMcWQxWTg1eDZJczY3OHBXbTdIWWlqNWNvSVJUN3RESVRUZHRLaVFSckxhb043Q0hpQ2FZaHpCQ3JYX1ZtZkp6MFJWb2Flb0lUX1QwY2dmMnYzT0ZoMFNtbEt4R3dzWVA1aUNKVzhuMGM2aw?oc=5>
+- 时间: 2026-06-05 21:19
+- 链接: <https://news.google.com/rss/articles/CBMisgJBVV95cUxPQUlDM2xxdGpHcG1RcHBlRW1mRWd5QUFYZ1FVYzVhZnNwOW1qZWtSQUR4T1MwZnR4TEZob3I0enh4TElJZDhCdGoyVlRZbDF0NG9OOERMa3poZHNOdF9aQUhYRkdhUWVqRmZVMlBCM3hmRHYzQTc2bkRyWEtmd3Q0aTRBOE9HbXJoQ2lBZFYwbTlQS3ZzSHJNVlBWRTA4T2FyM3ZaWE9nbTdMLVd1YWNxUWowZjVqZEFQRHRieC0xaGduTGVqMHAwRHhrQXFMUklTbzJhWHRlT1IyQlBMT2VhZ2owRm43V1lORGFDNnFDanp3ODZ5c2czX0p4VUZhdDU0dzQ2TGxIWFRZR3VuV04zQTVXNXBlYjQyOVRsOTgyb1dkam1pMzRDQndLQ0ZBRjk4T3c?oc=5>
 
-### 特朗普政府拆分“两房”计划面临新变数
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-05 14:29
-- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxOWEJqTlVoWTBON25QaDRSYmRJM1BmV2RiTWtpdHI3MnNjcTctZWZFaFlpb2h6SENCTFZRZGE5Q0lUVzdFSWpHOEQ2Vl9PMWJiZmtidmRjMXZjVFFZNlpuVVJWRWoxdnQ4TU80LVB1cWZ4dWtPaXFaN1BFUVF0b0Z6c1Nzbk95Mmt6ZUlLWi1DVmI0LXZuUU5rR0xsSkI?oc=5>
-
-### OpenAI表态将遵守特朗普行政令：AI模型上线前需接受审查
+### 美众议院“限战”，特朗普会不会受约束？丨夜观天下
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-05 12:24
-- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUHc0OWhjdXBiTFNCZlN6TTlhZ0hydlprOVVOcm4tWHNfRXpjRWhXMWRhZ2dELXg5S2p1RDVvVHl4eTFkVTc5YVJ0aGZVc2VJNjdHQ0hGTlVWcTUwbk1TZ3ZrS1BaVmVpbWo5TDBjVEZ2enNUbXREZnJfblg0TFNfQ21lRGdaZ0dCQTZ1cE5pTmJ6VlZQdEdid1pxOXQ3RzFfY3VSU09HX0cxTzA1elNlblNWWDNXLTN2bHByZi13TW91bkZ1QWVVb0hISmdjRWxEMGI0U01CUE95TWp2Vnc?oc=5>
-
-### 市场消息： 特朗普签署一份面向国家安全领域人工智能建设的行政指令。
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-05 18:26
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBQczdCT3FuLUxDbmRzSTlyLUZNUVJFWmlXWDQyZC1maEFZNndhTU5EUXVfVzlNeFVPMEJEcnA3ZEdTSk8xVHNLeHBGOA?oc=5>
-
-### 巴驻联合国官员喊话特朗普：管住以色列
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-06-05 08:46
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE05U3p4QmxEenRaREkzTXp2RHVWV3RPSUlkd1h3T2dSMnJDS3lETkdvQ3ZGSnQ5bmxJZVRQYTI3cmxUV1pIcUhTd24yUGdRSzN5cFN1YUcyZ2s1ZFBWRGkxMXdENHc?oc=5>
+- 场馆: 四川在线
+- 时间: 2026-06-05 11:34
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hVWpCcU0xZWgyNHY1Y291cWtMQU8tb3FtU29aX2RqR3o0TDZHSWJGNk9CemRCQjVHMlA2dFZKQmMwaGk4RENDcjR5U2VlYUQ4b2FGeS0xVUxLaENGd25RNA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-05 22:39  (2 条)
+
+- **特朗普** | 美对台140亿美元军售案 特朗普：正在考虑中 <https://news.google.com/rss/articles/CBMisgJBVV95cUxPQUlDM2xxdGpHcG1RcHBlRW1mRWd5QUFYZ1FVYzVhZnNwOW1qZWtSQUR4T1MwZnR4TEZob3I0enh4TElJZDhCdGoyVlRZbDF0NG9OOERMa3poZHNOdF9aQUhYRkdhUWVqRmZVMlBCM3hmRHYzQTc2bkRyWEtmd3Q0aTRBOE9HbXJoQ2lBZFYwbTlQS3ZzSHJNVlBWRTA4T2FyM3ZaWE9nbTdMLVd1YWNxUWowZjVqZEFQRHRieC0xaGduTGVqMHAwRHhrQXFMUklTbzJhWHRlT1IyQlBMT2VhZ2owRm43V1lORGFDNnFDanp3ODZ5c2czX0p4VUZhdDU0dzQ2TGxIWFRZR3VuV04zQTVXNXBlYjQyOVRsOTgyb1dkam1pMzRDQndLQ0ZBRjk4T3c?oc=5>
+- **特朗普** | 美众议院“限战”，特朗普会不会受约束？丨夜观天下 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hVWpCcU0xZWgyNHY1Y291cWtMQU8tb3FtU29aX2RqR3o0TDZHSWJGNk9CemRCQjVHMlA2dFZKQmMwaGk4RENDcjR5U2VlYUQ4b2FGeS0xVUxLaENGd25RNA?oc=5>
 
 ### 2026-06-05 21:06  (5 条)
 
