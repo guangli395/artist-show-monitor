@@ -1,19 +1,29 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-05 14:55**
-- 本轮扫到 2762 条, 新增 **2** 条
+- 最近更新: **2026-06-05 17:11**
+- 本轮扫到 2767 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (5 条)
 
-### 特朗普政府拆分“两房”计划面临新变数
+### 新浪演唱会热点小时报丨2026年06月06日01时_今日实时演唱会热点速递
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-05 14:29
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQTBzYkxzQzZ5LTlLSnFELTg1ZF9DaEFHNlZySlc3UXdFR2F3eVNkS0pZa1E0bXIwOFJTR2c3VVYydmtTalRyTThJVktqWGpFYW8xRjVWUndHSVB1bV9Jd05LX0lQTnBpMlRiZTNWSVVWQmNwbGo4T21ZdF9pYkJHWWhSLVFneDN5NHpQTnRaUjcwb2NmRF95bzBYVVVxbXQzNElFdC14QUQ4Y2R4SEF3RVhtZlZYYmZzbDEwYV8zQ3h3X1dQR2c5UUFBb3gxNnRqREEwb0ZkX1BSNTZiZzhj?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906dgfe.html>
+
+### 新浪演唱会热点小时报丨2026年06月06日00时_今日实时演唱会热点速递
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906dgbm.html>
+
+### 新浪演唱会热点小时报丨2026年06月05日23时_今日实时演唱会热点速递
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906dg7a.html>
 
 ### OpenAI表态将遵守特朗普行政令：AI模型上线前需接受审查
 
@@ -21,12 +31,28 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-06-05 12:24
-- 链接: <https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaDBhZVlyNDVxRkwyWW53dHBWWG5VcEdPNjE1WGlzc3JlRTJ4cnBkeTNSM2xPTUtCR1pvYV9jcWltTTlPNWU0TmdXSjE2RE90TWlfY1UzM09rUWxrUnZJSzk5eUZhNkJTOWgzUmZsQWNtNTVNdDFfSnJzQ2luUlBiTE5XbWtoRnczMTNER0lHRUx5YnpTOTV2Q1AxY2d5Ul9kU05GTHdKQlhoXzdMUTllRVpGNG9LdVd3UzNGcUJ4MnJKSTcwOTJiTjdpSENtNkd1WUNZS0N6UGV3QkYx?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUEVfRW5zTEFFUUljZVJJS1Z3Y1FmNmlNbEZxSGNzUzlqenFCN1RGcEdNXy1BbHVtZmVFSWhubld6LUVJWVFiWlVRTW53dXpiNDBla1JNb0JicDY0MWx0dlpIV2wzbkdmNTV4WG0ybXVjbGxBMUJnelZYSVd2VFpZNFBITkNfX1A2WG5xTE1aMnBnNUdSV3pVMkVPVFd1WEpkeDlxM1c5bTd3Z3ZmNUhkcGN4SjhjVHRxS3pkY2l5QndNSDRrTTlzeWs2bUZGSHh5WVJxMlYtZzNOQ3J1cnlV?oc=5>
+
+### 俄罗斯外长：“拜登的战争”已成“特朗普的战争”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-06-05 12:18
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE4wbDRJNGNkOHJkTDB1eS04SUtfMkI0ckpjV0s0Y2VTSXAtMGUyd0Jaei15eWg3TVJfWktHN2lMdVlKbGJqbnNoY2s5d1ZsWjcwVmZMZEdYZDNWU25Pdjd6bg?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-05 17:11  (5 条)
+
+- **周杰伦** | 新浪演唱会热点小时报丨2026年06月06日01时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001906dgfe.html>
+- **周杰伦** | 新浪演唱会热点小时报丨2026年06月06日00时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001906dgbm.html>
+- **周杰伦** | 新浪演唱会热点小时报丨2026年06月05日23时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001906dg7a.html>
+- **特朗普** | OpenAI表态将遵守特朗普行政令：AI模型上线前需接受审查 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUEVfRW5zTEFFUUljZVJJS1Z3Y1FmNmlNbEZxSGNzUzlqenFCN1RGcEdNXy1BbHVtZmVFSWhubld6LUVJWVFiWlVRTW53dXpiNDBla1JNb0JicDY0MWx0dlpIV2wzbkdmNTV4WG0ybXVjbGxBMUJnelZYSVd2VFpZNFBITkNfX1A2WG5xTE1aMnBnNUdSV3pVMkVPVFd1WEpkeDlxM1c5bTd3Z3ZmNUhkcGN4SjhjVHRxS3pkY2l5QndNSDRrTTlzeWs2bUZGSHh5WVJxMlYtZzNOQ3J1cnlV?oc=5>
+- **特朗普** | 俄罗斯外长：“拜登的战争”已成“特朗普的战争” <https://news.google.com/rss/articles/CBMiYEFVX3lxTE4wbDRJNGNkOHJkTDB1eS04SUtfMkI0ckpjV0s0Y2VTSXAtMGUyd0Jaei15eWg3TVJfWktHN2lMdVlKbGJqbnNoY2s5d1ZsWjcwVmZMZEdYZDNWU25Pdjd6bg?oc=5>
 
 ### 2026-06-05 14:55  (2 条)
 
