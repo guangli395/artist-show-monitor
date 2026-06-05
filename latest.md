@@ -1,50 +1,89 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-05 17:11**
-- 本轮扫到 2767 条, 新增 **5** 条
+- 最近更新: **2026-06-05 19:15**
+- 本轮扫到 2775 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (8 条)
 
-### 新浪演唱会热点小时报丨2026年06月06日01时_今日实时演唱会热点速递
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906dgfe.html>
-
-### 新浪演唱会热点小时报丨2026年06月06日00时_今日实时演唱会热点速递
+### 周杰伦北京演唱会有哪些特别的舞台设计和歌单亮点？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906dgbm.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801mlcq.html>
 
-### 新浪演唱会热点小时报丨2026年06月05日23时_今日实时演唱会热点速递
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906dg7a.html>
-
-### OpenAI表态将遵守特朗普行政令：AI模型上线前需接受审查
+### 美国、墨西哥和加拿大料错过7月美墨加协定续签节点 紧张局势恐加剧
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-05 12:24
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUEVfRW5zTEFFUUljZVJJS1Z3Y1FmNmlNbEZxSGNzUzlqenFCN1RGcEdNXy1BbHVtZmVFSWhubld6LUVJWVFiWlVRTW53dXpiNDBla1JNb0JicDY0MWx0dlpIV2wzbkdmNTV4WG0ybXVjbGxBMUJnelZYSVd2VFpZNFBITkNfX1A2WG5xTE1aMnBnNUdSV3pVMkVPVFd1WEpkeDlxM1c5bTd3Z3ZmNUhkcGN4SjhjVHRxS3pkY2l5QndNSDRrTTlzeWs2bUZGSHh5WVJxMlYtZzNOQ3J1cnlV?oc=5>
+- 时间: 2026-06-05 17:56
+- 链接: <https://news.google.com/rss/articles/CBMijwJBVV95cUxPaFotUldIdU1TYllBZDVuNElfZHlxaTJCMnVnOHRsam10UTdNVXlUYVpHa211QlFGWndPOUs4QXBOOGdtN05hT21GdkR6ejJ2SVVDZ2FvbDZwWXpRekxNV0VsMjlPMjlYVmY1ZmN2V2tkMHFPcXkyUGJXWlQ4bGNFWDhTZ1dVcWtwZEhJWjAtNk9USi14V0dPLVQ1TV9OVmthVjZyT0hlUklyNmtKVTdpUzRJR1NROERIYzBGeHNCMEFnNkRDVExScUxaVm5MTDViTU9KYTYzR21oYk45WjZGVnBsZ2t3eURFTmx2ejY2RGRqVDJfS3FqdEcxQzB6Y25YNXRLNVNiVTNyRk5PeXFV?oc=5>
 
-### 俄罗斯外长：“拜登的战争”已成“特朗普的战争”
+### 特朗普表示 房利美和房地美IPO并非不可能 但并不急
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-06-05 12:18
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE4wbDRJNGNkOHJkTDB1eS04SUtfMkI0ckpjV0s0Y2VTSXAtMGUyd0Jaei15eWg3TVJfWktHN2lMdVlKbGJqbnNoY2s5d1ZsWjcwVmZMZEdYZDNWU25Pdjd6bg?oc=5>
+- 场馆: 东方财富
+- 时间: 2026-06-05 18:05
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xUHQ4Ry1TczRMSE5zb0xITEt3STVCcllXemM0cy1ybHJFeThEbkU3TW1EU21jaTUwODR4Q044VUJyVXZSU0w1U0UzLTgxRzFCd2lYNS00WmJjTE5nSDlWcg?oc=5>
+
+### 特朗普：正研究美国民众如何从人工智能发展中获益。
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-06-05 17:55
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5fd3liN2o5OTExSjJIRGdOVnN3OTR5R3FBalZ1NS1jdDFKN1pWWjdGUGdmcE43VldfU3FtTDRSdjEwQU9nMFJVWXV0dw?oc=5>
+
+### 特朗普：所有大型人工智能公司都将来到白宫
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 东方财富
+- 时间: 2026-06-05 18:04
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5aUpwM1Z0YTVfb2hTYS1YaGE0OElCc1ZabXFFTDNTb0FFNWZ0cEU3RzQ0dmpkQnlISHY1clR6RzZhTTdGWE00a0dQX3k2UTJYekRpNWtSd25KWlpUdjlaQw?oc=5>
+
+### 特朗普称美伊协议可能在本周末达成
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-06-04 00:03
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTFBTM3FDTWlvYXF0WFowT0hRTkRRbHZYYWdNVm52dUJpbWhiNXFTVTF5bHZHWTRxcTNPVDhYMkJXN2xwRXRGaUlvaXdlQXh6NXVOeHZzZGRNNnpKZUtXdU5rSTE2Zm9SenFrS1BYeldqRUkyMTda?oc=5>
+
+### 美媒：深陷伊朗困局 特朗普面临“两难”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 紫牛新闻
+- 时间: 2026-06-05 10:41
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE52VVI3SXZac2EzWUdQMFQ3RXFmcm5DTkFUNWEyd0NFY3VpN0RjTXFscEl4WXBnVHRybkgzREhSZi13eXZKbEo0elNzdENmeWxIZ2RscWc3V0hpblhsYmUyOS1pY25yVF8wX1E?oc=5>
+
+### 特朗普政府拆分“两房”计划面临新变数
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-06-05 14:29
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdzFkYkg0Ymc2czJQdWxQeEFUeGdBSWhOSlJXVTA4WVBNczk0dkFpaHhFSnFkb1lWbWZHdS01QXdPYjQzRVQ0SWVnVWlNeG51OXc4bThZLWRSWnhpVzEwZXlkQ1Npa3JoWkFBMXZDTzJQbWdxOUVpRVp1elI3Xy1rV3J2UzkyZlpxamIxWjlCRGZjLUZTbjBNZUcyWWhhTG80UzM2Q1I1QTFGQmVUZVkxTE9RRFRMVWFUY3lsalBRTEg1YjkyMlFMbkFyWVJ4ZEVXcUVIZ2RHaU5LeXpseDhN?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-05 19:15  (8 条)
+
+- **周杰伦** | 周杰伦北京演唱会有哪些特别的舞台设计和歌单亮点？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801mlcq.html>
+- **特朗普** | 美国、墨西哥和加拿大料错过7月美墨加协定续签节点 紧张局势恐加剧 <https://news.google.com/rss/articles/CBMijwJBVV95cUxPaFotUldIdU1TYllBZDVuNElfZHlxaTJCMnVnOHRsam10UTdNVXlUYVpHa211QlFGWndPOUs4QXBOOGdtN05hT21GdkR6ejJ2SVVDZ2FvbDZwWXpRekxNV0VsMjlPMjlYVmY1ZmN2V2tkMHFPcXkyUGJXWlQ4bGNFWDhTZ1dVcWtwZEhJWjAtNk9USi14V0dPLVQ1TV9OVmthVjZyT0hlUklyNmtKVTdpUzRJR1NROERIYzBGeHNCMEFnNkRDVExScUxaVm5MTDViTU9KYTYzR21oYk45WjZGVnBsZ2t3eURFTmx2ejY2RGRqVDJfS3FqdEcxQzB6Y25YNXRLNVNiVTNyRk5PeXFV?oc=5>
+- **特朗普** | 特朗普表示 房利美和房地美IPO并非不可能 但并不急 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xUHQ4Ry1TczRMSE5zb0xITEt3STVCcllXemM0cy1ybHJFeThEbkU3TW1EU21jaTUwODR4Q044VUJyVXZSU0w1U0UzLTgxRzFCd2lYNS00WmJjTE5nSDlWcg?oc=5>
+- **特朗普** | 特朗普：正研究美国民众如何从人工智能发展中获益。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5fd3liN2o5OTExSjJIRGdOVnN3OTR5R3FBalZ1NS1jdDFKN1pWWjdGUGdmcE43VldfU3FtTDRSdjEwQU9nMFJVWXV0dw?oc=5>
+- **特朗普** | 特朗普：所有大型人工智能公司都将来到白宫 <https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5aUpwM1Z0YTVfb2hTYS1YaGE0OElCc1ZabXFFTDNTb0FFNWZ0cEU3RzQ0dmpkQnlISHY1clR6RzZhTTdGWE00a0dQX3k2UTJYekRpNWtSd25KWlpUdjlaQw?oc=5>
+- **特朗普** | 特朗普称美伊协议可能在本周末达成 <https://news.google.com/rss/articles/CBMidEFVX3lxTFBTM3FDTWlvYXF0WFowT0hRTkRRbHZYYWdNVm52dUJpbWhiNXFTVTF5bHZHWTRxcTNPVDhYMkJXN2xwRXRGaUlvaXdlQXh6NXVOeHZzZGRNNnpKZUtXdU5rSTE2Zm9SenFrS1BYeldqRUkyMTda?oc=5>
+- **特朗普** | 美媒：深陷伊朗困局 特朗普面临“两难” <https://news.google.com/rss/articles/CBMiakFVX3lxTE52VVI3SXZac2EzWUdQMFQ3RXFmcm5DTkFUNWEyd0NFY3VpN0RjTXFscEl4WXBnVHRybkgzREhSZi13eXZKbEo0elNzdENmeWxIZ2RscWc3V0hpblhsYmUyOS1pY25yVF8wX1E?oc=5>
+- **特朗普** | 特朗普政府拆分“两房”计划面临新变数 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdzFkYkg0Ymc2czJQdWxQeEFUeGdBSWhOSlJXVTA4WVBNczk0dkFpaHhFSnFkb1lWbWZHdS01QXdPYjQzRVQ0SWVnVWlNeG51OXc4bThZLWRSWnhpVzEwZXlkQ1Npa3JoWkFBMXZDTzJQbWdxOUVpRVp1elI3Xy1rV3J2UzkyZlpxamIxWjlCRGZjLUZTbjBNZUcyWWhhTG80UzM2Q1I1QTFGQmVUZVkxTE9RRFRMVWFUY3lsalBRTEg1YjkyMlFMbkFyWVJ4ZEVXcUVIZ2RHaU5LeXpseDhN?oc=5>
 
 ### 2026-06-05 17:11  (5 条)
 
