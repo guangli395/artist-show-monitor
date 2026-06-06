@@ -1,24 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-06 18:46**
-- 本轮扫到 2837 条, 新增 **1** 条
+- 最近更新: **2026-06-06 20:06**
+- 本轮扫到 2838 条, 新增 **1** 条
 
 ---
 
 ## 本轮新发现 (1 条)
 
-### 转换 MMK 到 TRUMP | 缅甸元 兑换 OFFICIAL TRUMP 转换器
+### 特朗普发推文Trump 007_新浪新闻
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: OKX
-- 时间: 2026-06-06 18:00
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtRG01OC1KcTJjUUpJVkp6dmgyR0NHbE1mOWNtblJPc0x4U2ZPamk2V3NPalBKN2JDQ1JRMHdyQUExcjc1eTRmU1dDelhyTGNYXzBaWFJUZGZ5MExZV0tpVVZFZ2drNFE?oc=5>
+- 场馆: 手机新浪网
+- 时间: 2026-06-03 08:54
+- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTE9uVE9DZElOZGJwY1lkQ2N3eUpmWkJSU2FhX29sZWdVTTRyWlBoMTc5YktxX2ZQV3RYR0F2YUFBdllJTVhUczdla3Nya3dQZUJHX2JUakZqOExINFNUbzVuZU5zRQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-06 20:06  (1 条)
+
+- **Trump** | 特朗普发推文Trump 007_新浪新闻 <https://news.google.com/rss/articles/CBMiY0FVX3lxTE9uVE9DZElOZGJwY1lkQ2N3eUpmWkJSU2FhX29sZWdVTTRyWlBoMTc5YktxX2ZQV3RYR0F2YUFBdllJTVhUczdla3Nya3dQZUJHX2JUakZqOExINFNUbzVuZU5zRQ?oc=5>
 
 ### 2026-06-06 18:46  (1 条)
 
