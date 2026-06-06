@@ -1,11 +1,35 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-06 12:50**
-- 本轮扫到 2822 条, 新增 **3** 条
+- 最近更新: **2026-06-06 14:26**
+- 本轮扫到 2827 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (5 条)
+
+### 特朗普：我要爆个小料
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Sina finance
+- 时间: 2026-06-06 13:12
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE5aMXhlNWlWcXZsN3g2YUVIbG5HZEcweHB0U3Z0cHhzOHZ1RUdSRDRCQjh0NVlFcjJaTGR6M3ZKWjU4akh0ZUFkM3VYYzFNS0tOOExyNG1GOVNWeXIyTllYZ01leGd6azFPUkI0dGdyVTdSODFBMkE?oc=5>
+
+### 参考消息：马克龙正设法留住特朗普
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Sina finance
+- 时间: 2026-06-06 12:52
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9Ka1RxZ0pGZkdCZV82M3RQUmVSREg0clloMXU2aW1ZZkU3UG4yalBPMGotR2N5Vzd0azdwcXNnVjFVMnIxYmM0S1dQV3V4Nk5qUXh6LU5aaWxoYmNTTjZLRTlCZjhCTU1jejlNU3hYT19VRVNwRDY2Tg?oc=5>
+
+### 特朗普官宣与马斯克和好
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Sina finance
+- 时间: 2026-06-06 09:17
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9CejRJci16Y1NXMU4tQkVYRzlkSXBMalR4c2Y3dWIwWkRDUEVKSVhONWNqdlBoTERJM2VIVmNXSkFWQ2t3eGpnS01ybDFxT3p6U0ZXaS05ZzRIWl9la2tJZS1vNl9SU3hmQUY1UEVwS2MySkdKV0V0cA?oc=5>
 
 ### 知情人士：美国政府考虑入股人工智能企业
 
@@ -13,28 +37,28 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-06-06 10:52
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxPUzZJLTVha1gzY0JZMWtQM2d1Mi1wVVBRVlpidUxKZUc0QkRUSGcxUkdIc0w2RVNuTzlvbmZzbGFjVGhUb3daTzdnTFI0OUpYQkliYnZabEtxZ0Y2ckxLVkxDMDF6VlJmSHlCZDlseUpPaHVkcW9BZkF6RVVIb29rT2p2MUJ4N3lBejU4anI0bVJIWmp0RzBaTg?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMi_gFBVV95cUxNUzhHRjZDeUJNemRfUTBHN25uRjFJV2Nnc0FvamhpdWpkcHZXUjduR3l0dGFyd3pNN3lET3M2U0VNZFBwRWlFRFJZN2lSc2tfdHR0VUtVWjZuY1hOalFXeU5RZktSRTdfNzhQOTlpVlIzV1JkR2hIMVRzMnI4Mzl2RHlRbWNZWGs4d21hbGs2cWlqcjF0VXBlN2F4RUZ3QXNveXdzSlU4VDVwMWFnU0R5NEcwT05OWFYtQlU1RlhiRzB5ZWRSQlJKZ0h0bGE4YU1KWWxmNHBPbHdUSmR1VTZPMnFqQVVmLXNLOHU5VGxlM3gzWjQxMXdkQUFvNklzQQ?oc=5>
 
-### 敢不离开美国？特朗普政府曾想“赐死”270万人
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-06-06 11:05
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE52VFBwYTRVMmx5WnRmMnhsVXZ2ZU5rNWJrV3gyV2JoZUt6S1VhMzRfdlU1UzNIUnc2YlZKbmlDLXBxMEw1b3hKUVJpWUN6ZzU2QWVIaU9LU1A2cHdDQ2lYUXkxT083UVRYX0E?oc=5>
-
-### 特朗普：我和马斯克已经“又成为朋友了”，他80%的时间很出色
+### 突然全线暴跌，特朗普传出大消息
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-06-06 08:14
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxOUWRLNkg3dWN2NU44c2Y4aGlxei1aMk95ellmOTNMODVhVC1tSEdCak1Rb1J3RGdjeUpGNGZCTE1pTW1ialFxbVRzWDM2UlI3dXVPcFVIWE9qRko2NGZha1lkNjhxb211b0F2VVFIV2VTcGt5MkpWQmdBY1E4d1YtQ3pZYm5hcmNpOHNhTg?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-06-06 12:46
+- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE83c0Jyd2NiVTRxeGpFb09nMlRfLUdTX3RRQnVyakdkZzFKTTJzc05LcUFZRnotcVdVOVlSMDFXdHdiZERJazdzZzdFRERYZDJo?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-06 14:26  (5 条)
+
+- **特朗普** | 特朗普：我要爆个小料 <https://news.google.com/rss/articles/CBMidkFVX3lxTE5aMXhlNWlWcXZsN3g2YUVIbG5HZEcweHB0U3Z0cHhzOHZ1RUdSRDRCQjh0NVlFcjJaTGR6M3ZKWjU4akh0ZUFkM3VYYzFNS0tOOExyNG1GOVNWeXIyTllYZ01leGd6azFPUkI0dGdyVTdSODFBMkE?oc=5>
+- **特朗普** | 参考消息：马克龙正设法留住特朗普 <https://news.google.com/rss/articles/CBMieEFVX3lxTE9Ka1RxZ0pGZkdCZV82M3RQUmVSREg0clloMXU2aW1ZZkU3UG4yalBPMGotR2N5Vzd0azdwcXNnVjFVMnIxYmM0S1dQV3V4Nk5qUXh6LU5aaWxoYmNTTjZLRTlCZjhCTU1jejlNU3hYT19VRVNwRDY2Tg?oc=5>
+- **特朗普** | 特朗普官宣与马斯克和好 <https://news.google.com/rss/articles/CBMieEFVX3lxTE9CejRJci16Y1NXMU4tQkVYRzlkSXBMalR4c2Y3dWIwWkRDUEVKSVhONWNqdlBoTERJM2VIVmNXSkFWQ2t3eGpnS01ybDFxT3p6U0ZXaS05ZzRIWl9la2tJZS1vNl9SU3hmQUY1UEVwS2MySkdKV0V0cA?oc=5>
+- **特朗普** | 知情人士：美国政府考虑入股人工智能企业 <https://news.google.com/rss/articles/CBMi_gFBVV95cUxNUzhHRjZDeUJNemRfUTBHN25uRjFJV2Nnc0FvamhpdWpkcHZXUjduR3l0dGFyd3pNN3lET3M2U0VNZFBwRWlFRFJZN2lSc2tfdHR0VUtVWjZuY1hOalFXeU5RZktSRTdfNzhQOTlpVlIzV1JkR2hIMVRzMnI4Mzl2RHlRbWNZWGs4d21hbGs2cWlqcjF0VXBlN2F4RUZ3QXNveXdzSlU4VDVwMWFnU0R5NEcwT05OWFYtQlU1RlhiRzB5ZWRSQlJKZ0h0bGE4YU1KWWxmNHBPbHdUSmR1VTZPMnFqQVVmLXNLOHU5VGxlM3gzWjQxMXdkQUFvNklzQQ?oc=5>
+- **特朗普** | 突然全线暴跌，特朗普传出大消息 <https://news.google.com/rss/articles/CBMiUEFVX3lxTE83c0Jyd2NiVTRxeGpFb09nMlRfLUdTX3RRQnVyakdkZzFKTTJzc05LcUFZRnotcVdVOVlSMDFXdHdiZERJazdzZzdFRERYZDJo?oc=5>
 
 ### 2026-06-06 12:50  (3 条)
 
