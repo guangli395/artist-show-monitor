@@ -1,56 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-06 14:26**
-- 本轮扫到 2827 条, 新增 **5** 条
+- 最近更新: **2026-06-06 15:50**
+- 本轮扫到 2832 条, 新增 **5** 条
 
 ---
 
 ## 本轮新发现 (5 条)
 
-### 特朗普：我要爆个小料
+### 专家：中国不是借口，而是榜样
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Sina finance
-- 时间: 2026-06-06 13:12
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE5aMXhlNWlWcXZsN3g2YUVIbG5HZEcweHB0U3Z0cHhzOHZ1RUdSRDRCQjh0NVlFcjJaTGR6M3ZKWjU4akh0ZUFkM3VYYzFNS0tOOExyNG1GOVNWeXIyTllYZ01leGd6azFPUkI0dGdyVTdSODFBMkE?oc=5>
+- 场馆: 新浪军事
+- 时间: 2026-06-06 15:34
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5PSTRTalQxMHBCb3pNT1RUbUdLU2gyNFlIb3lselpoVzkzZXdFdElndWVJRWtNQlJBUWtrRHlfb2FKQk9xQTdLVkhnempJWUV2ckttbDREenRWYi1ZMHJVU3pBbmFOSzlfeVJmTXAwZjJoOEE?oc=5>
 
-### 参考消息：马克龙正设法留住特朗普
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: Sina finance
-- 时间: 2026-06-06 12:52
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9Ka1RxZ0pGZkdCZV82M3RQUmVSREg0clloMXU2aW1ZZkU3UG4yalBPMGotR2N5Vzd0azdwcXNnVjFVMnIxYmM0S1dQV3V4Nk5qUXh6LU5aaWxoYmNTTjZLRTlCZjhCTU1jejlNU3hYT19VRVNwRDY2Tg?oc=5>
-
-### 特朗普官宣与马斯克和好
+### 伊朗开价240亿美元，这可要了特朗普的命了…-观察者网
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Sina finance
-- 时间: 2026-06-06 09:17
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9CejRJci16Y1NXMU4tQkVYRzlkSXBMalR4c2Y3dWIwWkRDUEVKSVhONWNqdlBoTERJM2VIVmNXSkFWQ2t3eGpnS01ybDFxT3p6U0ZXaS05ZzRIWl9la2tJZS1vNl9SU3hmQUY1UEVwS2MySkdKV0V0cA?oc=5>
+- 场馆: 观察者
+- 时间: 2026-06-06 14:28
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5PSkk2NnRMYi1Ecnp3VW9TaWJjUE4tTUozeGdieGFKSjRSR2pBVXhSSWt2cmNpdHBySUFGMXB1OXU4R2N0eVdkaXUyTTh4WDBlRTRYTjR3dS1PZF9KVmxMOUtwM0ZNSWlvR0E?oc=5>
 
-### 知情人士：美国政府考虑入股人工智能企业
+### “为了将人赶出美国，特朗普政府曾想‘赐死’270万人”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-06 10:52
-- 链接: <https://news.google.com/rss/articles/CBMi_gFBVV95cUxNUzhHRjZDeUJNemRfUTBHN25uRjFJV2Nnc0FvamhpdWpkcHZXUjduR3l0dGFyd3pNN3lET3M2U0VNZFBwRWlFRFJZN2lSc2tfdHR0VUtVWjZuY1hOalFXeU5RZktSRTdfNzhQOTlpVlIzV1JkR2hIMVRzMnI4Mzl2RHlRbWNZWGs4d21hbGs2cWlqcjF0VXBlN2F4RUZ3QXNveXdzSlU4VDVwMWFnU0R5NEcwT05OWFYtQlU1RlhiRzB5ZWRSQlJKZ0h0bGE4YU1KWWxmNHBPbHdUSmR1VTZPMnFqQVVmLXNLOHU5VGxlM3gzWjQxMXdkQUFvNklzQQ?oc=5>
+- 时间: 2026-06-06 14:04
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE9fSHRVRDA4N01HcDlUaVdSa0gxaVpHaml4X3hLZ19nZjZ5QWZJZ0RDREdDaHFtRHY0X01rdklEZTlwaUJnYXZjbHRGejZBajdGRzBJT2tDd3ZjNEctSHJLSDJDTUlhTFh4NjlXV2p5d1c2bTcydkE?oc=5>
 
-### 突然全线暴跌，特朗普传出大消息
+### 特朗普证实，的确对内塔尼亚胡爆了粗口
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-06-06 12:46
-- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE83c0Jyd2NiVTRxeGpFb09nMlRfLUdTX3RRQnVyakdkZzFKTTJzc05LcUFZRnotcVdVOVlSMDFXdHdiZERJazdzZzdFRERYZDJo?oc=5>
+- 时间: 2026-06-03 10:46
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1Lb2xKRHhEMGswLVFqbHpyb3dyZkhwTHBQUnEtOWtzdkljbGdINERJZUNLeDMtTHg2T2pqOTV5cXRDZTlhckl6SkpxcDg?oc=5>
+
+### 普京：感谢特朗普调教泽连斯基举止；“普泽会”现转机
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-06-06 07:55
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1yWFZaUFdpQmxXRzJuRjlCZGRtb1V3TGZIdzhnUUNHaTd5QXk2OGR3ZUw1LV9nc2xZdnV0V3BTemlBcmd3LWpKMFJMR2JNUFBabDJYN0xRRjBRRXc4VGZZWlRBQzRybDNkVjk1cE1seG4?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-06 15:50  (5 条)
+
+- **特朗普** | 专家：中国不是借口，而是榜样 <https://news.google.com/rss/articles/CBMic0FVX3lxTE5PSTRTalQxMHBCb3pNT1RUbUdLU2gyNFlIb3lselpoVzkzZXdFdElndWVJRWtNQlJBUWtrRHlfb2FKQk9xQTdLVkhnempJWUV2ckttbDREenRWYi1ZMHJVU3pBbmFOSzlfeVJmTXAwZjJoOEE?oc=5>
+- **特朗普** | 伊朗开价240亿美元，这可要了特朗普的命了…-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE5PSkk2NnRMYi1Ecnp3VW9TaWJjUE4tTUozeGdieGFKSjRSR2pBVXhSSWt2cmNpdHBySUFGMXB1OXU4R2N0eVdkaXUyTTh4WDBlRTRYTjR3dS1PZF9KVmxMOUtwM0ZNSWlvR0E?oc=5>
+- **特朗普** | “为了将人赶出美国，特朗普政府曾想‘赐死’270万人” <https://news.google.com/rss/articles/CBMidkFVX3lxTE9fSHRVRDA4N01HcDlUaVdSa0gxaVpHaml4X3hLZ19nZjZ5QWZJZ0RDREdDaHFtRHY0X01rdklEZTlwaUJnYXZjbHRGejZBajdGRzBJT2tDd3ZjNEctSHJLSDJDTUlhTFh4NjlXV2p5d1c2bTcydkE?oc=5>
+- **特朗普** | 特朗普证实，的确对内塔尼亚胡爆了粗口 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1Lb2xKRHhEMGswLVFqbHpyb3dyZkhwTHBQUnEtOWtzdkljbGdINERJZUNLeDMtTHg2T2pqOTV5cXRDZTlhckl6SkpxcDg?oc=5>
+- **特朗普** | 普京：感谢特朗普调教泽连斯基举止；“普泽会”现转机 <https://news.google.com/rss/articles/CBMicEFVX3lxTE1yWFZaUFdpQmxXRzJuRjlCZGRtb1V3TGZIdzhnUUNHaTd5QXk2OGR3ZUw1LV9nc2xZdnV0V3BTemlBcmd3LWpKMFJMR2JNUFBabDJYN0xRRjBRRXc4VGZZWlRBQzRybDNkVjk1cE1seG4?oc=5>
 
 ### 2026-06-06 14:26  (5 条)
 
