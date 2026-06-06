@@ -1,54 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-06 07:43**
-- 本轮扫到 2806 条, 新增 **5** 条
+- 最近更新: **2026-06-06 09:58**
+- 本轮扫到 2811 条, 新增 **5** 条
 
 ---
 
 ## 本轮新发现 (5 条)
 
-### 王一博进组《刺客》传闻不实，官方称以发布为准
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2653906910_9e2f67de040021nyk.html>
-
-### 普京：感谢特朗普
+### 特朗普“官宣”：我和马斯克又成朋友了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-06 04:57
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9BaFV5YWtDX1dZaXBhRUJoZnRPeWg4UFF5M3JoQmhNdXJtSXgwMDB1RGlaSzJrQng5MXBmOGMyVFhaS2tDM1UwX0VtYjBfN2tDekZfeWEyWHJ4aDN2dVRONThlWFFTZEFsUVBsazJ4a1U3djdDY2psbA?oc=5>
+- 场馆: 21财经
+- 时间: 2026-06-06 08:57
+- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxNX1l5WHlLUHhxTnVLbTBsTHJnbGJJd2ZlMG5iUkJsbFQyZHEyY2V1VkhxYVhYZkdXYlBSVEtLQkkxY1FYam94WnBIbFpPY29YVFZwdWdHRGRXUXJheVVjaHdHaEpGTG44akhPZndfcnAyeWZsTnF5TU82UndJQ3FTV2dXSmFySGs0MElnQ3V2TQ?oc=5>
 
-### 白宫幕僚长被曝与特朗普意见不合，准备辞职，本人严辞否认
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-06-06 06:00
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE92UXU1aUJua2FEa2FvSUNFVUtZcm8xMU9kSGxmV3FyZXp3XzF3OXo4cnlPZnhFS0VseS1vWFJzZzFycERMOG1XR1pqbEg?oc=5>
-
-### 特朗普称将迅速结束伊朗战事
+### 特朗普：我和马斯克已经“又成为朋友了”，他80%的时间很出色
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 央广网
-- 时间: 2026-06-06 04:33
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1EMDNtek9ETk9RRFVybFlqalJ6R1VJQTlPQUprS0dkb3lwaUFVeHNwcWI5YUhya2dJX3ZqemgxVnRoMEhCQVBhRExRRHRxOFBWOFdUdVVPLU5YNUNFNWYyajZHN0x2R2JRM25yZndmVnNFd2M?oc=5>
+- 场馆: Sina finance
+- 时间: 2026-06-06 08:47
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTFBtVEJ0b1F1bF85Z2F1SHJEWHZGamV6U2FWcHRyY0hDRTBMc2pFWTQ1YUxBbUh4NmFIdVI4eHRmcFF5WnBBdm9McS1Xemk2amZFMVR0aXBNSmNQQmRCZFVSZGl5S01Lb0tfWWhWeHpwejQ4WURsRkE?oc=5>
 
-### 特朗普称将迅速结束伊朗战事
+### 特朗普“官宣”：我和马斯克又成朋友了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新蓝网
-- 时间: 2026-06-06 00:32
-- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE95M3piUjZxY2JNS21tWEViMU1zd0JKS2VZeE4wUm5GdFpWTWhMcUhtdFZZWXh3ZXE0U3FiODhvaFd1VFVkM2FsQ2JLRXFxTzQ?oc=5>
+- 场馆: Sina finance
+- 时间: 2026-06-06 08:30
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBDVWtvZ2ptbHdrcXZCVk9uN3d4cmhhdTh1T1pDenA1Q2xlWXNEZFlyVEFEN0pyZGt3NUdFQ1NSNnctNGVnU0dEMkxNMjVwSm1nN2cyV01FNzBrdVM1aHVKWFkxUUVnLWlySGJiX1kzY2psZzRMMWlUSQ?oc=5>
+
+### 特朗普：只有中美，能从伊朗废墟中取出浓缩铀
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-06-06 03:09
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5jenhKWmd5NGxDeG1GbVhjcmlOU0l1Zl95ZFVSSVM5VjBjTzBkMFVmUmtIWVdzeFMyb1E2RHBDM1VIa1MyRkNZLVhqdFdENksyVTV2cE12MTVXX2ZQTWVlT01TOXBXc0VDdEE?oc=5>
+
+### 特朗普“官宣”：我和马斯克又成朋友了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-06-06 07:55
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE5iSFBfUUlCUjY2RExGcHJWYWE1aDU0ck9YT3RoeFIzblJHdnFJTWNOUEZHMzFjSm84dXprMmozZkE2OFlsdlY4NXNNaUlwQzI1UDc3X1dMQUIwSWtIWl9VdHhxVnl3MWZJTnkxdDdKWXNVb1Y5dUc3UFgzSlVIaWM?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-06 09:58  (5 条)
+
+- **特朗普** | 特朗普“官宣”：我和马斯克又成朋友了 <https://news.google.com/rss/articles/CBMijwFBVV95cUxNX1l5WHlLUHhxTnVLbTBsTHJnbGJJd2ZlMG5iUkJsbFQyZHEyY2V1VkhxYVhYZkdXYlBSVEtLQkkxY1FYam94WnBIbFpPY29YVFZwdWdHRGRXUXJheVVjaHdHaEpGTG44akhPZndfcnAyeWZsTnF5TU82UndJQ3FTV2dXSmFySGs0MElnQ3V2TQ?oc=5>
+- **特朗普** | 特朗普：我和马斯克已经“又成为朋友了”，他80%的时间很出色 <https://news.google.com/rss/articles/CBMidkFVX3lxTFBtVEJ0b1F1bF85Z2F1SHJEWHZGamV6U2FWcHRyY0hDRTBMc2pFWTQ1YUxBbUh4NmFIdVI4eHRmcFF5WnBBdm9McS1Xemk2amZFMVR0aXBNSmNQQmRCZFVSZGl5S01Lb0tfWWhWeHpwejQ4WURsRkE?oc=5>
+- **特朗普** | 特朗普“官宣”：我和马斯克又成朋友了 <https://news.google.com/rss/articles/CBMieEFVX3lxTFBDVWtvZ2ptbHdrcXZCVk9uN3d4cmhhdTh1T1pDenA1Q2xlWXNEZFlyVEFEN0pyZGt3NUdFQ1NSNnctNGVnU0dEMkxNMjVwSm1nN2cyV01FNzBrdVM1aHVKWFkxUUVnLWlySGJiX1kzY2psZzRMMWlUSQ?oc=5>
+- **特朗普** | 特朗普：只有中美，能从伊朗废墟中取出浓缩铀 <https://news.google.com/rss/articles/CBMiakFVX3lxTE5jenhKWmd5NGxDeG1GbVhjcmlOU0l1Zl95ZFVSSVM5VjBjTzBkMFVmUmtIWVdzeFMyb1E2RHBDM1VIa1MyRkNZLVhqdFdENksyVTV2cE12MTVXX2ZQTWVlT01TOXBXc0VDdEE?oc=5>
+- **特朗普** | 特朗普“官宣”：我和马斯克又成朋友了 <https://news.google.com/rss/articles/CBMif0FVX3lxTE5iSFBfUUlCUjY2RExGcHJWYWE1aDU0ck9YT3RoeFIzblJHdnFJTWNOUEZHMzFjSm84dXprMmozZkE2OFlsdlY4NXNNaUlwQzI1UDc3X1dMQUIwSWtIWl9VdHhxVnl3MWZJTnkxdDdKWXNVb1Y5dUc3UFgzSlVIaWM?oc=5>
 
 ### 2026-06-06 07:43  (5 条)
 
