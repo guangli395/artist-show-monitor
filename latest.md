@@ -1,48 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-06 17:05**
-- 本轮扫到 2836 条, 新增 **4** 条
+- 最近更新: **2026-06-06 18:46**
+- 本轮扫到 2837 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (1 条)
 
-### 白宫人工智能政策顾问斯里拉姆·克里希南即将离任
+### 转换 MMK 到 TRUMP | 缅甸元 兑换 OFFICIAL TRUMP 转换器
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-06 16:58
-- 链接: <https://news.google.com/rss/articles/CBMinwJBVV95cUxPZ2tTYUJNVFJEWXBtbVFaUHZXUFdid1NkOUlrSDVTUUwyQ2p2S1VfVUFkUzhuTFUxcXF0Y1BEaDJnczhWdHZhd0JGQ3BfeTBjUlhJOFdOcTJnNXJDUmxWdzFkeWNsN0dseW5iMFdNYm9wV2NjNkpCRW12aUkxNE81NmpnUGVUT1RMbjdJMW9OZXIxeVlMU2E2emNOVkVVNjNvUFkwQ3dQbHZFbkY2WFFucV8teWw5ZFpKZXc5X250MWRSSTJLcHptTUZBdUdTcG9xdXFlTGxzdVE3X3hmLUZKdDVERWVpYk8wRnpYUnhrM2dQQmxWanNmZ01jeWxxLUtGc1NaSVV0YUNCemI2VWdTalphYURIanc1a0JlclBIRQ?oc=5>
-
-### 央视：美国政府欲入股AI企业
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-06 16:36
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxNWkNUOGtyaWV0NHpUV1hvNFhLc3hkZWRITGR3V3dqRFozaEpwRHd1WHltaGx3MWxNZzI4aTBKZkUtLWR5MGFzSGR1UkFNbkhMY0hwOV9TTnFXdmFvem9HenZtWFdBN1dqV3hUUmJZbXhodktPUmQ2U0U2QW4yVW5Gd3VIdXNyTjRFdFI1b1FLY3prWFQxV3ZaVw?oc=5>
-
-### 特朗普：将很快从伊朗战事中“脱身” 但协议尚未达成
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-06-06 11:29
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9MQzNXVW9mOXNvS1RaT3Nadmg2enZseVBuVklqaXJNdTZ3SHJjMWxNcjB4QkpoWXVueDE0MHYyQVNJTTdzTjhpVFBjMA?oc=5>
-
-### 内坦亚胡承认与特朗普存在“战术分歧”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-06-03 23:24
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sV0IwM2NWdHUtMnBybGRrSWw0TmdjUmhYc3pjM3UzWjFGbWtyTlE5Q0tNZU1oZldwdktyajlDeUdJNjJBTkVjUmhZX29ySzZLN3ZRdGNLNWU0TkpDTnhvVVVqcUZOUQ?oc=5>
+- 场馆: OKX
+- 时间: 2026-06-06 18:00
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtRG01OC1KcTJjUUpJVkp6dmgyR0NHbE1mOWNtblJPc0x4U2ZPamk2V3NPalBKN2JDQ1JRMHdyQUExcjc1eTRmU1dDelhyTGNYXzBaWFJUZGZ5MExZV0tpVVZFZ2drNFE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-06 18:46  (1 条)
+
+- **Trump** | 转换 MMK 到 TRUMP | 缅甸元 兑换 OFFICIAL TRUMP 转换器 <https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtRG01OC1KcTJjUUpJVkp6dmgyR0NHbE1mOWNtblJPc0x4U2ZPamk2V3NPalBKN2JDQ1JRMHdyQUExcjc1eTRmU1dDelhyTGNYXzBaWFJUZGZ5MExZV0tpVVZFZ2drNFE?oc=5>
 
 ### 2026-06-06 17:05  (4 条)
 
