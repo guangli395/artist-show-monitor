@@ -1,32 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-05 22:39**
-- 本轮扫到 2782 条, 新增 **2** 条
+- 最近更新: **2026-06-06 00:01**
+- 本轮扫到 2787 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (5 条)
 
-### 美对台140亿美元军售案 特朗普：正在考虑中
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-06-05 21:19
-- 链接: <https://news.google.com/rss/articles/CBMisgJBVV95cUxPQUlDM2xxdGpHcG1RcHBlRW1mRWd5QUFYZ1FVYzVhZnNwOW1qZWtSQUR4T1MwZnR4TEZob3I0enh4TElJZDhCdGoyVlRZbDF0NG9OOERMa3poZHNOdF9aQUhYRkdhUWVqRmZVMlBCM3hmRHYzQTc2bkRyWEtmd3Q0aTRBOE9HbXJoQ2lBZFYwbTlQS3ZzSHJNVlBWRTA4T2FyM3ZaWE9nbTdMLVd1YWNxUWowZjVqZEFQRHRieC0xaGduTGVqMHAwRHhrQXFMUklTbzJhWHRlT1IyQlBMT2VhZ2owRm43V1lORGFDNnFDanp3ODZ5c2czX0p4VUZhdDU0dzQ2TGxIWFRZR3VuV04zQTVXNXBlYjQyOVRsOTgyb1dkam1pMzRDQndLQ0ZBRjk4T3c?oc=5>
-
-### 美众议院“限战”，特朗普会不会受约束？丨夜观天下
+### 特朗普提议对中国等60个贸易伙伴加征新关税
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 四川在线
-- 时间: 2026-06-05 11:34
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hVWpCcU0xZWgyNHY1Y291cWtMQU8tb3FtU29aX2RqR3o0TDZHSWJGNk9CemRCQjVHMlA2dFZKQmMwaGk4RENDcjR5U2VlYUQ4b2FGeS0xVUxLaENGd25RNA?oc=5>
+- 场馆: 纽约时报中文网
+- 时间: 2026-06-04 00:32
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE1mdUpRX0xoNGpnU2ItUU1nbzdsSUlBRFQ3ZUU5OTJfaW8zMTdwMFZUUmdESW4welo0WHRpOUJNb09YaFRtbTQ2OU40OHBJbWotZ3FfSzhWUml4UFR2VExJWDZJeUUyek5Tb0hoYnFTSERJMUl6bFE?oc=5>
+
+### 特朗普暗示美国政府有意入股顶尖人工智能公司
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-06-05 22:18
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxOV1VhVktBU01ZMXJ3MENFdlBCeHlSdWxaNGdKbTMxMGVCZEhzSGRqYU40aHdIdVVhNkRjTVYtSkZhbkFXNmFpQmNNR19EN2s2UGM0cncteUFGUGhyaXBjaUJBT3U3aTR1RGRUNW9kMmFGVWdqelJFZEtZd1hHNldGbkN2ejh0R0E?oc=5>
+
+### 牛弹琴：轮到伊朗威胁美国了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-06-05 23:37
+- 链接: <https://news.google.com/rss/articles/CBMijgJBVV95cUxQSUZ4SXNWOFBtUlVldkdzRW5HZjQxWUE5YVpkOUFMZ1F5cU1KTThEWWhSRk5HbVRTVkRPOGcycG5USUs1Tm9tZUFRRURpaFQ1UkJOOXJhb1NvSmRMYUdobFBqRWJoVzBsRmduQ2VySGtUWWVLRjNfMlhyTG03WlpsdklqVWhCX2NMSWU5MWpaR3hVT0Mwd3NLY1QxVGdTNXJ4T29RT3p4QVpiVjNUbG1SN01rQjg1NjRDcU5XcnZMQUtzb29SUF9WOEVkanB4LU9hcmdGQ3JiaVJxSUpUS2xnTFMzeUZ4cW5ZcV92V1ppNWc4NDY1ZENpRk1adEV4dnNJSHo1VmlGOEZ1MGxTUUE?oc=5>
+
+### Trump 承诺在燃料及化肥成本上升下为农民提供纾困
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: AASTOCKS.com
+- 时间: 2026-06-05 23:38
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTFBmWThQZk03SUJiUGN4QnVTTFp1Xzg0eG1uVnRwdXMxVFBZbkkyM3B1dl9ybVdBZWoxUVROV2QtVU5OSFpBcmxUZ0t6Q2NIYldaVnNxbFBNckNZcno3UXRvdDF0NVBOWUJ0bnJHODJLVQ?oc=5>
+
+### 特朗普AI备忘录料纾缓五角大楼与Anthropic争议
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: AASTOCKS.com
+- 时间: 2026-06-05 23:32
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTFBjTkdTZUVHUDF5NjdkQ3BySk0yYlVJQzJyMWtPdV8wTmd0TlJVNjhtc2I5WG5fLVdXbGJqcXJ5T0t5Mmh2Q1FkUTFUNWtJVkNJMTBxVlF3VHFmbDducmRIRWVHWlNmaGR2LW13RXNrUQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-06 00:01  (5 条)
+
+- **特朗普** | 特朗普提议对中国等60个贸易伙伴加征新关税 <https://news.google.com/rss/articles/CBMidkFVX3lxTE1mdUpRX0xoNGpnU2ItUU1nbzdsSUlBRFQ3ZUU5OTJfaW8zMTdwMFZUUmdESW4welo0WHRpOUJNb09YaFRtbTQ2OU40OHBJbWotZ3FfSzhWUml4UFR2VExJWDZJeUUyek5Tb0hoYnFTSERJMUl6bFE?oc=5>
+- **特朗普** | 特朗普暗示美国政府有意入股顶尖人工智能公司 <https://news.google.com/rss/articles/CBMihwFBVV95cUxOV1VhVktBU01ZMXJ3MENFdlBCeHlSdWxaNGdKbTMxMGVCZEhzSGRqYU40aHdIdVVhNkRjTVYtSkZhbkFXNmFpQmNNR19EN2s2UGM0cncteUFGUGhyaXBjaUJBT3U3aTR1RGRUNW9kMmFGVWdqelJFZEtZd1hHNldGbkN2ejh0R0E?oc=5>
+- **特朗普** | 牛弹琴：轮到伊朗威胁美国了 <https://news.google.com/rss/articles/CBMijgJBVV95cUxQSUZ4SXNWOFBtUlVldkdzRW5HZjQxWUE5YVpkOUFMZ1F5cU1KTThEWWhSRk5HbVRTVkRPOGcycG5USUs1Tm9tZUFRRURpaFQ1UkJOOXJhb1NvSmRMYUdobFBqRWJoVzBsRmduQ2VySGtUWWVLRjNfMlhyTG03WlpsdklqVWhCX2NMSWU5MWpaR3hVT0Mwd3NLY1QxVGdTNXJ4T29RT3p4QVpiVjNUbG1SN01rQjg1NjRDcU5XcnZMQUtzb29SUF9WOEVkanB4LU9hcmdGQ3JiaVJxSUpUS2xnTFMzeUZ4cW5ZcV92V1ppNWc4NDY1ZENpRk1adEV4dnNJSHo1VmlGOEZ1MGxTUUE?oc=5>
+- **Trump** | Trump 承诺在燃料及化肥成本上升下为农民提供纾困 <https://news.google.com/rss/articles/CBMib0FVX3lxTFBmWThQZk03SUJiUGN4QnVTTFp1Xzg0eG1uVnRwdXMxVFBZbkkyM3B1dl9ybVdBZWoxUVROV2QtVU5OSFpBcmxUZ0t6Q2NIYldaVnNxbFBNckNZcno3UXRvdDF0NVBOWUJ0bnJHODJLVQ?oc=5>
+- **Trump** | 特朗普AI备忘录料纾缓五角大楼与Anthropic争议 <https://news.google.com/rss/articles/CBMib0FVX3lxTFBjTkdTZUVHUDF5NjdkQ3BySk0yYlVJQzJyMWtPdV8wTmd0TlJVNjhtc2I5WG5fLVdXbGJqcXJ5T0t5Mmh2Q1FkUTFUNWtJVkNJMTBxVlF3VHFmbDducmRIRWVHWlNmaGR2LW13RXNrUQ?oc=5>
 
 ### 2026-06-05 22:39  (2 条)
 
