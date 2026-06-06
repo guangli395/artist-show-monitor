@@ -1,56 +1,91 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-06 09:58**
-- 本轮扫到 2811 条, 新增 **5** 条
+- 最近更新: **2026-06-06 11:27**
+- 本轮扫到 2819 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (8 条)
 
-### 特朗普“官宣”：我和马斯克又成朋友了
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 21财经
-- 时间: 2026-06-06 08:57
-- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxNX1l5WHlLUHhxTnVLbTBsTHJnbGJJd2ZlMG5iUkJsbFQyZHEyY2V1VkhxYVhYZkdXYlBSVEtLQkkxY1FYam94WnBIbFpPY29YVFZwdWdHRGRXUXJheVVjaHdHaEpGTG44akhPZndfcnAyeWZsTnF5TU82UndJQ3FTV2dXSmFySGs0MElnQ3V2TQ?oc=5>
-
-### 特朗普：我和马斯克已经“又成为朋友了”，他80%的时间很出色
+### 知情人士：美国政府考虑入股人工智能企业
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Sina finance
-- 时间: 2026-06-06 08:47
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTFBtVEJ0b1F1bF85Z2F1SHJEWHZGamV6U2FWcHRyY0hDRTBMc2pFWTQ1YUxBbUh4NmFIdVI4eHRmcFF5WnBBdm9McS1Xemk2amZFMVR0aXBNSmNQQmRCZFVSZGl5S01Lb0tfWWhWeHpwejQ4WURsRkE?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-06-06 10:45
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE15MDMzMUZ1YnI5QWd3OHJxaGt2RHBSNGJwNXJvdXIzSGJHSDY2Ym45ZVlpUklLbV9HV2h6OFc5MWVnajhFWnRrM3ZoNzhwT0psSjhBdjBzdDlfaFlEaUVMOUVxdEFCMG9lejhDVWdyNkY?oc=5>
 
-### 特朗普“官宣”：我和马斯克又成朋友了
+### 视频丨特朗普“官宣”：我和马斯克又成朋友了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Sina finance
-- 时间: 2026-06-06 08:30
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBDVWtvZ2ptbHdrcXZCVk9uN3d4cmhhdTh1T1pDenA1Q2xlWXNEZFlyVEFEN0pyZGt3NUdFQ1NSNnctNGVnU0dEMkxNMjVwSm1nN2cyV01FNzBrdVM1aHVKWFkxUUVnLWlySGJiX1kzY2psZzRMMWlUSQ?oc=5>
+- 场馆: thepaper.cn
+- 时间: 2026-06-06 08:13
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mNXNGTTJMZGJRZUhNWDAyZUdneEpUNEp3OUN2MDR2dXBjTGo3Z2RrVHVhVDNXMzRXeXUxV2RVVkN6N1hUbTZqblIyQVpIaWkyWVFtMXQ2UVhGMmYySVUtaA?oc=5>
 
-### 特朗普：只有中美，能从伊朗废墟中取出浓缩铀
+### 特朗普：我和马斯克又成朋友了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 观察者
-- 时间: 2026-06-06 03:09
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5jenhKWmd5NGxDeG1GbVhjcmlOU0l1Zl95ZFVSSVM5VjBjTzBkMFVmUmtIWVdzeFMyb1E2RHBDM1VIa1MyRkNZLVhqdFdENksyVTV2cE12MTVXX2ZQTWVlT01TOXBXc0VDdEE?oc=5>
+- 时间: 2026-06-06 10:16
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBpeVZQWTR0UVNJWk16WTBSUnIxMlpIaFNjbDN6Y29vVXVKeFdxNThoLTJxYWNVMEFQSm1HN19nWEZsdnJMMTJadVJ4czZTV190emFwSGlzdm95RS1Qbmp3NEozTG03cEhBNXc?oc=5>
 
-### 特朗普“官宣”：我和马斯克又成朋友了
+### 特朗普政府拆分“两房”计划面临新变数
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-06-06 07:55
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE5iSFBfUUlCUjY2RExGcHJWYWE1aDU0ck9YT3RoeFIzblJHdnFJTWNOUEZHMzFjSm84dXprMmozZkE2OFlsdlY4NXNNaUlwQzI1UDc3X1dMQUIwSWtIWl9VdHhxVnl3MWZJTnkxdDdKWXNVb1Y5dUc3UFgzSlVIaWM?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-06-06 02:13
+- 链接: <https://news.google.com/rss/articles/CBMingJBVV95cUxONUdsUGxENWQtU3VCQ2tyUWNmMjZ0NUwtWEM2VHRZdno2Q0NjZ09FTVBldEJOa2JGeVpycUVlZTFVdXQ5ZS1rT2pabXdwQXpibXFxSFlCb3BxZDItOHZZOEdzN09GVkJLRVVZU2VfVk52TnFPeWxqcGxhTDMwczJfelFCR2VOYXBIWjQ3U0NfYW4zaXR1UzA3OWdwQWRtaVdaQU5HY3FqYmIwS2tCMTJVT2tnZXpTbGdmVUlKWlZoR0ZQZ29ZcnVKZi1oTkR0bUlSa3g2U2JsTFFGYUpDWjduM0ZwMVY5RmNnMGVwMlBsbUM1a0otc2xhbEpIeVlxMHNDV2RpaWxmbURLdmN2YmowQVU3RkZSNkNXVTRlb253?oc=5>
+
+### 特朗普，“脏话连篇骂老友”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-06-06 01:56
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBoSHhkOWZjeElHUGgwNzdUZEY2dlNua3Z0Y1dEcHpmOUl4UFJZQUU5RHNYRXMyeWFxU3dyQTEyUWlsWE5PUjFYMXRVdVY?oc=5>
+
+### 特朗普称黎以和平谈判取得一定进展
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-06-04 20:16
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9BZFRSalBoLXZIbWk2WlZnT2hCS2F4dm9Wd1dUSVFWR2pXT1FiZTAtZ1ZYb21oUzBubjRlYU0tV3FTenQ5WElpLWk4LVp2aWlBblBXRVFLd29zcHFpa3FFUXhwZ1doWFN2cFBxX3plbEo3dkR3Y29pRw?oc=5>
+
+### 美众议院通过决议 限制特朗普对伊动武权力
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-06-03 23:37
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1rYmo5b2k3RWk3ZnJRTktqcDV0R09BR1R6R1ZfcHJ6M0JSZ2dRWEVYRXdIdWVETlBycDczUFMwVkZuWmhFSWVhY3laY1R1bHdUdlJTQkJQUTlaVXFVLW9TdS1jeXZvYTZpcWxmVE1pR2lkLTFFaXpXNHE5MlRkMmc?oc=5>
+
+### 美众议院决议要求特朗普结束伊战 共和党倒戈议员直言人民厌倦了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 财新
+- 时间: 2026-06-04 05:48
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBFR0FCVUZrUVZ6a0I5MTUtTFlITVBWUmVlSGNRVXM2dHdYell2NkI4Yy11Vm9EQVliaGhZYmZGOHNjVHp2YncycnFwZGdha1l5YTUybFpRMVl6MlZUSm41NGJ5RHR3V3lQdnc?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-06 11:27  (8 条)
+
+- **特朗普** | 知情人士：美国政府考虑入股人工智能企业 <https://news.google.com/rss/articles/CBMicEFVX3lxTE15MDMzMUZ1YnI5QWd3OHJxaGt2RHBSNGJwNXJvdXIzSGJHSDY2Ym45ZVlpUklLbV9HV2h6OFc5MWVnajhFWnRrM3ZoNzhwT0psSjhBdjBzdDlfaFlEaUVMOUVxdEFCMG9lejhDVWdyNkY?oc=5>
+- **特朗普** | 视频丨特朗普“官宣”：我和马斯克又成朋友了 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mNXNGTTJMZGJRZUhNWDAyZUdneEpUNEp3OUN2MDR2dXBjTGo3Z2RrVHVhVDNXMzRXeXUxV2RVVkN6N1hUbTZqblIyQVpIaWkyWVFtMXQ2UVhGMmYySVUtaA?oc=5>
+- **特朗普** | 特朗普：我和马斯克又成朋友了 <https://news.google.com/rss/articles/CBMiakFVX3lxTFBpeVZQWTR0UVNJWk16WTBSUnIxMlpIaFNjbDN6Y29vVXVKeFdxNThoLTJxYWNVMEFQSm1HN19nWEZsdnJMMTJadVJ4czZTV190emFwSGlzdm95RS1Qbmp3NEozTG03cEhBNXc?oc=5>
+- **特朗普** | 特朗普政府拆分“两房”计划面临新变数 <https://news.google.com/rss/articles/CBMingJBVV95cUxONUdsUGxENWQtU3VCQ2tyUWNmMjZ0NUwtWEM2VHRZdno2Q0NjZ09FTVBldEJOa2JGeVpycUVlZTFVdXQ5ZS1rT2pabXdwQXpibXFxSFlCb3BxZDItOHZZOEdzN09GVkJLRVVZU2VfVk52TnFPeWxqcGxhTDMwczJfelFCR2VOYXBIWjQ3U0NfYW4zaXR1UzA3OWdwQWRtaVdaQU5HY3FqYmIwS2tCMTJVT2tnZXpTbGdmVUlKWlZoR0ZQZ29ZcnVKZi1oTkR0bUlSa3g2U2JsTFFGYUpDWjduM0ZwMVY5RmNnMGVwMlBsbUM1a0otc2xhbEpIeVlxMHNDV2RpaWxmbURLdmN2YmowQVU3RkZSNkNXVTRlb253?oc=5>
+- **特朗普** | 特朗普，“脏话连篇骂老友” <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBoSHhkOWZjeElHUGgwNzdUZEY2dlNua3Z0Y1dEcHpmOUl4UFJZQUU5RHNYRXMyeWFxU3dyQTEyUWlsWE5PUjFYMXRVdVY?oc=5>
+- **特朗普** | 特朗普称黎以和平谈判取得一定进展 <https://news.google.com/rss/articles/CBMieEFVX3lxTE9BZFRSalBoLXZIbWk2WlZnT2hCS2F4dm9Wd1dUSVFWR2pXT1FiZTAtZ1ZYb21oUzBubjRlYU0tV3FTenQ5WElpLWk4LVp2aWlBblBXRVFLd29zcHFpa3FFUXhwZ1doWFN2cFBxX3plbEo3dkR3Y29pRw?oc=5>
+- **特朗普** | 美众议院通过决议 限制特朗普对伊动武权力 <https://news.google.com/rss/articles/CBMif0FVX3lxTE1rYmo5b2k3RWk3ZnJRTktqcDV0R09BR1R6R1ZfcHJ6M0JSZ2dRWEVYRXdIdWVETlBycDczUFMwVkZuWmhFSWVhY3laY1R1bHdUdlJTQkJQUTlaVXFVLW9TdS1jeXZvYTZpcWxmVE1pR2lkLTFFaXpXNHE5MlRkMmc?oc=5>
+- **特朗普** | 美众议院决议要求特朗普结束伊战 共和党倒戈议员直言人民厌倦了 <https://news.google.com/rss/articles/CBMiakFVX3lxTFBFR0FCVUZrUVZ6a0I5MTUtTFlITVBWUmVlSGNRVXM2dHdYell2NkI4Yy11Vm9EQVliaGhZYmZGOHNjVHp2YncycnFwZGdha1l5YTUybFpRMVl6MlZUSm41NGJ5RHR3V3lQdnc?oc=5>
 
 ### 2026-06-06 09:58  (5 条)
 
