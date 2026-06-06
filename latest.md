@@ -1,24 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-06 20:06**
-- 本轮扫到 2838 条, 新增 **1** 条
+- 最近更新: **2026-06-06 21:35**
+- 本轮扫到 2840 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮新发现 (2 条)
 
-### 特朗普发推文Trump 007_新浪新闻
+### 特朗普仍考虑与赖清德通话 美促台“更聪明”投资国防
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-06-03 08:54
-- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTE9uVE9DZElOZGJwY1lkQ2N3eUpmWkJSU2FhX29sZWdVTTRyWlBoMTc5YktxX2ZQV3RYR0F2YUFBdllJTVhUczdla3Nya3dQZUJHX2JUakZqOExINFNUbzVuZU5zRQ?oc=5>
+- 场馆: DW
+- 时间: 2026-06-06 10:52
+- 链接: <https://news.google.com/rss/articles/CBMi0gJBVV95cUxNV3dqbGx2Rk5JbzFzM01KaFdNWGt5YmdSQkhIeWFwb1o0YTdSSEVPX0FFRHJfczN1aFlaZ2JQVTRyc3M4ek1BQUlyVGJla25xZ3V6bE5TZ2hRWXNXY0lNamltY2VMQk45azVqa3pTM0dSWTZFS1VPRlBmb3pKanV1OHVETE1LNUJiSzMwakZ6eFh5TnM5UWl5Vk9hekx4X2IzY2VrOUJUR0JGT1NpNWxwR3pjc1hmRlNXbHk4WENIS1J3VTJrN1NZd3A4MmtrYmVEdnlwYzB6dDFhWEtobEJCUXpsNkhBYmlDNlpPc0FKdm1ta2lIS2p0S2NsZjltVUJqSEkzOEh2M2EwcUhPbUdSWGJ3WVBuQWhfRkd1RHJtMlpmWEg5NVo3MWVGODRFbkFBM3N5TEtyU0ZSUVdlSzNobTlQUWs4VTFWVTA2S2xOcDhfQQ?oc=5>
+
+### 美国政府考虑入股AI企业，让这些企业“自愿将股份转让给政府”，投资回报用于公共用途！特朗普：让普通民众能够分享AI产业发展的成果
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 每日经济新闻
+- 时间: 2026-06-06 11:36
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFAzVFlJQnRPaE1tSU9ZR2QzcFR0bTJjRzFNcWpMWlZWaEt0YW1JbjVlMnhTd00zdi11WVMwb1hKaEd2eXhXTDlWcFhJMk5US3NmdUFqMC02ZGlBU3hUX2pqV3JGam42UQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-06 21:35  (2 条)
+
+- **特朗普** | 特朗普仍考虑与赖清德通话 美促台“更聪明”投资国防 <https://news.google.com/rss/articles/CBMi0gJBVV95cUxNV3dqbGx2Rk5JbzFzM01KaFdNWGt5YmdSQkhIeWFwb1o0YTdSSEVPX0FFRHJfczN1aFlaZ2JQVTRyc3M4ek1BQUlyVGJla25xZ3V6bE5TZ2hRWXNXY0lNamltY2VMQk45azVqa3pTM0dSWTZFS1VPRlBmb3pKanV1OHVETE1LNUJiSzMwakZ6eFh5TnM5UWl5Vk9hekx4X2IzY2VrOUJUR0JGT1NpNWxwR3pjc1hmRlNXbHk4WENIS1J3VTJrN1NZd3A4MmtrYmVEdnlwYzB6dDFhWEtobEJCUXpsNkhBYmlDNlpPc0FKdm1ta2lIS2p0S2NsZjltVUJqSEkzOEh2M2EwcUhPbUdSWGJ3WVBuQWhfRkd1RHJtMlpmWEg5NVo3MWVGODRFbkFBM3N5TEtyU0ZSUVdlSzNobTlQUWs4VTFWVTA2S2xOcDhfQQ?oc=5>
+- **特朗普** | 美国政府考虑入股AI企业，让这些企业“自愿将股份转让给政府”，投资回报用于公共用途！特朗普：让普通民众能够分享AI产业发展的成果 <https://news.google.com/rss/articles/CBMiZkFVX3lxTFAzVFlJQnRPaE1tSU9ZR2QzcFR0bTJjRzFNcWpMWlZWaEt0YW1JbjVlMnhTd00zdi11WVMwb1hKaEd2eXhXTDlWcFhJMk5US3NmdUFqMC02ZGlBU3hUX2pqV3JGam42UQ?oc=5>
 
 ### 2026-06-06 20:06  (1 条)
 
