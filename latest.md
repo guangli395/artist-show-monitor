@@ -1,126 +1,62 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-06 04:34**
-- 本轮扫到 2801 条, 新增 **14** 条
+- 最近更新: **2026-06-06 07:43**
+- 本轮扫到 2806 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (14 条)
+## 本轮新发现 (5 条)
 
-### 周杰伦北京演唱会门票难抢，粉丝称只能加价购买
+### 王一博进组《刺客》传闻不实，官方称以发布为准
 
-- 艺人/关键词: **周杰伦**
+- 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2292724833_88a83461040018rkq.html>
+- 链接: <https://k.sina.com.cn/article_2653906910_9e2f67de040021nyk.html>
 
-### 特朗普称将迅速结束伊朗战事
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 央视网
-- 时间: 2026-06-06 01:35
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5Rako4cHZ4bEk4dlN1NkFBMTZENmlIakR0TExVTjlodS01TE9qSmU3cTFSRzI1TjQ1a0xweXlBTjQ3a3gxNFF4dnh3ek1Lb0tPLTByUmROd3k4eEs4X2YwT2FYbFdUZnFjdUhHc0tmV3B2VjBYR05mVQ?oc=5>
-
-### 特朗普政府拟斥资7亿美元扶持煤电
+### 普京：感谢特朗普
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-05 09:53
-- 链接: <https://news.google.com/rss/articles/CBMiowFBVV95cUxPQjRGR1ZXZmpiNS1fWFhCQzJBcktvQWZRY2ptYmNNcjVNTDBJaU4yVUQ0N0RUZTVTa2dvaTNlMEdYVnQwX1FoclFrdkJvdGk2cXBwbEpEck1DOUdMSTVkSkNpbWhzMWdJYmJIeTNoLS15X0VHeU5qUURDb3h0eE5oQkJLdlNsMFRLZ3NmTk1GYVVUa09Jb2ZmM0RPMS12NHJMZE1Z?oc=5>
+- 时间: 2026-06-06 04:57
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9BaFV5YWtDX1dZaXBhRUJoZnRPeWg4UFF5M3JoQmhNdXJtSXgwMDB1RGlaSzJrQng5MXBmOGMyVFhaS2tDM1UwX0VtYjBfN2tDekZfeWEyWHJ4aDN2dVRONThlWFFTZEFsUVBsazJ4a1U3djdDY2psbA?oc=5>
 
-### 特朗普改口：肯尼迪中心将继续由我而非国会掌管
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 环球网
-- 时间: 2026-06-05 11:29
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zUmJaVzlvbkRlLWVYMGxEYXV3WjZPT214Ymhzc3hyS2tZaV9UVlI3LXk4V3NKNE1WUFVUWk5SMDlReFRSZWlWbERFWnkxX0ZyR0ppYU5sQ0g?oc=5>
-
-### 国际｜特朗普戴冬奥金牌后开玩笑 此时其民调支持率接近历史最低
+### 白宫幕僚长被曝与特朗普意见不合，准备辞职，本人严辞否认
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-06-05 09:00
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBrOHJvT0N5ZWFyaUszY1pBdzdlUnBfY3p4NHA5eHJsTWNCNUlLczR2WnFlVy1mWU9NdDFqTC1SNGYxRHNMN014dzk3ODV2X1RYSEZpYXpNX1B6WjloVE5peGRRb0g?oc=5>
-
-### 特朗普长子称不会投资中国：不能假装中国是盟友
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-06-04 23:37
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBNdktEX3BhRUVKeWoweWI3QUtYSkxEdGJzLVJISTBRX0gtZlB4aElGY09ZbFhQTGg1Z2VZd2F0UXVveE9IOFdFdDMwWDJPdzgyekZrcVNZUGxMQ0U4aHVGZkVUVFZLQQ?oc=5>
-
-### 特朗普政府加强经济封锁，外资纷纷撤离古巴
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-06-05 02:59
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFBqcExDczY2dUpDU2ZlMjNNR1gzZGIxNWtxSElQTWpZaXZ3VF9pNWY3MnNHQTB5WjFXLWtpRVYyVks3YlNNdk5KZG53bGJQQlUtVjhNZ2w1ZDRaNE1samdtSWpVck85Z0ZQLW53Z3RENFFpdw?oc=5>
-
-### 新华社消息丨特朗普说将迅速结束伊朗战事
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-06-06 01:57
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE5CVmg0VFBidEpIdWtYSlpQNE5Ea2NIZVgxY2ktYUhCdVZwb0Z5WGxBLUhwRVZ3R1p3M0pfeW9zZXQxd1MtREpSemFqdWtaRkZadGIyRW9CcHJOT1Q4eS1ubnpESjNsaHFmOUV2WGg5R1FucU9WVFE?oc=5>
-
-### 为提振选情？特朗普称将迅速结束伊朗战事
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-06-06 00:40
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zZC1uWFBLNjRQSGVvbThtUXctMVlqRmN6ZS1PT1BDUS1UelRTblVKTmQ1enNHRDJxUFdPR2I4MkVkOXdkcWcwWWlmVWFyTUQ0M3VnNWd3ckkza29Sbld5MmV3QTVMM2dC?oc=5>
-
-### 特朗普：要么我们入股AI企业？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-06-05 23:51
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFA5M3FtclZPTjFfQzUzbHk2VG5zdUJ5QzNaSXJwX0pibUdTdHFnZDNtemVOUXVKaVdkblgwMG1NM1BlMUt4ZWE4YXRYRGR2S3ZoS0hJTHZhQThzWHZGaVRHbzRWb09DRXk4ZGc?oc=5>
-
-### 新华社消息丨特朗普说将迅速结束伊朗战事
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-06-06 02:04
-- 链接: <https://news.google.com/rss/articles/CBMimgFBVV95cUxONGZZeHVsTFVRa0l6UVRVT1V4TXBqbFd0UWx0d0dDdkNUNmhMdHVXVWdkVFJsQWdGZXhGb0tOVWI1a0JJeXB2ajFRRVhlLTVzRF9DLWNKOVNWVXhqOW1MbjA5dmZsTDlSZGFiWHNYMHFMdE1IT1FhU2pRNmhFcjA0Qm5QZHhjc01hcEZnTmlkUzd4VEl1NGJxWVV3?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-06-06 06:00
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE92UXU1aUJua2FEa2FvSUNFVUtZcm8xMU9kSGxmV3FyZXp3XzF3OXo4cnlPZnhFS0VseS1vWFJzZzFycERMOG1XR1pqbEg?oc=5>
 
 ### 特朗普称将迅速结束伊朗战事
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中安在线
-- 时间: 2026-06-06 00:21
-- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTE1LVF9zV3NRdGN2aTdFaWlUSzJCNXBiMVFlbGlEeTlfMFVkT1ZrcVpQcFZmZllIWHE4Zm54YUNMZFlGMXIyOWItc2FZQWNFZTltbHhOTnZBVlRrRkRKNm03VzJQRTBIUHF5Tkk5Qnln?oc=5>
+- 场馆: 央广网
+- 时间: 2026-06-06 04:33
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1EMDNtek9ETk9RRFVybFlqalJ6R1VJQTlPQUprS0dkb3lwaUFVeHNwcWI5YUhya2dJX3ZqemgxVnRoMEhCQVBhRExRRHRxOFBWOFdUdVVPLU5YNUNFNWYyajZHN0x2R2JRM25yZndmVnNFd2M?oc=5>
 
-### Trump 承诺在燃料及化肥成本上升下为农民提供纾困财经新闻Financial News
+### 特朗普称将迅速结束伊朗战事
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: AASTOCKS.com
-- 时间: 2026-06-05 23:38
-- 链接: <https://news.google.com/rss/articles/CBMihgFBVV95cUxOMmVTVEc4SExWRmNOU2cxM2VhNGlBQ0FFQWthQlFNa2ZVY3pkdGpDOG1ZY3RiMDZPd29adVJnSzFRRURRcE9OR0hId2xVSDVOVnA3bThueTA1SExBY0pmWTZIOVFhc3Q0UTlzdzg2aU9IU25SelJ1X0VUNnVMdDZGSExlU2RXZw?oc=5>
-
-### 特朗普敦促“受束缚更少”的普尔特解雇大量情报机构雇员
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-06-06 01:03
-- 链接: <https://news.google.com/rss/articles/CBMirgFBVV95cUxNdTQzTVhvQXRkZjhiR0V0MHF6UUVRQmN4UnRId29sMlpzQkc4QndicHYzQktBejNmai0zMG1TM2N2M3hWZDlmbmdKaXZERmg0RkFUV19nMDdkVTNkWW5SYlJYSzdfMC03OGREVUVzbWx4ZkZfX1VqdlBqM3hvTlQwdUNiUkpUYUdoa1lRZThtazlGU3d5YjNTTUhseG5zaVh1blZEdmNrYm9IWXpCVFE?oc=5>
+- 场馆: 新蓝网
+- 时间: 2026-06-06 00:32
+- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE95M3piUjZxY2JNS21tWEViMU1zd0JKS2VZeE4wUm5GdFpWTWhMcUhtdFZZWXh3ZXE0U3FiODhvaFd1VFVkM2FsQ2JLRXFxTzQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-06 07:43  (5 条)
+
+- **王一博** | 王一博进组《刺客》传闻不实，官方称以发布为准 <https://k.sina.com.cn/article_2653906910_9e2f67de040021nyk.html>
+- **特朗普** | 普京：感谢特朗普 <https://news.google.com/rss/articles/CBMieEFVX3lxTE9BaFV5YWtDX1dZaXBhRUJoZnRPeWg4UFF5M3JoQmhNdXJtSXgwMDB1RGlaSzJrQng5MXBmOGMyVFhaS2tDM1UwX0VtYjBfN2tDekZfeWEyWHJ4aDN2dVRONThlWFFTZEFsUVBsazJ4a1U3djdDY2psbA?oc=5>
+- **特朗普** | 白宫幕僚长被曝与特朗普意见不合，准备辞职，本人严辞否认 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE92UXU1aUJua2FEa2FvSUNFVUtZcm8xMU9kSGxmV3FyZXp3XzF3OXo4cnlPZnhFS0VseS1vWFJzZzFycERMOG1XR1pqbEg?oc=5>
+- **特朗普** | 特朗普称将迅速结束伊朗战事 <https://news.google.com/rss/articles/CBMic0FVX3lxTE1EMDNtek9ETk9RRFVybFlqalJ6R1VJQTlPQUprS0dkb3lwaUFVeHNwcWI5YUhya2dJX3ZqemgxVnRoMEhCQVBhRExRRHRxOFBWOFdUdVVPLU5YNUNFNWYyajZHN0x2R2JRM25yZndmVnNFd2M?oc=5>
+- **特朗普** | 特朗普称将迅速结束伊朗战事 <https://news.google.com/rss/articles/CBMiT0FVX3lxTE95M3piUjZxY2JNS21tWEViMU1zd0JKS2VZeE4wUm5GdFpWTWhMcUhtdFZZWXh3ZXE0U3FiODhvaFd1VFVkM2FsQ2JLRXFxTzQ?oc=5>
 
 ### 2026-06-06 04:34  (14 条)
 
