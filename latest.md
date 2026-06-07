@@ -1,72 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-07 16:10**
-- 本轮扫到 2879 条, 新增 **7** 条
+- 最近更新: **2026-06-07 17:46**
+- 本轮扫到 2881 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (2 条)
 
-### 特朗普：在达成和平协议之前 不会解冻伊朗资产
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-07 14:11
-- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxNN1U3NTNFVHpwRlQ3R0VUc1dTSk42bFJuOXI2QjVHcm5NUXdzYTZIU2JOOEJHeWhkYjNPOWlLTEJCY00tQnllcEUxeWZqUzNYZTNjYzlLOXdDMFdTUHNnY1A5TFlqOEtjN1pqcGZPdHhadE5adHVHbGd2dGlnb2xCUmlvYUFNTFJsaW50ZXp5bzQ0MFBWNGtTOVJDajU?oc=5>
-
-### 特朗普表示，迅速实现和平存在一定阻碍，原因是这需要伊朗彻底转变其长期以来对美国的立场。
+### 美军准备处决四名死囚，正等待特朗普下令
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-07 13:38
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFByVHZaNEpvT0YzYkRSXzlvR2JmSTJGU21kc2lWNEtGX0VsZkZkNGhFYkViV2c2RTZTX2FzcFVGSDBEU0RjZGdiU1RWYw?oc=5>
+- 时间: 2026-06-07 16:12
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE9ldDVpV25NZTRWR0N1LVM3UUYteDd4U0JodGkzWWp5MURtNy0tMzZIUmNSeUpJSFBSMXFzZ3dhejctUDFGOVZzLWRRMS1QajlvNmI4SzJKX0pGamlZU0QyZVJiLVdxVTZuNXI0S3Rqc1RqRE1lYmc?oc=5>
 
-### 特朗普最新发声
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪军事
-- 时间: 2026-06-07 16:01
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFB5ODU4Wk1lbWdpTTc0LXAwZUJHTkRnVVNIeWxsRTl2d1k5RGNyQ3RUZUsycXdHaTEwX252UGQxd1FvSGpNQ1c5OHpMbUNMXzBhN3BJeTZvOTVMWG1yOGZFNGJac01zQWpzWFE3QjNjenJ4RzQ?oc=5>
-
-### 学者：特朗普外交抑制了两极化阵营化 重塑美国外交基调
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网新闻
-- 时间: 2026-06-07 15:18
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBrVGRORUZScllmeGNZWFFnTGdvRzFlMmQ1T0x5bWFnZWx5ZTYxajlCSHpnSm14SWNJTmoyRFRqVVFMUE0xWDkyZ2hfM0gyRDBOWXZ5UUhzdGt3dVJDbFNlZE9ZRzRzS2ZKX244bDUwYnk?oc=5>
-
-### 美军拟时隔65年重启死刑，只等特朗普签字
+### 特朗普女儿女婿，在欧洲被“火烈鸟”围剿了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-06-07 08:57
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFB4R0tnXzd4RndPSHJnTXJoMmZfc0g0NnczekhzOUZWNXVvR2I0bjBsNlcyUVBsTE5IV28wV2d2ZEE1T1pmVU5lSEpIREs?oc=5>
-
-### 特朗普：我要爆个小料
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-06-07 06:47
-- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeUtWZEZSR1Q1V09VMGhzX0t3WWlsZWNRLUU2MXJpNUZjWHJWYnFXNlFBbWFEVlVpM0RYNmN1U0o2Yl93cmF3dC0zc2FCdTBfUVZKX2xtbnVrUGZFOTBCQlhIMUthYWhsZDFuR3BadEZ2blRBU2Y1cVhQMTZBRnpNMFhvTEdtanlV?oc=5>
-
-### 特朗普称美伊达成协议前不会解冻伊朗资产
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: qzwb.com
-- 时间: 2026-06-07 15:59
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE1kdGRCdjJWZ1ZmZmFzanVkM3pHZzc2TzBabVg4Z2gwSE8wSFJvQ0UwQTJOZVZZeUpQRnRxakRNeTRYdUthSDNrNEFKQnhxZzhMeUNUbGg2bHphbmlRcUlHOGZrNndGVUtOWWRicVZDSQ?oc=5>
+- 时间: 2026-06-07 00:26
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5SM090b0syQzR2UlVPUzJaUWZQcTNFSDR1MHNkTjgyNnd1YlBoWXBhSlh5cTY0UTl2U2pqNGhxWG9JVUNoNGVnbWxkMUo?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-07 17:46  (2 条)
+
+- **特朗普** | 美军准备处决四名死囚，正等待特朗普下令 <https://news.google.com/rss/articles/CBMidkFVX3lxTE9ldDVpV25NZTRWR0N1LVM3UUYteDd4U0JodGkzWWp5MURtNy0tMzZIUmNSeUpJSFBSMXFzZ3dhejctUDFGOVZzLWRRMS1QajlvNmI4SzJKX0pGamlZU0QyZVJiLVdxVTZuNXI0S3Rqc1RqRE1lYmc?oc=5>
+- **特朗普** | 特朗普女儿女婿，在欧洲被“火烈鸟”围剿了 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5SM090b0syQzR2UlVPUzJaUWZQcTNFSDR1MHNkTjgyNnd1YlBoWXBhSlh5cTY0UTl2U2pqNGhxWG9JVUNoNGVnbWxkMUo?oc=5>
 
 ### 2026-06-07 16:10  (7 条)
 
