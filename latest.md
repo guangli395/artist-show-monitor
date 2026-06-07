@@ -1,17 +1,11 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-07 14:53**
-- 本轮扫到 2872 条, 新增 **6** 条
+- 最近更新: **2026-06-07 16:10**
+- 本轮扫到 2879 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (6 条)
-
-### 周杰伦新专辑在哪里预约预售？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906dwgq.html>
+## 本轮新发现 (7 条)
 
 ### 特朗普：在达成和平协议之前 不会解冻伊朗资产
 
@@ -19,44 +13,70 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-06-07 14:11
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxQZHRLN1F2YVpLaTg1b1lFMUJxMC1BR2lMVTR1Um8tZUFWcTNWS3BQYlQ5ZzRSdTVoOFFjaWh6X2J1ak1iNlcwamZOZkZ2Yk5KdU02YWdBbnRQaEExNXIwM0tSbEpIOW02VFNvSm90SHlHSlpJVGlVeF80YVFwSXFMdEd3NFR1a28?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxNN1U3NTNFVHpwRlQ3R0VUc1dTSk42bFJuOXI2QjVHcm5NUXdzYTZIU2JOOEJHeWhkYjNPOWlLTEJCY00tQnllcEUxeWZqUzNYZTNjYzlLOXdDMFdTUHNnY1A5TFlqOEtjN1pqcGZPdHhadE5adHVHbGd2dGlnb2xCUmlvYUFNTFJsaW50ZXp5bzQ0MFBWNGtTOVJDajU?oc=5>
 
-### 特朗普要去现场看NBA总决赛，观众将接受“特勤局级别”安检
+### 特朗普表示，迅速实现和平存在一定阻碍，原因是这需要伊朗彻底转变其长期以来对美国的立场。
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-06-07 13:38
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFByVHZaNEpvT0YzYkRSXzlvR2JmSTJGU21kc2lWNEtGX0VsZkZkNGhFYkViV2c2RTZTX2FzcFVGSDBEU0RjZGdiU1RWYw?oc=5>
+
+### 特朗普最新发声
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪军事
+- 时间: 2026-06-07 16:01
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFB5ODU4Wk1lbWdpTTc0LXAwZUJHTkRnVVNIeWxsRTl2d1k5RGNyQ3RUZUsycXdHaTEwX252UGQxd1FvSGpNQ1c5OHpMbUNMXzBhN3BJeTZvOTVMWG1yOGZFNGJac01zQWpzWFE3QjNjenJ4RzQ?oc=5>
+
+### 学者：特朗普外交抑制了两极化阵营化 重塑美国外交基调
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网新闻
+- 时间: 2026-06-07 15:18
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBrVGRORUZScllmeGNZWFFnTGdvRzFlMmQ1T0x5bWFnZWx5ZTYxajlCSHpnSm14SWNJTmoyRFRqVVFMUE0xWDkyZ2hfM0gyRDBOWXZ5UUhzdGt3dVJDbFNlZE9ZRzRzS2ZKX244bDUwYnk?oc=5>
+
+### 美军拟时隔65年重启死刑，只等特朗普签字
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-06-07 12:37
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9PY3lPWHVfZ3pHa1ZDckotenh4ektlZVJISHNGWlpDaDQ5dzlMYkFjckNid0NEb3J1OWVCelFzTm51SWtSamxMZGljU3I?oc=5>
+- 时间: 2026-06-07 08:57
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFB4R0tnXzd4RndPSHJnTXJoMmZfc0g0NnczekhzOUZWNXVvR2I0bjBsNlcyUVBsTE5IV28wV2d2ZEE1T1pmVU5lSEpIREs?oc=5>
 
-### 特朗普称解冻伊朗资产或解除制裁不是协议先决条件
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-06-07 13:56
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBmQ043ZGQ3S1Q1RzQ1dHF0UEMtU2ZHbVlmOV93VW5yTG9objZQUEcxd1haNklmUVR1dDJkVmswUmJ2dDM0TTNoRDVScmdlWFpBQ3hqclhxT1NIOXJDODdoRA?oc=5>
-
-### 特朗普称解冻伊朗资产或解除制裁不是协议先决条件
+### 特朗普：我要爆个小料
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-06-07 13:39
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1hUDlFajR1NkQ2cGlOX3lJUUNvREpMTGFYQ3JTbkZCYUtmRC1pNTJtQ1ZBdkdmMDNXcXZxel8wam9YVEVYMTVwbUwwbVc?oc=5>
+- 场馆: 搜狐网
+- 时间: 2026-06-07 06:47
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeUtWZEZSR1Q1V09VMGhzX0t3WWlsZWNRLUU2MXJpNUZjWHJWYnFXNlFBbWFEVlVpM0RYNmN1U0o2Yl93cmF3dC0zc2FCdTBfUVZKX2xtbnVrUGZFOTBCQlhIMUthYWhsZDFuR3BadEZ2blRBU2Y1cVhQMTZBRnpNMFhvTEdtanlV?oc=5>
 
-### 唐纳德·特朗普（Donald Trump）在自己的胜利中，以更严厉的条件提交了伊朗和平框架的修订版
+### 特朗普称美伊达成协议前不会解冻伊朗资产
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: VOI.id
-- 时间: 2026-06-07 11:09
-- 链接: <https://news.google.com/rss/articles/CBMiQ0FVX3lxTE8xX2hrSm5mV0xGUE1YdU9ZdURfTzJmMzN0eVlRU3lVVDZTV1FlV2VfcXIwNGdXdGt1Vm53eGVDeVJCdUHSAUJBVV95cUxNaUtfbUk3WkMtXzkyS1I3c1ZFZk9aV0NPeGN1ejVKUzkwODRVeVBPREF5QWh4aG94WWViXzZUTFpyckE?oc=5>
+- 场馆: qzwb.com
+- 时间: 2026-06-07 15:59
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE1kdGRCdjJWZ1ZmZmFzanVkM3pHZzc2TzBabVg4Z2gwSE8wSFJvQ0UwQTJOZVZZeUpQRnRxakRNeTRYdUthSDNrNEFKQnhxZzhMeUNUbGg2bHphbmlRcUlHOGZrNndGVUtOWWRicVZDSQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-07 16:10  (7 条)
+
+- **特朗普** | 特朗普：在达成和平协议之前 不会解冻伊朗资产 <https://news.google.com/rss/articles/CBMinAFBVV95cUxNN1U3NTNFVHpwRlQ3R0VUc1dTSk42bFJuOXI2QjVHcm5NUXdzYTZIU2JOOEJHeWhkYjNPOWlLTEJCY00tQnllcEUxeWZqUzNYZTNjYzlLOXdDMFdTUHNnY1A5TFlqOEtjN1pqcGZPdHhadE5adHVHbGd2dGlnb2xCUmlvYUFNTFJsaW50ZXp5bzQ0MFBWNGtTOVJDajU?oc=5>
+- **特朗普** | 特朗普表示，迅速实现和平存在一定阻碍，原因是这需要伊朗彻底转变其长期以来对美国的立场。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTFByVHZaNEpvT0YzYkRSXzlvR2JmSTJGU21kc2lWNEtGX0VsZkZkNGhFYkViV2c2RTZTX2FzcFVGSDBEU0RjZGdiU1RWYw?oc=5>
+- **特朗普** | 特朗普最新发声 <https://news.google.com/rss/articles/CBMic0FVX3lxTFB5ODU4Wk1lbWdpTTc0LXAwZUJHTkRnVVNIeWxsRTl2d1k5RGNyQ3RUZUsycXdHaTEwX252UGQxd1FvSGpNQ1c5OHpMbUNMXzBhN3BJeTZvOTVMWG1yOGZFNGJac01zQWpzWFE3QjNjenJ4RzQ?oc=5>
+- **特朗普** | 学者：特朗普外交抑制了两极化阵营化 重塑美国外交基调 <https://news.google.com/rss/articles/CBMicEFVX3lxTFBrVGRORUZScllmeGNZWFFnTGdvRzFlMmQ1T0x5bWFnZWx5ZTYxajlCSHpnSm14SWNJTmoyRFRqVVFMUE0xWDkyZ2hfM0gyRDBOWXZ5UUhzdGt3dVJDbFNlZE9ZRzRzS2ZKX244bDUwYnk?oc=5>
+- **特朗普** | 美军拟时隔65年重启死刑，只等特朗普签字 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFB4R0tnXzd4RndPSHJnTXJoMmZfc0g0NnczekhzOUZWNXVvR2I0bjBsNlcyUVBsTE5IV28wV2d2ZEE1T1pmVU5lSEpIREs?oc=5>
+- **特朗普** | 特朗普：我要爆个小料 <https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeUtWZEZSR1Q1V09VMGhzX0t3WWlsZWNRLUU2MXJpNUZjWHJWYnFXNlFBbWFEVlVpM0RYNmN1U0o2Yl93cmF3dC0zc2FCdTBfUVZKX2xtbnVrUGZFOTBCQlhIMUthYWhsZDFuR3BadEZ2blRBU2Y1cVhQMTZBRnpNMFhvTEdtanlV?oc=5>
+- **特朗普** | 特朗普称美伊达成协议前不会解冻伊朗资产 <https://news.google.com/rss/articles/CBMib0FVX3lxTE1kdGRCdjJWZ1ZmZmFzanVkM3pHZzc2TzBabVg4Z2gwSE8wSFJvQ0UwQTJOZVZZeUpQRnRxakRNeTRYdUthSDNrNEFKQnhxZzhMeUNUbGg2bHphbmlRcUlHOGZrNndGVUtOWWRicVZDSQ?oc=5>
 
 ### 2026-06-07 14:53  (6 条)
 
