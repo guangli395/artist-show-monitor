@@ -1,32 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-07 19:12**
-- 本轮扫到 2883 条, 新增 **2** 条
+- 最近更新: **2026-06-07 20:43**
+- 本轮扫到 2885 条, 新增 **2** 条
 
 ---
 
 ## 本轮新发现 (2 条)
 
-### “普京-特朗普隧道”，最新消息
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-06-07 12:14
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE4xUUpmY2s0bXh2Ym9yVU40TDFzRFRNU3RnQndLc2U4ODhzRzhtQjdSaVNWOVJvdkZMYUpocWlIYzNCNlk2OGlDdGNhM3YybmdBVHN2YnBlVzlOUVRpSHFXbFpHMjR5Ym9idGRPcVRoaVU?oc=5>
-
-### 特朗普：在达成和平协议之前 不会解冻伊朗资产
+### 特朗普称将“迅速结束”对伊战事，美方召集专家会议为核谈判做准备
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-07 14:11
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWFdnd3RuTHZUTlpvazRUMGFjc3RVMDRhR2pjaVFQcDYxWHdIbElKaEJzOV9XY2pOQWRZb3pwcEQ2d2RUc3V1QnBMRHBZQmJUNV84aVZpdkNUZU51NmtqXzlKdjVWd1FnR2M0TDV2c215cVlvRUlEcmpHRE82N0RIRDlXa3lKSzBqMHc0VXF0LWZKWmNjWkNTNTZjeDNsLW1IZktCZmVCZ19SQXNRNHVDUnN3OVEzbVM1d2NHQThZSzN2RkFlWXk3Rk90NDgwczdkX0FtYWk5YThmRlNvcE53?oc=5>
+- 时间: 2026-06-07 19:42
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5QdHptMXBUOWJFS2gzdWRjYW0yWE1aVGVLMXFkVnZERDVwaEVLbk1WQWh2ejI0T2pGbkYwM2pTREpKZnBuTnFMcTZ5VGF4S1RwNmJOV2JQemtTdEtsWmJaM0hxWDk1Ql9tWFdoRnFqc3VINmF3ZHJLUw?oc=5>
+
+### 特朗普称解冻伊朗资产或解除制裁不是协议先决条件
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: chinanews.com.cn
+- 时间: 2026-06-07 14:37
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE4taVpodlRURmYwMVd4QkREVDVsVml0amktV3pMUXRJN3pleEhyOWlOVGpWb2lFVmFYZlo1dUc0MUM5S0pIVGlybTFWWVBWTnRvZTJsU0tlaWVyMXNTbUFOMWJfVDk2anpS?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-07 20:43  (2 条)
+
+- **特朗普** | 特朗普称将“迅速结束”对伊战事，美方召集专家会议为核谈判做准备 <https://news.google.com/rss/articles/CBMieEFVX3lxTE5QdHptMXBUOWJFS2gzdWRjYW0yWE1aVGVLMXFkVnZERDVwaEVLbk1WQWh2ejI0T2pGbkYwM2pTREpKZnBuTnFMcTZ5VGF4S1RwNmJOV2JQemtTdEtsWmJaM0hxWDk1Ql9tWFdoRnFqc3VINmF3ZHJLUw?oc=5>
+- **特朗普** | 特朗普称解冻伊朗资产或解除制裁不是协议先决条件 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE4taVpodlRURmYwMVd4QkREVDVsVml0amktV3pMUXRJN3pleEhyOWlOVGpWb2lFVmFYZlo1dUc0MUM5S0pIVGlybTFWWVBWTnRvZTJsU0tlaWVyMXNTbUFOMWJfVDk2anpS?oc=5>
 
 ### 2026-06-07 19:12  (2 条)
 
