@@ -1,54 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-07 11:04**
-- 本轮扫到 2862 条, 新增 **5** 条
+- 最近更新: **2026-06-07 12:58**
+- 本轮扫到 2866 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (4 条)
 
-### 林俊杰偷开周杰伦车，墨镜遗落现身其MV
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_3779202361_me1420d3903301dukc.html>
-
-### 特朗普回应“NBA总决赛门票太贵”：那他们电视上看呗，生活就是这样
+### “普京-特朗普隧道”，最新消息
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-06-07 07:54
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxQZ0JIakhIb3FPQlc5bFd1cEU0N3VuZjlMRDVMOXBuNzZnY2hYU0VQNjc0RHZaOG1wVVo3UUctY0ZrSWhYdGtybFFyRF9VNzdzVlRQOGtKRFFGZmhsZVUyNzQyTEZXZGlmVml3alE0UG9feGVVdk5UWksyQk96R1ZLendHLUNHWnM?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-06-07 12:34
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBXSVhCbHRyakc2c1hUTjFEeWdCMHRFdXdRb21wRGlJUGF0cmJ4SFpGcVpRNzVVUEw1b3FhQTJvcGtKZUVGUGNqT3dBYllEWmxGS1RwNjJnQkFMYkNkMU5CaDZ0djA4RWxWRW5hem9LalgydlJJX0JhOA?oc=5>
 
-### 特朗普女儿女婿，在欧洲被“火烈鸟”围剿了
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-06-06 23:58
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5LZVNvU000X1ZZTENZRHcxalNpNkhMeXBwVlJNQnE2TmYxR3NqOGQzdk90SnFUQkRTUTVQQVRvNU9Vb0JvWEcxTEt2dXJGWVZxUDRhbUtQbmc0ak93TE1MRjlfaWwxNEx6d0lrbmd2LXpLSDNTWFo2VQ?oc=5>
-
-### 因特朗普到场观赛 NBA总决赛观众将接受“特勤局级别”安检
+### “甩锅”万斯？以色列谍报界：都怪他坏我们好事
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-06-07 09:42
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFQV9qbHVCZHhCaHRVYjNTXzRSU19XOXJRRU4yNzBDekZsUHppbmw2UFhKQmpSUmpWQnlRZU52Q2lEUjh3UGR4V05BNEVMRGl3TXJ5SGtvYWpYTE5VWTdjSFFhSno?oc=5>
+- 场馆: 观察者网
+- 时间: 2026-06-06 14:50
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9hU0ZLMUdLenJvRklGTlVPWjZRNWVEdnZhWTJsRm9RNm40TkhoSVdSUEx6WkcxcmJQUUZzSjFGRTh6SGswT29yVGFrYUt4VUFJMlVDZXBveFcyMDYtMTVZbFlleWl2UTZRT0E?oc=5>
 
-### 特朗普回应“NBA总决赛门票太贵”：那他们电视上看呗，生活就是这样
+### 美国全面升级海关执法，特朗普签署的行政令要点有哪些｜全球贸易观察
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-06-07 07:54
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1TOEgyMGpyRFNLNUZnT0k3cWtBRlloNE0wMVdQNkZPU2hHamJnbkZWRnJwalVmQTZRb0g4anRuWDlxNGdIY0lDZmpZZElJZjE2QmpBWWhkQ0kwNURkODVla196VTY0cVRESjJCNWprUWE?oc=5>
+- 场馆: 第一财经
+- 时间: 2026-06-07 10:55
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE51U3BUY2ktU0xzTDg4Mmh5LVI4cnhmY2UyVW43VUNIWEQ1YkdlZWRjOWpNWlhLdFluY3NITndFZ05PMFN4T0dUa1JfalFmdS11bElv?oc=5>
+
+### 指控特朗普商场试衣间性侵，女作家“摊上事了”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 腾讯新闻
+- 时间: 2026-06-06 15:25
+- 链接: <https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtVEM2VjM4N0lHNXFjZnF1ektYSGNoUlpJV2V3em1kNEFlaWIwVnA4aEhsTFE0aUt2eDJlYjZ4MlZWMHVPbGNjZGttYlptZndDd05XNzN2cw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-07 12:58  (4 条)
+
+- **特朗普** | “普京-特朗普隧道”，最新消息 <https://news.google.com/rss/articles/CBMieEFVX3lxTFBXSVhCbHRyakc2c1hUTjFEeWdCMHRFdXdRb21wRGlJUGF0cmJ4SFpGcVpRNzVVUEw1b3FhQTJvcGtKZUVGUGNqT3dBYllEWmxGS1RwNjJnQkFMYkNkMU5CaDZ0djA4RWxWRW5hem9LalgydlJJX0JhOA?oc=5>
+- **特朗普** | “甩锅”万斯？以色列谍报界：都怪他坏我们好事 <https://news.google.com/rss/articles/CBMiakFVX3lxTE9hU0ZLMUdLenJvRklGTlVPWjZRNWVEdnZhWTJsRm9RNm40TkhoSVdSUEx6WkcxcmJQUUZzSjFGRTh6SGswT29yVGFrYUt4VUFJMlVDZXBveFcyMDYtMTVZbFlleWl2UTZRT0E?oc=5>
+- **特朗普** | 美国全面升级海关执法，特朗普签署的行政令要点有哪些｜全球贸易观察 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE51U3BUY2ktU0xzTDg4Mmh5LVI4cnhmY2UyVW43VUNIWEQ1YkdlZWRjOWpNWlhLdFluY3NITndFZ05PMFN4T0dUa1JfalFmdS11bElv?oc=5>
+- **特朗普** | 指控特朗普商场试衣间性侵，女作家“摊上事了” <https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtVEM2VjM4N0lHNXFjZnF1ektYSGNoUlpJV2V3em1kNEFlaWIwVnA4aEhsTFE0aUt2eDJlYjZ4MlZWMHVPbGNjZGttYlptZndDd05XNzN2cw?oc=5>
 
 ### 2026-06-07 11:04  (5 条)
 
