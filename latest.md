@@ -1,56 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-07 21:59**
-- 本轮扫到 2890 条, 新增 **5** 条
+- 最近更新: **2026-06-07 23:12**
+- 本轮扫到 2895 条, 新增 **5** 条
 
 ---
 
 ## 本轮新发现 (5 条)
 
-### “普京-特朗普隧道”相关设想披露，有望在年底前完工
+### 特朗普：伊朗应见好就收 以色列也别报复
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-07 19:32
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBwZEI0NU9GeDdvVl9kNGJWdjFnSXdKTTZhVDBQUk51bzBqWjI4akpsRVI4dzlUNVNzdDF0eDV2RHc1UGp0d0s0QXFIc0hoV2hvQVdQODE1cHhtUHd1VWVCeFFBMk5lSURzbFdEeGRsbzgyblhZM2ExOQ?oc=5>
+- 时间: 2026-06-07 23:02
+- 链接: <https://news.google.com/rss/articles/CBMirwFBVV95cUxORUQ1dzFiVkhpUE5BamZKc1prMVREQXg2UkdwQjB5SzJRaEpFVGFNU3ZJNG9RTDc2OXBQbl9IRFpsT0xMM0I5SndaOHlTT0l5Q2Vua2JTS2laQmhNOG5EdFBNbVNyZXQyQVVORlpMWEZoVWh2QVJVdHRBRFA4R0N5M21uVlpTUFFSQjA4U0lOM25GQ0doZXpmZkE1ekVxQmZidHpIc3dHVWMxNV9iNXZz?oc=5>
+
+### 特朗普对伊朗喊话：行了，回来谈判吧
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪军事
+- 时间: 2026-06-07 23:01
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1zeXIzREZheTFqX2FMdUk5eTl0anJVdkd6UnZvQ0Y4Y0pOUnhiWnR4Qk9helB0dVBPSF96d3NOYjUxbnF4NWlkaEtVczRJbW90OXhsMmxsWTR4Smxaak1YWWVQZGJfQTJLVGFmMkFTeGRwU0E?oc=5>
+
+### 伊朗发射多轮导弹袭击以色列！特朗普要求以方“不要反击”，以军：准备强力打击；国际油价大涨；央行连续第19个月增持黄金| 每经早参
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 每日经济新闻
+- 时间: 2026-06-07 22:37
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mZ3M5WWJZaXJEZjFrRGM4a1FIY1p5UjYwWmtsRV9qazlCalBDNXFEOWg4UzRzOG85cm9HS2FBT0sybklHaGNha1BvVHpvRkZDdUlIMHlKM0prX0hVaVJHOWdWMGk4dw?oc=5>
 
 ### 特朗普：已知晓以伊最新局势 美军处于戒备状态
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-07 21:30
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5WMHFpWHkzemkyckNpTlVuS1F2NmNCVGVFNy1CNnZkS25OTFo1dS1xWnRTMDBIQTdwdFpacm41d1JyQnBiWC11eXdMekt1VVNIdkNINFFfcmQzRno4QWQ0OXJxLUZUbmNsSmRXNVlGVE9fcVpiXzl6eg?oc=5>
+- 时间: 2026-06-07 22:08
+- 链接: <https://news.google.com/rss/articles/CBMimAJBVV95cUxQRXFFMEhIWmh2ZG44OUFFc3hoYnROdjdYSUVGTDk4UWFjT0ZmVGxKbkw1WVZQZGhzZnEyZnFDdVA3bkxJWHlncktGX0RCWUQyTGo3a0Rxakp1dG5pNFNkMHl2bDgxUGNCeXpiSFJKdlBfZEQ0d0RBbWZ0SENmTjB2WWZyZTk4alZlUGVrVFhYbEJ6c2FXdWEzQWt2LWlDa0ZaUDlPOUtWdDVYVFhqaTBFT2M5T2RhaXlJd2lva0U1TVBjd3k5cFBiNkNMRW54NUZHeXV6VDhIM0ZjYmpEUnJmbUZFYkJkZ0pld0VmbV94N2I4YWE0X3JfRDVQdkFwX1FoNGp2S19MYmVPOEVsRFV0a2dxWTFwaDVz?oc=5>
 
-### 特朗普拒绝提前解冻伊朗资产 呼吁以色列对真主党实施“精准打击”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-06-07 21:26
-- 链接: <https://news.google.com/rss/articles/CBMisgNBVV95cUxPVjBOUWkyUFkwbDk0ZTBCbXU5MlRqNzhXTUJTT0dQSEJQS3ZDTEtSaDlwbkk5UWRCTjc3UGd1SVJ0Tzl4OVZycW1ETEd3V3ZzeEFhbXQtNGhETW95ZkRpTzlzRldpRHJ5Zm1zTlFyTlpzTWpXV2k2LVRsbzV0S1h5Q2ZLTEVUQ19DUkN3djlEbngzN0REOHVyUWZCY2pmbU41NnlfRHR1dUU3dFFpbmR4dU9BNnpjaGFtSzZLMVZfeVZEbFFocTRQQ3p1NnpuTUVDUFExQ0VmX2dZRTlkQ0JhQlRqZzZCcWFDVjdEQW5QTmZvWVktcXE5TDJEbXhNVGZ3eDNHcUJwRFF0cjdrdDBJcXVmTzBlQ3FmUndsMXdQUFZXMzhBZ3dPQmZZYUJsRkhMa2lfaWFYTHVqaTRiaXlPLUNfZzVQMXFETWcxel9fQXZKNnJXRGJzVXhrOXpUNkluRHBNMjdtNWN3QXFPRWhSUjlEQm1MWV9wbl8tOWxBTEFpakIxM0QxNnd3UklHT085RWNZeDBjSDBWSUs5bDFJdzNtSVlpLTE5SXVGbWthdHZndw?oc=5>
-
-### 特朗普说将迅速结束伊朗战事
+### 特朗普称解冻伊朗资产或解除制裁不是协议先决条件
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-06-06 00:37
-- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxNSE9yVkhFLXo5a1lBQ2s3OWtWN1F5U1JRX0Nja2dVb2l2b3pqVVp3Y2pjaHM0QTN1OVB2ejREYjZVNVl6SW1IZGlUYjVjZFhkb1FWanMxd0ltVDQxVGNEazBpRDFVZkl5blpBR1pWdV9PbHhlUl8xb3piUEJqQUdXQ05JZDVrT2FuNzZ0WkVvdUxrMG83?oc=5>
-
-### 特朗普：已知晓以伊最新局势，美军处于戒备状态
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-06-07 21:18
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5JZVFyeWtVbEd6OFFlWk1KeExtbU9GR3Y5V2N4LWMxM1Mtd09WNFhaY3d4eWUtZ1pXSzE4SHEtSkJWTGRvczVROFlScUxPOEdLUDBFZTFqa0taWnVMQThENQ?oc=5>
+- 场馆: 新蓝网
+- 时间: 2026-06-07 22:27
+- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE5MT1AtMUctV08ya0ViaFl6UmM2bnNNdFhyQ1E5RlVkSzIxQ1c2ZzBGRkpral9Eb0xOXzRZZG5tMlFHQWFtLW5zRGpPU0NyUFU?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-07 23:12  (5 条)
+
+- **特朗普** | 特朗普：伊朗应见好就收 以色列也别报复 <https://news.google.com/rss/articles/CBMirwFBVV95cUxORUQ1dzFiVkhpUE5BamZKc1prMVREQXg2UkdwQjB5SzJRaEpFVGFNU3ZJNG9RTDc2OXBQbl9IRFpsT0xMM0I5SndaOHlTT0l5Q2Vua2JTS2laQmhNOG5EdFBNbVNyZXQyQVVORlpMWEZoVWh2QVJVdHRBRFA4R0N5M21uVlpTUFFSQjA4U0lOM25GQ0doZXpmZkE1ekVxQmZidHpIc3dHVWMxNV9iNXZz?oc=5>
+- **特朗普** | 特朗普对伊朗喊话：行了，回来谈判吧 <https://news.google.com/rss/articles/CBMic0FVX3lxTE1zeXIzREZheTFqX2FMdUk5eTl0anJVdkd6UnZvQ0Y4Y0pOUnhiWnR4Qk9helB0dVBPSF96d3NOYjUxbnF4NWlkaEtVczRJbW90OXhsMmxsWTR4Smxaak1YWWVQZGJfQTJLVGFmMkFTeGRwU0E?oc=5>
+- **特朗普** | 伊朗发射多轮导弹袭击以色列！特朗普要求以方“不要反击”，以军：准备强力打击；国际油价大涨；央行连续第19个月增持黄金| 每经早参 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mZ3M5WWJZaXJEZjFrRGM4a1FIY1p5UjYwWmtsRV9qazlCalBDNXFEOWg4UzRzOG85cm9HS2FBT0sybklHaGNha1BvVHpvRkZDdUlIMHlKM0prX0hVaVJHOWdWMGk4dw?oc=5>
+- **特朗普** | 特朗普：已知晓以伊最新局势 美军处于戒备状态 <https://news.google.com/rss/articles/CBMimAJBVV95cUxQRXFFMEhIWmh2ZG44OUFFc3hoYnROdjdYSUVGTDk4UWFjT0ZmVGxKbkw1WVZQZGhzZnEyZnFDdVA3bkxJWHlncktGX0RCWUQyTGo3a0Rxakp1dG5pNFNkMHl2bDgxUGNCeXpiSFJKdlBfZEQ0d0RBbWZ0SENmTjB2WWZyZTk4alZlUGVrVFhYbEJ6c2FXdWEzQWt2LWlDa0ZaUDlPOUtWdDVYVFhqaTBFT2M5T2RhaXlJd2lva0U1TVBjd3k5cFBiNkNMRW54NUZHeXV6VDhIM0ZjYmpEUnJmbUZFYkJkZ0pld0VmbV94N2I4YWE0X3JfRDVQdkFwX1FoNGp2S19MYmVPOEVsRFV0a2dxWTFwaDVz?oc=5>
+- **特朗普** | 特朗普称解冻伊朗资产或解除制裁不是协议先决条件 <https://news.google.com/rss/articles/CBMiT0FVX3lxTE5MT1AtMUctV08ya0ViaFl6UmM2bnNNdFhyQ1E5RlVkSzIxQ1c2ZzBGRkpral9Eb0xOXzRZZG5tMlFHQWFtLW5zRGpPU0NyUFU?oc=5>
 
 ### 2026-06-07 21:59  (5 条)
 
