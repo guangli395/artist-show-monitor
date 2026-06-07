@@ -1,48 +1,71 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-07 12:58**
-- 本轮扫到 2866 条, 新增 **4** 条
+- 最近更新: **2026-06-07 14:53**
+- 本轮扫到 2872 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (6 条)
 
-### “普京-特朗普隧道”，最新消息
+### 周杰伦新专辑在哪里预约预售？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906dwgq.html>
+
+### 特朗普：在达成和平协议之前 不会解冻伊朗资产
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-07 12:34
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBXSVhCbHRyakc2c1hUTjFEeWdCMHRFdXdRb21wRGlJUGF0cmJ4SFpGcVpRNzVVUEw1b3FhQTJvcGtKZUVGUGNqT3dBYllEWmxGS1RwNjJnQkFMYkNkMU5CaDZ0djA4RWxWRW5hem9LalgydlJJX0JhOA?oc=5>
+- 时间: 2026-06-07 14:11
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxQZHRLN1F2YVpLaTg1b1lFMUJxMC1BR2lMVTR1Um8tZUFWcTNWS3BQYlQ5ZzRSdTVoOFFjaWh6X2J1ak1iNlcwamZOZkZ2Yk5KdU02YWdBbnRQaEExNXIwM0tSbEpIOW02VFNvSm90SHlHSlpJVGlVeF80YVFwSXFMdEd3NFR1a28?oc=5>
 
-### “甩锅”万斯？以色列谍报界：都怪他坏我们好事
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-06-06 14:50
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9hU0ZLMUdLenJvRklGTlVPWjZRNWVEdnZhWTJsRm9RNm40TkhoSVdSUEx6WkcxcmJQUUZzSjFGRTh6SGswT29yVGFrYUt4VUFJMlVDZXBveFcyMDYtMTVZbFlleWl2UTZRT0E?oc=5>
-
-### 美国全面升级海关执法，特朗普签署的行政令要点有哪些｜全球贸易观察
+### 特朗普要去现场看NBA总决赛，观众将接受“特勤局级别”安检
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 第一财经
-- 时间: 2026-06-07 10:55
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE51U3BUY2ktU0xzTDg4Mmh5LVI4cnhmY2UyVW43VUNIWEQ1YkdlZWRjOWpNWlhLdFluY3NITndFZ05PMFN4T0dUa1JfalFmdS11bElv?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-06-07 12:37
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9PY3lPWHVfZ3pHa1ZDckotenh4ektlZVJISHNGWlpDaDQ5dzlMYkFjckNid0NEb3J1OWVCelFzTm51SWtSamxMZGljU3I?oc=5>
 
-### 指控特朗普商场试衣间性侵，女作家“摊上事了”
+### 特朗普称解冻伊朗资产或解除制裁不是协议先决条件
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 腾讯新闻
-- 时间: 2026-06-06 15:25
-- 链接: <https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtVEM2VjM4N0lHNXFjZnF1ektYSGNoUlpJV2V3em1kNEFlaWIwVnA4aEhsTFE0aUt2eDJlYjZ4MlZWMHVPbGNjZGttYlptZndDd05XNzN2cw?oc=5>
+- 场馆: thepaper.cn
+- 时间: 2026-06-07 13:56
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBmQ043ZGQ3S1Q1RzQ1dHF0UEMtU2ZHbVlmOV93VW5yTG9objZQUEcxd1haNklmUVR1dDJkVmswUmJ2dDM0TTNoRDVScmdlWFpBQ3hqclhxT1NIOXJDODdoRA?oc=5>
+
+### 特朗普称解冻伊朗资产或解除制裁不是协议先决条件
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-06-07 13:39
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1hUDlFajR1NkQ2cGlOX3lJUUNvREpMTGFYQ3JTbkZCYUtmRC1pNTJtQ1ZBdkdmMDNXcXZxel8wam9YVEVYMTVwbUwwbVc?oc=5>
+
+### 唐纳德·特朗普（Donald Trump）在自己的胜利中，以更严厉的条件提交了伊朗和平框架的修订版
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: VOI.id
+- 时间: 2026-06-07 11:09
+- 链接: <https://news.google.com/rss/articles/CBMiQ0FVX3lxTE8xX2hrSm5mV0xGUE1YdU9ZdURfTzJmMzN0eVlRU3lVVDZTV1FlV2VfcXIwNGdXdGt1Vm53eGVDeVJCdUHSAUJBVV95cUxNaUtfbUk3WkMtXzkyS1I3c1ZFZk9aV0NPeGN1ejVKUzkwODRVeVBPREF5QWh4aG94WWViXzZUTFpyckE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-07 14:53  (6 条)
+
+- **周杰伦** | 周杰伦新专辑在哪里预约预售？ <https://k.sina.com.cn/article_7857201856_1d45362c001906dwgq.html>
+- **特朗普** | 特朗普：在达成和平协议之前 不会解冻伊朗资产 <https://news.google.com/rss/articles/CBMihwFBVV95cUxQZHRLN1F2YVpLaTg1b1lFMUJxMC1BR2lMVTR1Um8tZUFWcTNWS3BQYlQ5ZzRSdTVoOFFjaWh6X2J1ak1iNlcwamZOZkZ2Yk5KdU02YWdBbnRQaEExNXIwM0tSbEpIOW02VFNvSm90SHlHSlpJVGlVeF80YVFwSXFMdEd3NFR1a28?oc=5>
+- **特朗普** | 特朗普要去现场看NBA总决赛，观众将接受“特勤局级别”安检 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9PY3lPWHVfZ3pHa1ZDckotenh4ektlZVJISHNGWlpDaDQ5dzlMYkFjckNid0NEb3J1OWVCelFzTm51SWtSamxMZGljU3I?oc=5>
+- **特朗普** | 特朗普称解冻伊朗资产或解除制裁不是协议先决条件 <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBmQ043ZGQ3S1Q1RzQ1dHF0UEMtU2ZHbVlmOV93VW5yTG9objZQUEcxd1haNklmUVR1dDJkVmswUmJ2dDM0TTNoRDVScmdlWFpBQ3hqclhxT1NIOXJDODdoRA?oc=5>
+- **特朗普** | 特朗普称解冻伊朗资产或解除制裁不是协议先决条件 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1hUDlFajR1NkQ2cGlOX3lJUUNvREpMTGFYQ3JTbkZCYUtmRC1pNTJtQ1ZBdkdmMDNXcXZxel8wam9YVEVYMTVwbUwwbVc?oc=5>
+- **Trump** | 唐纳德·特朗普（Donald Trump）在自己的胜利中，以更严厉的条件提交了伊朗和平框架的修订版 <https://news.google.com/rss/articles/CBMiQ0FVX3lxTE8xX2hrSm5mV0xGUE1YdU9ZdURfTzJmMzN0eVlRU3lVVDZTV1FlV2VfcXIwNGdXdGt1Vm53eGVDeVJCdUHSAUJBVV95cUxNaUtfbUk3WkMtXzkyS1I3c1ZFZk9aV0NPeGN1ejVKUzkwODRVeVBPREF5QWh4aG94WWViXzZUTFpyckE?oc=5>
 
 ### 2026-06-07 12:58  (4 条)
 
