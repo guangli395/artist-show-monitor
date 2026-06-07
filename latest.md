@@ -1,64 +1,53 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-07 05:04**
-- 本轮扫到 2853 条, 新增 **6** 条
+- 最近更新: **2026-06-07 08:33**
+- 本轮扫到 2857 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (4 条)
 
-### 特朗普女儿女婿，在欧洲被“火烈鸟”围剿了
+### 周杰伦2026北京演唱会二开抢票启动
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-06-06 23:58
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBGYWNnamFCaDV6bUhWMjU1aU9YVWQyLVZXNHVOWHZsZlVRTTgxUWh2VWw0TUp3TTNBTnRkbEdRS1gtb29HQUJZUFE4Qlp0RkwxQkJxbVNjVi16XzV1dm9BOGZ2UWJENkZJS1VtMjJkdGE?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_6605861453_m189bd724d03301cegs.html>
 
-### 指控特朗普商场试衣间性侵，女作家“摊上事了”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-06-07 00:22
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9ERVk5RDdzaHp6YkRqeHVYdHFhVk9ZMmZZRXdJQ1kzeWtiSUNSV3V6N2I1Ql9SU0NlanUxYjg5Nl90cFpRMDVxNGlxejUwY1pLTUNHX3lzdlU4cjFrX0FDaXhiSmY0NGZzX05ialJsZHNLRlo0ZzhydQ?oc=5>
-
-### 媒体爆料白宫幕僚长与特朗普意见不合准备辞职
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-06-07 00:40
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE9HckViTDlRVGVPWUh5azNvLUJ3MWU1N0MxSy12cFRfVzVHYjFneXpOUnZzaGZuZFV6a1o4LWFsY29ldWk4Q1F3ZGRCQnU0UkFsU3NkT091U0VBVEMwbEZ1QUJ6cmxnZTdXNXNlMEFCa2hSZw?oc=5>
-
-### 特朗普将出席NBA总决赛
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 金融界
-- 时间: 2026-06-07 01:56
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE5QbTIyUk9FdXB0Wnl5SGhlc0JWaTNFYVJHck1pTjR2elMwSERNWFNULU5KSTgyd2ZvRWEzM1FUM3ZGRVdhUjF0ZTF6QkR2bXN4WExmTXVqTG9xSXhUejdoVWQwUVgyRU52TDBhUThrdw?oc=5>
-
-### 伊朗开价240亿美元，这可要了特朗普的命
+### 与特朗普公开失和，内塔尼亚胡大选悬了？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-06-06 21:20
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFB0R1pXWmdnUDViV1B1Tm1jTU51UGVGeDNsakRUWnN6LXR1TjZuSGRoa1NWRGdkbXB5djZTOTc1RWFqcDZqeW90XzcxVjk?oc=5>
+- 时间: 2026-06-07 05:20
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBaYzdBZi03S0xZSDVMWk43ZHcwOWItR01kdkp6eXJjaHUtSEJPRVBDSlkwd1Vpel9kOHRadjBfdHVmdEpYaXpQOEpERWQ?oc=5>
 
-### 特朗普称将迅速结束伊朗战事
+### 特朗普：我要爆个小料
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 央广网
-- 时间: 2026-06-06 00:39
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9SSkdEa0lzakRQV01MU09Hb0QxVVVEZHJNYUYxckVKZWJqUk84cGdtMmxGemxFUndaZ3JvN09aWld3NnVxQUhWS1NEUmcxNkpfRmgwOUhKUTVjTzRnXzRPQ25lUkJxd0xI?oc=5>
+- 场馆: 搜狐网
+- 时间: 2026-06-07 07:18
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxPS2EySW1ucnk2djVyYVk3bm8xZEMtWUlkOWM5UDVRQXF4RXpNc1M4ekphcDhNbUtxREQ2a0ViS1BtR0dzaFhjb2gwckF0XzAzUXJMSE1TNXRabWp6MHJ2bkwyZlVYa1BxbUM0b255RDdQM2Q0b2JnVGJwdnRLNkpVdmgzVm4tM3gwOEVRYg?oc=5>
+
+### 特朗普说将迅速结束伊朗战事
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 东方财富
+- 时间: 2026-06-06 23:10
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PRnhrT3hLNTY2S0FnTFJGSmVwY0Q3c05jZ3ZCeTk4RjNIZzdycTlaSGktVjRDTDZkbEJzLWUzZ3BRNVFGalQ3WEU4enl3Q3h3aFJXSkcxczVlVzkzcUllZQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-07 08:33  (4 条)
+
+- **周杰伦** | 周杰伦2026北京演唱会二开抢票启动 <https://k.sina.com.cn/article_6605861453_m189bd724d03301cegs.html>
+- **特朗普** | 与特朗普公开失和，内塔尼亚胡大选悬了？ <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBaYzdBZi03S0xZSDVMWk43ZHcwOWItR01kdkp6eXJjaHUtSEJPRVBDSlkwd1Vpel9kOHRadjBfdHVmdEpYaXpQOEpERWQ?oc=5>
+- **特朗普** | 特朗普：我要爆个小料 <https://news.google.com/rss/articles/CBMijAFBVV95cUxPS2EySW1ucnk2djVyYVk3bm8xZEMtWUlkOWM5UDVRQXF4RXpNc1M4ekphcDhNbUtxREQ2a0ViS1BtR0dzaFhjb2gwckF0XzAzUXJMSE1TNXRabWp6MHJ2bkwyZlVYa1BxbUM0b255RDdQM2Q0b2JnVGJwdnRLNkpVdmgzVm4tM3gwOEVRYg?oc=5>
+- **特朗普** | 特朗普说将迅速结束伊朗战事 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PRnhrT3hLNTY2S0FnTFJGSmVwY0Q3c05jZ3ZCeTk4RjNIZzdycTlaSGktVjRDTDZkbEJzLWUzZ3BRNVFGalQ3WEU4enl3Q3h3aFJXSkcxczVlVzkzcUllZQ?oc=5>
 
 ### 2026-06-07 05:04  (6 条)
 
