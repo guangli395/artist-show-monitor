@@ -1,32 +1,73 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-07 00:06**
-- 本轮扫到 2847 条, 新增 **2** 条
+- 最近更新: **2026-06-07 05:04**
+- 本轮扫到 2853 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (6 条)
 
-### 特朗交政策引共和党内部分裂 伊朗与俄乌议题成国会反弹焦点
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-06-06 22:08
-- 链接: <https://news.google.com/rss/articles/CBMipANBVV95cUxNb0Z3dTRCc0hEUzNJUjJET0psZjB0akV3M2NFdGczV0ViSGh5dm0tR0dEUlk2S1hHekFaT2lmTlVIWFhsZHZKaXhCTGZaWjFPOHVZSjNCbVJ5ckVTa0FKamNIQmJWMVppcXFOZEIyNE4tMnplSEthWHFRUnVWdnI4d3NoVHBvUmZsX0lPcVFKQUxkOWJSTjRWclJaVk14R01iWWEta1UtcWF1N2ZKSXlfeTdFSkl1N2hzYVhxQl9aRnFhU0Z0UHBNYm5WYXJ1LVkwRDVHazNpUF9EQWxveXRtTHB4ZHZobURWaHJWZzRsT1IxVHRZX2R6dXNwakwwQVhYSkVaX18xdDlBVDRxSURxY2E2WGU1TkRiSzNnWXVxenNIUXhjNDNXX3VZbVB4Y2NUSXBSYUd5RTZ5VzlSR25BMjduS0dxR3cyZGZWSUdSMW1LaVZnakFSQlhNOFNhc3hBdmdOWWxidjBCY29tNzJ5Y3NiWEdEUXRTUjRUZlVYRFlmako3cUpacklULUlLaE10Y2ZLazNLNWVVRE5jUXYyOFBfUzQ?oc=5>
-
-### 美伊局势追踪：特朗普称协议或在周末达成，美国会众议院要求结束动武！
+### 特朗普女儿女婿，在欧洲被“火烈鸟”围剿了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-06-04 00:07
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE9sTVBpZmIwS0d6Q09vLVFKSHdKeDZkT1FhUDlLd25MeWhMdl82c19EZHBDQzQ0cUpPQ3A4d0g5RWktdm5jLXdjcQ?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-06-06 23:58
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBGYWNnamFCaDV6bUhWMjU1aU9YVWQyLVZXNHVOWHZsZlVRTTgxUWh2VWw0TUp3TTNBTnRkbEdRS1gtb29HQUJZUFE4Qlp0RkwxQkJxbVNjVi16XzV1dm9BOGZ2UWJENkZJS1VtMjJkdGE?oc=5>
+
+### 指控特朗普商场试衣间性侵，女作家“摊上事了”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-06-07 00:22
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9ERVk5RDdzaHp6YkRqeHVYdHFhVk9ZMmZZRXdJQ1kzeWtiSUNSV3V6N2I1Ql9SU0NlanUxYjg5Nl90cFpRMDVxNGlxejUwY1pLTUNHX3lzdlU4cjFrX0FDaXhiSmY0NGZzX05ialJsZHNLRlo0ZzhydQ?oc=5>
+
+### 媒体爆料白宫幕僚长与特朗普意见不合准备辞职
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-06-07 00:40
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE9HckViTDlRVGVPWUh5azNvLUJ3MWU1N0MxSy12cFRfVzVHYjFneXpOUnZzaGZuZFV6a1o4LWFsY29ldWk4Q1F3ZGRCQnU0UkFsU3NkT091U0VBVEMwbEZ1QUJ6cmxnZTdXNXNlMEFCa2hSZw?oc=5>
+
+### 特朗普将出席NBA总决赛
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 金融界
+- 时间: 2026-06-07 01:56
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE5QbTIyUk9FdXB0Wnl5SGhlc0JWaTNFYVJHck1pTjR2elMwSERNWFNULU5KSTgyd2ZvRWEzM1FUM3ZGRVdhUjF0ZTF6QkR2bXN4WExmTXVqTG9xSXhUejdoVWQwUVgyRU52TDBhUThrdw?oc=5>
+
+### 伊朗开价240亿美元，这可要了特朗普的命
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-06-06 21:20
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFB0R1pXWmdnUDViV1B1Tm1jTU51UGVGeDNsakRUWnN6LXR1TjZuSGRoa1NWRGdkbXB5djZTOTc1RWFqcDZqeW90XzcxVjk?oc=5>
+
+### 特朗普称将迅速结束伊朗战事
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 央广网
+- 时间: 2026-06-06 00:39
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9SSkdEa0lzakRQV01MU09Hb0QxVVVEZHJNYUYxckVKZWJqUk84cGdtMmxGemxFUndaZ3JvN09aWld3NnVxQUhWS1NEUmcxNkpfRmgwOUhKUTVjTzRnXzRPQ25lUkJxd0xI?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-07 05:04  (6 条)
+
+- **特朗普** | 特朗普女儿女婿，在欧洲被“火烈鸟”围剿了 <https://news.google.com/rss/articles/CBMicEFVX3lxTFBGYWNnamFCaDV6bUhWMjU1aU9YVWQyLVZXNHVOWHZsZlVRTTgxUWh2VWw0TUp3TTNBTnRkbEdRS1gtb29HQUJZUFE4Qlp0RkwxQkJxbVNjVi16XzV1dm9BOGZ2UWJENkZJS1VtMjJkdGE?oc=5>
+- **特朗普** | 指控特朗普商场试衣间性侵，女作家“摊上事了” <https://news.google.com/rss/articles/CBMieEFVX3lxTE9ERVk5RDdzaHp6YkRqeHVYdHFhVk9ZMmZZRXdJQ1kzeWtiSUNSV3V6N2I1Ql9SU0NlanUxYjg5Nl90cFpRMDVxNGlxejUwY1pLTUNHX3lzdlU4cjFrX0FDaXhiSmY0NGZzX05ialJsZHNLRlo0ZzhydQ?oc=5>
+- **特朗普** | 媒体爆料白宫幕僚长与特朗普意见不合准备辞职 <https://news.google.com/rss/articles/CBMickFVX3lxTE9HckViTDlRVGVPWUh5azNvLUJ3MWU1N0MxSy12cFRfVzVHYjFneXpOUnZzaGZuZFV6a1o4LWFsY29ldWk4Q1F3ZGRCQnU0UkFsU3NkT091U0VBVEMwbEZ1QUJ6cmxnZTdXNXNlMEFCa2hSZw?oc=5>
+- **特朗普** | 特朗普将出席NBA总决赛 <https://news.google.com/rss/articles/CBMib0FVX3lxTE5QbTIyUk9FdXB0Wnl5SGhlc0JWaTNFYVJHck1pTjR2elMwSERNWFNULU5KSTgyd2ZvRWEzM1FUM3ZGRVdhUjF0ZTF6QkR2bXN4WExmTXVqTG9xSXhUejdoVWQwUVgyRU52TDBhUThrdw?oc=5>
+- **特朗普** | 伊朗开价240亿美元，这可要了特朗普的命 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFB0R1pXWmdnUDViV1B1Tm1jTU51UGVGeDNsakRUWnN6LXR1TjZuSGRoa1NWRGdkbXB5djZTOTc1RWFqcDZqeW90XzcxVjk?oc=5>
+- **特朗普** | 特朗普称将迅速结束伊朗战事 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9SSkdEa0lzakRQV01MU09Hb0QxVVVEZHJNYUYxckVKZWJqUk84cGdtMmxGemxFUndaZ3JvN09aWld3NnVxQUhWS1NEUmcxNkpfRmgwOUhKUTVjTzRnXzRPQ25lUkJxd0xI?oc=5>
 
 ### 2026-06-07 00:06  (2 条)
 
