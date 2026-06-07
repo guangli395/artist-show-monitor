@@ -1,32 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-07 20:43**
-- 本轮扫到 2885 条, 新增 **2** 条
+- 最近更新: **2026-06-07 21:59**
+- 本轮扫到 2890 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (5 条)
 
-### 特朗普称将“迅速结束”对伊战事，美方召集专家会议为核谈判做准备
+### “普京-特朗普隧道”相关设想披露，有望在年底前完工
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-07 19:42
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5QdHptMXBUOWJFS2gzdWRjYW0yWE1aVGVLMXFkVnZERDVwaEVLbk1WQWh2ejI0T2pGbkYwM2pTREpKZnBuTnFMcTZ5VGF4S1RwNmJOV2JQemtTdEtsWmJaM0hxWDk1Ql9tWFdoRnFqc3VINmF3ZHJLUw?oc=5>
+- 时间: 2026-06-07 19:32
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBwZEI0NU9GeDdvVl9kNGJWdjFnSXdKTTZhVDBQUk51bzBqWjI4akpsRVI4dzlUNVNzdDF0eDV2RHc1UGp0d0s0QXFIc0hoV2hvQVdQODE1cHhtUHd1VWVCeFFBMk5lSURzbFdEeGRsbzgyblhZM2ExOQ?oc=5>
 
-### 特朗普称解冻伊朗资产或解除制裁不是协议先决条件
+### 特朗普：已知晓以伊最新局势 美军处于戒备状态
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-06-07 14:37
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE4taVpodlRURmYwMVd4QkREVDVsVml0amktV3pMUXRJN3pleEhyOWlOVGpWb2lFVmFYZlo1dUc0MUM5S0pIVGlybTFWWVBWTnRvZTJsU0tlaWVyMXNTbUFOMWJfVDk2anpS?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-06-07 21:30
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5WMHFpWHkzemkyckNpTlVuS1F2NmNCVGVFNy1CNnZkS25OTFo1dS1xWnRTMDBIQTdwdFpacm41d1JyQnBiWC11eXdMekt1VVNIdkNINFFfcmQzRno4QWQ0OXJxLUZUbmNsSmRXNVlGVE9fcVpiXzl6eg?oc=5>
+
+### 特朗普拒绝提前解冻伊朗资产 呼吁以色列对真主党实施“精准打击”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-06-07 21:26
+- 链接: <https://news.google.com/rss/articles/CBMisgNBVV95cUxPVjBOUWkyUFkwbDk0ZTBCbXU5MlRqNzhXTUJTT0dQSEJQS3ZDTEtSaDlwbkk5UWRCTjc3UGd1SVJ0Tzl4OVZycW1ETEd3V3ZzeEFhbXQtNGhETW95ZkRpTzlzRldpRHJ5Zm1zTlFyTlpzTWpXV2k2LVRsbzV0S1h5Q2ZLTEVUQ19DUkN3djlEbngzN0REOHVyUWZCY2pmbU41NnlfRHR1dUU3dFFpbmR4dU9BNnpjaGFtSzZLMVZfeVZEbFFocTRQQ3p1NnpuTUVDUFExQ0VmX2dZRTlkQ0JhQlRqZzZCcWFDVjdEQW5QTmZvWVktcXE5TDJEbXhNVGZ3eDNHcUJwRFF0cjdrdDBJcXVmTzBlQ3FmUndsMXdQUFZXMzhBZ3dPQmZZYUJsRkhMa2lfaWFYTHVqaTRiaXlPLUNfZzVQMXFETWcxel9fQXZKNnJXRGJzVXhrOXpUNkluRHBNMjdtNWN3QXFPRWhSUjlEQm1MWV9wbl8tOWxBTEFpakIxM0QxNnd3UklHT085RWNZeDBjSDBWSUs5bDFJdzNtSVlpLTE5SXVGbWthdHZndw?oc=5>
+
+### 特朗普说将迅速结束伊朗战事
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-06-06 00:37
+- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxNSE9yVkhFLXo5a1lBQ2s3OWtWN1F5U1JRX0Nja2dVb2l2b3pqVVp3Y2pjaHM0QTN1OVB2ejREYjZVNVl6SW1IZGlUYjVjZFhkb1FWanMxd0ltVDQxVGNEazBpRDFVZkl5blpBR1pWdV9PbHhlUl8xb3piUEJqQUdXQ05JZDVrT2FuNzZ0WkVvdUxrMG83?oc=5>
+
+### 特朗普：已知晓以伊最新局势，美军处于戒备状态
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-06-07 21:18
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5JZVFyeWtVbEd6OFFlWk1KeExtbU9GR3Y5V2N4LWMxM1Mtd09WNFhaY3d4eWUtZ1pXSzE4SHEtSkJWTGRvczVROFlScUxPOEdLUDBFZTFqa0taWnVMQThENQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-07 21:59  (5 条)
+
+- **特朗普** | “普京-特朗普隧道”相关设想披露，有望在年底前完工 <https://news.google.com/rss/articles/CBMieEFVX3lxTFBwZEI0NU9GeDdvVl9kNGJWdjFnSXdKTTZhVDBQUk51bzBqWjI4akpsRVI4dzlUNVNzdDF0eDV2RHc1UGp0d0s0QXFIc0hoV2hvQVdQODE1cHhtUHd1VWVCeFFBMk5lSURzbFdEeGRsbzgyblhZM2ExOQ?oc=5>
+- **特朗普** | 特朗普：已知晓以伊最新局势 美军处于戒备状态 <https://news.google.com/rss/articles/CBMieEFVX3lxTE5WMHFpWHkzemkyckNpTlVuS1F2NmNCVGVFNy1CNnZkS25OTFo1dS1xWnRTMDBIQTdwdFpacm41d1JyQnBiWC11eXdMekt1VVNIdkNINFFfcmQzRno4QWQ0OXJxLUZUbmNsSmRXNVlGVE9fcVpiXzl6eg?oc=5>
+- **特朗普** | 特朗普拒绝提前解冻伊朗资产 呼吁以色列对真主党实施“精准打击” <https://news.google.com/rss/articles/CBMisgNBVV95cUxPVjBOUWkyUFkwbDk0ZTBCbXU5MlRqNzhXTUJTT0dQSEJQS3ZDTEtSaDlwbkk5UWRCTjc3UGd1SVJ0Tzl4OVZycW1ETEd3V3ZzeEFhbXQtNGhETW95ZkRpTzlzRldpRHJ5Zm1zTlFyTlpzTWpXV2k2LVRsbzV0S1h5Q2ZLTEVUQ19DUkN3djlEbngzN0REOHVyUWZCY2pmbU41NnlfRHR1dUU3dFFpbmR4dU9BNnpjaGFtSzZLMVZfeVZEbFFocTRQQ3p1NnpuTUVDUFExQ0VmX2dZRTlkQ0JhQlRqZzZCcWFDVjdEQW5QTmZvWVktcXE5TDJEbXhNVGZ3eDNHcUJwRFF0cjdrdDBJcXVmTzBlQ3FmUndsMXdQUFZXMzhBZ3dPQmZZYUJsRkhMa2lfaWFYTHVqaTRiaXlPLUNfZzVQMXFETWcxel9fQXZKNnJXRGJzVXhrOXpUNkluRHBNMjdtNWN3QXFPRWhSUjlEQm1MWV9wbl8tOWxBTEFpakIxM0QxNnd3UklHT085RWNZeDBjSDBWSUs5bDFJdzNtSVlpLTE5SXVGbWthdHZndw?oc=5>
+- **特朗普** | 特朗普说将迅速结束伊朗战事 <https://news.google.com/rss/articles/CBMilAFBVV95cUxNSE9yVkhFLXo5a1lBQ2s3OWtWN1F5U1JRX0Nja2dVb2l2b3pqVVp3Y2pjaHM0QTN1OVB2ejREYjZVNVl6SW1IZGlUYjVjZFhkb1FWanMxd0ltVDQxVGNEazBpRDFVZkl5blpBR1pWdV9PbHhlUl8xb3piUEJqQUdXQ05JZDVrT2FuNzZ0WkVvdUxrMG83?oc=5>
+- **特朗普** | 特朗普：已知晓以伊最新局势，美军处于戒备状态 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5JZVFyeWtVbEd6OFFlWk1KeExtbU9GR3Y5V2N4LWMxM1Mtd09WNFhaY3d4eWUtZ1pXSzE4SHEtSkJWTGRvczVROFlScUxPOEdLUDBFZTFqa0taWnVMQThENQ?oc=5>
 
 ### 2026-06-07 20:43  (2 条)
 
