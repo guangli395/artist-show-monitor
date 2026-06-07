@@ -1,56 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-06 22:58**
-- 本轮扫到 2845 条, 新增 **5** 条
+- 最近更新: **2026-06-07 00:06**
+- 本轮扫到 2847 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (2 条)
 
-### 美国政治运作的困境与迷思——由《帝王总统》引发的思考
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: Sina finance
-- 时间: 2026-06-06 21:12
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE50WG52SlZMQVRiVExBaUpFWTgtcEJsSnZNWUQ4dHROXzlXdktIUVk2R2luQlFLMlBXb0hqYzZqeEVlWXBVbDdsUXZjdVo0S3ZNcVNfdFRXS0gyaUhzNjJuMnBXNG5SVVN4Y0xCNkpmbzRjWi1kM1c2Zg?oc=5>
-
-### 特朗普说将迅速结束伊朗战事
+### 特朗交政策引共和党内部分裂 伊朗与俄乌议题成国会反弹焦点
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-06-06 13:40
-- 链接: <https://news.google.com/rss/articles/CBMiuwRBVV95cUxOTlFJcVRmcVpKd0RzdTVjZW5fTWFvejVpa3ZfN0NpQU5Vb1o5clZZWTB0cVVKZXRxa19YZTRKNkdJVlFHOXRWaU1rQks3MWs2SGFjQlloZTNqS21xdV9GcDdQUzgybXo1SjJPOFdhZUc2UWZLWWRGM0pYUGNBTWJ2Sko0Yi1PUkxGTV9wWkFoRElOdzdxQTQ4eHRub2d6OTBrU2IyLVllTi1KQUV6QW4yaWN4ZXhuOWxYX2FVR1RfZmxBMGF3emhOMk0tQ3Y1MGFPUm5Jd2pnUGdPY2NkdDhXcWhSVlZVUkFlSzF0UnhGY2NKZ1RGZXJra0oyLVlZTE5WMmRZWWNmOEJXMzFFUGFmYlEwSzdLSVZlWlBwSlRQYWlfeFpxZ3NMZWtwckJ6TTRPNG9vakd6Ti1GYU1xRUt2NUk2dDFCXzU3RWFqeDBhMmNUaXRQTWdXZXNYLXBDMm5EM2dCZzdkZUJoR21ubkVyc3ZIbkpQX01nVWMwelhTNVFtU012Y1VSSU1SMHBhcFI0M0xEZDFhd2NlNHFJN0l4OUQtcU1xem5LeEtNV2VHdTZWdzFJRk9SMWxodDRuQWNjRDlrOHQ0Vi0zUHlPVGlmNDI4ck94Y2kxa21kWFVtS3ljb2hqYVdkSURrT3piM1lSMkwyXzU3WHA1TTE2VlNaRklXQUFRc1BWNS1Ia3RmOFB3N1pkUEJucUZ3MWlyQ1laWVZpUTFsTHRicUFuNUd3eFRhc0FvYWRmZVVn?oc=5>
+- 场馆: RFI
+- 时间: 2026-06-06 22:08
+- 链接: <https://news.google.com/rss/articles/CBMipANBVV95cUxNb0Z3dTRCc0hEUzNJUjJET0psZjB0akV3M2NFdGczV0ViSGh5dm0tR0dEUlk2S1hHekFaT2lmTlVIWFhsZHZKaXhCTGZaWjFPOHVZSjNCbVJ5ckVTa0FKamNIQmJWMVppcXFOZEIyNE4tMnplSEthWHFRUnVWdnI4d3NoVHBvUmZsX0lPcVFKQUxkOWJSTjRWclJaVk14R01iWWEta1UtcWF1N2ZKSXlfeTdFSkl1N2hzYVhxQl9aRnFhU0Z0UHBNYm5WYXJ1LVkwRDVHazNpUF9EQWxveXRtTHB4ZHZobURWaHJWZzRsT1IxVHRZX2R6dXNwakwwQVhYSkVaX18xdDlBVDRxSURxY2E2WGU1TkRiSzNnWXVxenNIUXhjNDNXX3VZbVB4Y2NUSXBSYUd5RTZ5VzlSR25BMjduS0dxR3cyZGZWSUdSMW1LaVZnakFSQlhNOFNhc3hBdmdOWWxidjBCY29tNzJ5Y3NiWEdEUXRTUjRUZlVYRFlmako3cUpacklULUlLaE10Y2ZLazNLNWVVRE5jUXYyOFBfUzQ?oc=5>
 
-### 媒体爆料白宫幕僚长与特朗普意见不合准备辞职，本人严辞否认
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 环球网
-- 时间: 2026-06-05 14:21
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTFBDcEV6dG9iTVE1Q3NkZlRKNzN2cFZOcWh4ZEpHUlVfUWFMMjRtbGJpVmZ4VmhjQVdFbXVxVEpzbkNBVU0yTF93elotT1VQVmxFT2hGSTlkTGw?oc=5>
-
-### 美众议院通过决议 限制特朗普对伊动武权力
+### 美伊局势追踪：特朗普称协议或在周末达成，美国会众议院要求结束动武！
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-06-04 01:59
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCejNqVW1YRmE2OHB6Qkk2WldtaENjTDktb1QzMGlYOWo2WjhsR0x6RzJBWFdNTEtxc0RrajZtQzY5Q3dGWjg4ck82OFhYQkxTaUhTRDA0dnBHNUx5dFdxbw?oc=5>
-
-### 特朗普仍考虑与赖清德通话 美促台“更聪明”投资国防
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: DW
-- 时间: 2026-06-06 10:07
-- 链接: <https://news.google.com/rss/articles/CBMi0gJBVV95cUxOVjR6ajN4bkFPcVRiNjEwSlZ4MGsxRmVGZEhESEp2TUlqRTdodnRFcWdZbTg5WG96MHFvbEtUazBpQlVtM0EwMjNRczE5aUhsUDlOZTZrX0VSdXJrZklMeVNWNDNsSldJOFFHNEVDYWszM3I3azM2TFlEU2Z2eHVyMjdsWURaOFpYMGdZNy1IUzJ3eXg3OXhxem5EWEE5SDV3T1JrcUFhSUNadEZaTWxDbjdBVTZEbzRycEN6QWN4M2hNUllLNUdubFhwbW5lZ1duSF9xdnZvdjhXc2F3Q1RRa3dQS1hiMUpDTTdUNFRzYzVTRS14WHA2SWppUnM3cXVyT0FDUFVXX1hGZ0FCOEd5Z1Fyanc0a3BOU1hDYjhmc3JpbmVmMEx1Q1RaVWw2bkM1c2JYeDE1SnVHSktUb2QtWDFjd0ZLOXo0aWwtZWZtRGlHUdIB0gJBVV95cUxOVjR6ajN4bkFPcVRiNjEwSlZ4MGsxRmVGZEhESEp2TUlqRTdodnRFcWdZbTg5WG96MHFvbEtUazBpQlVtM0EwMjNRczE5aUhsUDlOZTZrX0VSdXJrZklMeVNWNDNsSldJOFFHNEVDYWszM3I3azM2TFlEU2Z2eHVyMjdsWURaOFpYMGdZNy1IUzJ3eXg3OXhxem5EWEE5SDV3T1JrcUFhSUNadEZaTWxDbjdBVTZEbzRycEN6QWN4M2hNUllLNUdubFhwbW5lZ1duSF9xdnZvdjhXc2F3Q1RRa3dQS1hiMUpDTTdUNFRzYzVTRS14WHA2SWppUnM3cXVyT0FDUFVXX1hGZ0FCOEd5Z1Fyanc0a3BOU1hDYjhmc3JpbmVmMEx1Q1RaVWw2bkM1c2JYeDE1SnVHSktUb2QtWDFjd0ZLOXo0aWwtZWZtRGlHUQ?oc=5>
+- 场馆: 财联社
+- 时间: 2026-06-04 00:07
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE9sTVBpZmIwS0d6Q09vLVFKSHdKeDZkT1FhUDlLd25MeWhMdl82c19EZHBDQzQ0cUpPQ3A4d0g5RWktdm5jLXdjcQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-07 00:06  (2 条)
+
+- **特朗普** | 特朗交政策引共和党内部分裂 伊朗与俄乌议题成国会反弹焦点 <https://news.google.com/rss/articles/CBMipANBVV95cUxNb0Z3dTRCc0hEUzNJUjJET0psZjB0akV3M2NFdGczV0ViSGh5dm0tR0dEUlk2S1hHekFaT2lmTlVIWFhsZHZKaXhCTGZaWjFPOHVZSjNCbVJ5ckVTa0FKamNIQmJWMVppcXFOZEIyNE4tMnplSEthWHFRUnVWdnI4d3NoVHBvUmZsX0lPcVFKQUxkOWJSTjRWclJaVk14R01iWWEta1UtcWF1N2ZKSXlfeTdFSkl1N2hzYVhxQl9aRnFhU0Z0UHBNYm5WYXJ1LVkwRDVHazNpUF9EQWxveXRtTHB4ZHZobURWaHJWZzRsT1IxVHRZX2R6dXNwakwwQVhYSkVaX18xdDlBVDRxSURxY2E2WGU1TkRiSzNnWXVxenNIUXhjNDNXX3VZbVB4Y2NUSXBSYUd5RTZ5VzlSR25BMjduS0dxR3cyZGZWSUdSMW1LaVZnakFSQlhNOFNhc3hBdmdOWWxidjBCY29tNzJ5Y3NiWEdEUXRTUjRUZlVYRFlmako3cUpacklULUlLaE10Y2ZLazNLNWVVRE5jUXYyOFBfUzQ?oc=5>
+- **特朗普** | 美伊局势追踪：特朗普称协议或在周末达成，美国会众议院要求结束动武！ <https://news.google.com/rss/articles/CBMiSEFVX3lxTE9sTVBpZmIwS0d6Q09vLVFKSHdKeDZkT1FhUDlLd25MeWhMdl82c19EZHBDQzQ0cUpPQ3A4d0g5RWktdm5jLXdjcQ?oc=5>
 
 ### 2026-06-06 22:58  (5 条)
 
