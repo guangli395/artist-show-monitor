@@ -1,46 +1,62 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-07 08:33**
-- 本轮扫到 2857 条, 新增 **4** 条
+- 最近更新: **2026-06-07 11:04**
+- 本轮扫到 2862 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (5 条)
 
-### 周杰伦2026北京演唱会二开抢票启动
+### 林俊杰偷开周杰伦车，墨镜遗落现身其MV
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6605861453_m189bd724d03301cegs.html>
+- 链接: <https://k.sina.com.cn/article_3779202361_me1420d3903301dukc.html>
 
-### 与特朗普公开失和，内塔尼亚胡大选悬了？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-06-07 05:20
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBaYzdBZi03S0xZSDVMWk43ZHcwOWItR01kdkp6eXJjaHUtSEJPRVBDSlkwd1Vpel9kOHRadjBfdHVmdEpYaXpQOEpERWQ?oc=5>
-
-### 特朗普：我要爆个小料
+### 特朗普回应“NBA总决赛门票太贵”：那他们电视上看呗，生活就是这样
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-06-07 07:18
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxPS2EySW1ucnk2djVyYVk3bm8xZEMtWUlkOWM5UDVRQXF4RXpNc1M4ekphcDhNbUtxREQ2a0ViS1BtR0dzaFhjb2gwckF0XzAzUXJMSE1TNXRabWp6MHJ2bkwyZlVYa1BxbUM0b255RDdQM2Q0b2JnVGJwdnRLNkpVdmgzVm4tM3gwOEVRYg?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-06-07 07:54
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxQZ0JIakhIb3FPQlc5bFd1cEU0N3VuZjlMRDVMOXBuNzZnY2hYU0VQNjc0RHZaOG1wVVo3UUctY0ZrSWhYdGtybFFyRF9VNzdzVlRQOGtKRFFGZmhsZVUyNzQyTEZXZGlmVml3alE0UG9feGVVdk5UWksyQk96R1ZLendHLUNHWnM?oc=5>
 
-### 特朗普说将迅速结束伊朗战事
+### 特朗普女儿女婿，在欧洲被“火烈鸟”围剿了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-06-06 23:10
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PRnhrT3hLNTY2S0FnTFJGSmVwY0Q3c05jZ3ZCeTk4RjNIZzdycTlaSGktVjRDTDZkbEJzLWUzZ3BRNVFGalQ3WEU4enl3Q3h3aFJXSkcxczVlVzkzcUllZQ?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-06-06 23:58
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5LZVNvU000X1ZZTENZRHcxalNpNkhMeXBwVlJNQnE2TmYxR3NqOGQzdk90SnFUQkRTUTVQQVRvNU9Vb0JvWEcxTEt2dXJGWVZxUDRhbUtQbmc0ak93TE1MRjlfaWwxNEx6d0lrbmd2LXpLSDNTWFo2VQ?oc=5>
+
+### 因特朗普到场观赛 NBA总决赛观众将接受“特勤局级别”安检
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新京报
+- 时间: 2026-06-07 09:42
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFQV9qbHVCZHhCaHRVYjNTXzRSU19XOXJRRU4yNzBDekZsUHppbmw2UFhKQmpSUmpWQnlRZU52Q2lEUjh3UGR4V05BNEVMRGl3TXJ5SGtvYWpYTE5VWTdjSFFhSno?oc=5>
+
+### 特朗普回应“NBA总决赛门票太贵”：那他们电视上看呗，生活就是这样
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-06-07 07:54
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1TOEgyMGpyRFNLNUZnT0k3cWtBRlloNE0wMVdQNkZPU2hHamJnbkZWRnJwalVmQTZRb0g4anRuWDlxNGdIY0lDZmpZZElJZjE2QmpBWWhkQ0kwNURkODVla196VTY0cVRESjJCNWprUWE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-07 11:04  (5 条)
+
+- **周杰伦** | 林俊杰偷开周杰伦车，墨镜遗落现身其MV <https://k.sina.com.cn/article_3779202361_me1420d3903301dukc.html>
+- **特朗普** | 特朗普回应“NBA总决赛门票太贵”：那他们电视上看呗，生活就是这样 <https://news.google.com/rss/articles/CBMihwFBVV95cUxQZ0JIakhIb3FPQlc5bFd1cEU0N3VuZjlMRDVMOXBuNzZnY2hYU0VQNjc0RHZaOG1wVVo3UUctY0ZrSWhYdGtybFFyRF9VNzdzVlRQOGtKRFFGZmhsZVUyNzQyTEZXZGlmVml3alE0UG9feGVVdk5UWksyQk96R1ZLendHLUNHWnM?oc=5>
+- **特朗普** | 特朗普女儿女婿，在欧洲被“火烈鸟”围剿了 <https://news.google.com/rss/articles/CBMieEFVX3lxTE5LZVNvU000X1ZZTENZRHcxalNpNkhMeXBwVlJNQnE2TmYxR3NqOGQzdk90SnFUQkRTUTVQQVRvNU9Vb0JvWEcxTEt2dXJGWVZxUDRhbUtQbmc0ak93TE1MRjlfaWwxNEx6d0lrbmd2LXpLSDNTWFo2VQ?oc=5>
+- **特朗普** | 因特朗普到场观赛 NBA总决赛观众将接受“特勤局级别”安检 <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFQV9qbHVCZHhCaHRVYjNTXzRSU19XOXJRRU4yNzBDekZsUHppbmw2UFhKQmpSUmpWQnlRZU52Q2lEUjh3UGR4V05BNEVMRGl3TXJ5SGtvYWpYTE5VWTdjSFFhSno?oc=5>
+- **特朗普** | 特朗普回应“NBA总决赛门票太贵”：那他们电视上看呗，生活就是这样 <https://news.google.com/rss/articles/CBMicEFVX3lxTE1TOEgyMGpyRFNLNUZnT0k3cWtBRlloNE0wMVdQNkZPU2hHamJnbkZWRnJwalVmQTZRb0g4anRuWDlxNGdIY0lDZmpZZElJZjE2QmpBWWhkQ0kwNURkODVla196VTY0cVRESjJCNWprUWE?oc=5>
 
 ### 2026-06-07 08:33  (4 条)
 
