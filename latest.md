@@ -1,32 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-07 17:46**
-- 本轮扫到 2881 条, 新增 **2** 条
+- 最近更新: **2026-06-07 19:12**
+- 本轮扫到 2883 条, 新增 **2** 条
 
 ---
 
 ## 本轮新发现 (2 条)
 
-### 美军准备处决四名死囚，正等待特朗普下令
+### “普京-特朗普隧道”，最新消息
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-06-07 12:14
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE4xUUpmY2s0bXh2Ym9yVU40TDFzRFRNU3RnQndLc2U4ODhzRzhtQjdSaVNWOVJvdkZMYUpocWlIYzNCNlk2OGlDdGNhM3YybmdBVHN2YnBlVzlOUVRpSHFXbFpHMjR5Ym9idGRPcVRoaVU?oc=5>
+
+### 特朗普：在达成和平协议之前 不会解冻伊朗资产
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-07 16:12
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE9ldDVpV25NZTRWR0N1LVM3UUYteDd4U0JodGkzWWp5MURtNy0tMzZIUmNSeUpJSFBSMXFzZ3dhejctUDFGOVZzLWRRMS1QajlvNmI4SzJKX0pGamlZU0QyZVJiLVdxVTZuNXI0S3Rqc1RqRE1lYmc?oc=5>
-
-### 特朗普女儿女婿，在欧洲被“火烈鸟”围剿了
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-06-07 00:26
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5SM090b0syQzR2UlVPUzJaUWZQcTNFSDR1MHNkTjgyNnd1YlBoWXBhSlh5cTY0UTl2U2pqNGhxWG9JVUNoNGVnbWxkMUo?oc=5>
+- 时间: 2026-06-07 14:11
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWFdnd3RuTHZUTlpvazRUMGFjc3RVMDRhR2pjaVFQcDYxWHdIbElKaEJzOV9XY2pOQWRZb3pwcEQ2d2RUc3V1QnBMRHBZQmJUNV84aVZpdkNUZU51NmtqXzlKdjVWd1FnR2M0TDV2c215cVlvRUlEcmpHRE82N0RIRDlXa3lKSzBqMHc0VXF0LWZKWmNjWkNTNTZjeDNsLW1IZktCZmVCZ19SQXNRNHVDUnN3OVEzbVM1d2NHQThZSzN2RkFlWXk3Rk90NDgwczdkX0FtYWk5YThmRlNvcE53?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-07 19:12  (2 条)
+
+- **特朗普** | “普京-特朗普隧道”，最新消息 <https://news.google.com/rss/articles/CBMicEFVX3lxTE4xUUpmY2s0bXh2Ym9yVU40TDFzRFRNU3RnQndLc2U4ODhzRzhtQjdSaVNWOVJvdkZMYUpocWlIYzNCNlk2OGlDdGNhM3YybmdBVHN2YnBlVzlOUVRpSHFXbFpHMjR5Ym9idGRPcVRoaVU?oc=5>
+- **特朗普** | 特朗普：在达成和平协议之前 不会解冻伊朗资产 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWFdnd3RuTHZUTlpvazRUMGFjc3RVMDRhR2pjaVFQcDYxWHdIbElKaEJzOV9XY2pOQWRZb3pwcEQ2d2RUc3V1QnBMRHBZQmJUNV84aVZpdkNUZU51NmtqXzlKdjVWd1FnR2M0TDV2c215cVlvRUlEcmpHRE82N0RIRDlXa3lKSzBqMHc0VXF0LWZKWmNjWkNTNTZjeDNsLW1IZktCZmVCZ19SQXNRNHVDUnN3OVEzbVM1d2NHQThZSzN2RkFlWXk3Rk90NDgwczdkX0FtYWk5YThmRlNvcE53?oc=5>
 
 ### 2026-06-07 17:46  (2 条)
 
