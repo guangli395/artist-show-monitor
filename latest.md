@@ -1,56 +1,62 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-08 20:38**
-- 本轮扫到 2950 条, 新增 **5** 条
+- 最近更新: **2026-06-08 22:21**
+- 本轮扫到 2955 条, 新增 **5** 条
 
 ---
 
 ## 本轮新发现 (5 条)
 
-### 肯尼迪中心从其网站上删除特朗普的名字
+### 程潇这是带来美梦还是噩耗，又让训练生跳主题曲，心累呀！
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_6579479496_m1882ae3c803301brik.html>
+
+### 特朗普提名托德·布兰奇出任美司法部长
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-06-08 20:20
-- 链接: <https://news.google.com/rss/articles/CBMitwJBVV95cUxObi1rYWVxdVcwVHR0VXAxTEhraHM5Yl9OYm9RZk5udmZhclVDUGdINGthU2dSaFVIRDZUT0FsSWhyVk00SUVfc2lIempYZ0Y4NlhLWGt0MHhDOE90R1NRaU1UTnpWYldTQzE3M3h1b1pXRWsyNXF2UGpoRndxVkluSU10TUZfbHFhLWg4dFVwOG03SEdlSURtZkRyLTZmYkxRdlJDMU1sbzhhMGhzb24wZnZ5eDF2VWFCOFNrbjRYcXZXN0xjd0t2MHA5a3FPWGFxSmg4dDJZVlJnVGg5OW5NbHd2cVdJTlB6UENHWEh4WEExNXdmT056amUtWXp2TEcxR2tTLVlZQ1hhM1Yydm5wczFxUTY5UDljRGJSdTFKR3EwbnZ1c0NGWHdwM2hPNWZWVDlUYVROSQ?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-06-08 22:10
+- 链接: <https://news.google.com/rss/articles/CBMirwFBVV95cUxOam9uRktzcW51cWJaN29hMGNqSXNiVDZrWThkeTU3dHZBSTJwRmhEelZnV0pJR2c1VDFoRXlYY2k1eURzZXo5Z1E1WS16b2phV3lMY0tnMVZrc0JnQk5VU3FuTUVoX3FpRFBUdGdyY2hMMkVfbDg2T3VEaTkyU2RwMEszSEQ3Y2ppZkRZakVXc2FKQjAtLXgzbGJBbGtsN0tQRWJlOTRSZm9jaFpJODQ0?oc=5>
 
-### 特朗普致电内塔尼亚胡要求克制 以伊互射飞弹后同意暂停攻击
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-06-08 19:46
-- 链接: <https://news.google.com/rss/articles/CBMipANBVV95cUxNY2RnUHVrM3VCdVp2M0JhbTB0dS1yclRkRTFlNUd1eFJua2RGSy1zSmpHQWROM0JRS3lBUHhyTHIwZWJQVWNKZ1cxTVU2c0tibEU3eGE5SEVQV0lkN0NnSHp1bjE0c3FCNGtkNWUweGFzMUxqcWJ5czhnOW51YVV1ZkJpVWN2a0F4cFM4YXl6d2ZmeFl4Rm1zRDNsdmFuVDc4NlpoRWs2WEZaNnk5dmJtT3NNeGItR0VqWWdsMXVoM0FuTDI0a3FjS2x3bjNQRVRjWEhBeDE4UHpHcUczT0l1SDRzZGlxbE1TYVZTajVzUlB3cXBLS0lIZ3E3RkxlTHhwanNEeUZhaGJ1dUtlZV91a2tPWjBPbkhkUVFkMHdzWkREMmhIMUtKX0hpaTdZT2s3ZklTTEZ6V0UxTnNiRFNySUViVXFSUWZDSHR0aEVjeEJ2RWZWWlQwUEFkTVM5RllDY1B5QVNWWEVrd0llTmJSTUJMUE15bFIzbk5fR1VFSlNya2NabnFJMVMtekhhRFM0bzVzWlg2U0tVbEQyVWxvLVEtYjg?oc=5>
-
-### 特朗普接受采访摔麦离场，直斥主持人“要么是骗子、要么是蠢货”
+### 特朗普总统呼吁后，以色列和伊朗政权停止了冲突，美国同时正与德黑兰就达成协议进行“最后谈判”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-06-08 01:56
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBTUEw2VkRTZzlOUl9uT1pnbjRUWVBLYWlnY2VpejI2c0lpdjJiTEpwVTY5aWRoWDBqNFhBRThaTmFsMzdJZ25xQ0tHQ1B0ZDdTejJQUk9iUE9rSFFQRGdFdU90WlpXTWNqRzkwbGw3Qm5HWGJIT1g2eA?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-06-08 20:32
+- 链接: <https://news.google.com/rss/articles/CBMi2gFBVV95cUxQN1JsbWkzcFh6cV95WWxYOFkzLTdNa0s1TDBnTkZxRGEtT3RFMHdBMktvdHVGTW05ZGJVTkZWV3dQNU5fd0k1VjRQZ2hKYlVoUzdqNlVBZlRIZUJGdUZNYWUzTDBLaDNDaDBkSVJON0J4WUFwNVVfZ1hlbnJ1MXkzRmlxQ204Zm1SR1dkMVdaVzljTDVrak5idXl0dXE0b29wRklzdndCSTcwMWJkTEZ1SUlrSHgwcWNWOEIyNXc3S1dzNW5kUElFcW1RUDFZdjBJeGlvZEd1Mlp0Z9IB3AFBVV95cUxPYjRqTDV6UVZ2WUs2WXhOUi1zazU0MXhsSFJLdkdTN0ltNXQwd0NpYWVOYk9MY2hubWRaWGZuNkxET2hURHU2cXVNMkFUbmc1ekp5dUt4Wl9pSERuSHhQcU84bFhwQlFQcFJOTGNnVHFUSVhaZnZMY2Q0Um9JTTI5emk1bGo5TkJrVDZtLWZqTzFseVRBdzU0VWwwX1BCZ0Y5X090Wk9nOGNDMlV6NzdaWkZUcGZUSlc2ZUtZSEd0ZHVUYmdXNDliYVRJazJ0UzNTdXpCS3NoSjdXckZv?oc=5>
 
-### 肯尼迪中心从其网站上删除特朗普的名字
+### 因国会山骚乱话题引发争吵 特朗普采访中途愤然离席
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-06-08 20:20
-- 链接: <https://news.google.com/rss/articles/CBMitgJBVV95cUxOdUhqalVmOG9DSTg2dElnNl9iLVVHQk5EZ0IxZ0pqWUI3cnhfMGliUWRxOXdJcW91RkVVUk5yWkJSQld4MjdDLVVhV2VEWEItalVwa1lEWnhVTFdGV3o2aUlocDRxcXNlYmMxRlVkZlhTN0ktY2xMa3lDdVI4NFdQaVI1dkdjWXFHVUNVcU9KZ1F3ZVQ3SXR6WnhLcDNkaE9LbjlmRjJtWWlxNDI2QzRZMFhFWGlZZUJpT1pZSGVpcldSSFNMRGVOcUtnYlZOTFNVZGZmejAtQ2RGM0ZDTVkzS25ld09PY0hudHRpLUotdTh3cXE1WnpNeW8xLXU5cDVHQTBXM3I4OXdGRXNDQzJBekRGRWxtYUFSNktUT2FKMU9QTUN4Z0Q0SUV1WXJlZFFtdGw2S0R3?oc=5>
+- 场馆: 财新
+- 时间: 2026-06-08 13:24
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5jdEV4bGdCSklWYmZtWlV2T3JLMWRuWW84RTVzVF9ld1JfUkJscV9OWk8xSTBmdnFxZnlHR2RCeTJ0RnZWTTJWRGktd2ZPbjNJZVhyc2xOSjNfdVdmZm9xVzhqcnBybzRnSXc?oc=5>
 
-### 美股指数个别发展；大型科技股续走高，特朗普促成伊朗与以色列停止互相空袭
+### 美股指数个别发展，大型科技股造好；伊朗及以色列在特朗普促请停火后停止攻击
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: AASTOCKS.com
-- 时间: 2026-06-08 19:57
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE8ydUJ4Y1FDUXFzMEFta01mcElOdGRKY3RVczRuU0ZGMHFscWtRTzdKalNpYVhnNE13dDNzZVRORkJ4VDdPeGZ0cWhUN3dGeXROOW90S19Pb1EtQXFjZl8wSGRpSm9XOFpCSjhpZU9uUQ?oc=5>
+- 时间: 2026-06-08 21:05
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE9JVV9TTThjN2dUYUZjSUc1dGo1bVZyQmVMQTZQY3FiT0lXR3BFanlGdDFJVXpzVERXQVJvVXFZci1XWUNUemNpdlJPX0JaRF9ZRU9Lb1F6ZWUxME55dG1HY2QxeTFza0FRM0dqVGNjbw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-08 22:21  (5 条)
+
+- **蔡徐坤** | 程潇这是带来美梦还是噩耗，又让训练生跳主题曲，心累呀！ <https://k.sina.com.cn/article_6579479496_m1882ae3c803301brik.html>
+- **特朗普** | 特朗普提名托德·布兰奇出任美司法部长 <https://news.google.com/rss/articles/CBMirwFBVV95cUxOam9uRktzcW51cWJaN29hMGNqSXNiVDZrWThkeTU3dHZBSTJwRmhEelZnV0pJR2c1VDFoRXlYY2k1eURzZXo5Z1E1WS16b2phV3lMY0tnMVZrc0JnQk5VU3FuTUVoX3FpRFBUdGdyY2hMMkVfbDg2T3VEaTkyU2RwMEszSEQ3Y2ppZkRZakVXc2FKQjAtLXgzbGJBbGtsN0tQRWJlOTRSZm9jaFpJODQ0?oc=5>
+- **特朗普** | 特朗普总统呼吁后，以色列和伊朗政权停止了冲突，美国同时正与德黑兰就达成协议进行“最后谈判” <https://news.google.com/rss/articles/CBMi2gFBVV95cUxQN1JsbWkzcFh6cV95WWxYOFkzLTdNa0s1TDBnTkZxRGEtT3RFMHdBMktvdHVGTW05ZGJVTkZWV3dQNU5fd0k1VjRQZ2hKYlVoUzdqNlVBZlRIZUJGdUZNYWUzTDBLaDNDaDBkSVJON0J4WUFwNVVfZ1hlbnJ1MXkzRmlxQ204Zm1SR1dkMVdaVzljTDVrak5idXl0dXE0b29wRklzdndCSTcwMWJkTEZ1SUlrSHgwcWNWOEIyNXc3S1dzNW5kUElFcW1RUDFZdjBJeGlvZEd1Mlp0Z9IB3AFBVV95cUxPYjRqTDV6UVZ2WUs2WXhOUi1zazU0MXhsSFJLdkdTN0ltNXQwd0NpYWVOYk9MY2hubWRaWGZuNkxET2hURHU2cXVNMkFUbmc1ekp5dUt4Wl9pSERuSHhQcU84bFhwQlFQcFJOTGNnVHFUSVhaZnZMY2Q0Um9JTTI5emk1bGo5TkJrVDZtLWZqTzFseVRBdzU0VWwwX1BCZ0Y5X090Wk9nOGNDMlV6NzdaWkZUcGZUSlc2ZUtZSEd0ZHVUYmdXNDliYVRJazJ0UzNTdXpCS3NoSjdXckZv?oc=5>
+- **特朗普** | 因国会山骚乱话题引发争吵 特朗普采访中途愤然离席 <https://news.google.com/rss/articles/CBMiakFVX3lxTE5jdEV4bGdCSklWYmZtWlV2T3JLMWRuWW84RTVzVF9ld1JfUkJscV9OWk8xSTBmdnFxZnlHR2RCeTJ0RnZWTTJWRGktd2ZPbjNJZVhyc2xOSjNfdVdmZm9xVzhqcnBybzRnSXc?oc=5>
+- **Trump** | 美股指数个别发展，大型科技股造好；伊朗及以色列在特朗普促请停火后停止攻击 <https://news.google.com/rss/articles/CBMib0FVX3lxTE9JVV9TTThjN2dUYUZjSUc1dGo1bVZyQmVMQTZQY3FiT0lXR3BFanlGdDFJVXpzVERXQVJvVXFZci1XWUNUemNpdlJPX0JaRF9ZRU9Lb1F6ZWUxME55dG1HY2QxeTFza0FRM0dqVGNjbw?oc=5>
 
 ### 2026-06-08 20:38  (5 条)
 
