@@ -1,96 +1,107 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-08 11:52**
-- 本轮扫到 2929 条, 新增 **10** 条
+- 最近更新: **2026-06-08 15:37**
+- 本轮扫到 2939 条, 新增 **10** 条
 
 ---
 
 ## 本轮新发现 (10 条)
 
-### 伊朗空袭以色列！特朗普紧急发声：伊朗应该回到谈判桌 达成协议
+### 蔡徐坤马来西亚音乐节｜蓝调军装燃舞台，王者压轴绽锋芒
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1301666333_4d95da1d0270137k6.html>
+
+### 特朗普：已知晓以伊最新局势 美军处于戒备状态
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-06-07 05:27
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sRlNQZnFRdzZTb2VBRHNTYmJZbFNrRkJZMGozc0YyZEtnWW91ZC1aVmMzc2FQdlZXS2YwWXEwdHc2LXFEdFFTZEE1WTdqYXZ3TUFmVW1PeGhkV0VaUDlyQg?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-06-07 19:28
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTFBGajdmNjgyaXExcjhPV21iaXBQemlWR21aX1k3b1FCTTNwMWtEalhFR2toWG9vblhvcVlHZFVxQWhqWkRQczFsbzd2RTR5bkdOWWpuTWlJa2JJcTdkakdXZ3BVZGYteExuMXdZMUMzYTZ3VUla?oc=5>
 
-### 爆发激烈争吵，特朗普愤怒离场
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-08 04:18
-- 链接: <https://news.google.com/rss/articles/CBMi_AFBVV95cUxOTjVocGl5VGdtZFRmZWhsbFd0ZHZLWnF6NTZsREhJbldweFRyT0tCRG9RZHJQY2VnRktwckF2WmxzTTEzcTlXeEtnYWI3LTF2a05ZZG5HVC1kX0J1ZDBvaFVwZFJwRlg5U0lELUtSXzY2WTVsQ3hpNVcxTEx5UWZtNkpJS0tCNjZ6OGJia3hOVzA2S0NveFhmWWxoUGFEN2ZGSFI5MXNVZmxvdFdQSlZjNG9nMmh3UFhaS0RadUNMOTg5TnRkZVBvOVBzS1NwWTdURUNMRE1XWTRZSW9yXzRtcnFrRWRtTi1uaWI2MFNRQkRyOTFpd3F3SHlaTGY?oc=5>
-
-### “根本没有理由加息”！特朗普公开“炮轰”美联储紧缩预期 新主席沃什即将迎来“火的洗礼”？
+### 伊以相互打击之际，美媒爆料：特朗普和内塔尼亚胡不到24小时内进行两次通话
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 同花顺财经
-- 时间: 2026-06-08 06:49
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTFBRYkhackNmM2RpWjZWVzgwZkJORUNtYWFlNzdqbE90RUMyVkplZ1NnZ1o5djAxYWRtY252eElveHlDd1NzVDNDZVpCV3BxeUc0NFBDYkptanVyUnlVMHc?oc=5>
+- 场馆: 环球网
+- 时间: 2026-06-07 21:43
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTFB2WVZRQkk5TzJaRlRVN014Sk5zLXR6YnVNN0ZuTFVaQ1hXS25oZHM0VURvNUZpdkJNRnJQSjc2ZWdkLXhxblN6U1ItdmFsWFdyQ3I3R1oycks?oc=5>
 
-### 美议员焦虑：“特朗普”级战舰，抗不过中国导弹
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-06-08 04:59
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9SVUlid1FwbllNd0RQMC04eW9yUUNwYWE1Z1p3WWR3VmM2aEdMTlBYZmxnWjh2R0NzX3ZRUVdQZmVkU0tOREJBU2tQbmQ?oc=5>
-
-### 深视频|专访变吵架，特朗普愤然离场！
+### 特朗普称以伊须立即停止交火
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: jfdaily.com
-- 时间: 2026-06-08 07:23
-- 链接: <https://news.google.com/rss/articles/CBMiWkFVX3lxTE9RNFRPSTl0T0VlVEJ5NC1DUGZNUDBrZndNd1R1MVk2Z0QwSzcwTVNtZlFsUUNuMVJDZ0FIRUVXdkFFZ2tad2g0dG9zTktjYU1PV1hFb3JKUFBxQQ?oc=5>
+- 场馆: 每日经济新闻
+- 时间: 2026-06-08 13:45
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9nS0RZRDltNFJHQzFxbFUxU1BPZVNSMWl6bGxoaDdualBSallhdVczTTE2NXJCc1NORWJSY0FLUlpaQ1NLMkpfU3VETnktZy1hMk1qUVFsdzJhMDZWbF9ycmMyOFQ3dw?oc=5>
 
-### 特朗普：以伊必须立即停止“交火”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-06-08 09:48
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XbU5HMlk2T1I0bG9oVXJoMjBlNUp4YVljLVhZMUhXV3FLLUhTYjRmNnVaQjg2Y1N3cUdQamdhMDBFVGRjb0FQV0RrRWRCYUNjNGptbGh4czRmbGNzNFE5Zg?oc=5>
-
-### “这是特朗普最差、最危险的任命”-观察者网
+### 今日欧洲 - 欧盟移民政策正在特朗普化？设境外“遣返中心”措施引发争议
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-06-08 02:42
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFA4REIzamJQWDUxNDR4SHpGNHBKX1VkZ0lKY29JX2JaaTlMTFlRNlZ2Z1NhcFByYlJad2Y3TjRMblBCZEg5elJGYzAyX2J4aUZuM080V1l3TkhuX3QzU1JmUzZGYkMyRWI3a3c?oc=5>
+- 场馆: RFI
+- 时间: 2026-06-08 11:57
+- 链接: <https://news.google.com/rss/articles/CBMi2ANBVV95cUxNX2lqZHFxZGRKVG5BLVloU1JjMjUzS1NmNWxlR1Fjc1g0aGFrYk1ya3NfQm9CWEdfWnRSRDVSRjBYZFo1VEpsQU00MmdrT05OU0R2VzZCcjladVV4aHZNTVVZZmQ4SUNQRDZWTVk2TEZzT2ttOXFfNHBFcm1US09WMVhvS2E5dFFyTG51V2lGZTBScWZqTXNmWEpwTjNLZG5PWXNhOGszN285eFJBWEVsVG5ObFJObG1aaXJpdU1WWFVURG9tbzdBQktZMlhQZ1FUTDVCQXd2S2ZWNlJYdHZCNmFCeWh3ek95enpVYmdmbFpTVVlyT2RycWZZZGF2RVFrOEpRQ2c2SGczNXBSZHVwRDRnTDl4SGE0Z0VwU1BFajV2S1pwYzB6bGVEUlJYWEFPWmN6VWVsaWY3OUZyalVZSVBCVWxkRThMX0NwaExZVE9JYmRWUnkzZUdwa3FreldkcFRack5uQmwyWk50cHZuMDUwNklrTVpyRVNFbEN4TXU3LTZHaEd3eHVKV0JZZnBzdWt6bDU2STg5ZnRfQkw3YVY2RUUwWmM1TzVBcXkzWDZ1RDN0eTdCcHVGdDBmVzNIbmRiNGZfRWNNZjg1TU9EazhXYzFWeU1U?oc=5>
 
-### 外国企业纷纷撤离，特朗普政府一步步持续“绞杀”古巴
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-06-08 06:03
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE51YW5MSWp1NGF5NmZ0Q0RRSk5jRG1IdzBrX0lac0hiRjdxMHc1TDdhenVXMmJkc1c4b2RlZ0lvTnpidEJQbEstc1FMOW9fMlQzbk1EMVdGQWt6LVQyZVI2UQ?oc=5>
-
-### 美伊重量级表态！特朗普称在和平协议达成前不会解冻伊朗资产或解除制裁_财经要闻
+### 在特朗普下令停火后，以色列袭击了伊朗一家化工厂
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 黄金网
-- 时间: 2026-06-08 06:35
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE5oNDJMdFNjT196TFFKZ0NyQWtGU3N6eE5ianBoNFcwZW9Ca3pSc2doWlE0ODAtWFNoRGFaQ3kwcEdmVWdyWmdnWi1LVjc4UUlGdi1lYnBrYjhiYndkZXVTemNaeDd0MWFMQjc4?oc=5>
+- 场馆: chinanews.com.cn
+- 时间: 2026-06-08 11:50
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBqaW43Ylh1RWI5c05nYzNSZ0VpSFI4amt5YTYzZnJ5bjU4V0NrNkMyV2REUl92dl9MMWFOUUxXSG1udnJiaThFZlpyWGxySmxqc0VwZjcySkloNDVyTmdxN0YwQVduRnha?oc=5>
 
-### Dow Jones Top Energy Headlines at 7 AM ET: Trump Calls for Israel and Iran to Stop Fighting. Oil Prices Rise. | Saudi ...
+### 特朗普接受采访时摔麦离场，直斥主持人“要么是骗子、要么是蠢货”丨夜观天下·漫话
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 四川在线
+- 时间: 2026-06-08 08:21
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SSkVvbWJGeW1NV2VsdE9yT1BPaXl0YWJROXlDWkMxeWVPNlZfT2xpZnhBa2Y1czJwMFFHbkVjdnJIbnFzZTlNOTJ2ak45Tm12Qm5rdUFxSWRnaGZ1bnpJeg?oc=5>
+
+### “根本没有理由加息”！特朗普公开“炮轰”加息支持者
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 国际金融报
+- 时间: 2026-06-08 13:12
+- 链接: <https://news.google.com/rss/articles/CBMiX0FVX3lxTE45NWhRX2s5U0lMOC0xRnlSNk1WQkVPczRReXlzbGJrdFVvRnJHbFV6bWl3ZjJtUU90UzE2bnQ2dkhQYVFSRDJhRkRHMEN2RHVxV3B2R1JrUkktSEhEbXBB?oc=5>
+
+### 美股期货开市前向上，因特朗普於以色列与伊朗新一轮冲突下力保脆弱停火协议
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 富途牛牛
-- 时间: 2026-06-08 11:00
-- 链接: <https://news.google.com/rss/articles/CBMijgFBVV95cUxOVW1oY1hTMWoxM1ZDeXlyR2MxM1ZaMkNveE52cHBRYnVEc0FvZjhCaWNQcWxSUUFjYXo2b1BleEp2b3lZX2paZUFtVDZDZE8xeTV0NDJQQ3ExdGgyR2xSdkI4dHFNNkM0MHo5NDl0VmFGaEdELUFCUV9pc2hKMVRINzNmMkgtYzg2RXlqYXJ3?oc=5>
+- 场馆: AASTOCKS.com
+- 时间: 2026-06-08 12:50
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE05M28tOVJtVHhxZURtdU1xb1Z4MmU2YkVTTlFMYW42ZnI3LW1ZUFBSMkFXRjVsRzl5MWZaTnFFMERMTm5OenVhcEZCSTlpcVhvX012Zy1FOXVyd0pvV0VabnZTZnlkRjk2eXdPRzlTRQ?oc=5>
+
+### 美股期货於开市前造好；特朗普在以色列与伊朗再起冲突下争取维持脆弱停火
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: AASTOCKS.com
+- 时间: 2026-06-08 12:03
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTFA3VXA4RjNYaExUYlN2blhHSEIxdWg2YS1wdmYtOFY2ak5NOXMwek5XRVI5UEljZ2NFSEdTZU45X21nUWJYcmllTnE5N3c5aGc5ako0UjFMbEMycC0wWEhmdEtiQnoxMjIyTnlmTTNsdw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-08 15:37  (10 条)
+
+- **蔡徐坤** | 蔡徐坤马来西亚音乐节｜蓝调军装燃舞台，王者压轴绽锋芒 <https://k.sina.com.cn/article_1301666333_4d95da1d0270137k6.html>
+- **特朗普** | 特朗普：已知晓以伊最新局势 美军处于戒备状态 <https://news.google.com/rss/articles/CBMidEFVX3lxTFBGajdmNjgyaXExcjhPV21iaXBQemlWR21aX1k3b1FCTTNwMWtEalhFR2toWG9vblhvcVlHZFVxQWhqWkRQczFsbzd2RTR5bkdOWWpuTWlJa2JJcTdkakdXZ3BVZGYteExuMXdZMUMzYTZ3VUla?oc=5>
+- **特朗普** | 伊以相互打击之际，美媒爆料：特朗普和内塔尼亚胡不到24小时内进行两次通话 <https://news.google.com/rss/articles/CBMiWEFVX3lxTFB2WVZRQkk5TzJaRlRVN014Sk5zLXR6YnVNN0ZuTFVaQ1hXS25oZHM0VURvNUZpdkJNRnJQSjc2ZWdkLXhxblN6U1ItdmFsWFdyQ3I3R1oycks?oc=5>
+- **特朗普** | 特朗普称以伊须立即停止交火 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9nS0RZRDltNFJHQzFxbFUxU1BPZVNSMWl6bGxoaDdualBSallhdVczTTE2NXJCc1NORWJSY0FLUlpaQ1NLMkpfU3VETnktZy1hMk1qUVFsdzJhMDZWbF9ycmMyOFQ3dw?oc=5>
+- **特朗普** | 今日欧洲 - 欧盟移民政策正在特朗普化？设境外“遣返中心”措施引发争议 <https://news.google.com/rss/articles/CBMi2ANBVV95cUxNX2lqZHFxZGRKVG5BLVloU1JjMjUzS1NmNWxlR1Fjc1g0aGFrYk1ya3NfQm9CWEdfWnRSRDVSRjBYZFo1VEpsQU00MmdrT05OU0R2VzZCcjladVV4aHZNTVVZZmQ4SUNQRDZWTVk2TEZzT2ttOXFfNHBFcm1US09WMVhvS2E5dFFyTG51V2lGZTBScWZqTXNmWEpwTjNLZG5PWXNhOGszN285eFJBWEVsVG5ObFJObG1aaXJpdU1WWFVURG9tbzdBQktZMlhQZ1FUTDVCQXd2S2ZWNlJYdHZCNmFCeWh3ek95enpVYmdmbFpTVVlyT2RycWZZZGF2RVFrOEpRQ2c2SGczNXBSZHVwRDRnTDl4SGE0Z0VwU1BFajV2S1pwYzB6bGVEUlJYWEFPWmN6VWVsaWY3OUZyalVZSVBCVWxkRThMX0NwaExZVE9JYmRWUnkzZUdwa3FreldkcFRack5uQmwyWk50cHZuMDUwNklrTVpyRVNFbEN4TXU3LTZHaEd3eHVKV0JZZnBzdWt6bDU2STg5ZnRfQkw3YVY2RUUwWmM1TzVBcXkzWDZ1RDN0eTdCcHVGdDBmVzNIbmRiNGZfRWNNZjg1TU9EazhXYzFWeU1U?oc=5>
+- **特朗普** | 在特朗普下令停火后，以色列袭击了伊朗一家化工厂 <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBqaW43Ylh1RWI5c05nYzNSZ0VpSFI4amt5YTYzZnJ5bjU4V0NrNkMyV2REUl92dl9MMWFOUUxXSG1udnJiaThFZlpyWGxySmxqc0VwZjcySkloNDVyTmdxN0YwQVduRnha?oc=5>
+- **特朗普** | 特朗普接受采访时摔麦离场，直斥主持人“要么是骗子、要么是蠢货”丨夜观天下·漫话 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SSkVvbWJGeW1NV2VsdE9yT1BPaXl0YWJROXlDWkMxeWVPNlZfT2xpZnhBa2Y1czJwMFFHbkVjdnJIbnFzZTlNOTJ2ak45Tm12Qm5rdUFxSWRnaGZ1bnpJeg?oc=5>
+- **特朗普** | “根本没有理由加息”！特朗普公开“炮轰”加息支持者 <https://news.google.com/rss/articles/CBMiX0FVX3lxTE45NWhRX2s5U0lMOC0xRnlSNk1WQkVPczRReXlzbGJrdFVvRnJHbFV6bWl3ZjJtUU90UzE2bnQ2dkhQYVFSRDJhRkRHMEN2RHVxV3B2R1JrUkktSEhEbXBB?oc=5>
+- **Trump** | 美股期货开市前向上，因特朗普於以色列与伊朗新一轮冲突下力保脆弱停火协议 <https://news.google.com/rss/articles/CBMib0FVX3lxTE05M28tOVJtVHhxZURtdU1xb1Z4MmU2YkVTTlFMYW42ZnI3LW1ZUFBSMkFXRjVsRzl5MWZaTnFFMERMTm5OenVhcEZCSTlpcVhvX012Zy1FOXVyd0pvV0VabnZTZnlkRjk2eXdPRzlTRQ?oc=5>
+- **Trump** | 美股期货於开市前造好；特朗普在以色列与伊朗再起冲突下争取维持脆弱停火 <https://news.google.com/rss/articles/CBMib0FVX3lxTFA3VXA4RjNYaExUYlN2blhHSEIxdWg2YS1wdmYtOFY2ak5NOXMwek5XRVI5UEljZ2NFSEdTZU45X21nUWJYcmllTnE5N3c5aGc5ako0UjFMbEMycC0wWEhmdEtiQnoxMjIyTnlmTTNsdw?oc=5>
 
 ### 2026-06-08 11:52  (10 条)
 
