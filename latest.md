@@ -1,94 +1,73 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-08 15:37**
-- 本轮扫到 2939 条, 新增 **10** 条
+- 最近更新: **2026-06-08 18:21**
+- 本轮扫到 2945 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (10 条)
+## 本轮新发现 (6 条)
 
-### 蔡徐坤马来西亚音乐节｜蓝调军装燃舞台，王者压轴绽锋芒
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1301666333_4d95da1d0270137k6.html>
-
-### 特朗普：已知晓以伊最新局势 美军处于戒备状态
+### 美股指数个别发展；特朗普呼吁停止伊朗与以色列互相攻击见成效、停火仍存变数
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-06-07 19:28
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTFBGajdmNjgyaXExcjhPV21iaXBQemlWR21aX1k3b1FCTTNwMWtEalhFR2toWG9vblhvcVlHZFVxQWhqWkRQczFsbzd2RTR5bkdOWWpuTWlJa2JJcTdkakdXZ3BVZGYteExuMXdZMUMzYTZ3VUla?oc=5>
+- 场馆: AASTOCKS.com
+- 时间: 2026-06-08 17:43
+- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxOc1NremthelhrYUVyNlhPbHRuUi1DQ2NKYU51Q0hfUlZHNTBqSnNEbGxneE9PSVB5TEh5alNXMks0c0ZjQ0NsTUV0WUJCVnJBa3VlRUoxblB6WjB1YlFUeTJma2loTlpkQ0JKMnhSbmsxVHpLSWpaczV4c1FrenJ5eTFR?oc=5>
 
-### 伊以相互打击之际，美媒爆料：特朗普和内塔尼亚胡不到24小时内进行两次通话
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 环球网
-- 时间: 2026-06-07 21:43
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTFB2WVZRQkk5TzJaRlRVN014Sk5zLXR6YnVNN0ZuTFVaQ1hXS25oZHM0VURvNUZpdkJNRnJQSjc2ZWdkLXhxblN6U1ItdmFsWFdyQ3I3R1oycks?oc=5>
-
-### 特朗普称以伊须立即停止交火
+### 特朗普接受采访摔麦离场 怒怼主持人“要么是骗子、要么是蠢货”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 每日经济新闻
-- 时间: 2026-06-08 13:45
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9nS0RZRDltNFJHQzFxbFUxU1BPZVNSMWl6bGxoaDdualBSallhdVczTTE2NXJCc1NORWJSY0FLUlpaQ1NLMkpfU3VETnktZy1hMk1qUVFsdzJhMDZWbF9ycmMyOFQ3dw?oc=5>
+- 时间: 2026-06-08 17:26
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ZUUNYTlRsbmt0OUU4TV9EMUVGRTRJU2E4Q0lJQ0NOOEVtMDRfaHBzMDBjWkJhMnNkR3kyOXdtM0h2ckE2VzFleThEbnZTNnIzQ2huVzR6TnJ0NmJZeXFWRnRGcEpQZw?oc=5>
 
-### 今日欧洲 - 欧盟移民政策正在特朗普化？设境外“遣返中心”措施引发争议
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-06-08 11:57
-- 链接: <https://news.google.com/rss/articles/CBMi2ANBVV95cUxNX2lqZHFxZGRKVG5BLVloU1JjMjUzS1NmNWxlR1Fjc1g0aGFrYk1ya3NfQm9CWEdfWnRSRDVSRjBYZFo1VEpsQU00MmdrT05OU0R2VzZCcjladVV4aHZNTVVZZmQ4SUNQRDZWTVk2TEZzT2ttOXFfNHBFcm1US09WMVhvS2E5dFFyTG51V2lGZTBScWZqTXNmWEpwTjNLZG5PWXNhOGszN285eFJBWEVsVG5ObFJObG1aaXJpdU1WWFVURG9tbzdBQktZMlhQZ1FUTDVCQXd2S2ZWNlJYdHZCNmFCeWh3ek95enpVYmdmbFpTVVlyT2RycWZZZGF2RVFrOEpRQ2c2SGczNXBSZHVwRDRnTDl4SGE0Z0VwU1BFajV2S1pwYzB6bGVEUlJYWEFPWmN6VWVsaWY3OUZyalVZSVBCVWxkRThMX0NwaExZVE9JYmRWUnkzZUdwa3FreldkcFRack5uQmwyWk50cHZuMDUwNklrTVpyRVNFbEN4TXU3LTZHaEd3eHVKV0JZZnBzdWt6bDU2STg5ZnRfQkw3YVY2RUUwWmM1TzVBcXkzWDZ1RDN0eTdCcHVGdDBmVzNIbmRiNGZfRWNNZjg1TU9EazhXYzFWeU1U?oc=5>
-
-### 在特朗普下令停火后，以色列袭击了伊朗一家化工厂
+### 以媒：以色列应特朗普要求，暂停对伊朗袭击
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-06-08 11:50
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBqaW43Ylh1RWI5c05nYzNSZ0VpSFI4amt5YTYzZnJ5bjU4V0NrNkMyV2REUl92dl9MMWFOUUxXSG1udnJiaThFZlpyWGxySmxqc0VwZjcySkloNDVyTmdxN0YwQVduRnha?oc=5>
+- 场馆: 新京报
+- 时间: 2026-06-08 12:30
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vYVo2NGJLa2pHZkNYeDFCb0VIWkd2LTl5WEZxcjNRZGxXX3A1aS1qU2tyU3Jsam1XN1dpVVVUUUhNVTN4T3Y0MFNtb0t0YmpHMlEtWXJJdHZMZl9SV0VlN24yajQ?oc=5>
 
-### 特朗普接受采访时摔麦离场，直斥主持人“要么是骗子、要么是蠢货”丨夜观天下·漫话
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 四川在线
-- 时间: 2026-06-08 08:21
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SSkVvbWJGeW1NV2VsdE9yT1BPaXl0YWJROXlDWkMxeWVPNlZfT2xpZnhBa2Y1czJwMFFHbkVjdnJIbnFzZTlNOTJ2ak45Tm12Qm5rdUFxSWRnaGZ1bnpJeg?oc=5>
-
-### “根本没有理由加息”！特朗普公开“炮轰”加息支持者
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 国际金融报
-- 时间: 2026-06-08 13:12
-- 链接: <https://news.google.com/rss/articles/CBMiX0FVX3lxTE45NWhRX2s5U0lMOC0xRnlSNk1WQkVPczRReXlzbGJrdFVvRnJHbFV6bWl3ZjJtUU90UzE2bnQ2dkhQYVFSRDJhRkRHMEN2RHVxV3B2R1JrUkktSEhEbXBB?oc=5>
-
-### 美股期货开市前向上，因特朗普於以色列与伊朗新一轮冲突下力保脆弱停火协议
+### 美股指数上升；伊朗及以色列应特朗普呼吁停止攻击
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: AASTOCKS.com
-- 时间: 2026-06-08 12:50
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE05M28tOVJtVHhxZURtdU1xb1Z4MmU2YkVTTlFMYW42ZnI3LW1ZUFBSMkFXRjVsRzl5MWZaTnFFMERMTm5OenVhcEZCSTlpcVhvX012Zy1FOXVyd0pvV0VabnZTZnlkRjk2eXdPRzlTRQ?oc=5>
+- 时间: 2026-06-08 15:52
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE83XzRyZFhNWFhnTGxOUG4wV2xWSWlXM0lkUUNRQzE3ZmYyUlFUZURNZFpjMmFhazNhMURpRmphNnlvNmhIQ0YyYWZzUHozSjRUc2tWVnlwdk13VHpUdS1ybmNNdlUyd0oycHpGZWEwZw?oc=5>
 
-### 美股期货於开市前造好；特朗普在以色列与伊朗再起冲突下争取维持脆弱停火
+### 美股指数个别发展；特朗普呼吁停止伊朗与以色列互相攻击见成效、停火仍存变数
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: AASTOCKS.com
-- 时间: 2026-06-08 12:03
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTFA3VXA4RjNYaExUYlN2blhHSEIxdWg2YS1wdmYtOFY2ak5NOXMwek5XRVI5UEljZ2NFSEdTZU45X21nUWJYcmllTnE5N3c5aGc5ako0UjFMbEMycC0wWEhmdEtiQnoxMjIyTnlmTTNsdw?oc=5>
+- 时间: 2026-06-08 17:43
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTFBRWXpJdUhhZEl4X0ZyeEwzd2VBXzk5ZzhZbVppUTBZTE1SRWY5c1ROWFA5TDgwWHZaSm4yZXJtZzhNQWJQU3JFcEVmOGRkR2JLNTY2VE1ab0M1di01N0Q5bFdqTjlLQktxVGVxa01jcw?oc=5>
+
+### 美股指数上升；伊朗及以色列应特朗普呼吁停止攻击财经新闻Financial News
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: AASTOCKS.com
+- 时间: 2026-06-08 15:52
+- 链接: <https://news.google.com/rss/articles/CBMihAFBVV95cUxNeTB0NThaUEttU283a0JOb3Nuc21NU0Uwc0o5RGxZVlNHZ3Fva1Z1N3RBU3ZiRDQ1RkdJdmRPU0tiU213UWFUdjZRWUVBUjJTLXFIMUxub05CbG1BYTQtVm55dHZNbnlydHVzNTRDWFp0a2NMQ1p3TnBMWWMtRnJRcEU4XzE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-08 18:21  (6 条)
+
+- **特朗普** | 美股指数个别发展；特朗普呼吁停止伊朗与以色列互相攻击见成效、停火仍存变数 <https://news.google.com/rss/articles/CBMiggFBVV95cUxOc1NremthelhrYUVyNlhPbHRuUi1DQ2NKYU51Q0hfUlZHNTBqSnNEbGxneE9PSVB5TEh5alNXMks0c0ZjQ0NsTUV0WUJCVnJBa3VlRUoxblB6WjB1YlFUeTJma2loTlpkQ0JKMnhSbmsxVHpLSWpaczV4c1FrenJ5eTFR?oc=5>
+- **特朗普** | 特朗普接受采访摔麦离场 怒怼主持人“要么是骗子、要么是蠢货” <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ZUUNYTlRsbmt0OUU4TV9EMUVGRTRJU2E4Q0lJQ0NOOEVtMDRfaHBzMDBjWkJhMnNkR3kyOXdtM0h2ckE2VzFleThEbnZTNnIzQ2huVzR6TnJ0NmJZeXFWRnRGcEpQZw?oc=5>
+- **特朗普** | 以媒：以色列应特朗普要求，暂停对伊朗袭击 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vYVo2NGJLa2pHZkNYeDFCb0VIWkd2LTl5WEZxcjNRZGxXX3A1aS1qU2tyU3Jsam1XN1dpVVVUUUhNVTN4T3Y0MFNtb0t0YmpHMlEtWXJJdHZMZl9SV0VlN24yajQ?oc=5>
+- **Trump** | 美股指数上升；伊朗及以色列应特朗普呼吁停止攻击 <https://news.google.com/rss/articles/CBMib0FVX3lxTE83XzRyZFhNWFhnTGxOUG4wV2xWSWlXM0lkUUNRQzE3ZmYyUlFUZURNZFpjMmFhazNhMURpRmphNnlvNmhIQ0YyYWZzUHozSjRUc2tWVnlwdk13VHpUdS1ybmNNdlUyd0oycHpGZWEwZw?oc=5>
+- **Trump** | 美股指数个别发展；特朗普呼吁停止伊朗与以色列互相攻击见成效、停火仍存变数 <https://news.google.com/rss/articles/CBMib0FVX3lxTFBRWXpJdUhhZEl4X0ZyeEwzd2VBXzk5ZzhZbVppUTBZTE1SRWY5c1ROWFA5TDgwWHZaSm4yZXJtZzhNQWJQU3JFcEVmOGRkR2JLNTY2VE1ab0M1di01N0Q5bFdqTjlLQktxVGVxa01jcw?oc=5>
+- **Trump** | 美股指数上升；伊朗及以色列应特朗普呼吁停止攻击财经新闻Financial News <https://news.google.com/rss/articles/CBMihAFBVV95cUxNeTB0NThaUEttU283a0JOb3Nuc21NU0Uwc0o5RGxZVlNHZ3Fva1Z1N3RBU3ZiRDQ1RkdJdmRPU0tiU213UWFUdjZRWUVBUjJTLXFIMUxub05CbG1BYTQtVm55dHZNbnlydHVzNTRDWFp0a2NMQ1p3TnBMWWMtRnJRcEU4XzE?oc=5>
 
 ### 2026-06-08 15:37  (10 条)
 
