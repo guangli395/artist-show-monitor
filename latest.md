@@ -1,64 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-08 18:21**
-- 本轮扫到 2945 条, 新增 **6** 条
+- 最近更新: **2026-06-08 20:38**
+- 本轮扫到 2950 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (5 条)
 
-### 美股指数个别发展；特朗普呼吁停止伊朗与以色列互相攻击见成效、停火仍存变数
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: AASTOCKS.com
-- 时间: 2026-06-08 17:43
-- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxOc1NremthelhrYUVyNlhPbHRuUi1DQ2NKYU51Q0hfUlZHNTBqSnNEbGxneE9PSVB5TEh5alNXMks0c0ZjQ0NsTUV0WUJCVnJBa3VlRUoxblB6WjB1YlFUeTJma2loTlpkQ0JKMnhSbmsxVHpLSWpaczV4c1FrenJ5eTFR?oc=5>
-
-### 特朗普接受采访摔麦离场 怒怼主持人“要么是骗子、要么是蠢货”
+### 肯尼迪中心从其网站上删除特朗普的名字
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 每日经济新闻
-- 时间: 2026-06-08 17:26
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ZUUNYTlRsbmt0OUU4TV9EMUVGRTRJU2E4Q0lJQ0NOOEVtMDRfaHBzMDBjWkJhMnNkR3kyOXdtM0h2ckE2VzFleThEbnZTNnIzQ2huVzR6TnJ0NmJZeXFWRnRGcEpQZw?oc=5>
+- 场馆: RFI
+- 时间: 2026-06-08 20:20
+- 链接: <https://news.google.com/rss/articles/CBMitwJBVV95cUxObi1rYWVxdVcwVHR0VXAxTEhraHM5Yl9OYm9RZk5udmZhclVDUGdINGthU2dSaFVIRDZUT0FsSWhyVk00SUVfc2lIempYZ0Y4NlhLWGt0MHhDOE90R1NRaU1UTnpWYldTQzE3M3h1b1pXRWsyNXF2UGpoRndxVkluSU10TUZfbHFhLWg4dFVwOG03SEdlSURtZkRyLTZmYkxRdlJDMU1sbzhhMGhzb24wZnZ5eDF2VWFCOFNrbjRYcXZXN0xjd0t2MHA5a3FPWGFxSmg4dDJZVlJnVGg5OW5NbHd2cVdJTlB6UENHWEh4WEExNXdmT056amUtWXp2TEcxR2tTLVlZQ1hhM1Yydm5wczFxUTY5UDljRGJSdTFKR3EwbnZ1c0NGWHdwM2hPNWZWVDlUYVROSQ?oc=5>
 
-### 以媒：以色列应特朗普要求，暂停对伊朗袭击
+### 特朗普致电内塔尼亚胡要求克制 以伊互射飞弹后同意暂停攻击
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-06-08 12:30
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vYVo2NGJLa2pHZkNYeDFCb0VIWkd2LTl5WEZxcjNRZGxXX3A1aS1qU2tyU3Jsam1XN1dpVVVUUUhNVTN4T3Y0MFNtb0t0YmpHMlEtWXJJdHZMZl9SV0VlN24yajQ?oc=5>
+- 场馆: RFI
+- 时间: 2026-06-08 19:46
+- 链接: <https://news.google.com/rss/articles/CBMipANBVV95cUxNY2RnUHVrM3VCdVp2M0JhbTB0dS1yclRkRTFlNUd1eFJua2RGSy1zSmpHQWROM0JRS3lBUHhyTHIwZWJQVWNKZ1cxTVU2c0tibEU3eGE5SEVQV0lkN0NnSHp1bjE0c3FCNGtkNWUweGFzMUxqcWJ5czhnOW51YVV1ZkJpVWN2a0F4cFM4YXl6d2ZmeFl4Rm1zRDNsdmFuVDc4NlpoRWs2WEZaNnk5dmJtT3NNeGItR0VqWWdsMXVoM0FuTDI0a3FjS2x3bjNQRVRjWEhBeDE4UHpHcUczT0l1SDRzZGlxbE1TYVZTajVzUlB3cXBLS0lIZ3E3RkxlTHhwanNEeUZhaGJ1dUtlZV91a2tPWjBPbkhkUVFkMHdzWkREMmhIMUtKX0hpaTdZT2s3ZklTTEZ6V0UxTnNiRFNySUViVXFSUWZDSHR0aEVjeEJ2RWZWWlQwUEFkTVM5RllDY1B5QVNWWEVrd0llTmJSTUJMUE15bFIzbk5fR1VFSlNya2NabnFJMVMtekhhRFM0bzVzWlg2U0tVbEQyVWxvLVEtYjg?oc=5>
 
-### 美股指数上升；伊朗及以色列应特朗普呼吁停止攻击
+### 特朗普接受采访摔麦离场，直斥主持人“要么是骗子、要么是蠢货”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-06-08 01:56
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBTUEw2VkRTZzlOUl9uT1pnbjRUWVBLYWlnY2VpejI2c0lpdjJiTEpwVTY5aWRoWDBqNFhBRThaTmFsMzdJZ25xQ0tHQ1B0ZDdTejJQUk9iUE9rSFFQRGdFdU90WlpXTWNqRzkwbGw3Qm5HWGJIT1g2eA?oc=5>
+
+### 肯尼迪中心从其网站上删除特朗普的名字
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-06-08 20:20
+- 链接: <https://news.google.com/rss/articles/CBMitgJBVV95cUxOdUhqalVmOG9DSTg2dElnNl9iLVVHQk5EZ0IxZ0pqWUI3cnhfMGliUWRxOXdJcW91RkVVUk5yWkJSQld4MjdDLVVhV2VEWEItalVwa1lEWnhVTFdGV3o2aUlocDRxcXNlYmMxRlVkZlhTN0ktY2xMa3lDdVI4NFdQaVI1dkdjWXFHVUNVcU9KZ1F3ZVQ3SXR6WnhLcDNkaE9LbjlmRjJtWWlxNDI2QzRZMFhFWGlZZUJpT1pZSGVpcldSSFNMRGVOcUtnYlZOTFNVZGZmejAtQ2RGM0ZDTVkzS25ld09PY0hudHRpLUotdTh3cXE1WnpNeW8xLXU5cDVHQTBXM3I4OXdGRXNDQzJBekRGRWxtYUFSNktUT2FKMU9QTUN4Z0Q0SUV1WXJlZFFtdGw2S0R3?oc=5>
+
+### 美股指数个别发展；大型科技股续走高，特朗普促成伊朗与以色列停止互相空袭
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: AASTOCKS.com
-- 时间: 2026-06-08 15:52
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE83XzRyZFhNWFhnTGxOUG4wV2xWSWlXM0lkUUNRQzE3ZmYyUlFUZURNZFpjMmFhazNhMURpRmphNnlvNmhIQ0YyYWZzUHozSjRUc2tWVnlwdk13VHpUdS1ybmNNdlUyd0oycHpGZWEwZw?oc=5>
-
-### 美股指数个别发展；特朗普呼吁停止伊朗与以色列互相攻击见成效、停火仍存变数
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: AASTOCKS.com
-- 时间: 2026-06-08 17:43
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTFBRWXpJdUhhZEl4X0ZyeEwzd2VBXzk5ZzhZbVppUTBZTE1SRWY5c1ROWFA5TDgwWHZaSm4yZXJtZzhNQWJQU3JFcEVmOGRkR2JLNTY2VE1ab0M1di01N0Q5bFdqTjlLQktxVGVxa01jcw?oc=5>
-
-### 美股指数上升；伊朗及以色列应特朗普呼吁停止攻击财经新闻Financial News
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: AASTOCKS.com
-- 时间: 2026-06-08 15:52
-- 链接: <https://news.google.com/rss/articles/CBMihAFBVV95cUxNeTB0NThaUEttU283a0JOb3Nuc21NU0Uwc0o5RGxZVlNHZ3Fva1Z1N3RBU3ZiRDQ1RkdJdmRPU0tiU213UWFUdjZRWUVBUjJTLXFIMUxub05CbG1BYTQtVm55dHZNbnlydHVzNTRDWFp0a2NMQ1p3TnBMWWMtRnJRcEU4XzE?oc=5>
+- 时间: 2026-06-08 19:57
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE8ydUJ4Y1FDUXFzMEFta01mcElOdGRKY3RVczRuU0ZGMHFscWtRTzdKalNpYVhnNE13dDNzZVRORkJ4VDdPeGZ0cWhUN3dGeXROOW90S19Pb1EtQXFjZl8wSGRpSm9XOFpCSjhpZU9uUQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-08 20:38  (5 条)
+
+- **特朗普** | 肯尼迪中心从其网站上删除特朗普的名字 <https://news.google.com/rss/articles/CBMitwJBVV95cUxObi1rYWVxdVcwVHR0VXAxTEhraHM5Yl9OYm9RZk5udmZhclVDUGdINGthU2dSaFVIRDZUT0FsSWhyVk00SUVfc2lIempYZ0Y4NlhLWGt0MHhDOE90R1NRaU1UTnpWYldTQzE3M3h1b1pXRWsyNXF2UGpoRndxVkluSU10TUZfbHFhLWg4dFVwOG03SEdlSURtZkRyLTZmYkxRdlJDMU1sbzhhMGhzb24wZnZ5eDF2VWFCOFNrbjRYcXZXN0xjd0t2MHA5a3FPWGFxSmg4dDJZVlJnVGg5OW5NbHd2cVdJTlB6UENHWEh4WEExNXdmT056amUtWXp2TEcxR2tTLVlZQ1hhM1Yydm5wczFxUTY5UDljRGJSdTFKR3EwbnZ1c0NGWHdwM2hPNWZWVDlUYVROSQ?oc=5>
+- **特朗普** | 特朗普致电内塔尼亚胡要求克制 以伊互射飞弹后同意暂停攻击 <https://news.google.com/rss/articles/CBMipANBVV95cUxNY2RnUHVrM3VCdVp2M0JhbTB0dS1yclRkRTFlNUd1eFJua2RGSy1zSmpHQWROM0JRS3lBUHhyTHIwZWJQVWNKZ1cxTVU2c0tibEU3eGE5SEVQV0lkN0NnSHp1bjE0c3FCNGtkNWUweGFzMUxqcWJ5czhnOW51YVV1ZkJpVWN2a0F4cFM4YXl6d2ZmeFl4Rm1zRDNsdmFuVDc4NlpoRWs2WEZaNnk5dmJtT3NNeGItR0VqWWdsMXVoM0FuTDI0a3FjS2x3bjNQRVRjWEhBeDE4UHpHcUczT0l1SDRzZGlxbE1TYVZTajVzUlB3cXBLS0lIZ3E3RkxlTHhwanNEeUZhaGJ1dUtlZV91a2tPWjBPbkhkUVFkMHdzWkREMmhIMUtKX0hpaTdZT2s3ZklTTEZ6V0UxTnNiRFNySUViVXFSUWZDSHR0aEVjeEJ2RWZWWlQwUEFkTVM5RllDY1B5QVNWWEVrd0llTmJSTUJMUE15bFIzbk5fR1VFSlNya2NabnFJMVMtekhhRFM0bzVzWlg2U0tVbEQyVWxvLVEtYjg?oc=5>
+- **特朗普** | 特朗普接受采访摔麦离场，直斥主持人“要么是骗子、要么是蠢货” <https://news.google.com/rss/articles/CBMieEFVX3lxTFBTUEw2VkRTZzlOUl9uT1pnbjRUWVBLYWlnY2VpejI2c0lpdjJiTEpwVTY5aWRoWDBqNFhBRThaTmFsMzdJZ25xQ0tHQ1B0ZDdTejJQUk9iUE9rSFFQRGdFdU90WlpXTWNqRzkwbGw3Qm5HWGJIT1g2eA?oc=5>
+- **Trump** | 肯尼迪中心从其网站上删除特朗普的名字 <https://news.google.com/rss/articles/CBMitgJBVV95cUxOdUhqalVmOG9DSTg2dElnNl9iLVVHQk5EZ0IxZ0pqWUI3cnhfMGliUWRxOXdJcW91RkVVUk5yWkJSQld4MjdDLVVhV2VEWEItalVwa1lEWnhVTFdGV3o2aUlocDRxcXNlYmMxRlVkZlhTN0ktY2xMa3lDdVI4NFdQaVI1dkdjWXFHVUNVcU9KZ1F3ZVQ3SXR6WnhLcDNkaE9LbjlmRjJtWWlxNDI2QzRZMFhFWGlZZUJpT1pZSGVpcldSSFNMRGVOcUtnYlZOTFNVZGZmejAtQ2RGM0ZDTVkzS25ld09PY0hudHRpLUotdTh3cXE1WnpNeW8xLXU5cDVHQTBXM3I4OXdGRXNDQzJBekRGRWxtYUFSNktUT2FKMU9QTUN4Z0Q0SUV1WXJlZFFtdGw2S0R3?oc=5>
+- **Trump** | 美股指数个别发展；大型科技股续走高，特朗普促成伊朗与以色列停止互相空袭 <https://news.google.com/rss/articles/CBMib0FVX3lxTE8ydUJ4Y1FDUXFzMEFta01mcElOdGRKY3RVczRuU0ZGMHFscWtRTzdKalNpYVhnNE13dDNzZVRORkJ4VDdPeGZ0cWhUN3dGeXROOW90S19Pb1EtQXFjZl8wSGRpSm9XOFpCSjhpZU9uUQ?oc=5>
 
 ### 2026-06-08 18:21  (6 条)
 
