@@ -1,54 +1,82 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-08 22:21**
-- 本轮扫到 2955 条, 新增 **5** 条
+- 最近更新: **2026-06-08 23:44**
+- 本轮扫到 2962 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (5 条)
-
-### 程潇这是带来美梦还是噩耗，又让训练生跳主题曲，心累呀！
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6579479496_m1882ae3c803301brik.html>
+## 本轮新发现 (7 条)
 
 ### 特朗普提名托德·布兰奇出任美司法部长
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
+- 场馆: 新蓝网
+- 时间: 2026-06-08 22:39
+- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUX2pqWDRWbm11S3FrRTVwMXd2TzEwb2cwQVZ2RWhfRFhqQjFVS0hXaVdhTUZoSmJ3c1BIN1ZvTllwUERFSUpaNzdwQ213LVU?oc=5>
+
+### 美法官裁定特朗普政府抬高H-1B签证费违法
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-06-08 23:40
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE0zMkdzblAycUc0STEyLXpOUkRCV3pvemlKYWNmbmtTMTMzUHdDdEEyVXdHc2ZESXUyNWd4N2dFR2tkOW5ldjl3dXQxbkhwb3gtRTJZU2FOQ0FJTGpQdlNJc0htblRIV1lieEh1OTAwRUQ?oc=5>
+
+### 特朗普评价伊朗最高领袖穆杰塔巴：他伤得很重，还在想“我们和美国谈得怎么样”，这是一种勇气
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-08 22:10
-- 链接: <https://news.google.com/rss/articles/CBMirwFBVV95cUxOam9uRktzcW51cWJaN29hMGNqSXNiVDZrWThkeTU3dHZBSTJwRmhEelZnV0pJR2c1VDFoRXlYY2k1eURzZXo5Z1E1WS16b2phV3lMY0tnMVZrc0JnQk5VU3FuTUVoX3FpRFBUdGdyY2hMMkVfbDg2T3VEaTkyU2RwMEszSEQ3Y2ppZkRZakVXc2FKQjAtLXgzbGJBbGtsN0tQRWJlOTRSZm9jaFpJODQ0?oc=5>
+- 时间: 2026-06-08 06:13
+- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUHp1ZUgwQjBwN0xpVjNRNE5iTEpmUkVDd3BNdGdBRENWbGc5U2diYnY0bmxOOHZQUlc1VTJENm1VNHQwX0xjdlhJSm1uZlgyRHdLQUd0TENlZmtyRFhfWDBwaUlRR3RUNEpNY3EwMVNYQ3pUdXl3d1V2ZkZiUmV5dEFCWXFCakNxcHBBTXM0WmlSQlpmdjNlWGR3RG5VaFBvdC1UZEVZcG5XVXg4UTN0S2M3Z05SZUw1U25ZQ0FNVXpJbmdXeEV4OFpQRlVMdWxlUVE?oc=5>
 
-### 特朗普总统呼吁后，以色列和伊朗政权停止了冲突，美国同时正与德黑兰就达成协议进行“最后谈判”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-06-08 20:32
-- 链接: <https://news.google.com/rss/articles/CBMi2gFBVV95cUxQN1JsbWkzcFh6cV95WWxYOFkzLTdNa0s1TDBnTkZxRGEtT3RFMHdBMktvdHVGTW05ZGJVTkZWV3dQNU5fd0k1VjRQZ2hKYlVoUzdqNlVBZlRIZUJGdUZNYWUzTDBLaDNDaDBkSVJON0J4WUFwNVVfZ1hlbnJ1MXkzRmlxQ204Zm1SR1dkMVdaVzljTDVrak5idXl0dXE0b29wRklzdndCSTcwMWJkTEZ1SUlrSHgwcWNWOEIyNXc3S1dzNW5kUElFcW1RUDFZdjBJeGlvZEd1Mlp0Z9IB3AFBVV95cUxPYjRqTDV6UVZ2WUs2WXhOUi1zazU0MXhsSFJLdkdTN0ltNXQwd0NpYWVOYk9MY2hubWRaWGZuNkxET2hURHU2cXVNMkFUbmc1ekp5dUt4Wl9pSERuSHhQcU84bFhwQlFQcFJOTGNnVHFUSVhaZnZMY2Q0Um9JTTI5emk1bGo5TkJrVDZtLWZqTzFseVRBdzU0VWwwX1BCZ0Y5X090Wk9nOGNDMlV6NzdaWkZUcGZUSlc2ZUtZSEd0ZHVUYmdXNDliYVRJazJ0UzNTdXpCS3NoSjdXckZv?oc=5>
-
-### 因国会山骚乱话题引发争吵 特朗普采访中途愤然离席
+### 特朗普：将在未来两周内宣布对伊战争取得全面胜利
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 财新
-- 时间: 2026-06-08 13:24
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5jdEV4bGdCSklWYmZtWlV2T3JLMWRuWW84RTVzVF9ld1JfUkJscV9OWk8xSTBmdnFxZnlHR2RCeTJ0RnZWTTJWRGktd2ZPbjNJZVhyc2xOSjNfdVdmZm9xVzhqcnBybzRnSXc?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-06-08 23:05
+- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxQelhfWEpMSWg1d21OalJtY1JwaTFPcXJDcWo2OEtGQURfSktOMnI4SWZFaEdmY042SWdZenpUMWdpVW5JVWpuVnhUNklEbk9Ed1kxVUpwZVVlVC10T3BZUnp1bU0xZ2ljWTU0RC1OaWZKMktDandTUDJwNm9KQnpjTWxIUzhuNWE4YVE?oc=5>
 
-### 美股指数个别发展，大型科技股造好；伊朗及以色列在特朗普促请停火后停止攻击
+### 特朗普提名托德·布兰奇出任美司法部长
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 紫牛新闻
+- 时间: 2026-06-08 23:01
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE01aExPS0ZRSG90UHkyOGVheWZnUEtnWGc3TjNxY2dZd3ppaDlETHo2azVmRDEwWlJzYk9fSzd2dzY5eWxEQnNUR1FIRVNBVm5qLVJQbnNBUm1pZUFfdlk1ZHYtREpnVXZ0YXc?oc=5>
+
+### 美法官叫停特朗普政府征收10万美元H-1B签证费
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: chinanews.com.cn
+- 时间: 2026-06-08 22:35
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE81RkgwZ1hLR1VUa3c3TXZSWmY1dkU3RkQxcThhclRWdmZpeVNtZ2p3U0lKLV9oRm1TNVBoUDhBR0FwSnBjTm5QRTE4WktkX1Vma1VwZTcwZUlqNnR4QnBWY19kcUVucDJt?oc=5>
+
+### Trump看NBA总决赛_新浪新闻
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: AASTOCKS.com
-- 时间: 2026-06-08 21:05
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE9JVV9TTThjN2dUYUZjSUc1dGo1bVZyQmVMQTZQY3FiT0lXR3BFanlGdDFJVXpzVERXQVJvVXFZci1XWUNUemNpdlJPX0JaRF9ZRU9Lb1F6ZWUxME55dG1HY2QxeTFza0FRM0dqVGNjbw?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-06-08 15:26
+- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTFB1T0tONVVoVHhJcy1IZXNJNFZQb2w4Skg5LW5JNFZmV0Fkb0EwYjk3dWVBNnBiN1lUNTl5RWJyeWRqcUswMGJCbU1MYmFYb0pTeUxHLTBIMWtpb1o3TVZfNUF1TQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-08 23:44  (7 条)
+
+- **特朗普** | 特朗普提名托德·布兰奇出任美司法部长 <https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUX2pqWDRWbm11S3FrRTVwMXd2TzEwb2cwQVZ2RWhfRFhqQjFVS0hXaVdhTUZoSmJ3c1BIN1ZvTllwUERFSUpaNzdwQ213LVU?oc=5>
+- **特朗普** | 美法官裁定特朗普政府抬高H-1B签证费违法 <https://news.google.com/rss/articles/CBMicEFVX3lxTE0zMkdzblAycUc0STEyLXpOUkRCV3pvemlKYWNmbmtTMTMzUHdDdEEyVXdHc2ZESXUyNWd4N2dFR2tkOW5ldjl3dXQxbkhwb3gtRTJZU2FOQ0FJTGpQdlNJc0htblRIV1lieEh1OTAwRUQ?oc=5>
+- **特朗普** | 特朗普评价伊朗最高领袖穆杰塔巴：他伤得很重，还在想“我们和美国谈得怎么样”，这是一种勇气 <https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUHp1ZUgwQjBwN0xpVjNRNE5iTEpmUkVDd3BNdGdBRENWbGc5U2diYnY0bmxOOHZQUlc1VTJENm1VNHQwX0xjdlhJSm1uZlgyRHdLQUd0TENlZmtyRFhfWDBwaUlRR3RUNEpNY3EwMVNYQ3pUdXl3d1V2ZkZiUmV5dEFCWXFCakNxcHBBTXM0WmlSQlpmdjNlWGR3RG5VaFBvdC1UZEVZcG5XVXg4UTN0S2M3Z05SZUw1U25ZQ0FNVXpJbmdXeEV4OFpQRlVMdWxlUVE?oc=5>
+- **特朗普** | 特朗普：将在未来两周内宣布对伊战争取得全面胜利 <https://news.google.com/rss/articles/CBMiigFBVV95cUxQelhfWEpMSWg1d21OalJtY1JwaTFPcXJDcWo2OEtGQURfSktOMnI4SWZFaEdmY042SWdZenpUMWdpVW5JVWpuVnhUNklEbk9Ed1kxVUpwZVVlVC10T3BZUnp1bU0xZ2ljWTU0RC1OaWZKMktDandTUDJwNm9KQnpjTWxIUzhuNWE4YVE?oc=5>
+- **特朗普** | 特朗普提名托德·布兰奇出任美司法部长 <https://news.google.com/rss/articles/CBMiakFVX3lxTE01aExPS0ZRSG90UHkyOGVheWZnUEtnWGc3TjNxY2dZd3ppaDlETHo2azVmRDEwWlJzYk9fSzd2dzY5eWxEQnNUR1FIRVNBVm5qLVJQbnNBUm1pZUFfdlk1ZHYtREpnVXZ0YXc?oc=5>
+- **特朗普** | 美法官叫停特朗普政府征收10万美元H-1B签证费 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE81RkgwZ1hLR1VUa3c3TXZSWmY1dkU3RkQxcThhclRWdmZpeVNtZ2p3U0lKLV9oRm1TNVBoUDhBR0FwSnBjTm5QRTE4WktkX1Vma1VwZTcwZUlqNnR4QnBWY19kcUVucDJt?oc=5>
+- **Trump** | Trump看NBA总决赛_新浪新闻 <https://news.google.com/rss/articles/CBMiY0FVX3lxTFB1T0tONVVoVHhJcy1IZXNJNFZQb2w4Skg5LW5JNFZmV0Fkb0EwYjk3dWVBNnBiN1lUNTl5RWJyeWRqcUswMGJCbU1MYmFYb0pTeUxHLTBIMWtpb1o3TVZfNUF1TQ?oc=5>
 
 ### 2026-06-08 22:21  (5 条)
 
