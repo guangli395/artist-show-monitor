@@ -1,126 +1,109 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-08 01:39**
-- 本轮扫到 2909 条, 新增 **14** 条
+- 最近更新: **2026-06-08 06:38**
+- 本轮扫到 2919 条, 新增 **10** 条
 
 ---
 
-## 本轮新发现 (14 条)
+## 本轮新发现 (10 条)
 
-### 6月8日大连传媒发布青春主题视频
+### 特朗普家族项目引发阿尔巴尼亚民众抗议
 
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1821499183_m6c91df2f0330183ni.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: BBC
+- 时间: 2026-06-08 05:46
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBtMk40aWh0QThqWVBhRkk4cFV0bV9TVFA1MWNwWVpXS1ZfdkpPWkxuaW1mV3RINkhpWG02b25PTlUyUHVDcGhhOGY4dXBFd25yNkZ2U0JIVjQ1aHc1dnphSm5FZ2RjUdIBa0FVX3lxTE5MbXJHMHViVlBWQUZPYnpGZlJGbnZCb3pEMnd4aFdFWW0ySWlvbUVCelhGeFVIdFFRUDdVOEw1MzE5ZUlycm1VWVRCcWlVbGxQMEFsTVBCbVRwbEw0R2xMQklEbVRDNDNsb1Zr?oc=5>
+
+### 特朗普评价伊朗最高领袖穆杰塔巴：他伤得很重，还在想“我们和美国谈得怎么样”，这是一种勇气
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-06-08 06:27
+- 链接: <https://news.google.com/rss/articles/CBMi_AFBVV95cUxOQzl4NmhUNlYwZ1NMM09QYWtldnhRWHpRamQ4dDVTdUhWUGE3RTkxQW5HN2FMZm1QSmVoX0NNRjZpZ0c4RnB0S05SUldHRmpJM1N2dDN4d0UxOXQzUi1va25CellVQ3cxQzIxZDFBNXNFelBpdWIwRVRTa1pzY2ZJMUFiLWFIZ2k4aEpmN09BUGlJZVNpeWpyYVY4U3Btd05lN2ZWZUJzcE50dzcwSHZvTGlQejRmRVZTS0xLWXJZRUdLOFNVMjhrZ0dYVF8zS0FYWWpIYlJWYkhvNHNWc1Znd0N3anJhNWxQS21zLU1na2d6enVDVWU2RHgweUs?oc=5>
 
 ### 因特朗普到场观赛 NBA总决赛安检升级
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-06-08 00:29
-- 链接: <https://news.google.com/rss/articles/CBMid0FVX3lxTE5lazYtSGVBcFNzX1NzektDUUhaNTVxemFrZ0Z1aXpFWmRxNTVsTk1kSkVRUnJGUzhpaUJ6ZGxxazZuckZNUEcySXhPTFIwSFZIVGlKQzZfNm1FdUY3ODJtVVhfYUhGNmIxWlc4MUZ2TjVzeldhWUdz?oc=5>
+- 场馆: 央视网
+- 时间: 2026-06-08 02:16
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBHZmxIMDlFMGU4VjFVVHBQZTVrZmpVeWJRbWhydDdQYmp4OFJFQWtqM3hkdWcwUGlTYTJmS1lScDgyeTZ5OUNaZGpneGYyVHdfc2RuYjZOWWlva1BfcWR0TkRRbTVlSmJWbVY1OWlXRUsySTVtYVdxbw?oc=5>
 
-### 清晨，全线跳水！伊朗发动空袭！特朗普紧急发声
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-08 00:01
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxQOXdpaUt3X2hMcWt6XzZsSnhRazhfSnN6cV80elBxMTBPMnNUS000ajZFZlZYMndTRFhuZHhKcWdxQWZZc1dzb0hkZVc1THhzcnYzRExoOWd3X0ZnTExUQjlIMXFPNkJ0Q0hyaXdKYVNxZGlVQmdkQmJobmFyNTR4R3hYZWVXQXY3QXkxV3YySURSUHZ2ZUdSZQ?oc=5>
-
-### 特朗普对伊朗喊话：行了，回来谈判吧
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-08 00:01
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxPa2hnem1VSWx3RlNTQjBrcVBEZ0syVzZOM2FWdXVjdWxRY3ZSaG5Rc0RZNE85QU9SUmNlZ2xMeWNUMl9sNi1ESGlWVTlHT0g4UG1NVDVDcTkycjBiSnpUY0l1dDFBaFAxOThJZGxwTGJyTmk3TGtyeUlVWThkUEw2ZFhORVBsaTNpYUE4NjU1SndEaXF3N3B1OA?oc=5>
-
-### 特朗普：内塔尼亚胡将“别无选择”，只能接受美伊协议，“我说了算”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 环球网
-- 时间: 2026-06-07 08:50
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE94R3BqcG10cktIeW9MVU1pbFZvX2NBUFZoeEgxQ2NiLWJqVm85MEd6TDdpTkgwLVg0YWpsS0RaSXVNWENhYXJ6ZV9mMkl0LUNIRlJWazhtcGw?oc=5>
-
-### 加息？特朗普：没理由，那是想扼杀我们的成功
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-06-08 00:41
-- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTFBfT1FyU3AyREhMZVVEUWdNbzA3VUd0R3B2TlV1eUdnZXNpTzM0eG92YzZDalczdkIxNU5HOTlwY2RSNVViMzVvTHVjRnlfS0tx?oc=5>
-
-### 国际丨特朗普就美国选举话题与主持人发生激烈交锋 愤然离场
+### G7峰会，马克龙试图用凡尔赛宫留住特朗普 | 京酿馆
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新京报
-- 时间: 2026-06-07 23:47
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5KbllSdm1XSVB0cGdZd2ZfX3hQZ3FJNFllNEltbVNfaE9heFdwcks2aVM1VGFSNFMzLXd2clJRUUl5XzJXcWNlLUoySU5JVlEwSlFnMmtyS2thUGNOeDg4QklxazE?oc=5>
+- 时间: 2026-06-08 04:45
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5FV1NnZm13QXZYWk9OQU9wMDJIVE9maGRLWFZCX2RuaXVFY05pa3FhX0pMb0pTZ1ZqZVRYazdiSWJIeWg0cE9DU01MLWtENGY5NWhNak1hbjM2Q2xWNTBtU29JLVM?oc=5>
 
-### 因特朗普到场观赛 NBA总决赛安检升级
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-06-08 00:29
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE85emdYUGFYY3Q5VF9DY0dCNi1jZkVDMFByREZBb1JsT3NRRUtiR3AtSUItbjNBd0g1RUltLTMtTXdqcTBPRUVIZFI5Z3R0TTR2OTB1ZF9lcUlBY2phZjlZOGpzclpfTlNOMzhWNU9vbFRLVFIyQzh3VGZWR1BYOWc?oc=5>
-
-### 特朗普： 达成协议前不会解冻伊朗资产
+### 主持人插不进话，特朗普受访暴怒失控：当场“摔麦”走人
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 天津日报
-- 时间: 2026-06-07 22:00
-- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxONjlyR1NzSlFrZ1ROcUFFYkdZNk1uY2Y0ekpPbTF0dmx5cF9nc19FNXRqdTVDSTZyRlV5WEoxRXBQVFk4NXRGeWlONURjV1NZR2hwM3F1bl9sOElmeEEyYjR0cjhkdlZJYXZNM25lYlJDZGppQi04R2R6ckpjZ3pOdmp3?oc=5>
+- 场馆: thepaper.cn
+- 时间: 2026-06-08 01:22
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RQ1h5cVJTSkN2eUJXMVdMZlNIRmZIYzdUMEFqTWdjaU5EQkhvS1VqM3VmNzBWRTRTdTJoMENySUlCOE8yQXFkNWlHamFvOUZxWExZMUhZQ2VnTFZyTlY0bw?oc=5>
 
-### 特朗普：伊朗应见好就收 以色列也别报复
+### 爆发激烈争吵，特朗普愤怒离场
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-07 23:32
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9ERmFkV1RJVE95cWpTZHlVYm11aDRVZ1hDSmRmOXpadkd2WWZiUDl2c3lHVlpiVWZzR3NDenF4T1FCVm5zR0FBYkw3MEZYdGJLSFhkODNTM0Vqd1A0LWh3dTNyNVQ2YmpvOXRoSGVKN28wNFFDLW5GMA?oc=5>
+- 时间: 2026-06-08 04:18
+- 链接: <https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSjF1RXZxRlFXU1NqUllvM0x0VnRWZ3pqMzkyRFNkaHBoVWF2S1ZoY3F0dG9HQkU4bXp3NWFlRUVVN3MyWnhHSlQ5Q3IyUXp5MHZtc09NSXNtUnVsTXR6blF2QV9fNWt1b3NjSi1CUVJIZnhqTXF4NUltOGlJZG4wYVRKdUw3ZF9yNXVzclE4cHN5dFNGUExKaVBqZW9DWUVPTG0tUlNHRjFXSS11Zkdnb1M3UDZvOGZBN1NvWGtoTHdBaGF2QjdOanZWVGwzVTBpWmtiU1NydWdhUnE0dm9YcW5ielo1QXpscnJ1M3Ywb0VIYTBKNUFUeg?oc=5>
 
-### 特朗普邀看世界杯，普京回复直截了当
+### 特朗普称内塔尼亚胡“只能接受美伊协议”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: jfdaily.com
-- 时间: 2026-06-08 00:31
-- 链接: <https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VRTRFWHlkZk5PN190OWdla2dUUENibjUzTHBqVHozZFkxZnNUM0VzN0VweWlxa1Y5V2VZTVEwVjB3MGw3WVJiVnhGY2ZrSVlUSkRDZjF3c0pzdw?oc=5>
+- 场馆: 湖南红网
+- 时间: 2026-06-07 23:28
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wVTdfRy0tSWlZTlVxMFA4YmxId09rOE5iYWhaQ0FvNWp0dHlJZTNCdkNpc1l5OTM2S1ZjUlJWdzhudTNuWTVmRS1idkdBdm9YNy1kYlBza1h0Y3RJMVBkNE56U1Y?oc=5>
 
-### $USA Rare Earth (USAR.US)$ 相信TRUMP！！！
+### 美议员焦虑：“特朗普”级战舰，抗不过中国导弹-观察者网
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-06-08 00:34
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxOMTNGZWtSU2NpYy1mVHRZZ2FlUmNOU2o4MENUQzl6dmoyRmxiRXY3aEhCLVZFWUdMeVdscFRwZkxmajI2emd6ZjJGcEhoMUMwUDdGbUVVUEg0eUtKU1dxOVR0LVRYci01b1VqVUF0eURobnVpMGtKcXhyN2gyeDZ2bk5oTTlSLXc1OVlJZmhZR2JtX1hPVkZybQ?oc=5>
+- 场馆: 观察者
+- 时间: 2026-06-08 04:28
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1oRUYzNnJWSTlSYzFHLTFaODBqd0txY1ZjNnNfNWRncGhRMmxtaFBBckptUW94aXZCUjloR3I5b1h5cHhubTQtNnE3YUJ5UDczckZZalNqR2ZxbU1xNEZOR3BWM1hlbHJPeUE?oc=5>
 
-### Jupiter III Labs_Pump Detector (@FlashPumpHunter)的见解
+### 美联储新掌门沃什“首秀”在即，特朗普再施压：不应加息！
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Binance
-- 时间: 2026-06-07 23:14
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSLV9jWDN5SlJ3cHZvUW9Ec2ZDck9ycV9Wa0hxcHU4eWwzTEhPVnlxak9TamU2am0xY1MzMzE2NS1EUngwNUhQUXJkblg5bnpqQkY4d052Y3lUSUd4ZURUd3dLY2dfNTRv?oc=5>
+- 场馆: 财联社
+- 时间: 2026-06-08 00:24
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE8xa1pRbXRkZk5zZVljTnFzVmpJR0xvQU92emlySnQ0MHlUOFR6dEM5amhvajBobmdZTFl5VWVSeXdFRHBSSHpLWA?oc=5>
 
-### 当特朗普口头干预市场时，逆向押注要小心
+### 伊朗想要现金以换和平，而这正是特朗普的雷区
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: 华尔街日报中文网
-- 时间: 2026-06-08 01:22
-- 链接: <https://news.google.com/rss/articles/CBMingFBVV95cUxOUWJrbm02SmVVQVF4UG1mSnpwUFQ4OGZjNjJQakM1cENfQmVxd1RpR1JoVFRDV3UyX2lzUjNPZldOX05GaDJRbWQ5eDNkWkJVZXZ4NTdnX1ZOZkx2ZlYtT3VqekhVc2dfaGdhZC1LeXZNeXFZLVBIUHFjRC1Va2RHb1VPbFE4MUwzYWFOelBVTEZ4SzhRbE9KaU92blJsQQ?oc=5>
+- 时间: 2026-06-08 03:20
+- 链接: <https://news.google.com/rss/articles/CBMipAFBVV95cUxPcEJKVEZtWGVxRjFhOXMxdDlBR2lRam1GbS1SV2dTcnJVU0tXTFFGZmlsXzVhdHRUSWVTLVpnZTNEQkczRHlrTmdlSnVCd0dWeXRFTUwtaXdudm5xQjQtdTI0ckhJUU9wdW1ucWFQbmVkX25KRGJxdDV5TVVDbldTM2ZuUXdoTTZ3c3AtVkJ4cUxUZGYxaEtfaEdOeUUxLXZjbl9Xdw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-08 06:38  (10 条)
+
+- **特朗普** | 特朗普家族项目引发阿尔巴尼亚民众抗议 <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBtMk40aWh0QThqWVBhRkk4cFV0bV9TVFA1MWNwWVpXS1ZfdkpPWkxuaW1mV3RINkhpWG02b25PTlUyUHVDcGhhOGY4dXBFd25yNkZ2U0JIVjQ1aHc1dnphSm5FZ2RjUdIBa0FVX3lxTE5MbXJHMHViVlBWQUZPYnpGZlJGbnZCb3pEMnd4aFdFWW0ySWlvbUVCelhGeFVIdFFRUDdVOEw1MzE5ZUlycm1VWVRCcWlVbGxQMEFsTVBCbVRwbEw0R2xMQklEbVRDNDNsb1Zr?oc=5>
+- **特朗普** | 特朗普评价伊朗最高领袖穆杰塔巴：他伤得很重，还在想“我们和美国谈得怎么样”，这是一种勇气 <https://news.google.com/rss/articles/CBMi_AFBVV95cUxOQzl4NmhUNlYwZ1NMM09QYWtldnhRWHpRamQ4dDVTdUhWUGE3RTkxQW5HN2FMZm1QSmVoX0NNRjZpZ0c4RnB0S05SUldHRmpJM1N2dDN4d0UxOXQzUi1va25CellVQ3cxQzIxZDFBNXNFelBpdWIwRVRTa1pzY2ZJMUFiLWFIZ2k4aEpmN09BUGlJZVNpeWpyYVY4U3Btd05lN2ZWZUJzcE50dzcwSHZvTGlQejRmRVZTS0xLWXJZRUdLOFNVMjhrZ0dYVF8zS0FYWWpIYlJWYkhvNHNWc1Znd0N3anJhNWxQS21zLU1na2d6enVDVWU2RHgweUs?oc=5>
+- **特朗普** | 因特朗普到场观赛 NBA总决赛安检升级 <https://news.google.com/rss/articles/CBMieEFVX3lxTFBHZmxIMDlFMGU4VjFVVHBQZTVrZmpVeWJRbWhydDdQYmp4OFJFQWtqM3hkdWcwUGlTYTJmS1lScDgyeTZ5OUNaZGpneGYyVHdfc2RuYjZOWWlva1BfcWR0TkRRbTVlSmJWbVY1OWlXRUsySTVtYVdxbw?oc=5>
+- **特朗普** | G7峰会，马克龙试图用凡尔赛宫留住特朗普 | 京酿馆 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5FV1NnZm13QXZYWk9OQU9wMDJIVE9maGRLWFZCX2RuaXVFY05pa3FhX0pMb0pTZ1ZqZVRYazdiSWJIeWg0cE9DU01MLWtENGY5NWhNak1hbjM2Q2xWNTBtU29JLVM?oc=5>
+- **特朗普** | 主持人插不进话，特朗普受访暴怒失控：当场“摔麦”走人 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RQ1h5cVJTSkN2eUJXMVdMZlNIRmZIYzdUMEFqTWdjaU5EQkhvS1VqM3VmNzBWRTRTdTJoMENySUlCOE8yQXFkNWlHamFvOUZxWExZMUhZQ2VnTFZyTlY0bw?oc=5>
+- **特朗普** | 爆发激烈争吵，特朗普愤怒离场 <https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSjF1RXZxRlFXU1NqUllvM0x0VnRWZ3pqMzkyRFNkaHBoVWF2S1ZoY3F0dG9HQkU4bXp3NWFlRUVVN3MyWnhHSlQ5Q3IyUXp5MHZtc09NSXNtUnVsTXR6blF2QV9fNWt1b3NjSi1CUVJIZnhqTXF4NUltOGlJZG4wYVRKdUw3ZF9yNXVzclE4cHN5dFNGUExKaVBqZW9DWUVPTG0tUlNHRjFXSS11Zkdnb1M3UDZvOGZBN1NvWGtoTHdBaGF2QjdOanZWVGwzVTBpWmtiU1NydWdhUnE0dm9YcW5ielo1QXpscnJ1M3Ywb0VIYTBKNUFUeg?oc=5>
+- **特朗普** | 特朗普称内塔尼亚胡“只能接受美伊协议” <https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wVTdfRy0tSWlZTlVxMFA4YmxId09rOE5iYWhaQ0FvNWp0dHlJZTNCdkNpc1l5OTM2S1ZjUlJWdzhudTNuWTVmRS1idkdBdm9YNy1kYlBza1h0Y3RJMVBkNE56U1Y?oc=5>
+- **特朗普** | 美议员焦虑：“特朗普”级战舰，抗不过中国导弹-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE1oRUYzNnJWSTlSYzFHLTFaODBqd0txY1ZjNnNfNWRncGhRMmxtaFBBckptUW94aXZCUjloR3I5b1h5cHhubTQtNnE3YUJ5UDczckZZalNqR2ZxbU1xNEZOR3BWM1hlbHJPeUE?oc=5>
+- **特朗普** | 美联储新掌门沃什“首秀”在即，特朗普再施压：不应加息！ <https://news.google.com/rss/articles/CBMiSEFVX3lxTE8xa1pRbXRkZk5zZVljTnFzVmpJR0xvQU92emlySnQ0MHlUOFR6dEM5amhvajBobmdZTFl5VWVSeXdFRHBSSHpLWA?oc=5>
+- **Trump** | 伊朗想要现金以换和平，而这正是特朗普的雷区 <https://news.google.com/rss/articles/CBMipAFBVV95cUxPcEJKVEZtWGVxRjFhOXMxdDlBR2lRam1GbS1SV2dTcnJVU0tXTFFGZmlsXzVhdHRUSWVTLVpnZTNEQkczRHlrTmdlSnVCd0dWeXRFTUwtaXdudm5xQjQtdTI0ckhJUU9wdW1ucWFQbmVkX25KRGJxdDV5TVVDbldTM2ZuUXdoTTZ3c3AtVkJ4cUxUZGYxaEtfaEdOeUUxLXZjbl9Xdw?oc=5>
 
 ### 2026-06-08 01:39  (14 条)
 
