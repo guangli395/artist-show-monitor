@@ -1,110 +1,112 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-09 10:31**
-- 本轮扫到 2999 条, 新增 **12** 条
+- 最近更新: **2026-06-09 13:41**
+- 本轮扫到 3010 条, 新增 **11** 条
 
 ---
 
-## 本轮新发现 (12 条)
+## 本轮新发现 (11 条)
 
-### 15岁kimi在周杰伦演唱会现场火爆出圈,还冲上了热搜
+### 新浪演唱会热点小时报丨2026年06月09日21时_今日实时演唱会热点速递
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906h348.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906iabq.html>
 
-### 特朗普称美伊谈判进入“最后关头”
+### 连麦宠粉+解锁新作品，周杰伦“哎哟不错周友记”线上见面会来袭!_南方+_南方plus
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906hz1u.html>
+
+### 杰威尔未授权赠周杰伦演唱会门票杰威尔音乐否认授权keep
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://finance.sina.com.cn/jjxw/2026-06-09/doc-iniavfsr5062264.shtml>
+
+### 特朗普再“训”以总理 美以渐行渐远？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-06-09 12:07
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1CdVpheHVkcTIzc2ZWQjF6UW1SQTZOOGkzUHo5S25xVVlOZ1FTQVF2R2lzT0ZEWmFoTXlsclJ5aEdudGhKajZzUENiOVc0OU5WRkZpZThoRFlPaWVBZGRJOTZydlRhcW5qdDB5dUs4dENkRi1ROWE5WmxZQjVvYzA?oc=5>
+
+### 特朗普正式提名其前私人律师为美国司法部长
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中国网新闻中心
+- 时间: 2026-06-09 12:27
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTFBsQ0ZTVTk4MDAxY3BLTUFhVjdzbHROOEZvRV9qNUU2NXRRWXFCb3J2ZmstMzdnM0EwU1h0TFVpb0xsN2dpLV9Yd0k5Y2FpVjhuSnpzcFZMaVhvcUUyZFJId21NSkxjTDBaV1Q4?oc=5>
+
+### 美媒：特朗普至少37次说“美伊协议即将达成”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-09 08:52
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5OMzJ6Vjc0SXBnVG5lZFREclVfOU1WYUtsc0JjdTFST0pEdkZLc215SExneVZMV19ZaXFUdGFIV19ibEtpQjYyelhJaU4tLTZ5R1RyOXVMWl9CTlhOMGFvZUlQbkw3T2tNaVlVM3c3ci1yWXdraEswRA?oc=5>
+- 时间: 2026-06-09 12:33
+- 链接: <https://news.google.com/rss/articles/CBMi_gFBVV95cUxOU1AtQjlsOGRQWl82cDV3NjVYekdtV3gtWUFvVkotMk5KTU82dzJpczF2bk0xc051eDVWcGhod1VUN2lSejZ5aFpWQjdPNWhSZXY5YWRGSHFjWnprbGhhcm51ZzhUYVpDa3JVZmxwaXNiUUN2UDhpTVpvQks3VTRaSF90TjRGRFlLdTc4bi1EaW1mN0k5OUctejJVOUdOdzlENzcwakVHSFRER0djekw2UW9xeXc4MnFxYnFUWUVWSkhiOFVKallsVENUVW83RFJqNEVqMk1WT3FyRnZxYlhaX2V1dWJZM2lDT3JGLXF2d1RXWk1UQlVtUXhLMl9Cdw?oc=5>
 
-### 特朗普：美伊谈判进入“最后关头”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中国日报网
-- 时间: 2026-06-09 09:26
-- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTFB1ZGM2WUxCa0dHb3IxakRsV01yZDNQdW1hRUxmWVJwTmRMa2UyOGxNQzRHbHY3SzljTkNyNm1DTWlmY18xT3lrUjJncTczak01dTBzTXJBZEVtNURlTXhDcEk4d0lGZnY1N0dSNXlCTkloWUlkdktvYlJoMGk?oc=5>
-
-### 特朗普曾警告以总理勿再攻伊朗 否则将遭孤立
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 央视网
-- 时间: 2026-06-09 01:35
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5OMktEQjJ4YjBfbkhNUVctNlJEWnlDWlZTMFpLTWVwdWMxdlpVOHEyVlAwaDdvOUhlTDNhaE55UVhVRWl4bEZxUXo1c3ZPVFkwbF9qUFdKWWpBQlE4V3ktcWhMZFpySlpDUGlJNFU2OTlNLXhhd1lYQw?oc=5>
-
-### 特朗普提名托德·布兰奇出任美司法部长
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-06-09 00:36
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9heTNaSzlKTDQ1UFhwclJxZzlvZndCc1NPb0Q3SU1maWNqYW9CS2JYdDRTbk9FVmo4aVNXZGgzQVlzZDE1NGQ0Wmp4M2s?oc=5>
-
-### 特朗普正式提名前私人律师担任司法部长
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-06-09 01:56
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPZGViQllmaHdzZW9yanlIWF9sam5MRjdMSmNLWU1mX09RR2hNOTNnV0l1UF83MnB0Q1ljaENzRkYwV05adDlxbk5PNS1JODI5TUJ1UHJrYVU4QklMZDZZQXloOGZ3QQ?oc=5>
-
-### 全场高喊“美国”，特朗普一露脸嘘声响彻球馆-观察者网
+### “我当面警告过特朗普：那些人这是要毁了你！他只回了三个字”-观察者网
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 观察者
-- 时间: 2026-06-09 05:09
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9wMmhFUDI3NEVMTTlqTFlqMUMyMW1PbUpGWFRoN2lFbV9PajlnWjlOdGNQb1A0Q056QUxTNzl0b0VDNXVJWkZ4d0pnTnVZTzRoeFlGUld4eE9QQ28xMm9sa25DN29GMnRJTkE?oc=5>
+- 时间: 2026-06-09 05:24
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE96N0NqTmhWNnJkYjlUNkNaa3FlaU9FMkpQZldoYi0ydHJvTl9ncW9JalRJLTB2dF9ONks3Um5UNnFmcmtsU0dvQ2IyY0xoSDlvNGcxc1diVXBVZWZfRlVDU0ptX2Y2VkRWbUE?oc=5>
 
-### 全美舆论风暴：特朗普为什么又闹脾气？还跟内塔尼亚胡闹掰了？｜907编辑部
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-06-09 09:20
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTFBaNTJ0cnVFNm5vbjIwaFM2NndSekpnODhxTTR3d0N6WExWdjN2blVIT0dmZE1peDhHSUVrdWpMVEdpc24yZFc2clNja1ZIRXROMGFmdXVIb1FLYmxwcGc?oc=5>
-
-### 谍战升级战略相悖，特朗普与内塔尼亚胡关系有多塑料|京酿馆
+### 历史首次！美国总统特朗普观战NBA总决赛
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-06-09 05:55
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wYnV6WVIwNTVEMjZueTQ3M0hsbTVzRzEwSWFMMzNYYjlCeTZzRXdYbHVia245Uy1sSE13UzdnVjhYYVdyaEp6Nkh1SmstZFpJckEycVlpb2xvMTQ3Q2FTSm5ra3Q?oc=5>
+- 场馆: Sina finance
+- 时间: 2026-06-09 05:52
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1CZlNIRXBURmQ2TVJXN3l6MUtaZXRmLUVBT2tWMFJJZllQdHZGZk84b2FraFVxTjAwQXBIeDBQZW1xOUZaR0xXejhodXdXQmE1M3RuLWhsRmoyNjR2Y09CZGlaYTRoRjJVYm4yM1hRYnloeTE2STFfdA?oc=5>
 
-### 美媒：特朗普对共和党的掌控，让内塔尼亚胡几乎无处求援
+### 凤凰晚报丨特朗普“体面送别”：会想念她
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-06-09 01:32
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBsWWF3XzFQZS0tTzJJdnpJUnVxWGo3Uy13RVNtamlZQzBLbkJ3VG5OdWFkYlJNSUNjSlhRWS1DUm9XYWRsN1N2amZNTlI?oc=5>
+- 时间: 2026-06-09 13:02
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5IWEJfLS1JQ21CdjZjWHVRTk1XcVJ0am1JUTlXek1wQ2wtUlFMOWd0SFNRNUwyLWlUVTdER1JFS2twN2JiZWxmbXE4Qmw?oc=5>
 
-### 特朗普现场看NBA总决赛狂炫薯条，还疑似打瞌睡
+### 特朗普宣布伊以将停火 美伊和平协议或在两三天内签署
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-06-09 04:57
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1pOWlfYldTN09mN18xODI2VE9oVGhoMC1VTGpiWDhuVmxSYWJGOXMwbmplRXN2NDNlOEhoeEFicmRnVUE3NkQ3aWUxN24?oc=5>
+- 场馆: 财新
+- 时间: 2026-06-09 11:54
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE85MFZMSVVaUkIwTGpodTFjaXU1dm5hdXRuS01kYW5QZERHeW9lRTE0VlJoYzJLTlpNeTd0Y2luQ0U0NVM2VjI0Tm5HekpEVWNlcTJtT0lETExsaVhianpxdjBxdUVPVEdWRGc?oc=5>
 
-### A U.S.-Iran agreement could be reached "within two or three days," and the Strait of Hormuz will "immediately" reopen.
+### 特朗普贸易团队欲重建关税壁垒，专家：警惕301关税调查｜全球贸易观察
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-06-09 09:58
-- 链接: <https://news.google.com/rss/articles/CBMimwFBVV95cUxNX2cwZkdLMVl2OVFUTEZkbm5qVnBvX3dhdWN3eExKeXRkNk5mazdOblVzZW5zVERQMW44ZEV6ZjgyZHFBYXFOaGlLNG9RQUVPNWVDQzJOam12YmFDTlZNT1JablEyVU9Zc1FsUzVaQkw5UGFoVnY2NDJxRXRwZldKaDI3WXhkTEUzNTY1MTVvSnVpRm8zNWtNcE4zbw?oc=5>
+- 场馆: 第一财经
+- 时间: 2026-06-09 11:27
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yNVkxZEhOejJGanEwdV9VTktoMUJZREFuNnIxYUhDXzdpa2NGMkhCWlY3WUpoUmZENHJKQVk5XzdlMDRBMHR3ODFfVjBjR1cwRkxJ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-09 13:41  (11 条)
+
+- **周杰伦** | 新浪演唱会热点小时报丨2026年06月09日21时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001906iabq.html>
+- **周杰伦** | 连麦宠粉+解锁新作品，周杰伦“哎哟不错周友记”线上见面会来袭!_南方+_南方plus <https://k.sina.com.cn/article_7857201856_1d45362c001906hz1u.html>
+- **周杰伦** | 杰威尔未授权赠周杰伦演唱会门票杰威尔音乐否认授权keep <https://finance.sina.com.cn/jjxw/2026-06-09/doc-iniavfsr5062264.shtml>
+- **特朗普** | 特朗普再“训”以总理 美以渐行渐远？ <https://news.google.com/rss/articles/CBMif0FVX3lxTE1CdVpheHVkcTIzc2ZWQjF6UW1SQTZOOGkzUHo5S25xVVlOZ1FTQVF2R2lzT0ZEWmFoTXlsclJ5aEdudGhKajZzUENiOVc0OU5WRkZpZThoRFlPaWVBZGRJOTZydlRhcW5qdDB5dUs4dENkRi1ROWE5WmxZQjVvYzA?oc=5>
+- **特朗普** | 特朗普正式提名其前私人律师为美国司法部长 <https://news.google.com/rss/articles/CBMia0FVX3lxTFBsQ0ZTVTk4MDAxY3BLTUFhVjdzbHROOEZvRV9qNUU2NXRRWXFCb3J2ZmstMzdnM0EwU1h0TFVpb0xsN2dpLV9Yd0k5Y2FpVjhuSnpzcFZMaVhvcUUyZFJId21NSkxjTDBaV1Q4?oc=5>
+- **特朗普** | 美媒：特朗普至少37次说“美伊协议即将达成” <https://news.google.com/rss/articles/CBMi_gFBVV95cUxOU1AtQjlsOGRQWl82cDV3NjVYekdtV3gtWUFvVkotMk5KTU82dzJpczF2bk0xc051eDVWcGhod1VUN2lSejZ5aFpWQjdPNWhSZXY5YWRGSHFjWnprbGhhcm51ZzhUYVpDa3JVZmxwaXNiUUN2UDhpTVpvQks3VTRaSF90TjRGRFlLdTc4bi1EaW1mN0k5OUctejJVOUdOdzlENzcwakVHSFRER0djekw2UW9xeXc4MnFxYnFUWUVWSkhiOFVKallsVENUVW83RFJqNEVqMk1WT3FyRnZxYlhaX2V1dWJZM2lDT3JGLXF2d1RXWk1UQlVtUXhLMl9Cdw?oc=5>
+- **特朗普** | “我当面警告过特朗普：那些人这是要毁了你！他只回了三个字”-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE96N0NqTmhWNnJkYjlUNkNaa3FlaU9FMkpQZldoYi0ydHJvTl9ncW9JalRJLTB2dF9ONks3Um5UNnFmcmtsU0dvQ2IyY0xoSDlvNGcxc1diVXBVZWZfRlVDU0ptX2Y2VkRWbUE?oc=5>
+- **特朗普** | 历史首次！美国总统特朗普观战NBA总决赛 <https://news.google.com/rss/articles/CBMieEFVX3lxTE1CZlNIRXBURmQ2TVJXN3l6MUtaZXRmLUVBT2tWMFJJZllQdHZGZk84b2FraFVxTjAwQXBIeDBQZW1xOUZaR0xXejhodXdXQmE1M3RuLWhsRmoyNjR2Y09CZGlaYTRoRjJVYm4yM1hRYnloeTE2STFfdA?oc=5>
+- **特朗普** | 凤凰晚报丨特朗普“体面送别”：会想念她 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5IWEJfLS1JQ21CdjZjWHVRTk1XcVJ0am1JUTlXek1wQ2wtUlFMOWd0SFNRNUwyLWlUVTdER1JFS2twN2JiZWxmbXE4Qmw?oc=5>
+- **特朗普** | 特朗普宣布伊以将停火 美伊和平协议或在两三天内签署 <https://news.google.com/rss/articles/CBMiakFVX3lxTE85MFZMSVVaUkIwTGpodTFjaXU1dm5hdXRuS01kYW5QZERHeW9lRTE0VlJoYzJLTlpNeTd0Y2luQ0U0NVM2VjI0Tm5HekpEVWNlcTJtT0lETExsaVhianpxdjBxdUVPVEdWRGc?oc=5>
+- **特朗普** | 特朗普贸易团队欲重建关税壁垒，专家：警惕301关税调查｜全球贸易观察 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yNVkxZEhOejJGanEwdV9VTktoMUJZREFuNnIxYUhDXzdpa2NGMkhCWlY3WUpoUmZENHJKQVk5XzdlMDRBMHR3ODFfVjBjR1cwRkxJ?oc=5>
 
 ### 2026-06-09 10:31  (12 条)
 
