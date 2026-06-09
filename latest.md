@@ -1,92 +1,112 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-09 16:28**
-- 本轮扫到 3020 条, 新增 **10** 条
+- 最近更新: **2026-06-09 18:31**
+- 本轮扫到 3031 条, 新增 **11** 条
 
 ---
 
-## 本轮新发现 (10 条)
+## 本轮新发现 (11 条)
 
-### 新浪演唱会热点小时报丨2026年06月10日00时_今日实时演唱会热点速递
+### 蔡徐坤马来西亚音乐节彩排花絮曝光
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_2481058012_m93e1f0dc05301hhzk.html>
+
+### 新浪演唱会热点小时报丨2026年06月10日02时_今日实时演唱会热点速递
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906itom.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906j5lq.html>
 
-### 新浪演唱会热点小时报丨2026年06月09日23时_今日实时演唱会热点速递
+### 新浪演唱会热点小时报丨2026年06月10日01时_今日实时演唱会热点速递
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906inm2.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906izoq.html>
 
-### 特朗普亲临NBA总决赛遭嘘，安保严密令球迷叫苦
+### 视频曝光：特朗普现身尼克斯主场观战NBA总决赛，现场嘘声四起，特朗普微笑回应
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-06-09 01:52
-- 链接: <https://news.google.com/rss/articles/CBMitwJBVV95cUxOTGtvZGVtU09hUzhVUER3YlQ4NkVKUWlXMTFZeS15bFJRbWtQcFlYUmhOblo2VjZYV2NYQUR1YlZuZC1qcU9hRUhNTzhHZnRsSTE0cmg0d0RaNE45X3ZXZ21JcjFJMEJ4RXgydVk5WFZNWUpIVG9BYVdVQ2Fua0JsR2RLd25KOGFiUm5PVThGY3ozVHZjVVVJYVozZ2FFTzRXM2RfbmI5T3VmMzJrSWRCWEFCNzN3cHlvajhrdTFOb0FHTDZBRjl6Z2NzcmVQcUxIQkU0aWw5eTctN1U0ZnJ2a2dzT0xEWFFOM19QQzJ3LWlMRXBobzVoQXM2WGhvUXMxM2tURkJtZkxPNW9UNFZ5ZXFxZ1EwRWhzbEJtVEdrNnNBVnp5VEVPSlNOaWlpbmFRcHoxSHY1cw?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-06-09 02:20
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBQRFd4b3h3WW9SMFNFUWdnT25wUHo3U24xamFPUFQwbWdQdEF1Z2lNT29SRkd0YVZjbFRQX29PUUlOdmhwWnZhTHk2TS12cHR0Y1JITTRMdmJWbVhXQjAwZUFOYjA2ckFvbllfTkhvVkljSHc1b05VYQ?oc=5>
 
-### 美伊谈判，突传利好！特朗普发声！油价跳水
+### 特朗普家族从加密货币项目获利约5亿美元，投资者却巨亏
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-06-09 17:43
+- 链接: <https://news.google.com/rss/articles/CBMimwJBVV95cUxNeFRiaXBLU25Ka0kwRklRelE3dVNvejd2d3lHUXJhdnVlR3VObVpDNzFfTXFCM3gtb1h6TzI2YW9acERGbEV0QThJOFBuLUEwb2FHbk1VTkpRNEVMVjItOURIQXRGN2dpTnJEZ25iVUJSeVA5T1UzNUZxVTVYWm9kbXREMHdDNEFJTU1qcUVGTDRYUEx4Y2tYb0FmRy1vU2hFelFMbmVwSGxJeEEwQkgwR3pEM25rTWszaGtKd2JDcmtDaENGUHZEUUUxWU9rR2dGN3lMWENsM042X3RnQW9PYktCT2ZkbDdCbmtGMldtZVJQaDNGNjh6YU1IblF4VWFFdmxDamNNbDRnM1FpbWcyd2oyUkkySGZQSE4w?oc=5>
+
+### 油价下跌，因特朗普称伊朗协议数日内即将达成
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-06-09 16:54
+- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxPdXRVT1IteUR3NFNRdE81X29IWHg0OS1oekFpS2NGYWxtTmFINmg3eU5aNWtOTFVzOHN4YkcwcnhQMm44NHg0dTMwNmh5c2l5MERTWUhyaXVuRGw1TnVtZmtDaFlJMzJpaFBkcmMxUW5JZmRXVjcwQktQVmhOU0V6QkRTWjJUNzZ2RnZMSkZxTmk5Zi1xajY0MQ?oc=5>
+
+### 美法官裁定特朗普10万美元H-1B签证费违法
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-06-09 17:55
+- 链接: <https://news.google.com/rss/articles/CBMipwJBVV95cUxQT0FlbEJQNXhodVhWY3lCZnlyMTdtWGVtMEJCcG5GQnJ6eTd5RU0zNVhra2N3ZE9PdmJSQ1Y4cS1lRFBfR1EwQV9ONkY4Zzg0MFlmZzB0d0g2cmNJS3FubFB4U2dNRV9HOXlCY19XZnktUDQzRU9JY0VoNXJLeHJqT3pIVE9aWjNJZ3prYUswMkE4cEZLRElTX1B3d2FzaFhoVktzcEFXS1QtVFR5bDZVU3Ywak45MUtMUm0tbHlLdWRDQkpoUmVwdnZMYk5MVWNoTUR4ZEIxdmpZWjVTdzBnUFRmeEYzRlRRT2JwSjJfS2ludmJWZ1FFT01lZnFxLWhsUGFCeUZEdmRMSTJPTzM0bnktNEtQbG1iaXVZX0xEUFg0ektvTHY4?oc=5>
+
+### 特朗普：将在未来两周内宣布对伊战争取得全面胜利
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: Sina finance
-- 时间: 2026-06-09 09:12
-- 链接: <https://news.google.com/rss/articles/CBMizgFBVV95cUxQNmpTRUp5NjhQdm5neUt5U2k3eG94MEdZaXlHQ09KSko2emlaWjJwQnFpdjlBX19ibndsNzJiSEJRaXRqZjl1M0l5MXFZc0dBS09BMV84RmkwcmZrRFo3Wi1DVEx6SFQ4dXFaa0hBbk5zZEUyYTdIUG50VC1xNXBwS0VoTlRTQ0VrT1N5ZmRFVUZLSU5EQVNnYUdqNE55OUZJaHBKMWI4RldtWG14Y3dnLWpfdmJ4Z2tPUDd3QndlSUo3dDRDaERJQ3htdmpKdw?oc=5>
+- 时间: 2026-06-08 22:05
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxNWndoMFlvcHJXdUpsdzJTalhpaTZmN0tpakkxMVF4ekNRYlJrRy1FOWZ4aHdOcmZNbnlZM0xrc3BUcFlLWWdyNkFVbmpNVjlxczk2MzltaXhTT04ySzZKbGVtNExmd0w3N3pUUkpCaUJEdV9sVnUyZEcxdXhNRGVuQzNxTENRS0k?oc=5>
 
-### 若非因为特朗普女婿，欧盟根本不关心
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-06-08 01:52
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1WTk1waS1nQkRoRDNQTjhDS3VZR0xUU0lLcFpLZHBrU2ZrZ2JXcDhxXzJTRnc1Y2V0M0cyelQ2c2pfWUhvLWR6SWRtS3JxbFRvTTZUUUFXZnVyVXFKQmd3b2YzSnJTYzRxYnc?oc=5>
-
-### 阿尔巴尼亚民众集会，反对政府批准特朗普女婿开发度假村
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-06-08 05:07
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5YU1R5TmVEdnU4OFVBd1dwX3JNTWFkUWxyNDVzZHdxT1N5ZlVGODhrdkVpQ2lmNG1YcVF3Ri1ZMzBCelBaNU16TW91QUQ?oc=5>
-
-### 特朗普正式提名其前私人律师为美国司法部长
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中国日报网
-- 时间: 2026-06-09 05:07
-- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTE5RNzA1bUlYMVZhTWRadXo4TlltOEtrOTY5SFFYcVdyMmxJX2hLMlRwTjlFT0NaYXRZMEVpd0FMRnN0UzFDMEp1LU95ajFWOHpHaGVpemx0LWg4S0VjbFJLVlB5eUhyOE51czdQdHJzd2oxU1k5b2huNTFxSQ?oc=5>
-
-### 特朗普证实：一架美军直升机在霍尔木兹海峡附近坠毁
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-06-09 10:03
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE54aHR4R1Rpb2cybDBCQ053NDRmTlFxSFRuRnl4SWExZE82NGdwLWNzMWxYSEFTZEZSdUM3b2dpbGdJMDc0QmZGUk9SZTY5eUNjd0Zsc05pTVBDdWtadlRVUU5ZV2pyd1RI?oc=5>
-
-### 美媒：特朗普已至少37次说“美伊协议即将达成”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-06-09 12:28
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVU2VLUldyOU5uQ28zd2ZOMnR2M1FoUEFncTdBTWdqSGlXQlJwaUwtWXlSdWxFOXVORnJ3dHRZdHIyVTJuczRCUXFwUnJ3dHlaTVI0VUk1WG9DNXlIaU1oSU9CRm9UZU1K?oc=5>
-
-### 万斯称美国和以色列在伊朗核问题上的“利益存在分歧”：你需要了解什么
+### Trump 称美国须回应伊朗直升机袭击
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Al-Monitor
-- 时间: 2026-06-09 13:30
-- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxQV3RHanczRFlhbUlrRVlHcEdUQTk2TVlfR2VPcDZyNWZ5S2k1SkMzUERaVlRtLVVaMXBEV2NTTnM5MjlnVG9wVE1aNy1KVmI3bEg1OFVFSFEzUWtLbXNaR2JyR3gzTzl0b0dXanFtbG5xaV9iWjRSWE85SzUxbmgwVjNaUTNSMjZKaF9mRjVENVM0SW9KQ1lxRXJ2eEpmdVpERFZoSmdJTF9ONGtqd3NjLTAzZGdtWm9lZ0RzWVN5UFBmZldyMVhwdGQwNmVSaFU?oc=5>
+- 场馆: AASTOCKS.com
+- 时间: 2026-06-09 16:51
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTFA5UTAwY0dGbWJmNVNDMkUyZDViUklVT1dkR0dGMkR2alR0M3FvRUhGczFGWmpPeTRGSm9YM2N5UENSOHNKN3QzTkJrOTh3Z3ZXT3lvcHlaVGZBOE44VHBLaEtFQUV3OVRLUEtaNi1Dbw?oc=5>
+
+### Trump 称美国须回应伊朗直升机袭击美股US Stocks Quote - 外围新闻内容Golbal News Content
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: AASTOCKS.com
+- 时间: 2026-06-09 16:51
+- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxPaTdCU1NMdE1UZG1PME5JQnJqeEV2UFF4b0NtQnNVS0hTSFIyY2FSZlAxUWViWkFZdEFyVEtWN0poTUNLV1ZtaUVNY1Fzc0FKTm5udmw2OHdWb2R4R01HZjNyQkpMemhITXotMEUzbDl3UTNmaXdFeDZBNmZ2NlVJXzlMaEFTY1ZCNUE?oc=5>
+
+### 油价下跌 因特朗普称伊朗协议将於数日内达成
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: AASTOCKS.com
+- 时间: 2026-06-09 16:50
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTFBlVnVNZFllWkVZbTE4V3JXTGRYdmdjWHpRak8wTzNpX2pYLVpMQWJuYXJZaXNFRWZ3NmtoOE5wQW1fQTVHVG5Bc1ZUbmpHbVVsRHJTMXlxQVpEalRtWUQ3WjdCTVZYM1dvS012WUUzRQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-09 18:31  (11 条)
+
+- **蔡徐坤** | 蔡徐坤马来西亚音乐节彩排花絮曝光 <https://k.sina.com.cn/article_2481058012_m93e1f0dc05301hhzk.html>
+- **周杰伦** | 新浪演唱会热点小时报丨2026年06月10日02时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001906j5lq.html>
+- **周杰伦** | 新浪演唱会热点小时报丨2026年06月10日01时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001906izoq.html>
+- **特朗普** | 视频曝光：特朗普现身尼克斯主场观战NBA总决赛，现场嘘声四起，特朗普微笑回应 <https://news.google.com/rss/articles/CBMieEFVX3lxTFBQRFd4b3h3WW9SMFNFUWdnT25wUHo3U24xamFPUFQwbWdQdEF1Z2lNT29SRkd0YVZjbFRQX29PUUlOdmhwWnZhTHk2TS12cHR0Y1JITTRMdmJWbVhXQjAwZUFOYjA2ckFvbllfTkhvVkljSHc1b05VYQ?oc=5>
+- **特朗普** | 特朗普家族从加密货币项目获利约5亿美元，投资者却巨亏 <https://news.google.com/rss/articles/CBMimwJBVV95cUxNeFRiaXBLU25Ka0kwRklRelE3dVNvejd2d3lHUXJhdnVlR3VObVpDNzFfTXFCM3gtb1h6TzI2YW9acERGbEV0QThJOFBuLUEwb2FHbk1VTkpRNEVMVjItOURIQXRGN2dpTnJEZ25iVUJSeVA5T1UzNUZxVTVYWm9kbXREMHdDNEFJTU1qcUVGTDRYUEx4Y2tYb0FmRy1vU2hFelFMbmVwSGxJeEEwQkgwR3pEM25rTWszaGtKd2JDcmtDaENGUHZEUUUxWU9rR2dGN3lMWENsM042X3RnQW9PYktCT2ZkbDdCbmtGMldtZVJQaDNGNjh6YU1IblF4VWFFdmxDamNNbDRnM1FpbWcyd2oyUkkySGZQSE4w?oc=5>
+- **特朗普** | 油价下跌，因特朗普称伊朗协议数日内即将达成 <https://news.google.com/rss/articles/CBMimAFBVV95cUxPdXRVT1IteUR3NFNRdE81X29IWHg0OS1oekFpS2NGYWxtTmFINmg3eU5aNWtOTFVzOHN4YkcwcnhQMm44NHg0dTMwNmh5c2l5MERTWUhyaXVuRGw1TnVtZmtDaFlJMzJpaFBkcmMxUW5JZmRXVjcwQktQVmhOU0V6QkRTWjJUNzZ2RnZMSkZxTmk5Zi1xajY0MQ?oc=5>
+- **特朗普** | 美法官裁定特朗普10万美元H-1B签证费违法 <https://news.google.com/rss/articles/CBMipwJBVV95cUxQT0FlbEJQNXhodVhWY3lCZnlyMTdtWGVtMEJCcG5GQnJ6eTd5RU0zNVhra2N3ZE9PdmJSQ1Y4cS1lRFBfR1EwQV9ONkY4Zzg0MFlmZzB0d0g2cmNJS3FubFB4U2dNRV9HOXlCY19XZnktUDQzRU9JY0VoNXJLeHJqT3pIVE9aWjNJZ3prYUswMkE4cEZLRElTX1B3d2FzaFhoVktzcEFXS1QtVFR5bDZVU3Ywak45MUtMUm0tbHlLdWRDQkpoUmVwdnZMYk5MVWNoTUR4ZEIxdmpZWjVTdzBnUFRmeEYzRlRRT2JwSjJfS2ludmJWZ1FFT01lZnFxLWhsUGFCeUZEdmRMSTJPTzM0bnktNEtQbG1iaXVZX0xEUFg0ektvTHY4?oc=5>
+- **特朗普** | 特朗普：将在未来两周内宣布对伊战争取得全面胜利 <https://news.google.com/rss/articles/CBMihwFBVV95cUxNWndoMFlvcHJXdUpsdzJTalhpaTZmN0tpakkxMVF4ekNRYlJrRy1FOWZ4aHdOcmZNbnlZM0xrc3BUcFlLWWdyNkFVbmpNVjlxczk2MzltaXhTT04ySzZKbGVtNExmd0w3N3pUUkpCaUJEdV9sVnUyZEcxdXhNRGVuQzNxTENRS0k?oc=5>
+- **Trump** | Trump 称美国须回应伊朗直升机袭击 <https://news.google.com/rss/articles/CBMib0FVX3lxTFA5UTAwY0dGbWJmNVNDMkUyZDViUklVT1dkR0dGMkR2alR0M3FvRUhGczFGWmpPeTRGSm9YM2N5UENSOHNKN3QzTkJrOTh3Z3ZXT3lvcHlaVGZBOE44VHBLaEtFQUV3OVRLUEtaNi1Dbw?oc=5>
+- **Trump** | Trump 称美国须回应伊朗直升机袭击美股US Stocks Quote - 外围新闻内容Golbal News Content <https://news.google.com/rss/articles/CBMiigFBVV95cUxPaTdCU1NMdE1UZG1PME5JQnJqeEV2UFF4b0NtQnNVS0hTSFIyY2FSZlAxUWViWkFZdEFyVEtWN0poTUNLV1ZtaUVNY1Fzc0FKTm5udmw2OHdWb2R4R01HZjNyQkpMemhITXotMEUzbDl3UTNmaXdFeDZBNmZ2NlVJXzlMaEFTY1ZCNUE?oc=5>
+- **Trump** | 油价下跌 因特朗普称伊朗协议将於数日内达成 <https://news.google.com/rss/articles/CBMib0FVX3lxTFBlVnVNZFllWkVZbTE4V3JXTGRYdmdjWHpRak8wTzNpX2pYLVpMQWJuYXJZaXNFRWZ3NmtoOE5wQW1fQTVHVG5Bc1ZUbmpHbVVsRHJTMXlxQVpEalRtWUQ3WjdCTVZYM1dvS012WUUzRQ?oc=5>
 
 ### 2026-06-09 16:28  (10 条)
 
