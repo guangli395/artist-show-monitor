@@ -1,48 +1,98 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-09 22:18**
-- 本轮扫到 3046 条, 新增 **4** 条
+- 最近更新: **2026-06-09 23:49**
+- 本轮扫到 3055 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (9 条)
+
+### 「攻略」26年周杰伦、谢霆锋、陶喆、王力宏演唱会门票怎么买？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857141524_1d4527714019030spu.html>
 
 ### 吃薯条、闭眼打盹？特朗普现场观赛，球迷一片嘘声
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
+- 场馆: Sina finance
 - 时间: 2026-06-09 07:22
-- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWGFpVWhnNWZpcWhNTEtCVXEtYnBkQ1FHRUFYM0laMVRkc3FRbGpFRGVFQzNxUUlkaHBPZnBpWmR1VWF1djNQQWhRVnp4RFhPM0M0dmVTdlNaZ1ZubFBKZWMyVmM4WnR0VnN3VElLSDIwdEFrbl9QWUR1ZE9jNkdIeklIWGoxSTNzVzZBTS1TM1gzSHlLRXJTQ3V4ck5pTjdNTWtuOTNvVmVqV2VwWmJFcTBWUWdJTU5zaFNWajF6alVueFl5YjdmX1RXc3E1TDhwOWc?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRDRSVlN1cmR1WjV6NkxPaGtFTFlZVGxyMmJmMEtGX3B1NklFNjVXOFBNUmUzUms3NHdSQUc0LTJXaXpOb3loNmVGT2JwajZmb2tQOFI1RHRGTHdCS2VaSWpfcC1fMzBycl9zRjRvcjVvd2ZOb1Q5a2k4dlpxVWNGNkpHUE1IVmpNYVBNUjZWSUtjd1NOeFNHY2dfMjdWblJwZHdtRGE1eE9sS3NSVGNyaVZrY0UydW83SVBQVXNCcWdCVDBLSGozekp0NHhlNnJRRGlNSA?oc=5>
 
-### 美方发动打击后，特朗普仍认为伊方相关协议即将达成
+### 特朗普家族从加密货币项目获利约5亿美元，投资者却巨亏
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-09 22:11
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1zb1JyWlZOV3lHM3hlaUFFTjJfSnR0OTVtaVpCMWpWM0NlTWp5Z1pQWjc5WG40Sy1WUVdxVlNVdjhJNzY1b2VJVmNBYw?oc=5>
+- 时间: 2026-06-09 23:47
+- 链接: <https://news.google.com/rss/articles/CBMivgJBVV95cUxOY3BKQ1RfNkpqcTk2WTNFRHVLa3NHaUlVdmg3X0Utcnk0NHl2ZUROYzBpZDBfakx0ZGpTci1lYWZwRXRlaG1SOFBvY1BQZF9GaC1XVzJvbkR4VHJlNjZ4RzJiUHpIRElSSjdmbGxYNjlWQVZwYzdRQ0lNV1V5cXdJYmJpcnZEbk1YazRzUFFLc2ZtY3RfWm5PdC1UbGJpUTFxajFTRnRlSzljQ3dWakJBajkyek1SQWxCNDJlajIwLWJLSjFzWW0zSkpIRHZjRl9Lc21scmlBc0hyR09mQlFoWngwb1RnYnlhWkFlMjkyLWF0TFdOZnVXd25PZHdpS25VMmVvM3FsQnN0OW9UYjdkZl81SXRwRGVzQXp4TUtqRzQxZWt6UG1udS1PdTEwMEFLQVpsUzlkRENiXzhuSGc?oc=5>
 
-### 要闻分析 - 特朗普37次预告中东和谈接近达成 如今面对被伊朗击落的美军机残骸
+### 伊朗官员：伊朗对与美国谈判没意见，但特朗普不老实
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-06-09 20:14
-- 链接: <https://news.google.com/rss/articles/CBMiiARBVV95cUxQOGN6aldQSXRsZkNtak9TQklDeWhibm55S2ZYS2JqZllDeXJuT2I5SEZYbUxXME8ydFVHTkdGMVZjMFk0Y3U4cUlBS000X2RGZDZLa01wVDdCY2puczJTN1BXN2xQeTdueDF4S2drZmpGc2FyR3kyRXh3QnBvX3h0TURNVjRFRUU4cEVGWVNWcHgwV1AtR1JXcVlYZnhQeWljRTkzT3BiNkhQSUJiY2gyeFRzYUZlaEJaS0lWTEtRM3l5QUx1U0psVjJaZVAxTUNZWGJIcVc1S2V5ZWNOQk0zODdGTDkzVnptUkd0NnJqNTV1djFNcVRUYkJyTVBPaXBoQVNJUWw2dVYzdFM5UTlGMnEwQU9VanY3U0pucFJtLTlZdm9uS0d4ZjFpeXFrbnYwWlMydjhVZHRwa3JDTDFNbTVIOU9pUl9vVGdsVkpVa25PMnIwSGo4VkFDWVBNTmJrTmNqWnpFWEdlVUE3bU9wX3B1SVNZQko2SFlXS0YyTGZtZ3VCLXdUU2tSU1MtZy1sVGhPckpwN1dxTERzWnlWRkNSRHQzVVl4WG4wZmVZUWFLZUFYQVpla21hbm15US1SdW1VdG1sbDZVNHA3aFNzMzAzREtlcG54SUY3NGFfWnB5cDdIQmdybVJaQ3FNNGlsTXR6X2JXVGRER1RwWGptbG9odi1kRGVu?oc=5>
+- 场馆: 观察者
+- 时间: 2026-06-09 02:12
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE4tMEVHNTh1cVVOVDhUNkdGVmpwMF84aXZqMXlyN0VabkR6a3YtREIxVTNxbER6eFVwcld4NnhTWlhWaHpoc2N4TmlMSUpyQndEclFsakZIWFRqWFdVY2tOUmJNamNSUWtpc2c?oc=5>
 
-### 快讯：美国对伊朗发动“自卫”打击
+### 特朗普评价伊朗最高领袖穆杰塔巴：他伤得很重，还在想“我们和美国谈得怎么样”，这是一种勇气
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Sina finance
+- 时间: 2026-06-08 06:13
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdzRLYkZSTE4xXzJGWXhzazNybE44M1dBZE0xYmtUaTFyY1IxdVlxXzh5LXAwN1RxZzZHMEhFR3NqeHFHb1Y3TFBiTE9oaTltUzdZRjJQQkIzTUUya25TNFYyTGljem1oVTN1akUyMURTX3dwNlNvWXpfSTVHUDlseFU2RUpQR0F4WUpWMTBXWmJfcWROd3BtUmlPSGo0TFJ2cVl2RkloaUtkTXVabmx4QjhjZlZsQmVTejA5Sk9ubmdRd0s5WmxPUzdlLS1sRmRp?oc=5>
+
+### 特朗普称美伊谈判进入“最后关头”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 东方财富
+- 时间: 2026-06-09 20:24
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE43UndYcENSc29aaXRtemhOZkpDaG1xN2prZFhkZ2NNd1Z2X21RdWlrbVR0VWE1MjQ2ei13Tm9mRnozV0VwNTd4cF9mN2tCUFZNR3Z0SG54cWNDWEd2VEpJSQ?oc=5>
+
+### 特朗普警告：若美伊和谈破裂，霍尔木兹海峡或数月无法恢复通航
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰财经
+- 时间: 2026-06-09 14:33
+- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE1nRVRBajRycS02SzZDSjVMSE5IYUo4UUlXUVVBLVZ1YTFUcHJnbkpTeWpTZjNOT3RYc1BtcVNRSzlvMzlTa1BsUkJRNHdKdE4z?oc=5>
+
+### 专访被追问敏感问题 特朗普大骂主持人“愚蠢”拔麦走人
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 8world
+- 时间: 2026-06-08 08:26
+- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTFBpLTEwLU1qWmMxSGZLZllkMFRHelFuWXZiNno3WjNlUzBBSERBdUtFOTlZSDZKZWd1MlN1SnpfWjEtMFNlMldwRWF5dGdJRk9PbDFTZmQ0TGxpRi1ZcHVLcDNMTWg4R281TUZqeGFxYjBiVHd1XzhpbF9n?oc=5>
+
+### 美国军方称已袭击伊朗　回应直升机在霍尔木兹海峡遭击落
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-06-09 21:47
-- 链接: <https://news.google.com/rss/articles/CBMivAFBVV95cUxNb2hRaktKSmwyaVhWVnY1azNWUndnX3BxNC04SUJNX1o1RFc1NnhZcWxHZm94RHRWME8zb1E2NHZNVGUyWUJqakVXZGx0T3RBOElPNHAtQ2NCSUJoWTJ2RUZuaEhMcnU3dUUxdjVRNHBSWTBYcVpsR3lYdnpTZTRXYU5SOFpaMWhqTkNJN3E5MVdwdVR6MUlVM1FKRnBXT294WF9CYVBSTEwyUjNWcE43OFZPRWdqVVBPTWlvStIBvwFBVV95cUxQVUo4ZW1mZVRmNEYwYW1NQ20zRXJQYno1MzhlVXlfcnFxRklLZEhrUk9uUTEyWlhVR1ZwYVkyOUxobmJGb1EwYm5iMDE1WEpqQ2hUWWQzcjF3U29xSjhXRzlfR0g2MnNtZXNnNlVSaWZ5WU5rUS02d05rQWlFaUc2WEdmX24wX1RrX2FBQXJaamVjV2RlaGN3dXhpVld5a1oyR0tEWGwta2ZRUWRnYzhIWHI3by1aV243S2hvcFl4TQ?oc=5>
+- 场馆: BBC
+- 时间: 2026-06-09 22:25
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE00a1JxUlVxMG8ySGpvZDV6LTZHZjZHcVRhWFlkUU5NbDZrQXhxbjUxOEhrc0FtRWZKQkF1MHN3LTlPV0R1bW1mQktpYzYtS1Y4UDlZWnM0emVFLTc2Y2NmQ0dhdVRnUdIBa0FVX3lxTE1uU3dlLWFxTmNDTUR4bzJ6Y3RkVzBhRlkyUENKa2xoUUNvbWFhUUg0TEM0aEUyWlVxRXljOFp1M09LT0cxYk9hRk1iWl8zMHdlOENCOUN2aW5PN1gycG81cFNQSzZaMzQ3UWJj?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-09 23:49  (9 条)
+
+- **周杰伦** | 「攻略」26年周杰伦、谢霆锋、陶喆、王力宏演唱会门票怎么买？ <https://k.sina.com.cn/article_7857141524_1d4527714019030spu.html>
+- **特朗普** | 吃薯条、闭眼打盹？特朗普现场观赛，球迷一片嘘声 <https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRDRSVlN1cmR1WjV6NkxPaGtFTFlZVGxyMmJmMEtGX3B1NklFNjVXOFBNUmUzUms3NHdSQUc0LTJXaXpOb3loNmVGT2JwajZmb2tQOFI1RHRGTHdCS2VaSWpfcC1fMzBycl9zRjRvcjVvd2ZOb1Q5a2k4dlpxVWNGNkpHUE1IVmpNYVBNUjZWSUtjd1NOeFNHY2dfMjdWblJwZHdtRGE1eE9sS3NSVGNyaVZrY0UydW83SVBQVXNCcWdCVDBLSGozekp0NHhlNnJRRGlNSA?oc=5>
+- **特朗普** | 特朗普家族从加密货币项目获利约5亿美元，投资者却巨亏 <https://news.google.com/rss/articles/CBMivgJBVV95cUxOY3BKQ1RfNkpqcTk2WTNFRHVLa3NHaUlVdmg3X0Utcnk0NHl2ZUROYzBpZDBfakx0ZGpTci1lYWZwRXRlaG1SOFBvY1BQZF9GaC1XVzJvbkR4VHJlNjZ4RzJiUHpIRElSSjdmbGxYNjlWQVZwYzdRQ0lNV1V5cXdJYmJpcnZEbk1YazRzUFFLc2ZtY3RfWm5PdC1UbGJpUTFxajFTRnRlSzljQ3dWakJBajkyek1SQWxCNDJlajIwLWJLSjFzWW0zSkpIRHZjRl9Lc21scmlBc0hyR09mQlFoWngwb1RnYnlhWkFlMjkyLWF0TFdOZnVXd25PZHdpS25VMmVvM3FsQnN0OW9UYjdkZl81SXRwRGVzQXp4TUtqRzQxZWt6UG1udS1PdTEwMEFLQVpsUzlkRENiXzhuSGc?oc=5>
+- **特朗普** | 伊朗官员：伊朗对与美国谈判没意见，但特朗普不老实 <https://news.google.com/rss/articles/CBMiakFVX3lxTE4tMEVHNTh1cVVOVDhUNkdGVmpwMF84aXZqMXlyN0VabkR6a3YtREIxVTNxbER6eFVwcld4NnhTWlhWaHpoc2N4TmlMSUpyQndEclFsakZIWFRqWFdVY2tOUmJNamNSUWtpc2c?oc=5>
+- **特朗普** | 特朗普评价伊朗最高领袖穆杰塔巴：他伤得很重，还在想“我们和美国谈得怎么样”，这是一种勇气 <https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdzRLYkZSTE4xXzJGWXhzazNybE44M1dBZE0xYmtUaTFyY1IxdVlxXzh5LXAwN1RxZzZHMEhFR3NqeHFHb1Y3TFBiTE9oaTltUzdZRjJQQkIzTUUya25TNFYyTGljem1oVTN1akUyMURTX3dwNlNvWXpfSTVHUDlseFU2RUpQR0F4WUpWMTBXWmJfcWROd3BtUmlPSGo0TFJ2cVl2RkloaUtkTXVabmx4QjhjZlZsQmVTejA5Sk9ubmdRd0s5WmxPUzdlLS1sRmRp?oc=5>
+- **特朗普** | 特朗普称美伊谈判进入“最后关头” <https://news.google.com/rss/articles/CBMiYEFVX3lxTE43UndYcENSc29aaXRtemhOZkpDaG1xN2prZFhkZ2NNd1Z2X21RdWlrbVR0VWE1MjQ2ei13Tm9mRnozV0VwNTd4cF9mN2tCUFZNR3Z0SG54cWNDWEd2VEpJSQ?oc=5>
+- **特朗普** | 特朗普警告：若美伊和谈破裂，霍尔木兹海峡或数月无法恢复通航 <https://news.google.com/rss/articles/CBMiUEFVX3lxTE1nRVRBajRycS02SzZDSjVMSE5IYUo4UUlXUVVBLVZ1YTFUcHJnbkpTeWpTZjNOT3RYc1BtcVNRSzlvMzlTa1BsUkJRNHdKdE4z?oc=5>
+- **特朗普** | 专访被追问敏感问题 特朗普大骂主持人“愚蠢”拔麦走人 <https://news.google.com/rss/articles/CBMiekFVX3lxTFBpLTEwLU1qWmMxSGZLZllkMFRHelFuWXZiNno3WjNlUzBBSERBdUtFOTlZSDZKZWd1MlN1SnpfWjEtMFNlMldwRWF5dGdJRk9PbDFTZmQ0TGxpRi1ZcHVLcDNMTWg4R281TUZqeGFxYjBiVHd1XzhpbF9n?oc=5>
+- **Trump** | 美国军方称已袭击伊朗　回应直升机在霍尔木兹海峡遭击落 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE00a1JxUlVxMG8ySGpvZDV6LTZHZjZHcVRhWFlkUU5NbDZrQXhxbjUxOEhrc0FtRWZKQkF1MHN3LTlPV0R1bW1mQktpYzYtS1Y4UDlZWnM0emVFLTc2Y2NmQ0dhdVRnUdIBa0FVX3lxTE1uU3dlLWFxTmNDTUR4bzJ6Y3RkVzBhRlkyUENKa2xoUUNvbWFhUUg0TEM0aEUyWlVxRXljOFp1M09LT0cxYk9hRk1iWl8zMHdlOENCOUN2aW5PN1gycG81cFNQSzZaMzQ3UWJj?oc=5>
 
 ### 2026-06-09 22:18  (4 条)
 
