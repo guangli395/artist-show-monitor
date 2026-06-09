@@ -1,11 +1,11 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-09 20:53**
-- 本轮扫到 3042 条, 新增 **11** 条
+- 最近更新: **2026-06-09 22:18**
+- 本轮扫到 3046 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (11 条)
+## 本轮新发现 (4 条)
 
 ### 吃薯条、闭眼打盹？特朗普现场观赛，球迷一片嘘声
 
@@ -13,92 +13,43 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-06-09 07:22
-- 链接: <https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVl94SHJuRWxTR1ZZZU5KZG9GZW5NRm83V1M0MldYSTRjUW1kRTVGZW1mZnpfemxRRF9yaXJJUkR0TEhzbDhBMnhjSEZUU0Z3Q0pSVFJSNDRwZXoxamZ5MWdKUm5vSkZFZ0lURFd3b0xVNWg1VElaVHlzczZzSXBqM29rRF95TG9lV1U0QkxMbUNzZDVQTzBCdGl2alFHYzNYVEJidGFEQ21SU2RFVjdycnVXbU1qNXl6bUROUGxUYnZERnBxRWpnZnl6SE5BMVNDTlNkaA?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWGFpVWhnNWZpcWhNTEtCVXEtYnBkQ1FHRUFYM0laMVRkc3FRbGpFRGVFQzNxUUlkaHBPZnBpWmR1VWF1djNQQWhRVnp4RFhPM0M0dmVTdlNaZ1ZubFBKZWMyVmM4WnR0VnN3VElLSDIwdEFrbl9QWUR1ZE9jNkdIeklIWGoxSTNzVzZBTS1TM1gzSHlLRXJTQ3V4ck5pTjdNTWtuOTNvVmVqV2VwWmJFcTBWUWdJTU5zaFNWajF6alVueFl5YjdmX1RXc3E1TDhwOWc?oc=5>
 
-### 特朗普称伊朗击落美军直升机，放话必将回应
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-06-09 18:13
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBNZ212b1ZXMk1fVG4xa0sxVWtSd28zcTFBRkwzSzlTQkdVNzNXTUpBLVk3UkN5Uk42NXNqYUd4am5fQ1c2T2JEZ0hlWXI?oc=5>
-
-### 特朗普：未来两周将对伊朗“全面胜利” 油价将会暴跌！
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-06-09 18:50
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0OTJsdG1Bbzd2eHFTTFhzbjBiOC1QU01OS2ZtWkhHcVF0Rk1Ld0lPbFdpcnpZaFFLUzFqUDZ4V1ZJOHc2OFFpeTloLWd2RjRHMWRfa2NmcENJTHpQT0JvWg?oc=5>
-
-### 美法官裁定特朗普政府抬高H-1B签证费违法
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-06-08 22:23
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTFA1SGxFSVBrNjF5Qm5TYkhPYkxibUtUQlVaRHRFNjVOTGpjLTM0M2JPRXVLbENuejZMR3ZtaXVpV19lN0xnWGx1Zk1ob2xLQ1NCUWxnVWhLc3Z2QlRMdEZOZ0RZSnJ0WWxoUGoxQ3lBcTVIR1p1?oc=5>
-
-### 非法！特朗普“H-1B天价签证费”被法官否决，今年申请量已猛跌40%
+### 美方发动打击后，特朗普仍认为伊方相关协议即将达成
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-09 14:24
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE9VWW5MOWNpQ2w3RjU5aGdKNHYtUmlTczNQWXVVUDJIRDBBM21MbFdlREwyaDFUWEY1VEw1NnZnUUdjbmxkRFd0VXQ2VktMUEYtQmg3d3BwRUllS0Q2YjlyVWF5eGhzMTJDTEVraXFIUjlwTnRQWFE?oc=5>
+- 时间: 2026-06-09 22:11
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1zb1JyWlZOV3lHM3hlaUFFTjJfSnR0OTVtaVpCMWpWM0NlTWp5Z1pQWjc5WG40Sy1WUVdxVlNVdjhJNzY1b2VJVmNBYw?oc=5>
 
-### 特朗普接受采访摔麦离场，直斥主持人“要么是骗子、要么是蠢货”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-06-09 04:22
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTFB4Q2RId1BHMXdYR25QcUF1WTNKN3gwR0Z5d2wzcjB5cUdfN0RpZlZMVWpta0hQa2Y3QjBCZ0NnYU0yX21rcnIydw?oc=5>
-
-### 特朗普摔麦：这不是总统，是个输不起的“政治巨婴”
+### 要闻分析 - 特朗普37次预告中东和谈接近达成 如今面对被伊朗击落的美军机残骸
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 风闻
-- 时间: 2026-06-08 23:25
-- 链接: <https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFWkV2OF9jRVRmRi1OdW5UQ21ndDRnZDUzcFp1VVR0a0UwdE0wQmJ4eGRUNEVrTWVreXlwRVFvRERzTmtLdDV4VDJtY1RSbXlzS3hSRXFTc0VOWUU?oc=5>
+- 场馆: RFI
+- 时间: 2026-06-09 20:14
+- 链接: <https://news.google.com/rss/articles/CBMiiARBVV95cUxQOGN6aldQSXRsZkNtak9TQklDeWhibm55S2ZYS2JqZllDeXJuT2I5SEZYbUxXME8ydFVHTkdGMVZjMFk0Y3U4cUlBS000X2RGZDZLa01wVDdCY2puczJTN1BXN2xQeTdueDF4S2drZmpGc2FyR3kyRXh3QnBvX3h0TURNVjRFRUU4cEVGWVNWcHgwV1AtR1JXcVlYZnhQeWljRTkzT3BiNkhQSUJiY2gyeFRzYUZlaEJaS0lWTEtRM3l5QUx1U0psVjJaZVAxTUNZWGJIcVc1S2V5ZWNOQk0zODdGTDkzVnptUkd0NnJqNTV1djFNcVRUYkJyTVBPaXBoQVNJUWw2dVYzdFM5UTlGMnEwQU9VanY3U0pucFJtLTlZdm9uS0d4ZjFpeXFrbnYwWlMydjhVZHRwa3JDTDFNbTVIOU9pUl9vVGdsVkpVa25PMnIwSGo4VkFDWVBNTmJrTmNqWnpFWEdlVUE3bU9wX3B1SVNZQko2SFlXS0YyTGZtZ3VCLXdUU2tSU1MtZy1sVGhPckpwN1dxTERzWnlWRkNSRHQzVVl4WG4wZmVZUWFLZUFYQVpla21hbm15US1SdW1VdG1sbDZVNHA3aFNzMzAzREtlcG54SUY3NGFfWnB5cDdIQmdybVJaQ3FNNGlsTXR6X2JXVGRER1RwWGptbG9odi1kRGVu?oc=5>
 
-### 主持人插不进话，特朗普受访暴怒失控：当场“摔麦”走人
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-06-08 01:22
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1VkFTR21MRkd2QmV1LW5KY0ZNTXVJZU1SR0tpSDJHUUFLS0hBQnlucWU0Mk9ZM2hHY0V1MFNzTl9JYm5MQjhVYVBWMmNUOVpMcURYNlZ4ZkpIdUp2NkE?oc=5>
-
-### 特朗普总统说伊朗在霍尔木兹海峡上空击落美军直升机，誓言美国将作出回应
+### 快讯：美国对伊朗发动“自卫”打击
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: 美国之音
-- 时间: 2026-06-09 18:57
-- 链接: <https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYWM5RjF2a0ZLR3duTmo4TVlxLUxzREYwWVlUd1pMRGQ2azBTVTZpVEdtcGN6Nmluam9ELVN3YzMyLWpYOURmakJhYU0zTFRPbVBET0JXbmZ3dDk0Ql9yRGxNYk5ETkhfN3plRUJVNjM3UTVDMks1bWhXS00tdWw3RnpJZC1xSGxadkRoNjR0enVmR3p3Nm91cG04eS1hQnFTdjhvcURCNjM4MTNnM0xBWTFGMnVjNHpvaVNMRExxcThVRmZUMVBqV3M2NEJWNlN1RWFSZ2Z3M2tSWFQ10gHfAUFVX3lxTE1qOUR6Uk14Q3dkTm1BdjFuTFFUOEJwZDVlSkNrbW9xakg3dW5GQ2toejM2ZjlxQ09QM0VmVmx3TXEzbmZvdHktQnM1VTA5UnYzck5fM1JBcTk2Y0NTYmkwbk9XR1BydEp3WWxCREFuM2p4SkdPNWlyclhma2lIMTdlZ2dLWkNNX1NST29sYklFREp1RGh5eW85aENJMjlZTEpoeUpTZ3hLYXpNQTlsaU1sUkxQU3k3YU9DNFo5cy0ycUlvZ3FITVVGX0RBa0huUXBrUVZQLU45eVJwbmlSWkk?oc=5>
-
-### 美股盘中下跌 科技股遭抛售
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: AASTOCKS.com
-- 时间: 2026-06-09 18:17
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE00UUdSNlg5WTNLTENHRVJ1S0VqX2FzZUlJOG56SmZyZG5lWUtIT3h3SUZnemtmTkNoSl9MVktWZTd0MHJUdzBOVlFzckRDdHZ5ZFNjdnJ2dGpYQzNrdFRpTnBkbWNoRmpQTGYwSWY5NA?oc=5>
-
-### Trump 称美国须回应伊朗直升机袭击财经新闻Financial News
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: AASTOCKS.com
-- 时间: 2026-06-09 16:51
-- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxOSTljZHk1VnlNbFgtc240TG1ycFl2SHoxNDA2QkhRWFk1TFUzSWtYVFliUlZDM01kbG8zbDF5YXdFb2E3dGk0WXVUa3FyQkozRXUwU0E0aDNnR0I3TXhUaXV3eUJ4WVFLeEhQVUNtSDk4VlpGbE9Nd3JzQm9SZkp3c2d5TWQ3a3hFQ244dDJ0NDJEYlRj?oc=5>
+- 时间: 2026-06-09 21:47
+- 链接: <https://news.google.com/rss/articles/CBMivAFBVV95cUxNb2hRaktKSmwyaVhWVnY1azNWUndnX3BxNC04SUJNX1o1RFc1NnhZcWxHZm94RHRWME8zb1E2NHZNVGUyWUJqakVXZGx0T3RBOElPNHAtQ2NCSUJoWTJ2RUZuaEhMcnU3dUUxdjVRNHBSWTBYcVpsR3lYdnpTZTRXYU5SOFpaMWhqTkNJN3E5MVdwdVR6MUlVM1FKRnBXT294WF9CYVBSTEwyUjNWcE43OFZPRWdqVVBPTWlvStIBvwFBVV95cUxQVUo4ZW1mZVRmNEYwYW1NQ20zRXJQYno1MzhlVXlfcnFxRklLZEhrUk9uUTEyWlhVR1ZwYVkyOUxobmJGb1EwYm5iMDE1WEpqQ2hUWWQzcjF3U29xSjhXRzlfR0g2MnNtZXNnNlVSaWZ5WU5rUS02d05rQWlFaUc2WEdmX24wX1RrX2FBQXJaamVjV2RlaGN3dXhpVld5a1oyR0tEWGwta2ZRUWRnYzhIWHI3by1aV243S2hvcFl4TQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-09 22:18  (4 条)
+
+- **特朗普** | 吃薯条、闭眼打盹？特朗普现场观赛，球迷一片嘘声 <https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWGFpVWhnNWZpcWhNTEtCVXEtYnBkQ1FHRUFYM0laMVRkc3FRbGpFRGVFQzNxUUlkaHBPZnBpWmR1VWF1djNQQWhRVnp4RFhPM0M0dmVTdlNaZ1ZubFBKZWMyVmM4WnR0VnN3VElLSDIwdEFrbl9QWUR1ZE9jNkdIeklIWGoxSTNzVzZBTS1TM1gzSHlLRXJTQ3V4ck5pTjdNTWtuOTNvVmVqV2VwWmJFcTBWUWdJTU5zaFNWajF6alVueFl5YjdmX1RXc3E1TDhwOWc?oc=5>
+- **特朗普** | 美方发动打击后，特朗普仍认为伊方相关协议即将达成 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1zb1JyWlZOV3lHM3hlaUFFTjJfSnR0OTVtaVpCMWpWM0NlTWp5Z1pQWjc5WG40Sy1WUVdxVlNVdjhJNzY1b2VJVmNBYw?oc=5>
+- **特朗普** | 要闻分析 - 特朗普37次预告中东和谈接近达成 如今面对被伊朗击落的美军机残骸 <https://news.google.com/rss/articles/CBMiiARBVV95cUxQOGN6aldQSXRsZkNtak9TQklDeWhibm55S2ZYS2JqZllDeXJuT2I5SEZYbUxXME8ydFVHTkdGMVZjMFk0Y3U4cUlBS000X2RGZDZLa01wVDdCY2puczJTN1BXN2xQeTdueDF4S2drZmpGc2FyR3kyRXh3QnBvX3h0TURNVjRFRUU4cEVGWVNWcHgwV1AtR1JXcVlYZnhQeWljRTkzT3BiNkhQSUJiY2gyeFRzYUZlaEJaS0lWTEtRM3l5QUx1U0psVjJaZVAxTUNZWGJIcVc1S2V5ZWNOQk0zODdGTDkzVnptUkd0NnJqNTV1djFNcVRUYkJyTVBPaXBoQVNJUWw2dVYzdFM5UTlGMnEwQU9VanY3U0pucFJtLTlZdm9uS0d4ZjFpeXFrbnYwWlMydjhVZHRwa3JDTDFNbTVIOU9pUl9vVGdsVkpVa25PMnIwSGo4VkFDWVBNTmJrTmNqWnpFWEdlVUE3bU9wX3B1SVNZQko2SFlXS0YyTGZtZ3VCLXdUU2tSU1MtZy1sVGhPckpwN1dxTERzWnlWRkNSRHQzVVl4WG4wZmVZUWFLZUFYQVpla21hbm15US1SdW1VdG1sbDZVNHA3aFNzMzAzREtlcG54SUY3NGFfWnB5cDdIQmdybVJaQ3FNNGlsTXR6X2JXVGRER1RwWGptbG9odi1kRGVu?oc=5>
+- **Trump** | 快讯：美国对伊朗发动“自卫”打击 <https://news.google.com/rss/articles/CBMivAFBVV95cUxNb2hRaktKSmwyaVhWVnY1azNWUndnX3BxNC04SUJNX1o1RFc1NnhZcWxHZm94RHRWME8zb1E2NHZNVGUyWUJqakVXZGx0T3RBOElPNHAtQ2NCSUJoWTJ2RUZuaEhMcnU3dUUxdjVRNHBSWTBYcVpsR3lYdnpTZTRXYU5SOFpaMWhqTkNJN3E5MVdwdVR6MUlVM1FKRnBXT294WF9CYVBSTEwyUjNWcE43OFZPRWdqVVBPTWlvStIBvwFBVV95cUxQVUo4ZW1mZVRmNEYwYW1NQ20zRXJQYno1MzhlVXlfcnFxRklLZEhrUk9uUTEyWlhVR1ZwYVkyOUxobmJGb1EwYm5iMDE1WEpqQ2hUWWQzcjF3U29xSjhXRzlfR0g2MnNtZXNnNlVSaWZ5WU5rUS02d05rQWlFaUc2WEdmX24wX1RrX2FBQXJaamVjV2RlaGN3dXhpVld5a1oyR0tEWGwta2ZRUWRnYzhIWHI3by1aV243S2hvcFl4TQ?oc=5>
 
 ### 2026-06-09 20:53  (11 条)
 
