@@ -1,98 +1,118 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-09 18:31**
-- 本轮扫到 3031 条, 新增 **11** 条
+- 最近更新: **2026-06-09 20:53**
+- 本轮扫到 3042 条, 新增 **11** 条
 
 ---
 
 ## 本轮新发现 (11 条)
 
-### 蔡徐坤马来西亚音乐节彩排花絮曝光
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2481058012_m93e1f0dc05301hhzk.html>
-
-### 新浪演唱会热点小时报丨2026年06月10日02时_今日实时演唱会热点速递
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906j5lq.html>
-
-### 新浪演唱会热点小时报丨2026年06月10日01时_今日实时演唱会热点速递
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906izoq.html>
-
-### 视频曝光：特朗普现身尼克斯主场观战NBA总决赛，现场嘘声四起，特朗普微笑回应
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-06-09 02:20
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBQRFd4b3h3WW9SMFNFUWdnT25wUHo3U24xamFPUFQwbWdQdEF1Z2lNT29SRkd0YVZjbFRQX29PUUlOdmhwWnZhTHk2TS12cHR0Y1JITTRMdmJWbVhXQjAwZUFOYjA2ckFvbllfTkhvVkljSHc1b05VYQ?oc=5>
-
-### 特朗普家族从加密货币项目获利约5亿美元，投资者却巨亏
+### 吃薯条、闭眼打盹？特朗普现场观赛，球迷一片嘘声
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-09 17:43
-- 链接: <https://news.google.com/rss/articles/CBMimwJBVV95cUxNeFRiaXBLU25Ka0kwRklRelE3dVNvejd2d3lHUXJhdnVlR3VObVpDNzFfTXFCM3gtb1h6TzI2YW9acERGbEV0QThJOFBuLUEwb2FHbk1VTkpRNEVMVjItOURIQXRGN2dpTnJEZ25iVUJSeVA5T1UzNUZxVTVYWm9kbXREMHdDNEFJTU1qcUVGTDRYUEx4Y2tYb0FmRy1vU2hFelFMbmVwSGxJeEEwQkgwR3pEM25rTWszaGtKd2JDcmtDaENGUHZEUUUxWU9rR2dGN3lMWENsM042X3RnQW9PYktCT2ZkbDdCbmtGMldtZVJQaDNGNjh6YU1IblF4VWFFdmxDamNNbDRnM1FpbWcyd2oyUkkySGZQSE4w?oc=5>
+- 时间: 2026-06-09 07:22
+- 链接: <https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVl94SHJuRWxTR1ZZZU5KZG9GZW5NRm83V1M0MldYSTRjUW1kRTVGZW1mZnpfemxRRF9yaXJJUkR0TEhzbDhBMnhjSEZUU0Z3Q0pSVFJSNDRwZXoxamZ5MWdKUm5vSkZFZ0lURFd3b0xVNWg1VElaVHlzczZzSXBqM29rRF95TG9lV1U0QkxMbUNzZDVQTzBCdGl2alFHYzNYVEJidGFEQ21SU2RFVjdycnVXbU1qNXl6bUROUGxUYnZERnBxRWpnZnl6SE5BMVNDTlNkaA?oc=5>
 
-### 油价下跌，因特朗普称伊朗协议数日内即将达成
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-06-09 16:54
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxPdXRVT1IteUR3NFNRdE81X29IWHg0OS1oekFpS2NGYWxtTmFINmg3eU5aNWtOTFVzOHN4YkcwcnhQMm44NHg0dTMwNmh5c2l5MERTWUhyaXVuRGw1TnVtZmtDaFlJMzJpaFBkcmMxUW5JZmRXVjcwQktQVmhOU0V6QkRTWjJUNzZ2RnZMSkZxTmk5Zi1xajY0MQ?oc=5>
-
-### 美法官裁定特朗普10万美元H-1B签证费违法
+### 特朗普称伊朗击落美军直升机，放话必将回应
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-06-09 17:55
-- 链接: <https://news.google.com/rss/articles/CBMipwJBVV95cUxQT0FlbEJQNXhodVhWY3lCZnlyMTdtWGVtMEJCcG5GQnJ6eTd5RU0zNVhra2N3ZE9PdmJSQ1Y4cS1lRFBfR1EwQV9ONkY4Zzg0MFlmZzB0d0g2cmNJS3FubFB4U2dNRV9HOXlCY19XZnktUDQzRU9JY0VoNXJLeHJqT3pIVE9aWjNJZ3prYUswMkE4cEZLRElTX1B3d2FzaFhoVktzcEFXS1QtVFR5bDZVU3Ywak45MUtMUm0tbHlLdWRDQkpoUmVwdnZMYk5MVWNoTUR4ZEIxdmpZWjVTdzBnUFRmeEYzRlRRT2JwSjJfS2ludmJWZ1FFT01lZnFxLWhsUGFCeUZEdmRMSTJPTzM0bnktNEtQbG1iaXVZX0xEUFg0ektvTHY4?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-06-09 18:13
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBNZ212b1ZXMk1fVG4xa0sxVWtSd28zcTFBRkwzSzlTQkdVNzNXTUpBLVk3UkN5Uk42NXNqYUd4am5fQ1c2T2JEZ0hlWXI?oc=5>
 
-### 特朗普：将在未来两周内宣布对伊战争取得全面胜利
+### 特朗普：未来两周将对伊朗“全面胜利” 油价将会暴跌！
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Sina finance
-- 时间: 2026-06-08 22:05
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxNWndoMFlvcHJXdUpsdzJTalhpaTZmN0tpakkxMVF4ekNRYlJrRy1FOWZ4aHdOcmZNbnlZM0xrc3BUcFlLWWdyNkFVbmpNVjlxczk2MzltaXhTT04ySzZKbGVtNExmd0w3N3pUUkpCaUJEdV9sVnUyZEcxdXhNRGVuQzNxTENRS0k?oc=5>
+- 场馆: 东方财富
+- 时间: 2026-06-09 18:50
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0OTJsdG1Bbzd2eHFTTFhzbjBiOC1QU01OS2ZtWkhHcVF0Rk1Ld0lPbFdpcnpZaFFLUzFqUDZ4V1ZJOHc2OFFpeTloLWd2RjRHMWRfa2NmcENJTHpQT0JvWg?oc=5>
 
-### Trump 称美国须回应伊朗直升机袭击
+### 美法官裁定特朗普政府抬高H-1B签证费违法
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-06-08 22:23
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTFA1SGxFSVBrNjF5Qm5TYkhPYkxibUtUQlVaRHRFNjVOTGpjLTM0M2JPRXVLbENuejZMR3ZtaXVpV19lN0xnWGx1Zk1ob2xLQ1NCUWxnVWhLc3Z2QlRMdEZOZ0RZSnJ0WWxoUGoxQ3lBcTVIR1p1?oc=5>
+
+### 非法！特朗普“H-1B天价签证费”被法官否决，今年申请量已猛跌40%
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-06-09 14:24
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE9VWW5MOWNpQ2w3RjU5aGdKNHYtUmlTczNQWXVVUDJIRDBBM21MbFdlREwyaDFUWEY1VEw1NnZnUUdjbmxkRFd0VXQ2VktMUEYtQmg3d3BwRUllS0Q2YjlyVWF5eGhzMTJDTEVraXFIUjlwTnRQWFE?oc=5>
+
+### 特朗普接受采访摔麦离场，直斥主持人“要么是骗子、要么是蠢货”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 财联社
+- 时间: 2026-06-09 04:22
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTFB4Q2RId1BHMXdYR25QcUF1WTNKN3gwR0Z5d2wzcjB5cUdfN0RpZlZMVWpta0hQa2Y3QjBCZ0NnYU0yX21rcnIydw?oc=5>
+
+### 特朗普摔麦：这不是总统，是个输不起的“政治巨婴”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 风闻
+- 时间: 2026-06-08 23:25
+- 链接: <https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFWkV2OF9jRVRmRi1OdW5UQ21ndDRnZDUzcFp1VVR0a0UwdE0wQmJ4eGRUNEVrTWVreXlwRVFvRERzTmtLdDV4VDJtY1RSbXlzS3hSRXFTc0VOWUU?oc=5>
+
+### 主持人插不进话，特朗普受访暴怒失控：当场“摔麦”走人
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-06-08 01:22
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1VkFTR21MRkd2QmV1LW5KY0ZNTXVJZU1SR0tpSDJHUUFLS0hBQnlucWU0Mk9ZM2hHY0V1MFNzTl9JYm5MQjhVYVBWMmNUOVpMcURYNlZ4ZkpIdUp2NkE?oc=5>
+
+### 特朗普总统说伊朗在霍尔木兹海峡上空击落美军直升机，誓言美国将作出回应
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-06-09 18:57
+- 链接: <https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYWM5RjF2a0ZLR3duTmo4TVlxLUxzREYwWVlUd1pMRGQ2azBTVTZpVEdtcGN6Nmluam9ELVN3YzMyLWpYOURmakJhYU0zTFRPbVBET0JXbmZ3dDk0Ql9yRGxNYk5ETkhfN3plRUJVNjM3UTVDMks1bWhXS00tdWw3RnpJZC1xSGxadkRoNjR0enVmR3p3Nm91cG04eS1hQnFTdjhvcURCNjM4MTNnM0xBWTFGMnVjNHpvaVNMRExxcThVRmZUMVBqV3M2NEJWNlN1RWFSZ2Z3M2tSWFQ10gHfAUFVX3lxTE1qOUR6Uk14Q3dkTm1BdjFuTFFUOEJwZDVlSkNrbW9xakg3dW5GQ2toejM2ZjlxQ09QM0VmVmx3TXEzbmZvdHktQnM1VTA5UnYzck5fM1JBcTk2Y0NTYmkwbk9XR1BydEp3WWxCREFuM2p4SkdPNWlyclhma2lIMTdlZ2dLWkNNX1NST29sYklFREp1RGh5eW85aENJMjlZTEpoeUpTZ3hLYXpNQTlsaU1sUkxQU3k3YU9DNFo5cy0ycUlvZ3FITVVGX0RBa0huUXBrUVZQLU45eVJwbmlSWkk?oc=5>
+
+### 美股盘中下跌 科技股遭抛售
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: AASTOCKS.com
+- 时间: 2026-06-09 18:17
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE00UUdSNlg5WTNLTENHRVJ1S0VqX2FzZUlJOG56SmZyZG5lWUtIT3h3SUZnemtmTkNoSl9MVktWZTd0MHJUdzBOVlFzckRDdHZ5ZFNjdnJ2dGpYQzNrdFRpTnBkbWNoRmpQTGYwSWY5NA?oc=5>
+
+### Trump 称美国须回应伊朗直升机袭击财经新闻Financial News
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: AASTOCKS.com
 - 时间: 2026-06-09 16:51
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTFA5UTAwY0dGbWJmNVNDMkUyZDViUklVT1dkR0dGMkR2alR0M3FvRUhGczFGWmpPeTRGSm9YM2N5UENSOHNKN3QzTkJrOTh3Z3ZXT3lvcHlaVGZBOE44VHBLaEtFQUV3OVRLUEtaNi1Dbw?oc=5>
-
-### Trump 称美国须回应伊朗直升机袭击美股US Stocks Quote - 外围新闻内容Golbal News Content
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: AASTOCKS.com
-- 时间: 2026-06-09 16:51
-- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxPaTdCU1NMdE1UZG1PME5JQnJqeEV2UFF4b0NtQnNVS0hTSFIyY2FSZlAxUWViWkFZdEFyVEtWN0poTUNLV1ZtaUVNY1Fzc0FKTm5udmw2OHdWb2R4R01HZjNyQkpMemhITXotMEUzbDl3UTNmaXdFeDZBNmZ2NlVJXzlMaEFTY1ZCNUE?oc=5>
-
-### 油价下跌 因特朗普称伊朗协议将於数日内达成
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: AASTOCKS.com
-- 时间: 2026-06-09 16:50
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTFBlVnVNZFllWkVZbTE4V3JXTGRYdmdjWHpRak8wTzNpX2pYLVpMQWJuYXJZaXNFRWZ3NmtoOE5wQW1fQTVHVG5Bc1ZUbmpHbVVsRHJTMXlxQVpEalRtWUQ3WjdCTVZYM1dvS012WUUzRQ?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxOSTljZHk1VnlNbFgtc240TG1ycFl2SHoxNDA2QkhRWFk1TFUzSWtYVFliUlZDM01kbG8zbDF5YXdFb2E3dGk0WXVUa3FyQkozRXUwU0E0aDNnR0I3TXhUaXV3eUJ4WVFLeEhQVUNtSDk4VlpGbE9Nd3JzQm9SZkp3c2d5TWQ3a3hFQ244dDJ0NDJEYlRj?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-09 20:53  (11 条)
+
+- **特朗普** | 吃薯条、闭眼打盹？特朗普现场观赛，球迷一片嘘声 <https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVl94SHJuRWxTR1ZZZU5KZG9GZW5NRm83V1M0MldYSTRjUW1kRTVGZW1mZnpfemxRRF9yaXJJUkR0TEhzbDhBMnhjSEZUU0Z3Q0pSVFJSNDRwZXoxamZ5MWdKUm5vSkZFZ0lURFd3b0xVNWg1VElaVHlzczZzSXBqM29rRF95TG9lV1U0QkxMbUNzZDVQTzBCdGl2alFHYzNYVEJidGFEQ21SU2RFVjdycnVXbU1qNXl6bUROUGxUYnZERnBxRWpnZnl6SE5BMVNDTlNkaA?oc=5>
+- **特朗普** | 特朗普称伊朗击落美军直升机，放话必将回应 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBNZ212b1ZXMk1fVG4xa0sxVWtSd28zcTFBRkwzSzlTQkdVNzNXTUpBLVk3UkN5Uk42NXNqYUd4am5fQ1c2T2JEZ0hlWXI?oc=5>
+- **特朗普** | 特朗普：未来两周将对伊朗“全面胜利” 油价将会暴跌！ <https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0OTJsdG1Bbzd2eHFTTFhzbjBiOC1QU01OS2ZtWkhHcVF0Rk1Ld0lPbFdpcnpZaFFLUzFqUDZ4V1ZJOHc2OFFpeTloLWd2RjRHMWRfa2NmcENJTHpQT0JvWg?oc=5>
+- **特朗普** | 美法官裁定特朗普政府抬高H-1B签证费违法 <https://news.google.com/rss/articles/CBMidEFVX3lxTFA1SGxFSVBrNjF5Qm5TYkhPYkxibUtUQlVaRHRFNjVOTGpjLTM0M2JPRXVLbENuejZMR3ZtaXVpV19lN0xnWGx1Zk1ob2xLQ1NCUWxnVWhLc3Z2QlRMdEZOZ0RZSnJ0WWxoUGoxQ3lBcTVIR1p1?oc=5>
+- **特朗普** | 非法！特朗普“H-1B天价签证费”被法官否决，今年申请量已猛跌40% <https://news.google.com/rss/articles/CBMidkFVX3lxTE9VWW5MOWNpQ2w3RjU5aGdKNHYtUmlTczNQWXVVUDJIRDBBM21MbFdlREwyaDFUWEY1VEw1NnZnUUdjbmxkRFd0VXQ2VktMUEYtQmg3d3BwRUllS0Q2YjlyVWF5eGhzMTJDTEVraXFIUjlwTnRQWFE?oc=5>
+- **特朗普** | 特朗普接受采访摔麦离场，直斥主持人“要么是骗子、要么是蠢货” <https://news.google.com/rss/articles/CBMiSEFVX3lxTFB4Q2RId1BHMXdYR25QcUF1WTNKN3gwR0Z5d2wzcjB5cUdfN0RpZlZMVWpta0hQa2Y3QjBCZ0NnYU0yX21rcnIydw?oc=5>
+- **特朗普** | 特朗普摔麦：这不是总统，是个输不起的“政治巨婴” <https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFWkV2OF9jRVRmRi1OdW5UQ21ndDRnZDUzcFp1VVR0a0UwdE0wQmJ4eGRUNEVrTWVreXlwRVFvRERzTmtLdDV4VDJtY1RSbXlzS3hSRXFTc0VOWUU?oc=5>
+- **特朗普** | 主持人插不进话，特朗普受访暴怒失控：当场“摔麦”走人 <https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1VkFTR21MRkd2QmV1LW5KY0ZNTXVJZU1SR0tpSDJHUUFLS0hBQnlucWU0Mk9ZM2hHY0V1MFNzTl9JYm5MQjhVYVBWMmNUOVpMcURYNlZ4ZkpIdUp2NkE?oc=5>
+- **Trump** | 特朗普总统说伊朗在霍尔木兹海峡上空击落美军直升机，誓言美国将作出回应 <https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYWM5RjF2a0ZLR3duTmo4TVlxLUxzREYwWVlUd1pMRGQ2azBTVTZpVEdtcGN6Nmluam9ELVN3YzMyLWpYOURmakJhYU0zTFRPbVBET0JXbmZ3dDk0Ql9yRGxNYk5ETkhfN3plRUJVNjM3UTVDMks1bWhXS00tdWw3RnpJZC1xSGxadkRoNjR0enVmR3p3Nm91cG04eS1hQnFTdjhvcURCNjM4MTNnM0xBWTFGMnVjNHpvaVNMRExxcThVRmZUMVBqV3M2NEJWNlN1RWFSZ2Z3M2tSWFQ10gHfAUFVX3lxTE1qOUR6Uk14Q3dkTm1BdjFuTFFUOEJwZDVlSkNrbW9xakg3dW5GQ2toejM2ZjlxQ09QM0VmVmx3TXEzbmZvdHktQnM1VTA5UnYzck5fM1JBcTk2Y0NTYmkwbk9XR1BydEp3WWxCREFuM2p4SkdPNWlyclhma2lIMTdlZ2dLWkNNX1NST29sYklFREp1RGh5eW85aENJMjlZTEpoeUpTZ3hLYXpNQTlsaU1sUkxQU3k3YU9DNFo5cy0ycUlvZ3FITVVGX0RBa0huUXBrUVZQLU45eVJwbmlSWkk?oc=5>
+- **Trump** | 美股盘中下跌 科技股遭抛售 <https://news.google.com/rss/articles/CBMib0FVX3lxTE00UUdSNlg5WTNLTENHRVJ1S0VqX2FzZUlJOG56SmZyZG5lWUtIT3h3SUZnemtmTkNoSl9MVktWZTd0MHJUdzBOVlFzckRDdHZ5ZFNjdnJ2dGpYQzNrdFRpTnBkbWNoRmpQTGYwSWY5NA?oc=5>
+- **Trump** | Trump 称美国须回应伊朗直升机袭击财经新闻Financial News <https://news.google.com/rss/articles/CBMilAFBVV95cUxOSTljZHk1VnlNbFgtc240TG1ycFl2SHoxNDA2QkhRWFk1TFUzSWtYVFliUlZDM01kbG8zbDF5YXdFb2E3dGk0WXVUa3FyQkozRXUwU0E0aDNnR0I3TXhUaXV3eUJ4WVFLeEhQVUNtSDk4VlpGbE9Nd3JzQm9SZkp3c2d5TWQ3a3hFQ244dDJ0NDJEYlRj?oc=5>
 
 ### 2026-06-09 18:31  (11 条)
 
