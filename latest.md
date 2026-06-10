@@ -1,72 +1,62 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-10 22:25**
-- 本轮扫到 3141 条, 新增 **7** 条
+- 最近更新: **2026-06-10 23:55**
+- 本轮扫到 3146 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (5 条)
 
-### 特朗普称美“秘密”帮助200多艘商船通过霍尔木兹海峡
+### 林俊杰、周杰伦合唱周杰伦新歌《那天下雨了》，同框视频曝光，林俊杰：超喜欢这种一起玩音乐的调调
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-06-10 21:57
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5aXzc4VEhqNzRFOFlaZmZGMEY0YWRxWk1WdEd4R0NNUkVDMmJ1aGRVUTNTMHRaN2l3ZnFBMHNfM2Vzc0haZHVOajVCX2RyNm8wRDJuTWtZRTdCam1HeGJJeFlDeVoxa0pFdnZQb1FpUlU?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://finance.sina.com.cn/wm/2026-06-11/doc-iniaysmc0918711.shtml>
 
-### TA：特朗普目前没计划现场观看美国队本届世界杯首场比赛|美国|巴拉圭|世界杯
+### 特朗普誓言立即打击伊朗 德黑兰称民用水利设施遭美军袭击
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 懂球帝
-- 时间: 2026-06-10 21:47
-- 链接: <https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KQmVtM0V2R2pzWFhBWTczenBYV3hJT1BfSWpzRXBMRlNEZkl6eWdVcW9DcUtxY2tGVVdTMHVaakpQOGVURE5aQnhmY3dETlMxZWdHb3Rkdw?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-06-10 18:55
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxNRkx1OVV5emplbmNPTTMyMzYyQzlOd2xTajZRVjVpWlJqTExYSXNWNzdjVDRzNm1hYjVSRkRmdUU0b1lVWEd3dHZ1YUpZT3owMFZyRVhMYnM3NER5ZHROUHBmSHFURkViMUhjRUpuQjdhWEN6V09BMEdyck9OQzd0WUc4NVY1Slk?oc=5>
 
-### 特朗普总统说，美国将“狠狠地”打击伊朗
+### 特朗普宣称将狠狠打击伊朗，继续进行轰炸
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-06-10 19:18
-- 链接: <https://news.google.com/rss/articles/CBMitwFBVV95cUxOeVhSXzhUbzFUS1JVUms3TXBCWnJqaGhkejdBenRIQXdJcUFhendLTkFNYjVMX2pyWWFIeThfX2cxbkltRUZMMGl4ZjFNTHl6bnJxa1pCN1VuWmpHZHVwbVU5Wm40V0ptS3FXZTRzcEpQS2J2eTJGX2N4SWZXLTNNRDl2Mm9oQmRlc2doWjlVTXJyd0lCd2pfSzJPYjNreUNWV3Nuc183cFgxMVp2bDQtQXJqSjg3OUXSAbcBQVVfeXFMTnlYUl84VG8xVEtSVVJrN01wQlpyamhoZHo3QXp0SEF3SXFBYXp3S05BTWI1TF9qcllhSHk4X19nMW5JbUVGTDBpeGYxTUx5em5ycWtaQjdVblpqR2R1cG1VOVpuNFdKbUtxV2U0c3BKUEtidnkyRl9jeElmVy0zTUQ5djJvaEJkZXNnaFo5VU1ycndJQndqX0syT2Iza3lDVldzbnNfN3BYMTFadmw0LUFyako4NzlF?oc=5>
+- 场馆: thepaper.cn
+- 时间: 2026-06-10 23:39
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCWDlaMHZMY2lyV2F4dXRrMDlVa3RRZDlpcmRKa2dEVTJfa0M0eWY0M0oyd1Vsa0RVWHFkclBBM09VbEszS0xYam03MEdkYWpQeTM3aEV6LU1KWUNIa3c?oc=5>
+
+### 特朗普称无意续签美墨加协定
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-06-10 16:38
+- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTFBoNXV3Q0h4TWhUZXVEQmRGUDQzb0JOV1VNU2NRVlE4WWt5ZUhLVTVEVnlGWURRWS1BS1N0ZkFkbl9tQzd0WGdFVlBHTktMNzJyZ0txYXlSMnk0TmJNV3A1MDh5aE1kOWhBS241bm5jQlliZzE5Z2FDT21R?oc=5>
 
 ### 特朗普总统：美国已帮助1亿桶石油通过霍尔木兹海峡
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 美国之音
 - 时间: 2026-06-10 21:38
-- 链接: <https://news.google.com/rss/articles/CBMizgFBVV95cUxOR1RGYnpOYTd6RFNwOFI0ZDlhWWFLM3dpSkFwVWlHMVVYb0syclpGZnJLX2ZLVC1hV3Fac2pjc3BUb0dTZEtLSWJIbjZ1UUVRWV85TmRyUnVGOGxFcUJwQ2F0TnVxT0FEVDY0MjAyRHMxaWxhd0ZlZGJiTVBWS21qYUZ2OEVFZmwtRXhMWGg3cHozNU4tX3ZjQS1iYmZXc1RVa0pxcFVDN2NiY1J6UWhWWFZSeXktcjZFdWxVTnl4TmhTTjdnNDJhMEJHUFhJQdIB0AFBVV95cUxOS3ZMTzNtano3TElfVlhzNzdIeUZ0c3NrZ3lucFd0T2g4ak51NXZIUnYxdy1YMGtFWkgwNDhGRkp3S24ydjZKcFhWLUJfYjVWbGJ4bFF1WDdvVXZ1MXZRRjh1TUxsWmRyQVhGRkpvZ2ZaX1FQaWVNTDZOQU5Tc2dkTGV2OUZfRmR6REh0djF5dDRHRVB2amNFYVE3MS1icy11QXdIbEUxR2FQVE1iZFhiUnNKd2FneldSc1Q4endJSkU0NG5idlA1akc2RlFLT0NT?oc=5>
-
-### 美股收低，受半导体板块抛售拖累，特朗普威胁将对伊朗“严厉打击”
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-06-10 20:26
-- 链接: <https://news.google.com/rss/articles/CBMirAFBVV95cUxPQlU0YXR4ZDlLeTY4S0VEUVcycy1JTzFWZE1OSERPcXVLLUxBNTNhbXVGcWZRbG1EY0pNb0RRRWRSR19WLUo4UWJZSmpoM3N5ZlBFblhBWVY0U2xkd3N1UFNBVDd1dHdtSWg4dFNaZHlJa0FaQUVoeVh1QkdnZGgyUXBmRDBOaFVpNTlmMXlVLXpIdVFOcEFmemdoQUdNYkJKMXlNWHM1WXJnN0FC?oc=5>
-
-### 午市焦点：Trump称伊朗须「付出代价」；SpaceX获海湾富基金IPO前大型订单财经新闻Financial News
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: AASTOCKS.com
-- 时间: 2026-06-10 15:56
-- 链接: <https://news.google.com/rss/articles/CBMihAFBVV95cUxOeWNoeWxUVnpkc2Y2eTE3LUZRZGtXOEhzR09DaHlIbk5RMW1KR0RnY1ZKaGxXTUVqZzByVHhuWVZtTEFBbzNQdGNOVkpHYlNsaVc4THUyMDZJM18xSXZmclo2VDN1am43R0V2WnhIMkZwMDN1b180eUdQMDhPTFZuMzYwTUo?oc=5>
-
-### 美股指数下跌 半导体领跌科技板块 特朗普警告将对伊朗发动攻击
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: AASTOCKS.com
-- 时间: 2026-06-10 20:51
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE51dFRtRGJXM2dySWU1YlRKQWVJdUJDd2dDVC1RcnVzd2JQWU9Jc2dqc213TWlvV3Rwd2ZMb3hHdURVYzZ0elFMeXJscXdpTktzamY0c3dTbTEwS0xLQ0NsWHVwdzJ4eElRTlBscTY1NA?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxOS3ZMTzNtano3TElfVlhzNzdIeUZ0c3NrZ3lucFd0T2g4ak51NXZIUnYxdy1YMGtFWkgwNDhGRkp3S24ydjZKcFhWLUJfYjVWbGJ4bFF1WDdvVXZ1MXZRRjh1TUxsWmRyQVhGRkpvZ2ZaX1FQaWVNTDZOQU5Tc2dkTGV2OUZfRmR6REh0djF5dDRHRVB2amNFYVE3MS1icy11QXdIbEUxR2FQVE1iZFhiUnNKd2FneldSc1Q4endJSkU0NG5idlA1akc2RlFLT0NT0gHQAUFVX3lxTE5LdkxPM21qejdMSV9WWHM3N0h5RnRzc2tneW5wV3RPaDhqTnU1dkhSdjF3LVgwa0VaSDA0OEZGSndLbjJ2NkpwWFYtQl9iNVZsYnhsUXVYN29VdnUxdlFGOHVNTGxaZHJBWEZGSm9nZlpfUVBpZU1MNk5BTlNzZ2RMZXY5Rl9GZHpESHR2MXl0NEdFUHZqY0VhUTcxLWJzLXVBd0hsRTFHYVBUTWJkWGJSc0p3YWd6V1JzVDh6d0lKRTQ0bmJ2UDVqRzZGUUtPQ1M?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-10 23:55  (5 条)
+
+- **周杰伦** | 林俊杰、周杰伦合唱周杰伦新歌《那天下雨了》，同框视频曝光，林俊杰：超喜欢这种一起玩音乐的调调 <https://finance.sina.com.cn/wm/2026-06-11/doc-iniaysmc0918711.shtml>
+- **特朗普** | 特朗普誓言立即打击伊朗 德黑兰称民用水利设施遭美军袭击 <https://news.google.com/rss/articles/CBMihwFBVV95cUxNRkx1OVV5emplbmNPTTMyMzYyQzlOd2xTajZRVjVpWlJqTExYSXNWNzdjVDRzNm1hYjVSRkRmdUU0b1lVWEd3dHZ1YUpZT3owMFZyRVhMYnM3NER5ZHROUHBmSHFURkViMUhjRUpuQjdhWEN6V09BMEdyck9OQzd0WUc4NVY1Slk?oc=5>
+- **特朗普** | 特朗普宣称将狠狠打击伊朗，继续进行轰炸 <https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCWDlaMHZMY2lyV2F4dXRrMDlVa3RRZDlpcmRKa2dEVTJfa0M0eWY0M0oyd1Vsa0RVWHFkclBBM09VbEszS0xYam03MEdkYWpQeTM3aEV6LU1KWUNIa3c?oc=5>
+- **特朗普** | 特朗普称无意续签美墨加协定 <https://news.google.com/rss/articles/CBMiekFVX3lxTFBoNXV3Q0h4TWhUZXVEQmRGUDQzb0JOV1VNU2NRVlE4WWt5ZUhLVTVEVnlGWURRWS1BS1N0ZkFkbl9tQzd0WGdFVlBHTktMNzJyZ0txYXlSMnk0TmJNV3A1MDh5aE1kOWhBS241bm5jQlliZzE5Z2FDT21R?oc=5>
+- **特朗普** | 特朗普总统：美国已帮助1亿桶石油通过霍尔木兹海峡 <https://news.google.com/rss/articles/CBMi0AFBVV95cUxOS3ZMTzNtano3TElfVlhzNzdIeUZ0c3NrZ3lucFd0T2g4ak51NXZIUnYxdy1YMGtFWkgwNDhGRkp3S24ydjZKcFhWLUJfYjVWbGJ4bFF1WDdvVXZ1MXZRRjh1TUxsWmRyQVhGRkpvZ2ZaX1FQaWVNTDZOQU5Tc2dkTGV2OUZfRmR6REh0djF5dDRHRVB2amNFYVE3MS1icy11QXdIbEUxR2FQVE1iZFhiUnNKd2FneldSc1Q4endJSkU0NG5idlA1akc2RlFLT0NT0gHQAUFVX3lxTE5LdkxPM21qejdMSV9WWHM3N0h5RnRzc2tneW5wV3RPaDhqTnU1dkhSdjF3LVgwa0VaSDA0OEZGSndLbjJ2NkpwWFYtQl9iNVZsYnhsUXVYN29VdnUxdlFGOHVNTGxaZHJBWEZGSm9nZlpfUVBpZU1MNk5BTlNzZ2RMZXY5Rl9GZHpESHR2MXl0NEdFUHZqY0VhUTcxLWJzLXVBd0hsRTFHYVBUTWJkWGJSc0p3YWd6V1JzVDh6d0lKRTQ0bmJ2UDVqRzZGUUtPQ1M?oc=5>
 
 ### 2026-06-10 22:25  (7 条)
 
