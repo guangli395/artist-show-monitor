@@ -1,80 +1,110 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-10 02:49**
-- 本轮扫到 3063 条, 新增 **8** 条
+- 最近更新: **2026-06-10 07:05**
+- 本轮扫到 3074 条, 新增 **11** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (11 条)
 
-### 吃薯条、闭眼打盹？特朗普现场观赛，球迷一片嘘声
+### 林俊杰将翻唱周杰伦新歌，合作预告引期待
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_3876174997_e709bc9504001tqum.html>
+
+### 看周杰伦演唱会还可以吃“湘”喝辣！这些宝藏餐厅真好呷！_湘菜榜单_味道湖南__红网
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857141524_1d4527714019031ntc.html>
+
+### 青岛保送生高考现场喊话周杰伦多开演唱会
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1768470921_m6968b98903301fy36.html>
+
+### 青岛保送生高考体验后喊话周杰伦加场演唱会
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://video.sina.com.cn/p/finance/2026-06-10/detail-iniawttu6035079.d.html>
+
+### 算盘打得真响，特朗普提议：伊朗一半石油，换美国助其重建
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-06-10 05:55
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1EWmpPQ1VCd1NPR3gyUHRhdVZKYXo3THhFN0diLTB6VGlNMkprX1J5NF9pTER6MkVzcElBMnFReVBhWXRjWjA2SGUxNk1yMTlZQVV2bktCdkwyb3drQmk2a2RnMmxlZjZsa1haWktCbV8?oc=5>
+
+### 专家：达成协议是大势所趋，特朗普比伊朗更着急
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-06-10 02:44
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE45WTZQaHEzY3ZpMDNKWTFaOG4xZzZlM2RRcWI2ZzRYS0x0T3NKMlJFR0FTSUp0bk14RmZlUkphUXZUZkhWMk9TQnhNVWI?oc=5>
+
+### 分析：特朗普与内塔尼亚胡想重塑中东，但可能导致长久危机
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: BBC
+- 时间: 2026-06-10 05:39
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzdi0tOWNEUTM5ajk0cDVzQUtIWG5kS0VFTFBUTTdDaHpBcEFJTm9qYWVHOEVKYWNYTWlBOTI5WGhJNXhXa3Y4czRTZ0NNclEyUFVqZl9GNjlqbXRQd0MwZkxqalFIQdIBa0FVX3lxTE0tM2JaRjN5dFYwUk10cVdseXM2TGFqdlZoVVphSEQyakNtUnV6c3pUbkJucTQ1VTdJYUVnMHA5UGdrWkNiN2M4UHBlQVEyeUJHYUxKMGE1cV8tUHFnZXRtakpjM051ZlpfVXpj?oc=5>
+
+### 特朗普家族从加密货币项目获利约5亿美元，投资者却巨亏
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-09 07:22
-- 链接: <https://news.google.com/rss/articles/CBMi0wFBVV95cUxPT2Z2VEFqektTWjBNX2ZJcmkybzNwY29hYllwaTMxZ0stVUxnbXo0bXphQmZMNmZDWlVySjBEN2dGeGdHelVlS2pDS3hkbTlMUC1ITjBnY3IxQ2Q5TnlsblRMdGEtaXFYdU8xQXNZTjNWODFpMWlzRHFrZEZZdmp4QW9hbXpqdWxCOV9BSkpib0dfbHJ6VnY4eXc2Q0V4TTI4UnZhZnBZVnZraVZLa3otR1JQQ2ZnTnJ3clFyWVBOV25uNHctT2g2SWlLdFAtSndxQUNj?oc=5>
+- 时间: 2026-06-09 17:09
+- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxPR19VMzFta0xhQmZfQm5rbE11cVdtQTJENUpHTFhoOEdyM1NCcnN3RkVNWUV4aTI5bk9CZE5ZdlY5bjBiVU40M0pQMUdwcmtqNk5SMFR6ckx5bExUTnJZS3JmM2ZDQmdUTlktLVV2TDlZb3RBbDJtZEdRNi04ZUQ3T2lfVFlXMHVwSXc?oc=5>
 
-### 特朗普两次训以总理，给赖清德上了“现实主义警醒课”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪军事
-- 时间: 2026-06-09 23:59
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE14RDVQajdXV1VjREZhMlF3eGtvOERwUWo0bWsxYkUydUhGR25vVlVwUTRTTEM3bEN6SVJsT2U4S3J0eHJ5Wko3SWtKRFoybFJnamJMcFdVQXNSZS1YQWVYSnlOandqbkltQm5Ba290STlWMEU?oc=5>
-
-### “阿帕奇”直升机被击落，美军对伊报复性打击
+### “肯尼亚不是美国殖民地！”特朗普那套在非洲行不通了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-06-09 23:11
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBuRWRmLW1Vekt1d1pHNTRQYnZIdERBU2tnVURlOTF5T0lwS1dhRzRkR1NnYklTWlpPS2VyWjE0WmZ0VzRsOURudUdMNXplTV9oc3hCZ1E3T0x4Unc2Z2ZmaHlqMzRwRlZ5S0E?oc=5>
+- 场馆: 观察
+- 时间: 2026-06-09 14:41
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1LN1lUSnNReDMyUUFhNWxDalFGQUlkQVZHN3pnYmY3cVVxT0xibnE1YW4wUE85eXV4ZkRDeml6X0JHZmJ5MVZDaGtUQkhtT2YzUllLU3g5SDBiQTU0RmFVS29vWjlrekxMUEE?oc=5>
 
-### 油价触及7周最低，跌破90美元后小幅反弹，特朗普称“必须回应伊朗袭击直升机”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-10 01:44
-- 链接: <https://news.google.com/rss/articles/CBMixAJBVV95cUxQcDk5dnpLM205X1ZZZU5qb1Mwc1dZekxMOHlWcGZNc0FXZ1N4LXJ3cUMySEhTT2JCMml1dmV0LVcyRS1mZlpRRmdpZmRlODMzMWE4NldnNjNGX1JkZVVhODJBWVVYb0xtRlQ1bnYwUTBGRXUwck9XV1lvMkxlbFBzQTJtNWxIQ1c1ODBpZmk1cVZybTNkX2J2VUgyZmUzdXZFYnBLeEF4MkNEY2QwamJlMFZtX1JvQ28tOXpMa1lQOWdqX3hnbDVjZW4tR0w4c0ZoQW54bUxsWVNYRGhpSlVkOExwRDRfZDJzeU5zT1psX2huZEJPUmQ2aEJpdHAtSl9jSzROODBuVXBSQzJhd1NBem82S0tjYnczbHdjeUhDMGI2TnZ6bDZrWWlKczNSV0QzYmRkbnBHOW91N1c3enBzc3FjSks?oc=5>
-
-### 多数美国人忧油价会继续涨 特朗普支持率持续低迷
+### 英媒：人质就是特朗普
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-06-09 07:04
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE91dUpsdXlfQ1ZSR2FiZnpXR0FPeUxNZTZiU3lsek90ZXhQZUp3cmFhenY4azFHTVN6cE1zSkt4Wk1iRHhrVVdCOTZYbkNjRmpvWFpMdnNQNHB6VVJxT184Yk9nRElKQQ?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-06-10 02:26
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ZY3JKZ1JlN25GaGQxRU1vMVZFdTloRFdFOXZ4cHIzRkFzYXQ2N3p4VHg0UWhSNDljMXlnbWQ2Zy1FTlp6enFrYTRuWFc?oc=5>
 
-### 路透社调查：Trump 家族加密帝国套现 23 亿美元，投资者亏损几乎等额
+### 特朗普2.0的趣味不再
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 深潮TechFlow
-- 时间: 2026-06-09 10:41
-- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aYzJ0RlhwWTFuM0tfcTNsN1VNdVlWMDd3UlRmeTNMTWdMZUFrOGczX2FFSHNFaWdib1FmUVZNQ0NMamF2SFBKRWl2TFFFZkIxVUE?oc=5>
-
-### Trump 称美国须回应伊朗直升机袭击财经新闻Financial News
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: AASTOCKS.com
-- 时间: 2026-06-09 16:51
-- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxPS3RLeXJjVk9tYXl0bXlWcGN5ZVpENTR0cmxqaW9JaC1wRVAxNHd0MjRYSWlNRjN0ZzRGQnhYb29qVG1hX0JaUzJDVGRKbEhiNTZIQTE2YVJLN3luSUh6emgzaDhBdllMekl2ckU2blRpSGhLRms5YloyYlVsWGJMeEk5aWRtY3g0QmRHQXFWMTJrMjN2?oc=5>
-
-### 油价下跌因特朗普称伊朗协议将於数日内达成财经新闻Financial News
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: AASTOCKS.com
-- 时间: 2026-06-09 16:50
-- 链接: <https://news.google.com/rss/articles/CBMihgFBVV95cUxQSkx1NEJBV3R4UWpqVWs4M1RSUzFLMUp4alZMUHVURGtKOFNqT3dJY0VmYnFfT1pGMUhtdmdpZHJfNThmSFNpZEtWRXE5NWVjbmxpMXBsemFJeEZjY2Q4M1AwSUtGbzloX0E1T3VtZGVzaDM5aXY2b2NxUFBGdHUyeWIxUENhZw?oc=5>
+- 场馆: 华尔街日报中文网
+- 时间: 2026-06-10 03:52
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE1lOWlIUVU4emx0ZEJRYkRreFdoUDYtdzlDQmpwNTZlemRleldwZ3RlMkFCWjk5SmY2SEFIeUhEOHVSTElqcnJfdC1naW9lamtOZk54eldjcUVQeGlZR1hCdWtJYkx6dC05cnBaOHFVN1ljUQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-10 07:05  (11 条)
+
+- **周杰伦** | 林俊杰将翻唱周杰伦新歌，合作预告引期待 <https://k.sina.com.cn/article_3876174997_e709bc9504001tqum.html>
+- **周杰伦** | 看周杰伦演唱会还可以吃“湘”喝辣！这些宝藏餐厅真好呷！_湘菜榜单_味道湖南__红网 <https://k.sina.com.cn/article_7857141524_1d4527714019031ntc.html>
+- **周杰伦** | 青岛保送生高考现场喊话周杰伦多开演唱会 <https://k.sina.com.cn/article_1768470921_m6968b98903301fy36.html>
+- **周杰伦** | 青岛保送生高考体验后喊话周杰伦加场演唱会 <https://video.sina.com.cn/p/finance/2026-06-10/detail-iniawttu6035079.d.html>
+- **特朗普** | 算盘打得真响，特朗普提议：伊朗一半石油，换美国助其重建 <https://news.google.com/rss/articles/CBMicEFVX3lxTE1EWmpPQ1VCd1NPR3gyUHRhdVZKYXo3THhFN0diLTB6VGlNMkprX1J5NF9pTER6MkVzcElBMnFReVBhWXRjWjA2SGUxNk1yMTlZQVV2bktCdkwyb3drQmk2a2RnMmxlZjZsa1haWktCbV8?oc=5>
+- **特朗普** | 专家：达成协议是大势所趋，特朗普比伊朗更着急 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE45WTZQaHEzY3ZpMDNKWTFaOG4xZzZlM2RRcWI2ZzRYS0x0T3NKMlJFR0FTSUp0bk14RmZlUkphUXZUZkhWMk9TQnhNVWI?oc=5>
+- **特朗普** | 分析：特朗普与内塔尼亚胡想重塑中东，但可能导致长久危机 <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzdi0tOWNEUTM5ajk0cDVzQUtIWG5kS0VFTFBUTTdDaHpBcEFJTm9qYWVHOEVKYWNYTWlBOTI5WGhJNXhXa3Y4czRTZ0NNclEyUFVqZl9GNjlqbXRQd0MwZkxqalFIQdIBa0FVX3lxTE0tM2JaRjN5dFYwUk10cVdseXM2TGFqdlZoVVphSEQyakNtUnV6c3pUbkJucTQ1VTdJYUVnMHA5UGdrWkNiN2M4UHBlQVEyeUJHYUxKMGE1cV8tUHFnZXRtakpjM051ZlpfVXpj?oc=5>
+- **特朗普** | 特朗普家族从加密货币项目获利约5亿美元，投资者却巨亏 <https://news.google.com/rss/articles/CBMiigFBVV95cUxPR19VMzFta0xhQmZfQm5rbE11cVdtQTJENUpHTFhoOEdyM1NCcnN3RkVNWUV4aTI5bk9CZE5ZdlY5bjBiVU40M0pQMUdwcmtqNk5SMFR6ckx5bExUTnJZS3JmM2ZDQmdUTlktLVV2TDlZb3RBbDJtZEdRNi04ZUQ3T2lfVFlXMHVwSXc?oc=5>
+- **特朗普** | “肯尼亚不是美国殖民地！”特朗普那套在非洲行不通了 <https://news.google.com/rss/articles/CBMiakFVX3lxTE1LN1lUSnNReDMyUUFhNWxDalFGQUlkQVZHN3pnYmY3cVVxT0xibnE1YW4wUE85eXV4ZkRDeml6X0JHZmJ5MVZDaGtUQkhtT2YzUllLU3g5SDBiQTU0RmFVS29vWjlrekxMUEE?oc=5>
+- **特朗普** | 英媒：人质就是特朗普 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ZY3JKZ1JlN25GaGQxRU1vMVZFdTloRFdFOXZ4cHIzRkFzYXQ2N3p4VHg0UWhSNDljMXlnbWQ2Zy1FTlp6enFrYTRuWFc?oc=5>
+- **Trump** | 特朗普2.0的趣味不再 <https://news.google.com/rss/articles/CBMickFVX3lxTE1lOWlIUVU4emx0ZEJRYkRreFdoUDYtdzlDQmpwNTZlemRleldwZ3RlMkFCWjk5SmY2SEFIeUhEOHVSTElqcnJfdC1naW9lamtOZk54eldjcUVQeGlZR1hCdWtJYkx6dC05cnBaOHFVN1ljUQ?oc=5>
 
 ### 2026-06-10 02:49  (8 条)
 
