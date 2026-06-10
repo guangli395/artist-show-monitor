@@ -1,73 +1,117 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-10 14:34**
-- 本轮扫到 3104 条, 新增 **16** 条
+- 最近更新: **2026-06-10 17:54**
+- 本轮扫到 3124 条, 新增 **20** 条
 
 ---
 
-## 本轮新发现 (16 条)
+## 本轮新发现 (20 条)
 
-### 被起诉的微博用户具体发布了哪些针对王一博的不实言论？
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801n2x6.html>
-
-### 周杰伦林俊杰合照官宣新歌翻唱
+### 林俊杰翻唱周杰伦新歌，两大天王明日联动
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1774937570_p69cb65e202701qzkq.html>
+- 链接: <https://k.sina.com.cn/article_1645773865_6218842904001cvvi.html>
 
-### 《头文字D》发布会22周年，全球20亿人尚未出生
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923704_m1d5ae17f803301t6mo.html>
-
-### 周杰伦和林俊杰未来是否有计划合作发行新单曲或共同举办演唱会？
+### 手速慢也能抢到!这份林俊杰、王力宏、周杰伦演唱会抢票攻略稳了|演唱会门票_订阅
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801n2ro.html>
+- 链接: <https://k.sina.com.cn/article_7857141524_1d4527714019032vxc.html>
 
-### 周杰伦晒与林俊杰合照发文：大家想听行走的CD林俊杰翻唱我的哪首新歌呢，明天中午敬请期待，网友：两大天王梦幻联动
+### 谢娜演唱会的具体票价是多少？与周杰伦等歌手的票价对比如何？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://finance.sina.com.cn/wm/2026-06-10/doc-iniaxqxr1260779.shtml>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801n3uu.html>
 
-### 特朗普证实美军打击伊朗
+### 周杰伦和林俊杰这次合作是否意味着未来会有合体演唱会？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801n4sk.html>
+
+### 周杰伦这次让林俊杰翻唱的新歌是哪一首？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801n4se.html>
+
+### 六月的北京，多场重磅演唱会即将接连开演
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://finance.sina.com.cn/jjxw/2026-06-11/doc-iniaxzpm1121583.shtml>
+
+### 林俊杰、周杰伦合唱周杰伦新歌《那天下雨了》，同框视频曝光，林俊杰：超喜欢这种一起玩音乐的调调
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://finance.sina.com.cn/wm/2026-06-11/doc-iniaxzpe5777085.shtml>
+
+### 特朗普总统说伊朗谈判拖得太久，“现在必须付出代价”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-06-09 23:23
-- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxPbjVXdmpSTHRIQkN0N1pjbm9hQ19YOHJzSjJLdEZNRE92VWZqYTdRTHlkaUZDcjlySkc1NWdROXRndWlxcV96eURuVV9DRTFXODJJVGRLcEpWc3U3bzBQWFZCV2pmbTY4UHpXdUt5MzBpRk84QjNrWDlaYVZua3g1MXREalFERU9GazZGdXp6Q0x6eWZn?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-06-10 14:35
+- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxOdTlHaENTNUN6VnAwaW9ubjhQajRNSVRhV0JaSDRwUVZwM1pQSkFDcVRIZjlDVUNXeXF5S1d0dG1CeGgzNWtCZzMyLWZRREZSZ2hpWUFKaDZUU0lPYmllYk5CLWpIQXFjSGg0VVE4eV85WWdaTXphX3BMMHptSE5hemlwQXhRTm9aNFhKcmNxVVhwRnlsNUxMTWwwTG9MbHI3VWRkbFRiXzVTVEM3blA2MC02aTdyYzlVaVpGeUtMTHFNMHRsN3Zvbm9tZ054dm_SAdIBQVVfeXFMUE5iT0pJNFFJdUFuYkVWWW03cU5faTN2RG9jX0poNldZaDV3WGFpeDB6ckZjY3FFcy1rNmo0WW1jYm1iRXQ3UmllWUtwcmJlQUtYYUJ2NV91LXBNVnZ4TE96Z29VVldLcDBIVUt4UU03WnV5am91eDFra0VLUm1nNTJNdXZwWHhkNG9RM2Q1cEpzUXJjRGpiTDN4OVliSFVtVWx0SDd6RUFEeDdvQ0Vaakd3V3owbWI4SEVZVGFMaTZkQzg0NTBVcFJjbFg2UndzSDl3?oc=5>
 
-### 特朗普称将下令打击伊朗发电厂和桥梁
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-06-10 11:37
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1Gakw4VUNtc2M5U3U2bHJhTWZtOTR5eWhDd1FPT0M0TldzQ3FUYWFkWVR6bWdhTTZMTjNuT0ZuSEZTLVFWd1JtWE83MnM4RlE1UkVCSERzbkdHU1p0bHVFcDhmeDJaY1Z1OGdKdkJyeUk?oc=5>
-
-### 大水冲了龙王庙？摩门教共和党人电话轰炸特朗普：快改！-观察者网
+### 特朗普称无意续签美墨加协定
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-06-10 08:26
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBKV3ViWTVfS3BpWWdpNkNkNnVaS1A2bm0xODF6OGV6Z2VtdkIza01hUEhqMjhTdmRmdGpoX2VMbUtFOE1YZXJIOUt0QnNQci1nMV9YcjV0LVBNWlJoZl9YWklZV0twSUhwaVE?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-06-10 16:38
+- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxQeER4UFI0RnBaXzQ0MnNPdC15c3ltS2p1S1BicERkc2lmZ2I2MWUtMTFkMWZYODF4VDFHbzdXRFJVUEhQZ2dUVEotdTBleC1zcV9vQjZnYjBvTHpCZFA1NEtMV3Y0QlAtQ3NtT1dxYU1pUXJPNHBrYTM5SlZxaWdpWW1pSktqdGRlRHhMejR1NA?oc=5>
 
-### 特朗普对华政策转向：视中国为平等的超级大国
+### 法官敦促特朗普政府撤回上诉 政府称上诉涉及114亿美元IEEPA关税退款
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-06-09 18:29
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1xNmhLdU9RSVpZMGJ2NUpOeW5jZWFhd2hKSkJONms5WEQ4OWRYUUctXy1ncmkwaGEtb0MzOFl6X2pJY1VtY000MFZ6aHRXTUY0ZDRMRDRDbkl0VjlfczBHM2VhSmZaZw?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-06-10 16:36
+- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxPdUIyc2hOSjlmWHBsZnR5U285UFJFVkp5UVp2VGhBc1JYWjJITjM2dVVnS0FOeGlQbno5RWFiN3QzNVMxXzdSeVhXOFM0OERwQjVwQW1ReHlpQnRmMUFHQWhmaHBadmFhWHFyczNjM1ZGaE90eEVsbmhTbklwcUdFY3Iyc0NMOVFxTzhsX3RNQQ?oc=5>
+
+### 特朗普称将“非常猛烈”打击伊朗
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 央广网
+- 时间: 2026-06-10 16:50
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE1WWmhrcXdfcE5GX0o5Ujh3RmthR3l4N0VhOXBoZy0talEtTHlZOFFqLWczQjRRcDFXaC1yY2tHaFhtcUhUdXQ1U2Z5VXQzVVJhODN3MWJIbzQ0QUVYOUE1TGdpZjNKYUpkdDBUMmVvYl9Ma21qenc?oc=5>
+
+### 特朗普：伊朗用了太长时间谈判 现在必须付出代价
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 东方财富
+- 时间: 2026-06-10 11:33
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZQTRWWFNDWUF4Mk9LRWNVLXVxeV8yMFlWa3VkNzVyVUM4Z2hoWHRoOVpXMjEzVFMyVG9SRFJQdDdROTFzNnJlLWdoaDdUTmFTRDE2NHVNUWhCcXZaSHNSNg?oc=5>
+
+### 突发！特朗普：即将下令对伊朗的发电厂和桥梁发动新的打击，油价拉升
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 证券时报
+- 时间: 2026-06-10 11:36
+- 链接: <https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Lank5VEZkcmpWSkMwUW8wd0cwb2JOMG1UMTN2XzZ6dDd1eGRwVS1OMkFkUS1FYnVHRUJWZ2FTZk81MElGYmlSa3J1cXU5OEgxOTZVZWFKcmRqVjFn?oc=5>
+
+### 美媒：特朗普将下令打击伊朗发电厂和桥梁
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新京报
+- 时间: 2026-06-10 11:39
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5lSUcxaHZRdGxHOG5KWWlXQ2E3Yy1lbDFFT3dqanU0WUM3ZkNzMUgtMzg0aEYwNTdKTm1JMzd6dTEyYUs3Tl9LOHM0TXVMbFdBTUdtS2kyMDA4aHB6VDR5T2dmMDU?oc=5>
+
+### 午市焦点：Trump称伊朗须「付出代价」；SpaceX获海湾富基金IPO前大型订单
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: AASTOCKS.com
+- 时间: 2026-06-10 15:56
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE9pc3ZvaUtlTF9SaXgybG9EWEh1MDVZX0FSM0VUYVFqUFRjVDhRaUNKX0dwUFBpbHl1Ymw2cWhmaC1yQkswMzlGeGJ2bmtmalBEV2FfUlF6SVA0QzUxSlNOWW5JODE5ZzNFUW9YdzBtRQ?oc=5>
 
 ### Trump Media、TAE及Texas Ventures放弃Truth Social分拆计划
 
@@ -75,60 +119,67 @@
 - 来源: `googlenews`
 - 场馆: AASTOCKS.com
 - 时间: 2026-06-10 12:56
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE1NakRPbmlmTGlDTGlaS2d1Zk9ublFQS2d0LUcya1drWDRhMXN0OUhMRmloU09sbkp3b2pESDlLNmJqZXQ3blU5TEMzcllLdldFT3ZvdnBmNEVrbDBlSEJzcU5aem9vTTNzenlGTFZ0MA?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxOblRMUW5oaURJTHNiOVMtYjNsUU1vMkN4R3AycXpmWGFZUVRBdEU5dTFYNXZjeGZCcFZia2MxWk4zZmM1Tm1zem1QaGs5M2prNEVIdHBVZUV3SHgxZ3ZOWFhKS20yaUVNWE8xaHlkU3NSaV83NHQ1SW5KSzlpYU5TRS05S09Bd2JXZXRZ?oc=5>
 
-### Trump Post on Iran Accelerates Stock Sell-Off, Sends Oil Higher -- WSJ
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-06-10 11:46
-- 链接: <https://news.google.com/rss/articles/CBMipAFBVV95cUxNTmN0RjJ3bzdHeWs4d1hJLW1fTFgxRkJiSHg1Z2V4Tngyc2lGaERlNFdiZEttLU9nNW4xNk1MWk14TUxMNkl1bzh4SWFFaFhOeVNaQTZjOXlncW9QQlFRcTVQM1NLZDRLSWxIbTY1Vjl6TUxKYm91aWVVRFVfQXg1QnJRaWNqVHAtMmQwSVg3WFZDQzc5Q1B0MjV1NTFnMV9LZVZVXw?oc=5>
-
-### 使馆月度《近观中国》（德语）——第八十八期“中美元首会晤”特刊
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 驻德国大使馆
-- 时间: 2026-06-10 01:00
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTFBUdmpuWjZaZ1cwMjF3MENUdHNPa0IzdTBCUUFzSTlJS3pwb1Jub1ZkbVJ4bURWcUlsV0xEaGxZQ1QtYlFqUF9Qb3J3Nm5LcUExYUNtWVRJek9JdHRPeURUSDVkUXlSVzlJNEdKRXFXRHdIZTVJ?oc=5>
-
-### 法国报纸摘要 - 当中国等贸易顺差国与美国等贸易逆差国之间缺乏合作时... 全球经济有何风险
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-06-10 12:19
-- 链接: <https://news.google.com/rss/articles/CBMizgRBVV95cUxPN0pRLUc3ZWZzeHVvQkhmQmVGMDlpdUxsdE43c2htR1dVVWt6UG5fWnNIT3o1V2ZaajM4dkRNdXpITkZEdFlhLXBUWjBWdWltZDFaQmthUUxFTktRb3FNdUdVUjFZSGNCQmdzdG4zVnhCSmFBUnNFT2JubzNYZEVhNVdTV2JxN2ZqRlZEalFpa1V3ZlVVZ0pwN1BNMHk4ekx5dzd0Mi1NMXJiNEpvVHhleFQyY0FaSDNOYXZxTHloSEJWdVhfSWstX1I3MlNmdHpJeWM2Ukx0UGZHN2ZJMWhNM3ctQWxMZXpaSGpwLWhFTnBhTjBxcUg1WjNYZXh6alRPbmFPOW1oV0pYcDBwNUJUN3pZVHBMMjFrWnAxWWhVMW9jQVBkTk5SYnpvM0p0aW4tckdJWjI3RHItRW1DYU03NmxObEl5RkxCOHhrQ09VZGpVSEo5RE9MdzN3SGlKdnFhMnZpOS1LLUE3RWl4YS0tell3bWl4NUZ3QVVjYXRhazBNMzBhbURnWE5OVm45NXVLZXlxUG5ONHd6dVZQNTBtdGY3em9Uck5pazNfbkQ0aVdoS3BWV2dXa0x5YXVLTkNuSlFNRkhRc3p6OC1rZnRWWm81bmI5TnZtUDJscTNJelluUXcwSGlXTHZtUTBfZHdDb0IxWnlMRGFlSWpwd0dJbnU4bGZlUzVFNHVtd0U3aC1Rc0RtczEzdWN3WmFfY3R2c3psOEZWcm9aNF9jOW9pY2V5LTc1VmEyRElvSjE4REJCYzBMN2xUbHBJV251UQ?oc=5>
-
-### Oil Prices and Treasury Yields Rise After Trump Talks Tough on Iran
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 富途牛牛
-- 时间: 2026-06-10 11:44
-- 链接: <https://news.google.com/rss/articles/CBMingFBVV95cUxQQ1pnNUNyenZ1YU0yRzlla2xPNEVfakF4U0FfUHdJS05KS2Y4TVdaVDdNSWJGVzdreV96QmY2NElKRExoVC03azZMVXRrR1V2aW1JQ09ncmhyNEZVa1BfSVlVdXhKMzg5UzRXbV96NlFMMVhaVnI4N3VsVndLblctQmpLZmR4cWpaQ0NaVVZEM2JUNVh4LTFpTjBOdUNydw?oc=5>
-
-### Oil Prices and Treasury Yields Rise After Trump Talks Tough on Iran
+### Trump Praises Citigroup and CEO Jane Fraser -- WSJ
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: Moomoo
-- 时间: 2026-06-10 11:48
-- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxNenNDVkw5MTdqLW81Mm5FcXFMUFA3b3NhLXNRcjFjVDVJZE5qaFZBLUJWejN1aHNFbW00NDlZSXR5OXFGa0xtU3JEZzBmS2JwMDU1YUJZTWcwNHN3TVRacGp3Y1d2S3FKSnotM0FOcHRQelB4TXFpN3V3RWhBeWRnb3dxX25qRVJraWQyMkl0TGl3ZU4tUlhOVUJiOUprbTZMOXNpSlVVSVVOZw?oc=5>
+- 时间: 2026-06-10 14:46
+- 链接: <https://news.google.com/rss/articles/CBMimgFBVV95cUxNbENDMnA0SVVMWUpwNjVFY19qRE15d1h0Z1RCSkJ1emNoTURJLTBXRWNZQTdHenF1Y0w1a0JsNG11UzFuWnFNRGYzcWlxMnljSHNZX1JnSG9xaEplNUNEYlo1cEpNNEJ4WDJ4clR0QkZfSkQtTlRodkNqNWxYLVZCdEVJMWtyY2pfdUlSNlNqS3dWN09VVF9pUFdR?oc=5>
 
-### Trump Media、TAE及Texas Ventures放弃Truth Social分拆计划财经新闻Financial News
+### 午间头条：特朗普称伊朗必须“付出代价”；SpaceX在IPO前获得海湾主权财富基金的大额订单
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-06-10 15:56
+- 链接: <https://news.google.com/rss/articles/CBMiogFBVV95cUxQeVdtRU8wZjdCUzRsNm9NTWlKTVRYbmpvc0l3UUVuM2t4bDhfZVBUXzhId1B2OE1oOWw1SVpNUWl2Vjh6U205NWtMMWx5a0t4STZqWENJVl9ZYnhhS0xGUi02bVdHbmpsckxkLVgtUUN4R1ZFX2JFbnRxYWNIa3RTbnZvV1NydjJQWDJFZmlFU2RjTDlHRjZXU3R2bktuSUNrU0E?oc=5>
+
+### 油价上升 因特朗普称伊朗将因延迟和平协议而「付出代价」
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: AASTOCKS.com
-- 时间: 2026-06-10 12:56
-- 链接: <https://news.google.com/rss/articles/CBMihgFBVV95cUxOWGY2dERXUnl4MFlWcE9heXhQTzFyOHJ1WTZhTHFpN0w0OFV4d01jMDRobzVtTDlXb2k5RExRWDNSQWtDSG04VVd6M1NXZmtsVDR0dDFZQWlwaDY1RXpLRllfWXczNEs3NzB3M2l5YXRqR0szYVJUZUM0QVJ5c0ViREpPdzQ5UQ?oc=5>
+- 时间: 2026-06-10 15:53
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE5QX1E4Q09ibnB0OTRyX1RqTDgtUDVVWXlKOVR5TjJ4dW15dkxvd21Hczc4WVZhXzg0ejJkSjhQeF9scS1GYmtBa21PcDQtVmc4OG0tZV8tZHMzQWVnZ0JUYVF0VGg0Sjh4elM3SEMyWQ?oc=5>
+
+### 油价上升因特朗普称伊朗将因延迟和平协议而「付出代价」财经新闻Financial News
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: AASTOCKS.com
+- 时间: 2026-06-10 15:53
+- 链接: <https://news.google.com/rss/articles/CBMihgFBVV95cUxPSVJtaDA4cXBHTEVYa3NvN0hmMUthbE8xTmlNcHpYeml3WkdUMGMxNVVkRjFCVjlsSXZMY2xPeUVKS2V5SmM2eHdCNVFxTHVyOENnN0NxZHBhMERCa1M0dlJzZUIzTHJwNkd3dlRLN05UM01OXzBtdktRTXA4YURZVEwzQWZpUQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-10 17:54  (20 条)
+
+- **周杰伦** | 林俊杰翻唱周杰伦新歌，两大天王明日联动 <https://k.sina.com.cn/article_1645773865_6218842904001cvvi.html>
+- **周杰伦** | 手速慢也能抢到!这份林俊杰、王力宏、周杰伦演唱会抢票攻略稳了|演唱会门票_订阅 <https://k.sina.com.cn/article_7857141524_1d4527714019032vxc.html>
+- **周杰伦** | 谢娜演唱会的具体票价是多少？与周杰伦等歌手的票价对比如何？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801n3uu.html>
+- **周杰伦** | 周杰伦和林俊杰这次合作是否意味着未来会有合体演唱会？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801n4sk.html>
+- **周杰伦** | 周杰伦这次让林俊杰翻唱的新歌是哪一首？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801n4se.html>
+- **周杰伦** | 六月的北京，多场重磅演唱会即将接连开演 <https://finance.sina.com.cn/jjxw/2026-06-11/doc-iniaxzpm1121583.shtml>
+- **周杰伦** | 林俊杰、周杰伦合唱周杰伦新歌《那天下雨了》，同框视频曝光，林俊杰：超喜欢这种一起玩音乐的调调 <https://finance.sina.com.cn/wm/2026-06-11/doc-iniaxzpe5777085.shtml>
+- **特朗普** | 特朗普总统说伊朗谈判拖得太久，“现在必须付出代价” <https://news.google.com/rss/articles/CBMizwFBVV95cUxOdTlHaENTNUN6VnAwaW9ubjhQajRNSVRhV0JaSDRwUVZwM1pQSkFDcVRIZjlDVUNXeXF5S1d0dG1CeGgzNWtCZzMyLWZRREZSZ2hpWUFKaDZUU0lPYmllYk5CLWpIQXFjSGg0VVE4eV85WWdaTXphX3BMMHptSE5hemlwQXhRTm9aNFhKcmNxVVhwRnlsNUxMTWwwTG9MbHI3VWRkbFRiXzVTVEM3blA2MC02aTdyYzlVaVpGeUtMTHFNMHRsN3Zvbm9tZ054dm_SAdIBQVVfeXFMUE5iT0pJNFFJdUFuYkVWWW03cU5faTN2RG9jX0poNldZaDV3WGFpeDB6ckZjY3FFcy1rNmo0WW1jYm1iRXQ3UmllWUtwcmJlQUtYYUJ2NV91LXBNVnZ4TE96Z29VVldLcDBIVUt4UU03WnV5am91eDFra0VLUm1nNTJNdXZwWHhkNG9RM2Q1cEpzUXJjRGpiTDN4OVliSFVtVWx0SDd6RUFEeDdvQ0Vaakd3V3owbWI4SEVZVGFMaTZkQzg0NTBVcFJjbFg2UndzSDl3?oc=5>
+- **特朗普** | 特朗普称无意续签美墨加协定 <https://news.google.com/rss/articles/CBMijwFBVV95cUxQeER4UFI0RnBaXzQ0MnNPdC15c3ltS2p1S1BicERkc2lmZ2I2MWUtMTFkMWZYODF4VDFHbzdXRFJVUEhQZ2dUVEotdTBleC1zcV9vQjZnYjBvTHpCZFA1NEtMV3Y0QlAtQ3NtT1dxYU1pUXJPNHBrYTM5SlZxaWdpWW1pSktqdGRlRHhMejR1NA?oc=5>
+- **特朗普** | 法官敦促特朗普政府撤回上诉 政府称上诉涉及114亿美元IEEPA关税退款 <https://news.google.com/rss/articles/CBMijwFBVV95cUxPdUIyc2hOSjlmWHBsZnR5U285UFJFVkp5UVp2VGhBc1JYWjJITjM2dVVnS0FOeGlQbno5RWFiN3QzNVMxXzdSeVhXOFM0OERwQjVwQW1ReHlpQnRmMUFHQWhmaHBadmFhWHFyczNjM1ZGaE90eEVsbmhTbklwcUdFY3Iyc0NMOVFxTzhsX3RNQQ?oc=5>
+- **特朗普** | 特朗普称将“非常猛烈”打击伊朗 <https://news.google.com/rss/articles/CBMidkFVX3lxTE1WWmhrcXdfcE5GX0o5Ujh3RmthR3l4N0VhOXBoZy0talEtTHlZOFFqLWczQjRRcDFXaC1yY2tHaFhtcUhUdXQ1U2Z5VXQzVVJhODN3MWJIbzQ0QUVYOUE1TGdpZjNKYUpkdDBUMmVvYl9Ma21qenc?oc=5>
+- **特朗普** | 特朗普：伊朗用了太长时间谈判 现在必须付出代价 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZQTRWWFNDWUF4Mk9LRWNVLXVxeV8yMFlWa3VkNzVyVUM4Z2hoWHRoOVpXMjEzVFMyVG9SRFJQdDdROTFzNnJlLWdoaDdUTmFTRDE2NHVNUWhCcXZaSHNSNg?oc=5>
+- **特朗普** | 突发！特朗普：即将下令对伊朗的发电厂和桥梁发动新的打击，油价拉升 <https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Lank5VEZkcmpWSkMwUW8wd0cwb2JOMG1UMTN2XzZ6dDd1eGRwVS1OMkFkUS1FYnVHRUJWZ2FTZk81MElGYmlSa3J1cXU5OEgxOTZVZWFKcmRqVjFn?oc=5>
+- **特朗普** | 美媒：特朗普将下令打击伊朗发电厂和桥梁 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5lSUcxaHZRdGxHOG5KWWlXQ2E3Yy1lbDFFT3dqanU0WUM3ZkNzMUgtMzg0aEYwNTdKTm1JMzd6dTEyYUs3Tl9LOHM0TXVMbFdBTUdtS2kyMDA4aHB6VDR5T2dmMDU?oc=5>
+- **Trump** | 午市焦点：Trump称伊朗须「付出代价」；SpaceX获海湾富基金IPO前大型订单 <https://news.google.com/rss/articles/CBMib0FVX3lxTE9pc3ZvaUtlTF9SaXgybG9EWEh1MDVZX0FSM0VUYVFqUFRjVDhRaUNKX0dwUFBpbHl1Ymw2cWhmaC1yQkswMzlGeGJ2bmtmalBEV2FfUlF6SVA0QzUxSlNOWW5JODE5ZzNFUW9YdzBtRQ?oc=5>
+- **Trump** | Trump Media、TAE及Texas Ventures放弃Truth Social分拆计划 <https://news.google.com/rss/articles/CBMiiwFBVV95cUxOblRMUW5oaURJTHNiOVMtYjNsUU1vMkN4R3AycXpmWGFZUVRBdEU5dTFYNXZjeGZCcFZia2MxWk4zZmM1Tm1zem1QaGs5M2prNEVIdHBVZUV3SHgxZ3ZOWFhKS20yaUVNWE8xaHlkU3NSaV83NHQ1SW5KSzlpYU5TRS05S09Bd2JXZXRZ?oc=5>
+- **Trump** | Trump Praises Citigroup and CEO Jane Fraser -- WSJ <https://news.google.com/rss/articles/CBMimgFBVV95cUxNbENDMnA0SVVMWUpwNjVFY19qRE15d1h0Z1RCSkJ1emNoTURJLTBXRWNZQTdHenF1Y0w1a0JsNG11UzFuWnFNRGYzcWlxMnljSHNZX1JnSG9xaEplNUNEYlo1cEpNNEJ4WDJ4clR0QkZfSkQtTlRodkNqNWxYLVZCdEVJMWtyY2pfdUlSNlNqS3dWN09VVF9pUFdR?oc=5>
+- **Trump** | 午间头条：特朗普称伊朗必须“付出代价”；SpaceX在IPO前获得海湾主权财富基金的大额订单 <https://news.google.com/rss/articles/CBMiogFBVV95cUxQeVdtRU8wZjdCUzRsNm9NTWlKTVRYbmpvc0l3UUVuM2t4bDhfZVBUXzhId1B2OE1oOWw1SVpNUWl2Vjh6U205NWtMMWx5a0t4STZqWENJVl9ZYnhhS0xGUi02bVdHbmpsckxkLVgtUUN4R1ZFX2JFbnRxYWNIa3RTbnZvV1NydjJQWDJFZmlFU2RjTDlHRjZXU3R2bktuSUNrU0E?oc=5>
+- **Trump** | 油价上升 因特朗普称伊朗将因延迟和平协议而「付出代价」 <https://news.google.com/rss/articles/CBMib0FVX3lxTE5QX1E4Q09ibnB0OTRyX1RqTDgtUDVVWXlKOVR5TjJ4dW15dkxvd21Hczc4WVZhXzg0ejJkSjhQeF9scS1GYmtBa21PcDQtVmc4OG0tZV8tZHMzQWVnZ0JUYVF0VGg0Sjh4elM3SEMyWQ?oc=5>
+- **Trump** | 油价上升因特朗普称伊朗将因延迟和平协议而「付出代价」财经新闻Financial News <https://news.google.com/rss/articles/CBMihgFBVV95cUxPSVJtaDA4cXBHTEVYa3NvN0hmMUthbE8xTmlNcHpYeml3WkdUMGMxNVVkRjFCVjlsSXZMY2xPeUVKS2V5SmM2eHdCNVFxTHVyOENnN0NxZHBhMERCa1M0dlJzZUIzTHJwNkd3dlRLN05UM01OXzBtdktRTXA4YURZVEwzQWZpUQ?oc=5>
 
 ### 2026-06-10 14:34  (16 条)
 
