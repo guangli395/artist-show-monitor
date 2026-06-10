@@ -1,96 +1,135 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-10 07:05**
-- 本轮扫到 3074 条, 新增 **11** 条
+- 最近更新: **2026-06-10 11:07**
+- 本轮扫到 3088 条, 新增 **14** 条
 
 ---
 
-## 本轮新发现 (11 条)
+## 本轮新发现 (14 条)
+
+### 林俊杰翻唱周杰伦新歌引发热议
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_6580970034_18841a23204001aukq.html>
+
+### 林俊杰将翻唱周杰伦新歌
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_6580970034_18841a23204001aule.html>
+
+### 林俊杰明日翻唱周杰伦新歌
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_6580970034_18841a23204001auly.html>
 
 ### 林俊杰将翻唱周杰伦新歌，合作预告引期待
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_3876174997_e709bc9504001tqum.html>
+- 链接: <https://k.sina.com.cn/article_3285889392_c3dab17004001a75a.html>
 
-### 看周杰伦演唱会还可以吃“湘”喝辣！这些宝藏餐厅真好呷！_湘菜榜单_味道湖南__红网
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857141524_1d4527714019031ntc.html>
-
-### 青岛保送生高考现场喊话周杰伦多开演唱会
+### 周杰伦林俊杰发布最新墙边合照
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1768470921_m6968b98903301fy36.html>
+- 链接: <https://k.sina.com.cn/article_6580970034_18841a23204001auk4.html>
 
-### 青岛保送生高考体验后喊话周杰伦加场演唱会
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://video.sina.com.cn/p/finance/2026-06-10/detail-iniawttu6035079.d.html>
-
-### 算盘打得真响，特朗普提议：伊朗一半石油，换美国助其重建
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-06-10 05:55
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1EWmpPQ1VCd1NPR3gyUHRhdVZKYXo3THhFN0diLTB6VGlNMkprX1J5NF9pTER6MkVzcElBMnFReVBhWXRjWjA2SGUxNk1yMTlZQVV2bktCdkwyb3drQmk2a2RnMmxlZjZsa1haWktCbV8?oc=5>
-
-### 专家：达成协议是大势所趋，特朗普比伊朗更着急
+### 特朗普称伊朗击落美军直升机，放话“必将回应”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-06-10 02:44
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE45WTZQaHEzY3ZpMDNKWTFaOG4xZzZlM2RRcWI2ZzRYS0x0T3NKMlJFR0FTSUp0bk14RmZlUkphUXZUZkhWMk9TQnhNVWI?oc=5>
+- 时间: 2026-06-09 23:11
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE04SkdRT0Z0RE8xYmhRd1NibHppQ3M0MUg5dklSWGNuS2VHYTdyQV9RTW9JYUNEcURzYzRzb0d4OXo3XzlsRGp0eDIyUQ?oc=5>
 
-### 分析：特朗普与内塔尼亚胡想重塑中东，但可能导致长久危机
+### 美军直升机遭“击落” 特朗普：不是什么大事
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-06-10 05:39
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzdi0tOWNEUTM5ajk0cDVzQUtIWG5kS0VFTFBUTTdDaHpBcEFJTm9qYWVHOEVKYWNYTWlBOTI5WGhJNXhXa3Y4czRTZ0NNclEyUFVqZl9GNjlqbXRQd0MwZkxqalFIQdIBa0FVX3lxTE0tM2JaRjN5dFYwUk10cVdseXM2TGFqdlZoVVphSEQyakNtUnV6c3pUbkJucTQ1VTdJYUVnMHA5UGdrWkNiN2M4UHBlQVEyeUJHYUxKMGE1cV8tUHFnZXRtakpjM051ZlpfVXpj?oc=5>
+- 场馆: 环球网
+- 时间: 2026-06-09 16:49
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE9rMWd2TGNlRmUyZzZad1RpWDdZUHBoWGc2bFNoSUhqOS0xNm5YYnRXbVUyMTJxdkdRYmJ3cmtaa3B6R2dQU0VLM2ZXRGc3cTg0THR3WElldzA?oc=5>
 
-### 特朗普家族从加密货币项目获利约5亿美元，投资者却巨亏
+### 特朗普观战NBA 总决赛遭尼克斯球迷狂嘘
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 财新
+- 时间: 2026-06-09 08:02
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjTjRKcjZfeUg1cTlTakFialdSOTNDQ3RKZXhRWlZsNmdmRDFaRlFfNDE5eUlOSjlXbFE2S1cycHZNRkFBNTcyc3hCU3J6Z2I4cnlJTlJMRF95UnZjRmREWA?oc=5>
+
+### 历史首次！美国总统特朗普观战NBA总决赛，起立微笑敬礼
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-09 17:09
-- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxPR19VMzFta0xhQmZfQm5rbE11cVdtQTJENUpHTFhoOEdyM1NCcnN3RkVNWUV4aTI5bk9CZE5ZdlY5bjBiVU40M0pQMUdwcmtqNk5SMFR6ckx5bExUTnJZS3JmM2ZDQmdUTlktLVV2TDlZb3RBbDJtZEdRNi04ZUQ3T2lfVFlXMHVwSXc?oc=5>
+- 时间: 2026-06-09 03:00
+- 链接: <https://news.google.com/rss/articles/CBMi0wFBVV95cUxQM3hsZWxTMGh4VVJrUE1GT0tHRzNLOExiZDIwaUdMRE1VNW9FZGZtUUdVekRwM2ZLbVduVU5lQ2NxUmowOWo4S0VkYzlidDY4amdvQkNnVGxDeG9vMmhDX196MXUtbUE4QmE3Ul9kS2R6WXdSVXhtUjBxVXVVem5zV3lETjhTNHRLd255SWtFdlN2WTJtUlJVT1dEUmtkR1MzMWJNdDFXM2pyRm1IWFBjaXA3WUkxVmFzb0NOeWxjZjFfaWIxOEVXQXlMZHV4MzJSUlZB?oc=5>
 
-### “肯尼亚不是美国殖民地！”特朗普那套在非洲行不通了
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察
-- 时间: 2026-06-09 14:41
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1LN1lUSnNReDMyUUFhNWxDalFGQUlkQVZHN3pnYmY3cVVxT0xibnE1YW4wUE85eXV4ZkRDeml6X0JHZmJ5MVZDaGtUQkhtT2YzUllLU3g5SDBiQTU0RmFVS29vWjlrekxMUEE?oc=5>
-
-### 英媒：人质就是特朗普
+### 美媒：特朗普至少37次说“美伊协议即将达成”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-06-10 02:26
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ZY3JKZ1JlN25GaGQxRU1vMVZFdTloRFdFOXZ4cHIzRkFzYXQ2N3p4VHg0UWhSNDljMXlnbWQ2Zy1FTlp6enFrYTRuWFc?oc=5>
+- 场馆: 央视网
+- 时间: 2026-06-10 02:15
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1hN3dQT0hWcFN0QWRuOFlFV29STkJ5UXBDOWl4Y1F2bXB4SG41cmxTSVM5Q2xRazBzcF9qQWNDbEFSWEtTZ2lxcTItUlRaT3N6ek9CY2V0dkxVUVNrVFgtNDg2WWotUWJVbEN4TG1uS0V2TzBvZ18tXw?oc=5>
 
-### 特朗普2.0的趣味不再
+### 特朗普：未来两周将对伊朗“全面胜利” 油价将会暴跌！
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 财联社
+- 时间: 2026-06-10 03:58
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE1kLTJGaXhYQVA0Y1N0VENORXlWSndQRjlFQ0prWDhINGxIYWM1dlI0a2k0c2JGbW9Lb2ExQURCdG1TcFhoSmtoRQ?oc=5>
+
+### Dow Jones Top Financial Services Headlines at 7 AM ET: Trump Regulator Proposes New Rules on What's Allowed on Prediction Markets | Financial ...
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-06-10 03:52
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE1lOWlIUVU4emx0ZEJRYkRreFdoUDYtdzlDQmpwNTZlemRleldwZ3RlMkFCWjk5SmY2SEFIeUhEOHVSTElqcnJfdC1naW9lamtOZk54eldjcUVQeGlZR1hCdWtJYkx6dC05cnBaOHFVN1ljUQ?oc=5>
+- 场馆: 富途牛牛
+- 时间: 2026-06-10 11:00
+- 链接: <https://news.google.com/rss/articles/CBMilgFBVV95cUxOa0RQQ1dNZy1nSnpTVnBtV2JadktUMUZ0OEUtTzlHU05OLXEwSDRFMkEydWg1cjBLRm5xMWh4Q0xJRXJucDViOXRsLTYtN2swdGlOV2RHZThyNlM2S3BmekRhRTRUR1ZXMDRaLXdWbW1IRlkyX1RodkUxaWVvc3lRU19CRHJhMG1XYVVBOUVHMm1JbHdxaFE?oc=5>
+
+### 川普孙女遭抓包偷换音效!陪爷看NBA"嘘声变欢呼"
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: wenxuecity
+- 时间: 2026-06-10 07:13
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE92N2pVLXdKMkZuV3FjRVpKMG1tOWY0OXIwMWRtR251b2FRSE41bTdVSXpkQXpVb202NFg1OUZjemd1eEk5NURHcXhMQUo1ekFZcUM3bEE3UWUtWVNHUW1CaHVWNWhfUldJ?oc=5>
+
+### Trump 称美国须回应伊朗直升机袭击财经新闻Financial News
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: AASTOCKS.com
+- 时间: 2026-06-09 16:51
+- 链接: <https://news.google.com/rss/articles/CBMihAFBVV95cUxNZnBFRFNJaS1SU3RNWDNiQUkzUGxMUlh2OURvcldZMWlGSzVWQUtCcmZUTFpHblZXZF9xYnEwZ2hqYXoxNjRNX2ZLVzZkVDVqNEhid2xkRGE3LTFYR0lUNUxJVWRGUVFZV0tVM2s3Ukg1ejJ0eEhwUE43UkRuMVpDZUJ4X18?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-10 11:07  (14 条)
+
+- **周杰伦** | 林俊杰翻唱周杰伦新歌引发热议 <https://k.sina.com.cn/article_6580970034_18841a23204001aukq.html>
+- **周杰伦** | 林俊杰将翻唱周杰伦新歌 <https://k.sina.com.cn/article_6580970034_18841a23204001aule.html>
+- **周杰伦** | 林俊杰明日翻唱周杰伦新歌 <https://k.sina.com.cn/article_6580970034_18841a23204001auly.html>
+- **周杰伦** | 林俊杰将翻唱周杰伦新歌，合作预告引期待 <https://k.sina.com.cn/article_3285889392_c3dab17004001a75a.html>
+- **周杰伦** | 周杰伦林俊杰发布最新墙边合照 <https://k.sina.com.cn/article_6580970034_18841a23204001auk4.html>
+- **特朗普** | 特朗普称伊朗击落美军直升机，放话“必将回应” <https://news.google.com/rss/articles/CBMiS0FVX3lxTE04SkdRT0Z0RE8xYmhRd1NibHppQ3M0MUg5dklSWGNuS2VHYTdyQV9RTW9JYUNEcURzYzRzb0d4OXo3XzlsRGp0eDIyUQ?oc=5>
+- **特朗普** | 美军直升机遭“击落” 特朗普：不是什么大事 <https://news.google.com/rss/articles/CBMiWEFVX3lxTE9rMWd2TGNlRmUyZzZad1RpWDdZUHBoWGc2bFNoSUhqOS0xNm5YYnRXbVUyMTJxdkdRYmJ3cmtaa3B6R2dQU0VLM2ZXRGc3cTg0THR3WElldzA?oc=5>
+- **特朗普** | 特朗普观战NBA 总决赛遭尼克斯球迷狂嘘 <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjTjRKcjZfeUg1cTlTakFialdSOTNDQ3RKZXhRWlZsNmdmRDFaRlFfNDE5eUlOSjlXbFE2S1cycHZNRkFBNTcyc3hCU3J6Z2I4cnlJTlJMRF95UnZjRmREWA?oc=5>
+- **特朗普** | 历史首次！美国总统特朗普观战NBA总决赛，起立微笑敬礼 <https://news.google.com/rss/articles/CBMi0wFBVV95cUxQM3hsZWxTMGh4VVJrUE1GT0tHRzNLOExiZDIwaUdMRE1VNW9FZGZtUUdVekRwM2ZLbVduVU5lQ2NxUmowOWo4S0VkYzlidDY4amdvQkNnVGxDeG9vMmhDX196MXUtbUE4QmE3Ul9kS2R6WXdSVXhtUjBxVXVVem5zV3lETjhTNHRLd255SWtFdlN2WTJtUlJVT1dEUmtkR1MzMWJNdDFXM2pyRm1IWFBjaXA3WUkxVmFzb0NOeWxjZjFfaWIxOEVXQXlMZHV4MzJSUlZB?oc=5>
+- **特朗普** | 美媒：特朗普至少37次说“美伊协议即将达成” <https://news.google.com/rss/articles/CBMieEFVX3lxTE1hN3dQT0hWcFN0QWRuOFlFV29STkJ5UXBDOWl4Y1F2bXB4SG41cmxTSVM5Q2xRazBzcF9qQWNDbEFSWEtTZ2lxcTItUlRaT3N6ek9CY2V0dkxVUVNrVFgtNDg2WWotUWJVbEN4TG1uS0V2TzBvZ18tXw?oc=5>
+- **特朗普** | 特朗普：未来两周将对伊朗“全面胜利” 油价将会暴跌！ <https://news.google.com/rss/articles/CBMiSEFVX3lxTE1kLTJGaXhYQVA0Y1N0VENORXlWSndQRjlFQ0prWDhINGxIYWM1dlI0a2k0c2JGbW9Lb2ExQURCdG1TcFhoSmtoRQ?oc=5>
+- **Trump** | Dow Jones Top Financial Services Headlines at 7 AM ET: Trump Regulator Proposes New Rules on What's Allowed on Prediction Markets | Financial ... <https://news.google.com/rss/articles/CBMilgFBVV95cUxOa0RQQ1dNZy1nSnpTVnBtV2JadktUMUZ0OEUtTzlHU05OLXEwSDRFMkEydWg1cjBLRm5xMWh4Q0xJRXJucDViOXRsLTYtN2swdGlOV2RHZThyNlM2S3BmekRhRTRUR1ZXMDRaLXdWbW1IRlkyX1RodkUxaWVvc3lRU19CRHJhMG1XYVVBOUVHMm1JbHdxaFE?oc=5>
+- **Trump** | 川普孙女遭抓包偷换音效!陪爷看NBA"嘘声变欢呼" <https://news.google.com/rss/articles/CBMiaEFVX3lxTE92N2pVLXdKMkZuV3FjRVpKMG1tOWY0OXIwMWRtR251b2FRSE41bTdVSXpkQXpVb202NFg1OUZjemd1eEk5NURHcXhMQUo1ekFZcUM3bEE3UWUtWVNHUW1CaHVWNWhfUldJ?oc=5>
+- **Trump** | Trump 称美国须回应伊朗直升机袭击财经新闻Financial News <https://news.google.com/rss/articles/CBMihAFBVV95cUxNZnBFRFNJaS1SU3RNWDNiQUkzUGxMUlh2OURvcldZMWlGSzVWQUtCcmZUTFpHblZXZF9xYnEwZ2hqYXoxNjRNX2ZLVzZkVDVqNEhid2xkRGE3LTFYR0lUNUxJVWRGUVFZV0tVM2s3Ukg1ejJ0eEhwUE43UkRuMVpDZUJ4X18?oc=5>
 
 ### 2026-06-10 07:05  (11 条)
 
