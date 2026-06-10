@@ -1,92 +1,82 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-10 20:22**
-- 本轮扫到 3134 条, 新增 **10** 条
+- 最近更新: **2026-06-10 22:25**
+- 本轮扫到 3141 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (10 条)
+## 本轮新发现 (7 条)
 
-### 王一博这次起诉的微博用户具体发布了哪些不实言论？
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801n4v0.html>
-
-### 哭了！周杰伦现身林俊杰演唱会 两人合唱多首歌曲
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906kf14.html>
-
-### 特朗普：会去看球赛
+### 特朗普称美“秘密”帮助200多艘商船通过霍尔木兹海峡
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-06-10 18:47
-- 链接: <https://news.google.com/rss/articles/CBMiwAFBVV95cUxPN1FaSE1CMHZ2Sy1qZkVJWlJSOWFEWXBOUXlvMmVPT1pOWjhTV18yZHhVREs2dU1ZM0xMaXp3QTVxUll3cXlRdmNiTjNHWGtfcU5rWjRYTzZ1dzNYc0liaHd4Z1lTOHpMUVFSdVJrRmNDMEI0MVlDcXN3VlJfUW96SDJoMWNCX0pqckR2a3J4UEZpeHRfZmZIUTZ5RDcwNGZGeHpld2RwSU1iS0J3b3NKODNXU3BGS1RySWNnM18yUUU?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-06-10 21:57
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5aXzc4VEhqNzRFOFlaZmZGMEY0YWRxWk1WdEd4R0NNUkVDMmJ1aGRVUTNTMHRaN2l3ZnFBMHNfM2Vzc0haZHVOajVCX2RyNm8wRDJuTWtZRTdCam1HeGJJeFlDeVoxa0pFdnZQb1FpUlU?oc=5>
 
-### 美贸易法院：特朗普，快退钱！
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-06-10 08:08
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5QdGNXOHFmcXUyTmpmVlI5ek9jZzA3OVRPZXV2b05nSEJObW9tT1RDXzdCelJEaE14VGNwOFU4Z2VWU3cxUmFIZTlmRHZoX3pGT1BhMjY3YXFsYTZTRTNCWlZVVkprRkhnYkE?oc=5>
-
-### 以色列消息人士称内塔尼亚胡与特朗普保持密切沟通
+### TA：特朗普目前没计划现场观看美国队本届世界杯首场比赛|美国|巴拉圭|世界杯
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-06-10 17:28
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE9zTDE0MG50T3ZJTkZsQ0JvUU80a1FXZ3RiTTZNdEtYVUtvWWxzSm1WRXVDNTI1bDdRRVNFeml4SFBLTGMyRkJDMnA2a2J2OVZPbHA2MWhLZ2hjZzR3RGc?oc=5>
-
-### 特朗普坚持提名普尔特出任情报高官，同时呼吁短期延期涉外监控法案
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-06-10 16:14
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxPNnNNMmcxWktmc0ZzMHQ1Sm5WQVRXUDNCQ1hTVTFkWjBHMG1qcWk0R3NVVVh6aEV1RDdiNGVJVTFIdGc2ZVB2dDZvRWt0UHpyVDhDRkpIQlprcGdYSzFMRVpubXZBb01mZGplbGl0bXNEeGNvY0owX1lCOXEta0N3Z3JWcWVvRkx6MU5CaQ?oc=5>
-
-### 特朗普称将“非常猛烈”打击伊朗
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-06-10 16:25
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5jTGxyWDE4UHNkVU53WF84NDYyZV82YlpRcXdOcEZaYXFPTFY5TzdFMExGMmRQZWx3TmktSGZ5X00xQkZ2RDFQendBWWhyTEhNYng0eDBBRFViSF9oVzdXeU1rLXpkcFlW?oc=5>
+- 场馆: 懂球帝
+- 时间: 2026-06-10 21:47
+- 链接: <https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KQmVtM0V2R2pzWFhBWTczenBYV3hJT1BfSWpzRXBMRlNEZkl6eWdVcW9DcUtxY2tGVVdTMHVaakpQOGVURE5aQnhmY3dETlMxZWdHb3Rkdw?oc=5>
 
 ### 特朗普总统说，美国将“狠狠地”打击伊朗
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-06-10 19:18
+- 链接: <https://news.google.com/rss/articles/CBMitwFBVV95cUxOeVhSXzhUbzFUS1JVUms3TXBCWnJqaGhkejdBenRIQXdJcUFhendLTkFNYjVMX2pyWWFIeThfX2cxbkltRUZMMGl4ZjFNTHl6bnJxa1pCN1VuWmpHZHVwbVU5Wm40V0ptS3FXZTRzcEpQS2J2eTJGX2N4SWZXLTNNRDl2Mm9oQmRlc2doWjlVTXJyd0lCd2pfSzJPYjNreUNWV3Nuc183cFgxMVp2bDQtQXJqSjg3OUXSAbcBQVVfeXFMTnlYUl84VG8xVEtSVVJrN01wQlpyamhoZHo3QXp0SEF3SXFBYXp3S05BTWI1TF9qcllhSHk4X19nMW5JbUVGTDBpeGYxTUx5em5ycWtaQjdVblpqR2R1cG1VOVpuNFdKbUtxV2U0c3BKUEtidnkyRl9jeElmVy0zTUQ5djJvaEJkZXNnaFo5VU1ycndJQndqX0syT2Iza3lDVldzbnNfN3BYMTFadmw0LUFyako4NzlF?oc=5>
+
+### 特朗普总统：美国已帮助1亿桶石油通过霍尔木兹海峡
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: 美国之音
-- 时间: 2026-06-10 19:18
-- 链接: <https://news.google.com/rss/articles/CBMitAFBVV95cUxPSkMyVW5rQ05KOWR6VG9Qc3k4cG1oU3pjVGRZTjZ4U1c4Ymo4UGFjS2U3ckVVYW55UHk0NlNyb01pSUs5bmNxZkpWWUNtbHc0RjdQWVBQbE81WkV3MjdJdkxheFlTREMwWlJRdE5tTTFmU2Njc1FVNmZZaXhnNC1PQi0tZzl6YUoxSEJZenZzVHQ3YVhYQ2lNVnBWdHdxakNXamFEYm1kUF82RXh6eDRUWmw4dWnSAbcBQVVfeXFMTnlYUl84VG8xVEtSVVJrN01wQlpyamhoZHo3QXp0SEF3SXFBYXp3S05BTWI1TF9qcllhSHk4X19nMW5JbUVGTDBpeGYxTUx5em5ycWtaQjdVblpqR2R1cG1VOVpuNFdKbUtxV2U0c3BKUEtidnkyRl9jeElmVy0zTUQ5djJvaEJkZXNnaFo5VU1ycndJQndqX0syT2Iza3lDVldzbnNfN3BYMTFadmw0LUFyako4NzlF?oc=5>
+- 时间: 2026-06-10 21:38
+- 链接: <https://news.google.com/rss/articles/CBMizgFBVV95cUxOR1RGYnpOYTd6RFNwOFI0ZDlhWWFLM3dpSkFwVWlHMVVYb0syclpGZnJLX2ZLVC1hV3Fac2pjc3BUb0dTZEtLSWJIbjZ1UUVRWV85TmRyUnVGOGxFcUJwQ2F0TnVxT0FEVDY0MjAyRHMxaWxhd0ZlZGJiTVBWS21qYUZ2OEVFZmwtRXhMWGg3cHozNU4tX3ZjQS1iYmZXc1RVa0pxcFVDN2NiY1J6UWhWWFZSeXktcjZFdWxVTnl4TmhTTjdnNDJhMEJHUFhJQdIB0AFBVV95cUxOS3ZMTzNtano3TElfVlhzNzdIeUZ0c3NrZ3lucFd0T2g4ak51NXZIUnYxdy1YMGtFWkgwNDhGRkp3S24ydjZKcFhWLUJfYjVWbGJ4bFF1WDdvVXZ1MXZRRjh1TUxsWmRyQVhGRkpvZ2ZaX1FQaWVNTDZOQU5Tc2dkTGV2OUZfRmR6REh0djF5dDRHRVB2amNFYVE3MS1icy11QXdIbEUxR2FQVE1iZFhiUnNKd2FneldSc1Q4endJSkU0NG5idlA1akc2RlFLT0NT?oc=5>
 
-### 美国对伊朗实施更多制裁，特朗普称将恢复空袭
+### 美股收低，受半导体板块抛售拖累，特朗普威胁将对伊朗“严厉打击”
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Al-Monitor
-- 时间: 2026-06-10 18:33
-- 链接: <https://news.google.com/rss/articles/CBMitwFBVV95cUxOcmkteDNMVTNJYjE3cG51WkZwZG1LUkVuNEhSTS1pajJYb29Yd1pDaHZfMlQwR2Mta0xObkIzcDA3Z0d5UHRpc0xRVXo2RjdtMUlwbnNzVHhDRTU4cEVfa3VEUEJUMHdKY09BTG1vN2xqNS1mN2FJaUFJZGN6QU5DMlJocGhDZGNvN2VUTVVzdDBUTmUwQ013Vnh1Si12ZFh6cGpqcERaaXZDMks3WTlEZ051OWU5ODQ?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-06-10 20:26
+- 链接: <https://news.google.com/rss/articles/CBMirAFBVV95cUxPQlU0YXR4ZDlLeTY4S0VEUVcycy1JTzFWZE1OSERPcXVLLUxBNTNhbXVGcWZRbG1EY0pNb0RRRWRSR19WLUo4UWJZSmpoM3N5ZlBFblhBWVY0U2xkd3N1UFNBVDd1dHdtSWg4dFNaZHlJa0FaQUVoeVh1QkdnZGgyUXBmRDBOaFVpNTlmMXlVLXpIdVFOcEFmemdoQUdNYkJKMXlNWHM1WXJnN0FC?oc=5>
 
-### 美股指数下跌；特朗普警告将对伊朗发动「非常猛烈」攻击，原油飙升
+### 午市焦点：Trump称伊朗须「付出代价」；SpaceX获海湾富基金IPO前大型订单财经新闻Financial News
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: AASTOCKS.com
-- 时间: 2026-06-10 17:56
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTFB4QjBzYnYwV3FKbEczWlJpWkl2ekN5RnVMVXkxV1c2TjFMbDA1R1IwRjgzbWNKQXNZTGZHc0ZGSlY2LXlVeDk3dnNkOWpuajRaWnNBWEloWG94U2ZXVkh0ZWJQMGZQaEpoc3M1dWhzTQ?oc=5>
+- 时间: 2026-06-10 15:56
+- 链接: <https://news.google.com/rss/articles/CBMihAFBVV95cUxOeWNoeWxUVnpkc2Y2eTE3LUZRZGtXOEhzR09DaHlIbk5RMW1KR0RnY1ZKaGxXTUVqZzByVHhuWVZtTEFBbzNQdGNOVkpHYlNsaVc4THUyMDZJM18xSXZmclo2VDN1am43R0V2WnhIMkZwMDN1b180eUdQMDhPTFZuMzYwTUo?oc=5>
+
+### 美股指数下跌 半导体领跌科技板块 特朗普警告将对伊朗发动攻击
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: AASTOCKS.com
+- 时间: 2026-06-10 20:51
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE51dFRtRGJXM2dySWU1YlRKQWVJdUJDd2dDVC1RcnVzd2JQWU9Jc2dqc213TWlvV3Rwd2ZMb3hHdURVYzZ0elFMeXJscXdpTktzamY0c3dTbTEwS0xLQ0NsWHVwdzJ4eElRTlBscTY1NA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-10 22:25  (7 条)
+
+- **特朗普** | 特朗普称美“秘密”帮助200多艘商船通过霍尔木兹海峡 <https://news.google.com/rss/articles/CBMicEFVX3lxTE5aXzc4VEhqNzRFOFlaZmZGMEY0YWRxWk1WdEd4R0NNUkVDMmJ1aGRVUTNTMHRaN2l3ZnFBMHNfM2Vzc0haZHVOajVCX2RyNm8wRDJuTWtZRTdCam1HeGJJeFlDeVoxa0pFdnZQb1FpUlU?oc=5>
+- **特朗普** | TA：特朗普目前没计划现场观看美国队本届世界杯首场比赛|美国|巴拉圭|世界杯 <https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KQmVtM0V2R2pzWFhBWTczenBYV3hJT1BfSWpzRXBMRlNEZkl6eWdVcW9DcUtxY2tGVVdTMHVaakpQOGVURE5aQnhmY3dETlMxZWdHb3Rkdw?oc=5>
+- **特朗普** | 特朗普总统说，美国将“狠狠地”打击伊朗 <https://news.google.com/rss/articles/CBMitwFBVV95cUxOeVhSXzhUbzFUS1JVUms3TXBCWnJqaGhkejdBenRIQXdJcUFhendLTkFNYjVMX2pyWWFIeThfX2cxbkltRUZMMGl4ZjFNTHl6bnJxa1pCN1VuWmpHZHVwbVU5Wm40V0ptS3FXZTRzcEpQS2J2eTJGX2N4SWZXLTNNRDl2Mm9oQmRlc2doWjlVTXJyd0lCd2pfSzJPYjNreUNWV3Nuc183cFgxMVp2bDQtQXJqSjg3OUXSAbcBQVVfeXFMTnlYUl84VG8xVEtSVVJrN01wQlpyamhoZHo3QXp0SEF3SXFBYXp3S05BTWI1TF9qcllhSHk4X19nMW5JbUVGTDBpeGYxTUx5em5ycWtaQjdVblpqR2R1cG1VOVpuNFdKbUtxV2U0c3BKUEtidnkyRl9jeElmVy0zTUQ5djJvaEJkZXNnaFo5VU1ycndJQndqX0syT2Iza3lDVldzbnNfN3BYMTFadmw0LUFyako4NzlF?oc=5>
+- **Trump** | 特朗普总统：美国已帮助1亿桶石油通过霍尔木兹海峡 <https://news.google.com/rss/articles/CBMizgFBVV95cUxOR1RGYnpOYTd6RFNwOFI0ZDlhWWFLM3dpSkFwVWlHMVVYb0syclpGZnJLX2ZLVC1hV3Fac2pjc3BUb0dTZEtLSWJIbjZ1UUVRWV85TmRyUnVGOGxFcUJwQ2F0TnVxT0FEVDY0MjAyRHMxaWxhd0ZlZGJiTVBWS21qYUZ2OEVFZmwtRXhMWGg3cHozNU4tX3ZjQS1iYmZXc1RVa0pxcFVDN2NiY1J6UWhWWFZSeXktcjZFdWxVTnl4TmhTTjdnNDJhMEJHUFhJQdIB0AFBVV95cUxOS3ZMTzNtano3TElfVlhzNzdIeUZ0c3NrZ3lucFd0T2g4ak51NXZIUnYxdy1YMGtFWkgwNDhGRkp3S24ydjZKcFhWLUJfYjVWbGJ4bFF1WDdvVXZ1MXZRRjh1TUxsWmRyQVhGRkpvZ2ZaX1FQaWVNTDZOQU5Tc2dkTGV2OUZfRmR6REh0djF5dDRHRVB2amNFYVE3MS1icy11QXdIbEUxR2FQVE1iZFhiUnNKd2FneldSc1Q4endJSkU0NG5idlA1akc2RlFLT0NT?oc=5>
+- **Trump** | 美股收低，受半导体板块抛售拖累，特朗普威胁将对伊朗“严厉打击” <https://news.google.com/rss/articles/CBMirAFBVV95cUxPQlU0YXR4ZDlLeTY4S0VEUVcycy1JTzFWZE1OSERPcXVLLUxBNTNhbXVGcWZRbG1EY0pNb0RRRWRSR19WLUo4UWJZSmpoM3N5ZlBFblhBWVY0U2xkd3N1UFNBVDd1dHdtSWg4dFNaZHlJa0FaQUVoeVh1QkdnZGgyUXBmRDBOaFVpNTlmMXlVLXpIdVFOcEFmemdoQUdNYkJKMXlNWHM1WXJnN0FC?oc=5>
+- **Trump** | 午市焦点：Trump称伊朗须「付出代价」；SpaceX获海湾富基金IPO前大型订单财经新闻Financial News <https://news.google.com/rss/articles/CBMihAFBVV95cUxOeWNoeWxUVnpkc2Y2eTE3LUZRZGtXOEhzR09DaHlIbk5RMW1KR0RnY1ZKaGxXTUVqZzByVHhuWVZtTEFBbzNQdGNOVkpHYlNsaVc4THUyMDZJM18xSXZmclo2VDN1am43R0V2WnhIMkZwMDN1b180eUdQMDhPTFZuMzYwTUo?oc=5>
+- **Trump** | 美股指数下跌 半导体领跌科技板块 特朗普警告将对伊朗发动攻击 <https://news.google.com/rss/articles/CBMib0FVX3lxTE51dFRtRGJXM2dySWU1YlRKQWVJdUJDd2dDVC1RcnVzd2JQWU9Jc2dqc213TWlvV3Rwd2ZMb3hHdURVYzZ0elFMeXJscXdpTktzamY0c3dTbTEwS0xLQ0NsWHVwdzJ4eElRTlBscTY1NA?oc=5>
 
 ### 2026-06-10 20:22  (10 条)
 
