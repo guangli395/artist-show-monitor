@@ -1,54 +1,133 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-10 23:55**
-- 本轮扫到 3146 条, 新增 **5** 条
+- 最近更新: **2026-06-11 02:59**
+- 本轮扫到 3160 条, 新增 **14** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (14 条)
 
-### 林俊杰、周杰伦合唱周杰伦新歌《那天下雨了》，同框视频曝光，林俊杰：超喜欢这种一起玩音乐的调调
+### 《湖南卫视跨年演唱会》最酷炫：王一博摩托车炫技环绕全场-综艺-高清视频在线观看-芒果TV
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906ks3c.html>
+
+### 周杰伦预告林俊杰翻唱新歌明日发布
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://finance.sina.com.cn/wm/2026-06-11/doc-iniaysmc0918711.shtml>
+- 链接: <https://k.sina.com.cn/article_7857201851_1d45362bb06801dytw.html>
 
-### 特朗普誓言立即打击伊朗 德黑兰称民用水利设施遭美军袭击
+### 周杰伦林俊杰合唱新歌《那天下雨了》引爆全网
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7096020439_1a6f4add706801rsas.html>
+
+### 新浪演唱会热点小时报丨2026年06月11日08时_今日实时演唱会热点速递
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906koxa.html>
+
+### 周杰伦林俊杰演唱会合唱高音稳如CD
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_2063775764_m7b02b81403301j640.html>
+
+### 周杰伦林俊杰合唱新歌《那天下雨了》提前发布
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1835415447_m6d66379703301dune.html>
+
+### 特朗普称已与伊朗官员直接通话 伊朗方面否认
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-10 18:55
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxNRkx1OVV5emplbmNPTTMyMzYyQzlOd2xTajZRVjVpWlJqTExYSXNWNzdjVDRzNm1hYjVSRkRmdUU0b1lVWEd3dHZ1YUpZT3owMFZyRVhMYnM3NER5ZHROUHBmSHFURkViMUhjRUpuQjdhWEN6V09BMEdyck9OQzd0WUc4NVY1Slk?oc=5>
+- 场馆: china.zjol.com.cn
+- 时间: 2026-06-11 00:47
+- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTE1aNG9wN3VlZ1lWMDN3N3RyVF81d2xQSDNHU3FaY2ZQZVhIbm91VWtuQ19jRXRDZ3JiRlR1MVBhVG15RGViaVJuZ09tWFlsWmhtVVlJZ0pQbEJVN3ZWTm81RmdlNHdZQzlHWlQwRUtn?oc=5>
 
-### 特朗普宣称将狠狠打击伊朗，继续进行轰炸
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-06-10 23:39
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCWDlaMHZMY2lyV2F4dXRrMDlVa3RRZDlpcmRKa2dEVTJfa0M0eWY0M0oyd1Vsa0RVWHFkclBBM09VbEszS0xYam03MEdkYWpQeTM3aEV6LU1KWUNIa3c?oc=5>
-
-### 特朗普称无意续签美墨加协定
+### 哥伦比亚总统再次要求特朗普停止干涉哥总统选举
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-10 16:38
-- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTFBoNXV3Q0h4TWhUZXVEQmRGUDQzb0JOV1VNU2NRVlE4WWt5ZUhLVTVEVnlGWURRWS1BS1N0ZkFkbl9tQzd0WGdFVlBHTktMNzJyZ0txYXlSMnk0TmJNV3A1MDh5aE1kOWhBS241bm5jQlliZzE5Z2FDT21R?oc=5>
+- 场馆: china.zjol.com.cn
+- 时间: 2026-06-11 00:46
+- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTFBBVzEyaHRVZzRFR3YzSG4ydEg2UGN0b3R0SHdpQlhSZTliQV9XSmhranZtak5INXZEMG5vUzkwSjVWVnVDZWdEZURvS09DYzA0MHpqbnBGWHJMZXhwWW9TUVpUR1gwQTdJbDlxaGRB?oc=5>
 
-### 特朗普总统：美国已帮助1亿桶石油通过霍尔木兹海峡
+### 特朗普语出惊人：我爱通胀
 
 - 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 腾讯新闻
+- 时间: 2026-06-11 00:29
+- 链接: <https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vZjVVcWdrR08xTDNmZ0dSVFpMbFptdmFRY0h2TTVUVWpMSU9wTU51YnlTU1BDQUJfREFwOFpjVUM0bVR2YkZnXzlqYWpPcVZLS09VbTczTQ?oc=5>
+
+### 曝特朗普将缺席美国队世界杯揭幕战 国务卿鲁比奥现场观赛
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 搜狐网
+- 时间: 2026-06-11 00:30
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBOWGY3S0M5bk1Zc2dPZXE1OHVmZW5hUWRWWFZuazd4X2ptb2FpVmtJZXZvWFVkX050ZzN3a1JydDV2S0d6WkItOGJrc2FTZVpMajd3TndfaTdPeklwUnRGSHFQQkZpbmdEcHd5cXFDMk9qRk9CNG9IbE1XSkRsbFU?oc=5>
+
+### 特朗普：我终于可以说了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-06-10 23:46
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5nYmdHTEYwallpQjdkRGJDZlpfOUlYako0eHVUc0VjTS1YV3Y2dnV4WXhBV0ZNNHhsR0VpLVdGVUNZZ3JaOElVei1VUndXNmViWGxJLWFuY0lyMktDVVRqcnpCX3Q1Y0dFTXc?oc=5>
+
+### Trump Credits Stealth Operations for Holding Oil Prices Down -- Barrons.com
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-06-10 22:18
+- 链接: <https://news.google.com/rss/articles/CBMiugFBVV95cUxOcGZjdlU0ZERZaE5pVkZlVlBzTVd3WVpMY3dCcWZ0S0ZLZ0hDY3hORUN5VmxMUHREdm80VHB3VTM0OVpyZUtNQ1J3aU9lUk1tZ3J1b0dTanExSnIydk96LW54X3BleDY4MFBRaWtEamcxOGNTZklvckczcjBMYTRnei15RFlpSTl2Z1NJNWVjLWxQNDc5WTZMUzBwTWNHUlZfV21WUFo5V285MHBJWWxpOS1BWWFOQ2JWX0E?oc=5>
+
+### 特朗普在简报会上——😂😂😂
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-06-11 00:56
+- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxQdFZiS2x0bDI5aHpyYm5HclFTQzZKdk1xWmVkVWROeTNScEFrN3Q0LWU5SHdpcHJLbUw2MHJoVmpYRm1URWZZQV9Hby1nSUtjSFpaY0dvQllNY3dBbVJhMV94M0x2Y0diTDNKUFBFZ3ZKczQ4a2x5RDY5eExWaldBaGNn?oc=5>
+
+### 美军对伊朗发动第二天空袭，对伊朗政权击落美军直升机并拖延谈判作出回应
+
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: 美国之音
-- 时间: 2026-06-10 21:38
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxOS3ZMTzNtano3TElfVlhzNzdIeUZ0c3NrZ3lucFd0T2g4ak51NXZIUnYxdy1YMGtFWkgwNDhGRkp3S24ydjZKcFhWLUJfYjVWbGJ4bFF1WDdvVXZ1MXZRRjh1TUxsWmRyQVhGRkpvZ2ZaX1FQaWVNTDZOQU5Tc2dkTGV2OUZfRmR6REh0djF5dDRHRVB2amNFYVE3MS1icy11QXdIbEUxR2FQVE1iZFhiUnNKd2FneldSc1Q4endJSkU0NG5idlA1akc2RlFLT0NT0gHQAUFVX3lxTE5LdkxPM21qejdMSV9WWHM3N0h5RnRzc2tneW5wV3RPaDhqTnU1dkhSdjF3LVgwa0VaSDA0OEZGSndLbjJ2NkpwWFYtQl9iNVZsYnhsUXVYN29VdnUxdlFGOHVNTGxaZHJBWEZGSm9nZlpfUVBpZU1MNk5BTlNzZ2RMZXY5Rl9GZHpESHR2MXl0NEdFUHZqY0VhUTcxLWJzLXVBd0hsRTFHYVBUTWJkWGJSc0p3YWd6V1JzVDh6d0lKRTQ0bmJ2UDVqRzZGUUtPQ1M?oc=5>
+- 时间: 2026-06-11 00:05
+- 链接: <https://news.google.com/rss/articles/CBMihAJBVV95cUxQdVFDQU1JSlByNkpBY2otR2JvZXQybFZFUWRuckgyT0NyTC1lQnllZ3pfRlA5R1gwZ3MyUmk5NzRKblpGUjZJek1fN1FzQlZmckQ2eEhGTlEyTlZublJFRHllRDdFdzlrVmxyX0lGRzJpQWZ4SWhXa1RwY2hSV2pjSWR1em1YbUotbjVtTHFneHpxZDFSR0YtWnBGWGdLbERtdGdrM0tTbldybmJOd2k5VkRTRDNmcWtTNllPa1hjQkVFY052MmRVcXBVUmR5eEd5M3dUWF9jUmdfQVFpUmdVM0FHS3pPY2FSa1NadHFYQXczQUMxRUM0TkxqNkNTYUE5V1k3YtIBhwJBVV95cUxQRFRvRHROd0llX0FzNVZwTDBPNXVfcUtlX0haMEdzZDFzeTktT0FXNEFzcVJfVnJpSGN2RUZ3SGtyY1hHVmJOcWIwSmhJNy1GbVBpVmRPeExTbHNWSVlYanJMaGxNOXQ0QlhOQXZBbV9jbGNVNFhPVVNsWGREclN3bzR1UUJpSlpzTTl2Z1h0Q0kyanVINmZIRWpRZUtqOVhQMVp5UGFEdzRIX0dJRFFMYnRsN19tWVJCVjZ4cUxRNVR0VGZ4Y3hVRTdLa29PZjhPcXBpbXNXb0xIQkFmc3lvU2RHckI3LWpqTlFQX2hoRWk0WlRVT3BtU25KWm00RGtXM0tSRjdRcw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-11 02:59  (14 条)
+
+- **王一博** | 《湖南卫视跨年演唱会》最酷炫：王一博摩托车炫技环绕全场-综艺-高清视频在线观看-芒果TV <https://k.sina.com.cn/article_7857201856_1d45362c001906ks3c.html>
+- **周杰伦** | 周杰伦预告林俊杰翻唱新歌明日发布 <https://k.sina.com.cn/article_7857201851_1d45362bb06801dytw.html>
+- **周杰伦** | 周杰伦林俊杰合唱新歌《那天下雨了》引爆全网 <https://k.sina.com.cn/article_7096020439_1a6f4add706801rsas.html>
+- **周杰伦** | 新浪演唱会热点小时报丨2026年06月11日08时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001906koxa.html>
+- **周杰伦** | 周杰伦林俊杰演唱会合唱高音稳如CD <https://k.sina.com.cn/article_2063775764_m7b02b81403301j640.html>
+- **周杰伦** | 周杰伦林俊杰合唱新歌《那天下雨了》提前发布 <https://k.sina.com.cn/article_1835415447_m6d66379703301dune.html>
+- **特朗普** | 特朗普称已与伊朗官员直接通话 伊朗方面否认 <https://news.google.com/rss/articles/CBMibkFVX3lxTE1aNG9wN3VlZ1lWMDN3N3RyVF81d2xQSDNHU3FaY2ZQZVhIbm91VWtuQ19jRXRDZ3JiRlR1MVBhVG15RGViaVJuZ09tWFlsWmhtVVlJZ0pQbEJVN3ZWTm81RmdlNHdZQzlHWlQwRUtn?oc=5>
+- **特朗普** | 哥伦比亚总统再次要求特朗普停止干涉哥总统选举 <https://news.google.com/rss/articles/CBMibkFVX3lxTFBBVzEyaHRVZzRFR3YzSG4ydEg2UGN0b3R0SHdpQlhSZTliQV9XSmhranZtak5INXZEMG5vUzkwSjVWVnVDZWdEZURvS09DYzA0MHpqbnBGWHJMZXhwWW9TUVpUR1gwQTdJbDlxaGRB?oc=5>
+- **特朗普** | 特朗普语出惊人：我爱通胀 <https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vZjVVcWdrR08xTDNmZ0dSVFpMbFptdmFRY0h2TTVUVWpMSU9wTU51YnlTU1BDQUJfREFwOFpjVUM0bVR2YkZnXzlqYWpPcVZLS09VbTczTQ?oc=5>
+- **特朗普** | 曝特朗普将缺席美国队世界杯揭幕战 国务卿鲁比奥现场观赛 <https://news.google.com/rss/articles/CBMif0FVX3lxTFBOWGY3S0M5bk1Zc2dPZXE1OHVmZW5hUWRWWFZuazd4X2ptb2FpVmtJZXZvWFVkX050ZzN3a1JydDV2S0d6WkItOGJrc2FTZVpMajd3TndfaTdPeklwUnRGSHFQQkZpbmdEcHd5cXFDMk9qRk9CNG9IbE1XSkRsbFU?oc=5>
+- **特朗普** | 特朗普：我终于可以说了 <https://news.google.com/rss/articles/CBMiakFVX3lxTE5nYmdHTEYwallpQjdkRGJDZlpfOUlYako0eHVUc0VjTS1YV3Y2dnV4WXhBV0ZNNHhsR0VpLVdGVUNZZ3JaOElVei1VUndXNmViWGxJLWFuY0lyMktDVVRqcnpCX3Q1Y0dFTXc?oc=5>
+- **Trump** | Trump Credits Stealth Operations for Holding Oil Prices Down -- Barrons.com <https://news.google.com/rss/articles/CBMiugFBVV95cUxOcGZjdlU0ZERZaE5pVkZlVlBzTVd3WVpMY3dCcWZ0S0ZLZ0hDY3hORUN5VmxMUHREdm80VHB3VTM0OVpyZUtNQ1J3aU9lUk1tZ3J1b0dTanExSnIydk96LW54X3BleDY4MFBRaWtEamcxOGNTZklvckczcjBMYTRnei15RFlpSTl2Z1NJNWVjLWxQNDc5WTZMUzBwTWNHUlZfV21WUFo5V285MHBJWWxpOS1BWWFOQ2JWX0E?oc=5>
+- **Trump** | 特朗普在简报会上——😂😂😂 <https://news.google.com/rss/articles/CBMiggFBVV95cUxQdFZiS2x0bDI5aHpyYm5HclFTQzZKdk1xWmVkVWROeTNScEFrN3Q0LWU5SHdpcHJLbUw2MHJoVmpYRm1URWZZQV9Hby1nSUtjSFpaY0dvQllNY3dBbVJhMV94M0x2Y0diTDNKUFBFZ3ZKczQ4a2x5RDY5eExWaldBaGNn?oc=5>
+- **Trump** | 美军对伊朗发动第二天空袭，对伊朗政权击落美军直升机并拖延谈判作出回应 <https://news.google.com/rss/articles/CBMihAJBVV95cUxQdVFDQU1JSlByNkpBY2otR2JvZXQybFZFUWRuckgyT0NyTC1lQnllZ3pfRlA5R1gwZ3MyUmk5NzRKblpGUjZJek1fN1FzQlZmckQ2eEhGTlEyTlZublJFRHllRDdFdzlrVmxyX0lGRzJpQWZ4SWhXa1RwY2hSV2pjSWR1em1YbUotbjVtTHFneHpxZDFSR0YtWnBGWGdLbERtdGdrM0tTbldybmJOd2k5VkRTRDNmcWtTNllPa1hjQkVFY052MmRVcXBVUmR5eEd5M3dUWF9jUmdfQVFpUmdVM0FHS3pPY2FSa1NadHFYQXczQUMxRUM0TkxqNkNTYUE5V1k3YtIBhwJBVV95cUxQRFRvRHROd0llX0FzNVZwTDBPNXVfcUtlX0haMEdzZDFzeTktT0FXNEFzcVJfVnJpSGN2RUZ3SGtyY1hHVmJOcWIwSmhJNy1GbVBpVmRPeExTbHNWSVlYanJMaGxNOXQ0QlhOQXZBbV9jbGNVNFhPVVNsWGREclN3bzR1UUJpSlpzTTl2Z1h0Q0kyanVINmZIRWpRZUtqOVhQMVp5UGFEdzRIX0dJRFFMYnRsN19tWVJCVjZ4cUxRNVR0VGZ4Y3hVRTdLa29PZjhPcXBpbXNXb0xIQkFmc3lvU2RHckI3LWpqTlFQX2hoRWk0WlRVT3BtU25KWm00RGtXM0tSRjdRcw?oc=5>
 
 ### 2026-06-10 23:55  (5 条)
 
