@@ -1,124 +1,199 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-11 12:26**
-- 本轮扫到 3193 条, 新增 **15** 条
+- 最近更新: **2026-06-11 16:34**
+- 本轮扫到 3215 条, 新增 **22** 条
 
 ---
 
-## 本轮新发现 (15 条)
+## 本轮新发现 (22 条)
 
-### 2023湖南春晚今晚播出 王一博演唱《无名》主题曲
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906lca6.html>
-
-### 当年那场泰国演唱会，堪称世纪级浪漫盛典，引爆全球粉丝心跳！陈情令
+### 乐华娱乐此次起诉王一博黑粉，具体因为对方发布了哪些不实言论？
 
 - 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6605402295_m189b670b7033015zo6.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801n9i6.html>
 
-### 周杰伦林俊杰梦幻联动合唱新歌《那天下雨了》双J合体引爆全网 - 娱乐新闻 - 中国娱乐网手机版
+### 蔡徐坤亮相马来西亚音乐节彩排，今晚登台献演
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5727695436_m15565b24c05301q7su.html>
+
+### 蔡徐坤压轴Asia Top音乐节，彩排舞台引全球粉丝期待
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5727695436_m15565b24c05301q7r0.html>
+
+### 谢霆锋新歌致敬周杰伦：那个说五十年后还听情歌的人
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906lezk.html>
+- 链接: <https://k.sina.com.cn/article_7784591098_1cfff6efa00101fz34.html>
 
-### 周杰伦现身林俊杰演唱会 合唱多首歌曲引网友羡慕_娱乐频道_中华网
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906ldyu.html>
-
-### Stay with You(2020致敬白衣天使公益云演唱会)_林俊杰&amp;周杰伦_单曲在线试听_酷我音乐
+### 同样是跨界开演唱会，为什么谢娜被全网吐槽，而岳云鹏却没有？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906ldq6.html>
+- 链接: <https://k.sina.com.cn/article_7879923551_m1d5ae175f03301ksmw.html>
 
-### 双J再续青春！周杰伦林俊杰20年友情新歌引爆全网，二十年友情藏呼吸节奏 - 360娱乐，你开心就好
+### 周杰伦晒林俊杰合照 一起唱杰伦新歌《那天下雨了》
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906lg5g.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906lpri.html>
 
-### 特朗普180度转狠，伊朗史诗级软硬不吃
+### 谢娜演唱会最高 1180 元对标周杰伦！遭 300 人投诉，谁给你的勇气？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-06-11 08:54
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1yb1pDc1luWGZuZmcwcmNZQkFjYWNaRGg4dV90enJHbGh2WW5ySmZmSE51a21JckxNMldNejRlR0oyQzhMOTdSMDFwZ2V6T09HTXpJT1ZTTWxiSFRzTlppMTZEVi0xb3J2VlE?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923551_1d5ae175f02001kssa.html>
+
+### 林俊杰演唱会神秘嘉宾周杰伦 双J合体惊喜合唱
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906lmgs.html>
+
+### 周杰伦晒与林俊杰陈锐合照,暧昧文案引猜测:新专辑要有大动作了?
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906lvz0.html>
 
 ### 特朗普称无意续签美墨加协定
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-11 11:36
-- 链接: <https://news.google.com/rss/articles/CBMiqgJBVV95cUxNa0VUaEtsdUVxcFpaVW01TUtvd2ROZjJDYWJ0U1VEc2NsUEdDNVpiOTJQcERsWDNvN0dEcVJqN2RfWU5uOFBwTWYyTEszREtsUE1rb3Ytck9JQVB5Z21wcmNWYzBHVUVDazJvNi1MZFU0eWZQdHJBN0Vnb0t3MlhDUHdKN2dfRlBPSlZVQXVfdEo2NDhUYWwxTTcyY291T0M2V0tKUTVzUkJtVUhySzUxTXdBS3ZkLXFUbHJXanVLeDBzNUpWVDQ3OC10S25nU3NqbVF0ODJsajBKYW5zOHVRank3V1J4OFlQSF9GN3FLTlpNdGVZVk92dzJLTXVmNFBHRkk2dk9Pa3RlWGhCZW1ONUp4eUx4NzB2UXZWQkptb1E5d1JJdGhrWHRR?oc=5>
+- 时间: 2026-06-11 16:25
+- 链接: <https://news.google.com/rss/articles/CBMijwJBVV95cUxPZ2gyZU52YjBmelduSjNzNVFkaUtqQ3hfUWg3bXFmdkF2amdsZjdiQWRqSHQ3MHJySXN5c3d6RVVieFowMWEweEpBaXRGQmpNUnkzRTZFZGNwZTYtNUVkWXNZaTFDT2hnMFlhN1ZLb3BwdkxJbEIwb3hkTGxtemVUcloyYmdZaFNvYVNMdGEwRS11SUdiWE1KUGF1MlJIZ3BvUU5ibEZfTUNGd1o3cWV4RTBORmdCZ3d6QThGbGxnTk9MaG55WTNDdXZGLXpwcWE0VGczM2tvcEkyQmdnc2I5WU1FYUtteEZuVEdfejQ1ajJnRGZWNWtFUm9aSS13R1JNZGNlNEtZT0JVcXZTZ21F?oc=5>
 
-### 特朗普贸易战1年后 美对“中制造”依赖度超过往昔：中5月对美出口增长35% 5年来最大增幅
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-06-11 11:33
-- 链接: <https://news.google.com/rss/articles/CBMihARBVV95cUxQWWxaZ2p5aXhCOGVmd1ExUnpVa1U0X1BDN3BQZFVEU213aUJXUk9WSDhNTnU3Wm5jaWN1NVhLWkhqRG9GcERaRl9ZdGhrMjJ1dm1RTjd3aURINUlVVUE1Nm9qWmVwNkFyNU5VMVZFdVVlUmwyZ2FoMEk5cjAwc1VsV1Bqc1d0S0g0aDJQWUZWdlFMbk1OMFRQV2hzamdnQ2ZuOXlPcEQ3UkJPbGcxekZmdkVmbWdDd0s3X2RNTlNVaWhRWW01Q1FEcm9MZFI0WFIxMVJhQXIwTTZabzVFajY3ejc3THB5VkxEN0pCelhkWENrTlZuMVZyMDQxM3NqR0dpNmlUd2ZzSG1nOFpjaWxfSkFfbEYzcjVVNFl2RlhWZ29yMWU0cUlHcy1La1RwNWFPTkVNZ2NXb2t3WDNkOWtLVHZOcXRYdjNsM2gwaUhoeVpNc1lJc2daQ2NqUFpqQWp5dmJmUC1mZUYyWVZVUHFNNExCMmZCemRzcGJDQ3lpMWlJYnR1UmFfNlFyd1NIZ09DRlBfX21wc2ZvdUlfQXdlUzFMOGEtVUtrVndWS1ZlOVhGeld5Wkl5T0V6ZnFwTjNqSUpvNHdUZ0hLdWQwWUp4V2pfU3hmMGw5ZHdveDBhbmVJUi1QYXN6ZVF1WUdYdTVLeEtzVjhUT1I0ZTZlcEtBOFR1U20?oc=5>
-
-### 特朗普大赞花旗并购顾问排名居首 但首位并非花旗
+### 特朗普或许“乐见通胀”，但民众正承受物价上涨之苦
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-11 11:39
-- 链接: <https://news.google.com/rss/articles/CBMivgJBVV95cUxPY2RvdnJnd1dkTnlvYkpLOFdDdUxLYUlPVzhGNzdqYkNSQ0ZrR01hUEZ4SlR0Y1poTmhmeF9zb0IzaFVXZ3hKRTBpOUR3aThTSE1aU1M4T1NNcGJ3Y0R2bHZPUVFaeFBXRVpDRWhKaENEa3ZxcWMweGJBc2dwUmpWQS1HT3BScHQxVEVXUW5sME1TQVZ4eFFLLS1GaFI1enRDU051dU1sR0EwazN5VGNhVlRxaUpFZnpFVGx1ZDlfVFJZVTdWcm5Za1Rrb3BiRUxRaDE5LW82aTRlODlqRkR5T3kxdGNYZkpSUGFMWGRvWkJuUGxFUXRIVmFEdUFTWkdtdTVQUnVsUmZzSnlqXzRLenByR3ViRnRhUDlHSWNFRW1jbHNQSHFOOXZkbi05dmp6U1NzM0IzWmo1Mm90Rnc?oc=5>
+- 时间: 2026-06-11 15:37
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxOVE44ZjdLdGJ0djhKdnVQeVF0cVdIRW5zdDFCZmVUSC1QMFUxRHZ4dFh3NjR1c3dBM05CRkpzT1ZjMjFUMTh3M1dOU2xxQWFYVXYxUHZONC1zdjUyYlBiWW13d3UxVURpYVU3N3p2RmVRb0Y3Z1pOX1NYWGx4WnltdmtlU1dCVkE?oc=5>
 
-### 特朗普语出惊人：我爱通胀
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-06-10 23:35
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE85VVBEREliMDBFR1J0ZXE2RUZIUENrYW5Cc1pQY3o3ZGtGU1BrMUR2RmRKNUpNejlQSk9sUmd0aE1WTDhTRG12UWVJTTc?oc=5>
-
-### 特朗普称“我爱通胀”遭批，曾说“我不考虑美国人的财务状况，我只考虑一件事，不能让伊朗拥有核武器”
+### 生日临近，特朗普许了个愿
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Sina finance
-- 时间: 2026-06-11 07:52
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE5Da0hsYkFzT1dZTGtHMXprYVRMSnhaVzF3ZFRiQy1iTWE0bW04enlsb21WR2ptMW9ram5IUVNPX2J2eE5ZX01UWGlSaWViN0tDa1NSNEVITTdtVDRnejJjSFdtUS1vTnIyTEdnMWZOZDUwZU1ndUE?oc=5>
+- 场馆: 搜狐网
+- 时间: 2026-06-10 07:00
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa0tsRFRQZTJTU0otMWlhRzZZb1hlTXAxYWp6OU9uN0lWQmxFRUowM0xBUE1nTGFBbGVWaEV1N0JvSE5qb1F0S0RIYmxMVnNiMGhCVmRlRU15OUZ5amRrZ04td1VSX2I4T0ZMMDVzcldfUGRvV1Y3T2pVV0hiZnhuc3NJbUJ2ZVhF?oc=5>
 
-### 伊朗再度封锁霍尔木兹海峡，特朗普又失算了 | 京酿馆
+### 特朗普用AI化身动漫角色，日本动漫迷联署抗议
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: wenxuecity
+- 时间: 2026-06-11 11:34
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9MSU52dEdta0xCd09YRmJ4TTN3d1NTc0NwS1JXSWh3R0JpV2hILWxjV2JVXzBwOUtYSm45eGl5c0tUV1Uxckh3akI1NVphX29tOUlORm5hakVVRHhsdWs1Z2Y1Q1luTUtX?oc=5>
+
+### 特朗普称今晚猛烈打击伊朗 威胁夺取哈尔克岛
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-06-11 13:06
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBWZ21iMTJfZ1dyUlhGZ2Y0c09EcC1Vakx2TzhVZzdhcENTb2JLMmNGcHE5QkJKb0Ftak5oaTJ4WGczRUZzQWg1SkxPQmhQSTE4T1lfNUFIN3NJbkdjYXVfV0steFh2SnR4ckZndElLd0llYWhLYnJkX2FmLWthdlE?oc=5>
+
+### 特朗普称美国将对伊朗实施“猛烈打击”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新京报
-- 时间: 2026-06-11 08:02
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZenR2bmRfeVJaaVNKUVBQekRkNVNsbTJkR0RtbFc4Nm4xcDBnR2ppZjRFemZGWGRzWngyUTdieWxNc2FyMGRvV0tRSUNUU3d0ODlTYmc5OWdwa3VHQkRja0k0TlI?oc=5>
+- 时间: 2026-06-11 12:32
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1mb1JVazBPQng0NXpYaGpGUFVHUjlrajBqVlMyQzlVRENfVzhtblBXc0VaWU5BQkIzaTN2LW1WdGlWSE56VVYtS1JXNE5ISmdCVnVFVTVLVWk2YXBpZ0tzZVZVVkI?oc=5>
 
-### WTI和布伦特原油期货在盘前下跌，此前特朗普警告称，除非伊朗同意临时协议并重新开放霍尔木兹海峡，否则将发动更多袭击
+### 特朗普：今晚将重创伊朗
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 川观新闻
+- 时间: 2026-06-11 12:49
+- 链接: <https://news.google.com/rss/articles/CBMiTkFVX3lxTE8yNndnSEkwT0lHWWtwVDBNTE5zaG9tWjZGc282QVpTRE9QUE43dWp1enBMZkVWMURRVDFiU0p4VFU0YnUyQk4zZE5nbW5FUQ?oc=5>
+
+### Trump Says U.S. Will Take Iran's Oil-export Hub Kharg Island. Here's What His Threat Really Means.
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: Moomoo
-- 时间: 2026-06-11 10:07
-- 链接: <https://news.google.com/rss/articles/CBMiogFBVV95cUxNeHBKMy04a3VfRHp3TnNTMjdqRVh5V2dER29tOTNZOEhoVUNyVGFJcWxwNUtQMnI2WUlrZS02Z0FvOWdSWG1FX3kzU0VQWm5DaHpxREZfVlp6cS00Q0Z5QU5uWk9VcjdmaEYzNnhhTHJGYXdfd3BXa2hGOVZnR25aSjVSalVGVDBILUZFZ0Fva3JMYzdwMnVxajZFLURWZGNfRFE?oc=5>
+- 时间: 2026-06-11 15:53
+- 链接: <https://news.google.com/rss/articles/CBMilwFBVV95cUxONDhJTlpmbm54VVpEcEs2UGp2NlU5NzBqMU1MMnY0Z0drUG83ZloyZXBFT3NiT3dYYVA5S0RZc2dXYnZBY0FnaGhEOWhFbnRzMy1IbXFzSzFoYTJERkZQY3pqZ3d0em1VWGttT2czbTJzbWtFSWdsTk1paDIzWFZrYTc4aWwyUVFRWkMzZUozZTV0MWYzbUMw?oc=5>
 
-### Trump Media、TAE及Texas Ventures放弃Truth Social分拆计划
+### Oil Futures Mixed As Market Ponders Trump Threats -- Market Talk
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: AASTOCKS.com
-- 时间: 2026-06-10 12:56
-- 链接: <https://news.google.com/rss/articles/CBMihAFBVV95cUxPckZCZTI0Ym1TYU15ZElQVklnQ2NpdU43WVgtY0ZmUHBrdk1ZWENSZDJuSDV3OHRZeTV0X0RWRDFYMGt5NlpHcnN4WnhnYUFBaHNPQTcza053amdwd0ZRcFY1dGVHWk5pd2NpdnE5UDltWnVfcWRDM0trMTJibnNrd2FFS2Q?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-06-11 15:19
+- 链接: <https://news.google.com/rss/articles/CBMirAFBVV95cUxQVmNlVTlMRjN5dUMyNUhRSy0zM1VMUjl4QkZjbGFISVFuRnFfV0hKSGNTTnQxd290c0xNeTRCNFcwUDExSDRvSk9sV1ZtcmR3Ql9NZkl6T1d5ZzVYeC15eGp0anM5d0hsZEViYnpULW92WUREZWpxTGR5ckF4dzZuczM0NnZib25GMU81YzVnSFVXcnVIMHQtbm4xcEZpNGd2NnlmM3VqbXhJOURM?oc=5>
+
+### Oil Futures Turn Higher As Trump Steps Up Threats -- Market Talk
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-06-11 13:07
+- 链接: <https://news.google.com/rss/articles/CBMipgFBVV95cUxOYXQ5ak50OFFaR1JWdExMRnktUW5sc1oyNTRLWktiMjlySzVPaDN4S3ZDdjBkZUJHUmVCZ3JnWmR0eWJ3eHBoSENNaE1CYlNETlFmVUF3QVhzZWVhVDlwa0N5X0E3czRIR2NyTmZnbmpoOHQtNlRkTFJnRWw5TFNqUjl1X1ZvNDA1ak1KUHdjWVJDeDVpaWVQcnpVT1dWRlZuSV9UV0xB?oc=5>
+
+### 美伊战事升级之际，特朗普总统警告将对伊朗发动“非常猛烈的”打击
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-06-11 15:15
+- 链接: <https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaG83TF9hNGJzc0xtSFhkN1dpSzR5UURpVlZ2cWlVNTBqc2lheWN3YmVRTnFuV0NqQnZTWVlZTTJSek9FWXVNSGxWX1lMeHNtT0V2aHZsV2JqZ1VITzFIaWlidXd6Um9XTXpMenk5T19vMlE1SV9Vbl9JcTE1bzNsaHgtUHNOLWh6QW9OSGdmWmE5MEZEUV9iVWt1V0FySHlETUFQc2NiVHk3U3JUQUR5MDRNSGp5d29PMFVocTFHQnc0elXSAcYBQVVfeXFMUHhjNUl6SlU3WkNtU2JpWTZkN3dNdjFZeVRleWxfQWx1R2l6U0tQV0ZyU3BZTWNDSE9HeG5MUGY1RTJJV2s1aFlxTWU4VWE2YWxQbEFGWUE3WEktbGNDYUxnZ29WY3VpT2N3S1kzRktrNmc1NUJ2aFVFQkhFNWEwMjhlbEhYT0hxTTVnVExNOE90LWNMNTdyYzlaTlV5N1dFelFrdURMWE0yOE0tVEk4UnpUQ0t2UVBlT09EUUs0aVZydmEzN3Jn?oc=5>
+
+### Oil Gains After Trump Says U.S. Will Seize Iran's Oil and Gas Markets -- WSJ
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-06-11 13:05
+- 链接: <https://news.google.com/rss/articles/CBMimgFBVV95cUxQOGNPMUptY1FtaEZYUkhvY1VWS2FnaHAtOEJoeFNDM1hSVW51aHhxamVsdHNsSnQ0RkRfTE5sbTczMkl1SVhsWWtqaEZONWRWZjdEa2c1VHVUM1MzbHl6UVRZUU1WTjNxTDhCX1Q1eTVvX0plNmxYYlRTR3FPSDVhbWhhNF9kbjNBZVZFbGY0RnZFemJQcGVtSU9B?oc=5>
+
+### 伊朗与美国难以维持停火的四大原因
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: BBC
+- 时间: 2026-06-11 06:59
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9wNnNWeHdiYjhiMVphWFBaek9pcno2VHJHTmdIYnJOWXRoMXBsY1lHNl82NFJValgxcTRBd2IzMUZ0bU9ycnU1VnlwenJyWWdfZ3pzemQwczlwN0gzajREcGtfZmc0Zw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-11 16:34  (22 条)
+
+- **王一博** | 乐华娱乐此次起诉王一博黑粉，具体因为对方发布了哪些不实言论？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801n9i6.html>
+- **蔡徐坤** | 蔡徐坤亮相马来西亚音乐节彩排，今晚登台献演 <https://k.sina.com.cn/article_5727695436_m15565b24c05301q7su.html>
+- **蔡徐坤** | 蔡徐坤压轴Asia Top音乐节，彩排舞台引全球粉丝期待 <https://k.sina.com.cn/article_5727695436_m15565b24c05301q7r0.html>
+- **周杰伦** | 谢霆锋新歌致敬周杰伦：那个说五十年后还听情歌的人 <https://k.sina.com.cn/article_7784591098_1cfff6efa00101fz34.html>
+- **周杰伦** | 同样是跨界开演唱会，为什么谢娜被全网吐槽，而岳云鹏却没有？ <https://k.sina.com.cn/article_7879923551_m1d5ae175f03301ksmw.html>
+- **周杰伦** | 周杰伦晒林俊杰合照 一起唱杰伦新歌《那天下雨了》 <https://k.sina.com.cn/article_7857201856_1d45362c001906lpri.html>
+- **周杰伦** | 谢娜演唱会最高 1180 元对标周杰伦！遭 300 人投诉，谁给你的勇气？ <https://k.sina.com.cn/article_7879923551_1d5ae175f02001kssa.html>
+- **周杰伦** | 林俊杰演唱会神秘嘉宾周杰伦 双J合体惊喜合唱 <https://k.sina.com.cn/article_7857201856_1d45362c001906lmgs.html>
+- **周杰伦** | 周杰伦晒与林俊杰陈锐合照,暧昧文案引猜测:新专辑要有大动作了? <https://k.sina.com.cn/article_7857201856_1d45362c001906lvz0.html>
+- **特朗普** | 特朗普称无意续签美墨加协定 <https://news.google.com/rss/articles/CBMijwJBVV95cUxPZ2gyZU52YjBmelduSjNzNVFkaUtqQ3hfUWg3bXFmdkF2amdsZjdiQWRqSHQ3MHJySXN5c3d6RVVieFowMWEweEpBaXRGQmpNUnkzRTZFZGNwZTYtNUVkWXNZaTFDT2hnMFlhN1ZLb3BwdkxJbEIwb3hkTGxtemVUcloyYmdZaFNvYVNMdGEwRS11SUdiWE1KUGF1MlJIZ3BvUU5ibEZfTUNGd1o3cWV4RTBORmdCZ3d6QThGbGxnTk9MaG55WTNDdXZGLXpwcWE0VGczM2tvcEkyQmdnc2I5WU1FYUtteEZuVEdfejQ1ajJnRGZWNWtFUm9aSS13R1JNZGNlNEtZT0JVcXZTZ21F?oc=5>
+- **特朗普** | 特朗普或许“乐见通胀”，但民众正承受物价上涨之苦 <https://news.google.com/rss/articles/CBMihwFBVV95cUxOVE44ZjdLdGJ0djhKdnVQeVF0cVdIRW5zdDFCZmVUSC1QMFUxRHZ4dFh3NjR1c3dBM05CRkpzT1ZjMjFUMTh3M1dOU2xxQWFYVXYxUHZONC1zdjUyYlBiWW13d3UxVURpYVU3N3p2RmVRb0Y3Z1pOX1NYWGx4WnltdmtlU1dCVkE?oc=5>
+- **特朗普** | 生日临近，特朗普许了个愿 <https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa0tsRFRQZTJTU0otMWlhRzZZb1hlTXAxYWp6OU9uN0lWQmxFRUowM0xBUE1nTGFBbGVWaEV1N0JvSE5qb1F0S0RIYmxMVnNiMGhCVmRlRU15OUZ5amRrZ04td1VSX2I4T0ZMMDVzcldfUGRvV1Y3T2pVV0hiZnhuc3NJbUJ2ZVhF?oc=5>
+- **特朗普** | 特朗普用AI化身动漫角色，日本动漫迷联署抗议 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9MSU52dEdta0xCd09YRmJ4TTN3d1NTc0NwS1JXSWh3R0JpV2hILWxjV2JVXzBwOUtYSm45eGl5c0tUV1Uxckh3akI1NVphX29tOUlORm5hakVVRHhsdWs1Z2Y1Q1luTUtX?oc=5>
+- **特朗普** | 特朗普称今晚猛烈打击伊朗 威胁夺取哈尔克岛 <https://news.google.com/rss/articles/CBMif0FVX3lxTFBWZ21iMTJfZ1dyUlhGZ2Y0c09EcC1Vakx2TzhVZzdhcENTb2JLMmNGcHE5QkJKb0Ftak5oaTJ4WGczRUZzQWg1SkxPQmhQSTE4T1lfNUFIN3NJbkdjYXVfV0steFh2SnR4ckZndElLd0llYWhLYnJkX2FmLWthdlE?oc=5>
+- **特朗普** | 特朗普称美国将对伊朗实施“猛烈打击” <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1mb1JVazBPQng0NXpYaGpGUFVHUjlrajBqVlMyQzlVRENfVzhtblBXc0VaWU5BQkIzaTN2LW1WdGlWSE56VVYtS1JXNE5ISmdCVnVFVTVLVWk2YXBpZ0tzZVZVVkI?oc=5>
+- **特朗普** | 特朗普：今晚将重创伊朗 <https://news.google.com/rss/articles/CBMiTkFVX3lxTE8yNndnSEkwT0lHWWtwVDBNTE5zaG9tWjZGc282QVpTRE9QUE43dWp1enBMZkVWMURRVDFiU0p4VFU0YnUyQk4zZE5nbW5FUQ?oc=5>
+- **Trump** | Trump Says U.S. Will Take Iran's Oil-export Hub Kharg Island. Here's What His Threat Really Means. <https://news.google.com/rss/articles/CBMilwFBVV95cUxONDhJTlpmbm54VVpEcEs2UGp2NlU5NzBqMU1MMnY0Z0drUG83ZloyZXBFT3NiT3dYYVA5S0RZc2dXYnZBY0FnaGhEOWhFbnRzMy1IbXFzSzFoYTJERkZQY3pqZ3d0em1VWGttT2czbTJzbWtFSWdsTk1paDIzWFZrYTc4aWwyUVFRWkMzZUozZTV0MWYzbUMw?oc=5>
+- **Trump** | Oil Futures Mixed As Market Ponders Trump Threats -- Market Talk <https://news.google.com/rss/articles/CBMirAFBVV95cUxQVmNlVTlMRjN5dUMyNUhRSy0zM1VMUjl4QkZjbGFISVFuRnFfV0hKSGNTTnQxd290c0xNeTRCNFcwUDExSDRvSk9sV1ZtcmR3Ql9NZkl6T1d5ZzVYeC15eGp0anM5d0hsZEViYnpULW92WUREZWpxTGR5ckF4dzZuczM0NnZib25GMU81YzVnSFVXcnVIMHQtbm4xcEZpNGd2NnlmM3VqbXhJOURM?oc=5>
+- **Trump** | Oil Futures Turn Higher As Trump Steps Up Threats -- Market Talk <https://news.google.com/rss/articles/CBMipgFBVV95cUxOYXQ5ak50OFFaR1JWdExMRnktUW5sc1oyNTRLWktiMjlySzVPaDN4S3ZDdjBkZUJHUmVCZ3JnWmR0eWJ3eHBoSENNaE1CYlNETlFmVUF3QVhzZWVhVDlwa0N5X0E3czRIR2NyTmZnbmpoOHQtNlRkTFJnRWw5TFNqUjl1X1ZvNDA1ak1KUHdjWVJDeDVpaWVQcnpVT1dWRlZuSV9UV0xB?oc=5>
+- **Trump** | 美伊战事升级之际，特朗普总统警告将对伊朗发动“非常猛烈的”打击 <https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaG83TF9hNGJzc0xtSFhkN1dpSzR5UURpVlZ2cWlVNTBqc2lheWN3YmVRTnFuV0NqQnZTWVlZTTJSek9FWXVNSGxWX1lMeHNtT0V2aHZsV2JqZ1VITzFIaWlidXd6Um9XTXpMenk5T19vMlE1SV9Vbl9JcTE1bzNsaHgtUHNOLWh6QW9OSGdmWmE5MEZEUV9iVWt1V0FySHlETUFQc2NiVHk3U3JUQUR5MDRNSGp5d29PMFVocTFHQnc0elXSAcYBQVVfeXFMUHhjNUl6SlU3WkNtU2JpWTZkN3dNdjFZeVRleWxfQWx1R2l6U0tQV0ZyU3BZTWNDSE9HeG5MUGY1RTJJV2s1aFlxTWU4VWE2YWxQbEFGWUE3WEktbGNDYUxnZ29WY3VpT2N3S1kzRktrNmc1NUJ2aFVFQkhFNWEwMjhlbEhYT0hxTTVnVExNOE90LWNMNTdyYzlaTlV5N1dFelFrdURMWE0yOE0tVEk4UnpUQ0t2UVBlT09EUUs0aVZydmEzN3Jn?oc=5>
+- **Trump** | Oil Gains After Trump Says U.S. Will Seize Iran's Oil and Gas Markets -- WSJ <https://news.google.com/rss/articles/CBMimgFBVV95cUxQOGNPMUptY1FtaEZYUkhvY1VWS2FnaHAtOEJoeFNDM1hSVW51aHhxamVsdHNsSnQ0RkRfTE5sbTczMkl1SVhsWWtqaEZONWRWZjdEa2c1VHVUM1MzbHl6UVRZUU1WTjNxTDhCX1Q1eTVvX0plNmxYYlRTR3FPSDVhbWhhNF9kbjNBZVZFbGY0RnZFemJQcGVtSU9B?oc=5>
+- **Trump** | 伊朗与美国难以维持停火的四大原因 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9wNnNWeHdiYjhiMVphWFBaek9pcno2VHJHTmdIYnJOWXRoMXBsY1lHNl82NFJValgxcTRBd2IzMUZ0bU9ycnU1VnlwenJyWWdfZ3pzemQwczlwN0gzajREcGtfZmc0Zw?oc=5>
 
 ### 2026-06-11 12:26  (15 条)
 
