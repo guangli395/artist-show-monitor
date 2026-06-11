@@ -1,124 +1,100 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-11 19:30**
-- 本轮扫到 3229 条, 新增 **14** 条
+- 最近更新: **2026-06-11 21:35**
+- 本轮扫到 3238 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (14 条)
+## 本轮新发现 (9 条)
 
-### 周杰伦与林俊杰梦幻联动!行走的CD即将翻唱新歌,网友期待值拉满
+### 特朗普总统表示，在与伊朗进行“磋商”期间，已取消对伊朗的打击计划
 
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906ly3a.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: voachinese.com
+- 时间: 2026-06-11 19:48
+- 链接: <https://news.google.com/rss/articles/CBMixwFBVV95cUxQM0w0WTNsQXl6WWNOTXlmdU9RLUpOOWY2RHdEakw1V283V0lCTzJWUTNRWUVZOWNBSGE0NmRjVmNfcU4xaDQ0R1Bsc1VsUWxidTdpSl9wTmZDTkhIMzUzMzdaY01BWUNMc0wzandfcDI4X2hWM09Udms1RHFXS3hicWFQaTdsWkh2TjdTanZQc2VYdW1rQXg3R0xka0tuVlBhUHNfUFFJNXl0WWloSmQ2eDJnUUlKZU1JMmhYNWNLaEVvX0s4ZW5Z0gHKAUFVX3lxTE9RZ2F0eUZQN0dHbTNQek9xLUUtaEJpeV9QWk45MElQc19zN3FaTlBnZUdfaFRaRm5uX2pTLXl4cU9Lclg0dURjUnhPcktHU1VDd1RXM2V1Und4OWU5QUdFTEx1VEZJYk9QNG9NUmd5TUhNMVlvWDE4UXJpYVo5cjQyOVl2bUlLRXotZ2tTYnp2b3o0Vml2aVIyR1plQWNibEMtMjRZZV9YQkpSNUpvcWwwNHJWejVuRUlLdW1CNHl0NlRzTFBaX185ZWc?oc=5>
 
-### 头啖汤评论:480元看周杰伦演唱会大屏,是“愿者上钩”还是消费陷阱?
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906m1lc.html>
-
-### 特朗普坚持提名普尔特出任情报高官，同时呼吁短期延期涉外监控法案
+### 特朗普或许“乐见通胀”，但民众正承受物价上涨之苦
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-11 17:02
-- 链接: <https://news.google.com/rss/articles/CBMi_wFBVV95cUxNM0ZVZFZkeXpIZExvdVZUTzBVZVo1b3gxVVdNT09ud25UMW4tTHNNV2dUUHRtZ2JrWUdrQ2hnRWdZMzhLdFlZdDRGWUhTQ0hQdVh4N2lEWkRDWm5LejVwZGRsQmtHUGJKdkJYUy1uYUN6bEZhY3djNU43bFJwMk5fMUZIZEFpNTh4VVMySXdOSUVJQWJORmlLbkVrckktV20tN1hkb1Rsb0EydjRzMU5seHV3QkpZbHFSRXY5YThMOExYWGcyREdYZnQ2NEVBWFh0aXpMTTZiTVpZeHJkTnJZRk9KcUd2NTlqZndPTnp1QTRNakFiMWZaYXFXdDhVMWM?oc=5>
+- 时间: 2026-06-11 20:00
+- 链接: <https://news.google.com/rss/articles/CBMiowJBVV95cUxOUVlBWm82MEkyS1NyS20xRjByZWI5VDNIS2NkVHdiTGFURFpFUVowa3cybFJqbVl6MlNDTV9FR3ZGclNoMXV5eExSemQwQm9jcUlLRVhrOXZIYm92Q05RYUdQdzhaOGZVY2NFZmx4bUUwMGlNV180dXFvVGNVUHYwWnFyN3d3R1cyVGlreWF0VkxpRGZQQ0RNRFJEUmlWUS1CTWw2YTN5YzdhOThreHgwSFZQdjVScGRqdmlGNHQxc2gtS2wyeFhGX3ZrT2VMZTVEZ1ZhbDRSQ0J1d3NGQk8zcVl2RE1FQjJ1Q0lYWlh1WkdVc0Z4bXZlYmhsbF9YOEdncVlpTl84RzBZNnFNZUowa3dhQ2l4S2prcm11N1hKWXNQN0k?oc=5>
 
-### 更新：特朗普取消对伊朗攻击、称和平谈判将重启，WTI收跌美股US Stocks Quote - 外围新闻内容Golbal News Content
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: AASTOCKS.com
-- 时间: 2026-06-11 18:45
-- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxPanZQN2t6SWNia2VnMmpGYmF2NGFlS05vckJ5ODRBWlJQd1ZRMmFFdWFVNTZialZXeTB1RXljT1M1UGd3ZkF1MEd2T2FPdVVLWDhDeGJfaTNjczVZQURtRzR5bnQ0QjRvYWx5TzdFekpscjhaS3hSSWstbVd5c3c1TWNOTVB4VFFHLWdn?oc=5>
-
-### 美媒：如今特朗普最头痛的是这件事
+### 以方称特朗普承诺美伊协议将包括移除伊朗浓缩铀等内容
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-06-11 01:17
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBQSFB6SDFQNGdZWmY2UHhKdWNsNEhnRVRlRDAyZGMta295TG9HdGRBU3NOQ3d1QnJrUFlOZXpPM1BjN0VYWncwTldxeGs?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-06-11 21:31
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE0wSUFaSElVaFB2aU1xTnVmOWI4cHF3aFRFcE5RRmotVy1RcktCc1lob3YtWmdSS2JHdFlmb2FUczVBREVwak9YM0RFTmZ1bW1hbXozX0t4d0xMZmlNRmhfUktOLWZfd0wyQXdpVWdpb04?oc=5>
 
-### 特朗普威胁发动新袭击，美股高开，甲骨文跌12%，英特尔涨10%，油价走低，黄金重回4080美元
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-06-11 13:50
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzWGNJWDZhNjF1N3lFbm1rcmpKVW5SdGhqTVBEWklOZENzUDAwaWRUUDlEdDZfUWNIZmN0T1E5ekI2U0Y0MGs4cmJKU1FtS3ZjeHFZ?oc=5>
-
-### 美伊战事升级之际，特朗普总统警告将对伊朗发动“非常猛烈的”打击
+### 特朗普：生日愿望是“世界和平”-观察者网
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-06-11 15:15
-- 链接: <https://news.google.com/rss/articles/CBMixgFBVV95cUxQeGM1SXpKVTdaQ21TYmlZNmQ3d012MVl5VGV5bF9BbHVHaXpTS1BXRnJTcFlNY0NIT0d4bkxQZjVFMklXazVoWXFNZThVYTZhbFBsQUZZQTdYSS1sY0NhTGdnb1ZjdWlPY3dLWTNGS2s2ZzU1QnZoVUVCSEU1YTAyOGVsSFhPSHFNNWdUTE04T3QtY0w1N3JjOVpOVXk3V0V6UWt1RExYTTI4TS1USThSelRDS3ZRUGVPT0RRSzRpVnJ2YTM3cmfSAcYBQVVfeXFMUHhjNUl6SlU3WkNtU2JpWTZkN3dNdjFZeVRleWxfQWx1R2l6U0tQV0ZyU3BZTWNDSE9HeG5MUGY1RTJJV2s1aFlxTWU4VWE2YWxQbEFGWUE3WEktbGNDYUxnZ29WY3VpT2N3S1kzRktrNmc1NUJ2aFVFQkhFNWEwMjhlbEhYT0hxTTVnVExNOE90LWNMNTdyYzlaTlV5N1dFelFrdURMWE0yOE0tVEk4UnpUQ0t2UVBlT09EUUs0aVZydmEzN3Jn?oc=5>
-
-### 特朗普称取消打击伊朗行动
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-06-11 17:43
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YQWt6dE8xVEJ1X3ZUdGtuRjZUZjVzT0VmNFJOaTU4ZUJLbm9aREZvZ0JNVlUwTlE5N0Z5MERaSzVwcGI1Z1NjM1FXaU9QRFZhSW5rWGdHcnRwaEh2dFRETw?oc=5>
-
-### 特朗普称美国将对伊朗实施“猛烈打击”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-06-11 12:37
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1UYjBnZ0RzTXFDMUV2cHdTUnk4X01mdExTYmlfSkoyejI5MlFONEpaVlEtTmdZZWxvenJRaHIzc3hmcjczcnFoeEo4by1MSEx1SElXbERZaVRlRlRzMEFCTHNXNm5hV2Z3?oc=5>
-
-### 特朗普取消对伊朗空袭并称协议接近达成
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: AASTOCKS.com
-- 时间: 2026-06-11 17:43
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE4wRW5Ib3lrWm0xeUI1TlBRUFVlZ1hRc3p2WE9tR3NxOXlfSE9zUkZCaHotQ1ljeEtxUWpRMjRsaUJGTmI4WklhV05WQTRhRW02R0hDMEs3X0J1NEJfVmFjV1prVlB0RERBR3BMVlVwcw?oc=5>
-
-### 更新：美股盘中上升，油价下跌，因特朗普取消对伊朗的空袭
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: AASTOCKS.com
-- 时间: 2026-06-11 18:23
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE5BY09Wd3Z6QmxVT2pHbDl0WnJuZzMxSllPa1dvTEZkdE1ucVBMY2M5LWxabkt2OHhyNTJCVVM4OHVXbUJ4SWtYYlpOSm9DMXJZb0J4Y3g0a09vTmlDbERLRHY3R0tuaEFPMHJubTJUdw?oc=5>
+- 场馆: 观察者
+- 时间: 2026-06-11 03:25
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE43Ykdyemotd2xkYlNoOUhET1NkVDV2ckFxY3d6NFhRQ29FcGlmZG1aaTBUV0t4eUNKWHRfZEpFUHA1Y25nOTJQYWxRS0hBYWNlc2FRNlZtemh3TkNBZUpfczNBczVlQTh1Umc?oc=5>
 
 ### Oil Prices Drop as Trump Backs Away From His Threat of Strikes on Iran
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: Moomoo
-- 时间: 2026-06-11 18:43
-- 链接: <https://news.google.com/rss/articles/CBMinwFBVV95cUxOUFhTZG9PMHR5YWhrUmZfWXdTR2NjNzBQNzB3bzVCMFJ4d3NJbjZIaVd3R0lRVXhmZ3NkUTBuQzBuMjQ5STZveElWUjd1ZzdyZ2FkU3NLY2xvSklLTjV6Mk5yWUxFZnlDTzFwaUZrQmExckFSYWJsTDZ1SHRlX0ttOG9uZXJmSlVpT01HWGRWTjdtV1cyN3VIT3NhZVVRREU?oc=5>
+- 时间: 2026-06-11 18:44
+- 链接: <https://news.google.com/rss/articles/CBMizgFBVV95cUxPUmxlQi1VTWxrUk9IM2VnUi1CUVlDLTlqWTZNN3pjQkZySVVGRno2TzFSS0V2aHNJblJ1bE9QM01xRG93LW13VXJDc3did0hXYW5HaHp3bXZDOTlKRXg3ZUtRdUZMSEhiUlg1VU03SDRUajNydmE0dnlnZXdhU1FUc3BoSE12Z2M5eE1pMGVKU09lS1ZkNmI5WTJQNVMwSU9nZHpDbGZfXzNEcDQxenFzaXZvRWozSkVsWndac0RlY1RxYU1lQWxTbU5jeWlhZw?oc=5>
 
-### 德意志银行指出特朗普就 USMCA 贸易协议审查的言论
+### 特朗普提名纽约检察官担任下任国家情报总监；众院否决延长监控法
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: voachinese.com
+- 时间: 2026-06-11 21:29
+- 链接: <https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTnZsTUlZMVNsdkdwQldtSjVCc2NQTEVncWdMa3RYU2psOUR1T2xQYWxjUXctY0tYS05LN0xWV1JleWUtal9pSGRHVFBUcnlkVkQzSF9sUk9GR2JUeE1LZ2xGQm5pUFJ5ajRSZzJLMFdBcDZEWUFyYUdpSTZrbl9YVWluQ1doQUhwQ0E1UDVDY1RuTTNuQ1BLWi1jeVFWM09TYjItWHRja20tUWR4a1B4dkY0ejg4aDI0T1hJcnExNEJibVJXVTVzRUt4bFpPd0FRaUZrUHZReWkycFBxU2tfWNIB4wFBVV95cUxObEs4eHczVGxjMTdWTUpDSFNLMnlNbThnaW81UkxkcnBLZ20zU0UxSXZ4VWtYaTdVZ2hCbHpsUk5jbmtNWGs3UEYxQVFhSXBGb3FIdGJwUGtMRUwtRVNhRkNiUGNYZFF6Z092NXFvY0wwZnEydmtBM2Y4bDBUNlVDVUVDYjZPVmNNNnlCSHRPRjlnX0hzZGJ2WHVhZDhpR0ZGQUg2bTZqc3ljXzBLMlBLM2NkbndBV25mVHBGMkN1emNwcnZVMmdKWWdSVFJ3a1dCaUl2YWRnSFdhQnpXOGZJWjEwYw?oc=5>
+
+### 美股指数上扬 因特朗普取消对伊朗进一步打击行动
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: AASTOCKS.com
-- 时间: 2026-06-11 16:51
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE12Y3BPSzgzSW5LZDhyZUFlYk42WXRyd2ZsSjJWQWFYd1p5UF9ObVh2SzZqMmxQdXVxN281V1B1OHQ1cllTR2cyZjFxblRMcWVyaXl0YmVmeE5nNW5RaUE2NE1fem5rbXVfTlJGYjFXVQ?oc=5>
+- 时间: 2026-06-11 19:45
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE9nU2hkanFFWXF5aXUtZVFUbFloZHlXTVVzOUNLeG5SY0hHMUZqVTF3OU1jSHN3VlludVh3Zy1JaGtEVDVsdFV6Qms2Q3ltSjRPZGpnRXZrcmJZVGpKN1ZoTGRTS3J4X3NLZUx3dWNVUQ?oc=5>
 
-### $WTI原油期货2607 (CL2607.US)$ 信任TRUMP
+### 在特朗普协议中获释的前以色列人质向VOA讲述在椭圆形办公室与美国总统谈及伊朗击落直升机一事
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: voachinese.com
+- 时间: 2026-06-11 20:41
+- 链接: <https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZUhDcmZpekdlVHZJY1VwblFNNzA2YTJWaTQ4c2wyRjhZUkxRNDhFMm9xTDRwVDdRMHVSQW5UeUtmS3pzZWlId09CbFJuSHd5TWljX25CQ01ad3d1Y1lQM3NfaHFWOUNDNWFEcG9LX3hrSkFFTmN6WmQwdDQ5OWtQcFZUYk9aZThnMl9pUzdfZ1BybUR2WjR4UjNjM3ByUUNTRUVudW9SVmtvNHl0RThPVEJ0alhROEVKdHM3cjVpNlZrV0dyOWQ1VWgwSDg0YVRkeXhDT3doWHpINjdCaVZ5cml0WEczem_SAeoBQVVfeXFMUDJqVXVHbW9Xc0s1LVFKbXpmTEVHNVgtR0NFZG9GQkkwbWpUbnFxM05Ma2RTTmg4WW1QRkxtSnVZUnpFVWJsMkhQeVcyRUF4VGpLWDNGT2JNVnhEd3hlbk9XZmR2azVxUXJMUTktQjhCMHhJa2g1cmhoRXBVa3hkUkFEV2dkTnVsXzlLMFBGUklRY0lnVVV5bFpET1VYcEVYWTFfdU1TX1dnSzRRLThvczN3YXl3WkRscXY2NUh4c2xYRUhUNk5UeDFFZDdIM1RscjJTa2hHQ1FWMzZodjBaM2hMUHJDb0FOY3Rn?oc=5>
+
+### Treasury Yields, Dollar Fall as Trump Calls Off Attacks on Iran -- Market Talk
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: Moomoo
-- 时间: 2026-06-11 07:00
-- 链接: <https://news.google.com/rss/articles/CBMimwFBVV95cUxQT2k1YjlFcGo1amlrZzJ4dWttMzFyb0g3Ym9WcnlMS0cxZ0NuNWRFZWFXaUJXZDFENFVzSGlIQ19FdWxTTEF1NmZ1d3ZyWjZXV3Z5WGNpUllKR2YzZ04zOUZKRGlvdjEtSmlaTllkaC10T2hkQm5ialRmOW04clJCcnlOQy03LWtMLTJGVllMbTJ5cktGbGZmbUpQUQ?oc=5>
+- 时间: 2026-06-11 19:56
+- 链接: <https://news.google.com/rss/articles/CBMipwFBVV95cUxOZk9vOG84cHpQV0x4TU5kUXdBa1dhSVQ4eF9yM2pwemdmUWV5UGtqcTZkZnlpM3pCSjliWHhXUDZoV1Y5TTU5WWZVRHVMSktxWXdXUTJhdF9xUzJqQ2dLY1VIVFMtZFBYbk1PYVhkQk1YbDNUVFBqU3hVVmRBRFRPem82NDhURW5xTnZ4Uld1NEdTS1JUN1VhcndQVlJRM3M3ZWw0T251MA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-11 21:35  (9 条)
+
+- **特朗普** | 特朗普总统表示，在与伊朗进行“磋商”期间，已取消对伊朗的打击计划 <https://news.google.com/rss/articles/CBMixwFBVV95cUxQM0w0WTNsQXl6WWNOTXlmdU9RLUpOOWY2RHdEakw1V283V0lCTzJWUTNRWUVZOWNBSGE0NmRjVmNfcU4xaDQ0R1Bsc1VsUWxidTdpSl9wTmZDTkhIMzUzMzdaY01BWUNMc0wzandfcDI4X2hWM09Udms1RHFXS3hicWFQaTdsWkh2TjdTanZQc2VYdW1rQXg3R0xka0tuVlBhUHNfUFFJNXl0WWloSmQ2eDJnUUlKZU1JMmhYNWNLaEVvX0s4ZW5Z0gHKAUFVX3lxTE9RZ2F0eUZQN0dHbTNQek9xLUUtaEJpeV9QWk45MElQc19zN3FaTlBnZUdfaFRaRm5uX2pTLXl4cU9Lclg0dURjUnhPcktHU1VDd1RXM2V1Und4OWU5QUdFTEx1VEZJYk9QNG9NUmd5TUhNMVlvWDE4UXJpYVo5cjQyOVl2bUlLRXotZ2tTYnp2b3o0Vml2aVIyR1plQWNibEMtMjRZZV9YQkpSNUpvcWwwNHJWejVuRUlLdW1CNHl0NlRzTFBaX185ZWc?oc=5>
+- **特朗普** | 特朗普或许“乐见通胀”，但民众正承受物价上涨之苦 <https://news.google.com/rss/articles/CBMiowJBVV95cUxOUVlBWm82MEkyS1NyS20xRjByZWI5VDNIS2NkVHdiTGFURFpFUVowa3cybFJqbVl6MlNDTV9FR3ZGclNoMXV5eExSemQwQm9jcUlLRVhrOXZIYm92Q05RYUdQdzhaOGZVY2NFZmx4bUUwMGlNV180dXFvVGNVUHYwWnFyN3d3R1cyVGlreWF0VkxpRGZQQ0RNRFJEUmlWUS1CTWw2YTN5YzdhOThreHgwSFZQdjVScGRqdmlGNHQxc2gtS2wyeFhGX3ZrT2VMZTVEZ1ZhbDRSQ0J1d3NGQk8zcVl2RE1FQjJ1Q0lYWlh1WkdVc0Z4bXZlYmhsbF9YOEdncVlpTl84RzBZNnFNZUowa3dhQ2l4S2prcm11N1hKWXNQN0k?oc=5>
+- **特朗普** | 以方称特朗普承诺美伊协议将包括移除伊朗浓缩铀等内容 <https://news.google.com/rss/articles/CBMicEFVX3lxTE0wSUFaSElVaFB2aU1xTnVmOWI4cHF3aFRFcE5RRmotVy1RcktCc1lob3YtWmdSS2JHdFlmb2FUczVBREVwak9YM0RFTmZ1bW1hbXozX0t4d0xMZmlNRmhfUktOLWZfd0wyQXdpVWdpb04?oc=5>
+- **特朗普** | 特朗普：生日愿望是“世界和平”-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE43Ykdyemotd2xkYlNoOUhET1NkVDV2ckFxY3d6NFhRQ29FcGlmZG1aaTBUV0t4eUNKWHRfZEpFUHA1Y25nOTJQYWxRS0hBYWNlc2FRNlZtemh3TkNBZUpfczNBczVlQTh1Umc?oc=5>
+- **Trump** | Oil Prices Drop as Trump Backs Away From His Threat of Strikes on Iran <https://news.google.com/rss/articles/CBMizgFBVV95cUxPUmxlQi1VTWxrUk9IM2VnUi1CUVlDLTlqWTZNN3pjQkZySVVGRno2TzFSS0V2aHNJblJ1bE9QM01xRG93LW13VXJDc3did0hXYW5HaHp3bXZDOTlKRXg3ZUtRdUZMSEhiUlg1VU03SDRUajNydmE0dnlnZXdhU1FUc3BoSE12Z2M5eE1pMGVKU09lS1ZkNmI5WTJQNVMwSU9nZHpDbGZfXzNEcDQxenFzaXZvRWozSkVsWndac0RlY1RxYU1lQWxTbU5jeWlhZw?oc=5>
+- **Trump** | 特朗普提名纽约检察官担任下任国家情报总监；众院否决延长监控法 <https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTnZsTUlZMVNsdkdwQldtSjVCc2NQTEVncWdMa3RYU2psOUR1T2xQYWxjUXctY0tYS05LN0xWV1JleWUtal9pSGRHVFBUcnlkVkQzSF9sUk9GR2JUeE1LZ2xGQm5pUFJ5ajRSZzJLMFdBcDZEWUFyYUdpSTZrbl9YVWluQ1doQUhwQ0E1UDVDY1RuTTNuQ1BLWi1jeVFWM09TYjItWHRja20tUWR4a1B4dkY0ejg4aDI0T1hJcnExNEJibVJXVTVzRUt4bFpPd0FRaUZrUHZReWkycFBxU2tfWNIB4wFBVV95cUxObEs4eHczVGxjMTdWTUpDSFNLMnlNbThnaW81UkxkcnBLZ20zU0UxSXZ4VWtYaTdVZ2hCbHpsUk5jbmtNWGs3UEYxQVFhSXBGb3FIdGJwUGtMRUwtRVNhRkNiUGNYZFF6Z092NXFvY0wwZnEydmtBM2Y4bDBUNlVDVUVDYjZPVmNNNnlCSHRPRjlnX0hzZGJ2WHVhZDhpR0ZGQUg2bTZqc3ljXzBLMlBLM2NkbndBV25mVHBGMkN1emNwcnZVMmdKWWdSVFJ3a1dCaUl2YWRnSFdhQnpXOGZJWjEwYw?oc=5>
+- **Trump** | 美股指数上扬 因特朗普取消对伊朗进一步打击行动 <https://news.google.com/rss/articles/CBMib0FVX3lxTE9nU2hkanFFWXF5aXUtZVFUbFloZHlXTVVzOUNLeG5SY0hHMUZqVTF3OU1jSHN3VlludVh3Zy1JaGtEVDVsdFV6Qms2Q3ltSjRPZGpnRXZrcmJZVGpKN1ZoTGRTS3J4X3NLZUx3dWNVUQ?oc=5>
+- **Trump** | 在特朗普协议中获释的前以色列人质向VOA讲述在椭圆形办公室与美国总统谈及伊朗击落直升机一事 <https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZUhDcmZpekdlVHZJY1VwblFNNzA2YTJWaTQ4c2wyRjhZUkxRNDhFMm9xTDRwVDdRMHVSQW5UeUtmS3pzZWlId09CbFJuSHd5TWljX25CQ01ad3d1Y1lQM3NfaHFWOUNDNWFEcG9LX3hrSkFFTmN6WmQwdDQ5OWtQcFZUYk9aZThnMl9pUzdfZ1BybUR2WjR4UjNjM3ByUUNTRUVudW9SVmtvNHl0RThPVEJ0alhROEVKdHM3cjVpNlZrV0dyOWQ1VWgwSDg0YVRkeXhDT3doWHpINjdCaVZ5cml0WEczem_SAeoBQVVfeXFMUDJqVXVHbW9Xc0s1LVFKbXpmTEVHNVgtR0NFZG9GQkkwbWpUbnFxM05Ma2RTTmg4WW1QRkxtSnVZUnpFVWJsMkhQeVcyRUF4VGpLWDNGT2JNVnhEd3hlbk9XZmR2azVxUXJMUTktQjhCMHhJa2g1cmhoRXBVa3hkUkFEV2dkTnVsXzlLMFBGUklRY0lnVVV5bFpET1VYcEVYWTFfdU1TX1dnSzRRLThvczN3YXl3WkRscXY2NUh4c2xYRUhUNk5UeDFFZDdIM1RscjJTa2hHQ1FWMzZodjBaM2hMUHJDb0FOY3Rn?oc=5>
+- **Trump** | Treasury Yields, Dollar Fall as Trump Calls Off Attacks on Iran -- Market Talk <https://news.google.com/rss/articles/CBMipwFBVV95cUxOZk9vOG84cHpQV0x4TU5kUXdBa1dhSVQ4eF9yM2pwemdmUWV5UGtqcTZkZnlpM3pCSjliWHhXUDZoV1Y5TTU5WWZVRHVMSktxWXdXUTJhdF9xUzJqQ2dLY1VIVFMtZFBYbk1PYVhkQk1YbDNUVFBqU3hVVmRBRFRPem82NDhURW5xTnZ4Uld1NEdTS1JUN1VhcndQVlJRM3M3ZWw0T251MA?oc=5>
 
 ### 2026-06-11 19:30  (14 条)
 
