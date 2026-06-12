@@ -1,88 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-12 17:20**
-- 本轮扫到 3302 条, 新增 **9** 条
+- 最近更新: **2026-06-12 19:27**
+- 本轮扫到 3306 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (9 条)
+## 本轮新发现 (4 条)
 
-### 特朗普AI视频引日本不满 日官员：强烈希望同样的事不要再次发生
+### 白宫旁草坪数天内逐渐显现“8647”，被指涉嫌威胁暗杀特朗普，引发紧急调查
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-06-12 17:18
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBOSWdEVExZb1YxQlNaRm5DZ3Y4ZllTWHVZMUZHc1cweUJHeVVYWDJXQVJLZ2FPUkpmemVRazFQYWVZWEhCWFp3OGpwdFA4dFBXTjVEcVR2bkhaT3E3VHBxNkFFcW9IWTFRNWEwSHRQa3Q?oc=5>
+- 时间: 2026-06-12 13:30
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE02ZjIyNUp1cjhzOGFYTURZZEJ3dEN1QWZ4SmVRdW9YcnUzZHR4c1BGam1DTXZIY0x3Y05kcktHUTNhZEdQUl9hUlVFaWlja2pvUF96ZFVtRlVmckhPRW8xaWJDLUhzQzNSLTM1ekFjNTVyanlZN2U1ekJnUWdvamM?oc=5>
 
-### 特朗普涉伊朗表态“大转弯” 以总理“猝不及防”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-06-12 08:38
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1jZlMzMmlVTU9LNDMzbmR1VDRDOWNXeXIxNTFRQmJoaDRHWVZFUjdfWDNuSXVGQUY3WWhUT1g4dUFNNjZ6NzdCUENac0txVTU5cFFGNjFBZ2xMSVFyZ1MyRW9kanhQbXEwbDdnZ2JONHVYSk9SX3N1ZjUzXzdHbTg?oc=5>
-
-### 特朗普总统指责伊朗泄露停止战争协议的虚假细节
+### 装都不装？特朗普的倒影池翻新工程花费1400万美元，承包给熟人-观察者网
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-06-12 16:11
-- 链接: <https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYWIwVU1JUmFWRHdnak94R2ZINkw5N2lqVUxUZUZUd2wxeU9NOWlISUpwZDBvMkNsVk84UzFLTEs1Rk5IVlNlaE5DTGg5RGYyRmROeTE1Qi1QX2xBSXhMWGFUbG9XQTNfZ1diUjJnUERpS0tUR1N6SjlXcVA0YzM3Y05GOENWNUsyU1E2M1dBdy1lVm9ncDU3QV9rRnhoY2NmbzdENFNkSmQ4SlBfbnF4THdVYU9HSWhydnFRdE1JbWVOZ9IBxAFBVV95cUxOVC1DbnU5ZHZQVk5DT2JfemZJWGxhNGEwNlFMUGJ0azVENlVCMWdlQU1JVGo3TjRTZWZYQk5KaWpkcm9pYTJ3aUpaYTRfZGNWWW95ZG10LU1fQ0ViYWxELXRfcjd2QUxBeERXZjN4YVRzT0hLelpKdERlUnNrY2xYMUhtN2dJc2dJUE5xVzloSHhsV29IRnpUWFZJeldhYTdwU3JJeXdBcXg2czl5Nk1oYWw5TERfUHRMR3N5QXYzRzJtUUhv?oc=5>
+- 场馆: 观察者网
+- 时间: 2026-06-12 02:37
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE01SFlIUk84eWdYYl8wLU80Ul9XZkF1Z2tER09IWUJMdEhrMVRmc1RtNGtKdHllNEJPM3p5LUZTQ1duRnF1Mk9jLW4teEVDdmxlU2FkaHRoSmxwQ1RrYUV3WW45VjJMSkM3ZWc?oc=5>
 
-### 特朗普政府打击全球生育旅游网络- 美国驻华大使馆和领事馆
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: U.S. Embassy & Consulates in China
-- 时间: 2026-06-12 06:21
-- 链接: <https://news.google.com/rss/articles/CBMipAFBVV95cUxOMldVdUV6QWQyd0VMM19zV0ZmTHFsTlhjUE9ia2psOGxrN3lLb2hPR3Bxdi1zWWVBOC0wZG92OXFYWHRfci1QRTRmTWpKYXBFMUNtQ1RNLU95Ri1QTHJ5N0JhX0R3SWR4VUhuTjIwSzFkbWFIU0RLa1d0V3J3UHA5U2ZRSjVoRzhxMFdySFpmMERaYTdqRTVraThLWnpaZ3l4eUpheQ?oc=5>
-
-### 吴说每日精选加密新闻 - Donald Trump：已取消原定对伊朗的军事打击，等待最终协议签署
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 吴说
-- 时间: 2026-06-12 13:50
-- 链接: <https://news.google.com/rss/articles/CBMiogFBVV95cUxQQjZXekZBWjFJZXJYSXRnRzdSZ1o1ekhNV3NNU1I3MldneEFvMUQ0Q3BpaVBRVVlsWk12eEdrcFNhNWIxcXlfNWlsYUlUUEZ0UjNaQnYzM1YwREgxcm44NHNDMjFtRURyREZ1bjhQZ1JJY2tUeEZOY0tMUlhHc2xfMjBMdkNqRlRmSjJLRUtKZUlCdUtxd0ZRUEg3dFRGc3MwRnc?oc=5>
-
-### 特朗普称伊朗泄露的协议条款并非书面同意内容
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: AASTOCKS.com
-- 时间: 2026-06-12 14:47
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE80a0E2ZGxidWxSVURvZ2tPQkNpY0E1a01WNmR3eFZtbzgwdlNHX2R6MXMyV0c2UndqSDVMMmZubllsSUdQOEppd1lwMDFXU0c3RUFlVHpnUnpOR0FicGExUHFXNzdOYkVkSlNXVjJySQ?oc=5>
-
-### 美国专栏 - 美伊局势再转弯 特朗普宣布与伊朗接近达成协议
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-06-12 12:24
-- 链接: <https://news.google.com/rss/articles/CBMipgNBVV95cUxPci0yN0dnZWNCdjFacFVXQWVqTHVjOUdzZ3prSi00SFZZZDd1ZGRxZVFfUTVZb003Z3EzSGJwM0V3WWlvZFBwN25md3p6VWlPTGlxMExvQ2NEY2ZPMk1adzJrdHctekhVbVlJX1JqbGxsTHV1ZUpyUVZ1MVRDVzdIcjdhZE9JRHdiMHZKb24yWVFNajd5Ty11WnVUWTg4a0dGalVjWFFxeXRpU2hPdS1ZVVN0OGZSNklWUUw5d1JCU0NqeXdDajE2Wmc3RG9ycGRESU93YngtRlBiVlFudDJwM3Z0OERNOXk0S0xuOHpUbGx0d0tSaFktVkxqZkxNdGF4d3VEenBjYlJiZnUzWVhJdzBNNEQ1QmhZZE9SdkdrV2taT05yczdBWWdobWFRMUZ3RlNqZkhxZ05VeWJra0t3ZUs5UmhtZ2xQNHE1WTZ0SEx0elF4QllPdnJTdm9EQXotNUx6bVAwejNkcnRucjUyN2FtM1Q2cGRvV0o0ZUdpZVBxMTVmbzhFczNnQWNZczRYVWwyRDBKVGIxN0tqel9CSVVxXzVrUQ?oc=5>
-
-### 伊朗媒体称，伊朗与美国拟定的协议草案将释放240亿美元资金，并确保黎巴嫩停火。
+### 美国高级官员称，伊朗核协议“非常接近”但尚未最终达成。
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: Al-Monitor
-- 时间: 2026-06-12 14:24
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1nZHI3MnA1TGp3U0pnREFUN3hmcUVPRE9sX3VDOUxRT2tzSkFJNXNkZTF1emppVWlqZjJrMWhHY3lMcUQ1LURHYi1uU214dTByZ2l2TzlDWlhPVVhsNUpYQjlvUjB4UQ?oc=5>
+- 时间: 2026-06-12 17:43
+- 链接: <https://news.google.com/rss/articles/CBMiygFBVV95cUxNSHNjWU80UWdpNEgyTE01MXpubTU1QlFJdkZpd2FMc1MtLW1qZnVXLW5MamRWajRtdHJEekRTQ09pUTRELVpkVWVvQVhUZzFPejlwS1hnLV83bXRrbXJ5cWFrZGNHZ3MwZzl4clAwaDVRc3pHcnlUakpaSlh3b3E5RWJOclNfeGVxTEVfcVk1WkR1Vk5FTHVOSk5BWGtkcEptUGFzQjFwSFVrekN3RmwtZkNxR2gwZGJzMHRoRWRQaVdhaE5NZGFCdGpn?oc=5>
 
-### 特朗普称伊朗泄露的协议条款并非书面同意内容财经新闻Financial News
+### U.S. Stocks Surge as Trump Cancels Attack -- Market Talk
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: AASTOCKS.com
-- 时间: 2026-06-12 14:47
-- 链接: <https://news.google.com/rss/articles/CBMihAFBVV95cUxNTWFES3JJWmJEVmpyNXE5eGl5Ri1MYVNtNFYtSmFmTkxPQnFaeHp5NmlRZ2gweFlJRHVDWFBLaENia0ttRlJETU1DQ2lGTWtoSTFHU0RMQmR1endhRl9ZWHJZVzlTUUVzRXlMT05hNXQtSWVmcUhIU0p6S3F5Z3FYY2t1Nlo?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-06-12 06:56
+- 链接: <https://news.google.com/rss/articles/CBMinwFBVV95cUxPQkhSaTlsLWNud2NOWDQzSFRRN3NTTHpDUDZwVHFOaERsNWI3SjY5UVpiTkcxc3Y2eWxzOThJeURLR2t6Z2hPTURnLS16bV81Vlp1aElHS05SVWV5NGxJN09mNjJMZU5nRkk1TVVUMEdTaElBQ3FwdzRFRnFOdFd6cEJlM05BOGJmU3lPQ3ZLeXZVWjc2eDFtOGVFOFIxQlU?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-12 19:27  (4 条)
+
+- **特朗普** | 白宫旁草坪数天内逐渐显现“8647”，被指涉嫌威胁暗杀特朗普，引发紧急调查 <https://news.google.com/rss/articles/CBMif0FVX3lxTE02ZjIyNUp1cjhzOGFYTURZZEJ3dEN1QWZ4SmVRdW9YcnUzZHR4c1BGam1DTXZIY0x3Y05kcktHUTNhZEdQUl9hUlVFaWlja2pvUF96ZFVtRlVmckhPRW8xaWJDLUhzQzNSLTM1ekFjNTVyanlZN2U1ekJnUWdvamM?oc=5>
+- **特朗普** | 装都不装？特朗普的倒影池翻新工程花费1400万美元，承包给熟人-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE01SFlIUk84eWdYYl8wLU80Ul9XZkF1Z2tER09IWUJMdEhrMVRmc1RtNGtKdHllNEJPM3p5LUZTQ1duRnF1Mk9jLW4teEVDdmxlU2FkaHRoSmxwQ1RrYUV3WW45VjJMSkM3ZWc?oc=5>
+- **Trump** | 美国高级官员称，伊朗核协议“非常接近”但尚未最终达成。 <https://news.google.com/rss/articles/CBMiygFBVV95cUxNSHNjWU80UWdpNEgyTE01MXpubTU1QlFJdkZpd2FMc1MtLW1qZnVXLW5MamRWajRtdHJEekRTQ09pUTRELVpkVWVvQVhUZzFPejlwS1hnLV83bXRrbXJ5cWFrZGNHZ3MwZzl4clAwaDVRc3pHcnlUakpaSlh3b3E5RWJOclNfeGVxTEVfcVk1WkR1Vk5FTHVOSk5BWGtkcEptUGFzQjFwSFVrekN3RmwtZkNxR2gwZGJzMHRoRWRQaVdhaE5NZGFCdGpn?oc=5>
+- **Trump** | U.S. Stocks Surge as Trump Cancels Attack -- Market Talk <https://news.google.com/rss/articles/CBMinwFBVV95cUxPQkhSaTlsLWNud2NOWDQzSFRRN3NTTHpDUDZwVHFOaERsNWI3SjY5UVpiTkcxc3Y2eWxzOThJeURLR2t6Z2hPTURnLS16bV81Vlp1aElHS05SVWV5NGxJN09mNjJMZU5nRkk1TVVUMEdTaElBQ3FwdzRFRnFOdFd6cEJlM05BOGJmU3lPQ3ZLeXZVWjc2eDFtOGVFOFIxQlU?oc=5>
 
 ### 2026-06-12 17:20  (9 条)
 
