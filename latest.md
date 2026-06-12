@@ -1,72 +1,141 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-11 23:17**
-- 本轮扫到 3245 条, 新增 **7** 条
+- 最近更新: **2026-06-12 01:43**
+- 本轮扫到 3259 条, 新增 **14** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (14 条)
 
-### 特朗普称取消原定对伊朗的打击行动
+### Vol.238 | 刀郎演唱会成“尽孝硬通货”，比周杰伦还要难抢？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906mlhg.html>
+
+### 周杰伦预告林俊杰翻唱新歌明日发布
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201853_1d45362bd06801sdju.html>
+
+### 期货早报：特朗普称美伊协议近日将签！伦敦银大涨8% 布油跌穿90美元
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 同花顺财经
+- 时间: 2026-06-12 00:01
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE4yUU5pcHBBYnpLaF9OT1BaZkNKX2JpTHRNUEhxaFpzd0ZxWkthT21HU2F5bXBvUVdUeEVaRjJObGo3SkR6Z3VTN3dKbkpZdlhRM290c1J4dGJsNDJXTnc?oc=5>
+
+### 特朗普第38次声称和平协议即将达成？好消息是：华尔街又信了……
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-11 17:33
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOUt2Q1ViWVo2NktXc3ZLVVhiT01CSnBGRWNoRzBFVU9SUWxQamZHelVUU1BpY184eGQwOWJ5dE1vSEdUN2VqZjlXbkxsT2FMbVc4TGI3NGZSOEtmSGhkZFVRSFZ5LXJKRzV2Z3E5ekx0QnNvZXZvSzl2Z2FpR2hvQ1FJUWM1eFZHTWk3TlhPdHZlMW5GUXBkMDMwRUlZQkNLamkyaVpkY0taUFlhZkE1ckxuN212T0d5TmRYNUJONUpVNExaTmY0Z3RUa1l5QUxf?oc=5>
+- 时间: 2026-06-12 00:56
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9hRTdzek1QdVgwTExYRHVlVXA5R2JTeGF6MjFtMWRQZTJDdnZCTWs2QmJZQmRmMDRDd3NlZ2RLbUFRNnhnTVZ4WlkyZ1M2NGRRMDA4Q1hGd3NWMDdaSDdpM2I2b2kxZmRwMUUwQllTWHk0cUh0YjdKMA?oc=5>
 
-### 特朗普或许“乐见通胀”，但民众正承受物价上涨之苦
+### 6月12日财经早餐：特朗普叫停对伊空袭，美伊协议有望周末签署，黄金深V反弹重回4220
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-11 22:41
-- 链接: <https://news.google.com/rss/articles/CBMi_wFBVV95cUxNYUxHTTlJRUtiLXo4MFJMOHBTMkJDbV9jOWFfSGR2Z21WUklNNUR3aWpnd3lNR2RqcW5mTjZsVmltQ2xYWHRFTmxBd0VRVlBWWDdtWmNaVUtjZWJMYmRzQXdFWG1TOVFtaWduc0dMbXNDUVZibnRieUdlM1hIem1jSEtPcGZOMzhhaFFtQ1dGT1QxMTQ4emhVYUk0emI5NlB4RlFoQnVPUWl3M0RGR2E2dTRHY2MzZ3V2N2ZMVDREZWwwc2pmS2N6alVNWXhJVlVjeXp3Qk1uLXhTSm4zc2YyeEp0QmV1Y0hNNVh5UnBHZnZleDRFbTBWY01nODRTQ3c?oc=5>
+- 时间: 2026-06-12 01:28
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxOUkI4a0w5Z2s5VTJGd2N4dFM4UFFGR3VfNU9CWU9jWVdlbTZFSkR3TFY1S1R4eUc1UXdUaXB6OXNQMExSaDA5VXBhd0Q3T1FuYnRHN0RRWm1Hb2U2Z3BfVlFSTVpZNkNkeXZUUTh5Tjh3ek5ISEF5WGZDcm5fYTVTUVhGeklSZFk?oc=5>
 
-### 美法院敦促特朗普政府：赶紧退税
+### 综合消息丨美伊战事峰回路转 特朗普取消打击行动
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-06-11 22:37
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE04aEhPSjgzbTd6d09idGRTaXFsVk9jNVVPdlhXRW1IeDVmeFhsNmNvQXZqNnBwdkFYTFE5b2czMDVSOUhndnV4Z1RKZGNNNTVJR190TDc2OHk4YXBWM2NUZXgzdmR4YndXS2VPMjJhU1JCcG9XRzBRS1M5NDVqcTQ?oc=5>
+
+### 特朗普称美伊协议进入最后定稿阶段 有望本周末签署
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 央视网
+- 时间: 2026-06-11 22:45
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5OWnowekRxaVJXSzJacEttOUU4R2FoYXFwSEhZQTM1T0EtMWJqdnExaDVrOE95WWk5YzhkSlhWdkI4aUU4d0ZZcEZmZ1VlM2VDYzdaYnl4TXR5MUlxUzdOeUJzeUhfTGM5MW02ZjNPWENrdzBBWW1feA?oc=5>
+
+### 特朗普再次180度大转弯，全世界都目瞪口呆
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-06-10 08:21
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBjM2NwVWh2TWgzTlhaOUw3V3FlaERxcW95QTRkLXYzMmpMZ0xKbjV6bUsxSjlLcUV3LXZ4NjhnTlhESFMyQmdkUndDcEI?oc=5>
-
-### 特朗普宣布提名杰伊·克莱顿出任美国家情报总监
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-06-11 18:18
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hdjZSa0JDVjluVVNpU1NKak9ibjl5YXBTdkdRcU1NWWY5M2FGQVNDczdLU0o1UENfVW9oUlZELWM0SnFPZlZkNkI4ZDM2TUdXWklpVkszT0tXMmF5TmlJMQ?oc=5>
-
-### 视频|威胁要炸毁伊朗后不久 特朗普：80岁生日愿望是世界和平
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-11 11:59
-- 链接: <https://news.google.com/rss/articles/CBMiiwJBVV95cUxQdEFuWU5KTlY3Y3ZkQWttbi1kd1d3OVgzSTlmQ0VWV3B4aFp4bEY4UzNldkhiLXVPc1hYRWpBSlhSRlhxcC1kUzloZ1VRQXIxVTJORTZ1RFlmZ01uaHpXOWpXR1B4Z0sxZ1pzUGFWd2x4VlQ3aHlWZWtVVnhTLWVfYks0ME13TFJaaGpVQTdaY3ZJMXAyaDBndnl2Y2d5a0JDTU5QeGR3NWtxWUx6Nnc3VjdnVll2TWtaYXZTUXJfUTZSbURpZUxhSnpBY1Zmc3hWcDY5RFQ0TTlJWC1oQ2hsRmN4Mm85aXFhTWVFV1JZVHFGVHA3MVJjS0MtNzVWLXpLNFJoTnlRVW5PMzA?oc=5>
+- 时间: 2026-06-11 18:22
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1uT1o3YUFtVUE4bzI0QVR3RGVUOFRQNlJLb2xFOHhrZjBPdkxGRTZ4OVlKWUE3SUFGU1R5MTJ4WUtCeXlYUkFHNWN5RnQ?oc=5>
 
 ### 特朗普称取消原定于当晚对伊朗的打击行动
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-06-11 18:29
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1wcS1UaDJrWHpQUlh6MGMwQ0tBVXdGak11QTh1TmxXb1RKQWluc3oybzZwc01xOFNraDh1V1FCck9ZSXAwZXhibDViLW00bEQ4d2F6TkJIZ3hkS0EwdExOUU16Z2FNeFZzbWNQVGFRRUJwMjBBdk96NnNWUDVXWVU?oc=5>
+- 场馆: 新京报
+- 时间: 2026-06-11 23:35
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9IcFRIOFlyRFBlOVVleC1LOXk2ZFdpeXcwenMyc0RmUWZ6bXd2dUhHel9sVzd5M2kxdmV0Nl9lUlZsSmc2VXZNM3NIWE1UMGktUHJOZEJOOUxyX05lNjN5OXZOclE?oc=5>
 
-### 特朗普：或最早在本周末于欧洲和伊朗签署协议
+### 特朗普称伊朗各方均已批准美伊协议
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: chinanews.com.cn
+- 时间: 2026-06-11 22:13
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9kbmg4bTA2bnRPZGFfN21lYUpvT2pSNTdMX2R6SXdhVFduaUNCV3E1STFSTHZXRThiQkNuOU42ZGYtandhMHE2Z2JqWEhob3JFVndkdVhOZ1VuNDY5WjM3dHJXR1B5Nk1K?oc=5>
+
+### 特朗普第38次声称和平协议即将达成？好消息是：华尔街又信了……
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 财联社
+- 时间: 2026-06-12 00:14
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE9vSElyR3hIZm9QQmRWbWp3Nm90YWE1dVZET00zeEp3enhhNGxMQzhQaC1uc1NEUktOTWNOOV93N3dqUTFRSDYtcA?oc=5>
+
+### 早读｜特朗普：美伊协议可能本周末在欧洲签署
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 东方财富
+- 时间: 2026-06-11 22:19
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE40OW9ldjg0SUgzLVJaLURudExHcENfVDJrQjc1dGN6VXNMODZ3QWdoSERlWEdmOHF5NUZCaGFNYWdGWHk2b05SMVNTcWlUWHR4ejN5S2xKbUJwalFnbkMxSg?oc=5>
+
+### “There will be more bombing tonight”: US President Trump declares
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-06-11 20:34
-- 链接: <https://news.google.com/rss/articles/CBMi0AJBVV95cUxQb2NyWXk4S2VkSFZLQjhhOEMtRGJmRktpNVMxc0d5dlI3ZzNvMTdCa1Z3ejYwVTdSakhocXB6WFhmNE41MkwxYXVsc0llZ050V3dRczBNNTUwcDV5dFFPVmZYU0RwS2FJQThUXzlBSDdRdkJsRjhPa2Q3SHVXa1hkeG9zRUlIS215UV9fa01UYUphdlRFTHJGYW9kWG9fTVRNOTV5S3kxVnYwSHNBOW0ya0tzSUYyUmlpMU9jZUVqRzZkTWhDNFptYW1iZzctdFZLZTl1VlZ5Y1pkY3BFWm1uUFdoMGh6MWVqV01iTnV4OTBvNVFkWDBsYVdfbXA2Z0gyWWVPVFRQNnFEWVVlQXh0aU54WldoV0JzVlF2N3RrOFZsazFRUE85N20wT0NySGJ2U0ZseU5xdmFFVzY2QzF2WFVFY0QzZ0t3ZnpvWEV0UmQ?oc=5>
+- 场馆: TMGM
+- 时间: 2026-06-11 20:14
+- 链接: <https://news.google.com/rss/articles/CBMizgFBVV95cUxPMkZnc3hqdVNKYlBHVXJJMEU2VWg4bGRhUUhtWF8td0VhNG8zX0NIU3pSamptZ0NDMjBXZE1FRzM5TkhvR1pxcnMxLVdvdDZpNHhRLURvS1hLc3pjMFJ5YzhCNkZaWl9wLXFFTm9FSzZCM05maU41di1sdUZ1VjZjT2RaV0JKay1lVER4TXdwanFvTGpEN1pBcWFlMXpGOVdRc1l4WWJ2b0JGVl8yRTd0OUNWb0ZwNmphX2UtcEZwMjlZTU4wVzdmZzRoaHFDUQ?oc=5>
+
+### 特朗普称与伊朗的协议可能在几天内签署
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-06-12 01:28
+- 链接: <https://news.google.com/rss/articles/CBMiowFBVV95cUxPMDlsN1Bvb3QzZEVlUGUyNm9SS0g1YkFIeTdlTzBoXzNjWW9LYkxYVzFTQ3ZfSGplczl1LXo3QWl0UllRbzRDcjNOcjJUTGktQmRpNWw3Mnl3VFlCYk9WdjNsSFZyVTUtSVBULVhveDNHdVNwaXVtUl96WFRQS0Vka1V3ZjdWQW1DejN0eDljcm5BNERHV3BqYzFOU3hnT0l0aHF3?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-12 01:43  (14 条)
+
+- **周杰伦** | Vol.238 | 刀郎演唱会成“尽孝硬通货”，比周杰伦还要难抢？ <https://k.sina.com.cn/article_7857201856_1d45362c001906mlhg.html>
+- **周杰伦** | 周杰伦预告林俊杰翻唱新歌明日发布 <https://k.sina.com.cn/article_7857201853_1d45362bd06801sdju.html>
+- **特朗普** | 期货早报：特朗普称美伊协议近日将签！伦敦银大涨8% 布油跌穿90美元 <https://news.google.com/rss/articles/CBMiXkFVX3lxTE4yUU5pcHBBYnpLaF9OT1BaZkNKX2JpTHRNUEhxaFpzd0ZxWkthT21HU2F5bXBvUVdUeEVaRjJObGo3SkR6Z3VTN3dKbkpZdlhRM290c1J4dGJsNDJXTnc?oc=5>
+- **特朗普** | 特朗普第38次声称和平协议即将达成？好消息是：华尔街又信了…… <https://news.google.com/rss/articles/CBMieEFVX3lxTE9hRTdzek1QdVgwTExYRHVlVXA5R2JTeGF6MjFtMWRQZTJDdnZCTWs2QmJZQmRmMDRDd3NlZ2RLbUFRNnhnTVZ4WlkyZ1M2NGRRMDA4Q1hGd3NWMDdaSDdpM2I2b2kxZmRwMUUwQllTWHk0cUh0YjdKMA?oc=5>
+- **特朗普** | 6月12日财经早餐：特朗普叫停对伊空袭，美伊协议有望周末签署，黄金深V反弹重回4220 <https://news.google.com/rss/articles/CBMihwFBVV95cUxOUkI4a0w5Z2s5VTJGd2N4dFM4UFFGR3VfNU9CWU9jWVdlbTZFSkR3TFY1S1R4eUc1UXdUaXB6OXNQMExSaDA5VXBhd0Q3T1FuYnRHN0RRWm1Hb2U2Z3BfVlFSTVpZNkNkeXZUUTh5Tjh3ek5ISEF5WGZDcm5fYTVTUVhGeklSZFk?oc=5>
+- **特朗普** | 综合消息丨美伊战事峰回路转 特朗普取消打击行动 <https://news.google.com/rss/articles/CBMif0FVX3lxTE04aEhPSjgzbTd6d09idGRTaXFsVk9jNVVPdlhXRW1IeDVmeFhsNmNvQXZqNnBwdkFYTFE5b2czMDVSOUhndnV4Z1RKZGNNNTVJR190TDc2OHk4YXBWM2NUZXgzdmR4YndXS2VPMjJhU1JCcG9XRzBRS1M5NDVqcTQ?oc=5>
+- **特朗普** | 特朗普称美伊协议进入最后定稿阶段 有望本周末签署 <https://news.google.com/rss/articles/CBMieEFVX3lxTE5OWnowekRxaVJXSzJacEttOUU4R2FoYXFwSEhZQTM1T0EtMWJqdnExaDVrOE95WWk5YzhkSlhWdkI4aUU4d0ZZcEZmZ1VlM2VDYzdaYnl4TXR5MUlxUzdOeUJzeUhfTGM5MW02ZjNPWENrdzBBWW1feA?oc=5>
+- **特朗普** | 特朗普再次180度大转弯，全世界都目瞪口呆 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1uT1o3YUFtVUE4bzI0QVR3RGVUOFRQNlJLb2xFOHhrZjBPdkxGRTZ4OVlKWUE3SUFGU1R5MTJ4WUtCeXlYUkFHNWN5RnQ?oc=5>
+- **特朗普** | 特朗普称取消原定于当晚对伊朗的打击行动 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9IcFRIOFlyRFBlOVVleC1LOXk2ZFdpeXcwenMyc0RmUWZ6bXd2dUhHel9sVzd5M2kxdmV0Nl9lUlZsSmc2VXZNM3NIWE1UMGktUHJOZEJOOUxyX05lNjN5OXZOclE?oc=5>
+- **特朗普** | 特朗普称伊朗各方均已批准美伊协议 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9kbmg4bTA2bnRPZGFfN21lYUpvT2pSNTdMX2R6SXdhVFduaUNCV3E1STFSTHZXRThiQkNuOU42ZGYtandhMHE2Z2JqWEhob3JFVndkdVhOZ1VuNDY5WjM3dHJXR1B5Nk1K?oc=5>
+- **特朗普** | 特朗普第38次声称和平协议即将达成？好消息是：华尔街又信了…… <https://news.google.com/rss/articles/CBMiSEFVX3lxTE9vSElyR3hIZm9QQmRWbWp3Nm90YWE1dVZET00zeEp3enhhNGxMQzhQaC1uc1NEUktOTWNOOV93N3dqUTFRSDYtcA?oc=5>
+- **特朗普** | 早读｜特朗普：美伊协议可能本周末在欧洲签署 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE40OW9ldjg0SUgzLVJaLURudExHcENfVDJrQjc1dGN6VXNMODZ3QWdoSERlWEdmOHF5NUZCaGFNYWdGWHk2b05SMVNTcWlUWHR4ejN5S2xKbUJwalFnbkMxSg?oc=5>
+- **Trump** | “There will be more bombing tonight”: US President Trump declares <https://news.google.com/rss/articles/CBMizgFBVV95cUxPMkZnc3hqdVNKYlBHVXJJMEU2VWg4bGRhUUhtWF8td0VhNG8zX0NIU3pSamptZ0NDMjBXZE1FRzM5TkhvR1pxcnMxLVdvdDZpNHhRLURvS1hLc3pjMFJ5YzhCNkZaWl9wLXFFTm9FSzZCM05maU41di1sdUZ1VjZjT2RaV0JKay1lVER4TXdwanFvTGpEN1pBcWFlMXpGOVdRc1l4WWJ2b0JGVl8yRTd0OUNWb0ZwNmphX2UtcEZwMjlZTU4wVzdmZzRoaHFDUQ?oc=5>
+- **Trump** | 特朗普称与伊朗的协议可能在几天内签署 <https://news.google.com/rss/articles/CBMiowFBVV95cUxPMDlsN1Bvb3QzZEVlUGUyNm9SS0g1YkFIeTdlTzBoXzNjWW9LYkxYVzFTQ3ZfSGplczl1LXo3QWl0UllRbzRDcjNOcjJUTGktQmRpNWw3Mnl3VFlCYk9WdjNsSFZyVTUtSVBULVhveDNHdVNwaXVtUl96WFRQS0Vka1V3ZjdWQW1DejN0eDljcm5BNERHV3BqYzFOU3hnT0l0aHF3?oc=5>
 
 ### 2026-06-11 23:17  (7 条)
 
