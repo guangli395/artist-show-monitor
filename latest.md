@@ -1,40 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-12 21:13**
-- 本轮扫到 3309 条, 新增 **3** 条
+- 最近更新: **2026-06-12 22:54**
+- 本轮扫到 3312 条, 新增 **3** 条
 
 ---
 
 ## 本轮新发现 (3 条)
 
-### 特朗普驳斥伊朗媒体公布停战协议内容“假新闻”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-06-12 20:09
-- 链接: <https://news.google.com/rss/articles/CBMi0AJBVV95cUxPWmxTOXVRVVpxVGZkZ2QtanVSckx4WEF1eDk1UjRVMWZIeGZPaDFWMG8xck54d25IMjFmRGtNWFN4V1VFZW9wbGhTV0hEc1hhVjFTeE80czduREhjUmNVU0tFbVl3Wm5nTlpPdkMwNm9fVU55WkJoQkhhNnhwUW5FbWw4ckJDaTJsM1pBN0FBUFA5V3l2X2VsX3FSSUUweURUNElveFRNQkNYVlVzVzZ2NXJNNy1PQ0d4M1RVWlhjcUZWVE42WDVDcEcwUk1XeHg5TEhMcHdJUllKYWJfWlpfcFJtdmFKdUhOLTNjbUQySGpNY0VLS2VqcmhxNHdtYlhreTZQbEYxeXNac1Utc2hJUHF2c0F3Qy0xVl9MVWRGWUJ6YjVyZUlfUld6VkhHRFhaellaUHBRTlFHeXBxcTVuWWtvT3g4dWtuVXIyZ3Q5VWI?oc=5>
-
-### 特朗普称美伊协议进入最后定稿阶段 有望本周末签署
+### 特朗普称“首选”夺取伊朗石油枢纽哈尔克岛
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-06-11 19:35
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBreTIxZjRDNXpERjBXVDJkdmVHNzFRZThIMWhOQTRURXhNY3U1Nmw4U0NjdVJ6US1pVEMwbWZ3S2s4c1YwY1NjSUlsazFpMEpybGIxWEotQm5HM1o2aWs1REU1ejAzWnN3YW1yXzdBMUc?oc=5>
+- 时间: 2026-06-11 22:08
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBvd0ZYdTM2MThydElGa1R4UHo3U3UyREs1TnRwS2FnZV9yd0I5ZHJidS1uMF9PQ3BTRS11TmxHUm82aTFXai0xVUFseWQ1OS1weW1Na0pZYVRnSlRfWXo4VGF3dHRuZnkwakppZTRNWFpLMDllR202MA?oc=5>
 
-### 特朗普手机拆解后露馅了！换壳HTC 还贴上美国国旗
+### 特朗普拟推决议撤销两次弹劾记录 或难取得足够支持
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 电子工程专辑
-- 时间: 2026-06-12 10:54
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxSncyWUt4S2xOUFplbUVTUDZIc0pScHBCY3RfUnBjM2ZUZGhYZXZ6TjF1dUNFRWlOd2kxcW45LUJiUzFPb2dlMTZwbTFucFk1SG1z?oc=5>
+- 场馆: 联合早报
+- 时间: 2026-06-12 05:19
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPNHVOZzZNTE15bE9DWHp2eC0wNnJZQWRjV0RNX1Vfek1xclVDYmN1Y3RrQ0tsRWFWWmVVd2JtZ1dyTjJycFFYNldSWUNUQkZabnh5aVhpYVlPR0ZmZ25UeEgwM1hxdw?oc=5>
+
+### 午市焦点：Trump称伊朗须「付出代价」；SpaceX获海湾富基金IPO前大型订单财经新闻Financial News
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: AASTOCKS.com
+- 时间: 2026-06-10 15:56
+- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxQUGpEaU1mT0FMR013UTBiamJUT0pLU1BubmxEWU9xZFZERkVXUkx4YnBPek9KV0dfeS1oMWRQVjQxTEp5LVpLeTlhX2dnblpPUW1wUExWbXdmRXVpRWVsRzlnTGI5RTJUell0VlR0bkNvdVdrcEk3cFlzc090bUtCVFJTOFhIU0xLaVRBZ2RFc2c0WWh5?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-12 22:54  (3 条)
+
+- **特朗普** | 特朗普称“首选”夺取伊朗石油枢纽哈尔克岛 <https://news.google.com/rss/articles/CBMieEFVX3lxTFBvd0ZYdTM2MThydElGa1R4UHo3U3UyREs1TnRwS2FnZV9yd0I5ZHJidS1uMF9PQ3BTRS11TmxHUm82aTFXai0xVUFseWQ1OS1weW1Na0pZYVRnSlRfWXo4VGF3dHRuZnkwakppZTRNWFpLMDllR202MA?oc=5>
+- **特朗普** | 特朗普拟推决议撤销两次弹劾记录 或难取得足够支持 <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPNHVOZzZNTE15bE9DWHp2eC0wNnJZQWRjV0RNX1Vfek1xclVDYmN1Y3RrQ0tsRWFWWmVVd2JtZ1dyTjJycFFYNldSWUNUQkZabnh5aVhpYVlPR0ZmZ25UeEgwM1hxdw?oc=5>
+- **Trump** | 午市焦点：Trump称伊朗须「付出代价」；SpaceX获海湾富基金IPO前大型订单财经新闻Financial News <https://news.google.com/rss/articles/CBMilAFBVV95cUxQUGpEaU1mT0FMR013UTBiamJUT0pLU1BubmxEWU9xZFZERkVXUkx4YnBPek9KV0dfeS1oMWRQVjQxTEp5LVpLeTlhX2dnblpPUW1wUExWbXdmRXVpRWVsRzlnTGI5RTJUell0VlR0bkNvdVdrcEk3cFlzc090bUtCVFJTOFhIU0xLaVRBZ2RFc2c0WWh5?oc=5>
 
 ### 2026-06-12 21:13  (3 条)
 
