@@ -1,55 +1,43 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-12 14:02**
-- 本轮扫到 3293 条, 新增 **7** 条
+- 最近更新: **2026-06-12 17:20**
+- 本轮扫到 3302 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (9 条)
 
-### 新浪演唱会热点小时报丨2026年06月12日05时_今日实时演唱会热点速递
+### 特朗普AI视频引日本不满 日官员：强烈希望同样的事不要再次发生
 
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906nuj4.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-06-12 17:18
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBOSWdEVExZb1YxQlNaRm5DZ3Y4ZllTWHVZMUZHc1cweUJHeVVYWDJXQVJLZ2FPUkpmemVRazFQYWVZWEhCWFp3OGpwdFA4dFBXTjVEcVR2bkhaT3E3VHBxNkFFcW9IWTFRNWEwSHRQa3Q?oc=5>
 
-### 2026周杰伦世界巡回演唱会南京站正式定档
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://finance.sina.com.cn/wm/2026-06-12/doc-iniceccm3488836.shtml>
-
-### 特朗普称伊媒发布的美伊协议草案与事实不符
+### 特朗普涉伊朗表态“大转弯” 以总理“猝不及防”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新华网
-- 时间: 2026-06-12 13:56
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE42aU9MWmtRTVhZSXFSYW1HQzVsYVRnb1dDTmdudGk2NXBoWXhHMDVJOC0wbFJqd3ZTdHdfVzExeUNZc0M5NFRUdzdHNFBzUkhUblhLejNES3BOUHl4ZnJJaWJrcFB3N29waUdDSlNKdnBYSGR5T3BOUnVHTWZEN2c?oc=5>
+- 时间: 2026-06-12 08:38
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1jZlMzMmlVTU9LNDMzbmR1VDRDOWNXeXIxNTFRQmJoaDRHWVZFUjdfWDNuSXVGQUY3WWhUT1g4dUFNNjZ6NzdCUENac0txVTU5cFFGNjFBZ2xMSVFyZ1MyRW9kanhQbXEwbDdnZ2JONHVYSk9SX3N1ZjUzXzdHbTg?oc=5>
 
-### 特朗普或许“乐见通胀”，但民众正承受物价上涨之苦
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-11 07:00
-- 链接: <https://news.google.com/rss/articles/CBMipwJBVV95cUxPdVhwODBBS0hRWUhQUjhpblZaTVJGcEtFMnExWDJOS2lDMzdOeW1DYlF2UjZzUng2dmJXME9GZFJOejJ3VmY3TndwRUo5THphd2R2Vmw3b2EyTmd0dWYxeExYSmlleS1QLWhvc281QjFRaVVvS082OHZrZWpYVlRkM0hTTGF2TTQxWW9McWZ2ejNGLXVfdzJuaEluTTBLTDhLdjlLMG5TQmZMb2EzWDd5NnBiWmI3aDgyWkV1T2k0YmNCLVlWT1JSNjJzVGJuTzF1YmRnNVRXTFNzODdtSC1TdkZ2YjNqQzRWOThvWlM3UG5DLUVScnpwTzJObHpSaFJ3RDFUS3ZDa0xYSE5qbTBVOGZjellIa0xrTVJDdWhFc2I3ZVFFTk9n?oc=5>
-
-### 外媒：就美国法官裁定将特朗普名字从肯尼迪中心移除，美政府提出上诉
+### 特朗普总统指责伊朗泄露停止战争协议的虚假细节
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 环球网
-- 时间: 2026-06-11 15:29
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE1WenhBVGNiSVh0anJsTmdpX05SZ2NFME5EelpzSlVCMWhEY28wbjJaY1h3UWxaWWFPeUppQ1g1YjYtUkw0eWZtZGNjQ0tPaWVyUGRZRFBvQUU?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-06-12 16:11
+- 链接: <https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYWIwVU1JUmFWRHdnak94R2ZINkw5N2lqVUxUZUZUd2wxeU9NOWlISUpwZDBvMkNsVk84UzFLTEs1Rk5IVlNlaE5DTGg5RGYyRmROeTE1Qi1QX2xBSXhMWGFUbG9XQTNfZ1diUjJnUERpS0tUR1N6SjlXcVA0YzM3Y05GOENWNUsyU1E2M1dBdy1lVm9ncDU3QV9rRnhoY2NmbzdENFNkSmQ4SlBfbnF4THdVYU9HSWhydnFRdE1JbWVOZ9IBxAFBVV95cUxOVC1DbnU5ZHZQVk5DT2JfemZJWGxhNGEwNlFMUGJ0azVENlVCMWdlQU1JVGo3TjRTZWZYQk5KaWpkcm9pYTJ3aUpaYTRfZGNWWW95ZG10LU1fQ0ViYWxELXRfcjd2QUxBeERXZjN4YVRzT0hLelpKdERlUnNrY2xYMUhtN2dJc2dJUE5xVzloSHhsV29IRnpUWFZJeldhYTdwU3JJeXdBcXg2czl5Nk1oYWw5TERfUHRMR3N5QXYzRzJtUUhv?oc=5>
 
-### 特朗普提名的下任国家情报总监是谁？
+### 特朗普政府打击全球生育旅游网络- 美国驻华大使馆和领事馆
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-06-12 07:34
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFByZ0FMMzd3RGJSM0hoNWZBa293bW5xUy1vd3A0UUdWWjlXcDRTUlRNb3F6X2JZN3czdHlBUkJ6emV4eEcwOTd1OWppM3ZHUzItMEI0TjNHdC1yVEZJeHhfcER3SXZYajYy?oc=5>
+- 场馆: U.S. Embassy & Consulates in China
+- 时间: 2026-06-12 06:21
+- 链接: <https://news.google.com/rss/articles/CBMipAFBVV95cUxOMldVdUV6QWQyd0VMM19zV0ZmTHFsTlhjUE9ia2psOGxrN3lLb2hPR3Bxdi1zWWVBOC0wZG92OXFYWHRfci1QRTRmTWpKYXBFMUNtQ1RNLU95Ri1QTHJ5N0JhX0R3SWR4VUhuTjIwSzFkbWFIU0RLa1d0V3J3UHA5U2ZRSjVoRzhxMFdySFpmMERaYTdqRTVraThLWnpaZ3l4eUpheQ?oc=5>
 
 ### 吴说每日精选加密新闻 - Donald Trump：已取消原定对伊朗的军事打击，等待最终协议签署
 
@@ -57,12 +45,56 @@
 - 来源: `googlenews`
 - 场馆: 吴说
 - 时间: 2026-06-12 13:50
-- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxPZWxEZWt1bFd5QVlJTFVCdDAyRmdrbGxMWTdjQkJkWk1FSmtmeFl0RERZQ3l2Wm41aHRmZjExaWNNTzZ1UmVfVTJaaHVEbjJaa3pNMzJZalZTNXNBN1BqeUs3TVJiMmNTRjJidFhPUEMwVXk2NllNMkZGNXA5eDc3NF91M0NDMTFlOUMxZ2JLdWdFbElJalRUdmJuTHo?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMiogFBVV95cUxQQjZXekZBWjFJZXJYSXRnRzdSZ1o1ekhNV3NNU1I3MldneEFvMUQ0Q3BpaVBRVVlsWk12eEdrcFNhNWIxcXlfNWlsYUlUUEZ0UjNaQnYzM1YwREgxcm44NHNDMjFtRURyREZ1bjhQZ1JJY2tUeEZOY0tMUlhHc2xfMjBMdkNqRlRmSjJLRUtKZUlCdUtxd0ZRUEg3dFRGc3MwRnc?oc=5>
+
+### 特朗普称伊朗泄露的协议条款并非书面同意内容
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: AASTOCKS.com
+- 时间: 2026-06-12 14:47
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE80a0E2ZGxidWxSVURvZ2tPQkNpY0E1a01WNmR3eFZtbzgwdlNHX2R6MXMyV0c2UndqSDVMMmZubllsSUdQOEppd1lwMDFXU0c3RUFlVHpnUnpOR0FicGExUHFXNzdOYkVkSlNXVjJySQ?oc=5>
+
+### 美国专栏 - 美伊局势再转弯 特朗普宣布与伊朗接近达成协议
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-06-12 12:24
+- 链接: <https://news.google.com/rss/articles/CBMipgNBVV95cUxPci0yN0dnZWNCdjFacFVXQWVqTHVjOUdzZ3prSi00SFZZZDd1ZGRxZVFfUTVZb003Z3EzSGJwM0V3WWlvZFBwN25md3p6VWlPTGlxMExvQ2NEY2ZPMk1adzJrdHctekhVbVlJX1JqbGxsTHV1ZUpyUVZ1MVRDVzdIcjdhZE9JRHdiMHZKb24yWVFNajd5Ty11WnVUWTg4a0dGalVjWFFxeXRpU2hPdS1ZVVN0OGZSNklWUUw5d1JCU0NqeXdDajE2Wmc3RG9ycGRESU93YngtRlBiVlFudDJwM3Z0OERNOXk0S0xuOHpUbGx0d0tSaFktVkxqZkxNdGF4d3VEenBjYlJiZnUzWVhJdzBNNEQ1QmhZZE9SdkdrV2taT05yczdBWWdobWFRMUZ3RlNqZkhxZ05VeWJra0t3ZUs5UmhtZ2xQNHE1WTZ0SEx0elF4QllPdnJTdm9EQXotNUx6bVAwejNkcnRucjUyN2FtM1Q2cGRvV0o0ZUdpZVBxMTVmbzhFczNnQWNZczRYVWwyRDBKVGIxN0tqel9CSVVxXzVrUQ?oc=5>
+
+### 伊朗媒体称，伊朗与美国拟定的协议草案将释放240亿美元资金，并确保黎巴嫩停火。
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Al-Monitor
+- 时间: 2026-06-12 14:24
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1nZHI3MnA1TGp3U0pnREFUN3hmcUVPRE9sX3VDOUxRT2tzSkFJNXNkZTF1emppVWlqZjJrMWhHY3lMcUQ1LURHYi1uU214dTByZ2l2TzlDWlhPVVhsNUpYQjlvUjB4UQ?oc=5>
+
+### 特朗普称伊朗泄露的协议条款并非书面同意内容财经新闻Financial News
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: AASTOCKS.com
+- 时间: 2026-06-12 14:47
+- 链接: <https://news.google.com/rss/articles/CBMihAFBVV95cUxNTWFES3JJWmJEVmpyNXE5eGl5Ri1MYVNtNFYtSmFmTkxPQnFaeHp5NmlRZ2gweFlJRHVDWFBLaENia0ttRlJETU1DQ2lGTWtoSTFHU0RMQmR1endhRl9ZWHJZVzlTUUVzRXlMT05hNXQtSWVmcUhIU0p6S3F5Z3FYY2t1Nlo?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-12 17:20  (9 条)
+
+- **特朗普** | 特朗普AI视频引日本不满 日官员：强烈希望同样的事不要再次发生 <https://news.google.com/rss/articles/CBMicEFVX3lxTFBOSWdEVExZb1YxQlNaRm5DZ3Y4ZllTWHVZMUZHc1cweUJHeVVYWDJXQVJLZ2FPUkpmemVRazFQYWVZWEhCWFp3OGpwdFA4dFBXTjVEcVR2bkhaT3E3VHBxNkFFcW9IWTFRNWEwSHRQa3Q?oc=5>
+- **特朗普** | 特朗普涉伊朗表态“大转弯” 以总理“猝不及防” <https://news.google.com/rss/articles/CBMif0FVX3lxTE1jZlMzMmlVTU9LNDMzbmR1VDRDOWNXeXIxNTFRQmJoaDRHWVZFUjdfWDNuSXVGQUY3WWhUT1g4dUFNNjZ6NzdCUENac0txVTU5cFFGNjFBZ2xMSVFyZ1MyRW9kanhQbXEwbDdnZ2JONHVYSk9SX3N1ZjUzXzdHbTg?oc=5>
+- **特朗普** | 特朗普总统指责伊朗泄露停止战争协议的虚假细节 <https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYWIwVU1JUmFWRHdnak94R2ZINkw5N2lqVUxUZUZUd2wxeU9NOWlISUpwZDBvMkNsVk84UzFLTEs1Rk5IVlNlaE5DTGg5RGYyRmROeTE1Qi1QX2xBSXhMWGFUbG9XQTNfZ1diUjJnUERpS0tUR1N6SjlXcVA0YzM3Y05GOENWNUsyU1E2M1dBdy1lVm9ncDU3QV9rRnhoY2NmbzdENFNkSmQ4SlBfbnF4THdVYU9HSWhydnFRdE1JbWVOZ9IBxAFBVV95cUxOVC1DbnU5ZHZQVk5DT2JfemZJWGxhNGEwNlFMUGJ0azVENlVCMWdlQU1JVGo3TjRTZWZYQk5KaWpkcm9pYTJ3aUpaYTRfZGNWWW95ZG10LU1fQ0ViYWxELXRfcjd2QUxBeERXZjN4YVRzT0hLelpKdERlUnNrY2xYMUhtN2dJc2dJUE5xVzloSHhsV29IRnpUWFZJeldhYTdwU3JJeXdBcXg2czl5Nk1oYWw5TERfUHRMR3N5QXYzRzJtUUhv?oc=5>
+- **特朗普** | 特朗普政府打击全球生育旅游网络- 美国驻华大使馆和领事馆 <https://news.google.com/rss/articles/CBMipAFBVV95cUxOMldVdUV6QWQyd0VMM19zV0ZmTHFsTlhjUE9ia2psOGxrN3lLb2hPR3Bxdi1zWWVBOC0wZG92OXFYWHRfci1QRTRmTWpKYXBFMUNtQ1RNLU95Ri1QTHJ5N0JhX0R3SWR4VUhuTjIwSzFkbWFIU0RLa1d0V3J3UHA5U2ZRSjVoRzhxMFdySFpmMERaYTdqRTVraThLWnpaZ3l4eUpheQ?oc=5>
+- **Trump** | 吴说每日精选加密新闻 - Donald Trump：已取消原定对伊朗的军事打击，等待最终协议签署 <https://news.google.com/rss/articles/CBMiogFBVV95cUxQQjZXekZBWjFJZXJYSXRnRzdSZ1o1ekhNV3NNU1I3MldneEFvMUQ0Q3BpaVBRVVlsWk12eEdrcFNhNWIxcXlfNWlsYUlUUEZ0UjNaQnYzM1YwREgxcm44NHNDMjFtRURyREZ1bjhQZ1JJY2tUeEZOY0tMUlhHc2xfMjBMdkNqRlRmSjJLRUtKZUlCdUtxd0ZRUEg3dFRGc3MwRnc?oc=5>
+- **Trump** | 特朗普称伊朗泄露的协议条款并非书面同意内容 <https://news.google.com/rss/articles/CBMib0FVX3lxTE80a0E2ZGxidWxSVURvZ2tPQkNpY0E1a01WNmR3eFZtbzgwdlNHX2R6MXMyV0c2UndqSDVMMmZubllsSUdQOEppd1lwMDFXU0c3RUFlVHpnUnpOR0FicGExUHFXNzdOYkVkSlNXVjJySQ?oc=5>
+- **Trump** | 美国专栏 - 美伊局势再转弯 特朗普宣布与伊朗接近达成协议 <https://news.google.com/rss/articles/CBMipgNBVV95cUxPci0yN0dnZWNCdjFacFVXQWVqTHVjOUdzZ3prSi00SFZZZDd1ZGRxZVFfUTVZb003Z3EzSGJwM0V3WWlvZFBwN25md3p6VWlPTGlxMExvQ2NEY2ZPMk1adzJrdHctekhVbVlJX1JqbGxsTHV1ZUpyUVZ1MVRDVzdIcjdhZE9JRHdiMHZKb24yWVFNajd5Ty11WnVUWTg4a0dGalVjWFFxeXRpU2hPdS1ZVVN0OGZSNklWUUw5d1JCU0NqeXdDajE2Wmc3RG9ycGRESU93YngtRlBiVlFudDJwM3Z0OERNOXk0S0xuOHpUbGx0d0tSaFktVkxqZkxNdGF4d3VEenBjYlJiZnUzWVhJdzBNNEQ1QmhZZE9SdkdrV2taT05yczdBWWdobWFRMUZ3RlNqZkhxZ05VeWJra0t3ZUs5UmhtZ2xQNHE1WTZ0SEx0elF4QllPdnJTdm9EQXotNUx6bVAwejNkcnRucjUyN2FtM1Q2cGRvV0o0ZUdpZVBxMTVmbzhFczNnQWNZczRYVWwyRDBKVGIxN0tqel9CSVVxXzVrUQ?oc=5>
+- **Trump** | 伊朗媒体称，伊朗与美国拟定的协议草案将释放240亿美元资金，并确保黎巴嫩停火。 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1nZHI3MnA1TGp3U0pnREFUN3hmcUVPRE9sX3VDOUxRT2tzSkFJNXNkZTF1emppVWlqZjJrMWhHY3lMcUQ1LURHYi1uU214dTByZ2l2TzlDWlhPVVhsNUpYQjlvUjB4UQ?oc=5>
+- **Trump** | 特朗普称伊朗泄露的协议条款并非书面同意内容财经新闻Financial News <https://news.google.com/rss/articles/CBMihAFBVV95cUxNTWFES3JJWmJEVmpyNXE5eGl5Ri1MYVNtNFYtSmFmTkxPQnFaeHp5NmlRZ2gweFlJRHVDWFBLaENia0ttRlJETU1DQ2lGTWtoSTFHU0RMQmR1endhRl9ZWHJZVzlTUUVzRXlMT05hNXQtSWVmcUhIU0p6S3F5Z3FYY2t1Nlo?oc=5>
 
 ### 2026-06-12 14:02  (7 条)
 
