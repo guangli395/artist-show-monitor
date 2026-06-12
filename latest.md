@@ -1,48 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-12 19:27**
-- 本轮扫到 3306 条, 新增 **4** 条
+- 最近更新: **2026-06-12 21:13**
+- 本轮扫到 3309 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (3 条)
 
-### 白宫旁草坪数天内逐渐显现“8647”，被指涉嫌威胁暗杀特朗普，引发紧急调查
+### 特朗普驳斥伊朗媒体公布停战协议内容“假新闻”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-06-12 20:09
+- 链接: <https://news.google.com/rss/articles/CBMi0AJBVV95cUxPWmxTOXVRVVpxVGZkZ2QtanVSckx4WEF1eDk1UjRVMWZIeGZPaDFWMG8xck54d25IMjFmRGtNWFN4V1VFZW9wbGhTV0hEc1hhVjFTeE80czduREhjUmNVU0tFbVl3Wm5nTlpPdkMwNm9fVU55WkJoQkhhNnhwUW5FbWw4ckJDaTJsM1pBN0FBUFA5V3l2X2VsX3FSSUUweURUNElveFRNQkNYVlVzVzZ2NXJNNy1PQ0d4M1RVWlhjcUZWVE42WDVDcEcwUk1XeHg5TEhMcHdJUllKYWJfWlpfcFJtdmFKdUhOLTNjbUQySGpNY0VLS2VqcmhxNHdtYlhreTZQbEYxeXNac1Utc2hJUHF2c0F3Qy0xVl9MVWRGWUJ6YjVyZUlfUld6VkhHRFhaellaUHBRTlFHeXBxcTVuWWtvT3g4dWtuVXIyZ3Q5VWI?oc=5>
+
+### 特朗普称美伊协议进入最后定稿阶段 有望本周末签署
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-06-12 13:30
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE02ZjIyNUp1cjhzOGFYTURZZEJ3dEN1QWZ4SmVRdW9YcnUzZHR4c1BGam1DTXZIY0x3Y05kcktHUTNhZEdQUl9hUlVFaWlja2pvUF96ZFVtRlVmckhPRW8xaWJDLUhzQzNSLTM1ekFjNTVyanlZN2U1ekJnUWdvamM?oc=5>
+- 时间: 2026-06-11 19:35
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBreTIxZjRDNXpERjBXVDJkdmVHNzFRZThIMWhOQTRURXhNY3U1Nmw4U0NjdVJ6US1pVEMwbWZ3S2s4c1YwY1NjSUlsazFpMEpybGIxWEotQm5HM1o2aWs1REU1ejAzWnN3YW1yXzdBMUc?oc=5>
 
-### 装都不装？特朗普的倒影池翻新工程花费1400万美元，承包给熟人-观察者网
+### 特朗普手机拆解后露馅了！换壳HTC 还贴上美国国旗
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-06-12 02:37
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE01SFlIUk84eWdYYl8wLU80Ul9XZkF1Z2tER09IWUJMdEhrMVRmc1RtNGtKdHllNEJPM3p5LUZTQ1duRnF1Mk9jLW4teEVDdmxlU2FkaHRoSmxwQ1RrYUV3WW45VjJMSkM3ZWc?oc=5>
-
-### 美国高级官员称，伊朗核协议“非常接近”但尚未最终达成。
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Al-Monitor
-- 时间: 2026-06-12 17:43
-- 链接: <https://news.google.com/rss/articles/CBMiygFBVV95cUxNSHNjWU80UWdpNEgyTE01MXpubTU1QlFJdkZpd2FMc1MtLW1qZnVXLW5MamRWajRtdHJEekRTQ09pUTRELVpkVWVvQVhUZzFPejlwS1hnLV83bXRrbXJ5cWFrZGNHZ3MwZzl4clAwaDVRc3pHcnlUakpaSlh3b3E5RWJOclNfeGVxTEVfcVk1WkR1Vk5FTHVOSk5BWGtkcEptUGFzQjFwSFVrekN3RmwtZkNxR2gwZGJzMHRoRWRQaVdhaE5NZGFCdGpn?oc=5>
-
-### U.S. Stocks Surge as Trump Cancels Attack -- Market Talk
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-06-12 06:56
-- 链接: <https://news.google.com/rss/articles/CBMinwFBVV95cUxPQkhSaTlsLWNud2NOWDQzSFRRN3NTTHpDUDZwVHFOaERsNWI3SjY5UVpiTkcxc3Y2eWxzOThJeURLR2t6Z2hPTURnLS16bV81Vlp1aElHS05SVWV5NGxJN09mNjJMZU5nRkk1TVVUMEdTaElBQ3FwdzRFRnFOdFd6cEJlM05BOGJmU3lPQ3ZLeXZVWjc2eDFtOGVFOFIxQlU?oc=5>
+- 场馆: 电子工程专辑
+- 时间: 2026-06-12 10:54
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxSncyWUt4S2xOUFplbUVTUDZIc0pScHBCY3RfUnBjM2ZUZGhYZXZ6TjF1dUNFRWlOd2kxcW45LUJiUzFPb2dlMTZwbTFucFk1SG1z?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-12 21:13  (3 条)
+
+- **特朗普** | 特朗普驳斥伊朗媒体公布停战协议内容“假新闻” <https://news.google.com/rss/articles/CBMi0AJBVV95cUxPWmxTOXVRVVpxVGZkZ2QtanVSckx4WEF1eDk1UjRVMWZIeGZPaDFWMG8xck54d25IMjFmRGtNWFN4V1VFZW9wbGhTV0hEc1hhVjFTeE80czduREhjUmNVU0tFbVl3Wm5nTlpPdkMwNm9fVU55WkJoQkhhNnhwUW5FbWw4ckJDaTJsM1pBN0FBUFA5V3l2X2VsX3FSSUUweURUNElveFRNQkNYVlVzVzZ2NXJNNy1PQ0d4M1RVWlhjcUZWVE42WDVDcEcwUk1XeHg5TEhMcHdJUllKYWJfWlpfcFJtdmFKdUhOLTNjbUQySGpNY0VLS2VqcmhxNHdtYlhreTZQbEYxeXNac1Utc2hJUHF2c0F3Qy0xVl9MVWRGWUJ6YjVyZUlfUld6VkhHRFhaellaUHBRTlFHeXBxcTVuWWtvT3g4dWtuVXIyZ3Q5VWI?oc=5>
+- **特朗普** | 特朗普称美伊协议进入最后定稿阶段 有望本周末签署 <https://news.google.com/rss/articles/CBMicEFVX3lxTFBreTIxZjRDNXpERjBXVDJkdmVHNzFRZThIMWhOQTRURXhNY3U1Nmw4U0NjdVJ6US1pVEMwbWZ3S2s4c1YwY1NjSUlsazFpMEpybGIxWEotQm5HM1o2aWs1REU1ejAzWnN3YW1yXzdBMUc?oc=5>
+- **特朗普** | 特朗普手机拆解后露馅了！换壳HTC 还贴上美国国旗 <https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxSncyWUt4S2xOUFplbUVTUDZIc0pScHBCY3RfUnBjM2ZUZGhYZXZ6TjF1dUNFRWlOd2kxcW45LUJiUzFPb2dlMTZwbTFucFk1SG1z?oc=5>
 
 ### 2026-06-12 19:27  (4 条)
 
