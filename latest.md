@@ -1,56 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-13 20:46**
-- 本轮扫到 3363 条, 新增 **5** 条
+- 最近更新: **2026-06-13 21:58**
+- 本轮扫到 3366 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (3 条)
 
-### 特朗普称美伊协议将在未来24小时内敲定，伊朗否认
+### 美国下架22项涉冒充“美国制造”餐具产品 扩大打击中国供应链渗透
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-06-13 21:50
+- 链接: <https://news.google.com/rss/articles/CBMiqgNBVV95cUxQd3JEYkNVblFqZ3BPQ0hfcVc1NUF4ODNianB0SU5jem8xbW8xci1XT0VkaURLUmluamgzU0pjOUd3UTJiZUNqZWg1Vnlpd3FXcnl6SjYyOElBdXFqbDhNeWpRb0p2aEVfeHFxMTdvNzN6dV9CUlJFT2JwWnRUR1pULUNKWjlncmtaVTdRT1ZxX3pocm9TMDhNM0V6S0t3VW9sZWF6NHIyZWxzbjh1WFlVSVRuR1hBUTVoSThmZXIyZHJhSzk1S1FRcjdCc0FXdjN1RUFNVmc3QlpmYnRkOEJDcjRITlRYbzVOMEM0cC1zTlpwN2dUNV80OENOcmJueF9sMkFQdk5qazk1VGFfNDUtbGJ6a3VvY3g4dVRabW5lanFzN1hENjc4am5YVGVKcVZFRzI2bzU3dm1ISVUtUmo4VVB0N1F0SlR6Y05Ua3hZVGh4YWRmZmpwdXU0UHJoZ0FCanpaVXNWemVFS1NNMkctdXNZcWpneWIwVTdCMklBYndUZHlnRUlKZlpMQU0tSlp1dnFWOGtpejlhck9rQ2lJRFJtS0tkZVBlOEE?oc=5>
+
+### 特朗普称美伊和平协议将于14日签署 伊朗尚未确认
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-06-13 21:00
+- 链接: <https://news.google.com/rss/articles/CBMi3wJBVV95cUxQQVZVeG5KQk9yUFRVUlhUajNSQ3pNMjd0cVVoQ3JDd1lVNDlkYjRBQUx5TThrVlJUUWtFX2FyWUV1MExyTzRZQk5LRVdBNVBiSWRHWXhLTEJFNEhYdDlIakYzdTFxQ2plc2dJNldCdlVhdXIzY2ZHeWpXWGNOV3F5NGk1ejQ0RUs1czl2Tlpqd3BselhsQXc2Y1Z1NkxVamU1WEhzYXNyVzNESjVVT3EycjFFNVVsUi1qOWxQVmd5eXY1YklMUHNxZG1zWGk0SDlwM2xvOWF5dWFuZl8yZm5yajQ4TGZXTkhCLVMxaTZVUmNwNzd3UkRqbjhRdE0tX09TYUZaaWdGZlNZWFEwa3ZIbUdWdWhnQzYxYVdablRVUmt5NmhqYmdYOVJPMmlEYW1nZ2pjTzNaQnREbExNX1dORGxHeWtGalJDd3IyZTlhWU1jMGJrLVE5WW5IVktsM2M?oc=5>
+
+### 特朗普将赴法国出席七国集团峰会 会晤中东伙伴
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: Sina finance
-- 时间: 2026-06-13 19:42
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE84dDdRenlDcVdzRkk2QmZpQVc5cHR4OTQ3c0RuM0JLLWRwZzlhWldNOUZGaXlvRTZnYWVQTzlPNzdpSl9KZHhYQ05GM1cyWGxPYjNfYVRwQTA4YlNER0lGYkc3cEpuYWgxZmd4cnY1cnZHRWdZWjh1dA?oc=5>
-
-### 伊朗方面披露停战协议内容 特朗普斥伊媒所报条款为“假新闻”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财新
-- 时间: 2026-06-13 06:36
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE92S0RrSHktNkg0Q1lWeXozeUJfUHE5NkV1WXI1cmpkcm1SNFg2S19vaE5hWWdTazU2ODNPTmtCRkU2YzRHYzEyREZYRUIwWGJTY2VPU3VwanBaWEJ5RkY0MVV1OXFubm1kZEE?oc=5>
-
-### 特朗普：美伊协议计划于周日签署 霍尔木兹海峡随后立即开放
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-06-13 18:41
-- 链接: <https://news.google.com/rss/articles/CBMiRkFVX3lxTE1TYUZadHJUY1dQcHpqcmhOWGxHa0YzY2hraEI3eXJQM1ZSNjA2ZlhqdG9Gd3hvNWxYVzlhdmJoTDRBZzJONHc?oc=5>
-
-### 特朗普转发巴总理有关美伊签署协议可能性的推文
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 央广网
-- 时间: 2026-06-13 15:10
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KUHljeGEtS1RvMDRQRS0zVG84Nk9RUkoyWU5SRjhpdVpqb0NqbjdOeWk4UWtaQUMwV2pNSC1fU1Nab01reTFQS1A3T3pZSnlQNU9QX3RWdmJTTHBPbjJ3T0g4M2FWR3Nh?oc=5>
-
-### 特朗普：美伊协议计划14日签署
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-06-13 17:18
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBYRERpRWhnN1RWdmRNLS1rbGw5QmZPc2FaU1ZLN1NvdzlCb1ZkcmM1aDlMN1p5WUhnNWZwQ3Uwek1tWFlOSENBYXh1T2k?oc=5>
+- 时间: 2026-06-13 16:27
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxNSFFDTi1xSmtnUzcwcVQ4T2I2b2ZtNTZ6dG9ySktQd3JxZEpSRGVvU3V4M29aOHVpb0V0ekUtYURkeklfWld0Z3FkZFM1RFpJYU1aLTdUYm55ZGlwRGlCVml1c1ZYakxDV29jeGFnemJlTkdSbGZsOUI1UzRTQldiQTlvSWVFZ2c?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-13 21:58  (3 条)
+
+- **特朗普** | 美国下架22项涉冒充“美国制造”餐具产品 扩大打击中国供应链渗透 <https://news.google.com/rss/articles/CBMiqgNBVV95cUxQd3JEYkNVblFqZ3BPQ0hfcVc1NUF4ODNianB0SU5jem8xbW8xci1XT0VkaURLUmluamgzU0pjOUd3UTJiZUNqZWg1Vnlpd3FXcnl6SjYyOElBdXFqbDhNeWpRb0p2aEVfeHFxMTdvNzN6dV9CUlJFT2JwWnRUR1pULUNKWjlncmtaVTdRT1ZxX3pocm9TMDhNM0V6S0t3VW9sZWF6NHIyZWxzbjh1WFlVSVRuR1hBUTVoSThmZXIyZHJhSzk1S1FRcjdCc0FXdjN1RUFNVmc3QlpmYnRkOEJDcjRITlRYbzVOMEM0cC1zTlpwN2dUNV80OENOcmJueF9sMkFQdk5qazk1VGFfNDUtbGJ6a3VvY3g4dVRabW5lanFzN1hENjc4am5YVGVKcVZFRzI2bzU3dm1ISVUtUmo4VVB0N1F0SlR6Y05Ua3hZVGh4YWRmZmpwdXU0UHJoZ0FCanpaVXNWemVFS1NNMkctdXNZcWpneWIwVTdCMklBYndUZHlnRUlKZlpMQU0tSlp1dnFWOGtpejlhck9rQ2lJRFJtS0tkZVBlOEE?oc=5>
+- **特朗普** | 特朗普称美伊和平协议将于14日签署 伊朗尚未确认 <https://news.google.com/rss/articles/CBMi3wJBVV95cUxQQVZVeG5KQk9yUFRVUlhUajNSQ3pNMjd0cVVoQ3JDd1lVNDlkYjRBQUx5TThrVlJUUWtFX2FyWUV1MExyTzRZQk5LRVdBNVBiSWRHWXhLTEJFNEhYdDlIakYzdTFxQ2plc2dJNldCdlVhdXIzY2ZHeWpXWGNOV3F5NGk1ejQ0RUs1czl2Tlpqd3BselhsQXc2Y1Z1NkxVamU1WEhzYXNyVzNESjVVT3EycjFFNVVsUi1qOWxQVmd5eXY1YklMUHNxZG1zWGk0SDlwM2xvOWF5dWFuZl8yZm5yajQ4TGZXTkhCLVMxaTZVUmNwNzd3UkRqbjhRdE0tX09TYUZaaWdGZlNZWFEwa3ZIbUdWdWhnQzYxYVdablRVUmt5NmhqYmdYOVJPMmlEYW1nZ2pjTzNaQnREbExNX1dORGxHeWtGalJDd3IyZTlhWU1jMGJrLVE5WW5IVktsM2M?oc=5>
+- **特朗普** | 特朗普将赴法国出席七国集团峰会 会晤中东伙伴 <https://news.google.com/rss/articles/CBMihwFBVV95cUxNSFFDTi1xSmtnUzcwcVQ4T2I2b2ZtNTZ6dG9ySktQd3JxZEpSRGVvU3V4M29aOHVpb0V0ekUtYURkeklfWld0Z3FkZFM1RFpJYU1aLTdUYm55ZGlwRGlCVml1c1ZYakxDV29jeGFnemJlTkdSbGZsOUI1UzRTQldiQTlvSWVFZ2c?oc=5>
 
 ### 2026-06-13 20:46  (5 条)
 
