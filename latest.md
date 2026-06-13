@@ -1,86 +1,62 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-13 08:21**
-- 本轮扫到 3334 条, 新增 **9** 条
+- 最近更新: **2026-06-13 10:44**
+- 本轮扫到 3339 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (9 条)
+## 本轮新发现 (5 条)
 
-### 买不到演唱会票，那就星爸爸听免费的周董吧
+### 周杰伦谈罗密欧出演新歌MV 调侃称被儿子抢走风头
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923704_m1d5ae17f803301tao6.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906pqp6.html>
 
-### 美法院驳回上诉 维持肯尼迪中心移除特朗普名字裁决
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 紫牛新闻
-- 时间: 2026-06-13 06:08
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9LaGxEV0NTSzlldFVaX3E5cS1idktjYXlDMGF2V3ZCb29ET1BuZUsxTm5zRTN2czVJbnFMWFIzSUYxN3dZMzJiMWpabmt1NGw2N1dwRmxjcU56MFFLM1VQVFFxRFdrNzRQdFE?oc=5>
-
-### 杨德龙：特朗普故伎重演实施TACO交易 中东局势缓和 全球股市应声大涨
+### 特朗普AI视频扮成忍者，日本不高兴了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-13 05:32
-- 链接: <https://news.google.com/rss/articles/CBMijwJBVV95cUxQWTlmMjgxNFp2aWVFQVd4NXNFWml3UVJsMzlQSVhmQXd4VjBjZTBMLUpVS3BtRnd2ZWMxSHdDZC1qUTFLNlktdkdWa2dHUThyUUJUZDItam1NajhDSWU4NVZVaEo0YVI1c25OUzloM3k3ZS0yaEZWZGNPSlVkMTViNjZmTFoyY3p3djFyMGZyX2hCMVBkSEtsNGotZldKeE9GUkJJempfNXNnTmI1eG5XQlQtTHdORUFPV0RKWTUyT1FlM2ZjVGp1N2kxd19zWVVJMWtzWWg3enE2Q2Y1YmVXZnc0SUdmWWM4ZmlHUi1hSnhfbFp5UzBVUEhWX1JYNG14NGVoa1NhbjFQNkhaOVVr?oc=5>
+- 时间: 2026-06-13 09:04
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE9PRHpfRVpjTFNVLXl0a1oxWEU2aEZXV0dKeW90RkRDOWt5bkhxMFNUOTNWUm5Ra3cwNU9rYU03Ym1KUGJSSTVqUnBCbVRtS2NWTkxVeGNqX1ZkSTJtSGVCVFpCcTliZkhSNXhDSFhseGJDZw?oc=5>
 
-### “特朗普卖芯片给中国，却不让英国用先进模型”-观察者网
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-06-13 07:22
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE4wMHdoNm1hTU1NR3U4QnFjZGFmR19CaFhNX2xobXl0dVdXRldjV1J3Yi1TSzhuMHdobHgtdEdmQ05RVkhOS1NYdUZ4enlTc180RkJ2QzBEakVybzRGV3k0TE1FTkxwa1FKTmc?oc=5>
-
-### 特朗普：打死了-观察者网
+### 特朗普姓名被从肯尼迪中心外墙移除
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-06-13 03:31
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5KOXBYLXpyOVNiaGVtdW9DVF9vWUM1LVRMYnRMRmtnT0lkYWxUblFVd0JmSU5ERXc3ZkRGRFFsbk9qamFfT2RnbUxFa0hhZkVsZzJRdG1hTVhpWEt0U1BQTlhKY1ZfckNPdEE?oc=5>
+- 场馆: 新京报
+- 时间: 2026-06-13 09:52
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE45UG5GalVnRnFrQ0hpYTRJT2o2dUl1NWpzZkU2ejdDLUx3VUt2d0h5bnVBVHFpdjJXUU85NnZhaWpoZ210QlRuVVdDWHpKOS1wZVgzN1VQYWFvd2JRVGxtOXY4eGk?oc=5>
 
-### 特朗普称打死委内瑞拉“阿拉瓜火车”组织头目
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-06-13 01:55
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE44T3NJcFF3RnBNMVBIZjF5SHJfTmtCQ2dYdDFhdDRIc1RjM3dqeXdsZ1Q4djUxUWhtXzRzckpiWjVCUUVHU0wtUlpqVHk5Vnk3REIzQTlKYV95TVRWck9aLXlhaTZDdFhKOS1HV3YwZG5peFh6TXJWSkxHNmgxT2s?oc=5>
-
-### 特朗普第38次声称和平协议即将达成？好消息是：华尔街又信了
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-06-12 01:22
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNWWZYajdqXzU2cUtFck5FRUdHLUZwc1RuZ29VOWp6Ui02ZnRfVmlUNFpKSmpJemlLQ3FlZUJLTTQxSThfaXktZU5fLW9SYU9lVm1XT2NBZUtuMVZad1R2cg?oc=5>
-
-### 美议员：中期选举后，特朗普将度过人生中最痛苦的两年
+### 特朗普姓名被从肯尼迪中心外墙移除
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-06-13 04:36
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE10NS1OMmxpUXRweGY4cTRDNU9tbTZkUEsya1J5V0gtaUNVMDFybXlFTFItUmN4LXhmblJJRDQyaW1KR25fVXdSWmZldTc?oc=5>
+- 时间: 2026-06-13 09:37
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE8zOUdCb0h6Q25lcmFYbGJkZ1FmZ3FXQ3BPV1pZcm4xZTI2V0xyVlVnWHZNMG5NakFEVWlzYUVKMFFuUlI1VnBTbXlFNHg?oc=5>
 
-### 美伊局势再陷“迷雾”：特朗普称有望周末签署协议，伊朗“光速否认”！
+### 特朗普AI视频在日本引发版权关切
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-06-13 00:40
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE1KVk5wU3A1d0lfeXVNd1EydkNtS2tHMjJEazNzdllBNk0zTEtvRmR1NEVGczJJMkZGUEoydjRudlEtOVptZ2hWTg?oc=5>
+- 场馆: 京报网
+- 时间: 2026-06-13 03:17
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTFBxMWVOYm1yOTRmWkQ2UUtEbHdUcWEzX1dQekRfeHQ0NlUzVG5iZlFCLXhqOWNHdG1MSzJKOU1RZkVxSkcyUVVLUTZkM1hpVVFXa3NQTVhRd2t3WjV1Znc?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-13 10:44  (5 条)
+
+- **周杰伦** | 周杰伦谈罗密欧出演新歌MV 调侃称被儿子抢走风头 <https://k.sina.com.cn/article_7857201856_1d45362c001906pqp6.html>
+- **特朗普** | 特朗普AI视频扮成忍者，日本不高兴了 <https://news.google.com/rss/articles/CBMickFVX3lxTE9PRHpfRVpjTFNVLXl0a1oxWEU2aEZXV0dKeW90RkRDOWt5bkhxMFNUOTNWUm5Ra3cwNU9rYU03Ym1KUGJSSTVqUnBCbVRtS2NWTkxVeGNqX1ZkSTJtSGVCVFpCcTliZkhSNXhDSFhseGJDZw?oc=5>
+- **特朗普** | 特朗普姓名被从肯尼迪中心外墙移除 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE45UG5GalVnRnFrQ0hpYTRJT2o2dUl1NWpzZkU2ejdDLUx3VUt2d0h5bnVBVHFpdjJXUU85NnZhaWpoZ210QlRuVVdDWHpKOS1wZVgzN1VQYWFvd2JRVGxtOXY4eGk?oc=5>
+- **特朗普** | 特朗普姓名被从肯尼迪中心外墙移除 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE8zOUdCb0h6Q25lcmFYbGJkZ1FmZ3FXQ3BPV1pZcm4xZTI2V0xyVlVnWHZNMG5NakFEVWlzYUVKMFFuUlI1VnBTbXlFNHg?oc=5>
+- **特朗普** | 特朗普AI视频在日本引发版权关切 <https://news.google.com/rss/articles/CBMiXkFVX3lxTFBxMWVOYm1yOTRmWkQ2UUtEbHdUcWEzX1dQekRfeHQ0NlUzVG5iZlFCLXhqOWNHdG1MSzJKOU1RZkVxSkcyUVVLUTZkM1hpVVFXa3NQTVhRd2t3WjV1Znc?oc=5>
 
 ### 2026-06-13 08:21  (9 条)
 
