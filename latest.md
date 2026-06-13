@@ -1,48 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-13 19:15**
-- 本轮扫到 3358 条, 新增 **4** 条
+- 最近更新: **2026-06-13 20:46**
+- 本轮扫到 3363 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (5 条)
 
-### 憋一个月不敢说，特朗普自爆绝密任务瞒过伊朗，真相却狠狠打脸
+### 特朗普称美伊协议将在未来24小时内敲定，伊朗否认
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: Sina finance
-- 时间: 2026-06-13 16:00
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE5HQjZ4UFRYeFdMLVFQOGJ3Y0pBR1Z3TmtyVXJ3NHJZMzEzdXYzSTd2VHU5TXBXeG9ZYmdVVFpsazgxaEc3Um5lbnQxN1ZISHZiM2lQNnBYVDh2NkdIQ2pKTWVRWU1LN1BQYTgxWVQ5SWIxLU9hVkE?oc=5>
+- 时间: 2026-06-13 19:42
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE84dDdRenlDcVdzRkk2QmZpQVc5cHR4OTQ3c0RuM0JLLWRwZzlhWldNOUZGaXlvRTZnYWVQTzlPNzdpSl9KZHhYQ05GM1cyWGxPYjNfYVRwQTA4YlNER0lGYkc3cEpuYWgxZmd4cnY1cnZHRWdZWjh1dA?oc=5>
 
-### 特朗普：美伊定于14日签署协议
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-06-13 18:31
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBITEJRZUZoYkpkUHJUUlF4anl1UmhJTEZ4ZzZBdDVJYmJ6d2hUZmdxa3FJTVNXdFlDbFpPbUhDdlVqUFNUUTNJRktYbFBaMmpnWXY5dERjVl9vWEdGdGhXSlltWXVVQlBxUDZMcW5DVFVZS04xY2tRXzlPcHZaTkk?oc=5>
-
-### 特朗普发AI视频，日本不满
+### 伊朗方面披露停战协议内容 特朗普斥伊媒所报条款为“假新闻”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 京报网
-- 时间: 2026-06-13 13:58
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE9XWmFxY0d0Z0ZKV3pCRlBVODNmQlZ4WTBKUzR5YjRIRHViSlkxSEN4Vmltb0dmcWliUDNIbTI5bDhzcjlsQkdMWV93eDJlTXNBYzF1c1o0b0pXZk1YdFE?oc=5>
+- 场馆: 财新
+- 时间: 2026-06-13 06:36
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE92S0RrSHktNkg0Q1lWeXozeUJfUHE5NkV1WXI1cmpkcm1SNFg2S19vaE5hWWdTazU2ODNPTmtCRkU2YzRHYzEyREZYRUIwWGJTY2VPU3VwanBaWEJ5RkY0MVV1OXFubm1kZEE?oc=5>
 
-### “美军曾计划抢伊朗浓缩铀，被特朗普叫停”-观察者网
+### 特朗普：美伊协议计划于周日签署 霍尔木兹海峡随后立即开放
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-06-13 10:18
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE8yaG40UlEyZ3QwUHpjR1NiVVpnZWVPR21wb09IN1RDTVlseUlhSlBLU1ZNN3VNRHVrb2hNQ0otUGxsMXY0TlVwUW9zdWVQSUZXV2tGR1BMQUI4dHNQeUFDd2ZtQ0VCU0Q5bmc?oc=5>
+- 场馆: 财联社
+- 时间: 2026-06-13 18:41
+- 链接: <https://news.google.com/rss/articles/CBMiRkFVX3lxTE1TYUZadHJUY1dQcHpqcmhOWGxHa0YzY2hraEI3eXJQM1ZSNjA2ZlhqdG9Gd3hvNWxYVzlhdmJoTDRBZzJONHc?oc=5>
+
+### 特朗普转发巴总理有关美伊签署协议可能性的推文
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 央广网
+- 时间: 2026-06-13 15:10
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KUHljeGEtS1RvMDRQRS0zVG84Nk9RUkoyWU5SRjhpdVpqb0NqbjdOeWk4UWtaQUMwV2pNSC1fU1Nab01reTFQS1A3T3pZSnlQNU9QX3RWdmJTTHBPbjJ3T0g4M2FWR3Nh?oc=5>
+
+### 特朗普：美伊协议计划14日签署
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-06-13 17:18
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBYRERpRWhnN1RWdmRNLS1rbGw5QmZPc2FaU1ZLN1NvdzlCb1ZkcmM1aDlMN1p5WUhnNWZwQ3Uwek1tWFlOSENBYXh1T2k?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-13 20:46  (5 条)
+
+- **特朗普** | 特朗普称美伊协议将在未来24小时内敲定，伊朗否认 <https://news.google.com/rss/articles/CBMieEFVX3lxTE84dDdRenlDcVdzRkk2QmZpQVc5cHR4OTQ3c0RuM0JLLWRwZzlhWldNOUZGaXlvRTZnYWVQTzlPNzdpSl9KZHhYQ05GM1cyWGxPYjNfYVRwQTA4YlNER0lGYkc3cEpuYWgxZmd4cnY1cnZHRWdZWjh1dA?oc=5>
+- **特朗普** | 伊朗方面披露停战协议内容 特朗普斥伊媒所报条款为“假新闻” <https://news.google.com/rss/articles/CBMiakFVX3lxTE92S0RrSHktNkg0Q1lWeXozeUJfUHE5NkV1WXI1cmpkcm1SNFg2S19vaE5hWWdTazU2ODNPTmtCRkU2YzRHYzEyREZYRUIwWGJTY2VPU3VwanBaWEJ5RkY0MVV1OXFubm1kZEE?oc=5>
+- **特朗普** | 特朗普：美伊协议计划于周日签署 霍尔木兹海峡随后立即开放 <https://news.google.com/rss/articles/CBMiRkFVX3lxTE1TYUZadHJUY1dQcHpqcmhOWGxHa0YzY2hraEI3eXJQM1ZSNjA2ZlhqdG9Gd3hvNWxYVzlhdmJoTDRBZzJONHc?oc=5>
+- **特朗普** | 特朗普转发巴总理有关美伊签署协议可能性的推文 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KUHljeGEtS1RvMDRQRS0zVG84Nk9RUkoyWU5SRjhpdVpqb0NqbjdOeWk4UWtaQUMwV2pNSC1fU1Nab01reTFQS1A3T3pZSnlQNU9QX3RWdmJTTHBPbjJ3T0g4M2FWR3Nh?oc=5>
+- **特朗普** | 特朗普：美伊协议计划14日签署 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBYRERpRWhnN1RWdmRNLS1rbGw5QmZPc2FaU1ZLN1NvdzlCb1ZkcmM1aDlMN1p5WUhnNWZwQ3Uwek1tWFlOSENBYXh1T2k?oc=5>
 
 ### 2026-06-13 19:15  (4 条)
 
