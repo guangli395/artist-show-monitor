@@ -1,40 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-13 17:51**
-- 本轮扫到 3354 条, 新增 **3** 条
+- 最近更新: **2026-06-13 19:15**
+- 本轮扫到 3358 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (4 条)
 
-### 特朗普将赴法国出席七国集团峰会 会晤中东伙伴
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-13 16:42
-- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQnl5bkx6VnFHUzZLblVoQUpNYVZITEh0U1FDZlVGT3h5WDFtYW5ib0RGWTlDMHlXVlkybkM2SVVrZUliTzJuVzdlSi1OVUE1RFNLdUZ5VjNzZi1yREwtQWhiSUtSS2ZhTEhxRHFLcnRfenZVN01mMEhKaVh4cnVQcml1V2ZPUVBxTzBqYUhOckwxTTJya051d0tQN0VDZG45SXJyN25UeDl2dw?oc=5>
-
-### 肯尼迪中心向美国法官表示，所有提及特朗普的内容已从其建筑及网站上删除。
+### 憋一个月不敢说，特朗普自爆绝密任务瞒过伊朗，真相却狠狠打脸
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-13 15:56
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE45ZktaczIxZE1NdzljWHdLRkx4MElQM1dnbFA0ZUlMSHFISzllS0hxdThzZmlSaVluUjgzOS12UU02UXRub2xtYW0zY205bVVlTTUyTWJmaFFiT1FzLS03TmFkOHJLY1RRNjBCd19TOFlnNzdNSm5EOQ?oc=5>
+- 场馆: Sina finance
+- 时间: 2026-06-13 16:00
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE5HQjZ4UFRYeFdMLVFQOGJ3Y0pBR1Z3TmtyVXJ3NHJZMzEzdXYzSTd2VHU5TXBXeG9ZYmdVVFpsazgxaEc3Um5lbnQxN1ZISHZiM2lQNnBYVDh2NkdIQ2pKTWVRWU1LN1BQYTgxWVQ5SWIxLU9hVkE?oc=5>
 
-### 特朗普将赴法国出席七国集团峰会 会晤中东伙伴
+### 特朗普：美伊定于14日签署协议
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-13 17:06
-- 链接: <https://news.google.com/rss/articles/CBMiowJBVV95cUxPamdmc21LRGNPWW1VYjZ3QlE2ZHdoTHZzLWVxQVZuRHFLQk1QNjBJREE0cG9iU2pHYjhsOGNyVWQ0cFkxaGtndElGWDNZa3RELURLYWlvektyVGpIZGtGVDlfeklzQ1RVSzJqODBOVkFuTk1rODVLUThHdUhyV2JIbVdwYm5BWXYzd0kzNFFZVFJteHRsVEtmZlMzRlhraTNrdXBfUlE2dVVDTEhuTDBkQks3bkZyRzd3MGlCX2RWRk55Z3JpcjQ2eEJUb29NQmRnRF81QTAxV3RHSVdqVThDLVZSdjlvZ0w5RmV5SnNjMkVTREdjVHVTZXVsSHp4RGJUUFhBRXdvQ2Ftd2dqTXpIVmQyMm1zT29IMWtrWXlDNjc2QjQ?oc=5>
+- 场馆: 新华网
+- 时间: 2026-06-13 18:31
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBITEJRZUZoYkpkUHJUUlF4anl1UmhJTEZ4ZzZBdDVJYmJ6d2hUZmdxa3FJTVNXdFlDbFpPbUhDdlVqUFNUUTNJRktYbFBaMmpnWXY5dERjVl9vWEdGdGhXSlltWXVVQlBxUDZMcW5DVFVZS04xY2tRXzlPcHZaTkk?oc=5>
+
+### 特朗普发AI视频，日本不满
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 京报网
+- 时间: 2026-06-13 13:58
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE9XWmFxY0d0Z0ZKV3pCRlBVODNmQlZ4WTBKUzR5YjRIRHViSlkxSEN4Vmltb0dmcWliUDNIbTI5bDhzcjlsQkdMWV93eDJlTXNBYzF1c1o0b0pXZk1YdFE?oc=5>
+
+### “美军曾计划抢伊朗浓缩铀，被特朗普叫停”-观察者网
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-06-13 10:18
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE8yaG40UlEyZ3QwUHpjR1NiVVpnZWVPR21wb09IN1RDTVlseUlhSlBLU1ZNN3VNRHVrb2hNQ0otUGxsMXY0TlVwUW9zdWVQSUZXV2tGR1BMQUI4dHNQeUFDd2ZtQ0VCU0Q5bmc?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-13 19:15  (4 条)
+
+- **特朗普** | 憋一个月不敢说，特朗普自爆绝密任务瞒过伊朗，真相却狠狠打脸 <https://news.google.com/rss/articles/CBMidkFVX3lxTE5HQjZ4UFRYeFdMLVFQOGJ3Y0pBR1Z3TmtyVXJ3NHJZMzEzdXYzSTd2VHU5TXBXeG9ZYmdVVFpsazgxaEc3Um5lbnQxN1ZISHZiM2lQNnBYVDh2NkdIQ2pKTWVRWU1LN1BQYTgxWVQ5SWIxLU9hVkE?oc=5>
+- **特朗普** | 特朗普：美伊定于14日签署协议 <https://news.google.com/rss/articles/CBMif0FVX3lxTFBITEJRZUZoYkpkUHJUUlF4anl1UmhJTEZ4ZzZBdDVJYmJ6d2hUZmdxa3FJTVNXdFlDbFpPbUhDdlVqUFNUUTNJRktYbFBaMmpnWXY5dERjVl9vWEdGdGhXSlltWXVVQlBxUDZMcW5DVFVZS04xY2tRXzlPcHZaTkk?oc=5>
+- **特朗普** | 特朗普发AI视频，日本不满 <https://news.google.com/rss/articles/CBMiXkFVX3lxTE9XWmFxY0d0Z0ZKV3pCRlBVODNmQlZ4WTBKUzR5YjRIRHViSlkxSEN4Vmltb0dmcWliUDNIbTI5bDhzcjlsQkdMWV93eDJlTXNBYzF1c1o0b0pXZk1YdFE?oc=5>
+- **特朗普** | “美军曾计划抢伊朗浓缩铀，被特朗普叫停”-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE8yaG40UlEyZ3QwUHpjR1NiVVpnZWVPR21wb09IN1RDTVlseUlhSlBLU1ZNN3VNRHVrb2hNQ0otUGxsMXY0TlVwUW9zdWVQSUZXV2tGR1BMQUI4dHNQeUFDd2ZtQ0VCU0Q5bmc?oc=5>
 
 ### 2026-06-13 17:51  (3 条)
 
