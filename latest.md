@@ -1,32 +1,114 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-13 00:15**
-- 本轮扫到 3314 条, 新增 **2** 条
+- 最近更新: **2026-06-13 04:58**
+- 本轮扫到 3325 条, 新增 **11** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (11 条)
 
-### 危巢之下，特朗普将舍命豪赌
+### 新浪演唱会热点小时报丨2026年06月13日10时_今日实时演唱会热点速递
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906oys0.html>
+
+### 新浪演唱会热点小时报丨2026年06月13日09时_今日实时演唱会热点速递
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906ovmq.html>
+
+### 特朗普：尼尼奥·格雷罗被打死
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-06-12 23:14
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFAzQUJ2cGJuekV0dG5WT09NMU1SVkVUVEV3ZjdKeUhVMkVIbllFeFFEZTVwdjdlTDR4UzV6MW9mZU1seWNzZXZXbDRleGthRF92TVVyaWZVRzV1RXpwZjUwdllwZnU3aTlqeXc?oc=5>
+- 场馆: 新浪军事
+- 时间: 2026-06-13 03:08
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFBrRHpwQ2RwVVlDcFRjczU0SkQtMkFpakxuQ0lKUTFnWHRBQlVUTldrNXBmU3FJT0lxb3prRmtWODhJbEZueGVVWDhSR1JtRTdzMm1pWm9XcFZuWVFpSUp1Nk9sN1hDY1RCaHA2by1ZT1J1bHM?oc=5>
 
-### 特朗普政府禁止境外主体获取 Anthropic 旗下最强人工智能模型
+### 杨德龙：特朗普故伎重演实施TACO交易 中东局势缓和 全球股市应声大涨
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: video.sina.com.cn
-- 时间: 2026-06-12 23:54
-- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxOWGJVTWVEZGpEZU40azA4SEFVbkUybzIwU3BrTWl6VEJDbWYwYjJscEI1U250aEpFNHpBVEdEdUdVbGs5R3dWVmk2bXJCQktjQ2RSZkpKMmdQa2FFZjd0RU5nN0Z1M0k2ZlBBRTcyb3l3M3hHNWROMmlaM0ZIOWtmbHRn?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-06-13 04:41
+- 链接: <https://news.google.com/rss/articles/CBMiiwJBVV95cUxPZWFLVTRmb0VmWkdMb1JDNlBUM3dyNHBQTHM4Ql9lYWJuemx4WlU5ZWpOTmZ3RTNXNkduNEpSd3hnMWpUaEJZRWRtOGU0NHZ3Yl9ndGlxeVF2SVJGcmlHa1YyeDkxY0ZsZHpvMGtBNWF5Z2NWV2MxVWY2b3hoUEt4NmtwbTdHbDVfRmczMU9wTURWU0pta1ptdHhSRDhOSWk4WFI3RWlURHY4Z0hwUE5wZERoQWRWUUxQQ0oyVUdZR0h2UWVjT0dwUE5QYjRnMWc3REdLaklmbFc1MmxTUTQwZzVDUDk3SU9YaEJlT3lTOGx3aWd3eEF0SFlZaXpHWktrcU50YVZxUWtOWlk?oc=5>
+
+### 在该担责时躲进“程序限制” ，特朗普政府起诉关税退税令
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-06-13 04:27
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE4wQ3dFWndZMjJ4OS0yRElUM0g5QldTb3pwaTlRVXM2a0I4MnJBOVMyMHFWb3hzWVQyM1FaZVU1Rzdhc3E0TncxTHVWaF9GWDNxUkRYWEV3ZHNmNWdsampVOHFhZ29OQ0FJZDYzZld6MWZxcmluZ2pBQg?oc=5>
+
+### 特朗普推动国会清除其两次弹劾记录
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-06-13 01:32
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ucFBoQXQ1a2ZON2xEUTRyVnc1LTJVbVdRZjlSVm1vN3ludll6OVJGOWVFRUFab0NXSDdZWkh2dEhFZVdPQk5tRDZYUDI?oc=5>
+
+### 国家广场现疑似反特朗普数字 美公园警察展开调查
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-06-12 00:24
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9wNFk5UTloY3ZkTjMyM1UzRGVYdnBmekVrYkFlSl9FUG9JMldzZGVEYkl6ODVQaTZLNFVkdWh2WkNUVTdid1BoYmc0bFZiYTFLRmhGbzZ0ZllBWEZLMlRFVGFZMG9tZw?oc=5>
+
+### 特朗普称伊媒发布的美伊协议草案与事实不符
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 央广网
+- 时间: 2026-06-12 14:53
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UVllERjV0OTZ6eklNYmVCOUpvdVp0OURtZktVRXZKendyUjRTRWlUOHl6RW1JZ0R3MkRQTTZkWWNSTVo4UVdESU1uai1lclRkLXlEOVM2d1ZDX2QzZTNQb1RVYTFoNVdv?oc=5>
+
+### 特朗普称美军打死委内瑞拉黑帮“阿拉瓜火车”头目
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: chinanews.com.cn
+- 时间: 2026-06-13 02:21
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNV1hfb0JuemJIUTd5c3g1cURwdk9HMkhMR2x5c0Itd05FVjhKeVlsbmdkd3VScHV3VVR0T2htYS1RMWNMOHVZSG9ieXd2THVpUy1qUjcxbnV5X21ZYWg3Q1NDXy03d3hX?oc=5>
+
+### 吴说每日精选加密新闻 - Donald Trump：已取消原定对伊朗的军事打击，等待最终协议签署
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-06-12 14:17
+- 链接: <https://news.google.com/rss/articles/CBMihAFBVV95cUxNVlZvdTBVdUxVdklUUjlfYmsxSDhRNE5SRnF3OVVWVWE5bjdvQ3NPTGxFbzRTWkdfOXhpSTV5ZXpaZnVOdmtOOGlXdHJVTHZKa2FvV2NabldYOEp5OVQ2RnIzbFBtMTUyb0IyeXJEbTh0ZXVvM2FybFR2eTB2d0xZdTU0b3I?oc=5>
+
+### Nasdaq Falls; Trump Says More Attacks Coming on Iran -- WSJ
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-06-10 16:19
+- 链接: <https://news.google.com/rss/articles/CBMipAFBVV95cUxOMFg0eVB5ejRGVTFQYUt3M3hrQnA1Mlk3VUFjZzRmc3NjbWFaeTE0b251dFU0U09sVkJvc1pZM2FyOHhxSlUzY21WeDU4VExKVkVRenRzQ0FwQ3ZfS2RFRU4zWlZtVlF2UW83SmtURERsbGxsdW1jR055aThOa3NnNGtrbHZUMmZqYVBZdXJPM25rZkVVS1Ywd1VFSU9IcTlLalRNYw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-13 04:58  (11 条)
+
+- **周杰伦** | 新浪演唱会热点小时报丨2026年06月13日10时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001906oys0.html>
+- **周杰伦** | 新浪演唱会热点小时报丨2026年06月13日09时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001906ovmq.html>
+- **特朗普** | 特朗普：尼尼奥·格雷罗被打死 <https://news.google.com/rss/articles/CBMic0FVX3lxTFBrRHpwQ2RwVVlDcFRjczU0SkQtMkFpakxuQ0lKUTFnWHRBQlVUTldrNXBmU3FJT0lxb3prRmtWODhJbEZueGVVWDhSR1JtRTdzMm1pWm9XcFZuWVFpSUp1Nk9sN1hDY1RCaHA2by1ZT1J1bHM?oc=5>
+- **特朗普** | 杨德龙：特朗普故伎重演实施TACO交易 中东局势缓和 全球股市应声大涨 <https://news.google.com/rss/articles/CBMiiwJBVV95cUxPZWFLVTRmb0VmWkdMb1JDNlBUM3dyNHBQTHM4Ql9lYWJuemx4WlU5ZWpOTmZ3RTNXNkduNEpSd3hnMWpUaEJZRWRtOGU0NHZ3Yl9ndGlxeVF2SVJGcmlHa1YyeDkxY0ZsZHpvMGtBNWF5Z2NWV2MxVWY2b3hoUEt4NmtwbTdHbDVfRmczMU9wTURWU0pta1ptdHhSRDhOSWk4WFI3RWlURHY4Z0hwUE5wZERoQWRWUUxQQ0oyVUdZR0h2UWVjT0dwUE5QYjRnMWc3REdLaklmbFc1MmxTUTQwZzVDUDk3SU9YaEJlT3lTOGx3aWd3eEF0SFlZaXpHWktrcU50YVZxUWtOWlk?oc=5>
+- **特朗普** | 在该担责时躲进“程序限制” ，特朗普政府起诉关税退税令 <https://news.google.com/rss/articles/CBMieEFVX3lxTE4wQ3dFWndZMjJ4OS0yRElUM0g5QldTb3pwaTlRVXM2a0I4MnJBOVMyMHFWb3hzWVQyM1FaZVU1Rzdhc3E0TncxTHVWaF9GWDNxUkRYWEV3ZHNmNWdsampVOHFhZ29OQ0FJZDYzZld6MWZxcmluZ2pBQg?oc=5>
+- **特朗普** | 特朗普推动国会清除其两次弹劾记录 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ucFBoQXQ1a2ZON2xEUTRyVnc1LTJVbVdRZjlSVm1vN3ludll6OVJGOWVFRUFab0NXSDdZWkh2dEhFZVdPQk5tRDZYUDI?oc=5>
+- **特朗普** | 国家广场现疑似反特朗普数字 美公园警察展开调查 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9wNFk5UTloY3ZkTjMyM1UzRGVYdnBmekVrYkFlSl9FUG9JMldzZGVEYkl6ODVQaTZLNFVkdWh2WkNUVTdid1BoYmc0bFZiYTFLRmhGbzZ0ZllBWEZLMlRFVGFZMG9tZw?oc=5>
+- **特朗普** | 特朗普称伊媒发布的美伊协议草案与事实不符 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UVllERjV0OTZ6eklNYmVCOUpvdVp0OURtZktVRXZKendyUjRTRWlUOHl6RW1JZ0R3MkRQTTZkWWNSTVo4UVdESU1uai1lclRkLXlEOVM2d1ZDX2QzZTNQb1RVYTFoNVdv?oc=5>
+- **特朗普** | 特朗普称美军打死委内瑞拉黑帮“阿拉瓜火车”头目 <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNV1hfb0JuemJIUTd5c3g1cURwdk9HMkhMR2x5c0Itd05FVjhKeVlsbmdkd3VScHV3VVR0T2htYS1RMWNMOHVZSG9ieXd2THVpUy1qUjcxbnV5X21ZYWg3Q1NDXy03d3hX?oc=5>
+- **Trump** | 吴说每日精选加密新闻 - Donald Trump：已取消原定对伊朗的军事打击，等待最终协议签署 <https://news.google.com/rss/articles/CBMihAFBVV95cUxNVlZvdTBVdUxVdklUUjlfYmsxSDhRNE5SRnF3OVVWVWE5bjdvQ3NPTGxFbzRTWkdfOXhpSTV5ZXpaZnVOdmtOOGlXdHJVTHZKa2FvV2NabldYOEp5OVQ2RnIzbFBtMTUyb0IyeXJEbTh0ZXVvM2FybFR2eTB2d0xZdTU0b3I?oc=5>
+- **Trump** | Nasdaq Falls; Trump Says More Attacks Coming on Iran -- WSJ <https://news.google.com/rss/articles/CBMipAFBVV95cUxOMFg0eVB5ejRGVTFQYUt3M3hrQnA1Mlk3VUFjZzRmc3NjbWFaeTE0b251dFU0U09sVkJvc1pZM2FyOHhxSlUzY21WeDU4VExKVkVRenRzQ0FwQ3ZfS2RFRU4zWlZtVlF2UW83SmtURERsbGxsdW1jR055aThOa3NnNGtrbHZUMmZqYVBZdXJPM25rZkVVS1Ywd1VFSU9IcTlLalRNYw?oc=5>
 
 ### 2026-06-13 00:15  (2 条)
 
