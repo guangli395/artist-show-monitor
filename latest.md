@@ -1,54 +1,53 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-13 10:44**
-- 本轮扫到 3339 条, 新增 **5** 条
+- 最近更新: **2026-06-13 12:21**
+- 本轮扫到 3343 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (4 条)
 
-### 周杰伦谈罗密欧出演新歌MV 调侃称被儿子抢走风头
+### 台胞说看周杰伦演唱会我们一样嗨
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906pqp6.html>
+- 链接: <https://video.sina.com.cn/p/finance/2026-06-13/detail-inichham2720700.d.html>
 
-### 特朗普AI视频扮成忍者，日本不高兴了
+### 美法院驳回上诉 维持肯尼迪中心移除特朗普名字裁决
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-06-13 10:59
+- 链接: <https://news.google.com/rss/articles/CBMihgFBVV95cUxQcUlIT2xaQTRqSGpnR2M3QlZVYXREQWJnVGNHY2djeXJVdThNdWcwZ1B6Ym1kNVE0RjRuLXZnUVhQZ21yanpUWnJPeTBKdnpsTXVUd1lIWkNST3E0NWtrQ2I0YmFLRkxXU3hQRUdiM1lFWE1RQUJVX0xFS3hnVEd0MDMzeVY5dw?oc=5>
+
+### 特朗普AI扮忍者，日本不高兴了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-13 09:04
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE9PRHpfRVpjTFNVLXl0a1oxWEU2aEZXV0dKeW90RkRDOWt5bkhxMFNUOTNWUm5Ra3cwNU9rYU03Ym1KUGJSSTVqUnBCbVRtS2NWTkxVeGNqX1ZkSTJtSGVCVFpCcTliZkhSNXhDSFhseGJDZw?oc=5>
+- 时间: 2026-06-13 12:00
+- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE9iYm91OXJrUDFNdVhJVzNZc2RFVHMwWlEtbEZ0ZGw1RTMzY3FEb0o1SlJfcExLRW5yWEpKWHQxUkg1VjV6ZHZzUlRKWURSUUg3QzBCbFlNS09ULW9hMFEzMmY5UzBkRWxmaXl4MWxlamg4WmVCQnFSVzJvTjVyUQ?oc=5>
 
-### 特朗普姓名被从肯尼迪中心外墙移除
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-06-13 09:52
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE45UG5GalVnRnFrQ0hpYTRJT2o2dUl1NWpzZkU2ejdDLUx3VUt2d0h5bnVBVHFpdjJXUU85NnZhaWpoZ210QlRuVVdDWHpKOS1wZVgzN1VQYWFvd2JRVGxtOXY4eGk?oc=5>
-
-### 特朗普姓名被从肯尼迪中心外墙移除
+### 美国队世界杯首战卢比奥盖茨等观战 特朗普缺席引关注
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-06-13 09:37
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE8zOUdCb0h6Q25lcmFYbGJkZ1FmZ3FXQ3BPV1pZcm4xZTI2V0xyVlVnWHZNMG5NakFEVWlzYUVKMFFuUlI1VnBTbXlFNHg?oc=5>
-
-### 特朗普AI视频在日本引发版权关切
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 京报网
-- 时间: 2026-06-13 03:17
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTFBxMWVOYm1yOTRmWkQ2UUtEbHdUcWEzX1dQekRfeHQ0NlUzVG5iZlFCLXhqOWNHdG1MSzJKOU1RZkVxSkcyUVVLUTZkM1hpVVFXa3NQTVhRd2t3WjV1Znc?oc=5>
+- 场馆: 中华网
+- 时间: 2026-06-13 05:28
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFAtSzNzejFScktYQ2R2SWhoTWQwaklQdTZJeEg1TG5yN2NFcnBla2prS29DN0pFY2R4MkFHLS1Lc1FDNVBhMnVQNXZQbmM1TE1GRHg2cnc0MU9ZRUxsSEJNX0JiNjdkeHZIQmZua2R3UFU?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-13 12:21  (4 条)
+
+- **周杰伦** | 台胞说看周杰伦演唱会我们一样嗨 <https://video.sina.com.cn/p/finance/2026-06-13/detail-inichham2720700.d.html>
+- **特朗普** | 美法院驳回上诉 维持肯尼迪中心移除特朗普名字裁决 <https://news.google.com/rss/articles/CBMihgFBVV95cUxQcUlIT2xaQTRqSGpnR2M3QlZVYXREQWJnVGNHY2djeXJVdThNdWcwZ1B6Ym1kNVE0RjRuLXZnUVhQZ21yanpUWnJPeTBKdnpsTXVUd1lIWkNST3E0NWtrQ2I0YmFLRkxXU3hQRUdiM1lFWE1RQUJVX0xFS3hnVEd0MDMzeVY5dw?oc=5>
+- **特朗普** | 特朗普AI扮忍者，日本不高兴了 <https://news.google.com/rss/articles/CBMifkFVX3lxTE9iYm91OXJrUDFNdVhJVzNZc2RFVHMwWlEtbEZ0ZGw1RTMzY3FEb0o1SlJfcExLRW5yWEpKWHQxUkg1VjV6ZHZzUlRKWURSUUg3QzBCbFlNS09ULW9hMFEzMmY5UzBkRWxmaXl4MWxlamg4WmVCQnFSVzJvTjVyUQ?oc=5>
+- **特朗普** | 美国队世界杯首战卢比奥盖茨等观战 特朗普缺席引关注 <https://news.google.com/rss/articles/CBMicEFVX3lxTFAtSzNzejFScktYQ2R2SWhoTWQwaklQdTZJeEg1TG5yN2NFcnBla2prS29DN0pFY2R4MkFHLS1Lc1FDNVBhMnVQNXZQbmM1TE1GRHg2cnc0MU9ZRUxsSEJNX0JiNjdkeHZIQmZua2R3UFU?oc=5>
 
 ### 2026-06-13 10:44  (5 条)
 
