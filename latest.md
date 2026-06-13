@@ -1,54 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-13 14:35**
-- 本轮扫到 3348 条, 新增 **5** 条
+- 最近更新: **2026-06-13 16:10**
+- 本轮扫到 3351 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (3 条)
 
-### 周杰伦南宁演唱会圆满收官歌声落幕温情不散歌迷夹道欢送
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906q2rw.html>
-
-### 日漫迷气炸：啊啊啊，特朗普你不配-观察者网
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-06-11 02:57
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBOUHBQN0JLTmVvdjhLYjBxRDM4cDE5LWtLWjYzVzVKb3lueDN4ZGRtc0ZfdThUR2xxc3JSRkQwb1lYV1MtZUNCUFNZTHpFRC0wTU9xbTRjWlNiZ1hWRDNiS0pUYUJzekxfb2c?oc=5>
-
-### 特朗普名字，被肯尼迪中心移除
+### 美军被曝制订抢夺伊朗浓缩铀计划，因这类行动可能“招致伊方强烈报复”，特朗普未批准
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: Sina finance
-- 时间: 2026-06-13 12:10
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTFBQaE1IUkEtZVVOUWRkNUhVYXZlOHBxTS0wSy04c3dVVFp1ZkwwSkphVjVrS08zTXgyQ2s0czJ2R0tYY3JpaW8yN0sxaW5Rbk83cE1ORE1hdGozRTBleWJ4Y3lVVE12SnVLWVlRUEwzWlJBbk9hQUE?oc=5>
+- 时间: 2026-06-13 15:16
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE8yTThpMEpLbDBSRUgyekpvck1TWWpwUlBuOTlwR2FuSmFuYWZ3bFpGVFYtWlpGY3dKUkZxOWxOZVA4MEdrTERIX2x1akM4UkRxb3Q5Q1JnNTdLZVJ0VWJZZU0wTXRTNXp5RkgzMGNYM0VXUnpUVVJMQg?oc=5>
+
+### 特朗普致电美国男足 世界杯首战前打气
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-06-12 22:52
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE9lUFNJUVByRmJfRGYxNlhxQ2FEN1hjUDFrbGdMLVZReE1SOEVhaHoyOG5heWpfYVVaWWhPaE1fSkpnc09kRWZ4cDc3SXZOV3piamlGTzQxSjg1VVJZVmhic085eTA1dVFZSUcw?oc=5>
 
 ### 突发：特朗普被“除名”！“美伊协议将在24小时内敲定”！利好这些板块→
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Sina finance
-- 时间: 2026-06-13 13:06
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1RSEs2ZXU0S3NHUWVwV3hwaUgyUzlVLThPSHdWaDBMSDQ5aVhlWmI3VUM2ZjF4alZibWJ5cXFTcTFyemt4Mm5VbzBya3doUm9TTkkwbVJ2NXVQRHdtQ0hBOTFQb2ZVNnM4Q013cXI3a0pXWlNsdHp4Qw?oc=5>
-
-### 美法院驳回上诉 维持肯尼迪中心移除特朗普名字裁决
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-06-13 06:15
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1TRmIzVGdiUnVWQ3JHUENBanhtdGlMc19jNWM2cDNzVG9SLWgwT2xIMVc5SmlkeTFVQ0lyOW15cXFUci1jaDBEUXM1WkkyWWZNc25YeE1vWFRzQWZrSlpQMWdxeC0?oc=5>
+- 场馆: 证券时报
+- 时间: 2026-06-13 12:55
+- 链接: <https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KQUgyb3VPQUs0QVR2OXZLRFRhSGFOZ09ZQ2VITlB3U3k0UWZhNjBWVWtkdV9NMU1BbmkyOUlnZ2ZOcHBTUldESkxKNEM4ekdCa1pvWFhkSjEzdDEy?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-13 16:10  (3 条)
+
+- **特朗普** | 美军被曝制订抢夺伊朗浓缩铀计划，因这类行动可能“招致伊方强烈报复”，特朗普未批准 <https://news.google.com/rss/articles/CBMieEFVX3lxTE8yTThpMEpLbDBSRUgyekpvck1TWWpwUlBuOTlwR2FuSmFuYWZ3bFpGVFYtWlpGY3dKUkZxOWxOZVA4MEdrTERIX2x1akM4UkRxb3Q5Q1JnNTdLZVJ0VWJZZU0wTXRTNXp5RkgzMGNYM0VXUnpUVVJMQg?oc=5>
+- **特朗普** | 特朗普致电美国男足 世界杯首战前打气 <https://news.google.com/rss/articles/CBMia0FVX3lxTE9lUFNJUVByRmJfRGYxNlhxQ2FEN1hjUDFrbGdMLVZReE1SOEVhaHoyOG5heWpfYVVaWWhPaE1fSkpnc09kRWZ4cDc3SXZOV3piamlGTzQxSjg1VVJZVmhic085eTA1dVFZSUcw?oc=5>
+- **特朗普** | 突发：特朗普被“除名”！“美伊协议将在24小时内敲定”！利好这些板块→ <https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KQUgyb3VPQUs0QVR2OXZLRFRhSGFOZ09ZQ2VITlB3U3k0UWZhNjBWVWtkdV9NMU1BbmkyOUlnZ2ZOcHBTUldESkxKNEM4ekdCa1pvWFhkSjEzdDEy?oc=5>
 
 ### 2026-06-13 14:35  (5 条)
 
