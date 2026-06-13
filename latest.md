@@ -1,40 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-12 22:54**
-- 本轮扫到 3312 条, 新增 **3** 条
+- 最近更新: **2026-06-13 00:15**
+- 本轮扫到 3314 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (2 条)
 
-### 特朗普称“首选”夺取伊朗石油枢纽哈尔克岛
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-06-11 22:08
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBvd0ZYdTM2MThydElGa1R4UHo3U3UyREs1TnRwS2FnZV9yd0I5ZHJidS1uMF9PQ3BTRS11TmxHUm82aTFXai0xVUFseWQ1OS1weW1Na0pZYVRnSlRfWXo4VGF3dHRuZnkwakppZTRNWFpLMDllR202MA?oc=5>
-
-### 特朗普拟推决议撤销两次弹劾记录 或难取得足够支持
+### 危巢之下，特朗普将舍命豪赌
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-06-12 05:19
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPNHVOZzZNTE15bE9DWHp2eC0wNnJZQWRjV0RNX1Vfek1xclVDYmN1Y3RrQ0tsRWFWWmVVd2JtZ1dyTjJycFFYNldSWUNUQkZabnh5aVhpYVlPR0ZmZ25UeEgwM1hxdw?oc=5>
+- 场馆: 观察者网
+- 时间: 2026-06-12 23:14
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFAzQUJ2cGJuekV0dG5WT09NMU1SVkVUVEV3ZjdKeUhVMkVIbllFeFFEZTVwdjdlTDR4UzV6MW9mZU1seWNzZXZXbDRleGthRF92TVVyaWZVRzV1RXpwZjUwdllwZnU3aTlqeXc?oc=5>
 
-### 午市焦点：Trump称伊朗须「付出代价」；SpaceX获海湾富基金IPO前大型订单财经新闻Financial News
+### 特朗普政府禁止境外主体获取 Anthropic 旗下最强人工智能模型
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: AASTOCKS.com
-- 时间: 2026-06-10 15:56
-- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxQUGpEaU1mT0FMR013UTBiamJUT0pLU1BubmxEWU9xZFZERkVXUkx4YnBPek9KV0dfeS1oMWRQVjQxTEp5LVpLeTlhX2dnblpPUW1wUExWbXdmRXVpRWVsRzlnTGI5RTJUell0VlR0bkNvdVdrcEk3cFlzc090bUtCVFJTOFhIU0xLaVRBZ2RFc2c0WWh5?oc=5>
+- 场馆: video.sina.com.cn
+- 时间: 2026-06-12 23:54
+- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxOWGJVTWVEZGpEZU40azA4SEFVbkUybzIwU3BrTWl6VEJDbWYwYjJscEI1U250aEpFNHpBVEdEdUdVbGs5R3dWVmk2bXJCQktjQ2RSZkpKMmdQa2FFZjd0RU5nN0Z1M0k2ZlBBRTcyb3l3M3hHNWROMmlaM0ZIOWtmbHRn?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-13 00:15  (2 条)
+
+- **特朗普** | 危巢之下，特朗普将舍命豪赌 <https://news.google.com/rss/articles/CBMiakFVX3lxTFAzQUJ2cGJuekV0dG5WT09NMU1SVkVUVEV3ZjdKeUhVMkVIbllFeFFEZTVwdjdlTDR4UzV6MW9mZU1seWNzZXZXbDRleGthRF92TVVyaWZVRzV1RXpwZjUwdllwZnU3aTlqeXc?oc=5>
+- **特朗普** | 特朗普政府禁止境外主体获取 Anthropic 旗下最强人工智能模型 <https://news.google.com/rss/articles/CBMiggFBVV95cUxOWGJVTWVEZGpEZU40azA4SEFVbkUybzIwU3BrTWl6VEJDbWYwYjJscEI1U250aEpFNHpBVEdEdUdVbGs5R3dWVmk2bXJCQktjQ2RSZkpKMmdQa2FFZjd0RU5nN0Z1M0k2ZlBBRTcyb3l3M3hHNWROMmlaM0ZIOWtmbHRn?oc=5>
 
 ### 2026-06-12 22:54  (3 条)
 
