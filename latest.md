@@ -1,46 +1,62 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-13 12:21**
-- 本轮扫到 3343 条, 新增 **4** 条
+- 最近更新: **2026-06-13 14:35**
+- 本轮扫到 3348 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (5 条)
 
-### 台胞说看周杰伦演唱会我们一样嗨
+### 周杰伦南宁演唱会圆满收官歌声落幕温情不散歌迷夹道欢送
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://video.sina.com.cn/p/finance/2026-06-13/detail-inichham2720700.d.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906q2rw.html>
+
+### 日漫迷气炸：啊啊啊，特朗普你不配-观察者网
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者网
+- 时间: 2026-06-11 02:57
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBOUHBQN0JLTmVvdjhLYjBxRDM4cDE5LWtLWjYzVzVKb3lueDN4ZGRtc0ZfdThUR2xxc3JSRkQwb1lYV1MtZUNCUFNZTHpFRC0wTU9xbTRjWlNiZ1hWRDNiS0pUYUJzekxfb2c?oc=5>
+
+### 特朗普名字，被肯尼迪中心移除
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Sina finance
+- 时间: 2026-06-13 12:10
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTFBQaE1IUkEtZVVOUWRkNUhVYXZlOHBxTS0wSy04c3dVVFp1ZkwwSkphVjVrS08zTXgyQ2s0czJ2R0tYY3JpaW8yN0sxaW5Rbk83cE1ORE1hdGozRTBleWJ4Y3lVVE12SnVLWVlRUEwzWlJBbk9hQUE?oc=5>
+
+### 突发：特朗普被“除名”！“美伊协议将在24小时内敲定”！利好这些板块→
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Sina finance
+- 时间: 2026-06-13 13:06
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1RSEs2ZXU0S3NHUWVwV3hwaUgyUzlVLThPSHdWaDBMSDQ5aVhlWmI3VUM2ZjF4alZibWJ5cXFTcTFyemt4Mm5VbzBya3doUm9TTkkwbVJ2NXVQRHdtQ0hBOTFQb2ZVNnM4Q013cXI3a0pXWlNsdHp4Qw?oc=5>
 
 ### 美法院驳回上诉 维持肯尼迪中心移除特朗普名字裁决
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-06-13 10:59
-- 链接: <https://news.google.com/rss/articles/CBMihgFBVV95cUxQcUlIT2xaQTRqSGpnR2M3QlZVYXREQWJnVGNHY2djeXJVdThNdWcwZ1B6Ym1kNVE0RjRuLXZnUVhQZ21yanpUWnJPeTBKdnpsTXVUd1lIWkNST3E0NWtrQ2I0YmFLRkxXU3hQRUdiM1lFWE1RQUJVX0xFS3hnVEd0MDMzeVY5dw?oc=5>
-
-### 特朗普AI扮忍者，日本不高兴了
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-13 12:00
-- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE9iYm91OXJrUDFNdVhJVzNZc2RFVHMwWlEtbEZ0ZGw1RTMzY3FEb0o1SlJfcExLRW5yWEpKWHQxUkg1VjV6ZHZzUlRKWURSUUg3QzBCbFlNS09ULW9hMFEzMmY5UzBkRWxmaXl4MWxlamg4WmVCQnFSVzJvTjVyUQ?oc=5>
-
-### 美国队世界杯首战卢比奥盖茨等观战 特朗普缺席引关注
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-06-13 05:28
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFAtSzNzejFScktYQ2R2SWhoTWQwaklQdTZJeEg1TG5yN2NFcnBla2prS29DN0pFY2R4MkFHLS1Lc1FDNVBhMnVQNXZQbmM1TE1GRHg2cnc0MU9ZRUxsSEJNX0JiNjdkeHZIQmZua2R3UFU?oc=5>
+- 场馆: 新京报
+- 时间: 2026-06-13 06:15
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1TRmIzVGdiUnVWQ3JHUENBanhtdGlMc19jNWM2cDNzVG9SLWgwT2xIMVc5SmlkeTFVQ0lyOW15cXFUci1jaDBEUXM1WkkyWWZNc25YeE1vWFRzQWZrSlpQMWdxeC0?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-13 14:35  (5 条)
+
+- **周杰伦** | 周杰伦南宁演唱会圆满收官歌声落幕温情不散歌迷夹道欢送 <https://k.sina.com.cn/article_7857201856_1d45362c001906q2rw.html>
+- **特朗普** | 日漫迷气炸：啊啊啊，特朗普你不配-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTFBOUHBQN0JLTmVvdjhLYjBxRDM4cDE5LWtLWjYzVzVKb3lueDN4ZGRtc0ZfdThUR2xxc3JSRkQwb1lYV1MtZUNCUFNZTHpFRC0wTU9xbTRjWlNiZ1hWRDNiS0pUYUJzekxfb2c?oc=5>
+- **特朗普** | 特朗普名字，被肯尼迪中心移除 <https://news.google.com/rss/articles/CBMidkFVX3lxTFBQaE1IUkEtZVVOUWRkNUhVYXZlOHBxTS0wSy04c3dVVFp1ZkwwSkphVjVrS08zTXgyQ2s0czJ2R0tYY3JpaW8yN0sxaW5Rbk83cE1ORE1hdGozRTBleWJ4Y3lVVE12SnVLWVlRUEwzWlJBbk9hQUE?oc=5>
+- **特朗普** | 突发：特朗普被“除名”！“美伊协议将在24小时内敲定”！利好这些板块→ <https://news.google.com/rss/articles/CBMieEFVX3lxTE1RSEs2ZXU0S3NHUWVwV3hwaUgyUzlVLThPSHdWaDBMSDQ5aVhlWmI3VUM2ZjF4alZibWJ5cXFTcTFyemt4Mm5VbzBya3doUm9TTkkwbVJ2NXVQRHdtQ0hBOTFQb2ZVNnM4Q013cXI3a0pXWlNsdHp4Qw?oc=5>
+- **特朗普** | 美法院驳回上诉 维持肯尼迪中心移除特朗普名字裁决 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1TRmIzVGdiUnVWQ3JHUENBanhtdGlMc19jNWM2cDNzVG9SLWgwT2xIMVc5SmlkeTFVQ0lyOW15cXFUci1jaDBEUXM1WkkyWWZNc25YeE1vWFRzQWZrSlpQMWdxeC0?oc=5>
 
 ### 2026-06-13 12:21  (4 条)
 
