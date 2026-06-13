@@ -1,40 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-13 21:58**
-- 本轮扫到 3366 条, 新增 **3** 条
+- 最近更新: **2026-06-13 23:08**
+- 本轮扫到 3369 条, 新增 **3** 条
 
 ---
 
 ## 本轮新发现 (3 条)
 
-### 美国下架22项涉冒充“美国制造”餐具产品 扩大打击中国供应链渗透
+### 特朗普称美伊协议计划14日签署：若事与愿违，我们手中还握有终极手段
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-06-13 21:50
-- 链接: <https://news.google.com/rss/articles/CBMiqgNBVV95cUxQd3JEYkNVblFqZ3BPQ0hfcVc1NUF4ODNianB0SU5jem8xbW8xci1XT0VkaURLUmluamgzU0pjOUd3UTJiZUNqZWg1Vnlpd3FXcnl6SjYyOElBdXFqbDhNeWpRb0p2aEVfeHFxMTdvNzN6dV9CUlJFT2JwWnRUR1pULUNKWjlncmtaVTdRT1ZxX3pocm9TMDhNM0V6S0t3VW9sZWF6NHIyZWxzbjh1WFlVSVRuR1hBUTVoSThmZXIyZHJhSzk1S1FRcjdCc0FXdjN1RUFNVmc3QlpmYnRkOEJDcjRITlRYbzVOMEM0cC1zTlpwN2dUNV80OENOcmJueF9sMkFQdk5qazk1VGFfNDUtbGJ6a3VvY3g4dVRabW5lanFzN1hENjc4am5YVGVKcVZFRzI2bzU3dm1ISVUtUmo4VVB0N1F0SlR6Y05Ua3hZVGh4YWRmZmpwdXU0UHJoZ0FCanpaVXNWemVFS1NNMkctdXNZcWpneWIwVTdCMklBYndUZHlnRUlKZlpMQU0tSlp1dnFWOGtpejlhck9rQ2lJRFJtS0tkZVBlOEE?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-06-13 22:23
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBVZjlhaC1qMFNNU2dkM2hOMUg1TlBoOXdqOWxuY3RKYUd3OUJQZ2dEaU9UaDBkczYycExWZzh4aS1yU2xjc1hhZHd0NzVWN1RBZFlBbExMWDh2aEVUT0c4MlhLWDBfd0R2d3FKUjRLSXg?oc=5>
 
-### 特朗普称美伊和平协议将于14日签署 伊朗尚未确认
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-06-13 21:00
-- 链接: <https://news.google.com/rss/articles/CBMi3wJBVV95cUxQQVZVeG5KQk9yUFRVUlhUajNSQ3pNMjd0cVVoQ3JDd1lVNDlkYjRBQUx5TThrVlJUUWtFX2FyWUV1MExyTzRZQk5LRVdBNVBiSWRHWXhLTEJFNEhYdDlIakYzdTFxQ2plc2dJNldCdlVhdXIzY2ZHeWpXWGNOV3F5NGk1ejQ0RUs1czl2Tlpqd3BselhsQXc2Y1Z1NkxVamU1WEhzYXNyVzNESjVVT3EycjFFNVVsUi1qOWxQVmd5eXY1YklMUHNxZG1zWGk0SDlwM2xvOWF5dWFuZl8yZm5yajQ4TGZXTkhCLVMxaTZVUmNwNzd3UkRqbjhRdE0tX09TYUZaaWdGZlNZWFEwa3ZIbUdWdWhnQzYxYVdablRVUmt5NmhqYmdYOVJPMmlEYW1nZ2pjTzNaQnREbExNX1dORGxHeWtGalJDd3IyZTlhWU1jMGJrLVE5WW5IVktsM2M?oc=5>
-
-### 特朗普将赴法国出席七国集团峰会 会晤中东伙伴
+### 特朗普称美伊协议计划14日签署
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Sina finance
-- 时间: 2026-06-13 16:27
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxNSFFDTi1xSmtnUzcwcVQ4T2I2b2ZtNTZ6dG9ySktQd3JxZEpSRGVvU3V4M29aOHVpb0V0ekUtYURkeklfWld0Z3FkZFM1RFpJYU1aLTdUYm55ZGlwRGlCVml1c1ZYakxDV29jeGFnemJlTkdSbGZsOUI1UzRTQldiQTlvSWVFZ2c?oc=5>
+- 场馆: chinanews.com.cn
+- 时间: 2026-06-13 22:04
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9rTDNhd1JDaUc0bklPV25ma1JwUV9yNHVZclFOQ1BVQUl6UEhOUU9GamlQdDc3VXlqb0JVVFhnejdFbzE3TnEwall0bERvQ3hPMFpKX0R2R2tpbkxEUHZCQmFjUDFfUk5h?oc=5>
+
+### 特朗普：美伊定于14日签署协议
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪军事_手机新浪网
+- 时间: 2026-06-13 23:05
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5YYVhKbm9pcHk2WHpPU1NZZHFLeGxadi0teWg1cVRDZHBMSG5ZQXNtelU2TFhUUTMyM1R0LVF2VDM1U1NxLWlQbmxlTjZUbl85bzhQc0RlczdOVUw4R2RONm5VNjlKX0VPdEI5ck5NUENkV0E?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-13 23:08  (3 条)
+
+- **特朗普** | 特朗普称美伊协议计划14日签署：若事与愿违，我们手中还握有终极手段 <https://news.google.com/rss/articles/CBMicEFVX3lxTFBVZjlhaC1qMFNNU2dkM2hOMUg1TlBoOXdqOWxuY3RKYUd3OUJQZ2dEaU9UaDBkczYycExWZzh4aS1yU2xjc1hhZHd0NzVWN1RBZFlBbExMWDh2aEVUT0c4MlhLWDBfd0R2d3FKUjRLSXg?oc=5>
+- **特朗普** | 特朗普称美伊协议计划14日签署 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9rTDNhd1JDaUc0bklPV25ma1JwUV9yNHVZclFOQ1BVQUl6UEhOUU9GamlQdDc3VXlqb0JVVFhnejdFbzE3TnEwall0bERvQ3hPMFpKX0R2R2tpbkxEUHZCQmFjUDFfUk5h?oc=5>
+- **特朗普** | 特朗普：美伊定于14日签署协议 <https://news.google.com/rss/articles/CBMic0FVX3lxTE5YYVhKbm9pcHk2WHpPU1NZZHFLeGxadi0teWg1cVRDZHBMSG5ZQXNtelU2TFhUUTMyM1R0LVF2VDM1U1NxLWlQbmxlTjZUbl85bzhQc0RlczdOVUw4R2RONm5VNjlKX0VPdEI5ck5NUENkV0E?oc=5>
 
 ### 2026-06-13 21:58  (3 条)
 
