@@ -1,40 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-13 16:10**
-- 本轮扫到 3351 条, 新增 **3** 条
+- 最近更新: **2026-06-13 17:51**
+- 本轮扫到 3354 条, 新增 **3** 条
 
 ---
 
 ## 本轮新发现 (3 条)
 
-### 美军被曝制订抢夺伊朗浓缩铀计划，因这类行动可能“招致伊方强烈报复”，特朗普未批准
+### 特朗普将赴法国出席七国集团峰会 会晤中东伙伴
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Sina finance
-- 时间: 2026-06-13 15:16
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE8yTThpMEpLbDBSRUgyekpvck1TWWpwUlBuOTlwR2FuSmFuYWZ3bFpGVFYtWlpGY3dKUkZxOWxOZVA4MEdrTERIX2x1akM4UkRxb3Q5Q1JnNTdLZVJ0VWJZZU0wTXRTNXp5RkgzMGNYM0VXUnpUVVJMQg?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-06-13 16:42
+- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQnl5bkx6VnFHUzZLblVoQUpNYVZITEh0U1FDZlVGT3h5WDFtYW5ib0RGWTlDMHlXVlkybkM2SVVrZUliTzJuVzdlSi1OVUE1RFNLdUZ5VjNzZi1yREwtQWhiSUtSS2ZhTEhxRHFLcnRfenZVN01mMEhKaVh4cnVQcml1V2ZPUVBxTzBqYUhOckwxTTJya051d0tQN0VDZG45SXJyN25UeDl2dw?oc=5>
 
-### 特朗普致电美国男足 世界杯首战前打气
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-06-12 22:52
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE9lUFNJUVByRmJfRGYxNlhxQ2FEN1hjUDFrbGdMLVZReE1SOEVhaHoyOG5heWpfYVVaWWhPaE1fSkpnc09kRWZ4cDc3SXZOV3piamlGTzQxSjg1VVJZVmhic085eTA1dVFZSUcw?oc=5>
-
-### 突发：特朗普被“除名”！“美伊协议将在24小时内敲定”！利好这些板块→
+### 肯尼迪中心向美国法官表示，所有提及特朗普的内容已从其建筑及网站上删除。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 证券时报
-- 时间: 2026-06-13 12:55
-- 链接: <https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KQUgyb3VPQUs0QVR2OXZLRFRhSGFOZ09ZQ2VITlB3U3k0UWZhNjBWVWtkdV9NMU1BbmkyOUlnZ2ZOcHBTUldESkxKNEM4ekdCa1pvWFhkSjEzdDEy?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-06-13 15:56
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE45ZktaczIxZE1NdzljWHdLRkx4MElQM1dnbFA0ZUlMSHFISzllS0hxdThzZmlSaVluUjgzOS12UU02UXRub2xtYW0zY205bVVlTTUyTWJmaFFiT1FzLS03TmFkOHJLY1RRNjBCd19TOFlnNzdNSm5EOQ?oc=5>
+
+### 特朗普将赴法国出席七国集团峰会 会晤中东伙伴
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-06-13 17:06
+- 链接: <https://news.google.com/rss/articles/CBMiowJBVV95cUxPamdmc21LRGNPWW1VYjZ3QlE2ZHdoTHZzLWVxQVZuRHFLQk1QNjBJREE0cG9iU2pHYjhsOGNyVWQ0cFkxaGtndElGWDNZa3RELURLYWlvektyVGpIZGtGVDlfeklzQ1RVSzJqODBOVkFuTk1rODVLUThHdUhyV2JIbVdwYm5BWXYzd0kzNFFZVFJteHRsVEtmZlMzRlhraTNrdXBfUlE2dVVDTEhuTDBkQks3bkZyRzd3MGlCX2RWRk55Z3JpcjQ2eEJUb29NQmRnRF81QTAxV3RHSVdqVThDLVZSdjlvZ0w5RmV5SnNjMkVTREdjVHVTZXVsSHp4RGJUUFhBRXdvQ2Ftd2dqTXpIVmQyMm1zT29IMWtrWXlDNjc2QjQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-13 17:51  (3 条)
+
+- **特朗普** | 特朗普将赴法国出席七国集团峰会 会晤中东伙伴 <https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQnl5bkx6VnFHUzZLblVoQUpNYVZITEh0U1FDZlVGT3h5WDFtYW5ib0RGWTlDMHlXVlkybkM2SVVrZUliTzJuVzdlSi1OVUE1RFNLdUZ5VjNzZi1yREwtQWhiSUtSS2ZhTEhxRHFLcnRfenZVN01mMEhKaVh4cnVQcml1V2ZPUVBxTzBqYUhOckwxTTJya051d0tQN0VDZG45SXJyN25UeDl2dw?oc=5>
+- **特朗普** | 肯尼迪中心向美国法官表示，所有提及特朗普的内容已从其建筑及网站上删除。 <https://news.google.com/rss/articles/CBMieEFVX3lxTE45ZktaczIxZE1NdzljWHdLRkx4MElQM1dnbFA0ZUlMSHFISzllS0hxdThzZmlSaVluUjgzOS12UU02UXRub2xtYW0zY205bVVlTTUyTWJmaFFiT1FzLS03TmFkOHJLY1RRNjBCd19TOFlnNzdNSm5EOQ?oc=5>
+- **特朗普** | 特朗普将赴法国出席七国集团峰会 会晤中东伙伴 <https://news.google.com/rss/articles/CBMiowJBVV95cUxPamdmc21LRGNPWW1VYjZ3QlE2ZHdoTHZzLWVxQVZuRHFLQk1QNjBJREE0cG9iU2pHYjhsOGNyVWQ0cFkxaGtndElGWDNZa3RELURLYWlvektyVGpIZGtGVDlfeklzQ1RVSzJqODBOVkFuTk1rODVLUThHdUhyV2JIbVdwYm5BWXYzd0kzNFFZVFJteHRsVEtmZlMzRlhraTNrdXBfUlE2dVVDTEhuTDBkQks3bkZyRzd3MGlCX2RWRk55Z3JpcjQ2eEJUb29NQmRnRF81QTAxV3RHSVdqVThDLVZSdjlvZ0w5RmV5SnNjMkVTREdjVHVTZXVsSHp4RGJUUFhBRXdvQ2Ftd2dqTXpIVmQyMm1zT29IMWtrWXlDNjc2QjQ?oc=5>
 
 ### 2026-06-13 16:10  (3 条)
 
