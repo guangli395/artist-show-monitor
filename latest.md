@@ -1,40 +1,80 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-13 23:08**
-- 本轮扫到 3369 条, 新增 **3** 条
+- 最近更新: **2026-06-14 01:41**
+- 本轮扫到 3376 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (7 条)
 
-### 特朗普称美伊协议计划14日签署：若事与愿违，我们手中还握有终极手段
+### 蔡依林北京鸟巢演唱会嘉宾林俊杰，双J合唱倒带
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879924004_m1d5ae19240330202k4.html>
+
+### 维持肯尼迪中心移除特朗普名字裁决
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-06-13 22:23
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBVZjlhaC1qMFNNU2dkM2hOMUg1TlBoOXdqOWxuY3RKYUd3OUJQZ2dEaU9UaDBkczYycExWZzh4aS1yU2xjc1hhZHd0NzVWN1RBZFlBbExMWDh2aEVUT0c4MlhLWDBfd0R2d3FKUjRLSXg?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-06-13 23:08
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFA4MUd2SERGa0twdlVpQTMxWWtxT1BRYk5MQlVEYkdoaDlBZHk1VGFXNjUxM2lFSFBodW5TQWRQVmhwWk1paW1pUkxDeXR0V3V3d0dQSGxBVG1fb0wwTGZGdTg1MHNTeXpWeGlBdmpPVTVWaDVzelZNdg?oc=5>
 
-### 特朗普称美伊协议计划14日签署
+### 美官员：特朗普法国G7峰会上将与中东领导人会晤 并讨论乌克兰问题
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-06-14 01:31
+- 链接: <https://news.google.com/rss/articles/CBMiwAFBVV95cUxOc0Z3U2MybUtlZF9rZW91NF9SMzBGOHYtVXlZaFJZVlIzaEJMU3NBeHpYemNKMVZCay02ODVIX2VRZ1BwX2o5ekd2RXc4d0dNWWNnYy10a0dhdmFwUk9Vc3dRMkxjajJzODRQLVNLVTJUUUE0SXNHZ05xVjRzNE1nN3Mza2tPUzV2MUsyeEpjci1Rb3pfSnA2eWNDUGwtcE5FcW1XLTBqQTBTLWl2XzJVU3dXTHBzcG5DUnJraURGcHA?oc=5>
+
+### 特朗普迈向80岁，数说美国政坛的“老”面孔
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-06-13 23:27
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTFBNbmNXcnFoRHdDcWdMVXNGWDVxUENDcXpFek1jU0V0cFBKZEg0OWI5QnFZTklqT0wtR1R0bF8yeFloU2lDcnpNUWh5RzFUQTNMc0pKLXZvbEpSMGpqa1E?oc=5>
+
+### 特朗普：美伊协议计划于周日签署 霍尔木兹海峡随后立即开放
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 财联社
+- 时间: 2026-06-13 18:41
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE56UGRTTTE1eE1PU3p6S2lCWTRMazNJVUU4NnVMdDRXZXl4TGlUVEt5OGZnb1pwQUloeVRXVW5YR3NYajlrSlVRdg?oc=5>
+
+### 特朗普：计划14日签署协议 伊朗否认：还需等待
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: chinanews.com.cn
-- 时间: 2026-06-13 22:04
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9rTDNhd1JDaUc0bklPV25ma1JwUV9yNHVZclFOQ1BVQUl6UEhOUU9GamlQdDc3VXlqb0JVVFhnejdFbzE3TnEwall0bERvQ3hPMFpKX0R2R2tpbkxEUHZCQmFjUDFfUk5h?oc=5>
+- 时间: 2026-06-14 01:00
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9uaGRoWExQaXNUUFdOOFZkTTlqamRScENGeUotb3ZFbTh1dkNici16ZGRrU3d0WVVLZFdmSXphMGNMN1dYcnFSYVA5a01OUEgwajE5bWM4YmFJWXEzendDaThid01wYk5V?oc=5>
 
-### 特朗普：美伊定于14日签署协议
+### 特朗普：美方星期天同伊朗签署结束中东战争协议
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 新浪军事_手机新浪网
-- 时间: 2026-06-13 23:05
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5YYVhKbm9pcHk2WHpPU1NZZHFLeGxadi0teWg1cVRDZHBMSG5ZQXNtelU2TFhUUTMyM1R0LVF2VDM1U1NxLWlQbmxlTjZUbl85bzhQc0RlczdOVUw4R2RONm5VNjlKX0VPdEI5ck5NUENkV0E?oc=5>
+- 场馆: 8world
+- 时间: 2026-06-13 22:38
+- 链接: <https://news.google.com/rss/articles/CBMikgFBVV95cUxONmVxM3BVbXhjOV9oRGlQX2tibkEzNXB4VlFOSW1iSkpvc1hSZDdiN1J3NEkwTEE5eXctNE95U01mM01hVC03TnNWdU5wNzJxa3RkcEY0dHdUTU42QnYwbXlKdjhzaVZXdC1tQ0pvU2lWOWhXM0Y5b1Jydm9fLTRhdHp0eVlqTk5zWXdJdXRTbExEUQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-14 01:41  (7 条)
+
+- **周杰伦** | 蔡依林北京鸟巢演唱会嘉宾林俊杰，双J合唱倒带 <https://k.sina.com.cn/article_7879924004_m1d5ae19240330202k4.html>
+- **特朗普** | 维持肯尼迪中心移除特朗普名字裁决 <https://news.google.com/rss/articles/CBMieEFVX3lxTFA4MUd2SERGa0twdlVpQTMxWWtxT1BRYk5MQlVEYkdoaDlBZHk1VGFXNjUxM2lFSFBodW5TQWRQVmhwWk1paW1pUkxDeXR0V3V3d0dQSGxBVG1fb0wwTGZGdTg1MHNTeXpWeGlBdmpPVTVWaDVzelZNdg?oc=5>
+- **特朗普** | 美官员：特朗普法国G7峰会上将与中东领导人会晤 并讨论乌克兰问题 <https://news.google.com/rss/articles/CBMiwAFBVV95cUxOc0Z3U2MybUtlZF9rZW91NF9SMzBGOHYtVXlZaFJZVlIzaEJMU3NBeHpYemNKMVZCay02ODVIX2VRZ1BwX2o5ekd2RXc4d0dNWWNnYy10a0dhdmFwUk9Vc3dRMkxjajJzODRQLVNLVTJUUUE0SXNHZ05xVjRzNE1nN3Mza2tPUzV2MUsyeEpjci1Rb3pfSnA2eWNDUGwtcE5FcW1XLTBqQTBTLWl2XzJVU3dXTHBzcG5DUnJraURGcHA?oc=5>
+- **特朗普** | 特朗普迈向80岁，数说美国政坛的“老”面孔 <https://news.google.com/rss/articles/CBMiXkFVX3lxTFBNbmNXcnFoRHdDcWdMVXNGWDVxUENDcXpFek1jU0V0cFBKZEg0OWI5QnFZTklqT0wtR1R0bF8yeFloU2lDcnpNUWh5RzFUQTNMc0pKLXZvbEpSMGpqa1E?oc=5>
+- **特朗普** | 特朗普：美伊协议计划于周日签署 霍尔木兹海峡随后立即开放 <https://news.google.com/rss/articles/CBMiSEFVX3lxTE56UGRTTTE1eE1PU3p6S2lCWTRMazNJVUU4NnVMdDRXZXl4TGlUVEt5OGZnb1pwQUloeVRXVW5YR3NYajlrSlVRdg?oc=5>
+- **特朗普** | 特朗普：计划14日签署协议 伊朗否认：还需等待 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9uaGRoWExQaXNUUFdOOFZkTTlqamRScENGeUotb3ZFbTh1dkNici16ZGRrU3d0WVVLZFdmSXphMGNMN1dYcnFSYVA5a01OUEgwajE5bWM4YmFJWXEzendDaThid01wYk5V?oc=5>
+- **Trump** | 特朗普：美方星期天同伊朗签署结束中东战争协议 <https://news.google.com/rss/articles/CBMikgFBVV95cUxONmVxM3BVbXhjOV9oRGlQX2tibkEzNXB4VlFOSW1iSkpvc1hSZDdiN1J3NEkwTEE5eXctNE95U01mM01hVC03TnNWdU5wNzJxa3RkcEY0dHdUTU42QnYwbXlKdjhzaVZXdC1tQ0pvU2lWOWhXM0Y5b1Jydm9fLTRhdHp0eVlqTk5zWXdJdXRTbExEUQ?oc=5>
 
 ### 2026-06-13 23:08  (3 条)
 
