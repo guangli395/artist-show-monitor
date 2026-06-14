@@ -1,88 +1,80 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-14 14:38**
-- 本轮扫到 3423 条, 新增 **9** 条
+- 最近更新: **2026-06-14 16:17**
+- 本轮扫到 3430 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (9 条)
+## 本轮新发现 (7 条)
 
-### 特朗普：美伊定于14日签署协议
+### 周杰伦新专辑先行曲MV郎朗助阵
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-06-13 23:14
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE8xUE1JYjMwUVlBc0dOV2x0RUlTeWJnWlhCMGQxMTh4RlVwZ0dqS1hvaDlXblFUVkVRaEFWOHFyS0xyZS1oMDJ1ektISHJ2S2xyNzg4QkhDNVFUZEVTUGJpYklKQmc?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906sdcg.html>
 
-### 吴蔚：马克龙G7峰会的“一条龙”安排，能打动特朗普吗？
+### 特朗普称以色列当日对黎巴嫩的袭击“本不该发生”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Sina finance
-- 时间: 2026-06-14 13:54
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE85STBTS21SY0RXempzUGRha3RWaTg1dGJ4WWNWMUxlektaUHJpSE56N0FseVZQQXFYZlo3bkVBOS0xYllnSmVuZ3FZQ0VCZURzSFlsd2FMd21zN2l1T0ZsT1ZrQW1vZ1A2S1ZsR0NpcHI4bXhBNGZFUQ?oc=5>
+- 场馆: 新华网
+- 时间: 2026-06-14 14:58
+- 链接: <https://news.google.com/rss/articles/CBMid0FVX3lxTE5DRVhTTjhGdnh6WFdvR3hfMkdiTndRc2pHeHdZYktWSnZ3NlkxUGkwa3h0NXhTMTBzVzcyMTlOZGttZE1kQXFmMDJfY3Q3elZuaFNGTHRaLXI4VUdSaHVwczh6bURuYzN4dHM3ckpQNmlWVzkxZ1JN?oc=5>
 
-### 美国民主党议员怒批：特朗普要签的美伊和平协议，本质上是投降书
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: Sina finance
-- 时间: 2026-06-14 13:29
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9aWWlFM3dGeFdVSVJQY0JMeGhFSXhjYlJfVXdaTVJiUWx0Z08wNkxReWdvczA3MEhNek1KdklXWGluZXJwQ0FDRFR6MnVFcnEzXzhaVGFSSnN4SDFzTl9FbzhiQmVfY3BDQXdkU2V6NERwY1RXbm1qcw?oc=5>
-
-### 特朗普再锤这家AI企业，“亚马逊在背后打小报告”-观察者网
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-06-14 10:56
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE96WXJTVEZlZDEwZFlXNldnS3M0cHZVY0hEUDlENGNXMTUtekpBX3pWTTZEeFUwM1dPUUViMWZJMzVLYm5WU3JzdnI2aVJjWHFzQ3JRNjlwMUJ6SWM0Q3NBRUJzckFMNm5MQ2c?oc=5>
-
-### 特朗普八十大寿：他出生那年的缤纷世界
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: DW
-- 时间: 2026-06-14 01:16
-- 链接: <https://news.google.com/rss/articles/CBMilAJBVV95cUxQUXcxSXh4SWgzaXdiTzNjQ3l4eU9fU2ZxNk41b3lhaktEYVdGandLVUVSTDhhYUw0QmhFQ09ET1Bfemx4eFNtRDk3dlVyXzBMemxlWnJvaDdueGhLOTZaUzBkemtCM3N2NExaSGE2dGpLNWNBQmNzY1RQZ1RVU2UxWllVMlZkWFpNMUloZmF1Q3Fsdmc5NkRZT19VX2RTenVFRzJKNXFtVmV1cnRCdE5ySUN4NHFLSDZQZlZ0Sk1HRTJrd1I2Z2pONzBqeUpUdHJ5dm53eUJHaFNwNDI2dFh2cHRZeGloYTNLX1R4LUsyUVZ1aXhhTW92ZnNrb0JZUzhCZWNWdzlIaXlKUERiVWZLSlRxQ00?oc=5>
-
-### 特朗普，“生日大礼”到了？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: Sina finance
-- 时间: 2026-06-14 12:36
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE9XQ25yZDMwcV8weVo2UzEzVWpUSl9peU1LR0txVDd2VkdkcWRTZmhFZVNGT3hRM0trMEdZSXltTGkxdFpzV1NQWnJIZ3ZoWF9IZG45TmNrcnpaWWptQnRoUXpod0lxTzdkNkN5emxwLTdfcGo1NFE?oc=5>
-
-### 特朗普：美伊定于14日签署协议
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-06-13 22:00
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE81QVlEdVR1M1hHMmlIOXNycmkyVlBsSVNHRzZPRkUzZ0RSVERLb2YzUHpUOWpUSm5POE94YXphaWt5Z3RnNnhNamlaM2h0MDUxQy0xSEZkdXU0WmNmVTN4ZHlja1BUdw?oc=5>
-
-### 特朗普过去24小时都忙了什么？（2026-06-14）
+### 肯尼迪中心大楼移除特朗普名字特朗普名字被移除了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-14 12:15
-- 链接: <https://news.google.com/rss/articles/CBMiiwJBVV95cUxOWEEzaDUwckFUWThwRTRraHE0TkhMRktzZERQM3pVazV6bVAxVEY1aTk3TDBZaEw3NVNoaVFDWHZ1S01MRXVrNkI0czY1MThRVHVYOHRwdVFhYXFVT3dYamV1VEZMQi1TTlA3dXN1Y2pVX19jdDNKUmxYaThyZkZfYlptMmdMRnRLUGFlUDFldDJBcDA1RXJTazNHYW9YVld4dHBvOUtOYV9qS1E5Z0c0blhha0JWcmF2WG4xYnBkdC13R2M3RE5aMUVNVFdRcUpHY3U0bzFfRzZvbFF4Vm1UUUJ1UXM3UU9QNy1YSjhMQl83T2VYRnpXVDBvaWtDelpNOEp0UjFIZDZldkE?oc=5>
+- 时间: 2026-06-14 14:49
+- 链接: <https://news.google.com/rss/articles/CBMihAFBVV95cUxNWE41TXhESTlHN1ljei00dFZXd0pVTkh2aGQ0Z3ZTcnY5akF0aXBsQ1R5LTNFbEJrTF9EQjZ0QUVRT0JINTZZR21tYW5VQ19wME1hQVM5aTVTS3d4UE0taVRtZDk1SzFSZGRSQ2pxempTQU8xQ21WajMwMFQxUktzWFhHZk0?oc=5>
 
-### Trump Begins State Visit to China to Strengthen US-China Ties
+### 特朗普透露日期，伊朗又否认了-观察者网
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华人头条
-- 时间: 2026-06-13 21:48
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ3E0MXNIWGd1WFFGT1F2ZGd1elJoQzZMT3RJbFFNdmgxLW1vME43U3dsNnZUbnBua242NmNaNHM0dUQ2dm92aHcyeFdjX2lXZFRManNKcnVDa1hERl9FRl9sLXF5WnNKZHJoY0ZWN3ZzYkdfVmFRNXhseGJZMWdBQ1FKdS1yTnc?oc=5>
+- 场馆: 观察者网
+- 时间: 2026-06-13 23:16
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5mOERRTzNGaVpnWkNnNmNETC1mVFRNTGh3TGtpaVpwdmZENnd0TEFOcVZNbHNJVU5DcnFOTl9EclZ4WWFhOU8xZjFXQ0JoNDJNM1YzUWRGdEVldUlRTHo3WC05ZzJBdFpoQ2c?oc=5>
+
+### 特朗普：“非常接近”达成美伊协议 将给黎巴嫩带来和平
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-06-14 15:29
+- 链接: <https://news.google.com/rss/articles/CBMixAJBVV95cUxPX19iTy1Nd013UGtxU2RCUTlTVEZoT1l5ZHNRTFNuTkhIM19hOWU2a2pqOWl4ckJtVWwtNjF2OG54V2RsXzlMZ3A2bi1YSnRuRFBmcEpaRG52X2RISUp6b1VmVGhremh0dWwtLVlUU0gzWDRzWTRRQWtQVF9YZEFrR3JUVHNuVmxiZDZoVnNveFZxZGpGUmNxV2VwQnBwR0lvQVJ4WG42TWotNWltUE1pVUgtVkVaaFFhLWhsTnpDUVhidGc1UDhQdjlVYlpBRnBhUENpZ3hKazRSWjNvNGNDcG1IbW00aERySmJpSXNDM25VY3ZFNjVnMVZNSUg0bXZlcUczYzBobUxlNVEyY05CM2t5OFI3UXZKYTlCQnVWQjV6b21nQ2JmY3ZxVlNVWndsRmM2dC1zZEh1bEVBU2taYzh2YU8?oc=5>
+
+### 伊媒：伊朗不会在特朗普宣布的时间签署任何协议
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新京报
+- 时间: 2026-06-14 15:17
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBjcU1HOW1zX0RFYS1Kc0xDY2N6d3lkd1B5THJGNk9PYlpFTDlrSGNtejg3OFRmRUUyOXBXUDQ1TzBYdjJhb2swdFgzVUpwQnI4X1pJdzJRS2IxdC1JNGdRU3hHRE4?oc=5>
+
+### 特朗普：“非常接近”达成美伊协议 将给黎巴嫩带来和平
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 21财经
+- 时间: 2026-06-14 14:57
+- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxQVEEzZDdtcnUyMW9BU3BmYmQySWVrekpkVGtYZ0tweGpJRGxFSmNOU0xBaDIyNEhXZG43eVpsb0ZaVjluVUcxVHBXSEdZeU9YY1ZXeEd3WTZGQzRVay1SeFBuYXBYel9iNnJIbHhaSW9Fc09DZU04ZEoxWEZFU3pPNXJOdU9Ja3BZWW15UHpXTQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-14 16:17  (7 条)
+
+- **周杰伦** | 周杰伦新专辑先行曲MV郎朗助阵 <https://k.sina.com.cn/article_7857201856_1d45362c001906sdcg.html>
+- **特朗普** | 特朗普称以色列当日对黎巴嫩的袭击“本不该发生” <https://news.google.com/rss/articles/CBMid0FVX3lxTE5DRVhTTjhGdnh6WFdvR3hfMkdiTndRc2pHeHdZYktWSnZ3NlkxUGkwa3h0NXhTMTBzVzcyMTlOZGttZE1kQXFmMDJfY3Q3elZuaFNGTHRaLXI4VUdSaHVwczh6bURuYzN4dHM3ckpQNmlWVzkxZ1JN?oc=5>
+- **特朗普** | 肯尼迪中心大楼移除特朗普名字特朗普名字被移除了 <https://news.google.com/rss/articles/CBMihAFBVV95cUxNWE41TXhESTlHN1ljei00dFZXd0pVTkh2aGQ0Z3ZTcnY5akF0aXBsQ1R5LTNFbEJrTF9EQjZ0QUVRT0JINTZZR21tYW5VQ19wME1hQVM5aTVTS3d4UE0taVRtZDk1SzFSZGRSQ2pxempTQU8xQ21WajMwMFQxUktzWFhHZk0?oc=5>
+- **特朗普** | 特朗普透露日期，伊朗又否认了-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE5mOERRTzNGaVpnWkNnNmNETC1mVFRNTGh3TGtpaVpwdmZENnd0TEFOcVZNbHNJVU5DcnFOTl9EclZ4WWFhOU8xZjFXQ0JoNDJNM1YzUWRGdEVldUlRTHo3WC05ZzJBdFpoQ2c?oc=5>
+- **特朗普** | 特朗普：“非常接近”达成美伊协议 将给黎巴嫩带来和平 <https://news.google.com/rss/articles/CBMixAJBVV95cUxPX19iTy1Nd013UGtxU2RCUTlTVEZoT1l5ZHNRTFNuTkhIM19hOWU2a2pqOWl4ckJtVWwtNjF2OG54V2RsXzlMZ3A2bi1YSnRuRFBmcEpaRG52X2RISUp6b1VmVGhremh0dWwtLVlUU0gzWDRzWTRRQWtQVF9YZEFrR3JUVHNuVmxiZDZoVnNveFZxZGpGUmNxV2VwQnBwR0lvQVJ4WG42TWotNWltUE1pVUgtVkVaaFFhLWhsTnpDUVhidGc1UDhQdjlVYlpBRnBhUENpZ3hKazRSWjNvNGNDcG1IbW00aERySmJpSXNDM25VY3ZFNjVnMVZNSUg0bXZlcUczYzBobUxlNVEyY05CM2t5OFI3UXZKYTlCQnVWQjV6b21nQ2JmY3ZxVlNVWndsRmM2dC1zZEh1bEVBU2taYzh2YU8?oc=5>
+- **特朗普** | 伊媒：伊朗不会在特朗普宣布的时间签署任何协议 <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBjcU1HOW1zX0RFYS1Kc0xDY2N6d3lkd1B5THJGNk9PYlpFTDlrSGNtejg3OFRmRUUyOXBXUDQ1TzBYdjJhb2swdFgzVUpwQnI4X1pJdzJRS2IxdC1JNGdRU3hHRE4?oc=5>
+- **特朗普** | 特朗普：“非常接近”达成美伊协议 将给黎巴嫩带来和平 <https://news.google.com/rss/articles/CBMijwFBVV95cUxQVEEzZDdtcnUyMW9BU3BmYmQySWVrekpkVGtYZ0tweGpJRGxFSmNOU0xBaDIyNEhXZG43eVpsb0ZaVjluVUcxVHBXSEdZeU9YY1ZXeEd3WTZGQzRVay1SeFBuYXBYel9iNnJIbHhaSW9Fc09DZU04ZEoxWEZFU3pPNXJOdU9Ja3BZWW15UHpXTQ?oc=5>
 
 ### 2026-06-14 14:38  (9 条)
 
