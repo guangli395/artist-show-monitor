@@ -1,146 +1,86 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-14 10:04**
-- 本轮扫到 3405 条, 新增 **19** 条
+- 最近更新: **2026-06-14 12:21**
+- 本轮扫到 3414 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (19 条)
+## 本轮新发现 (9 条)
 
-### 黄晓明现身周杰伦演唱会,点歌明明就,黄晓明其实也是专业歌手
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906rxtc.html>
-
-### 黄晓明现身周杰伦演唱会引热议,论蹭热度,angelababy比他差远了
+### 黄晓明现身周杰伦演唱会 二人一起合唱《明明就》
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906rxrc.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906s4h4.html>
 
-### 黄晓明去了周杰伦演唱会,两人一起合唱《明明就》,一头假发引发关注
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906ry16.html>
-
-### 黄晓明为什么要在公开场合询问王俊凯关于周杰伦演唱会的事情？
+### 黄晓明追问王俊凯周杰伦演唱会行程
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801np1o.html>
+- 链接: <https://k.sina.com.cn/article_7096020439_1a6f4add706801rx0m.html>
 
-### 王俊凯最终会去观看周杰伦2026年北京演唱会的最终场吗？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801np1i.html>
-
-### 谢霆锋空降周杰伦演唱会,引发全场歌迷疯狂尖叫!!!
+### 王俊凯又幸福了？给周杰伦演唱会当嘉宾，网友：追星人的楷模
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906rsnq.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906s1t4.html>
 
-### 难以购票!周杰伦演唱会出现诈骗?谢霆锋厚待粉丝送票
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906rsi0.html>
-
-### 告别秒空焦虑!周杰伦、谢霆锋、陶喆2026年演唱会抢票指南_新闻
+### 黄大炜近60岁时仍计划推出新歌
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906rsdk.html>
+- 链接: <https://k.sina.com.cn/article_6294758863_m1773265cf033018c50.html>
 
-### 周杰伦演唱会谢霆锋撑场 哥俩现场热舞high翻天_华语制造_图集_电影网_1905.com
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906rqtk.html>
-
-### 黄晓明邀王俊凯同看周杰伦演唱会
+### 周杰伦晒收藏画作合照 阿信在线催歌称像新歌封面
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5351798445_13efdf6ad04001ise2.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906s0jg.html>
 
-### 问@TFBOYS-王俊凯 去不去看周杰伦演唱会，啊啊啊小迷弟要去追星吗
+### 黄晓明高强训练引热议，邀王俊凯同看周杰伦演唱会
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1893711543_m70dfbeb703301s4na.html>
+- 链接: <https://k.sina.com.cn/article_7879924004_m1d5ae192403302038a.html>
 
-### 特朗普拟提名其私人律师为联邦检察官
+### 黄晓明邀王俊凯同赴周杰伦28号演唱会
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-06-14 05:07
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1pNjlFRGlKQjgxMEU5UlhoWGVxdjVmckF4YW1pR2RfQ24tLU1iRWNBQ2dOT0VNYXVKSENKMThfTHZqMDk2VFZ5eXRYWkpnRElOVDBlMkFPR19EVkJ4Z3FidFRwendXVEtSbXc0aVJnd1AzVTV0cl91RGtMT2xRc1U?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5909342713_m1603969f903301iav2.html>
 
-### 特朗普提名曼哈顿检察官担任下一任国家情报总监
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-06-12 04:06
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5KMUhjQU1uT0RRQ1dNbFZQOFdFY2JaWEhTRDlRNFFnUlpPZmJQY0o3TGFwdkoxNjNSQjRDNW9WNlZZdDFJbHZ6S2xmZXpHY1dCMkNKMmI2dk9ZN296RTJnTmxPdG9TZjFNeXc?oc=5>
-
-### 特朗普名字已从肯尼迪中心外墙上移除
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-06-14 00:14
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE01NmY4Tm0tY0FzUjE4ZFRvYWJGUURaYllPNWVVY3FfQ2h4MEJVMXliSHVONUNwLVdCekR0cWtEVG9zN0R0TUdSZlJSU3dkVWJoa2ZEdUt2Q04xUkd0RXdhTFZ2MDIzQQ?oc=5>
-
-### 特朗普将赴法国出席七国集团峰会 会晤中东伙伴
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-06-14 00:22
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFB5STFOUEtIc1ZKQi1XOFZ1MWZBUWFQWk85cmZudUlpejh1NlFxRWNMaVJ6TUppWG5oRTE5TjJHZkZldlJOYlUwb3I5clNCTHZtMjVCMEpBUGg5MlpwSzZ3MGJFVmRZcVZnSlE?oc=5>
-
-### 路透社：马斯克终与特朗普决裂，谢幕白宫
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机网易网
-- 时间: 2026-06-14 09:26
-- 链接: <https://news.google.com/rss/articles/CBMiVEFVX3lxTE94ZUE4eU1MZ0N6aWJqd1NzVkxsZjF4alY2UjIwU3Q0OU50RlFjWVZSUW50STRuQmtoMjZncGVoUDhmQkx4NXVsOXFMYU5qcGFUMWpHRg?oc=5>
-
-### 特朗普T1手机拆解后露馅了！换壳HTC U24 Pro 还贴上美国国旗
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 驱动之家
-- 时间: 2026-06-11 16:02
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE5VWm02N2x5NGp3UFp6MzY2eXNqTGtUS2dFQ1JwSjdOTWwtZTBBd0ttaGNFclVVZzhkNnpJUzYza3RKTjU3UnpYOGV5Zzg5UW9YanoxdXkwNEw?oc=5>
-
-### 牛弹琴：特朗普发布后，日本不高兴了
+### 特朗普过去24小时都忙了什么？（2026-06-14）
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-14 00:36
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE11RHNRZEVMY0ROZFJ3eWpPVTk1aE1GdzluLTg1MDYwMm40bVRCVHV2eWtqeEg4TkhRczcxVnYzZjdsQS1fRkxrVkFFem5BNlBBU0NSSm51a1BaSENqR2hxNVE3WmgxUWhwbmd3bGhkekFfT0x1WElYOA?oc=5>
+- 时间: 2026-06-14 11:59
+- 链接: <https://news.google.com/rss/articles/CBMimAJBVV95cUxPUmg0M243dkpIUzhFbDNfYWp6UVRpcE1HeTY4cmlHRHFFRHI4dnJuV2tBemFiaU9lWXFKZndqQldtRjhQSmRSanFtVUI2QWVyM00xWUJLQ0FwYjF3VnpUYlBGRW82MU15S2pGOHNLR3hXRG9zdjZXODRvOXEwSzJlLU9JYm5SdkRDYUVKUDYtQkVrcGZwTkVNTHNhN0g0YWpmNDdSUVEwQUlLbGE0dENHRWxYeWMzMmlzNVAzNmdZVVVtN2E5X0Y2bUdEUmJTTUoySmdDNUtmX0JvQXFvaEhWZkh5QnlGUzFicTBmdTFGOEJqSl9xamxVd2xNSVBHTXhfRVFvRW4tR0J4QVdULUVkb3hvamtlTGVh?oc=5>
 
-### 伊朗战争：特朗普称美伊协议周日签署，伊方对签署时间表示怀疑
+### 特朗普称美伊14日将签谅解备忘录 伊方称不排除未来几天内签署
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-06-14 06:57
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE82M0h0SkFiS3lDa2tSWHh4dVZoX1QxdUladTQxTGZUWDA5LUtqVDE4SE9mRnFsMmFrY3FJQ3hKa3lhTThmRGZVUEZJOUZWaENrbG8zcjM1cWFGTldNVUpFbjg5cnZPUdIBa0FVX3lxTE9ieXg4UTNfU3JOZ0RnaDZiWnBGSTdsYTRnM1NFWmliQTdCamhzRWFpQl8xWm42VzJ5cjZ2NFdYTm00MUJmaE5lVHEwVGNwOEFxM0pOd1daa25CWm1pZTNsVWhxdnlSVmlMeFJZ?oc=5>
+- 场馆: Shangbao Indonesia
+- 时间: 2026-06-14 11:12
+- 链接: <https://news.google.com/rss/articles/CBMihAFBVV95cUxQY1JUZk5tVkNHdXJPbGhyeENnYklybVdFWGwzbzdiRENXc0VjSm1JZm8xQ05uTWJ0YnV4Z0ZmX2hCeXVQNXRQbXFLcng1M1U3NmIxb1ViNU53UUdvWndPVDR3TjY1QktYVGFjWnpaczFYZGRocHh3M3dvaEF1d0hWVkpuc0E?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-14 12:21  (9 条)
+
+- **周杰伦** | 黄晓明现身周杰伦演唱会 二人一起合唱《明明就》 <https://k.sina.com.cn/article_7857201856_1d45362c001906s4h4.html>
+- **周杰伦** | 黄晓明追问王俊凯周杰伦演唱会行程 <https://k.sina.com.cn/article_7096020439_1a6f4add706801rx0m.html>
+- **周杰伦** | 王俊凯又幸福了？给周杰伦演唱会当嘉宾，网友：追星人的楷模 <https://k.sina.com.cn/article_7857201856_1d45362c001906s1t4.html>
+- **周杰伦** | 黄大炜近60岁时仍计划推出新歌 <https://k.sina.com.cn/article_6294758863_m1773265cf033018c50.html>
+- **周杰伦** | 周杰伦晒收藏画作合照 阿信在线催歌称像新歌封面 <https://k.sina.com.cn/article_7857201856_1d45362c001906s0jg.html>
+- **周杰伦** | 黄晓明高强训练引热议，邀王俊凯同看周杰伦演唱会 <https://k.sina.com.cn/article_7879924004_m1d5ae192403302038a.html>
+- **周杰伦** | 黄晓明邀王俊凯同赴周杰伦28号演唱会 <https://k.sina.com.cn/article_5909342713_m1603969f903301iav2.html>
+- **特朗普** | 特朗普过去24小时都忙了什么？（2026-06-14） <https://news.google.com/rss/articles/CBMimAJBVV95cUxPUmg0M243dkpIUzhFbDNfYWp6UVRpcE1HeTY4cmlHRHFFRHI4dnJuV2tBemFiaU9lWXFKZndqQldtRjhQSmRSanFtVUI2QWVyM00xWUJLQ0FwYjF3VnpUYlBGRW82MU15S2pGOHNLR3hXRG9zdjZXODRvOXEwSzJlLU9JYm5SdkRDYUVKUDYtQkVrcGZwTkVNTHNhN0g0YWpmNDdSUVEwQUlLbGE0dENHRWxYeWMzMmlzNVAzNmdZVVVtN2E5X0Y2bUdEUmJTTUoySmdDNUtmX0JvQXFvaEhWZkh5QnlGUzFicTBmdTFGOEJqSl9xamxVd2xNSVBHTXhfRVFvRW4tR0J4QVdULUVkb3hvamtlTGVh?oc=5>
+- **特朗普** | 特朗普称美伊14日将签谅解备忘录 伊方称不排除未来几天内签署 <https://news.google.com/rss/articles/CBMihAFBVV95cUxQY1JUZk5tVkNHdXJPbGhyeENnYklybVdFWGwzbzdiRENXc0VjSm1JZm8xQ05uTWJ0YnV4Z0ZmX2hCeXVQNXRQbXFLcng1M1U3NmIxb1ViNU53UUdvWndPVDR3TjY1QktYVGFjWnpaczFYZGRocHh3M3dvaEF1d0hWVkpuc0E?oc=5>
 
 ### 2026-06-14 10:04  (19 条)
 
