@@ -1,74 +1,100 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-14 12:21**
-- 本轮扫到 3414 条, 新增 **9** 条
+- 最近更新: **2026-06-14 14:38**
+- 本轮扫到 3423 条, 新增 **9** 条
 
 ---
 
 ## 本轮新发现 (9 条)
 
-### 黄晓明现身周杰伦演唱会 二人一起合唱《明明就》
+### 特朗普：美伊定于14日签署协议
 
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906s4h4.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新京报
+- 时间: 2026-06-13 23:14
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE8xUE1JYjMwUVlBc0dOV2x0RUlTeWJnWlhCMGQxMTh4RlVwZ0dqS1hvaDlXblFUVkVRaEFWOHFyS0xyZS1oMDJ1ektISHJ2S2xyNzg4QkhDNVFUZEVTUGJpYklKQmc?oc=5>
 
-### 黄晓明追问王俊凯周杰伦演唱会行程
+### 吴蔚：马克龙G7峰会的“一条龙”安排，能打动特朗普吗？
 
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7096020439_1a6f4add706801rx0m.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Sina finance
+- 时间: 2026-06-14 13:54
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE85STBTS21SY0RXempzUGRha3RWaTg1dGJ4WWNWMUxlektaUHJpSE56N0FseVZQQXFYZlo3bkVBOS0xYllnSmVuZ3FZQ0VCZURzSFlsd2FMd21zN2l1T0ZsT1ZrQW1vZ1A2S1ZsR0NpcHI4bXhBNGZFUQ?oc=5>
 
-### 王俊凯又幸福了？给周杰伦演唱会当嘉宾，网友：追星人的楷模
+### 美国民主党议员怒批：特朗普要签的美伊和平协议，本质上是投降书
 
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906s1t4.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Sina finance
+- 时间: 2026-06-14 13:29
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9aWWlFM3dGeFdVSVJQY0JMeGhFSXhjYlJfVXdaTVJiUWx0Z08wNkxReWdvczA3MEhNek1KdklXWGluZXJwQ0FDRFR6MnVFcnEzXzhaVGFSSnN4SDFzTl9FbzhiQmVfY3BDQXdkU2V6NERwY1RXbm1qcw?oc=5>
 
-### 黄大炜近60岁时仍计划推出新歌
+### 特朗普再锤这家AI企业，“亚马逊在背后打小报告”-观察者网
 
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6294758863_m1773265cf033018c50.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-06-14 10:56
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE96WXJTVEZlZDEwZFlXNldnS3M0cHZVY0hEUDlENGNXMTUtekpBX3pWTTZEeFUwM1dPUUViMWZJMzVLYm5WU3JzdnI2aVJjWHFzQ3JRNjlwMUJ6SWM0Q3NBRUJzckFMNm5MQ2c?oc=5>
 
-### 周杰伦晒收藏画作合照 阿信在线催歌称像新歌封面
+### 特朗普八十大寿：他出生那年的缤纷世界
 
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906s0jg.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: DW
+- 时间: 2026-06-14 01:16
+- 链接: <https://news.google.com/rss/articles/CBMilAJBVV95cUxQUXcxSXh4SWgzaXdiTzNjQ3l4eU9fU2ZxNk41b3lhaktEYVdGandLVUVSTDhhYUw0QmhFQ09ET1Bfemx4eFNtRDk3dlVyXzBMemxlWnJvaDdueGhLOTZaUzBkemtCM3N2NExaSGE2dGpLNWNBQmNzY1RQZ1RVU2UxWllVMlZkWFpNMUloZmF1Q3Fsdmc5NkRZT19VX2RTenVFRzJKNXFtVmV1cnRCdE5ySUN4NHFLSDZQZlZ0Sk1HRTJrd1I2Z2pONzBqeUpUdHJ5dm53eUJHaFNwNDI2dFh2cHRZeGloYTNLX1R4LUsyUVZ1aXhhTW92ZnNrb0JZUzhCZWNWdzlIaXlKUERiVWZLSlRxQ00?oc=5>
 
-### 黄晓明高强训练引热议，邀王俊凯同看周杰伦演唱会
+### 特朗普，“生日大礼”到了？
 
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924004_m1d5ae192403302038a.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Sina finance
+- 时间: 2026-06-14 12:36
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE9XQ25yZDMwcV8weVo2UzEzVWpUSl9peU1LR0txVDd2VkdkcWRTZmhFZVNGT3hRM0trMEdZSXltTGkxdFpzV1NQWnJIZ3ZoWF9IZG45TmNrcnpaWWptQnRoUXpod0lxTzdkNkN5emxwLTdfcGo1NFE?oc=5>
 
-### 黄晓明邀王俊凯同赴周杰伦28号演唱会
+### 特朗普：美伊定于14日签署协议
 
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5909342713_m1603969f903301iav2.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 东方财富
+- 时间: 2026-06-13 22:00
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE81QVlEdVR1M1hHMmlIOXNycmkyVlBsSVNHRzZPRkUzZ0RSVERLb2YzUHpUOWpUSm5POE94YXphaWt5Z3RnNnhNamlaM2h0MDUxQy0xSEZkdXU0WmNmVTN4ZHlja1BUdw?oc=5>
 
 ### 特朗普过去24小时都忙了什么？（2026-06-14）
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-14 11:59
-- 链接: <https://news.google.com/rss/articles/CBMimAJBVV95cUxPUmg0M243dkpIUzhFbDNfYWp6UVRpcE1HeTY4cmlHRHFFRHI4dnJuV2tBemFiaU9lWXFKZndqQldtRjhQSmRSanFtVUI2QWVyM00xWUJLQ0FwYjF3VnpUYlBGRW82MU15S2pGOHNLR3hXRG9zdjZXODRvOXEwSzJlLU9JYm5SdkRDYUVKUDYtQkVrcGZwTkVNTHNhN0g0YWpmNDdSUVEwQUlLbGE0dENHRWxYeWMzMmlzNVAzNmdZVVVtN2E5X0Y2bUdEUmJTTUoySmdDNUtmX0JvQXFvaEhWZkh5QnlGUzFicTBmdTFGOEJqSl9xamxVd2xNSVBHTXhfRVFvRW4tR0J4QVdULUVkb3hvamtlTGVh?oc=5>
+- 时间: 2026-06-14 12:15
+- 链接: <https://news.google.com/rss/articles/CBMiiwJBVV95cUxOWEEzaDUwckFUWThwRTRraHE0TkhMRktzZERQM3pVazV6bVAxVEY1aTk3TDBZaEw3NVNoaVFDWHZ1S01MRXVrNkI0czY1MThRVHVYOHRwdVFhYXFVT3dYamV1VEZMQi1TTlA3dXN1Y2pVX19jdDNKUmxYaThyZkZfYlptMmdMRnRLUGFlUDFldDJBcDA1RXJTazNHYW9YVld4dHBvOUtOYV9qS1E5Z0c0blhha0JWcmF2WG4xYnBkdC13R2M3RE5aMUVNVFdRcUpHY3U0bzFfRzZvbFF4Vm1UUUJ1UXM3UU9QNy1YSjhMQl83T2VYRnpXVDBvaWtDelpNOEp0UjFIZDZldkE?oc=5>
 
-### 特朗普称美伊14日将签谅解备忘录 伊方称不排除未来几天内签署
+### Trump Begins State Visit to China to Strengthen US-China Ties
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Shangbao Indonesia
-- 时间: 2026-06-14 11:12
-- 链接: <https://news.google.com/rss/articles/CBMihAFBVV95cUxQY1JUZk5tVkNHdXJPbGhyeENnYklybVdFWGwzbzdiRENXc0VjSm1JZm8xQ05uTWJ0YnV4Z0ZmX2hCeXVQNXRQbXFLcng1M1U3NmIxb1ViNU53UUdvWndPVDR3TjY1QktYVGFjWnpaczFYZGRocHh3M3dvaEF1d0hWVkpuc0E?oc=5>
+- 场馆: 华人头条
+- 时间: 2026-06-13 21:48
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ3E0MXNIWGd1WFFGT1F2ZGd1elJoQzZMT3RJbFFNdmgxLW1vME43U3dsNnZUbnBua242NmNaNHM0dUQ2dm92aHcyeFdjX2lXZFRManNKcnVDa1hERl9FRl9sLXF5WnNKZHJoY0ZWN3ZzYkdfVmFRNXhseGJZMWdBQ1FKdS1yTnc?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-14 14:38  (9 条)
+
+- **特朗普** | 特朗普：美伊定于14日签署协议 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE8xUE1JYjMwUVlBc0dOV2x0RUlTeWJnWlhCMGQxMTh4RlVwZ0dqS1hvaDlXblFUVkVRaEFWOHFyS0xyZS1oMDJ1ektISHJ2S2xyNzg4QkhDNVFUZEVTUGJpYklKQmc?oc=5>
+- **特朗普** | 吴蔚：马克龙G7峰会的“一条龙”安排，能打动特朗普吗？ <https://news.google.com/rss/articles/CBMieEFVX3lxTE85STBTS21SY0RXempzUGRha3RWaTg1dGJ4WWNWMUxlektaUHJpSE56N0FseVZQQXFYZlo3bkVBOS0xYllnSmVuZ3FZQ0VCZURzSFlsd2FMd21zN2l1T0ZsT1ZrQW1vZ1A2S1ZsR0NpcHI4bXhBNGZFUQ?oc=5>
+- **特朗普** | 美国民主党议员怒批：特朗普要签的美伊和平协议，本质上是投降书 <https://news.google.com/rss/articles/CBMieEFVX3lxTE9aWWlFM3dGeFdVSVJQY0JMeGhFSXhjYlJfVXdaTVJiUWx0Z08wNkxReWdvczA3MEhNek1KdklXWGluZXJwQ0FDRFR6MnVFcnEzXzhaVGFSSnN4SDFzTl9FbzhiQmVfY3BDQXdkU2V6NERwY1RXbm1qcw?oc=5>
+- **特朗普** | 特朗普再锤这家AI企业，“亚马逊在背后打小报告”-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE96WXJTVEZlZDEwZFlXNldnS3M0cHZVY0hEUDlENGNXMTUtekpBX3pWTTZEeFUwM1dPUUViMWZJMzVLYm5WU3JzdnI2aVJjWHFzQ3JRNjlwMUJ6SWM0Q3NBRUJzckFMNm5MQ2c?oc=5>
+- **特朗普** | 特朗普八十大寿：他出生那年的缤纷世界 <https://news.google.com/rss/articles/CBMilAJBVV95cUxQUXcxSXh4SWgzaXdiTzNjQ3l4eU9fU2ZxNk41b3lhaktEYVdGandLVUVSTDhhYUw0QmhFQ09ET1Bfemx4eFNtRDk3dlVyXzBMemxlWnJvaDdueGhLOTZaUzBkemtCM3N2NExaSGE2dGpLNWNBQmNzY1RQZ1RVU2UxWllVMlZkWFpNMUloZmF1Q3Fsdmc5NkRZT19VX2RTenVFRzJKNXFtVmV1cnRCdE5ySUN4NHFLSDZQZlZ0Sk1HRTJrd1I2Z2pONzBqeUpUdHJ5dm53eUJHaFNwNDI2dFh2cHRZeGloYTNLX1R4LUsyUVZ1aXhhTW92ZnNrb0JZUzhCZWNWdzlIaXlKUERiVWZLSlRxQ00?oc=5>
+- **特朗普** | 特朗普，“生日大礼”到了？ <https://news.google.com/rss/articles/CBMidkFVX3lxTE9XQ25yZDMwcV8weVo2UzEzVWpUSl9peU1LR0txVDd2VkdkcWRTZmhFZVNGT3hRM0trMEdZSXltTGkxdFpzV1NQWnJIZ3ZoWF9IZG45TmNrcnpaWWptQnRoUXpod0lxTzdkNkN5emxwLTdfcGo1NFE?oc=5>
+- **特朗普** | 特朗普：美伊定于14日签署协议 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE81QVlEdVR1M1hHMmlIOXNycmkyVlBsSVNHRzZPRkUzZ0RSVERLb2YzUHpUOWpUSm5POE94YXphaWt5Z3RnNnhNamlaM2h0MDUxQy0xSEZkdXU0WmNmVTN4ZHlja1BUdw?oc=5>
+- **特朗普** | 特朗普过去24小时都忙了什么？（2026-06-14） <https://news.google.com/rss/articles/CBMiiwJBVV95cUxOWEEzaDUwckFUWThwRTRraHE0TkhMRktzZERQM3pVazV6bVAxVEY1aTk3TDBZaEw3NVNoaVFDWHZ1S01MRXVrNkI0czY1MThRVHVYOHRwdVFhYXFVT3dYamV1VEZMQi1TTlA3dXN1Y2pVX19jdDNKUmxYaThyZkZfYlptMmdMRnRLUGFlUDFldDJBcDA1RXJTazNHYW9YVld4dHBvOUtOYV9qS1E5Z0c0blhha0JWcmF2WG4xYnBkdC13R2M3RE5aMUVNVFdRcUpHY3U0bzFfRzZvbFF4Vm1UUUJ1UXM3UU9QNy1YSjhMQl83T2VYRnpXVDBvaWtDelpNOEp0UjFIZDZldkE?oc=5>
+- **Trump** | Trump Begins State Visit to China to Strengthen US-China Ties <https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ3E0MXNIWGd1WFFGT1F2ZGd1elJoQzZMT3RJbFFNdmgxLW1vME43U3dsNnZUbnBua242NmNaNHM0dUQ2dm92aHcyeFdjX2lXZFRManNKcnVDa1hERl9FRl9sLXF5WnNKZHJoY0ZWN3ZzYkdfVmFRNXhseGJZMWdBQ1FKdS1yTnc?oc=5>
 
 ### 2026-06-14 12:21  (9 条)
 
