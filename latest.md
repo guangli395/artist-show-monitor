@@ -1,48 +1,73 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-14 20:45**
-- 本轮扫到 3445 条, 新增 **4** 条
+- 最近更新: **2026-06-14 22:04**
+- 本轮扫到 3451 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (6 条)
 
-### 猛料曝光：美军想武力抢夺浓缩铀，特朗普没批
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-06-14 10:03
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxPS1BtaVBzU25jSHk0OEEwX21oQk1jTDFTS0Fjd012X0R6NklFa3g3UGxvT2Z3Q1daYm1IYlo2bmtGdHpjVW5ic1dOVnFzTEJkNXNJUlNLSEdqSk1IQWJ4azBidUxxZjBuNFljdjN6c0tLMnhaR0I0M2dhODJMY0dvUG91cTJhajBocWpKM3QxOXVpdDA2NjFUMA?oc=5>
-
-### 夹在特朗普和押注加息的市场之间 新任美联储主席沃什迎来严峻考验
+### 普京和泽连斯基分别与电特朗普通话讨论乌克兰问题
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Sina finance
-- 时间: 2026-06-14 18:05
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxPZVhJeWl3NS15NUR6cXE5Sk5KRUxxUk9NbG1vaVZzbUNZVVBQanBkVUhmTkZMMHJldVEwMW5weFFaNURZYlF5SUhyRkRQQnRyWDR0ZW4yVUVteWRxTU1lMGNHc2ZyM08xbXNwR2dXMV9OX294ZU1FNWdUR1ZjS2xvb2gyRUE4Y2c?oc=5>
+- 场馆: RFI
+- 时间: 2026-06-14 21:36
+- 链接: <https://news.google.com/rss/articles/CBMi8wJBVV95cUxQLWxicXRLMk85XzB5c1k5S0ZLOWxXRlRVQURQUW4wZFhrSEY5QzBUQ09UbUpucnlzTmNDRFBhNGFIaWZtRWtRaV91a2M4YjIwUXU0Qjk5YVZhZE9LMVlVNkRkS2pMVmJjeFVIN1BobUFGZTBKcmc0ZVVIeTVaTHUtOWZ3U09BajBxVm9WaUo5ZDFpVkxoM3drLXBiSGZrclVpUGNXbUtIVDFHWUlkTm5vZEFPY2k3bWF4dUllbnBpWWNuM2NJSkhzMDd2UjFJYmk1dXRTX0ppTU5FQ2ZuSzVkWVlVR3dmcnYyclEtUk9xenZsUDFqRlBPeEIyOWs5X0dGa2RwVVI2d1FFWmY0d25IaFJ5akRCMVAtN2FSMk9GVFF5RGxjYWx5bWRBR01ocU44OXdybVJfM25wV2tPSjZKUzE0Vnd0YzQ3cGl4VnF0dTRRNGVLX3Y3c0FtdWJhVFF1emVJUTFfbko0R0NxZGRZbGFTaw?oc=5>
 
 ### 美国坚持签约时间表 伊朗提出不同协议版本 美伊谈判疑云密布
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-14 20:03
-- 链接: <https://news.google.com/rss/articles/CBMijgJBVV95cUxPSzI2cDU3WHBvb2ZPOGthY1FpbjFFMm1TdU5XTDR3UUZSRDY1RV9WZHYxcEFxbmZyTUJfRFp2X0xQYm9PVnBJTEdOdGU4elAzQUwxN0tOVnBhRktoaGNEa295cDhJQXpVOC1wQ2VaNVhKYl8yQjEwMFMtRDJ1WDVIcGp4aktXOUo4UFlXNzFFNEx5ekhZTk13ZzRwc3JvWE1oX0Q3YjVSUldYdXE4WUZxQlNoNWFHZkdfVnc2OExEQTdGZVVGSXhpYnY2djlBOFhMZW1iTG84cGFKeXpUdGh1UlJqYjJ5NEthZEExLWNaSWgzd1RpcFc5ZmN0S0JPdmh3NjFpVnl5dFVOeTRwcEE?oc=5>
+- 时间: 2026-06-14 20:04
+- 链接: <https://news.google.com/rss/articles/CBMi_wFBVV95cUxPdlphT1lPbVRLOG5WRWhuaHQ5dTBja0ViZmtmZEc0VXRuZjRvbzMxd3FNT2lBczRFN2ZhRUhWcjQxVlI2Z21fOEc5MUpiX0dwNlR1YVJMMU5WbzUyWUlZWnZEWmFqUTR4NVdxRmlZOVVOVFBRX09OdVFKSGtnOER1bkQ5ekZrMUtZQlJJdVBFRUVjSUdLYXBuNFVJLWZzV3BMMHplS0xicGVfLUpoNUdOR1I5d0diNmNGQnd2UmVqWjU1UzRDamtvWTVuaDVtZThuRDktRlpvSWVRT09VMy1STmJmSmJjWW1yMU90UGZSQm1XOHpmWlZqTmRidUc1Rms?oc=5>
 
-### 白宫将主办“UFC自由250”综合格斗比赛
+### 特朗普：美伊协议已最终敲定 霍尔木兹海峡恢复开放
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-06-14 19:32
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFB5MGJOZms2a0tPUjJLNndvc05fOWdWZEw0Y1NSQ2UyQVEwbFlGLWw5UHhtV09GQWtrcG5zOGtRYnJEb3hRYVBBZU9XNUdzWDl1VktWUmZ4WHNuWUxHZ3AwbTJYQ2dxTmU1VGdRcWdUUjlTXzc5UEN2OUQxTzg3V1HSAYIBQVVfeXFMTmpYeUZxalFhV09OTDlnSjZZNnVoVWo1aFBSdklQZEZMaWdBdURST2lMUUFzcVB0dHhrTUtLWU9NWUtpbFVkWnpVZkYzcXl4TDZ0RDJhRU9ZdFc4LU9KWlBfeU1vMzNnUzdEMUMtaGJHb3NkLXlieUZZb2NqUkpydFpTZw?oc=5>
+- 场馆: RFI
+- 时间: 2026-06-14 21:55
+- 链接: <https://news.google.com/rss/articles/CBMi6gJBVV95cUxNa21tMThlUDZUQlhmX0dQY3ZXR0dBZTJxdDJQVV91QkJxUHNBOGpoX0VXMm81YU9aUGVSZUZhZndLVnZpZmRiRFZKTkRKbmpES3pwbTJiaWR6SEtPbloxdmhwRUJZN2RiSUVONEtJOGRzSUJ4MGtUN3ZHYkhzYzVlWWxNSnR6bG00VE5qSjZGaDJhSDNrZHhBeFlxOUwyRUhiaDFHSXJKUWZJelJDTU56czNoTjBIMmRleWRxcEFTTDlPT0hxOVpmbWhiNGc5Wl9BV3c4Yi0tcjNUNEJuN1RsSUhyQ0JIN3F6U2xSTGFGMUx6ZzlJUktNUzFtcDdPZmRIemZ1bC1PN1ZxQWJVRHNWMkJKNjd3ZzZoNVRkcnFKNnhaZ1A3ZG1MU1RNUlE1a0tkTlJWOVF3d3JBS2dwblpxWXA5a29tY3AwNmVySUF6QnZoRTYxang2T29nN2RqWGt1aHhJUnFza002QQ?oc=5>
+
+### 特朗普告诉普京“美伊谈判取得可接受结果”，以官员称“特朗普出卖了我们”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-06-14 20:02
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE8tWmNuMjVFWW5maW4xNzR5MVo4VEFGNDd4cVRhUjBqSGhCVmtPb3Vxc3E0UlAxNWZYSmRRUVdHc0xubHlFWURfd3EyNkh2RXJ1cEJMZDFULUtKeEdILWMtRVZjYllPUEh3MGhwSE9UQjc3ZFNZSnkwLQ?oc=5>
+
+### 特朗普称美伊达成和平协议
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 东方财富
+- 时间: 2026-06-14 21:45
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DekRhZm0weENZWlBfdkYzdkY0eURoaGVkbG5BLWZUTDBpck0xY0h5b3JsTllweUtzUE1MRjBpTzdZdXJTOUdRVzd0cDFJOUtnaW1veU91dGNTY0RwMnZzdQ?oc=5>
+
+### 特朗普称以色列当日对黎巴嫩的袭击“本不该发生”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-06-14 16:01
+- 链接: <https://news.google.com/rss/articles/CBMiowFBVV95cUxQYTZDN2JMWS1tS29ETUl4ZDJLMDhkLVpSX0huZDJLeDh5NUxxSEVYcmFlaXFNbWQxMXphUXdYYXZsWUZKYkIySEJTSHZFb3FDSlVQWXpOWU5ER1BFcmowVFg3TFlUaUptUHNESjM0RURPNE1QNDJWZjFGSlM2bkRCM1JMR0ZDeGdhaWdpbG5mblo4VkJPbWtjU0otazEzRk1iNkJz?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-14 22:04  (6 条)
+
+- **特朗普** | 普京和泽连斯基分别与电特朗普通话讨论乌克兰问题 <https://news.google.com/rss/articles/CBMi8wJBVV95cUxQLWxicXRLMk85XzB5c1k5S0ZLOWxXRlRVQURQUW4wZFhrSEY5QzBUQ09UbUpucnlzTmNDRFBhNGFIaWZtRWtRaV91a2M4YjIwUXU0Qjk5YVZhZE9LMVlVNkRkS2pMVmJjeFVIN1BobUFGZTBKcmc0ZVVIeTVaTHUtOWZ3U09BajBxVm9WaUo5ZDFpVkxoM3drLXBiSGZrclVpUGNXbUtIVDFHWUlkTm5vZEFPY2k3bWF4dUllbnBpWWNuM2NJSkhzMDd2UjFJYmk1dXRTX0ppTU5FQ2ZuSzVkWVlVR3dmcnYyclEtUk9xenZsUDFqRlBPeEIyOWs5X0dGa2RwVVI2d1FFWmY0d25IaFJ5akRCMVAtN2FSMk9GVFF5RGxjYWx5bWRBR01ocU44OXdybVJfM25wV2tPSjZKUzE0Vnd0YzQ3cGl4VnF0dTRRNGVLX3Y3c0FtdWJhVFF1emVJUTFfbko0R0NxZGRZbGFTaw?oc=5>
+- **特朗普** | 美国坚持签约时间表 伊朗提出不同协议版本 美伊谈判疑云密布 <https://news.google.com/rss/articles/CBMi_wFBVV95cUxPdlphT1lPbVRLOG5WRWhuaHQ5dTBja0ViZmtmZEc0VXRuZjRvbzMxd3FNT2lBczRFN2ZhRUhWcjQxVlI2Z21fOEc5MUpiX0dwNlR1YVJMMU5WbzUyWUlZWnZEWmFqUTR4NVdxRmlZOVVOVFBRX09OdVFKSGtnOER1bkQ5ekZrMUtZQlJJdVBFRUVjSUdLYXBuNFVJLWZzV3BMMHplS0xicGVfLUpoNUdOR1I5d0diNmNGQnd2UmVqWjU1UzRDamtvWTVuaDVtZThuRDktRlpvSWVRT09VMy1STmJmSmJjWW1yMU90UGZSQm1XOHpmWlZqTmRidUc1Rms?oc=5>
+- **特朗普** | 特朗普：美伊协议已最终敲定 霍尔木兹海峡恢复开放 <https://news.google.com/rss/articles/CBMi6gJBVV95cUxNa21tMThlUDZUQlhmX0dQY3ZXR0dBZTJxdDJQVV91QkJxUHNBOGpoX0VXMm81YU9aUGVSZUZhZndLVnZpZmRiRFZKTkRKbmpES3pwbTJiaWR6SEtPbloxdmhwRUJZN2RiSUVONEtJOGRzSUJ4MGtUN3ZHYkhzYzVlWWxNSnR6bG00VE5qSjZGaDJhSDNrZHhBeFlxOUwyRUhiaDFHSXJKUWZJelJDTU56czNoTjBIMmRleWRxcEFTTDlPT0hxOVpmbWhiNGc5Wl9BV3c4Yi0tcjNUNEJuN1RsSUhyQ0JIN3F6U2xSTGFGMUx6ZzlJUktNUzFtcDdPZmRIemZ1bC1PN1ZxQWJVRHNWMkJKNjd3ZzZoNVRkcnFKNnhaZ1A3ZG1MU1RNUlE1a0tkTlJWOVF3d3JBS2dwblpxWXA5a29tY3AwNmVySUF6QnZoRTYxang2T29nN2RqWGt1aHhJUnFza002QQ?oc=5>
+- **特朗普** | 特朗普告诉普京“美伊谈判取得可接受结果”，以官员称“特朗普出卖了我们” <https://news.google.com/rss/articles/CBMieEFVX3lxTE8tWmNuMjVFWW5maW4xNzR5MVo4VEFGNDd4cVRhUjBqSGhCVmtPb3Vxc3E0UlAxNWZYSmRRUVdHc0xubHlFWURfd3EyNkh2RXJ1cEJMZDFULUtKeEdILWMtRVZjYllPUEh3MGhwSE9UQjc3ZFNZSnkwLQ?oc=5>
+- **特朗普** | 特朗普称美伊达成和平协议 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DekRhZm0weENZWlBfdkYzdkY0eURoaGVkbG5BLWZUTDBpck0xY0h5b3JsTllweUtzUE1MRjBpTzdZdXJTOUdRVzd0cDFJOUtnaW1veU91dGNTY0RwMnZzdQ?oc=5>
+- **特朗普** | 特朗普称以色列当日对黎巴嫩的袭击“本不该发生” <https://news.google.com/rss/articles/CBMiowFBVV95cUxQYTZDN2JMWS1tS29ETUl4ZDJLMDhkLVpSX0huZDJLeDh5NUxxSEVYcmFlaXFNbWQxMXphUXdYYXZsWUZKYkIySEJTSHZFb3FDSlVQWXpOWU5ER1BFcmowVFg3TFlUaUptUHNESjM0RURPNE1QNDJWZjFGSlM2bkRCM1JMR0ZDeGdhaWdpbG5mblo4VkJPbWtjU0otazEzRk1iNkJz?oc=5>
 
 ### 2026-06-14 20:45  (4 条)
 
