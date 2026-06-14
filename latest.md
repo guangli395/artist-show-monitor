@@ -1,33 +1,49 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-14 01:41**
-- 本轮扫到 3376 条, 新增 **7** 条
+- 最近更新: **2026-06-14 06:29**
+- 本轮扫到 3386 条, 新增 **10** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (10 条)
 
-### 蔡依林北京鸟巢演唱会嘉宾林俊杰，双J合唱倒带
+### 2025歌手巡演票房,五月天成功登顶,汪苏泷差点追平周杰伦
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924004_m1d5ae19240330202k4.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906r9aw.html>
 
-### 维持肯尼迪中心移除特朗普名字裁决
+### 特朗普称14日签署美伊协议 伊朗否认 协议签署时间存争议
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-06-13 23:31
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE4tNmI5Vnl5VTRGeUpQM0dUTnRVMHJYdlEwSEVMWkE4MUZoYUVrV2lOR3RkMUJaSC00U2V5bkI0YVZVbEZxVlZmMGluTDQ3Y3VQMGJaN1lYVlNEandSYmhaT2pwc01nc3psOEVtTG9IVzY?oc=5>
+
+### 新华社消息丨特朗普：美伊定于14日签署协议
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-06-14 01:40
+- 链接: <https://news.google.com/rss/articles/CBMid0FVX3lxTFByTDJ3dnViSnRTdE90ZkM5VlhnRzJSNTltTGRKekdFTkpUek8zdWNxNFB2MTladjhQTmhuQVNYU0tqUUc5X0RkZUIwWXEzdXI2RHRKczFPZVRHUlVJR01kVjZFSWthRE10NV8tMFlqY3lLY1RIZlBv?oc=5>
+
+### 特朗普将赴法国出席七国集团峰会 会晤中东伙伴
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-13 23:08
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFA4MUd2SERGa0twdlVpQTMxWWtxT1BRYk5MQlVEYkdoaDlBZHk1VGFXNjUxM2lFSFBodW5TQWRQVmhwWk1paW1pUkxDeXR0V3V3d0dQSGxBVG1fb0wwTGZGdTg1MHNTeXpWeGlBdmpPVTVWaDVzelZNdg?oc=5>
+- 时间: 2026-06-13 16:27
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTzQ2WjJtMWdYY2VRR0txOEYtYU9YdktOTXcwSTZ5WldZRVQ5S3FSeVJzVVNLYWNTc3EydkxTY2pEWERFVzRJXzdVMzJPTXBvOGF6NWJhZVlfOFZjM3B3cXhsZjZQQUJGUU9NbmoyNHh3Ull0ZG81c2lJSndEbGRpUGJRTEp6WUNjdXduYzN6V3pRa0JORk5GZjlxQmdoUDY0ZXk4aGFheWF0SHpEQTBCelp5eVZ5LUpvb2k0OTdnRnNtbVJld2NIYVljaEpzREVqVlQyRmpoQUo3WEZTYTJn?oc=5>
 
-### 美官员：特朗普法国G7峰会上将与中东领导人会晤 并讨论乌克兰问题
+### G7如何开 全看特朗普心情好坏？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-14 01:31
-- 链接: <https://news.google.com/rss/articles/CBMiwAFBVV95cUxOc0Z3U2MybUtlZF9rZW91NF9SMzBGOHYtVXlZaFJZVlIzaEJMU3NBeHpYemNKMVZCay02ODVIX2VRZ1BwX2o5ekd2RXc4d0dNWWNnYy10a0dhdmFwUk9Vc3dRMkxjajJzODRQLVNLVTJUUUE0SXNHZ05xVjRzNE1nN3Mza2tPUzV2MUsyeEpjci1Rb3pfSnA2eWNDUGwtcE5FcW1XLTBqQTBTLWl2XzJVU3dXTHBzcG5DUnJraURGcHA?oc=5>
+- 场馆: RFI
+- 时间: 2026-06-13 22:23
+- 链接: <https://news.google.com/rss/articles/CBMi8wFBVV95cUxNYXBrUVpLZ3RUMDlYZFdDd2hFVzlOWmthbm1JNmllVkItajVXN0p0ME10U1B5cWlpTl96QUtyQmExcFliSVpkMndmaHBmNk45RWoySVBCODB2TVVlTVZQZjNZeC10RlNTZ3Nqc2RtYzMyRm9ucVlvODI5MWhaWVV5ODZnYTNnVmltTENNNmlPamFBMW8weWxQWEZFZFZoS1lYM2l6M2xMT2k3a2htRnFhdWhXY0tpbnpzUlkwMW9GMmdDODdlYmJpc3puQTNPWDIyckRVVWllWG5wOW1YMm5zU0dPdGhDSF9FSy1EMzNLemN4bk0?oc=5>
 
 ### 特朗普迈向80岁，数说美国政坛的“老”面孔
 
@@ -35,36 +51,57 @@
 - 来源: `googlenews`
 - 场馆: thepaper.cn
 - 时间: 2026-06-13 23:27
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTFBNbmNXcnFoRHdDcWdMVXNGWDVxUENDcXpFek1jU0V0cFBKZEg0OWI5QnFZTklqT0wtR1R0bF8yeFloU2lDcnpNUWh5RzFUQTNMc0pKLXZvbEpSMGpqa1E?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE5oRW5UNDg2ejMtLS1tUnNjOTB3c1FBQjJ1ZkF1NnctczFEekY1UEgwZVQ1a0Y5LU5ndFExZ0JjSHRiaVh0SkRobkFuN1JTLXphVDhaaUR4YnIwb1ljU2tTcFQ3NmJLRzFyTUFGeWZseTdsZw?oc=5>
 
-### 特朗普：美伊协议计划于周日签署 霍尔木兹海峡随后立即开放
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-06-13 18:41
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE56UGRTTTE1eE1PU3p6S2lCWTRMazNJVUU4NnVMdDRXZXl4TGlUVEt5OGZnb1pwQUloeVRXVW5YR3NYajlrSlVRdg?oc=5>
-
-### 特朗普：计划14日签署协议 伊朗否认：还需等待
+### 特朗普拟提名其私人律师为联邦检察官
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-06-14 01:00
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9uaGRoWExQaXNUUFdOOFZkTTlqamRScENGeUotb3ZFbTh1dkNici16ZGRrU3d0WVVLZFdmSXphMGNMN1dYcnFSYVA5a01OUEgwajE5bWM4YmFJWXEzendDaThid01wYk5V?oc=5>
+- 场馆: Sohu
+- 时间: 2026-06-14 04:56
+- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxObEVsRzU5ZnZRWFRsVkhTS0ZHUnhHWDJmcjJTbVk2RnlLcVpIaV9ueTZsQi01a3J6RXI5eWtNWVBSMXBOR245dUhvc0Z1SW1ZWk1tZDRoOGs1clZpMmlFLW5WUVJXOG1KLXJ6YnNpdXJodl9HU3pUU0JwdXBRQ18wTjBNd3hmdXh4ZHJF?oc=5>
 
-### 特朗普：美方星期天同伊朗签署结束中东战争协议
+### 新华社消息丨特朗普：美伊定于14日签署协议
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-06-14 01:40
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE85V1lzUmxvUVgycDZLbXlfbm5mc2cxOFlEcjVMSnpkakNsNFhOdjVFTG9kTEF3aXNyMmo4ODRKSEVuSGh6ZVZ6MmlaT3V4V1c1bXVRenpMZEpOZ01ycE5EYTByX2NZN3A3UzhaNEdwT1VBS2NxNG5iTFNpQzNfMlk?oc=5>
+
+### Bilingual丨特朗普：美伊14日签署协议；伊朗：14日不签
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Sohu
+- 时间: 2026-06-14 04:02
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxQODQ2QkktMHFEbDRlUmFucXUyclVpLVlIQWdDWS1XZ1RuUUNZc3MtYlk5UzJ3ampJSHQ5b01VSGVPYVhYUUFEbVBCZ1J0SVRrcWZrWkNhVzR6OEJOb2x4ejFGeUtrQjBKc2MzZXdXcFZkYkxzMHZIVzJrU2hzR092c0YyQTk3SVJhZkNqYg?oc=5>
+
+### 特朗普G7峰会期间将会晤中东领导人 同泽连斯基参与工作会议
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: 8world
-- 时间: 2026-06-13 22:38
-- 链接: <https://news.google.com/rss/articles/CBMikgFBVV95cUxONmVxM3BVbXhjOV9oRGlQX2tibkEzNXB4VlFOSW1iSkpvc1hSZDdiN1J3NEkwTEE5eXctNE95U01mM01hVC03TnNWdU5wNzJxa3RkcEY0dHdUTU42QnYwbXlKdjhzaVZXdC1tQ0pvU2lWOWhXM0Y5b1Jydm9fLTRhdHp0eVlqTk5zWXdJdXRTbExEUQ?oc=5>
+- 时间: 2026-06-14 01:53
+- 链接: <https://news.google.com/rss/articles/CBMipwFBVV95cUxQUnA3ZG94UnZISHZQbHQ2eGNUVFhrRUZ4dmx2U0pqN1R6V0E1TUJPWC1HeWhpbWdzVkxxSW9CQnNZeEoyNHhBTUNyU0lrbEtfTW9hcmEteml1dVF1Mnlyc0pfd0tYeVBocnBxQkdiR0pzVXBtU2UxUEQzNzlxSWZDRngyQTJETGJhV25yTDZ6eVdjZkk4NGpqVHdSN1AtOU0zVHdHdy1PVQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-14 06:29  (10 条)
+
+- **周杰伦** | 2025歌手巡演票房,五月天成功登顶,汪苏泷差点追平周杰伦 <https://k.sina.com.cn/article_7857201856_1d45362c001906r9aw.html>
+- **特朗普** | 特朗普称14日签署美伊协议 伊朗否认 协议签署时间存争议 <https://news.google.com/rss/articles/CBMicEFVX3lxTE4tNmI5Vnl5VTRGeUpQM0dUTnRVMHJYdlEwSEVMWkE4MUZoYUVrV2lOR3RkMUJaSC00U2V5bkI0YVZVbEZxVlZmMGluTDQ3Y3VQMGJaN1lYVlNEandSYmhaT2pwc01nc3psOEVtTG9IVzY?oc=5>
+- **特朗普** | 新华社消息丨特朗普：美伊定于14日签署协议 <https://news.google.com/rss/articles/CBMid0FVX3lxTFByTDJ3dnViSnRTdE90ZkM5VlhnRzJSNTltTGRKekdFTkpUek8zdWNxNFB2MTladjhQTmhuQVNYU0tqUUc5X0RkZUIwWXEzdXI2RHRKczFPZVRHUlVJR01kVjZFSWthRE10NV8tMFlqY3lLY1RIZlBv?oc=5>
+- **特朗普** | 特朗普将赴法国出席七国集团峰会 会晤中东伙伴 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTzQ2WjJtMWdYY2VRR0txOEYtYU9YdktOTXcwSTZ5WldZRVQ5S3FSeVJzVVNLYWNTc3EydkxTY2pEWERFVzRJXzdVMzJPTXBvOGF6NWJhZVlfOFZjM3B3cXhsZjZQQUJGUU9NbmoyNHh3Ull0ZG81c2lJSndEbGRpUGJRTEp6WUNjdXduYzN6V3pRa0JORk5GZjlxQmdoUDY0ZXk4aGFheWF0SHpEQTBCelp5eVZ5LUpvb2k0OTdnRnNtbVJld2NIYVljaEpzREVqVlQyRmpoQUo3WEZTYTJn?oc=5>
+- **特朗普** | G7如何开 全看特朗普心情好坏？ <https://news.google.com/rss/articles/CBMi8wFBVV95cUxNYXBrUVpLZ3RUMDlYZFdDd2hFVzlOWmthbm1JNmllVkItajVXN0p0ME10U1B5cWlpTl96QUtyQmExcFliSVpkMndmaHBmNk45RWoySVBCODB2TVVlTVZQZjNZeC10RlNTZ3Nqc2RtYzMyRm9ucVlvODI5MWhaWVV5ODZnYTNnVmltTENNNmlPamFBMW8weWxQWEZFZFZoS1lYM2l6M2xMT2k3a2htRnFhdWhXY0tpbnpzUlkwMW9GMmdDODdlYmJpc3puQTNPWDIyckRVVWllWG5wOW1YMm5zU0dPdGhDSF9FSy1EMzNLemN4bk0?oc=5>
+- **特朗普** | 特朗普迈向80岁，数说美国政坛的“老”面孔 <https://news.google.com/rss/articles/CBMickFVX3lxTE5oRW5UNDg2ejMtLS1tUnNjOTB3c1FBQjJ1ZkF1NnctczFEekY1UEgwZVQ1a0Y5LU5ndFExZ0JjSHRiaVh0SkRobkFuN1JTLXphVDhaaUR4YnIwb1ljU2tTcFQ3NmJLRzFyTUFGeWZseTdsZw?oc=5>
+- **特朗普** | 特朗普拟提名其私人律师为联邦检察官 <https://news.google.com/rss/articles/CBMiiwFBVV95cUxObEVsRzU5ZnZRWFRsVkhTS0ZHUnhHWDJmcjJTbVk2RnlLcVpIaV9ueTZsQi01a3J6RXI5eWtNWVBSMXBOR245dUhvc0Z1SW1ZWk1tZDRoOGs1clZpMmlFLW5WUVJXOG1KLXJ6YnNpdXJodl9HU3pUU0JwdXBRQ18wTjBNd3hmdXh4ZHJF?oc=5>
+- **特朗普** | 新华社消息丨特朗普：美伊定于14日签署协议 <https://news.google.com/rss/articles/CBMif0FVX3lxTE85V1lzUmxvUVgycDZLbXlfbm5mc2cxOFlEcjVMSnpkakNsNFhOdjVFTG9kTEF3aXNyMmo4ODRKSEVuSGh6ZVZ6MmlaT3V4V1c1bXVRenpMZEpOZ01ycE5EYTByX2NZN3A3UzhaNEdwT1VBS2NxNG5iTFNpQzNfMlk?oc=5>
+- **Trump** | Bilingual丨特朗普：美伊14日签署协议；伊朗：14日不签 <https://news.google.com/rss/articles/CBMijAFBVV95cUxQODQ2QkktMHFEbDRlUmFucXUyclVpLVlIQWdDWS1XZ1RuUUNZc3MtYlk5UzJ3ampJSHQ5b01VSGVPYVhYUUFEbVBCZ1J0SVRrcWZrWkNhVzR6OEJOb2x4ejFGeUtrQjBKc2MzZXdXcFZkYkxzMHZIVzJrU2hzR092c0YyQTk3SVJhZkNqYg?oc=5>
+- **Trump** | 特朗普G7峰会期间将会晤中东领导人 同泽连斯基参与工作会议 <https://news.google.com/rss/articles/CBMipwFBVV95cUxQUnA3ZG94UnZISHZQbHQ2eGNUVFhrRUZ4dmx2U0pqN1R6V0E1TUJPWC1HeWhpbWdzVkxxSW9CQnNZeEoyNHhBTUNyU0lrbEtfTW9hcmEteml1dVF1Mnlyc0pfd0tYeVBocnBxQkdiR0pzVXBtU2UxUEQzNzlxSWZDRngyQTJETGJhV25yTDZ6eVdjZkk4NGpqVHdSN1AtOU0zVHdHdy1PVQ?oc=5>
 
 ### 2026-06-14 01:41  (7 条)
 
