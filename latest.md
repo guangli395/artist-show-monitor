@@ -1,64 +1,73 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-14 22:04**
-- 本轮扫到 3451 条, 新增 **6** 条
+- 最近更新: **2026-06-14 23:44**
+- 本轮扫到 3457 条, 新增 **6** 条
 
 ---
 
 ## 本轮新发现 (6 条)
 
-### 普京和泽连斯基分别与电特朗普通话讨论乌克兰问题
+### 特朗普：美伊达成协议，霍尔木兹海峡开放
 
 - 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: chinanews.com.cn
+- 时间: 2026-06-14 22:21
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ZNG12NzFMQkJRU0diYU5MaDU4b1Y3R19xYjkyZlE0UUJwM1BxSVI3Wk5YR0hXQVNFck1YZUFQaVpnR1g2MDZXNjVTTHpZSHJyOHZicDFZTG10ZXZjU2tqTVFER0o5cU1K?oc=5>
+
+### 美以伊局势一文速览：特朗普称美伊协议将由他或万斯签署 他在达成协议前一小时接到通报，“以色列正在袭击贝鲁特，简直不敢相信”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-06-14 23:33
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9Bc2drV2NEQVZGR0x1WU1LM2oxQzN5WkV6NXN2QWJvaUNYd0Z0MC0zYmtPZW9MeEx6dExySllrSmdkYm9fcW5mTFlNQjdtdDkyYXh2cmYtYU9Jd1otWE5YdDU5MmFjeUQ0M3N1S3U3VFQ?oc=5>
+
+### 特朗普：美伊协议“完成”，霍尔木兹海峡开放
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-06-14 21:42
+- 链接: <https://news.google.com/rss/articles/CBMiTkFVX3lxTE5iSnlwTDVJeFZoS2hTMnU3UjhvZklDTkVVSXBjdWplX3N6MjhIM29EUmRhM2JkMldYYWNza1lwdmFla1c0N044MmpjRWhzUQ?oc=5>
+
+### 特朗普总统宣布与伊朗的协议“完成”，并宣布霍尔木兹海峡开放
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-06-14 23:16
+- 链接: <https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdUljZEdVcjZ2dVQwRTA4N0RvejFhRmdMdE54dVVCM0RLMjdWN2trbGEtTXJGT2FjbEY5NkpEWkFlVEdhNVRHNVE1WGx4UzIwZ3Y0ZEUwN3N3amRRR0c3eEx2Sm05TjREcjlFTmNKYUw5YXZyeElhdk1XMHVPTVFHcVNBdVBzaUtUTXozU1lEbGFYN0lNNVFhVkJiajAtV295cElEUEk0UWY2UDM2RnBOR1RacTlkYUlhTnk5UXlGMGNYM3pmNHJJVUd2c09vVy1nZWtKR0Rn0gHYAUFVX3lxTFBLR2cyWVMzVHZrN3lxRlY4czAzOXNfMXVaMFdXakd0cFFNTTlJWUJlTkdsNEswNWtkSzRDSnVpdWNoSldmd1RoUnMtSjZOa3dHVHFRemlidlI2d3haQVU4SW9jWUhxTDFFVlhHd0VBWHZhWFZVODR4UW5XLXpuRGhBQlZFSk8tZ3RKWXpDWGNlZ1dpXzBqcDhZb192YUp6Uk9oUHo1Z0htLVFtNmNBQnJVa0hQQnVrVkJIemV1MXlRaGNPZHFDel9MdUFjRDAzLXNfUGZFZGFwbg?oc=5>
+
+### 伊媒：伊朗不会在特朗普宣布的时间签署任何协议
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-06-14 15:10
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE5hVGNsM3VBME9WZDVoTFhXQ3VpMHM2X1prUWhCOGI2Zi01VHBMVWlwWEo2dWo0aEIyZUxscnYzd20tU3Iya01faE0tdExGTnFUeUR6Yk9HYUQtZTJSOExNMDNiM19DUVU2QmRqUHVIYm4waVdNZ1RjTEs2VXNNcE0?oc=5>
+
+### 特朗普称美伊协议即将签署 伊朗威胁报复贝鲁特空袭
+
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: RFI
-- 时间: 2026-06-14 21:36
-- 链接: <https://news.google.com/rss/articles/CBMi8wJBVV95cUxQLWxicXRLMk85XzB5c1k5S0ZLOWxXRlRVQURQUW4wZFhrSEY5QzBUQ09UbUpucnlzTmNDRFBhNGFIaWZtRWtRaV91a2M4YjIwUXU0Qjk5YVZhZE9LMVlVNkRkS2pMVmJjeFVIN1BobUFGZTBKcmc0ZVVIeTVaTHUtOWZ3U09BajBxVm9WaUo5ZDFpVkxoM3drLXBiSGZrclVpUGNXbUtIVDFHWUlkTm5vZEFPY2k3bWF4dUllbnBpWWNuM2NJSkhzMDd2UjFJYmk1dXRTX0ppTU5FQ2ZuSzVkWVlVR3dmcnYyclEtUk9xenZsUDFqRlBPeEIyOWs5X0dGa2RwVVI2d1FFWmY0d25IaFJ5akRCMVAtN2FSMk9GVFF5RGxjYWx5bWRBR01ocU44OXdybVJfM25wV2tPSjZKUzE0Vnd0YzQ3cGl4VnF0dTRRNGVLX3Y3c0FtdWJhVFF1emVJUTFfbko0R0NxZGRZbGFTaw?oc=5>
-
-### 美国坚持签约时间表 伊朗提出不同协议版本 美伊谈判疑云密布
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-14 20:04
-- 链接: <https://news.google.com/rss/articles/CBMi_wFBVV95cUxPdlphT1lPbVRLOG5WRWhuaHQ5dTBja0ViZmtmZEc0VXRuZjRvbzMxd3FNT2lBczRFN2ZhRUhWcjQxVlI2Z21fOEc5MUpiX0dwNlR1YVJMMU5WbzUyWUlZWnZEWmFqUTR4NVdxRmlZOVVOVFBRX09OdVFKSGtnOER1bkQ5ekZrMUtZQlJJdVBFRUVjSUdLYXBuNFVJLWZzV3BMMHplS0xicGVfLUpoNUdOR1I5d0diNmNGQnd2UmVqWjU1UzRDamtvWTVuaDVtZThuRDktRlpvSWVRT09VMy1STmJmSmJjWW1yMU90UGZSQm1XOHpmWlZqTmRidUc1Rms?oc=5>
-
-### 特朗普：美伊协议已最终敲定 霍尔木兹海峡恢复开放
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-06-14 21:55
-- 链接: <https://news.google.com/rss/articles/CBMi6gJBVV95cUxNa21tMThlUDZUQlhmX0dQY3ZXR0dBZTJxdDJQVV91QkJxUHNBOGpoX0VXMm81YU9aUGVSZUZhZndLVnZpZmRiRFZKTkRKbmpES3pwbTJiaWR6SEtPbloxdmhwRUJZN2RiSUVONEtJOGRzSUJ4MGtUN3ZHYkhzYzVlWWxNSnR6bG00VE5qSjZGaDJhSDNrZHhBeFlxOUwyRUhiaDFHSXJKUWZJelJDTU56czNoTjBIMmRleWRxcEFTTDlPT0hxOVpmbWhiNGc5Wl9BV3c4Yi0tcjNUNEJuN1RsSUhyQ0JIN3F6U2xSTGFGMUx6ZzlJUktNUzFtcDdPZmRIemZ1bC1PN1ZxQWJVRHNWMkJKNjd3ZzZoNVRkcnFKNnhaZ1A3ZG1MU1RNUlE1a0tkTlJWOVF3d3JBS2dwblpxWXA5a29tY3AwNmVySUF6QnZoRTYxang2T29nN2RqWGt1aHhJUnFza002QQ?oc=5>
-
-### 特朗普告诉普京“美伊谈判取得可接受结果”，以官员称“特朗普出卖了我们”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-14 20:02
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE8tWmNuMjVFWW5maW4xNzR5MVo4VEFGNDd4cVRhUjBqSGhCVmtPb3Vxc3E0UlAxNWZYSmRRUVdHc0xubHlFWURfd3EyNkh2RXJ1cEJMZDFULUtKeEdILWMtRVZjYllPUEh3MGhwSE9UQjc3ZFNZSnkwLQ?oc=5>
-
-### 特朗普称美伊达成和平协议
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-06-14 21:45
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DekRhZm0weENZWlBfdkYzdkY0eURoaGVkbG5BLWZUTDBpck0xY0h5b3JsTllweUtzUE1MRjBpTzdZdXJTOUdRVzd0cDFJOUtnaW1veU91dGNTY0RwMnZzdQ?oc=5>
-
-### 特朗普称以色列当日对黎巴嫩的袭击“本不该发生”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-14 16:01
-- 链接: <https://news.google.com/rss/articles/CBMiowFBVV95cUxQYTZDN2JMWS1tS29ETUl4ZDJLMDhkLVpSX0huZDJLeDh5NUxxSEVYcmFlaXFNbWQxMXphUXdYYXZsWUZKYkIySEJTSHZFb3FDSlVQWXpOWU5ER1BFcmowVFg3TFlUaUptUHNESjM0RURPNE1QNDJWZjFGSlM2bkRCM1JMR0ZDeGdhaWdpbG5mblo4VkJPbWtjU0otazEzRk1iNkJz?oc=5>
+- 时间: 2026-06-14 22:21
+- 链接: <https://news.google.com/rss/articles/CBMi9AJBVV95cUxNUTZyQ202WWxtN3pXcXlFV3ByRGo0a2dyQVRfU09mRzVMakdUNHJxRFdSLVNiLVZFUUU3OWhibHJrTVVVLVlCb29YSVQ3ZW0wOF80Q1dJajA1SThmOGt2N010bENHc2V0QWM0Tjh0SVdxQzJUa0FNYXpvTTRZNHQ3LS0xaFVZeXd0NVowb1F0SHBpd2NNMzVMelNwRjk0ckoxRDRLanc1d2d4UVdLMUpnVE51S0hBNUlQY19aSmtxZkxMWXZwbTl3NUtSb01DRzdmUGJlUVZXZy1Lem13N1RIMGs1WGRTMFJqTWVKUE9HMEYxX01KWVUtMXJ0N3BYOHVuOEVDOUFqa210dElMY1ZtWXktNWlqaDc2YmdWU2g1QWd6YzlmQTJTR01tblViMTNnb21GNVdvNmltN1JGZXh3M29OVTQ4cnViM0JqSTZLNHVkMjd3T2laV2RxX1pBOFNqQzNBZU1oMVVMeHBLMzJyUjBmYlk?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-14 23:44  (6 条)
+
+- **特朗普** | 特朗普：美伊达成协议，霍尔木兹海峡开放 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ZNG12NzFMQkJRU0diYU5MaDU4b1Y3R19xYjkyZlE0UUJwM1BxSVI3Wk5YR0hXQVNFck1YZUFQaVpnR1g2MDZXNjVTTHpZSHJyOHZicDFZTG10ZXZjU2tqTVFER0o5cU1K?oc=5>
+- **特朗普** | 美以伊局势一文速览：特朗普称美伊协议将由他或万斯签署 他在达成协议前一小时接到通报，“以色列正在袭击贝鲁特，简直不敢相信” <https://news.google.com/rss/articles/CBMicEFVX3lxTE9Bc2drV2NEQVZGR0x1WU1LM2oxQzN5WkV6NXN2QWJvaUNYd0Z0MC0zYmtPZW9MeEx6dExySllrSmdkYm9fcW5mTFlNQjdtdDkyYXh2cmYtYU9Jd1otWE5YdDU5MmFjeUQ0M3N1S3U3VFQ?oc=5>
+- **特朗普** | 特朗普：美伊协议“完成”，霍尔木兹海峡开放 <https://news.google.com/rss/articles/CBMiTkFVX3lxTE5iSnlwTDVJeFZoS2hTMnU3UjhvZklDTkVVSXBjdWplX3N6MjhIM29EUmRhM2JkMldYYWNza1lwdmFla1c0N044MmpjRWhzUQ?oc=5>
+- **特朗普** | 特朗普总统宣布与伊朗的协议“完成”，并宣布霍尔木兹海峡开放 <https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdUljZEdVcjZ2dVQwRTA4N0RvejFhRmdMdE54dVVCM0RLMjdWN2trbGEtTXJGT2FjbEY5NkpEWkFlVEdhNVRHNVE1WGx4UzIwZ3Y0ZEUwN3N3amRRR0c3eEx2Sm05TjREcjlFTmNKYUw5YXZyeElhdk1XMHVPTVFHcVNBdVBzaUtUTXozU1lEbGFYN0lNNVFhVkJiajAtV295cElEUEk0UWY2UDM2RnBOR1RacTlkYUlhTnk5UXlGMGNYM3pmNHJJVUd2c09vVy1nZWtKR0Rn0gHYAUFVX3lxTFBLR2cyWVMzVHZrN3lxRlY4czAzOXNfMXVaMFdXakd0cFFNTTlJWUJlTkdsNEswNWtkSzRDSnVpdWNoSldmd1RoUnMtSjZOa3dHVHFRemlidlI2d3haQVU4SW9jWUhxTDFFVlhHd0VBWHZhWFZVODR4UW5XLXpuRGhBQlZFSk8tZ3RKWXpDWGNlZ1dpXzBqcDhZb192YUp6Uk9oUHo1Z0htLVFtNmNBQnJVa0hQQnVrVkJIemV1MXlRaGNPZHFDel9MdUFjRDAzLXNfUGZFZGFwbg?oc=5>
+- **特朗普** | 伊媒：伊朗不会在特朗普宣布的时间签署任何协议 <https://news.google.com/rss/articles/CBMif0FVX3lxTE5hVGNsM3VBME9WZDVoTFhXQ3VpMHM2X1prUWhCOGI2Zi01VHBMVWlwWEo2dWo0aEIyZUxscnYzd20tU3Iya01faE0tdExGTnFUeUR6Yk9HYUQtZTJSOExNMDNiM19DUVU2QmRqUHVIYm4waVdNZ1RjTEs2VXNNcE0?oc=5>
+- **Trump** | 特朗普称美伊协议即将签署 伊朗威胁报复贝鲁特空袭 <https://news.google.com/rss/articles/CBMi9AJBVV95cUxNUTZyQ202WWxtN3pXcXlFV3ByRGo0a2dyQVRfU09mRzVMakdUNHJxRFdSLVNiLVZFUUU3OWhibHJrTVVVLVlCb29YSVQ3ZW0wOF80Q1dJajA1SThmOGt2N010bENHc2V0QWM0Tjh0SVdxQzJUa0FNYXpvTTRZNHQ3LS0xaFVZeXd0NVowb1F0SHBpd2NNMzVMelNwRjk0ckoxRDRLanc1d2d4UVdLMUpnVE51S0hBNUlQY19aSmtxZkxMWXZwbTl3NUtSb01DRzdmUGJlUVZXZy1Lem13N1RIMGs1WGRTMFJqTWVKUE9HMEYxX01KWVUtMXJ0N3BYOHVuOEVDOUFqa210dElMY1ZtWXktNWlqaDc2YmdWU2g1QWd6YzlmQTJTR01tblViMTNnb21GNVdvNmltN1JGZXh3M29OVTQ4cnViM0JqSTZLNHVkMjd3T2laV2RxX1pBOFNqQzNBZU1oMVVMeHBLMzJyUjBmYlk?oc=5>
 
 ### 2026-06-14 22:04  (6 条)
 
