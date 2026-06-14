@@ -1,70 +1,80 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-14 16:17**
-- 本轮扫到 3430 条, 新增 **7** 条
+- 最近更新: **2026-06-14 17:55**
+- 本轮扫到 3437 条, 新增 **7** 条
 
 ---
 
 ## 本轮新发现 (7 条)
 
-### 周杰伦新专辑先行曲MV郎朗助阵
+### 周杰伦南京演唱会这次没“站票”?
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906sdcg.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906six2.html>
 
-### 特朗普称以色列当日对黎巴嫩的袭击“本不该发生”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-06-14 14:58
-- 链接: <https://news.google.com/rss/articles/CBMid0FVX3lxTE5DRVhTTjhGdnh6WFdvR3hfMkdiTndRc2pHeHdZYktWSnZ3NlkxUGkwa3h0NXhTMTBzVzcyMTlOZGttZE1kQXFmMDJfY3Q3elZuaFNGTHRaLXI4VUdSaHVwczh6bURuYzN4dHM3ckpQNmlWVzkxZ1JN?oc=5>
-
-### 肯尼迪中心大楼移除特朗普名字特朗普名字被移除了
+### 不满以色列空袭贝鲁特 特朗普指责内塔尼亚胡“缺乏理智”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-14 14:49
-- 链接: <https://news.google.com/rss/articles/CBMihAFBVV95cUxNWE41TXhESTlHN1ljei00dFZXd0pVTkh2aGQ0Z3ZTcnY5akF0aXBsQ1R5LTNFbEJrTF9EQjZ0QUVRT0JINTZZR21tYW5VQ19wME1hQVM5aTVTS3d4UE0taVRtZDk1SzFSZGRSQ2pxempTQU8xQ21WajMwMFQxUktzWFhHZk0?oc=5>
-
-### 特朗普透露日期，伊朗又否认了-观察者网
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-06-13 23:16
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5mOERRTzNGaVpnWkNnNmNETC1mVFRNTGh3TGtpaVpwdmZENnd0TEFOcVZNbHNJVU5DcnFOTl9EclZ4WWFhOU8xZjFXQ0JoNDJNM1YzUWRGdEVldUlRTHo3WC05ZzJBdFpoQ2c?oc=5>
-
-### 特朗普：“非常接近”达成美伊协议 将给黎巴嫩带来和平
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-14 15:29
-- 链接: <https://news.google.com/rss/articles/CBMixAJBVV95cUxPX19iTy1Nd013UGtxU2RCUTlTVEZoT1l5ZHNRTFNuTkhIM19hOWU2a2pqOWl4ckJtVWwtNjF2OG54V2RsXzlMZ3A2bi1YSnRuRFBmcEpaRG52X2RISUp6b1VmVGhremh0dWwtLVlUU0gzWDRzWTRRQWtQVF9YZEFrR3JUVHNuVmxiZDZoVnNveFZxZGpGUmNxV2VwQnBwR0lvQVJ4WG42TWotNWltUE1pVUgtVkVaaFFhLWhsTnpDUVhidGc1UDhQdjlVYlpBRnBhUENpZ3hKazRSWjNvNGNDcG1IbW00aERySmJpSXNDM25VY3ZFNjVnMVZNSUg0bXZlcUczYzBobUxlNVEyY05CM2t5OFI3UXZKYTlCQnVWQjV6b21nQ2JmY3ZxVlNVWndsRmM2dC1zZEh1bEVBU2taYzh2YU8?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-06-14 17:47
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBqQWFRaXNjWTA0SE1vUkxLRGd5WklTNl9PQnlRd1ZjS0FjNldkUjBXd2VCZlVNWHZLcVJNZEFfQzVwdmJOcHc3WGY4S1NCVVZEZ212dFpyUE5QMzJMZXNrbV91YU9JYkJLSTFPQi1TY1A?oc=5>
 
 ### 伊媒：伊朗不会在特朗普宣布的时间签署任何协议
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-06-14 15:17
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBjcU1HOW1zX0RFYS1Kc0xDY2N6d3lkd1B5THJGNk9PYlpFTDlrSGNtejg3OFRmRUUyOXBXUDQ1TzBYdjJhb2swdFgzVUpwQnI4X1pJdzJRS2IxdC1JNGdRU3hHRE4?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-06-14 15:33
+- 链接: <https://news.google.com/rss/articles/CBMipwFBVV95cUxPVWhxZU1lS2d1aDFXYnF2T1BTNTgtVzl5Z281U3pzaEYxekJpUE5GbFZrY0dIYnJBUW9qRFdyWThxV2R2ejNibVZZUXpZY1pyY0pmOEhQSjE3TXJxbWptYkhGcGE3NzQtX1RScTNxd21OdTNxa1k2emZWczJNcHN4cGQxa3ByWEc4cVhOTWFaVnV4TjQ1b2QxNzlnYlBoWFhNaHZkYTU0dw?oc=5>
 
-### 特朗普：“非常接近”达成美伊协议 将给黎巴嫩带来和平
+### 以色列对黎巴嫩首都贝鲁特发动袭击，特朗普表态
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 21财经
-- 时间: 2026-06-14 14:57
-- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxQVEEzZDdtcnUyMW9BU3BmYmQySWVrekpkVGtYZ0tweGpJRGxFSmNOU0xBaDIyNEhXZG43eVpsb0ZaVjluVUcxVHBXSEdZeU9YY1ZXeEd3WTZGQzRVay1SeFBuYXBYel9iNnJIbHhaSW9Fc09DZU04ZEoxWEZFU3pPNXJOdU9Ja3BZWW15UHpXTQ?oc=5>
+- 场馆: 环球网
+- 时间: 2026-06-14 00:12
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Ec2M2VUthdHl0cDFiUVJCMkRSYVdSaXJnSjAwSFJTbVFUMDNySWVBVmpCV1E5LVRZejZ0a21JWm9sZHhXYlV2U2dKSjF1MWZIOVluZU5UZVY?oc=5>
+
+### 特朗普批评以色列“干扰”美伊签署协议
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新京报
+- 时间: 2026-06-14 15:21
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Xa2dNV3lBRjVFakZsUWpEd2hnWDBjUEFpa1BBVDhfR1Z1anF4bVBXdy1EQUhLTVRMMC11SlZScWE2U0J1d3phWERBU3dUOFVUbl9hek9TM3pXQUIxMmMzOGhqR18?oc=5>
+
+### 特朗普称以军对黎巴嫩的袭击“不应该发生”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: chinanews.com.cn
+- 时间: 2026-06-14 15:56
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9rSlNqN203S1BUWW4tbUVldDB6YUxXZzUyVU5xMW40clhSd3RhVWJLeVdIaUdkT0Z6bm5lZTJrM25LeFhadmlqNVFTZm5YWDUwc2xLWEdKWXMxeTRSR2J5LTlyNklVY216?oc=5>
+
+### 今夜，特朗普发文“救市”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 东方财富
+- 时间: 2026-06-14 16:26
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE42azI1bXJmbzBfRFJxZEpNMHZDZWQ5c1Awc1dDR0QwUG5aYlc4d0x0WklmM2dIQXIwMW4zTm5yRmc3aGYwanRMdm1EYUVnd3NiT2EyOUowNnhGSUZndVNpRw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-14 17:55  (7 条)
+
+- **周杰伦** | 周杰伦南京演唱会这次没“站票”? <https://k.sina.com.cn/article_7857201856_1d45362c001906six2.html>
+- **特朗普** | 不满以色列空袭贝鲁特 特朗普指责内塔尼亚胡“缺乏理智” <https://news.google.com/rss/articles/CBMicEFVX3lxTFBqQWFRaXNjWTA0SE1vUkxLRGd5WklTNl9PQnlRd1ZjS0FjNldkUjBXd2VCZlVNWHZLcVJNZEFfQzVwdmJOcHc3WGY4S1NCVVZEZ212dFpyUE5QMzJMZXNrbV91YU9JYkJLSTFPQi1TY1A?oc=5>
+- **特朗普** | 伊媒：伊朗不会在特朗普宣布的时间签署任何协议 <https://news.google.com/rss/articles/CBMipwFBVV95cUxPVWhxZU1lS2d1aDFXYnF2T1BTNTgtVzl5Z281U3pzaEYxekJpUE5GbFZrY0dIYnJBUW9qRFdyWThxV2R2ejNibVZZUXpZY1pyY0pmOEhQSjE3TXJxbWptYkhGcGE3NzQtX1RScTNxd21OdTNxa1k2emZWczJNcHN4cGQxa3ByWEc4cVhOTWFaVnV4TjQ1b2QxNzlnYlBoWFhNaHZkYTU0dw?oc=5>
+- **特朗普** | 以色列对黎巴嫩首都贝鲁特发动袭击，特朗普表态 <https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Ec2M2VUthdHl0cDFiUVJCMkRSYVdSaXJnSjAwSFJTbVFUMDNySWVBVmpCV1E5LVRZejZ0a21JWm9sZHhXYlV2U2dKSjF1MWZIOVluZU5UZVY?oc=5>
+- **特朗普** | 特朗普批评以色列“干扰”美伊签署协议 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Xa2dNV3lBRjVFakZsUWpEd2hnWDBjUEFpa1BBVDhfR1Z1anF4bVBXdy1EQUhLTVRMMC11SlZScWE2U0J1d3phWERBU3dUOFVUbl9hek9TM3pXQUIxMmMzOGhqR18?oc=5>
+- **特朗普** | 特朗普称以军对黎巴嫩的袭击“不应该发生” <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9rSlNqN203S1BUWW4tbUVldDB6YUxXZzUyVU5xMW40clhSd3RhVWJLeVdIaUdkT0Z6bm5lZTJrM25LeFhadmlqNVFTZm5YWDUwc2xLWEdKWXMxeTRSR2J5LTlyNklVY216?oc=5>
+- **特朗普** | 今夜，特朗普发文“救市” <https://news.google.com/rss/articles/CBMiYEFVX3lxTE42azI1bXJmbzBfRFJxZEpNMHZDZWQ5c1Awc1dDR0QwUG5aYlc4d0x0WklmM2dIQXIwMW4zTm5yRmc3aGYwanRMdm1EYUVnd3NiT2EyOUowNnhGSUZndVNpRw?oc=5>
 
 ### 2026-06-14 16:17  (7 条)
 
