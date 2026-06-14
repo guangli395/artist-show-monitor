@@ -1,94 +1,168 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-14 06:29**
-- 本轮扫到 3386 条, 新增 **10** 条
+- 最近更新: **2026-06-14 10:04**
+- 本轮扫到 3405 条, 新增 **19** 条
 
 ---
 
-## 本轮新发现 (10 条)
+## 本轮新发现 (19 条)
 
-### 2025歌手巡演票房,五月天成功登顶,汪苏泷差点追平周杰伦
+### 黄晓明现身周杰伦演唱会,点歌明明就,黄晓明其实也是专业歌手
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906r9aw.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906rxtc.html>
 
-### 特朗普称14日签署美伊协议 伊朗否认 协议签署时间存争议
+### 黄晓明现身周杰伦演唱会引热议,论蹭热度,angelababy比他差远了
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-06-13 23:31
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE4tNmI5Vnl5VTRGeUpQM0dUTnRVMHJYdlEwSEVMWkE4MUZoYUVrV2lOR3RkMUJaSC00U2V5bkI0YVZVbEZxVlZmMGluTDQ3Y3VQMGJaN1lYVlNEandSYmhaT2pwc01nc3psOEVtTG9IVzY?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906rxrc.html>
 
-### 新华社消息丨特朗普：美伊定于14日签署协议
+### 黄晓明去了周杰伦演唱会,两人一起合唱《明明就》,一头假发引发关注
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-06-14 01:40
-- 链接: <https://news.google.com/rss/articles/CBMid0FVX3lxTFByTDJ3dnViSnRTdE90ZkM5VlhnRzJSNTltTGRKekdFTkpUek8zdWNxNFB2MTladjhQTmhuQVNYU0tqUUc5X0RkZUIwWXEzdXI2RHRKczFPZVRHUlVJR01kVjZFSWthRE10NV8tMFlqY3lLY1RIZlBv?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906ry16.html>
 
-### 特朗普将赴法国出席七国集团峰会 会晤中东伙伴
+### 黄晓明为什么要在公开场合询问王俊凯关于周杰伦演唱会的事情？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-13 16:27
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTzQ2WjJtMWdYY2VRR0txOEYtYU9YdktOTXcwSTZ5WldZRVQ5S3FSeVJzVVNLYWNTc3EydkxTY2pEWERFVzRJXzdVMzJPTXBvOGF6NWJhZVlfOFZjM3B3cXhsZjZQQUJGUU9NbmoyNHh3Ull0ZG81c2lJSndEbGRpUGJRTEp6WUNjdXduYzN6V3pRa0JORk5GZjlxQmdoUDY0ZXk4aGFheWF0SHpEQTBCelp5eVZ5LUpvb2k0OTdnRnNtbVJld2NIYVljaEpzREVqVlQyRmpoQUo3WEZTYTJn?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801np1o.html>
 
-### G7如何开 全看特朗普心情好坏？
+### 王俊凯最终会去观看周杰伦2026年北京演唱会的最终场吗？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-06-13 22:23
-- 链接: <https://news.google.com/rss/articles/CBMi8wFBVV95cUxNYXBrUVpLZ3RUMDlYZFdDd2hFVzlOWmthbm1JNmllVkItajVXN0p0ME10U1B5cWlpTl96QUtyQmExcFliSVpkMndmaHBmNk45RWoySVBCODB2TVVlTVZQZjNZeC10RlNTZ3Nqc2RtYzMyRm9ucVlvODI5MWhaWVV5ODZnYTNnVmltTENNNmlPamFBMW8weWxQWEZFZFZoS1lYM2l6M2xMT2k3a2htRnFhdWhXY0tpbnpzUlkwMW9GMmdDODdlYmJpc3puQTNPWDIyckRVVWllWG5wOW1YMm5zU0dPdGhDSF9FSy1EMzNLemN4bk0?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801np1i.html>
 
-### 特朗普迈向80岁，数说美国政坛的“老”面孔
+### 谢霆锋空降周杰伦演唱会,引发全场歌迷疯狂尖叫!!!
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-06-13 23:27
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE5oRW5UNDg2ejMtLS1tUnNjOTB3c1FBQjJ1ZkF1NnctczFEekY1UEgwZVQ1a0Y5LU5ndFExZ0JjSHRiaVh0SkRobkFuN1JTLXphVDhaaUR4YnIwb1ljU2tTcFQ3NmJLRzFyTUFGeWZseTdsZw?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906rsnq.html>
+
+### 难以购票!周杰伦演唱会出现诈骗?谢霆锋厚待粉丝送票
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906rsi0.html>
+
+### 告别秒空焦虑!周杰伦、谢霆锋、陶喆2026年演唱会抢票指南_新闻
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906rsdk.html>
+
+### 周杰伦演唱会谢霆锋撑场 哥俩现场热舞high翻天_华语制造_图集_电影网_1905.com
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906rqtk.html>
+
+### 黄晓明邀王俊凯同看周杰伦演唱会
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5351798445_13efdf6ad04001ise2.html>
+
+### 问@TFBOYS-王俊凯 去不去看周杰伦演唱会，啊啊啊小迷弟要去追星吗
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1893711543_m70dfbeb703301s4na.html>
 
 ### 特朗普拟提名其私人律师为联邦检察官
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Sohu
-- 时间: 2026-06-14 04:56
-- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxObEVsRzU5ZnZRWFRsVkhTS0ZHUnhHWDJmcjJTbVk2RnlLcVpIaV9ueTZsQi01a3J6RXI5eWtNWVBSMXBOR245dUhvc0Z1SW1ZWk1tZDRoOGs1clZpMmlFLW5WUVJXOG1KLXJ6YnNpdXJodl9HU3pUU0JwdXBRQ18wTjBNd3hmdXh4ZHJF?oc=5>
+- 场馆: 新华网
+- 时间: 2026-06-14 05:07
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1pNjlFRGlKQjgxMEU5UlhoWGVxdjVmckF4YW1pR2RfQ24tLU1iRWNBQ2dOT0VNYXVKSENKMThfTHZqMDk2VFZ5eXRYWkpnRElOVDBlMkFPR19EVkJ4Z3FidFRwendXVEtSbXc0aVJnd1AzVTV0cl91RGtMT2xRc1U?oc=5>
 
-### 新华社消息丨特朗普：美伊定于14日签署协议
+### 特朗普提名曼哈顿检察官担任下一任国家情报总监
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-06-14 01:40
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE85V1lzUmxvUVgycDZLbXlfbm5mc2cxOFlEcjVMSnpkakNsNFhOdjVFTG9kTEF3aXNyMmo4ODRKSEVuSGh6ZVZ6MmlaT3V4V1c1bXVRenpMZEpOZ01ycE5EYTByX2NZN3A3UzhaNEdwT1VBS2NxNG5iTFNpQzNfMlk?oc=5>
+- 场馆: 联合早报
+- 时间: 2026-06-12 04:06
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5KMUhjQU1uT0RRQ1dNbFZQOFdFY2JaWEhTRDlRNFFnUlpPZmJQY0o3TGFwdkoxNjNSQjRDNW9WNlZZdDFJbHZ6S2xmZXpHY1dCMkNKMmI2dk9ZN296RTJnTmxPdG9TZjFNeXc?oc=5>
 
-### Bilingual丨特朗普：美伊14日签署协议；伊朗：14日不签
+### 特朗普名字已从肯尼迪中心外墙上移除
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Sohu
-- 时间: 2026-06-14 04:02
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxQODQ2QkktMHFEbDRlUmFucXUyclVpLVlIQWdDWS1XZ1RuUUNZc3MtYlk5UzJ3ampJSHQ5b01VSGVPYVhYUUFEbVBCZ1J0SVRrcWZrWkNhVzR6OEJOb2x4ejFGeUtrQjBKc2MzZXdXcFZkYkxzMHZIVzJrU2hzR092c0YyQTk3SVJhZkNqYg?oc=5>
+- 场馆: 联合早报
+- 时间: 2026-06-14 00:14
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE01NmY4Tm0tY0FzUjE4ZFRvYWJGUURaYllPNWVVY3FfQ2h4MEJVMXliSHVONUNwLVdCekR0cWtEVG9zN0R0TUdSZlJSU3dkVWJoa2ZEdUt2Q04xUkd0RXdhTFZ2MDIzQQ?oc=5>
 
-### 特朗普G7峰会期间将会晤中东领导人 同泽连斯基参与工作会议
+### 特朗普将赴法国出席七国集团峰会 会晤中东伙伴
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-06-14 01:53
-- 链接: <https://news.google.com/rss/articles/CBMipwFBVV95cUxQUnA3ZG94UnZISHZQbHQ2eGNUVFhrRUZ4dmx2U0pqN1R6V0E1TUJPWC1HeWhpbWdzVkxxSW9CQnNZeEoyNHhBTUNyU0lrbEtfTW9hcmEteml1dVF1Mnlyc0pfd0tYeVBocnBxQkdiR0pzVXBtU2UxUEQzNzlxSWZDRngyQTJETGJhV25yTDZ6eVdjZkk4NGpqVHdSN1AtOU0zVHdHdy1PVQ?oc=5>
+- 场馆: 联合早报
+- 时间: 2026-06-14 00:22
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFB5STFOUEtIc1ZKQi1XOFZ1MWZBUWFQWk85cmZudUlpejh1NlFxRWNMaVJ6TUppWG5oRTE5TjJHZkZldlJOYlUwb3I5clNCTHZtMjVCMEpBUGg5MlpwSzZ3MGJFVmRZcVZnSlE?oc=5>
+
+### 路透社：马斯克终与特朗普决裂，谢幕白宫
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 手机网易网
+- 时间: 2026-06-14 09:26
+- 链接: <https://news.google.com/rss/articles/CBMiVEFVX3lxTE94ZUE4eU1MZ0N6aWJqd1NzVkxsZjF4alY2UjIwU3Q0OU50RlFjWVZSUW50STRuQmtoMjZncGVoUDhmQkx4NXVsOXFMYU5qcGFUMWpHRg?oc=5>
+
+### 特朗普T1手机拆解后露馅了！换壳HTC U24 Pro 还贴上美国国旗
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 驱动之家
+- 时间: 2026-06-11 16:02
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE5VWm02N2x5NGp3UFp6MzY2eXNqTGtUS2dFQ1JwSjdOTWwtZTBBd0ttaGNFclVVZzhkNnpJUzYza3RKTjU3UnpYOGV5Zzg5UW9YanoxdXkwNEw?oc=5>
+
+### 牛弹琴：特朗普发布后，日本不高兴了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-06-14 00:36
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE11RHNRZEVMY0ROZFJ3eWpPVTk1aE1GdzluLTg1MDYwMm40bVRCVHV2eWtqeEg4TkhRczcxVnYzZjdsQS1fRkxrVkFFem5BNlBBU0NSSm51a1BaSENqR2hxNVE3WmgxUWhwbmd3bGhkekFfT0x1WElYOA?oc=5>
+
+### 伊朗战争：特朗普称美伊协议周日签署，伊方对签署时间表示怀疑
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: BBC
+- 时间: 2026-06-14 06:57
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE82M0h0SkFiS3lDa2tSWHh4dVZoX1QxdUladTQxTGZUWDA5LUtqVDE4SE9mRnFsMmFrY3FJQ3hKa3lhTThmRGZVUEZJOUZWaENrbG8zcjM1cWFGTldNVUpFbjg5cnZPUdIBa0FVX3lxTE9ieXg4UTNfU3JOZ0RnaDZiWnBGSTdsYTRnM1NFWmliQTdCamhzRWFpQl8xWm42VzJ5cjZ2NFdYTm00MUJmaE5lVHEwVGNwOEFxM0pOd1daa25CWm1pZTNsVWhxdnlSVmlMeFJZ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-14 10:04  (19 条)
+
+- **周杰伦** | 黄晓明现身周杰伦演唱会,点歌明明就,黄晓明其实也是专业歌手 <https://k.sina.com.cn/article_7857201856_1d45362c001906rxtc.html>
+- **周杰伦** | 黄晓明现身周杰伦演唱会引热议,论蹭热度,angelababy比他差远了 <https://k.sina.com.cn/article_7857201856_1d45362c001906rxrc.html>
+- **周杰伦** | 黄晓明去了周杰伦演唱会,两人一起合唱《明明就》,一头假发引发关注 <https://k.sina.com.cn/article_7857201856_1d45362c001906ry16.html>
+- **周杰伦** | 黄晓明为什么要在公开场合询问王俊凯关于周杰伦演唱会的事情？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801np1o.html>
+- **周杰伦** | 王俊凯最终会去观看周杰伦2026年北京演唱会的最终场吗？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801np1i.html>
+- **周杰伦** | 谢霆锋空降周杰伦演唱会,引发全场歌迷疯狂尖叫!!! <https://k.sina.com.cn/article_7857201856_1d45362c001906rsnq.html>
+- **周杰伦** | 难以购票!周杰伦演唱会出现诈骗?谢霆锋厚待粉丝送票 <https://k.sina.com.cn/article_7857201856_1d45362c001906rsi0.html>
+- **周杰伦** | 告别秒空焦虑!周杰伦、谢霆锋、陶喆2026年演唱会抢票指南_新闻 <https://k.sina.com.cn/article_7857201856_1d45362c001906rsdk.html>
+- **周杰伦** | 周杰伦演唱会谢霆锋撑场 哥俩现场热舞high翻天_华语制造_图集_电影网_1905.com <https://k.sina.com.cn/article_7857201856_1d45362c001906rqtk.html>
+- **周杰伦** | 黄晓明邀王俊凯同看周杰伦演唱会 <https://k.sina.com.cn/article_5351798445_13efdf6ad04001ise2.html>
+- **周杰伦** | 问@TFBOYS-王俊凯 去不去看周杰伦演唱会，啊啊啊小迷弟要去追星吗 <https://k.sina.com.cn/article_1893711543_m70dfbeb703301s4na.html>
+- **特朗普** | 特朗普拟提名其私人律师为联邦检察官 <https://news.google.com/rss/articles/CBMif0FVX3lxTE1pNjlFRGlKQjgxMEU5UlhoWGVxdjVmckF4YW1pR2RfQ24tLU1iRWNBQ2dOT0VNYXVKSENKMThfTHZqMDk2VFZ5eXRYWkpnRElOVDBlMkFPR19EVkJ4Z3FidFRwendXVEtSbXc0aVJnd1AzVTV0cl91RGtMT2xRc1U?oc=5>
+- **特朗普** | 特朗普提名曼哈顿检察官担任下一任国家情报总监 <https://news.google.com/rss/articles/CBMiakFVX3lxTE5KMUhjQU1uT0RRQ1dNbFZQOFdFY2JaWEhTRDlRNFFnUlpPZmJQY0o3TGFwdkoxNjNSQjRDNW9WNlZZdDFJbHZ6S2xmZXpHY1dCMkNKMmI2dk9ZN296RTJnTmxPdG9TZjFNeXc?oc=5>
+- **特朗普** | 特朗普名字已从肯尼迪中心外墙上移除 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE01NmY4Tm0tY0FzUjE4ZFRvYWJGUURaYllPNWVVY3FfQ2h4MEJVMXliSHVONUNwLVdCekR0cWtEVG9zN0R0TUdSZlJSU3dkVWJoa2ZEdUt2Q04xUkd0RXdhTFZ2MDIzQQ?oc=5>
+- **特朗普** | 特朗普将赴法国出席七国集团峰会 会晤中东伙伴 <https://news.google.com/rss/articles/CBMiakFVX3lxTFB5STFOUEtIc1ZKQi1XOFZ1MWZBUWFQWk85cmZudUlpejh1NlFxRWNMaVJ6TUppWG5oRTE5TjJHZkZldlJOYlUwb3I5clNCTHZtMjVCMEpBUGg5MlpwSzZ3MGJFVmRZcVZnSlE?oc=5>
+- **特朗普** | 路透社：马斯克终与特朗普决裂，谢幕白宫 <https://news.google.com/rss/articles/CBMiVEFVX3lxTE94ZUE4eU1MZ0N6aWJqd1NzVkxsZjF4alY2UjIwU3Q0OU50RlFjWVZSUW50STRuQmtoMjZncGVoUDhmQkx4NXVsOXFMYU5qcGFUMWpHRg?oc=5>
+- **特朗普** | 特朗普T1手机拆解后露馅了！换壳HTC U24 Pro 还贴上美国国旗 <https://news.google.com/rss/articles/CBMiWEFVX3lxTE5VWm02N2x5NGp3UFp6MzY2eXNqTGtUS2dFQ1JwSjdOTWwtZTBBd0ttaGNFclVVZzhkNnpJUzYza3RKTjU3UnpYOGV5Zzg5UW9YanoxdXkwNEw?oc=5>
+- **特朗普** | 牛弹琴：特朗普发布后，日本不高兴了 <https://news.google.com/rss/articles/CBMieEFVX3lxTE11RHNRZEVMY0ROZFJ3eWpPVTk1aE1GdzluLTg1MDYwMm40bVRCVHV2eWtqeEg4TkhRczcxVnYzZjdsQS1fRkxrVkFFem5BNlBBU0NSSm51a1BaSENqR2hxNVE3WmgxUWhwbmd3bGhkekFfT0x1WElYOA?oc=5>
+- **特朗普** | 伊朗战争：特朗普称美伊协议周日签署，伊方对签署时间表示怀疑 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE82M0h0SkFiS3lDa2tSWHh4dVZoX1QxdUladTQxTGZUWDA5LUtqVDE4SE9mRnFsMmFrY3FJQ3hKa3lhTThmRGZVUEZJOUZWaENrbG8zcjM1cWFGTldNVUpFbjg5cnZPUdIBa0FVX3lxTE9ieXg4UTNfU3JOZ0RnaDZiWnBGSTdsYTRnM1NFWmliQTdCamhzRWFpQl8xWm42VzJ5cjZ2NFdYTm00MUJmaE5lVHEwVGNwOEFxM0pOd1daa25CWm1pZTNsVWhxdnlSVmlMeFJZ?oc=5>
 
 ### 2026-06-14 06:29  (10 条)
 
