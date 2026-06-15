@@ -1,211 +1,91 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-15 15:42**
-- 本轮扫到 3570 条, 新增 **43** 条
+- 最近更新: **2026-06-15 19:41**
+- 本轮扫到 3587 条, 新增 **17** 条
 
 ---
 
-## 本轮新发现 (43 条)
+## 本轮新发现 (17 条)
 
-### 蔡徐坤瀑布钢琴大片上线 首次自导MV展优质创作基因
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906u3fm.html>
-
-### 蔡徐坤MV《Colder》获国际赛事季军
+### 刘雨昕主题曲考核，命运直接反转，顺利杀回A班级！
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1768046883_m6962412303301ggbg.html>
+- 链接: <https://k.sina.com.cn/article_7879924004_m1d5ae19240330205f4.html>
 
-### 周杰伦为女儿创作的《女儿殿下》MV火热上线!
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906uhii.html>
-
-### 周杰伦演唱会全员接梗我美吗
+### 周杰伦《女儿殿下》MV双女儿出镜，大女儿像妈妈小女儿像爸爸
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1675961211_m63e5237b03302hi7m.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906urgg.html>
 
-### 周杰伦最新MV《女儿殿下》上线，大秀复古舞蹈
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906ugp8.html>
-
-### 华晨宇也是周杰伦粉丝，清唱中文网主题曲，给网站打广告！
+### 周杰伦新歌《女儿殿下》MV中出镜的两个女儿是谁？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924004_m1d5ae192403302057a.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801nvi6.html>
 
-### 太萌了！周杰伦新MV《女儿殿下》揭秘趣味亲子互动
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906ufjs.html>
-
-### 周杰伦新歌《女儿殿下》上线，全程“崩溃”带娃！网友笑疯：原来天王也被女儿拿捏
+### 昆凌带女儿现身周杰伦演唱会，网友:女儿殿下现场听《女儿殿下》啦_ZAKER新闻
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906uf8q.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906uoda.html>
 
-### 周杰伦最新MV《女儿殿下》发布,为小女儿量身打造
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906uaum.html>
-
-### 周杰伦《女儿殿下》MV来袭，长女海瑟薇戴墨镜迷惑度百分百！
+### 周杰伦女儿殿下|叶惠美|周杰伦|女儿殿下|小周周|新歌|昆凌|甜蜜
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906uapy.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906uoay.html>
 
-### 新歌MV看点满满！周杰伦化身端水大师，三个孩子都拥有专属歌曲
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906u7c4.html>
-
-### 周杰伦新歌《女儿殿下》MV：两位女儿出镜，和爸爸长得好像
+### 周杰伦为小女儿量身打造新MV《女儿殿下》:精灵装阿Ken也太合拍,亲子日常笑出声
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1655444627_m62ac14930200331ke.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906uijy.html>
 
-### 周杰伦发布新歌《女儿殿下》，为小女儿Jacinda创作
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2106115754_m7d88c6aa03301bx04.html>
-
-### 周杰伦新MV《女儿殿下》大秀复古舞风,小女儿Jacinda童言童语萌翻全场
+### 周杰伦最新MV为小女儿量身打造
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906u5gq.html>
+- 链接: <https://k.sina.com.cn/article_1652484947_m627eeb5303301vrba.html>
 
-### 周杰伦《女儿殿下》MV出炉:为小女儿量身打造,大秀复古舞风
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906u53g.html>
-
-### 周杰伦新歌《女儿殿下》MV上线，两女儿出镜
+### 周杰伦最新MV《女儿殿下》发布,大秀复古舞风
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7096020433_1a6f4add106801iocy.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906uhpo.html>
 
-### 周杰伦最新MV《女儿殿下》发布，大秀复古舞风
+### 特朗普总统：伊朗协议将为世界带来“巨大成功”
 
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906u2ha.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-06-15 19:08
+- 链接: <https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS3hqNzYyX3E3NGR2blVjdG1yaUV2eld5cmJHSVhrMlRfaTRZZ2tMeE5fcWhuNkU4aEZ3dzFuOWtJRzIwWDVUYjY2YUlnOUdsdERhZFZpRlppeUtGRG5tM25uenV1TlFQMy03ZjdMYnVfc3dhZlFpbVZOVDU2QmNIQ2JpaFVOcndpTlc0UXg4d1dVTTZJQ2dlX3hHMmNaSmpzVmhZbWMyUW9jdlQwenZ0aVFqSjNPdUtMaHFhd1l0TEHSAcMBQVVfeXFMTjNtLVpmM1h0Y0d2eldXbWNOeE4yTmNPRV9WR2RMZE5JM3ZYZ1FTckZWMkxEWjM0VzBDeS1mbjAtUXNLSjRfbTJQQjBiMmpjY2VjemNyY3JkOTUzTUk1Q1R5a0VWNUsxcE42YWw1Y0JBTzN4RmhTOFAzRFQtNEZuM1lpS1RSMFNFZVhINUtWZmV3ODRsNUs2WURaUV9NcFBnaEV3RHlQQlY4RFZYOE9tOEM3ZlNXamtsVEJveDVEbG5Ub0FR?oc=5>
 
-### 周杰伦新MV《女儿殿下》大秀复古舞风
+### 美伊和谈迎突破性进展！特朗普称协议已完成 签署仪式拟周五举行
 
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906u2f8.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 财联社
+- 时间: 2026-06-15 00:32
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE9HY3NObGE3b0F6bTMweEt4MkJvWTVVWkR0TWktaWVQUzRfREJoaExuUzRWUTBjZDhXQ0hxU1RnNWJFWm5nOXRFbQ?oc=5>
 
-### 最新MV《女儿殿下》正式发布，周杰伦大秀复古舞风
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906u2wg.html>
-
-### 周杰伦为小女儿量身打造的新歌《女儿殿下》M-娱乐圈-虎扑社区
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906u1vu.html>
-
-### 周杰伦新歌《女儿殿下》MV上线，两女儿首同框
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7096020433_1a6f4add106801ioa4.html>
-
-### 周杰伦新歌《女儿殿下》MV上线，海瑟薇Jacinda出镜
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7096020433_v1a6f4add106801io9g.html>
-
-### 周杰伦在MV之外是如何平衡工作与家庭，参与育儿日常的？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801nu7e.html>
-
-### 周杰伦小女儿MV首秀撞脸父亲童年！周家基因分配引热议
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801nu6y.html>
-
-### 量身创作宠女金曲，周杰伦《女儿殿下》MV 释出
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5787187353_v158f17899020024ub0.html>
-
-### 全专最佳！周杰伦《女儿殿下》MV “你怎么动不动就生气说你不爱我”
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1163858357_m455f11b503301j908.html>
-
-### 周杰伦新歌MV两女儿同框，三子女各拥专属曲
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7096020439_1a6f4add706801ry84.html>
-
-### 周杰伦新歌《女儿殿下》MV上线，两女儿同框阿Ken反串
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7096020433_v1a6f4add106801io60.html>
-
-### 周杰伦新歌《女儿殿下》MV上线
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7096020433_v1a6f4add106801io2w.html>
-
-### 周杰伦为女儿创作新歌女儿殿下，演唱会现经典互动
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1749611063_m6848f23703301h1xm.html>
-
-### 周杰伦新歌《女儿殿下》MV上线，阿Ken主演还原带娃日常
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7096020433_v1a6f4add106801invm.html>
-
-### 周杰伦《女儿殿下》MV上线，两个女儿一同出镜
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://finance.sina.com.cn/wm/2026-06-15/doc-inicpewh9816194.shtml>
-
-### Anthropic将与特朗普政府就Mythos模型争议举行会谈
+### 特朗普称油价将断崖式暴跌，现实却是下跌力度微乎其微
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-15 15:04
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxPOE5QQVhaUjlmeWpXZ05rQnpIYmNYaXh3a3puX3dxb0RucjNRS05jOEw4SVczb29HbkJkLW43b2ViUEd5SlZSV1pWU2pRR0tub0VBRWlDYmpVejk0cUw4dnZ2a2ViNzJ2UmZ0QUVBdkhoVTRQRHV6RzlWbjVndVhWbVVzeGkweUk?oc=5>
+- 时间: 2026-06-15 19:07
+- 链接: <https://news.google.com/rss/articles/CBMingJBVV95cUxNUmZvNVBKMkpqbktVNnFKTnc1Q0Zrb0pkYThpNW84OFNyMVlvbnNlLU5pb2ZRUzZMM3k4SDhzbGxlZnVaX0E5ZEVqWlBReUZBQWFVMVE0aG5obXNhajZ5N3gxZXRmLWExWHVWQ3RMRzE5Ylo3ZDVlNTJ3Q1lxTjl4RDBYdy1MZU0yenM0c2kzRUs4aWU0YzhUUmpLS2hOY3UxN1J1cEtBYmlnZE1QN3dqMjl3aEtBYmVNb1o5bXJud3RLMFBVOHBPT0VyOTVvQ0V2RXFBWU95Q0Ruc0RfWEs0c25NNjg4LXN1TF9xa0FueHlnZU9yTXdOWnIwWkgtVnpPbnA5SU9TWjJGZG10dVBLN0RuUU91eDB6aUQwWk13?oc=5>
+
+### 特朗普给予沃什充足空间重塑美联储
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-06-15 19:07
+- 链接: <https://news.google.com/rss/articles/CBMi_wFBVV95cUxPMllBNkZJdTI2Q1liX3dxUE1vUGcxNlBXMmdBckd2REwzd3pkVG85RUU3N1pxQm1IWmF1YU5VMllIRFVOcVJHT3NwZl9Zb3VBaDZ1cy1GelFOQUo0SWhiNzhDVm1BWkFhdEJLclBFVVZzZHJzalFzTWRnc1RndDdLRC1iWDZfU2xfbWNPYzJoc3JtNWlLVDUtYmNyX25ZSFhNOVduSXNVd2hrZVRqTXdCUDc4cTJMcEY2aHBvZXlXUnl4QS1BamJiajJzWTNqTlQwZElTTktTV3ZjRHh0ZVYtN3g5Sm5nMDBtODNBNnMwNjh5TGFMNVBPanlrcm9pZG8?oc=5>
 
 ### 特朗普总统在宣布与伊朗达成和平协议后抵达法国出席七国集团峰会
 
@@ -213,84 +93,64 @@
 - 来源: `googlenews`
 - 场馆: 美国之音
 - 时间: 2026-06-15 15:19
-- 链接: <https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYnFQN2l0TTVZc1F5NnJoYUhJd3lsRGdTTi1YdmVuNWdCcDRDZVZObDIxM0NJZU9EdXh3LVpQWHlpSlB5SnM2MW5yR2o5ekNyZkpUX0xmYU00aVlFWWRCMUZ4V0tWWmtIMGRUc0hzaUI0SWZScEF1MzR4RWdCb1BEZDBsaU9aR2l3M0QwQ2ZHNHZ1R0syd1VxV0RHUktqUElDOF93SEhZZF9mNUM5MzFBcnNlaFlERjJneGZkcTZYMXlDaDlSN0Fkdnc2X2toN012bU1mb2hFNNIB2gFBVV95cUxOTllfdEFDR3ZmcXBkLU1OZ3NlQnBscVM3RnJ4NmZuTEV0MnVnSk5iWlJMeXI4RXljeVJrUXFDMFVqaUtIcDNubk9FTHUwNjFJeGEyNDZvYTFNM2NFT0FTOG5zQzdpMEVXZmc2QzB3aUltV1NseGUyaS1IbVotY1YzWjRhbGl4RkZmNngtc3ljZG1sYkNkbk1sWjBYSnJwcUhsS2RLWGJCbHZlRWdLOFlHd0xETDZKWnQ5b3ZUMDZDN0dQNVd4bXRVMHJMQVRYTnVEVENSZE5WR3FTUQ?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTllfdEFDR3ZmcXBkLU1OZ3NlQnBscVM3RnJ4NmZuTEV0MnVnSk5iWlJMeXI4RXljeVJrUXFDMFVqaUtIcDNubk9FTHUwNjFJeGEyNDZvYTFNM2NFT0FTOG5zQzdpMEVXZmc2QzB3aUltV1NseGUyaS1IbVotY1YzWjRhbGl4RkZmNngtc3ljZG1sYkNkbk1sWjBYSnJwcUhsS2RLWGJCbHZlRWdLOFlHd0xETDZKWnQ5b3ZUMDZDN0dQNVd4bXRVMHJMQVRYTnVEVENSZE5WR3FTUdIB2gFBVV95cUxOTllfdEFDR3ZmcXBkLU1OZ3NlQnBscVM3RnJ4NmZuTEV0MnVnSk5iWlJMeXI4RXljeVJrUXFDMFVqaUtIcDNubk9FTHUwNjFJeGEyNDZvYTFNM2NFT0FTOG5zQzdpMEVXZmc2QzB3aUltV1NseGUyaS1IbVotY1YzWjRhbGl4RkZmNngtc3ljZG1sYkNkbk1sWjBYSnJwcUhsS2RLWGJCbHZlRWdLOFlHd0xETDZKWnQ5b3ZUMDZDN0dQNVd4bXRVMHJMQVRYTnVEVENSZE5WR3FTUQ?oc=5>
 
-### “特朗普已直接向马克龙发出严厉警告”-观察者网
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-06-15 10:17
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBTSnd6Q3BKT3BpTVNEZFN1MHZJTUhUTl9MU3JMSFdOamZvNDBjOWFpRjMzb1dEU21pNnBCMVFpSWViLWN3RTcxeHFRUFd4b1k0RUxzZ1NzQ3BSNFlJZzF6X3dQdEUyTjh5elE?oc=5>
-
-### 要闻解说 - G7峰会埃维昂开幕：特朗普备受期待 马克龙力推霍尔木兹海峡重启通航
+### 特朗普：霍尔木兹海峡恢复通航“不需要太多帮助”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-06-15 14:08
-- 链接: <https://news.google.com/rss/articles/CBMiigRBVV95cUxNUm9vYVZKUzBnNXlpaF9jbUNvc0tyRHotQUhLOHB4UVU1dGs3eUVmejRITGVDSEEtckYteHd5TGFqNXNVd01kdFlmMUlYclZHMjhycVM5clBfMnB0ZnBuZC1JV09tREdadEZHTDdjcjVUWFJhd3JJWlBPa2t0NFIyMHB0VFd6aGEzOXQ1dmpCTHdTUGlrcldkbVlkMDJXQ0dKdVEyWFhFYmpFOXZBQzVKRlhiaU5CeGFsTl94RmtTR19uMlZEWkVvaDl6ZUZ6ME84NU1kaldsWmFEQXRqNVZKdFFZTlNRQUhjTEkxeEp0WW5kR2w3TERaVGd0bGpXUlctVEttVDJyRHc4RFE5Um1pbDRfUVBsRUFYeDJCdzA0UlZqUk1MMVZFMlQ2cnFHa3lOZ0M0czBZSjZjN1BBLXVlOXkzNkRYbDVaeGZVNExCSWtFSXlmUThGTGNVZTZxWWRLenFTU25xSmNCNXNJR3VPQ0otWTVQeXJSQVNfRTBUTjByYlExWlJoV3Nkc1Zvb0k4R0xHMDR2QmlONzdRQXVGZzFRRVVUSV9JbWYyZHMyNmpuUndWS2c3bThnQkJsbnMzYmZ4cFNJbnh6T1Bycy1VSHlWRXp4ZU5fV3RlYWp0d0g0WU1TRnp2NVhPcUtMUUNWZ2N3b1UyMTlWSHcyUTktRXZCWVZycF9iZXc?oc=5>
+- 场馆: chinanews.com.cn
+- 时间: 2026-06-15 17:28
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1PR2tjanA1YnRrYzBvSE83V3BGRjZDOTN0M3piZVpBOVNzMzBScFphQ2NpQlhLbTlqdjdRbEt6ejdSX1E1Ymh3TU43eVJKU1JEekdfdEhOeE9jc1hlOTl0TUYtVl9teXlS?oc=5>
 
-### 油价跌至近3月最低水平，特朗普：许多满载石油的船只驶离霍尔木兹海峡
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 同花顺
-- 时间: 2026-06-15 13:12
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE83cG00SER4R0FTNko4V3A4RnhPR1Rmcm5HMEVhNXRLcHRGLVIxd0hpcldtaFFSZ0t1c1NJVmxxY1ppT1ZPcFFETVRUOGRvYjhKeWJ2TlZueGN1Z0xmRnc?oc=5>
-
-### G7峰会前夕遭特朗普“直白”警告，马克龙回应
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 环球网
-- 时间: 2026-06-14 23:27
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE1UWHBaS2pZWUhiX21ac3FxcHdqajNsYkZmRS1sakw1SEpSZTVoQW12bXVZcDBXdUNMbmd4VDhrWU0tV3g5T0ZfUkZEaHdVVmZHcm1YeU52Sk8?oc=5>
-
-### 用模糊的措辞两头讨好，特朗普的AI行政令试图延缓两条路线摊牌
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-06-15 13:10
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE1DdkpSNTdkU3VvVGZnaUczVF9mQ2F6U0JaM0hUUjFmSjN3SWVMWmpBT0NJd3RCZmtMQVBuNFNteXcyN3BkdHpNS1pOWDhwbFBZT0ZGNkpfRlVCYXc0OGc?oc=5>
-
-### 白宫摆下八角笼，“特朗普想借机彰显男子气概”-观察者网
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-06-15 07:47
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE14YTk5Z3g0UnpRckNIa2hxTkEzNWFfaE1UOW9qbXZJNlFRVWFDZEh2YVA2d3pfNmNOaEVkM0J0WWwzN01MWnhFTHFxLXBiTkUxbjkwcldfWjRHcDlqWEdkSmI5UkRURUNfOEE?oc=5>
-
-### 特朗普庆祝80岁生日 在白宫举办UFC格斗比赛
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-15 07:30
-- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZFFnNVRZQmtCbnlrd3VyMzRTVmZiM2IteFUxYTMzYk5wUUVoU2RUeG5kVVJMbEszQVp6U19kYVcza3JsVTAwSGFJb1JyQUdvTXg4OFlUNmMtUmxxbTBGMUlXWkV1QXhYRUtkb2hzRlJlNTBOcmZLY2Q2aGZfMzlleGZzdmMyd3ZSVXJjajd6MEZDZDFrQkpXdGI5YzY0bkdjMVgyQWJSZ1pBQQ?oc=5>
-
-### UFC为什么能打进白宫 特朗普与UFC的25年交情
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网新闻
-- 时间: 2026-06-15 15:05
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBXYWNsQXM4RDExWXlFeVgtMUZrZ01pbkhIQVhxSGxsNnhfcXNVTFNlR0JzbkxEUVJNNTF2dVAzUENXUTV1UEJmRE0wZnBCU3k5Y2xvdUZYZEtTMUlsR0h1U3dGUlA0ZEJmazFjY282Tzk?oc=5>
-
-### 分析：G7法国峰会 中国问题将成为一个不容忽视的焦点
+### 谢谢uncle trump
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-06-15 13:31
-- 链接: <https://news.google.com/rss/articles/CBMi7AJBVV95cUxNR294czAwSUsyUHVFTTJTaTFXck94bjh4VVJuNWE3ZHJNNk5CeEllcG9PdDY3RFV2UUREanZZRUNGLWZNbndzaEt2QzRDeExONDJLb3IyV2tRTWdSa0xkYU5SVVI0b3FqcFVDVTYzNHlSN0MySjFLaGt2T0JNakxFaWY4MC1nSXpHQmlJSloyanEzbmk3d0dNNlpvbXN4d2RCYnZUVEE1WUYxaUFKTjk0LXhxbkNSQk51aS10eUpzUkVLUjIySXI0V0s1VGR4dHhvbnR0REpVN0tudnpZVFVtTTNSMWdfVWRGYndLYXR3R1BNY2V1RHZlUTVlQ0pUbVhtaE1taWVmWWZNZnhzdHl6RnFrSWNOd2tvSTRFV08tWXZtOTNNbWh5aE5idGViOXBiRVlPTVIwTWUyNUtuLV82WjRpWUNOYVRoSDc3LUY4bENpZVdXQVo1bV9LNWdFc2JfVENBVndfVWY4ZDEz?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-06-15 13:33
+- 链接: <https://news.google.com/rss/articles/CBMi4AJBVV95cUxQaXE0T0REdkROcjF6ZkptVW1zWTFYRGgxX2lKNU45SVJCc2daMEExQk44VDRIQW1ZZGJWVkMxWGFfcjJuSkFXWWtaaGVhQTAyRkVrWW5CdklkZWk4WEt3TzBuZFhHLUFNT3FEZ25JMlBPRFFJLTlHenZMS254NmI4cWpLSnF6YlpWTjJWWXV2eDYyU281aVFSdDgwQjA1ZkZtYXhDV0MwbUYzRHUtUXkxaTJNT1VTaTFuU01uVDdQZHp0dmpwMzJ5OGRGZVZOblFoVERkdElNbkpxbHk4djNfajJrdThvM2Q0QUZ6a2dJNzZyQVg5b0VLdF82cndBOGx4dVBVMXlIMkcxM0NkYkdQcGpLcUk2ZFQtWWdaUEJYNHNvaEN2ZzFIdUN3Wm1tbTBRMUNfeDVING42bTBiNm5PWnUtZkplUXd0UmVkUzAtUHBaMkZDM0kwQ2VCZm16VHpK?oc=5>
+
+### Bybit 启动「交易并持有 $TRUMP」活动 推出 10 万美元奖池与足球总决赛 VIP 观赛体验
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Yellow.com
+- 时间: 2026-06-15 16:06
+- 链接: <https://news.google.com/rss/articles/CBMiuwNBVV95cUxQVnotT3ptb1BYS1lfZ0RaWTk1U3hta0tZOXRVTHNpdF95NEwwdTBaRXNPY0lCbTVGSm9tNjlZWHFsUU5PdEN2ZGhwYmxLeEgtTE9uRlVZbXYzalE0bmV4Z1ViUGZiSml5SERsanVHWXNmUEstbm5pYk1BVUw1aDhubE5OQko5c2pPTWF6QUtCLUZEZXBpWWhMSkxoOXhRaHFRc2hObnNQSWlNYVF1dnplUHI2QlllQTFmbTZGeGhzekhGanFNY2VYM0NNYkVGc0VWdnEtWTJndC1mNWhGUEpZN19DdDVQWDRmTGJLWHEwZHh3WVJVNEY1cUFIVGpkbFY1dEFDWGV5Y0NlVDBUZFdNVjRKZnFwTExaVHprN1QySVBWRXZ3aUZFTTd0dDBTT0E2X201U1FHMU9wdUFhRVJremZQRTdxNGUzVERqVzhnZEpRcHMzcUxFcC1QTUxvWjIzbU1XbzRoTC1xaXlWbUtzTEotN3lJNEZkUjVmd2tsYllxejJQSVI1cVppUGRyN3hsb2JHNlNVenRCdmZYZGJOd3FVcDRZNS00Q3pMTUR4clVHVnBvZEJ6Njkyaw?oc=5>
+
+### 特朗普手机终于亮相！博主锐评“廉价又难看”，2年前中端机卖出红米旗舰价
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Sohu
+- 时间: 2026-06-15 14:46
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLW5sNDh2NURiRDBPWkdDamZrd2tFOWJTU3hYNDRlWF9LNkI3UEVaSjRDOHRNcVlONUFKZHlBa3ZBb2o5UnFtcDRvUnhyTlBrUXFEY0pSNml0YW5DR2pOS1U5LWQ1cDZqNVVERWdiNEtOZURuVmkwTHpDenVoMGV3MUVnbU1kRGl4?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-15 19:41  (17 条)
+
+- **蔡徐坤** | 刘雨昕主题曲考核，命运直接反转，顺利杀回A班级！ <https://k.sina.com.cn/article_7879924004_m1d5ae19240330205f4.html>
+- **周杰伦** | 周杰伦《女儿殿下》MV双女儿出镜，大女儿像妈妈小女儿像爸爸 <https://k.sina.com.cn/article_7857201856_1d45362c001906urgg.html>
+- **周杰伦** | 周杰伦新歌《女儿殿下》MV中出镜的两个女儿是谁？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801nvi6.html>
+- **周杰伦** | 昆凌带女儿现身周杰伦演唱会，网友:女儿殿下现场听《女儿殿下》啦_ZAKER新闻 <https://k.sina.com.cn/article_7857201856_1d45362c001906uoda.html>
+- **周杰伦** | 周杰伦女儿殿下|叶惠美|周杰伦|女儿殿下|小周周|新歌|昆凌|甜蜜 <https://k.sina.com.cn/article_7857201856_1d45362c001906uoay.html>
+- **周杰伦** | 周杰伦为小女儿量身打造新MV《女儿殿下》:精灵装阿Ken也太合拍,亲子日常笑出声 <https://k.sina.com.cn/article_7857201856_1d45362c001906uijy.html>
+- **周杰伦** | 周杰伦最新MV为小女儿量身打造 <https://k.sina.com.cn/article_1652484947_m627eeb5303301vrba.html>
+- **周杰伦** | 周杰伦最新MV《女儿殿下》发布,大秀复古舞风 <https://k.sina.com.cn/article_7857201856_1d45362c001906uhpo.html>
+- **特朗普** | 特朗普总统：伊朗协议将为世界带来“巨大成功” <https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS3hqNzYyX3E3NGR2blVjdG1yaUV2eld5cmJHSVhrMlRfaTRZZ2tMeE5fcWhuNkU4aEZ3dzFuOWtJRzIwWDVUYjY2YUlnOUdsdERhZFZpRlppeUtGRG5tM25uenV1TlFQMy03ZjdMYnVfc3dhZlFpbVZOVDU2QmNIQ2JpaFVOcndpTlc0UXg4d1dVTTZJQ2dlX3hHMmNaSmpzVmhZbWMyUW9jdlQwenZ0aVFqSjNPdUtMaHFhd1l0TEHSAcMBQVVfeXFMTjNtLVpmM1h0Y0d2eldXbWNOeE4yTmNPRV9WR2RMZE5JM3ZYZ1FTckZWMkxEWjM0VzBDeS1mbjAtUXNLSjRfbTJQQjBiMmpjY2VjemNyY3JkOTUzTUk1Q1R5a0VWNUsxcE42YWw1Y0JBTzN4RmhTOFAzRFQtNEZuM1lpS1RSMFNFZVhINUtWZmV3ODRsNUs2WURaUV9NcFBnaEV3RHlQQlY4RFZYOE9tOEM3ZlNXamtsVEJveDVEbG5Ub0FR?oc=5>
+- **特朗普** | 美伊和谈迎突破性进展！特朗普称协议已完成 签署仪式拟周五举行 <https://news.google.com/rss/articles/CBMiSEFVX3lxTE9HY3NObGE3b0F6bTMweEt4MkJvWTVVWkR0TWktaWVQUzRfREJoaExuUzRWUTBjZDhXQ0hxU1RnNWJFWm5nOXRFbQ?oc=5>
+- **特朗普** | 特朗普称油价将断崖式暴跌，现实却是下跌力度微乎其微 <https://news.google.com/rss/articles/CBMingJBVV95cUxNUmZvNVBKMkpqbktVNnFKTnc1Q0Zrb0pkYThpNW84OFNyMVlvbnNlLU5pb2ZRUzZMM3k4SDhzbGxlZnVaX0E5ZEVqWlBReUZBQWFVMVE0aG5obXNhajZ5N3gxZXRmLWExWHVWQ3RMRzE5Ylo3ZDVlNTJ3Q1lxTjl4RDBYdy1MZU0yenM0c2kzRUs4aWU0YzhUUmpLS2hOY3UxN1J1cEtBYmlnZE1QN3dqMjl3aEtBYmVNb1o5bXJud3RLMFBVOHBPT0VyOTVvQ0V2RXFBWU95Q0Ruc0RfWEs0c25NNjg4LXN1TF9xa0FueHlnZU9yTXdOWnIwWkgtVnpPbnA5SU9TWjJGZG10dVBLN0RuUU91eDB6aUQwWk13?oc=5>
+- **特朗普** | 特朗普给予沃什充足空间重塑美联储 <https://news.google.com/rss/articles/CBMi_wFBVV95cUxPMllBNkZJdTI2Q1liX3dxUE1vUGcxNlBXMmdBckd2REwzd3pkVG85RUU3N1pxQm1IWmF1YU5VMllIRFVOcVJHT3NwZl9Zb3VBaDZ1cy1GelFOQUo0SWhiNzhDVm1BWkFhdEJLclBFVVZzZHJzalFzTWRnc1RndDdLRC1iWDZfU2xfbWNPYzJoc3JtNWlLVDUtYmNyX25ZSFhNOVduSXNVd2hrZVRqTXdCUDc4cTJMcEY2aHBvZXlXUnl4QS1BamJiajJzWTNqTlQwZElTTktTV3ZjRHh0ZVYtN3g5Sm5nMDBtODNBNnMwNjh5TGFMNVBPanlrcm9pZG8?oc=5>
+- **特朗普** | 特朗普总统在宣布与伊朗达成和平协议后抵达法国出席七国集团峰会 <https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTllfdEFDR3ZmcXBkLU1OZ3NlQnBscVM3RnJ4NmZuTEV0MnVnSk5iWlJMeXI4RXljeVJrUXFDMFVqaUtIcDNubk9FTHUwNjFJeGEyNDZvYTFNM2NFT0FTOG5zQzdpMEVXZmc2QzB3aUltV1NseGUyaS1IbVotY1YzWjRhbGl4RkZmNngtc3ljZG1sYkNkbk1sWjBYSnJwcUhsS2RLWGJCbHZlRWdLOFlHd0xETDZKWnQ5b3ZUMDZDN0dQNVd4bXRVMHJMQVRYTnVEVENSZE5WR3FTUdIB2gFBVV95cUxOTllfdEFDR3ZmcXBkLU1OZ3NlQnBscVM3RnJ4NmZuTEV0MnVnSk5iWlJMeXI4RXljeVJrUXFDMFVqaUtIcDNubk9FTHUwNjFJeGEyNDZvYTFNM2NFT0FTOG5zQzdpMEVXZmc2QzB3aUltV1NseGUyaS1IbVotY1YzWjRhbGl4RkZmNngtc3ljZG1sYkNkbk1sWjBYSnJwcUhsS2RLWGJCbHZlRWdLOFlHd0xETDZKWnQ5b3ZUMDZDN0dQNVd4bXRVMHJMQVRYTnVEVENSZE5WR3FTUQ?oc=5>
+- **特朗普** | 特朗普：霍尔木兹海峡恢复通航“不需要太多帮助” <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1PR2tjanA1YnRrYzBvSE83V3BGRjZDOTN0M3piZVpBOVNzMzBScFphQ2NpQlhLbTlqdjdRbEt6ejdSX1E1Ymh3TU43eVJKU1JEekdfdEhOeE9jc1hlOTl0TUYtVl9teXlS?oc=5>
+- **Trump** | 谢谢uncle trump <https://news.google.com/rss/articles/CBMi4AJBVV95cUxQaXE0T0REdkROcjF6ZkptVW1zWTFYRGgxX2lKNU45SVJCc2daMEExQk44VDRIQW1ZZGJWVkMxWGFfcjJuSkFXWWtaaGVhQTAyRkVrWW5CdklkZWk4WEt3TzBuZFhHLUFNT3FEZ25JMlBPRFFJLTlHenZMS254NmI4cWpLSnF6YlpWTjJWWXV2eDYyU281aVFSdDgwQjA1ZkZtYXhDV0MwbUYzRHUtUXkxaTJNT1VTaTFuU01uVDdQZHp0dmpwMzJ5OGRGZVZOblFoVERkdElNbkpxbHk4djNfajJrdThvM2Q0QUZ6a2dJNzZyQVg5b0VLdF82cndBOGx4dVBVMXlIMkcxM0NkYkdQcGpLcUk2ZFQtWWdaUEJYNHNvaEN2ZzFIdUN3Wm1tbTBRMUNfeDVING42bTBiNm5PWnUtZkplUXd0UmVkUzAtUHBaMkZDM0kwQ2VCZm16VHpK?oc=5>
+- **Trump** | Bybit 启动「交易并持有 $TRUMP」活动 推出 10 万美元奖池与足球总决赛 VIP 观赛体验 <https://news.google.com/rss/articles/CBMiuwNBVV95cUxQVnotT3ptb1BYS1lfZ0RaWTk1U3hta0tZOXRVTHNpdF95NEwwdTBaRXNPY0lCbTVGSm9tNjlZWHFsUU5PdEN2ZGhwYmxLeEgtTE9uRlVZbXYzalE0bmV4Z1ViUGZiSml5SERsanVHWXNmUEstbm5pYk1BVUw1aDhubE5OQko5c2pPTWF6QUtCLUZEZXBpWWhMSkxoOXhRaHFRc2hObnNQSWlNYVF1dnplUHI2QlllQTFmbTZGeGhzekhGanFNY2VYM0NNYkVGc0VWdnEtWTJndC1mNWhGUEpZN19DdDVQWDRmTGJLWHEwZHh3WVJVNEY1cUFIVGpkbFY1dEFDWGV5Y0NlVDBUZFdNVjRKZnFwTExaVHprN1QySVBWRXZ3aUZFTTd0dDBTT0E2X201U1FHMU9wdUFhRVJremZQRTdxNGUzVERqVzhnZEpRcHMzcUxFcC1QTUxvWjIzbU1XbzRoTC1xaXlWbUtzTEotN3lJNEZkUjVmd2tsYllxejJQSVI1cVppUGRyN3hsb2JHNlNVenRCdmZYZGJOd3FVcDRZNS00Q3pMTUR4clVHVnBvZEJ6Njkyaw?oc=5>
+- **Trump** | 特朗普手机终于亮相！博主锐评“廉价又难看”，2年前中端机卖出红米旗舰价 <https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLW5sNDh2NURiRDBPWkdDamZrd2tFOWJTU3hYNDRlWF9LNkI3UEVaSjRDOHRNcVlONUFKZHlBa3ZBb2o5UnFtcDRvUnhyTlBrUXFEY0pSNml0YW5DR2pOS1U5LWQ1cDZqNVVERWdiNEtOZURuVmkwTHpDenVoMGV3MUVnbU1kRGl4?oc=5>
 
 ### 2026-06-15 15:42  (43 条)
 
