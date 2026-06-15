@@ -1,64 +1,166 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-14 23:44**
-- 本轮扫到 3457 条, 新增 **6** 条
+- 最近更新: **2026-06-15 03:34**
+- 本轮扫到 3474 条, 新增 **17** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (17 条)
 
-### 特朗普：美伊达成协议，霍尔木兹海峡开放
+### 吴尊汪东城同框周杰伦演唱会，网友调侃造型
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-06-14 22:21
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ZNG12NzFMQkJRU0diYU5MaDU4b1Y3R19xYjkyZlE0UUJwM1BxSVI3Wk5YR0hXQVNFck1YZUFQaVpnR1g2MDZXNjVTTHpZSHJyOHZicDFZTG10ZXZjU2tqTVFER0o5cU1K?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301c9oi.html>
 
-### 美以伊局势一文速览：特朗普称美伊协议将由他或万斯签署 他在达成协议前一小时接到通报，“以色列正在袭击贝鲁特，简直不敢相信”
+### 黄晓明问王俊凯去不去看周杰伦演唱会，王俊凯：晓明哥这是能公开对外说的吗
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-06-14 23:33
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9Bc2drV2NEQVZGR0x1WU1LM2oxQzN5WkV6NXN2QWJvaUNYd0Z0MC0zYmtPZW9MeEx6dExySllrSmdkYm9fcW5mTFlNQjdtdDkyYXh2cmYtYU9Jd1otWE5YdDU5MmFjeUQ0M3N1S3U3VFQ?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_6541609047_m185e9085703301imy4.html>
 
-### 特朗普：美伊协议“完成”，霍尔木兹海峡开放
+### “歌迷之城”诞生记——太原演唱会经济三年纪实
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-06-14 21:42
-- 链接: <https://news.google.com/rss/articles/CBMiTkFVX3lxTE5iSnlwTDVJeFZoS2hTMnU3UjhvZklDTkVVSXBjdWplX3N6MjhIM29EUmRhM2JkMldYYWNza1lwdmFla1c0N044MmpjRWhzUQ?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://finance.sina.com.cn/wm/2026-06-15/doc-inicnckw6790286.shtml>
 
-### 特朗普总统宣布与伊朗的协议“完成”，并宣布霍尔木兹海峡开放
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-06-14 23:16
-- 链接: <https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdUljZEdVcjZ2dVQwRTA4N0RvejFhRmdMdE54dVVCM0RLMjdWN2trbGEtTXJGT2FjbEY5NkpEWkFlVEdhNVRHNVE1WGx4UzIwZ3Y0ZEUwN3N3amRRR0c3eEx2Sm05TjREcjlFTmNKYUw5YXZyeElhdk1XMHVPTVFHcVNBdVBzaUtUTXozU1lEbGFYN0lNNVFhVkJiajAtV295cElEUEk0UWY2UDM2RnBOR1RacTlkYUlhTnk5UXlGMGNYM3pmNHJJVUd2c09vVy1nZWtKR0Rn0gHYAUFVX3lxTFBLR2cyWVMzVHZrN3lxRlY4czAzOXNfMXVaMFdXakd0cFFNTTlJWUJlTkdsNEswNWtkSzRDSnVpdWNoSldmd1RoUnMtSjZOa3dHVHFRemlidlI2d3haQVU4SW9jWUhxTDFFVlhHd0VBWHZhWFZVODR4UW5XLXpuRGhBQlZFSk8tZ3RKWXpDWGNlZ1dpXzBqcDhZb192YUp6Uk9oUHo1Z0htLVFtNmNBQnJVa0hQQnVrVkJIemV1MXlRaGNPZHFDel9MdUFjRDAzLXNfUGZFZGFwbg?oc=5>
-
-### 伊媒：伊朗不会在特朗普宣布的时间签署任何协议
+### 特朗普称美伊达成协议
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新华网
-- 时间: 2026-06-14 15:10
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE5hVGNsM3VBME9WZDVoTFhXQ3VpMHM2X1prUWhCOGI2Zi01VHBMVWlwWEo2dWo0aEIyZUxscnYzd20tU3Iya01faE0tdExGTnFUeUR6Yk9HYUQtZTJSOExNMDNiM19DUVU2QmRqUHVIYm4waVdNZ1RjTEs2VXNNcE0?oc=5>
+- 时间: 2026-06-15 00:53
+- 链接: <https://news.google.com/rss/articles/CBMihgFBVV95cUxObUotUk5CUXhKbFEyaEVVVmtMVi1nNWtVUkk2c28wd0dSaFk4SS1BWl9sbWx1TjdpZktodllNUkwzcnhpRV9MX2xPTGNReEIzVnhLZl9mak9VRW5jV3NXV2NIR2VRTVo2QXlJRi1zWElEUExRS1cxanB5MGlsbXQteXNsSXczdw?oc=5>
 
-### 特朗普称美伊协议即将签署 伊朗威胁报复贝鲁特空袭
+### 特朗普：“非常接近”达成美伊协议 将给黎巴嫩带来和平
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-06-14 14:58
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9CYkJkMlNqOXFISTU5VkpaWkRidV9faEh0ZnUxRTBhN0VpZlZwbjQtempYYllaUUJzbG5sYWM5MUduR0ktYktiTzhvT1JxMVBDWDZLcGRGS0FYMzE3NzkzdkoxTlIyLW1SVktvc20zRENpY21qaFVQaVlTZmlMaFE?oc=5>
+
+### 80大寿，特朗普被气炸了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Sina finance
+- 时间: 2026-06-14 23:46
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBNTkhZdlE4RVF5RTJ1VndnaUdPZXAwMWlmNE5Ibks1aE81SzgycV9UM1JQZXZWam5vOXd1SEFCTHpBWkFJOTcxUUZtR1hMb1hmVzlaODVBenBLX2Rka0x2RDQ1NEstUTFBX0Mwd2JWckRyb1lCcjY5aQ?oc=5>
+
+### 美法院驳回上诉 维持肯尼迪中心移除特朗普名字裁决
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中国经济网
+- 时间: 2026-06-15 00:49
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE94QVpHdjc1OXNIYzg3Rk1vMFlMbmZNOXNzc2ppcXV1S18yVHVQQ0FIay0wR0w2ZDQwM2U4UGhIc2F1WF93THlNWEU1N1QzTHo0M256SklDS1FaMkFaV2Npag?oc=5>
+
+### 深夜，特朗普发文“救市”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰财经
+- 时间: 2026-06-14 23:45
+- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Nc3Q4RGVrM3A5VTM3MlplYkxDRzcwcTVSVUFFMXgxeUVBVkJ5NURDQXhDNk9DamxpQ2pJcWtJby1KcUpSR3NoN0hORXE1bThE?oc=5>
+
+### 特朗普称美伊达成协议 霍尔木兹海峡开放
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 央视网
+- 时间: 2026-06-14 22:41
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1PUE1wcmhfeHphYnY4RXQzazN0TmhoVEphQ3d5ZHlxRVQyXzE1S0Jwazd3VHdLM3VwVmh4TVVsT0RJdFQzQVEtaDZmMHRYM0s3ck5NRWl6R3BpYjdWRlRIVmEzdzhpcEhNcUZSaktNa1ZWVFNuVmdnWg?oc=5>
+
+### 伊朗：美以承认失败并接受投降！特朗普称若美伊最终协议未达成将重启打击，怒批内塔尼亚胡“难搞”！马克龙：法英牵头的护航行动随时启动
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 每日经济新闻
+- 时间: 2026-06-15 01:58
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBQWmhYZlhBd0N4Z2xtSktoQ0tBMUZQblFiLWFXUHNXenk4cHkxbkhEUFRtMWVXcm5xMVRXVklhRlYxenpnRk5tSERsaWhaTHRyQ3BhVHRZWEZtSFFmY0pvS292RkJvZw?oc=5>
+
+### 特朗普批以色列 干扰美伊协议进程
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-06-15 00:28
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9OaFdYc181clNaazdZM0tZMnNCR0hvV0dnQ2t3Ym5IYUJ5UWVXN1U4YURHNWZld01OdTQxbmVaaGIzX1VONTBpOWFMUkZMMTBqNVlZZ3V0ZE9vS1RQLTFkakRuWEtYRWNKOU03SS1kY1U?oc=5>
+
+### 特朗普称美伊达成协议--国际
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 人民网
+- 时间: 2026-06-15 01:07
+- 链接: <https://news.google.com/rss/articles/CBMibEFVX3lxTE1hRXlLX0dCc0h5WFhNSmVLRjJuc0oweTE2UWM0VENWSi16b05DRmpjQS1FT3hsVy1ZNlFPUng5MTY2OFpBWnZWZTNjRUpob1kzVW83N1JKclotdFNpc1Eyc0VVd1VKUEpqd1RPTw?oc=5>
+
+### 特朗普批评以色列“干扰”美伊签署协议
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-06-14 15:24
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE52S0NQR0I3bnhDV2JTMnh6b3R2S1RtOEx3X3ZRaEh6dDFDck92eHlEMUdIZ0xLSUlvQ3pNN3dTTl9rNE5CM3FUM2FnMGZXZnVvNVZNRUVydnJSYnR1Z0JfRzhBZjNmRmVHaFlpR0N2eDRtb3VHLWVCOUNzTGVvSnc?oc=5>
+
+### 特朗普：美伊协议“完成” 霍尔木兹海峡开放
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: chinanews.com.cn
+- 时间: 2026-06-14 21:41
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1wYkxPRzdkZkZqSTBRdVlGUGQwWTFpd19XWGU1cnNCSnpyMHdRd0pKT2lnQy1OM0hHTzhPemZiSHBrWmVQb2dmSWFod0R6ZFY5ZUdKd2RtZ3dLd3lmOENSSXFSVlp3U1lT?oc=5>
+
+### 因欺诈摩根大通被定罪的查理·贾维斯寻求特朗普赦免
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-06-14 22:21
-- 链接: <https://news.google.com/rss/articles/CBMi9AJBVV95cUxNUTZyQ202WWxtN3pXcXlFV3ByRGo0a2dyQVRfU09mRzVMakdUNHJxRFdSLVNiLVZFUUU3OWhibHJrTVVVLVlCb29YSVQ3ZW0wOF80Q1dJajA1SThmOGt2N010bENHc2V0QWM0Tjh0SVdxQzJUa0FNYXpvTTRZNHQ3LS0xaFVZeXd0NVowb1F0SHBpd2NNMzVMelNwRjk0ckoxRDRLanc1d2d4UVdLMUpnVE51S0hBNUlQY19aSmtxZkxMWXZwbTl3NUtSb01DRzdmUGJlUVZXZy1Lem13N1RIMGs1WGRTMFJqTWVKUE9HMEYxX01KWVUtMXJ0N3BYOHVuOEVDOUFqa210dElMY1ZtWXktNWlqaDc2YmdWU2g1QWd6YzlmQTJTR01tblViMTNnb21GNVdvNmltN1JGZXh3M29OVTQ4cnViM0JqSTZLNHVkMjd3T2laV2RxX1pBOFNqQzNBZU1oMVVMeHBLMzJyUjBmYlk?oc=5>
+- 场馆: 华尔街日报中文网
+- 时间: 2026-06-14 23:50
+- 链接: <https://news.google.com/rss/articles/CBMitAFBVV95cUxNenp0eWRfcC1RLVBGRndIcmxtVExraXBsaUJmTjU3bTBTQ21hVW9kWmtuNXhVMUxEOEo1Q29aNkpzZ0hURjZGekFiNEh3bGhiRl91ZzAyc1JTUXpma1JxMlJEVmN5VUwweVJrMlhISFhmeU15ZmFOQUZYOVhaV3g5MlVTSE1TSndqS1YwaGR3T3pJUjZhSkNwZHJTQW9ENUE0U2RUdVkybC1lUG9LazlMTUpIOU0?oc=5>
+
+### 燃料和生活成本攀升 特朗普农村地区支持率创新低
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 8world
+- 时间: 2026-06-15 01:17
+- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE5xTXJNS0MtY0RDc2ktVjZLNWxwUWU1RnA3MUhGVEJRbmJvYlQxQWpTWnhTenRtdHlrdFBKdXlKbXdqSXFQTWZmOURUYXJNWFRIN3MzQzlKdDBjTEpzM3Q5OHpDbXJYQ1hDWUhObXNnUWpzS1hFaEFOZGd3?oc=5>
+
+### 特朗普：内塔尼亚胡难搞 以军行动险些破坏美伊协议
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 8world
+- 时间: 2026-06-15 03:09
+- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE9SZHlUUnA5U1dMZDFwTGpYN2FoM2F4bUNObk5wZFF4andjVFlVMkoyMHc0a24zb0hiNFVQOE85LWRIREk1UnBmcFRWMUI5aTZUUlRDREI2TTc0ME9rMHYyeFFB?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-15 03:34  (17 条)
+
+- **周杰伦** | 吴尊汪东城同框周杰伦演唱会，网友调侃造型 <https://k.sina.com.cn/article_7879924009_m1d5ae192903301c9oi.html>
+- **周杰伦** | 黄晓明问王俊凯去不去看周杰伦演唱会，王俊凯：晓明哥这是能公开对外说的吗 <https://k.sina.com.cn/article_6541609047_m185e9085703301imy4.html>
+- **周杰伦** | “歌迷之城”诞生记——太原演唱会经济三年纪实 <https://finance.sina.com.cn/wm/2026-06-15/doc-inicnckw6790286.shtml>
+- **特朗普** | 特朗普称美伊达成协议 <https://news.google.com/rss/articles/CBMihgFBVV95cUxObUotUk5CUXhKbFEyaEVVVmtMVi1nNWtVUkk2c28wd0dSaFk4SS1BWl9sbWx1TjdpZktodllNUkwzcnhpRV9MX2xPTGNReEIzVnhLZl9mak9VRW5jV3NXV2NIR2VRTVo2QXlJRi1zWElEUExRS1cxanB5MGlsbXQteXNsSXczdw?oc=5>
+- **特朗普** | 特朗普：“非常接近”达成美伊协议 将给黎巴嫩带来和平 <https://news.google.com/rss/articles/CBMif0FVX3lxTE9CYkJkMlNqOXFISTU5VkpaWkRidV9faEh0ZnUxRTBhN0VpZlZwbjQtempYYllaUUJzbG5sYWM5MUduR0ktYktiTzhvT1JxMVBDWDZLcGRGS0FYMzE3NzkzdkoxTlIyLW1SVktvc20zRENpY21qaFVQaVlTZmlMaFE?oc=5>
+- **特朗普** | 80大寿，特朗普被气炸了 <https://news.google.com/rss/articles/CBMieEFVX3lxTFBNTkhZdlE4RVF5RTJ1VndnaUdPZXAwMWlmNE5Ibks1aE81SzgycV9UM1JQZXZWam5vOXd1SEFCTHpBWkFJOTcxUUZtR1hMb1hmVzlaODVBenBLX2Rka0x2RDQ1NEstUTFBX0Mwd2JWckRyb1lCcjY5aQ?oc=5>
+- **特朗普** | 美法院驳回上诉 维持肯尼迪中心移除特朗普名字裁决 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE94QVpHdjc1OXNIYzg3Rk1vMFlMbmZNOXNzc2ppcXV1S18yVHVQQ0FIay0wR0w2ZDQwM2U4UGhIc2F1WF93THlNWEU1N1QzTHo0M256SklDS1FaMkFaV2Npag?oc=5>
+- **特朗普** | 深夜，特朗普发文“救市” <https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Nc3Q4RGVrM3A5VTM3MlplYkxDRzcwcTVSVUFFMXgxeUVBVkJ5NURDQXhDNk9DamxpQ2pJcWtJby1KcUpSR3NoN0hORXE1bThE?oc=5>
+- **特朗普** | 特朗普称美伊达成协议 霍尔木兹海峡开放 <https://news.google.com/rss/articles/CBMieEFVX3lxTE1PUE1wcmhfeHphYnY4RXQzazN0TmhoVEphQ3d5ZHlxRVQyXzE1S0Jwazd3VHdLM3VwVmh4TVVsT0RJdFQzQVEtaDZmMHRYM0s3ck5NRWl6R3BpYjdWRlRIVmEzdzhpcEhNcUZSaktNa1ZWVFNuVmdnWg?oc=5>
+- **特朗普** | 伊朗：美以承认失败并接受投降！特朗普称若美伊最终协议未达成将重启打击，怒批内塔尼亚胡“难搞”！马克龙：法英牵头的护航行动随时启动 <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBQWmhYZlhBd0N4Z2xtSktoQ0tBMUZQblFiLWFXUHNXenk4cHkxbkhEUFRtMWVXcm5xMVRXVklhRlYxenpnRk5tSERsaWhaTHRyQ3BhVHRZWEZtSFFmY0pvS292RkJvZw?oc=5>
+- **特朗普** | 特朗普批以色列 干扰美伊协议进程 <https://news.google.com/rss/articles/CBMicEFVX3lxTE9OaFdYc181clNaazdZM0tZMnNCR0hvV0dnQ2t3Ym5IYUJ5UWVXN1U4YURHNWZld01OdTQxbmVaaGIzX1VONTBpOWFMUkZMMTBqNVlZZ3V0ZE9vS1RQLTFkakRuWEtYRWNKOU03SS1kY1U?oc=5>
+- **特朗普** | 特朗普称美伊达成协议--国际 <https://news.google.com/rss/articles/CBMibEFVX3lxTE1hRXlLX0dCc0h5WFhNSmVLRjJuc0oweTE2UWM0VENWSi16b05DRmpjQS1FT3hsVy1ZNlFPUng5MTY2OFpBWnZWZTNjRUpob1kzVW83N1JKclotdFNpc1Eyc0VVd1VKUEpqd1RPTw?oc=5>
+- **特朗普** | 特朗普批评以色列“干扰”美伊签署协议 <https://news.google.com/rss/articles/CBMif0FVX3lxTE52S0NQR0I3bnhDV2JTMnh6b3R2S1RtOEx3X3ZRaEh6dDFDck92eHlEMUdIZ0xLSUlvQ3pNN3dTTl9rNE5CM3FUM2FnMGZXZnVvNVZNRUVydnJSYnR1Z0JfRzhBZjNmRmVHaFlpR0N2eDRtb3VHLWVCOUNzTGVvSnc?oc=5>
+- **特朗普** | 特朗普：美伊协议“完成” 霍尔木兹海峡开放 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1wYkxPRzdkZkZqSTBRdVlGUGQwWTFpd19XWGU1cnNCSnpyMHdRd0pKT2lnQy1OM0hHTzhPemZiSHBrWmVQb2dmSWFod0R6ZFY5ZUdKd2RtZ3dLd3lmOENSSXFSVlp3U1lT?oc=5>
+- **Trump** | 因欺诈摩根大通被定罪的查理·贾维斯寻求特朗普赦免 <https://news.google.com/rss/articles/CBMitAFBVV95cUxNenp0eWRfcC1RLVBGRndIcmxtVExraXBsaUJmTjU3bTBTQ21hVW9kWmtuNXhVMUxEOEo1Q29aNkpzZ0hURjZGekFiNEh3bGhiRl91ZzAyc1JTUXpma1JxMlJEVmN5VUwweVJrMlhISFhmeU15ZmFOQUZYOVhaV3g5MlVTSE1TSndqS1YwaGR3T3pJUjZhSkNwZHJTQW9ENUE0U2RUdVkybC1lUG9LazlMTUpIOU0?oc=5>
+- **Trump** | 燃料和生活成本攀升 特朗普农村地区支持率创新低 <https://news.google.com/rss/articles/CBMiekFVX3lxTE5xTXJNS0MtY0RDc2ktVjZLNWxwUWU1RnA3MUhGVEJRbmJvYlQxQWpTWnhTenRtdHlrdFBKdXlKbXdqSXFQTWZmOURUYXJNWFRIN3MzQzlKdDBjTEpzM3Q5OHpDbXJYQ1hDWUhObXNnUWpzS1hFaEFOZGd3?oc=5>
+- **Trump** | 特朗普：内塔尼亚胡难搞 以军行动险些破坏美伊协议 <https://news.google.com/rss/articles/CBMiYkFVX3lxTE9SZHlUUnA5U1dMZDFwTGpYN2FoM2F4bUNObk5wZFF4andjVFlVMkoyMHc0a24zb0hiNFVQOE85LWRIREk1UnBmcFRWMUI5aTZUUlRDREI2TTc0ME9rMHYyeFFB?oc=5>
 
 ### 2026-06-14 23:44  (6 条)
 
