@@ -1,146 +1,412 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-15 03:34**
-- 本轮扫到 3474 条, 新增 **17** 条
+- 最近更新: **2026-06-15 09:55**
+- 本轮扫到 3527 条, 新增 **53** 条
 
 ---
 
-## 本轮新发现 (17 条)
+## 本轮新发现 (53 条)
 
-### 吴尊汪东城同框周杰伦演唱会，网友调侃造型
+### QQ音乐MV巅峰榜第104期周榜公开 蔡徐坤《0000FF》登全球榜&amp;内地榜第一
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906txb6.html>
+
+### 冰岛实景拍摄为蔡徐坤《Colder》MV的叙事带来了哪些独特优势？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801nu0s.html>
+
+### 蔡徐坤柏林获奖创历史！亚洲首获欧洲权威MV叙事大奖
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801nu00.html>
+
+### 周杰伦青岛演唱会获批
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301c9oi.html>
+- 链接: <https://k.sina.com.cn/article_1647210043_m622e6e3b03301khua.html>
 
-### 黄晓明问王俊凯去不去看周杰伦演唱会，王俊凯：晓明哥这是能公开对外说的吗
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6541609047_m185e9085703301imy4.html>
-
-### “歌迷之城”诞生记——太原演唱会经济三年纪实
+### 周杰伦两个女儿出镜！《女儿殿下》MV
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://finance.sina.com.cn/wm/2026-06-15/doc-inicnckw6790286.shtml>
+- 链接: <https://k.sina.com.cn/article_2251236920_m862f2638033012qsq.html>
 
-### 特朗普称美伊达成协议
+### 周杰伦演唱会全员接梗我美吗
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-06-15 00:53
-- 链接: <https://news.google.com/rss/articles/CBMihgFBVV95cUxObUotUk5CUXhKbFEyaEVVVmtMVi1nNWtVUkk2c28wd0dSaFk4SS1BWl9sbWx1TjdpZktodllNUkwzcnhpRV9MX2xPTGNReEIzVnhLZl9mak9VRW5jV3NXV2NIR2VRTVo2QXlJRi1zWElEUExRS1cxanB5MGlsbXQteXNsSXczdw?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_6380644334_m17c50e7ee03301akfg.html>
 
-### 特朗普：“非常接近”达成美伊协议 将给黎巴嫩带来和平
+### 周杰伦新MV《女儿殿下》大秀复古舞风
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-06-14 14:58
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9CYkJkMlNqOXFISTU5VkpaWkRidV9faEh0ZnUxRTBhN0VpZlZwbjQtempYYllaUUJzbG5sYWM5MUduR0ktYktiTzhvT1JxMVBDWDZLcGRGS0FYMzE3NzkzdkoxTlIyLW1SVktvc20zRENpY21qaFVQaVlTZmlMaFE?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1652484947_627eeb5302001vr12.html>
 
-### 80大寿，特朗普被气炸了
+### 黄晓明惊喜现身周杰伦上海演唱会，与杰伦合唱《明明就》引爆全场_好友_嘉宾_首歌
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906tt4c.html>
+
+### 黄晓明去周杰伦演唱会啦!|刘耕宏|华语歌手|周杰伦演唱会|填词人|音乐专辑|黄晓明
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906tsgc.html>
+
+### 周杰伦俩女儿一同出镜女儿殿下MV
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1672519561_m63b09f8903301ttig.html>
+
+### 周杰伦《女儿殿下》MV出炉：为小女儿量身打造，大秀复古舞风
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906tpte.html>
+
+### 周杰伦《女儿殿下》MV上线，阿Ken扮鬼马老爸秀舞技
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1175406475_m460f478b03301h2j0.html>
+
+### 周杰伦为小女儿量身打造的《女儿殿下》MV正式上线
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1655444627_m62ac149302003319e.html>
+
+### 周杰伦为小女儿量身打造新歌
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5953740931_v162dee08306703e8by.html>
+
+### 周杰伦是如何在MV中巧妙融入小女儿Jacinda的真实声音的？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ntq4.html>
+
+### 周杰伦为新歌《女儿殿下》创作的灵感来源是什么？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ntok.html>
+
+### 周杰伦近期演唱会‘划水’争议与其‘端水大师’的暖心人设是否形成矛盾？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ntna.html>
+
+### 周杰伦为女儿打造MV上线，阿Ken演奶爸
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1910355794_m71ddb7520330220vc.html>
+
+### 周杰伦发布《女儿殿下》MV两个女儿都出镜太可爱啦！
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5886158017_m15ed7a4c103301jky2.html>
+
+### 周杰伦两女儿同框出镜新MV，弹钢琴萌态十足
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_3946228785_eb36ac3104001wzdq.html>
+
+### 周杰伦新歌《女儿殿下》MV上线，阿Ken出演被整老爸
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7096020433_v1a6f4add106801inzw.html>
+
+### 女儿一句“为什么没有我的歌”，周杰伦连夜写新歌！
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301c9yu.html>
+
+### 周杰伦新歌《女儿殿下》MV上线，Funk风格献爱女
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1835415447_m6d66379703301dvcq.html>
+
+### 周杰伦为小女儿量身创作的新歌上线，曲风大变还原真实带娃生活
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906tigm.html>
+
+### 周杰伦MV泄宠女日常！　阿Ken揭他暖爸行径：一通电话就冲回家
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906tibi.html>
+
+### 昆凌带女儿现身周杰伦演唱会,网友:女儿殿下现场听《女儿殿下》啦
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906thku.html>
+
+### 周杰伦为小女儿量身打造MV
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_2992050891_mb25712cb03301shz6.html>
+
+### 周杰伦为女儿Jacinda创作《女儿殿下》MV上线
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1651428902_m626ece2603301gb10.html?from=ent&amp;subch=oent>
+
+### 周杰伦女儿殿下MV大女儿小女儿同框出镜
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_3193742315_pbe5ca3eb02701n9ei.html>
+
+### 周杰伦女儿殿下MV两女儿出镜，大女儿似母小女儿似父
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_2022990945_7894646104003ahyg.html>
+
+### 周杰伦《女儿殿下》MV高清组图！
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1840274303_p6db05b7f02702yu0y.html>
+
+### 周杰伦女儿殿下MV上线，暖心演绎奶爸心声
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1784505422_6a5d644e040011cpe.html>
+
+### 歌迷和乐评人对周杰伦的新歌《女儿殿下》反响如何？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801nt7c.html>
+
+### 周杰伦女儿殿下MV上线啦 好有意思的MV
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_2334113635_m8b1fbf6303301sxxq.html>
+
+### 周杰伦为小女儿创作的歌曲《女儿殿下》MV讲了哪些育儿趣事？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801nt5w.html>
+
+### 新歌MV丨周杰伦《女儿殿下》官方MV
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_2640993657_m9d6a5d7903301b0c0.html>
+
+### 周杰伦演唱会惊现特别嘉宾黄晓明 - AcFun弹幕视频网 - 认真你就输啦 (?ω?)ノ- ( ゜- ゜)つロ
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906t9we.html>
+
+### 2026周杰伦南京演唱会最新消息（持续更新）- 南京本地宝
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906t9r8.html>
+
+### 黄晓明去周杰伦演唱会啦
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906t9pw.html>
+
+### 周杰伦最新MV《女儿殿下》发布，为小女儿量身打造
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://news.sina.com.cn/zx/2026-06-15/doc-inicnuhr8215590.shtml>
+
+### 周杰伦《女儿殿下》MV上线，好友林暐恒大赞周杰伦是好爸爸
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://finance.sina.com.cn/jjxw/2026-06-15/doc-inicnuhr8198841.shtml>
+
+### 周杰伦为女儿Jacinda创作新歌《女儿殿下》MV上线
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://video.sina.com.cn/p/finance/2026-06-15/detail-inicnisx5098960.d.html>
+
+### 特朗普：如果伊朗未能与美国达成最终核协议，将重启对德黑兰的军事打击
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: Sina finance
-- 时间: 2026-06-14 23:46
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBNTkhZdlE4RVF5RTJ1VndnaUdPZXAwMWlmNE5Ibks1aE81SzgycV9UM1JQZXZWam5vOXd1SEFCTHpBWkFJOTcxUUZtR1hMb1hmVzlaODVBenBLX2Rka0x2RDQ1NEstUTFBX0Mwd2JWckRyb1lCcjY5aQ?oc=5>
+- 时间: 2026-06-14 23:44
+- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxNemtpdGhJdmQtNlFfWHFmODZKQ1VrZ0g3T1VpajFkRHRjSDNjVXdHNU5lRDUtdlJWczRXM1loSmU3Y3JMQTQ0MjlrcC1xMjFVS0tkckN2RnZKSzI1X0VmNEhrdlF0WjZDS280OXBoRnFrNEdtNjVwemxjaHV5VHVoSVFnTVd2V05NdHlYLVJ3WQ?oc=5>
 
-### 美法院驳回上诉 维持肯尼迪中心移除特朗普名字裁决
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中国经济网
-- 时间: 2026-06-15 00:49
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE94QVpHdjc1OXNIYzg3Rk1vMFlMbmZNOXNzc2ppcXV1S18yVHVQQ0FIay0wR0w2ZDQwM2U4UGhIc2F1WF93THlNWEU1N1QzTHo0M256SklDS1FaMkFaV2Npag?oc=5>
-
-### 深夜，特朗普发文“救市”
+### “特朗普名字被移除”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰财经
-- 时间: 2026-06-14 23:45
-- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Nc3Q4RGVrM3A5VTM3MlplYkxDRzcwcTVSVUFFMXgxeUVBVkJ5NURDQXhDNk9DamxpQ2pJcWtJby1KcUpSR3NoN0hORXE1bThE?oc=5>
+- 场馆: 新浪军事
+- 时间: 2026-06-15 09:10
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5QVGJYNlYtY05OdXZ4N3B2X2QyZ0k1Z0xnMEdEaWs0NmVsN3c5XzZ1STMyYjVENEJwZmlFZHVQeUhOV0lTWExOV1ZMOHhWLWY1RXFBbmFWU0xCZzhUVGhHZ3NuWHZVd2hKR2NrTGcxZUUtZVU?oc=5>
 
-### 特朗普称美伊达成协议 霍尔木兹海峡开放
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 央视网
-- 时间: 2026-06-14 22:41
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1PUE1wcmhfeHphYnY4RXQzazN0TmhoVEphQ3d5ZHlxRVQyXzE1S0Jwazd3VHdLM3VwVmh4TVVsT0RJdFQzQVEtaDZmMHRYM0s3ck5NRWl6R3BpYjdWRlRIVmEzdzhpcEhNcUZSaktNa1ZWVFNuVmdnWg?oc=5>
-
-### 伊朗：美以承认失败并接受投降！特朗普称若美伊最终协议未达成将重启打击，怒批内塔尼亚胡“难搞”！马克龙：法英牵头的护航行动随时启动
+### 特朗普口中那四个“爱出风头的人”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 每日经济新闻
-- 时间: 2026-06-15 01:58
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBQWmhYZlhBd0N4Z2xtSktoQ0tBMUZQblFiLWFXUHNXenk4cHkxbkhEUFRtMWVXcm5xMVRXVklhRlYxenpnRk5tSERsaWhaTHRyQ3BhVHRZWEZtSFFmY0pvS292RkJvZw?oc=5>
+- 场馆: Sina finance
+- 时间: 2026-06-15 09:26
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9sLXRtRGhoek1hUENqYVBxUzRmUEgzLXFpUlo4bTVpZm1XSUtVTlo2bW0yYWpqSTJLcDJOWjhyRVVURHB0UzFDcVVTb18yOHQ3UGdxN0ZEelFFampWTGNyc3NHVF9RWTZaQU5SeTNkSHJQeVJmWjhWLQ?oc=5>
 
-### 特朗普批以色列 干扰美伊协议进程
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-06-15 00:28
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9OaFdYc181clNaazdZM0tZMnNCR0hvV0dnQ2t3Ym5IYUJ5UWVXN1U4YURHNWZld01OdTQxbmVaaGIzX1VONTBpOWFMUkZMMTBqNVlZZ3V0ZE9vS1RQLTFkakRuWEtYRWNKOU03SS1kY1U?oc=5>
-
-### 特朗普称美伊达成协议--国际
+### 澎湃思想周报丨世界杯沦为特朗普的马戏；当马丁·斯科塞斯拥抱AI
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 人民网
-- 时间: 2026-06-15 01:07
-- 链接: <https://news.google.com/rss/articles/CBMibEFVX3lxTE1hRXlLX0dCc0h5WFhNSmVLRjJuc0oweTE2UWM0VENWSi16b05DRmpjQS1FT3hsVy1ZNlFPUng5MTY2OFpBWnZWZTNjRUpob1kzVW83N1JKclotdFNpc1Eyc0VVd1VKUEpqd1RPTw?oc=5>
+- 场馆: thepaper.cn
+- 时间: 2026-06-15 05:35
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE02d3dIWjhrUE1ZOGI2bE9fTFZiSlBlQXlhelA3UVh0QmdIQ2lHRGpNekJoakdjbmZMcVlUTDNjaDMwaDdlWnNzM0xZRDNodDJSRllYRkFCVWU4NC1keFE?oc=5>
 
-### 特朗普批评以色列“干扰”美伊签署协议
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-06-14 15:24
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE52S0NQR0I3bnhDV2JTMnh6b3R2S1RtOEx3X3ZRaEh6dDFDck92eHlEMUdIZ0xLSUlvQ3pNN3dTTl9rNE5CM3FUM2FnMGZXZnVvNVZNRUVydnJSYnR1Z0JfRzhBZjNmRmVHaFlpR0N2eDRtb3VHLWVCOUNzTGVvSnc?oc=5>
-
-### 特朗普：美伊协议“完成” 霍尔木兹海峡开放
+### 美媒：G7峰会前夕，特朗普直白警告马克龙
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-06-14 21:41
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1wYkxPRzdkZkZqSTBRdVlGUGQwWTFpd19XWGU1cnNCSnpyMHdRd0pKT2lnQy1OM0hHTzhPemZiSHBrWmVQb2dmSWFod0R6ZFY5ZUdKd2RtZ3dLd3lmOENSSXFSVlp3U1lT?oc=5>
+- 场馆: Sina finance
+- 时间: 2026-06-15 08:42
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbmVsd28ycWRjaXlyMnVkTUczU2duVWtGZDlTUUVWX0xXM2Y5eFJCaEtBQU1QZmUwQ2N0S3dXTnJxUFBwQW9mTWNUSGMyU3dPTFl2bURla2lXZGk3Zy04cWtPSXB0MG83dkdIakRRRy1sMENMUXlQWFVnOGFta29ydzE1R3h0elNwRTk0SnN6SzlXNUhJblVOWE16Nm9ybk0yajJBUTdoZ1kzeGhJbzJlYTdIQ1I0cG4wUzJNQ2p6b2xCTHRGWU5HSG9kY1dDamZp?oc=5>
 
-### 因欺诈摩根大通被定罪的查理·贾维斯寻求特朗普赦免
+### 生日当天，特朗普分别与普京、泽连斯基通话-观察者网
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-06-15 01:35
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1DM3EtRndxdUNPcFdGb2h0VUFwQ0E1SExuS3F6SXpZY2RKNmV6Qkl6N0Z2ZTNlWkZxZzdYa2R3V3Z1LUpPUlk4djktRm9pNUVIbkVBXzhBZkFuaVJvUW9FNGR1TnBGLUV0aWc?oc=5>
+
+### 美方重新聚焦乌克兰？特朗普与普京通话后，特使与库什纳即将访俄
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-06-15 08:48
+- 链接: <https://news.google.com/rss/articles/CBMipwFBVV95cUxQSXRMVXFGbzQ2ckZSRzBJbWx5MTNyMngwNVRwOXF4cmhRLUJDWkw5Z1loN01iMVBwQUkzWmg3dlNGUHMxNWo3WTBBeEQ0dEFxV3A1Y3kwbVpiZzMwbEp3b1FtY2QxLU56VWx0LXA4UlJmWFZEOFY3eUdKZFlzdVZydTNwcFVQOVNNNEhpdTVVeTB1alpjOFdRcFZRdzNITXBDRk5ELVZuNA?oc=5>
+
+### 俄方：特朗普称美国有结束俄乌冲突的需要
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-06-15 09:31
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9tcS1vcHFCa0JiWXBkUEU5QlNwRVRxMExxY3RTYmgtR0syUkRmRlRYdnRZZVJIblpkaTN5ZTZSN0twckc0dTNtcmZfcGM?oc=5>
+
+### 美国与伊朗宣布达成协议结束军事行动，特朗普称“让石油流动起来！”
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-06-14 23:50
-- 链接: <https://news.google.com/rss/articles/CBMitAFBVV95cUxNenp0eWRfcC1RLVBGRndIcmxtVExraXBsaUJmTjU3bTBTQ21hVW9kWmtuNXhVMUxEOEo1Q29aNkpzZ0hURjZGekFiNEh3bGhiRl91ZzAyc1JTUXpma1JxMlJEVmN5VUwweVJrMlhISFhmeU15ZmFOQUZYOVhaV3g5MlVTSE1TSndqS1YwaGR3T3pJUjZhSkNwZHJTQW9ENUE0U2RUdVkybC1lUG9LazlMTUpIOU0?oc=5>
+- 场馆: BBC
+- 时间: 2026-06-15 03:38
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE95NFhCUWQ4YjJsOXV3Z3BMbDZ5R0tNWlJqMlBnMXRDeWhCQlVobGV5TWQ2MHVXWjhUR2JxcGdMcXhVMThWN3ZvRzdsNXhBWGZEeEJueU1uZTB3cmlZRXJsSzhJNU9Pd9IBa0FVX3lxTFA1NDJhckg0aTNRTzNsMmN2NTZDS0ZrdkNKRC1CRTQtM3hXcUcwMlM5UXdwdWVQdE9PaUlKOTF3NkNCYm9OUWE1ckxpdGxDRUhTWkRBMW1LOHRUQVNkVmxLTjA0d3VaY2xFUjRj?oc=5>
 
-### 燃料和生活成本攀升 特朗普农村地区支持率创新低
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-06-15 01:17
-- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE5xTXJNS0MtY0RDc2ktVjZLNWxwUWU1RnA3MUhGVEJRbmJvYlQxQWpTWnhTenRtdHlrdFBKdXlKbXdqSXFQTWZmOURUYXJNWFRIN3MzQzlKdDBjTEpzM3Q5OHpDbXJYQ1hDWUhObXNnUWpzS1hFaEFOZGd3?oc=5>
-
-### 特朗普：内塔尼亚胡难搞 以军行动险些破坏美伊协议
+### 80岁的特朗普到底还健康吗？
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-06-15 03:09
-- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE9SZHlUUnA5U1dMZDFwTGpYN2FoM2F4bUNObk5wZFF4andjVFlVMkoyMHc0a24zb0hiNFVQOE85LWRIREk1UnBmcFRWMUI5aTZUUlRDREI2TTc0ME9rMHYyeFFB?oc=5>
+- 场馆: 茉莉花新闻网
+- 时间: 2026-06-15 07:18
+- 链接: <https://news.google.com/rss/articles/CBMiywFBVV95cUxQOWtuV2JzeGNIRENuYWtfb0ttSzAyWWQzMnFVWFNVY1lCRnJoZWdULXFJSUl0OEdNN0taUWlOSV9MRFdUcGh1cGdlTXRxSVlyVDdOQnd4VnpyQnpaV1NHMGFqMm4taURGTHF4UkpJTVZDWjNiNWlaaWtXdkVTNTZFWlVBdFZ0Nk9TZExjN212MVJ6MUpBaVJURHR3QWpKajVvbmc4OTFHUkExZVJmSFVpRDJCcnlkNjJHTW14YktmSlhKWU1Ecmg0a3Z1RQ?oc=5>
+
+### 实时市场：比特币仍未完全脱离险境，因特朗普警告伊朗可能发动进一步袭击
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-06-15 05:25
+- 链接: <https://news.google.com/rss/articles/CBMiogFBVV95cUxPMnRwMWVWemhwOFdWTWt1RjQ5LWlrdmJoQlZVWXpIM3daUzVQUy0xdVRyeDJnS0dQb1ZubHRpT1g2VzhJMlhDOWJLSHg1Z1luQVZWT2Z5cG5DZ3BIcUNkdDhESmx4RXhSVDZLTkxPMmluOHpqR0JacXJIUjE0SXh2VnNWTlNWUlB6Y2ZLZE5VNzJVendOZFNTMklWczFpSXVOQWc?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-15 09:55  (53 条)
+
+- **蔡徐坤** | QQ音乐MV巅峰榜第104期周榜公开 蔡徐坤《0000FF》登全球榜&amp;内地榜第一 <https://k.sina.com.cn/article_7857201856_1d45362c001906txb6.html>
+- **蔡徐坤** | 冰岛实景拍摄为蔡徐坤《Colder》MV的叙事带来了哪些独特优势？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801nu0s.html>
+- **蔡徐坤** | 蔡徐坤柏林获奖创历史！亚洲首获欧洲权威MV叙事大奖 <https://k.sina.com.cn/article_7879776328_1d5abd84806801nu00.html>
+- **周杰伦** | 周杰伦青岛演唱会获批 <https://k.sina.com.cn/article_1647210043_m622e6e3b03301khua.html>
+- **周杰伦** | 周杰伦两个女儿出镜！《女儿殿下》MV <https://k.sina.com.cn/article_2251236920_m862f2638033012qsq.html>
+- **周杰伦** | 周杰伦演唱会全员接梗我美吗 <https://k.sina.com.cn/article_6380644334_m17c50e7ee03301akfg.html>
+- **周杰伦** | 周杰伦新MV《女儿殿下》大秀复古舞风 <https://k.sina.com.cn/article_1652484947_627eeb5302001vr12.html>
+- **周杰伦** | 黄晓明惊喜现身周杰伦上海演唱会，与杰伦合唱《明明就》引爆全场_好友_嘉宾_首歌 <https://k.sina.com.cn/article_7857201856_1d45362c001906tt4c.html>
+- **周杰伦** | 黄晓明去周杰伦演唱会啦!|刘耕宏|华语歌手|周杰伦演唱会|填词人|音乐专辑|黄晓明 <https://k.sina.com.cn/article_7857201856_1d45362c001906tsgc.html>
+- **周杰伦** | 周杰伦俩女儿一同出镜女儿殿下MV <https://k.sina.com.cn/article_1672519561_m63b09f8903301ttig.html>
+- **周杰伦** | 周杰伦《女儿殿下》MV出炉：为小女儿量身打造，大秀复古舞风 <https://k.sina.com.cn/article_7857201856_1d45362c001906tpte.html>
+- **周杰伦** | 周杰伦《女儿殿下》MV上线，阿Ken扮鬼马老爸秀舞技 <https://k.sina.com.cn/article_1175406475_m460f478b03301h2j0.html>
+- **周杰伦** | 周杰伦为小女儿量身打造的《女儿殿下》MV正式上线 <https://k.sina.com.cn/article_1655444627_m62ac149302003319e.html>
+- **周杰伦** | 周杰伦为小女儿量身打造新歌 <https://k.sina.com.cn/article_5953740931_v162dee08306703e8by.html>
+- **周杰伦** | 周杰伦是如何在MV中巧妙融入小女儿Jacinda的真实声音的？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801ntq4.html>
+- **周杰伦** | 周杰伦为新歌《女儿殿下》创作的灵感来源是什么？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801ntok.html>
+- **周杰伦** | 周杰伦近期演唱会‘划水’争议与其‘端水大师’的暖心人设是否形成矛盾？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801ntna.html>
+- **周杰伦** | 周杰伦为女儿打造MV上线，阿Ken演奶爸 <https://k.sina.com.cn/article_1910355794_m71ddb7520330220vc.html>
+- **周杰伦** | 周杰伦发布《女儿殿下》MV两个女儿都出镜太可爱啦！ <https://k.sina.com.cn/article_5886158017_m15ed7a4c103301jky2.html>
+- **周杰伦** | 周杰伦两女儿同框出镜新MV，弹钢琴萌态十足 <https://k.sina.com.cn/article_3946228785_eb36ac3104001wzdq.html>
+- **周杰伦** | 周杰伦新歌《女儿殿下》MV上线，阿Ken出演被整老爸 <https://k.sina.com.cn/article_7096020433_v1a6f4add106801inzw.html>
+- **周杰伦** | 女儿一句“为什么没有我的歌”，周杰伦连夜写新歌！ <https://k.sina.com.cn/article_7879924009_m1d5ae192903301c9yu.html>
+- **周杰伦** | 周杰伦新歌《女儿殿下》MV上线，Funk风格献爱女 <https://k.sina.com.cn/article_1835415447_m6d66379703301dvcq.html>
+- **周杰伦** | 周杰伦为小女儿量身创作的新歌上线，曲风大变还原真实带娃生活 <https://k.sina.com.cn/article_7857201856_1d45362c001906tigm.html>
+- **周杰伦** | 周杰伦MV泄宠女日常！　阿Ken揭他暖爸行径：一通电话就冲回家 <https://k.sina.com.cn/article_7857201856_1d45362c001906tibi.html>
+- **周杰伦** | 昆凌带女儿现身周杰伦演唱会,网友:女儿殿下现场听《女儿殿下》啦 <https://k.sina.com.cn/article_7857201856_1d45362c001906thku.html>
+- **周杰伦** | 周杰伦为小女儿量身打造MV <https://k.sina.com.cn/article_2992050891_mb25712cb03301shz6.html>
+- **周杰伦** | 周杰伦为女儿Jacinda创作《女儿殿下》MV上线 <https://k.sina.com.cn/article_1651428902_m626ece2603301gb10.html?from=ent&amp;subch=oent>
+- **周杰伦** | 周杰伦女儿殿下MV大女儿小女儿同框出镜 <https://k.sina.com.cn/article_3193742315_pbe5ca3eb02701n9ei.html>
+- **周杰伦** | 周杰伦女儿殿下MV两女儿出镜，大女儿似母小女儿似父 <https://k.sina.com.cn/article_2022990945_7894646104003ahyg.html>
+- **周杰伦** | 周杰伦《女儿殿下》MV高清组图！ <https://k.sina.com.cn/article_1840274303_p6db05b7f02702yu0y.html>
+- **周杰伦** | 周杰伦女儿殿下MV上线，暖心演绎奶爸心声 <https://k.sina.com.cn/article_1784505422_6a5d644e040011cpe.html>
+- **周杰伦** | 歌迷和乐评人对周杰伦的新歌《女儿殿下》反响如何？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801nt7c.html>
+- **周杰伦** | 周杰伦女儿殿下MV上线啦 好有意思的MV <https://k.sina.com.cn/article_2334113635_m8b1fbf6303301sxxq.html>
+- **周杰伦** | 周杰伦为小女儿创作的歌曲《女儿殿下》MV讲了哪些育儿趣事？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801nt5w.html>
+- **周杰伦** | 新歌MV丨周杰伦《女儿殿下》官方MV <https://k.sina.com.cn/article_2640993657_m9d6a5d7903301b0c0.html>
+- **周杰伦** | 周杰伦演唱会惊现特别嘉宾黄晓明 - AcFun弹幕视频网 - 认真你就输啦 (?ω?)ノ- ( ゜- ゜)つロ <https://k.sina.com.cn/article_7857201856_1d45362c001906t9we.html>
+- **周杰伦** | 2026周杰伦南京演唱会最新消息（持续更新）- 南京本地宝 <https://k.sina.com.cn/article_7857201856_1d45362c001906t9r8.html>
+- **周杰伦** | 黄晓明去周杰伦演唱会啦 <https://k.sina.com.cn/article_7857201856_1d45362c001906t9pw.html>
+- **周杰伦** | 周杰伦最新MV《女儿殿下》发布，为小女儿量身打造 <https://news.sina.com.cn/zx/2026-06-15/doc-inicnuhr8215590.shtml>
+- **周杰伦** | 周杰伦《女儿殿下》MV上线，好友林暐恒大赞周杰伦是好爸爸 <https://finance.sina.com.cn/jjxw/2026-06-15/doc-inicnuhr8198841.shtml>
+- **周杰伦** | 周杰伦为女儿Jacinda创作新歌《女儿殿下》MV上线 <https://video.sina.com.cn/p/finance/2026-06-15/detail-inicnisx5098960.d.html>
+- **特朗普** | 特朗普：如果伊朗未能与美国达成最终核协议，将重启对德黑兰的军事打击 <https://news.google.com/rss/articles/CBMijwFBVV95cUxNemtpdGhJdmQtNlFfWHFmODZKQ1VrZ0g3T1VpajFkRHRjSDNjVXdHNU5lRDUtdlJWczRXM1loSmU3Y3JMQTQ0MjlrcC1xMjFVS0tkckN2RnZKSzI1X0VmNEhrdlF0WjZDS280OXBoRnFrNEdtNjVwemxjaHV5VHVoSVFnTVd2V05NdHlYLVJ3WQ?oc=5>
+- **特朗普** | “特朗普名字被移除” <https://news.google.com/rss/articles/CBMic0FVX3lxTE5QVGJYNlYtY05OdXZ4N3B2X2QyZ0k1Z0xnMEdEaWs0NmVsN3c5XzZ1STMyYjVENEJwZmlFZHVQeUhOV0lTWExOV1ZMOHhWLWY1RXFBbmFWU0xCZzhUVGhHZ3NuWHZVd2hKR2NrTGcxZUUtZVU?oc=5>
+- **特朗普** | 特朗普口中那四个“爱出风头的人” <https://news.google.com/rss/articles/CBMieEFVX3lxTE9sLXRtRGhoek1hUENqYVBxUzRmUEgzLXFpUlo4bTVpZm1XSUtVTlo2bW0yYWpqSTJLcDJOWjhyRVVURHB0UzFDcVVTb18yOHQ3UGdxN0ZEelFFampWTGNyc3NHVF9RWTZaQU5SeTNkSHJQeVJmWjhWLQ?oc=5>
+- **特朗普** | 澎湃思想周报丨世界杯沦为特朗普的马戏；当马丁·斯科塞斯拥抱AI <https://news.google.com/rss/articles/CBMiXkFVX3lxTE02d3dIWjhrUE1ZOGI2bE9fTFZiSlBlQXlhelA3UVh0QmdIQ2lHRGpNekJoakdjbmZMcVlUTDNjaDMwaDdlWnNzM0xZRDNodDJSRllYRkFCVWU4NC1keFE?oc=5>
+- **特朗普** | 美媒：G7峰会前夕，特朗普直白警告马克龙 <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbmVsd28ycWRjaXlyMnVkTUczU2duVWtGZDlTUUVWX0xXM2Y5eFJCaEtBQU1QZmUwQ2N0S3dXTnJxUFBwQW9mTWNUSGMyU3dPTFl2bURla2lXZGk3Zy04cWtPSXB0MG83dkdIakRRRy1sMENMUXlQWFVnOGFta29ydzE1R3h0elNwRTk0SnN6SzlXNUhJblVOWE16Nm9ybk0yajJBUTdoZ1kzeGhJbzJlYTdIQ1I0cG4wUzJNQ2p6b2xCTHRGWU5HSG9kY1dDamZp?oc=5>
+- **特朗普** | 生日当天，特朗普分别与普京、泽连斯基通话-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE1DM3EtRndxdUNPcFdGb2h0VUFwQ0E1SExuS3F6SXpZY2RKNmV6Qkl6N0Z2ZTNlWkZxZzdYa2R3V3Z1LUpPUlk4djktRm9pNUVIbkVBXzhBZkFuaVJvUW9FNGR1TnBGLUV0aWc?oc=5>
+- **特朗普** | 美方重新聚焦乌克兰？特朗普与普京通话后，特使与库什纳即将访俄 <https://news.google.com/rss/articles/CBMipwFBVV95cUxQSXRMVXFGbzQ2ckZSRzBJbWx5MTNyMngwNVRwOXF4cmhRLUJDWkw5Z1loN01iMVBwQUkzWmg3dlNGUHMxNWo3WTBBeEQ0dEFxV3A1Y3kwbVpiZzMwbEp3b1FtY2QxLU56VWx0LXA4UlJmWFZEOFY3eUdKZFlzdVZydTNwcFVQOVNNNEhpdTVVeTB1alpjOFdRcFZRdzNITXBDRk5ELVZuNA?oc=5>
+- **特朗普** | 俄方：特朗普称美国有结束俄乌冲突的需要 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9tcS1vcHFCa0JiWXBkUEU5QlNwRVRxMExxY3RTYmgtR0syUkRmRlRYdnRZZVJIblpkaTN5ZTZSN0twckc0dTNtcmZfcGM?oc=5>
+- **Trump** | 美国与伊朗宣布达成协议结束军事行动，特朗普称“让石油流动起来！” <https://news.google.com/rss/articles/CBMiZkFVX3lxTE95NFhCUWQ4YjJsOXV3Z3BMbDZ5R0tNWlJqMlBnMXRDeWhCQlVobGV5TWQ2MHVXWjhUR2JxcGdMcXhVMThWN3ZvRzdsNXhBWGZEeEJueU1uZTB3cmlZRXJsSzhJNU9Pd9IBa0FVX3lxTFA1NDJhckg0aTNRTzNsMmN2NTZDS0ZrdkNKRC1CRTQtM3hXcUcwMlM5UXdwdWVQdE9PaUlKOTF3NkNCYm9OUWE1ckxpdGxDRUhTWkRBMW1LOHRUQVNkVmxLTjA0d3VaY2xFUjRj?oc=5>
+- **Trump** | 80岁的特朗普到底还健康吗？ <https://news.google.com/rss/articles/CBMiywFBVV95cUxQOWtuV2JzeGNIRENuYWtfb0ttSzAyWWQzMnFVWFNVY1lCRnJoZWdULXFJSUl0OEdNN0taUWlOSV9MRFdUcGh1cGdlTXRxSVlyVDdOQnd4VnpyQnpaV1NHMGFqMm4taURGTHF4UkpJTVZDWjNiNWlaaWtXdkVTNTZFWlVBdFZ0Nk9TZExjN212MVJ6MUpBaVJURHR3QWpKajVvbmc4OTFHUkExZVJmSFVpRDJCcnlkNjJHTW14YktmSlhKWU1Ecmg0a3Z1RQ?oc=5>
+- **Trump** | 实时市场：比特币仍未完全脱离险境，因特朗普警告伊朗可能发动进一步袭击 <https://news.google.com/rss/articles/CBMiogFBVV95cUxPMnRwMWVWemhwOFdWTWt1RjQ5LWlrdmJoQlZVWXpIM3daUzVQUy0xdVRyeDJnS0dQb1ZubHRpT1g2VzhJMlhDOWJLSHg1Z1luQVZWT2Z5cG5DZ3BIcUNkdDhESmx4RXhSVDZLTkxPMmluOHpqR0JacXJIUjE0SXh2VnNWTlNWUlB6Y2ZLZE5VNzJVendOZFNTMklWczFpSXVOQWc?oc=5>
 
 ### 2026-06-15 03:34  (17 条)
 
