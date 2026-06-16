@@ -1,262 +1,204 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-16 05:43**
-- 本轮扫到 3641 条, 新增 **37** 条
+- 最近更新: **2026-06-16 11:00**
+- 本轮扫到 3664 条, 新增 **23** 条
 
 ---
 
-## 本轮新发现 (37 条)
+## 本轮新发现 (23 条)
 
-### 蔡徐坤获得BMVA最佳叙事奖对华语音乐有什么意义？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801nw1u.html>
-
-### 蔡徐坤原创MV《Colder》获柏林音乐录影带奖季军，打破欧美垄断
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1502793162_m5992cdca0330139ea.html>
-
-### 周杰伦不出演女儿殿下MV原因周杰伦让阿Ken演MV爸爸原因
+### 周杰伦出道首场演唱会宣传耍双截棍，至今共举办超300场
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1700087532_m655546ec03301998m.html>
-
-### 周杰伦谈为何让好友阿Ken出演MV
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2318910945_m8a37c5e103301esmy.html>
-
-### 全体杰迷狂喜！周杰伦青岛演唱会审批通过 10月3日至5日连唱三天
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1893761531_m70e081fb02003327s.html>
-
-### 周杰伦解释《女儿殿下》MV爸爸角色由阿Ken出演
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7096020439_1a6f4add706801rz5k.html>
+- 链接: <https://k.sina.com.cn/article_7879923551_m1d5ae175f03301l032.html>
 
 ### 周杰伦回应为何没演《女儿殿下》MV中爸爸：好友阿Ken更放得开
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924002_1d5ae192202001e4ja.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906w41u.html>
 
-### 周杰伦北京演唱会的特别来宾，精彩程度超乎想象！
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6605842839_m189bd299703301jgu6.html>
-
-### 谁成功拿下周杰伦演唱会门票！？
+### 周杰伦新歌《女儿殿下》的歌词有哪些内容取材于真实育儿日常？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6183820703_m170959d9f033011cuu.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801nxcm.html>
 
-### 周杰伦新MV《女儿殿下》复古舞风大秀亲子温情
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906vnwo.html>
-
-### 周杰伦新MV《女儿殿下》发布,复古舞风展现父爱与童趣
+### 周杰伦为什么不在《女儿殿下》MV中亲自出演爸爸角色？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906vnw2.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801nxcg.html>
 
-### 周杰伦新MV《女儿殿下》发布,复古舞蹈引热议
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906vny2.html>
-
-### 周杰伦在《女儿殿下》MV中负责什么部分的表演？
+### 周杰伦最新MV《女儿殿下》:复古舞风下的亲子情
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801nwke.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906vzn2.html>
 
-### 周杰伦新歌收录女儿童言，好友称其随叫随到
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5601366052_14dde102404001k7tu.html>
-
-### 最新MV《女儿殿下》正式发布，周杰伦大秀复古舞风_Ken_Jacinda_爸爸
+### 周杰伦解释《女儿殿下》MV爸爸角色由阿Ken出演原因
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906vhju.html>
+- 链接: <https://k.sina.com.cn/article_7096020439_v1a6f4add706801rz7c.html>
 
-### 周杰伦为女儿量身定做新歌，《女儿殿下》大玩疯癫Funk风格
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_v1d45362c001906vhfu.html>
-
-### 周杰伦最新MV《女儿殿下》发布，为小女儿量身打造 | 极目新闻
+### 周杰伦在专辑发布会上明确说明了选角理由
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906vi8o.html>
+- 链接: <https://k.sina.com.cn/article_2813285937_ma7af563103301a8k6.html>
 
-### 最新MV《女儿殿下》正式发布,周杰伦大秀复古舞风
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906viok.html>
-
-### 周杰伦最新MV《女儿殿下》上线,大秀复古舞蹈
+### 旋律里藏着宠溺，MV里满是欢笑，这就是幸福的模样
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906vig4.html>
+- 链接: <https://k.sina.com.cn/article_5824375061_m15b28e91503301jga4.html>
 
-### 周杰伦演唱会外挂猖獗,技术暴力突破票务防線全解密
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906vccg.html>
-
-### 周杰伦2026年青岛站和南京站的演唱会什么时候开票？
+### 两个女儿同框MV，一个亭亭玉立，一个古灵精怪，颜值完美遗传
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801nw94.html>
+- 链接: <https://k.sina.com.cn/article_6310279370_m1781f38ca03301snfg.html>
 
-### 周杰伦北京演唱会的二开门票为什么这么难抢？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801nw8k.html>
-
-### 周杰伦将赴青岛开演唱会，今日气温20至24度
+### 周杰伦女儿殿下MV上线，全网看完直呼太好哭
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5410047623_m14276c68703302nim8.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84802001ny22.html>
 
-### 周杰伦期待6月启德演出加场，昨搭私人飞机带昆凌赴港看艺术展 - 星岛环球网
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_v1d45362c001906uq8e.html>
-
-### 黄晓明去周杰伦演唱会啦! | 极目新闻
+### 量身创作宠女金曲，周杰伦《女儿殿下》MV 释出
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_m1d45362c001906tu1u.html>
+- 链接: <https://finance.sina.com.cn/roll/2026-06-16/doc-inicqsxt7683201.shtml>
 
-### 陷入战争泥潭的特朗普对伊朗作出重大让步
+### 3000亿美元伊朗“激励”基金？特朗普回应-观察者网
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-06-15 22:37
-- 链接: <https://news.google.com/rss/articles/CBMiwwJBVV95cUxNSzlQU2pKYTRwdHBwMEppTVhpODBMVmMyMXJJWXJQWDNVY3RCOWN0VktnTDRXVzZjMHNHb3IycDMzYkhxRUdwU0lPWjBWdVJDeE9uUW5WdE9YVmQtMG05UC12M3BIUE5MT20tZ0hFbzlBOVpRM2J1YmxaNXFEV2psaTJDLVdHc0E1R2V4Nl9TTTQ5dTFiUGg1UE93aXBoQUhZOUFCR0VwS01xcFJ3YU5TVDNGZzFxV3dsbUR0ck9iWUJDeXNkVndFZjM4a1VrRDU4VU14MUhkcTRwajJ5ZnV2MWlDaDV0dkdDR29VdXBpRFNNZGh4QkpuaHVvdTRGUmhhazFHLVdueGZyOEsxdkZCakI4MzUzWFhyWWc4T2JHX2F5WXZ6dWl5ODFUZDBNeW1mcW9jN0FDMU5KdWRnSlRzNHJWVQ?oc=5>
+- 场馆: 观察
+- 时间: 2026-06-16 07:54
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFB1Z1ZpU0hoOEtidWtCcmhaVzNVYTlWdGVLVGcwVllESDFVbUxPTFE1LUVEM1VSM2pQRGVOSWpnNWFrVl85MjZMQkkwd0F5SWlkMW1ROHBJdGFxUk5HWTBmd1Rpc0k1b1N5Qnc?oc=5>
 
-### 特朗普盛赞美伊协议 尽管双方在具体内容上仍存分歧
+### 特朗普：美伊协议谈判第二阶段“更容易”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-16 04:58
-- 链接: <https://news.google.com/rss/articles/CBMixwJBVV95cUxONnJlNmgtSUNTb0ZKSDRkX1BQUlRFdUxyd2VUSFFvYmx2RU9QNTU4RWc3VTBiNFE0Ymp4MUVYaXBrdTl0N2xOakdEcThEbUI1N0F2S2NvNkFnRnNqSnhQd25fVVoyXy1lWmZBdFlzdDNRSDBVbFMyNThXeHdZUWo1QUxWc0tiRk1TZDlUTEttY09kcEg3Z0RURnRlUUh0Yjl5eGdKUlNoTTIydDNJSlZRMTdFSHA0M2dVZU94aXQ3RFc0VTRral9QQXFrck81dmZ1SXdsTkp3a1o5OWd0WHBxYll6RTVQNFYwSm5TNlFVbko2WDFXakRKcXlWU0U1Q01zT3R3NE01YzhSdUN5WkJFbmRYbjRsT2J6WElmMnRobkthZ1A5azN4a0pmNGFiTEJPZUlaLWItTDdVd0E4Vm0wMnhyNUZRdU0?oc=5>
+- 时间: 2026-06-16 10:48
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XZlV4cFhaOFBlZWtmbzBTNWNwV282UURzTXMya2E5R0RmZ3pLUEVCNzRmMnBWc1pzNlhTbVVEZi1hMnc3SE5NWk8xZw?oc=5>
 
-### 猛料曝光：美军想武力抢夺浓缩铀，特朗普没批
+### 特朗普金手机原来是“中国制造”？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: DW
+- 时间: 2026-06-15 21:26
+- 链接: <https://news.google.com/rss/articles/CBMi5AFBVV95cUxQd18zU2d1QUFhOWw2UnkxN1pzRnpVWW5GQVFON0FDS2VyQnJLLV92RUhFVUF2RlVoVFBpOC1ES2JXamR3eGpHeElNVjlSWmpiODhHOHBWOUdONzVfQk1CWE1HY2pEZXgxR3FVV1ItQ0R2V2kzSzNOWUJWeEtDOXQwOXQtQmM2WFlVMVJXYWo4M3o1bUFqajVnNEIycWV6QW1wNVZYc01qNXFlWkFiZkRVN1g1bW4zVTdhM210QmxiRFZ0SG1vTmJGbnNsV0t6ZWhRR0JPZmk1ME9FTUhVNF8xSjhUODPSAeQBQVVfeXFMTVQ3S1Z0U0dLLURXR3NYRXZEMG5jek1fQ2tJbFE5UDdrLTZqSVhISnNIRTMtOS01NU9VeEoxaVVUQjVOVnBiMVRLdlIxLTFOMzZWN0JfZHozbklKZDM2SnRER1N6bk9BMk14di0tT04zZXVkd1JOcHQ1TUFuMDNjdmdRVlNtU3Z2YW5WdWtpbXFDX1ItMW1kOXFrTUg2TklDcF9KTUlRR21JWWZVTXgweUozRjlhZDlRVXJ6c29nVDR4SzBkdWZDaW11TmpDeTFsWjlPbldOSU5lc3RhYlRPQzhkcUxr?oc=5>
+
+### 特朗普威胁、卡尼警告……G7峰会还没开幕已裂痕难掩
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-06-14 14:09
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBzS0VWcDJ4bnlBeHR6R1FSSDVhRHNqSVBONzZydzMwQzh6M1dqUGM5U2dyTXNxbGZLUWlpRklqWF9BWGlXNzFVVVh4TzVuV2tldGxEVllJd28ySEtES2h3aXh5cm5hNFpWZlJEaHZRaFQ3ODYxV0NrVA?oc=5>
+- 时间: 2026-06-15 12:26
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE1DM3RaSzhUeE9PNzA0TTQ0ajZWT1U0b0s5QTUwOGtKd0RLYnpEbWFZdmFSRmluMkRNRThzbG1uZWozeHhwVTRpWXZDd0lXajJRblBXci0tR3A0ZW9QdjNHa1l0VU5RYmgxZmVLNHAwLXVJX1pG?oc=5>
 
-### 霍尔木兹海峡何时重开？特朗普的答案让欧洲盟友难以置信
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-16 04:52
-- 链接: <https://news.google.com/rss/articles/CBMijwJBVV95cUxObFpyQWtsQnVoa1M3dnNNdmV1SHlVVkxtM2ZuSXM3dUlvZndxWTZBTk9VZHdJYjN1SVNWZVlEN3hnZ2RNcGdTbEFCZDRGRVN4NzM5empaTzJ5azhleUUwNWJDUUFzQWFlcHhDLUJmZm9uZXU0bm1nUTVVbVJhWTRJNGtJMC03YjBzSUdHZkRxOENUa3hXQ3FOV2I1dTBsRkJndHRSajVWOGJZdUNYT3FOZGl0VzNYM0VnbFN3S2hPM0Z3eEUzWm1sOHdzZ3ZlVU9ValpmSzRDWExnNlZPU3RFN1N6SmxNaTFNT0hFVkF0WHlHTXZhdkRFeVBRYVdENGtwS0ljMUNOX1drYWEwVTFZ?oc=5>
-
-### 特朗普：普京和泽连斯基愿就解决乌克兰危机“采取行动”
+### 邵永灵：特朗普让G7面临不确定性 贸易战阴影再现
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-06-15 17:23
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9Dek0zS2Uxc3M2a3VWZmNJbFp6WVJpVFRaWnQ4Q1Jwc2VmX0s0cFdKNE9DNjFGdC1RRUNsbjJGUjl6elMtdUIyRGRscHpaY2pQclFGc3QyUmVHWF9QTnRjM1BIaFFNUmNXUlRnVks5VXRxY2w5MUJkNHMwWUg1OTA?oc=5>
+- 场馆: 中华网
+- 时间: 2026-06-16 10:05
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE0zaHlpTWNVMG5sM0FqZWdIU0ZsXzdsanRYbXZjaWR0aTRVbjlfQUZWUDNlMEwycFZwdGZyRHZRR1BUZHpBQVBxQXo4Ny12dDMwdzlaUDZqZTNRd3VkOVBQZllsdFVsQkFMcVZWdjRuMjk?oc=5>
 
-### 美加州州长纽森喊话特朗普：要打击报复找我，别牵扯到我家人！两人曾发生冲突，纽森称调查人员试图给他安个罪名
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-06-16 04:25
-- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE82dW4zczZjYnpLRjg3YWdNbklxRS1tbGY2YnRNNkF5T3ZLMmZCUDh0eGhzT3otd1JxanJ4SFJWU3o5WnEyUkRXdlhsSTdQNUpoNmdjMFd6V2xUam5PcUFMa1ZiMWkyNWJ6bXoyQlBXM1I0cmIzblp1V2tFUkhwZw?oc=5>
-
-### 马克龙妻子和特朗普重逢，握手14秒引热议，LV裙摆不过膝细腿夺目
+### 特朗普感谢习近平和普京助力美伊达成协议
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-06-16 00:04
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBhSVlBbkRSeFpvdTVWNnlGeEZvVm9NS19XUWxtMUs4OTdTS0N3eF85dl9oZmo4RWp4cGFSamp6ZnpGdm9EcE9jQWYwLVg?oc=5>
+- 场馆: 纽约时报中文网
+- 时间: 2026-06-16 02:57
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE1SUWhnQjJMMkx3YUlhTm8tTWtoaGt4YXg0TnpHTUNSR1NWNDZUNlQ2ckY2S3ZIalF0YW1BVFpOV2o2cy0zMnlpSkZyTzJQc0duSUdzUDNMYXFWUW9NaEhUQ3BxdTc0S3dvMGRlZlRLaw?oc=5>
 
-### 国际丨加州州长喊话特朗普：打击报复找我 别动我妻子家人
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-06-15 09:00
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kLWNzTHRCUnNnUjgzSTV5S2JuX0J4b005SV9rNkQ5c3V0QXl6cVVNNDJRSGJSV1BYNWZ4TTZndEFKNVY2Qmt6RlFFNW9qZ1Rfd2wwcTA5WFdRUWIzdnlMQmVlaU4?oc=5>
-
-### 伊朗战争：一份协议为特朗普的战争划下句号，也暴露了美国主导地位的局限
+### 美加州州长指特朗普出于政治动机对他和妻子展开调查
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-06-16 03:54
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5mQ3BJTE9ES1ZqQ1dXQ1cyN0hpMTVqeWt2UmJZRHF4VEZOXzVWM3hLdGRkNlhxTkRvaTNjd1dBZUd1VHBMRExfR0ltQWlTU0tpNjFZMDZjUkd4TnliUE9WdEVNSmlXUdIBa0FVX3lxTE5LWDVfd0hjUUVYVkpxcHhBRkpsX05DYVRNbmk1N3FJV05lY1hoZ1o5aDFNaDExV1FHaDQ0VHlsZm5kUVQzc3Z3cTB5WGg2T0Q4MDZUd01NT0lENFlCcEpmQlFka1UyRGREWDVB?oc=5>
+- 场馆: 联合早报
+- 时间: 2026-06-16 06:22
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Wc1hRQ2ZMLUt3NF9TLWVTQTNPRERrdDRUN3lDQTRYbGhyVmFtVUtBYkcwNGs4M0Q4ek1FeE0tLU4zcnlvUkpSSDR6Y19RQXdtd29qeWh4VVlRZW1ZUjNQeDBNX0Mwdw?oc=5>
 
-### 美伊达成结束冲突协议 全球反应强烈
+### 特朗普：7月4日举行历来最盛大的“特朗普集会”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-06-15 12:15
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5fb1cwMFdRcFgxTGJmajI4aDg1d3loUUlOajVzalhRaG53U0J6Njk0WjNvU3l0OWN2ZkpZd1hrckxUZXJGQkkzSHFNZjNIRGIzc0RBSlMwOWlsV1NRZF9oaTBvZnVvems2WEE?oc=5>
+
+### 特朗普T1手机亮相！数码博主锐评其廉价又难看
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 驱动之家
+- 时间: 2026-06-16 09:20
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4R0Q2S2NGcE95dGp0TkRSa25udnlSdVRibVN2U1ZPaG1kckhUSjl2ZGpBYkFWbl9HallsOERuRXNiZW1TV3B2WXE5RGl4QldqU2dzc0JJdDk?oc=5>
+
+### 特朗普手机内幕被扒光！「美国制造」一夜成了笑话？
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-06-15 23:26
-- 链接: <https://news.google.com/rss/articles/CBMizAFBVV95cUxPUkN0MkhKNXBmM19mMkJObEczSWNfY0VmOHlTamdBeldmaVNLclpQQ0p6Mk5Sc3lNOXlTVUdSV0V2Z3lQNU8tb3lDaHQzUWtrRTFKbFZHbnVWSTdCQUptaUlFQkVkSHhMVi1ET0w5aEh3b0Z1N3BwcF9oaEVtQVB5UmdLX2NmRHl2cW9JT1pJVnhGOTJ5LVFfX1ViQmhZcFhselBYTXhQcmFsVFJjOWJMdXlZSS1EM3VWVWx1QjZWSDZuaFNGR0doalZUVUnSAc8BQVVfeXFMTm1FcVY4MEhqX1k1eGpINjZHQkUxenBQcUxEd2h5Qy1NM2g5Vnl5eGI0aTZncmVTUFM3dncwa1dCcFBDWG5ZQVNOZHFnNFdlUFk1Vk4wa01jYnlVc0s2cE1RYXE1S2MxTmoyamdsY2Uwc2luelJ3N0h4LUZiNUdteS0xYVhOZVI3X0NZSlBGTVZPUHJSRkljcnp0TUlMbk43WV9GWVFXUGVjSTBrNndJYW50ZzJoMUh6UmRSd0hsZWFmTnpKR2w4c1pQXzk2SUhB?oc=5>
+- 场馆: 雷科技
+- 时间: 2026-06-16 08:24
+- 链接: <https://news.google.com/rss/articles/CBMiTkFVX3lxTFBra0dRdy1Kekhia0dHem9LYUQ5YnJUa1lPb0gyNnJEekwydl9QZ3hDamcxVjRDeUNaVmpXejNvVzY1enFGcXl6eE05a1RMZw?oc=5>
 
-### 特朗普、万斯签署伊朗-美国框架协议
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Al-Monitor
-- 时间: 2026-06-15 16:28
-- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxPMHNZQ2NtenM1Q2psdl9ZMzNRYkxaMVkwNm56aHZtOFdKZWlYUHVXZWd1cy1OdVFiU0Nja015dTNtaURVX1FRaXJLWGFYUFJxTUtEb0Y1RW01RndINFNlTGphaGVJYUM2ZGdwZlQ3cF9TTlIzUHdNT1dOd004b2xRWkh6Q0dmYm5udHlwQnc2T2dTcV9RaENrQXlXRDlELUNp?oc=5>
-
-### 特朗普UFC生日庆典背后：加紧敲定伊朗协议的博弈
+### 特朗普T1“美国制造”手机真相：拆开后是广东产HTC换壳！
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-06-16 04:20
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE1iOE9QX1RGNmdlR1Y5WXlNTGRXN1RITDFmem5kNUFLenpzSTFIQXkzTXA3YTRGb19nVklJVmM2YXNtZlg3Y09ydFdxd3RmZV8xb0lKSkwyRk5wR3cxSEd0WjFKQndaVXBZN0JPeE5nVQ?oc=5>
+- 场馆: 电子工程专辑
+- 时间: 2026-06-16 06:35
+- 链接: <https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KenZONUhsUEV1ZTFfbG1oZV81eWZCZS15UVhTYlA2VkNwZmNWNnpjRXBKRUdPOVk3QlI5UXFTb2xLUVhMdVByUDNyR2tlczF3M0xVYmpFaVdNTEZ1?oc=5>
+
+### 特朗普结束了他发起的战争，但并未实现目标
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 茉莉花新闻网
+- 时间: 2026-06-16 07:22
+- 链接: <https://news.google.com/rss/articles/CBMiqAJBVV95cUxPd2x6S1A3XzZVdFZWT2lpSlA5SFN5OWFkNnZVQWNyZ0o4T250dFRDdEpiekhxVjFyQm1uUVJfYWMtRGxuUjVpZUtmTFAyMjNBclZPVnZyNXBNMXlXaHJjZ2tacjFJY0tLX3g0N2FWa0p5ODlvVURkbXVqN2RmUVdmZzIyeU5GQWM0WkZpYmRzd2pZZHpuSENWZ2FPcVU0YmNhYnZvdFpPQVhfc3RTYkhKQjZLOTZMUU5GdmRmU2hoV0FFS0U3X3NuSEsxNWRETjJHYmFudU9HRmowbTZwZ2M0Qmt1VjFOek5EWXlvY0ZQY29VeUlVOVhTaFJ3c2w1b2IxcWgtUWhXS3lvSzdtUklVNkNoS1V3UWNCOU5tMnFSWHRCVEdOemJ6Tw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-16 11:00  (23 条)
+
+- **周杰伦** | 周杰伦出道首场演唱会宣传耍双截棍，至今共举办超300场 <https://k.sina.com.cn/article_7879923551_m1d5ae175f03301l032.html>
+- **周杰伦** | 周杰伦回应为何没演《女儿殿下》MV中爸爸：好友阿Ken更放得开 <https://k.sina.com.cn/article_7857201856_1d45362c001906w41u.html>
+- **周杰伦** | 周杰伦新歌《女儿殿下》的歌词有哪些内容取材于真实育儿日常？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801nxcm.html>
+- **周杰伦** | 周杰伦为什么不在《女儿殿下》MV中亲自出演爸爸角色？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801nxcg.html>
+- **周杰伦** | 周杰伦最新MV《女儿殿下》:复古舞风下的亲子情 <https://k.sina.com.cn/article_7857201856_1d45362c001906vzn2.html>
+- **周杰伦** | 周杰伦解释《女儿殿下》MV爸爸角色由阿Ken出演原因 <https://k.sina.com.cn/article_7096020439_v1a6f4add706801rz7c.html>
+- **周杰伦** | 周杰伦在专辑发布会上明确说明了选角理由 <https://k.sina.com.cn/article_2813285937_ma7af563103301a8k6.html>
+- **周杰伦** | 旋律里藏着宠溺，MV里满是欢笑，这就是幸福的模样 <https://k.sina.com.cn/article_5824375061_m15b28e91503301jga4.html>
+- **周杰伦** | 两个女儿同框MV，一个亭亭玉立，一个古灵精怪，颜值完美遗传 <https://k.sina.com.cn/article_6310279370_m1781f38ca03301snfg.html>
+- **周杰伦** | 周杰伦女儿殿下MV上线，全网看完直呼太好哭 <https://k.sina.com.cn/article_7879776328_1d5abd84802001ny22.html>
+- **周杰伦** | 量身创作宠女金曲，周杰伦《女儿殿下》MV 释出 <https://finance.sina.com.cn/roll/2026-06-16/doc-inicqsxt7683201.shtml>
+- **特朗普** | 3000亿美元伊朗“激励”基金？特朗普回应-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTFB1Z1ZpU0hoOEtidWtCcmhaVzNVYTlWdGVLVGcwVllESDFVbUxPTFE1LUVEM1VSM2pQRGVOSWpnNWFrVl85MjZMQkkwd0F5SWlkMW1ROHBJdGFxUk5HWTBmd1Rpc0k1b1N5Qnc?oc=5>
+- **特朗普** | 特朗普：美伊协议谈判第二阶段“更容易” <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XZlV4cFhaOFBlZWtmbzBTNWNwV282UURzTXMya2E5R0RmZ3pLUEVCNzRmMnBWc1pzNlhTbVVEZi1hMnc3SE5NWk8xZw?oc=5>
+- **特朗普** | 特朗普金手机原来是“中国制造”？ <https://news.google.com/rss/articles/CBMi5AFBVV95cUxQd18zU2d1QUFhOWw2UnkxN1pzRnpVWW5GQVFON0FDS2VyQnJLLV92RUhFVUF2RlVoVFBpOC1ES2JXamR3eGpHeElNVjlSWmpiODhHOHBWOUdONzVfQk1CWE1HY2pEZXgxR3FVV1ItQ0R2V2kzSzNOWUJWeEtDOXQwOXQtQmM2WFlVMVJXYWo4M3o1bUFqajVnNEIycWV6QW1wNVZYc01qNXFlWkFiZkRVN1g1bW4zVTdhM210QmxiRFZ0SG1vTmJGbnNsV0t6ZWhRR0JPZmk1ME9FTUhVNF8xSjhUODPSAeQBQVVfeXFMTVQ3S1Z0U0dLLURXR3NYRXZEMG5jek1fQ2tJbFE5UDdrLTZqSVhISnNIRTMtOS01NU9VeEoxaVVUQjVOVnBiMVRLdlIxLTFOMzZWN0JfZHozbklKZDM2SnRER1N6bk9BMk14di0tT04zZXVkd1JOcHQ1TUFuMDNjdmdRVlNtU3Z2YW5WdWtpbXFDX1ItMW1kOXFrTUg2TklDcF9KTUlRR21JWWZVTXgweUozRjlhZDlRVXJ6c29nVDR4SzBkdWZDaW11TmpDeTFsWjlPbldOSU5lc3RhYlRPQzhkcUxr?oc=5>
+- **特朗普** | 特朗普威胁、卡尼警告……G7峰会还没开幕已裂痕难掩 <https://news.google.com/rss/articles/CBMidEFVX3lxTE1DM3RaSzhUeE9PNzA0TTQ0ajZWT1U0b0s5QTUwOGtKd0RLYnpEbWFZdmFSRmluMkRNRThzbG1uZWozeHhwVTRpWXZDd0lXajJRblBXci0tR3A0ZW9QdjNHa1l0VU5RYmgxZmVLNHAwLXVJX1pG?oc=5>
+- **特朗普** | 邵永灵：特朗普让G7面临不确定性 贸易战阴影再现 <https://news.google.com/rss/articles/CBMicEFVX3lxTE0zaHlpTWNVMG5sM0FqZWdIU0ZsXzdsanRYbXZjaWR0aTRVbjlfQUZWUDNlMEwycFZwdGZyRHZRR1BUZHpBQVBxQXo4Ny12dDMwdzlaUDZqZTNRd3VkOVBQZllsdFVsQkFMcVZWdjRuMjk?oc=5>
+- **特朗普** | 特朗普感谢习近平和普京助力美伊达成协议 <https://news.google.com/rss/articles/CBMib0FVX3lxTE1SUWhnQjJMMkx3YUlhTm8tTWtoaGt4YXg0TnpHTUNSR1NWNDZUNlQ2ckY2S3ZIalF0YW1BVFpOV2o2cy0zMnlpSkZyTzJQc0duSUdzUDNMYXFWUW9NaEhUQ3BxdTc0S3dvMGRlZlRLaw?oc=5>
+- **特朗普** | 美加州州长指特朗普出于政治动机对他和妻子展开调查 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Wc1hRQ2ZMLUt3NF9TLWVTQTNPRERrdDRUN3lDQTRYbGhyVmFtVUtBYkcwNGs4M0Q4ek1FeE0tLU4zcnlvUkpSSDR6Y19RQXdtd29qeWh4VVlRZW1ZUjNQeDBNX0Mwdw?oc=5>
+- **特朗普** | 特朗普：7月4日举行历来最盛大的“特朗普集会” <https://news.google.com/rss/articles/CBMiakFVX3lxTE5fb1cwMFdRcFgxTGJmajI4aDg1d3loUUlOajVzalhRaG53U0J6Njk0WjNvU3l0OWN2ZkpZd1hrckxUZXJGQkkzSHFNZjNIRGIzc0RBSlMwOWlsV1NRZF9oaTBvZnVvems2WEE?oc=5>
+- **特朗普** | 特朗普T1手机亮相！数码博主锐评其廉价又难看 <https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4R0Q2S2NGcE95dGp0TkRSa25udnlSdVRibVN2U1ZPaG1kckhUSjl2ZGpBYkFWbl9HallsOERuRXNiZW1TV3B2WXE5RGl4QldqU2dzc0JJdDk?oc=5>
+- **Trump** | 特朗普手机内幕被扒光！「美国制造」一夜成了笑话？ <https://news.google.com/rss/articles/CBMiTkFVX3lxTFBra0dRdy1Kekhia0dHem9LYUQ5YnJUa1lPb0gyNnJEekwydl9QZ3hDamcxVjRDeUNaVmpXejNvVzY1enFGcXl6eE05a1RMZw?oc=5>
+- **Trump** | 特朗普T1“美国制造”手机真相：拆开后是广东产HTC换壳！ <https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KenZONUhsUEV1ZTFfbG1oZV81eWZCZS15UVhTYlA2VkNwZmNWNnpjRXBKRUdPOVk3QlI5UXFTb2xLUVhMdVByUDNyR2tlczF3M0xVYmpFaVdNTEZ1?oc=5>
+- **Trump** | 特朗普结束了他发起的战争，但并未实现目标 <https://news.google.com/rss/articles/CBMiqAJBVV95cUxPd2x6S1A3XzZVdFZWT2lpSlA5SFN5OWFkNnZVQWNyZ0o4T250dFRDdEpiekhxVjFyQm1uUVJfYWMtRGxuUjVpZUtmTFAyMjNBclZPVnZyNXBNMXlXaHJjZ2tacjFJY0tLX3g0N2FWa0p5ODlvVURkbXVqN2RmUVdmZzIyeU5GQWM0WkZpYmRzd2pZZHpuSENWZ2FPcVU0YmNhYnZvdFpPQVhfc3RTYkhKQjZLOTZMUU5GdmRmU2hoV0FFS0U3X3NuSEsxNWRETjJHYmFudU9HRmowbTZwZ2M0Qmt1VjFOek5EWXlvY0ZQY29VeUlVOVhTaFJ3c2w1b2IxcWgtUWhXS3lvSzdtUklVNkNoS1V3UWNCOU5tMnFSWHRCVEdOemJ6Tw?oc=5>
 
 ### 2026-06-16 05:43  (37 条)
 
