@@ -1,84 +1,89 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-15 22:13**
-- 本轮扫到 3596 条, 新增 **9** 条
+- 最近更新: **2026-06-16 00:08**
+- 本轮扫到 3604 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (9 条)
+## 本轮新发现 (8 条)
 
-### 太萌了!周杰伦新MV《女儿殿下》揭秘趣味亲子互动
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906uu72.html>
-
-### 周杰伦在‘魔天伦’演唱会穿的盔甲战袍具体什么样？
+### 周杰伦青岛演唱会2026年10月3日的票什么时候开售？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801nvpw.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801nvv4.html>
 
-### 霍尔木兹海峡何时重开？特朗普的答案让欧洲盟友难以置信
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-15 20:55
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxPRllWVGNVN3VXZEM5bW9tWUpaa0dkOU5yalJMd0MyZDlHTERHTUdjcHJncllqbGhRQlFtaVppWi1jSU1JQ19ZN3BXOEZBb3hSSWwyZXRqWjNxVDBMcWpSTXFuVHJOTjNBVTBOamNqLXAyX2pueDVIZm5KeTVoN1J6WFJpeFRYWkU?oc=5>
-
-### 生日当天，特朗普分别与普京、泽连斯基通话-观察者网
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-06-15 01:35
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE5mTFZlT1NaNkg4WmpPZ05VZzhQYVhKU2xodlEtbjJmZ0hmam4wTjluNHhMdHpnY0kyY2VPMDZQTUlXVVQwTVlCN2hRbWtQNEZId2xSV3JPQ09VV1JWMXd3ZG1fM0pBdWZjWGxUOUlGOWd4enp1bnc?oc=5>
-
-### 特朗普称将推动结束俄乌战争 泽连斯基提议在美国会晤普京
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-06-15 21:20
-- 链接: <https://news.google.com/rss/articles/CBMimANBVV95cUxPeXBoRERfTTg2WUdVdjdXOVJ4aU03T0JLWkNLSU5pdVYyQ0x5SjE4ZGZqUlBvTHF6UGFCWW9KVDBremJDNG9TS1haY083LU9Ba1psN3k0X2xSQVlfaEhFTXVMQmR2UURLYVphZ01vRE9xbklURUJmSU1sY01ZVW01RXJ1M2N0M1pmanpoOG5fbjdkTHFxeFB3M2JKSTM1Y2ZvcEdPYmw1TzZVQzk1aTBUM0o2SEtFYVlpa0NETmJlWmVlZTFTaS1TS3NZcTNGY2ZsYmtEdWpsbTZQSTVYb3ZkYk15WVh3UUZTaU5TMXN3Vm5xa2ZUV2FSaDFDaFFJMW4xWTZiYXVZaUpHclRWQnlyZ21wY3phUEFWRTJtYnVKSllIMldUNU1FZm9GRXhKXy1LUFdVSlRXX1p6TDJ2d3FRYmRxNjE1VnduWXRFcmRsRGRSeWlSWlA2QTQ5TUdVbi1sOFJURWxZZXh2YTk5NEhjNGZCVTNYb09DZXBQMF9YekxtUGV4R3d1RlB6TnBtY0MzSUFhcGgzbDM?oc=5>
-
-### 美方重新聚焦乌克兰？特朗普与普京通话后，特使与库什纳即将访俄
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-15 06:01
-- 链接: <https://news.google.com/rss/articles/CBMi4AFBVV95cUxONE5EYTgteFVoZml1Wm1rOF90M2FDaVM4cDJEMURlcmkwR25ubkduMGlDNGFQekVsZmZJZEFpeTJNTl9IV0JZZFcxUW5NOHd4X1dZLU1HNk0tMll4TEZtRTBXelZ4aEY5QWlRdzlxVUxXZDBwZGFjbjQ4Nm1VSHJSWndjSnBpdUs4YnZYUG1lbW82UE9QQUVrSDVnSFdCeXNLXzR3UUx6amQzTThjdmRZZUZHVU9HWEJfY2NHUE5JSkdiMjFWbUhXbjFDbVlYQUFQTU5OV29abHlJVlJyZUZSTg?oc=5>
-
-### 特朗普称多艘装载石油船只正通过霍尔木兹海峡
+### 特朗普：普京和泽连斯基愿就解决乌克兰危机“采取行动”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 央视网
-- 时间: 2026-06-15 13:28
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5FYktyVGZMTnhBd29JU0VIcGJwS0VZaUtVNWdLZGdHX2F6YjJzS3l3WmFWdGtQV3FUTHh2WUxianFwbEppZzBScWt3UUVnTkY1a041N2h5bE9jdEhWRGpXUU1ja3pJamQ0Q3hQTXhJdHhtUXNQb1NFZA?oc=5>
+- 时间: 2026-06-15 22:26
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5VMkVCOFBRSjVxRGVaV1N2NFowVjdaOTBfZHZtVGpUMW9qS0trNXNTR3FFTWJYZWRtOGhnY2xLODhIVnNuRU9SOC14T25ZeWkzTmRmR0x5NVJoTThvZDdyUVRvaDZtQm5DTHV1Rl9tZnJublFUTnJ3OQ?oc=5>
 
-### 核心票仓松动 特朗普乡村支持降至50%
+### 要闻分析 - 陷入战争泥潭的特朗普对伊朗作出重大让步
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-06-14 13:51
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9OU1F4NnUyYkNNUFo2aDRwRE1VMVp1TENYQUw3S2dJUkRocVlPVEEyNEd5X0hZd1dyNXM3eUdLMnB0bjdjU0k2c0FZWW9sWHpZclhjNkpQQTdQWTFoWXBOOFhYZ0czQQ?oc=5>
+- 场馆: RFI
+- 时间: 2026-06-15 23:08
+- 链接: <https://news.google.com/rss/articles/CBMijANBVV95cUxQd244eEpuOWdXOGhnd1BhM3VYUW9JcUh3eXpFYWRVSm9xMlNpVzRtemJaSXFtYkRUTTN3WkF3UXlLV1hkR0FieTh4UTdmQTZXS0NPdHd5blpMYlA4WW4zdkVmMExjaGdCSTZvdlhlUUVRVUx6OURzWGRBRUsxUk5tNE44UjVvTlh0clVsLUdzSWlhekVoajEyLXhaRGtLOExDYUctRG94eWIwNlhNVldYWXJFVkVtcGcwbmU0bTkwZjFuTW0tdEFrV3VoVkdyOGk5SFlueDlUVVpIb1hVay1yc1loSlpGWlRtVm9tZ0ZxdWpJT21KSDhwZ3RBT3l5N0RVODBjczBzMFBqc3NrcEZob0pjRHh6cU1nWWx2c3N2bFJxUjJCNkMxQkszMFFFVG0wVUNfcjZYY3JpVnhUdmVlaTNCcXVzUWVidUwxZlBZOFI1ekJxbDJJZEZSQVJSUWhjSmNMNWFBd2xHVDgxTktvaHZRQjlGVl9mVmpnYWZKMmpyaEFLN3Y3a1REcWk?oc=5>
 
-### Bybit推出“交易并持有$TRUMP”活动，奖池达$100,000，并提供VIP足球决赛体验
+### 80岁的特朗普到底还健康吗？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 纽约时报中文网
+- 时间: 2026-06-15 06:23
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1objg5bDV2TWxaQjRzNnVpUm93S3V4YVNCcmFoVkFxWW5PcVlhdlNsa0NyYjhZMUhIeTRLaVJWcUk4M2plUWEzR3Z1VXE0el91X0I2Ti1OM3IyemV5SGtmcGc2S1JrZzdNbVE?oc=5>
+
+### 美伊达成结束冲突协议 全球反应强烈
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-06-15 23:26
+- 链接: <https://news.google.com/rss/articles/CBMizAFBVV95cUxPUkN0MkhKNXBmM19mMkJObEczSWNfY0VmOHlTamdBeldmaVNLclpQQ0p6Mk5Sc3lNOXlTVUdSV0V2Z3lQNU8tb3lDaHQzUWtrRTFKbFZHbnVWSTdCQUptaUlFQkVkSHhMVi1ET0w5aEh3b0Z1N3BwcF9oaEVtQVB5UmdLX2NmRHl2cW9JT1pJVnhGOTJ5LVFfX1ViQmhZcFhselBYTXhQcmFsVFJjOWJMdXlZSS1EM3VWVWx1QjZWSDZuaFNGR0doalZUVUk?oc=5>
+
+### 纽森指控特朗普出于政治目的 指示司法部对他展开调查
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 8world
+- 时间: 2026-06-15 23:44
+- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE9UdjV0bnFMMUhnNDdsaFh5VE9fbDJCWjhNZTJ0ckZLZm5Cams5UVdsV1UtbldDV2F0NzlfalltS0hvdEttOEpQTkstb2h4OVI2QzVJaG1WbTZuaE05d1VWVGxQMmlMaWZoak5nM3NZNzZ5WUlIX0o4eTR3?oc=5>
+
+### 谢谢uncle trump
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: Moomoo
-- 时间: 2026-06-15 15:19
-- 链接: <https://news.google.com/rss/articles/CBMitgFBVV95cUxQek9WVW90U05WOFB1dE5mNGpIdVVhN2pzSGdzYUNTdURGQmZoV2tLck1DdkRWZ254a0VkaDNPWkVOR25sVHVDMmxUWFdWU2ZoOGJlUjA4UGhQaDRpTGRPZWs4SUplR1pNZE9ZUXJPd0FfRmlaZHYydGEtMHlrVHVGeG5xaTVnalZGN2Iwd3dwZ3huWG8xb2VETjJIOGtLOWh1UEM4MVdWQUhzRERKZjVYVUhNRno0UQ?oc=5>
+- 时间: 2026-06-15 13:33
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxNWGlRaUJlZG91QVBpTHB5Qy1nRy1fNDBRQXFteS1iZkRCMllSX0hVck1lXzdLcnh1NTRidW9WQ1hwTTQyTVpkZUk5QV94aURTVmZKWE9xVmJ3RUxDUlU3VWliU0xjT3dTSUVtRkdHRzlYMG5GZ1lOTkVCTk1EdGI0STZrdjloVEk?oc=5>
+
+### 特朗普下个月举行大型政治造势集会 取代独立日音乐会
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 8world
+- 时间: 2026-06-15 23:33
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Oc05DT2hHcTdUWGRVVVBrMXVnQWs1R3VZbWxzVzQtMXR4Rk5xcmRHMUhjZHJVem9FY0pfbGtKaGhrSmNvMVBSemhCRmNGVVpBS3ZrQ0lUWlhhdUt6ZGFXbXd6SnA5Zw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-16 00:08  (8 条)
+
+- **周杰伦** | 周杰伦青岛演唱会2026年10月3日的票什么时候开售？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801nvv4.html>
+- **特朗普** | 特朗普：普京和泽连斯基愿就解决乌克兰危机“采取行动” <https://news.google.com/rss/articles/CBMieEFVX3lxTE5VMkVCOFBRSjVxRGVaV1N2NFowVjdaOTBfZHZtVGpUMW9qS0trNXNTR3FFTWJYZWRtOGhnY2xLODhIVnNuRU9SOC14T25ZeWkzTmRmR0x5NVJoTThvZDdyUVRvaDZtQm5DTHV1Rl9tZnJublFUTnJ3OQ?oc=5>
+- **特朗普** | 要闻分析 - 陷入战争泥潭的特朗普对伊朗作出重大让步 <https://news.google.com/rss/articles/CBMijANBVV95cUxQd244eEpuOWdXOGhnd1BhM3VYUW9JcUh3eXpFYWRVSm9xMlNpVzRtemJaSXFtYkRUTTN3WkF3UXlLV1hkR0FieTh4UTdmQTZXS0NPdHd5blpMYlA4WW4zdkVmMExjaGdCSTZvdlhlUUVRVUx6OURzWGRBRUsxUk5tNE44UjVvTlh0clVsLUdzSWlhekVoajEyLXhaRGtLOExDYUctRG94eWIwNlhNVldYWXJFVkVtcGcwbmU0bTkwZjFuTW0tdEFrV3VoVkdyOGk5SFlueDlUVVpIb1hVay1yc1loSlpGWlRtVm9tZ0ZxdWpJT21KSDhwZ3RBT3l5N0RVODBjczBzMFBqc3NrcEZob0pjRHh6cU1nWWx2c3N2bFJxUjJCNkMxQkszMFFFVG0wVUNfcjZYY3JpVnhUdmVlaTNCcXVzUWVidUwxZlBZOFI1ekJxbDJJZEZSQVJSUWhjSmNMNWFBd2xHVDgxTktvaHZRQjlGVl9mVmpnYWZKMmpyaEFLN3Y3a1REcWk?oc=5>
+- **特朗普** | 80岁的特朗普到底还健康吗？ <https://news.google.com/rss/articles/CBMiakFVX3lxTE1objg5bDV2TWxaQjRzNnVpUm93S3V4YVNCcmFoVkFxWW5PcVlhdlNsa0NyYjhZMUhIeTRLaVJWcUk4M2plUWEzR3Z1VXE0el91X0I2Ti1OM3IyemV5SGtmcGc2S1JrZzdNbVE?oc=5>
+- **Trump** | 美伊达成结束冲突协议 全球反应强烈 <https://news.google.com/rss/articles/CBMizAFBVV95cUxPUkN0MkhKNXBmM19mMkJObEczSWNfY0VmOHlTamdBeldmaVNLclpQQ0p6Mk5Sc3lNOXlTVUdSV0V2Z3lQNU8tb3lDaHQzUWtrRTFKbFZHbnVWSTdCQUptaUlFQkVkSHhMVi1ET0w5aEh3b0Z1N3BwcF9oaEVtQVB5UmdLX2NmRHl2cW9JT1pJVnhGOTJ5LVFfX1ViQmhZcFhselBYTXhQcmFsVFJjOWJMdXlZSS1EM3VWVWx1QjZWSDZuaFNGR0doalZUVUk?oc=5>
+- **Trump** | 纽森指控特朗普出于政治目的 指示司法部对他展开调查 <https://news.google.com/rss/articles/CBMiekFVX3lxTE9UdjV0bnFMMUhnNDdsaFh5VE9fbDJCWjhNZTJ0ckZLZm5Cams5UVdsV1UtbldDV2F0NzlfalltS0hvdEttOEpQTkstb2h4OVI2QzVJaG1WbTZuaE05d1VWVGxQMmlMaWZoak5nM3NZNzZ5WUlIX0o4eTR3?oc=5>
+- **Trump** | 谢谢uncle trump <https://news.google.com/rss/articles/CBMihwFBVV95cUxNWGlRaUJlZG91QVBpTHB5Qy1nRy1fNDBRQXFteS1iZkRCMllSX0hVck1lXzdLcnh1NTRidW9WQ1hwTTQyTVpkZUk5QV94aURTVmZKWE9xVmJ3RUxDUlU3VWliU0xjT3dTSUVtRkdHRzlYMG5GZ1lOTkVCTk1EdGI0STZrdjloVEk?oc=5>
+- **Trump** | 特朗普下个月举行大型政治造势集会 取代独立日音乐会 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Oc05DT2hHcTdUWGRVVVBrMXVnQWs1R3VZbWxzVzQtMXR4Rk5xcmRHMUhjZHJVem9FY0pfbGtKaGhrSmNvMVBSemhCRmNGVVpBS3ZrQ0lUWlhhdUt6ZGFXbXd6SnA5Zw?oc=5>
 
 ### 2026-06-15 22:13  (9 条)
 
