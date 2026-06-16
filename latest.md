@@ -1,80 +1,134 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-16 19:54**
-- 本轮扫到 3691 条, 新增 **9** 条
+- 最近更新: **2026-06-16 22:06**
+- 本轮扫到 3704 条, 新增 **13** 条
 
 ---
 
-## 本轮新发现 (9 条)
+## 本轮新发现 (13 条)
 
-### 刘雨昕主题曲中心位，一个回眸帅翻全场，女生也顶不住
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6579089051_m18824ee9b0330223n2.html>
-
-### 蔡徐坤《RIDE OR DIE》发音指南发布提醒粉丝提交作业
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6041830381_m1681f03ed053015d1c.html>
-
-### 周杰伦新歌《女儿殿下》MV中，阿Ken扮演的父亲有哪些搞笑又温馨的情节？
+### 《女儿殿下》MV中阿Ken饰演的奶爸有哪些搞笑又接地气的带娃场景？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801nz3a.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801nzgw.html>
 
-### 周杰伦鸟巢演唱会遇极端天气,歌迷冒雨冰雹赴约
+### 特朗普或把3亿和3000亿弄混了：否认美国将向伊朗支付3亿美元此前伊媒披露条款涉及金额的一项为3000亿美元
 
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923551_m1d5ae175f03301l0kw.html>
-
-### 特朗普：他已达成一项“好协议”，规定伊朗政权在美国“最终后果”的威胁下不会获得核武器
-
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-06-16 16:35
-- 链接: <https://news.google.com/rss/articles/CBMi2wFBVV95cUxPY2dlanZvSGUtX2xqSWVzVjJQa2JWaDVfTmtSZFp4b3hLUWdPZjZpclR5T2ZFOG9BbXc0ZG1IMDBTcXQyeGxtbnBWQ1RVQ2ViRDExTGRUMUY5cHdCNVVHX191SW95Rl82d3pBWlBZeVA5N3JRblZKV0U3WkpyaExzYW1aWWhMSnpPVUdzV2tXcWxRWXpmRlhERkdkc0x4QnNjN21jWnFPSDUzajlsMm1pdVRtaFlmOGtTYjdPTnBsaEFmd2ZnVng4OXgtWjRROWxMTVZzM2ZVLV9uWFHSAd4BQVVfeXFMTjZxOWJ1UVNlSmdJNjJzbklVbV84b3BCRlI0VVN1d29ub19LXzhoLW5STGhGZjN6enJFcW94TUg0RFVOOXhHdWZWYTg4blRmZVZ3cEZRRVBROXFHZnI4aFoyajZtWGZCck9OSXlvVTIxOTNud2JEcktERi01SWcydndVWVFGWVJ5OV8yZC1RNko4RTJmSXVQampQN0xHRUp6NkV3bWhwV003Ynd1Z1JsZkpGS01PbTFKVlB2UTdzTDZMcFBNbzM5UVVRSWJfRjV1OHVnX3BZbUNKcUIyNUF3?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-06-16 00:36
+- 链接: <https://news.google.com/rss/articles/CBMiywFBVV95cUxQT0E3RjlabmlQWE1VdEFDREFEWmRBdlJvT3VITGw0dEdOZHZxRGgxeHZMWUdDYWpGTmtVN0NrZmtXOWJsNkxKbmdENHlCYzg3czc4ZldIZUV3UlNzVy15QVl5ZjJ0VDV4d2dXOXRZY00yVEJ1M08weU5iTjFCRlhxc0h5QWhJME84MGk0TDVpVFVmZktRb3pPZWx6b1lkN2llTWJCdEZEdE5ZSFpualU5X0dVV2RfZ2Vudjk2NG9jR1I4WE8tMVhhdVk5Zw?oc=5>
 
-### 德国总理默茨送特朗普生日礼物，一件印有“TRUMP”名字的球衣，默茨：虽然晚了点，但还是祝你生日快乐
+### 以色列“最后一刻”取消大规模空袭伊朗计划，内塔尼亚胡寻求与特朗普紧急会晤
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Sohu
-- 时间: 2026-06-16 10:07
-- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTncxVUxaTWtwZEprbFVTMHBNWjFmZENwV0xNLWM4VWdncGZGcmN3RXBSSXBPSjNxb25IdUg3YTJCYnN1OXdPRUNiRENvY3ZnSlJnb1VaaFBtLU9PelRjWF93dmliMVd2WUdmYmVCM09qMVZqRlMxcFNUN3RZQXl2dEVoLUZuZF9q?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-06-16 19:41
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBKZEoxc2pMX0tHMDBsQ1FIMFNmd2ZvZ3JrcWI3NDBXc0hRdHR5WVJSTzN5S0pLUjgtaUQzTnBsUDJtRE5ScFYycFhDNzlLS2VVQ2ptZlhXU3RJc21UUzJ5d2tYRkt6M1MzSi1zYWJMa09JRHluMklZMg?oc=5>
 
-### 特朗普重心转俄乌_新浪新闻
+### 默茨现场赠送特朗普德国队球衣，却遭敷衍对待，第一时间未接过球衣
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪网
-- 时间: 2026-06-16 12:39
-- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTE5YdVNsd2N5LWN0eEUzSlVaNEtZY2NzTEVXMWtZLTlDOThfMmVrMFhuanBBX1dkQ3hSUmQ5dV9VbUl2c3ZpZVhlVW5pZXR3VGo2WXdGVDd6UjBCcjA1MDVMbDNxMA?oc=5>
+- 时间: 2026-06-16 21:20
+- 链接: <https://news.google.com/rss/articles/CBMikwFBVV95cUxQdXBvY0tLWUI5Tm45NWswdUlEMzAxTU5YenQ4WUd6N3I4NHctYjZZQlAtLTlINUNlX2FRcXZpd1p2TlNWUVA1Q3VMSnYzc3I0LTdhWGkwWlJCRnVBNFpyVXFUZFhiVXNXRkNqbzNkajZBQVFaZFhIZHYzNkl4VXZ4ZDZ4LTh6RFJ0cWRrdjhaejlGSFU?oc=5>
 
-### Market_X(@Square-Creator-75dd59ddfa7a8) icmalı
+### 特朗普总统在伊朗核协议后为重新制裁俄罗斯石油敞开了大门
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-06-16 19:58
+- 链接: <https://news.google.com/rss/articles/CBMi0wFBVV95cUxNblo5dUR3M3NWejV2Tnh1X0x2WlVGUl94RHhZTWVkSVFfVzVzaEM0ZzhCbVM0ZXRBVFVwRG9ZRjlNZU4zNXBTWDJvb2ZpLUU0SGthNGdnRWFOM2NTWDdJZHk4MFMwWnV2WEJKMVBIZDNPTGtPcW9VeGJoelRVSDBqR0dBendRSVZmR0M5SDdVYkZfRkxqTzVkRGVpY1JHU3QzRTdnQWl4U2h1VGJFc245bGY5bUdtQkJOcjFISHZYeWMtVmM3VkNjMXp3VmloaTA4QjlR0gHWAUFVX3lxTE41Z3pxc3E3LVBZTk4ydHN4NHBTNzdGalFPVWhGZHFPSjdTWC1LalVBYjg2ei1zc2UxNzNJY1BfWC1EOWVXRy1ya096THcxUFJwQnlPYm1qbDJ4NFZCN3B2UjE0RXJvOFQ4bEI1T3Jjb3E5Q2J3OE0wa3JUX2tuemxILWN4aGQ3aFh4Q3MyZDRHYlk3UWFJU2lxYVEtbDVBZFdjeFNyV3JUSHhsZmdaZGhWYUl3N2d3NF81SEFDY1VmT0N4M2hkZWNTLW4xR3RrTW5ORjB1a1E?oc=5>
+
+### 特朗普：美国将把重心转向俄乌问题
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-06-16 15:29
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBvdWdRZWl3cUpNN3hLU0hvVXFoXzgyMy1VTmhuV2MtT0VERS1BcEtXaEhIMmp2U3FXUGlFaDZSNjVhRGpfSmVTWUZYTDlxVUdNZlRIbTFQNTg4aG5oekp2eTF6OVFEd0VEdkxLSHZ5V2JKMndodFR4dg?oc=5>
+
+### 时隔多月再见特朗普，泽连斯基在会晤中指向这一核心诉求
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-06-16 19:57
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBaRjk3UjhqdjJxbUUyR3oxZFJ2M185bVBUeEgweG1HODVjbU80cDNRalRCdkZHU281SkRSMmVtRVpraTFmMGdSdF9vZHV3clRNR183c3Ewb1M5cmRtRDd4S2E0RVJ5YVlIejdCWGphRF9LTTI2OWV3QQ?oc=5>
+
+### 泽连斯基向特朗普提议：这样普京更难拒绝-观察者网
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: guancha.cn
+- 时间: 2026-06-15 23:12
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBvclA4Y0I0TEZVbFN1U1dkQVhZNk83UUZaQWE2cjRUQVBTRGpsUmlIQVliWWsyVVU2Vy1Wb3JVZFNuVUdmWWZyTHBSYXFHTVZrSWJkMFc5NV9xWERxNHBnRW9HanpaRkRNeEE?oc=5>
+
+### “特朗普，你要打击报复就找我，别动我老婆、家人”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-06-16 14:48
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTFBNR1duZDZaNlJZWXVJWGJGdHczQlR0ZEVDMENGcXZORGd2djh2MzhESFFKR3EyNERzVEFFUk9qYjNvSnZ3eF9sOWFCMTdQV3hMU3BDcGdfU3FnNEJhM3hHc3hud1RHaS1La1k2aWQ5QVNtQWho?oc=5>
+
+### 纽森愤怒指控特朗普：故意搞我，就因为我考虑竞选总统-观察者网
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: guancha.cn
+- 时间: 2026-06-16 03:29
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5HYWUwVTdYa0RJbC1FNUg3Z3c3Rm1EZTFfVGROYktIY3AxYXRUVjJfQTJyWHNVNnhubVpwV1JoODc1UzFkcmttS1JuWWhNU3hLeTRGUUU4MGhEYnBNWUh1SlJSb0FZa1RyaXc?oc=5>
+
+### 特朗普批评内塔尼亚胡干扰美伊谈判进程，外交部回应
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 财联社
+- 时间: 2026-06-15 11:22
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTFBpRHVtV05mXzJ2aWR0RGpYZ0xUSks4UDRtZy05bXVpd2VtSjV5RzdUZUU4MTJwcUhMLUpwclk1Q2RtLWZBbTFRaA?oc=5>
+
+### G7峰会前夕遭特朗普“直白”警告，马克龙回应
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-06-15 16:17
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE8wN2x6VUQxMDlfVWxTR1ZNdkhfWjdEZTRwZm5JVkh1MFcycnVYUEI4WHgwdG1ESlF3anBJQUVFMFB1RTVJcDFPWXI5cmM?oc=5>
+
+### Dow Jones Top Markets Headlines at 5 PM ET: The Trump-Iran Deal Allows Tehran to Immediately Sell Oil | Stocks ...
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Binance
-- 时间: 2026-06-16 14:50
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9yZm1wRmFGRzc0RXN2em5EVUsxWEF2VHRnNHk1cjdWRktEM0FSR0ZYVDlCQ19WdUxqaGt4aHlPeERKSUprYkpBUFZmNmVvY0lYdWJYUHJqZnowako5OTlTRmxvTXM1VlUy?oc=5>
-
-### 谢谢uncle trump
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-06-15 13:33
-- 链接: <https://news.google.com/rss/articles/CBMihgFBVV95cUxOQkp6Zi1KaFZiemM3MXNVYTdTdzZqSTNoQVZCV3pyYUdvSGtqWG1qTlZkV0h1VFRsVldac1lBTGV3cDVyQVlvOUdDTWR5Rmh3SXlVbVp0SnI1TXlNLVZuVVZwdEI4OWVCUU9jZXJPU3J5dHRuZ05FTXJIQmt1SlFOS3d0YnRMZw?oc=5>
+- 场馆: 富途牛牛
+- 时间: 2026-06-16 21:00
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxPVWJlMnNCaUQ5LTAtSjBFaWtIY3ZDRjluZE1GZjJEMWZvNmt4ZFFwVzdsZ3ktZkRCalRyTDZpUzVqTGt4QVZmc0hJdnhMd2NKWExNTmI1Rmk5ckttM3VvekhSY1cwbTRnUDRVeEtlZlJsYktsUjFkSE9Ma3E5ZUJSWWlBT1dTd2VUejB1eg?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-16 22:06  (13 条)
+
+- **周杰伦** | 《女儿殿下》MV中阿Ken饰演的奶爸有哪些搞笑又接地气的带娃场景？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801nzgw.html>
+- **特朗普** | 特朗普或把3亿和3000亿弄混了：否认美国将向伊朗支付3亿美元此前伊媒披露条款涉及金额的一项为3000亿美元 <https://news.google.com/rss/articles/CBMiywFBVV95cUxQT0E3RjlabmlQWE1VdEFDREFEWmRBdlJvT3VITGw0dEdOZHZxRGgxeHZMWUdDYWpGTmtVN0NrZmtXOWJsNkxKbmdENHlCYzg3czc4ZldIZUV3UlNzVy15QVl5ZjJ0VDV4d2dXOXRZY00yVEJ1M08weU5iTjFCRlhxc0h5QWhJME84MGk0TDVpVFVmZktRb3pPZWx6b1lkN2llTWJCdEZEdE5ZSFpualU5X0dVV2RfZ2Vudjk2NG9jR1I4WE8tMVhhdVk5Zw?oc=5>
+- **特朗普** | 以色列“最后一刻”取消大规模空袭伊朗计划，内塔尼亚胡寻求与特朗普紧急会晤 <https://news.google.com/rss/articles/CBMieEFVX3lxTFBKZEoxc2pMX0tHMDBsQ1FIMFNmd2ZvZ3JrcWI3NDBXc0hRdHR5WVJSTzN5S0pLUjgtaUQzTnBsUDJtRE5ScFYycFhDNzlLS2VVQ2ptZlhXU3RJc21UUzJ5d2tYRkt6M1MzSi1zYWJMa09JRHluMklZMg?oc=5>
+- **特朗普** | 默茨现场赠送特朗普德国队球衣，却遭敷衍对待，第一时间未接过球衣 <https://news.google.com/rss/articles/CBMikwFBVV95cUxQdXBvY0tLWUI5Tm45NWswdUlEMzAxTU5YenQ4WUd6N3I4NHctYjZZQlAtLTlINUNlX2FRcXZpd1p2TlNWUVA1Q3VMSnYzc3I0LTdhWGkwWlJCRnVBNFpyVXFUZFhiVXNXRkNqbzNkajZBQVFaZFhIZHYzNkl4VXZ4ZDZ4LTh6RFJ0cWRrdjhaejlGSFU?oc=5>
+- **特朗普** | 特朗普总统在伊朗核协议后为重新制裁俄罗斯石油敞开了大门 <https://news.google.com/rss/articles/CBMi0wFBVV95cUxNblo5dUR3M3NWejV2Tnh1X0x2WlVGUl94RHhZTWVkSVFfVzVzaEM0ZzhCbVM0ZXRBVFVwRG9ZRjlNZU4zNXBTWDJvb2ZpLUU0SGthNGdnRWFOM2NTWDdJZHk4MFMwWnV2WEJKMVBIZDNPTGtPcW9VeGJoelRVSDBqR0dBendRSVZmR0M5SDdVYkZfRkxqTzVkRGVpY1JHU3QzRTdnQWl4U2h1VGJFc245bGY5bUdtQkJOcjFISHZYeWMtVmM3VkNjMXp3VmloaTA4QjlR0gHWAUFVX3lxTE41Z3pxc3E3LVBZTk4ydHN4NHBTNzdGalFPVWhGZHFPSjdTWC1LalVBYjg2ei1zc2UxNzNJY1BfWC1EOWVXRy1ya096THcxUFJwQnlPYm1qbDJ4NFZCN3B2UjE0RXJvOFQ4bEI1T3Jjb3E5Q2J3OE0wa3JUX2tuemxILWN4aGQ3aFh4Q3MyZDRHYlk3UWFJU2lxYVEtbDVBZFdjeFNyV3JUSHhsZmdaZGhWYUl3N2d3NF81SEFDY1VmT0N4M2hkZWNTLW4xR3RrTW5ORjB1a1E?oc=5>
+- **特朗普** | 特朗普：美国将把重心转向俄乌问题 <https://news.google.com/rss/articles/CBMieEFVX3lxTFBvdWdRZWl3cUpNN3hLU0hvVXFoXzgyMy1VTmhuV2MtT0VERS1BcEtXaEhIMmp2U3FXUGlFaDZSNjVhRGpfSmVTWUZYTDlxVUdNZlRIbTFQNTg4aG5oekp2eTF6OVFEd0VEdkxLSHZ5V2JKMndodFR4dg?oc=5>
+- **特朗普** | 时隔多月再见特朗普，泽连斯基在会晤中指向这一核心诉求 <https://news.google.com/rss/articles/CBMieEFVX3lxTFBaRjk3UjhqdjJxbUUyR3oxZFJ2M185bVBUeEgweG1HODVjbU80cDNRalRCdkZHU281SkRSMmVtRVpraTFmMGdSdF9vZHV3clRNR183c3Ewb1M5cmRtRDd4S2E0RVJ5YVlIejdCWGphRF9LTTI2OWV3QQ?oc=5>
+- **特朗普** | 泽连斯基向特朗普提议：这样普京更难拒绝-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTFBvclA4Y0I0TEZVbFN1U1dkQVhZNk83UUZaQWE2cjRUQVBTRGpsUmlIQVliWWsyVVU2Vy1Wb3JVZFNuVUdmWWZyTHBSYXFHTVZrSWJkMFc5NV9xWERxNHBnRW9HanpaRkRNeEE?oc=5>
+- **特朗普** | “特朗普，你要打击报复就找我，别动我老婆、家人” <https://news.google.com/rss/articles/CBMidEFVX3lxTFBNR1duZDZaNlJZWXVJWGJGdHczQlR0ZEVDMENGcXZORGd2djh2MzhESFFKR3EyNERzVEFFUk9qYjNvSnZ3eF9sOWFCMTdQV3hMU3BDcGdfU3FnNEJhM3hHc3hud1RHaS1La1k2aWQ5QVNtQWho?oc=5>
+- **特朗普** | 纽森愤怒指控特朗普：故意搞我，就因为我考虑竞选总统-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE5HYWUwVTdYa0RJbC1FNUg3Z3c3Rm1EZTFfVGROYktIY3AxYXRUVjJfQTJyWHNVNnhubVpwV1JoODc1UzFkcmttS1JuWWhNU3hLeTRGUUU4MGhEYnBNWUh1SlJSb0FZa1RyaXc?oc=5>
+- **特朗普** | 特朗普批评内塔尼亚胡干扰美伊谈判进程，外交部回应 <https://news.google.com/rss/articles/CBMiSEFVX3lxTFBpRHVtV05mXzJ2aWR0RGpYZ0xUSks4UDRtZy05bXVpd2VtSjV5RzdUZUU4MTJwcUhMLUpwclk1Q2RtLWZBbTFRaA?oc=5>
+- **特朗普** | G7峰会前夕遭特朗普“直白”警告，马克龙回应 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE8wN2x6VUQxMDlfVWxTR1ZNdkhfWjdEZTRwZm5JVkh1MFcycnVYUEI4WHgwdG1ESlF3anBJQUVFMFB1RTVJcDFPWXI5cmM?oc=5>
+- **Trump** | Dow Jones Top Markets Headlines at 5 PM ET: The Trump-Iran Deal Allows Tehran to Immediately Sell Oil | Stocks ... <https://news.google.com/rss/articles/CBMijAFBVV95cUxPVWJlMnNCaUQ5LTAtSjBFaWtIY3ZDRjluZE1GZjJEMWZvNmt4ZFFwVzdsZ3ktZkRCalRyTDZpUzVqTGt4QVZmc0hJdnhMd2NKWExNTmI1Rmk5ckttM3VvekhSY1cwbTRnUDRVeEtlZlJsYktsUjFkSE9Ma3E5ZUJSWWlBT1dTd2VUejB1eg?oc=5>
 
 ### 2026-06-16 19:54  (9 条)
 
