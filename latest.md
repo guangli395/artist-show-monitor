@@ -1,124 +1,114 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-17 08:41**
-- 本轮扫到 3741 条, 新增 **14** 条
+- 最近更新: **2026-06-17 12:48**
+- 本轮扫到 3752 条, 新增 **11** 条
 
 ---
 
-## 本轮新发现 (14 条)
+## 本轮新发现 (11 条)
 
-### Gumayusi在台北见面会上唱了周杰伦的《星晴》
+### 刘雨昕用实力碾压，获得主题曲中心位，激动坏了
 
-- 艺人/关键词: **周杰伦**
+- 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5625254784_m14f4a938003301rltu.html>
+- 链接: <https://k.sina.com.cn/article_6579089051_m18824ee9b033022578.html>
 
-### 周杰伦武汉演唱会,避坑指南!远离黄牛抢票攻略
+### 蔡徐坤的实体专辑《KUN》线下签售会在什么时间地点举行？
 
-- 艺人/关键词: **周杰伦**
+- 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857141524_1d452771401903cnju.html>
-
-### 特朗普在七国集团峰会会晤盟友时否认：美国不会向伊朗投入一分钱
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: Sina finance
-- 时间: 2026-06-16 10:22
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxNM2FvVWVzdUJBTG1qS1Vha3FMZ1NMQU45UWU5RmFobTZtZjZjV0EwWkRoemQ5cW9ja3BMamVFTU1EWWY4and2MVNlWFZGQ3Ixd1I3T2R6a3RaRjd4MWh0Vk4wU1d0dVptMXFmTWhZeEVSM3ZMd0FRa2wtUDR0SzExWFRNTDZZdFViOW1zOTZMcUh5amsxYTFNYzFQY25CQmVibXNqOXhUcmxCWl85em5jSHdoMVQ0QzZOWXlpeHhiQ3MyT3ZQOFpmSjF4a09Ub0xSeVNueTMwcU0tZVZzZE1Z?oc=5>
-
-### 特朗普过去24小时都忙了什么？（2026-06-16）
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-17 07:44
-- 链接: <https://news.google.com/rss/articles/CBMinAJBVV95cUxNSEd1eGVNUmpYTUxrRW5PQUtGdE5PTjQ3YUlGR2dwbzV1RmlTRXpDQkJ6SUIxUnVIaVZyeV9ERkZ0TlJDNlhvWEE0ODktZFZXQWRmTU83STNiQ2JtUENfZUU0SHBQeWswaUhfTGlwVFBXNk9ISHdPUUVvc0kxNWhyckxYN3VCNHQzWnJ5WUp1U2xxN1FzM2VoYWppR3RHeV9pd3k0MlByczBPSGV5TVVlUVhmYVVMcE9UYTNqWEdmc1IzQ0hlZV9Ta3pxUVRGUUFOWlAwTnJnTVFWNURac0hqeXJLVk80QWo4N1AzNVU5dHlUVFhZLThEY2J0OFZDMFU2aXdIOFpwODRBQ29ZZ2ZHMzdtend6c1dtTG9CUA?oc=5>
-
-### 美媒：G7峰会前夕，特朗普直白警告马克龙
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: Sina finance
-- 时间: 2026-06-15 08:42
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNC1YQ2k0bWhXUGJrU3NXN2kyMlZ1akhub3BidDZHZ3psVVJYYjRqc3FUQ3VnQW1CbDM0aUJYdnBvWUJtalE4UTRkaVFaRjJtVktrZ1JiTmFZNDZfX0pvcFZuMlFzd3lsU2U1c0QwcWFLTmVnZkltOEJVeHZDYW82RE9YcEEzaTFETlBsZGJPX0xVY0xUWGplTXlVenM0ZjZsWDV2R052LWR5S2xSVmh3QzJkVlkxMlFmUG0wQWNWdzVnZTJmUUI3QkcxU2pPTHRV?oc=5>
-
-### “马克龙想借中国，来跟特朗普讨价还价”-观察者网
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-06-17 06:57
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBmMjlIYm5kZGs3NE5xVDRjMXdNRlFBTEdfdWR5OVB1Z21VREZya0NmMU1aak1zZkFwVzZyTXN6WnI2N0R6dllsaF9WT3BGdmxpX2dka2dnYVBBSVFRQ3E3UkpUVHBRVnVSakE?oc=5>
-
-### 特朗普：19日前霍尔木兹海峡全面重开
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-06-16 13:12
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1qRG16dDE0SVk5NzVIYW9fdU0yR3R0WjJTYmFhNjRSZHJJR1FqODFwai1xSTRWcGdsWTl0ekpzZExfVnZjb0k3UldwM2VCd2RYRFBzc21RUjRReFljY1pYdVRBaDlNUlhvZHZlVktjS3M4STZkVEhsTERwSE5oSFU?oc=5>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801o1pw.html>
 
 ### 特朗普称19日前将实现霍尔木兹海峡全面重开
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-17 05:31
-- 链接: <https://news.google.com/rss/articles/CBMiowFBVV95cUxONVhrOV82aVBGUzA3ZXk1X3FOWGh2MHAzZ283MTg2RWN6Qkx1eXVhTEhSQnRjSmpVRDV0Z2F5SXlLWDlZZ3pieXhHeEhxM2NHYWplVE10NzJnSXlMTEY4aHhndGFmaE9yNy1VME43WlV1V1pUeXh2Qm1NbTloQTFDd24wQmtVSm8wSlpTWFh5RDRQNVlGY2JYMlc5NXBWOHp5UThF?oc=5>
+- 时间: 2026-06-17 10:59
+- 链接: <https://news.google.com/rss/articles/CBMijAJBVV95cUxPQ2trY19qX1Z0Ml9GSWNWYjNDRjdMWnJ0MFdOWm9FVGRxaVFDTWhROVA0UEotVjlXS0tOMWtNWlY1TjJNRjdTdEhuT1hTTjZMQlpRQTg3RThtMjRnY1UxclhYZFlGSDh0bWFnQUhDOXk1djFwcFNqTGN2R0pwbXMtNmtmSXhLaUxiRjEydFZfSWJIcFdGVVMzWUgwQ2RfOGxPakFhOHc0OTM3MGJhZ01lN0E2OTRvYVlfWXZsNTlIMDdiMzFWd3dMNXNtdWdPSk05SUJtUzVTcVdTdTk1NmI2X1JWYWR3RElnbEZaQjI1NXZUdkJ2M0ZiTGk3WUJsNG01bGtJSDFCOUQ0ZVY2?oc=5>
 
-### 特朗普政府再次推动转移教育部职能
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中国青年网
-- 时间: 2026-06-17 01:33
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE52S2dyakRwOGdZZHYxQ29DamxubVdBNGRCVFo3S0xVanVNcDBBdXlPMVRzQ2Nmb3B5bU05aDdQbDd1Sm1RR0ZiclJieEZhZkVNdHVyVGpjYjg4a0xYbmZVcXRLaTE?oc=5>
-
-### “特朗普，你要打击报复就找我，别动我老婆、家人”
+### 卡尼向特朗普“推销”中国电车：以为你喜欢呢-观察者网
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Sina finance
-- 时间: 2026-06-16 10:56
-- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxOM1lFZHczTnFBanRKeENEbllta2F5SGozd3dVSlhwR05sV3M1akVRal9SUW5oQWVuREFweWx2RDEtbXdqQmJGcS1UUU9hN3BzblMyWWpFSU5tRXFZNkZvYThtRnQ2OHU0OS0zbnoxSXNkbnNVc0lKTDZJSXAzdHpzQ3pZa3hVQzJnQnluRl84RW55bTRJellrUnJ2R1RlVGM2R0szWFNUSmVwWmtzekxCS0lqTGpBV3ZGc1p1RFdUeGJxNGp4cmVVb3J1NTJZeXhtQUE?oc=5>
+- 场馆: 观察者
+- 时间: 2026-06-17 03:39
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE4wOExSVnUxVnVsN2pmUEhXX1RzQkoxSEtBUks0SFRFXzgyX3FkRmhoNzRyME14T1BxOHpsYnMtVnNUWDBPLVR5VWVxcWpoaW04T0xOUzFGODBrc0p1cnpkWk4xZ2kxQ1QzRGc?oc=5>
 
-### 特朗普：关我们啥事？就是卖卖武器
+### “特朗普这么干，又给中国打广告”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-06-17 10:29
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFA5dUNOM0dEX2IzVzVpTnhrdnpMSl9uYlJkUWVZUTlYaVN1UUFGeGxWUmZnRXowQ2xVb01PV0doMlZVZXFPLVp5YnV3em1jVW5HM21EbUg1eXNjd1BYUWRFXzBQZzlvWGFaYjAyS3FETC0xN2dkaWZZYQ?oc=5>
+
+### 特朗普：美国将把重心转向俄乌问题
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 东方财富
+- 时间: 2026-06-16 13:23
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zX1NoU0l5ZjBQYTYydTJSVWRUTDBna3A1SURrbk9sTE9XVm1nQzMyT1VxbXpRTXV2UHNqTWVaYTZHek9zVDQtUGRlTFZaUFgyZWpqZWZ0ZEdTQWlnMnQ2TQ?oc=5>
+
+### 泽连斯基要求特朗普：交出“爱国者”设计图，我们要自己造
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-06-16 23:53
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5pbTRtTDNBWHFYbzNaMlBoRGpfNGFVZ0JmaVVpdWZFaFVvV3hBWktxSW4tQmZ5MVhqSFYyMF9jSWZhMy1zRm43cUlMdng?oc=5>
+- 时间: 2026-06-17 06:19
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBxaV8ydjV3aDJaeDdVTkZ3R3lVdlFtS1lINURHWmJvWjhMUkZCNlhqOUxicEhVWmR0ZnNpOXRLQWRiWjdqQkExejBZMA?oc=5>
 
-### 特朗普将恢复俄石油制裁 条件已具备
+### 美伊和平协议已电子签署 伊媒披露最后时刻特朗普作让步
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-06-17 01:25
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5sQUdPMzdnTllHY2VUMURocU9BbGxiX1NOQzZ6djdVb3NmdWxubHBYX0FnV2p4cGlDMGlqck1UdTk1cm5WV2t4Nk5FdUhJU1loVHBDSlJtd3BqUUxpMW1pN0RqblBWaDFDVVFhazIzWjM?oc=5>
+- 场馆: 财新
+- 时间: 2026-06-16 11:28
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1UYWdRLWd4cEJrWmJ2Nkk4RU5RMDQ1Nk0yVy1QZnlpbU44SVZEQmp5QXFJSGs1V280c0t4amZxWFhveGNqMWZzYW9YX2x5NlVnLWEwZldzQ2FGc0ZNand5aTdXZmV4LVJGTFE?oc=5>
 
-### 特朗普手机内幕被扒光！“美国制造”一夜成了笑话？
+### 特朗普再发威胁：如果我不满意，将恢复向伊朗投掷炸弹
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: chinanews.com.cn
+- 时间: 2026-06-17 11:18
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5pbmYxdnB5N3RfeEsyMlk1SEtUNW42RmNDOVM4aUZHUVlhOEVjZnAwSEx2YkpRekJ1OEtJSk5ILU5HMEY5ZjAyRlhxLXViUjY3cDktRlFjdS1KNUZyRUJZbVl4UXhRb1VK?oc=5>
+
+### 特朗普：谅解备忘录不是最终协议 若不满意会重新开火
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 财联社
+- 时间: 2026-06-17 10:31
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE9PMVJLdlV2enVlRU85SUx0dHB0dE1ldkdEVm5JWl9Jdkx5YUVkNmZHd0FlRkdSN0lJS0UyRC1lVWFuUFFfUWZqUQ?oc=5>
+
+### Serenity & Leopold & Nvidia & Trump，谁是最强美股喊单王？
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-06-17 06:53
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE5JX3BhenFVRHlJa2s5Z2hyR1pKVTVGV2tOZkUtN3BnNUw2c3NkQmdMZG40Z0ZTMGdZaXc5SjZHc29hUE8tLUJwbmRFalR1V0tRR0NNN1hpNzRYSzltS2c?oc=5>
-
-### G7峰会：欧洲领导人为何又对特朗普以礼相待
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 茉莉花新闻网
-- 时间: 2026-06-17 06:37
-- 链接: <https://news.google.com/rss/articles/CBMinwJBVV95cUxPbkJIaXZhY09JaXZlbnBWVEFvRHlBcmpjZEZvMnVnNTA5MFdfV3RlcWh3Q3BZUTFQclZmaWxETE5hXzh0WVJDSHlURnFQZ01Oay1DUkNzR1pLdUNiMU9uNlZuQ0dyb1FSd3hlamQ0S2dFdFpLdVhZSlhqN09kZV9TSmZESVJmLVduVUNBWlhvR3dVbkthQnpUbHM4U3JjY0pLbFFmNGkxRV85ZXdhUHhCTEhvYXViTHQzaXZ4TTZQMndyVllUSDJ5WUs1TjVlMnViR1NoZEhyOW5IZzh2aXlTNkZoMy1XMXBJX3lhSHZuT1EzYlR2R1diaER6VUlHenpaRGdQWlo2YlBnLWtvYmtKYzFuUVVxc20yS25XS0xzWQ?oc=5>
+- 场馆: WEEX
+- 时间: 2026-06-17 09:30
+- 链接: <https://news.google.com/rss/articles/CBMitwFBVV95cUxPdWZURC11anhNSEpmRVlCa3pFYnFHd3BpYkVJODVqZWVldmF6RGJINVFmdjFwR2htdTFJZ1ZwcG45eFdzdlhrYThVazJYVi1HVXRWUjE1c3JpYWtic3l2eWtvOFp6QWNBXzcySHV1YnZMUDRfTGJZUkhSczA2SVZZTDRaZkVMR1FUcXBDSVdobXRxNGIzMUdPcE13bEZmVWVHa0dZQzdyQWRYZkl0dlc3bk4xemkweGc?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-17 12:48  (11 条)
+
+- **蔡徐坤** | 刘雨昕用实力碾压，获得主题曲中心位，激动坏了 <https://k.sina.com.cn/article_6579089051_m18824ee9b033022578.html>
+- **蔡徐坤** | 蔡徐坤的实体专辑《KUN》线下签售会在什么时间地点举行？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801o1pw.html>
+- **特朗普** | 特朗普称19日前将实现霍尔木兹海峡全面重开 <https://news.google.com/rss/articles/CBMijAJBVV95cUxPQ2trY19qX1Z0Ml9GSWNWYjNDRjdMWnJ0MFdOWm9FVGRxaVFDTWhROVA0UEotVjlXS0tOMWtNWlY1TjJNRjdTdEhuT1hTTjZMQlpRQTg3RThtMjRnY1UxclhYZFlGSDh0bWFnQUhDOXk1djFwcFNqTGN2R0pwbXMtNmtmSXhLaUxiRjEydFZfSWJIcFdGVVMzWUgwQ2RfOGxPakFhOHc0OTM3MGJhZ01lN0E2OTRvYVlfWXZsNTlIMDdiMzFWd3dMNXNtdWdPSk05SUJtUzVTcVdTdTk1NmI2X1JWYWR3RElnbEZaQjI1NXZUdkJ2M0ZiTGk3WUJsNG01bGtJSDFCOUQ0ZVY2?oc=5>
+- **特朗普** | 卡尼向特朗普“推销”中国电车：以为你喜欢呢-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE4wOExSVnUxVnVsN2pmUEhXX1RzQkoxSEtBUks0SFRFXzgyX3FkRmhoNzRyME14T1BxOHpsYnMtVnNUWDBPLVR5VWVxcWpoaW04T0xOUzFGODBrc0p1cnpkWk4xZ2kxQ1QzRGc?oc=5>
+- **特朗普** | “特朗普这么干，又给中国打广告” <https://news.google.com/rss/articles/CBMieEFVX3lxTFA5dUNOM0dEX2IzVzVpTnhrdnpMSl9uYlJkUWVZUTlYaVN1UUFGeGxWUmZnRXowQ2xVb01PV0doMlZVZXFPLVp5YnV3em1jVW5HM21EbUg1eXNjd1BYUWRFXzBQZzlvWGFaYjAyS3FETC0xN2dkaWZZYQ?oc=5>
+- **特朗普** | 特朗普：美国将把重心转向俄乌问题 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zX1NoU0l5ZjBQYTYydTJSVWRUTDBna3A1SURrbk9sTE9XVm1nQzMyT1VxbXpRTXV2UHNqTWVaYTZHek9zVDQtUGRlTFZaUFgyZWpqZWZ0ZEdTQWlnMnQ2TQ?oc=5>
+- **特朗普** | 泽连斯基要求特朗普：交出“爱国者”设计图，我们要自己造 <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBxaV8ydjV3aDJaeDdVTkZ3R3lVdlFtS1lINURHWmJvWjhMUkZCNlhqOUxicEhVWmR0ZnNpOXRLQWRiWjdqQkExejBZMA?oc=5>
+- **特朗普** | 美伊和平协议已电子签署 伊媒披露最后时刻特朗普作让步 <https://news.google.com/rss/articles/CBMiakFVX3lxTE1UYWdRLWd4cEJrWmJ2Nkk4RU5RMDQ1Nk0yVy1QZnlpbU44SVZEQmp5QXFJSGs1V280c0t4amZxWFhveGNqMWZzYW9YX2x5NlVnLWEwZldzQ2FGc0ZNand5aTdXZmV4LVJGTFE?oc=5>
+- **特朗普** | 特朗普再发威胁：如果我不满意，将恢复向伊朗投掷炸弹 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5pbmYxdnB5N3RfeEsyMlk1SEtUNW42RmNDOVM4aUZHUVlhOEVjZnAwSEx2YkpRekJ1OEtJSk5ILU5HMEY5ZjAyRlhxLXViUjY3cDktRlFjdS1KNUZyRUJZbVl4UXhRb1VK?oc=5>
+- **特朗普** | 特朗普：谅解备忘录不是最终协议 若不满意会重新开火 <https://news.google.com/rss/articles/CBMiSEFVX3lxTE9PMVJLdlV2enVlRU85SUx0dHB0dE1ldkdEVm5JWl9Jdkx5YUVkNmZHd0FlRkdSN0lJS0UyRC1lVWFuUFFfUWZqUQ?oc=5>
+- **Trump** | Serenity & Leopold & Nvidia & Trump，谁是最强美股喊单王？ <https://news.google.com/rss/articles/CBMitwFBVV95cUxPdWZURC11anhNSEpmRVlCa3pFYnFHd3BpYkVJODVqZWVldmF6RGJINVFmdjFwR2htdTFJZ1ZwcG45eFdzdlhrYThVazJYVi1HVXRWUjE1c3JpYWtic3l2eWtvOFp6QWNBXzcySHV1YnZMUDRfTGJZUkhSczA2SVZZTDRaZkVMR1FUcXBDSVdobXRxNGIzMUdPcE13bEZmVWVHa0dZQzdyQWRYZkl0dlc3bk4xemkweGc?oc=5>
 
 ### 2026-06-17 08:41  (14 条)
 
