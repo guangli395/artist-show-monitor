@@ -1,108 +1,121 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-17 19:21**
-- 本轮扫到 3781 条, 新增 **13** 条
+- 最近更新: **2026-06-17 21:27**
+- 本轮扫到 3793 条, 新增 **12** 条
 
 ---
 
-## 本轮新发现 (13 条)
+## 本轮新发现 (12 条)
 
-### 新浪演唱会热点小时报丨2026年06月18日03时_今日实时演唱会热点速递
+### 蔡徐坤、刘宇宁新歌入围“年度十大金曲”，网友调侃华语乐坛完了
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906za1y.html>
+
+### 新浪演唱会热点小时报丨2026年06月18日05时_今日实时演唱会热点速递
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906z764.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906za4a.html>
 
-### 新浪演唱会热点小时报丨2026年06月18日02时_今日实时演唱会热点速递
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906z5de.html>
-
-### 周杰伦在《女儿殿下》MV中亲自参与了哪些部分的表演？
+### 新浪演唱会热点小时报丨2026年06月18日04时_今日实时演唱会热点速递
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801o3us.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906z8fo.html>
 
-### 周杰伦新歌《女儿殿下》MV中为什么是阿Ken演爸爸而不是他自己？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801o3ua.html>
-
-### 新浪演唱会热点小时报丨2026年06月18日01时_今日实时演唱会热点速递
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906z2su.html>
-
-### 周杰伦新歌《女儿殿下》MV上线
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://finance.sina.com.cn/jjxw/2026-06-18/doc-inicucsm2496273.shtml>
-
-### 特朗普：若对伊朗协议不满意，美国将“立刻恢复投掷炸弹”
+### 特朗普：同伊朗的谅解备忘录不是最终协议
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Sina finance
-- 时间: 2026-06-17 17:29
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxORGRDWGtsZDk3UlpnR2ZNbDdDNWRYckNVSW5IZW9mUVUzdE42TEwzVWlyVHhYLVBmaWE3TE45X2lGQmI5Z0ZtLUZBVWZSTHY0WmVGRzlCM1I5UlA1UkVRMFo0V2xzM2ZfZWRFanJBUUpleFhuekJ3SkJIMjh1OWgwRWpLa1lxWk0?oc=5>
+- 场馆: 新华网
+- 时间: 2026-06-17 11:11
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE51VWphb055cXlFTUdfZU9HRmNkbXdZQW1qTXlCSGd3M3R2TzF2RnVlTU5OZEtPOW9OaVphS1laMl9qaU1TSVg0ZHhGOEpDOXVPcFJFMHQzeS15b2ZQWnA4ZDduV0tYUXZIM2tJLUVyc0gtQ1BMYXZQZHZNMGJiWXc?oc=5>
 
-### 特朗普与G7领导人及科技CEO共进午餐，OpenAI等企业高管出席
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-17 17:03
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxNMW5DeWI4dmRZUDhsOGhXUUwtVGR4aUhoLW1TSF9DdkFuY3BMbFVBZ2JnQWFGVVNyUHFZaF9iOFNxSkd0R1BkZXM0LWRDcG1RR2lrSUtUeVUxOWFZRUFlck9vV2RkWjZhaXFfQk5mcldkT2lnYVBNSlpibFNpYkpfTmRwbm1Fcms?oc=5>
-
-### 特朗普：美国不会在伊朗投入任何资金，美伊已成功在线上签署谅解备忘录，现在协议谈判已进入第二阶段
+### 特朗普G7峰会翻脸：“没有美国就没有以色列”内塔尼亚胡必须要对黎巴嫩负责 他杀死太多人了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-17 17:32
-- 链接: <https://news.google.com/rss/articles/CBMilgJBVV95cUxOcjNTZm1xRGp5UU9udHh6VkNBTElDS0VmM0hpazYwUFU1cV9ta3lJVkFoeGNqc245T2VUcC1zYk5hMTdLaURETVV1NlNPbmU0VTgyV2RBMGwxaWJ3Zkt4d0pKeGZ2TzZWZi0tcXhDcEhfZlpuOXBwZmtJR3hvUmpBY2FNZjZDNnFTVXVvSTNoUkRoOEJDNjF2SDZvZnpQUU91NnF6bkk2ZTBZSzA4UTdVcTY5UEhLcE5mVmtnTmgyU3FNdHBBWHJrNkcxTzJRZURoNzBFVEE5dXkzS2RFSE1QbHU5VWR2WGg2eWlwc3FjQ3lDbXJOQUhUU0NFVE5PZGdRZUtWRG5WdTdCYjZPam42NGhXbEpkdw?oc=5>
+- 场馆: video.sina.com.cn
+- 时间: 2026-06-17 21:16
+- 链接: <https://news.google.com/rss/articles/CBMi4AFBVV95cUxQN2J4TDF3NmhWejRMMnlELUpuNGczbzRyTlZrRHc3RzY0LXo5NTFDYUxrQ0toNDk0Nm9IblFTZ25TZ0o3LWREVFRtbHNjQ2ZiMW0wR2VnOHZaS2Vua050eFVJOGVpWHZSY19NSlJLRE4yTXktUm9aZUw2a201cnRyMlVJOWJLN2hTU2todWVCNl9wNmd1SnQybEZEYVMwcFpqY1EtdmUyaHNnV1dLbjJTSHkxeWpOb1RTMGdoUUs3YThOUlBlVFdiNEp2Wk1RTG5CSEl5NE8tOFhwYWg4cU5tYg?oc=5>
 
-### 特朗普称美国不会投资伊朗
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 央视网
-- 时间: 2026-06-17 13:22
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE50VnFkME5USXpVZktuNXVMQkdQUzYyTDdtaGExLUdDN2JxVkJfQ0JFbElsczlIY0kwNHhDcEQ5NnUtY1ZVQUp2VzhQZks1ellmR1llc1RGbS1Ob1A5elRvMWFaNjQ1eTN2V2FzdU9MWVpHQXUybWZONQ?oc=5>
-
-### 特朗普：已与普京及乌克兰总统泽连斯基举行了建设性会谈。
+### 特朗普称其法国之行“大获成功”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-17 14:11
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XUlBWVUFIekZ1QmQtQW05SFhsaVZwcEZpYXdGZGUya1BoRkdWc0JLRVVQaVdkYXVfaGNqZ3dOLXNrT0tDVUlTeEE5RQ?oc=5>
+- 场馆: RFI
+- 时间: 2026-06-17 20:39
+- 链接: <https://news.google.com/rss/articles/CBMi_AFBVV95cUxORFJPaXFqWVlhcVJkbzRmbmIzLU5TT040d2lzOFNyUVM2bmJ3ZVBUekIwaGFnRU05Q09qbkRHa0pIUXgwT2RtSEFReGJ6Z3dmWlpCeVRPZFh5QW52eGdTbkZhRWZCdG42X0otbWEwblcyVkVEZ05TTENzazU3WERkSzhweW1EaUVQcEc5SVIxdTRWX0tPeGJ2dE1YWlZuQmxEVlduQ3hDWHNwbVUxMXo0Z3FGOGJYbW55NExMZndWeldnM1dqb2tCalNNd29ReTd1M0dnTGFZR1l4ZUhrSUswY2ZDNFVBMW9rQ2swZGlrSV82clBsYWhHR2JSOTQ?oc=5>
 
-### 七国集团领导人在维昂莱班峰会第二天讨论伊朗和乌克兰战争
+### 美伊协议达成：特朗普特别感谢习近平普京帮忙
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-06-16 17:05
-- 链接: <https://news.google.com/rss/articles/CBMitgFBVV95cUxQUkFkbU1aTlFMY01jU1FvRkwzSzdlMlZnZUZGYlhvVkkydXl2a1E3cHZjVE1JN29QTDNuR2twSVBuaHdPVmVRMWRYTF9XV2ZNR0RxMVJsVjN1czdOVTYtS2pvVEtPdlllN2NfQnZDdk4zeTE3d3BBaFl3N2NDSFVxRFY0NFUtZ1VXcjE4M3dWREtuV05mbUQyQ291eDNqQ3B4T25EcjBZWWFNQlVlUGQ3QlpNOHlSd9IBuAFBVV95cUxQZkpTOFFCOW5IS2ZaeE1tRnNSNTFLRVNuZzlSQmp4S0xJNzl6Yi10T3FGU3J1ZGV1UnM4WGw0d3ctX3FVb1QxYWZHMG85X1lzUXBtRWJMSEhKenYyZjVJdW1jdTYyQWlLNjFtcjh2Y2ZvOUNmS2ZvYmlNUU5lTlRobGRuUFdKdzFHQWVVanRVUWp2Y3dJa0FzV2wtaFg5S21oa055bTV2dEY4b2FSWGkzLXFJOVNnLTJh?oc=5>
+- 场馆: RFI
+- 时间: 2026-06-17 19:38
+- 链接: <https://news.google.com/rss/articles/CBMiuAJBVV95cUxPVXNkMC1RX0RPSF9tbW5DVHBFTWNpSDN3QUVzb2F3YzZ5OEJwbU5yc2liUGREdWFwOXF6R29CXy1BN1l4OFhfSmFmaEtKMkZSSHhONjYwSi0wbUdjS2VzdUxUUzQ0NVc0YjNhQ0xOOXBXVFlQcS13RktiZzd2WU1hSUZLeTM0UDg2b0xyUDVWUVdZRnVLWmdkNzdFWENjcGRNYkktdmR3V203S2htZlhIa1JreUVzcUVGMnA4NzhWa1pfYjhvcEUyLUM2cV93R3doREZiX3c5Q0tjOXFfblFTY21Kb2ZhOXJNWnBhYXZKWENUY2xRWjNKVkw3ek53MWVGRkdFVEZmV0F5RG5tQWhZclhEZ0Y2OHl6Y1RnbjEtbVktMDdSSzlYUl9rbU5ZYU1CcXlYbGJaRVk?oc=5>
 
-### 特朗普称，黎巴嫩总统约瑟夫·奥恩将于本月访问白宫。
+### “特朗普这么干，又给中国打广告”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-06-17 10:35
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9vNTN0dTZ0S05ncGtxYkZFc282ajZ6TzB0bjBjSXA0V096QUdwX0lETkhtMFN2RzVza3dpVWNhRm1VMDYxb1QzM3NYM2I?oc=5>
+
+### 特朗普要重新主导俄乌谈判吗 泽连斯基提议冬季前举行
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-06-17 17:09
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9ScUs3eUJ6WHpsVGRjSnZGaG4xX3lLc1VkNk1zU283aU9pS1ZKNjJ2aklnbEduSjFCeFZHMEFNSEpfbk1GNzFVN1hnWDU2UThaSEl1cy1sbTN3dUJqSWpJWDBpWS1SU2NTOTBkZktPRVA?oc=5>
+
+### 特朗普称已与俄乌领导人通话 希望推动停火
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 央广网
+- 时间: 2026-06-17 18:52
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKNlJfdFNheUdCZnRyLVlRNXNTS2hSYnZ1V2d3QmNlaGNZcjVZVWlKOEo0dW1KWjFobjNTRDlWaVFFSFY5VUtWYk1oNFlKdkRRM1Y4M29FbGFNU3ZBc1BVYlhmeHU0a0pX?oc=5>
+
+### 特朗普称美伊谅解备忘录可能在18日或19日签署
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: chinanews.com.cn
+- 时间: 2026-06-17 17:21
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9TSktYbDVsbEt4cFR6RzRRMVc0MWFPVVVLUUlwOHgyLTBxRXNHN2V2SVdySUkxQjlGRTlkbVFNcUx0WkowNE1DZ1VqOHg2LWcxNmtTVGx5X1h2bFNZX3ZXWlpwTmhfOEtm?oc=5>
+
+### 华盛顿公布美伊之间的谅解备忘录文本
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Al-Monitor
-- 时间: 2026-06-17 16:56
-- 链接: <https://news.google.com/rss/articles/CBMiuwFBVV95cUxNM25xcmZaNG5XUjhhdzl6RmYwV1JWbm5DXzdxN1JJc1FjUUs0VDhuODJlM283R3hScUxjNk5DSWEzcUtoTTFDNmNraUpfN1M3RERHRDkwV1JCTm03d0YyTHhjR3ZkWm9jZ0t3TVRrQjMyOUxvQWhuVkhXQ1lfN3FEWmw1SEZBM2RwX0hMcmdSVmVsa21nOFAxSEhFMUxyLUIzZldmbzNRc0JEbV9EeTMyLUQ1a0xvczFhOVFR?oc=5>
+- 场馆: RFI
+- 时间: 2026-06-17 19:38
+- 链接: <https://news.google.com/rss/articles/CBMiqwJBVV95cUxQaTFkVWRBWlpwNVNWYzA1SVZ2a0U0WTg3czU1eWxBMlRQUldJWjR4Q253clYwVUZueGRuc2dTelhuNmpSWEFRVmpwLWx3NWV4bFFyRGxhNGNXV3I3YnV1MFlFWUdPUl8xWlVTWFVNS1dfaVdWMDZjMUpSZi1VdXkwUC1iZVBJWlB3Q1p5SnMtUjhSOHpOZGdGM2NXUU1HQUtwYUlMTzZLU3JXLUk4bTdqRWJ1dThSUmpnTk5xYWpzTVhIOXZKTG04VG03VGw2cTlmUFdPYnN3b1JtaUhoVXpEdnR6bGE5V0VaZHE4VkRrUGtuNWR1UWx5X2NCNXEzRFlpdDM5bXBXR0ZUOF9vblYyREhGRnZlZld4WHdqNnFNVWo5ZWtWazRTQ1otcw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-17 21:27  (12 条)
+
+- **蔡徐坤** | 蔡徐坤、刘宇宁新歌入围“年度十大金曲”，网友调侃华语乐坛完了 <https://k.sina.com.cn/article_7857201856_1d45362c001906za1y.html>
+- **周杰伦** | 新浪演唱会热点小时报丨2026年06月18日05时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001906za4a.html>
+- **周杰伦** | 新浪演唱会热点小时报丨2026年06月18日04时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001906z8fo.html>
+- **特朗普** | 特朗普：同伊朗的谅解备忘录不是最终协议 <https://news.google.com/rss/articles/CBMif0FVX3lxTE51VWphb055cXlFTUdfZU9HRmNkbXdZQW1qTXlCSGd3M3R2TzF2RnVlTU5OZEtPOW9OaVphS1laMl9qaU1TSVg0ZHhGOEpDOXVPcFJFMHQzeS15b2ZQWnA4ZDduV0tYUXZIM2tJLUVyc0gtQ1BMYXZQZHZNMGJiWXc?oc=5>
+- **特朗普** | 特朗普G7峰会翻脸：“没有美国就没有以色列”内塔尼亚胡必须要对黎巴嫩负责 他杀死太多人了 <https://news.google.com/rss/articles/CBMi4AFBVV95cUxQN2J4TDF3NmhWejRMMnlELUpuNGczbzRyTlZrRHc3RzY0LXo5NTFDYUxrQ0toNDk0Nm9IblFTZ25TZ0o3LWREVFRtbHNjQ2ZiMW0wR2VnOHZaS2Vua050eFVJOGVpWHZSY19NSlJLRE4yTXktUm9aZUw2a201cnRyMlVJOWJLN2hTU2todWVCNl9wNmd1SnQybEZEYVMwcFpqY1EtdmUyaHNnV1dLbjJTSHkxeWpOb1RTMGdoUUs3YThOUlBlVFdiNEp2Wk1RTG5CSEl5NE8tOFhwYWg4cU5tYg?oc=5>
+- **特朗普** | 特朗普称其法国之行“大获成功” <https://news.google.com/rss/articles/CBMi_AFBVV95cUxORFJPaXFqWVlhcVJkbzRmbmIzLU5TT040d2lzOFNyUVM2bmJ3ZVBUekIwaGFnRU05Q09qbkRHa0pIUXgwT2RtSEFReGJ6Z3dmWlpCeVRPZFh5QW52eGdTbkZhRWZCdG42X0otbWEwblcyVkVEZ05TTENzazU3WERkSzhweW1EaUVQcEc5SVIxdTRWX0tPeGJ2dE1YWlZuQmxEVlduQ3hDWHNwbVUxMXo0Z3FGOGJYbW55NExMZndWeldnM1dqb2tCalNNd29ReTd1M0dnTGFZR1l4ZUhrSUswY2ZDNFVBMW9rQ2swZGlrSV82clBsYWhHR2JSOTQ?oc=5>
+- **特朗普** | 美伊协议达成：特朗普特别感谢习近平普京帮忙 <https://news.google.com/rss/articles/CBMiuAJBVV95cUxPVXNkMC1RX0RPSF9tbW5DVHBFTWNpSDN3QUVzb2F3YzZ5OEJwbU5yc2liUGREdWFwOXF6R29CXy1BN1l4OFhfSmFmaEtKMkZSSHhONjYwSi0wbUdjS2VzdUxUUzQ0NVc0YjNhQ0xOOXBXVFlQcS13RktiZzd2WU1hSUZLeTM0UDg2b0xyUDVWUVdZRnVLWmdkNzdFWENjcGRNYkktdmR3V203S2htZlhIa1JreUVzcUVGMnA4NzhWa1pfYjhvcEUyLUM2cV93R3doREZiX3c5Q0tjOXFfblFTY21Kb2ZhOXJNWnBhYXZKWENUY2xRWjNKVkw3ek53MWVGRkdFVEZmV0F5RG5tQWhZclhEZ0Y2OHl6Y1RnbjEtbVktMDdSSzlYUl9rbU5ZYU1CcXlYbGJaRVk?oc=5>
+- **特朗普** | “特朗普这么干，又给中国打广告” <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9vNTN0dTZ0S05ncGtxYkZFc282ajZ6TzB0bjBjSXA0V096QUdwX0lETkhtMFN2RzVza3dpVWNhRm1VMDYxb1QzM3NYM2I?oc=5>
+- **特朗普** | 特朗普要重新主导俄乌谈判吗 泽连斯基提议冬季前举行 <https://news.google.com/rss/articles/CBMicEFVX3lxTE9ScUs3eUJ6WHpsVGRjSnZGaG4xX3lLc1VkNk1zU283aU9pS1ZKNjJ2aklnbEduSjFCeFZHMEFNSEpfbk1GNzFVN1hnWDU2UThaSEl1cy1sbTN3dUJqSWpJWDBpWS1SU2NTOTBkZktPRVA?oc=5>
+- **特朗普** | 特朗普称已与俄乌领导人通话 希望推动停火 <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKNlJfdFNheUdCZnRyLVlRNXNTS2hSYnZ1V2d3QmNlaGNZcjVZVWlKOEo0dW1KWjFobjNTRDlWaVFFSFY5VUtWYk1oNFlKdkRRM1Y4M29FbGFNU3ZBc1BVYlhmeHU0a0pX?oc=5>
+- **特朗普** | 特朗普称美伊谅解备忘录可能在18日或19日签署 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9TSktYbDVsbEt4cFR6RzRRMVc0MWFPVVVLUUlwOHgyLTBxRXNHN2V2SVdySUkxQjlGRTlkbVFNcUx0WkowNE1DZ1VqOHg2LWcxNmtTVGx5X1h2bFNZX3ZXWlpwTmhfOEtm?oc=5>
+- **Trump** | 华盛顿公布美伊之间的谅解备忘录文本 <https://news.google.com/rss/articles/CBMiqwJBVV95cUxQaTFkVWRBWlpwNVNWYzA1SVZ2a0U0WTg3czU1eWxBMlRQUldJWjR4Q253clYwVUZueGRuc2dTelhuNmpSWEFRVmpwLWx3NWV4bFFyRGxhNGNXV3I3YnV1MFlFWUdPUl8xWlVTWFVNS1dfaVdWMDZjMUpSZi1VdXkwUC1iZVBJWlB3Q1p5SnMtUjhSOHpOZGdGM2NXUU1HQUtwYUlMTzZLU3JXLUk4bTdqRWJ1dThSUmpnTk5xYWpzTVhIOXZKTG04VG03VGw2cTlmUFdPYnN3b1JtaUhoVXpEdnR6bGE5V0VaZHE4VkRrUGtuNWR1UWx5X2NCNXEzRFlpdDM5bXBXR0ZUOF9vblYyREhGRnZlZld4WHdqNnFNVWo5ZWtWazRTQ1otcw?oc=5>
 
 ### 2026-06-17 19:21  (13 条)
 
