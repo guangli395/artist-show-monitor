@@ -1,31 +1,41 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-18 16:23**
-- 本轮扫到 3880 条, 新增 **10** 条
+- 最近更新: **2026-06-18 18:40**
+- 本轮扫到 3891 条, 新增 **11** 条
 
 ---
 
-## 本轮新发现 (10 条)
+## 本轮新发现 (11 条)
 
-### 新浪演唱会热点小时报丨2026年06月19日00时_今日实时演唱会热点速递
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019070sa0.html>
-
-### 新浪演唱会热点小时报丨2026年06月18日23时_今日实时演唱会热点速递
+### 封神第一部妲己扮演者娜然 曾是周杰伦MV女主角
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019070qm8.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019070vzk.html>
+
+### 油价大幅冲高回落，特朗普签署谅解备忘录，美原油库存低至临界水位
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-06-18 17:05
+- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxQcnY0aEhJNW80UV9fNUgxUFpYNmpVRGVFQ0Q5N2IyWUNuckxJWmkzRkJSTGlQUGdwa2JwTW04RFNLR1FuLWEtXzk2QlktZDFtcDRVaGM3T3hvSXcxWWI4NDMzLTNidVhxSl9Wci13WHlxTXZ2UGdVaENPU0hxTHBkRE9uZ1BWWWxvMTdKd052SkNZZld4R01uVQ?oc=5>
+
+### 特朗普称预计“所有战线都将实现全面停火”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-06-18 18:36
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE95cjlhc3ZhWUYwdTBQNUZHN2JRUEJIYmFmWjhyZ1Ywd1RyZTZJOVFERkFpQUxqejZDazFlbUdjcGpZVzA4dm55OFEyZUtqb3dWdll5Nmx2Q1AyRDhiLXljRjRkdHFnNHhlYXo1Y08wZU0?oc=5>
 
 ### 特朗普宣布取消国家情报总监的提名确认听证会
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-18 16:10
-- 链接: <https://news.google.com/rss/articles/CBMinwJBVV95cUxNRWVzd0lRdzlrOHA5Y2E3ZGF5cVlWNVJYSERqZ3RyRkhIazNLN1M5Wlhwc1pRNXpBY1RmX1lIZENMdXVLblpMQ2NLVHlwdFowWHRwV2UxZ1FpakpMRlBrMnFKMHNVcUNjMmxSbVBCNXFielFxWnlnWXRsLVdmWm9uM2hIN0gwNUN6dDlWZG96UThqX3padkU4Y0ppRGNHYUlqUTczSlRmTktZVnZGVVhXVGtwaTdLTXdSeThzSEV2OHEzVmNCSEZkejkzRmpiSkMwc3FrLTY5QmFiZTZ5VmY5cEg5VVFHSXBKZGpfbnhWWnB6UnNKUkFaNWJHY2VMZ1ZtNkQxZzNSVVFrWFY0RFg2ZTVwX0ZNUDNnRnpOdlE4Zw?oc=5>
+- 时间: 2026-06-18 16:28
+- 链接: <https://news.google.com/rss/articles/CBMixwJBVV95cUxQRkc3Z0pXeU1FY2FyQjgtTWg1cm90RVlHbFRSb0U5cEZTZVNZMi1VMVZIRER3a2RxZ19hZWhnZlBsUzFVZlB4Y3FyOWJ3alNjUnIwcDBsVkpsTjBiT2FsUno0VlpZWmVnUDZVWnlPOUNCcTA3eGExdVUyRi1nZUM0SnpvSDlWaUVOVTdLZHVfOHQwU1Y1SHJrZHhLQXhnYkVDY1FVTndaa250a3ZHaHdHcVFrTjZBUG5zcGRibUdqY2lLSTNZeENLR3Mzd095Q2d0d1pGeXIxa0RMN1BIWEJwV1lvY3JoSFJ6ampsMTc4Wm9jV0xKOWQ2bzJDTzBGRGlfcW1uZVJhemwyOGMtcUdfbm0wVF9wblFGMFUzekVjTml4Z3RCR2dwTlhQenRSLWhBY1RTU0tnQWF3UTNWcjV4ZWtGN3J2OGc?oc=5>
 
 ### G7峰会期间双边会晤，特朗普与莫迪再度上演亲密互动
 
@@ -33,60 +43,74 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-06-18 09:32
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxQbWpWWTlRUmxlTUJtdDNSUlVaTFVlSXZZSFZkTDkwXzduam9XclI4Z0dkbVZ1WmlUbFQxWm1kd2tJQXB0U00yS1l3QmEwRjlIajNZa1JJRTJxeXB6RXNrYjgxTTlEVVZuMFNPb2E0MlB2X1gtckZKS2ZaaDZES0h1TjVocVFVcVE?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPLTdUSWl3UERfbUJoWFNYbk1Sb3ozN0Z6TTJYNkhIRGVWdGdqN2VyYmtwdjl2cEVvLXBETkozY29DNTk0bEZYUk12OVJoeXJkcWdjYTZ4eGxDOTYwMGVXSUdQQ2pLNm9nREowZTMzRk5vOUJzdmtaTWpPb1JiQzNEWG9DSThpYlFhbE1zVkpCZGFPa3d3MFVtMXlPZWtGZFNhaTN4WnhuZHEweDR3SVp3NHI0cHJJVzhtSnh5SU1iZTFKb25SSlozWmI0b1FyTUFJdE9XZEEwbldxQXFBU1FZ?oc=5>
 
-### 特朗普宣布：苹果与英特尔达成芯片合作
+### 当着全球媒体的面，特朗普又让日本尴尬了……
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪军事
+- 时间: 2026-06-18 16:26
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE9mUW9sYkxhSGQ4RVQyTGcxdnE0VWg3UEtlZjFhTW9qU2s2WUJJYUtjc0ZadWphcHhhSklRaHhIdjhsUF9KdFpWelg5SXQ0ck80ckdJa3Y2cDhaSV9KUm5xVzJxVk9Td3JhVllvSGkxTFZrVEk?oc=5>
+
+### 英特尔股价大涨超10%，特朗普官宣该公司将与苹果在美国开展芯片设计合作
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-18 14:17
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE9LNk9hd2Y0MU1Vbl9VeldxSFZ3SGpuMGl3a0ctWFhZRUdsVXc4ZFZJX1VqbXJYQTNrcFN3b0JkbGxBelQxQmxScnlZYUFKLWNFX3lRdktrakJ1bk9zaWRqWGlaUnA4MFJSS1Nfa1lGaWpDQQ?oc=5>
+- 时间: 2026-06-18 16:45
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxONU9iaExDZ1lRRnc4TTY4ZmFaamFHaUFCLUluZDdqeGdyTmt2b19zRTFBUjdlc05RaFZ6QzhtM2toS2ZGcVZrRENBWjFnek0xNDd2RFU3UjVYYzR2UmpLb1liWGVISHE2aGRabjFNSmhHaFpFSWdGNWU1MlRNNWg2TXh2d2R5MU0?oc=5>
 
-### 科技股再传利好！特朗普一句话，芯片股暴涨
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 同花顺
-- 时间: 2026-06-18 10:42
-- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTFBodWJFTXpvaExIVldDdGhyemRtZHRvajRiR0tRdkg3RlNkRkI4dUFHYlhINFZmd0tjS1djZkozWG9EVlhTYTY4NnhHS2lMR1FQdlNocFExTVhZd2oxMHJJeUNB?oc=5>
-
-### 特朗普试图解雇美联储官员莉萨・库克，后者法律与安保支出超100万美元
+### 刚刚，全线拉升！特朗普，重大宣布！
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Sohu
-- 时间: 2026-06-18 16:01
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxPeEZNOUsyekctQUxKMnQ3LW5YOGVSRWY4cE95Mjc4VUdIQmI4Yk0taHNBbUhnSGNvbTJoeDJCcENDRTY2X2NNMVdIcGo3eHpfc0tsaktDTUc0SlozNy1Xb1N6WmNRQ2tKY3RTNjhhaHdXS1Z4eGVxemI3SzNNQTQxQ1VtendqaVlQQy1qTQ?oc=5>
+- 场馆: 同花顺财经
+- 时间: 2026-06-18 09:16
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aSXZKLTI2aF80UnREcUdhT1JHSzZ0MFc5N1VPdXgyTHlvVW5FcWhkRHA1WkZybm1CWkpQNHJnMjJiN2NfQWV3OF9uclcwWkpYOHVsZGFkS1V0X0JIS1E?oc=5>
 
-### 特朗普手机T1套娃两年前的HTC 博主：难怪总统自己用iPhone
+### 特朗普：4周耗尽石油储备！美国最大商业原油储存枢纽库存跌至警戒线
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 驱动之家
-- 时间: 2026-06-18 07:02
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE4yYnVLYjh5YTZzOVNRU3JOQmV0ZVM5OUdUZ3pWNzFCZVBpZlZaVFc5QlBqaFdRVWVYcE9RWlo0VWZBVWVMa3IwYjA5T2JjMm1LNGxjUmF2d1c?oc=5>
+- 场馆: 华尔街见闻
+- 时间: 2026-06-17 22:54
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FUnpZNFJIeTctb0dZV2t3eFVNOHh3eG5vVEJnQUlKaVBlZTgxRTlNUWJ6Y0NVQm9UUDIzOF9JY3MxOEhfaDlJUUFfN1BSc3JpOXdr?oc=5>
 
-### Oil Prices Fall to Lowest Since War Began After Trump Signs Iran Deal -- 2nd Update
+### Trump says trade deals with India soon to be reached
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: TVB
+- 时间: 2026-06-18 14:22
+- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxNTmFfajAzX0NFQV9ITjd6Y2l2VnJOcFVobWJNZTJXQTRSa0UtWWlOQW1IUURnZkZzZDB4Ynl4a21RTU5fRkc1b3YtS3dET0lvRlNLdENHMVVGbThQSVN0QU9jVWxIUEpnMFdUOFMtMFB1RlpuZE5Wd0s4bTVxQUZ0ZA?oc=5>
+
+### 跟上 Trump 的脚步
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: Moomoo
-- 时间: 2026-06-18 12:01
-- 链接: <https://news.google.com/rss/articles/CBMiogFBVV95cUxQYm9TYXlpckdqUGFCZmpJNWRUYjF3c1ltam9kUTNGRlB5MFNNY1JFYVdaQTRiMTBuNVhWN3ZUNW5zU2ZHMWVuVHQ3QzRZdjFQUW9YZVc4dDgwX29rZVpkQ3JQX2xFRjBEOGIyemRERVpqckhLNHNtS2ZRUU1iaGZMRU9ubVhjUGlDT2Z4bXlvWlZneDlfakhjNVg1eVFIRE1SZ2c?oc=5>
-
-### 赖清德：美对台安全承诺未变，对军售获批寄以厚望
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 茉莉花新闻网
-- 时间: 2026-06-18 10:20
-- 链接: <https://news.google.com/rss/articles/CBMiwAJBVV95cUxNRGI3RjF5c3JScWhRdEluNFVFT2RTZWZRVmJJdG5KWjZjMzE4anVnSjVSQldPRkhNU2JjYXh6S3E3eWQwdjA5ci1xcTN1cVkyY01OTmo0QWlTZnJZMXdvSDdsYUpJUWJuYWxKZ1c2SmI2N1VOV01sYmNpTDFTTjNlSjl1a3FkNE9pdDZMREsxaUJhRm5PV3pkZnFzd214cWhubDJqdU5SSkg3RGNIS0VsQkhEMldRc19jNHhSQkJFdGtFNnI1Zml4QUgxV3UyX0JzaFRzYmtyNm9femIwVXhvZTdaN2hnWWZQdTR2UHBHa0VZRllRb0d0Mlo5R3g5WTZLb1U2X3NZZXRoNWhid1FuSkwzbDFHbFdkUUxKZnBJdUxja3FYNGtES1h1UzZ1VktyQTNHV2taZFBXekU4ZTRxYw?oc=5>
+- 时间: 2026-06-18 05:30
+- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxNMzlSdEh0M1UzMnhLOHpRQWxlWVFJS3cyU1lLQ3dZeXlrWS1QY0NZSlFva2JSM0pwN0tDcWtDTGVYVy1taGpSZ0lGNVg2TGVXanlIYWpBc3YxWFJhdVB5dGJyN0djZWVUdzZCaTlOTjVYSWdOUHc0R04wbnVHSHdOak5rN2pGRUZXbkpPcjBWUQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-18 18:40  (11 条)
+
+- **周杰伦** | 封神第一部妲己扮演者娜然 曾是周杰伦MV女主角 <https://k.sina.com.cn/article_7857201856_1d45362c0019070vzk.html>
+- **特朗普** | 油价大幅冲高回落，特朗普签署谅解备忘录，美原油库存低至临界水位 <https://news.google.com/rss/articles/CBMimAFBVV95cUxQcnY0aEhJNW80UV9fNUgxUFpYNmpVRGVFQ0Q5N2IyWUNuckxJWmkzRkJSTGlQUGdwa2JwTW04RFNLR1FuLWEtXzk2QlktZDFtcDRVaGM3T3hvSXcxWWI4NDMzLTNidVhxSl9Wci13WHlxTXZ2UGdVaENPU0hxTHBkRE9uZ1BWWWxvMTdKd052SkNZZld4R01uVQ?oc=5>
+- **特朗普** | 特朗普称预计“所有战线都将实现全面停火” <https://news.google.com/rss/articles/CBMicEFVX3lxTE95cjlhc3ZhWUYwdTBQNUZHN2JRUEJIYmFmWjhyZ1Ywd1RyZTZJOVFERkFpQUxqejZDazFlbUdjcGpZVzA4dm55OFEyZUtqb3dWdll5Nmx2Q1AyRDhiLXljRjRkdHFnNHhlYXo1Y08wZU0?oc=5>
+- **特朗普** | 特朗普宣布取消国家情报总监的提名确认听证会 <https://news.google.com/rss/articles/CBMixwJBVV95cUxQRkc3Z0pXeU1FY2FyQjgtTWg1cm90RVlHbFRSb0U5cEZTZVNZMi1VMVZIRER3a2RxZ19hZWhnZlBsUzFVZlB4Y3FyOWJ3alNjUnIwcDBsVkpsTjBiT2FsUno0VlpZWmVnUDZVWnlPOUNCcTA3eGExdVUyRi1nZUM0SnpvSDlWaUVOVTdLZHVfOHQwU1Y1SHJrZHhLQXhnYkVDY1FVTndaa250a3ZHaHdHcVFrTjZBUG5zcGRibUdqY2lLSTNZeENLR3Mzd095Q2d0d1pGeXIxa0RMN1BIWEJwV1lvY3JoSFJ6ampsMTc4Wm9jV0xKOWQ2bzJDTzBGRGlfcW1uZVJhemwyOGMtcUdfbm0wVF9wblFGMFUzekVjTml4Z3RCR2dwTlhQenRSLWhBY1RTU0tnQWF3UTNWcjV4ZWtGN3J2OGc?oc=5>
+- **特朗普** | G7峰会期间双边会晤，特朗普与莫迪再度上演亲密互动 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPLTdUSWl3UERfbUJoWFNYbk1Sb3ozN0Z6TTJYNkhIRGVWdGdqN2VyYmtwdjl2cEVvLXBETkozY29DNTk0bEZYUk12OVJoeXJkcWdjYTZ4eGxDOTYwMGVXSUdQQ2pLNm9nREowZTMzRk5vOUJzdmtaTWpPb1JiQzNEWG9DSThpYlFhbE1zVkpCZGFPa3d3MFVtMXlPZWtGZFNhaTN4WnhuZHEweDR3SVp3NHI0cHJJVzhtSnh5SU1iZTFKb25SSlozWmI0b1FyTUFJdE9XZEEwbldxQXFBU1FZ?oc=5>
+- **特朗普** | 当着全球媒体的面，特朗普又让日本尴尬了…… <https://news.google.com/rss/articles/CBMic0FVX3lxTE9mUW9sYkxhSGQ4RVQyTGcxdnE0VWg3UEtlZjFhTW9qU2s2WUJJYUtjc0ZadWphcHhhSklRaHhIdjhsUF9KdFpWelg5SXQ0ck80ckdJa3Y2cDhaSV9KUm5xVzJxVk9Td3JhVllvSGkxTFZrVEk?oc=5>
+- **特朗普** | 英特尔股价大涨超10%，特朗普官宣该公司将与苹果在美国开展芯片设计合作 <https://news.google.com/rss/articles/CBMihwFBVV95cUxONU9iaExDZ1lRRnc4TTY4ZmFaamFHaUFCLUluZDdqeGdyTmt2b19zRTFBUjdlc05RaFZ6QzhtM2toS2ZGcVZrRENBWjFnek0xNDd2RFU3UjVYYzR2UmpLb1liWGVISHE2aGRabjFNSmhHaFpFSWdGNWU1MlRNNWg2TXh2d2R5MU0?oc=5>
+- **特朗普** | 刚刚，全线拉升！特朗普，重大宣布！ <https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aSXZKLTI2aF80UnREcUdhT1JHSzZ0MFc5N1VPdXgyTHlvVW5FcWhkRHA1WkZybm1CWkpQNHJnMjJiN2NfQWV3OF9uclcwWkpYOHVsZGFkS1V0X0JIS1E?oc=5>
+- **特朗普** | 特朗普：4周耗尽石油储备！美国最大商业原油储存枢纽库存跌至警戒线 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FUnpZNFJIeTctb0dZV2t3eFVNOHh3eG5vVEJnQUlKaVBlZTgxRTlNUWJ6Y0NVQm9UUDIzOF9JY3MxOEhfaDlJUUFfN1BSc3JpOXdr?oc=5>
+- **Trump** | Trump says trade deals with India soon to be reached <https://news.google.com/rss/articles/CBMigAFBVV95cUxNTmFfajAzX0NFQV9ITjd6Y2l2VnJOcFVobWJNZTJXQTRSa0UtWWlOQW1IUURnZkZzZDB4Ynl4a21RTU5fRkc1b3YtS3dET0lvRlNLdENHMVVGbThQSVN0QU9jVWxIUEpnMFdUOFMtMFB1RlpuZE5Wd0s4bTVxQUZ0ZA?oc=5>
+- **Trump** | 跟上 Trump 的脚步 <https://news.google.com/rss/articles/CBMijwFBVV95cUxNMzlSdEh0M1UzMnhLOHpRQWxlWVFJS3cyU1lLQ3dZeXlrWS1QY0NZSlFva2JSM0pwN0tDcWtDTGVYVy1taGpSZ0lGNVg2TGVXanlIYWpBc3YxWFJhdVB5dGJyN0djZWVUdzZCaTlOTjVYSWdOUHc0R04wbnVHSHdOak5rN2pGRUZXbkpPcjBWUQ?oc=5>
 
 ### 2026-06-18 16:23  (10 条)
 
