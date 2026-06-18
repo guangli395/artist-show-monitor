@@ -1,186 +1,123 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-18 09:51**
-- 本轮扫到 3858 条, 新增 **24** 条
+- 最近更新: **2026-06-18 12:51**
+- 本轮扫到 3870 条, 新增 **12** 条
 
 ---
 
-## 本轮新发现 (24 条)
+## 本轮新发现 (12 条)
 
-### 小黄豆抽中蔡徐坤线下签售会
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c00190707ny.html>
-
-### 蔡徐坤签售会中签粉丝能与他进行多长时间的面对面互动？
+### 蔡徐坤《KUN》专辑签售名单公布，350人获资格
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801o7to.html>
+- 链接: <https://k.sina.com.cn/article_7096020439_v1a6f4add706801s1t6.html>
 
-### 签售会资格是否可以转让或出售给他人？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801o7tq.html>
-
-### 蔡徐坤《KUN》专辑签售会的具体举办时间和地点是哪里？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801o7ti.html>
-
-### 粉丝为蔡徐坤签售会组织了哪些线下应援活动？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801o7tg.html>
-
-### 350个名额！蔡徐坤出道八年首场签售会抽签引爆粉丝圈
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801o7tc.html>
-
-### 周杰伦鸟巢演唱会嘉宾曝光，邓紫棋王俊凯林俊杰加盟
+### 周杰伦鸟巢演唱会嘉宾曝光，邓紫棋王俊凯林俊杰将同台
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_3285889392_c3dab17004001a8wk.html>
+- 链接: <https://k.sina.com.cn/article_6354475832_17ac19b38040019tuo.html>
 
-### 周杰伦演唱会嘉宾曝光，王俊凯确认出席
+### 特朗普称不反对伊朗拥有弹道导弹
 
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5897618643_15f8684d304001aid2.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 央视网
+- 时间: 2026-06-18 05:42
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1PVkxKMVllaUd0dE5KSHkzYmNjc1MyZENmUWhzREhWbmgzdTFZWXJlX3A0Mk4zZnNRLVZOMWJobnBFTE8wRzY5Z1hVQ2xzc293dENqVktQeFk0TVdOODhlelBOR2lReEp3cko4bXEyVmdEM2tRMllOdw?oc=5>
 
-### 周杰伦北京演唱会下周开唱，兰亭序引期待
+### 要闻解说 - 美伊临时停火协议细节披露 ：特朗普明显输了？
 
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923704_m1d5ae17f803301thag.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-06-18 11:41
+- 链接: <https://news.google.com/rss/articles/CBMijgNBVV95cUxNQmRHTFhlNENaUGFadUxSc0RiRm1aSmF4ZWJYS01qYUFIZmR3X3BRWEtPZnJYV09jcXZzOUhPV3RVSmlkVllnVHVnYk95Q1FsbXU0NTdjQjh4RXp0YVg0bmxZemlDZ2tHNFphNGJVQkhFUXdKMVlrc1VMVi1IZ1BXdm9fRHN6RF9aQllXQlNwUkQ4RE5YZ3FMcFBtOXZ4WFd2UmlaR2o1UURKWUM5ajdfNDFlNnNLb2lvSkNrcnItYzhmRk1yd0tRQzVwYWR0RVVMcm50U0JreGJXRXhYNGh5RGpSRlBsUTVWUzh5UnFFa0FVY0laNWlHVVVEaFB4ek9nZUZuNm1IN1dlQzBsUzhNbXA4dnU1VXhaNkwybFlJNGZMOXdtQzVfM2lPUllzMDRYdnJaa2drR25ManVOVFNwQzE5WVZITTl0TVE3S2F6OFc5NzNlWGg2WE5wVkFyZVdtX0VLbGV0YTlKVjZ4X210d1AyOU5oZjdoQlAxTFh2eU0xQmQyZmI1ZWtDUzNndw?oc=5>
 
-### 黄晓明当众邀约王俊凯去周杰伦演唱会，两人私下关系有多好？
+### 特朗普G7峰会迟到，还宣布“我是老大”-观察者网
 
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801o8uq.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: guancha.cn
+- 时间: 2026-06-17 23:27
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1PTEVRa29vSkQ4aFZ0bUxGTXV6Vm40YjRnOU1PZjlCVndCVUhFMDhUTTFua2RpcXE3RkJya25LNmhVbnBzVlM4b0VGT2MwY203cGx4ZkdEUDZSN3dyVUtMR05CemFJX3Q2LWc?oc=5>
 
-### 我已摸清周杰伦演唱会点歌成功的穿搭秘籍！搞笑
+### 特朗普G7峰会抱怨座椅全场最矮
 
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6209134135_m17217de3703301g0cs.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: video.sina.com.cn
+- 时间: 2026-06-18 12:31
+- 链接: <https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQU44a2FZSmZJVlhlMXo1YzFobFdXNWQ4Ukp2bGlUMFBNSXVmUVhoNlBUYXY1b1hWOG5TQ1JhNldleGJVZC1wcWx3WDZ6UjZacDBNaDdDQktTZ2Voejl2TUNaZm9fSHNMTFpYOFVYLWVvajE3Z1NOQjgzamV1VGJYSHNLWG9nNnBLT0doVXQyZGRheG8xXzFnWkUwVFZHaHNBcVZ0WlNaUEl0X0xOMEk3Qm9IY0IxUUI0LVd5cXlJdWFobmRFMzQ4YzBFbV9ERzdhblBCLWJEMWR1WGFwWVFVYmp3?oc=5>
 
-### 特朗普称若伊朗协议失败，他很乐意归咎于万斯
+### 特朗普宣布取消国家情报总监的提名确认听证会
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-06-18 10:26
+- 链接: <https://news.google.com/rss/articles/CBMivgJBVV95cUxNVUNRaF9jME93YlNEWTdmMmVycmpYWmEtWTRKXzdXbl96UGpaSDFSLU1KblM3SVlsVVgzSTlMT3dlR0VuTWYzMGgzd093SHlpMFBGNFhCblhrMGZwS3NxZHhTRm15WHZTNEtEYjdLU0JDQWNDeFBDdHJpZ01wcG9pUjdKd0V4djhLd2hZZndaYmg1Zmc5WWxKcml6eUtPbTI2UzVWakhwMHJEbUFPLUN3bWhpSDZjRUhQUDZVU25CWS1rOG5pRm11R3JHbmp6S0VvWlgtc3FEYS1MT2RYbmhTYTlBbTA4WURSdURjM1RuaTJGUGdQc2stZU53WGVRQUNsOGNUQTZtcERuMThPRXo2NXotelpLYjNrUm52WC15eHdxYVdyT1RValZxdkZtdGxsOThTWUhTd2dDV3dTOVE?oc=5>
+
+### 特朗普宣布英特尔将与苹果合作开展芯片设计，英特尔盘前大涨9%
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-06-18 09:26
-- 链接: <https://news.google.com/rss/articles/CBMi_wFBVV95cUxQVm90V3hrXzlEemJHNFhIYzhiZ29IWkV5YWNwazR2YjMzV0hweFkzNm16YzVjQ2ZYLVphdEIzRURmUFRNU2lzUVpFeHdBRmxrS0FzQzh6N21EdTZDMXFZeUZHTDY2LXIzQTAwb0FRZktrQ3JZc2djcUtwY3B4Y0tLaUtDZlc2aWkxeGlORTY4bEtyckFvcmpMQm9JQkF0YjR3ellVaVdVZWRJS1h6UWVTZnlDMjNnOTB2NVd4REIxR3Bfc1ZzQWJuQ3RvUzNTMGh1VXBjaXlGbGFpOW53aUtPVTAtRXVlb0lJOHk5ZExld0NydmJvNWtIaFdjTTVmejQ?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxOUy1jSWxqNFFlU3JxcHprSXBycTBmVnJUZElsNEZqVHF3Z2JSOTQ5S25zN1U2Y1N5QklHMWJZLVBfaU11OUNId3NMRzRNQWpJZkFoQXhodkhONk10NDQwZ0x1QXBSVnZhclp3NDFSaHFJdVZfa252TTlEdWhfaXhnQndBWTlKTmc?oc=5>
 
-### 当美国的国家庆典沦为特朗普个人的生日派对
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中国网
-- 时间: 2026-06-18 09:02
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTFBYdnBtYnVmempsYjhpSkdfMzljS3Z1SERxZmdMM19PWTQzQnhTOFVmMVJhdVBIaVZqaUdhdWVlYUhaa2c4ZjQ5Nmk3QXlGZkJObVU1U09vbktNLWFYTnUyMlJIaFp4cmt4LUtNYkttVQ?oc=5>
-
-### 特朗普爆料：苹果将与英特尔合作 在美国设计和制造芯片
+### 特朗普：半导体产业需要回归美国本土
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-18 08:34
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5yOFZ0TzBDaTFTbVBvNjlNUzhwUnlyd1JuZmtKVWowNzMzVENFU3ZvU2xVbnA3Q1E1bHpKS2JYSWVMemZVX3QxcHdJVC1WWUc0LUF4Tnd2WGNTRFhYUnByakFXZV9LUDR5VmRaNGd2ZFc?oc=5>
+- 场馆: 同花顺
+- 时间: 2026-06-18 04:59
+- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xMVNSQkRUOEhjWmpfQ3NSb0RnMmZ2SG11NDV6NzZuUmltaUVfaldhMG0tUDM3TWFIYk1NOFZ4dUlhcVlTRWxTRld5RUY5T2Y1dFltaTk3MHVGQnpwbDZPa3FR?oc=5>
 
-### 特朗普在G7记者会上高调感谢习近平和普京
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: dw.com
-- 时间: 2026-06-18 09:22
-- 链接: <https://news.google.com/rss/articles/CBMiowJBVV95cUxNS3VzRXVEaEc3NHFVZzhSejhsblhOV3EzM3haV3hnT0M4SjZHaUxPemxMRU1xSHRJM01Xb0hRbndkWXlNYzNlMWViSjk1SXhEZnlHYVdEU1ZBYktQcy1MOE8zek0yTE42MG5oMDkzNWJ2cG8yQzNwUy1UQzVrSmp0aDN0cmdqZFl6TWxsM0NxY0pSVXJ6VkFVV0FuWXJmWmZCVFhxZjZHUzdMbzZjUEJiVVRhTU12LWFDR24wQ1dXUFdtandlN2s0bDdWVGEtRnVrdE9Pc3Zfenk4UF9jb09ncXBTbTVUWFZ5N0dJb2huMkVBZEZQbXU2MTBrMmIwb0dqdVVhNzdwdkpNejNVOU1KTGdaaEI0ekl4RWdKcE1uUzlzLWfSAaMCQVVfeXFMUHgyaE1KNmZKRkRJeGtLdzBlcmdlM0lPUHhzQ1RtVGpDbmVxOF9FLXRIQk53NjVQVGE2U0ZTYkFFRDkwaklhd1J2dXZvRjJGZXd5ZDhqS1lOV3prLW1CbURnbWVDMEd6QVZSYnd0OW1uV3U1aVU2dU9aUnBSb0lnTE5QQlozSVVEdHZMb2tRTm9sZ1IzeEJuY1djbk1fbkxzNlJUMzZJZkloMlFMOFRLYUFGOEhybXJLNTJSZ1R3SGlLOUNuakc4YWk3QnVkVFYzY3gtb2N6cENPY2QwN1NFNDdac0d3NFlHS2pRVGRVbkVKd0hTX25QNkloYWNyTDR6T216eElzeXFFdktCcHlCYWtCQW92d05faXBoTjJuQWZ2RU5z?oc=5>
-
-### 对特朗普表态感到乐观，欧洲想把美国拉回俄乌议题
+### 在霍尔木兹海峡办“贵宾通航证”，特朗普又一次开脑洞 |京酿馆
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-06-18 09:04
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9FU3F0TktGNXU0Tk9SS3RtRFFaYWNBYUNMeEdrSEVUVGg1cGJNWGVpOFJUM2w2endhVXllMHB6ZEZMMzlmUWRBemU3SWM?oc=5>
+- 场馆: 新京报
+- 时间: 2026-06-18 06:50
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wQ1NqZzZwUU5aeHVUVXUxLURoQnRZN185YnpwU3RZY3ZkSE5tcnIydHBYclFqcHZGRGFiYm04czdsWEF4QmZsZldpenlGV3E0M2RGN0hCdmtjNmJpX1VmWnFaREE?oc=5>
 
-### 在霍尔木兹海峡办“贵宾通航证”，特朗普又一次开脑洞
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-18 08:03
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE9peElBUXdQczNwbDBBZVZWNTMxSnN6eDVtRDM0eWV3aWhOZ2lvMjhwSndGM1M2ejE4WnhtMkN2RmdIdG1qLXZLcmVRQkxvNjV3RzBNZTQ0anFhcmJKOW10ZW9oT3RhRFJwTWxvaTU3dkMyQlpEYUE?oc=5>
-
-### 巴西总统警告：特朗普勿插手巴西选举
+### 巴西总统卢拉，警告特朗普：别来沾边！
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-06-18 05:18
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE53STYxSjFhQjdfRlFUVVpzUWhjajl2ajNuRWhRMTllUWFpdG53Q0FsOUlET3g0Q1ZBeS0tcFY5Z3ctOFI5dlhhNFo2aXlubTl5U0J2SUZZd2I0bmF0bVE?oc=5>
+- 场馆: 每日经济新闻
+- 时间: 2026-06-18 09:21
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBlZnNoRy1OWjZBenZIa01JQmdHQmo0WjJpYjltd2E5VUVlaWlKR1NYZnNNUENDZ2p2MFQ2RHpwRi1oRFFMcGgtOG94V2o5bEpoeFdKdkhIR0hGMy1rUUFsTC1yRk9hQQ?oc=5>
 
-### 莫迪与特朗普会面，“熊抱”缺席
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-06-17 12:49
-- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxQelNwOFg1Z3FuX2ZDQmxaRnZCdVNpY0JHZXJrdDRaQjlweVBSTEJnRHFRVUhFNS1qdk0xeW5ZU3BXWVdFNkdmTU14MlZyM204c29aMlBydjE3SEZNSVpRTkFGeWR0QjlSLUdyd0MzU1NsM29hbmxNRGFaUjNSckk4SzVCNC12NFBjdTEwLVJJWndYakxD?oc=5>
-
-### 特朗普会见莫迪，“对美军炸死3名印度船员毫无歉意”-观察者网
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-06-18 01:16
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBhR1VUSkpLaVQ5dUk5U091b2xzLTR4ck5rc1VSRnNFeV93U3M3Y0ZQVDNOU2hSdnpFWDZCeTBmY0NHbnhTbUYybGUtb1hDaG10TzVKN2pqOE94ZWFUYlpvREhvUVp2c3Vvenc?oc=5>
-
-### G7峰会期间双边会晤，特朗普与莫迪再度上演亲密互动
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-18 09:32
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSll5clpjRDhfVC00M1FjX3J0bUI1Sm1VTlhYZ084M3g2VTd2WnA2UFZrTGFxN0FHN2hPOXVrR1d2MVF1S1c1ajRhRlJWMDRNX3VEMjF4a2JiSTRZVlFPOFFVWkVaeGQ3ZmZ6Qy1PYlhKWkEwdDdSQXVMcnd5Vk56NlNvWjNwbmw3S0l4X2EzYUZ5QjBKVlRwUk1YdEdZSWl5MVlaX2VvZHctOTdmbmF5QlZRbU5LVmdxaHp5TzdkZXRITE5YM2s1V0J3bklqQWl3UWZzV1NYeHVyRU80MERF?oc=5>
-
-### 特朗普白宫宴会厅造价7.7亿元 一半来自纳税人
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-06-17 00:42
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE83VGI4QjB2aDRTWFhkM2pnUjkyLUMyMEhvNzB6VlAzOUtNTU9VWGtDUERiWks3Z0FaY0pwdXktX2Rha2Q1eWo2a0ktTHRkeXJnS2ZONmVBTHAxeVl0TFpabWVCakdmdw?oc=5>
-
-### 跟上 Trump 的脚步
+### 特朗普在G7记者会上透露：希望日本参加对伊朗战争遭拒绝
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-06-18 05:30
-- 链接: <https://news.google.com/rss/articles/CBMi-gJBVV95cUxOdXB0M18tcTZPUERUYXpVTFpDRzBvYVpuckxtaUNHb3FkbGN3b3dGRmI2bkpqY20tbmx3MFFnNTlxT05lTUJ5cF9KY3VyQXRJWjkyTUtRdjJ1aXN2N25XcVZ2TWhrSC1fY19EWGtfWDUwcFozMzZ6MHNkcUo0dDREYjhydTFVM0pnUjJObm05YzNXZS0xSHBacEx5ODRNQWtlMkVac21xWUlheG1RR2hwZ0ZJQUU0T0VzdEhoQS1NOTctTy03QkN6a2VWTV9UalhMTFBIR0ZIOE9BU1p2R2FaeFp6bG5IZktYNkZOUXVnZEc4LWJpUzEwYXJBcGtvYmhYMXdPd3g3Ym5CaVhKeV9Hd2lsenc0eWZMMTlvZ24xckNlSEJ3YWZOSDBlWERNdkp6d1BUemFyWVJxaV9RN1o1bVhjbUJ5NFJHWDViUjJ2Vk5WUThGZkhXRENvU05jMjJ6ZFlZTXpHc2N1Z0dQTmRiRW9UTnFXbGtNV0E?oc=5>
-
-### 美国—伊朗协议包含哪些内容？
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-06-18 06:22
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJbXdDQlNEdXVXcVk2TFdoZ216WjBPTmgxSGpxemlxcjlXcDdPYUtlUzB0UTFfc0ktSTBmQjZGd2hkZ0l0b0JaeGxDS3VsWFhTTGcwakFtajBsMXNYdVNPdGd6eEY1UdIBa0FVX3lxTE9CWXByb08wcmJLNmp5VzA3Y0ZlX2c1UFg1M3JhZFZybmZkQ0Zyd3pDVXJOd2RVQ0NsMUptT2lGTGtYdGRPUkVDWVBXRGo4blduV013YzlHV19wdnpobUJtM2tUazdySnZvRkgw?oc=5>
+- 场馆: RFI
+- 时间: 2026-06-18 10:41
+- 链接: <https://news.google.com/rss/articles/CBMigwNBVV95cUxNUnZBVktkX1hhdFdRYnhVRnNBYnEtWTBGNTNWenY4X3ItSk1obmN2Z1UwTzU4Vzg0TGtWMGdtWkl4M2lBX1l0RDNQSVY1ZHpiWkYteG1tNmpIZWp1cGU5RHZFbnVIT1RvNlp5ZVl1WWJYWVU4b0g0MXZScTVDTHJRblRSZWtOQnRqWURqV0E2X29EZHNkZ3lybDZNLVpZUGdaQ1gxR255Q2diUXU0S0JBeGItendfVl9VSVFfSWNVUlBsekEzZDNzb2Juc01VRzNxaG5RMHBuRjl3dDBCUHJrTlh6NDRGTEJPUE40ZWhWT0lBT1psdVB6ZWhXQVllOVRDTTZlakp0VUN1cTlMckZzc0J5RnlMelBPT0hNZ2hXZ19QZjNxd0VfcHhKVTNGRFNfUTFNVkJLODRqMWs0ZDBwSW5MOVlYR0FJVWhOTF82OF9rS2ljNk9ydGQza1hHeTlzS0JfQ0hzWDZOblkyNGtwc0ZCSGdvRXlVVm1DdzkyNGRhc28?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-18 12:51  (12 条)
+
+- **蔡徐坤** | 蔡徐坤《KUN》专辑签售名单公布，350人获资格 <https://k.sina.com.cn/article_7096020439_v1a6f4add706801s1t6.html>
+- **周杰伦** | 周杰伦鸟巢演唱会嘉宾曝光，邓紫棋王俊凯林俊杰将同台 <https://k.sina.com.cn/article_6354475832_17ac19b38040019tuo.html>
+- **特朗普** | 特朗普称不反对伊朗拥有弹道导弹 <https://news.google.com/rss/articles/CBMieEFVX3lxTE1PVkxKMVllaUd0dE5KSHkzYmNjc1MyZENmUWhzREhWbmgzdTFZWXJlX3A0Mk4zZnNRLVZOMWJobnBFTE8wRzY5Z1hVQ2xzc293dENqVktQeFk0TVdOODhlelBOR2lReEp3cko4bXEyVmdEM2tRMllOdw?oc=5>
+- **特朗普** | 要闻解说 - 美伊临时停火协议细节披露 ：特朗普明显输了？ <https://news.google.com/rss/articles/CBMijgNBVV95cUxNQmRHTFhlNENaUGFadUxSc0RiRm1aSmF4ZWJYS01qYUFIZmR3X3BRWEtPZnJYV09jcXZzOUhPV3RVSmlkVllnVHVnYk95Q1FsbXU0NTdjQjh4RXp0YVg0bmxZemlDZ2tHNFphNGJVQkhFUXdKMVlrc1VMVi1IZ1BXdm9fRHN6RF9aQllXQlNwUkQ4RE5YZ3FMcFBtOXZ4WFd2UmlaR2o1UURKWUM5ajdfNDFlNnNLb2lvSkNrcnItYzhmRk1yd0tRQzVwYWR0RVVMcm50U0JreGJXRXhYNGh5RGpSRlBsUTVWUzh5UnFFa0FVY0laNWlHVVVEaFB4ek9nZUZuNm1IN1dlQzBsUzhNbXA4dnU1VXhaNkwybFlJNGZMOXdtQzVfM2lPUllzMDRYdnJaa2drR25ManVOVFNwQzE5WVZITTl0TVE3S2F6OFc5NzNlWGg2WE5wVkFyZVdtX0VLbGV0YTlKVjZ4X210d1AyOU5oZjdoQlAxTFh2eU0xQmQyZmI1ZWtDUzNndw?oc=5>
+- **特朗普** | 特朗普G7峰会迟到，还宣布“我是老大”-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE1PTEVRa29vSkQ4aFZ0bUxGTXV6Vm40YjRnOU1PZjlCVndCVUhFMDhUTTFua2RpcXE3RkJya25LNmhVbnBzVlM4b0VGT2MwY203cGx4ZkdEUDZSN3dyVUtMR05CemFJX3Q2LWc?oc=5>
+- **特朗普** | 特朗普G7峰会抱怨座椅全场最矮 <https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQU44a2FZSmZJVlhlMXo1YzFobFdXNWQ4Ukp2bGlUMFBNSXVmUVhoNlBUYXY1b1hWOG5TQ1JhNldleGJVZC1wcWx3WDZ6UjZacDBNaDdDQktTZ2Voejl2TUNaZm9fSHNMTFpYOFVYLWVvajE3Z1NOQjgzamV1VGJYSHNLWG9nNnBLT0doVXQyZGRheG8xXzFnWkUwVFZHaHNBcVZ0WlNaUEl0X0xOMEk3Qm9IY0IxUUI0LVd5cXlJdWFobmRFMzQ4YzBFbV9ERzdhblBCLWJEMWR1WGFwWVFVYmp3?oc=5>
+- **特朗普** | 特朗普宣布取消国家情报总监的提名确认听证会 <https://news.google.com/rss/articles/CBMivgJBVV95cUxNVUNRaF9jME93YlNEWTdmMmVycmpYWmEtWTRKXzdXbl96UGpaSDFSLU1KblM3SVlsVVgzSTlMT3dlR0VuTWYzMGgzd093SHlpMFBGNFhCblhrMGZwS3NxZHhTRm15WHZTNEtEYjdLU0JDQWNDeFBDdHJpZ01wcG9pUjdKd0V4djhLd2hZZndaYmg1Zmc5WWxKcml6eUtPbTI2UzVWakhwMHJEbUFPLUN3bWhpSDZjRUhQUDZVU25CWS1rOG5pRm11R3JHbmp6S0VvWlgtc3FEYS1MT2RYbmhTYTlBbTA4WURSdURjM1RuaTJGUGdQc2stZU53WGVRQUNsOGNUQTZtcERuMThPRXo2NXotelpLYjNrUm52WC15eHdxYVdyT1RValZxdkZtdGxsOThTWUhTd2dDV3dTOVE?oc=5>
+- **特朗普** | 特朗普宣布英特尔将与苹果合作开展芯片设计，英特尔盘前大涨9% <https://news.google.com/rss/articles/CBMihwFBVV95cUxOUy1jSWxqNFFlU3JxcHprSXBycTBmVnJUZElsNEZqVHF3Z2JSOTQ5S25zN1U2Y1N5QklHMWJZLVBfaU11OUNId3NMRzRNQWpJZkFoQXhodkhONk10NDQwZ0x1QXBSVnZhclp3NDFSaHFJdVZfa252TTlEdWhfaXhnQndBWTlKTmc?oc=5>
+- **特朗普** | 特朗普：半导体产业需要回归美国本土 <https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xMVNSQkRUOEhjWmpfQ3NSb0RnMmZ2SG11NDV6NzZuUmltaUVfaldhMG0tUDM3TWFIYk1NOFZ4dUlhcVlTRWxTRld5RUY5T2Y1dFltaTk3MHVGQnpwbDZPa3FR?oc=5>
+- **特朗普** | 在霍尔木兹海峡办“贵宾通航证”，特朗普又一次开脑洞 |京酿馆 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wQ1NqZzZwUU5aeHVUVXUxLURoQnRZN185YnpwU3RZY3ZkSE5tcnIydHBYclFqcHZGRGFiYm04czdsWEF4QmZsZldpenlGV3E0M2RGN0hCdmtjNmJpX1VmWnFaREE?oc=5>
+- **特朗普** | 巴西总统卢拉，警告特朗普：别来沾边！ <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBlZnNoRy1OWjZBenZIa01JQmdHQmo0WjJpYjltd2E5VUVlaWlKR1NYZnNNUENDZ2p2MFQ2RHpwRi1oRFFMcGgtOG94V2o5bEpoeFdKdkhIR0hGMy1rUUFsTC1yRk9hQQ?oc=5>
+- **Trump** | 特朗普在G7记者会上透露：希望日本参加对伊朗战争遭拒绝 <https://news.google.com/rss/articles/CBMigwNBVV95cUxNUnZBVktkX1hhdFdRYnhVRnNBYnEtWTBGNTNWenY4X3ItSk1obmN2Z1UwTzU4Vzg0TGtWMGdtWkl4M2lBX1l0RDNQSVY1ZHpiWkYteG1tNmpIZWp1cGU5RHZFbnVIT1RvNlp5ZVl1WWJYWVU4b0g0MXZScTVDTHJRblRSZWtOQnRqWURqV0E2X29EZHNkZ3lybDZNLVpZUGdaQ1gxR255Q2diUXU0S0JBeGItendfVl9VSVFfSWNVUlBsekEzZDNzb2Juc01VRzNxaG5RMHBuRjl3dDBCUHJrTlh6NDRGTEJPUE40ZWhWT0lBT1psdVB6ZWhXQVllOVRDTTZlakp0VUN1cTlMckZzc0J5RnlMelBPT0hNZ2hXZ19QZjNxd0VfcHhKVTNGRFNfUTFNVkJLODRqMWs0ZDBwSW5MOVlYR0FJVWhOTF82OF9rS2ljNk9ydGQza1hHeTlzS0JfQ0hzWDZOblkyNGtwc0ZCSGdvRXlVVm1DdzkyNGRhc28?oc=5>
 
 ### 2026-06-18 09:51  (24 条)
 
