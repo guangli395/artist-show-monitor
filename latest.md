@@ -1,86 +1,73 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-17 22:57**
-- 本轮扫到 3802 条, 新增 **9** 条
+- 最近更新: **2026-06-18 00:16**
+- 本轮扫到 3808 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (9 条)
+## 本轮新发现 (6 条)
 
-### 新浪演唱会热点小时报丨2026年06月18日06时_今日实时演唱会热点速递
+### 特朗普威胁、卡尼警告……G7峰会还没开幕已裂痕难掩
 
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001906zc6g.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-06-15 12:53
+- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxQYUZaQjBnaUNERWdtYUlONGdQSWhvcm1CMUxmb1BWZnRQamxOQTUtMWdUUVRJUVRvamlmTFByZXFVNEhIdHQ2bHZHVjFMaExhVENLRER3YThyaVJpWW5OTE1wN1BWUkRKcXB6V2NLcU9tQW0zYUdVYTN3ajlsSVhhTm1OYjBBSmFJUFA5UjBHc2FFUkVV?oc=5>
 
-### 特朗普政府官员披露与伊朗达成的谅解备忘录的14项条款
+### 马克龙在凡尔赛宫宴请特朗普
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 美国之音
-- 时间: 2026-06-17 21:12
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTFBXcU9TV21MRHZvYl9LR29ueGxrU0NyVVkyNUFiNEE0QzFiQUZZMUV4eDdtQVdKUERlZ0gxcmxpLWhuZV9SMWF6VVZ1Y0M4ZHJheHVLV0FhRThfcGNNWlNGYl9jME05NVJ1cjZJZjRFb9IBckFVX3lxTFBYZHBvcTF6LU40ZmpWelhlY2ozMHAxYVo3X2ttdlYxc2xWYWl6R2pNalFtY3FIQXc2ZEgzT3MwREx5RWdTS3c0ZDFrN0E4OG5iZXdSQ09uNmtSNm5yNHRWSDZtanA4d2ZESk9qZEZHS29vUQ?oc=5>
+- 时间: 2026-06-17 22:20
+- 链接: <https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ3NCVzhlZE1PazRQV0NtTDFtM2JTX05EZHJHS3VHMzFKeGRVbW0tZEhGR1djTFNEbWdzVUFWRm02NVJISXBxT3h4NHBuN1dUQTE4b29jaUJYRUVMMGYyWGRPVjFGYkUxMkFnZmU4T0JGM19ZZG9fcVREcXkwenc1UnE0Y1JybGV5U1V1OGdRVDFCZnJBZWhIRkZlRnFXM1ZGT1QxedIBpwFBVV95cUxPbU81NFdxdjZGRzN5cWNGR2M4LTRIT0V6eWZGcGpydkIySzUyNmxobV9PaUFlR1NhNVUySTVRWnpES255SHM5ZkRnLUNhZjR4N2x1SjBZX0YxTllfWDZVZkt3Mko5TFB6QmpvZXhESzk1cWJLTjN3bmc0TmtyRjI0dkwzQ29HX2FxUXZfaTlYUVBwMmV4Um15bUpyVDNpcDU0MHR3WkYwcw?oc=5>
 
-### 特朗普：美国不会在伊朗投入任何资金，美伊已成功在线上签署谅解备忘录，现在协议谈判已进入第二阶段
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-17 22:45
-- 链接: <https://news.google.com/rss/articles/CBMi-AFBVV95cUxOTklNRFUwVVZvWFIwYU9XN3JMem8zTExTbDh1TUNJOWYtQlA0WGFuNHJKYUVyZU53dWdUWHJsZGFvR2M2ZUJ2aGhxbnU5Y0tNYXY3cFdzc2w5MWNpNThVeU9RWXFmbTZiQTVleGpubHh6SU52NC1SU1pYSXVLZTVPSm9mWjFQdUxmNEZrWTR4RGNNa0l3bkVSRnZVeFE0ai14VWhFaGVBaVV6eDBEYnpaRW5SemphZkJBOElyTlZacVF3UVVZWmp2VG9uRjZGSThfalJQMlJZZ0ZLOWJMc0VKMFJUbDBuQXVTdHJCMlB5RDUtb3dmQ1EwcA?oc=5>
-
-### 特朗普总统、欧洲领导人及人工智能企业领袖在G7峰会上就全球人工智能规则展开讨论
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-06-17 21:24
-- 链接: <https://news.google.com/rss/articles/CBMixwFBVV95cUxPWUtsQkJtY05ZMC01SDhiYloyVEtHcmFmMDJBM2NQY3NhaExsa0ltdGstVWF1SVUwZVN6UUNnN0ZqZHZidTJZS1RBOC1Gb2FJeDhJNHdTYnBwZjZqN1ZxcjVzcWxhWHJBcVpJQ3ZEOElFc3hEN0Y3WXBBRmNDdERqenRyaEUydFZUdm9tNXZ5Y0dWXzNweTZtZllVSEd5clJIaDNNbFk4UFZFN0gzMXhjeklsaVBrLU9HbWpYMm9xYlVPVnR5WnJr0gHKAUFVX3lxTE9yNUpKV01xRmoybXd4YlF0a1BvWWNTbC1CVVF0d1ZtUjZWRVR0S0VULW1FOXpoVXd6QWJvNHF6YVdkWm0xMGNlOTA2eTlSR2VvbUhnbU1ZM0pDNlUzaFVsbndoaThmcFBXWVlnODViUEZWdWFlZC02emJiblJVVkpIZFFBaHJqdDhDbGRiRnJYY3l6aWllUVRKYWdpQjhSUDRQbEZzVzZDSUNFaDVjV3F1RDZZRG4tSkxNeFZhNHZIYXVWZmFYSGNSRUE?oc=5>
-
-### 刚宣布“开放海峡”，特朗普又要卖“VIP护航”敛财？-观察者网
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-06-17 14:05
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9XSy1TNldMNngzU0NDeWVRQk9nYlU2SGxnT2tvalRoWWhVbkJncHgzQ2k0a2tWRXJwWExiSVNYbjhVYjE2NGEwOVJCajJCOGtGYUlqTF9aNUJhR3NMZkM5cWhRV3lFSWYwVlE?oc=5>
-
-### 特朗普G7峰会霸气发声“我才是老大”，对乌态度转暖
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-17 17:04
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxQTkc5clZzWFZZaW9XSEJGaWt2VHRhYzhwUUFqbGZ3Z0RRcDZ4SXQtTTBmNWJLMjg0VHg0eWRRYldvT0V6ZHV0dnM2QzlxcDF6RjBSMThhT21KWXcwalMwQVZkeUtpWHZYOWZOdUdNY3BpSXhfbzh6MU84Y0M2NkRyc0ZvV2phNW8?oc=5>
-
-### 对特朗普表态感到乐观，希望美采取更多措施，欧洲想把美国拉回俄乌议题
+### 担心美伊协议受干扰，不想黎以战火再继续，特朗普激烈指责以色列
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 环球网
-- 时间: 2026-06-17 07:30
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GMGFrdU9zdldGTWgzUl9CRFZ4VEpfbkNlXzg4LU45Uy1OSE1YamZlaVpZRTVCU2MzUWJCZmlJa2F6a1JKS1hxcWNHRnI5S2RaMF9tLWFzbms?oc=5>
+- 时间: 2026-06-17 01:34
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTFBJZlRfVHh0ejR4QTUta0wzR2k4R3BuQkpwQkloaFNnTzVZZnBnTUhCQkprTDVqdzUtNWtMWmlqaDRtcm0yYl9CUFVBM0k3R0phUlpEN0pQRnY?oc=5>
 
-### 韩总统李在明请求特朗普牵头 和平解决朝鲜问题
+### G7峰会：欧洲领导人为何又对特朗普以礼相待
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 纽约时报中文网
+- 时间: 2026-06-16 17:01
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE5WRjluc3lyUExnZDV4b2xYVHhCLUd4ckk3MVU0YUZJNVBYZlA1REhrQmpWVnpPazJVb2xDRTdhek0wWjV4SlpmMUFqZ0E1NzJHRjhHN1RRUUJTWDJYemN5RU5FLWlMTnVmNTZqREhFcw?oc=5>
+
+### 特朗普白宫宴会厅造价7.7亿元 一半来自纳税人
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 联合早报
-- 时间: 2026-06-17 06:18
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE4yUHRycjkwUVRlNjB1ZnFLalcySERGT0ZEeFpxd2t0eU1YTGR2MWhQLUc1OHlEenl0UUJlcjl5UUx0cmJpUW9IU0txN3dYUWdndGdhdEdYZHdubjd2Vk5pQzVvTFBxM2dHbGc?oc=5>
+- 时间: 2026-06-17 00:42
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9Sc1V3X1RIdnV2VGZ5Sk9rQnptcE1PMjYxRDFBS1h3NTB3QWJMcWt6QlNreFU3TkJRSzduYUt3Vm15V3ZSNXJqQ3k1MGIyZURwSElkNzRQS2JaWTFvdHNZRVhlVFlnS25jeWc?oc=5>
 
-### 特朗普总统表示，美伊协议实现了“我们设定的一切目标”
+### 谢谢trump
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-06-17 21:55
-- 链接: <https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdS1hWk9PNDVOcy1YRWExRTZ2dHdZUXVlU1RVUjJ1VG5sNXZSVXdhbjNWR2JZSUM5SE9WQy0zUVd4ajNLczFZa0lmWWZ3Z245Q2RULXBEOTJCVElMOF90X04zR3RMbHRSbzB6Z09aRFFKbjcyMlpsTUdHNUZmVG5vY2RPVDllVlgxeHhxN1JuX2dvQURLOGc5dnd1ZXFoVjlrVlhoejN0akF2ckpHZDF2c21SbEF6dEdSdGlvZEF3VUhSTmRCajFTSdIBywFBVV95cUxNU1QwRVpmel9fZk5nVFZsV0h0bVJDZ1pENTMtYzhpQ1NIa2xWOTRDa3VkNG1fT0RzdklwWV9aa1pDZFdOVkJGMnB6amhHWHVhTHI0ZUJiU1dwbDlrRzUyT2hLNEgzY011aWlodGFzWW1zQlZneHB5V3Q1cmV0QXJRLWd4WS1mSjI2dkJjVlRfejh2c0FfM3NpSkRncDg5Rmk0c2pSSTJRUEVxNDVrTk9rZ0dnRDFkRklWX0dmemp3cjYxZGdPdlRzclpKUQ?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-06-16 23:51
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1PU1pQVE1oVzJJN0tLT2VTTk4wRFk3SzM2TFFxVGY4LTI3OTR1b2tPN2tYZDZ0eTFLOExnNHA3dFlWSU1pSEZYRXhkNDFoNG1KYXduZkIwWlBvOVg1TTE1SFBKYlhaUXZsdFZ3cnVQTmlETjZKQjZGcDhDN19lQmM?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-18 00:16  (6 条)
+
+- **特朗普** | 特朗普威胁、卡尼警告……G7峰会还没开幕已裂痕难掩 <https://news.google.com/rss/articles/CBMilAFBVV95cUxQYUZaQjBnaUNERWdtYUlONGdQSWhvcm1CMUxmb1BWZnRQamxOQTUtMWdUUVRJUVRvamlmTFByZXFVNEhIdHQ2bHZHVjFMaExhVENLRER3YThyaVJpWW5OTE1wN1BWUkRKcXB6V2NLcU9tQW0zYUdVYTN3ajlsSVhhTm1OYjBBSmFJUFA5UjBHc2FFUkVV?oc=5>
+- **特朗普** | 马克龙在凡尔赛宫宴请特朗普 <https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ3NCVzhlZE1PazRQV0NtTDFtM2JTX05EZHJHS3VHMzFKeGRVbW0tZEhGR1djTFNEbWdzVUFWRm02NVJISXBxT3h4NHBuN1dUQTE4b29jaUJYRUVMMGYyWGRPVjFGYkUxMkFnZmU4T0JGM19ZZG9fcVREcXkwenc1UnE0Y1JybGV5U1V1OGdRVDFCZnJBZWhIRkZlRnFXM1ZGT1QxedIBpwFBVV95cUxPbU81NFdxdjZGRzN5cWNGR2M4LTRIT0V6eWZGcGpydkIySzUyNmxobV9PaUFlR1NhNVUySTVRWnpES255SHM5ZkRnLUNhZjR4N2x1SjBZX0YxTllfWDZVZkt3Mko5TFB6QmpvZXhESzk1cWJLTjN3bmc0TmtyRjI0dkwzQ29HX2FxUXZfaTlYUVBwMmV4Um15bUpyVDNpcDU0MHR3WkYwcw?oc=5>
+- **特朗普** | 担心美伊协议受干扰，不想黎以战火再继续，特朗普激烈指责以色列 <https://news.google.com/rss/articles/CBMiWEFVX3lxTFBJZlRfVHh0ejR4QTUta0wzR2k4R3BuQkpwQkloaFNnTzVZZnBnTUhCQkprTDVqdzUtNWtMWmlqaDRtcm0yYl9CUFVBM0k3R0phUlpEN0pQRnY?oc=5>
+- **特朗普** | G7峰会：欧洲领导人为何又对特朗普以礼相待 <https://news.google.com/rss/articles/CBMib0FVX3lxTE5WRjluc3lyUExnZDV4b2xYVHhCLUd4ckk3MVU0YUZJNVBYZlA1REhrQmpWVnpPazJVb2xDRTdhek0wWjV4SlpmMUFqZ0E1NzJHRjhHN1RRUUJTWDJYemN5RU5FLWlMTnVmNTZqREhFcw?oc=5>
+- **特朗普** | 特朗普白宫宴会厅造价7.7亿元 一半来自纳税人 <https://news.google.com/rss/articles/CBMiakFVX3lxTE9Sc1V3X1RIdnV2VGZ5Sk9rQnptcE1PMjYxRDFBS1h3NTB3QWJMcWt6QlNreFU3TkJRSzduYUt3Vm15V3ZSNXJqQ3k1MGIyZURwSElkNzRQS2JaWTFvdHNZRVhlVFlnS25jeWc?oc=5>
+- **Trump** | 谢谢trump <https://news.google.com/rss/articles/CBMif0FVX3lxTE1PU1pQVE1oVzJJN0tLT2VTTk4wRFk3SzM2TFFxVGY4LTI3OTR1b2tPN2tYZDZ0eTFLOExnNHA3dFlWSU1pSEZYRXhkNDFoNG1KYXduZkIwWlBvOVg1TTE1SFBKYlhaUXZsdFZ3cnVQTmlETjZKQjZGcDhDN19lQmM?oc=5>
 
 ### 2026-06-17 22:57  (9 条)
 
