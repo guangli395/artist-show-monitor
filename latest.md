@@ -1,102 +1,91 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-18 18:40**
-- 本轮扫到 3891 条, 新增 **11** 条
+- 最近更新: **2026-06-18 21:19**
+- 本轮扫到 3899 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (11 条)
-
-### 封神第一部妲己扮演者娜然 曾是周杰伦MV女主角
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019070vzk.html>
+## 本轮新发现 (8 条)
 
 ### 油价大幅冲高回落，特朗普签署谅解备忘录，美原油库存低至临界水位
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-18 17:05
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxQcnY0aEhJNW80UV9fNUgxUFpYNmpVRGVFQ0Q5N2IyWUNuckxJWmkzRkJSTGlQUGdwa2JwTW04RFNLR1FuLWEtXzk2QlktZDFtcDRVaGM3T3hvSXcxWWI4NDMzLTNidVhxSl9Wci13WHlxTXZ2UGdVaENPU0hxTHBkRE9uZ1BWWWxvMTdKd052SkNZZld4R01uVQ?oc=5>
+- 时间: 2026-06-18 20:48
+- 链接: <https://news.google.com/rss/articles/CBMisAFBVV95cUxQdkdHbUUzbTRiSkpoUk9JY3VyVmlHdHZJMXZWUE1OUjVRZHNCb2YyYkw1bHRNa3ZLZGhfSGhrQ2pQLTFtOG9DRnlKcXNIeF83UVQ1clY0SEt4TjlDWXJnU0kwQmVWX2ROU3Nlc0ZRRVlnd1g4TTMzclFFNWpTYm5tU2IyU1g2NG5QX0ZzalBISV8ydjM0dm12R1BNZHZMX3VZVjFfVDRhYU9kNnhMcVZSUw?oc=5>
 
-### 特朗普称预计“所有战线都将实现全面停火”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-06-18 18:36
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE95cjlhc3ZhWUYwdTBQNUZHN2JRUEJIYmFmWjhyZ1Ywd1RyZTZJOVFERkFpQUxqejZDazFlbUdjcGpZVzA4dm55OFEyZUtqb3dWdll5Nmx2Q1AyRDhiLXljRjRkdHFnNHhlYXo1Y08wZU0?oc=5>
-
-### 特朗普宣布取消国家情报总监的提名确认听证会
+### 特朗普：半导体产业需要回归美国本土
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-18 16:28
-- 链接: <https://news.google.com/rss/articles/CBMixwJBVV95cUxQRkc3Z0pXeU1FY2FyQjgtTWg1cm90RVlHbFRSb0U5cEZTZVNZMi1VMVZIRER3a2RxZ19hZWhnZlBsUzFVZlB4Y3FyOWJ3alNjUnIwcDBsVkpsTjBiT2FsUno0VlpZWmVnUDZVWnlPOUNCcTA3eGExdVUyRi1nZUM0SnpvSDlWaUVOVTdLZHVfOHQwU1Y1SHJrZHhLQXhnYkVDY1FVTndaa250a3ZHaHdHcVFrTjZBUG5zcGRibUdqY2lLSTNZeENLR3Mzd095Q2d0d1pGeXIxa0RMN1BIWEJwV1lvY3JoSFJ6ampsMTc4Wm9jV0xKOWQ2bzJDTzBGRGlfcW1uZVJhemwyOGMtcUdfbm0wVF9wblFGMFUzekVjTml4Z3RCR2dwTlhQenRSLWhBY1RTU0tnQWF3UTNWcjV4ZWtGN3J2OGc?oc=5>
+- 时间: 2026-06-18 20:24
+- 链接: <https://news.google.com/rss/articles/CBMisgFBVV95cUxNcEg1eG1hMWhtdldpTlFEZWFiUG5jekN0cmtSNHlheTd0TkRfWUt5T2NHdG9rS0tsU2NZbU00MG1XMDN6d1JuRFVvd3I0Znk5ZDdEcE5sbkN0anFCd2FPZ1hrazZQU2Z6YTNsYXZzck9uOUh4Vl9iQkh1RXZWTU5IUmJiWm41Y05ORk1uWFgtUHJpTkp6S3JGdkMwRUVwOWdpS245N2pUWjRuVHROUHRqVE1n?oc=5>
 
-### G7峰会期间双边会晤，特朗普与莫迪再度上演亲密互动
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-18 09:32
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPLTdUSWl3UERfbUJoWFNYbk1Sb3ozN0Z6TTJYNkhIRGVWdGdqN2VyYmtwdjl2cEVvLXBETkozY29DNTk0bEZYUk12OVJoeXJkcWdjYTZ4eGxDOTYwMGVXSUdQQ2pLNm9nREowZTMzRk5vOUJzdmtaTWpPb1JiQzNEWG9DSThpYlFhbE1zVkpCZGFPa3d3MFVtMXlPZWtGZFNhaTN4WnhuZHEweDR3SVp3NHI0cHJJVzhtSnh5SU1iZTFKb25SSlozWmI0b1FyTUFJdE9XZEEwbldxQXFBU1FZ?oc=5>
-
-### 当着全球媒体的面，特朗普又让日本尴尬了……
+### 美以历史上十分罕见！“特朗普可能意识到自己被骗”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪军事
-- 时间: 2026-06-18 16:26
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE9mUW9sYkxhSGQ4RVQyTGcxdnE0VWg3UEtlZjFhTW9qU2s2WUJJYUtjc0ZadWphcHhhSklRaHhIdjhsUF9KdFpWelg5SXQ0ck80ckdJa3Y2cDhaSV9KUm5xVzJxVk9Td3JhVllvSGkxTFZrVEk?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-06-18 08:25
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFA3R2c5MEY5SWUzbS1FdVJPc3R4Z3pUVEV4UEM1UkJoTTVPcVZPeExvbnVvR0Y2M2RFcXNWVENiSmdITkc1WXpuQ1RSUk4?oc=5>
 
-### 英特尔股价大涨超10%，特朗普官宣该公司将与苹果在美国开展芯片设计合作
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-18 16:45
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxONU9iaExDZ1lRRnc4TTY4ZmFaamFHaUFCLUluZDdqeGdyTmt2b19zRTFBUjdlc05RaFZ6QzhtM2toS2ZGcVZrRENBWjFnek0xNDd2RFU3UjVYYzR2UmpLb1liWGVISHE2aGRabjFNSmhHaFpFSWdGNWU1MlRNNWg2TXh2d2R5MU0?oc=5>
-
-### 刚刚，全线拉升！特朗普，重大宣布！
+### 事实核查：特朗普与红衣白发“神秘人物”会面？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 同花顺财经
-- 时间: 2026-06-18 09:16
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aSXZKLTI2aF80UnREcUdhT1JHSzZ0MFc5N1VPdXgyTHlvVW5FcWhkRHA1WkZybm1CWkpQNHJnMjJiN2NfQWV3OF9uclcwWkpYOHVsZGFkS1V0X0JIS1E?oc=5>
+- 场馆: DW.com
+- 时间: 2026-06-18 08:38
+- 链接: <https://news.google.com/rss/articles/CBMioAJBVV95cUxPYTFteW5uX3JmSTJKTVZpdDhtTWluYlV3WXpIbG5CMjdHaDlZMXRmbUhzNjJtSGY3Q1JNb0JlMDE1YjctanpZS04xeHkydElCT1dxT2ZvZFRFRGtjTk9Kc1N5UU1HczVyRjRrR215cDBJSGpfbkdkei1MX2pVNGxJMmtkZl8yUzdpb2hhZUp4N3lXcVRYdlhTSWdiOWU3NE1aUFM3MUVUUGFLX2J5M2ZzM0ZhRUs4Q1NZemdWTXFDRWtnRVBQekxTR1FBdXYxYWw2OFdwMHEtUmRLSWpXUmhrTUUyRVNIakRqdlQzQy05OHFMY0t1c3BsTGZ1ZS1PM2RwRmJhT2hMdFVWYnhEOXpvX0dJbzAtUkR1S3BmUnJEdDfSAaACQVVfeXFMTlMwVDBIZjBkR2hKVTZrQThqa2tjVFF2WWlTZklkREJSZV93c3pQWjBuZEVpdkVrTGFiU1RvMzZDLTc2bnE4amFMOXBMN2tpSDgyRUdHSGF2OWdJdXNHSmJpM0FGZ242MGV4YlVjRnhNdGNQSlhrVTA4T19xSG5RQWdvcHhGZ2hEd0d0MmF2VW5tdkMwWGdzbXpleGd6cGF2VXdpV3VXNVJfU0lDWm9aeXBjYUxvTmNEOVZObkJKOWNJRkV1X0tKcHk5enZITF83MDlYd0FreXpaWXZoLWlrVE1UVHpseG42T091dFE1MnFmdURaTjRla0FTWWV3UXZDOWRsWjZvVTg2Q3A3YzUwZkZzMWtmVy1FT0l1QW9pTUdy?oc=5>
 
-### 特朗普：4周耗尽石油储备！美国最大商业原油储存枢纽库存跌至警戒线
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-06-17 22:54
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FUnpZNFJIeTctb0dZV2t3eFVNOHh3eG5vVEJnQUlKaVBlZTgxRTlNUWJ6Y0NVQm9UUDIzOF9JY3MxOEhfaDlJUUFfN1BSc3JpOXdr?oc=5>
-
-### Trump says trade deals with India soon to be reached
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: TVB
-- 时间: 2026-06-18 14:22
-- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxNTmFfajAzX0NFQV9ITjd6Y2l2VnJOcFVobWJNZTJXQTRSa0UtWWlOQW1IUURnZkZzZDB4Ynl4a21RTU5fRkc1b3YtS3dET0lvRlNLdENHMVVGbThQSVN0QU9jVWxIUEpnMFdUOFMtMFB1RlpuZE5Wd0s4bTVxQUZ0ZA?oc=5>
-
-### 跟上 Trump 的脚步
+### Oil Slides After Trump Signs Iran Deal, Boosting Supply Outlook -- Market Talk
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: Moomoo
-- 时间: 2026-06-18 05:30
-- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxNMzlSdEh0M1UzMnhLOHpRQWxlWVFJS3cyU1lLQ3dZeXlrWS1QY0NZSlFva2JSM0pwN0tDcWtDTGVYVy1taGpSZ0lGNVg2TGVXanlIYWpBc3YxWFJhdVB5dGJyN0djZWVUdzZCaTlOTjVYSWdOUHc0R04wbnVHSHdOak5rN2pGRUZXbkpPcjBWUQ?oc=5>
+- 时间: 2026-06-18 06:58
+- 链接: <https://news.google.com/rss/articles/CBMirgFBVV95cUxOX2doYUNqQmJNYkZmVng3V3c5WDVDRUh5OS1JWmpobml1U3F0N2FySU1TX2p3VVdYVFdPbkJIRUdyV3FJRTJVaERWOEY3ckpHeWZGWm9weWw0VlZWMC1mZXZzRlE1aDVwZzhCRUR0U24wS094VUo2SnpCeUNfWkpWbkNIT09ZTlA0UEJXZUVLc0c2WEtrbUJxWXhFVUZQT19IYVBuM3N3UmhWNmRENHc?oc=5>
+
+### 法国报纸摘要 - 从谅解备忘录呈现出的美伊较量看，能笑到最后的是德黑兰！
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-06-18 10:50
+- 链接: <https://news.google.com/rss/articles/CBMi-ANBVV95cUxON2cwVngxclFwRkpQY0dyUS04VmxBenJNMDduQ0RhRGtURVhPckZBdUpSdGxhT0NSckROcE96OTZQVWYyLWtzZXZxSEZWaXlZQWlGR2ptenVGOXlnZkxzam5hcXRxcTdHTXlySm5wMm5iZnZpX3FJRk45N280dlRwSFVaN2twZk5UM05rN2FFd3FPeHprc3VQVUs0RnF1RDgweVk3dFRORm1kOWoxT1M2UWE0M1lERWJ6Mm5vaHo3Yy1nbnZhbzBldV9iVDVLOGxUVXRXaDZZT3Flc0Y0cTNRdV90MXpHYThwMmJfc2Z6RFFFV3cwU09zMkpBaFlKMmpnQldwMWlXaEs3Zi1oV1dMNFRNX0otdkZWQU42V2Zhb1BrMlI1cnRSWUViSUZfWHhFcEZqY3JOYkZJU2ZoSUlRVnhfemdQQUpzdHk2dTZaUEFGLTl0dXlBTTQ2TDdQbnEyMXRUUS0tVDhTQXBTYy1xSVZwYWFIWmJvSzJZWTB0UXRNQngxOFJuTXFSV3l0eUVVblowZXZicVJkWDhfVW1QMkdnOXZsVVRwYWZnX25EdzZIc2d3NURnNlBDYUtzaHpGck1tSXlVbTJ0R3IwanBwV0lxQWQybXNEbkhmNV81bHlPLTIyVld4b2xWem83RFk2dWk3blNOVk8?oc=5>
+
+### 中东冲突数月后，美国与伊朗签署和平协议
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-06-18 20:28
+- 链接: <https://news.google.com/rss/articles/CBMitAFBVV95cUxPLTdQV3k3dWgzRzZ5Vk8yQklmZEUwdURpcGgyTURfTm55VGI2Wl9mLXpLekFSQzgwaEVmTldtYU1DTUpfZjhxY0NKUkh0WWV2dGZ4eDg4eExfdmYxRlQxTW5iWVktYnN0OC1jd2Zxc2N4LUowRU1lUFRId0xSWEM1X21IRnVHSmpjSU1hdVRqQmdkTjBrQUlTQlI4MXVrdVdteThwUzQ4MElJLXB5VnFuWm5ydWHSAbcBQVVfeXFMTjJIT3h3eHVqRjJubWVZWXZFaVJuOVEzS3Z4ZHNIWXFua1VzUGpOcl9GZkVqT296ZjJTb0ItWE9pLXhQMFVoWXJfM2w1SlJuNllCZHRCeDl5TTkzUGNkUFhiazJtTHFMSFhJOTlPdnJ0bDNKRFI5U1ZvZXE1ZDA2UkJXYW1IMEx5Vnk2QzB2STBLcWR6empTRUU3MEZ4YlF6dUNmc3RuU2IybldQcW11T1V4TlJELVZj?oc=5>
+
+### 特朗普歪曲事实？美媒曝英特尔高管对苹果达成合作消息感到意外
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-06-18 18:28
+- 链接: <https://news.google.com/rss/articles/CBMiugFBVV95cUxOellXVEFxNFBFdDFHY3hJT3N0SkRNNWwtakhaTzd5bS1mamItR3BwLXBibEVnWmdTd1hUNXA3U2tBNlpQQkRPN3ZrRXBuM3diZmhOZlI2cUtVTnR1dkdmdnpxMGhQejRCbHBWaDkzNE1nSWRsbFF3VHpwT25LREhrZ19yWVhuOHlNSVhtZHdWUHVDRGliM3VPQnNweHFMNzd1c3hzbjYtdWFxNVQxSUxPQlJmY3RURVVMQ1E?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-18 21:19  (8 条)
+
+- **特朗普** | 油价大幅冲高回落，特朗普签署谅解备忘录，美原油库存低至临界水位 <https://news.google.com/rss/articles/CBMisAFBVV95cUxQdkdHbUUzbTRiSkpoUk9JY3VyVmlHdHZJMXZWUE1OUjVRZHNCb2YyYkw1bHRNa3ZLZGhfSGhrQ2pQLTFtOG9DRnlKcXNIeF83UVQ1clY0SEt4TjlDWXJnU0kwQmVWX2ROU3Nlc0ZRRVlnd1g4TTMzclFFNWpTYm5tU2IyU1g2NG5QX0ZzalBISV8ydjM0dm12R1BNZHZMX3VZVjFfVDRhYU9kNnhMcVZSUw?oc=5>
+- **特朗普** | 特朗普：半导体产业需要回归美国本土 <https://news.google.com/rss/articles/CBMisgFBVV95cUxNcEg1eG1hMWhtdldpTlFEZWFiUG5jekN0cmtSNHlheTd0TkRfWUt5T2NHdG9rS0tsU2NZbU00MG1XMDN6d1JuRFVvd3I0Znk5ZDdEcE5sbkN0anFCd2FPZ1hrazZQU2Z6YTNsYXZzck9uOUh4Vl9iQkh1RXZWTU5IUmJiWm41Y05ORk1uWFgtUHJpTkp6S3JGdkMwRUVwOWdpS245N2pUWjRuVHROUHRqVE1n?oc=5>
+- **特朗普** | 美以历史上十分罕见！“特朗普可能意识到自己被骗” <https://news.google.com/rss/articles/CBMiTEFVX3lxTFA3R2c5MEY5SWUzbS1FdVJPc3R4Z3pUVEV4UEM1UkJoTTVPcVZPeExvbnVvR0Y2M2RFcXNWVENiSmdITkc1WXpuQ1RSUk4?oc=5>
+- **特朗普** | 事实核查：特朗普与红衣白发“神秘人物”会面？ <https://news.google.com/rss/articles/CBMioAJBVV95cUxPYTFteW5uX3JmSTJKTVZpdDhtTWluYlV3WXpIbG5CMjdHaDlZMXRmbUhzNjJtSGY3Q1JNb0JlMDE1YjctanpZS04xeHkydElCT1dxT2ZvZFRFRGtjTk9Kc1N5UU1HczVyRjRrR215cDBJSGpfbkdkei1MX2pVNGxJMmtkZl8yUzdpb2hhZUp4N3lXcVRYdlhTSWdiOWU3NE1aUFM3MUVUUGFLX2J5M2ZzM0ZhRUs4Q1NZemdWTXFDRWtnRVBQekxTR1FBdXYxYWw2OFdwMHEtUmRLSWpXUmhrTUUyRVNIakRqdlQzQy05OHFMY0t1c3BsTGZ1ZS1PM2RwRmJhT2hMdFVWYnhEOXpvX0dJbzAtUkR1S3BmUnJEdDfSAaACQVVfeXFMTlMwVDBIZjBkR2hKVTZrQThqa2tjVFF2WWlTZklkREJSZV93c3pQWjBuZEVpdkVrTGFiU1RvMzZDLTc2bnE4amFMOXBMN2tpSDgyRUdHSGF2OWdJdXNHSmJpM0FGZ242MGV4YlVjRnhNdGNQSlhrVTA4T19xSG5RQWdvcHhGZ2hEd0d0MmF2VW5tdkMwWGdzbXpleGd6cGF2VXdpV3VXNVJfU0lDWm9aeXBjYUxvTmNEOVZObkJKOWNJRkV1X0tKcHk5enZITF83MDlYd0FreXpaWXZoLWlrVE1UVHpseG42T091dFE1MnFmdURaTjRla0FTWWV3UXZDOWRsWjZvVTg2Q3A3YzUwZkZzMWtmVy1FT0l1QW9pTUdy?oc=5>
+- **Trump** | Oil Slides After Trump Signs Iran Deal, Boosting Supply Outlook -- Market Talk <https://news.google.com/rss/articles/CBMirgFBVV95cUxOX2doYUNqQmJNYkZmVng3V3c5WDVDRUh5OS1JWmpobml1U3F0N2FySU1TX2p3VVdYVFdPbkJIRUdyV3FJRTJVaERWOEY3ckpHeWZGWm9weWw0VlZWMC1mZXZzRlE1aDVwZzhCRUR0U24wS094VUo2SnpCeUNfWkpWbkNIT09ZTlA0UEJXZUVLc0c2WEtrbUJxWXhFVUZQT19IYVBuM3N3UmhWNmRENHc?oc=5>
+- **Trump** | 法国报纸摘要 - 从谅解备忘录呈现出的美伊较量看，能笑到最后的是德黑兰！ <https://news.google.com/rss/articles/CBMi-ANBVV95cUxON2cwVngxclFwRkpQY0dyUS04VmxBenJNMDduQ0RhRGtURVhPckZBdUpSdGxhT0NSckROcE96OTZQVWYyLWtzZXZxSEZWaXlZQWlGR2ptenVGOXlnZkxzam5hcXRxcTdHTXlySm5wMm5iZnZpX3FJRk45N280dlRwSFVaN2twZk5UM05rN2FFd3FPeHprc3VQVUs0RnF1RDgweVk3dFRORm1kOWoxT1M2UWE0M1lERWJ6Mm5vaHo3Yy1nbnZhbzBldV9iVDVLOGxUVXRXaDZZT3Flc0Y0cTNRdV90MXpHYThwMmJfc2Z6RFFFV3cwU09zMkpBaFlKMmpnQldwMWlXaEs3Zi1oV1dMNFRNX0otdkZWQU42V2Zhb1BrMlI1cnRSWUViSUZfWHhFcEZqY3JOYkZJU2ZoSUlRVnhfemdQQUpzdHk2dTZaUEFGLTl0dXlBTTQ2TDdQbnEyMXRUUS0tVDhTQXBTYy1xSVZwYWFIWmJvSzJZWTB0UXRNQngxOFJuTXFSV3l0eUVVblowZXZicVJkWDhfVW1QMkdnOXZsVVRwYWZnX25EdzZIc2d3NURnNlBDYUtzaHpGck1tSXlVbTJ0R3IwanBwV0lxQWQybXNEbkhmNV81bHlPLTIyVld4b2xWem83RFk2dWk3blNOVk8?oc=5>
+- **Trump** | 中东冲突数月后，美国与伊朗签署和平协议 <https://news.google.com/rss/articles/CBMitAFBVV95cUxPLTdQV3k3dWgzRzZ5Vk8yQklmZEUwdURpcGgyTURfTm55VGI2Wl9mLXpLekFSQzgwaEVmTldtYU1DTUpfZjhxY0NKUkh0WWV2dGZ4eDg4eExfdmYxRlQxTW5iWVktYnN0OC1jd2Zxc2N4LUowRU1lUFRId0xSWEM1X21IRnVHSmpjSU1hdVRqQmdkTjBrQUlTQlI4MXVrdVdteThwUzQ4MElJLXB5VnFuWm5ydWHSAbcBQVVfeXFMTjJIT3h3eHVqRjJubWVZWXZFaVJuOVEzS3Z4ZHNIWXFua1VzUGpOcl9GZkVqT296ZjJTb0ItWE9pLXhQMFVoWXJfM2w1SlJuNllCZHRCeDl5TTkzUGNkUFhiazJtTHFMSFhJOTlPdnJ0bDNKRFI5U1ZvZXE1ZDA2UkJXYW1IMEx5Vnk2QzB2STBLcWR6empTRUU3MEZ4YlF6dUNmc3RuU2IybldQcW11T1V4TlJELVZj?oc=5>
+- **Trump** | 特朗普歪曲事实？美媒曝英特尔高管对苹果达成合作消息感到意外 <https://news.google.com/rss/articles/CBMiugFBVV95cUxOellXVEFxNFBFdDFHY3hJT3N0SkRNNWwtakhaTzd5bS1mamItR3BwLXBibEVnWmdTd1hUNXA3U2tBNlpQQkRPN3ZrRXBuM3diZmhOZlI2cUtVTnR1dkdmdnpxMGhQejRCbHBWaDkzNE1nSWRsbFF3VHpwT25LREhrZ19yWVhuOHlNSVhtZHdWUHVDRGliM3VPQnNweHFMNzd1c3hzbjYtdWFxNVQxSUxPQlJmY3RURVVMQ1E?oc=5>
 
 ### 2026-06-18 18:40  (11 条)
 
