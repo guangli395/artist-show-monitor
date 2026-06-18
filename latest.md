@@ -1,64 +1,227 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-18 00:16**
-- 本轮扫到 3808 条, 新增 **6** 条
+- 最近更新: **2026-06-18 05:14**
+- 本轮扫到 3834 条, 新增 **26** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (26 条)
 
-### 特朗普威胁、卡尼警告……G7峰会还没开幕已裂痕难掩
+### 小黄豆将穿保安服出席蔡徐坤签售会
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7275338464_1b1a4dae004002ojvk.html>
+
+### 签售名额争夺战：蔡徐坤签售会中签率激增攻略与理性指南
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801o6s8.html>
+
+### 蔡徐坤签售会的具体中签规则和资格要求是什么？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801o6s6.html>
+
+### 未来参与蔡徐坤签售会活动需要提前关注哪些官方渠道？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801o6s2.html>
+
+### 预算有限的粉丝如何有效提高参与蔡徐坤签售会的中签概率？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801o6s0.html>
+
+### 如何参加蔡徐坤签售会的名额抽选？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801o6qw.html>
+
+### 购买蔡徐坤签售会专辑后能否退货？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801o6qu.html>
+
+### 蔡徐坤签售会对参与粉丝有哪些具体的互动要求和限制？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801o6qq.html>
+
+### 蔡徐坤珠海签售会时间确定，只有350个名额竞争激烈
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801o6qi.html>
+
+### 蔡徐坤同名专辑《KUN》线下签售会的具体时间和地点是什么？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801o6q4.html>
+
+### 为了参加蔡徐坤签售会，粉丝是如何获得抽签资格的？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801o6q6.html>
+
+### 下次演唱会，杰哥可否身着精灵装演绎此曲？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_3775150330_me10438fa03301t0bw.html>
+
+### 周杰伦新歌《女儿殿下》MV上线，阿Ken出演奶爸
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201851_v1d45362bb06801eate.html>
+
+### 签字画面公开，特朗普：只要伊朗乖，我们会还钱-观察者网
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-06-18 03:27
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5TU2lOMGY1N2Zsa25VbXducGFSb0NhdjFSTm84T3JrNk9DRUFhaE5lRm5NREtYbGM5aG1hc09Od3hTYjBObUZwLUFsS1c0ZWNfX05MNU1BX0xPbGxFZ0hYWmFOT0FYUWJkaEE?oc=5>
+
+### AI领袖齐聚G7峰会之际，特朗普称与Anthropic的谈判仍在继续
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-06-18 04:43
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1QVHNXSWZBUzB0dFYwbTllRFZjeWQ3eDdFRksyY0NEOTVUeVAxWDgwbDM5VWY0QnQ1TGNuM1dDQ0ViWHhhSVQtSWwzdmREd2pxdmt5UGhWdFNyWThlbTJiOHVxdC03TzNUbS01NzQ1eUxvdDhuQXVkdmI4eVgzUTA?oc=5>
+
+### 特朗普G7迟到高喊‘我是老大’，美国领导力减弱对盟友利益是好是坏？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-06-15 12:53
-- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxQYUZaQjBnaUNERWdtYUlONGdQSWhvcm1CMUxmb1BWZnRQamxOQTUtMWdUUVRJUVRvamlmTFByZXFVNEhIdHQ2bHZHVjFMaExhVENLRER3YThyaVJpWW5OTE1wN1BWUkRKcXB6V2NLcU9tQW0zYUdVYTN3ajlsSVhhTm1OYjBBSmFJUFA5UjBHc2FFUkVV?oc=5>
+- 时间: 2026-06-18 02:51
+- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxOem5ldzZoVzlTbTlmZEJhcVlRU0Nycnd2VjVaTkg2WkY1ZXdsanRvNVZSOTZxX2cwckpNN2tUakJmNnFyY2FacVVuSGp4OVJodzdDczZyWHg0ZXdWb1duaTZTT2pqalRMMS1vandNUWtqSHNDQ1NPMzEwOEZ4dXNJY1V0Yw?oc=5>
 
-### 马克龙在凡尔赛宫宴请特朗普
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-06-17 22:20
-- 链接: <https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ3NCVzhlZE1PazRQV0NtTDFtM2JTX05EZHJHS3VHMzFKeGRVbW0tZEhGR1djTFNEbWdzVUFWRm02NVJISXBxT3h4NHBuN1dUQTE4b29jaUJYRUVMMGYyWGRPVjFGYkUxMkFnZmU4T0JGM19ZZG9fcVREcXkwenc1UnE0Y1JybGV5U1V1OGdRVDFCZnJBZWhIRkZlRnFXM1ZGT1QxedIBpwFBVV95cUxPbU81NFdxdjZGRzN5cWNGR2M4LTRIT0V6eWZGcGpydkIySzUyNmxobV9PaUFlR1NhNVUySTVRWnpES255SHM5ZkRnLUNhZjR4N2x1SjBZX0YxTllfWDZVZkt3Mko5TFB6QmpvZXhESzk1cWJLTjN3bmc0TmtyRjI0dkwzQ29HX2FxUXZfaTlYUVBwMmV4Um15bUpyVDNpcDU0MHR3WkYwcw?oc=5>
-
-### 担心美伊协议受干扰，不想黎以战火再继续，特朗普激烈指责以色列
+### 再一次，特朗普：感谢中俄在伊朗问题上保持中立
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 环球网
-- 时间: 2026-06-17 01:34
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTFBJZlRfVHh0ejR4QTUta0wzR2k4R3BuQkpwQkloaFNnTzVZZnBnTUhCQkprTDVqdzUtNWtMWmlqaDRtcm0yYl9CUFVBM0k3R0phUlpEN0pQRnY?oc=5>
+- 场馆: 中华网
+- 时间: 2026-06-18 04:00
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBvVUd4ckp4V04zemhuVmNtbmNhWElyWS1VZDEyZElPNlVDZmswNDh6YjdOR2hyVnpWNFhQUHRBUldlMjZmQUVwYVJYcXg5YklJYmFBYVI0RzlKelAyeHM0Z0FyT1ZJME1raWhMNjB2X2c?oc=5>
 
-### G7峰会：欧洲领导人为何又对特朗普以礼相待
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-06-16 17:01
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE5WRjluc3lyUExnZDV4b2xYVHhCLUd4ckk3MVU0YUZJNVBYZlA1REhrQmpWVnpPazJVb2xDRTdhek0wWjV4SlpmMUFqZ0E1NzJHRjhHN1RRUUJTWDJYemN5RU5FLWlMTnVmNTZqREhFcw?oc=5>
-
-### 特朗普白宫宴会厅造价7.7亿元 一半来自纳税人
+### 网友推测特朗普或患有糖尿病
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-06-17 00:42
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9Sc1V3X1RIdnV2VGZ5Sk9rQnptcE1PMjYxRDFBS1h3NTB3QWJMcWt6QlNreFU3TkJRSzduYUt3Vm15V3ZSNXJqQ3k1MGIyZURwSElkNzRQS2JaWTFvdHNZRVhlVFlnS25jeWc?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-06-18 03:15
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBaTjNKcVlCZWFFQ3FPbE9hR3VEeVhpOTB2a254Uk5leFhJaVNiQXR4NS05c213TnBhSVREZUFCalNtVEpPS1hFSW1kSDI?oc=5>
 
-### 谢谢trump
+### 特朗普：要不是我，以色列早没了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街见闻
+- 时间: 2026-06-17 07:50
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBySlJIMlV5XzZ1SXBOOW91SlF0TlVTa0hLekNRTm02YjVaNTFPLTZlY3lPUGtfTW9vMEJRQkVTZUduTnNBTTduS0llenpHdUVtZkVF?oc=5>
+
+### 特朗普G7开会迟到，进场先“定调”：我是老大
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-06-18 03:12
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE82TUgwR1hTdWZ1RUZiaUc1by1mSXJqQWZKMU5HRWpsYU5BZnI5dFdPVVBpdnRjaWl1NEN3MU16czM5TUpqTTVJT0VDek5GU3BpZGRjeDc0YVpyX0pxNHc?oc=5>
+
+### 马克龙见证美伊谅解备忘录签字现场 特朗普：这并不容易
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 央广网
+- 时间: 2026-06-18 04:51
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE5hTm1XWV82Q285SU8xZUVzOTFfUk01VURXTHJlMllUc2xPZXlmS193ZHZ4QndlQzlObnhsQ29XNldQbnkyT0J3V3JWT0MyUTVqN3hWbkc3M0J3S0kyZXBTNG5EdU1RZklQdS0wSHl4bWphN0RTbHc?oc=5>
+
+### 美官员称特朗普亲自签署美伊谅解备忘录
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: chinanews.com.cn
+- 时间: 2026-06-17 22:25
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qYVFKd0xYM1U3Qlg0b0hXZTJWdDc4OHgzZXd2amJadkcyMTNSUm9IcFFzeW1SOW5VOXRsSUxWZWVxN3RyLWo5UHJSdW9yb2I0SzBBNUNGTWhCenRqYVBVS2s1ZjlOd21F?oc=5>
+
+### 默茨向特朗普赠送球衣 号码47
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-06-16 23:51
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1PU1pQVE1oVzJJN0tLT2VTTk4wRFk3SzM2TFFxVGY4LTI3OTR1b2tPN2tYZDZ0eTFLOExnNHA3dFlWSU1pSEZYRXhkNDFoNG1KYXduZkIwWlBvOVg1TTE1SFBKYlhaUXZsdFZ3cnVQTmlETjZKQjZGcDhDN19lQmM?oc=5>
+- 场馆: RFI
+- 时间: 2026-06-17 21:03
+- 链接: <https://news.google.com/rss/articles/CBMi8wFBVV95cUxPbFdJV2dHaFhVZFNOTElXR0FjYmNfUHVrYXU4LXNmNDViVkRuT1NKSlQwNjVCa1hFdjljZll5OE1pQ2wwMEQ3VzdaZHdCWXRNSlBpR0FxY1JoWHp6R0FEcF8xWEdyVFozR2RuUTJ4Z1FBZlVaWmE3S2ZFV3NIOGJINDE4NmFGbTU4OHBkRXR5eXoyaTR4Z3FvOFR3RDNBMjBFeTI3ZGRnRlVLblFhbTFpYVZYWElacm5zQU5vRmcwdWJPaVh5dzZtQlVHQllGMkp2Sy1ybUlIcmt5RHVfVU9OZzVRQ3BJeXktNjNEUVUzSFhqXzA?oc=5>
+
+### 特朗普：“马克龙总统做得非常出色”
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-06-17 21:12
+- 链接: <https://news.google.com/rss/articles/CBMiiAJBVV95cUxPR0hPbm9NV3pfNkV1ZGhwZ0V5dlphMWdHNDBQMEpvTG9fZllpSFdxNE16cndpaDRQQWUwandiRHdCcGNmZS1TVzdwaXN5VWNnVWhBYWVuVmRKMDIyYWdHR0VJTEEyX1d6NEFqRWxyZFJtZVVGdEM4TXBVaGpmd0pJTEh4S0JyOGN5VjJnRkJ0YjJvRjZzYmpCdVBxTWRUbGlDRzc3ZURDWUxITndvZUh3WXdnU0dLMDdiZXVzRjJ3OHlMbElBak5yLWFPYnQxNUJVZWJxbjJST3FnMTVWT3pvWGlEUFNXUko5d1BfbEkyZ2pqUy1xUzFQSWttaEtmanduZEtnalh6dTg?oc=5>
+
+### 特朗普对国会提出新要求，盘点这些要求之间的联系
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-06-18 02:31
+- 链接: <https://news.google.com/rss/articles/CBMinwFBVV95cUxPTURZbFdrTlctemdjd2xPc3JwVTZYcnBIRHJ5QzVBd0IwOEFaeDRLblQ2Z1o1TEtLQkpHOFpBa0drNlJXV2IxR0pncHFEaW9DaUh0R2kydWlMRnVTbTlJS3JlMHN1M0MxWElLdmN3ejkzcUNNVUNsWE9FbDVCUE1NMldrYUxWVl9xdzFCMWFYVEtZdHZpUEJyVE5sbHpESDQ?oc=5>
+
+### 霍尔木兹海峡：船只仍然未能通过的三个原因
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: BBC
+- 时间: 2026-06-17 09:06
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rRjlhckJTaVlIMlVVS0k2UV9tMmw1QWkzNGo4eDI2V01uRGJ5RjJGMlg0MmZ3YlZmd00yRzBEZGpzN3hteFI2ZFVmaDNYZk9LNGpBODhDYkRzYUNITERndzdzb0owQdIBa0FVX3lxTE05bktmRXVwaEdRcEZSeVVtckp3X0dHNTdzSGlDNEt0S1RNSXV0RVQ5ZTJXRklqb3Nlb0d4UzZoQm5RU1N1dFdILWhKNlBpRTkwMjVDZkhfSGZNWFQ4VUVQZUJwN3FPNzJVRWVz?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-18 05:14  (26 条)
+
+- **蔡徐坤** | 小黄豆将穿保安服出席蔡徐坤签售会 <https://k.sina.com.cn/article_7275338464_1b1a4dae004002ojvk.html>
+- **蔡徐坤** | 签售名额争夺战：蔡徐坤签售会中签率激增攻略与理性指南 <https://k.sina.com.cn/article_7879776328_1d5abd84806801o6s8.html>
+- **蔡徐坤** | 蔡徐坤签售会的具体中签规则和资格要求是什么？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801o6s6.html>
+- **蔡徐坤** | 未来参与蔡徐坤签售会活动需要提前关注哪些官方渠道？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801o6s2.html>
+- **蔡徐坤** | 预算有限的粉丝如何有效提高参与蔡徐坤签售会的中签概率？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801o6s0.html>
+- **蔡徐坤** | 如何参加蔡徐坤签售会的名额抽选？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801o6qw.html>
+- **蔡徐坤** | 购买蔡徐坤签售会专辑后能否退货？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801o6qu.html>
+- **蔡徐坤** | 蔡徐坤签售会对参与粉丝有哪些具体的互动要求和限制？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801o6qq.html>
+- **蔡徐坤** | 蔡徐坤珠海签售会时间确定，只有350个名额竞争激烈 <https://k.sina.com.cn/article_7879776328_1d5abd84806801o6qi.html>
+- **蔡徐坤** | 蔡徐坤同名专辑《KUN》线下签售会的具体时间和地点是什么？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801o6q4.html>
+- **蔡徐坤** | 为了参加蔡徐坤签售会，粉丝是如何获得抽签资格的？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801o6q6.html>
+- **周杰伦** | 下次演唱会，杰哥可否身着精灵装演绎此曲？ <https://k.sina.com.cn/article_3775150330_me10438fa03301t0bw.html>
+- **周杰伦** | 周杰伦新歌《女儿殿下》MV上线，阿Ken出演奶爸 <https://k.sina.com.cn/article_7857201851_v1d45362bb06801eate.html>
+- **特朗普** | 签字画面公开，特朗普：只要伊朗乖，我们会还钱-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE5TU2lOMGY1N2Zsa25VbXducGFSb0NhdjFSTm84T3JrNk9DRUFhaE5lRm5NREtYbGM5aG1hc09Od3hTYjBObUZwLUFsS1c0ZWNfX05MNU1BX0xPbGxFZ0hYWmFOT0FYUWJkaEE?oc=5>
+- **特朗普** | AI领袖齐聚G7峰会之际，特朗普称与Anthropic的谈判仍在继续 <https://news.google.com/rss/articles/CBMif0FVX3lxTE1QVHNXSWZBUzB0dFYwbTllRFZjeWQ3eDdFRksyY0NEOTVUeVAxWDgwbDM5VWY0QnQ1TGNuM1dDQ0ViWHhhSVQtSWwzdmREd2pxdmt5UGhWdFNyWThlbTJiOHVxdC03TzNUbS01NzQ1eUxvdDhuQXVkdmI4eVgzUTA?oc=5>
+- **特朗普** | 特朗普G7迟到高喊‘我是老大’，美国领导力减弱对盟友利益是好是坏？ <https://news.google.com/rss/articles/CBMigwFBVV95cUxOem5ldzZoVzlTbTlmZEJhcVlRU0Nycnd2VjVaTkg2WkY1ZXdsanRvNVZSOTZxX2cwckpNN2tUakJmNnFyY2FacVVuSGp4OVJodzdDczZyWHg0ZXdWb1duaTZTT2pqalRMMS1vandNUWtqSHNDQ1NPMzEwOEZ4dXNJY1V0Yw?oc=5>
+- **特朗普** | 再一次，特朗普：感谢中俄在伊朗问题上保持中立 <https://news.google.com/rss/articles/CBMicEFVX3lxTFBvVUd4ckp4V04zemhuVmNtbmNhWElyWS1VZDEyZElPNlVDZmswNDh6YjdOR2hyVnpWNFhQUHRBUldlMjZmQUVwYVJYcXg5YklJYmFBYVI0RzlKelAyeHM0Z0FyT1ZJME1raWhMNjB2X2c?oc=5>
+- **特朗普** | 网友推测特朗普或患有糖尿病 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBaTjNKcVlCZWFFQ3FPbE9hR3VEeVhpOTB2a254Uk5leFhJaVNiQXR4NS05c213TnBhSVREZUFCalNtVEpPS1hFSW1kSDI?oc=5>
+- **特朗普** | 特朗普：要不是我，以色列早没了 <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBySlJIMlV5XzZ1SXBOOW91SlF0TlVTa0hLekNRTm02YjVaNTFPLTZlY3lPUGtfTW9vMEJRQkVTZUduTnNBTTduS0llenpHdUVtZkVF?oc=5>
+- **特朗普** | 特朗普G7开会迟到，进场先“定调”：我是老大 <https://news.google.com/rss/articles/CBMiXkFVX3lxTE82TUgwR1hTdWZ1RUZiaUc1by1mSXJqQWZKMU5HRWpsYU5BZnI5dFdPVVBpdnRjaWl1NEN3MU16czM5TUpqTTVJT0VDek5GU3BpZGRjeDc0YVpyX0pxNHc?oc=5>
+- **特朗普** | 马克龙见证美伊谅解备忘录签字现场 特朗普：这并不容易 <https://news.google.com/rss/articles/CBMidkFVX3lxTE5hTm1XWV82Q285SU8xZUVzOTFfUk01VURXTHJlMllUc2xPZXlmS193ZHZ4QndlQzlObnhsQ29XNldQbnkyT0J3V3JWT0MyUTVqN3hWbkc3M0J3S0kyZXBTNG5EdU1RZklQdS0wSHl4bWphN0RTbHc?oc=5>
+- **特朗普** | 美官员称特朗普亲自签署美伊谅解备忘录 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qYVFKd0xYM1U3Qlg0b0hXZTJWdDc4OHgzZXd2amJadkcyMTNSUm9IcFFzeW1SOW5VOXRsSUxWZWVxN3RyLWo5UHJSdW9yb2I0SzBBNUNGTWhCenRqYVBVS2s1ZjlOd21F?oc=5>
+- **Trump** | 默茨向特朗普赠送球衣 号码47 <https://news.google.com/rss/articles/CBMi8wFBVV95cUxPbFdJV2dHaFhVZFNOTElXR0FjYmNfUHVrYXU4LXNmNDViVkRuT1NKSlQwNjVCa1hFdjljZll5OE1pQ2wwMEQ3VzdaZHdCWXRNSlBpR0FxY1JoWHp6R0FEcF8xWEdyVFozR2RuUTJ4Z1FBZlVaWmE3S2ZFV3NIOGJINDE4NmFGbTU4OHBkRXR5eXoyaTR4Z3FvOFR3RDNBMjBFeTI3ZGRnRlVLblFhbTFpYVZYWElacm5zQU5vRmcwdWJPaVh5dzZtQlVHQllGMkp2Sy1ybUlIcmt5RHVfVU9OZzVRQ3BJeXktNjNEUVUzSFhqXzA?oc=5>
+- **Trump** | 特朗普：“马克龙总统做得非常出色” <https://news.google.com/rss/articles/CBMiiAJBVV95cUxPR0hPbm9NV3pfNkV1ZGhwZ0V5dlphMWdHNDBQMEpvTG9fZllpSFdxNE16cndpaDRQQWUwandiRHdCcGNmZS1TVzdwaXN5VWNnVWhBYWVuVmRKMDIyYWdHR0VJTEEyX1d6NEFqRWxyZFJtZVVGdEM4TXBVaGpmd0pJTEh4S0JyOGN5VjJnRkJ0YjJvRjZzYmpCdVBxTWRUbGlDRzc3ZURDWUxITndvZUh3WXdnU0dLMDdiZXVzRjJ3OHlMbElBak5yLWFPYnQxNUJVZWJxbjJST3FnMTVWT3pvWGlEUFNXUko5d1BfbEkyZ2pqUy1xUzFQSWttaEtmanduZEtnalh6dTg?oc=5>
+- **Trump** | 特朗普对国会提出新要求，盘点这些要求之间的联系 <https://news.google.com/rss/articles/CBMinwFBVV95cUxPTURZbFdrTlctemdjd2xPc3JwVTZYcnBIRHJ5QzVBd0IwOEFaeDRLblQ2Z1o1TEtLQkpHOFpBa0drNlJXV2IxR0pncHFEaW9DaUh0R2kydWlMRnVTbTlJS3JlMHN1M0MxWElLdmN3ejkzcUNNVUNsWE9FbDVCUE1NMldrYUxWVl9xdzFCMWFYVEtZdHZpUEJyVE5sbHpESDQ?oc=5>
+- **Trump** | 霍尔木兹海峡：船只仍然未能通过的三个原因 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rRjlhckJTaVlIMlVVS0k2UV9tMmw1QWkzNGo4eDI2V01uRGJ5RjJGMlg0MmZ3YlZmd00yRzBEZGpzN3hteFI2ZFVmaDNYZk9LNGpBODhDYkRzYUNITERndzdzb0owQdIBa0FVX3lxTE05bktmRXVwaEdRcEZSeVVtckp3X0dHNTdzSGlDNEt0S1RNSXV0RVQ5ZTJXRklqb3Nlb0d4UzZoQm5RU1N1dFdILWhKNlBpRTkwMjVDZkhfSGZNWFQ4VUVQZUJwN3FPNzJVRWVz?oc=5>
 
 ### 2026-06-18 00:16  (6 条)
 
