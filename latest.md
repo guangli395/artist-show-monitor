@@ -1,80 +1,103 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-18 23:15**
-- 本轮扫到 3907 条, 新增 **8** 条
+- 最近更新: **2026-06-19 02:14**
+- 本轮扫到 3917 条, 新增 **10** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (10 条)
 
-### 特朗普试图解雇美联储官员莉萨・库克，后者法律与安保支出超100万美元
+### 蔡徐坤首张同名实体专辑《KUN》线下签售会开启招募，6月27日横琴见面
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-18 22:18
-- 链接: <https://news.google.com/rss/articles/CBMixwJBVV95cUxNYXFXcFhnRDVpNi1lOFloVXdXN2Vrckd4ZDNTVW9zZmFUQlVjWVRFaGEyRmtjeHJSbF9HREtOUFAwOVNkWUhJVER0elFycUljSExtQVNmSW5xc1JlbWx5MVdzQ2JUdjAwQkZvSWVXUjB2NVBXUDJaYWZZaTlic25WUUlYcjk1NDJtYUhmczRmUnJzM0ZWdkxEVFhnejhzSldmMmptcUc5dk5rcGRqZmtENFFsZ0VabllMUDhBV3A4bFBTZWVhZ3lBdmNyVlBZbF9hMzVrM2MyS0drTTh4cV9hWGc1QkRQVVRuWnZmakU5ZjJVMnIyLXNrOG15LVlxVWM1cnBvUG8tZVdwSGhjSHZfbndkeThfZlBuWFh0WHRGeDhzVTJyWFBubU8weTNWVmhZc1l3ZXA0ZXdORm55ZlRSM1piam9CbU0?oc=5>
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019071ecy.html>
 
-### 特朗普总统：苹果将与英特尔合作在美国设计并制造芯片
+### 蔡徐坤这次珠海签售会的具体规则和名额是如何分配的？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-06-18 22:26
-- 链接: <https://news.google.com/rss/articles/CBMitwFBVV95cUxNTVRvc2p5UGVOVmpUbFJHRVNxT0lvaHg4NmJTMVpsdDVTcE54STloN01Ba1lkSXgtNGdCN3JyZVRpcWR5WGhpOG5BeDJFLTJVU0dsSzB1blYzbElubndlZUNqUW94eWhlejVBNGc4aWVZeGhSNl9WenRwUDR3WVFJRGg1SnF1bF9rYjdBOVV2SjRVLW1UdWNoNkxmR2RXNURfblhtSll5VjZtTUhYSzZwNWJMbXcydkHSAboBQVVfeXFMTWl4V1hCWUZoaHRMMXZXYmlBTHBiSHk1Yy10aURhbHN2VVRtbzAydXk1cXo0aTU0aEdrMTEzWFdxYUZyeTMtc21SNlBOZFZpaEI1TkI1UzluZ0JwQWd0R09lRTZGOWJQYkY0ak93MXF4TmNIZWtzRm9lUDM1eUxHWHF4RXdRZWUySEF6aVJQdXp2NnZ6UkJmdGtsdU5DeGltYldIQ0F6WGNHVV8wQ0dGcFVuTWFOZ0tHNVpR?oc=5>
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801oi96.html>
 
-### 台湾总统赖清德：特朗普两个任期军售皆满足台湾需求，对后续军售寄予厚望
+### 网红小黄豆为了蔡徐坤签售会总共花费了多少钱？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-06-18 20:56
-- 链接: <https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOEFQajlidEhLek1vbkNia2cxd0tNc1VyZ2stX0hKMFVVdDJqaG9LY3BxekRnUVNVTnVFSWkySVBYSHAzb25rVmZHdXhIZVlJNWl0NmdQZWVFN0lwRXZDU2xockRRcHotc202Y3JJWHZFZkU5Zjhna3VPZElUVjJUUzZYaVY4YnJCUkJlYjNtZ1BfNzJVdFRhdUx6Y2N2blR5RDRWWG5YdDgwa3hOYWRGd2NUN3JhVmV4WnN30gG-AUFVX3lxTE90aXlwMEJaQVppblBnVHJBdlMwNmJIWjF3Ukx4VDkwbUQ4TXY5aVgtbWtHTzAtMXlsMTFUUVlGUjRjblRDT0J2ajEwaXFGb2pMWEpSLVFsWXRidG1PbW0tbldKR2pXMFdoLV9tbEIyVC12SmsxbDRVeEtaOF95U0lhLW9ZZGk3UTItbE1sU3otY2lMbFdnY01CVFdCT2pEUWU3aGI4OEgwRkJ2X0xqYU5oRGRtai1tODNUdENfV0E?oc=5>
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801oi94.html>
 
-### 美共和党人急眼：特朗普犯下大错，里根棺材板压不住了-观察者网
+### 特朗普：伊朗战争后，我的权力依然“没有极限”-观察者网
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 观察者
-- 时间: 2026-06-18 10:46
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBpRnc2OUFwbTdrQ0dzZnF2cTBHOGxUX3p4ZjFSN1d6T0g3TGo5SDl2U3ctUDdxai1GZl80ck9YODhFa1RUZVFsWmE0eWpwX2dZdFZrdFhsZEJOU21KWkxVbFNZdS1JeHZDY2c?oc=5>
+- 时间: 2026-06-19 00:40
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE92Wm9lSDk1V2dWdE9CV2FxSm8zUnpZLUMzYlotRExWQWhLNm54UkpWUFg0dTRVbGpUTnhEWE1zTVFFRWxMSWx5X0dLSjk1dFVocUdfTEsxbnppamhUcXRrYXAwYm5ySEFuZGc?oc=5>
 
-### 特朗普跟马克龙久违亲密，特意要求到凡尔赛，73岁布丽吉特相伴
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-06-18 00:52
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5TbGw0cm5NSl9EeC1CTXlVNExXYVBpTXBuLV9uTGFfNVpHeHJkZ0p6VlA2TDdOOWMwUFVFYk5JRk15Qk9DVl9LZ0ZJNUg?oc=5>
-
-### 马克龙： 并不认为签协议后战争“已经完全结束”
+### 在霍尔木兹海峡办“贵宾通航证”，特朗普又一次开脑洞
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-06-18 21:06
-- 链接: <https://news.google.com/rss/articles/CBMixgJBVV95cUxOVmluY290NmNETUhVRS1VbFVHZGEzYllPd2kwZk5RSm1IZ2lFeGZzal92OGZsNEFyQzhXd3dUcU1GTmNoeW9paWJuNG9uVzE1cV9jMEVLZ0NDdlQ1VG9rSlUxOGZ6cHpkV1ZaQ2RBTTgtZHBsN3VsSXNvbW1NX1Izd29lMGwzMElhYTJNWUMyR0dScDcyMXlRb0J3QWpreUpVMy1NaEhXaHl5dzdCemg3cXd4SFc4RmJhNWpsU1VNVXN5Ui14bnR3TkFyenA2MWpNZEdyZ09jamFSbm1FNFczY2lrRVRhczFJcUgyWGNQblV5SDR5YlhCR2FKcEFBNnVnVFVCUFlPTkl4cFRZVlVsczhlTmNsczh1dTA5Y2ctdkpKa1BqeFN0QmJNa3dRN09lbnJ2emdPMUNNdG5tMnQtR25MeHpNUQ?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-06-19 00:14
+- 链接: <https://news.google.com/rss/articles/CBMi7gFBVV95cUxPSnRuZWF0QUlhYU51bndyNzBtR2FBN19mY0YxVWVsQVVhaE1DQmhYMTRVcTBOYU5pUnFFNjBiUjRTb0JZak5OczR2YkVZdjl0MGxrQmNlQk5vN3FENEZjWUlLNkRRNUhMdzg1RHVlbC1pSkJ6aFhUU285VUZMelVLMm9zZWN3RUJDWmFWa0s5cE5JekZaVTRtaHJnemhyTVk1anVWaHZSN3FqUjJFWjFTbkg3UkhiWlhWSE92TTZuTHR0VkZRN0FQd3JubzNyMW5JM3Q0ZjlSYjk3X2lPdWlrazh3aE5keVZiYU5STkZR?oc=5>
 
-### 特朗普：“凡尔赛是世界上最美丽的宫殿”
+### 奥巴马揭幕总统中心：好莱坞明星助阵，言辞暗刺特朗普
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-06-17 20:44
-- 链接: <https://news.google.com/rss/articles/CBMioAJBVV95cUxNOTN5YWlTTE04eUkxUUh6WUd5ZGdZUGRKMlpqcGR1cmpaQ0tJbXFZSTVlUFhhWTJRYUUxTDFPLTQ5OTMzcU51WXptZnVsSWUwWWdyT2xMWFNkckMyanFuOHFnclBYQW9TR05vMUpiX3V0X2hHcno5QnZvVS15dzM2NXk5dXZtbHdiV2hDQVc2bUlYczdjWWFSZXAxeXdWMmNHQTl0bGNSaG9BcWNXWGV5SzRDd2hFbmk3b3FpdjFoejlnaFBNSG9kbmVPOTM5M2NXc0dua2FrZk5SajJYS294MzhZVDdNRnVWc0ZEd2FIbTdOUHpvNTRaV3R3SG5IdUZfbnJJT1hTdl9yWHVIdzFPOGt6a1ZIVnRSZVRkOVFlRm4?oc=5>
+- 场馆: 华尔街日报中文网
+- 时间: 2026-06-19 01:19
+- 链接: <https://news.google.com/rss/articles/CBMitAFBVV95cUxQSnJza1Z4WEhzWFhnaGtFQ0g5UGx5NXI5VGhKNTN1NGd4ZTIxWWNNcTBYMlc4WFZIRmlsRHhmRVNVZ21Zb2dDRElkSGdrSWZnSVl5c3MzOEp6aE1sd0NZaU52TUdBTlpHRVJIU082bFJYektPdXZFeThLRy15bWZKMzJiSkNxNE5leXI5OC1qOU5ZcWk5bmJyU21nYnkyZEJzRzhScHFuUDhCc3UxX0R5TW5LMUU?oc=5>
 
-### 油价跌至战前水平，推动汽油价格降至每加仑4美元以下
+### 美伊总统已远程签署备忘录 特朗普多次赞许中方“完全中立”
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-06-18 20:36
-- 链接: <https://news.google.com/rss/articles/CBMikgFBVV95cUxQRF9aamg4Rms1WUp3My04c2UySFg0dUpoNXptMGtXVF8zUUVEOVFid2tXb0d0Um9JZll1cGczNF8zWm4tdV9Cc09LaTRqNk02V29XVXdIY2Q5b2k1dnhReWdnU2N4UmpjMksySFBpZ2taMzItMGxCanJLZmVkLVdxeWdlRV84aE1ILVhqeEpRcEY5d9IBlAFBVV95cUxQM3hCT005RE40ZTlQRmtMLXFLcTdkc1FRcWdGSXNfMVp1TDFibGRoR3dfR20ybTEwN1EyUHNDOGtLa2JfZ1VWZHNadnZDRDlhbFdIVzR6Wmk3cERwZ1JqT2VDZEZpZmY3b2lVNnpqZTh5VDd4TjhWMUhQTWIyQ3JrMnRNTzYzZXZVUjBQM0FvNU45MS15?oc=5>
+- 场馆: 财新
+- 时间: 2026-06-18 00:48
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE4tdk1IdlJid1Jqd1hwNjFtRnVSZUh5b2p0OFFFV0VVcmJMb2xBXzFWSHJrakFxUGNNVVdGSk5ZSWd1LTB1OS1WSEJZQktMblZyX1FzSG1aTVdwMzBUUzlZRTRwLWhHdGFOOFE?oc=5>
+
+### 特朗普宣布苹果公司将与英特尔合作在美生产芯片
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-06-19 00:48
+- 链接: <https://news.google.com/rss/articles/CBMi1gJBVV95cUxQQjZiZ3RveFpvQW9fcEdOM24tendMZ0o0dGVDQklLaUQ5clBSQ20yaHpxM1I2YU9vby1zU0ZGcmZrS3l3LTZZbHQ4TzFFb1hzUDVfS0ZVeXRhR1lic1ZrZWlLYXdwWmhkNjEtVERUUmlWS1RKdHlFUWJXTF9NbFBzMlA3MHBjTTgzWnlTdGRENl9hdExPQ0UyRG9jWEZvMm9OMnRGNkNiR2FyeDZCZkpXazlycXVwbElYY09RWk1EM0QtRFFVdTlmVlN4cWFxb1FlaWl2UUUyaGdpLUxwX3Q2OTY1cnZpQ3FRaWZLWU5pb2hBVkx3S3dSYjNNZzVTOVJBSVJnRWo3WnhNUVpWRDNVVmtTMWpBZlZCenV6ZF9UcW5KWV9TeUdHck5YdGRjajVMZmxraF9NRnpqQlV0eDdJSThaR3RDbmNmcTRRaEtUNkM5RVh2VkE?oc=5>
+
+### 特朗普：预计“所有战线都将实现全面停火”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 搜狐网
+- 时间: 2026-06-18 23:08
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTGZrT3BLeGltdExGZGNMYm1lYlIyTmc1WFlWU0M1V1NDakNTYjJrOXJYVnhpMDJnS3FWTXFiOHBWNEE2Yjh6cVdlMWlVRzR3X3ViZlVuOFBVenJ6QU5La3VZZ045bHMxLU5wNkdsNGtYWnZiYmRNMC0wSGZhUlM0NmotdTlodTRR?oc=5>
+
+### G7峰会期间双边会晤，特朗普与莫迪再度上演亲密互动
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-06-18 09:32
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUm5YZVdyMWc2NkJBbm90SlZLMTRGNEp1eXNkd3FUUDNvRDRjNW13REx0MjVhdGxOYmRTZmVlS3l1aWx6MkNEU3NENEJoVnlOZXF0eDVucFJxSDVSVGw1VUVjMUtIT3gyMHYwRko2NWVvd3B2QlRBZVdPLXlmcElINUQyOHZYSUY0eHVXQ1Z1NEc0WXhMaFhJM3pNc1JhdWx5N08tajBnNlF4QTYxMm8wblFKaWc3TzhXb1ozWGVWSXBiak00N3luMFNXRkxzMUNBM09wLVZNMkwwbEkxSm4w?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-19 02:14  (10 条)
+
+- **蔡徐坤** | 蔡徐坤首张同名实体专辑《KUN》线下签售会开启招募，6月27日横琴见面 <https://k.sina.com.cn/article_7857201856_1d45362c0019071ecy.html>
+- **蔡徐坤** | 蔡徐坤这次珠海签售会的具体规则和名额是如何分配的？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801oi96.html>
+- **蔡徐坤** | 网红小黄豆为了蔡徐坤签售会总共花费了多少钱？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801oi94.html>
+- **特朗普** | 特朗普：伊朗战争后，我的权力依然“没有极限”-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE92Wm9lSDk1V2dWdE9CV2FxSm8zUnpZLUMzYlotRExWQWhLNm54UkpWUFg0dTRVbGpUTnhEWE1zTVFFRWxMSWx5X0dLSjk1dFVocUdfTEsxbnppamhUcXRrYXAwYm5ySEFuZGc?oc=5>
+- **特朗普** | 在霍尔木兹海峡办“贵宾通航证”，特朗普又一次开脑洞 <https://news.google.com/rss/articles/CBMi7gFBVV95cUxPSnRuZWF0QUlhYU51bndyNzBtR2FBN19mY0YxVWVsQVVhaE1DQmhYMTRVcTBOYU5pUnFFNjBiUjRTb0JZak5OczR2YkVZdjl0MGxrQmNlQk5vN3FENEZjWUlLNkRRNUhMdzg1RHVlbC1pSkJ6aFhUU285VUZMelVLMm9zZWN3RUJDWmFWa0s5cE5JekZaVTRtaHJnemhyTVk1anVWaHZSN3FqUjJFWjFTbkg3UkhiWlhWSE92TTZuTHR0VkZRN0FQd3JubzNyMW5JM3Q0ZjlSYjk3X2lPdWlrazh3aE5keVZiYU5STkZR?oc=5>
+- **特朗普** | 奥巴马揭幕总统中心：好莱坞明星助阵，言辞暗刺特朗普 <https://news.google.com/rss/articles/CBMitAFBVV95cUxQSnJza1Z4WEhzWFhnaGtFQ0g5UGx5NXI5VGhKNTN1NGd4ZTIxWWNNcTBYMlc4WFZIRmlsRHhmRVNVZ21Zb2dDRElkSGdrSWZnSVl5c3MzOEp6aE1sd0NZaU52TUdBTlpHRVJIU082bFJYektPdXZFeThLRy15bWZKMzJiSkNxNE5leXI5OC1qOU5ZcWk5bmJyU21nYnkyZEJzRzhScHFuUDhCc3UxX0R5TW5LMUU?oc=5>
+- **特朗普** | 美伊总统已远程签署备忘录 特朗普多次赞许中方“完全中立” <https://news.google.com/rss/articles/CBMiakFVX3lxTE4tdk1IdlJid1Jqd1hwNjFtRnVSZUh5b2p0OFFFV0VVcmJMb2xBXzFWSHJrakFxUGNNVVdGSk5ZSWd1LTB1OS1WSEJZQktMblZyX1FzSG1aTVdwMzBUUzlZRTRwLWhHdGFOOFE?oc=5>
+- **特朗普** | 特朗普宣布苹果公司将与英特尔合作在美生产芯片 <https://news.google.com/rss/articles/CBMi1gJBVV95cUxQQjZiZ3RveFpvQW9fcEdOM24tendMZ0o0dGVDQklLaUQ5clBSQ20yaHpxM1I2YU9vby1zU0ZGcmZrS3l3LTZZbHQ4TzFFb1hzUDVfS0ZVeXRhR1lic1ZrZWlLYXdwWmhkNjEtVERUUmlWS1RKdHlFUWJXTF9NbFBzMlA3MHBjTTgzWnlTdGRENl9hdExPQ0UyRG9jWEZvMm9OMnRGNkNiR2FyeDZCZkpXazlycXVwbElYY09RWk1EM0QtRFFVdTlmVlN4cWFxb1FlaWl2UUUyaGdpLUxwX3Q2OTY1cnZpQ3FRaWZLWU5pb2hBVkx3S3dSYjNNZzVTOVJBSVJnRWo3WnhNUVpWRDNVVmtTMWpBZlZCenV6ZF9UcW5KWV9TeUdHck5YdGRjajVMZmxraF9NRnpqQlV0eDdJSThaR3RDbmNmcTRRaEtUNkM5RVh2VkE?oc=5>
+- **特朗普** | 特朗普：预计“所有战线都将实现全面停火” <https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTGZrT3BLeGltdExGZGNMYm1lYlIyTmc1WFlWU0M1V1NDakNTYjJrOXJYVnhpMDJnS3FWTXFiOHBWNEE2Yjh6cVdlMWlVRzR3X3ViZlVuOFBVenJ6QU5La3VZZ045bHMxLU5wNkdsNGtYWnZiYmRNMC0wSGZhUlM0NmotdTlodTRR?oc=5>
+- **特朗普** | G7峰会期间双边会晤，特朗普与莫迪再度上演亲密互动 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUm5YZVdyMWc2NkJBbm90SlZLMTRGNEp1eXNkd3FUUDNvRDRjNW13REx0MjVhdGxOYmRTZmVlS3l1aWx6MkNEU3NENEJoVnlOZXF0eDVucFJxSDVSVGw1VUVjMUtIT3gyMHYwRko2NWVvd3B2QlRBZVdPLXlmcElINUQyOHZYSUY0eHVXQ1Z1NEc0WXhMaFhJM3pNc1JhdWx5N08tajBnNlF4QTYxMm8wblFKaWc3TzhXb1ozWGVWSXBiak00N3luMFNXRkxzMUNBM09wLVZNMkwwbEkxSm4w?oc=5>
 
 ### 2026-06-18 23:15  (8 条)
 
