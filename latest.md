@@ -1,86 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-19 19:41**
-- 本轮扫到 3976 条, 新增 **9** 条
+- 最近更新: **2026-06-19 21:04**
+- 本轮扫到 3981 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (9 条)
+## 本轮新发现 (5 条)
 
-### 连麦宠粉+解锁新作品，周杰伦“哎哟不错周友记”线上见面会来袭!_南方+_南方plus
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019072k36.html>
-
-### 特朗普嘲讽意大利总理梅洛尼，意外长怒而取消访美
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-06-19 19:23
-- 链接: <https://news.google.com/rss/articles/CBMi7AFBVV95cUxPRzhrNk9KUGR3Zk5wcE9xckw4NzBleEpQZFBUcEdoV1NFd1gzQzFiazVxc3F2OG9JQnBiZkxxbUpnclRxOTV4aTdkVTJ2N1dLdmdXTUhYY2JRR1g2V0NkX1RteG5tRjZ2eWtZd3ZvUC1FdHUyREN2R2t1X3NPcy1yNzdRTWlGNlJFR1NzazBIcGpGQTJEM0Z0U0dLNE92cUR3bkVoeU5IMkhUZ0VudGJibWtLLXcyaVJlWk1LTHI3R0hxTHNlVFFGeGpGeHJfc1MteGdLR2QxTHRDcl9tWUp5VVoyS2FHS2Q0UFp6cA?oc=5>
-
-### 梅洛尼：对特朗普的言论感到震惊，他对美西方敌人的领导人表现出极大的宽容
+### 美伊协议不意味着以会与特朗普决裂
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: RFI
-- 时间: 2026-06-19 14:15
-- 链接: <https://news.google.com/rss/articles/CBMi-ANBVV95cUxPOVlaOGdpUjAyUUZzZHlEal9QaDdFbzFfRlM1X3A2ZWVFeXo4WnRjMEFoQTJodUZ5Skh0TVN0LVpyX05WY256Z2w1QkxnbmxvZHMxYU4xTGc4STJlVk02Z0loWmFzeE1jR19sb1FxU0FUejNLcUxIWlJSaHRsQ1Zyc1JiMGl0UmRFNGNHY3JRUENsM2cyNVZuS1hveE8xMXljOG1ncGRFUmVBQTdxelZNNF9hT3FGNjdabXE2d3JLb2RGYnJzRVpteGUyU3daV080dkZUWHMtR2NwemRGUnBXTUM4Wk1LN3hWX3puZ3g4NEVCYzJZSGFYam1aVzBWMlVUS3NLTUExZVNhSFZsYlRveWJvY0VwNXhKcEhua3paR3JxR3dWT214eDYweTJTNEtRM3YwbnYwLXExNWk5TnNQTzlOWnhEZ184Rnk3RzR6OGl0X3A5MU1kaG5PNjdvTTc4ZmVBSWN6UHpzODRGaTNqbllMbVYyNW1wWEdKWEFSMGNRWmV6TGxGT1p1WFd4dXpVMDRTNTk3V3J5bW9NN1lBUmQxZUxMdGxfNHo1WF9WSk9DdWd6MnZDVzVveERyckhDblNBektVSHZXMHUzOGg2TGpqT3lFcVJWX3NRaXdkNVBsXzV1ZUVUWm05V2J0dWlSM1c4RWpIZzE?oc=5>
+- 时间: 2026-06-19 20:02
+- 链接: <https://news.google.com/rss/articles/CBMinwJBVV95cUxNbUhmY3VPZjZiZXhSdjMzRWhuQmcta2hJUWRHN0o3aHgzNURvWk5rVXk2cWZlMzE4UERBdnRyQWc2QWdQNDhXdmlGQnJMTklnSVRpek5fZ25hV09HRm50TEE0bjNQdWttdTEyZk9RNV9GN2poSmdVa09pVnM1N29vWG1uWVZfWi1mbkV6YjNWb1M3aXIyX25zelV2dXlsbjR6djFlV0twQkJDMnhocWlUMDZycTJKYzcwNkJOeVhzZ25PYi1lOGxPQ0hKa2dRR3kwamRaYUVhbF9RdGt4QWlJakg1dkkwRmFwOW9UdzVXR0lfNUk5UmpWU0VsbGpEcGg4YV9nX04wbE1mdE1qUUZUNFBUNHFMVlAzQUh2ZkVYNA?oc=5>
 
-### 特朗普总统：美国与伊朗达成协议并非“出于绝望”
+### G7峰会期间双边会晤，特朗普与莫迪再度上演亲密互动
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-06-19 19:33
-- 链接: <https://news.google.com/rss/articles/CBMitgFBVV95cUxPbHZGNUd2Y2ZDdGxYd1o5b3k2OG90YkFxaG43YmI0TTZ2RS1RaGVsWko4MjhHSy1JU2diY1RvMTdOX1YtZVdTYXg2VEl1cnpEelVXNFRURHU5TjNaU2RKTmZmbkk2X3JCVTYxNC1wUEZYUVpqQkxyOHlXY3kyV252RHIxRWZOWkVnYTZFVTRtVFRoRGE4OW45RHJPRVBuRktpV1hYbDd3SmQ4MmNTWk5QWVRZcE1WQdIBuAFBVV95cUxNcjUzN3l1VjZJQlVTQXlNVVhOV3Z2cXZyVmZBMzdfTkFhNW5pam1UaTA4aFEwWUR4bHNWS2dqLVJ6UHkzUC1ya0NSbHJiVzduazRGN3dHbVRpZE5BSkJFWmtlNlNiYXpUS3c1QUdGUXZvZ1NCc0tSNVBwSjR4TDRZVjNNVGozTnNDR3FreFUtaDUwN0dMemo5NXgyc0tCazhFVl9ES2hjTl9HQzZERG1kbWZyZ19kOHdi?oc=5>
+- 场馆: Sina finance
+- 时间: 2026-06-18 09:32
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWmxGMmpxbFY0ck1lNXRqQURPNWpmRzNxZWpiVWloRzNlSEw5czF3cFp4UFB0cE9VUk5GVnBaeGNObWlCN3c0SFNxd0FpMGNVTHBweVpONTFIbjZBczl0YlE1MjZZYUd6VFg2OENUcGpjOXo4dDI1Y3g0MjFtbkR5V2pXNHkxdW5tNjlsYzVsZUZMcy1ybEZhRkhxbFluQldSQVBndjlkSVZpSl9rcVF3VU5HeFNwU0RUa1Q4bjlBTGlneGFRWko0SmNFRG8zRENudTZ4bG5vSkN5ZWQwUHJr?oc=5>
 
-### 万斯警告以色列：只有特朗普还同情你们
+### 从“熊抱”到“握手”：印度如何在特朗普面前失宠，而巴基斯坦却偷偷地反超
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 风闻
+- 时间: 2026-06-19 16:08
+- 链接: <https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xR1ZUdjlCM3Z6VTJVRGxIQ083d2NXSkI5RC1HSy11ajdIcUZ3ODU5aTFwV2hRVFJUcmF4aTN1dWpXaWFQUVNlXzRBT0lmb0lSYU9OSXNxb0ZkUm8?oc=5>
+
+### 视频丨加拿大总理向特朗普谄媚邀功：中国电车只能占加拿大市场的3%不到，我觉得你会喜欢
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-19 19:39
-- 链接: <https://news.google.com/rss/articles/CBMilgJBVV95cUxPQ2VBbVFmNFpzX0xRMUFqRldtSFV5T0dLWUhhVEhXLVE2Tmd6S3Q1X3hFUDMtaHRydjQ5VzRXckFHaWljSDV4MTFqUXhkZTZOMzdYMEJOT3FhR1VBc1FBMnNxSmF2MmVsdlJ6SkNnMWVxZ2RDMEtSM2ZoVEpkNTY4NEFkLW5vU1h3YVYtZ1BHR1VLVnAyYWxOdWRZNm9XV3NFYVdKRUt2Tm1yeFNCSmFzY3NYOW9TbV84ZnI1aFF4aWZlelVlYmJKREdyckl5SDBQbk54bFg4ek83NWsyX2ZTQjBJVXhhUDI0TE1RNGRhTlUzcnVtcUVEQWFwSE95Ui1sd0hZOGVDTFlkUjZ0UVlUeHREanpCdw?oc=5>
+- 时间: 2026-06-19 14:31
+- 链接: <https://news.google.com/rss/articles/CBMiigJBVV95cUxOZERTQXFjNG52OW8tb1E2WjJBOWhzMEEtRmp3b1piZXl4RWdtOUFIenlZdWo3QUFZc0hDVlFrZ3dDZk5Kd3pkRmR0Ul9lMzFLTlJhRExXMmdHNjY0Mm01Ukt0bnNXNXdCMEhLbnNCbWFkUjhTbmxfNFhkR013TFVZSHRERnhKYVpTVVoxbEplZ0pjc1g3dnNTM2h1ZUVqNlJzZVpMMzJWSzZXY25zUGxFQzc1cG5qWVVWX1dYWExVaHg0NDBadXdHZWVVZ3REeEFHMUxQdVNiamc2OVktV0tzU1RUWi1LRlFEYzlmMWhMdTVraWl2ODFQeXdoY2VKdW5uLXdJYk0zay1adw?oc=5>
 
-### 特朗普和高市为这在G7吵起来了，还惊动其他领导人劝和
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-06-19 11:40
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE85YUhSSGk3VDllVFlROUw5N2w5c0xUUlRhd2JVS2xENVFwZm5xWEs1ajBVRU1JWkJwUkRkNDBVQzQtNEYxNUI2ODBzYnQ5emc1UGEwc2w4aWxJYXE3WDhFWXhjOTFLODNmZFE?oc=5>
-
-### 当着全球媒体的面，特朗普又让日本尴尬了……
+### 特朗普，“生日不快乐”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-06-18 18:06
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBNdnpRV2hpbHJ4RkZmU3p4QlNpeXBEc1RFNnlMbDZaYkhabjZYbTd2eXd6RndKSlhHM29zUEFHRWtlbWtNdWE3RlZ1NW8wV0NIaGlLeU5oUENhdHc4V2FMQ0Nvc19tVU10RnJ0WTFZSHR5QzllOGRBUw?oc=5>
-
-### 特朗普发表疑似嘲讽梅洛尼言论，梅洛尼本人回应：震惊
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 环球网
-- 时间: 2026-06-18 22:02
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE9LdlkxUFVDSi1iWWdZTFRwaUo3RXNlbzRsYjJtNldEdjNKSmVraWxySU9TRUF3STBIeDVLc3Y1QkF1R3lkX0FkYU9VWDkyR3FISjFibVVRclA?oc=5>
-
-### 特朗普官宣苹果与英特尔合作造芯 背后有哪些考虑？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 第一财经
-- 时间: 2026-06-19 08:13
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBBQUhXSThNQkU3TnJzZ0RDQ1Q2YTlMUEtLek9OajFWcndxaFYyVDluMmp5ZEJRU1BqTzFVV3EyTV92Zm9mbHIyeW1GOGl4UVBKQlhr?oc=5>
+- 场馆: Sina finance
+- 时间: 2026-06-19 02:30
+- 链接: <https://news.google.com/rss/articles/CBMizgFBVV95cUxPd002d2FMTm9acWh6RUZ6dzZRNGduSVNSSFBLR2JyNS1hNm9sWTJwNEJYSXE5MlhmUm5NS2YwMjIxR0xZb3VTUXVja0xBS1BueHBXYVpFWlUzMjVOQzVBUERwS1FTTjFoY1RGdFhUSFpxTUxyR05JYnNOV0FvYnM0WlRnYTZHOGJ6UXZHWDVxMzBVZ0k2el9zUEVEQUFLb0N0ckJRTnh6eHZZWEpjWjBlTlk4UnlqSXpHalc5OU1IekwzbzllUVJTYUhNRmFwdw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-19 21:04  (5 条)
+
+- **特朗普** | 美伊协议不意味着以会与特朗普决裂 <https://news.google.com/rss/articles/CBMinwJBVV95cUxNbUhmY3VPZjZiZXhSdjMzRWhuQmcta2hJUWRHN0o3aHgzNURvWk5rVXk2cWZlMzE4UERBdnRyQWc2QWdQNDhXdmlGQnJMTklnSVRpek5fZ25hV09HRm50TEE0bjNQdWttdTEyZk9RNV9GN2poSmdVa09pVnM1N29vWG1uWVZfWi1mbkV6YjNWb1M3aXIyX25zelV2dXlsbjR6djFlV0twQkJDMnhocWlUMDZycTJKYzcwNkJOeVhzZ25PYi1lOGxPQ0hKa2dRR3kwamRaYUVhbF9RdGt4QWlJakg1dkkwRmFwOW9UdzVXR0lfNUk5UmpWU0VsbGpEcGg4YV9nX04wbE1mdE1qUUZUNFBUNHFMVlAzQUh2ZkVYNA?oc=5>
+- **特朗普** | G7峰会期间双边会晤，特朗普与莫迪再度上演亲密互动 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWmxGMmpxbFY0ck1lNXRqQURPNWpmRzNxZWpiVWloRzNlSEw5czF3cFp4UFB0cE9VUk5GVnBaeGNObWlCN3c0SFNxd0FpMGNVTHBweVpONTFIbjZBczl0YlE1MjZZYUd6VFg2OENUcGpjOXo4dDI1Y3g0MjFtbkR5V2pXNHkxdW5tNjlsYzVsZUZMcy1ybEZhRkhxbFluQldSQVBndjlkSVZpSl9rcVF3VU5HeFNwU0RUa1Q4bjlBTGlneGFRWko0SmNFRG8zRENudTZ4bG5vSkN5ZWQwUHJr?oc=5>
+- **特朗普** | 从“熊抱”到“握手”：印度如何在特朗普面前失宠，而巴基斯坦却偷偷地反超 <https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xR1ZUdjlCM3Z6VTJVRGxIQ083d2NXSkI5RC1HSy11ajdIcUZ3ODU5aTFwV2hRVFJUcmF4aTN1dWpXaWFQUVNlXzRBT0lmb0lSYU9OSXNxb0ZkUm8?oc=5>
+- **特朗普** | 视频丨加拿大总理向特朗普谄媚邀功：中国电车只能占加拿大市场的3%不到，我觉得你会喜欢 <https://news.google.com/rss/articles/CBMiigJBVV95cUxOZERTQXFjNG52OW8tb1E2WjJBOWhzMEEtRmp3b1piZXl4RWdtOUFIenlZdWo3QUFZc0hDVlFrZ3dDZk5Kd3pkRmR0Ul9lMzFLTlJhRExXMmdHNjY0Mm01Ukt0bnNXNXdCMEhLbnNCbWFkUjhTbmxfNFhkR013TFVZSHRERnhKYVpTVVoxbEplZ0pjc1g3dnNTM2h1ZUVqNlJzZVpMMzJWSzZXY25zUGxFQzc1cG5qWVVWX1dYWExVaHg0NDBadXdHZWVVZ3REeEFHMUxQdVNiamc2OVktV0tzU1RUWi1LRlFEYzlmMWhMdTVraWl2ODFQeXdoY2VKdW5uLXdJYk0zay1adw?oc=5>
+- **特朗普** | 特朗普，“生日不快乐” <https://news.google.com/rss/articles/CBMizgFBVV95cUxPd002d2FMTm9acWh6RUZ6dzZRNGduSVNSSFBLR2JyNS1hNm9sWTJwNEJYSXE5MlhmUm5NS2YwMjIxR0xZb3VTUXVja0xBS1BueHBXYVpFWlUzMjVOQzVBUERwS1FTTjFoY1RGdFhUSFpxTUxyR05JYnNOV0FvYnM0WlRnYTZHOGJ6UXZHWDVxMzBVZ0k2el9zUEVEQUFLb0N0ckJRTnh6eHZZWEpjWjBlTlk4UnlqSXpHalc5OU1IekwzbzllUVJTYUhNRmFwdw?oc=5>
 
 ### 2026-06-19 19:41  (9 条)
 
