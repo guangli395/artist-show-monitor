@@ -1,112 +1,127 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-19 12:01**
-- 本轮扫到 3948 条, 新增 **13** 条
+- 最近更新: **2026-06-19 15:46**
+- 本轮扫到 3960 条, 新增 **12** 条
 
 ---
 
-## 本轮新发现 (13 条)
+## 本轮新发现 (12 条)
 
-### 王一博 新歌微博VC计划
+### 外媒：特朗普发表疑似嘲讽梅洛尼言论，意大利外长取消访美行程
 
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301cec0.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 环球网
+- 时间: 2026-06-18 22:02
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE9mLUphZ29PZTIzeVNkVmVDMUxWLXBqM3c4emQ4TnByVDM1Tm1iTGRpQnlQeEFuby1iUE0tOGhZLVBKOUlvLWJMVHJaQnBVN3VORmU1UWFDX0Q?oc=5>
 
-### 刘雨昕主题曲中心位，一个回眸帅翻全场，女生也顶不住
+### 特朗普“冒犯了整个意大利”-观察者网
 
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6579479566_m1882ae40e03301dh4q.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者网
+- 时间: 2026-06-19 13:45
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5xc19ua3VudlJkeDV6c19vaW83YTdKdzVDTUZsYWgzby04YmltU0ZVVjhOX2lPNEZmVWg5RVV5NXdHT2E3U3BtTWp5aTRZMTRFUnI3Q3ZLRmJoMXoyQ0tWSGl0MVBnQnctZGc?oc=5>
 
-### 杰伦：Over 10M views谢谢所有观看MV的朋友们
+### 梅洛尼回呛特朗普：说我恳求合影纯粹乱讲！
 
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923704_m1d5ae17f803301tj0y.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: DW.com
+- 时间: 2026-06-19 14:24
+- 链接: <https://news.google.com/rss/articles/CBMioAJBVV95cUxOcE5zZXZrd0FrbjQxQWpWZzZHbTVCX2kyZ19sTm5BVzhSSW1XMWoxME8zVW9EQ1ozbnFBZVk5azdMeEFHN28tWWhCaHhOX3l6RTdnVmxBSGNTTm16ZXdVbFV6SWxFTjlXRUExYTdaZ1JwM2l2ZmgyYWtZdlhFREdTNC1WQjZnR29VSUxJTExtXzhrU1ltOG54d1IwRGcxbEF5UzZkQm8wNzZWT0ZCTzk3RnBqUXRKQ1I2WE9tM085Ry11Q05mcG4yZm9fSHFDRzRuY3NFUnhxb2k5cEw0MDlHa0ItUnZHMzh0Q2VDSEljb3JjWnhsQkw4blF4dHJ0RzA4LW5faUJVVGtXZTR5UmhfY0RVTExSS3VWamlZeV8ySWXSAaACQVVfeXFMTUk0b2tINlBZd0NUeVdTWmNETTZwV3RQRDhwVU4wSzNLdVY5eVJLRjl4YzdlNjZyVnkwVlhOSjZCbXZCak5jTEt4bjhTbV9lSEVxNHN1d2lmVjVITnpnQ0ZKZVV0WnVxbDN6ZHlIWXd6SG1UMV9Uc216N0RtOEtwcVFBM0QtOFJnbVo0bThuaWRMN2pndk9fTnM4R2pPQnN1dHNyRGVuRW5zb19yTkFNaHgwbm1TclloMlBkTmw0YlpmN0lGYzk1RE5XU0RUYjEzdjh1YWxkdnYyMXVQNFJJNldVdTNQN2stMWRpWmVEejZGZjByLXhNSFVKQlBzb3QwaURFRUNVTE5uZ2NHVGoxMTR1UU1XOHR3cHVUcnRNTG5o?oc=5>
 
-### 周杰伦北京鸟巢演唱会进入倒计时
+### “我才是总统”：特朗普试探权力边界令共和党头疼
 
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923551_m1d5ae175f03301l4a8.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-06-19 03:15
+- 链接: <https://news.google.com/rss/articles/CBMivwJBVV95cUxPQ2RhODROb1hvaW1LdnF5b1drSy1mdm54R0Fnd0VIcERtT3M4ak1QSldOeXZMSWlYWGFzWWx0Y3BnVUctcmp6MjdlM0NqMkNvNjJoc1d5X0pmVm90ZEhsMTlFSUVzQU5nRERCWUNfR0FDbmdRd3FGTHlBWVlrN3I2VlRZaHhGalYtT3pWUXRqZmN6U3FYYkFZUWdiSm5jYlp6b2pEaGdlRndnRGdxZnBScjIzQ0Y1Z1cyT280S3RjZHljVXlqQTlGOHo4REdlaUhOWVZ6V3BpSE5CV25LNVBsc3lWclF3UmoyNnR1cWRMNUFkeko4S0xqVERwaEwwdGY1RUZPMkVEb0NwOEx1eUsyYjJwY1lEUUlRcjBvNnh2V3l4bGgxLVJ1M2dmREotb080V0pfNGVqQlpyUzd1N0c0?oc=5>
 
-### 万斯警告以色列：只有特朗普还同情你们
+### 特朗普，“生日不快乐”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-19 09:44
-- 链接: <https://news.google.com/rss/articles/CBMiiAJBVV95cUxNbVFJaEhZdDdZZFNnbmFlUFliZWRDYmlBYlB6OEMxbXZWRmkxck52OUtNZnY0LWdfUHNoT3RJd2hYeWVpRTVvQnVzY2Vzazl2b1lPdmVMY2NCanNxb0RRbjNvd2RTOEZ3WWE2NVV0SHlndGVGdV9hbmt5aWl0QW44Sk1Rbm55eUtiaTcyc1ZfUFlSQy1iLUVIQkV4eEQyOWsxM0h2ZExzUlhwdmNHXzhaQlA2WVNfOUtZQi1XZGxmQzlSYl91Z0FSRGxCclE1NGtLYW8tQ2w4dkw5OTBWazRzcWM5M1RrYV80dG9vQkZWUUZ2dEtTYXB2bldvYkQzZ2tPMmo2QlRIa3g?oc=5>
+- 时间: 2026-06-19 03:56
+- 链接: <https://news.google.com/rss/articles/CBMi_gFBVV95cUxOWExqTkluYk9yUGtPck1aV0NjMTdGWjM0SUp1dF9TaGxVZ3NHTVhjQWFmTjRvLUlmY2tibEZEMm1ZOGRXVWdLRXdaWGlIZzZpYlVoYk9xbWxEZ0F4MV9hTW1ScE9QdDl2Y3ktZUI5WkVVQlJsNURxUWN6X3ZzaW9aOVNoTTV3cmhfR1RyRGdHWkdpWWJWRy1aSWFXOU1UMXBYRGtMQ05Hd1V3dlBpckhiNWFqbUVMUkJZd1NLemViaExtcDlzR3JpWGRta2hfczZKMTFKTGExaXl4UXVGeTVVZU9fcWFtYm5YaTYzaFFYaHZhZzVfNGZIWnNqLWhaQQ?oc=5>
 
-### 特朗普官宣苹果与英特尔合作造芯，背后有哪些考虑？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-19 10:04
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE40ZDVQQTNjdzVJdnlnT2RNbnBMRkZYWlNoT2prWFd2bjBQcmpPT3FHWGpDVGtiXzlPNndKMFhnR19WNzkyeE9aX1ZDaVYxRHJUUy1CYVNQTWg0dDZZMXQ4eW5hYlBxaUxmb0lSTjlwNXhsS29TUDJjNw?oc=5>
-
-### 美国空军一号退役！波音造不出新机特朗普接手卡塔尔赠送豪华747_手机新浪网
+### 特朗普为何着急解决俄乌问题 美国中期选举影响显著
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-19 09:50
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9KOFpyeVFPaVFUSXQyNTZTeTh3NEFrRzBXdnVvQ3hZNzBDRVEzdlJxQ3NYc29HMVg5eVV0b2N6Rm9LTGQtYTRLajUxUnMyR3JJRHhacWFhQzVDNzA3TF9waUVHNjFkRUZqX3FUVmR0YzZ2bXJEZW9DNkcyTWF4RjQ?oc=5>
+- 场馆: 中华网
+- 时间: 2026-06-19 13:11
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1LRGlmcjFDZWR1ZkVJX2RUSEhrZG9YdHptQ1gzN3c1UjFEQVJpQTBSdnFLZFltdmhRbG1TMmxKWTdpNExrTWNZcml3dnBXQW5jenIzdDRSeXY5aW5qbkowaTNsVEMxb3BVUXhyWUpjRVQ?oc=5>
 
-### 媒体：特朗普“生日不快乐” 白宫庆典引发争议
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华军事
-- 时间: 2026-06-19 07:54
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBhLUFjUHU4bzRtbXllMGhwVWl1RTBoOWVkNmh4V0lDX0JKc05leGpPZFEtVG05dkt1YTZFTDBhSVBMa2M3TGR3eGJHMldrenlaU2FuNFlWQjF6RmJXWmt2SFc4bEo2TDBUVDMybTJjVk8?oc=5>
-
-### 特朗普称理解加拿大对中国电动车设进口配额
+### 特朗普夸莫迪：长得太好看像天使？但又当面多次说中国好话！
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-06-18 04:35
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9nbkVjdkI4aU43OHJlazg5UEpxNmZxZ2tHS3UtQ3k0czZDRHN5bHNEbDVyUHF0TkhLNHFVd2xNYlI0OWwzT3dJN0E0Y1VjUUgtVXVRLXhzVFNfTkZmX25GWVBvTEVIUQ?oc=5>
+- 场馆: Sohu
+- 时间: 2026-06-19 15:06
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxOenZYVzF5RXdQYlNBeUxDWlNhclFLSGcxcFk4YmVTaF93ekpGaUFtaWFkSk5tN253UVp5bEJwMUxJRFMwaWZiUVB2WHMybVhXdDYxYTh2eU1LWm1weEVpWm42ckk1QVU3b2QyRmZ2aGRnUHR3S2t3SmdiSjNNSG1vYlBaYkY2Y09XY2RpdQ?oc=5>
 
-### G7峰会期间双边会晤，特朗普与莫迪再度上演亲密互动
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-18 09:32
-- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxPXzhIc1FOZnRWMER1M1NYUTBQVl8yV2xZVnFLUmNkanpibmR1RTBwNlpYM05hZEJpdHJacGtNS19SQmx1aUVGeVRzRXFpRGFrWXFtd2RmejdvRGtPWTg2aWh1TjJya2VYdWZrNlBPdmF2bXZ5OG9GejZvbFhvWWZVbFdOY21ERVFZQWJ5STRWdjJMWDd5OEhJSW9hckM5ZnpUY3Z0OHpIUTZjNkZtV0p3a09OVHZOZU1wNjNxWnA1ZXNwakgzakhiVDVPM1VhQTkybVk1c0VLOTNaS0NWZ1E?oc=5>
-
-### G7峰会与特朗普见面无熊抱 莫迪演说警告信任赤字加剧
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-06-17 09:46
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1mZElvTWotTmR1OUN4YzdCWjlPcTlyWnlTcWF0dHRMOGdyOWhYX1M2NWw2RkRQaGw0aDB6QzlrcnlMTG1qcGprcm1nMkVocV9kUnc4S2RXRXJSUGtEQXo1cDdDNmhVTEZKVGc?oc=5>
-
-### “特朗普，你要打击报复就找我，别动我老婆、家人”
+### 法媒曝：特朗普和高市早苗在G7又因珍珠港发生争吵，还惊动其他领导人劝和
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: QQ News
-- 时间: 2026-06-16 10:58
-- 链接: <https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yQ1ZfQ1dJVEgwend0M3VnX2lMdEdmTWI1VmVmYnlKR0tLZGNMeDdhdUJPNE5YdTNrM1ppcGRRMWpsaTNvRVJPRjdGcTJOR2JjbGk0V0tR?oc=5>
+- 时间: 2026-06-19 11:40
+- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTE5BSW54T0pSdlZqU0czeXF6cThNWDJsRWp4SzdNR2ZRejF4SW5hT29CSVdZY3hNdnVuNHFUcU55aVMwZXNkOUZlcV95WXpySHYwTFdkbWlqSlFwcEszTTdMeG1sRmZ0dGxUZHkxUUJn?oc=5>
 
-### 特朗普官宣：苹果牵手英特尔，美国造芯！
+### 特朗普就谈判问题向伊朗施压
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 电子工程专辑
-- 时间: 2026-06-19 01:38
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE12X25rb3hBSHgxLVhiYmQzN2NKQVc4VGVNQUp3ZzJERkN0RTk3TFd5akFqY2Y4TmZsc3dCMzQ5MWhVTTR0UkF2V1lVUW9uWHAyOEVz?oc=5>
+- 场馆: 京报网
+- 时间: 2026-06-19 14:15
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xNDJpTnFSMG5DazZMcWRxemdKdmc1Qi1LY3N0dFFodlZ5Z3dIZm1QYjhlYl81bzU2YWRDVEFEWDhnQXk1Q1g2NmV6N19xMlozVHZOWU52WU16MDRXelE?oc=5>
+
+### 特朗普为伊朗协议辩护，称希望避免“经济灾难”
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-06-17 16:33
+- 链接: <https://news.google.com/rss/articles/CBMipwFBVV95cUxNSDN1TzI4WmRoMmxaclVhNi1QVmM5TGFQczFkdkl2YnB6Xy1yX2RWSF9vam9IdTZvTlVuZFVsNDBRcnBWQ0JmRmpiM0NtVkdPTHBaMk83YzQ3YkFkekxKTUxkS1p3Y1V0bzlfYmpqLWRrNFRQemdoUnEtOXpraldJTEVqMWdDMXNkYUctaTJhNTR5bzJtbnZHMm5sTmx1US1GakNORURjQQ?oc=5>
+
+### 两党参议员致函美财长，敦促果断处理中国操纵汇率问题
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-06-19 15:31
+- 链接: <https://news.google.com/rss/articles/CBMi_AFBVV95cUxQRjBhTjM2cTY0X3VCYldPeE4yaU5pdHg3aTd6ODRqUTFiRXFaNnBlel9TRGgzN0wzYmhTdnZ4Q1VDdjRlbTNZVmZnMTJrVTdPcEtvMXBZWUpLSUQzMjVCUGxhSGlQOEJMWERYcDg4TTJadktkTTRsampoa1I2cUFabEdrcWJYbTl0ck5vTjh5TWkzcE10aXp0cW4yUk1zdVRxeGdXYXQtYzE5emJlYWwzYzdOOVBpUERXNzR1R2dxeDlXdGhCOUlFTDVTRi1vWnN5ZjE2djBPTnlucDBCQTdUaWlsd1ZqNk9sLUYwX0w1cm5FZkJsNXlGX0tobGTSAf8BQVVfeXFMUGFmSGFNSnBUaDg4eHZjbkpaa3Y4TjRmeEVLc3VKTmt4ZHFybG5PdTdhczJTaXhfeGpOMmU0S0loVVlVb1FYUXo3a29BcE1BbHgtREF0SzM2dVBiV1JVOWQzS0R0bkp5Rmc3bDduZllUczI1aEcydEFJOWg5MGl4OXJZNEhMWFVqc0JHREJNaWxILVhOUW9SM2xVQ0JnbXE4ZXZVaWJTOE1wOUJWMTlwU3pGSmJPQ3lPVnBBaENzMUY4bnJsQnNzYUU1aHR6N3lSeUlBZDQ4X3BPaFdZSmdCTGxONkVtd0NfcnJudDVZWWNIVk5nSEZ4bU9qejA5WlFV?oc=5>
+
+### Trump谈伊朗核武_新浪新闻
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-06-18 00:58
+- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xeXU3akpTWWh2Q3kxLWFrcHg0Zk1RUU1hdXJxZjNJdHRVN1Y4VU9ySTFhUERTLXRFcFUzYlJJcUZ5X1YyVTI3UlNoMFFWWHRNMk9GYnUyZTEtVmlFNFVjWWptWQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-19 15:46  (12 条)
+
+- **特朗普** | 外媒：特朗普发表疑似嘲讽梅洛尼言论，意大利外长取消访美行程 <https://news.google.com/rss/articles/CBMiWEFVX3lxTE9mLUphZ29PZTIzeVNkVmVDMUxWLXBqM3c4emQ4TnByVDM1Tm1iTGRpQnlQeEFuby1iUE0tOGhZLVBKOUlvLWJMVHJaQnBVN3VORmU1UWFDX0Q?oc=5>
+- **特朗普** | 特朗普“冒犯了整个意大利”-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE5xc19ua3VudlJkeDV6c19vaW83YTdKdzVDTUZsYWgzby04YmltU0ZVVjhOX2lPNEZmVWg5RVV5NXdHT2E3U3BtTWp5aTRZMTRFUnI3Q3ZLRmJoMXoyQ0tWSGl0MVBnQnctZGc?oc=5>
+- **特朗普** | 梅洛尼回呛特朗普：说我恳求合影纯粹乱讲！ <https://news.google.com/rss/articles/CBMioAJBVV95cUxOcE5zZXZrd0FrbjQxQWpWZzZHbTVCX2kyZ19sTm5BVzhSSW1XMWoxME8zVW9EQ1ozbnFBZVk5azdMeEFHN28tWWhCaHhOX3l6RTdnVmxBSGNTTm16ZXdVbFV6SWxFTjlXRUExYTdaZ1JwM2l2ZmgyYWtZdlhFREdTNC1WQjZnR29VSUxJTExtXzhrU1ltOG54d1IwRGcxbEF5UzZkQm8wNzZWT0ZCTzk3RnBqUXRKQ1I2WE9tM085Ry11Q05mcG4yZm9fSHFDRzRuY3NFUnhxb2k5cEw0MDlHa0ItUnZHMzh0Q2VDSEljb3JjWnhsQkw4blF4dHJ0RzA4LW5faUJVVGtXZTR5UmhfY0RVTExSS3VWamlZeV8ySWXSAaACQVVfeXFMTUk0b2tINlBZd0NUeVdTWmNETTZwV3RQRDhwVU4wSzNLdVY5eVJLRjl4YzdlNjZyVnkwVlhOSjZCbXZCak5jTEt4bjhTbV9lSEVxNHN1d2lmVjVITnpnQ0ZKZVV0WnVxbDN6ZHlIWXd6SG1UMV9Uc216N0RtOEtwcVFBM0QtOFJnbVo0bThuaWRMN2pndk9fTnM4R2pPQnN1dHNyRGVuRW5zb19yTkFNaHgwbm1TclloMlBkTmw0YlpmN0lGYzk1RE5XU0RUYjEzdjh1YWxkdnYyMXVQNFJJNldVdTNQN2stMWRpWmVEejZGZjByLXhNSFVKQlBzb3QwaURFRUNVTE5uZ2NHVGoxMTR1UU1XOHR3cHVUcnRNTG5o?oc=5>
+- **特朗普** | “我才是总统”：特朗普试探权力边界令共和党头疼 <https://news.google.com/rss/articles/CBMivwJBVV95cUxPQ2RhODROb1hvaW1LdnF5b1drSy1mdm54R0Fnd0VIcERtT3M4ak1QSldOeXZMSWlYWGFzWWx0Y3BnVUctcmp6MjdlM0NqMkNvNjJoc1d5X0pmVm90ZEhsMTlFSUVzQU5nRERCWUNfR0FDbmdRd3FGTHlBWVlrN3I2VlRZaHhGalYtT3pWUXRqZmN6U3FYYkFZUWdiSm5jYlp6b2pEaGdlRndnRGdxZnBScjIzQ0Y1Z1cyT280S3RjZHljVXlqQTlGOHo4REdlaUhOWVZ6V3BpSE5CV25LNVBsc3lWclF3UmoyNnR1cWRMNUFkeko4S0xqVERwaEwwdGY1RUZPMkVEb0NwOEx1eUsyYjJwY1lEUUlRcjBvNnh2V3l4bGgxLVJ1M2dmREotb080V0pfNGVqQlpyUzd1N0c0?oc=5>
+- **特朗普** | 特朗普，“生日不快乐” <https://news.google.com/rss/articles/CBMi_gFBVV95cUxOWExqTkluYk9yUGtPck1aV0NjMTdGWjM0SUp1dF9TaGxVZ3NHTVhjQWFmTjRvLUlmY2tibEZEMm1ZOGRXVWdLRXdaWGlIZzZpYlVoYk9xbWxEZ0F4MV9hTW1ScE9QdDl2Y3ktZUI5WkVVQlJsNURxUWN6X3ZzaW9aOVNoTTV3cmhfR1RyRGdHWkdpWWJWRy1aSWFXOU1UMXBYRGtMQ05Hd1V3dlBpckhiNWFqbUVMUkJZd1NLemViaExtcDlzR3JpWGRta2hfczZKMTFKTGExaXl4UXVGeTVVZU9fcWFtYm5YaTYzaFFYaHZhZzVfNGZIWnNqLWhaQQ?oc=5>
+- **特朗普** | 特朗普为何着急解决俄乌问题 美国中期选举影响显著 <https://news.google.com/rss/articles/CBMicEFVX3lxTE1LRGlmcjFDZWR1ZkVJX2RUSEhrZG9YdHptQ1gzN3c1UjFEQVJpQTBSdnFLZFltdmhRbG1TMmxKWTdpNExrTWNZcml3dnBXQW5jenIzdDRSeXY5aW5qbkowaTNsVEMxb3BVUXhyWUpjRVQ?oc=5>
+- **特朗普** | 特朗普夸莫迪：长得太好看像天使？但又当面多次说中国好话！ <https://news.google.com/rss/articles/CBMijAFBVV95cUxOenZYVzF5RXdQYlNBeUxDWlNhclFLSGcxcFk4YmVTaF93ekpGaUFtaWFkSk5tN253UVp5bEJwMUxJRFMwaWZiUVB2WHMybVhXdDYxYTh2eU1LWm1weEVpWm42ckk1QVU3b2QyRmZ2aGRnUHR3S2t3SmdiSjNNSG1vYlBaYkY2Y09XY2RpdQ?oc=5>
+- **特朗普** | 法媒曝：特朗普和高市早苗在G7又因珍珠港发生争吵，还惊动其他领导人劝和 <https://news.google.com/rss/articles/CBMibkFVX3lxTE5BSW54T0pSdlZqU0czeXF6cThNWDJsRWp4SzdNR2ZRejF4SW5hT29CSVdZY3hNdnVuNHFUcU55aVMwZXNkOUZlcV95WXpySHYwTFdkbWlqSlFwcEszTTdMeG1sRmZ0dGxUZHkxUUJn?oc=5>
+- **特朗普** | 特朗普就谈判问题向伊朗施压 <https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xNDJpTnFSMG5DazZMcWRxemdKdmc1Qi1LY3N0dFFodlZ5Z3dIZm1QYjhlYl81bzU2YWRDVEFEWDhnQXk1Q1g2NmV6N19xMlozVHZOWU52WU16MDRXelE?oc=5>
+- **Trump** | 特朗普为伊朗协议辩护，称希望避免“经济灾难” <https://news.google.com/rss/articles/CBMipwFBVV95cUxNSDN1TzI4WmRoMmxaclVhNi1QVmM5TGFQczFkdkl2YnB6Xy1yX2RWSF9vam9IdTZvTlVuZFVsNDBRcnBWQ0JmRmpiM0NtVkdPTHBaMk83YzQ3YkFkekxKTUxkS1p3Y1V0bzlfYmpqLWRrNFRQemdoUnEtOXpraldJTEVqMWdDMXNkYUctaTJhNTR5bzJtbnZHMm5sTmx1US1GakNORURjQQ?oc=5>
+- **Trump** | 两党参议员致函美财长，敦促果断处理中国操纵汇率问题 <https://news.google.com/rss/articles/CBMi_AFBVV95cUxQRjBhTjM2cTY0X3VCYldPeE4yaU5pdHg3aTd6ODRqUTFiRXFaNnBlel9TRGgzN0wzYmhTdnZ4Q1VDdjRlbTNZVmZnMTJrVTdPcEtvMXBZWUpLSUQzMjVCUGxhSGlQOEJMWERYcDg4TTJadktkTTRsampoa1I2cUFabEdrcWJYbTl0ck5vTjh5TWkzcE10aXp0cW4yUk1zdVRxeGdXYXQtYzE5emJlYWwzYzdOOVBpUERXNzR1R2dxeDlXdGhCOUlFTDVTRi1vWnN5ZjE2djBPTnlucDBCQTdUaWlsd1ZqNk9sLUYwX0w1cm5FZkJsNXlGX0tobGTSAf8BQVVfeXFMUGFmSGFNSnBUaDg4eHZjbkpaa3Y4TjRmeEVLc3VKTmt4ZHFybG5PdTdhczJTaXhfeGpOMmU0S0loVVlVb1FYUXo3a29BcE1BbHgtREF0SzM2dVBiV1JVOWQzS0R0bkp5Rmc3bDduZllUczI1aEcydEFJOWg5MGl4OXJZNEhMWFVqc0JHREJNaWxILVhOUW9SM2xVQ0JnbXE4ZXZVaWJTOE1wOUJWMTlwU3pGSmJPQ3lPVnBBaENzMUY4bnJsQnNzYUU1aHR6N3lSeUlBZDQ4X3BPaFdZSmdCTGxONkVtd0NfcnJudDVZWWNIVk5nSEZ4bU9qejA5WlFV?oc=5>
+- **Trump** | Trump谈伊朗核武_新浪新闻 <https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xeXU3akpTWWh2Q3kxLWFrcHg0Zk1RUU1hdXJxZjNJdHRVN1Y4VU9ySTFhUERTLXRFcFUzYlJJcUZ5X1YyVTI3UlNoMFFWWHRNMk9GYnUyZTEtVmlFNFVjWWptWQ?oc=5>
 
 ### 2026-06-19 12:01  (13 条)
 
