@@ -1,56 +1,80 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-19 21:04**
-- 本轮扫到 3981 条, 新增 **5** 条
+- 最近更新: **2026-06-19 22:29**
+- 本轮扫到 3988 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (7 条)
 
-### 美伊协议不意味着以会与特朗普决裂
+### 发布秘密任务 当得知任务时，白鹿：这事就我能做到
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-06-19 20:02
-- 链接: <https://news.google.com/rss/articles/CBMinwJBVV95cUxNbUhmY3VPZjZiZXhSdjMzRWhuQmcta2hJUWRHN0o3aHgzNURvWk5rVXk2cWZlMzE4UERBdnRyQWc2QWdQNDhXdmlGQnJMTklnSVRpek5fZ25hV09HRm50TEE0bjNQdWttdTEyZk9RNV9GN2poSmdVa09pVnM1N29vWG1uWVZfWi1mbkV6YjNWb1M3aXIyX25zelV2dXlsbjR6djFlV0twQkJDMnhocWlUMDZycTJKYzcwNkJOeVhzZ25PYi1lOGxPQ0hKa2dRR3kwamRaYUVhbF9RdGt4QWlJakg1dkkwRmFwOW9UdzVXR0lfNUk5UmpWU0VsbGpEcGg4YV9nX04wbE1mdE1qUUZUNFBUNHFMVlAzQUh2ZkVYNA?oc=5>
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_2887430567_mac1ab1a7033013pya.html>
 
-### G7峰会期间双边会晤，特朗普与莫迪再度上演亲密互动
+### 特朗普的新专机，首次亮相
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Sina finance
-- 时间: 2026-06-18 09:32
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWmxGMmpxbFY0ck1lNXRqQURPNWpmRzNxZWpiVWloRzNlSEw5czF3cFp4UFB0cE9VUk5GVnBaeGNObWlCN3c0SFNxd0FpMGNVTHBweVpONTFIbjZBczl0YlE1MjZZYUd6VFg2OENUcGpjOXo4dDI1Y3g0MjFtbkR5V2pXNHkxdW5tNjlsYzVsZUZMcy1ybEZhRkhxbFluQldSQVBndjlkSVZpSl9rcVF3VU5HeFNwU0RUa1Q4bjlBTGlneGFRWko0SmNFRG8zRENudTZ4bG5vSkN5ZWQwUHJr?oc=5>
+- 场馆: 东方财富
+- 时间: 2026-06-19 21:17
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OR29RWndWUE5KZEFjYmg5UFFIV056eHdCOHFNSnJOTnV6a3ZCMlo2bmk5UlRfWnRBTVVHZUVsa0xZWFprSW11SmNRZGxFZUxUTnpHXzdJX283UkFXT2ZYdg?oc=5>
 
-### 从“熊抱”到“握手”：印度如何在特朗普面前失宠，而巴基斯坦却偷偷地反超
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 风闻
-- 时间: 2026-06-19 16:08
-- 链接: <https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xR1ZUdjlCM3Z6VTJVRGxIQ083d2NXSkI5RC1HSy11ajdIcUZ3ODU5aTFwV2hRVFJUcmF4aTN1dWpXaWFQUVNlXzRBT0lmb0lSYU9OSXNxb0ZkUm8?oc=5>
-
-### 视频丨加拿大总理向特朗普谄媚邀功：中国电车只能占加拿大市场的3%不到，我觉得你会喜欢
+### 特朗普：Anthropic曾构成国家安全威胁
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-19 14:31
-- 链接: <https://news.google.com/rss/articles/CBMiigJBVV95cUxOZERTQXFjNG52OW8tb1E2WjJBOWhzMEEtRmp3b1piZXl4RWdtOUFIenlZdWo3QUFZc0hDVlFrZ3dDZk5Kd3pkRmR0Ul9lMzFLTlJhRExXMmdHNjY0Mm01Ukt0bnNXNXdCMEhLbnNCbWFkUjhTbmxfNFhkR013TFVZSHRERnhKYVpTVVoxbEplZ0pjc1g3dnNTM2h1ZUVqNlJzZVpMMzJWSzZXY25zUGxFQzc1cG5qWVVWX1dYWExVaHg0NDBadXdHZWVVZ3REeEFHMUxQdVNiamc2OVktV0tzU1RUWi1LRlFEYzlmMWhMdTVraWl2ODFQeXdoY2VKdW5uLXdJYk0zay1adw?oc=5>
+- 时间: 2026-06-19 22:12
+- 链接: <https://news.google.com/rss/articles/CBMijwJBVV95cUxPaUl5ZThnS29OQ2UySlR3ZXZFTDZHRDdVQzM0dWZmSVd6WXZQVmRKV2JpbTRpeEw0X09MSmx6NzMwRW1PM2xTMGVLczF1R1BBSGZMWGQ1dlVld0xfQzd3MTlIWGNjTDN0WHc0Ujh6Y0VQNUoxQlRrZFdYN3RnWWgtVXNCdlA2U05fT3Jad29DMkpHNk13NFBZWlpCaGNvNU1RZHUwaTNjNkdBNzR2N1ZKbWVHbng4OUFzd1A3TTRNSS1iczFGOE1jMUMwcm1OSUJUZFF4a24tbk9Vek1BOWFZb3NObVAyOHVLMzVBNzlqTVNudEZ1OTNza2pOakxDeERidnJEaGgtWmFobW5EekFj?oc=5>
+
+### 要闻分析 - 从特朗普梅洛尼间的“闲话风波”看人情和国情
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-06-19 21:47
+- 链接: <https://news.google.com/rss/articles/CBMijwNBVV95cUxPbjZ3MllnQXpmeVNabE8zaEgwVDhsX2lyOXd1TFlTQmY3ckNrbUJLUVZNZVdvVzNfUWZzRHc5aDdGYXRSdzNTYklKelZlNVBtaFlyTUxFWEVsYkZTV1NjWERiZDNzdm9EdjhWc0NDSExrcmN4V0dkTUZwN2J0dmpPNHZwWGxzOUdyck9xNjVURlF6ajlKbXdvd2g4c2wwNlZtMmJ3WS1qODRjUGZuazNzaVJjaGtPVmhJemFzREhzM1lPSEgtZXZ5UGxWTVprLUlYRFg5aV9FT25ROThHZ3ItaFgxZ1MtcER4VmE1Y0Jfb012MGhyMVo4d1N3LWxxOS1xM0Q2ay1ZZmloaXlJVzVwaWs0ZjU4dUZHWmtSOWZiSXNGUHEzcXpJYkFkQ3VYOXFzQ2ZnNUpKYkRPSDltMjJsT09yUkNvSlRmc1ZtOE9iYkMzUU8wTFJKRHNmdTJ0dk0zZ3VxekVCbzlIbzV5MnFiZmd5UGd1YXplSVdyYUxIOC14aE1qSUVGUDVLeDFLdjA?oc=5>
 
 ### 特朗普，“生日不快乐”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Sina finance
+- 场馆: 新浪财经
 - 时间: 2026-06-19 02:30
-- 链接: <https://news.google.com/rss/articles/CBMizgFBVV95cUxPd002d2FMTm9acWh6RUZ6dzZRNGduSVNSSFBLR2JyNS1hNm9sWTJwNEJYSXE5MlhmUm5NS2YwMjIxR0xZb3VTUXVja0xBS1BueHBXYVpFWlUzMjVOQzVBUERwS1FTTjFoY1RGdFhUSFpxTUxyR05JYnNOV0FvYnM0WlRnYTZHOGJ6UXZHWDVxMzBVZ0k2el9zUEVEQUFLb0N0ckJRTnh6eHZZWEpjWjBlTlk4UnlqSXpHalc5OU1IekwzbzllUVJTYUhNRmFwdw?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMizgFBVV95cUxPVnZmRmRKWkJ0QS05NEVLQWxYQkh6V1h0d256ejJ1WndfTWJieW1BeXo2Y0RSLVZwdkRqb2p0eDJ0OVZnZXJvbDBrUTBjazYyeVVpOE5zRkc3WG45cjA5MDZiMzhJSS1aeGQxU1VUcWtYMU5jQXdFeGdWLUNiZHdjVkdiSTA5ajFGaUJUM3pwWUJJTjExWEx1Njg3TDJ4Uk03STRvRktOcTZYaXNlY1E1UHlZR1A0d1BrTVhud1N6Ulp1RGQ1c2pVZTAyWDBoZw?oc=5>
+
+### 特朗普总统：美国与伊朗达成协议并非“出于绝望”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-06-19 19:33
+- 链接: <https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcjUzN3l1VjZJQlVTQXlNVVhOV3Z2cXZyVmZBMzdfTkFhNW5pam1UaTA4aFEwWUR4bHNWS2dqLVJ6UHkzUC1ya0NSbHJiVzduazRGN3dHbVRpZE5BSkJFWmtlNlNiYXpUS3c1QUdGUXZvZ1NCc0tSNVBwSjR4TDRZVjNNVGozTnNDR3FreFUtaDUwN0dMemo5NXgyc0tCazhFVl9ES2hjTl9HQzZERG1kbWZyZ19kOHdi0gG4AUFVX3lxTE1yNTM3eXVWNklCVVNBeU1VWE5XdnZxdnJWZkEzN19OQWE1bmlqbVRpMDhoUTBZRHhsc1ZLZ2otUnpQeTNQLXJrQ1JscmJXN25rNEY3d0dtVGlkTkFKQkVaa2U2U2JhelRLdzVBR0ZRdm9nU0JzS1I1UHBKNHhMNFlWM01UajNOc0NHcWt4VS1oNTA3R0x6ajk1eDJzS0JrOEVWX0RLaGNOX0dDNkREbWRtZnJnX2Q4d2I?oc=5>
+
+### 马克龙：“一直对特朗普充满信心”
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-06-17 20:56
+- 链接: <https://news.google.com/rss/articles/CBMi_AFBVV95cUxPYzZpOTVtQlFGTEVpcUd6U3ZZN2lrNTFfVDJndTFDalNmc25OZndMRWlkcEVVYU9QM3FGWTJVZDRRd3BGdGNSUFN4MmVLdEFlRTVWZE1RLTdKb19TS3c1R0d0Y1U5czBQdDFVQU1ZemRvWFhOeHhHUE5MZU55SzVLZDE1RmZjOXZqMllsSm9xNWRaa3YzNEtSaGtSNno3SmduWmFsQmZPVHdxRFBfeFFLaVRoLTdyUUpuSWVHSEd6UWt1ZDRvcXRoYy1mV0NVUFBuOHExeVVTVlZGWTZTOHdOSURtUjhIalJFTlI4dEUzVzNrWTNvWExBWWozT3c?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-19 22:29  (7 条)
+
+- **蔡徐坤** | 发布秘密任务 当得知任务时，白鹿：这事就我能做到 <https://k.sina.com.cn/article_2887430567_mac1ab1a7033013pya.html>
+- **特朗普** | 特朗普的新专机，首次亮相 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OR29RWndWUE5KZEFjYmg5UFFIV056eHdCOHFNSnJOTnV6a3ZCMlo2bmk5UlRfWnRBTVVHZUVsa0xZWFprSW11SmNRZGxFZUxUTnpHXzdJX283UkFXT2ZYdg?oc=5>
+- **特朗普** | 特朗普：Anthropic曾构成国家安全威胁 <https://news.google.com/rss/articles/CBMijwJBVV95cUxPaUl5ZThnS29OQ2UySlR3ZXZFTDZHRDdVQzM0dWZmSVd6WXZQVmRKV2JpbTRpeEw0X09MSmx6NzMwRW1PM2xTMGVLczF1R1BBSGZMWGQ1dlVld0xfQzd3MTlIWGNjTDN0WHc0Ujh6Y0VQNUoxQlRrZFdYN3RnWWgtVXNCdlA2U05fT3Jad29DMkpHNk13NFBZWlpCaGNvNU1RZHUwaTNjNkdBNzR2N1ZKbWVHbng4OUFzd1A3TTRNSS1iczFGOE1jMUMwcm1OSUJUZFF4a24tbk9Vek1BOWFZb3NObVAyOHVLMzVBNzlqTVNudEZ1OTNza2pOakxDeERidnJEaGgtWmFobW5EekFj?oc=5>
+- **特朗普** | 要闻分析 - 从特朗普梅洛尼间的“闲话风波”看人情和国情 <https://news.google.com/rss/articles/CBMijwNBVV95cUxPbjZ3MllnQXpmeVNabE8zaEgwVDhsX2lyOXd1TFlTQmY3ckNrbUJLUVZNZVdvVzNfUWZzRHc5aDdGYXRSdzNTYklKelZlNVBtaFlyTUxFWEVsYkZTV1NjWERiZDNzdm9EdjhWc0NDSExrcmN4V0dkTUZwN2J0dmpPNHZwWGxzOUdyck9xNjVURlF6ajlKbXdvd2g4c2wwNlZtMmJ3WS1qODRjUGZuazNzaVJjaGtPVmhJemFzREhzM1lPSEgtZXZ5UGxWTVprLUlYRFg5aV9FT25ROThHZ3ItaFgxZ1MtcER4VmE1Y0Jfb012MGhyMVo4d1N3LWxxOS1xM0Q2ay1ZZmloaXlJVzVwaWs0ZjU4dUZHWmtSOWZiSXNGUHEzcXpJYkFkQ3VYOXFzQ2ZnNUpKYkRPSDltMjJsT09yUkNvSlRmc1ZtOE9iYkMzUU8wTFJKRHNmdTJ0dk0zZ3VxekVCbzlIbzV5MnFiZmd5UGd1YXplSVdyYUxIOC14aE1qSUVGUDVLeDFLdjA?oc=5>
+- **特朗普** | 特朗普，“生日不快乐” <https://news.google.com/rss/articles/CBMizgFBVV95cUxPVnZmRmRKWkJ0QS05NEVLQWxYQkh6V1h0d256ejJ1WndfTWJieW1BeXo2Y0RSLVZwdkRqb2p0eDJ0OVZnZXJvbDBrUTBjazYyeVVpOE5zRkc3WG45cjA5MDZiMzhJSS1aeGQxU1VUcWtYMU5jQXdFeGdWLUNiZHdjVkdiSTA5ajFGaUJUM3pwWUJJTjExWEx1Njg3TDJ4Uk03STRvRktOcTZYaXNlY1E1UHlZR1A0d1BrTVhud1N6Ulp1RGQ1c2pVZTAyWDBoZw?oc=5>
+- **特朗普** | 特朗普总统：美国与伊朗达成协议并非“出于绝望” <https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcjUzN3l1VjZJQlVTQXlNVVhOV3Z2cXZyVmZBMzdfTkFhNW5pam1UaTA4aFEwWUR4bHNWS2dqLVJ6UHkzUC1ya0NSbHJiVzduazRGN3dHbVRpZE5BSkJFWmtlNlNiYXpUS3c1QUdGUXZvZ1NCc0tSNVBwSjR4TDRZVjNNVGozTnNDR3FreFUtaDUwN0dMemo5NXgyc0tCazhFVl9ES2hjTl9HQzZERG1kbWZyZ19kOHdi0gG4AUFVX3lxTE1yNTM3eXVWNklCVVNBeU1VWE5XdnZxdnJWZkEzN19OQWE1bmlqbVRpMDhoUTBZRHhsc1ZLZ2otUnpQeTNQLXJrQ1JscmJXN25rNEY3d0dtVGlkTkFKQkVaa2U2U2JhelRLdzVBR0ZRdm9nU0JzS1I1UHBKNHhMNFlWM01UajNOc0NHcWt4VS1oNTA3R0x6ajk1eDJzS0JrOEVWX0RLaGNOX0dDNkREbWRtZnJnX2Q4d2I?oc=5>
+- **Trump** | 马克龙：“一直对特朗普充满信心” <https://news.google.com/rss/articles/CBMi_AFBVV95cUxPYzZpOTVtQlFGTEVpcUd6U3ZZN2lrNTFfVDJndTFDalNmc25OZndMRWlkcEVVYU9QM3FGWTJVZDRRd3BGdGNSUFN4MmVLdEFlRTVWZE1RLTdKb19TS3c1R0d0Y1U5czBQdDFVQU1ZemRvWFhOeHhHUE5MZU55SzVLZDE1RmZjOXZqMllsSm9xNWRaa3YzNEtSaGtSNno3SmduWmFsQmZPVHdxRFBfeFFLaVRoLTdyUUpuSWVHSEd6UWt1ZDRvcXRoYy1mV0NVUFBuOHExeVVTVlZGWTZTOHdOSURtUjhIalJFTlI4dEUzVzNrWTNvWExBWWozT3c?oc=5>
 
 ### 2026-06-19 21:04  (5 条)
 
