@@ -1,90 +1,165 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-19 02:14**
-- 本轮扫到 3917 条, 新增 **10** 条
+- 最近更新: **2026-06-19 07:36**
+- 本轮扫到 3935 条, 新增 **18** 条
 
 ---
 
-## 本轮新发现 (10 条)
+## 本轮新发现 (18 条)
 
-### 蔡徐坤首张同名实体专辑《KUN》线下签售会开启招募，6月27日横琴见面
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019071ecy.html>
-
-### 蔡徐坤这次珠海签售会的具体规则和名额是如何分配的？
+### 蔡徐坤签售会8万专辑掉签引热议
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801oi96.html>
+- 链接: <https://k.sina.com.cn/article_6443453837_1800f4d8d040019in8.html>
 
-### 网红小黄豆为了蔡徐坤签售会总共花费了多少钱？
+### 小黄豆喜获蔡徐坤签售会门票
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801oi94.html>
+- 链接: <https://k.sina.com.cn/article_7879923946_m1d5ae18ea03303mfu2.html>
 
-### 特朗普：伊朗战争后，我的权力依然“没有极限”-观察者网
+### 周杰伦撇下演唱会彩排飞泰国，只为陪昆凌录中餐厅
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-06-19 00:40
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE92Wm9lSDk1V2dWdE9CV2FxSm8zUnpZLUMzYlotRExWQWhLNm54UkpWUFg0dTRVbGpUTnhEWE1zTVFFRWxMSWx5X0dLSjk1dFVocUdfTEsxbnppamhUcXRrYXAwYm5ySEFuZGc?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019071qgm.html>
+
+### 周杰伦最新MV《女儿殿下》发布,大秀复古舞风
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019071q6o.html>
+
+### 知道了知道了~你们要去看杰伦的演唱会了
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879996919_m1d5af35f7033020d8g.html>
+
+### 周杰伦新歌《女儿殿下》MV上线，两女儿同框阿Ken演奶爸
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201851_v1d45362bb06801ec0e.html>
+
+### 周杰伦鸟巢演唱会嘉宾曝光，邓紫棋王俊凯林俊杰将登场
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5735297670_p155d9b286027013pp8.html>
+
+### 周杰伦鸟巢演唱会嘉宾名单曝光，邓紫棋王俊凯林俊杰将登台
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5735297670_155d9b286040013ppe.html>
 
 ### 在霍尔木兹海峡办“贵宾通航证”，特朗普又一次开脑洞
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-19 00:14
-- 链接: <https://news.google.com/rss/articles/CBMi7gFBVV95cUxPSnRuZWF0QUlhYU51bndyNzBtR2FBN19mY0YxVWVsQVVhaE1DQmhYMTRVcTBOYU5pUnFFNjBiUjRTb0JZak5OczR2YkVZdjl0MGxrQmNlQk5vN3FENEZjWUlLNkRRNUhMdzg1RHVlbC1pSkJ6aFhUU285VUZMelVLMm9zZWN3RUJDWmFWa0s5cE5JekZaVTRtaHJnemhyTVk1anVWaHZSN3FqUjJFWjFTbkg3UkhiWlhWSE92TTZuTHR0VkZRN0FQd3JubzNyMW5JM3Q0ZjlSYjk3X2lPdWlrazh3aE5keVZiYU5STkZR?oc=5>
+- 时间: 2026-06-19 06:53
+- 链接: <https://news.google.com/rss/articles/CBMiiAJBVV95cUxPdzhtZU5uZFZfaTNUd3k5SlEycW1fbDNReWlzX1Fkc0h1eWJzb2owakJDcC04Y2JVME9XUHhMYl94ZkpDQTlwcTVPb2lpUm1ydlg4WVdDa3VKTUVmcEFQUFpyQ0dJdTc1QkwzT0xqcnRGVmpNd213bVFlZXZ1azJydjBzQ1RKVkphYzNKNkVNeDd0Ymd5Tl9wVDk2S0huZWZKdnJPdjRnc2o2T1FMN1lhZzZ6T0swX2s4UVF2Q0pjeW5YR0dpaXlPMEFwMkRVVndvcGJjWlNvNkVtNUZJaVdPLWFIWWNuM3o2TXl5dzhoTVdWR0V6WExCWktQQXExNjhOVC1xcHFwNmg?oc=5>
 
-### 奥巴马揭幕总统中心：好莱坞明星助阵，言辞暗刺特朗普
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-06-19 01:19
-- 链接: <https://news.google.com/rss/articles/CBMitAFBVV95cUxQSnJza1Z4WEhzWFhnaGtFQ0g5UGx5NXI5VGhKNTN1NGd4ZTIxWWNNcTBYMlc4WFZIRmlsRHhmRVNVZ21Zb2dDRElkSGdrSWZnSVl5c3MzOEp6aE1sd0NZaU52TUdBTlpHRVJIU082bFJYektPdXZFeThLRy15bWZKMzJiSkNxNE5leXI5OC1qOU5ZcWk5bmJyU21nYnkyZEJzRzhScHFuUDhCc3UxX0R5TW5LMUU?oc=5>
-
-### 美伊总统已远程签署备忘录 特朗普多次赞许中方“完全中立”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财新
-- 时间: 2026-06-18 00:48
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE4tdk1IdlJid1Jqd1hwNjFtRnVSZUh5b2p0OFFFV0VVcmJMb2xBXzFWSHJrakFxUGNNVVdGSk5ZSWd1LTB1OS1WSEJZQktMblZyX1FzSG1aTVdwMzBUUzlZRTRwLWhHdGFOOFE?oc=5>
-
-### 特朗普宣布苹果公司将与英特尔合作在美生产芯片
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-06-19 00:48
-- 链接: <https://news.google.com/rss/articles/CBMi1gJBVV95cUxQQjZiZ3RveFpvQW9fcEdOM24tendMZ0o0dGVDQklLaUQ5clBSQ20yaHpxM1I2YU9vby1zU0ZGcmZrS3l3LTZZbHQ4TzFFb1hzUDVfS0ZVeXRhR1lic1ZrZWlLYXdwWmhkNjEtVERUUmlWS1RKdHlFUWJXTF9NbFBzMlA3MHBjTTgzWnlTdGRENl9hdExPQ0UyRG9jWEZvMm9OMnRGNkNiR2FyeDZCZkpXazlycXVwbElYY09RWk1EM0QtRFFVdTlmVlN4cWFxb1FlaWl2UUUyaGdpLUxwX3Q2OTY1cnZpQ3FRaWZLWU5pb2hBVkx3S3dSYjNNZzVTOVJBSVJnRWo3WnhNUVpWRDNVVmtTMWpBZlZCenV6ZF9UcW5KWV9TeUdHck5YdGRjajVMZmxraF9NRnpqQlV0eDdJSThaR3RDbmNmcTRRaEtUNkM5RVh2VkE?oc=5>
-
-### 特朗普：预计“所有战线都将实现全面停火”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-06-18 23:08
-- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTGZrT3BLeGltdExGZGNMYm1lYlIyTmc1WFlWU0M1V1NDakNTYjJrOXJYVnhpMDJnS3FWTXFiOHBWNEE2Yjh6cVdlMWlVRzR3X3ViZlVuOFBVenJ6QU5La3VZZ045bHMxLU5wNkdsNGtYWnZiYmRNMC0wSGZhUlM0NmotdTlodTRR?oc=5>
-
-### G7峰会期间双边会晤，特朗普与莫迪再度上演亲密互动
+### 谈不成要被拿来顶罪？万斯：特朗普那是开玩笑呢
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-18 09:32
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUm5YZVdyMWc2NkJBbm90SlZLMTRGNEp1eXNkd3FUUDNvRDRjNW13REx0MjVhdGxOYmRTZmVlS3l1aWx6MkNEU3NENEJoVnlOZXF0eDVucFJxSDVSVGw1VUVjMUtIT3gyMHYwRko2NWVvd3B2QlRBZVdPLXlmcElINUQyOHZYSUY0eHVXQ1Z1NEc0WXhMaFhJM3pNc1JhdWx5N08tajBnNlF4QTYxMm8wblFKaWc3TzhXb1ozWGVWSXBiak00N3luMFNXRkxzMUNBM09wLVZNMkwwbEkxSm4w?oc=5>
+- 时间: 2026-06-19 05:37
+- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxPQXpGTjdmVF96MHdWSGI4Z2stbWs0RXdTSVFMYkhEWk13LVRIRGphZDk5eTVxaXBPSnMyVElXMU03Yy1JRlNySWJtcnRSc2hVS1h3MmN3eFlJbG9FZFBSTmJMRzFWQVMtT2JkY1ptSVR1b0tTUFE0UWo1SzlnbFpETUFER0dUcHlhcERzblhLdmNBM1FPVFZIdQ?oc=5>
+
+### 万斯怒喷：美国是你们唯一盟友，特朗普是唯一同情你们的国家元首-观察者网
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-06-19 02:56
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE05eGRzSEZCRGhxYVVrT2wxYzB6V0M4YVY2ZFlLT2JIRVNSTXJ1T3hFeG5XalVVT3hWYWk4RkdRak4tT0dCR2QxX1JVU1lYX185M2dUaUsyREVMZFM0WUdwMVdjcmhSVW5yZUE?oc=5>
+
+### 李在明发文称与特朗普共进晚餐 钢笔外交再续前缘
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华军事
+- 时间: 2026-06-19 02:15
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9GSl9YSHZDVkJ0QVVlbldoS1dETjNlOGZYV3VVNERsYklaNjNQdmRfR1NDeGhOaGNRdDRXZjg0SUliT2xINWM0VTdkczlINDZMSl9YLUdOdVZKYzdhM1Z5YzFicUQ3MVQ1RnlIN2xNSlY?oc=5>
+
+### 特朗普：美伊协议签署失败就怪万斯
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: QQ News
+- 时间: 2026-06-18 03:39
+- 链接: <https://news.google.com/rss/articles/CBMiVkFVX3lxTFBob2JpbVpWTHY2dC1FNVVROGZ1NFhHOHVjTXNtd2xYMTBVd1VRdWFqZVFZcDloSXBpV0U3RUhzOExtZ3R2OVEzTnZqRy1MNnpSMF8wZjNB?oc=5>
+
+### 英特尔股价飙升至纪录高点 特朗普称该公司与苹果商定芯片协议
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Sina finance
+- 时间: 2026-06-18 14:42
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxPa2Itb0lZUzROYnJIUTMtT3pRUncycThINkwwVjlnUURLVkxTOHJieXZaS3dMTkdLWVhNX1JzOExLelZVTVREWGx4WEJ5N1FHR3JnZVZpckJoOHVDR2txNzhQdS01V2xJc1lWZG5uQmY5ZzdKVFdJd2JNdms3dkw4RXRDZG9jVW8?oc=5>
+
+### 英特尔股价大涨超10%，特朗普官宣该公司将与苹果在美国开展芯片设计合作
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-06-18 22:23
+- 链接: <https://news.google.com/rss/articles/CBMijwJBVV95cUxQRzZZUG4zWjhrQm9rY29QWnVNcmstMFhLZDVsdjlkajRfQUhqMDNIUzAyX3NhT2Rnam5QeWxoSmEtZlB1MWN3cFRtWkp3dFBfaENHOFhYLV94aS1sTG9RQkhKSFZoOUpGMjE4VHlCMzNYOTNCTEhmMHNCRW5jUUtQaGI0RFlmYTFqejVrbUZkTklFbU5RS0xUeXpuS09FUXBONEVZNkFDMlI1eG1hVGxnOHZmNjRKS3daVUFRVUFzbnlELU9vQ3gzMi1fTUttMHM5b1U4SXdoODZCTktOSlpPN29XYXBTcUVVdThHTHY5eHVic1k3N2RqMFdBMVZlYTQwSzVPNWFYTWNzbk5lRkNZ?oc=5>
+
+### 美伊协议“推手”曝光？特朗普坦言：我不想看到经济灾难、不想当胡佛！
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 财联社
+- 时间: 2026-06-19 01:57
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTFBJbWF6RllsZXgzZnJIbld0S1NpZGhiMFU0Uy0zRGllZnd2MVMxcmRuZnBRMEFyRTJaMUQ3YXJfMl90elAxVm5sWg?oc=5>
+
+### 特朗普结束了他发起的战争，但并未实现目标
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 纽约时报中文网
+- 时间: 2026-06-16 03:03
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTFBXU0VYLW1rMHdTa2JTckxOQVFDUTF1MkR1YW5JWWx6VndEZkVHMUJxaENFZExjaG1OREVjNUY1LTdsdHo5eDV2UGlud2RMZHpsc280X3p0QllWZHZ6dUJVaGxRN1FEY0dFMXZvRWgxMmFWR1lhYlE?oc=5>
+
+### 美国专栏 - 美伊签署停战备忘录后进入关键60天 特朗普下一个考验是什么？
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-06-19 06:50
+- 链接: <https://news.google.com/rss/articles/CBMi5ANBVV95cUxOcGZ6bkJTUzdSMHFpeThGVlRBU0J1NzVWVnMtaEs1c3EzODRJczR3aEFDZnAtT1B4VVkyUnVzWF9ZbmR6ekpScV94a29fOUktTUNpSFBOT19PTndKNnVjZGppODFYdnVnOWdiZlVRZGZNSnB3Nno0UXFERmg4U2J6WmpNSlNfZjBrWG9sUURXRDVDZTZoY0tJcmNhUHNncTFHMkh5a1l3RUtaS1ZYZkVQTzVuWlJCRV9lejVhc0prTE5PaEgyY2FvWk1nLWtxZktUeDZITDNTLTRxQlF3WklHTjZTV2lGemt1ZjBvRGw3VU42WlVsMi1LVXliSFhrTFpCY3BENU9DLS0wOEYxR3NWM1dFZUZaS0luZHh5dThjTEU4RGladGlMLUV4S2FXOHNKRTZZUnM3Y2p3ajVUcXBhRkg2X0xpa0VmTThZYWdsbXROSVFzbmVXUmcxRmIta1ZUTmplRzYtcFVBNVF1WmlxcVdXLUZDc0wzRjVjZ2w3bUNKU3RyZmx3UGJzOHlZckgzZnhjbkxyMlJKYU1TX0wtaGZhX1phRVJxX0VCTV9IU3p2Wlk1Q0paY205WlpMYkpKRVZRbk1WRDdYS0dlVHhHcTZJZGVxeVRQanVWOXZycGtwWXNq?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-19 07:36  (18 条)
+
+- **蔡徐坤** | 蔡徐坤签售会8万专辑掉签引热议 <https://k.sina.com.cn/article_6443453837_1800f4d8d040019in8.html>
+- **蔡徐坤** | 小黄豆喜获蔡徐坤签售会门票 <https://k.sina.com.cn/article_7879923946_m1d5ae18ea03303mfu2.html>
+- **周杰伦** | 周杰伦撇下演唱会彩排飞泰国，只为陪昆凌录中餐厅 <https://k.sina.com.cn/article_7857201856_1d45362c0019071qgm.html>
+- **周杰伦** | 周杰伦最新MV《女儿殿下》发布,大秀复古舞风 <https://k.sina.com.cn/article_7857201856_1d45362c0019071q6o.html>
+- **周杰伦** | 知道了知道了~你们要去看杰伦的演唱会了 <https://k.sina.com.cn/article_7879996919_m1d5af35f7033020d8g.html>
+- **周杰伦** | 周杰伦新歌《女儿殿下》MV上线，两女儿同框阿Ken演奶爸 <https://k.sina.com.cn/article_7857201851_v1d45362bb06801ec0e.html>
+- **周杰伦** | 周杰伦鸟巢演唱会嘉宾曝光，邓紫棋王俊凯林俊杰将登场 <https://k.sina.com.cn/article_5735297670_p155d9b286027013pp8.html>
+- **周杰伦** | 周杰伦鸟巢演唱会嘉宾名单曝光，邓紫棋王俊凯林俊杰将登台 <https://k.sina.com.cn/article_5735297670_155d9b286040013ppe.html>
+- **特朗普** | 在霍尔木兹海峡办“贵宾通航证”，特朗普又一次开脑洞 <https://news.google.com/rss/articles/CBMiiAJBVV95cUxPdzhtZU5uZFZfaTNUd3k5SlEycW1fbDNReWlzX1Fkc0h1eWJzb2owakJDcC04Y2JVME9XUHhMYl94ZkpDQTlwcTVPb2lpUm1ydlg4WVdDa3VKTUVmcEFQUFpyQ0dJdTc1QkwzT0xqcnRGVmpNd213bVFlZXZ1azJydjBzQ1RKVkphYzNKNkVNeDd0Ymd5Tl9wVDk2S0huZWZKdnJPdjRnc2o2T1FMN1lhZzZ6T0swX2s4UVF2Q0pjeW5YR0dpaXlPMEFwMkRVVndvcGJjWlNvNkVtNUZJaVdPLWFIWWNuM3o2TXl5dzhoTVdWR0V6WExCWktQQXExNjhOVC1xcHFwNmg?oc=5>
+- **特朗普** | 谈不成要被拿来顶罪？万斯：特朗普那是开玩笑呢 <https://news.google.com/rss/articles/CBMimAFBVV95cUxPQXpGTjdmVF96MHdWSGI4Z2stbWs0RXdTSVFMYkhEWk13LVRIRGphZDk5eTVxaXBPSnMyVElXMU03Yy1JRlNySWJtcnRSc2hVS1h3MmN3eFlJbG9FZFBSTmJMRzFWQVMtT2JkY1ptSVR1b0tTUFE0UWo1SzlnbFpETUFER0dUcHlhcERzblhLdmNBM1FPVFZIdQ?oc=5>
+- **特朗普** | 万斯怒喷：美国是你们唯一盟友，特朗普是唯一同情你们的国家元首-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE05eGRzSEZCRGhxYVVrT2wxYzB6V0M4YVY2ZFlLT2JIRVNSTXJ1T3hFeG5XalVVT3hWYWk4RkdRak4tT0dCR2QxX1JVU1lYX185M2dUaUsyREVMZFM0WUdwMVdjcmhSVW5yZUE?oc=5>
+- **特朗普** | 李在明发文称与特朗普共进晚餐 钢笔外交再续前缘 <https://news.google.com/rss/articles/CBMicEFVX3lxTE9GSl9YSHZDVkJ0QVVlbldoS1dETjNlOGZYV3VVNERsYklaNjNQdmRfR1NDeGhOaGNRdDRXZjg0SUliT2xINWM0VTdkczlINDZMSl9YLUdOdVZKYzdhM1Z5YzFicUQ3MVQ1RnlIN2xNSlY?oc=5>
+- **特朗普** | 特朗普：美伊协议签署失败就怪万斯 <https://news.google.com/rss/articles/CBMiVkFVX3lxTFBob2JpbVpWTHY2dC1FNVVROGZ1NFhHOHVjTXNtd2xYMTBVd1VRdWFqZVFZcDloSXBpV0U3RUhzOExtZ3R2OVEzTnZqRy1MNnpSMF8wZjNB?oc=5>
+- **特朗普** | 英特尔股价飙升至纪录高点 特朗普称该公司与苹果商定芯片协议 <https://news.google.com/rss/articles/CBMihwFBVV95cUxPa2Itb0lZUzROYnJIUTMtT3pRUncycThINkwwVjlnUURLVkxTOHJieXZaS3dMTkdLWVhNX1JzOExLelZVTVREWGx4WEJ5N1FHR3JnZVZpckJoOHVDR2txNzhQdS01V2xJc1lWZG5uQmY5ZzdKVFdJd2JNdms3dkw4RXRDZG9jVW8?oc=5>
+- **特朗普** | 英特尔股价大涨超10%，特朗普官宣该公司将与苹果在美国开展芯片设计合作 <https://news.google.com/rss/articles/CBMijwJBVV95cUxQRzZZUG4zWjhrQm9rY29QWnVNcmstMFhLZDVsdjlkajRfQUhqMDNIUzAyX3NhT2Rnam5QeWxoSmEtZlB1MWN3cFRtWkp3dFBfaENHOFhYLV94aS1sTG9RQkhKSFZoOUpGMjE4VHlCMzNYOTNCTEhmMHNCRW5jUUtQaGI0RFlmYTFqejVrbUZkTklFbU5RS0xUeXpuS09FUXBONEVZNkFDMlI1eG1hVGxnOHZmNjRKS3daVUFRVUFzbnlELU9vQ3gzMi1fTUttMHM5b1U4SXdoODZCTktOSlpPN29XYXBTcUVVdThHTHY5eHVic1k3N2RqMFdBMVZlYTQwSzVPNWFYTWNzbk5lRkNZ?oc=5>
+- **特朗普** | 美伊协议“推手”曝光？特朗普坦言：我不想看到经济灾难、不想当胡佛！ <https://news.google.com/rss/articles/CBMiSEFVX3lxTFBJbWF6RllsZXgzZnJIbld0S1NpZGhiMFU0Uy0zRGllZnd2MVMxcmRuZnBRMEFyRTJaMUQ3YXJfMl90elAxVm5sWg?oc=5>
+- **Trump** | 特朗普结束了他发起的战争，但并未实现目标 <https://news.google.com/rss/articles/CBMidkFVX3lxTFBXU0VYLW1rMHdTa2JTckxOQVFDUTF1MkR1YW5JWWx6VndEZkVHMUJxaENFZExjaG1OREVjNUY1LTdsdHo5eDV2UGlud2RMZHpsc280X3p0QllWZHZ6dUJVaGxRN1FEY0dFMXZvRWgxMmFWR1lhYlE?oc=5>
+- **Trump** | 美国专栏 - 美伊签署停战备忘录后进入关键60天 特朗普下一个考验是什么？ <https://news.google.com/rss/articles/CBMi5ANBVV95cUxOcGZ6bkJTUzdSMHFpeThGVlRBU0J1NzVWVnMtaEs1c3EzODRJczR3aEFDZnAtT1B4VVkyUnVzWF9ZbmR6ekpScV94a29fOUktTUNpSFBOT19PTndKNnVjZGppODFYdnVnOWdiZlVRZGZNSnB3Nno0UXFERmg4U2J6WmpNSlNfZjBrWG9sUURXRDVDZTZoY0tJcmNhUHNncTFHMkh5a1l3RUtaS1ZYZkVQTzVuWlJCRV9lejVhc0prTE5PaEgyY2FvWk1nLWtxZktUeDZITDNTLTRxQlF3WklHTjZTV2lGemt1ZjBvRGw3VU42WlVsMi1LVXliSFhrTFpCY3BENU9DLS0wOEYxR3NWM1dFZUZaS0luZHh5dThjTEU4RGladGlMLUV4S2FXOHNKRTZZUnM3Y2p3ajVUcXBhRkg2X0xpa0VmTThZYWdsbXROSVFzbmVXUmcxRmIta1ZUTmplRzYtcFVBNVF1WmlxcVdXLUZDc0wzRjVjZ2w3bUNKU3RyZmx3UGJzOHlZckgzZnhjbkxyMlJKYU1TX0wtaGZhX1phRVJxX0VCTV9IU3p2Wlk1Q0paY205WlpMYkpKRVZRbk1WRDdYS0dlVHhHcTZJZGVxeVRQanVWOXZycGtwWXNq?oc=5>
 
 ### 2026-06-19 02:14  (10 条)
 
