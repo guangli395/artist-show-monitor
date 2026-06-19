@@ -1,41 +1,75 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-19 22:29**
-- 本轮扫到 3988 条, 新增 **7** 条
+- 最近更新: **2026-06-19 23:38**
+- 本轮扫到 3997 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (9 条)
 
-### 发布秘密任务 当得知任务时，白鹿：这事就我能做到
+### 6月20日隔夜要闻：特朗普对伊朗协议定调 意在驳斥美国失败论 油价上涨 美伊核谈遇阻且油轮通行放缓
 
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2887430567_mac1ab1a7033013pya.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-06-19 23:35
+- 链接: <https://news.google.com/rss/articles/CBMimgJBVV95cUxOUm9vQ1hCcmJBb3dicG9mR1ZaVkJkWVRpZzVBNzVJY3pkaGFMUmR0Q3ZYYTRPWGZaOWtEZVItT0p1OHZZaFYzZXcwMm1hZDR0SlBGdDJuWkNxT1MybTB4WTBKQVlrdGRNUVg2dEdDQ21nX3hfS0pUbk51ZXlGN2NUZVRqYV9wMk1kZ3hZNzA0OGx6MkdKVmk1TXEzOHh2OHQtTFhUQTRxVS1BSGp6dnhkS2U2M0I3NUdfdlZ6YTh0RWpxSUJoU3BUTlN6aVBKODdKT1BVUHhPaFdJT0xYWHFvblJKS3c4Smhmem9DZUd2MnZkQ0hmOS1mUGZvT29wR01ZTWlfRzF2TnFWZnVDWjdzbDQ3ay1UYk9YaHc?oc=5>
+
+### 特朗普说，船只正从霍尔木兹海峡“蜂拥而出”，并警告伊朗须在60天内达成最终协议
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-06-19 22:13
+- 链接: <https://news.google.com/rss/articles/CBMi8AFBVV95cUxOOXRObzhxdlVTenFZQVAzaHR0a2ZaMkdidl9TOUNTYXhlamFTVlgtd0d6dkZscmpCQXotbUM1Y3Z3RzI2ak1lYURJcW0xQk5hMVNCSjNtLUtsRlFKRm5BdzBOMTV6OWVKLWNBeDNUSkxtMmFZVWNhV0YwOHRBdXprcm5fYWdIblZkYmFLaHBDSmdaYS1ydHBKcDNTblRZZU1SUTl5eEEtX0xZbVc5VTF2VFdWY3pPcXNzanVxTFA2R3U3dzVLdkl6LU9jM2NTd3VRSFoyN0l6Y0hjeHMzcTZxRTFMODYtNWd4T0NqSGZ1aFDSAfMBQVVfeXFMTkNqUFJKWmZNQ2p1OXBlXzRsRHdic0xsNVhqOGxXQU9tQXBQd3Q4OWtja0NWVnNQbVlyQjZwOXE5SlRtMWRGZ1YyX2g3OXdqcHg5a2FMeUYzcGhacGpjNkR5NXJtbU5Dd1BfSXY3QmlzV1lFM20xX0FULXF4X1BmQnVwWnJwYkxoanVHaWoxWlZ4SE5CdkYxQ1FvaGI0QVBFU3Vld3QzbElCdnQ4VjBHemVTR0tiUUNqYWdHUEN1X3BiM015Z2VJaThBY2hGVHpTNjZSNzdWY1VQSEVlQVVCN0tNQXFlNDJvd2hxN1M2cHRuS3M0?oc=5>
+
+### 特朗普称意大利女总理“乞求”与他合影，“我本没有义务这样做，但可怜她便同意了” 梅洛尼怒斥：完全是编造的，“意大利和我从不乞求”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-06-19 23:26
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBCdHk5b1U2UmFtUUctR1VOc3RVRXpaa3VLMEFjY2xEMXNIZFo3eGh5ekc4SGFHQnhvRFN6Tkl0aEFXNElpM3NyNnNENjBlSzBsVUUwaTA0bmxENjliQnJtcDgzRjdndmRTQXRSNk5XTHA?oc=5>
+
+### 特朗普发表疑似嘲讽言论，梅洛尼回应：震惊
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-06-19 13:15
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE10ZmtPbFRnS21KMFMwWVIxYm55Mzc4N2dpXzR4UHNiN184MWNteHlnYUJxVnVPR0pRcVBVMkprUktGWVJoNU9JMnF1dS0?oc=5>
+
+### 特朗普向Axios表示 他不认为Anthropic对美国安全构成威胁
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-06-19 22:52
+- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSnNaQUJDalRzUlF5Ym9tVmtkYktFeTZtMk5iRmRQRjV6TU5YaWxaQWRDYWFjRWZ4d2JFRjB2d1JVNkNPZG5KUndNWDU3cUxOZHIzV3c1Qmh5dVp5SldjMU9NQlRuMTlDRTJvQTVHRHoyMEM3QWZTSVE5WnVaaXBYeWhZamluWXJWZkY4ZWloTzdvb1cwV1ZPLTdEVWRVYVhKcEFiYXR2NGRVZw?oc=5>
+
+### G7峰会期间双边会晤，特朗普与莫迪再度上演亲密互动
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-06-18 09:32
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPak5YNF9BSzlaWTFrS050aGxFWW0yVTk0NjBvbUljdlBsZzJneGt2MGxiOXQ2ZkRMdXZadVlYRjN4aGVlMzFWY1JQSjRMaXMxTEJfb0NKOG5KNVBzR1JXbGkxODdqaGtiNkZoaFk5Ums5YVp0MzF3d3dWMklRN0JRYnRlQ1UwQVh1WktqZEM0U2p1RXpwRWdYUXZwMjdlUWlwN1NhN1luOWxSNVhEeTV1RU1zOHZsUlg5SFFNLWcwSk5VaDNJd08xUjRQN0hiZ1VtTm0yR1VwWjROMmgta1M0?oc=5>
 
 ### 特朗普的新专机，首次亮相
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-06-19 21:17
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OR29RWndWUE5KZEFjYmg5UFFIV056eHdCOHFNSnJOTnV6a3ZCMlo2bmk5UlRfWnRBTVVHZUVsa0xZWFprSW11SmNRZGxFZUxUTnpHXzdJX283UkFXT2ZYdg?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-06-19 23:08
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE4zXzVfX2JoTTNkTllydm9pdXpOX0FLVGtoaWdnT1RfQzZaWWNPdFJqUy04cWtnckVfTHZPT3FnVjU5M21pVWdTc1RDVXo?oc=5>
 
-### 特朗普：Anthropic曾构成国家安全威胁
+### 视频丨加拿大总理向特朗普谄媚邀功：中国电车只能占加拿大市场的3%不到，我觉得你会喜欢
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-19 22:12
-- 链接: <https://news.google.com/rss/articles/CBMijwJBVV95cUxPaUl5ZThnS29OQ2UySlR3ZXZFTDZHRDdVQzM0dWZmSVd6WXZQVmRKV2JpbTRpeEw0X09MSmx6NzMwRW1PM2xTMGVLczF1R1BBSGZMWGQ1dlVld0xfQzd3MTlIWGNjTDN0WHc0Ujh6Y0VQNUoxQlRrZFdYN3RnWWgtVXNCdlA2U05fT3Jad29DMkpHNk13NFBZWlpCaGNvNU1RZHUwaTNjNkdBNzR2N1ZKbWVHbng4OUFzd1A3TTRNSS1iczFGOE1jMUMwcm1OSUJUZFF4a24tbk9Vek1BOWFZb3NObVAyOHVLMzVBNzlqTVNudEZ1OTNza2pOakxDeERidnJEaGgtWmFobW5EekFj?oc=5>
-
-### 要闻分析 - 从特朗普梅洛尼间的“闲话风波”看人情和国情
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-06-19 21:47
-- 链接: <https://news.google.com/rss/articles/CBMijwNBVV95cUxPbjZ3MllnQXpmeVNabE8zaEgwVDhsX2lyOXd1TFlTQmY3ckNrbUJLUVZNZVdvVzNfUWZzRHc5aDdGYXRSdzNTYklKelZlNVBtaFlyTUxFWEVsYkZTV1NjWERiZDNzdm9EdjhWc0NDSExrcmN4V0dkTUZwN2J0dmpPNHZwWGxzOUdyck9xNjVURlF6ajlKbXdvd2g4c2wwNlZtMmJ3WS1qODRjUGZuazNzaVJjaGtPVmhJemFzREhzM1lPSEgtZXZ5UGxWTVprLUlYRFg5aV9FT25ROThHZ3ItaFgxZ1MtcER4VmE1Y0Jfb012MGhyMVo4d1N3LWxxOS1xM0Q2ay1ZZmloaXlJVzVwaWs0ZjU4dUZHWmtSOWZiSXNGUHEzcXpJYkFkQ3VYOXFzQ2ZnNUpKYkRPSDltMjJsT09yUkNvSlRmc1ZtOE9iYkMzUU8wTFJKRHNmdTJ0dk0zZ3VxekVCbzlIbzV5MnFiZmd5UGd1YXplSVdyYUxIOC14aE1qSUVGUDVLeDFLdjA?oc=5>
+- 时间: 2026-06-19 20:52
+- 链接: <https://news.google.com/rss/articles/CBMitgJBVV95cUxNeTVBNGZNVHlsVTlLcmt0dnJlaTFleHJPckhzUXpBdHMwTTRTdzluTUNBRlhRLTBoQjFhRDBxWTI5TmRuWGJmdDl1Rkt6c3pfenF5eTZzMVpVZkJQQ0JNbkJ5VnkyUTRSQWZjVnhhcFRTWnlmNVZiUmhIRVMzYU04akhBbWhkZWRpeDdUVWRmMkE0ODR6cnpLdi16X000aVZOY21kLWdfanc4ak1GLXdBNmZ0U0ZxSDhOdngwbVotY0tTUG1qOUV6VHBkZ2R0LUVVb25PRW9Vd09hZFBTWEktbTZaZHVkaVpWQVR4Ny1Zd1dtZDViUWE3X2E0aTBVcXZZNE5iNm9PYTFQWVgyU0dkYmQyOVBlRlRmbDVxX2hQWG1mcEkxVVZDYnh0NDZGbUVJZkU0RC1n?oc=5>
 
 ### 特朗普，“生日不快乐”
 
@@ -43,28 +77,24 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-06-19 02:30
-- 链接: <https://news.google.com/rss/articles/CBMizgFBVV95cUxPVnZmRmRKWkJ0QS05NEVLQWxYQkh6V1h0d256ejJ1WndfTWJieW1BeXo2Y0RSLVZwdkRqb2p0eDJ0OVZnZXJvbDBrUTBjazYyeVVpOE5zRkc3WG45cjA5MDZiMzhJSS1aeGQxU1VUcWtYMU5jQXdFeGdWLUNiZHdjVkdiSTA5ajFGaUJUM3pwWUJJTjExWEx1Njg3TDJ4Uk03STRvRktOcTZYaXNlY1E1UHlZR1A0d1BrTVhud1N6Ulp1RGQ1c2pVZTAyWDBoZw?oc=5>
-
-### 特朗普总统：美国与伊朗达成协议并非“出于绝望”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-06-19 19:33
-- 链接: <https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcjUzN3l1VjZJQlVTQXlNVVhOV3Z2cXZyVmZBMzdfTkFhNW5pam1UaTA4aFEwWUR4bHNWS2dqLVJ6UHkzUC1ya0NSbHJiVzduazRGN3dHbVRpZE5BSkJFWmtlNlNiYXpUS3c1QUdGUXZvZ1NCc0tSNVBwSjR4TDRZVjNNVGozTnNDR3FreFUtaDUwN0dMemo5NXgyc0tCazhFVl9ES2hjTl9HQzZERG1kbWZyZ19kOHdi0gG4AUFVX3lxTE1yNTM3eXVWNklCVVNBeU1VWE5XdnZxdnJWZkEzN19OQWE1bmlqbVRpMDhoUTBZRHhsc1ZLZ2otUnpQeTNQLXJrQ1JscmJXN25rNEY3d0dtVGlkTkFKQkVaa2U2U2JhelRLdzVBR0ZRdm9nU0JzS1I1UHBKNHhMNFlWM01UajNOc0NHcWt4VS1oNTA3R0x6ajk1eDJzS0JrOEVWX0RLaGNOX0dDNkREbWRtZnJnX2Q4d2I?oc=5>
-
-### 马克龙：“一直对特朗普充满信心”
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-06-17 20:56
-- 链接: <https://news.google.com/rss/articles/CBMi_AFBVV95cUxPYzZpOTVtQlFGTEVpcUd6U3ZZN2lrNTFfVDJndTFDalNmc25OZndMRWlkcEVVYU9QM3FGWTJVZDRRd3BGdGNSUFN4MmVLdEFlRTVWZE1RLTdKb19TS3c1R0d0Y1U5czBQdDFVQU1ZemRvWFhOeHhHUE5MZU55SzVLZDE1RmZjOXZqMllsSm9xNWRaa3YzNEtSaGtSNno3SmduWmFsQmZPVHdxRFBfeFFLaVRoLTdyUUpuSWVHSEd6UWt1ZDRvcXRoYy1mV0NVUFBuOHExeVVTVlZGWTZTOHdOSURtUjhIalJFTlI4dEUzVzNrWTNvWExBWWozT3c?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMizgFBVV95cUxOanZEb2VqWmZfalZwcGhzLWIxcWRkUkpfb2dkRTFVdE1Gbmd3UlBfSmQ5RUJMNWJsMFU0MGZtaTVrbkpudXFRT2NUY1B5YnExUU5Md1RpUGRIUjRobkZoSjRWTWtMUVhZemdycGZVZ2Jtc1J3ZmZzeFJhNDlfa1lCZ3BHaGpoU25vbzRHWS0tcVZabHN1ZXBlZy1WSm52LV9xTVdfd0tJTjRpSzkwaUc0YXJYcXFzMk04NUlnVllRbF9kQWZiQzd3Z2htSll4dw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-19 23:38  (9 条)
+
+- **特朗普** | 6月20日隔夜要闻：特朗普对伊朗协议定调 意在驳斥美国失败论 油价上涨 美伊核谈遇阻且油轮通行放缓 <https://news.google.com/rss/articles/CBMimgJBVV95cUxOUm9vQ1hCcmJBb3dicG9mR1ZaVkJkWVRpZzVBNzVJY3pkaGFMUmR0Q3ZYYTRPWGZaOWtEZVItT0p1OHZZaFYzZXcwMm1hZDR0SlBGdDJuWkNxT1MybTB4WTBKQVlrdGRNUVg2dEdDQ21nX3hfS0pUbk51ZXlGN2NUZVRqYV9wMk1kZ3hZNzA0OGx6MkdKVmk1TXEzOHh2OHQtTFhUQTRxVS1BSGp6dnhkS2U2M0I3NUdfdlZ6YTh0RWpxSUJoU3BUTlN6aVBKODdKT1BVUHhPaFdJT0xYWHFvblJKS3c4Smhmem9DZUd2MnZkQ0hmOS1mUGZvT29wR01ZTWlfRzF2TnFWZnVDWjdzbDQ3ay1UYk9YaHc?oc=5>
+- **特朗普** | 特朗普说，船只正从霍尔木兹海峡“蜂拥而出”，并警告伊朗须在60天内达成最终协议 <https://news.google.com/rss/articles/CBMi8AFBVV95cUxOOXRObzhxdlVTenFZQVAzaHR0a2ZaMkdidl9TOUNTYXhlamFTVlgtd0d6dkZscmpCQXotbUM1Y3Z3RzI2ak1lYURJcW0xQk5hMVNCSjNtLUtsRlFKRm5BdzBOMTV6OWVKLWNBeDNUSkxtMmFZVWNhV0YwOHRBdXprcm5fYWdIblZkYmFLaHBDSmdaYS1ydHBKcDNTblRZZU1SUTl5eEEtX0xZbVc5VTF2VFdWY3pPcXNzanVxTFA2R3U3dzVLdkl6LU9jM2NTd3VRSFoyN0l6Y0hjeHMzcTZxRTFMODYtNWd4T0NqSGZ1aFDSAfMBQVVfeXFMTkNqUFJKWmZNQ2p1OXBlXzRsRHdic0xsNVhqOGxXQU9tQXBQd3Q4OWtja0NWVnNQbVlyQjZwOXE5SlRtMWRGZ1YyX2g3OXdqcHg5a2FMeUYzcGhacGpjNkR5NXJtbU5Dd1BfSXY3QmlzV1lFM20xX0FULXF4X1BmQnVwWnJwYkxoanVHaWoxWlZ4SE5CdkYxQ1FvaGI0QVBFU3Vld3QzbElCdnQ4VjBHemVTR0tiUUNqYWdHUEN1X3BiM015Z2VJaThBY2hGVHpTNjZSNzdWY1VQSEVlQVVCN0tNQXFlNDJvd2hxN1M2cHRuS3M0?oc=5>
+- **特朗普** | 特朗普称意大利女总理“乞求”与他合影，“我本没有义务这样做，但可怜她便同意了” 梅洛尼怒斥：完全是编造的，“意大利和我从不乞求” <https://news.google.com/rss/articles/CBMicEFVX3lxTFBCdHk5b1U2UmFtUUctR1VOc3RVRXpaa3VLMEFjY2xEMXNIZFo3eGh5ekc4SGFHQnhvRFN6Tkl0aEFXNElpM3NyNnNENjBlSzBsVUUwaTA0bmxENjliQnJtcDgzRjdndmRTQXRSNk5XTHA?oc=5>
+- **特朗普** | 特朗普发表疑似嘲讽言论，梅洛尼回应：震惊 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE10ZmtPbFRnS21KMFMwWVIxYm55Mzc4N2dpXzR4UHNiN184MWNteHlnYUJxVnVPR0pRcVBVMkprUktGWVJoNU9JMnF1dS0?oc=5>
+- **特朗普** | 特朗普向Axios表示 他不认为Anthropic对美国安全构成威胁 <https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSnNaQUJDalRzUlF5Ym9tVmtkYktFeTZtMk5iRmRQRjV6TU5YaWxaQWRDYWFjRWZ4d2JFRjB2d1JVNkNPZG5KUndNWDU3cUxOZHIzV3c1Qmh5dVp5SldjMU9NQlRuMTlDRTJvQTVHRHoyMEM3QWZTSVE5WnVaaXBYeWhZamluWXJWZkY4ZWloTzdvb1cwV1ZPLTdEVWRVYVhKcEFiYXR2NGRVZw?oc=5>
+- **特朗普** | G7峰会期间双边会晤，特朗普与莫迪再度上演亲密互动 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPak5YNF9BSzlaWTFrS050aGxFWW0yVTk0NjBvbUljdlBsZzJneGt2MGxiOXQ2ZkRMdXZadVlYRjN4aGVlMzFWY1JQSjRMaXMxTEJfb0NKOG5KNVBzR1JXbGkxODdqaGtiNkZoaFk5Ums5YVp0MzF3d3dWMklRN0JRYnRlQ1UwQVh1WktqZEM0U2p1RXpwRWdYUXZwMjdlUWlwN1NhN1luOWxSNVhEeTV1RU1zOHZsUlg5SFFNLWcwSk5VaDNJd08xUjRQN0hiZ1VtTm0yR1VwWjROMmgta1M0?oc=5>
+- **特朗普** | 特朗普的新专机，首次亮相 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE4zXzVfX2JoTTNkTllydm9pdXpOX0FLVGtoaWdnT1RfQzZaWWNPdFJqUy04cWtnckVfTHZPT3FnVjU5M21pVWdTc1RDVXo?oc=5>
+- **特朗普** | 视频丨加拿大总理向特朗普谄媚邀功：中国电车只能占加拿大市场的3%不到，我觉得你会喜欢 <https://news.google.com/rss/articles/CBMitgJBVV95cUxNeTVBNGZNVHlsVTlLcmt0dnJlaTFleHJPckhzUXpBdHMwTTRTdzluTUNBRlhRLTBoQjFhRDBxWTI5TmRuWGJmdDl1Rkt6c3pfenF5eTZzMVpVZkJQQ0JNbkJ5VnkyUTRSQWZjVnhhcFRTWnlmNVZiUmhIRVMzYU04akhBbWhkZWRpeDdUVWRmMkE0ODR6cnpLdi16X000aVZOY21kLWdfanc4ak1GLXdBNmZ0U0ZxSDhOdngwbVotY0tTUG1qOUV6VHBkZ2R0LUVVb25PRW9Vd09hZFBTWEktbTZaZHVkaVpWQVR4Ny1Zd1dtZDViUWE3X2E0aTBVcXZZNE5iNm9PYTFQWVgyU0dkYmQyOVBlRlRmbDVxX2hQWG1mcEkxVVZDYnh0NDZGbUVJZkU0RC1n?oc=5>
+- **特朗普** | 特朗普，“生日不快乐” <https://news.google.com/rss/articles/CBMizgFBVV95cUxOanZEb2VqWmZfalZwcGhzLWIxcWRkUkpfb2dkRTFVdE1Gbmd3UlBfSmQ5RUJMNWJsMFU0MGZtaTVrbkpudXFRT2NUY1B5YnExUU5Md1RpUGRIUjRobkZoSjRWTWtMUVhZemdycGZVZ2Jtc1J3ZmZzeFJhNDlfa1lCZ3BHaGpoU25vbzRHWS0tcVZabHN1ZXBlZy1WSm52LV9xTVdfd0tJTjRpSzkwaUc0YXJYcXFzMk04NUlnVllRbF9kQWZiQzd3Z2htSll4dw?oc=5>
 
 ### 2026-06-19 22:29  (7 条)
 
