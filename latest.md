@@ -1,144 +1,128 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-19 07:36**
-- 本轮扫到 3935 条, 新增 **18** 条
+- 最近更新: **2026-06-19 12:01**
+- 本轮扫到 3948 条, 新增 **13** 条
 
 ---
 
-## 本轮新发现 (18 条)
+## 本轮新发现 (13 条)
 
-### 蔡徐坤签售会8万专辑掉签引热议
+### 王一博 新歌微博VC计划
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301cec0.html>
+
+### 刘雨昕主题曲中心位，一个回眸帅翻全场，女生也顶不住
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6443453837_1800f4d8d040019in8.html>
+- 链接: <https://k.sina.com.cn/article_6579479566_m1882ae40e03301dh4q.html>
 
-### 小黄豆喜获蔡徐坤签售会门票
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923946_m1d5ae18ea03303mfu2.html>
-
-### 周杰伦撇下演唱会彩排飞泰国，只为陪昆凌录中餐厅
+### 杰伦：Over 10M views谢谢所有观看MV的朋友们
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019071qgm.html>
+- 链接: <https://k.sina.com.cn/article_7879923704_m1d5ae17f803301tj0y.html>
 
-### 周杰伦最新MV《女儿殿下》发布,大秀复古舞风
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019071q6o.html>
-
-### 知道了知道了~你们要去看杰伦的演唱会了
+### 周杰伦北京鸟巢演唱会进入倒计时
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879996919_m1d5af35f7033020d8g.html>
+- 链接: <https://k.sina.com.cn/article_7879923551_m1d5ae175f03301l4a8.html>
 
-### 周杰伦新歌《女儿殿下》MV上线，两女儿同框阿Ken演奶爸
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201851_v1d45362bb06801ec0e.html>
-
-### 周杰伦鸟巢演唱会嘉宾曝光，邓紫棋王俊凯林俊杰将登场
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5735297670_p155d9b286027013pp8.html>
-
-### 周杰伦鸟巢演唱会嘉宾名单曝光，邓紫棋王俊凯林俊杰将登台
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5735297670_155d9b286040013ppe.html>
-
-### 在霍尔木兹海峡办“贵宾通航证”，特朗普又一次开脑洞
+### 万斯警告以色列：只有特朗普还同情你们
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-19 06:53
-- 链接: <https://news.google.com/rss/articles/CBMiiAJBVV95cUxPdzhtZU5uZFZfaTNUd3k5SlEycW1fbDNReWlzX1Fkc0h1eWJzb2owakJDcC04Y2JVME9XUHhMYl94ZkpDQTlwcTVPb2lpUm1ydlg4WVdDa3VKTUVmcEFQUFpyQ0dJdTc1QkwzT0xqcnRGVmpNd213bVFlZXZ1azJydjBzQ1RKVkphYzNKNkVNeDd0Ymd5Tl9wVDk2S0huZWZKdnJPdjRnc2o2T1FMN1lhZzZ6T0swX2s4UVF2Q0pjeW5YR0dpaXlPMEFwMkRVVndvcGJjWlNvNkVtNUZJaVdPLWFIWWNuM3o2TXl5dzhoTVdWR0V6WExCWktQQXExNjhOVC1xcHFwNmg?oc=5>
+- 时间: 2026-06-19 09:44
+- 链接: <https://news.google.com/rss/articles/CBMiiAJBVV95cUxNbVFJaEhZdDdZZFNnbmFlUFliZWRDYmlBYlB6OEMxbXZWRmkxck52OUtNZnY0LWdfUHNoT3RJd2hYeWVpRTVvQnVzY2Vzazl2b1lPdmVMY2NCanNxb0RRbjNvd2RTOEZ3WWE2NVV0SHlndGVGdV9hbmt5aWl0QW44Sk1Rbm55eUtiaTcyc1ZfUFlSQy1iLUVIQkV4eEQyOWsxM0h2ZExzUlhwdmNHXzhaQlA2WVNfOUtZQi1XZGxmQzlSYl91Z0FSRGxCclE1NGtLYW8tQ2w4dkw5OTBWazRzcWM5M1RrYV80dG9vQkZWUUZ2dEtTYXB2bldvYkQzZ2tPMmo2QlRIa3g?oc=5>
 
-### 谈不成要被拿来顶罪？万斯：特朗普那是开玩笑呢
+### 特朗普官宣苹果与英特尔合作造芯，背后有哪些考虑？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-19 05:37
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxPQXpGTjdmVF96MHdWSGI4Z2stbWs0RXdTSVFMYkhEWk13LVRIRGphZDk5eTVxaXBPSnMyVElXMU03Yy1JRlNySWJtcnRSc2hVS1h3MmN3eFlJbG9FZFBSTmJMRzFWQVMtT2JkY1ptSVR1b0tTUFE0UWo1SzlnbFpETUFER0dUcHlhcERzblhLdmNBM1FPVFZIdQ?oc=5>
+- 时间: 2026-06-19 10:04
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE40ZDVQQTNjdzVJdnlnT2RNbnBMRkZYWlNoT2prWFd2bjBQcmpPT3FHWGpDVGtiXzlPNndKMFhnR19WNzkyeE9aX1ZDaVYxRHJUUy1CYVNQTWg0dDZZMXQ4eW5hYlBxaUxmb0lSTjlwNXhsS29TUDJjNw?oc=5>
 
-### 万斯怒喷：美国是你们唯一盟友，特朗普是唯一同情你们的国家元首-观察者网
+### 美国空军一号退役！波音造不出新机特朗普接手卡塔尔赠送豪华747_手机新浪网
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-06-19 02:56
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE05eGRzSEZCRGhxYVVrT2wxYzB6V0M4YVY2ZFlLT2JIRVNSTXJ1T3hFeG5XalVVT3hWYWk4RkdRak4tT0dCR2QxX1JVU1lYX185M2dUaUsyREVMZFM0WUdwMVdjcmhSVW5yZUE?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-06-19 09:50
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9KOFpyeVFPaVFUSXQyNTZTeTh3NEFrRzBXdnVvQ3hZNzBDRVEzdlJxQ3NYc29HMVg5eVV0b2N6Rm9LTGQtYTRLajUxUnMyR3JJRHhacWFhQzVDNzA3TF9waUVHNjFkRUZqX3FUVmR0YzZ2bXJEZW9DNkcyTWF4RjQ?oc=5>
 
-### 李在明发文称与特朗普共进晚餐 钢笔外交再续前缘
+### 媒体：特朗普“生日不快乐” 白宫庆典引发争议
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 中华军事
-- 时间: 2026-06-19 02:15
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9GSl9YSHZDVkJ0QVVlbldoS1dETjNlOGZYV3VVNERsYklaNjNQdmRfR1NDeGhOaGNRdDRXZjg0SUliT2xINWM0VTdkczlINDZMSl9YLUdOdVZKYzdhM1Z5YzFicUQ3MVQ1RnlIN2xNSlY?oc=5>
+- 时间: 2026-06-19 07:54
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBhLUFjUHU4bzRtbXllMGhwVWl1RTBoOWVkNmh4V0lDX0JKc05leGpPZFEtVG05dkt1YTZFTDBhSVBMa2M3TGR3eGJHMldrenlaU2FuNFlWQjF6RmJXWmt2SFc4bEo2TDBUVDMybTJjVk8?oc=5>
 
-### 特朗普：美伊协议签署失败就怪万斯
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: QQ News
-- 时间: 2026-06-18 03:39
-- 链接: <https://news.google.com/rss/articles/CBMiVkFVX3lxTFBob2JpbVpWTHY2dC1FNVVROGZ1NFhHOHVjTXNtd2xYMTBVd1VRdWFqZVFZcDloSXBpV0U3RUhzOExtZ3R2OVEzTnZqRy1MNnpSMF8wZjNB?oc=5>
-
-### 英特尔股价飙升至纪录高点 特朗普称该公司与苹果商定芯片协议
+### 特朗普称理解加拿大对中国电动车设进口配额
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Sina finance
-- 时间: 2026-06-18 14:42
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxPa2Itb0lZUzROYnJIUTMtT3pRUncycThINkwwVjlnUURLVkxTOHJieXZaS3dMTkdLWVhNX1JzOExLelZVTVREWGx4WEJ5N1FHR3JnZVZpckJoOHVDR2txNzhQdS01V2xJc1lWZG5uQmY5ZzdKVFdJd2JNdms3dkw4RXRDZG9jVW8?oc=5>
+- 场馆: 联合早报
+- 时间: 2026-06-18 04:35
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9nbkVjdkI4aU43OHJlazg5UEpxNmZxZ2tHS3UtQ3k0czZDRHN5bHNEbDVyUHF0TkhLNHFVd2xNYlI0OWwzT3dJN0E0Y1VjUUgtVXVRLXhzVFNfTkZmX25GWVBvTEVIUQ?oc=5>
 
-### 英特尔股价大涨超10%，特朗普官宣该公司将与苹果在美国开展芯片设计合作
+### G7峰会期间双边会晤，特朗普与莫迪再度上演亲密互动
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-18 22:23
-- 链接: <https://news.google.com/rss/articles/CBMijwJBVV95cUxQRzZZUG4zWjhrQm9rY29QWnVNcmstMFhLZDVsdjlkajRfQUhqMDNIUzAyX3NhT2Rnam5QeWxoSmEtZlB1MWN3cFRtWkp3dFBfaENHOFhYLV94aS1sTG9RQkhKSFZoOUpGMjE4VHlCMzNYOTNCTEhmMHNCRW5jUUtQaGI0RFlmYTFqejVrbUZkTklFbU5RS0xUeXpuS09FUXBONEVZNkFDMlI1eG1hVGxnOHZmNjRKS3daVUFRVUFzbnlELU9vQ3gzMi1fTUttMHM5b1U4SXdoODZCTktOSlpPN29XYXBTcUVVdThHTHY5eHVic1k3N2RqMFdBMVZlYTQwSzVPNWFYTWNzbk5lRkNZ?oc=5>
+- 时间: 2026-06-18 09:32
+- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxPXzhIc1FOZnRWMER1M1NYUTBQVl8yV2xZVnFLUmNkanpibmR1RTBwNlpYM05hZEJpdHJacGtNS19SQmx1aUVGeVRzRXFpRGFrWXFtd2RmejdvRGtPWTg2aWh1TjJya2VYdWZrNlBPdmF2bXZ5OG9GejZvbFhvWWZVbFdOY21ERVFZQWJ5STRWdjJMWDd5OEhJSW9hckM5ZnpUY3Z0OHpIUTZjNkZtV0p3a09OVHZOZU1wNjNxWnA1ZXNwakgzakhiVDVPM1VhQTkybVk1c0VLOTNaS0NWZ1E?oc=5>
 
-### 美伊协议“推手”曝光？特朗普坦言：我不想看到经济灾难、不想当胡佛！
+### G7峰会与特朗普见面无熊抱 莫迪演说警告信任赤字加剧
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-06-19 01:57
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTFBJbWF6RllsZXgzZnJIbld0S1NpZGhiMFU0Uy0zRGllZnd2MVMxcmRuZnBRMEFyRTJaMUQ3YXJfMl90elAxVm5sWg?oc=5>
+- 场馆: 联合早报
+- 时间: 2026-06-17 09:46
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1mZElvTWotTmR1OUN4YzdCWjlPcTlyWnlTcWF0dHRMOGdyOWhYX1M2NWw2RkRQaGw0aDB6QzlrcnlMTG1qcGprcm1nMkVocV9kUnc4S2RXRXJSUGtEQXo1cDdDNmhVTEZKVGc?oc=5>
 
-### 特朗普结束了他发起的战争，但并未实现目标
+### “特朗普，你要打击报复就找我，别动我老婆、家人”
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-06-16 03:03
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTFBXU0VYLW1rMHdTa2JTckxOQVFDUTF1MkR1YW5JWWx6VndEZkVHMUJxaENFZExjaG1OREVjNUY1LTdsdHo5eDV2UGlud2RMZHpsc280X3p0QllWZHZ6dUJVaGxRN1FEY0dFMXZvRWgxMmFWR1lhYlE?oc=5>
+- 场馆: QQ News
+- 时间: 2026-06-16 10:58
+- 链接: <https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yQ1ZfQ1dJVEgwend0M3VnX2lMdEdmTWI1VmVmYnlKR0tLZGNMeDdhdUJPNE5YdTNrM1ppcGRRMWpsaTNvRVJPRjdGcTJOR2JjbGk0V0tR?oc=5>
 
-### 美国专栏 - 美伊签署停战备忘录后进入关键60天 特朗普下一个考验是什么？
+### 特朗普官宣：苹果牵手英特尔，美国造芯！
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-06-19 06:50
-- 链接: <https://news.google.com/rss/articles/CBMi5ANBVV95cUxOcGZ6bkJTUzdSMHFpeThGVlRBU0J1NzVWVnMtaEs1c3EzODRJczR3aEFDZnAtT1B4VVkyUnVzWF9ZbmR6ekpScV94a29fOUktTUNpSFBOT19PTndKNnVjZGppODFYdnVnOWdiZlVRZGZNSnB3Nno0UXFERmg4U2J6WmpNSlNfZjBrWG9sUURXRDVDZTZoY0tJcmNhUHNncTFHMkh5a1l3RUtaS1ZYZkVQTzVuWlJCRV9lejVhc0prTE5PaEgyY2FvWk1nLWtxZktUeDZITDNTLTRxQlF3WklHTjZTV2lGemt1ZjBvRGw3VU42WlVsMi1LVXliSFhrTFpCY3BENU9DLS0wOEYxR3NWM1dFZUZaS0luZHh5dThjTEU4RGladGlMLUV4S2FXOHNKRTZZUnM3Y2p3ajVUcXBhRkg2X0xpa0VmTThZYWdsbXROSVFzbmVXUmcxRmIta1ZUTmplRzYtcFVBNVF1WmlxcVdXLUZDc0wzRjVjZ2w3bUNKU3RyZmx3UGJzOHlZckgzZnhjbkxyMlJKYU1TX0wtaGZhX1phRVJxX0VCTV9IU3p2Wlk1Q0paY205WlpMYkpKRVZRbk1WRDdYS0dlVHhHcTZJZGVxeVRQanVWOXZycGtwWXNq?oc=5>
+- 场馆: 电子工程专辑
+- 时间: 2026-06-19 01:38
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE12X25rb3hBSHgxLVhiYmQzN2NKQVc4VGVNQUp3ZzJERkN0RTk3TFd5akFqY2Y4TmZsc3dCMzQ5MWhVTTR0UkF2V1lVUW9uWHAyOEVz?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-19 12:01  (13 条)
+
+- **王一博** | 王一博 新歌微博VC计划 <https://k.sina.com.cn/article_7879924009_m1d5ae192903301cec0.html>
+- **蔡徐坤** | 刘雨昕主题曲中心位，一个回眸帅翻全场，女生也顶不住 <https://k.sina.com.cn/article_6579479566_m1882ae40e03301dh4q.html>
+- **周杰伦** | 杰伦：Over 10M views谢谢所有观看MV的朋友们 <https://k.sina.com.cn/article_7879923704_m1d5ae17f803301tj0y.html>
+- **周杰伦** | 周杰伦北京鸟巢演唱会进入倒计时 <https://k.sina.com.cn/article_7879923551_m1d5ae175f03301l4a8.html>
+- **特朗普** | 万斯警告以色列：只有特朗普还同情你们 <https://news.google.com/rss/articles/CBMiiAJBVV95cUxNbVFJaEhZdDdZZFNnbmFlUFliZWRDYmlBYlB6OEMxbXZWRmkxck52OUtNZnY0LWdfUHNoT3RJd2hYeWVpRTVvQnVzY2Vzazl2b1lPdmVMY2NCanNxb0RRbjNvd2RTOEZ3WWE2NVV0SHlndGVGdV9hbmt5aWl0QW44Sk1Rbm55eUtiaTcyc1ZfUFlSQy1iLUVIQkV4eEQyOWsxM0h2ZExzUlhwdmNHXzhaQlA2WVNfOUtZQi1XZGxmQzlSYl91Z0FSRGxCclE1NGtLYW8tQ2w4dkw5OTBWazRzcWM5M1RrYV80dG9vQkZWUUZ2dEtTYXB2bldvYkQzZ2tPMmo2QlRIa3g?oc=5>
+- **特朗普** | 特朗普官宣苹果与英特尔合作造芯，背后有哪些考虑？ <https://news.google.com/rss/articles/CBMieEFVX3lxTE40ZDVQQTNjdzVJdnlnT2RNbnBMRkZYWlNoT2prWFd2bjBQcmpPT3FHWGpDVGtiXzlPNndKMFhnR19WNzkyeE9aX1ZDaVYxRHJUUy1CYVNQTWg0dDZZMXQ4eW5hYlBxaUxmb0lSTjlwNXhsS29TUDJjNw?oc=5>
+- **特朗普** | 美国空军一号退役！波音造不出新机特朗普接手卡塔尔赠送豪华747_手机新浪网 <https://news.google.com/rss/articles/CBMif0FVX3lxTE9KOFpyeVFPaVFUSXQyNTZTeTh3NEFrRzBXdnVvQ3hZNzBDRVEzdlJxQ3NYc29HMVg5eVV0b2N6Rm9LTGQtYTRLajUxUnMyR3JJRHhacWFhQzVDNzA3TF9waUVHNjFkRUZqX3FUVmR0YzZ2bXJEZW9DNkcyTWF4RjQ?oc=5>
+- **特朗普** | 媒体：特朗普“生日不快乐” 白宫庆典引发争议 <https://news.google.com/rss/articles/CBMicEFVX3lxTFBhLUFjUHU4bzRtbXllMGhwVWl1RTBoOWVkNmh4V0lDX0JKc05leGpPZFEtVG05dkt1YTZFTDBhSVBMa2M3TGR3eGJHMldrenlaU2FuNFlWQjF6RmJXWmt2SFc4bEo2TDBUVDMybTJjVk8?oc=5>
+- **特朗普** | 特朗普称理解加拿大对中国电动车设进口配额 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9nbkVjdkI4aU43OHJlazg5UEpxNmZxZ2tHS3UtQ3k0czZDRHN5bHNEbDVyUHF0TkhLNHFVd2xNYlI0OWwzT3dJN0E0Y1VjUUgtVXVRLXhzVFNfTkZmX25GWVBvTEVIUQ?oc=5>
+- **特朗普** | G7峰会期间双边会晤，特朗普与莫迪再度上演亲密互动 <https://news.google.com/rss/articles/CBMi3gFBVV95cUxPXzhIc1FOZnRWMER1M1NYUTBQVl8yV2xZVnFLUmNkanpibmR1RTBwNlpYM05hZEJpdHJacGtNS19SQmx1aUVGeVRzRXFpRGFrWXFtd2RmejdvRGtPWTg2aWh1TjJya2VYdWZrNlBPdmF2bXZ5OG9GejZvbFhvWWZVbFdOY21ERVFZQWJ5STRWdjJMWDd5OEhJSW9hckM5ZnpUY3Z0OHpIUTZjNkZtV0p3a09OVHZOZU1wNjNxWnA1ZXNwakgzakhiVDVPM1VhQTkybVk1c0VLOTNaS0NWZ1E?oc=5>
+- **特朗普** | G7峰会与特朗普见面无熊抱 莫迪演说警告信任赤字加剧 <https://news.google.com/rss/articles/CBMiakFVX3lxTE1mZElvTWotTmR1OUN4YzdCWjlPcTlyWnlTcWF0dHRMOGdyOWhYX1M2NWw2RkRQaGw0aDB6QzlrcnlMTG1qcGprcm1nMkVocV9kUnc4S2RXRXJSUGtEQXo1cDdDNmhVTEZKVGc?oc=5>
+- **特朗普** | “特朗普，你要打击报复就找我，别动我老婆、家人” <https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yQ1ZfQ1dJVEgwend0M3VnX2lMdEdmTWI1VmVmYnlKR0tLZGNMeDdhdUJPNE5YdTNrM1ppcGRRMWpsaTNvRVJPRjdGcTJOR2JjbGk0V0tR?oc=5>
+- **特朗普** | 特朗普官宣：苹果牵手英特尔，美国造芯！ <https://news.google.com/rss/articles/CBMiU0FVX3lxTE12X25rb3hBSHgxLVhiYmQzN2NKQVc4VGVNQUp3ZzJERkN0RTk3TFd5akFqY2Y4TmZsc3dCMzQ5MWhVTTR0UkF2V1lVUW9uWHAyOEVz?oc=5>
 
 ### 2026-06-19 07:36  (18 条)
 
