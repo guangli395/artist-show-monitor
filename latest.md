@@ -1,80 +1,44 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-20 12:13**
-- 本轮扫到 4040 条, 新增 **9** 条
+- 最近更新: **2026-06-20 14:39**
+- 本轮扫到 4043 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (9 条)
+## 本轮新发现 (3 条)
 
-### 我已经知道去周杰伦演唱会穿什么能点歌成功了！周杰伦mv 女儿殿下
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301cfri.html>
-
-### 2026娱乐圈“富豪榜”周杰伦稳坐头把交椅,巡演“印钞”,约8成上市公司一年没他赚得多_收入_明星_品牌
+### 周杰伦2026年巡演收入15亿仍被质疑资产转移,经典老歌年入超千万
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019073rle.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019073ts6.html>
 
-### 顶流歌星一场演唱会能挣多少钱
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019073rcu.html>
-
-### 网友清迈街头活捉周杰伦，巡演间隙溜号陪昆凌录中餐厅_周董_奶茶_道哥
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019073pn2.html>
-
-### 以色列与真主党同意停火 特朗普特使赴瑞士谈判
+### 意大利总理梅洛尼回应特朗普
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: dw.com
-- 时间: 2026-06-20 10:14
-- 链接: <https://news.google.com/rss/articles/CBMixgJBVV95cUxPd255VHNtZTQxX1I5LWxYNmlJbXZKZ2pkZDVwTHlDLWNsTTk0NWZFTmFoeXVIZW8tNXBGbC1VVTRxdkxzRk1fenBYeENIYm05SERxMnBfaDh0UFVGRUNvZFRIQm9iLUNZVEdBYTJ1NmVuYWg5RlVMVTllNk9kVU9WNDB2azR3aDZHOWc0SERyOE9yWjBEZFhnS1kyVUdpdWo5WXpIeUFDbEJlaWx3ZDlfLTU2VktEeXo1elBoWU1kRkdndGp0LXFrWUhWSDdsWG5iTkstMXhQb2JSclBFRGFadENuclRoOVE5TTd4ZVdJX3NFcGl4TV9YUnlST3pCWEtpQ0FQZmpwYkJDNmhOQWNiUVE5Y2ZYTm82RU1RSnRIWGxFTjJ0eVZuMlNPM1lQaEExZjRvUkZzejZGWUh5MnFqZER2SC1Id9IBxgJBVV95cUxPMHgxQlJSWS1jcFhDUmtfOGdsdE54ZElNZjA1dFJDRnhXMWVUVXhLWTFhcjNQVUFYVFJ1Vy1US3BDdVdyLURNWFM2YWNUT09MYkVOMU9pdlFnay0zSDJVaWJWREdBWjBaRDZZSVNkZldlWTg2X1lhQURjSHA4X3BNbnlPb1NuN09IZlJJSVJyaXE5cjlFaUxkb2NlMUxPVlN2WmJ1WjZNU2dIY2xBbDF6aVQxUzU0ZFg5eEppTkd5eGdLeEg1cWRLYkw3b190MWx6Z2RFc0pSUTFHN3pDZFd4emlEaFRiejBvUjJzZkNtYWl1TWNhbGZfdzFlTGc1XzNyajBwSlhmOVpCYnBOYzE3UGx6NktfZnBrUXNONHhBeEt4eVBRc3RTdlNKQkpaREpxR2NDby1pS0U5ZWtaZGg1ZjlUbE5FQQ?oc=5>
+- 场馆: video.sina.com.cn
+- 时间: 2026-06-20 14:20
+- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxNSG44MlFfQmVUMXJXV3VEQU5kN05HOWl4QjRxSUFGREZQaGk4X0pIN0dEYWhlazVmd0N0R0RkdDBKUlQ3cmxyZWs5aDh3MktzdG1FUHFkUWl5REQzTlliVEdQTmRValJlMzdqcGxjZ0pKQlI4Ykljc0kyZmdlbEJnZHNR?oc=5>
 
-### 特朗普称梅洛尼“央求合影”引发外交摩擦，意外长取消访美
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-06-20 07:38
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1fTTV3a1loc28zZXdyakV0YVViSXJEaG5LOWxxc0dQdFhuUjB1RmhwYzEzOF8weHQyenBDT3ZqNFJ2V0NKdWR4WHAxSHY?oc=5>
-
-### 特朗普展示新“空军一号” 配色“完全符合我的品味”
+### 特朗普：自称G7“老大”是开玩笑，但他们全信了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: dw.com
-- 时间: 2026-06-20 11:13
-- 链接: <https://news.google.com/rss/articles/CBMiugJBVV95cUxOMEVkSXR6OUhPUm5DRUI2SVBRLU91dWpDOXJUbXdWR004YUZBT2kzU0NobnZidTBGaExOeW9tcm1ubnJ4VEM3WVltZFphY0UwcVgwZ1FiSjYyRWVMSU5TREFTNnZZNDJVZ09iS3VIS2hzMWh2WkxnTW9NRzgyTlRoenJOeWhxQ0doZzdmb3FkdEVIcTltQW1RS0VnbFYtS2U4anB4cTdfOGlsWW52dG9zaXd0R19jNHFoeUNFTFZsTjRGNk9KYU5BX3lrU2RrVVFfUURxU3VWZVdQTHloN2txbHJadnpndHIxZEh0Y3ZoQzhDZWdtMXhnQmZjWGpzSGNTRzJWZ01pNFFJaXJ4SE1iZHNVbkFVMUh5VVlDSzRKRVdnbU5QTEs3Nlh0bFN3c203WVJhTGVuUGJyQdIBugJBVV95cUxQYml0ckRqVTZuczFXUXdHQzlyaGNvcmp5alRrN1JvdmdZcHQtTm0xbzY3MkxJdEFOanU3aGwwY3czQlpGRkhERWJqaEJOREYwdC12MlVBdGpCM2kxTXN3MnZTMUpHTmZYWk1hVVhSZlJmQnYxdThlM21fTC1sYkxFWDlBbkc2Ql9IcTJTOEJnRTZ0WXJldXF2VF80REthSHgwQzA3emJvaEJ1SFdhNjdXbUxpTkRyMXYtUXVtUjZnTm5aYnpyVWg1aUlUMnE0WGFwcUVlQndIR3E3VF9MQjZfSkUtUWk0VmJqRlVKYzlqdUdjUkpaRm5GZFFkZWVRM2FPeDNyaVR1cFFTbDhNa3RhamVDVWF6MktzTFZOWkVYSlNzel8xejZoeEV4VXdlSGZoMERLYmg4RjJyQQ?oc=5>
-
-### 法媒曝：特朗普和高市早苗在G7又因珍珠港发生争吵，还惊动其他领导人劝和
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-19 15:04
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9fSXAxajRFd1k2T3pkVWl1N3psTWtwNVQzcENSUXl6Q1JVZHJZMWQtLU5yQ3lYVF84VzA5dzdNeEpQYUQ0amd1Wm9CQzhuWDhJRTRaNFdvOWxzcTB6LWpmRFM4UE9xUmQ3dkhVd3hfYXNpM2Y3N3dIZA?oc=5>
-
-### 特朗普又提“珍珠港”！高市早苗被曝当场翻脸，众领导人劝架
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-20 10:59
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9tRlBEOHNobnRQeHFJTkJhUGRVYUZCMTc2ZnZGRGlpa1pIb3lpR2NPSVB2RUhKREFOUFFKeGZPT0ZXY2xabUZSQTdKWXdXUklBV2hUenBONkxpLWh3SkpvOWp4VXVzbmJTREt0cG9HbjhGbFpvNkRfYQ?oc=5>
+- 场馆: 观察者
+- 时间: 2026-06-20 13:46
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5VN0pUTldGb1JMd256dS1YZHFuVnZKNFRFV2JuOVZzVHRTVmJfV29Yb1ROeHFTZTNtenctWmdyRXBBdDMwRmtudi1EQlBQcnNCbkZTYzBWS2ctVUNVMnpqZjU5ckxGYTBtRmc?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-20 14:39  (3 条)
+
+- **周杰伦** | 周杰伦2026年巡演收入15亿仍被质疑资产转移,经典老歌年入超千万 <https://k.sina.com.cn/article_7857201856_1d45362c0019073ts6.html>
+- **特朗普** | 意大利总理梅洛尼回应特朗普 <https://news.google.com/rss/articles/CBMiggFBVV95cUxNSG44MlFfQmVUMXJXV3VEQU5kN05HOWl4QjRxSUFGREZQaGk4X0pIN0dEYWhlazVmd0N0R0RkdDBKUlQ3cmxyZWs5aDh3MktzdG1FUHFkUWl5REQzTlliVEdQTmRValJlMzdqcGxjZ0pKQlI4Ykljc0kyZmdlbEJnZHNR?oc=5>
+- **特朗普** | 特朗普：自称G7“老大”是开玩笑，但他们全信了 <https://news.google.com/rss/articles/CBMiakFVX3lxTE5VN0pUTldGb1JMd256dS1YZHFuVnZKNFRFV2JuOVZzVHRTVmJfV29Yb1ROeHFTZTNtenctWmdyRXBBdDMwRmtudi1EQlBQcnNCbkZTYzBWS2ctVUNVMnpqZjU5ckxGYTBtRmc?oc=5>
 
 ### 2026-06-20 12:13  (9 条)
 
