@@ -1,75 +1,79 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-19 23:38**
-- 本轮扫到 3997 条, 新增 **9** 条
+- 最近更新: **2026-06-20 02:47**
+- 本轮扫到 4012 条, 新增 **15** 条
 
 ---
 
-## 本轮新发现 (9 条)
+## 本轮新发现 (15 条)
 
-### 6月20日隔夜要闻：特朗普对伊朗协议定调 意在驳斥美国失败论 油价上涨 美伊核谈遇阻且油轮通行放缓
+### 王一博深情演绎电影无名主题曲
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-19 23:35
-- 链接: <https://news.google.com/rss/articles/CBMimgJBVV95cUxOUm9vQ1hCcmJBb3dicG9mR1ZaVkJkWVRpZzVBNzVJY3pkaGFMUmR0Q3ZYYTRPWGZaOWtEZVItT0p1OHZZaFYzZXcwMm1hZDR0SlBGdDJuWkNxT1MybTB4WTBKQVlrdGRNUVg2dEdDQ21nX3hfS0pUbk51ZXlGN2NUZVRqYV9wMk1kZ3hZNzA0OGx6MkdKVmk1TXEzOHh2OHQtTFhUQTRxVS1BSGp6dnhkS2U2M0I3NUdfdlZ6YTh0RWpxSUJoU3BUTlN6aVBKODdKT1BVUHhPaFdJT0xYWHFvblJKS3c4Smhmem9DZUd2MnZkQ0hmOS1mUGZvT29wR01ZTWlfRzF2TnFWZnVDWjdzbDQ3ay1UYk9YaHc?oc=5>
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923704_m1d5ae17f803301tjhe.html>
 
-### 特朗普说，船只正从霍尔木兹海峡“蜂拥而出”，并警告伊朗须在60天内达成最终协议
+### 周杰伦北京鸟巢演唱会进入倒计时
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-06-19 22:13
-- 链接: <https://news.google.com/rss/articles/CBMi8AFBVV95cUxOOXRObzhxdlVTenFZQVAzaHR0a2ZaMkdidl9TOUNTYXhlamFTVlgtd0d6dkZscmpCQXotbUM1Y3Z3RzI2ak1lYURJcW0xQk5hMVNCSjNtLUtsRlFKRm5BdzBOMTV6OWVKLWNBeDNUSkxtMmFZVWNhV0YwOHRBdXprcm5fYWdIblZkYmFLaHBDSmdaYS1ydHBKcDNTblRZZU1SUTl5eEEtX0xZbVc5VTF2VFdWY3pPcXNzanVxTFA2R3U3dzVLdkl6LU9jM2NTd3VRSFoyN0l6Y0hjeHMzcTZxRTFMODYtNWd4T0NqSGZ1aFDSAfMBQVVfeXFMTkNqUFJKWmZNQ2p1OXBlXzRsRHdic0xsNVhqOGxXQU9tQXBQd3Q4OWtja0NWVnNQbVlyQjZwOXE5SlRtMWRGZ1YyX2g3OXdqcHg5a2FMeUYzcGhacGpjNkR5NXJtbU5Dd1BfSXY3QmlzV1lFM20xX0FULXF4X1BmQnVwWnJwYkxoanVHaWoxWlZ4SE5CdkYxQ1FvaGI0QVBFU3Vld3QzbElCdnQ4VjBHemVTR0tiUUNqYWdHUEN1X3BiM015Z2VJaThBY2hGVHpTNjZSNzdWY1VQSEVlQVVCN0tNQXFlNDJvd2hxN1M2cHRuS3M0?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_2774365937_a55d76f104001huc2.html>
 
-### 特朗普称意大利女总理“乞求”与他合影，“我本没有义务这样做，但可怜她便同意了” 梅洛尼怒斥：完全是编造的，“意大利和我从不乞求”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-06-19 23:26
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBCdHk5b1U2UmFtUUctR1VOc3RVRXpaa3VLMEFjY2xEMXNIZFo3eGh5ekc4SGFHQnhvRFN6Tkl0aEFXNElpM3NyNnNENjBlSzBsVUUwaTA0bmxENjliQnJtcDgzRjdndmRTQXRSNk5XTHA?oc=5>
-
-### 特朗普发表疑似嘲讽言论，梅洛尼回应：震惊
+### 特朗普：梅洛尼求我跟她合影，梅洛尼：胡编乱造！
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-06-19 13:15
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE10ZmtPbFRnS21KMFMwWVIxYm55Mzc4N2dpXzR4UHNiN184MWNteHlnYUJxVnVPR0pRcVBVMkprUktGWVJoNU9JMnF1dS0?oc=5>
+- 时间: 2026-06-19 13:47
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1xaGNNRGYzcTdPSndWRFo5Z0ZNTy11Q2Zuc0g3Vl95a3UzdFphem84THJxWHhlSWtpSjZkNERaZU5jNmhadWthOU5uVmg?oc=5>
 
-### 特朗普向Axios表示 他不认为Anthropic对美国安全构成威胁
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-19 22:52
-- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSnNaQUJDalRzUlF5Ym9tVmtkYktFeTZtMk5iRmRQRjV6TU5YaWxaQWRDYWFjRWZ4d2JFRjB2d1JVNkNPZG5KUndNWDU3cUxOZHIzV3c1Qmh5dVp5SldjMU9NQlRuMTlDRTJvQTVHRHoyMEM3QWZTSVE5WnVaaXBYeWhZamluWXJWZkY4ZWloTzdvb1cwV1ZPLTdEVWRVYVhKcEFiYXR2NGRVZw?oc=5>
-
-### G7峰会期间双边会晤，特朗普与莫迪再度上演亲密互动
+### 牛弹琴：今年最戏剧性的撕破脸
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-18 09:32
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPak5YNF9BSzlaWTFrS050aGxFWW0yVTk0NjBvbUljdlBsZzJneGt2MGxiOXQ2ZkRMdXZadVlYRjN4aGVlMzFWY1JQSjRMaXMxTEJfb0NKOG5KNVBzR1JXbGkxODdqaGtiNkZoaFk5Ums5YVp0MzF3d3dWMklRN0JRYnRlQ1UwQVh1WktqZEM0U2p1RXpwRWdYUXZwMjdlUWlwN1NhN1luOWxSNVhEeTV1RU1zOHZsUlg5SFFNLWcwSk5VaDNJd08xUjRQN0hiZ1VtTm0yR1VwWjROMmgta1M0?oc=5>
+- 时间: 2026-06-20 00:34
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE04ck45RHl2YzEzUnhmRlVhV3A5MFRHQ1JNVUdFd1hheGNwdHBRVjFkSk5yRnVObkpudlZ2dGYycTYyRXE3VTJfOU1HaUoxSzQ1Zy1scEhOMGtETzFvUGZ1cVVuWmlXcENJSnJUWDhOcmVsT2Z3S3M5NA?oc=5>
 
-### 特朗普的新专机，首次亮相
+### 特朗普就谈判问题向伊朗施压
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-06-19 23:08
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE4zXzVfX2JoTTNkTllydm9pdXpOX0FLVGtoaWdnT1RfQzZaWWNPdFJqUy04cWtnckVfTHZPT3FnVjU5M21pVWdTc1RDVXo?oc=5>
+- 场馆: 新华网
+- 时间: 2026-06-19 14:00
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1PcVZQcXhFWTkyNTRpQmI4ZnBRdldUM1hnbk85dzJ2SnlFYXhWNFZDTE9neG04Ny1wcUhxLS00ajRITnFJSVZOV3B3Ul9ra3ljSXFWd0JJYnV0Q1JiaGw1dTdOLVJETFVaNGpDUFRYNG11VElsRzZ3M0p6akdIOE0?oc=5>
 
-### 视频丨加拿大总理向特朗普谄媚邀功：中国电车只能占加拿大市场的3%不到，我觉得你会喜欢
+### 负面太多Hold 不住了：特朗普手机公关公司Poplar Group 宣布终止合作|唐纳德·特朗普|媒体|镀金|合伙人|质疑_手机新浪网
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-19 20:52
-- 链接: <https://news.google.com/rss/articles/CBMitgJBVV95cUxNeTVBNGZNVHlsVTlLcmt0dnJlaTFleHJPckhzUXpBdHMwTTRTdzluTUNBRlhRLTBoQjFhRDBxWTI5TmRuWGJmdDl1Rkt6c3pfenF5eTZzMVpVZkJQQ0JNbkJ5VnkyUTRSQWZjVnhhcFRTWnlmNVZiUmhIRVMzYU04akhBbWhkZWRpeDdUVWRmMkE0ODR6cnpLdi16X000aVZOY21kLWdfanc4ak1GLXdBNmZ0U0ZxSDhOdngwbVotY0tTUG1qOUV6VHBkZ2R0LUVVb25PRW9Vd09hZFBTWEktbTZaZHVkaVpWQVR4Ny1Zd1dtZDViUWE3X2E0aTBVcXZZNE5iNm9PYTFQWVgyU0dkYmQyOVBlRlRmbDVxX2hQWG1mcEkxVVZDYnh0NDZGbUVJZkU0RC1n?oc=5>
+- 时间: 2026-06-20 02:32
+- 链接: <https://news.google.com/rss/articles/CBMigwJBVV95cUxOblN0Y2J0bDBadGlwSGdjOHVPOTIyOFdLZ3NJT3Jic3l6WHl0SkctR3RnQldBWHpGTmdyZ011WGgwemYxelFzWXFVQUR2aFlvQUxUbktTVGxCZ0RjWVl3dGExMGxjSS1lWTV4MzZCVnZDbWRkTTRZOXh6LW52d1dJdHJPdUhJSERScWo1bHZWbHNBXzdLVUNyMkhYQTRxX1NpNU81VkJXQk80UHNpVTRZOXZPa3BFS2VZUUMwVkxoR19RellQZkNPZFFEZVpBT0R5T0dKXzBBSlZDbTlPYjg3NXM1dnJMbWVMV3llejAwSnpDWFczMU1MY2k3eWQ4RkpHQW9J?oc=5>
+
+### 特朗普为改装版全新“空军一号”总统专机揭幕：“很合我的口味”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 环球网
+- 时间: 2026-06-19 10:37
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE1URENsanhPLW85dUhWV1lkV3FCRkd2R3gzZURxUmJCOWxJOEhaQVpaMXZlNTRWbkxISmhrZjVUTkI1Y256MUs5WXRSclM4a0VkZExadFJMY1Y?oc=5>
+
+### 特朗普喜提新专机
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 每日经济新闻
+- 时间: 2026-06-20 01:20
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5aZ2pKRm9VYTZUTWQzTnVJLW42TEt0V3EtcHhJOFVnZHIwdzB0SVJJWl84dk5sbXREM09DYmMwWFk3RzZJeFdkbWxSZEk4NXpoYk1uXzg2TTB5cjh3Vi1ST3NnTlJDdw?oc=5>
+
+### 卡塔尔送的！特朗普喜提新“空军一号”波音747-8
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 驱动之家
+- 时间: 2026-06-20 00:31
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE92YkRuZnl1WnB0N2xjTmM1OEt4dU1sQlMxYUhMcWJ0cnpMenRWbUUwb0c5R3BZMTM3bGpBNXF3Vy1yWnRNUXRkZjkxckFicWtnQ0RIa0VLT3Y?oc=5>
 
 ### 特朗普，“生日不快乐”
 
@@ -77,12 +81,70 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-06-19 02:30
-- 链接: <https://news.google.com/rss/articles/CBMizgFBVV95cUxOanZEb2VqWmZfalZwcGhzLWIxcWRkUkpfb2dkRTFVdE1Gbmd3UlBfSmQ5RUJMNWJsMFU0MGZtaTVrbkpudXFRT2NUY1B5YnExUU5Md1RpUGRIUjRobkZoSjRWTWtMUVhZemdycGZVZ2Jtc1J3ZmZzeFJhNDlfa1lCZ3BHaGpoU25vbzRHWS0tcVZabHN1ZXBlZy1WSm52LV9xTVdfd0tJTjRpSzkwaUc0YXJYcXFzMk04NUlnVllRbF9kQWZiQzd3Z2htSll4dw?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMizAFBVV95cUxPc1NjMHpNcGpTa3A0NC1xZEs5NEIxOWpsU2hYZlNZeGQ0eEw1SUZqNEJCQmFpZzNTNW5tSEFHcTdseENMYlNXRXVOd1U0THcwbFBabVZYTUpMQlJUS1RGQkR4RExyYnpZYVd4VXdvd1hBcnZIQV9hQ0kwQkZkZTM4SFVrRV9KTVRraGxEWWpoSVVRdHhsUWZHS2gxcTFyRW8xeW8wSWtBeERrZDRka3ZwbFB6VzFBLUJ5VlpFb012bEpNa1JUelEwTXhOQVo?oc=5>
+
+### 特朗普为何称俄乌冲突与美“无关” 利益至上态度显现
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-06-20 02:34
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE12M1pPVllIVVNfZTE2TC1jSjVDYWVzSFQ1Z29lNTJLNkRPWFhzb3hhV2s1OGwzbjd5ajlGWGo5RkJHTUxHMlpnXzJpd2VCdVJLNWVYNEhyMU9rWWdSUi13MHhKZ2RCVHI2NGVJSkNtdGw?oc=5>
+
+### 特朗普T1手机被曝是中国设计、中国制造：主要零部件都来自中国
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 驱动之家
+- 时间: 2026-06-20 00:55
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE11ZHlMNHhhWk5XLTRZUUdVZGNwWXNSN1IwRnJDd1RDT1ZFTWhHZ2hOZzBwMGpiRkRYWlprN0JBV0wxYWQwdHoxTWtJQjNBTHJHaVFXUmtWZVg?oc=5>
+
+### 美媒：连苹果都要涨价，为何特朗普政府难解内存荒危机？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-06-20 01:11
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTFBxeUw3TjZhaVg0LVJKdXVMcWpJbjdBTkVPOXE1c0drUEF1Y3pmOURFWU5GWmo3ZmVocDE2ellCVkF3V1pvLXd4NQ?oc=5>
+
+### 特朗普官宣苹果与英特尔合作造芯 背后有哪些考虑？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-06-20 00:47
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5YOC1QN3QzNl9iQ1JjeHpsUUppY0ltX21PSjJEbndKM1pMWGtFY3dFSElGbHdBUmgzYlY5NHEyRVdzTHptVHdUTm9PdFFVYy1zTmlRNWFRMWUxdFdaNVFpYnZfV3JfdEt6UVp1dVpwMk5fOVJwaGZrSA?oc=5>
+
+### 负面太多Hold 不住了：特朗普手机公关公司Poplar Group 宣布终止合作|唐纳德·特朗普|媒体|镀金|合伙人|质疑_手机新浪网
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-06-20 01:54
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBlVDNqVTRvQmcyTDNVZ05YRDBRcHBBMnBvYks0Y3FPdV8yQ2JCWmNBS29VdFV3QnZsQTJscGt6X05nN3JtaFNkLWFDdU0tc2VHY3RKRjY0Um9SSmZWaHpNdkdjbmdYYU9NSl9aWUpWSlpMU0ttTEVaY0FQTTcxNEU?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-20 02:47  (15 条)
+
+- **王一博** | 王一博深情演绎电影无名主题曲 <https://k.sina.com.cn/article_7879923704_m1d5ae17f803301tjhe.html>
+- **周杰伦** | 周杰伦北京鸟巢演唱会进入倒计时 <https://k.sina.com.cn/article_2774365937_a55d76f104001huc2.html>
+- **特朗普** | 特朗普：梅洛尼求我跟她合影，梅洛尼：胡编乱造！ <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1xaGNNRGYzcTdPSndWRFo5Z0ZNTy11Q2Zuc0g3Vl95a3UzdFphem84THJxWHhlSWtpSjZkNERaZU5jNmhadWthOU5uVmg?oc=5>
+- **特朗普** | 牛弹琴：今年最戏剧性的撕破脸 <https://news.google.com/rss/articles/CBMieEFVX3lxTE04ck45RHl2YzEzUnhmRlVhV3A5MFRHQ1JNVUdFd1hheGNwdHBRVjFkSk5yRnVObkpudlZ2dGYycTYyRXE3VTJfOU1HaUoxSzQ1Zy1scEhOMGtETzFvUGZ1cVVuWmlXcENJSnJUWDhOcmVsT2Z3S3M5NA?oc=5>
+- **特朗普** | 特朗普就谈判问题向伊朗施压 <https://news.google.com/rss/articles/CBMif0FVX3lxTE1PcVZQcXhFWTkyNTRpQmI4ZnBRdldUM1hnbk85dzJ2SnlFYXhWNFZDTE9neG04Ny1wcUhxLS00ajRITnFJSVZOV3B3Ul9ra3ljSXFWd0JJYnV0Q1JiaGw1dTdOLVJETFVaNGpDUFRYNG11VElsRzZ3M0p6akdIOE0?oc=5>
+- **特朗普** | 负面太多Hold 不住了：特朗普手机公关公司Poplar Group 宣布终止合作|唐纳德·特朗普|媒体|镀金|合伙人|质疑_手机新浪网 <https://news.google.com/rss/articles/CBMigwJBVV95cUxOblN0Y2J0bDBadGlwSGdjOHVPOTIyOFdLZ3NJT3Jic3l6WHl0SkctR3RnQldBWHpGTmdyZ011WGgwemYxelFzWXFVQUR2aFlvQUxUbktTVGxCZ0RjWVl3dGExMGxjSS1lWTV4MzZCVnZDbWRkTTRZOXh6LW52d1dJdHJPdUhJSERScWo1bHZWbHNBXzdLVUNyMkhYQTRxX1NpNU81VkJXQk80UHNpVTRZOXZPa3BFS2VZUUMwVkxoR19RellQZkNPZFFEZVpBT0R5T0dKXzBBSlZDbTlPYjg3NXM1dnJMbWVMV3llejAwSnpDWFczMU1MY2k3eWQ4RkpHQW9J?oc=5>
+- **特朗普** | 特朗普为改装版全新“空军一号”总统专机揭幕：“很合我的口味” <https://news.google.com/rss/articles/CBMiWEFVX3lxTE1URENsanhPLW85dUhWV1lkV3FCRkd2R3gzZURxUmJCOWxJOEhaQVpaMXZlNTRWbkxISmhrZjVUTkI1Y256MUs5WXRSclM4a0VkZExadFJMY1Y?oc=5>
+- **特朗普** | 特朗普喜提新专机 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5aZ2pKRm9VYTZUTWQzTnVJLW42TEt0V3EtcHhJOFVnZHIwdzB0SVJJWl84dk5sbXREM09DYmMwWFk3RzZJeFdkbWxSZEk4NXpoYk1uXzg2TTB5cjh3Vi1ST3NnTlJDdw?oc=5>
+- **特朗普** | 卡塔尔送的！特朗普喜提新“空军一号”波音747-8 <https://news.google.com/rss/articles/CBMiWEFVX3lxTE92YkRuZnl1WnB0N2xjTmM1OEt4dU1sQlMxYUhMcWJ0cnpMenRWbUUwb0c5R3BZMTM3bGpBNXF3Vy1yWnRNUXRkZjkxckFicWtnQ0RIa0VLT3Y?oc=5>
+- **特朗普** | 特朗普，“生日不快乐” <https://news.google.com/rss/articles/CBMizAFBVV95cUxPc1NjMHpNcGpTa3A0NC1xZEs5NEIxOWpsU2hYZlNZeGQ0eEw1SUZqNEJCQmFpZzNTNW5tSEFHcTdseENMYlNXRXVOd1U0THcwbFBabVZYTUpMQlJUS1RGQkR4RExyYnpZYVd4VXdvd1hBcnZIQV9hQ0kwQkZkZTM4SFVrRV9KTVRraGxEWWpoSVVRdHhsUWZHS2gxcTFyRW8xeW8wSWtBeERrZDRka3ZwbFB6VzFBLUJ5VlpFb012bEpNa1JUelEwTXhOQVo?oc=5>
+- **特朗普** | 特朗普为何称俄乌冲突与美“无关” 利益至上态度显现 <https://news.google.com/rss/articles/CBMicEFVX3lxTE12M1pPVllIVVNfZTE2TC1jSjVDYWVzSFQ1Z29lNTJLNkRPWFhzb3hhV2s1OGwzbjd5ajlGWGo5RkJHTUxHMlpnXzJpd2VCdVJLNWVYNEhyMU9rWWdSUi13MHhKZ2RCVHI2NGVJSkNtdGw?oc=5>
+- **特朗普** | 特朗普T1手机被曝是中国设计、中国制造：主要零部件都来自中国 <https://news.google.com/rss/articles/CBMiWEFVX3lxTE11ZHlMNHhhWk5XLTRZUUdVZGNwWXNSN1IwRnJDd1RDT1ZFTWhHZ2hOZzBwMGpiRkRYWlprN0JBV0wxYWQwdHoxTWtJQjNBTHJHaVFXUmtWZVg?oc=5>
+- **特朗普** | 美媒：连苹果都要涨价，为何特朗普政府难解内存荒危机？ <https://news.google.com/rss/articles/CBMiSEFVX3lxTFBxeUw3TjZhaVg0LVJKdXVMcWpJbjdBTkVPOXE1c0drUEF1Y3pmOURFWU5GWmo3ZmVocDE2ellCVkF3V1pvLXd4NQ?oc=5>
+- **特朗普** | 特朗普官宣苹果与英特尔合作造芯 背后有哪些考虑？ <https://news.google.com/rss/articles/CBMieEFVX3lxTE5YOC1QN3QzNl9iQ1JjeHpsUUppY0ltX21PSjJEbndKM1pMWGtFY3dFSElGbHdBUmgzYlY5NHEyRVdzTHptVHdUTm9PdFFVYy1zTmlRNWFRMWUxdFdaNVFpYnZfV3JfdEt6UVp1dVpwMk5fOVJwaGZrSA?oc=5>
+- **Trump** | 负面太多Hold 不住了：特朗普手机公关公司Poplar Group 宣布终止合作|唐纳德·特朗普|媒体|镀金|合伙人|质疑_手机新浪网 <https://news.google.com/rss/articles/CBMif0FVX3lxTFBlVDNqVTRvQmcyTDNVZ05YRDBRcHBBMnBvYks0Y3FPdV8yQ2JCWmNBS29VdFV3QnZsQTJscGt6X05nN3JtaFNkLWFDdU0tc2VHY3RKRjY0Um9SSmZWaHpNdkdjbmdYYU9NSl9aWUpWSlpMU0ttTEVaY0FQTTcxNEU?oc=5>
 
 ### 2026-06-19 23:38  (9 条)
 
