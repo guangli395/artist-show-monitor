@@ -1,88 +1,107 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-20 06:57**
-- 本轮扫到 4021 条, 新增 **9** 条
+- 最近更新: **2026-06-20 10:09**
+- 本轮扫到 4031 条, 新增 **10** 条
 
 ---
 
-## 本轮新发现 (9 条)
+## 本轮新发现 (10 条)
 
-### 梅洛尼喊话特朗普：意大利从不乞求任何人
+### MV上线引爆全网!2026年6月15日全网综合热歌榜发布 国风亲子金曲双线霸榜_周杰伦_龙耀华_龙友林
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-06-20 04:50
-- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE1IdXZleEhxMEl6S0hRX1ZHQkhzOFFqbEd5YjhSNHFpRzVFN0lldDUzY1lFZkRnTmlZMXpHUE5MYnhpZTRqOXdQUEhHdVQ2T0pqNm9jY3ZYR2kzTHhsdXdhWFJfdlVZWWVaS3JHSkttSGxOcFd6Zy1qdk56NTUwQQ?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019073ivo.html>
 
-### 特朗普：不再认为Anthropic对美国安全构成威胁
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-20 05:03
-- 链接: <https://news.google.com/rss/articles/CBMilwJBVV95cUxNdEdiSVItS09BZ1NRM2VsQVBhc2N5c1hjcFppakg1bzNkX29mZ0Q0Z1dwMWdQMjVsNy01YW12dzdzd1I2VVJUS3ZWbHVlcEtJY1Z4YktnZnBacklJMGp2V2VESWZ1aVBvX3FYV1RXZmpXNW5pbnpvNzZVZElBSzVmMndQbnJwTXozRmx6Y0hLTUR4R3VpTUVCWDY5VThScjBvZS1GZHNnWHZpemRWYXdfeXVRQ2pTdHpBVmhhT0l4eGlEN1ZCUWk4VkxlWW12THYwZkp0My01bmM3TThlWXEwOWpKU204UlZMeUpUZGpCNEduclpmOWRNQzJCaFBCTWFJN0JYNGxFSS1FNjZoWW8yeFlEbXFQQmM?oc=5>
-
-### 爆料：特朗普与高市吵起来了，他国领导人不得不出面劝解
+### 特朗普“剧透”，意大利怒了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-06-20 06:16
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9zUGloTXZIOTd2LS1UWWlOYkIyLU81VWhuUDdyeU45dWVxM3QxazZSc3o5cTF1SFgwRlpTcHBCNlc0Nnd1OXRyOGd2a1BoWC00UmVRbThGZ3pxdTNlcVFsNVI4N01Nc2lmX3NWN1BkY1g?oc=5>
+- 时间: 2026-06-20 08:48
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9WRk83Yy1GcHgzTUxPeldlbkdwNzBEem1ITDdHc3ppVjVqTnhKZTNWT1NIUVdiMDRJaUVXazJfS3N1dFZZOEJZM0FkOWI1RDdYTm9ZdURHdm5wSmlnQnpjVkpWMDFXZllMYmJ1allUN3k?oc=5>
 
-### 特朗普和高市早苗被爆在G7因珍珠港争吵，还惊动其他领导人劝和
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-06-19 12:29
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE92Wmg2czdCTlI0XzZZTHVrdmV5aDFyZHJBOUc4bUxNQUt3Qi1BZjZ2OUNCLXVBbFZPZXEwMFFXZnZHQXNMcXB1ak9sTno?oc=5>
-
-### 日媒：震惊，特朗普与高市“发生了口角”
+### 特朗普“剧透”，意大利怒了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪军事
-- 时间: 2026-06-20 05:58
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1YdkZmRXFOVUNRWkw3Rmx5WVV3TzNhLWtsVGVCeEJGY0RZQ1lGMHNuQkxhY0I1OHc3X3VSY0ZBY3hWZVRwcGIwcVdRQWFoLWdBZU1xam1GMk9TcVkyN2p4VTduTGI2ZHFPVDRPTC1idHVPcGM?oc=5>
+- 时间: 2026-06-20 08:58
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1SbFpjVGdPQWJxZUFtOEk4dlNad0tZNUZzcmVZc0xsdnBqajBWLS1BV0J6b2h6WUh6VjRkVVNRbS1tMGJlUG5xQjNDTXdvSkZfT2Jab0RtbGYzX3hGWElhQzZRVjdOM29JOUpPV1NBMmw2SFk?oc=5>
 
-### 特朗普的新专机，首次亮相
+### 特朗普炫耀新“空军一号”，称其为“空中白宫”，“奢华程度前所未有”，美国网友质疑：特朗普或滥用职权，民众都买不起食物
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Sina finance
+- 时间: 2026-06-20 09:05
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE90dFYzSXVtNktoOEoxMXV0RGZzS1ZqdFpybWFnLTFJRG15SDNoNGdmWklPNFZFWFh3d2tnYlpJbGtsYVpBMDJrbVg2UXlTRTdud2pNWWFYRmZZSGRRNDQweDNyOVBLY2l0Tld0czdqUnZFbFZVV0E?oc=5>
+
+### 新“空军一号”亮相 特朗普炫“空中白宫”引争议
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-06-20 07:56
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE00QWJ0ZWpOT2N4Z0JHUVh0TG1qR015bnByQ1VjTUI3UXRzWGc2UFVQVzlrOVR6aWRSaEdubDNfYWpJVUdBaUM4OWVQNVl6NDdlRGxaaE5QUGwxX2Z2bGJpNEloWHJ3OE0tVFpqUzh1VUlEMEdJN2hXZDd4NmQ2bTQ?oc=5>
+
+### 特朗普称AI或成比互联网更大的武器，曾不满Anthropic行为
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-19 21:18
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxPRUFqRU5KcThqcnNYZkY0RVJ1aTlNRHNmY0FqRExDTFpQMEVKMUhjbVlkZnNudXE0MldnRFpFN2pxaXBSNm5kSURwWUVuX0Z3SGtGLVJVa2hUVDMxVlg4d1ZwWk43ejBUZVdjbnNZbVFkckNXM2ZQTWtpRFBnTUJCaUtVaFNQQUE?oc=5>
+- 时间: 2026-06-20 09:02
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxPT2JXdjI4NVhyQmdRR0hxZDNqNDV3cEtvb2dSQWxWd2dvZ1RUZG9DdjA5YzBaZXFQTlVMck1tRHNubWY2UmRtUE0tc1JkemtrNzItMVpiSWpjRy0tbXVZT1hJVEFIQXY5UlVGdDIxeWRVRGxKNXBmZ29TdjNnanFXb3NGRVkyamM?oc=5>
 
 ### 特朗普：今年将再次访问中国
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: QQ News
-- 时间: 2026-06-20 04:59
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBKeDJ6S1BlU3ZMWkFNbE4zN0ktYnZTa19ETUE0TjNlNVUyZm9QdHFKQnI2QUlBN2VUVmxJbVZmRWtFclEtcEE3aHVZLTdNeFo4NUNfZHRQbXJYWWNNTXktV2ZLelVXbWFQcUh2MGpaRHl5R0hyVWpLQg?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-06-20 04:58
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBLcFdma0hVd2FmTlZlRVlnMU1Sb0U4UHFuSlVwNEw0SkZZOGFzMTh4VDZwZm1IQy1wZGFRQlE4MWdYWV9MazNkRzRCdTk?oc=5>
 
-### 被特朗普“剧透”乞求合影 意大利总理怒了：完全编造 意大利和我从不乞求！
+### 外媒爆料：特朗普和高市早苗，当众发生口角
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-06-19 04:22
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sTnhjU2F3TzgzeHhWV1hROGl4TFB0WmgtdHVOUnd6akdkTEJ0RnJKa0FZTjU4ZVVyYmNOa05McUQ1c1FJdmQ0ZFlJYVpXcUdnWlN5LU96WDV6VTZEazJmblBnOUtqQQ?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-06-20 08:23
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE56SU5HN3Vmb3g3WVRVY3hhc1RENnUtR3ZfdG5XQTI2SmhYQVoyUzFuX3NfNE1LQnVWTHhQLVZoOE91Mk9FRkw5TUR3VGt1ckJfejF5cWhwVnNkZ1VNUTk3dG1BVFREbkp0S19odURHT0pLUjI5?oc=5>
 
-### 负面太多Hold 不住了：特朗普手机公关公司Poplar Group 宣布终止合作|唐纳德·特朗普|媒体|镀金|合伙人|质疑_手机新浪网
+### 特朗普在摇摆州支持率大跌 选情告急
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-20 04:26
-- 链接: <https://news.google.com/rss/articles/CBMimAJBVV95cUxOREVlOHQyS1RvWGp2RnRoUzI5Q21jMHhpQjB6elhBa3lVZmVfbmVHTE44Z2ZjUW9nNmV2UEx2MW4zMU5aUXlfYURQdVFrUHdlQkhXcHZuNUQwMjNBUHgwal9xdFlFYm9VdkpBUVZ0WjViVlVSYk1raDRnMjFXbWR1WFdCVFFkVWtKVDI0d01ZVVBMNHhzc25UakJnT0t4dmNva1QxVUlkZThhX09nMEI5MGppS0JvVGZ3SjNlNjREVWNQSmg4ZG1nMmYta3UtMlRSRWh0TDhLMUlJcHdmN0VySXBCaklrQlNXR0U5MXpOSTJGcVhzOUw5N0JVcElOb2k3RWhTRkxwcURva3RHaTAwUUlCR0FMS3NR?oc=5>
+- 场馆: 中华网
+- 时间: 2026-06-20 09:22
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1MNTRZWGdzcmJrR3lzOG02dWR6aXFDM2NfLUN1cHdXbS1uMjRNWUg2OVc5YURQcy11LWE2U2MwMGp6dFJCMDAyak1zbGE0OU0ybFRZVHRWb2JpeWxwTDViZ3gxd20wZmRCRldWRzNPaEo?oc=5>
+
+### 港媒：特朗普近期无意就对台军售与赖清德通话
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-06-20 03:24
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1uYzBDV3dzMUdaeld5eHM5bDB2R3h5dWhnUHRzM3NQWjE0OEgybWRtYVlvLTJLa0Z6eS14cmkzZGR6SlcyeVRZd29uNEw3WTFkcnc0U0gzenFoZmdDLUdWT196Z2YwQQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-20 10:09  (10 条)
+
+- **周杰伦** | MV上线引爆全网!2026年6月15日全网综合热歌榜发布 国风亲子金曲双线霸榜_周杰伦_龙耀华_龙友林 <https://k.sina.com.cn/article_7857201856_1d45362c0019073ivo.html>
+- **特朗普** | 特朗普“剧透”，意大利怒了 <https://news.google.com/rss/articles/CBMicEFVX3lxTE9WRk83Yy1GcHgzTUxPeldlbkdwNzBEem1ITDdHc3ppVjVqTnhKZTNWT1NIUVdiMDRJaUVXazJfS3N1dFZZOEJZM0FkOWI1RDdYTm9ZdURHdm5wSmlnQnpjVkpWMDFXZllMYmJ1allUN3k?oc=5>
+- **特朗普** | 特朗普“剧透”，意大利怒了 <https://news.google.com/rss/articles/CBMic0FVX3lxTE1SbFpjVGdPQWJxZUFtOEk4dlNad0tZNUZzcmVZc0xsdnBqajBWLS1BV0J6b2h6WUh6VjRkVVNRbS1tMGJlUG5xQjNDTXdvSkZfT2Jab0RtbGYzX3hGWElhQzZRVjdOM29JOUpPV1NBMmw2SFk?oc=5>
+- **特朗普** | 特朗普炫耀新“空军一号”，称其为“空中白宫”，“奢华程度前所未有”，美国网友质疑：特朗普或滥用职权，民众都买不起食物 <https://news.google.com/rss/articles/CBMidkFVX3lxTE90dFYzSXVtNktoOEoxMXV0RGZzS1ZqdFpybWFnLTFJRG15SDNoNGdmWklPNFZFWFh3d2tnYlpJbGtsYVpBMDJrbVg2UXlTRTdud2pNWWFYRmZZSGRRNDQweDNyOVBLY2l0Tld0czdqUnZFbFZVV0E?oc=5>
+- **特朗普** | 新“空军一号”亮相 特朗普炫“空中白宫”引争议 <https://news.google.com/rss/articles/CBMif0FVX3lxTE00QWJ0ZWpOT2N4Z0JHUVh0TG1qR015bnByQ1VjTUI3UXRzWGc2UFVQVzlrOVR6aWRSaEdubDNfYWpJVUdBaUM4OWVQNVl6NDdlRGxaaE5QUGwxX2Z2bGJpNEloWHJ3OE0tVFpqUzh1VUlEMEdJN2hXZDd4NmQ2bTQ?oc=5>
+- **特朗普** | 特朗普称AI或成比互联网更大的武器，曾不满Anthropic行为 <https://news.google.com/rss/articles/CBMihwFBVV95cUxPT2JXdjI4NVhyQmdRR0hxZDNqNDV3cEtvb2dSQWxWd2dvZ1RUZG9DdjA5YzBaZXFQTlVMck1tRHNubWY2UmRtUE0tc1JkemtrNzItMVpiSWpjRy0tbXVZT1hJVEFIQXY5UlVGdDIxeWRVRGxKNXBmZ29TdjNnanFXb3NGRVkyamM?oc=5>
+- **特朗普** | 特朗普：今年将再次访问中国 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBLcFdma0hVd2FmTlZlRVlnMU1Sb0U4UHFuSlVwNEw0SkZZOGFzMTh4VDZwZm1IQy1wZGFRQlE4MWdYWV9MazNkRzRCdTk?oc=5>
+- **特朗普** | 外媒爆料：特朗普和高市早苗，当众发生口角 <https://news.google.com/rss/articles/CBMidEFVX3lxTE56SU5HN3Vmb3g3WVRVY3hhc1RENnUtR3ZfdG5XQTI2SmhYQVoyUzFuX3NfNE1LQnVWTHhQLVZoOE91Mk9FRkw5TUR3VGt1ckJfejF5cWhwVnNkZ1VNUTk3dG1BVFREbkp0S19odURHT0pLUjI5?oc=5>
+- **特朗普** | 特朗普在摇摆州支持率大跌 选情告急 <https://news.google.com/rss/articles/CBMicEFVX3lxTE1MNTRZWGdzcmJrR3lzOG02dWR6aXFDM2NfLUN1cHdXbS1uMjRNWUg2OVc5YURQcy11LWE2U2MwMGp6dFJCMDAyak1zbGE0OU0ybFRZVHRWb2JpeWxwTDViZ3gxd20wZmRCRldWRzNPaEo?oc=5>
+- **特朗普** | 港媒：特朗普近期无意就对台军售与赖清德通话 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1uYzBDV3dzMUdaeld5eHM5bDB2R3h5dWhnUHRzM3NQWjE0OEgybWRtYVlvLTJLa0Z6eS14cmkzZGR6SlcyeVRZd29uNEw3WTFkcnc0U0gzenFoZmdDLUdWT196Z2YwQQ?oc=5>
 
 ### 2026-06-20 06:57  (9 条)
 
