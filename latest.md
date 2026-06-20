@@ -1,32 +1,73 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-20 20:48**
-- 本轮扫到 4064 条, 新增 **2** 条
+- 最近更新: **2026-06-20 22:01**
+- 本轮扫到 4070 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (6 条)
 
-### 特朗普坚称是梅洛尼央求与他合影
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-06-20 20:41
-- 链接: <https://news.google.com/rss/articles/CBMikwJBVV95cUxQS25pQklvYzdjNXRpTXRNVWl4aWxsREtCLU1zZC00VHlWQnVlX3M2OTBaWVNjeTlzTkFXSVhybXZBcWpvUVJfSzluMXNDRWg2aVUxSkJmMldjZERMSzl0ZDF0Qk51UTMxN2h0OGlsbmdCM2FIN0lmWXVraFB5QjJtb1E4RDVtMzN6TWpYX2xPNWpBYTlTZW9fRTV6WnQ5M0JaYk43ZXRia285eFFoT1htOWV6clJFLVdmMHBEcDlLNFRoczFPR09SeE5URUhIVTVEWjg3WUlQSGdrWGFocGp0ZjkzSDVicTY0X2ZNYzlIVl9yUUpGTWpaTXRsZFBEQllhX1QtQ08tRkFvdVhUMVEyQXVjZw?oc=5>
-
-### 特朗普发出威胁：如谈判失败 美将征收霍尔木兹海峡通行费
+### 特朗普：霍尔木兹海峡60天宽限期结束后不会征收通行费，除非通行费由美国征收并所有...
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-06-20 20:25
-- 链接: <https://news.google.com/rss/articles/CBMijgNBVV95cUxQeERWMThrZzI5dXdsQWtIWThyaENNTFlFS25tVExOdDd0TER6S3ZzVVRMVDhCcHcyd3VmXzhob2dsaDlKeHBXaTlJd0d4d3kyZF94T1NzNEJmamxFRTRrbWNCaVdUTGhxWUMxS3k3ODJoVXRGQ2hPM3NETjZCODdfVkJDQ00xQk96elJSTUl3LTIzdFZ2dld0VUtPTHBHaXNsS1NJdEwtZXRQWUFRTXVLeVZMTnBPMHNSbkVfbllDNkF3WWNoWkV5QWhWQ3BYbDJ4WE1mbm93b0ppWjNBZnJXaUVzVHBEb2JEWXY4U0NJSmp5bEZFS3RRbkNPeUFlSzh4OUh0Z1gtR0ZqZUQtTGU5MGphWl9nLVZXRzY5cnh0MnNRczI1eDRvWEFFYXBCQUE0dGRqLVhnX2g5eW9KNkgzb25TeFNDdktsQVdNc3lBeGM2MkNlaWtVQWw2WDBqcm50WEpqdjl1SlFZQUNjeWtteEZfV0tYb3ZsQjRGOWZjT0wya3ZhQjNPREszWS1odw?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-06-20 19:16
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE8wRlhmb2lKenlBSkNjU3J4REZCaDBPQkxNeUhfMk1HVGhwUHpEX3g5WmMxYjdscm5wWmdsQkFka1hBOW8wQl9FdElmekRoQlpZUWVzWi1wd25JOUFOX3JyTlBuXzZiNV9jMnpfT1AtTjZyeDl4emliTg?oc=5>
+
+### 特朗普、高市早苗，当众吵起来了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-06-20 21:04
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE1TTmZpbG5ucjFpaFRpWDhMN2JWQkgyMFRVRFV2amU1SXEzTk40c3p5SlYzRjVKdEExNmozVE1xUWwyM1BSdjdYRFhrc2dZX3I2Z1BLSjBmLTcwUHRzT0pWTldkNW9BT3k2VG1zcEFYRmVnZw?oc=5>
+
+### 特朗普和高市早苗被爆在G7因珍珠港争吵，还惊动其他领导人劝和
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-06-19 12:09
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE5leVlWbFlYMHJoUzYzaUxCUHY4OXFHUk1HQlNZc1ZYYlpTcFJFS3ZGZXEzZUgyS3FqblNZb1JoT3hKZjNVSzROZQ?oc=5>
+
+### 特朗普指责意大利总理“拒绝美国”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-06-20 15:25
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFAwa1oyeTZJeEZqdXo1dTJkVzVHZEV5aWZkdnNIUjFtc084cW1USy10akc1WFdLeXJldDhTVTdvaDFBOEtaZ1FlMHJqTQ?oc=5>
+
+### 特朗普为新专机揭幕 称“飞行白宫”飞更快更远
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-06-20 11:51
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5keFJ1X0VEX3NNcUJqM2RDSUJjMnRrTXhpZGxzeVpTcEwwM1JiWEliWkRLZFg5SGhGZXFGa0Y2SEk1eVljaTNhOW1yOFBZUmVCOTNJamM3VjVDWTh6bjhWYVc3cmhCRHNiYWc?oc=5>
+
+### 哪来的底气：敢下命令拆除特朗普的名字？（图）
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 文学城
+- 时间: 2026-06-20 14:54
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5YYnVZN1ZVSi1KUGpkQW1TVjVYSEQ5VUdzdVNnbGo1OGM2dFRfekhNLUFfc1pvZzVMUmFKdElsaTVOTTFLSl9fM3dIeEhBektaTER6T2t5UFB4eFdGU0lrZVlydFJxQQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-20 22:01  (6 条)
+
+- **特朗普** | 特朗普：霍尔木兹海峡60天宽限期结束后不会征收通行费，除非通行费由美国征收并所有... <https://news.google.com/rss/articles/CBMieEFVX3lxTE8wRlhmb2lKenlBSkNjU3J4REZCaDBPQkxNeUhfMk1HVGhwUHpEX3g5WmMxYjdscm5wWmdsQkFka1hBOW8wQl9FdElmekRoQlpZUWVzWi1wd25JOUFOX3JyTlBuXzZiNV9jMnpfT1AtTjZyeDl4emliTg?oc=5>
+- **特朗普** | 特朗普、高市早苗，当众吵起来了 <https://news.google.com/rss/articles/CBMickFVX3lxTE1TTmZpbG5ucjFpaFRpWDhMN2JWQkgyMFRVRFV2amU1SXEzTk40c3p5SlYzRjVKdEExNmozVE1xUWwyM1BSdjdYRFhrc2dZX3I2Z1BLSjBmLTcwUHRzT0pWTldkNW9BT3k2VG1zcEFYRmVnZw?oc=5>
+- **特朗普** | 特朗普和高市早苗被爆在G7因珍珠港争吵，还惊动其他领导人劝和 <https://news.google.com/rss/articles/CBMiSEFVX3lxTE5leVlWbFlYMHJoUzYzaUxCUHY4OXFHUk1HQlNZc1ZYYlpTcFJFS3ZGZXEzZUgyS3FqblNZb1JoT3hKZjNVSzROZQ?oc=5>
+- **特朗普** | 特朗普指责意大利总理“拒绝美国” <https://news.google.com/rss/articles/CBMiS0FVX3lxTFAwa1oyeTZJeEZqdXo1dTJkVzVHZEV5aWZkdnNIUjFtc084cW1USy10akc1WFdLeXJldDhTVTdvaDFBOEtaZ1FlMHJqTQ?oc=5>
+- **特朗普** | 特朗普为新专机揭幕 称“飞行白宫”飞更快更远 <https://news.google.com/rss/articles/CBMiakFVX3lxTE5keFJ1X0VEX3NNcUJqM2RDSUJjMnRrTXhpZGxzeVpTcEwwM1JiWEliWkRLZFg5SGhGZXFGa0Y2SEk1eVljaTNhOW1yOFBZUmVCOTNJamM3VjVDWTh6bjhWYVc3cmhCRHNiYWc?oc=5>
+- **Trump** | 哪来的底气：敢下命令拆除特朗普的名字？（图） <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5YYnVZN1ZVSi1KUGpkQW1TVjVYSEQ5VUdzdVNnbGo1OGM2dFRfekhNLUFfc1pvZzVMUmFKdElsaTVOTTFLSl9fM3dIeEhBektaTER6T2t5UFB4eFdGU0lrZVlydFJxQQ?oc=5>
 
 ### 2026-06-20 20:48  (2 条)
 
