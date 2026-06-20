@@ -1,48 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-20 19:16**
-- 本轮扫到 4062 条, 新增 **4** 条
+- 最近更新: **2026-06-20 20:48**
+- 本轮扫到 4064 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (2 条)
 
-### 爆料：特朗普与高市吵起来了，他国领导人不得不出面劝解
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-06-20 04:21
-- 链接: <https://news.google.com/rss/articles/CBMiigJBVV95cUxNWnd2ZjJfc1l0djZuNVFRaTBQTjVBUUE4Ulg1cGduMVRFdk1wMHpiN1Rmb0dKMG9jTFJrbExabzhDTG9QdHpfRVhBQ0dad0VMTVNaTEdDNi1aWDJfWjhyZ3hzTHNzRDEzRFlBSUJkM3d6Mkk3T1JSMldmWkRIMlBCazV2TnZ1eGNienhzS2tsS090Z2VpODFvaktwUktNZWdnb1dsWkgxeTMtd2I4VWRNcnRtUTJsaHpmQWVfU242dDcyUVJpd2ZTWE0tZ3JoR19iUHdzeF9IMEl4TVdzOFVKSTNLdWptZGRRTWw3blJNU0JnYnpickI0eGRMMXdCVnFsdi1BQ0t2VXpNQQ?oc=5>
-
-### 法媒追问：在凡尔赛宴请特朗普花了纳税人多少钱？
+### 特朗普坚称是梅洛尼央求与他合影
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: RFI
-- 时间: 2026-06-20 18:10
-- 链接: <https://news.google.com/rss/articles/CBMi3AJBVV95cUxQSEs4M3FxenA3VGVPQ2o1dVFPVVh1Nnk1OV90NFFvNlg0QjFBdjJwMDdId25vOUFhdHZrd1V4UXZ1WW1OT19BOXZJSWlpY2E1TnBOUmtoc25LNFdJUnVIYkYwUll4S2Z0RFlSR0NBWDZtQmFYMk1DenFsTW5WOGl6V1h0X0RYMG5aUlRFMEJoNHc5akh1dkJHLWRxdWVsU3gwYXZFVG1ZNDNEN3BCam5GcmlhN1BFdXdnVFlITTNpcUx3RF9UbjYxR3dyTmY1MHhTV0c4bkFyVHllZmxWU3RxQTlvMy1DRTZZYnpQNTZEcFM1RXg3U1E1X3BRczZkWTJfTi1BT3hWSVpzOW1MNjBLcTM1enJfQmdmSXRMZ0VVZVpjSmh3clJwdUhjdGNYOC0zYTZfb0pJcmxnSUtWTk1lcXJPMXFCZ1c4UFRkZDQ3d1JqQkVIcmpkaDd1cGY?oc=5>
+- 时间: 2026-06-20 20:41
+- 链接: <https://news.google.com/rss/articles/CBMikwJBVV95cUxQS25pQklvYzdjNXRpTXRNVWl4aWxsREtCLU1zZC00VHlWQnVlX3M2OTBaWVNjeTlzTkFXSVhybXZBcWpvUVJfSzluMXNDRWg2aVUxSkJmMldjZERMSzl0ZDF0Qk51UTMxN2h0OGlsbmdCM2FIN0lmWXVraFB5QjJtb1E4RDVtMzN6TWpYX2xPNWpBYTlTZW9fRTV6WnQ5M0JaYk43ZXRia285eFFoT1htOWV6clJFLVdmMHBEcDlLNFRoczFPR09SeE5URUhIVTVEWjg3WUlQSGdrWGFocGp0ZjkzSDVicTY0X2ZNYzlIVl9yUUpGTWpaTXRsZFBEQllhX1QtQ08tRkFvdVhUMVEyQXVjZw?oc=5>
 
-### 极具奢华！特朗普喜提新专机，由卡塔尔赠送，价值达4亿美元，美媒称有专家担心其安全性，特朗普：拒收是愚蠢的
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 每日经济新闻
-- 时间: 2026-06-20 14:06
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hVTdiYXNSYXR6U1FPQmhvYVF1SV93SGNqUGUzYkFEZ3pjQlU2c2s5V1NfNm1kaDBYX3pJOTNvcVdZdlRYRERLMXZPNXdydEl0SE1nemNaM1d1NjVhRkdIYXFDZnA2dw?oc=5>
-
-### 梅洛尼反击特朗普_新浪新闻
+### 特朗普发出威胁：如谈判失败 美将征收霍尔木兹海峡通行费
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-06-20 15:30
-- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTE9KaEozX1NDN2dLWEk4U01MZmZ6czRvVDE5N0FReXZwakNGMl9CS3BfdGQtQ1ZJSllmQmRxS3dpaklFZk42QkpSOW1kaGQ2alBsakxFOE9Rb25RN3luWnZlbHRuNA?oc=5>
+- 场馆: RFI
+- 时间: 2026-06-20 20:25
+- 链接: <https://news.google.com/rss/articles/CBMijgNBVV95cUxQeERWMThrZzI5dXdsQWtIWThyaENNTFlFS25tVExOdDd0TER6S3ZzVVRMVDhCcHcyd3VmXzhob2dsaDlKeHBXaTlJd0d4d3kyZF94T1NzNEJmamxFRTRrbWNCaVdUTGhxWUMxS3k3ODJoVXRGQ2hPM3NETjZCODdfVkJDQ00xQk96elJSTUl3LTIzdFZ2dld0VUtPTHBHaXNsS1NJdEwtZXRQWUFRTXVLeVZMTnBPMHNSbkVfbllDNkF3WWNoWkV5QWhWQ3BYbDJ4WE1mbm93b0ppWjNBZnJXaUVzVHBEb2JEWXY4U0NJSmp5bEZFS3RRbkNPeUFlSzh4OUh0Z1gtR0ZqZUQtTGU5MGphWl9nLVZXRzY5cnh0MnNRczI1eDRvWEFFYXBCQUE0dGRqLVhnX2g5eW9KNkgzb25TeFNDdktsQVdNc3lBeGM2MkNlaWtVQWw2WDBqcm50WEpqdjl1SlFZQUNjeWtteEZfV0tYb3ZsQjRGOWZjT0wya3ZhQjNPREszWS1odw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-20 20:48  (2 条)
+
+- **特朗普** | 特朗普坚称是梅洛尼央求与他合影 <https://news.google.com/rss/articles/CBMikwJBVV95cUxQS25pQklvYzdjNXRpTXRNVWl4aWxsREtCLU1zZC00VHlWQnVlX3M2OTBaWVNjeTlzTkFXSVhybXZBcWpvUVJfSzluMXNDRWg2aVUxSkJmMldjZERMSzl0ZDF0Qk51UTMxN2h0OGlsbmdCM2FIN0lmWXVraFB5QjJtb1E4RDVtMzN6TWpYX2xPNWpBYTlTZW9fRTV6WnQ5M0JaYk43ZXRia285eFFoT1htOWV6clJFLVdmMHBEcDlLNFRoczFPR09SeE5URUhIVTVEWjg3WUlQSGdrWGFocGp0ZjkzSDVicTY0X2ZNYzlIVl9yUUpGTWpaTXRsZFBEQllhX1QtQ08tRkFvdVhUMVEyQXVjZw?oc=5>
+- **特朗普** | 特朗普发出威胁：如谈判失败 美将征收霍尔木兹海峡通行费 <https://news.google.com/rss/articles/CBMijgNBVV95cUxQeERWMThrZzI5dXdsQWtIWThyaENNTFlFS25tVExOdDd0TER6S3ZzVVRMVDhCcHcyd3VmXzhob2dsaDlKeHBXaTlJd0d4d3kyZF94T1NzNEJmamxFRTRrbWNCaVdUTGhxWUMxS3k3ODJoVXRGQ2hPM3NETjZCODdfVkJDQ00xQk96elJSTUl3LTIzdFZ2dld0VUtPTHBHaXNsS1NJdEwtZXRQWUFRTXVLeVZMTnBPMHNSbkVfbllDNkF3WWNoWkV5QWhWQ3BYbDJ4WE1mbm93b0ppWjNBZnJXaUVzVHBEb2JEWXY4U0NJSmp5bEZFS3RRbkNPeUFlSzh4OUh0Z1gtR0ZqZUQtTGU5MGphWl9nLVZXRzY5cnh0MnNRczI1eDRvWEFFYXBCQUE0dGRqLVhnX2g5eW9KNkgzb25TeFNDdktsQVdNc3lBeGM2MkNlaWtVQWw2WDBqcm50WEpqdjl1SlFZQUNjeWtteEZfV0tYb3ZsQjRGOWZjT0wya3ZhQjNPREszWS1odw?oc=5>
 
 ### 2026-06-20 19:16  (4 条)
 
