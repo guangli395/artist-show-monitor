@@ -1,64 +1,85 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-20 22:01**
-- 本轮扫到 4070 条, 新增 **6** 条
+- 最近更新: **2026-06-20 23:42**
+- 本轮扫到 4078 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (8 条)
 
-### 特朗普：霍尔木兹海峡60天宽限期结束后不会征收通行费，除非通行费由美国征收并所有...
+### 周杰伦新歌《不能握的手》上线，讲述遗憾爱情故事
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-20 19:16
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE8wRlhmb2lKenlBSkNjU3J4REZCaDBPQkxNeUhfMk1HVGhwUHpEX3g5WmMxYjdscm5wWmdsQkFka1hBOW8wQl9FdElmekRoQlpZUWVzWi1wd25JOUFOX3JyTlBuXzZiNV9jMnpfT1AtTjZyeDl4emliTg?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879924035_m1d5ae194303301ulq2.html>
 
-### 特朗普、高市早苗，当众吵起来了
+### 陈奕迅一场演唱会能有多少收入？刘欢收入最高
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-20 21:04
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE1TTmZpbG5ucjFpaFRpWDhMN2JWQkgyMFRVRFV2amU1SXEzTk40c3p5SlYzRjVKdEExNmozVE1xUWwyM1BSdjdYRFhrc2dZX3I2Z1BLSjBmLTcwUHRzT0pWTldkNW9BT3k2VG1zcEFYRmVnZw?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019074dos.html>
 
-### 特朗普和高市早苗被爆在G7因珍珠港争吵，还惊动其他领导人劝和
+### 2026年周杰伦在鸟巢的演唱会票务情况到底有多火爆？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-06-19 12:09
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE5leVlWbFlYMHJoUzYzaUxCUHY4OXFHUk1HQlNZc1ZYYlpTcFJFS3ZGZXEzZUgyS3FqblNZb1JoT3hKZjNVSzROZQ?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801p912.html>
 
-### 特朗普指责意大利总理“拒绝美国”
+### 特朗普：若与伊朗不能达成协议 美或收取海峡通行费
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-20 15:25
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFAwa1oyeTZJeEZqdXo1dTJkVzVHZEV5aWZkdnNIUjFtc084cW1USy10akc1WFdLeXJldDhTVTdvaDFBOEtaZ1FlMHJqTQ?oc=5>
+- 时间: 2026-06-20 22:34
+- 链接: <https://news.google.com/rss/articles/CBMi_gFBVV95cUxOWHJXWlFyZ3pmR09JOHQ5dGVmZkRRQnJScXhlTlR0TndVQTFJa1RhYVJOUDcwV3dsZHJZQW5lUDQyWUJmc3NZeHlrZzEzQU1nSUE2cWRkMWpLeFJrQUlZQXQ4QUFKRW5OVF9LWXJNOXlJNXdYWUc4VTY5S3ZrSFJMRnUxSERpZl9Xc1cwYUM2U2tnblFUc0k1YUJOT2NuYkplUHdhMGRORUNXTnBSektTX0JKT0hVcVFaODVXVmhnOGVVTGRPSkxlZUI0TUZnaVFXd0lVUTNlbTZQeVhGamUtOHFtTmsydWdyYUtITjdaSGhPX01tRkJRMUxrcDYzdw?oc=5>
 
-### 特朗普为新专机揭幕 称“飞行白宫”飞更快更远
+### 新“空军一号”亮相 特朗普炫“空中白宫”引争议
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-06-20 11:51
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5keFJ1X0VEX3NNcUJqM2RDSUJjMnRrTXhpZGxzeVpTcEwwM1JiWEliWkRLZFg5SGhGZXFGa0Y2SEk1eVljaTNhOW1yOFBZUmVCOTNJamM3VjVDWTh6bjhWYVc3cmhCRHNiYWc?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-06-20 07:47
+- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxQd1MzbXROYlFCOWFmZUxiLUlFc25ZS3JfODVPOUl4T1lmbFMxWmt1c2kxenFLYmdQTzRBdUVYUHg3WW1WTk9acmRwd21iRGE5a0IxdFVHQlowM3BxNi1GTXFfMzZkUVR6aWQySFRJcVhVc2ZqLW5Rc2xKUnFzQU1SczFZSzlEbHRaR0VnRC0tdnNLa2hZU2tSWA?oc=5>
 
-### 哪来的底气：敢下命令拆除特朗普的名字？（图）
+### 意大利总理回击特朗普批评：应关注自身支持率
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 文学城
-- 时间: 2026-06-20 14:54
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5YYnVZN1ZVSi1KUGpkQW1TVjVYSEQ5VUdzdVNnbGo1OGM2dFRfekhNLUFfc1pvZzVMUmFKdElsaTVOTTFLSl9fM3dIeEhBektaTER6T2t5UFB4eFdGU0lrZVlydFJxQQ?oc=5>
+- 场馆: 央视网
+- 时间: 2026-06-20 17:57
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5aNmJkVF9RNVlsZm1idWljcUREQm5kTjUxY3hPd1ZNU2VWelNZVE5EOWk1d001ZnFrN2VKQ2YtUmJxcUU4ZWg5Tm9BTXI5aFk2MndJTGRselU2US03TklLeFM4cHYwMEc5NUlfazFaZDFQMXFBMzJVNQ?oc=5>
+
+### 特朗普“剧透”，意大利怒了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-06-20 12:07
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE40emhxLUs2UEI0cElWYWVJQ3N2MlBoMEEtbmtYdWRoNWpZSmdLMUhWdTJQOTlvNmZ1Mlc0ZVBvdURYeC1PZlYxWjFaSU80aDBDTEFrczJYaXNBaEdJM3RFUnY0dTNCWFY1NVdnRExoVmhxcHVtdTc4VA?oc=5>
+
+### 特朗普，“生日不快乐”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-06-19 02:30
+- 链接: <https://news.google.com/rss/articles/CBMizAFBVV95cUxOemdObkRzUm5DOXRwLVpzc2d4UEtNY0ZIZTlXaWZ1eDdlMXJxU1YzZmhsNGlNSHFmMm5uVFlEWExLcWZKWDRtUmdqUnNtTmU5ZjJSSjRRUFJNZFRnYk51aE5wcnltc1BlRUNfNEJRTHVoOVBxM2RzUnljcXQ4emlTWVJ5cGdvMGJyaDhJam5QODNmLW1vQTlEZHVELXd5N2Uyb2xjTGJtbzdoTnF3STBoeER0eUZ5QWtLY1YtYXhIN2dROTRBQWpQdEcyN00?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-20 23:42  (8 条)
+
+- **周杰伦** | 周杰伦新歌《不能握的手》上线，讲述遗憾爱情故事 <https://k.sina.com.cn/article_7879924035_m1d5ae194303301ulq2.html>
+- **周杰伦** | 陈奕迅一场演唱会能有多少收入？刘欢收入最高 <https://k.sina.com.cn/article_7857201856_1d45362c0019074dos.html>
+- **周杰伦** | 2026年周杰伦在鸟巢的演唱会票务情况到底有多火爆？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801p912.html>
+- **特朗普** | 特朗普：若与伊朗不能达成协议 美或收取海峡通行费 <https://news.google.com/rss/articles/CBMi_gFBVV95cUxOWHJXWlFyZ3pmR09JOHQ5dGVmZkRRQnJScXhlTlR0TndVQTFJa1RhYVJOUDcwV3dsZHJZQW5lUDQyWUJmc3NZeHlrZzEzQU1nSUE2cWRkMWpLeFJrQUlZQXQ4QUFKRW5OVF9LWXJNOXlJNXdYWUc4VTY5S3ZrSFJMRnUxSERpZl9Xc1cwYUM2U2tnblFUc0k1YUJOT2NuYkplUHdhMGRORUNXTnBSektTX0JKT0hVcVFaODVXVmhnOGVVTGRPSkxlZUI0TUZnaVFXd0lVUTNlbTZQeVhGamUtOHFtTmsydWdyYUtITjdaSGhPX01tRkJRMUxrcDYzdw?oc=5>
+- **特朗普** | 新“空军一号”亮相 特朗普炫“空中白宫”引争议 <https://news.google.com/rss/articles/CBMimAFBVV95cUxQd1MzbXROYlFCOWFmZUxiLUlFc25ZS3JfODVPOUl4T1lmbFMxWmt1c2kxenFLYmdQTzRBdUVYUHg3WW1WTk9acmRwd21iRGE5a0IxdFVHQlowM3BxNi1GTXFfMzZkUVR6aWQySFRJcVhVc2ZqLW5Rc2xKUnFzQU1SczFZSzlEbHRaR0VnRC0tdnNLa2hZU2tSWA?oc=5>
+- **特朗普** | 意大利总理回击特朗普批评：应关注自身支持率 <https://news.google.com/rss/articles/CBMieEFVX3lxTE5aNmJkVF9RNVlsZm1idWljcUREQm5kTjUxY3hPd1ZNU2VWelNZVE5EOWk1d001ZnFrN2VKQ2YtUmJxcUU4ZWg5Tm9BTXI5aFk2MndJTGRselU2US03TklLeFM4cHYwMEc5NUlfazFaZDFQMXFBMzJVNQ?oc=5>
+- **特朗普** | 特朗普“剧透”，意大利怒了 <https://news.google.com/rss/articles/CBMieEFVX3lxTE40emhxLUs2UEI0cElWYWVJQ3N2MlBoMEEtbmtYdWRoNWpZSmdLMUhWdTJQOTlvNmZ1Mlc0ZVBvdURYeC1PZlYxWjFaSU80aDBDTEFrczJYaXNBaEdJM3RFUnY0dTNCWFY1NVdnRExoVmhxcHVtdTc4VA?oc=5>
+- **特朗普** | 特朗普，“生日不快乐” <https://news.google.com/rss/articles/CBMizAFBVV95cUxOemdObkRzUm5DOXRwLVpzc2d4UEtNY0ZIZTlXaWZ1eDdlMXJxU1YzZmhsNGlNSHFmMm5uVFlEWExLcWZKWDRtUmdqUnNtTmU5ZjJSSjRRUFJNZFRnYk51aE5wcnltc1BlRUNfNEJRTHVoOVBxM2RzUnljcXQ4emlTWVJ5cGdvMGJyaDhJam5QODNmLW1vQTlEZHVELXd5N2Uyb2xjTGJtbzdoTnF3STBoeER0eUZ5QWtLY1YtYXhIN2dROTRBQWpQdEcyN00?oc=5>
 
 ### 2026-06-20 22:01  (6 条)
 
