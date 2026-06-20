@@ -1,38 +1,94 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-20 14:39**
-- 本轮扫到 4043 条, 新增 **3** 条
+- 最近更新: **2026-06-20 16:13**
+- 本轮扫到 4052 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (9 条)
 
-### 周杰伦2026年巡演收入15亿仍被质疑资产转移,经典老歌年入超千万
+### 近期针对周杰伦演唱会门票的诈骗，主要有哪些常见手法和话术？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019073ts6.html>
+- 链接: <https://k.sina.com.cn/article_7880068208_1d5b04c7006801eqv2.html>
 
-### 意大利总理梅洛尼回应特朗普
+### 浙江金华谭女士为买周杰伦演唱会门票，具体是如何被骗走18万元的？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7880068208_1d5b04c7006801equu.html>
+
+### 除了大麦网和猫眼，还有哪些正规渠道可以安全购买周杰伦演唱会门票？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7880068208_1d5b04c7006801equw.html>
+
+### 特朗普指今年某个时候还会再去中国，点名莫迪和习近平
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: video.sina.com.cn
-- 时间: 2026-06-20 14:20
-- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxNSG44MlFfQmVUMXJXV3VEQU5kN05HOWl4QjRxSUFGREZQaGk4X0pIN0dEYWhlazVmd0N0R0RkdDBKUlQ3cmxyZWs5aDh3MktzdG1FUHFkUWl5REQzTlliVEdQTmRValJlMzdqcGxjZ0pKQlI4Ykljc0kyZmdlbEJnZHNR?oc=5>
+- 场馆: RFI
+- 时间: 2026-06-20 09:55
+- 链接: <https://news.google.com/rss/articles/CBMiiwNBVV95cUxOWDk4R2xNRnF3SGcteGF6OGpnMExzZ2podHdaemppanNKU2hqbTFNTzVEYzFyeHhLYnVuMmhtQzRFM0tqNnFfOUp4RFlNdmU4bFJRN3ZGdXh1MkFKakQxUHJheVNjOFBPSmNlS2l0Zk1NbV94aVZzeGJNeHhZQ0JiNmhUZlRIY1A3TTNYRjFYN3BUM21VR1lIMWtYeFE1YTlIOTNac1lWcTd6Yk9SWmFiMmRxeWdWVFNqZmxOR0lWVWhVblJoRncwRFRIUjNnb0xUMzFvTHh1TnB0alpEbHV2bmNqQnN5UndZZGI5WXZrNkVnTnN6V3ZrdG43LTNpUEdXdTY5NDFKa0ZyRXk3U3ZQdmZsT3ExY0JmcDE0bGRZUk8xS1ZkR28tLU9SekNNdVBJdWdFZWhaRXZNY2FxM0pzQkJwSXhSdmFJdElWTzdQOTNILWUyMm44MmFNcU5pcG5GSTktd3FUZmJVLTF6WVlsaU9UMVg3QklXZnJ4eGJEUFBQR0h5LTRLMzZhdw?oc=5>
 
 ### 特朗普：自称G7“老大”是开玩笑，但他们全信了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-06-20 14:46
+- 链接: <https://news.google.com/rss/articles/CBMijgFBVV95cUxQX1hNVlZ0djVweGZRR1EtVDY1Y0FYM2hsM3M1My1TNlJDQmdJRFVBY1M4M0RBNDRqOXljR0NXV2NjMGU3YVVjZVcxUUNFMXc3VEtsN2FrYW9pTDVzS2h3MUJLS2NFb2NhTXZ2UjI2UzZ3UzVEbEtRWDVBeFMxOWZFT0c3ZDVHVVNHdXBsaWRn?oc=5>
+
+### 特朗普炫空中白宫引争议
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-06-20 11:30
+- 链接: <https://news.google.com/rss/articles/CBMihAFBVV95cUxOMTV4bkt2SC1kNGhpVXM5VC1PcGlBQ2tRYjBYYUtJOGxSUTZ4VkF0VDdFTGgxTnJrcGVid0lwNGZKdm1kcUZCejBHSjhWdEdDb0g2SVdNV3Y3UGctNTRvNEYtSHpSUHZVZ3VTQjB2ZjlDOXlDYTJ4dFFEZjMydkJQZEt6V0Q?oc=5>
+
+### 特朗普亲自下场撮合造芯 美国巨头集体开启芯片自救
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-06-20 12:30
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9fMUpaeHduQzI1aEVRUFplSnVkVGV2SmhrYmFUYlpDdHZwX0hYMDktd3llUFhHRll3ZnQ4MmJydlk5dWhJSjhjLUpMQ2FyRnNBUlhwSzNQQU0tYTIxT19zemJZRVI1RGFMa2dITVVVZUFMWTZQRk5YVQ?oc=5>
+
+### “美国撇开印度，担心刺激中国”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
 - 场馆: 观察者
-- 时间: 2026-06-20 13:46
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5VN0pUTldGb1JMd256dS1YZHFuVnZKNFRFV2JuOVZzVHRTVmJfV29Yb1ROeHFTZTNtenctWmdyRXBBdDMwRmtudi1EQlBQcnNCbkZTYzBWS2ctVUNVMnpqZjU5ckxGYTBtRmc?oc=5>
+- 时间: 2026-06-20 07:12
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBsSVpGUTVLbUduQjFYaEdVT1FWZmhBQk5FbmRidFJxUHpWN0hHamFqcS1tT0lCSzJFR0ZkQkVMSFIyU3pDOEx1MXZUaml3ZnFhbkNfRF9TZGNWb1VMOWdEWkZoLTRkR1BURUE?oc=5>
+
+### 国际｜特朗普、高市早苗，当众吵起来了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新京报
+- 时间: 2026-06-20 00:00
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wVjBtX0w1Unl1X1RsaDYxNlRJaEtWM1hXNEJQZDF3U3hvZlNEUjhwNkJXRDhoNzByZWxKNXE2U1cxbk5QVzBLem1sTzl4RTZwU1RGZHFNbXR0MnhKXzZ1SURCb3M?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-20 16:13  (9 条)
+
+- **周杰伦** | 近期针对周杰伦演唱会门票的诈骗，主要有哪些常见手法和话术？ <https://k.sina.com.cn/article_7880068208_1d5b04c7006801eqv2.html>
+- **周杰伦** | 浙江金华谭女士为买周杰伦演唱会门票，具体是如何被骗走18万元的？ <https://k.sina.com.cn/article_7880068208_1d5b04c7006801equu.html>
+- **周杰伦** | 除了大麦网和猫眼，还有哪些正规渠道可以安全购买周杰伦演唱会门票？ <https://k.sina.com.cn/article_7880068208_1d5b04c7006801equw.html>
+- **特朗普** | 特朗普指今年某个时候还会再去中国，点名莫迪和习近平 <https://news.google.com/rss/articles/CBMiiwNBVV95cUxOWDk4R2xNRnF3SGcteGF6OGpnMExzZ2podHdaemppanNKU2hqbTFNTzVEYzFyeHhLYnVuMmhtQzRFM0tqNnFfOUp4RFlNdmU4bFJRN3ZGdXh1MkFKakQxUHJheVNjOFBPSmNlS2l0Zk1NbV94aVZzeGJNeHhZQ0JiNmhUZlRIY1A3TTNYRjFYN3BUM21VR1lIMWtYeFE1YTlIOTNac1lWcTd6Yk9SWmFiMmRxeWdWVFNqZmxOR0lWVWhVblJoRncwRFRIUjNnb0xUMzFvTHh1TnB0alpEbHV2bmNqQnN5UndZZGI5WXZrNkVnTnN6V3ZrdG43LTNpUEdXdTY5NDFKa0ZyRXk3U3ZQdmZsT3ExY0JmcDE0bGRZUk8xS1ZkR28tLU9SekNNdVBJdWdFZWhaRXZNY2FxM0pzQkJwSXhSdmFJdElWTzdQOTNILWUyMm44MmFNcU5pcG5GSTktd3FUZmJVLTF6WVlsaU9UMVg3QklXZnJ4eGJEUFBQR0h5LTRLMzZhdw?oc=5>
+- **特朗普** | 特朗普：自称G7“老大”是开玩笑，但他们全信了 <https://news.google.com/rss/articles/CBMijgFBVV95cUxQX1hNVlZ0djVweGZRR1EtVDY1Y0FYM2hsM3M1My1TNlJDQmdJRFVBY1M4M0RBNDRqOXljR0NXV2NjMGU3YVVjZVcxUUNFMXc3VEtsN2FrYW9pTDVzS2h3MUJLS2NFb2NhTXZ2UjI2UzZ3UzVEbEtRWDVBeFMxOWZFT0c3ZDVHVVNHdXBsaWRn?oc=5>
+- **特朗普** | 特朗普炫空中白宫引争议 <https://news.google.com/rss/articles/CBMihAFBVV95cUxOMTV4bkt2SC1kNGhpVXM5VC1PcGlBQ2tRYjBYYUtJOGxSUTZ4VkF0VDdFTGgxTnJrcGVid0lwNGZKdm1kcUZCejBHSjhWdEdDb0g2SVdNV3Y3UGctNTRvNEYtSHpSUHZVZ3VTQjB2ZjlDOXlDYTJ4dFFEZjMydkJQZEt6V0Q?oc=5>
+- **特朗普** | 特朗普亲自下场撮合造芯 美国巨头集体开启芯片自救 <https://news.google.com/rss/articles/CBMieEFVX3lxTE9fMUpaeHduQzI1aEVRUFplSnVkVGV2SmhrYmFUYlpDdHZwX0hYMDktd3llUFhHRll3ZnQ4MmJydlk5dWhJSjhjLUpMQ2FyRnNBUlhwSzNQQU0tYTIxT19zemJZRVI1RGFMa2dITVVVZUFMWTZQRk5YVQ?oc=5>
+- **特朗普** | “美国撇开印度，担心刺激中国” <https://news.google.com/rss/articles/CBMiakFVX3lxTFBsSVpGUTVLbUduQjFYaEdVT1FWZmhBQk5FbmRidFJxUHpWN0hHamFqcS1tT0lCSzJFR0ZkQkVMSFIyU3pDOEx1MXZUaml3ZnFhbkNfRF9TZGNWb1VMOWdEWkZoLTRkR1BURUE?oc=5>
+- **特朗普** | 国际｜特朗普、高市早苗，当众吵起来了 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wVjBtX0w1Unl1X1RsaDYxNlRJaEtWM1hXNEJQZDF3U3hvZlNEUjhwNkJXRDhoNzByZWxKNXE2U1cxbk5QVzBLem1sTzl4RTZwU1RGZHFNbXR0MnhKXzZ1SURCb3M?oc=5>
 
 ### 2026-06-20 14:39  (3 条)
 
