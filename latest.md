@@ -1,132 +1,100 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-20 02:47**
-- 本轮扫到 4012 条, 新增 **15** 条
+- 最近更新: **2026-06-20 06:57**
+- 本轮扫到 4021 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (15 条)
+## 本轮新发现 (9 条)
 
-### 王一博深情演绎电影无名主题曲
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923704_m1d5ae17f803301tjhe.html>
-
-### 周杰伦北京鸟巢演唱会进入倒计时
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2774365937_a55d76f104001huc2.html>
-
-### 特朗普：梅洛尼求我跟她合影，梅洛尼：胡编乱造！
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-06-19 13:47
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1xaGNNRGYzcTdPSndWRFo5Z0ZNTy11Q2Zuc0g3Vl95a3UzdFphem84THJxWHhlSWtpSjZkNERaZU5jNmhadWthOU5uVmg?oc=5>
-
-### 牛弹琴：今年最戏剧性的撕破脸
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-20 00:34
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE04ck45RHl2YzEzUnhmRlVhV3A5MFRHQ1JNVUdFd1hheGNwdHBRVjFkSk5yRnVObkpudlZ2dGYycTYyRXE3VTJfOU1HaUoxSzQ1Zy1scEhOMGtETzFvUGZ1cVVuWmlXcENJSnJUWDhOcmVsT2Z3S3M5NA?oc=5>
-
-### 特朗普就谈判问题向伊朗施压
+### 梅洛尼喊话特朗普：意大利从不乞求任何人
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新华网
-- 时间: 2026-06-19 14:00
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1PcVZQcXhFWTkyNTRpQmI4ZnBRdldUM1hnbk85dzJ2SnlFYXhWNFZDTE9neG04Ny1wcUhxLS00ajRITnFJSVZOV3B3Ul9ra3ljSXFWd0JJYnV0Q1JiaGw1dTdOLVJETFVaNGpDUFRYNG11VElsRzZ3M0p6akdIOE0?oc=5>
+- 时间: 2026-06-20 04:50
+- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE1IdXZleEhxMEl6S0hRX1ZHQkhzOFFqbEd5YjhSNHFpRzVFN0lldDUzY1lFZkRnTmlZMXpHUE5MYnhpZTRqOXdQUEhHdVQ2T0pqNm9jY3ZYR2kzTHhsdXdhWFJfdlVZWWVaS3JHSkttSGxOcFd6Zy1qdk56NTUwQQ?oc=5>
 
-### 负面太多Hold 不住了：特朗普手机公关公司Poplar Group 宣布终止合作|唐纳德·特朗普|媒体|镀金|合伙人|质疑_手机新浪网
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-20 02:32
-- 链接: <https://news.google.com/rss/articles/CBMigwJBVV95cUxOblN0Y2J0bDBadGlwSGdjOHVPOTIyOFdLZ3NJT3Jic3l6WHl0SkctR3RnQldBWHpGTmdyZ011WGgwemYxelFzWXFVQUR2aFlvQUxUbktTVGxCZ0RjWVl3dGExMGxjSS1lWTV4MzZCVnZDbWRkTTRZOXh6LW52d1dJdHJPdUhJSERScWo1bHZWbHNBXzdLVUNyMkhYQTRxX1NpNU81VkJXQk80UHNpVTRZOXZPa3BFS2VZUUMwVkxoR19RellQZkNPZFFEZVpBT0R5T0dKXzBBSlZDbTlPYjg3NXM1dnJMbWVMV3llejAwSnpDWFczMU1MY2k3eWQ4RkpHQW9J?oc=5>
-
-### 特朗普为改装版全新“空军一号”总统专机揭幕：“很合我的口味”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 环球网
-- 时间: 2026-06-19 10:37
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE1URENsanhPLW85dUhWV1lkV3FCRkd2R3gzZURxUmJCOWxJOEhaQVpaMXZlNTRWbkxISmhrZjVUTkI1Y256MUs5WXRSclM4a0VkZExadFJMY1Y?oc=5>
-
-### 特朗普喜提新专机
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 每日经济新闻
-- 时间: 2026-06-20 01:20
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5aZ2pKRm9VYTZUTWQzTnVJLW42TEt0V3EtcHhJOFVnZHIwdzB0SVJJWl84dk5sbXREM09DYmMwWFk3RzZJeFdkbWxSZEk4NXpoYk1uXzg2TTB5cjh3Vi1ST3NnTlJDdw?oc=5>
-
-### 卡塔尔送的！特朗普喜提新“空军一号”波音747-8
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 驱动之家
-- 时间: 2026-06-20 00:31
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE92YkRuZnl1WnB0N2xjTmM1OEt4dU1sQlMxYUhMcWJ0cnpMenRWbUUwb0c5R3BZMTM3bGpBNXF3Vy1yWnRNUXRkZjkxckFicWtnQ0RIa0VLT3Y?oc=5>
-
-### 特朗普，“生日不快乐”
+### 特朗普：不再认为Anthropic对美国安全构成威胁
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-19 02:30
-- 链接: <https://news.google.com/rss/articles/CBMizAFBVV95cUxPc1NjMHpNcGpTa3A0NC1xZEs5NEIxOWpsU2hYZlNZeGQ0eEw1SUZqNEJCQmFpZzNTNW5tSEFHcTdseENMYlNXRXVOd1U0THcwbFBabVZYTUpMQlJUS1RGQkR4RExyYnpZYVd4VXdvd1hBcnZIQV9hQ0kwQkZkZTM4SFVrRV9KTVRraGxEWWpoSVVRdHhsUWZHS2gxcTFyRW8xeW8wSWtBeERrZDRka3ZwbFB6VzFBLUJ5VlpFb012bEpNa1JUelEwTXhOQVo?oc=5>
+- 时间: 2026-06-20 05:03
+- 链接: <https://news.google.com/rss/articles/CBMilwJBVV95cUxNdEdiSVItS09BZ1NRM2VsQVBhc2N5c1hjcFppakg1bzNkX29mZ0Q0Z1dwMWdQMjVsNy01YW12dzdzd1I2VVJUS3ZWbHVlcEtJY1Z4YktnZnBacklJMGp2V2VESWZ1aVBvX3FYV1RXZmpXNW5pbnpvNzZVZElBSzVmMndQbnJwTXozRmx6Y0hLTUR4R3VpTUVCWDY5VThScjBvZS1GZHNnWHZpemRWYXdfeXVRQ2pTdHpBVmhhT0l4eGlEN1ZCUWk4VkxlWW12THYwZkp0My01bmM3TThlWXEwOWpKU204UlZMeUpUZGpCNEduclpmOWRNQzJCaFBCTWFJN0JYNGxFSS1FNjZoWW8yeFlEbXFQQmM?oc=5>
 
-### 特朗普为何称俄乌冲突与美“无关” 利益至上态度显现
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-06-20 02:34
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE12M1pPVllIVVNfZTE2TC1jSjVDYWVzSFQ1Z29lNTJLNkRPWFhzb3hhV2s1OGwzbjd5ajlGWGo5RkJHTUxHMlpnXzJpd2VCdVJLNWVYNEhyMU9rWWdSUi13MHhKZ2RCVHI2NGVJSkNtdGw?oc=5>
-
-### 特朗普T1手机被曝是中国设计、中国制造：主要零部件都来自中国
+### 爆料：特朗普与高市吵起来了，他国领导人不得不出面劝解
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 驱动之家
-- 时间: 2026-06-20 00:55
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE11ZHlMNHhhWk5XLTRZUUdVZGNwWXNSN1IwRnJDd1RDT1ZFTWhHZ2hOZzBwMGpiRkRYWlprN0JBV0wxYWQwdHoxTWtJQjNBTHJHaVFXUmtWZVg?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-06-20 06:16
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9zUGloTXZIOTd2LS1UWWlOYkIyLU81VWhuUDdyeU45dWVxM3QxazZSc3o5cTF1SFgwRlpTcHBCNlc0Nnd1OXRyOGd2a1BoWC00UmVRbThGZ3pxdTNlcVFsNVI4N01Nc2lmX3NWN1BkY1g?oc=5>
 
-### 美媒：连苹果都要涨价，为何特朗普政府难解内存荒危机？
+### 特朗普和高市早苗被爆在G7因珍珠港争吵，还惊动其他领导人劝和
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-06-20 01:11
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTFBxeUw3TjZhaVg0LVJKdXVMcWpJbjdBTkVPOXE1c0drUEF1Y3pmOURFWU5GWmo3ZmVocDE2ellCVkF3V1pvLXd4NQ?oc=5>
+- 时间: 2026-06-19 12:29
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE92Wmg2czdCTlI0XzZZTHVrdmV5aDFyZHJBOUc4bUxNQUt3Qi1BZjZ2OUNCLXVBbFZPZXEwMFFXZnZHQXNMcXB1ak9sTno?oc=5>
 
-### 特朗普官宣苹果与英特尔合作造芯 背后有哪些考虑？
+### 日媒：震惊，特朗普与高市“发生了口角”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪军事
+- 时间: 2026-06-20 05:58
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1YdkZmRXFOVUNRWkw3Rmx5WVV3TzNhLWtsVGVCeEJGY0RZQ1lGMHNuQkxhY0I1OHc3X3VSY0ZBY3hWZVRwcGIwcVdRQWFoLWdBZU1xam1GMk9TcVkyN2p4VTduTGI2ZHFPVDRPTC1idHVPcGM?oc=5>
+
+### 特朗普的新专机，首次亮相
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-20 00:47
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5YOC1QN3QzNl9iQ1JjeHpsUUppY0ltX21PSjJEbndKM1pMWGtFY3dFSElGbHdBUmgzYlY5NHEyRVdzTHptVHdUTm9PdFFVYy1zTmlRNWFRMWUxdFdaNVFpYnZfV3JfdEt6UVp1dVpwMk5fOVJwaGZrSA?oc=5>
+- 时间: 2026-06-19 21:18
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxPRUFqRU5KcThqcnNYZkY0RVJ1aTlNRHNmY0FqRExDTFpQMEVKMUhjbVlkZnNudXE0MldnRFpFN2pxaXBSNm5kSURwWUVuX0Z3SGtGLVJVa2hUVDMxVlg4d1ZwWk43ejBUZVdjbnNZbVFkckNXM2ZQTWtpRFBnTUJCaUtVaFNQQUE?oc=5>
+
+### 特朗普：今年将再次访问中国
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: QQ News
+- 时间: 2026-06-20 04:59
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBKeDJ6S1BlU3ZMWkFNbE4zN0ktYnZTa19ETUE0TjNlNVUyZm9QdHFKQnI2QUlBN2VUVmxJbVZmRWtFclEtcEE3aHVZLTdNeFo4NUNfZHRQbXJYWWNNTXktV2ZLelVXbWFQcUh2MGpaRHl5R0hyVWpLQg?oc=5>
+
+### 被特朗普“剧透”乞求合影 意大利总理怒了：完全编造 意大利和我从不乞求！
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 东方财富
+- 时间: 2026-06-19 04:22
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sTnhjU2F3TzgzeHhWV1hROGl4TFB0WmgtdHVOUnd6akdkTEJ0RnJKa0FZTjU4ZVVyYmNOa05McUQ1c1FJdmQ0ZFlJYVpXcUdnWlN5LU96WDV6VTZEazJmblBnOUtqQQ?oc=5>
 
 ### 负面太多Hold 不住了：特朗普手机公关公司Poplar Group 宣布终止合作|唐纳德·特朗普|媒体|镀金|合伙人|质疑_手机新浪网
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-20 01:54
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBlVDNqVTRvQmcyTDNVZ05YRDBRcHBBMnBvYks0Y3FPdV8yQ2JCWmNBS29VdFV3QnZsQTJscGt6X05nN3JtaFNkLWFDdU0tc2VHY3RKRjY0Um9SSmZWaHpNdkdjbmdYYU9NSl9aWUpWSlpMU0ttTEVaY0FQTTcxNEU?oc=5>
+- 时间: 2026-06-20 04:26
+- 链接: <https://news.google.com/rss/articles/CBMimAJBVV95cUxOREVlOHQyS1RvWGp2RnRoUzI5Q21jMHhpQjB6elhBa3lVZmVfbmVHTE44Z2ZjUW9nNmV2UEx2MW4zMU5aUXlfYURQdVFrUHdlQkhXcHZuNUQwMjNBUHgwal9xdFlFYm9VdkpBUVZ0WjViVlVSYk1raDRnMjFXbWR1WFdCVFFkVWtKVDI0d01ZVVBMNHhzc25UakJnT0t4dmNva1QxVUlkZThhX09nMEI5MGppS0JvVGZ3SjNlNjREVWNQSmg4ZG1nMmYta3UtMlRSRWh0TDhLMUlJcHdmN0VySXBCaklrQlNXR0U5MXpOSTJGcVhzOUw5N0JVcElOb2k3RWhTRkxwcURva3RHaTAwUUlCR0FMS3NR?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-20 06:57  (9 条)
+
+- **特朗普** | 梅洛尼喊话特朗普：意大利从不乞求任何人 <https://news.google.com/rss/articles/CBMifkFVX3lxTE1IdXZleEhxMEl6S0hRX1ZHQkhzOFFqbEd5YjhSNHFpRzVFN0lldDUzY1lFZkRnTmlZMXpHUE5MYnhpZTRqOXdQUEhHdVQ2T0pqNm9jY3ZYR2kzTHhsdXdhWFJfdlVZWWVaS3JHSkttSGxOcFd6Zy1qdk56NTUwQQ?oc=5>
+- **特朗普** | 特朗普：不再认为Anthropic对美国安全构成威胁 <https://news.google.com/rss/articles/CBMilwJBVV95cUxNdEdiSVItS09BZ1NRM2VsQVBhc2N5c1hjcFppakg1bzNkX29mZ0Q0Z1dwMWdQMjVsNy01YW12dzdzd1I2VVJUS3ZWbHVlcEtJY1Z4YktnZnBacklJMGp2V2VESWZ1aVBvX3FYV1RXZmpXNW5pbnpvNzZVZElBSzVmMndQbnJwTXozRmx6Y0hLTUR4R3VpTUVCWDY5VThScjBvZS1GZHNnWHZpemRWYXdfeXVRQ2pTdHpBVmhhT0l4eGlEN1ZCUWk4VkxlWW12THYwZkp0My01bmM3TThlWXEwOWpKU204UlZMeUpUZGpCNEduclpmOWRNQzJCaFBCTWFJN0JYNGxFSS1FNjZoWW8yeFlEbXFQQmM?oc=5>
+- **特朗普** | 爆料：特朗普与高市吵起来了，他国领导人不得不出面劝解 <https://news.google.com/rss/articles/CBMicEFVX3lxTE9zUGloTXZIOTd2LS1UWWlOYkIyLU81VWhuUDdyeU45dWVxM3QxazZSc3o5cTF1SFgwRlpTcHBCNlc0Nnd1OXRyOGd2a1BoWC00UmVRbThGZ3pxdTNlcVFsNVI4N01Nc2lmX3NWN1BkY1g?oc=5>
+- **特朗普** | 特朗普和高市早苗被爆在G7因珍珠港争吵，还惊动其他领导人劝和 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE92Wmg2czdCTlI0XzZZTHVrdmV5aDFyZHJBOUc4bUxNQUt3Qi1BZjZ2OUNCLXVBbFZPZXEwMFFXZnZHQXNMcXB1ak9sTno?oc=5>
+- **特朗普** | 日媒：震惊，特朗普与高市“发生了口角” <https://news.google.com/rss/articles/CBMic0FVX3lxTE1YdkZmRXFOVUNRWkw3Rmx5WVV3TzNhLWtsVGVCeEJGY0RZQ1lGMHNuQkxhY0I1OHc3X3VSY0ZBY3hWZVRwcGIwcVdRQWFoLWdBZU1xam1GMk9TcVkyN2p4VTduTGI2ZHFPVDRPTC1idHVPcGM?oc=5>
+- **特朗普** | 特朗普的新专机，首次亮相 <https://news.google.com/rss/articles/CBMihwFBVV95cUxPRUFqRU5KcThqcnNYZkY0RVJ1aTlNRHNmY0FqRExDTFpQMEVKMUhjbVlkZnNudXE0MldnRFpFN2pxaXBSNm5kSURwWUVuX0Z3SGtGLVJVa2hUVDMxVlg4d1ZwWk43ejBUZVdjbnNZbVFkckNXM2ZQTWtpRFBnTUJCaUtVaFNQQUE?oc=5>
+- **特朗普** | 特朗普：今年将再次访问中国 <https://news.google.com/rss/articles/CBMieEFVX3lxTFBKeDJ6S1BlU3ZMWkFNbE4zN0ktYnZTa19ETUE0TjNlNVUyZm9QdHFKQnI2QUlBN2VUVmxJbVZmRWtFclEtcEE3aHVZLTdNeFo4NUNfZHRQbXJYWWNNTXktV2ZLelVXbWFQcUh2MGpaRHl5R0hyVWpLQg?oc=5>
+- **特朗普** | 被特朗普“剧透”乞求合影 意大利总理怒了：完全编造 意大利和我从不乞求！ <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sTnhjU2F3TzgzeHhWV1hROGl4TFB0WmgtdHVOUnd6akdkTEJ0RnJKa0FZTjU4ZVVyYmNOa05McUQ1c1FJdmQ0ZFlJYVpXcUdnWlN5LU96WDV6VTZEazJmblBnOUtqQQ?oc=5>
+- **Trump** | 负面太多Hold 不住了：特朗普手机公关公司Poplar Group 宣布终止合作|唐纳德·特朗普|媒体|镀金|合伙人|质疑_手机新浪网 <https://news.google.com/rss/articles/CBMimAJBVV95cUxOREVlOHQyS1RvWGp2RnRoUzI5Q21jMHhpQjB6elhBa3lVZmVfbmVHTE44Z2ZjUW9nNmV2UEx2MW4zMU5aUXlfYURQdVFrUHdlQkhXcHZuNUQwMjNBUHgwal9xdFlFYm9VdkpBUVZ0WjViVlVSYk1raDRnMjFXbWR1WFdCVFFkVWtKVDI0d01ZVVBMNHhzc25UakJnT0t4dmNva1QxVUlkZThhX09nMEI5MGppS0JvVGZ3SjNlNjREVWNQSmg4ZG1nMmYta3UtMlRSRWh0TDhLMUlJcHdmN0VySXBCaklrQlNXR0U5MXpOSTJGcVhzOUw5N0JVcElOb2k3RWhTRkxwcURva3RHaTAwUUlCR0FMS3NR?oc=5>
 
 ### 2026-06-20 02:47  (15 条)
 
