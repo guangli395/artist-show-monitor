@@ -1,82 +1,73 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-20 16:13**
-- 本轮扫到 4052 条, 新增 **9** 条
+- 最近更新: **2026-06-20 17:52**
+- 本轮扫到 4058 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (9 条)
+## 本轮新发现 (6 条)
 
-### 近期针对周杰伦演唱会门票的诈骗，主要有哪些常见手法和话术？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068208_1d5b04c7006801eqv2.html>
-
-### 浙江金华谭女士为买周杰伦演唱会门票，具体是如何被骗走18万元的？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068208_1d5b04c7006801equu.html>
-
-### 除了大麦网和猫眼，还有哪些正规渠道可以安全购买周杰伦演唱会门票？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068208_1d5b04c7006801equw.html>
-
-### 特朗普指今年某个时候还会再去中国，点名莫迪和习近平
+### 意大利总理回击特朗普批评：应关注自身支持率
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-06-20 09:55
-- 链接: <https://news.google.com/rss/articles/CBMiiwNBVV95cUxOWDk4R2xNRnF3SGcteGF6OGpnMExzZ2podHdaemppanNKU2hqbTFNTzVEYzFyeHhLYnVuMmhtQzRFM0tqNnFfOUp4RFlNdmU4bFJRN3ZGdXh1MkFKakQxUHJheVNjOFBPSmNlS2l0Zk1NbV94aVZzeGJNeHhZQ0JiNmhUZlRIY1A3TTNYRjFYN3BUM21VR1lIMWtYeFE1YTlIOTNac1lWcTd6Yk9SWmFiMmRxeWdWVFNqZmxOR0lWVWhVblJoRncwRFRIUjNnb0xUMzFvTHh1TnB0alpEbHV2bmNqQnN5UndZZGI5WXZrNkVnTnN6V3ZrdG43LTNpUEdXdTY5NDFKa0ZyRXk3U3ZQdmZsT3ExY0JmcDE0bGRZUk8xS1ZkR28tLU9SekNNdVBJdWdFZWhaRXZNY2FxM0pzQkJwSXhSdmFJdElWTzdQOTNILWUyMm44MmFNcU5pcG5GSTktd3FUZmJVLTF6WVlsaU9UMVg3QklXZnJ4eGJEUFBQR0h5LTRLMzZhdw?oc=5>
+- 场馆: video.sina.com.cn
+- 时间: 2026-06-20 16:18
+- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxNdk9SdVNvNndBOFlfVjQ5bUlGaU1lWnBWUFkyMjJFVUVnZE0xZDVHZmJmUXh1UHNmTFoxRnZWV2d1QUYxM2RPazk3bThqcXZDT1dSRmg2UXVpLWVkaW5SZEE5SmVycThKZW1HUjFDMzZ1Q2EwbEJBamdfb1dqWks4VzRn?oc=5>
 
-### 特朗普：自称G7“老大”是开玩笑，但他们全信了
+### 害怕被当“替罪羊”？万斯狂拍特朗普马屁：智商在美国所有总统里名列前茅
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-06-20 16:56
+- 链接: <https://news.google.com/rss/articles/CBMizAFBVV95cUxPOVd5Z0tTc2FXQTRGSDUxejdlTUpqaGVEVkQtWkdKZzg1Z1dnSEV5dW0tdUNMMXlxd2ZWWXV3elJPQTduX2ZBMjBjRklrQ2FkYUpJNXBSYXVYemJ2S2taUy1UMXkxMWZnenpFdlZxWHpvOTNzaF8wZWhyV2NOYmVKNUI3aDZ6S3NBbDFBemZYS1oyUHJ1SkowZmp4Unl5ZnhvY1JjT3lvZWlGYTY1NVk1aDV2amR5MVktNm4xc0JNRHhQNUszempTbFFFZ0g?oc=5>
+
+### 新“空军一号”亮相
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪网
-- 时间: 2026-06-20 14:46
-- 链接: <https://news.google.com/rss/articles/CBMijgFBVV95cUxQX1hNVlZ0djVweGZRR1EtVDY1Y0FYM2hsM3M1My1TNlJDQmdJRFVBY1M4M0RBNDRqOXljR0NXV2NjMGU3YVVjZVcxUUNFMXc3VEtsN2FrYW9pTDVzS2h3MUJLS2NFb2NhTXZ2UjI2UzZ3UzVEbEtRWDVBeFMxOWZFT0c3ZDVHVVNHdXBsaWRn?oc=5>
+- 时间: 2026-06-20 14:13
+- 链接: <https://news.google.com/rss/articles/CBMi6gFBVV95cUxNREhQODUwVVJ5Um5tQW5XY1c3WXM1dWtBSGdBeGRJOXBzVWozbXNXMnZFNU83Sy1kaUVmazZNOXRQYTdwbDdBd2FJMk5GZXBQVVVFZmZLdF9hRVEtYjU1STNJUzh2QTNzNWxaN1JtSjJ4OWNFeFRfUW11em9SRGFfS29xalZBVmNtRHNIek9HaVdhLTNPQ2V2UnRtbE1zNXFaN0dmbTZiMzZrZUZtR19Hc3ctbE56QXRvdGVfT3Bua1dEUDAxaVMtWWVhWDVkVnJSMnBnNWxyYVd1bFN5VkRKeDlKLWE1RDNTckE?oc=5>
 
-### 特朗普炫空中白宫引争议
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-20 11:30
-- 链接: <https://news.google.com/rss/articles/CBMihAFBVV95cUxOMTV4bkt2SC1kNGhpVXM5VC1PcGlBQ2tRYjBYYUtJOGxSUTZ4VkF0VDdFTGgxTnJrcGVid0lwNGZKdm1kcUZCejBHSjhWdEdDb0g2SVdNV3Y3UGctNTRvNEYtSHpSUHZVZ3VTQjB2ZjlDOXlDYTJ4dFFEZjMydkJQZEt6V0Q?oc=5>
-
-### 特朗普亲自下场撮合造芯 美国巨头集体开启芯片自救
+### 特朗普新专机，首次亮相
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-20 12:30
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9fMUpaeHduQzI1aEVRUFplSnVkVGV2SmhrYmFUYlpDdHZwX0hYMDktd3llUFhHRll3ZnQ4MmJydlk5dWhJSjhjLUpMQ2FyRnNBUlhwSzNQQU0tYTIxT19zemJZRVI1RGFMa2dITVVVZUFMWTZQRk5YVQ?oc=5>
+- 时间: 2026-06-20 04:41
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9tY21sUlMtdFhUQkdqVUtVNFpCRk04Y2xaczM1NTIzM3lQc01fMGZFWkxNbU9yeTAwd2xEalRraXBMMkxLU0dISnJ2RWhqbDQxT0pxSHpVSTJBTHAtRjVIMDhybmVfX0ZSX055U1pzdlN6WmhEUHZaSw?oc=5>
 
-### “美国撇开印度，担心刺激中国”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-06-20 07:12
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBsSVpGUTVLbUduQjFYaEdVT1FWZmhBQk5FbmRidFJxUHpWN0hHamFqcS1tT0lCSzJFR0ZkQkVMSFIyU3pDOEx1MXZUaml3ZnFhbkNfRF9TZGNWb1VMOWdEWkZoLTRkR1BURUE?oc=5>
-
-### 国际｜特朗普、高市早苗，当众吵起来了
+### 意大利总理回击特朗普批评：应关注自身支持率
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-06-20 00:00
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wVjBtX0w1Unl1X1RsaDYxNlRJaEtWM1hXNEJQZDF3U3hvZlNEUjhwNkJXRDhoNzByZWxKNXE2U1cxbk5QVzBLem1sTzl4RTZwU1RGZHFNbXR0MnhKXzZ1SURCb3M?oc=5>
+- 场馆: chinanews.com.cn
+- 时间: 2026-06-20 16:35
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aelFNQkU5YllDOWl4UU00cFFaRXlVWnB1YnNpNzRONk9odHkxM0oyLTZ5d2pkR2hIakNCOXBtVHBWQ29sNWFMNWc5di1zSmlzbVcxTGVvMDlzdVo3aFFLaV94S2hwYlpX?oc=5>
+
+### Trump Media考虑分拆Truth Social
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-06-20 06:42
+- 链接: <https://news.google.com/rss/articles/CBMitAFBVV95cUxNeW14R0RPWWFScW9ud1dtbS15YUZ4ZnppNGZSNVVqaEVZTTkwZzFpSkMtblRtZE9KY1hKdHlQdXhuOU00dGhlazlxNFZZeFM1QTNKNExxbEJEdlhQX0NkTDNyZVNSUElEaGtFZjAxRkpWdUQ3WU9odk9YZGJhRVpyN2Q0M3lmRWdwbENnSUJQeEE3Vi1aT18wRUE4LXNNV21YalRzRDhsaXRBb0h0bUc2aEZBT0Q?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-20 17:52  (6 条)
+
+- **特朗普** | 意大利总理回击特朗普批评：应关注自身支持率 <https://news.google.com/rss/articles/CBMiggFBVV95cUxNdk9SdVNvNndBOFlfVjQ5bUlGaU1lWnBWUFkyMjJFVUVnZE0xZDVHZmJmUXh1UHNmTFoxRnZWV2d1QUYxM2RPazk3bThqcXZDT1dSRmg2UXVpLWVkaW5SZEE5SmVycThKZW1HUjFDMzZ1Q2EwbEJBamdfb1dqWks4VzRn?oc=5>
+- **特朗普** | 害怕被当“替罪羊”？万斯狂拍特朗普马屁：智商在美国所有总统里名列前茅 <https://news.google.com/rss/articles/CBMizAFBVV95cUxPOVd5Z0tTc2FXQTRGSDUxejdlTUpqaGVEVkQtWkdKZzg1Z1dnSEV5dW0tdUNMMXlxd2ZWWXV3elJPQTduX2ZBMjBjRklrQ2FkYUpJNXBSYXVYemJ2S2taUy1UMXkxMWZnenpFdlZxWHpvOTNzaF8wZWhyV2NOYmVKNUI3aDZ6S3NBbDFBemZYS1oyUHJ1SkowZmp4Unl5ZnhvY1JjT3lvZWlGYTY1NVk1aDV2amR5MVktNm4xc0JNRHhQNUszempTbFFFZ0g?oc=5>
+- **特朗普** | 新“空军一号”亮相 <https://news.google.com/rss/articles/CBMi6gFBVV95cUxNREhQODUwVVJ5Um5tQW5XY1c3WXM1dWtBSGdBeGRJOXBzVWozbXNXMnZFNU83Sy1kaUVmazZNOXRQYTdwbDdBd2FJMk5GZXBQVVVFZmZLdF9hRVEtYjU1STNJUzh2QTNzNWxaN1JtSjJ4OWNFeFRfUW11em9SRGFfS29xalZBVmNtRHNIek9HaVdhLTNPQ2V2UnRtbE1zNXFaN0dmbTZiMzZrZUZtR19Hc3ctbE56QXRvdGVfT3Bua1dEUDAxaVMtWWVhWDVkVnJSMnBnNWxyYVd1bFN5VkRKeDlKLWE1RDNTckE?oc=5>
+- **特朗普** | 特朗普新专机，首次亮相 <https://news.google.com/rss/articles/CBMieEFVX3lxTE9tY21sUlMtdFhUQkdqVUtVNFpCRk04Y2xaczM1NTIzM3lQc01fMGZFWkxNbU9yeTAwd2xEalRraXBMMkxLU0dISnJ2RWhqbDQxT0pxSHpVSTJBTHAtRjVIMDhybmVfX0ZSX055U1pzdlN6WmhEUHZaSw?oc=5>
+- **特朗普** | 意大利总理回击特朗普批评：应关注自身支持率 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aelFNQkU5YllDOWl4UU00cFFaRXlVWnB1YnNpNzRONk9odHkxM0oyLTZ5d2pkR2hIakNCOXBtVHBWQ29sNWFMNWc5di1zSmlzbVcxTGVvMDlzdVo3aFFLaV94S2hwYlpX?oc=5>
+- **Trump** | Trump Media考虑分拆Truth Social <https://news.google.com/rss/articles/CBMitAFBVV95cUxNeW14R0RPWWFScW9ud1dtbS15YUZ4ZnppNGZSNVVqaEVZTTkwZzFpSkMtblRtZE9KY1hKdHlQdXhuOU00dGhlazlxNFZZeFM1QTNKNExxbEJEdlhQX0NkTDNyZVNSUElEaGtFZjAxRkpWdUQ3WU9odk9YZGJhRVpyN2Q0M3lmRWdwbENnSUJQeEE3Vi1aT18wRUE4LXNNV21YalRzRDhsaXRBb0h0bUc2aEZBT0Q?oc=5>
 
 ### 2026-06-20 16:13  (9 条)
 
