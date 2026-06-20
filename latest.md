@@ -1,64 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-20 17:52**
-- 本轮扫到 4058 条, 新增 **6** 条
+- 最近更新: **2026-06-20 19:16**
+- 本轮扫到 4062 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (4 条)
 
-### 意大利总理回击特朗普批评：应关注自身支持率
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: video.sina.com.cn
-- 时间: 2026-06-20 16:18
-- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxNdk9SdVNvNndBOFlfVjQ5bUlGaU1lWnBWUFkyMjJFVUVnZE0xZDVHZmJmUXh1UHNmTFoxRnZWV2d1QUYxM2RPazk3bThqcXZDT1dSRmg2UXVpLWVkaW5SZEE5SmVycThKZW1HUjFDMzZ1Q2EwbEJBamdfb1dqWks4VzRn?oc=5>
-
-### 害怕被当“替罪羊”？万斯狂拍特朗普马屁：智商在美国所有总统里名列前茅
+### 爆料：特朗普与高市吵起来了，他国领导人不得不出面劝解
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-20 16:56
-- 链接: <https://news.google.com/rss/articles/CBMizAFBVV95cUxPOVd5Z0tTc2FXQTRGSDUxejdlTUpqaGVEVkQtWkdKZzg1Z1dnSEV5dW0tdUNMMXlxd2ZWWXV3elJPQTduX2ZBMjBjRklrQ2FkYUpJNXBSYXVYemJ2S2taUy1UMXkxMWZnenpFdlZxWHpvOTNzaF8wZWhyV2NOYmVKNUI3aDZ6S3NBbDFBemZYS1oyUHJ1SkowZmp4Unl5ZnhvY1JjT3lvZWlGYTY1NVk1aDV2amR5MVktNm4xc0JNRHhQNUszempTbFFFZ0g?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-06-20 04:21
+- 链接: <https://news.google.com/rss/articles/CBMiigJBVV95cUxNWnd2ZjJfc1l0djZuNVFRaTBQTjVBUUE4Ulg1cGduMVRFdk1wMHpiN1Rmb0dKMG9jTFJrbExabzhDTG9QdHpfRVhBQ0dad0VMTVNaTEdDNi1aWDJfWjhyZ3hzTHNzRDEzRFlBSUJkM3d6Mkk3T1JSMldmWkRIMlBCazV2TnZ1eGNienhzS2tsS090Z2VpODFvaktwUktNZWdnb1dsWkgxeTMtd2I4VWRNcnRtUTJsaHpmQWVfU242dDcyUVJpd2ZTWE0tZ3JoR19iUHdzeF9IMEl4TVdzOFVKSTNLdWptZGRRTWw3blJNU0JnYnpickI0eGRMMXdCVnFsdi1BQ0t2VXpNQQ?oc=5>
 
-### 新“空军一号”亮相
+### 法媒追问：在凡尔赛宴请特朗普花了纳税人多少钱？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-06-20 18:10
+- 链接: <https://news.google.com/rss/articles/CBMi3AJBVV95cUxQSEs4M3FxenA3VGVPQ2o1dVFPVVh1Nnk1OV90NFFvNlg0QjFBdjJwMDdId25vOUFhdHZrd1V4UXZ1WW1OT19BOXZJSWlpY2E1TnBOUmtoc25LNFdJUnVIYkYwUll4S2Z0RFlSR0NBWDZtQmFYMk1DenFsTW5WOGl6V1h0X0RYMG5aUlRFMEJoNHc5akh1dkJHLWRxdWVsU3gwYXZFVG1ZNDNEN3BCam5GcmlhN1BFdXdnVFlITTNpcUx3RF9UbjYxR3dyTmY1MHhTV0c4bkFyVHllZmxWU3RxQTlvMy1DRTZZYnpQNTZEcFM1RXg3U1E1X3BRczZkWTJfTi1BT3hWSVpzOW1MNjBLcTM1enJfQmdmSXRMZ0VVZVpjSmh3clJwdUhjdGNYOC0zYTZfb0pJcmxnSUtWTk1lcXJPMXFCZ1c4UFRkZDQ3d1JqQkVIcmpkaDd1cGY?oc=5>
+
+### 极具奢华！特朗普喜提新专机，由卡塔尔赠送，价值达4亿美元，美媒称有专家担心其安全性，特朗普：拒收是愚蠢的
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 每日经济新闻
+- 时间: 2026-06-20 14:06
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hVTdiYXNSYXR6U1FPQmhvYVF1SV93SGNqUGUzYkFEZ3pjQlU2c2s5V1NfNm1kaDBYX3pJOTNvcVdZdlRYRERLMXZPNXdydEl0SE1nemNaM1d1NjVhRkdIYXFDZnA2dw?oc=5>
+
+### 梅洛尼反击特朗普_新浪新闻
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪网
-- 时间: 2026-06-20 14:13
-- 链接: <https://news.google.com/rss/articles/CBMi6gFBVV95cUxNREhQODUwVVJ5Um5tQW5XY1c3WXM1dWtBSGdBeGRJOXBzVWozbXNXMnZFNU83Sy1kaUVmazZNOXRQYTdwbDdBd2FJMk5GZXBQVVVFZmZLdF9hRVEtYjU1STNJUzh2QTNzNWxaN1JtSjJ4OWNFeFRfUW11em9SRGFfS29xalZBVmNtRHNIek9HaVdhLTNPQ2V2UnRtbE1zNXFaN0dmbTZiMzZrZUZtR19Hc3ctbE56QXRvdGVfT3Bua1dEUDAxaVMtWWVhWDVkVnJSMnBnNWxyYVd1bFN5VkRKeDlKLWE1RDNTckE?oc=5>
-
-### 特朗普新专机，首次亮相
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-20 04:41
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9tY21sUlMtdFhUQkdqVUtVNFpCRk04Y2xaczM1NTIzM3lQc01fMGZFWkxNbU9yeTAwd2xEalRraXBMMkxLU0dISnJ2RWhqbDQxT0pxSHpVSTJBTHAtRjVIMDhybmVfX0ZSX055U1pzdlN6WmhEUHZaSw?oc=5>
-
-### 意大利总理回击特朗普批评：应关注自身支持率
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-06-20 16:35
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aelFNQkU5YllDOWl4UU00cFFaRXlVWnB1YnNpNzRONk9odHkxM0oyLTZ5d2pkR2hIakNCOXBtVHBWQ29sNWFMNWc5di1zSmlzbVcxTGVvMDlzdVo3aFFLaV94S2hwYlpX?oc=5>
-
-### Trump Media考虑分拆Truth Social
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-06-20 06:42
-- 链接: <https://news.google.com/rss/articles/CBMitAFBVV95cUxNeW14R0RPWWFScW9ud1dtbS15YUZ4ZnppNGZSNVVqaEVZTTkwZzFpSkMtblRtZE9KY1hKdHlQdXhuOU00dGhlazlxNFZZeFM1QTNKNExxbEJEdlhQX0NkTDNyZVNSUElEaGtFZjAxRkpWdUQ3WU9odk9YZGJhRVpyN2Q0M3lmRWdwbENnSUJQeEE3Vi1aT18wRUE4LXNNV21YalRzRDhsaXRBb0h0bUc2aEZBT0Q?oc=5>
+- 时间: 2026-06-20 15:30
+- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTE9KaEozX1NDN2dLWEk4U01MZmZ6czRvVDE5N0FReXZwakNGMl9CS3BfdGQtQ1ZJSllmQmRxS3dpaklFZk42QkpSOW1kaGQ2alBsakxFOE9Rb25RN3luWnZlbHRuNA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-20 19:16  (4 条)
+
+- **特朗普** | 爆料：特朗普与高市吵起来了，他国领导人不得不出面劝解 <https://news.google.com/rss/articles/CBMiigJBVV95cUxNWnd2ZjJfc1l0djZuNVFRaTBQTjVBUUE4Ulg1cGduMVRFdk1wMHpiN1Rmb0dKMG9jTFJrbExabzhDTG9QdHpfRVhBQ0dad0VMTVNaTEdDNi1aWDJfWjhyZ3hzTHNzRDEzRFlBSUJkM3d6Mkk3T1JSMldmWkRIMlBCazV2TnZ1eGNienhzS2tsS090Z2VpODFvaktwUktNZWdnb1dsWkgxeTMtd2I4VWRNcnRtUTJsaHpmQWVfU242dDcyUVJpd2ZTWE0tZ3JoR19iUHdzeF9IMEl4TVdzOFVKSTNLdWptZGRRTWw3blJNU0JnYnpickI0eGRMMXdCVnFsdi1BQ0t2VXpNQQ?oc=5>
+- **特朗普** | 法媒追问：在凡尔赛宴请特朗普花了纳税人多少钱？ <https://news.google.com/rss/articles/CBMi3AJBVV95cUxQSEs4M3FxenA3VGVPQ2o1dVFPVVh1Nnk1OV90NFFvNlg0QjFBdjJwMDdId25vOUFhdHZrd1V4UXZ1WW1OT19BOXZJSWlpY2E1TnBOUmtoc25LNFdJUnVIYkYwUll4S2Z0RFlSR0NBWDZtQmFYMk1DenFsTW5WOGl6V1h0X0RYMG5aUlRFMEJoNHc5akh1dkJHLWRxdWVsU3gwYXZFVG1ZNDNEN3BCam5GcmlhN1BFdXdnVFlITTNpcUx3RF9UbjYxR3dyTmY1MHhTV0c4bkFyVHllZmxWU3RxQTlvMy1DRTZZYnpQNTZEcFM1RXg3U1E1X3BRczZkWTJfTi1BT3hWSVpzOW1MNjBLcTM1enJfQmdmSXRMZ0VVZVpjSmh3clJwdUhjdGNYOC0zYTZfb0pJcmxnSUtWTk1lcXJPMXFCZ1c4UFRkZDQ3d1JqQkVIcmpkaDd1cGY?oc=5>
+- **特朗普** | 极具奢华！特朗普喜提新专机，由卡塔尔赠送，价值达4亿美元，美媒称有专家担心其安全性，特朗普：拒收是愚蠢的 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hVTdiYXNSYXR6U1FPQmhvYVF1SV93SGNqUGUzYkFEZ3pjQlU2c2s5V1NfNm1kaDBYX3pJOTNvcVdZdlRYRERLMXZPNXdydEl0SE1nemNaM1d1NjVhRkdIYXFDZnA2dw?oc=5>
+- **特朗普** | 梅洛尼反击特朗普_新浪新闻 <https://news.google.com/rss/articles/CBMiY0FVX3lxTE9KaEozX1NDN2dLWEk4U01MZmZ6czRvVDE5N0FReXZwakNGMl9CS3BfdGQtQ1ZJSllmQmRxS3dpaklFZk42QkpSOW1kaGQ2alBsakxFOE9Rb25RN3luWnZlbHRuNA?oc=5>
 
 ### 2026-06-20 17:52  (6 条)
 
