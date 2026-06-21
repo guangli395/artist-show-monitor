@@ -1,64 +1,82 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-21 18:57**
-- 本轮扫到 4134 条, 新增 **6** 条
+- 最近更新: **2026-06-21 20:25**
+- 本轮扫到 4141 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (7 条)
 
-### 特朗普又拿“珍珠港”戳高市早苗肺管子
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-06-21 09:00
-- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxNbGhSYzFxcm4wTTh3OS1JMGtjXzdnMldwbzZRT2NrWlNqdnZGd1p4R3pYQ2JjR1dnZ080X0pZamlXMk42WGRCaFBOSUpicjJVcTRFanVrdE14UHctcFdHVzNzUUNlWE1uRlF2SEZmUUVpWmQ1dzlLclpSckxlYVBjS01XQQ?oc=5>
-
-### 意大利总理回击特朗普批评：应关注自身支持率
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-06-20 16:04
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1FTnFNWDVtcmh6emJzQkpJSzFNdjEwSHVlb1ZyYXIzZklnTGhudkRnNE9DaXJiZl9DZVp3cnQ0LXdoUnptTU82d1ZVb2pXNjBfLWtxUkl0NEgtb1JjNFlmSlA5UWpmclJOaDVOR1RtRXZzSnFqcVhIYQ?oc=5>
-
-### 【#梅洛尼回击特朗普#：“做你朋友带不动我的支持率”】（新华国际） ​
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-06-21 17:45
-- 链接: <https://news.google.com/rss/articles/CBMi7wFBVV95cUxNR0VMc1BEczJ0dFA1VDB1Q29tU1A3QlJVRmF4Rk13XzZSaXBzV0NJRlhLZW9sb0VLUzJuMk1KZ1dKZ2UwdGtCc1BjZkI3REJteTZxZ1lQMU8tRkFuUEF2TUt3cE5mYmVTd2syTExRWVM2OGhyeFVGQUFnVDRNSV9GZE9sYkcybk5GMEl0YXBFa2RIZlViTklPY0pSaXBJZDJ0ajNOeUJidkk0SHlaOXpsblNDVEN6QUNBUDJXbXdxOW9GXzFRSlB0eGhqTlZ6blBXMDFIMU1MWmlmcUs0TnNNX2xQbksyTUJYcTNkaWp5TQ?oc=5>
-
-### 默茨G7峰会上给特朗普送德国队球衣为其庆生，但特朗普似乎不怎么感兴趣
+### 意大利总理回怼特朗普“关注自己的事情”，这两位“天然盟友”为何突然翻脸？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: Sina finance
-- 时间: 2026-06-21 16:22
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5hUGgyaUhaRFFDOEFPNmNtVndEN1lWNFQtRmJkck9ibC1RUG9rXzBLQzBSRDF4dDBUMUFpQnBzM0lzekVjaGVYZzhpc0FxYy0xQjcybzJJcFR5N3ZmakIxbVhMTXlCR0lxRVBkYS0wREYtTFJISVpfRg?oc=5>
+- 时间: 2026-06-21 20:12
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBYU2QyeVV3WTlhRnM1U3NYeUxJWHI5dWd3VTYwT0VDN3dIRVgwQ0NrNml0eGlYNDcyRllKS3poVEF0QzRSQ1VhMThxSG1WYnBFYlpBOVJ1OGFIWnpocXF0SFVId1ZWNi0tYjROcVpSRUlVdWp4dzdBZw?oc=5>
 
-### 消息人士：伊朗代表团为抗议特朗普言论已离开谈判会场。
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: Sina finance
-- 时间: 2026-06-21 16:31
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBOWjNvSnZwUUc2Rl9xNnczcDc3RlBDYUxIWGFndEpmREdiNEpDVDM4ZTZVUXo0aEx0S3dxN290RVBBWmU1X0R1UTByM1lDTUVoWER2SUU5V2RIdE5Gb09mNjkweXZlbHZVRExFMTlDaWF4WGxfOEExZg?oc=5>
-
-### 特朗普：斯塔默将辞去英国首相职务
+### 特朗普：意大利并未承担保卫美国的职责
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-06-21 14:31
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5CM2xUYjdmanhOWEpxVmFTMF9abVlmOTN6SndadmVzSG16eFhvWjlVMndQeTRXdTVqYnp2Qk50QkZzY2tBQ3EwYmlzVWV1MjlRNVdFZFF4YWtmdm1JLXBCU1h0dDAxY21zd1E?oc=5>
+- 场馆: video.sina.com.cn
+- 时间: 2026-06-21 19:53
+- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxNTENPcXhJQ2d6TDlJam9xQTVWUm5NSGozTDl6LUptQ1BtN3dBRVRQLXg5eU16Z2Z5Wnp2QU1HZ0IyWUtRWThrQzU5TlY0VFJFTDIxOGh3ZG1TYW54eXVFMERXSVpfNm1fRGNvU2U4YU5hQ01zdEVRUm84M3lXbVZEcnNR?oc=5>
+
+### 德防长公开指责特朗普应对霍尔木兹海峡关闭负责
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-06-21 18:56
+- 链接: <https://news.google.com/rss/articles/CBMi5wJBVV95cUxNYktmRDBYYkh2ai02YmV3cHJtXzlHem5QUG40WVlMNVVZQ2QzVHo4YkU4eVVLSUpRUkp1VTBWR1pFcVZHeEVTQXVVZ0lzMkpIeTF3aXF4VnBGWl9kb09MUG10c1VwX3hLM0VFemp4V0JLUEx6LWNacHloZjc0eDVnUTdtT3dtOEtqTWlZQWpMZ3hJSTZWOEpWWVN1UmxaQzgzd0UwczUzdURWdEFoMS1ZNFdsOVpMOFVobVlWYm1IMEV1MWk4THZpdTIydkZ2Rmkzd0hiSUh2aGFyRlNxVDY1MWkxWE1DSG9mQ3NfdHhtSjE1TkU3ZDJ4TlVtY2o0ampDaE15Uk80dFU0c1RWb0xCV0gzcU5UOXNOd2ItZ0VDZ24zWjJBV1JVTmZ2NnoxNkZLS0ZEMVd4ekxJNFBVUmF2X1BOaWlWS3ZWZW1CSHdKUFRxSG9YTkVOWmszNVMwSmFHS3ZFUFBtcw?oc=5>
+
+### 抗议特朗普威胁言论 伊朗代表团离开谈判地点
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-06-21 20:09
+- 链接: <https://news.google.com/rss/articles/CBMiigJBVV95cUxPa05leE0xdktodl9GVjNHb1V6Z3VLUkV4ZU95YlNkajhXbHpwMXBDbEJQSS1EQVY5M1h0WUxYUDRyQjcxdnFQdk1aekhRV0oyd3dPQlp4ZGNDOUVtVmgtRTBsQURMbGYtMG1YUkNEazhjUHNtY1JWZ1Fwbi1WZlhSNjdTaWhxVE5NVFlvam1QWmdoQVpVUlJUNV9KUVh6MURyV2FfWlVTalZqc2JYZkZEdzIxLW9Hb3lYcXZzZGlqVVhZWVZzc09TMldmUjY3WEJINGRXX3VCTTgtTkNGRTVkRml1RXNiOE93cEd2OVNSeUpqNEdsa1pReGc1TU9xNDhUZ2tybXNZRnIxQQ?oc=5>
+
+### 特朗普就黎巴嫩问题再度威胁伊朗
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 央广网
+- 时间: 2026-06-21 14:25
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zVzNiMzlNYzh3emF4N09ZdkdqRU16N3RnNzFKSGdCaURfTkh0bl9Wb2RpR1pEUHNkdWlKbjVJcjI2ZU93RzdiNUNHeGxuS1FoRVFZNU5SRzg3MGduSVBGVUgtcHJlZHNn?oc=5>
+
+### 美最新民调显示战争疲劳升高 经济压力拖累特朗普支持度
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-06-21 19:07
+- 链接: <https://news.google.com/rss/articles/CBMijANBVV95cUxNT1BDSHBxbktEX05rNmZzdDFWcmdCY3VkTXBEYzR4RDZRNFI5ZkpSSG9iSXFBdGNXNTZDMXhyZmlYOHZjakNHS3djbW9FYU9oeDVJdDBWT3FPT3pZS2JRTm5zRzR3bEdOVXVvdGN0dVlQdkdmN01sdHZFZnJkenNGOTVzOUJITU1tS0FkMllLR3dkbGxMSWJraTFHb3lsbzA5WnUtTzQ4WWJaQXZEbVJ2TFR6TXhLalZpaF9FRHNpM1NiMEVmUDk2ZG5qR254ZDNVd0dnTks2RUZtYmc3M0MxaUJidVBaNjlYNXRjNFNUMTFkdFRnOGVPcGRGWUM0bjRjR0JtSnVCekRuSGJucDI1dldhX2lDWVdJRXNmbGk5dWMwVi04Tnh6ODJuR3Z2YnIxanV6YTlXdGFBX25UT1hVQy04Nk12QkJlcEVpTGY1eFFaMVJJT052Y1RQNFRydmZIc25yQ3RnazVXNmFtaVBpdVlId19IU01jR2lObTdzVUJ4a0dYMTBkUmdwYW8?oc=5>
+
+### $英特尔 (INTC.US)$ 现在暂时离开英特尔了，谢谢papa Trump 已经投资的人，不要听信这里冒充专家的假大...
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-06-18 14:22
+- 链接: <https://news.google.com/rss/articles/CBMirAFBVV95cUxNQUNXUGZCTXByOHJGT29YbFZGN01JdDdtdXlnNHRBLTI0V01EOTNRdTlpOVZRVFlnWWRIck9FQnkzdFF2ZEs5S0ZCeTJOVHhiS3BXNlVReGpITkN4ZmlnSVE4WC1xc0YyN3JyTXR1WDVBVEY2SUJvZDJ1aXhlLWlvSC1RV3FaYldnRm9xUkVNRG94LUxzOGEza3hhV1J1MmFXUnFiSjVKbTRaVUZi?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-21 20:25  (7 条)
+
+- **特朗普** | 意大利总理回怼特朗普“关注自己的事情”，这两位“天然盟友”为何突然翻脸？ <https://news.google.com/rss/articles/CBMieEFVX3lxTFBYU2QyeVV3WTlhRnM1U3NYeUxJWHI5dWd3VTYwT0VDN3dIRVgwQ0NrNml0eGlYNDcyRllKS3poVEF0QzRSQ1VhMThxSG1WYnBFYlpBOVJ1OGFIWnpocXF0SFVId1ZWNi0tYjROcVpSRUlVdWp4dzdBZw?oc=5>
+- **特朗普** | 特朗普：意大利并未承担保卫美国的职责 <https://news.google.com/rss/articles/CBMiggFBVV95cUxNTENPcXhJQ2d6TDlJam9xQTVWUm5NSGozTDl6LUptQ1BtN3dBRVRQLXg5eU16Z2Z5Wnp2QU1HZ0IyWUtRWThrQzU5TlY0VFJFTDIxOGh3ZG1TYW54eXVFMERXSVpfNm1fRGNvU2U4YU5hQ01zdEVRUm84M3lXbVZEcnNR?oc=5>
+- **特朗普** | 德防长公开指责特朗普应对霍尔木兹海峡关闭负责 <https://news.google.com/rss/articles/CBMi5wJBVV95cUxNYktmRDBYYkh2ai02YmV3cHJtXzlHem5QUG40WVlMNVVZQ2QzVHo4YkU4eVVLSUpRUkp1VTBWR1pFcVZHeEVTQXVVZ0lzMkpIeTF3aXF4VnBGWl9kb09MUG10c1VwX3hLM0VFemp4V0JLUEx6LWNacHloZjc0eDVnUTdtT3dtOEtqTWlZQWpMZ3hJSTZWOEpWWVN1UmxaQzgzd0UwczUzdURWdEFoMS1ZNFdsOVpMOFVobVlWYm1IMEV1MWk4THZpdTIydkZ2Rmkzd0hiSUh2aGFyRlNxVDY1MWkxWE1DSG9mQ3NfdHhtSjE1TkU3ZDJ4TlVtY2o0ampDaE15Uk80dFU0c1RWb0xCV0gzcU5UOXNOd2ItZ0VDZ24zWjJBV1JVTmZ2NnoxNkZLS0ZEMVd4ekxJNFBVUmF2X1BOaWlWS3ZWZW1CSHdKUFRxSG9YTkVOWmszNVMwSmFHS3ZFUFBtcw?oc=5>
+- **特朗普** | 抗议特朗普威胁言论 伊朗代表团离开谈判地点 <https://news.google.com/rss/articles/CBMiigJBVV95cUxPa05leE0xdktodl9GVjNHb1V6Z3VLUkV4ZU95YlNkajhXbHpwMXBDbEJQSS1EQVY5M1h0WUxYUDRyQjcxdnFQdk1aekhRV0oyd3dPQlp4ZGNDOUVtVmgtRTBsQURMbGYtMG1YUkNEazhjUHNtY1JWZ1Fwbi1WZlhSNjdTaWhxVE5NVFlvam1QWmdoQVpVUlJUNV9KUVh6MURyV2FfWlVTalZqc2JYZkZEdzIxLW9Hb3lYcXZzZGlqVVhZWVZzc09TMldmUjY3WEJINGRXX3VCTTgtTkNGRTVkRml1RXNiOE93cEd2OVNSeUpqNEdsa1pReGc1TU9xNDhUZ2tybXNZRnIxQQ?oc=5>
+- **特朗普** | 特朗普就黎巴嫩问题再度威胁伊朗 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zVzNiMzlNYzh3emF4N09ZdkdqRU16N3RnNzFKSGdCaURfTkh0bl9Wb2RpR1pEUHNkdWlKbjVJcjI2ZU93RzdiNUNHeGxuS1FoRVFZNU5SRzg3MGduSVBGVUgtcHJlZHNn?oc=5>
+- **Trump** | 美最新民调显示战争疲劳升高 经济压力拖累特朗普支持度 <https://news.google.com/rss/articles/CBMijANBVV95cUxNT1BDSHBxbktEX05rNmZzdDFWcmdCY3VkTXBEYzR4RDZRNFI5ZkpSSG9iSXFBdGNXNTZDMXhyZmlYOHZjakNHS3djbW9FYU9oeDVJdDBWT3FPT3pZS2JRTm5zRzR3bEdOVXVvdGN0dVlQdkdmN01sdHZFZnJkenNGOTVzOUJITU1tS0FkMllLR3dkbGxMSWJraTFHb3lsbzA5WnUtTzQ4WWJaQXZEbVJ2TFR6TXhLalZpaF9FRHNpM1NiMEVmUDk2ZG5qR254ZDNVd0dnTks2RUZtYmc3M0MxaUJidVBaNjlYNXRjNFNUMTFkdFRnOGVPcGRGWUM0bjRjR0JtSnVCekRuSGJucDI1dldhX2lDWVdJRXNmbGk5dWMwVi04Tnh6ODJuR3Z2YnIxanV6YTlXdGFBX25UT1hVQy04Nk12QkJlcEVpTGY1eFFaMVJJT052Y1RQNFRydmZIc25yQ3RnazVXNmFtaVBpdVlId19IU01jR2lObTdzVUJ4a0dYMTBkUmdwYW8?oc=5>
+- **Trump** | $英特尔 (INTC.US)$ 现在暂时离开英特尔了，谢谢papa Trump 已经投资的人，不要听信这里冒充专家的假大... <https://news.google.com/rss/articles/CBMirAFBVV95cUxNQUNXUGZCTXByOHJGT29YbFZGN01JdDdtdXlnNHRBLTI0V01EOTNRdTlpOVZRVFlnWWRIck9FQnkzdFF2ZEs5S0ZCeTJOVHhiS3BXNlVReGpITkN4ZmlnSVE4WC1xc0YyN3JyTXR1WDVBVEY2SUJvZDJ1aXhlLWlvSC1RV3FaYldnRm9xUkVNRG94LUxzOGEza3hhV1J1MmFXUnFiSjVKbTRaVUZi?oc=5>
 
 ### 2026-06-21 18:57  (6 条)
 
