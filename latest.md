@@ -1,60 +1,71 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-21 11:27**
-- 本轮扫到 4108 条, 新增 **6** 条
+- 最近更新: **2026-06-21 13:21**
+- 本轮扫到 4114 条, 新增 **6** 条
 
 ---
 
 ## 本轮新发现 (6 条)
 
-### 夏至北半球白昼最长，王一博新歌伴光影美景
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1779837945_m6a162bf903301mccg.html>
-
-### 周杰伦深圳演唱会粉丝合唱应援
+### 周杰伦新歌《女儿殿下》MV上线
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301cgo0.html>
+- 链接: <https://finance.sina.com.cn/jjxw/2026-06-19/doc-inieeper7678308.shtml>
 
-### 梅洛尼强硬回击特朗普 意美盟友关系彻底破裂
+### 特朗普高市早苗当众吵起来了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-06-21 12:23
+- 链接: <https://news.google.com/rss/articles/CBMi7wFBVV95cUxOYWVTREJvWURBNjRna2d2N3ZmTkNLTm9jc0trVWNhZ0lwbWoyVGJmWjZQXzNwMWJ2MVZkMjZMZ0Nna2wxSHh5OTdOdzl5c19jdWNkVldIVG1HUjI2YlJzZ0JCdzBUTlREZGZYZFRLVTRpYzloNXdrNXVUQmtRRks3eG5YUnMwOGpXTkZ1cTdWS3RLT3Z1dkFBbl9TaF90TkVtNUpldE9qNHY4eU1CLUZrelVBOTViZ0hNRmU1YU51dGV3aUZwRzRhSTFxUnpaa1VwNTI2aVIwX09ybFItWFlJdmxaUVRWZk1Wa0NWOGl0WQ?oc=5>
+
+### 特朗普：若与伊朗不能达成协议 美或收取海峡通行费
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Shangbao Indonesia
+- 时间: 2026-06-21 11:08
+- 链接: <https://news.google.com/rss/articles/CBMihAFBVV95cUxNUkNGbExTdk5vMGlfNkZBaFJPRjEyc0pJNUZfR2FnQWhXV3hid0k5TVFramxSeFU0X281ZUJ0MkR3Q2tHbFJ5SWhVTDE1RldpMUtZNWxhRElFV2Q0X2RaamhfV3N1dkV2UDFDMVhUdjlPM3Y3MGVTSjVJS21MSWFnbi1qb3E?oc=5>
+
+### 美国副总统万斯：特朗普致力于区域全面停火，希望改善与伊朗人的关系，过去数小时在相关问题上取得重大进展
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-06-21 13:11
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1yM2RMaTVxWllUVUZpc2pGZVdBS0dEQlF5VC1PNUNGNldGdmpLOTRBbkFzcm92eGhUdUdsMmtndjhuekYweWZ3ejZaMGV1ckpLOEFrVjZxTy1TSmxTdm9OZk8wUEtHVGo1bkJycFNQZlc?oc=5>
+
+### 梅洛尼敢于直面特朗普的嘲讽挑战，意大利独立外交体系如何重塑欧美合作平衡？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪新闻_手机新浪网
 - 时间: 2026-06-21 01:13
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9iOXl4dXBZMWt2aWQ1ZFBGWkJNMW9lakxRbC1NLTJiSE5vS19yems0b0U5YjZ0WXRWNlBEanFxMXFaWFBJVlFBQVJjclhiY1loZ3F6aEJNUHFLY0ZaR08ybV9HV0xHQ2dwRjlzOFdCT21qSHQxM3JSWA?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxPRVhNYTB6bVFhMU9iRDlmUHBUZ0diZTBtM0xMVS1qWXJmX18xS0JBa09YaGgyZVRGdXJSTW5oN1dpRXpSX2lLbm1EbnA4eXFLRXZaV1RPLXlUWEdrZVhubDFoR3NGdzM2MmJyeGVKdDA4cG8zZ0xTMXpTTGhwVmZRNGM2TQ?oc=5>
 
-### 特朗普称AI不当使用即为武器，美国在该领域领先
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-21 10:03
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxQdFg2QTdMNEJ2cjZxSU1jbTFEbGlBdjBtTzdtc0Y0ZmdRQXpYTlE4WmFINi1YMkpIb0l3aV8zV0VhX19zNjZ2ems2ZXpRTk1xamJFa3Z5aWZ4amlJcDNaendiejVBMWppdmNfWVFLVVFnNURuUmtZdzNpcWUtZzVla3UxV1VaUUk?oc=5>
-
-### 特朗普过去24小时都忙了什么？（2026-06-21）
+### 梅洛尼与特朗普为何突然“翻脸”？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-21 10:52
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxOTjhhRF9iQXdKRjJsUHdfVWpQRjFBOGVvZFJLLTdzSkY1XzRRTGJpSDU1MTR0OFA2OVRFOFJxZ1liSGVna2JWQlV4QVY0SUx0NjNUU2xSMlZVaG1reHAxVlBIazZFQVBwYmFPM2tZN1NaZV9BazZlTFR1ZHY3TlVDOEtQNHplejg?oc=5>
-
-### 特朗普称如与伊朗未达成协议，将收取霍尔木兹海峡通行费
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-21 01:53
-- 链接: <https://news.google.com/rss/articles/CBMiiAJBVV95cUxPYmRKZ2I4NEh4T2xQTzVyOVlQSVhyTWV5NHduUXg4aWN0SWhLMTdaMEZHMlhuMjdXemlIQUd4XzV4NWl4R2FFYTRaNEVOUzBSeDh1d1cybWxhUHk3S0hYakxyRlZhTEpadHdRb21TdzNlQnFUaGdWNVl4VmkyZDA1RFYtQ2xYNXdQUERNY2w2UllOS3ZscUIxVDRpbVdtNkRISVNfSWhPbU85cTRZWHpSVEFCYTNIZnhDSElyYTV1MVNHSWdUTFJzRnFLN0VDTjdWdEhKQzZLa3VzRlBXX3ZoeGZxMk04LTFOS21mbTlDUk9JdFVaaGdVOGtQSGZ5c251MzYxZ3FjRHk?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-06-21 08:49
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5JTUp0bUM4Z1JTaDJDWjNDdVdMb2pNOXM5SVB1SmFLaXVjNjB1dXRHT0JESEt1NzFNbEpTNzU5dWpZYnJ3Q1BPajRxSmI?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-21 13:21  (6 条)
+
+- **周杰伦** | 周杰伦新歌《女儿殿下》MV上线 <https://finance.sina.com.cn/jjxw/2026-06-19/doc-inieeper7678308.shtml>
+- **特朗普** | 特朗普高市早苗当众吵起来了 <https://news.google.com/rss/articles/CBMi7wFBVV95cUxOYWVTREJvWURBNjRna2d2N3ZmTkNLTm9jc0trVWNhZ0lwbWoyVGJmWjZQXzNwMWJ2MVZkMjZMZ0Nna2wxSHh5OTdOdzl5c19jdWNkVldIVG1HUjI2YlJzZ0JCdzBUTlREZGZYZFRLVTRpYzloNXdrNXVUQmtRRks3eG5YUnMwOGpXTkZ1cTdWS3RLT3Z1dkFBbl9TaF90TkVtNUpldE9qNHY4eU1CLUZrelVBOTViZ0hNRmU1YU51dGV3aUZwRzRhSTFxUnpaa1VwNTI2aVIwX09ybFItWFlJdmxaUVRWZk1Wa0NWOGl0WQ?oc=5>
+- **特朗普** | 特朗普：若与伊朗不能达成协议 美或收取海峡通行费 <https://news.google.com/rss/articles/CBMihAFBVV95cUxNUkNGbExTdk5vMGlfNkZBaFJPRjEyc0pJNUZfR2FnQWhXV3hid0k5TVFramxSeFU0X281ZUJ0MkR3Q2tHbFJ5SWhVTDE1RldpMUtZNWxhRElFV2Q0X2RaamhfV3N1dkV2UDFDMVhUdjlPM3Y3MGVTSjVJS21MSWFnbi1qb3E?oc=5>
+- **特朗普** | 美国副总统万斯：特朗普致力于区域全面停火，希望改善与伊朗人的关系，过去数小时在相关问题上取得重大进展 <https://news.google.com/rss/articles/CBMicEFVX3lxTE1yM2RMaTVxWllUVUZpc2pGZVdBS0dEQlF5VC1PNUNGNldGdmpLOTRBbkFzcm92eGhUdUdsMmtndjhuekYweWZ3ejZaMGV1ckpLOEFrVjZxTy1TSmxTdm9OZk8wUEtHVGo1bkJycFNQZlc?oc=5>
+- **特朗普** | 梅洛尼敢于直面特朗普的嘲讽挑战，意大利独立外交体系如何重塑欧美合作平衡？ <https://news.google.com/rss/articles/CBMigwFBVV95cUxPRVhNYTB6bVFhMU9iRDlmUHBUZ0diZTBtM0xMVS1qWXJmX18xS0JBa09YaGgyZVRGdXJSTW5oN1dpRXpSX2lLbm1EbnA4eXFLRXZaV1RPLXlUWEdrZVhubDFoR3NGdzM2MmJyeGVKdDA4cG8zZ0xTMXpTTGhwVmZRNGM2TQ?oc=5>
+- **特朗普** | 梅洛尼与特朗普为何突然“翻脸”？ <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5JTUp0bUM4Z1JTaDJDWjNDdVdMb2pNOXM5SVB1SmFLaXVjNjB1dXRHT0JESEt1NzFNbEpTNzU5dWpZYnJ3Q1BPajRxSmI?oc=5>
 
 ### 2026-06-21 11:27  (6 条)
 
