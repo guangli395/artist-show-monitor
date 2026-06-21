@@ -1,64 +1,91 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-21 15:21**
-- 本轮扫到 4120 条, 新增 **6** 条
+- 最近更新: **2026-06-21 17:00**
+- 本轮扫到 4128 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (8 条)
 
-### 美伊谈判之际，特朗普“隔空”威胁
+### 关键时刻，特朗普再度“隔空”威胁伊朗
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: Sina finance
-- 时间: 2026-06-21 14:33
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE95YnZIWlQxeFEwMTMtc3RsQklmRk9IZms3N0dFWXcxYU52MmtDelJfMG5GUzZoOEFleFRyelRhUVptQzVCeWhrVTY4Y2ZIWnowMXM1dUlPd0V0ZGFrcDBjREFMNXhzV3czUGgyYXpsVWZnYzVLLXc?oc=5>
+- 时间: 2026-06-21 15:45
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE1WMmR3THVFMWpoRGdveXo0RFB1OURsMGlyenR2U1JVcW1zQzBFR2s5WVA4WjlMMFljTWhHNWVweEZyVGZQVWNTTkdNZU5RS2VEVkMtX0NLWkNmWktuT1dDaVNRY3hRczMxNzBTdjQ4VnRTUldZekE?oc=5>
 
-### 特朗普就黎巴嫩问题再度威胁伊朗
+### 伊朗代表团拒绝握手
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-21 14:37
-- 链接: <https://news.google.com/rss/articles/CBMiiwJBVV95cUxPbWkxTjBWNWNhM0tNckRmRzJjeVVPMFM2VGMtc3hzQjM3MlYwdU9EUWlBM0JiRFhFTXZGYzFyaUtoN2Q5NGx2ZGRpSjBrdDZMN0dOT1RCN0ZFU3owbzFfVElCMnU3MlZxd1J0QzJLaUNXUzRvbTI3cW93OHVHc1VNdVQ2RzJUbG10X2JfZ2l0MS1WT0M3ZC1qYjNZSExkaW5wMEZya0xIUldsWkpyY0tLcHlzeUstM1E5Umh1X3ZTWDZ6ZTl6QUF0SHpBbWtVQUllTm5OYUNIa1lCVFhmN1JvbmZtNWdPRVg2ZzRvRW03c0pINWV4N1UwZ2RXMGNMb1V2bTIzZDR3aFY5LTQ?oc=5>
+- 时间: 2026-06-21 15:27
+- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxPdEI1NXJkT09ZcG5abUhzVWQ2NUJLT2NxQnVoYV8ybEhBSEI2dXp0MzdBYVRGMVctU1ZBa1BYTm9LZzlrNFlsdFFRUkRtX2xyOW5KUlJmTnR4ZHdORnJFREVVMlEyR1g5dVByUVNpb3o1SktDMFV6NU5Vajc5WVNOQUx2bw?oc=5>
 
-### 特朗普再度威胁伊朗
+### 特朗普全新座驾（过分奢华）
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Sina finance
-- 时间: 2026-06-21 15:07
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZRVlXdDQ2SEF1d082Z2pkWTEtMkxUVDZPeTM3QzRhenlJajk3Y0owSjA0WTg4aExwZFl4b012MzdTQS1tRWNLTk1mUWpreGlYTnZJelV4Zk5hODV2cVZnNHJUSUJnMl9IcFZYSjR0UUFIcGRSeFE?oc=5>
+- 场馆: 风闻
+- 时间: 2026-06-19 07:00
+- 链接: <https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwYjI5ZDJRWTJaRzNSNmg5aTFpWmVaN0ZjUU5QMDJVQUphSjhXR19Ka25PZ0pTdjNtZzg3T2M2aXhJemhqRml2bVVnYy1OTHN5bVQ0eDBXR3RTeXM?oc=5>
+
+### 伊朗代表团抗议特朗普近期口头威胁
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-06-21 15:58
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTFBhYklGX0pFU2J1aHhPUGdRdE9GTEw2LVR4clBwZ3dVZ1ZCMU1zQkhFVVV1V2VITnlvSXdFbEhmblhIWUJwSU91RGJ0MlJSdTUtSDJDQWlWSDJSOEN1TFE?oc=5>
 
 ### 又隔空互怼！特朗普：梅洛尼如今希望与美“重修旧好”是为了提升其民调支持率！ 梅洛尼：建议“关注自己的支持率”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Sina finance
+- 场馆: 21财经
 - 时间: 2026-06-21 11:24
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9TcE55cGNwdzI0dkpsSmN5YTdQT3lyRmhjRl9yRlRibWV6amdId1lJYUJGTVRtVUQ0VGh0dUN6RFRUV3VuUGZ6NVB4Z1VzQUFUekpHbFE5RnMtazQ2bGd6SV9KMnRqMG5CYWg2bDhqUnZFdDVPQkJvbA?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxOSjJRNUtKRnl0c0FIaTVIS1ZPenlzbUp4Q0xpSlByeFVTZnd6YWM1OU1FMnF0dDMtVEJZaUlKSWdjZTR4ZkV4c3RjT3BReHVRclFXZkJlc0IzaGR2cHd3d0hvc2FDVng3N0psazZxOTFqRFRrVjBqVVVlazlaM3A3Nms0RHN1X3NCVjVzUENCNA?oc=5>
 
-### 特朗普为改装版全新“空军一号”总统专机揭幕：“很合我的口味”
+### 特朗普就黎巴嫩问题再度威胁伊朗
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 环球网
-- 时间: 2026-06-19 10:37
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4SEN2ZzNPZVdxekp3SzJFNURsUElVbkxMNkQwcEVLdWFELXZPNWllWDNwd3F1X0NXeWpScUM3OHFiTVY4TExYZzR0dVEzMGY3STY4?oc=5>
+- 场馆: chinanews.com.cn
+- 时间: 2026-06-21 14:16
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE45aGxDWjNDMnJ5SzkwUmFVZV9vc0JaNHNyMW92ZUFmYWtjQ0hSMWF6VkZGQnBOOTBTZUdEMlY4anlHeENxQ3RYVjZ6emNlclRDMWJUNmppekIyd3BnX254ZEZyMkJha1A4?oc=5>
 
-### 川普承认1400万美元翻新工程出问题 斥“人为破坏”
+### 卡塔尔送Trump专机完工_新浪新闻
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 文学城
-- 时间: 2026-06-21 14:19
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzNE5WQVpTMXVvUTBKcC11Rk9DbTBEWXU2RHVicGxoSW5VQWpuM3VSZkQzWTFVRGtGLUNxNmtIVllsYTNzNG5GcUlaaVZ0S2FueXRMSzhsM2JGN0xkNXFlZjlMeENTWThW?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-06-19 22:05
+- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTFBSc0JZaUd0TkU1MHA3WV9sNkRSUzI2Zktsd1ZYbllwQm9KYTZVbDRRUFFuMlI0VVJwV080Y1JtTkdoSm5TckRzOC1hOXFJTUloSDRmcXUxT1RTazlweXRFSTAySQ?oc=5>
+
+### 谢谢trump
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-06-16 23:51
+- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE9tM2xTNmdqWkJ1RmFJWFYtNnZINTY1bGV1cnVJdnFXU3NLUFRXcXFoNmdCQVkxOVpSbHFnRVdoLTV3SGZ1R19kVzVaNllQUXQ2ZV9ST3ktU3VrSW9Fa3o5OUNINXVnZXlFcTljRGtvaHhTOUozbVk5ekRtV2hpZw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-21 17:00  (8 条)
+
+- **特朗普** | 关键时刻，特朗普再度“隔空”威胁伊朗 <https://news.google.com/rss/articles/CBMidkFVX3lxTE1WMmR3THVFMWpoRGdveXo0RFB1OURsMGlyenR2U1JVcW1zQzBFR2s5WVA4WjlMMFljTWhHNWVweEZyVGZQVWNTTkdNZU5RS2VEVkMtX0NLWkNmWktuT1dDaVNRY3hRczMxNzBTdjQ4VnRTUldZekE?oc=5>
+- **特朗普** | 伊朗代表团拒绝握手 <https://news.google.com/rss/articles/CBMigwFBVV95cUxPdEI1NXJkT09ZcG5abUhzVWQ2NUJLT2NxQnVoYV8ybEhBSEI2dXp0MzdBYVRGMVctU1ZBa1BYTm9LZzlrNFlsdFFRUkRtX2xyOW5KUlJmTnR4ZHdORnJFREVVMlEyR1g5dVByUVNpb3o1SktDMFV6NU5Vajc5WVNOQUx2bw?oc=5>
+- **特朗普** | 特朗普全新座驾（过分奢华） <https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwYjI5ZDJRWTJaRzNSNmg5aTFpWmVaN0ZjUU5QMDJVQUphSjhXR19Ka25PZ0pTdjNtZzg3T2M2aXhJemhqRml2bVVnYy1OTHN5bVQ0eDBXR3RTeXM?oc=5>
+- **特朗普** | 伊朗代表团抗议特朗普近期口头威胁 <https://news.google.com/rss/articles/CBMiXkFVX3lxTFBhYklGX0pFU2J1aHhPUGdRdE9GTEw2LVR4clBwZ3dVZ1ZCMU1zQkhFVVV1V2VITnlvSXdFbEhmblhIWUJwSU91RGJ0MlJSdTUtSDJDQWlWSDJSOEN1TFE?oc=5>
+- **特朗普** | 又隔空互怼！特朗普：梅洛尼如今希望与美“重修旧好”是为了提升其民调支持率！ 梅洛尼：建议“关注自己的支持率” <https://news.google.com/rss/articles/CBMijwFBVV95cUxOSjJRNUtKRnl0c0FIaTVIS1ZPenlzbUp4Q0xpSlByeFVTZnd6YWM1OU1FMnF0dDMtVEJZaUlKSWdjZTR4ZkV4c3RjT3BReHVRclFXZkJlc0IzaGR2cHd3d0hvc2FDVng3N0psazZxOTFqRFRrVjBqVVVlazlaM3A3Nms0RHN1X3NCVjVzUENCNA?oc=5>
+- **特朗普** | 特朗普就黎巴嫩问题再度威胁伊朗 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE45aGxDWjNDMnJ5SzkwUmFVZV9vc0JaNHNyMW92ZUFmYWtjQ0hSMWF6VkZGQnBOOTBTZUdEMlY4anlHeENxQ3RYVjZ6emNlclRDMWJUNmppekIyd3BnX254ZEZyMkJha1A4?oc=5>
+- **Trump** | 卡塔尔送Trump专机完工_新浪新闻 <https://news.google.com/rss/articles/CBMiY0FVX3lxTFBSc0JZaUd0TkU1MHA3WV9sNkRSUzI2Zktsd1ZYbllwQm9KYTZVbDRRUFFuMlI0VVJwV080Y1JtTkdoSm5TckRzOC1hOXFJTUloSDRmcXUxT1RTazlweXRFSTAySQ?oc=5>
+- **Trump** | 谢谢trump <https://news.google.com/rss/articles/CBMifkFVX3lxTE9tM2xTNmdqWkJ1RmFJWFYtNnZINTY1bGV1cnVJdnFXU3NLUFRXcXFoNmdCQVkxOVpSbHFnRVdoLTV3SGZ1R19kVzVaNllQUXQ2ZV9ST3ktU3VrSW9Fa3o5OUNINXVnZXlFcTljRGtvaHhTOUozbVk5ekRtV2hpZw?oc=5>
 
 ### 2026-06-21 15:21  (6 条)
 
