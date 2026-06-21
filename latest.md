@@ -1,65 +1,63 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-21 03:30**
-- 本轮扫到 4088 条, 新增 **10** 条
+- 最近更新: **2026-06-21 08:15**
+- 本轮扫到 4102 条, 新增 **14** 条
 
 ---
 
-## 本轮新发现 (10 条)
+## 本轮新发现 (14 条)
 
-### 粥饼伦买周杰伦演唱会门票 对方不出票也不退款，被骗走4千元
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019074qry.html>
-
-### 演唱会门票秒没，找“代购”被骗1.7万元
+### 260621·北京到达 在线求代替陆虎看周杰伦演唱会教程 @陆虎ING ·· ·· ··
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019074l5u.html>
+- 链接: <https://k.sina.com.cn/article_7879923704_m1d5ae17f803301tlo6.html>
 
-### 女子为买周杰伦演唱会门票，深夜连续转账十几笔，被骗3万多元：那一夜，我像着了魔！_时刻_红网
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019074l5m.html>
-
-### 为看周杰伦演唱会，瓯海一女子花了16万元-新闻中心-温州网
+### 周杰伦为什么被这么多人喜欢 周杰伦感谢大家重看了他的演唱会
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019074l1u.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019074t0u.html>
 
-### 为买周杰伦演唱会门票,女子傻眼:7800元全没了!
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019074kyo.html>
-
-### 特朗普宣布与梅洛尼断交，称拒绝重新做朋友
+### 耗资超1400万美元改造，工程刚竣工几天，林肯纪念堂倒影池水就绿了，特朗普怒了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-06-21 02:25
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5DUVdBS2RGOEJQbGxEeDdPNmU1VFZsSWlxZEN3WVpiX0tkb1lKWDZaUXFUbjBvRlBhc1JtVGhibkF0SGRSYjVTeExhNXVhZHlxbl8zRDRwamh0a1hmb3YweUlZUk5yOTZ0Zk1pRFppdlhGOGc?oc=5>
+- 场馆: Sina finance
+- 时间: 2026-06-21 05:52
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTFBvd2QxVFA1SXVZbHB2aldobzd6ZE5nb21sRFJBdHpuSE1NOHZWbklVVThVcE9ydm12Wlk2QW5CTnJOSFRKcThiWngzWFItS2pxMXA1eFZuS254VnN1M0lRNE5HRTlFVmx4NHE5TVhJZnRzYi1OSnc?oc=5>
 
-### 特朗普称意大利总理求合影
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-06-21 02:39
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE5YZEgyNW9LTHpVaHE2b3Y4S0hEMlRPdUhHM2JrMHZpLXowZHVPRWJXYzZxLVFkN3lhSlhsaGhrWHA2VHJVTmQ5YzZ2SWhGTXZMVEhwRWN3OEtIQ0NsZFpFaTBZS2FmVlhKc3Z2ay00NEN0UQ?oc=5>
-
-### 嘴真毒！“贝森特形容泽连斯基：磕了药的憨豆先生”
+### “以色列被特朗普背叛了”-观察者网
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 观察者
-- 时间: 2026-06-21 00:56
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE43SHJtRS1IR3JmakdQTkxmRl9UcVFabkhSOEdOYTU1VFlDb0NCMVZucEZabmdUdXMwV3M5LTR0cnQ2cm1McnVzVWUxR1VqRTlpTTNWYVBtUjNXNDR2bkxFV2Z0MVlaTk02Smc?oc=5>
+- 时间: 2026-06-21 07:55
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBlb2l0d2tJSVFKcjJjQkFNU2hoanllSWlKcHhzaHRPa1pWQ041elZVUWlGaWIwTWNQRlBGeE5vbHhDbFJvUGE5M2tvNTNkQ1NwczN0Q1pCbWcyS2FDZVVCTXhOcmtxUmZzV1E?oc=5>
+
+### 意大利总理再回击特朗普
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Sina finance
+- 时间: 2026-06-21 05:33
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFA5VzlPeDVtdDRsczVDcDBtNGJMQThWRkFoM2lsU0tna2NBVklvLThJUTlnZW5qTGJ3anZ0LXIxNVlIRHItenB2NS1wcXB0aHMzak5pUnhsU19QWHNxaFNQSFBsTXJQSllHekgxaGgxRzJ5bWNkU3VERQ?oc=5>
+
+### 梅洛尼终于爆发，“干了件美国盟友都不敢的事儿”-观察者网
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-06-21 07:27
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE96d1VPa2NHQTBJLWF0Wi1wOThrdFhyb0NDcXdYTjM3TTYwZjRPYWtPbnpTVEZsQWd2SlJCWU9EdVlON0lwemVZcWgwWUxMSVZCMkRsalpvTzM0TGxaYkJSWHRhWDZGdHlNX0E?oc=5>
+
+### AI狂飙掀起抢芯大战 特朗普马斯克“参战”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-06-21 04:13
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxQeHR2WDg3U2VtcDJDS05NLXVsQklzNTVpVUtQY3FMQ2h1MzlVXzh0LURldkJUNTdyZjg2Q1ZiMWhXN2lWQlFzMGxlc1NMckVqQWVNUlo5U2RmV21yRVdQT3hBUlY4QW56WV96aEJYS0RnbHNLWnJHTHZENHAtUDRFWHJCa3l5NEE?oc=5>
 
 ### 特朗普：如与伊朗不能达成协议 美或收取海峡通行费
 
@@ -67,20 +65,77 @@
 - 来源: `googlenews`
 - 场馆: 新华网
 - 时间: 2026-06-20 20:35
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE5RSkNiSlNkSUZUYURwR0YxaWpSeGYya2ozLV91TDlGRkVUMEtYOV85YU9MQnFCLWlYRUtFUDZKWjB4cVJaX1BoNE1md3FxOW16UlU4cmpHcWxLRktINGF5WVQzbnNoWV95clJ2LVVjalhSM0VfV2ZYV25kRy1oeTg?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE43blZndV9PMmlhUTRIWWMwdnRPVllJYmp5a2I4aThZbXVJTzdSanVYUVh2YTlmQVMyVGVrSEUxSHJKNUhGZlFqemEwdjZKZUtibDZfRUtwekl2MFdNUHFDanF0SzcyOGxHUEJXdkxoTFlTNUU1cHVtZ1V6RWh6dw?oc=5>
 
-### 特朗普：若与伊朗不能达成协议 美或收取海峡通行费
+### 特朗普：若与伊朗不能达成协议，美或收取海峡通行费
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-06-20 22:39
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xdU85OTd6Sk5tcFJzczJrck5KeXZZMFRJLTBJTUN2bVhEcUIxM2lHanI5LUN2WUkycUR6VWdfSXBVV2JRMWZiX3d0d3FiQzdmUDV0VkhjdFkxZzRFTUNieUdUbFBjVFFQ?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-06-20 21:48
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5BZFdWYU02Y1l1Q3A1emNablp0SWNYekJ6eUhEYm16TFpzU3JPRXRpMkZXY2ZOeVdTeEZBcjBteHBrQjU5VmVNX2RwNmQ?oc=5>
+
+### 事关霍尔木兹！特朗普最新发声 美伊技术层面谈判今日举行
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 财联社
+- 时间: 2026-06-21 00:52
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTFBOZGhKTVQzSUsxdW93U3ZzdmFYWDdvR1c3R3pWUzZfS1NDMkJXRmdDQXpTdTctcHlxS2lhRUt3Qm9tQjhQd1BEdQ?oc=5>
+
+### 美媒披露美伊谅解备忘录签署内幕：特朗普在凡尔赛宫用餐时突提签署要求，马克龙很意外
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 环球网
+- 时间: 2026-06-20 15:43
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE9yRkhHa0NONHJDQ2IyVEZWNFRzVzNZdjBZcFVlbldYOU41SGZ0c2cwNEViemM1N1JOWVlBQmM4RkE5b0dJWnZZOFJKa2RlZWJVTlN5WUlkMzk?oc=5>
+
+### Intel Shares Bounce Premarket After Trump Announces Apple Partnership
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-06-18 08:54
+- 链接: <https://news.google.com/rss/articles/CBMitwFBVV95cUxOYTRHM21fYXR5WGt1RTFUb1ZtQkV3dWZIMzRDSDhrRlNuT0pOWG84SXg2N3Y2d1MyVUlaRWFWNlhaRHBFMUY5TUVLb2poTGF1ejQzVEhjWDk4dEJjejk1QzlZNmxXNnNBTURuUVV4aFN5NlVLZXZTV3dORnY0WVl5bk5xeElmaHp6SE1SeUVQRy1CUVl5aS1GaHNIWGJMTERNRm5DYlVIZ2U5QnUwYTUxX296NWVrVDA?oc=5>
+
+### 特朗普：若美伊未能达成协议 将征收霍尔木兹海峡通行费
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 8world
+- 时间: 2026-06-20 22:38
+- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxOeU9QQTlXS0ZTSjdyYXdOWDZFUkVIUzBpdzhseGw2ZEtXeWZNQ3pSampuX1l3OFkwSmt0ME56dk9WMW9fNzNoeUhHYk1Ja19HVEJOWFNNcnhQcHdxSnUtTzAtTzlwMnZTTVVOVWEySmlVcGNXSEM3Tmo2a3BBTFB6b3lDaF9LaXNLdVNMUE4yTEZrbDFw?oc=5>
+
+### Trump Warns Iran Deal Is Not Final, U.S. Could Resume 'Dropping Bombs.' Oil Prices Rise. -- Barrons.com
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-06-17 11:34
+- 链接: <https://news.google.com/rss/articles/CBMingFBVV95cUxNMENWT05CYnV1dlRTT2xaSWI0UTg1eV9BR2tKdm9wdWhxOWtVWEs4dWJiTjI2cy0wZ0tYQzJVY3ZZUHVvbUZfTXJBODFLMzd1UDFhakQ4Tlowa2xweEE3U2ZlWldxeDMySTV2SDRqMlNFVWRPdEZwdGZYTENJbFdyUWQzZDVMWDhHcDl6YzFoYURaMG1GOVVLa2lCZHRzQQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-21 08:15  (14 条)
+
+- **周杰伦** | 260621·北京到达 在线求代替陆虎看周杰伦演唱会教程 @陆虎ING ·· ·· ·· <https://k.sina.com.cn/article_7879923704_m1d5ae17f803301tlo6.html>
+- **周杰伦** | 周杰伦为什么被这么多人喜欢 周杰伦感谢大家重看了他的演唱会 <https://k.sina.com.cn/article_7857201856_1d45362c0019074t0u.html>
+- **特朗普** | 耗资超1400万美元改造，工程刚竣工几天，林肯纪念堂倒影池水就绿了，特朗普怒了 <https://news.google.com/rss/articles/CBMidkFVX3lxTFBvd2QxVFA1SXVZbHB2aldobzd6ZE5nb21sRFJBdHpuSE1NOHZWbklVVThVcE9ydm12Wlk2QW5CTnJOSFRKcThiWngzWFItS2pxMXA1eFZuS254VnN1M0lRNE5HRTlFVmx4NHE5TVhJZnRzYi1OSnc?oc=5>
+- **特朗普** | “以色列被特朗普背叛了”-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTFBlb2l0d2tJSVFKcjJjQkFNU2hoanllSWlKcHhzaHRPa1pWQ041elZVUWlGaWIwTWNQRlBGeE5vbHhDbFJvUGE5M2tvNTNkQ1NwczN0Q1pCbWcyS2FDZVVCTXhOcmtxUmZzV1E?oc=5>
+- **特朗普** | 意大利总理再回击特朗普 <https://news.google.com/rss/articles/CBMieEFVX3lxTFA5VzlPeDVtdDRsczVDcDBtNGJMQThWRkFoM2lsU0tna2NBVklvLThJUTlnZW5qTGJ3anZ0LXIxNVlIRHItenB2NS1wcXB0aHMzak5pUnhsU19QWHNxaFNQSFBsTXJQSllHekgxaGgxRzJ5bWNkU3VERQ?oc=5>
+- **特朗普** | 梅洛尼终于爆发，“干了件美国盟友都不敢的事儿”-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE96d1VPa2NHQTBJLWF0Wi1wOThrdFhyb0NDcXdYTjM3TTYwZjRPYWtPbnpTVEZsQWd2SlJCWU9EdVlON0lwemVZcWgwWUxMSVZCMkRsalpvTzM0TGxaYkJSWHRhWDZGdHlNX0E?oc=5>
+- **特朗普** | AI狂飙掀起抢芯大战 特朗普马斯克“参战” <https://news.google.com/rss/articles/CBMihwFBVV95cUxQeHR2WDg3U2VtcDJDS05NLXVsQklzNTVpVUtQY3FMQ2h1MzlVXzh0LURldkJUNTdyZjg2Q1ZiMWhXN2lWQlFzMGxlc1NMckVqQWVNUlo5U2RmV21yRVdQT3hBUlY4QW56WV96aEJYS0RnbHNLWnJHTHZENHAtUDRFWHJCa3l5NEE?oc=5>
+- **特朗普** | 特朗普：如与伊朗不能达成协议 美或收取海峡通行费 <https://news.google.com/rss/articles/CBMifkFVX3lxTE43blZndV9PMmlhUTRIWWMwdnRPVllJYmp5a2I4aThZbXVJTzdSanVYUVh2YTlmQVMyVGVrSEUxSHJKNUhGZlFqemEwdjZKZUtibDZfRUtwekl2MFdNUHFDanF0SzcyOGxHUEJXdkxoTFlTNUU1cHVtZ1V6RWh6dw?oc=5>
+- **特朗普** | 特朗普：若与伊朗不能达成协议，美或收取海峡通行费 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5BZFdWYU02Y1l1Q3A1emNablp0SWNYekJ6eUhEYm16TFpzU3JPRXRpMkZXY2ZOeVdTeEZBcjBteHBrQjU5VmVNX2RwNmQ?oc=5>
+- **特朗普** | 事关霍尔木兹！特朗普最新发声 美伊技术层面谈判今日举行 <https://news.google.com/rss/articles/CBMiSEFVX3lxTFBOZGhKTVQzSUsxdW93U3ZzdmFYWDdvR1c3R3pWUzZfS1NDMkJXRmdDQXpTdTctcHlxS2lhRUt3Qm9tQjhQd1BEdQ?oc=5>
+- **特朗普** | 美媒披露美伊谅解备忘录签署内幕：特朗普在凡尔赛宫用餐时突提签署要求，马克龙很意外 <https://news.google.com/rss/articles/CBMiWEFVX3lxTE9yRkhHa0NONHJDQ2IyVEZWNFRzVzNZdjBZcFVlbldYOU41SGZ0c2cwNEViemM1N1JOWVlBQmM4RkE5b0dJWnZZOFJKa2RlZWJVTlN5WUlkMzk?oc=5>
+- **Trump** | Intel Shares Bounce Premarket After Trump Announces Apple Partnership <https://news.google.com/rss/articles/CBMitwFBVV95cUxOYTRHM21fYXR5WGt1RTFUb1ZtQkV3dWZIMzRDSDhrRlNuT0pOWG84SXg2N3Y2d1MyVUlaRWFWNlhaRHBFMUY5TUVLb2poTGF1ejQzVEhjWDk4dEJjejk1QzlZNmxXNnNBTURuUVV4aFN5NlVLZXZTV3dORnY0WVl5bk5xeElmaHp6SE1SeUVQRy1CUVl5aS1GaHNIWGJMTERNRm5DYlVIZ2U5QnUwYTUxX296NWVrVDA?oc=5>
+- **Trump** | 特朗普：若美伊未能达成协议 将征收霍尔木兹海峡通行费 <https://news.google.com/rss/articles/CBMilAFBVV95cUxOeU9QQTlXS0ZTSjdyYXdOWDZFUkVIUzBpdzhseGw2ZEtXeWZNQ3pSampuX1l3OFkwSmt0ME56dk9WMW9fNzNoeUhHYk1Ja19HVEJOWFNNcnhQcHdxSnUtTzAtTzlwMnZTTVVOVWEySmlVcGNXSEM3Tmo2a3BBTFB6b3lDaF9LaXNLdVNMUE4yTEZrbDFw?oc=5>
+- **Trump** | Trump Warns Iran Deal Is Not Final, U.S. Could Resume 'Dropping Bombs.' Oil Prices Rise. -- Barrons.com <https://news.google.com/rss/articles/CBMingFBVV95cUxNMENWT05CYnV1dlRTT2xaSWI0UTg1eV9BR2tKdm9wdWhxOWtVWEs4dWJiTjI2cy0wZ0tYQzJVY3ZZUHVvbUZfTXJBODFLMzd1UDFhakQ4Tlowa2xweEE3U2ZlWldxeDMySTV2SDRqMlNFVWRPdEZwdGZYTENJbFdyUWQzZDVMWDhHcDl6YzFoYURaMG1GOVVLa2lCZHRzQQ?oc=5>
 
 ### 2026-06-21 03:30  (10 条)
 
