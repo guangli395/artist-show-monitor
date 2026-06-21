@@ -1,74 +1,99 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-20 23:42**
-- 本轮扫到 4078 条, 新增 **8** 条
+- 最近更新: **2026-06-21 03:30**
+- 本轮扫到 4088 条, 新增 **10** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (10 条)
 
-### 周杰伦新歌《不能握的手》上线，讲述遗憾爱情故事
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924035_m1d5ae194303301ulq2.html>
-
-### 陈奕迅一场演唱会能有多少收入？刘欢收入最高
+### 粥饼伦买周杰伦演唱会门票 对方不出票也不退款，被骗走4千元
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019074dos.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019074qry.html>
 
-### 2026年周杰伦在鸟巢的演唱会票务情况到底有多火爆？
+### 演唱会门票秒没，找“代购”被骗1.7万元
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801p912.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019074l5u.html>
+
+### 女子为买周杰伦演唱会门票，深夜连续转账十几笔，被骗3万多元：那一夜，我像着了魔！_时刻_红网
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019074l5m.html>
+
+### 为看周杰伦演唱会，瓯海一女子花了16万元-新闻中心-温州网
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019074l1u.html>
+
+### 为买周杰伦演唱会门票,女子傻眼:7800元全没了!
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019074kyo.html>
+
+### 特朗普宣布与梅洛尼断交，称拒绝重新做朋友
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-06-21 02:25
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5DUVdBS2RGOEJQbGxEeDdPNmU1VFZsSWlxZEN3WVpiX0tkb1lKWDZaUXFUbjBvRlBhc1JtVGhibkF0SGRSYjVTeExhNXVhZHlxbl8zRDRwamh0a1hmb3YweUlZUk5yOTZ0Zk1pRFppdlhGOGc?oc=5>
+
+### 特朗普称意大利总理求合影
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-06-21 02:39
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE5YZEgyNW9LTHpVaHE2b3Y4S0hEMlRPdUhHM2JrMHZpLXowZHVPRWJXYzZxLVFkN3lhSlhsaGhrWHA2VHJVTmQ5YzZ2SWhGTXZMVEhwRWN3OEtIQ0NsZFpFaTBZS2FmVlhKc3Z2ay00NEN0UQ?oc=5>
+
+### 嘴真毒！“贝森特形容泽连斯基：磕了药的憨豆先生”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-06-21 00:56
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE43SHJtRS1IR3JmakdQTkxmRl9UcVFabkhSOEdOYTU1VFlDb0NCMVZucEZabmdUdXMwV3M5LTR0cnQ2cm1McnVzVWUxR1VqRTlpTTNWYVBtUjNXNDR2bkxFV2Z0MVlaTk02Smc?oc=5>
+
+### 特朗普：如与伊朗不能达成协议 美或收取海峡通行费
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-06-20 20:35
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE5RSkNiSlNkSUZUYURwR0YxaWpSeGYya2ozLV91TDlGRkVUMEtYOV85YU9MQnFCLWlYRUtFUDZKWjB4cVJaX1BoNE1md3FxOW16UlU4cmpHcWxLRktINGF5WVQzbnNoWV95clJ2LVVjalhSM0VfV2ZYV25kRy1oeTg?oc=5>
 
 ### 特朗普：若与伊朗不能达成协议 美或收取海峡通行费
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-20 22:34
-- 链接: <https://news.google.com/rss/articles/CBMi_gFBVV95cUxOWHJXWlFyZ3pmR09JOHQ5dGVmZkRRQnJScXhlTlR0TndVQTFJa1RhYVJOUDcwV3dsZHJZQW5lUDQyWUJmc3NZeHlrZzEzQU1nSUE2cWRkMWpLeFJrQUlZQXQ4QUFKRW5OVF9LWXJNOXlJNXdYWUc4VTY5S3ZrSFJMRnUxSERpZl9Xc1cwYUM2U2tnblFUc0k1YUJOT2NuYkplUHdhMGRORUNXTnBSektTX0JKT0hVcVFaODVXVmhnOGVVTGRPSkxlZUI0TUZnaVFXd0lVUTNlbTZQeVhGamUtOHFtTmsydWdyYUtITjdaSGhPX01tRkJRMUxrcDYzdw?oc=5>
-
-### 新“空军一号”亮相 特朗普炫“空中白宫”引争议
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-06-20 07:47
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxQd1MzbXROYlFCOWFmZUxiLUlFc25ZS3JfODVPOUl4T1lmbFMxWmt1c2kxenFLYmdQTzRBdUVYUHg3WW1WTk9acmRwd21iRGE5a0IxdFVHQlowM3BxNi1GTXFfMzZkUVR6aWQySFRJcVhVc2ZqLW5Rc2xKUnFzQU1SczFZSzlEbHRaR0VnRC0tdnNLa2hZU2tSWA?oc=5>
-
-### 意大利总理回击特朗普批评：应关注自身支持率
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 央视网
-- 时间: 2026-06-20 17:57
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5aNmJkVF9RNVlsZm1idWljcUREQm5kTjUxY3hPd1ZNU2VWelNZVE5EOWk1d001ZnFrN2VKQ2YtUmJxcUU4ZWg5Tm9BTXI5aFk2MndJTGRselU2US03TklLeFM4cHYwMEc5NUlfazFaZDFQMXFBMzJVNQ?oc=5>
-
-### 特朗普“剧透”，意大利怒了
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-06-20 12:07
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE40emhxLUs2UEI0cElWYWVJQ3N2MlBoMEEtbmtYdWRoNWpZSmdLMUhWdTJQOTlvNmZ1Mlc0ZVBvdURYeC1PZlYxWjFaSU80aDBDTEFrczJYaXNBaEdJM3RFUnY0dTNCWFY1NVdnRExoVmhxcHVtdTc4VA?oc=5>
-
-### 特朗普，“生日不快乐”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-19 02:30
-- 链接: <https://news.google.com/rss/articles/CBMizAFBVV95cUxOemdObkRzUm5DOXRwLVpzc2d4UEtNY0ZIZTlXaWZ1eDdlMXJxU1YzZmhsNGlNSHFmMm5uVFlEWExLcWZKWDRtUmdqUnNtTmU5ZjJSSjRRUFJNZFRnYk51aE5wcnltc1BlRUNfNEJRTHVoOVBxM2RzUnljcXQ4emlTWVJ5cGdvMGJyaDhJam5QODNmLW1vQTlEZHVELXd5N2Uyb2xjTGJtbzdoTnF3STBoeER0eUZ5QWtLY1YtYXhIN2dROTRBQWpQdEcyN00?oc=5>
+- 场馆: chinanews.com.cn
+- 时间: 2026-06-20 22:39
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xdU85OTd6Sk5tcFJzczJrck5KeXZZMFRJLTBJTUN2bVhEcUIxM2lHanI5LUN2WUkycUR6VWdfSXBVV2JRMWZiX3d0d3FiQzdmUDV0VkhjdFkxZzRFTUNieUdUbFBjVFFQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-21 03:30  (10 条)
+
+- **周杰伦** | 粥饼伦买周杰伦演唱会门票 对方不出票也不退款，被骗走4千元 <https://k.sina.com.cn/article_7857201856_1d45362c0019074qry.html>
+- **周杰伦** | 演唱会门票秒没，找“代购”被骗1.7万元 <https://k.sina.com.cn/article_7857201856_1d45362c0019074l5u.html>
+- **周杰伦** | 女子为买周杰伦演唱会门票，深夜连续转账十几笔，被骗3万多元：那一夜，我像着了魔！_时刻_红网 <https://k.sina.com.cn/article_7857201856_1d45362c0019074l5m.html>
+- **周杰伦** | 为看周杰伦演唱会，瓯海一女子花了16万元-新闻中心-温州网 <https://k.sina.com.cn/article_7857201856_1d45362c0019074l1u.html>
+- **周杰伦** | 为买周杰伦演唱会门票,女子傻眼:7800元全没了! <https://k.sina.com.cn/article_7857201856_1d45362c0019074kyo.html>
+- **特朗普** | 特朗普宣布与梅洛尼断交，称拒绝重新做朋友 <https://news.google.com/rss/articles/CBMic0FVX3lxTE5DUVdBS2RGOEJQbGxEeDdPNmU1VFZsSWlxZEN3WVpiX0tkb1lKWDZaUXFUbjBvRlBhc1JtVGhibkF0SGRSYjVTeExhNXVhZHlxbl8zRDRwamh0a1hmb3YweUlZUk5yOTZ0Zk1pRFppdlhGOGc?oc=5>
+- **特朗普** | 特朗普称意大利总理求合影 <https://news.google.com/rss/articles/CBMickFVX3lxTE5YZEgyNW9LTHpVaHE2b3Y4S0hEMlRPdUhHM2JrMHZpLXowZHVPRWJXYzZxLVFkN3lhSlhsaGhrWHA2VHJVTmQ5YzZ2SWhGTXZMVEhwRWN3OEtIQ0NsZFpFaTBZS2FmVlhKc3Z2ay00NEN0UQ?oc=5>
+- **特朗普** | 嘴真毒！“贝森特形容泽连斯基：磕了药的憨豆先生” <https://news.google.com/rss/articles/CBMiakFVX3lxTE43SHJtRS1IR3JmakdQTkxmRl9UcVFabkhSOEdOYTU1VFlDb0NCMVZucEZabmdUdXMwV3M5LTR0cnQ2cm1McnVzVWUxR1VqRTlpTTNWYVBtUjNXNDR2bkxFV2Z0MVlaTk02Smc?oc=5>
+- **特朗普** | 特朗普：如与伊朗不能达成协议 美或收取海峡通行费 <https://news.google.com/rss/articles/CBMif0FVX3lxTE5RSkNiSlNkSUZUYURwR0YxaWpSeGYya2ozLV91TDlGRkVUMEtYOV85YU9MQnFCLWlYRUtFUDZKWjB4cVJaX1BoNE1md3FxOW16UlU4cmpHcWxLRktINGF5WVQzbnNoWV95clJ2LVVjalhSM0VfV2ZYV25kRy1oeTg?oc=5>
+- **特朗普** | 特朗普：若与伊朗不能达成协议 美或收取海峡通行费 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xdU85OTd6Sk5tcFJzczJrck5KeXZZMFRJLTBJTUN2bVhEcUIxM2lHanI5LUN2WUkycUR6VWdfSXBVV2JRMWZiX3d0d3FiQzdmUDV0VkhjdFkxZzRFTUNieUdUbFBjVFFQ?oc=5>
 
 ### 2026-06-20 23:42  (8 条)
 
