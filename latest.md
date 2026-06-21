@@ -1,62 +1,73 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-21 13:21**
-- 本轮扫到 4114 条, 新增 **6** 条
+- 最近更新: **2026-06-21 15:21**
+- 本轮扫到 4120 条, 新增 **6** 条
 
 ---
 
 ## 本轮新发现 (6 条)
 
-### 周杰伦新歌《女儿殿下》MV上线
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://finance.sina.com.cn/jjxw/2026-06-19/doc-inieeper7678308.shtml>
-
-### 特朗普高市早苗当众吵起来了
+### 美伊谈判之际，特朗普“隔空”威胁
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-06-21 12:23
-- 链接: <https://news.google.com/rss/articles/CBMi7wFBVV95cUxOYWVTREJvWURBNjRna2d2N3ZmTkNLTm9jc0trVWNhZ0lwbWoyVGJmWjZQXzNwMWJ2MVZkMjZMZ0Nna2wxSHh5OTdOdzl5c19jdWNkVldIVG1HUjI2YlJzZ0JCdzBUTlREZGZYZFRLVTRpYzloNXdrNXVUQmtRRks3eG5YUnMwOGpXTkZ1cTdWS3RLT3Z1dkFBbl9TaF90TkVtNUpldE9qNHY4eU1CLUZrelVBOTViZ0hNRmU1YU51dGV3aUZwRzRhSTFxUnpaa1VwNTI2aVIwX09ybFItWFlJdmxaUVRWZk1Wa0NWOGl0WQ?oc=5>
+- 场馆: Sina finance
+- 时间: 2026-06-21 14:33
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE95YnZIWlQxeFEwMTMtc3RsQklmRk9IZms3N0dFWXcxYU52MmtDelJfMG5GUzZoOEFleFRyelRhUVptQzVCeWhrVTY4Y2ZIWnowMXM1dUlPd0V0ZGFrcDBjREFMNXhzV3czUGgyYXpsVWZnYzVLLXc?oc=5>
 
-### 特朗普：若与伊朗不能达成协议 美或收取海峡通行费
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: Shangbao Indonesia
-- 时间: 2026-06-21 11:08
-- 链接: <https://news.google.com/rss/articles/CBMihAFBVV95cUxNUkNGbExTdk5vMGlfNkZBaFJPRjEyc0pJNUZfR2FnQWhXV3hid0k5TVFramxSeFU0X281ZUJ0MkR3Q2tHbFJ5SWhVTDE1RldpMUtZNWxhRElFV2Q0X2RaamhfV3N1dkV2UDFDMVhUdjlPM3Y3MGVTSjVJS21MSWFnbi1qb3E?oc=5>
-
-### 美国副总统万斯：特朗普致力于区域全面停火，希望改善与伊朗人的关系，过去数小时在相关问题上取得重大进展
+### 特朗普就黎巴嫩问题再度威胁伊朗
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-06-21 13:11
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1yM2RMaTVxWllUVUZpc2pGZVdBS0dEQlF5VC1PNUNGNldGdmpLOTRBbkFzcm92eGhUdUdsMmtndjhuekYweWZ3ejZaMGV1ckpLOEFrVjZxTy1TSmxTdm9OZk8wUEtHVGo1bkJycFNQZlc?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-06-21 14:37
+- 链接: <https://news.google.com/rss/articles/CBMiiwJBVV95cUxPbWkxTjBWNWNhM0tNckRmRzJjeVVPMFM2VGMtc3hzQjM3MlYwdU9EUWlBM0JiRFhFTXZGYzFyaUtoN2Q5NGx2ZGRpSjBrdDZMN0dOT1RCN0ZFU3owbzFfVElCMnU3MlZxd1J0QzJLaUNXUzRvbTI3cW93OHVHc1VNdVQ2RzJUbG10X2JfZ2l0MS1WT0M3ZC1qYjNZSExkaW5wMEZya0xIUldsWkpyY0tLcHlzeUstM1E5Umh1X3ZTWDZ6ZTl6QUF0SHpBbWtVQUllTm5OYUNIa1lCVFhmN1JvbmZtNWdPRVg2ZzRvRW03c0pINWV4N1UwZ2RXMGNMb1V2bTIzZDR3aFY5LTQ?oc=5>
 
-### 梅洛尼敢于直面特朗普的嘲讽挑战，意大利独立外交体系如何重塑欧美合作平衡？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-06-21 01:13
-- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxPRVhNYTB6bVFhMU9iRDlmUHBUZ0diZTBtM0xMVS1qWXJmX18xS0JBa09YaGgyZVRGdXJSTW5oN1dpRXpSX2lLbm1EbnA4eXFLRXZaV1RPLXlUWEdrZVhubDFoR3NGdzM2MmJyeGVKdDA4cG8zZ0xTMXpTTGhwVmZRNGM2TQ?oc=5>
-
-### 梅洛尼与特朗普为何突然“翻脸”？
+### 特朗普再度威胁伊朗
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-06-21 08:49
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5JTUp0bUM4Z1JTaDJDWjNDdVdMb2pNOXM5SVB1SmFLaXVjNjB1dXRHT0JESEt1NzFNbEpTNzU5dWpZYnJ3Q1BPajRxSmI?oc=5>
+- 场馆: Sina finance
+- 时间: 2026-06-21 15:07
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZRVlXdDQ2SEF1d082Z2pkWTEtMkxUVDZPeTM3QzRhenlJajk3Y0owSjA0WTg4aExwZFl4b012MzdTQS1tRWNLTk1mUWpreGlYTnZJelV4Zk5hODV2cVZnNHJUSUJnMl9IcFZYSjR0UUFIcGRSeFE?oc=5>
+
+### 又隔空互怼！特朗普：梅洛尼如今希望与美“重修旧好”是为了提升其民调支持率！ 梅洛尼：建议“关注自己的支持率”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Sina finance
+- 时间: 2026-06-21 11:24
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9TcE55cGNwdzI0dkpsSmN5YTdQT3lyRmhjRl9yRlRibWV6amdId1lJYUJGTVRtVUQ0VGh0dUN6RFRUV3VuUGZ6NVB4Z1VzQUFUekpHbFE5RnMtazQ2bGd6SV9KMnRqMG5CYWg2bDhqUnZFdDVPQkJvbA?oc=5>
+
+### 特朗普为改装版全新“空军一号”总统专机揭幕：“很合我的口味”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 环球网
+- 时间: 2026-06-19 10:37
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4SEN2ZzNPZVdxekp3SzJFNURsUElVbkxMNkQwcEVLdWFELXZPNWllWDNwd3F1X0NXeWpScUM3OHFiTVY4TExYZzR0dVEzMGY3STY4?oc=5>
+
+### 川普承认1400万美元翻新工程出问题 斥“人为破坏”
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 文学城
+- 时间: 2026-06-21 14:19
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzNE5WQVpTMXVvUTBKcC11Rk9DbTBEWXU2RHVicGxoSW5VQWpuM3VSZkQzWTFVRGtGLUNxNmtIVllsYTNzNG5GcUlaaVZ0S2FueXRMSzhsM2JGN0xkNXFlZjlMeENTWThW?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-21 15:21  (6 条)
+
+- **特朗普** | 美伊谈判之际，特朗普“隔空”威胁 <https://news.google.com/rss/articles/CBMidkFVX3lxTE95YnZIWlQxeFEwMTMtc3RsQklmRk9IZms3N0dFWXcxYU52MmtDelJfMG5GUzZoOEFleFRyelRhUVptQzVCeWhrVTY4Y2ZIWnowMXM1dUlPd0V0ZGFrcDBjREFMNXhzV3czUGgyYXpsVWZnYzVLLXc?oc=5>
+- **特朗普** | 特朗普就黎巴嫩问题再度威胁伊朗 <https://news.google.com/rss/articles/CBMiiwJBVV95cUxPbWkxTjBWNWNhM0tNckRmRzJjeVVPMFM2VGMtc3hzQjM3MlYwdU9EUWlBM0JiRFhFTXZGYzFyaUtoN2Q5NGx2ZGRpSjBrdDZMN0dOT1RCN0ZFU3owbzFfVElCMnU3MlZxd1J0QzJLaUNXUzRvbTI3cW93OHVHc1VNdVQ2RzJUbG10X2JfZ2l0MS1WT0M3ZC1qYjNZSExkaW5wMEZya0xIUldsWkpyY0tLcHlzeUstM1E5Umh1X3ZTWDZ6ZTl6QUF0SHpBbWtVQUllTm5OYUNIa1lCVFhmN1JvbmZtNWdPRVg2ZzRvRW03c0pINWV4N1UwZ2RXMGNMb1V2bTIzZDR3aFY5LTQ?oc=5>
+- **特朗普** | 特朗普再度威胁伊朗 <https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZRVlXdDQ2SEF1d082Z2pkWTEtMkxUVDZPeTM3QzRhenlJajk3Y0owSjA0WTg4aExwZFl4b012MzdTQS1tRWNLTk1mUWpreGlYTnZJelV4Zk5hODV2cVZnNHJUSUJnMl9IcFZYSjR0UUFIcGRSeFE?oc=5>
+- **特朗普** | 又隔空互怼！特朗普：梅洛尼如今希望与美“重修旧好”是为了提升其民调支持率！ 梅洛尼：建议“关注自己的支持率” <https://news.google.com/rss/articles/CBMieEFVX3lxTE9TcE55cGNwdzI0dkpsSmN5YTdQT3lyRmhjRl9yRlRibWV6amdId1lJYUJGTVRtVUQ0VGh0dUN6RFRUV3VuUGZ6NVB4Z1VzQUFUekpHbFE5RnMtazQ2bGd6SV9KMnRqMG5CYWg2bDhqUnZFdDVPQkJvbA?oc=5>
+- **特朗普** | 特朗普为改装版全新“空军一号”总统专机揭幕：“很合我的口味” <https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4SEN2ZzNPZVdxekp3SzJFNURsUElVbkxMNkQwcEVLdWFELXZPNWllWDNwd3F1X0NXeWpScUM3OHFiTVY4TExYZzR0dVEzMGY3STY4?oc=5>
+- **Trump** | 川普承认1400万美元翻新工程出问题 斥“人为破坏” <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzNE5WQVpTMXVvUTBKcC11Rk9DbTBEWXU2RHVicGxoSW5VQWpuM3VSZkQzWTFVRGtGLUNxNmtIVllsYTNzNG5GcUlaaVZ0S2FueXRMSzhsM2JGN0xkNXFlZjlMeENTWThW?oc=5>
 
 ### 2026-06-21 13:21  (6 条)
 
