@@ -1,32 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-21 21:51**
-- 本轮扫到 4143 条, 新增 **2** 条
+- 最近更新: **2026-06-21 23:05**
+- 本轮扫到 4148 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (5 条)
 
-### 抗议特朗普威胁言论 伊朗代表团离开谈判地点
+### 伊朗代表团突然暂停谈判，以抗议美国总统特朗普当天对伊朗发出的威胁言论
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Sina finance
+- 时间: 2026-06-21 22:30
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE1aNG84LW9ZSkR6UWtsUU8tZlZCSFhraWNRU1I5cWh2bXhFZGR2V3hiSVFUeF9ienJxbXhSNDE0S3RMaUZLM1FwOFV4Q3pPZ0JhSXIxYVM3N056b0NzMzhnb3VaWmhrVkFja044ejY2S0xHVXNKdnc?oc=5>
+
+### 6月22日周末要闻：美伊谈判暂停 伊朗指责特朗普 油价上涨
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-21 20:26
-- 链接: <https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZ3lsMXRyQ1prYi10Z1BGeURKQ1ZlNzdIbnhackxPWHo4Rl9HV0RQVlZWQmhBSTh6ZHM0aU1uTFh5QmNnVkdrYTAxRjdKalRPTm55M3drVjRhOW5ja0RveDU5MFJMYWFRaFdLNzlVYlJTZnpVRHZUWV9oeW1xLXNCdUxpXzBLS2xiaGNIaTJVdzJWWmRwUXdvOTNwQ1VabmxnbUUxdlRPZUVDaEp2YjdDTmxwY2ttcjdaV3poUGlvd0lYLTlxalZUVEkyYTdCNVVVdFh2ZUFvaWVzWWttZGoydlNwZ25sVFpRUHAwVllSejVteTBuZTgxdHpaaWE?oc=5>
+- 时间: 2026-06-21 22:56
+- 链接: <https://news.google.com/rss/articles/CBMinwJBVV95cUxNSGpubVZldmw4dllBc3BwRVBaX3YxS1R6TE5jRHhMWVM5NldSZ0xid2tBYTNDZWxUc1VVcEE1cU1LM09kNEN0Q3pQa3RaV1hKX3FEOG54ZjNCa0NQTDlzMzZOLXoyeHBubm1rcUZjMXdLejUwNkh6VmhQVWpwSXhmb090N3NfYlF3VHM3bFRWbHZ6TnV4d3Z5WnVYN0pFQnhGZkNlc2J6VjdubDE3UWQxUkZ5RXp3a1hvMUE4eHl1aFlmV0ZiWHdpVEZsWUVDU1U4U0RJVkJnTUQ5ZzlmaDFGTm42QmF6a1RGeE81dG9HdzdwNGlzUUxIRVdNRXFZMTVzbVF4UGlLZC1aN3V6OE5EMW1tTWs1VzJ4TkJWa0lBdw?oc=5>
 
-### Trump envoys arrive in Switzerland for Iran talks planned for Sunday
+### 特朗普：美国或收取中东地区20%的石油收益
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 澳門廣播電視股份有限公司
-- 时间: 2026-06-21 20:59
-- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxPSmc4T0NUN0hwVkNTc3NRMnpVZEdtcWtBYnBHSFdfa0ZPOVJETGlheFZHSHZ3VHJELXRyLWxFU24yb2QyWmt3Q2tPT1ZFNzJzc2EzR09tbG1GSVhIUkJoTXUwZkUzWjR5eS1vbFFSNGV4V1Q3TkxraElGMEhXYlpNV3Z0MA?oc=5>
+- 场馆: 新京报
+- 时间: 2026-06-21 14:42
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBJeFE0SERLd1FRQ0Q0ZENtMTBSaUpHZWMyVlNNTVg1S3c3SUJFRmhUcGUzUHdqZ0NyNU53b2RzdVNCTEtBNlhvOHgzT2V3Y0xHZ2RKTUF5Vm5QNURRMFJtemdEUXk?oc=5>
+
+### 谈判暂停，伊朗：霍尔木兹海峡仍关闭；特朗普：美国或收取中东地区20%的石油收益；国际油价大涨；世界杯西班牙4-0沙特丨每经早参
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 每日经济新闻
+- 时间: 2026-06-21 22:39
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VZUE1ZVRqQWlTb003UHJaTFNjdnRHZDNuaW1TNzdSZllRUGxtcTViTkl6dEVaNHM2dk5la0gwcGhERVB1aDhJbGo5b0R0NW5yNXpFcW90MmFPTmI4QVFCbWtNdXVNdw?oc=5>
+
+### 美伊会谈之际 特朗普威胁伊朗
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: chinanews.com.cn
+- 时间: 2026-06-21 14:00
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFB1OUFKNldJdTBGeGRmUDJoRktHSm51U1U3SUxiZmtDSHBkRGNFYzg4bDA5bk52QXBrRDRkN3BpZS1TY1RuZHUzWmxPaWtuMGxEZ0JpY1k4NFdjeWpqcWp3TDQ3WGNtNTZo?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-21 23:05  (5 条)
+
+- **特朗普** | 伊朗代表团突然暂停谈判，以抗议美国总统特朗普当天对伊朗发出的威胁言论 <https://news.google.com/rss/articles/CBMidkFVX3lxTE1aNG84LW9ZSkR6UWtsUU8tZlZCSFhraWNRU1I5cWh2bXhFZGR2V3hiSVFUeF9ienJxbXhSNDE0S3RMaUZLM1FwOFV4Q3pPZ0JhSXIxYVM3N056b0NzMzhnb3VaWmhrVkFja044ejY2S0xHVXNKdnc?oc=5>
+- **特朗普** | 6月22日周末要闻：美伊谈判暂停 伊朗指责特朗普 油价上涨 <https://news.google.com/rss/articles/CBMinwJBVV95cUxNSGpubVZldmw4dllBc3BwRVBaX3YxS1R6TE5jRHhMWVM5NldSZ0xid2tBYTNDZWxUc1VVcEE1cU1LM09kNEN0Q3pQa3RaV1hKX3FEOG54ZjNCa0NQTDlzMzZOLXoyeHBubm1rcUZjMXdLejUwNkh6VmhQVWpwSXhmb090N3NfYlF3VHM3bFRWbHZ6TnV4d3Z5WnVYN0pFQnhGZkNlc2J6VjdubDE3UWQxUkZ5RXp3a1hvMUE4eHl1aFlmV0ZiWHdpVEZsWUVDU1U4U0RJVkJnTUQ5ZzlmaDFGTm42QmF6a1RGeE81dG9HdzdwNGlzUUxIRVdNRXFZMTVzbVF4UGlLZC1aN3V6OE5EMW1tTWs1VzJ4TkJWa0lBdw?oc=5>
+- **特朗普** | 特朗普：美国或收取中东地区20%的石油收益 <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBJeFE0SERLd1FRQ0Q0ZENtMTBSaUpHZWMyVlNNTVg1S3c3SUJFRmhUcGUzUHdqZ0NyNU53b2RzdVNCTEtBNlhvOHgzT2V3Y0xHZ2RKTUF5Vm5QNURRMFJtemdEUXk?oc=5>
+- **特朗普** | 谈判暂停，伊朗：霍尔木兹海峡仍关闭；特朗普：美国或收取中东地区20%的石油收益；国际油价大涨；世界杯西班牙4-0沙特丨每经早参 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VZUE1ZVRqQWlTb003UHJaTFNjdnRHZDNuaW1TNzdSZllRUGxtcTViTkl6dEVaNHM2dk5la0gwcGhERVB1aDhJbGo5b0R0NW5yNXpFcW90MmFPTmI4QVFCbWtNdXVNdw?oc=5>
+- **特朗普** | 美伊会谈之际 特朗普威胁伊朗 <https://news.google.com/rss/articles/CBMiaEFVX3lxTFB1OUFKNldJdTBGeGRmUDJoRktHSm51U1U3SUxiZmtDSHBkRGNFYzg4bDA5bk52QXBrRDRkN3BpZS1TY1RuZHUzWmxPaWtuMGxEZ0JpY1k4NFdjeWpqcWp3TDQ3WGNtNTZo?oc=5>
 
 ### 2026-06-21 21:51  (2 条)
 
