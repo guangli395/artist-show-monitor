@@ -1,92 +1,80 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-22 18:04**
-- 本轮扫到 4195 条, 新增 **10** 条
+- 最近更新: **2026-06-22 21:19**
+- 本轮扫到 4202 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (10 条)
+## 本轮新发现 (7 条)
 
-### 周杰伦演唱会千台高清神器助力歌迷拍摄
+### 蔡徐坤工作室在这次时装周前发布了哪些预热物料？
 
-- 艺人/关键词: **周杰伦**
+- 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923973_m1d5ae1905033020hao.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801pw3o.html>
 
-### vivo X300 Ultra用户无缘鸟巢周杰伦演唱会
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1870795791_6f82140f04003hrly.html>
-
-### 特朗普批梅洛尼拒应对伊朗问题，称美国保护意大利数十年
+### 英国首相斯塔默宣布辞职 特朗普曾发帖预告：斯塔默将辞职，祝他安好
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-06-22 15:35
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE5scWZ5Rzd2U2NFb2FTcnVyejFYbDluTlM2VUdPSmxIYVo4VFNPT3lkTFJ1RC1qeVYxVU5OM1RDNWdpOG1BS2VYQzFUaUQzWlhaLVl0Vlc4YjRSa3FkZXZQX3NEWGlVVWJORFpmeVpzSWp1Zw?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-06-22 10:44
+- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxQWmhfcVhxVGNXT2lYbTdIQ254TEd4TFhDSXlNNGhNU3lRbHcySlZ0ckJ5SFRTQWRQSld3ZlVlR2hFbWloYm5xa2MtRzJJM3l6dld6YkxhYmVQa1dVbUhZVWxuWEpLbG83bTVVdkVHbm5KejBqTlZTdWZleTc2a1lqMXEyVVRRbmM0NWtzaGxGbUc2cU9z?oc=5>
 
-### 特朗普再次批评意大利总理梅洛尼
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中国新闻网
-- 时间: 2026-06-21 23:46
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE40ei12ZHI4aExxZHdHR0h0LTY1b2dLOUY5Tm1aWTJhWTlEdk9JZXVZTFVESTdvVGFVb3EtN3lGV0JfRGozYlVVZUdIbE1PWGREdXJPb3owTkhqVkR0TDBZOVhjMEdHNDQ?oc=5>
-
-### 与特朗普隔空隔怼 梅洛尼社媒账号涨粉超10万
+### 61%美国农民反对特朗普政策：每天工作16小时，年底还得借钱缴税
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-06-22 17:26
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE91bGstejkybi1sU3RJXzZLclpLdXZEeS1yb3FhZkJ0eGoxZENNZk01b2F2QkFCTm9Qemh5ZXdCUnlKelJLMjZvYzNJXzMwMXoxT2p5eDZGbHF3S1gyRE5qb3JZa3BmQW43cjFUbUU5cDlfVTA?oc=5>
+- 场馆: 观察者
+- 时间: 2026-06-22 05:02
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFA3cDdqX2EwV0tGc1FhYUpuVWc2eXJTcFl5VGFFRzRsbURSdF9VWGVzMWN2R2gtX0JJc2YySlJJdTlZb1hDd2J5YWlqaXV5eEVkbjJJaFd1bXF4RlJDQzBSVXlMeGNmVWNYSlBCSmFqSnI?oc=5>
 
-### 特朗普发出威胁 伊朗暂停谈判
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-22 01:29
-- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxQZExESllxZFZuaFk0VXp2SEY5MkNwUDFNRDdGSlFfY09TWEJJZEJNQW1aTWQyYjZJOThFM1I3MWUxcVQyMFZNNk5wazhCbzZLUnNxUFBFWXJzSWZUR3VBbk1LY0hRbDlNT3NHUmR5dGFoaF9DRFRqMUZ4dkxIYldzbl9NOA?oc=5>
-
-### 特朗普民调不断下滑 美国中期选举存变数
+### 特朗普料成首位任内访广东的美国总统
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 联合早报
-- 时间: 2026-06-22 09:24
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1QT3JnTDlHZ0pJaHBVNUFCNmN4ajhfVHRPeWcyVFhZWVk1eVI0NEt4LUhwZXBOQjVTcy1zdEpMSHY2ZTFKakFKa08yWGl6YWZ4eEVIcXdfdW1ncmVLY1pZRWtBRFJDQQ?oc=5>
+- 时间: 2026-06-22 08:02
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFB1eTF1RXMzLTQ4TnkySVNRaVN1b1N3OElLcDlFVVpPeF9BUjlxdnVWSmd5eFBpbTJJM0lHb3lUNThXeHpFb19YakxCWGJ1SjNCaGhDakNzRFdOTnRMTlduSjRpc2hndw?oc=5>
 
-### 特朗普称林肯纪念堂倒影池遭“蓄意破坏” 多人被捕
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-06-22 10:43
-- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc1FwZWlwSl92aURtZC1Wbm0wa2wyU043RWxoTmUzY0g0al9tSlQ2Zk1PS2kyclRGQTdzb25kdW5zTUpQWEtyMS13QWJabzEwdFZLQzF2RVdmT0VtUmZhNXU3RmFwWkd1dm41OUlSTWZ6dnR6VVp1SC1SQ3lFQ2Q4cE44WVJpWHZM?oc=5>
-
-### 何伟文：特朗普的表态本质上是一种谈判策略
+### 特朗普为什么一定要把自己印上250美元纸币？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 全球化智库（CCG）
-- 时间: 2026-06-22 05:03
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1kLUxOX0t5RVFvRFRrLVRFa1hBazBCRG0zM0VUcmhHNU56MDRFanlSazFaSGgwemtUaTFJcGZYMHdNM2VudTdULWhxa3g?oc=5>
+- 场馆: 文学城
+- 时间: 2026-06-21 19:53
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5FX0VCYjA0WENDMWd2dGhfTVVRakVSZk5laHVlcEJDN0xDR3gzV3lFZ2VWQVdKR2RQbkQ0TG9rQXZVZ1dPQnNRMEUtNENISklSMFBNSnJTWkYxZWdPajR6aG1LTy1qQVZB?oc=5>
 
-### 特朗普签署了美国的投降
+### 华盛顿反思池变“绿池” 特朗普促即刻修复
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-06-22 12:27
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5HQlNBdHJnSUhmYTNFWktfdW1BeUh1Wldqci12bUx4SF9RdTczM01fZHlDSnR1ZGxad0dnRm9HdVpRUGlMbUlnM0RtSTJ1YS1rc1NPaE5JdTdqYVUzUHFCbVIzbUVKeXBvYlE?oc=5>
+
+### 特朗普总统：伊朗将同意长期接受核检查
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: In Defence of Marxism
-- 时间: 2026-06-22 11:07
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9yUUcxNDFQclg1WGZZLVg5S1FMeU1qMXNtMGFfbGlZQWhhRmY3Yk1BQXBpNVo1UHB6TmFjU3hQTWJobTlzQkNIVTduU1JSbjZqbWRXOGMyYl84VUFMdVFyNVlBdmhrSk96OUJYRkJDclZ0eGNSazhxdg?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-06-22 19:47
+- 链接: <https://news.google.com/rss/articles/CBMivAFBVV95cUxNdElaVmZKZmFlZ0pVMHo0a25WMmd5Rm15QmdHajZQaXhHb2xhcWtsYlpxUGdIcE9IR1NHNFJtcHdrb3NmSTRZWlR3dDlNaGFfQ0txTEVSUC1uS3ZyYTBnTGVkaWFpTXJuVHVUZldmN2tTTGlzeTFmOGd2U2t5cHdybm00aVhSY1hrbF90Z2E0bjRTUFAxeHRkR3NGdWJMZzFLY3hfQmlsRTN0T1FHZVQtOUFBd3FzcHJIWERTStIBvwFBVV95cUxPdl8zWkpSeFFsY2hSUHNuLVBLNjdCd0o2bDdvSXI1RGxYNFVFUEtOa19ZOU1nV0d3S3FnN2lLNVR5Z3V4Y0ppNHNRdjhZTFo2X0FKNzFWS2RkVjhyQ2N2MXNHQndmd3RsWmp5ZG5ZR0QzNG5FQW95SEdyZFY4QldLdExOYUtldktUOUxzQVhSLXZpejZ5cmxtc1Fha0hveXBZSjVycXktN3prZ1NoU0JKbm9YV0RKRFVLUUw0a0JRdw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-22 21:19  (7 条)
+
+- **蔡徐坤** | 蔡徐坤工作室在这次时装周前发布了哪些预热物料？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801pw3o.html>
+- **特朗普** | 英国首相斯塔默宣布辞职 特朗普曾发帖预告：斯塔默将辞职，祝他安好 <https://news.google.com/rss/articles/CBMilAFBVV95cUxQWmhfcVhxVGNXT2lYbTdIQ254TEd4TFhDSXlNNGhNU3lRbHcySlZ0ckJ5SFRTQWRQSld3ZlVlR2hFbWloYm5xa2MtRzJJM3l6dld6YkxhYmVQa1dVbUhZVWxuWEpLbG83bTVVdkVHbm5KejBqTlZTdWZleTc2a1lqMXEyVVRRbmM0NWtzaGxGbUc2cU9z?oc=5>
+- **特朗普** | 61%美国农民反对特朗普政策：每天工作16小时，年底还得借钱缴税 <https://news.google.com/rss/articles/CBMicEFVX3lxTFA3cDdqX2EwV0tGc1FhYUpuVWc2eXJTcFl5VGFFRzRsbURSdF9VWGVzMWN2R2gtX0JJc2YySlJJdTlZb1hDd2J5YWlqaXV5eEVkbjJJaFd1bXF4RlJDQzBSVXlMeGNmVWNYSlBCSmFqSnI?oc=5>
+- **特朗普** | 特朗普料成首位任内访广东的美国总统 <https://news.google.com/rss/articles/CBMiZkFVX3lxTFB1eTF1RXMzLTQ4TnkySVNRaVN1b1N3OElLcDlFVVpPeF9BUjlxdnVWSmd5eFBpbTJJM0lHb3lUNThXeHpFb19YakxCWGJ1SjNCaGhDakNzRFdOTnRMTlduSjRpc2hndw?oc=5>
+- **特朗普** | 特朗普为什么一定要把自己印上250美元纸币？ <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5FX0VCYjA0WENDMWd2dGhfTVVRakVSZk5laHVlcEJDN0xDR3gzV3lFZ2VWQVdKR2RQbkQ0TG9rQXZVZ1dPQnNRMEUtNENISklSMFBNSnJTWkYxZWdPajR6aG1LTy1qQVZB?oc=5>
+- **特朗普** | 华盛顿反思池变“绿池” 特朗普促即刻修复 <https://news.google.com/rss/articles/CBMiakFVX3lxTE5HQlNBdHJnSUhmYTNFWktfdW1BeUh1Wldqci12bUx4SF9RdTczM01fZHlDSnR1ZGxad0dnRm9HdVpRUGlMbUlnM0RtSTJ1YS1rc1NPaE5JdTdqYVUzUHFCbVIzbUVKeXBvYlE?oc=5>
+- **Trump** | 特朗普总统：伊朗将同意长期接受核检查 <https://news.google.com/rss/articles/CBMivAFBVV95cUxNdElaVmZKZmFlZ0pVMHo0a25WMmd5Rm15QmdHajZQaXhHb2xhcWtsYlpxUGdIcE9IR1NHNFJtcHdrb3NmSTRZWlR3dDlNaGFfQ0txTEVSUC1uS3ZyYTBnTGVkaWFpTXJuVHVUZldmN2tTTGlzeTFmOGd2U2t5cHdybm00aVhSY1hrbF90Z2E0bjRTUFAxeHRkR3NGdWJMZzFLY3hfQmlsRTN0T1FHZVQtOUFBd3FzcHJIWERTStIBvwFBVV95cUxPdl8zWkpSeFFsY2hSUHNuLVBLNjdCd0o2bDdvSXI1RGxYNFVFUEtOa19ZOU1nV0d3S3FnN2lLNVR5Z3V4Y0ppNHNRdjhZTFo2X0FKNzFWS2RkVjhyQ2N2MXNHQndmd3RsWmp5ZG5ZR0QzNG5FQW95SEdyZFY4QldLdExOYUtldktUOUxzQVhSLXZpejZ5cmxtc1Fha0hveXBZSjVycXktN3prZ1NoU0JKbm9YV0RKRFVLUUw0a0JRdw?oc=5>
 
 ### 2026-06-22 18:04  (10 条)
 
