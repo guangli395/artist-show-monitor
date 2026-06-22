@@ -1,92 +1,119 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-22 01:59**
-- 本轮扫到 4158 条, 新增 **10** 条
+- 最近更新: **2026-06-22 07:32**
+- 本轮扫到 4170 条, 新增 **12** 条
 
 ---
 
-## 本轮新发现 (10 条)
+## 本轮新发现 (12 条)
 
-### 周杰伦2026青岛演唱会审批通过!国庆三天连唱,八年等待终于成真
+### 王一博《未来我来》MV发布，湟鱼洄游画面同步呈现
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923704_m1d5ae17f803301tmrg.html>
+
+### vivo千台演唱会神器0.01元租，直拍周杰伦现场
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c00190765ls.html>
+- 链接: <https://k.sina.com.cn/article_2774365937_a55d76f104001hv92.html>
 
-### 王嘉尔、张靓颖演唱会定档南京！
+### TOP登陆少年组合青岛连开四天演唱会，周杰伦张韶涵陈粒官宣在即
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://finance.sina.com.cn/wm/2026-06-22/doc-iniefqsa0434834.shtml>
+- 链接: <https://k.sina.com.cn/article_7096020439_1a6f4add706801s5so.html>
 
-### 伊朗代表团暂停伊美谈判 抗议特朗普威胁言论
+### 周杰伦新歌《女儿殿下》MV上线、两女儿同框出镜
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中国日报网
-- 时间: 2026-06-22 00:45
-- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTE5vY2dfOThnSmpwcmtzNmRQWlc3RkhBYmthYmVEcUszQVdETkZZdmlwN0FONXJqQmJVTDZYM1VzQnZobFl4enkyZF9RWnItck9IczgyendWb0swc1dCYkZ6VkxZaFJ5X3dWR0hSTV9ja3hsUm5ETUdOeWVkMA?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201851_v1d45362bb06801eczk.html>
 
-### 新华社消息丨伊朗代表团暂停伊美谈判 抗议特朗普威胁言论
+### 打了三个来月几乎白干？特朗普急死了-观察者网
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-06-22 01:36
-- 链接: <https://news.google.com/rss/articles/CBMid0FVX3lxTE40MElFbUwxNGRzcmRFczViNzdfV1hVaWNtSFk5QlZRMGxFem10ZEIzeHRiZ21EX2dvWk9FWnVHZklReTExTjVrM3dxNnZuV09EaGtVUEhibktzVTNDTWVqRkh4ZzN2cmlTRkFmZUVzT1U0VmlrN0l3?oc=5>
+- 场馆: 观察者
+- 时间: 2026-06-22 03:22
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1GOUgwSHBPbUhJYWlUYnJ5dEJVX09xYTBZOHR3RDBBTjhwckRxNU5lRFNDVVI4MkVZaVdPQ3U0bVBqTHRTbUQtLU5qcVR1NExMTTEtZzF3ZTJfOHBDbkJnSmhiWmZRa1ZpN3c?oc=5>
 
-### 距离美国“250周年国庆”还有两周，特朗普如何给市场放烟花？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-06-22 00:31
-- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE1MV0s2cEw0QWI2NkMyTkpXTjBfUXA5MDllUjlnbzJPRkcyTkZmNjFPQ2o3TUZWLTlSdVZfeXAxSkd4SVpYMFZRWF9selpzZTBJ?oc=5>
-
-### 美称或收取中东地区石油收益 特朗普威胁征收通行费
+### 四面楚歌！英国首相据传要下台 特朗普已抢先宣布辞职消息
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-06-22 00:41
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE96RkZlM1FKWmgzVVo3c3VXWW1zeTJBM1VrV04talo3cTJCOVVXRU5WRTNwbGRyWkF1dFRuTVJqbTNFaVFlaHlxU3JMNXpQWlhtSDJwZlctczlFaVg0TnNsYkdUdUdBNWhqWUhwbjcxbUI?oc=5>
+- 场馆: 财联社
+- 时间: 2026-06-22 01:08
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE9LZ1FLejEwVW9CREhKYWVwWTIweXZETkxpMms0STlIT09VODd5OEpGdy0yUDExSHFWWHpoX0Z2MlNkUTc2QzRwYw?oc=5>
 
-### 伊朗代表团暂停伊美谈判抗议特朗普威胁言论--国际
+### 特朗普默认"斯塔默辞职"成事实，在社交平台公开送去祝福：“我祝他一切顺利！”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 人民网
-- 时间: 2026-06-22 01:29
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE0tSG9GMnNWMVlQTWV0NV9GdHhubjlzcWhkWnBDc0VzRVBCNXFzMWxDMk8yRkg4T3hUYUtoNHlCQnhUemJMdVpRZTRwN0NrOTlDTjBhZm1MRzV5MFJfaFRNZzVVRFVQM3FHQmxJ?oc=5>
+- 场馆: RFI
+- 时间: 2026-06-21 17:50
+- 链接: <https://news.google.com/rss/articles/CBMi4wNBVV95cUxNZHZENElyMExYMWdJNUNiSG1NbHl1dTY2UFdmME1DZUc2cFRSMktpcjhMc0gycmNveGRLbDRkZ0swYlhlRjRFeXJCODh3X0p4Y25qYU9rNGtnYjZDMkp5Sm0zcWFmdC05d1dfSXBXTnlHMl9PRlp4LTBKNWY4dkVLZ1RlWlRsc2RyYjlpYUpXS2pTTUNyT2xsQlZxSDhoeDZTSUhhTHdZQ25Fa3Z1N2pCNFBRRnJINS1yRE5qZkR6Q3YxTHc0WEIxS3JZUUxGdzZGeGJwVlk4WjRWdDFxOUU0c0MydGkwLXIzUDBCRFdhdmEwa08yVGlEMG9ST0ViQkdNNThsUHM3ajVpLTUzaTB1S2N1Q0xMQXJYd0JqTWxpSTZ4QmdqeTNCZ0liRV9TSkJnZU9GcmJEUThZbGIxYVd6cHRZeFplWUdTTkhKWkNQYWdRRUtOZnBienVaRlhkbTU2VFVnZlg0dmdhc3ZsVmdXV1A0bXhRUzRMQ2NWRHZUVU9MNUJVRS1xQVB4ejcwQ2JUNGVWMG53UWJ6b2ZpaFZqR1Zpd295eGpLVEd5LTEyd2ZnckEyTEtqVWN2bnN5bnNHUE5lYzZESndVak9pS3hWQ0gtTXMzYjZ2YjJHbk1lS2RUZXM?oc=5>
 
-### 特朗普宣布2026再度访华计划
+### 特朗普：斯塔默将辞去英国首相职务
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-06-21 14:31
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE44LUZVVlJDay1Mcm1ibmZRTHFTVEIyYS1MN2x6Uk5Oa2tuQk9YM2dkbTdwWGptd1RwNzdkVmhveDk0Z0k3N3lzV0s4d191bFRTcURCX1NuNU1SaHhGcDFnLUpleGtoQQ?oc=5>
+
+### 特朗普政策，重伤日本车企
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-06-22 02:39
+- 链接: <https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNVl5a3BldmVVXzJua0N4M0dVOEFpYlg3eUZ6N21EUFZaeEdod0FCTkdoQTJPcGZ0dV9JREViWjU5UXpGYnhXdmtwek5qS184a2NTSHV4RTk2M0pOUFlkNXpaVS1rRlRmT1ZPTmV5dHJGbzFvcTQtdHhhcV93cE9PbFk0U25hcWlmVlh6UEQxLTlpVkVTcjRfU2ZLSTBTWFBVUTFfcTdYYWZwazFnbUx0Q2c2ZDlBNU9LTnVnNG55RTE0R2NHbE5KYm9uLTEwYnVzZERCY2lSZ1ZURi13a1k5VEJpZXFod2NFeGc?oc=5>
+
+### 美国与伊朗正式签署协议 包含哪些内容？
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: SBS Australia
-- 时间: 2026-06-22 00:05
-- 链接: <https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQm1NMWduUFJndWhXUlQ1aTY0d3U5WXNPUGdwNERpMll0aE5sTGpPWnhaaEZPMzZQRTNyajRGbW9XcDd2Mk4wNkw1RXVkVlRGT3RBZ0VoWWpwX0pSdnEwUFdndl9yMVpUaUhEd1I4X1hEUWp6aGZRcDhMNi02Ulg2UUxKUWhaMFJmVXNWZFdMak5LSFdGZ3VYVVlkcGp1cjlEY2lSWGUxTk1KTnN0RjdYUmVpRzIzY2RhaUl0dWN2STV2UQ?oc=5>
+- 场馆: BBC
+- 时间: 2026-06-18 06:22
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJbXdDQlNEdXVXcVk2TFdoZ216WjBPTmgxSGpxemlxcjlXcDdPYUtlUzB0UTFfc0ktSTBmQjZGd2hkZ0l0b0JaeGxDS3VsWFhTTGcwakFtajBsMXNYdVNPdGd6eEY1UQ?oc=5>
 
-### 金价下跌，因特朗普重申对伊朗发动打击的威胁
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-06-22 01:31
-- 链接: <https://news.google.com/rss/articles/CBMilwFBVV95cUxPSlZIbVRVZTZFYS03eW9ObUxENER5NzhlUGx0eW1tNzJLcmhBdzhBTWo2T2FLcXFyckluNV9Zd1JIaFJyMWpGRDN4MXRzR2pLWDlpTVB5cEtnb1lwbENKS1hlX2ozN3FSLU5RSXY4aVBiZ2c1V2FCblN0STUtSTlLOHJCaFlkbmc1QllKRC1BUWVmeTdySEFz?oc=5>
-
-### 美伊在瑞士举行会谈，特朗普威胁伊朗
+### 基尔·斯塔默所受“逼宫”压力倍增 英国首相在考虑其政治前途
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-06-22 01:25
-- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxQWU5BUDhxQS15Szkzb0VlUVphc3RVQWVRS28zc1dlQlFEalIxM25rNFBSLUU3cmFCdEtEbENyMkZhbkRUclhqWXMzMHRyVnB3Z1FER19WSlpHUElHM05GNjR3c0pIV2NxRTlLWl9kblZxT0Ftd1VQZmxWZC1DeExMRG05aGxTNHJWMS1FYzVRV0VtVXlXZEFJbVVEXzJpVGJC?oc=5>
+- 场馆: BBC
+- 时间: 2026-06-22 02:34
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yMXRIRGUzOVppTXhsc3d1OGc4NlNNYklEc0pvd2FRTHpLVnZ0MF9GZ3lKTUdfekxCSE12TUI4TkpBaUZqNVRZaWt4TGc5TXFhNzhBTmhRR204eEFnUGh4cm9iTFJZd9IBa0FVX3lxTE5DSnljUGVXNy04Y19zcGpvNUFMUHliOER3Um8talBqOHNiZTVMVFQ5TjNueEJhYjI2MDNDQ3BfRkZVd1BWUFRzM05VOWdpR1N3RUZ1LXRMS2xldHpya1BYSTB4eWI0cEVrVS1V?oc=5>
+
+### 国家情报总监提名被搁置：克莱顿沦为特朗普与国会博弈的棋子
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-06-22 04:27
+- 链接: <https://news.google.com/rss/articles/CBMipAFBVV95cUxOeHc0WWxySjBoS25YTng3TUVhYmtWZE1Ja09UZWFVYUk0UkhuOVlUNkRzNjZNMTRSeV9JUkpIQXpIRF9fOVlCajJNZmdrWkVQNTdTRXhrX1UxRFJ5bUc3RTdZY3h4ZHVmTlM0ZVVISUI1Slc5aGduTXQ3Nm9ERWNsUktwdEJZckVKTHh4ckhUWDFIRDBwTG5zQWFkd25NRzQ4TW52RQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-22 07:32  (12 条)
+
+- **王一博** | 王一博《未来我来》MV发布，湟鱼洄游画面同步呈现 <https://k.sina.com.cn/article_7879923704_m1d5ae17f803301tmrg.html>
+- **周杰伦** | vivo千台演唱会神器0.01元租，直拍周杰伦现场 <https://k.sina.com.cn/article_2774365937_a55d76f104001hv92.html>
+- **周杰伦** | TOP登陆少年组合青岛连开四天演唱会，周杰伦张韶涵陈粒官宣在即 <https://k.sina.com.cn/article_7096020439_1a6f4add706801s5so.html>
+- **周杰伦** | 周杰伦新歌《女儿殿下》MV上线、两女儿同框出镜 <https://k.sina.com.cn/article_7857201851_v1d45362bb06801eczk.html>
+- **特朗普** | 打了三个来月几乎白干？特朗普急死了-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE1GOUgwSHBPbUhJYWlUYnJ5dEJVX09xYTBZOHR3RDBBTjhwckRxNU5lRFNDVVI4MkVZaVdPQ3U0bVBqTHRTbUQtLU5qcVR1NExMTTEtZzF3ZTJfOHBDbkJnSmhiWmZRa1ZpN3c?oc=5>
+- **特朗普** | 四面楚歌！英国首相据传要下台 特朗普已抢先宣布辞职消息 <https://news.google.com/rss/articles/CBMiSEFVX3lxTE9LZ1FLejEwVW9CREhKYWVwWTIweXZETkxpMms0STlIT09VODd5OEpGdy0yUDExSHFWWHpoX0Z2MlNkUTc2QzRwYw?oc=5>
+- **特朗普** | 特朗普默认"斯塔默辞职"成事实，在社交平台公开送去祝福：“我祝他一切顺利！” <https://news.google.com/rss/articles/CBMi4wNBVV95cUxNZHZENElyMExYMWdJNUNiSG1NbHl1dTY2UFdmME1DZUc2cFRSMktpcjhMc0gycmNveGRLbDRkZ0swYlhlRjRFeXJCODh3X0p4Y25qYU9rNGtnYjZDMkp5Sm0zcWFmdC05d1dfSXBXTnlHMl9PRlp4LTBKNWY4dkVLZ1RlWlRsc2RyYjlpYUpXS2pTTUNyT2xsQlZxSDhoeDZTSUhhTHdZQ25Fa3Z1N2pCNFBRRnJINS1yRE5qZkR6Q3YxTHc0WEIxS3JZUUxGdzZGeGJwVlk4WjRWdDFxOUU0c0MydGkwLXIzUDBCRFdhdmEwa08yVGlEMG9ST0ViQkdNNThsUHM3ajVpLTUzaTB1S2N1Q0xMQXJYd0JqTWxpSTZ4QmdqeTNCZ0liRV9TSkJnZU9GcmJEUThZbGIxYVd6cHRZeFplWUdTTkhKWkNQYWdRRUtOZnBienVaRlhkbTU2VFVnZlg0dmdhc3ZsVmdXV1A0bXhRUzRMQ2NWRHZUVU9MNUJVRS1xQVB4ejcwQ2JUNGVWMG53UWJ6b2ZpaFZqR1Zpd295eGpLVEd5LTEyd2ZnckEyTEtqVWN2bnN5bnNHUE5lYzZESndVak9pS3hWQ0gtTXMzYjZ2YjJHbk1lS2RUZXM?oc=5>
+- **特朗普** | 特朗普：斯塔默将辞去英国首相职务 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE44LUZVVlJDay1Mcm1ibmZRTHFTVEIyYS1MN2x6Uk5Oa2tuQk9YM2dkbTdwWGptd1RwNzdkVmhveDk0Z0k3N3lzV0s4d191bFRTcURCX1NuNU1SaHhGcDFnLUpleGtoQQ?oc=5>
+- **特朗普** | 特朗普政策，重伤日本车企 <https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNVl5a3BldmVVXzJua0N4M0dVOEFpYlg3eUZ6N21EUFZaeEdod0FCTkdoQTJPcGZ0dV9JREViWjU5UXpGYnhXdmtwek5qS184a2NTSHV4RTk2M0pOUFlkNXpaVS1rRlRmT1ZPTmV5dHJGbzFvcTQtdHhhcV93cE9PbFk0U25hcWlmVlh6UEQxLTlpVkVTcjRfU2ZLSTBTWFBVUTFfcTdYYWZwazFnbUx0Q2c2ZDlBNU9LTnVnNG55RTE0R2NHbE5KYm9uLTEwYnVzZERCY2lSZ1ZURi13a1k5VEJpZXFod2NFeGc?oc=5>
+- **Trump** | 美国与伊朗正式签署协议 包含哪些内容？ <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJbXdDQlNEdXVXcVk2TFdoZ216WjBPTmgxSGpxemlxcjlXcDdPYUtlUzB0UTFfc0ktSTBmQjZGd2hkZ0l0b0JaeGxDS3VsWFhTTGcwakFtajBsMXNYdVNPdGd6eEY1UQ?oc=5>
+- **Trump** | 基尔·斯塔默所受“逼宫”压力倍增 英国首相在考虑其政治前途 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yMXRIRGUzOVppTXhsc3d1OGc4NlNNYklEc0pvd2FRTHpLVnZ0MF9GZ3lKTUdfekxCSE12TUI4TkpBaUZqNVRZaWt4TGc5TXFhNzhBTmhRR204eEFnUGh4cm9iTFJZd9IBa0FVX3lxTE5DSnljUGVXNy04Y19zcGpvNUFMUHliOER3Um8talBqOHNiZTVMVFQ5TjNueEJhYjI2MDNDQ3BfRkZVd1BWUFRzM05VOWdpR1N3RUZ1LXRMS2xldHpya1BYSTB4eWI0cEVrVS1V?oc=5>
+- **Trump** | 国家情报总监提名被搁置：克莱顿沦为特朗普与国会博弈的棋子 <https://news.google.com/rss/articles/CBMipAFBVV95cUxOeHc0WWxySjBoS25YTng3TUVhYmtWZE1Ja09UZWFVYUk0UkhuOVlUNkRzNjZNMTRSeV9JUkpIQXpIRF9fOVlCajJNZmdrWkVQNTdTRXhrX1UxRFJ5bUc3RTdZY3h4ZHVmTlM0ZVVISUI1Slc5aGduTXQ3Nm9ERWNsUktwdEJZckVKTHh4ckhUWDFIRDBwTG5zQWFkd25NRzQ4TW52RQ?oc=5>
 
 ### 2026-06-22 01:59  (10 条)
 
