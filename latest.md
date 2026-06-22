@@ -1,104 +1,136 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-22 07:32**
-- 本轮扫到 4170 条, 新增 **12** 条
+- 最近更新: **2026-06-22 13:29**
+- 本轮扫到 4185 条, 新增 **15** 条
 
 ---
 
-## 本轮新发现 (12 条)
+## 本轮新发现 (15 条)
 
-### 王一博《未来我来》MV发布，湟鱼洄游画面同步呈现
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923704_m1d5ae17f803301tmrg.html>
-
-### vivo千台演唱会神器0.01元租，直拍周杰伦现场
+### 那些封神级音乐MV大盘点，哪一支让你单曲循环到天明？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2774365937_a55d76f104001hv92.html>
+- 链接: <https://k.sina.com.cn/article_7879924015_m1d5ae192f03301kzjm.html>
 
-### TOP登陆少年组合青岛连开四天演唱会，周杰伦张韶涵陈粒官宣在即
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7096020439_1a6f4add706801s5so.html>
-
-### 周杰伦新歌《女儿殿下》MV上线、两女儿同框出镜
+### vivo X300 Ultra携手周杰伦2026北京演唱会
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201851_v1d45362bb06801eczk.html>
+- 链接: <https://k.sina.com.cn/article_5132930861_131f24f2d04001j42u.html>
 
-### 打了三个来月几乎白干？特朗普急死了-观察者网
+### 周杰伦新歌mv上线，带你走进复古怀旧的氛围
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019076q24.html>
+
+### 除了vivo，华为Pura80/90系列演唱会的拍摄体验如何？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801pr5e.html>
+
+### 除了北京，vivo还会在其他城市的周杰伦演唱会推出类似活动吗？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801pr4y.html>
+
+### vivo X300系列成周杰伦2026龙拳北京演唱会官方合作产品
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5033715227_12c08661b04001arkk.html>
+
+### 周杰伦演唱会千台长焦神器助阵歌迷
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879924004_m1d5ae1924033020gdc.html>
+
+### vivo X300系列官宣为周杰伦2026龙拳演唱会合作神器
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_3825067581_e3fde63d04001x4ae.html>
+
+### 6.27 周杰伦演唱会 ，有换票的嘛
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923674_m1d5ae17da03301gum4.html>
+
+### 特朗普又拿“珍珠港”戳高市早苗肺管子
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-06-22 03:22
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1GOUgwSHBPbUhJYWlUYnJ5dEJVX09xYTBZOHR3RDBBTjhwckRxNU5lRFNDVVI4MkVZaVdPQ3U0bVBqTHRTbUQtLU5qcVR1NExMTTEtZzF3ZTJfOHBDbkJnSmhiWmZRa1ZpN3c?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-06-22 03:43
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1DeG9vV1Y5MWU4YXd0MkpzTGN3amJLb2pscDF0R09UdFZYRE1vbERVWGN6RW1aYktjVjZTN01UYncwc1VEdS1HMzAtUzZHMlliUEFITGxJQVpPX2VpZ1dadVlJUVZERHRSeTVlbWlIeDhJOVNxRjhUOA?oc=5>
 
-### 四面楚歌！英国首相据传要下台 特朗普已抢先宣布辞职消息
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-06-22 01:08
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE9LZ1FLejEwVW9CREhKYWVwWTIweXZETkxpMms0STlIT09VODd5OEpGdy0yUDExSHFWWHpoX0Z2MlNkUTc2QzRwYw?oc=5>
-
-### 特朗普默认"斯塔默辞职"成事实，在社交平台公开送去祝福：“我祝他一切顺利！”
+### 特朗普称林肯纪念堂倒影池遭“蓄意破坏” 多人被捕
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-06-21 17:50
-- 链接: <https://news.google.com/rss/articles/CBMi4wNBVV95cUxNZHZENElyMExYMWdJNUNiSG1NbHl1dTY2UFdmME1DZUc2cFRSMktpcjhMc0gycmNveGRLbDRkZ0swYlhlRjRFeXJCODh3X0p4Y25qYU9rNGtnYjZDMkp5Sm0zcWFmdC05d1dfSXBXTnlHMl9PRlp4LTBKNWY4dkVLZ1RlWlRsc2RyYjlpYUpXS2pTTUNyT2xsQlZxSDhoeDZTSUhhTHdZQ25Fa3Z1N2pCNFBRRnJINS1yRE5qZkR6Q3YxTHc0WEIxS3JZUUxGdzZGeGJwVlk4WjRWdDFxOUU0c0MydGkwLXIzUDBCRFdhdmEwa08yVGlEMG9ST0ViQkdNNThsUHM3ajVpLTUzaTB1S2N1Q0xMQXJYd0JqTWxpSTZ4QmdqeTNCZ0liRV9TSkJnZU9GcmJEUThZbGIxYVd6cHRZeFplWUdTTkhKWkNQYWdRRUtOZnBienVaRlhkbTU2VFVnZlg0dmdhc3ZsVmdXV1A0bXhRUzRMQ2NWRHZUVU9MNUJVRS1xQVB4ejcwQ2JUNGVWMG53UWJ6b2ZpaFZqR1Zpd295eGpLVEd5LTEyd2ZnckEyTEtqVWN2bnN5bnNHUE5lYzZESndVak9pS3hWQ0gtTXMzYjZ2YjJHbk1lS2RUZXM?oc=5>
+- 场馆: 新华网
+- 时间: 2026-06-22 12:23
+- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE95OE1KaXVJbEktN0tqQXBRQVpOTWxEbnlmYkNUUUZQcW1ndFBWaVV2bXJIRTdsS0g2d1k4LXZYUXRoQ2FfNVoza0VOYVM3S2FtVVY4eEJoNmFFa01LRnRQMGROcGJPbnJORW1FZkluYWZCTW9fYTJsdnRBSlVfQQ?oc=5>
 
-### 特朗普：斯塔默将辞去英国首相职务
+### 美方为何提前预告英国首相将辞职 特朗普言论引猜测
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-06-22 09:13
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1wM2RCcjVMNWRJU1dzblVhMUZnc2VYZXVoX29PSVdoeWt4YVZkd1YxeWotOFVhLWh5cnJ0V2tDR0Ytdmd4NFhIMHVSRTAxQ3lyTGhtalBhX0xPaHZMcjRUWnk0ZXZQRkRtTEtwYXlSRHY?oc=5>
+
+### 特朗普：美国或收取中东地区20%的石油收益
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Sina finance
+- 时间: 2026-06-21 23:13
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbHVIeFlxaVpjbTBUVWVqM05zZDMyUnpxSXVtYmFfOVZwa28tUGNLNFljRk9DaTh1YnhKdTlXOXFXXy1DS2g3Um5XR2J5V1pkMXhwN3RzWTVBc04wenpIVjU2UDBKRHZFNkZkaHU3cWRlRTd0NVlicVgxUWJRcDlMZTZmSFk5NGZhcTBJRUZ3VjIzZVYyVUlNaVNFenhyQjI4V002ZmZkMHJzQUk5Y0llZU13TUgwMlVvSDZKOFhBUEl3UUQtN0tvUE5MeTgza2Vj?oc=5>
+
+### 特朗普料成首位任内访广东的美国总统
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 联合早报
-- 时间: 2026-06-21 14:31
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE44LUZVVlJDay1Mcm1ibmZRTHFTVEIyYS1MN2x6Uk5Oa2tuQk9YM2dkbTdwWGptd1RwNzdkVmhveDk0Z0k3N3lzV0s4d191bFRTcURCX1NuNU1SaHhGcDFnLUpleGtoQQ?oc=5>
+- 时间: 2026-06-22 08:02
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBKZE01ck9kNF9Tai0tay1Dd3Q4V0ZEbmYwYUpoMFhJMXlva2taR2Nmb2wzekZGeU1PeHE2c2ZDdTY4VEhYSWlfTWRPOHliTzdjMjhhbDIyYkg0N3YydEN0VWFnWVFaQnVDdXc?oc=5>
 
-### 特朗普政策，重伤日本车企
+### 伊朗代表团暂停伊美谈判 抗议特朗普威胁言论
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-06-22 02:39
-- 链接: <https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNVl5a3BldmVVXzJua0N4M0dVOEFpYlg3eUZ6N21EUFZaeEdod0FCTkdoQTJPcGZ0dV9JREViWjU5UXpGYnhXdmtwek5qS184a2NTSHV4RTk2M0pOUFlkNXpaVS1rRlRmT1ZPTmV5dHJGbzFvcTQtdHhhcV93cE9PbFk0U25hcWlmVlh6UEQxLTlpVkVTcjRfU2ZLSTBTWFBVUTFfcTdYYWZwazFnbUx0Q2c2ZDlBNU9LTnVnNG55RTE0R2NHbE5KYm9uLTEwYnVzZERCY2lSZ1ZURi13a1k5VEJpZXFod2NFeGc?oc=5>
-
-### 美国与伊朗正式签署协议 包含哪些内容？
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-06-18 06:22
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJbXdDQlNEdXVXcVk2TFdoZ216WjBPTmgxSGpxemlxcjlXcDdPYUtlUzB0UTFfc0ktSTBmQjZGd2hkZ0l0b0JaeGxDS3VsWFhTTGcwakFtajBsMXNYdVNPdGd6eEY1UQ?oc=5>
-
-### 基尔·斯塔默所受“逼宫”压力倍增 英国首相在考虑其政治前途
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-06-22 02:34
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yMXRIRGUzOVppTXhsc3d1OGc4NlNNYklEc0pvd2FRTHpLVnZ0MF9GZ3lKTUdfekxCSE12TUI4TkpBaUZqNVRZaWt4TGc5TXFhNzhBTmhRR204eEFnUGh4cm9iTFJZd9IBa0FVX3lxTE5DSnljUGVXNy04Y19zcGpvNUFMUHliOER3Um8talBqOHNiZTVMVFQ5TjNueEJhYjI2MDNDQ3BfRkZVd1BWUFRzM05VOWdpR1N3RUZ1LXRMS2xldHpya1BYSTB4eWI0cEVrVS1V?oc=5>
-
-### 国家情报总监提名被搁置：克莱顿沦为特朗普与国会博弈的棋子
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-06-22 04:27
-- 链接: <https://news.google.com/rss/articles/CBMipAFBVV95cUxOeHc0WWxySjBoS25YTng3TUVhYmtWZE1Ja09UZWFVYUk0UkhuOVlUNkRzNjZNMTRSeV9JUkpIQXpIRF9fOVlCajJNZmdrWkVQNTdTRXhrX1UxRFJ5bUc3RTdZY3h4ZHVmTlM0ZVVISUI1Slc5aGduTXQ3Nm9ERWNsUktwdEJZckVKTHh4ckhUWDFIRDBwTG5zQWFkd25NRzQ4TW52RQ?oc=5>
+- 场馆: 新华网
+- 时间: 2026-06-22 00:28
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE5sWTc5Q0o1Mjk4a0RyS2pHeTlmaU5fQ2FvTDhNS2hMMEhJSG9nTEJGUlNRbDN4Q1ZCaldIVE1LVy1xV2ZnNXhlTkVJMDN0aWJWSGh5bU9TaUFHcmhQWEhlZW1raXcxVFZCdnJkcFdwenFrOUpubE5GVDJqTEllb0E?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-22 13:29  (15 条)
+
+- **周杰伦** | 那些封神级音乐MV大盘点，哪一支让你单曲循环到天明？ <https://k.sina.com.cn/article_7879924015_m1d5ae192f03301kzjm.html>
+- **周杰伦** | vivo X300 Ultra携手周杰伦2026北京演唱会 <https://k.sina.com.cn/article_5132930861_131f24f2d04001j42u.html>
+- **周杰伦** | 周杰伦新歌mv上线，带你走进复古怀旧的氛围 <https://k.sina.com.cn/article_7857201856_1d45362c0019076q24.html>
+- **周杰伦** | 除了vivo，华为Pura80/90系列演唱会的拍摄体验如何？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801pr5e.html>
+- **周杰伦** | 除了北京，vivo还会在其他城市的周杰伦演唱会推出类似活动吗？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801pr4y.html>
+- **周杰伦** | vivo X300系列成周杰伦2026龙拳北京演唱会官方合作产品 <https://k.sina.com.cn/article_5033715227_12c08661b04001arkk.html>
+- **周杰伦** | 周杰伦演唱会千台长焦神器助阵歌迷 <https://k.sina.com.cn/article_7879924004_m1d5ae1924033020gdc.html>
+- **周杰伦** | vivo X300系列官宣为周杰伦2026龙拳演唱会合作神器 <https://k.sina.com.cn/article_3825067581_e3fde63d04001x4ae.html>
+- **周杰伦** | 6.27 周杰伦演唱会 ，有换票的嘛 <https://k.sina.com.cn/article_7879923674_m1d5ae17da03301gum4.html>
+- **特朗普** | 特朗普又拿“珍珠港”戳高市早苗肺管子 <https://news.google.com/rss/articles/CBMieEFVX3lxTE1DeG9vV1Y5MWU4YXd0MkpzTGN3amJLb2pscDF0R09UdFZYRE1vbERVWGN6RW1aYktjVjZTN01UYncwc1VEdS1HMzAtUzZHMlliUEFITGxJQVpPX2VpZ1dadVlJUVZERHRSeTVlbWlIeDhJOVNxRjhUOA?oc=5>
+- **特朗普** | 特朗普称林肯纪念堂倒影池遭“蓄意破坏” 多人被捕 <https://news.google.com/rss/articles/CBMifkFVX3lxTE95OE1KaXVJbEktN0tqQXBRQVpOTWxEbnlmYkNUUUZQcW1ndFBWaVV2bXJIRTdsS0g2d1k4LXZYUXRoQ2FfNVoza0VOYVM3S2FtVVY4eEJoNmFFa01LRnRQMGROcGJPbnJORW1FZkluYWZCTW9fYTJsdnRBSlVfQQ?oc=5>
+- **特朗普** | 美方为何提前预告英国首相将辞职 特朗普言论引猜测 <https://news.google.com/rss/articles/CBMicEFVX3lxTE1wM2RCcjVMNWRJU1dzblVhMUZnc2VYZXVoX29PSVdoeWt4YVZkd1YxeWotOFVhLWh5cnJ0V2tDR0Ytdmd4NFhIMHVSRTAxQ3lyTGhtalBhX0xPaHZMcjRUWnk0ZXZQRkRtTEtwYXlSRHY?oc=5>
+- **特朗普** | 特朗普：美国或收取中东地区20%的石油收益 <https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbHVIeFlxaVpjbTBUVWVqM05zZDMyUnpxSXVtYmFfOVZwa28tUGNLNFljRk9DaTh1YnhKdTlXOXFXXy1DS2g3Um5XR2J5V1pkMXhwN3RzWTVBc04wenpIVjU2UDBKRHZFNkZkaHU3cWRlRTd0NVlicVgxUWJRcDlMZTZmSFk5NGZhcTBJRUZ3VjIzZVYyVUlNaVNFenhyQjI4V002ZmZkMHJzQUk5Y0llZU13TUgwMlVvSDZKOFhBUEl3UUQtN0tvUE5MeTgza2Vj?oc=5>
+- **特朗普** | 特朗普料成首位任内访广东的美国总统 <https://news.google.com/rss/articles/CBMiakFVX3lxTFBKZE01ck9kNF9Tai0tay1Dd3Q4V0ZEbmYwYUpoMFhJMXlva2taR2Nmb2wzekZGeU1PeHE2c2ZDdTY4VEhYSWlfTWRPOHliTzdjMjhhbDIyYkg0N3YydEN0VWFnWVFaQnVDdXc?oc=5>
+- **特朗普** | 伊朗代表团暂停伊美谈判 抗议特朗普威胁言论 <https://news.google.com/rss/articles/CBMif0FVX3lxTE5sWTc5Q0o1Mjk4a0RyS2pHeTlmaU5fQ2FvTDhNS2hMMEhJSG9nTEJGUlNRbDN4Q1ZCaldIVE1LVy1xV2ZnNXhlTkVJMDN0aWJWSGh5bU9TaUFHcmhQWEhlZW1raXcxVFZCdnJkcFdwenFrOUpubE5GVDJqTEllb0E?oc=5>
 
 ### 2026-06-22 07:32  (12 条)
 
