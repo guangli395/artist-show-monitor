@@ -1,70 +1,44 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-22 21:19**
-- 本轮扫到 4202 条, 新增 **7** 条
+- 最近更新: **2026-06-22 23:00**
+- 本轮扫到 4205 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (3 条)
 
-### 蔡徐坤工作室在这次时装周前发布了哪些预热物料？
+### 蔡徐坤的卷毛新造型和2018年深圳演唱会造型有哪些相似之处？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801pw3o.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801pwps.html>
 
-### 英国首相斯塔默宣布辞职 特朗普曾发帖预告：斯塔默将辞职，祝他安好
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-06-22 10:44
-- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxQWmhfcVhxVGNXT2lYbTdIQ254TEd4TFhDSXlNNGhNU3lRbHcySlZ0ckJ5SFRTQWRQSld3ZlVlR2hFbWloYm5xa2MtRzJJM3l6dld6YkxhYmVQa1dVbUhZVWxuWEpLbG83bTVVdkVHbm5KejBqTlZTdWZleTc2a1lqMXEyVVRRbmM0NWtzaGxGbUc2cU9z?oc=5>
-
-### 61%美国农民反对特朗普政策：每天工作16小时，年底还得借钱缴税
+### 特朗普“抢发”斯塔默辞职消息
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-06-22 05:02
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFA3cDdqX2EwV0tGc1FhYUpuVWc2eXJTcFl5VGFFRzRsbURSdF9VWGVzMWN2R2gtX0JJc2YySlJJdTlZb1hDd2J5YWlqaXV5eEVkbjJJaFd1bXF4RlJDQzBSVXlMeGNmVWNYSlBCSmFqSnI?oc=5>
+- 场馆: 新华网
+- 时间: 2026-06-22 13:58
+- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE83RURCZnNMcE1JVjIzU29oNFpLX0ZnQTkwbWM4TmppOGdCZVd2ME9HMHUxN21NTTMxZ3ZROTlQNElzTWotdHB6RTdPSUhBLUwxLU9sb0RIOVNyODZ6SGQ0RnVqeWNMVV9MT3d5RUd3M21neWlVUzZrNFNTZVhBQQ?oc=5>
 
-### 特朗普料成首位任内访广东的美国总统
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-06-22 08:02
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFB1eTF1RXMzLTQ4TnkySVNRaVN1b1N3OElLcDlFVVpPeF9BUjlxdnVWSmd5eFBpbTJJM0lHb3lUNThXeHpFb19YakxCWGJ1SjNCaGhDakNzRFdOTnRMTlduSjRpc2hndw?oc=5>
-
-### 特朗普为什么一定要把自己印上250美元纸币？
+### 意大利总理回击特朗普批评：应关注自身支持率
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 文学城
-- 时间: 2026-06-21 19:53
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5FX0VCYjA0WENDMWd2dGhfTVVRakVSZk5laHVlcEJDN0xDR3gzV3lFZ2VWQVdKR2RQbkQ0TG9rQXZVZ1dPQnNRMEUtNENISklSMFBNSnJTWkYxZWdPajR6aG1LTy1qQVZB?oc=5>
-
-### 华盛顿反思池变“绿池” 特朗普促即刻修复
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-06-22 12:27
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5HQlNBdHJnSUhmYTNFWktfdW1BeUh1Wldqci12bUx4SF9RdTczM01fZHlDSnR1ZGxad0dnRm9HdVpRUGlMbUlnM0RtSTJ1YS1rc1NPaE5JdTdqYVUzUHFCbVIzbUVKeXBvYlE?oc=5>
-
-### 特朗普总统：伊朗将同意长期接受核检查
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-06-22 19:47
-- 链接: <https://news.google.com/rss/articles/CBMivAFBVV95cUxNdElaVmZKZmFlZ0pVMHo0a25WMmd5Rm15QmdHajZQaXhHb2xhcWtsYlpxUGdIcE9IR1NHNFJtcHdrb3NmSTRZWlR3dDlNaGFfQ0txTEVSUC1uS3ZyYTBnTGVkaWFpTXJuVHVUZldmN2tTTGlzeTFmOGd2U2t5cHdybm00aVhSY1hrbF90Z2E0bjRTUFAxeHRkR3NGdWJMZzFLY3hfQmlsRTN0T1FHZVQtOUFBd3FzcHJIWERTStIBvwFBVV95cUxPdl8zWkpSeFFsY2hSUHNuLVBLNjdCd0o2bDdvSXI1RGxYNFVFUEtOa19ZOU1nV0d3S3FnN2lLNVR5Z3V4Y0ppNHNRdjhZTFo2X0FKNzFWS2RkVjhyQ2N2MXNHQndmd3RsWmp5ZG5ZR0QzNG5FQW95SEdyZFY4QldLdExOYUtldktUOUxzQVhSLXZpejZ5cmxtc1Fha0hveXBZSjVycXktN3prZ1NoU0JKbm9YV0RKRFVLUUw0a0JRdw?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-06-20 17:03
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5RWUo3bkdQUTFuX1dnbXpWcDNQb2tsRjNoU3dzaXMyQmhEU0lxWDhNOFR6V0c3a1JGUEQ1TzBNd3IwX2NnOVhWV25ZNTU?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-22 23:00  (3 条)
+
+- **蔡徐坤** | 蔡徐坤的卷毛新造型和2018年深圳演唱会造型有哪些相似之处？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801pwps.html>
+- **特朗普** | 特朗普“抢发”斯塔默辞职消息 <https://news.google.com/rss/articles/CBMifkFVX3lxTE83RURCZnNMcE1JVjIzU29oNFpLX0ZnQTkwbWM4TmppOGdCZVd2ME9HMHUxN21NTTMxZ3ZROTlQNElzTWotdHB6RTdPSUhBLUwxLU9sb0RIOVNyODZ6SGQ0RnVqeWNMVV9MT3d5RUd3M21neWlVUzZrNFNTZVhBQQ?oc=5>
+- **特朗普** | 意大利总理回击特朗普批评：应关注自身支持率 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5RWUo3bkdQUTFuX1dnbXpWcDNQb2tsRjNoU3dzaXMyQmhEU0lxWDhNOFR6V0c3a1JGUEQ1TzBNd3IwX2NnOVhWV25ZNTU?oc=5>
 
 ### 2026-06-22 21:19  (7 条)
 
