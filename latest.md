@@ -1,56 +1,105 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-21 23:05**
-- 本轮扫到 4148 条, 新增 **5** 条
+- 最近更新: **2026-06-22 01:59**
+- 本轮扫到 4158 条, 新增 **10** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (10 条)
 
-### 伊朗代表团突然暂停谈判，以抗议美国总统特朗普当天对伊朗发出的威胁言论
+### 周杰伦2026青岛演唱会审批通过!国庆三天连唱,八年等待终于成真
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: Sina finance
-- 时间: 2026-06-21 22:30
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE1aNG84LW9ZSkR6UWtsUU8tZlZCSFhraWNRU1I5cWh2bXhFZGR2V3hiSVFUeF9ienJxbXhSNDE0S3RMaUZLM1FwOFV4Q3pPZ0JhSXIxYVM3N056b0NzMzhnb3VaWmhrVkFja044ejY2S0xHVXNKdnc?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c00190765ls.html>
 
-### 6月22日周末要闻：美伊谈判暂停 伊朗指责特朗普 油价上涨
+### 王嘉尔、张靓颖演唱会定档南京！
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-21 22:56
-- 链接: <https://news.google.com/rss/articles/CBMinwJBVV95cUxNSGpubVZldmw4dllBc3BwRVBaX3YxS1R6TE5jRHhMWVM5NldSZ0xid2tBYTNDZWxUc1VVcEE1cU1LM09kNEN0Q3pQa3RaV1hKX3FEOG54ZjNCa0NQTDlzMzZOLXoyeHBubm1rcUZjMXdLejUwNkh6VmhQVWpwSXhmb090N3NfYlF3VHM3bFRWbHZ6TnV4d3Z5WnVYN0pFQnhGZkNlc2J6VjdubDE3UWQxUkZ5RXp3a1hvMUE4eHl1aFlmV0ZiWHdpVEZsWUVDU1U4U0RJVkJnTUQ5ZzlmaDFGTm42QmF6a1RGeE81dG9HdzdwNGlzUUxIRVdNRXFZMTVzbVF4UGlLZC1aN3V6OE5EMW1tTWs1VzJ4TkJWa0lBdw?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://finance.sina.com.cn/wm/2026-06-22/doc-iniefqsa0434834.shtml>
 
-### 特朗普：美国或收取中东地区20%的石油收益
+### 伊朗代表团暂停伊美谈判 抗议特朗普威胁言论
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-06-21 14:42
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBJeFE0SERLd1FRQ0Q0ZENtMTBSaUpHZWMyVlNNTVg1S3c3SUJFRmhUcGUzUHdqZ0NyNU53b2RzdVNCTEtBNlhvOHgzT2V3Y0xHZ2RKTUF5Vm5QNURRMFJtemdEUXk?oc=5>
+- 场馆: 中国日报网
+- 时间: 2026-06-22 00:45
+- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTE5vY2dfOThnSmpwcmtzNmRQWlc3RkhBYmthYmVEcUszQVdETkZZdmlwN0FONXJqQmJVTDZYM1VzQnZobFl4enkyZF9RWnItck9IczgyendWb0swc1dCYkZ6VkxZaFJ5X3dWR0hSTV9ja3hsUm5ETUdOeWVkMA?oc=5>
 
-### 谈判暂停，伊朗：霍尔木兹海峡仍关闭；特朗普：美国或收取中东地区20%的石油收益；国际油价大涨；世界杯西班牙4-0沙特丨每经早参
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 每日经济新闻
-- 时间: 2026-06-21 22:39
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VZUE1ZVRqQWlTb003UHJaTFNjdnRHZDNuaW1TNzdSZllRUGxtcTViTkl6dEVaNHM2dk5la0gwcGhERVB1aDhJbGo5b0R0NW5yNXpFcW90MmFPTmI4QVFCbWtNdXVNdw?oc=5>
-
-### 美伊会谈之际 特朗普威胁伊朗
+### 新华社消息丨伊朗代表团暂停伊美谈判 抗议特朗普威胁言论
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-06-21 14:00
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFB1OUFKNldJdTBGeGRmUDJoRktHSm51U1U3SUxiZmtDSHBkRGNFYzg4bDA5bk52QXBrRDRkN3BpZS1TY1RuZHUzWmxPaWtuMGxEZ0JpY1k4NFdjeWpqcWp3TDQ3WGNtNTZo?oc=5>
+- 场馆: 新华网
+- 时间: 2026-06-22 01:36
+- 链接: <https://news.google.com/rss/articles/CBMid0FVX3lxTE40MElFbUwxNGRzcmRFczViNzdfV1hVaWNtSFk5QlZRMGxFem10ZEIzeHRiZ21EX2dvWk9FWnVHZklReTExTjVrM3dxNnZuV09EaGtVUEhibktzVTNDTWVqRkh4ZzN2cmlTRkFmZUVzT1U0VmlrN0l3?oc=5>
+
+### 距离美国“250周年国庆”还有两周，特朗普如何给市场放烟花？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-06-22 00:31
+- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE1MV0s2cEw0QWI2NkMyTkpXTjBfUXA5MDllUjlnbzJPRkcyTkZmNjFPQ2o3TUZWLTlSdVZfeXAxSkd4SVpYMFZRWF9selpzZTBJ?oc=5>
+
+### 美称或收取中东地区石油收益 特朗普威胁征收通行费
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-06-22 00:41
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE96RkZlM1FKWmgzVVo3c3VXWW1zeTJBM1VrV04talo3cTJCOVVXRU5WRTNwbGRyWkF1dFRuTVJqbTNFaVFlaHlxU3JMNXpQWlhtSDJwZlctczlFaVg0TnNsYkdUdUdBNWhqWUhwbjcxbUI?oc=5>
+
+### 伊朗代表团暂停伊美谈判抗议特朗普威胁言论--国际
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 人民网
+- 时间: 2026-06-22 01:29
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE0tSG9GMnNWMVlQTWV0NV9GdHhubjlzcWhkWnBDc0VzRVBCNXFzMWxDMk8yRkg4T3hUYUtoNHlCQnhUemJMdVpRZTRwN0NrOTlDTjBhZm1MRzV5MFJfaFRNZzVVRFVQM3FHQmxJ?oc=5>
+
+### 特朗普宣布2026再度访华计划
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: SBS Australia
+- 时间: 2026-06-22 00:05
+- 链接: <https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQm1NMWduUFJndWhXUlQ1aTY0d3U5WXNPUGdwNERpMll0aE5sTGpPWnhaaEZPMzZQRTNyajRGbW9XcDd2Mk4wNkw1RXVkVlRGT3RBZ0VoWWpwX0pSdnEwUFdndl9yMVpUaUhEd1I4X1hEUWp6aGZRcDhMNi02Ulg2UUxKUWhaMFJmVXNWZFdMak5LSFdGZ3VYVVlkcGp1cjlEY2lSWGUxTk1KTnN0RjdYUmVpRzIzY2RhaUl0dWN2STV2UQ?oc=5>
+
+### 金价下跌，因特朗普重申对伊朗发动打击的威胁
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-06-22 01:31
+- 链接: <https://news.google.com/rss/articles/CBMilwFBVV95cUxPSlZIbVRVZTZFYS03eW9ObUxENER5NzhlUGx0eW1tNzJLcmhBdzhBTWo2T2FLcXFyckluNV9Zd1JIaFJyMWpGRDN4MXRzR2pLWDlpTVB5cEtnb1lwbENKS1hlX2ozN3FSLU5RSXY4aVBiZ2c1V2FCblN0STUtSTlLOHJCaFlkbmc1QllKRC1BUWVmeTdySEFz?oc=5>
+
+### 美伊在瑞士举行会谈，特朗普威胁伊朗
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-06-22 01:25
+- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxQWU5BUDhxQS15Szkzb0VlUVphc3RVQWVRS28zc1dlQlFEalIxM25rNFBSLUU3cmFCdEtEbENyMkZhbkRUclhqWXMzMHRyVnB3Z1FER19WSlpHUElHM05GNjR3c0pIV2NxRTlLWl9kblZxT0Ftd1VQZmxWZC1DeExMRG05aGxTNHJWMS1FYzVRV0VtVXlXZEFJbVVEXzJpVGJC?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-22 01:59  (10 条)
+
+- **周杰伦** | 周杰伦2026青岛演唱会审批通过!国庆三天连唱,八年等待终于成真 <https://k.sina.com.cn/article_7857201856_1d45362c00190765ls.html>
+- **周杰伦** | 王嘉尔、张靓颖演唱会定档南京！ <https://finance.sina.com.cn/wm/2026-06-22/doc-iniefqsa0434834.shtml>
+- **特朗普** | 伊朗代表团暂停伊美谈判 抗议特朗普威胁言论 <https://news.google.com/rss/articles/CBMie0FVX3lxTE5vY2dfOThnSmpwcmtzNmRQWlc3RkhBYmthYmVEcUszQVdETkZZdmlwN0FONXJqQmJVTDZYM1VzQnZobFl4enkyZF9RWnItck9IczgyendWb0swc1dCYkZ6VkxZaFJ5X3dWR0hSTV9ja3hsUm5ETUdOeWVkMA?oc=5>
+- **特朗普** | 新华社消息丨伊朗代表团暂停伊美谈判 抗议特朗普威胁言论 <https://news.google.com/rss/articles/CBMid0FVX3lxTE40MElFbUwxNGRzcmRFczViNzdfV1hVaWNtSFk5QlZRMGxFem10ZEIzeHRiZ21EX2dvWk9FWnVHZklReTExTjVrM3dxNnZuV09EaGtVUEhibktzVTNDTWVqRkh4ZzN2cmlTRkFmZUVzT1U0VmlrN0l3?oc=5>
+- **特朗普** | 距离美国“250周年国庆”还有两周，特朗普如何给市场放烟花？ <https://news.google.com/rss/articles/CBMiUEFVX3lxTE1MV0s2cEw0QWI2NkMyTkpXTjBfUXA5MDllUjlnbzJPRkcyTkZmNjFPQ2o3TUZWLTlSdVZfeXAxSkd4SVpYMFZRWF9selpzZTBJ?oc=5>
+- **特朗普** | 美称或收取中东地区石油收益 特朗普威胁征收通行费 <https://news.google.com/rss/articles/CBMicEFVX3lxTE96RkZlM1FKWmgzVVo3c3VXWW1zeTJBM1VrV04talo3cTJCOVVXRU5WRTNwbGRyWkF1dFRuTVJqbTNFaVFlaHlxU3JMNXpQWlhtSDJwZlctczlFaVg0TnNsYkdUdUdBNWhqWUhwbjcxbUI?oc=5>
+- **特朗普** | 伊朗代表团暂停伊美谈判抗议特朗普威胁言论--国际 <https://news.google.com/rss/articles/CBMia0FVX3lxTE0tSG9GMnNWMVlQTWV0NV9GdHhubjlzcWhkWnBDc0VzRVBCNXFzMWxDMk8yRkg4T3hUYUtoNHlCQnhUemJMdVpRZTRwN0NrOTlDTjBhZm1MRzV5MFJfaFRNZzVVRFVQM3FHQmxJ?oc=5>
+- **Trump** | 特朗普宣布2026再度访华计划 <https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQm1NMWduUFJndWhXUlQ1aTY0d3U5WXNPUGdwNERpMll0aE5sTGpPWnhaaEZPMzZQRTNyajRGbW9XcDd2Mk4wNkw1RXVkVlRGT3RBZ0VoWWpwX0pSdnEwUFdndl9yMVpUaUhEd1I4X1hEUWp6aGZRcDhMNi02Ulg2UUxKUWhaMFJmVXNWZFdMak5LSFdGZ3VYVVlkcGp1cjlEY2lSWGUxTk1KTnN0RjdYUmVpRzIzY2RhaUl0dWN2STV2UQ?oc=5>
+- **Trump** | 金价下跌，因特朗普重申对伊朗发动打击的威胁 <https://news.google.com/rss/articles/CBMilwFBVV95cUxPSlZIbVRVZTZFYS03eW9ObUxENER5NzhlUGx0eW1tNzJLcmhBdzhBTWo2T2FLcXFyckluNV9Zd1JIaFJyMWpGRDN4MXRzR2pLWDlpTVB5cEtnb1lwbENKS1hlX2ozN3FSLU5RSXY4aVBiZ2c1V2FCblN0STUtSTlLOHJCaFlkbmc1QllKRC1BUWVmeTdySEFz?oc=5>
+- **Trump** | 美伊在瑞士举行会谈，特朗普威胁伊朗 <https://news.google.com/rss/articles/CBMioAFBVV95cUxQWU5BUDhxQS15Szkzb0VlUVphc3RVQWVRS28zc1dlQlFEalIxM25rNFBSLUU3cmFCdEtEbENyMkZhbkRUclhqWXMzMHRyVnB3Z1FER19WSlpHUElHM05GNjR3c0pIV2NxRTlLWl9kblZxT0Ftd1VQZmxWZC1DeExMRG05aGxTNHJWMS1FYzVRV0VtVXlXZEFJbVVEXzJpVGJC?oc=5>
 
 ### 2026-06-21 23:05  (5 条)
 
