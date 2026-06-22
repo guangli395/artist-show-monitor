@@ -1,118 +1,105 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-22 13:29**
-- 本轮扫到 4185 条, 新增 **15** 条
+- 最近更新: **2026-06-22 18:04**
+- 本轮扫到 4195 条, 新增 **10** 条
 
 ---
 
-## 本轮新发现 (15 条)
+## 本轮新发现 (10 条)
 
-### 那些封神级音乐MV大盘点，哪一支让你单曲循环到天明？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924015_m1d5ae192f03301kzjm.html>
-
-### vivo X300 Ultra携手周杰伦2026北京演唱会
+### 周杰伦演唱会千台高清神器助力歌迷拍摄
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5132930861_131f24f2d04001j42u.html>
+- 链接: <https://k.sina.com.cn/article_7879923973_m1d5ae1905033020hao.html>
 
-### 周杰伦新歌mv上线，带你走进复古怀旧的氛围
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019076q24.html>
-
-### 除了vivo，华为Pura80/90系列演唱会的拍摄体验如何？
+### vivo X300 Ultra用户无缘鸟巢周杰伦演唱会
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801pr5e.html>
+- 链接: <https://k.sina.com.cn/article_1870795791_6f82140f04003hrly.html>
 
-### 除了北京，vivo还会在其他城市的周杰伦演唱会推出类似活动吗？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801pr4y.html>
-
-### vivo X300系列成周杰伦2026龙拳北京演唱会官方合作产品
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5033715227_12c08661b04001arkk.html>
-
-### 周杰伦演唱会千台长焦神器助阵歌迷
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924004_m1d5ae1924033020gdc.html>
-
-### vivo X300系列官宣为周杰伦2026龙拳演唱会合作神器
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_3825067581_e3fde63d04001x4ae.html>
-
-### 6.27 周杰伦演唱会 ，有换票的嘛
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923674_m1d5ae17da03301gum4.html>
-
-### 特朗普又拿“珍珠港”戳高市早苗肺管子
+### 特朗普批梅洛尼拒应对伊朗问题，称美国保护意大利数十年
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-06-22 03:43
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1DeG9vV1Y5MWU4YXd0MkpzTGN3amJLb2pscDF0R09UdFZYRE1vbERVWGN6RW1aYktjVjZTN01UYncwc1VEdS1HMzAtUzZHMlliUEFITGxJQVpPX2VpZ1dadVlJUVZERHRSeTVlbWlIeDhJOVNxRjhUOA?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-06-22 15:35
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE5scWZ5Rzd2U2NFb2FTcnVyejFYbDluTlM2VUdPSmxIYVo4VFNPT3lkTFJ1RC1qeVYxVU5OM1RDNWdpOG1BS2VYQzFUaUQzWlhaLVl0Vlc4YjRSa3FkZXZQX3NEWGlVVWJORFpmeVpzSWp1Zw?oc=5>
+
+### 特朗普再次批评意大利总理梅洛尼
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中国新闻网
+- 时间: 2026-06-21 23:46
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE40ei12ZHI4aExxZHdHR0h0LTY1b2dLOUY5Tm1aWTJhWTlEdk9JZXVZTFVESTdvVGFVb3EtN3lGV0JfRGozYlVVZUdIbE1PWGREdXJPb3owTkhqVkR0TDBZOVhjMEdHNDQ?oc=5>
+
+### 与特朗普隔空隔怼 梅洛尼社媒账号涨粉超10万
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-06-22 17:26
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE91bGstejkybi1sU3RJXzZLclpLdXZEeS1yb3FhZkJ0eGoxZENNZk01b2F2QkFCTm9Qemh5ZXdCUnlKelJLMjZvYzNJXzMwMXoxT2p5eDZGbHF3S1gyRE5qb3JZa3BmQW43cjFUbUU5cDlfVTA?oc=5>
+
+### 特朗普发出威胁 伊朗暂停谈判
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-06-22 01:29
+- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxQZExESllxZFZuaFk0VXp2SEY5MkNwUDFNRDdGSlFfY09TWEJJZEJNQW1aTWQyYjZJOThFM1I3MWUxcVQyMFZNNk5wazhCbzZLUnNxUFBFWXJzSWZUR3VBbk1LY0hRbDlNT3NHUmR5dGFoaF9DRFRqMUZ4dkxIYldzbl9NOA?oc=5>
+
+### 特朗普民调不断下滑 美国中期选举存变数
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-06-22 09:24
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1QT3JnTDlHZ0pJaHBVNUFCNmN4ajhfVHRPeWcyVFhZWVk1eVI0NEt4LUhwZXBOQjVTcy1zdEpMSHY2ZTFKakFKa08yWGl6YWZ4eEVIcXdfdW1ncmVLY1pZRWtBRFJDQQ?oc=5>
 
 ### 特朗普称林肯纪念堂倒影池遭“蓄意破坏” 多人被捕
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-06-22 12:23
-- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE95OE1KaXVJbEktN0tqQXBRQVpOTWxEbnlmYkNUUUZQcW1ndFBWaVV2bXJIRTdsS0g2d1k4LXZYUXRoQ2FfNVoza0VOYVM3S2FtVVY4eEJoNmFFa01LRnRQMGROcGJPbnJORW1FZkluYWZCTW9fYTJsdnRBSlVfQQ?oc=5>
+- 场馆: 搜狐网
+- 时间: 2026-06-22 10:43
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc1FwZWlwSl92aURtZC1Wbm0wa2wyU043RWxoTmUzY0g0al9tSlQ2Zk1PS2kyclRGQTdzb25kdW5zTUpQWEtyMS13QWJabzEwdFZLQzF2RVdmT0VtUmZhNXU3RmFwWkd1dm41OUlSTWZ6dnR6VVp1SC1SQ3lFQ2Q4cE44WVJpWHZM?oc=5>
 
-### 美方为何提前预告英国首相将辞职 特朗普言论引猜测
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-06-22 09:13
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1wM2RCcjVMNWRJU1dzblVhMUZnc2VYZXVoX29PSVdoeWt4YVZkd1YxeWotOFVhLWh5cnJ0V2tDR0Ytdmd4NFhIMHVSRTAxQ3lyTGhtalBhX0xPaHZMcjRUWnk0ZXZQRkRtTEtwYXlSRHY?oc=5>
-
-### 特朗普：美国或收取中东地区20%的石油收益
+### 何伟文：特朗普的表态本质上是一种谈判策略
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Sina finance
-- 时间: 2026-06-21 23:13
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbHVIeFlxaVpjbTBUVWVqM05zZDMyUnpxSXVtYmFfOVZwa28tUGNLNFljRk9DaTh1YnhKdTlXOXFXXy1DS2g3Um5XR2J5V1pkMXhwN3RzWTVBc04wenpIVjU2UDBKRHZFNkZkaHU3cWRlRTd0NVlicVgxUWJRcDlMZTZmSFk5NGZhcTBJRUZ3VjIzZVYyVUlNaVNFenhyQjI4V002ZmZkMHJzQUk5Y0llZU13TUgwMlVvSDZKOFhBUEl3UUQtN0tvUE5MeTgza2Vj?oc=5>
+- 场馆: 全球化智库（CCG）
+- 时间: 2026-06-22 05:03
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1kLUxOX0t5RVFvRFRrLVRFa1hBazBCRG0zM0VUcmhHNU56MDRFanlSazFaSGgwemtUaTFJcGZYMHdNM2VudTdULWhxa3g?oc=5>
 
-### 特朗普料成首位任内访广东的美国总统
+### 特朗普签署了美国的投降
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-06-22 08:02
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBKZE01ck9kNF9Tai0tay1Dd3Q4V0ZEbmYwYUpoMFhJMXlva2taR2Nmb2wzekZGeU1PeHE2c2ZDdTY4VEhYSWlfTWRPOHliTzdjMjhhbDIyYkg0N3YydEN0VWFnWVFaQnVDdXc?oc=5>
-
-### 伊朗代表团暂停伊美谈判 抗议特朗普威胁言论
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-06-22 00:28
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE5sWTc5Q0o1Mjk4a0RyS2pHeTlmaU5fQ2FvTDhNS2hMMEhJSG9nTEJGUlNRbDN4Q1ZCaldIVE1LVy1xV2ZnNXhlTkVJMDN0aWJWSGh5bU9TaUFHcmhQWEhlZW1raXcxVFZCdnJkcFdwenFrOUpubE5GVDJqTEllb0E?oc=5>
+- 场馆: In Defence of Marxism
+- 时间: 2026-06-22 11:07
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9yUUcxNDFQclg1WGZZLVg5S1FMeU1qMXNtMGFfbGlZQWhhRmY3Yk1BQXBpNVo1UHB6TmFjU3hQTWJobTlzQkNIVTduU1JSbjZqbWRXOGMyYl84VUFMdVFyNVlBdmhrSk96OUJYRkJDclZ0eGNSazhxdg?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-22 18:04  (10 条)
+
+- **周杰伦** | 周杰伦演唱会千台高清神器助力歌迷拍摄 <https://k.sina.com.cn/article_7879923973_m1d5ae1905033020hao.html>
+- **周杰伦** | vivo X300 Ultra用户无缘鸟巢周杰伦演唱会 <https://k.sina.com.cn/article_1870795791_6f82140f04003hrly.html>
+- **特朗普** | 特朗普批梅洛尼拒应对伊朗问题，称美国保护意大利数十年 <https://news.google.com/rss/articles/CBMickFVX3lxTE5scWZ5Rzd2U2NFb2FTcnVyejFYbDluTlM2VUdPSmxIYVo4VFNPT3lkTFJ1RC1qeVYxVU5OM1RDNWdpOG1BS2VYQzFUaUQzWlhaLVl0Vlc4YjRSa3FkZXZQX3NEWGlVVWJORFpmeVpzSWp1Zw?oc=5>
+- **特朗普** | 特朗普再次批评意大利总理梅洛尼 <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE40ei12ZHI4aExxZHdHR0h0LTY1b2dLOUY5Tm1aWTJhWTlEdk9JZXVZTFVESTdvVGFVb3EtN3lGV0JfRGozYlVVZUdIbE1PWGREdXJPb3owTkhqVkR0TDBZOVhjMEdHNDQ?oc=5>
+- **特朗普** | 与特朗普隔空隔怼 梅洛尼社媒账号涨粉超10万 <https://news.google.com/rss/articles/CBMic0FVX3lxTE91bGstejkybi1sU3RJXzZLclpLdXZEeS1yb3FhZkJ0eGoxZENNZk01b2F2QkFCTm9Qemh5ZXdCUnlKelJLMjZvYzNJXzMwMXoxT2p5eDZGbHF3S1gyRE5qb3JZa3BmQW43cjFUbUU5cDlfVTA?oc=5>
+- **特朗普** | 特朗普发出威胁 伊朗暂停谈判 <https://news.google.com/rss/articles/CBMigwFBVV95cUxQZExESllxZFZuaFk0VXp2SEY5MkNwUDFNRDdGSlFfY09TWEJJZEJNQW1aTWQyYjZJOThFM1I3MWUxcVQyMFZNNk5wazhCbzZLUnNxUFBFWXJzSWZUR3VBbk1LY0hRbDlNT3NHUmR5dGFoaF9DRFRqMUZ4dkxIYldzbl9NOA?oc=5>
+- **特朗普** | 特朗普民调不断下滑 美国中期选举存变数 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1QT3JnTDlHZ0pJaHBVNUFCNmN4ajhfVHRPeWcyVFhZWVk1eVI0NEt4LUhwZXBOQjVTcy1zdEpMSHY2ZTFKakFKa08yWGl6YWZ4eEVIcXdfdW1ncmVLY1pZRWtBRFJDQQ?oc=5>
+- **特朗普** | 特朗普称林肯纪念堂倒影池遭“蓄意破坏” 多人被捕 <https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc1FwZWlwSl92aURtZC1Wbm0wa2wyU043RWxoTmUzY0g0al9tSlQ2Zk1PS2kyclRGQTdzb25kdW5zTUpQWEtyMS13QWJabzEwdFZLQzF2RVdmT0VtUmZhNXU3RmFwWkd1dm41OUlSTWZ6dnR6VVp1SC1SQ3lFQ2Q4cE44WVJpWHZM?oc=5>
+- **特朗普** | 何伟文：特朗普的表态本质上是一种谈判策略 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1kLUxOX0t5RVFvRFRrLVRFa1hBazBCRG0zM0VUcmhHNU56MDRFanlSazFaSGgwemtUaTFJcGZYMHdNM2VudTdULWhxa3g?oc=5>
+- **Trump** | 特朗普签署了美国的投降 <https://news.google.com/rss/articles/CBMieEFVX3lxTE9yUUcxNDFQclg1WGZZLVg5S1FMeU1qMXNtMGFfbGlZQWhhRmY3Yk1BQXBpNVo1UHB6TmFjU3hQTWJobTlzQkNIVTduU1JSbjZqbWRXOGMyYl84VUFMdVFyNVlBdmhrSk96OUJYRkJDclZ0eGNSazhxdg?oc=5>
 
 ### 2026-06-22 13:29  (15 条)
 
