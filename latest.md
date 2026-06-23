@@ -1,56 +1,53 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-23 19:24**
-- 本轮扫到 4273 条, 新增 **5** 条
+- 最近更新: **2026-06-23 21:12**
+- 本轮扫到 4277 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (4 条)
 
-### 美国总统特朗普抵达雷丁。
+### 暑期京城演唱会热度一路飙升
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-23 17:15
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5INmRmLWZRb1pwNElZNWRsNUlZU0hLVE10V0hueHNHS2dNMWtZbkFRcTg1eVZjYTBfR1lIdTdWSHBBUUh4UVp5VEc1NA?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7517400647_1c0126e4705908pl2y.html>
 
-### 两位参议员就关税对制造业的影响向特朗普政府施压
+### 美国总统特朗普称解冻后的伊朗资金仍将受美国控制
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-23 18:39
-- 链接: <https://news.google.com/rss/articles/CBMijwJBVV95cUxNT2dyb2VNcmFQR0xaT3NsQkZvQmt2NjNJVFF0Wmladnh1XzV3LWxyLTFJVUNHZXNjck1CU21LTDBvbHpRMERjbkUzVnYzUy1ROGRjTjNhd3ZnejE0VDd6dFRkYkJLWFYxbXUzTEN3eWc5MnZ4NnBzQ1Z4TUpnV3NDYlk1X29zTl9KdlhMb0c5SThPMnZxaFo3LXBfOVVrQWxOanNyM3lVbmZEdkdpTVdpc1J5LWgwbHJCbmtFczFRSFVKSWg2QkRZel9vWFNhUUg1UHBDYlRxYUVuTFpWWWFvZXFwUDcydndCaVFvV3IzYnpTczNxekRwSDhYRDEtSlFhb056MmVIOWpZd0VScU9F?oc=5>
+- 时间: 2026-06-23 19:53
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxPbDRkallNNGl6TmlnUVBVRjJ1azh5U1g4WTNJQ2RqbnpsUTA0d1YzZ2htZG1ZQmotZm1QTFpMWXgwSEpLOWJiUzZJaWwtall4ZkpNX3dxVXZwSG81UXhONExOSlRackxWWDYzMHNOcjFia21ReHd0WVdqbFMxOWFyblkyamQwTG8?oc=5>
 
-### 涉嫌图谋在特朗普生日当天发动袭击，7人被逮捕
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-06-23 07:40
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE95U0NCZ3FsaHYzRHNQckV1WEp1aFR1M1g5QlVUN0tJbHBSU3lEZjgwVnRVM1ZQU1F3UnlOOG5tR0Q4QjJ5ZGJiSEJ1VTRYaVZpOWxCZjFUQnlRT0NYYjNnZzd4dGQ?oc=5>
-
-### 解读｜ 九年前痛批奥巴马，特朗普今签署更糟糕的停火备忘录
+### 特朗普证实美汽车巨头将开始生产武器，包括“战斧”导弹和“爱国者”防空系统
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 端傳媒Initium Media
-- 时间: 2026-06-22 23:04
-- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxNS0tTWTRyR0lzVE9kMVNjUVV1ODRxM2w4TXoxb2JEVjk0b28xaWNWa2NWU0RYdDFzRDRLSzlLSnNETmVRSEd3TjVUM2o4NEdWRGJQNkJ2NEh2N2Z3NzMzTTdNaE5CY1otNGN2STdXNlZmUERTVmNCYVVDcWxjVnJud1VB?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-06-23 19:52
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9oV0FUMXBhUkRhZmhPLVR3dnl6NlRmazdzUGZfcF9ITTl1cTVRTGwyVlVfeVlvejNaVE9lOGxYM05qT0k0Y3RoV3lObllRbEs0a0gwdFlqS1oyb1YwbUJONG9DWGJLcncwbHFkVjJpYnBCSkxBZEVGcA?oc=5>
 
-### 美国总统特朗普称赞礼来公司
+### 特朗普威胁“谈不成就收费”，美伊列出首要议程
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-06-23 19:18
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UWnBseWhsZzl1cGtqUS1YdGstd3FxUXB2SHlhWWR3Y0Z3d2c4dzR2NlJZQVNZbjZodkNobVlpZkJUTmN1aVA5bjBkdFUyRUdBQzdhRzVqN3hEbV8tUXJWRQ?oc=5>
+- 场馆: 观察者
+- 时间: 2026-06-21 01:40
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE4yZXNkRUktV1UtQk5Ob1dIdWpPT2dpVTZITEhPdDgyVFN6ZFJWcVFOX3hzendYMjJmN2pRZl80ZWc4S0taWWQzcFN5THE0dmhjTFNLNWFuWlRTTGpmRi1vTFBqSlk?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-23 21:12  (4 条)
+
+- **周杰伦** | 暑期京城演唱会热度一路飙升 <https://k.sina.com.cn/article_7517400647_1c0126e4705908pl2y.html>
+- **特朗普** | 美国总统特朗普称解冻后的伊朗资金仍将受美国控制 <https://news.google.com/rss/articles/CBMihwFBVV95cUxPbDRkallNNGl6TmlnUVBVRjJ1azh5U1g4WTNJQ2RqbnpsUTA0d1YzZ2htZG1ZQmotZm1QTFpMWXgwSEpLOWJiUzZJaWwtall4ZkpNX3dxVXZwSG81UXhONExOSlRackxWWDYzMHNOcjFia21ReHd0WVdqbFMxOWFyblkyamQwTG8?oc=5>
+- **特朗普** | 特朗普证实美汽车巨头将开始生产武器，包括“战斧”导弹和“爱国者”防空系统 <https://news.google.com/rss/articles/CBMieEFVX3lxTE9oV0FUMXBhUkRhZmhPLVR3dnl6NlRmazdzUGZfcF9ITTl1cTVRTGwyVlVfeVlvejNaVE9lOGxYM05qT0k0Y3RoV3lObllRbEs0a0gwdFlqS1oyb1YwbUJONG9DWGJLcncwbHFkVjJpYnBCSkxBZEVGcA?oc=5>
+- **特朗普** | 特朗普威胁“谈不成就收费”，美伊列出首要议程 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE4yZXNkRUktV1UtQk5Ob1dIdWpPT2dpVTZITEhPdDgyVFN6ZFJWcVFOX3hzendYMjJmN2pRZl80ZWc4S0taWWQzcFN5THE0dmhjTFNLNWFuWlRTTGpmRi1vTFBqSlk?oc=5>
 
 ### 2026-06-23 19:24  (5 条)
 
