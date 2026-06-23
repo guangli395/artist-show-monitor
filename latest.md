@@ -1,78 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-23 17:12**
-- 本轮扫到 4268 条, 新增 **8** 条
+- 最近更新: **2026-06-23 19:24**
+- 本轮扫到 4273 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (5 条)
 
-### 北京七八月将有数十场演唱会
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://finance.sina.com.cn/jjxw/2026-06-23/doc-iniemmyi6258499.shtml>
-
-### 牛弹琴：特朗普学乖了
+### 美国总统特朗普抵达雷丁。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-23 17:01
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBpb3loeXBHNzdCREphRkdHY0FiX0VKU2liVkRYNUctS3htUFVaR3JZSDFtbW13c0hDTXp5U1FsOE44UTk5cXlCcnhzbUo0Z2xSWk8zSi1FTkNoNjdmMWp2cjVha2t6RHNCX24tM2ZYSTVaY1dpUVlMRg?oc=5>
+- 时间: 2026-06-23 17:15
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5INmRmLWZRb1pwNElZNWRsNUlZU0hLVE10V0hueHNHS2dNMWtZbkFRcTg1eVZjYTBfR1lIdTdWSHBBUUh4UVp5VEc1NA?oc=5>
 
-### 事关霍尔木兹海峡，特朗普最新表态
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: Sina finance
-- 时间: 2026-06-23 12:37
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBxMHB4clNHeXY0NmRwRVZXNlY5SDRuTFFjeHhRd2VHY3BWWk5pOEhSUS14bU1HNUNxN0RKLWNMNWotc1o1YkxsbVl4YS1xMGVsdmQzVVR1OHFBdDlpMXVZSG1VcGJ4dk9RQVpERVFHWEs1VUl0NndsOQ?oc=5>
-
-### 特朗普政府将提供170亿美元贷款，加速美国10座大型核反应堆的部署
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: Sina finance
-- 时间: 2026-06-23 15:07
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxPa1JLZW1kRVhlRkhZdDRXM0N5WVhKNW1vdElCUmRDWjBUVlZoM2VWZ3NqQkR4d2ZUNlNGUjNxZC1VV2xWUUFEbmVRSVpibFNwX2hLZ0RhSkVQZFZabEM5d3JBRDZqR3I4eDZOb3UwVEloZGhWaW9pYUs3QzZIbXBncDU5UmxpQ0E?oc=5>
-
-### 特朗普儿童储蓄账户注册量已超600万个
+### 两位参议员就关税对制造业的影响向特朗普政府施压
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-23 16:51
-- 链接: <https://news.google.com/rss/articles/CBMipwJBVV95cUxONUhHTkpfenlNWlhEeWNwM1M3cTJaMTY3NGRyOG5SRGZjc3hLSjlkNXpuTm5pQWl0TDVvQWh5S1N4WnFwMzRTemlFQ3EtVHBBQVV4UVAzYnl3SzVYVXYtdzJYYmRhalBjdUdSUnhoYTBQMmxOVWdSRGw5WC15bXBLSDVLTG1pLTR3Vm5ZTFktYldWSHZwanhMMDZIa2NXcENoMHVkaG9ueGNkdE1Pck5TeUVDeWM4bE5vbkthUFVnOGkwQldwSVd2YzdxcVNLTHAyb0Z2RmZpYTZqOTg5Qmw0OTgzNkdwX0hIeFFzMmJGN1NUWV91LUNOc1lZRlVfUWV1d3lldjNzNzNYY2M1c08tamdabjR0LWJNWkJkTVE5OWlzT0U4anNr?oc=5>
+- 时间: 2026-06-23 18:39
+- 链接: <https://news.google.com/rss/articles/CBMijwJBVV95cUxNT2dyb2VNcmFQR0xaT3NsQkZvQmt2NjNJVFF0Wmladnh1XzV3LWxyLTFJVUNHZXNjck1CU21LTDBvbHpRMERjbkUzVnYzUy1ROGRjTjNhd3ZnejE0VDd6dFRkYkJLWFYxbXUzTEN3eWc5MnZ4NnBzQ1Z4TUpnV3NDYlk1X29zTl9KdlhMb0c5SThPMnZxaFo3LXBfOVVrQWxOanNyM3lVbmZEdkdpTVdpc1J5LWgwbHJCbmtFczFRSFVKSWg2QkRZel9vWFNhUUg1UHBDYlRxYUVuTFpWWWFvZXFwUDcydndCaVFvV3IzYnpTczNxekRwSDhYRDEtSlFhb056MmVIOWpZd0VScU9F?oc=5>
 
-### 特朗普总统签署行政令，争取在量子竞赛中领先中国
+### 涉嫌图谋在特朗普生日当天发动袭击，7人被逮捕
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-06-23 16:36
-- 链接: <https://news.google.com/rss/articles/CBMisAFBVV95cUxPX1ktTWZoLVJ4eVgwbnhFMGZlY2VHWlZuZG16eF9CemwtNTA2eTVlMzk1bnFoakFZWnUyeXltUjBmc3hzTWR0ck41OG1UcE9JY2JsbkNKUTh4WUVSQjFNSVZ0Zk01d3lNUmJjX3ZVZnhMRWJqLXRpbzRMb0J6eFlpTUJvQW9fY0t4a2k5VHFDU1ZGVXg0aUh2Si1ITUpGcDJ1M1FtQjY0WVREaVJ1Q0lvdNIBswFBVV95cUxOVGVGbmt1ZnlabGNoU2Z3ZkNzaV9rQ3FReUdMeHZFWXlLQ1M4UHhwTHpIWDhkZHVnMm5aZkVZbHVuUHN5SmVCdnBGSmQ0XzJqX0JfSnJxZDVHQ1RpS0VpaDNxRWhyQ2ZxbDJUSDdhWkhDMXdWYjBCQzZYY1psS3o2MWk1WHhpaEh5MUpjSHRXeXd4Ukwtdzdadl8yaWVGcV9PamhDQmdIaGRONFRDeWRrcnBqTQ?oc=5>
+- 场馆: 新京报
+- 时间: 2026-06-23 07:40
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE95U0NCZ3FsaHYzRHNQckV1WEp1aFR1M1g5QlVUN0tJbHBSU3lEZjgwVnRVM1ZQU1F3UnlOOG5tR0Q4QjJ5ZGJiSEJ1VTRYaVZpOWxCZjFUQnlRT0NYYjNnZzd4dGQ?oc=5>
 
-### thanks trump
+### 解读｜ 九年前痛批奥巴马，特朗普今签署更糟糕的停火备忘录
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-06-23 14:56
-- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTFB3dEtsUHh3NjBGN3VOaHFIZjBlaF81N3loWnNWVmQ5MlFNTG1WTl9pLWFiNEZuYnQ3NEVLRjN2RDRIckVuTHhDZW1UOU9URDVhSFBXUnBxbTU4R3pucDdGUkFqeVEzaTlQUW9GS3NXeEE4V0EwT2l6dUJHQQ?oc=5>
+- 场馆: 端傳媒Initium Media
+- 时间: 2026-06-22 23:04
+- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxNS0tTWTRyR0lzVE9kMVNjUVV1ODRxM2w4TXoxb2JEVjk0b28xaWNWa2NWU0RYdDFzRDRLSzlLSnNETmVRSEd3TjVUM2o4NEdWRGJQNkJ2NEh2N2Z3NzMzTTdNaE5CY1otNGN2STdXNlZmUERTVmNCYVVDcWxjVnJud1VB?oc=5>
 
-### 特朗普签署了一项关于未来主义机器的昆腾计算机行政命令
+### 美国总统特朗普称赞礼来公司
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-06-23 14:46
-- 链接: <https://news.google.com/rss/articles/CBMixgFBVV95cUxNQmRIcFBNbkk3eEdGeE4wRnBMVjRQMHNnUXh3UVRJSlpRYTdpdUN0WVhlQ1l4V195aUVEeXh5eGFlb29yeUFsZ3MtM0F6ZnRyS3VSRzJrOHBteUpuU3lEX1hFUXhwOGtianlOX3FNaENxM0RmUDRkbTkzZF9XMkx5RlEwbkpaRTdKTVVjTklQcVAtSC16WHY3MEYzR1UyUDhzUGRCN2doSTVlS1ZDcWtGZnRXUVdwSDN3SktnOUFXbklOaGFJTGc?oc=5>
+- 场馆: 东方财富
+- 时间: 2026-06-23 19:18
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UWnBseWhsZzl1cGtqUS1YdGstd3FxUXB2SHlhWWR3Y0Z3d2c4dzR2NlJZQVNZbjZodkNobVlpZkJUTmN1aVA5bjBkdFUyRUdBQzdhRzVqN3hEbV8tUXJWRQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-23 19:24  (5 条)
+
+- **特朗普** | 美国总统特朗普抵达雷丁。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5INmRmLWZRb1pwNElZNWRsNUlZU0hLVE10V0hueHNHS2dNMWtZbkFRcTg1eVZjYTBfR1lIdTdWSHBBUUh4UVp5VEc1NA?oc=5>
+- **特朗普** | 两位参议员就关税对制造业的影响向特朗普政府施压 <https://news.google.com/rss/articles/CBMijwJBVV95cUxNT2dyb2VNcmFQR0xaT3NsQkZvQmt2NjNJVFF0Wmladnh1XzV3LWxyLTFJVUNHZXNjck1CU21LTDBvbHpRMERjbkUzVnYzUy1ROGRjTjNhd3ZnejE0VDd6dFRkYkJLWFYxbXUzTEN3eWc5MnZ4NnBzQ1Z4TUpnV3NDYlk1X29zTl9KdlhMb0c5SThPMnZxaFo3LXBfOVVrQWxOanNyM3lVbmZEdkdpTVdpc1J5LWgwbHJCbmtFczFRSFVKSWg2QkRZel9vWFNhUUg1UHBDYlRxYUVuTFpWWWFvZXFwUDcydndCaVFvV3IzYnpTczNxekRwSDhYRDEtSlFhb056MmVIOWpZd0VScU9F?oc=5>
+- **特朗普** | 涉嫌图谋在特朗普生日当天发动袭击，7人被逮捕 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE95U0NCZ3FsaHYzRHNQckV1WEp1aFR1M1g5QlVUN0tJbHBSU3lEZjgwVnRVM1ZQU1F3UnlOOG5tR0Q4QjJ5ZGJiSEJ1VTRYaVZpOWxCZjFUQnlRT0NYYjNnZzd4dGQ?oc=5>
+- **特朗普** | 解读｜ 九年前痛批奥巴马，特朗普今签署更糟糕的停火备忘录 <https://news.google.com/rss/articles/CBMiggFBVV95cUxNS0tTWTRyR0lzVE9kMVNjUVV1ODRxM2w4TXoxb2JEVjk0b28xaWNWa2NWU0RYdDFzRDRLSzlLSnNETmVRSEd3TjVUM2o4NEdWRGJQNkJ2NEh2N2Z3NzMzTTdNaE5CY1otNGN2STdXNlZmUERTVmNCYVVDcWxjVnJud1VB?oc=5>
+- **特朗普** | 美国总统特朗普称赞礼来公司 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UWnBseWhsZzl1cGtqUS1YdGstd3FxUXB2SHlhWWR3Y0Z3d2c4dzR2NlJZQVNZbjZodkNobVlpZkJUTmN1aVA5bjBkdFUyRUdBQzdhRzVqN3hEbV8tUXJWRQ?oc=5>
 
 ### 2026-06-23 17:12  (8 条)
 
