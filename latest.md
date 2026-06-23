@@ -1,110 +1,130 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-23 04:38**
-- 本轮扫到 4223 条, 新增 **12** 条
+- 最近更新: **2026-06-23 08:25**
+- 本轮扫到 4236 条, 新增 **13** 条
 
 ---
 
-## 本轮新发现 (12 条)
+## 本轮新发现 (13 条)
 
-### 王一博跨年演唱会卖货，红丝绒西装口播好强，戴《天天》戒指破防
+### 世研观察｜追觅入局纯AI手机、vivo X300系列与周杰伦演唱会官方合作
 
-- 艺人/关键词: **王一博**
+- 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c00190782mc.html>
+- 链接: <https://k.sina.com.cn/article_7828958404_1d2a46cc40010188rc.html?from=digit>
 
-### 特朗普：若伊朗不遵守协议将采取必要行动 美伊谈判最后通牒
+### 周杰伦进京赶考成功，鸟巢演唱会引打卡热潮
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-06-23 03:55
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9aVXppLUFXSTA3M0lFLS1yVmtaUDR6T3dzZVhCQW13SE10YWVtX3ktbjFDeW44aDN2YW1hY2J6QU1KNEt1bWY3dnY0MlkyblBRemFJVVhZZU05REZBSzZDc0FGYVBjb2lkcVNTbWNPSEY?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_6354475832_17ac19b38040019ub6.html>
 
-### 新华社消息丨特朗普称伊朗将同意接受武器核查
+### vivo携周杰伦北京嘉年华投放千台X300演唱会神器
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-06-23 01:26
-- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE5kUjBEb1FwUVM5MC1IUTU5Z2RnbFZ5ZFczZS1VcDlyeUZrMHNqWEE2UENiZWY3WC00MjJoa1VxVmhCelFjNjhqR29MTXNGZW5GZENxdTFWaXNEU0VjWVhGdXlXLTlxaDg3bGdXblNBWmV0MVY3bDN1RkpoZUs1dw?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7096020433_v1a6f4add106801j2gi.html>
 
-### 特朗普签署两项行政命令，全力推进量子产业发展
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-06-23 01:37
-- 链接: <https://news.google.com/rss/articles/CBMiowFBVV95cUxQMmdiel9TVGI1UXgyQ056dkVRemRROEM3RGt5MWlCd0N3d0Y2RndoS1B5T3MwUWU0M04xTFgyUDZoYlpuNmp0T204dE84ZUl5VG84RlcwTnFNc2R1aGY4ci1CQ3BPYWkzS0p6a2dieXFmSnJGVkFwZEhUWE5OeE01Mm45NkthUHNTUUozSzIyc1BfVUg3b1IxTTRxVUZXbFpuZndV?oc=5>
-
-### 特朗普点名SpaceX称马斯克为朋友，Starlink将装备空军一号
+### 瑞士谈判仍在进行，特朗普就发帖威胁伊朗，伊朗代表称随时准备反击｜特朗普日报
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪网
-- 时间: 2026-06-23 01:43
-- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxQOUItanM3NWdxdmZfYU5tMnJ2NjZfUE1GVVBVdTdJUVI0ZDFLZmxPX08zT2IwY3lPSkxIZUV0SWQwQ1VodHlwbWwzMEtKQWptcGRTc3BVWTZxaFJIRzhvZFlLbndoYWJXbWtIR1hYYnVNZHlvS0x0RFJyVlk2LWozbA?oc=5>
+- 时间: 2026-06-23 06:43
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE1mQUJENVpGM0xlT1c0bG9sSVd3QUViRmpXM1dlNHpySEk1ci1LNHd0RFYtSjhXN2pJRXBjYXEwd1Y1Nm5kcHFscENpVkx4WjBwVHNtREdiT0gyX1EwSVRmbUF5akpZTzhGbm52WXJuaENTQQ?oc=5>
 
-### 国际｜美国能源部长提到爱因斯坦遭特朗普打断，现场传出哄笑声
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-06-22 13:00
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JV3VKSjhnQUhLeW0yTE9pbEpSNy1XSVZ0RUpCOURZejBucmdfTkNocl9ZYjgzQ2NISXNwblBSM3kxbDFCUkNtaVVqQVhpOHlYanFqYlBJaE9sNjBpcTRUb1V5bm8?oc=5>
-
-### 特朗普政府加码量子战略！设定2028年科研级量子计算机突破目标
+### 特朗普：如果伊朗不遵守协议，我会做我该做的
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-06-22 22:04
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTFB0SWNrVUQyNUNrWWpwT0t0akZJTVBrYUN0UXE0bllxaVdOUVhHb3pTV05haFpzc2JDeUpkSER1OWFqMlRaUzBUNw?oc=5>
+- 场馆: thepaper.cn
+- 时间: 2026-06-23 07:27
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTFBBYTV3TFZ2RkRRTVRkQmdZX1pTLWg0SWV6QW0teUhJVU9zSGdGRHpSRU8xWElGemVSS25maDBRYjRqOE1ROGtfQWdRWDQ5YlRxRzUtNTVKeUZub1AzS3c?oc=5>
 
-### 新华社消息丨特朗普称伊朗将同意接受武器核查
+### 特朗普直接点名：“一个小忙都不帮”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-06-23 01:26
-- 链接: <https://news.google.com/rss/articles/CBMid0FVX3lxTE1obTR1ZnExbmpsR3d4cC1ac1ZhWDlUeUlGOEZSNDFsRTFtTlFUOFc2Y1lUNXdUVU1TRE11dHBobmVueEtzdmtkZG4zYXZmZ21ha1RCcS1WSmRoQzgwTDBKaVoyMll5YzN4NzloY0hLSUFiWFFZTnF3?oc=5>
+- 场馆: 新浪军事
+- 时间: 2026-06-23 07:17
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1WLWlnYTJwYnVHOHJTMHVxZjctRU1TSldXdDVHNHlVRkdZaHJZVE91OG5NUTZrY0RYbHJFRUpqQmtVV0V4THNYMVl4aXg5b1BiR1BpOTVRYmZUQldEcXRlc3pKcUQ1dDktMHRCbURrZlk3blU?oc=5>
 
-### Trump and Iran cannot agree on what they just signed
+### 盯上下一场科技革命，特朗普猛推量子计算机-观察者网
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者网
+- 时间: 2026-06-23 07:12
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9wMUt6REhES3BrQTFnWW1ibkkzYkh0c3BBeEhUNWY1bU1aWFY0eGxWMjNQazl0RV96bENaSDlUTTBOUEF3bV9qYUw1VVJNc2RJM2ZvdU5GTVRHMDZPLWpULVhuWWVTVm0yR2c?oc=5>
+
+### 特朗普政府对非洲“反同法案”保持沉默，凸显外交政策变化
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-06-23 06:39
+- 链接: <https://news.google.com/rss/articles/CBMisgFBVV95cUxORnRiR0FSWGtVOHBWWUFaTTZDTDVFNFoyY3dzYWRUMlY2R0l5eGVIX09nb1ZxMm5vTVNIcEhlaEYtbUFwY0R4U1NGYW1PSllGeTVmSWczNkhIb1Z3MGhFX3F5eldnSUM3M1l5Z3RnN3VYaVBxbUZOSHA1QllfdTRXNGdJbmJUeDhIYkZTN3ZaMVdkRGVFMlNFb2FiS2poUmFMbGUyMllKZHdrMm0ydGx6aUxn?oc=5>
+
+### “白宫股神”又发威：特朗普公开称赞IBM 推动公司股价大涨超4%
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 东方财富
+- 时间: 2026-06-22 04:01
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzMm9vdU9SS3hjM1M1aVZEcUtXRmlJZDV1S1N2NC1DYWlfeDZNZUkySFI4ZEgtSzM1OTE1dWlHMl9Gc0tTWDV2Uk0xVE8zZEtBY0o3Zl9XdU01ME85SDctQQ?oc=5>
+
+### 美部长吹捧特朗普叔叔，尴尬收场
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-06-23 07:25
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5wZC0xSWlfSUlmMWNVdXAwRGhNaF8wa0t6cjQ5Nmdmd1dsQjdTbkc2dUlhWlo3c0RkLXo4X2kzQXlxTjd1VEl5WHRwMGc?oc=5>
+
+### 哥伦比亚亲特朗普候选人赢总统大选 该国政治右转 美国务卿祝贺
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-06-22 17:04
+- 链接: <https://news.google.com/rss/articles/CBMisgNBVV95cUxORkpCQ2FfRmRKWEdtenNEb3BET1NBNFhTSlNKOXJPa092T3hGZXZpcHVTcFJHeFg0YUs3Z0hNWTY4MUdxN2steVJTWUR3cU5sbjJuaUNQVTZIQlk2bXdwSmc1T3VHOGJLYlhkQ2E0cTNhWXpWbmRaX1RhZkdJbDczMUtXRHByOGtneHlTendIOGUxNklqLWpJYTRKVzd3UUhhQTB2dGFwVDdiLUVibFU2dlphM09PWnlRWkZuRVcxcUY4X0xIWDV6UEhoZGVMWTRKUWQ2T2piYjJiM09BandKbEgybmhZREJnVFBrVE5RTGFhNEU2X1B4NXQ2VXFiUS15Mk5GMUFuQjFvVmg2aHdONlBudGcxZUhldkNVdXRZXzRtRm1idWdCaHY0X25TZDYwYThFMjZVS1VRTTZmUzFBT2dIQzVOQzlYYnJGV3hPOXVRZmR2ME95a2ZzS2xHZHJiM1Q5Q050N213bzROOC12NnRLRkRYY2dmRVJ3ek5vZ0phemFOSnlMeGdEa2U4WXMweXNBUldsS3FTU2R6T1dCM29RbG16di1VXzU5bHc2bVQzZw?oc=5>
+
+### 最新民调：澳洲人对美国的信任度跌至历史新低
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: TMGM
-- 时间: 2026-06-22 22:55
-- 链接: <https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZThLekRFcm4yN2xRaS11al9WYVZRbmptdjc1bHlKa0JJenZia1dOQ1B5Rmwxb1dia0FteVZiZHBYWjFDN3FvemV4cU5LQk1hU2hYQ3YxTFAzSFAyYkRKWTNicENUcEtjUWVhTE5Fb0o5a0dPOFM3Vk9pNFRhTlQyNllJUHVaR0hwOG5PWHlEUmxKQTh1WXZYR1k3VU5oZHI2Sklka1dPZzYyTW1wVFBlSVdjdVBqVm5jSkxWaExRUVM?oc=5>
+- 场馆: Australian Broadcasting Corporation
+- 时间: 2026-06-23 00:43
+- 链接: <https://news.google.com/rss/articles/CBMid0FVX3lxTE9xZzFNMXFmbzAwajdaaVhBcS1MWkFSanpLUlNwQzZsZ1UzajNsZ0ExUUdMa3NETzFaa1RtQm94ZWlrTWRQLXkxbDVCQmEyUnRkWlgwRW1HLXdlNklqRjI3UENXbld5VF84NS05ckw0bExScWFQZUdz?oc=5>
 
-### 斯塔默辞职后遭落进下石 特朗普：自食其果
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-06-23 04:14
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE92MEVPX292RFc0Q0hzaW8tYWZzVzBwbW00Tm1wZTZiaTFpUjdGN0lOWHFWQ0RkVDRNSTd5ZnZhSmQ3cGZCTVVIRlBmbW9DMEpFZzBVcUVMRUNyVHVqRTFJWE5IbGtBNXEtam01aF9OWTZwdlhsMlM5NmhTYkxHRW8?oc=5>
-
-### 特朗普全力押注昆腾，Messi在杰瑞世界改写历史，更多精彩内容
+### 拉美政治版图为何前所未有的“特朗普化”？
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-06-23 03:08
-- 链接: <https://news.google.com/rss/articles/CBMiswFBVV95cUxPdnVucUNtSjdvbjhneHlzNi04TjFKUG9seERFTVZZTmVua2JXYVVOekZMTDQ4eFVFNmtlc1N5UmVBLUZCN0dlcmxHdFNVQTJvM0NEZkJLcFNrX0w2V1pQcFhoeWpJb3VaSlljSHhUWmxGMmFFQ0ZKZWEyZGJNNTJGWU5Cd1VRUkVfcTRiZ2dQc0RGN3NXVnUzOElTdnBnYWtzQ21yaXNGMFpXTmo1OEhGLVdSQQ?oc=5>
-
-### 美国暂时解除对伊石油制裁，称谈判“富有成效”
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 茉莉花新闻网
-- 时间: 2026-06-23 03:47
-- 链接: <https://news.google.com/rss/articles/CBMiqAJBVV95cUxOb01JcnBfMkwtbW9VbXpPaGdaYndCRjNyS2p1UXNqVVFYUDE5bGhPUklTSFhfV0VBU2tQYTlnaWRIVFFQNGd4eW5kX2IzUWVYaTNjdE01ZjhZdzFKWFQ0UmNXVzhndmlGV1BUbWI0R0wxLVNNTmxicElwelE3aTE0NGJCaHFWTjFrdHRDWmV3TzBVa1phY0g4Q3UySWd5c1JyZXBuWVgtWnE4M3VWVlM1VGkzVFY1RzRfTmZZbWpfdnR6T1YxbFZ0bTNFZklRM1VnR1ZRMmcyeU1ZcDNld0VoZGRrWUpVUVlMSm01NGY1OWRpdFV5WUFWSU0tcEQ4cmZvM01kUnVOSGVfTE5FdEVDOGgxQVNkT21NYUt1cGRJYkRVT2J0M0h1dg?oc=5>
+- 场馆: 华尔街日报中文网
+- 时间: 2026-06-23 04:40
+- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxQc0hfM0dxYXpfMGhWZXdkNS1FQUNMTjBxM1hMUFFyX3FQZS1uM0VaYkNQVTc2UHFQODY4RlhqVE8wSUpwYTFlUkdSRWZSUWt2Ulc4MFcyMGN1RVpJUlpsOVkxV0djWGxjeS14TGllOUNLOEk1d09tMlFRTUR5VU9rUHZFcm1qMXJiSGV3aHA3MFlZWFRL?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-23 08:25  (13 条)
+
+- **周杰伦** | 世研观察｜追觅入局纯AI手机、vivo X300系列与周杰伦演唱会官方合作 <https://k.sina.com.cn/article_7828958404_1d2a46cc40010188rc.html?from=digit>
+- **周杰伦** | 周杰伦进京赶考成功，鸟巢演唱会引打卡热潮 <https://k.sina.com.cn/article_6354475832_17ac19b38040019ub6.html>
+- **周杰伦** | vivo携周杰伦北京嘉年华投放千台X300演唱会神器 <https://k.sina.com.cn/article_7096020433_v1a6f4add106801j2gi.html>
+- **特朗普** | 瑞士谈判仍在进行，特朗普就发帖威胁伊朗，伊朗代表称随时准备反击｜特朗普日报 <https://news.google.com/rss/articles/CBMickFVX3lxTE1mQUJENVpGM0xlT1c0bG9sSVd3QUViRmpXM1dlNHpySEk1ci1LNHd0RFYtSjhXN2pJRXBjYXEwd1Y1Nm5kcHFscENpVkx4WjBwVHNtREdiT0gyX1EwSVRmbUF5akpZTzhGbm52WXJuaENTQQ?oc=5>
+- **特朗普** | 特朗普：如果伊朗不遵守协议，我会做我该做的 <https://news.google.com/rss/articles/CBMiXkFVX3lxTFBBYTV3TFZ2RkRRTVRkQmdZX1pTLWg0SWV6QW0teUhJVU9zSGdGRHpSRU8xWElGemVSS25maDBRYjRqOE1ROGtfQWdRWDQ5YlRxRzUtNTVKeUZub1AzS3c?oc=5>
+- **特朗普** | 特朗普直接点名：“一个小忙都不帮” <https://news.google.com/rss/articles/CBMic0FVX3lxTE1WLWlnYTJwYnVHOHJTMHVxZjctRU1TSldXdDVHNHlVRkdZaHJZVE91OG5NUTZrY0RYbHJFRUpqQmtVV0V4THNYMVl4aXg5b1BiR1BpOTVRYmZUQldEcXRlc3pKcUQ1dDktMHRCbURrZlk3blU?oc=5>
+- **特朗普** | 盯上下一场科技革命，特朗普猛推量子计算机-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE9wMUt6REhES3BrQTFnWW1ibkkzYkh0c3BBeEhUNWY1bU1aWFY0eGxWMjNQazl0RV96bENaSDlUTTBOUEF3bV9qYUw1VVJNc2RJM2ZvdU5GTVRHMDZPLWpULVhuWWVTVm0yR2c?oc=5>
+- **特朗普** | 特朗普政府对非洲“反同法案”保持沉默，凸显外交政策变化 <https://news.google.com/rss/articles/CBMisgFBVV95cUxORnRiR0FSWGtVOHBWWUFaTTZDTDVFNFoyY3dzYWRUMlY2R0l5eGVIX09nb1ZxMm5vTVNIcEhlaEYtbUFwY0R4U1NGYW1PSllGeTVmSWczNkhIb1Z3MGhFX3F5eldnSUM3M1l5Z3RnN3VYaVBxbUZOSHA1QllfdTRXNGdJbmJUeDhIYkZTN3ZaMVdkRGVFMlNFb2FiS2poUmFMbGUyMllKZHdrMm0ydGx6aUxn?oc=5>
+- **特朗普** | “白宫股神”又发威：特朗普公开称赞IBM 推动公司股价大涨超4% <https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzMm9vdU9SS3hjM1M1aVZEcUtXRmlJZDV1S1N2NC1DYWlfeDZNZUkySFI4ZEgtSzM1OTE1dWlHMl9Gc0tTWDV2Uk0xVE8zZEtBY0o3Zl9XdU01ME85SDctQQ?oc=5>
+- **特朗普** | 美部长吹捧特朗普叔叔，尴尬收场 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5wZC0xSWlfSUlmMWNVdXAwRGhNaF8wa0t6cjQ5Nmdmd1dsQjdTbkc2dUlhWlo3c0RkLXo4X2kzQXlxTjd1VEl5WHRwMGc?oc=5>
+- **特朗普** | 哥伦比亚亲特朗普候选人赢总统大选 该国政治右转 美国务卿祝贺 <https://news.google.com/rss/articles/CBMisgNBVV95cUxORkpCQ2FfRmRKWEdtenNEb3BET1NBNFhTSlNKOXJPa092T3hGZXZpcHVTcFJHeFg0YUs3Z0hNWTY4MUdxN2steVJTWUR3cU5sbjJuaUNQVTZIQlk2bXdwSmc1T3VHOGJLYlhkQ2E0cTNhWXpWbmRaX1RhZkdJbDczMUtXRHByOGtneHlTendIOGUxNklqLWpJYTRKVzd3UUhhQTB2dGFwVDdiLUVibFU2dlphM09PWnlRWkZuRVcxcUY4X0xIWDV6UEhoZGVMWTRKUWQ2T2piYjJiM09BandKbEgybmhZREJnVFBrVE5RTGFhNEU2X1B4NXQ2VXFiUS15Mk5GMUFuQjFvVmg2aHdONlBudGcxZUhldkNVdXRZXzRtRm1idWdCaHY0X25TZDYwYThFMjZVS1VRTTZmUzFBT2dIQzVOQzlYYnJGV3hPOXVRZmR2ME95a2ZzS2xHZHJiM1Q5Q050N213bzROOC12NnRLRkRYY2dmRVJ3ek5vZ0phemFOSnlMeGdEa2U4WXMweXNBUldsS3FTU2R6T1dCM29RbG16di1VXzU5bHc2bVQzZw?oc=5>
+- **Trump** | 最新民调：澳洲人对美国的信任度跌至历史新低 <https://news.google.com/rss/articles/CBMid0FVX3lxTE9xZzFNMXFmbzAwajdaaVhBcS1MWkFSanpLUlNwQzZsZ1UzajNsZ0ExUUdMa3NETzFaa1RtQm94ZWlrTWRQLXkxbDVCQmEyUnRkWlgwRW1HLXdlNklqRjI3UENXbld5VF84NS05ckw0bExScWFQZUdz?oc=5>
+- **Trump** | 拉美政治版图为何前所未有的“特朗普化”？ <https://news.google.com/rss/articles/CBMilAFBVV95cUxQc0hfM0dxYXpfMGhWZXdkNS1FQUNMTjBxM1hMUFFyX3FQZS1uM0VaYkNQVTc2UHFQODY4RlhqVE8wSUpwYTFlUkdSRWZSUWt2Ulc4MFcyMGN1RVpJUlpsOVkxV0djWGxjeS14TGllOUNLOEk1d09tMlFRTUR5VU9rUHZFcm1qMXJiSGV3aHA3MFlZWFRL?oc=5>
 
 ### 2026-06-23 04:38  (12 条)
 
