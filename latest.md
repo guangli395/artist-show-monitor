@@ -1,114 +1,83 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-23 08:25**
-- 本轮扫到 4236 条, 新增 **13** 条
+- 最近更新: **2026-06-23 11:37**
+- 本轮扫到 4244 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (13 条)
+## 本轮新发现 (8 条)
 
-### 世研观察｜追觅入局纯AI手机、vivo X300系列与周杰伦演唱会官方合作
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7828958404_1d2a46cc40010188rc.html?from=digit>
-
-### 周杰伦进京赶考成功，鸟巢演唱会引打卡热潮
+### 王俊凯发布新专辑后，个人演唱会计划是否有最新进展？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6354475832_17ac19b38040019ub6.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801q4hi.html>
 
-### vivo携周杰伦北京嘉年华投放千台X300演唱会神器
+### 周同学空降北京，周杰伦演唱会前哨启动
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7096020433_v1a6f4add106801j2gi.html>
+- 链接: <https://k.sina.com.cn/article_5897618643_15f8684d304001al2s.html>
 
-### 瑞士谈判仍在进行，特朗普就发帖威胁伊朗，伊朗代表称随时准备反击｜特朗普日报
+### 周杰伦空降北京，演唱会前哨引热议
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-06-23 06:43
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE1mQUJENVpGM0xlT1c0bG9sSVd3QUViRmpXM1dlNHpySEk1ci1LNHd0RFYtSjhXN2pJRXBjYXEwd1Y1Nm5kcHFscENpVkx4WjBwVHNtREdiT0gyX1EwSVRmbUF5akpZTzhGbm52WXJuaENTQQ?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_2099181812_7d1ef8f404001jrro.html>
 
-### 特朗普：如果伊朗不遵守协议，我会做我该做的
+### 周同学空降北京周杰伦演唱会前哨来了
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://finance.sina.com.cn/jjxw/2026-06-23/doc-iniekvas2030545.shtml>
+
+### 美能源部长吹嘘特朗普叔叔科研成就，诺奖得主当场表示没听过
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: thepaper.cn
-- 时间: 2026-06-23 07:27
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTFBBYTV3TFZ2RkRRTVRkQmdZX1pTLWg0SWV6QW0teUhJVU9zSGdGRHpSRU8xWElGemVSS25maDBRYjRqOE1ROGtfQWdRWDQ5YlRxRzUtNTVKeUZub1AzS3c?oc=5>
+- 时间: 2026-06-23 07:32
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTFB6ZFcwc0pTaVlkSmVrT0NWeGhZQUw1MzlxMTcyQmdRQ2J5MTlNa1YyeVctYWhsc2NINXR4QkJDZzI1eXU5aFA4UU45akZWUzBoaXppWS1jZmd1RjJ2VXc?oc=5>
 
-### 特朗普直接点名：“一个小忙都不帮”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪军事
-- 时间: 2026-06-23 07:17
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1WLWlnYTJwYnVHOHJTMHVxZjctRU1TSldXdDVHNHlVRkdZaHJZVE91OG5NUTZrY0RYbHJFRUpqQmtVV0V4THNYMVl4aXg5b1BiR1BpOTVRYmZUQldEcXRlc3pKcUQ1dDktMHRCbURrZlk3blU?oc=5>
-
-### 盯上下一场科技革命，特朗普猛推量子计算机-观察者网
+### 国际丨“这回答很蠢”！特朗普怒批英德意“连小忙都不帮”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-06-23 07:12
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9wMUt6REhES3BrQTFnWW1ibkkzYkh0c3BBeEhUNWY1bU1aWFY0eGxWMjNQazl0RV96bENaSDlUTTBOUEF3bV9qYUw1VVJNc2RJM2ZvdU5GTVRHMDZPLWpULVhuWWVTVm0yR2c?oc=5>
+- 场馆: 新京报
+- 时间: 2026-06-22 20:00
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE15YjV1UllHUlBMQVo4T1hWQkp1LVBYVU9QbUcySVYwTHBZMmc1ekJNeVZ1U0lyajA1NjhJRkxUanBTSGMxZDRmemdmaHFwREo3YlZENWhqRzlBU09vQV82aEhnZGw?oc=5>
 
-### 特朗普政府对非洲“反同法案”保持沉默，凸显外交政策变化
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-06-23 06:39
-- 链接: <https://news.google.com/rss/articles/CBMisgFBVV95cUxORnRiR0FSWGtVOHBWWUFaTTZDTDVFNFoyY3dzYWRUMlY2R0l5eGVIX09nb1ZxMm5vTVNIcEhlaEYtbUFwY0R4U1NGYW1PSllGeTVmSWczNkhIb1Z3MGhFX3F5eldnSUM3M1l5Z3RnN3VYaVBxbUZOSHA1QllfdTRXNGdJbmJUeDhIYkZTN3ZaMVdkRGVFMlNFb2FiS2poUmFMbGUyMllKZHdrMm0ydGx6aUxn?oc=5>
-
-### “白宫股神”又发威：特朗普公开称赞IBM 推动公司股价大涨超4%
+### 特朗普吃酸菜减肥？医生：适量吃能减内脏脂肪、改善肠道菌群和心率 内阁官员纷纷效仿
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-06-22 04:01
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzMm9vdU9SS3hjM1M1aVZEcUtXRmlJZDV1S1N2NC1DYWlfeDZNZUkySFI4ZEgtSzM1OTE1dWlHMl9Gc0tTWDV2Uk0xVE8zZEtBY0o3Zl9XdU01ME85SDctQQ?oc=5>
+- 场馆: 中华军事
+- 时间: 2026-06-23 05:21
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBsYUhWeFZWN0V0alh5Y2RpQ1AzNUtRZ1pobmZrRG5KMG5RSVN5QWtuYTN1dEVvdl84U3M5bzZyOGVYdEtiV2RYb3hMcUxPQm1sQmMwSDlHUm9BT3N5TDRGSmNWc21SdjZic2tobldGaTg?oc=5>
 
-### 美部长吹捧特朗普叔叔，尴尬收场
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-06-23 07:25
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5wZC0xSWlfSUlmMWNVdXAwRGhNaF8wa0t6cjQ5Nmdmd1dsQjdTbkc2dUlhWlo3c0RkLXo4X2kzQXlxTjd1VEl5WHRwMGc?oc=5>
-
-### 哥伦比亚亲特朗普候选人赢总统大选 该国政治右转 美国务卿祝贺
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-06-22 17:04
-- 链接: <https://news.google.com/rss/articles/CBMisgNBVV95cUxORkpCQ2FfRmRKWEdtenNEb3BET1NBNFhTSlNKOXJPa092T3hGZXZpcHVTcFJHeFg0YUs3Z0hNWTY4MUdxN2steVJTWUR3cU5sbjJuaUNQVTZIQlk2bXdwSmc1T3VHOGJLYlhkQ2E0cTNhWXpWbmRaX1RhZkdJbDczMUtXRHByOGtneHlTendIOGUxNklqLWpJYTRKVzd3UUhhQTB2dGFwVDdiLUVibFU2dlphM09PWnlRWkZuRVcxcUY4X0xIWDV6UEhoZGVMWTRKUWQ2T2piYjJiM09BandKbEgybmhZREJnVFBrVE5RTGFhNEU2X1B4NXQ2VXFiUS15Mk5GMUFuQjFvVmg2aHdONlBudGcxZUhldkNVdXRZXzRtRm1idWdCaHY0X25TZDYwYThFMjZVS1VRTTZmUzFBT2dIQzVOQzlYYnJGV3hPOXVRZmR2ME95a2ZzS2xHZHJiM1Q5Q050N213bzROOC12NnRLRkRYY2dmRVJ3ek5vZ0phemFOSnlMeGdEa2U4WXMweXNBUldsS3FTU2R6T1dCM29RbG16di1VXzU5bHc2bVQzZw?oc=5>
-
-### 最新民调：澳洲人对美国的信任度跌至历史新低
+### Trump Media & Technology Group Corp(DJT)公司估值_市盈率PE/市净率PB与合理估值查询
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Australian Broadcasting Corporation
-- 时间: 2026-06-23 00:43
-- 链接: <https://news.google.com/rss/articles/CBMid0FVX3lxTE9xZzFNMXFmbzAwajdaaVhBcS1MWkFSanpLUlNwQzZsZ1UzajNsZ0ExUUdMa3NETzFaa1RtQm94ZWlrTWRQLXkxbDVCQmEyUnRkWlgwRW1HLXdlNklqRjI3UENXbld5VF84NS05ckw0bExScWFQZUdz?oc=5>
-
-### 拉美政治版图为何前所未有的“特朗普化”？
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-06-23 04:40
-- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxQc0hfM0dxYXpfMGhWZXdkNS1FQUNMTjBxM1hMUFFyX3FQZS1uM0VaYkNQVTc2UHFQODY4RlhqVE8wSUpwYTFlUkdSRWZSUWt2Ulc4MFcyMGN1RVpJUlpsOVkxV0djWGxjeS14TGllOUNLOEk1d09tMlFRTUR5VU9rUHZFcm1qMXJiSGV3aHA3MFlZWFRL?oc=5>
+- 场馆: TradingKey
+- 时间: 2026-06-23 06:16
+- 链接: <https://news.google.com/rss/articles/CBMihAFBVV95cUxNM1Q3T0RfRS1xWUM5bXBQMGFKcWR0QkgxLUNEZmVzcnJjZ3ZWN0hfQXlBVl9Zdl9sdGN1OGhYb2k2UUNZbS1UR0FkR3RRY1E4bC1qSktGZlJTMVZSdTMtSmk0ZXJ6NmdQZ21VelZjR09tUlJCRmk3UmVtMlhldHVKcEhhcXQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-23 11:37  (8 条)
+
+- **周杰伦** | 王俊凯发布新专辑后，个人演唱会计划是否有最新进展？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801q4hi.html>
+- **周杰伦** | 周同学空降北京，周杰伦演唱会前哨启动 <https://k.sina.com.cn/article_5897618643_15f8684d304001al2s.html>
+- **周杰伦** | 周杰伦空降北京，演唱会前哨引热议 <https://k.sina.com.cn/article_2099181812_7d1ef8f404001jrro.html>
+- **周杰伦** | 周同学空降北京周杰伦演唱会前哨来了 <https://finance.sina.com.cn/jjxw/2026-06-23/doc-iniekvas2030545.shtml>
+- **特朗普** | 美能源部长吹嘘特朗普叔叔科研成就，诺奖得主当场表示没听过 <https://news.google.com/rss/articles/CBMiXkFVX3lxTFB6ZFcwc0pTaVlkSmVrT0NWeGhZQUw1MzlxMTcyQmdRQ2J5MTlNa1YyeVctYWhsc2NINXR4QkJDZzI1eXU5aFA4UU45akZWUzBoaXppWS1jZmd1RjJ2VXc?oc=5>
+- **特朗普** | 国际丨“这回答很蠢”！特朗普怒批英德意“连小忙都不帮” <https://news.google.com/rss/articles/CBMiZEFVX3lxTE15YjV1UllHUlBMQVo4T1hWQkp1LVBYVU9QbUcySVYwTHBZMmc1ekJNeVZ1U0lyajA1NjhJRkxUanBTSGMxZDRmemdmaHFwREo3YlZENWhqRzlBU09vQV82aEhnZGw?oc=5>
+- **特朗普** | 特朗普吃酸菜减肥？医生：适量吃能减内脏脂肪、改善肠道菌群和心率 内阁官员纷纷效仿 <https://news.google.com/rss/articles/CBMicEFVX3lxTFBsYUhWeFZWN0V0alh5Y2RpQ1AzNUtRZ1pobmZrRG5KMG5RSVN5QWtuYTN1dEVvdl84U3M5bzZyOGVYdEtiV2RYb3hMcUxPQm1sQmMwSDlHUm9BT3N5TDRGSmNWc21SdjZic2tobldGaTg?oc=5>
+- **Trump** | Trump Media & Technology Group Corp(DJT)公司估值_市盈率PE/市净率PB与合理估值查询 <https://news.google.com/rss/articles/CBMihAFBVV95cUxNM1Q3T0RfRS1xWUM5bXBQMGFKcWR0QkgxLUNEZmVzcnJjZ3ZWN0hfQXlBVl9Zdl9sdGN1OGhYb2k2UUNZbS1UR0FkR3RRY1E4bC1qSktGZlJTMVZSdTMtSmk0ZXJ6NmdQZ21VelZjR09tUlJCRmk3UmVtMlhldHVKcEhhcXQ?oc=5>
 
 ### 2026-06-23 08:25  (13 条)
 
