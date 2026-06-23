@@ -1,38 +1,71 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-22 23:00**
-- 本轮扫到 4205 条, 新增 **3** 条
+- 最近更新: **2026-06-23 00:14**
+- 本轮扫到 4211 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (6 条)
 
-### 蔡徐坤的卷毛新造型和2018年深圳演唱会造型有哪些相似之处？
+### 周杰伦2026北京演唱会官宣,vivo拍照设备助力打卡
 
-- 艺人/关键词: **蔡徐坤**
+- 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801pwps.html>
+- 链接: <https://k.sina.com.cn/article_2554757470_9846815e04001lkkk.html?from=ent&amp;subch=oent>
 
-### 特朗普“抢发”斯塔默辞职消息
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-06-22 13:58
-- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE83RURCZnNMcE1JVjIzU29oNFpLX0ZnQTkwbWM4TmppOGdCZVd2ME9HMHUxN21NTTMxZ3ZROTlQNElzTWotdHB6RTdPSUhBLUwxLU9sb0RIOVNyODZ6SGQ0RnVqeWNMVV9MT3d5RUd3M21neWlVUzZrNFNTZVhBQQ?oc=5>
-
-### 意大利总理回击特朗普批评：应关注自身支持率
+### 白宫授勋现场特朗普搀扶88岁退役老兵获最高荣誉
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-06-20 17:03
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5RWUo3bkdQUTFuX1dnbXpWcDNQb2tsRjNoU3dzaXMyQmhEU0lxWDhNOFR6V0c3a1JGUEQ1TzBNd3IwX2NnOVhWV25ZNTU?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-06-22 23:10
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFA1VGxKZXBMbXJyNUZpV1NmMFhhd2pZdkVjU0VtVDdoU1hIWW9aZTRTNjNSV0R6emN3SWJNZVFnOWNWczlaNHVzWHZ2MFQ4eXg0SU9fdjFOa1c1amxRdEdKT0k5YnF2MG50WlRZSVVGNWl0eUk?oc=5>
+
+### 特朗普称伊朗将同意接受武器核查
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-06-22 17:01
+- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxOT1BnTmZaMlVKbk5lb1dUZHc0Ml9PVGZBZHlyZzdKbjNtY0lIdnRZVjRuSVZtalNaMzMxaWh6c3U1QUZqQUFSV3JSSF9SV1pqV0hqSno1QWV1MkJYZ3IwdXNJVXJuOUlaVTVLMmZ1T1FjcmdKQ2psZ2pobWFyd29nZ2hCMWJLa3NPODFLaW02ZG5xUVNoUV9BS3ozS21RVUVDLXpxcExCcFA5UkNEcmlBR0lxYzJ6eDZJcHZNN0VURlp6aHc3ZWpFRnJKV0xSMEk?oc=5>
+
+### 特朗普：伊朗要买美国食品-观察者网
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-06-22 23:17
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1tMkpXWmdRb3BqeTRKVkhHUnp0OWkzNU1acVdWeXFPSGJqSHFJQk15S2RadTZMaXR6SjFVRzkzdU1wR0J2Y2NoQW5WT3dXeWRPUjc3MERHdGZ6VEo4UC1YbVJuOWtDRjRmbHc?oc=5>
+
+### 梅洛尼与特朗普为何突然“翻脸”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-06-22 23:53
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE1qQlJIZUxlcHdkYlZBZ3JlMEVXOURNcl9oYkw0aEVwaG1NRlJFdGpZQnNqT1VQcTVZYUY5RlVXOUIxT2V4bzdObU5Sc29QXzliUnRubEFkSzI3MFNPOV81ZVpFWG8wX1BKR2NCWGVUdjdoQQ?oc=5>
+
+### 特朗普的高尔夫商业帝国价值几许 估值约10亿美元
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-06-22 23:40
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1LeFlKazlweG5HOUZnMnhoQ25xUndSRUdieGwwOVd6eUZCN2NadEhybXkzOVA5dUdNOGhmQTJHclk4YVRTRTlMSHVLeGg2SjRnLVRDalBIZDZIdDVNdnZJQWpNVU44bFRvWlRaYzBrX3U?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-23 00:14  (6 条)
+
+- **周杰伦** | 周杰伦2026北京演唱会官宣,vivo拍照设备助力打卡 <https://k.sina.com.cn/article_2554757470_9846815e04001lkkk.html?from=ent&amp;subch=oent>
+- **特朗普** | 白宫授勋现场特朗普搀扶88岁退役老兵获最高荣誉 <https://news.google.com/rss/articles/CBMic0FVX3lxTFA1VGxKZXBMbXJyNUZpV1NmMFhhd2pZdkVjU0VtVDdoU1hIWW9aZTRTNjNSV0R6emN3SWJNZVFnOWNWczlaNHVzWHZ2MFQ4eXg0SU9fdjFOa1c1amxRdEdKT0k5YnF2MG50WlRZSVVGNWl0eUk?oc=5>
+- **特朗普** | 特朗普称伊朗将同意接受武器核查 <https://news.google.com/rss/articles/CBMizwFBVV95cUxOT1BnTmZaMlVKbk5lb1dUZHc0Ml9PVGZBZHlyZzdKbjNtY0lIdnRZVjRuSVZtalNaMzMxaWh6c3U1QUZqQUFSV3JSSF9SV1pqV0hqSno1QWV1MkJYZ3IwdXNJVXJuOUlaVTVLMmZ1T1FjcmdKQ2psZ2pobWFyd29nZ2hCMWJLa3NPODFLaW02ZG5xUVNoUV9BS3ozS21RVUVDLXpxcExCcFA5UkNEcmlBR0lxYzJ6eDZJcHZNN0VURlp6aHc3ZWpFRnJKV0xSMEk?oc=5>
+- **特朗普** | 特朗普：伊朗要买美国食品-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE1tMkpXWmdRb3BqeTRKVkhHUnp0OWkzNU1acVdWeXFPSGJqSHFJQk15S2RadTZMaXR6SjFVRzkzdU1wR0J2Y2NoQW5WT3dXeWRPUjc3MERHdGZ6VEo4UC1YbVJuOWtDRjRmbHc?oc=5>
+- **特朗普** | 梅洛尼与特朗普为何突然“翻脸” <https://news.google.com/rss/articles/CBMickFVX3lxTE1qQlJIZUxlcHdkYlZBZ3JlMEVXOURNcl9oYkw0aEVwaG1NRlJFdGpZQnNqT1VQcTVZYUY5RlVXOUIxT2V4bzdObU5Sc29QXzliUnRubEFkSzI3MFNPOV81ZVpFWG8wX1BKR2NCWGVUdjdoQQ?oc=5>
+- **特朗普** | 特朗普的高尔夫商业帝国价值几许 估值约10亿美元 <https://news.google.com/rss/articles/CBMicEFVX3lxTE1LeFlKazlweG5HOUZnMnhoQ25xUndSRUdieGwwOVd6eUZCN2NadEhybXkzOVA5dUdNOGhmQTJHclk4YVRTRTlMSHVLeGg2SjRnLVRDalBIZDZIdDVNdnZJQWpNVU44bFRvWlRaYzBrX3U?oc=5>
 
 ### 2026-06-22 23:00  (3 条)
 
