@@ -1,64 +1,89 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-23 22:45**
-- 本轮扫到 4283 条, 新增 **6** 条
+- 最近更新: **2026-06-23 23:52**
+- 本轮扫到 4291 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (8 条)
+
+### 暑期京城演唱会热度一路飙升
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5952915705_162d248f90670360sy.html>
+
+### 特朗普儿童储蓄账户注册量已超600万个
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-06-23 21:18
+- 链接: <https://news.google.com/rss/articles/CBMijwJBVV95cUxQMGhsd0dSYzRoeFV2eFJmOTIwMmpCOVpKVDhfazBZVTBtWTFmRllaRVhmNi0wRldrT01rMHo4elVBOUF5c0NEMXY0bHZidFhaYWlhLVB0OVBIV3VZUUFMOVBmTmtkejFqTGpuSDM1STJvdjQtUktZbUYxaUI0NUl5am1FVUlzNGVWVS1qeTdhdWNoQkZnMnctU0xsYXZqdkUyU1ktMy13NnZYbDVUazZYa0tsem85d0k1eGxLdjBOdXg3NGptWnVvaGZfSVFST2YtdHFBYmU1RTlzeEY5bTFLQ3kwLWVQeUVMOGE2STR1MHp0S2dsMVd3R2J6ZlM5SU1hcHg1M1Z2VnZwSUs0N3ZB?oc=5>
+
+### 特朗普将目光投向中期选举 鼓吹战争结束经济即将起飞
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-06-23 21:24
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxNSjFQVmx2aVlYUmZRYjRvMW04V2xmUjd3cnItcDN2MU10QldMejBqLXVKVW1hbUhlZmhHNVViaDNFOXRqMl9OSGhNSlB1MmNrQWhiVG1pSmRDNVg3dFZhYWtjeE9LeFQ0T0NIaWstV1g3eV9IYUxuMmxRVDVWZWlQcDFNOFZySjA?oc=5>
+
+### 特朗普与参议院共和党人走向冲突
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-06-23 23:39
+- 链接: <https://news.google.com/rss/articles/CBMiggJBVV95cUxNS0xrSG5TQjEyaVBiczIwcTBHS2xEenJaOEFtN3ZUWHd1eE9BcE1qandtZkFXLTRnVUY0V19oVGcyUGN2cjZvNmFDclBqd08wYlV3MHF6VWFWalN3ZThjWXBYdUpFMWJrMldsekx6OHVuOGVrTmpwTHpSREFsV1gtbWRVanpFZnlxVjVwQ08ybWNzMGlLLTFwbVg0bWN2YkRBem5LckVEQW5Oa3ZLaUp3Q2JDcVRSbjhvbHNaWk1EMU5GVzVobzE2dkFmUmd0UGZ4bDFmX19kb09qdlJZYWlZMGVxRm0yZk1GRUZLcUtvOThmN2dWcU0wTjBaRTN2SGVSc3c?oc=5>
 
 ### 特朗普称国际原子能机构核查人员将适时访问伊朗
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-23 17:18
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1fTDN3eHM2RHVDbGd3clc3cEJfemVKWlRvc19Oa19qazhxakpUQzN4bEdHZmRwOVRSLWFsOGx3dDd2TFdGZml3Mkp3dkdrUl84ajQybWRrX3VtQkxfNTA4dlBYZHA0VFhZZFZULWpQTF9KV0NrREVHRw?oc=5>
+- 场馆: 新京报
+- 时间: 2026-06-23 23:11
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mU3NUZEcyRUM0SDNkNUhibHl6VkluTVVLZlBqbkp0ZVUyc0RqNzRIckRTUkg0dHhqSVV1bURBcDZaS3J6OUdwU1dJLWJFLUdSR09TSmx4QlpabTBybm1lTHRHeUs?oc=5>
 
-### 特朗普称伊朗接受“最高级别”核查
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-06-23 21:27
-- 链接: <https://news.google.com/rss/articles/CBMiigJBVV95cUxNWS1IR2RTNzVpNGVEeDBlZHhUdlRvTTZPR3hfX3pFSndQZlBQd252N2ttV29jUEg0Z0tGdFlYZVdTaTRydEVHbF9rdGFLc2xMQmNUaXJUdXNYYll4cTJHR2dJNXZ3WnVxMmtaZFRvU2hyT3l5RzFVb3hKQjduSWM2WjkzWC15cXdQdUhuUU50cS12SVl4VHJ3TThsaGlvX1FhUFVWUW9MWU1VUVlSa1I5Zm5welhXWDBjOWJ5M1lxUmhPWnphUUVrdXNSeENWR3RSbXY5UExQZmgwSENHRmZBc1d6SXlxeGRPVnNyVVY4cGRxc2VyeFFJalJ3RFgzRDdvUHVGZDNqOHhPdw?oc=5>
-
-### 特朗普称伊朗同意接受长期的最高级别涉核检查
+### 特朗普称允许霍尔木兹海峡保持开放
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-23 11:42
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxOdVVqV1ZhLTlhd2I3aDR3V3BvSnB5T25ET2NWeFBZMl9qb3JMendYNzZFSnNxa3hfbFY5R2V0ZEkyTUE1UV9WYjk3djBQUFU1Y3lNel9oZGNrSEpsdWJXdlFjdEFDRE43RV9FbEJfVE85UXhLdnZCUmRqenk0YXpCUnczZWxISkU?oc=5>
+- 场馆: 新蓝网
+- 时间: 2026-06-23 13:08
+- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE5OX0RTZmFYaXM1Mkx1V3hkUXdxWDlYVXlqM285Q1NWU21zdzZhOC1tbHJNeE1wSmZVenJvdkt1QkNQNklsOThYaTZIV1FoeVU?oc=5>
 
-### 美参议院通过决议 旨在限制特朗普对伊战争权力
+### 美国参议院通过决议 要求特朗普停止对伊朗军事行动
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 央视网
-- 时间: 2026-06-23 21:45
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9sbVJua2xtRmpLbFRERzcxbHhYM05HZ09TSXBoXy03ZG9qUzZtMWw2aWZpNWhWZTkyck5xOWJKTUNwUk5BSTRKY3Q5VkxEOXNJeGZZa1h0dXM2d3ptV0FxMEx4MVE5dTQ4YkN1MHdDcm9zRU03T3lGaw?oc=5>
+- 场馆: 8world
+- 时间: 2026-06-23 22:57
+- 链接: <https://news.google.com/rss/articles/CBMikAFBVV95cUxNcGFwQ1gxTDBDeWM3VnR0VTZ1UTJFb0xXRUZyc0RwdEdMTVB2RzdpV05yNHMtdVRSX0FabjUtYVRyN3RVV2ctdmhqNWNKVmNObko0Z2JtX295aEdfWFhKejd0S05WMGFUamFoeG9jWWZ1UTc4Q1l4ZWREYmxwSmstbzNWSzd5VVFoNmh2VXc4V3k?oc=5>
 
-### 梳理特朗普关于伊朗战争的言论转变
+### 特朗普总统：解冻伊朗资产将用于购买美国农产品
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-06-23 02:41
-- 链接: <https://news.google.com/rss/articles/CBMijgJBVV95cUxNSHZoMWJYd2JlZUw4NVNObWlUTUd3LXR6OGp0TnRxNW52a2pySklmZFF1amtjLWNpODJBSHFmSm1jWWZMM3RQc0xVa0VwM2JRcHlmMEZ5amhmTmtZbGpKTW9oTkVFZ3J1LXhSdk82eVk5RWo5cFBJdFFTZVZ2OUZsMkl4TFdPWkVNQml2WHZPeUdGbmEwTEgzYTF5QWlqb3dIR1NxaWZkRVVEQ2xVa2FLZ2xKdFNac0NUQ2tLOThBV2J1N3hlT0FmTGtuZGlkZ3pCOUZpVW43LWFYeEUzZlU0MmJQLXppZDlIak1oM05JODkzaFU3RkpPS1dCdWdORmpTdXR4N1ViZnN1NUJYN1E?oc=5>
-
-### 美参议院通过涉伊战争权力决议 特朗普遭遇象征性挫败
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-06-23 21:05
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE9oLVhuVzZKN3VSRWdocmRzb0RPTU1pQURoTmlkMG90cmlOaHhEYi05anhEQ1dSUVhsZDJpOFBwdnB3WGJyYlE5dg?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-06-23 23:17
+- 链接: <https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbE5MN3J5YWpzdHJFSlhtTWdtNS00Y181Tks5ckZFRFNfUDFfdHk1cGU4dUxNenFQLUU5Z180ZFNtYXo1NzNFdjNwYldZMTRYdUc5YXN4eElCbUlwaS1KOVl3b1d3YktGRlM4eXVhSkdlSHFfYzFGTU9feEFlclo0QmFvZTJiUGQteTl4UjlKSkdPQXZGZEdiVnIwRW1HdlN4cFlJd3ZXb3Z3TjFTbXVnRWJtUE5kSXpJRENFdXMtYnMxc2dJT1pMQWlhcncyRkRYYlhueHh4aWQyNFVKMHFBdlFRbUZtZ0k3dmfSAewBQVVfeXFMTTZScnFhdGNIWU5PeGdrODFaSjBKRjJTRDRGc0psU3pnQU9BUWI2UkxIM2JidUVOV3dsN0tWaW0zTkpTTVdOYVpzWDYwRU92NlgtREhfVGNHdFluU1lSY29wRktKUGdRRThoanVBcWZPdW5TaGtURklvUFJBVGxOZ1Z1NjEwenBVVzFLWGc4cFBPV0dmdFJsQUtROXNOai1zdGFwUXUxY0o4VUxjMko0LWg4XzVmVGY0aVNFRjIxTzdxb2c3cUJMQlJCRzVJVS1CbURwU0l0TzlwdFd2czhQX3RtRGZmRG9uQVBxZUE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-23 23:52  (8 条)
+
+- **周杰伦** | 暑期京城演唱会热度一路飙升 <https://k.sina.com.cn/article_5952915705_162d248f90670360sy.html>
+- **特朗普** | 特朗普儿童储蓄账户注册量已超600万个 <https://news.google.com/rss/articles/CBMijwJBVV95cUxQMGhsd0dSYzRoeFV2eFJmOTIwMmpCOVpKVDhfazBZVTBtWTFmRllaRVhmNi0wRldrT01rMHo4elVBOUF5c0NEMXY0bHZidFhaYWlhLVB0OVBIV3VZUUFMOVBmTmtkejFqTGpuSDM1STJvdjQtUktZbUYxaUI0NUl5am1FVUlzNGVWVS1qeTdhdWNoQkZnMnctU0xsYXZqdkUyU1ktMy13NnZYbDVUazZYa0tsem85d0k1eGxLdjBOdXg3NGptWnVvaGZfSVFST2YtdHFBYmU1RTlzeEY5bTFLQ3kwLWVQeUVMOGE2STR1MHp0S2dsMVd3R2J6ZlM5SU1hcHg1M1Z2VnZwSUs0N3ZB?oc=5>
+- **特朗普** | 特朗普将目光投向中期选举 鼓吹战争结束经济即将起飞 <https://news.google.com/rss/articles/CBMihwFBVV95cUxNSjFQVmx2aVlYUmZRYjRvMW04V2xmUjd3cnItcDN2MU10QldMejBqLXVKVW1hbUhlZmhHNVViaDNFOXRqMl9OSGhNSlB1MmNrQWhiVG1pSmRDNVg3dFZhYWtjeE9LeFQ0T0NIaWstV1g3eV9IYUxuMmxRVDVWZWlQcDFNOFZySjA?oc=5>
+- **特朗普** | 特朗普与参议院共和党人走向冲突 <https://news.google.com/rss/articles/CBMiggJBVV95cUxNS0xrSG5TQjEyaVBiczIwcTBHS2xEenJaOEFtN3ZUWHd1eE9BcE1qandtZkFXLTRnVUY0V19oVGcyUGN2cjZvNmFDclBqd08wYlV3MHF6VWFWalN3ZThjWXBYdUpFMWJrMldsekx6OHVuOGVrTmpwTHpSREFsV1gtbWRVanpFZnlxVjVwQ08ybWNzMGlLLTFwbVg0bWN2YkRBem5LckVEQW5Oa3ZLaUp3Q2JDcVRSbjhvbHNaWk1EMU5GVzVobzE2dkFmUmd0UGZ4bDFmX19kb09qdlJZYWlZMGVxRm0yZk1GRUZLcUtvOThmN2dWcU0wTjBaRTN2SGVSc3c?oc=5>
+- **特朗普** | 特朗普称国际原子能机构核查人员将适时访问伊朗 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mU3NUZEcyRUM0SDNkNUhibHl6VkluTVVLZlBqbkp0ZVUyc0RqNzRIckRTUkg0dHhqSVV1bURBcDZaS3J6OUdwU1dJLWJFLUdSR09TSmx4QlpabTBybm1lTHRHeUs?oc=5>
+- **特朗普** | 特朗普称允许霍尔木兹海峡保持开放 <https://news.google.com/rss/articles/CBMiT0FVX3lxTE5OX0RTZmFYaXM1Mkx1V3hkUXdxWDlYVXlqM285Q1NWU21zdzZhOC1tbHJNeE1wSmZVenJvdkt1QkNQNklsOThYaTZIV1FoeVU?oc=5>
+- **Trump** | 美国参议院通过决议 要求特朗普停止对伊朗军事行动 <https://news.google.com/rss/articles/CBMikAFBVV95cUxNcGFwQ1gxTDBDeWM3VnR0VTZ1UTJFb0xXRUZyc0RwdEdMTVB2RzdpV05yNHMtdVRSX0FabjUtYVRyN3RVV2ctdmhqNWNKVmNObko0Z2JtX295aEdfWFhKejd0S05WMGFUamFoeG9jWWZ1UTc4Q1l4ZWREYmxwSmstbzNWSzd5VVFoNmh2VXc4V3k?oc=5>
+- **Trump** | 特朗普总统：解冻伊朗资产将用于购买美国农产品 <https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbE5MN3J5YWpzdHJFSlhtTWdtNS00Y181Tks5ckZFRFNfUDFfdHk1cGU4dUxNenFQLUU5Z180ZFNtYXo1NzNFdjNwYldZMTRYdUc5YXN4eElCbUlwaS1KOVl3b1d3YktGRlM4eXVhSkdlSHFfYzFGTU9feEFlclo0QmFvZTJiUGQteTl4UjlKSkdPQXZGZEdiVnIwRW1HdlN4cFlJd3ZXb3Z3TjFTbXVnRWJtUE5kSXpJRENFdXMtYnMxc2dJT1pMQWlhcncyRkRYYlhueHh4aWQyNFVKMHFBdlFRbUZtZ0k3dmfSAewBQVVfeXFMTTZScnFhdGNIWU5PeGdrODFaSjBKRjJTRDRGc0psU3pnQU9BUWI2UkxIM2JidUVOV3dsN0tWaW0zTkpTTVdOYVpzWDYwRU92NlgtREhfVGNHdFluU1lSY29wRktKUGdRRThoanVBcWZPdW5TaGtURklvUFJBVGxOZ1Z1NjEwenBVVzFLWGc4cFBPV0dmdFJsQUtROXNOai1zdGFwUXUxY0o4VUxjMko0LWg4XzVmVGY0aVNFRjIxTzdxb2c3cUJMQlJCRzVJVS1CbURwU0l0TzlwdFd2czhQX3RtRGZmRG9uQVBxZUE?oc=5>
 
 ### 2026-06-23 22:45  (6 条)
 
