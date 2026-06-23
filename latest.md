@@ -1,138 +1,89 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-23 14:35**
-- 本轮扫到 4260 条, 新增 **16** 条
+- 最近更新: **2026-06-23 17:12**
+- 本轮扫到 4268 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (16 条)
+## 本轮新发现 (8 条)
 
-### 周同学空降北京打卡多地，周杰伦演唱会预热
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1954000705_p7477af4102701crse.html>
-
-### 周杰伦2026北京演唱会6月26日鸟巢开唱
+### 北京七八月将有数十场演唱会
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5735297670_m155d9b286033013qh4.html>
+- 链接: <https://finance.sina.com.cn/jjxw/2026-06-23/doc-iniemmyi6258499.shtml>
 
-### 周杰伦领衔众歌手一日五场同时开唱，本周末北京演唱会热度一路飙升
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://news.sina.com.cn/zx/2026-06-23/doc-iniemfsm6335633.shtml>
-
-### 两位参议员就关税对制造业的影响向特朗普政府施压
+### 牛弹琴：特朗普学乖了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
+- 时间: 2026-06-23 17:01
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBpb3loeXBHNzdCREphRkdHY0FiX0VKU2liVkRYNUctS3htUFVaR3JZSDFtbW13c0hDTXp5U1FsOE44UTk5cXlCcnhzbUo0Z2xSWk8zSi1FTkNoNjdmMWp2cjVha2t6RHNCX24tM2ZYSTVaY1dpUVlMRg?oc=5>
+
+### 事关霍尔木兹海峡，特朗普最新表态
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Sina finance
 - 时间: 2026-06-23 12:37
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxQMTNnV3phNU90eEVlYUFKTGFNLWxoV3ZkamVpRTJWdUhMdHk5WW1yRXRhSWx5OVoxT1dxaXFSZUVvdWZCRlVuc0xiTnNpQ1RBd1pLRHE3QjVTbHlvUFpfT01IRnk2NUtmSXlPZ3oyaThGd1IwYWd5VFFmTnRtcEtoT2pSUHR4Wms?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBxMHB4clNHeXY0NmRwRVZXNlY5SDRuTFFjeHhRd2VHY3BWWk5pOEhSUS14bU1HNUNxN0RKLWNMNWotc1o1YkxsbVl4YS1xMGVsdmQzVVR1OHFBdDlpMXVZSG1VcGJ4dk9RQVpERVFHWEs1VUl0NndsOQ?oc=5>
 
-### 特朗普称允许霍尔木兹海峡保持开放
+### 特朗普政府将提供170亿美元贷款，加速美国10座大型核反应堆的部署
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Sina finance
+- 时间: 2026-06-23 15:07
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxPa1JLZW1kRVhlRkhZdDRXM0N5WVhKNW1vdElCUmRDWjBUVlZoM2VWZ3NqQkR4d2ZUNlNGUjNxZC1VV2xWUUFEbmVRSVpibFNwX2hLZ0RhSkVQZFZabEM5d3JBRDZqR3I4eDZOb3UwVEloZGhWaW9pYUs3QzZIbXBncDU5UmxpQ0E?oc=5>
+
+### 特朗普儿童储蓄账户注册量已超600万个
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-23 11:43
-- 链接: <https://news.google.com/rss/articles/CBMingFBVV95cUxOZmFuVnVlVThlZmIzLXdmeDZqZmpXNUtQY1pHODRtZWs4OG1ib2RCUWdIMW5GWGVhRWZ4VUp0a0NtMW1vTUlIMVl6SnRvUV9OOFduVm5OUGt3Y2dQTXZFb3ozSFVjY003QmRna0lGWUczalJ0ZzY3M1phRVg0V2VjaTNMOFR3WlVXeUZORWQ5QlVFX1BTZzZCcUQ2SGNOUQ?oc=5>
+- 时间: 2026-06-23 16:51
+- 链接: <https://news.google.com/rss/articles/CBMipwJBVV95cUxONUhHTkpfenlNWlhEeWNwM1M3cTJaMTY3NGRyOG5SRGZjc3hLSjlkNXpuTm5pQWl0TDVvQWh5S1N4WnFwMzRTemlFQ3EtVHBBQVV4UVAzYnl3SzVYVXYtdzJYYmRhalBjdUdSUnhoYTBQMmxOVWdSRGw5WC15bXBLSDVLTG1pLTR3Vm5ZTFktYldWSHZwanhMMDZIa2NXcENoMHVkaG9ueGNkdE1Pck5TeUVDeWM4bE5vbkthUFVnOGkwQldwSVd2YzdxcVNLTHAyb0Z2RmZpYTZqOTg5Qmw0OTgzNkdwX0hIeFFzMmJGN1NUWV91LUNOc1lZRlVfUWV1d3lldjNzNzNYY2M1c08tamdabjR0LWJNWkJkTVE5OWlzT0U4anNr?oc=5>
 
-### 特朗普称伊朗同意接受长期的最高级别涉核检查
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-23 12:32
-- 链接: <https://news.google.com/rss/articles/CBMiowFBVV95cUxOWnAwNGpKbzl4QmxVYllFOUtwbGZRQ3FLeVBzREd5bjkyQzZmcWRNQ2ltd3RIT2dXZkVVdFVLMTdMZExNTTczQXZFemJSQjZ5c2JPeF9NaHhDWWk0WWExU1RmRnAzZFdnTjZDUUpzaEpHNFVMQV9GazBlbWRjdFRXNUZxWVpCaWlYeUw2ci1SdzNYWXpxTWd4dGpTUEdMakpzaDFR?oc=5>
-
-### 特朗普点名英意德差劲
+### 特朗普总统签署行政令，争取在量子竞赛中领先中国
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 每日经济新闻
-- 时间: 2026-06-23 11:43
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1QQldVZzA2SzVmaDIwcmdMWGVKbndKX3lfcEo4ZkNCSlRyNGJlbURGbFIwaGhSMVdFNDdYeWl5cEExQ3ZpaTF0eVRDSzJvTURDcF9qbVotcUJoR2JOLUJnTy02TTA0Zw?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-06-23 16:36
+- 链接: <https://news.google.com/rss/articles/CBMisAFBVV95cUxPX1ktTWZoLVJ4eVgwbnhFMGZlY2VHWlZuZG16eF9CemwtNTA2eTVlMzk1bnFoakFZWnUyeXltUjBmc3hzTWR0ck41OG1UcE9JY2JsbkNKUTh4WUVSQjFNSVZ0Zk01d3lNUmJjX3ZVZnhMRWJqLXRpbzRMb0J6eFlpTUJvQW9fY0t4a2k5VHFDU1ZGVXg0aUh2Si1ITUpGcDJ1M1FtQjY0WVREaVJ1Q0lvdNIBswFBVV95cUxOVGVGbmt1ZnlabGNoU2Z3ZkNzaV9rQ3FReUdMeHZFWXlLQ1M4UHhwTHpIWDhkZHVnMm5aZkVZbHVuUHN5SmVCdnBGSmQ0XzJqX0JfSnJxZDVHQ1RpS0VpaDNxRWhyQ2ZxbDJUSDdhWkhDMXdWYjBCQzZYY1psS3o2MWk1WHhpaEh5MUpjSHRXeXd4Ukwtdzdadl8yaWVGcV9PamhDQmdIaGRONFRDeWRrcnBqTQ?oc=5>
 
-### 特朗普“羞辱”梅洛尼有何连锁反应 盟友情谊破裂
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-06-23 12:30
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFAwaFJyZkp0eEx2aU1keVhhNUpHeWFtVDJqVUVyaGZRQ3NCRTl6LVFKSnVTNXN5Z1JvQlI5X2JyeVJMR0JGV0pVZ0l0Q2pfeDIyM1oyT3dUdXJ0cFZybnVfQ0VnUHQwX3gybENPUnp6MFQ?oc=5>
-
-### 五角大楼刚夸完，特朗普就翻脸，意大利在三件事上惹毛特朗普
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-06-23 12:31
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFAxS2lfUHVXbzFrX0NXUkNFZDV0dVBPNTQ2UHR6XzJjbTRncTNQemxGekVPUng4ak1YTEVlUjFzNk1oRkRYREpSMmRnUmNpMVF6RUx6R3hleGF4a1E3Yl8wQV9Nd2gwV25aeDZSOWhxVEo?oc=5>
-
-### 美媒：万斯主导伊朗谈判，特朗普却不断给他添乱
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-06-22 14:11
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBaaWlDZnR3NGkyQlNsNnJGYXNjY3M3OWk2UU44T1BMRE9VYm1hdlEzM2IwWVl1amlVVGlTak5uUVVWTEw3VVkxVEgtNDk?oc=5>
-
-### 特朗普：允许霍尔木兹海峡保持开放
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-06-23 12:00
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XQzF4NWNaUWdBaFR5SzZCTlNtcEJMTXdaV05zQnhmNFlROGNhdmd0RGU3eHVUSTZIQXNlYUVJdHJZUG85eVJJZS1mSXcwMUNRNU05VkN2NU82MEQtQUE?oc=5>
-
-### 特朗普：我很快能解决黎巴嫩问题
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-06-23 08:10
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE13Rm0xYTBodWJrOVJJTmpGS1ZfblZQaUlhSGcyV0ppeWJsT1R2Qmh0SGkzX1hxNWlfTi02WXRzMGtueVpPN1oyd2xaX2YxVlNscFNEZk1rWG5IaFRCb0Rxa0xQaGxOTXFx?oc=5>
-
-### 热门板块速睇：美股盘前特朗普持仓概念走弱，闪迪领跌
+### thanks trump
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: Moomoo
-- 时间: 2026-06-23 12:50
-- 链接: <https://news.google.com/rss/articles/CBMisAFBVV95cUxOa0E3Vkp4amNrb1hKaWZLUEJDMFMtNTVWMnQzQzZINVpYUlF5VUQ3MzdOU09xamhqOGxGS2J4Y1NaMXMtbl9FLWpzYjI5b015Z3lNMGZUa3JINzdoN3NZMjhZVHFJalJZV1FJV3ByalFfQ2FsUC1EdlRWb1hkUm9aTi1Kem14dDEzNEpibVRmTnZGdnB3Zm1DcGhyS2ZxUmE3MzcwdjQ0ZE44U3JWWkhFag?oc=5>
+- 时间: 2026-06-23 14:56
+- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTFB3dEtsUHh3NjBGN3VOaHFIZjBlaF81N3loWnNWVmQ5MlFNTG1WTl9pLWFiNEZuYnQ3NEVLRjN2RDRIckVuTHhDZW1UOU9URDVhSFBXUnBxbTU4R3pucDdGUkFqeVEzaTlQUW9GS3NXeEE4V0EwT2l6dUJHQQ?oc=5>
 
-### Trump Threatens to Strike Iran Over Hezbollah as Lebanon Snarls Talks
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-06-21 17:59
-- 链接: <https://news.google.com/rss/articles/CBMirwFBVV95cUxPc3dLNVYwazNSSmRpWHZSXzlJTFpvWlBUSkhaaEgxa0lITGh3dUpOQUt2SjRjc255TnE3cWl2aFp3UlFlOUVkUzFBeTJ1ZjVrQTRrYkZrUVJLTExlTUxjM2h0VDFpN0xVbkEzLVlSTkQwb0ZyMmc3WEZCOGZQTy1VZ1ByV0s1OWx0eGl3Wkhrdkc1WHdzOGVMNjA3Y3lSRERpVlNpOHNDY0o4blRQMzJB?oc=5>
-
-### Trump对媒体称：意大利总理在G7，不断求合影，他本来不想照，但觉得她也不容易…意大利总理：瞎编的，没这回事！我从来不恳求、意大利也从来不恳求意大利外长取消原定下周访美计划，以示抗议
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-06-19 15:26
-- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTFB5aS1nMmY0U0gyUVVmcjRIN1lQbVRNc002SlFGWDItSjhMaW0zWDZqN2VxUE9BTGY5cTY1bVd3N1RERzhuME4xZU1NaVlDakJFaXhodnRYMXFibVBKN1BOR2FzTQ?oc=5>
-
-### 刚刚传来：🇺🇸特朗普总统表示昨天有1900万桶石油经霍尔木兹海峡流出，创下历史新高！油价正大幅下跌，世界也变...
+### 特朗普签署了一项关于未来主义机器的昆腾计算机行政命令
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: Moomoo
-- 时间: 2026-06-23 11:54
-- 链接: <https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWC10U1k4STF6Ry12S1h6UFBYMmxqWUY0NDlpbGxiSVkyTnBBTi1YR3M5M09yQXVPZzlVRHlJSGMzcDRHRV9yYWQybGdBMDVqbHdCQWJxWkFtV0l6LWphcEY4ZzNWMjJRcGZWcDI0OGo0UV9mWVdBVl9QY0l0S1I4dkN2RHZBTDhiNlRKZjFhTkVDcjNmNmlfdmhzSXYyMGJmWVJGUU5Vam9lVlFiRDJtaFVXOFpxR2VV?oc=5>
+- 时间: 2026-06-23 14:46
+- 链接: <https://news.google.com/rss/articles/CBMixgFBVV95cUxNQmRIcFBNbkk3eEdGeE4wRnBMVjRQMHNnUXh3UVRJSlpRYTdpdUN0WVhlQ1l4V195aUVEeXh5eGFlb29yeUFsZ3MtM0F6ZnRyS3VSRzJrOHBteUpuU3lEX1hFUXhwOGtianlOX3FNaENxM0RmUDRkbTkzZF9XMkx5RlEwbkpaRTdKTVVjTklQcVAtSC16WHY3MEYzR1UyUDhzUGRCN2doSTVlS1ZDcWtGZnRXUVdwSDN3SktnOUFXbklOaGFJTGc?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-23 17:12  (8 条)
+
+- **周杰伦** | 北京七八月将有数十场演唱会 <https://finance.sina.com.cn/jjxw/2026-06-23/doc-iniemmyi6258499.shtml>
+- **特朗普** | 牛弹琴：特朗普学乖了 <https://news.google.com/rss/articles/CBMieEFVX3lxTFBpb3loeXBHNzdCREphRkdHY0FiX0VKU2liVkRYNUctS3htUFVaR3JZSDFtbW13c0hDTXp5U1FsOE44UTk5cXlCcnhzbUo0Z2xSWk8zSi1FTkNoNjdmMWp2cjVha2t6RHNCX24tM2ZYSTVaY1dpUVlMRg?oc=5>
+- **特朗普** | 事关霍尔木兹海峡，特朗普最新表态 <https://news.google.com/rss/articles/CBMieEFVX3lxTFBxMHB4clNHeXY0NmRwRVZXNlY5SDRuTFFjeHhRd2VHY3BWWk5pOEhSUS14bU1HNUNxN0RKLWNMNWotc1o1YkxsbVl4YS1xMGVsdmQzVVR1OHFBdDlpMXVZSG1VcGJ4dk9RQVpERVFHWEs1VUl0NndsOQ?oc=5>
+- **特朗普** | 特朗普政府将提供170亿美元贷款，加速美国10座大型核反应堆的部署 <https://news.google.com/rss/articles/CBMihwFBVV95cUxPa1JLZW1kRVhlRkhZdDRXM0N5WVhKNW1vdElCUmRDWjBUVlZoM2VWZ3NqQkR4d2ZUNlNGUjNxZC1VV2xWUUFEbmVRSVpibFNwX2hLZ0RhSkVQZFZabEM5d3JBRDZqR3I4eDZOb3UwVEloZGhWaW9pYUs3QzZIbXBncDU5UmxpQ0E?oc=5>
+- **特朗普** | 特朗普儿童储蓄账户注册量已超600万个 <https://news.google.com/rss/articles/CBMipwJBVV95cUxONUhHTkpfenlNWlhEeWNwM1M3cTJaMTY3NGRyOG5SRGZjc3hLSjlkNXpuTm5pQWl0TDVvQWh5S1N4WnFwMzRTemlFQ3EtVHBBQVV4UVAzYnl3SzVYVXYtdzJYYmRhalBjdUdSUnhoYTBQMmxOVWdSRGw5WC15bXBLSDVLTG1pLTR3Vm5ZTFktYldWSHZwanhMMDZIa2NXcENoMHVkaG9ueGNkdE1Pck5TeUVDeWM4bE5vbkthUFVnOGkwQldwSVd2YzdxcVNLTHAyb0Z2RmZpYTZqOTg5Qmw0OTgzNkdwX0hIeFFzMmJGN1NUWV91LUNOc1lZRlVfUWV1d3lldjNzNzNYY2M1c08tamdabjR0LWJNWkJkTVE5OWlzT0U4anNr?oc=5>
+- **特朗普** | 特朗普总统签署行政令，争取在量子竞赛中领先中国 <https://news.google.com/rss/articles/CBMisAFBVV95cUxPX1ktTWZoLVJ4eVgwbnhFMGZlY2VHWlZuZG16eF9CemwtNTA2eTVlMzk1bnFoakFZWnUyeXltUjBmc3hzTWR0ck41OG1UcE9JY2JsbkNKUTh4WUVSQjFNSVZ0Zk01d3lNUmJjX3ZVZnhMRWJqLXRpbzRMb0J6eFlpTUJvQW9fY0t4a2k5VHFDU1ZGVXg0aUh2Si1ITUpGcDJ1M1FtQjY0WVREaVJ1Q0lvdNIBswFBVV95cUxOVGVGbmt1ZnlabGNoU2Z3ZkNzaV9rQ3FReUdMeHZFWXlLQ1M4UHhwTHpIWDhkZHVnMm5aZkVZbHVuUHN5SmVCdnBGSmQ0XzJqX0JfSnJxZDVHQ1RpS0VpaDNxRWhyQ2ZxbDJUSDdhWkhDMXdWYjBCQzZYY1psS3o2MWk1WHhpaEh5MUpjSHRXeXd4Ukwtdzdadl8yaWVGcV9PamhDQmdIaGRONFRDeWRrcnBqTQ?oc=5>
+- **Trump** | thanks trump <https://news.google.com/rss/articles/CBMie0FVX3lxTFB3dEtsUHh3NjBGN3VOaHFIZjBlaF81N3loWnNWVmQ5MlFNTG1WTl9pLWFiNEZuYnQ3NEVLRjN2RDRIckVuTHhDZW1UOU9URDVhSFBXUnBxbTU4R3pucDdGUkFqeVEzaTlQUW9GS3NXeEE4V0EwT2l6dUJHQQ?oc=5>
+- **Trump** | 特朗普签署了一项关于未来主义机器的昆腾计算机行政命令 <https://news.google.com/rss/articles/CBMixgFBVV95cUxNQmRIcFBNbkk3eEdGeE4wRnBMVjRQMHNnUXh3UVRJSlpRYTdpdUN0WVhlQ1l4V195aUVEeXh5eGFlb29yeUFsZ3MtM0F6ZnRyS3VSRzJrOHBteUpuU3lEX1hFUXhwOGtianlOX3FNaENxM0RmUDRkbTkzZF9XMkx5RlEwbkpaRTdKTVVjTklQcVAtSC16WHY3MEYzR1UyUDhzUGRCN2doSTVlS1ZDcWtGZnRXUVdwSDN3SktnOUFXbklOaGFJTGc?oc=5>
 
 ### 2026-06-23 14:35  (16 条)
 
