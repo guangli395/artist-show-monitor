@@ -1,72 +1,157 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-23 11:37**
-- 本轮扫到 4244 条, 新增 **8** 条
+- 最近更新: **2026-06-23 14:35**
+- 本轮扫到 4260 条, 新增 **16** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (16 条)
 
-### 王俊凯发布新专辑后，个人演唱会计划是否有最新进展？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801q4hi.html>
-
-### 周同学空降北京，周杰伦演唱会前哨启动
+### 周同学空降北京打卡多地，周杰伦演唱会预热
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5897618643_15f8684d304001al2s.html>
+- 链接: <https://k.sina.com.cn/article_1954000705_p7477af4102701crse.html>
 
-### 周杰伦空降北京，演唱会前哨引热议
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2099181812_7d1ef8f404001jrro.html>
-
-### 周同学空降北京周杰伦演唱会前哨来了
+### 周杰伦2026北京演唱会6月26日鸟巢开唱
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://finance.sina.com.cn/jjxw/2026-06-23/doc-iniekvas2030545.shtml>
+- 链接: <https://k.sina.com.cn/article_5735297670_m155d9b286033013qh4.html>
 
-### 美能源部长吹嘘特朗普叔叔科研成就，诺奖得主当场表示没听过
+### 周杰伦领衔众歌手一日五场同时开唱，本周末北京演唱会热度一路飙升
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://news.sina.com.cn/zx/2026-06-23/doc-iniemfsm6335633.shtml>
+
+### 两位参议员就关税对制造业的影响向特朗普政府施压
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-06-23 12:37
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxQMTNnV3phNU90eEVlYUFKTGFNLWxoV3ZkamVpRTJWdUhMdHk5WW1yRXRhSWx5OVoxT1dxaXFSZUVvdWZCRlVuc0xiTnNpQ1RBd1pLRHE3QjVTbHlvUFpfT01IRnk2NUtmSXlPZ3oyaThGd1IwYWd5VFFmTnRtcEtoT2pSUHR4Wms?oc=5>
+
+### 特朗普称允许霍尔木兹海峡保持开放
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-06-23 11:43
+- 链接: <https://news.google.com/rss/articles/CBMingFBVV95cUxOZmFuVnVlVThlZmIzLXdmeDZqZmpXNUtQY1pHODRtZWs4OG1ib2RCUWdIMW5GWGVhRWZ4VUp0a0NtMW1vTUlIMVl6SnRvUV9OOFduVm5OUGt3Y2dQTXZFb3ozSFVjY003QmRna0lGWUczalJ0ZzY3M1phRVg0V2VjaTNMOFR3WlVXeUZORWQ5QlVFX1BTZzZCcUQ2SGNOUQ?oc=5>
+
+### 特朗普称伊朗同意接受长期的最高级别涉核检查
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-06-23 12:32
+- 链接: <https://news.google.com/rss/articles/CBMiowFBVV95cUxOWnAwNGpKbzl4QmxVYllFOUtwbGZRQ3FLeVBzREd5bjkyQzZmcWRNQ2ltd3RIT2dXZkVVdFVLMTdMZExNTTczQXZFemJSQjZ5c2JPeF9NaHhDWWk0WWExU1RmRnAzZFdnTjZDUUpzaEpHNFVMQV9GazBlbWRjdFRXNUZxWVpCaWlYeUw2ci1SdzNYWXpxTWd4dGpTUEdMakpzaDFR?oc=5>
+
+### 特朗普点名英意德差劲
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 每日经济新闻
+- 时间: 2026-06-23 11:43
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1QQldVZzA2SzVmaDIwcmdMWGVKbndKX3lfcEo4ZkNCSlRyNGJlbURGbFIwaGhSMVdFNDdYeWl5cEExQ3ZpaTF0eVRDSzJvTURDcF9qbVotcUJoR2JOLUJnTy02TTA0Zw?oc=5>
+
+### 特朗普“羞辱”梅洛尼有何连锁反应 盟友情谊破裂
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-06-23 12:30
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFAwaFJyZkp0eEx2aU1keVhhNUpHeWFtVDJqVUVyaGZRQ3NCRTl6LVFKSnVTNXN5Z1JvQlI5X2JyeVJMR0JGV0pVZ0l0Q2pfeDIyM1oyT3dUdXJ0cFZybnVfQ0VnUHQwX3gybENPUnp6MFQ?oc=5>
+
+### 五角大楼刚夸完，特朗普就翻脸，意大利在三件事上惹毛特朗普
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-06-23 12:31
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFAxS2lfUHVXbzFrX0NXUkNFZDV0dVBPNTQ2UHR6XzJjbTRncTNQemxGekVPUng4ak1YTEVlUjFzNk1oRkRYREpSMmRnUmNpMVF6RUx6R3hleGF4a1E3Yl8wQV9Nd2gwV25aeDZSOWhxVEo?oc=5>
+
+### 美媒：万斯主导伊朗谈判，特朗普却不断给他添乱
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-06-22 14:11
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBaaWlDZnR3NGkyQlNsNnJGYXNjY3M3OWk2UU44T1BMRE9VYm1hdlEzM2IwWVl1amlVVGlTak5uUVVWTEw3VVkxVEgtNDk?oc=5>
+
+### 特朗普：允许霍尔木兹海峡保持开放
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: thepaper.cn
-- 时间: 2026-06-23 07:32
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTFB6ZFcwc0pTaVlkSmVrT0NWeGhZQUw1MzlxMTcyQmdRQ2J5MTlNa1YyeVctYWhsc2NINXR4QkJDZzI1eXU5aFA4UU45akZWUzBoaXppWS1jZmd1RjJ2VXc?oc=5>
+- 时间: 2026-06-23 12:00
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XQzF4NWNaUWdBaFR5SzZCTlNtcEJMTXdaV05zQnhmNFlROGNhdmd0RGU3eHVUSTZIQXNlYUVJdHJZUG85eVJJZS1mSXcwMUNRNU05VkN2NU82MEQtQUE?oc=5>
 
-### 国际丨“这回答很蠢”！特朗普怒批英德意“连小忙都不帮”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-06-22 20:00
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE15YjV1UllHUlBMQVo4T1hWQkp1LVBYVU9QbUcySVYwTHBZMmc1ekJNeVZ1U0lyajA1NjhJRkxUanBTSGMxZDRmemdmaHFwREo3YlZENWhqRzlBU09vQV82aEhnZGw?oc=5>
-
-### 特朗普吃酸菜减肥？医生：适量吃能减内脏脂肪、改善肠道菌群和心率 内阁官员纷纷效仿
+### 特朗普：我很快能解决黎巴嫩问题
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中华军事
-- 时间: 2026-06-23 05:21
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBsYUhWeFZWN0V0alh5Y2RpQ1AzNUtRZ1pobmZrRG5KMG5RSVN5QWtuYTN1dEVvdl84U3M5bzZyOGVYdEtiV2RYb3hMcUxPQm1sQmMwSDlHUm9BT3N5TDRGSmNWc21SdjZic2tobldGaTg?oc=5>
+- 场馆: chinanews.com.cn
+- 时间: 2026-06-23 08:10
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE13Rm0xYTBodWJrOVJJTmpGS1ZfblZQaUlhSGcyV0ppeWJsT1R2Qmh0SGkzX1hxNWlfTi02WXRzMGtueVpPN1oyd2xaX2YxVlNscFNEZk1rWG5IaFRCb0Rxa0xQaGxOTXFx?oc=5>
 
-### Trump Media & Technology Group Corp(DJT)公司估值_市盈率PE/市净率PB与合理估值查询
+### 热门板块速睇：美股盘前特朗普持仓概念走弱，闪迪领跌
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: TradingKey
-- 时间: 2026-06-23 06:16
-- 链接: <https://news.google.com/rss/articles/CBMihAFBVV95cUxNM1Q3T0RfRS1xWUM5bXBQMGFKcWR0QkgxLUNEZmVzcnJjZ3ZWN0hfQXlBVl9Zdl9sdGN1OGhYb2k2UUNZbS1UR0FkR3RRY1E4bC1qSktGZlJTMVZSdTMtSmk0ZXJ6NmdQZ21VelZjR09tUlJCRmk3UmVtMlhldHVKcEhhcXQ?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-06-23 12:50
+- 链接: <https://news.google.com/rss/articles/CBMisAFBVV95cUxOa0E3Vkp4amNrb1hKaWZLUEJDMFMtNTVWMnQzQzZINVpYUlF5VUQ3MzdOU09xamhqOGxGS2J4Y1NaMXMtbl9FLWpzYjI5b015Z3lNMGZUa3JINzdoN3NZMjhZVHFJalJZV1FJV3ByalFfQ2FsUC1EdlRWb1hkUm9aTi1Kem14dDEzNEpibVRmTnZGdnB3Zm1DcGhyS2ZxUmE3MzcwdjQ0ZE44U3JWWkhFag?oc=5>
+
+### Trump Threatens to Strike Iran Over Hezbollah as Lebanon Snarls Talks
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-06-21 17:59
+- 链接: <https://news.google.com/rss/articles/CBMirwFBVV95cUxPc3dLNVYwazNSSmRpWHZSXzlJTFpvWlBUSkhaaEgxa0lITGh3dUpOQUt2SjRjc255TnE3cWl2aFp3UlFlOUVkUzFBeTJ1ZjVrQTRrYkZrUVJLTExlTUxjM2h0VDFpN0xVbkEzLVlSTkQwb0ZyMmc3WEZCOGZQTy1VZ1ByV0s1OWx0eGl3Wkhrdkc1WHdzOGVMNjA3Y3lSRERpVlNpOHNDY0o4blRQMzJB?oc=5>
+
+### Trump对媒体称：意大利总理在G7，不断求合影，他本来不想照，但觉得她也不容易…意大利总理：瞎编的，没这回事！我从来不恳求、意大利也从来不恳求意大利外长取消原定下周访美计划，以示抗议
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-06-19 15:26
+- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTFB5aS1nMmY0U0gyUVVmcjRIN1lQbVRNc002SlFGWDItSjhMaW0zWDZqN2VxUE9BTGY5cTY1bVd3N1RERzhuME4xZU1NaVlDakJFaXhodnRYMXFibVBKN1BOR2FzTQ?oc=5>
+
+### 刚刚传来：🇺🇸特朗普总统表示昨天有1900万桶石油经霍尔木兹海峡流出，创下历史新高！油价正大幅下跌，世界也变...
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-06-23 11:54
+- 链接: <https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWC10U1k4STF6Ry12S1h6UFBYMmxqWUY0NDlpbGxiSVkyTnBBTi1YR3M5M09yQXVPZzlVRHlJSGMzcDRHRV9yYWQybGdBMDVqbHdCQWJxWkFtV0l6LWphcEY4ZzNWMjJRcGZWcDI0OGo0UV9mWVdBVl9QY0l0S1I4dkN2RHZBTDhiNlRKZjFhTkVDcjNmNmlfdmhzSXYyMGJmWVJGUU5Vam9lVlFiRDJtaFVXOFpxR2VV?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-23 14:35  (16 条)
+
+- **周杰伦** | 周同学空降北京打卡多地，周杰伦演唱会预热 <https://k.sina.com.cn/article_1954000705_p7477af4102701crse.html>
+- **周杰伦** | 周杰伦2026北京演唱会6月26日鸟巢开唱 <https://k.sina.com.cn/article_5735297670_m155d9b286033013qh4.html>
+- **周杰伦** | 周杰伦领衔众歌手一日五场同时开唱，本周末北京演唱会热度一路飙升 <https://news.sina.com.cn/zx/2026-06-23/doc-iniemfsm6335633.shtml>
+- **特朗普** | 两位参议员就关税对制造业的影响向特朗普政府施压 <https://news.google.com/rss/articles/CBMihwFBVV95cUxQMTNnV3phNU90eEVlYUFKTGFNLWxoV3ZkamVpRTJWdUhMdHk5WW1yRXRhSWx5OVoxT1dxaXFSZUVvdWZCRlVuc0xiTnNpQ1RBd1pLRHE3QjVTbHlvUFpfT01IRnk2NUtmSXlPZ3oyaThGd1IwYWd5VFFmTnRtcEtoT2pSUHR4Wms?oc=5>
+- **特朗普** | 特朗普称允许霍尔木兹海峡保持开放 <https://news.google.com/rss/articles/CBMingFBVV95cUxOZmFuVnVlVThlZmIzLXdmeDZqZmpXNUtQY1pHODRtZWs4OG1ib2RCUWdIMW5GWGVhRWZ4VUp0a0NtMW1vTUlIMVl6SnRvUV9OOFduVm5OUGt3Y2dQTXZFb3ozSFVjY003QmRna0lGWUczalJ0ZzY3M1phRVg0V2VjaTNMOFR3WlVXeUZORWQ5QlVFX1BTZzZCcUQ2SGNOUQ?oc=5>
+- **特朗普** | 特朗普称伊朗同意接受长期的最高级别涉核检查 <https://news.google.com/rss/articles/CBMiowFBVV95cUxOWnAwNGpKbzl4QmxVYllFOUtwbGZRQ3FLeVBzREd5bjkyQzZmcWRNQ2ltd3RIT2dXZkVVdFVLMTdMZExNTTczQXZFemJSQjZ5c2JPeF9NaHhDWWk0WWExU1RmRnAzZFdnTjZDUUpzaEpHNFVMQV9GazBlbWRjdFRXNUZxWVpCaWlYeUw2ci1SdzNYWXpxTWd4dGpTUEdMakpzaDFR?oc=5>
+- **特朗普** | 特朗普点名英意德差劲 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1QQldVZzA2SzVmaDIwcmdMWGVKbndKX3lfcEo4ZkNCSlRyNGJlbURGbFIwaGhSMVdFNDdYeWl5cEExQ3ZpaTF0eVRDSzJvTURDcF9qbVotcUJoR2JOLUJnTy02TTA0Zw?oc=5>
+- **特朗普** | 特朗普“羞辱”梅洛尼有何连锁反应 盟友情谊破裂 <https://news.google.com/rss/articles/CBMicEFVX3lxTFAwaFJyZkp0eEx2aU1keVhhNUpHeWFtVDJqVUVyaGZRQ3NCRTl6LVFKSnVTNXN5Z1JvQlI5X2JyeVJMR0JGV0pVZ0l0Q2pfeDIyM1oyT3dUdXJ0cFZybnVfQ0VnUHQwX3gybENPUnp6MFQ?oc=5>
+- **特朗普** | 五角大楼刚夸完，特朗普就翻脸，意大利在三件事上惹毛特朗普 <https://news.google.com/rss/articles/CBMicEFVX3lxTFAxS2lfUHVXbzFrX0NXUkNFZDV0dVBPNTQ2UHR6XzJjbTRncTNQemxGekVPUng4ak1YTEVlUjFzNk1oRkRYREpSMmRnUmNpMVF6RUx6R3hleGF4a1E3Yl8wQV9Nd2gwV25aeDZSOWhxVEo?oc=5>
+- **特朗普** | 美媒：万斯主导伊朗谈判，特朗普却不断给他添乱 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBaaWlDZnR3NGkyQlNsNnJGYXNjY3M3OWk2UU44T1BMRE9VYm1hdlEzM2IwWVl1amlVVGlTak5uUVVWTEw3VVkxVEgtNDk?oc=5>
+- **特朗普** | 特朗普：允许霍尔木兹海峡保持开放 <https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XQzF4NWNaUWdBaFR5SzZCTlNtcEJMTXdaV05zQnhmNFlROGNhdmd0RGU3eHVUSTZIQXNlYUVJdHJZUG85eVJJZS1mSXcwMUNRNU05VkN2NU82MEQtQUE?oc=5>
+- **特朗普** | 特朗普：我很快能解决黎巴嫩问题 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE13Rm0xYTBodWJrOVJJTmpGS1ZfblZQaUlhSGcyV0ppeWJsT1R2Qmh0SGkzX1hxNWlfTi02WXRzMGtueVpPN1oyd2xaX2YxVlNscFNEZk1rWG5IaFRCb0Rxa0xQaGxOTXFx?oc=5>
+- **Trump** | 热门板块速睇：美股盘前特朗普持仓概念走弱，闪迪领跌 <https://news.google.com/rss/articles/CBMisAFBVV95cUxOa0E3Vkp4amNrb1hKaWZLUEJDMFMtNTVWMnQzQzZINVpYUlF5VUQ3MzdOU09xamhqOGxGS2J4Y1NaMXMtbl9FLWpzYjI5b015Z3lNMGZUa3JINzdoN3NZMjhZVHFJalJZV1FJV3ByalFfQ2FsUC1EdlRWb1hkUm9aTi1Kem14dDEzNEpibVRmTnZGdnB3Zm1DcGhyS2ZxUmE3MzcwdjQ0ZE44U3JWWkhFag?oc=5>
+- **Trump** | Trump Threatens to Strike Iran Over Hezbollah as Lebanon Snarls Talks <https://news.google.com/rss/articles/CBMirwFBVV95cUxPc3dLNVYwazNSSmRpWHZSXzlJTFpvWlBUSkhaaEgxa0lITGh3dUpOQUt2SjRjc255TnE3cWl2aFp3UlFlOUVkUzFBeTJ1ZjVrQTRrYkZrUVJLTExlTUxjM2h0VDFpN0xVbkEzLVlSTkQwb0ZyMmc3WEZCOGZQTy1VZ1ByV0s1OWx0eGl3Wkhrdkc1WHdzOGVMNjA3Y3lSRERpVlNpOHNDY0o4blRQMzJB?oc=5>
+- **Trump** | Trump对媒体称：意大利总理在G7，不断求合影，他本来不想照，但觉得她也不容易…意大利总理：瞎编的，没这回事！我从来不恳求、意大利也从来不恳求意大利外长取消原定下周访美计划，以示抗议 <https://news.google.com/rss/articles/CBMiY0FVX3lxTFB5aS1nMmY0U0gyUVVmcjRIN1lQbVRNc002SlFGWDItSjhMaW0zWDZqN2VxUE9BTGY5cTY1bVd3N1RERzhuME4xZU1NaVlDakJFaXhodnRYMXFibVBKN1BOR2FzTQ?oc=5>
+- **Trump** | 刚刚传来：🇺🇸特朗普总统表示昨天有1900万桶石油经霍尔木兹海峡流出，创下历史新高！油价正大幅下跌，世界也变... <https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWC10U1k4STF6Ry12S1h6UFBYMmxqWUY0NDlpbGxiSVkyTnBBTi1YR3M5M09yQXVPZzlVRHlJSGMzcDRHRV9yYWQybGdBMDVqbHdCQWJxWkFtV0l6LWphcEY4ZzNWMjJRcGZWcDI0OGo0UV9mWVdBVl9QY0l0S1I4dkN2RHZBTDhiNlRKZjFhTkVDcjNmNmlfdmhzSXYyMGJmWVJGUU5Vam9lVlFiRDJtaFVXOFpxR2VV?oc=5>
 
 ### 2026-06-23 11:37  (8 条)
 
