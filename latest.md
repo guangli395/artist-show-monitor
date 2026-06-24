@@ -1,64 +1,89 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-24 21:10**
-- 本轮扫到 4386 条, 新增 **6** 条
+- 最近更新: **2026-06-24 22:44**
+- 本轮扫到 4394 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (8 条)
 
-### 特朗普称伊朗并未在霍尔木兹海峡收取通行费，原油暴跌！
+### 暑期京城演唱会热度一路飙升
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 金融界
-- 时间: 2026-06-24 13:53
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE5GaGlhZGVrRnNsdHNSWVozdERBZFlXdHYwMDVzY0xuOGMtbmxmcFpmYXJkcUE1NzlCSzM2T1ZaS21ManRBTmlpNGRDR084NDUxbk0wZk83WUNwb1ZoRFl1TGVja3FNaFBIYk1GUHpwVlVyQQ?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857141524_1d452771401903kdrk.html>
 
-### 特朗普：美国可能会接管霍尔木兹海峡，并收取费用
+### 哥伦比亚候选人塞佩达在总统选举中承认败给特朗普支持的德拉埃斯普列亚
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-06-21 13:27
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE4wY19vbDI3ajRJQ3A0WEJWOXpwcWN6a3BRVzJId3ZHdk9XanNKYXRKeV8wbTU5Rzd3TEcwRUlqR252VDN2elVraGYtc1hLS0FQMFBIWk54NTJZaWx6NWhhbGowWnhLMzBjVXRFS193UUdmMFpRaEgwOQ?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-06-24 21:15
+- 链接: <https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTGttQnlEMGVNTnRoNTV3S0tGZkg1aUNKTURyU0diRzl6RmNEdXhrRkNKeGtISFY2bHdEQ0ZZejRGQnJoMnc1V3JiM2p0N21FQUlIM1lwTWFtOFU5RmFQYXZjNHQ3TERlaHk3WmRZNUZvd0J3SG1icVZ0UHZhZmV6TWVVU29XY0loTjhwMmc1UTMtTWVQR2JrY2kxSDFkVEFCbnhDZWtfQ05sa2JoWVVheGQzdlJfX1A1dGMxdU9wNXY0RGNmNnNHM0x5MUJoUzdWejhFTV8tRdIB2gFBVV95cUxNZUwyWFUyWWpPMjFrbFo0WV9kaExFX0lkYjJ0VzBXaVBPWmhoOXBWWWdDblhzME84YS1kZTA2LXpTY1BGUnBmXzRjMTFwd2J4OFM3RzlBcm9WQkdGU1hDcVJpYjR6ZEZ5czkyTTZnSk0ySWRqU1lSaWRGTG1oUUZhUlByajJtOHI5ZXFEQzhIYjNDcUV0Y2V4WWUxS1BsdFJmWk5kbVhpcDktZjZEUVo4QXRSc2VQYlpWWG5kT2UyZmN6MHBrRkhOYXF2ZnNOZFBlMmk0VzhrQUN3Zw?oc=5>
 
-### 美参议院通过决议 旨在限制特朗普对伊战争权力
+### 当律师发专辑，拥有美国国籍，特朗普支持的哥伦比亚总统候选人是谁？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-06-23 20:25
-- 链接: <https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVmx0dXhYbDEwMXVKR1VtVXNOOTBuajlXZlNDRHlWQ3RCWlp0ZloyTk8xa3h1WUUxaVV5OEVCV1kxTDRvempPYkViRmlMQXhxazhyekZBRzRRRkZUNjBMU05mQkFpV1VmemY1ZGVNUy10ZjhEbmxEcVAwb0wxWVRNN1R5d3FMMGFmcW9mLUU2M09WM1F5RG1hanJkT1NKODZaZzZ3YU1tTE8tSmxtSVFtUGkxRFU1WUM1bDF1UDYzVlBSeU8wMFRaUTJTWHhnc0FuTWNFRGZTdmJlLWc?oc=5>
+- 场馆: 观察者
+- 时间: 2026-06-22 03:06
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1HUEJ5eFN5dGRjZzZaWkp4ZEFNOE5XWGRYQmlFcHdqQWltOENHdnVKX3FpY3VWdmdfOVhfMFBBZjB0N05kZldFTzd3NTVERFNlVjlFZFFfMDlhRFAwbm5NaEMzWWdGUDJreWc?oc=5>
 
-### 特朗普将目光投向中期选举 鼓吹战争结束经济即将起飞
+### 特朗普临时取消对住房法案的签署 与参议院共和党人矛盾升级
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-23 21:24
-- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYnhabEZOblRhTnpjTGlvOTJPcEhicFdVRGtITVh1V0NXU0x0U1YwX0l5MzNkX3hTWFYxR2FMWWJqRDJPakJjZG55bXBDczNfYXdYd0szS1JQc0JDdTFkdS1EZWgyRGFjSEVWQzQ4S0p0X01tZXppbU5TT3dCc2d6eE5mTGVUdW5vaGRBRjFnU3lJclJHX1dXb0l5M0lteDVtZGR1ZVRoZFB6TTh3SVZoVzJsQlRFMWd2TUVpNjk4d3Y2SjBrb2F3YzBsb1psZHRUR2xEcEVNRy1oR0RZWnc?oc=5>
+- 时间: 2026-06-24 18:13
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxPUkZPTWd1V05Qc2U4OVB1TzJLamhOVVpMWnN1dDVKelVabjFYTG5VOWRKUGdlemc1aGpMcGNiNjhrUS1ZNkZxZFFkNWJ1dEI3b0Nub1pYRFh5eTFvQ3RvWVRhSGdVcjU1ZnpBU1J0dXBud1duUEJZY1gzVDFVZEhnQlQ0UHY0NmM?oc=5>
 
-### 梅洛尼反击特朗普说明了什么 主权不容挑衅
+### 美国总统特朗普称解冻后的伊朗资金仍将受美国控制
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-06-24 14:35
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1Ua3JKUENVRjQ0WF96MDlCS1pRXzIxdGwtbkR4a0Nobzd0UnJSMXZfOXAyVVFwcHQ5Qzdtem5IUnNVWTF1WXVxNnJWQ3UwS3VHYjNybkFBaUl4NS1sLWlySzFqWDlZdmNheEExR1NiN28?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-06-24 20:23
+- 链接: <https://news.google.com/rss/articles/CBMiigJBVV95cUxONG5zdFkzdDF1YnFTZ0xocmkwaTUtTFlhU2ZUYm1Yc1dPcHlqVU91UVM4VHdCVGVGLXdwRXVXYlk1QWloRFRGemJSTmFVaWJIeGN6TFhCcF9vOGxtLTdoNUtZWk80VEhrMkxvd1lGMzBSQ3RBRzcyVHJCRW5lN09fdUdIODFwaXZUZDAyUVNKcEY2VVRhTmdZaVp5MFJCeTVSRVBZWEVHaHZyVm9BcUtxa2xkaXVUX0RZbTI5RGduU0RJVUFxNkZxLWJwWFB6NkxEd1lSeGlxanJfLV9fclRHVng5RWd2VG9WeVRqc19FT29WeWU5VzBLV2VxRUt3MFJiVjdqRnBzanNUdw?oc=5>
 
-### 特朗普拒绝签署包含美国央行数字货币禁令的法律，要求批准选举法案
+### 他或成英国新首相，特朗普表态
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-06-24 22:38
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1URzJJcVBXRUM0dmVGM0FxV3cxV296VHJyaVoyWml2elpya2Eyay1MSWpaX3ItNW9wekV0WjFaRHZFelB2NmVTVnprYVY?oc=5>
+
+### Oil Down 3% After Trump Said Iran Seeks No Tolls From Hormuz Shipping -- Market Talk
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: CoinDesk
-- 时间: 2026-06-24 00:42
-- 链接: <https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQUFyZWhrZDVrVGdETUVrbkVRY3JYMW5XQmR4b0RQZHNEOHU4dU9OZmJVbVRZelBWQUFBMUZMc2V6QXZGd18tbkV5VlVRcm5HaWxfMGg5ek1DbElXYU9SMFUzVG9SWlZ3NkljR3ZKTzBJU241TU1sS2xGMWRrdEpXUjZnT2VPb2dOVDhvMkhDeUxrdDl2WnBlbi0tX0pCa2l4aFV6ZE5TWU9jRlMyWHhBeTZKbHR6aUxkdHJxR1RXUFJLQQ?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-06-24 13:00
+- 链接: <https://news.google.com/rss/articles/CBMimgFBVV95cUxQU01sWmlkbV9DYXRnX2k3c19DYzNwT2tzZVVhd0FKS2o4bm0ydWpRdWRlZWFRblN3a2ZmYTFrajYtWVJjSllqOGFaOE55THVENHB0UFRSekxhY2xWNUkybFU2NkNGcmRZWC04VGhCczhKT2Q2eWZfNk9meTM3YkN6bFNtNFhTX3Nha1JSempjVVl3TjR3SG1rVTFn?oc=5>
+
+### Oil Prices Fall Back to Preconflict Levels, but Trump's Comments on Iran Show That Supply Risks Remain
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-06-24 19:38
+- 链接: <https://news.google.com/rss/articles/CBMiowFBVV95cUxQOEROdThUR0tUT0lINnpCSjIyXzJTTnRjMUhRcFJwVkh1WWk1eVpqS1ZpYUt2bU9QRFllTzBMcGVwaHZhc281OV9maXZnZHdHYTlsMTFaVGJCaFFpZm9vNW96QjdmYm5HdjJsUkNCcl9HczVjVDUtemc0TVlIeXpjVjVaRlFoZ3E0aTExazZ5SmZ6c3N6RlFoQkJuLUZxWjItUVZR?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-24 22:44  (8 条)
+
+- **周杰伦** | 暑期京城演唱会热度一路飙升 <https://k.sina.com.cn/article_7857141524_1d452771401903kdrk.html>
+- **特朗普** | 哥伦比亚候选人塞佩达在总统选举中承认败给特朗普支持的德拉埃斯普列亚 <https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTGttQnlEMGVNTnRoNTV3S0tGZkg1aUNKTURyU0diRzl6RmNEdXhrRkNKeGtISFY2bHdEQ0ZZejRGQnJoMnc1V3JiM2p0N21FQUlIM1lwTWFtOFU5RmFQYXZjNHQ3TERlaHk3WmRZNUZvd0J3SG1icVZ0UHZhZmV6TWVVU29XY0loTjhwMmc1UTMtTWVQR2JrY2kxSDFkVEFCbnhDZWtfQ05sa2JoWVVheGQzdlJfX1A1dGMxdU9wNXY0RGNmNnNHM0x5MUJoUzdWejhFTV8tRdIB2gFBVV95cUxNZUwyWFUyWWpPMjFrbFo0WV9kaExFX0lkYjJ0VzBXaVBPWmhoOXBWWWdDblhzME84YS1kZTA2LXpTY1BGUnBmXzRjMTFwd2J4OFM3RzlBcm9WQkdGU1hDcVJpYjR6ZEZ5czkyTTZnSk0ySWRqU1lSaWRGTG1oUUZhUlByajJtOHI5ZXFEQzhIYjNDcUV0Y2V4WWUxS1BsdFJmWk5kbVhpcDktZjZEUVo4QXRSc2VQYlpWWG5kT2UyZmN6MHBrRkhOYXF2ZnNOZFBlMmk0VzhrQUN3Zw?oc=5>
+- **特朗普** | 当律师发专辑，拥有美国国籍，特朗普支持的哥伦比亚总统候选人是谁？ <https://news.google.com/rss/articles/CBMiakFVX3lxTE1HUEJ5eFN5dGRjZzZaWkp4ZEFNOE5XWGRYQmlFcHdqQWltOENHdnVKX3FpY3VWdmdfOVhfMFBBZjB0N05kZldFTzd3NTVERFNlVjlFZFFfMDlhRFAwbm5NaEMzWWdGUDJreWc?oc=5>
+- **特朗普** | 特朗普临时取消对住房法案的签署 与参议院共和党人矛盾升级 <https://news.google.com/rss/articles/CBMihwFBVV95cUxPUkZPTWd1V05Qc2U4OVB1TzJLamhOVVpMWnN1dDVKelVabjFYTG5VOWRKUGdlemc1aGpMcGNiNjhrUS1ZNkZxZFFkNWJ1dEI3b0Nub1pYRFh5eTFvQ3RvWVRhSGdVcjU1ZnpBU1J0dXBud1duUEJZY1gzVDFVZEhnQlQ0UHY0NmM?oc=5>
+- **特朗普** | 美国总统特朗普称解冻后的伊朗资金仍将受美国控制 <https://news.google.com/rss/articles/CBMiigJBVV95cUxONG5zdFkzdDF1YnFTZ0xocmkwaTUtTFlhU2ZUYm1Yc1dPcHlqVU91UVM4VHdCVGVGLXdwRXVXYlk1QWloRFRGemJSTmFVaWJIeGN6TFhCcF9vOGxtLTdoNUtZWk80VEhrMkxvd1lGMzBSQ3RBRzcyVHJCRW5lN09fdUdIODFwaXZUZDAyUVNKcEY2VVRhTmdZaVp5MFJCeTVSRVBZWEVHaHZyVm9BcUtxa2xkaXVUX0RZbTI5RGduU0RJVUFxNkZxLWJwWFB6NkxEd1lSeGlxanJfLV9fclRHVng5RWd2VG9WeVRqc19FT29WeWU5VzBLV2VxRUt3MFJiVjdqRnBzanNUdw?oc=5>
+- **特朗普** | 他或成英国新首相，特朗普表态 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1URzJJcVBXRUM0dmVGM0FxV3cxV296VHJyaVoyWml2elpya2Eyay1MSWpaX3ItNW9wekV0WjFaRHZFelB2NmVTVnprYVY?oc=5>
+- **Trump** | Oil Down 3% After Trump Said Iran Seeks No Tolls From Hormuz Shipping -- Market Talk <https://news.google.com/rss/articles/CBMimgFBVV95cUxQU01sWmlkbV9DYXRnX2k3c19DYzNwT2tzZVVhd0FKS2o4bm0ydWpRdWRlZWFRblN3a2ZmYTFrajYtWVJjSllqOGFaOE55THVENHB0UFRSekxhY2xWNUkybFU2NkNGcmRZWC04VGhCczhKT2Q2eWZfNk9meTM3YkN6bFNtNFhTX3Nha1JSempjVVl3TjR3SG1rVTFn?oc=5>
+- **Trump** | Oil Prices Fall Back to Preconflict Levels, but Trump's Comments on Iran Show That Supply Risks Remain <https://news.google.com/rss/articles/CBMiowFBVV95cUxQOEROdThUR0tUT0lINnpCSjIyXzJTTnRjMUhRcFJwVkh1WWk1eVpqS1ZpYUt2bU9QRFllTzBMcGVwaHZhc281OV9maXZnZHdHYTlsMTFaVGJCaFFpZm9vNW96QjdmYm5HdjJsUkNCcl9HczVjVDUtemc0TVlIeXpjVjVaRlFoZ3E0aTExazZ5SmZ6c3N6RlFoQkJuLUZxWjItUVZR?oc=5>
 
 ### 2026-06-24 21:10  (6 条)
 
