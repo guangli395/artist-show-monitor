@@ -1,120 +1,91 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-24 15:30**
-- 本轮扫到 4364 条, 新增 **15** 条
+- 最近更新: **2026-06-24 17:49**
+- 本轮扫到 4372 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (15 条)
+## 本轮新发现 (8 条)
 
-### 新浪演唱会热点小时报丨2026年06月24日21时_今日实时演唱会热点速递
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907b6r8.html>
-
-### 周杰伦47岁巡演翻车，递话筒躲高音，万元票钱打水漂？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907b6ek.html>
-
-### 白鹿十周年演唱会门票二开秒售空，55万人想看热度超周杰伦
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923704_m1d5ae17f803301tqjw.html>
-
-### 追星女这下是真的不用担心 看演唱会出不了神图了！
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2408951592_m8f95af28033013aja.html>
-
-### 2026周杰伦北京演唱会将于6月26日至28日在鸟巢上演
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5735297670_m155d9b286033013qka.html>
-
-### 出门随处撞见周同学，演唱会预热直接拉满期待周杰伦
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6354475832_m17ac19b38033019ufa.html>
-
-### 千台拍摄神器将亮相周杰伦演唱会
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1719014980_m6676164405301kmeg.html>
-
-### 超级音乐周末，开唱！本周六，北京一天五场演唱会
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://finance.sina.com.cn/wm/2026-06-24/doc-iniepqxs2869648.shtml>
-
-### 特朗普要开发首台“足以开启量子科学发现新时代”的量子计算机
+### 美国总统特朗普24日......_7x24快讯_新浪财经
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-24 14:52
-- 链接: <https://news.google.com/rss/articles/CBMisgFBVV95cUxQWEN2Qzdaa2c2Q0V6ZEE2QUxjRzluNDJJQm1zUEg2eHV2YVVVREY5T2hQZjFxc21MSGJpRDVhd0M2QkRlN0dGTDhvRm5CUGQ1QktmSDNSU3dITUlrZmZjUkhIbkxUVFBtaWhLOTJoS0JwQWVMZXhfLUR2T1dhRGppeFBHVHZGaE4td01FekVhdGRRNE1mTnYyNUZQbE5ZSHlWLVktenZqZUV3UlM3M0EtVWV3?oc=5>
+- 时间: 2026-06-24 12:06
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE0xYlROM2Z4OTBkYzNmX09uX2F2LUdyVTUwQnpoQS00QlpFWHJxbnJ0TzhHSE95UUtYNV9YV25tdEZJMGVieU0yaFlqUQ?oc=5>
 
-### “美国超半数民众不认可对伊动武，特朗普民调支持率跌至任期谷底”-观察者网
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察
-- 时间: 2026-06-24 14:55
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9hOXhzOEgxTG12b2JXaHMtNFlmWHVFZnp5Y0xfdmdJeVhCaTg0NFFxVHZBMXozcFk1OEFWdlFKeGFQN1lKNlVENkF2b25MUWxsOXhHVDBFaXJaZ2tjNXY1VzJEcWdpRVNTYnc?oc=5>
-
-### 贝森特称沃什对通胀态度强硬 特朗普允许美联储自主决策
+### 牛弹琴：特朗普学乖了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-24 14:43
-- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaEZJR2c1Ty0wX1l6a19waldWdFJpeTR3MTNOYW44dllVUkxSZEV5VmxTeDJMZEZfTEZyenY4ZkQxVzlSM3M1dDdhR19VM1V4NkhXVml5UjhNazRVYUp2THN4aGNtdVRWMUotNW9BeU1sTjByYnNWRTdkRTU4SUtidFp4U243UE1oVF9tRzZRWVdqc0cxRjNqSWVRVUZ3TGlFUmNHSWJfRkVlQQ?oc=5>
+- 场馆: Sina finance
+- 时间: 2026-06-22 23:16
+- 链接: <https://news.google.com/rss/articles/CBMizAFBVV95cUxOcTlZQW42U0xHMUJ4VUtLVnZFUUhZXzk1ZUMyVmE0cXYzOGlHVlFwbWF1eXpmMVZfVjVZbXZkWTcyR3JTOU1aZFlWd0dFRnpxWTlzOG03VkZicGlMUkd3VHFmeVRpbDR3b21nNlVlS185N1dUbjVqMWN5bi13VGpfQ1lBN3N4NHlLaVdWbjBIdVNmSDl2b3d2aW5sN3RGMXBUUTVZZXBlb2pSNFhnR2RCUFNxVk81b28zZ2k2Mkd2ZVpqRlhHMlVXS3o2V2M?oc=5>
+
+### 特朗普总统:伊朗向美国保证，不会向通过霍尔木兹海峡的船只收取通行费
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-06-24 16:18
+- 链接: <https://news.google.com/rss/articles/CBMigAJBVV95cUxNaUEzS3FXakthRzg0aVhXX2pUdm5HRzRfdDdiUllmek1xZ0lmSjNCNFRURFRXdjQ3MGNIM3hlLVJUVGxpMEtCeWc0RkxleFBMZ2YxYUhpUWJxRWxGUk9MTHd5LWhYcklaMXN2VXBsUWpHYjRxWFN1U2hzZDhpVGtzaHFDWXduRVBMRVZjR3RrV2ppcldwdUVZTUV5QUNaZi05MDZ5M3diYV9ZRE1scTRQS2EwalY5TDZVU2txVUZycEFwb0ZDeTMtSzV6bENWbE52bnJUcFZ0ZHRaM08zVWhkOVVaWkV3Y3hOSFItbGpMR3VpQ2pxeWE1YUJKcjRfWmtM0gGDAkFVX3lxTE9oOE9hdjNjd0I5MDRXYXo1X2pwSGJ3TENvZ3l3ZkhBcURaeXRuZHhxOU1hUWF3aWRxWThkQlBYOE56c01uQkhaVE5Tb0lsbk1Yb0Z4azh1VGFRVFE0MEhJcEg0RW1KdDhreE5OQ0pUamptVU9NTEZhUHV6Q3pFR2hVc2VLSEhIYVpGOWFLVV9jZUNnOGNVSUpydHN2WFcxYUJBWnBBRWFhblpHOHJNbU02QktTTmlQTkVYLUNmWDZGcC1SZ1p2TUZPQzNtY0s4a2ZSQVZCanc0RUZEVElDbVFhQm9hQXhuSHptc2ZtWm5nZXNPTU5QdElXekNwX2FOZkNNTlk?oc=5>
 
 ### 特朗普称国会限制总统战争权力“不合时宜”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中国青年网
-- 时间: 2026-06-24 05:25
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBQbkVHNzFWNUp1azkyV1hnTFZzOEdpSFhPWjJCeGUtc19tVG5GZmZ0YmZPb3pGS3o4NGNaaW5jdUlsSlllZ0hTTVVadkQyZFVib2VTd3hBbWN4TWdiQ1hjQzEwTmQ?oc=5>
+- 场馆: 新华网
+- 时间: 2026-06-24 04:32
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9JTHFja0VYNlZmd3gtYlFia200Q3VWcXp6NkR2NFplWVFScXdLbTRBdDhIQ192N1J5Y0dXTXQ2RUpoTFN1bWExdG8tNVN4UExiY1NSbUtHc1ctLVhHbUNRMWVfU0pKZUE2Qm1meTlmNTlsU3U1endaSkJoVGc3ckk?oc=5>
 
-### 欧洲不忍了！意大利女总理硬刚特朗普，扯下了他最后的遮羞布
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-06-24 13:06
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE5zMmhPcGVFaV9EUmJEZVZTM0t0MGZnVTh4UmpKYzFGSjFPc3hPVkNZZ2xWUElHVXh0dzdjY3RnVEF6dUo1dnliZ3VJNUY3SF83QVV0bWNrOVVqMUkyOUdZQ2tZOGRpTG5VMFNrQXcxX1Bndw?oc=5>
-
-### 特朗普称国会限制总统战争权力“不合时宜”
+### 50：48，美国参议院也通过了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-06-24 05:10
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hSlRIU1RZeUxmSFF6YWtTcGVRQWtIcmtINjRXTmkxbGY5ajJKa3NGSHQ5VWl5R3RGaG5uTVlKTm5aUUtTQm9IUDdaVktqa0UyMmp0UmFvUHNmRHJGX3pOYVBubU1ZbVJk?oc=5>
+- 场馆: 新浪军事
+- 时间: 2026-06-24 16:05
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE54X2tUc3NobmRWOVlzZWYtNW84ZExQNmNXaXdTTkdxR044am01REFhLUlQSHdOUTUwamtzekl0RFBncDdLck5PZW1vd0Z1cUhhVnZrcklkZUdNdmg4ci0wb19GVGgxVjdvVzVTN2tKcDB1OU0?oc=5>
 
-### 🔥🇮🇷伊朗外交部发言人：没有同意“国际机构视察核设施”（Vance列举的瑞士会谈成果）🇺🇸解冻资产的使用没有任何限制（Trump称“只能用来买美国产品”）#伊朗[超话]##C罗成为葡萄牙世界杯射手王##河南高考分数线# ​
+### 特朗普炮轰石油公司：消费者正在被“宰割”，汽油价格最好赶紧下降，我已指示司法部立即展开调查
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 每日经济新闻
+- 时间: 2026-06-24 16:25
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE15RnpVM3V2RHJPV1I4YUV2VF96cElsV3ZsTk5VVk1tNWZZTDN1dE91VEhmVjUzOFVCR0Z2aTJBOWVNVTdPMlg2RzdiNkp2YjdRVWhoWkNXejQ4aldkcFpBaWwycGdEQQ?oc=5>
+
+### 特朗普称美方将参与国际原子能机构对伊朗核查行动
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-06-24 16:08
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBDcnp0aklQTUlFT2JpZlVjUGk2NmpzRDdWZE1PbERSNno0MVRQaU0xWHFLNzk4RVhOT3BwYUNkNzFkdFUwaFFtamFwU1k?oc=5>
+
+### 梅洛尼爆吵川普后态度软了 昔日友好决裂早有征兆
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-06-24 14:19
-- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTE1GNVU1d3BtWGpMSFdBRTlVQWFaX2NMRmxjMExyUy1wZ3hCTHowOTJBeXd5QzZTek9pLTE5NjlIcW02Nm5qNG41UVgwNVBMMDN6VDc1MTlqX1otcHBCRGgzOWhjaw?oc=5>
+- 场馆: 文学城
+- 时间: 2026-06-24 16:16
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFB1YWluUkhCVmpBSkVNVExESkwxdS1KNTFSS2dNX3NTNDdnWmp6MmhPRkxOS2xNeWRkM0VSMkE5UGVPV0dXRThKUHFhbzl1VU5fLWVyQmlFeDdIdXdteVZic0RFeFFtaXha?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-24 17:49  (8 条)
+
+- **特朗普** | 美国总统特朗普24日......_7x24快讯_新浪财经 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE0xYlROM2Z4OTBkYzNmX09uX2F2LUdyVTUwQnpoQS00QlpFWHJxbnJ0TzhHSE95UUtYNV9YV25tdEZJMGVieU0yaFlqUQ?oc=5>
+- **特朗普** | 牛弹琴：特朗普学乖了 <https://news.google.com/rss/articles/CBMizAFBVV95cUxOcTlZQW42U0xHMUJ4VUtLVnZFUUhZXzk1ZUMyVmE0cXYzOGlHVlFwbWF1eXpmMVZfVjVZbXZkWTcyR3JTOU1aZFlWd0dFRnpxWTlzOG03VkZicGlMUkd3VHFmeVRpbDR3b21nNlVlS185N1dUbjVqMWN5bi13VGpfQ1lBN3N4NHlLaVdWbjBIdVNmSDl2b3d2aW5sN3RGMXBUUTVZZXBlb2pSNFhnR2RCUFNxVk81b28zZ2k2Mkd2ZVpqRlhHMlVXS3o2V2M?oc=5>
+- **特朗普** | 特朗普总统:伊朗向美国保证，不会向通过霍尔木兹海峡的船只收取通行费 <https://news.google.com/rss/articles/CBMigAJBVV95cUxNaUEzS3FXakthRzg0aVhXX2pUdm5HRzRfdDdiUllmek1xZ0lmSjNCNFRURFRXdjQ3MGNIM3hlLVJUVGxpMEtCeWc0RkxleFBMZ2YxYUhpUWJxRWxGUk9MTHd5LWhYcklaMXN2VXBsUWpHYjRxWFN1U2hzZDhpVGtzaHFDWXduRVBMRVZjR3RrV2ppcldwdUVZTUV5QUNaZi05MDZ5M3diYV9ZRE1scTRQS2EwalY5TDZVU2txVUZycEFwb0ZDeTMtSzV6bENWbE52bnJUcFZ0ZHRaM08zVWhkOVVaWkV3Y3hOSFItbGpMR3VpQ2pxeWE1YUJKcjRfWmtM0gGDAkFVX3lxTE9oOE9hdjNjd0I5MDRXYXo1X2pwSGJ3TENvZ3l3ZkhBcURaeXRuZHhxOU1hUWF3aWRxWThkQlBYOE56c01uQkhaVE5Tb0lsbk1Yb0Z4azh1VGFRVFE0MEhJcEg0RW1KdDhreE5OQ0pUamptVU9NTEZhUHV6Q3pFR2hVc2VLSEhIYVpGOWFLVV9jZUNnOGNVSUpydHN2WFcxYUJBWnBBRWFhblpHOHJNbU02QktTTmlQTkVYLUNmWDZGcC1SZ1p2TUZPQzNtY0s4a2ZSQVZCanc0RUZEVElDbVFhQm9hQXhuSHptc2ZtWm5nZXNPTU5QdElXekNwX2FOZkNNTlk?oc=5>
+- **特朗普** | 特朗普称国会限制总统战争权力“不合时宜” <https://news.google.com/rss/articles/CBMif0FVX3lxTE9JTHFja0VYNlZmd3gtYlFia200Q3VWcXp6NkR2NFplWVFScXdLbTRBdDhIQ192N1J5Y0dXTXQ2RUpoTFN1bWExdG8tNVN4UExiY1NSbUtHc1ctLVhHbUNRMWVfU0pKZUE2Qm1meTlmNTlsU3U1endaSkJoVGc3ckk?oc=5>
+- **特朗普** | 50：48，美国参议院也通过了 <https://news.google.com/rss/articles/CBMic0FVX3lxTE54X2tUc3NobmRWOVlzZWYtNW84ZExQNmNXaXdTTkdxR044am01REFhLUlQSHdOUTUwamtzekl0RFBncDdLck5PZW1vd0Z1cUhhVnZrcklkZUdNdmg4ci0wb19GVGgxVjdvVzVTN2tKcDB1OU0?oc=5>
+- **特朗普** | 特朗普炮轰石油公司：消费者正在被“宰割”，汽油价格最好赶紧下降，我已指示司法部立即展开调查 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE15RnpVM3V2RHJPV1I4YUV2VF96cElsV3ZsTk5VVk1tNWZZTDN1dE91VEhmVjUzOFVCR0Z2aTJBOWVNVTdPMlg2RzdiNkp2YjdRVWhoWkNXejQ4aldkcFpBaWwycGdEQQ?oc=5>
+- **特朗普** | 特朗普称美方将参与国际原子能机构对伊朗核查行动 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBDcnp0aklQTUlFT2JpZlVjUGk2NmpzRDdWZE1PbERSNno0MVRQaU0xWHFLNzk4RVhOT3BwYUNkNzFkdFUwaFFtamFwU1k?oc=5>
+- **Trump** | 梅洛尼爆吵川普后态度软了 昔日友好决裂早有征兆 <https://news.google.com/rss/articles/CBMiaEFVX3lxTFB1YWluUkhCVmpBSkVNVExESkwxdS1KNTFSS2dNX3NTNDdnWmp6MmhPRkxOS2xNeWRkM0VSMkE5UGVPV0dXRThKUHFhbzl1VU5fLWVyQmlFeDdIdXdteVZic0RFeFFtaXha?oc=5>
 
 ### 2026-06-24 15:30  (15 条)
 
