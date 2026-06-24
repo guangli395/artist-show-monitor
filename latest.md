@@ -1,100 +1,138 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-24 12:32**
-- 本轮扫到 4349 条, 新增 **11** 条
+- 最近更新: **2026-06-24 15:30**
+- 本轮扫到 4364 条, 新增 **15** 条
 
 ---
 
-## 本轮新发现 (11 条)
+## 本轮新发现 (15 条)
 
-### 暑期京城演唱会热度一路飙升
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907b5bs.html>
-
-### 王俊凯新专辑致敬周杰伦是真的吗？
+### 新浪演唱会热点小时报丨2026年06月24日21时_今日实时演唱会热点速递
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801qhby.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907b6r8.html>
 
-### 特朗普宣布：美国汽车巨头将开始生产武器，包括“战斧”巡航导弹和“爱国者”防空系统
+### 周杰伦47岁巡演翻车，递话筒躲高音，万元票钱打水漂？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907b6ek.html>
+
+### 白鹿十周年演唱会门票二开秒售空，55万人想看热度超周杰伦
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923704_m1d5ae17f803301tqjw.html>
+
+### 追星女这下是真的不用担心 看演唱会出不了神图了！
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_2408951592_m8f95af28033013aja.html>
+
+### 2026周杰伦北京演唱会将于6月26日至28日在鸟巢上演
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5735297670_m155d9b286033013qka.html>
+
+### 出门随处撞见周同学，演唱会预热直接拉满期待周杰伦
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_6354475832_m17ac19b38033019ufa.html>
+
+### 千台拍摄神器将亮相周杰伦演唱会
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1719014980_m6676164405301kmeg.html>
+
+### 超级音乐周末，开唱！本周六，北京一天五场演唱会
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://finance.sina.com.cn/wm/2026-06-24/doc-iniepqxs2869648.shtml>
+
+### 特朗普要开发首台“足以开启量子科学发现新时代”的量子计算机
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-06-24 11:03
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE90STVNYnlheUl0c2VHdXI0bWJjd0tjNFV0WkhwX3p5T01JX0VYUzJPMGt3VFBTYVk5aTQzY205SUZQa0NneWVpaTZ2eERqcXF5WXZWNFo0dGhFYlJ4VVA3NUVNNWtaZG5fRUhIV0E2cnBGQQ?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-06-24 14:52
+- 链接: <https://news.google.com/rss/articles/CBMisgFBVV95cUxQWEN2Qzdaa2c2Q0V6ZEE2QUxjRzluNDJJQm1zUEg2eHV2YVVVREY5T2hQZjFxc21MSGJpRDVhd0M2QkRlN0dGTDhvRm5CUGQ1QktmSDNSU3dITUlrZmZjUkhIbkxUVFBtaWhLOTJoS0JwQWVMZXhfLUR2T1dhRGppeFBHVHZGaE4td01FekVhdGRRNE1mTnYyNUZQbE5ZSHlWLVktenZqZUV3UlM3M0EtVWV3?oc=5>
+
+### “美国超半数民众不认可对伊动武，特朗普民调支持率跌至任期谷底”-观察者网
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察
+- 时间: 2026-06-24 14:55
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9hOXhzOEgxTG12b2JXaHMtNFlmWHVFZnp5Y0xfdmdJeVhCaTg0NFFxVHZBMXozcFk1OEFWdlFKeGFQN1lKNlVENkF2b25MUWxsOXhHVDBFaXJaZ2tjNXY1VzJEcWdpRVNTYnc?oc=5>
+
+### 贝森特称沃什对通胀态度强硬 特朗普允许美联储自主决策
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-06-24 14:43
+- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaEZJR2c1Ty0wX1l6a19waldWdFJpeTR3MTNOYW44dllVUkxSZEV5VmxTeDJMZEZfTEZyenY4ZkQxVzlSM3M1dDdhR19VM1V4NkhXVml5UjhNazRVYUp2THN4aGNtdVRWMUotNW9BeU1sTjByYnNWRTdkRTU4SUtidFp4U243UE1oVF9tRzZRWVdqc0cxRjNqSWVRVUZ3TGlFUmNHSWJfRkVlQQ?oc=5>
+
+### 特朗普称国会限制总统战争权力“不合时宜”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中国青年网
+- 时间: 2026-06-24 05:25
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBQbkVHNzFWNUp1azkyV1hnTFZzOEdpSFhPWjJCeGUtc19tVG5GZmZ0YmZPb3pGS3o4NGNaaW5jdUlsSlllZ0hTTVVadkQyZFVib2VTd3hBbWN4TWdiQ1hjQzEwTmQ?oc=5>
 
 ### 欧洲不忍了！意大利女总理硬刚特朗普，扯下了他最后的遮羞布
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪网
-- 时间: 2026-06-24 12:10
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFB6ZmtfTGZ4VlA4OGVjcTdnbjVxZTNFZlIxTl95Y09GcjZ0NHhvSGRnMFU3STJheExHa1pnZVRvbDl6OHZVeUJnSlpGMlZITVZ2ZkpNTUk4QTNlUTFZUnZKWlBzMF9YSlZrejZuNWdHcFVSUQ?oc=5>
+- 时间: 2026-06-24 13:06
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE5zMmhPcGVFaV9EUmJEZVZTM0t0MGZnVTh4UmpKYzFGSjFPc3hPVkNZZ2xWUElHVXh0dzdjY3RnVEF6dUo1dnliZ3VJNUY3SF83QVV0bWNrOVVqMUkyOUdZQ2tZOGRpTG5VMFNrQXcxX1Bndw?oc=5>
 
-### 特朗普称美国车企将生产战斧爱国者导弹
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-06-24 11:01
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE9laEs0cnFDZ1JrY2NPYWNaTUFQZ1lFSzRRWEVRZ0Qwa1haN1RuOGxtSVNDZHE1LWZTNjNQQmVFb1BwelZ4Y0RRUl9XOThPRThlY1dPREZxQ2Q0QVRoaDZYcU8wc2s2QUFyNzh4NmFmTENFdFk?oc=5>
-
-### 特朗普称伊朗解冻资产将专用于购入美国农产品
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-23 07:00
-- 链接: <https://news.google.com/rss/articles/CBMijAJBVV95cUxOQ2VyNjJkZkhTbDkwS3NRSjAzU2dPVWdYY1RXVUJEZmZFeG84aDBtODFSZFhMQ1B2Zm93NUh5ZGllVTRLRlFRODVRNFU3amtLczVsbG11U3F3Mkl1ZkNBYVZOQ1VDeTJkd3FpbWlSSzBmSEhibVF2dFRGZ1ZmUDkxTW1vUjRVQTZXS2cxdEJ1bl9ZQ0t6UzN5R19HQ291U0RBRUdtSG5nMV9GN0RVNnRaYm9lUHJ1U0lTeGZvUWkxcjFRdE01U2paYzZFRUk5a05XSFVnN2dpaDlaam1na0FpT1dzdnlGUGNTVk9tMTFJYUdaY3RQWEJvcmNNaEtqd3FJY0VSTms0RmluYi1t?oc=5>
-
-### 民调：特朗普支持率降至第二任期以来最低水平
+### 特朗普称国会限制总统战争权力“不合时宜”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: chinanews.com.cn
-- 时间: 2026-06-24 01:46
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBubXVtaTYwbjJKMDB6QkFsWXdjN2RDeF92aW1HVTlaLU5rVlN3V3prdlY5M3ZVWklLbW9ZUVgxXzB2OUI1RTJlaGJmYzRvRENWZ0tnUXdFLTJYZmJCSzJjeElqYlZYMzMz?oc=5>
+- 时间: 2026-06-24 05:10
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hSlRIU1RZeUxmSFF6YWtTcGVRQWtIcmtINjRXTmkxbGY5ajJKa3NGSHQ5VWl5R3RGaG5uTVlKTm5aUUtTQm9IUDdaVktqa0UyMmp0UmFvUHNmRHJGX3pOYVBubU1ZbVJk?oc=5>
 
-### 美国参议院民主党人敦促调查 Trump 家族 5 亿美元加密交易
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: CryptoRank
-- 时间: 2026-06-24 10:29
-- 链接: <https://news.google.com/rss/articles/CBMiXEFVX3lxTE52bTBTdURzY2dUN0dyRzBYeE5ZczdlenhXVnpDWERYTk04RjJseW5nQXR1d3pab2t6MzlZb2ViaTFOSHhnbDQ2Q3pyTnhaSGc4am5fa3BXUy1hQzBX?oc=5>
-
-### 参议院民主党人呼吁就特朗普5亿美元阿联酋加密货币交易举行听证会
+### 🔥🇮🇷伊朗外交部发言人：没有同意“国际机构视察核设施”（Vance列举的瑞士会谈成果）🇺🇸解冻资产的使用没有任何限制（Trump称“只能用来买美国产品”）#伊朗[超话]##C罗成为葡萄牙世界杯射手王##河南高考分数线# ​
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: CoinDesk
-- 时间: 2026-06-23 16:18
-- 链接: <https://news.google.com/rss/articles/CBMi0wFBVV95cUxPT21uc2pPOEFVLTJHb3dNNEFPR2JBMzlwTXltQ2xXanNWWS0wbHc5cnJoOHlMT3VSdXIxQURVdHd4dDlhUlhYS0J1eHZ3SlItc0YzenJEU0FwTVQ4ZUctcS00Vm8xTlJKUHpYM1dsNWpreDVjZjVPRGRKVVZ5dUNMRjlKRFV2bG1pQmUzZjZYd24wOXMxRE9WcHlqR2R2emRjbFZZTjIwZVRLQnNwdFZKV2VtLTZZY0JDQmNFSTFPR2dHelY3SDhWb0tRR1V4Vmljdk5r?oc=5>
-
-### 非法移民进入美国已被制止
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: VOA - Voice of America English News
-- 时间: 2026-06-23 17:49
-- 链接: <https://news.google.com/rss/articles/CBMiugFBVV95cUxOZF9haU05MF9oS1FhWGpYZk4yclBFQWxzVGVILUNwZjRJNHFkQ28tYzJPcDNUaGczc3U0ekNSMGdOLTBSdUZpLWZYXzRNYW9zS3otRUx1T2VmVkpZSVNEOURRZ2lsY296eFhZSHB3RHZqTS1XQnNSY1dVS09FQzBXbm5LN05GUHhfbEhjZGg1ODhFMmY3OHRLNXZHa1dkazlDM0l0RWZ6eFAzMzAwTE9lSkZ3ZlFxX2kyb1HSAbwBQVVfeXFMUHpNUzRaU2NqVERrSXpTdEo1dVptN0hTSEhXWTRYbGlRWEdrUUtIaXRBdVE2YnVSN2hnWGNQei01TVhBNmtKRjlHd0U4NVFYbW0yMnFFY1Q2TG4wYTdjVklwckNpeVp1UWZMMnVlbU05TGs3V2hySktKMVdKOEdDTjBuMElUaldpODlicTBrQ2VPMlJ0a2pLYW5UZWVJdkZwWlNHMTRrN2tYMk53VWxxMWNia0U0ZHFHQ29GeHI?oc=5>
-
-### Trump Regrets Once Selling IBM's Stock. Now He's Cheering Its Quantum Future and Dealing Its Shares.
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-06-23 20:09
-- 链接: <https://news.google.com/rss/articles/CBMimgFBVV95cUxOSlU1NzEtZElSUF9FNDFUbjVTRTFiSUhpaERuVGF1Qy1VbWJ5UzNLLUlzS0ExWjdoZThuYnNTN3JJOUdiUWp2LTlibkk1Rmt5WDAzaFgxRVE2S3NqaUZhUTlqMjVEVi1KakNQclhfelRfTzduVHZYbzhOcG5SdUlBSk1JaG5YR2VBRTFtR0J0akgyWVBSU2c3c1ZR?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-06-24 14:19
+- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTE1GNVU1d3BtWGpMSFdBRTlVQWFaX2NMRmxjMExyUy1wZ3hCTHowOTJBeXd5QzZTek9pLTE5NjlIcW02Nm5qNG41UVgwNVBMMDN6VDc1MTlqX1otcHBCRGgzOWhjaw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-24 15:30  (15 条)
+
+- **周杰伦** | 新浪演唱会热点小时报丨2026年06月24日21时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001907b6r8.html>
+- **周杰伦** | 周杰伦47岁巡演翻车，递话筒躲高音，万元票钱打水漂？ <https://k.sina.com.cn/article_7857201856_1d45362c001907b6ek.html>
+- **周杰伦** | 白鹿十周年演唱会门票二开秒售空，55万人想看热度超周杰伦 <https://k.sina.com.cn/article_7879923704_m1d5ae17f803301tqjw.html>
+- **周杰伦** | 追星女这下是真的不用担心 看演唱会出不了神图了！ <https://k.sina.com.cn/article_2408951592_m8f95af28033013aja.html>
+- **周杰伦** | 2026周杰伦北京演唱会将于6月26日至28日在鸟巢上演 <https://k.sina.com.cn/article_5735297670_m155d9b286033013qka.html>
+- **周杰伦** | 出门随处撞见周同学，演唱会预热直接拉满期待周杰伦 <https://k.sina.com.cn/article_6354475832_m17ac19b38033019ufa.html>
+- **周杰伦** | 千台拍摄神器将亮相周杰伦演唱会 <https://k.sina.com.cn/article_1719014980_m6676164405301kmeg.html>
+- **周杰伦** | 超级音乐周末，开唱！本周六，北京一天五场演唱会 <https://finance.sina.com.cn/wm/2026-06-24/doc-iniepqxs2869648.shtml>
+- **特朗普** | 特朗普要开发首台“足以开启量子科学发现新时代”的量子计算机 <https://news.google.com/rss/articles/CBMisgFBVV95cUxQWEN2Qzdaa2c2Q0V6ZEE2QUxjRzluNDJJQm1zUEg2eHV2YVVVREY5T2hQZjFxc21MSGJpRDVhd0M2QkRlN0dGTDhvRm5CUGQ1QktmSDNSU3dITUlrZmZjUkhIbkxUVFBtaWhLOTJoS0JwQWVMZXhfLUR2T1dhRGppeFBHVHZGaE4td01FekVhdGRRNE1mTnYyNUZQbE5ZSHlWLVktenZqZUV3UlM3M0EtVWV3?oc=5>
+- **特朗普** | “美国超半数民众不认可对伊动武，特朗普民调支持率跌至任期谷底”-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE9hOXhzOEgxTG12b2JXaHMtNFlmWHVFZnp5Y0xfdmdJeVhCaTg0NFFxVHZBMXozcFk1OEFWdlFKeGFQN1lKNlVENkF2b25MUWxsOXhHVDBFaXJaZ2tjNXY1VzJEcWdpRVNTYnc?oc=5>
+- **特朗普** | 贝森特称沃什对通胀态度强硬 特朗普允许美联储自主决策 <https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaEZJR2c1Ty0wX1l6a19waldWdFJpeTR3MTNOYW44dllVUkxSZEV5VmxTeDJMZEZfTEZyenY4ZkQxVzlSM3M1dDdhR19VM1V4NkhXVml5UjhNazRVYUp2THN4aGNtdVRWMUotNW9BeU1sTjByYnNWRTdkRTU4SUtidFp4U243UE1oVF9tRzZRWVdqc0cxRjNqSWVRVUZ3TGlFUmNHSWJfRkVlQQ?oc=5>
+- **特朗普** | 特朗普称国会限制总统战争权力“不合时宜” <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBQbkVHNzFWNUp1azkyV1hnTFZzOEdpSFhPWjJCeGUtc19tVG5GZmZ0YmZPb3pGS3o4NGNaaW5jdUlsSlllZ0hTTVVadkQyZFVib2VTd3hBbWN4TWdiQ1hjQzEwTmQ?oc=5>
+- **特朗普** | 欧洲不忍了！意大利女总理硬刚特朗普，扯下了他最后的遮羞布 <https://news.google.com/rss/articles/CBMickFVX3lxTE5zMmhPcGVFaV9EUmJEZVZTM0t0MGZnVTh4UmpKYzFGSjFPc3hPVkNZZ2xWUElHVXh0dzdjY3RnVEF6dUo1dnliZ3VJNUY3SF83QVV0bWNrOVVqMUkyOUdZQ2tZOGRpTG5VMFNrQXcxX1Bndw?oc=5>
+- **特朗普** | 特朗普称国会限制总统战争权力“不合时宜” <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hSlRIU1RZeUxmSFF6YWtTcGVRQWtIcmtINjRXTmkxbGY5ajJKa3NGSHQ5VWl5R3RGaG5uTVlKTm5aUUtTQm9IUDdaVktqa0UyMmp0UmFvUHNmRHJGX3pOYVBubU1ZbVJk?oc=5>
+- **Trump** | 🔥🇮🇷伊朗外交部发言人：没有同意“国际机构视察核设施”（Vance列举的瑞士会谈成果）🇺🇸解冻资产的使用没有任何限制（Trump称“只能用来买美国产品”）#伊朗[超话]##C罗成为葡萄牙世界杯射手王##河南高考分数线# ​ <https://news.google.com/rss/articles/CBMiY0FVX3lxTE1GNVU1d3BtWGpMSFdBRTlVQWFaX2NMRmxjMExyUy1wZ3hCTHowOTJBeXd5QzZTek9pLTE5NjlIcW02Nm5qNG41UVgwNVBMMDN6VDc1MTlqX1otcHBCRGgzOWhjaw?oc=5>
 
 ### 2026-06-24 12:32  (11 条)
 
