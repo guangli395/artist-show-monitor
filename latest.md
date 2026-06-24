@@ -1,78 +1,162 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-23 23:52**
-- 本轮扫到 4291 条, 新增 **8** 条
+- 最近更新: **2026-06-24 02:41**
+- 本轮扫到 4308 条, 新增 **17** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (17 条)
 
-### 暑期京城演唱会热度一路飙升
+### 蔡徐坤新专辑《迷》卖出8000万，但4个月后仍有6首歌未“交付”
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019079qsw.html>
+
+### 周杰伦龙拳演唱会官宣,鸟巢首秀炸翻全网,刘畊宏躺枪_周董_道哥_网友
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5952915705_162d248f90670360sy.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907a0dy.html>
 
-### 特朗普儿童储蓄账户注册量已超600万个
+### 周杰伦鸟巢演唱会门票秒售罄，后续还有可能加场或释放少量余票吗？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801qbmu.html>
+
+### 除了演唱会本身，周杰伦北京场还有哪些值得关注的歌迷应援活动？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801qbmq.html>
+
+### 周杰伦2026鸟巢演唱会的舞台技术和曲目编排有何特别亮点？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801qbmo.html>
+
+### 两位参议员就关税对制造业的影响向特朗普政府施压
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-23 21:18
-- 链接: <https://news.google.com/rss/articles/CBMijwJBVV95cUxQMGhsd0dSYzRoeFV2eFJmOTIwMmpCOVpKVDhfazBZVTBtWTFmRllaRVhmNi0wRldrT01rMHo4elVBOUF5c0NEMXY0bHZidFhaYWlhLVB0OVBIV3VZUUFMOVBmTmtkejFqTGpuSDM1STJvdjQtUktZbUYxaUI0NUl5am1FVUlzNGVWVS1qeTdhdWNoQkZnMnctU0xsYXZqdkUyU1ktMy13NnZYbDVUazZYa0tsem85d0k1eGxLdjBOdXg3NGptWnVvaGZfSVFST2YtdHFBYmU1RTlzeEY5bTFLQ3kwLWVQeUVMOGE2STR1MHp0S2dsMVd3R2J6ZlM5SU1hcHg1M1Z2VnZwSUs0N3ZB?oc=5>
+- 时间: 2026-06-24 02:03
+- 链接: <https://news.google.com/rss/articles/CBMijwJBVV95cUxQa3lUWXduS3YtQnlSSGNRNXZHSjYtZ2ZFSG5vc003NGlZU2g0LU9qSWo4NHRySHVvRTlYeUV4NUtzSDJKSDVGNlJVV1hOWlJZLWwxZGNGMklhS0RkZlJuV2x4VURxT0hQenZhaklVVU5IQklZVE5ERlhLV2EyTm5jZFR4cHFYRm5QWE00eXVybnlkNkZmNWktUlVNSVF4VWtCLTZJdEJKaGhPNk9MU01kVnI1a0Q2VkhCNmlGM2lHTDM4Z0ktZzVjRGNTbmowenEtR1Z2eGRsSHlqclhQZ1k5NWlGaUJEZElIU2JfdDZuZzhEVGNwRVF3dEVHQnJmOERFMWJmc2tWQTc2bmZwNkhj?oc=5>
 
-### 特朗普将目光投向中期选举 鼓吹战争结束经济即将起飞
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-23 21:24
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxNSjFQVmx2aVlYUmZRYjRvMW04V2xmUjd3cnItcDN2MU10QldMejBqLXVKVW1hbUhlZmhHNVViaDNFOXRqMl9OSGhNSlB1MmNrQWhiVG1pSmRDNVg3dFZhYWtjeE9LeFQ0T0NIaWstV1g3eV9IYUxuMmxRVDVWZWlQcDFNOFZySjA?oc=5>
-
-### 特朗普与参议院共和党人走向冲突
+### 报道称Meta面临特朗普政府日益增大的压力 需提交先进人工智能模型供联邦测试
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-06-23 23:39
-- 链接: <https://news.google.com/rss/articles/CBMiggJBVV95cUxNS0xrSG5TQjEyaVBiczIwcTBHS2xEenJaOEFtN3ZUWHd1eE9BcE1qandtZkFXLTRnVUY0V19oVGcyUGN2cjZvNmFDclBqd08wYlV3MHF6VWFWalN3ZThjWXBYdUpFMWJrMldsekx6OHVuOGVrTmpwTHpSREFsV1gtbWRVanpFZnlxVjVwQ08ybWNzMGlLLTFwbVg0bWN2YkRBem5LckVEQW5Oa3ZLaUp3Q2JDcVRSbjhvbHNaWk1EMU5GVzVobzE2dkFmUmd0UGZ4bDFmX19kb09qdlJZYWlZMGVxRm0yZk1GRUZLcUtvOThmN2dWcU0wTjBaRTN2SGVSc3c?oc=5>
+- 场馆: video.sina.com.cn
+- 时间: 2026-06-24 02:10
+- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxQZlJjOFd0eGlKb0lNVmFaY3g0LWI0QWpWaU4zcWxaYmVoUUp3cXJ0TFhXdFJJQkRURlJ3dFRWaUZxcDYyS2hscUxQWHZMRW45Yjl4aTNmZWpSbENfOThDMUJQeTdWTUtSQkVfZUVwWHNLX2hkVTZ2MlBoRHRjTHcwblRR?oc=5>
+
+### 特朗普向选民打包票：伊朗战争结束后 美国经济将“飞向新高度”！
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 财联社
+- 时间: 2026-06-23 23:55
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTFA3a3loM1ZjUm1Fd3d1T2tUMnZoZG4zbkdvM1UwSzAwYm1MMVZUQ2Z5SkpleXlIYkdfdU52Zk5wZ1VCT0E3bUxkNQ?oc=5>
+
+### 美参议院通过决议 旨在限制特朗普对伊战争权力
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻
+- 时间: 2026-06-23 20:25
+- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxPV2F6b2c5a3g2ZnBiTVJRd2ZsZXJsdmtpc3U4X2JZVVFPWHVsNmNMbHJyS0o1M1F5bjRKWGY3c25wM29SWURlZDhSRXRwS3pzR0d3ZUJGNGt6Zzg5bjFNZk1vbnJHWGF5S1ZFV0RmSVJoclhPNnlUQTJpRGZfY1JLOVQ2cUI4aEdBWi1NMlpjcFZLWjIy?oc=5>
+
+### 历史首次，美国两院通过决议谴责特朗普-观察者网
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: guancha.cn
+- 时间: 2026-06-24 01:05
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE14bDNJQU5qdklIMWxZaVlFZVpCYV83Yjd0SklqZU9vaFB3dHhPTExEb3FRNzZhRWZrYVVCck12Z0g0Y3BraWZvM1BwNjRNTlF5cFdwVHloQVhFZGo0TDY2QnpJejl4YU1vS2c?oc=5>
+
+### 美国放宽伊朗足球队入境限制 美参议院限制特朗普对伊战争权力
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 财新
+- 时间: 2026-06-23 23:31
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFAzbkd1ZHZuZ3ZjemZMNmxTeDJ6ZVdxWTRaXzd4cFlpTTFvdk1RTWQ0Y2lHalhiYXpEZnFIUzRDQ3pjV08zOGdjNW1lVF9HYVRfdjVLWHVYT0ZEQ0R5cm5xMWQ1R1Z2U0FRSkE?oc=5>
+
+### 特朗普：伊朗接受最高级别核查 解冻资金将购美物资
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-06-23 12:43
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE5MMnNDQ2ZBUHdSOC1hU1gzeUZjbkVmV2xVLThwS1V4cEJCcExwZnRkUnpvVmdtaFRhUUtKTDh2MG4tLTU2ejBMcFJ2cElheWcxMzVzUkE5cEJlTlQ1S21xWXFyYms4MEJDdXJENHluWEZfNl9acWVjcFZnRVNPMjA?oc=5>
 
 ### 特朗普称国际原子能机构核查人员将适时访问伊朗
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-06-23 23:11
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mU3NUZEcyRUM0SDNkNUhibHl6VkluTVVLZlBqbkp0ZVUyc0RqNzRIckRTUkg0dHhqSVV1bURBcDZaS3J6OUdwU1dJLWJFLUdSR09TSmx4QlpabTBybm1lTHRHeUs?oc=5>
+- 场馆: 中国网新闻中心
+- 时间: 2026-06-24 00:26
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTFBMQjFQc1JYaUxLU2NKSWM5VVRlZ1dMcUNDRnZCVTBDSFVLbmVfSll6TS1nVjV4cS0wNm55dGFiQkZBM2pham1UN0dBOWlDZm85eklkbGtheWw5a3h5c1ZzeFFfMjVJSjZpVEhJ?oc=5>
 
-### 特朗普称允许霍尔木兹海峡保持开放
+### 尽管德黑兰否认，特朗普总统坚称伊朗同意接受高级别核检查
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新蓝网
-- 时间: 2026-06-23 13:08
-- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE5OX0RTZmFYaXM1Mkx1V3hkUXdxWDlYVXlqM285Q1NWU21zdzZhOC1tbHJNeE1wSmZVenJvdkt1QkNQNklsOThYaTZIV1FoeVU?oc=5>
-
-### 美国参议院通过决议 要求特朗普停止对伊朗军事行动
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-06-23 22:57
-- 链接: <https://news.google.com/rss/articles/CBMikAFBVV95cUxNcGFwQ1gxTDBDeWM3VnR0VTZ1UTJFb0xXRUZyc0RwdEdMTVB2RzdpV05yNHMtdVRSX0FabjUtYVRyN3RVV2ctdmhqNWNKVmNObko0Z2JtX295aEdfWFhKejd0S05WMGFUamFoeG9jWWZ1UTc4Q1l4ZWREYmxwSmstbzNWSzd5VVFoNmh2VXc4V3k?oc=5>
-
-### 特朗普总统：解冻伊朗资产将用于购买美国农产品
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
 - 场馆: 美国之音
-- 时间: 2026-06-23 23:17
-- 链接: <https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbE5MN3J5YWpzdHJFSlhtTWdtNS00Y181Tks5ckZFRFNfUDFfdHk1cGU4dUxNenFQLUU5Z180ZFNtYXo1NzNFdjNwYldZMTRYdUc5YXN4eElCbUlwaS1KOVl3b1d3YktGRlM4eXVhSkdlSHFfYzFGTU9feEFlclo0QmFvZTJiUGQteTl4UjlKSkdPQXZGZEdiVnIwRW1HdlN4cFlJd3ZXb3Z3TjFTbXVnRWJtUE5kSXpJRENFdXMtYnMxc2dJT1pMQWlhcncyRkRYYlhueHh4aWQyNFVKMHFBdlFRbUZtZ0k3dmfSAewBQVVfeXFMTTZScnFhdGNIWU5PeGdrODFaSjBKRjJTRDRGc0psU3pnQU9BUWI2UkxIM2JidUVOV3dsN0tWaW0zTkpTTVdOYVpzWDYwRU92NlgtREhfVGNHdFluU1lSY29wRktKUGdRRThoanVBcWZPdW5TaGtURklvUFJBVGxOZ1Z1NjEwenBVVzFLWGc4cFBPV0dmdFJsQUtROXNOai1zdGFwUXUxY0o4VUxjMko0LWg4XzVmVGY0aVNFRjIxTzdxb2c3cUJMQlJCRzVJVS1CbURwU0l0TzlwdFd2czhQX3RtRGZmRG9uQVBxZUE?oc=5>
+- 时间: 2026-06-23 14:59
+- 链接: <https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTWRTcG11NnBHMzJKYkM5Q1NQSHpDeU5FVUFheGk1M21uV1BEV2dBcWluZ1BhUThtZ3o5dUdEZkVZdGpDNUxNaFFBQ2dETmY2SkctU1NkUV95Rkx5Z3ZOQXJVSlhmbTlyU3o1Q2RtS0hVVDZjZTdkbk1YWGI5NGY1US1FMUdNbDNERDJoUGhiU0JlQmdya0hNWS1QZnJlQnItWUV4dEhQZ0JDcTVPTndOdmxlN0p5X19QaHY0b0lQb0lSb25jejBKbWRwRUFaOWpmMl84Sl9BOTjSAdsBQVVfeXFMTmV6TTRjMWE1Y0tsQmVfRFF6bG1VVmtjalpDcmV5YXJ4ZDBNRXJHbE0wd2Y2b1hqOHY4SkhKdWp5Y3dEUU82Tkw0MVN4dVRmekxqT1laUUlqVFVOWnQ4TTE4RW5vbHVZRkVZOTMzZEVjLUpDZFhvZ2hwQkpTNks1U0lvVmxfZmtRck1xTEpXSGh5czV6VWlxVjZQaXlPWkE2cTZPd3JfcXNqejZRMDhfWVdVNGtCUnpLZXk2SlJpc1h1M2s2SUxIOXlzXzhsaFhOOVlKX1FJSlExUGUw?oc=5>
+
+### 国际｜意大利总理回应与特朗普“互呛”：美意合作需恢复正常
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新京报
+- 时间: 2026-06-23 09:00
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfSU9KMVRQNzJnaC0wdEk2cXhXczYzRi1CSFpqazh2S2hTOUJPbFAzenpydDRvSFFuRkt4S0tCaXlXaWVwY0tDNS1wQWtvWVNJRkpaenBiY1lMMUhyQVpxYWsyTkM?oc=5>
+
+### 特朗普点名英意德差劲 北约盟友未援助美国
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-06-24 00:16
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBzTVdPNVBiTFFJS2g5T00zZzBNRnJsaURGSGprdnZqdllNOHFhNnYxUXNLbnpnYlVSTWNoY1hhaWtTU05YUW1xbGJrUGVaZzlJUk8zXzBzYVZGYjhnNElqSUdFdU1PcndxY1dkaUtqRzQ?oc=5>
+
+### 梅洛尼爆吵特朗普后态度软了，昔日友好决裂早有征兆
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 星岛环球网
+- 时间: 2026-06-24 01:36
+- 链接: <https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OX0d4dWl2ZlNXOEhfZHFSN2Z1LVhMRkJFSDRsV0FsOWROOEZ5czEtZTBSQm9EcmVTRkNlU3h2Y09JRjE0MElsRlNLRmZNcVlmanBLbVlTbmdFQQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-24 02:41  (17 条)
+
+- **蔡徐坤** | 蔡徐坤新专辑《迷》卖出8000万，但4个月后仍有6首歌未“交付” <https://k.sina.com.cn/article_7857201856_1d45362c0019079qsw.html>
+- **周杰伦** | 周杰伦龙拳演唱会官宣,鸟巢首秀炸翻全网,刘畊宏躺枪_周董_道哥_网友 <https://k.sina.com.cn/article_7857201856_1d45362c001907a0dy.html>
+- **周杰伦** | 周杰伦鸟巢演唱会门票秒售罄，后续还有可能加场或释放少量余票吗？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801qbmu.html>
+- **周杰伦** | 除了演唱会本身，周杰伦北京场还有哪些值得关注的歌迷应援活动？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801qbmq.html>
+- **周杰伦** | 周杰伦2026鸟巢演唱会的舞台技术和曲目编排有何特别亮点？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801qbmo.html>
+- **特朗普** | 两位参议员就关税对制造业的影响向特朗普政府施压 <https://news.google.com/rss/articles/CBMijwJBVV95cUxQa3lUWXduS3YtQnlSSGNRNXZHSjYtZ2ZFSG5vc003NGlZU2g0LU9qSWo4NHRySHVvRTlYeUV4NUtzSDJKSDVGNlJVV1hOWlJZLWwxZGNGMklhS0RkZlJuV2x4VURxT0hQenZhaklVVU5IQklZVE5ERlhLV2EyTm5jZFR4cHFYRm5QWE00eXVybnlkNkZmNWktUlVNSVF4VWtCLTZJdEJKaGhPNk9MU01kVnI1a0Q2VkhCNmlGM2lHTDM4Z0ktZzVjRGNTbmowenEtR1Z2eGRsSHlqclhQZ1k5NWlGaUJEZElIU2JfdDZuZzhEVGNwRVF3dEVHQnJmOERFMWJmc2tWQTc2bmZwNkhj?oc=5>
+- **特朗普** | 报道称Meta面临特朗普政府日益增大的压力 需提交先进人工智能模型供联邦测试 <https://news.google.com/rss/articles/CBMiggFBVV95cUxQZlJjOFd0eGlKb0lNVmFaY3g0LWI0QWpWaU4zcWxaYmVoUUp3cXJ0TFhXdFJJQkRURlJ3dFRWaUZxcDYyS2hscUxQWHZMRW45Yjl4aTNmZWpSbENfOThDMUJQeTdWTUtSQkVfZUVwWHNLX2hkVTZ2MlBoRHRjTHcwblRR?oc=5>
+- **特朗普** | 特朗普向选民打包票：伊朗战争结束后 美国经济将“飞向新高度”！ <https://news.google.com/rss/articles/CBMiSEFVX3lxTFA3a3loM1ZjUm1Fd3d1T2tUMnZoZG4zbkdvM1UwSzAwYm1MMVZUQ2Z5SkpleXlIYkdfdU52Zk5wZ1VCT0E3bUxkNQ?oc=5>
+- **特朗普** | 美参议院通过决议 旨在限制特朗普对伊战争权力 <https://news.google.com/rss/articles/CBMilAFBVV95cUxPV2F6b2c5a3g2ZnBiTVJRd2ZsZXJsdmtpc3U4X2JZVVFPWHVsNmNMbHJyS0o1M1F5bjRKWGY3c25wM29SWURlZDhSRXRwS3pzR0d3ZUJGNGt6Zzg5bjFNZk1vbnJHWGF5S1ZFV0RmSVJoclhPNnlUQTJpRGZfY1JLOVQ2cUI4aEdBWi1NMlpjcFZLWjIy?oc=5>
+- **特朗普** | 历史首次，美国两院通过决议谴责特朗普-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE14bDNJQU5qdklIMWxZaVlFZVpCYV83Yjd0SklqZU9vaFB3dHhPTExEb3FRNzZhRWZrYVVCck12Z0g0Y3BraWZvM1BwNjRNTlF5cFdwVHloQVhFZGo0TDY2QnpJejl4YU1vS2c?oc=5>
+- **特朗普** | 美国放宽伊朗足球队入境限制 美参议院限制特朗普对伊战争权力 <https://news.google.com/rss/articles/CBMiakFVX3lxTFAzbkd1ZHZuZ3ZjemZMNmxTeDJ6ZVdxWTRaXzd4cFlpTTFvdk1RTWQ0Y2lHalhiYXpEZnFIUzRDQ3pjV08zOGdjNW1lVF9HYVRfdjVLWHVYT0ZEQ0R5cm5xMWQ1R1Z2U0FRSkE?oc=5>
+- **特朗普** | 特朗普：伊朗接受最高级别核查 解冻资金将购美物资 <https://news.google.com/rss/articles/CBMif0FVX3lxTE5MMnNDQ2ZBUHdSOC1hU1gzeUZjbkVmV2xVLThwS1V4cEJCcExwZnRkUnpvVmdtaFRhUUtKTDh2MG4tLTU2ejBMcFJ2cElheWcxMzVzUkE5cEJlTlQ1S21xWXFyYms4MEJDdXJENHluWEZfNl9acWVjcFZnRVNPMjA?oc=5>
+- **特朗普** | 特朗普称国际原子能机构核查人员将适时访问伊朗 <https://news.google.com/rss/articles/CBMia0FVX3lxTFBMQjFQc1JYaUxLU2NKSWM5VVRlZ1dMcUNDRnZCVTBDSFVLbmVfSll6TS1nVjV4cS0wNm55dGFiQkZBM2pham1UN0dBOWlDZm85eklkbGtheWw5a3h5c1ZzeFFfMjVJSjZpVEhJ?oc=5>
+- **特朗普** | 尽管德黑兰否认，特朗普总统坚称伊朗同意接受高级别核检查 <https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTWRTcG11NnBHMzJKYkM5Q1NQSHpDeU5FVUFheGk1M21uV1BEV2dBcWluZ1BhUThtZ3o5dUdEZkVZdGpDNUxNaFFBQ2dETmY2SkctU1NkUV95Rkx5Z3ZOQXJVSlhmbTlyU3o1Q2RtS0hVVDZjZTdkbk1YWGI5NGY1US1FMUdNbDNERDJoUGhiU0JlQmdya0hNWS1QZnJlQnItWUV4dEhQZ0JDcTVPTndOdmxlN0p5X19QaHY0b0lQb0lSb25jejBKbWRwRUFaOWpmMl84Sl9BOTjSAdsBQVVfeXFMTmV6TTRjMWE1Y0tsQmVfRFF6bG1VVmtjalpDcmV5YXJ4ZDBNRXJHbE0wd2Y2b1hqOHY4SkhKdWp5Y3dEUU82Tkw0MVN4dVRmekxqT1laUUlqVFVOWnQ4TTE4RW5vbHVZRkVZOTMzZEVjLUpDZFhvZ2hwQkpTNks1U0lvVmxfZmtRck1xTEpXSGh5czV6VWlxVjZQaXlPWkE2cTZPd3JfcXNqejZRMDhfWVdVNGtCUnpLZXk2SlJpc1h1M2s2SUxIOXlzXzhsaFhOOVlKX1FJSlExUGUw?oc=5>
+- **特朗普** | 国际｜意大利总理回应与特朗普“互呛”：美意合作需恢复正常 <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfSU9KMVRQNzJnaC0wdEk2cXhXczYzRi1CSFpqazh2S2hTOUJPbFAzenpydDRvSFFuRkt4S0tCaXlXaWVwY0tDNS1wQWtvWVNJRkpaenBiY1lMMUhyQVpxYWsyTkM?oc=5>
+- **特朗普** | 特朗普点名英意德差劲 北约盟友未援助美国 <https://news.google.com/rss/articles/CBMicEFVX3lxTFBzTVdPNVBiTFFJS2g5T00zZzBNRnJsaURGSGprdnZqdllNOHFhNnYxUXNLbnpnYlVSTWNoY1hhaWtTU05YUW1xbGJrUGVaZzlJUk8zXzBzYVZGYjhnNElqSUdFdU1PcndxY1dkaUtqRzQ?oc=5>
+- **Trump** | 梅洛尼爆吵特朗普后态度软了，昔日友好决裂早有征兆 <https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OX0d4dWl2ZlNXOEhfZHFSN2Z1LVhMRkJFSDRsV0FsOWROOEZ5czEtZTBSQm9EcmVTRkNlU3h2Y09JRjE0MElsRlNLRmZNcVlmanBLbVlTbmdFQQ?oc=5>
 
 ### 2026-06-23 23:52  (8 条)
 
