@@ -1,80 +1,73 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-24 19:29**
-- 本轮扫到 4380 条, 新增 **8** 条
+- 最近更新: **2026-06-24 21:10**
+- 本轮扫到 4386 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (6 条)
 
-### 美国驻意大使紧急灭火 称特朗普与梅洛尼的冲突未破坏两国关系
+### 特朗普称伊朗并未在霍尔木兹海峡收取通行费，原油暴跌！
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 金融界
+- 时间: 2026-06-24 13:53
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE5GaGlhZGVrRnNsdHNSWVozdERBZFlXdHYwMDVzY0xuOGMtbmxmcFpmYXJkcUE1NzlCSzM2T1ZaS21ManRBTmlpNGRDR084NDUxbk0wZk83WUNwb1ZoRFl1TGVja3FNaFBIYk1GUHpwVlVyQQ?oc=5>
+
+### 特朗普：美国可能会接管霍尔木兹海峡，并收取费用
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-06-21 13:27
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE4wY19vbDI3ajRJQ3A0WEJWOXpwcWN6a3BRVzJId3ZHdk9XanNKYXRKeV8wbTU5Rzd3TEcwRUlqR252VDN2elVraGYtc1hLS0FQMFBIWk54NTJZaWx6NWhhbGowWnhLMzBjVXRFS193UUdmMFpRaEgwOQ?oc=5>
+
+### 美参议院通过决议 旨在限制特朗普对伊战争权力
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-06-23 20:25
+- 链接: <https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVmx0dXhYbDEwMXVKR1VtVXNOOTBuajlXZlNDRHlWQ3RCWlp0ZloyTk8xa3h1WUUxaVV5OEVCV1kxTDRvempPYkViRmlMQXhxazhyekZBRzRRRkZUNjBMU05mQkFpV1VmemY1ZGVNUy10ZjhEbmxEcVAwb0wxWVRNN1R5d3FMMGFmcW9mLUU2M09WM1F5RG1hanJkT1NKODZaZzZ3YU1tTE8tSmxtSVFtUGkxRFU1WUM1bDF1UDYzVlBSeU8wMFRaUTJTWHhnc0FuTWNFRGZTdmJlLWc?oc=5>
+
+### 特朗普将目光投向中期选举 鼓吹战争结束经济即将起飞
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-24 19:27
-- 链接: <https://news.google.com/rss/articles/CBMijwJBVV95cUxPRkx1RFc2aVlmSzZva25ROGI3M183bnp1X2gwdE1kWF91Q0xoT25aTnp3a3NwbzhoSGdFc3p5MU1zOVlxOTgwMU1IeHBpTVZ1VElJTzM3Q2RiLWFnRHpyM0FFRE52a2RQZ2xyZm43MjN5bVVpNW1zc2ZZNnI4WksxcXNyRjMzUnVoREczUkV0V2I4alhZOVNkNlFSbGRSQ1RTLW0wTmFTSlJxVVgxSWhZZHNzZFJhSkc5bHp6VDNwU2I0MlY5ZXFXalNGVG9hYVBWWFhqdzItbzNKbzhEZVRVbnpvZUhEUXlvZ3hXSElla3FYQ3FJLVI3OXF6MjdNbVR2eWFGbUtYblV0WGxDWUpV?oc=5>
+- 时间: 2026-06-23 21:24
+- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYnhabEZOblRhTnpjTGlvOTJPcEhicFdVRGtITVh1V0NXU0x0U1YwX0l5MzNkX3hTWFYxR2FMWWJqRDJPakJjZG55bXBDczNfYXdYd0szS1JQc0JDdTFkdS1EZWgyRGFjSEVWQzQ4S0p0X01tZXppbU5TT3dCc2d6eE5mTGVUdW5vaGRBRjFnU3lJclJHX1dXb0l5M0lteDVtZGR1ZVRoZFB6TTh3SVZoVzJsQlRFMWd2TUVpNjk4d3Y2SjBrb2F3YzBsb1psZHRUR2xEcEVNRy1oR0RZWnc?oc=5>
 
-### 特朗普过去24小时都忙了什么？（2026-06-24）
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-24 18:26
-- 链接: <https://news.google.com/rss/articles/CBMipwFBVV95cUxPdklPcXA4dlA1MjM4bFZqUDhiY1VTc0ZfNXR5TnFaNHhaclBNVkZ6Vi1rSWVYYVE0VHFBc0RHTUZqaThjWE9RTWFBdm1IWm10TXdpTlgxNmZ4OGlVOWlJd0hhNE12bEkxanREbGhaNURJVVA0V3RrU3pWc0NINlRPYVZ5R3Fjal9rR1ZRTmhwTm1KcFZZaXRsQUFKTUc3dkFROEVjRXc1OA?oc=5>
-
-### 盘点｜“G7团结”演不下去了，特朗普如何惹恼多国领导人
+### 梅洛尼反击特朗普说明了什么 主权不容挑衅
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-06-23 23:18
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OakNtdy1EcWNENWZOamlsUVBwMGQ1Zi1BVlpHeXNSYlVPdE9aMS1uaTdGV2NzMG1Sc1hOXzBCTlFMQ0ZSV0ZMajh6QWpmUUlpSUZTdXZVckdpdEFEcy05VA?oc=5>
+- 场馆: 中华网
+- 时间: 2026-06-24 14:35
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1Ua3JKUENVRjQ0WF96MDlCS1pRXzIxdGwtbkR4a0Nobzd0UnJSMXZfOXAyVVFwcHQ5Qzdtem5IUnNVWTF1WXVxNnJWQ3UwS3VHYjNybkFBaUl4NS1sLWlySzFqWDlZdmNheEExR1NiN28?oc=5>
 
-### 特朗普对石油公司开刀：下令调查哄抬行为，称油价已断崖式下跌
+### 特朗普拒绝签署包含美国央行数字货币禁令的法律，要求批准选举法案
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-06-24 08:21
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5YQldhdU9rSWZ5SmhFVGdWaGh6bl9ScXFYbHVEWlVvY1dqQTJVY2NfQjNJQmVacnVtbHktMFhpLWcwWDNXMmtiUjNHeHQ?oc=5>
-
-### 特朗普称国会限制总统战争权力“不合时宜”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中国日报网
-- 时间: 2026-06-24 06:55
-- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTE9qdkxrNkhKcnRFTHhpOF9adWNyV2duQkpXMUFjYkVsREVxQkVfenFHWE5CSUEydXB5anhfS1pwWGlJdjlHWXg0bUFaeU85dER0cGRBNDdiV2FXdFAzcU9ORUZrZUJua2FaNlR6NkFpckpjNHp4ZDlqYTY5cw?oc=5>
-
-### 特朗普威胁终止美伊谈判
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 京报网
-- 时间: 2026-06-24 13:47
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE54YTRJc0hnRU1Sc0xFQWpkSUplLVJ5bURYLTZWQWFjSVk0R2pSREY5VldPVGpndld6Wmt3VjNRSWhSdXRYOVlXUGh0Y1A3ZlJCZUZva2RNdjJaZTBjQ1E?oc=5>
-
-### 特朗普称若伊朗向霍尔木兹海峡通行船只收费将终止谈判
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 21财经
-- 时间: 2026-06-24 12:23
-- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxOeF9ENWRwRkJNOFlQQ1poSXpERGRNRjUwMTVRSGhKcUsyMmVZNmNHdnFCblhGWlRaVlBzQ3hDUzRCUUhET3NBd2tPOE9LXzRfdW85dEZ0VmQ1YjF5emFvMVF3WkZsS2FuRk5zY0VUZ19NSGZfelkzYWJpZmNjTU1NRTFIeU84cFpfU0YwaDF3cw?oc=5>
-
-### 共和党人坚决倒戈，国会向特朗普摊牌：首次通过决议，要求结束伊朗战争
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 上观新闻
-- 时间: 2026-06-24 13:11
-- 链接: <https://news.google.com/rss/articles/CBMiWkFVX3lxTE04dFVtVjE3TzMxVTZhaXpkdjh6NGw4REw3UXJ1ZDNpbF9fUzdlajR0cl9TRkZRd0ZNZERoaGZ5X0l0RFNEV0Q2ZFYxdWFVaXAwT1lScHpSVU9CUQ?oc=5>
+- 场馆: CoinDesk
+- 时间: 2026-06-24 00:42
+- 链接: <https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQUFyZWhrZDVrVGdETUVrbkVRY3JYMW5XQmR4b0RQZHNEOHU4dU9OZmJVbVRZelBWQUFBMUZMc2V6QXZGd18tbkV5VlVRcm5HaWxfMGg5ek1DbElXYU9SMFUzVG9SWlZ3NkljR3ZKTzBJU241TU1sS2xGMWRrdEpXUjZnT2VPb2dOVDhvMkhDeUxrdDl2WnBlbi0tX0pCa2l4aFV6ZE5TWU9jRlMyWHhBeTZKbHR6aUxkdHJxR1RXUFJLQQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-24 21:10  (6 条)
+
+- **特朗普** | 特朗普称伊朗并未在霍尔木兹海峡收取通行费，原油暴跌！ <https://news.google.com/rss/articles/CBMickFVX3lxTE5GaGlhZGVrRnNsdHNSWVozdERBZFlXdHYwMDVzY0xuOGMtbmxmcFpmYXJkcUE1NzlCSzM2T1ZaS21ManRBTmlpNGRDR084NDUxbk0wZk83WUNwb1ZoRFl1TGVja3FNaFBIYk1GUHpwVlVyQQ?oc=5>
+- **特朗普** | 特朗普：美国可能会接管霍尔木兹海峡，并收取费用 <https://news.google.com/rss/articles/CBMieEFVX3lxTE4wY19vbDI3ajRJQ3A0WEJWOXpwcWN6a3BRVzJId3ZHdk9XanNKYXRKeV8wbTU5Rzd3TEcwRUlqR252VDN2elVraGYtc1hLS0FQMFBIWk54NTJZaWx6NWhhbGowWnhLMzBjVXRFS193UUdmMFpRaEgwOQ?oc=5>
+- **特朗普** | 美参议院通过决议 旨在限制特朗普对伊战争权力 <https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVmx0dXhYbDEwMXVKR1VtVXNOOTBuajlXZlNDRHlWQ3RCWlp0ZloyTk8xa3h1WUUxaVV5OEVCV1kxTDRvempPYkViRmlMQXhxazhyekZBRzRRRkZUNjBMU05mQkFpV1VmemY1ZGVNUy10ZjhEbmxEcVAwb0wxWVRNN1R5d3FMMGFmcW9mLUU2M09WM1F5RG1hanJkT1NKODZaZzZ3YU1tTE8tSmxtSVFtUGkxRFU1WUM1bDF1UDYzVlBSeU8wMFRaUTJTWHhnc0FuTWNFRGZTdmJlLWc?oc=5>
+- **特朗普** | 特朗普将目光投向中期选举 鼓吹战争结束经济即将起飞 <https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYnhabEZOblRhTnpjTGlvOTJPcEhicFdVRGtITVh1V0NXU0x0U1YwX0l5MzNkX3hTWFYxR2FMWWJqRDJPakJjZG55bXBDczNfYXdYd0szS1JQc0JDdTFkdS1EZWgyRGFjSEVWQzQ4S0p0X01tZXppbU5TT3dCc2d6eE5mTGVUdW5vaGRBRjFnU3lJclJHX1dXb0l5M0lteDVtZGR1ZVRoZFB6TTh3SVZoVzJsQlRFMWd2TUVpNjk4d3Y2SjBrb2F3YzBsb1psZHRUR2xEcEVNRy1oR0RZWnc?oc=5>
+- **特朗普** | 梅洛尼反击特朗普说明了什么 主权不容挑衅 <https://news.google.com/rss/articles/CBMicEFVX3lxTE1Ua3JKUENVRjQ0WF96MDlCS1pRXzIxdGwtbkR4a0Nobzd0UnJSMXZfOXAyVVFwcHQ5Qzdtem5IUnNVWTF1WXVxNnJWQ3UwS3VHYjNybkFBaUl4NS1sLWlySzFqWDlZdmNheEExR1NiN28?oc=5>
+- **Trump** | 特朗普拒绝签署包含美国央行数字货币禁令的法律，要求批准选举法案 <https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQUFyZWhrZDVrVGdETUVrbkVRY3JYMW5XQmR4b0RQZHNEOHU4dU9OZmJVbVRZelBWQUFBMUZMc2V6QXZGd18tbkV5VlVRcm5HaWxfMGg5ek1DbElXYU9SMFUzVG9SWlZ3NkljR3ZKTzBJU241TU1sS2xGMWRrdEpXUjZnT2VPb2dOVDhvMkhDeUxrdDl2WnBlbi0tX0pCa2l4aFV6ZE5TWU9jRlMyWHhBeTZKbHR6aUxkdHJxR1RXUFJLQQ?oc=5>
 
 ### 2026-06-24 19:29  (8 条)
 
