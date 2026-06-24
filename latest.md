@@ -1,122 +1,157 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-24 06:41**
-- 本轮扫到 4322 条, 新增 **14** 条
+- 最近更新: **2026-06-24 10:17**
+- 本轮扫到 4338 条, 新增 **16** 条
 
 ---
 
-## 本轮新发现 (14 条)
+## 本轮新发现 (16 条)
 
-### 周杰伦空降北京筹备演唱会，粉丝打卡体验升级
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2387456303_8e4db12f0400172g2.html>
-
-### 周同学空降北京，周杰伦演唱会鸟巢舞台就绪
+### 周杰伦空降北京，演唱会前哨揭晓
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5897618643_15f8684d304001alke.html>
+- 链接: <https://k.sina.com.cn/article_3285889392_c3dab17004001aa1e.html>
 
-### 周同学周杰伦演唱会打卡攻略出炉
+### 周杰伦粉丝齐聚鸟巢期待演唱会
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2099181812_7d1ef8f404001jsko.html>
+- 链接: <https://k.sina.com.cn/article_6354475832_17ac19b38040019ufc.html>
 
-### 特朗普：美国汽车巨头将开始生产导弹
+### 猫眼呼吁无票杰迷演唱会时别在鸟巢聚集猫眼呼吁无票杰迷不要无序聚集
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://video.sina.com.cn/p/finance/2026-06-24/detail-iniepeiw2953386.d.html>
+
+### 特朗普宣布美国汽车巨头将“转产军火”，生产“战斧”导弹和“爱国者”防空系统
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪网
-- 时间: 2026-06-24 05:24
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE1URVY2ZDEyN0ltYUhla0Fld1FvdnpVT3VtOWFFaEE2VmYxbmVuNG8xZG9xekdXcDhsQ2RJYmJjWlZpSXRja2h2dmpJdlRlVFBndUh3RFlmREVyblpYNnRIbmlFMXpHa0FsX1I4czJiWUowQQ?oc=5>
+- 时间: 2026-06-24 09:01
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE94emJJOWRsT1FjNWpPVWNSdE1LZ1dfYjJsNnJteGw4ZmVMaU1YaldSemJjdDdxbmxtVTFUbFg5bUtXSUFpUjhxX05rcjlpcWJtcURNRHZ4bmdtMzJUbThNeTJRMWFrdUNiRDdZYkh5N1k?oc=5>
 
-### 特朗普施压石油公司：油价必须更快下跌，否则面临司法部调查
+### 莫迪和特朗普“16个月后再握手”：印美两国想重修旧好？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中国网
+- 时间: 2026-06-24 08:46
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE41UjhDOC1RVC13aGVmNmRzeVVvZnRqUm1wY0V3aDE4UFVacktQQjBNWEtmQmFEcWJQLUIwb0JIZGd4c1lrcEpzeG5vN3RrWTR4Nkd4RHUtbnlsZmNmWU14RkxHVEJnY3JoaU1ZVjVacw?oc=5>
+
+### 确认了！特朗普将出席世界杯决赛，亲自为获奖选手颁奖
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Sina finance
+- 时间: 2026-06-24 09:34
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE13RURRVmQ1VXkxQTd3X0RjUlpWdEx1TXVTX0pxdlhXcTYwZUhKZ3pJdDhyQ0RwLTNsOUl2U0tpSDRwMkhHb0RIVlViQldyX1FGZ1pVaF96S3gwelJ5a190d1lZeHY3Nzd3Y1BQV3lwTUQ1Z0ZlSlE?oc=5>
+
+### 特朗普要开发首台“足以开启量子科学发现新时代”的量子计算机
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-24 05:47
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxPMHA5aXd4Z2hUaTRxdXJzLXZxSURvLWxGeVdTdGFILXBmNVhKaU9UcXhIcHFGcWRQUkpEczBEUHBaOGJ3dGoya19pMm1SNzN0N1RLWFhFbTRnVk52cEwxVWlFUk8zbFJmMWExaGlocVJjRkY0X0ZtSnJDQVMtQkc2ZF9mWlIwemxJNmRVUg?oc=5>
+- 时间: 2026-06-24 07:04
+- 链接: <https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ2JMdnVRY05HbXYxRkY1eGpCREJ1RGhzTTJUNU9EQ2lJZ0l5cmc2eGh0YzVibWFKSTZIRFFpRTJXY0MxNTdQQ3gtSFI1WngtRU91OXlWdGZSelJaYWpsbEo1amxjdUZ0S0dob0RZSDVaLU1qcy1oS2x5UGNPaXZWTy01QU9xM01ZdS1YYTQ2bUdtRmF3Rmg1aUVuMUQtLXY3MmozeHkzbUpveUE4YVdBVWczUzFyaDlfQmtPeg?oc=5>
 
-### 美参议院通过决议 旨在限制特朗普对伊战争权力
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-06-23 20:25
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE1oYWJHTjBDOHFuWmpLM3pQMFBsS29xSTh6UHdpeVdMTXRST2JKeEpuUmYwZ3VtZFRwakU3QUlyMTJLNkF5djNRU0tKM1NwcDVFQlI0VjNiemNuQXpCVjhtOE1WcVdiX1RSanpMR09HVjNUbU5Y?oc=5>
-
-### 国际足联主席确认：特朗普将出席世界杯决赛，并向冠军颁奖
+### 美国总统特朗普称解冻后的伊朗资金仍将受美国控制
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中国网新闻中心
-- 时间: 2026-06-24 05:00
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE02a3Y3bGVzRDY5ZEduOUxKMFNuTjNTMHlqV2VVUFZkTVRKNjFQbl9hWFpGNnBpQVl3YkZmMEFZZmVwUjZFLWIzc25iWXN6ckZ3M1dhajh0LXlLRDBYTFFad0tUT0dtV0RVcUZV?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-06-24 00:52
+- 链接: <https://news.google.com/rss/articles/CBMiqgJBVV95cUxOMUdZTFptcURUd1dTcU9BVEh4N2lPbHJFRUdqRnc2SXY5MVRsZ0tWSXBPZFBVVHNLSFRUczhJdm10emZIRVNDbTQ3cjduQktRNkVFb0twSkxTQTZOOWV6MFQwZ0pQc1Q1ajBqT2dMbEVDYlI0ZDVRbmk4T21yeVZFVlc0SG01T2RLa3VpV1VqdnFtZFdXaENGTlhkbFNobkZ0OVJSR3NkN3p1bUR6X1dSYjBmdkNiMDMtT3dONTFIUTFZdXJ2b2JxMlRnV3BCY1FxMHZqaGdDZHVkR2lCU0R1X0IxTkFtY2tiN2hXWGFxb1FZR2JUdU1Qcl90akxjWUNQcHhLSDJGVlQ4eHJhOENCYlNiUGtKZjhSWjVzamRYckFXVERhVHBRMDNn?oc=5>
 
-### 特朗普：谁敢批评美伊协议，都得被教育，即使是我的朋友！此前曾大骂批评者“非坏即蠢”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 每日经济新闻
-- 时间: 2026-06-24 06:01
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE92Y2wwdkl1a2hEc2NnV0hfSmdIRmJhV1ZMb1ZfYVhIZ2NONVRNT044RGtQOUVtNHFLMkhSWTM0NDdmaERQSlRhLXNRb0RsejBmRlYtREN3SmdTbGhscVVDTUpZUnhvZw?oc=5>
-
-### 伊朗代表团暂停伊美谈判 抗议特朗普威胁言论
+### 外媒：梅洛尼与特朗普突然“翻脸”后，意大利试图“降调”缓和关系
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 东方财富网
-- 时间: 2026-06-21 06:10
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zQ0d3V3JrUjUycW5GUWdtMzdhNHFOSXBvVDFBY2ZTcnNlVEhPZWlaNkFwaDRpU0RXSy1aQTJJYUtNengxMFEwaW1lUVdaRXNNV01veWtLaUNURHNQWEFfRg?oc=5>
+- 场馆: 环球网
+- 时间: 2026-06-23 16:22
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTFBLeDl5Y0pOY09UZ3J4cHI3NE0yU3BZbEh3NlQ3M1FlTHpLNEhWa3hBVkZ3VThRSHhsRXM5TzJpQ3NFZFhZWi0yMndrRXBSRHZYN3I5elpiX0I?oc=5>
 
-### 特朗普炮轰参议院：给伊朗“送安慰”，让谈判更艰难
+### 美智库报告：特朗普外交政策影响美国声誉，近六成人对美看法负面
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-06-24 03:40
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5Hc1VEN21yRElkclRCNnU2Yi1fdzgwRGowaDNHMGhYUzRyeDgtZWJ3VHJtSHF5UWhEZWhZZnMyaFV2Ri1Eczg5VV8ya1FqOGUtQXpfc0VjN252ZUhpM2NScDU5RUdMVlZLYUE?oc=5>
+- 场馆: thepaper.cn
+- 时间: 2026-06-24 09:08
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE9DeXRlbDlWVWNRMGZWTDF0MnFPMU5rVHdOaklkX0QxQ2xHRGhDS3U5RFlBTHBCbGVvUHgxS0JUZnRZbkdzMFh6UUJlMnIxbEJPY3A1azFNaWItM19fOEE?oc=5>
 
-### 特朗普正失去欧洲盟友，连民族主义右翼也不例外
+### 美参议院通过决议要求特朗普结束对伊朗战事
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-06-24 01:20
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFAzOV95cnRlTmVIRkMxdkR2WTBoVG9paGRFZ3BsUmtwb2t2cVMwaU85eGRleFBYNzhHZ2l2cE9WbU5Qb2IyN0ZUb3I1ZWpiR0lVQk4wellzd0JDXzdFenBwZlhkXzRqNzJHVGNZSlh1SXlxTU9wc3pEUVdvMkdKcmM?oc=5>
+
+### 美参议院通过限制特朗普对伊动武决议 遭特朗普炮轰
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: chinanews.com.cn
+- 时间: 2026-06-24 04:40
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zRFlISnp1YXluVm0yUUloNU1ETW9aci0wd0Q3YUY0NTVUd0JqMzNJUTJxRUhtaVVqaXZISERNX3FIWkJZcUtnMFg5VlI3ZE1URF9iUV9wUEtER2wydXhBYVpkT044NzhD?oc=5>
+
+### 特朗普集团涉足通信市场，将推499美元的金色智能手机T1|界面新闻 · 科技
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-06-24 07:04
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE5sMFpPbTgwMENHQjI3N25LUkkwY0VrNElTbGhZV0lwdzI2SDZqMGY5UWlUN2Q0eHAxYWUyRXVvdnFZV0JadnVyYndkVVNDU0xBdUpyWkJWY251VnlPQngwQ0poRWQxNVNNYW1QVXlzTDhXUQ?oc=5>
+
+### 原油价格下跌之际，特朗普呼吁降低美国汽油价格
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: 华尔街日报中文网
-- 时间: 2026-06-24 03:51
-- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSHNFc1IxSXZkWGRtRUNfN3JaN1RieTMxWWU1VlFWYnd4aEFORi1PUHY2a2Y0TTY2ajFJRmQyc0x6Z29PZUUzcEVaaGMxb0NDZWxIMUpUQk1aRHVVdm9QRGVzbzgtajRuRDBRYksxUmFTQ0VDZFIwNnMzZ1dKaUNqZmxtdEg2OGREX0FIU0t0TnJGU2U4eWU5Z3F6LWNZU3J4V3NyczVzNFRuQQ?oc=5>
+- 时间: 2026-06-24 09:27
+- 链接: <https://news.google.com/rss/articles/CBMikAFBVV95cUxPSFd3c3lBUmp5YmRlWHNZOTZWbDJObUI1dkV0WkJqT3V2emozeGM3WXBtQmgzMVBmcFhkdXNtZ0U2MXVxa05TeERKc1EzamE0emY4eVQ1aTEtd3FzX19YZ09kQ2N6MERUeHl1Q0ZqOUItNERUaXlrZS0tc203c0JaRWpMdmNDN0xNNVZzcGFfdWY?oc=5>
 
-### 川普視察賓州馬克卡車工廠 力挺美國製造業
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 大纪元
-- 时间: 2026-06-24 04:46
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1bmhyblRvRG5GWnZ2WEU5Um5mSG1wLTNwUzhKUXJKWVZOQUZWUDBWNDVMbWtwTWo5cTkzQkZfS1FKS2d1RjJmQmcybVRGUXZQTmt5Xzl1U2R3UEJlc0l2ZNIBZkFVX3lxTE9kaUVNYkhNQWowM2JUTWVTMDZ4SG9vd08yaVcxc0JLWXdsRE12bWJrZzBBNk1zQm1IU25kY3o0TFF6V1kwM2hjVE1UVUhodXlWa3pmbFpnbW9NWkhJaHFUVVVTT0ZFdw?oc=5>
-
-### 新书揭马斯克警告特朗普，美过度依赖台湾半导体，台海风险或冲击经济
+### 特朗普表示趁诺基亚股价还低，现在买入
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 星岛环球网
-- 时间: 2026-06-24 05:07
-- 链接: <https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LbUFHa21qbGcwMW1xYmlQTGlEVG14SWVBV1B2aGVGRTFUOVFNenlhSkNNM1JCcklVaDY4WlJxZk5aRndLSHFvWFBYZWt1OHBBcFJoajhRTmpBQQ?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-06-24 09:22
+- 链接: <https://news.google.com/rss/articles/CBMipAFBVV95cUxOQnlNVVktRVhvVHhQbFpqQl9rd1VwU3BpTl94WDlSR2NwMFk4Slg0anpKX25VYTJKNU02TjlpWTA2N0wwcmlSSWVoZHJEMGdQU0w3UnJtWFE2N0NKMFhIUUtSQkh1dTlTeGFhZmhndWRPVkN6QW1SUGFRb3g4a2luRkt1UlNIWktxUVlqM2o1WGl3OGFCRTN5R1NtNk1mMFRjakNRaQ?oc=5>
 
-### 一笔4,500万美元的捐款如何让拉里·埃里森深入特朗普核心圈？
+### 特朗普表示买入 $Nokia
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-06-24 06:01
-- 链接: <https://news.google.com/rss/articles/CBMi9gJBVV95cUxPU2x2Sm9LazdMR2dtYkNaOS1LOURiNUNfY2VickYyRzFfMXRpZUpzcUVBT01rR3VaaHB2LXlNM3RCUEllV0prcTBiSU95NDhEd1pNTm9RWHZuVEVVbE9BQkhZd1gtXzhlOFpPU0t2SHJUQlMxMkJxOFhMZG9DS1RscHp2MWNkdlFhcGU3bWVDbE5OTlc2TTlROFJleFJCUE1rWTF1dUJGeDlMa3RZbTFvc3JxSXNNYWpJbE1ZMHhoMW81SWIwQzgyYWd2X0xiaHBJVGJoZWFySk5CT3lxWjNJMTRrT2R2d1otUnNJdjZnTnF2c240eGRBbWdMRk02MFhHS1ZIV1Rub2RpTE8wamRkRFVnNXo1LWpSNEE3ck43czJtLWY1Mjk3Vy1tVThnWUp3bW1mRmZ0a0M3M2pSaTlxbklhSndVT2NQNkZkQldJb1Z4dC1WYXZUMFQwV29OTURwQjJsYVRNMlRPMHE3UEYzQndSQWFpZw?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-06-24 09:20
+- 链接: <https://news.google.com/rss/articles/CBMihgFBVV95cUxPbVBUa1NqTDZ0Ml9TYTlpQjhkZng4VkNtSUVBN0lvN0ZyNGFYeTlja0RnVGxVQ1dVRTAxOXJsdnJDMXFBcmVwOTR6VnNQZW14MGdoeGdOSFJTeXZocWl1MVktMTdIU1c3djVHZG5QRm1iUV9FTWRHal9YRkZnMVR5YXY2ekQxUQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-24 10:17  (16 条)
+
+- **周杰伦** | 周杰伦空降北京，演唱会前哨揭晓 <https://k.sina.com.cn/article_3285889392_c3dab17004001aa1e.html>
+- **周杰伦** | 周杰伦粉丝齐聚鸟巢期待演唱会 <https://k.sina.com.cn/article_6354475832_17ac19b38040019ufc.html>
+- **周杰伦** | 猫眼呼吁无票杰迷演唱会时别在鸟巢聚集猫眼呼吁无票杰迷不要无序聚集 <https://video.sina.com.cn/p/finance/2026-06-24/detail-iniepeiw2953386.d.html>
+- **特朗普** | 特朗普宣布美国汽车巨头将“转产军火”，生产“战斧”导弹和“爱国者”防空系统 <https://news.google.com/rss/articles/CBMicEFVX3lxTE94emJJOWRsT1FjNWpPVWNSdE1LZ1dfYjJsNnJteGw4ZmVMaU1YaldSemJjdDdxbmxtVTFUbFg5bUtXSUFpUjhxX05rcjlpcWJtcURNRHZ4bmdtMzJUbThNeTJRMWFrdUNiRDdZYkh5N1k?oc=5>
+- **特朗普** | 莫迪和特朗普“16个月后再握手”：印美两国想重修旧好？ <https://news.google.com/rss/articles/CBMib0FVX3lxTE41UjhDOC1RVC13aGVmNmRzeVVvZnRqUm1wY0V3aDE4UFVacktQQjBNWEtmQmFEcWJQLUIwb0JIZGd4c1lrcEpzeG5vN3RrWTR4Nkd4RHUtbnlsZmNmWU14RkxHVEJnY3JoaU1ZVjVacw?oc=5>
+- **特朗普** | 确认了！特朗普将出席世界杯决赛，亲自为获奖选手颁奖 <https://news.google.com/rss/articles/CBMidkFVX3lxTE13RURRVmQ1VXkxQTd3X0RjUlpWdEx1TXVTX0pxdlhXcTYwZUhKZ3pJdDhyQ0RwLTNsOUl2U0tpSDRwMkhHb0RIVlViQldyX1FGZ1pVaF96S3gwelJ5a190d1lZeHY3Nzd3Y1BQV3lwTUQ1Z0ZlSlE?oc=5>
+- **特朗普** | 特朗普要开发首台“足以开启量子科学发现新时代”的量子计算机 <https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ2JMdnVRY05HbXYxRkY1eGpCREJ1RGhzTTJUNU9EQ2lJZ0l5cmc2eGh0YzVibWFKSTZIRFFpRTJXY0MxNTdQQ3gtSFI1WngtRU91OXlWdGZSelJaYWpsbEo1amxjdUZ0S0dob0RZSDVaLU1qcy1oS2x5UGNPaXZWTy01QU9xM01ZdS1YYTQ2bUdtRmF3Rmg1aUVuMUQtLXY3MmozeHkzbUpveUE4YVdBVWczUzFyaDlfQmtPeg?oc=5>
+- **特朗普** | 美国总统特朗普称解冻后的伊朗资金仍将受美国控制 <https://news.google.com/rss/articles/CBMiqgJBVV95cUxOMUdZTFptcURUd1dTcU9BVEh4N2lPbHJFRUdqRnc2SXY5MVRsZ0tWSXBPZFBVVHNLSFRUczhJdm10emZIRVNDbTQ3cjduQktRNkVFb0twSkxTQTZOOWV6MFQwZ0pQc1Q1ajBqT2dMbEVDYlI0ZDVRbmk4T21yeVZFVlc0SG01T2RLa3VpV1VqdnFtZFdXaENGTlhkbFNobkZ0OVJSR3NkN3p1bUR6X1dSYjBmdkNiMDMtT3dONTFIUTFZdXJ2b2JxMlRnV3BCY1FxMHZqaGdDZHVkR2lCU0R1X0IxTkFtY2tiN2hXWGFxb1FZR2JUdU1Qcl90akxjWUNQcHhLSDJGVlQ4eHJhOENCYlNiUGtKZjhSWjVzamRYckFXVERhVHBRMDNn?oc=5>
+- **特朗普** | 外媒：梅洛尼与特朗普突然“翻脸”后，意大利试图“降调”缓和关系 <https://news.google.com/rss/articles/CBMiWEFVX3lxTFBLeDl5Y0pOY09UZ3J4cHI3NE0yU3BZbEh3NlQ3M1FlTHpLNEhWa3hBVkZ3VThRSHhsRXM5TzJpQ3NFZFhZWi0yMndrRXBSRHZYN3I5elpiX0I?oc=5>
+- **特朗普** | 美智库报告：特朗普外交政策影响美国声誉，近六成人对美看法负面 <https://news.google.com/rss/articles/CBMiXkFVX3lxTE9DeXRlbDlWVWNRMGZWTDF0MnFPMU5rVHdOaklkX0QxQ2xHRGhDS3U5RFlBTHBCbGVvUHgxS0JUZnRZbkdzMFh6UUJlMnIxbEJPY3A1azFNaWItM19fOEE?oc=5>
+- **特朗普** | 美参议院通过决议要求特朗普结束对伊朗战事 <https://news.google.com/rss/articles/CBMif0FVX3lxTFAzOV95cnRlTmVIRkMxdkR2WTBoVG9paGRFZ3BsUmtwb2t2cVMwaU85eGRleFBYNzhHZ2l2cE9WbU5Qb2IyN0ZUb3I1ZWpiR0lVQk4wellzd0JDXzdFenBwZlhkXzRqNzJHVGNZSlh1SXlxTU9wc3pEUVdvMkdKcmM?oc=5>
+- **特朗普** | 美参议院通过限制特朗普对伊动武决议 遭特朗普炮轰 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zRFlISnp1YXluVm0yUUloNU1ETW9aci0wd0Q3YUY0NTVUd0JqMzNJUTJxRUhtaVVqaXZISERNX3FIWkJZcUtnMFg5VlI3ZE1URF9iUV9wUEtER2wydXhBYVpkT044NzhD?oc=5>
+- **Trump** | 特朗普集团涉足通信市场，将推499美元的金色智能手机T1|界面新闻 · 科技 <https://news.google.com/rss/articles/CBMickFVX3lxTE5sMFpPbTgwMENHQjI3N25LUkkwY0VrNElTbGhZV0lwdzI2SDZqMGY5UWlUN2Q0eHAxYWUyRXVvdnFZV0JadnVyYndkVVNDU0xBdUpyWkJWY251VnlPQngwQ0poRWQxNVNNYW1QVXlzTDhXUQ?oc=5>
+- **Trump** | 原油价格下跌之际，特朗普呼吁降低美国汽油价格 <https://news.google.com/rss/articles/CBMikAFBVV95cUxPSFd3c3lBUmp5YmRlWHNZOTZWbDJObUI1dkV0WkJqT3V2emozeGM3WXBtQmgzMVBmcFhkdXNtZ0U2MXVxa05TeERKc1EzamE0emY4eVQ1aTEtd3FzX19YZ09kQ2N6MERUeHl1Q0ZqOUItNERUaXlrZS0tc203c0JaRWpMdmNDN0xNNVZzcGFfdWY?oc=5>
+- **Trump** | 特朗普表示趁诺基亚股价还低，现在买入 <https://news.google.com/rss/articles/CBMipAFBVV95cUxOQnlNVVktRVhvVHhQbFpqQl9rd1VwU3BpTl94WDlSR2NwMFk4Slg0anpKX25VYTJKNU02TjlpWTA2N0wwcmlSSWVoZHJEMGdQU0w3UnJtWFE2N0NKMFhIUUtSQkh1dTlTeGFhZmhndWRPVkN6QW1SUGFRb3g4a2luRkt1UlNIWktxUVlqM2o1WGl3OGFCRTN5R1NtNk1mMFRjakNRaQ?oc=5>
+- **Trump** | 特朗普表示买入 $Nokia <https://news.google.com/rss/articles/CBMihgFBVV95cUxPbVBUa1NqTDZ0Ml9TYTlpQjhkZng4VkNtSUVBN0lvN0ZyNGFYeTlja0RnVGxVQ1dVRTAxOXJsdnJDMXFBcmVwOTR6VnNQZW14MGdoeGdOSFJTeXZocWl1MVktMTdIU1c3djVHZG5QRm1iUV9FTWRHal9YRkZnMVR5YXY2ekQxUQ?oc=5>
 
 ### 2026-06-24 06:41  (14 条)
 
