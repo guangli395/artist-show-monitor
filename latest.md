@@ -1,80 +1,91 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-24 17:49**
-- 本轮扫到 4372 条, 新增 **8** 条
+- 最近更新: **2026-06-24 19:29**
+- 本轮扫到 4380 条, 新增 **8** 条
 
 ---
 
 ## 本轮新发现 (8 条)
 
-### 美国总统特朗普24日......_7x24快讯_新浪财经
+### 美国驻意大使紧急灭火 称特朗普与梅洛尼的冲突未破坏两国关系
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-24 12:06
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE0xYlROM2Z4OTBkYzNmX09uX2F2LUdyVTUwQnpoQS00QlpFWHJxbnJ0TzhHSE95UUtYNV9YV25tdEZJMGVieU0yaFlqUQ?oc=5>
+- 时间: 2026-06-24 19:27
+- 链接: <https://news.google.com/rss/articles/CBMijwJBVV95cUxPRkx1RFc2aVlmSzZva25ROGI3M183bnp1X2gwdE1kWF91Q0xoT25aTnp3a3NwbzhoSGdFc3p5MU1zOVlxOTgwMU1IeHBpTVZ1VElJTzM3Q2RiLWFnRHpyM0FFRE52a2RQZ2xyZm43MjN5bVVpNW1zc2ZZNnI4WksxcXNyRjMzUnVoREczUkV0V2I4alhZOVNkNlFSbGRSQ1RTLW0wTmFTSlJxVVgxSWhZZHNzZFJhSkc5bHp6VDNwU2I0MlY5ZXFXalNGVG9hYVBWWFhqdzItbzNKbzhEZVRVbnpvZUhEUXlvZ3hXSElla3FYQ3FJLVI3OXF6MjdNbVR2eWFGbUtYblV0WGxDWUpV?oc=5>
 
-### 牛弹琴：特朗普学乖了
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: Sina finance
-- 时间: 2026-06-22 23:16
-- 链接: <https://news.google.com/rss/articles/CBMizAFBVV95cUxOcTlZQW42U0xHMUJ4VUtLVnZFUUhZXzk1ZUMyVmE0cXYzOGlHVlFwbWF1eXpmMVZfVjVZbXZkWTcyR3JTOU1aZFlWd0dFRnpxWTlzOG03VkZicGlMUkd3VHFmeVRpbDR3b21nNlVlS185N1dUbjVqMWN5bi13VGpfQ1lBN3N4NHlLaVdWbjBIdVNmSDl2b3d2aW5sN3RGMXBUUTVZZXBlb2pSNFhnR2RCUFNxVk81b28zZ2k2Mkd2ZVpqRlhHMlVXS3o2V2M?oc=5>
-
-### 特朗普总统:伊朗向美国保证，不会向通过霍尔木兹海峡的船只收取通行费
+### 特朗普过去24小时都忙了什么？（2026-06-24）
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-06-24 16:18
-- 链接: <https://news.google.com/rss/articles/CBMigAJBVV95cUxNaUEzS3FXakthRzg0aVhXX2pUdm5HRzRfdDdiUllmek1xZ0lmSjNCNFRURFRXdjQ3MGNIM3hlLVJUVGxpMEtCeWc0RkxleFBMZ2YxYUhpUWJxRWxGUk9MTHd5LWhYcklaMXN2VXBsUWpHYjRxWFN1U2hzZDhpVGtzaHFDWXduRVBMRVZjR3RrV2ppcldwdUVZTUV5QUNaZi05MDZ5M3diYV9ZRE1scTRQS2EwalY5TDZVU2txVUZycEFwb0ZDeTMtSzV6bENWbE52bnJUcFZ0ZHRaM08zVWhkOVVaWkV3Y3hOSFItbGpMR3VpQ2pxeWE1YUJKcjRfWmtM0gGDAkFVX3lxTE9oOE9hdjNjd0I5MDRXYXo1X2pwSGJ3TENvZ3l3ZkhBcURaeXRuZHhxOU1hUWF3aWRxWThkQlBYOE56c01uQkhaVE5Tb0lsbk1Yb0Z4azh1VGFRVFE0MEhJcEg0RW1KdDhreE5OQ0pUamptVU9NTEZhUHV6Q3pFR2hVc2VLSEhIYVpGOWFLVV9jZUNnOGNVSUpydHN2WFcxYUJBWnBBRWFhblpHOHJNbU02QktTTmlQTkVYLUNmWDZGcC1SZ1p2TUZPQzNtY0s4a2ZSQVZCanc0RUZEVElDbVFhQm9hQXhuSHptc2ZtWm5nZXNPTU5QdElXekNwX2FOZkNNTlk?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-06-24 18:26
+- 链接: <https://news.google.com/rss/articles/CBMipwFBVV95cUxPdklPcXA4dlA1MjM4bFZqUDhiY1VTc0ZfNXR5TnFaNHhaclBNVkZ6Vi1rSWVYYVE0VHFBc0RHTUZqaThjWE9RTWFBdm1IWm10TXdpTlgxNmZ4OGlVOWlJd0hhNE12bEkxanREbGhaNURJVVA0V3RrU3pWc0NINlRPYVZ5R3Fjal9rR1ZRTmhwTm1KcFZZaXRsQUFKTUc3dkFROEVjRXc1OA?oc=5>
+
+### 盘点｜“G7团结”演不下去了，特朗普如何惹恼多国领导人
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-06-23 23:18
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OakNtdy1EcWNENWZOamlsUVBwMGQ1Zi1BVlpHeXNSYlVPdE9aMS1uaTdGV2NzMG1Sc1hOXzBCTlFMQ0ZSV0ZMajh6QWpmUUlpSUZTdXZVckdpdEFEcy05VA?oc=5>
+
+### 特朗普对石油公司开刀：下令调查哄抬行为，称油价已断崖式下跌
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-06-24 08:21
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5YQldhdU9rSWZ5SmhFVGdWaGh6bl9ScXFYbHVEWlVvY1dqQTJVY2NfQjNJQmVacnVtbHktMFhpLWcwWDNXMmtiUjNHeHQ?oc=5>
 
 ### 特朗普称国会限制总统战争权力“不合时宜”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-06-24 04:32
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9JTHFja0VYNlZmd3gtYlFia200Q3VWcXp6NkR2NFplWVFScXdLbTRBdDhIQ192N1J5Y0dXTXQ2RUpoTFN1bWExdG8tNVN4UExiY1NSbUtHc1ctLVhHbUNRMWVfU0pKZUE2Qm1meTlmNTlsU3U1endaSkJoVGc3ckk?oc=5>
+- 场馆: 中国日报网
+- 时间: 2026-06-24 06:55
+- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTE9qdkxrNkhKcnRFTHhpOF9adWNyV2duQkpXMUFjYkVsREVxQkVfenFHWE5CSUEydXB5anhfS1pwWGlJdjlHWXg0bUFaeU85dER0cGRBNDdiV2FXdFAzcU9ORUZrZUJua2FaNlR6NkFpckpjNHp4ZDlqYTY5cw?oc=5>
 
-### 50：48，美国参议院也通过了
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪军事
-- 时间: 2026-06-24 16:05
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE54X2tUc3NobmRWOVlzZWYtNW84ZExQNmNXaXdTTkdxR044am01REFhLUlQSHdOUTUwamtzekl0RFBncDdLck5PZW1vd0Z1cUhhVnZrcklkZUdNdmg4ci0wb19GVGgxVjdvVzVTN2tKcDB1OU0?oc=5>
-
-### 特朗普炮轰石油公司：消费者正在被“宰割”，汽油价格最好赶紧下降，我已指示司法部立即展开调查
+### 特朗普威胁终止美伊谈判
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 每日经济新闻
-- 时间: 2026-06-24 16:25
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE15RnpVM3V2RHJPV1I4YUV2VF96cElsV3ZsTk5VVk1tNWZZTDN1dE91VEhmVjUzOFVCR0Z2aTJBOWVNVTdPMlg2RzdiNkp2YjdRVWhoWkNXejQ4aldkcFpBaWwycGdEQQ?oc=5>
+- 场馆: 京报网
+- 时间: 2026-06-24 13:47
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE54YTRJc0hnRU1Sc0xFQWpkSUplLVJ5bURYLTZWQWFjSVk0R2pSREY5VldPVGpndld6Wmt3VjNRSWhSdXRYOVlXUGh0Y1A3ZlJCZUZva2RNdjJaZTBjQ1E?oc=5>
 
-### 特朗普称美方将参与国际原子能机构对伊朗核查行动
+### 特朗普称若伊朗向霍尔木兹海峡通行船只收费将终止谈判
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-06-24 16:08
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBDcnp0aklQTUlFT2JpZlVjUGk2NmpzRDdWZE1PbERSNno0MVRQaU0xWHFLNzk4RVhOT3BwYUNkNzFkdFUwaFFtamFwU1k?oc=5>
+- 场馆: 21财经
+- 时间: 2026-06-24 12:23
+- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxOeF9ENWRwRkJNOFlQQ1poSXpERGRNRjUwMTVRSGhKcUsyMmVZNmNHdnFCblhGWlRaVlBzQ3hDUzRCUUhET3NBd2tPOE9LXzRfdW85dEZ0VmQ1YjF5emFvMVF3WkZsS2FuRk5zY0VUZ19NSGZfelkzYWJpZmNjTU1NRTFIeU84cFpfU0YwaDF3cw?oc=5>
 
-### 梅洛尼爆吵川普后态度软了 昔日友好决裂早有征兆
+### 共和党人坚决倒戈，国会向特朗普摊牌：首次通过决议，要求结束伊朗战争
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 文学城
-- 时间: 2026-06-24 16:16
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFB1YWluUkhCVmpBSkVNVExESkwxdS1KNTFSS2dNX3NTNDdnWmp6MmhPRkxOS2xNeWRkM0VSMkE5UGVPV0dXRThKUHFhbzl1VU5fLWVyQmlFeDdIdXdteVZic0RFeFFtaXha?oc=5>
+- 场馆: 上观新闻
+- 时间: 2026-06-24 13:11
+- 链接: <https://news.google.com/rss/articles/CBMiWkFVX3lxTE04dFVtVjE3TzMxVTZhaXpkdjh6NGw4REw3UXJ1ZDNpbF9fUzdlajR0cl9TRkZRd0ZNZERoaGZ5X0l0RFNEV0Q2ZFYxdWFVaXAwT1lScHpSVU9CUQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-24 19:29  (8 条)
+
+- **特朗普** | 美国驻意大使紧急灭火 称特朗普与梅洛尼的冲突未破坏两国关系 <https://news.google.com/rss/articles/CBMijwJBVV95cUxPRkx1RFc2aVlmSzZva25ROGI3M183bnp1X2gwdE1kWF91Q0xoT25aTnp3a3NwbzhoSGdFc3p5MU1zOVlxOTgwMU1IeHBpTVZ1VElJTzM3Q2RiLWFnRHpyM0FFRE52a2RQZ2xyZm43MjN5bVVpNW1zc2ZZNnI4WksxcXNyRjMzUnVoREczUkV0V2I4alhZOVNkNlFSbGRSQ1RTLW0wTmFTSlJxVVgxSWhZZHNzZFJhSkc5bHp6VDNwU2I0MlY5ZXFXalNGVG9hYVBWWFhqdzItbzNKbzhEZVRVbnpvZUhEUXlvZ3hXSElla3FYQ3FJLVI3OXF6MjdNbVR2eWFGbUtYblV0WGxDWUpV?oc=5>
+- **特朗普** | 特朗普过去24小时都忙了什么？（2026-06-24） <https://news.google.com/rss/articles/CBMipwFBVV95cUxPdklPcXA4dlA1MjM4bFZqUDhiY1VTc0ZfNXR5TnFaNHhaclBNVkZ6Vi1rSWVYYVE0VHFBc0RHTUZqaThjWE9RTWFBdm1IWm10TXdpTlgxNmZ4OGlVOWlJd0hhNE12bEkxanREbGhaNURJVVA0V3RrU3pWc0NINlRPYVZ5R3Fjal9rR1ZRTmhwTm1KcFZZaXRsQUFKTUc3dkFROEVjRXc1OA?oc=5>
+- **特朗普** | 盘点｜“G7团结”演不下去了，特朗普如何惹恼多国领导人 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OakNtdy1EcWNENWZOamlsUVBwMGQ1Zi1BVlpHeXNSYlVPdE9aMS1uaTdGV2NzMG1Sc1hOXzBCTlFMQ0ZSV0ZMajh6QWpmUUlpSUZTdXZVckdpdEFEcy05VA?oc=5>
+- **特朗普** | 特朗普对石油公司开刀：下令调查哄抬行为，称油价已断崖式下跌 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5YQldhdU9rSWZ5SmhFVGdWaGh6bl9ScXFYbHVEWlVvY1dqQTJVY2NfQjNJQmVacnVtbHktMFhpLWcwWDNXMmtiUjNHeHQ?oc=5>
+- **特朗普** | 特朗普称国会限制总统战争权力“不合时宜” <https://news.google.com/rss/articles/CBMie0FVX3lxTE9qdkxrNkhKcnRFTHhpOF9adWNyV2duQkpXMUFjYkVsREVxQkVfenFHWE5CSUEydXB5anhfS1pwWGlJdjlHWXg0bUFaeU85dER0cGRBNDdiV2FXdFAzcU9ORUZrZUJua2FaNlR6NkFpckpjNHp4ZDlqYTY5cw?oc=5>
+- **特朗普** | 特朗普威胁终止美伊谈判 <https://news.google.com/rss/articles/CBMiXkFVX3lxTE54YTRJc0hnRU1Sc0xFQWpkSUplLVJ5bURYLTZWQWFjSVk0R2pSREY5VldPVGpndld6Wmt3VjNRSWhSdXRYOVlXUGh0Y1A3ZlJCZUZva2RNdjJaZTBjQ1E?oc=5>
+- **特朗普** | 特朗普称若伊朗向霍尔木兹海峡通行船只收费将终止谈判 <https://news.google.com/rss/articles/CBMijwFBVV95cUxOeF9ENWRwRkJNOFlQQ1poSXpERGRNRjUwMTVRSGhKcUsyMmVZNmNHdnFCblhGWlRaVlBzQ3hDUzRCUUhET3NBd2tPOE9LXzRfdW85dEZ0VmQ1YjF5emFvMVF3WkZsS2FuRk5zY0VUZ19NSGZfelkzYWJpZmNjTU1NRTFIeU84cFpfU0YwaDF3cw?oc=5>
+- **特朗普** | 共和党人坚决倒戈，国会向特朗普摊牌：首次通过决议，要求结束伊朗战争 <https://news.google.com/rss/articles/CBMiWkFVX3lxTE04dFVtVjE3TzMxVTZhaXpkdjh6NGw4REw3UXJ1ZDNpbF9fUzdlajR0cl9TRkZRd0ZNZERoaGZ5X0l0RFNEV0Q2ZFYxdWFVaXAwT1lScHpSVU9CUQ?oc=5>
 
 ### 2026-06-24 17:49  (8 条)
 
