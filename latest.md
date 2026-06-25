@@ -1,78 +1,94 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-24 22:44**
-- 本轮扫到 4394 条, 新增 **8** 条
+- 最近更新: **2026-06-25 00:03**
+- 本轮扫到 4403 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (9 条)
 
-### 暑期京城演唱会热度一路飙升
+### 王一博AI工作室发布双语早安问候
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1663072851_m63207a5303301me3i.html>
+
+### 王一博AI灵感工作室发布双语早安内容
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://video.sina.com.cn/p/finance/2026-06-25/detail-inieqnce5795576.d.html>
+
+### 新浪演唱会热点小时报丨2026年06月25日07时_今日实时演唱会热点速递
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857141524_1d452771401903kdrk.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907bsyk.html>
 
-### 哥伦比亚候选人塞佩达在总统选举中承认败给特朗普支持的德拉埃斯普列亚
+### 特朗普总统：霍尔木兹海峡免费开放 油价创新低
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 美国之音
-- 时间: 2026-06-24 21:15
-- 链接: <https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTGttQnlEMGVNTnRoNTV3S0tGZkg1aUNKTURyU0diRzl6RmNEdXhrRkNKeGtISFY2bHdEQ0ZZejRGQnJoMnc1V3JiM2p0N21FQUlIM1lwTWFtOFU5RmFQYXZjNHQ3TERlaHk3WmRZNUZvd0J3SG1icVZ0UHZhZmV6TWVVU29XY0loTjhwMmc1UTMtTWVQR2JrY2kxSDFkVEFCbnhDZWtfQ05sa2JoWVVheGQzdlJfX1A1dGMxdU9wNXY0RGNmNnNHM0x5MUJoUzdWejhFTV8tRdIB2gFBVV95cUxNZUwyWFUyWWpPMjFrbFo0WV9kaExFX0lkYjJ0VzBXaVBPWmhoOXBWWWdDblhzME84YS1kZTA2LXpTY1BGUnBmXzRjMTFwd2J4OFM3RzlBcm9WQkdGU1hDcVJpYjR6ZEZ5czkyTTZnSk0ySWRqU1lSaWRGTG1oUUZhUlByajJtOHI5ZXFEQzhIYjNDcUV0Y2V4WWUxS1BsdFJmWk5kbVhpcDktZjZEUVo4QXRSc2VQYlpWWG5kT2UyZmN6MHBrRkhOYXF2ZnNOZFBlMmk0VzhrQUN3Zw?oc=5>
+- 时间: 2026-06-24 23:51
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE91T2JBMUVmVGxrT2piUk5rVms4UVZqZWhpMDNDelppOEpZM3N4cWhuYjdPNDhkU1B1QVhmajNsVGQ1Z0p6d2p5VjhIaTJmTEtCMzlTREdqc21XSHp4dVJXYnBVRVF4TnRyZW1WcmV3RGowZ9IBdEFVX3lxTFBHVXQxVDktS3pWdXRHajJSNG14eGp1WE51czViMDBwdmVsSHdYbXE2WFFWQlB1T3doR2FTQW9uQmxfSzNnZ3ZadU5tdVhuWGxVZ0hJTXMxT1JyVVlQZWpHajRrYVRqRU9wSGpDUTdNSFVIS0My?oc=5>
 
-### 当律师发专辑，拥有美国国籍，特朗普支持的哥伦比亚总统候选人是谁？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-06-22 03:06
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1HUEJ5eFN5dGRjZzZaWkp4ZEFNOE5XWGRYQmlFcHdqQWltOENHdnVKX3FpY3VWdmdfOVhfMFBBZjB0N05kZldFTzd3NTVERFNlVjlFZFFfMDlhRFAwbm5NaEMzWWdGUDJreWc?oc=5>
-
-### 特朗普临时取消对住房法案的签署 与参议院共和党人矛盾升级
+### “48分钟赢下战争”，特朗普称委内瑞拉石油收益超军费28倍
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-24 18:13
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxPUkZPTWd1V05Qc2U4OVB1TzJLamhOVVpMWnN1dDVKelVabjFYTG5VOWRKUGdlemc1aGpMcGNiNjhrUS1ZNkZxZFFkNWJ1dEI3b0Nub1pYRFh5eTFvQ3RvWVRhSGdVcjU1ZnpBU1J0dXBud1duUEJZY1gzVDFVZEhnQlQ0UHY0NmM?oc=5>
+- 场馆: 中国经济网
+- 时间: 2026-06-24 23:20
+- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTE9xMk43UDBhMzFhMnN1YV9hRXV6QmltZXJqRGJsTXNoaG1EQ3BOYTJUTnRGN21pTTJaZmlQNGctUmcyOFJmeTdQSnFDUkc2LThYU1psSXJnN0lUazBNcFM0Y3padw?oc=5>
 
-### 美国总统特朗普称解冻后的伊朗资金仍将受美国控制
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-24 20:23
-- 链接: <https://news.google.com/rss/articles/CBMiigJBVV95cUxONG5zdFkzdDF1YnFTZ0xocmkwaTUtTFlhU2ZUYm1Yc1dPcHlqVU91UVM4VHdCVGVGLXdwRXVXYlk1QWloRFRGemJSTmFVaWJIeGN6TFhCcF9vOGxtLTdoNUtZWk80VEhrMkxvd1lGMzBSQ3RBRzcyVHJCRW5lN09fdUdIODFwaXZUZDAyUVNKcEY2VVRhTmdZaVp5MFJCeTVSRVBZWEVHaHZyVm9BcUtxa2xkaXVUX0RZbTI5RGduU0RJVUFxNkZxLWJwWFB6NkxEd1lSeGlxanJfLV9fclRHVng5RWd2VG9WeVRqc19FT29WeWU5VzBLV2VxRUt3MFJiVjdqRnBzanNUdw?oc=5>
-
-### 他或成英国新首相，特朗普表态
+### 特朗普不满高油价，效仿拜登指责大型油企
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-06-24 22:38
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1URzJJcVBXRUM0dmVGM0FxV3cxV296VHJyaVoyWml2elpya2Eyay1MSWpaX3ItNW9wekV0WjFaRHZFelB2NmVTVnprYVY?oc=5>
+- 场馆: 华尔街日报中文网
+- 时间: 2026-06-24 23:53
+- 链接: <https://news.google.com/rss/articles/CBMipwJBVV95cUxQZXJxWmMwRTR4R2JkRHhwcm9VbGNMcEVTa002cVN0dUJ4RDRHLUJHcWx3bmh1Tnd5QjlhLXVrTFJDSWdCSXVOMHJyNTY4dk51bVc4N2REVlZoUXZpcnBQZmlQczNVSDgyYm1VRlhITkc1bDJ0NEl4TlRuLTNEQUJnZEthYkdpSUFtUUZvSV9MUWRXZ3dQcVJsTHN0cDRFV1V1ZlBFcjg3TUg1MU0xaWh5cF9rR001eGx2dTQwZW5yNEZfdlpfSzhJZzlKRlZYempucmw4dS1iWkVReFdsSGhRNUJ5M3F6d1F4b0F6NldqUkR6UmQwLXQ0RWVHTm1jelo2QmthaHQtLUtyZXZPZDdxXzJWaUhSX1BNUVdSYzM5ZllQeGtEaDl3?oc=5>
 
-### Oil Down 3% After Trump Said Iran Seeks No Tolls From Hormuz Shipping -- Market Talk
+### 特朗普总统：北约国家在伊朗问题上让美国“失望”
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-06-24 13:00
-- 链接: <https://news.google.com/rss/articles/CBMimgFBVV95cUxQU01sWmlkbV9DYXRnX2k3c19DYzNwT2tzZVVhd0FKS2o4bm0ydWpRdWRlZWFRblN3a2ZmYTFrajYtWVJjSllqOGFaOE55THVENHB0UFRSekxhY2xWNUkybFU2NkNGcmRZWC04VGhCczhKT2Q2eWZfNk9meTM3YkN6bFNtNFhTX3Nha1JSempjVVl3TjR3SG1rVTFn?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-06-24 22:47
+- 链接: <https://news.google.com/rss/articles/CBMirAFBVV95cUxNUGd4Q0ptSXFpN096d0lBVzhIcnVSN1BMeGxaNEFINFNibmlUd1NWRGFaWmM0UEUwNE1BTzFhdE5pVWN5dXpZSzdVX2JkZ0w0bWFjeHlqMl9ENkdpakZvOFJvaE5KUjRGVGs1d2s2MEtvaUpCRGVPNzZwNkM0dF9CWmxGZWJsYUd4aHZBajFLdTk4RU5ES3Fxa29CdWZTcW9pN2VUaWZ3b2ZUX3d00gGvAUFVX3lxTFBaLWJOVG5MeENTVXZtOHMtYnBMT1RUS1NhckV5elp5MEUwMW9JYlF2WDlheWFpN0NlQllYZldQRS1tNi1WcVhna1JmMFQ4ckxQRTdQSVlJeVJvQVI3VkJDR0xDOUpOREpHaTd4bDFZZEdOazg0aXFUN2Rkck8zekhRanNReURjN2ZqcmdYSWdPYTgzemtiNzZLajZwaDB0NkgtTGpYeTdfQTR1VmctUW8?oc=5>
 
-### Oil Prices Fall Back to Preconflict Levels, but Trump's Comments on Iran Show That Supply Risks Remain
+### 美法官驳回特朗普要求选民投票提供公民证明的命令
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-06-24 19:38
-- 链接: <https://news.google.com/rss/articles/CBMiowFBVV95cUxQOEROdThUR0tUT0lINnpCSjIyXzJTTnRjMUhRcFJwVkh1WWk1eVpqS1ZpYUt2bU9QRFllTzBMcGVwaHZhc281OV9maXZnZHdHYTlsMTFaVGJCaFFpZm9vNW96QjdmYm5HdjJsUkNCcl9HczVjVDUtemc0TVlIeXpjVjVaRlFoZ3E0aTExazZ5SmZ6c3N6RlFoQkJuLUZxWjItUVZR?oc=5>
+- 场馆: chinanews.com.cn
+- 时间: 2026-06-24 22:17
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBBRWtycUJfMF9sbjJDd2xXd2syUmVoVnpNMmdJb0dhakV4c1AzQ1VKdGFReVowb3R0d19vaGlqMEJoa1ZQNHZFZUtsd3BraFNraWRmcnFETF9ZV0ZwMXpTRHdmdkw5NHFX?oc=5>
+
+### 特朗普称国会限制总统战争权力“不合时宜”_央广网
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 央广网
+- 时间: 2026-06-24 05:29
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1TWU1uVE5TV2hvUXFwOWdOd25TSUN5QlZJRkNjQ05lbnRST0oteGV2cXVZeGFTb3dQUzBhZjhaeUthYm5lc2dpSWUyTENKLW42amhRUmJ6OHpNcTJnbWgydnMweUQxQkFE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-25 00:03  (9 条)
+
+- **王一博** | 王一博AI工作室发布双语早安问候 <https://k.sina.com.cn/article_1663072851_m63207a5303301me3i.html>
+- **王一博** | 王一博AI灵感工作室发布双语早安内容 <https://video.sina.com.cn/p/finance/2026-06-25/detail-inieqnce5795576.d.html>
+- **周杰伦** | 新浪演唱会热点小时报丨2026年06月25日07时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001907bsyk.html>
+- **特朗普** | 特朗普总统：霍尔木兹海峡免费开放 油价创新低 <https://news.google.com/rss/articles/CBMickFVX3lxTE91T2JBMUVmVGxrT2piUk5rVms4UVZqZWhpMDNDelppOEpZM3N4cWhuYjdPNDhkU1B1QVhmajNsVGQ1Z0p6d2p5VjhIaTJmTEtCMzlTREdqc21XSHp4dVJXYnBVRVF4TnRyZW1WcmV3RGowZ9IBdEFVX3lxTFBHVXQxVDktS3pWdXRHajJSNG14eGp1WE51czViMDBwdmVsSHdYbXE2WFFWQlB1T3doR2FTQW9uQmxfSzNnZ3ZadU5tdVhuWGxVZ0hJTXMxT1JyVVlQZWpHajRrYVRqRU9wSGpDUTdNSFVIS0My?oc=5>
+- **特朗普** | “48分钟赢下战争”，特朗普称委内瑞拉石油收益超军费28倍 <https://news.google.com/rss/articles/CBMiY0FVX3lxTE9xMk43UDBhMzFhMnN1YV9hRXV6QmltZXJqRGJsTXNoaG1EQ3BOYTJUTnRGN21pTTJaZmlQNGctUmcyOFJmeTdQSnFDUkc2LThYU1psSXJnN0lUazBNcFM0Y3padw?oc=5>
+- **特朗普** | 特朗普不满高油价，效仿拜登指责大型油企 <https://news.google.com/rss/articles/CBMipwJBVV95cUxQZXJxWmMwRTR4R2JkRHhwcm9VbGNMcEVTa002cVN0dUJ4RDRHLUJHcWx3bmh1Tnd5QjlhLXVrTFJDSWdCSXVOMHJyNTY4dk51bVc4N2REVlZoUXZpcnBQZmlQczNVSDgyYm1VRlhITkc1bDJ0NEl4TlRuLTNEQUJnZEthYkdpSUFtUUZvSV9MUWRXZ3dQcVJsTHN0cDRFV1V1ZlBFcjg3TUg1MU0xaWh5cF9rR001eGx2dTQwZW5yNEZfdlpfSzhJZzlKRlZYempucmw4dS1iWkVReFdsSGhRNUJ5M3F6d1F4b0F6NldqUkR6UmQwLXQ0RWVHTm1jelo2QmthaHQtLUtyZXZPZDdxXzJWaUhSX1BNUVdSYzM5ZllQeGtEaDl3?oc=5>
+- **特朗普** | 特朗普总统：北约国家在伊朗问题上让美国“失望” <https://news.google.com/rss/articles/CBMirAFBVV95cUxNUGd4Q0ptSXFpN096d0lBVzhIcnVSN1BMeGxaNEFINFNibmlUd1NWRGFaWmM0UEUwNE1BTzFhdE5pVWN5dXpZSzdVX2JkZ0w0bWFjeHlqMl9ENkdpakZvOFJvaE5KUjRGVGs1d2s2MEtvaUpCRGVPNzZwNkM0dF9CWmxGZWJsYUd4aHZBajFLdTk4RU5ES3Fxa29CdWZTcW9pN2VUaWZ3b2ZUX3d00gGvAUFVX3lxTFBaLWJOVG5MeENTVXZtOHMtYnBMT1RUS1NhckV5elp5MEUwMW9JYlF2WDlheWFpN0NlQllYZldQRS1tNi1WcVhna1JmMFQ4ckxQRTdQSVlJeVJvQVI3VkJDR0xDOUpOREpHaTd4bDFZZEdOazg0aXFUN2Rkck8zekhRanNReURjN2ZqcmdYSWdPYTgzemtiNzZLajZwaDB0NkgtTGpYeTdfQTR1VmctUW8?oc=5>
+- **特朗普** | 美法官驳回特朗普要求选民投票提供公民证明的命令 <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBBRWtycUJfMF9sbjJDd2xXd2syUmVoVnpNMmdJb0dhakV4c1AzQ1VKdGFReVowb3R0d19vaGlqMEJoa1ZQNHZFZUtsd3BraFNraWRmcnFETF9ZV0ZwMXpTRHdmdkw5NHFX?oc=5>
+- **特朗普** | 特朗普称国会限制总统战争权力“不合时宜”_央广网 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1TWU1uVE5TV2hvUXFwOWdOd25TSUN5QlZJRkNjQ05lbnRST0oteGV2cXVZeGFTb3dQUzBhZjhaeUthYm5lc2dpSWUyTENKLW42amhRUmJ6OHpNcTJnbWgydnMweUQxQkFE?oc=5>
 
 ### 2026-06-24 22:44  (8 条)
 
