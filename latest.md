@@ -1,40 +1,140 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-25 13:33**
-- 本轮扫到 4440 条, 新增 **4** 条
+- 最近更新: **2026-06-25 16:19**
+- 本轮扫到 4455 条, 新增 **15** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (15 条)
 
-### 周杰伦『嘉年华』巡演南京、青岛SP通过
+### 王一博发布新合照
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_2388733261_8e612d4d04001n7tm.html>
+
+### 王一博首支香奈儿广告大片发布,顶奢宠爱再升级
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907djxw.html>
+
+### 王霄颐将出席周杰伦北京演唱会，表演龙拳
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923674_m1d5ae17da03301gz8u.html>
+- 链接: <https://k.sina.com.cn/article_7879923955_m1d5ae18f303301fshw.html>
 
-### 周杰伦鸟巢演唱会准备就绪
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1954000705_p7477af4102701cs8w.html>
-
-### 周杰伦就位鸟巢演唱会
+### 新歌MV看点满满！周杰伦化身端水大师，三个孩子都拥有专属歌曲
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1954000705_7477af4104001cs8y.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907dils.html>
 
-### 周杰伦鸟巢演唱会筹备就位，粉丝期待
+### 周杰伦演唱会被指划水，有歌迷吐槽“3小时演唱会实唱不足90分钟”
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2909406375_pad6a04a7027018pg6.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907dhau.html>
+
+### 周杰伦演唱会被指划水，有歌迷吐槽3小时演唱会实际演唱不足90分钟
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907dhuc.html>
+
+### 周杰伦演唱会无票粉丝场外主题餐厅沉浸式观演
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_6721497295_m190a1e8cf03301ap0s.html>
+
+### 美媒爆料：特朗普因党内“反水”怒不可遏，与支持涉伊决议的共和党参议员爆发激烈争吵
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 环球网
+- 时间: 2026-06-24 19:54
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE55b2JGa09tWUI2WVJyTWE0aGVycnF3SHRNMkVkVHN6NVV0bThMMlZxWmdnU2NsTkt2LTBEdTlSb2lCX2VGU3RWXzBuWkN0NDhScUZPNmVXY1Y?oc=5>
+
+### 面对吕特的逢迎 特朗普再怨北约盟友“不忠”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-06-25 11:53
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFA3Q2JER01zMm1icmJJcWFVaTdCNHQtd25ZZkJ1OGFZWUxuR3Z3T0dlTURhajRYUHJSd3ZLdUkzMVprVU1UU1I5dnJReWlBbmlWNDFjNmlMcWpJWkdVVUJDaVlLd2VGMUpmeUl1YXBTTER5Zi1YaWpNSzRXN0prdHc?oc=5>
+
+### 特朗普：对意法德英很失望，希望北约盟友向我表忠心
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-06-25 09:42
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFAxX0REdlZsOUt5SHFCVldPY3BXODViXzhYRWdWal9xTFQzWlM1N1RkS2lmbF9pendYdjJsX09IbkFxMXAwLWMyUTZMOFRSWklNRDd2ek9NdkVCOG4wSjA4SVdxczhPRG1kMmlfczJZZEd3eGFTX3lOVA?oc=5>
+
+### 特朗普批评汽油价格下跌不够快 称已命令司法部展开调查
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-06-24 16:10
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWWoyM3Jid29KXzBDbFd6ZEE0ZlRQYkgySzZEMHFiYml0MU03VG5PX19wcGIyRkxXODliUHZRUGVPMlcxZ0U2R3JDaGdIM0p3Q3NpR0E0S3JvZzFTTWtYSGFULU1pendhalhPeFJnakR3b29LQXhQdmhTT3VKaDh3LVZTZDVTbVNvamllSVFxc2M4WjZRYWpmMzZEUVFZbE1aTGMzRTZVb2YwLWZHZmxiQm42YWsyalNCMlhzbHhva0RwRXBmYTNLOGVnSENXcEEyZUNzRllwNDZuVGp0M1Br?oc=5>
+
+### 特朗普：委内瑞拉强震造成惨重死亡
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-06-25 03:56
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5KTUt2ZnJwZGIzRWFYbnFKTHg2ajB0a2xSY1R3UVZFN1ZlMFU4NGRiOEVTVndYcElScFlYWEhSZ21kQll5TFdqZ1p5cTU3NlVtb0ZlR0FrZ3NIeWZXUUlYc21kc0ItU0Z1OWctb1U0ZHI?oc=5>
+
+### 特朗普：委内瑞拉强震造成惨重死亡
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-06-25 03:58
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1FUkt2RVhib1F3SWdQd2ZUWlJkUGZIQnUzMERERU0tVTd4eV9IcDdhTVhwRUpteWRFV1VDeTlxd3V1Y0d2OFF5UVJfZHI5dmhhOF9vQjBBQ1Zuc0dOTkZROFY2Qlh0Rm1ZdTJtTkVDN1lpdzB3bXhPRy1MSVltWGM?oc=5>
+
+### 曾嘲讽泽连斯基“无牌可打”，如今特朗普又夸“打得不错”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-06-25 14:23
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZRlFCcE84b0ZYcFE0QXhqVEZiS2hqZVRtYlVXU18yZnBCcGtaa1E0bE9PSFdtZlBmaUloRlhXR0RFcmFlMlljM0d6WDhkMjNwbnl2Yno4VnRueTVtUU1YMWVjczBpTGVTX0E?oc=5>
+
+### 特朗普冷评英首相热门人选：猜他干过镇长
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新京报
+- 时间: 2026-06-25 13:34
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE45U1BqV2tER3hrY1haRE81eENqcnFPMGFldGdmdHRJdDBFNkVKMTlkTzBmS0I1RWFjRFA1T2RQMTVULXduZ01FeHg3enRxdXA5R2NfNTU0WmFKd0RYWDZ6Mm81LTU?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-25 16:19  (15 条)
+
+- **王一博** | 王一博发布新合照 <https://k.sina.com.cn/article_2388733261_8e612d4d04001n7tm.html>
+- **王一博** | 王一博首支香奈儿广告大片发布,顶奢宠爱再升级 <https://k.sina.com.cn/article_7857201856_1d45362c001907djxw.html>
+- **周杰伦** | 王霄颐将出席周杰伦北京演唱会，表演龙拳 <https://k.sina.com.cn/article_7879923955_m1d5ae18f303301fshw.html>
+- **周杰伦** | 新歌MV看点满满！周杰伦化身端水大师，三个孩子都拥有专属歌曲 <https://k.sina.com.cn/article_7857201856_1d45362c001907dils.html>
+- **周杰伦** | 周杰伦演唱会被指划水，有歌迷吐槽“3小时演唱会实唱不足90分钟” <https://k.sina.com.cn/article_7857201856_1d45362c001907dhau.html>
+- **周杰伦** | 周杰伦演唱会被指划水，有歌迷吐槽3小时演唱会实际演唱不足90分钟 <https://k.sina.com.cn/article_7857201856_1d45362c001907dhuc.html>
+- **周杰伦** | 周杰伦演唱会无票粉丝场外主题餐厅沉浸式观演 <https://k.sina.com.cn/article_6721497295_m190a1e8cf03301ap0s.html>
+- **特朗普** | 美媒爆料：特朗普因党内“反水”怒不可遏，与支持涉伊决议的共和党参议员爆发激烈争吵 <https://news.google.com/rss/articles/CBMiWEFVX3lxTE55b2JGa09tWUI2WVJyTWE0aGVycnF3SHRNMkVkVHN6NVV0bThMMlZxWmdnU2NsTkt2LTBEdTlSb2lCX2VGU3RWXzBuWkN0NDhScUZPNmVXY1Y?oc=5>
+- **特朗普** | 面对吕特的逢迎 特朗普再怨北约盟友“不忠” <https://news.google.com/rss/articles/CBMif0FVX3lxTFA3Q2JER01zMm1icmJJcWFVaTdCNHQtd25ZZkJ1OGFZWUxuR3Z3T0dlTURhajRYUHJSd3ZLdUkzMVprVU1UU1I5dnJReWlBbmlWNDFjNmlMcWpJWkdVVUJDaVlLd2VGMUpmeUl1YXBTTER5Zi1YaWpNSzRXN0prdHc?oc=5>
+- **特朗普** | 特朗普：对意法德英很失望，希望北约盟友向我表忠心 <https://news.google.com/rss/articles/CBMieEFVX3lxTFAxX0REdlZsOUt5SHFCVldPY3BXODViXzhYRWdWal9xTFQzWlM1N1RkS2lmbF9pendYdjJsX09IbkFxMXAwLWMyUTZMOFRSWklNRDd2ek9NdkVCOG4wSjA4SVdxczhPRG1kMmlfczJZZEd3eGFTX3lOVA?oc=5>
+- **特朗普** | 特朗普批评汽油价格下跌不够快 称已命令司法部展开调查 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWWoyM3Jid29KXzBDbFd6ZEE0ZlRQYkgySzZEMHFiYml0MU03VG5PX19wcGIyRkxXODliUHZRUGVPMlcxZ0U2R3JDaGdIM0p3Q3NpR0E0S3JvZzFTTWtYSGFULU1pendhalhPeFJnakR3b29LQXhQdmhTT3VKaDh3LVZTZDVTbVNvamllSVFxc2M4WjZRYWpmMzZEUVFZbE1aTGMzRTZVb2YwLWZHZmxiQm42YWsyalNCMlhzbHhva0RwRXBmYTNLOGVnSENXcEEyZUNzRllwNDZuVGp0M1Br?oc=5>
+- **特朗普** | 特朗普：委内瑞拉强震造成惨重死亡 <https://news.google.com/rss/articles/CBMicEFVX3lxTE5KTUt2ZnJwZGIzRWFYbnFKTHg2ajB0a2xSY1R3UVZFN1ZlMFU4NGRiOEVTVndYcElScFlYWEhSZ21kQll5TFdqZ1p5cTU3NlVtb0ZlR0FrZ3NIeWZXUUlYc21kc0ItU0Z1OWctb1U0ZHI?oc=5>
+- **特朗普** | 特朗普：委内瑞拉强震造成惨重死亡 <https://news.google.com/rss/articles/CBMif0FVX3lxTE1FUkt2RVhib1F3SWdQd2ZUWlJkUGZIQnUzMERERU0tVTd4eV9IcDdhTVhwRUpteWRFV1VDeTlxd3V1Y0d2OFF5UVJfZHI5dmhhOF9vQjBBQ1Zuc0dOTkZROFY2Qlh0Rm1ZdTJtTkVDN1lpdzB3bXhPRy1MSVltWGM?oc=5>
+- **特朗普** | 曾嘲讽泽连斯基“无牌可打”，如今特朗普又夸“打得不错” <https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZRlFCcE84b0ZYcFE0QXhqVEZiS2hqZVRtYlVXU18yZnBCcGtaa1E0bE9PSFdtZlBmaUloRlhXR0RFcmFlMlljM0d6WDhkMjNwbnl2Yno4VnRueTVtUU1YMWVjczBpTGVTX0E?oc=5>
+- **特朗普** | 特朗普冷评英首相热门人选：猜他干过镇长 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE45U1BqV2tER3hrY1haRE81eENqcnFPMGFldGdmdHRJdDBFNkVKMTlkTzBmS0I1RWFjRFA1T2RQMTVULXduZ01FeHg3enRxdXA5R2NfNTU0WmFKd0RYWDZ6Mm81LTU?oc=5>
 
 ### 2026-06-25 13:33  (4 条)
 
