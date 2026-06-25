@@ -1,98 +1,47 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-25 11:12**
-- 本轮扫到 4436 条, 新增 **11** 条
+- 最近更新: **2026-06-25 13:33**
+- 本轮扫到 4440 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (11 条)
+## 本轮新发现 (4 条)
 
-### 新浪演唱会热点小时报丨2026年06月25日18时_今日实时演唱会热点速递
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907d0yy.html>
-
-### 来看周杰伦演唱会 鸟巢周边可以这么玩
+### 周杰伦『嘉年华』巡演南京、青岛SP通过
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1644948230_m620beb06033019j8g.html>
+- 链接: <https://k.sina.com.cn/article_7879923674_m1d5ae17da03301gz8u.html>
 
-### 歌迷抢票未果转当鸟巢监工，周杰伦演唱会现场引关注
+### 周杰伦鸟巢演唱会准备就绪
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6354475832_17ac19b38040019uj4.html>
+- 链接: <https://k.sina.com.cn/article_1954000705_p7477af4102701cs8w.html>
 
-### 油价回落，特朗普呼吁下调汽油零售价
+### 周杰伦就位鸟巢演唱会
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-25 09:30
-- 链接: <https://news.google.com/rss/articles/CBMinwJBVV95cUxPT3pDTGVkbU1xSzlneURNdW9sOU40OHNWYzl1VGJZOVNfNWl3a291OFdXTV93V29Ec2pCZnpJT01WOWo5VXh2QlRmdVR0Z091LWMtaWhidkVYYjF3SXFEZlZZU2FpQ1NLSG5XN2FGQUdsWWFiN2t0dnY1ZFcxRjdfRi0tcWY2V3cyYzZKNUpPUXo3ZnZjUnMxbEZOeXRWV1d2T2lCZ2h3ZEU1YnhDRmU5NG5sQjZYX2dvRkRhSGxyV2N0bEJDSHBnbkNmYmRZTU16eWtrTlM3bXJrQ3RkM2lMU1JnX0ltcTF3ci1jMjU3bktveXUtb2hRQzQ3TVl4TnN0ZkVRaGNGZUNPeExsVVplYjhzWGhLdTNpOWIwRnpfTQ?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1954000705_7477af4104001cs8y.html>
 
-### 特朗普：对意法德英很失望，希望北约盟友向我表忠心
+### 周杰伦鸟巢演唱会筹备就位，粉丝期待
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-06-25 06:15
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBDN1FwZnV6MmI0OUpMVmFSTG9WZXpqX21PMklWRlAxeUxQUXlvb2p5YnRUOW9EcDJlaXFja1o0S0VZdEVHbUZqSUlZR0Y?oc=5>
-
-### 再度呼吁降息！特朗普回应拒签住房法案：低利率能解决一切
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-06-25 06:39
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE9UdGpudnBkd2xRMDhnTzFVQmNQZzdsY1BiYmxRZDRVdlhzLUJIcEJFQmpGNVp3enV6LWpienhMbkpVQl9ySXRCRw?oc=5>
-
-### 特朗普拒签住房法案施压共和党参议员，投票限制之争引爆党内裂痕
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-25 03:00
-- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxPNG02LThaUDNYUkRncFQ3MW9kVExqQkNTcE1nY1p5U09rRk9MTk91NXhzY1JCYXdVOHJ0WGp0amRtTE5BTkU4TWFJN3k2T3BkMjYyOEtCdXRhejNRdndRWkVWR2N3allrT3plQjNBc2E1WFoza09tc2tSc2toSElXcThRLXZNcm42eVNpa1Y3TE9DanRDeUFNYllxb3k?oc=5>
-
-### 特朗普：不接受在霍尔木兹海峡的收费行为
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中国网新闻中心
-- 时间: 2026-06-25 03:31
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE13NWpKajBKdkVzU250ek5JMm9oc2ZqVzJmSGRVNFNQc0dOT1R3MW1ibEdpRGRkRkllbldFN1BDc25xN0dIc09OajFNREhZWUdsUkRuY3o3WGFfQzNkYURSYUJSV0VST01iZFpN?oc=5>
-
-### 康托尔：尽管特朗普频频发表强硬言论，亚洲投资者仍持续押注美国市场
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: Sina finance
-- 时间: 2026-06-25 08:48
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxOYlplS25hWF82eGx4VDBLVlI0S2pRLVU0WTFHc0lCNDRhRUlnLVMxZFQ2cHo5Nk1kQjJ0TkJLRlhrR3dTZHBSTzhGbzlGVnp5YVZMekx4VV9RblJERjFKZ19KRmJMbW1tYWZGTmZ6elBydmpLaFQ0MXVrYXBNcEJvMFlfVDRxdDA?oc=5>
-
-### 特朗普称北约辜负了美国：对他们感到失望
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-06-25 00:13
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hdXZDTDRVU041UW5ja2V4cXVUVm9WX2ZBNnlWX2ExUEhhMlhNWnBLcE52eWY0VmhMejcxeHR2d3NoN0piMEkzU2t3aWRGQXdjU01PaGFXX0h3eGs0TE1MVHFOOW5GemZG?oc=5>
-
-### 美参院表决转向：限制特朗普在伊朗战争权限议案被否决
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: dw.com
-- 时间: 2026-06-25 10:38
-- 链接: <https://news.google.com/rss/articles/CBMi6AJBVV95cUxPVkNaY1hoX2xSNWtzc1FleXd0MHZGZXJGb0ljQzk2dWZxcFFxR25fQ0R1X09uc3gwRlRiTEliQWdEQWpVSG5NNmhVRFpZbUpZZVNvQVBkNzg5ZldWdkJ3amltNTBsSlNsLXNKTG1JckFLOXBEY2FNYkZuMFU4S3Y2TlJmS1RFbmQ1SEJ0RlJPSVJNdnU4TE1hRVBvYXEtV003YzJMZ1cxamVqbjBlQ0pJZTYyNVdYUFhTZ3pwQkRTWlZucUNScG0ySnpHUEJqbF9BX2tDVXY2X2NwdHJTMk85aHBKcGRpN2xRelRsNXNZTzBZdlozd2gyT2diMFZxMmRqUXRHaW1VTTY1Yl9lZE45OXZvVXNJQ25IRlFtcFVqQkR6ODF0QURlZ2h5cUdRZUpQZEJSd3lyRC1uWFVkWmNScmFsZ3JsZmhqeXF5ZUhKcWc5Y1ZvTVJNYUtHeDhQSC1YX056bHl5dlHSAegCQVVfeXFMTXE5ZkhJdlhDU1UzWlVKUUJmQWhfMV8wRy1yWDhqSnpZMzE1UVFYazlxOEVtWkdVNUUyWXRwTjRJVW1vU2xWeHRXRlhLR0N0QnpFLU5vMEZVNmpVeW5ldFExMDdMS3lVZTVrc3NMMk44NElWYmpaOC01cFVGbFZjREg3T3A5RnFHM0E1akV6OEhVcERzODBjRTEzMDE5dXZzRTM2ZlpzVEZQdUFZYW91QzhFNVpybjBJVktuY2taYjNnMFJFZy1rOW1NckdudkF0dUt1cE82Y29nZkhiOEhacTAxRWszeFZ3RUxlVmtocWtlRWtlNGlYZlFhZENuY0NPNS1wc1kwX3ZYaU9CLVNxRW53MTVwYUxlZG5IeDRBcldtdUQyRjJhTnF2S25GVTJDcHV3UUdoMEEyZ1U0ejBvbDhVci16bTBoMWUxZjlpV25IYmVJVlR5NGtrbGYzUzhvekpUaEVoMktT?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_2909406375_pad6a04a7027018pg6.html>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-25 13:33  (4 条)
+
+- **周杰伦** | 周杰伦『嘉年华』巡演南京、青岛SP通过 <https://k.sina.com.cn/article_7879923674_m1d5ae17da03301gz8u.html>
+- **周杰伦** | 周杰伦鸟巢演唱会准备就绪 <https://k.sina.com.cn/article_1954000705_p7477af4102701cs8w.html>
+- **周杰伦** | 周杰伦就位鸟巢演唱会 <https://k.sina.com.cn/article_1954000705_7477af4104001cs8y.html>
+- **周杰伦** | 周杰伦鸟巢演唱会筹备就位，粉丝期待 <https://k.sina.com.cn/article_2909406375_pad6a04a7027018pg6.html>
 
 ### 2026-06-25 11:12  (11 条)
 
