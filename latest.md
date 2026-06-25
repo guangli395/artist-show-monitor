@@ -1,122 +1,69 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-25 16:19**
-- 本轮扫到 4455 条, 新增 **15** 条
+- 最近更新: **2026-06-25 18:30**
+- 本轮扫到 4461 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (15 条)
+## 本轮新发现 (6 条)
 
-### 王一博发布新合照
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2388733261_8e612d4d04001n7tm.html>
-
-### 王一博首支香奈儿广告大片发布,顶奢宠爱再升级
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907djxw.html>
-
-### 王霄颐将出席周杰伦北京演唱会，表演龙拳
+### 周杰伦北京演唱会官方劝退无票歌迷引热议
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923955_m1d5ae18f303301fshw.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801r0ku.html>
 
-### 新歌MV看点满满！周杰伦化身端水大师，三个孩子都拥有专属歌曲
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907dils.html>
-
-### 周杰伦演唱会被指划水，有歌迷吐槽“3小时演唱会实唱不足90分钟”
+### 周杰伦演唱会现场劝退无票歌迷引热议
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907dhau.html>
+- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301cmb4.html>
 
-### 周杰伦演唱会被指划水，有歌迷吐槽3小时演唱会实际演唱不足90分钟
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907dhuc.html>
-
-### 周杰伦演唱会无票粉丝场外主题餐厅沉浸式观演
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6721497295_m190a1e8cf03301ap0s.html>
-
-### 美媒爆料：特朗普因党内“反水”怒不可遏，与支持涉伊决议的共和党参议员爆发激烈争吵
+### 特朗普取消签署两党住房法案，要求加入选民身份认证相关条款
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 环球网
-- 时间: 2026-06-24 19:54
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE55b2JGa09tWUI2WVJyTWE0aGVycnF3SHRNMkVkVHN6NVV0bThMMlZxWmdnU2NsTkt2LTBEdTlSb2lCX2VGU3RWXzBuWkN0NDhScUZPNmVXY1Y?oc=5>
+- 场馆: Sina finance
+- 时间: 2026-06-24 14:59
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxOalp0dVVTbXE1V1FOYU9VYTVMVnFpVjVFdXlEbDZ5WXJQSXBad3hvbDZYOU50VnJ6b2l1QXZMdGE2TXVxeHZWNFM5eS1wU3J1dUJBNHEwNVVtM1NCTnRDN0hzcmhoS0tIM1VTZzA2enRCU0pvbTRlb2ZvSFhxckdQLThRWGVDRGM?oc=5>
 
-### 面对吕特的逢迎 特朗普再怨北约盟友“不忠”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-06-25 11:53
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFA3Q2JER01zMm1icmJJcWFVaTdCNHQtd25ZZkJ1OGFZWUxuR3Z3T0dlTURhajRYUHJSd3ZLdUkzMVprVU1UU1I5dnJReWlBbmlWNDFjNmlMcWpJWkdVVUJDaVlLd2VGMUpmeUl1YXBTTER5Zi1YaWpNSzRXN0prdHc?oc=5>
-
-### 特朗普：对意法德英很失望，希望北约盟友向我表忠心
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-06-25 09:42
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFAxX0REdlZsOUt5SHFCVldPY3BXODViXzhYRWdWal9xTFQzWlM1N1RkS2lmbF9pendYdjJsX09IbkFxMXAwLWMyUTZMOFRSWklNRDd2ek9NdkVCOG4wSjA4SVdxczhPRG1kMmlfczJZZEd3eGFTX3lOVA?oc=5>
-
-### 特朗普批评汽油价格下跌不够快 称已命令司法部展开调查
+### 美国驻意大使紧急灭火 称特朗普与梅洛尼的冲突未破坏两国关系
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-24 16:10
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWWoyM3Jid29KXzBDbFd6ZEE0ZlRQYkgySzZEMHFiYml0MU03VG5PX19wcGIyRkxXODliUHZRUGVPMlcxZ0U2R3JDaGdIM0p3Q3NpR0E0S3JvZzFTTWtYSGFULU1pendhalhPeFJnakR3b29LQXhQdmhTT3VKaDh3LVZTZDVTbVNvamllSVFxc2M4WjZRYWpmMzZEUVFZbE1aTGMzRTZVb2YwLWZHZmxiQm42YWsyalNCMlhzbHhva0RwRXBmYTNLOGVnSENXcEEyZUNzRllwNDZuVGp0M1Br?oc=5>
+- 时间: 2026-06-25 17:09
+- 链接: <https://news.google.com/rss/articles/CBMinwJBVV95cUxONlBLanRTYk54eFUtUzJ6SUFUNHV5R0FXRmMxTDh1ekU3d1k5VldWY2wxVlhXT3ViV01HaGVGMVFGYTJmR1RndzBJY29yZFhBc2YySUtNSjZjeUUzRHJDV3hpM0xiSk5QaUJwMmFRSGRJNjFxLVRLa0Nma0VHNFFOQXZDOEdZb0pSNlNTT3dQaFhCZkt4b0ZKSjlqc05LQzRid0pybXo4VG1OeGtaaU0ybjYyQ2hzcmFRY1FEcktmSVB0U01xclE1dkZpb1ZxQlJNMnYzZ1MtVjltRS00RDFVbWFlYVNzSUdIVDk0M05jTlNrQTV6YTNhbWJMNmkyQ0xTbTQzeDZCNUNTV0RuZ2JuVWYyS1hGejUzLTFCRDJLRQ?oc=5>
 
-### 特朗普：委内瑞拉强震造成惨重死亡
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-06-25 03:56
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5KTUt2ZnJwZGIzRWFYbnFKTHg2ajB0a2xSY1R3UVZFN1ZlMFU4NGRiOEVTVndYcElScFlYWEhSZ21kQll5TFdqZ1p5cTU3NlVtb0ZlR0FrZ3NIeWZXUUlYc21kc0ItU0Z1OWctb1U0ZHI?oc=5>
-
-### 特朗普：委内瑞拉强震造成惨重死亡
+### 华泰期货：地缘风险逐步出清 特朗普仍在强调降息
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-06-25 03:58
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1FUkt2RVhib1F3SWdQd2ZUWlJkUGZIQnUzMERERU0tVTd4eV9IcDdhTVhwRUpteWRFV1VDeTlxd3V1Y0d2OFF5UVJfZHI5dmhhOF9vQjBBQ1Zuc0dOTkZROFY2Qlh0Rm1ZdTJtTkVDN1lpdzB3bXhPRy1MSVltWGM?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-06-25 17:15
+- 链接: <https://news.google.com/rss/articles/CBMisAFBVV95cUxPMWRMakF5MXhsQUNRc1ZFMER2cDNtbDB0MnVKa1V4TEdSazFKWUROV2w3RHpuR0w0cXJEejdnelhORGN5WTdqT0NLOW1FbDgxVHBMcGhVc1YzSHpYVDZYQWRpdXU2UGRLQzFBanhSZUl6MVdDTGV2OXJob2FwZnlPVG9IcXA5WXpfcW1tdlowSGpIOF9vZXJpMXBxVnZsdEE3aFpjVGMzTjNzVzRBOW5uOQ?oc=5>
 
-### 曾嘲讽泽连斯基“无牌可打”，如今特朗普又夸“打得不错”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-06-25 14:23
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZRlFCcE84b0ZYcFE0QXhqVEZiS2hqZVRtYlVXU18yZnBCcGtaa1E0bE9PSFdtZlBmaUloRlhXR0RFcmFlMlljM0d6WDhkMjNwbnl2Yno4VnRueTVtUU1YMWVjczBpTGVTX0E?oc=5>
-
-### 特朗普冷评英首相热门人选：猜他干过镇长
+### 特朗普临时取消对住房法案的签署 与参议院共和党人矛盾升级
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-06-25 13:34
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE45U1BqV2tER3hrY1haRE81eENqcnFPMGFldGdmdHRJdDBFNkVKMTlkTzBmS0I1RWFjRFA1T2RQMTVULXduZ01FeHg3enRxdXA5R2NfNTU0WmFKd0RYWDZ6Mm81LTU?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-06-25 18:00
+- 链接: <https://news.google.com/rss/articles/CBMijwJBVV95cUxPZ2F4VUZwTlcxbWdPem9LOUE5YlRaVXNPc2FlSnk5ZXI4bFFjTmNad2VuUG1uamVLSmVpb1NNcy00ekRZX3AwMEI1endDbGxhaHhpcE96dDRYbHI0aGhpbmdRajFabjdGQTYzQmdydlZrYURvaVoxRV83M2hpQTJkV1ltVGpHTUVZd2VQYnNvc1pWRkw2bnJDaWpEdDZDRHhHUnRBSmp0RmIxaTlyeUltNThuMlBoaE9id2VFbGF2Ui1xb1ctdHBjOGprOU9aa05tbHF2cHVJbXI1anZMMzB5cldKN25MQ2VwYXFZZWRvOXotQVBORURaWjZZOU9TQ1ZvcFhKM2hHcGFHWFBkSFQ4?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-25 18:30  (6 条)
+
+- **周杰伦** | 周杰伦北京演唱会官方劝退无票歌迷引热议 <https://k.sina.com.cn/article_7879776328_1d5abd84806801r0ku.html>
+- **周杰伦** | 周杰伦演唱会现场劝退无票歌迷引热议 <https://k.sina.com.cn/article_7879924009_m1d5ae192903301cmb4.html>
+- **特朗普** | 特朗普取消签署两党住房法案，要求加入选民身份认证相关条款 <https://news.google.com/rss/articles/CBMihwFBVV95cUxOalp0dVVTbXE1V1FOYU9VYTVMVnFpVjVFdXlEbDZ5WXJQSXBad3hvbDZYOU50VnJ6b2l1QXZMdGE2TXVxeHZWNFM5eS1wU3J1dUJBNHEwNVVtM1NCTnRDN0hzcmhoS0tIM1VTZzA2enRCU0pvbTRlb2ZvSFhxckdQLThRWGVDRGM?oc=5>
+- **特朗普** | 美国驻意大使紧急灭火 称特朗普与梅洛尼的冲突未破坏两国关系 <https://news.google.com/rss/articles/CBMinwJBVV95cUxONlBLanRTYk54eFUtUzJ6SUFUNHV5R0FXRmMxTDh1ekU3d1k5VldWY2wxVlhXT3ViV01HaGVGMVFGYTJmR1RndzBJY29yZFhBc2YySUtNSjZjeUUzRHJDV3hpM0xiSk5QaUJwMmFRSGRJNjFxLVRLa0Nma0VHNFFOQXZDOEdZb0pSNlNTT3dQaFhCZkt4b0ZKSjlqc05LQzRid0pybXo4VG1OeGtaaU0ybjYyQ2hzcmFRY1FEcktmSVB0U01xclE1dkZpb1ZxQlJNMnYzZ1MtVjltRS00RDFVbWFlYVNzSUdIVDk0M05jTlNrQTV6YTNhbWJMNmkyQ0xTbTQzeDZCNUNTV0RuZ2JuVWYyS1hGejUzLTFCRDJLRQ?oc=5>
+- **特朗普** | 华泰期货：地缘风险逐步出清 特朗普仍在强调降息 <https://news.google.com/rss/articles/CBMisAFBVV95cUxPMWRMakF5MXhsQUNRc1ZFMER2cDNtbDB0MnVKa1V4TEdSazFKWUROV2w3RHpuR0w0cXJEejdnelhORGN5WTdqT0NLOW1FbDgxVHBMcGhVc1YzSHpYVDZYQWRpdXU2UGRLQzFBanhSZUl6MVdDTGV2OXJob2FwZnlPVG9IcXA5WXpfcW1tdlowSGpIOF9vZXJpMXBxVnZsdEE3aFpjVGMzTjNzVzRBOW5uOQ?oc=5>
+- **特朗普** | 特朗普临时取消对住房法案的签署 与参议院共和党人矛盾升级 <https://news.google.com/rss/articles/CBMijwJBVV95cUxPZ2F4VUZwTlcxbWdPem9LOUE5YlRaVXNPc2FlSnk5ZXI4bFFjTmNad2VuUG1uamVLSmVpb1NNcy00ekRZX3AwMEI1endDbGxhaHhpcE96dDRYbHI0aGhpbmdRajFabjdGQTYzQmdydlZrYURvaVoxRV83M2hpQTJkV1ltVGpHTUVZd2VQYnNvc1pWRkw2bnJDaWpEdDZDRHhHUnRBSmp0RmIxaTlyeUltNThuMlBoaE9id2VFbGF2Ui1xb1ctdHBjOGprOU9aa05tbHF2cHVJbXI1anZMMzB5cldKN25MQ2VwYXFZZWRvOXotQVBORURaWjZZOU9TQ1ZvcFhKM2hHcGFHWFBkSFQ4?oc=5>
 
 ### 2026-06-25 16:19  (15 条)
 
