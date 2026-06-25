@@ -1,40 +1,175 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-25 04:42**
-- 本轮扫到 4407 条, 新增 **4** 条
+- 最近更新: **2026-06-25 08:19**
+- 本轮扫到 4425 条, 新增 **18** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (18 条)
 
-### 杨紫谢娜等明星壁纸素材合集发布
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923563_m1d5ae176b03301rdie.html>
-
-### 周杰伦演唱会北京站的官方售票平台具体有哪些？
+### 華語新歌流行榜2026.第24期TOP 10
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068208_1d5b04c7006801g49m.html>
+- 链接: <https://k.sina.com.cn/article_1695976033_m65168a6103301eyro.html>
 
-### 欢子新歌持续走红，周杰伦公开示好
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6579089274_m18824ef7a03301qhxc.html>
-
-### 孙怡与恋爱综艺素人男嘉宾一同看周杰伦演唱会？孙怡辟谣：姐单身
+### 粉丝携vivo X300 Ultra赴鸟巢拍摄周杰伦演唱会
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907c50e.html>
+- 链接: <https://k.sina.com.cn/article_1906286443_719f9f6b04001lqbu.html>
+
+### 周杰伦演唱会开放鸟巢监工岗位，未购票者可参与
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5897618643_15f8684d304001alyq.html>
+
+### 特朗普拒签住房法案施压共和党参议员，投票限制之争引爆党内裂痕
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-06-25 07:33
+- 链接: <https://news.google.com/rss/articles/CBMiowFBVV95cUxOQlV4OE9IS0hnSUlUeDlDMUVlZzAzRVRvc3JHTlJkWEVVRWRqelpSRXdOOGRvUzdOZExZbEFfME11MmpWR2xucXBoeHAtNGJrcmxNY3hZck54X1UtYWQ3TDladWFCSzQ3ZzNMZW5OVktWaDVvLTZnUUZabmNDYVF2cENZbmx0dXR2LUJxVnVwbV8wZFZub29ZVkl0eU1kWDRPcDFN?oc=5>
+
+### 离谱！特朗普激情喊话，台下观众却纷纷转身离开
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: video.sina.com.cn
+- 时间: 2026-06-25 07:20
+- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxNYlp0UmE0RS1uV1dxREZHekwyRVMtc1ZwakZha3ZSb0lpUzJiXzhZRmp5ek94UE1scXo5em5iQmhiUUNCMDVBNWNfS094Uk15TnFEUkFZbjBkN0xHd0wzZmppZ2I2eEV6Y3IzeVk3NlJRRFFwQXBQNTlmS3BpT003NWZB?oc=5>
+
+### 特朗普：对意法德英很失望，希望北约盟友向我表忠心
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-06-25 06:02
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1IajFqbTNoVWI3a0t5UWF5MjVnbzZmT2JoeFN6ZWxPZEU1clBuMmNYMy0wNjEzRHoyYzd2WmRuWXdPMU8ySW5IZF9sZjU0VXlOTi1iQUM5VDhSTHNhTGNhTFlNMTJ3MHBlYXc?oc=5>
+
+### 特朗普称北约辜负了美国：对他们感到失望
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中国网新闻中心
+- 时间: 2026-06-25 03:42
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE1nRVRzRjk4QTcxRVhzVHVVcllWWFJDVlAwSVAtNDFrSFNmWkdsYVYwdnJSQ05fVHVmY1BJeldJM2VoZHFoVDV0ZjNYbzVpLWk2UU1kdTlaOXFLeHRObTQxSnZna2xXUVhwc1JB?oc=5>
+
+### 委内瑞拉连续强震，特朗普发声
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 环球网
+- 时间: 2026-06-24 13:55
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTFBCN3JTWVIzVXRUOEhPN3A0enlkZUowR3J6TXpOVTBUT09TRUlrb2dVOEpfMnROQnpRbWZqTmthQlFKN2wyd2JTeDR0WGNHWUFNRW4wTVNTSXA?oc=5>
+
+### 特朗普把华盛顿变成大工地：千万美元工程刚修好就返工，改造白宫还被起诉
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-06-25 03:53
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBGbktIWDNPbDZWY1RQeG8wanY3VU5qeWJiWFAtRGRfUm1JSHNwdi1TVlZXaWFQTVcxcjZfMVFVWnVtR3Q3aDZQblhrdTg?oc=5>
+
+### 特朗普：可能永远无法查明是谁袭击了伊朗小学！没人故意那样做，犯错难免，战争是肮脏的
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 每日经济新闻
+- 时间: 2026-06-25 02:57
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yYzZ4M2NoekppNXN3VHQ4NDZWbnAtRjQybnlWRkthRkc3cWxsVDJTR0M2REtYSERBYXZ6Yi1uckxIa092MFAzRmg2NC10aXZwOW1JZ3NveF9lSjdtNXp5YmduU3JVZw?oc=5>
+
+### 特朗普：不接受在霍尔木兹海峡的收费行为
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: chinanews.com.cn
+- 时间: 2026-06-24 23:14
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NR3lBeENvZDNBX09aWTNaTGZiSDJlSUlHWHJ2aEZHb2hqMHJsT0ltN3lTUVhDZ2Iyc0pIaTFSMUwxUG1CRXhaakxBRWtHVkdWb0ZLZXFTcHdfb2lCQVI0S2FmMW5rbnN6?oc=5>
+
+### 特朗普：可能永远无法查明
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-06-25 00:40
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE90S1REQUxVaTFNWkdaOUJoaDA5M09CZFNFZWFteHlRQnRoaElVcld1bHl5NUhSamVqWUJPUHAzcU5KMmJmcTBFcE9YX0k?oc=5>
+
+### 国际足联主席确认：特朗普将出席世界杯决赛，并向冠军球队颁奖
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 神州学人
+- 时间: 2026-06-25 03:06
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE9pTFRFaWtBLTJOWUpoVVpSLXNSUGJOa2lobHhQQnpaVnVKMmZxdnBGNE5tekdtZEdrM3J0bDRFMU5qQW5LeTBaRkFZb3Y2a1Nxajg4Nzk5OF9rX2M3ZUNyZXZDVjBtT0t1eWwwYW51T2tLZw?oc=5>
+
+### 土耳其军售案引发特朗普与国会对峙
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-06-25 01:17
+- 链接: <https://news.google.com/rss/articles/CBMipgFBVV95cUxOdTR1RElfRHYzN0Q1Tk5LTncwY2ZpbXdkWmJYZnlGdi1Ib3FOdV90MVVhXzZZWlc5eW9WNGEtTjMxd3ZMeHpGYXFUYzV3em4xT2Nrem1CTjltOGxGd2JBbkFya0hPMVRETXJqTEUydlNDM1o5RDF2cGV1WVdPaUV6QnJlUEhpb1VCQWdfMjhLTmRndUtCLV93cHRIWXI5akNGV3hEQXJR?oc=5>
+
+### 北约秘书长到访白宫_新浪新闻
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 手机新浪网
+- 时间: 2026-06-25 03:51
+- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTE5OTlFXVEh5M3k3QlJpTTRuLXJLbmFNeTl6aHMwV210clBWNmdqaVdFNHQyNC1yNV9WTjRTRWg0a1hRci05TGJUMW9YZllaQWIxOWZsY3ZMMW5hMmYtc3IzbEkzdw?oc=5>
+
+### US President Trump: Iran agreed to highest level nuclear inspections long into future
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: TMGM
+- 时间: 2026-06-23 17:57
+- 链接: <https://news.google.com/rss/articles/CBMi6wFBVV95cUxORk82T3RmbE9QZFpzWG41RS1DMW1WMjNOZlJxUmdxbDR0QVVIaHM4Yl9mYXdJdnNiNURrNnlrUTI4NExQblBHRHV2S2FEa3c3N1ZrMmlGMGFDZmZxTWtSWUI4UWlubGpweDdidDRPeWM1aVlKSHBybVB3RWR4MDc3cXpUaFYzNEtmWXdHUXhPeWVRN2FUOFZUNzdPb2xWYzhxSmQtaHVtR1pZY3luR2x5MC0yV05IT0RNSXloUEJPal9GaUVuc2FMVXFXbWI4R0lvM1FidDA1bmZFdzlQWmFyRklaMFkxbk1sX05R?oc=5>
+
+### 特朗普“旋风一日”震惊共和党人：取消法案签字、痛斥议员、指责欧洲盟友
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-06-25 03:14
+- 链接: <https://news.google.com/rss/articles/CBMitAFBVV95cUxNd2Vpa3BELV9iWThMNTk2Slh4SzFrc2RqdldlR1dqdjM4cVFJMWxQRW9VcWdqWXl0QmM3SGdrMTBVeW8tWno4d3dqYnRQNGxFSXBDUGt3LW4wcElQNGZQV1pMbUxXeld3Z2VYZVktZFBiXzkzcjl3a25UaUVvMGNVSUZGREhCMk9OZWdQeXVEcUl1X2M2NXZTQXVYYUJ4UlNKWDFreGpFNnV1NFpmb3l5SGZlYzY?oc=5>
+
+### 波音、Lockheed、霍尼韦尔的首席执行官在白宫与特朗普会面，讨论武器生产问题
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-06-24 23:05
+- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMnRvVC1PSWZwVUhOdFh3bnBxREIzbTg3QzA4czNfRmV4VnR3TlJRSXFwa1huZ3JacnpQcTBxQU1UVGthclljOFlta3JCdFpxV01BLUFXZ2dlSk9rVkNjeXVVbmxGVEJxMzE2NnQ1aC1fZTd6YXg5VEF4YVJtZ1RmUTczX2sxMmpybXF2ai1GeWhRcDRaOVVRXzdwT0VUVjU2cVRZMGpVRGdldw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-25 08:19  (18 条)
+
+- **周杰伦** | 華語新歌流行榜2026.第24期TOP 10 <https://k.sina.com.cn/article_1695976033_m65168a6103301eyro.html>
+- **周杰伦** | 粉丝携vivo X300 Ultra赴鸟巢拍摄周杰伦演唱会 <https://k.sina.com.cn/article_1906286443_719f9f6b04001lqbu.html>
+- **周杰伦** | 周杰伦演唱会开放鸟巢监工岗位，未购票者可参与 <https://k.sina.com.cn/article_5897618643_15f8684d304001alyq.html>
+- **特朗普** | 特朗普拒签住房法案施压共和党参议员，投票限制之争引爆党内裂痕 <https://news.google.com/rss/articles/CBMiowFBVV95cUxOQlV4OE9IS0hnSUlUeDlDMUVlZzAzRVRvc3JHTlJkWEVVRWRqelpSRXdOOGRvUzdOZExZbEFfME11MmpWR2xucXBoeHAtNGJrcmxNY3hZck54X1UtYWQ3TDladWFCSzQ3ZzNMZW5OVktWaDVvLTZnUUZabmNDYVF2cENZbmx0dXR2LUJxVnVwbV8wZFZub29ZVkl0eU1kWDRPcDFN?oc=5>
+- **特朗普** | 离谱！特朗普激情喊话，台下观众却纷纷转身离开 <https://news.google.com/rss/articles/CBMiggFBVV95cUxNYlp0UmE0RS1uV1dxREZHekwyRVMtc1ZwakZha3ZSb0lpUzJiXzhZRmp5ek94UE1scXo5em5iQmhiUUNCMDVBNWNfS094Uk15TnFEUkFZbjBkN0xHd0wzZmppZ2I2eEV6Y3IzeVk3NlJRRFFwQXBQNTlmS3BpT003NWZB?oc=5>
+- **特朗普** | 特朗普：对意法德英很失望，希望北约盟友向我表忠心 <https://news.google.com/rss/articles/CBMiakFVX3lxTE1IajFqbTNoVWI3a0t5UWF5MjVnbzZmT2JoeFN6ZWxPZEU1clBuMmNYMy0wNjEzRHoyYzd2WmRuWXdPMU8ySW5IZF9sZjU0VXlOTi1iQUM5VDhSTHNhTGNhTFlNMTJ3MHBlYXc?oc=5>
+- **特朗普** | 特朗普称北约辜负了美国：对他们感到失望 <https://news.google.com/rss/articles/CBMia0FVX3lxTE1nRVRzRjk4QTcxRVhzVHVVcllWWFJDVlAwSVAtNDFrSFNmWkdsYVYwdnJSQ05fVHVmY1BJeldJM2VoZHFoVDV0ZjNYbzVpLWk2UU1kdTlaOXFLeHRObTQxSnZna2xXUVhwc1JB?oc=5>
+- **特朗普** | 委内瑞拉连续强震，特朗普发声 <https://news.google.com/rss/articles/CBMiWEFVX3lxTFBCN3JTWVIzVXRUOEhPN3A0enlkZUowR3J6TXpOVTBUT09TRUlrb2dVOEpfMnROQnpRbWZqTmthQlFKN2wyd2JTeDR0WGNHWUFNRW4wTVNTSXA?oc=5>
+- **特朗普** | 特朗普把华盛顿变成大工地：千万美元工程刚修好就返工，改造白宫还被起诉 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBGbktIWDNPbDZWY1RQeG8wanY3VU5qeWJiWFAtRGRfUm1JSHNwdi1TVlZXaWFQTVcxcjZfMVFVWnVtR3Q3aDZQblhrdTg?oc=5>
+- **特朗普** | 特朗普：可能永远无法查明是谁袭击了伊朗小学！没人故意那样做，犯错难免，战争是肮脏的 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yYzZ4M2NoekppNXN3VHQ4NDZWbnAtRjQybnlWRkthRkc3cWxsVDJTR0M2REtYSERBYXZ6Yi1uckxIa092MFAzRmg2NC10aXZwOW1JZ3NveF9lSjdtNXp5YmduU3JVZw?oc=5>
+- **特朗普** | 特朗普：不接受在霍尔木兹海峡的收费行为 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NR3lBeENvZDNBX09aWTNaTGZiSDJlSUlHWHJ2aEZHb2hqMHJsT0ltN3lTUVhDZ2Iyc0pIaTFSMUwxUG1CRXhaakxBRWtHVkdWb0ZLZXFTcHdfb2lCQVI0S2FmMW5rbnN6?oc=5>
+- **特朗普** | 特朗普：可能永远无法查明 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE90S1REQUxVaTFNWkdaOUJoaDA5M09CZFNFZWFteHlRQnRoaElVcld1bHl5NUhSamVqWUJPUHAzcU5KMmJmcTBFcE9YX0k?oc=5>
+- **特朗普** | 国际足联主席确认：特朗普将出席世界杯决赛，并向冠军球队颁奖 <https://news.google.com/rss/articles/CBMickFVX3lxTE9pTFRFaWtBLTJOWUpoVVpSLXNSUGJOa2lobHhQQnpaVnVKMmZxdnBGNE5tekdtZEdrM3J0bDRFMU5qQW5LeTBaRkFZb3Y2a1Nxajg4Nzk5OF9rX2M3ZUNyZXZDVjBtT0t1eWwwYW51T2tLZw?oc=5>
+- **Trump** | 土耳其军售案引发特朗普与国会对峙 <https://news.google.com/rss/articles/CBMipgFBVV95cUxOdTR1RElfRHYzN0Q1Tk5LTncwY2ZpbXdkWmJYZnlGdi1Ib3FOdV90MVVhXzZZWlc5eW9WNGEtTjMxd3ZMeHpGYXFUYzV3em4xT2Nrem1CTjltOGxGd2JBbkFya0hPMVRETXJqTEUydlNDM1o5RDF2cGV1WVdPaUV6QnJlUEhpb1VCQWdfMjhLTmRndUtCLV93cHRIWXI5akNGV3hEQXJR?oc=5>
+- **Trump** | 北约秘书长到访白宫_新浪新闻 <https://news.google.com/rss/articles/CBMiY0FVX3lxTE5OTlFXVEh5M3k3QlJpTTRuLXJLbmFNeTl6aHMwV210clBWNmdqaVdFNHQyNC1yNV9WTjRTRWg0a1hRci05TGJUMW9YZllaQWIxOWZsY3ZMMW5hMmYtc3IzbEkzdw?oc=5>
+- **Trump** | US President Trump: Iran agreed to highest level nuclear inspections long into future <https://news.google.com/rss/articles/CBMi6wFBVV95cUxORk82T3RmbE9QZFpzWG41RS1DMW1WMjNOZlJxUmdxbDR0QVVIaHM4Yl9mYXdJdnNiNURrNnlrUTI4NExQblBHRHV2S2FEa3c3N1ZrMmlGMGFDZmZxTWtSWUI4UWlubGpweDdidDRPeWM1aVlKSHBybVB3RWR4MDc3cXpUaFYzNEtmWXdHUXhPeWVRN2FUOFZUNzdPb2xWYzhxSmQtaHVtR1pZY3luR2x5MC0yV05IT0RNSXloUEJPal9GaUVuc2FMVXFXbWI4R0lvM1FidDA1bmZFdzlQWmFyRklaMFkxbk1sX05R?oc=5>
+- **Trump** | 特朗普“旋风一日”震惊共和党人：取消法案签字、痛斥议员、指责欧洲盟友 <https://news.google.com/rss/articles/CBMitAFBVV95cUxNd2Vpa3BELV9iWThMNTk2Slh4SzFrc2RqdldlR1dqdjM4cVFJMWxQRW9VcWdqWXl0QmM3SGdrMTBVeW8tWno4d3dqYnRQNGxFSXBDUGt3LW4wcElQNGZQV1pMbUxXeld3Z2VYZVktZFBiXzkzcjl3a25UaUVvMGNVSUZGREhCMk9OZWdQeXVEcUl1X2M2NXZTQXVYYUJ4UlNKWDFreGpFNnV1NFpmb3l5SGZlYzY?oc=5>
+- **Trump** | 波音、Lockheed、霍尼韦尔的首席执行官在白宫与特朗普会面，讨论武器生产问题 <https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMnRvVC1PSWZwVUhOdFh3bnBxREIzbTg3QzA4czNfRmV4VnR3TlJRSXFwa1huZ3JacnpQcTBxQU1UVGthclljOFlta3JCdFpxV01BLUFXZ2dlSk9rVkNjeXVVbmxGVEJxMzE2NnQ1aC1fZTd6YXg5VEF4YVJtZ1RmUTczX2sxMmpybXF2ai1GeWhRcDRaOVVRXzdwT0VUVjU2cVRZMGpVRGdldw?oc=5>
 
 ### 2026-06-25 04:42  (4 条)
 
