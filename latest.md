@@ -1,162 +1,51 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-25 20:52**
-- 本轮扫到 4483 条, 新增 **22** 条
+- 最近更新: **2026-06-25 22:17**
+- 本轮扫到 4487 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (22 条)
+## 本轮新发现 (4 条)
 
-### 周杰伦下一场演唱会计划是在哪里举办？
+### 王一博窦靖童香奈儿大片什么时候正式发布？
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801qzjs.html>
+
+### 新浪演唱会热点小时报丨2026年06月26日05时_今日实时演唱会热点速递
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801r24c.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907e0wi.html>
 
-### 买周杰伦演唱会非官方票有哪些坑？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801r23s.html>
-
-### 周杰伦演唱会没抢到票该怎么办？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801r23q.html>
-
-### 周杰伦演唱会找代拍蹲票会被骗吗？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801r23o.html>
-
-### 没票去周杰伦演唱会场外听歌体验好吗？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801r23g.html>
-
-### 周杰伦演唱会非官方蹲票，为什么完全不靠谱？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801r23e.html>
-
-### 歌迷对周杰伦超时返场被罚怎么看？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801r23a.html>
-
-### 其他歌手演唱会超时也会被场馆罚款吗？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801r234.html>
-
-### 这次周杰伦演唱会超时的罚款金额是多少？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801r236.html>
-
-### 周杰伦多次演唱会返场超时，主办方被罚
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801r22y.html>
-
-### 周杰伦鸟巢演唱会为何抢票难度这么大？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801r22w.html>
-
-### 周杰伦演唱会能找黄牛买进场门票吗？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801r22u.html>
-
-### 主办方劝退无票歌迷！周杰伦鸟巢演唱会一票难求
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801r22a.html>
-
-### 周杰伦演唱会重映火爆！超过1500万歌迷预约观看
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907dgro.html>
-
-### 周杰伦演唱会重映超1545万歌迷预约
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907dgaw.html>
-
-### 特朗普临时取消对住房法案的签署 与参议院共和党人矛盾升级
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-25 18:09
-- 链接: <https://news.google.com/rss/articles/CBMijwJBVV95cUxObGNXNUFSdnlCN3pZMnBzWlFuZ2x5dHo0bzNWbUZ3bTRBdi04MEtId3V1d1VURmFFSEtXdFlfanU1NU91Wk96THN1b3lFTjA3MU5JRlJGaXVTdnVHSTVpZWs3SmQ0QXdrYjN1RW9hNEF5VzhOS0Y4TUwtektnUkVxdUxTMDNFLTlpZkt0S255ZmRSLVV4Wk9LYTV5Q2VDSnRwRFdFOXFZdG1kYVdRcXRlUGcyT1JKYnNMcnVlTFRLdm8yU1lxYnJZLUtDcGRjcU82OVlkODgxbXJJdjZNc0JrRmRsalYwclI2UTl1S0FDcE11TFpxU1JidG5PbW1rS05jdTZSbnhueG0yRXpTWFNR?oc=5>
-
-### 特朗普拒签住房法案 与心生不满的同党参议员爆口角
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-25 02:43
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVldCWEtrMlEwM0lGZnl4LUMzaDYzZncyRUJYTGRBZUkxOXE3dG11VU44SG4wbHBQclU5RUlFM1JKMEI2YVF1NzliQi1rTGhVTW95VWhWTnI1Nng0dmZvbzh5QTdidUhNZjRORWU1TllWdllZUWlHYWVDYkFWMTdVaFJTcDlBa0dCcnBoS2lzM1g0Y3UyeGtuVS1HaWczUDFiNjQ5bWFqVTdBVGVzVXhxa1NycTFfdVdrdU5Ta2ZheDBGZFZFczBySVg3aUdoVnZjb3U3U21MRElTelV1S3dN?oc=5>
-
-### 爆料！“有人反水，特朗普怒不可遏”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-06-25 14:24
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE0zUlgyMFM0N1RxaUs5eUdPOFM1dTh2TnV3QWVQU3JUUVh6azJwTWpQMm54cGI3YmhSU091VHdxNGdmdElFeTFOZ21ZakNJcXptMHRYQkRnUnJhb0FEX1FhQ1NZS3loTGl4T1F2Zld5STJiUXpDdHRqZQ?oc=5>
-
-### 特朗普吹嘘：埃尔多安本来要帮伊朗，我一句话就阻止了他-观察者网
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-06-25 03:47
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBybVVObk1lcXlRWU9wd2tZS1lvbjRCNkUxalVyRFJEZ1RuRjBnczhCZGhJUGIyN2xRMGZGWElZN19SaUlLYTJwTzhGWW1NWnpyV0thenJDczRPa21IVGlfQkV0NFhRTTJqOFE?oc=5>
-
-### 委内瑞拉遭遇百年强震，死亡人数恐过万，特朗普发声
+### 念念不忘“未获支持”，特朗普又点名抱怨意英德法西五国：我很失望
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-06-25 04:23
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBkcGhjdGFKYUh3Qk5WaElxMnVQamd6c0lHRkxHY2ZwVm5hYjBJb3k1R2lXRTJxYUx0cTY1aGdpRnlDbjFWNUNLMFRFSTI?oc=5>
+- 时间: 2026-06-25 11:41
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBtemRmVktreXNrTlVoWXFBaFhNM2NoRHFYank1TEVSVE9SbnNqdkhSQ1Jab0Z2UmluUXNySDl5ZUMwUXp4Y05tcy1FNFg?oc=5>
 
-### 特朗普政府遭反对，要求国会追加670亿美元给五角大楼用于采购军火等需求
+### 美民调：逾7成认留在北约攸关国安
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 每日经济新闻
-- 时间: 2026-06-25 13:14
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9NT2pkTmUzc2lJOTBlYngtRUtkSmVlM2dQeGRlQ1IzY2NZQlQyd1ZnU21iakFDV0hhd05jVExvODByelVDNWh6NGFzMXJhYUpLeWRpX0w4eV9KeFFFU1gyNlZnRVpVQQ?oc=5>
-
-### 特朗普再谈伊朗女校遇袭 英媒说真相将被掩盖
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-06-25 14:43
-- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZC1OUlZxdkdkZWNsTDRyNDhxRTR0LTUwd0J4Z25XNWdpaWlGRlBpLWphX0twZ25CM2tfbm1JMko2NXduM01yQ2h1Sm9TYlc5QkdLN0RCSW1ybzJINGdKQVJzcVV3ZjQyTjBEVk5EQ1JZbURhX2NCbmxHMTZHaDk1T2cyUVlWZnBy?oc=5>
+- 场馆: RFI
+- 时间: 2026-06-25 20:57
+- 链接: <https://news.google.com/rss/articles/CBMiigJBVV95cUxQeEh1TTVCMnpVTVlpeFNJTmtTazlNRVR6a1RYTEg2NXI3UUtJeG1mcjZndzJQZHhJN2pxbG1aMDhMRTVpamdBa0tkNWx3TEw1ZFNtQ21jaE9KTGUyYXVaWEMxS3k0NENORFZYaWdkcHBUMUtnOFRESEwydHBGSEV4X0N3VkRZTmN1aC1lZWJab0VtN3BEYk9jVmpXZzJIU3J0NlEtY3VmYWdWZUtROGN3NlBTd1pFNWJ1bk1DMjRYUlRJczFUNkc5M3FqOGFaUjRrT1VvQzRzeGFpVkdfSGNJdmJnTWYzRnhodDYzdFFNM1JUeVduTVNxeW41OHRuNXFnM3NKWnpTaElxUQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-25 22:17  (4 条)
+
+- **王一博** | 王一博窦靖童香奈儿大片什么时候正式发布？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801qzjs.html>
+- **周杰伦** | 新浪演唱会热点小时报丨2026年06月26日05时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001907e0wi.html>
+- **特朗普** | 念念不忘“未获支持”，特朗普又点名抱怨意英德法西五国：我很失望 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBtemRmVktreXNrTlVoWXFBaFhNM2NoRHFYank1TEVSVE9SbnNqdkhSQ1Jab0Z2UmluUXNySDl5ZUMwUXp4Y05tcy1FNFg?oc=5>
+- **Trump** | 美民调：逾7成认留在北约攸关国安 <https://news.google.com/rss/articles/CBMiigJBVV95cUxQeEh1TTVCMnpVTVlpeFNJTmtTazlNRVR6a1RYTEg2NXI3UUtJeG1mcjZndzJQZHhJN2pxbG1aMDhMRTVpamdBa0tkNWx3TEw1ZFNtQ21jaE9KTGUyYXVaWEMxS3k0NENORFZYaWdkcHBUMUtnOFRESEwydHBGSEV4X0N3VkRZTmN1aC1lZWJab0VtN3BEYk9jVmpXZzJIU3J0NlEtY3VmYWdWZUtROGN3NlBTd1pFNWJ1bk1DMjRYUlRJczFUNkc5M3FqOGFaUjRrT1VvQzRzeGFpVkdfSGNJdmJnTWYzRnhodDYzdFFNM1JUeVduTVNxeW41OHRuNXFnM3NKWnpTaElxUQ?oc=5>
 
 ### 2026-06-25 20:52  (22 条)
 
