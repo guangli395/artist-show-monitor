@@ -1,44 +1,92 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-25 22:17**
-- 本轮扫到 4487 条, 新增 **4** 条
+- 最近更新: **2026-06-25 23:50**
+- 本轮扫到 4496 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (9 条)
 
-### 王一博窦靖童香奈儿大片什么时候正式发布？
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801qzjs.html>
-
-### 新浪演唱会热点小时报丨2026年06月26日05时_今日实时演唱会热点速递
+### 新浪演唱会热点小时报丨2026年06月26日07时_今日实时演唱会热点速递
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907e0wi.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907e7g4.html>
 
-### 念念不忘“未获支持”，特朗普又点名抱怨意英德法西五国：我很失望
+### 这次周杰伦演唱会门票真的开票就秒空吗？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801r0lm.html>
+
+### 周杰伦北京演唱会后续还会再加场吗？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801r0lk.html>
+
+### 周杰伦北京演唱会为什么劝退无票歌迷？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801r0li.html>
+
+### 特朗普与“反水”共和党参议员起争执
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-06-25 11:41
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBtemRmVktreXNrTlVoWXFBaFhNM2NoRHFYank1TEVSVE9SbnNqdkhSQ1Jab0Z2UmluUXNySDl5ZUMwUXp4Y05tcy1FNFg?oc=5>
+- 场馆: 新华网
+- 时间: 2026-06-25 11:57
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9CYjViVDh3aVpGNVVoT1dEQ0lYandLeUhYR3c5emJyZXdtZjYwclVxN3RxNzl0Vmdua3RIYXBnNFdOdjhmeVVwZ2s1dU9kWlUtMGcxMmQ0NkgwX3RBU1gzbUtlOXdDeVNsSW1ad1ZzbjBZbXJsa2pXTWxWektxVWM?oc=5>
 
-### 美民调：逾7成认留在北约攸关国安
+### 特朗普炮轰石油公司：消费者正在被“宰割”，汽油价格最好赶紧下降，我已指示司法部立即展开调查
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-06-25 20:57
-- 链接: <https://news.google.com/rss/articles/CBMiigJBVV95cUxQeEh1TTVCMnpVTVlpeFNJTmtTazlNRVR6a1RYTEg2NXI3UUtJeG1mcjZndzJQZHhJN2pxbG1aMDhMRTVpamdBa0tkNWx3TEw1ZFNtQ21jaE9KTGUyYXVaWEMxS3k0NENORFZYaWdkcHBUMUtnOFRESEwydHBGSEV4X0N3VkRZTmN1aC1lZWJab0VtN3BEYk9jVmpXZzJIU3J0NlEtY3VmYWdWZUtROGN3NlBTd1pFNWJ1bk1DMjRYUlRJczFUNkc5M3FqOGFaUjRrT1VvQzRzeGFpVkdfSGNJdmJnTWYzRnhodDYzdFFNM1JUeVduTVNxeW41OHRuNXFnM3NKWnpTaElxUQ?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-06-25 23:24
+- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxOQk1FQ2dfdUw1YUI0UGoxWWxSS0hIcS1LaF9jSUtxVWY3bWlsMTBUMk9iQ1hNYVQ3QWZDVzk0N21PNkp0UW9QcUY4ZWwyblBWV3hzSE4wZHN6MkhCRnVaR05vTXJfTTlwakdOYWNhd0k3clNFUFAyeVV1cTAtcEJES0NTUWVmazVxRHdrTzg0aG8ySFl2MThEeQ?oc=5>
+
+### 霍尔木兹海峡重开，原油供给飙升，特朗普明确表态“不接受任何航运费用”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-06-25 00:06
+- 链接: <https://news.google.com/rss/articles/CBMi5AFBVV95cUxOeHlKQXBWOW41UUpmOUk2U3JmRndxbXFMTExoeGgxeFVTVE5Mb3VYX0hHWGhqOVc2OUhNaGJ1YXByOFFQZWFQWHczR1Bwa0FBdUo1amxVUGFyNFVxdEM3ODVaMG4xRUZUUDU5ZTVLc2p4U2Izc0xteW5VMy1xLVlkOHotWlcyTW5rTG5sbVc0RVJYSEVSYkJGSWU4Z3lXVzg1LUNuMnFTXzkxN1dvcFZCUDBhdDNHU3ZPMHJCR1l2WTNEb2NUN050TWNfQThCbHJaN01iQW9iQWtuX1BCUVRObERNbzA?oc=5>
+
+### 特朗普称对北约成员国感到“失望”，北约秘书长吕特借展板劝说
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 环球网
+- 时间: 2026-06-25 07:39
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE9LT1BRaVpZaWdsemQxNlhfbExZb2NsLW9zcnRuckFJb19fbDV6SEVNZ2dqSWYtTGZZLWxBc2NMZkpoc0tkZXpkYVNYQ1pCcmtBcXphNlVUTk0?oc=5>
+
+### 特朗普怒斥“反水”议员，鲁比奥安抚海湾盟友，美对伊战事深陷国内外争议
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 环球网
+- 时间: 2026-06-25 07:54
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lRkNCcEZqVjdtNU9tc1R0alJqdWxYbExhS2FRZTNyaHdyOGlMdW9kbFZ0bTF6OFdEaXVxc1ptTExkQUltMzU4UFBVVHc3a2hBTUJRZ21xTXo?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-25 23:50  (9 条)
+
+- **周杰伦** | 新浪演唱会热点小时报丨2026年06月26日07时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001907e7g4.html>
+- **周杰伦** | 这次周杰伦演唱会门票真的开票就秒空吗？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801r0lm.html>
+- **周杰伦** | 周杰伦北京演唱会后续还会再加场吗？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801r0lk.html>
+- **周杰伦** | 周杰伦北京演唱会为什么劝退无票歌迷？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801r0li.html>
+- **特朗普** | 特朗普与“反水”共和党参议员起争执 <https://news.google.com/rss/articles/CBMif0FVX3lxTE9CYjViVDh3aVpGNVVoT1dEQ0lYandLeUhYR3c5emJyZXdtZjYwclVxN3RxNzl0Vmdua3RIYXBnNFdOdjhmeVVwZ2s1dU9kWlUtMGcxMmQ0NkgwX3RBU1gzbUtlOXdDeVNsSW1ad1ZzbjBZbXJsa2pXTWxWektxVWM?oc=5>
+- **特朗普** | 特朗普炮轰石油公司：消费者正在被“宰割”，汽油价格最好赶紧下降，我已指示司法部立即展开调查 <https://news.google.com/rss/articles/CBMimAFBVV95cUxOQk1FQ2dfdUw1YUI0UGoxWWxSS0hIcS1LaF9jSUtxVWY3bWlsMTBUMk9iQ1hNYVQ3QWZDVzk0N21PNkp0UW9QcUY4ZWwyblBWV3hzSE4wZHN6MkhCRnVaR05vTXJfTTlwakdOYWNhd0k3clNFUFAyeVV1cTAtcEJES0NTUWVmazVxRHdrTzg0aG8ySFl2MThEeQ?oc=5>
+- **特朗普** | 霍尔木兹海峡重开，原油供给飙升，特朗普明确表态“不接受任何航运费用” <https://news.google.com/rss/articles/CBMi5AFBVV95cUxOeHlKQXBWOW41UUpmOUk2U3JmRndxbXFMTExoeGgxeFVTVE5Mb3VYX0hHWGhqOVc2OUhNaGJ1YXByOFFQZWFQWHczR1Bwa0FBdUo1amxVUGFyNFVxdEM3ODVaMG4xRUZUUDU5ZTVLc2p4U2Izc0xteW5VMy1xLVlkOHotWlcyTW5rTG5sbVc0RVJYSEVSYkJGSWU4Z3lXVzg1LUNuMnFTXzkxN1dvcFZCUDBhdDNHU3ZPMHJCR1l2WTNEb2NUN050TWNfQThCbHJaN01iQW9iQWtuX1BCUVRObERNbzA?oc=5>
+- **特朗普** | 特朗普称对北约成员国感到“失望”，北约秘书长吕特借展板劝说 <https://news.google.com/rss/articles/CBMiWEFVX3lxTE9LT1BRaVpZaWdsemQxNlhfbExZb2NsLW9zcnRuckFJb19fbDV6SEVNZ2dqSWYtTGZZLWxBc2NMZkpoc0tkZXpkYVNYQ1pCcmtBcXphNlVUTk0?oc=5>
+- **特朗普** | 特朗普怒斥“反水”议员，鲁比奥安抚海湾盟友，美对伊战事深陷国内外争议 <https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lRkNCcEZqVjdtNU9tc1R0alJqdWxYbExhS2FRZTNyaHdyOGlMdW9kbFZ0bTF6OFdEaXVxc1ptTExkQUltMzU4UFBVVHc3a2hBTUJRZ21xTXo?oc=5>
 
 ### 2026-06-25 22:17  (4 条)
 
