@@ -1,60 +1,187 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-25 18:30**
-- 本轮扫到 4461 条, 新增 **6** 条
+- 最近更新: **2026-06-25 20:52**
+- 本轮扫到 4483 条, 新增 **22** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (22 条)
 
-### 周杰伦北京演唱会官方劝退无票歌迷引热议
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801r0ku.html>
-
-### 周杰伦演唱会现场劝退无票歌迷引热议
+### 周杰伦下一场演唱会计划是在哪里举办？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301cmb4.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801r24c.html>
 
-### 特朗普取消签署两党住房法案，要求加入选民身份认证相关条款
+### 买周杰伦演唱会非官方票有哪些坑？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: Sina finance
-- 时间: 2026-06-24 14:59
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxOalp0dVVTbXE1V1FOYU9VYTVMVnFpVjVFdXlEbDZ5WXJQSXBad3hvbDZYOU50VnJ6b2l1QXZMdGE2TXVxeHZWNFM5eS1wU3J1dUJBNHEwNVVtM1NCTnRDN0hzcmhoS0tIM1VTZzA2enRCU0pvbTRlb2ZvSFhxckdQLThRWGVDRGM?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801r23s.html>
 
-### 美国驻意大使紧急灭火 称特朗普与梅洛尼的冲突未破坏两国关系
+### 周杰伦演唱会没抢到票该怎么办？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-25 17:09
-- 链接: <https://news.google.com/rss/articles/CBMinwJBVV95cUxONlBLanRTYk54eFUtUzJ6SUFUNHV5R0FXRmMxTDh1ekU3d1k5VldWY2wxVlhXT3ViV01HaGVGMVFGYTJmR1RndzBJY29yZFhBc2YySUtNSjZjeUUzRHJDV3hpM0xiSk5QaUJwMmFRSGRJNjFxLVRLa0Nma0VHNFFOQXZDOEdZb0pSNlNTT3dQaFhCZkt4b0ZKSjlqc05LQzRid0pybXo4VG1OeGtaaU0ybjYyQ2hzcmFRY1FEcktmSVB0U01xclE1dkZpb1ZxQlJNMnYzZ1MtVjltRS00RDFVbWFlYVNzSUdIVDk0M05jTlNrQTV6YTNhbWJMNmkyQ0xTbTQzeDZCNUNTV0RuZ2JuVWYyS1hGejUzLTFCRDJLRQ?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801r23q.html>
 
-### 华泰期货：地缘风险逐步出清 特朗普仍在强调降息
+### 周杰伦演唱会找代拍蹲票会被骗吗？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-25 17:15
-- 链接: <https://news.google.com/rss/articles/CBMisAFBVV95cUxPMWRMakF5MXhsQUNRc1ZFMER2cDNtbDB0MnVKa1V4TEdSazFKWUROV2w3RHpuR0w0cXJEejdnelhORGN5WTdqT0NLOW1FbDgxVHBMcGhVc1YzSHpYVDZYQWRpdXU2UGRLQzFBanhSZUl6MVdDTGV2OXJob2FwZnlPVG9IcXA5WXpfcW1tdlowSGpIOF9vZXJpMXBxVnZsdEE3aFpjVGMzTjNzVzRBOW5uOQ?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801r23o.html>
+
+### 没票去周杰伦演唱会场外听歌体验好吗？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801r23g.html>
+
+### 周杰伦演唱会非官方蹲票，为什么完全不靠谱？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801r23e.html>
+
+### 歌迷对周杰伦超时返场被罚怎么看？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801r23a.html>
+
+### 其他歌手演唱会超时也会被场馆罚款吗？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801r234.html>
+
+### 这次周杰伦演唱会超时的罚款金额是多少？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801r236.html>
+
+### 周杰伦多次演唱会返场超时，主办方被罚
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801r22y.html>
+
+### 周杰伦鸟巢演唱会为何抢票难度这么大？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801r22w.html>
+
+### 周杰伦演唱会能找黄牛买进场门票吗？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801r22u.html>
+
+### 主办方劝退无票歌迷！周杰伦鸟巢演唱会一票难求
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801r22a.html>
+
+### 周杰伦演唱会重映火爆！超过1500万歌迷预约观看
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907dgro.html>
+
+### 周杰伦演唱会重映超1545万歌迷预约
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907dgaw.html>
 
 ### 特朗普临时取消对住房法案的签署 与参议院共和党人矛盾升级
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-25 18:00
-- 链接: <https://news.google.com/rss/articles/CBMijwJBVV95cUxPZ2F4VUZwTlcxbWdPem9LOUE5YlRaVXNPc2FlSnk5ZXI4bFFjTmNad2VuUG1uamVLSmVpb1NNcy00ekRZX3AwMEI1endDbGxhaHhpcE96dDRYbHI0aGhpbmdRajFabjdGQTYzQmdydlZrYURvaVoxRV83M2hpQTJkV1ltVGpHTUVZd2VQYnNvc1pWRkw2bnJDaWpEdDZDRHhHUnRBSmp0RmIxaTlyeUltNThuMlBoaE9id2VFbGF2Ui1xb1ctdHBjOGprOU9aa05tbHF2cHVJbXI1anZMMzB5cldKN25MQ2VwYXFZZWRvOXotQVBORURaWjZZOU9TQ1ZvcFhKM2hHcGFHWFBkSFQ4?oc=5>
+- 时间: 2026-06-25 18:09
+- 链接: <https://news.google.com/rss/articles/CBMijwJBVV95cUxObGNXNUFSdnlCN3pZMnBzWlFuZ2x5dHo0bzNWbUZ3bTRBdi04MEtId3V1d1VURmFFSEtXdFlfanU1NU91Wk96THN1b3lFTjA3MU5JRlJGaXVTdnVHSTVpZWs3SmQ0QXdrYjN1RW9hNEF5VzhOS0Y4TUwtektnUkVxdUxTMDNFLTlpZkt0S255ZmRSLVV4Wk9LYTV5Q2VDSnRwRFdFOXFZdG1kYVdRcXRlUGcyT1JKYnNMcnVlTFRLdm8yU1lxYnJZLUtDcGRjcU82OVlkODgxbXJJdjZNc0JrRmRsalYwclI2UTl1S0FDcE11TFpxU1JidG5PbW1rS05jdTZSbnhueG0yRXpTWFNR?oc=5>
+
+### 特朗普拒签住房法案 与心生不满的同党参议员爆口角
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-06-25 02:43
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVldCWEtrMlEwM0lGZnl4LUMzaDYzZncyRUJYTGRBZUkxOXE3dG11VU44SG4wbHBQclU5RUlFM1JKMEI2YVF1NzliQi1rTGhVTW95VWhWTnI1Nng0dmZvbzh5QTdidUhNZjRORWU1TllWdllZUWlHYWVDYkFWMTdVaFJTcDlBa0dCcnBoS2lzM1g0Y3UyeGtuVS1HaWczUDFiNjQ5bWFqVTdBVGVzVXhxa1NycTFfdVdrdU5Ta2ZheDBGZFZFczBySVg3aUdoVnZjb3U3U21MRElTelV1S3dN?oc=5>
+
+### 爆料！“有人反水，特朗普怒不可遏”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-06-25 14:24
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE0zUlgyMFM0N1RxaUs5eUdPOFM1dTh2TnV3QWVQU3JUUVh6azJwTWpQMm54cGI3YmhSU091VHdxNGdmdElFeTFOZ21ZakNJcXptMHRYQkRnUnJhb0FEX1FhQ1NZS3loTGl4T1F2Zld5STJiUXpDdHRqZQ?oc=5>
+
+### 特朗普吹嘘：埃尔多安本来要帮伊朗，我一句话就阻止了他-观察者网
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-06-25 03:47
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBybVVObk1lcXlRWU9wd2tZS1lvbjRCNkUxalVyRFJEZ1RuRjBnczhCZGhJUGIyN2xRMGZGWElZN19SaUlLYTJwTzhGWW1NWnpyV0thenJDczRPa21IVGlfQkV0NFhRTTJqOFE?oc=5>
+
+### 委内瑞拉遭遇百年强震，死亡人数恐过万，特朗普发声
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-06-25 04:23
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBkcGhjdGFKYUh3Qk5WaElxMnVQamd6c0lHRkxHY2ZwVm5hYjBJb3k1R2lXRTJxYUx0cTY1aGdpRnlDbjFWNUNLMFRFSTI?oc=5>
+
+### 特朗普政府遭反对，要求国会追加670亿美元给五角大楼用于采购军火等需求
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 每日经济新闻
+- 时间: 2026-06-25 13:14
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9NT2pkTmUzc2lJOTBlYngtRUtkSmVlM2dQeGRlQ1IzY2NZQlQyd1ZnU21iakFDV0hhd05jVExvODByelVDNWh6NGFzMXJhYUpLeWRpX0w4eV9KeFFFU1gyNlZnRVpVQQ?oc=5>
+
+### 特朗普再谈伊朗女校遇袭 英媒说真相将被掩盖
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 搜狐网
+- 时间: 2026-06-25 14:43
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZC1OUlZxdkdkZWNsTDRyNDhxRTR0LTUwd0J4Z25XNWdpaWlGRlBpLWphX0twZ25CM2tfbm1JMko2NXduM01yQ2h1Sm9TYlc5QkdLN0RCSW1ybzJINGdKQVJzcVV3ZjQyTjBEVk5EQ1JZbURhX2NCbmxHMTZHaDk1T2cyUVlWZnBy?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-25 20:52  (22 条)
+
+- **周杰伦** | 周杰伦下一场演唱会计划是在哪里举办？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801r24c.html>
+- **周杰伦** | 买周杰伦演唱会非官方票有哪些坑？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801r23s.html>
+- **周杰伦** | 周杰伦演唱会没抢到票该怎么办？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801r23q.html>
+- **周杰伦** | 周杰伦演唱会找代拍蹲票会被骗吗？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801r23o.html>
+- **周杰伦** | 没票去周杰伦演唱会场外听歌体验好吗？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801r23g.html>
+- **周杰伦** | 周杰伦演唱会非官方蹲票，为什么完全不靠谱？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801r23e.html>
+- **周杰伦** | 歌迷对周杰伦超时返场被罚怎么看？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801r23a.html>
+- **周杰伦** | 其他歌手演唱会超时也会被场馆罚款吗？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801r234.html>
+- **周杰伦** | 这次周杰伦演唱会超时的罚款金额是多少？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801r236.html>
+- **周杰伦** | 周杰伦多次演唱会返场超时，主办方被罚 <https://k.sina.com.cn/article_7879776328_1d5abd84806801r22y.html>
+- **周杰伦** | 周杰伦鸟巢演唱会为何抢票难度这么大？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801r22w.html>
+- **周杰伦** | 周杰伦演唱会能找黄牛买进场门票吗？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801r22u.html>
+- **周杰伦** | 主办方劝退无票歌迷！周杰伦鸟巢演唱会一票难求 <https://k.sina.com.cn/article_7879776328_1d5abd84806801r22a.html>
+- **周杰伦** | 周杰伦演唱会重映火爆！超过1500万歌迷预约观看 <https://k.sina.com.cn/article_7857201856_1d45362c001907dgro.html>
+- **周杰伦** | 周杰伦演唱会重映超1545万歌迷预约 <https://k.sina.com.cn/article_7857201856_1d45362c001907dgaw.html>
+- **特朗普** | 特朗普临时取消对住房法案的签署 与参议院共和党人矛盾升级 <https://news.google.com/rss/articles/CBMijwJBVV95cUxObGNXNUFSdnlCN3pZMnBzWlFuZ2x5dHo0bzNWbUZ3bTRBdi04MEtId3V1d1VURmFFSEtXdFlfanU1NU91Wk96THN1b3lFTjA3MU5JRlJGaXVTdnVHSTVpZWs3SmQ0QXdrYjN1RW9hNEF5VzhOS0Y4TUwtektnUkVxdUxTMDNFLTlpZkt0S255ZmRSLVV4Wk9LYTV5Q2VDSnRwRFdFOXFZdG1kYVdRcXRlUGcyT1JKYnNMcnVlTFRLdm8yU1lxYnJZLUtDcGRjcU82OVlkODgxbXJJdjZNc0JrRmRsalYwclI2UTl1S0FDcE11TFpxU1JidG5PbW1rS05jdTZSbnhueG0yRXpTWFNR?oc=5>
+- **特朗普** | 特朗普拒签住房法案 与心生不满的同党参议员爆口角 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVldCWEtrMlEwM0lGZnl4LUMzaDYzZncyRUJYTGRBZUkxOXE3dG11VU44SG4wbHBQclU5RUlFM1JKMEI2YVF1NzliQi1rTGhVTW95VWhWTnI1Nng0dmZvbzh5QTdidUhNZjRORWU1TllWdllZUWlHYWVDYkFWMTdVaFJTcDlBa0dCcnBoS2lzM1g0Y3UyeGtuVS1HaWczUDFiNjQ5bWFqVTdBVGVzVXhxa1NycTFfdVdrdU5Ta2ZheDBGZFZFczBySVg3aUdoVnZjb3U3U21MRElTelV1S3dN?oc=5>
+- **特朗普** | 爆料！“有人反水，特朗普怒不可遏” <https://news.google.com/rss/articles/CBMieEFVX3lxTE0zUlgyMFM0N1RxaUs5eUdPOFM1dTh2TnV3QWVQU3JUUVh6azJwTWpQMm54cGI3YmhSU091VHdxNGdmdElFeTFOZ21ZakNJcXptMHRYQkRnUnJhb0FEX1FhQ1NZS3loTGl4T1F2Zld5STJiUXpDdHRqZQ?oc=5>
+- **特朗普** | 特朗普吹嘘：埃尔多安本来要帮伊朗，我一句话就阻止了他-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTFBybVVObk1lcXlRWU9wd2tZS1lvbjRCNkUxalVyRFJEZ1RuRjBnczhCZGhJUGIyN2xRMGZGWElZN19SaUlLYTJwTzhGWW1NWnpyV0thenJDczRPa21IVGlfQkV0NFhRTTJqOFE?oc=5>
+- **特朗普** | 委内瑞拉遭遇百年强震，死亡人数恐过万，特朗普发声 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBkcGhjdGFKYUh3Qk5WaElxMnVQamd6c0lHRkxHY2ZwVm5hYjBJb3k1R2lXRTJxYUx0cTY1aGdpRnlDbjFWNUNLMFRFSTI?oc=5>
+- **特朗普** | 特朗普政府遭反对，要求国会追加670亿美元给五角大楼用于采购军火等需求 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9NT2pkTmUzc2lJOTBlYngtRUtkSmVlM2dQeGRlQ1IzY2NZQlQyd1ZnU21iakFDV0hhd05jVExvODByelVDNWh6NGFzMXJhYUpLeWRpX0w4eV9KeFFFU1gyNlZnRVpVQQ?oc=5>
+- **特朗普** | 特朗普再谈伊朗女校遇袭 英媒说真相将被掩盖 <https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZC1OUlZxdkdkZWNsTDRyNDhxRTR0LTUwd0J4Z25XNWdpaWlGRlBpLWphX0twZ25CM2tfbm1JMko2NXduM01yQ2h1Sm9TYlc5QkdLN0RCSW1ybzJINGdKQVJzcVV3ZjQyTjBEVk5EQ1JZbURhX2NCbmxHMTZHaDk1T2cyUVlWZnBy?oc=5>
 
 ### 2026-06-25 18:30  (6 条)
 
