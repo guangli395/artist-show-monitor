@@ -1,82 +1,47 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-25 00:03**
-- 本轮扫到 4403 条, 新增 **9** 条
+- 最近更新: **2026-06-25 04:42**
+- 本轮扫到 4407 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (9 条)
+## 本轮新发现 (4 条)
 
-### 王一博AI工作室发布双语早安问候
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1663072851_m63207a5303301me3i.html>
-
-### 王一博AI灵感工作室发布双语早安内容
+### 杨紫谢娜等明星壁纸素材合集发布
 
 - 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://video.sina.com.cn/p/finance/2026-06-25/detail-inieqnce5795576.d.html>
+- 链接: <https://k.sina.com.cn/article_7879923563_m1d5ae176b03301rdie.html>
 
-### 新浪演唱会热点小时报丨2026年06月25日07时_今日实时演唱会热点速递
+### 周杰伦演唱会北京站的官方售票平台具体有哪些？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907bsyk.html>
+- 链接: <https://k.sina.com.cn/article_7880068208_1d5b04c7006801g49m.html>
 
-### 特朗普总统：霍尔木兹海峡免费开放 油价创新低
+### 欢子新歌持续走红，周杰伦公开示好
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-06-24 23:51
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE91T2JBMUVmVGxrT2piUk5rVms4UVZqZWhpMDNDelppOEpZM3N4cWhuYjdPNDhkU1B1QVhmajNsVGQ1Z0p6d2p5VjhIaTJmTEtCMzlTREdqc21XSHp4dVJXYnBVRVF4TnRyZW1WcmV3RGowZ9IBdEFVX3lxTFBHVXQxVDktS3pWdXRHajJSNG14eGp1WE51czViMDBwdmVsSHdYbXE2WFFWQlB1T3doR2FTQW9uQmxfSzNnZ3ZadU5tdVhuWGxVZ0hJTXMxT1JyVVlQZWpHajRrYVRqRU9wSGpDUTdNSFVIS0My?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_6579089274_m18824ef7a03301qhxc.html>
 
-### “48分钟赢下战争”，特朗普称委内瑞拉石油收益超军费28倍
+### 孙怡与恋爱综艺素人男嘉宾一同看周杰伦演唱会？孙怡辟谣：姐单身
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中国经济网
-- 时间: 2026-06-24 23:20
-- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTE9xMk43UDBhMzFhMnN1YV9hRXV6QmltZXJqRGJsTXNoaG1EQ3BOYTJUTnRGN21pTTJaZmlQNGctUmcyOFJmeTdQSnFDUkc2LThYU1psSXJnN0lUazBNcFM0Y3padw?oc=5>
-
-### 特朗普不满高油价，效仿拜登指责大型油企
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-06-24 23:53
-- 链接: <https://news.google.com/rss/articles/CBMipwJBVV95cUxQZXJxWmMwRTR4R2JkRHhwcm9VbGNMcEVTa002cVN0dUJ4RDRHLUJHcWx3bmh1Tnd5QjlhLXVrTFJDSWdCSXVOMHJyNTY4dk51bVc4N2REVlZoUXZpcnBQZmlQczNVSDgyYm1VRlhITkc1bDJ0NEl4TlRuLTNEQUJnZEthYkdpSUFtUUZvSV9MUWRXZ3dQcVJsTHN0cDRFV1V1ZlBFcjg3TUg1MU0xaWh5cF9rR001eGx2dTQwZW5yNEZfdlpfSzhJZzlKRlZYempucmw4dS1iWkVReFdsSGhRNUJ5M3F6d1F4b0F6NldqUkR6UmQwLXQ0RWVHTm1jelo2QmthaHQtLUtyZXZPZDdxXzJWaUhSX1BNUVdSYzM5ZllQeGtEaDl3?oc=5>
-
-### 特朗普总统：北约国家在伊朗问题上让美国“失望”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-06-24 22:47
-- 链接: <https://news.google.com/rss/articles/CBMirAFBVV95cUxNUGd4Q0ptSXFpN096d0lBVzhIcnVSN1BMeGxaNEFINFNibmlUd1NWRGFaWmM0UEUwNE1BTzFhdE5pVWN5dXpZSzdVX2JkZ0w0bWFjeHlqMl9ENkdpakZvOFJvaE5KUjRGVGs1d2s2MEtvaUpCRGVPNzZwNkM0dF9CWmxGZWJsYUd4aHZBajFLdTk4RU5ES3Fxa29CdWZTcW9pN2VUaWZ3b2ZUX3d00gGvAUFVX3lxTFBaLWJOVG5MeENTVXZtOHMtYnBMT1RUS1NhckV5elp5MEUwMW9JYlF2WDlheWFpN0NlQllYZldQRS1tNi1WcVhna1JmMFQ4ckxQRTdQSVlJeVJvQVI3VkJDR0xDOUpOREpHaTd4bDFZZEdOazg0aXFUN2Rkck8zekhRanNReURjN2ZqcmdYSWdPYTgzemtiNzZLajZwaDB0NkgtTGpYeTdfQTR1VmctUW8?oc=5>
-
-### 美法官驳回特朗普要求选民投票提供公民证明的命令
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-06-24 22:17
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBBRWtycUJfMF9sbjJDd2xXd2syUmVoVnpNMmdJb0dhakV4c1AzQ1VKdGFReVowb3R0d19vaGlqMEJoa1ZQNHZFZUtsd3BraFNraWRmcnFETF9ZV0ZwMXpTRHdmdkw5NHFX?oc=5>
-
-### 特朗普称国会限制总统战争权力“不合时宜”_央广网
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 央广网
-- 时间: 2026-06-24 05:29
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1TWU1uVE5TV2hvUXFwOWdOd25TSUN5QlZJRkNjQ05lbnRST0oteGV2cXVZeGFTb3dQUzBhZjhaeUthYm5lc2dpSWUyTENKLW42amhRUmJ6OHpNcTJnbWgydnMweUQxQkFE?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907c50e.html>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-25 04:42  (4 条)
+
+- **王一博** | 杨紫谢娜等明星壁纸素材合集发布 <https://k.sina.com.cn/article_7879923563_m1d5ae176b03301rdie.html>
+- **周杰伦** | 周杰伦演唱会北京站的官方售票平台具体有哪些？ <https://k.sina.com.cn/article_7880068208_1d5b04c7006801g49m.html>
+- **周杰伦** | 欢子新歌持续走红，周杰伦公开示好 <https://k.sina.com.cn/article_6579089274_m18824ef7a03301qhxc.html>
+- **周杰伦** | 孙怡与恋爱综艺素人男嘉宾一同看周杰伦演唱会？孙怡辟谣：姐单身 <https://k.sina.com.cn/article_7857201856_1d45362c001907c50e.html>
 
 ### 2026-06-25 00:03  (9 条)
 
