@@ -1,174 +1,116 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-26 15:12**
-- 本轮扫到 4618 条, 新增 **25** 条
+- 最近更新: **2026-06-26 17:14**
+- 本轮扫到 4631 条, 新增 **13** 条
 
 ---
 
-## 本轮新发现 (25 条)
+## 本轮新发现 (13 条)
 
-### 新浪演唱会热点小时报丨2026年06月26日23时_今日实时演唱会热点速递
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907g2zq.html>
-
-### 新浪演唱会热点小时报丨2026年06月26日22时_今日实时演唱会热点速递
+### 新浪演唱会热点小时报丨2026年06月27日01时_今日实时演唱会热点速递
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907g2r0.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907g74m.html>
 
-### 周杰伦鸟巢演唱会今晚开唱国风元素拉满
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6351705477_m17a97558503302ho20.html>
-
-### 周杰伦带昆凌抵达香港演唱会 完整行程嘉宾详情
+### 新浪演唱会热点小时报丨2026年06月27日00时_今日实时演唱会热点速递
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rfc4.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907g57m.html>
 
-### 新浪演唱会热点小时报丨2026年06月26日21时_今日实时演唱会热点速递
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907g2gy.html>
-
-### 周杰伦鸟巢演唱会票价定价合理吗？
+### 周杰伦2016新歌《一点点》mp3下载歌词完整在线试听+钢琴谱
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rf16.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907g53w.html>
 
-### 如何获取周杰伦鸟巢演唱会退票回流票？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rf1g.html>
-
-### 周杰伦鸟巢演唱会嘉宾都有谁？
+### 周杰伦新歌MV两女儿抢镜，昆凌曝带娃细节：养三娃，天王也得疯
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rf12.html>
+- 链接: <https://k.sina.com.cn/article_5952915720_162d24908067049emm.html>
 
-### 周杰伦鸟巢演唱会还会有加场开票吗？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rf10.html>
-
-### 周杰伦鸟巢演唱会今晚开唱，周杰伦演唱会鸟巢变成粉色海洋
+### 现场爆料太惊喜，周杰伦亲口坦言从业至今，从来没有办过白天场次的演唱会
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6351705477_m17a97558503302ho18.html>
+- 链接: <https://k.sina.com.cn/article_1266269835_m4b79be8b03301apty.html>
 
-### 周杰伦《简单爱》鸟巢第一天，白天演唱会感觉不错哦！
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1828960842_m6d03ba4a03301s3ac.html>
-
-### 周杰伦鸟巢演唱会章若楠现身观众席
+### 章若楠现身周杰伦演唱会，背小书包萌态十足
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6579088986_m18824ee5a03308q48y.html>
+- 链接: <https://k.sina.com.cn/article_3314422837_c58e143504001g9ks.html>
 
-### 哇噻！章若楠去看周杰伦演唱会了！玩得好开心呀
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_3725773862_mde12cc2603301skjk.html>
-
-### 周杰伦演唱会出现撞脸观众,相似度拉满引热议
+### 周杰伦演唱会出现高仿粉丝，侧脸相似引观众围观
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1829578697_m6d0d27c903301r7t6.html>
+- 链接: <https://k.sina.com.cn/article_5727695436_m15565b24c03301qkz0.html>
 
-### 周杰伦演唱会现野生杰伦，鸟巢上演真假周董
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2495457342_m94bda83e033019hk2.html>
-
-### 周杰伦昆凌搭私人飞机抵港, 观艺术展引期待, 启德场演唱会或加场_活动_演出_韩素希
+### 周杰伦《女儿殿下》MV出炉:秀复古舞风
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907f8w8.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907fh1o.html>
 
-### 周杰伦这次鸟巢演唱会票价最高是多少？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801r844.html>
-
-### 周杰伦携家人抵京备战鸟巢演唱会，网球赛是误传
+### 周杰伦香港演唱会嘉宾除了山下智久还有谁？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801r83w.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801r9qe.html>
 
-### 周杰伦这次鸟巢演唱会票价具体是多少？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801r782.html>
-
-### 这次演唱会会邀请周杰伦的女儿上台吗
+### 周杰伦最新MV《女儿殿下》发布，为小女儿量身打造
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801r74y.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907fe2s.html>
 
-### 暑期京城演唱会热度一路飙升
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://news.sina.com.cn/zx/2026-06-26/doc-inieuccq1915404.shtml>
-
-### 特朗普怒斥“反水”议员 国务卿安抚海湾盟友 美对伊战事深陷国内外争议
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-26 00:47
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1TQWRKWWZCVXQ4aUVlQVFWMnJaVWlKUzZYTXlTT1hYU1d4dlM4amY1TVkyY1VzcEp0Rm5FdVJSQnJGWXJtTjV5QmRlTFF1dTZ0czBJRjRtZHR3ZWFaSDB2d0lLS1hrcG1EUTNJQVhnZ1VCQ2lGZlhGaQ?oc=5>
-
-### 倒反天罡了，以防长打脸特朗普：即使美国要求，以色列也不会撤军 #热点解读﻿##国际局势##一分钟精选视频扶持计划# ​
+### 特朗普前顾问博尔顿承认非法保留国防信息
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪网
-- 时间: 2026-06-26 14:24
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeG8wN0FwZjJJMnVtZUxCWVVIa3g5YlpTZGRPTWxwd1Z0cldWN0F4VUVUQTJlZ0FXclo5elJCNXJ1dDNRM1JBR1dpVHNNTUxMRzVMTnY5dmItZUdwaDhMTmwwOWp4M1JKcGVfZlRQNlNwdFhUd0JnbXcyUkd1dExLLWtIbjdqb0ZmT1F3Z3JvejUxVloxZTgydWFLZVhhdGRualVzblVNUldHQUJSbWxvWElPMGVWUDQ2eHoxMEgyVWJiWUxxQ2dDczFjT1ZfVHEwYUFkQ0NBaTFFRXU3UEJN?oc=5>
+- 时间: 2026-06-26 15:50
+- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcUlrdjlueXR2akRZMVNXZHU5b0MwbE0zU0ZKQS1HZWdoQkRTRUJUR0pZYmVTSk5BUmlCSlZZVXJzQzZJQm5IYlhoQ1M2UTJUYzlrTXdqOVFsaFp0bjVHcmJFci1vWERuSWVydEpxUVI2a3owQzFFRFd0VW9lV0R1X0xFMkVNOFR0X1lxcWtIMDhtcVQwdWJobGR5ajdUZzhlRVFmMTZKV0VWbEUwcUdrbHZXYU5WU0p0VVk0SWlzUlZNRVpUTVpiUjBBaC1BY1ZPa2gxVWFMS1p2LU45YVE?oc=5>
 
-### 面对吕特的逢迎 特朗普再怨北约盟友“不忠”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中国日报网
-- 时间: 2026-06-25 12:54
-- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTFBrczlpTkxkcWsyR096VVNfUkNXcEhYR1B0Y1p0am5LbW9MM1FEckczZUl6LTBRUFMyOUxhV1JaN3c5R3g1TVAtMUZmcjVfNjNUWFFxc0xpdmxZaTktU3NfZkY1U1k4QlVsOS1KX095b3I3N2d5XzNHTDBhR3g?oc=5>
-
-### 伊朗袭击货船，特朗普重开霍尔木兹海峡协议受考验
+### 被指处理密件不当 美前国家安全顾问波尔顿认罪
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-06-25 23:40
-- 链接: <https://news.google.com/rss/articles/CBMi1wJBVV95cUxNTEpTZElpRXNBN2FlRUtUTjRMODl0QnM1ejB2TURIbFB6UC1FVW5mbkptbzZOaWxCWkVlREJkcm1NY0FSc3BqMTJLZFZ0OU1QLUxpVXJSZl83WHlYbFdna3l5R0ExT3pmd2dkMjY5dkVBZ0FEakxPVnR3T0UyVTV4bXFSZlVpVE05MGppaFpZRDByV3NfSEhzREQ5bmE3ZU42d1hrRXY4ZGRlWDFqUlhITTN6d0g4ZndqVkhaa0pXTE5jWEhFZnd4WmlITjFpTy11X1Vwd21yTmVTTFFESmVWRTh4bUI4dGNOS2R4ZnF5Q09BS29ZaFFfblE2ZnNVUjdPUHFmVlhXNDVWWDZwZ2Y2Z2pFcWN6Zk8wQ3B4dmJ4S013V2RWMl9OSTJHQWxQVkVVUURLWnFOcnJQTjNVUU5vZUtnbXEzYVZkeVBlVHl4UzJuLWt3VlVr?oc=5>
+- 场馆: RFI
+- 时间: 2026-06-26 16:07
+- 链接: <https://news.google.com/rss/articles/CBMi3AJBVV95cUxPR2FmeWRMamk5ZjREVl9NZzB0RV9fRkVxUUpyZWh1UVZMdWtxZEoySjY5dFAycExBMTk5NFBaUE52V2VibnNMcFVVdnc0S3BORDk5anJFbEhGdmVGRjlsaFVYRG11dzRJMENCM0Q2Z1RhMENLQWJLb2ZwUE5LVTBUOG1Ya3hyZzlabWM0S1dhbVVJT25OeTdyWWtQNGIwUnF4cTZuNWlpSVpRRVBySjZCMGFQdVBlS1I3dEU5OVhWM0ttbWJXYmVyMjJqOV9ETDRNY21MTTNzeEp6RlJtUVRvenBGTWl0YW00WnlnMUc3ZXRRUlZvejZBOVY0ZFJScXBoMnByelVXUmVkLUViVU43RTVTOFlHREc2SmsyRzdWTHFNMDVYX2dCTzhpelU4ckgwNzBwSF9FTUp6U21sZXZUZ0FBN3pUalNCdXhJYU1KNWZnWUtUUTlvbzY4MXE?oc=5>
+
+### 奥巴马质疑特朗普：伊朗战争后，美国似乎更糟了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-06-26 13:24
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9tckhzWUppX0p2MlM5WU1XVEFYb1h1X2c2MnBIUUVMR1NnQWNsdDJXa2ROaVoxTlUzQ1BCNVI1b2NXSnp0alRjMXhvOTM?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-26 17:14  (13 条)
+
+- **周杰伦** | 新浪演唱会热点小时报丨2026年06月27日01时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001907g74m.html>
+- **周杰伦** | 新浪演唱会热点小时报丨2026年06月27日00时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001907g57m.html>
+- **周杰伦** | 周杰伦2016新歌《一点点》mp3下载歌词完整在线试听+钢琴谱 <https://k.sina.com.cn/article_7857201856_1d45362c001907g53w.html>
+- **周杰伦** | 周杰伦新歌MV两女儿抢镜，昆凌曝带娃细节：养三娃，天王也得疯 <https://k.sina.com.cn/article_5952915720_162d24908067049emm.html>
+- **周杰伦** | 现场爆料太惊喜，周杰伦亲口坦言从业至今，从来没有办过白天场次的演唱会 <https://k.sina.com.cn/article_1266269835_m4b79be8b03301apty.html>
+- **周杰伦** | 章若楠现身周杰伦演唱会，背小书包萌态十足 <https://k.sina.com.cn/article_3314422837_c58e143504001g9ks.html>
+- **周杰伦** | 周杰伦演唱会出现高仿粉丝，侧脸相似引观众围观 <https://k.sina.com.cn/article_5727695436_m15565b24c03301qkz0.html>
+- **周杰伦** | 周杰伦《女儿殿下》MV出炉:秀复古舞风 <https://k.sina.com.cn/article_7857201856_1d45362c001907fh1o.html>
+- **周杰伦** | 周杰伦香港演唱会嘉宾除了山下智久还有谁？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801r9qe.html>
+- **周杰伦** | 周杰伦最新MV《女儿殿下》发布，为小女儿量身打造 <https://k.sina.com.cn/article_7857201856_1d45362c001907fe2s.html>
+- **特朗普** | 特朗普前顾问博尔顿承认非法保留国防信息 <https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcUlrdjlueXR2akRZMVNXZHU5b0MwbE0zU0ZKQS1HZWdoQkRTRUJUR0pZYmVTSk5BUmlCSlZZVXJzQzZJQm5IYlhoQ1M2UTJUYzlrTXdqOVFsaFp0bjVHcmJFci1vWERuSWVydEpxUVI2a3owQzFFRFd0VW9lV0R1X0xFMkVNOFR0X1lxcWtIMDhtcVQwdWJobGR5ajdUZzhlRVFmMTZKV0VWbEUwcUdrbHZXYU5WU0p0VVk0SWlzUlZNRVpUTVpiUjBBaC1BY1ZPa2gxVWFMS1p2LU45YVE?oc=5>
+- **特朗普** | 被指处理密件不当 美前国家安全顾问波尔顿认罪 <https://news.google.com/rss/articles/CBMi3AJBVV95cUxPR2FmeWRMamk5ZjREVl9NZzB0RV9fRkVxUUpyZWh1UVZMdWtxZEoySjY5dFAycExBMTk5NFBaUE52V2VibnNMcFVVdnc0S3BORDk5anJFbEhGdmVGRjlsaFVYRG11dzRJMENCM0Q2Z1RhMENLQWJLb2ZwUE5LVTBUOG1Ya3hyZzlabWM0S1dhbVVJT25OeTdyWWtQNGIwUnF4cTZuNWlpSVpRRVBySjZCMGFQdVBlS1I3dEU5OVhWM0ttbWJXYmVyMjJqOV9ETDRNY21MTTNzeEp6RlJtUVRvenBGTWl0YW00WnlnMUc3ZXRRUlZvejZBOVY0ZFJScXBoMnByelVXUmVkLUViVU43RTVTOFlHREc2SmsyRzdWTHFNMDVYX2dCTzhpelU4ckgwNzBwSF9FTUp6U21sZXZUZ0FBN3pUalNCdXhJYU1KNWZnWUtUUTlvbzY4MXE?oc=5>
+- **特朗普** | 奥巴马质疑特朗普：伊朗战争后，美国似乎更糟了 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9tckhzWUppX0p2MlM5WU1XVEFYb1h1X2c2MnBIUUVMR1NnQWNsdDJXa2ROaVoxTlUzQ1BCNVI1b2NXSnp0alRjMXhvOTM?oc=5>
 
 ### 2026-06-26 15:12  (25 条)
 
