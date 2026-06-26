@@ -1,80 +1,166 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-25 23:50**
-- 本轮扫到 4496 条, 新增 **9** 条
+- 最近更新: **2026-06-26 02:46**
+- 本轮扫到 4515 条, 新增 **19** 条
 
 ---
 
-## 本轮新发现 (9 条)
+## 本轮新发现 (19 条)
 
-### 新浪演唱会热点小时报丨2026年06月26日07时_今日实时演唱会热点速递
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907e7g4.html>
-
-### 这次周杰伦演唱会门票真的开票就秒空吗？
+### 周杰伦携子女抵京备战鸟巢演唱会
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801r0lm.html>
+- 链接: <https://k.sina.com.cn/article_7096020439_v1a6f4add706801sbum.html>
 
-### 周杰伦北京演唱会后续还会再加场吗？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801r0lk.html>
-
-### 周杰伦北京演唱会为什么劝退无票歌迷？
+### 周杰伦2025香港嘉年华演唱会一共开几场
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801r0li.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801r5mc.html>
 
-### 特朗普与“反水”共和党参议员起争执
+### 孙燕姿2026巡演会邀请周杰伦当嘉宾吗
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801r5le.html>
+
+### 神仙同框！孙燕姿空降周杰伦演唱会忆金曲奖梗
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801r5l6.html>
+
+### 这次演唱会会有哪些限定改编曲目彩蛋？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801r5ky.html>
+
+### 周杰伦北京鸟巢演唱会票价具体是多少？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801r5kw.html>
+
+### 这次周杰伦鸟巢演唱会为什么推迟了18年？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801r5ku.html>
+
+### 周杰伦小女儿会到演唱会现场观看吗？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801r5ko.html>
+
+### 新浪演唱会热点小时报丨2026年06月26日09时_今日实时演唱会热点速递
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907emaa.html>
+
+### 新浪演唱会热点小时报丨2026年06月26日08时_今日实时演唱会热点速递
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907eala.html>
+
+### 周杰伦还能去西安开演唱会吗？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801r24e.html>
+
+### 周杰伦演唱会真的有可能被叫停吗？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801r240.html>
+
+### 意大利总理回应与特朗普互呛：不想再火上浇油，双边关系需要回归正常
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-06-26 01:07
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE95Q2tFN2JwZTlDQW0xQk1fSml4ZTREdXNQeFUyckFoVUduMFV5UllpNjl2OGp5MWc5VEJMM3FKZnRUcU5SNmZwTFlLbXBUM1RfWmJKY0RUVkdxblVYd0V2a1hfWUVsdE4taEVpYUpXOVFyODA?oc=5>
+
+### 美最高法院裁决支持特朗普强硬移民政策
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 央视网
+- 时间: 2026-06-25 22:28
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1ORkl0REE4eXFGU0dKUlNGV3RCOHhuQlVmeE1XNHdVWGg1YktENTUtcVhkMVBsUTZYS1ZuelIwVUV3NDFJdG54SjZibnlQV0pwY19QbWwzUzkxWEVJcXkwNkJnSC1FUVNxN25jbXl0aVFXMklnZlBveA?oc=5>
+
+### 美国最高法院准许特朗普政府在边境阻拦寻求庇护者
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Sina finance
+- 时间: 2026-06-25 14:46
+- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE9kcG1OM3UwRWZhLUNhNHRvUEJaWUg2SUFMUUY0VVlfU3UzUTFCeFN1a1ZiSC1mck4waERORkZXY2NaZ2hmQUlSMVRmZkItdjZEYmg2cXdXZzZwUkJueXdIUmhyVGVEeGowYzBiN005T19IYzE0M3JEQ0t3?oc=5>
+
+### 美最高法院对特朗普强硬移民政策作出有利裁决
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Sina finance
+- 时间: 2026-06-25 23:22
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5EcGI0b29SS1dfSEJ5NTBRMFozdEdUMlE0Y0xzOU5NVDRuX3ZEY3VRVDMxWERZX0N4V0FacTVYbzlhVlZMbFVXVVdGcTNZRXh2Rmp6Yy1BRjBZWVNzOWlUQnRCSnpodjMzbm1uVTFYVmE4TjZKS3djRA?oc=5>
+
+### 特朗普：委内瑞拉强震造成惨重死亡
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新华网
-- 时间: 2026-06-25 11:57
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9CYjViVDh3aVpGNVVoT1dEQ0lYandLeUhYR3c5emJyZXdtZjYwclVxN3RxNzl0Vmdua3RIYXBnNFdOdjhmeVVwZ2s1dU9kWlUtMGcxMmQ0NkgwX3RBU1gzbUtlOXdDeVNsSW1ad1ZzbjBZbXJsa2pXTWxWektxVWM?oc=5>
+- 时间: 2026-06-25 03:58
+- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE5fM3lNcXVKUms1ZHVkd2JFT2ViWHlDYzVWeHJ0WTJJT3A0SHc4TEhkMkZDZjI3cWlfV2pQZGZJV094b1FxeUxZeVlnRUZjQnB5TlVPX3kwR3dwSmk2dC1HcXJ5U2hEWmpMT3F3UEl6UFRtc3Bqc0FtSFA5WTRuUQ?oc=5>
 
-### 特朗普炮轰石油公司：消费者正在被“宰割”，汽油价格最好赶紧下降，我已指示司法部立即展开调查
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-25 23:24
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxOQk1FQ2dfdUw1YUI0UGoxWWxSS0hIcS1LaF9jSUtxVWY3bWlsMTBUMk9iQ1hNYVQ3QWZDVzk0N21PNkp0UW9QcUY4ZWwyblBWV3hzSE4wZHN6MkhCRnVaR05vTXJfTTlwakdOYWNhd0k3clNFUFAyeVV1cTAtcEJES0NTUWVmazVxRHdrTzg0aG8ySFl2MThEeQ?oc=5>
-
-### 霍尔木兹海峡重开，原油供给飙升，特朗普明确表态“不接受任何航运费用”
+### 英媒：委内瑞拉地震也是对特朗普的考验
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-25 00:06
-- 链接: <https://news.google.com/rss/articles/CBMi5AFBVV95cUxOeHlKQXBWOW41UUpmOUk2U3JmRndxbXFMTExoeGgxeFVTVE5Mb3VYX0hHWGhqOVc2OUhNaGJ1YXByOFFQZWFQWHczR1Bwa0FBdUo1amxVUGFyNFVxdEM3ODVaMG4xRUZUUDU5ZTVLc2p4U2Izc0xteW5VMy1xLVlkOHotWlcyTW5rTG5sbVc0RVJYSEVSYkJGSWU4Z3lXVzg1LUNuMnFTXzkxN1dvcFZCUDBhdDNHU3ZPMHJCR1l2WTNEb2NUN050TWNfQThCbHJaN01iQW9iQWtuX1BCUVRObERNbzA?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-06-25 23:58
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE9pZmRSNUdOUHkxNTlyb3ZPd3pIemZja0ttR1V4Qkk4QmR0X3pldVgya1R2NGtmUWdNNzlWNklQZUR1M1c3ejNCbw?oc=5>
 
-### 特朗普称对北约成员国感到“失望”，北约秘书长吕特借展板劝说
+### 最高法院允许特朗普取消对许多移民的人道主义保护
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 环球网
-- 时间: 2026-06-25 07:39
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE9LT1BRaVpZaWdsemQxNlhfbExZb2NsLW9zcnRuckFJb19fbDV6SEVNZ2dqSWYtTGZZLWxBc2NMZkpoc0tkZXpkYVNYQ1pCcmtBcXphNlVUTk0?oc=5>
-
-### 特朗普怒斥“反水”议员，鲁比奥安抚海湾盟友，美对伊战事深陷国内外争议
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 环球网
-- 时间: 2026-06-25 07:54
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lRkNCcEZqVjdtNU9tc1R0alJqdWxYbExhS2FRZTNyaHdyOGlMdW9kbFZ0bTF6OFdEaXVxc1ptTExkQUltMzU4UFBVVHc3a2hBTUJRZ21xTXo?oc=5>
+- 场馆: 华尔街日报中文网
+- 时间: 2026-06-26 01:08
+- 链接: <https://news.google.com/rss/articles/CBMiswFBVV95cUxNemY2Y1lreks3ZjM0S1prZHlrc3Jwb2QyNlZYNUluYUdMVDJZTjVtRzRjWWpKUUllQXI2b1NYVmU1MXRXSjZZS0w3N09jdWNvb0ZNVHJQX2J3OFV4SzdOc2o3WFpJcXZtR215dHFKTXNDUWE0R1FCN2ExQS00aEd6RDRvN3ZHM3RfcTdBbURSS3lPcUNXd3JnMzRjLUlwN3ZQeDNMSEI2Wjc0VHFuOGgteG9PQQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-26 02:46  (19 条)
+
+- **周杰伦** | 周杰伦携子女抵京备战鸟巢演唱会 <https://k.sina.com.cn/article_7096020439_v1a6f4add706801sbum.html>
+- **周杰伦** | 周杰伦2025香港嘉年华演唱会一共开几场 <https://k.sina.com.cn/article_7879776328_1d5abd84806801r5mc.html>
+- **周杰伦** | 孙燕姿2026巡演会邀请周杰伦当嘉宾吗 <https://k.sina.com.cn/article_7879776328_1d5abd84806801r5le.html>
+- **周杰伦** | 神仙同框！孙燕姿空降周杰伦演唱会忆金曲奖梗 <https://k.sina.com.cn/article_7879776328_1d5abd84806801r5l6.html>
+- **周杰伦** | 这次演唱会会有哪些限定改编曲目彩蛋？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801r5ky.html>
+- **周杰伦** | 周杰伦北京鸟巢演唱会票价具体是多少？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801r5kw.html>
+- **周杰伦** | 这次周杰伦鸟巢演唱会为什么推迟了18年？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801r5ku.html>
+- **周杰伦** | 周杰伦小女儿会到演唱会现场观看吗？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801r5ko.html>
+- **周杰伦** | 新浪演唱会热点小时报丨2026年06月26日09时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001907emaa.html>
+- **周杰伦** | 新浪演唱会热点小时报丨2026年06月26日08时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001907eala.html>
+- **周杰伦** | 周杰伦还能去西安开演唱会吗？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801r24e.html>
+- **周杰伦** | 周杰伦演唱会真的有可能被叫停吗？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801r240.html>
+- **特朗普** | 意大利总理回应与特朗普互呛：不想再火上浇油，双边关系需要回归正常 <https://news.google.com/rss/articles/CBMic0FVX3lxTE95Q2tFN2JwZTlDQW0xQk1fSml4ZTREdXNQeFUyckFoVUduMFV5UllpNjl2OGp5MWc5VEJMM3FKZnRUcU5SNmZwTFlLbXBUM1RfWmJKY0RUVkdxblVYd0V2a1hfWUVsdE4taEVpYUpXOVFyODA?oc=5>
+- **特朗普** | 美最高法院裁决支持特朗普强硬移民政策 <https://news.google.com/rss/articles/CBMieEFVX3lxTE1ORkl0REE4eXFGU0dKUlNGV3RCOHhuQlVmeE1XNHdVWGg1YktENTUtcVhkMVBsUTZYS1ZuelIwVUV3NDFJdG54SjZibnlQV0pwY19QbWwzUzkxWEVJcXkwNkJnSC1FUVNxN25jbXl0aVFXMklnZlBveA?oc=5>
+- **特朗普** | 美国最高法院准许特朗普政府在边境阻拦寻求庇护者 <https://news.google.com/rss/articles/CBMiekFVX3lxTE9kcG1OM3UwRWZhLUNhNHRvUEJaWUg2SUFMUUY0VVlfU3UzUTFCeFN1a1ZiSC1mck4waERORkZXY2NaZ2hmQUlSMVRmZkItdjZEYmg2cXdXZzZwUkJueXdIUmhyVGVEeGowYzBiN005T19IYzE0M3JEQ0t3?oc=5>
+- **特朗普** | 美最高法院对特朗普强硬移民政策作出有利裁决 <https://news.google.com/rss/articles/CBMieEFVX3lxTE5EcGI0b29SS1dfSEJ5NTBRMFozdEdUMlE0Y0xzOU5NVDRuX3ZEY3VRVDMxWERZX0N4V0FacTVYbzlhVlZMbFVXVVdGcTNZRXh2Rmp6Yy1BRjBZWVNzOWlUQnRCSnpodjMzbm1uVTFYVmE4TjZKS3djRA?oc=5>
+- **特朗普** | 特朗普：委内瑞拉强震造成惨重死亡 <https://news.google.com/rss/articles/CBMifkFVX3lxTE5fM3lNcXVKUms1ZHVkd2JFT2ViWHlDYzVWeHJ0WTJJT3A0SHc4TEhkMkZDZjI3cWlfV2pQZGZJV094b1FxeUxZeVlnRUZjQnB5TlVPX3kwR3dwSmk2dC1HcXJ5U2hEWmpMT3F3UEl6UFRtc3Bqc0FtSFA5WTRuUQ?oc=5>
+- **特朗普** | 英媒：委内瑞拉地震也是对特朗普的考验 <https://news.google.com/rss/articles/CBMiSEFVX3lxTE9pZmRSNUdOUHkxNTlyb3ZPd3pIemZja0ttR1V4Qkk4QmR0X3pldVgya1R2NGtmUWdNNzlWNklQZUR1M1c3ejNCbw?oc=5>
+- **Trump** | 最高法院允许特朗普取消对许多移民的人道主义保护 <https://news.google.com/rss/articles/CBMiswFBVV95cUxNemY2Y1lreks3ZjM0S1prZHlrc3Jwb2QyNlZYNUluYUdMVDJZTjVtRzRjWWpKUUllQXI2b1NYVmU1MXRXSjZZS0w3N09jdWNvb0ZNVHJQX2J3OFV4SzdOc2o3WFpJcXZtR215dHFKTXNDUWE0R1FCN2ExQS00aEd6RDRvN3ZHM3RfcTdBbURSS3lPcUNXd3JnMzRjLUlwN3ZQeDNMSEI2Wjc0VHFuOGgteG9PQQ?oc=5>
 
 ### 2026-06-25 23:50  (9 条)
 
