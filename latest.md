@@ -1,82 +1,81 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-26 21:04**
-- 本轮扫到 4649 条, 新增 **9** 条
+- 最近更新: **2026-06-26 22:42**
+- 本轮扫到 4657 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (9 条)
+## 本轮新发现 (8 条)
 
-### 乐坛宠爸天花板实锤!周杰伦新作《女儿殿下》MV 首播_然子八卦圈
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907gf98.html>
-
-### 新浪演唱会热点小时报丨2026年06月27日04时_今日实时演唱会热点速递
+### 周杰伦最新MV《女儿殿下》发布，为小女儿量身打造 | 极目新闻
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907get2.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907fqv2.html>
 
-### 六边形战士马龙骑小黄车追周杰伦演唱会!
+### 周杰伦携昆凌现身艺术展,演唱会期待值暴涨!
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879995911_1d5af320706801znk2.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907fqiu.html>
 
-### 特朗普称伊朗违反停火协议，但国际油价当日依旧走低
+### 周杰伦晒娃照580万点赞,网友:当年演唱会耍酷的天王竟成女儿奴
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-26 16:41
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxNSE1qMFRaQkMyRmRYc0szT3pfbWZlQ2lISE5wQldra2FnSnJrTXFBWFh4LUduM2JUQnBJVVRVbXJkXzlDSUc5T0JIbm1LenVId3VjTEVDakJFaTlDaC02dm9WRzBrYzhZNm5ZeExCTXp4YUhyXzhYTzY4UlE0OWNBTVhrcURFbmM?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907foty.html>
 
-### 特朗普：伊朗违反了停火协议
+### 孙燕姿现身周杰伦演唱会,素颜出镜状态好,身材发福难掩女神气质
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-06-26 16:15
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE11SlRfbUcxbnVmaWI2djNhSi1WcHcwYnhyc2hEelg5X0lBODkxc0V6S2hqeGpDbVBkamx0Qy01bmRZRFZoLURJVWtRbUk?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907fo8m.html>
 
-### 特朗普指责伊朗愚蠢地违反”停火协议
+### 周杰伦携昆凌搭私人飞机抵港看艺术展!期待启德场演唱会或能加场
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-06-26 20:19
-- 链接: <https://news.google.com/rss/articles/CBMioAJBVV95cUxOSDc1dnNYckg3ZldxVkFwUUNkTzN5TXdFX1d3aHFVZlFwU2RnUVZaS1hEdTNrVGRGVmVaTDMwQ1FoY0JjbHFNSVo1U21qeENVaHZBcVJjMHlzRGVLWUpzOWJyVjhuY1B6d0hzZ1hxMzZrQjVtNi02Y0dsN2phdVA5WExPNGREWlFuM0VwWFkzYW14YUJnTzJwdnFxOWNoZXpMWE90WERQQ0ZjX0piVjQ4QXYxRVp4RzViQUJHMm52S2xhLWlaZEZyU0JBRF8yWC02bVBfZ2JsU1lCZ2JtMFFxMlNWSC1OdHkwSW1EZTdZTThBS0JrY3JsU25Td0JZR1dqYTJCb01sSl9RcmNVYUNJZnA0dTN4Z1RhSTZUbHRkZlQ?oc=5>
-
-### 特朗普前国家安全事务助理博尔顿认罪
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-06-26 15:03
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9WcjZZb3lRbTRfeVJhNzFMb2p4MnVrM0I1LWMweGJLTWtidjZJZXNZai14UVpLUmYyZHl5LWpJUndkVW5uS196SmtyeXM?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907fqaa.html>
 
 ### 特朗普威胁：对向美国企业征收数字服务税的国家征收100%关税
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-26 17:02
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxOZUVnT2RURklJV1NEMWp1bnpNa3o1dk16clo0SzZBX3Q3NjFwTlJxRjduNEJMdWJnUkdIZE5zZDVCaGtlQmU1c0Y1V1pfWmN5REZXbzJtNU9xYUsyQW1lMGlzc1U1aXUwd2F0Z1ZlUE5tNVl5WHJnRmd3WFcxcHBDZzBKci00SG8?oc=5>
+- 时间: 2026-06-26 22:17
+- 链接: <https://news.google.com/rss/articles/CBMingJBVV95cUxOQVJEYUhRcWhWMUMybVFoQ1hTb25JY09zdU1vckpWY2FBQkUtMmExVFFGN0tuZkFUekUta2k2VnpZNExiejROU0RtalZnTV9SVl9BSjNYMTFsMXBYOEdqOE9NTUZCRzd3U2tBV2h6YVJtczB0azUzYnZlNjVXQUNLcENKamkxQzFiMHl2b25hckJUQzFaallQSDFpMjFtcTdURzlHWXNzR25Vb1JRNXY5T05jUHpfVXRRaTFnMVJ5OWxackhuNXEzeDFaSHZyYTdZaHd2Z21qSi0xeEtZd0preG9lU2hCbjlrbk1rNUxRcDZRSzBDYlRYYUY3NEJYeG1Kc0NDdV9xalFqM3hkd3YyUU51cmtQbTdIaElrZ2p3?oc=5>
 
-### 标普500指数周线下跌，因特朗普称伊朗违反停火协议
+### 特朗普总统：伊朗在霍尔木兹海峡袭击货轮违反了与美国的停火协议
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-06-26 20:50
-- 链接: <https://news.google.com/rss/articles/CBMilgFBVV95cUxQNklmbTU4djdIYmctV1JBeng0ZGxhZkRlWFRsTEN5TllUMUR6alpBNEdYVWlmdXFQLTdWYTljQVBLdnozNHhuY0NZd2wzQzBKcEtXNUFuUTY2Yk02b2Q0dThIWlFLeDQ2X3lTazhOazJvWDZfWWpHekhQNnRUYkUzMjNYWWpCUGRDRFVGcFhmUE1tSjlPR0E?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-06-26 21:00
+- 链接: <https://news.google.com/rss/articles/CBMi5wFBVV95cUxOYmJJN3kwNFdLdFFtWHNZRi0zeV91MzlEdnlseWdqbDZpZGV5dEl6UTgwV2FuQUtBbjVrY1kzTzlCTjJsUnJlVEFaUy1vMFNBLU9CWnFTMGtnQ082YzN5cXZZdUk2aF81WGY3b2lwY0ZXc2lZSEUwRHdHYk5VeGR6VzN0Y1NLVF9laU93U0E1UExHZkllcl9QRENQRFAyRG9SQU5IcGhEc0huRnJYRDBuQVcxZGgxZVN3SDk2S3RrOWhjUG5UdGtYUk9Jem9Mam5aRE8wa2hTSXhfOTR4ZWtHempIYkJ5VW_SAeoBQVVfeXFMUDRlT3YtLU9fbzdtSVJWV1ZvZmFVUkR4Y2NtTnh5T3huRjF1YUtya0FzNnBmNVUzQXBaRzBCWUE4TDZiYXRNUHNzX3h2VjFQd3NmQWFwZklKczhZRy1UdzFpdTFfandUS1VuWnYzR3Z4RnNkeldlbUVESnVyZHdLblBnc2h0MU5Rb3I5bThfdldBak5DYTNVR3MtQ292TTBQRUphZUtVTGFIdzRtZVUtVnBaOXk0SkZ5cnhXZ1UybXcxUnpPWlFmbG5GbHdRb2g1bExfNmg5bWhqa3F0X0pfSmFDbVpUbVBmcHFR?oc=5>
+
+### 6月27日外盘头条：美国对伊朗发动打击 特朗普对欧再发关税威胁 甲骨文股价本周暴跌19%
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-06-26 21:57
+- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxPVFJvckxXcHVveUl5S1JILWktSWNuQlJITUF1OFYzSmtYU1M1enRqYnp3Ui01TG5TZHR3czVBYzZiQzYzQ0VCZ2J4b2FkMm1VY0syd1hYNW5JVEdTLVQ1TW5ReFcxXzUybFhFYThWcHJVZk1FRWtBMXUyTmk5UHZMSjJfd1JIblQxdmpnTWtWVTNXcDZBVjVJOG1EUTc?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-26 22:42  (8 条)
+
+- **周杰伦** | 周杰伦最新MV《女儿殿下》发布，为小女儿量身打造 | 极目新闻 <https://k.sina.com.cn/article_7857201856_1d45362c001907fqv2.html>
+- **周杰伦** | 周杰伦携昆凌现身艺术展,演唱会期待值暴涨! <https://k.sina.com.cn/article_7857201856_1d45362c001907fqiu.html>
+- **周杰伦** | 周杰伦晒娃照580万点赞,网友:当年演唱会耍酷的天王竟成女儿奴 <https://k.sina.com.cn/article_7857201856_1d45362c001907foty.html>
+- **周杰伦** | 孙燕姿现身周杰伦演唱会,素颜出镜状态好,身材发福难掩女神气质 <https://k.sina.com.cn/article_7857201856_1d45362c001907fo8m.html>
+- **周杰伦** | 周杰伦携昆凌搭私人飞机抵港看艺术展!期待启德场演唱会或能加场 <https://k.sina.com.cn/article_7857201856_1d45362c001907fqaa.html>
+- **特朗普** | 特朗普威胁：对向美国企业征收数字服务税的国家征收100%关税 <https://news.google.com/rss/articles/CBMingJBVV95cUxOQVJEYUhRcWhWMUMybVFoQ1hTb25JY09zdU1vckpWY2FBQkUtMmExVFFGN0tuZkFUekUta2k2VnpZNExiejROU0RtalZnTV9SVl9BSjNYMTFsMXBYOEdqOE9NTUZCRzd3U2tBV2h6YVJtczB0azUzYnZlNjVXQUNLcENKamkxQzFiMHl2b25hckJUQzFaallQSDFpMjFtcTdURzlHWXNzR25Vb1JRNXY5T05jUHpfVXRRaTFnMVJ5OWxackhuNXEzeDFaSHZyYTdZaHd2Z21qSi0xeEtZd0preG9lU2hCbjlrbk1rNUxRcDZRSzBDYlRYYUY3NEJYeG1Kc0NDdV9xalFqM3hkd3YyUU51cmtQbTdIaElrZ2p3?oc=5>
+- **特朗普** | 特朗普总统：伊朗在霍尔木兹海峡袭击货轮违反了与美国的停火协议 <https://news.google.com/rss/articles/CBMi5wFBVV95cUxOYmJJN3kwNFdLdFFtWHNZRi0zeV91MzlEdnlseWdqbDZpZGV5dEl6UTgwV2FuQUtBbjVrY1kzTzlCTjJsUnJlVEFaUy1vMFNBLU9CWnFTMGtnQ082YzN5cXZZdUk2aF81WGY3b2lwY0ZXc2lZSEUwRHdHYk5VeGR6VzN0Y1NLVF9laU93U0E1UExHZkllcl9QRENQRFAyRG9SQU5IcGhEc0huRnJYRDBuQVcxZGgxZVN3SDk2S3RrOWhjUG5UdGtYUk9Jem9Mam5aRE8wa2hTSXhfOTR4ZWtHempIYkJ5VW_SAeoBQVVfeXFMUDRlT3YtLU9fbzdtSVJWV1ZvZmFVUkR4Y2NtTnh5T3huRjF1YUtya0FzNnBmNVUzQXBaRzBCWUE4TDZiYXRNUHNzX3h2VjFQd3NmQWFwZklKczhZRy1UdzFpdTFfandUS1VuWnYzR3Z4RnNkeldlbUVESnVyZHdLblBnc2h0MU5Rb3I5bThfdldBak5DYTNVR3MtQ292TTBQRUphZUtVTGFIdzRtZVUtVnBaOXk0SkZ5cnhXZ1UybXcxUnpPWlFmbG5GbHdRb2g1bExfNmg5bWhqa3F0X0pfSmFDbVpUbVBmcHFR?oc=5>
+- **特朗普** | 6月27日外盘头条：美国对伊朗发动打击 特朗普对欧再发关税威胁 甲骨文股价本周暴跌19% <https://news.google.com/rss/articles/CBMinAFBVV95cUxPVFJvckxXcHVveUl5S1JILWktSWNuQlJITUF1OFYzSmtYU1M1enRqYnp3Ui01TG5TZHR3czVBYzZiQzYzQ0VCZ2J4b2FkMm1VY0syd1hYNW5JVEdTLVQ1TW5ReFcxXzUybFhFYThWcHJVZk1FRWtBMXUyTmk5UHZMSjJfd1JIblQxdmpnTWtWVTNXcDZBVjVJOG1EUTc?oc=5>
 
 ### 2026-06-26 21:04  (9 条)
 
