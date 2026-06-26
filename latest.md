@@ -1,100 +1,96 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-26 17:14**
-- 本轮扫到 4631 条, 新增 **13** 条
+- 最近更新: **2026-06-26 19:16**
+- 本轮扫到 4640 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (13 条)
+## 本轮新发现 (9 条)
 
-### 新浪演唱会热点小时报丨2026年06月27日01时_今日实时演唱会热点速递
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907g74m.html>
-
-### 新浪演唱会热点小时报丨2026年06月27日00时_今日实时演唱会热点速递
+### 新浪演唱会热点小时报丨2026年06月27日03时_今日实时演唱会热点速递
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907g57m.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907gcbq.html>
 
-### 周杰伦2016新歌《一点点》mp3下载歌词完整在线试听+钢琴谱
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907g53w.html>
-
-### 周杰伦新歌MV两女儿抢镜，昆凌曝带娃细节：养三娃，天王也得疯
+### 新浪演唱会热点小时报丨2026年06月27日02时_今日实时演唱会热点速递
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5952915720_162d24908067049emm.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907g970.html>
 
-### 现场爆料太惊喜，周杰伦亲口坦言从业至今，从来没有办过白天场次的演唱会
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1266269835_m4b79be8b03301apty.html>
-
-### 章若楠现身周杰伦演唱会，背小书包萌态十足
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_3314422837_c58e143504001g9ks.html>
-
-### 周杰伦演唱会出现高仿粉丝，侧脸相似引观众围观
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5727695436_m15565b24c03301qkz0.html>
-
-### 周杰伦《女儿殿下》MV出炉:秀复古舞风
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907fh1o.html>
-
-### 周杰伦香港演唱会嘉宾除了山下智久还有谁？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801r9qe.html>
-
-### 周杰伦最新MV《女儿殿下》发布，为小女儿量身打造
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907fe2s.html>
-
-### 特朗普前顾问博尔顿承认非法保留国防信息
+### 特朗普威胁：对向美国企业征收数字服务税的国家征收100%关税
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-06-26 15:50
-- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcUlrdjlueXR2akRZMVNXZHU5b0MwbE0zU0ZKQS1HZWdoQkRTRUJUR0pZYmVTSk5BUmlCSlZZVXJzQzZJQm5IYlhoQ1M2UTJUYzlrTXdqOVFsaFp0bjVHcmJFci1vWERuSWVydEpxUVI2a3owQzFFRFd0VW9lV0R1X0xFMkVNOFR0X1lxcWtIMDhtcVQwdWJobGR5ajdUZzhlRVFmMTZKV0VWbEUwcUdrbHZXYU5WU0p0VVk0SWlzUlZNRVpUTVpiUjBBaC1BY1ZPa2gxVWFMS1p2LU45YVE?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-06-26 17:13
+- 链接: <https://news.google.com/rss/articles/CBMivgJBVV95cUxOV0Q0VFBuNXFZUFlvVEtCOUFJcU41cTR4LUJuVVBlMlA0QkdqaEVHalVyLUdPdlNCZ2RrNDBhazRya0lWb3Itdy1Zclh0UDlUd0hCbkM2REhPUUU1ZjZxYkNuM3Y2Qzg2SUJFUTdCV2EzV0NHckp0c1dBeV8td2pJbWZGTTFCMGRfZUpWeWVHQ0ZneklhdEZOZld6UGIwVWVBSi1JdkdmNk9ZYmp5UzM0RFlTNkdjd2U0YjJON1FfdGlNRHpDNjVvNks2eUlWUmhWWllVTl9vbjlTZ0F3M3k3Z0I2SVRlaFZjMDI0aGhtd3o3LXJzQnE5dFhOUmJsSU9YbTR4QmJHOGNIbDBjVW1DZkFrLVdtTS02enhxU2Zadm1nYWR6SGpBelM4U0EwS3VkQXhJN3E3ZnFWTEExQkE?oc=5>
 
-### 被指处理密件不当 美前国家安全顾问波尔顿认罪
+### Oil Prices May Have Fallen Too Far, Too Fast as Trump Confirms Iran Violated the Cease-fire Deal
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-06-26 16:07
-- 链接: <https://news.google.com/rss/articles/CBMi3AJBVV95cUxPR2FmeWRMamk5ZjREVl9NZzB0RV9fRkVxUUpyZWh1UVZMdWtxZEoySjY5dFAycExBMTk5NFBaUE52V2VibnNMcFVVdnc0S3BORDk5anJFbEhGdmVGRjlsaFVYRG11dzRJMENCM0Q2Z1RhMENLQWJLb2ZwUE5LVTBUOG1Ya3hyZzlabWM0S1dhbVVJT25OeTdyWWtQNGIwUnF4cTZuNWlpSVpRRVBySjZCMGFQdVBlS1I3dEU5OVhWM0ttbWJXYmVyMjJqOV9ETDRNY21MTTNzeEp6RlJtUVRvenBGTWl0YW00WnlnMUc3ZXRRUlZvejZBOVY0ZFJScXBoMnByelVXUmVkLUViVU43RTVTOFlHREc2SmsyRzdWTHFNMDVYX2dCTzhpelU4ckgwNzBwSF9FTUp6U21sZXZUZ0FBN3pUalNCdXhJYU1KNWZnWUtUUTlvbzY4MXE?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-06-26 18:17
+- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxQTmFxNW9aTE9wQjJ4SEgzUFFuM3FlZEM2SDQyQUJFWmlzd0Y1Zi1reFhLNno2WW1KNFV2NDBxaUF1dGVvTGNXWm9xdlM0V2l5OGh4dXFpZVdQbW1KdnZUVlU4em9pT0VxSmpMMXhfaDJTSkd1TjAwcUxCYW5KZmUzdUFHeXVGWWZYVDd6TzVlM1JEVE55V2NPaA?oc=5>
 
-### 奥巴马质疑特朗普：伊朗战争后，美国似乎更糟了
+### 特朗普T1手机开卖，499美元的价格，结果是2年前的贴牌机！
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-06-26 13:24
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9tckhzWUppX0p2MlM5WU1XVEFYb1h1X2c2MnBIUUVMR1NnQWNsdDJXa2ROaVoxTlUzQ1BCNVI1b2NXSnp0alRjMXhvOTM?oc=5>
+- 场馆: 热点科技
+- 时间: 2026-06-26 06:28
+- 链接: <https://news.google.com/rss/articles/CBMiXEFVX3lxTFA4Wk5JT2d6WmRSNjFUdGR5djh0X3hnU3RRbXJueVNYbHJlQ0FBckJtMF9hblNCc1psS09yTEtydWhzOFUtS2RLbzUtWm01QlJNMVFNYV9nMzM0cWpX?oc=5>
+
+### 特朗普手机T1正式开放销售499美元可直接购买但何时发货仍成谜- 手机
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: cnBeta.COM
+- 时间: 2026-06-26 12:43
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xNF9YMWxDdWpWV0NvdmREY28wUU4tek50TF92UEo1dFp5XzgyWk54cGE5U243U0VNSFRhUGhPZWVqa3FfVHU4ZFZlU05jSnhxUDNNSkJOekxnUUdFQlNpWg?oc=5>
+
+### 特朗普总统:伊朗向美国保证，不会向通过霍尔木兹海峡的船只收取通行费
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-06-24 16:18
+- 链接: <https://news.google.com/rss/articles/CBMigwJBVV95cUxPaDhPYXYzY3dCOTA0V2F6NV9qcEhid0xDb2d5d2ZIQXFEWnl0bmR4cTlNYVFhd2lkcVk4ZEJQWDhOenNNbkJIWlROU29JbG5NWG9GeGs4dVRhUVRRNDBISXBINEVtSnQ4a3hOTkNKVGpqbVVPTUxGYVB1ekN6RUdoVXNlS0hISGFaRjlhS1VfY2VDZzhjVUlKcnRzdlhXMWFCQVpwQUVhYW5aRzhyTW1NNkJLU05pUE5FWC1DZlg2RnAtUmdadk1GT0MzbWNLOGtmUkFWQmp3NEVGRFRJQ21RYUJvYUF4bkh6bXNmbVpuZ2VzT01OUHRJV3pDcF9hTmZDTU5Z0gGDAkFVX3lxTE9oOE9hdjNjd0I5MDRXYXo1X2pwSGJ3TENvZ3l3ZkhBcURaeXRuZHhxOU1hUWF3aWRxWThkQlBYOE56c01uQkhaVE5Tb0lsbk1Yb0Z4azh1VGFRVFE0MEhJcEg0RW1KdDhreE5OQ0pUamptVU9NTEZhUHV6Q3pFR2hVc2VLSEhIYVpGOWFLVV9jZUNnOGNVSUpydHN2WFcxYUJBWnBBRWFhblpHOHJNbU02QktTTmlQTkVYLUNmWDZGcC1SZ1p2TUZPQzNtY0s4a2ZSQVZCanc0RUZEVElDbVFhQm9hQXhuSHptc2ZtWm5nZXNPTU5QdElXekNwX2FOZkNNTlk?oc=5>
+
+### 华尔街基本持平，因特朗普指责伊朗违反停火协议
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-06-26 18:27
+- 链接: <https://news.google.com/rss/articles/CBMirAFBVV95cUxPQWwtYnY4UlV2aDZQc1hzSHowMEtrS05GZnBCcmpjNmV6Y01vT1VxWjVhQlhwSWN0OU5jLVVSZjVPTmV2azkxclExbEFVeUJpenUweU5udWRfYmhMNTdXaHo1YkwzVTVqTmdhOWJNX1Z5UE5hZlMwYTJ3M0MzNlI3ZUxkU3N5Ty0xemZ2aDVwN2RvUzloRnZITXItQ1k2eGdNV0IySlVYTG1YeDNF?oc=5>
+
+### 轻松2倍！TRUMP效应
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-06-25 10:47
+- 链接: <https://news.google.com/rss/articles/CBMihgFBVV95cUxOakJTQ0lxVkpyX2lzM1c4dllxWWR3ck1XYi14M2pPbzZLWFZ1c0hLaHNlWC1uVi1XaE5BcGhCS1NxWTR1TkRUZWpSdkpONUJSUmJxWklCTnVwcEZzSGUxMU9MVUItNjFWcGpYYnB2cU5YRy05eFc2R29qaDBiUUN0TnMwTExsQQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-26 19:16  (9 条)
+
+- **周杰伦** | 新浪演唱会热点小时报丨2026年06月27日03时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001907gcbq.html>
+- **周杰伦** | 新浪演唱会热点小时报丨2026年06月27日02时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001907g970.html>
+- **特朗普** | 特朗普威胁：对向美国企业征收数字服务税的国家征收100%关税 <https://news.google.com/rss/articles/CBMivgJBVV95cUxOV0Q0VFBuNXFZUFlvVEtCOUFJcU41cTR4LUJuVVBlMlA0QkdqaEVHalVyLUdPdlNCZ2RrNDBhazRya0lWb3Itdy1Zclh0UDlUd0hCbkM2REhPUUU1ZjZxYkNuM3Y2Qzg2SUJFUTdCV2EzV0NHckp0c1dBeV8td2pJbWZGTTFCMGRfZUpWeWVHQ0ZneklhdEZOZld6UGIwVWVBSi1JdkdmNk9ZYmp5UzM0RFlTNkdjd2U0YjJON1FfdGlNRHpDNjVvNks2eUlWUmhWWllVTl9vbjlTZ0F3M3k3Z0I2SVRlaFZjMDI0aGhtd3o3LXJzQnE5dFhOUmJsSU9YbTR4QmJHOGNIbDBjVW1DZkFrLVdtTS02enhxU2Zadm1nYWR6SGpBelM4U0EwS3VkQXhJN3E3ZnFWTEExQkE?oc=5>
+- **Trump** | Oil Prices May Have Fallen Too Far, Too Fast as Trump Confirms Iran Violated the Cease-fire Deal <https://news.google.com/rss/articles/CBMimAFBVV95cUxQTmFxNW9aTE9wQjJ4SEgzUFFuM3FlZEM2SDQyQUJFWmlzd0Y1Zi1reFhLNno2WW1KNFV2NDBxaUF1dGVvTGNXWm9xdlM0V2l5OGh4dXFpZVdQbW1KdnZUVlU4em9pT0VxSmpMMXhfaDJTSkd1TjAwcUxCYW5KZmUzdUFHeXVGWWZYVDd6TzVlM1JEVE55V2NPaA?oc=5>
+- **Trump** | 特朗普T1手机开卖，499美元的价格，结果是2年前的贴牌机！ <https://news.google.com/rss/articles/CBMiXEFVX3lxTFA4Wk5JT2d6WmRSNjFUdGR5djh0X3hnU3RRbXJueVNYbHJlQ0FBckJtMF9hblNCc1psS09yTEtydWhzOFUtS2RLbzUtWm01QlJNMVFNYV9nMzM0cWpX?oc=5>
+- **Trump** | 特朗普手机T1正式开放销售499美元可直接购买但何时发货仍成谜- 手机 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xNF9YMWxDdWpWV0NvdmREY28wUU4tek50TF92UEo1dFp5XzgyWk54cGE5U243U0VNSFRhUGhPZWVqa3FfVHU4ZFZlU05jSnhxUDNNSkJOekxnUUdFQlNpWg?oc=5>
+- **Trump** | 特朗普总统:伊朗向美国保证，不会向通过霍尔木兹海峡的船只收取通行费 <https://news.google.com/rss/articles/CBMigwJBVV95cUxPaDhPYXYzY3dCOTA0V2F6NV9qcEhid0xDb2d5d2ZIQXFEWnl0bmR4cTlNYVFhd2lkcVk4ZEJQWDhOenNNbkJIWlROU29JbG5NWG9GeGs4dVRhUVRRNDBISXBINEVtSnQ4a3hOTkNKVGpqbVVPTUxGYVB1ekN6RUdoVXNlS0hISGFaRjlhS1VfY2VDZzhjVUlKcnRzdlhXMWFCQVpwQUVhYW5aRzhyTW1NNkJLU05pUE5FWC1DZlg2RnAtUmdadk1GT0MzbWNLOGtmUkFWQmp3NEVGRFRJQ21RYUJvYUF4bkh6bXNmbVpuZ2VzT01OUHRJV3pDcF9hTmZDTU5Z0gGDAkFVX3lxTE9oOE9hdjNjd0I5MDRXYXo1X2pwSGJ3TENvZ3l3ZkhBcURaeXRuZHhxOU1hUWF3aWRxWThkQlBYOE56c01uQkhaVE5Tb0lsbk1Yb0Z4azh1VGFRVFE0MEhJcEg0RW1KdDhreE5OQ0pUamptVU9NTEZhUHV6Q3pFR2hVc2VLSEhIYVpGOWFLVV9jZUNnOGNVSUpydHN2WFcxYUJBWnBBRWFhblpHOHJNbU02QktTTmlQTkVYLUNmWDZGcC1SZ1p2TUZPQzNtY0s4a2ZSQVZCanc0RUZEVElDbVFhQm9hQXhuSHptc2ZtWm5nZXNPTU5QdElXekNwX2FOZkNNTlk?oc=5>
+- **Trump** | 华尔街基本持平，因特朗普指责伊朗违反停火协议 <https://news.google.com/rss/articles/CBMirAFBVV95cUxPQWwtYnY4UlV2aDZQc1hzSHowMEtrS05GZnBCcmpjNmV6Y01vT1VxWjVhQlhwSWN0OU5jLVVSZjVPTmV2azkxclExbEFVeUJpenUweU5udWRfYmhMNTdXaHo1YkwzVTVqTmdhOWJNX1Z5UE5hZlMwYTJ3M0MzNlI3ZUxkU3N5Ty0xemZ2aDVwN2RvUzloRnZITXItQ1k2eGdNV0IySlVYTG1YeDNF?oc=5>
+- **Trump** | 轻松2倍！TRUMP效应 <https://news.google.com/rss/articles/CBMihgFBVV95cUxOakJTQ0lxVkpyX2lzM1c4dllxWWR3ck1XYi14M2pPbzZLWFZ1c0hLaHNlWC1uVi1XaE5BcGhCS1NxWTR1TkRUZWpSdkpONUJSUmJxWklCTnVwcEZzSGUxMU9MVUItNjFWcGpYYnB2cU5YRy05eFc2R29qaDBiUUN0TnMwTExsQQ?oc=5>
 
 ### 2026-06-26 17:14  (13 条)
 
