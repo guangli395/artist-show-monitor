@@ -1,70 +1,49 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-26 22:42**
-- 本轮扫到 4657 条, 新增 **8** 条
+- 最近更新: **2026-06-26 23:59**
+- 本轮扫到 4661 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (4 条)
 
-### 周杰伦最新MV《女儿殿下》发布，为小女儿量身打造 | 极目新闻
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907fqv2.html>
-
-### 周杰伦携昆凌现身艺术展,演唱会期待值暴涨!
+### 周杰伦演唱会真假同框！观众席居然藏了个野生杰伦
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907fqiu.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rmqo.html>
 
-### 周杰伦晒娃照580万点赞,网友:当年演唱会耍酷的天王竟成女儿奴
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907foty.html>
-
-### 孙燕姿现身周杰伦演唱会,素颜出镜状态好,身材发福难掩女神气质
+### 周杰伦本人有没有回应马龙来看演唱会？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907fo8m.html>
+- 链接: <https://k.sina.com.cn/article_7879995911_1d5af320706801zq74.html>
 
-### 周杰伦携昆凌搭私人飞机抵港看艺术展!期待启德场演唱会或能加场
+### 最新MV《女儿殿下》正式发布,周杰伦大秀复古舞风
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907fqaa.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907fu6m.html>
 
-### 特朗普威胁：对向美国企业征收数字服务税的国家征收100%关税
+### 美国对伊朗发动打击 以回应霍尔木兹海峡货船遭袭
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-26 22:17
-- 链接: <https://news.google.com/rss/articles/CBMingJBVV95cUxOQVJEYUhRcWhWMUMybVFoQ1hTb25JY09zdU1vckpWY2FBQkUtMmExVFFGN0tuZkFUekUta2k2VnpZNExiejROU0RtalZnTV9SVl9BSjNYMTFsMXBYOEdqOE9NTUZCRzd3U2tBV2h6YVJtczB0azUzYnZlNjVXQUNLcENKamkxQzFiMHl2b25hckJUQzFaallQSDFpMjFtcTdURzlHWXNzR25Vb1JRNXY5T05jUHpfVXRRaTFnMVJ5OWxackhuNXEzeDFaSHZyYTdZaHd2Z21qSi0xeEtZd0preG9lU2hCbjlrbk1rNUxRcDZRSzBDYlRYYUY3NEJYeG1Kc0NDdV9xalFqM3hkd3YyUU51cmtQbTdIaElrZ2p3?oc=5>
-
-### 特朗普总统：伊朗在霍尔木兹海峡袭击货轮违反了与美国的停火协议
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-06-26 21:00
-- 链接: <https://news.google.com/rss/articles/CBMi5wFBVV95cUxOYmJJN3kwNFdLdFFtWHNZRi0zeV91MzlEdnlseWdqbDZpZGV5dEl6UTgwV2FuQUtBbjVrY1kzTzlCTjJsUnJlVEFaUy1vMFNBLU9CWnFTMGtnQ082YzN5cXZZdUk2aF81WGY3b2lwY0ZXc2lZSEUwRHdHYk5VeGR6VzN0Y1NLVF9laU93U0E1UExHZkllcl9QRENQRFAyRG9SQU5IcGhEc0huRnJYRDBuQVcxZGgxZVN3SDk2S3RrOWhjUG5UdGtYUk9Jem9Mam5aRE8wa2hTSXhfOTR4ZWtHempIYkJ5VW_SAeoBQVVfeXFMUDRlT3YtLU9fbzdtSVJWV1ZvZmFVUkR4Y2NtTnh5T3huRjF1YUtya0FzNnBmNVUzQXBaRzBCWUE4TDZiYXRNUHNzX3h2VjFQd3NmQWFwZklKczhZRy1UdzFpdTFfandUS1VuWnYzR3Z4RnNkeldlbUVESnVyZHdLblBnc2h0MU5Rb3I5bThfdldBak5DYTNVR3MtQ292TTBQRUphZUtVTGFIdzRtZVUtVnBaOXk0SkZ5cnhXZ1UybXcxUnpPWlFmbG5GbHdRb2g1bExfNmg5bWhqa3F0X0pfSmFDbVpUbVBmcHFR?oc=5>
-
-### 6月27日外盘头条：美国对伊朗发动打击 特朗普对欧再发关税威胁 甲骨文股价本周暴跌19%
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-26 21:57
-- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxPVFJvckxXcHVveUl5S1JILWktSWNuQlJITUF1OFYzSmtYU1M1enRqYnp3Ui01TG5TZHR3czVBYzZiQzYzQ0VCZ2J4b2FkMm1VY0syd1hYNW5JVEdTLVQ1TW5ReFcxXzUybFhFYThWcHJVZk1FRWtBMXUyTmk5UHZMSjJfd1JIblQxdmpnTWtWVTNXcDZBVjVJOG1EUTc?oc=5>
+- 时间: 2026-06-26 21:30
+- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVXduS1RrenJNc2UwbENMWHJ4YkQ2a1hzTjBqVnF3V2VFcWtWTmtoTFYyM3ZUbWJqM1U5Vl8zYU04RlctRjN3VXE1cFdxRV9DZkhvVWVDUDlhNlo0ZU5tenJHUWlDTG5LaVc3YTVuRS1WbElvRzNObWZfZ3plOXNkdy1kRmtWMnM0bWQ4S0pCenhSVGt4SHFfcWNkaHBsNlNsSTBqdXJBQXl2Zw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-26 23:59  (4 条)
+
+- **周杰伦** | 周杰伦演唱会真假同框！观众席居然藏了个野生杰伦 <https://k.sina.com.cn/article_7879776328_1d5abd84806801rmqo.html>
+- **周杰伦** | 周杰伦本人有没有回应马龙来看演唱会？ <https://k.sina.com.cn/article_7879995911_1d5af320706801zq74.html>
+- **周杰伦** | 最新MV《女儿殿下》正式发布,周杰伦大秀复古舞风 <https://k.sina.com.cn/article_7857201856_1d45362c001907fu6m.html>
+- **特朗普** | 美国对伊朗发动打击 以回应霍尔木兹海峡货船遭袭 <https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVXduS1RrenJNc2UwbENMWHJ4YkQ2a1hzTjBqVnF3V2VFcWtWTmtoTFYyM3ZUbWJqM1U5Vl8zYU04RlctRjN3VXE1cFdxRV9DZkhvVWVDUDlhNlo0ZU5tenJHUWlDTG5LaVc3YTVuRS1WbElvRzNObWZfZ3plOXNkdy1kRmtWMnM0bWQ4S0pCenhSVGt4SHFfcWNkaHBsNlNsSTBqdXJBQXl2Zw?oc=5>
 
 ### 2026-06-26 22:42  (8 条)
 
