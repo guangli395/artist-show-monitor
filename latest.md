@@ -1,127 +1,85 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-27 21:58**
-- 本轮扫到 4866 条, 新增 **22** 条
+- 最近更新: **2026-06-27 23:03**
+- 本轮扫到 4879 条, 新增 **13** 条
 
 ---
 
-## 本轮新发现 (22 条)
+## 本轮新发现 (13 条)
 
-### 内地粉丝去蔡徐坤签售需要办签证吗？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rquq.html>
-
-### 蔡徐坤之后还会有其他线下签售吗？
+### 蔡徐坤接下来还有线下签售会安排吗？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rquo.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rrgc.html>
 
-### 蔡徐坤签售会现场互动氛围怎么样？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rqui.html>
-
-### 去蔡徐坤签售观礼需要抢名额吗？
+### 蔡徐坤首张实体专辑珠海签售会今日开启！
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rquk.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rrf0.html>
 
-### 蔡徐坤首张实体专辑珠海签售会今日开启
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rqu2.html>
-
-### 怎么才能获得蔡徐坤签售会的资格？
+### 蔡徐坤这次签售会还有其他城市场次吗？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rqto.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rreg.html>
 
-### 蔡徐坤接下来还会举办更多签售会吗？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rqtk.html>
-
-### 蔡徐坤首场实体签售会在哪里举办？
+### 蔡徐坤签售会反差萌圈粉，新作获国际奖项
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rqty.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rrds.html>
 
-### 蔡徐坤这次签售会和粉丝互动了什么内容？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rqtu.html>
-
-### 出道八年首次！蔡徐坤首场实体签售会太好磕
+### 蔡徐坤签售会中签资格可以转让吗？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rqsw.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rreo.html>
 
-### 推荐一些观看周杰伦演唱会的注意事项
+### 蔡徐坤签售会粉丝能和他合影吗？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rrec.html>
+
+### 蔡徐坤这次签售会总共持续几天？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rrh4.html>
+
+### 海清携19岁儿子看周杰伦演唱会，蛋妞壮硕出圈似父
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801s486.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907hws2.html>
 
-### 有哪些方法可以提高抢周杰伦演唱会门票的成功率？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801s3l2.html>
-
-### 周杰伦演唱会1000多元的位置体验到底怎么样？
+### 周杰伦演唱会门票的价格区间是多少？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801s3ic.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801s49i.html>
 
-### 周杰伦没发个人新歌,两首共创5小时...@晚风眠的动态
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907hcmo.html>
-
-### 海清陪儿子看周杰伦演唱会，19岁蛋妞近照曝光
+### 《女儿殿下》MV里最大的彩蛋是什么内容？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rqim.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rrvo.html>
 
-### 周杰伦演唱会门票到底有多难抢？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rq9u.html>
-
-### 为什么周杰伦演唱会门票总是一票难求？
+### 看周杰伦演唱会，海清母子同框_霞姐
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rq9w.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907heyi.html>
 
-### 180万人抢！周杰伦演唱会门票为何秒罄？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rq9o.html>
-
-### 特朗普提名一名前警官担任移民及海关执法局局长
+### 特朗普：参议院必须立即确认兰斯的任命，不要拖延。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-06-27 21:28
-- 链接: <https://news.google.com/rss/articles/CBMi5wJBVV95cUxOOEhVSnBIQjVuMkRXLU1NNXNLc1J5TEtXc0UyclJzVUFQM0prMHNYckdJVzVqMmVBaXRkSnZTNjBCNU9sZkFkelVLMm9rZTgyOU43UXdHVEdUdnlmanpGZ3kwQ21XTzhfeXpWMjlBNFI3cVRNTFFUYUxKSmRtSS1vZWozUzFwQldiMTBsUzdMREtpTklJRklrVDVDUUx4QXVPYzJjNk1ncXFyWlcxSWoyd09rRG5iSGNiQ1Y2YS0zeTNYZHcwZWZtYlhiOGJMcml0RjlpamI1eEUzVUJzTE5nYVRucFVSbTdiMlBFejN2QWgzaTlNR3lRWDRVWlZEM0l5ZmtzVklhb291ZlRTRGhjWXdhdVR2bkZDYlZkaV9sbTZfOC0yMVRWSURwanpJRml5M2l5aTZUUmlqUDdya3dWTGRIOFNYYTBGR3dMQzhDWkpGay1Wa1J6cnBES1RzUmpORmVZNkVqVQ?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-06-27 19:35
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFB1cXpFNi1kRVdUSWFlc1BiN3ZHYjNWTzdJTlczYXRQX3JzSUY4NWFGblZLZjNsb3FBVWZ5d2U0WTlsTkRqNmZKYlRfZw?oc=5>
 
 ### 特朗普推出印有其肖像、纪念美国建国250周年的新版护照
 
@@ -129,28 +87,28 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-06-27 14:52
-- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxQV0hIZjRmVUJDUkFoRGt5SEhEU2RNeTQtLTdUTEF0WFRHczgtS1ZYYTBOcUdyZXNOT2pRa2JwZnZwOTlHdUVoOVBWOUdybmo3RmJYNFR5cTgyS2xJMjVOQlFSSkVmT0pmVGJrUk5ncVRuRnQtWDFYTzh0TVVRYllzOENHaFA3OXJremdCOWxUTjg3eC1iRjl6T1FBMzdMRFE2WjFldF9RZThINVh1WUN3eklhcDBuaEliNFNkQ1lKRG9naVhWMlAwby1qaUxhSjg?oc=5>
-
-### 川普币价格人民币_TRUMP今日实时价格走势图和市值行情
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Bitget
-- 时间: 2026-06-26 16:45
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE40YXZvdnl6ZTBaTld3ZXdYb041UllMQlFQUW9YTFZ5TFVLUTc3VUpNUEI3bkJwUFFRZEJhYl9xd2ZPRGUxYmcxWEp5cEl2czdEaU5McWZ2UFI1UC0xZVE?oc=5>
-
-### 轻松2倍！TRUMP效应
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-06-25 10:47
-- 链接: <https://news.google.com/rss/articles/CBMihAFBVV95cUxOVmxidWU1dkNRZG5HVWY1Z2F5UWEweGtsSFVlOTVnN1pqTnVxU2J5ZTZjUnNNOGNWVjRUeVlfc2NMZnc4NFdkbm83c1hwMWhhX3BDNEs2ejh4YmlRbXd3bmc2RnNjNUtWMzJ6UVZOLWNkaUQ4a0I3a0NYUVVkYzloQTIzak0?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNT19yMnB4dkpQS0sxckFxRkl4cDhZdUh0SVRNRUNmV2psNGtpRThzTzNKNTA3MVJYSzFjdEsxOHZuR1pBajJidGFhMlBKWlV3ZFBqQUNHcHk5TnQ3YzFNRHhCUUwxYTlwbXJRTlpSNHVPb3JnYnh5UlBwczA1aVh2ZEx5YUhhR3lndDdSR0UyQ2hYZkVNN3NYSXFqWkFWVmZOdWZXOU9aUlZPd0g3TGFMSFd3ZEt5OV82bTF4Q0VRVV9RQW9oTnVCZjlaVTJNX2tN?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-27 23:03  (13 条)
+
+- **蔡徐坤** | 蔡徐坤接下来还有线下签售会安排吗？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801rrgc.html>
+- **蔡徐坤** | 蔡徐坤首张实体专辑珠海签售会今日开启！ <https://k.sina.com.cn/article_7879776328_1d5abd84806801rrf0.html>
+- **蔡徐坤** | 蔡徐坤这次签售会还有其他城市场次吗？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801rreg.html>
+- **蔡徐坤** | 蔡徐坤签售会反差萌圈粉，新作获国际奖项 <https://k.sina.com.cn/article_7879776328_1d5abd84806801rrds.html>
+- **蔡徐坤** | 蔡徐坤签售会中签资格可以转让吗？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801rreo.html>
+- **蔡徐坤** | 蔡徐坤签售会粉丝能和他合影吗？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801rrec.html>
+- **蔡徐坤** | 蔡徐坤这次签售会总共持续几天？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801rrh4.html>
+- **周杰伦** | 海清携19岁儿子看周杰伦演唱会，蛋妞壮硕出圈似父 <https://k.sina.com.cn/article_7857201856_1d45362c001907hws2.html>
+- **周杰伦** | 周杰伦演唱会门票的价格区间是多少？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801s49i.html>
+- **周杰伦** | 《女儿殿下》MV里最大的彩蛋是什么内容？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801rrvo.html>
+- **周杰伦** | 看周杰伦演唱会，海清母子同框_霞姐 <https://k.sina.com.cn/article_7857201856_1d45362c001907heyi.html>
+- **特朗普** | 特朗普：参议院必须立即确认兰斯的任命，不要拖延。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTFB1cXpFNi1kRVdUSWFlc1BiN3ZHYjNWTzdJTlczYXRQX3JzSUY4NWFGblZLZjNsb3FBVWZ5d2U0WTlsTkRqNmZKYlRfZw?oc=5>
+- **特朗普** | 特朗普推出印有其肖像、纪念美国建国250周年的新版护照 <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNT19yMnB4dkpQS0sxckFxRkl4cDhZdUh0SVRNRUNmV2psNGtpRThzTzNKNTA3MVJYSzFjdEsxOHZuR1pBajJidGFhMlBKWlV3ZFBqQUNHcHk5TnQ3YzFNRHhCUUwxYTlwbXJRTlpSNHVPb3JnYnh5UlBwczA1aVh2ZEx5YUhhR3lndDdSR0UyQ2hYZkVNN3NYSXFqWkFWVmZOdWZXOU9aUlZPd0g3TGFMSFd3ZEt5OV82bTF4Q0VRVV9RQW9oTnVCZjlaVTJNX2tN?oc=5>
 
 ### 2026-06-27 21:58  (22 条)
 
