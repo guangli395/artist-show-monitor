@@ -1,98 +1,90 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-27 19:10**
-- 本轮扫到 4835 条, 新增 **13** 条
+- 最近更新: **2026-06-27 20:36**
+- 本轮扫到 4844 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (13 条)
+## 本轮新发现 (9 条)
 
-### 26岁歌手蔡徐坤签售会遇豪掷14万男粉，双向比心为何引全网狂欢？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801a21m.html>
-
-### 蔡徐坤签售被小黄豆比心逗到红温面壁
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801s1ly.html>
-
-### 周杰伦这场鸟巢演唱会门票多少钱？
+### 新浪演唱会热点小时报丨2026年06月28日04时_今日实时演唱会热点速递
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801s1tc.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907hv78.html>
 
-### 周杰伦2026鸟巢演唱会时间安排官宣
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801s1ru.html>
-
-### 周杰伦演唱会现场唱腔韵味十足，民乐编曲层次分明
+### 周杰伦演唱会门票多少钱？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924004_m1d5ae1924033020rkq.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801s2tq.html>
 
-### 周杰伦鸟巢全开麦演唱会细腻唱功治愈听众
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924004_m1d5ae1924033020rko.html>
-
-### 马龙现身周杰伦演唱会，两人多年惺惺相惜
+### 哪里能看周杰伦2004无与伦比演唱会完整版？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301coms.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rpzc.html>
 
-### 最新MV《女儿殿下》正式发布，周杰伦大秀复古舞风_新闻
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907h65w.html>
-
-### 周杰伦 2004 无与伦比 演唱会 Live CD专辑_周杰伦_无损音乐专辑_酷我音乐
+### 杭州四馆同开演唱会带动了多少文旅收入
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907h5nm.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rpwo.html>
 
-### 周杰伦最新MV《女儿殿下》发布，大秀复古舞风_中国城市网
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907h5um.html>
-
-### 这次白天场演唱会现场观众反响如何
+### 周杰伦携儿女抵京备战鸟巢演唱会,单手抱娃尽显温柔父爱
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rp7i.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907h70w.html>
 
-### 特朗普称伊朗无人机袭击霍尔木兹海峡船只违反停火协议
+### 特朗普威胁：征收100%报复性关税
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-06-27 18:33
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9aN25ia3R4SVRiQzNnUmFQZWxuZE9kbTdzRUhieGMxcTJxdFFiUUJBSWtFZGpBQmZCNjZzN3p0TV9FR2ppZl9ranQ5WXBHU0pSQ1ZFX1V4R0YwYTI4Z2lENWFrdVllZVc0NEZIdEM2Z3RTY2ZFT0M4Zg?oc=5>
+
+### 特朗普政府出于安全考量，要求OpenAI分阶段推出新一代模型
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-27 08:27
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE52MU56ZlhTeXRUTThEUjBFVzl5WHlqQTF0enNXOHdqVWZKSmYySklaUTNjSXlHRVpUdVFYdHUwQmVmRGZQU1IzTmJacDY3SjZjaDI4bG94WjFidEJkSjdBY0xPOW9fY1o1V1JPSnNaelI1MXotNkE?oc=5>
+- 时间: 2026-06-26 08:55
+- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNUxBTlJSVHFTN0NmZy1jSDZyT2RmMlNDZjlsYzk2YjJYeDhiQlNmT1dORjNkVlVTZDE0OHVnd05hQWdxa3lqakR3ZkptQkxLcG9rcldaVFcyTVc5MmhmVWhRN3VTTTF2d3U2amNLckE4RFFUb1VObmgxZ3EySXZjVWhwSExwU05XdFRKNE1MOGo3aWgyenBOM2xYbmJQSXZqNjVfMUluQldZZWRaLVFSSE00ZGFhTXZCTGVTM056QlNrMVg2eUpaU0dVV1BiNm5JTlpIUVh4TmRlSHpWdmc?oc=5>
 
-### 凤凰晚报丨“特朗普和她的关系非常不健康”
+### 特朗普威胁对欧洲国家征收100%报复性关税 欧盟回应
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-06-27 12:30
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFB4LWVvSmU4RTAyMUlWeHg2eXVaYml1bk51Tzc3VDZ4VUxscG1URUIyQVJLTWZNNWhsVUJ1RWd3OEpHeG9WVEpJOHRleTM?oc=5>
+- 场馆: 新京报
+- 时间: 2026-06-27 14:09
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzdU5kZ2JNZTVJcUxQMFRpRHFIRDlQUmFqVU5wLXpLdGp3Q1hjamMtVkRXNy02M0hucGtWZER1QThlR0IwTUx5T3oxbnBMbGtVN1NxNF85cTdHcXBMRGNMME91eXU?oc=5>
+
+### TRUMP3 到 USD：将 Trump MP3 (TRUMP3) 兑换为 美元 (USD)
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Coinbase
+- 时间: 2026-06-25 19:52
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1naHRzbVlUWF9qdkczdm9naVdUNW52TE05aWlfM3EydXlfTWZiVFVoYXNXc01DUEJjcmRqbnZLUFFEMlM0UjVLeHV1Y0F5UDN2OS1LZXZ5S2p0VXdRcUJDRw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-27 20:36  (9 条)
+
+- **周杰伦** | 新浪演唱会热点小时报丨2026年06月28日04时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001907hv78.html>
+- **周杰伦** | 周杰伦演唱会门票多少钱？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801s2tq.html>
+- **周杰伦** | 哪里能看周杰伦2004无与伦比演唱会完整版？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801rpzc.html>
+- **周杰伦** | 杭州四馆同开演唱会带动了多少文旅收入 <https://k.sina.com.cn/article_7879776328_1d5abd84806801rpwo.html>
+- **周杰伦** | 周杰伦携儿女抵京备战鸟巢演唱会,单手抱娃尽显温柔父爱 <https://k.sina.com.cn/article_7857201856_1d45362c001907h70w.html>
+- **特朗普** | 特朗普威胁：征收100%报复性关税 <https://news.google.com/rss/articles/CBMieEFVX3lxTE9aN25ia3R4SVRiQzNnUmFQZWxuZE9kbTdzRUhieGMxcTJxdFFiUUJBSWtFZGpBQmZCNjZzN3p0TV9FR2ppZl9ranQ5WXBHU0pSQ1ZFX1V4R0YwYTI4Z2lENWFrdVllZVc0NEZIdEM2Z3RTY2ZFT0M4Zg?oc=5>
+- **特朗普** | 特朗普政府出于安全考量，要求OpenAI分阶段推出新一代模型 <https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNUxBTlJSVHFTN0NmZy1jSDZyT2RmMlNDZjlsYzk2YjJYeDhiQlNmT1dORjNkVlVTZDE0OHVnd05hQWdxa3lqakR3ZkptQkxLcG9rcldaVFcyTVc5MmhmVWhRN3VTTTF2d3U2amNLckE4RFFUb1VObmgxZ3EySXZjVWhwSExwU05XdFRKNE1MOGo3aWgyenBOM2xYbmJQSXZqNjVfMUluQldZZWRaLVFSSE00ZGFhTXZCTGVTM056QlNrMVg2eUpaU0dVV1BiNm5JTlpIUVh4TmRlSHpWdmc?oc=5>
+- **特朗普** | 特朗普威胁对欧洲国家征收100%报复性关税 欧盟回应 <https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzdU5kZ2JNZTVJcUxQMFRpRHFIRDlQUmFqVU5wLXpLdGp3Q1hjamMtVkRXNy02M0hucGtWZER1QThlR0IwTUx5T3oxbnBMbGtVN1NxNF85cTdHcXBMRGNMME91eXU?oc=5>
+- **Trump** | TRUMP3 到 USD：将 Trump MP3 (TRUMP3) 兑换为 美元 (USD) <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1naHRzbVlUWF9qdkczdm9naVdUNW52TE05aWlfM3EydXlfTWZiVFVoYXNXc01DUEJjcmRqbnZLUFFEMlM0UjVLeHV1Y0F5UDN2OS1LZXZ5S2p0VXdRcUJDRw?oc=5>
 
 ### 2026-06-27 19:10  (13 条)
 
