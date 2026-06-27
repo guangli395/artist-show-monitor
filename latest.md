@@ -1,96 +1,95 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-27 13:20**
-- 本轮扫到 4788 条, 新增 **12** 条
+- 最近更新: **2026-06-27 14:58**
+- 本轮扫到 4798 条, 新增 **10** 条
 
 ---
 
-## 本轮新发现 (12 条)
+## 本轮新发现 (10 条)
 
-### 蔡徐坤签售会现场有哪些暖心名场面？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rwgq.html>
-
-### 蔡徐坤首次实体专辑签售会全细节曝光
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rwf0.html>
-
-### 周杰伦北京鸟巢演唱会入场中都称抢票很难
+### 周杰伦会在鸟巢演唱会唱给女儿的歌吗？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301cod2.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ryi8.html>
 
-### 在工体假装听周杰伦演唱会？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924013_m1d5ae192d03301inuc.html>
-
-### 周杰伦这次北京演唱会的曲目有什么惊喜吗？
+### 没抢到周杰伦鸟巢演唱会门票还会加场吗？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rmzq.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ryi2.html>
 
-### 昆凌当天有没有到周杰伦鸟巢演唱会现场
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rmqs.html>
-
-### 周杰伦鸟巢演唱会6月26日嘉宾到底是谁
+### 周杰伦说白天开演唱会感觉好不一样
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rmqq.html>
+- 链接: <https://k.sina.com.cn/article_1647210043_m622e6e3b03301l3pu.html>
 
-### 2026周杰伦鸟巢演唱会特色限定活动
+### 周杰伦鸟巢演唱会演绎获赞，观众称视听双在线
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907glgy.html>
+- 链接: <https://k.sina.com.cn/article_1829578697_6d0d27c904001r7z8.html>
+
+### 周杰伦全开麦演唱会唱腔入耳入心
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1880710372_70195ce404001dxde.html>
+
+### 苏州男孩偶遇加好友，向家长介绍看周杰伦演唱会
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879996608_m1d5af34c003301lhsm.html>
+
+### 普通人怎样才能抢到周杰伦演唱会原价票？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rntg.html>
 
 ### “特朗普在伊朗碰了钉子，所以默许乌克兰袭击莫斯科”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-06-27 10:10
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1HbzFyRlJibS12NGJHZ2tfbXE3dHpsMFpLa3g3NXJRY0M0a2dBZDBXX0JiQzhzaTNDdzE0V0w2SE1KVDlzSWttd2dIT3BUMjJhSWNWTmZaN0hGMkZPWnU3dmY3Q21hM2RUMlNybFNaRkZnWDZQdC1Tdw?oc=5>
+- 场馆: 观察者
+- 时间: 2026-06-27 10:02
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1jLUVuVmwxd0pycjZReWVrV3dnUHdIS090RmJlNXp4OEg2X1VSYnVWVV84NC1CQkdMTzgybmxQNmE4dlJxMFdLZGtQLTBCN3d1dW53a2hvOHRSOEkyZHpWWHdvZnl2Z0JxT3c?oc=5>
 
-### 面对涨价 苹果正游说特朗普政府 寻求获准从长鑫存储采购芯片
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-06-27 11:59
-- 链接: <https://news.google.com/rss/articles/CBMiygNBVV95cUxPelZKWXc4OE10cHNJMVpHVTQwbjI2akpCbF9uaDZXRFRoTU15MDFuZ0RPc2hCZWpxM3g3UFVWZTlBZGlpLVdnVmEzTVdGNEd3a04xUHdteFA2ODU2OW4wZElhaWQ2N2dWbWZId1M0ZHVpVE10aUlRbjBydU9Db0VFR1Yzc1JPekp1OFNkdTlITUMtdnI3bmRwSzFWMnNMQWZyZDdiQm1NLUZLUjFxRlBrT2FsWTRwMXlsTVk3akIwR1BnMU9DR2FDcFRHbkRrZ2JsYzVzUXA0Y3R2c2JMMkJNTlFqV2xTcDNjQW1UcGtSZERON0dUc1RVMTJXbTZiQjE0X2JHdGpBMmdEemNPSUw3X1hNTTF4c3FRNFN2ZkpFeXhicWdtRFcyWHBDc25LTTZxQTE1S0M2VHdHWGxwSmZWRjRmRXJneWdHUEhnQ3pUZ2E0XzB0enQ0VThPOHdROWM1c2psd0N5bmY3bTIxd2F5dTZPVk9SejJkQkd5VUc5VkVhVGN5eW11NHdFX3JqVmFaWjVtWWVrbUpNY3BuYlc2MXEwa0tvbFlObTR1MnpEVE90UmNaRFVMV2lMdjBwbk5OLXZzdFVnNXdyZw?oc=5>
-
-### 鲁比奥：特朗普可能于2027年年初访问印度
+### 特朗普政府解禁大模型“神话”背后 生意与算计
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-06-27 10:12
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFB2eF9Tbl9reGZGdDE0Z1dMNlo0dWx5M2JYeW8xYmxWYWtGZFotSEpVbWpqcHIwT1RJV2hqYzY2RkxPTzZIWDBhaFg2T3pkUVItUUxsR3l2Y1JyS3RoeExCRGt2bXdHQ1JTWEo4NE1EcGhUUWFPd2ZYMg?oc=5>
+- 场馆: 中华网
+- 时间: 2026-06-27 14:34
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5WLTNGS0poRXZaa3RPV0VKSDFtTXBpNi0taUlCeENTekxLRVZRMUs4NjNwMWxrUmtJRXBNLUZXaW9kcUg0ZXBmUi13MldsSEw2V0dkY3pqQjRvdFFMU3ZPRTcyT3JXZ2VWNjlFbWh6QkY?oc=5>
 
-### 特朗普孙女发布白宫内部罕见视频，模仿总统发表演说，称“特朗普有个可乐按钮，一按可乐就来了”
+### Gas Prices Aren't Falling Fast Enough for Trump. Here's When Drivers Can Expect More Relief.
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: QQ News
-- 时间: 2026-06-26 04:47
-- 链接: <https://news.google.com/rss/articles/CBMibEFVX3lxTE93b1lMazNFMnctelhTLVZoWmMwY0lpWFRLUTd3UnNDSXo1cmpQWlhkblFLU3F2bjZZcGlXUDlIaW5wZUdfcU9zbl9aSVg3dFA3djFIN0hHd3UxUDB3eEh5WHZySVl2Y2JnQTRZWA?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-06-24 18:55
+- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxOaW1NeDZzR1laRXJsalFBVjNjd0xtbUpqTjZUbmdnWkZLNDFfcGJSNmE3WEdPSDI1NkYySm1sLVBCME9sZGt5OW1KQU1lR09PVjJEVzVFX3ZHRnNOOWQxX0JwN1NWREx4UC15QXFENE1CS21jSExGYVVtTDJaTUdra2tfcTZDdVpodmFEOTJMYV96bmxIdzh4YklINGY5QjJT?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-27 14:58  (10 条)
+
+- **周杰伦** | 周杰伦会在鸟巢演唱会唱给女儿的歌吗？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801ryi8.html>
+- **周杰伦** | 没抢到周杰伦鸟巢演唱会门票还会加场吗？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801ryi2.html>
+- **周杰伦** | 周杰伦说白天开演唱会感觉好不一样 <https://k.sina.com.cn/article_1647210043_m622e6e3b03301l3pu.html>
+- **周杰伦** | 周杰伦鸟巢演唱会演绎获赞，观众称视听双在线 <https://k.sina.com.cn/article_1829578697_6d0d27c904001r7z8.html>
+- **周杰伦** | 周杰伦全开麦演唱会唱腔入耳入心 <https://k.sina.com.cn/article_1880710372_70195ce404001dxde.html>
+- **周杰伦** | 苏州男孩偶遇加好友，向家长介绍看周杰伦演唱会 <https://k.sina.com.cn/article_7879996608_m1d5af34c003301lhsm.html>
+- **周杰伦** | 普通人怎样才能抢到周杰伦演唱会原价票？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801rntg.html>
+- **特朗普** | “特朗普在伊朗碰了钉子，所以默许乌克兰袭击莫斯科” <https://news.google.com/rss/articles/CBMiakFVX3lxTE1jLUVuVmwxd0pycjZReWVrV3dnUHdIS090RmJlNXp4OEg2X1VSYnVWVV84NC1CQkdMTzgybmxQNmE4dlJxMFdLZGtQLTBCN3d1dW53a2hvOHRSOEkyZHpWWHdvZnl2Z0JxT3c?oc=5>
+- **特朗普** | 特朗普政府解禁大模型“神话”背后 生意与算计 <https://news.google.com/rss/articles/CBMicEFVX3lxTE5WLTNGS0poRXZaa3RPV0VKSDFtTXBpNi0taUlCeENTekxLRVZRMUs4NjNwMWxrUmtJRXBNLUZXaW9kcUg0ZXBmUi13MldsSEw2V0dkY3pqQjRvdFFMU3ZPRTcyT3JXZ2VWNjlFbWh6QkY?oc=5>
+- **Trump** | Gas Prices Aren't Falling Fast Enough for Trump. Here's When Drivers Can Expect More Relief. <https://news.google.com/rss/articles/CBMioAFBVV95cUxOaW1NeDZzR1laRXJsalFBVjNjd0xtbUpqTjZUbmdnWkZLNDFfcGJSNmE3WEdPSDI1NkYySm1sLVBCME9sZGt5OW1KQU1lR09PVjJEVzVFX3ZHRnNOOWQxX0JwN1NWREx4UC15QXFENE1CS21jSExGYVVtTDJaTUdra2tfcTZDdVpodmFEOTJMYV96bmxIdzh4YklINGY5QjJT?oc=5>
 
 ### 2026-06-27 13:20  (12 条)
 
