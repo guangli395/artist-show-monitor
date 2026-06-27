@@ -1,100 +1,102 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-27 16:07**
-- 本轮扫到 4811 条, 新增 **13** 条
+- 最近更新: **2026-06-27 17:36**
+- 本轮扫到 4822 条, 新增 **11** 条
 
 ---
 
-## 本轮新发现 (13 条)
+## 本轮新发现 (11 条)
 
-### 普通用户怎么才能抢到周杰伦演唱会门票？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rzyw.html>
-
-### 周杰伦演唱会门票10万张6分钟秒罄，抢票成功率不足5%
+### 周杰伦演唱会最前排票能抢到吗？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rzym.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801s0qq.html>
 
-### Jacinda会在周杰伦鸟巢演唱会正式表演吗
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rzde.html>
-
-### 周杰伦小女儿会在演唱会上登台吗？
+### 周杰伦演唱会最前排票价居然这么贵？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rzcy.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801s0qk.html>
 
-### 周杰伦这次鸟巢演唱会嘉宾都有谁？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rzcs.html>
-
-### 周杰伦北京嘉年华演唱会门票还能买到吗
+### 周杰伦《女儿殿下》MV上线!两女儿同框,老父亲甜蜜崩溃太真实
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rzdq.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907gzds.html>
 
-### 周杰伦小女儿会在演唱会上正式登台吗
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rzc6.html>
-
-### 周杰伦哪场演唱会才算是公认的完整版？
+### 周杰伦的新歌好不好听,我不评价...@可可说娱的动态
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rz9c.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907gz5u.html>
 
-### 马龙现身周杰伦演唱会，曾合作电影双打
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002mvn2.html>
-
-### 暑期京城演唱会热度一路飙升
+### 周杰伦《女儿殿下》MV上线,引发全网父母共鸣
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907gw8i.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907gzc6.html>
 
-### 特朗普推出印有其肖像、纪念美国建国250周年的新版护照
+### 太萌了!周杰伦新MV《女儿殿下》揭秘趣味亲子互动
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907gz56.html>
+
+### 没能抢到周杰伦鸟巢演唱会门票怎么办？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rofc.html>
+
+### 周杰伦这次鸟巢演唱会的曲目单公布了吗？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rofa.html>
+
+### 特朗普孙女发布罕见白宫内部视频，美国网友大破防
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-27 14:52
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE14TWFfZEtoUXpPR290M01EcDY4enctSEdWYWF6ZDhMTW1hdUFTWmVHMXFKTUcyTUdyRnJ5YWNBZDhqMXFSbU5IeG5LeWpqVlJ3U3NuMnJtang4Tk9lU3RHaUdpVVVjamtlRU5aR0hSTl9pdkVWdG41WA?oc=5>
+- 场馆: video.sina.com.cn
+- 时间: 2026-06-27 16:33
+- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE1BcUFOaVdtOVdBYWhqUTc2ak1zT1JJNHB5YndNVDdFdkdhdVNUTTBPRVFrVmhBT25iblQ4N2NmWHZ3OGZNUE5wMXFQZUIzdDUyeU9DanZTV3l2blRVZ19sNEJBeUsxdVdfdFNYd1R4Y2lJVlQ2NVBfck5COVVqQQ?oc=5>
 
-### 特朗普威胁对欧洲国家征收100%报复性关税，马克龙：不会屈服
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-27 03:16
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE9OOUNqUmJXYnZZUWJkZmZIZ0xMcjNKUkFrZGVkb0IzVUVoNmJJcVpFd0lfbjZsV3ZlQV9uTURZSTc1VHVheTVNbndIeHE5Rk9OX3R2Nkg4cHREYzB4ZDUwTy1KeGhVU29WYmpaZGhqRk1xRUZwTkE?oc=5>
-
-### 鲁比奥：美印正推进贸易谈判，特朗普可能于明年年初访印
+### 特朗普：谁敢对美企征收数字税，就加征100%关税
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-06-27 11:19
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1yQ0dBZnEtcENneUZ0OUxxRGhPUWRGaDltTkVzZmtDcEQ4eGRvSlNaRXY1djYyNzZEdldhRFFINXpnbE5NelByc1V1cEU?oc=5>
+- 场馆: thepaper.cn
+- 时间: 2026-06-27 12:50
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zajJjWk4zNzFQdGlnTi1XdXBpZFdNejNTazdfdVVzeXlrX0Y4YVNvUXZTXzd4a09qRnNHUkFxaDlnUDk3Wm1oQ3JINDBzMnFVdjBkQlM2TldpaWprTFE?oc=5>
+
+### 特朗普推限量版“爱国者护照” 肖像首登美国旅行证件内页
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-06-27 10:36
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBkYm54NlRqMVZRMUM3WEtlekNpNGU4S0t1WVlfcXdzQXh0Y01MZXVyWEhOd2FhUkV6TDlGdHVhYzA3QUJRUG9XVUtva244VExfcVdxdWxsN2dJNk5PY0xsa0ZOY0FVN2JWLUE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-27 17:36  (11 条)
+
+- **周杰伦** | 周杰伦演唱会最前排票能抢到吗？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801s0qq.html>
+- **周杰伦** | 周杰伦演唱会最前排票价居然这么贵？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801s0qk.html>
+- **周杰伦** | 周杰伦《女儿殿下》MV上线!两女儿同框,老父亲甜蜜崩溃太真实 <https://k.sina.com.cn/article_7857201856_1d45362c001907gzds.html>
+- **周杰伦** | 周杰伦的新歌好不好听,我不评价...@可可说娱的动态 <https://k.sina.com.cn/article_7857201856_1d45362c001907gz5u.html>
+- **周杰伦** | 周杰伦《女儿殿下》MV上线,引发全网父母共鸣 <https://k.sina.com.cn/article_7857201856_1d45362c001907gzc6.html>
+- **周杰伦** | 太萌了!周杰伦新MV《女儿殿下》揭秘趣味亲子互动 <https://k.sina.com.cn/article_7857201856_1d45362c001907gz56.html>
+- **周杰伦** | 没能抢到周杰伦鸟巢演唱会门票怎么办？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801rofc.html>
+- **周杰伦** | 周杰伦这次鸟巢演唱会的曲目单公布了吗？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801rofa.html>
+- **特朗普** | 特朗普孙女发布罕见白宫内部视频，美国网友大破防 <https://news.google.com/rss/articles/CBMifkFVX3lxTE1BcUFOaVdtOVdBYWhqUTc2ak1zT1JJNHB5YndNVDdFdkdhdVNUTTBPRVFrVmhBT25iblQ4N2NmWHZ3OGZNUE5wMXFQZUIzdDUyeU9DanZTV3l2blRVZ19sNEJBeUsxdVdfdFNYd1R4Y2lJVlQ2NVBfck5COVVqQQ?oc=5>
+- **特朗普** | 特朗普：谁敢对美企征收数字税，就加征100%关税 <https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zajJjWk4zNzFQdGlnTi1XdXBpZFdNejNTazdfdVVzeXlrX0Y4YVNvUXZTXzd4a09qRnNHUkFxaDlnUDk3Wm1oQ3JINDBzMnFVdjBkQlM2TldpaWprTFE?oc=5>
+- **特朗普** | 特朗普推限量版“爱国者护照” 肖像首登美国旅行证件内页 <https://news.google.com/rss/articles/CBMiakFVX3lxTFBkYm54NlRqMVZRMUM3WEtlekNpNGU4S0t1WVlfcXdzQXh0Y01MZXVyWEhOd2FhUkV6TDlGdHVhYzA3QUJRUG9XVUtva244VExfcVdxdWxsN2dJNk5PY0xsa0ZOY0FVN2JWLUE?oc=5>
 
 ### 2026-06-27 16:07  (13 条)
 
