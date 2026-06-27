@@ -1,226 +1,342 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-27 04:01**
-- 本轮扫到 4693 条, 新增 **32** 条
+- 最近更新: **2026-06-27 07:34**
+- 本轮扫到 4738 条, 新增 **45** 条
 
 ---
 
-## 本轮新发现 (32 条)
+## 本轮新发现 (45 条)
 
-### 周杰伦感慨白天开演唱会很不一样
+### 蔡徐坤珠海横琴首场实体专辑签售会举行
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7096020439_1a6f4add706801sdky.html>
+
+### 网红小黄豆蔡徐坤签售会比心圆梦
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7096020439_1a6f4add706801sdk4.html>
+
+### 蔡徐坤签售会比耶飞吻引粉丝尖叫
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_2495457342_m94bda83e033019how.html>
+
+### 蔡徐坤下一场签售会会在什么时候举办？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rsgq.html>
+
+### 蔡徐坤黑色铆钉造型亮相新专辑签售会，TASAKI珠宝点睛
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1922407515_72959c5b04001gccs.html>
+
+### 蔡徐坤珠海首办实体专辑签售会，150名粉丝互动80秒
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7096020439_1a6f4add706801sdhy.html>
+
+### 蔡徐坤签售会今日举行，现场置景曝光
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7275338464_1b1a4dae004002om0k.html>
+
+### 蔡徐坤签售会线下置景曝光，细节丰富
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5930868365_16181de8d04001k2yu.html>
+
+### 蔡徐坤珠海签售会需要港澳通行证吗？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rrfe.html>
+
+### 蔡徐坤签售会支持定制TO签名吗？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rrfi.html>
+
+### 蔡徐坤这次签售会还有额外加场吗？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rqxm.html>
+
+### 你最希望周杰伦演唱会唱哪首未唱歌曲？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1288429914_m4ccbe15a033017dc6.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rssm.html>
 
-### 新浪演唱会热点小时报丨2026年06月27日11时_今日实时演唱会热点速递
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907h4zq.html>
-
-### ‎《周杰伦地表最强世界巡回演唱会 (Live)》- 周杰伦的专辑 - Apple Music
+### 官方会公布周杰伦演唱会未唱曲目吗？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907h5ti.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rss6.html>
 
-### 这次白天场演唱会门票多少钱一张
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rp7e.html>
-
-### 周杰伦鸟巢演唱会：圆了18年的鸟巢之约
+### 周杰伦演唱会从未唱过的歌全整理！
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rp4w.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rsry.html>
 
-### 天王天团再合体!周杰伦现身五月天演唱会,将合唱《稻香》《安静》等热门歌曲
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907gzlu.html>
-
-### 周杰伦成为大巨蛋开唱第一人,现场大咖云集,演唱会一起数星星!
+### 白天场会影响周杰伦演唱会的舞台效果吗
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907gzae.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rsru.html>
 
-### 6月15号,周杰伦新歌《女儿殿下》M...@仁利的动态
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907gz6i.html>
-
-### 新浪演唱会热点小时报丨2026年06月27日10时_今日实时演唱会热点速递
+### 周杰伦2026年后还会开白天场演唱会吗
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907gyq2.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rsrm.html>
 
-### 周杰伦鸟巢演唱会献唱千山万水
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_3285889392_c3dab17004001aaq0.html>
-
-### 周杰伦鸟巢演唱会再唱千山万水，引歌迷回忆
+### 周杰伦那些至今没开过演唱会的城市，没想到是这些
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2387456303_8e4db12f04001730k.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rsrc.html>
 
-### 马龙骑小黄车看周杰伦演唱会？原是误会！
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879995911_1d5af320706801zrcc.html>
-
-### 周杰伦演唱会能给举办城市带来多少收益？
+### 周杰伦下次在北京开演唱会是什么时候
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rnte.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rsr2.html>
 
-### 马龙夏露看了周杰伦演唱会
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2286092114_m8842ff5203302j6by.html>
-
-### 44岁华语天王周杰伦，2004无与伦比演唱会成22年无法超越的巅峰，为何至今仍是歌迷心中的神级现场？
+### 网友对周杰伦鸟巢演唱会评价如何
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068204_1d5b04c6c068019zy2.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rsqu.html>
 
-### 44岁华语天王周杰伦《女儿殿下》MV上线，为何让网友直呼“被戳中带娃日常”？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068204_1d5b04c6c068019zy0.html>
-
-### 独家现场片段！周杰伦跟台下粉丝闲聊，透露自己从未办过白天演唱会
+### 周杰伦没在北京办过演唱会？刚连开三场鸟巢！
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924004_m1d5ae1924033020pcs.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rsqk.html>
 
-### 舞台随口一句话戳中全场，周杰伦自曝从来没有在白天开过演唱会
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924004_m1d5ae1924033020pbw.html>
-
-### 这么多年巡回全是夜场，周杰伦现场直言白天开唱对他来说是全新尝试
+### 哪首周杰伦的歌最适合白天演唱会演唱？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924004_m1d5ae1924033020pby.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rsqg.html>
 
-### 第一次看周杰伦的演唱会 很多歌一唱起来就感觉唤醒了尘封的记忆…
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1738877650_67a52ad204001aobw.html>
-
-### 杰伦北京演唱会，点歌太会点了！鸟巢点《千山万水》这太对了！…
+### 周杰伦接下来会开白天专场演唱会吗？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2292724833_88a83461040018vue.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rsqe.html>
 
-### 周杰伦抵京备战个唱，粉丝盼他空降孙燕姿演唱会
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rdso.html>
-
-### 现在还能抢到周杰伦鸟巢演唱会的门票吗？
+### 其他歌手开演唱会大多选在白天还是晚上？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rcz2.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rsqa.html>
+
+### 王俊凯会是周杰伦演唱会第二天的嘉宾吗？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rspe.html>
+
+### 海清携子现身周杰伦演唱会，19岁蛋俊朗挺拔引关注
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7096020439_1a6f4add706801sdkm.html>
+
+### 新浪演唱会热点小时报丨2026年06月27日15时_今日实时演唱会热点速递
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907hidc.html>
+
+### 海清与19岁儿子同框周杰伦演唱会
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7096020439_1a6f4add706801sdim.html>
+
+### 新浪演唱会热点小时报丨2026年06月27日14时_今日实时演唱会热点速递
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907hey8.html>
+
+### 迟到18年！周杰伦北京鸟巢演唱会圆梦开唱
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rr42.html>
+
+### 新浪演唱会热点小时报丨2026年06月27日13时_今日实时演唱会热点速递
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907hc4g.html>
+
+### 海清母子去看了周杰伦演唱会 完整现场详情
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rqg6.html>
+
+### 马龙骑共享单车看周杰伦演唱会！反差感拉满
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rq92.html>
+
+### 我美吗作为总导演全程安排杰伦如何彩排 周杰伦北京演唱会
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923674_m1d5ae17da03301h26a.html>
+
+### 周杰伦2004无与伦比演唱会，为何至今封神？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rpz2.html>
+
+### 杭州为什么能成为热门演唱会举办城市
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rpx8.html>
+
+### 周杰伦北京演唱会猜歌失误遭奶油惩罚
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923973_m1d5ae1905033020pvu.html>
+
+### 新浪演唱会热点小时报丨2026年06月27日12时_今日实时演唱会热点速递
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907h9xg.html>
+
+### 周杰伦龙拳北京演唱会现场粉丝激动欢呼
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923551_m1d5ae175f03301lhaq.html>
+
+### 龙嫂视角下的周董演唱会现场 龙嫂也和马龙一样踩着小黄车去鸟巢的吗
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7880068727_m1d5b04e77033049fom.html>
+
+### 周董《女儿殿下》MV爆笑:阿Ken扮Elsa翻车,&#039;我美吗&#039;洗脑神曲
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907gati.html>
+
+### 网友们对马龙骑小黄车看演唱会怎么看
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879995911_1d5af320706801zmr0.html>
 
 ### 特朗普威胁对欧洲国家征收100%报复性关税
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中国日报网
-- 时间: 2026-06-27 02:54
-- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE53aUllb05sSy1FbEdVU3FnUTdWaUJrTkpYMEpFNmtQVVhNU1ZaUF84R0dTYmFkNXRIR1ZGMWpYRHh2WUYtMjNqaTktREZOeE1jeUp5Ni1WYW1STFA2OUxhekhRVjlhT3dCVDNJeUhjNDQ5TEE1RlFTaVZfenE?oc=5>
+- 场馆: 中国网新闻中心
+- 时间: 2026-06-27 06:42
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTFBQak4wVDFYRjh6dEhCd1o5NF83ZnhscUVsdTBrMlhxRGUyYmVYZ3l4QnNNczY2S00tZzFZZDZxTFo3WHZrUXRrTHJoQTVZdXNxVk5nZ0l3eGl2YmZxR0JTT3hPUU5HMTRnWmlR?oc=5>
 
-### 特朗普威胁：对向美国企业征收数字服务税的国家征收100%关税
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-26 17:02
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNm9mNW9oRVhhUG1NOWJTUS15S0ktNmdrSklWcXBKV1lvT1dSSlhaRUFDeTl3RFR2R2ZqOWduc1RtMUp1bTRRV2VkOWowbGNZcnVObkJEQ0N0RU8yNHNZTWdDUTVSY05WZTV6T3FleGZTc3hfYXBWUTVfczgzU2JqeVgzLXBrTlVUR3BLUmxob2hhNEoyd2dBT01jRXpRanpOTVNYbG5BZkU4ZFBfS3d4OTE1ZkpqYmlwZFlmakJLN3dTWTlqZHB1Ri1xMlBweHBHbnJpdFB4cjdnZGdMTmNv?oc=5>
-
-### 特朗普威胁：若欧洲国家征收数字服务税，将对其输美商品征收100%关税
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-06-26 19:00
-- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Gb2FSUVBFWHhmazhGY0dzNUhrNWlIYU4tcWhJN0wzdmNucUNTcUZUVER0MVdNZWRHbEF6LTRjSHU4cVZSaGstU3h3aS1RRTZi?oc=5>
-
-### 6月27日外盘头条：美国对伊朗发动打击 特朗普对欧再发关税威胁 甲骨文股价本周暴跌19%
+### 特朗普前顾问博尔顿承认非法保留国防信息
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-27 02:26
-- 链接: <https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRU00SV9BczhKd1BOWHpYdjRvZ0lTczd6UEVuVWxraldvUzF0Y2ZLNWhPclFodnAwcG0yUmhhM1ZjNDF5U2FaWFNFTkZ5b2NucXZWcnktY2RZZkZEN0ZrdFpobzUxYlhwTUNtMmFsU1NuYWN6LXl2WVRWcXhEbHhIZnNBUmVRT29zWnVYQUV2MEN3UTR0QWhqc3U3OHlpMkRuaFVaZnJyQjQ1Y29RLWFfWnhVZjVOYnlfMW5SSDlOWFA?oc=5>
+- 时间: 2026-06-26 15:50
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZ2lWR1FuYmI3dk1rMkFOc1pRbG0xaWVneURLOGYyMEFiWDd4RFFxalphdmZWOTljUjFiZkFsOW9hNXVtaFM2bllVdTMwaEx0NVNKQmZYaXo5X3RGZHBXN0djN1NLMXZ0VFF0YTEtS05nN2x6RTJaZG5HdjhTd0N1LUVyOWZCSjl1YkVqYzIxQ0lZZUpQTjZEdmQ4LUp5VFpidVhVSl9Ya3JCLW9HZERiaHl3ejdyT01rdGhCQmROeVl5U3JEbThRdXdPNmREbTJHY3dlMVNHZ0xlZ1VneFlN?oc=5>
 
-### 特朗普总统指伊朗袭击霍尔木兹海峡货轮违反停火协议，美军恢复空袭
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-06-26 23:35
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE00WFhvTEcydy1wdTNJSHU4V21mNWc1N3luVk1aVkV5YnpNOXNnOFFBUFlNaklMd3dZRF9vc1FUaWdZUm5GblUyVW1wQUswSTZSclk2TzBUbTh4aXItNzdqa0xONElIdGYwdUHSAWxBVV95cUxPX2dwYUoweHNhRFlFUHFuckRiX3FkcHlxcXMtR2tzTXhLYzNselVLQUY2V3BMWktmZXJzR2lmdVdmWnhqTHBNck5uQjVHU3VEZ3B6WmkyUEkyZ3FSOFNNWjkydFZHZ1dFR01rZnE?oc=5>
-
-### 特朗普：伊朗至少向经过霍尔木兹海峡的船只发射4架单向攻击无人机，美方击落了其余3架，此举“明显违反了我们的停火协议”
+### 特朗普在为万斯“接班”铺路吗 外交舞台上的考验
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-26 23:09
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE9yZnpWNjJYSm10SUZnTzRieV9ZbTY1VTlsemhmUVNhZ1VOdlJBMGpHWVlaVXFQZkcyeUw3OGEydXRBbHlkNGdCWmxwYkVFV19ZaUlGWGdnd25NUnVWbVcyci16aHFOMEE0OVZXWDFKd0FkOHJMTFE?oc=5>
+- 场馆: 中华军事
+- 时间: 2026-06-27 02:10
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBFS2hkNWlhN2dVekxSRWNMRW9vS2xTczBKM1BoVnk2WXZHTEJPT2g5SHE3M09WWkZmbHJaTFVobHBKZFk3bndJZlh0OWN5YUFsR2JPNjJmUEUwLTQtZE0ydWQtVG15ZG13RE40bDl0VkQ?oc=5>
 
-### 被特朗普轮番羞辱后，意大利总理才明白，为何中方不直接介入冲突
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-06-27 01:54
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE9henpOSnVSeGlTWkhpNE82bldDVnJ1SnBaOTNSUHh0SjdWRTRVY1BVNnZwOWtUbGtLRnkxUzBaSXg0XzZteExrM3hKOEJic0xsTVRVbkdic0lCdzYyMEJIUkRPZC1sSzZIeHBjWDJwZDZWZw?oc=5>
-
-### “特朗普和她的关系非常不健康”
+### 特朗普威胁对欧洲国家征收100%报复性关税
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-06-27 02:06
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9VRUg0bEw2MGFuN0JVRThHWVBvX0hCMzVuMVhxeTBHdFplMVVIVlFVSVF1VVkxWE9tajh2LXdZRWdWcnVndlNTZG4zVGQ?oc=5>
-
-### 美国建国250周年限量版护照 内页印有特朗普肖像
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-06-27 03:13
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE5HSXNlQ1lKYXJYTDZzRnNGLWd5SC1QOUhXS3lXa3B0eWdYRnFhNzl5NERvaFhVTHZtNnFlV0puQmRjTTZ6dF9jSGdkdjlTQ3MzYURGdlhEQXNoUnpqTWxROVJfRkN3VVRYVkh2djZXLUFQVl9jcXc?oc=5>
+- 场馆: 新华网
+- 时间: 2026-06-27 01:16
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBtbl94Znp0akV6dmt1cmltTmZ0YlZxZGx3QTZXMmVXcENnUVBVX3kyUW1jNDBhOUNBdEoweUdSWEN2N3ItTHZMRGVhTjFqT0Q0QXFWaDFuTlF0US1NT2RESGRVckpFY0Q3eW5zbjlPU3dmdU15UFdFQXlFcFE2OVE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-27 07:34  (45 条)
+
+- **蔡徐坤** | 蔡徐坤珠海横琴首场实体专辑签售会举行 <https://k.sina.com.cn/article_7096020439_1a6f4add706801sdky.html>
+- **蔡徐坤** | 网红小黄豆蔡徐坤签售会比心圆梦 <https://k.sina.com.cn/article_7096020439_1a6f4add706801sdk4.html>
+- **蔡徐坤** | 蔡徐坤签售会比耶飞吻引粉丝尖叫 <https://k.sina.com.cn/article_2495457342_m94bda83e033019how.html>
+- **蔡徐坤** | 蔡徐坤下一场签售会会在什么时候举办？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801rsgq.html>
+- **蔡徐坤** | 蔡徐坤黑色铆钉造型亮相新专辑签售会，TASAKI珠宝点睛 <https://k.sina.com.cn/article_1922407515_72959c5b04001gccs.html>
+- **蔡徐坤** | 蔡徐坤珠海首办实体专辑签售会，150名粉丝互动80秒 <https://k.sina.com.cn/article_7096020439_1a6f4add706801sdhy.html>
+- **蔡徐坤** | 蔡徐坤签售会今日举行，现场置景曝光 <https://k.sina.com.cn/article_7275338464_1b1a4dae004002om0k.html>
+- **蔡徐坤** | 蔡徐坤签售会线下置景曝光，细节丰富 <https://k.sina.com.cn/article_5930868365_16181de8d04001k2yu.html>
+- **蔡徐坤** | 蔡徐坤珠海签售会需要港澳通行证吗？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801rrfe.html>
+- **蔡徐坤** | 蔡徐坤签售会支持定制TO签名吗？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801rrfi.html>
+- **蔡徐坤** | 蔡徐坤这次签售会还有额外加场吗？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801rqxm.html>
+- **周杰伦** | 你最希望周杰伦演唱会唱哪首未唱歌曲？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801rssm.html>
+- **周杰伦** | 官方会公布周杰伦演唱会未唱曲目吗？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801rss6.html>
+- **周杰伦** | 周杰伦演唱会从未唱过的歌全整理！ <https://k.sina.com.cn/article_7879776328_1d5abd84806801rsry.html>
+- **周杰伦** | 白天场会影响周杰伦演唱会的舞台效果吗 <https://k.sina.com.cn/article_7879776328_1d5abd84806801rsru.html>
+- **周杰伦** | 周杰伦2026年后还会开白天场演唱会吗 <https://k.sina.com.cn/article_7879776328_1d5abd84806801rsrm.html>
+- **周杰伦** | 周杰伦那些至今没开过演唱会的城市，没想到是这些 <https://k.sina.com.cn/article_7879776328_1d5abd84806801rsrc.html>
+- **周杰伦** | 周杰伦下次在北京开演唱会是什么时候 <https://k.sina.com.cn/article_7879776328_1d5abd84806801rsr2.html>
+- **周杰伦** | 网友对周杰伦鸟巢演唱会评价如何 <https://k.sina.com.cn/article_7879776328_1d5abd84806801rsqu.html>
+- **周杰伦** | 周杰伦没在北京办过演唱会？刚连开三场鸟巢！ <https://k.sina.com.cn/article_7879776328_1d5abd84806801rsqk.html>
+- **周杰伦** | 哪首周杰伦的歌最适合白天演唱会演唱？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801rsqg.html>
+- **周杰伦** | 周杰伦接下来会开白天专场演唱会吗？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801rsqe.html>
+- **周杰伦** | 其他歌手开演唱会大多选在白天还是晚上？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801rsqa.html>
+- **周杰伦** | 王俊凯会是周杰伦演唱会第二天的嘉宾吗？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801rspe.html>
+- **周杰伦** | 海清携子现身周杰伦演唱会，19岁蛋俊朗挺拔引关注 <https://k.sina.com.cn/article_7096020439_1a6f4add706801sdkm.html>
+- **周杰伦** | 新浪演唱会热点小时报丨2026年06月27日15时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001907hidc.html>
+- **周杰伦** | 海清与19岁儿子同框周杰伦演唱会 <https://k.sina.com.cn/article_7096020439_1a6f4add706801sdim.html>
+- **周杰伦** | 新浪演唱会热点小时报丨2026年06月27日14时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001907hey8.html>
+- **周杰伦** | 迟到18年！周杰伦北京鸟巢演唱会圆梦开唱 <https://k.sina.com.cn/article_7879776328_1d5abd84806801rr42.html>
+- **周杰伦** | 新浪演唱会热点小时报丨2026年06月27日13时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001907hc4g.html>
+- **周杰伦** | 海清母子去看了周杰伦演唱会 完整现场详情 <https://k.sina.com.cn/article_7879776328_1d5abd84806801rqg6.html>
+- **周杰伦** | 马龙骑共享单车看周杰伦演唱会！反差感拉满 <https://k.sina.com.cn/article_7879776328_1d5abd84806801rq92.html>
+- **周杰伦** | 我美吗作为总导演全程安排杰伦如何彩排 周杰伦北京演唱会 <https://k.sina.com.cn/article_7879923674_m1d5ae17da03301h26a.html>
+- **周杰伦** | 周杰伦2004无与伦比演唱会，为何至今封神？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801rpz2.html>
+- **周杰伦** | 杭州为什么能成为热门演唱会举办城市 <https://k.sina.com.cn/article_7879776328_1d5abd84806801rpx8.html>
+- **周杰伦** | 周杰伦北京演唱会猜歌失误遭奶油惩罚 <https://k.sina.com.cn/article_7879923973_m1d5ae1905033020pvu.html>
+- **周杰伦** | 新浪演唱会热点小时报丨2026年06月27日12时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001907h9xg.html>
+- **周杰伦** | 周杰伦龙拳北京演唱会现场粉丝激动欢呼 <https://k.sina.com.cn/article_7879923551_m1d5ae175f03301lhaq.html>
+- **周杰伦** | 龙嫂视角下的周董演唱会现场 龙嫂也和马龙一样踩着小黄车去鸟巢的吗 <https://k.sina.com.cn/article_7880068727_m1d5b04e77033049fom.html>
+- **周杰伦** | 周董《女儿殿下》MV爆笑:阿Ken扮Elsa翻车,&#039;我美吗&#039;洗脑神曲 <https://k.sina.com.cn/article_7857201856_1d45362c001907gati.html>
+- **周杰伦** | 网友们对马龙骑小黄车看演唱会怎么看 <https://k.sina.com.cn/article_7879995911_1d5af320706801zmr0.html>
+- **特朗普** | 特朗普威胁对欧洲国家征收100%报复性关税 <https://news.google.com/rss/articles/CBMia0FVX3lxTFBQak4wVDFYRjh6dEhCd1o5NF83ZnhscUVsdTBrMlhxRGUyYmVYZ3l4QnNNczY2S00tZzFZZDZxTFo3WHZrUXRrTHJoQTVZdXNxVk5nZ0l3eGl2YmZxR0JTT3hPUU5HMTRnWmlR?oc=5>
+- **特朗普** | 特朗普前顾问博尔顿承认非法保留国防信息 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZ2lWR1FuYmI3dk1rMkFOc1pRbG0xaWVneURLOGYyMEFiWDd4RFFxalphdmZWOTljUjFiZkFsOW9hNXVtaFM2bllVdTMwaEx0NVNKQmZYaXo5X3RGZHBXN0djN1NLMXZ0VFF0YTEtS05nN2x6RTJaZG5HdjhTd0N1LUVyOWZCSjl1YkVqYzIxQ0lZZUpQTjZEdmQ4LUp5VFpidVhVSl9Ya3JCLW9HZERiaHl3ejdyT01rdGhCQmROeVl5U3JEbThRdXdPNmREbTJHY3dlMVNHZ0xlZ1VneFlN?oc=5>
+- **特朗普** | 特朗普在为万斯“接班”铺路吗 外交舞台上的考验 <https://news.google.com/rss/articles/CBMicEFVX3lxTFBFS2hkNWlhN2dVekxSRWNMRW9vS2xTczBKM1BoVnk2WXZHTEJPT2g5SHE3M09WWkZmbHJaTFVobHBKZFk3bndJZlh0OWN5YUFsR2JPNjJmUEUwLTQtZE0ydWQtVG15ZG13RE40bDl0VkQ?oc=5>
+- **特朗普** | 特朗普威胁对欧洲国家征收100%报复性关税 <https://news.google.com/rss/articles/CBMif0FVX3lxTFBtbl94Znp0akV6dmt1cmltTmZ0YlZxZGx3QTZXMmVXcENnUVBVX3kyUW1jNDBhOUNBdEoweUdSWEN2N3ItTHZMRGVhTjFqT0Q0QXFWaDFuTlF0US1NT2RESGRVckpFY0Q3eW5zbjlPU3dmdU15UFdFQXlFcFE2OVE?oc=5>
 
 ### 2026-06-27 04:01  (32 条)
 
