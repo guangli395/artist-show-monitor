@@ -1,88 +1,114 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-27 17:36**
-- 本轮扫到 4822 条, 新增 **11** 条
+- 最近更新: **2026-06-27 19:10**
+- 本轮扫到 4835 条, 新增 **13** 条
 
 ---
 
-## 本轮新发现 (11 条)
+## 本轮新发现 (13 条)
 
-### 周杰伦演唱会最前排票能抢到吗？
+### 26岁歌手蔡徐坤签售会遇豪掷14万男粉，双向比心为何引全网狂欢？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801a21m.html>
+
+### 蔡徐坤签售被小黄豆比心逗到红温面壁
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801s1ly.html>
+
+### 周杰伦这场鸟巢演唱会门票多少钱？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801s0qq.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801s1tc.html>
 
-### 周杰伦演唱会最前排票价居然这么贵？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801s0qk.html>
-
-### 周杰伦《女儿殿下》MV上线!两女儿同框,老父亲甜蜜崩溃太真实
+### 周杰伦2026鸟巢演唱会时间安排官宣
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907gzds.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801s1ru.html>
 
-### 周杰伦的新歌好不好听,我不评价...@可可说娱的动态
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907gz5u.html>
-
-### 周杰伦《女儿殿下》MV上线,引发全网父母共鸣
+### 周杰伦演唱会现场唱腔韵味十足，民乐编曲层次分明
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907gzc6.html>
+- 链接: <https://k.sina.com.cn/article_7879924004_m1d5ae1924033020rkq.html>
 
-### 太萌了!周杰伦新MV《女儿殿下》揭秘趣味亲子互动
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907gz56.html>
-
-### 没能抢到周杰伦鸟巢演唱会门票怎么办？
+### 周杰伦鸟巢全开麦演唱会细腻唱功治愈听众
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rofc.html>
+- 链接: <https://k.sina.com.cn/article_7879924004_m1d5ae1924033020rko.html>
 
-### 周杰伦这次鸟巢演唱会的曲目单公布了吗？
+### 马龙现身周杰伦演唱会，两人多年惺惺相惜
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rofa.html>
+- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301coms.html>
 
-### 特朗普孙女发布罕见白宫内部视频，美国网友大破防
+### 最新MV《女儿殿下》正式发布，周杰伦大秀复古舞风_新闻
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907h65w.html>
+
+### 周杰伦 2004 无与伦比 演唱会 Live CD专辑_周杰伦_无损音乐专辑_酷我音乐
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907h5nm.html>
+
+### 周杰伦最新MV《女儿殿下》发布，大秀复古舞风_中国城市网
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907h5um.html>
+
+### 这次白天场演唱会现场观众反响如何
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rp7i.html>
+
+### 特朗普称伊朗无人机袭击霍尔木兹海峡船只违反停火协议
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: video.sina.com.cn
-- 时间: 2026-06-27 16:33
-- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE1BcUFOaVdtOVdBYWhqUTc2ak1zT1JJNHB5YndNVDdFdkdhdVNUTTBPRVFrVmhBT25iblQ4N2NmWHZ3OGZNUE5wMXFQZUIzdDUyeU9DanZTV3l2blRVZ19sNEJBeUsxdVdfdFNYd1R4Y2lJVlQ2NVBfck5COVVqQQ?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-06-27 08:27
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE52MU56ZlhTeXRUTThEUjBFVzl5WHlqQTF0enNXOHdqVWZKSmYySklaUTNjSXlHRVpUdVFYdHUwQmVmRGZQU1IzTmJacDY3SjZjaDI4bG94WjFidEJkSjdBY0xPOW9fY1o1V1JPSnNaelI1MXotNkE?oc=5>
 
-### 特朗普：谁敢对美企征收数字税，就加征100%关税
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-06-27 12:50
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zajJjWk4zNzFQdGlnTi1XdXBpZFdNejNTazdfdVVzeXlrX0Y4YVNvUXZTXzd4a09qRnNHUkFxaDlnUDk3Wm1oQ3JINDBzMnFVdjBkQlM2TldpaWprTFE?oc=5>
-
-### 特朗普推限量版“爱国者护照” 肖像首登美国旅行证件内页
+### 凤凰晚报丨“特朗普和她的关系非常不健康”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-06-27 10:36
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBkYm54NlRqMVZRMUM3WEtlekNpNGU4S0t1WVlfcXdzQXh0Y01MZXVyWEhOd2FhUkV6TDlGdHVhYzA3QUJRUG9XVUtva244VExfcVdxdWxsN2dJNk5PY0xsa0ZOY0FVN2JWLUE?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-06-27 12:30
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFB4LWVvSmU4RTAyMUlWeHg2eXVaYml1bk51Tzc3VDZ4VUxscG1URUIyQVJLTWZNNWhsVUJ1RWd3OEpHeG9WVEpJOHRleTM?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-27 19:10  (13 条)
+
+- **蔡徐坤** | 26岁歌手蔡徐坤签售会遇豪掷14万男粉，双向比心为何引全网狂欢？ <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801a21m.html>
+- **蔡徐坤** | 蔡徐坤签售被小黄豆比心逗到红温面壁 <https://k.sina.com.cn/article_7879776328_1d5abd84806801s1ly.html>
+- **周杰伦** | 周杰伦这场鸟巢演唱会门票多少钱？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801s1tc.html>
+- **周杰伦** | 周杰伦2026鸟巢演唱会时间安排官宣 <https://k.sina.com.cn/article_7879776328_1d5abd84806801s1ru.html>
+- **周杰伦** | 周杰伦演唱会现场唱腔韵味十足，民乐编曲层次分明 <https://k.sina.com.cn/article_7879924004_m1d5ae1924033020rkq.html>
+- **周杰伦** | 周杰伦鸟巢全开麦演唱会细腻唱功治愈听众 <https://k.sina.com.cn/article_7879924004_m1d5ae1924033020rko.html>
+- **周杰伦** | 马龙现身周杰伦演唱会，两人多年惺惺相惜 <https://k.sina.com.cn/article_7879924009_m1d5ae192903301coms.html>
+- **周杰伦** | 最新MV《女儿殿下》正式发布，周杰伦大秀复古舞风_新闻 <https://k.sina.com.cn/article_7857201856_1d45362c001907h65w.html>
+- **周杰伦** | 周杰伦 2004 无与伦比 演唱会 Live CD专辑_周杰伦_无损音乐专辑_酷我音乐 <https://k.sina.com.cn/article_7857201856_1d45362c001907h5nm.html>
+- **周杰伦** | 周杰伦最新MV《女儿殿下》发布，大秀复古舞风_中国城市网 <https://k.sina.com.cn/article_7857201856_1d45362c001907h5um.html>
+- **周杰伦** | 这次白天场演唱会现场观众反响如何 <https://k.sina.com.cn/article_7879776328_1d5abd84806801rp7i.html>
+- **特朗普** | 特朗普称伊朗无人机袭击霍尔木兹海峡船只违反停火协议 <https://news.google.com/rss/articles/CBMidkFVX3lxTE52MU56ZlhTeXRUTThEUjBFVzl5WHlqQTF0enNXOHdqVWZKSmYySklaUTNjSXlHRVpUdVFYdHUwQmVmRGZQU1IzTmJacDY3SjZjaDI4bG94WjFidEJkSjdBY0xPOW9fY1o1V1JPSnNaelI1MXotNkE?oc=5>
+- **特朗普** | 凤凰晚报丨“特朗普和她的关系非常不健康” <https://news.google.com/rss/articles/CBMiTEFVX3lxTFB4LWVvSmU4RTAyMUlWeHg2eXVaYml1bk51Tzc3VDZ4VUxscG1URUIyQVJLTWZNNWhsVUJ1RWd3OEpHeG9WVEpJOHRleTM?oc=5>
 
 ### 2026-06-27 17:36  (11 条)
 
