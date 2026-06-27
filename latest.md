@@ -1,172 +1,123 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-27 09:59**
-- 本轮扫到 4762 条, 新增 **24** 条
+- 最近更新: **2026-06-27 11:38**
+- 本轮扫到 4776 条, 新增 **14** 条
 
 ---
 
-## 本轮新发现 (24 条)
+## 本轮新发现 (14 条)
 
-### 哪里能找到周杰伦演唱会完整版高清资源？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ruxe.html>
-
-### 周杰伦演唱会彩排图瘦回20年前,歌迷:该唱“反方向的钟”
+### 小伙坐轮椅来看周杰伦演唱会
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907hopm.html>
+- 链接: <https://k.sina.com.cn/article_1288429914_m4ccbe15a033017dgu.html>
 
-### 周杰伦演唱会阵容豪华,暴瘦引关注,网友:不敢相信这是2024年!
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907hops.html>
-
-### 周杰伦小女儿这次会在演唱会正式登台吗
+### 大连歌迷奔赴鸟巢看周杰伦演唱会
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801runk.html>
+- 链接: <https://k.sina.com.cn/article_2992050891_mb25712cb03301sukw.html>
 
-### 这次周杰伦鸟巢演唱会门票还能抢到吗
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801runm.html>
-
-### 马龙夏露同看周杰伦鸟巢演唱会
+### 海清儿子蛋妞看周杰伦演唱会抢到的票吗？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1288429914_m4ccbe15a033017dg0.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rvmk.html>
 
-### 周杰伦演唱会散场后垃圾成堆,网友:“地表最强垃圾演唱会”
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907hofq.html>
-
-### 场外自发狂欢是周杰伦演唱会独有的吗
+### 周杰伦济南演唱会一票难求,有商家出租“写字楼观景窗”,报价最高1000元
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rtze.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907hov2.html>
 
-### 周杰伦2026鸟巢演唱会门票多少钱一张
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rtza.html>
-
-### 其他明星演唱会也会选择快速离场吗？
+### 周杰伦演唱会门票难求，粉丝家中逗鸟解闷
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rtys.html>
+- 链接: <https://k.sina.com.cn/article_7879923732_m1d5ae1814033024phy.html>
 
-### 周杰伦上海站被粉丝喊回返场是真的吗？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rtym.html>
-
-### 周杰伦以后演唱会会增设安可返场环节吗
+### 网友对马龙骑共享单车看演唱会是什么评价？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rtxu.html>
+- 链接: <https://k.sina.com.cn/article_7879995911_1d5af320706801zq78.html>
 
-### 你怎么知道我要去看周杰伦演唱会
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907hnko.html>
-
-### 刚刷到消息说董老师会去周董的演唱会_星事扒一扒
+### 这次周杰伦北京演唱会门票真的很难抢吗？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857141524_1d452771401903olcu.html>
+- 链接: <https://k.sina.com.cn/article_7879995911_1d5af320706801zq7k.html>
 
-### 新浪演唱会热点小时报丨2026年06月27日16时_今日实时演唱会热点速递
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907hlbi.html>
-
-### 周杰伦鸟巢演唱会唱响《枫》，粉丝激动期待
+### 奥运冠军马龙骑小黄车赴周杰伦演唱会太接地气！
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923704_m1d5ae17f803301tux8.html>
+- 链接: <https://k.sina.com.cn/article_7879995911_1d5af320706801zq72.html>
 
-### 海清带19岁儿子看周杰伦演唱会，少年壮硕出圈，颜值疑随爸不随妈
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1240049410_49e9a702001015l16.html>
-
-### 周杰伦最新MV《女儿殿下》发布，大秀复古舞风_新京报
+### 周杰伦2004年「无与伦比」演唱会（超清完整版）
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907gfmc.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907gjke.html>
 
-### 特朗普威胁对欧洲国家征收100%报复性关税
+### 周杰伦《2004年无与伦比演唱会》全场超清1080P完整版，中文字幕
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907gjjg.html>
+
+### 《女儿殿下》的MV有哪些亮点？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rlkw.html>
+
+### 特朗普松口！Anthropic最强大模型松绑
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 央视网
-- 时间: 2026-06-27 01:24
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1DOFJBa2tFdGE0MlBVdl9ndXI5bXVyN0ZrR1lWOWJrdVh5MVcwNjh4WEZQZU1LMDZMRUpqSGlCbWVqLVJHalRmajYyQTFrWi0zSVhTYjEzT1NwQlBUYTJRVVlkMkFTYzVfYkgzNFdhNXdRR1U4Z0RTag?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-06-27 06:33
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE1veVpoTFdBaTlkX1N6dUlxZzZHXzBaSVFxbTR4SW1GRndYcE0wZE55QTZHZUhoazVfdi1HdVh0eks4TEctbmdCeFZqSjQ2NFl1eHo4RlhKNGNxMkcwVi1ldWpRZDhySTJ0VFh5NFR0d3FleGNPbEE?oc=5>
 
-### 特朗普威胁：征收100%报复性关税
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-06-27 03:54
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFAyWm4tbEtLZmlSaUZHREVxWTRnMnBDY1Q2cTc2dU94a3NRSnZHQU1rS1BpY1ZXLWRTNkJScjJpc2dfRy1iSkdDNzJSSnpraTBFOE9LcnpJOXdjY0x1dlFDM0d4dmFGT2ROSEE?oc=5>
-
-### 特朗普：委内瑞拉强震造成惨重死亡
+### 美国250周年纪念护照 特朗普成首位登上护照现任总统 - 国际 - 即时国际
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-06-25 03:56
-- 链接: <https://news.google.com/rss/articles/CBMirAFBVV95cUxNNDBDVmduT21EZWQ2dExfckNjS1R0LUJFRlA4WWVya2oxa2k2ODczTkp1c3VLRDhfUUVBY3VJcWZqcWt1Z0JyWmstczhUZmQ3LU5aRmoxeXVGbXlpUVlwQXlNWGRlVzJ3c19BS1JjNWI1NVBPMlh3YjRfS20zRlFnX2k5T29ESE1iUC1YSVhqWU5TaUdPSVctY2NrNU1mcTFZc01YNnpKUklJa1hz?oc=5>
+- 场馆: Sin Chew Daily
+- 时间: 2026-06-27 02:37
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE8zRXpzTUFiazNpQWg0dTVOeDNhVko3S3FCemUxTnp2Nmo3SDdtcWZ0RzBMemJmbzNMM2Z4bUdWTjNpNWpUQXVadlE0UE1wWC1qTW1wWndlcGN0ZEhGMkhBUUVLUGVHTm5XZnZyVXRGbw?oc=5>
 
-### 特朗普松口 Anthropic最强大模型松绑
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-06-27 06:44
-- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMSldUdXpTWmVsaEFuSU8zYkNrdXJLajgzeXJOejdPaW5yZGFCb3l2Q2h5LVRCR2VuTjNVUGphOF9xbnZFbmRQZ2xpWlFFa2lz?oc=5>
-
-### 特朗普前顾问博尔顿承认非法保留国防信息
+### 鲁比奥：特朗普可能于2027年年初访问印度
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-06-26 15:50
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxNT2h1LURBZU9zRjF3TmtzZTlBdmo2ajlWY2oxV2xZZjh0V1pmOHkyc29NUVNGdHRmMy0xZWdWS2RPbktQQldiMmx1MkVfQkNSU2tsTkdxdFREVVBoQmE2b3gxV3lRRXdRR0hnRndfVVhuYl9nY3RLWm9MdDJKa3hvdmtHVVFtM1phZDRXQ0YwMExBU3VyekVGSzNLNmFQcnpDN0NWT0xfQ0d3Z1hBWUtNemJsckdaZk4weUx4ekxjc1VOWEpNdWh2Wkw0ME9RX1Q0SDAtcnBEdmE0T3NtOTFv?oc=5>
-
-### 特朗普孙女发布白宫内部罕见视频，模仿总统发表演说，称“特朗普有个可乐按钮，一按可乐就来了”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: QQ News
-- 时间: 2026-06-26 04:47
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5rWWcxblA1VDlmQVYxRHNpVjJDVDRwUFhheV9HV3NqX3pGbWR3TUdLdWN3ajhuRnBpWUxMWVBRbEcyRkhSdEh0aTdNOEpBT0tVd21QcUNBWVExTnVPOHMyam1pVU9aeW9PREJtNng1M1FnQkJ0emFQTw?oc=5>
+- 场馆: chinanews.com.cn
+- 时间: 2026-06-27 10:06
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxdTQ2dnB1OXlSd1h5bXZIa0hlSktOenhYYy1HTl9CNFVRMGZPT0dDS0dDZEtaLXozYUtUUDN0WVdDZHQ4c3pwb0xBS0VUZndOTkJrZFRvUm9WbU5wcUs3NkZvWEZWNWxN?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-27 11:38  (14 条)
+
+- **周杰伦** | 小伙坐轮椅来看周杰伦演唱会 <https://k.sina.com.cn/article_1288429914_m4ccbe15a033017dgu.html>
+- **周杰伦** | 大连歌迷奔赴鸟巢看周杰伦演唱会 <https://k.sina.com.cn/article_2992050891_mb25712cb03301sukw.html>
+- **周杰伦** | 海清儿子蛋妞看周杰伦演唱会抢到的票吗？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801rvmk.html>
+- **周杰伦** | 周杰伦济南演唱会一票难求,有商家出租“写字楼观景窗”,报价最高1000元 <https://k.sina.com.cn/article_7857201856_1d45362c001907hov2.html>
+- **周杰伦** | 周杰伦演唱会门票难求，粉丝家中逗鸟解闷 <https://k.sina.com.cn/article_7879923732_m1d5ae1814033024phy.html>
+- **周杰伦** | 网友对马龙骑共享单车看演唱会是什么评价？ <https://k.sina.com.cn/article_7879995911_1d5af320706801zq78.html>
+- **周杰伦** | 这次周杰伦北京演唱会门票真的很难抢吗？ <https://k.sina.com.cn/article_7879995911_1d5af320706801zq7k.html>
+- **周杰伦** | 奥运冠军马龙骑小黄车赴周杰伦演唱会太接地气！ <https://k.sina.com.cn/article_7879995911_1d5af320706801zq72.html>
+- **周杰伦** | 周杰伦2004年「无与伦比」演唱会（超清完整版） <https://k.sina.com.cn/article_7857201856_1d45362c001907gjke.html>
+- **周杰伦** | 周杰伦《2004年无与伦比演唱会》全场超清1080P完整版，中文字幕 <https://k.sina.com.cn/article_7857201856_1d45362c001907gjjg.html>
+- **周杰伦** | 《女儿殿下》的MV有哪些亮点？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801rlkw.html>
+- **特朗普** | 特朗普松口！Anthropic最强大模型松绑 <https://news.google.com/rss/articles/CBMidkFVX3lxTE1veVpoTFdBaTlkX1N6dUlxZzZHXzBaSVFxbTR4SW1GRndYcE0wZE55QTZHZUhoazVfdi1HdVh0eks4TEctbmdCeFZqSjQ2NFl1eHo4RlhKNGNxMkcwVi1ldWpRZDhySTJ0VFh5NFR0d3FleGNPbEE?oc=5>
+- **特朗普** | 美国250周年纪念护照 特朗普成首位登上护照现任总统 - 国际 - 即时国际 <https://news.google.com/rss/articles/CBMib0FVX3lxTE8zRXpzTUFiazNpQWg0dTVOeDNhVko3S3FCemUxTnp2Nmo3SDdtcWZ0RzBMemJmbzNMM2Z4bUdWTjNpNWpUQXVadlE0UE1wWC1qTW1wWndlcGN0ZEhGMkhBUUVLUGVHTm5XZnZyVXRGbw?oc=5>
+- **特朗普** | 鲁比奥：特朗普可能于2027年年初访问印度 <https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxdTQ2dnB1OXlSd1h5bXZIa0hlSktOenhYYy1HTl9CNFVRMGZPT0dDS0dDZEtaLXozYUtUUDN0WVdDZHQ4c3pwb0xBS0VUZndOTkJrZFRvUm9WbU5wcUs3NkZvWEZWNWxN?oc=5>
 
 ### 2026-06-27 09:59  (24 条)
 
