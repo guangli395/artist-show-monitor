@@ -1,294 +1,81 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-28 06:11**
-- 本轮扫到 4951 条, 新增 **43** 条
+- 最近更新: **2026-06-28 09:39**
+- 本轮扫到 4959 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (43 条)
+## 本轮新发现 (8 条)
 
-### 小黄豆带摄影团队拍蔡徐坤签售互动
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301coyw.html>
-
-### 普通粉丝怎么获得蔡徐坤签售会资格？
+### 这五首选秀主题曲，哪一首是你的青春回忆？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rwfm.html>
+- 链接: <https://k.sina.com.cn/article_5885611158_m15ecf4c9603301bal6.html>
 
-### 蔡徐坤这次签售会一共有多少个参与名额？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rwf8.html>
-
-### 蔡徐坤签售会简直不要太幸福（素材侵删）
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002mw8i.html>
-
-### 周杰伦这次北京鸟巢演唱会门票好抢吗？
+### 周杰伦大儿子会来演唱会现场互动吗
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801s9uk.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801sano.html>
 
-### 周杰伦北京演唱会还会再加开场次吗？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801s9qc.html>
-
-### 这次周杰伦鸟巢演唱会门票好抢吗？
+### 周杰伦演唱会黄牛票溢价最高能到多少？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801s9h0.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801saji.html>
 
-### 周杰伦演唱会最前排的票一般什么时候放出来？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801s9fa.html>
-
-### 周杰伦演唱会主办方会怎么处理这件事？
+### 周杰伦演唱会最前排票普通用户能抢到吗？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801s99q.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801sajg.html>
 
-### 散场阶段突遇强降雨引发现场混乱！周杰伦演唱会周边物品遭观众哄抢，警方介入核查
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5953189932_162d6782c06704j2ks.html>
-
-### 周杰伦鸟巢演唱会哪一天会邀请邓紫棋到场？
+### 海清母子去看周杰伦演唱会 现场完整详情曝光
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801s95o.html>
-
-### 王俊凯会真的出席周杰伦鸟巢演唱会吗？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801s958.html>
-
-### 周杰伦演唱会官方周边遭哄抢，警方已介入调查
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1682207150_m644471ae03301nb5o.html>
-
-### 周杰伦最新MV《女儿殿下》发布,为小女儿量身打造
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907i0ig.html>
-
-### 周杰伦演唱会散场时突遇强降雨引发混乱！周边物品遭观众哄抢，警方已介入
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924002_m1d5ae192202001enm4.html>
-
-### 演唱会丢失价值11万手镯,女子发帖求助 周杰伦歌迷跨省归还
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907hzny.html>
-
-### 周杰伦鸟巢演唱会点歌环节都点了哪些歌？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801s8ek.html>
-
-### 董宇辉刘畊宏去看周杰伦演唱会
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7467694254_m1bd1bf8ae03301a9vu.html>
-
-### 北京演唱会遇雨,周杰伦提醒歌迷注意安全
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002mweu.html>
-
-### 周杰伦鸟巢演唱会内外场歌迷各选所爱
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5450389695_p144de58bf02701s440.html>
-
-### 周杰伦《女儿殿下》MV里有哪些隐藏彩蛋？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rwd0.html>
-
-### 高价买到周杰伦演唱会“遮挡位”,歌迷直呼“被骗”
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907hp10.html>
-
-### 周杰伦演唱会武汉体育中心主体育场座位图2025
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907hox4.html>
-
-### 老粉怎么看待如今周杰伦的演唱会
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rtzc.html>
-
-### 接下来周杰伦演唱会还会开到哪些城市？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rtyq.html>
-
-### 周杰伦演唱会散场彩蛋曝光 为何总快速离场？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rty6.html>
-
-### 为什么周杰伦演唱会散场要快速离场
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rtxw.html>
-
-### 其他城市会学周杰伦演唱会交通保障吗
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rtxy.html>
-
-### 周杰伦演唱会能带火当地文旅消费吗
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rty0.html>
-
-### 周杰伦演唱会散场都有哪些意外彩蛋
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rtxg.html>
-
-### 周杰伦演唱会散场比正片还热闹？看完惊了
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rtxe.html>
-
-### 周杰伦这次演唱会为什么没有安可返场？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rtvk.html>
-
-### 周杰伦演唱会观众哄抢官方周边，警方已介入调查
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://finance.sina.com.cn/wm/2026-06-28/doc-iniexucy3168179.shtml>
-
-### 欧盟回应特朗普关税威胁：坚决捍卫自身权利
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-06-28 02:19
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1WdjNhMUtKZ3ZhUzdmQ2xDLVlHeVNGX0tjODBwU0FuNFVPazBXLWtHOFVyWXZRRm9hbXdROTU5czB2dlV0dkYyeEZUdTJiTURtbW1vSzR3dkI2WjlyZHhOQnpKVzhLNl9WRTIzbVhwSmhXLUdaQkRLendrb3FYX0k?oc=5>
-
-### 学特朗普“卖金卡”，阿根廷这次直接卖国籍？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-06-28 00:29
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5ob0p3b0l6V0JoREpWMFdSaldzM1FQM3BZUjNmTDAxQ2d6enpaTmM5ZEdLZDl0TjBZNmJZQ2M5MEF2aHhJWTZWb0xEZU9xa1NLbml6a052ZUN1MEpBcjBxN0tYV0Q1ekZjTnc?oc=5>
-
-### 特朗普政府或为Anthropic最强大模型“松绑” 预计一周内解禁Fable 5
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-06-27 22:05
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE5xek1wTEJRVFBKb3gyX2RENzlpTlFkcXNHX3BYdjNERFlKTjdxYVNHTzBhSjNDMUNKZ191NXZZMDRrbGoyOENnbw?oc=5>
-
-### 特朗普提名兰斯·施罗耶出任美移民与海关执法局局长，具备遣返非法移民和打击相关犯罪的丰富经验
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-28 02:31
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE1qRWI1a04ycWJ5SGQ1dG8wZ0NsU0kzWlRPbVQ3OHdmMkRDVlM0NnpCM2QzMVVxQ055cGNIV0JzOUNvSlRxazQzb2FOUXBtMEFqTS1taGwtZXZna1ViWmFQNXlTOXMxMkRfMDRmcTV0RFlOU1Z4N0E?oc=5>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ryyq.html>
 
 ### 特朗普提名兰斯·施罗耶出任美移民与海关执法局局长
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-28 02:42
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBPYXJ3VENLNk5tX09odFFnU0I3RmZNeTMtaGw2NC1IcllPY1RJSnMyMnB3Q050cHIxWEItM24zTHc2Y1kzTnJLV2o1ZkYyMWFMU3VlVFZvU2Y5YzNORGZJR0ZyMkJpYWRfTFgzamxTTExaYnZYbDNlVg?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-06-27 22:12
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE9nUzBDc3VBcFEtVG0wR1V1bElqRnc1bHNzRDBzbDNlalRXRVZMYnZvWTR4dl9wNnhvaE1fZzFqNU4tRkJseEpMeS03QUhVaGdOSXQyNS12RnQyRUVhQl9PWnh1X1FqQktLSHlaRUtGMkRtT2xx?oc=5>
 
-### 美国计划发行印有特朗普肖像的护照，特朗普社交账号发布新版美国护照设计图片，并写着“欢迎，但要乖”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 每日经济新闻
-- 时间: 2026-06-28 03:24
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1iNHJyMXFZaGZoSFQyaHJjRy1RSnZBYjRHR0ZtT01uWXl4OFpXb1pMTFJhQ0pzeGRyVWFVNHJkNGZsYU1NYzVJZDczVktTNDhkNEczSDFqSXdBMHpUT2dNODVWM3RlZw?oc=5>
-
-### 34岁金发女助理被疑跟特朗普，“日夜在一起”，亲哥打破沉默
+### 拜登：特朗普重回白宫后大肆捞金，令人震惊
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-06-28 04:01
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1pXzBRbVM2MGpHODdfYkNoU2xMSTloOVBtLThMZWtTbjJVYlJQWk1aN05CUWpxZVFybnBOemQyVTdoV1VhaWVaXzNucWw?oc=5>
+- 时间: 2026-06-28 06:37
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE8xNGhfSUp4bnRXejI4TXphaHJfbjRZekw1R2JPazRDaGdDLTRqdEVpdzVNWTlmM0kyMG1TVnhYRGtVeDVVd1VDLTNVLUU?oc=5>
 
-### 外媒实测Trump Phone T1 软硬件均有明显短板
+### 特朗普威胁伊朗或将不复存在，美军中央司令部称对伊朗实施新一轮打击，伊朗革命卫队称打击8处美军设施，美军称空袭伊朗10个军事目标
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-06-28 04:41
-- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxPblhYdWxNWG9xUmVtWTh5eGFDV0ZBY3BKS0lFdFQ2NlU0LTRqYzJzQVJMV0RrLV9qXzZOLVVDRjlZSk1YS01CNW13TFZjQWdFVl9obUU0aFN1M0V4ak9fWmV6ekYtSHpIa253N2RkRHI5NllrTEhiU015bmlPR2RwamR0RTNzd1hV?oc=5>
-
-### 转换 TRUMP 到 AUD | OFFICIAL TRUMP 兑换 澳大利亚元 转换器
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: OKX
-- 时间: 2026-06-28 00:00
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5WRm5Gb25NcU9wcXNPb2xCdGFQY0k0UHZCRHIwYWF3Z2JncHNwZG5rQnp2c0M2eW96YjdSMnF6a1pjRzlDSG5CMU0zUWhmcVRMSnEzUGNxRkFzMGFTNmh6ZU9PWE9VT1U?oc=5>
-
-### 特朗普：伊朗或永远都不会吸取教训
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-06-28 01:24
-- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxNYWZPS0xjc0laOVNVeXNaRnMwbHdWY0ZLdHZJbVFEU1MxMmViM1Z6NWVtRDUtam9zcmlPMEJGY3pJcy0tVThmQ0VxZHVZQnZOVl91NFdBdHhqMEFUd3RFYWg2N3ZHTFF5Z1ZieE9pWlQ5MzdDX2RwTmVkYy1YZjlXZ2Nn?oc=5>
+- 场馆: 每日经济新闻
+- 时间: 2026-06-28 05:00
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE41c0V5NWcxODJYWXB3aXVOeHVHcldVbnZRa0MyQzRDQXA5U2s0ejNNZ2dhWDVqbldKWnRlZExFYWgydkROUFh1SHFJUW9ad0RJd0tySzNDNUV5VVc0MHVWTjZVa182UQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-28 09:39  (8 条)
+
+- **蔡徐坤** | 这五首选秀主题曲，哪一首是你的青春回忆？ <https://k.sina.com.cn/article_5885611158_m15ecf4c9603301bal6.html>
+- **周杰伦** | 周杰伦大儿子会来演唱会现场互动吗 <https://k.sina.com.cn/article_7879776328_1d5abd84806801sano.html>
+- **周杰伦** | 周杰伦演唱会黄牛票溢价最高能到多少？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801saji.html>
+- **周杰伦** | 周杰伦演唱会最前排票普通用户能抢到吗？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801sajg.html>
+- **周杰伦** | 海清母子去看周杰伦演唱会 现场完整详情曝光 <https://k.sina.com.cn/article_7879776328_1d5abd84806801ryyq.html>
+- **特朗普** | 特朗普提名兰斯·施罗耶出任美移民与海关执法局局长 <https://news.google.com/rss/articles/CBMidEFVX3lxTE9nUzBDc3VBcFEtVG0wR1V1bElqRnc1bHNzRDBzbDNlalRXRVZMYnZvWTR4dl9wNnhvaE1fZzFqNU4tRkJseEpMeS03QUhVaGdOSXQyNS12RnQyRUVhQl9PWnh1X1FqQktLSHlaRUtGMkRtT2xx?oc=5>
+- **特朗普** | 拜登：特朗普重回白宫后大肆捞金，令人震惊 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE8xNGhfSUp4bnRXejI4TXphaHJfbjRZekw1R2JPazRDaGdDLTRqdEVpdzVNWTlmM0kyMG1TVnhYRGtVeDVVd1VDLTNVLUU?oc=5>
+- **特朗普** | 特朗普威胁伊朗或将不复存在，美军中央司令部称对伊朗实施新一轮打击，伊朗革命卫队称打击8处美军设施，美军称空袭伊朗10个军事目标 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE41c0V5NWcxODJYWXB3aXVOeHVHcldVbnZRa0MyQzRDQXA5U2s0ejNNZ2dhWDVqbldKWnRlZExFYWgydkROUFh1SHFJUW9ad0RJd0tySzNDNUV5VVc0MHVWTjZVa182UQ?oc=5>
 
 ### 2026-06-28 06:11  (43 条)
 
