@@ -1,70 +1,104 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-28 09:39**
-- 本轮扫到 4959 条, 新增 **8** 条
+- 最近更新: **2026-06-28 11:43**
+- 本轮扫到 4970 条, 新增 **11** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (11 条)
 
-### 这五首选秀主题曲，哪一首是你的青春回忆？
+### 蔡徐坤签售会和小黄豆双向奔赴太好哭了
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5885611158_m15ecf4c9603301bal6.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801s1fe.html>
 
-### 周杰伦大儿子会来演唱会现场互动吗
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801sano.html>
-
-### 周杰伦演唱会黄牛票溢价最高能到多少？
+### 周杰伦2026鸟巢演唱会点歌环节完整详情
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801saji.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801sbni.html>
 
-### 周杰伦演唱会最前排票普通用户能抢到吗？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801sajg.html>
-
-### 海清母子去看周杰伦演唱会 现场完整详情曝光
+### 周杰伦演唱会最前排票价到底要多少钱？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ryyq.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801saj8.html>
 
-### 特朗普提名兰斯·施罗耶出任美移民与海关执法局局长
+### 卖水哥：战绩可查周杰伦音乐节微博VC计划
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301cox0.html>
+
+### 44岁华语天王周杰伦，花2000元看演唱会竟遭吐槽，为何票价越涨歌迷越疯狂？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801a1xo.html>
+
+### 周杰伦鸟巢演唱会票价区间是多少？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801s1sm.html>
+
+### 周杰伦鸟巢演唱会什么时候开启抢票？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801s1sc.html>
+
+### 特朗普发扛地球AI照 伊以都不服！
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-06-27 22:12
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE9nUzBDc3VBcFEtVG0wR1V1bElqRnc1bHNzRDBzbDNlalRXRVZMYnZvWTR4dl9wNnhvaE1fZzFqNU4tRkJseEpMeS03QUhVaGdOSXQyNS12RnQyRUVhQl9PWnh1X1FqQktLSHlaRUtGMkRtT2xx?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-06-28 11:42
+- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxNN0VBTTR3QnVkVkR0S3hvUWc4WFY4Z05oNXVHT3p4dk83eEIyb0txNFh5S1FpZWF0M1lBenE0YVp0UU9pekUwTExhQ2h0Y2l4MDVWSERBX1VpX1VIano0cEpnc3ZXajNRMHY3MklvTmlNcHFBeWFhclNBcGJBM2F5QWlkYW1TV08xZDdtdWhqWQ?oc=5>
 
-### 拜登：特朗普重回白宫后大肆捞金，令人震惊
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-06-28 06:37
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE8xNGhfSUp4bnRXejI4TXphaHJfbjRZekw1R2JPazRDaGdDLTRqdEVpdzVNWTlmM0kyMG1TVnhYRGtVeDVVd1VDLTNVLUU?oc=5>
-
-### 特朗普威胁伊朗或将不复存在，美军中央司令部称对伊朗实施新一轮打击，伊朗革命卫队称打击8处美军设施，美军称空袭伊朗10个军事目标
+### 特朗普的“留名计划”又进一步！晒出印有其肖像的新版护照
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 每日经济新闻
-- 时间: 2026-06-28 05:00
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE41c0V5NWcxODJYWXB3aXVOeHVHcldVbnZRa0MyQzRDQXA5U2s0ejNNZ2dhWDVqbldKWnRlZExFYWgydkROUFh1SHFJUW9ad0RJd0tySzNDNUV5VVc0MHVWTjZVa182UQ?oc=5>
+- 场馆: 财联社
+- 时间: 2026-06-28 10:19
+- 链接: <https://news.google.com/rss/articles/CBMiRkFVX3lxTE50d3I1S0tBc1dIWHQxcjBicnpyM1VmSW9HMHRPVmFpaUFTMENLemE1R3o0bFdJR2V0UlgzYkpQLVpxZjB0cVE?oc=5>
+
+### 美伊形势突变！特朗普发帖威胁：伊朗或将不复存在
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: chinanews.com.cn
+- 时间: 2026-06-28 00:30
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nZlRGRFVlVlk1c0thZjgtUERsQndxTjJtTWZjellhOWRnSXFBanBBVlIwX3dJeHIxU2xvc0hQS21qR291T05DblIwYWlCY0RWcUlGREhTUkZrcjlMM3d4cnl1eUNBZGxB?oc=5>
+
+### 特朗普孙女“开箱”白宫私人区 网民质疑滥用特权
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-06-28 10:13
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5oVjVnbWJJS2VudE5KbENTSDRMU2JXUXlTVTlrejRXWk1qVHVsNThOQ2dpRkNMcHYwWTNCTGJOOTNENzRTQlJ6QVBidzZuOU9LLVBTYllYODhjNkZxaW5zMklfM0hnU2k4RFE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-28 11:43  (11 条)
+
+- **蔡徐坤** | 蔡徐坤签售会和小黄豆双向奔赴太好哭了 <https://k.sina.com.cn/article_7879776328_1d5abd84806801s1fe.html>
+- **周杰伦** | 周杰伦2026鸟巢演唱会点歌环节完整详情 <https://k.sina.com.cn/article_7879776328_1d5abd84806801sbni.html>
+- **周杰伦** | 周杰伦演唱会最前排票价到底要多少钱？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801saj8.html>
+- **周杰伦** | 卖水哥：战绩可查周杰伦音乐节微博VC计划 <https://k.sina.com.cn/article_7879924009_m1d5ae192903301cox0.html>
+- **周杰伦** | 44岁华语天王周杰伦，花2000元看演唱会竟遭吐槽，为何票价越涨歌迷越疯狂？ <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801a1xo.html>
+- **周杰伦** | 周杰伦鸟巢演唱会票价区间是多少？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801s1sm.html>
+- **周杰伦** | 周杰伦鸟巢演唱会什么时候开启抢票？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801s1sc.html>
+- **特朗普** | 特朗普发扛地球AI照 伊以都不服！ <https://news.google.com/rss/articles/CBMijwFBVV95cUxNN0VBTTR3QnVkVkR0S3hvUWc4WFY4Z05oNXVHT3p4dk83eEIyb0txNFh5S1FpZWF0M1lBenE0YVp0UU9pekUwTExhQ2h0Y2l4MDVWSERBX1VpX1VIano0cEpnc3ZXajNRMHY3MklvTmlNcHFBeWFhclNBcGJBM2F5QWlkYW1TV08xZDdtdWhqWQ?oc=5>
+- **特朗普** | 特朗普的“留名计划”又进一步！晒出印有其肖像的新版护照 <https://news.google.com/rss/articles/CBMiRkFVX3lxTE50d3I1S0tBc1dIWHQxcjBicnpyM1VmSW9HMHRPVmFpaUFTMENLemE1R3o0bFdJR2V0UlgzYkpQLVpxZjB0cVE?oc=5>
+- **特朗普** | 美伊形势突变！特朗普发帖威胁：伊朗或将不复存在 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nZlRGRFVlVlk1c0thZjgtUERsQndxTjJtTWZjellhOWRnSXFBanBBVlIwX3dJeHIxU2xvc0hQS21qR291T05DblIwYWlCY0RWcUlGREhTUkZrcjlMM3d4cnl1eUNBZGxB?oc=5>
+- **Trump** | 特朗普孙女“开箱”白宫私人区 网民质疑滥用特权 <https://news.google.com/rss/articles/CBMiakFVX3lxTE5oVjVnbWJJS2VudE5KbENTSDRMU2JXUXlTVTlrejRXWk1qVHVsNThOQ2dpRkNMcHYwWTNCTGJOOTNENzRTQlJ6QVBidzZuOU9LLVBTYllYODhjNkZxaW5zMklfM0hnU2k4RFE?oc=5>
 
 ### 2026-06-28 09:39  (8 条)
 
