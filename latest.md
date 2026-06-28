@@ -1,124 +1,110 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-28 20:55**
-- 本轮扫到 5086 条, 新增 **17** 条
+- 最近更新: **2026-06-28 21:59**
+- 本轮扫到 5099 条, 新增 **13** 条
 
 ---
 
-## 本轮新发现 (17 条)
+## 本轮新发现 (13 条)
 
-### 蔡徐坤在这场签售会上都做了什么互动？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801si5i.html>
-
-### 蔡徐坤把签售会做成面试现场？区别太好磕了
+### 蔡徐坤首场签售会现场互动内容有哪些？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801si5a.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801sg52.html>
 
-### 花2000块去看周杰伦?他武汉演唱会票价:内场至尊VIP价格昂贵|乐队|周杰伦|无法替代|武汉市|演唱会
+### 蔡徐坤首场实体专辑签售会名场面全汇总
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801sg4k.html>
+
+### 怎么才能获得蔡徐坤签售会的参与资格？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801sg3g.html>
+
+### 为什么网友都羡慕艾米的首场演唱会
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907iyy2.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801silg.html>
 
-### 网友为什么说演员艾米首场演唱会起点太高？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801si2w.html>
-
-### 演员艾米和杨迪的演唱会合影是什么样的？
+### 王俊凯为什么缺席这次周杰伦鸟巢演唱会
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801si2y.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801siky.html>
 
-### 杨迪是不是经常去看周杰伦演唱会
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801si26.html>
-
-### 艾米这场周杰伦演唱会门票是多少钱买的
+### 杨迪艾米周杰伦演唱会偶遇，梦幻联动太好嗑
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801si24.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801sikm.html>
 
-### 王俊凯为什么没去周杰伦北京演唱会？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801shw2.html>
-
-### 周杰伦演唱会播放王俊凯新歌是怎么回事？
+### 新浪演唱会热点小时报丨2026年06月29日05时_今日实时演唱会热点速递
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801shvw.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907izt2.html>
 
-### 王俊凯原定要当周杰伦北京演唱会嘉宾吗？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801shvs.html>
-
-### 《中餐厅》团建周杰伦演唱会，王俊凯为啥没来？
+### 王俊凯个人演唱会首站真的是重庆吗？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801shvo.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801sfxg.html>
 
-### 周杰伦演唱会现场都有哪些明星现身？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801sfig.html>
-
-### 杨迪周杰伦演唱会互动,自嘲玩梗点歌,引爆笑点
+### 从粉丝变嘉宾！这次王俊凯缺席周杰伦演唱会了
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907ie1y.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801sfwu.html>
 
-### 杨迪去参加周杰伦的演唱会,在...@张大嘴说时事的动态
+### 演唱会现场放王俊凯新歌是提前安排好的吗？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907icvi.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801sfw8.html>
 
-### 暴力执法引民怨，特朗普新提名美移民与海关执法局局长
+### 头号迷弟王俊凯缺席周杰伦演唱会，原因曝光
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-28 20:12
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9DbHJ5Rl9ZMmtDSllZcTBId3pSaUxNdVV6Yl9xNUZEYjBsRC1zUUlaRGpyVEJXUS15dms1TnF1NzFwV0NKWVBtUncweWJRdEluM1NTbVBTdlRoeVpSb0RMQjNBTjFQa21hem5OcTB1VlFNaFk5YVNWVg?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801sfw0.html>
 
-### 特朗普威胁：征收100%报复性关税
+### 周杰伦鸟巢演唱会还会加开场次吗？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网财经
-- 时间: 2026-06-27 01:49
-- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE9OTDJrbXN6MTV5VXNiMUxPenA1bUV4aE5LZW9nUVZQMjB5ekpDMFhoVTUzNS1RQWV1VWpfVGotU0gzeWI0V2IwUDNKM0VzSXVH?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801sfvq.html>
 
-### 金发女助理被疑跟特朗普“日夜在一起” 亲哥打破沉默
+### 迟到18年！周杰伦北京鸟巢演唱会终圆梦
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 文学城
-- 时间: 2026-06-28 20:29
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lQ09CVU9oMTlwQWRGVEp0Z1FKT2RfUVJDMUx4bDRoSnZYOEFJLWVQWkxxb2lKZ0RjVkRlSjdTQ19kMThueDBxeFdGLWhrM0hHTnJrMk4yTmlDNlpidWtOX3F0aTFzUFNj?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801sfvi.html>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-28 21:59  (13 条)
+
+- **蔡徐坤** | 蔡徐坤首场签售会现场互动内容有哪些？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801sg52.html>
+- **蔡徐坤** | 蔡徐坤首场实体专辑签售会名场面全汇总 <https://k.sina.com.cn/article_7879776328_1d5abd84806801sg4k.html>
+- **蔡徐坤** | 怎么才能获得蔡徐坤签售会的参与资格？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801sg3g.html>
+- **周杰伦** | 为什么网友都羡慕艾米的首场演唱会 <https://k.sina.com.cn/article_7879776328_1d5abd84806801silg.html>
+- **周杰伦** | 王俊凯为什么缺席这次周杰伦鸟巢演唱会 <https://k.sina.com.cn/article_7879776328_1d5abd84806801siky.html>
+- **周杰伦** | 杨迪艾米周杰伦演唱会偶遇，梦幻联动太好嗑 <https://k.sina.com.cn/article_7879776328_1d5abd84806801sikm.html>
+- **周杰伦** | 新浪演唱会热点小时报丨2026年06月29日05时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001907izt2.html>
+- **周杰伦** | 王俊凯个人演唱会首站真的是重庆吗？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801sfxg.html>
+- **周杰伦** | 从粉丝变嘉宾！这次王俊凯缺席周杰伦演唱会了 <https://k.sina.com.cn/article_7879776328_1d5abd84806801sfwu.html>
+- **周杰伦** | 演唱会现场放王俊凯新歌是提前安排好的吗？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801sfw8.html>
+- **周杰伦** | 头号迷弟王俊凯缺席周杰伦演唱会，原因曝光 <https://k.sina.com.cn/article_7879776328_1d5abd84806801sfw0.html>
+- **周杰伦** | 周杰伦鸟巢演唱会还会加开场次吗？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801sfvq.html>
+- **周杰伦** | 迟到18年！周杰伦北京鸟巢演唱会终圆梦 <https://k.sina.com.cn/article_7879776328_1d5abd84806801sfvi.html>
 
 ### 2026-06-28 20:55  (17 条)
 
