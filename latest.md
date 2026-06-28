@@ -1,132 +1,137 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-28 15:01**
-- 本轮扫到 5005 条, 新增 **18** 条
+- 最近更新: **2026-06-28 16:41**
+- 本轮扫到 5021 条, 新增 **16** 条
 
 ---
 
-## 本轮新发现 (18 条)
+## 本轮新发现 (16 条)
 
-### 27岁内地歌手蔡徐坤签售会像面试？80秒互动藏着哪些职场逻辑？
+### 27岁内地歌手蔡徐坤：80秒签售像面试？双向奔赴与单向考核的核心差异在哪？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801a2vw.html>
+- 链接: <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801a37a.html>
 
-### 白天开演唱会对演出效果有影响吗？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801se8a.html>
-
-### 王俊凯为什么缺席周杰伦北京演唱会团建？
+### 艾米这次去看演唱会门票花了多少钱
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801se7m.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801sfhk.html>
 
-### 中餐厅来周杰伦北京演唱会团建了
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1288429914_m4ccbe15a033017dq0.html>
-
-### 艾米首看周杰伦演唱会偶遇杨迪同场欢乐互动
+### 22岁新人演员艾米人生首看演唱会，邻座偶遇35岁杨迪，为何追星现场成社交名场面？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924004_m1d5ae1924033020vek.html>
+- 链接: <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801a356.html>
 
-### 中餐厅剧组现身周杰伦演唱会，黄晓明昆凌等集体应援
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924004_m1d5ae1924033020veg.html>
-
-### 艾米首看周杰伦演唱会偶遇杨迪，两人同场应援
+### 新浪演唱会热点小时报丨2026年06月29日00时_今日实时演唱会热点速递
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924004_m1d5ae1924033020vda.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907icbg.html>
 
-### 中餐厅团队鸟巢团建,周杰伦演唱会现场同欢
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924004_m1d5ae1924033020vcs.html>
-
-### 中餐厅嘉宾鸟巢团建观看周杰伦演唱会
+### 22岁新人演员艾米+35岁综艺熟脸杨迪，鸟巢邻座偶遇周杰伦演唱会，为何追星现场秒变社交名场面？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924004_m1d5ae1924033020vcc.html>
+- 链接: <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801a30y.html>
 
-### 新浪演唱会热点小时报丨2026年06月28日22时_今日实时演唱会热点速递
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907i7w8.html>
-
-### 艾米周杰伦演唱会偶遇杨迪，合唱合照双倍快乐
+### 杨迪艾米是谁先提出结伴看演唱会的？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1072962941_3ff41d7d04001s4qe.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801sevc.html>
 
-### 周杰伦女儿殿下MV,上线就挨骂?
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907i0k6.html>
-
-### 周杰伦鸟巢演唱会点歌环节有哪些感人故事？
+### 王俊凯作为周杰伦迷弟 为何没去鸟巢演唱会？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801s8ei.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801seni.html>
 
-### 时隔9年！周杰伦鸟巢演唱会点歌环节太好哭了
+### 周杰伦演唱会1000元档的区域价格分布
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801s8ec.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801sehc.html>
 
-### 特朗普推出印有其肖像、纪念美国建国250周年的新版护照
+### 中餐厅全员现身周杰伦演唱会，全程跟唱昆凌惊艳
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301cpjm.html>
+
+### 新浪演唱会热点小时报丨2026年06月28日23时_今日实时演唱会热点速递
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907i962.html>
+
+### 艾米首看周杰伦演唱会偶遇杨迪
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_6159487799_16f22533704001lc36.html>
+
+### 杨迪艾米同场观看周杰伦演唱会
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1893711543_70dfbeb704001s88c.html>
+
+### 海清母子去看了周杰伦演唱会 完整事件详情
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801sd8a.html>
+
+### 200%关税逼芯片厂赴美，特朗普想吞50%产能，马斯克担心台海爆雷
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-27 14:52
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaWg0azgzcnBQa080UmlENTJMalZQMmYtSm5MZk05T2R0eFI0WF9PT0lGeVh2QW4ycVVLMDRPWC00anotUWo2NzMyWmk2UzlMZDgwNlNWcXg2dkI5ZTREeFFKX1k1em5aRzhVODNQQ1cwM1pHcVdFUDA5QV9fckd4Mk94bmxxQ3Z2RHJJVDBYS0dNQVpfVFJNbFI2Z3FBNzR2Q2pSZ1VROUJjdUF3QkxONHJ6VTVoZmRqUDI2bzByMjk0akNVMzBLTDhRa0ljN1hJ?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-06-28 15:12
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE5DeTJvM3RqNkhDTkszdU9FLUlsX29CUGd4NWhXMHlyWm5YN1J2clpyUHZocFJHcjc2ejJ1Nmljc3dRTkZVVUVWRmU3bHhCLUw3dkVlT1pUMmViN0xPWGVnZkt6RmJEVnRfd29JeVI4c0hHQQ?oc=5>
 
-### 拜登：特朗普重回白宫后大肆捞金，令人震惊
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: QQ News
-- 时间: 2026-06-28 07:39
-- 链接: <https://news.google.com/rss/articles/CBMiV0FVX3lxTE16dFZjeG5fNkZ0V1d3cTQxWjJ2NU1CS3hjSVc3cy14Z2w1TGdFRTRoeHIzLTY2dkpWVnBQc05WQlh1TlpmMk1TcjNQSXFSenM5eXJSVk5Odw?oc=5>
-
-### 特朗普怒查石油巨头是在作秀吗 中期选举造势？
+### 扛不住成本，苹果游说特朗普政府：想从被五角大楼“拉黑”的中企买内存芯片
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-06-28 06:41
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9ubWRGTEhVZnljZWY3X3BDMGZvOENvQWdPRVhwMHI3UGNvaUtrVm9LWDdXUk1LUXNnOWJBVXZnMEM2ZFphYmZtT01NWjZaUzcyd05hcEM3QVJQa3U2eWtNS0tCRGZJNDktZm12LUU2ZlA?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-06-28 12:30
+- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxNaWE2T1FBWUViVzZNbTFfVGU2eU85U0p2LWxEQzgzOFIxQUJqX0Jfdnd6U0RHbllLRF96SklrZWpjNVNPLXllR1ZKSl9McnJMVDFmdmJnd1FSX29tbThhODZOdGp4a3puZnI0NnFXZi10Ui1HdExVZnVzUHJpSWpRSDV1WQ?oc=5>
 
-### 转换 USD 到 TRUMP | 美元 兑换 OFFICIAL TRUMP 转换器
+### 川普公开美国新纪念护照设计图 配文:欢迎，但要乖
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: OKX
-- 时间: 2026-06-28 00:00
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kZmlTNE8wX054WTdWWFVKcG01cENiTnl1ZXdYSWdwNGtGUVAtanIzQnZrT1YxcHpHOTRzQ2xiOV9YSUhhaXhCSzU5V2xtaHhjNDh4d1ZQbTBRemdnZDktaWRudjJrYUE?oc=5>
+- 场馆: 文学城
+- 时间: 2026-06-28 15:32
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE01eTVZOFY5T3NvRDZHblZXbl85RU1Ub1FPVkw0MXFpTzd5S2YwUDJETmk5VllHX2FDNllDVWdIeG82ZTZFWGZhSWRGT1AxcnhFNm9sRHFwbHQ0MlI0S0xsVjRWUjloUHRq?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-28 16:41  (16 条)
+
+- **蔡徐坤** | 27岁内地歌手蔡徐坤：80秒签售像面试？双向奔赴与单向考核的核心差异在哪？ <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801a37a.html>
+- **周杰伦** | 艾米这次去看演唱会门票花了多少钱 <https://k.sina.com.cn/article_7879776328_1d5abd84806801sfhk.html>
+- **周杰伦** | 22岁新人演员艾米人生首看演唱会，邻座偶遇35岁杨迪，为何追星现场成社交名场面？ <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801a356.html>
+- **周杰伦** | 新浪演唱会热点小时报丨2026年06月29日00时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001907icbg.html>
+- **周杰伦** | 22岁新人演员艾米+35岁综艺熟脸杨迪，鸟巢邻座偶遇周杰伦演唱会，为何追星现场秒变社交名场面？ <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801a30y.html>
+- **周杰伦** | 杨迪艾米是谁先提出结伴看演唱会的？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801sevc.html>
+- **周杰伦** | 王俊凯作为周杰伦迷弟 为何没去鸟巢演唱会？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801seni.html>
+- **周杰伦** | 周杰伦演唱会1000元档的区域价格分布 <https://k.sina.com.cn/article_7879776328_1d5abd84806801sehc.html>
+- **周杰伦** | 中餐厅全员现身周杰伦演唱会，全程跟唱昆凌惊艳 <https://k.sina.com.cn/article_7879924009_m1d5ae192903301cpjm.html>
+- **周杰伦** | 新浪演唱会热点小时报丨2026年06月28日23时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001907i962.html>
+- **周杰伦** | 艾米首看周杰伦演唱会偶遇杨迪 <https://k.sina.com.cn/article_6159487799_16f22533704001lc36.html>
+- **周杰伦** | 杨迪艾米同场观看周杰伦演唱会 <https://k.sina.com.cn/article_1893711543_70dfbeb704001s88c.html>
+- **周杰伦** | 海清母子去看了周杰伦演唱会 完整事件详情 <https://k.sina.com.cn/article_7879776328_1d5abd84806801sd8a.html>
+- **特朗普** | 200%关税逼芯片厂赴美，特朗普想吞50%产能，马斯克担心台海爆雷 <https://news.google.com/rss/articles/CBMickFVX3lxTE5DeTJvM3RqNkhDTkszdU9FLUlsX29CUGd4NWhXMHlyWm5YN1J2clpyUHZocFJHcjc2ejJ1Nmljc3dRTkZVVUVWRmU3bHhCLUw3dkVlT1pUMmViN0xPWGVnZkt6RmJEVnRfd29JeVI4c0hHQQ?oc=5>
+- **特朗普** | 扛不住成本，苹果游说特朗普政府：想从被五角大楼“拉黑”的中企买内存芯片 <https://news.google.com/rss/articles/CBMigwFBVV95cUxNaWE2T1FBWUViVzZNbTFfVGU2eU85U0p2LWxEQzgzOFIxQUJqX0Jfdnd6U0RHbllLRF96SklrZWpjNVNPLXllR1ZKSl9McnJMVDFmdmJnd1FSX29tbThhODZOdGp4a3puZnI0NnFXZi10Ui1HdExVZnVzUHJpSWpRSDV1WQ?oc=5>
+- **Trump** | 川普公开美国新纪念护照设计图 配文:欢迎，但要乖 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE01eTVZOFY5T3NvRDZHblZXbl85RU1Ub1FPVkw0MXFpTzd5S2YwUDJETmk5VllHX2FDNllDVWdIeG82ZTZFWGZhSWRGT1AxcnhFNm9sRHFwbHQ0MlI0S0xsVjRWUjloUHRq?oc=5>
 
 ### 2026-06-28 15:01  (18 条)
 
