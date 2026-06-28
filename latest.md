@@ -1,238 +1,144 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-28 19:52**
-- 本轮扫到 5069 条, 新增 **35** 条
+- 最近更新: **2026-06-28 20:55**
+- 本轮扫到 5086 条, 新增 **17** 条
 
 ---
 
-## 本轮新发现 (35 条)
+## 本轮新发现 (17 条)
 
-### 摩托姐为了博博留在内娱，疑似失去所有力气手段王一博新歌我在舞台首秀
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301cppw.html>
-
-### 蔡徐坤签售买专抽签模式合规吗？
+### 蔡徐坤在这场签售会上都做了什么互动？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801shg6.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801si5i.html>
 
-### 周杰伦北京鸟巢演唱会出什么事了？还被抬走了一位！
+### 蔡徐坤把签售会做成面试现场？区别太好磕了
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801si5a.html>
+
+### 花2000块去看周杰伦?他武汉演唱会票价:内场至尊VIP价格昂贵|乐队|周杰伦|无法替代|武汉市|演唱会
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924002_m1d5ae192203301eoew.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907iyy2.html>
 
-### 昨晚鸟巢的周董演唱会也太有戏了吧！
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1198951411_m47768bf3033028f98.html>
-
-### 周杰伦杭州演唱会开票10秒秒空,300万人抢票全网沸腾青春不散场
+### 网友为什么说演员艾米首场演唱会起点太高？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907ism8.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801si2w.html>
 
-### 周杰伦鸟巢演唱会真的放了王俊凯新歌吗？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801sh8w.html>
-
-### 王俊凯新专辑上线后销量表现怎么样？
+### 演员艾米和杨迪的演唱会合影是什么样的？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801sh8o.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801si2y.html>
 
-### 新浪演唱会热点小时报丨2026年06月29日03时_今日实时演唱会热点速递
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907is24.html>
-
-### 2025演唱会抢票难度排行 周杰伦刀郎等为地狱难度
+### 杨迪是不是经常去看周杰伦演唱会
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907irv4.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801si26.html>
 
-### 周杰伦被粉丝说演唱会划水 实际演唱不足90分钟引发争议_娱乐频道_中华网
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907irv8.html>
-
-### 网友对艾米首看周董演唱会是什么反应？
+### 艾米这场周杰伦演唱会门票是多少钱买的
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801sh4g.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801si24.html>
 
-### 演员艾米为什么会和杨迪结成演唱会搭子？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801sh4c.html>
-
-### 新浪演唱会热点小时报丨2026年06月29日02时_今日实时演唱会热点速递
+### 王俊凯为什么没去周杰伦北京演唱会？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907imx2.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801shw2.html>
 
-### 网友对艾米杨迪演唱会搭子是什么看法？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801sez6.html>
-
-### 艾米人生首场演唱会圆梦周董 偶遇杨迪成搭子
+### 周杰伦演唱会播放王俊凯新歌是怎么回事？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801seuy.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801shvw.html>
 
-### 《中餐厅》此次为什么选在演唱会团建？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801seo2.html>
-
-### 周杰伦知道王俊凯因工作缺席演唱会了吗？
+### 王俊凯原定要当周杰伦北京演唱会嘉宾吗？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801seny.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801shvs.html>
 
-### 粉丝对王俊凯缺席周杰伦演唱会怎么看？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801senw.html>
-
-### 王俊凯以后还有机会去看周杰伦演唱会吗？
+### 《中餐厅》团建周杰伦演唱会，王俊凯为啥没来？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801senu.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801shvo.html>
 
-### 周杰伦开演唱会会在北京开分店吗？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068200_1d5b04c6806801i5zm.html>
-
-### 中餐厅嘉宾团建周杰伦北京演唱会，王俊凯缺席
+### 周杰伦演唱会现场都有哪些明星现身？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068200_1d5b04c6806801i5ze.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801sfig.html>
 
-### 周杰伦会在北京加开更多演唱会吗？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801se8o.html>
-
-### 这次周杰伦演唱会票价究竟是多少呢？
+### 杨迪周杰伦演唱会互动,自嘲玩梗点歌,引爆笑点
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801se8m.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907ie1y.html>
 
-### 周杰伦北京演唱会门票还会有加售吗？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801sed8.html>
-
-### 周杰伦北京演唱会主办方有没有应急预案？
+### 杨迪去参加周杰伦的演唱会,在...@张大嘴说时事的动态
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801se6q.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907icvi.html>
 
-### 王俊凯之后会去看周杰伦的其他演唱会吗？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801se6u.html>
-
-### 中餐厅团建周杰伦演唱会，头号迷弟王俊凯缺席
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801se6e.html>
-
-### 周杰伦鸟巢演唱会点歌环节都有哪些曲目？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801sdw8.html>
-
-### 周杰伦鸟巢演唱会点歌环节有没有特别故事？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801sdw2.html>
-
-### 特朗普宣布：美国汽车巨头将开始生产武器，包括“战斧”“爱国者”导弹等，“要确保始终拥有大量储备”
+### 暴力执法引民怨，特朗普新提名美移民与海关执法局局长
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-06-28 19:26
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFBMdUR6RXlYQks0NVZ0ak1IZk5salpBQ3FLenoxd3RrcGhTbk10WVlKQmU4UkxtSGw3QVhTMmtWM0ZRYWtCLVNDYW1ZcjVfR3I2VkJPay1TWTVsX2xGaXZqN2M3ZW5nZUJnc0FLUzN5ZVhLUQ?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-06-28 20:12
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9DbHJ5Rl9ZMmtDSllZcTBId3pSaUxNdVV6Yl9xNUZEYjBsRC1zUUlaRGpyVEJXUS15dms1TnF1NzFwV0NKWVBtUncweWJRdEluM1NTbVBTdlRoeVpSb0RMQjNBTjFQa21hem5OcTB1VlFNaFk5YVNWVg?oc=5>
 
-### 美伊形势突变！特朗普威胁：伊朗或将不复存在
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-06-28 00:14
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zc1RaLXdUaFlUZGdONTdBZHJobWNQSm12c1VmUDZHY1lRWnpidHhZNldYSW9EMUkzM0RrWDF1WVNCcnhUbDV3NVY4LU95V2sxWDRKZjhXTU1HR3dDZzJJVQ?oc=5>
-
-### 特朗普孙女“开箱”白宫私人区 网民质疑滥用特权
+### 特朗普威胁：征收100%报复性关税
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-06-28 10:13
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1xcFNHbkFYOVFJLWFPZ1dzdGpwTUktV1Rlc3k3dEwtM1ZZemFMNzJFREJWRnFZbkJzRGRCRlVkaU5Yc05OV3VHZ2stMWdQYXhhNm5EN1FlZHUtS3pyaWpJbGp2QTlXUQ?oc=5>
+- 场馆: 凤凰网财经
+- 时间: 2026-06-27 01:49
+- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE9OTDJrbXN6MTV5VXNiMUxPenA1bUV4aE5LZW9nUVZQMjB5ekpDMFhoVTUzNS1RQWV1VWpfVGotU0gzeWI0V2IwUDNKM0VzSXVH?oc=5>
 
-### 特朗普谈判爱拉锯 分析称恐成“不成交的艺术”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-06-28 15:19
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1GMTVPRFdrSklrVGxkQ0xjYUlmb25DYW43S3MzQTZ4WXZ2TFJMV3p0azlTUjdaVEpRTFNScHBaNUJaam4zeW05U2dTZC05Q3k1T3l1dUxDS1QyNjA3YTVjWEpKQ1FrVEVpdmc?oc=5>
-
-### 特朗普提名兰斯·施罗耶出任美移民与海关执法局局长
+### 金发女助理被疑跟特朗普“日夜在一起” 亲哥打破沉默
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-06-28 02:35
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tSWNKcVpzMkpLWGhOQVprUl9xNWxUcE5ERDRkSXo2dExwazE4MDZTZDZFTWZrVDRjOVRkMTlPRHl6YlNYcEpjbEoxUXU0VVRJU2FoS0VURF9vYThsaV9fbTRUeUVweS1p?oc=5>
-
-### Trump Administration Rolls Back Part of Anthropic Model Ban -- Update
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-06-27 01:10
-- 链接: <https://news.google.com/rss/articles/CBMiswFBVV95cUxQclFLWmNtRzdjZkIwNmo0ajVBN2ZObjFnRGZjUG42aTBNbWFWR3lZRlFqcU1XX3ZkU2lqVXZDb0xWUWFESXZYTGlPQ2VUWUItUzZ0Znd3TGpabXptZXhodjZ0TGJrYTU3SmNVbWgxcDZjZHc3RUE4OUljSHQ5UzJFT2VRNXZoczJxdjUwVHRpdzNBeVhjcjA1VndaeTdmR0tjWlpzUmk3M2RDVHhvWVd1bEVMaw?oc=5>
+- 场馆: 文学城
+- 时间: 2026-06-28 20:29
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lQ09CVU9oMTlwQWRGVEp0Z1FKT2RfUVJDMUx4bDRoSnZYOEFJLWVQWkxxb2lKZ0RjVkRlSjdTQ19kMThueDBxeFdGLWhrM0hHTnJrMk4yTmlDNlpidWtOX3F0aTFzUFNj?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-28 20:55  (17 条)
+
+- **蔡徐坤** | 蔡徐坤在这场签售会上都做了什么互动？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801si5i.html>
+- **蔡徐坤** | 蔡徐坤把签售会做成面试现场？区别太好磕了 <https://k.sina.com.cn/article_7879776328_1d5abd84806801si5a.html>
+- **周杰伦** | 花2000块去看周杰伦?他武汉演唱会票价:内场至尊VIP价格昂贵|乐队|周杰伦|无法替代|武汉市|演唱会 <https://k.sina.com.cn/article_7857201856_1d45362c001907iyy2.html>
+- **周杰伦** | 网友为什么说演员艾米首场演唱会起点太高？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801si2w.html>
+- **周杰伦** | 演员艾米和杨迪的演唱会合影是什么样的？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801si2y.html>
+- **周杰伦** | 杨迪是不是经常去看周杰伦演唱会 <https://k.sina.com.cn/article_7879776328_1d5abd84806801si26.html>
+- **周杰伦** | 艾米这场周杰伦演唱会门票是多少钱买的 <https://k.sina.com.cn/article_7879776328_1d5abd84806801si24.html>
+- **周杰伦** | 王俊凯为什么没去周杰伦北京演唱会？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801shw2.html>
+- **周杰伦** | 周杰伦演唱会播放王俊凯新歌是怎么回事？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801shvw.html>
+- **周杰伦** | 王俊凯原定要当周杰伦北京演唱会嘉宾吗？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801shvs.html>
+- **周杰伦** | 《中餐厅》团建周杰伦演唱会，王俊凯为啥没来？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801shvo.html>
+- **周杰伦** | 周杰伦演唱会现场都有哪些明星现身？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801sfig.html>
+- **周杰伦** | 杨迪周杰伦演唱会互动,自嘲玩梗点歌,引爆笑点 <https://k.sina.com.cn/article_7857201856_1d45362c001907ie1y.html>
+- **周杰伦** | 杨迪去参加周杰伦的演唱会,在...@张大嘴说时事的动态 <https://k.sina.com.cn/article_7857201856_1d45362c001907icvi.html>
+- **特朗普** | 暴力执法引民怨，特朗普新提名美移民与海关执法局局长 <https://news.google.com/rss/articles/CBMieEFVX3lxTE9DbHJ5Rl9ZMmtDSllZcTBId3pSaUxNdVV6Yl9xNUZEYjBsRC1zUUlaRGpyVEJXUS15dms1TnF1NzFwV0NKWVBtUncweWJRdEluM1NTbVBTdlRoeVpSb0RMQjNBTjFQa21hem5OcTB1VlFNaFk5YVNWVg?oc=5>
+- **特朗普** | 特朗普威胁：征收100%报复性关税 <https://news.google.com/rss/articles/CBMiUEFVX3lxTE9OTDJrbXN6MTV5VXNiMUxPenA1bUV4aE5LZW9nUVZQMjB5ekpDMFhoVTUzNS1RQWV1VWpfVGotU0gzeWI0V2IwUDNKM0VzSXVH?oc=5>
+- **特朗普** | 金发女助理被疑跟特朗普“日夜在一起” 亲哥打破沉默 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lQ09CVU9oMTlwQWRGVEp0Z1FKT2RfUVJDMUx4bDRoSnZYOEFJLWVQWkxxb2lKZ0RjVkRlSjdTQ19kMThueDBxeFdGLWhrM0hHTnJrMk4yTmlDNlpidWtOX3F0aTFzUFNj?oc=5>
 
 ### 2026-06-28 19:52  (35 条)
 
