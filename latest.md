@@ -1,204 +1,340 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-28 01:32**
-- 本轮扫到 4908 条, 新增 **29** 条
+- 最近更新: **2026-06-28 06:11**
+- 本轮扫到 4951 条, 新增 **43** 条
 
 ---
 
-## 本轮新发现 (29 条)
+## 本轮新发现 (43 条)
 
-### 蔡徐坤签售会买专辑抽资格的规则是什么
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rthy.html>
-
-### 蔡徐坤签售会还有其他有趣互动吗？
+### 小黄豆带摄影团队拍蔡徐坤签售互动
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rtga.html>
+- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301coyw.html>
 
-### 买到多少专辑才能获得蔡徐坤签售资格？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rtg2.html>
-
-### 蔡徐坤签售会和小黄豆比心互动，太甜了！
+### 普通粉丝怎么获得蔡徐坤签售会资格？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rsj0.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rwfm.html>
 
-### 蔡徐坤首场线下签售会什么时候举办
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rshq.html>
-
-### 普通人该怎么拿到蔡徐坤的签售资格？
+### 蔡徐坤这次签售会一共有多少个参与名额？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rsgc.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rwf8.html>
 
-### 如何避免在抢周杰伦演唱会门票时遇到网络卡顿？
+### 蔡徐坤签售会简直不要太幸福（素材侵删）
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002mw8i.html>
+
+### 周杰伦这次北京鸟巢演唱会门票好抢吗？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801s6ok.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801s9uk.html>
 
-### 周杰伦鸟巢演唱会开场时间具体是几点？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801s6fk.html>
-
-### 周杰伦鸟巢演唱会门票还有机会抢到吗？
+### 周杰伦北京演唱会还会再加开场次吗？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801s6fi.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801s9qc.html>
 
-### 周杰伦2026鸟巢演唱会时间正式定档啦
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801s6fc.html>
-
-### 海清带19岁儿子现身周杰伦演唱会，腹肌太抢镜！
+### 这次周杰伦鸟巢演唱会门票好抢吗？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801s6a8.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801s9h0.html>
 
-### 秒空！周杰伦厦门演唱会，又没抢到票？！
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907hxaa.html>
-
-### 周杰伦这次鸟巢演唱会都有哪些嘉宾登台？
+### 周杰伦演唱会最前排的票一般什么时候放出来？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801s552.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801s9fa.html>
 
-### 周杰伦带儿女抵京备战鸟巢演唱会 海清母子现身
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801s54g.html>
-
-### 周杰伦演唱会千元座位距舞台远，歌迷称性价比低
+### 周杰伦演唱会主办方会怎么处理这件事？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2868370350_aaf7dbae04001s47a.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801s99q.html>
 
-### 周杰伦下一次会什么时候去成都开演唱会
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rsrq.html>
-
-### 还有哪些城市至今没办过周杰伦演唱会
+### 散场阶段突遇强降雨引发现场混乱！周杰伦演唱会周边物品遭观众哄抢，警方介入核查
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rsro.html>
+- 链接: <https://k.sina.com.cn/article_5953189932_162d6782c06704j2ks.html>
 
-### 周杰伦2026鸟巢演唱会票价是多少
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rsqq.html>
-
-### 周杰伦自爆出道20年从没开过白天演唱会
+### 周杰伦鸟巢演唱会哪一天会邀请邓紫棋到场？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rsq6.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801s95o.html>
 
-### 林俊杰会登上周杰伦鸟巢演唱会舞台吗？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rspi.html>
-
-### 林志颖大儿子颜值逆袭！眉眼超像爸爸，低调现身周杰伦演唱会
+### 王俊凯会真的出席周杰伦鸟巢演唱会吗？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907hhi2.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801s958.html>
 
-### 海清母子照片合集：2026演唱会最新同框与早年曝光
+### 周杰伦演唱会官方周边遭哄抢，警方已介入调查
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rs4s.html>
+- 链接: <https://k.sina.com.cn/article_1682207150_m644471ae03301nb5o.html>
 
-### 特朗普总统：伊朗再度违反停火协议 美军连续两天打击伊朗军事目标
+### 周杰伦最新MV《女儿殿下》发布,为小女儿量身打造
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907i0ig.html>
+
+### 周杰伦演唱会散场时突遇强降雨引发混乱！周边物品遭观众哄抢，警方已介入
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879924002_m1d5ae192202001enm4.html>
+
+### 演唱会丢失价值11万手镯,女子发帖求助 周杰伦歌迷跨省归还
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907hzny.html>
+
+### 周杰伦鸟巢演唱会点歌环节都点了哪些歌？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801s8ek.html>
+
+### 董宇辉刘畊宏去看周杰伦演唱会
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7467694254_m1bd1bf8ae03301a9vu.html>
+
+### 北京演唱会遇雨,周杰伦提醒歌迷注意安全
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002mweu.html>
+
+### 周杰伦鸟巢演唱会内外场歌迷各选所爱
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5450389695_p144de58bf02701s440.html>
+
+### 周杰伦《女儿殿下》MV里有哪些隐藏彩蛋？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rwd0.html>
+
+### 高价买到周杰伦演唱会“遮挡位”,歌迷直呼“被骗”
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907hp10.html>
+
+### 周杰伦演唱会武汉体育中心主体育场座位图2025
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907hox4.html>
+
+### 老粉怎么看待如今周杰伦的演唱会
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rtzc.html>
+
+### 接下来周杰伦演唱会还会开到哪些城市？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rtyq.html>
+
+### 周杰伦演唱会散场彩蛋曝光 为何总快速离场？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rty6.html>
+
+### 为什么周杰伦演唱会散场要快速离场
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rtxw.html>
+
+### 其他城市会学周杰伦演唱会交通保障吗
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rtxy.html>
+
+### 周杰伦演唱会能带火当地文旅消费吗
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rty0.html>
+
+### 周杰伦演唱会散场都有哪些意外彩蛋
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rtxg.html>
+
+### 周杰伦演唱会散场比正片还热闹？看完惊了
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rtxe.html>
+
+### 周杰伦这次演唱会为什么没有安可返场？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801rtvk.html>
+
+### 周杰伦演唱会观众哄抢官方周边，警方已介入调查
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://finance.sina.com.cn/wm/2026-06-28/doc-iniexucy3168179.shtml>
+
+### 欧盟回应特朗普关税威胁：坚决捍卫自身权利
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-06-28 01:23
-- 链接: <https://news.google.com/rss/articles/CBMi2wFBVV95cUxQY3VMYTYycWdfdDE0OG9SdnBQaE13Q1RpaVFJYkcxbnB3b2d1T3NhNFJGTFREWV9kZFZUcXpjaUtJcmFoNmZYRGEzVDFfYmkwZkRmcklXWDZYWHlPSEdINWVUbW8yRHpaZHBHZ2U5dFo2N2U2LTkxQmxyeWNpYks3RkNWakNhQURJSF9nQmNLSi1RNDh6dUVjV2R0UHlJb1ZHQk1iSHYyRUhKRDhOZnF4Y0FsektmOW5jVm1XMEt3bF9pYVdDd25pNVpmOXg0Yks4amo4c2RBLUk4SDTSAd4BQVVfeXFMUDAwRkdGZWdmVnBIeXFIRkRBa2Etd19uWW94WEdGUkUxckxwQTVTS1hyRkUtYnFlNGZJNG4xRVBuSDRSaDU0WUJsVWN1Vl9fckNHMXNIdFVyNjh6bHhJVWNFZEJDdThQMjRWbU5IZ2lrU1dPbjFuVVdaMVBOT1FxSUp3VC1GRC1PWWVGTE1VYTE5OW5vdWZHS1NSQU5RUWpSSzNQMDNDWG84d3hDdHNrNVFZdU9uaGZuSkQ1aElGdUlERjJNZHBGeDYtVjlPM1JXQzBfeVIxRVBiU1RIWDl3?oc=5>
+- 场馆: 新华网
+- 时间: 2026-06-28 02:19
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1WdjNhMUtKZ3ZhUzdmQ2xDLVlHeVNGX0tjODBwU0FuNFVPazBXLWtHOFVyWXZRRm9hbXdROTU5czB2dlV0dkYyeEZUdTJiTURtbW1vSzR3dkI2WjlyZHhOQnpKVzhLNl9WRTIzbVhwSmhXLUdaQkRLendrb3FYX0k?oc=5>
 
-### 特朗普威胁伊朗或将不复存在：美军刚刚打击了伊朗导弹和无人机储存设施
+### 学特朗普“卖金卡”，阿根廷这次直接卖国籍？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-06-28 00:29
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5ob0p3b0l6V0JoREpWMFdSaldzM1FQM3BZUjNmTDAxQ2d6enpaTmM5ZEdLZDl0TjBZNmJZQ2M5MEF2aHhJWTZWb0xEZU9xa1NLbml6a052ZUN1MEpBcjBxN0tYV0Q1ekZjTnc?oc=5>
+
+### 特朗普政府或为Anthropic最强大模型“松绑” 预计一周内解禁Fable 5
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 财联社
+- 时间: 2026-06-27 22:05
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE5xek1wTEJRVFBKb3gyX2RENzlpTlFkcXNHX3BYdjNERFlKTjdxYVNHTzBhSjNDMUNKZ191NXZZMDRrbGoyOENnbw?oc=5>
+
+### 特朗普提名兰斯·施罗耶出任美移民与海关执法局局长，具备遣返非法移民和打击相关犯罪的丰富经验
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-28 00:17
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE5hTENJTllQSW55ZVFqQmNsZGhyd3JlQjdnMGJfRkoxNWlNQ2l2Q3JQcTZsVTJueXhCT3Z2Ymc0eU56SEdGeHY0OW9ZLUR4YTlnLTJCdmlmWGpiREowcW51ZWxaRGR4ZVd6R1NmRlhUVWRVM29jZlE?oc=5>
+- 时间: 2026-06-28 02:31
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE1qRWI1a04ycWJ5SGQ1dG8wZ0NsU0kzWlRPbVQ3OHdmMkRDVlM0NnpCM2QzMVVxQ055cGNIV0JzOUNvSlRxazQzb2FOUXBtMEFqTS1taGwtZXZna1ViWmFQNXlTOXMxMkRfMDRmcTV0RFlOU1Z4N0E?oc=5>
 
-### 专访｜前白宫科技顾问：特朗普政策逆风，难阻美国清洁能源的市场扩张
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-27 23:32
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE8zQjhsdXFmMUtDVWh5U2NMNnpUOHZicllmZy1yY2I1dTlsZGpTQ0NZNW01YWh1Z2NnZ2pTNmZlenRjSkFkYmk2blpMYTJ1UU1nOHp6ZkEtZHpkWG83cUp0UG9wdnQtbUdfZk1JRlBfR29vNFl5WlJ2Wg?oc=5>
-
-### 中东，突发！特朗普威胁：伊朗或将不复存在！美军发动打击！
+### 特朗普提名兰斯·施罗耶出任美移民与海关执法局局长
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-28 00:00
-- 链接: <https://news.google.com/rss/articles/CBMikAJBVV95cUxOaUJfWEhybHZHMFZyOWtKZ08xMDl5ZUQ3VjJwSDV3ajd3dzR5TXB4TFRWX183Vjl4bXAtODF4eDdCaGxRRXlFNVgyQjJkcUM2Z3dXeS1JXzNjRFNzcXhtZkExMW1BMTRVWjNOZ1E0YVdydFQ4YjNEWlpEeXUyMklWNV9MNnlqRENLQktiZzl6NjFocVBUUHdfejA5T3J1V1NWSEFHN0E4aDhsTzJIRF9rRlcyRndPYWZJcGc5ZHhSUUdkd2hVR0tpZXVjQzlIQTFMcWtDWTdBMi1WdVRNbTZWdTZwQnVmc0ttRmxjSndWNUFOdVpkUjRfU2pwS1AyZG5PbDFvTFdoaWt5YnJHLVhLbg?oc=5>
+- 时间: 2026-06-28 02:42
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBPYXJ3VENLNk5tX09odFFnU0I3RmZNeTMtaGw2NC1IcllPY1RJSnMyMnB3Q050cHIxWEItM24zTHc2Y1kzTnJLV2o1ZkYyMWFMU3VlVFZvU2Y5YzNORGZJR0ZyMkJpYWRfTFgzamxTTExaYnZYbDNlVg?oc=5>
 
-### 特朗普威胁对征数码税国家商品征100%关税
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-06-27 02:12
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBBY21WQ1FFY05vX1NfR3pkUkdzbkU3Tnp6NTRiTTc4cjJHbWw5bTNpMXUxR194TzJrdWRZdW1KUzNaTTR3cXJfSUQ2Z3R0R3E3aV96MmhlTU9fWHlCclRNdUlfMlROUQ?oc=5>
-
-### 美伊形势突变！特朗普威胁：伊朗或将不复存在
+### 美国计划发行印有特朗普肖像的护照，特朗普社交账号发布新版美国护照设计图片，并写着“欢迎，但要乖”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 天天基金
-- 时间: 2026-06-28 00:11
-- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE01Rm1iamlzN3l4dlVkVE5tWi1EeU5wMGRlM05wVkR4Y2pEVmMtc1lqZHRzazNKbmY5OUZfcUpLcWVQNUVqWmoyY0taNWN1cUctcy1OOEFDSkZtSkZLZ0dJMG1B?oc=5>
+- 场馆: 每日经济新闻
+- 时间: 2026-06-28 03:24
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1iNHJyMXFZaGZoSFQyaHJjRy1RSnZBYjRHR0ZtT01uWXl4OFpXb1pMTFJhQ0pzeGRyVWFVNHJkNGZsYU1NYzVJZDczVktTNDhkNEczSDFqSXdBMHpUT2dNODVWM3RlZw?oc=5>
 
-### 印度海得拉巴以特朗普命名街道引热议——特朗普：前所未有的荣誉
+### 34岁金发女助理被疑跟特朗普，“日夜在一起”，亲哥打破沉默
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-06-28 04:01
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1pXzBRbVM2MGpHODdfYkNoU2xMSTloOVBtLThMZWtTbjJVYlJQWk1aN05CUWpxZVFybnBOemQyVTdoV1VhaWVaXzNucWw?oc=5>
+
+### 外媒实测Trump Phone T1 软硬件均有明显短板
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: 搜狐网
-- 时间: 2026-06-27 23:38
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxQRlByRVU5U3FwWXpVcmJmVktETG1hVnBRb2VRNE5vd2JpTkpwX0JnckJOREdVRW9nZ051d01oR21hbXdLLW40aVFYVUhqNUhwNW5JMFlmZEZsUFk4TkZRTVM1aWNRQTFxTXA4THNOUXlWYm92aEotVGlNV3p1MVV4dTNIdGtzaXVNNmxaRg?oc=5>
+- 时间: 2026-06-28 04:41
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxPblhYdWxNWG9xUmVtWTh5eGFDV0ZBY3BKS0lFdFQ2NlU0LTRqYzJzQVJMV0RrLV9qXzZOLVVDRjlZSk1YS01CNW13TFZjQWdFVl9obUU0aFN1M0V4ak9fWmV6ekYtSHpIa253N2RkRHI5NllrTEhiU015bmlPR2RwamR0RTNzd1hV?oc=5>
+
+### 转换 TRUMP 到 AUD | OFFICIAL TRUMP 兑换 澳大利亚元 转换器
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: OKX
+- 时间: 2026-06-28 00:00
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5WRm5Gb25NcU9wcXNPb2xCdGFQY0k0UHZCRHIwYWF3Z2JncHNwZG5rQnp2c0M2eW96YjdSMnF6a1pjRzlDSG5CMU0zUWhmcVRMSnEzUGNxRkFzMGFTNmh6ZU9PWE9VT1U?oc=5>
+
+### 特朗普：伊朗或永远都不会吸取教训
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 8world
+- 时间: 2026-06-28 01:24
+- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxNYWZPS0xjc0laOVNVeXNaRnMwbHdWY0ZLdHZJbVFEU1MxMmViM1Z6NWVtRDUtam9zcmlPMEJGY3pJcy0tVThmQ0VxZHVZQnZOVl91NFdBdHhqMEFUd3RFYWg2N3ZHTFF5Z1ZieE9pWlQ5MzdDX2RwTmVkYy1YZjlXZ2Nn?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-28 06:11  (43 条)
+
+- **蔡徐坤** | 小黄豆带摄影团队拍蔡徐坤签售互动 <https://k.sina.com.cn/article_7879924009_m1d5ae192903301coyw.html>
+- **蔡徐坤** | 普通粉丝怎么获得蔡徐坤签售会资格？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801rwfm.html>
+- **蔡徐坤** | 蔡徐坤这次签售会一共有多少个参与名额？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801rwf8.html>
+- **蔡徐坤** | 蔡徐坤签售会简直不要太幸福（素材侵删） <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002mw8i.html>
+- **周杰伦** | 周杰伦这次北京鸟巢演唱会门票好抢吗？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801s9uk.html>
+- **周杰伦** | 周杰伦北京演唱会还会再加开场次吗？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801s9qc.html>
+- **周杰伦** | 这次周杰伦鸟巢演唱会门票好抢吗？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801s9h0.html>
+- **周杰伦** | 周杰伦演唱会最前排的票一般什么时候放出来？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801s9fa.html>
+- **周杰伦** | 周杰伦演唱会主办方会怎么处理这件事？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801s99q.html>
+- **周杰伦** | 散场阶段突遇强降雨引发现场混乱！周杰伦演唱会周边物品遭观众哄抢，警方介入核查 <https://k.sina.com.cn/article_5953189932_162d6782c06704j2ks.html>
+- **周杰伦** | 周杰伦鸟巢演唱会哪一天会邀请邓紫棋到场？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801s95o.html>
+- **周杰伦** | 王俊凯会真的出席周杰伦鸟巢演唱会吗？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801s958.html>
+- **周杰伦** | 周杰伦演唱会官方周边遭哄抢，警方已介入调查 <https://k.sina.com.cn/article_1682207150_m644471ae03301nb5o.html>
+- **周杰伦** | 周杰伦最新MV《女儿殿下》发布,为小女儿量身打造 <https://k.sina.com.cn/article_7857201856_1d45362c001907i0ig.html>
+- **周杰伦** | 周杰伦演唱会散场时突遇强降雨引发混乱！周边物品遭观众哄抢，警方已介入 <https://k.sina.com.cn/article_7879924002_m1d5ae192202001enm4.html>
+- **周杰伦** | 演唱会丢失价值11万手镯,女子发帖求助 周杰伦歌迷跨省归还 <https://k.sina.com.cn/article_7857201856_1d45362c001907hzny.html>
+- **周杰伦** | 周杰伦鸟巢演唱会点歌环节都点了哪些歌？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801s8ek.html>
+- **周杰伦** | 董宇辉刘畊宏去看周杰伦演唱会 <https://k.sina.com.cn/article_7467694254_m1bd1bf8ae03301a9vu.html>
+- **周杰伦** | 北京演唱会遇雨,周杰伦提醒歌迷注意安全 <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002mweu.html>
+- **周杰伦** | 周杰伦鸟巢演唱会内外场歌迷各选所爱 <https://k.sina.com.cn/article_5450389695_p144de58bf02701s440.html>
+- **周杰伦** | 周杰伦《女儿殿下》MV里有哪些隐藏彩蛋？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801rwd0.html>
+- **周杰伦** | 高价买到周杰伦演唱会“遮挡位”,歌迷直呼“被骗” <https://k.sina.com.cn/article_7857201856_1d45362c001907hp10.html>
+- **周杰伦** | 周杰伦演唱会武汉体育中心主体育场座位图2025 <https://k.sina.com.cn/article_7857201856_1d45362c001907hox4.html>
+- **周杰伦** | 老粉怎么看待如今周杰伦的演唱会 <https://k.sina.com.cn/article_7879776328_1d5abd84806801rtzc.html>
+- **周杰伦** | 接下来周杰伦演唱会还会开到哪些城市？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801rtyq.html>
+- **周杰伦** | 周杰伦演唱会散场彩蛋曝光 为何总快速离场？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801rty6.html>
+- **周杰伦** | 为什么周杰伦演唱会散场要快速离场 <https://k.sina.com.cn/article_7879776328_1d5abd84806801rtxw.html>
+- **周杰伦** | 其他城市会学周杰伦演唱会交通保障吗 <https://k.sina.com.cn/article_7879776328_1d5abd84806801rtxy.html>
+- **周杰伦** | 周杰伦演唱会能带火当地文旅消费吗 <https://k.sina.com.cn/article_7879776328_1d5abd84806801rty0.html>
+- **周杰伦** | 周杰伦演唱会散场都有哪些意外彩蛋 <https://k.sina.com.cn/article_7879776328_1d5abd84806801rtxg.html>
+- **周杰伦** | 周杰伦演唱会散场比正片还热闹？看完惊了 <https://k.sina.com.cn/article_7879776328_1d5abd84806801rtxe.html>
+- **周杰伦** | 周杰伦这次演唱会为什么没有安可返场？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801rtvk.html>
+- **周杰伦** | 周杰伦演唱会观众哄抢官方周边，警方已介入调查 <https://finance.sina.com.cn/wm/2026-06-28/doc-iniexucy3168179.shtml>
+- **特朗普** | 欧盟回应特朗普关税威胁：坚决捍卫自身权利 <https://news.google.com/rss/articles/CBMif0FVX3lxTE1WdjNhMUtKZ3ZhUzdmQ2xDLVlHeVNGX0tjODBwU0FuNFVPazBXLWtHOFVyWXZRRm9hbXdROTU5czB2dlV0dkYyeEZUdTJiTURtbW1vSzR3dkI2WjlyZHhOQnpKVzhLNl9WRTIzbVhwSmhXLUdaQkRLendrb3FYX0k?oc=5>
+- **特朗普** | 学特朗普“卖金卡”，阿根廷这次直接卖国籍？ <https://news.google.com/rss/articles/CBMiakFVX3lxTE5ob0p3b0l6V0JoREpWMFdSaldzM1FQM3BZUjNmTDAxQ2d6enpaTmM5ZEdLZDl0TjBZNmJZQ2M5MEF2aHhJWTZWb0xEZU9xa1NLbml6a052ZUN1MEpBcjBxN0tYV0Q1ekZjTnc?oc=5>
+- **特朗普** | 特朗普政府或为Anthropic最强大模型“松绑” 预计一周内解禁Fable 5 <https://news.google.com/rss/articles/CBMiSEFVX3lxTE5xek1wTEJRVFBKb3gyX2RENzlpTlFkcXNHX3BYdjNERFlKTjdxYVNHTzBhSjNDMUNKZ191NXZZMDRrbGoyOENnbw?oc=5>
+- **特朗普** | 特朗普提名兰斯·施罗耶出任美移民与海关执法局局长，具备遣返非法移民和打击相关犯罪的丰富经验 <https://news.google.com/rss/articles/CBMidkFVX3lxTE1qRWI1a04ycWJ5SGQ1dG8wZ0NsU0kzWlRPbVQ3OHdmMkRDVlM0NnpCM2QzMVVxQ055cGNIV0JzOUNvSlRxazQzb2FOUXBtMEFqTS1taGwtZXZna1ViWmFQNXlTOXMxMkRfMDRmcTV0RFlOU1Z4N0E?oc=5>
+- **特朗普** | 特朗普提名兰斯·施罗耶出任美移民与海关执法局局长 <https://news.google.com/rss/articles/CBMieEFVX3lxTFBPYXJ3VENLNk5tX09odFFnU0I3RmZNeTMtaGw2NC1IcllPY1RJSnMyMnB3Q050cHIxWEItM24zTHc2Y1kzTnJLV2o1ZkYyMWFMU3VlVFZvU2Y5YzNORGZJR0ZyMkJpYWRfTFgzamxTTExaYnZYbDNlVg?oc=5>
+- **特朗普** | 美国计划发行印有特朗普肖像的护照，特朗普社交账号发布新版美国护照设计图片，并写着“欢迎，但要乖” <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1iNHJyMXFZaGZoSFQyaHJjRy1RSnZBYjRHR0ZtT01uWXl4OFpXb1pMTFJhQ0pzeGRyVWFVNHJkNGZsYU1NYzVJZDczVktTNDhkNEczSDFqSXdBMHpUT2dNODVWM3RlZw?oc=5>
+- **特朗普** | 34岁金发女助理被疑跟特朗普，“日夜在一起”，亲哥打破沉默 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1pXzBRbVM2MGpHODdfYkNoU2xMSTloOVBtLThMZWtTbjJVYlJQWk1aN05CUWpxZVFybnBOemQyVTdoV1VhaWVaXzNucWw?oc=5>
+- **Trump** | 外媒实测Trump Phone T1 软硬件均有明显短板 <https://news.google.com/rss/articles/CBMiiAFBVV95cUxPblhYdWxNWG9xUmVtWTh5eGFDV0ZBY3BKS0lFdFQ2NlU0LTRqYzJzQVJMV0RrLV9qXzZOLVVDRjlZSk1YS01CNW13TFZjQWdFVl9obUU0aFN1M0V4ak9fWmV6ekYtSHpIa253N2RkRHI5NllrTEhiU015bmlPR2RwamR0RTNzd1hV?oc=5>
+- **Trump** | 转换 TRUMP 到 AUD | OFFICIAL TRUMP 兑换 澳大利亚元 转换器 <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5WRm5Gb25NcU9wcXNPb2xCdGFQY0k0UHZCRHIwYWF3Z2JncHNwZG5rQnp2c0M2eW96YjdSMnF6a1pjRzlDSG5CMU0zUWhmcVRMSnEzUGNxRkFzMGFTNmh6ZU9PWE9VT1U?oc=5>
+- **Trump** | 特朗普：伊朗或永远都不会吸取教训 <https://news.google.com/rss/articles/CBMiggFBVV95cUxNYWZPS0xjc0laOVNVeXNaRnMwbHdWY0ZLdHZJbVFEU1MxMmViM1Z6NWVtRDUtam9zcmlPMEJGY3pJcy0tVThmQ0VxZHVZQnZOVl91NFdBdHhqMEFUd3RFYWg2N3ZHTFF5Z1ZieE9pWlQ5MzdDX2RwTmVkYy1YZjlXZ2Nn?oc=5>
 
 ### 2026-06-28 01:32  (29 条)
 
