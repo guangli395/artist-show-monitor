@@ -1,111 +1,95 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-28 13:24**
-- 本轮扫到 4987 条, 新增 **17** 条
+- 最近更新: **2026-06-28 15:01**
+- 本轮扫到 5005 条, 新增 **18** 条
 
 ---
 
-## 本轮新发现 (17 条)
+## 本轮新发现 (18 条)
 
-### 周杰伦北京演唱会中餐厅团建
+### 27岁内地歌手蔡徐坤签售会像面试？80秒互动藏着哪些职场逻辑？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801a2vw.html>
+
+### 白天开演唱会对演出效果有影响吗？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2286092114_m8842ff5203302j6vs.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801se8a.html>
 
-### 普通人抢周杰伦演唱会票有什么技巧？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801scua.html>
-
-### 周杰伦北京演唱会散场歌迷哄抢雨衣，警方介入调查
+### 王俊凯为什么缺席周杰伦北京演唱会团建？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924004_m1d5ae1924033020v9g.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801se7m.html>
 
-### 周杰伦演唱会周边遭哄抢，警方介入调查
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923973_m1d5ae1905033020v9y.html>
-
-### 新浪演唱会热点小时报丨2026年06月28日21时_今日实时演唱会热点速递
+### 中餐厅来周杰伦北京演唱会团建了
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907i37m.html>
+- 链接: <https://k.sina.com.cn/article_1288429914_m4ccbe15a033017dq0.html>
 
-### 周杰伦演唱会1000票视角的区域选择攻略
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801scp8.html>
-
-### 新浪演唱会热点小时报丨2026年06月28日20时_今日实时演唱会热点速递
+### 艾米首看周杰伦演唱会偶遇杨迪同场欢乐互动
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907i2x4.html>
+- 链接: <https://k.sina.com.cn/article_7879924004_m1d5ae1924033020vek.html>
 
-### 周杰伦演唱会周边物料遭人群哄抢
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2011075080_m77de920803301nie8.html>
-
-### 分享一些周杰伦鸟巢演唱会的精彩视频
+### 中餐厅剧组现身周杰伦演唱会，黄晓明昆凌等集体应援
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801sc32.html>
+- 链接: <https://k.sina.com.cn/article_7879924004_m1d5ae1924033020veg.html>
 
-### 周杰伦演唱会散场遇暴雨 歌迷哄抢官方周边
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801s99a.html>
-
-### 周杰伦演唱会1000票能看清舞台吗？
+### 艾米首看周杰伦演唱会偶遇杨迪，两人同场应援
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801s7p0.html>
+- 链接: <https://k.sina.com.cn/article_7879924004_m1d5ae1924033020vda.html>
 
-### 海清儿子为什么删除周杰伦演唱会合照？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801s6ae.html>
-
-### 周杰伦鸟巢演唱会门票价格是多少？
+### 中餐厅团队鸟巢团建,周杰伦演唱会现场同欢
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801s6ag.html>
+- 链接: <https://k.sina.com.cn/article_7879924004_m1d5ae1924033020vcs.html>
 
-### 周杰伦演唱会周边遭观众哄抢，警方介入核查
+### 中餐厅嘉宾鸟巢团建观看周杰伦演唱会
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://finance.sina.com.cn/wm/2026-06-28/doc-inieykzq6083813.shtml>
+- 链接: <https://k.sina.com.cn/article_7879924004_m1d5ae1924033020vcc.html>
 
-### 中东，突发！特朗普威胁：伊朗或将不复存在！美军发动打击！
+### 新浪演唱会热点小时报丨2026年06月28日22时_今日实时演唱会热点速递
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-27 23:48
-- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE5jZ2FnZjdnREoxdktGZFhPN2wzUWVkbF9OZ1lNVkVMdnlGUDZRaDZSbE9EN3lnMTRCVDFZWkkzTDNLN0VWRDQ1OFhuekRZM0ZYT3RBcm96X3BpLUIyaGZzWm11N0dsQktISWhUS3htYTdNczF1SV9vdVp3?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907i7w8.html>
 
-### 特朗普发出最后通牒:征200%关税
+### 艾米周杰伦演唱会偶遇杨迪，合唱合照双倍快乐
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-28 00:40
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5WdEpFelJRN3lIYzltT2w3bFJhQUZtTUdtZHZuNmNtbUxHSmRJUUZWcWM3dFN4R01JR3V3WHFwaDkxcjRkSHlsR3BQUUpHcENoTldfM19TWWppSkdzVmhZMnVEY3hpTkNxMVhXdTBhV1ExY3ozOEd3Zg?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1072962941_3ff41d7d04001s4qe.html>
+
+### 周杰伦女儿殿下MV,上线就挨骂?
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907i0k6.html>
+
+### 周杰伦鸟巢演唱会点歌环节有哪些感人故事？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801s8ei.html>
+
+### 时隔9年！周杰伦鸟巢演唱会点歌环节太好哭了
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801s8ec.html>
 
 ### 特朗普推出印有其肖像、纪念美国建国250周年的新版护照
 
@@ -113,12 +97,57 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-06-27 14:52
-- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxNUEtISWowYlJqZElleWZqal8xMXhmOUI3MXg1SjVfTzF1QURkSXlpaVhVSkE2aGg0NGFRUFVhUWVRV2JLMF9vRjA0ZS1vaEk2ZktUQmxiRjdlbzVVQWpSQlFUOExFUlFVUGJwUzNQc1VkcGJ3TW1JV1NkX3NvRGExdUhtcmpRbWFlR1NZZ0tlcFQxcjdqWUs1RHR2bUpKT2ZMbTVla0t2V1lzbHBKTWZYbUNkSUJCVDkzOUNsQmZjLXVVdTlNeXc5WGZibXF6Z1k?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaWg0azgzcnBQa080UmlENTJMalZQMmYtSm5MZk05T2R0eFI0WF9PT0lGeVh2QW4ycVVLMDRPWC00anotUWo2NzMyWmk2UzlMZDgwNlNWcXg2dkI5ZTREeFFKX1k1em5aRzhVODNQQ1cwM1pHcVdFUDA5QV9fckd4Mk94bmxxQ3Z2RHJJVDBYS0dNQVpfVFJNbFI2Z3FBNzR2Q2pSZ1VROUJjdUF3QkxONHJ6VTVoZmRqUDI2bzByMjk0akNVMzBLTDhRa0ljN1hJ?oc=5>
+
+### 拜登：特朗普重回白宫后大肆捞金，令人震惊
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: QQ News
+- 时间: 2026-06-28 07:39
+- 链接: <https://news.google.com/rss/articles/CBMiV0FVX3lxTE16dFZjeG5fNkZ0V1d3cTQxWjJ2NU1CS3hjSVc3cy14Z2w1TGdFRTRoeHIzLTY2dkpWVnBQc05WQlh1TlpmMk1TcjNQSXFSenM5eXJSVk5Odw?oc=5>
+
+### 特朗普怒查石油巨头是在作秀吗 中期选举造势？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-06-28 06:41
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9ubWRGTEhVZnljZWY3X3BDMGZvOENvQWdPRVhwMHI3UGNvaUtrVm9LWDdXUk1LUXNnOWJBVXZnMEM2ZFphYmZtT01NWjZaUzcyd05hcEM3QVJQa3U2eWtNS0tCRGZJNDktZm12LUU2ZlA?oc=5>
+
+### 转换 USD 到 TRUMP | 美元 兑换 OFFICIAL TRUMP 转换器
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: OKX
+- 时间: 2026-06-28 00:00
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kZmlTNE8wX054WTdWWFVKcG01cENiTnl1ZXdYSWdwNGtGUVAtanIzQnZrT1YxcHpHOTRzQ2xiOV9YSUhhaXhCSzU5V2xtaHhjNDh4d1ZQbTBRemdnZDktaWRudjJrYUE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-28 15:01  (18 条)
+
+- **蔡徐坤** | 27岁内地歌手蔡徐坤签售会像面试？80秒互动藏着哪些职场逻辑？ <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801a2vw.html>
+- **周杰伦** | 白天开演唱会对演出效果有影响吗？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801se8a.html>
+- **周杰伦** | 王俊凯为什么缺席周杰伦北京演唱会团建？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801se7m.html>
+- **周杰伦** | 中餐厅来周杰伦北京演唱会团建了 <https://k.sina.com.cn/article_1288429914_m4ccbe15a033017dq0.html>
+- **周杰伦** | 艾米首看周杰伦演唱会偶遇杨迪同场欢乐互动 <https://k.sina.com.cn/article_7879924004_m1d5ae1924033020vek.html>
+- **周杰伦** | 中餐厅剧组现身周杰伦演唱会，黄晓明昆凌等集体应援 <https://k.sina.com.cn/article_7879924004_m1d5ae1924033020veg.html>
+- **周杰伦** | 艾米首看周杰伦演唱会偶遇杨迪，两人同场应援 <https://k.sina.com.cn/article_7879924004_m1d5ae1924033020vda.html>
+- **周杰伦** | 中餐厅团队鸟巢团建,周杰伦演唱会现场同欢 <https://k.sina.com.cn/article_7879924004_m1d5ae1924033020vcs.html>
+- **周杰伦** | 中餐厅嘉宾鸟巢团建观看周杰伦演唱会 <https://k.sina.com.cn/article_7879924004_m1d5ae1924033020vcc.html>
+- **周杰伦** | 新浪演唱会热点小时报丨2026年06月28日22时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001907i7w8.html>
+- **周杰伦** | 艾米周杰伦演唱会偶遇杨迪，合唱合照双倍快乐 <https://k.sina.com.cn/article_1072962941_3ff41d7d04001s4qe.html>
+- **周杰伦** | 周杰伦女儿殿下MV,上线就挨骂? <https://k.sina.com.cn/article_7857201856_1d45362c001907i0k6.html>
+- **周杰伦** | 周杰伦鸟巢演唱会点歌环节有哪些感人故事？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801s8ei.html>
+- **周杰伦** | 时隔9年！周杰伦鸟巢演唱会点歌环节太好哭了 <https://k.sina.com.cn/article_7879776328_1d5abd84806801s8ec.html>
+- **特朗普** | 特朗普推出印有其肖像、纪念美国建国250周年的新版护照 <https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaWg0azgzcnBQa080UmlENTJMalZQMmYtSm5MZk05T2R0eFI0WF9PT0lGeVh2QW4ycVVLMDRPWC00anotUWo2NzMyWmk2UzlMZDgwNlNWcXg2dkI5ZTREeFFKX1k1em5aRzhVODNQQ1cwM1pHcVdFUDA5QV9fckd4Mk94bmxxQ3Z2RHJJVDBYS0dNQVpfVFJNbFI2Z3FBNzR2Q2pSZ1VROUJjdUF3QkxONHJ6VTVoZmRqUDI2bzByMjk0akNVMzBLTDhRa0ljN1hJ?oc=5>
+- **特朗普** | 拜登：特朗普重回白宫后大肆捞金，令人震惊 <https://news.google.com/rss/articles/CBMiV0FVX3lxTE16dFZjeG5fNkZ0V1d3cTQxWjJ2NU1CS3hjSVc3cy14Z2w1TGdFRTRoeHIzLTY2dkpWVnBQc05WQlh1TlpmMk1TcjNQSXFSenM5eXJSVk5Odw?oc=5>
+- **特朗普** | 特朗普怒查石油巨头是在作秀吗 中期选举造势？ <https://news.google.com/rss/articles/CBMicEFVX3lxTE9ubWRGTEhVZnljZWY3X3BDMGZvOENvQWdPRVhwMHI3UGNvaUtrVm9LWDdXUk1LUXNnOWJBVXZnMEM2ZFphYmZtT01NWjZaUzcyd05hcEM3QVJQa3U2eWtNS0tCRGZJNDktZm12LUU2ZlA?oc=5>
+- **Trump** | 转换 USD 到 TRUMP | 美元 兑换 OFFICIAL TRUMP 转换器 <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kZmlTNE8wX054WTdWWFVKcG01cENiTnl1ZXdYSWdwNGtGUVAtanIzQnZrT1YxcHpHOTRzQ2xiOV9YSUhhaXhCSzU5V2xtaHhjNDh4d1ZQbTBRemdnZDktaWRudjJrYUE?oc=5>
 
 ### 2026-06-28 13:24  (17 条)
 
