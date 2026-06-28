@@ -1,90 +1,144 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-28 11:43**
-- 本轮扫到 4970 条, 新增 **11** 条
+- 最近更新: **2026-06-28 13:24**
+- 本轮扫到 4987 条, 新增 **17** 条
 
 ---
 
-## 本轮新发现 (11 条)
+## 本轮新发现 (17 条)
 
-### 蔡徐坤签售会和小黄豆双向奔赴太好哭了
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801s1fe.html>
-
-### 周杰伦2026鸟巢演唱会点歌环节完整详情
+### 周杰伦北京演唱会中餐厅团建
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801sbni.html>
+- 链接: <https://k.sina.com.cn/article_2286092114_m8842ff5203302j6vs.html>
 
-### 周杰伦演唱会最前排票价到底要多少钱？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801saj8.html>
-
-### 卖水哥：战绩可查周杰伦音乐节微博VC计划
+### 普通人抢周杰伦演唱会票有什么技巧？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301cox0.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801scua.html>
 
-### 44岁华语天王周杰伦，花2000元看演唱会竟遭吐槽，为何票价越涨歌迷越疯狂？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801a1xo.html>
-
-### 周杰伦鸟巢演唱会票价区间是多少？
+### 周杰伦北京演唱会散场歌迷哄抢雨衣，警方介入调查
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801s1sm.html>
+- 链接: <https://k.sina.com.cn/article_7879924004_m1d5ae1924033020v9g.html>
 
-### 周杰伦鸟巢演唱会什么时候开启抢票？
+### 周杰伦演唱会周边遭哄抢，警方介入调查
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801s1sc.html>
+- 链接: <https://k.sina.com.cn/article_7879923973_m1d5ae1905033020v9y.html>
 
-### 特朗普发扛地球AI照 伊以都不服！
+### 新浪演唱会热点小时报丨2026年06月28日21时_今日实时演唱会热点速递
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907i37m.html>
+
+### 周杰伦演唱会1000票视角的区域选择攻略
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801scp8.html>
+
+### 新浪演唱会热点小时报丨2026年06月28日20时_今日实时演唱会热点速递
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907i2x4.html>
+
+### 周杰伦演唱会周边物料遭人群哄抢
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_2011075080_m77de920803301nie8.html>
+
+### 分享一些周杰伦鸟巢演唱会的精彩视频
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801sc32.html>
+
+### 周杰伦演唱会散场遇暴雨 歌迷哄抢官方周边
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801s99a.html>
+
+### 周杰伦演唱会1000票能看清舞台吗？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801s7p0.html>
+
+### 海清儿子为什么删除周杰伦演唱会合照？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801s6ae.html>
+
+### 周杰伦鸟巢演唱会门票价格是多少？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801s6ag.html>
+
+### 周杰伦演唱会周边遭观众哄抢，警方介入核查
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://finance.sina.com.cn/wm/2026-06-28/doc-inieykzq6083813.shtml>
+
+### 中东，突发！特朗普威胁：伊朗或将不复存在！美军发动打击！
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-06-28 11:42
-- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxNN0VBTTR3QnVkVkR0S3hvUWc4WFY4Z05oNXVHT3p4dk83eEIyb0txNFh5S1FpZWF0M1lBenE0YVp0UU9pekUwTExhQ2h0Y2l4MDVWSERBX1VpX1VIano0cEpnc3ZXajNRMHY3MklvTmlNcHFBeWFhclNBcGJBM2F5QWlkYW1TV08xZDdtdWhqWQ?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-06-27 23:48
+- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE5jZ2FnZjdnREoxdktGZFhPN2wzUWVkbF9OZ1lNVkVMdnlGUDZRaDZSbE9EN3lnMTRCVDFZWkkzTDNLN0VWRDQ1OFhuekRZM0ZYT3RBcm96X3BpLUIyaGZzWm11N0dsQktISWhUS3htYTdNczF1SV9vdVp3?oc=5>
 
-### 特朗普的“留名计划”又进一步！晒出印有其肖像的新版护照
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-06-28 10:19
-- 链接: <https://news.google.com/rss/articles/CBMiRkFVX3lxTE50d3I1S0tBc1dIWHQxcjBicnpyM1VmSW9HMHRPVmFpaUFTMENLemE1R3o0bFdJR2V0UlgzYkpQLVpxZjB0cVE?oc=5>
-
-### 美伊形势突变！特朗普发帖威胁：伊朗或将不复存在
+### 特朗普发出最后通牒:征200%关税
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-06-28 00:30
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nZlRGRFVlVlk1c0thZjgtUERsQndxTjJtTWZjellhOWRnSXFBanBBVlIwX3dJeHIxU2xvc0hQS21qR291T05DblIwYWlCY0RWcUlGREhTUkZrcjlMM3d4cnl1eUNBZGxB?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-06-28 00:40
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5WdEpFelJRN3lIYzltT2w3bFJhQUZtTUdtZHZuNmNtbUxHSmRJUUZWcWM3dFN4R01JR3V3WHFwaDkxcjRkSHlsR3BQUUpHcENoTldfM19TWWppSkdzVmhZMnVEY3hpTkNxMVhXdTBhV1ExY3ozOEd3Zg?oc=5>
 
-### 特朗普孙女“开箱”白宫私人区 网民质疑滥用特权
+### 特朗普推出印有其肖像、纪念美国建国250周年的新版护照
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-06-28 10:13
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5oVjVnbWJJS2VudE5KbENTSDRMU2JXUXlTVTlrejRXWk1qVHVsNThOQ2dpRkNMcHYwWTNCTGJOOTNENzRTQlJ6QVBidzZuOU9LLVBTYllYODhjNkZxaW5zMklfM0hnU2k4RFE?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-06-27 14:52
+- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxNUEtISWowYlJqZElleWZqal8xMXhmOUI3MXg1SjVfTzF1QURkSXlpaVhVSkE2aGg0NGFRUFVhUWVRV2JLMF9vRjA0ZS1vaEk2ZktUQmxiRjdlbzVVQWpSQlFUOExFUlFVUGJwUzNQc1VkcGJ3TW1JV1NkX3NvRGExdUhtcmpRbWFlR1NZZ0tlcFQxcjdqWUs1RHR2bUpKT2ZMbTVla0t2V1lzbHBKTWZYbUNkSUJCVDkzOUNsQmZjLXVVdTlNeXc5WGZibXF6Z1k?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-28 13:24  (17 条)
+
+- **周杰伦** | 周杰伦北京演唱会中餐厅团建 <https://k.sina.com.cn/article_2286092114_m8842ff5203302j6vs.html>
+- **周杰伦** | 普通人抢周杰伦演唱会票有什么技巧？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801scua.html>
+- **周杰伦** | 周杰伦北京演唱会散场歌迷哄抢雨衣，警方介入调查 <https://k.sina.com.cn/article_7879924004_m1d5ae1924033020v9g.html>
+- **周杰伦** | 周杰伦演唱会周边遭哄抢，警方介入调查 <https://k.sina.com.cn/article_7879923973_m1d5ae1905033020v9y.html>
+- **周杰伦** | 新浪演唱会热点小时报丨2026年06月28日21时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001907i37m.html>
+- **周杰伦** | 周杰伦演唱会1000票视角的区域选择攻略 <https://k.sina.com.cn/article_7879776328_1d5abd84806801scp8.html>
+- **周杰伦** | 新浪演唱会热点小时报丨2026年06月28日20时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001907i2x4.html>
+- **周杰伦** | 周杰伦演唱会周边物料遭人群哄抢 <https://k.sina.com.cn/article_2011075080_m77de920803301nie8.html>
+- **周杰伦** | 分享一些周杰伦鸟巢演唱会的精彩视频 <https://k.sina.com.cn/article_7879776328_1d5abd84806801sc32.html>
+- **周杰伦** | 周杰伦演唱会散场遇暴雨 歌迷哄抢官方周边 <https://k.sina.com.cn/article_7879776328_1d5abd84806801s99a.html>
+- **周杰伦** | 周杰伦演唱会1000票能看清舞台吗？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801s7p0.html>
+- **周杰伦** | 海清儿子为什么删除周杰伦演唱会合照？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801s6ae.html>
+- **周杰伦** | 周杰伦鸟巢演唱会门票价格是多少？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801s6ag.html>
+- **周杰伦** | 周杰伦演唱会周边遭观众哄抢，警方介入核查 <https://finance.sina.com.cn/wm/2026-06-28/doc-inieykzq6083813.shtml>
+- **特朗普** | 中东，突发！特朗普威胁：伊朗或将不复存在！美军发动打击！ <https://news.google.com/rss/articles/CBMiekFVX3lxTE5jZ2FnZjdnREoxdktGZFhPN2wzUWVkbF9OZ1lNVkVMdnlGUDZRaDZSbE9EN3lnMTRCVDFZWkkzTDNLN0VWRDQ1OFhuekRZM0ZYT3RBcm96X3BpLUIyaGZzWm11N0dsQktISWhUS3htYTdNczF1SV9vdVp3?oc=5>
+- **特朗普** | 特朗普发出最后通牒:征200%关税 <https://news.google.com/rss/articles/CBMieEFVX3lxTE5WdEpFelJRN3lIYzltT2w3bFJhQUZtTUdtZHZuNmNtbUxHSmRJUUZWcWM3dFN4R01JR3V3WHFwaDkxcjRkSHlsR3BQUUpHcENoTldfM19TWWppSkdzVmhZMnVEY3hpTkNxMVhXdTBhV1ExY3ozOEd3Zg?oc=5>
+- **特朗普** | 特朗普推出印有其肖像、纪念美国建国250周年的新版护照 <https://news.google.com/rss/articles/CBMizwFBVV95cUxNUEtISWowYlJqZElleWZqal8xMXhmOUI3MXg1SjVfTzF1QURkSXlpaVhVSkE2aGg0NGFRUFVhUWVRV2JLMF9vRjA0ZS1vaEk2ZktUQmxiRjdlbzVVQWpSQlFUOExFUlFVUGJwUzNQc1VkcGJ3TW1JV1NkX3NvRGExdUhtcmpRbWFlR1NZZ0tlcFQxcjdqWUs1RHR2bUpKT2ZMbTVla0t2V1lzbHBKTWZYbUNkSUJCVDkzOUNsQmZjLXVVdTlNeXc5WGZibXF6Z1k?oc=5>
 
 ### 2026-06-28 11:43  (11 条)
 
