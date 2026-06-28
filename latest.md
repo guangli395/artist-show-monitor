@@ -1,94 +1,126 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-28 21:59**
-- 本轮扫到 5099 条, 新增 **13** 条
+- 最近更新: **2026-06-28 23:10**
+- 本轮扫到 5114 条, 新增 **15** 条
 
 ---
 
-## 本轮新发现 (13 条)
+## 本轮新发现 (15 条)
 
-### 蔡徐坤首场签售会现场互动内容有哪些？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801sg52.html>
-
-### 蔡徐坤首场实体专辑签售会名场面全汇总
+### 蔡徐坤后续还会举办线下签售会吗？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801sg4k.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801sg5s.html>
 
-### 怎么才能获得蔡徐坤签售会的参与资格？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801sg3g.html>
-
-### 为什么网友都羡慕艾米的首场演唱会
+### 闹乌龙！艾米怀恩豪斯演唱会原是这事
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801silg.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801sjfo.html>
 
-### 王俊凯为什么缺席这次周杰伦鸟巢演唱会
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801siky.html>
-
-### 杨迪艾米周杰伦演唱会偶遇，梦幻联动太好嗑
+### 刚高考完的艾米人生首看演唱会，就偶遇杨迪
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801sikm.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801sjeu.html>
 
-### 新浪演唱会热点小时报丨2026年06月29日05时_今日实时演唱会热点速递
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907izt2.html>
-
-### 王俊凯个人演唱会首站真的是重庆吗？
+### 马龙携妻再赴杰伦演唱会！夏露包厢内甜笑跟唱，幸福洋溢羡煞旁人
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801sfxg.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907j1uw.html>
 
-### 从粉丝变嘉宾！这次王俊凯缺席周杰伦演唱会了
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801sfwu.html>
-
-### 演唱会现场放王俊凯新歌是提前安排好的吗？
+### 北京鸟巢演唱会的门票一般什么时候开售？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801sfw8.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801sjcs.html>
 
-### 头号迷弟王俊凯缺席周杰伦演唱会，原因曝光
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801sfw0.html>
-
-### 周杰伦鸟巢演唱会还会加开场次吗？
+### 王俊凯之前去过周杰伦的演唱会吗？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801sfvq.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801sja4.html>
 
-### 迟到18年！周杰伦北京鸟巢演唱会终圆梦
+### 王俊凯新专辑《wjk》预计什么时候发布？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801sfvi.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801sj9s.html>
+
+### 头号迷弟缺席！王俊凯因档期错过周杰伦鸟巢演唱会
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801sj9g.html>
+
+### 周杰伦播放王俊凯新歌是有意安排吗
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801sj9c.html>
+
+### 王俊凯首张同名专辑《WJK》什么时候发布
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801sj98.html>
+
+### 头号迷弟王俊凯缺席周杰伦演唱会原因曝光
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801sj92.html>
+
+### 王俊凯缺席周杰伦演唱会参加中餐厅团建
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1371631875_m51c1710303301av24.html>
+
+### 新浪演唱会热点小时报丨2026年06月29日06时_今日实时演唱会热点速递
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907j1ce.html>
+
+### 海清领着儿子去听周杰伦的演唱会,儿子又高又帅,琴棋书画,爱好
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907ij34.html>
+
+### 川普发自己与奥巴马年轻对比照 引网友热议
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 文学城
+- 时间: 2026-06-28 20:58
+- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxPUXQ1TW1MNkx2LXphSXdmQlpaZkNBR3R4TEc4Q2JQM09YX2FZRE9QTG9SOWltamJ1bU5GcE1FMktXUl9BdHQwTVZRaGNHaWZLNjV0c2tJSFJmekZIRHlOTllIZnItWG80RlMzZTA1MmdaMk9BQUVKbDBhcmI1U1NMNg?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-28 23:10  (15 条)
+
+- **蔡徐坤** | 蔡徐坤后续还会举办线下签售会吗？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801sg5s.html>
+- **周杰伦** | 闹乌龙！艾米怀恩豪斯演唱会原是这事 <https://k.sina.com.cn/article_7879776328_1d5abd84806801sjfo.html>
+- **周杰伦** | 刚高考完的艾米人生首看演唱会，就偶遇杨迪 <https://k.sina.com.cn/article_7879776328_1d5abd84806801sjeu.html>
+- **周杰伦** | 马龙携妻再赴杰伦演唱会！夏露包厢内甜笑跟唱，幸福洋溢羡煞旁人 <https://k.sina.com.cn/article_7857201856_1d45362c001907j1uw.html>
+- **周杰伦** | 北京鸟巢演唱会的门票一般什么时候开售？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801sjcs.html>
+- **周杰伦** | 王俊凯之前去过周杰伦的演唱会吗？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801sja4.html>
+- **周杰伦** | 王俊凯新专辑《wjk》预计什么时候发布？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801sj9s.html>
+- **周杰伦** | 头号迷弟缺席！王俊凯因档期错过周杰伦鸟巢演唱会 <https://k.sina.com.cn/article_7879776328_1d5abd84806801sj9g.html>
+- **周杰伦** | 周杰伦播放王俊凯新歌是有意安排吗 <https://k.sina.com.cn/article_7879776328_1d5abd84806801sj9c.html>
+- **周杰伦** | 王俊凯首张同名专辑《WJK》什么时候发布 <https://k.sina.com.cn/article_7879776328_1d5abd84806801sj98.html>
+- **周杰伦** | 头号迷弟王俊凯缺席周杰伦演唱会原因曝光 <https://k.sina.com.cn/article_7879776328_1d5abd84806801sj92.html>
+- **周杰伦** | 王俊凯缺席周杰伦演唱会参加中餐厅团建 <https://k.sina.com.cn/article_1371631875_m51c1710303301av24.html>
+- **周杰伦** | 新浪演唱会热点小时报丨2026年06月29日06时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001907j1ce.html>
+- **周杰伦** | 海清领着儿子去听周杰伦的演唱会,儿子又高又帅,琴棋书画,爱好 <https://k.sina.com.cn/article_7857201856_1d45362c001907ij34.html>
+- **Trump** | 川普发自己与奥巴马年轻对比照 引网友热议 <https://news.google.com/rss/articles/CBMigAFBVV95cUxPUXQ1TW1MNkx2LXphSXdmQlpaZkNBR3R4TEc4Q2JQM09YX2FZRE9QTG9SOWltamJ1bU5GcE1FMktXUl9BdHQwTVZRaGNHaWZLNjV0c2tJSFJmekZIRHlOTllIZnItWG80RlMzZTA1MmdaMk9BQUVKbDBhcmI1U1NMNg?oc=5>
 
 ### 2026-06-28 21:59  (13 条)
 
