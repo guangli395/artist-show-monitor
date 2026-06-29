@@ -1,32 +1,80 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-29 22:50**
-- 本轮扫到 5331 条, 新增 **2** 条
+- 最近更新: **2026-06-29 23:58**
+- 本轮扫到 5338 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (7 条)
 
-### 特朗普总统重申美国对伊朗的关键目标：无核化
+### 周杰伦鸟巢演唱会三天吸引19.5万人次，《太阳之子》将推出“珍藏双黑胶”
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://finance.sina.com.cn/jjxw/2026-06-30/doc-inifcvua1668821.shtml>
+
+### 特朗普总统宣布 美伊星期二将在多哈恢复会谈
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 美国之音
-- 时间: 2026-06-29 21:47
-- 链接: <https://news.google.com/rss/articles/CBMitAFBVV95cUxNYUlELXJESjJwbGEyY1NGTldBVHVvVzBoejZ2NkUyYkQ2MDBUcFNhQ0M0cTVOb2ZZa0MtX0xmeFp5SWlQMWdnbGZxS195enR0bVpLWjU5cS1HWXh0MVNicnFWN2ttaUowdUo4dkhxaXFzOHo1ZFllNi1oS245SFNmNGVpT3BQdlhudVRKdVowb2hENndsM0RLanEtdXhGZWZFN3RxUU95SDVkWW5MbjJZQ1V0akLSAbcBQVVfeXFMT1BrWGc1dlFRVS16SjBtWlZvT0IzeGI2VURlX2pJNlM4N3dKT2xZRjg5UEU2ZEVjVE0xbkJtVFBXMzVIXzRVWVByUkpjMG5jalJaZXpVOGFpWE5EM2JXNEg1RlhXS0pJb2hkU2hRSjNid1pzdlNJbkMzdWx3MTRGMDZqcGhNLVhqS29qWE1zM2NSanV1dndTUnltb1BlZXZPaERYSkZpQlNYeUl2UzlEcXNoNG9sNG1J?oc=5>
+- 时间: 2026-06-29 23:08
+- 链接: <https://news.google.com/rss/articles/CBMitAFBVV95cUxPVnItYTF4d3F3MnZDMXRTaWx1QWFUZUVIMm9vSk56Uzl0NVdFS1AweVFxTnFvaU1zbXprMFJ2TERDOVRNaEFKdVZnN3BoVE80VEN0UEJGRFZ2MHY5Z0E1RXZha3pkend6RVNhaVQzQ2pzS1hZWmFBMFpsTFo0OEdsbGtHMURTNDNKTE1OSDNIT2xQNFNWVkpJRk1uNnBDM09DX1Q4SFZva0lDZWluR2Z2R1pLX0jSAbcBQVVfeXFMUGRJRGxRdWFjS0EzcXRpN3BFYVRleWQzQmQ0Rm1wTVFlLUFrSF80SnJvY081WERVb20yR0dKU1pDaXczenBZN05LMkRINVdKZzQ1OVZITG1zN0tNQ3BYbUQ5UmhTZ2VHUHhvU0hrU0Q0UWpiRE5aMkpnaUU3Q3ZJeUNOXzVoeG5BanY2djlud3AySHpoOFlBMF9BcnREM3NITldOTG1Gb0R1ZURzLUlDS3BvanpYVTVJ?oc=5>
 
-### 最高法院限制特朗普对美联储的影响力
+### 美最高法院驳回特朗普性侵女作家案上诉
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新京报
+- 时间: 2026-06-29 23:42
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9aWGxpdTZsVWtTUG5OSmZCR2QzZFNLNUNWVjh1U3J4cVlCbEw3SUliS2FqeE9ST1ktZkgwTHc4VTVLUGpCRlhNNnpHejZhb1k2TThZcTkySF8wRVNteFZTZEVrMlc?oc=5>
+
+### 财经早报：特朗普称今日会谈伊朗已否认，以防长称可能随时再起冲突丨2026年6月30日
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-29 21:40
-- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxNM2JKM2hLNk1wM0RVUEEwMFJVVGVwemNBTXFBemQ3X1FUVDVmSEluYW8tYVZGVHhhbTlDSmZ4NlJqZVhaakM5TThjUjQ4V3hBZU1la01feXE2dlNvSHRiTlNMaThVVk0yTXIyY21BVjlVNDJCd1dXX1VVUDNEV2ZyWDFmVVZPMGM3R0REV1FTYw?oc=5>
+- 时间: 2026-06-29 23:20
+- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE1mNUtPQm5VOFd5UW00aUJjRGJjOG1MZHRtS3AtenA0TnJRWm0yT3E4d1VScUl0LXAwRmZzSHFtaV9jYkVGa01zYmppQTJKU09TZlRMWDVnTmlqdU1DQWZLbGlHZkh3d0EyVmc0d0R6dE5tVzBtaUl2YWtBSXU?oc=5>
+
+### 据报道：SpaceX与美国政府讨论向“特朗普账户”捐赠股票事宜
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 东方财富
+- 时间: 2026-06-29 22:55
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1EQXUxMU5IZkNpaDVGRHBlYzZaeGFTWWtRZ3lkTGZsd2VtZUx6Z0RCNVNZZ0hOX2lvWk5HQ3VTZm1HOFZIbkY2TVNaclpleXAwbEpYeDV1Si1VT0Q4SGQwNA?oc=5>
+
+### 外媒实测Trump Phone T1 软硬件均有明显短板
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 搜狐网
+- 时间: 2026-06-28 04:41
+- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTE5uZ2xKMlZHbzJ3M3E2di1fdWMxbExKdU1EU3FLTDRFcWlCRmVPc25tWThMcm9QX2xLUHBLSFZlSTVrTHQ2blN1bHpLOFE0aDk1cXc?oc=5>
+
+### 美最高法院裁决 特朗普不能立即解雇美联储理事库克
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 8world
+- 时间: 2026-06-29 23:35
+- 链接: <https://news.google.com/rss/articles/CBMikwFBVV95cUxNZzlvaVVNXzhySEE0MnhPelFnZlR3TFVLQk50MWtBTmJhM1U1ZHZOVnV3ZUMxV1NaNG5qTDRrY2N3WnBkZWtPTHcyYmtNQnF1cmpyWTc0Ti1nYmM4bjg5STFSSTZDaVVOWmt2TkwyaEpDOXFPVW5jZjZ3US1zQmIzSW95RkxFamlTcTROT1RDRjJzWHM?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-29 23:58  (7 条)
+
+- **周杰伦** | 周杰伦鸟巢演唱会三天吸引19.5万人次，《太阳之子》将推出“珍藏双黑胶” <https://finance.sina.com.cn/jjxw/2026-06-30/doc-inifcvua1668821.shtml>
+- **特朗普** | 特朗普总统宣布 美伊星期二将在多哈恢复会谈 <https://news.google.com/rss/articles/CBMitAFBVV95cUxPVnItYTF4d3F3MnZDMXRTaWx1QWFUZUVIMm9vSk56Uzl0NVdFS1AweVFxTnFvaU1zbXprMFJ2TERDOVRNaEFKdVZnN3BoVE80VEN0UEJGRFZ2MHY5Z0E1RXZha3pkend6RVNhaVQzQ2pzS1hZWmFBMFpsTFo0OEdsbGtHMURTNDNKTE1OSDNIT2xQNFNWVkpJRk1uNnBDM09DX1Q4SFZva0lDZWluR2Z2R1pLX0jSAbcBQVVfeXFMUGRJRGxRdWFjS0EzcXRpN3BFYVRleWQzQmQ0Rm1wTVFlLUFrSF80SnJvY081WERVb20yR0dKU1pDaXczenBZN05LMkRINVdKZzQ1OVZITG1zN0tNQ3BYbUQ5UmhTZ2VHUHhvU0hrU0Q0UWpiRE5aMkpnaUU3Q3ZJeUNOXzVoeG5BanY2djlud3AySHpoOFlBMF9BcnREM3NITldOTG1Gb0R1ZURzLUlDS3BvanpYVTVJ?oc=5>
+- **特朗普** | 美最高法院驳回特朗普性侵女作家案上诉 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9aWGxpdTZsVWtTUG5OSmZCR2QzZFNLNUNWVjh1U3J4cVlCbEw3SUliS2FqeE9ST1ktZkgwTHc4VTVLUGpCRlhNNnpHejZhb1k2TThZcTkySF8wRVNteFZTZEVrMlc?oc=5>
+- **特朗普** | 财经早报：特朗普称今日会谈伊朗已否认，以防长称可能随时再起冲突丨2026年6月30日 <https://news.google.com/rss/articles/CBMifEFVX3lxTE1mNUtPQm5VOFd5UW00aUJjRGJjOG1MZHRtS3AtenA0TnJRWm0yT3E4d1VScUl0LXAwRmZzSHFtaV9jYkVGa01zYmppQTJKU09TZlRMWDVnTmlqdU1DQWZLbGlHZkh3d0EyVmc0d0R6dE5tVzBtaUl2YWtBSXU?oc=5>
+- **特朗普** | 据报道：SpaceX与美国政府讨论向“特朗普账户”捐赠股票事宜 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1EQXUxMU5IZkNpaDVGRHBlYzZaeGFTWWtRZ3lkTGZsd2VtZUx6Z0RCNVNZZ0hOX2lvWk5HQ3VTZm1HOFZIbkY2TVNaclpleXAwbEpYeDV1Si1VT0Q4SGQwNA?oc=5>
+- **Trump** | 外媒实测Trump Phone T1 软硬件均有明显短板 <https://news.google.com/rss/articles/CBMiUkFVX3lxTE5uZ2xKMlZHbzJ3M3E2di1fdWMxbExKdU1EU3FLTDRFcWlCRmVPc25tWThMcm9QX2xLUHBLSFZlSTVrTHQ2blN1bHpLOFE0aDk1cXc?oc=5>
+- **Trump** | 美最高法院裁决 特朗普不能立即解雇美联储理事库克 <https://news.google.com/rss/articles/CBMikwFBVV95cUxNZzlvaVVNXzhySEE0MnhPelFnZlR3TFVLQk50MWtBTmJhM1U1ZHZOVnV3ZUMxV1NaNG5qTDRrY2N3WnBkZWtPTHcyYmtNQnF1cmpyWTc0Ti1nYmM4bjg5STFSSTZDaVVOWmt2TkwyaEpDOXFPVW5jZjZ3US1zQmIzSW95RkxFamlTcTROT1RDRjJzWHM?oc=5>
 
 ### 2026-06-29 22:50  (2 条)
 
