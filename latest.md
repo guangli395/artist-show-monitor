@@ -1,280 +1,284 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-29 11:54**
-- 本轮扫到 5269 条, 新增 **42** 条
+- 最近更新: **2026-06-29 15:36**
+- 本轮扫到 5304 条, 新增 **35** 条
 
 ---
 
-## 本轮新发现 (42 条)
+## 本轮新发现 (35 条)
 
-### 周杰伦演唱会首登北京鸟巢，连唱三晚吸引近20万歌迷
+### 210723 蔡徐坤新歌预告有！坤坤为Prada七夕广告创作全新音乐作品
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907k3pa.html>
+
+### 华语流行歌手周杰伦2026北京鸟巢演唱会还会加开场次吗
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5787187353_158f178990200257fs.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801swlc.html>
 
-### 新浪演唱会热点小时报丨2026年06月29日19时_今日实时演唱会热点速递
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907k1hy.html>
-
-### 周杰伦职业生涯演唱会总场次统计超400场
+### 周杰伦北京演唱会：连开三场还爆这些瓜
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ssbo.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801swi6.html>
 
-### 周杰伦演唱会门票为什么这么难抢？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ssau.html>
-
-### 周杰伦演唱会含星量超标，头号迷弟王俊凯缺席
+### 周杰伦演唱会大合唱刷屏，老歌成25年友情时光密码
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ss9q.html>
+- 链接: <https://k.sina.com.cn/article_7096020439_1a6f4add706801sg76.html>
 
-### 王俊凯赴港撑周杰伦演唱会　观众竟不认识大喊“谁来的”
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907k0ya.html>
-
-### 新浪演唱会热点小时报丨2026年06月29日18时_今日实时演唱会热点速递
+### 周杰伦演唱会大合唱最催泪是哪首？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907jy8a.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801sw6g.html>
 
-### 黄晓明晒与周杰伦鸟巢演唱会合照
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2292899701_88aadf7504001rqys.html>
-
-### 去看周杰伦演唱会的明星
+### 这次鸟巢演唱会门票真的一秒售空吗？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1288429914_m4ccbe15a033017e9m.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801sw4i.html>
 
-### 周杰伦北京演唱会散场夜的温暖偶遇
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1880087643_m700fdc5b033016zfi.html>
-
-### 周杰伦鸟巢连开三场演唱会，19.5万人狂欢，新专辑双黑胶将发行
+### 周杰伦演唱会大合唱，唤醒25年青春友情
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2793921830_a687dd2604001itt6.html>
+- 链接: <https://k.sina.com.cn/article_7879848901_1d5acf3c506801rrvy.html>
 
-### 周杰伦2026演唱会还有哪些嘉宾到场？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801sppo.html>
-
-### 新浪演唱会热点小时报丨2026年06月29日16时_今日实时演唱会热点速递
+### 新浪演唱会热点小时报丨2026年06月29日23时_今日实时演唱会热点速递
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907jqfk.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907k90a.html>
 
-### 艾米人生第一次看演唱会的门票是怎么抢到的？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801sp0q.html>
-
-### 黄晓明夸昆凌是中餐厅天使，周杰伦演唱会现场互动
+### 周杰伦鸟巢演唱会这个桥段太有趣了，特别是压轴那对，笑点密集到让人捧腹！
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1288429914_m4ccbe15a033017e4s.html>
+- 链接: <https://k.sina.com.cn/article_6179910614_m17059f3d603301glpw.html>
 
-### 周杰伦演唱会引两代人共鸣，全场沉浸式合唱青春
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2884727315_abf1721304001lj5i.html>
-
-### 周杰伦演唱会引发两代人合唱热潮
+### 新浪演唱会热点小时报丨2026年06月29日22时_今日实时演唱会热点速递
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5536410147_m149feea2303301g9ws.html>
-
-### 周杰伦演唱会引发两代人青春共鸣
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5888328091_m15ef8c19b03303ajhk.html>
-
-### 王俊凯会去看周杰伦其他场次演唱会吗？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801sotc.html>
-
-### 新浪演唱会热点小时报丨2026年06月29日15时_今日实时演唱会热点速递
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907jmzw.html>
-
-### 这次演唱会还有哪些没被拍到的明星到场
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801soq0.html>
-
-### 王俊凯会补看周杰伦后续的演唱会吗
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801sopw.html>
-
-### 周杰伦演唱会为什么总有大量明星到场
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801sops.html>
-
-### 17岁艾米高考后，首场演唱会圆梦周杰伦鸟巢
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801soom.html>
-
-### 周杰伦鸟巢演唱会突降大雨 周边物资遭哄抢 警方介入调查
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1878456645_m6ff6f945001026sew.html>
-
-### 粉丝与周杰伦演唱会合唱暗号圆梦
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1829578697_6d0d27c904001r85s.html>
-
-### 周杰伦出道26年演唱会依旧爆满，万人大合唱引青春回忆
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6060404248_1693a6e1804002397c.html>
-
-### 破纪录!周杰伦演唱会\&quot;挤爆\&quot;上...@空智二师兄的动态
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907jgvk.html>
-
-### 周杰伦北京演唱会爆料多！王俊凯缺席上热搜
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801sml4.html>
-
-### 知道了知道了~你们要去看杰伦的演唱会了
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879996580_m1d5af34a403301s50i.html>
-
-### 周杰伦鸟巢演唱会问黄晓明昆凌中餐厅表现
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1749611063_m6848f23703301h55w.html>
-
-### 周杰伦北京演唱会马龙助阵，揭秘两人多年文体跨界情谊
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068727_m1d5b04e77033049q3q.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907k7je.html>
 
 ### 黄晓明看周杰伦演唱会被问昆凌周杰伦鸟巢开唱三场吸粉19万
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://finance.sina.com.cn/jjxw/2026-06-29/doc-inifapyy3834525.shtml>
+- 链接: <https://k.sina.com.cn/article_6294758863_m1773265cf033018g2g.html>
 
 ### 周杰伦说白天开演唱会感觉不太一样周杰伦首次在鸟巢举办个人演唱会
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://finance.sina.com.cn/jjxw/2026-06-29/doc-inifapys2161392.shtml>
+- 链接: <https://k.sina.com.cn/article_6294758863_m1773265cf033018g2a.html>
 
-### 19.5万人来“鸟巢”看周杰伦演唱会，新专辑《太阳之子》8月5日推出黑胶
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://news.sina.com.cn/zx/2026-06-29/doc-inifapyq5352905.shtml>
-
-### 周杰伦首次在北京鸟巢举办个人专场演唱会，3场共19.5万名歌迷现场观看，黄晓明在演唱会上被问昆凌
+### 中餐厅嘉宾北京团建周杰伦演唱会 太会玩！
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://finance.sina.com.cn/wm/2026-06-29/doc-inifapyy3758653.shtml>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801suwu.html>
 
-### 美国总统特朗普：伊朗已请求召开会议。会议将于明天在多哈举行。
+### 在歌迷会团购演唱会门票可靠吗
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857141524_1d452771401903qu3g.html>
+
+### 新浪演唱会热点小时报丨2026年06月29日21时_今日实时演唱会热点速递
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907k5qu.html>
+
+### 周杰伦MV女主三吉彩花拍沙漠大片,黑白look高级大气,少女感满溢
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907k4xi.html>
+
+### 新浪演唱会热点小时报丨2026年06月29日20时_今日实时演唱会热点速递
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907k40a.html>
+
+### 这次怀旧热潮会影响周杰伦演唱会门票吗？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801stc6.html>
+
+### 演唱会联动中餐厅催生周杰伦主题餐厅构想
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801st74.html>
+
+### 周杰伦演唱会接下来还有哪些城市站？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ssbe.html>
+
+### 林俊杰会出现在周杰伦第三场演唱会吗
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ss9s.html>
+
+### 王俊凯为什么缺席周杰伦北京鸟巢演唱会
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ss9y.html>
+
+### 周杰伦北京演唱会粉丝为躲雨，多个堆放官方周边点位遭哄抢
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879924002_m1d5ae192202001epem.html>
+
+### 艾米在演唱会上唱了周杰伦的哪些歌？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801srkc.html>
+
+### 艾米人生第一次看演唱会 鸟巢偶遇杨迪_娱乐频道_中华网
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907jwls.html>
+
+### 美国最高法院驳回特朗普解雇美联储理事莉萨·库克的请求|唐纳德·特朗普|最高人民法院|美国国会|共和党|总统_手机新浪网
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-29 11:33
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE03bkt2RF9zVXVhQkIzYWlRUzhHOTZIWmk3ZERjR3gta1VyLXEwSDRJcDlVSTkwc1pCYnd1WVNQSHhRLU9vT3FlMHVpSQ?oc=5>
+- 时间: 2026-06-29 15:00
+- 链接: <https://news.google.com/rss/articles/CBMijwJBVV95cUxNR1c3OU9qeFVfVld1SVJ4TENwWHVKR1pTandtSVVkNXJFVmFVeU1faEkzYW5mWk1rQXZWWndzTDhlNDRqQUs2SWpzaEltbXZybG9TQ3gwUXpuYkZrbUYtQ0VVQ1d0RlF4RmN0Zm9HNjdUQUc2QnhTWVFVSC10WmNrbElEZGQ2NUxmUjJTR0dRTFo5NmJXdm0yVVl5Vzk2S2l0YUxKYk1VOHVrNGlvUEN1SExMYnY2eWMxX2N4UFhxUXpBdnpMZjluY2JISVhSalNNam9IRnJKNExPelpXeFFmYjlVQzh5MWFwSFNOeVZrekdrYmNEeHBNM05RYjFmX0xxRVJBRGx4VlVNRFMwZUJr?oc=5>
 
-### 美国前国务卿：特朗普的一句话令美国陷入战争
+### 美国联邦最高法院驳回特朗普对卡罗尔性侵裁决的上诉请求
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者网
+- 时间: 2026-06-29 14:22
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9pcTJyZFVkMXlGUEtWRk5mVVBMNlVSTzVvU1FaSlY1MTZaVHNGWEpSM3RWRW01Yk1iR0E3SGl2OGx0NnZxaDA1S2pHVlFsVE81RTUxeXB5T3YxMVdMQXpqa3BYYmV4ZUg1cUE?oc=5>
+
+### 特朗普新关税阴霾笼罩！全球零售商抢先囤货 中美航线运费飙涨六成
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 财联社
+- 时间: 2026-06-29 07:30
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE1KejhLMXJ5cVdPOTNOVWgwWHFmcjFnNU8wMlY5dGRqRXNUYllwbUoyVjh2ZnFVcXlEd0NDSVlNUDE2Ti1uOHJHQQ?oc=5>
+
+### 刚刚，特朗普发声！美伊谈判，突发重大分歧！事关加息，“超级周”来了！黄金、白银，双双大跌
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 金融界
+- 时间: 2026-06-29 13:10
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFBjNnh6Nk5rTTQ1endCbHNqcVh6STMtOXVBMTk2Z0RrME8zY1I3V3FCYVp3WUtOYkZCMWkzd09wM2kya0t5SlloZlZFbURiTzdTMk9YQjRhQjhSTTNPbzdxWFEwX1doYVE0LUJBVU14Y1c0QQ?oc=5>
+
+### 特朗普，“和粉丝吵翻了”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-06-29 10:45
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE10dDJZYWJIcDZZNU1qeWVDdldXSmNzUHNLVmU5U1hhUm1ZbFJ1RmhrMHlqdENlN05kUTFZNThQN3FmakRLRW9TeWN4aVA?oc=5>
+- 时间: 2026-06-29 14:56
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1WWnhVREtBX0hVN01EQUtxSVFGbU1VdUNvVDVwcVl6Zm11ZEEtVjFaZkRmNmstQ1NjNjR2cWtjUjRscVBxcTFuaDdrRGw?oc=5>
 
-### 特朗普称伊朗请求与美方会谈，会谈将于30日在多哈进行，伊朗暂未回应
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 环球网
-- 时间: 2026-06-28 20:46
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE1CbENYak5PMThoemVmUnpoZHJpQ2VBV251UC13UHhYN1V1S1owYXllQWlydG1FbjRHM2hpUVczQ1RTdGJwZXptV3BXMU1xR0FKOGhsMVh1aWw?oc=5>
-
-### 特朗普发扛地球AI照，伊以都不服！
+### 特朗普坚称美伊会谈“将于明日在多哈举行”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-06-28 11:27
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5zY0pJdzJZUFhxZ0s5Q25QTDVaNFB2NnZ3LXZXMTd2THdKaXAxaUlLbFBtQ1Z4WF9BM0Q5Yk96X3BEbnV0eFlSb3VROC0?oc=5>
+- 场馆: chinanews.com.cn
+- 时间: 2026-06-29 11:55
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JNGFzSVVGYzhLdUhOaHl5QmpWUHVuMDZNV3pRb0NSYk5YTUFZcHduV0Q2cV96Tk1oZXdIeWpZUW05eVFYNE9DNk1LMm9MaVRwVVU4ZTFJQ0xzLUhlQ1I2dDN3dnpHMzlv?oc=5>
 
-### 谁将从美国哈萨克斯坦矿业交易中获利？特朗普的儿子们
+### 特朗普坚称美伊会谈“将于明日在多哈举行”
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 茉莉花新闻网
-- 时间: 2026-06-29 07:42
-- 链接: <https://news.google.com/rss/articles/CBMiwAJBVV95cUxQLTROdi0zS2tDRVdCM3pEVFBwNXVWaGNRS051RzNlN2g2Y05iY1Zad0R3bzBreGtmX3dsd3czS3BaT3cxQUxPR0I4VXpwbTZBVmhhOGN6dlVJZTVDVXNOT0VnVTEtbE12a2dzRUFXOUVOSHh1UnRWbVZWQVA5dlJ3d2g4UU9YZkRjbFlPbnBiakc5Z2o4ZjQwUURCbE5IQ0NITHZ4M1BkTXREMWk1a2l3cDh6SG11MlptcldoOE1uZEttUlhrV09pRTA2NDFwcWRZMW14WnZNZndWa0JTZWtFQ1ZITVdyOHVXUDE1d3Y5SFczYldCejlyNWR1OXlJcHlWRWFUMmhZampGd1JSdWt2emxEYmdfdWV4V1ZIMk4zUllzV2dGRlBIcGJ3OTY3a1IzbXpSTUZBcWxNTVJMWVRhTQ?oc=5>
+- 场馆: 中安在线
+- 时间: 2026-06-29 13:47
+- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTE1YZzlfREF0V0w2TFR5N0x3VWpiQi03NUdyNkEwT00xankwa09BMTVaQWVRbjVqVDNtc3lveTVtdTROaVVabkROcEhHQWRHdVI4bjRDUnY4MTcxRFlra3RDX3Rub1RCc3RzQzJFWkJn?oc=5>
 
-### TRUMP GROK 价格 | GROK 价格指数、实时图表和市值
+### 转换 TRUMP 到 ALL | OFFICIAL TRUMP 兑换 阿尔巴尼亚列克 转换器
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: OKX
-- 时间: 2026-06-29 06:23
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE15bV9qZ1VkckJ0MHVGR2dHR01zdVR4ckpIVEpfVkowaXBoRFQxNWZKRWxvanRsYVR0VVVkd0Z1UGFOeFFfZ0x6STNtSW5hSmJ3ZWpVR1N1VTNxWjNTWkVSbg?oc=5>
+- 时间: 2026-06-29 00:00
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5aUEQ1VzFPZTVOcDloSmJ4b281V0h2OHdxZlNYMWRvYmluRFhrMVNMdHZLY21ncDNKOHh4b0ZzN3VCWVg4UmRYNG8ySmdUb0czX05GdXp1b3hWS2xGZHdMLTNCN1NXUGs?oc=5>
+
+### 川普家族再爆营私 老爸敲定协议 两子投资开钨矿
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 文学城
+- 时间: 2026-06-29 15:30
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBaZzVaeGVPTExKM3hTU25VekV4S0pmREFCZy1YT0VLQ0ZCbVk0ZUtPel9EZ3J0d2J1VUNFcjByUTl3NFlKOFo5LW5ra2lKUW9OZU9MWFU1TlQ5djYwQVlrQmlzaUVOWFJi?oc=5>
+
+### 特朗普坚称美伊周二会谈 科技板块起势反弹 | 今夜看点
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-06-29 12:50
+- 链接: <https://news.google.com/rss/articles/CBMipgFBVV95cUxOaU1nQnBYU1g0Y2JEbzZMZkVPM3BUOXp6UkkydGRycEg0NDdlZGhoVTBxb1BNdkxlY2hZcTRET0pOQnRuaFNUeXhRSzJDN0lZcDduUnY3NjB3eVptZ1Z1ODFqaFlNUU9kU0hERlFRT0E5cWdmVlFWdVEwTHJhOWdBYV95T0tkZ2FDeHNmMG5wUkJsTlBwdEEyLXBzNHhzVGJ6RnJIOGln?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-29 15:36  (35 条)
+
+- **蔡徐坤** | 210723 蔡徐坤新歌预告有！坤坤为Prada七夕广告创作全新音乐作品 <https://k.sina.com.cn/article_7857201856_1d45362c001907k3pa.html>
+- **周杰伦** | 华语流行歌手周杰伦2026北京鸟巢演唱会还会加开场次吗 <https://k.sina.com.cn/article_7879776328_1d5abd84806801swlc.html>
+- **周杰伦** | 周杰伦北京演唱会：连开三场还爆这些瓜 <https://k.sina.com.cn/article_7879776328_1d5abd84806801swi6.html>
+- **周杰伦** | 周杰伦演唱会大合唱刷屏，老歌成25年友情时光密码 <https://k.sina.com.cn/article_7096020439_1a6f4add706801sg76.html>
+- **周杰伦** | 周杰伦演唱会大合唱最催泪是哪首？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801sw6g.html>
+- **周杰伦** | 这次鸟巢演唱会门票真的一秒售空吗？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801sw4i.html>
+- **周杰伦** | 周杰伦演唱会大合唱，唤醒25年青春友情 <https://k.sina.com.cn/article_7879848901_1d5acf3c506801rrvy.html>
+- **周杰伦** | 新浪演唱会热点小时报丨2026年06月29日23时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001907k90a.html>
+- **周杰伦** | 周杰伦鸟巢演唱会这个桥段太有趣了，特别是压轴那对，笑点密集到让人捧腹！ <https://k.sina.com.cn/article_6179910614_m17059f3d603301glpw.html>
+- **周杰伦** | 新浪演唱会热点小时报丨2026年06月29日22时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001907k7je.html>
+- **周杰伦** | 黄晓明看周杰伦演唱会被问昆凌周杰伦鸟巢开唱三场吸粉19万 <https://k.sina.com.cn/article_6294758863_m1773265cf033018g2g.html>
+- **周杰伦** | 周杰伦说白天开演唱会感觉不太一样周杰伦首次在鸟巢举办个人演唱会 <https://k.sina.com.cn/article_6294758863_m1773265cf033018g2a.html>
+- **周杰伦** | 中餐厅嘉宾北京团建周杰伦演唱会 太会玩！ <https://k.sina.com.cn/article_7879776328_1d5abd84806801suwu.html>
+- **周杰伦** | 在歌迷会团购演唱会门票可靠吗 <https://k.sina.com.cn/article_7857141524_1d452771401903qu3g.html>
+- **周杰伦** | 新浪演唱会热点小时报丨2026年06月29日21时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001907k5qu.html>
+- **周杰伦** | 周杰伦MV女主三吉彩花拍沙漠大片,黑白look高级大气,少女感满溢 <https://k.sina.com.cn/article_7857201856_1d45362c001907k4xi.html>
+- **周杰伦** | 新浪演唱会热点小时报丨2026年06月29日20时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001907k40a.html>
+- **周杰伦** | 这次怀旧热潮会影响周杰伦演唱会门票吗？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801stc6.html>
+- **周杰伦** | 演唱会联动中餐厅催生周杰伦主题餐厅构想 <https://k.sina.com.cn/article_7879776328_1d5abd84806801st74.html>
+- **周杰伦** | 周杰伦演唱会接下来还有哪些城市站？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801ssbe.html>
+- **周杰伦** | 林俊杰会出现在周杰伦第三场演唱会吗 <https://k.sina.com.cn/article_7879776328_1d5abd84806801ss9s.html>
+- **周杰伦** | 王俊凯为什么缺席周杰伦北京鸟巢演唱会 <https://k.sina.com.cn/article_7879776328_1d5abd84806801ss9y.html>
+- **周杰伦** | 周杰伦北京演唱会粉丝为躲雨，多个堆放官方周边点位遭哄抢 <https://k.sina.com.cn/article_7879924002_m1d5ae192202001epem.html>
+- **周杰伦** | 艾米在演唱会上唱了周杰伦的哪些歌？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801srkc.html>
+- **周杰伦** | 艾米人生第一次看演唱会 鸟巢偶遇杨迪_娱乐频道_中华网 <https://k.sina.com.cn/article_7857201856_1d45362c001907jwls.html>
+- **特朗普** | 美国最高法院驳回特朗普解雇美联储理事莉萨·库克的请求|唐纳德·特朗普|最高人民法院|美国国会|共和党|总统_手机新浪网 <https://news.google.com/rss/articles/CBMijwJBVV95cUxNR1c3OU9qeFVfVld1SVJ4TENwWHVKR1pTandtSVVkNXJFVmFVeU1faEkzYW5mWk1rQXZWWndzTDhlNDRqQUs2SWpzaEltbXZybG9TQ3gwUXpuYkZrbUYtQ0VVQ1d0RlF4RmN0Zm9HNjdUQUc2QnhTWVFVSC10WmNrbElEZGQ2NUxmUjJTR0dRTFo5NmJXdm0yVVl5Vzk2S2l0YUxKYk1VOHVrNGlvUEN1SExMYnY2eWMxX2N4UFhxUXpBdnpMZjluY2JISVhSalNNam9IRnJKNExPelpXeFFmYjlVQzh5MWFwSFNOeVZrekdrYmNEeHBNM05RYjFmX0xxRVJBRGx4VlVNRFMwZUJr?oc=5>
+- **特朗普** | 美国联邦最高法院驳回特朗普对卡罗尔性侵裁决的上诉请求 <https://news.google.com/rss/articles/CBMiakFVX3lxTE9pcTJyZFVkMXlGUEtWRk5mVVBMNlVSTzVvU1FaSlY1MTZaVHNGWEpSM3RWRW01Yk1iR0E3SGl2OGx0NnZxaDA1S2pHVlFsVE81RTUxeXB5T3YxMVdMQXpqa3BYYmV4ZUg1cUE?oc=5>
+- **特朗普** | 特朗普新关税阴霾笼罩！全球零售商抢先囤货 中美航线运费飙涨六成 <https://news.google.com/rss/articles/CBMiSEFVX3lxTE1KejhLMXJ5cVdPOTNOVWgwWHFmcjFnNU8wMlY5dGRqRXNUYllwbUoyVjh2ZnFVcXlEd0NDSVlNUDE2Ti1uOHJHQQ?oc=5>
+- **特朗普** | 刚刚，特朗普发声！美伊谈判，突发重大分歧！事关加息，“超级周”来了！黄金、白银，双双大跌 <https://news.google.com/rss/articles/CBMickFVX3lxTFBjNnh6Nk5rTTQ1endCbHNqcVh6STMtOXVBMTk2Z0RrME8zY1I3V3FCYVp3WUtOYkZCMWkzd09wM2kya0t5SlloZlZFbURiTzdTMk9YQjRhQjhSTTNPbzdxWFEwX1doYVE0LUJBVU14Y1c0QQ?oc=5>
+- **特朗普** | 特朗普，“和粉丝吵翻了” <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1WWnhVREtBX0hVN01EQUtxSVFGbU1VdUNvVDVwcVl6Zm11ZEEtVjFaZkRmNmstQ1NjNjR2cWtjUjRscVBxcTFuaDdrRGw?oc=5>
+- **特朗普** | 特朗普坚称美伊会谈“将于明日在多哈举行” <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JNGFzSVVGYzhLdUhOaHl5QmpWUHVuMDZNV3pRb0NSYk5YTUFZcHduV0Q2cV96Tk1oZXdIeWpZUW05eVFYNE9DNk1LMm9MaVRwVVU4ZTFJQ0xzLUhlQ1I2dDN3dnpHMzlv?oc=5>
+- **特朗普** | 特朗普坚称美伊会谈“将于明日在多哈举行” <https://news.google.com/rss/articles/CBMibkFVX3lxTE1YZzlfREF0V0w2TFR5N0x3VWpiQi03NUdyNkEwT00xankwa09BMTVaQWVRbjVqVDNtc3lveTVtdTROaVVabkROcEhHQWRHdVI4bjRDUnY4MTcxRFlra3RDX3Rub1RCc3RzQzJFWkJn?oc=5>
+- **Trump** | 转换 TRUMP 到 ALL | OFFICIAL TRUMP 兑换 阿尔巴尼亚列克 转换器 <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5aUEQ1VzFPZTVOcDloSmJ4b281V0h2OHdxZlNYMWRvYmluRFhrMVNMdHZLY21ncDNKOHh4b0ZzN3VCWVg4UmRYNG8ySmdUb0czX05GdXp1b3hWS2xGZHdMLTNCN1NXUGs?oc=5>
+- **Trump** | 川普家族再爆营私 老爸敲定协议 两子投资开钨矿 <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBaZzVaeGVPTExKM3hTU25VekV4S0pmREFCZy1YT0VLQ0ZCbVk0ZUtPel9EZ3J0d2J1VUNFcjByUTl3NFlKOFo5LW5ra2lKUW9OZU9MWFU1TlQ5djYwQVlrQmlzaUVOWFJi?oc=5>
+- **Trump** | 特朗普坚称美伊周二会谈 科技板块起势反弹 | 今夜看点 <https://news.google.com/rss/articles/CBMipgFBVV95cUxOaU1nQnBYU1g0Y2JEbzZMZkVPM3BUOXp6UkkydGRycEg0NDdlZGhoVTBxb1BNdkxlY2hZcTRET0pOQnRuaFNUeXhRSzJDN0lZcDduUnY3NjB3eVptZ1Z1ODFqaFlNUU9kU0hERlFRT0E5cWdmVlFWdVEwTHJhOWdBYV95T0tkZ2FDeHNmMG5wUkJsTlBwdEEyLXBzNHhzVGJ6RnJIOGln?oc=5>
 
 ### 2026-06-29 11:54  (42 条)
 
