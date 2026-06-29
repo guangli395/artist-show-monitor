@@ -1,62 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-29 21:50**
-- 本轮扫到 5329 条, 新增 **6** 条
+- 最近更新: **2026-06-29 22:50**
+- 本轮扫到 5331 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (2 条)
 
-### 新歌MV看点满满！周杰伦化身端水大师，三个孩子都拥有专属歌曲
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907kfxi.html>
-
-### 纽约证券交易所 纳斯达克将在白宫椭圆形办公室敲开市钟 推广特朗普儿童账户
+### 特朗普总统重申美国对伊朗的关键目标：无核化
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: video.sina.com.cn
-- 时间: 2026-06-29 19:55
-- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxNQXE5UkFtQnBrNVBySHNhdGV2TEZHM3M5bkF5M3BIUGpjWmNhTVBxOTZtVEY4S1d3aW1fdmVzQ3NzcEVZS3dfMzFwOU1RVFlIWnAyRE5LSHl0eEwzTGdjQnduUUlyT1ZZMGZ5cXp2a1RYMWEzODE1M1ZBcjBpUUFtVThn?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-06-29 21:47
+- 链接: <https://news.google.com/rss/articles/CBMitAFBVV95cUxNYUlELXJESjJwbGEyY1NGTldBVHVvVzBoejZ2NkUyYkQ2MDBUcFNhQ0M0cTVOb2ZZa0MtX0xmeFp5SWlQMWdnbGZxS195enR0bVpLWjU5cS1HWXh0MVNicnFWN2ttaUowdUo4dkhxaXFzOHo1ZFllNi1oS245SFNmNGVpT3BQdlhudVRKdVowb2hENndsM0RLanEtdXhGZWZFN3RxUU95SDVkWW5MbjJZQ1V0akLSAbcBQVVfeXFMT1BrWGc1dlFRVS16SjBtWlZvT0IzeGI2VURlX2pJNlM4N3dKT2xZRjg5UEU2ZEVjVE0xbkJtVFBXMzVIXzRVWVByUkpjMG5jalJaZXpVOGFpWE5EM2JXNEg1RlhXS0pJb2hkU2hRSjNid1pzdlNJbkMzdWx3MTRGMDZqcGhNLVhqS29qWE1zM2NSanV1dndTUnltb1BlZXZPaERYSkZpQlNYeUl2UzlEcXNoNG9sNG1J?oc=5>
 
-### 美国最高法院驳回总统特朗普解雇美联储理事丽莎·库克的请求
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-06-29 21:13
-- 链接: <https://news.google.com/rss/articles/CBMiqwNBVV95cUxNNDI0WGdrdHRIM005RWd0azliNFloLWV6b3U4MC1DMmxfaHhCLWc3NzdWY0N1aFk4QU5PemViVjJ5ekxzTlFWOEZqRXlKWmNwNXEyWExtNUFoWk1INmtJTUotUGozOHZ1YnhzX0hBVUxtMno3UXh5STBneU0xc05Kd2x4R0tJVF90SDlDaEk3M1MxSnVWTnJ4c0NKRGxVWmxKU0NCaXp1UXRfWXljWEdsaF9zUkoxUE1VaF9PYVhBVTJzYjNHdklVaXFMbzV4NXhldXlZNnZIZ0J1SFR5aXNhc3VEdm14bHRwRk1wRTYxVzBNNW1vSGRUNkNrak9zeFR5U0VQd09TeHpPdXF3MEw4bW8wcEhiNFhaNnJyN0Jqd19aS2Rnc3g4MlR6bnNEX0JvSXYtYWZrdTk0QzByNU1nVGJJME9EdnpsV2lCa2xmUm1BLWE2eFBOR1o2QWd6dXlRSkc1TjFJc1VhTnFuTWY5cFRKMkl1QjRvYVFQVldvZGRmc2VqZzR0R2dGTjdKWFpXRzl3UjJ5ci1vLWlMYzVJMTB4cDFKZE51S1Q0?oc=5>
-
-### 特朗普两大核心赌注即将迎来高院裁决，白宫或再遇阻
+### 最高法院限制特朗普对美联储的影响力
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-06-29 08:30
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE92bkdpd2MxMGFlUVBscWtuQTJPcGlDZ0Y4cEd5TWxIWU5INkJqWWMyd2FfdHZmbmNvSG52TWxCUHI4UDFXUG9BMw?oc=5>
-
-### 特朗普说伊朗提出请求，“会谈将于明日在（卡塔尔）多哈举行”；伊方表示暂无开展技术性会谈的安排
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 京报网
-- 时间: 2026-06-29 14:23
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE9YZGNlcnNoTHZIODlsOUhaVGdTVG82VmpnZDdoSl9JN003ZHhiWnlscDlEcllFeDVJLXg2ZUxiWXlzU0hnVUxZeGhVUjRHR0pSMU5HcFpsd24ySWZlYkE?oc=5>
-
-### 特朗普买入Axon股票两周后，ICE启动2.2亿美元电击枪采购计划
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-06-29 21:14
-- 链接: <https://news.google.com/rss/articles/CBMipAFBVV95cUxPV2dYMG9MaHVKNzZBMDVzQkpZU0hHRFZKTE9pVGFlNGp2bW1jeHg0aVhXVGpBNHZ5X3EzUWJFWkRkMTdFYmhqUWFKZnVRMW9HQ05CaUlTbTVuRTNMOUd0N3FuU1dYQVd3c3FvUDNzVEFWVmlxM1hLWGRkckxYNEwzekVCVDJPZHNzQjFWQlRTMG5IRVlNQk80TWhxTUlZajVvOGRLTg?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-06-29 21:40
+- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxNM2JKM2hLNk1wM0RVUEEwMFJVVGVwemNBTXFBemQ3X1FUVDVmSEluYW8tYVZGVHhhbTlDSmZ4NlJqZVhaakM5TThjUjQ4V3hBZU1la01feXE2dlNvSHRiTlNMaThVVk0yTXIyY21BVjlVNDJCd1dXX1VVUDNEV2ZyWDFmVVZPMGM3R0REV1FTYw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-29 22:50  (2 条)
+
+- **特朗普** | 特朗普总统重申美国对伊朗的关键目标：无核化 <https://news.google.com/rss/articles/CBMitAFBVV95cUxNYUlELXJESjJwbGEyY1NGTldBVHVvVzBoejZ2NkUyYkQ2MDBUcFNhQ0M0cTVOb2ZZa0MtX0xmeFp5SWlQMWdnbGZxS195enR0bVpLWjU5cS1HWXh0MVNicnFWN2ttaUowdUo4dkhxaXFzOHo1ZFllNi1oS245SFNmNGVpT3BQdlhudVRKdVowb2hENndsM0RLanEtdXhGZWZFN3RxUU95SDVkWW5MbjJZQ1V0akLSAbcBQVVfeXFMT1BrWGc1dlFRVS16SjBtWlZvT0IzeGI2VURlX2pJNlM4N3dKT2xZRjg5UEU2ZEVjVE0xbkJtVFBXMzVIXzRVWVByUkpjMG5jalJaZXpVOGFpWE5EM2JXNEg1RlhXS0pJb2hkU2hRSjNid1pzdlNJbkMzdWx3MTRGMDZqcGhNLVhqS29qWE1zM2NSanV1dndTUnltb1BlZXZPaERYSkZpQlNYeUl2UzlEcXNoNG9sNG1J?oc=5>
+- **特朗普** | 最高法院限制特朗普对美联储的影响力 <https://news.google.com/rss/articles/CBMijwFBVV95cUxNM2JKM2hLNk1wM0RVUEEwMFJVVGVwemNBTXFBemQ3X1FUVDVmSEluYW8tYVZGVHhhbTlDSmZ4NlJqZVhaakM5TThjUjQ4V3hBZU1la01feXE2dlNvSHRiTlNMaThVVk0yTXIyY21BVjlVNDJCd1dXX1VVUDNEV2ZyWDFmVVZPMGM3R0REV1FTYw?oc=5>
 
 ### 2026-06-29 21:50  (6 条)
 
