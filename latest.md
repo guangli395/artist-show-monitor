@@ -1,86 +1,95 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-29 18:05**
-- 本轮扫到 5313 条, 新增 **9** 条
+- 最近更新: **2026-06-29 20:21**
+- 本轮扫到 5323 条, 新增 **10** 条
 
 ---
 
-## 本轮新发现 (9 条)
+## 本轮新发现 (10 条)
 
-### 新浪演唱会热点小时报丨2026年06月30日00时_今日实时演唱会热点速递
+### 蔡徐坤签售会规则是否诱导消费
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801t0sc.html>
+
+### 20年前周杰伦演唱会有哪些颠覆性的舞台设计？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907kag6.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801t0f0.html>
 
-### 冲突再发后，特朗普总统表示美伊将于周二在多哈恢复会谈
+### 当时周杰伦演唱会门票为什么会一票难求？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-06-29 17:33
-- 链接: <https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRk9tejRYY1FUeHdYZTNVVkZmRG9PRzdnd1EteUdUSUtMTW9KXzFWNXJuVjhhVmhJY1RUWEVHQ0ZIdVlDX2tZOVhhVVR2SUpiZ3drOFdIUERnN01zWU5ocFMzMWRSMmhDdmpsS2c5dTY3UjR6Nlp1NWNWaWdLZTFCQllvNjRQNDk2ZWpWcUhjM3N6RmRtQVJKb1p3NmRtRjhRWjJmM005dGpaMGZUakJla0VNWDAtcVVGQU9BR1BVRXlteEtCMktSVWlkdkcya0FQVGNRUdIB1wFBVV95cUxQUnZuQnRpUkpqdVVlZ1RtVUxjX1ZMQlg4M08xUEpSVjFYd2RXN1hKSUJ3ZXdnRnBrUjd5XzhqempvN2pBY29ud3o3R3hqMlhaNFBMQzRCSFZrV2l5c0J2bzFvMm4wWGpqNDVRZTVnMVZqQkdzVE5OWmgtekpObW45R25JYnNqZy1KZ1ZPcWJ1VFhDQzR3QmpnRU5CY05NMEdxM3NFWE5pQlFWSlpuRVVtOGlQTGlPMnNsQlZXOXNFUUg4Q3RLOVZvd0JvLWh1cVpBUnRrM0tSRQ?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801t0fc.html>
 
-### 美特使将赴多哈与伊朗会谈 鲁比奥同步向国会简报
+### 20年前周杰伦演唱会 为何至今仍是封神之作？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-06-29 17:15
-- 链接: <https://news.google.com/rss/articles/CBMi6AJBVV95cUxPV3Ywd2FPTXRmcDJndzhUZEFHN0Vva2dLcnBCaG1GOGtBd29IX2RlRzhVOXVXMWh5UWNkQUtVTjRzR3dzeE1GUmJjV3EzLTI1cGkwS2h3NG92Z202RDNOTXl3d2ZuaVY5NW42cG52MFV3M1I1Y2pGalZJTEdIeldta3JCeVBoUnMxcjFBbFlzejVqWVpWN1BxSWxJdVdLSDd3M0RmX2hNQm5KOUdTOWxaZUxjVDlZZzNVbjAzZ3V1cE9hcjVQRFJ3WFdYd3NVX0xFN0RRYnAxZ2VfLTR6OGxOZDU1SWdGVGhvbUdmT1NxWFExVTdIZjJWSUFUZ3hzN1BWQWVWM29kX05wTUt6cGZGNzdrc2xPU2RkZFgyUE9MeFJMUDFmdEljd2hyWUlPeUJNR195Ui1Dd0ZQZU9heU16VkVIRUQwb1REM2ZJMnlPZDZxek9lTnBCVUJpQW9xR192d1N5MTZxSVg?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801t0f2.html>
 
-### 特朗普坚持，伊朗否认
+### 新浪演唱会热点小时报丨2026年06月30日03时_今日实时演唱会热点速递
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-06-29 14:09
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1PQTV6RmNySHV1T3MxcXF4bnh4a3dCakpjVl9qZzhWZG1fNkZDM0JZd0l3MGVqVHBnWkZJLWI3TnBqR0RfSlZtTTF3QzFKTnVvN25wSDJTRUhnZUdielhMaU1FeXBXaUNpNHlfYVdDZUU?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907kcek.html>
 
-### “符合我的品位”，特朗普喜提“二手豪机”背后
+### 新浪演唱会热点小时报丨2026年06月30日02时_今日实时演唱会热点速递
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-06-29 08:44
-- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE54a1N5cW54OWJlX0tfQmkwcVFVX1BYTEVZUmpkUWZPRFhYNnFUSzBtckVuVGMtS19MNS1JNGVmOTZjdi1xMUFxNGlVQXUzYTYyakVHeXRycWk0aGY2Yk41bmV3?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907kbvc.html>
 
-### 美国最高法院驳回特朗普解雇美联储理事莉萨·库克的请求|唐纳德·特朗普|最高人民法院|美国国会|共和党|总统_手机新浪网
+### 周杰伦北京演唱会散场夜的温暖偶遇
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923934_m1d5ae18de03301km3s.html>
+
+### 特朗普敦促民众举报加油站的任何违规行为
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-29 15:05
-- 链接: <https://news.google.com/rss/articles/CBMingJBVV95cUxOQWlyc19sTFpfVVNjY1Z0bWdqODBtZHdTSG5EUUlMLTV1czFZZU5QVko5d1Nnd1VFUzkzblpIUWlFQVJIN0lVOWJLTWFpdjNkQ29TYk91RmZENy01ajctNXMtVVA2dVNUNkNwVVFZWVN2WlhCTmFaZ2RiWmljZmFPYXpQNXhXemVwR0tqUHFMcUxXMnM4akdmVUlITFlQYm5XM1hfYWU5RGIxWWNNeFRsdE91YjBDbDcya21nQllPRnZfSUZ0bFBoaWYtaElzVE1RTHpYeVl0RzJNeUNuOXJ0RFB3WlpObFNOZFQwSEFna0hrV1M0d3AzTVdGZzNLLWhlekQ0dzRTUkdBMll0VWo3bDIzRmxQV0ZnbDlMTy1R?oc=5>
+- 时间: 2026-06-29 11:37
+- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTFBzamxrZ29iclBXS2xIekM2MGxsTnNYQy1qdEFic0dkRi1YVnJhaUpRVEhLRURuT1o4YmN0MzlJcS1pQ3NMa2JhRkIyYmhRTTlpemlwd2FQenA4Tm8wM0hReWY5V3ozRzVPTm1vYVZsRkpyUHVEX2JLdi1R?oc=5>
 
-### 美最高法院裁定：特朗普暂不能罢免美联储理事库克
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-06-29 14:40
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE95Yk81dXlEbkxyc3F2NkxWdTRLSkxDaGp3SGlkM0ptY3prVFZjSHhFNm5KbGQ4dThBUmZFV1A4dG50a0hDZ2p0VA?oc=5>
-
-### 特朗普坚持，伊朗否认
+### 特朗普坚称美伊会谈“将于明日在多哈举行”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-06-29 14:15
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxQcFNBQVk1QV9oZkFvMjB3QjlzWTRaYmZrV1c4NU10dFlBcVF2Z2p4elJBUmFGaUpDclQ2LTFJQW9VZVBxUGZld0ZCcE9WR2VoYXp6T2VQcFJVT2Y2YTZrS3QzbU5teG9vMHVscV95NTFaaV9nbFQ5SXhwMWlhSUJiTDQxMkY0TkUtdWtOcXlnQVlEUWdpbDJkYg?oc=5>
+- 场馆: 新华报业网
+- 时间: 2026-06-29 11:50
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE1ydVRVazlXdWZxSzZ6MUNoVmlCc2ZtWlNjajlLWGVKZG43emhDMnBJdDBWNVJZN2FOaHJrXzUza29scVRobllELURjM3hTUlBUdkV4SkVPYjRzdXhyWGpGSjYtNzNPbEtJRGRz?oc=5>
 
-### 美国最高法院驳回特朗普解雇美联储理事莉萨·库克的请求
+### 美伊再次连环交火原因：川普不知道自已签了什么？
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-29 14:38
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxPMDMtWHF5b19XRkdIeE1HQnd1OHZ2WWdhZm0yS1JtVXNFUVV5cGQ1UkdTdUp5MElzbDFoN0JVNVJUR0VTZ0NHT055Ql9STzlyTjBid3EwbkdyNzhLcjNBWnZFbmJLVVQxV0J5MDRwY05manJFc0ZPeUdlTnZDd3RxZkFPZlFLZEk?oc=5>
+- 场馆: 文学城
+- 时间: 2026-06-29 14:58
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9MWVk5bDEzQ1JfaUQwdkNyS01ublY2TWtyTXM5VFpoVFBFa3FKT2VXb2IwVmdRUmxrZGVZNVJONW5CbGhGRDlMTlQ5MjRqdzNsOXp4YlE1UmhHeUNkZnZCcE1qalVHdm4x?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-29 20:21  (10 条)
+
+- **蔡徐坤** | 蔡徐坤签售会规则是否诱导消费 <https://k.sina.com.cn/article_7879776328_1d5abd84806801t0sc.html>
+- **周杰伦** | 20年前周杰伦演唱会有哪些颠覆性的舞台设计？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801t0f0.html>
+- **周杰伦** | 当时周杰伦演唱会门票为什么会一票难求？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801t0fc.html>
+- **周杰伦** | 20年前周杰伦演唱会 为何至今仍是封神之作？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801t0f2.html>
+- **周杰伦** | 新浪演唱会热点小时报丨2026年06月30日03时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001907kcek.html>
+- **周杰伦** | 新浪演唱会热点小时报丨2026年06月30日02时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001907kbvc.html>
+- **周杰伦** | 周杰伦北京演唱会散场夜的温暖偶遇 <https://k.sina.com.cn/article_7879923934_m1d5ae18de03301km3s.html>
+- **特朗普** | 特朗普敦促民众举报加油站的任何违规行为 <https://news.google.com/rss/articles/CBMiekFVX3lxTFBzamxrZ29iclBXS2xIekM2MGxsTnNYQy1qdEFic0dkRi1YVnJhaUpRVEhLRURuT1o4YmN0MzlJcS1pQ3NMa2JhRkIyYmhRTTlpemlwd2FQenA4Tm8wM0hReWY5V3ozRzVPTm1vYVZsRkpyUHVEX2JLdi1R?oc=5>
+- **特朗普** | 特朗普坚称美伊会谈“将于明日在多哈举行” <https://news.google.com/rss/articles/CBMia0FVX3lxTE1ydVRVazlXdWZxSzZ6MUNoVmlCc2ZtWlNjajlLWGVKZG43emhDMnBJdDBWNVJZN2FOaHJrXzUza29scVRobllELURjM3hTUlBUdkV4SkVPYjRzdXhyWGpGSjYtNzNPbEtJRGRz?oc=5>
+- **Trump** | 美伊再次连环交火原因：川普不知道自已签了什么？ <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9MWVk5bDEzQ1JfaUQwdkNyS01ublY2TWtyTXM5VFpoVFBFa3FKT2VXb2IwVmdRUmxrZGVZNVJONW5CbGhGRDlMTlQ5MjRqdzNsOXp4YlE1UmhHeUNkZnZCcE1qalVHdm4x?oc=5>
 
 ### 2026-06-29 18:05  (9 条)
 
