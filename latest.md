@@ -1,103 +1,39 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-30 21:54**
-- 本轮扫到 5442 条, 新增 **17** 条
+- 最近更新: **2026-06-30 23:05**
+- 本轮扫到 5452 条, 新增 **10** 条
 
 ---
 
-## 本轮新发现 (17 条)
+## 本轮新发现 (10 条)
 
-### 中餐厅团建现身演唱会 周杰伦问昆凌表现
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801tpau.html>
-
-### 周杰伦演唱会彩排瘦回20年前_新闻
+### 周杰伦力撑演唱会 好男儿高调做粉丝被唾骂
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907lpfi.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907lucq.html>
 
-### 黄晓明现身演唱会,狂赞昆凌温柔完美,双标发言翻车惹怒大批网友
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907lpcu.html>
-
-### 周杰伦2006广州动感地带演唱会
+### 黄晓明演唱会高调夸昆凌是天使，一句羡慕周董却意外扯出与杨颖的过往，网友反应两极分化
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907loxw.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907ltlk.html>
 
-### 周杰伦演唱会这次中餐厅团建有多少人到场？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801toxg.html>
-
-### 中餐厅团建空降周杰伦演唱会，王俊凯缺席引寻人
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801toxc.html>
-
-### 王俊凯为什么没来周杰伦这场演唱会？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801toga.html>
-
-### 周杰伦演唱会中餐厅再聚首！全网寻王俊凯
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801tofw.html>
-
-### 新浪演唱会热点小时报丨2026年07月01日04时_今日实时演唱会热点速递
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907lmzs.html>
-
-### 黄晓明周杰伦演唱会发言具体说了什么涉及杨颖？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801tnzu.html>
-
-### 周杰伦北京演唱会2026：6位《中餐厅》成员跨界联动 一文看懂联动细节
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801tnt2.html>
-
-### 周杰伦北京演唱会现场怎么查到昆凌的岗？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801tno6.html>
-
-### 周杰伦北京演唱会惊现中餐厅团建！
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801tnny.html>
-
-### 新浪演唱会热点小时报丨2026年07月01日03时_今日实时演唱会热点速递
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907lj30.html>
-
-### 美最高法院裁定特朗普暂无法解雇美联储理事库克
+### 7月1日隔夜要闻：欧美股市收涨 油价下跌 特朗普2025年加密货币收入超14亿美元 美4月石油产量和出口量创新高
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-30 16:07
-- 链接: <https://news.google.com/rss/articles/CBMipwFBVV95cUxNZng1Zjk4MU5QWnVQcWZ6WlJ4SWwxanVqNlpyb3BIXzRoR3FxMXpRVjM2bnB1UFpZMGwxRDFaZk94d3duZHNSa2tMUjA5bEtJT3pWWmZUSGV6b2Z1V0dLUUY2eGM1MVpzVnhnSHlmVHN6NUY0SVE0UXEyNXpkYVEwOThHdGl0V3YwVG9yX0xMa3lQTkpZNmFGN2gyY0w5bUl4MkppRk9mYw?oc=5>
+- 时间: 2026-06-30 22:55
+- 链接: <https://news.google.com/rss/articles/CBMi_wFBVV95cUxQQVdWWk1nb2tiWU1yT3pHVnVCaEVQV183bW5uQjA2VGpBSlVyU2lXaV9WUlgxRTdPcDZRMExfUE55VU9KTTJ0U0NDYkVXaTRJekZKaVhYZVVOaDNxZ1hPbE1XVjJocGJoMzNZQzJDUGthX0QydURfbTNtVnJ0RWdaTGd3Qk1TM1RqN1RwWUR1UUZQVGhMMmFsN0NXQmp6Z3d1Nmo1S0FyUWdkLVZ6cml0alpyYUdxZjFyc09CdlJ4UHduTEpUcGFQUl84cVh3aXk5ZVNMa19zbXljbGhBZ19SUkVmWU1pQXZ1Yk9uRlFXSFhoQ0p2OC1aOW5mX1lVNVU?oc=5>
+
+### 财务披露显示特朗普2025年加密货币收入至少14亿美元
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-06-30 22:05
+- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxOcVFRN0EtcS0wTHdyWE1oeW1fdUt2ZFh6SHBpYmt0TDRVcHVMaUg4SGtjc2lSakZJUVhpNzRvR2l6cFkzRDB3Wl9JLXhTcEpzeEtxZHJYbFU0amc5RlZCSC1KbmJfTGZiMTQtYWtxOHJUSVlpSkcyTGRkUDRoRnUyLTFadUlnWUNmVUpyZ3hlX3JDOVMwNUJQcnl4Njk?oc=5>
 
 ### 美国最高法院驳回特朗普解雇美联储理事莉萨·库克的请求
 
@@ -105,20 +41,65 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-06-29 14:38
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZm9qeGpWa3hFXzA4clFBc19sUmNKbVN6ejl1c3BZbHlOQ1Y5WkZQNkVqQ09nNTZEWDdSQnU0V0ktVnFZckNvcUM3MHFBSzExdDJFelVOWHozcU9oMTNVME9uNDFLYWRXQ3JXX3hZbEcyYXNHb1cyM1BXZ2EyYW5yREFIYUpxVXRwd1p3aG9lV1Bib2h3b2JOd2NVOVVSWWY5a3gtT2ViMkNwOTY5RTl5ekRqVXRRd055V0I4ZzN3Zi1iUWl6eWxHOU1yb0RBd0NoWmo4RF9wZGVHc1QzaXhB?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSU13dEhJc1pibjRvdnZSbWxnYnVQMG1aQVdtTlRGakRNVnhzeHJNOFMzdTFOLTZScElEUWVMRzd5RDlwSUU5UWx4OUtMUUVFa2xyM09fSUZjTHd6X2p2SGpvNjkyY0ZWSmJiTHZXbjA0UmVIZXBPeWEwRTFHSS1ZdFpvMnFWaksyUV93OVcyTjNrbHA5TjRXSDlzMVd1VlhRbjJlZGhDUzliektRXzBnakI2NWRZNjRKWjcyZzZ0R1VjczRTRXp1NGxzT2JpZl9mMXBDY0dKMVMxRjkwYms0?oc=5>
 
-### 突发：🇺🇸 唐纳德·特朗普总统表示，其持有超过$5,000万的比特币，存放于冷钱包中。
+### Trump Discloses Expanding Financial Empire, Including Apple Stock, Celebration Coins and Crypto
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: Moomoo
-- 时间: 2026-06-30 07:00
-- 链接: <https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNzZ5UGsyTjlYVlBSYTFUOUFibmxJSmhNZmhrU2tXX1NTZ1BoUVJab1pjUG5mdnVDMmlsY25YTUl2d2FscDhwU0xfWURtNDdqNnBYM3pQaU9VVndZbjA3NTMtaElGRDhGeVlnaTBTcmxWckJUMmw5X25FQUFSWF9YZHFPX1Q5UU9WdG1DMjBVWlRUMnhmQWN0WHA4QTAzRWJwVUtpZldjc29GaV8tQTdsaTFzUlJnbU56LU5uOXFaY3FPUQ?oc=5>
+- 时间: 2026-06-30 22:56
+- 链接: <https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbmtzckJEOE8tMnBXRVpuZ1dveXowZ0JXLUhjc3FJNGhMN19raFlmWTJZeVhUcjc0c0FLVDc5cTBURDNPdkQwV1YwRFR6TDdYSXkzQkk3R1hqbWRMZHFjMV9pc0hfWTJKZGo1MjY3VU1ZeG52OC14eVRPaG05bDBPamhPMkotZ2xhZnRsaVpZbVVRUG9lZS1tUjcySUo4Y1k1WFhMZ3c0N3ZQdXVDRnJ2d1BOTk9XVFptWFpxUVpoMGFXRGRoT2RtVQ?oc=5>
+
+### 美国最高法院维持对出生公民权的宽泛解释
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-06-30 18:39
+- 链接: <https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcXNkOUlSR3dYVE9ISmlJdVpMVnktelN3RXJrWS1BeXR6dllKcWMyVDBfbkpVWnhzTE55ZU40eWNJRmZuWE10WXpoSmVBQ1NaejFmVmk4SVNLTkVjQ3IxeWhKUUUwazMxRlJkUU1CVEFqT0YzRERHZkFxVUNHal9oU2JhbWN3Sk84d0Zqcjc4VDBNUVJzRmtYVXFSajJ6cVFoVmpoaGoxaElVQVpyQ0xCRjV2SnYzVjMtRi1F0gG-AUFVX3lxTFBlS0hZQTR1M0hUMmxNZkFNZ21aVXMzZm5IeFdUN2tONHgxVFpkYW5VWk9lU2hNM1BBYzg0OW53Z1VsRmhnaHBKdUNxTUNBa0FtcTdHWWx4NlZ3REZWaklkWDU0VUxYdERFc2FXY3kzTno4eE11QXdEZFpuQ1pDeEZKNGwtbkotbV91WVhpY0hMOWlyX2FkT3ozNjlYSGdpLUlES3NVRWFXenhlb283TjM1bVQ2QU9wV0otbmJONEE?oc=5>
+
+### Crypto-trading maestro Trump! Official disclosures reveal over $1 billion in cryptocurrency-related gains in 2025, with heavy investments in U.S. tech giants.
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-06-30 22:32
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE9EdE5TUjAxVmJiQVItZDFDZjhRbU5JM1FkV3FSdkhleUtjQ0ZYc1JCZHpXWjBwZjJmSkFmT1BkQ1RLRHJlLXpweFhxWExRYnpLMFRZ?oc=5>
+
+### 特朗普927页财报曝光：三度加仓苹果、微软、英伟达，金条持仓同步现身
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 富途牛牛
+- 时间: 2026-06-30 22:38
+- 链接: <https://news.google.com/rss/articles/CBMipwFBVV95cUxNTU1QMXdFak9HaVRnTVhjNTJldnhPZGxGZ25VOFpPMHJ2LVJYWVFnZHQ0aG5JR2FVNE5uc3ZhaS11aDEzVEJLc0hTV0N2bW5TWmlKRklad08xLTNXRi1aM09nRlFxdlVWTHlqSGNCVlVSNUlSTkdCOWx2VEQ3RjQtWk1remE2aGJGcTExRHJsSVZ4MFBuT205RE1WSGg5U0pLU1lOWHp2bw?oc=5>
+
+### 特朗普在加密行业走向低迷之际，通过相关联系获得了超过 $10亿 的收入
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-06-30 22:30
+- 链接: <https://news.google.com/rss/articles/CBMiowFBVV95cUxNalVuQ3BnZmRZa2JrelRrLVFXT1h1NEZGMWw0STNLdDlUcWhHWld3TWF3Z2dsU1o5VExQOXVpVG5pNHU1Y2Fnc3BYS3pybVpuZzBNQlN3b1dCVFdsdThPaFQwYldocWgxQnNGSm9MVTFjV1E2QzRGNHEwSTMtQUtLZGFiZFN6Q2ZPZDBYUDNIS1hicWUyLXBsOXczZEsxSUdkdk5j?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-30 23:05  (10 条)
+
+- **周杰伦** | 周杰伦力撑演唱会 好男儿高调做粉丝被唾骂 <https://k.sina.com.cn/article_7857201856_1d45362c001907lucq.html>
+- **周杰伦** | 黄晓明演唱会高调夸昆凌是天使，一句羡慕周董却意外扯出与杨颖的过往，网友反应两极分化 <https://k.sina.com.cn/article_7857201856_1d45362c001907ltlk.html>
+- **特朗普** | 7月1日隔夜要闻：欧美股市收涨 油价下跌 特朗普2025年加密货币收入超14亿美元 美4月石油产量和出口量创新高 <https://news.google.com/rss/articles/CBMi_wFBVV95cUxQQVdWWk1nb2tiWU1yT3pHVnVCaEVQV183bW5uQjA2VGpBSlVyU2lXaV9WUlgxRTdPcDZRMExfUE55VU9KTTJ0U0NDYkVXaTRJekZKaVhYZVVOaDNxZ1hPbE1XVjJocGJoMzNZQzJDUGthX0QydURfbTNtVnJ0RWdaTGd3Qk1TM1RqN1RwWUR1UUZQVGhMMmFsN0NXQmp6Z3d1Nmo1S0FyUWdkLVZ6cml0alpyYUdxZjFyc09CdlJ4UHduTEpUcGFQUl84cVh3aXk5ZVNMa19zbXljbGhBZ19SUkVmWU1pQXZ1Yk9uRlFXSFhoQ0p2OC1aOW5mX1lVNVU?oc=5>
+- **特朗普** | 财务披露显示特朗普2025年加密货币收入至少14亿美元 <https://news.google.com/rss/articles/CBMinAFBVV95cUxOcVFRN0EtcS0wTHdyWE1oeW1fdUt2ZFh6SHBpYmt0TDRVcHVMaUg4SGtjc2lSakZJUVhpNzRvR2l6cFkzRDB3Wl9JLXhTcEpzeEtxZHJYbFU0amc5RlZCSC1KbmJfTGZiMTQtYWtxOHJUSVlpSkcyTGRkUDRoRnUyLTFadUlnWUNmVUpyZ3hlX3JDOVMwNUJQcnl4Njk?oc=5>
+- **特朗普** | 美国最高法院驳回特朗普解雇美联储理事莉萨·库克的请求 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSU13dEhJc1pibjRvdnZSbWxnYnVQMG1aQVdtTlRGakRNVnhzeHJNOFMzdTFOLTZScElEUWVMRzd5RDlwSUU5UWx4OUtMUUVFa2xyM09fSUZjTHd6X2p2SGpvNjkyY0ZWSmJiTHZXbjA0UmVIZXBPeWEwRTFHSS1ZdFpvMnFWaksyUV93OVcyTjNrbHA5TjRXSDlzMVd1VlhRbjJlZGhDUzliektRXzBnakI2NWRZNjRKWjcyZzZ0R1VjczRTRXp1NGxzT2JpZl9mMXBDY0dKMVMxRjkwYms0?oc=5>
+- **Trump** | Trump Discloses Expanding Financial Empire, Including Apple Stock, Celebration Coins and Crypto <https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbmtzckJEOE8tMnBXRVpuZ1dveXowZ0JXLUhjc3FJNGhMN19raFlmWTJZeVhUcjc0c0FLVDc5cTBURDNPdkQwV1YwRFR6TDdYSXkzQkk3R1hqbWRMZHFjMV9pc0hfWTJKZGo1MjY3VU1ZeG52OC14eVRPaG05bDBPamhPMkotZ2xhZnRsaVpZbVVRUG9lZS1tUjcySUo4Y1k1WFhMZ3c0N3ZQdXVDRnJ2d1BOTk9XVFptWFpxUVpoMGFXRGRoT2RtVQ?oc=5>
+- **Trump** | 美国最高法院维持对出生公民权的宽泛解释 <https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcXNkOUlSR3dYVE9ISmlJdVpMVnktelN3RXJrWS1BeXR6dllKcWMyVDBfbkpVWnhzTE55ZU40eWNJRmZuWE10WXpoSmVBQ1NaejFmVmk4SVNLTkVjQ3IxeWhKUUUwazMxRlJkUU1CVEFqT0YzRERHZkFxVUNHal9oU2JhbWN3Sk84d0Zqcjc4VDBNUVJzRmtYVXFSajJ6cVFoVmpoaGoxaElVQVpyQ0xCRjV2SnYzVjMtRi1F0gG-AUFVX3lxTFBlS0hZQTR1M0hUMmxNZkFNZ21aVXMzZm5IeFdUN2tONHgxVFpkYW5VWk9lU2hNM1BBYzg0OW53Z1VsRmhnaHBKdUNxTUNBa0FtcTdHWWx4NlZ3REZWaklkWDU0VUxYdERFc2FXY3kzTno4eE11QXdEZFpuQ1pDeEZKNGwtbkotbV91WVhpY0hMOWlyX2FkT3ozNjlYSGdpLUlES3NVRWFXenhlb283TjM1bVQ2QU9wV0otbmJONEE?oc=5>
+- **Trump** | Crypto-trading maestro Trump! Official disclosures reveal over $1 billion in cryptocurrency-related gains in 2025, with heavy investments in U.S. tech giants. <https://news.google.com/rss/articles/CBMiU0FVX3lxTE9EdE5TUjAxVmJiQVItZDFDZjhRbU5JM1FkV3FSdkhleUtjQ0ZYc1JCZHpXWjBwZjJmSkFmT1BkQ1RLRHJlLXpweFhxWExRYnpLMFRZ?oc=5>
+- **Trump** | 特朗普927页财报曝光：三度加仓苹果、微软、英伟达，金条持仓同步现身 <https://news.google.com/rss/articles/CBMipwFBVV95cUxNTU1QMXdFak9HaVRnTVhjNTJldnhPZGxGZ25VOFpPMHJ2LVJYWVFnZHQ0aG5JR2FVNE5uc3ZhaS11aDEzVEJLc0hTV0N2bW5TWmlKRklad08xLTNXRi1aM09nRlFxdlVWTHlqSGNCVlVSNUlSTkdCOWx2VEQ3RjQtWk1remE2aGJGcTExRHJsSVZ4MFBuT205RE1WSGg5U0pLU1lOWHp2bw?oc=5>
+- **Trump** | 特朗普在加密行业走向低迷之际，通过相关联系获得了超过 $10亿 的收入 <https://news.google.com/rss/articles/CBMiowFBVV95cUxNalVuQ3BnZmRZa2JrelRrLVFXT1h1NEZGMWw0STNLdDlUcWhHWld3TWF3Z2dsU1o5VExQOXVpVG5pNHU1Y2Fnc3BYS3pybVpuZzBNQlN3b1dCVFdsdThPaFQwYldocWgxQnNGSm9MVTFjV1E2QzRGNHEwSTMtQUtLZGFiZFN6Q2ZPZDBYUDNIS1hicWUyLXBsOXczZEsxSUdkdk5j?oc=5>
 
 ### 2026-06-30 21:54  (17 条)
 
