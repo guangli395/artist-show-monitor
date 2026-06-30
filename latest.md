@@ -1,86 +1,103 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-30 16:00**
-- 本轮扫到 5411 条, 新增 **9** 条
+- 最近更新: **2026-06-30 18:05**
+- 本轮扫到 5421 条, 新增 **10** 条
 
 ---
 
-## 本轮新发现 (9 条)
+## 本轮新发现 (10 条)
 
-### 海清携19岁儿子现身周杰伦演唱会
+### 为什么王俊凯没出现在周杰伦演唱会团建合照里
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6094646365_16b44ec5d04003eukg.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801tlze.html>
+
+### 别克官宣周杰伦成为MVP家族代言人,至境世家万家版41.99万元起
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857141524_1d452771401903s1l8.html>
+
+### 周杰伦演唱会雨天自取周边0元购爆火 黄晓明也无辜卷入
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907l4ti.html>
+
+### 美股或迎潜在利好 分析师称特朗普关税政策受挫尚未受到重视
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-06-30 17:10
+- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxPemlZU2ZXSjNNSUhiaUIyTFN5MngwcWVGOWdGTDh5OW9SbGN4QTYwb3AxNFlWWTVJdG1jck9sa1YtMEZBYmlzNzFDNFZSQzM0ZTFERFVsSDdMbGM4V0JXT3RWOW1PYXpWS3BrTm1SeWJ0aEtLZ3JERHBFc3ZaV3p3Wko5cURrX21tcXc?oc=5>
 
 ### 美最高法院驳回特朗普的限制“出生公民权”行政令
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-06-30 15:56
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1YLUN6UFlreGV3aUhMQm5DeUlvNzZJNFBLVktxcnBrdWRXNVhDUmJyMXJYdHRwX3FjOXpHQjdpeXJnSEl5VTAtM0sxeEw?oc=5>
+- 场馆: 新京报
+- 时间: 2026-06-30 15:26
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pek9mUC1fa2NYWmpHcms1Qktsck11eWR1eXlVS0VILTRGdHFmM1F4eXoyVFVDaGhiT1NqaVFlT2ZnLWg1aFdvRkRHd1ZxQzdkQnhPTmVRR2pEV3d2cmZvWjZYY2o?oc=5>
 
-### 美国最高法院驳回特朗普解雇美联储理事莉萨·库克的请求
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: Sina finance
-- 时间: 2026-06-29 14:38
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZ05ZWXdZa3l6UUxtX0xuRFhrQmQ0MnF6WHMwd1FBcDNaSWc0TUNleVRmTGsxbTZrck1yTnBhSkt5bE1FbUNOX3ZkcHoxLVhqUG1oaFQ2aXYzNG1OTzlrZTJlbXd2am5tbWhLd1kxUnNBMUJnQkw2b0YxS0p6R1hvQjFGVlF3b3h4Sk01SnptUDR0N3l5WGlMNV9BVk13eGdHbk1IaVlScFdkeDIzZkVWZHJQYnM5bHJJb1ZsSUZkalktcUVzaU9fY0NrTUp2N1VtMm9ZNUxlWVdNOExPWFJn?oc=5>
-
-### 特朗普：赶紧降价，不然“麻烦很大”
+### 美国最高法院驳回特朗普性侵女作家案上诉
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-06-30 08:39
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9fTmllcy00ODIzUlNwTEJtRG5NQ1ptM2lOZjZtMXlCbHZpSEVsaWpWOVpacmJRcTZKeGVZME9NYzhPSFJvTndYSktqMlJtUlI2ZG4zRDlnS2NtLTA0WEpLV3NDV3BLdHhDZUE?oc=5>
+- 场馆: chinanews.com.cn
+- 时间: 2026-06-30 02:47
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1sQVltam9zTGtSRmxzMmpOU1BBNEpRdkpDd2xBUDlBdnRIekdKdnlDTFJpNUlRMHk1bU83dW1qa2NhX3ZURzhZaVRLZUFRR3lUMWFKay1CQlBVSWJxX0o4WnhOTWpycUlw?oc=5>
 
-### “我不在乎中期选举”，特朗普惹恼共和党议员
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-06-30 11:51
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5sV29BWFZiWDBlU0haU1d3SkZuOTlYYkN1SGk5c3NOUC1nWld3UGk0M3o4S1BXM2Y3RVdac0xQempvRUlhWEkyM05aTmE?oc=5>
-
-### 特朗普政府收紧医疗补助 遭半数州集体起诉
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: Sohu
-- 时间: 2026-06-30 11:23
-- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQ2VhNzVnWmpTck9HRnJ1VDROYjdYOTJJRWZXdFVIY3lobVZGTVJ6aC05ZU9jQlVibHJkMkJ2Ny14d2F4VVo5VmhVTDNEQ3dsdWhveG5UVWVaN2Jnc1B5ZmtocklxZGJQajY4UzNRTFQ4WjA5OTQwblFKT2pxLS1NQmRsd3dYdThn?oc=5>
-
-### 市场传闻：特朗普政府正在起草禁止中国能源逆变器的禁令
+### 美最高法院裁定维持出生公民权 驳回特朗普限制行政命令
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-06-30 13:14
-- 链接: <https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeF9YMXAwR2VZbTJoNGtnazZYVm5lTFp0dlJjYnl1SXE5Sm9vRXAtRE5xcTRSc2RrMnBkNEEyMXFvSG92SGxHS1Q5MU9QRlh3SndHU2d3Tnd5TUJ6dGpyX1l2a1pZZjJydEtWS0c2YkRudmhRZGJjX2VVT2lyR193bzhtYmFKWXVCZGRjNXYwTk5QUG5CT1RaWC1KaHRlTmNjeEdtQXRweEFyN0NUVl9uNWg2VEQ1b0pqSG1ySHJBN1M?oc=5>
+- 场馆: RFI
+- 时间: 2026-06-30 17:50
+- 链接: <https://news.google.com/rss/articles/CBMijANBVV95cUxPQWRORE1SV3MtaHM3Mkl2LUhKd1VpTWRUMTlhNGhhT0I1d25GVGYzclZzYmtJTTk0NlUtNHdBXzBnRGVaTHE1UlBOSzNkZGo5bHlSRlo1OE9DbHgyY1hHRElncDZrTi1YYVpwRC1RNkJaMWxNbk5vV2xGNGwzNUNoUUQ5OF9rcXg4UHdiZmdKOVNlYzJ3Umt2R1V2Y0lfWVM4bk5YUzVFNTJjNFZJSENuMGVzZWZkcHFrVWFoZzJ2VWZBVTdnVjRHazNjM3hHZVV0S1p2bU01QzdIM0I5NHMwZzhMRVIycHhlYlp6czFXbGs4Yzh5SmtielY0NG0xYkJraTdYRzVhYmVvcWVpQ3RkYXVON19BaTFiTW1Pa2YzZW1Scm1HZk5seC1sSUtDQXlzMG94WVVudWpDdXpQeGkxRjR3VWZ4bkU0Yk1kYm9vZnI0QkI0STM0LUZoVjJlc3Z3ZHl6R0hsTF9vX1pGdEhta25QeDZGODlpZF96cHhrT3dDTnBCaWdpWTdfYnI?oc=5>
 
-### 美光科技将向特朗普账户投资$2.5亿。
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 富途牛牛
-- 时间: 2026-06-30 14:57
-- 链接: <https://news.google.com/rss/articles/CBMimwFBVV95cUxNT1hvQWpzajNPeFBueVMtTWx2ajRES251ZHJ2dU9OajZxRnQxTExtSHpWYTM4c2hrSkhTRmVtTFJCSWlYaHdxeTlfOVJUSnRzMERPSXktNzJqTFdYLU5JRFU2WGFSTUZzSzYtRnhyM2pacmc5c3AxVE1BU3ZHMng5NXVYUUVoUWhxTXlNMzVSLVcyTk52dWlqeTV2OA?oc=5>
-
-### 特朗普、伊朗就卡塔尔会谈释放矛盾信号，国际油价走高
+### 一文读懂 Meme 币 Official Trump (TRUMP)
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-06-30 13:35
-- 链接: <https://news.google.com/rss/articles/CBMipAFBVV95cUxOSHZfNXN4dWJqVjU3MV9vM3pwVkpkdWVybUVxNzlNTER3eUN0UWJLVTVqcDZUbk1Ea0s5eHY2MUJvaGhpUDdYS3JzeFRXbzBfV1hLczFVZUFZSHduM3BXOGJyNVdtYnQ2aVM1bVdaQm5BY3RqLWhxYndoVm16bkhKdGNuZlNhLTIyTTQ0TERyUFd0SlN4bEhBd0xENWZ6XzBCMVVHeg?oc=5>
+- 场馆: Binance
+- 时间: 2026-06-25 07:00
+- 链接: <https://news.google.com/rss/articles/CBMikwFBVV95cUxNM2NrdXdNdHVGSDA4V1p2eGdSVUpCMTJYYk0tTjdwUXhxeHFLX1FUS19FaXpMVGtOVU85Z2djc3FHeGlKMHJMQ1RzbXM0UFBuRjNHZEViMFF1b2pLamVobjV4M1U5TFFJcTdWX3lvbkQwb0daVzZSM1lEcEc2ckFBbVNLOTdpUGcwcFFxdjdNOVI3bUU?oc=5>
+
+### 最高法院驳回特朗普限制令，重申在美出生即为公民
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 西雅图中文电台 Chinese Radio Seattle
+- 时间: 2026-06-30 16:17
+- 链接: <https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWXBrX29fbUYxR1VOYmJoNk9Nc01iUkpDLVpMOV9YX0lQc01fa1FOVkZkR3ZpdmlhVFJjT2d5c3ZlTkQxcHJRLWsySlo5LWhfaHY4Z1czVGczbmxuR0tfYUpMR2pwc2dVQjdhZ1BVc1FwYjV1THZuakxCNTdfdk5Xa1gtc1VlV1ZlaC1taC1pTkRCME1LendlbEd6cmx6R2p3QlBHeEFmbFJQSU5IdF90Y0tfUTNRVDYz?oc=5>
+
+### 最高法院扩大特朗普解雇官员的权力
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 茉莉花新闻网
+- 时间: 2026-06-30 16:52
+- 链接: <https://news.google.com/rss/articles/CBMi-AFBVV95cUxPYlVHWEdpX2lvNTlKNzc5WV9jUmpYd3RSQ2lnRkRnQWZrOXlGSnNCUVhxQndENXFmWVgzZXBzOXc5NFhFQUUwQWhVQWZ4ZFpkZHhGTm1EeExYTjRLMWpGUXhnYjBiTk5uLS1XUkRweFJPQnZTeW5KZ2s4a01TOVFkV2xSM0NiS21GZm9qRXBaWVJzenluVTJYVDB3UFlVQ3pLaUVnUWdUZHhEdms1c1Z4RFR6ZGJNNmVEMzZXX043SGNzcjRHSHNnNVJSQnBrZmxFMVFjTGVPY2NsZWZHNkVKZEhjZ2RNYUktWGgyU1pTQVFJeUtSdGJXUw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-30 18:05  (10 条)
+
+- **周杰伦** | 为什么王俊凯没出现在周杰伦演唱会团建合照里 <https://k.sina.com.cn/article_7879776328_1d5abd84806801tlze.html>
+- **周杰伦** | 别克官宣周杰伦成为MVP家族代言人,至境世家万家版41.99万元起 <https://k.sina.com.cn/article_7857141524_1d452771401903s1l8.html>
+- **周杰伦** | 周杰伦演唱会雨天自取周边0元购爆火 黄晓明也无辜卷入 <https://k.sina.com.cn/article_7857201856_1d45362c001907l4ti.html>
+- **特朗普** | 美股或迎潜在利好 分析师称特朗普关税政策受挫尚未受到重视 <https://news.google.com/rss/articles/CBMiigFBVV95cUxPemlZU2ZXSjNNSUhiaUIyTFN5MngwcWVGOWdGTDh5OW9SbGN4QTYwb3AxNFlWWTVJdG1jck9sa1YtMEZBYmlzNzFDNFZSQzM0ZTFERFVsSDdMbGM4V0JXT3RWOW1PYXpWS3BrTm1SeWJ0aEtLZ3JERHBFc3ZaV3p3Wko5cURrX21tcXc?oc=5>
+- **特朗普** | 美最高法院驳回特朗普的限制“出生公民权”行政令 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pek9mUC1fa2NYWmpHcms1Qktsck11eWR1eXlVS0VILTRGdHFmM1F4eXoyVFVDaGhiT1NqaVFlT2ZnLWg1aFdvRkRHd1ZxQzdkQnhPTmVRR2pEV3d2cmZvWjZYY2o?oc=5>
+- **特朗普** | 美国最高法院驳回特朗普性侵女作家案上诉 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1sQVltam9zTGtSRmxzMmpOU1BBNEpRdkpDd2xBUDlBdnRIekdKdnlDTFJpNUlRMHk1bU83dW1qa2NhX3ZURzhZaVRLZUFRR3lUMWFKay1CQlBVSWJxX0o4WnhOTWpycUlw?oc=5>
+- **Trump** | 美最高法院裁定维持出生公民权 驳回特朗普限制行政命令 <https://news.google.com/rss/articles/CBMijANBVV95cUxPQWRORE1SV3MtaHM3Mkl2LUhKd1VpTWRUMTlhNGhhT0I1d25GVGYzclZzYmtJTTk0NlUtNHdBXzBnRGVaTHE1UlBOSzNkZGo5bHlSRlo1OE9DbHgyY1hHRElncDZrTi1YYVpwRC1RNkJaMWxNbk5vV2xGNGwzNUNoUUQ5OF9rcXg4UHdiZmdKOVNlYzJ3Umt2R1V2Y0lfWVM4bk5YUzVFNTJjNFZJSENuMGVzZWZkcHFrVWFoZzJ2VWZBVTdnVjRHazNjM3hHZVV0S1p2bU01QzdIM0I5NHMwZzhMRVIycHhlYlp6czFXbGs4Yzh5SmtielY0NG0xYkJraTdYRzVhYmVvcWVpQ3RkYXVON19BaTFiTW1Pa2YzZW1Scm1HZk5seC1sSUtDQXlzMG94WVVudWpDdXpQeGkxRjR3VWZ4bkU0Yk1kYm9vZnI0QkI0STM0LUZoVjJlc3Z3ZHl6R0hsTF9vX1pGdEhta25QeDZGODlpZF96cHhrT3dDTnBCaWdpWTdfYnI?oc=5>
+- **Trump** | 一文读懂 Meme 币 Official Trump (TRUMP) <https://news.google.com/rss/articles/CBMikwFBVV95cUxNM2NrdXdNdHVGSDA4V1p2eGdSVUpCMTJYYk0tTjdwUXhxeHFLX1FUS19FaXpMVGtOVU85Z2djc3FHeGlKMHJMQ1RzbXM0UFBuRjNHZEViMFF1b2pLamVobjV4M1U5TFFJcTdWX3lvbkQwb0daVzZSM1lEcEc2ckFBbVNLOTdpUGcwcFFxdjdNOVI3bUU?oc=5>
+- **Trump** | 最高法院驳回特朗普限制令，重申在美出生即为公民 <https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWXBrX29fbUYxR1VOYmJoNk9Nc01iUkpDLVpMOV9YX0lQc01fa1FOVkZkR3ZpdmlhVFJjT2d5c3ZlTkQxcHJRLWsySlo5LWhfaHY4Z1czVGczbmxuR0tfYUpMR2pwc2dVQjdhZ1BVc1FwYjV1THZuakxCNTdfdk5Xa1gtc1VlV1ZlaC1taC1pTkRCME1LendlbEd6cmx6R2p3QlBHeEFmbFJQSU5IdF90Y0tfUTNRVDYz?oc=5>
+- **Trump** | 最高法院扩大特朗普解雇官员的权力 <https://news.google.com/rss/articles/CBMi-AFBVV95cUxPYlVHWEdpX2lvNTlKNzc5WV9jUmpYd3RSQ2lnRkRnQWZrOXlGSnNCUVhxQndENXFmWVgzZXBzOXc5NFhFQUUwQWhVQWZ4ZFpkZHhGTm1EeExYTjRLMWpGUXhnYjBiTk5uLS1XUkRweFJPQnZTeW5KZ2s4a01TOVFkV2xSM0NiS21GZm9qRXBaWVJzenluVTJYVDB3UFlVQ3pLaUVnUWdUZHhEdms1c1Z4RFR6ZGJNNmVEMzZXX043SGNzcjRHSHNnNVJSQnBrZmxFMVFjTGVPY2NsZWZHNkVKZEhjZ2RNYUktWGgyU1pTQVFJeUtSdGJXUw?oc=5>
 
 ### 2026-06-30 16:00  (9 条)
 
