@@ -1,254 +1,110 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-30 03:46**
-- 本轮扫到 5373 条, 新增 **35** 条
+- 最近更新: **2026-06-30 07:46**
+- 本轮扫到 5384 条, 新增 **11** 条
 
 ---
 
-## 本轮新发现 (35 条)
+## 本轮新发现 (11 条)
 
-### 蔡徐坤歌手艺人 网红单眼皮的小黄豆14万买专中签签售会 后续还会办吗
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801t5zs.html>
-
-### 蔡徐坤还会再办线下签售会吗
+### 蔡徐坤签售会表演空气摸头杀动作温柔引关注
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801t5sk.html>
+- 链接: <https://k.sina.com.cn/article_5556631847_m14b337927053023byk.html>
 
-### 小黄豆参加蔡徐坤签售会，80秒互动成难忘回忆
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7095179351_m1a6e7d85703301ctn8.html>
-
-### 20年前的周杰伦歌曲为何能吊打现在的新歌？
+### 新浪演唱会热点小时报丨2026年06月30日15时_今日实时演唱会热点速递
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801t7ze.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907ksni.html>
 
-### 黄晓明瞿颖姜妍空降周杰伦演唱会！昆凌组局“综艺团建”，这排面太足了
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907kli4.html>
-
-### 周杰伦演唱会秒变综艺团建！黄晓明瞿颖姜妍陪昆凌看现场
+### 哪里能看周杰伦演唱会完整竖屏直拍？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907klhs.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801tboe.html>
 
-### 黄晓明称昆凌在中餐厅表现如天使，全员打卡周杰伦演唱会
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924004_m1d5ae192403302134q.html>
-
-### 华语歌手周杰伦20年前演唱会 有完整官方录像吗？
+### 新浪演唱会热点小时报丨2026年06月30日14时_今日实时演唱会热点速递
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801t7c8.html>
-
-### 华语歌手周杰伦20年前演唱会 一文看懂为什么没有完整录像
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801t7c4.html>
-
-### 20年前的周杰伦演唱会现在有完整录像吗？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801t7b4.html>
-
-### 20年前的周杰伦演唱会票价当初卖多少钱？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801t7aw.html>
-
-### 20年前的周杰伦演唱会，为何至今仍是封神？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801t7aq.html>
-
-### 周杰伦演唱会查岗！黄晓明昆凌互动合集太暖了
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801t71a.html>
-
-### 王俊凯之后会补看周杰伦演唱会吗？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801t6yo.html>
-
-### 中餐厅团建周杰伦演唱会，小迷弟王俊凯缺席
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801t6x2.html>
-
-### 黄晓明中国内地演员 周杰伦华语歌手 一文看懂 两人5次交集 主题曲真相是什么
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801t6g4.html>
-
-### 周杰伦给黄晓明的哪部电影写过主题曲？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801t6au.html>
-
-### 黄晓明晒周杰伦合照怎么回事 2位顶级艺人1场演唱会幕后细节公开
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801t6cc.html>
-
-### 王俊凯会去看周杰伦后续场次演唱会吗
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801t664.html>
-
-### 周杰伦演唱会查岗，黄晓明夸昆凌是天使！
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801t62a.html>
-
-### 周杰伦演唱会当面问，黄晓明夸昆凌是天使
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801t626.html>
-
-### 谁将从美国哈萨克斯坦矿业交易中获利？特朗普的儿子们
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-06-28 18:55
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE92M3ljVWJMSEJHaExlME9TZUV0d2EyT1ZsS25uR0d4ZVVhNWhnaHRDWEllQ2cxVHR6UDZ6XzFIYnFLMlZva1I5b0ttWDJ3R1M3OXo2ZUtORkwtRFN1SkZ1VG00TnZwbDkxUk1HSnNvOFJMUUVw?oc=5>
-
-### 特朗普坚持，伊朗否认
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-06-29 22:08
-- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTFA0bjVfQXdwV1FoUHRRc2xhTzZQYThxbllnOTlSSUd3TFhMeE53eVJPQ2RWbEFaZnFsTHBtcnpTOTY0UWszcElya1lkeGFrRmp1Wm85SF9DakdVS3ZfdUVMQ2lyTXotUW5kNXdMUUFycmJTSUk1eDFRcmR3cGxiZw?oc=5>
-
-### 解雇美联储理事？特朗普在最高法院吃瘪-观察者网
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-06-29 15:01
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1oRDNPRkJZWTJkc2lwamZUaEY0RVJKZUdQQ3FHQjVZSVBic05oNFc0dTEwN2VUSDltTVFTazZvaU8tcmt1Y3Vwc2xqQ081TTkxZHVxYXpZSWZVQVRKQ0hoVHRsbTlKQU5rbmc?oc=5>
-
-### 美最高法院：特朗普无权解雇美联储理事库克
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-06-30 00:28
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBMZl9wYWxzbnRSZlFhYklIcWtLSjduRTFnbjZZUzAwdjc1bG1qMU5iZmViaGh1YkMxVXZkTUphTF80dWRvT3dfVW1XWTk?oc=5>
-
-### 特朗普解雇库克计划落空，美联储独立性获最高法院强力背书
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-30 00:20
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxPOF9XRjFDTHhqSlNvSVB2Y2lXeFNmZkR0eUFFeS10Z0JZX1VFWThRc0JLM2phVndhLUtmdEJjbktBZTg0V25VREthWC1mVXhjX0dZUVVyay1ZdkNxSGRsVGVmZUo5N2Q1YmVOWjkxU0gyN0VuVHVpRWdpbEVGSnV4c09CR0ZBWU9adFlkeGM1Vm4xQ05naGVMRg?oc=5>
-
-### 指控特朗普性侵后，她收到了AI生成的人身威胁语音
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-06-30 00:03
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5sVXVKdHd5Sko2emtDV1JYU3pScTExMUFtWENMYkRVSWwzc0FxX3k2T0dDWnFqaHNkZVZJQmJwUEk5a0MzVzhJUm9qTGI?oc=5>
-
-### 特朗普买入Axon股票两周后，ICE启动2.2亿美元电击枪采购计划
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-06-29 21:03
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE9GZlUtYWJNeVVvYmdWUUt5ZlVscnJtbk5XQUQteW43ckxyLUc1Q1NNMmZZU0kzZXZxMDc4R18yajVlQXRtOUI4THFjWG9uNTl1UWFv?oc=5>
-
-### 特朗普在白宫办特斯拉“车展”，当场掏钱买车
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-06-30 02:29
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE9aNk9Zbk0wXzZIQjhJbnpETWVDbGxQYW1tUWZMY1lzMS1rNzJISTdNVTBaYjh6WFFpVjk4SnM5T3hUWXA4c21aQW9iekwwa2dBdUdwdXNfb01WOE1uSUNObF9JY2ZjdnZiQ3NBWWQ0VG51Zw?oc=5>
-
-### 美前高官称特朗普被内塔尼亚胡忽悠
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-06-30 03:19
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1TSmFvODRNaExudS16N1ZBMVhNQnE0TWpyYm9nODdIQlJ1Wk1CeGdhUnJXVzktN0Q1RGxSdVdpekRTeFRidmZrQXRmOFBZaVBYZ1EtZFVyMmpEQ1pjdlN4dE5pS2ZCQ0dDOXBPTHBfUEs?oc=5>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907kqv0.html>
 
 ### 美最高法院驳回特朗普性侵女作家案上诉
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-06-29 17:34
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uLTFRVHVZdGR5WGxhZVpGdHZDUHg1UDhacUtIUy1XbER6Mm9ZWE16U3piTHRlWHNaN1lyTmhEWjhhWTFHdXVhMURESV9zMUlENjk3czJxMkVzbWRVbnlUXw?oc=5>
+- 场馆: 新华网
+- 时间: 2026-06-30 02:30
+- 链接: <https://news.google.com/rss/articles/CBMihgFBVV95cUxOalJJT1FqZ3UzSXZvbUhmMzdsdE5hZTlOTWh3dHQyNmV0cUI3dEoxTFpqRXd0eFZlOVZIVXd6WlZFM0s4d1FhSzY4OW9zZW9HLXdyekNEaGFFaVpmLXpFTjQ5dzVsMkUtdm1OYlpOOWdGN1lPMDFjOXNVM0c0cFc5ZnZGLU9rQQ?oc=5>
 
-### 老外实测特朗普T1手机：软硬件均有明显短板
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 驱动之家
-- 时间: 2026-06-28 23:31
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE5YRkpPZUJNbk9ONWFycUlGb2tpcUJadzA4SjVUdHIzRUpBcVFoTzBpMEk1OEF1ODdudGtnV2hUbU1KOWNxOGtyZTdYckZJVXZNU29aWDloSWY?oc=5>
-
-### 特朗普总统重申美国对伊朗的关键目标：无核化
+### 美国最高法院驳回特朗普解雇美联储理事莉萨·库克的请求|唐纳德·特朗普|最高人民法院|美国国会|共和党|总统_手机新浪网
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-06-29 21:47
-- 链接: <https://news.google.com/rss/articles/CBMitwFBVV95cUxPUGtYZzV2UVFVLXpKMG1aVm9PQjN4YjZVRGVfakk2Uzg3d0pPbFlGODlQRTZkRWNUTTFuQm1UUFczNUhfNFVZUHJSSmMwbmNqUlplelU4YWlYTkQzYlc0SDVGWFdLSklvaGRTaFFKM2J3WnN2U0luQzN1bHcxNEYwNmpwaE0tWGpLb2pYTXMzY1JqdXV2d1NSeW1vUGVldk9oRFhKRmlCU1h5SXZTOURxc2g0b2w0bUnSAbcBQVVfeXFMT1BrWGc1dlFRVS16SjBtWlZvT0IzeGI2VURlX2pJNlM4N3dKT2xZRjg5UEU2ZEVjVE0xbkJtVFBXMzVIXzRVWVByUkpjMG5jalJaZXpVOGFpWE5EM2JXNEg1RlhXS0pJb2hkU2hRSjNid1pzdlNJbkMzdWx3MTRGMDZqcGhNLVhqS29qWE1zM2NSanV1dndTUnltb1BlZXZPaERYSkZpQlNYeUl2UzlEcXNoNG9sNG1J?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-06-29 17:45
+- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxNa0NSaFI3R1otTjVHOHp4eW1zbHRmM1dzeWlfQ3FRNks4c1pCd2V0QjRHa002R1ZkMVA2Z1AwdWF0UXhXTnk1VU42YnlZYlVrNFhNVzl0dnpoVzVzaXJhWjIzcUFGMDVub3JXYjhjQjZ3TzNRUHlTcV90MU5CUUJja3dvbENLUEg1MXc?oc=5>
 
-### 特朗普宣布：提名基思·桑德林出任美劳工部长
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-06-30 01:44
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5tRjl6QlRxMWVBOXE2eEQ0Zzg1YnFvWm9ScDN3cHV0aWFtMHhnRDRSZUFFQTZEREQwb2JiWTRIcWJPdTBXbFBmMlAwMnBwajZaNHY5bThuVFFlNU5XOHpMNzZqSzJLYm15?oc=5>
-
-### 特朗普坚称美伊会谈“将于明日在多哈举行”
+### 美最高法院驳回特朗普性侵女作家案上诉
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 央广网
-- 时间: 2026-06-29 11:50
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE53ZGNxYzBiYkRNQWNUc2ZIY2w0Z2EzMVlYbTFCOWRob1pSZDlhYmVfeUZCMlV6UjQ5Uzd0NzhGT2FxVHRnN2s3VHNjVGNkUkZQTXVCX1ZWRXFlaTZKYmpwb2pwNzl2dmtV?oc=5>
+- 场馆: 新华网
+- 时间: 2026-06-29 16:29
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1ibGhwc0QzTnhqbXRxcnZDSk95Y3pLUHRWalNMaUtnbnBGaG8xZm41VmRoS1NQOERDd291WkQyNVM3eHV0NnhmUXVJeTItZWpfMFhkdEx1amN2OFFYeW9Qb3AyVThNdE9HNmdKdGRtR2NpNHBmVFFsX2VCMVFtTGs?oc=5>
+
+### 特朗普政府部分放宽Anthropic AI模型禁令
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-06-29 00:39
+- 链接: <https://news.google.com/rss/articles/CBMi-gFBVV95cUxNbS1QWWNJaW93a3RyQjhtbGJXR1pQamVCenotUEZSaU9xTWhMWmtNeENlT0xBRE5fbnVYaEFQbzdPTmliVFBHRGU0eTR6eUQwa2pIMi1kVUFmUjZJcWxSMm5yWmpMREc4ZU52dXNOLURTT1Q0N19VaDRmT2twZDFkMzBqdWlGSHNsbWFXMDRNTHF4dnBqYXdvbms1TDhXeVpmcUZTSERCUGNVT0FmbVRvbUd3Qnh2a1BRV3RPMjdsQTJvZHU4MlhfSzhpTlp6dW1QYVRZM3JIOFFFRDM1OS1nRmZabWloa002RkgwZXNKaTdRTkJnRmt5ZWt3?oc=5>
+
+### 特朗普要求美国汽油零售商赶紧降价：不然将面临“大麻烦”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 财联社
+- 时间: 2026-06-30 04:05
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE9jQzMxZExwSC1paGxYdlhZa0tiTU5JamgzR1g4TjRCeE9jQUE3VzBNdjljMEs5elhuOHg4NFplOWxMSklwU1dWUw?oc=5>
+
+### 特朗普又被“打脸”-观察者网
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-06-30 00:21
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE81b1ZQZ0M5M1hMVU0yYWIzb1VqNUFyMTFTcHVJZTltakd4UU1GWUE2TU12VDUxRUFDVmI2Ty1uRnQ2MWIwTm43aURGYmt5ZjFYUXVxRGpkOF8ySXdhN0l4Y2xvampkZ3lZTHc?oc=5>
+
+### thanks trump
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-06-23 14:56
+- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTFBGVzJjVlRCSEZqQjNxZDgxV3NXeF84VTlVX2lTMkEzVlB1emxTOW4zb3NhZVdDODk4Rm5fb0JGMHdVNjRkZ0dGUlVRRHNCS0hxYXFHVF9uZkl0SXdoNENROGFZQnZqMDZxYVZYczRZbldXaWd1dHhFaDR3?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-30 07:46  (11 条)
+
+- **蔡徐坤** | 蔡徐坤签售会表演空气摸头杀动作温柔引关注 <https://k.sina.com.cn/article_5556631847_m14b337927053023byk.html>
+- **周杰伦** | 新浪演唱会热点小时报丨2026年06月30日15时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001907ksni.html>
+- **周杰伦** | 哪里能看周杰伦演唱会完整竖屏直拍？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801tboe.html>
+- **周杰伦** | 新浪演唱会热点小时报丨2026年06月30日14时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001907kqv0.html>
+- **特朗普** | 美最高法院驳回特朗普性侵女作家案上诉 <https://news.google.com/rss/articles/CBMihgFBVV95cUxOalJJT1FqZ3UzSXZvbUhmMzdsdE5hZTlOTWh3dHQyNmV0cUI3dEoxTFpqRXd0eFZlOVZIVXd6WlZFM0s4d1FhSzY4OW9zZW9HLXdyekNEaGFFaVpmLXpFTjQ5dzVsMkUtdm1OYlpOOWdGN1lPMDFjOXNVM0c0cFc5ZnZGLU9rQQ?oc=5>
+- **特朗普** | 美国最高法院驳回特朗普解雇美联储理事莉萨·库克的请求|唐纳德·特朗普|最高人民法院|美国国会|共和党|总统_手机新浪网 <https://news.google.com/rss/articles/CBMiigFBVV95cUxNa0NSaFI3R1otTjVHOHp4eW1zbHRmM1dzeWlfQ3FRNks4c1pCd2V0QjRHa002R1ZkMVA2Z1AwdWF0UXhXTnk1VU42YnlZYlVrNFhNVzl0dnpoVzVzaXJhWjIzcUFGMDVub3JXYjhjQjZ3TzNRUHlTcV90MU5CUUJja3dvbENLUEg1MXc?oc=5>
+- **特朗普** | 美最高法院驳回特朗普性侵女作家案上诉 <https://news.google.com/rss/articles/CBMif0FVX3lxTE1ibGhwc0QzTnhqbXRxcnZDSk95Y3pLUHRWalNMaUtnbnBGaG8xZm41VmRoS1NQOERDd291WkQyNVM3eHV0NnhmUXVJeTItZWpfMFhkdEx1amN2OFFYeW9Qb3AyVThNdE9HNmdKdGRtR2NpNHBmVFFsX2VCMVFtTGs?oc=5>
+- **特朗普** | 特朗普政府部分放宽Anthropic AI模型禁令 <https://news.google.com/rss/articles/CBMi-gFBVV95cUxNbS1QWWNJaW93a3RyQjhtbGJXR1pQamVCenotUEZSaU9xTWhMWmtNeENlT0xBRE5fbnVYaEFQbzdPTmliVFBHRGU0eTR6eUQwa2pIMi1kVUFmUjZJcWxSMm5yWmpMREc4ZU52dXNOLURTT1Q0N19VaDRmT2twZDFkMzBqdWlGSHNsbWFXMDRNTHF4dnBqYXdvbms1TDhXeVpmcUZTSERCUGNVT0FmbVRvbUd3Qnh2a1BRV3RPMjdsQTJvZHU4MlhfSzhpTlp6dW1QYVRZM3JIOFFFRDM1OS1nRmZabWloa002RkgwZXNKaTdRTkJnRmt5ZWt3?oc=5>
+- **特朗普** | 特朗普要求美国汽油零售商赶紧降价：不然将面临“大麻烦” <https://news.google.com/rss/articles/CBMiSEFVX3lxTE9jQzMxZExwSC1paGxYdlhZa0tiTU5JamgzR1g4TjRCeE9jQUE3VzBNdjljMEs5elhuOHg4NFplOWxMSklwU1dWUw?oc=5>
+- **特朗普** | 特朗普又被“打脸”-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE81b1ZQZ0M5M1hMVU0yYWIzb1VqNUFyMTFTcHVJZTltakd4UU1GWUE2TU12VDUxRUFDVmI2Ty1uRnQ2MWIwTm43aURGYmt5ZjFYUXVxRGpkOF8ySXdhN0l4Y2xvampkZ3lZTHc?oc=5>
+- **Trump** | thanks trump <https://news.google.com/rss/articles/CBMiekFVX3lxTFBGVzJjVlRCSEZqQjNxZDgxV3NXeF84VTlVX2lTMkEzVlB1emxTOW4zb3NhZVdDODk4Rm5fb0JGMHdVNjRkZ0dGUlVRRHNCS0hxYXFHVF9uZkl0SXdoNENROGFZQnZqMDZxYVZYczRZbldXaWd1dHhFaDR3?oc=5>
 
 ### 2026-06-30 03:46  (35 条)
 
