@@ -1,106 +1,60 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-30 10:51**
-- 本轮扫到 5397 条, 新增 **13** 条
+- 最近更新: **2026-06-30 13:07**
+- 本轮扫到 5402 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (13 条)
+## 本轮新发现 (5 条)
 
-### 《人·鱼》的正式预告片什么时候会发布？
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801teri.html>
-
-### 新浪演唱会热点小时报丨2026年06月30日18时_今日实时演唱会热点速递
+### 新浪演唱会热点小时报丨2026年06月30日19时_今日实时演唱会热点速递
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907kzss.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907l1qe.html>
 
-### 2006年无锡《周杰伦和他的朋友们超级巨星演唱会》完整曲目单
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ten2.html>
-
-### 蔡依林周杰伦演唱会再现神级现场
+### 47岁华语天王周杰伦为小女儿创作《女儿殿下》，两女儿出镜MV为何自己不出演？自称要穿精灵装太害羞
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301cquk.html>
+- 链接: <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801ac2k.html>
 
-### 新浪演唱会热点小时报丨2026年06月30日17时_今日实时演唱会热点速递
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907kx88.html>
-
-### 昆凌携中餐厅团队现身周杰伦演唱会
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924004_m1d5ae192403302152i.html>
-
-### 新浪演唱会热点小时报丨2026年06月30日16时_今日实时演唱会热点速递
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907kvbc.html>
-
-### 特朗普过去24小时都忙了什么？（2026-06-30）
+### 美国原油价格站稳70美元上方，特朗普与伊朗就卡塔尔谈判释放矛盾信号
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-30 09:45
-- 链接: <https://news.google.com/rss/articles/CBMingFBVV95cUxNMi1td0JwS19CV2ttWkZtNGs4STZ3dktkaHlOZTUzNTFyWHZBekt2RWdOVWo0VTRKSkt0V0xwUlRMXzltZ3JFNW55SEdQbEtpa1ZUVWc2RU83aVBiNFhpbnV5MlBkV1duaC1SOVZOWV9TQ1RyMDlGOG45TUI0dzNKa1hqb0ctX2ZueW4wU25vWGRmRFVYeXpZRzQwMEc3UQ?oc=5>
+- 场馆: Sina finance
+- 时间: 2026-06-30 10:36
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxOUFNTQUs3TDNWdENFUGxkTWlOZW9oaXc5TlJYU1h2cEhrcTVlb3lkU0Zxcmp1SENoX2hrWDRHWllTRU8wSm9WMG52Q3Zkd2IwN1dQN2ZIaDl5VGZmYlNENEVxVUFxNjdlT0FPLVlfNGRLN2dfQ1k5X0tjSm5UM002TlBFZ0ZzTnc?oc=5>
 
-### 特朗普坚持，伊朗否认
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-06-29 21:58
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE14WUtNMWtodTFlWDRVUWtNQnlvQU81MS10U256RHlTelpjOFU4Q1lvRk9DOXpxM1ROUS1lOWctRGxoOEpwbzc0WkVOSjR0ME9DZ29NZ3ZzbHl5dWxraEpwR3BocUZYSmtOZVYzWHczZklGTzNoZ0VoNA?oc=5>
-
-### 遭特朗普讽刺后，“下任英相”拒绝美国
+### 特朗普疯狂打压Anthropic，奥地利鼓动欧盟“挖墙脚”-观察者网
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 观察者
-- 时间: 2026-06-30 06:49
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE51d3VvbGc0eHdDeFhfcWJSMTdwUWRJSUdObDVnbFh4Ry1BUHNzQlhKQklONTZKZEdrTHBoWDZ0bl8tQ0FZOWh6VjhtQ1d5WUZ6dFozX0ZsSl9oSUUzS1I3TlU3V3dMS1hRTFE?oc=5>
+- 时间: 2026-06-29 11:45
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE04aU9KOTVPZGd1ODFtckJRbmZpT3Jtbmh3YVBCRzlOSzNvNVNJWnR3Y3lCb1NTaE1ObDZDN3I4VEZLWjVUVDNtNTIzU2lyNTJiMGNsTDdKNnFhVU9LUXl3WGMzelRxN3JkT0E?oc=5>
 
-### 特朗普性侵案上诉失败，被裁决赔偿女作家500万美元
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-06-30 00:53
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nam9oeEV6Q0VQa01VTjh0Zk0tY2tPNU5NQmFjemtodERxemRyWjJHS1hzZEJfWHFhbHVwRmtYRnRnWmM3c0x2dlE0eUo?oc=5>
-
-### 瑞士女模自曝遭特朗普侵犯，“掀起裙子到处抓”，事后还被威胁
+### 特朗普警告汽油商降油价 否则将面临“大问题”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-06-30 04:03
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9BY2lTLTBScVhxaGNIRW1JczNfd2JZOHhDaTlWM3hBMkRENnV0WFZIbnBGV1BmeTZ1bC1qd2hpOFZmRXctZW13OXFub3U?oc=5>
-
-### 美国最高法推翻百年判例 允许特朗普解雇独立机构雇员
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财新
-- 时间: 2026-06-30 04:55
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBNaW9GUU00dHA2TzFCRFdHOU50M1p3blNiRFpXdEs2ZmhIUUt6SWlPaTNlWnlYckpFU092dzJFTDgwOV9ZaHdjU1FDWnoxX2lOV0h4N3NfbDF0dTBIOVVKU3VIQlZJQWlLaXc?oc=5>
+- 场馆: 联合早报
+- 时间: 2026-06-30 05:49
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NS2NFUG41QkhadmxlWm1BUWVDc2tnZHEwdmtyY3ItRUZoZFBwLUFzc25QcmFucDdsOWxYZkRpZ0x1YW1zcHAyeEQyNDdFaWMtVjFOaWpmNnpobXVybUZCZjhnRFNWdw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-30 13:07  (5 条)
+
+- **周杰伦** | 新浪演唱会热点小时报丨2026年06月30日19时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001907l1qe.html>
+- **周杰伦** | 47岁华语天王周杰伦为小女儿创作《女儿殿下》，两女儿出镜MV为何自己不出演？自称要穿精灵装太害羞 <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801ac2k.html>
+- **特朗普** | 美国原油价格站稳70美元上方，特朗普与伊朗就卡塔尔谈判释放矛盾信号 <https://news.google.com/rss/articles/CBMihwFBVV95cUxOUFNTQUs3TDNWdENFUGxkTWlOZW9oaXc5TlJYU1h2cEhrcTVlb3lkU0Zxcmp1SENoX2hrWDRHWllTRU8wSm9WMG52Q3Zkd2IwN1dQN2ZIaDl5VGZmYlNENEVxVUFxNjdlT0FPLVlfNGRLN2dfQ1k5X0tjSm5UM002TlBFZ0ZzTnc?oc=5>
+- **特朗普** | 特朗普疯狂打压Anthropic，奥地利鼓动欧盟“挖墙脚”-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE04aU9KOTVPZGd1ODFtckJRbmZpT3Jtbmh3YVBCRzlOSzNvNVNJWnR3Y3lCb1NTaE1ObDZDN3I4VEZLWjVUVDNtNTIzU2lyNTJiMGNsTDdKNnFhVU9LUXl3WGMzelRxN3JkT0E?oc=5>
+- **特朗普** | 特朗普警告汽油商降油价 否则将面临“大问题” <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NS2NFUG41QkhadmxlWm1BUWVDc2tnZHEwdmtyY3ItRUZoZFBwLUFzc25QcmFucDdsOWxYZkRpZ0x1YW1zcHAyeEQyNDdFaWMtVjFOaWpmNnpobXVybUZCZjhnRFNWdw?oc=5>
 
 ### 2026-06-30 10:51  (13 条)
 
