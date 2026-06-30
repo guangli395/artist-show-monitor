@@ -1,27 +1,103 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-30 20:27**
-- 本轮扫到 5425 条, 新增 **4** 条
+- 最近更新: **2026-06-30 21:54**
+- 本轮扫到 5442 条, 新增 **17** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (17 条)
 
-### 美伊和平谈判代表前往多哈，但会晤能否举行仍不明朗
+### 中餐厅团建现身演唱会 周杰伦问昆凌表现
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801tpau.html>
+
+### 周杰伦演唱会彩排瘦回20年前_新闻
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907lpfi.html>
+
+### 黄晓明现身演唱会,狂赞昆凌温柔完美,双标发言翻车惹怒大批网友
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907lpcu.html>
+
+### 周杰伦2006广州动感地带演唱会
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907loxw.html>
+
+### 周杰伦演唱会这次中餐厅团建有多少人到场？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801toxg.html>
+
+### 中餐厅团建空降周杰伦演唱会，王俊凯缺席引寻人
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801toxc.html>
+
+### 王俊凯为什么没来周杰伦这场演唱会？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801toga.html>
+
+### 周杰伦演唱会中餐厅再聚首！全网寻王俊凯
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801tofw.html>
+
+### 新浪演唱会热点小时报丨2026年07月01日04时_今日实时演唱会热点速递
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907lmzs.html>
+
+### 黄晓明周杰伦演唱会发言具体说了什么涉及杨颖？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801tnzu.html>
+
+### 周杰伦北京演唱会2026：6位《中餐厅》成员跨界联动 一文看懂联动细节
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801tnt2.html>
+
+### 周杰伦北京演唱会现场怎么查到昆凌的岗？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801tno6.html>
+
+### 周杰伦北京演唱会惊现中餐厅团建！
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801tnny.html>
+
+### 新浪演唱会热点小时报丨2026年07月01日03时_今日实时演唱会热点速递
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907lj30.html>
+
+### 美最高法院裁定特朗普暂无法解雇美联储理事库克
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-30 19:40
-- 链接: <https://news.google.com/rss/articles/CBMipwJBVV95cUxNR2k0X3lCeXdzTUEwWm9KY2NIOThfSHI5dkJYMEFHb2p5dnVQMkFpeXZvdVBYS19MN2d1bEZXbDZRUGpXbk9TQXlXakNHaXZQaWZocWh4QXN2MVNDZWowb3l1MHhLei1Jb0M4NW92azNUR1ExTlU0UTNjRS1ZRFhuMXlPcUR6d2VsdUxXZ1p3MGpfVWdlNjZ1ejJ3TExnSFZtVThKRFVoU1VqVDZ2UDVTMlIzUXNJRWFFd3FQSXlJNmxMano0aHlIc1M1b1RYTGN2bTVzWmxpY0lhNWVtSWZLZVNjVlUyX0lHM3prVEFvVjZtZ2tldzIyeXg5enRWVG1seldueU12VUVUd3Q4Vkp2NUNyZDVDck9DSlc0dkNMUmg3alhXdjVn?oc=5>
-
-### 美股或迎潜在利好 分析师称特朗普关税政策受挫尚未受到重视
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-30 17:06
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxPcjg4enZQMHZLanlrenJNQVc4cHJINW5yU1BDQ1dEWnZKSzNvbnA5NGFtV2hKN2t3SVlFS3RYQnlrVnlDcmdjUEN2X1JxeVp5RUJQOXhwY3VPZ2drMmZhSTBpQjdZaHhTc1pnSXNsYTY5T0daTEQxX1FVMUZEY2RtM0RiZmRQeWM?oc=5>
+- 时间: 2026-06-30 16:07
+- 链接: <https://news.google.com/rss/articles/CBMipwFBVV95cUxNZng1Zjk4MU5QWnVQcWZ6WlJ4SWwxanVqNlpyb3BIXzRoR3FxMXpRVjM2bnB1UFpZMGwxRDFaZk94d3duZHNSa2tMUjA5bEtJT3pWWmZUSGV6b2Z1V0dLUUY2eGM1MVpzVnhnSHlmVHN6NUY0SVE0UXEyNXpkYVEwOThHdGl0V3YwVG9yX0xMa3lQTkpZNmFGN2gyY0w5bUl4MkppRk9mYw?oc=5>
 
 ### 美国最高法院驳回特朗普解雇美联储理事莉萨·库克的请求
 
@@ -29,20 +105,40 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-06-29 14:38
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZjhkejRkWXlydFhaeTNQV2RieXJaQTlZZEZDTFYxSllLdWU1bjh4VEZ5SFpfaEV4MDZqYk9DYVpHUkgxcW1JaGVhOWRiWURhMG9sb2tpY3FiYUV3RVRhaDYwSVN6dndBOUdMeXh4cS1sa1Faa1cxc2JPcU5jYmRxdVpWRFFRSExKWTR0SU4wSk82cmhNRFFvLURZZkhlanVTYlBtdDlnU0hCeHI3UGQtbTN5UXFlaXVaSnlVS3RDY3lLdHc2c0xoWUpQaFB0QmNFUWVGTGYxWkxJRU9CNkZN?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZm9qeGpWa3hFXzA4clFBc19sUmNKbVN6ejl1c3BZbHlOQ1Y5WkZQNkVqQ09nNTZEWDdSQnU0V0ktVnFZckNvcUM3MHFBSzExdDJFelVOWHozcU9oMTNVME9uNDFLYWRXQ3JXX3hZbEcyYXNHb1cyM1BXZ2EyYW5yREFIYUpxVXRwd1p3aG9lV1Bib2h3b2JOd2NVOVVSWWY5a3gtT2ViMkNwOTY5RTl5ekRqVXRRd055V0I4ZzN3Zi1iUWl6eWxHOU1yb0RBd0NoWmo4RF9wZGVHc1QzaXhB?oc=5>
 
-### 不得限制“出生公民权”！美最高法裁定特朗普限制“出生公民权”行政令无效
+### 突发：🇺🇸 唐纳德·特朗普总统表示，其持有超过$5,000万的比特币，存放于冷钱包中。
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 每日经济新闻
-- 时间: 2026-06-30 17:24
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBlVVhnTi1NODNzREt4a19sR0dOZEh4QUxyRlRNWmtkXzVmWW5ReFplejlpNW54ZGxRTl81WEJNekM2cjhMN3JoSnp6VTM5czJlMDJnaXp5bjljQjJITXc5dWw3N1IxZw?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-06-30 07:00
+- 链接: <https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNzZ5UGsyTjlYVlBSYTFUOUFibmxJSmhNZmhrU2tXX1NTZ1BoUVJab1pjUG5mdnVDMmlsY25YTUl2d2FscDhwU0xfWURtNDdqNnBYM3pQaU9VVndZbjA3NTMtaElGRDhGeVlnaTBTcmxWckJUMmw5X25FQUFSWF9YZHFPX1Q5UU9WdG1DMjBVWlRUMnhmQWN0WHA4QTAzRWJwVUtpZldjc29GaV8tQTdsaTFzUlJnbU56LU5uOXFaY3FPUQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-06-30 21:54  (17 条)
+
+- **周杰伦** | 中餐厅团建现身演唱会 周杰伦问昆凌表现 <https://k.sina.com.cn/article_7879776328_1d5abd84806801tpau.html>
+- **周杰伦** | 周杰伦演唱会彩排瘦回20年前_新闻 <https://k.sina.com.cn/article_7857201856_1d45362c001907lpfi.html>
+- **周杰伦** | 黄晓明现身演唱会,狂赞昆凌温柔完美,双标发言翻车惹怒大批网友 <https://k.sina.com.cn/article_7857201856_1d45362c001907lpcu.html>
+- **周杰伦** | 周杰伦2006广州动感地带演唱会 <https://k.sina.com.cn/article_7857201856_1d45362c001907loxw.html>
+- **周杰伦** | 周杰伦演唱会这次中餐厅团建有多少人到场？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801toxg.html>
+- **周杰伦** | 中餐厅团建空降周杰伦演唱会，王俊凯缺席引寻人 <https://k.sina.com.cn/article_7879776328_1d5abd84806801toxc.html>
+- **周杰伦** | 王俊凯为什么没来周杰伦这场演唱会？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801toga.html>
+- **周杰伦** | 周杰伦演唱会中餐厅再聚首！全网寻王俊凯 <https://k.sina.com.cn/article_7879776328_1d5abd84806801tofw.html>
+- **周杰伦** | 新浪演唱会热点小时报丨2026年07月01日04时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001907lmzs.html>
+- **周杰伦** | 黄晓明周杰伦演唱会发言具体说了什么涉及杨颖？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801tnzu.html>
+- **周杰伦** | 周杰伦北京演唱会2026：6位《中餐厅》成员跨界联动 一文看懂联动细节 <https://k.sina.com.cn/article_7879776328_1d5abd84806801tnt2.html>
+- **周杰伦** | 周杰伦北京演唱会现场怎么查到昆凌的岗？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801tno6.html>
+- **周杰伦** | 周杰伦北京演唱会惊现中餐厅团建！ <https://k.sina.com.cn/article_7879776328_1d5abd84806801tnny.html>
+- **周杰伦** | 新浪演唱会热点小时报丨2026年07月01日03时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001907lj30.html>
+- **特朗普** | 美最高法院裁定特朗普暂无法解雇美联储理事库克 <https://news.google.com/rss/articles/CBMipwFBVV95cUxNZng1Zjk4MU5QWnVQcWZ6WlJ4SWwxanVqNlpyb3BIXzRoR3FxMXpRVjM2bnB1UFpZMGwxRDFaZk94d3duZHNSa2tMUjA5bEtJT3pWWmZUSGV6b2Z1V0dLUUY2eGM1MVpzVnhnSHlmVHN6NUY0SVE0UXEyNXpkYVEwOThHdGl0V3YwVG9yX0xMa3lQTkpZNmFGN2gyY0w5bUl4MkppRk9mYw?oc=5>
+- **特朗普** | 美国最高法院驳回特朗普解雇美联储理事莉萨·库克的请求 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZm9qeGpWa3hFXzA4clFBc19sUmNKbVN6ejl1c3BZbHlOQ1Y5WkZQNkVqQ09nNTZEWDdSQnU0V0ktVnFZckNvcUM3MHFBSzExdDJFelVOWHozcU9oMTNVME9uNDFLYWRXQ3JXX3hZbEcyYXNHb1cyM1BXZ2EyYW5yREFIYUpxVXRwd1p3aG9lV1Bib2h3b2JOd2NVOVVSWWY5a3gtT2ViMkNwOTY5RTl5ekRqVXRRd055V0I4ZzN3Zi1iUWl6eWxHOU1yb0RBd0NoWmo4RF9wZGVHc1QzaXhB?oc=5>
+- **Trump** | 突发：🇺🇸 唐纳德·特朗普总统表示，其持有超过$5,000万的比特币，存放于冷钱包中。 <https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNzZ5UGsyTjlYVlBSYTFUOUFibmxJSmhNZmhrU2tXX1NTZ1BoUVJab1pjUG5mdnVDMmlsY25YTUl2d2FscDhwU0xfWURtNDdqNnBYM3pQaU9VVndZbjA3NTMtaElGRDhGeVlnaTBTcmxWckJUMmw5X25FQUFSWF9YZHFPX1Q5UU9WdG1DMjBVWlRUMnhmQWN0WHA4QTAzRWJwVUtpZldjc29GaV8tQTdsaTFzUlJnbU56LU5uOXFaY3FPUQ?oc=5>
 
 ### 2026-06-30 20:27  (4 条)
 
