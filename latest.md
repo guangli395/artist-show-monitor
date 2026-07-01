@@ -1,64 +1,117 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-01 21:58**
-- 本轮扫到 5575 条, 新增 **7** 条
+- 最近更新: **2026-07-01 23:17**
+- 本轮扫到 5587 条, 新增 **12** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (12 条)
 
-### 27岁歌手蔡徐坤珠海签售会150人80秒反向撒娇讨飞吻，为何能甜哭全网？
+### 蔡徐坤签售会偶遇视频真有400万点赞吗？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801ahue.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ub2q.html>
 
-### 周杰伦北京鸟巢演唱会 中餐厅全员团建看秀 合照为何引发全网热议
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801u22q.html>
-
-### 周杰伦北京演唱会中餐厅团建合照 8人组团观演怎么回事
+### 2026娱乐圈“富豪榜”周杰伦稳坐头把交椅，巡演“印钞”，约8成上市公司一年没他赚得多
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801u224.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907mx00.html>
 
-### 周杰伦鸟巢演唱会的其他精彩瞬间
+### 金曲奖扯掉周杰伦最后一块遮羞布,新专辑仅入围一项,评委回应了
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801u202.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907mwik.html>
 
-### 美伊间接会谈在多哈展开，特朗普总统称双方谈判人员进行了“非常好的会谈”
+### 华语乐坛天王周杰伦 6年没出新专辑是什么梗？为何引发全网争议
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801u2wg.html>
+
+### 周杰伦北京演唱会：中餐厅全员团建现场查岗昆凌
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801u2nw.html>
+
+### 特朗普又来：绝不让中国接管巴拿马运河-观察者网
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: guancha.cn
+- 时间: 2026-07-01 22:49
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9rVmpqUzJLc0I2WDdIbVRleVJZcjJUTkl5QlVlQTV2TmVQcFZyYnZxcVExd0xrX09ZSTdvdUJzNDFQMmlyQmhVN2R4dGdvZFRwUHJBZ0x2Z2VCWDQ0WkpFY0pWSHc4MVJZYlE?oc=5>
+
+### 赠票、颁奖、入驻特朗普大厦：国际足联主席与特朗普的“体育外交”面临质询
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-01 22:42
+- 链接: <https://news.google.com/rss/articles/CBMipwJBVV95cUxONHVBanNuZFZ1V0xoTEhHOUZTdFNoSVBOekJ1Z1RDZ2lCcFUwQ1pOeTdnLThZQmZwNWdnbjA5d0xjSnUxNjZqb2RPY1N0MHdVSmc5a0pvRHR0SW1oX1VuZnZNb3lXeno3UXZ1VElIUzR3UWMtdXlwNF90QWFxTzJVZ3ZiZFF4VnRpN01xOHRGUm9WdXE2NG80cFBlVDI3cHRyaHZTQS1SMF9oVGhOdVAwY2lMSXZCVlE2eDN2am5GX0dmNEdIMlFSLWZzR0VSSEJFTms5OXpNYkI3dUpERElmckk4NlQxd0lfSDRIblJGSU92ekg5MllvSXA1RjliTzZodVNMU2prcHJ1OEV6ZGlWbjVheEt2WGV3djdSOUw5blZvZlFmaHVJ?oc=5>
+
+### 特朗普总统称美伊间接会谈进展顺利
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 美国之音
-- 时间: 2026-07-01 16:15
-- 链接: <https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUjZwVklOcWliWnpVMHRXX1JGRHVtWGYtVDNUQnlPVzE2R2stQW53V0dDUUdwNjNlcGtpck0tcGNyTDFnYlZDYlVqb2x1bF9HWlc0bUd4S3pTYXpRZ0pqU3JWdjJENlJramR0ZDd2cUZsTmluU3k1QkxpZjJPZ19zbEE1cU1vTnViOEowXzFyOHI2cHBnQjZsUGo1M1JsZThMb3lha0lZREx5X1J4OVBaVHA2NDRPUmhpUnRtU3pTX2NYLUREM3p0bzBLYW5LSEVSTjRGU3VPTUlaZ9IB2gFBVV95cUxPUjZwVklOcWliWnpVMHRXX1JGRHVtWGYtVDNUQnlPVzE2R2stQW53V0dDUUdwNjNlcGtpck0tcGNyTDFnYlZDYlVqb2x1bF9HWlc0bUd4S3pTYXpRZ0pqU3JWdjJENlJramR0ZDd2cUZsTmluU3k1QkxpZjJPZ19zbEE1cU1vTnViOEowXzFyOHI2cHBnQjZsUGo1M1JsZThMb3lha0lZREx5X1J4OVBaVHA2NDRPUmhpUnRtU3pTX2NYLUREM3p0bzBLYW5LSEVSTjRGU3VPTUlaZw?oc=5>
+- 时间: 2026-07-01 22:53
+- 链接: <https://news.google.com/rss/articles/CBMi4wFBVV95cUxOVGZpVlYta3hmZEdrNDZ2WFBucG9iZnh5eXFfaDR6ancydHEzMURadkhiRjY0REQ1LXlmdXMxN19yc1NIOGE3Vzh4QU9EWGlyQVNMM3h5RG1zbE9jV3Izdmtxdm0zTmVBX3hMRF92dTBNd1lyT1k2Tm1XdU9iaXMwOFc0eXZsSHRXaGNHa1lPS0wxdHJDV3ZZa0ZrcFlOVUJaMi1QZ0ZjZmkxY1loMi1aRHdIRTdIOUpyUEJFNWFUcWdvMU42a3dSYjQxZXMxc1NWcU9UVmRscmxZV2QwYVNnaVJTZ9IB5gFBVV95cUxQaXI3QVU5SllkOVYwclpCZkxxS2oyanlRSmJ2M1lobVV3V2tTVnZPZDc0bjVzYi00ZGpCSm9EZ0VyZFk5a3h6dnM1d1F1Q2VTU3NGTFdRbkROdGYxdmlIRkNuWmVJUWFUY0x3M29QalEySWVPYzliSTdRazFjRFpiZ2J4c3l0bWkweGFyNXFSeEp4aFF2bDZjNWt3ZkhHLUExSnlWOHdEakV6RF9yX2V6Z3RiWnFrQU5OMjdFSWE4eTVKem9tZWhzekFFNHFhTjFoRG16V1pKUFFBWUNPZ0FlYjFRcXVLZw?oc=5>
 
-### $美光科技 (MU.US)$ 是不是trump call 华尔街发力了
+### 一年14亿美元，特朗普从加密货币中赚得盆满钵满-观察者网
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: guancha.cn
+- 时间: 2026-07-01 07:18
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE02UGVsV3VIOF9ENUNBbFdPajNBbk9VaHVqTUx0NTA4SDY5eU03WjhualVQM2R4ZElOWTROS0Z3NTNoRmVDVDJCRVMzUktFN2h3SGRnWnN2ODBhVWljNFFIaldFMUNfQU40Rmc?oc=5>
+
+### 2025年收入数十亿美元，特朗普称外部机构“运作我的钱”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-01 15:16
+- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdWtKN1hKOXc4X3plR2FYLXpJLUpzYTFEcEFtT3JMZ0lfS2dOLTFHazNrMlhfcGlBNzlaTGswNnlpMExQWTREemg3T0l3OTBXb0VkOHhBTFQ1Q3ltMTMyS1YtM2FWUG5HcG1MRGhIMENZbnFMd1llOVZadmlQTGNwVkxOVlJBUFpLZ3V4RE9ScE1iVXA4UHcwaWdJbjM5eE9Kek5xNks0YlBVd2Q2VGhiNHFlVnM1eDhHZXNWWWFtQTNiZEw4OElPVEZiVFhTTXdnSndhSThUaWVqS1JYX3c?oc=5>
+
+### 美最高法院驳回特朗普的限制“出生公民权”行政令
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-06-30 14:37
+- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxNeHBwU3ZRSFAtT3ZxWUVURVpyNE9IX1pkeTRzZlp5b2RuRXpSNGJJb3RLOHRqX3FfaHNGZGtNQXdrTmhURnltSnZ3TWc0a1Nid1RzMVpBU0ItdkFOUGc4MWZfQ29aWWNyYjdXRFc4WmdYLS1HcTNnUGVwOEpaYUhMVWlaMGloSmxiLU1BSUdURXlfVGNrZHF4WHExTlNDOVZQNUZ1dk9VTFVPOUtUVTV2R1JpSjhNSUJwMGtDR19HLVh2d2F1NlBZN0EwR1UtVkk?oc=5>
+
+### 外媒实测Trump Phone T1 软硬件均有明显短板
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-07-01 16:27
-- 链接: <https://news.google.com/rss/articles/CBMitAFBVV95cUxOYjZiUng1TVJEWEZYQnJ2VVdCOTlOYXMtdXI2V0tpcW5ya2NHTnp0NkxXRmhocWxsRXdHTldqaEJUMUUyZGZZVW82cXhVQnltN2h3bEVUcDE3Rm10b3V1VFpjTm50OXdEajlTeDFXdXNuOFlBbVRPZVJIbU52bGRPV0h4T0p0UHVUZkIxeFdTeHdEMVlOQmtGalc2Q2hsZVJab2FvaTdKeDdzeVVOZGdSd0ZBeHQ?oc=5>
-
-### 白宫成造富杠杆：特朗普一年实现巨额财富增长
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-07-01 09:00
-- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMTVNSEo3RWZaTjVfRmpHR09GMHMyT1pKaU1YNTRQMndUUUViYnJqVEVwRWpiUVhzcDJESjR0bG9KN3hUZ2szN1MwSE1pYjh2WVhRT3NWZ1ZPa1c5OUNURW90SlZST2R4OFhHbG5IamVTRXhfYjc0eFYtUVU5TTdSU0sxX3dmc1E2?oc=5>
+- 场馆: 腾讯新闻
+- 时间: 2026-06-28 04:43
+- 链接: <https://news.google.com/rss/articles/CBMiVkFVX3lxTE50OGltTm5MUXJqa3JFYkdacTJ3QlJVSjVUVW11TllNOVRwVm5FbWFsTVVxR2V6T2ZVbEVQN3hhU2YtUnB1MFdBMTAyZ20tSDVkU0FqbUVB?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-01 23:17  (12 条)
+
+- **蔡徐坤** | 蔡徐坤签售会偶遇视频真有400万点赞吗？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801ub2q.html>
+- **周杰伦** | 2026娱乐圈“富豪榜”周杰伦稳坐头把交椅，巡演“印钞”，约8成上市公司一年没他赚得多 <https://k.sina.com.cn/article_7857201856_1d45362c001907mx00.html>
+- **周杰伦** | 金曲奖扯掉周杰伦最后一块遮羞布,新专辑仅入围一项,评委回应了 <https://k.sina.com.cn/article_7857201856_1d45362c001907mwik.html>
+- **周杰伦** | 华语乐坛天王周杰伦 6年没出新专辑是什么梗？为何引发全网争议 <https://k.sina.com.cn/article_7879776328_1d5abd84806801u2wg.html>
+- **周杰伦** | 周杰伦北京演唱会：中餐厅全员团建现场查岗昆凌 <https://k.sina.com.cn/article_7879776328_1d5abd84806801u2nw.html>
+- **特朗普** | 特朗普又来：绝不让中国接管巴拿马运河-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE9rVmpqUzJLc0I2WDdIbVRleVJZcjJUTkl5QlVlQTV2TmVQcFZyYnZxcVExd0xrX09ZSTdvdUJzNDFQMmlyQmhVN2R4dGdvZFRwUHJBZ0x2Z2VCWDQ0WkpFY0pWSHc4MVJZYlE?oc=5>
+- **特朗普** | 赠票、颁奖、入驻特朗普大厦：国际足联主席与特朗普的“体育外交”面临质询 <https://news.google.com/rss/articles/CBMipwJBVV95cUxONHVBanNuZFZ1V0xoTEhHOUZTdFNoSVBOekJ1Z1RDZ2lCcFUwQ1pOeTdnLThZQmZwNWdnbjA5d0xjSnUxNjZqb2RPY1N0MHdVSmc5a0pvRHR0SW1oX1VuZnZNb3lXeno3UXZ1VElIUzR3UWMtdXlwNF90QWFxTzJVZ3ZiZFF4VnRpN01xOHRGUm9WdXE2NG80cFBlVDI3cHRyaHZTQS1SMF9oVGhOdVAwY2lMSXZCVlE2eDN2am5GX0dmNEdIMlFSLWZzR0VSSEJFTms5OXpNYkI3dUpERElmckk4NlQxd0lfSDRIblJGSU92ekg5MllvSXA1RjliTzZodVNMU2prcHJ1OEV6ZGlWbjVheEt2WGV3djdSOUw5blZvZlFmaHVJ?oc=5>
+- **特朗普** | 特朗普总统称美伊间接会谈进展顺利 <https://news.google.com/rss/articles/CBMi4wFBVV95cUxOVGZpVlYta3hmZEdrNDZ2WFBucG9iZnh5eXFfaDR6ancydHEzMURadkhiRjY0REQ1LXlmdXMxN19yc1NIOGE3Vzh4QU9EWGlyQVNMM3h5RG1zbE9jV3Izdmtxdm0zTmVBX3hMRF92dTBNd1lyT1k2Tm1XdU9iaXMwOFc0eXZsSHRXaGNHa1lPS0wxdHJDV3ZZa0ZrcFlOVUJaMi1QZ0ZjZmkxY1loMi1aRHdIRTdIOUpyUEJFNWFUcWdvMU42a3dSYjQxZXMxc1NWcU9UVmRscmxZV2QwYVNnaVJTZ9IB5gFBVV95cUxQaXI3QVU5SllkOVYwclpCZkxxS2oyanlRSmJ2M1lobVV3V2tTVnZPZDc0bjVzYi00ZGpCSm9EZ0VyZFk5a3h6dnM1d1F1Q2VTU3NGTFdRbkROdGYxdmlIRkNuWmVJUWFUY0x3M29QalEySWVPYzliSTdRazFjRFpiZ2J4c3l0bWkweGFyNXFSeEp4aFF2bDZjNWt3ZkhHLUExSnlWOHdEakV6RF9yX2V6Z3RiWnFrQU5OMjdFSWE4eTVKem9tZWhzekFFNHFhTjFoRG16V1pKUFFBWUNPZ0FlYjFRcXVLZw?oc=5>
+- **特朗普** | 一年14亿美元，特朗普从加密货币中赚得盆满钵满-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE02UGVsV3VIOF9ENUNBbFdPajNBbk9VaHVqTUx0NTA4SDY5eU03WjhualVQM2R4ZElOWTROS0Z3NTNoRmVDVDJCRVMzUktFN2h3SGRnWnN2ODBhVWljNFFIaldFMUNfQU40Rmc?oc=5>
+- **特朗普** | 2025年收入数十亿美元，特朗普称外部机构“运作我的钱” <https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdWtKN1hKOXc4X3plR2FYLXpJLUpzYTFEcEFtT3JMZ0lfS2dOLTFHazNrMlhfcGlBNzlaTGswNnlpMExQWTREemg3T0l3OTBXb0VkOHhBTFQ1Q3ltMTMyS1YtM2FWUG5HcG1MRGhIMENZbnFMd1llOVZadmlQTGNwVkxOVlJBUFpLZ3V4RE9ScE1iVXA4UHcwaWdJbjM5eE9Kek5xNks0YlBVd2Q2VGhiNHFlVnM1eDhHZXNWWWFtQTNiZEw4OElPVEZiVFhTTXdnSndhSThUaWVqS1JYX3c?oc=5>
+- **特朗普** | 美最高法院驳回特朗普的限制“出生公民权”行政令 <https://news.google.com/rss/articles/CBMizwFBVV95cUxNeHBwU3ZRSFAtT3ZxWUVURVpyNE9IX1pkeTRzZlp5b2RuRXpSNGJJb3RLOHRqX3FfaHNGZGtNQXdrTmhURnltSnZ3TWc0a1Nid1RzMVpBU0ItdkFOUGc4MWZfQ29aWWNyYjdXRFc4WmdYLS1HcTNnUGVwOEpaYUhMVWlaMGloSmxiLU1BSUdURXlfVGNrZHF4WHExTlNDOVZQNUZ1dk9VTFVPOUtUVTV2R1JpSjhNSUJwMGtDR19HLVh2d2F1NlBZN0EwR1UtVkk?oc=5>
+- **Trump** | 外媒实测Trump Phone T1 软硬件均有明显短板 <https://news.google.com/rss/articles/CBMiVkFVX3lxTE50OGltTm5MUXJqa3JFYkdacTJ3QlJVSjVUVW11TllNOVRwVm5FbWFsTVVxR2V6T2ZVbEVQN3hhU2YtUnB1MFdBMTAyZ20tSDVkU0FqbUVB?oc=5>
 
 ### 2026-07-01 21:58  (7 条)
 
