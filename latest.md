@@ -1,130 +1,123 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-01 10:27**
-- 本轮扫到 5518 条, 新增 **16** 条
+- 最近更新: **2026-07-01 13:16**
+- 本轮扫到 5530 条, 新增 **12** 条
 
 ---
 
-## 本轮新发现 (16 条)
+## 本轮新发现 (12 条)
 
-### 新浪演唱会热点小时报丨2026年07月01日18时_今日实时演唱会热点速递
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907mrsa.html>
-
-### 周杰伦鸟巢演唱会查岗昆凌，黄晓明盛赞天使羡慕周董
+### 新浪演唱会热点小时报丨2026年07月01日21时_今日实时演唱会热点速递
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201851_v1d45362bb06801eqfi.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907mxsc.html>
 
-### 你不会还没看过周杰伦的演唱会吧？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1738877650_m67a52ad203301aop4.html>
-
-### 46岁周杰伦演唱会完整版全网疯传，23年经典现场为何仍能引爆热搜？
+### 2025周杰伦南宁演唱会门票抢票攻略揭秘
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801ac2m.html>
+- 链接: <https://k.sina.com.cn/article_7857141524_1d452771401903sr94.html>
 
-### 46岁周杰伦《女儿殿下》MV为何让两女儿戴墨镜？两天油管破千万，宠女新歌引全网求露真容
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801ac2i.html>
-
-### 国内演唱会到底谁在操盘、谁在赚钱、谁在扛风险？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://finance.sina.com.cn/tech/roll/2026-07-01/doc-inifhvwq4224193.shtml>
-
-### 瞿颖现身周杰伦演唱会
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://video.sina.com.cn/p/finance/2026-07-01/detail-inifhvwq4162843.d.html>
-
-### 特朗普加密狂揽 14 亿，万斯首曝比特币持仓
+### 特朗普：普尔特将担任国家情报总监一两个月。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-01 10:13
-- 链接: <https://news.google.com/rss/articles/CBMivgFBVV95cUxOQTFMUlpEYW41a05qN1NybHd6V3ZqbmxUSFRMZTRYZjlQS3Rac0x6SE8xU25MYUNtd28wNEM1Vm8yZ01WM3R4cWFoWkpHOVRPM0pyLXZpU3laN2Z3YmhXTHJHWjlsM0pHTHI3NTNnWXlZTFJlTTJhdFhFYU0tWERraDFyNTBJaUluREtkZ3NGcGFaS2l4ZENHaVZ5Wmo5c09vNl9vdUZDbWNFQVZlaGJaWktrRzZqRXhaaWwzZ1JR?oc=5>
+- 时间: 2026-07-01 12:40
+- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTFBzQ1JWenE4S3pMTDQyR2dtMzBCVmZ0MVlRdldvNGY0cDQ1X3lKZV9VU2k4SGFLZUs2aURMSDNES0t2Uk5KMWtwaUwtdzlueFU?oc=5>
 
-### 特朗普将首次乘坐卡塔尔赠送的“空军一号”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-07-01 10:07
-- 链接: <https://news.google.com/rss/articles/CBMimgFBVV95cUxNblp6aGtncV9XNEpyX21Gc2J3TTBLbzJvQUdIVVhoSzhxdVNGVnYzakRYSG5OYnlWaU1pWjQwMnhoRUlHeVVTSlNLdE9adEtzRUtraDVaYjhaMHllRUZuaDh2eVZBWVBmWjFnNXZ0eTF4aWc2b0Q1N0g3a2N3V2gta2tDR2V4RG8zNkZSUDhQT0lPQmx6dVppMmZR?oc=5>
-
-### 一年14亿美元，特朗普从加密货币中赚得盆满钵满
+### 美国总统特朗普：美国目前与伊朗“处得很好” 会谈“进展顺利”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-01 08:39
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxQYmxURDZ1YTNhejJEXzlEdHd6WkhnQnIwa3NXWjVlWEtRQnFPOTJ6c2oxWXhoUURzNEpXT1daaEp5WFhYa1huV0hyNEpmLVA4SFlJakJlWEhMUE9URXo3dk0zRWpQME1JR3dfc001dUZoWURNRm1yY2VQcndGS0hQS0VRVmtnRHZXcDdnZWt1dk9rbTJ3aWlCRw?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-07-01 13:04
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1Ja2xlM05MN2FuQlZnSjc3R0lCQ3NIVE9fYWk5QnBSTW1pdWxIRk5UQTZGeG1nLXJrZFRaZ2ZsTHZnam5YeW5LQVA3aEQtRnZhcUNZdlNLMW5Zb3JYQlRmZVVwSm1DU1dHbXhKRG1Pbmc?oc=5>
 
-### 特朗普在最高法院输了，为什么又扯上中国？
+### 特朗普称美伊处得很好
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-07-01 00:17
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9HRkRrWTlSTjQ5NVFrcXBnc2ZHcGI1WjgwUHJYMG9laUN1YUxHc3Z5MHZLYVNwdnFCRS03SFQ3dEU2V3pnd3BXeGQ4UmI?oc=5>
+- 时间: 2026-07-01 13:00
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBub2phRzJHc01fTHc3MndweGtydWcyc09tZVUya0I4Qm5kYTVlMzEtNWstdkdSdzFzYXdBU1Iwbk84eGNIcEwtYm1uYm8?oc=5>
 
-### 最高法院在历史性开庭期内如何与特朗普展开权力周旋
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-07-01 09:01
-- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxPTHpicjBUREc4dzlpNXRyWVBZUjE3cjZ2UWpFd0g1S3lwYlFkeGxKZXluUVZxVFJKeU00dHJRUzRJWWpiRUNfNzIzSTVad0RzQlFWZUtTMTgwNWRlS0tnbmdBeENfU0F4bUt2NFZZNlZxQU1qZVhLcFJ5dk9QNWlwVXo3OGlodVZEcDNxcG16ck1MVERU?oc=5>
-
-### 奥巴马：特朗普政府花费数千亿美元打了一仗，可现实“像是回到战前原点”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 21财经
-- 时间: 2026-07-01 07:19
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxNZU9nQ1F3VmpsTWprSllhZkpabXpRZEU2MlZyVE5qQWZGVWdrWWpvZktnakt2dFB5alh3VDN6cUVORW5tei0teVBzMmZlN0lDSE5LakJ1WjdrZW5EYXNWekxwTWp4NFhROWM1b0RkWV9OaW12X0RBLVZVRUNZMmxZazZ0XzFUTk9tS251cQ?oc=5>
-
-### 美伊和谈前景不明！特朗普坚称今日举行会谈 伊方连连否认
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-06-29 09:04
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTFBTUThHZ0tUU2xUdi01NTNlbHEyM1FnUklRRlZKUUFOekpoS2dhc19rRVhMMDdEd2tWUWhJU3MtUVZZeXZINVNPNg?oc=5>
-
-### 美国原油价格站稳70美元上方，特朗普与伊朗就卡塔尔谈判释放矛盾信号
+### 特朗普：伊朗已经取得了长足的进步。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-30 10:36
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNzBPaGE3QnJWUEZyaWxsX2lmOFFJVmJWMUFBOWR3VzdNcFlQT3JNekdtb2VtNDBiRGVrcnpKQjkzUEJXWXg1YlJHRUNrb1Z5TjJTMURwSnZDTndLUUdqVERhdUVlbjlsLWhUSTZqZ2IzYlpHX2h1UUM2RWFUWnNCQ2cwdFlvczZPc3hQZTg2WkZDUFpTRVVhbHdKQm03YUVVdmhwaXJYVW8yLWVacnRCVjE3cWN3TlhmVU9paGRocUo1SC1UbTlTX0ZZRXN0LVhBVUcwX2tCTVVLOXRuU2ZF?oc=5>
+- 时间: 2026-07-01 12:42
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9TOVpEb0ZndGF4Y1FRLWV6S3gwN1BfR3JKQWhQaExkenJRNlktOTkzM3ZDaU9lRUpXclVSN2l0Z2RGWDNWMko0Z3MwVQ?oc=5>
 
-### 共和党首次召开中期选举大会 特朗普拟演讲动员支持者投票
+### “为美国庆生？不了，我在哀悼”-观察者网
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-07-01 10:02
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9JOHhJWTREVk9HUndpVUM3S2tDTHJPbnJBREs0dkVyVFE3VnpHMGdDZktvcVk1bDBNLVVkRU5adkpRVjRYRGZrMXMzR3J1THFzN2pSRHFUUm1jWk5YMnN1Qmw0T3JGQlBFbFE?oc=5>
+- 场馆: 观察者
+- 时间: 2026-07-01 10:14
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE0yR0t3WWVjdzJfazhCN2FDelVBS1JaMGs1SHNWQllKbnlSRmtDX09rNlllWGFrZ0x6R2RLdlQ5d21yM1J2MEdmS3RscmpfQzlDVzdZNnM1NVhPa043cU8xc0lvamlaQklnREE?oc=5>
+
+### 沃什说服了特朗普先不降息？专访欧洲经济学家米霍夫
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 搜狐网
+- 时间: 2026-07-01 09:43
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZEcwNWxlaVNBR3hSZ2UzZ2phTmlsZjV1WkFRQV9TbGZGTElsbnctZWhNVF8zdnppYm50ZU1IRDZUcEVjSjdqY3Q1clo1TXQ2WW5uYmtobzBfekwwa1dUZVh0ZENITC1KRGdIV2ZjbDZzRklTczRRRkVLUlZoTlhDV0pjalkxSnJ0?oc=5>
+
+### 遭特朗普讽刺后，英首相最热人选拒绝美国邀请
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 文学城
+- 时间: 2026-06-30 07:54
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE12Ml9xbVFRS25RT0RzcnZ0UXpLb1VqYmgyUGktNHFYSVQ5U3ltdjJmQUhvQ0MyV1RYaUhTaEF4d0JGRlNtSkN4NFVyZmxncUpFNTdVZVBMSDdNeHR5c0l2eWlTTkphdW9t?oc=5>
+
+### 美媒：特朗普听取对伊全面作战方案，但决定继续谈判
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: chinanews.com.cn
+- 时间: 2026-07-01 06:49
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3WnA1eDJocUtRRFVPUE1EQnlIRUJ5RmdBLTFJVmR0azhXY2N0S2hLLTNkaGJCNmVCd29zd1h4M1NZWUNtU0k1WlZSTzNkcGZTMi0zS2M4LWV5emxhT2NrTzBNWEE3R0p6?oc=5>
+
+### 特朗普加密币赚逾10亿美元，他还有哪些额外收入
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 文学城
+- 时间: 2026-07-01 07:55
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1acWJzLVNtZk9RVUF0VS1pa2dZSXhDTUFoWXJVVnVYT09SSkF4LUxzRl9UYjFUOFdzUFhUQUktV2VnRks3RVBkc1p5R0Z3bktuRjQ1RHZacFFibVN5X1pUR29VcVNHUzJ5?oc=5>
+
+### 白宫成造富杠杆，特朗普1年实现巨额财富增长
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-07-01 12:14
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFAzcHBZS04wNHpsZ25qeGh4QjdlcHBRcW11eEVqdDZ3WkNGcWdOMmJ6alBxWDRBUDN0elVkNFdTY3d5TFJmeEY4dnJsLWs?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-01 13:16  (12 条)
+
+- **周杰伦** | 新浪演唱会热点小时报丨2026年07月01日21时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001907mxsc.html>
+- **周杰伦** | 2025周杰伦南宁演唱会门票抢票攻略揭秘 <https://k.sina.com.cn/article_7857141524_1d452771401903sr94.html>
+- **特朗普** | 特朗普：普尔特将担任国家情报总监一两个月。 <https://news.google.com/rss/articles/CBMiT0FVX3lxTFBzQ1JWenE4S3pMTDQyR2dtMzBCVmZ0MVlRdldvNGY0cDQ1X3lKZV9VU2k4SGFLZUs2aURMSDNES0t2Uk5KMWtwaUwtdzlueFU?oc=5>
+- **特朗普** | 美国总统特朗普：美国目前与伊朗“处得很好” 会谈“进展顺利” <https://news.google.com/rss/articles/CBMicEFVX3lxTE1Ja2xlM05MN2FuQlZnSjc3R0lCQ3NIVE9fYWk5QnBSTW1pdWxIRk5UQTZGeG1nLXJrZFRaZ2ZsTHZnam5YeW5LQVA3aEQtRnZhcUNZdlNLMW5Zb3JYQlRmZVVwSm1DU1dHbXhKRG1Pbmc?oc=5>
+- **特朗普** | 特朗普称美伊处得很好 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBub2phRzJHc01fTHc3MndweGtydWcyc09tZVUya0I4Qm5kYTVlMzEtNWstdkdSdzFzYXdBU1Iwbk84eGNIcEwtYm1uYm8?oc=5>
+- **特朗普** | 特朗普：伊朗已经取得了长足的进步。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9TOVpEb0ZndGF4Y1FRLWV6S3gwN1BfR3JKQWhQaExkenJRNlktOTkzM3ZDaU9lRUpXclVSN2l0Z2RGWDNWMko0Z3MwVQ?oc=5>
+- **特朗普** | “为美国庆生？不了，我在哀悼”-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE0yR0t3WWVjdzJfazhCN2FDelVBS1JaMGs1SHNWQllKbnlSRmtDX09rNlllWGFrZ0x6R2RLdlQ5d21yM1J2MEdmS3RscmpfQzlDVzdZNnM1NVhPa043cU8xc0lvamlaQklnREE?oc=5>
+- **特朗普** | 沃什说服了特朗普先不降息？专访欧洲经济学家米霍夫 <https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZEcwNWxlaVNBR3hSZ2UzZ2phTmlsZjV1WkFRQV9TbGZGTElsbnctZWhNVF8zdnppYm50ZU1IRDZUcEVjSjdqY3Q1clo1TXQ2WW5uYmtobzBfekwwa1dUZVh0ZENITC1KRGdIV2ZjbDZzRklTczRRRkVLUlZoTlhDV0pjalkxSnJ0?oc=5>
+- **特朗普** | 遭特朗普讽刺后，英首相最热人选拒绝美国邀请 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE12Ml9xbVFRS25RT0RzcnZ0UXpLb1VqYmgyUGktNHFYSVQ5U3ltdjJmQUhvQ0MyV1RYaUhTaEF4d0JGRlNtSkN4NFVyZmxncUpFNTdVZVBMSDdNeHR5c0l2eWlTTkphdW9t?oc=5>
+- **特朗普** | 美媒：特朗普听取对伊全面作战方案，但决定继续谈判 <https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3WnA1eDJocUtRRFVPUE1EQnlIRUJ5RmdBLTFJVmR0azhXY2N0S2hLLTNkaGJCNmVCd29zd1h4M1NZWUNtU0k1WlZSTzNkcGZTMi0zS2M4LWV5emxhT2NrTzBNWEE3R0p6?oc=5>
+- **Trump** | 特朗普加密币赚逾10亿美元，他还有哪些额外收入 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1acWJzLVNtZk9RVUF0VS1pa2dZSXhDTUFoWXJVVnVYT09SSkF4LUxzRl9UYjFUOFdzUFhUQUktV2VnRks3RVBkc1p5R0Z3bktuRjQ1RHZacFFibVN5X1pUR29VcVNHUzJ5?oc=5>
+- **Trump** | 白宫成造富杠杆，特朗普1年实现巨额财富增长 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFAzcHBZS04wNHpsZ25qeGh4QjdlcHBRcW11eEVqdDZ3WkNGcWdOMmJ6alBxWDRBUDN0elVkNFdTY3d5TFJmeEY4dnJsLWs?oc=5>
 
 ### 2026-07-01 10:27  (16 条)
 
