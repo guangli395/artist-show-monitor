@@ -1,158 +1,67 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-01 18:22**
-- 本轮扫到 5562 条, 新增 **21** 条
+- 最近更新: **2026-07-01 20:21**
+- 本轮扫到 5568 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (21 条)
+## 本轮新发现 (6 条)
 
-### 蔡徐坤签售会引爆下沉市场人气
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7096020439_1a6f4add706801sike.html>
-
-### 签售会爆火后，蔡徐坤下沉市场人气彻底出圈
+### 蔡徐坤接下来还会开更多线下签售会吗？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801u632.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801u7sm.html>
 
-### 蔡徐坤线下签售会粉丝激动落泪
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924004_m1d5ae1924033021f7k.html>
-
-### 蔡徐坤海外巡演门票卖得怎么样？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801u60a.html>
-
-### 蔡徐坤新专辑销量真的破了五千万张吗？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801u5zw.html>
-
-### 蔡徐坤这次签售会涨粉十几万是真的吗？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801u5z4.html>
-
-### 17岁童星艾米人生第一场演唱会锁定周杰伦鸟巢场，为何说这是「顶配青春仪式感」？
+### 28岁演员丁禹兮首场演唱会，60万人抢2.2万张票为何手速再快也难抢？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801aiua.html>
+- 链接: <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801ak5s.html>
 
-### 新浪演唱会热点小时报丨2026年07月02日01时_今日实时演唱会热点速递
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907n3tu.html>
-
-### 中餐厅为什么会选择去周杰伦演唱会团建？
+### 新浪演唱会热点小时报丨2026年07月02日03时_今日实时演唱会热点速递
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801u606.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907n8cy.html>
 
-### 为什么王俊凯没出现在周杰伦演唱会团建合照里？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801u5zu.html>
-
-### 周杰伦演唱会偶遇中餐厅团建！同框合照太惊喜
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801u604.html>
-
-### 华语歌手周杰伦演唱会中餐厅团建 网传11亿拉动效应怎么回事
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801tzlc.html>
-
-### 周杰伦鸟巢演唱会的门票价格是多少？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801tzfg.html>
-
-### 特朗普称美伊在卡塔尔的会谈进展顺利
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-07-01 14:52
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE5fUGhmTGtIaFQ1eC1TbE9oTUtaYWVLWDFhREZiclJTNVByQVpwaEVfZGNxMXY1akljMjhsX1NJXzM5Smg5TGRiSjVEa0pPcFAxMUllVVNya1dScXMxSVlBQ20tZXpSamdpRGpqTVdkVWQxcVdQUTdITE9Db0RxTFU?oc=5>
-
-### 美伊间接会谈在多哈展开，特朗普总统称双方谈判人员进行了“非常好的会谈”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-07-01 16:15
-- 链接: <https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZy1NeXFtRkNiaHFTeXgzamRTWGljZHRlaXVUNGtqYzh4dVpRLVQ0YngyaHMtTUl1MjR5OVFJNDJYNVc4YUVHejBoTGRrdnhOMXJjRmJTc3BIVi1VbllKZXphTkpHUWR4M0x6S1FwekVsSmIzNUNab042WDlXM0kwMlItdE5FYWtjZHFBTXVnbHhVdFlCQkRaZnlLVEhjcElDbVhOeVQyQ3c2RVBxY29hazRiNGFkOVFBdHVxSmNLOU1fNkQtanVMUFFLaHBOaVNST2MwT2VjONIB2gFBVV95cUxPUjZwVklOcWliWnpVMHRXX1JGRHVtWGYtVDNUQnlPVzE2R2stQW53V0dDUUdwNjNlcGtpck0tcGNyTDFnYlZDYlVqb2x1bF9HWlc0bUd4S3pTYXpRZ0pqU3JWdjJENlJramR0ZDd2cUZsTmluU3k1QkxpZjJPZ19zbEE1cU1vTnViOEowXzFyOHI2cHBnQjZsUGo1M1JsZThMb3lha0lZREx5X1J4OVBaVHA2NDRPUmhpUnRtU3pTX2NYLUREM3p0bzBLYW5LSEVSTjRGU3VPTUlaZw?oc=5>
-
-### 白宫不装了，承认伊朗拒绝谈判，特朗普准备“释放地狱”！#烽火问鼎计划##视频黑马扶持计划##微博视频号迎新计划# ​
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-07-01 18:17
-- 链接: <https://news.google.com/rss/articles/CBMi7wFBVV95cUxQLWttaXFRRl8xd3h1U0xFZDVXcTJZWVdCUjlFMElQdmhTZWZhSE81SnB1NDhHdjNyc2tvMVBnZF9qaEdHbDh0Sk9rajFGVVlCLWFaWDF2VlBZUW1ycXBGak10V2I4T1U3SlZiN1lGMjJjVk5fMDhOblJTSDAtRjEtTjdEd3lSN3FIUU9pdnRYVzdxQUdod1NBNFNOUXdYaExqSjUwSGdBUDRkdE53amRFamowNHBCZndlMkQ4YV84REJPTVE0TmZfZG9jTlBjbzlGMVpQRl9jQ0tVeENhenpMZ2gybUQwRjRXVU5ZN21hWQ?oc=5>
-
-### 一年14亿美元，特朗普从加密货币中赚得盆满钵满
+### 牛弹琴：一觉醒来，特朗普气炸了，中国又躺枪
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-01 11:14
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxPTm5JOF9jRzhlcXlwYmNLY2tLaGpNUmlFTVdRS3YyeHBpRWNpSnFXSDlxSFJhaE1Zd3I4V3FGZDkxc3Y4cGV5bGRPYl84ejFWb0R4NWlKVU41TGNiMFhucEoyTkxfbDNtQzhRTUgwRk81YmR3dEJlamlwWTI1d2doS1ZiTVMtZG5PcnFwN0RpQXdta2tDcWJwMQ?oc=5>
+- 时间: 2026-06-30 23:13
+- 链接: <https://news.google.com/rss/articles/CBMizAFBVV95cUxQbldGTnd6Yk1SMTlQMmRWSGhNakFyVE5DWVduc1NzSFptMEhKMlU5eWY2aU9fdHpVZi1tS3Fqcms2UXhONVpENkpwaG8zZTdPLVQyY2x2bnQwX1YxbS1rY2ktbVZoRm9KbERFN09fOS1KejVLQl9Kb1pJd0FWM01lNDl1cmU4TEJTRDZsMlpNMVYtcUVmZUpxYnRIVW9BeUxVZUhzZ1VnWW1JMnM5SmxubS1lS2ZiemhXNFVfeWstRUJmNnhlbVZYOFRSTEc?oc=5>
 
-### 特朗普去年靠加密货币赚了10多亿美元-观察者网
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: guancha.cn
-- 时间: 2026-06-30 23:04
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE40elhobE9rUGY4Yk9feE9yUmdaRFlPN3BYTUp5VEdvMXpuSUhXNUZlc3QxZHJ3QVZxS0pVZ1RHRklJUGtheWg4ZEg5VTZZQkJCSDd2ZkdtSUhubzM0X0hFVXlvdmRWRC13SWc?oc=5>
-
-### 《Y.M.C.A.》乐队主唱离世，特朗普悼念-观察者网
+### 美最高法院驳回特朗普限制“出生公民权”行政令
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: guancha.cn
-- 时间: 2026-07-01 13:32
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9HWV9jSVk5aGlNVUx5bEpzV1I5a24tUDc2ZGhTOXVRVVMycUEwcnAwSmt0SHdqMUQ2MkQ4YWdiSHVkRTJhbWFTWEtGekFXdnFUZXpteUJ0RHFQbE9LMHBjZXJLYmt4SGE0bHc?oc=5>
+- 场馆: 中国日报网
+- 时间: 2026-07-01 12:16
+- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTE9NMzVfM3JpZUJmM3JlcFhiRG9RVDNOcVVoZDJ2ZWFJWTZKSm9JS3Z3eHNUeE1KczZWRXFjakQxbDRobVVaanpkMkp0M3JaLWFCNEQ3NUZwUll6U29tUGdWNHF0Y3U1cDQ0LWJEc0NTXzJxbDB0VDlSbFl2OA?oc=5>
 
-### “沉重失败！”特朗普又被美最高法否了-观察者网
+### 1000美元变1300万美元！？特朗普"儿童投资账户"正式启动，美光率先豪掷2.5亿美元
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: guancha.cn
-- 时间: 2026-06-30 22:35
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5nQXltcWpxMEFzQldxVWdydW84VFJFOWFWTENKMWlpZmVsSjF3em9YUlNRMjRUMTcxQkIyWHgzalJ2cXY0ZjluNEJPaWZ1VEE3cnhnSDFHMFVPVFJRUnBPVmx3SEM1MkFCVVE?oc=5>
-
-### 欧洲专家：沃什说服特朗普先不降息 通胀成关键考虑
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-07-01 15:11
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5hZEhfaGxFTzJma1pzUVJXTVYyWFkxUnBQVDJJWmMyaldTMjA1ZE1odUJTSE5YTXBPMnBYZXhpLVZDcXFYNzBZWGpBZnp5MVp4a1owRl9lNlVkU0ozVThjUmMwbUM4ak5vSlRaVUJJakU?oc=5>
+- 场馆: FX168财经
+- 时间: 2026-07-01 19:26
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBNT1pad2ZGOGNSOUctcUlfeFBoM3I3Mjd1UHNHakN5SERLQ0Z6a1Z2RXVBd2dYUDdZZlpLMWpKYXZpaVNRNDBYdGlDZHhqcXlXeExxX05vd3ZaYnJpeW9Xb1JnMk9SLVNHdTFBVFA4cUVrOWYyZUVjNw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-01 20:21  (6 条)
+
+- **蔡徐坤** | 蔡徐坤接下来还会开更多线下签售会吗？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801u7sm.html>
+- **周杰伦** | 28岁演员丁禹兮首场演唱会，60万人抢2.2万张票为何手速再快也难抢？ <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801ak5s.html>
+- **周杰伦** | 新浪演唱会热点小时报丨2026年07月02日03时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001907n8cy.html>
+- **特朗普** | 牛弹琴：一觉醒来，特朗普气炸了，中国又躺枪 <https://news.google.com/rss/articles/CBMizAFBVV95cUxQbldGTnd6Yk1SMTlQMmRWSGhNakFyVE5DWVduc1NzSFptMEhKMlU5eWY2aU9fdHpVZi1tS3Fqcms2UXhONVpENkpwaG8zZTdPLVQyY2x2bnQwX1YxbS1rY2ktbVZoRm9KbERFN09fOS1KejVLQl9Kb1pJd0FWM01lNDl1cmU4TEJTRDZsMlpNMVYtcUVmZUpxYnRIVW9BeUxVZUhzZ1VnWW1JMnM5SmxubS1lS2ZiemhXNFVfeWstRUJmNnhlbVZYOFRSTEc?oc=5>
+- **特朗普** | 美最高法院驳回特朗普限制“出生公民权”行政令 <https://news.google.com/rss/articles/CBMie0FVX3lxTE9NMzVfM3JpZUJmM3JlcFhiRG9RVDNOcVVoZDJ2ZWFJWTZKSm9JS3Z3eHNUeE1KczZWRXFjakQxbDRobVVaanpkMkp0M3JaLWFCNEQ3NUZwUll6U29tUGdWNHF0Y3U1cDQ0LWJEc0NTXzJxbDB0VDlSbFl2OA?oc=5>
+- **Trump** | 1000美元变1300万美元！？特朗普"儿童投资账户"正式启动，美光率先豪掷2.5亿美元 <https://news.google.com/rss/articles/CBMieEFVX3lxTFBNT1pad2ZGOGNSOUctcUlfeFBoM3I3Mjd1UHNHakN5SERLQ0Z6a1Z2RXVBd2dYUDdZZlpLMWpKYXZpaVNRNDBYdGlDZHhqcXlXeExxX05vd3ZaYnJpeW9Xb1JnMk9SLVNHdTFBVFA4cUVrOWYyZUVjNw?oc=5>
 
 ### 2026-07-01 18:22  (21 条)
 
