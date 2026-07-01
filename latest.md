@@ -1,108 +1,116 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-01 13:16**
-- 本轮扫到 5530 条, 新增 **12** 条
+- 最近更新: **2026-07-01 16:03**
+- 本轮扫到 5541 条, 新增 **11** 条
 
 ---
 
-## 本轮新发现 (12 条)
+## 本轮新发现 (11 条)
 
-### 新浪演唱会热点小时报丨2026年07月01日21时_今日实时演唱会热点速递
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907mxsc.html>
-
-### 2025周杰伦南宁演唱会门票抢票攻略揭秘
+### 新浪演唱会热点小时报丨2026年07月01日22时_今日实时演唱会热点速递
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857141524_1d452771401903sr94.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907mza8.html>
 
-### 特朗普：普尔特将担任国家情报总监一两个月。
+### 特朗普总统首搭新“空军一号”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-07-01 15:48
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxPRUFFTHdkSnN5YW9FN2VLSnpvNnBLWGlHN0gxSnhyYVh1ckQ2cUszaHRPRTlEQW91T2d6LU9JWmtJa3lsUlBwQk1DcS1CVFdpODFvbVRnWlRBeW9EVnRpVDl1R3phZWZSSjlKTVJ6VVM3T1duX0FKTU1SX2ZiU2pfc0JDZ09ITFNySFZPZdIBjwFBVV95cUxPS0RQakQwRENFQzZLdVNMWkJaYWdud3BrWThsRENkQVdKTmxlQlQtVzM2VlMxME0xWGl6VXQ1cWNyYWtTdko4a2txRHNIeXNXUUR6eGZCS20tYmdoR3ZIV04zRWZpUjJvRVRJenhrWmxwV1ZqSXB3YVN6MmZkNmRvWWhEVHZsNzAyZmdTNkthWQ?oc=5>
+
+### 伊朗：特朗普已承诺约束其“宠物”，如果以色列无视“主人”，伊朗将出手教训
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-01 12:40
-- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTFBzQ1JWenE4S3pMTDQyR2dtMzBCVmZ0MVlRdldvNGY0cDQ1X3lKZV9VU2k4SGFLZUs2aURMSDNES0t2Uk5KMWtwaUwtdzlueFU?oc=5>
+- 时间: 2026-07-01 11:39
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE9YZ3VBX0pCOGh1UmhLWk5ZOXBBTmFaTVJsREkwckpmSWY5MlMwbHVmUkZULXpUZ1JJYk9XYzUyQzFmQ21pRk5td0ZfOURQN2hubjhUQUtVVEg3NUNybG01ek1nRHl5azNrV2pRQ2k2UUQwMXlSaGc?oc=5>
 
-### 美国总统特朗普：美国目前与伊朗“处得很好” 会谈“进展顺利”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-07-01 13:04
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1Ja2xlM05MN2FuQlZnSjc3R0lCQ3NIVE9fYWk5QnBSTW1pdWxIRk5UQTZGeG1nLXJrZFRaZ2ZsTHZnam5YeW5LQVA3aEQtRnZhcUNZdlNLMW5Zb3JYQlRmZVVwSm1DU1dHbXhKRG1Pbmc?oc=5>
-
-### 特朗普称美伊处得很好
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-01 13:00
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBub2phRzJHc01fTHc3MndweGtydWcyc09tZVUya0I4Qm5kYTVlMzEtNWstdkdSdzFzYXdBU1Iwbk84eGNIcEwtYm1uYm8?oc=5>
-
-### 特朗普：伊朗已经取得了长足的进步。
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-01 12:42
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9TOVpEb0ZndGF4Y1FRLWV6S3gwN1BfR3JKQWhQaExkenJRNlktOTkzM3ZDaU9lRUpXclVSN2l0Z2RGWDNWMko0Z3MwVQ?oc=5>
-
-### “为美国庆生？不了，我在哀悼”-观察者网
+### 奥巴马：特朗普打了个寂寞-观察者网
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 观察者
-- 时间: 2026-07-01 10:14
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE0yR0t3WWVjdzJfazhCN2FDelVBS1JaMGs1SHNWQllKbnlSRmtDX09rNlllWGFrZ0x6R2RLdlQ5d21yM1J2MEdmS3RscmpfQzlDVzdZNnM1NVhPa043cU8xc0lvamlaQklnREE?oc=5>
+- 时间: 2026-07-01 14:21
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9mQUxwS2JBUXc1U3pxUFJFMEFpQ0ctNkg0WTZ2eENhTTE4MHFIQUVvV19jbGJXM3ZzQmsybmJZdG5MRUN2TnE0a2wyeWlnTWwwLTVYdlFwdWdQeEVoNHAzSW9oM1VzMFpVSEE?oc=5>
 
-### 沃什说服了特朗普先不降息？专访欧洲经济学家米霍夫
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-07-01 09:43
-- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZEcwNWxlaVNBR3hSZ2UzZ2phTmlsZjV1WkFRQV9TbGZGTElsbnctZWhNVF8zdnppYm50ZU1IRDZUcEVjSjdqY3Q1clo1TXQ2WW5uYmtobzBfekwwa1dUZVh0ZENITC1KRGdIV2ZjbDZzRklTczRRRkVLUlZoTlhDV0pjalkxSnJ0?oc=5>
-
-### 遭特朗普讽刺后，英首相最热人选拒绝美国邀请
+### 牛弹琴：一觉醒来，特朗普气炸了，中国又躺枪
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 文学城
-- 时间: 2026-06-30 07:54
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE12Ml9xbVFRS25RT0RzcnZ0UXpLb1VqYmgyUGktNHFYSVQ5U3ltdjJmQUhvQ0MyV1RYaUhTaEF4d0JGRlNtSkN4NFVyZmxncUpFNTdVZVBMSDdNeHR5c0l2eWlTTkphdW9t?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-06-30 23:13
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRHdTVndQS3Y2SzZUNS14R1FvQnpzWXQzUGtMMFdHR3FuODVwakRFVXJZVmM5Q1ZYbnh1WGhBWEcxcWM4MGdnczJiaEpGS3FyckhubjRoM0ZRTXlkTnZyeUhmVW9nNHh6ODFRVjZnVFY5bnRWckp0LUtaMmpSTlV6SXhZLVNObHNE?oc=5>
 
-### 美媒：特朗普听取对伊全面作战方案，但决定继续谈判
+### 美国最高法院驳回特朗普解雇美联储理事莉萨·库克的请求
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-07-01 06:49
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3WnA1eDJocUtRRFVPUE1EQnlIRUJ5RmdBLTFJVmR0azhXY2N0S2hLLTNkaGJCNmVCd29zd1h4M1NZWUNtU0k1WlZSTzNkcGZTMi0zS2M4LWV5emxhT2NrTzBNWEE3R0p6?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-06-29 14:38
+- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMEd3V1NnOFhkVkRlbkp4dzZlTUo5dk4zQlVEUFpidi1TZjZZNHI4YWowNUhmNWdMaHVYVXNkU2RXSFVZOWQzczhYNk9oY3FtYkxVcUg3QlU4a0lJODhubUJXb2gyRGNFTGRJckdLZW1FNkcyQVFaaUVrSTRIWDkzV19MUE5nSHJzMjl0dV9HanhIaV9PTjRSWnpvMkMxdGVvamV2cFpIV1VsZ2lqcVpkTUlWdTZ5M0RkZkppOXpteWw5X09uaUswRzNSd19qaGF3QWtsV2tWTFdvcUFxb1E?oc=5>
 
-### 特朗普加密币赚逾10亿美元，他还有哪些额外收入
+### 一觉醒来，特朗普气炸了，中国又躺枪
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-07-01 00:33
+- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxOUzJvV1I4WmFyN2xEaFMtZnc4YVZlMXUzcl9MQVlBNUhPS243X3k0dUhpY1BEWWhTMWZ6OFZzcGdxY0p0aGVRc0xJNjZZcHhBMmRDQUNabWt5UzQyTDRmUGU3VTVzN3dwTHFZS1lDV1lMbk5RUFg5ZEgwZ0YwXzhGVlcxRQ?oc=5>
+
+### 国际丨特朗普首乘“免费”新专机，称美国纳税人花费很少
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新京报
+- 时间: 2026-06-30 23:00
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfaU5SdVFwcmp2NmZfdDctaEJXcFhWaHVNSEdRXzhTUjdvU1F1dUEwREduVC1xdmFNX2xKeTN5Ul94MU14dmliNllFTEkwU0FmYUlIeFFTUGRnbG93dlB2UEJ2SXg?oc=5>
+
+### Trump renews his battle over North American trade, with labor, tariffs, and quotas all under intense scrutiny.
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-07-01 12:06
+- 链接: <https://news.google.com/rss/articles/CBMilgFBVV95cUxNVWk5dWk2NkVTX2Fwc3h5cE9kVHhZMW9NZnhHWlJ3YWNuN21CM1ZMemZ0dnBxRnRJSlR0NHFCd1JzYnhKV0V6TU43T1FRQTVFeEFYZEdfMktiRzBWNm1PV2JkdTZqdjJfSEt2eXktX0N3aHU5Z3dXT2FxV0VtYmxnMEMyc1BmVXNpUzNyX1BEV3RPaFJfMmc?oc=5>
+
+### 开箱特朗普金色手机 499美元“爱国货”就这水平？！
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: 文学城
-- 时间: 2026-07-01 07:55
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1acWJzLVNtZk9RVUF0VS1pa2dZSXhDTUFoWXJVVnVYT09SSkF4LUxzRl9UYjFUOFdzUFhUQUktV2VnRks3RVBkc1p5R0Z3bktuRjQ1RHZacFFibVN5X1pUR29VcVNHUzJ5?oc=5>
+- 时间: 2026-07-01 14:06
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SZk9IbmYyeWpFWlFGUUhUdjNnd2VGdG0zclZXY1NMSmYxc3NTcDNzd1ozaEs0dGdKc0wwY0VTR0JEWDlqeU03dXQxdHZXNXJkTVdrUzh6d3E3VjlQUzZHWEJvV1V6UnlU?oc=5>
 
-### 白宫成造富杠杆，特朗普1年实现巨额财富增长
+### Trump on 2025 Windfall: 'We're All Profiting' -- WSJ
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-01 12:14
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFAzcHBZS04wNHpsZ25qeGh4QjdlcHBRcW11eEVqdDZ3WkNGcWdOMmJ6alBxWDRBUDN0elVkNFdTY3d5TFJmeEY4dnJsLWs?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-07-01 13:47
+- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxQeDh3R0ZZdWVOTVZ2RjA5SGZxS09mM2xmS0o3dEw1RlFidTFNeUJ5dWxXSWt4SzVfTkZFd1BtSzFmQTJDOTFYdHhRd0VuckRQbEFYWDZwRFpkNlFpaEJ6aVBmYkdCbFMxdUNBS3AzRW5adVg4dHBGN2pNd0p5WFVEdUZvWXBOeFp6S3NVdTFCVmg5T0oxdTNfcQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-01 16:03  (11 条)
+
+- **周杰伦** | 新浪演唱会热点小时报丨2026年07月01日22时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001907mza8.html>
+- **特朗普** | 特朗普总统首搭新“空军一号” <https://news.google.com/rss/articles/CBMijAFBVV95cUxPRUFFTHdkSnN5YW9FN2VLSnpvNnBLWGlHN0gxSnhyYVh1ckQ2cUszaHRPRTlEQW91T2d6LU9JWmtJa3lsUlBwQk1DcS1CVFdpODFvbVRnWlRBeW9EVnRpVDl1R3phZWZSSjlKTVJ6VVM3T1duX0FKTU1SX2ZiU2pfc0JDZ09ITFNySFZPZdIBjwFBVV95cUxPS0RQakQwRENFQzZLdVNMWkJaYWdud3BrWThsRENkQVdKTmxlQlQtVzM2VlMxME0xWGl6VXQ1cWNyYWtTdko4a2txRHNIeXNXUUR6eGZCS20tYmdoR3ZIV04zRWZpUjJvRVRJenhrWmxwV1ZqSXB3YVN6MmZkNmRvWWhEVHZsNzAyZmdTNkthWQ?oc=5>
+- **特朗普** | 伊朗：特朗普已承诺约束其“宠物”，如果以色列无视“主人”，伊朗将出手教训 <https://news.google.com/rss/articles/CBMidkFVX3lxTE9YZ3VBX0pCOGh1UmhLWk5ZOXBBTmFaTVJsREkwckpmSWY5MlMwbHVmUkZULXpUZ1JJYk9XYzUyQzFmQ21pRk5td0ZfOURQN2hubjhUQUtVVEg3NUNybG01ek1nRHl5azNrV2pRQ2k2UUQwMXlSaGc?oc=5>
+- **特朗普** | 奥巴马：特朗普打了个寂寞-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE9mQUxwS2JBUXc1U3pxUFJFMEFpQ0ctNkg0WTZ2eENhTTE4MHFIQUVvV19jbGJXM3ZzQmsybmJZdG5MRUN2TnE0a2wyeWlnTWwwLTVYdlFwdWdQeEVoNHAzSW9oM1VzMFpVSEE?oc=5>
+- **特朗普** | 牛弹琴：一觉醒来，特朗普气炸了，中国又躺枪 <https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRHdTVndQS3Y2SzZUNS14R1FvQnpzWXQzUGtMMFdHR3FuODVwakRFVXJZVmM5Q1ZYbnh1WGhBWEcxcWM4MGdnczJiaEpGS3FyckhubjRoM0ZRTXlkTnZyeUhmVW9nNHh6ODFRVjZnVFY5bnRWckp0LUtaMmpSTlV6SXhZLVNObHNE?oc=5>
+- **特朗普** | 美国最高法院驳回特朗普解雇美联储理事莉萨·库克的请求 <https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMEd3V1NnOFhkVkRlbkp4dzZlTUo5dk4zQlVEUFpidi1TZjZZNHI4YWowNUhmNWdMaHVYVXNkU2RXSFVZOWQzczhYNk9oY3FtYkxVcUg3QlU4a0lJODhubUJXb2gyRGNFTGRJckdLZW1FNkcyQVFaaUVrSTRIWDkzV19MUE5nSHJzMjl0dV9HanhIaV9PTjRSWnpvMkMxdGVvamV2cFpIV1VsZ2lqcVpkTUlWdTZ5M0RkZkppOXpteWw5X09uaUswRzNSd19qaGF3QWtsV2tWTFdvcUFxb1E?oc=5>
+- **特朗普** | 一觉醒来，特朗普气炸了，中国又躺枪 <https://news.google.com/rss/articles/CBMigwFBVV95cUxOUzJvV1I4WmFyN2xEaFMtZnc4YVZlMXUzcl9MQVlBNUhPS243X3k0dUhpY1BEWWhTMWZ6OFZzcGdxY0p0aGVRc0xJNjZZcHhBMmRDQUNabWt5UzQyTDRmUGU3VTVzN3dwTHFZS1lDV1lMbk5RUFg5ZEgwZ0YwXzhGVlcxRQ?oc=5>
+- **特朗普** | 国际丨特朗普首乘“免费”新专机，称美国纳税人花费很少 <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfaU5SdVFwcmp2NmZfdDctaEJXcFhWaHVNSEdRXzhTUjdvU1F1dUEwREduVC1xdmFNX2xKeTN5Ul94MU14dmliNllFTEkwU0FmYUlIeFFTUGRnbG93dlB2UEJ2SXg?oc=5>
+- **Trump** | Trump renews his battle over North American trade, with labor, tariffs, and quotas all under intense scrutiny. <https://news.google.com/rss/articles/CBMilgFBVV95cUxNVWk5dWk2NkVTX2Fwc3h5cE9kVHhZMW9NZnhHWlJ3YWNuN21CM1ZMemZ0dnBxRnRJSlR0NHFCd1JzYnhKV0V6TU43T1FRQTVFeEFYZEdfMktiRzBWNm1PV2JkdTZqdjJfSEt2eXktX0N3aHU5Z3dXT2FxV0VtYmxnMEMyc1BmVXNpUzNyX1BEV3RPaFJfMmc?oc=5>
+- **Trump** | 开箱特朗普金色手机 499美元“爱国货”就这水平？！ <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SZk9IbmYyeWpFWlFGUUhUdjNnd2VGdG0zclZXY1NMSmYxc3NTcDNzd1ozaEs0dGdKc0wwY0VTR0JEWDlqeU03dXQxdHZXNXJkTVdrUzh6d3E3VjlQUzZHWEJvV1V6UnlU?oc=5>
+- **Trump** | Trump on 2025 Windfall: 'We're All Profiting' -- WSJ <https://news.google.com/rss/articles/CBMimAFBVV95cUxQeDh3R0ZZdWVOTVZ2RjA5SGZxS09mM2xmS0o3dEw1RlFidTFNeUJ5dWxXSWt4SzVfTkZFd1BtSzFmQTJDOTFYdHhRd0VuckRQbEFYWDZwRFpkNlFpaEJ6aVBmYkdCbFMxdUNBS3AzRW5adVg4dHBGN2pNd0p5WFVEdUZvWXBOeFp6S3NVdTFCVmg5T0oxdTNfcQ?oc=5>
 
 ### 2026-07-01 13:16  (12 条)
 
