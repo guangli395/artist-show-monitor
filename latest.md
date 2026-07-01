@@ -1,58 +1,74 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-01 20:21**
-- 本轮扫到 5568 条, 新增 **6** 条
+- 最近更新: **2026-07-01 21:58**
+- 本轮扫到 5575 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (7 条)
 
-### 蔡徐坤接下来还会开更多线下签售会吗？
+### 27岁歌手蔡徐坤珠海签售会150人80秒反向撒娇讨飞吻，为何能甜哭全网？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801u7sm.html>
+- 链接: <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801ahue.html>
 
-### 28岁演员丁禹兮首场演唱会，60万人抢2.2万张票为何手速再快也难抢？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801ak5s.html>
-
-### 新浪演唱会热点小时报丨2026年07月02日03时_今日实时演唱会热点速递
+### 周杰伦北京鸟巢演唱会 中餐厅全员团建看秀 合照为何引发全网热议
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907n8cy.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801u22q.html>
 
-### 牛弹琴：一觉醒来，特朗普气炸了，中国又躺枪
+### 周杰伦北京演唱会中餐厅团建合照 8人组团观演怎么回事
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801u224.html>
+
+### 周杰伦鸟巢演唱会的其他精彩瞬间
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801u202.html>
+
+### 美伊间接会谈在多哈展开，特朗普总统称双方谈判人员进行了“非常好的会谈”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-30 23:13
-- 链接: <https://news.google.com/rss/articles/CBMizAFBVV95cUxQbldGTnd6Yk1SMTlQMmRWSGhNakFyVE5DWVduc1NzSFptMEhKMlU5eWY2aU9fdHpVZi1tS3Fqcms2UXhONVpENkpwaG8zZTdPLVQyY2x2bnQwX1YxbS1rY2ktbVZoRm9KbERFN09fOS1KejVLQl9Kb1pJd0FWM01lNDl1cmU4TEJTRDZsMlpNMVYtcUVmZUpxYnRIVW9BeUxVZUhzZ1VnWW1JMnM5SmxubS1lS2ZiemhXNFVfeWstRUJmNnhlbVZYOFRSTEc?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-07-01 16:15
+- 链接: <https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUjZwVklOcWliWnpVMHRXX1JGRHVtWGYtVDNUQnlPVzE2R2stQW53V0dDUUdwNjNlcGtpck0tcGNyTDFnYlZDYlVqb2x1bF9HWlc0bUd4S3pTYXpRZ0pqU3JWdjJENlJramR0ZDd2cUZsTmluU3k1QkxpZjJPZ19zbEE1cU1vTnViOEowXzFyOHI2cHBnQjZsUGo1M1JsZThMb3lha0lZREx5X1J4OVBaVHA2NDRPUmhpUnRtU3pTX2NYLUREM3p0bzBLYW5LSEVSTjRGU3VPTUlaZ9IB2gFBVV95cUxPUjZwVklOcWliWnpVMHRXX1JGRHVtWGYtVDNUQnlPVzE2R2stQW53V0dDUUdwNjNlcGtpck0tcGNyTDFnYlZDYlVqb2x1bF9HWlc0bUd4S3pTYXpRZ0pqU3JWdjJENlJramR0ZDd2cUZsTmluU3k1QkxpZjJPZ19zbEE1cU1vTnViOEowXzFyOHI2cHBnQjZsUGo1M1JsZThMb3lha0lZREx5X1J4OVBaVHA2NDRPUmhpUnRtU3pTX2NYLUREM3p0bzBLYW5LSEVSTjRGU3VPTUlaZw?oc=5>
 
-### 美最高法院驳回特朗普限制“出生公民权”行政令
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中国日报网
-- 时间: 2026-07-01 12:16
-- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTE9NMzVfM3JpZUJmM3JlcFhiRG9RVDNOcVVoZDJ2ZWFJWTZKSm9JS3Z3eHNUeE1KczZWRXFjakQxbDRobVVaanpkMkp0M3JaLWFCNEQ3NUZwUll6U29tUGdWNHF0Y3U1cDQ0LWJEc0NTXzJxbDB0VDlSbFl2OA?oc=5>
-
-### 1000美元变1300万美元！？特朗普"儿童投资账户"正式启动，美光率先豪掷2.5亿美元
+### $美光科技 (MU.US)$ 是不是trump call 华尔街发力了
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: FX168财经
-- 时间: 2026-07-01 19:26
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBNT1pad2ZGOGNSOUctcUlfeFBoM3I3Mjd1UHNHakN5SERLQ0Z6a1Z2RXVBd2dYUDdZZlpLMWpKYXZpaVNRNDBYdGlDZHhqcXlXeExxX05vd3ZaYnJpeW9Xb1JnMk9SLVNHdTFBVFA4cUVrOWYyZUVjNw?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-07-01 16:27
+- 链接: <https://news.google.com/rss/articles/CBMitAFBVV95cUxOYjZiUng1TVJEWEZYQnJ2VVdCOTlOYXMtdXI2V0tpcW5ya2NHTnp0NkxXRmhocWxsRXdHTldqaEJUMUUyZGZZVW82cXhVQnltN2h3bEVUcDE3Rm10b3V1VFpjTm50OXdEajlTeDFXdXNuOFlBbVRPZVJIbU52bGRPV0h4T0p0UHVUZkIxeFdTeHdEMVlOQmtGalc2Q2hsZVJab2FvaTdKeDdzeVVOZGdSd0ZBeHQ?oc=5>
+
+### 白宫成造富杠杆：特朗普一年实现巨额财富增长
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 搜狐网
+- 时间: 2026-07-01 09:00
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMTVNSEo3RWZaTjVfRmpHR09GMHMyT1pKaU1YNTRQMndUUUViYnJqVEVwRWpiUVhzcDJESjR0bG9KN3hUZ2szN1MwSE1pYjh2WVhRT3NWZ1ZPa1c5OUNURW90SlZST2R4OFhHbG5IamVTRXhfYjc0eFYtUVU5TTdSU0sxX3dmc1E2?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-01 21:58  (7 条)
+
+- **蔡徐坤** | 27岁歌手蔡徐坤珠海签售会150人80秒反向撒娇讨飞吻，为何能甜哭全网？ <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801ahue.html>
+- **周杰伦** | 周杰伦北京鸟巢演唱会 中餐厅全员团建看秀 合照为何引发全网热议 <https://k.sina.com.cn/article_7879776328_1d5abd84806801u22q.html>
+- **周杰伦** | 周杰伦北京演唱会中餐厅团建合照 8人组团观演怎么回事 <https://k.sina.com.cn/article_7879776328_1d5abd84806801u224.html>
+- **周杰伦** | 周杰伦鸟巢演唱会的其他精彩瞬间 <https://k.sina.com.cn/article_7879776328_1d5abd84806801u202.html>
+- **特朗普** | 美伊间接会谈在多哈展开，特朗普总统称双方谈判人员进行了“非常好的会谈” <https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUjZwVklOcWliWnpVMHRXX1JGRHVtWGYtVDNUQnlPVzE2R2stQW53V0dDUUdwNjNlcGtpck0tcGNyTDFnYlZDYlVqb2x1bF9HWlc0bUd4S3pTYXpRZ0pqU3JWdjJENlJramR0ZDd2cUZsTmluU3k1QkxpZjJPZ19zbEE1cU1vTnViOEowXzFyOHI2cHBnQjZsUGo1M1JsZThMb3lha0lZREx5X1J4OVBaVHA2NDRPUmhpUnRtU3pTX2NYLUREM3p0bzBLYW5LSEVSTjRGU3VPTUlaZ9IB2gFBVV95cUxPUjZwVklOcWliWnpVMHRXX1JGRHVtWGYtVDNUQnlPVzE2R2stQW53V0dDUUdwNjNlcGtpck0tcGNyTDFnYlZDYlVqb2x1bF9HWlc0bUd4S3pTYXpRZ0pqU3JWdjJENlJramR0ZDd2cUZsTmluU3k1QkxpZjJPZ19zbEE1cU1vTnViOEowXzFyOHI2cHBnQjZsUGo1M1JsZThMb3lha0lZREx5X1J4OVBaVHA2NDRPUmhpUnRtU3pTX2NYLUREM3p0bzBLYW5LSEVSTjRGU3VPTUlaZw?oc=5>
+- **Trump** | $美光科技 (MU.US)$ 是不是trump call 华尔街发力了 <https://news.google.com/rss/articles/CBMitAFBVV95cUxOYjZiUng1TVJEWEZYQnJ2VVdCOTlOYXMtdXI2V0tpcW5ya2NHTnp0NkxXRmhocWxsRXdHTldqaEJUMUUyZGZZVW82cXhVQnltN2h3bEVUcDE3Rm10b3V1VFpjTm50OXdEajlTeDFXdXNuOFlBbVRPZVJIbU52bGRPV0h4T0p0UHVUZkIxeFdTeHdEMVlOQmtGalc2Q2hsZVJab2FvaTdKeDdzeVVOZGdSd0ZBeHQ?oc=5>
+- **Trump** | 白宫成造富杠杆：特朗普一年实现巨额财富增长 <https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMTVNSEo3RWZaTjVfRmpHR09GMHMyT1pKaU1YNTRQMndUUUViYnJqVEVwRWpiUVhzcDJESjR0bG9KN3hUZ2szN1MwSE1pYjh2WVhRT3NWZ1ZPa1c5OUNURW90SlZST2R4OFhHbG5IamVTRXhfYjc0eFYtUVU5TTdSU0sxX3dmc1E2?oc=5>
 
 ### 2026-07-01 20:21  (6 条)
 
