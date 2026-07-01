@@ -1,39 +1,101 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-06-30 23:05**
-- 本轮扫到 5452 条, 新增 **10** 条
+- 最近更新: **2026-07-01 01:37**
+- 本轮扫到 5470 条, 新增 **18** 条
 
 ---
 
-## 本轮新发现 (10 条)
+## 本轮新发现 (18 条)
 
-### 周杰伦力撑演唱会 好男儿高调做粉丝被唾骂
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907lucq.html>
-
-### 黄晓明演唱会高调夸昆凌是天使，一句羡慕周董却意外扯出与杨颖的过往，网友反应两极分化
+### 黄晓明周杰伦演唱会发言和杨颖热搜有关吗？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907ltlk.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801tsza.html>
 
-### 7月1日隔夜要闻：欧美股市收涨 油价下跌 特朗普2025年加密货币收入超14亿美元 美4月石油产量和出口量创新高
+### 新浪演唱会热点小时报丨2026年07月01日09时_今日实时演唱会热点速递
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907m1ec.html>
+
+### 新浪演唱会热点小时报丨2026年07月01日08时_今日实时演唱会热点速递
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907lycs.html>
+
+### 周杰伦北京演唱会具体时间确定了吗？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879924051_1d5ae19530680219r2.html>
+
+### 哪些平台是2026周杰伦演唱会授权票务？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879924051_1d5ae19530680219ra.html>
+
+### 哪些位置观演2026周杰伦演唱会体验最好？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879924051_1d5ae19530680219r6.html>
+
+### 2026周杰伦演唱会票价 购票避坑全梳理
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879924051_1d5ae19530680219py.html>
+
+### 财经早报：特朗普称今日会谈伊朗已否认，以防长称可能随时再起冲突丨2026年6月30日
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-30 22:55
-- 链接: <https://news.google.com/rss/articles/CBMi_wFBVV95cUxQQVdWWk1nb2tiWU1yT3pHVnVCaEVQV183bW5uQjA2VGpBSlVyU2lXaV9WUlgxRTdPcDZRMExfUE55VU9KTTJ0U0NDYkVXaTRJekZKaVhYZVVOaDNxZ1hPbE1XVjJocGJoMzNZQzJDUGthX0QydURfbTNtVnJ0RWdaTGd3Qk1TM1RqN1RwWUR1UUZQVGhMMmFsN0NXQmp6Z3d1Nmo1S0FyUWdkLVZ6cml0alpyYUdxZjFyc09CdlJ4UHduTEpUcGFQUl84cVh3aXk5ZVNMa19zbXljbGhBZ19SUkVmWU1pQXZ1Yk9uRlFXSFhoQ0p2OC1aOW5mX1lVNVU?oc=5>
+- 时间: 2026-06-30 23:51
+- 链接: <https://news.google.com/rss/articles/CBMipwFBVV95cUxNMHNFc0xwS0hiVFNyRjZpU0NkSld2dlZoY2piNlpmQnU5cHZNZ1VNMmFUWlZUSm92SUsyZHphX2xQZVNucTF3Y0tGaGZ6Y2p3NklkLWhIcE1wYjJ6T0thSGJIYV9HTkpTUXRpd3ZTRkRteUdOUC1qV3JLVjFTMVJaZ0lmYmZzLWdwRVRMaDgzVzRHWUpfLVNtWUpqeHU3S1JxT1dfWHZRdw?oc=5>
 
-### 财务披露显示特朗普2025年加密货币收入至少14亿美元
+### 特朗普政府收紧医疗补助遭半数州集体起诉--国际
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 人民网
+- 时间: 2026-07-01 00:56
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE1FbXd1ODRXQTM0YW1nYkE4SnBNaFh0VGZYMmRlU21wbXhwVmMySWR2eTR0WlRfajBpOHU4R0szdEs2TU9jTHlEcUhFQ2YzUDI2QkYwZ0VldlphNlZqUTFnSnBVUVRUcGoybWNR?oc=5>
+
+### 开箱特朗普金色手机，499美元就这水平？-沈逸
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-06-30 23:54
+- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTE5uYmY0b2FTVDY5WmNRcE1vajU1X0Z6emVJb2M5ZUhLdkY2a2luenV5REJmODU0Q0xoM3g5R3NrTHJRM1k0VG9LRTdFb1RtX3B2SHhxQWNoYlUtYnphZ3hEWmdaWQ?oc=5>
+
+### 美最高法院驳回特朗普的限制“出生公民权”行政令
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-30 22:05
-- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxOcVFRN0EtcS0wTHdyWE1oeW1fdUt2ZFh6SHBpYmt0TDRVcHVMaUg4SGtjc2lSakZJUVhpNzRvR2l6cFkzRDB3Wl9JLXhTcEpzeEtxZHJYbFU0amc5RlZCSC1KbmJfTGZiMTQtYWtxOHJUSVlpSkcyTGRkUDRoRnUyLTFadUlnWUNmVUpyZ3hlX3JDOVMwNUJQcnl4Njk?oc=5>
+- 时间: 2026-06-30 14:37
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMjVqc0pKUklfRF9fT1ZtRUU1d0FJUVFzd1lzR3pFanFJSmlYdmVRTmRKdTN2NUxIdktBMnJtZ2poNWRiVkh4dV9SQ1VINkpjd2lUZ1hWRlNSaHprQTlRNXViOWJFSkxhcVpCODBUTmFZSEFlTWNLMXRPNnBfbFU0Y3JXMWQ2SXR3aVUwTGhfNUp3aHR2NTZDLWJQYWplaVV1SUdxc1JaZDNOb2tNT1BnNGpVaUszalNxbDc2T1lJNWJHbVFabExGNnkxY3gtSmRq?oc=5>
+
+### 牛弹琴：一觉醒来，特朗普气炸了，中国又躺枪
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-06-30 23:13
+- 链接: <https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQ1hYMlh3cUF2anJqTjNTZXd2VUt0MjFMRHA1UEJ6YzhzekM2NzdkVnMxZjBsWnNkN3BHcGRUYm82LS1YeFhfMGc2aFpiMElUM1Q0My1DQzJDamlnR3Z2X1gtRklnZzdVeF9NcGRYM2VjaDU2eV9zcHdrYmJFaFVmbG0wTFlpbzBOSERBb0pES3R2c1ctZi1yNTNCUnJYMG1lNWgtenJuNzh2Vktja2JWbXZyRWhJTmpNMWpuVmFLWGM4TC1YbXZQQVF1WGR3XzNOUU1N?oc=5>
+
+### 特朗普政府料不延长《美墨加协定》 启动10年终止倒计时
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-07-01 00:39
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBqTlhudHl3OXdGb3VFSTQ3LV9QanlUT3hsZ2FaMUhmZmlXcVFQOGg1WHZQUEptUGRMa1UxR29Ya1E0MVprMWt2R0U3Qkw0NnN4bEZwOTdkVkgyeTNHYnBBSGhoS01iNFVJYmc?oc=5>
 
 ### 美国最高法院驳回特朗普解雇美联储理事莉萨·库克的请求
 
@@ -41,52 +103,65 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-06-29 14:38
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSU13dEhJc1pibjRvdnZSbWxnYnVQMG1aQVdtTlRGakRNVnhzeHJNOFMzdTFOLTZScElEUWVMRzd5RDlwSUU5UWx4OUtMUUVFa2xyM09fSUZjTHd6X2p2SGpvNjkyY0ZWSmJiTHZXbjA0UmVIZXBPeWEwRTFHSS1ZdFpvMnFWaksyUV93OVcyTjNrbHA5TjRXSDlzMVd1VlhRbjJlZGhDUzliektRXzBnakI2NWRZNjRKWjcyZzZ0R1VjczRTRXp1NGxzT2JpZl9mMXBDY0dKMVMxRjkwYms0?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQUd1VmtVSkRtUFhjQUpVcUoxQU9RdFNBYzZCX3NUU0xhaEhPcFNFazRSTnJPWUcyRVF3SlI4SC1ScUVuLXZUbnhKazh3aHYtOGowSUFZbk9ob3FLVWFBemxjMjdkTW1qOUh0enlsZWFXc0JwYkJQZ1paTWtSbWVvNUhiSFppVi1zYU1qSm4wVTlwQ2tadEhoUVNTYkFnRWpMaU5ZRGhuZ0NIbnN4cl90N3cyYzJsSnU5bUNiSHB6eW1weklkQkFySUdocnZsWUhzU3NoLU1xNlBLSHRDd3pr?oc=5>
 
-### Trump Discloses Expanding Financial Empire, Including Apple Stock, Celebration Coins and Crypto
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-06-30 22:56
-- 链接: <https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbmtzckJEOE8tMnBXRVpuZ1dveXowZ0JXLUhjc3FJNGhMN19raFlmWTJZeVhUcjc0c0FLVDc5cTBURDNPdkQwV1YwRFR6TDdYSXkzQkk3R1hqbWRMZHFjMV9pc0hfWTJKZGo1MjY3VU1ZeG52OC14eVRPaG05bDBPamhPMkotZ2xhZnRsaVpZbVVRUG9lZS1tUjcySUo4Y1k1WFhMZ3c0N3ZQdXVDRnJ2d1BOTk9XVFptWFpxUVpoMGFXRGRoT2RtVQ?oc=5>
-
-### 美国最高法院维持对出生公民权的宽泛解释
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-06-30 18:39
-- 链接: <https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcXNkOUlSR3dYVE9ISmlJdVpMVnktelN3RXJrWS1BeXR6dllKcWMyVDBfbkpVWnhzTE55ZU40eWNJRmZuWE10WXpoSmVBQ1NaejFmVmk4SVNLTkVjQ3IxeWhKUUUwazMxRlJkUU1CVEFqT0YzRERHZkFxVUNHal9oU2JhbWN3Sk84d0Zqcjc4VDBNUVJzRmtYVXFSajJ6cVFoVmpoaGoxaElVQVpyQ0xCRjV2SnYzVjMtRi1F0gG-AUFVX3lxTFBlS0hZQTR1M0hUMmxNZkFNZ21aVXMzZm5IeFdUN2tONHgxVFpkYW5VWk9lU2hNM1BBYzg0OW53Z1VsRmhnaHBKdUNxTUNBa0FtcTdHWWx4NlZ3REZWaklkWDU0VUxYdERFc2FXY3kzTno4eE11QXdEZFpuQ1pDeEZKNGwtbkotbV91WVhpY0hMOWlyX2FkT3ozNjlYSGdpLUlES3NVRWFXenhlb283TjM1bVQ2QU9wV0otbmJONEE?oc=5>
-
-### Crypto-trading maestro Trump! Official disclosures reveal over $1 billion in cryptocurrency-related gains in 2025, with heavy investments in U.S. tech giants.
+### Trump made $1.2 billion from cryptocurrency trades last year and holds major positions in tech giants!
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: Moomoo
-- 时间: 2026-06-30 22:32
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE9EdE5TUjAxVmJiQVItZDFDZjhRbU5JM1FkV3FSdkhleUtjQ0ZYc1JCZHpXWjBwZjJmSkFmT1BkQ1RLRHJlLXpweFhxWExRYnpLMFRZ?oc=5>
+- 时间: 2026-07-01 00:46
+- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxPd2tVQUk4YnBTQTVFY29TRE8zaGozZFdKeXpZclM0UVg4eDl0SDA5b29KVnoxOWxYd0tCRTlpd3FPR1J0N0NsNVlza3V4NWRZci1HS0FXSnFQQ1FSZ2JJR2U3bTlma09weEk2ZEVIZWVLZXRyLUhyMlZtVHozckhVSWlnZHBUWVFKdWIza0FXemx2ZXQwMmk4X1FpZVhUVDN2?oc=5>
 
-### 特朗普927页财报曝光：三度加仓苹果、微软、英伟达，金条持仓同步现身
+### 【“炒币”高手#特朗普# ！官方披露2025年加密货币业务斩获超10亿美元，重仓美股科技巨头】官方报告显示，2025年，特朗普个人在加密货币领域的收入至少12亿美元，其中通过World Liberty Financial代币销售获得近5.9亿美元，个人迷因币$TRUMP项目的许可费超6
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 富途牛牛
-- 时间: 2026-06-30 22:38
-- 链接: <https://news.google.com/rss/articles/CBMipwFBVV95cUxNTU1QMXdFak9HaVRnTVhjNTJldnhPZGxGZ25VOFpPMHJ2LVJYWVFnZHQ0aG5JR2FVNE5uc3ZhaS11aDEzVEJLc0hTV0N2bW5TWmlKRklad08xLTNXRi1aM09nRlFxdlVWTHlqSGNCVlVSNUlSTkdCOWx2VEQ3RjQtWk1remE2aGJGcTExRHJsSVZ4MFBuT205RE1WSGg5U0pLU1lOWHp2bw?oc=5>
+- 场馆: 搜狐网
+- 时间: 2026-06-30 23:57
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZXBhX3JxSlRTNE4yVnF2a1djYURHQkFwWF9jU0lKdEhNcDB4WHY2eTc2TUtZekJEV3p5UllYaHhzR2xuMEhTUVd5NEdObkhPa2UxejJQWmd0V1g2bXFBRG5RQTQ5dy1jcnUzZzE5ejNOX2Z6WnFQc25QWFV1VEtMWm9RV0xxbTYx?oc=5>
 
-### 特朗普在加密行业走向低迷之际，通过相关联系获得了超过 $10亿 的收入
+### 币圈“尸横遍野”，特朗普一家赚饱
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 华尔街见闻
+- 时间: 2026-07-01 00:47
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TRmJjZTlhZFlncC1TNUZhV3hRQ19ldnJ2UW9rX3pCanAydE0wX05oYjBucUhJQUs0aDE5UXBMLVRBeEJBSjgzZ2R2QXlEOTVra2ZB?oc=5>
+
+### Trump Briefed on All-Out War Options in Iran but Opts to Stick With Talks -- WSJ
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: Moomoo
-- 时间: 2026-06-30 22:30
-- 链接: <https://news.google.com/rss/articles/CBMiowFBVV95cUxNalVuQ3BnZmRZa2JrelRrLVFXT1h1NEZGMWw0STNLdDlUcWhHWld3TWF3Z2dsU1o5VExQOXVpVG5pNHU1Y2Fnc3BYS3pybVpuZzBNQlN3b1dCVFdsdThPaFQwYldocWgxQnNGSm9MVTFjV1E2QzRGNHEwSTMtQUtLZGFiZFN6Q2ZPZDBYUDNIS1hicWUyLXBsOXczZEsxSUdkdk5j?oc=5>
+- 时间: 2026-06-30 23:42
+- 链接: <https://news.google.com/rss/articles/CBMimwFBVV95cUxPTGxUd2ZpWHJFUG5SSUNsVU5vNVJzZXlqd3F1VU9GLWREemdEeVBLdzdNbDQyM05KLURIUWxzUUJWanNqYkVjeExBZ2pYMnN2aVJXdUxYU1hLRFMyT2dVdUNFZ0k2ZU9hNTNSSU9URWV4WjhISkE1c2xwdkhTTFlxM2dTT1JBaGdwZ1NMY1VQVkgzRXFwYmYzSm5nQQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-01 01:37  (18 条)
+
+- **周杰伦** | 黄晓明周杰伦演唱会发言和杨颖热搜有关吗？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801tsza.html>
+- **周杰伦** | 新浪演唱会热点小时报丨2026年07月01日09时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001907m1ec.html>
+- **周杰伦** | 新浪演唱会热点小时报丨2026年07月01日08时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001907lycs.html>
+- **周杰伦** | 周杰伦北京演唱会具体时间确定了吗？ <https://k.sina.com.cn/article_7879924051_1d5ae19530680219r2.html>
+- **周杰伦** | 哪些平台是2026周杰伦演唱会授权票务？ <https://k.sina.com.cn/article_7879924051_1d5ae19530680219ra.html>
+- **周杰伦** | 哪些位置观演2026周杰伦演唱会体验最好？ <https://k.sina.com.cn/article_7879924051_1d5ae19530680219r6.html>
+- **周杰伦** | 2026周杰伦演唱会票价 购票避坑全梳理 <https://k.sina.com.cn/article_7879924051_1d5ae19530680219py.html>
+- **特朗普** | 财经早报：特朗普称今日会谈伊朗已否认，以防长称可能随时再起冲突丨2026年6月30日 <https://news.google.com/rss/articles/CBMipwFBVV95cUxNMHNFc0xwS0hiVFNyRjZpU0NkSld2dlZoY2piNlpmQnU5cHZNZ1VNMmFUWlZUSm92SUsyZHphX2xQZVNucTF3Y0tGaGZ6Y2p3NklkLWhIcE1wYjJ6T0thSGJIYV9HTkpTUXRpd3ZTRkRteUdOUC1qV3JLVjFTMVJaZ0lmYmZzLWdwRVRMaDgzVzRHWUpfLVNtWUpqeHU3S1JxT1dfWHZRdw?oc=5>
+- **特朗普** | 特朗普政府收紧医疗补助遭半数州集体起诉--国际 <https://news.google.com/rss/articles/CBMia0FVX3lxTE1FbXd1ODRXQTM0YW1nYkE4SnBNaFh0VGZYMmRlU21wbXhwVmMySWR2eTR0WlRfajBpOHU4R0szdEs2TU9jTHlEcUhFQ2YzUDI2QkYwZ0VldlphNlZqUTFnSnBVUVRUcGoybWNR?oc=5>
+- **特朗普** | 开箱特朗普金色手机，499美元就这水平？-沈逸 <https://news.google.com/rss/articles/CBMiY0FVX3lxTE5uYmY0b2FTVDY5WmNRcE1vajU1X0Z6emVJb2M5ZUhLdkY2a2luenV5REJmODU0Q0xoM3g5R3NrTHJRM1k0VG9LRTdFb1RtX3B2SHhxQWNoYlUtYnphZ3hEWmdaWQ?oc=5>
+- **特朗普** | 美最高法院驳回特朗普的限制“出生公民权”行政令 <https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMjVqc0pKUklfRF9fT1ZtRUU1d0FJUVFzd1lzR3pFanFJSmlYdmVRTmRKdTN2NUxIdktBMnJtZ2poNWRiVkh4dV9SQ1VINkpjd2lUZ1hWRlNSaHprQTlRNXViOWJFSkxhcVpCODBUTmFZSEFlTWNLMXRPNnBfbFU0Y3JXMWQ2SXR3aVUwTGhfNUp3aHR2NTZDLWJQYWplaVV1SUdxc1JaZDNOb2tNT1BnNGpVaUszalNxbDc2T1lJNWJHbVFabExGNnkxY3gtSmRq?oc=5>
+- **特朗普** | 牛弹琴：一觉醒来，特朗普气炸了，中国又躺枪 <https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQ1hYMlh3cUF2anJqTjNTZXd2VUt0MjFMRHA1UEJ6YzhzekM2NzdkVnMxZjBsWnNkN3BHcGRUYm82LS1YeFhfMGc2aFpiMElUM1Q0My1DQzJDamlnR3Z2X1gtRklnZzdVeF9NcGRYM2VjaDU2eV9zcHdrYmJFaFVmbG0wTFlpbzBOSERBb0pES3R2c1ctZi1yNTNCUnJYMG1lNWgtenJuNzh2Vktja2JWbXZyRWhJTmpNMWpuVmFLWGM4TC1YbXZQQVF1WGR3XzNOUU1N?oc=5>
+- **特朗普** | 特朗普政府料不延长《美墨加协定》 启动10年终止倒计时 <https://news.google.com/rss/articles/CBMiakFVX3lxTFBqTlhudHl3OXdGb3VFSTQ3LV9QanlUT3hsZ2FaMUhmZmlXcVFQOGg1WHZQUEptUGRMa1UxR29Ya1E0MVprMWt2R0U3Qkw0NnN4bEZwOTdkVkgyeTNHYnBBSGhoS01iNFVJYmc?oc=5>
+- **特朗普** | 美国最高法院驳回特朗普解雇美联储理事莉萨·库克的请求 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQUd1VmtVSkRtUFhjQUpVcUoxQU9RdFNBYzZCX3NUU0xhaEhPcFNFazRSTnJPWUcyRVF3SlI4SC1ScUVuLXZUbnhKazh3aHYtOGowSUFZbk9ob3FLVWFBemxjMjdkTW1qOUh0enlsZWFXc0JwYkJQZ1paTWtSbWVvNUhiSFppVi1zYU1qSm4wVTlwQ2tadEhoUVNTYkFnRWpMaU5ZRGhuZ0NIbnN4cl90N3cyYzJsSnU5bUNiSHB6eW1weklkQkFySUdocnZsWUhzU3NoLU1xNlBLSHRDd3pr?oc=5>
+- **Trump** | Trump made $1.2 billion from cryptocurrency trades last year and holds major positions in tech giants! <https://news.google.com/rss/articles/CBMioAFBVV95cUxPd2tVQUk4YnBTQTVFY29TRE8zaGozZFdKeXpZclM0UVg4eDl0SDA5b29KVnoxOWxYd0tCRTlpd3FPR1J0N0NsNVlza3V4NWRZci1HS0FXSnFQQ1FSZ2JJR2U3bTlma09weEk2ZEVIZWVLZXRyLUhyMlZtVHozckhVSWlnZHBUWVFKdWIza0FXemx2ZXQwMmk4X1FpZVhUVDN2?oc=5>
+- **Trump** | 【“炒币”高手#特朗普# ！官方披露2025年加密货币业务斩获超10亿美元，重仓美股科技巨头】官方报告显示，2025年，特朗普个人在加密货币领域的收入至少12亿美元，其中通过World Liberty Financial代币销售获得近5.9亿美元，个人迷因币$TRUMP项目的许可费超6 <https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZXBhX3JxSlRTNE4yVnF2a1djYURHQkFwWF9jU0lKdEhNcDB4WHY2eTc2TUtZekJEV3p5UllYaHhzR2xuMEhTUVd5NEdObkhPa2UxejJQWmd0V1g2bXFBRG5RQTQ5dy1jcnUzZzE5ejNOX2Z6WnFQc25QWFV1VEtMWm9RV0xxbTYx?oc=5>
+- **Trump** | 币圈“尸横遍野”，特朗普一家赚饱 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TRmJjZTlhZFlncC1TNUZhV3hRQ19ldnJ2UW9rX3pCanAydE0wX05oYjBucUhJQUs0aDE5UXBMLVRBeEJBSjgzZ2R2QXlEOTVra2ZB?oc=5>
+- **Trump** | Trump Briefed on All-Out War Options in Iran but Opts to Stick With Talks -- WSJ <https://news.google.com/rss/articles/CBMimwFBVV95cUxPTGxUd2ZpWHJFUG5SSUNsVU5vNVJzZXlqd3F1VU9GLWREemdEeVBLdzdNbDQyM05KLURIUWxzUUJWanNqYkVjeExBZ2pYMnN2aVJXdUxYU1hLRFMyT2dVdUNFZ0k2ZU9hNTNSSU9URWV4WjhISkE1c2xwdkhTTFlxM2dTT1JBaGdwZ1NMY1VQVkgzRXFwYmYzSm5nQQ?oc=5>
 
 ### 2026-06-30 23:05  (10 条)
 
