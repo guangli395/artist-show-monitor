@@ -1,144 +1,110 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-02 11:29**
-- 本轮扫到 5651 条, 新增 **19** 条
+- 最近更新: **2026-07-02 13:18**
+- 本轮扫到 5662 条, 新增 **11** 条
 
 ---
 
-## 本轮新发现 (19 条)
+## 本轮新发现 (11 条)
 
-### 蔡徐坤 华语原创音乐人 线下活动人气到底如何？一文看懂2026巡演热度
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801uns0.html>
-
-### 蔡徐坤华语原创音乐人 2026线下巡演海外人气到底怎么样？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801unts.html>
-
-### 27岁蔡徐坤签售会80秒互动为何被称“严父”又“萌宠”？400万点赞背后流量密码是什么？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801ammu.html>
-
-### 《中餐厅》综艺嘉宾 为什么去周杰伦北京演唱会团建？一文看懂
+### 三木点评:地表最强2演唱会票房只排第五?周杰伦不服_周董
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801uopi.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907nzze.html>
 
-### 周杰伦《中餐厅》北京演唱会团建合照 6人到场王俊凯缺席 为何引发全网热议？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801uoju.html>
-
-### 《中餐厅10》嘉宾团周杰伦北京演唱会团建 10人缺1位 到底怎么回事？
+### 阿信会在五月天大巨蛋演唱会唱这首歌吗
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801unnq.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801uq0s.html>
 
-### 《中餐厅10》嘉宾周杰伦演唱会团建是怎么回事？一文看懂全过程
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801unmy.html>
-
-### 46岁周杰伦鸟巢演唱会票价1380元被指划水1小时，为何歌迷仍抢破头？
+### 周杰伦演唱会抢票:每秒300万次点击下,哪些技巧能胜出
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801amnu.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907nxcu.html>
 
-### 华语歌手周杰伦演唱会中餐厅团建 1:4.8拉动比到底有多大消费价值
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801umtg.html>
-
-### 《中餐厅》嘉宾周杰伦北京演唱会团建 6人到场1人缺席 为何引发全网热议？
+### 10位在英国伦敦开过世界巡回演唱会的男歌手,谁是你的意料之外?
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ulyk.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907nqcq.html>
 
-### 周杰伦北京演唱会 中餐厅8人团建怎么回事 到场成员都有谁
+### 特朗普：台积电将扩大投资，卸任时美国可能占有全球50%芯片市场
 
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ul2s.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 21财经
+- 时间: 2026-07-02 12:14
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxPUmFxV1Z3djNYeFE4QnhQNGtycHE0Y0ZnTlRSU3lmX011X0V1Wlpjd2VHcVlaZ3ExR3BXQzZKSHVKcGNOenYxQzhEYkNtQ1luSUNuWkZSM2gybmNvb2JjTzhfanRyem4tbWhoa2wxdDJYWXBkT1BRMjZiVlBWenBWQkhhTGEwSjJFaDNLVQ?oc=5>
 
-### 周杰伦演唱会中餐厅团建合照 一文看懂6人聚会是刻意安排吗
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ukao.html>
-
-### 特朗普积极评价美伊在卡塔尔进行的间接会谈 美国致力于继续谈判
+### 特朗普被曝：去年狂赚22亿美元，14亿来自加密货币！被批“利用总统职位牟利”，他喊话：股市在涨，大家都在赚钱，你们该谢我
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-02 09:41
-- 链接: <https://news.google.com/rss/articles/CBMinwJBVV95cUxNWXNmamlwSlNGbHFpSElieTI4WVBwM18ySmdVbmVpU2RCU24tb1J4UkJYUGtpRVZuVEM2T3VTSHozZEw4d09KY1M1QmR1Qlp0MTVOUU1nTjkwMTJoa3VweHZ4WVhpVnR6R1BtQzQyTlpqS2lIR0MzT29sMjJFLXZFY3hSd0poZUdZNWdBa05vNl9maWtPOFlXdXluSnZqMFM2a0xKWWZwbVh3VmhfRmsza2UyOXJ5eFM1LVhLY0ZBT0N6SmJ3My1nSEJDOEtwbVFfRGpfcFI1VGRuakNLa05JZXYzN05SSmExVXlNZ1ZCN0VmQmtBUHhYblFGclZZYmlod1RwcWIyUl9menFWaGZQa3Y1bmUwaG1nandILXNQWQ?oc=5>
+- 时间: 2026-07-02 12:22
+- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxQOUZjcmJtaW4zekxKQWFiQlliMi1QZ2U4ZFlyckEzVExzSzJyYzlhVlFWZmxyRWFMYV9OdWFrX0FMUm4wTmxTb2pwVDdDRjlwWGZsSXNTdTF4MVk2RXpmRDM4YnNlbVF3SnNpZ29SQzQ1M2FUQkd3T283UEplNXlFYXI1VGppTDdoU3JkSk9Sbnl2WGRrb3l2bQ?oc=5>
 
-### 特朗普过去24小时都忙了什么？（2026-07-02）
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-02 09:31
-- 链接: <https://news.google.com/rss/articles/CBMiuwJBVV95cUxOR0xzeVo0ekl4VEphS1ZLS0lwekM5Tmh1QWxTWFZpMXFHR2dCU2llRkhXMGtTMm13X2duUVQ3UVlvRDlwZWxwS2o0dTdSZmNleTJmbjZnMkFYLWplVXplRTdxZktQbVVRbmQ3a0syNVNyWF81Y1VJc1lVb3hHTzlIakhNanVqMjZBaE1KbWE0V3B4Y25RVEE4VzZOR1dnN2VMRVZJTW1NZ0VMbnBKZ0kzbHEtc3pFZEd2dXZTWDVMRVV3NWc3V3FTSnczbnctd0N0WjRSSnlQZjZRdWEwclluTGhvZngybThpZ2ZqTGhTYjBKUnhqSkJmaVZFOTJsWm9FX2hjOFRMS0hIUkZOVEZ0X29BV2JHNTdGQlNuR0taNjRfYTlFcVMzMFBJdkZwNGZHSk80NFJZcGRtM00?oc=5>
-
-### 新“空军一号”首航！特朗普：我很兴奋！
+### 特朗普部分议程遇挫，但最高法院继续右转
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: CARNOC.com
-- 时间: 2026-07-02 06:46
-- 链接: <https://news.google.com/rss/articles/CBMiVkFVX3lxTE83TGNCMDQ5a0toTHFFU0I2QWFGSVh4eF9odlhTS1RrZF95eG54NUFMVjZnaXFVZl8wa3VaWWU2VXF0MjEyZUlzUmtjVHcwZC1HdW95Q1lR?oc=5>
+- 场馆: 纽约时报中文网
+- 时间: 2026-07-02 04:53
+- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxQYUZGOTdhaC0zREhUY0FZLVdoaGpDNTFOdndwN3BnSERyNzBCZmNSU2E2bmV3NV9PbURLUThoY192b1o4TDQ5UEpBZnd0UnMwamRlNk9hT2NoWTNjeXlyanNEeGVEb0xJS1hZTVNjZ0VOd2s2TzNZWVktejM0a0kxWQ?oc=5>
 
-### 外媒：特朗普要求北约欧洲盟友“忠诚”，德国防长驳斥
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 环球网
-- 时间: 2026-07-01 19:35
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTFBuanBPMXd2ZUFtdmY0OFdvNzRjaEhKYmk5WlF6Yy0yRy1IdEZuakZpaWtCRUp5RFhla19QLUN4WF9kTVpGQV9fQ0YwSVVvNXgzd2NUM0xIZzI?oc=5>
-
-### 特朗普乘坐火车抵达梅多拉，沿途民众高呼“美国！”
+### 牛弹琴：一觉醒来，特朗普气炸了，中国又躺枪
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-07-02 08:47
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE4xVDNpdWowell1cGx0UEJXYjdfSngxTklGYlVHa0ZyMGdUOWpqUXVXM3FLRHB3NjlnMDMwRnc5Ynk5SzhGRmFFdVpxX01RYld3NXNDMWhRQVJuZmVfMmJSaFQxYXF3amxWbUQ1RFR6cXk?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-06-30 23:13
+- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxNN2dQYjdOR2pQcFo2ZkJFN0RkOTBjMDQ1MmY0cGlvcFNMaDFVZDJudXdYX3k4cEFQa0hscjFycmp5d1FkV0M3NWdxbHd4U3ZTU3JQb1VETW5BWlJ2WDNKc3lpd05iY1FWeW1SX090a3loUDVzU045dnFmbUtSSXk1eWpXcDkwUTZxZHJRV0JYSThFTVRRbjREN1JzbnFKS1lJRU1WYzBQTS1BN3hubmlnRHMxQlF0LTd5MDJtdGptemxNUzdxZ1NOZUlTMDB6d3FKRkE?oc=5>
 
-### 特朗普：台积电将扩大投资，我卸任时美国可能占有全球50%的芯片市场！此前他称美国的芯片产业“被偷走”
+### 美国最高法院对特朗普“小骂大帮忙”？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 每日经济新闻
-- 时间: 2026-07-02 09:15
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Ma093M1RjTVRYWmY1ZWlHYjJlell3N0dQR0s0S1B3SkxoX3NEaWNHVmFYT2VUbjdhRmRVMFZpN1FsMmxGaVg1N0t5a3JPbFo3MXJwZHNZdGM0Y0taWktjRjF6anItdw?oc=5>
+- 场馆: chinanews.com.cn
+- 时间: 2026-07-02 12:10
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE54TTAyckI5cG9pZlVhVTdzWjZJVzAxdmZCTFo2dW9qbFlrbEFlbkVzOE9UUTFReUtWRzZqWDNLeVNGN2ZCSUljYTF0NWRiMlI4Xy1pVk9TWU5HTFFVT1UyNWNMTUU5VkhM?oc=5>
 
-### 收入暴增至 22.4 亿：特朗普称不管投资却赚翻
+### 第34期《两岸圆桌派》：250岁美国遭遇80岁特朗普，美国人也开始“疑美”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-07-02 06:30
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NMWFKWG1kS18wRzdxcnJVMXpGRDd5QnpFTWlha1dVcEtaQzU1ZUtyUElCUG1Dd2lvazF3SnhqTzU3SEM2REFqVWF3ZTE4elotbWF6dmtDUnRfREJhWGVyRlpmWWI?oc=5>
+
+### Trump Calls Micron the 'Hottest' Company, the Stock Hasn't Stopped Falling Since -- Barrons.com
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: Moomoo
-- 时间: 2026-07-02 11:15
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE9naGFhNmtlQXJzb1pGdVNPUWgtM2QySDhTYWFnY0JyTmFwYUlPNkdDZEh6eTNkZzQxT01GZldZa1VLQlk5a3ZsNEdqSW5fTkZYeFVz?oc=5>
+- 时间: 2026-07-02 11:29
+- 链接: <https://news.google.com/rss/articles/CBMipAFBVV95cUxNSG9BbnlqSjJsNWpHVjR2bEk4V1F1Y1E5UGY1enhmSFZNeXJvblZUa215Z3VObDVKdTVaUHdUS2V2Qk1RWU10UUpMX3h6cWRIWG1CNXh0YW1ydDFHQkVPR0dMeDRxSVYtZVV4WVFnVEpZMDRuM09Ua3VFc2V5VkVxWjN2OGJXbnZ4NWE5ZU54MGxpYjNsa0dpLUZXeENkX0JEZlFsag?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-02 13:18  (11 条)
+
+- **周杰伦** | 三木点评:地表最强2演唱会票房只排第五?周杰伦不服_周董 <https://k.sina.com.cn/article_7857201856_1d45362c001907nzze.html>
+- **周杰伦** | 阿信会在五月天大巨蛋演唱会唱这首歌吗 <https://k.sina.com.cn/article_7879776328_1d5abd84806801uq0s.html>
+- **周杰伦** | 周杰伦演唱会抢票:每秒300万次点击下,哪些技巧能胜出 <https://k.sina.com.cn/article_7857201856_1d45362c001907nxcu.html>
+- **周杰伦** | 10位在英国伦敦开过世界巡回演唱会的男歌手,谁是你的意料之外? <https://k.sina.com.cn/article_7857201856_1d45362c001907nqcq.html>
+- **特朗普** | 特朗普：台积电将扩大投资，卸任时美国可能占有全球50%芯片市场 <https://news.google.com/rss/articles/CBMijAFBVV95cUxPUmFxV1Z3djNYeFE4QnhQNGtycHE0Y0ZnTlRSU3lmX011X0V1Wlpjd2VHcVlaZ3ExR3BXQzZKSHVKcGNOenYxQzhEYkNtQ1luSUNuWkZSM2gybmNvb2JjTzhfanRyem4tbWhoa2wxdDJYWXBkT1BRMjZiVlBWenBWQkhhTGEwSjJFaDNLVQ?oc=5>
+- **特朗普** | 特朗普被曝：去年狂赚22亿美元，14亿来自加密货币！被批“利用总统职位牟利”，他喊话：股市在涨，大家都在赚钱，你们该谢我 <https://news.google.com/rss/articles/CBMimAFBVV95cUxQOUZjcmJtaW4zekxKQWFiQlliMi1QZ2U4ZFlyckEzVExzSzJyYzlhVlFWZmxyRWFMYV9OdWFrX0FMUm4wTmxTb2pwVDdDRjlwWGZsSXNTdTF4MVk2RXpmRDM4YnNlbVF3SnNpZ29SQzQ1M2FUQkd3T283UEplNXlFYXI1VGppTDdoU3JkSk9Sbnl2WGRrb3l2bQ?oc=5>
+- **特朗普** | 特朗普部分议程遇挫，但最高法院继续右转 <https://news.google.com/rss/articles/CBMigAFBVV95cUxQYUZGOTdhaC0zREhUY0FZLVdoaGpDNTFOdndwN3BnSERyNzBCZmNSU2E2bmV3NV9PbURLUThoY192b1o4TDQ5UEpBZnd0UnMwamRlNk9hT2NoWTNjeXlyanNEeGVEb0xJS1hZTVNjZ0VOd2s2TzNZWVktejM0a0kxWQ?oc=5>
+- **特朗普** | 牛弹琴：一觉醒来，特朗普气炸了，中国又躺枪 <https://news.google.com/rss/articles/CBMi0gFBVV95cUxNN2dQYjdOR2pQcFo2ZkJFN0RkOTBjMDQ1MmY0cGlvcFNMaDFVZDJudXdYX3k4cEFQa0hscjFycmp5d1FkV0M3NWdxbHd4U3ZTU3JQb1VETW5BWlJ2WDNKc3lpd05iY1FWeW1SX090a3loUDVzU045dnFmbUtSSXk1eWpXcDkwUTZxZHJRV0JYSThFTVRRbjREN1JzbnFKS1lJRU1WYzBQTS1BN3hubmlnRHMxQlF0LTd5MDJtdGptemxNUzdxZ1NOZUlTMDB6d3FKRkE?oc=5>
+- **特朗普** | 美国最高法院对特朗普“小骂大帮忙”？ <https://news.google.com/rss/articles/CBMiaEFVX3lxTE54TTAyckI5cG9pZlVhVTdzWjZJVzAxdmZCTFo2dW9qbFlrbEFlbkVzOE9UUTFReUtWRzZqWDNLeVNGN2ZCSUljYTF0NWRiMlI4Xy1pVk9TWU5HTFFVT1UyNWNMTUU5VkhM?oc=5>
+- **特朗普** | 第34期《两岸圆桌派》：250岁美国遭遇80岁特朗普，美国人也开始“疑美” <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NMWFKWG1kS18wRzdxcnJVMXpGRDd5QnpFTWlha1dVcEtaQzU1ZUtyUElCUG1Dd2lvazF3SnhqTzU3SEM2REFqVWF3ZTE4elotbWF6dmtDUnRfREJhWGVyRlpmWWI?oc=5>
+- **Trump** | Trump Calls Micron the 'Hottest' Company, the Stock Hasn't Stopped Falling Since -- Barrons.com <https://news.google.com/rss/articles/CBMipAFBVV95cUxNSG9BbnlqSjJsNWpHVjR2bEk4V1F1Y1E5UGY1enhmSFZNeXJvblZUa215Z3VObDVKdTVaUHdUS2V2Qk1RWU10UUpMX3h6cWRIWG1CNXh0YW1ydDFHQkVPR0dMeDRxSVYtZVV4WVFnVEpZMDRuM09Ua3VFc2V5VkVxWjN2OGJXbnZ4NWE5ZU54MGxpYjNsa0dpLUZXeENkX0JEZlFsag?oc=5>
 
 ### 2026-07-02 11:29  (19 条)
 
