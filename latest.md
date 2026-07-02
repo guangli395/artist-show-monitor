@@ -1,102 +1,120 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-01 23:17**
-- 本轮扫到 5587 条, 新增 **12** 条
+- 最近更新: **2026-07-02 01:30**
+- 本轮扫到 5600 条, 新增 **13** 条
 
 ---
 
-## 本轮新发现 (12 条)
+## 本轮新发现 (13 条)
 
-### 蔡徐坤签售会偶遇视频真有400万点赞吗？
+### 樊振东杜塞尔多夫红色战袍照发布
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_2535760180_m9724a13403301avn8.html>
+
+### 26岁内地歌手蔡徐坤签售会人气爆火，1天涨粉10万凭的是什么？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ub2q.html>
+- 链接: <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801akm6.html>
 
-### 2026娱乐圈“富豪榜”周杰伦稳坐头把交椅，巡演“印钞”，约8成上市公司一年没他赚得多
+### 粉丝001号自述与蔡徐坤签售会互动细节
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002n30s.html>
+
+### 粉丝分享蔡徐坤出道八年首场签售会暖心互动
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002n30i.html>
+
+### 新浪演唱会热点小时报丨2026年07月02日09时_今日实时演唱会热点速递
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907mx00.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907nfb0.html>
 
-### 金曲奖扯掉周杰伦最后一块遮羞布,新专辑仅入围一项,评委回应了
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907mwik.html>
-
-### 华语乐坛天王周杰伦 6年没出新专辑是什么梗？为何引发全网争议
+### 周杰伦官方是否会回应演唱会争议？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801u2wg.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801uc8s.html>
 
-### 周杰伦北京演唱会：中餐厅全员团建现场查岗昆凌
+### 周杰伦演唱会天价黄牛票该如何监管？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801u2nw.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801uc7m.html>
 
-### 特朗普又来：绝不让中国接管巴拿马运河-观察者网
+### 周杰伦演唱会连曝争议：万元票价+迟到被拒引热议
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: guancha.cn
-- 时间: 2026-07-01 22:49
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9rVmpqUzJLc0I2WDdIbVRleVJZcjJUTkl5QlVlQTV2TmVQcFZyYnZxcVExd0xrX09ZSTdvdUJzNDFQMmlyQmhVN2R4dGdvZFRwUHJBZ0x2Z2VCWDQ0WkpFY0pWSHc4MVJZYlE?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801uc7k.html>
 
 ### 赠票、颁奖、入驻特朗普大厦：国际足联主席与特朗普的“体育外交”面临质询
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-01 22:42
-- 链接: <https://news.google.com/rss/articles/CBMipwJBVV95cUxONHVBanNuZFZ1V0xoTEhHOUZTdFNoSVBOekJ1Z1RDZ2lCcFUwQ1pOeTdnLThZQmZwNWdnbjA5d0xjSnUxNjZqb2RPY1N0MHdVSmc5a0pvRHR0SW1oX1VuZnZNb3lXeno3UXZ1VElIUzR3UWMtdXlwNF90QWFxTzJVZ3ZiZFF4VnRpN01xOHRGUm9WdXE2NG80cFBlVDI3cHRyaHZTQS1SMF9oVGhOdVAwY2lMSXZCVlE2eDN2am5GX0dmNEdIMlFSLWZzR0VSSEJFTms5OXpNYkI3dUpERElmckk4NlQxd0lfSDRIblJGSU92ekg5MllvSXA1RjliTzZodVNMU2prcHJ1OEV6ZGlWbjVheEt2WGV3djdSOUw5blZvZlFmaHVJ?oc=5>
-
-### 特朗普总统称美伊间接会谈进展顺利
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-07-01 22:53
-- 链接: <https://news.google.com/rss/articles/CBMi4wFBVV95cUxOVGZpVlYta3hmZEdrNDZ2WFBucG9iZnh5eXFfaDR6ancydHEzMURadkhiRjY0REQ1LXlmdXMxN19yc1NIOGE3Vzh4QU9EWGlyQVNMM3h5RG1zbE9jV3Izdmtxdm0zTmVBX3hMRF92dTBNd1lyT1k2Tm1XdU9iaXMwOFc0eXZsSHRXaGNHa1lPS0wxdHJDV3ZZa0ZrcFlOVUJaMi1QZ0ZjZmkxY1loMi1aRHdIRTdIOUpyUEJFNWFUcWdvMU42a3dSYjQxZXMxc1NWcU9UVmRscmxZV2QwYVNnaVJTZ9IB5gFBVV95cUxQaXI3QVU5SllkOVYwclpCZkxxS2oyanlRSmJ2M1lobVV3V2tTVnZPZDc0bjVzYi00ZGpCSm9EZ0VyZFk5a3h6dnM1d1F1Q2VTU3NGTFdRbkROdGYxdmlIRkNuWmVJUWFUY0x3M29QalEySWVPYzliSTdRazFjRFpiZ2J4c3l0bWkweGFyNXFSeEp4aFF2bDZjNWt3ZkhHLUExSnlWOHdEakV6RF9yX2V6Z3RiWnFrQU5OMjdFSWE4eTVKem9tZWhzekFFNHFhTjFoRG16V1pKUFFBWUNPZ0FlYjFRcXVLZw?oc=5>
-
-### 一年14亿美元，特朗普从加密货币中赚得盆满钵满-观察者网
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: guancha.cn
-- 时间: 2026-07-01 07:18
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE02UGVsV3VIOF9ENUNBbFdPajNBbk9VaHVqTUx0NTA4SDY5eU03WjhualVQM2R4ZElOWTROS0Z3NTNoRmVDVDJCRVMzUktFN2h3SGRnWnN2ODBhVWljNFFIaldFMUNfQU40Rmc?oc=5>
+- 时间: 2026-07-01 23:07
+- 链接: <https://news.google.com/rss/articles/CBMiigJBVV95cUxOSVhTbWptUkcxRlMxWjR5N0NjT1N5aGhRWmxJa2x1a0dza1dFcUNmSjRTVFl2Y2hENlBmN25jNzVSMXJFM2h6cU94NGp5dkkzQVBsM0twd2lFTlJVTFRGc3lIc283b2lnZ3lybVFCNkdlb3hDbXV4WFBCVUVuSEJqTzRVU3p2emVlcXlrM0FJdEp4eU5IS05ZTXFscDZSX0JOS3MwNG5nNlRUdnRMNXlmZWowZ2RnNmF5NVBhQ25KTGVpOTBjdmVpLThSTjRFb2lMbFdEem5NNXJranpoNWNVbWMxTXExWkNJREc5VElvaVNOZ2xiY3hMaC1HNVRfOFhrZTctT2QzbUxQZw?oc=5>
 
 ### 2025年收入数十亿美元，特朗普称外部机构“运作我的钱”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-01 15:16
-- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdWtKN1hKOXc4X3plR2FYLXpJLUpzYTFEcEFtT3JMZ0lfS2dOLTFHazNrMlhfcGlBNzlaTGswNnlpMExQWTREemg3T0l3OTBXb0VkOHhBTFQ1Q3ltMTMyS1YtM2FWUG5HcG1MRGhIMENZbnFMd1llOVZadmlQTGNwVkxOVlJBUFpLZ3V4RE9ScE1iVXA4UHcwaWdJbjM5eE9Kek5xNks0YlBVd2Q2VGhiNHFlVnM1eDhHZXNWWWFtQTNiZEw4OElPVEZiVFhTTXdnSndhSThUaWVqS1JYX3c?oc=5>
+- 时间: 2026-07-01 15:27
+- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxPTVFsa2hteEphRTBEMjNDRFUxNWJHbmVodTY5b2o5UnZ6dWJNNGQwZ3B0N08xUVAxdl9YQmd3d2NmRXFJUVFXX2NqdnBDQjRSbV8wUTRFU1FjZlZSaUFEYVVKZ2gwNkxuSW5Ta0piWWJyaUFpV0pJOWdEZ2NLWjI0OU90SXM3YThNdVE?oc=5>
 
-### 美最高法院驳回特朗普的限制“出生公民权”行政令
+### 奥巴马说特朗普这仗打了个寂寞 中东局势恶化风险升高
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-06-30 14:37
-- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxNeHBwU3ZRSFAtT3ZxWUVURVpyNE9IX1pkeTRzZlp5b2RuRXpSNGJJb3RLOHRqX3FfaHNGZGtNQXdrTmhURnltSnZ3TWc0a1Nid1RzMVpBU0ItdkFOUGc4MWZfQ29aWWNyYjdXRFc4WmdYLS1HcTNnUGVwOEpaYUhMVWlaMGloSmxiLU1BSUdURXlfVGNrZHF4WHExTlNDOVZQNUZ1dk9VTFVPOUtUVTV2R1JpSjhNSUJwMGtDR19HLVh2d2F1NlBZN0EwR1UtVkk?oc=5>
+- 场馆: 中华网
+- 时间: 2026-07-02 00:20
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE85d1hwRjJzbUkzRTNfWDlfc190SkNuZG9UTnlGYnpzc3o0c3d2eFV0RHRlTmtNZDM1ZU11TjhPYmhhRGExdklRdU9QdEJDM2xNdmhjY1ZZYUZyLUtLWjQ5cmJMVWNSb1hUU1o0UGVHQ2I?oc=5>
 
-### 外媒实测Trump Phone T1 软硬件均有明显短板
+### 加密货币押注与房地产交易：透视特朗普年赚20亿美元的一年
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 腾讯新闻
-- 时间: 2026-06-28 04:43
-- 链接: <https://news.google.com/rss/articles/CBMiVkFVX3lxTE50OGltTm5MUXJqa3JFYkdacTJ3QlJVSjVUVW11TllNOVRwVm5FbWFsTVVxR2V6T2ZVbEVQN3hhU2YtUnB1MFdBMTAyZ20tSDVkU0FqbUVB?oc=5>
+- 场馆: 华尔街日报中文网
+- 时间: 2026-07-02 00:30
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE9yOFdWUFk4YnhaOXNWLXlyeDZ5S19VMUVlS2VFZEI3SjFjRHUteEVmQmxZY1NiRU84SXRhS3JkU0dSVE91Vkh2Ti1EMjJVX1pHOUMxdG4xMF9abTdSZXpyU1NVVjhOR0FuRjZFZWRadW45NDA?oc=5>
+
+### 特朗普重大突发！美媒：特朗普回应在任期间加密货币获利的惊人报告
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: FX168财经
+- 时间: 2026-07-02 01:05
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE05RC12NF9LZWJ0bmNQUHZPd0hfeWFhWFhObkxRZmdQamMtdmNZR3g3NjBRQm5zTFVhWVIxQjQyTXRuZWF4SVJuSTlWSGZPYWJmVDVaR0F6eXAzMEhfd1BCWVMtX1Y1d0plVWZBbnk2LXVXMzl2SENUYQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-02 01:30  (13 条)
+
+- **王一博** | 樊振东杜塞尔多夫红色战袍照发布 <https://k.sina.com.cn/article_2535760180_m9724a13403301avn8.html>
+- **蔡徐坤** | 26岁内地歌手蔡徐坤签售会人气爆火，1天涨粉10万凭的是什么？ <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801akm6.html>
+- **蔡徐坤** | 粉丝001号自述与蔡徐坤签售会互动细节 <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002n30s.html>
+- **蔡徐坤** | 粉丝分享蔡徐坤出道八年首场签售会暖心互动 <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002n30i.html>
+- **周杰伦** | 新浪演唱会热点小时报丨2026年07月02日09时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001907nfb0.html>
+- **周杰伦** | 周杰伦官方是否会回应演唱会争议？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801uc8s.html>
+- **周杰伦** | 周杰伦演唱会天价黄牛票该如何监管？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801uc7m.html>
+- **周杰伦** | 周杰伦演唱会连曝争议：万元票价+迟到被拒引热议 <https://k.sina.com.cn/article_7879776328_1d5abd84806801uc7k.html>
+- **特朗普** | 赠票、颁奖、入驻特朗普大厦：国际足联主席与特朗普的“体育外交”面临质询 <https://news.google.com/rss/articles/CBMiigJBVV95cUxOSVhTbWptUkcxRlMxWjR5N0NjT1N5aGhRWmxJa2x1a0dza1dFcUNmSjRTVFl2Y2hENlBmN25jNzVSMXJFM2h6cU94NGp5dkkzQVBsM0twd2lFTlJVTFRGc3lIc283b2lnZ3lybVFCNkdlb3hDbXV4WFBCVUVuSEJqTzRVU3p2emVlcXlrM0FJdEp4eU5IS05ZTXFscDZSX0JOS3MwNG5nNlRUdnRMNXlmZWowZ2RnNmF5NVBhQ25KTGVpOTBjdmVpLThSTjRFb2lMbFdEem5NNXJranpoNWNVbWMxTXExWkNJREc5VElvaVNOZ2xiY3hMaC1HNVRfOFhrZTctT2QzbUxQZw?oc=5>
+- **特朗普** | 2025年收入数十亿美元，特朗普称外部机构“运作我的钱” <https://news.google.com/rss/articles/CBMiigFBVV95cUxPTVFsa2hteEphRTBEMjNDRFUxNWJHbmVodTY5b2o5UnZ6dWJNNGQwZ3B0N08xUVAxdl9YQmd3d2NmRXFJUVFXX2NqdnBDQjRSbV8wUTRFU1FjZlZSaUFEYVVKZ2gwNkxuSW5Ta0piWWJyaUFpV0pJOWdEZ2NLWjI0OU90SXM3YThNdVE?oc=5>
+- **特朗普** | 奥巴马说特朗普这仗打了个寂寞 中东局势恶化风险升高 <https://news.google.com/rss/articles/CBMicEFVX3lxTE85d1hwRjJzbUkzRTNfWDlfc190SkNuZG9UTnlGYnpzc3o0c3d2eFV0RHRlTmtNZDM1ZU11TjhPYmhhRGExdklRdU9QdEJDM2xNdmhjY1ZZYUZyLUtLWjQ5cmJMVWNSb1hUU1o0UGVHQ2I?oc=5>
+- **Trump** | 加密货币押注与房地产交易：透视特朗普年赚20亿美元的一年 <https://news.google.com/rss/articles/CBMic0FVX3lxTE9yOFdWUFk4YnhaOXNWLXlyeDZ5S19VMUVlS2VFZEI3SjFjRHUteEVmQmxZY1NiRU84SXRhS3JkU0dSVE91Vkh2Ti1EMjJVX1pHOUMxdG4xMF9abTdSZXpyU1NVVjhOR0FuRjZFZWRadW45NDA?oc=5>
+- **Trump** | 特朗普重大突发！美媒：特朗普回应在任期间加密货币获利的惊人报告 <https://news.google.com/rss/articles/CBMieEFVX3lxTE05RC12NF9LZWJ0bmNQUHZPd0hfeWFhWFhObkxRZmdQamMtdmNZR3g3NjBRQm5zTFVhWVIxQjQyTXRuZWF4SVJuSTlWSGZPYWJmVDVaR0F6eXAzMEhfd1BCWVMtX1Y1d0plVWZBbnk2LXVXMzl2SENUYQ?oc=5>
 
 ### 2026-07-01 23:17  (12 条)
 
