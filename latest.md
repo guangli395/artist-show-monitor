@@ -1,66 +1,89 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-02 20:40**
-- 本轮扫到 5688 条, 新增 **7** 条
+- 最近更新: **2026-07-02 22:02**
+- 本轮扫到 5696 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (8 条)
 
-### 王一博骆驼防晒品牌全球首席代言人 7月3日10点开抢限定礼盒怎么买？
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801uyg6.html>
-
-### 谁是华语乐坛演唱会巡演纪录总场次第二？
+### 华语歌手演唱会单场人数排名具体是怎样的？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801uz02.html>
-
-### 阵容突变！周杰伦五月天阿信携手F4成员，发布新歌《恒星不忘》
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907ohzy.html>
-
-### 赠票、颁奖、入驻特朗普大厦：国际足联主席与特朗普的“体育外交”面临质询
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-02 20:30
-- 链接: <https://news.google.com/rss/articles/CBMiowJBVV95cUxPbTh0azJhQV9YNlVRNGNjSjhHbjN3azU1Q1pBNUJPOEZGbUdsVGVEXzJsRWlHRGlHRWdwTDBlbmZyLVNtRC1jWTJJdkpkZUJYSGVXZFptX0ZHaU5ETHBUOTdPOFpXQlZfMFNpbWdiY3ljQl9LbkFIRFJTNlRWUV8tOVh0aFZicC1GVTU2NTBLYTBUYUFmUmhGQjJMSExGWDFBVzN0LTF0SFNNZHotbl80djNQNldpdDhpd1E5ekZvdEVqV0lnSEt1eE9jNll5VmJ2VGxnaWVFN3h2aXVaLWV2YmlkcWFhWjlNQzJvaElqeHV1N2xmRjNEU2t5NnNUNW91MlpUUzRkMFpQZkp1TENNQjRRSFFoZW55cUpLaHUweVFqd2M?oc=5>
-
-### 特朗普：美国不会让中国接管巴拿马运河
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-07-02 04:41
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5YT0VkS2xoODU2YWVWYWlOVWhIOVY5cmRmWkpwNXRFX1lsNEwyYWlxVWt3bWtwdjJaSkI0Z3NtTkQ1UGI0QXRlamVKTlNPQXprX2VWMHNZbjBBRDcwRk9ONDg2NXBSZw?oc=5>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801v082.html>
 
 ### 特朗普财务披露显示2025年交易逾2.1万笔
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-02 20:26
-- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxOSzh4YUM1MndrUHJlcnpSWW0zdWI1MFZsUDB2S2lYRkRIMmczdzVHZVNIYjJEdGRtdEtRUU0wQlA1QXZaRjdQdkcydW5QaVBnRVJGd1F6QXVoQS14UXNZNkxVcXNfbkpPaklsbVBueGRjZmZyTVJhQTlycGRBWkFrYXFpSHZKNWpYRE83X1lfVmtYRzlfUDlUdF9WbWI?oc=5>
+- 时间: 2026-07-02 21:02
+- 链接: <https://news.google.com/rss/articles/CBMi_wFBVV95cUxNZzlXdlNfRlJvTDM1dV9fVm5WOTN1aGdqTXFiRkg1aHQzekxVbHZrVjU1MHB5R2lKQkN4X0tNRDNKTmlaTDlKSTRCODR3VU5BazZXdTVtWG5PWGpQTjhFRTNNVmxyOFp5Z19RYnlRY2NBeUJ2eEptcExFd1BDQ2dyQTZvX0RhUUhqU1dfN2N4WWMxQVc4bkZ5YjEwREhpS3M5RHd2VUtzVUpUUk5lRHJGdWstSTk2am1iN2E4MHFiQnVBaWNLZW14SzRtTEVzSVhmdjNITzg5WHVFWExUaFMyMWo3ODVvWTNwcEZFb0dReS1TLWlyWXNzUXdFMUFPQ1U?oc=5>
 
-### 分析师：特朗普在TRUMP上净套现额至少10亿美元，且个人还持约1亿美元加密货币
+### 7月3日外盘头条：特朗普2025年交易逾2.1万笔 霍尔木兹海峡不复往日 微软计划8月推出Copilot全端整合产品
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-02 21:32
+- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeVpubGVWQ2pkN21QZ292NnZydnJLaFRlS2pOUXduYXFxaUROakxJLUo5R0MybzVTaUFZWmk3bmVBWVlXUW92Z3VpZWo3N2YxSVpsRHdaZklkMHBUODVzQkM2emYyYjBRVEZCUVhoWDdoUW45RDBfc3VUMEtyaWRMOERYOVNJT2RLOUZpNEtUd0ROZHhoWVVaWU03cVBLa0U4RC0zTi1MQmFrdw?oc=5>
+
+### 特朗普积极评价美伊在卡塔尔进行的间接会谈 美国致力于继续谈判
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-02 21:16
+- 链接: <https://news.google.com/rss/articles/CBMijwJBVV95cUxQYVNKdWRJWk5uZ1E2V3BXaVBYVzhtNXVCQWpGTWd4akJ4X2JFb0tHNnI0d3VJUGZTenNWdXpJSXRlMjU4TzVpZ3lFeXdwR0NiOW10RGJQR05odUpPY0YtRUFaaDBoOGxTY1VPcVI3SlEySXJPcmVQb08xRnY4TWEzQWdpUGkxUTVtZGJpdzlsMUNGd0tOR1JwelJTV0xqSWdkM0tLZElLc3VRa1lRa2JBSnIxOEdCWm1HenNacjFhZXBmWF8xMzlQeFg2WHhDNUdwcHFFWG1CdFBUeVYzTEF1VkdlX1FramZTbVVwajhHaThkS08wMUFJblZHUkE0VE5hX3RBSzh1WUZxUjBiQW84?oc=5>
+
+### 特朗普称美伊在卡塔尔的会谈进展顺利
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中国网新闻中心
+- 时间: 2026-07-02 00:20
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE1pZjBLMnpJb1lQSjN5ZHFpWXVkT1Z1ZF9kcm82WHZxWWxhcWtYa1l3OFdCLV9LWXhxQ2s0ZEVzX0JCNkRXWmZRMzlSMm4xMTRfQmpod1hKdUgwRXYxNHdhelc2NFdrR3I5Zlc0?oc=5>
+
+### 美国总统特朗普：我在英伟达(NVDA.O)中持有非常少量的股票。
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 金融界
+- 时间: 2026-07-02 21:31
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE92Y1JOZXNtZGNibE5CU29YU2ZvQ3JiRktDbUlSckFqUktYS2FJZmhtajF1ZXo2Q0g2U1o5VHAtY3JlVVZxNDNta0V4QWVLaS1ZN2FTNDZVbElFbWphU3VlRGdHbmxhSjJIa09rZmQtRQ?oc=5>
+
+### 川普去年从加密货币赚了十几亿 但粉丝们亏大了
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: TradingView
-- 时间: 2026-07-01 00:43
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iVE1OUFloUGlTYmpBS1F6UlVZbmVxMWhhVGVodUdwQk9wTUJHTXlFVUJnVjdKRVd0RzlKdTVoVUJXRGY0LXVGT0l5c1B2REZTLUVCQlEyRjJLSFFzVk82OHA3d2s0UQ?oc=5>
+- 场馆: 文学城
+- 时间: 2026-07-02 20:47
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9nRWhPd0hSLVg2NncxZWs0bG51aF9ZV0hVMmU5SEI2dVdURjZFdFY4cVRRUnB3Nm9uYnZwWVlFR3Bsck5INC0tWm80eUtzT1YyeTBBd0lEUVJsUzYxbEprTmFuYmFtYmhG?oc=5>
+
+### Treasury Unveils ETF Lineup for Trump Accounts Ahead of July 4 Launch
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-07-02 18:02
+- 链接: <https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUDBxbm9WenYtbjdlellLSmwwci1SUDhpUk1IT0M5RTZzeTRSTjBVd3ZSV2tTMUtKOXdkYzNBYnJmc0NKRVFUcXgxWnV4TGwyQU5lLVF6Z044Y2I1SjZmb0dma1ZxYlh6Qm9zQ2hyU0w0SmpONnFheTNDaE9DTWdSeFRmWEdyNDZlYkFqcE95N3hJUG9QZ1p6ODdHVy0wT2FobFJGZU56eXk1aEk?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-02 22:02  (8 条)
+
+- **周杰伦** | 华语歌手演唱会单场人数排名具体是怎样的？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801v082.html>
+- **特朗普** | 特朗普财务披露显示2025年交易逾2.1万笔 <https://news.google.com/rss/articles/CBMi_wFBVV95cUxNZzlXdlNfRlJvTDM1dV9fVm5WOTN1aGdqTXFiRkg1aHQzekxVbHZrVjU1MHB5R2lKQkN4X0tNRDNKTmlaTDlKSTRCODR3VU5BazZXdTVtWG5PWGpQTjhFRTNNVmxyOFp5Z19RYnlRY2NBeUJ2eEptcExFd1BDQ2dyQTZvX0RhUUhqU1dfN2N4WWMxQVc4bkZ5YjEwREhpS3M5RHd2VUtzVUpUUk5lRHJGdWstSTk2am1iN2E4MHFiQnVBaWNLZW14SzRtTEVzSVhmdjNITzg5WHVFWExUaFMyMWo3ODVvWTNwcEZFb0dReS1TLWlyWXNzUXdFMUFPQ1U?oc=5>
+- **特朗普** | 7月3日外盘头条：特朗普2025年交易逾2.1万笔 霍尔木兹海峡不复往日 微软计划8月推出Copilot全端整合产品 <https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeVpubGVWQ2pkN21QZ292NnZydnJLaFRlS2pOUXduYXFxaUROakxJLUo5R0MybzVTaUFZWmk3bmVBWVlXUW92Z3VpZWo3N2YxSVpsRHdaZklkMHBUODVzQkM2emYyYjBRVEZCUVhoWDdoUW45RDBfc3VUMEtyaWRMOERYOVNJT2RLOUZpNEtUd0ROZHhoWVVaWU03cVBLa0U4RC0zTi1MQmFrdw?oc=5>
+- **特朗普** | 特朗普积极评价美伊在卡塔尔进行的间接会谈 美国致力于继续谈判 <https://news.google.com/rss/articles/CBMijwJBVV95cUxQYVNKdWRJWk5uZ1E2V3BXaVBYVzhtNXVCQWpGTWd4akJ4X2JFb0tHNnI0d3VJUGZTenNWdXpJSXRlMjU4TzVpZ3lFeXdwR0NiOW10RGJQR05odUpPY0YtRUFaaDBoOGxTY1VPcVI3SlEySXJPcmVQb08xRnY4TWEzQWdpUGkxUTVtZGJpdzlsMUNGd0tOR1JwelJTV0xqSWdkM0tLZElLc3VRa1lRa2JBSnIxOEdCWm1HenNacjFhZXBmWF8xMzlQeFg2WHhDNUdwcHFFWG1CdFBUeVYzTEF1VkdlX1FramZTbVVwajhHaThkS08wMUFJblZHUkE0VE5hX3RBSzh1WUZxUjBiQW84?oc=5>
+- **特朗普** | 特朗普称美伊在卡塔尔的会谈进展顺利 <https://news.google.com/rss/articles/CBMia0FVX3lxTE1pZjBLMnpJb1lQSjN5ZHFpWXVkT1Z1ZF9kcm82WHZxWWxhcWtYa1l3OFdCLV9LWXhxQ2s0ZEVzX0JCNkRXWmZRMzlSMm4xMTRfQmpod1hKdUgwRXYxNHdhelc2NFdrR3I5Zlc0?oc=5>
+- **特朗普** | 美国总统特朗普：我在英伟达(NVDA.O)中持有非常少量的股票。 <https://news.google.com/rss/articles/CBMib0FVX3lxTE92Y1JOZXNtZGNibE5CU29YU2ZvQ3JiRktDbUlSckFqUktYS2FJZmhtajF1ZXo2Q0g2U1o5VHAtY3JlVVZxNDNta0V4QWVLaS1ZN2FTNDZVbElFbWphU3VlRGdHbmxhSjJIa09rZmQtRQ?oc=5>
+- **Trump** | 川普去年从加密货币赚了十几亿 但粉丝们亏大了 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9nRWhPd0hSLVg2NncxZWs0bG51aF9ZV0hVMmU5SEI2dVdURjZFdFY4cVRRUnB3Nm9uYnZwWVlFR3Bsck5INC0tWm80eUtzT1YyeTBBd0lEUVJsUzYxbEprTmFuYmFtYmhG?oc=5>
+- **Trump** | Treasury Unveils ETF Lineup for Trump Accounts Ahead of July 4 Launch <https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUDBxbm9WenYtbjdlellLSmwwci1SUDhpUk1IT0M5RTZzeTRSTjBVd3ZSV2tTMUtKOXdkYzNBYnJmc0NKRVFUcXgxWnV4TGwyQU5lLVF6Z044Y2I1SjZmb0dma1ZxYlh6Qm9zQ2hyU0w0SmpONnFheTNDaE9DTWdSeFRmWEdyNDZlYkFqcE95N3hJUG9QZ1p6ODdHVy0wT2FobFJGZU56eXk1aEk?oc=5>
 
 ### 2026-07-02 20:40  (7 条)
 
