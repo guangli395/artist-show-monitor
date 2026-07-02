@@ -1,132 +1,166 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-02 08:46**
-- 本轮扫到 5632 条, 新增 **16** 条
+- 最近更新: **2026-07-02 11:29**
+- 本轮扫到 5651 条, 新增 **19** 条
 
 ---
 
-## 本轮新发现 (16 条)
+## 本轮新发现 (19 条)
 
-### 001号抽中蔡徐坤签售会头号席位，临时调至第二位登场
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6185411523_m170ade3c303301im94.html>
-
-### 蔡徐坤签售现场洋溢着满满的幸福感（素材已获授权，如涉侵权即删）
+### 蔡徐坤 华语原创音乐人 线下活动人气到底如何？一文看懂2026巡演热度
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6534084611_m18576380303304k8ly.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801uns0.html>
 
-### 蔡徐坤不愧是强者，挑战加速版主题曲，再快也在点上
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6579089051_m18824ee9b033022gsi.html>
-
-### 蔡徐坤下沉市场的人气好恐怖！签售会大出圈！全是高赞视频和评论
+### 蔡徐坤华语原创音乐人 2026线下巡演海外人气到底怎么样？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2284130703_8825118f04001hlhw.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801unts.html>
 
-### 周杰伦MV神还原名画细节，陈信宏赞可作美术教材
+### 27岁蔡徐坤签售会80秒互动为何被称“严父”又“萌宠”？400万点赞背后流量密码是什么？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801ammu.html>
+
+### 《中餐厅》综艺嘉宾 为什么去周杰伦北京演唱会团建？一文看懂
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5727695436_m15565b24c03301qr76.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801uopi.html>
 
-### 周杰伦MV《太阳之子》被赞美术史教材，陈信宏认证艺术价值
+### 周杰伦《中餐厅》北京演唱会团建合照 6人到场王俊凯缺席 为何引发全网热议？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2495457342_m94bda83e033019iom.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801uoju.html>
 
-### 特朗普解禁两款Claude模型：背后的间谍门与对华暗战
+### 《中餐厅10》嘉宾团周杰伦北京演唱会团建 10人缺1位 到底怎么回事？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-07-02 03:51
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BTThDRGVjY3NWMm1sS3ljamlidW93NTg1bGwxSHJjTVR4cDFKR0JuaWFnbHdfeThvcnBsRF9rbVNlS3RnUEVDS1Nzd0xMcVI5WkNRRklHU2dwNHpzWkhrSnQtaGI?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801unnq.html>
 
-### 特朗普去年因加密货币大赚12亿美元，927页投资内幕曝光
+### 《中餐厅10》嘉宾周杰伦演唱会团建是怎么回事？一文看懂全过程
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801unmy.html>
+
+### 46岁周杰伦鸟巢演唱会票价1380元被指划水1小时，为何歌迷仍抢破头？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801amnu.html>
+
+### 华语歌手周杰伦演唱会中餐厅团建 1:4.8拉动比到底有多大消费价值
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801umtg.html>
+
+### 《中餐厅》嘉宾周杰伦北京演唱会团建 6人到场1人缺席 为何引发全网热议？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ulyk.html>
+
+### 周杰伦北京演唱会 中餐厅8人团建怎么回事 到场成员都有谁
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ul2s.html>
+
+### 周杰伦演唱会中餐厅团建合照 一文看懂6人聚会是刻意安排吗
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ukao.html>
+
+### 特朗普积极评价美伊在卡塔尔进行的间接会谈 美国致力于继续谈判
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-02 07:18
-- 链接: <https://news.google.com/rss/articles/CBMirwFBVV95cUxOS1JHODU1WElQNVlxbEt1REtZMDVjUmZaRC1rUTJzcWpManNxWkFOTGFFQ1N5YVMyRkROUGdYUHRKZngyQW5jeE02eXZORjRaU09zV0FHejA0NGMzUVpXRE9TdmdXTmIweVZWa2pqald2ZFFISWZYME90OGp1U1NNS3RGM0dkbmltTHVpQVZvY2tmRjFPVU96dEZlRlpMZjNXYkpKZlpOaUlUeDUyWUpJ?oc=5>
+- 时间: 2026-07-02 09:41
+- 链接: <https://news.google.com/rss/articles/CBMinwJBVV95cUxNWXNmamlwSlNGbHFpSElieTI4WVBwM18ySmdVbmVpU2RCU24tb1J4UkJYUGtpRVZuVEM2T3VTSHozZEw4d09KY1M1QmR1Qlp0MTVOUU1nTjkwMTJoa3VweHZ4WVhpVnR6R1BtQzQyTlpqS2lIR0MzT29sMjJFLXZFY3hSd0poZUdZNWdBa05vNl9maWtPOFlXdXluSnZqMFM2a0xKWWZwbVh3VmhfRmsza2UyOXJ5eFM1LVhLY0ZBT0N6SmJ3My1nSEJDOEtwbVFfRGpfcFI1VGRuakNLa05JZXYzN05SSmExVXlNZ1ZCN0VmQmtBUHhYblFGclZZYmlod1RwcWIyUl9menFWaGZQa3Y1bmUwaG1nandILXNQWQ?oc=5>
 
-### 年赚超22亿美元！特朗普回应：股市在上涨，每个人都在赚钱！
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-02 03:04
-- 链接: <https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZDUzaXpEZE1NUDVzUmhybUUzelJGSW1BVjZMeGVDQnVuaHNFRWxsRDR1elFNeWNpdkk2T2h6MkZyV3M1aEk5SkpKSkFLdGZaeUlZcVNXVVNneTNJMUd2UEs5dTlDWkE0UGJ6R2xjcks2NHN4Qm8tVHJqVVNoQk1ZUzJ2aXFObDdqNU05bGI4VnFKR1VFc1pOa0tKRER6emVMblY4aVFkNDB5cUhmTGdENXpvNkxWVFhXLXVFLXdyWGo3UkhYM3hCTENqS1ZZVTZVUFlvbGVaTlQ?oc=5>
-
-### 美驻以大使：特朗普喜欢半夜在网上解雇员工，所以每天醒来第一件事是点开他账号，看自己有没有被炒掉
+### 特朗普过去24小时都忙了什么？（2026-07-02）
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-01 22:23
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBEYnlfejJjeVJfNDJYcXBpanVJZXdMVHZTTkFSZ1RNalMtUUZramVRWmh5R2hpSjZoTFBXQkVKd3dHbS1IMDBuZjZwSTFDTWhSUEtEZkFKTHNRcWlWSGRQM213RVFsc3RwQ2ZlQXZTWnkxdzc1MzQ3cA?oc=5>
+- 时间: 2026-07-02 09:31
+- 链接: <https://news.google.com/rss/articles/CBMiuwJBVV95cUxOR0xzeVo0ekl4VEphS1ZLS0lwekM5Tmh1QWxTWFZpMXFHR2dCU2llRkhXMGtTMm13X2duUVQ3UVlvRDlwZWxwS2o0dTdSZmNleTJmbjZnMkFYLWplVXplRTdxZktQbVVRbmQ3a0syNVNyWF81Y1VJc1lVb3hHTzlIakhNanVqMjZBaE1KbWE0V3B4Y25RVEE4VzZOR1dnN2VMRVZJTW1NZ0VMbnBKZ0kzbHEtc3pFZEd2dXZTWDVMRVV3NWc3V3FTSnczbnctd0N0WjRSSnlQZjZRdWEwclluTGhvZngybThpZ2ZqTGhTYjBKUnhqSkJmaVZFOTJsWm9FX2hjOFRMS0hIUkZOVEZ0X29BV2JHNTdGQlNuR0taNjRfYTlFcVMzMFBJdkZwNGZHSk80NFJZcGRtM00?oc=5>
 
-### 特朗普移民政策受挫 美最高法裁定行政令不能废止出生公民权
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财新
-- 时间: 2026-07-01 00:58
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9vRFRydk5McDlTNDJBUkxWQTV5OXR0QWNpT3A2LWZqR1JaRWxGQW1oNEZjalN2d0tld2JnOFlHSzlxZ19oQjRxejU3dG9PdWpMUzltUkFfYldOSUxOSFJvdEY4TklWTG9md0E?oc=5>
-
-### 美最高法院推翻特朗普限制“出生公民权”行政令
+### 新“空军一号”首航！特朗普：我很兴奋！
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-07-01 02:06
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1WUUhPYjJVQnh5Ykc3QUV3VTY1bnBZRHV0VUtjLU9WbDV6a1dlb0pocXA3SDFsY0haYzFfX09yOWlRSEd5Rk13b2JRdHo5a2dncUdXeGNRZ1RwWmtZSHlvcUZKV1ZEZl9xamlFdWV1RkFGa1ViLXEtMDB4ejYyOVk?oc=5>
+- 场馆: CARNOC.com
+- 时间: 2026-07-02 06:46
+- 链接: <https://news.google.com/rss/articles/CBMiVkFVX3lxTE83TGNCMDQ5a0toTHFFU0I2QWFGSVh4eF9odlhTS1RrZF95eG54NUFMVjZnaXFVZl8wa3VaWWU2VXF0MjEyZUlzUmtjVHcwZC1HdW95Q1lR?oc=5>
 
-### 特朗普对剪彩剪刀爱不释手直接带走
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-02 06:13
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1BZDhLM3J3VWdaV2U0UHdCNVlfMjR4MDZ3TkNqRERUY0tnamd6YzA0T2w1OXVTaGphU1Y3alY0Q0RCMFRCd2xRZkdzYVA?oc=5>
-
-### 利用总统职位牟利？特朗普：股市上涨，人人赚钱
+### 外媒：特朗普要求北约欧洲盟友“忠诚”，德国防长驳斥
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-07-02 05:51
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE9hTGh5S0lMeFluZGV6R3F0RkN6b0NMNEF3QVNLLWZDem8zMFIzR1VxU2RDV3FTVGRhRGFrSkg2RTFMRUlpOTBqWndjYnA5R2RibGVXVmtaeVYtX0JaQVE?oc=5>
+- 场馆: 环球网
+- 时间: 2026-07-01 19:35
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTFBuanBPMXd2ZUFtdmY0OFdvNzRjaEhKYmk5WlF6Yy0yRy1IdEZuakZpaWtCRUp5RFhla19QLUN4WF9kTVpGQV9fQ0YwSVVvNXgzd2NUM0xIZzI?oc=5>
 
-### 特朗普：美国不会让中国接管巴拿马运河
+### 特朗普乘坐火车抵达梅多拉，沿途民众高呼“美国！”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-07-02 04:41
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBYZTZOYmJhWXh3c2dpTDlVcnpGQXNtTDh6RXVEQUY2Q1p1azMxSDQ5NTRJU2c0WHFub0dwa3YtV0NCcVNIaGducFRuOFU5TlhXSE9Wa2syYWVOeU1WUkp3VXBqU1I2cEdnYmc?oc=5>
+- 场馆: 中华网
+- 时间: 2026-07-02 08:47
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE4xVDNpdWowell1cGx0UEJXYjdfSngxTklGYlVHa0ZyMGdUOWpqUXVXM3FLRHB3NjlnMDMwRnc5Ynk5SzhGRmFFdVpxX01RYld3NXNDMWhRQVJuZmVfMmJSaFQxYXF3amxWbUQ1RFR6cXk?oc=5>
 
-### 美国新“空军一号”亮相 特朗普对新专机感到自豪
+### 特朗普：台积电将扩大投资，我卸任时美国可能占有全球50%的芯片市场！此前他称美国的芯片产业“被偷走”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 每日经济新闻
+- 时间: 2026-07-02 09:15
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Ma093M1RjTVRYWmY1ZWlHYjJlell3N0dQR0s0S1B3SkxoX3NEaWNHVmFYT2VUbjdhRmRVMFZpN1FsMmxGaVg1N0t5a3JPbFo3MXJwZHNZdGM0Y0taWktjRjF6anItdw?oc=5>
+
+### 收入暴增至 22.4 亿：特朗普称不管投资却赚翻
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-07-02 07:56
-- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxPZDdsVGlJLXFkekJJbzMyN0tXLXU1SGFCVHJIV0pSdjFNQW15eTREWEtSVWNlUWVzbmtEWjZTUWhnQzhyUkJjaWU3cjdidHMtcFY3SnVDUW9UNUxOMlRUdXVkcTJwZ1hodzdrRnFLMHlRbW5RRkFVQTdaMHBGWFdjZ1NoNA?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-07-02 11:15
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE9naGFhNmtlQXJzb1pGdVNPUWgtM2QySDhTYWFnY0JyTmFwYUlPNkdDZEh6eTNkZzQxT01GZldZa1VLQlk5a3ZsNEdqSW5fTkZYeFVz?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-02 11:29  (19 条)
+
+- **蔡徐坤** | 蔡徐坤 华语原创音乐人 线下活动人气到底如何？一文看懂2026巡演热度 <https://k.sina.com.cn/article_7879776328_1d5abd84806801uns0.html>
+- **蔡徐坤** | 蔡徐坤华语原创音乐人 2026线下巡演海外人气到底怎么样？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801unts.html>
+- **蔡徐坤** | 27岁蔡徐坤签售会80秒互动为何被称“严父”又“萌宠”？400万点赞背后流量密码是什么？ <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801ammu.html>
+- **周杰伦** | 《中餐厅》综艺嘉宾 为什么去周杰伦北京演唱会团建？一文看懂 <https://k.sina.com.cn/article_7879776328_1d5abd84806801uopi.html>
+- **周杰伦** | 周杰伦《中餐厅》北京演唱会团建合照 6人到场王俊凯缺席 为何引发全网热议？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801uoju.html>
+- **周杰伦** | 《中餐厅10》嘉宾团周杰伦北京演唱会团建 10人缺1位 到底怎么回事？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801unnq.html>
+- **周杰伦** | 《中餐厅10》嘉宾周杰伦演唱会团建是怎么回事？一文看懂全过程 <https://k.sina.com.cn/article_7879776328_1d5abd84806801unmy.html>
+- **周杰伦** | 46岁周杰伦鸟巢演唱会票价1380元被指划水1小时，为何歌迷仍抢破头？ <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801amnu.html>
+- **周杰伦** | 华语歌手周杰伦演唱会中餐厅团建 1:4.8拉动比到底有多大消费价值 <https://k.sina.com.cn/article_7879776328_1d5abd84806801umtg.html>
+- **周杰伦** | 《中餐厅》嘉宾周杰伦北京演唱会团建 6人到场1人缺席 为何引发全网热议？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801ulyk.html>
+- **周杰伦** | 周杰伦北京演唱会 中餐厅8人团建怎么回事 到场成员都有谁 <https://k.sina.com.cn/article_7879776328_1d5abd84806801ul2s.html>
+- **周杰伦** | 周杰伦演唱会中餐厅团建合照 一文看懂6人聚会是刻意安排吗 <https://k.sina.com.cn/article_7879776328_1d5abd84806801ukao.html>
+- **特朗普** | 特朗普积极评价美伊在卡塔尔进行的间接会谈 美国致力于继续谈判 <https://news.google.com/rss/articles/CBMinwJBVV95cUxNWXNmamlwSlNGbHFpSElieTI4WVBwM18ySmdVbmVpU2RCU24tb1J4UkJYUGtpRVZuVEM2T3VTSHozZEw4d09KY1M1QmR1Qlp0MTVOUU1nTjkwMTJoa3VweHZ4WVhpVnR6R1BtQzQyTlpqS2lIR0MzT29sMjJFLXZFY3hSd0poZUdZNWdBa05vNl9maWtPOFlXdXluSnZqMFM2a0xKWWZwbVh3VmhfRmsza2UyOXJ5eFM1LVhLY0ZBT0N6SmJ3My1nSEJDOEtwbVFfRGpfcFI1VGRuakNLa05JZXYzN05SSmExVXlNZ1ZCN0VmQmtBUHhYblFGclZZYmlod1RwcWIyUl9menFWaGZQa3Y1bmUwaG1nandILXNQWQ?oc=5>
+- **特朗普** | 特朗普过去24小时都忙了什么？（2026-07-02） <https://news.google.com/rss/articles/CBMiuwJBVV95cUxOR0xzeVo0ekl4VEphS1ZLS0lwekM5Tmh1QWxTWFZpMXFHR2dCU2llRkhXMGtTMm13X2duUVQ3UVlvRDlwZWxwS2o0dTdSZmNleTJmbjZnMkFYLWplVXplRTdxZktQbVVRbmQ3a0syNVNyWF81Y1VJc1lVb3hHTzlIakhNanVqMjZBaE1KbWE0V3B4Y25RVEE4VzZOR1dnN2VMRVZJTW1NZ0VMbnBKZ0kzbHEtc3pFZEd2dXZTWDVMRVV3NWc3V3FTSnczbnctd0N0WjRSSnlQZjZRdWEwclluTGhvZngybThpZ2ZqTGhTYjBKUnhqSkJmaVZFOTJsWm9FX2hjOFRMS0hIUkZOVEZ0X29BV2JHNTdGQlNuR0taNjRfYTlFcVMzMFBJdkZwNGZHSk80NFJZcGRtM00?oc=5>
+- **特朗普** | 新“空军一号”首航！特朗普：我很兴奋！ <https://news.google.com/rss/articles/CBMiVkFVX3lxTE83TGNCMDQ5a0toTHFFU0I2QWFGSVh4eF9odlhTS1RrZF95eG54NUFMVjZnaXFVZl8wa3VaWWU2VXF0MjEyZUlzUmtjVHcwZC1HdW95Q1lR?oc=5>
+- **特朗普** | 外媒：特朗普要求北约欧洲盟友“忠诚”，德国防长驳斥 <https://news.google.com/rss/articles/CBMiWEFVX3lxTFBuanBPMXd2ZUFtdmY0OFdvNzRjaEhKYmk5WlF6Yy0yRy1IdEZuakZpaWtCRUp5RFhla19QLUN4WF9kTVpGQV9fQ0YwSVVvNXgzd2NUM0xIZzI?oc=5>
+- **特朗普** | 特朗普乘坐火车抵达梅多拉，沿途民众高呼“美国！” <https://news.google.com/rss/articles/CBMicEFVX3lxTE4xVDNpdWowell1cGx0UEJXYjdfSngxTklGYlVHa0ZyMGdUOWpqUXVXM3FLRHB3NjlnMDMwRnc5Ynk5SzhGRmFFdVpxX01RYld3NXNDMWhRQVJuZmVfMmJSaFQxYXF3amxWbUQ1RFR6cXk?oc=5>
+- **特朗普** | 特朗普：台积电将扩大投资，我卸任时美国可能占有全球50%的芯片市场！此前他称美国的芯片产业“被偷走” <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Ma093M1RjTVRYWmY1ZWlHYjJlell3N0dQR0s0S1B3SkxoX3NEaWNHVmFYT2VUbjdhRmRVMFZpN1FsMmxGaVg1N0t5a3JPbFo3MXJwZHNZdGM0Y0taWktjRjF6anItdw?oc=5>
+- **Trump** | 收入暴增至 22.4 亿：特朗普称不管投资却赚翻 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE9naGFhNmtlQXJzb1pGdVNPUWgtM2QySDhTYWFnY0JyTmFwYUlPNkdDZEh6eTNkZzQxT01GZldZa1VLQlk5a3ZsNEdqSW5fTkZYeFVz?oc=5>
 
 ### 2026-07-02 08:46  (16 条)
 
