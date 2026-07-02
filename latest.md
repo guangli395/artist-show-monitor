@@ -1,56 +1,87 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-02 17:40**
-- 本轮扫到 5673 条, 新增 **5** 条
+- 最近更新: **2026-07-02 19:15**
+- 本轮扫到 5681 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (8 条)
 
-### 特朗普积极评价美伊在卡塔尔进行的间接会谈 美国致力于继续谈判
+### 新浪演唱会热点小时报丨2026年07月03日03时_今日实时演唱会热点速递
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-01 22:16
-- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxOd0RMX3pmV0FxWVdjR2poajlPUlktOWVDQVNlMUwtUmtGZ0YzUS1teWNnMnRzcEZaQndtNnI0dXlMNXFYUjZ1TjNyUmpucVpobG8wdldYOGRGTTV2bEFiekozaXdVVkRVdHBMZS10THJJeWxYVEZwc2MtcWQ0QlI0a1A1Q3M5MnEyd2c?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907og8a.html>
 
-### 年赚超22亿美元！特朗普回应：股市在上涨，每个人都在赚钱！
+### 五月天张杰邓紫棋孙燕姿F3......谁是今年演唱会的“现场之王”?_Ella_演出_周杰伦
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907oega.html>
+
+### 意大利总理梅洛尼回应下跪特朗普质疑，强调西方团结
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪网
-- 时间: 2026-07-02 03:04
-- 链接: <https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVnlvZWtETXdlcElzei15cGhBTkFtNzV5VUhqUFdpay1LVXpyeVN1UVExbnRJNFZyYkJqeTNtbXJHOEVTak0tbHhrTktlYWNyemVUcktLak5nanM3dDJkbUgzeFlmX1laTXNfU1pEUzlFR182OGhMN3gyVEtic21ucG9jQUFNcUIxdFBFMDNRUDlzZFpoaVFLeExJdk5uWjdVWFU2U04yY2lXbDExLXprUDNwNmstLVVYWHpDRG5xQXpod0xmRkRiVHJkQVVrY2QwMDJZ?oc=5>
+- 时间: 2026-07-02 18:28
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5oYlN6TFQ4YVNTZUpNWnhsM1ZWMllYeVQtbUxkVGhkYVVFV0tzMmpCYkwtWXhiUmtVZVQ4VnZIdUdKZlhXWlNFMDhsc21XWFBFakFuaE5IQ3FTdlhZSUUtMFd0Yzg0eWNqUDlIcTJBUEYwbVE?oc=5>
 
 ### 特朗普经济幕僚哈塞特批评鲍威尔继续留在美联储
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-02 15:51
-- 链接: <https://news.google.com/rss/articles/CBMikwJBVV95cUxOM2RrMXpLdDFGczB6STJjT2UyR0FYdWpkTXlqaWhYWmdKZms1UkZEVmNkQ0hYOWc4SFFXS0EyNFZCVjR2OEozeXBramZtSjJFSUkwUmdxLXo3VXdTX1lRT09GZGZmbF9QcFlud3ZrZ3JKbHdWSUdwcGhiTXJidURPcjhPOE16aXFJekVOVGdRNFh2UGxrNk1YUEFHcldISFBzdFhhWEtrQzQ0ZmhrZm1IYnVITl9lNExZU0YzMkR1ckp6d1VvSFU3R0FQNVNNRUduX1NfU3ZDbXV1Zl9pc2ZpRWFqZkE1UG9SeWtUd0s2X2JwbkNxMVpOSFJaWmRZQmUyVm9icHJSUERzMXhaVV9TQjJQVQ?oc=5>
+- 时间: 2026-07-02 17:46
+- 链接: <https://news.google.com/rss/articles/CBMivgJBVV95cUxNVXFqenFUckx6UW1fV2l1bXJ3dmM5S0xidFhTLTY4Vk9FQnFLTG00M2pKdWZVSDdmemdFa1RUdnBxeHNkRURGRHZJOFQ4R0I0LVpEc2lvNFkxWEV2MkRtWFo4aF9pd0lYTlkzOHl2Yk1PWWJBOEJqQ1p5MDJYcE5wZGdpZE5OYlpGQzd4TVVJdkhqODRjVUhuME9wMWJvVjh6RVBYaFNuLUdYMmo0UTR0UlMyRF9URDRiQVozYlBweDFlYnVlSDVldVROZ2pudDVpWmRyU1B4OE05b25VR05RWDRudXJGeVAxQ0Q5aGVSWUZQRWNvSzVsVmEza3l3dlJYY3pQUnI0dHk0aG1fYkVwTDdLQzRzY2dsSTB2ejItRC1zU2pSNmNkNDE1dE5DUzBwek9vRk92bEU4TXZaN2c?oc=5>
 
-### 币圈“尸横遍野”，特朗普一家赚饱
+### 年赚超22亿美元！特朗普回应：股市在上涨，每个人都在赚钱！
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-07-01 00:47
-- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxQeEdlTjIyMi1FZ2g4SHprWkxSaE1SbHl6YUhVZVc5QTJYbnZQaGk4eEotV2tBSThyMXRLMXhmZWRlUDY4dnNaWUVWcEN4bFNYeVBmc0RwSXlsYTRxUjNfYkpodkJDVmhQczJvWDk4ejFsNXVFLWgwNnJGYnNWbTlJWS1tdHRDMElETjI1aHdadU5TWjA5aWZyMzhCMVAtMktDWW9nNmR4X0FCeUZpQ3VVdFdDRzNoUXhkZk9NTWFITUhKSjJodFJUMXppMXhpOTQ?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-07-02 03:04
+- 链接: <https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVWZnWC1wbnFhcmpkOVp2LUdkNjRuLTlNWE5JaU5DTzZLc0J6OWUzRG1ETGxkN09DQm5JT0lteUN5dHRTSkJoSklndkhfeUJFNG5nNTNwalJDdi14bUI1NldncFgzM1E3aFo1NHFTV3E2YTM0UDNHeU9oUE1teS1MYVozbzVzQWM4MUY3UUF0X2hFcFFBVU1ROUYyWTlUMlMtSEJiQkJIbi1vTVhjRU9HOXYwNmhrdHhWQzRNLU1TUHRXdzdtTUVZZ05VRzFmRkpTakdZR2tjN0I?oc=5>
 
-### 'Trump Accounts' Are About to Launch. Here's What to Know. -- WSJ
+### 创下美国总统新纪录，特朗普重返白宫首年赚了多少钱？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新蓝网
+- 时间: 2026-07-02 09:16
+- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE9uS2RzeW1JdnVFbmpzT0JaT0UzZTF0WGliTXdSTDVISlBvS2ozcjhXdVVZc2F5OUJyeDlsa0JPVXl6QjduVjdOUm1aOWlpa0E?oc=5>
+
+### OFFICIAL TRUMP 价格 | TRUMP. 价格指数、实时图表和市值
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 富途牛牛
-- 时间: 2026-07-02 16:33
-- 链接: <https://news.google.com/rss/articles/CBMikAFBVV95cUxOa2lYX1gtd1dDVUFnN1RMM3MxZVZpaTM2Vzluei1qeWV0REFnWWZaVXktcV9TODB5NG90X0w1TlFVWlhFdUZOMzVKSFJ1b2RlUm9EWW83TE9MNHRxcnA4WkJnU1FUZ0dkbXJGUUJnOEdzTG1zMnB2cV8zYUt4NDRHY1lEbko2MGVpM1R0SWNndk4?oc=5>
+- 场馆: OKX
+- 时间: 2026-07-02 08:25
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RSnE0WElISWw0MzF5N2xVekVScExoTTJldHJCNG1DM3lwemxLMEFxZm02UDFfNmN4djZtRHZSZUtsNVgtLThJMlZwYV9EWnRhX29JNHdIcmlPakROM1hVSGlQc3I3TXFN?oc=5>
+
+### 美学者：世界进入“零极时代” 川普“革命”正在失败
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 文学城
+- 时间: 2026-07-02 16:58
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE43cV9pb0JTZ0hyQ1I2dUZiT0x0WnhNZk5sZ0phWnlsWEhCXzFfUVNoNUs0dE9oYXNzSy1LWG85UUZMY25FZXAwZVFHb2Y1MFhXTF9NbDNIZ1p3Q3hEdm1fU3N2NzlhMGZ4?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-02 19:15  (8 条)
+
+- **周杰伦** | 新浪演唱会热点小时报丨2026年07月03日03时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001907og8a.html>
+- **周杰伦** | 五月天张杰邓紫棋孙燕姿F3......谁是今年演唱会的“现场之王”?_Ella_演出_周杰伦 <https://k.sina.com.cn/article_7857201856_1d45362c001907oega.html>
+- **特朗普** | 意大利总理梅洛尼回应下跪特朗普质疑，强调西方团结 <https://news.google.com/rss/articles/CBMic0FVX3lxTE5oYlN6TFQ4YVNTZUpNWnhsM1ZWMllYeVQtbUxkVGhkYVVFV0tzMmpCYkwtWXhiUmtVZVQ4VnZIdUdKZlhXWlNFMDhsc21XWFBFakFuaE5IQ3FTdlhZSUUtMFd0Yzg0eWNqUDlIcTJBUEYwbVE?oc=5>
+- **特朗普** | 特朗普经济幕僚哈塞特批评鲍威尔继续留在美联储 <https://news.google.com/rss/articles/CBMivgJBVV95cUxNVXFqenFUckx6UW1fV2l1bXJ3dmM5S0xidFhTLTY4Vk9FQnFLTG00M2pKdWZVSDdmemdFa1RUdnBxeHNkRURGRHZJOFQ4R0I0LVpEc2lvNFkxWEV2MkRtWFo4aF9pd0lYTlkzOHl2Yk1PWWJBOEJqQ1p5MDJYcE5wZGdpZE5OYlpGQzd4TVVJdkhqODRjVUhuME9wMWJvVjh6RVBYaFNuLUdYMmo0UTR0UlMyRF9URDRiQVozYlBweDFlYnVlSDVldVROZ2pudDVpWmRyU1B4OE05b25VR05RWDRudXJGeVAxQ0Q5aGVSWUZQRWNvSzVsVmEza3l3dlJYY3pQUnI0dHk0aG1fYkVwTDdLQzRzY2dsSTB2ejItRC1zU2pSNmNkNDE1dE5DUzBwek9vRk92bEU4TXZaN2c?oc=5>
+- **特朗普** | 年赚超22亿美元！特朗普回应：股市在上涨，每个人都在赚钱！ <https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVWZnWC1wbnFhcmpkOVp2LUdkNjRuLTlNWE5JaU5DTzZLc0J6OWUzRG1ETGxkN09DQm5JT0lteUN5dHRTSkJoSklndkhfeUJFNG5nNTNwalJDdi14bUI1NldncFgzM1E3aFo1NHFTV3E2YTM0UDNHeU9oUE1teS1MYVozbzVzQWM4MUY3UUF0X2hFcFFBVU1ROUYyWTlUMlMtSEJiQkJIbi1vTVhjRU9HOXYwNmhrdHhWQzRNLU1TUHRXdzdtTUVZZ05VRzFmRkpTakdZR2tjN0I?oc=5>
+- **特朗普** | 创下美国总统新纪录，特朗普重返白宫首年赚了多少钱？ <https://news.google.com/rss/articles/CBMiT0FVX3lxTE9uS2RzeW1JdnVFbmpzT0JaT0UzZTF0WGliTXdSTDVISlBvS2ozcjhXdVVZc2F5OUJyeDlsa0JPVXl6QjduVjdOUm1aOWlpa0E?oc=5>
+- **Trump** | OFFICIAL TRUMP 价格 | TRUMP. 价格指数、实时图表和市值 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RSnE0WElISWw0MzF5N2xVekVScExoTTJldHJCNG1DM3lwemxLMEFxZm02UDFfNmN4djZtRHZSZUtsNVgtLThJMlZwYV9EWnRhX29JNHdIcmlPakROM1hVSGlQc3I3TXFN?oc=5>
+- **Trump** | 美学者：世界进入“零极时代” 川普“革命”正在失败 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE43cV9pb0JTZ0hyQ1I2dUZiT0x0WnhNZk5sZ0phWnlsWEhCXzFfUVNoNUs0dE9oYXNzSy1LWG85UUZMY25FZXAwZVFHb2Y1MFhXTF9NbDNIZ1p3Q3hEdm1fU3N2NzlhMGZ4?oc=5>
 
 ### 2026-07-02 17:40  (5 条)
 
