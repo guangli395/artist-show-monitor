@@ -1,104 +1,149 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-02 01:30**
-- 本轮扫到 5600 条, 新增 **13** 条
+- 最近更新: **2026-07-02 05:35**
+- 本轮扫到 5616 条, 新增 **16** 条
 
 ---
 
-## 本轮新发现 (13 条)
+## 本轮新发现 (16 条)
 
-### 樊振东杜塞尔多夫红色战袍照发布
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2535760180_m9724a13403301avn8.html>
-
-### 26岁内地歌手蔡徐坤签售会人气爆火，1天涨粉10万凭的是什么？
+### what a day! 蔡徐坤蔡徐坤新歌whataday
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801akm6.html>
+- 链接: <https://k.sina.com.cn/article_7879923674_m1d5ae17da03301i13s.html>
 
-### 粉丝001号自述与蔡徐坤签售会互动细节
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002n30s.html>
-
-### 粉丝分享蔡徐坤出道八年首场签售会暖心互动
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002n30i.html>
-
-### 新浪演唱会热点小时报丨2026年07月02日09时_今日实时演唱会热点速递
+### 谁会打破张学友的千场演唱会纪录？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907nfb0.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ufju.html>
 
-### 周杰伦官方是否会回应演唱会争议？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801uc8s.html>
-
-### 周杰伦演唱会天价黄牛票该如何监管？
+### 张学友千场演唱会总票房有多少？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801uc7m.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ufjs.html>
 
-### 周杰伦演唱会连曝争议：万元票价+迟到被拒引热议
+### 周杰伦暑假携新专辑上线，舞台开放点歌宠粉
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801uc7k.html>
+- 链接: <https://k.sina.com.cn/article_5934541885_m161b9ec3d03301e2qs.html>
 
-### 赠票、颁奖、入驻特朗普大厦：国际足联主席与特朗普的“体育外交”面临质询
+### 周杰伦寒暑假行程曝光，新专辑巡演带娃两不误
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5727695436_m15565b24c03301qr4y.html>
+
+### 新浪演唱会热点小时报丨2026年07月02日11时_今日实时演唱会热点速递
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907nho6.html>
+
+### 45岁周杰伦鸟巢演唱会散场后，场外为何秒变万人露天KTV？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801ahr2.html>
+
+### 特朗普竞选名曲《Y.M.C.A.》原唱去世，特朗普发文悼念，称自己让这首歌重新走红
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-07-02 05:05
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFB0NDh2OTd4WmROcTlyX182ZEFpekxQZy1tQ2ljdWl1VElXZXlDejlBNkxuTV8zVE1nUXF0b2pKcDlJV2N5cFZKNk4xOUUzUWRiY1puU2tPcVlYc0JIY2hfTlBhMnRjOGVkWkd2bGZzUGM?oc=5>
+
+### 特朗普去年因加密货币大赚12亿美元，927页投资内幕曝光
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-01 23:07
-- 链接: <https://news.google.com/rss/articles/CBMiigJBVV95cUxOSVhTbWptUkcxRlMxWjR5N0NjT1N5aGhRWmxJa2x1a0dza1dFcUNmSjRTVFl2Y2hENlBmN25jNzVSMXJFM2h6cU94NGp5dkkzQVBsM0twd2lFTlJVTFRGc3lIc283b2lnZ3lybVFCNkdlb3hDbXV4WFBCVUVuSEJqTzRVU3p2emVlcXlrM0FJdEp4eU5IS05ZTXFscDZSX0JOS3MwNG5nNlRUdnRMNXlmZWowZ2RnNmF5NVBhQ25KTGVpOTBjdmVpLThSTjRFb2lMbFdEem5NNXJranpoNWNVbWMxTXExWkNJREc5VElvaVNOZ2xiY3hMaC1HNVRfOFhrZTctT2QzbUxQZw?oc=5>
+- 时间: 2026-07-02 04:39
+- 链接: <https://news.google.com/rss/articles/CBMipwFBVV95cUxOdVN0ZXdlekFLNUs2VGxjbXVxMm9yc2U1V1M3NVlYM3ZTTU9MRUlkWktBY2MzWWZOXy1DSk5nTGs1U3U4MFVuajBrWVA3akxkLS1oU1F1U2drakVZcG5XeEIzX05TQjBSTHIwa3h3RXZsUnlMT25nMVpsbjR1cVpvVm0zT3E1WnhBWDVYNFotY05lMmtEVVRNM2F1Q3pIM250VS1acU1ONA?oc=5>
 
-### 2025年收入数十亿美元，特朗普称外部机构“运作我的钱”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-01 15:27
-- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxPTVFsa2hteEphRTBEMjNDRFUxNWJHbmVodTY5b2o5UnZ6dWJNNGQwZ3B0N08xUVAxdl9YQmd3d2NmRXFJUVFXX2NqdnBDQjRSbV8wUTRFU1FjZlZSaUFEYVVKZ2gwNkxuSW5Ta0piWWJyaUFpV0pJOWdEZ2NLWjI0OU90SXM3YThNdVE?oc=5>
-
-### 奥巴马说特朗普这仗打了个寂寞 中东局势恶化风险升高
+### 特朗普首度乘坐新“空军一号”，机舱内部细节曝光｜现场直击 豪华内饰引人注目
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 中华网
-- 时间: 2026-07-02 00:20
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE85d1hwRjJzbUkzRTNfWDlfc190SkNuZG9UTnlGYnpzc3o0c3d2eFV0RHRlTmtNZDM1ZU11TjhPYmhhRGExdklRdU9QdEJDM2xNdmhjY1ZZYUZyLUtLWjQ5cmJMVWNSb1hUU1o0UGVHQ2I?oc=5>
+- 时间: 2026-07-02 05:09
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9HcWMzcW83aC1Eam1mS1plUGdseF9QdXhnZ3ZRV2prWWMxQ0pNNGphM1lTeXB6S0NQVFFpUDFhWTZrZDlkN1U1OUVQMFVBUnZ6WWw4bVBpamt6WThzRWlIQVhPcmhIQ1piWnVFRVZ5bUw?oc=5>
 
-### 加密货币押注与房地产交易：透视特朗普年赚20亿美元的一年
+### 遭特朗普讽刺后，英首相最热人选拒绝美国邀请
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-06-30 07:11
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9DbWRxVmUtTDhDV3JQS0NFY1pLbWRsZmtPbVFxMzJjLU5rQmVDM1VvLU9WLVNpeHJVckJPQ1RVWHlma1RrMDBVSktjbi0?oc=5>
+
+### 特朗普政府料不延长《美墨加协定》 启动10年终止倒计时
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-07-01 00:39
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1xSGNPRWZ1OXhxTmNJaVlFeE10OXpud3ZYdjZ3MmpSN0ZCVjVuaC1SSjZ0NmVGQzYwYTFnN2FFX3VPZndtb0E2WVJQeDBlZWl4bkpQeDNzUU91d2tXSU1CVmJpOVJCZw?oc=5>
+
+### 特朗普靠加密货币狂赚14亿美元，投资者却损失惨重
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-07-02 00:30
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE9yOFdWUFk4YnhaOXNWLXlyeDZ5S19VMUVlS2VFZEI3SjFjRHUteEVmQmxZY1NiRU84SXRhS3JkU0dSVE91Vkh2Ti1EMjJVX1pHOUMxdG4xMF9abTdSZXpyU1NVVjhOR0FuRjZFZWRadW45NDA?oc=5>
+- 场馆: 纽约时报中文网
+- 时间: 2026-07-02 02:26
+- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE91Uk8tV3laX0pJSEh4TzhDZlVEYXo0Z3lwN3RqX3hDaGg2WUJ0enM1VEdXQVZjYXh3UHhsazI0T3ZycmpxU2Izd0Q2UTRLcllUM1d3SXFnNTZNQld4cUxaeERFY0JDQ1B0UjFIQ2FPRWNuS01pdVhjSHh3SG8?oc=5>
 
-### 特朗普重大突发！美媒：特朗普回应在任期间加密货币获利的惊人报告
+### 特朗普称美伊会谈“进展顺利”伊朗宣布多哈技术谈判结束
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: FX168财经
-- 时间: 2026-07-02 01:05
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE05RC12NF9LZWJ0bmNQUHZPd0hfeWFhWFhObkxRZmdQamMtdmNZR3g3NjBRQm5zTFVhWVIxQjQyTXRuZWF4SVJuSTlWSGZPYWJmVDVaR0F6eXAzMEhfd1BCWVMtX1Y1d0plVWZBbnk2LXVXMzl2SENUYQ?oc=5>
+- 场馆: RFI
+- 时间: 2026-07-01 21:39
+- 链接: <https://news.google.com/rss/articles/CBMiggNBVV95cUxQUDh0bG5TSWdiZThiTTg4NkhqUk4waE9SV0hYWFl1X1FWQVNYeGhVdllEZ1JoOWxLcGtGQUV5N1BieHJpa1VycFNWdEpPOWxONlBKbUZvYmt1cWRJUnFvQWFiYk1PUHYwUHo1R3NaNTZRV2gwOEtpdXgyQ3NVcGlfck5lSlNpMTRITEsxOGhod1dLcEJyQzFUOS1fd1dYRXlaWWduTDh6RU0zQ18ycWZXQTAydUZ6Nmg4d3J5NU5ZbTRweXkwZ3JZckJnRkduYzRtWFg4T2s1RzlESWFFdVVWYkFJbGdXUmdWNkhYbnRyTFdwR2tPYmtoV2Q0SjdUd1dwSVlhUWxpSk44WmhNTUhHTnVxV09HOWs5WVotb1ZhQnB0VWNETzZYTWt3X3dEYU5OS05MX0VUd3NXMGNSeVBXZDJtUVZjWTVQaWxrOXRic19TZ0cwZjJPb0RkTzl2LWFyRDd6NVN0RmRDZ0RxUWhGbHcyVm4wQmNjTnZjNkdFWHF0dw?oc=5>
+
+### 特朗普报告其2025年加密货币收入至少为$14亿
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-07-02 02:57
+- 链接: <https://news.google.com/rss/articles/CBMingFBVV95cUxOZmFlU0p1UkZ6aXZKeWxVelZMbGgtcWJ2bmExNzJ3Wlk1ZVFlM0xaN1R5NGRwc0Q5UEI3ZVc4VXpCZEM1ZmE0MktDNm9aYUVONEtFN0EzUTMyZTdad1NxMjlJNXgwSUUtQVFOTXJ6YTk0TC03NDZ0LW5vMXZ2NVNiRXcyc1dZRlNsczVxbFd4bEc2UFNwdkM1QWp1UlVFQQ?oc=5>
+
+### 特朗普靠加密货币狂赚14亿美元，投资者却损失惨重
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 茉莉花新闻网
+- 时间: 2026-07-02 04:47
+- 链接: <https://news.google.com/rss/articles/CBMiwwJBVV95cUxORm50Tnh1TFZINnRfUGVaUGxQMzI4ZDZDQUp0bXA0aHhMS21xeUYyUUUwc2ZLd0RucU9ydlFzZEdVRlZFWXU2el9YSlZUMXJkckFmQ3AyaWNoeFNBSl9ONmFYNEhyQmloT0o5b0g5YnNCTzVnQzRzNXdma2lUcF8xVDJiUVZERDFUR09fV2t0Z2g3bzZqak9WWkR5V0ZFYXRHbXNueGlwZzg2YXU4LWNwZmozRzdpZk45d2pWQzVNNFR2V1M3UkRSUVFzR2lJSUdLaUIzdTNDOHZWODY3YUxkMkQ2aE5zaDdaWTVzeUlwQUoyOHN2NkIwajhzSFlnd3VRd0c0aWdEWU5MQ2ZHaUdZZE8xd2oxYW95Mm9tSmY4RDBxNTkyQmJQOG5DSkxSSXliX3JCNVZLREVfOC14QWphb1M4OA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-02 05:35  (16 条)
+
+- **蔡徐坤** | what a day! 蔡徐坤蔡徐坤新歌whataday <https://k.sina.com.cn/article_7879923674_m1d5ae17da03301i13s.html>
+- **周杰伦** | 谁会打破张学友的千场演唱会纪录？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801ufju.html>
+- **周杰伦** | 张学友千场演唱会总票房有多少？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801ufjs.html>
+- **周杰伦** | 周杰伦暑假携新专辑上线，舞台开放点歌宠粉 <https://k.sina.com.cn/article_5934541885_m161b9ec3d03301e2qs.html>
+- **周杰伦** | 周杰伦寒暑假行程曝光，新专辑巡演带娃两不误 <https://k.sina.com.cn/article_5727695436_m15565b24c03301qr4y.html>
+- **周杰伦** | 新浪演唱会热点小时报丨2026年07月02日11时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001907nho6.html>
+- **周杰伦** | 45岁周杰伦鸟巢演唱会散场后，场外为何秒变万人露天KTV？ <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801ahr2.html>
+- **特朗普** | 特朗普竞选名曲《Y.M.C.A.》原唱去世，特朗普发文悼念，称自己让这首歌重新走红 <https://news.google.com/rss/articles/CBMicEFVX3lxTFB0NDh2OTd4WmROcTlyX182ZEFpekxQZy1tQ2ljdWl1VElXZXlDejlBNkxuTV8zVE1nUXF0b2pKcDlJV2N5cFZKNk4xOUUzUWRiY1puU2tPcVlYc0JIY2hfTlBhMnRjOGVkWkd2bGZzUGM?oc=5>
+- **特朗普** | 特朗普去年因加密货币大赚12亿美元，927页投资内幕曝光 <https://news.google.com/rss/articles/CBMipwFBVV95cUxOdVN0ZXdlekFLNUs2VGxjbXVxMm9yc2U1V1M3NVlYM3ZTTU9MRUlkWktBY2MzWWZOXy1DSk5nTGs1U3U4MFVuajBrWVA3akxkLS1oU1F1U2drakVZcG5XeEIzX05TQjBSTHIwa3h3RXZsUnlMT25nMVpsbjR1cVpvVm0zT3E1WnhBWDVYNFotY05lMmtEVVRNM2F1Q3pIM250VS1acU1ONA?oc=5>
+- **特朗普** | 特朗普首度乘坐新“空军一号”，机舱内部细节曝光｜现场直击 豪华内饰引人注目 <https://news.google.com/rss/articles/CBMicEFVX3lxTE9HcWMzcW83aC1Eam1mS1plUGdseF9QdXhnZ3ZRV2prWWMxQ0pNNGphM1lTeXB6S0NQVFFpUDFhWTZrZDlkN1U1OUVQMFVBUnZ6WWw4bVBpamt6WThzRWlIQVhPcmhIQ1piWnVFRVZ5bUw?oc=5>
+- **特朗普** | 遭特朗普讽刺后，英首相最热人选拒绝美国邀请 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9DbWRxVmUtTDhDV3JQS0NFY1pLbWRsZmtPbVFxMzJjLU5rQmVDM1VvLU9WLVNpeHJVckJPQ1RVWHlma1RrMDBVSktjbi0?oc=5>
+- **特朗普** | 特朗普政府料不延长《美墨加协定》 启动10年终止倒计时 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1xSGNPRWZ1OXhxTmNJaVlFeE10OXpud3ZYdjZ3MmpSN0ZCVjVuaC1SSjZ0NmVGQzYwYTFnN2FFX3VPZndtb0E2WVJQeDBlZWl4bkpQeDNzUU91d2tXSU1CVmJpOVJCZw?oc=5>
+- **Trump** | 特朗普靠加密货币狂赚14亿美元，投资者却损失惨重 <https://news.google.com/rss/articles/CBMifEFVX3lxTE91Uk8tV3laX0pJSEh4TzhDZlVEYXo0Z3lwN3RqX3hDaGg2WUJ0enM1VEdXQVZjYXh3UHhsazI0T3ZycmpxU2Izd0Q2UTRLcllUM1d3SXFnNTZNQld4cUxaeERFY0JDQ1B0UjFIQ2FPRWNuS01pdVhjSHh3SG8?oc=5>
+- **Trump** | 特朗普称美伊会谈“进展顺利”伊朗宣布多哈技术谈判结束 <https://news.google.com/rss/articles/CBMiggNBVV95cUxQUDh0bG5TSWdiZThiTTg4NkhqUk4waE9SV0hYWFl1X1FWQVNYeGhVdllEZ1JoOWxLcGtGQUV5N1BieHJpa1VycFNWdEpPOWxONlBKbUZvYmt1cWRJUnFvQWFiYk1PUHYwUHo1R3NaNTZRV2gwOEtpdXgyQ3NVcGlfck5lSlNpMTRITEsxOGhod1dLcEJyQzFUOS1fd1dYRXlaWWduTDh6RU0zQ18ycWZXQTAydUZ6Nmg4d3J5NU5ZbTRweXkwZ3JZckJnRkduYzRtWFg4T2s1RzlESWFFdVVWYkFJbGdXUmdWNkhYbnRyTFdwR2tPYmtoV2Q0SjdUd1dwSVlhUWxpSk44WmhNTUhHTnVxV09HOWs5WVotb1ZhQnB0VWNETzZYTWt3X3dEYU5OS05MX0VUd3NXMGNSeVBXZDJtUVZjWTVQaWxrOXRic19TZ0cwZjJPb0RkTzl2LWFyRDd6NVN0RmRDZ0RxUWhGbHcyVm4wQmNjTnZjNkdFWHF0dw?oc=5>
+- **Trump** | 特朗普报告其2025年加密货币收入至少为$14亿 <https://news.google.com/rss/articles/CBMingFBVV95cUxOZmFlU0p1UkZ6aXZKeWxVelZMbGgtcWJ2bmExNzJ3Wlk1ZVFlM0xaN1R5NGRwc0Q5UEI3ZVc4VXpCZEM1ZmE0MktDNm9aYUVONEtFN0EzUTMyZTdad1NxMjlJNXgwSUUtQVFOTXJ6YTk0TC03NDZ0LW5vMXZ2NVNiRXcyc1dZRlNsczVxbFd4bEc2UFNwdkM1QWp1UlVFQQ?oc=5>
+- **Trump** | 特朗普靠加密货币狂赚14亿美元，投资者却损失惨重 <https://news.google.com/rss/articles/CBMiwwJBVV95cUxORm50Tnh1TFZINnRfUGVaUGxQMzI4ZDZDQUp0bXA0aHhMS21xeUYyUUUwc2ZLd0RucU9ydlFzZEdVRlZFWXU2el9YSlZUMXJkckFmQ3AyaWNoeFNBSl9ONmFYNEhyQmloT0o5b0g5YnNCTzVnQzRzNXdma2lUcF8xVDJiUVZERDFUR09fV2t0Z2g3bzZqak9WWkR5V0ZFYXRHbXNueGlwZzg2YXU4LWNwZmozRzdpZk45d2pWQzVNNFR2V1M3UkRSUVFzR2lJSUdLaUIzdTNDOHZWODY3YUxkMkQ2aE5zaDdaWTVzeUlwQUoyOHN2NkIwajhzSFlnd3VRd0c0aWdEWU5MQ2ZHaUdZZE8xd2oxYW95Mm9tSmY4RDBxNTkyQmJQOG5DSkxSSXliX3JCNVZLREVfOC14QWphb1M4OA?oc=5>
 
 ### 2026-07-02 01:30  (13 条)
 
