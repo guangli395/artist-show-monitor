@@ -1,76 +1,76 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-02 19:15**
-- 本轮扫到 5681 条, 新增 **8** 条
+- 最近更新: **2026-07-02 20:40**
+- 本轮扫到 5688 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (7 条)
 
-### 新浪演唱会热点小时报丨2026年07月03日03时_今日实时演唱会热点速递
+### 王一博骆驼防晒品牌全球首席代言人 7月3日10点开抢限定礼盒怎么买？
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801uyg6.html>
+
+### 谁是华语乐坛演唱会巡演纪录总场次第二？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907og8a.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801uz02.html>
 
-### 五月天张杰邓紫棋孙燕姿F3......谁是今年演唱会的“现场之王”?_Ella_演出_周杰伦
+### 阵容突变！周杰伦五月天阿信携手F4成员，发布新歌《恒星不忘》
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907oega.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907ohzy.html>
 
-### 意大利总理梅洛尼回应下跪特朗普质疑，强调西方团结
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-07-02 18:28
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5oYlN6TFQ4YVNTZUpNWnhsM1ZWMllYeVQtbUxkVGhkYVVFV0tzMmpCYkwtWXhiUmtVZVQ4VnZIdUdKZlhXWlNFMDhsc21XWFBFakFuaE5IQ3FTdlhZSUUtMFd0Yzg0eWNqUDlIcTJBUEYwbVE?oc=5>
-
-### 特朗普经济幕僚哈塞特批评鲍威尔继续留在美联储
+### 赠票、颁奖、入驻特朗普大厦：国际足联主席与特朗普的“体育外交”面临质询
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-02 17:46
-- 链接: <https://news.google.com/rss/articles/CBMivgJBVV95cUxNVXFqenFUckx6UW1fV2l1bXJ3dmM5S0xidFhTLTY4Vk9FQnFLTG00M2pKdWZVSDdmemdFa1RUdnBxeHNkRURGRHZJOFQ4R0I0LVpEc2lvNFkxWEV2MkRtWFo4aF9pd0lYTlkzOHl2Yk1PWWJBOEJqQ1p5MDJYcE5wZGdpZE5OYlpGQzd4TVVJdkhqODRjVUhuME9wMWJvVjh6RVBYaFNuLUdYMmo0UTR0UlMyRF9URDRiQVozYlBweDFlYnVlSDVldVROZ2pudDVpWmRyU1B4OE05b25VR05RWDRudXJGeVAxQ0Q5aGVSWUZQRWNvSzVsVmEza3l3dlJYY3pQUnI0dHk0aG1fYkVwTDdLQzRzY2dsSTB2ejItRC1zU2pSNmNkNDE1dE5DUzBwek9vRk92bEU4TXZaN2c?oc=5>
+- 时间: 2026-07-02 20:30
+- 链接: <https://news.google.com/rss/articles/CBMiowJBVV95cUxPbTh0azJhQV9YNlVRNGNjSjhHbjN3azU1Q1pBNUJPOEZGbUdsVGVEXzJsRWlHRGlHRWdwTDBlbmZyLVNtRC1jWTJJdkpkZUJYSGVXZFptX0ZHaU5ETHBUOTdPOFpXQlZfMFNpbWdiY3ljQl9LbkFIRFJTNlRWUV8tOVh0aFZicC1GVTU2NTBLYTBUYUFmUmhGQjJMSExGWDFBVzN0LTF0SFNNZHotbl80djNQNldpdDhpd1E5ekZvdEVqV0lnSEt1eE9jNll5VmJ2VGxnaWVFN3h2aXVaLWV2YmlkcWFhWjlNQzJvaElqeHV1N2xmRjNEU2t5NnNUNW91MlpUUzRkMFpQZkp1TENNQjRRSFFoZW55cUpLaHUweVFqd2M?oc=5>
 
-### 年赚超22亿美元！特朗普回应：股市在上涨，每个人都在赚钱！
+### 特朗普：美国不会让中国接管巴拿马运河
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-07-02 04:41
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5YT0VkS2xoODU2YWVWYWlOVWhIOVY5cmRmWkpwNXRFX1lsNEwyYWlxVWt3bWtwdjJaSkI0Z3NtTkQ1UGI0QXRlamVKTlNPQXprX2VWMHNZbjBBRDcwRk9ONDg2NXBSZw?oc=5>
+
+### 特朗普财务披露显示2025年交易逾2.1万笔
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-02 03:04
-- 链接: <https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVWZnWC1wbnFhcmpkOVp2LUdkNjRuLTlNWE5JaU5DTzZLc0J6OWUzRG1ETGxkN09DQm5JT0lteUN5dHRTSkJoSklndkhfeUJFNG5nNTNwalJDdi14bUI1NldncFgzM1E3aFo1NHFTV3E2YTM0UDNHeU9oUE1teS1MYVozbzVzQWM4MUY3UUF0X2hFcFFBVU1ROUYyWTlUMlMtSEJiQkJIbi1vTVhjRU9HOXYwNmhrdHhWQzRNLU1TUHRXdzdtTUVZZ05VRzFmRkpTakdZR2tjN0I?oc=5>
+- 时间: 2026-07-02 20:26
+- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxOSzh4YUM1MndrUHJlcnpSWW0zdWI1MFZsUDB2S2lYRkRIMmczdzVHZVNIYjJEdGRtdEtRUU0wQlA1QXZaRjdQdkcydW5QaVBnRVJGd1F6QXVoQS14UXNZNkxVcXNfbkpPaklsbVBueGRjZmZyTVJhQTlycGRBWkFrYXFpSHZKNWpYRE83X1lfVmtYRzlfUDlUdF9WbWI?oc=5>
 
-### 创下美国总统新纪录，特朗普重返白宫首年赚了多少钱？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新蓝网
-- 时间: 2026-07-02 09:16
-- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE9uS2RzeW1JdnVFbmpzT0JaT0UzZTF0WGliTXdSTDVISlBvS2ozcjhXdVVZc2F5OUJyeDlsa0JPVXl6QjduVjdOUm1aOWlpa0E?oc=5>
-
-### OFFICIAL TRUMP 价格 | TRUMP. 价格指数、实时图表和市值
+### 分析师：特朗普在TRUMP上净套现额至少10亿美元，且个人还持约1亿美元加密货币
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: OKX
-- 时间: 2026-07-02 08:25
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RSnE0WElISWw0MzF5N2xVekVScExoTTJldHJCNG1DM3lwemxLMEFxZm02UDFfNmN4djZtRHZSZUtsNVgtLThJMlZwYV9EWnRhX29JNHdIcmlPakROM1hVSGlQc3I3TXFN?oc=5>
-
-### 美学者：世界进入“零极时代” 川普“革命”正在失败
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 文学城
-- 时间: 2026-07-02 16:58
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE43cV9pb0JTZ0hyQ1I2dUZiT0x0WnhNZk5sZ0phWnlsWEhCXzFfUVNoNUs0dE9oYXNzSy1LWG85UUZMY25FZXAwZVFHb2Y1MFhXTF9NbDNIZ1p3Q3hEdm1fU3N2NzlhMGZ4?oc=5>
+- 场馆: TradingView
+- 时间: 2026-07-01 00:43
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iVE1OUFloUGlTYmpBS1F6UlVZbmVxMWhhVGVodUdwQk9wTUJHTXlFVUJnVjdKRVd0RzlKdTVoVUJXRGY0LXVGT0l5c1B2REZTLUVCQlEyRjJLSFFzVk82OHA3d2s0UQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-02 20:40  (7 条)
+
+- **王一博** | 王一博骆驼防晒品牌全球首席代言人 7月3日10点开抢限定礼盒怎么买？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801uyg6.html>
+- **周杰伦** | 谁是华语乐坛演唱会巡演纪录总场次第二？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801uz02.html>
+- **周杰伦** | 阵容突变！周杰伦五月天阿信携手F4成员，发布新歌《恒星不忘》 <https://k.sina.com.cn/article_7857201856_1d45362c001907ohzy.html>
+- **特朗普** | 赠票、颁奖、入驻特朗普大厦：国际足联主席与特朗普的“体育外交”面临质询 <https://news.google.com/rss/articles/CBMiowJBVV95cUxPbTh0azJhQV9YNlVRNGNjSjhHbjN3azU1Q1pBNUJPOEZGbUdsVGVEXzJsRWlHRGlHRWdwTDBlbmZyLVNtRC1jWTJJdkpkZUJYSGVXZFptX0ZHaU5ETHBUOTdPOFpXQlZfMFNpbWdiY3ljQl9LbkFIRFJTNlRWUV8tOVh0aFZicC1GVTU2NTBLYTBUYUFmUmhGQjJMSExGWDFBVzN0LTF0SFNNZHotbl80djNQNldpdDhpd1E5ekZvdEVqV0lnSEt1eE9jNll5VmJ2VGxnaWVFN3h2aXVaLWV2YmlkcWFhWjlNQzJvaElqeHV1N2xmRjNEU2t5NnNUNW91MlpUUzRkMFpQZkp1TENNQjRRSFFoZW55cUpLaHUweVFqd2M?oc=5>
+- **特朗普** | 特朗普：美国不会让中国接管巴拿马运河 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5YT0VkS2xoODU2YWVWYWlOVWhIOVY5cmRmWkpwNXRFX1lsNEwyYWlxVWt3bWtwdjJaSkI0Z3NtTkQ1UGI0QXRlamVKTlNPQXprX2VWMHNZbjBBRDcwRk9ONDg2NXBSZw?oc=5>
+- **特朗普** | 特朗普财务披露显示2025年交易逾2.1万笔 <https://news.google.com/rss/articles/CBMinAFBVV95cUxOSzh4YUM1MndrUHJlcnpSWW0zdWI1MFZsUDB2S2lYRkRIMmczdzVHZVNIYjJEdGRtdEtRUU0wQlA1QXZaRjdQdkcydW5QaVBnRVJGd1F6QXVoQS14UXNZNkxVcXNfbkpPaklsbVBueGRjZmZyTVJhQTlycGRBWkFrYXFpSHZKNWpYRE83X1lfVmtYRzlfUDlUdF9WbWI?oc=5>
+- **Trump** | 分析师：特朗普在TRUMP上净套现额至少10亿美元，且个人还持约1亿美元加密货币 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iVE1OUFloUGlTYmpBS1F6UlVZbmVxMWhhVGVodUdwQk9wTUJHTXlFVUJnVjdKRVd0RzlKdTVoVUJXRGY0LXVGT0l5c1B2REZTLUVCQlEyRjJLSFFzVk82OHA3d2s0UQ?oc=5>
 
 ### 2026-07-02 19:15  (8 条)
 
