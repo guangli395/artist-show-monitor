@@ -1,96 +1,73 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-02 13:18**
-- 本轮扫到 5662 条, 新增 **11** 条
+- 最近更新: **2026-07-02 15:38**
+- 本轮扫到 5668 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (11 条)
+## 本轮新发现 (6 条)
 
-### 三木点评:地表最强2演唱会票房只排第五?周杰伦不服_周董
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907nzze.html>
-
-### 阿信会在五月天大巨蛋演唱会唱这首歌吗
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801uq0s.html>
-
-### 周杰伦演唱会抢票:每秒300万次点击下,哪些技巧能胜出
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907nxcu.html>
-
-### 10位在英国伦敦开过世界巡回演唱会的男歌手,谁是你的意料之外?
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907nqcq.html>
-
-### 特朗普：台积电将扩大投资，卸任时美国可能占有全球50%芯片市场
+### 特朗普称近期股市上涨“人人都在赚钱”，但收益大多落入前1%富人腰包
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 21财经
-- 时间: 2026-07-02 12:14
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxPUmFxV1Z3djNYeFE4QnhQNGtycHE0Y0ZnTlRSU3lmX011X0V1Wlpjd2VHcVlaZ3ExR3BXQzZKSHVKcGNOenYxQzhEYkNtQ1luSUNuWkZSM2gybmNvb2JjTzhfanRyem4tbWhoa2wxdDJYWXBkT1BRMjZiVlBWenBWQkhhTGEwSjJFaDNLVQ?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-07-02 14:32
+- 链接: <https://news.google.com/rss/articles/CBMingJBVV95cUxPVzU0dzJXYXZzeUJCeE9PX2VoVDdTQjJOVHRnVTVDd2tCUW0zcjNRWVdPcHo4RDZNeEVYeE1HdnY1aHYxUHVaeUFTakhSUDBmWXdUTW9oS2ZnZHlPaTM5WU9QS0o0d0pNbFFGdHpqbzFkLUd6X3pJMEpBc1lFb3p3NEpkejl4cTFZWUwyUUwzaE9WZVo2M0MyQlVZUHh1SW5Yay15czNHRE9jZEF3T21OUnRsRWYyYlBoZEYxZ0l3X2pPMDlGSWRHU0lySERXQ3paeEU4ZURiY3FkZFVYOEpJZWNoTHVwMDB6T2JEV1JPWDMzajFfWlVDSzlyWVI3VkdjZ0hIcEszdmhVWkdCY2FQMGc2UTNwcER5MkFHbGhR?oc=5>
+
+### 特朗普竞选名曲《Y.M.C.A.》主唱去世 次日特朗普直接跳起该曲舞蹈 以此对其表达悼念
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: video.sina.com.cn
+- 时间: 2026-07-02 14:36
+- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE1fd21rSkNuTmtWZ3dmOXZWc2VpLV9qN2tKejFXaXhnd0FPUHNMX0NWYVBtamhPU0dUbzRuT2lkTWJsd0NadkJqMXBtbm81a3ctS0dqbXpWNWlLN0p4aU1XTk4zM0xvY2N6N2FZQ1VKb1lITGhpaHhOVVp4YjJydw?oc=5>
+
+### 特朗普竞选名曲《Y.M.C.A.》原唱因病去世，终年74岁，特朗普悼念：他将被深深怀念，“是我让这首歌重新走红”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-02 08:36
+- 链接: <https://news.google.com/rss/articles/CBMingFBVV95cUxNMVlFbldwbGhZU1dEeTl4U2lyeU5qOFI5bFQxUG1hcXZmSWxmTDJDQVhWb2JFaWFDbGwtejFOQzY5cFRBWWFja2VwMXZwQ2o3dERaUUkweFdSWGgySFRJbW1ib1ZZcERHUEQ3bE9nODAyU2xHRE1RaXZ1ZDBidEF2cFdGUHBWWExCNHpCb2VhODVjWEZqS2MwUUJBa3M0QQ?oc=5>
 
 ### 特朗普被曝：去年狂赚22亿美元，14亿来自加密货币！被批“利用总统职位牟利”，他喊话：股市在涨，大家都在赚钱，你们该谢我
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-02 12:22
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxQOUZjcmJtaW4zekxKQWFiQlliMi1QZ2U4ZFlyckEzVExzSzJyYzlhVlFWZmxyRWFMYV9OdWFrX0FMUm4wTmxTb2pwVDdDRjlwWGZsSXNTdTF4MVk2RXpmRDM4YnNlbVF3SnNpZ29SQzQ1M2FUQkd3T283UEplNXlFYXI1VGppTDdoU3JkSk9Sbnl2WGRrb3l2bQ?oc=5>
+- 时间: 2026-07-02 13:50
+- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxPcmtZeV8ybXlhT0JFeFBmcWpVRW5uSHpVc1otd3UyT1paRXpURUhZVTFSMDNIYXNaeGU4NXZoQjJ5aWlmTWpwSHdFTF93MlFONlNTOWdIU0lvbTFLLTNneFJiRVFPczVTR1U1VXk5WDdlTzlyemxhQ0NUaW1JTEN3dl9pdlNpY1BIWUhadG91Z3dfcWFa?oc=5>
 
-### 特朗普部分议程遇挫，但最高法院继续右转
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-07-02 04:53
-- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxQYUZGOTdhaC0zREhUY0FZLVdoaGpDNTFOdndwN3BnSERyNzBCZmNSU2E2bmV3NV9PbURLUThoY192b1o4TDQ5UEpBZnd0UnMwamRlNk9hT2NoWTNjeXlyanNEeGVEb0xJS1hZTVNjZ0VOd2s2TzNZWVktejM0a0kxWQ?oc=5>
-
-### 牛弹琴：一觉醒来，特朗普气炸了，中国又躺枪
+### 年赚超22亿美元！特朗普回应：股市在上涨，每个人都在赚钱！
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-06-30 23:13
-- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxNN2dQYjdOR2pQcFo2ZkJFN0RkOTBjMDQ1MmY0cGlvcFNMaDFVZDJudXdYX3k4cEFQa0hscjFycmp5d1FkV0M3NWdxbHd4U3ZTU3JQb1VETW5BWlJ2WDNKc3lpd05iY1FWeW1SX090a3loUDVzU045dnFmbUtSSXk1eWpXcDkwUTZxZHJRV0JYSThFTVRRbjREN1JzbnFKS1lJRU1WYzBQTS1BN3hubmlnRHMxQlF0LTd5MDJtdGptemxNUzdxZ1NOZUlTMDB6d3FKRkE?oc=5>
+- 场馆: Sina finance
+- 时间: 2026-07-02 03:04
+- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxPNTJPeEQteTBuXzFvRUhLbmo2d1RrNWIwX3hzSlh0RWg1dC1BZDJIbWk5c0Z1U3J5YUtpWFVobDNBZEJyZHJqSUh3YkYxWC1EZ0lLNlhUUzJfYThfT3d1T2g1Z0ZDNFEwSTNGMXlyZVU3V2JuUTBGaWlFeDBqTFVOXw?oc=5>
 
-### 美国最高法院对特朗普“小骂大帮忙”？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-07-02 12:10
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE54TTAyckI5cG9pZlVhVTdzWjZJVzAxdmZCTFo2dW9qbFlrbEFlbkVzOE9UUTFReUtWRzZqWDNLeVNGN2ZCSUljYTF0NWRiMlI4Xy1pVk9TWU5HTFFVT1UyNWNMTUU5VkhM?oc=5>
-
-### 第34期《两岸圆桌派》：250岁美国遭遇80岁特朗普，美国人也开始“疑美”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-07-02 06:30
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NMWFKWG1kS18wRzdxcnJVMXpGRDd5QnpFTWlha1dVcEtaQzU1ZUtyUElCUG1Dd2lvazF3SnhqTzU3SEM2REFqVWF3ZTE4elotbWF6dmtDUnRfREJhWGVyRlpmWWI?oc=5>
-
-### Trump Calls Micron the 'Hottest' Company, the Stock Hasn't Stopped Falling Since -- Barrons.com
+### 美伊间接谈判据报取得进展之际油价大跌
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-07-02 11:29
-- 链接: <https://news.google.com/rss/articles/CBMipAFBVV95cUxNSG9BbnlqSjJsNWpHVjR2bEk4V1F1Y1E5UGY1enhmSFZNeXJvblZUa215Z3VObDVKdTVaUHdUS2V2Qk1RWU10UUpMX3h6cWRIWG1CNXh0YW1ydDFHQkVPR0dMeDRxSVYtZVV4WVFnVEpZMDRuM09Ua3VFc2V5VkVxWjN2OGJXbnZ4NWE5ZU54MGxpYjNsa0dpLUZXeENkX0JEZlFsag?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-07-02 15:27
+- 链接: <https://news.google.com/rss/articles/CBMitgFBVV95cUxOT0FKLVNhdllYRE5Mb29oSHZaQUNPaEppeGJRbEdUeHhMeVRfUTZzRW96aklaTGgzb0taWnlBNkp1UmpLTkRyVl9rcjNkb2UyR0RWNk9IVl9CSE0xNGtSWVdmUnpYV0MyVkFNaktoWGFQLXZvUEVGRFcwY1FHdm4xM1NxMDEtZXNkMmozcW1lSUV5T0NXamlDeVN1V0htLWJWTmhucXpHSE1SRG1fRzdmclpIcjAwUdIBuAFBVV95cUxOMkFrT1ROY2ZScWo3MlI5Y3lSU3FwY0RUelE1RHBjY1R2cGtJWWdIRHQ0M0FZQkY2VE50RG10YUFaZWJuY2pzUnlTNks2NG1wRmg1SHZvNDlIMzlCUFVvenhZWWRldDNaSTFrWG1qbExlQWg5MXZVR2ZRbGhhdlhWZXVkVWhCZWJZZ0lDMjRyeVN0bksyRmdfMnhDWGFrN3NoMkttSE5JWktSVndNVDlPLWRvdWZNV29C?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-02 15:38  (6 条)
+
+- **特朗普** | 特朗普称近期股市上涨“人人都在赚钱”，但收益大多落入前1%富人腰包 <https://news.google.com/rss/articles/CBMingJBVV95cUxPVzU0dzJXYXZzeUJCeE9PX2VoVDdTQjJOVHRnVTVDd2tCUW0zcjNRWVdPcHo4RDZNeEVYeE1HdnY1aHYxUHVaeUFTakhSUDBmWXdUTW9oS2ZnZHlPaTM5WU9QS0o0d0pNbFFGdHpqbzFkLUd6X3pJMEpBc1lFb3p3NEpkejl4cTFZWUwyUUwzaE9WZVo2M0MyQlVZUHh1SW5Yay15czNHRE9jZEF3T21OUnRsRWYyYlBoZEYxZ0l3X2pPMDlGSWRHU0lySERXQ3paeEU4ZURiY3FkZFVYOEpJZWNoTHVwMDB6T2JEV1JPWDMzajFfWlVDSzlyWVI3VkdjZ0hIcEszdmhVWkdCY2FQMGc2UTNwcER5MkFHbGhR?oc=5>
+- **特朗普** | 特朗普竞选名曲《Y.M.C.A.》主唱去世 次日特朗普直接跳起该曲舞蹈 以此对其表达悼念 <https://news.google.com/rss/articles/CBMifkFVX3lxTE1fd21rSkNuTmtWZ3dmOXZWc2VpLV9qN2tKejFXaXhnd0FPUHNMX0NWYVBtamhPU0dUbzRuT2lkTWJsd0NadkJqMXBtbm81a3ctS0dqbXpWNWlLN0p4aU1XTk4zM0xvY2N6N2FZQ1VKb1lITGhpaHhOVVp4YjJydw?oc=5>
+- **特朗普** | 特朗普竞选名曲《Y.M.C.A.》原唱因病去世，终年74岁，特朗普悼念：他将被深深怀念，“是我让这首歌重新走红” <https://news.google.com/rss/articles/CBMingFBVV95cUxNMVlFbldwbGhZU1dEeTl4U2lyeU5qOFI5bFQxUG1hcXZmSWxmTDJDQVhWb2JFaWFDbGwtejFOQzY5cFRBWWFja2VwMXZwQ2o3dERaUUkweFdSWGgySFRJbW1ib1ZZcERHUEQ3bE9nODAyU2xHRE1RaXZ1ZDBidEF2cFdGUHBWWExCNHpCb2VhODVjWEZqS2MwUUJBa3M0QQ?oc=5>
+- **特朗普** | 特朗普被曝：去年狂赚22亿美元，14亿来自加密货币！被批“利用总统职位牟利”，他喊话：股市在涨，大家都在赚钱，你们该谢我 <https://news.google.com/rss/articles/CBMilAFBVV95cUxPcmtZeV8ybXlhT0JFeFBmcWpVRW5uSHpVc1otd3UyT1paRXpURUhZVTFSMDNIYXNaeGU4NXZoQjJ5aWlmTWpwSHdFTF93MlFONlNTOWdIU0lvbTFLLTNneFJiRVFPczVTR1U1VXk5WDdlTzlyemxhQ0NUaW1JTEN3dl9pdlNpY1BIWUhadG91Z3dfcWFa?oc=5>
+- **特朗普** | 年赚超22亿美元！特朗普回应：股市在上涨，每个人都在赚钱！ <https://news.google.com/rss/articles/CBMigAFBVV95cUxPNTJPeEQteTBuXzFvRUhLbmo2d1RrNWIwX3hzSlh0RWg1dC1BZDJIbWk5c0Z1U3J5YUtpWFVobDNBZEJyZHJqSUh3YkYxWC1EZ0lLNlhUUzJfYThfT3d1T2g1Z0ZDNFEwSTNGMXlyZVU3V2JuUTBGaWlFeDBqTFVOXw?oc=5>
+- **Trump** | 美伊间接谈判据报取得进展之际油价大跌 <https://news.google.com/rss/articles/CBMitgFBVV95cUxOT0FKLVNhdllYRE5Mb29oSHZaQUNPaEppeGJRbEdUeHhMeVRfUTZzRW96aklaTGgzb0taWnlBNkp1UmpLTkRyVl9rcjNkb2UyR0RWNk9IVl9CSE0xNGtSWVdmUnpYV0MyVkFNaktoWGFQLXZvUEVGRFcwY1FHdm4xM1NxMDEtZXNkMmozcW1lSUV5T0NXamlDeVN1V0htLWJWTmhucXpHSE1SRG1fRzdmclpIcjAwUdIBuAFBVV95cUxOMkFrT1ROY2ZScWo3MlI5Y3lSU3FwY0RUelE1RHBjY1R2cGtJWWdIRHQ0M0FZQkY2VE50RG10YUFaZWJuY2pzUnlTNks2NG1wRmg1SHZvNDlIMzlCUFVvenhZWWRldDNaSTFrWG1qbExlQWg5MXZVR2ZRbGhhdlhWZXVkVWhCZWJZZ0lDMjRyeVN0bksyRmdfMnhDWGFrN3NoMkttSE5JWktSVndNVDlPLWRvdWZNV29C?oc=5>
 
 ### 2026-07-02 13:18  (11 条)
 
