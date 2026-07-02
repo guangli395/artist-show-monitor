@@ -1,64 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-02 15:38**
-- 本轮扫到 5668 条, 新增 **6** 条
+- 最近更新: **2026-07-02 17:40**
+- 本轮扫到 5673 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (5 条)
 
-### 特朗普称近期股市上涨“人人都在赚钱”，但收益大多落入前1%富人腰包
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-02 14:32
-- 链接: <https://news.google.com/rss/articles/CBMingJBVV95cUxPVzU0dzJXYXZzeUJCeE9PX2VoVDdTQjJOVHRnVTVDd2tCUW0zcjNRWVdPcHo4RDZNeEVYeE1HdnY1aHYxUHVaeUFTakhSUDBmWXdUTW9oS2ZnZHlPaTM5WU9QS0o0d0pNbFFGdHpqbzFkLUd6X3pJMEpBc1lFb3p3NEpkejl4cTFZWUwyUUwzaE9WZVo2M0MyQlVZUHh1SW5Yay15czNHRE9jZEF3T21OUnRsRWYyYlBoZEYxZ0l3X2pPMDlGSWRHU0lySERXQ3paeEU4ZURiY3FkZFVYOEpJZWNoTHVwMDB6T2JEV1JPWDMzajFfWlVDSzlyWVI3VkdjZ0hIcEszdmhVWkdCY2FQMGc2UTNwcER5MkFHbGhR?oc=5>
-
-### 特朗普竞选名曲《Y.M.C.A.》主唱去世 次日特朗普直接跳起该曲舞蹈 以此对其表达悼念
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: video.sina.com.cn
-- 时间: 2026-07-02 14:36
-- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE1fd21rSkNuTmtWZ3dmOXZWc2VpLV9qN2tKejFXaXhnd0FPUHNMX0NWYVBtamhPU0dUbzRuT2lkTWJsd0NadkJqMXBtbm81a3ctS0dqbXpWNWlLN0p4aU1XTk4zM0xvY2N6N2FZQ1VKb1lITGhpaHhOVVp4YjJydw?oc=5>
-
-### 特朗普竞选名曲《Y.M.C.A.》原唱因病去世，终年74岁，特朗普悼念：他将被深深怀念，“是我让这首歌重新走红”
+### 特朗普积极评价美伊在卡塔尔进行的间接会谈 美国致力于继续谈判
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-02 08:36
-- 链接: <https://news.google.com/rss/articles/CBMingFBVV95cUxNMVlFbldwbGhZU1dEeTl4U2lyeU5qOFI5bFQxUG1hcXZmSWxmTDJDQVhWb2JFaWFDbGwtejFOQzY5cFRBWWFja2VwMXZwQ2o3dERaUUkweFdSWGgySFRJbW1ib1ZZcERHUEQ3bE9nODAyU2xHRE1RaXZ1ZDBidEF2cFdGUHBWWExCNHpCb2VhODVjWEZqS2MwUUJBa3M0QQ?oc=5>
-
-### 特朗普被曝：去年狂赚22亿美元，14亿来自加密货币！被批“利用总统职位牟利”，他喊话：股市在涨，大家都在赚钱，你们该谢我
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-02 13:50
-- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxPcmtZeV8ybXlhT0JFeFBmcWpVRW5uSHpVc1otd3UyT1paRXpURUhZVTFSMDNIYXNaeGU4NXZoQjJ5aWlmTWpwSHdFTF93MlFONlNTOWdIU0lvbTFLLTNneFJiRVFPczVTR1U1VXk5WDdlTzlyemxhQ0NUaW1JTEN3dl9pdlNpY1BIWUhadG91Z3dfcWFa?oc=5>
+- 时间: 2026-07-01 22:16
+- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxOd0RMX3pmV0FxWVdjR2poajlPUlktOWVDQVNlMUwtUmtGZ0YzUS1teWNnMnRzcEZaQndtNnI0dXlMNXFYUjZ1TjNyUmpucVpobG8wdldYOGRGTTV2bEFiekozaXdVVkRVdHBMZS10THJJeWxYVEZwc2MtcWQ0QlI0a1A1Q3M5MnEyd2c?oc=5>
 
 ### 年赚超22亿美元！特朗普回应：股市在上涨，每个人都在赚钱！
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Sina finance
+- 场馆: 新浪网
 - 时间: 2026-07-02 03:04
-- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxPNTJPeEQteTBuXzFvRUhLbmo2d1RrNWIwX3hzSlh0RWg1dC1BZDJIbWk5c0Z1U3J5YUtpWFVobDNBZEJyZHJqSUh3YkYxWC1EZ0lLNlhUUzJfYThfT3d1T2g1Z0ZDNFEwSTNGMXlyZVU3V2JuUTBGaWlFeDBqTFVOXw?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVnlvZWtETXdlcElzei15cGhBTkFtNzV5VUhqUFdpay1LVXpyeVN1UVExbnRJNFZyYkJqeTNtbXJHOEVTak0tbHhrTktlYWNyemVUcktLak5nanM3dDJkbUgzeFlmX1laTXNfU1pEUzlFR182OGhMN3gyVEtic21ucG9jQUFNcUIxdFBFMDNRUDlzZFpoaVFLeExJdk5uWjdVWFU2U04yY2lXbDExLXprUDNwNmstLVVYWHpDRG5xQXpod0xmRkRiVHJkQVVrY2QwMDJZ?oc=5>
 
-### 美伊间接谈判据报取得进展之际油价大跌
+### 特朗普经济幕僚哈塞特批评鲍威尔继续留在美联储
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-02 15:51
+- 链接: <https://news.google.com/rss/articles/CBMikwJBVV95cUxOM2RrMXpLdDFGczB6STJjT2UyR0FYdWpkTXlqaWhYWmdKZms1UkZEVmNkQ0hYOWc4SFFXS0EyNFZCVjR2OEozeXBramZtSjJFSUkwUmdxLXo3VXdTX1lRT09GZGZmbF9QcFlud3ZrZ3JKbHdWSUdwcGhiTXJidURPcjhPOE16aXFJekVOVGdRNFh2UGxrNk1YUEFHcldISFBzdFhhWEtrQzQ0ZmhrZm1IYnVITl9lNExZU0YzMkR1ckp6d1VvSFU3R0FQNVNNRUduX1NfU3ZDbXV1Zl9pc2ZpRWFqZkE1UG9SeWtUd0s2X2JwbkNxMVpOSFJaWmRZQmUyVm9icHJSUERzMXhaVV9TQjJQVQ?oc=5>
+
+### 币圈“尸横遍野”，特朗普一家赚饱
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-07-01 00:47
+- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxQeEdlTjIyMi1FZ2g4SHprWkxSaE1SbHl6YUhVZVc5QTJYbnZQaGk4eEotV2tBSThyMXRLMXhmZWRlUDY4dnNaWUVWcEN4bFNYeVBmc0RwSXlsYTRxUjNfYkpodkJDVmhQczJvWDk4ejFsNXVFLWgwNnJGYnNWbTlJWS1tdHRDMElETjI1aHdadU5TWjA5aWZyMzhCMVAtMktDWW9nNmR4X0FCeUZpQ3VVdFdDRzNoUXhkZk9NTWFITUhKSjJodFJUMXppMXhpOTQ?oc=5>
+
+### 'Trump Accounts' Are About to Launch. Here's What to Know. -- WSJ
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-07-02 15:27
-- 链接: <https://news.google.com/rss/articles/CBMitgFBVV95cUxOT0FKLVNhdllYRE5Mb29oSHZaQUNPaEppeGJRbEdUeHhMeVRfUTZzRW96aklaTGgzb0taWnlBNkp1UmpLTkRyVl9rcjNkb2UyR0RWNk9IVl9CSE0xNGtSWVdmUnpYV0MyVkFNaktoWGFQLXZvUEVGRFcwY1FHdm4xM1NxMDEtZXNkMmozcW1lSUV5T0NXamlDeVN1V0htLWJWTmhucXpHSE1SRG1fRzdmclpIcjAwUdIBuAFBVV95cUxOMkFrT1ROY2ZScWo3MlI5Y3lSU3FwY0RUelE1RHBjY1R2cGtJWWdIRHQ0M0FZQkY2VE50RG10YUFaZWJuY2pzUnlTNks2NG1wRmg1SHZvNDlIMzlCUFVvenhZWWRldDNaSTFrWG1qbExlQWg5MXZVR2ZRbGhhdlhWZXVkVWhCZWJZZ0lDMjRyeVN0bksyRmdfMnhDWGFrN3NoMkttSE5JWktSVndNVDlPLWRvdWZNV29C?oc=5>
+- 场馆: 富途牛牛
+- 时间: 2026-07-02 16:33
+- 链接: <https://news.google.com/rss/articles/CBMikAFBVV95cUxOa2lYX1gtd1dDVUFnN1RMM3MxZVZpaTM2Vzluei1qeWV0REFnWWZaVXktcV9TODB5NG90X0w1TlFVWlhFdUZOMzVKSFJ1b2RlUm9EWW83TE9MNHRxcnA4WkJnU1FUZ0dkbXJGUUJnOEdzTG1zMnB2cV8zYUt4NDRHY1lEbko2MGVpM1R0SWNndk4?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-02 17:40  (5 条)
+
+- **特朗普** | 特朗普积极评价美伊在卡塔尔进行的间接会谈 美国致力于继续谈判 <https://news.google.com/rss/articles/CBMiigFBVV95cUxOd0RMX3pmV0FxWVdjR2poajlPUlktOWVDQVNlMUwtUmtGZ0YzUS1teWNnMnRzcEZaQndtNnI0dXlMNXFYUjZ1TjNyUmpucVpobG8wdldYOGRGTTV2bEFiekozaXdVVkRVdHBMZS10THJJeWxYVEZwc2MtcWQ0QlI0a1A1Q3M5MnEyd2c?oc=5>
+- **特朗普** | 年赚超22亿美元！特朗普回应：股市在上涨，每个人都在赚钱！ <https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVnlvZWtETXdlcElzei15cGhBTkFtNzV5VUhqUFdpay1LVXpyeVN1UVExbnRJNFZyYkJqeTNtbXJHOEVTak0tbHhrTktlYWNyemVUcktLak5nanM3dDJkbUgzeFlmX1laTXNfU1pEUzlFR182OGhMN3gyVEtic21ucG9jQUFNcUIxdFBFMDNRUDlzZFpoaVFLeExJdk5uWjdVWFU2U04yY2lXbDExLXprUDNwNmstLVVYWHpDRG5xQXpod0xmRkRiVHJkQVVrY2QwMDJZ?oc=5>
+- **特朗普** | 特朗普经济幕僚哈塞特批评鲍威尔继续留在美联储 <https://news.google.com/rss/articles/CBMikwJBVV95cUxOM2RrMXpLdDFGczB6STJjT2UyR0FYdWpkTXlqaWhYWmdKZms1UkZEVmNkQ0hYOWc4SFFXS0EyNFZCVjR2OEozeXBramZtSjJFSUkwUmdxLXo3VXdTX1lRT09GZGZmbF9QcFlud3ZrZ3JKbHdWSUdwcGhiTXJidURPcjhPOE16aXFJekVOVGdRNFh2UGxrNk1YUEFHcldISFBzdFhhWEtrQzQ0ZmhrZm1IYnVITl9lNExZU0YzMkR1ckp6d1VvSFU3R0FQNVNNRUduX1NfU3ZDbXV1Zl9pc2ZpRWFqZkE1UG9SeWtUd0s2X2JwbkNxMVpOSFJaWmRZQmUyVm9icHJSUERzMXhaVV9TQjJQVQ?oc=5>
+- **特朗普** | 币圈“尸横遍野”，特朗普一家赚饱 <https://news.google.com/rss/articles/CBMizwFBVV95cUxQeEdlTjIyMi1FZ2g4SHprWkxSaE1SbHl6YUhVZVc5QTJYbnZQaGk4eEotV2tBSThyMXRLMXhmZWRlUDY4dnNaWUVWcEN4bFNYeVBmc0RwSXlsYTRxUjNfYkpodkJDVmhQczJvWDk4ejFsNXVFLWgwNnJGYnNWbTlJWS1tdHRDMElETjI1aHdadU5TWjA5aWZyMzhCMVAtMktDWW9nNmR4X0FCeUZpQ3VVdFdDRzNoUXhkZk9NTWFITUhKSjJodFJUMXppMXhpOTQ?oc=5>
+- **Trump** | 'Trump Accounts' Are About to Launch. Here's What to Know. -- WSJ <https://news.google.com/rss/articles/CBMikAFBVV95cUxOa2lYX1gtd1dDVUFnN1RMM3MxZVZpaTM2Vzluei1qeWV0REFnWWZaVXktcV9TODB5NG90X0w1TlFVWlhFdUZOMzVKSFJ1b2RlUm9EWW83TE9MNHRxcnA4WkJnU1FUZ0dkbXJGUUJnOEdzTG1zMnB2cV8zYUt4NDRHY1lEbko2MGVpM1R0SWNndk4?oc=5>
 
 ### 2026-07-02 15:38  (6 条)
 
