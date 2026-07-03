@@ -1,113 +1,95 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-03 06:07**
-- 本轮扫到 5728 条, 新增 **19** 条
+- 最近更新: **2026-07-03 09:40**
+- 本轮扫到 5746 条, 新增 **18** 条
 
 ---
 
-## 本轮新发现 (19 条)
+## 本轮新发现 (18 条)
 
-### 王一博发布骆驼防晒短片，原声旁白展现硬核户外
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1893711543_m70dfbeb703301s9ca.html>
-
-### 王一博新歌《万物可爱》伴昭苏万马奔腾
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923551_m1d5ae175f03301lqvk.html>
-
-### 28岁歌手蔡徐坤签售会索要粉丝飞吻，80秒一对一互动为何反向撒娇成宠粉天花板？
+### 蔡徐坤不愧是实力派！主题曲首秀直接站C位
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801amw8.html>
+- 链接: <https://k.sina.com.cn/article_6579089051_m18824ee9b033022hry.html>
 
-### 周杰伦演唱会主办方会被处罚吗？
+### 26岁华语歌手蔡徐坤微信指数2622万，为何下沉市场认知度比肩演唱会顶流张杰？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801ai4a.html>
+
+### 张雅琪谈中餐厅成长！周杰伦演唱会团建治愈全员
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801v7wq.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907pxlk.html>
 
-### 买了周杰伦演唱会天价票能退款吗？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801v7uk.html>
-
-### 周杰伦演唱会天价票事件，牵出票务黑幕
+### 骗买演唱会门票钱会被判多少年？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801v7tw.html>
+- 链接: <https://k.sina.com.cn/article_7880068208_1d5b04c7006801kc7g.html>
 
-### 周杰伦演唱会迟到真的就不能进场吗？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801v63m.html>
-
-### 周杰伦演唱会连爆争议：万元票价+迟到被拒，谁该负责？
+### 王俊凯新专辑获周杰伦周传雄等圈内人认可
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801v632.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801v9s8.html>
 
-### 周杰伦鸟巢演唱会的火爆...@偷懒提莫out哦的动态
+### 群星文化「星光艺术团」与周杰伦鸟巢演唱会梦幻联动，暖心互动
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907ov48.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907ppbe.html>
 
-### 特朗普称美国与北约的关系“荒谬”
+### 周杰伦《女儿殿下》MV出炉:为小女儿量身打造,大秀复古舞风
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中国日报网
-- 时间: 2026-07-03 05:39
-- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTFBQeEpYalp2OXhpd010bHE5emdiSXRvejBCS0RqdEE3Smd6TEY5QlRHMUhHQTM0UmdyZ09UV0lzM29fRFZRZGx0M2pHRDZWX2tOQVVoQWhJYXZZTl9SX0dhR0cxSnBuc1JQaUV4SDhaeUlNOF93bHZwNHd3WQ?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907pk8u.html>
 
-### 特朗普：美国为北约“单方面付出”是荒谬的
+### 手速慢也能抢到!这份林俊杰、王力宏、周杰伦演唱会抢票攻略稳了
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-07-03 05:15
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9zekZ1SXlKYURxUl9zaGFWbk5pNXFYWFFIbVV4b19tMUdCdFdlU0d0M2JQU2wtZmEzRzZRSWkyMEo1OEVZRjBycVhqNlRieldCMC1NWU5nRDBYd2NzbDRRWjY3TnJIYzJpT2c?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907pfce.html>
 
-### 特朗普因伊战事再批西班牙
+### 量身创作宠女金曲，周杰伦《女儿殿下》MV 释出
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-07-03 05:49
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1PQ0w3ZGI1X2JKR3JSMG4tYkUyNkxBUVVjb0U5WV9rZFl6LWpieEVfM1VWOVJkcFNBeDlMU2tRTTJQOHd6TF82NkU4bnBjamtDd1M0bG42S2ptLUVleUlQMGJWSVZYVGVqSUI4aGs5ckc?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907p9yw.html>
 
-### 特朗普称近期股市上涨“人人都在赚钱”，但收益大多落入前1%富人腰包
+### 原创中餐厅包场周杰伦演唱会?黄晓明一句话让昆凌封神,头号迷弟王俊凯却缺席了!
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907p708.html>
+
+### 特朗普称美伊谈判取得进展：伊朗几乎同意所有关键要求
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-03 04:35
-- 链接: <https://news.google.com/rss/articles/CBMipwJBVV95cUxPWWpUVlltOFJVT1VvTlpPR1dVaWtBakhaWXRUVUlTOUxNb2ZUVXZaVnpnNWV3b1J4eDBFSXBDN25udWpjaDY2V2JCazZSekxkZ2dEV1h3S1dtSkZLY3pFbVFEeE4xcXlrT0d5NEFzTEdBQlRmRzhnSTB0VkYtdENYclBLd0FIYnVTT3RraVl2bnVFM3F6ekZwdFMyWHFSeWpsblRrS0dleU9oTTNqT3RZWmJfWkk2N1lWX2pQQ1JLb0cyaVZMTVlaQXJfS0llX2c5RnZQenk3WHhjRWNzQy1TREFVUWhWWUF1dDc2SjhXZGhCaUFmdHkxRjNXb1A4N3RXZFo0RFhBdG83Q2NzelFqZTZ2YTZ3bnB6VnRsUVU3ekdXVjM3X01j?oc=5>
+- 时间: 2026-07-02 23:51
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9KZTNTNm9McE95ZGxsN3BDcjhXcHNuaHFDdWJSRDA5cDZnRmsxQW05OXBHLXRxZUNhazRjSllKTHY4Z09jd3BvMlRhTElkbWJYdmVzNzJDWE1yRExEemppRm9ZczZfQ0Q2cFFSRWZFaGhGQS1vbE9GNQ?oc=5>
 
-### 去年狂赚22亿美元，特朗普：我不拿年薪，当总统有“更大目标”-观察者网
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-07-03 00:15
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5NVUlLUkpiaHVGaTN2OFNsR2ZvQ001czZOeC1lX0JZZXMya3hNN2R2dFQ1RmNyckRieS1PWWtkenVkcks3UkdvUFNTdWdiY053QWtaMEhIaTJwYmRndTZ0RmlTdHNDQzBfM1E?oc=5>
-
-### “现代史上前所未有”！特朗普去年总收入曝光
+### 特朗普已听取对伊全面作战方案，但决定先谈
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-02 23:26
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1ocndZd1M4eXR5LUJuU1ZSLVk5RXI0VzlYSGFSRzQzcW8xQlJSWTJNX3Z1WmJRaG1IUEFTS1lraHZlZXZkdkh3Q3BSWGdpci1tMG5QdE9UcDJkWmp5NDdIX2VodERwd29sd1Q1Z0h2MG50azcxZG93ag?oc=5>
+- 场馆: guancha.cn
+- 时间: 2026-07-01 05:26
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBYTWQzaWNwZkRoWU1DRTRFM1BUUjZ2X3dKNDVtMG5IdXlyc3ZpU1ZVcWY5ZEdtMEJibG1SOGJ3SVFkRTE0WkRyVkNhR3Fnc3pCemNuVlhPcUpweGwzY0xJaWxQYS1TaFdHanc?oc=5>
+
+### 媒体质疑涉嫌利益冲突，白宫声称这是对手造谣，美媒：特朗普去年总收入至少22亿美元
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中国青年网
+- 时间: 2026-07-02 22:15
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXdmtCWmloMWdXb1NyRkVuNHNUUTB2cGNPZ01pR2dXUmVmWXNqWDE3S2pOUmo5bjlaZFphTnlmaGVnTDlzTkN1UHBOc3JUM09vb0t0OXdrVGQyc1ZQWE5yaWdsUTc?oc=5>
 
 ### 特朗普突传重磅！彭博独家：特朗普及其盟友加码推动重塑美联储
 
@@ -115,36 +97,65 @@
 - 来源: `googlenews`
 - 场馆: 金融界
 - 时间: 2026-07-03 05:11
-- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTE5XVjFJU2pkOGMyV1c0S2hzRjJiVGQ4b0o1Ym5QR3RrQnV0RHkxS1phMVVDbTdlS0VHUGw0NmhQcmd6TGc5WkxETTBQUWRTcFVGY1dUV2I1a2U5N2lNRXJYSW9CZw?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE9OXzNCeno0VUZrYk1uYlpiQmRnaVo0UHhWR0tsVUlwZEliSGs5Xzk2RmVjcGEwVy1CbHJGWkpvN1lfRnJuamVzYkxwd0tGWHl4QUI5UUI3cnZmckVfdy1NTTBDdHVWOWRqNVZhTGxUTUZVQQ?oc=5>
 
-### 美军官呼吁弹劾特朗普后被捕
+### 借总统身份捞钱？特朗普：赚钱没犯法，不管我家人做啥都有人说“利益冲突”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-03 01:47
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1qbGMzX216LU5KOExFbW10QzFWRkdZMVA1Rmh4R0FFOTk2ZmRpQ05tUGhSQ19BZ09Pd3dxS1hEZWhRTkRxUTFBcDcydlg?oc=5>
+- 场馆: thepaper.cn
+- 时间: 2026-07-03 02:07
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CazhxOVFreFdxZjdOTjR2YlkwajNINW9sTnZqZkpDRkxxWVdSUjZKcW96REJYd2JFR0NQTWRZdWtGSk5rQXRDS0EzQW1VS29iYzRndUs2R0VmaXRZb1NSaQ?oc=5>
 
-### 📊 特朗普38亿美元投资组合曝光：科技股、地产、 加密资产齐布局
+### 特朗普：美国与北约的关系“荒谬”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: chinanews.com.cn
+- 时间: 2026-07-03 06:02
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1PazdRd18zUWJUN1FGdlBQeE54MDFKOXFaMmpWMjhwU3UxWE1PUE9zbFRLaTdfSTlHOVJUSWFFb2RCUlMwRHpyTEhvU3JrRlY4V0pJRmpMLS1VUGVsNnZaVGtXelMtdHRr?oc=5>
+
+### “现代史上前所未有”！特朗普去年总收入曝光
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-07-03 02:48
+- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxOWFdoVGdRTFdMZDFJaFRvNU5WSS1lLUN3aERBNzF5dHhMTHRMdk1yenBpTzJQODkzUHV3S0NTcmZFRk5LN1c4VVJvR3BjcXE3V1d5Q3BNQ1BhUVhIemhTajExVHZTOGRXXzlBZDRfRVAyMXZwV1BtcFJ1Y2dFaXhhRi1ETQ?oc=5>
+
+### 贝佐斯如何学会拉拢特朗普并为蓝色起源狂揽合约
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-07-03 05:12
-- 链接: <https://news.google.com/rss/articles/CBMivAFBVV95cUxNSGpDSWFVdWRjZ2xkb3liNmJkYjBTMzlQY3MtY2lPQXlwZmxPUzgwZU8yQW9jaUNFa2ZRdHFHT0RaeGVCeEtwblJfVzFCRUV2NElGV0w5YUZfdXBhWE1NZU9iZDlEM2ZRUUdtSllfYTFqdTZ5MUVNajI5WS1aYnBLd3V3anJSRFBtWjFKVG02SnRoR2huTEl5bWZ1SmFxbE9ORWNXcE1ySld0XzYtNkhudHpUeS1ZU0xpM0ZhbA?oc=5>
-
-### 特朗普靠加密货币狂赚14亿美元引发争议！美财长贝森特接受美媒独家采访进行回应
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: FX168财经
-- 时间: 2026-07-03 04:41
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5vUlBKbWxEazNoR3hyUGUwdUYtTnFUMFBsWTJDQUNBOU9Geks5dTBXZG5vVEt4WG5PUk9ab0hOYXZOMjY4VlppUV80anVMUGk3UW5PNzhxOWUtQ3gwTTZGOTJYaUxPMnZSOGpGOHNqQlpHV1VidDBhWg?oc=5>
+- 场馆: 华尔街日报中文网
+- 时间: 2026-07-03 09:33
+- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE8wY3JLZTRma0VoeW9kcjExZzhzMFhiZUY2STQ1Q1BvT2xDTVRHbkZDT2lUSkEtZXdhc21iRW1VT3Z3d1dUbnNUTXRyc1BiY21CNTBBMmYtSEszTzEyUFFfWGJpVG1fdVZEdjhpVmFId2JLM1lzN1Q4NlFsbzZLQQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-03 09:40  (18 条)
+
+- **蔡徐坤** | 蔡徐坤不愧是实力派！主题曲首秀直接站C位 <https://k.sina.com.cn/article_6579089051_m18824ee9b033022hry.html>
+- **蔡徐坤** | 26岁华语歌手蔡徐坤微信指数2622万，为何下沉市场认知度比肩演唱会顶流张杰？ <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801ai4a.html>
+- **周杰伦** | 张雅琪谈中餐厅成长！周杰伦演唱会团建治愈全员 <https://k.sina.com.cn/article_7857201856_1d45362c001907pxlk.html>
+- **周杰伦** | 骗买演唱会门票钱会被判多少年？ <https://k.sina.com.cn/article_7880068208_1d5b04c7006801kc7g.html>
+- **周杰伦** | 王俊凯新专辑获周杰伦周传雄等圈内人认可 <https://k.sina.com.cn/article_7879776328_1d5abd84806801v9s8.html>
+- **周杰伦** | 群星文化「星光艺术团」与周杰伦鸟巢演唱会梦幻联动，暖心互动 <https://k.sina.com.cn/article_7857201856_1d45362c001907ppbe.html>
+- **周杰伦** | 周杰伦《女儿殿下》MV出炉:为小女儿量身打造,大秀复古舞风 <https://k.sina.com.cn/article_7857201856_1d45362c001907pk8u.html>
+- **周杰伦** | 手速慢也能抢到!这份林俊杰、王力宏、周杰伦演唱会抢票攻略稳了 <https://k.sina.com.cn/article_7857201856_1d45362c001907pfce.html>
+- **周杰伦** | 量身创作宠女金曲，周杰伦《女儿殿下》MV 释出 <https://k.sina.com.cn/article_7857201856_1d45362c001907p9yw.html>
+- **周杰伦** | 原创中餐厅包场周杰伦演唱会?黄晓明一句话让昆凌封神,头号迷弟王俊凯却缺席了! <https://k.sina.com.cn/article_7857201856_1d45362c001907p708.html>
+- **特朗普** | 特朗普称美伊谈判取得进展：伊朗几乎同意所有关键要求 <https://news.google.com/rss/articles/CBMieEFVX3lxTE9KZTNTNm9McE95ZGxsN3BDcjhXcHNuaHFDdWJSRDA5cDZnRmsxQW05OXBHLXRxZUNhazRjSllKTHY4Z09jd3BvMlRhTElkbWJYdmVzNzJDWE1yRExEemppRm9ZczZfQ0Q2cFFSRWZFaGhGQS1vbE9GNQ?oc=5>
+- **特朗普** | 特朗普已听取对伊全面作战方案，但决定先谈 <https://news.google.com/rss/articles/CBMiakFVX3lxTFBYTWQzaWNwZkRoWU1DRTRFM1BUUjZ2X3dKNDVtMG5IdXlyc3ZpU1ZVcWY5ZEdtMEJibG1SOGJ3SVFkRTE0WkRyVkNhR3Fnc3pCemNuVlhPcUpweGwzY0xJaWxQYS1TaFdHanc?oc=5>
+- **特朗普** | 媒体质疑涉嫌利益冲突，白宫声称这是对手造谣，美媒：特朗普去年总收入至少22亿美元 <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXdmtCWmloMWdXb1NyRkVuNHNUUTB2cGNPZ01pR2dXUmVmWXNqWDE3S2pOUmo5bjlaZFphTnlmaGVnTDlzTkN1UHBOc3JUM09vb0t0OXdrVGQyc1ZQWE5yaWdsUTc?oc=5>
+- **特朗普** | 特朗普突传重磅！彭博独家：特朗普及其盟友加码推动重塑美联储 <https://news.google.com/rss/articles/CBMickFVX3lxTE9OXzNCeno0VUZrYk1uYlpiQmRnaVo0UHhWR0tsVUlwZEliSGs5Xzk2RmVjcGEwVy1CbHJGWkpvN1lfRnJuamVzYkxwd0tGWHl4QUI5UUI3cnZmckVfdy1NTTBDdHVWOWRqNVZhTGxUTUZVQQ?oc=5>
+- **特朗普** | 借总统身份捞钱？特朗普：赚钱没犯法，不管我家人做啥都有人说“利益冲突” <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CazhxOVFreFdxZjdOTjR2YlkwajNINW9sTnZqZkpDRkxxWVdSUjZKcW96REJYd2JFR0NQTWRZdWtGSk5rQXRDS0EzQW1VS29iYzRndUs2R0VmaXRZb1NSaQ?oc=5>
+- **特朗普** | 特朗普：美国与北约的关系“荒谬” <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1PazdRd18zUWJUN1FGdlBQeE54MDFKOXFaMmpWMjhwU3UxWE1PUE9zbFRLaTdfSTlHOVJUSWFFb2RCUlMwRHpyTEhvU3JrRlY4V0pJRmpMLS1VUGVsNnZaVGtXelMtdHRr?oc=5>
+- **特朗普** | “现代史上前所未有”！特朗普去年总收入曝光 <https://news.google.com/rss/articles/CBMigwFBVV95cUxOWFdoVGdRTFdMZDFJaFRvNU5WSS1lLUN3aERBNzF5dHhMTHRMdk1yenBpTzJQODkzUHV3S0NTcmZFRk5LN1c4VVJvR3BjcXE3V1d5Q3BNQ1BhUVhIemhTajExVHZTOGRXXzlBZDRfRVAyMXZwV1BtcFJ1Y2dFaXhhRi1ETQ?oc=5>
+- **Trump** | 贝佐斯如何学会拉拢特朗普并为蓝色起源狂揽合约 <https://news.google.com/rss/articles/CBMifkFVX3lxTE8wY3JLZTRma0VoeW9kcjExZzhzMFhiZUY2STQ1Q1BvT2xDTVRHbkZDT2lUSkEtZXdhc21iRW1VT3Z3d1dUbnNUTXRyc1BiY21CNTBBMmYtSEszTzEyUFFfWGJpVG1fdVZEdjhpVmFId2JLM1lzN1Q4NlFsbzZLQQ?oc=5>
 
 ### 2026-07-03 06:07  (19 条)
 
