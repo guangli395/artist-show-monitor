@@ -1,112 +1,33 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-03 12:04**
-- 本轮扫到 5759 条, 新增 **13** 条
+- 最近更新: **2026-07-03 14:39**
+- 本轮扫到 5761 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (13 条)
+## 本轮新发现 (2 条)
 
-### 周杰伦演唱会才是夏天的神吧！
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924004_m1d5ae1924033021uge.html>
-
-### 普通人加价转卖演唱会门票算犯罪吗？
+### 三场突破18万人，周杰伦成为上海体育场演唱会史上观众人数最多的歌手_上观新闻
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068208_1d5b04c7006801kdrw.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907qrz2.html>
 
-### 请四大天王、周杰伦、林俊杰、陈奕迅多开演唱会，有钱请不到
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907qcn2.html>
-
-### 震撼弹！F4新歌「真的没有朱孝天」　换五月天阿信、周杰伦神助攻太狂
+### 五月天主唱阿信催新歌后，周杰伦粉丝也催新歌，周董用四个字回复
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907q56u.html>
-
-### 特朗普经济幕僚哈塞特批评鲍威尔继续留在美联储
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-03 10:36
-- 链接: <https://news.google.com/rss/articles/CBMiqgJBVV95cUxQSDJtWWw1dFJxV1FIT3BrNS1JdHZkSmREX1hQZGJBYy1YdTBOVGpGLURyUzEwRktyUHVOUHYyM0NndUhpLXdwSXFNenRVZVFFU1FVU3VmQ2g2YW94VFZBUmE2Q05jdlRpYk9odmJXOXZ2dzRYdFE4d0VJeWJNWWJXVlNObHRmNzc2YUwwdVRJcWNuZXZCY1dMbWNoX2E4SnphZVV3VGJVMDBlVXZONDByY3hFNmFLWnN4WVNtZVUzVjVldl9CUUNPc3hhWE1KbmtDUVhhQmdBSjV2T3RxWUx0d3MtTlNuaXJXOW1MbXJzLXpYSWw5dFhSRWNMZFNoV3FzUjJqRWh3RkF5TVJJNWx5TWFrRkZEQ2RxLUhvTThxc2t5cnY3X3Z6LXVB?oc=5>
-
-### 特朗普竞选名曲YMCA原唱去世，歌曲曾由谭咏麟林子祥翻唱
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-07-03 12:01
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5tQ2pjc1VtbFdiMF92VlN2NjVJb2FIQkMtak8xQmdzd3dUOXlxRVBzb0JGMzFOdFdOY1JNRjlGRnpLNjJwamZXcHRZR3Jid00yMGNYWkhtU0ZORVQ0Z3RFcnlZMmhISlVUSm1TYzV2OEtkdWs?oc=5>
-
-### 特朗普透露与马斯克关系：我写了张小纸条祝贺他成为万亿富翁，虽有过小矛盾，但他还是喜欢我
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-03 11:32
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE1DMGJyWlY5ZU5DSVdJME9Ub3FIOEJtZnFpX3YxSVVHejdDUjZWQ240RkhzUFREa283TmlCcDNyMzRFNGlvaElfcXI0M0NBX19yQkF3VzFyMXhMU0c3bDhmck80dVZjdmoxbm1memFDSkVPUmRHRlE?oc=5>
-
-### 特朗普称美国与北约的关系“荒谬”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中国青年网
-- 时间: 2026-07-03 05:28
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE43THFqOUVhVnJsT1FtdkZ4cjRWYXFUbmVYeHRHRUpXcUlqTWZ5Y1BHQjRmUDZoaF9IcTg4emszOExheWUxb3g4UXNhejFHczJZcGVEOHl4NF9TbF9VNjlReFA5Vzg?oc=5>
-
-### “现代史上前所未有”！特朗普去年总收入曝光
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-03 10:18
-- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxPZHlWQ2dDV3BBaFJDdFlDdGNDZXh4MEZaMkswWXk2aDBDM29STmp1RFdIa0RaS1d0U1JVUk1GNlFSVVZYME9ZcGlOb0NKS1kyM2lDSXNfVEg0MGtYdnFBRXo0ZWVPRExBckYtQUNVMWNlX1BpVWRZM25IUDZHdW1MVmdoNlNXWXV5VVo0UE1qWFpwSkxw?oc=5>
-
-### 奥巴马说特朗普打了个寂寞：回到了战前的原点，甚至可能更糟
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-07-03 05:28
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE51ZFhYaDBBOWFidGQ3YmVMdXMxSXplX1ZNRXVqM0M4VHdNOS1JTzlKZmVhSmgzTExsWE9KV3p2N2JGWmhoell4djkyVF9Xc05ZbVQwMEpad2U1QjVVOWNOdFVOYVNhdHNwRGU0V2JQRnY?oc=5>
-
-### 美独立日或迎来极端高温，特朗普回应
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-03 03:23
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE56MVN3UXdyVHFWbXVsLTBYQXJLelhoT0FKMnhXWmkxelN4MF9Db0Y2UEhuUlFjYk5WUkNoNHh1VUpveDlaMFJlOEQ1Z1Y?oc=5>
-
-### 隔空喊话马斯克？特朗普：我们关系很好，他会捐赠SpaceX股票！
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-07-03 05:16
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE94T3pRTVJVU0VOS0JCd2x0bnF3b1BhRHVBVGhZRENsZVgzeHAzaUdBbVJVUDFETFhzdkVCcW5nWDJOWDB4Nnp1Xw?oc=5>
-
-### 美国庆祝250岁生日，美国政治领导人谈民主、自由、平等等美国的立国原则
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-07-03 09:55
-- 链接: <https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRTFqZk9tTkl6NGZ1Vk5WZ25veG9yNVR3QlFmTXlqOUt5NERWQzFtWTFzM3FhcUMwYjN6TDIweDR2aEhTa01lV2xLRXNmWHQwTWhJVlRtN3J1eENRWkpiWmJNQ09hX2hHMFNTV3hjVmthS19WclY1c05hd1FuVGZmdG9PZFlTVzRKdm9Razd4WlJXLS13bXFLNzN5VnBxZlA1dkhnVWVNbWYwU215X0MwRlFCZEp6bElJRG5Mdjc5TUvSAcMBQVVfeXFMUFpCcktmU3BLbTlnRWdtU19SX0x6amY4bTZTb3dGVkJIeE5uczVtZ1F0UHdhR1MxbUs5SkVYTzRUQnVsYVRwbkRza0xuQjFZdUQ5Mk5WOGFrSU5lczVTclZ5U20xMGx0SWlhc1dlM0Z4YXFOckRwcGNjY0ZxdnNxN1l3eTBKZWQzZDZxNVh6bVY0U2lna0RFMy1ialF1VUlNMTlwd1JVZ3BZaEpoNUxXS1lWMWM5TV96QktFaG5IZHNEYzc4?oc=5>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907r1kk.html>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-03 14:39  (2 条)
+
+- **周杰伦** | 三场突破18万人，周杰伦成为上海体育场演唱会史上观众人数最多的歌手_上观新闻 <https://k.sina.com.cn/article_7857201856_1d45362c001907qrz2.html>
+- **周杰伦** | 五月天主唱阿信催新歌后，周杰伦粉丝也催新歌，周董用四个字回复 <https://k.sina.com.cn/article_7857201856_1d45362c001907r1kk.html>
 
 ### 2026-07-03 12:04  (13 条)
 
