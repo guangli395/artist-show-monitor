@@ -1,48 +1,100 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-02 23:34**
-- 本轮扫到 5700 条, 新增 **4** 条
+- 最近更新: **2026-07-03 02:23**
+- 本轮扫到 5709 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (9 条)
 
-### 特朗普听取对伊全面作战方案，决定先谈
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-01 06:01
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5QU0pTVVRzUmtQQnMtQ3RPREUyV3lhVFBSR01wa1BhSjZodWFWWmZ0T2Nic3dQQ2JsSEczMTk1Y2pTclhsZnNQOThvanU?oc=5>
-
-### 牛弹琴：一觉醒来，特朗普气炸了，中国又躺枪
+### 特朗普经济顾问哈塞特点名鲍威尔动机可疑：赖在美联储完全不合常规
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-06-30 23:13
-- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZ082Z1F0aU4yRW56dkJyTGNjcjZEV25XTFBuZENwWUdHLVlCSk9KdzAtczRUa1F4ZUhIdS1wdTdaYjdvVEZLTFRiblJibXdRUzk2eC1MMGdaZDhRaUh1S3Y3aWVCMUNQTE5ycVowOWpsOXJFaEZMZnZPc1BUd0Q4d2hiUktxc2dlblNhVi1LQkFlWG9WX2JqdXUwRkJ4dDhsRDUtaTBSSjlqV1RCYzFTYzRvc0ZXN2F2dWxxa1ZILUZpRklxTXpNcEM5Rm5ZakpuSUE?oc=5>
+- 时间: 2026-07-02 23:43
+- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxQOHNrN1dkaW9vbWpfQ3ZLNENJOVhvU01XNjJMcnU3RzNQal9wMjAyakNnQnhWYkk1RXVleXhycGtIUDFfZjR2T1dNX0hYNXREdElsdDFmSXZxS1FGYlBaYWxiTUI2Z3d4Q1F4UTlWTUE2aGxuN3JhOWdNdnRZaG96bXFXa3V2dW9PVkFNLUhReGtTbWtCaDRZTw?oc=5>
 
-### 媒体质疑涉嫌利益冲突，白宫声称这是对手造谣，美媒：特朗普去年总收入至少22亿美元
+### 特朗普谈非农“爆冷”：沃什必须做他该干的事，但FED理事会有点敌对！
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 环球网
-- 时间: 2026-07-02 07:11
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTFBUMU1zMVFkVUtXVDJYQlFVSkRtWjFsNEJzMTF6MXhIQzBZUFBJRVF4ZmUwMWxJbWNva0ctQmQ4YXZZNE9yQTdnM3VQNTMyRXlUcEV4aFNXUDM?oc=5>
+- 场馆: 财联社
+- 时间: 2026-07-03 00:24
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE9hek5VZzl2OFRzdmxla2pMc1ZvN21NMlN1bWc3Zmx1RTR1allldVNpRXRFMGhKYy1Ed3RsRDBoX3k4YzFVM3RpYQ?oc=5>
 
-### 首次乘坐卡塔尔赠送的新“空军一号”，特朗普称赞：美国造不出来
+### 炒库克没成，特朗普不服：还要对美联储多名高官下手
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-07-02 23:23
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5aQkVJa1FnM2VMeVdmWWg0Y0NWamNHT1dtbWVPMUk1QXhwVE9VQU9qZlJYcGpYYXUwOURPS2VFX3RzUVpZQ3lXSWZQYnI?oc=5>
+- 时间: 2026-07-02 23:37
+- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE84WnRZMlNrOFpmai1BOW1wazF2YW10TXdibHpXS1BXWWxfTnNTTWdQOU5WVjN0Q2duQnpHTGdMRUluLWlpVTZvS1RJN2ZsM0x2?oc=5>
+
+### 特朗普账户在“解放日”关税前后大举交易获利
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-07-03 01:02
+- 链接: <https://news.google.com/rss/articles/CBMitAJBVV95cUxNRWVPZ1pSYkZ5OTUwU052NmhXM09xeUozcXdrUmloODl5ZnNyX0UzYmFtdnZtbzZBWWQ4RVBYVkFKWC1nMVI1Q3ZaWFpDMUc0b09nR3lmeDVuc21WeHZTZlNHR1lldE5WVy12cGNsYWs5enJpQk9qWloxTnRsWTlJMFowVEp2SzRMRUNoZ0hVLXhUWnVUcG82TnphV1hXVHhxNnNUNU5lbzdZZEFtUGRmMFhmMWlIbXlvMGhjRjVjWHZ0bGJyVFVWdnFYZll4VGFMTEZpRlpoZVA2bG9Gc2M2dmh3ei1NZjRUbkg2ZlJ1MmZZazBReTFfN3o2VTZqZFdsN3ZVSWFGNDc5ZWlacGJpTlFmNXAxVDVLMHhiSHJiSWhiQkMtNmV4OGhuaXdCVHg0T21XOQ?oc=5>
+
+### 特朗普称美伊谈判取得进展：伊朗几乎同意所有关键要求
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: chinanews.com.cn
+- 时间: 2026-07-02 23:47
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1KNGtZUUNXTVpwTVRIWmh2VWN4YkdpTGMwZDFGa1pTY0ExdzdNWWxMbFhDdXZ4Rm9qYUlpZUNla1dsMmlYSDBvRmhvaTZRUDZGWWdieUsxYmhRQjBuZ0JjQTA0VUVCSmY4?oc=5>
+
+### 特朗普首乘新“空军一号”，对飞机赞不绝口：“美国造不出这样的飞机”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-07-02 10:17
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFA4NG44dzlOZFlERlNVU0ROU0kzMFBwekdnNjFSLTRubWhuLTNXY3BER3VwN2I5aDA5N0I0c1NXZHpwd2dnczZkamdacXU4R01CYi1RalZwQ1liOHMybkVOa2lFT2FUOENBYWZmOTFFTVB6Q1JmT2c5SA?oc=5>
+
+### 特朗普财务披露显示2025年交易逾2.1万笔
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-02 20:26
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxOdUJKMERKV0NTUDZlZ1dJZDE0dzU1bHRyRTlyeXJQejV6VUhmZmJITWptQ2FWcnMzcDVFZFdQRVctcDItYVJ3NnpvY2s5MDl6d3pRYU9fZVpIcXBaSWxRTHcwci15elRvVWNiMU1LYVZDay1fbkFTdUVzMngyRVZiZGZiZUxGVW8?oc=5>
+
+### 关税血洗美股后精准抄底!“白宫股神”特朗普投资布局屡屡踩中政策风口 再掀市场操纵争议
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 同花顺
+- 时间: 2026-07-03 01:47
+- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE1WYUQ5T19leW1qM1EwNm9YV1oxdW5RUkZldmx3NXA3cnVfV184OVloR3lrVFVGOGpCNzFRN0NvRjVtYjNCRkJNaGdDN3puRlhjY0RhYlhyUTA3cmJYLWl6TDZ3?oc=5>
+
+### Trump Blasts 'Hostile' Fed and Says Warsh 'Has to Do What He Has to Do' on Interest Rates
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-07-02 22:21
+- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ0JINldaNVdIUktLSk9jQU41WjNQa05ud05SMW9qSDJRUVRYYnZZeGRjRTYtTkxPRXlfR1hlWG1mblJaX2gyU1hqaDBvN1JrR19fWXhnVVNyNFM2bElJWjJIcTlRS0Y2ZTlIdGNqS3N2X2tVQlZ4TVJ6YXRRMGVMMjN0N2k2eHJaQnRmNWhub2ZQbGd0dy11ZVZqRXc?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-03 02:23  (9 条)
+
+- **特朗普** | 特朗普经济顾问哈塞特点名鲍威尔动机可疑：赖在美联储完全不合常规 <https://news.google.com/rss/articles/CBMimAFBVV95cUxQOHNrN1dkaW9vbWpfQ3ZLNENJOVhvU01XNjJMcnU3RzNQal9wMjAyakNnQnhWYkk1RXVleXhycGtIUDFfZjR2T1dNX0hYNXREdElsdDFmSXZxS1FGYlBaYWxiTUI2Z3d4Q1F4UTlWTUE2aGxuN3JhOWdNdnRZaG96bXFXa3V2dW9PVkFNLUhReGtTbWtCaDRZTw?oc=5>
+- **特朗普** | 特朗普谈非农“爆冷”：沃什必须做他该干的事，但FED理事会有点敌对！ <https://news.google.com/rss/articles/CBMiSEFVX3lxTE9hek5VZzl2OFRzdmxla2pMc1ZvN21NMlN1bWc3Zmx1RTR1allldVNpRXRFMGhKYy1Ed3RsRDBoX3k4YzFVM3RpYQ?oc=5>
+- **特朗普** | 炒库克没成，特朗普不服：还要对美联储多名高官下手 <https://news.google.com/rss/articles/CBMiUEFVX3lxTE84WnRZMlNrOFpmai1BOW1wazF2YW10TXdibHpXS1BXWWxfTnNTTWdQOU5WVjN0Q2duQnpHTGdMRUluLWlpVTZvS1RJN2ZsM0x2?oc=5>
+- **特朗普** | 特朗普账户在“解放日”关税前后大举交易获利 <https://news.google.com/rss/articles/CBMitAJBVV95cUxNRWVPZ1pSYkZ5OTUwU052NmhXM09xeUozcXdrUmloODl5ZnNyX0UzYmFtdnZtbzZBWWQ4RVBYVkFKWC1nMVI1Q3ZaWFpDMUc0b09nR3lmeDVuc21WeHZTZlNHR1lldE5WVy12cGNsYWs5enJpQk9qWloxTnRsWTlJMFowVEp2SzRMRUNoZ0hVLXhUWnVUcG82TnphV1hXVHhxNnNUNU5lbzdZZEFtUGRmMFhmMWlIbXlvMGhjRjVjWHZ0bGJyVFVWdnFYZll4VGFMTEZpRlpoZVA2bG9Gc2M2dmh3ei1NZjRUbkg2ZlJ1MmZZazBReTFfN3o2VTZqZFdsN3ZVSWFGNDc5ZWlacGJpTlFmNXAxVDVLMHhiSHJiSWhiQkMtNmV4OGhuaXdCVHg0T21XOQ?oc=5>
+- **特朗普** | 特朗普称美伊谈判取得进展：伊朗几乎同意所有关键要求 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1KNGtZUUNXTVpwTVRIWmh2VWN4YkdpTGMwZDFGa1pTY0ExdzdNWWxMbFhDdXZ4Rm9qYUlpZUNla1dsMmlYSDBvRmhvaTZRUDZGWWdieUsxYmhRQjBuZ0JjQTA0VUVCSmY4?oc=5>
+- **特朗普** | 特朗普首乘新“空军一号”，对飞机赞不绝口：“美国造不出这样的飞机” <https://news.google.com/rss/articles/CBMieEFVX3lxTFA4NG44dzlOZFlERlNVU0ROU0kzMFBwekdnNjFSLTRubWhuLTNXY3BER3VwN2I5aDA5N0I0c1NXZHpwd2dnczZkamdacXU4R01CYi1RalZwQ1liOHMybkVOa2lFT2FUOENBYWZmOTFFTVB6Q1JmT2c5SA?oc=5>
+- **特朗普** | 特朗普财务披露显示2025年交易逾2.1万笔 <https://news.google.com/rss/articles/CBMihwFBVV95cUxOdUJKMERKV0NTUDZlZ1dJZDE0dzU1bHRyRTlyeXJQejV6VUhmZmJITWptQ2FWcnMzcDVFZFdQRVctcDItYVJ3NnpvY2s5MDl6d3pRYU9fZVpIcXBaSWxRTHcwci15elRvVWNiMU1LYVZDay1fbkFTdUVzMngyRVZiZGZiZUxGVW8?oc=5>
+- **特朗普** | 关税血洗美股后精准抄底!“白宫股神”特朗普投资布局屡屡踩中政策风口 再掀市场操纵争议 <https://news.google.com/rss/articles/CBMiYkFVX3lxTE1WYUQ5T19leW1qM1EwNm9YV1oxdW5RUkZldmx3NXA3cnVfV184OVloR3lrVFVGOGpCNzFRN0NvRjVtYjNCRkJNaGdDN3puRlhjY0RhYlhyUTA3cmJYLWl6TDZ3?oc=5>
+- **Trump** | Trump Blasts 'Hostile' Fed and Says Warsh 'Has to Do What He Has to Do' on Interest Rates <https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ0JINldaNVdIUktLSk9jQU41WjNQa05ud05SMW9qSDJRUVRYYnZZeGRjRTYtTkxPRXlfR1hlWG1mblJaX2gyU1hqaDBvN1JrR19fWXhnVVNyNFM2bElJWjJIcTlRS0Y2ZTlIdGNqS3N2X2tVQlZ4TVJ6YXRRMGVMMjN0N2k2eHJaQnRmNWhub2ZQbGd0dy11ZVZqRXc?oc=5>
 
 ### 2026-07-02 23:34  (4 条)
 
