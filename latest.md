@@ -1,28 +1,134 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-03 14:39**
-- 本轮扫到 5761 条, 新增 **2** 条
+- 最近更新: **2026-07-03 16:21**
+- 本轮扫到 5774 条, 新增 **13** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (13 条)
 
-### 三场突破18万人，周杰伦成为上海体育场演唱会史上观众人数最多的歌手_上观新闻
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907qrz2.html>
-
-### 五月天主唱阿信催新歌后，周杰伦粉丝也催新歌，周董用四个字回复
+### 华语乐坛歌手演唱会总场次排行榜 2026年最新完整榜单
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907r1kk.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801vgn0.html>
+
+### 白宫前顾问：特朗普政府不会设立AI审批监管机构
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: video.sina.com.cn
+- 时间: 2026-07-03 14:46
+- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxQcnpGdURTUjBVOFVpa1JaTUVYSzItN25UbEN2ZjYtV3NWckFUaml4TVcyVUZDYnN1dmVmdkxHSVFneThYMVNqbkVZY0VORGFVYmNCMHhCUzZfVVdISHNxWHY4OXBqN1hsVy03UFZLVURnNEFwMzhvYWlqU05fVEl2ZDh3?oc=5>
+
+### 特朗普一战，打崩海湾国家信任，沙特王室已经抵达北京探口风
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-07-03 16:06
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE5JcUllUjFQS3NCLWtOR2NpSGl4bWI5S1JqMXp4ajZNeGVscXZPcGs4dUQyWDcwcHY2V0kwRmRIekJzelhPOTczV3FLckxSdmNkdXVvRlpsU3hsNGlNNWdhajREQlhBWlFpZnQyZ3VTMVFCQQ?oc=5>
+
+### 北约安卡拉峰会在即，特朗普总统称美国对北约的单向付出现状是“荒谬的”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-07-03 13:25
+- 链接: <https://news.google.com/rss/articles/CBMisgFBVV95cUxPaW82anNvc1ZUcVFwNE9nU3BrR25uajdiY0dLSkZFVUxaZ00wazNUNXFIeThJMjVXWTBhejA4dUJFV051TVk4cDBnOE4xRU5KYXdFNVlTNWxYRjExdnVIQkxtMUpZclpmUWlCOFQ0VkU4MF8weHFLVzJUQk5QVWg1M3JuaW1jdUtKZHRQSHNYdDV2TmI5MGg3VENVZ2UxWFZ0S204SFNvTnhrUlctMTJpandn0gG0AUFVX3lxTE5udzdnUThhTERRVDdTR2ExdDlONzBRRElLblFJbHhKdjFybFhhdlFNOXJHYWRDMWpfTDAtSWZhR3B5bWRlaXZxbXo1LTI4aGExTFJCTzJ3VE41bVhPMHZEY3VkT0F4VHg0ZjIyQUQ5NDJha3pBTUpIOUZGRjF0WUJQUU1vd2pkUkx3UWt0WktCMmo0cFlDMjFWWGgyNDl4V3hudERHSEo5c3NseUNJbVN2OXN3Qw?oc=5>
+
+### 特朗普再批台湾拿走晶片业务 称卸任前美国将拥有60%产能
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-07-03 02:40
+- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTE9RVjBCYkhOWEQ5RTZHcUdWRURoeDBJWUptSEh0WHdKeW1TbHNpeXh1NXVwai1ZQTZ0c1ZtRG1vOGRNNF84NWF2TFY3Wm9ZNnNLalJOdGNOQXp2ZkZRNHVpYUd0enpURGN5VW4xelRB?oc=5>
+
+### 特朗普：我是历史上对以色列最好的美国总统
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-07-03 14:07
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE90QWlhblg3NW1UUEIwcndQTTlnZzJHTmFBUWdBMmdGN1g5THY2azNQSTJhYW9DcklpNWRoeG4xLWZxVWRlOEhTQVZoV0kwNUZTQ09oLUJqM2RCeGJLRnc?oc=5>
+
+### 特朗普首次乘坐新“空军一号” 赞不绝口引发争议
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-07-03 07:33
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9rVldkQXh6aHNpUktWX0dNWWpzQ05xYy1tZjRHai1JdEdkOXVQdnlESm9CZjU1VkQzUURlLU9OQzJNYmZDM1k1c3FlUGF6QlRoVFFUWEpzYURPV1BIQlNPMUxkZ0ZmNEctV3RlUm9NdS0?oc=5>
+
+### 一财主播说| “特朗普账户”要启动 特朗普隔空点名马斯克：他会捐赠SpaceX股票
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 第一财经
+- 时间: 2026-07-03 07:41
+- 链接: <https://news.google.com/rss/articles/CBMiVEFVX3lxTE1SNHVLOWRGZFJzcXRFdXQ1MlhsZG12S3JWajVWeVpuVWd4UFFZNGF4RXVaRkhWSGhlUldmQUgxZnpFUWlKRHc2RmZ1NzEwLWR6MjN6UQ?oc=5>
+
+### 特朗普写小纸条祝贺马斯克成为万亿富豪：虽有过小矛盾，但他还是喜欢我，百分百支持我
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 21财经
+- 时间: 2026-07-03 14:02
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxNX1E3TzFrSHVOcWRDNXFCUGtyeWd1dkU3enY5UldZRnVhZzQ5NVRrejNlZmVoeDZaSXVNeUJ5Q3NxT0U5UlBHaEFab2N0dDFkZmpVd240cUZvTmNTOG1mRjVtczc5eEpHbVh5THF2RUVhQjF0SXowUWF3SjZlc1ZDLUZmR0I5S1YxbDhaMQ?oc=5>
+
+### 特朗普真是“股神”吗？一年赚了22亿美元丨夜观天下
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 四川在线
+- 时间: 2026-07-03 11:58
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1cVZDQjJjNDF5Tl9oS3JHZVpkMmR4RUlWbkRxenNleFEyNmtZNnNIWDZ3YndrTFByb0FhbzNhNW5vVmdicVI3aXhxMGw0M1hrMlVtX1FyVEJzbUs2Tmc4QQ?oc=5>
+
+### $Palantir (PLTR.US)$ cos trump想砸盘。不用看K线，只要看trump 的新闻
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-06-30 12:55
+- 链接: <https://news.google.com/rss/articles/CBMisAFBVV95cUxQcGVLQ2s2dkJBaGhldjR1SVJvWm1jQjYzMzlpSkwwT2VncUJ0bFRINVFXanVUc0hSdEphWUFwMEtVMGhkci1odHhHVVZjb1h1OE82Z0hmZ2VZMFZkS0lER2NLRTdEMko3VDFhX0xodHI5T3FxdHBibEVVWWN4M3BpNVl5VS1PM09FYVZxYkgwOGtBT3lGbDNyNU9RT1hLUl9sVFFMYThsLW9ITHZsQjdfSA?oc=5>
+
+### Fake President 价格 | F.Trump 价格指数、实时图表和市值
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: OKX
+- 时间: 2026-07-03 10:48
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5kYjEyU1dHOUJPWWstLU1KLVExNmFvaTV0VlppcVhPZzByem9QV2dLc2RoUGV0ZUlwX0Qwekh0aU91ZzZveWF6eEVPZEFic3BGRXRORGdtSEloMmVtLXNxRkFoeVpNcVNpYVE?oc=5>
+
+### 唐纳德·特朗普表示他的14亿美元加密货币暴利“毫无问题”
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: CoinDesk
+- 时间: 2026-07-02 21:04
+- 链接: <https://news.google.com/rss/articles/CBMirgFBVV95cUxPb0g4ajhISjJkX2ludTBUVXdwMk14MnRKekZsLVBFclF6ckdib2xEV0d3M3BzaXpNcmoydlVReW14QXd4TlE3ZnVWN2pTcWRQclJDcnUtTWpmVE54dDMzeF9mY0FJbmRsLTdqTk5VaFFxc0k5b2gtRWg2SHdUbmxvd0EwQm5IN2FidVB3M3ZhandsU191RlVkU1VwdEtGbzNPT2pUdW9kSnNCaFZBV3c?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-03 16:21  (13 条)
+
+- **周杰伦** | 华语乐坛歌手演唱会总场次排行榜 2026年最新完整榜单 <https://k.sina.com.cn/article_7879776328_1d5abd84806801vgn0.html>
+- **特朗普** | 白宫前顾问：特朗普政府不会设立AI审批监管机构 <https://news.google.com/rss/articles/CBMiggFBVV95cUxQcnpGdURTUjBVOFVpa1JaTUVYSzItN25UbEN2ZjYtV3NWckFUaml4TVcyVUZDYnN1dmVmdkxHSVFneThYMVNqbkVZY0VORGFVYmNCMHhCUzZfVVdISHNxWHY4OXBqN1hsVy03UFZLVURnNEFwMzhvYWlqU05fVEl2ZDh3?oc=5>
+- **特朗普** | 特朗普一战，打崩海湾国家信任，沙特王室已经抵达北京探口风 <https://news.google.com/rss/articles/CBMickFVX3lxTE5JcUllUjFQS3NCLWtOR2NpSGl4bWI5S1JqMXp4ajZNeGVscXZPcGs4dUQyWDcwcHY2V0kwRmRIekJzelhPOTczV3FLckxSdmNkdXVvRlpsU3hsNGlNNWdhajREQlhBWlFpZnQyZ3VTMVFCQQ?oc=5>
+- **特朗普** | 北约安卡拉峰会在即，特朗普总统称美国对北约的单向付出现状是“荒谬的” <https://news.google.com/rss/articles/CBMisgFBVV95cUxPaW82anNvc1ZUcVFwNE9nU3BrR25uajdiY0dLSkZFVUxaZ00wazNUNXFIeThJMjVXWTBhejA4dUJFV051TVk4cDBnOE4xRU5KYXdFNVlTNWxYRjExdnVIQkxtMUpZclpmUWlCOFQ0VkU4MF8weHFLVzJUQk5QVWg1M3JuaW1jdUtKZHRQSHNYdDV2TmI5MGg3VENVZ2UxWFZ0S204SFNvTnhrUlctMTJpandn0gG0AUFVX3lxTE5udzdnUThhTERRVDdTR2ExdDlONzBRRElLblFJbHhKdjFybFhhdlFNOXJHYWRDMWpfTDAtSWZhR3B5bWRlaXZxbXo1LTI4aGExTFJCTzJ3VE41bVhPMHZEY3VkT0F4VHg0ZjIyQUQ5NDJha3pBTUpIOUZGRjF0WUJQUU1vd2pkUkx3UWt0WktCMmo0cFlDMjFWWGgyNDl4V3hudERHSEo5c3NseUNJbVN2OXN3Qw?oc=5>
+- **特朗普** | 特朗普再批台湾拿走晶片业务 称卸任前美国将拥有60%产能 <https://news.google.com/rss/articles/CBMibkFVX3lxTE9RVjBCYkhOWEQ5RTZHcUdWRURoeDBJWUptSEh0WHdKeW1TbHNpeXh1NXVwai1ZQTZ0c1ZtRG1vOGRNNF84NWF2TFY3Wm9ZNnNLalJOdGNOQXp2ZkZRNHVpYUd0enpURGN5VW4xelRB?oc=5>
+- **特朗普** | 特朗普：我是历史上对以色列最好的美国总统 <https://news.google.com/rss/articles/CBMiXkFVX3lxTE90QWlhblg3NW1UUEIwcndQTTlnZzJHTmFBUWdBMmdGN1g5THY2azNQSTJhYW9DcklpNWRoeG4xLWZxVWRlOEhTQVZoV0kwNUZTQ09oLUJqM2RCeGJLRnc?oc=5>
+- **特朗普** | 特朗普首次乘坐新“空军一号” 赞不绝口引发争议 <https://news.google.com/rss/articles/CBMicEFVX3lxTE9rVldkQXh6aHNpUktWX0dNWWpzQ05xYy1tZjRHai1JdEdkOXVQdnlESm9CZjU1VkQzUURlLU9OQzJNYmZDM1k1c3FlUGF6QlRoVFFUWEpzYURPV1BIQlNPMUxkZ0ZmNEctV3RlUm9NdS0?oc=5>
+- **特朗普** | 一财主播说| “特朗普账户”要启动 特朗普隔空点名马斯克：他会捐赠SpaceX股票 <https://news.google.com/rss/articles/CBMiVEFVX3lxTE1SNHVLOWRGZFJzcXRFdXQ1MlhsZG12S3JWajVWeVpuVWd4UFFZNGF4RXVaRkhWSGhlUldmQUgxZnpFUWlKRHc2RmZ1NzEwLWR6MjN6UQ?oc=5>
+- **特朗普** | 特朗普写小纸条祝贺马斯克成为万亿富豪：虽有过小矛盾，但他还是喜欢我，百分百支持我 <https://news.google.com/rss/articles/CBMijAFBVV95cUxNX1E3TzFrSHVOcWRDNXFCUGtyeWd1dkU3enY5UldZRnVhZzQ5NVRrejNlZmVoeDZaSXVNeUJ5Q3NxT0U5UlBHaEFab2N0dDFkZmpVd240cUZvTmNTOG1mRjVtczc5eEpHbVh5THF2RUVhQjF0SXowUWF3SjZlc1ZDLUZmR0I5S1YxbDhaMQ?oc=5>
+- **特朗普** | 特朗普真是“股神”吗？一年赚了22亿美元丨夜观天下 <https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1cVZDQjJjNDF5Tl9oS3JHZVpkMmR4RUlWbkRxenNleFEyNmtZNnNIWDZ3YndrTFByb0FhbzNhNW5vVmdicVI3aXhxMGw0M1hrMlVtX1FyVEJzbUs2Tmc4QQ?oc=5>
+- **Trump** | $Palantir (PLTR.US)$ cos trump想砸盘。不用看K线，只要看trump 的新闻 <https://news.google.com/rss/articles/CBMisAFBVV95cUxQcGVLQ2s2dkJBaGhldjR1SVJvWm1jQjYzMzlpSkwwT2VncUJ0bFRINVFXanVUc0hSdEphWUFwMEtVMGhkci1odHhHVVZjb1h1OE82Z0hmZ2VZMFZkS0lER2NLRTdEMko3VDFhX0xodHI5T3FxdHBibEVVWWN4M3BpNVl5VS1PM09FYVZxYkgwOGtBT3lGbDNyNU9RT1hLUl9sVFFMYThsLW9ITHZsQjdfSA?oc=5>
+- **Trump** | Fake President 价格 | F.Trump 价格指数、实时图表和市值 <https://news.google.com/rss/articles/CBMiakFVX3lxTE5kYjEyU1dHOUJPWWstLU1KLVExNmFvaTV0VlppcVhPZzByem9QV2dLc2RoUGV0ZUlwX0Qwekh0aU91ZzZveWF6eEVPZEFic3BGRXRORGdtSEloMmVtLXNxRkFoeVpNcVNpYVE?oc=5>
+- **Trump** | 唐纳德·特朗普表示他的14亿美元加密货币暴利“毫无问题” <https://news.google.com/rss/articles/CBMirgFBVV95cUxPb0g4ajhISjJkX2ludTBUVXdwMk14MnRKekZsLVBFclF6ckdib2xEV0d3M3BzaXpNcmoydlVReW14QXd4TlE3ZnVWN2pTcWRQclJDcnUtTWpmVE54dDMzeF9mY0FJbmRsLTdqTk5VaFFxc0k5b2gtRWg2SHdUbmxvd0EwQm5IN2FidVB3M3ZhandsU191RlVkU1VwdEtGbzNPT2pUdW9kSnNCaFZBV3c?oc=5>
 
 ### 2026-07-03 14:39  (2 条)
 
