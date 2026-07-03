@@ -1,38 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-03 22:00**
-- 本轮扫到 5787 条, 新增 **3** 条
+- 最近更新: **2026-07-03 23:32**
+- 本轮扫到 5791 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (4 条)
 
-### 黄牛掘金演唱会:三级代理囤票400万，单张最高溢价21万 | 界面 · 财经号
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907rpoo.html>
-
-### 特朗普：我是以色列历史上最好的美国总统，我在以色列的支持率高达99%，“犹太人不可能把票投给民主党”
+### 伊朗议员批评部分领导层提议配合特朗普签订宣传型协议
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-03 13:40
-- 链接: <https://news.google.com/rss/articles/CBMihAFBVV95cUxNemh0RkRDVDRnajhWNDZvRnJZc0JKaFE5TEdNZzlBSUw1YVoyU1oweHRPUFVHLUxvSEhESE9WbU14dDJ1N2xiU0s5RGhrR3BYdDRManNlekpVLTN1T2ZwVzE1Zm9zUDc3dTJoNy1vQjRFb0xxMDRMdGFtUk9rUm5sRzBrdGo?oc=5>
+- 时间: 2026-07-03 20:30
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFB6MFJ2VFIwNDJqZFhnRl9fNzFORUJXUDJHdzBPT1hMXzVqM1JUaEhnekIxNHRyaTJqSjVjaVNZUUJLX0c3TmkzREVNOA?oc=5>
 
-### “掌控”美联储，特朗普一直没放弃
+### 特朗普点名多国：“荒谬”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪军事
+- 时间: 2026-07-03 22:47
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE9WcmVoV0N5M1h0N2FBTlJEYWhmX2ZQUkd6clpXa2RMQTNkMy03dmhMcmxMNGhLSGg5T1FjNVVYYkdVWHBDbTRKWU0wNkFnSjRKdDFwNE1oZWRPbk12UWdJREtxN1Q5SzFvcnFnXzZPNVpwZHM?oc=5>
+
+### 特朗普经济幕僚哈塞特批评鲍威尔继续留在美联储
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-03 00:34
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdTVMM1E1VVY0WDFaaUxfcmdabTA1a1VHNnJrT2VKVlcwRnA2bzltdU1ZekY0MGJDZnMzM3VwZ284dlF1VTVWa2NqR3JvTzREOGx0M21QNTBVbGhMWUFvZFIyTXRmYWVFYk1IZHd1Z3RLWUJ0S0c1a3R1Q29hWEJPQktYY245cUhWMEhqdWxsb2lzN1pjbUczeHgtRlR6X0hEZlRETjRrUlN6RTY0dUwycXNjS2V1MkttREVYam5CNUY3VUNqdjBsNUd1M3o2UUlh?oc=5>
+- 时间: 2026-07-02 07:00
+- 链接: <https://news.google.com/rss/articles/CBMiowJBVV95cUxNamhfbDdhX1VsS2RhdHJ4RUllSnV3QVVMQ3c5SE9QR3dTNG81UUd4UFJaMThHYmdub0k0OEItQ1d0TzJkSURuOC1ObFVqTWIxU0tzcUhlaElab3prd3JibnBMUjh1MWF6Ym1YckJxQ1Q4ZEJBWllXelZ4RjFaaE9Qc09CdGNXZzRCNDhjYnRkcXY2V3hObmhPZFI4X0JYTjAyak9ueXkyT3BYY0NmeUhJSWZqTGd0TVVCdGZHRTJSYUE1NkxfcERpZXhzOGw1Z2o0aWctbXROajA1NjBIaHVfc0o1TUZQWW9tTzRyT1BKdjBvNmNTMWE2MnJtc1RQdGVfNEt3aHduR25ad0JmMEUzclhmMzZlQ2tmcloyM1B5NGdRX1E?oc=5>
+
+### Trump公开的财务纪录显示：2025年股票交易两万两千多次 （Biden四年交易十三次） ​
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-07-02 05:41
+- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTFB0WUR2eDZrY0hpN0wxTGhHUlhHVnpoTWI4d0hEZTRILVpTWXlBSUw1U01FVUx5QzlCZzRyYms5YXNvV2FVZ0Q1M1MtVkVPUkhrSlNyazdLWjBFeGY3ZTdicTVnNA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-03 23:32  (4 条)
+
+- **特朗普** | 伊朗议员批评部分领导层提议配合特朗普签订宣传型协议 <https://news.google.com/rss/articles/CBMiS0FVX3lxTFB6MFJ2VFIwNDJqZFhnRl9fNzFORUJXUDJHdzBPT1hMXzVqM1JUaEhnekIxNHRyaTJqSjVjaVNZUUJLX0c3TmkzREVNOA?oc=5>
+- **特朗普** | 特朗普点名多国：“荒谬” <https://news.google.com/rss/articles/CBMic0FVX3lxTE9WcmVoV0N5M1h0N2FBTlJEYWhmX2ZQUkd6clpXa2RMQTNkMy03dmhMcmxMNGhLSGg5T1FjNVVYYkdVWHBDbTRKWU0wNkFnSjRKdDFwNE1oZWRPbk12UWdJREtxN1Q5SzFvcnFnXzZPNVpwZHM?oc=5>
+- **特朗普** | 特朗普经济幕僚哈塞特批评鲍威尔继续留在美联储 <https://news.google.com/rss/articles/CBMiowJBVV95cUxNamhfbDdhX1VsS2RhdHJ4RUllSnV3QVVMQ3c5SE9QR3dTNG81UUd4UFJaMThHYmdub0k0OEItQ1d0TzJkSURuOC1ObFVqTWIxU0tzcUhlaElab3prd3JibnBMUjh1MWF6Ym1YckJxQ1Q4ZEJBWllXelZ4RjFaaE9Qc09CdGNXZzRCNDhjYnRkcXY2V3hObmhPZFI4X0JYTjAyak9ueXkyT3BYY0NmeUhJSWZqTGd0TVVCdGZHRTJSYUE1NkxfcERpZXhzOGw1Z2o0aWctbXROajA1NjBIaHVfc0o1TUZQWW9tTzRyT1BKdjBvNmNTMWE2MnJtc1RQdGVfNEt3aHduR25ad0JmMEUzclhmMzZlQ2tmcloyM1B5NGdRX1E?oc=5>
+- **Trump** | Trump公开的财务纪录显示：2025年股票交易两万两千多次 （Biden四年交易十三次） ​ <https://news.google.com/rss/articles/CBMiY0FVX3lxTFB0WUR2eDZrY0hpN0wxTGhHUlhHVnpoTWI4d0hEZTRILVpTWXlBSUw1U01FVUx5QzlCZzRyYms5YXNvV2FVZ0Q1M1MtVkVPUkhrSlNyazdLWjBFeGY3ZTdicTVnNA?oc=5>
 
 ### 2026-07-03 22:00  (3 条)
 
