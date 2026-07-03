@@ -1,88 +1,172 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-03 02:23**
-- 本轮扫到 5709 条, 新增 **9** 条
+- 最近更新: **2026-07-03 06:07**
+- 本轮扫到 5728 条, 新增 **19** 条
 
 ---
 
-## 本轮新发现 (9 条)
+## 本轮新发现 (19 条)
 
-### 特朗普经济顾问哈塞特点名鲍威尔动机可疑：赖在美联储完全不合常规
+### 王一博发布骆驼防晒短片，原声旁白展现硬核户外
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1893711543_m70dfbeb703301s9ca.html>
+
+### 王一博新歌《万物可爱》伴昭苏万马奔腾
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923551_m1d5ae175f03301lqvk.html>
+
+### 28岁歌手蔡徐坤签售会索要粉丝飞吻，80秒一对一互动为何反向撒娇成宠粉天花板？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801amw8.html>
+
+### 周杰伦演唱会主办方会被处罚吗？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801v7wq.html>
+
+### 买了周杰伦演唱会天价票能退款吗？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801v7uk.html>
+
+### 周杰伦演唱会天价票事件，牵出票务黑幕
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801v7tw.html>
+
+### 周杰伦演唱会迟到真的就不能进场吗？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801v63m.html>
+
+### 周杰伦演唱会连爆争议：万元票价+迟到被拒，谁该负责？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801v632.html>
+
+### 周杰伦鸟巢演唱会的火爆...@偷懒提莫out哦的动态
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907ov48.html>
+
+### 特朗普称美国与北约的关系“荒谬”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中国日报网
+- 时间: 2026-07-03 05:39
+- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTFBQeEpYalp2OXhpd010bHE5emdiSXRvejBCS0RqdEE3Smd6TEY5QlRHMUhHQTM0UmdyZ09UV0lzM29fRFZRZGx0M2pHRDZWX2tOQVVoQWhJYXZZTl9SX0dhR0cxSnBuc1JQaUV4SDhaeUlNOF93bHZwNHd3WQ?oc=5>
+
+### 特朗普：美国为北约“单方面付出”是荒谬的
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-07-03 05:15
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9zekZ1SXlKYURxUl9zaGFWbk5pNXFYWFFIbVV4b19tMUdCdFdlU0d0M2JQU2wtZmEzRzZRSWkyMEo1OEVZRjBycVhqNlRieldCMC1NWU5nRDBYd2NzbDRRWjY3TnJIYzJpT2c?oc=5>
+
+### 特朗普因伊战事再批西班牙
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-07-03 05:49
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1PQ0w3ZGI1X2JKR3JSMG4tYkUyNkxBUVVjb0U5WV9rZFl6LWpieEVfM1VWOVJkcFNBeDlMU2tRTTJQOHd6TF82NkU4bnBjamtDd1M0bG42S2ptLUVleUlQMGJWSVZYVGVqSUI4aGs5ckc?oc=5>
+
+### 特朗普称近期股市上涨“人人都在赚钱”，但收益大多落入前1%富人腰包
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-02 23:43
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxQOHNrN1dkaW9vbWpfQ3ZLNENJOVhvU01XNjJMcnU3RzNQal9wMjAyakNnQnhWYkk1RXVleXhycGtIUDFfZjR2T1dNX0hYNXREdElsdDFmSXZxS1FGYlBaYWxiTUI2Z3d4Q1F4UTlWTUE2aGxuN3JhOWdNdnRZaG96bXFXa3V2dW9PVkFNLUhReGtTbWtCaDRZTw?oc=5>
+- 时间: 2026-07-03 04:35
+- 链接: <https://news.google.com/rss/articles/CBMipwJBVV95cUxPWWpUVlltOFJVT1VvTlpPR1dVaWtBakhaWXRUVUlTOUxNb2ZUVXZaVnpnNWV3b1J4eDBFSXBDN25udWpjaDY2V2JCazZSekxkZ2dEV1h3S1dtSkZLY3pFbVFEeE4xcXlrT0d5NEFzTEdBQlRmRzhnSTB0VkYtdENYclBLd0FIYnVTT3RraVl2bnVFM3F6ekZwdFMyWHFSeWpsblRrS0dleU9oTTNqT3RZWmJfWkk2N1lWX2pQQ1JLb0cyaVZMTVlaQXJfS0llX2c5RnZQenk3WHhjRWNzQy1TREFVUWhWWUF1dDc2SjhXZGhCaUFmdHkxRjNXb1A4N3RXZFo0RFhBdG83Q2NzelFqZTZ2YTZ3bnB6VnRsUVU3ekdXVjM3X01j?oc=5>
 
-### 特朗普谈非农“爆冷”：沃什必须做他该干的事，但FED理事会有点敌对！
+### 去年狂赚22亿美元，特朗普：我不拿年薪，当总统有“更大目标”-观察者网
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-07-03 00:24
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE9hek5VZzl2OFRzdmxla2pMc1ZvN21NMlN1bWc3Zmx1RTR1allldVNpRXRFMGhKYy1Ed3RsRDBoX3k4YzFVM3RpYQ?oc=5>
+- 场馆: 观察者
+- 时间: 2026-07-03 00:15
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5NVUlLUkpiaHVGaTN2OFNsR2ZvQ001czZOeC1lX0JZZXMya3hNN2R2dFQ1RmNyckRieS1PWWtkenVkcks3UkdvUFNTdWdiY053QWtaMEhIaTJwYmRndTZ0RmlTdHNDQzBfM1E?oc=5>
 
-### 炒库克没成，特朗普不服：还要对美联储多名高官下手
+### “现代史上前所未有”！特朗普去年总收入曝光
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-02 23:26
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1ocndZd1M4eXR5LUJuU1ZSLVk5RXI0VzlYSGFSRzQzcW8xQlJSWTJNX3Z1WmJRaG1IUEFTS1lraHZlZXZkdkh3Q3BSWGdpci1tMG5QdE9UcDJkWmp5NDdIX2VodERwd29sd1Q1Z0h2MG50azcxZG93ag?oc=5>
+
+### 特朗普突传重磅！彭博独家：特朗普及其盟友加码推动重塑美联储
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 金融界
+- 时间: 2026-07-03 05:11
+- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTE5XVjFJU2pkOGMyV1c0S2hzRjJiVGQ4b0o1Ym5QR3RrQnV0RHkxS1phMVVDbTdlS0VHUGw0NmhQcmd6TGc5WkxETTBQUWRTcFVGY1dUV2I1a2U5N2lNRXJYSW9CZw?oc=5>
+
+### 美军官呼吁弹劾特朗普后被捕
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-07-02 23:37
-- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE84WnRZMlNrOFpmai1BOW1wazF2YW10TXdibHpXS1BXWWxfTnNTTWdQOU5WVjN0Q2duQnpHTGdMRUluLWlpVTZvS1RJN2ZsM0x2?oc=5>
-
-### 特朗普账户在“解放日”关税前后大举交易获利
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-07-03 01:02
-- 链接: <https://news.google.com/rss/articles/CBMitAJBVV95cUxNRWVPZ1pSYkZ5OTUwU052NmhXM09xeUozcXdrUmloODl5ZnNyX0UzYmFtdnZtbzZBWWQ4RVBYVkFKWC1nMVI1Q3ZaWFpDMUc0b09nR3lmeDVuc21WeHZTZlNHR1lldE5WVy12cGNsYWs5enJpQk9qWloxTnRsWTlJMFowVEp2SzRMRUNoZ0hVLXhUWnVUcG82TnphV1hXVHhxNnNUNU5lbzdZZEFtUGRmMFhmMWlIbXlvMGhjRjVjWHZ0bGJyVFVWdnFYZll4VGFMTEZpRlpoZVA2bG9Gc2M2dmh3ei1NZjRUbkg2ZlJ1MmZZazBReTFfN3o2VTZqZFdsN3ZVSWFGNDc5ZWlacGJpTlFmNXAxVDVLMHhiSHJiSWhiQkMtNmV4OGhuaXdCVHg0T21XOQ?oc=5>
-
-### 特朗普称美伊谈判取得进展：伊朗几乎同意所有关键要求
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-07-02 23:47
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1KNGtZUUNXTVpwTVRIWmh2VWN4YkdpTGMwZDFGa1pTY0ExdzdNWWxMbFhDdXZ4Rm9qYUlpZUNla1dsMmlYSDBvRmhvaTZRUDZGWWdieUsxYmhRQjBuZ0JjQTA0VUVCSmY4?oc=5>
-
-### 特朗普首乘新“空军一号”，对飞机赞不绝口：“美国造不出这样的飞机”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-07-02 10:17
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFA4NG44dzlOZFlERlNVU0ROU0kzMFBwekdnNjFSLTRubWhuLTNXY3BER3VwN2I5aDA5N0I0c1NXZHpwd2dnczZkamdacXU4R01CYi1RalZwQ1liOHMybkVOa2lFT2FUOENBYWZmOTFFTVB6Q1JmT2c5SA?oc=5>
-
-### 特朗普财务披露显示2025年交易逾2.1万笔
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-02 20:26
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxOdUJKMERKV0NTUDZlZ1dJZDE0dzU1bHRyRTlyeXJQejV6VUhmZmJITWptQ2FWcnMzcDVFZFdQRVctcDItYVJ3NnpvY2s5MDl6d3pRYU9fZVpIcXBaSWxRTHcwci15elRvVWNiMU1LYVZDay1fbkFTdUVzMngyRVZiZGZiZUxGVW8?oc=5>
-
-### 关税血洗美股后精准抄底!“白宫股神”特朗普投资布局屡屡踩中政策风口 再掀市场操纵争议
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 同花顺
 - 时间: 2026-07-03 01:47
-- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE1WYUQ5T19leW1qM1EwNm9YV1oxdW5RUkZldmx3NXA3cnVfV184OVloR3lrVFVGOGpCNzFRN0NvRjVtYjNCRkJNaGdDN3puRlhjY0RhYlhyUTA3cmJYLWl6TDZ3?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1qbGMzX216LU5KOExFbW10QzFWRkdZMVA1Rmh4R0FFOTk2ZmRpQ05tUGhSQ19BZ09Pd3dxS1hEZWhRTkRxUTFBcDcydlg?oc=5>
 
-### Trump Blasts 'Hostile' Fed and Says Warsh 'Has to Do What He Has to Do' on Interest Rates
+### 📊 特朗普38亿美元投资组合曝光：科技股、地产、 加密资产齐布局
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: Moomoo
-- 时间: 2026-07-02 22:21
-- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ0JINldaNVdIUktLSk9jQU41WjNQa05ud05SMW9qSDJRUVRYYnZZeGRjRTYtTkxPRXlfR1hlWG1mblJaX2gyU1hqaDBvN1JrR19fWXhnVVNyNFM2bElJWjJIcTlRS0Y2ZTlIdGNqS3N2X2tVQlZ4TVJ6YXRRMGVMMjN0N2k2eHJaQnRmNWhub2ZQbGd0dy11ZVZqRXc?oc=5>
+- 时间: 2026-07-03 05:12
+- 链接: <https://news.google.com/rss/articles/CBMivAFBVV95cUxNSGpDSWFVdWRjZ2xkb3liNmJkYjBTMzlQY3MtY2lPQXlwZmxPUzgwZU8yQW9jaUNFa2ZRdHFHT0RaeGVCeEtwblJfVzFCRUV2NElGV0w5YUZfdXBhWE1NZU9iZDlEM2ZRUUdtSllfYTFqdTZ5MUVNajI5WS1aYnBLd3V3anJSRFBtWjFKVG02SnRoR2huTEl5bWZ1SmFxbE9ORWNXcE1ySld0XzYtNkhudHpUeS1ZU0xpM0ZhbA?oc=5>
+
+### 特朗普靠加密货币狂赚14亿美元引发争议！美财长贝森特接受美媒独家采访进行回应
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: FX168财经
+- 时间: 2026-07-03 04:41
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5vUlBKbWxEazNoR3hyUGUwdUYtTnFUMFBsWTJDQUNBOU9Geks5dTBXZG5vVEt4WG5PUk9ab0hOYXZOMjY4VlppUV80anVMUGk3UW5PNzhxOWUtQ3gwTTZGOTJYaUxPMnZSOGpGOHNqQlpHV1VidDBhWg?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-03 06:07  (19 条)
+
+- **王一博** | 王一博发布骆驼防晒短片，原声旁白展现硬核户外 <https://k.sina.com.cn/article_1893711543_m70dfbeb703301s9ca.html>
+- **王一博** | 王一博新歌《万物可爱》伴昭苏万马奔腾 <https://k.sina.com.cn/article_7879923551_m1d5ae175f03301lqvk.html>
+- **蔡徐坤** | 28岁歌手蔡徐坤签售会索要粉丝飞吻，80秒一对一互动为何反向撒娇成宠粉天花板？ <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801amw8.html>
+- **周杰伦** | 周杰伦演唱会主办方会被处罚吗？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801v7wq.html>
+- **周杰伦** | 买了周杰伦演唱会天价票能退款吗？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801v7uk.html>
+- **周杰伦** | 周杰伦演唱会天价票事件，牵出票务黑幕 <https://k.sina.com.cn/article_7879776328_1d5abd84806801v7tw.html>
+- **周杰伦** | 周杰伦演唱会迟到真的就不能进场吗？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801v63m.html>
+- **周杰伦** | 周杰伦演唱会连爆争议：万元票价+迟到被拒，谁该负责？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801v632.html>
+- **周杰伦** | 周杰伦鸟巢演唱会的火爆...@偷懒提莫out哦的动态 <https://k.sina.com.cn/article_7857201856_1d45362c001907ov48.html>
+- **特朗普** | 特朗普称美国与北约的关系“荒谬” <https://news.google.com/rss/articles/CBMie0FVX3lxTFBQeEpYalp2OXhpd010bHE5emdiSXRvejBCS0RqdEE3Smd6TEY5QlRHMUhHQTM0UmdyZ09UV0lzM29fRFZRZGx0M2pHRDZWX2tOQVVoQWhJYXZZTl9SX0dhR0cxSnBuc1JQaUV4SDhaeUlNOF93bHZwNHd3WQ?oc=5>
+- **特朗普** | 特朗普：美国为北约“单方面付出”是荒谬的 <https://news.google.com/rss/articles/CBMiakFVX3lxTE9zekZ1SXlKYURxUl9zaGFWbk5pNXFYWFFIbVV4b19tMUdCdFdlU0d0M2JQU2wtZmEzRzZRSWkyMEo1OEVZRjBycVhqNlRieldCMC1NWU5nRDBYd2NzbDRRWjY3TnJIYzJpT2c?oc=5>
+- **特朗普** | 特朗普因伊战事再批西班牙 <https://news.google.com/rss/articles/CBMicEFVX3lxTE1PQ0w3ZGI1X2JKR3JSMG4tYkUyNkxBUVVjb0U5WV9rZFl6LWpieEVfM1VWOVJkcFNBeDlMU2tRTTJQOHd6TF82NkU4bnBjamtDd1M0bG42S2ptLUVleUlQMGJWSVZYVGVqSUI4aGs5ckc?oc=5>
+- **特朗普** | 特朗普称近期股市上涨“人人都在赚钱”，但收益大多落入前1%富人腰包 <https://news.google.com/rss/articles/CBMipwJBVV95cUxPWWpUVlltOFJVT1VvTlpPR1dVaWtBakhaWXRUVUlTOUxNb2ZUVXZaVnpnNWV3b1J4eDBFSXBDN25udWpjaDY2V2JCazZSekxkZ2dEV1h3S1dtSkZLY3pFbVFEeE4xcXlrT0d5NEFzTEdBQlRmRzhnSTB0VkYtdENYclBLd0FIYnVTT3RraVl2bnVFM3F6ekZwdFMyWHFSeWpsblRrS0dleU9oTTNqT3RZWmJfWkk2N1lWX2pQQ1JLb0cyaVZMTVlaQXJfS0llX2c5RnZQenk3WHhjRWNzQy1TREFVUWhWWUF1dDc2SjhXZGhCaUFmdHkxRjNXb1A4N3RXZFo0RFhBdG83Q2NzelFqZTZ2YTZ3bnB6VnRsUVU3ekdXVjM3X01j?oc=5>
+- **特朗普** | 去年狂赚22亿美元，特朗普：我不拿年薪，当总统有“更大目标”-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE5NVUlLUkpiaHVGaTN2OFNsR2ZvQ001czZOeC1lX0JZZXMya3hNN2R2dFQ1RmNyckRieS1PWWtkenVkcks3UkdvUFNTdWdiY053QWtaMEhIaTJwYmRndTZ0RmlTdHNDQzBfM1E?oc=5>
+- **特朗普** | “现代史上前所未有”！特朗普去年总收入曝光 <https://news.google.com/rss/articles/CBMieEFVX3lxTE1ocndZd1M4eXR5LUJuU1ZSLVk5RXI0VzlYSGFSRzQzcW8xQlJSWTJNX3Z1WmJRaG1IUEFTS1lraHZlZXZkdkh3Q3BSWGdpci1tMG5QdE9UcDJkWmp5NDdIX2VodERwd29sd1Q1Z0h2MG50azcxZG93ag?oc=5>
+- **特朗普** | 特朗普突传重磅！彭博独家：特朗普及其盟友加码推动重塑美联储 <https://news.google.com/rss/articles/CBMiY0FVX3lxTE5XVjFJU2pkOGMyV1c0S2hzRjJiVGQ4b0o1Ym5QR3RrQnV0RHkxS1phMVVDbTdlS0VHUGw0NmhQcmd6TGc5WkxETTBQUWRTcFVGY1dUV2I1a2U5N2lNRXJYSW9CZw?oc=5>
+- **特朗普** | 美军官呼吁弹劾特朗普后被捕 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1qbGMzX216LU5KOExFbW10QzFWRkdZMVA1Rmh4R0FFOTk2ZmRpQ05tUGhSQ19BZ09Pd3dxS1hEZWhRTkRxUTFBcDcydlg?oc=5>
+- **Trump** | 📊 特朗普38亿美元投资组合曝光：科技股、地产、 加密资产齐布局 <https://news.google.com/rss/articles/CBMivAFBVV95cUxNSGpDSWFVdWRjZ2xkb3liNmJkYjBTMzlQY3MtY2lPQXlwZmxPUzgwZU8yQW9jaUNFa2ZRdHFHT0RaeGVCeEtwblJfVzFCRUV2NElGV0w5YUZfdXBhWE1NZU9iZDlEM2ZRUUdtSllfYTFqdTZ5MUVNajI5WS1aYnBLd3V3anJSRFBtWjFKVG02SnRoR2huTEl5bWZ1SmFxbE9ORWNXcE1ySld0XzYtNkhudHpUeS1ZU0xpM0ZhbA?oc=5>
+- **Trump** | 特朗普靠加密货币狂赚14亿美元引发争议！美财长贝森特接受美媒独家采访进行回应 <https://news.google.com/rss/articles/CBMieEFVX3lxTE5vUlBKbWxEazNoR3hyUGUwdUYtTnFUMFBsWTJDQUNBOU9Geks5dTBXZG5vVEt4WG5PUk9ab0hOYXZOMjY4VlppUV80anVMUGk3UW5PNzhxOWUtQ3gwTTZGOTJYaUxPMnZSOGpGOHNqQlpHV1VidDBhWg?oc=5>
 
 ### 2026-07-03 02:23  (9 条)
 
