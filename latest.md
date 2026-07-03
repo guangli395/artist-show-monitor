@@ -1,38 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-03 19:10**
-- 本轮扫到 5783 条, 新增 **3** 条
+- 最近更新: **2026-07-03 20:36**
+- 本轮扫到 5784 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (1 条)
 
-### 周杰伦演唱会温州站开票在即!这些套路一定要了解-新闻中心-温州网
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857141524_1d452771401903wjyo.html>
-
-### 特朗普财务披露显示2025年交易逾2.1万笔
+### “掌控”美联储，特朗普一直没放弃
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-03 18:25
-- 链接: <https://news.google.com/rss/articles/CBMiigJBVV95cUxNUG9kMVRhbWpnSFFGdDRPQmxBTlc0WHprUDBHOXZSbnlfZkNfcTcxSXFpS2Jta3pSOUpBV054dEE3eW9xWWhhMjBCeDNlMTFQaTJxZzRBVzlBRlB2MVkweFNjNTY3aElvSzVzV3ZUSllIamk4V2pvRVZRbDBqWnhseEhFMTdaNlRkQ1h3aXREZjY1NzNxSFN2UWg1djkySHl1eU1ROTg1WnhaVTNnOHVIbzJHc0ljcGt4Znp2WlhrTFdVZGVRaUdJcEZneEFHcHN0R1NDQ01mejZTbTNoV2NZejJMM1JmT21RV3VBY1lqbzdvakxhWXIwRzhLNEZmNGRleHhPMXFFQURfZw?oc=5>
-
-### 特朗普将在总统山发表演说 开启美国独立250周年庆典
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-07-03 15:52
-- 链接: <https://news.google.com/rss/articles/CBMi7AJBVV95cUxOWWtHbGhaMkgzQmVvNUlMUXVLb3JDTDhGU3k0Y2wzY2NNUW9tVmZkc0dFWDlZdVlUTzloX1FxdGpZZk5XM0xKUnN1aWRKck1FN0pfRjZNb2pQdU8yczRJSlpBNExxRXpxLUFNU3NfMTNVWGNPRVRDbFVOLVdUNmZDSDJwYTJkcnhhZFVEMThTNjgwWlJVMVJSNVpPX2ZGTm1JdWptNGp1VlJXWXl4bmNCZWFZVXB5UktiQ0xkMWcyVWtCc1NoQ2lqZzFQTVpjczRTSkFMRG82TW1GRjYwQUF5SDhvWTRxSmJfRWw4Y0RfUjFTaHNWbURIa09NYVNxWi03d09xWnVOWHE2MzhWcm1ZaU9QeGt5WTRnRnh2STJPUTRxSkNRejkyUmhZUkt5SkdENkFvcUY5Y0stVEtlWks1QkVESGZrTm5NTHZfU09iTVUybmNndUxBT25nY0JvV09jTHFDODJocjlUM1lY?oc=5>
+- 时间: 2026-07-03 00:34
+- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxNRU1WeVg1WXlNNFp2OHhQbjUxNzJlNXVkZ0wxQlNWWTZSNE5kQjJLTGplUW1wTlVTUXdiU0E3cnZGZ0s5eVhJZ1hUQktEVFYtREZNTHB0ajdOcTlPZm5yUFlERlFERDI2SWVNdEpWOWc5blNEekZtQnFJbDFUamxkSlczUFIxWnFCb09saDVRR0ROekNKYVBWeVZzZ0ptRWRTNTlqVi1HcHFVMjVnenR5dTZvalVVd0ZKUVZhMXdlSnJUeFJkcGtaQWhsY0twbEk?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-03 20:36  (1 条)
+
+- **特朗普** | “掌控”美联储，特朗普一直没放弃 <https://news.google.com/rss/articles/CBMizwFBVV95cUxNRU1WeVg1WXlNNFp2OHhQbjUxNzJlNXVkZ0wxQlNWWTZSNE5kQjJLTGplUW1wTlVTUXdiU0E3cnZGZ0s5eVhJZ1hUQktEVFYtREZNTHB0ajdOcTlPZm5yUFlERlFERDI2SWVNdEpWOWc5blNEekZtQnFJbDFUamxkSlczUFIxWnFCb09saDVRR0ROekNKYVBWeVZzZ0ptRWRTNTlqVi1HcHFVMjVnenR5dTZvalVVd0ZKUVZhMXdlSnJUeFJkcGtaQWhsY0twbEk?oc=5>
 
 ### 2026-07-03 19:10  (3 条)
 
