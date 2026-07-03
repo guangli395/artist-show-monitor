@@ -1,62 +1,44 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-03 17:55**
-- 本轮扫到 5780 条, 新增 **6** 条
+- 最近更新: **2026-07-03 19:10**
+- 本轮扫到 5783 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (3 条)
 
-### 华语乐坛演唱会票房40强出炉，张学友遥遥领先…|五月天|刘德华演唱会|周杰伦|张学友|票房
+### 周杰伦演唱会温州站开票在即!这些套路一定要了解-新闻中心-温州网
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907ra14.html>
+- 链接: <https://k.sina.com.cn/article_7857141524_1d452771401903wjyo.html>
 
-### 特朗普总统：伊朗“几乎同意了我们需要的一切”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-07-03 16:27
-- 链接: <https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbG16ZmhOLWdaOWpOZnI3aG9QSTJud0ZHQlktc1RsTFVBZXdkVXNoMXpWbldlZW5IY1hkbDdUdTJza2htdDFLZWluZ3d2azhKOWdiTFktWW9FMnZXa1hpTHpyMVQzVFVOLWFIV21sWkRWeHplNGV3bkljelRZcV9XdE91ZXowd2dwaVUxRXhYNUZYWHhwTE9HYm4yOHViRFpFVjg3UWcwU2hNWkwxMmpHRDRJVGdZemY00gG7AUFVX3lxTE5odFNNVW4ycVNSSWpsVTE0MGxaMjA4QWcwVm1jdnktdWxhWTIwVGIxZzBweU9fWnlYekV4aGI2SVlIbTFwZFpoVkppc1YwMzJGZko2Vjg3b1N1SFhLdDRQRmVGc05HaXdDT3puRTBCcUhvLTJGME9EeFdPZjhMYlJXMGpuSV94UGMzSEJTMHkzMjV2Snd6Vms3N1JkWnJwZGFKYnpBZlJKSjUzVEZueHZZdWNFNDlvSmo4alk?oc=5>
-
-### “美国造不出来”，特朗普首次乘坐新“空军一号”
+### 特朗普财务披露显示2025年交易逾2.1万笔
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-07-02 22:48
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFB4UzNIWGx5T2xjSTlKV1FZRWdQbmhEQ1hOdnJtdzh6S2FoSzJfXzdJVmlsMUxmRWtiQzNJTUk1WW15RFcyX2VfWmMyVHhMYjRJT0x2QWhfM3p1UlVSaHdHNzZ3RXJ4WUNxVEE?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-07-03 18:25
+- 链接: <https://news.google.com/rss/articles/CBMiigJBVV95cUxNUG9kMVRhbWpnSFFGdDRPQmxBTlc0WHprUDBHOXZSbnlfZkNfcTcxSXFpS2Jta3pSOUpBV054dEE3eW9xWWhhMjBCeDNlMTFQaTJxZzRBVzlBRlB2MVkweFNjNTY3aElvSzVzV3ZUSllIamk4V2pvRVZRbDBqWnhseEhFMTdaNlRkQ1h3aXREZjY1NzNxSFN2UWg1djkySHl1eU1ROTg1WnhaVTNnOHVIbzJHc0ljcGt4Znp2WlhrTFdVZGVRaUdJcEZneEFHcHN0R1NDQ01mejZTbTNoV2NZejJMM1JmT21RV3VBY1lqbzdvakxhWXIwRzhLNEZmNGRleHhPMXFFQURfZw?oc=5>
 
-### 从保守派宠儿到MAGA公敌，她为什么敢“背叛”特朗普？
+### 特朗普将在总统山发表演说 开启美国独立250周年庆典
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-03 12:38
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1MQ1VYWEZzRmhCVVpMc0VydjZ1bC0xTDd6SjdpN1MyaFd6UHdPMEdKV0s2b1EtLUJkX1BwSi1HaE5SS3ZaYzRycXBJV3Q?oc=5>
-
-### 7.4日：90秒AI视频点名6位好莱坞名流，一众明星集体沉默，特朗普出手专治各种不服
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-07-03 17:04
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxOVW1NTFRIOXBUeEtmRTA4anVsZWhaTDI5YjJkLWNDWUhpallRYVBoLXExdzdsb3lqclRDVElKdHc2bkVja1paamItZHFScmMtVjRIUHVkbUJzdmVYQk1QcmhRUThXakk4NklHazFIQzg1YzZkQldtTG96YVZNNzd2NFZZWUdGSUJPbjQyag?oc=5>
-
-### 信息量巨大！一文看清特朗普专访五大看点：谈钱、谈子女、谈美联储，还施压国会
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: FX168财经
-- 时间: 2026-07-03 16:31
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9LbUpic0d4OEdMU3VvVldKbjlHc2FpV1RRRjNfUWo1MHFhdTlsVEg3SnA0QXBud20yVTNfbm9JeFYtdmUwQmhFRUVMSEZRWk1JR25MY3I4RGx3Wkttd2NtVVZNR0ZHQjJqWXUtSWw2T01KWjhFSjFfWg?oc=5>
+- 场馆: RFI
+- 时间: 2026-07-03 15:52
+- 链接: <https://news.google.com/rss/articles/CBMi7AJBVV95cUxOWWtHbGhaMkgzQmVvNUlMUXVLb3JDTDhGU3k0Y2wzY2NNUW9tVmZkc0dFWDlZdVlUTzloX1FxdGpZZk5XM0xKUnN1aWRKck1FN0pfRjZNb2pQdU8yczRJSlpBNExxRXpxLUFNU3NfMTNVWGNPRVRDbFVOLVdUNmZDSDJwYTJkcnhhZFVEMThTNjgwWlJVMVJSNVpPX2ZGTm1JdWptNGp1VlJXWXl4bmNCZWFZVXB5UktiQ0xkMWcyVWtCc1NoQ2lqZzFQTVpjczRTSkFMRG82TW1GRjYwQUF5SDhvWTRxSmJfRWw4Y0RfUjFTaHNWbURIa09NYVNxWi03d09xWnVOWHE2MzhWcm1ZaU9QeGt5WTRnRnh2STJPUTRxSkNRejkyUmhZUkt5SkdENkFvcUY5Y0stVEtlWks1QkVESGZrTm5NTHZfU09iTVUybmNndUxBT25nY0JvV09jTHFDODJocjlUM1lY?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-03 19:10  (3 条)
+
+- **周杰伦** | 周杰伦演唱会温州站开票在即!这些套路一定要了解-新闻中心-温州网 <https://k.sina.com.cn/article_7857141524_1d452771401903wjyo.html>
+- **特朗普** | 特朗普财务披露显示2025年交易逾2.1万笔 <https://news.google.com/rss/articles/CBMiigJBVV95cUxNUG9kMVRhbWpnSFFGdDRPQmxBTlc0WHprUDBHOXZSbnlfZkNfcTcxSXFpS2Jta3pSOUpBV054dEE3eW9xWWhhMjBCeDNlMTFQaTJxZzRBVzlBRlB2MVkweFNjNTY3aElvSzVzV3ZUSllIamk4V2pvRVZRbDBqWnhseEhFMTdaNlRkQ1h3aXREZjY1NzNxSFN2UWg1djkySHl1eU1ROTg1WnhaVTNnOHVIbzJHc0ljcGt4Znp2WlhrTFdVZGVRaUdJcEZneEFHcHN0R1NDQ01mejZTbTNoV2NZejJMM1JmT21RV3VBY1lqbzdvakxhWXIwRzhLNEZmNGRleHhPMXFFQURfZw?oc=5>
+- **特朗普** | 特朗普将在总统山发表演说 开启美国独立250周年庆典 <https://news.google.com/rss/articles/CBMi7AJBVV95cUxOWWtHbGhaMkgzQmVvNUlMUXVLb3JDTDhGU3k0Y2wzY2NNUW9tVmZkc0dFWDlZdVlUTzloX1FxdGpZZk5XM0xKUnN1aWRKck1FN0pfRjZNb2pQdU8yczRJSlpBNExxRXpxLUFNU3NfMTNVWGNPRVRDbFVOLVdUNmZDSDJwYTJkcnhhZFVEMThTNjgwWlJVMVJSNVpPX2ZGTm1JdWptNGp1VlJXWXl4bmNCZWFZVXB5UktiQ0xkMWcyVWtCc1NoQ2lqZzFQTVpjczRTSkFMRG82TW1GRjYwQUF5SDhvWTRxSmJfRWw4Y0RfUjFTaHNWbURIa09NYVNxWi03d09xWnVOWHE2MzhWcm1ZaU9QeGt5WTRnRnh2STJPUTRxSkNRejkyUmhZUkt5SkdENkFvcUY5Y0stVEtlWks1QkVESGZrTm5NTHZfU09iTVUybmNndUxBT25nY0JvV09jTHFDODJocjlUM1lY?oc=5>
 
 ### 2026-07-03 17:55  (6 条)
 
