@@ -1,11 +1,25 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-03 20:36**
-- 本轮扫到 5784 条, 新增 **1** 条
+- 最近更新: **2026-07-03 22:00**
+- 本轮扫到 5787 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮新发现 (3 条)
+
+### 黄牛掘金演唱会:三级代理囤票400万，单张最高溢价21万 | 界面 · 财经号
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907rpoo.html>
+
+### 特朗普：我是以色列历史上最好的美国总统，我在以色列的支持率高达99%，“犹太人不可能把票投给民主党”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-03 13:40
+- 链接: <https://news.google.com/rss/articles/CBMihAFBVV95cUxNemh0RkRDVDRnajhWNDZvRnJZc0JKaFE5TEdNZzlBSUw1YVoyU1oweHRPUFVHLUxvSEhESE9WbU14dDJ1N2xiU0s5RGhrR3BYdDRManNlekpVLTN1T2ZwVzE1Zm9zUDc3dTJoNy1vQjRFb0xxMDRMdGFtUk9rUm5sRzBrdGo?oc=5>
 
 ### “掌控”美联储，特朗普一直没放弃
 
@@ -13,12 +27,18 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-07-03 00:34
-- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxNRU1WeVg1WXlNNFp2OHhQbjUxNzJlNXVkZ0wxQlNWWTZSNE5kQjJLTGplUW1wTlVTUXdiU0E3cnZGZ0s5eVhJZ1hUQktEVFYtREZNTHB0ajdOcTlPZm5yUFlERlFERDI2SWVNdEpWOWc5blNEekZtQnFJbDFUamxkSlczUFIxWnFCb09saDVRR0ROekNKYVBWeVZzZ0ptRWRTNTlqVi1HcHFVMjVnenR5dTZvalVVd0ZKUVZhMXdlSnJUeFJkcGtaQWhsY0twbEk?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdTVMM1E1VVY0WDFaaUxfcmdabTA1a1VHNnJrT2VKVlcwRnA2bzltdU1ZekY0MGJDZnMzM3VwZ284dlF1VTVWa2NqR3JvTzREOGx0M21QNTBVbGhMWUFvZFIyTXRmYWVFYk1IZHd1Z3RLWUJ0S0c1a3R1Q29hWEJPQktYY245cUhWMEhqdWxsb2lzN1pjbUczeHgtRlR6X0hEZlRETjRrUlN6RTY0dUwycXNjS2V1MkttREVYam5CNUY3VUNqdjBsNUd1M3o2UUlh?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-03 22:00  (3 条)
+
+- **周杰伦** | 黄牛掘金演唱会:三级代理囤票400万，单张最高溢价21万 | 界面 · 财经号 <https://k.sina.com.cn/article_7857201856_1d45362c001907rpoo.html>
+- **特朗普** | 特朗普：我是以色列历史上最好的美国总统，我在以色列的支持率高达99%，“犹太人不可能把票投给民主党” <https://news.google.com/rss/articles/CBMihAFBVV95cUxNemh0RkRDVDRnajhWNDZvRnJZc0JKaFE5TEdNZzlBSUw1YVoyU1oweHRPUFVHLUxvSEhESE9WbU14dDJ1N2xiU0s5RGhrR3BYdDRManNlekpVLTN1T2ZwVzE1Zm9zUDc3dTJoNy1vQjRFb0xxMDRMdGFtUk9rUm5sRzBrdGo?oc=5>
+- **特朗普** | “掌控”美联储，特朗普一直没放弃 <https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdTVMM1E1VVY0WDFaaUxfcmdabTA1a1VHNnJrT2VKVlcwRnA2bzltdU1ZekY0MGJDZnMzM3VwZ284dlF1VTVWa2NqR3JvTzREOGx0M21QNTBVbGhMWUFvZFIyTXRmYWVFYk1IZHd1Z3RLWUJ0S0c1a3R1Q29hWEJPQktYY245cUhWMEhqdWxsb2lzN1pjbUczeHgtRlR6X0hEZlRETjRrUlN6RTY0dUwycXNjS2V1MkttREVYam5CNUY3VUNqdjBsNUd1M3o2UUlh?oc=5>
 
 ### 2026-07-03 20:36  (1 条)
 
