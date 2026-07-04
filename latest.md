@@ -1,32 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-04 21:52**
-- 本轮扫到 5858 条, 新增 **2** 条
+- 最近更新: **2026-07-04 22:52**
+- 本轮扫到 5861 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (3 条)
 
-### 特朗普高调主导美国建国250周年庆典 国庆活动政治化引争议
+### 泽连斯基与特朗普通话 商定在北约峰会期间会谈
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-07-04 21:43
-- 链接: <https://news.google.com/rss/articles/CBMikANBVV95cUxNczVBek91d2RkQ2MwLVUxaW9fdmp4SDExTG1LYnc0SXJzM1lEX0pKSnhEcWQ5Sktob2tjdWk5d3pMRE0wcF9aZHg2V3luZkdlVmdsNmlyT0FyejV6bHJGeERjY1FQbnAySGtNS1M1ZWVRYjdrY3pvanVxRlRQQjV0dGpBV0VMc0RTUVdFOC1EZ0lSemFvYS1STFZ6V0Q2YkZabUN4S1h4cVFPNEVQRTRwM1RYSjZNS2laUFNkNWg4bmpTX1R0Uk10ekJ6cllFeFlBNEstOFFwU2NESmg1eElCVkNzU2N5a2gtTTN2WWxWejEzZ19rN2tRMDlvcThLSlFqbk9QdGQyck4yZUF5OFczWGFENzBQb3g4V1hlMEQwZndUbTBLSmhQbVpnVG9IM3VrLXpUVFZ6ai16ZTVjcU5vSDRXc2J0U2szMmpWWG5fdkpDTFRLYWRPcGh1bGgtdThWemdXVHpXenhST0s0V1dpeXVCcV94SElrS0ZkTlJqdU56SEFja1VIT29TSlJ4UDBG?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-07-04 22:40
+- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxPZmlzRWw2c21Zb2ZXS2NaUEJEalhGalZfRHYtakZFaUI5VXFNMW1OSFVOcXdFci1OSjlLNkF4NU00eWI5T25MVV9xUDBacHVaQTJjeHlXVVVRQXhpb1hTQWJvTU9lZ0d5WnUwdWs0WllKRFNZbkJqaEhMbVhfaGQ1OHhPb3hBbkxXRG5RUGZXMi1FNmtzeXhrTQ?oc=5>
 
-### Where Can I Invest My Kid's 'Trump Account' Money? The Treasury Department Just Answered That Question.
+### 特朗普再谈马斯克：他还是喜欢我
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-04 00:04
+- 链接: <https://news.google.com/rss/articles/CBMizgFBVV95cUxNN21QalU5MzM5U3FOSFZjWU9DMy1OT1l0bXN2Q3VZcWl1aVloT1VWOGhQNEc4ZU0zMl80UUJaY1JiQlpqYUtCcmUwM2U3OXJZblRqU1ZoQzc3ZjA5cENYRy1MLWNsVERxOXlRQUpuRW95SGI0bko5SEhCWWtvaFdYR19WNm9DaXlrNF9mYkRMX3lyYnhhay1sd0pVcTMxaEpCWVpGY25hTU4xT3BZclJ2NkM5Sm1yWlpEbkU1TWhVUGhweEhRckJkTlMyWGxRQQ?oc=5>
+
+### 特朗普账户（Trump Accounts）正式上线。
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-07-04 18:04
-- 链接: <https://news.google.com/rss/articles/CBMimgFBVV95cUxNSHlwVUFCR3J3Qnh6STBzdW9IbXI3Si1hei11SFV0cE9JMko5eXh1anZ1ZDRGRnpWbHZqQ3FieGgtbnI1b0xveEZyUEk1MEYyRnhHS1gzd21OVE9kUHUwVnFfYjNPN3BVcTFhOGY2czVpMk9yTVZLc05DcWdKRXFKcURwbXl0YVkyMF92akE4QjhlQUhMNnVRUFFn?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-07-04 16:11
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxOWV81ckYwRmhpaDBmX1A1YmRVQnN4WFgxY014ekxoZ05MOUNWSlZ0a25Zd1otTWlyem5tVXhTRFk3cFBOS2hlaEh3VXlBTlRnb2xsdmZ2NDJzLUNOUHhIaEhIVkNoNi1wZG90OC1tb0RJUk05YnYwRGVER1oweDlUOWtmdF9zSEE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-04 22:52  (3 条)
+
+- **特朗普** | 泽连斯基与特朗普通话 商定在北约峰会期间会谈 <https://news.google.com/rss/articles/CBMimAFBVV95cUxPZmlzRWw2c21Zb2ZXS2NaUEJEalhGalZfRHYtakZFaUI5VXFNMW1OSFVOcXdFci1OSjlLNkF4NU00eWI5T25MVV9xUDBacHVaQTJjeHlXVVVRQXhpb1hTQWJvTU9lZ0d5WnUwdWs0WllKRFNZbkJqaEhMbVhfaGQ1OHhPb3hBbkxXRG5RUGZXMi1FNmtzeXhrTQ?oc=5>
+- **特朗普** | 特朗普再谈马斯克：他还是喜欢我 <https://news.google.com/rss/articles/CBMizgFBVV95cUxNN21QalU5MzM5U3FOSFZjWU9DMy1OT1l0bXN2Q3VZcWl1aVloT1VWOGhQNEc4ZU0zMl80UUJaY1JiQlpqYUtCcmUwM2U3OXJZblRqU1ZoQzc3ZjA5cENYRy1MLWNsVERxOXlRQUpuRW95SGI0bko5SEhCWWtvaFdYR19WNm9DaXlrNF9mYkRMX3lyYnhhay1sd0pVcTMxaEpCWVpGY25hTU4xT3BZclJ2NkM5Sm1yWlpEbkU1TWhVUGhweEhRckJkTlMyWGxRQQ?oc=5>
+- **Trump** | 特朗普账户（Trump Accounts）正式上线。 <https://news.google.com/rss/articles/CBMihwFBVV95cUxOWV81ckYwRmhpaDBmX1A1YmRVQnN4WFgxY014ekxoZ05MOUNWSlZ0a25Zd1otTWlyem5tVXhTRFk3cFBOS2hlaEh3VXlBTlRnb2xsdmZ2NDJzLUNOUHhIaEhIVkNoNi1wZG90OC1tb0RJUk05YnYwRGVER1oweDlUOWtmdF9zSEE?oc=5>
 
 ### 2026-07-04 21:52  (2 条)
 
