@@ -1,38 +1,91 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-04 12:02**
-- 本轮扫到 5836 条, 新增 **3** 条
+- 最近更新: **2026-07-04 14:07**
+- 本轮扫到 5844 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (8 条)
 
-### 周杰伦嘉年华演唱会厦门站门票抢票app哪个最好抢票app谁更胜一筹
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857141524_1d452771401903yy1m.html>
-
-### 特朗普在“总统山”发表国庆演说，吹嘘美国“战绩”：我们一天内就击败了委内瑞拉，狠狠打击了伊朗，我们很善良
+### 特朗普写小纸条祝贺马斯克成为万亿富翁：虽有过小矛盾 但他还是喜欢我
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-04 10:04
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE5rS1RscC13SG1BSWhhVnJZOVNVX0hNcld6dUNQNW1Bc1Uydk9jUGV6Q3oxSm9PQkxPQmZRazZsRDhTUkNuUVNrNl90bVd3bzNkRzl5c0ttbE9FVWdyNC1FYzVxYkViSzg1eDlwZmZXXzBMVmxWbGc?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-07-04 14:05
+- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxQMXVNakRYZHNqd1ZpZUh5a2FncEdUUHd4Z0c2bzlUbXp3YTZUQjgwU3ctVUJmYXdlcEI2OHQ5WHNuYkQwUFNOOUdFZlNZeU9yZmpWN2hoVlY5ZTdxR0VWeFN0QTJqUmRVMTY3dmZlWEdVWkI4UXNBWVJaMHJ1bHMxNE9hejZGZzFMOTRDRks3aw?oc=5>
 
-### 美国总统唐纳德·特朗普曾称加密货币是“骗局”。如今，这却成了他的主要赚钱工具。
+### 美国独立250周年 特朗普警告国家面临共产主义威胁
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-07-04 13:38
+- 链接: <https://news.google.com/rss/articles/CBMi4AJBVV95cUxQVXhPZ3RzdHJ3emNzdVFFMFVLTlBSRG1TQjFQZGxtZ0ktN2hjWWdLMXdHVkpxdTg2NHllYnRZY085WW9OQml5bFd3TTZFdFZBSm42Mk9NcEtud1g2S2xiMlpVYlU0aEFXaWQxeGQ3eDhlRE1aMHBtWjZtNFdXZkJHUC1OV0F3ZlpTY2xFd3FJT1F3aGV0akpBbzRyOTYzZy1vaGJSRzZfUlY3OGlSV0FUTXlaQzJOcWMyRXNYR2hkU0x4QmFBaF9RNDBQeDVRMDhOQmN6X2NCTGdrbGVJRUw5MEhqUXVwdGlJMzJxZDEwZnJGcjdQbHFJTjhrMEYzb2lsNUk5bGR0REpEUldsUnNWX0o5OWRXb0o4VXlaTnA4OFRMWkZ1RWxjVHh4REtzd2RIcEZtYmxLalhYc1BaSTl6MzY2UTdNUmFmVzFlUVlPaU9yV0NvdzFUV083WFdFY2VU?oc=5>
+
+### 美国250周年庆典变特朗普私人派对？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-07-04 11:29
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1KdnFSdE9ycUhmLWc3alNYX1d0Q3ZWLU8zRUhGZUx1RENqa3c5YkJxUktPYjc0M3dsZlBpeWh3U2lJRFF6MEZZZ05pVFc?oc=5>
+
+### 独立日快乐！美国人庆祝建国250周年
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-07-04 13:28
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NeklTdzdoVm1ZZElZN0FSWThvbXNRM2llaXRyQXlVNVdJcGRSMS1KNTZrQy1lekVCbVJEQkgxRnVjNmlfUlJmYWhCTGlRTl8waDM0?oc=5>
+
+### 特朗普吹嘘美国“战绩”，称“我们很善良”“给伊朗一周时间办丧事”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-07-04 11:19
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE52eUFzQlR2U3JjWTZiel9yM1ktM1RRWUg4M0k4aGg4eDFZUjlLYk5BdUh0dms0ajdGLW1fMV9CZXVHM1Z1V2VjaGdGc0U?oc=5>
+
+### 纽约时报：约有988,905 名投资者因TRUMP 代币亏损，累计亏损额达38.1 亿美元| 吴说区块链发布于币安广场
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-07-04 10:47
-- 链接: <https://news.google.com/rss/articles/CBMivgFBVV95cUxPWEhDRmlYeDdxQ0c2OXFsUmhqbXFNRWt3MU1RdjhTTjJ0XzVNRFVRNHRsUzlmMUEwVEl0SF84ZWg1WGFjeXV6RnRJUE5NOUc1REowd2JxNEhRZHZFQ1ZPLXBMT3dfTTFha1JROEdaMjZidlVMSF9jU2RCSVFZZXU4Vk94elhwY2NMNHNaM0lGakxZd1JNN2wzNTdDWkw1MmpPQzI2M1pLVmUwcFlXeGlPMElMVDFaOEZURV93RjJB?oc=5>
+- 场馆: Binance
+- 时间: 2026-07-04 11:08
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE0ybTZPZlJ4OERKZ3BSME90Yzhfb0ZyV1RLdDVRY2FsYmZrYzZGYWdkLVRWdVJ4NXVNdGFKSnhDSkt5U2NfS2c5aGhUel9tVmQwZjdJUGdHQXFvQ1JOYTM2TlZvOGNXMHo0?oc=5>
+
+### 美光捐2.5亿给特朗普|micron|trump账户_新浪新闻
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-07-01 16:46
+- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTE42VHUzQ2xuVXJQSWtFdkJpTmRtNU00ZG9GSjhvckg0MjVrT0U0S2xpdmphWTdaYTZ6Qm1NRzZTZVhvSWRaMU5XRzB6RkhWaGo2RHd1am1JQkV5U2JrZ2hxUzVSUQ?oc=5>
+
+### 美国最高法6-3裁决：在美出生即公民 阻止了Trump推翻“出生公民权”的企图
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-06-30 15:41
+- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTE5CSE9JR3p3VjVBalE0Xzd5MlFaU3Mwd29sSmduTkZlaUxuV1FxRU9UVkwxT25YdW5lbTdBTEE3cW0yRUVaUzRGTU5Pdm1wcW5tcEdVa0tGT2t6RkNuYk5nSHBxOA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-04 14:07  (8 条)
+
+- **特朗普** | 特朗普写小纸条祝贺马斯克成为万亿富翁：虽有过小矛盾 但他还是喜欢我 <https://news.google.com/rss/articles/CBMijwFBVV95cUxQMXVNakRYZHNqd1ZpZUh5a2FncEdUUHd4Z0c2bzlUbXp3YTZUQjgwU3ctVUJmYXdlcEI2OHQ5WHNuYkQwUFNOOUdFZlNZeU9yZmpWN2hoVlY5ZTdxR0VWeFN0QTJqUmRVMTY3dmZlWEdVWkI4UXNBWVJaMHJ1bHMxNE9hejZGZzFMOTRDRks3aw?oc=5>
+- **特朗普** | 美国独立250周年 特朗普警告国家面临共产主义威胁 <https://news.google.com/rss/articles/CBMi4AJBVV95cUxQVXhPZ3RzdHJ3emNzdVFFMFVLTlBSRG1TQjFQZGxtZ0ktN2hjWWdLMXdHVkpxdTg2NHllYnRZY085WW9OQml5bFd3TTZFdFZBSm42Mk9NcEtud1g2S2xiMlpVYlU0aEFXaWQxeGQ3eDhlRE1aMHBtWjZtNFdXZkJHUC1OV0F3ZlpTY2xFd3FJT1F3aGV0akpBbzRyOTYzZy1vaGJSRzZfUlY3OGlSV0FUTXlaQzJOcWMyRXNYR2hkU0x4QmFBaF9RNDBQeDVRMDhOQmN6X2NCTGdrbGVJRUw5MEhqUXVwdGlJMzJxZDEwZnJGcjdQbHFJTjhrMEYzb2lsNUk5bGR0REpEUldsUnNWX0o5OWRXb0o4VXlaTnA4OFRMWkZ1RWxjVHh4REtzd2RIcEZtYmxLalhYc1BaSTl6MzY2UTdNUmFmVzFlUVlPaU9yV0NvdzFUV083WFdFY2VU?oc=5>
+- **特朗普** | 美国250周年庆典变特朗普私人派对？ <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1KdnFSdE9ycUhmLWc3alNYX1d0Q3ZWLU8zRUhGZUx1RENqa3c5YkJxUktPYjc0M3dsZlBpeWh3U2lJRFF6MEZZZ05pVFc?oc=5>
+- **特朗普** | 独立日快乐！美国人庆祝建国250周年 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NeklTdzdoVm1ZZElZN0FSWThvbXNRM2llaXRyQXlVNVdJcGRSMS1KNTZrQy1lekVCbVJEQkgxRnVjNmlfUlJmYWhCTGlRTl8waDM0?oc=5>
+- **特朗普** | 特朗普吹嘘美国“战绩”，称“我们很善良”“给伊朗一周时间办丧事” <https://news.google.com/rss/articles/CBMiTEFVX3lxTE52eUFzQlR2U3JjWTZiel9yM1ktM1RRWUg4M0k4aGg4eDFZUjlLYk5BdUh0dms0ajdGLW1fMV9CZXVHM1Z1V2VjaGdGc0U?oc=5>
+- **Trump** | 纽约时报：约有988,905 名投资者因TRUMP 代币亏损，累计亏损额达38.1 亿美元| 吴说区块链发布于币安广场 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE0ybTZPZlJ4OERKZ3BSME90Yzhfb0ZyV1RLdDVRY2FsYmZrYzZGYWdkLVRWdVJ4NXVNdGFKSnhDSkt5U2NfS2c5aGhUel9tVmQwZjdJUGdHQXFvQ1JOYTM2TlZvOGNXMHo0?oc=5>
+- **Trump** | 美光捐2.5亿给特朗普|micron|trump账户_新浪新闻 <https://news.google.com/rss/articles/CBMiY0FVX3lxTE42VHUzQ2xuVXJQSWtFdkJpTmRtNU00ZG9GSjhvckg0MjVrT0U0S2xpdmphWTdaYTZ6Qm1NRzZTZVhvSWRaMU5XRzB6RkhWaGo2RHd1am1JQkV5U2JrZ2hxUzVSUQ?oc=5>
+- **Trump** | 美国最高法6-3裁决：在美出生即公民 阻止了Trump推翻“出生公民权”的企图 <https://news.google.com/rss/articles/CBMiY0FVX3lxTE5CSE9JR3p3VjVBalE0Xzd5MlFaU3Mwd29sSmduTkZlaUxuV1FxRU9UVkwxT25YdW5lbTdBTEE3cW0yRUVaUzRGTU5Pdm1wcW5tcEdVa0tGT2t6RkNuYk5nSHBxOA?oc=5>
 
 ### 2026-07-04 12:02  (3 条)
 
