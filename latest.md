@@ -1,38 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-04 15:39**
-- 本轮扫到 5847 条, 新增 **3** 条
+- 最近更新: **2026-07-04 16:57**
+- 本轮扫到 5852 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (5 条)
 
-### 王俊凯2026巡演会邀请哪些帮唱嘉宾？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801w85u.html>
-
-### 特朗普赦免11人，还“点”了拜登……
+### 美国总统特朗普周五签署11份特赦令
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-04 07:52
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE1NREdaMFd5WUZMbVJ2X05YTEhhTWlmOGJfc0V1VF9yWXI5ellQcEkzWnRvbTc4ZnFrZ3JOWkVPdHFrdFJ1anJtMDh3c2ZRYnV5NHFCNGFDbHJtOUFuSWM0Uzk2Qlg0Y3I1RFQ5bnBsc25lQllZMXc?oc=5>
+- 时间: 2026-07-04 15:49
+- 链接: <https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeXJvUm40QUx5MC1DSTJrZVZxRERHUFIzeW45UVdrV292UXEwSnBPMXdLYk5GWEdqQ0J5b3lrTjMxbV9wc292eFpXaHlOb1Q1aDJpY3R0OTdaa0QzNmlzOWZkeUUzQzlfdTYzTlpuQUFYcVZBRkRuRHlfeEZDaFhSTlY4bEZCaXQ3OGRvMVVWZkJhMEtTdXMxaHJ2UWFIY2RDOUNhNUxUX3hVTGh4enVqeTJaaGI1S0YteE10dkV0UGI?oc=5>
 
-### 吴说每日精选加密新闻 + 吴说每周精选：新闻 Top10 与热门文章
+### 特朗普账户（Trump Accounts）正式上线。
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-04 16:11
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5QZjV4aWNaMUF6NjBYM3lheWZoQjBRbEtkcHlLRHB2eF8teXNRUjUzanNFcW14dVdObGxvNUJEZmVVM2RwaGF0VDR0YWl2UnJoUFVVSXlaVFhNTEhpNzctME5JdENSZUtVS0xXakh6LTN2ckI3QXlNMw?oc=5>
+
+### 美国总统特朗普周五签署11份特赦令
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-04 15:42
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxNRkZocTUybm82MDZNYnRtM1IxM21mUVZiWmNnNDNXd1BsUThOLWdGcGFybjhnUTNnOFdSVGFka0NDWWNBV011Ry05YVlETGhYNF9lRFZpYk1rT1c5eWkydFotNWE0aE4tVFdEbmhSY01TV1IyZlEtbHRVdlZ6dHpiRG1zbDhJMUk?oc=5>
+
+### 'Trump Accounts' Are Now Live. Here's What to Know. -- Update
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 吴说
-- 时间: 2026-07-04 14:25
-- 链接: <https://news.google.com/rss/articles/CBMikwFBVV95cUxOeHhtMVF3VWZoSXptYU5sTHdHRG9HekFrWEtkNzVENDR4SmF2bUJvQlFtaUYxR1lsOWVUN1R0b2Q4dVN6S05MSmVpTE5MSVdTdGd3M0Q2S19MWUVock9GbHNPbjR5NzFDTkE5dFk2YTViTm9COUpfV0pjc19vNnZJV3lseXcxTjBfVnRObDlqcHVFaGs?oc=5>
+- 场馆: 富途牛牛
+- 时间: 2026-07-04 16:32
+- 链接: <https://news.google.com/rss/articles/CBMijgFBVV95cUxPVzYzd2ZlWl9DZmVjVVdReDE3SDZ2YlB0ZUZMNTJWSl9RdExOMXRzU1Jnc0JjOU85OGpDbkZuZFpiLUpNRTBPU2E4NnIzblFlVFBvMWZ0dllpVTY1cDVlNTZSVFVGYVdCVG43ay1RaXZnTG1ubzl5TDVJbnZ5VUp0RVFOaGVVT1FONzk1cFpn?oc=5>
+
+### Nansen数据显示，特朗普加密代币持有者亏损38亿美元
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: CoinDesk
+- 时间: 2026-07-04 00:30
+- 链接: <https://news.google.com/rss/articles/CBMivgFBVV95cUxOQmd1TEpLRzJKdDhmMWpCRHdNei1RUl9xMmh3czZUWk16OThJZTlBN1NZN2k4Y0xpUWdiUzRaWGpoYjBpbzh5NlQtVmdhOGF6SEUwM1h6OFE1cHhTSHVNMVppRjFxbU1SNlJnMVlOalZYQk1GNnd5VUkyUldfeUF1WWZKZEtVWUZQY2NZS195dE5PQnF2UHZtY04xQ096LWVuendRaC1NNTlicnA1bzd6UU9QamxzOTBCVTlvLWN3?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-04 16:57  (5 条)
+
+- **特朗普** | 美国总统特朗普周五签署11份特赦令 <https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeXJvUm40QUx5MC1DSTJrZVZxRERHUFIzeW45UVdrV292UXEwSnBPMXdLYk5GWEdqQ0J5b3lrTjMxbV9wc292eFpXaHlOb1Q1aDJpY3R0OTdaa0QzNmlzOWZkeUUzQzlfdTYzTlpuQUFYcVZBRkRuRHlfeEZDaFhSTlY4bEZCaXQ3OGRvMVVWZkJhMEtTdXMxaHJ2UWFIY2RDOUNhNUxUX3hVTGh4enVqeTJaaGI1S0YteE10dkV0UGI?oc=5>
+- **特朗普** | 特朗普账户（Trump Accounts）正式上线。 <https://news.google.com/rss/articles/CBMieEFVX3lxTE5QZjV4aWNaMUF6NjBYM3lheWZoQjBRbEtkcHlLRHB2eF8teXNRUjUzanNFcW14dVdObGxvNUJEZmVVM2RwaGF0VDR0YWl2UnJoUFVVSXlaVFhNTEhpNzctME5JdENSZUtVS0xXakh6LTN2ckI3QXlNMw?oc=5>
+- **特朗普** | 美国总统特朗普周五签署11份特赦令 <https://news.google.com/rss/articles/CBMihwFBVV95cUxNRkZocTUybm82MDZNYnRtM1IxM21mUVZiWmNnNDNXd1BsUThOLWdGcGFybjhnUTNnOFdSVGFka0NDWWNBV011Ry05YVlETGhYNF9lRFZpYk1rT1c5eWkydFotNWE0aE4tVFdEbmhSY01TV1IyZlEtbHRVdlZ6dHpiRG1zbDhJMUk?oc=5>
+- **Trump** | 'Trump Accounts' Are Now Live. Here's What to Know. -- Update <https://news.google.com/rss/articles/CBMijgFBVV95cUxPVzYzd2ZlWl9DZmVjVVdReDE3SDZ2YlB0ZUZMNTJWSl9RdExOMXRzU1Jnc0JjOU85OGpDbkZuZFpiLUpNRTBPU2E4NnIzblFlVFBvMWZ0dllpVTY1cDVlNTZSVFVGYVdCVG43ay1RaXZnTG1ubzl5TDVJbnZ5VUp0RVFOaGVVT1FONzk1cFpn?oc=5>
+- **Trump** | Nansen数据显示，特朗普加密代币持有者亏损38亿美元 <https://news.google.com/rss/articles/CBMivgFBVV95cUxOQmd1TEpLRzJKdDhmMWpCRHdNei1RUl9xMmh3czZUWk16OThJZTlBN1NZN2k4Y0xpUWdiUzRaWGpoYjBpbzh5NlQtVmdhOGF6SEUwM1h6OFE1cHhTSHVNMVppRjFxbU1SNlJnMVlOalZYQk1GNnd5VUkyUldfeUF1WWZKZEtVWUZQY2NZS195dE5PQnF2UHZtY04xQ096LWVuendRaC1NNTlicnA1bzd6UU9QamxzOTBCVTlvLWN3?oc=5>
 
 ### 2026-07-04 15:39  (3 条)
 
