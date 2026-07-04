@@ -1,78 +1,166 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-04 02:22**
-- 本轮扫到 5799 条, 新增 **8** 条
+- 最近更新: **2026-07-04 05:57**
+- 本轮扫到 5818 条, 新增 **19** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (19 条)
 
-### 周杰伦海口演唱会内场票价格暴涨，每张8000-10000元引发争议！_门票_买家_黄牛
+### 王一博原声防晒短片发布，硬核防晒适配户外活动
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923973_m1d5ae1905033021u3a.html>
+
+### 27岁歌手蔡徐坤签售会变身面试现场，为什么粉丝能拿到“专属Offer”？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801aw08.html>
+
+### 27岁歌手蔡徐坤签售会遭粉丝歌词接龙调戏，为何一句“脏话不雅观”引爆全网？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801avyc.html>
+
+### 17岁演员艾米人生首场演唱会竟偶遇杨迪，开局即顶配是偶然还是营销？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907rxpe.html>
+- 链接: <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801avxe.html>
 
-### 特朗普总统参加罗斯福总统图书馆揭幕仪式，庆祝美国建国250周年
+### 双J狂喜，林俊杰演唱会嘉宾周杰伦，合唱可惜没如果+说好不哭
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-07-04 00:08
-- 链接: <https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRDFKSnNMbEVyd1liVURiYjNuWFZiNkhjTnRfVzJsN3ZaeDFqTHhmS3JOYnpHTDBHdnBza2prOGRxaS1DZ0VzZTZFemlVMlNDSXEtTDM2NU8tMkkzblBtTElOSTlpNlFvZlkxNHc2Mzl4OWsyV1ZnbGNoRC1RdlJUalVnRDZyNGxCN2VVVVA3QzRkakZoUzNoOXVLY2stSXN3ZkUzUEJJTzZadmNaZGtCZjJoNmxlSWc0WUFDQ2dlckw1Y1Q4M1NTZdIBywFBVV95cUxNR2wtWTZLckNSdEhFbTJLMDUxVFdQYWNrNF8zYVUxcEJ1TVc3Q0swb1I5X3NkT3IzRlkyc2RPWk11bWZKUXZzYTNMMEp3a3o4N2ZEajhzOXFHbFFBZGdWSUtEZ1ZLdG0xRnhyQWthQzhscmtjcjJLQjlfZWxyV2RWOG4xWmZRSFVYQzRqTE5xVnFWT3FmbWhUVnRMZURtanRlVGFHVDFLMHZGeU16dmlxS0xDTFdfWlNiVGJPcm16cEFjYXZDVWFJbzFodw?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907sg5s.html>
 
-### 搞什么庆典，美国年轻人对特朗普只有一句话-观察者网
+### 周杰伦演唱会周父罕到场,时隔23年澄清父亲家暴传闻:从来没打人
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-07-04 00:35
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE50ZDBxODR5MFdDLW9kMG52SG1wVnhQNnU4MXNZN1JST0ZEOFlNS2FQYXVDTlUtNnNxdDJueUJBQVBXWUQ0LU5aNUpwWlZ2UjAyZ1VrbDBER3kwXzhIRGVIdWRJdmhCWllXbUE?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907sh2i.html>
 
-### 特朗普再谈马斯克：他还是喜欢我
+### 中餐厅包场周杰伦演唱会?黄晓明一句话让昆凌封神,头号迷弟王俊凯却缺席了!
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907si1a.html>
+
+### 周杰伦2026巡演计划
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907slma.html>
+
+### 最新歌手排名前十名的具体名单是什么？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801vvju.html>
+
+### 17岁演员艾米首场演唱会即周杰伦鸟巢，为何被赞“青春电影开场”？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801avry.html>
+
+### 黄牛掘金演唱会：三级代理囤票400万，单张最高溢价21万
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907s57q.html>
+
+### 周杰伦谈当父亲的感受：不听我的话，至少要听妈妈的话|听妈妈的话|听我|周杰伦|新专辑|歌曲|演唱会
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907s4la.html>
+
+### 美国建国250周年庆典前夕，现场对话美国年轻人：特朗普，“人民永远比你强大！”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-04 00:04
-- 链接: <https://news.google.com/rss/articles/CBMizgFBVV95cUxPNE0wVVpMQUo1c2F6M05NanFKMEZXY1NZQzlwWDdXNDBYaUlWOG5TaVlub05PT2pnTVFLdk5GNmpkdDF5dmhINF8xRXJnZWVvWmpIUi05ZFdNeTB3aVFnT1ZfOFhLeERETVhBcElOaUJzUWFWZEIyX3ZJY0drdGxYUDNtUkxiY1VnSGtYeWVvZmhJU1pOSWhkRk9Eb1c1ZmhBMDRkT2o4bWtpWkEwbnV1djNqT21ObTVmSGxjMVhQSGpDRTQ1QXRBbVp1ZnJhQQ?oc=5>
+- 时间: 2026-07-04 05:25
+- 链接: <https://news.google.com/rss/articles/CBMirwFBVV95cUxORGVZajNiR3RPVEZxWWNtMkJmeS1Scjk3YmNCVHcxU0hLbFNOQ21QdWNNT2RYU0l6NzFWZEszbjRJdlkwWGJnTGFVMW1hWERhSTk3Q2FlbmJiQk1vYS1ldVJCM2xzUXRSNVI5dE5vLWMtMm0wVFp4eG9vTEpnbmV5OWFwY0FTVHdoTzZjZWtGMEhYS3piaGRTU0RfM1NnVlBEbWlfdHpiTEh3V0FtalEw?oc=5>
 
-### 特朗普称未与马斯克交谈但曾致贺，提及电动汽车强制令
+### 特朗普发邀请：奥巴马、拜登，来白宫看场球
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察
+- 时间: 2026-07-04 03:32
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBXX2MxdGduRWVRQWNlMWZ3NkszalA5ZTNwbThGb2U2YjNpS3FvdGhEejFybGFZUGtEekhWSExYNUtKVXlqdVRWZm84WHo0U1NFRHQyeDZyQmJRSDZWaXB1UE1QVXNfSVRWVHc?oc=5>
+
+### 特朗普称未与马斯克交谈，曾祝贺其成就
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪网
-- 时间: 2026-07-04 01:20
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1PenJ0YjNnNW9XaHc3ZUlTV2U1UzQ4N3pwdE1iNHMyMDM0ei1ta3FSXzFlSjQxT3d5MU9LRXJhZnhRLWdtV0pQVHJLbHZ3TVA1Rmt6dWlHcmNsbnBMQkZ3a1I1bWdsVDRLeURkVXk3b1VMelk?oc=5>
+- 时间: 2026-07-04 05:42
+- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxPMm5vcC1ubGRSOEc4el9fNE1hUU5zNDlPMnhWbGdJM3prbkJXM21vOTE1MXFpM3pIT0xTUUVfd0FqQkRzZWNJbUdpLVhHN3ZiRUg3OVpIWHROZmVqSjM0ZXdQTkZhYlktUDdFNmVVbzZEVE9jU01LcFhCZTdqaG9OS0JOUQ?oc=5>
 
-### 去年狂赚22亿，特朗普：我不拿年薪，当总统有“更大目标”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-03 23:49
-- 链接: <https://news.google.com/rss/articles/CBMilwJBVV95cUxNZFhGR05GUGFPSHdQeXl2VVp3NHAyM1lwQzFZdFhjeEl3OXJwcWZidlFGSjZqMTNmX2VNeGg1Rm9lN2hqc29Ta0YtQk5uOEY3S2o4Nmd5QUJOOVpsUzQ4Y2I4dW1zd3pEQTZLX1NYdk9XakxFMG1VemdXVm9ERXFqSEd5OHRmMzk0Tl9LekVLV29XYU56MnRFMlNISHBQdXh0NlVFUmZUV3FldWE0cmhwWkN3dnF0YXJWeDdKZHV1VWk5bDM1dHZIS0QyU3dZZVMwb01nbkI5WDQ4ZkFWSzZLRDNZMzVrcUhvR1dTdTREYXhaaWRsSmwweHpiMDVva3FpdWdhVGFyeVRxX2tkQzNKaWNMcTAtOVU?oc=5>
-
-### “掌控”美联储，特朗普一直没放弃
+### 外媒：特朗普赦免11人，其中9人曾被判违反美国《清洁空气法》
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-03 00:34
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVXllMTdBcHBDeEp2R0g2ZGZ3QU9uaTYxa2Zydm9uX212ZGsxWExadDhCM2ZFUExNRjRzbEtsRXRNOG81RlgtOFMtQ0lNZVYtdjNXM3FjSjY3WDFQZGNGZnZCb2Uyb1FrQURNZkdzWEo5UXZPQXRmTGozX1JQOE9kcEN5M0c4UkpBSzBSaDN4ejJpSHdGZDE0bUdCektWRGN6LURjYlJJcEpQblhjQVhucnFjWUdmYW55TkdiVXJWN3dOZ2tqZXhPYm95ckpVdlpX?oc=5>
+- 场馆: 环球网
+- 时间: 2026-07-03 12:52
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE81aVpVWVM5MDNYUWJXc0twV0dORmFtQWZoRDlZRDJMX2NQbmRNWkxyVWwzLWtfQl9zTFRtUUtHWlRtTEZJSVNmeHlvU1loUHJleHhVdWxTaXQ?oc=5>
 
-### 特朗普谈非农“爆冷”：沃什必须做他该干的事
+### 美官员：特朗普希望结束俄乌战争的“无谓杀戮”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-03 01:57
-- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE8zX3FYMkQ5Qkp6eUthSWhJNHY1M0VmVUcwSEVGTmh4LUVjZmVpWUo1eGN2QmVNWHhYc2pxcTJWU1ZFUjRMUzMtb3JNczN3cVAz?oc=5>
+- 场馆: 联合早报
+- 时间: 2026-07-02 23:23
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5tb3AwUEhTNWVwZGFOY255cXRURDQtOC1CM3QzM2lUWG5hdHRGUXExR0lwMUY5NGRKY2NOREw2QldXdGZjTF9FOHMwMG0xRDcwLXFkc29lLVRZM2tWOUdjbVJGLTlJZw?oc=5>
+
+### 特朗普也狂买黄金？深读927页财务报告：他买了什么、卖了什么
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 搜狐网
+- 时间: 2026-07-04 01:56
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1jQ3p1MDdvYm5tR3p1YUg2Mm9rb3ZPUUtIWERSTHVkTEVNaUJ5V3FpRkFxWG9lb0diQmM4aGVJUHdIOUxzNFFnZTAtZ1cwbVN5aTJRX0ZwS1IydlhINkxoSThROHViazk5eE9Cb1h5cUE0SEluVkRJck9PVUd1ZTg?oc=5>
+
+### Trump宣布：为庆祝建国两百五十周年，给白宫再献上一份金色礼物
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-06-30 00:45
+- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTFBsMUJMOERiN0M0QVlpVHZrM1FKZ3htOHhCYVpJNEMzZkpEbmN3XzJyaXhXbExrc1B2ci10Nkt6M3BXQWZWTGN3SURtXzhqMjRDS1liRVE5SllrdUV5aDB2dmRkbw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-04 05:57  (19 条)
+
+- **王一博** | 王一博原声防晒短片发布，硬核防晒适配户外活动 <https://k.sina.com.cn/article_7879923973_m1d5ae1905033021u3a.html>
+- **蔡徐坤** | 27岁歌手蔡徐坤签售会变身面试现场，为什么粉丝能拿到“专属Offer”？ <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801aw08.html>
+- **蔡徐坤** | 27岁歌手蔡徐坤签售会遭粉丝歌词接龙调戏，为何一句“脏话不雅观”引爆全网？ <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801avyc.html>
+- **周杰伦** | 17岁演员艾米人生首场演唱会竟偶遇杨迪，开局即顶配是偶然还是营销？ <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801avxe.html>
+- **周杰伦** | 双J狂喜，林俊杰演唱会嘉宾周杰伦，合唱可惜没如果+说好不哭 <https://k.sina.com.cn/article_7857201856_1d45362c001907sg5s.html>
+- **周杰伦** | 周杰伦演唱会周父罕到场,时隔23年澄清父亲家暴传闻:从来没打人 <https://k.sina.com.cn/article_7857201856_1d45362c001907sh2i.html>
+- **周杰伦** | 中餐厅包场周杰伦演唱会?黄晓明一句话让昆凌封神,头号迷弟王俊凯却缺席了! <https://k.sina.com.cn/article_7857201856_1d45362c001907si1a.html>
+- **周杰伦** | 周杰伦2026巡演计划 <https://k.sina.com.cn/article_7857201856_1d45362c001907slma.html>
+- **周杰伦** | 最新歌手排名前十名的具体名单是什么？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801vvju.html>
+- **周杰伦** | 17岁演员艾米首场演唱会即周杰伦鸟巢，为何被赞“青春电影开场”？ <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801avry.html>
+- **周杰伦** | 黄牛掘金演唱会：三级代理囤票400万，单张最高溢价21万 <https://k.sina.com.cn/article_7857201856_1d45362c001907s57q.html>
+- **周杰伦** | 周杰伦谈当父亲的感受：不听我的话，至少要听妈妈的话|听妈妈的话|听我|周杰伦|新专辑|歌曲|演唱会 <https://k.sina.com.cn/article_7857201856_1d45362c001907s4la.html>
+- **特朗普** | 美国建国250周年庆典前夕，现场对话美国年轻人：特朗普，“人民永远比你强大！” <https://news.google.com/rss/articles/CBMirwFBVV95cUxORGVZajNiR3RPVEZxWWNtMkJmeS1Scjk3YmNCVHcxU0hLbFNOQ21QdWNNT2RYU0l6NzFWZEszbjRJdlkwWGJnTGFVMW1hWERhSTk3Q2FlbmJiQk1vYS1ldVJCM2xzUXRSNVI5dE5vLWMtMm0wVFp4eG9vTEpnbmV5OWFwY0FTVHdoTzZjZWtGMEhYS3piaGRTU0RfM1NnVlBEbWlfdHpiTEh3V0FtalEw?oc=5>
+- **特朗普** | 特朗普发邀请：奥巴马、拜登，来白宫看场球 <https://news.google.com/rss/articles/CBMiakFVX3lxTFBXX2MxdGduRWVRQWNlMWZ3NkszalA5ZTNwbThGb2U2YjNpS3FvdGhEejFybGFZUGtEekhWSExYNUtKVXlqdVRWZm84WHo0U1NFRHQyeDZyQmJRSDZWaXB1UE1QVXNfSVRWVHc?oc=5>
+- **特朗普** | 特朗普称未与马斯克交谈，曾祝贺其成就 <https://news.google.com/rss/articles/CBMigwFBVV95cUxPMm5vcC1ubGRSOEc4el9fNE1hUU5zNDlPMnhWbGdJM3prbkJXM21vOTE1MXFpM3pIT0xTUUVfd0FqQkRzZWNJbUdpLVhHN3ZiRUg3OVpIWHROZmVqSjM0ZXdQTkZhYlktUDdFNmVVbzZEVE9jU01LcFhCZTdqaG9OS0JOUQ?oc=5>
+- **特朗普** | 外媒：特朗普赦免11人，其中9人曾被判违反美国《清洁空气法》 <https://news.google.com/rss/articles/CBMiWEFVX3lxTE81aVpVWVM5MDNYUWJXc0twV0dORmFtQWZoRDlZRDJMX2NQbmRNWkxyVWwzLWtfQl9zTFRtUUtHWlRtTEZJSVNmeHlvU1loUHJleHhVdWxTaXQ?oc=5>
+- **特朗普** | 美官员：特朗普希望结束俄乌战争的“无谓杀戮” <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5tb3AwUEhTNWVwZGFOY255cXRURDQtOC1CM3QzM2lUWG5hdHRGUXExR0lwMUY5NGRKY2NOREw2QldXdGZjTF9FOHMwMG0xRDcwLXFkc29lLVRZM2tWOUdjbVJGLTlJZw?oc=5>
+- **Trump** | 特朗普也狂买黄金？深读927页财务报告：他买了什么、卖了什么 <https://news.google.com/rss/articles/CBMif0FVX3lxTE1jQ3p1MDdvYm5tR3p1YUg2Mm9rb3ZPUUtIWERSTHVkTEVNaUJ5V3FpRkFxWG9lb0diQmM4aGVJUHdIOUxzNFFnZTAtZ1cwbVN5aTJRX0ZwS1IydlhINkxoSThROHViazk5eE9Cb1h5cUE0SEluVkRJck9PVUd1ZTg?oc=5>
+- **Trump** | Trump宣布：为庆祝建国两百五十周年，给白宫再献上一份金色礼物 <https://news.google.com/rss/articles/CBMiY0FVX3lxTFBsMUJMOERiN0M0QVlpVHZrM1FKZ3htOHhCYVpJNEMzZkpEbmN3XzJyaXhXbExrc1B2ci10Nkt6M3BXQWZWTGN3SURtXzhqMjRDS1liRVE5SllrdUV5aDB2dmRkbw?oc=5>
 
 ### 2026-07-04 02:22  (8 条)
 
