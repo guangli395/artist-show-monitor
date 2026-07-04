@@ -1,31 +1,13 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-04 19:43**
-- 本轮扫到 5856 条, 新增 **2** 条
+- 最近更新: **2026-07-04 20:48**
+- 本轮扫到 5856 条, 新增 **0** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮无新增
 
-### 去年狂赚22亿，特朗普：我不拿年薪，当总统有“更大目标”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-04 19:10
-- 链接: <https://news.google.com/rss/articles/CBMi_AFBVV95cUxNZlFQRk1xZTFMN084N1M4OW9VZ0JUNm1mOVFiTTRQZ3VELVJSMXdXQjdqVzNmaEcyYjRkd2FNQmpBbm5NUW9sMjJ3R0dVd0FGejZWbDhZeDJna3VSTnhvdjlJZTZUR0pZZ3A5ajFMNVVSOHJ5YlM3TkVXcFNpTzYxQWFSMzJCTUF1VXVnZE9fd2lBdDl2dEo5N3R3Y3VzTHpGajJkaWpjaEh5TVB0RDNlSGpmTGJ5TjFNSWM2dU5XbUZ1eFhINjI1V3c4WkRYNnpWQmlfVkF1dWRSWlpDdFd1OG1ub0ZPeHdrTEhYY0JSLXZEd2hLcTZ6NnZJR3E?oc=5>
-
-### Where Can I Invest My Kid's 'Trump Account' Money? The Treasury Department Just Answered That Question.
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 富途牛牛
-- 时间: 2026-07-04 17:59
-- 链接: <https://news.google.com/rss/articles/CBMijgFBVV95cUxNd0QxNHV0QS1jQ3RiaGEtaEN4MmFfTjRISDZ1SzdydXB4ME80MnZaLUVxb3BhQWx3SWlpdFAxT2dBbDlrdlhDejlxS1ZNSWNuM0luZ0s2N0lTZWRHdnJZRXRlV3VfYnUyQld5ek1oN05ZM2g0djliUzdxMTlaS1lCczM1Ykg2eGtoRDVIeWVn?oc=5>
-
-
----
-
+数据库里所有演出/动态都已见过,暂无新增。
 ## 历史发现
 
 ### 2026-07-04 19:43  (2 条)
