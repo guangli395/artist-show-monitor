@@ -1,86 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-04 08:38**
-- 本轮扫到 5828 条, 新增 **10** 条
+- 最近更新: **2026-07-04 10:50**
+- 本轮扫到 5833 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (10 条)
+## 本轮新发现 (5 条)
 
-### 仍不知小黄豆在蔡徐坤签售会闹出多少笑话
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907t4gu.html>
-
-### 周杰伦内场3万、黄牛26倍溢价…演唱会票务市场谁在收割粉丝?
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907t7ni.html>
-
-### 46岁周杰伦鸟巢演唱会当众问黄晓明：昆凌在中餐厅洗碗拖地？为何黄晓明称她是天使？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801awys.html>
-
-### 今天13:14!周杰伦武汉站,开抢!
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857141524_1d452771401903y406.html>
-
-### 周杰伦演唱会周父到场,澄清父亲家暴传闻,献唱以父之名
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907suxy.html>
-
-### 特朗普念儿童绘本，一开口就“跑偏”了
+### 美炒作“中国接管巴拿马运河”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-07-04 06:57
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBqUnJVY3RZRmFNdFUweUw4bUNwdkkydzR6aGpHUWVGaW1UOWNKSTVBNV9JXzlZTk52aWdHa0xwNFpTMlRtRDJEVFV4WXozcU5wVVN0ZXY0eHhzWXhaZGJ4QlFEQWFPYVU4MFlkNXpUNjFHV1hGcEp6Y1BDQW1YMmc?oc=5>
+- 场馆: 新浪军事
+- 时间: 2026-07-04 08:50
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE9oa2JjUXdmaVp1NldQeTk2VVpyM0c5UGpmZ2JOZEd2Zk9rNERBUE9ONTRXWms5SmpRQXNRU1VpMFMwZ0pBcXBtYm91eGtNdUczRXVIRVQweVBmRVFIanVFN1Jqcks0OXhfaG5sNVIzWUpvVms?oc=5>
 
-### 法国世界报 - 美国独立250周年纪念：一场属于特朗普个人的庆祝活动
+### 特朗普祝贺马斯克成为万亿富翁，称双方关系不可思议
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-07-03 23:32
-- 链接: <https://news.google.com/rss/articles/CBMiwgNBVV95cUxQY19XYWhMMEdPanlkczBnY1U4cG9VNjBaN1JwVmVzbllNNlcyajZWQjBWT2ttcU41WXpSdlNUUXhHc09ON21iTEtvenhteGpHVUlnYjVtWFlSeVNXOTEyMm52NWxuYVJFdEcxV1drZ1FOZ1JTY2FyUS1vRDIwX011TWVtZ2R5dUNwYjJiWjhGLTV3ckpxclVMeDladWpjcE9XRVRXdWFiZThybExYTDQ0YzlsNzRKYXdGSW1vdjFqUFBzbThfTjFIVWVpTlFoTjBkY25kcWpHSHhpOHRZXzVSNlo2UEtxSmFsTUU0T0t5MkpudlJsaTBhbVhNWkpGVWhuNVRza0M4VTUwSnc2QXl3UktWS2pfV29udGtiNTNGdEdqU1ctc0ZpWVNYdnNtZnBHWWFEcl9Tc1RKM3BhY0NsSk5DbDdUUlBRNUp0MEgtYUNFTGJ4Ny1vNllCNDFKVElsM3kxOWE3UC1HYmczZ05nNTk0X1RvTXNOWkxZMEl6bzB1d05uZVVNYWlEY2JNaXZ4LUNRcVFsaElNVzRERWdFTi1jdHJocFROdV93bDY0LXJJa2c2STktczNrLTJRWGIwZWc?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-07-04 10:09
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1SbU9NX2RqN1lyNmpVQkVzcHZyWkdleW1KY3gwM0FDNFU4dkhLdjMxSVo3eUpXbzk0eXlvVkFVOUZ2VExyN1FiZU1MUW9yUGVlRmFoOUpQMDVqZWszVkNvVk1BTS1nMDNUSEJQSDFuUlpWcDQ?oc=5>
 
-### 特朗普独立日前演说 斥民主党构成“共产主义威胁”
+### 特朗普总统在拉什莫尔山发表演说，赞扬美国自由传统，就“共产主义威胁”发出警告
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-07-04 10:17
+- 链接: <https://news.google.com/rss/articles/CBMipAFBVV95cUxOTE0wUGY2cDJpeW1LZUMxeHBhTnhfVHFwS1JSM0o4ZmsxMmxvcnB1NExKdjhoSDMtdGlhYXZTbDZDMzlzb3JRdVlwYmxQQmdlenNGdFRyWlh4amE3UVhvQlZiYlpIX08yaF9EZTJ6RzNlYWw5VkVyTmhhRkhNLS05aHJfeG82cFBHZlk5MXBZb2Etal93RGRseWdFamw0NElrcFJERtIBpwFBVV95cUxNdUFKem9tRlJ4OWJVSEd3ZVNPNWJPeWlsQ2JuMkowcGptRXZQOTdYQ2tNME5tWVhrN04zQTBGOFdUeTJOZFR2X2tUZmwzUElleGdPWmUzbFlhcVBaeVNVYWFnc0dqV0dKd1RPOXRFNkRsOXdVVDE3dk9vMm8xcUNRbDA0enFELUN6aUw0TmJvNzJKZFlvUFFhRkhLZGhYSWpFUTVTWWwzRQ?oc=5>
+
+### 特朗普去年股票交易最高达24亿元 政策宣布前后频繁买卖引关注
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 联合早报
-- 时间: 2026-07-04 08:22
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5iblFhZW43bkRyUlpURmREMno3TmxhVjRoUTNQUHN1TU82aEM5eElYUDhma3lGTE5pSDNsUS1SNEdPX0xWTkk3NHhyNWh4TVJtZW1VOEprSVo2NW45cUtiMlJNcmdFbTl0QWc?oc=5>
+- 时间: 2026-07-03 09:14
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE0yeE9LdGNEUVZjaGJrZW9LMWgzcEJfSzY4VzBiS2VDYTJfazJKZ2w0cU00MTVyM2xQVmw4bkh4QjNuclFYdEFlLWlNbElsX0s3VUhkM05oZ2x2RDI4aF9UMDJpVkFtUQ?oc=5>
 
-### 特朗普赦免11人
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-04 05:39
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9zZTdJMy1jV3BQT0hlSFI3cmJJNWNDRkYtQjQ2RTFKRnhYRzdfSkNOR3dZTjEzdTlsYl9Wc0VDOF94cThnUjhXbFkyRzU?oc=5>
-
-### 刚刚传来：🇺🇸特朗普总统表示美国财政部现将接受可便捷交易的上市公司股票作为慈善捐赠，以资助符合条件的美国儿童...
+### 托卡耶夫总统致函祝贺特朗普美国独立250周年
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-07-04 05:54
-- 链接: <https://news.google.com/rss/articles/CBMivwFBVV95cUxPVVVzbHYtQ016UEF6RTlycVIwRzZteEx5UlZpWkxhNmE4V1haSzRWR3pfYXJOX09wQ2JDSUZkd2ZCVXZUQmxZTGs1bDl2c0RmRWp3Mjl0MDdTNTI0S3JSdFF4amhtOEVIaE9sdVhteWdYQTdsV3RCN0lWVm9iNThfNC14TTh4cnRoYWlkZjBJSkZ3alFyVnlibUpJT0xxcWVjQWJtS1FRNlFpTm5xRlBvampGWGFfUkR1c3d6YUVCaw?oc=5>
+- 场馆: 哈通社
+- 时间: 2026-07-04 07:24
+- 链接: <https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zQmJDd0p2Q0N0ZFk0Uzh4YVZITjRnWWdiM0dkRWxQSHlTdW5RdjY0Q2hEY2dKQlpzNWtCZlIySEFhYTJOYndqZ3NwMFpNdHhoNVVVWW42Wnptd9IBWEFVX3lxTFBCZXFhOGYwS1hXQVBiTXpnVDRlb3doNFJqMHFRNExxMHdHcG9IbVJTMk5EaEtFOENyWlpXQkZWa3VwOGNKTFdSbGVzTGJTZTJkRS0yS2Njb0E?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-04 10:50  (5 条)
+
+- **特朗普** | 美炒作“中国接管巴拿马运河” <https://news.google.com/rss/articles/CBMic0FVX3lxTE9oa2JjUXdmaVp1NldQeTk2VVpyM0c5UGpmZ2JOZEd2Zk9rNERBUE9ONTRXWms5SmpRQXNRU1VpMFMwZ0pBcXBtYm91eGtNdUczRXVIRVQweVBmRVFIanVFN1Jqcks0OXhfaG5sNVIzWUpvVms?oc=5>
+- **特朗普** | 特朗普祝贺马斯克成为万亿富翁，称双方关系不可思议 <https://news.google.com/rss/articles/CBMic0FVX3lxTE1SbU9NX2RqN1lyNmpVQkVzcHZyWkdleW1KY3gwM0FDNFU4dkhLdjMxSVo3eUpXbzk0eXlvVkFVOUZ2VExyN1FiZU1MUW9yUGVlRmFoOUpQMDVqZWszVkNvVk1BTS1nMDNUSEJQSDFuUlpWcDQ?oc=5>
+- **特朗普** | 特朗普总统在拉什莫尔山发表演说，赞扬美国自由传统，就“共产主义威胁”发出警告 <https://news.google.com/rss/articles/CBMipAFBVV95cUxOTE0wUGY2cDJpeW1LZUMxeHBhTnhfVHFwS1JSM0o4ZmsxMmxvcnB1NExKdjhoSDMtdGlhYXZTbDZDMzlzb3JRdVlwYmxQQmdlenNGdFRyWlh4amE3UVhvQlZiYlpIX08yaF9EZTJ6RzNlYWw5VkVyTmhhRkhNLS05aHJfeG82cFBHZlk5MXBZb2Etal93RGRseWdFamw0NElrcFJERtIBpwFBVV95cUxNdUFKem9tRlJ4OWJVSEd3ZVNPNWJPeWlsQ2JuMkowcGptRXZQOTdYQ2tNME5tWVhrN04zQTBGOFdUeTJOZFR2X2tUZmwzUElleGdPWmUzbFlhcVBaeVNVYWFnc0dqV0dKd1RPOXRFNkRsOXdVVDE3dk9vMm8xcUNRbDA0enFELUN6aUw0TmJvNzJKZFlvUFFhRkhLZGhYSWpFUTVTWWwzRQ?oc=5>
+- **特朗普** | 特朗普去年股票交易最高达24亿元 政策宣布前后频繁买卖引关注 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE0yeE9LdGNEUVZjaGJrZW9LMWgzcEJfSzY4VzBiS2VDYTJfazJKZ2w0cU00MTVyM2xQVmw4bkh4QjNuclFYdEFlLWlNbElsX0s3VUhkM05oZ2x2RDI4aF9UMDJpVkFtUQ?oc=5>
+- **Trump** | 托卡耶夫总统致函祝贺特朗普美国独立250周年 <https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zQmJDd0p2Q0N0ZFk0Uzh4YVZITjRnWWdiM0dkRWxQSHlTdW5RdjY0Q2hEY2dKQlpzNWtCZlIySEFhYTJOYndqZ3NwMFpNdHhoNVVVWW42Wnptd9IBWEFVX3lxTFBCZXFhOGYwS1hXQVBiTXpnVDRlb3doNFJqMHFRNExxMHdHcG9IbVJTMk5EaEtFOENyWlpXQkZWa3VwOGNKTFdSbGVzTGJTZTJkRS0yS2Njb0E?oc=5>
 
 ### 2026-07-04 08:38  (10 条)
 
