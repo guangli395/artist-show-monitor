@@ -1,56 +1,44 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-04 10:50**
-- 本轮扫到 5833 条, 新增 **5** 条
+- 最近更新: **2026-07-04 12:02**
+- 本轮扫到 5836 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (3 条)
 
-### 美炒作“中国接管巴拿马运河”
+### 周杰伦嘉年华演唱会厦门站门票抢票app哪个最好抢票app谁更胜一筹
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪军事
-- 时间: 2026-07-04 08:50
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE9oa2JjUXdmaVp1NldQeTk2VVpyM0c5UGpmZ2JOZEd2Zk9rNERBUE9ONTRXWms5SmpRQXNRU1VpMFMwZ0pBcXBtYm91eGtNdUczRXVIRVQweVBmRVFIanVFN1Jqcks0OXhfaG5sNVIzWUpvVms?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857141524_1d452771401903yy1m.html>
 
-### 特朗普祝贺马斯克成为万亿富翁，称双方关系不可思议
+### 特朗普在“总统山”发表国庆演说，吹嘘美国“战绩”：我们一天内就击败了委内瑞拉，狠狠打击了伊朗，我们很善良
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-07-04 10:09
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1SbU9NX2RqN1lyNmpVQkVzcHZyWkdleW1KY3gwM0FDNFU4dkhLdjMxSVo3eUpXbzk0eXlvVkFVOUZ2VExyN1FiZU1MUW9yUGVlRmFoOUpQMDVqZWszVkNvVk1BTS1nMDNUSEJQSDFuUlpWcDQ?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-07-04 10:04
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE5rS1RscC13SG1BSWhhVnJZOVNVX0hNcld6dUNQNW1Bc1Uydk9jUGV6Q3oxSm9PQkxPQmZRazZsRDhTUkNuUVNrNl90bVd3bzNkRzl5c0ttbE9FVWdyNC1FYzVxYkViSzg1eDlwZmZXXzBMVmxWbGc?oc=5>
 
-### 特朗普总统在拉什莫尔山发表演说，赞扬美国自由传统，就“共产主义威胁”发出警告
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-07-04 10:17
-- 链接: <https://news.google.com/rss/articles/CBMipAFBVV95cUxOTE0wUGY2cDJpeW1LZUMxeHBhTnhfVHFwS1JSM0o4ZmsxMmxvcnB1NExKdjhoSDMtdGlhYXZTbDZDMzlzb3JRdVlwYmxQQmdlenNGdFRyWlh4amE3UVhvQlZiYlpIX08yaF9EZTJ6RzNlYWw5VkVyTmhhRkhNLS05aHJfeG82cFBHZlk5MXBZb2Etal93RGRseWdFamw0NElrcFJERtIBpwFBVV95cUxNdUFKem9tRlJ4OWJVSEd3ZVNPNWJPeWlsQ2JuMkowcGptRXZQOTdYQ2tNME5tWVhrN04zQTBGOFdUeTJOZFR2X2tUZmwzUElleGdPWmUzbFlhcVBaeVNVYWFnc0dqV0dKd1RPOXRFNkRsOXdVVDE3dk9vMm8xcUNRbDA0enFELUN6aUw0TmJvNzJKZFlvUFFhRkhLZGhYSWpFUTVTWWwzRQ?oc=5>
-
-### 特朗普去年股票交易最高达24亿元 政策宣布前后频繁买卖引关注
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-07-03 09:14
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE0yeE9LdGNEUVZjaGJrZW9LMWgzcEJfSzY4VzBiS2VDYTJfazJKZ2w0cU00MTVyM2xQVmw4bkh4QjNuclFYdEFlLWlNbElsX0s3VUhkM05oZ2x2RDI4aF9UMDJpVkFtUQ?oc=5>
-
-### 托卡耶夫总统致函祝贺特朗普美国独立250周年
+### 美国总统唐纳德·特朗普曾称加密货币是“骗局”。如今，这却成了他的主要赚钱工具。
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 哈通社
-- 时间: 2026-07-04 07:24
-- 链接: <https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zQmJDd0p2Q0N0ZFk0Uzh4YVZITjRnWWdiM0dkRWxQSHlTdW5RdjY0Q2hEY2dKQlpzNWtCZlIySEFhYTJOYndqZ3NwMFpNdHhoNVVVWW42Wnptd9IBWEFVX3lxTFBCZXFhOGYwS1hXQVBiTXpnVDRlb3doNFJqMHFRNExxMHdHcG9IbVJTMk5EaEtFOENyWlpXQkZWa3VwOGNKTFdSbGVzTGJTZTJkRS0yS2Njb0E?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-07-04 10:47
+- 链接: <https://news.google.com/rss/articles/CBMivgFBVV95cUxPWEhDRmlYeDdxQ0c2OXFsUmhqbXFNRWt3MU1RdjhTTjJ0XzVNRFVRNHRsUzlmMUEwVEl0SF84ZWg1WGFjeXV6RnRJUE5NOUc1REowd2JxNEhRZHZFQ1ZPLXBMT3dfTTFha1JROEdaMjZidlVMSF9jU2RCSVFZZXU4Vk94elhwY2NMNHNaM0lGakxZd1JNN2wzNTdDWkw1MmpPQzI2M1pLVmUwcFlXeGlPMElMVDFaOEZURV93RjJB?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-04 12:02  (3 条)
+
+- **周杰伦** | 周杰伦嘉年华演唱会厦门站门票抢票app哪个最好抢票app谁更胜一筹 <https://k.sina.com.cn/article_7857141524_1d452771401903yy1m.html>
+- **特朗普** | 特朗普在“总统山”发表国庆演说，吹嘘美国“战绩”：我们一天内就击败了委内瑞拉，狠狠打击了伊朗，我们很善良 <https://news.google.com/rss/articles/CBMidkFVX3lxTE5rS1RscC13SG1BSWhhVnJZOVNVX0hNcld6dUNQNW1Bc1Uydk9jUGV6Q3oxSm9PQkxPQmZRazZsRDhTUkNuUVNrNl90bVd3bzNkRzl5c0ttbE9FVWdyNC1FYzVxYkViSzg1eDlwZmZXXzBMVmxWbGc?oc=5>
+- **Trump** | 美国总统唐纳德·特朗普曾称加密货币是“骗局”。如今，这却成了他的主要赚钱工具。 <https://news.google.com/rss/articles/CBMivgFBVV95cUxPWEhDRmlYeDdxQ0c2OXFsUmhqbXFNRWt3MU1RdjhTTjJ0XzVNRFVRNHRsUzlmMUEwVEl0SF84ZWg1WGFjeXV6RnRJUE5NOUc1REowd2JxNEhRZHZFQ1ZPLXBMT3dfTTFha1JROEdaMjZidlVMSF9jU2RCSVFZZXU4Vk94elhwY2NMNHNaM0lGakxZd1JNN2wzNTdDWkw1MmpPQzI2M1pLVmUwcFlXeGlPMElMVDFaOEZURV93RjJB?oc=5>
 
 ### 2026-07-04 10:50  (5 条)
 
