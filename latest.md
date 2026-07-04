@@ -1,40 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-04 22:52**
-- 本轮扫到 5861 条, 新增 **3** 条
+- 最近更新: **2026-07-04 23:56**
+- 本轮扫到 5864 条, 新增 **3** 条
 
 ---
 
 ## 本轮新发现 (3 条)
 
-### 泽连斯基与特朗普通话 商定在北约峰会期间会谈
+### 美国250岁生日，特朗普又打起“反共牌”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-07-04 23:29
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1GQVNvUVdsRGZZZjlHTXQxZmxROU5ZMGxaYXVja1JJMzUwZHpZY3doQ0RFUFRxbnhxb1IxdzFRZUZsSWRXN3o2X08xQnhFcC13SjgzYklVU0lQVE5UQjBvaUJjN3lXLXBPSEE?oc=5>
+
+### 内塔尼亚胡将见特朗普，特朗普：他知道“谁是老大”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-04 22:40
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxPZmlzRWw2c21Zb2ZXS2NaUEJEalhGalZfRHYtakZFaUI5VXFNMW1OSFVOcXdFci1OSjlLNkF4NU00eWI5T25MVV9xUDBacHVaQTJjeHlXVVVRQXhpb1hTQWJvTU9lZ0d5WnUwdWs0WllKRFNZbkJqaEhMbVhfaGQ1OHhPb3hBbkxXRG5RUGZXMi1FNmtzeXhrTQ?oc=5>
+- 时间: 2026-07-04 23:27
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE1ITXF5MWVsdFM5V2xIVlMwRjNZMHgtcTJXenphY3FGUC1PRVBkM3R3anRmcWpqNWFLSG5JNjBLRFJaeUw1VXZxQkRxREZDVXQ1STFmQjA1YS16a0kzckUxNGhjd2Y2VmhhREtNZU1tby0zamtWcnc?oc=5>
 
-### 特朗普再谈马斯克：他还是喜欢我
+### 普京与特朗普通话 重申仍倾向政治解决乌克兰问题
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-04 00:04
-- 链接: <https://news.google.com/rss/articles/CBMizgFBVV95cUxNN21QalU5MzM5U3FOSFZjWU9DMy1OT1l0bXN2Q3VZcWl1aVloT1VWOGhQNEc4ZU0zMl80UUJaY1JiQlpqYUtCcmUwM2U3OXJZblRqU1ZoQzc3ZjA5cENYRy1MLWNsVERxOXlRQUpuRW95SGI0bko5SEhCWWtvaFdYR19WNm9DaXlrNF9mYkRMX3lyYnhhay1sd0pVcTMxaEpCWVpGY25hTU4xT3BZclJ2NkM5Sm1yWlpEbkU1TWhVUGhweEhRckJkTlMyWGxRQQ?oc=5>
-
-### 特朗普账户（Trump Accounts）正式上线。
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-04 16:11
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxOWV81ckYwRmhpaDBmX1A1YmRVQnN4WFgxY014ekxoZ05MOUNWSlZ0a25Zd1otTWlyem5tVXhTRFk3cFBOS2hlaEh3VXlBTlRnb2xsdmZ2NDJzLUNOUHhIaEhIVkNoNi1wZG90OC1tb0RJUk05YnYwRGVER1oweDlUOWtmdF9zSEE?oc=5>
+- 场馆: 新京报
+- 时间: 2026-07-04 23:27
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xVFJpMEptbmhDY3p2aS1lbzd6WDl2NzRkcUg5bTBrZmUxamZHTFN0cWFoQ2pwUklPZUdEem9FMk9tb3dDRGNHS2dqbmFIWjlCQmFhOHk3VUJQQkxZeG9RSXk2RGg?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-04 23:56  (3 条)
+
+- **特朗普** | 美国250岁生日，特朗普又打起“反共牌” <https://news.google.com/rss/articles/CBMiakFVX3lxTE1GQVNvUVdsRGZZZjlHTXQxZmxROU5ZMGxaYXVja1JJMzUwZHpZY3doQ0RFUFRxbnhxb1IxdzFRZUZsSWRXN3o2X08xQnhFcC13SjgzYklVU0lQVE5UQjBvaUJjN3lXLXBPSEE?oc=5>
+- **特朗普** | 内塔尼亚胡将见特朗普，特朗普：他知道“谁是老大” <https://news.google.com/rss/articles/CBMidkFVX3lxTE1ITXF5MWVsdFM5V2xIVlMwRjNZMHgtcTJXenphY3FGUC1PRVBkM3R3anRmcWpqNWFLSG5JNjBLRFJaeUw1VXZxQkRxREZDVXQ1STFmQjA1YS16a0kzckUxNGhjd2Y2VmhhREtNZU1tby0zamtWcnc?oc=5>
+- **特朗普** | 普京与特朗普通话 重申仍倾向政治解决乌克兰问题 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xVFJpMEptbmhDY3p2aS1lbzd6WDl2NzRkcUg5bTBrZmUxamZHTFN0cWFoQ2pwUklPZUdEem9FMk9tb3dDRGNHS2dqbmFIWjlCQmFhOHk3VUJQQkxZeG9RSXk2RGg?oc=5>
 
 ### 2026-07-04 22:52  (3 条)
 
