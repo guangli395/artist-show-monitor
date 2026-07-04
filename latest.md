@@ -1,14 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-04 20:48**
-- 本轮扫到 5856 条, 新增 **0** 条
+- 最近更新: **2026-07-04 21:52**
+- 本轮扫到 5858 条, 新增 **2** 条
 
 ---
 
-## 本轮无新增
+## 本轮新发现 (2 条)
 
-数据库里所有演出/动态都已见过,暂无新增。
+### 特朗普高调主导美国建国250周年庆典 国庆活动政治化引争议
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-07-04 21:43
+- 链接: <https://news.google.com/rss/articles/CBMikANBVV95cUxNczVBek91d2RkQ2MwLVUxaW9fdmp4SDExTG1LYnc0SXJzM1lEX0pKSnhEcWQ5Sktob2tjdWk5d3pMRE0wcF9aZHg2V3luZkdlVmdsNmlyT0FyejV6bHJGeERjY1FQbnAySGtNS1M1ZWVRYjdrY3pvanVxRlRQQjV0dGpBV0VMc0RTUVdFOC1EZ0lSemFvYS1STFZ6V0Q2YkZabUN4S1h4cVFPNEVQRTRwM1RYSjZNS2laUFNkNWg4bmpTX1R0Uk10ekJ6cllFeFlBNEstOFFwU2NESmg1eElCVkNzU2N5a2gtTTN2WWxWejEzZ19rN2tRMDlvcThLSlFqbk9QdGQyck4yZUF5OFczWGFENzBQb3g4V1hlMEQwZndUbTBLSmhQbVpnVG9IM3VrLXpUVFZ6ai16ZTVjcU5vSDRXc2J0U2szMmpWWG5fdkpDTFRLYWRPcGh1bGgtdThWemdXVHpXenhST0s0V1dpeXVCcV94SElrS0ZkTlJqdU56SEFja1VIT29TSlJ4UDBG?oc=5>
+
+### Where Can I Invest My Kid's 'Trump Account' Money? The Treasury Department Just Answered That Question.
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-07-04 18:04
+- 链接: <https://news.google.com/rss/articles/CBMimgFBVV95cUxNSHlwVUFCR3J3Qnh6STBzdW9IbXI3Si1hei11SFV0cE9JMko5eXh1anZ1ZDRGRnpWbHZqQ3FieGgtbnI1b0xveEZyUEk1MEYyRnhHS1gzd21OVE9kUHUwVnFfYjNPN3BVcTFhOGY2czVpMk9yTVZLc05DcWdKRXFKcURwbXl0YVkyMF92akE4QjhlQUhMNnVRUFFn?oc=5>
+
+
+---
+
 ## 历史发现
+
+### 2026-07-04 21:52  (2 条)
+
+- **特朗普** | 特朗普高调主导美国建国250周年庆典 国庆活动政治化引争议 <https://news.google.com/rss/articles/CBMikANBVV95cUxNczVBek91d2RkQ2MwLVUxaW9fdmp4SDExTG1LYnc0SXJzM1lEX0pKSnhEcWQ5Sktob2tjdWk5d3pMRE0wcF9aZHg2V3luZkdlVmdsNmlyT0FyejV6bHJGeERjY1FQbnAySGtNS1M1ZWVRYjdrY3pvanVxRlRQQjV0dGpBV0VMc0RTUVdFOC1EZ0lSemFvYS1STFZ6V0Q2YkZabUN4S1h4cVFPNEVQRTRwM1RYSjZNS2laUFNkNWg4bmpTX1R0Uk10ekJ6cllFeFlBNEstOFFwU2NESmg1eElCVkNzU2N5a2gtTTN2WWxWejEzZ19rN2tRMDlvcThLSlFqbk9QdGQyck4yZUF5OFczWGFENzBQb3g4V1hlMEQwZndUbTBLSmhQbVpnVG9IM3VrLXpUVFZ6ai16ZTVjcU5vSDRXc2J0U2szMmpWWG5fdkpDTFRLYWRPcGh1bGgtdThWemdXVHpXenhST0s0V1dpeXVCcV94SElrS0ZkTlJqdU56SEFja1VIT29TSlJ4UDBG?oc=5>
+- **Trump** | Where Can I Invest My Kid's 'Trump Account' Money? The Treasury Department Just Answered That Question. <https://news.google.com/rss/articles/CBMimgFBVV95cUxNSHlwVUFCR3J3Qnh6STBzdW9IbXI3Si1hei11SFV0cE9JMko5eXh1anZ1ZDRGRnpWbHZqQ3FieGgtbnI1b0xveEZyUEk1MEYyRnhHS1gzd21OVE9kUHUwVnFfYjNPN3BVcTFhOGY2czVpMk9yTVZLc05DcWdKRXFKcURwbXl0YVkyMF92akE4QjhlQUhMNnVRUFFn?oc=5>
 
 ### 2026-07-04 19:43  (2 条)
 
