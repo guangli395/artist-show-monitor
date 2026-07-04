@@ -1,56 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-04 16:57**
-- 本轮扫到 5852 条, 新增 **5** 条
+- 最近更新: **2026-07-04 18:01**
+- 本轮扫到 5854 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (2 条)
 
-### 美国总统特朗普周五签署11份特赦令
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-04 15:49
-- 链接: <https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeXJvUm40QUx5MC1DSTJrZVZxRERHUFIzeW45UVdrV292UXEwSnBPMXdLYk5GWEdqQ0J5b3lrTjMxbV9wc292eFpXaHlOb1Q1aDJpY3R0OTdaa0QzNmlzOWZkeUUzQzlfdTYzTlpuQUFYcVZBRkRuRHlfeEZDaFhSTlY4bEZCaXQ3OGRvMVVWZkJhMEtTdXMxaHJ2UWFIY2RDOUNhNUxUX3hVTGh4enVqeTJaaGI1S0YteE10dkV0UGI?oc=5>
-
-### 特朗普账户（Trump Accounts）正式上线。
+### 梅洛尼反击特朗普说明了什么 主权不容挑衅_中华网
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-04 16:11
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5QZjV4aWNaMUF6NjBYM3lheWZoQjBRbEtkcHlLRHB2eF8teXNRUjUzanNFcW14dVdObGxvNUJEZmVVM2RwaGF0VDR0YWl2UnJoUFVVSXlaVFhNTEhpNzctME5JdENSZUtVS0xXakh6LTN2ckI3QXlNMw?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-07-04 17:44
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE1rcWRlUzNzZUljdWJjNGctMkZzSmZhbkNrdVdwVGlxSzVaMl9jRnJzMnVaUUFHb0stZ3NpWmd3V0xyRlBrdGo1OUtpOVVQY2VrbV9DM2hlRkpHcm14cTRXZnFCTl82SmltR0F0TnpWaVRUQQ?oc=5>
 
-### 美国总统特朗普周五签署11份特赦令
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-04 15:42
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxNRkZocTUybm82MDZNYnRtM1IxM21mUVZiWmNnNDNXd1BsUThOLWdGcGFybjhnUTNnOFdSVGFka0NDWWNBV011Ry05YVlETGhYNF9lRFZpYk1rT1c5eWkydFotNWE0aE4tVFdEbmhSY01TV1IyZlEtbHRVdlZ6dHpiRG1zbDhJMUk?oc=5>
-
-### 'Trump Accounts' Are Now Live. Here's What to Know. -- Update
+### 特朗普政府在獨立日推出Trump Accounts，向新生兒發放1000美元啟動金| 乌克兰新闻
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 富途牛牛
-- 时间: 2026-07-04 16:32
-- 链接: <https://news.google.com/rss/articles/CBMijgFBVV95cUxPVzYzd2ZlWl9DZmVjVVdReDE3SDZ2YlB0ZUZMNTJWSl9RdExOMXRzU1Jnc0JjOU85OGpDbkZuZFpiLUpNRTBPU2E4NnIzblFlVFBvMWZ0dllpVTY1cDVlNTZSVFVGYVdCVG43ay1RaXZnTG1ubzl5TDVJbnZ5VUp0RVFOaGVVT1FONzk1cFpn?oc=5>
-
-### Nansen数据显示，特朗普加密代币持有者亏损38亿美元
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: CoinDesk
-- 时间: 2026-07-04 00:30
-- 链接: <https://news.google.com/rss/articles/CBMivgFBVV95cUxOQmd1TEpLRzJKdDhmMWpCRHdNei1RUl9xMmh3czZUWk16OThJZTlBN1NZN2k4Y0xpUWdiUzRaWGpoYjBpbzh5NlQtVmdhOGF6SEUwM1h6OFE1cHhTSHVNMVppRjFxbU1SNlJnMVlOalZYQk1GNnd5VUkyUldfeUF1WWZKZEtVWUZQY2NZS195dE5PQnF2UHZtY04xQ096LWVuendRaC1NNTlicnA1bzd6UU9QamxzOTBCVTlvLWN3?oc=5>
+- 场馆: Межа. Новини України.
+- 时间: 2026-07-04 06:22
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE9iV0I3XzMza0NVeERFOG03OGFFM0VqcW41ZjFybUJpeXFEcTQyRlZtaTVBWEI2YUg2UlozUE95Z1BrTVNrYmtpdjZGaFB5bGJQTXNuZnNSeWZHSmZnX0tQNlBPOHp6TkFGaVBaT2dZNjdoZW53?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-04 18:01  (2 条)
+
+- **特朗普** | 梅洛尼反击特朗普说明了什么 主权不容挑衅_中华网 <https://news.google.com/rss/articles/CBMickFVX3lxTE1rcWRlUzNzZUljdWJjNGctMkZzSmZhbkNrdVdwVGlxSzVaMl9jRnJzMnVaUUFHb0stZ3NpWmd3V0xyRlBrdGo1OUtpOVVQY2VrbV9DM2hlRkpHcm14cTRXZnFCTl82SmltR0F0TnpWaVRUQQ?oc=5>
+- **Trump** | 特朗普政府在獨立日推出Trump Accounts，向新生兒發放1000美元啟動金| 乌克兰新闻 <https://news.google.com/rss/articles/CBMidEFVX3lxTE9iV0I3XzMza0NVeERFOG03OGFFM0VqcW41ZjFybUJpeXFEcTQyRlZtaTVBWEI2YUg2UlozUE95Z1BrTVNrYmtpdjZGaFB5bGJQTXNuZnNSeWZHSmZnX0tQNlBPOHp6TkFGaVBaT2dZNjdoZW53?oc=5>
 
 ### 2026-07-04 16:57  (5 条)
 
