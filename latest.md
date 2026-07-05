@@ -1,82 +1,73 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-05 09:38**
-- 本轮扫到 5884 条, 新增 **9** 条
+- 最近更新: **2026-07-05 11:25**
+- 本轮扫到 5890 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (9 条)
+## 本轮新发现 (6 条)
 
-### 孙燕姿杨千嬅天津演唱会审批曲目增加 能拉动30亿文旅消费吗？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801wsuu.html>
-
-### 这两场演唱会能拉动天津文旅消费吗？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801wst4.html>
-
-### 周杰伦新专辑不想再拖了惊喜预告将在这天发行
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907uw9c.html>
-
-### 风暴、高温、疏散...特朗普坚持演讲：这点小雨没影响，让我们尽情狂欢
+### 伊朗人高呼“复仇”，特朗普称“全是假哭”遭驳斥
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-05 09:00
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTFBVVE5NZUgzbTZEQlNzZU5RUmtuY2tseE5zcEJUel9BcFNQN1hsRXF4ZmZJcXF2UHNGaEdnWFZ3amNUWjROSmFLUUw2WkdOMWdTWVZzU1hYMU0tTk5QTVgzUEpDYm4wX01QSDI0SnU3YS1yTFFJS0E?oc=5>
+- 时间: 2026-07-05 10:31
+- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxPZEF5X2dEVzh2aFRKbU5OeHljX0h6LUlXeTJLdDRUcy02cGRyd2V6dEt0aS1HN2cyRGhfQjNNbUozajBmMjBrMFEyNVZDT3lFVmNlcHJQMVlTdTNuQk1DNWp6TjlmX0YzaU9CeEtacjZSNHR3UmV3c0d5eWowNzBQWlNIRQ?oc=5>
 
-### 特朗普：哈梅内伊葬礼上一次攻击就能全部干掉伊朗高层，但不会这么做，这样就没人谈判了
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-05 09:26
-- 链接: <https://news.google.com/rss/articles/CBMirAJBVV95cUxNa2JpYXJPcWp3U3AzdnZFbEloSW9GY1ZoNXp0Z2t0YnFlTG9ueHBEMjJLNHBLN1Y2NFE3Z0d3NUdxQWI4ZGIzRVZ2RXJpU0gtLXJ1WUNVcDZyNVZQdW9XZnhPOUZUb3FUV0t5c1ptRzRDOFA1UE1OMy15ME56emJHbXNsNUdIT3JxYVVwbnZfZ1JVLUdOa1hDQjFGUk9NbnEyTUFOSzhfMl84Wk5iVkxzbWRyY2U2elFJUGMtUno1MnVRdm5Kd194S3V4c240SFp4M1lCWmdWZHR2elNkUE5lbGl6TVk5aVNZeGRodTZ5Y1hsajlPb19EQjFPbkNBSjRsSGNMUFJjZWlXQkU2Ym9QZlpQTlZ2aTFmTmxWTF8yUG9HQ3J3SnN5YzQ2LTI?oc=5>
-
-### 特朗普：伊朗举国哀悼哈梅内伊，让我感到惊讶
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-07-05 01:01
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxOVEpwWEd5OGlhOHNDUEM3dEpXTE96eGJCeU5kM0NPTS1WdHNEMWFYXzYtYUt3cEJiRk5yVE1saURzSkVVVzdBdERMMUxBYUNTWVFlY1R4dkNHbWhpbVVsbnlBQjRra3hvZkdIWll4UzVGc0FjaW1qUlNscjZxdVl1a1VnM011MTFhMDUtcFZiLTFFXy05TC1Ccg?oc=5>
-
-### 特朗普最新受访发言：伊朗举国哀悼哈梅内伊 令我震惊 我还以为民众不喜欢他
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-07-05 09:05
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE05QjRUUUZiOXZSXzBGMnFkNmViQjVfb1BjQUttbnBEaXdtdGJlaDlkc1pQRGdpRVBiVDE3VXpXZ1ZuYlpiSG1DMGFVbTdCZ2FwOWRxS1prSXd6Y1l5b0pTN05nclVGak0xRUVQcFNSR0k?oc=5>
-
-### 特朗普称内塔尼亚胡主动求访白宫，“他知道谁是老大”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-05 09:12
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE4zS0NUQzhpMHFNV09WSi15cUpMNnliT3hHQmJCRWU5cnh4YURZYmV6UjVydVR1ci05TG9CdC1kWDRIWVhIdmJld2JwRlU?oc=5>
-
-### 俄总统助理：普京提请特朗普注意，欧洲和基辅押注于俄乌冲突延续甚至升级
+### 特朗普过去24小时都忙了什么？（2026-07-05）
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-05 06:31
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1YWmNBaG1mYVJVT0ZQc1VPZW01N2FBQ0dnOE8tRlQyTEFKUTF1djVseURnYUU0bU9vVHZTZVBVZFBNUkZkSzFycG9IVDZjcm1qV1B3U2xyZkdfOURZYXZOaFFzQlpkYTNqV2JsU1JGQ1VUNzRyNGhxLQ?oc=5>
+- 时间: 2026-07-05 11:03
+- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxNbmNvcldBU3dPSVZNc1hORnIzNTAxR1dKUnF5eWJ1ZHVDQzAyT0d1N1kwZ3JXQ252WjVoODEwaXRCeElXUUlDXzVzOVcwR2xoN256TXpqQ2ppY3c3RXF4R2FYNkpKZTNfN1hYNHZraVFWd19nQ3AzLTJ2TEl5WmtmUi1hdkhESDA3eF9fOVdqMXRPZWZh?oc=5>
+
+### 美国举行 250 周年庆典：特朗普说“这仅是黄金时代的序幕”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: BBC
+- 时间: 2026-07-05 07:46
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE96dlJ6U1VJV08xekMwRWtoRl9iWkVTbFdmUllMOXdEWTd0SGJwcEcxWjY0ZVZVV0dmNXRzbUtEMm0tRmhqRWR5Mzh3Rk1QaFBvdGxORE5NVXA2N2tieVJhM3JfcWREZ9IBa0FVX3lxTE5UZmhYOWVPbzcybnlPM1dOekVYeFlxZDVQUmJENU1BSmRBSXBSS2wwbjZRTVlNOF9JcFpETHJnendoYlk1el9hNzdZSnJvLV9XNXF6MkdUSEdlb2VTMjg2dHR3OWtaRVNQRUZj?oc=5>
+
+### 聊了近90分钟，“普京提请特朗普注意”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-07-05 10:09
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBNOW9ZZUhUN25PN1NsVEJTMm94ZTlMamoxVHVGZkw3WWU4OHVoeGZaYk5fS1dVQlY3dFVuY0Y4MXY1ck9RWnUxcnY3Z21sVFRPTzRIbGlIWXRpWFpRU3NGZXlSX2pkRXBHdFE?oc=5>
+
+### 特朗普又把自己头像“加”到“总统山”上了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-05 09:40
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE04UzRLUnVfZUFyTVJXSE1aOFkxSGRoSVFDUkg0VFh5Sl96SFo4dlhTSHY0ZVBzdFFpU3JBZXNkcmVZb1dlQnBpdlR2TlFmYXotT19WRnpfbVo3OERsTW5sOXpKd2UybENqdVdGVUNCcEZ6SGsxX05RUw?oc=5>
+
+### 美国庆祝独立250周年 特朗普：我们是赢者民族
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: DW.com
+- 时间: 2026-07-05 10:08
+- 链接: <https://news.google.com/rss/articles/CBMipgJBVV95cUxQMm8wSzNYaEFMc3k1d216UFZDeVZYelRZOEFnTTRwMnFhYl96NlFXUDk2VnoxSmNMNnJ5TXdYMHFGc2pVdk9aR0c5MURxSmk5ZVZTZU0yRmhyNlFsUnE2WFdSSmRLd2NqeTRXWEtJMWZTcXYtNU91MW5KcVlZa1RwLTNJckJ6QmV3WmxhQkpEX1BqZVctQTdBTXRwWGRUMDlYM1NsczluNUt1YjBsMXh0MjlCX1RHTExWTzlhTnRZU3MzaGNqcUlLUFJaNS1TYlpjdnJEYzdjOENuU3Q1WXBPR3NRM0tBYWhoRHFnRGhqSVIyYVpGWG5Id1dTdTJZbm9URi1WY1JvOXZnNXFiSEZ4dzU4bk1NM2ZHZmpIdjg2OTJXVUtsZHfSAaYCQVVfeXFMUGRCT290cUwtVzVHOGVfa3I2a2ZhSEI1SjkwZ0NyX1U5NUxqUW5ZUV9kLTlNNFZfQjRobHRtUkFSNEt3MnRkWGZZOHJJRS1ILTVzYnBjRlJ1SVQwR2hfRkhib0liX3ZaZ1VtMmdQN1ZiWmZBV2dRUUV3clVqM0UyMkhPWGpRYTNLU3dQZk1oWWd6U2dvTzRvMU42elYxUVJ6cmEyRWtXZmptR3NXTGxGXzhuOTZOcF9pRFd3NDBDT3lwOWxCQ1psVlRfWFVQVlNQYlFneHlhN3ptc05xQ0x1UEZiVEFOYTZEYzlZUWZxV2NjX0p6VW1FSHBCdUVyNHZxWDFWZXdNUDJtdEVBRW12NTRMU3ZhZnRxa3Z1TURVT0lCLW9YM01R?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-05 11:25  (6 条)
+
+- **特朗普** | 伊朗人高呼“复仇”，特朗普称“全是假哭”遭驳斥 <https://news.google.com/rss/articles/CBMigwFBVV95cUxPZEF5X2dEVzh2aFRKbU5OeHljX0h6LUlXeTJLdDRUcy02cGRyd2V6dEt0aS1HN2cyRGhfQjNNbUozajBmMjBrMFEyNVZDT3lFVmNlcHJQMVlTdTNuQk1DNWp6TjlmX0YzaU9CeEtacjZSNHR3UmV3c0d5eWowNzBQWlNIRQ?oc=5>
+- **特朗普** | 特朗普过去24小时都忙了什么？（2026-07-05） <https://news.google.com/rss/articles/CBMilAFBVV95cUxNbmNvcldBU3dPSVZNc1hORnIzNTAxR1dKUnF5eWJ1ZHVDQzAyT0d1N1kwZ3JXQ252WjVoODEwaXRCeElXUUlDXzVzOVcwR2xoN256TXpqQ2ppY3c3RXF4R2FYNkpKZTNfN1hYNHZraVFWd19nQ3AzLTJ2TEl5WmtmUi1hdkhESDA3eF9fOVdqMXRPZWZh?oc=5>
+- **特朗普** | 美国举行 250 周年庆典：特朗普说“这仅是黄金时代的序幕” <https://news.google.com/rss/articles/CBMiZkFVX3lxTE96dlJ6U1VJV08xekMwRWtoRl9iWkVTbFdmUllMOXdEWTd0SGJwcEcxWjY0ZVZVV0dmNXRzbUtEMm0tRmhqRWR5Mzh3Rk1QaFBvdGxORE5NVXA2N2tieVJhM3JfcWREZ9IBa0FVX3lxTE5UZmhYOWVPbzcybnlPM1dOekVYeFlxZDVQUmJENU1BSmRBSXBSS2wwbjZRTVlNOF9JcFpETHJnendoYlk1el9hNzdZSnJvLV9XNXF6MkdUSEdlb2VTMjg2dHR3OWtaRVNQRUZj?oc=5>
+- **特朗普** | 聊了近90分钟，“普京提请特朗普注意” <https://news.google.com/rss/articles/CBMiakFVX3lxTFBNOW9ZZUhUN25PN1NsVEJTMm94ZTlMamoxVHVGZkw3WWU4OHVoeGZaYk5fS1dVQlY3dFVuY0Y4MXY1ck9RWnUxcnY3Z21sVFRPTzRIbGlIWXRpWFpRU3NGZXlSX2pkRXBHdFE?oc=5>
+- **特朗普** | 特朗普又把自己头像“加”到“总统山”上了 <https://news.google.com/rss/articles/CBMieEFVX3lxTE04UzRLUnVfZUFyTVJXSE1aOFkxSGRoSVFDUkg0VFh5Sl96SFo4dlhTSHY0ZVBzdFFpU3JBZXNkcmVZb1dlQnBpdlR2TlFmYXotT19WRnpfbVo3OERsTW5sOXpKd2UybENqdVdGVUNCcEZ6SGsxX05RUw?oc=5>
+- **Trump** | 美国庆祝独立250周年 特朗普：我们是赢者民族 <https://news.google.com/rss/articles/CBMipgJBVV95cUxQMm8wSzNYaEFMc3k1d216UFZDeVZYelRZOEFnTTRwMnFhYl96NlFXUDk2VnoxSmNMNnJ5TXdYMHFGc2pVdk9aR0c5MURxSmk5ZVZTZU0yRmhyNlFsUnE2WFdSSmRLd2NqeTRXWEtJMWZTcXYtNU91MW5KcVlZa1RwLTNJckJ6QmV3WmxhQkpEX1BqZVctQTdBTXRwWGRUMDlYM1NsczluNUt1YjBsMXh0MjlCX1RHTExWTzlhTnRZU3MzaGNqcUlLUFJaNS1TYlpjdnJEYzdjOENuU3Q1WXBPR3NRM0tBYWhoRHFnRGhqSVIyYVpGWG5Id1dTdTJZbm9URi1WY1JvOXZnNXFiSEZ4dzU4bk1NM2ZHZmpIdjg2OTJXVUtsZHfSAaYCQVVfeXFMUGRCT290cUwtVzVHOGVfa3I2a2ZhSEI1SjkwZ0NyX1U5NUxqUW5ZUV9kLTlNNFZfQjRobHRtUkFSNEt3MnRkWGZZOHJJRS1ILTVzYnBjRlJ1SVQwR2hfRkhib0liX3ZaZ1VtMmdQN1ZiWmZBV2dRUUV3clVqM0UyMkhPWGpRYTNLU3dQZk1oWWd6U2dvTzRvMU42elYxUVJ6cmEyRWtXZmptR3NXTGxGXzhuOTZOcF9pRFd3NDBDT3lwOWxCQ1psVlRfWFVQVlNQYlFneHlhN3ptc05xQ0x1UEZiVEFOYTZEYzlZUWZxV2NjX0p6VW1FSHBCdUVyNHZxWDFWZXdNUDJtdEVBRW12NTRMU3ZhZnRxa3Z1TURVT0lCLW9YM01R?oc=5>
 
 ### 2026-07-05 09:38  (9 条)
 
