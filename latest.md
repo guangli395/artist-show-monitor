@@ -1,48 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-05 17:01**
-- 本轮扫到 5910 条, 新增 **4** 条
+- 最近更新: **2026-07-05 18:35**
+- 本轮扫到 5913 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (3 条)
 
-### 特朗普：哈梅内伊葬礼上一次攻击就能全部干掉伊朗高层，但不会这么做，这样就没人谈判了
+### 北约峰会前:泽连斯基和普京都在美国独立250周年致电特朗普
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-07-05 17:50
+- 链接: <https://news.google.com/rss/articles/CBMimwNBVV95cUxNa1dWSGEyeVFaTElfZVNSaDBLVk04RjhSOHBUUXJNMDVPX1NrWTI5UFpuUGNfTHFfTzhhZkxiMkNJWWtNYnJTM2lWS0VRbjJxZ01wQ01CUUlwTTJEN2VCalFoX2RRWkZXdEt1Z0NyR1NLdzhqVmJLVk9SLTdUMXItMlJPQWxkMWxvQTFxYThLS0NtS1BlRmR3OXJDUDgycW9JNFV3bTVzV1Npb3JaRmQ2dDYtbzR6WENmMUFZVG01RnJaTk5XQWxoT3ktRS1nT1JDTFZRNVNGVExiY29HTGV6WTlGeW5qWHplWXA3N0JqNmFlVjBHel9uRjBPT191Zm1zS2NnRDZXUVVoX0s1OHpWd2g4anotM1JPNEVuVlJ1Nk81M2dia0xjOFZja1gxYmRQU2tsMDljbm5sRzM0OEl1RmljdFktc1pEQU9XSV9XT3BYSzJjbDYtTFhEZ2J2Zk5vTmVnejVYQ1hkSEZYQmtoUHRyV3Nnc3FmTm1KeGc1b1dKYmtPWDVzRk1OZmFZT3pXeW5nTXA4XzZOT0k?oc=5>
+
+### 对话｜美伊谈判“降格”背后：特朗普的选战时间表与伊朗的“海峡筹码”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-05 16:41
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1USEhVOTUyYmhFMDBUN21EZ0RCemxxbmpBeGZfcm9lM3VVYTVQY1FoM1podVF0d091VjEtVm5GcEVxU3JocUIxQWJkMDdrV0hua05zNzNvVUhzbUI2VTJ6dzVTeEJMUkVjeHExSFZ3Nk1sUFZodDFoSg?oc=5>
+- 时间: 2026-07-03 23:20
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaHBUTVMyWkZEa0FMdW5rX0pNNGt6ZE5iZzAxaWtPR2NEc2Nldzh0QkdWcTRlcjRpUDFjX3lYS1B1X3JZdTB0ODVJb0RNaEV4b3Y5VlV0aF9wOHYxV0VXWnc0eG8tLXRyd2xNY0JoVGdZS3FvOFRQdDJJVmVTNGd1ektOVzVMcDZPWkk4X2VpZlpQdmw1aTVwQkliUDJzSVNzc05ad2pSSGI5R2RXRE9sRlhCMmgtRmdCcHMyeUtsRTdsaFhPQ3BScFBxWmJlR2I0?oc=5>
 
-### 伊朗人高呼“复仇” 特朗普称“全是假哭”遭驳斥
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-05 16:07
-- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxQZnotMjFobXoxTmhqbUQtZDdiT3ZSS0hDSUQyNzEtNzdHbkQ1aThtRTlNeXBCc3BMTVhpOFlPTGxlS0xELWVhX1Jaa3NxNFBJajRNbWdycUdzeE51cTRmOWY1c21HOFYwU2FkNmhKa0FXY18teDZLTi0yaV9qVVBoeEhkbzVaTUFRN2dqdTFtYklqQldM?oc=5>
-
-### 当总统一年狂赚20亿，特朗普说全靠股市，这套说辞骗得了谁？
+### 去年狂赚22亿，特朗普：我不拿年薪，当总统有“更大目标”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-05 16:00
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTFBtQUk5eTZCcFFndjlHMHhNZC1mdmFUazNXcmVKcTkwUExGaWd3MjdjVEx2NFJJUHFNbnRzUmhpSEtGVGh2Rlh2U2hPOWdBbVVXUHpPNEZtWXpEbUVBV0J1SWdDalpmQlVGanZVOExyRlRGeldZRUE?oc=5>
-
-### 普京与特朗普通话85分钟
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-05 01:31
-- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxOMlNwZTZTdlViNlM1MzBmemtQTmdVaFlxc2FzSG1tOEdBeHdFcmtEc0ZvMGotRVk3MDV4ZzI4WGVaQm4tWlhCZF9XdC1IeHZfNkQwd18wUzQ0ZV9EUlI2S1RvbWg0R2laVm5pWEJUU29aU3ExemZfSG0yMkFyeEE3MHk1NA?oc=5>
+- 时间: 2026-07-03 23:04
+- 链接: <https://news.google.com/rss/articles/CBMizgFBVV95cUxNeUNWSVI2UXR4aUZkbXYwc2Q3WWxnNXVqQnVHbl82Rm5PV1BnQUY0bXlPS191MWhXNkUzMkl6VzA3bTBSMGVpd0tHTElJOTVyRXJnYmJTX0w1ZGhVbnZzUlUzVERINDhHZDg4ekFaVXBucGFTczRtUHhaSERYYWVtQ2RmcmFXb0EyT2Y4dmhfOU9IazVTTEllUWhybkthcUkxdXRDMXdLUEhfTDJKcEE0ZUJodkswaFFWc042VnZVSVZVM2RuNV9uak5MaG1pUQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-05 18:35  (3 条)
+
+- **特朗普** | 北约峰会前:泽连斯基和普京都在美国独立250周年致电特朗普 <https://news.google.com/rss/articles/CBMimwNBVV95cUxNa1dWSGEyeVFaTElfZVNSaDBLVk04RjhSOHBUUXJNMDVPX1NrWTI5UFpuUGNfTHFfTzhhZkxiMkNJWWtNYnJTM2lWS0VRbjJxZ01wQ01CUUlwTTJEN2VCalFoX2RRWkZXdEt1Z0NyR1NLdzhqVmJLVk9SLTdUMXItMlJPQWxkMWxvQTFxYThLS0NtS1BlRmR3OXJDUDgycW9JNFV3bTVzV1Npb3JaRmQ2dDYtbzR6WENmMUFZVG01RnJaTk5XQWxoT3ktRS1nT1JDTFZRNVNGVExiY29HTGV6WTlGeW5qWHplWXA3N0JqNmFlVjBHel9uRjBPT191Zm1zS2NnRDZXUVVoX0s1OHpWd2g4anotM1JPNEVuVlJ1Nk81M2dia0xjOFZja1gxYmRQU2tsMDljbm5sRzM0OEl1RmljdFktc1pEQU9XSV9XT3BYSzJjbDYtTFhEZ2J2Zk5vTmVnejVYQ1hkSEZYQmtoUHRyV3Nnc3FmTm1KeGc1b1dKYmtPWDVzRk1OZmFZT3pXeW5nTXA4XzZOT0k?oc=5>
+- **特朗普** | 对话｜美伊谈判“降格”背后：特朗普的选战时间表与伊朗的“海峡筹码” <https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaHBUTVMyWkZEa0FMdW5rX0pNNGt6ZE5iZzAxaWtPR2NEc2Nldzh0QkdWcTRlcjRpUDFjX3lYS1B1X3JZdTB0ODVJb0RNaEV4b3Y5VlV0aF9wOHYxV0VXWnc0eG8tLXRyd2xNY0JoVGdZS3FvOFRQdDJJVmVTNGd1ektOVzVMcDZPWkk4X2VpZlpQdmw1aTVwQkliUDJzSVNzc05ad2pSSGI5R2RXRE9sRlhCMmgtRmdCcHMyeUtsRTdsaFhPQ3BScFBxWmJlR2I0?oc=5>
+- **特朗普** | 去年狂赚22亿，特朗普：我不拿年薪，当总统有“更大目标” <https://news.google.com/rss/articles/CBMizgFBVV95cUxNeUNWSVI2UXR4aUZkbXYwc2Q3WWxnNXVqQnVHbl82Rm5PV1BnQUY0bXlPS191MWhXNkUzMkl6VzA3bTBSMGVpd0tHTElJOTVyRXJnYmJTX0w1ZGhVbnZzUlUzVERINDhHZDg4ekFaVXBucGFTczRtUHhaSERYYWVtQ2RmcmFXb0EyT2Y4dmhfOU9IazVTTEllUWhybkthcUkxdXRDMXdLUEhfTDJKcEE0ZUJodkswaFFWc042VnZVSVZVM2RuNV9uak5MaG1pUQ?oc=5>
 
 ### 2026-07-05 17:01  (4 条)
 
