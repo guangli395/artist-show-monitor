@@ -1,39 +1,13 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-04 23:56**
-- 本轮扫到 5864 条, 新增 **3** 条
+- 最近更新: **2026-07-05 02:47**
+- 本轮扫到 5864 条, 新增 **0** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮无新增
 
-### 美国250岁生日，特朗普又打起“反共牌”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-07-04 23:29
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1GQVNvUVdsRGZZZjlHTXQxZmxROU5ZMGxaYXVja1JJMzUwZHpZY3doQ0RFUFRxbnhxb1IxdzFRZUZsSWRXN3o2X08xQnhFcC13SjgzYklVU0lQVE5UQjBvaUJjN3lXLXBPSEE?oc=5>
-
-### 内塔尼亚胡将见特朗普，特朗普：他知道“谁是老大”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-04 23:27
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE1ITXF5MWVsdFM5V2xIVlMwRjNZMHgtcTJXenphY3FGUC1PRVBkM3R3anRmcWpqNWFLSG5JNjBLRFJaeUw1VXZxQkRxREZDVXQ1STFmQjA1YS16a0kzckUxNGhjd2Y2VmhhREtNZU1tby0zamtWcnc?oc=5>
-
-### 普京与特朗普通话 重申仍倾向政治解决乌克兰问题
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-07-04 23:27
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xVFJpMEptbmhDY3p2aS1lbzd6WDl2NzRkcUg5bTBrZmUxamZHTFN0cWFoQ2pwUklPZUdEem9FMk9tb3dDRGNHS2dqbmFIWjlCQmFhOHk3VUJQQkxZeG9RSXk2RGg?oc=5>
-
-
----
-
+数据库里所有演出/动态都已见过,暂无新增。
 ## 历史发现
 
 ### 2026-07-04 23:56  (3 条)
