@@ -1,68 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-05 14:27**
-- 本轮扫到 5903 条, 新增 **7** 条
+- 最近更新: **2026-07-05 15:45**
+- 本轮扫到 5906 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (3 条)
 
-### 蔡徐坤新歌《没有意外》林宥嘉作曲,你听完有没有被惊艳到?
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907v62i.html>
-
-### 蔡徐坤新歌合作林宥嘉,这是什么神仙组合
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907v5w2.html>
-
-### 特朗普同日与俄乌通话 与普京密谈85分钟
+### 深度 | 美国独立日、北约峰会前，特朗普的两通电话释放什么信号？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 每日经济新闻
-- 时间: 2026-07-05 03:00
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBNaUd1VkJ4WF9QTzR4cHQ0LTJUdktmLWlVb0NTZ1VyQ0plUXlabnF2UFpwZVFRajRJLVRrNXNCeEU2aTQyNXQyc2RUVExfR1Z3QzJqSE82ekZ5eUVoQUpfUGttbmpZUQ?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-07-05 12:41
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE92bkU0cTlnUzZDUGZLaTBNZ1d6dHU1N3V4bndFU05faDZuQld0X1UxUlZVd1JJbU5uUkRjTTNZdzkwcjRSMDI5UG13bVY3YW5pMVAwZXhMMTZBLUE0T1RqekRQQWM2WF84NjQtN3J0c1Q3ekZOSjNMZw?oc=5>
 
-### 以方称内塔尼亚胡近期将与特朗普会面
+### 美国总统特朗普周五签署11份特赦令
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中国日报网
-- 时间: 2026-07-05 05:05
-- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTFA1VDFOT1FCeFFfUGI3amJjVXd5WGlmdlBHeFJ2d1B2ZGdRMzRDT3VXSnZBZUwwN0xhenN0eUFELXBxV3AyV2lOWmV5U0t1Y1BvSGh1LUJrT0thaDRTNFlmMXR5aE5kVGJrZGNOSFZyQ29WNWF1UEdLSlBSWTM?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-07-04 15:42
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZEpBX3lHdV90YTNyb1FtdHV4S1hBMXVEYnlZNUJGZWE4WXJXOTFKeGRlNDhsT3EwTFBIMDlQbktTVm1palZxbjd4amdkNXc1TExKWGRlSGlkS29WdTVBV1N6OURvY1NITk45NUJOTWlwT2JRWE5CWjZ1T01Od0ZnY0JTRlg5cUotcjRlQU9VbGM5TWJQeHNCR0RiY0QwZFJtNmJ1UE9OSzJDQ0VoZC1nSlFvdHBKYi1Xc2thQURHbzNQRnFkUlE4TVBndGh5MFVWaGJMcG5rS2VvSWV0WlhR?oc=5>
 
-### 美媒：特朗普如何把北约变成一台提款机
+### 特朗普又把自己加上了“总统山”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-07-05 13:38
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE05RFAtVVE0OC1KbWV5bWFHUVhqQzhpS0R4V3djWUpXRmpWODYzVVlIOWc4TUxhY2R5Nnd6LVY3NnpQOXJpN2p6QXdTUjM?oc=5>
-
-### 一图看懂｜宣布关税后大量交易，特朗普账户如何“精准”炒股
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-07-04 23:18
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WLVFVbzk0a2pjX2laOHJ3SncyRkFFU2JKQWdjcV92SjN6d2JZVzZsV3g3eUhRaUhnLUloNVpoRmwySGxiRGw1REk3UndLbXIwQ1VWUlVwRThhTDBNS1BvWQ?oc=5>
-
-### 特朗普又玩AI！把自己P到总统山上：自称未来是最伟大的总统
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 驱动之家
-- 时间: 2026-07-05 07:36
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE1BSWE5LXVBT3RwYzNsM1NqZzlfWVhJbzJvVVRlajF5R1RMX1NTMHpOeUIxel9hYVhVOEgxWEZTRnZCc2NITXF0dGZ4ZE9SY0dyaTRjUEpvd0Y?oc=5>
+- 时间: 2026-07-05 10:57
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9aWTNRbFdSU1N6UmhBM0RQVkNtMW93Z3JJVEk3WnVXVTFEdjllSWFjeTlGa2ppZi00RU5TU0RtWTVqdGpicUxQUFN1VFc?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-05 15:45  (3 条)
+
+- **特朗普** | 深度 | 美国独立日、北约峰会前，特朗普的两通电话释放什么信号？ <https://news.google.com/rss/articles/CBMieEFVX3lxTE92bkU0cTlnUzZDUGZLaTBNZ1d6dHU1N3V4bndFU05faDZuQld0X1UxUlZVd1JJbU5uUkRjTTNZdzkwcjRSMDI5UG13bVY3YW5pMVAwZXhMMTZBLUE0T1RqekRQQWM2WF84NjQtN3J0c1Q3ekZOSjNMZw?oc=5>
+- **特朗普** | 美国总统特朗普周五签署11份特赦令 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZEpBX3lHdV90YTNyb1FtdHV4S1hBMXVEYnlZNUJGZWE4WXJXOTFKeGRlNDhsT3EwTFBIMDlQbktTVm1palZxbjd4amdkNXc1TExKWGRlSGlkS29WdTVBV1N6OURvY1NITk45NUJOTWlwT2JRWE5CWjZ1T01Od0ZnY0JTRlg5cUotcjRlQU9VbGM5TWJQeHNCR0RiY0QwZFJtNmJ1UE9OSzJDQ0VoZC1nSlFvdHBKYi1Xc2thQURHbzNQRnFkUlE4TVBndGh5MFVWaGJMcG5rS2VvSWV0WlhR?oc=5>
+- **特朗普** | 特朗普又把自己加上了“总统山” <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9aWTNRbFdSU1N6UmhBM0RQVkNtMW93Z3JJVEk3WnVXVTFEdjllSWFjeTlGa2ppZi00RU5TU0RtWTVqdGpicUxQUFN1VFc?oc=5>
 
 ### 2026-07-05 14:27  (7 条)
 
