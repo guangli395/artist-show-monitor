@@ -1,25 +1,43 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-05 20:09**
-- 本轮扫到 5917 条, 新增 **4** 条
+- 最近更新: **2026-07-05 21:32**
+- 本轮扫到 5924 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (7 条)
 
-### 林宥嘉和蔡徐坤会再次合作出新歌吗？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801x4e4.html>
-
-### 特朗普邀教皇访美被拒！利奥十四世飞移民岛，7月4日讲话句句打脸
+### 世界杯：国际足联撤销美国前锋巴洛贡自动停赛 特朗普致谢 比利时足协表示震惊
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-07-05 19:07
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE5ZRURWZGNuMHRpRkpqOGp1LWo2NkxHWm0zMm5QTnFheTlDeF9jU3pYTUdyWE9ReVFiTVJoWVVpcmxfVC1TNTJQc3JZX3c0XzIzajNBZFhDT25WejNzQ09aMHR4RzZaUjFXMWhGX3ZfeXd2UQ?oc=5>
+- 场馆: RFI
+- 时间: 2026-07-05 21:29
+- 链接: <https://news.google.com/rss/articles/CBMi-wNBVV95cUxOcUZUYTN6Uk9GU2RZUVRCaWJ5WmNQaEtyY3BXMndBYUZ0Y3NEa05FaE1WWXlKcnlGLWlXMUdVWkhCeVZ4RTJmOEFnbkJEd0NtclNpcFgwa1FZa0lWUmliOG80UWNCcUpoR1pQckxrZFhFTktxZ1UyNW02dmpicUpZcDNhXzBFOUZEQ0FTQWxzck92WWEwbWNQRFFGX2NXLS1vSzNqazNJbVlaRVgwZHBEanh5WDNjRGtkZUJMSE9TdC05QnJlLVlJaFpqUW5ob1MxZXg3UEd3eF9DYWlaX3JEZFZneVNHbHZQRGtMTzJOUEdQWWVhVlg0YmcwSUJxY1hWU21qeXpybUpUZFBNREJoUzlrc1VHNmxEZ0pYNlBSd1FqUjNMeGpqbUpGTUgyNVRqWW5MeElKS0FyU3FTZE5GYWdldGdhaUdudlRSTmY3YmFSd19ETnVXRE9VdC03TFFNSUg0aE9SbzJKS0hHbVdkWjNJRnJjcjZ1Q2UwZjc4WWJWLUJYeXVJMElRY0xNbHlMOHpqV1BBMnBoQklPMUVNYmdNdTFLbGZJQXlaMjZxcnMyQTZpRExhS0M1YVpfaVhMakNuLW11ZEdFOFA1LW1NdjN3b0RKSlBuRUp6a0RQSDFVbkhTdjlId0xpOU9jeTdKc0lyc1NpZ0Qzdzg?oc=5>
+
+### “打卡”不能停，特朗普秀“特朗普版”百元美钞
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-05 20:11
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9zNS02TVJNZFZmc2JRRU9mUm5YOWRRNVFnYTViS29iR1lNNmYzVE5QYXRxZHByellqV1pPREp5b1R4TnRQcmFYWDUxVmJOWkk3LXZxN2VvSU52M2k2QWM0NHZOWEdHSkNkaDg5UkQ5N2pSQ0otdGtRcg?oc=5>
+
+### 普京电话告知特朗普，俄军正全线发起进攻
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-05 20:06
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5nUzVoTVpsY09kQjg1WlB6anJtUmI0eFp6b1QtUTVpNUJqS2g0VUdIandweURSMDBjTmRYdFVGcldvRFFBLTEyTy1YV3Q2ZE1IY0VWUlE3YTJEME53WnJCZEgxXzg0NHVVbnl4cWhVcVRIYjB6bnRhUg?oc=5>
+
+### 特朗普：伊朗举国哀悼哈梅内伊，让我感到惊讶
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-07-05 05:13
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBfdTNKVHZjbEg1S2VPZWl3Yi1EUWNpTGc4dUZuX0NhbWZIeW5mTVZ6YWtjN0lqRXV6ZklPMWR4MEhJTU5nMUZSTFQ0dkZ2YlkyQS1KYjVUX1g3OF9BZDVTZDNMaVBKZ2JCWWxWUHA0bnByRE4wM3FZVg?oc=5>
 
 ### 对话｜美伊谈判“降格”背后：特朗普的选战时间表与伊朗的“海峡筹码”
 
@@ -27,20 +45,38 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-07-03 23:20
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWWpJZ1ZRQmdpNmxNZXNJNzRwM3dGVVplNjBIdW1wSjh1c2NuZjI2LU5zcnd1WXBadnNYbFNQTXczREVSZUZKdjRRVkh6b3BVTnZfcF9ydG44aTNZNDVhWUtyZ3RpS0xBR0lQRmVQQTgtN3NWOFozODZpYXBEOFZlcUVReVVxd2lYdnV2dkQ3bmNpam52cFh1alRuZVVNbmRDMlZjdUZFd3dNRE1BVF91dUlzMkFDMEpMMVBENm50X2FZQ0lsWnNEVEY1ZnJaelpR?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcU1hRF9FRkZTTFFLNlQ4ZjZsVlBETjFRU3Y2WDdBOUlQa0pwRUswSkw0V0VTMjdleGM1WkxHLVJGbkNyendFUXFrVTZaT2c3dmtLZzRHd25fWi1FQ3dVYzBGWUpMb0FhWDU3YlBZZDlZaWRQWW4tQVV2LVNkMHZISGVqbFNFODFrMFNjbHg4YzhsS09LYWlKQXlEU3BxX0NReHVuVk1NbGxseGNhOGpyTFhoYkNLYnV1M0tvMjVrSVFfQ3MxZFZnTFIzRW9lcWgx?oc=5>
 
-### 内塔尼亚胡近期将访美与特朗普会晤
+### 特朗普总统在国家大草坪发表讲话 庆祝美国建国250周年
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-07-05 00:08
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvWE9nbWZEVjUycDFMTVhocVRSdzhPenJuY2JObWRtVFhVaFFpaXMtWVdJUGxDS25kV3VKcDlXV0RBZjJKTnpFekVZa05sUW11STZOSjlJZ0RQU2VwMVdBeEhuVXI?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-07-05 05:49
+- 链接: <https://news.google.com/rss/articles/CBMixgFBVV95cUxNOVMtRENxMkVpd3d1U1hfLUhFZVpJTFZpamtNNmdUdHZNSm5TTTJNZGdqRTZ4c2FJSVFWVFJZUUdjM0M2UnlxT3pya0FTSTVNU2hXREZjdG1FVVB1bUYzVjFjX0VYNmhuZEtES3E5anA1Y2VuQUx3VG50RE5KQ3FjYXk2Y2ppd084dHJkMGhLZ0Q0QnZUblUzcjdhaHlEU1VXaGh1OHM4NE5JRlJETFB0NG5aeVkyaTcxUmZvVjZqdUdKQktUemfSAcYBQVVfeXFMTTlTLURDcTJFaXd3dVNYXy1IRWVaSUxWaWprTTZnVHR2TUpuU00yTWRnakU2eHNhSUlRVlRSWVFHYzNDNlJ5cU96cmtBU0k1TVNoV0RGY3RtRVVQdW1GM1YxY19FWDZobmRLREtxOWpwNWNlbkFMd1RudEROSkNxY2F5NmNqaXdPOHRyZDBoS2dENEJ2VG5VM3I3YWh5RFNVV2hodThzODROSUZSRExQdDRuWnlZMmk3MVJmb1Y2anVHSkJLVHpn?oc=5>
+
+### 近百萬投資者在TRUMP迷因幣遭受38億美元損失| 乌克兰新闻
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Межа. Новини України.
+- 时间: 2026-07-05 20:45
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1IVm1UbDVaN0FnREJScTRENXdzN05lYUw4c0R3bkhJcE1DMUVFeGFPYmN3UEJHcENfd3FnU3RuUElIOHJ4bDBiTnU5UC15di1FQTJzQzRPT3BNN1A4Z1BBOUs1RmpzemdB?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-05 21:32  (7 条)
+
+- **特朗普** | 世界杯：国际足联撤销美国前锋巴洛贡自动停赛 特朗普致谢 比利时足协表示震惊 <https://news.google.com/rss/articles/CBMi-wNBVV95cUxOcUZUYTN6Uk9GU2RZUVRCaWJ5WmNQaEtyY3BXMndBYUZ0Y3NEa05FaE1WWXlKcnlGLWlXMUdVWkhCeVZ4RTJmOEFnbkJEd0NtclNpcFgwa1FZa0lWUmliOG80UWNCcUpoR1pQckxrZFhFTktxZ1UyNW02dmpicUpZcDNhXzBFOUZEQ0FTQWxzck92WWEwbWNQRFFGX2NXLS1vSzNqazNJbVlaRVgwZHBEanh5WDNjRGtkZUJMSE9TdC05QnJlLVlJaFpqUW5ob1MxZXg3UEd3eF9DYWlaX3JEZFZneVNHbHZQRGtMTzJOUEdQWWVhVlg0YmcwSUJxY1hWU21qeXpybUpUZFBNREJoUzlrc1VHNmxEZ0pYNlBSd1FqUjNMeGpqbUpGTUgyNVRqWW5MeElKS0FyU3FTZE5GYWdldGdhaUdudlRSTmY3YmFSd19ETnVXRE9VdC03TFFNSUg0aE9SbzJKS0hHbVdkWjNJRnJjcjZ1Q2UwZjc4WWJWLUJYeXVJMElRY0xNbHlMOHpqV1BBMnBoQklPMUVNYmdNdTFLbGZJQXlaMjZxcnMyQTZpRExhS0M1YVpfaVhMakNuLW11ZEdFOFA1LW1NdjN3b0RKSlBuRUp6a0RQSDFVbkhTdjlId0xpOU9jeTdKc0lyc1NpZ0Qzdzg?oc=5>
+- **特朗普** | “打卡”不能停，特朗普秀“特朗普版”百元美钞 <https://news.google.com/rss/articles/CBMieEFVX3lxTE9zNS02TVJNZFZmc2JRRU9mUm5YOWRRNVFnYTViS29iR1lNNmYzVE5QYXRxZHByellqV1pPREp5b1R4TnRQcmFYWDUxVmJOWkk3LXZxN2VvSU52M2k2QWM0NHZOWEdHSkNkaDg5UkQ5N2pSQ0otdGtRcg?oc=5>
+- **特朗普** | 普京电话告知特朗普，俄军正全线发起进攻 <https://news.google.com/rss/articles/CBMieEFVX3lxTE5nUzVoTVpsY09kQjg1WlB6anJtUmI0eFp6b1QtUTVpNUJqS2g0VUdIandweURSMDBjTmRYdFVGcldvRFFBLTEyTy1YV3Q2ZE1IY0VWUlE3YTJEME53WnJCZEgxXzg0NHVVbnl4cWhVcVRIYjB6bnRhUg?oc=5>
+- **特朗普** | 特朗普：伊朗举国哀悼哈梅内伊，让我感到惊讶 <https://news.google.com/rss/articles/CBMieEFVX3lxTFBfdTNKVHZjbEg1S2VPZWl3Yi1EUWNpTGc4dUZuX0NhbWZIeW5mTVZ6YWtjN0lqRXV6ZklPMWR4MEhJTU5nMUZSTFQ0dkZ2YlkyQS1KYjVUX1g3OF9BZDVTZDNMaVBKZ2JCWWxWUHA0bnByRE4wM3FZVg?oc=5>
+- **特朗普** | 对话｜美伊谈判“降格”背后：特朗普的选战时间表与伊朗的“海峡筹码” <https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcU1hRF9FRkZTTFFLNlQ4ZjZsVlBETjFRU3Y2WDdBOUlQa0pwRUswSkw0V0VTMjdleGM1WkxHLVJGbkNyendFUXFrVTZaT2c3dmtLZzRHd25fWi1FQ3dVYzBGWUpMb0FhWDU3YlBZZDlZaWRQWW4tQVV2LVNkMHZISGVqbFNFODFrMFNjbHg4YzhsS09LYWlKQXlEU3BxX0NReHVuVk1NbGxseGNhOGpyTFhoYkNLYnV1M0tvMjVrSVFfQ3MxZFZnTFIzRW9lcWgx?oc=5>
+- **特朗普** | 特朗普总统在国家大草坪发表讲话 庆祝美国建国250周年 <https://news.google.com/rss/articles/CBMixgFBVV95cUxNOVMtRENxMkVpd3d1U1hfLUhFZVpJTFZpamtNNmdUdHZNSm5TTTJNZGdqRTZ4c2FJSVFWVFJZUUdjM0M2UnlxT3pya0FTSTVNU2hXREZjdG1FVVB1bUYzVjFjX0VYNmhuZEtES3E5anA1Y2VuQUx3VG50RE5KQ3FjYXk2Y2ppd084dHJkMGhLZ0Q0QnZUblUzcjdhaHlEU1VXaGh1OHM4NE5JRlJETFB0NG5aeVkyaTcxUmZvVjZqdUdKQktUemfSAcYBQVVfeXFMTTlTLURDcTJFaXd3dVNYXy1IRWVaSUxWaWprTTZnVHR2TUpuU00yTWRnakU2eHNhSUlRVlRSWVFHYzNDNlJ5cU96cmtBU0k1TVNoV0RGY3RtRVVQdW1GM1YxY19FWDZobmRLREtxOWpwNWNlbkFMd1RudEROSkNxY2F5NmNqaXdPOHRyZDBoS2dENEJ2VG5VM3I3YWh5RFNVV2hodThzODROSUZSRExQdDRuWnlZMmk3MVJmb1Y2anVHSkJLVHpn?oc=5>
+- **Trump** | 近百萬投資者在TRUMP迷因幣遭受38億美元損失| 乌克兰新闻 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1IVm1UbDVaN0FnREJScTRENXdzN05lYUw4c0R3bkhJcE1DMUVFeGFPYmN3UEJHcENfd3FnU3RuUElIOHJ4bDBiTnU5UC15di1FQTJzQzRPT3BNN1A4Z1BBOUs1RmpzemdB?oc=5>
 
 ### 2026-07-05 20:09  (4 条)
 
