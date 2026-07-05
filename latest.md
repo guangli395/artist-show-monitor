@@ -1,40 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-05 15:45**
-- 本轮扫到 5906 条, 新增 **3** 条
+- 最近更新: **2026-07-05 17:01**
+- 本轮扫到 5910 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (4 条)
 
-### 深度 | 美国独立日、北约峰会前，特朗普的两通电话释放什么信号？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-05 12:41
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE92bkU0cTlnUzZDUGZLaTBNZ1d6dHU1N3V4bndFU05faDZuQld0X1UxUlZVd1JJbU5uUkRjTTNZdzkwcjRSMDI5UG13bVY3YW5pMVAwZXhMMTZBLUE0T1RqekRQQWM2WF84NjQtN3J0c1Q3ekZOSjNMZw?oc=5>
-
-### 美国总统特朗普周五签署11份特赦令
+### 特朗普：哈梅内伊葬礼上一次攻击就能全部干掉伊朗高层，但不会这么做，这样就没人谈判了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-04 15:42
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZEpBX3lHdV90YTNyb1FtdHV4S1hBMXVEYnlZNUJGZWE4WXJXOTFKeGRlNDhsT3EwTFBIMDlQbktTVm1palZxbjd4amdkNXc1TExKWGRlSGlkS29WdTVBV1N6OURvY1NITk45NUJOTWlwT2JRWE5CWjZ1T01Od0ZnY0JTRlg5cUotcjRlQU9VbGM5TWJQeHNCR0RiY0QwZFJtNmJ1UE9OSzJDQ0VoZC1nSlFvdHBKYi1Xc2thQURHbzNQRnFkUlE4TVBndGh5MFVWaGJMcG5rS2VvSWV0WlhR?oc=5>
+- 时间: 2026-07-05 16:41
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1USEhVOTUyYmhFMDBUN21EZ0RCemxxbmpBeGZfcm9lM3VVYTVQY1FoM1podVF0d091VjEtVm5GcEVxU3JocUIxQWJkMDdrV0hua05zNzNvVUhzbUI2VTJ6dzVTeEJMUkVjeHExSFZ3Nk1sUFZodDFoSg?oc=5>
 
-### 特朗普又把自己加上了“总统山”
+### 伊朗人高呼“复仇” 特朗普称“全是假哭”遭驳斥
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-05 10:57
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9aWTNRbFdSU1N6UmhBM0RQVkNtMW93Z3JJVEk3WnVXVTFEdjllSWFjeTlGa2ppZi00RU5TU0RtWTVqdGpicUxQUFN1VFc?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-07-05 16:07
+- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxQZnotMjFobXoxTmhqbUQtZDdiT3ZSS0hDSUQyNzEtNzdHbkQ1aThtRTlNeXBCc3BMTVhpOFlPTGxlS0xELWVhX1Jaa3NxNFBJajRNbWdycUdzeE51cTRmOWY1c21HOFYwU2FkNmhKa0FXY18teDZLTi0yaV9qVVBoeEhkbzVaTUFRN2dqdTFtYklqQldM?oc=5>
+
+### 当总统一年狂赚20亿，特朗普说全靠股市，这套说辞骗得了谁？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-05 16:00
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTFBtQUk5eTZCcFFndjlHMHhNZC1mdmFUazNXcmVKcTkwUExGaWd3MjdjVEx2NFJJUHFNbnRzUmhpSEtGVGh2Rlh2U2hPOWdBbVVXUHpPNEZtWXpEbUVBV0J1SWdDalpmQlVGanZVOExyRlRGeldZRUE?oc=5>
+
+### 普京与特朗普通话85分钟
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-05 01:31
+- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxOMlNwZTZTdlViNlM1MzBmemtQTmdVaFlxc2FzSG1tOEdBeHdFcmtEc0ZvMGotRVk3MDV4ZzI4WGVaQm4tWlhCZF9XdC1IeHZfNkQwd18wUzQ0ZV9EUlI2S1RvbWg0R2laVm5pWEJUU29aU3ExemZfSG0yMkFyeEE3MHk1NA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-05 17:01  (4 条)
+
+- **特朗普** | 特朗普：哈梅内伊葬礼上一次攻击就能全部干掉伊朗高层，但不会这么做，这样就没人谈判了 <https://news.google.com/rss/articles/CBMieEFVX3lxTE1USEhVOTUyYmhFMDBUN21EZ0RCemxxbmpBeGZfcm9lM3VVYTVQY1FoM1podVF0d091VjEtVm5GcEVxU3JocUIxQWJkMDdrV0hua05zNzNvVUhzbUI2VTJ6dzVTeEJMUkVjeHExSFZ3Nk1sUFZodDFoSg?oc=5>
+- **特朗普** | 伊朗人高呼“复仇” 特朗普称“全是假哭”遭驳斥 <https://news.google.com/rss/articles/CBMilAFBVV95cUxQZnotMjFobXoxTmhqbUQtZDdiT3ZSS0hDSUQyNzEtNzdHbkQ1aThtRTlNeXBCc3BMTVhpOFlPTGxlS0xELWVhX1Jaa3NxNFBJajRNbWdycUdzeE51cTRmOWY1c21HOFYwU2FkNmhKa0FXY18teDZLTi0yaV9qVVBoeEhkbzVaTUFRN2dqdTFtYklqQldM?oc=5>
+- **特朗普** | 当总统一年狂赚20亿，特朗普说全靠股市，这套说辞骗得了谁？ <https://news.google.com/rss/articles/CBMidkFVX3lxTFBtQUk5eTZCcFFndjlHMHhNZC1mdmFUazNXcmVKcTkwUExGaWd3MjdjVEx2NFJJUHFNbnRzUmhpSEtGVGh2Rlh2U2hPOWdBbVVXUHpPNEZtWXpEbUVBV0J1SWdDalpmQlVGanZVOExyRlRGeldZRUE?oc=5>
+- **特朗普** | 普京与特朗普通话85分钟 <https://news.google.com/rss/articles/CBMigwFBVV95cUxOMlNwZTZTdlViNlM1MzBmemtQTmdVaFlxc2FzSG1tOEdBeHdFcmtEc0ZvMGotRVk3MDV4ZzI4WGVaQm4tWlhCZF9XdC1IeHZfNkQwd18wUzQ0ZV9EUlI2S1RvbWg0R2laVm5pWEJUU29aU3ExemZfSG0yMkFyeEE3MHk1NA?oc=5>
 
 ### 2026-07-05 15:45  (3 条)
 
