@@ -1,64 +1,78 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-05 12:47**
-- 本轮扫到 5896 条, 新增 **6** 条
+- 最近更新: **2026-07-05 14:27**
+- 本轮扫到 5903 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (7 条)
 
-### 美国庆独立250周年 特朗普赞美国是“人类历史杰作” 再批共产主义
+### 蔡徐坤新歌《没有意外》林宥嘉作曲,你听完有没有被惊艳到?
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-07-05 12:34
-- 链接: <https://news.google.com/rss/articles/CBMinwNBVV95cUxOeEk5aGw2d1o0ck8zS2pHS3dwQllTYjJndXlEeEpyZDVRLUJOSGF2WkgzWlNNYmNHQkkzMlFqb1FYVExYU09RMVNLdkpfVjExUnhxclRQb1hSOFJJR0ZaRGxxYTVFVUk1RXlDTXVTZ3RPY1A3WWtuV0pYSnA2am9hdHRZbTVkYWlRV08xWVJrbzBWYk1CX0NGbGVEdHMweFBQcElrLWVFMTlaQ1E5Z3FlMkxWbmFpWFc5Ym83dVdHMnRwd2RhS1pQQnc1eFJHLWNESS1VUTI4U1pzUUdPN1kzcklQZFNaR1l4a1AtMERPLWlNRzJTeGFYa1FmanBMUGptTkxUYkNNZ050VHpyZ21GRjVESTMwUW4ybVp6ZTU1S0JxZ3RSSzlXbThxS2JNQ29MeHRwMk5aeHB2aUxVTXJvQ1o1RHZuQ3l1TTBhQ0w0dHJfUGljWTBGWmdDX2psVlFxYU4ycXZLRUNnZTdRTlkyTXE3WFRZQU5YUENMa0JDOFFYWmtJZlhFNEFxSmI4QmNJLXNkMDc5X1ctUTloZ3kw?oc=5>
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907v62i.html>
 
-### 伊朗人高呼“复仇” 特朗普称“全是假哭”遭驳斥
+### 蔡徐坤新歌合作林宥嘉,这是什么神仙组合
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-07-05 11:23
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE91Q2dyOF9aVUNsU01pdG9ub0VBNG4xNW9vWlNUdzJsOEsxWXpybzhLTjJyUzNoUEZFUDVmX0tpMWltOWtsT0p4ZE1LVFlZUXgxMnBwS3RKdDBZWlpsTWpVLVZTRW9zd0NJc25MQ0Q1bHYyNk1Vd1pxVFdDOUp2SUk?oc=5>
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907v5w2.html>
 
-### 特朗普：伊朗举国哀悼哈梅内伊，让我感到惊讶
+### 特朗普同日与俄乌通话 与普京密谈85分钟
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-07-05 00:49
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5RSnA3NVV4ejZ1c2tGaUpleU4zVXEwNGNLeF9kWWZIWXNaUUtpbk96YnJULXFxZFBMeEN2akhKRkFQTXdUYmlxbktqMzhtb3l1VlZ2WENDRGk5R2YySlJwU3FBZnFzRWJlTHc?oc=5>
+- 场馆: 每日经济新闻
+- 时间: 2026-07-05 03:00
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBNaUd1VkJ4WF9QTzR4cHQ0LTJUdktmLWlVb0NTZ1VyQ0plUXlabnF2UFpwZVFRajRJLVRrNXNCeEU2aTQyNXQyc2RUVExfR1Z3QzJqSE82ekZ5eUVoQUpfUGttbmpZUQ?oc=5>
 
-### 普京与特朗普通话85分钟：普京通报俄乌冲突战场情况，俄军正在全线发起进攻，特朗普重申寻求和平解决之道
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-05 00:12
-- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTFBNNVQxWDBTYmFIcWtSSGVkeHI3WUNweUMwT0FMNkVlbTRXdDJscTg3ZjYyZUtpUFVzUDdUUW9pblFYQVdmOTBBaEM1cnBjS3lEZnE0VFB5VjhrcExTTjFKcTQ2bjdobzFyQ0VVMjk5dHByYUJRcllLZi13?oc=5>
-
-### 去年狂赚22亿，特朗普：我不拿年薪，当总统有“更大目标”
+### 以方称内塔尼亚胡近期将与特朗普会面
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-03 23:04
-- 链接: <https://news.google.com/rss/articles/CBMizgFBVV95cUxPaHZKVjhjS2swTm9yVWpNVy1jOURfOHFocmF3bWFoN3pBY0xjc042RHJIQXEtMnIwcG15RS0xNE8wTUpBaWE1U28tei1yZUJ2SlFNS2Z5LVBNSkhxU1g3VElXNzN6N1h4U2Z4aU1ZeFBOQ0gxV0U5eXJHdXlLMjQyQU9HZ004a1YtcmI2X1BSdjBzaFNXMmhYeXNzR045VVlCMjVZUldiSUxZbW1VR2FwWFg1T094T0liV0xKcklEdWxVZFVPWU9Jb2Voamk3dw?oc=5>
+- 场馆: 中国日报网
+- 时间: 2026-07-05 05:05
+- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTFA1VDFOT1FCeFFfUGI3amJjVXd5WGlmdlBHeFJ2d1B2ZGdRMzRDT3VXSnZBZUwwN0xhenN0eUFELXBxV3AyV2lOWmV5U0t1Y1BvSGh1LUJrT0thaDRTNFlmMXR5aE5kVGJrZGNOSFZyQ29WNWF1UEdLSlBSWTM?oc=5>
 
-### 加密货币暴利：特朗普是否滥权？全球政治如何应对？
+### 美媒：特朗普如何把北约变成一台提款机
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: DW.com
-- 时间: 2026-07-05 07:33
-- 链接: <https://news.google.com/rss/articles/CBMixAJBVV95cUxQeGpJb3VWOC0wVDNyLUw5bjJxRTlpTXZubmg4aFpURFdVVG9jaDYzQV9OV0czZUlSa2RyX0hVdlRfMEhOb04tVTZUNURlOURBUnIza2ZYMVJfX2gtZDdkVFhGUjIzUEZ2X3JCQ3BGNWhDQTZhX2RPeXlSQmlaekxCaE4zaXZ0Sm5aOXZNTkRRbHdNV0djMllHbC1wZWlZdHN0T0xua1NaWlhQUW44QlBWMFRKdGFCT0JxQ2ZacGZ1NWhTVTVfOFZvRzQ0ODJsVDdRWnBELVhMeXlaaUgyVjJ6MzdFX256STh3VDF1Q0oyaGlIblBJeXJ4TlIwTmlTaVhCMWtBdEtLbXBfQll5ZHNlOElEREVWTVJ5RVo0U1FndnR5UzlwTWU4UC14ekpHSE9ZV0xibHh4TmplSUw2dUl6YmRmb3PSAcQCQVVfeXFMUGJOSV9abVFTQmZfbU83YUNzQU9wSWt6cjd1eUdZeUJRYUNCU1BGM2lZY3NidFFqRkg0VjVLQjRVOEpFeEFsQnFtcGdoRnJBZUs4eW9aY0JCbFlmTHFUZFE3TGE1RWdJd3pEZ1hZMjlBeHpYNlZDZkdxdWNoTEdyUzNYbmJRcWUtZTlELUptdXphd3BEU1pTMEFESVdjQ3ZSVC02aDBmZmZFRllzRURpQllvUzZIRk04Xy1CRXVoWTlyRXVyREZyYWdhUGNDVUtoTkI5eFJ5Vlk5a3F3SlptUmtaTUJQUnFBdkJ3RE1oVV93RnJ5SEtZbk81WHJidURXRm83dWw5d1BZX05ta0NFWFozR2NIQ3FzMzkwM3FpV21YOUJvSHlaZ2Y2c3h3VEtXUkZtWnN0NFIxa0FxWlVlUHFzR1Nz?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-07-05 13:38
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE05RFAtVVE0OC1KbWV5bWFHUVhqQzhpS0R4V3djWUpXRmpWODYzVVlIOWc4TUxhY2R5Nnd6LVY3NnpQOXJpN2p6QXdTUjM?oc=5>
+
+### 一图看懂｜宣布关税后大量交易，特朗普账户如何“精准”炒股
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-07-04 23:18
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WLVFVbzk0a2pjX2laOHJ3SncyRkFFU2JKQWdjcV92SjN6d2JZVzZsV3g3eUhRaUhnLUloNVpoRmwySGxiRGw1REk3UndLbXIwQ1VWUlVwRThhTDBNS1BvWQ?oc=5>
+
+### 特朗普又玩AI！把自己P到总统山上：自称未来是最伟大的总统
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 驱动之家
+- 时间: 2026-07-05 07:36
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE1BSWE5LXVBT3RwYzNsM1NqZzlfWVhJbzJvVVRlajF5R1RMX1NTMHpOeUIxel9hYVhVOEgxWEZTRnZCc2NITXF0dGZ4ZE9SY0dyaTRjUEpvd0Y?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-05 14:27  (7 条)
+
+- **蔡徐坤** | 蔡徐坤新歌《没有意外》林宥嘉作曲,你听完有没有被惊艳到? <https://k.sina.com.cn/article_7857201856_1d45362c001907v62i.html>
+- **蔡徐坤** | 蔡徐坤新歌合作林宥嘉,这是什么神仙组合 <https://k.sina.com.cn/article_7857201856_1d45362c001907v5w2.html>
+- **特朗普** | 特朗普同日与俄乌通话 与普京密谈85分钟 <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBNaUd1VkJ4WF9QTzR4cHQ0LTJUdktmLWlVb0NTZ1VyQ0plUXlabnF2UFpwZVFRajRJLVRrNXNCeEU2aTQyNXQyc2RUVExfR1Z3QzJqSE82ekZ5eUVoQUpfUGttbmpZUQ?oc=5>
+- **特朗普** | 以方称内塔尼亚胡近期将与特朗普会面 <https://news.google.com/rss/articles/CBMifEFVX3lxTFA1VDFOT1FCeFFfUGI3amJjVXd5WGlmdlBHeFJ2d1B2ZGdRMzRDT3VXSnZBZUwwN0xhenN0eUFELXBxV3AyV2lOWmV5U0t1Y1BvSGh1LUJrT0thaDRTNFlmMXR5aE5kVGJrZGNOSFZyQ29WNWF1UEdLSlBSWTM?oc=5>
+- **特朗普** | 美媒：特朗普如何把北约变成一台提款机 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE05RFAtVVE0OC1KbWV5bWFHUVhqQzhpS0R4V3djWUpXRmpWODYzVVlIOWc4TUxhY2R5Nnd6LVY3NnpQOXJpN2p6QXdTUjM?oc=5>
+- **特朗普** | 一图看懂｜宣布关税后大量交易，特朗普账户如何“精准”炒股 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WLVFVbzk0a2pjX2laOHJ3SncyRkFFU2JKQWdjcV92SjN6d2JZVzZsV3g3eUhRaUhnLUloNVpoRmwySGxiRGw1REk3UndLbXIwQ1VWUlVwRThhTDBNS1BvWQ?oc=5>
+- **特朗普** | 特朗普又玩AI！把自己P到总统山上：自称未来是最伟大的总统 <https://news.google.com/rss/articles/CBMiWEFVX3lxTE1BSWE5LXVBT3RwYzNsM1NqZzlfWVhJbzJvVVRlajF5R1RMX1NTMHpOeUIxel9hYVhVOEgxWEZTRnZCc2NITXF0dGZ4ZE9SY0dyaTRjUEpvd0Y?oc=5>
 
 ### 2026-07-05 12:47  (6 条)
 
