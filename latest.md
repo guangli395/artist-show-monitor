@@ -1,102 +1,94 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-05 06:35**
-- 本轮扫到 5875 条, 新增 **11** 条
+- 最近更新: **2026-07-05 09:38**
+- 本轮扫到 5884 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (11 条)
+## 本轮新发现 (9 条)
 
-### 27岁王俊凯连续11年为周杰伦庆生，为何错失偶像鸟巢收官演唱会仍被全网狂搜？
+### 孙燕姿杨千嬅天津演唱会审批曲目增加 能拉动30亿文旅消费吗？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801b11e.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801wsuu.html>
 
-### 特朗普：伊朗很想和解，我准了他们一周“丧假”
+### 这两场演唱会能拉动天津文旅消费吗？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 网易新闻客户端
-- 时间: 2026-07-05 00:50
-- 链接: <https://news.google.com/rss/articles/CBMiXEFVX3lxTE5DQlRSZWMzNzJtTVlZRWNoQkpTbTlPMkJ2b2tmbDJmdzFaTEhydXlPcFozQTJqRFlsLVIxcDkwcGMtR0J0bHBqaWFPVXJmUjNBamhERnZUTkxjVVE3?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801wst4.html>
 
-### 以方称内塔尼亚胡近期将与特朗普会面
+### 周杰伦新专辑不想再拖了惊喜预告将在这天发行
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中国日报网
-- 时间: 2026-07-05 05:05
-- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTE9mdmtsMmIzSDZDeFFIQVc0cGRmdXRKbTRNQXdWbXAzRGRjVnotYVRuekJfWDdMNkltYVFfaFpZc01rbnZ3Sjd1VTI4VTlfeFNNMTBhNlozUWRDMm5lOGlqOU5GcGstTnNkSktPcXd3QjlXUEV6aXRURURNcw?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907uw9c.html>
 
-### 特朗普：内塔尼亚胡已请求在白宫与我会面，双方会晤最早可能在下周举行
+### 风暴、高温、疏散...特朗普坚持演讲：这点小雨没影响，让我们尽情狂欢
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-05 02:59
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE5DOWExYU1oamF4dEJiOHdFenNIR2hLbklEZ1g1bUc4Q09FdklVWUx4bHNVVTdwWkQzX0paVFZfMWdjWWloME1BLXltMEpOM3hrUFFHR2dWVldGcTJpcUdnei1sbUZWR3ZrWC1xZW5YdlphSnVmVkE?oc=5>
+- 时间: 2026-07-05 09:00
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTFBVVE5NZUgzbTZEQlNzZU5RUmtuY2tseE5zcEJUel9BcFNQN1hsRXF4ZmZJcXF2UHNGaEdnWFZ3amNUWjROSmFLUUw2WkdOMWdTWVZzU1hYMU0tTk5QTVgzUEpDYm4wX01QSDI0SnU3YS1yTFFJS0E?oc=5>
 
-### 内塔尼亚胡将访美与特朗普会晤；姆巴佩点球破门，法国1比0巴拉圭进8强；豆包、千问将下线智能体功能；莫斯科遭大规模袭击| 每经早参
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 每日经济新闻
-- 时间: 2026-07-04 23:56
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1XV2hxdUFLTFhEd25xWnVmRHVxamJnRW9VcjJlUGxPclU4bmF1Q3ZSQ1NnVkJ1ZmlTYkdhSDRJUFVzNGNTTFBpMTFFdjV4RGY2WWxaOWRSaFVZWWE0YzhhTVg4cExidw?oc=5>
-
-### 80岁特朗普自曝跟已故百年总统聊天？骂声四起后，白宫亮出了证据
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-07-05 02:11
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE5YdFRMRE1scDlUd3ZOTExKcGsxZkNWd2gxSlRyVUFjTGpWWGh4UUVSTnFQZ1NxMkVlNFNqNzJHQm1ITzBZenVJd0FYb285MDh3LVJRWEhCMWFwTGY5TWRJWlpxQ1dEUmhzU2pfeWJZemZhdw?oc=5>
-
-### 特朗普赦免11人，称其中6人因“修车”被起诉
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网新闻
-- 时间: 2026-07-05 00:17
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE16bGIzUEcwWlZMaThWSFNPcHdkRnl0d0JNVjdRQkJtV2xJT01KOHctakJROEg5dko4OUZfX0Y4MThZZEZncTVKZWQ5RTBkMTZwdGJyN1pvSE9mdnMtWUlBNGhUMzB5TkxmVFJZdVV1dEpJZw?oc=5>
-
-### 普京与特朗普通话85分钟
+### 特朗普：哈梅内伊葬礼上一次攻击就能全部干掉伊朗高层，但不会这么做，这样就没人谈判了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-05 03:45
-- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSFMwZlBXVFVtamk1TEl2NXlId1hZNHBuNHlsQmlPaTdldlJMakxmNEdTTzNMYWpjcFFCVFFXa0VVTS1lRzBXRUdndjZIRFlTMHc5V1BpWWlvcWcxYUZEZXdDa3lpWG81ZDZuSVgwQnN6Zms4dkhLM0tYdFFSSzl2QUd6aXRabjVQc0F3?oc=5>
+- 时间: 2026-07-05 09:26
+- 链接: <https://news.google.com/rss/articles/CBMirAJBVV95cUxNa2JpYXJPcWp3U3AzdnZFbEloSW9GY1ZoNXp0Z2t0YnFlTG9ueHBEMjJLNHBLN1Y2NFE3Z0d3NUdxQWI4ZGIzRVZ2RXJpU0gtLXJ1WUNVcDZyNVZQdW9XZnhPOUZUb3FUV0t5c1ptRzRDOFA1UE1OMy15ME56emJHbXNsNUdIT3JxYVVwbnZfZ1JVLUdOa1hDQjFGUk9NbnEyTUFOSzhfMl84Wk5iVkxzbWRyY2U2elFJUGMtUno1MnVRdm5Kd194S3V4c240SFp4M1lCWmdWZHR2elNkUE5lbGl6TVk5aVNZeGRodTZ5Y1hsajlPb19EQjFPbkNBSjRsSGNMUFJjZWlXQkU2Ym9QZlpQTlZ2aTFmTmxWTF8yUG9HQ3J3SnN5YzQ2LTI?oc=5>
 
-### 美国独立日当天，特朗普分别与普京、泽连斯基通电话
+### 特朗普：伊朗举国哀悼哈梅内伊，让我感到惊讶
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-07-05 00:17
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBxTnZUYk1PRjNnaUdTMzFUd0htQnpaeHZSWTFXZmMtczRrY04weU00MlZIQ3J4cFJ4Y0Ryd2o5ODlEVlFwZF9CQ1hxWm4zR3pwaUI1Y2FSOURlZWZqSzZobDNpZkhDT3lFRlE?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-07-05 01:01
+- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxOVEpwWEd5OGlhOHNDUEM3dEpXTE96eGJCeU5kM0NPTS1WdHNEMWFYXzYtYUt3cEJiRk5yVE1saURzSkVVVzdBdERMMUxBYUNTWVFlY1R4dkNHbWhpbVVsbnlBQjRra3hvZkdIWll4UzVGc0FjaW1qUlNscjZxdVl1a1VnM011MTFhMDUtcFZiLTFFXy05TC1Ccg?oc=5>
 
-### 川普收大礼!镶321颗钻石戒指曝光,内刻专属姓名
+### 特朗普最新受访发言：伊朗举国哀悼哈梅内伊 令我震惊 我还以为民众不喜欢他
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 文学城
-- 时间: 2026-07-05 06:06
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zVHBGVl8xcjN4U1hlbnlPUmo3S3R1eVNNbURhbVhrN2h2VHRuSVFvX1ZMQ2JCMUNyeUdPa29DbWtIVFZHVnIyaEszRkNOZURTMkotU3JNVlp4ZUxLUXdhUkZ5NUpDQml4?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-07-05 09:05
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE05QjRUUUZiOXZSXzBGMnFkNmViQjVfb1BjQUttbnBEaXdtdGJlaDlkc1pQRGdpRVBiVDE3VXpXZ1ZuYlpiSG1DMGFVbTdCZ2FwOWRxS1prSXd6Y1l5b0pTN05nclVGak0xRUVQcFNSR0k?oc=5>
 
-### 美国总统唐纳德·特朗普曾称加密货币是“骗局”。如今，这却成了他的主要赚钱工具。
+### 特朗普称内塔尼亚胡主动求访白宫，“他知道谁是老大”
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-07-04 10:47
-- 链接: <https://news.google.com/rss/articles/CBMivAFBVV95cUxOeVZ1Z1lmZHpuNUhacG0zQ0d0VFBQdW5WOTJPRXEybnZIZmdxODM1OEJLdDhWcERxSDRxcXRJUTMza09mU3g4OEw0NDJWSjFXeDQ0ekRsOUh2aWhjWnotMkdKelF5MGItc05kd1VXWWhBNG1EaG1iSFlRM184TlpMMF9iY0wtT1Q2VWRPY2RwMFBwcW1nOU8yWWM1dDlaRTRqMlJUTVJvbkUzZHNyUmpXWmZkQ2paaFZQdGNjWA?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-07-05 09:12
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE4zS0NUQzhpMHFNV09WSi15cUpMNnliT3hHQmJCRWU5cnh4YURZYmV6UjVydVR1ci05TG9CdC1kWDRIWVhIdmJld2JwRlU?oc=5>
+
+### 俄总统助理：普京提请特朗普注意，欧洲和基辅押注于俄乌冲突延续甚至升级
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-05 06:31
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1YWmNBaG1mYVJVT0ZQc1VPZW01N2FBQ0dnOE8tRlQyTEFKUTF1djVseURnYUU0bU9vVHZTZVBVZFBNUkZkSzFycG9IVDZjcm1qV1B3U2xyZkdfOURZYXZOaFFzQlpkYTNqV2JsU1JGQ1VUNzRyNGhxLQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-05 09:38  (9 条)
+
+- **周杰伦** | 孙燕姿杨千嬅天津演唱会审批曲目增加 能拉动30亿文旅消费吗？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801wsuu.html>
+- **周杰伦** | 这两场演唱会能拉动天津文旅消费吗？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801wst4.html>
+- **周杰伦** | 周杰伦新专辑不想再拖了惊喜预告将在这天发行 <https://k.sina.com.cn/article_7857201856_1d45362c001907uw9c.html>
+- **特朗普** | 风暴、高温、疏散...特朗普坚持演讲：这点小雨没影响，让我们尽情狂欢 <https://news.google.com/rss/articles/CBMidkFVX3lxTFBVVE5NZUgzbTZEQlNzZU5RUmtuY2tseE5zcEJUel9BcFNQN1hsRXF4ZmZJcXF2UHNGaEdnWFZ3amNUWjROSmFLUUw2WkdOMWdTWVZzU1hYMU0tTk5QTVgzUEpDYm4wX01QSDI0SnU3YS1yTFFJS0E?oc=5>
+- **特朗普** | 特朗普：哈梅内伊葬礼上一次攻击就能全部干掉伊朗高层，但不会这么做，这样就没人谈判了 <https://news.google.com/rss/articles/CBMirAJBVV95cUxNa2JpYXJPcWp3U3AzdnZFbEloSW9GY1ZoNXp0Z2t0YnFlTG9ueHBEMjJLNHBLN1Y2NFE3Z0d3NUdxQWI4ZGIzRVZ2RXJpU0gtLXJ1WUNVcDZyNVZQdW9XZnhPOUZUb3FUV0t5c1ptRzRDOFA1UE1OMy15ME56emJHbXNsNUdIT3JxYVVwbnZfZ1JVLUdOa1hDQjFGUk9NbnEyTUFOSzhfMl84Wk5iVkxzbWRyY2U2elFJUGMtUno1MnVRdm5Kd194S3V4c240SFp4M1lCWmdWZHR2elNkUE5lbGl6TVk5aVNZeGRodTZ5Y1hsajlPb19EQjFPbkNBSjRsSGNMUFJjZWlXQkU2Ym9QZlpQTlZ2aTFmTmxWTF8yUG9HQ3J3SnN5YzQ2LTI?oc=5>
+- **特朗普** | 特朗普：伊朗举国哀悼哈梅内伊，让我感到惊讶 <https://news.google.com/rss/articles/CBMimAFBVV95cUxOVEpwWEd5OGlhOHNDUEM3dEpXTE96eGJCeU5kM0NPTS1WdHNEMWFYXzYtYUt3cEJiRk5yVE1saURzSkVVVzdBdERMMUxBYUNTWVFlY1R4dkNHbWhpbVVsbnlBQjRra3hvZkdIWll4UzVGc0FjaW1qUlNscjZxdVl1a1VnM011MTFhMDUtcFZiLTFFXy05TC1Ccg?oc=5>
+- **特朗普** | 特朗普最新受访发言：伊朗举国哀悼哈梅内伊 令我震惊 我还以为民众不喜欢他 <https://news.google.com/rss/articles/CBMicEFVX3lxTE05QjRUUUZiOXZSXzBGMnFkNmViQjVfb1BjQUttbnBEaXdtdGJlaDlkc1pQRGdpRVBiVDE3VXpXZ1ZuYlpiSG1DMGFVbTdCZ2FwOWRxS1prSXd6Y1l5b0pTN05nclVGak0xRUVQcFNSR0k?oc=5>
+- **特朗普** | 特朗普称内塔尼亚胡主动求访白宫，“他知道谁是老大” <https://news.google.com/rss/articles/CBMiTEFVX3lxTE4zS0NUQzhpMHFNV09WSi15cUpMNnliT3hHQmJCRWU5cnh4YURZYmV6UjVydVR1ci05TG9CdC1kWDRIWVhIdmJld2JwRlU?oc=5>
+- **特朗普** | 俄总统助理：普京提请特朗普注意，欧洲和基辅押注于俄乌冲突延续甚至升级 <https://news.google.com/rss/articles/CBMieEFVX3lxTE1YWmNBaG1mYVJVT0ZQc1VPZW01N2FBQ0dnOE8tRlQyTEFKUTF1djVseURnYUU0bU9vVHZTZVBVZFBNUkZkSzFycG9IVDZjcm1qV1B3U2xyZkdfOURZYXZOaFFzQlpkYTNqV2JsU1JGQ1VUNzRyNGhxLQ?oc=5>
 
 ### 2026-07-05 06:35  (11 条)
 
