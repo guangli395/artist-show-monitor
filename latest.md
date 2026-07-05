@@ -1,19 +1,25 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-05 18:35**
-- 本轮扫到 5913 条, 新增 **3** 条
+- 最近更新: **2026-07-05 20:09**
+- 本轮扫到 5917 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (4 条)
 
-### 北约峰会前:泽连斯基和普京都在美国独立250周年致电特朗普
+### 林宥嘉和蔡徐坤会再次合作出新歌吗？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801x4e4.html>
+
+### 特朗普邀教皇访美被拒！利奥十四世飞移民岛，7月4日讲话句句打脸
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-07-05 17:50
-- 链接: <https://news.google.com/rss/articles/CBMimwNBVV95cUxNa1dWSGEyeVFaTElfZVNSaDBLVk04RjhSOHBUUXJNMDVPX1NrWTI5UFpuUGNfTHFfTzhhZkxiMkNJWWtNYnJTM2lWS0VRbjJxZ01wQ01CUUlwTTJEN2VCalFoX2RRWkZXdEt1Z0NyR1NLdzhqVmJLVk9SLTdUMXItMlJPQWxkMWxvQTFxYThLS0NtS1BlRmR3OXJDUDgycW9JNFV3bTVzV1Npb3JaRmQ2dDYtbzR6WENmMUFZVG01RnJaTk5XQWxoT3ktRS1nT1JDTFZRNVNGVExiY29HTGV6WTlGeW5qWHplWXA3N0JqNmFlVjBHel9uRjBPT191Zm1zS2NnRDZXUVVoX0s1OHpWd2g4anotM1JPNEVuVlJ1Nk81M2dia0xjOFZja1gxYmRQU2tsMDljbm5sRzM0OEl1RmljdFktc1pEQU9XSV9XT3BYSzJjbDYtTFhEZ2J2Zk5vTmVnejVYQ1hkSEZYQmtoUHRyV3Nnc3FmTm1KeGc1b1dKYmtPWDVzRk1OZmFZT3pXeW5nTXA4XzZOT0k?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-07-05 19:07
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE5ZRURWZGNuMHRpRkpqOGp1LWo2NkxHWm0zMm5QTnFheTlDeF9jU3pYTUdyWE9ReVFiTVJoWVVpcmxfVC1TNTJQc3JZX3c0XzIzajNBZFhDT25WejNzQ09aMHR4RzZaUjFXMWhGX3ZfeXd2UQ?oc=5>
 
 ### 对话｜美伊谈判“降格”背后：特朗普的选战时间表与伊朗的“海峡筹码”
 
@@ -21,20 +27,27 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-07-03 23:20
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaHBUTVMyWkZEa0FMdW5rX0pNNGt6ZE5iZzAxaWtPR2NEc2Nldzh0QkdWcTRlcjRpUDFjX3lYS1B1X3JZdTB0ODVJb0RNaEV4b3Y5VlV0aF9wOHYxV0VXWnc0eG8tLXRyd2xNY0JoVGdZS3FvOFRQdDJJVmVTNGd1ektOVzVMcDZPWkk4X2VpZlpQdmw1aTVwQkliUDJzSVNzc05ad2pSSGI5R2RXRE9sRlhCMmgtRmdCcHMyeUtsRTdsaFhPQ3BScFBxWmJlR2I0?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWWpJZ1ZRQmdpNmxNZXNJNzRwM3dGVVplNjBIdW1wSjh1c2NuZjI2LU5zcnd1WXBadnNYbFNQTXczREVSZUZKdjRRVkh6b3BVTnZfcF9ydG44aTNZNDVhWUtyZ3RpS0xBR0lQRmVQQTgtN3NWOFozODZpYXBEOFZlcUVReVVxd2lYdnV2dkQ3bmNpam52cFh1alRuZVVNbmRDMlZjdUZFd3dNRE1BVF91dUlzMkFDMEpMMVBENm50X2FZQ0lsWnNEVEY1ZnJaelpR?oc=5>
 
-### 去年狂赚22亿，特朗普：我不拿年薪，当总统有“更大目标”
+### 内塔尼亚胡近期将访美与特朗普会晤
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-03 23:04
-- 链接: <https://news.google.com/rss/articles/CBMizgFBVV95cUxNeUNWSVI2UXR4aUZkbXYwc2Q3WWxnNXVqQnVHbl82Rm5PV1BnQUY0bXlPS191MWhXNkUzMkl6VzA3bTBSMGVpd0tHTElJOTVyRXJnYmJTX0w1ZGhVbnZzUlUzVERINDhHZDg4ekFaVXBucGFTczRtUHhaSERYYWVtQ2RmcmFXb0EyT2Y4dmhfOU9IazVTTEllUWhybkthcUkxdXRDMXdLUEhfTDJKcEE0ZUJodkswaFFWc042VnZVSVZVM2RuNV9uak5MaG1pUQ?oc=5>
+- 场馆: 新京报
+- 时间: 2026-07-05 00:08
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvWE9nbWZEVjUycDFMTVhocVRSdzhPenJuY2JObWRtVFhVaFFpaXMtWVdJUGxDS25kV3VKcDlXV0RBZjJKTnpFekVZa05sUW11STZOSjlJZ0RQU2VwMVdBeEhuVXI?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-05 20:09  (4 条)
+
+- **蔡徐坤** | 林宥嘉和蔡徐坤会再次合作出新歌吗？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801x4e4.html>
+- **特朗普** | 特朗普邀教皇访美被拒！利奥十四世飞移民岛，7月4日讲话句句打脸 <https://news.google.com/rss/articles/CBMickFVX3lxTE5ZRURWZGNuMHRpRkpqOGp1LWo2NkxHWm0zMm5QTnFheTlDeF9jU3pYTUdyWE9ReVFiTVJoWVVpcmxfVC1TNTJQc3JZX3c0XzIzajNBZFhDT25WejNzQ09aMHR4RzZaUjFXMWhGX3ZfeXd2UQ?oc=5>
+- **特朗普** | 对话｜美伊谈判“降格”背后：特朗普的选战时间表与伊朗的“海峡筹码” <https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWWpJZ1ZRQmdpNmxNZXNJNzRwM3dGVVplNjBIdW1wSjh1c2NuZjI2LU5zcnd1WXBadnNYbFNQTXczREVSZUZKdjRRVkh6b3BVTnZfcF9ydG44aTNZNDVhWUtyZ3RpS0xBR0lQRmVQQTgtN3NWOFozODZpYXBEOFZlcUVReVVxd2lYdnV2dkQ3bmNpam52cFh1alRuZVVNbmRDMlZjdUZFd3dNRE1BVF91dUlzMkFDMEpMMVBENm50X2FZQ0lsWnNEVEY1ZnJaelpR?oc=5>
+- **特朗普** | 内塔尼亚胡近期将访美与特朗普会晤 <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvWE9nbWZEVjUycDFMTVhocVRSdzhPenJuY2JObWRtVFhVaFFpaXMtWVdJUGxDS25kV3VKcDlXV0RBZjJKTnpFekVZa05sUW11STZOSjlJZ0RQU2VwMVdBeEhuVXI?oc=5>
 
 ### 2026-07-05 18:35  (3 条)
 
