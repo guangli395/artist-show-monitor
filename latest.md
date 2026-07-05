@@ -1,14 +1,116 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-05 02:47**
-- 本轮扫到 5864 条, 新增 **0** 条
+- 最近更新: **2026-07-05 06:35**
+- 本轮扫到 5875 条, 新增 **11** 条
 
 ---
 
-## 本轮无新增
+## 本轮新发现 (11 条)
 
-数据库里所有演出/动态都已见过,暂无新增。
+### 27岁王俊凯连续11年为周杰伦庆生，为何错失偶像鸟巢收官演唱会仍被全网狂搜？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801b11e.html>
+
+### 特朗普：伊朗很想和解，我准了他们一周“丧假”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 网易新闻客户端
+- 时间: 2026-07-05 00:50
+- 链接: <https://news.google.com/rss/articles/CBMiXEFVX3lxTE5DQlRSZWMzNzJtTVlZRWNoQkpTbTlPMkJ2b2tmbDJmdzFaTEhydXlPcFozQTJqRFlsLVIxcDkwcGMtR0J0bHBqaWFPVXJmUjNBamhERnZUTkxjVVE3?oc=5>
+
+### 以方称内塔尼亚胡近期将与特朗普会面
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中国日报网
+- 时间: 2026-07-05 05:05
+- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTE9mdmtsMmIzSDZDeFFIQVc0cGRmdXRKbTRNQXdWbXAzRGRjVnotYVRuekJfWDdMNkltYVFfaFpZc01rbnZ3Sjd1VTI4VTlfeFNNMTBhNlozUWRDMm5lOGlqOU5GcGstTnNkSktPcXd3QjlXUEV6aXRURURNcw?oc=5>
+
+### 特朗普：内塔尼亚胡已请求在白宫与我会面，双方会晤最早可能在下周举行
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-05 02:59
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE5DOWExYU1oamF4dEJiOHdFenNIR2hLbklEZ1g1bUc4Q09FdklVWUx4bHNVVTdwWkQzX0paVFZfMWdjWWloME1BLXltMEpOM3hrUFFHR2dWVldGcTJpcUdnei1sbUZWR3ZrWC1xZW5YdlphSnVmVkE?oc=5>
+
+### 内塔尼亚胡将访美与特朗普会晤；姆巴佩点球破门，法国1比0巴拉圭进8强；豆包、千问将下线智能体功能；莫斯科遭大规模袭击| 每经早参
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 每日经济新闻
+- 时间: 2026-07-04 23:56
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1XV2hxdUFLTFhEd25xWnVmRHVxamJnRW9VcjJlUGxPclU4bmF1Q3ZSQ1NnVkJ1ZmlTYkdhSDRJUFVzNGNTTFBpMTFFdjV4RGY2WWxaOWRSaFVZWWE0YzhhTVg4cExidw?oc=5>
+
+### 80岁特朗普自曝跟已故百年总统聊天？骂声四起后，白宫亮出了证据
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-07-05 02:11
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE5YdFRMRE1scDlUd3ZOTExKcGsxZkNWd2gxSlRyVUFjTGpWWGh4UUVSTnFQZ1NxMkVlNFNqNzJHQm1ITzBZenVJd0FYb285MDh3LVJRWEhCMWFwTGY5TWRJWlpxQ1dEUmhzU2pfeWJZemZhdw?oc=5>
+
+### 特朗普赦免11人，称其中6人因“修车”被起诉
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网新闻
+- 时间: 2026-07-05 00:17
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE16bGIzUEcwWlZMaThWSFNPcHdkRnl0d0JNVjdRQkJtV2xJT01KOHctakJROEg5dko4OUZfX0Y4MThZZEZncTVKZWQ5RTBkMTZwdGJyN1pvSE9mdnMtWUlBNGhUMzB5TkxmVFJZdVV1dEpJZw?oc=5>
+
+### 普京与特朗普通话85分钟
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-05 03:45
+- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSFMwZlBXVFVtamk1TEl2NXlId1hZNHBuNHlsQmlPaTdldlJMakxmNEdTTzNMYWpjcFFCVFFXa0VVTS1lRzBXRUdndjZIRFlTMHc5V1BpWWlvcWcxYUZEZXdDa3lpWG81ZDZuSVgwQnN6Zms4dkhLM0tYdFFSSzl2QUd6aXRabjVQc0F3?oc=5>
+
+### 美国独立日当天，特朗普分别与普京、泽连斯基通电话
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者网
+- 时间: 2026-07-05 00:17
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBxTnZUYk1PRjNnaUdTMzFUd0htQnpaeHZSWTFXZmMtczRrY04weU00MlZIQ3J4cFJ4Y0Ryd2o5ODlEVlFwZF9CQ1hxWm4zR3pwaUI1Y2FSOURlZWZqSzZobDNpZkhDT3lFRlE?oc=5>
+
+### 川普收大礼!镶321颗钻石戒指曝光,内刻专属姓名
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 文学城
+- 时间: 2026-07-05 06:06
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zVHBGVl8xcjN4U1hlbnlPUmo3S3R1eVNNbURhbVhrN2h2VHRuSVFvX1ZMQ2JCMUNyeUdPa29DbWtIVFZHVnIyaEszRkNOZURTMkotU3JNVlp4ZUxLUXdhUkZ5NUpDQml4?oc=5>
+
+### 美国总统唐纳德·特朗普曾称加密货币是“骗局”。如今，这却成了他的主要赚钱工具。
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-07-04 10:47
+- 链接: <https://news.google.com/rss/articles/CBMivAFBVV95cUxOeVZ1Z1lmZHpuNUhacG0zQ0d0VFBQdW5WOTJPRXEybnZIZmdxODM1OEJLdDhWcERxSDRxcXRJUTMza09mU3g4OEw0NDJWSjFXeDQ0ekRsOUh2aWhjWnotMkdKelF5MGItc05kd1VXWWhBNG1EaG1iSFlRM184TlpMMF9iY0wtT1Q2VWRPY2RwMFBwcW1nOU8yWWM1dDlaRTRqMlJUTVJvbkUzZHNyUmpXWmZkQ2paaFZQdGNjWA?oc=5>
+
+
+---
+
 ## 历史发现
+
+### 2026-07-05 06:35  (11 条)
+
+- **周杰伦** | 27岁王俊凯连续11年为周杰伦庆生，为何错失偶像鸟巢收官演唱会仍被全网狂搜？ <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801b11e.html>
+- **特朗普** | 特朗普：伊朗很想和解，我准了他们一周“丧假” <https://news.google.com/rss/articles/CBMiXEFVX3lxTE5DQlRSZWMzNzJtTVlZRWNoQkpTbTlPMkJ2b2tmbDJmdzFaTEhydXlPcFozQTJqRFlsLVIxcDkwcGMtR0J0bHBqaWFPVXJmUjNBamhERnZUTkxjVVE3?oc=5>
+- **特朗普** | 以方称内塔尼亚胡近期将与特朗普会面 <https://news.google.com/rss/articles/CBMie0FVX3lxTE9mdmtsMmIzSDZDeFFIQVc0cGRmdXRKbTRNQXdWbXAzRGRjVnotYVRuekJfWDdMNkltYVFfaFpZc01rbnZ3Sjd1VTI4VTlfeFNNMTBhNlozUWRDMm5lOGlqOU5GcGstTnNkSktPcXd3QjlXUEV6aXRURURNcw?oc=5>
+- **特朗普** | 特朗普：内塔尼亚胡已请求在白宫与我会面，双方会晤最早可能在下周举行 <https://news.google.com/rss/articles/CBMidkFVX3lxTE5DOWExYU1oamF4dEJiOHdFenNIR2hLbklEZ1g1bUc4Q09FdklVWUx4bHNVVTdwWkQzX0paVFZfMWdjWWloME1BLXltMEpOM3hrUFFHR2dWVldGcTJpcUdnei1sbUZWR3ZrWC1xZW5YdlphSnVmVkE?oc=5>
+- **特朗普** | 内塔尼亚胡将访美与特朗普会晤；姆巴佩点球破门，法国1比0巴拉圭进8强；豆包、千问将下线智能体功能；莫斯科遭大规模袭击| 每经早参 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1XV2hxdUFLTFhEd25xWnVmRHVxamJnRW9VcjJlUGxPclU4bmF1Q3ZSQ1NnVkJ1ZmlTYkdhSDRJUFVzNGNTTFBpMTFFdjV4RGY2WWxaOWRSaFVZWWE0YzhhTVg4cExidw?oc=5>
+- **特朗普** | 80岁特朗普自曝跟已故百年总统聊天？骂声四起后，白宫亮出了证据 <https://news.google.com/rss/articles/CBMickFVX3lxTE5YdFRMRE1scDlUd3ZOTExKcGsxZkNWd2gxSlRyVUFjTGpWWGh4UUVSTnFQZ1NxMkVlNFNqNzJHQm1ITzBZenVJd0FYb285MDh3LVJRWEhCMWFwTGY5TWRJWlpxQ1dEUmhzU2pfeWJZemZhdw?oc=5>
+- **特朗普** | 特朗普赦免11人，称其中6人因“修车”被起诉 <https://news.google.com/rss/articles/CBMickFVX3lxTE16bGIzUEcwWlZMaThWSFNPcHdkRnl0d0JNVjdRQkJtV2xJT01KOHctakJROEg5dko4OUZfX0Y4MThZZEZncTVKZWQ5RTBkMTZwdGJyN1pvSE9mdnMtWUlBNGhUMzB5TkxmVFJZdVV1dEpJZw?oc=5>
+- **特朗普** | 普京与特朗普通话85分钟 <https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSFMwZlBXVFVtamk1TEl2NXlId1hZNHBuNHlsQmlPaTdldlJMakxmNEdTTzNMYWpjcFFCVFFXa0VVTS1lRzBXRUdndjZIRFlTMHc5V1BpWWlvcWcxYUZEZXdDa3lpWG81ZDZuSVgwQnN6Zms4dkhLM0tYdFFSSzl2QUd6aXRabjVQc0F3?oc=5>
+- **特朗普** | 美国独立日当天，特朗普分别与普京、泽连斯基通电话 <https://news.google.com/rss/articles/CBMiakFVX3lxTFBxTnZUYk1PRjNnaUdTMzFUd0htQnpaeHZSWTFXZmMtczRrY04weU00MlZIQ3J4cFJ4Y0Ryd2o5ODlEVlFwZF9CQ1hxWm4zR3pwaUI1Y2FSOURlZWZqSzZobDNpZkhDT3lFRlE?oc=5>
+- **Trump** | 川普收大礼!镶321颗钻石戒指曝光,内刻专属姓名 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zVHBGVl8xcjN4U1hlbnlPUmo3S3R1eVNNbURhbVhrN2h2VHRuSVFvX1ZMQ2JCMUNyeUdPa29DbWtIVFZHVnIyaEszRkNOZURTMkotU3JNVlp4ZUxLUXdhUkZ5NUpDQml4?oc=5>
+- **Trump** | 美国总统唐纳德·特朗普曾称加密货币是“骗局”。如今，这却成了他的主要赚钱工具。 <https://news.google.com/rss/articles/CBMivAFBVV95cUxOeVZ1Z1lmZHpuNUhacG0zQ0d0VFBQdW5WOTJPRXEybnZIZmdxODM1OEJLdDhWcERxSDRxcXRJUTMza09mU3g4OEw0NDJWSjFXeDQ0ekRsOUh2aWhjWnotMkdKelF5MGItc05kd1VXWWhBNG1EaG1iSFlRM184TlpMMF9iY0wtT1Q2VWRPY2RwMFBwcW1nOU8yWWM1dDlaRTRqMlJUTVJvbkUzZHNyUmpXWmZkQ2paaFZQdGNjWA?oc=5>
 
 ### 2026-07-04 23:56  (3 条)
 
