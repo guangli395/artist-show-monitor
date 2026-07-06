@@ -1,104 +1,160 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-06 12:44**
-- 本轮扫到 5963 条, 新增 **12** 条
+- 最近更新: **2026-07-06 16:15**
+- 本轮扫到 5980 条, 新增 **17** 条
 
 ---
 
-## 本轮新发现 (12 条)
+## 本轮新发现 (17 条)
 
-### 蔡徐坤新歌《没有意外》业绩很优秀,却还是被大众吐槽“难听”!
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907x8js.html>
-
-### 华语歌手谢霆锋温州演唱会官宣定档10.31 能拉动多少文旅消费？
+### 王俊凯这场个人演唱会会有嘉宾出席吗？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801xk0u.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801xnq2.html>
 
-### 谢霆锋温州演唱会能带动多少温州文旅消费？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801xjys.html>
-
-### 演唱会就这么拍！周杰伦登场啦！
+### 周杰伦华语乐坛天王献唱《功夫女足》主题曲 时隔7年周星驰新片你会去看吗
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6085757658_m16abd4ada03301cr0u.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801xn08.html>
 
-### 特朗普与普京长谈90分钟，普京再发访俄邀请
+### 23岁歌手王俊凯抢不到自己演唱会门票，为何连周杰伦也难逃抢票困境？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801b7ny.html>
+
+### 《功夫女足》主题曲演唱者周杰伦 一文看懂18年合作伏笔藏在哪
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801xkwa.html>
+
+### 周杰伦演唱的《功夫女足》主题曲风格是什么？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801xktc.html>
+
+### 明星演唱会脸贴纹身贴闪粉贴纸应援物品气氛道具摆摊专用批发-巴巴
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907xdo0.html>
+
+### 特朗普证实：已与国际足联主席通话，要求复核
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-06 02:42
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxPNS00WFM2ZWtrUXZCY1BQY3QwVjNxY1QxNC11d3JxUlVhODNIM0dBRFJ0bml4cHBwQ0I1TUZoNlp6blNVLU5iWmtCbHdabmxlUG1DQURpMHZoa2xzT3RsWTFXbGE3X1cxY0tLb0I1U1JwVHdtQWRHcHhsUW1Vc01FUXh2YkE3MmowLVh3T1JWU25CaVplSU5oMg?oc=5>
+- 场馆: 新浪军事
+- 时间: 2026-07-06 15:22
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1udFhCYWpjdXVVTjZFVnEzZFRSLVJUOWdWdFg4Y3dCYnlQdS1UaUlXMUFHRGJMVURRbld6UmFZSm9iRF9KdGRjMnJIUm8ybjZlV183b0NIazMzenEyZTRsaW40akZaRHBsS3ladzlCaDZOem8?oc=5>
 
-### “北约 3.0 时代”：各国国防开支迎来特朗普大考
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-06 11:15
-- 链接: <https://news.google.com/rss/articles/CBMi_wFBVV95cUxNVVJKMFBDOFJ5MjBQQTlhTlVoYlZpcjI1N3hON3ZwbFg3TkJwdVRjVGlDTUZXMTVHMjZwUDZjWk4zQUlFN1lJb3VNMFBqb1F3VTJaRDd3a2lTNjNyOGJ2TGpYQnFLX0tQbjFxendnS2JXcTU2a0lKdWp5elE2bWNPVVh0NURxVHZlZTVVS09OVFFIcXdJS1d5MDdzRVgxTm9Dd2FxckNERnozcTZ0MmtaTnJNVVdrWUdpNVNDQnQ3MHo3Tlg5a3htR21ySzNLLWJ6TF9pT2JBdlJZYUQ5bk8xblJVbjZpLWYzcXN4c3lNTEdwbnQwbThuU3RibUJlVGM?oc=5>
-
-### 内塔尼亚胡欲赴美游说，特朗普：他知道谁是老大！
+### 深度 | 北约峰会要演团结大戏，特朗普却要“忠诚”？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: shobserver.com
-- 时间: 2026-07-06 10:10
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE1zVHV6RzlETmxhd0tkNGc2TlJOTFRHbTdpRm43OG83SlBLeVlHeFA1clUtVV91MUFpUFQ0NEZuc2tJRktESF9PN0sxOE5yWjdoMTM5aEp2NXNLbDdHZmc?oc=5>
+- 时间: 2026-07-06 13:15
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zbENqRUpWa010RHRQaGotdW83SDR2QmZ5bHlRak8tb0FlbVNTdEtsTldpclVrdFEzRnR2TkgtMW1KWGlKTmVWdHV6dGFaWkJUZEpOcmU4MS01ekN6Y3c?oc=5>
 
-### 俩人都闹掰了，特朗普还发图挑衅梅洛尼
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-07-06 08:27
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1rOG11c3BDQ0pXVTFRZVoyVkgzOFBzYUFrdGJWZEYwT0otbmpJZzU4N3NyZ1N3LXZXYkE5dDFCRDJobUN4MGVLOUU1SzEwOW5QekdoMzhUTmJMYVhyQTJsRndHN3R4SE42SHc?oc=5>
-
-### 国际｜特朗普将访问土耳其，当地一大桥挂横幅抗议
+### 特朗普向盟国施压，美国大使称北约内部紧张局势属于“成长的烦恼”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-07-06 10:46
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2ZkVXZWxqMlBHLUlMcmg4ekZjaWF0NkNUakFGN0lOVHJlUFY2aWY0YlpPYmpfQllxbFZ5bXo3Z2hsMFgtSXpSTllXaE8xUy00V190ZlZCZUY2UWo5NUpOR2dza2Y?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-07-06 14:37
+- 链接: <https://news.google.com/rss/articles/CBMiowJBVV95cUxPZDAzMlVFTW5LaF9STmNqWmxaSF9qM1RKcEw2NTBnSW53SG53cl9KSU9XWVE4bzRnY1JndFhaMmpKdHJkZFZnM2pya0F2WnJfSVFGS1I2WjkxbGMtZi1CaEtieHhhLUtWei00ZkpSY2o1V3VKLUk1XzVFNzBLQkZERFhMRHgxQWhyWEs0X1pfRC1RREM0TkcyMVItZERhUkFha1lxOW9BdjRCU25tMGFLc0Y1WUpZNFFjbTd6dmZCWUZRaG9WVV9YeEp3cThZRE9qWWhQLWZ3b0VXNEJmLWdxNDJoSzhGa1NDbkgxSjJzcDBiNzZLZWhhTWN2MVhoZ0JBX0FSOGlGZG02ZWsxWXlCOEllZ0t2TU1Xdm9iYmNZakVlRzA?oc=5>
 
-### 美国250年纠葛史：奴隶制、原爆与特朗普2.0
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 日经中文网
-- 时间: 2026-07-06 02:14
-- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxNRkh1bUUzNWE4QkR1a1ctSXo2YTVlX2hId0Vqcms4UGl2SWZLc3JubmV6TUhoNVpuc2w3MklZX2NTTXo4SWo5dVFKZW90bTF1SGdsSE9wR25tTXhBNk1mdkdBZUJOQ1RVQnVaaTlJd29JaEZNV2IzT2M0dnNVS0dDUw?oc=5>
-
-### 特朗普：哈梅内伊葬礼上一次攻击就能全部干掉伊朗高层，但不会这么做，这样就没人谈判了
+### SpaceX总裁肖特威尔将向“特朗普账户”捐赠股票
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-07-05 09:58
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPWTNtdmpYeEYwdUZnMHFLZW5BeE1wQmo1dERJVEdmWlVvMW9YMnBLUjltNFRsSjJ5WWgxVm90S2xOdUlOYWlYYVpKcVdMRk16SFRj?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-07-06 14:37
+- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTDVmRDk1c0JVMkRTMkl0akZJQnFHOVJTbnNUdWxmV0ZWclVoSlJyajFKZ0R4d3dZNlk4amZNQ1d6NUhlbGFYRWhTUVBZanBYcUlTS0FiVXo4SEV4RTdhUjNiTDgwVlJheFJ3R2R4ZkFWQTloZTVITTZzRUNJRV9zamJjRVV1MldXZVpBTHcxSGpLdWlxMkZsMzRYdEVicUkwQW9razRDWTM3QQ?oc=5>
 
-### 以总理否认与特朗普存在裂痕 强调美以同盟关系
+### 史上首次：特朗普将开市钟搬进白宫，为“儿童账户”揭幕
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中华军事
-- 时间: 2026-07-06 07:17
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1zd2xBSWQ2bnA0RXlxTmhtWkplcVR3ZmNuTDFnVnpHY1NnWkU1LVJsTGg4VlU2NVhfR05fcTdfbG52dHNEUF9ZdGtjMEFxbVZwTHQzOS1tVHFxYVpSZi11cGJaQk9SZ0x3eTNwTEFfQVc?oc=5>
+- 场馆: 凤凰网财经
+- 时间: 2026-07-06 14:27
+- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE45bExkcEJvV1lHSWhINDRNYnpkMjdxTDFJcmZSRVNrWHBTY01QQW12cG5vQ2ZIRTZuSWxLcEkwaTdXeW95TFRwT2taRzBRV3po?oc=5>
+
+### 特朗普称其与普京进行了“非常好的通话”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 金融界
+- 时间: 2026-07-06 14:34
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE54U0tNWkpTcHR2dU5IUXpSOU1MeFZnRVk4bExDLTl4amdMNE92LWl6b3Y4T1R0STRtSUllVXllY2FJSl9zYkZNOUdKQ0xMOVoxV1R2WUNmTTNMeFNycEY0V3JLSmFOZ2otRlpodW1aMA?oc=5>
+
+### 伊朗人高呼“复仇”，特朗普称“全是假哭”遭驳斥
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-07-05 07:40
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE8zWFdMbzBLVTF5MXlJb3BtMHpnS1RUeUdXNDBPbVJTVUV0c1dnY3RRRmNXcmNPc2t1Nm5JamltU2VubzB4MFBVbXV6UWg?oc=5>
+
+### 古巴前领导人孙子：愿同特朗普谈判 愿释放政治犯人员
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-07-06 16:04
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE94bkphNGEyOEpTZGVRZWYxRjVpanRKeWkzQnkwX3d1Q1JJOEZoX2wxR2pKeE8xOTIzUmxwWWplMnZhRXJIelBVcHZqakVDSW5ocXVwWmg0MllwSnFmdG5zTkFVQUhGcnJsbUJXd2ZvQUs?oc=5>
+
+### "特朗普币"让近百万投资者亏损38亿美元 总统本人却赚了6.36亿
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: cnBeta.COM
+- 时间: 2026-07-05 23:45
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBSGFCdDRNT1NzTjM4Nm9HWjNsZ3FocTRoaFlWcEFzRHYyaFZGRVdEVzgtaVdfNzlYemFfNk1TN2lELWt1RThFb3JtRnE1RzBBaVhGUmhpU2w2ZVlMd1Z0Yg?oc=5>
+
+### 来自TRUMP的快讯！
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-07-06 14:31
+- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxPQjRDOWNqb0twTm5nZUR4b0RLWkFuc1B0ay14dHBQOGFYLVZobnFqdE1la3R6YTVZYU5BOFFMSXlYTnB3ZEw2M2JUTzNKanp5UHRsdlY3UmNoOHY3VlB3UnpMak9ETi1ZRTVtX0tRem1QS1pUbm9jQjNOQmtLSWdCUTMyaWZSZTh2a2c?oc=5>
+
+### 戴尔股价上涨7%，此前特朗普在特朗普账户启动期间对其表示支持
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-07-06 15:30
+- 链接: <https://news.google.com/rss/articles/CBMipgFBVV95cUxNQ2FiZUF6T2xLTlFDZXV2YjVoQ3B3N0p1TTJRaEZZOWFVMXdmSmRFdHZBclFTNXdNanBaZkx5QXdiZm5qT0hJSl9Mdl9hTXBTVzN5d2hpeTBMbFpneHJhVll1OUZtSkNzb3h1N25QRHpCOGV0SUlPVFF3REhTemtSVjBYUU0zc25NbmtlRUg4VERmQ0UxcVhDakx2QU1pYlpCZEMxbHVn?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-06 16:15  (17 条)
+
+- **周杰伦** | 王俊凯这场个人演唱会会有嘉宾出席吗？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801xnq2.html>
+- **周杰伦** | 周杰伦华语乐坛天王献唱《功夫女足》主题曲 时隔7年周星驰新片你会去看吗 <https://k.sina.com.cn/article_7879776328_1d5abd84806801xn08.html>
+- **周杰伦** | 23岁歌手王俊凯抢不到自己演唱会门票，为何连周杰伦也难逃抢票困境？ <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801b7ny.html>
+- **周杰伦** | 《功夫女足》主题曲演唱者周杰伦 一文看懂18年合作伏笔藏在哪 <https://k.sina.com.cn/article_7879776328_1d5abd84806801xkwa.html>
+- **周杰伦** | 周杰伦演唱的《功夫女足》主题曲风格是什么？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801xktc.html>
+- **周杰伦** | 明星演唱会脸贴纹身贴闪粉贴纸应援物品气氛道具摆摊专用批发-巴巴 <https://k.sina.com.cn/article_7857201856_1d45362c001907xdo0.html>
+- **特朗普** | 特朗普证实：已与国际足联主席通话，要求复核 <https://news.google.com/rss/articles/CBMic0FVX3lxTE1udFhCYWpjdXVVTjZFVnEzZFRSLVJUOWdWdFg4Y3dCYnlQdS1UaUlXMUFHRGJMVURRbld6UmFZSm9iRF9KdGRjMnJIUm8ybjZlV183b0NIazMzenEyZTRsaW40akZaRHBsS3ladzlCaDZOem8?oc=5>
+- **特朗普** | 深度 | 北约峰会要演团结大戏，特朗普却要“忠诚”？ <https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zbENqRUpWa010RHRQaGotdW83SDR2QmZ5bHlRak8tb0FlbVNTdEtsTldpclVrdFEzRnR2TkgtMW1KWGlKTmVWdHV6dGFaWkJUZEpOcmU4MS01ekN6Y3c?oc=5>
+- **特朗普** | 特朗普向盟国施压，美国大使称北约内部紧张局势属于“成长的烦恼” <https://news.google.com/rss/articles/CBMiowJBVV95cUxPZDAzMlVFTW5LaF9STmNqWmxaSF9qM1RKcEw2NTBnSW53SG53cl9KSU9XWVE4bzRnY1JndFhaMmpKdHJkZFZnM2pya0F2WnJfSVFGS1I2WjkxbGMtZi1CaEtieHhhLUtWei00ZkpSY2o1V3VKLUk1XzVFNzBLQkZERFhMRHgxQWhyWEs0X1pfRC1RREM0TkcyMVItZERhUkFha1lxOW9BdjRCU25tMGFLc0Y1WUpZNFFjbTd6dmZCWUZRaG9WVV9YeEp3cThZRE9qWWhQLWZ3b0VXNEJmLWdxNDJoSzhGa1NDbkgxSjJzcDBiNzZLZWhhTWN2MVhoZ0JBX0FSOGlGZG02ZWsxWXlCOEllZ0t2TU1Xdm9iYmNZakVlRzA?oc=5>
+- **特朗普** | SpaceX总裁肖特威尔将向“特朗普账户”捐赠股票 <https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTDVmRDk1c0JVMkRTMkl0akZJQnFHOVJTbnNUdWxmV0ZWclVoSlJyajFKZ0R4d3dZNlk4amZNQ1d6NUhlbGFYRWhTUVBZanBYcUlTS0FiVXo4SEV4RTdhUjNiTDgwVlJheFJ3R2R4ZkFWQTloZTVITTZzRUNJRV9zamJjRVV1MldXZVpBTHcxSGpLdWlxMkZsMzRYdEVicUkwQW9razRDWTM3QQ?oc=5>
+- **特朗普** | 史上首次：特朗普将开市钟搬进白宫，为“儿童账户”揭幕 <https://news.google.com/rss/articles/CBMiUEFVX3lxTE45bExkcEJvV1lHSWhINDRNYnpkMjdxTDFJcmZSRVNrWHBTY01QQW12cG5vQ2ZIRTZuSWxLcEkwaTdXeW95TFRwT2taRzBRV3po?oc=5>
+- **特朗普** | 特朗普称其与普京进行了“非常好的通话” <https://news.google.com/rss/articles/CBMib0FVX3lxTE54U0tNWkpTcHR2dU5IUXpSOU1MeFZnRVk4bExDLTl4amdMNE92LWl6b3Y4T1R0STRtSUllVXllY2FJSl9zYkZNOUdKQ0xMOVoxV1R2WUNmTTNMeFNycEY0V3JLSmFOZ2otRlpodW1aMA?oc=5>
+- **特朗普** | 伊朗人高呼“复仇”，特朗普称“全是假哭”遭驳斥 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE8zWFdMbzBLVTF5MXlJb3BtMHpnS1RUeUdXNDBPbVJTVUV0c1dnY3RRRmNXcmNPc2t1Nm5JamltU2VubzB4MFBVbXV6UWg?oc=5>
+- **特朗普** | 古巴前领导人孙子：愿同特朗普谈判 愿释放政治犯人员 <https://news.google.com/rss/articles/CBMicEFVX3lxTE94bkphNGEyOEpTZGVRZWYxRjVpanRKeWkzQnkwX3d1Q1JJOEZoX2wxR2pKeE8xOTIzUmxwWWplMnZhRXJIelBVcHZqakVDSW5ocXVwWmg0MllwSnFmdG5zTkFVQUhGcnJsbUJXd2ZvQUs?oc=5>
+- **Trump** | "特朗普币"让近百万投资者亏损38亿美元 总统本人却赚了6.36亿 <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBSGFCdDRNT1NzTjM4Nm9HWjNsZ3FocTRoaFlWcEFzRHYyaFZGRVdEVzgtaVdfNzlYemFfNk1TN2lELWt1RThFb3JtRnE1RzBBaVhGUmhpU2w2ZVlMd1Z0Yg?oc=5>
+- **Trump** | 来自TRUMP的快讯！ <https://news.google.com/rss/articles/CBMiigFBVV95cUxPQjRDOWNqb0twTm5nZUR4b0RLWkFuc1B0ay14dHBQOGFYLVZobnFqdE1la3R6YTVZYU5BOFFMSXlYTnB3ZEw2M2JUTzNKanp5UHRsdlY3UmNoOHY3VlB3UnpMak9ETi1ZRTVtX0tRem1QS1pUbm9jQjNOQmtLSWdCUTMyaWZSZTh2a2c?oc=5>
+- **Trump** | 戴尔股价上涨7%，此前特朗普在特朗普账户启动期间对其表示支持 <https://news.google.com/rss/articles/CBMipgFBVV95cUxNQ2FiZUF6T2xLTlFDZXV2YjVoQ3B3N0p1TTJRaEZZOWFVMXdmSmRFdHZBclFTNXdNanBaZkx5QXdiZm5qT0hJSl9Mdl9hTXBTVzN5d2hpeTBMbFpneHJhVll1OUZtSkNzb3h1N25QRHpCOGV0SUlPVFF3REhTemtSVjBYUU0zc25NbmtlRUg4VERmQ0UxcVhDakx2QU1pYlpCZEMxbHVn?oc=5>
 
 ### 2026-07-06 12:44  (12 条)
 
