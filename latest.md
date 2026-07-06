@@ -1,40 +1,53 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-05 22:56**
-- 本轮扫到 5927 条, 新增 **3** 条
+- 最近更新: **2026-07-06 00:03**
+- 本轮扫到 5931 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (4 条)
 
-### 白宫：特朗普将在北约峰会期间会晤泽连斯基和叙利亚总统
+### 林宥嘉这次巡演还会有其他嘉宾吗
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-07-05 21:38
-- 链接: <https://news.google.com/rss/articles/CBMijANBVV95cUxPRnJMb0d4R3lSSGtva01obTdZOVIxM29uaUtuMFdJS1BYbW51NU9XWmVQWnFBNW9MTkg4ZzByakRzOEEza1VZMHAydTJiWjlWZS1ZeHd2a0ozMHN6Ynl3YThJZ3huRzNna3p2dzdESHFWVWVud3Q5c3R4T0cwaFVseVQ2cXU2R2pjcnRCcnkyUzZWYWRrMVVRaFlwenRTUGxIMWcwVWtOeS1wYlhKZkNJWWRiYkxXODAyN1RqOWhpSy1RZFlPNXhvMUF5eHVZQjN2WVl0b0lhOWpfUFB2dHMzNlFQN3BPdURPNndpdU1tZFRjR0RCczNLMG0taWxJMzM1dlNxbjJRVk5JejJrSEkzaWo5bWpoWXNUZktVMlFKMUNEQXB3cjlVWmxZMExaUW1QaUFLR2xmOHlVYkg1SXNKMW9vVjNrbTNaQjNIcjRuYnk0WG5IeDdQZ2dLSnBZSHlGWXpzbkJXNC1xNjQ1UVMzWE1zVEJmbmRVQ2swSXpuTE9seTNPSHo2LXIxR0w?oc=5>
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801x7ns.html>
 
-### 要闻解说 - 美国建国250周年：隆重庆典难掩建国初心与当今现实的差距
+### 内塔尼亚胡：不认为与特朗普存在裂痕，很多国家领导人私下求合作，求教以军战术，求分享以色列在人工智能和网络领域的专长
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-07-04 14:54
-- 链接: <https://news.google.com/rss/articles/CBMingNBVV95cUxOUUJaWTQwdUZ4c0RmSFAtU2RJbEw1UjBmMEE1Vk9hNXA5YlNnYlR6eFNpMTE5ckg1cDZuVkJ5WnFuTEhfRGptRmJHX1NIQnRfRTRyZ05wRE5WX0loSkZTNWFwdzZxaXNkTll5azlweUNMSmxCUnN2ai1HaHI3dHRybDFJUGFfb3NlMG5WZ0g5LTI1aHhvVWpNYnlrbUpvR1d3U0pjaEVoTWtOazNleUJrSURYVE1LVm5pbHRfV2lTUmQ0enVyd01MN3JPMHY4SzdGbVlrTWEybUxLY1FmOHNwbnRqV3lQeUttcnlMLUl1WnZXbXZTWjRvSjBFR1hHVTdTcXZxOWJ2THQzbU1yTl9mNDM4VnZUNVcxUjhkWkZnU3o4QlkzbzVST3Vab1FnOFQyb2xlc2lkUTBRY0dqVlZTRjhhR2p6RXQzOHFGRENXUXNkeFYwdjlPX2RnZElrVTJLcDc5S045UzJNVjFMd1E1U3hoZy1TV2t1Qk5xdXNyQUozNi1LNXFfenlrc0VxZVFYeU9TYXlwcXRVZktqN3c?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-07-05 23:18
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9EYmNzdFFNUFRsT2g0NktBeXdYVGdkU2FYdEVMLXRHU0I0U0k5YS1mTXVDWVUtaFRaX0ZqY19MZnNPLWhaN0hJbHJtcTA5S2MyZHJ2eXNmSXJwTnVTaEN2LVRSSHQ2YWVCbHdGU056VkxMcHM4ajhlcFFvbjgyOHc?oc=5>
 
-### 对话｜美伊谈判“降格”背后：特朗普的选战时间表与伊朗的“海峡筹码”
+### 加密货币市场全线拉升，超6万人爆仓！美伊谈判，突传重磅
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-03 23:20
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQjdjMzRmbTROeGxDM1BNWldCS010VXlwOFpmOE91NEo2eXpEZHM5UzJkZFpSR09GV2pSa2RHV3RxVlM2a25vSEpjY18yU3hoOE5yTUFrMDBoUHRMY0t3STJweXF3OE9PS2xYcWJUaTRoWENNOGFJOHU4NzNmb1YzRTVWR19Ed1hobExYanJGTVRyWnNDUGZlcVVhVzFSVE0wQmFKdVdySDhWN3poQTZnS2xlVXRLZEhWWHhWeEI1M19CT2UyeTVfX2YtRGd3MHV2?oc=5>
+- 时间: 2026-07-06 00:00
+- 链接: <https://news.google.com/rss/articles/CBMirwFBVV95cUxQT3NLWDJKT0ZBcWZvbkYzeTNSdVVNYmtEVklmdjlTaWpLejF4aVFlcDRUNjYxYkRKcm1RSHl2RjhQX2pmYlVyNWprbFRmdFpDM0lFQXVZYXhTTllSM29Fb1F0ZVp5YzdGOTZ4QWt3bE9nOGdPM0ZXMmZjX2tKX1lTMmlDZk5lMDVuYWRkR0xTcl9JOERSQU5kTUx1REhnM3VNLUIxZDBzeHAzZF9LdDJn?oc=5>
+
+### 特朗普：伊朗举国哀悼哈梅内伊令我震惊，还以为伊朗人不喜欢他，葬礼上一次攻击就能全部干掉伊朗高层，但不会这么做，这样就没人谈判了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 每日经济新闻
+- 时间: 2026-07-05 07:27
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RTmtQN1cwckt1V3lsODZWRjFIMFk0MTRMYTF6NlpOSjRQUDVuTWhOUGVJOEtmTkMxSmJQbjNBQ3VGSlQ0SDJySS1Yc2JzS2NXUmhyVlZpeEp1dThnbXo5M0tJTURCZw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-06 00:03  (4 条)
+
+- **蔡徐坤** | 林宥嘉这次巡演还会有其他嘉宾吗 <https://k.sina.com.cn/article_7879776328_1d5abd84806801x7ns.html>
+- **特朗普** | 内塔尼亚胡：不认为与特朗普存在裂痕，很多国家领导人私下求合作，求教以军战术，求分享以色列在人工智能和网络领域的专长 <https://news.google.com/rss/articles/CBMif0FVX3lxTE9EYmNzdFFNUFRsT2g0NktBeXdYVGdkU2FYdEVMLXRHU0I0U0k5YS1mTXVDWVUtaFRaX0ZqY19MZnNPLWhaN0hJbHJtcTA5S2MyZHJ2eXNmSXJwTnVTaEN2LVRSSHQ2YWVCbHdGU056VkxMcHM4ajhlcFFvbjgyOHc?oc=5>
+- **特朗普** | 加密货币市场全线拉升，超6万人爆仓！美伊谈判，突传重磅 <https://news.google.com/rss/articles/CBMirwFBVV95cUxQT3NLWDJKT0ZBcWZvbkYzeTNSdVVNYmtEVklmdjlTaWpLejF4aVFlcDRUNjYxYkRKcm1RSHl2RjhQX2pmYlVyNWprbFRmdFpDM0lFQXVZYXhTTllSM29Fb1F0ZVp5YzdGOTZ4QWt3bE9nOGdPM0ZXMmZjX2tKX1lTMmlDZk5lMDVuYWRkR0xTcl9JOERSQU5kTUx1REhnM3VNLUIxZDBzeHAzZF9LdDJn?oc=5>
+- **特朗普** | 特朗普：伊朗举国哀悼哈梅内伊令我震惊，还以为伊朗人不喜欢他，葬礼上一次攻击就能全部干掉伊朗高层，但不会这么做，这样就没人谈判了 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RTmtQN1cwckt1V3lsODZWRjFIMFk0MTRMYTF6NlpOSjRQUDVuTWhOUGVJOEtmTkMxSmJQbjNBQ3VGSlQ0SDJySS1Yc2JzS2NXUmhyVlZpeEp1dThnbXo5M0tJTURCZw?oc=5>
 
 ### 2026-07-05 22:56  (3 条)
 
