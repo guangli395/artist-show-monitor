@@ -1,64 +1,53 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-06 21:53**
-- 本轮扫到 6003 条, 新增 **7** 条
+- 最近更新: **2026-07-06 23:01**
+- 本轮扫到 6007 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (4 条)
 
-### 从攒钱买周杰伦专辑到开演唱会，王俊凯抢票翻车
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801xsng.html>
-
-### 王俊凯重庆演唱会加场安排提上日程了吗
+### 演唱会抢票难：供需失衡、技术黄牛与内部票源分流成主因
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801xsgs.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907xqe2.html>
 
-### 王俊凯真的自己买过周杰伦演唱会门票吗
+### 特朗普介入世界杯判罚 比利时强烈反弹
 
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801xsgq.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-07-06 20:29
+- 链接: <https://news.google.com/rss/articles/CBMirAJBVV95cUxPcmhJbVFqNmxJX2JsellzVExVYUdvN0dIYXRsck1STW90TGIwaEU2NlVDdTN6cUhJbnNTQXlsSWRpRDFaUnIweE5XQUFScFFKQ2hrcXNPcEVOaUdNRDJCVktaNHpPdFVfQmRaT2dSQWRVY3VHUEJDSDVGcG9DOVV4QnZ2bGh1V1dBUjZqTUc0Nl80OElYN1JIVkR2QldPa28zRjZsd1hmRHFjc1IxeXRkck91SkhnZ3Z4SUlSeHVQMk5BNkJUTzJkUW8xZDlRTURsU2xDWXRoZUpnT3NLZEVQdUdZZ3poZllxNmNFTWtDY1RZeWNoU21Zbkt1aFBpNXZaR0hSNXctYzQzUlBXTWRWbzlXaUNnOGVxUjZLaW4xRFhtMkNmVnBvSWs2MnI?oc=5>
 
-### 无锡奥体演唱会，周杰伦筹备中？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907xoqw.html>
-
-### 特朗普在白宫为美股敲响开市钟 庆祝儿童储蓄项目“特朗普账户”上线
+### 特朗普：沃尔玛将下调碎牛肉及其他商品的价格
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-06 19:11
-- 链接: <https://news.google.com/rss/articles/CBMingJBVV95cUxQLU5CUnlyYllwYXZaemlqOEdTUXBKVG9FS3YxdS1VUkxwa1RwOFpMcTMwX3ladVZVVjA2YUZoSWdkaVRIdGVZU1RzMVg4SjFBMWhOQkdiUkpKX1JwdHpmNVh6cFlkTk04OW94dmtwNE9tUGtPYWFBNkJuRzZuZlp6bWt6Z0dDZlhidXN1c2c4Sl9kRHlxRzl0c3gyUlo2TW1OR3VURXY5RXpNVXJlVU9sVmNnT3dtRTRuTmIzWGhpaEV1UHdGdEsyXzFRYmVGMXo4dGlfcVREbVh5RTlaQmE2dzZxSVp2aW9vT3M4VzF3Uk1oazV0ZW8zS21KMGdtSF9lQ1VIWldtZ0V5b3FMQXRSMzhzUkZ2UWhybXNDeWlR?oc=5>
+- 时间: 2026-07-06 22:26
+- 链接: <https://news.google.com/rss/articles/CBMimwJBVV95cUxQOGVmSWZRVG4tSzFCdEc3SEhiTFBBc3hMVDdkel9KcXhBb1dGUkpHUkp6VkVxM2ZPNVY3N1R5U0c4a29SaEVXdHB4VlU1U0lramRqOUFpNzlId0h2aWh4UmctRDUzUzMyOEdfU1NWZ20yem52dnlMNGlFTDBUUmRiSzdFa0JJSTE2QTRWcE5LNUVFXzBPWDZMeEl6MU5UdnZiM29BUTREVmRZQjJOU20xeDE3WFo5QmNnUjhtR1RkUU5Jb01iZ3FSNjd1LVptOXRUcDdEZE1GQ2xVam9HRFNpMlRrMUlseTVyLU9OSjdvWmxpQk05UFp0U1FkVmpZVG1jYjhCUlZqX0M2X01FSG9ZM1kwWnY5MjFSRTZV?oc=5>
 
-### 特朗普AI视频自比总统山四巨头
+### Dell's Stock Gets Another Trump Bump - but This Time It's Fading
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-07-06 16:43
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE9vVkY4LUFWTXAzVEZmUXlHUXVfR05aRGpUQTNhemYyTUdrTTFVQzAtbUQ5UmU2T3BNSnZfaURhakVsT2VFTG15M3QtQV9jc0E2MHN6T3hFRGdjLXdqZUc3cU5pZjVlMUZEZGNFdFUyVFFqZw?oc=5>
-
-### 美以关系紧张之际 内坦亚胡特朗普料下周会面
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-07-05 00:36
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFAydzZrVTJrUlBCbUJIZ0tlaVc4bm9nNWhiWHFMcjFMcHNucnpHbWFVN0tORGt0N2JjZ1JyeXc3SWlkbnU5eFVfT21EODlzaXVjTGpIX0kwazlOWGtoTkFDSW5aUlRnUQ?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-07-06 19:34
+- 链接: <https://news.google.com/rss/articles/CBMingFBVV95cUxNbU9mdUZZRlZGci1BbWNISWQ0UGhYRW5WeURxZ3hSQUwyQy1fRFVHYnJSNHBxM0RqSjhGRUQ4R19CcV82RDVUek1VSFFPeXN4cVdnVUdhTUFMTWxuTDdRcDQxMFJNYmxPYnRKemZqa19yVk1FNUd1cHB3S2xDY3ZIYnNHT0IzbUExRXJ6UktWQjI1Q05TQzhZeDhIWGNDUQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-06 23:01  (4 条)
+
+- **周杰伦** | 演唱会抢票难：供需失衡、技术黄牛与内部票源分流成主因 <https://k.sina.com.cn/article_7857201856_1d45362c001907xqe2.html>
+- **特朗普** | 特朗普介入世界杯判罚 比利时强烈反弹 <https://news.google.com/rss/articles/CBMirAJBVV95cUxPcmhJbVFqNmxJX2JsellzVExVYUdvN0dIYXRsck1STW90TGIwaEU2NlVDdTN6cUhJbnNTQXlsSWRpRDFaUnIweE5XQUFScFFKQ2hrcXNPcEVOaUdNRDJCVktaNHpPdFVfQmRaT2dSQWRVY3VHUEJDSDVGcG9DOVV4QnZ2bGh1V1dBUjZqTUc0Nl80OElYN1JIVkR2QldPa28zRjZsd1hmRHFjc1IxeXRkck91SkhnZ3Z4SUlSeHVQMk5BNkJUTzJkUW8xZDlRTURsU2xDWXRoZUpnT3NLZEVQdUdZZ3poZllxNmNFTWtDY1RZeWNoU21Zbkt1aFBpNXZaR0hSNXctYzQzUlBXTWRWbzlXaUNnOGVxUjZLaW4xRFhtMkNmVnBvSWs2MnI?oc=5>
+- **特朗普** | 特朗普：沃尔玛将下调碎牛肉及其他商品的价格 <https://news.google.com/rss/articles/CBMimwJBVV95cUxQOGVmSWZRVG4tSzFCdEc3SEhiTFBBc3hMVDdkel9KcXhBb1dGUkpHUkp6VkVxM2ZPNVY3N1R5U0c4a29SaEVXdHB4VlU1U0lramRqOUFpNzlId0h2aWh4UmctRDUzUzMyOEdfU1NWZ20yem52dnlMNGlFTDBUUmRiSzdFa0JJSTE2QTRWcE5LNUVFXzBPWDZMeEl6MU5UdnZiM29BUTREVmRZQjJOU20xeDE3WFo5QmNnUjhtR1RkUU5Jb01iZ3FSNjd1LVptOXRUcDdEZE1GQ2xVam9HRFNpMlRrMUlseTVyLU9OSjdvWmxpQk05UFp0U1FkVmpZVG1jYjhCUlZqX0M2X01FSG9ZM1kwWnY5MjFSRTZV?oc=5>
+- **Trump** | Dell's Stock Gets Another Trump Bump - but This Time It's Fading <https://news.google.com/rss/articles/CBMingFBVV95cUxNbU9mdUZZRlZGci1BbWNISWQ0UGhYRW5WeURxZ3hSQUwyQy1fRFVHYnJSNHBxM0RqSjhGRUQ4R19CcV82RDVUek1VSFFPeXN4cVdnVUdhTUFMTWxuTDdRcDQxMFJNYmxPYnRKemZqa19yVk1FNUd1cHB3S2xDY3ZIYnNHT0IzbUExRXJ6UktWQjI1Q05TQzhZeDhIWGNDUQ?oc=5>
 
 ### 2026-07-06 21:53  (7 条)
 
