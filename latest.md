@@ -1,140 +1,116 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-06 16:15**
-- 本轮扫到 5980 条, 新增 **17** 条
+- 最近更新: **2026-07-06 18:24**
+- 本轮扫到 5991 条, 新增 **11** 条
 
 ---
 
-## 本轮新发现 (17 条)
+## 本轮新发现 (11 条)
 
-### 王俊凯这场个人演唱会会有嘉宾出席吗？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801xnq2.html>
-
-### 周杰伦华语乐坛天王献唱《功夫女足》主题曲 时隔7年周星驰新片你会去看吗
+### 23岁TFBOYS成员王俊凯抢不到自己演唱会门票，为何连顶流都逃不过「一票难求」？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801xn08.html>
+- 链接: <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801b7yu.html>
 
-### 23岁歌手王俊凯抢不到自己演唱会门票，为何连周杰伦也难逃抢票困境？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801b7ny.html>
-
-### 《功夫女足》主题曲演唱者周杰伦 一文看懂18年合作伏笔藏在哪
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801xkwa.html>
-
-### 周杰伦演唱的《功夫女足》主题曲风格是什么？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801xktc.html>
-
-### 明星演唱会脸贴纹身贴闪粉贴纸应援物品气氛道具摆摊专用批发-巴巴
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907xdo0.html>
-
-### 特朗普证实：已与国际足联主席通话，要求复核
+### SpaceX公司总裁肖特威尔将向“特朗普账户”捐赠所持公司股票
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪军事
-- 时间: 2026-07-06 15:22
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1udFhCYWpjdXVVTjZFVnEzZFRSLVJUOWdWdFg4Y3dCYnlQdS1UaUlXMUFHRGJMVURRbld6UmFZSm9iRF9KdGRjMnJIUm8ybjZlV183b0NIazMzenEyZTRsaW40akZaRHBsS3ladzlCaDZOem8?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-07-06 17:01
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxQUnhLaEhGM2NJeUh3V2R1QnZwbzk3RmdlcFAtanJLd0NmVm9qUnJUM1Jkc3I5RG9WSFUzR0pGYUpKS1FQUDNSd1pISmZ3SGQzTUNKYk80eUxlcmxkdnhac0I0MUQ5cG16MHlTLW1jcnJTNHVSVmsteVE0c09LeXZhYWkzMHF3UlU?oc=5>
 
-### 深度 | 北约峰会要演团结大戏，特朗普却要“忠诚”？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: shobserver.com
-- 时间: 2026-07-06 13:15
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zbENqRUpWa010RHRQaGotdW83SDR2QmZ5bHlRak8tb0FlbVNTdEtsTldpclVrdFEzRnR2TkgtMW1KWGlKTmVWdHV6dGFaWkJUZEpOcmU4MS01ekN6Y3c?oc=5>
-
-### 特朗普向盟国施压，美国大使称北约内部紧张局势属于“成长的烦恼”
+### SpaceX“二把手”官宣向“特朗普账户”捐赠个人股票 总价值超3亿美元
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-06 14:37
-- 链接: <https://news.google.com/rss/articles/CBMiowJBVV95cUxPZDAzMlVFTW5LaF9STmNqWmxaSF9qM1RKcEw2NTBnSW53SG53cl9KSU9XWVE4bzRnY1JndFhaMmpKdHJkZFZnM2pya0F2WnJfSVFGS1I2WjkxbGMtZi1CaEtieHhhLUtWei00ZkpSY2o1V3VKLUk1XzVFNzBLQkZERFhMRHgxQWhyWEs0X1pfRC1RREM0TkcyMVItZERhUkFha1lxOW9BdjRCU25tMGFLc0Y1WUpZNFFjbTd6dmZCWUZRaG9WVV9YeEp3cThZRE9qWWhQLWZ3b0VXNEJmLWdxNDJoSzhGa1NDbkgxSjJzcDBiNzZLZWhhTWN2MVhoZ0JBX0FSOGlGZG02ZWsxWXlCOEllZ0t2TU1Xdm9iYmNZakVlRzA?oc=5>
+- 时间: 2026-07-06 17:49
+- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTE0yU3RIbzA0RzhBSWt6U3ZmTVIya091aUtuWjBudGwwb1BaNlZmYzFPdmhTRXo4UjZkaGEwX3RJVWRIOU9rTml2MmhLV0M0LTB3S0xrR3JrMVN6Y0p1V3FVeFlBdjgtRTRlaXU1RDln?oc=5>
 
-### SpaceX总裁肖特威尔将向“特朗普账户”捐赠股票
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-06 14:37
-- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTDVmRDk1c0JVMkRTMkl0akZJQnFHOVJTbnNUdWxmV0ZWclVoSlJyajFKZ0R4d3dZNlk4amZNQ1d6NUhlbGFYRWhTUVBZanBYcUlTS0FiVXo4SEV4RTdhUjNiTDgwVlJheFJ3R2R4ZkFWQTloZTVITTZzRUNJRV9zamJjRVV1MldXZVpBTHcxSGpLdWlxMkZsMzRYdEVicUkwQW9razRDWTM3QQ?oc=5>
-
-### 史上首次：特朗普将开市钟搬进白宫，为“儿童账户”揭幕
+### 美国主力球员免于停赛引争议 特朗普称仅致电国际足联要求复核
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网财经
-- 时间: 2026-07-06 14:27
-- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE45bExkcEJvV1lHSWhINDRNYnpkMjdxTDFJcmZSRVNrWHBTY01QQW12cG5vQ2ZIRTZuSWxLcEkwaTdXeW95TFRwT2taRzBRV3po?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-07-06 15:39
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxQOHdKN092RW9GR3Z2SHcyWEM2UlNUaDRVaFo5Qi1nWFdUZ2lpeDgxazJPYU5oX3psUmlGWGJpTXljM254UnUzTG9LV3VkblhfOTBxSXRWcGhCQXBzSDhBblpFV1l2SDNJdlc5V2JCZE9WcE5ja09xUnZ4bk9tcU5FMGY5ODEzdHM?oc=5>
+
+### 特朗普斡旋下，中国地下教会牧师金明日获释
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 纽约时报中文网
+- 时间: 2026-07-06 02:30
+- 链接: <https://news.google.com/rss/articles/CBMihgFBVV95cUxNMGhncF9uUEg4c244SzBVRE5mS2VSTFVIRE9OOTFmYzRKRkVuSjFWSlFjNVpBVGp0T19LUExQSHJSU1JVZXVMSjNGNW5BTUFqY3Vtc3gzZ3EtMjdvVnluaFVDaWZ3ZURHOEdham05b0Iyc056MUZaRGhwSWlNc0ZVakRtTFdkZw?oc=5>
+
+### 特朗普介入世界杯判罚 美国队对手喊不公
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-07-06 07:38
+- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxObnRZanZkbGlDRU9vS0FlT0ZSaEp1a1c1ejhjbmUySWN0SG5TaWhJUEhGTDF2R05XY3o0bFRWVzhrLU5DLWFEaE5xZGxQNDJPNGZJVDRwN1F6TjVOcno4WmxEZVNZYzM1c2V4RmRicEhnYzZnbG55Rm15QkY3SWwyUg?oc=5>
 
 ### 特朗普称其与普京进行了“非常好的通话”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 金融界
-- 时间: 2026-07-06 14:34
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE54U0tNWkpTcHR2dU5IUXpSOU1MeFZnRVk4bExDLTl4amdMNE92LWl6b3Y4T1R0STRtSUllVXllY2FJSl9zYkZNOUdKQ0xMOVoxV1R2WUNmTTNMeFNycEY0V3JLSmFOZ2otRlpodW1aMA?oc=5>
+- 场馆: 央广网
+- 时间: 2026-07-06 15:47
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1bWpsa29wRGRrT200SG9kTjdfeUhwRTBTd1BvVWJwTV80Qi1BLWJPTXYzN3hERklndGlKV1ZpU0JlS3p2OTF1azl5ZzZ5WEx4NmY2VW5qSWdzMGFvSE9YajVZQ3V5OFlh?oc=5>
 
-### 伊朗人高呼“复仇”，特朗普称“全是假哭”遭驳斥
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-05 07:40
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE8zWFdMbzBLVTF5MXlJb3BtMHpnS1RUeUdXNDBPbVJTVUV0c1dnY3RRRmNXcmNPc2t1Nm5JamltU2VubzB4MFBVbXV6UWg?oc=5>
-
-### 古巴前领导人孙子：愿同特朗普谈判 愿释放政治犯人员
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-07-06 16:04
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE94bkphNGEyOEpTZGVRZWYxRjVpanRKeWkzQnkwX3d1Q1JJOEZoX2wxR2pKeE8xOTIzUmxwWWplMnZhRXJIelBVcHZqakVDSW5ocXVwWmg0MllwSnFmdG5zTkFVQUhGcnJsbUJXd2ZvQUs?oc=5>
-
-### "特朗普币"让近百万投资者亏损38亿美元 总统本人却赚了6.36亿
+### 川普迷因币暴跌97% 百万粉丝惨亏38亿 自己反狂赚
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: cnBeta.COM
-- 时间: 2026-07-05 23:45
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBSGFCdDRNT1NzTjM4Nm9HWjNsZ3FocTRoaFlWcEFzRHYyaFZGRVdEVzgtaVdfNzlYemFfNk1TN2lELWt1RThFb3JtRnE1RzBBaVhGUmhpU2w2ZVlMd1Z0Yg?oc=5>
+- 场馆: 文学城
+- 时间: 2026-07-06 16:15
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lVlBsNVFCakRBS2N5MWlDelNXQmJLc05ZX01JME1rWERHX2thbzQ5dGphcUg1cGRxTldjcTcwOTN3VHdzUUNLZFZfdkFBOGZ6QXVkQzhEM3BHSlp3YU1SNGQ3NmZpbjJh?oc=5>
 
-### 来自TRUMP的快讯！
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-07-06 14:31
-- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxPQjRDOWNqb0twTm5nZUR4b0RLWkFuc1B0ay14dHBQOGFYLVZobnFqdE1la3R6YTVZYU5BOFFMSXlYTnB3ZEw2M2JUTzNKanp5UHRsdlY3UmNoOHY3VlB3UnpMak9ETi1ZRTVtX0tRem1QS1pUbm9jQjNOQmtLSWdCUTMyaWZSZTh2a2c?oc=5>
-
-### 戴尔股价上涨7%，此前特朗普在特朗普账户启动期间对其表示支持
+### 特朗普总统说，他要求国际足联“复核”巴洛贡的红牌判罚，比利时同时誓言挑战解除禁赛的决定
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-07-06 15:30
-- 链接: <https://news.google.com/rss/articles/CBMipgFBVV95cUxNQ2FiZUF6T2xLTlFDZXV2YjVoQ3B3N0p1TTJRaEZZOWFVMXdmSmRFdHZBclFTNXdNanBaZkx5QXdiZm5qT0hJSl9Mdl9hTXBTVzN5d2hpeTBMbFpneHJhVll1OUZtSkNzb3h1N25QRHpCOGV0SUlPVFF3REhTemtSVjBYUU0zc25NbmtlRUg4VERmQ0UxcVhDakx2QU1pYlpCZEMxbHVn?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-07-06 17:21
+- 链接: <https://news.google.com/rss/articles/CBMi_AFBVV95cUxQRnNMRWo5RndKR2ZGZ183bU12eXFaQnYtS3YtTFhaQUJDcndhR2ZJSkExV2pZWFFXdzBEZFNlRmp3RmxLeW1rWVBQd2R0VWZfOU1uYTd0dXBETHpTdS03Ujc3bUQ3NUFjSTFVN1hLbThIbjBHUVhvTDU5c2xvN2liS0YtZ2gtamYtODJzaWlUWThsUDZfMTVOdHNsYXJ1MDlmRWxNRUdVdk8tMnVmVEJkMGpNMElYblc5R25jMVNhOWRUR2dRVTFra3lDVVlzbzFhOWpyb3FXZVB0cjN3MThhTUo0Z0xhMmJhUi1UVmxTRE9qMEVUWjZYRnhiYXnSAf8BQVVfeXFMTWpkb1FMN3hBS0JiWjVNY3RGMUEyS0FjQlVYaUJia1Vsb3JOTGx2U3ZrVXc3NVFhLV9PZEJmNU9GT25iR2NhTHRFQUp1Nk1DU1VDM2psX0ZDZVBQcmtmb2UtSHZxT2lsdGlOTjZRMjRXUElfczc2Q2FKYzVsb3QtcHpIWng1SzhraHQ2bHRaTm5oU2dabEEzeW1kSm44Skp0WTZvNXRmOEdOXzZMb3NvNVFOOXN2TF9fYnBodE1IdTdvSWFhazR5cnlKWEFQU1JURDFTVHBQNElrSG5fRzk4b1o5MWRxOV9tLV9VLWRTZUoxMGVpSGVBVnFWZnpTeHlJ?oc=5>
+
+### 特朗普证实要求FIFA覆核巴洛根红牌 强调未施压改判
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-07-06 17:49
+- 链接: <https://news.google.com/rss/articles/CBMi4gJBVV95cUxPNEJELXBSdWRSdUlDU0Y5NXRzYVBmbXlmLWV3Ry1uNkp0QTZXQnRhVkloRmdoZjBJUzdzVlVlUFVRbjRzRlBhVC1PU0lEb0RVa1NTb2NDYWx3aE1YcktpY2R1VVQ3TEtrY2pSSVVTZG5Fb1hrX3JrNzMwSFcxcGYxLUszczZxTnJPRkR0T3FxSE1Eelg3SzU0WkNEQTUwbmNQMXBHbEtxWVRNX3RrdEhCajRVLXRGWlVGVzBDY20yblFzNkotMTN6eFloU1B0d2d1aEVfZEZ6ZlJ4WE5NWGxncHQ2S3Q2WFhtdFoxWk00dFBxMU1VdDN4TzIyMHF3S0JYQ3U3dWVKcUM4Y29mamxRMkM1aV9tWWR0WWJTU0l1eTdsc0NLN29QRWM5U0drUXZzV3RpUnA3d2F4NG1IT1c3YlBLSTlZa2NnUUZWeVlnaFk3VF9uNVNHZGlOWGlucmhCR1E?oc=5>
+
+### 川普迷因币暴跌97% 百万粉丝惨亏38亿 自己反狂赚
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 文学城
+- 时间: 2026-07-06 16:15
+- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxOeFE4ZDVYWFZTcXJHYzdlcTE5MkdkNHp1VmtOVU1waXFoVWpxeG11V05qb080amw1cUpSUVhBNFp3dWxtNWtfWUFKS01qWUVINzQ5VkRyVFhYdnhvbDlqcncwZHJXeEp2X1hWOGxreDRfbXJ0YzM2Uy1sWGUzMURodw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-06 18:24  (11 条)
+
+- **周杰伦** | 23岁TFBOYS成员王俊凯抢不到自己演唱会门票，为何连顶流都逃不过「一票难求」？ <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801b7yu.html>
+- **特朗普** | SpaceX公司总裁肖特威尔将向“特朗普账户”捐赠所持公司股票 <https://news.google.com/rss/articles/CBMihwFBVV95cUxQUnhLaEhGM2NJeUh3V2R1QnZwbzk3RmdlcFAtanJLd0NmVm9qUnJUM1Jkc3I5RG9WSFUzR0pGYUpKS1FQUDNSd1pISmZ3SGQzTUNKYk80eUxlcmxkdnhac0I0MUQ5cG16MHlTLW1jcnJTNHVSVmsteVE0c09LeXZhYWkzMHF3UlU?oc=5>
+- **特朗普** | SpaceX“二把手”官宣向“特朗普账户”捐赠个人股票 总价值超3亿美元 <https://news.google.com/rss/articles/CBMibkFVX3lxTE0yU3RIbzA0RzhBSWt6U3ZmTVIya091aUtuWjBudGwwb1BaNlZmYzFPdmhTRXo4UjZkaGEwX3RJVWRIOU9rTml2MmhLV0M0LTB3S0xrR3JrMVN6Y0p1V3FVeFlBdjgtRTRlaXU1RDln?oc=5>
+- **特朗普** | 美国主力球员免于停赛引争议 特朗普称仅致电国际足联要求复核 <https://news.google.com/rss/articles/CBMihwFBVV95cUxQOHdKN092RW9GR3Z2SHcyWEM2UlNUaDRVaFo5Qi1nWFdUZ2lpeDgxazJPYU5oX3psUmlGWGJpTXljM254UnUzTG9LV3VkblhfOTBxSXRWcGhCQXBzSDhBblpFV1l2SDNJdlc5V2JCZE9WcE5ja09xUnZ4bk9tcU5FMGY5ODEzdHM?oc=5>
+- **特朗普** | 特朗普斡旋下，中国地下教会牧师金明日获释 <https://news.google.com/rss/articles/CBMihgFBVV95cUxNMGhncF9uUEg4c244SzBVRE5mS2VSTFVIRE9OOTFmYzRKRkVuSjFWSlFjNVpBVGp0T19LUExQSHJSU1JVZXVMSjNGNW5BTUFqY3Vtc3gzZ3EtMjdvVnluaFVDaWZ3ZURHOEdham05b0Iyc056MUZaRGhwSWlNc0ZVakRtTFdkZw?oc=5>
+- **特朗普** | 特朗普介入世界杯判罚 美国队对手喊不公 <https://news.google.com/rss/articles/CBMigAFBVV95cUxObnRZanZkbGlDRU9vS0FlT0ZSaEp1a1c1ejhjbmUySWN0SG5TaWhJUEhGTDF2R05XY3o0bFRWVzhrLU5DLWFEaE5xZGxQNDJPNGZJVDRwN1F6TjVOcno4WmxEZVNZYzM1c2V4RmRicEhnYzZnbG55Rm15QkY3SWwyUg?oc=5>
+- **特朗普** | 特朗普称其与普京进行了“非常好的通话” <https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1bWpsa29wRGRrT200SG9kTjdfeUhwRTBTd1BvVWJwTV80Qi1BLWJPTXYzN3hERklndGlKV1ZpU0JlS3p2OTF1azl5ZzZ5WEx4NmY2VW5qSWdzMGFvSE9YajVZQ3V5OFlh?oc=5>
+- **Trump** | 川普迷因币暴跌97% 百万粉丝惨亏38亿 自己反狂赚 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lVlBsNVFCakRBS2N5MWlDelNXQmJLc05ZX01JME1rWERHX2thbzQ5dGphcUg1cGRxTldjcTcwOTN3VHdzUUNLZFZfdkFBOGZ6QXVkQzhEM3BHSlp3YU1SNGQ3NmZpbjJh?oc=5>
+- **Trump** | 特朗普总统说，他要求国际足联“复核”巴洛贡的红牌判罚，比利时同时誓言挑战解除禁赛的决定 <https://news.google.com/rss/articles/CBMi_AFBVV95cUxQRnNMRWo5RndKR2ZGZ183bU12eXFaQnYtS3YtTFhaQUJDcndhR2ZJSkExV2pZWFFXdzBEZFNlRmp3RmxLeW1rWVBQd2R0VWZfOU1uYTd0dXBETHpTdS03Ujc3bUQ3NUFjSTFVN1hLbThIbjBHUVhvTDU5c2xvN2liS0YtZ2gtamYtODJzaWlUWThsUDZfMTVOdHNsYXJ1MDlmRWxNRUdVdk8tMnVmVEJkMGpNMElYblc5R25jMVNhOWRUR2dRVTFra3lDVVlzbzFhOWpyb3FXZVB0cjN3MThhTUo0Z0xhMmJhUi1UVmxTRE9qMEVUWjZYRnhiYXnSAf8BQVVfeXFMTWpkb1FMN3hBS0JiWjVNY3RGMUEyS0FjQlVYaUJia1Vsb3JOTGx2U3ZrVXc3NVFhLV9PZEJmNU9GT25iR2NhTHRFQUp1Nk1DU1VDM2psX0ZDZVBQcmtmb2UtSHZxT2lsdGlOTjZRMjRXUElfczc2Q2FKYzVsb3QtcHpIWng1SzhraHQ2bHRaTm5oU2dabEEzeW1kSm44Skp0WTZvNXRmOEdOXzZMb3NvNVFOOXN2TF9fYnBodE1IdTdvSWFhazR5cnlKWEFQU1JURDFTVHBQNElrSG5fRzk4b1o5MWRxOV9tLV9VLWRTZUoxMGVpSGVBVnFWZnpTeHlJ?oc=5>
+- **Trump** | 特朗普证实要求FIFA覆核巴洛根红牌 强调未施压改判 <https://news.google.com/rss/articles/CBMi4gJBVV95cUxPNEJELXBSdWRSdUlDU0Y5NXRzYVBmbXlmLWV3Ry1uNkp0QTZXQnRhVkloRmdoZjBJUzdzVlVlUFVRbjRzRlBhVC1PU0lEb0RVa1NTb2NDYWx3aE1YcktpY2R1VVQ3TEtrY2pSSVVTZG5Fb1hrX3JrNzMwSFcxcGYxLUszczZxTnJPRkR0T3FxSE1Eelg3SzU0WkNEQTUwbmNQMXBHbEtxWVRNX3RrdEhCajRVLXRGWlVGVzBDY20yblFzNkotMTN6eFloU1B0d2d1aEVfZEZ6ZlJ4WE5NWGxncHQ2S3Q2WFhtdFoxWk00dFBxMU1VdDN4TzIyMHF3S0JYQ3U3dWVKcUM4Y29mamxRMkM1aV9tWWR0WWJTU0l1eTdsc0NLN29QRWM5U0drUXZzV3RpUnA3d2F4NG1IT1c3YlBLSTlZa2NnUUZWeVlnaFk3VF9uNVNHZGlOWGlucmhCR1E?oc=5>
+- **Trump** | 川普迷因币暴跌97% 百万粉丝惨亏38亿 自己反狂赚 <https://news.google.com/rss/articles/CBMigAFBVV95cUxOeFE4ZDVYWFZTcXJHYzdlcTE5MkdkNHp1VmtOVU1waXFoVWpxeG11V05qb080amw1cUpSUVhBNFp3dWxtNWtfWUFKS01qWUVINzQ5VkRyVFhYdnhvbDlqcncwZHJXeEp2X1hWOGxreDRfbXJ0YzM2Uy1sWGUzMURodw?oc=5>
 
 ### 2026-07-06 16:15  (17 条)
 
