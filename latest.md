@@ -1,56 +1,74 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-06 20:21**
-- 本轮扫到 5996 条, 新增 **5** 条
+- 最近更新: **2026-07-06 21:53**
+- 本轮扫到 6003 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (7 条)
+
+### 从攒钱买周杰伦专辑到开演唱会，王俊凯抢票翻车
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801xsng.html>
+
+### 王俊凯重庆演唱会加场安排提上日程了吗
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801xsgs.html>
+
+### 王俊凯真的自己买过周杰伦演唱会门票吗
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801xsgq.html>
+
+### 无锡奥体演唱会，周杰伦筹备中？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907xoqw.html>
 
 ### 特朗普在白宫为美股敲响开市钟 庆祝儿童储蓄项目“特朗普账户”上线
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-07-06 18:57
-- 链接: <https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QZnN0anF1MEttS01MZGFCeEgxS2h4eXpRNjg5M3YyZUdBbEJwTFQ3Z3g3OGRyaTlLcWFtdUpUWDM3MnphS0tLM1QzNmdPUndlTktSVVc5bTJ6dw?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-07-06 19:11
+- 链接: <https://news.google.com/rss/articles/CBMingJBVV95cUxQLU5CUnlyYllwYXZaemlqOEdTUXBKVG9FS3YxdS1VUkxwa1RwOFpMcTMwX3ladVZVVjA2YUZoSWdkaVRIdGVZU1RzMVg4SjFBMWhOQkdiUkpKX1JwdHpmNVh6cFlkTk04OW94dmtwNE9tUGtPYWFBNkJuRzZuZlp6bWt6Z0dDZlhidXN1c2c4Sl9kRHlxRzl0c3gyUlo2TW1OR3VURXY5RXpNVXJlVU9sVmNnT3dtRTRuTmIzWGhpaEV1UHdGdEsyXzFRYmVGMXo4dGlfcVREbVh5RTlaQmE2dzZxSVp2aW9vT3M4VzF3Uk1oazV0ZW8zS21KMGdtSF9lQ1VIWldtZ0V5b3FMQXRSMzhzUkZ2UWhybXNDeWlR?oc=5>
 
-### 特朗普总统向伊朗发出新警告，称如果未能达成协议，美国将“完成任务”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-07-06 18:59
-- 链接: <https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRVg4b2trYkY5RXdwenJJNGhMRE52UFdSa05uVEV4OGdoazBmbk95WGd1VGR2N2k1VlFtUG95dmFWRl9ObUJzSGFXU3pmZ0F3dmFCUnVBa25vUEdTcW1QRzNpNGZ2ZlBWNy1BUlJzUFUycUxiQ1RuM0F6aFFVcjhhUzEtdGtZTWFtR0pXTzl3V1pIWklheEdxd2RETkwweGkzT0U0S01MaEhhdjJvNHR4Z2xqcnJITEs2VlUyMlQwc0wxUGQwaGJrR0g2T0FmdUUtaTN5NnJR0gHYAUFVX3lxTE1LdlNmdWMzSDV5WE5vbV9iaTk4bEpOSGtPNEhES2N2ZnNTVVpobnZVS0FLVUpiRlZGb3RYZmM2V1J5N3hHQzRmdlV5M3hIWWh3LUFOSFJYeTVrQXVZWm9IN2FfSzBSWjd4SWJSaDVYX2tlcFA5VjBPYmduV0ZlN1lSckd1dFo5azZxV2w4cmhJOVp5TzhwWU5mZ3duNldOUlRvdVRucDFpNkVvbi03UGR0WU02OUFUWWNSX05KczBpRGJwWjMtUWZzS09LaERxbDZjYndrOVQ0VA?oc=5>
-
-### 特朗普总统表示俄乌战争“正接近尾声”；北约峰会前夕俄罗斯空袭基辅地区并造成20人丧生
+### 特朗普AI视频自比总统山四巨头
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-07-06 17:35
-- 链接: <https://news.google.com/rss/articles/CBMi6AFBVV95cUxPN2oxUzltWmpwWmllU3dWQVNGWlZtUHZjemZkNmFsY1dIZ1U1Wjd3NXRjZzY2STJlLTBmQXQ3QXNic1pSSzBiSUdscG1XV29yd2JJTEJBWW9kbGI2MndkdV9yampNMVdJbVBkYnpfNzZEaXB2S3czRlM5UGduVF9BdkdnUFZaUE5yQmZGdE1xMzg0M1FNNVFXWTdqRmp0RXVPNmNFTFdnZUN1NkV3VTVWMmpMN0RLbFdoY21felVIY3IxZmtMVkVRMERSdmRkVFBFZGF3X3otVW1OZ3BoR0FRbkZzcUpUdU1l0gHrAUFVX3lxTFA2TXZjNU9CbGxNa1R4WllUcUJJM1dvMUJSYUVUR2JZSWV3QTAtN0ZWTVhsQkU1ZzNVWndHOFFuX1hoLWprQm1OUjUyOS1nUWdrV2RpaTJFbzJKclNHcEdDZ3YxNUZmWnRqX0pDcjJkUWRUSEl4RHRoYVdwUDdiNzN6OUtxeENhQzFZbDVHTU42akM2TFJieWZ3Z2g1N3duZkI5WC1WRXh4TE40LWlhZHlUb01aemMxaFduV0lsUWRsX25QM1k5ZGRMMUF2OVhmckZuZFZUdFg4bDIzSUd3M0trRnJZWXA1WWtxdWM?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-07-06 16:43
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE9vVkY4LUFWTXAzVEZmUXlHUXVfR05aRGpUQTNhemYyTUdrTTFVQzAtbUQ5UmU2T3BNSnZfaURhakVsT2VFTG15M3QtQV9jc0E2MHN6T3hFRGdjLXdqZUc3cU5pZjVlMUZEZGNFdFUyVFFqZw?oc=5>
 
-### “前线非常可怕”，特朗普称解决俄乌冲突将比人们认为的要快得多
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-06 17:17
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE00cVpFT1lVclFlSjRjREx1ZjE2azZuUXE2S1VMVHNMZVNJNG9tMGxabFpkd2J0RWk2ZTI2aEwxbUg0VXBDcm5HMzBOZUk?oc=5>
-
-### 世界杯：特朗普感谢FIFA暂缓巴洛贡禁赛
+### 美以关系紧张之际 内坦亚胡特朗普料下周会面
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: DW.com
-- 时间: 2026-07-06 10:57
-- 链接: <https://news.google.com/rss/articles/CBMiggJBVV95cUxNSGpUanJOaHRlVEdiOHItalh0T0IwLXhUbHNTaHVJZkJob2VRU3ZOY0hfY29CN2t2TlUydkQ1MmktWkotdno5LTlIcldQeVpFcV8weDZud2FKS25zdXhHOTltSEEwUER3NC01NVNuLWRRa1pvbXNpSHU3aUZfNnNYMkhFSFNjWktrQURnVmdsTW5ZLWdkeEJXVUZTX1J2OWdqWGltaENqUE0zNUUxNXNXdG9IczhaWDEyYmVra3otT0dzNGZqUDI5THRWQ1IweloxSTVvNzlKaXJtXzVfQ0NUQ3R4NzRtZ3Vjekktald1RXBCNE1jYVB4RFhRMkZhZEpxT3fSAYICQVVfeXFMUHdFakdIOWNFRzFBNlh3NHQ2MEg1N0dDOE1ZUXhJalB1SHVjMEdaM191NXpWcVRzYnZBZkFvcDBWRm95THJoUGc3NGxiQ0RqR2NfVXZwdEMyT0NOWWI3RmtvS0J4V1lla0NzdWU0d2VhQzF1VGhYTDZFOFFfMUJyX1h5azNMaDQxQ1B2UWtwdTA3cWwxa0dyOWU4MFRZSEYzZ0xDaTkxdENHRTNHdWNDbE1fNHF6MHhUQTI3YkpRVFp3STQ2aEc1X240NDIwQzhJNFlFbllpbEI3bnl0TmJGMWRGdmxQRWFQc3hyUTVpQndndkliallEaGN3dFN5Wm9pajV3?oc=5>
+- 场馆: 联合早报
+- 时间: 2026-07-05 00:36
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFAydzZrVTJrUlBCbUJIZ0tlaVc4bm9nNWhiWHFMcjFMcHNucnpHbWFVN0tORGt0N2JjZ1JyeXc3SWlkbnU5eFVfT21EODlzaXVjTGpIX0kwazlOWGtoTkFDSW5aUlRnUQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-06 21:53  (7 条)
+
+- **周杰伦** | 从攒钱买周杰伦专辑到开演唱会，王俊凯抢票翻车 <https://k.sina.com.cn/article_7879776328_1d5abd84806801xsng.html>
+- **周杰伦** | 王俊凯重庆演唱会加场安排提上日程了吗 <https://k.sina.com.cn/article_7879776328_1d5abd84806801xsgs.html>
+- **周杰伦** | 王俊凯真的自己买过周杰伦演唱会门票吗 <https://k.sina.com.cn/article_7879776328_1d5abd84806801xsgq.html>
+- **周杰伦** | 无锡奥体演唱会，周杰伦筹备中？ <https://k.sina.com.cn/article_7857201856_1d45362c001907xoqw.html>
+- **特朗普** | 特朗普在白宫为美股敲响开市钟 庆祝儿童储蓄项目“特朗普账户”上线 <https://news.google.com/rss/articles/CBMingJBVV95cUxQLU5CUnlyYllwYXZaemlqOEdTUXBKVG9FS3YxdS1VUkxwa1RwOFpMcTMwX3ladVZVVjA2YUZoSWdkaVRIdGVZU1RzMVg4SjFBMWhOQkdiUkpKX1JwdHpmNVh6cFlkTk04OW94dmtwNE9tUGtPYWFBNkJuRzZuZlp6bWt6Z0dDZlhidXN1c2c4Sl9kRHlxRzl0c3gyUlo2TW1OR3VURXY5RXpNVXJlVU9sVmNnT3dtRTRuTmIzWGhpaEV1UHdGdEsyXzFRYmVGMXo4dGlfcVREbVh5RTlaQmE2dzZxSVp2aW9vT3M4VzF3Uk1oazV0ZW8zS21KMGdtSF9lQ1VIWldtZ0V5b3FMQXRSMzhzUkZ2UWhybXNDeWlR?oc=5>
+- **特朗普** | 特朗普AI视频自比总统山四巨头 <https://news.google.com/rss/articles/CBMickFVX3lxTE9vVkY4LUFWTXAzVEZmUXlHUXVfR05aRGpUQTNhemYyTUdrTTFVQzAtbUQ5UmU2T3BNSnZfaURhakVsT2VFTG15M3QtQV9jc0E2MHN6T3hFRGdjLXdqZUc3cU5pZjVlMUZEZGNFdFUyVFFqZw?oc=5>
+- **特朗普** | 美以关系紧张之际 内坦亚胡特朗普料下周会面 <https://news.google.com/rss/articles/CBMiZkFVX3lxTFAydzZrVTJrUlBCbUJIZ0tlaVc4bm9nNWhiWHFMcjFMcHNucnpHbWFVN0tORGt0N2JjZ1JyeXc3SWlkbnU5eFVfT21EODlzaXVjTGpIX0kwazlOWGtoTkFDSW5aUlRnUQ?oc=5>
 
 ### 2026-07-06 20:21  (5 条)
 
