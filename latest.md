@@ -1,102 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-06 18:24**
-- 本轮扫到 5991 条, 新增 **11** 条
+- 最近更新: **2026-07-06 20:21**
+- 本轮扫到 5996 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (11 条)
+## 本轮新发现 (5 条)
 
-### 23岁TFBOYS成员王俊凯抢不到自己演唱会门票，为何连顶流都逃不过「一票难求」？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801b7yu.html>
-
-### SpaceX公司总裁肖特威尔将向“特朗普账户”捐赠所持公司股票
+### 特朗普在白宫为美股敲响开市钟 庆祝儿童储蓄项目“特朗普账户”上线
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-07-06 17:01
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxQUnhLaEhGM2NJeUh3V2R1QnZwbzk3RmdlcFAtanJLd0NmVm9qUnJUM1Jkc3I5RG9WSFUzR0pGYUpKS1FQUDNSd1pISmZ3SGQzTUNKYk80eUxlcmxkdnhac0I0MUQ5cG16MHlTLW1jcnJTNHVSVmsteVE0c09LeXZhYWkzMHF3UlU?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-07-06 18:57
+- 链接: <https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QZnN0anF1MEttS01MZGFCeEgxS2h4eXpRNjg5M3YyZUdBbEJwTFQ3Z3g3OGRyaTlLcWFtdUpUWDM3MnphS0tLM1QzNmdPUndlTktSVVc5bTJ6dw?oc=5>
 
-### SpaceX“二把手”官宣向“特朗普账户”捐赠个人股票 总价值超3亿美元
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-06 17:49
-- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTE0yU3RIbzA0RzhBSWt6U3ZmTVIya091aUtuWjBudGwwb1BaNlZmYzFPdmhTRXo4UjZkaGEwX3RJVWRIOU9rTml2MmhLV0M0LTB3S0xrR3JrMVN6Y0p1V3FVeFlBdjgtRTRlaXU1RDln?oc=5>
-
-### 美国主力球员免于停赛引争议 特朗普称仅致电国际足联要求复核
+### 特朗普总统向伊朗发出新警告，称如果未能达成协议，美国将“完成任务”
 
 - 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-07-06 15:39
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxQOHdKN092RW9GR3Z2SHcyWEM2UlNUaDRVaFo5Qi1nWFdUZ2lpeDgxazJPYU5oX3psUmlGWGJpTXljM254UnUzTG9LV3VkblhfOTBxSXRWcGhCQXBzSDhBblpFV1l2SDNJdlc5V2JCZE9WcE5ja09xUnZ4bk9tcU5FMGY5ODEzdHM?oc=5>
-
-### 特朗普斡旋下，中国地下教会牧师金明日获释
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-07-06 02:30
-- 链接: <https://news.google.com/rss/articles/CBMihgFBVV95cUxNMGhncF9uUEg4c244SzBVRE5mS2VSTFVIRE9OOTFmYzRKRkVuSjFWSlFjNVpBVGp0T19LUExQSHJSU1JVZXVMSjNGNW5BTUFqY3Vtc3gzZ3EtMjdvVnluaFVDaWZ3ZURHOEdham05b0Iyc056MUZaRGhwSWlNc0ZVakRtTFdkZw?oc=5>
-
-### 特朗普介入世界杯判罚 美国队对手喊不公
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-07-06 07:38
-- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxObnRZanZkbGlDRU9vS0FlT0ZSaEp1a1c1ejhjbmUySWN0SG5TaWhJUEhGTDF2R05XY3o0bFRWVzhrLU5DLWFEaE5xZGxQNDJPNGZJVDRwN1F6TjVOcno4WmxEZVNZYzM1c2V4RmRicEhnYzZnbG55Rm15QkY3SWwyUg?oc=5>
-
-### 特朗普称其与普京进行了“非常好的通话”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 央广网
-- 时间: 2026-07-06 15:47
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1bWpsa29wRGRrT200SG9kTjdfeUhwRTBTd1BvVWJwTV80Qi1BLWJPTXYzN3hERklndGlKV1ZpU0JlS3p2OTF1azl5ZzZ5WEx4NmY2VW5qSWdzMGFvSE9YajVZQ3V5OFlh?oc=5>
-
-### 川普迷因币暴跌97% 百万粉丝惨亏38亿 自己反狂赚
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 文学城
-- 时间: 2026-07-06 16:15
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lVlBsNVFCakRBS2N5MWlDelNXQmJLc05ZX01JME1rWERHX2thbzQ5dGphcUg1cGRxTldjcTcwOTN3VHdzUUNLZFZfdkFBOGZ6QXVkQzhEM3BHSlp3YU1SNGQ3NmZpbjJh?oc=5>
-
-### 特朗普总统说，他要求国际足联“复核”巴洛贡的红牌判罚，比利时同时誓言挑战解除禁赛的决定
-
-- 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: 美国之音
-- 时间: 2026-07-06 17:21
-- 链接: <https://news.google.com/rss/articles/CBMi_AFBVV95cUxQRnNMRWo5RndKR2ZGZ183bU12eXFaQnYtS3YtTFhaQUJDcndhR2ZJSkExV2pZWFFXdzBEZFNlRmp3RmxLeW1rWVBQd2R0VWZfOU1uYTd0dXBETHpTdS03Ujc3bUQ3NUFjSTFVN1hLbThIbjBHUVhvTDU5c2xvN2liS0YtZ2gtamYtODJzaWlUWThsUDZfMTVOdHNsYXJ1MDlmRWxNRUdVdk8tMnVmVEJkMGpNMElYblc5R25jMVNhOWRUR2dRVTFra3lDVVlzbzFhOWpyb3FXZVB0cjN3MThhTUo0Z0xhMmJhUi1UVmxTRE9qMEVUWjZYRnhiYXnSAf8BQVVfeXFMTWpkb1FMN3hBS0JiWjVNY3RGMUEyS0FjQlVYaUJia1Vsb3JOTGx2U3ZrVXc3NVFhLV9PZEJmNU9GT25iR2NhTHRFQUp1Nk1DU1VDM2psX0ZDZVBQcmtmb2UtSHZxT2lsdGlOTjZRMjRXUElfczc2Q2FKYzVsb3QtcHpIWng1SzhraHQ2bHRaTm5oU2dabEEzeW1kSm44Skp0WTZvNXRmOEdOXzZMb3NvNVFOOXN2TF9fYnBodE1IdTdvSWFhazR5cnlKWEFQU1JURDFTVHBQNElrSG5fRzk4b1o5MWRxOV9tLV9VLWRTZUoxMGVpSGVBVnFWZnpTeHlJ?oc=5>
+- 时间: 2026-07-06 18:59
+- 链接: <https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRVg4b2trYkY5RXdwenJJNGhMRE52UFdSa05uVEV4OGdoazBmbk95WGd1VGR2N2k1VlFtUG95dmFWRl9ObUJzSGFXU3pmZ0F3dmFCUnVBa25vUEdTcW1QRzNpNGZ2ZlBWNy1BUlJzUFUycUxiQ1RuM0F6aFFVcjhhUzEtdGtZTWFtR0pXTzl3V1pIWklheEdxd2RETkwweGkzT0U0S01MaEhhdjJvNHR4Z2xqcnJITEs2VlUyMlQwc0wxUGQwaGJrR0g2T0FmdUUtaTN5NnJR0gHYAUFVX3lxTE1LdlNmdWMzSDV5WE5vbV9iaTk4bEpOSGtPNEhES2N2ZnNTVVpobnZVS0FLVUpiRlZGb3RYZmM2V1J5N3hHQzRmdlV5M3hIWWh3LUFOSFJYeTVrQXVZWm9IN2FfSzBSWjd4SWJSaDVYX2tlcFA5VjBPYmduV0ZlN1lSckd1dFo5azZxV2w4cmhJOVp5TzhwWU5mZ3duNldOUlRvdVRucDFpNkVvbi03UGR0WU02OUFUWWNSX05KczBpRGJwWjMtUWZzS09LaERxbDZjYndrOVQ0VA?oc=5>
 
-### 特朗普证实要求FIFA覆核巴洛根红牌 强调未施压改判
+### 特朗普总统表示俄乌战争“正接近尾声”；北约峰会前夕俄罗斯空袭基辅地区并造成20人丧生
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-07-06 17:49
-- 链接: <https://news.google.com/rss/articles/CBMi4gJBVV95cUxPNEJELXBSdWRSdUlDU0Y5NXRzYVBmbXlmLWV3Ry1uNkp0QTZXQnRhVkloRmdoZjBJUzdzVlVlUFVRbjRzRlBhVC1PU0lEb0RVa1NTb2NDYWx3aE1YcktpY2R1VVQ3TEtrY2pSSVVTZG5Fb1hrX3JrNzMwSFcxcGYxLUszczZxTnJPRkR0T3FxSE1Eelg3SzU0WkNEQTUwbmNQMXBHbEtxWVRNX3RrdEhCajRVLXRGWlVGVzBDY20yblFzNkotMTN6eFloU1B0d2d1aEVfZEZ6ZlJ4WE5NWGxncHQ2S3Q2WFhtdFoxWk00dFBxMU1VdDN4TzIyMHF3S0JYQ3U3dWVKcUM4Y29mamxRMkM1aV9tWWR0WWJTU0l1eTdsc0NLN29QRWM5U0drUXZzV3RpUnA3d2F4NG1IT1c3YlBLSTlZa2NnUUZWeVlnaFk3VF9uNVNHZGlOWGlucmhCR1E?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-07-06 17:35
+- 链接: <https://news.google.com/rss/articles/CBMi6AFBVV95cUxPN2oxUzltWmpwWmllU3dWQVNGWlZtUHZjemZkNmFsY1dIZ1U1Wjd3NXRjZzY2STJlLTBmQXQ3QXNic1pSSzBiSUdscG1XV29yd2JJTEJBWW9kbGI2MndkdV9yampNMVdJbVBkYnpfNzZEaXB2S3czRlM5UGduVF9BdkdnUFZaUE5yQmZGdE1xMzg0M1FNNVFXWTdqRmp0RXVPNmNFTFdnZUN1NkV3VTVWMmpMN0RLbFdoY21felVIY3IxZmtMVkVRMERSdmRkVFBFZGF3X3otVW1OZ3BoR0FRbkZzcUpUdU1l0gHrAUFVX3lxTFA2TXZjNU9CbGxNa1R4WllUcUJJM1dvMUJSYUVUR2JZSWV3QTAtN0ZWTVhsQkU1ZzNVWndHOFFuX1hoLWprQm1OUjUyOS1nUWdrV2RpaTJFbzJKclNHcEdDZ3YxNUZmWnRqX0pDcjJkUWRUSEl4RHRoYVdwUDdiNzN6OUtxeENhQzFZbDVHTU42akM2TFJieWZ3Z2g1N3duZkI5WC1WRXh4TE40LWlhZHlUb01aemMxaFduV0lsUWRsX25QM1k5ZGRMMUF2OVhmckZuZFZUdFg4bDIzSUd3M0trRnJZWXA1WWtxdWM?oc=5>
 
-### 川普迷因币暴跌97% 百万粉丝惨亏38亿 自己反狂赚
+### “前线非常可怕”，特朗普称解决俄乌冲突将比人们认为的要快得多
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 文学城
-- 时间: 2026-07-06 16:15
-- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxOeFE4ZDVYWFZTcXJHYzdlcTE5MkdkNHp1VmtOVU1waXFoVWpxeG11V05qb080amw1cUpSUVhBNFp3dWxtNWtfWUFKS01qWUVINzQ5VkRyVFhYdnhvbDlqcncwZHJXeEp2X1hWOGxreDRfbXJ0YzM2Uy1sWGUzMURodw?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-07-06 17:17
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE00cVpFT1lVclFlSjRjREx1ZjE2azZuUXE2S1VMVHNMZVNJNG9tMGxabFpkd2J0RWk2ZTI2aEwxbUg0VXBDcm5HMzBOZUk?oc=5>
+
+### 世界杯：特朗普感谢FIFA暂缓巴洛贡禁赛
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: DW.com
+- 时间: 2026-07-06 10:57
+- 链接: <https://news.google.com/rss/articles/CBMiggJBVV95cUxNSGpUanJOaHRlVEdiOHItalh0T0IwLXhUbHNTaHVJZkJob2VRU3ZOY0hfY29CN2t2TlUydkQ1MmktWkotdno5LTlIcldQeVpFcV8weDZud2FKS25zdXhHOTltSEEwUER3NC01NVNuLWRRa1pvbXNpSHU3aUZfNnNYMkhFSFNjWktrQURnVmdsTW5ZLWdkeEJXVUZTX1J2OWdqWGltaENqUE0zNUUxNXNXdG9IczhaWDEyYmVra3otT0dzNGZqUDI5THRWQ1IweloxSTVvNzlKaXJtXzVfQ0NUQ3R4NzRtZ3Vjekktald1RXBCNE1jYVB4RFhRMkZhZEpxT3fSAYICQVVfeXFMUHdFakdIOWNFRzFBNlh3NHQ2MEg1N0dDOE1ZUXhJalB1SHVjMEdaM191NXpWcVRzYnZBZkFvcDBWRm95THJoUGc3NGxiQ0RqR2NfVXZwdEMyT0NOWWI3RmtvS0J4V1lla0NzdWU0d2VhQzF1VGhYTDZFOFFfMUJyX1h5azNMaDQxQ1B2UWtwdTA3cWwxa0dyOWU4MFRZSEYzZ0xDaTkxdENHRTNHdWNDbE1fNHF6MHhUQTI3YkpRVFp3STQ2aEc1X240NDIwQzhJNFlFbllpbEI3bnl0TmJGMWRGdmxQRWFQc3hyUTVpQndndkliallEaGN3dFN5Wm9pajV3?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-06 20:21  (5 条)
+
+- **特朗普** | 特朗普在白宫为美股敲响开市钟 庆祝儿童储蓄项目“特朗普账户”上线 <https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QZnN0anF1MEttS01MZGFCeEgxS2h4eXpRNjg5M3YyZUdBbEJwTFQ3Z3g3OGRyaTlLcWFtdUpUWDM3MnphS0tLM1QzNmdPUndlTktSVVc5bTJ6dw?oc=5>
+- **特朗普** | 特朗普总统向伊朗发出新警告，称如果未能达成协议，美国将“完成任务” <https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRVg4b2trYkY5RXdwenJJNGhMRE52UFdSa05uVEV4OGdoazBmbk95WGd1VGR2N2k1VlFtUG95dmFWRl9ObUJzSGFXU3pmZ0F3dmFCUnVBa25vUEdTcW1QRzNpNGZ2ZlBWNy1BUlJzUFUycUxiQ1RuM0F6aFFVcjhhUzEtdGtZTWFtR0pXTzl3V1pIWklheEdxd2RETkwweGkzT0U0S01MaEhhdjJvNHR4Z2xqcnJITEs2VlUyMlQwc0wxUGQwaGJrR0g2T0FmdUUtaTN5NnJR0gHYAUFVX3lxTE1LdlNmdWMzSDV5WE5vbV9iaTk4bEpOSGtPNEhES2N2ZnNTVVpobnZVS0FLVUpiRlZGb3RYZmM2V1J5N3hHQzRmdlV5M3hIWWh3LUFOSFJYeTVrQXVZWm9IN2FfSzBSWjd4SWJSaDVYX2tlcFA5VjBPYmduV0ZlN1lSckd1dFo5azZxV2w4cmhJOVp5TzhwWU5mZ3duNldOUlRvdVRucDFpNkVvbi03UGR0WU02OUFUWWNSX05KczBpRGJwWjMtUWZzS09LaERxbDZjYndrOVQ0VA?oc=5>
+- **特朗普** | 特朗普总统表示俄乌战争“正接近尾声”；北约峰会前夕俄罗斯空袭基辅地区并造成20人丧生 <https://news.google.com/rss/articles/CBMi6AFBVV95cUxPN2oxUzltWmpwWmllU3dWQVNGWlZtUHZjemZkNmFsY1dIZ1U1Wjd3NXRjZzY2STJlLTBmQXQ3QXNic1pSSzBiSUdscG1XV29yd2JJTEJBWW9kbGI2MndkdV9yampNMVdJbVBkYnpfNzZEaXB2S3czRlM5UGduVF9BdkdnUFZaUE5yQmZGdE1xMzg0M1FNNVFXWTdqRmp0RXVPNmNFTFdnZUN1NkV3VTVWMmpMN0RLbFdoY21felVIY3IxZmtMVkVRMERSdmRkVFBFZGF3X3otVW1OZ3BoR0FRbkZzcUpUdU1l0gHrAUFVX3lxTFA2TXZjNU9CbGxNa1R4WllUcUJJM1dvMUJSYUVUR2JZSWV3QTAtN0ZWTVhsQkU1ZzNVWndHOFFuX1hoLWprQm1OUjUyOS1nUWdrV2RpaTJFbzJKclNHcEdDZ3YxNUZmWnRqX0pDcjJkUWRUSEl4RHRoYVdwUDdiNzN6OUtxeENhQzFZbDVHTU42akM2TFJieWZ3Z2g1N3duZkI5WC1WRXh4TE40LWlhZHlUb01aemMxaFduV0lsUWRsX25QM1k5ZGRMMUF2OVhmckZuZFZUdFg4bDIzSUd3M0trRnJZWXA1WWtxdWM?oc=5>
+- **特朗普** | “前线非常可怕”，特朗普称解决俄乌冲突将比人们认为的要快得多 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE00cVpFT1lVclFlSjRjREx1ZjE2azZuUXE2S1VMVHNMZVNJNG9tMGxabFpkd2J0RWk2ZTI2aEwxbUg0VXBDcm5HMzBOZUk?oc=5>
+- **特朗普** | 世界杯：特朗普感谢FIFA暂缓巴洛贡禁赛 <https://news.google.com/rss/articles/CBMiggJBVV95cUxNSGpUanJOaHRlVEdiOHItalh0T0IwLXhUbHNTaHVJZkJob2VRU3ZOY0hfY29CN2t2TlUydkQ1MmktWkotdno5LTlIcldQeVpFcV8weDZud2FKS25zdXhHOTltSEEwUER3NC01NVNuLWRRa1pvbXNpSHU3aUZfNnNYMkhFSFNjWktrQURnVmdsTW5ZLWdkeEJXVUZTX1J2OWdqWGltaENqUE0zNUUxNXNXdG9IczhaWDEyYmVra3otT0dzNGZqUDI5THRWQ1IweloxSTVvNzlKaXJtXzVfQ0NUQ3R4NzRtZ3Vjekktald1RXBCNE1jYVB4RFhRMkZhZEpxT3fSAYICQVVfeXFMUHdFakdIOWNFRzFBNlh3NHQ2MEg1N0dDOE1ZUXhJalB1SHVjMEdaM191NXpWcVRzYnZBZkFvcDBWRm95THJoUGc3NGxiQ0RqR2NfVXZwdEMyT0NOWWI3RmtvS0J4V1lla0NzdWU0d2VhQzF1VGhYTDZFOFFfMUJyX1h5azNMaDQxQ1B2UWtwdTA3cWwxa0dyOWU4MFRZSEYzZ0xDaTkxdENHRTNHdWNDbE1fNHF6MHhUQTI3YkpRVFp3STQ2aEc1X240NDIwQzhJNFlFbllpbEI3bnl0TmJGMWRGdmxQRWFQc3hyUTVpQndndkliallEaGN3dFN5Wm9pajV3?oc=5>
 
 ### 2026-07-06 18:24  (11 条)
 
