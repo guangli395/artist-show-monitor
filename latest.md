@@ -1,46 +1,130 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-06 00:03**
-- 本轮扫到 5931 条, 新增 **4** 条
+- 最近更新: **2026-07-06 04:49**
+- 本轮扫到 5944 条, 新增 **13** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (13 条)
 
-### 林宥嘉这次巡演还会有其他嘉宾吗
+### 大哥自嘲无趣～一博你只需轻轻回眸一瞥 十个勤天贰零贰贰巡回演唱会
 
-- 艺人/关键词: **蔡徐坤**
+- 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801x7ns.html>
+- 链接: <https://k.sina.com.cn/article_6534084311_m1857636d703301hpy8.html>
 
-### 内塔尼亚胡：不认为与特朗普存在裂痕，很多国家领导人私下求合作，求教以军战术，求分享以色列在人工智能和网络领域的专长
+### 王一博新歌MV发布，林间灵鹿踏光送祝福
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-07-05 23:18
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9EYmNzdFFNUFRsT2g0NktBeXdYVGdkU2FYdEVMLXRHU0I0U0k5YS1mTXVDWVUtaFRaX0ZqY19MZnNPLWhaN0hJbHJtcTA5S2MyZHJ2eXNmSXJwTnVTaEN2LVRSSHQ2YWVCbHdGU056VkxMcHM4ajhlcFFvbjgyOHc?oc=5>
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923674_m1d5ae17da03301j6h0.html>
 
-### 加密货币市场全线拉升，超6万人爆仓！美伊谈判，突传重磅
+### 30岁日本女星三吉彩花巴黎黑色造型被批‘情趣内衣’，从周杰伦MV女主到大胆露背，她的风格转变为何引发两极争议？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801b334.html>
+
+### 北约峰会火药味升级：特朗普调停俄乌冲突，盟友却先“内部分裂”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-06 00:00
-- 链接: <https://news.google.com/rss/articles/CBMirwFBVV95cUxQT3NLWDJKT0ZBcWZvbkYzeTNSdVVNYmtEVklmdjlTaWpLejF4aVFlcDRUNjYxYkRKcm1RSHl2RjhQX2pmYlVyNWprbFRmdFpDM0lFQXVZYXhTTllSM29Fb1F0ZVp5YzdGOTZ4QWt3bE9nOGdPM0ZXMmZjX2tKX1lTMmlDZk5lMDVuYWRkR0xTcl9JOERSQU5kTUx1REhnM3VNLUIxZDBzeHAzZF9LdDJn?oc=5>
+- 时间: 2026-07-06 04:30
+- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxNaTk0TUF1MUt3Wm40LVY2TTNDMjEzYmV5NGJQR3F0OEVYX3YySkwtdVY4OWhJbDgwNnhweHpURHdjMFFRN3BDOEZfcjBoN0pVNGs4TTB3VWJ2QUtHRzRvbkRleDBzbDZMR2lSZm9pWG92M2VNdDFPZEp1Rmptc0tKLXNkcW56MW56YWQ2V3FhcUx4VVFESjROeQ?oc=5>
 
-### 特朗普：伊朗举国哀悼哈梅内伊令我震惊，还以为伊朗人不喜欢他，葬礼上一次攻击就能全部干掉伊朗高层，但不会这么做，这样就没人谈判了
+### 特朗普：“他知道谁是老大”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 每日经济新闻
-- 时间: 2026-07-05 07:27
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RTmtQN1cwckt1V3lsODZWRjFIMFk0MTRMYTF6NlpOSjRQUDVuTWhOUGVJOEtmTkMxSmJQbjNBQ3VGSlQ0SDJySS1Yc2JzS2NXUmhyVlZpeEp1dThnbXo5M0tJTURCZw?oc=5>
+- 场馆: 新浪军事
+- 时间: 2026-07-06 02:00
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5kU2Q1Ui1uYXBiWGlVaTNNTTRzQ3VnOTdjWmhKQ3FuS0YtdkljUDdhR0d3bjVaa3NQSEhBQkhqZkZNYl9pNGl2NkFJak13OGR0cFNYLTFVQ0hhc1BfMkZPeXBSemUycXNlZHA4dDk3SWtOaXc?oc=5>
+
+### 特朗普称内塔尼亚胡请求在白宫会晤：他知道谁是老大
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 环球网
+- 时间: 2026-07-05 07:50
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE5CaDljX1pkQm4ybHUxeVhjdWY4OEdHMlZ5Ri1JdXNjU2hObXF3azNIczJtUmtIdk85YWFxOC1RYmYydVhYWWROM0hvNmZlV0NVV1p3TVJLUXY?oc=5>
+
+### 美以关系紧张之际 内坦亚胡特朗普料下周会面
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-07-05 00:36
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1uX3RRWHhPWVdLcWRCc183LU04WnZGQmVpd09ySkpPWFVuenYyelVtaUhvNVNnZXpzSHJ1NnJFMl9VRHNGXzB5d3VrckJ5VTlSOWFUR2tIelJ6T2M5VVlVY2V5U3hzb3EteVE?oc=5>
+
+### 伊朗人高呼“复仇” 特朗普称“全是假哭”遭驳斥--国际
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 人民网
+- 时间: 2026-07-06 00:53
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE1ndS1NeTN2NG1HQTVEdnp4QlJzbS04WHBtenk1c0NNMmlGY0sxekR1S0dfbW9ZSEJPNlNGRDBWcHNpWTRNOHlrUkhLX09aU2lwSl9qcVhjVzFLSW8zOVVtQ0Z1Q3ZfTW8zUUp3?oc=5>
+
+### 特朗普一通电话后，国际足联破例了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-07-05 23:46
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1kYnhhbEdHcUZ4LUNtZWFCbG9veVNyNmdldzA2MWQzTFZkQV9PaTB6amtTOVF2TktUbnBuam5rM1BtVFhvMzA2RGJDVFE?oc=5>
+
+### 特朗普被曝施压国际足联 被判红牌的美国前锋将可继续出赛
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 财新
+- 时间: 2026-07-06 02:58
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBsVXlrSEVDTWRJX3hkZE1FWTJBSHRDbE4tRXU1RlpSeDVhczhGT0RLbWwyOFd6TWtDVzFuNHVVUk81UDVkZElXX19YUDUyUWpxR2hDXzhNaGN4d0ZjZVJUMU5LWG5PVDQtWHc?oc=5>
+
+### 美国天气酷热转为雷暴 特朗普坚称将发表演讲
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-07-05 02:19
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1MdWF1cW52RTNubXd6Tm9xREdpTUV0NmZlVk5TLXY3UGVTakZuQ3FOX2Y0THQwMEQtMmNVMXNpM1p1amtEQllkODQ1N2ZITVFTZlhUX21rVFNwaXFpZExka0F1QWZ3QQ?oc=5>
+
+### 立场神转!范斯"10年前投书"痛骂川普:美国希特勒
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 文学城
+- 时间: 2026-07-06 02:22
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE83XzdEVXlRNDl4SnVPOXZBY3cxOVBIeERpLThhSEpHR1cwMEo1WjNvaE14YnRyNFpyZFhTMEsySmV2X3VRbUxHZmprbzlpazk0QjBKRTBfclo2X3h5akM5ZWo4Q2wtb3I5?oc=5>
+
+### 内存涨价潮减速，TRUMP散户亏38亿｜Rewire新闻早报
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 富途牛牛
+- 时间: 2026-07-06 02:00
+- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxNejJuTjh4S0VxOVJTZmFaY1NNWkcxbXJTMW5ITENJamQ4OVNNU3REbjRQOE5SOERsaHJNX3JHU3ZnY1BOSVBjZnIxMTNtMjhwbllCZ29ob2g1SHRFQXVFLW1NNmZjX2hfRVpoblVvR1ZYZlRaWkVkMmJSM1d5NjBkZURHYjFJOXNrbUFFaWRHRHF3cm5KRS1tdUNlZnVud3J2?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-06 04:49  (13 条)
+
+- **王一博** | 大哥自嘲无趣～一博你只需轻轻回眸一瞥 十个勤天贰零贰贰巡回演唱会 <https://k.sina.com.cn/article_6534084311_m1857636d703301hpy8.html>
+- **王一博** | 王一博新歌MV发布，林间灵鹿踏光送祝福 <https://k.sina.com.cn/article_7879923674_m1d5ae17da03301j6h0.html>
+- **周杰伦** | 30岁日本女星三吉彩花巴黎黑色造型被批‘情趣内衣’，从周杰伦MV女主到大胆露背，她的风格转变为何引发两极争议？ <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801b334.html>
+- **特朗普** | 北约峰会火药味升级：特朗普调停俄乌冲突，盟友却先“内部分裂” <https://news.google.com/rss/articles/CBMimAFBVV95cUxNaTk0TUF1MUt3Wm40LVY2TTNDMjEzYmV5NGJQR3F0OEVYX3YySkwtdVY4OWhJbDgwNnhweHpURHdjMFFRN3BDOEZfcjBoN0pVNGs4TTB3VWJ2QUtHRzRvbkRleDBzbDZMR2lSZm9pWG92M2VNdDFPZEp1Rmptc0tKLXNkcW56MW56YWQ2V3FhcUx4VVFESjROeQ?oc=5>
+- **特朗普** | 特朗普：“他知道谁是老大” <https://news.google.com/rss/articles/CBMic0FVX3lxTE5kU2Q1Ui1uYXBiWGlVaTNNTTRzQ3VnOTdjWmhKQ3FuS0YtdkljUDdhR0d3bjVaa3NQSEhBQkhqZkZNYl9pNGl2NkFJak13OGR0cFNYLTFVQ0hhc1BfMkZPeXBSemUycXNlZHA4dDk3SWtOaXc?oc=5>
+- **特朗普** | 特朗普称内塔尼亚胡请求在白宫会晤：他知道谁是老大 <https://news.google.com/rss/articles/CBMiWEFVX3lxTE5CaDljX1pkQm4ybHUxeVhjdWY4OEdHMlZ5Ri1JdXNjU2hObXF3azNIczJtUmtIdk85YWFxOC1RYmYydVhYWWROM0hvNmZlV0NVV1p3TVJLUXY?oc=5>
+- **特朗普** | 美以关系紧张之际 内坦亚胡特朗普料下周会面 <https://news.google.com/rss/articles/CBMiakFVX3lxTE1uX3RRWHhPWVdLcWRCc183LU04WnZGQmVpd09ySkpPWFVuenYyelVtaUhvNVNnZXpzSHJ1NnJFMl9VRHNGXzB5d3VrckJ5VTlSOWFUR2tIelJ6T2M5VVlVY2V5U3hzb3EteVE?oc=5>
+- **特朗普** | 伊朗人高呼“复仇” 特朗普称“全是假哭”遭驳斥--国际 <https://news.google.com/rss/articles/CBMia0FVX3lxTE1ndS1NeTN2NG1HQTVEdnp4QlJzbS04WHBtenk1c0NNMmlGY0sxekR1S0dfbW9ZSEJPNlNGRDBWcHNpWTRNOHlrUkhLX09aU2lwSl9qcVhjVzFLSW8zOVVtQ0Z1Q3ZfTW8zUUp3?oc=5>
+- **特朗普** | 特朗普一通电话后，国际足联破例了 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1kYnhhbEdHcUZ4LUNtZWFCbG9veVNyNmdldzA2MWQzTFZkQV9PaTB6amtTOVF2TktUbnBuam5rM1BtVFhvMzA2RGJDVFE?oc=5>
+- **特朗普** | 特朗普被曝施压国际足联 被判红牌的美国前锋将可继续出赛 <https://news.google.com/rss/articles/CBMiakFVX3lxTFBsVXlrSEVDTWRJX3hkZE1FWTJBSHRDbE4tRXU1RlpSeDVhczhGT0RLbWwyOFd6TWtDVzFuNHVVUk81UDVkZElXX19YUDUyUWpxR2hDXzhNaGN4d0ZjZVJUMU5LWG5PVDQtWHc?oc=5>
+- **特朗普** | 美国天气酷热转为雷暴 特朗普坚称将发表演讲 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1MdWF1cW52RTNubXd6Tm9xREdpTUV0NmZlVk5TLXY3UGVTakZuQ3FOX2Y0THQwMEQtMmNVMXNpM1p1amtEQllkODQ1N2ZITVFTZlhUX21rVFNwaXFpZExka0F1QWZ3QQ?oc=5>
+- **Trump** | 立场神转!范斯"10年前投书"痛骂川普:美国希特勒 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE83XzdEVXlRNDl4SnVPOXZBY3cxOVBIeERpLThhSEpHR1cwMEo1WjNvaE14YnRyNFpyZFhTMEsySmV2X3VRbUxHZmprbzlpazk0QjBKRTBfclo2X3h5akM5ZWo4Q2wtb3I5?oc=5>
+- **Trump** | 内存涨价潮减速，TRUMP散户亏38亿｜Rewire新闻早报 <https://news.google.com/rss/articles/CBMioAFBVV95cUxNejJuTjh4S0VxOVJTZmFaY1NNWkcxbXJTMW5ITENJamQ4OVNNU3REbjRQOE5SOERsaHJNX3JHU3ZnY1BOSVBjZnIxMTNtMjhwbllCZ29ob2g1SHRFQXVFLW1NNmZjX2hfRVpoblVvR1ZYZlRaWkVkMmJSM1d5NjBkZURHYjFJOXNrbUFFaWRHRHF3cm5KRS1tdUNlZnVud3J2?oc=5>
 
 ### 2026-07-06 00:03  (4 条)
 
