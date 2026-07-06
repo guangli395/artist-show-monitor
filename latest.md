@@ -1,68 +1,119 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-06 08:56**
-- 本轮扫到 5951 条, 新增 **7** 条
+- 最近更新: **2026-07-06 12:44**
+- 本轮扫到 5963 条, 新增 **12** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (12 条)
 
-### 蔡徐坤新歌叫什么好听吗 没有意外林宥嘉一句话粉丝炸了
+### 蔡徐坤新歌《没有意外》业绩很优秀,却还是被大众吐槽“难听”!
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907wgns.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907x8js.html>
 
-### 2026 热门歌手巡演安排全盘点:从鸟巢到体育馆，谁在唱、在哪看_小白
+### 华语歌手谢霆锋温州演唱会官宣定档10.31 能拉动多少文旅消费？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857141524_1d4527714019041rf2.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801xk0u.html>
 
-### 美国球员破天荒“染红后复活” 外媒曝特朗普曾施压
+### 谢霆锋温州演唱会能带动多少温州文旅消费？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801xjys.html>
+
+### 演唱会就这么拍！周杰伦登场啦！
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_6085757658_m16abd4ada03301cr0u.html>
+
+### 特朗普与普京长谈90分钟，普京再发访俄邀请
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-07-06 08:35
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE4tZFBjRXA1RmhNNk4xVU5vcEtsaC15YU9oVERaZFZ2cGc5dl9iZ3NMejdxUmhOblFUUWU4YVJRaXduWHpTWTlkb0N0RWhEY1pEMW9ZTnVWREZ0czgzSDY2cURCbEFFZkRLM2ttdFFxLTZtakFkeDNNV2NtdkQ2R1U?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-07-06 02:42
+- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxPNS00WFM2ZWtrUXZCY1BQY3QwVjNxY1QxNC11d3JxUlVhODNIM0dBRFJ0bml4cHBwQ0I1TUZoNlp6blNVLU5iWmtCbHdabmxlUG1DQURpMHZoa2xzT3RsWTFXbGE3X1cxY0tLb0I1U1JwVHdtQWRHcHhsUW1Vc01FUXh2YkE3MmowLVh3T1JWU25CaVplSU5oMg?oc=5>
 
-### 伊朗人高呼“复仇”，特朗普称“全是假哭”遭驳斥
+### “北约 3.0 时代”：各国国防开支迎来特朗普大考
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-05 11:57
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE4tb3k5dEJPNXNQTXQwMFJEeGs4TFhhZjd4b1ZnREJ6bzltX3l4T1FHMVZGRDRzWW5Hak1nbUlObXMzdDA0TFhsTA?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-07-06 11:15
+- 链接: <https://news.google.com/rss/articles/CBMi_wFBVV95cUxNVVJKMFBDOFJ5MjBQQTlhTlVoYlZpcjI1N3hON3ZwbFg3TkJwdVRjVGlDTUZXMTVHMjZwUDZjWk4zQUlFN1lJb3VNMFBqb1F3VTJaRDd3a2lTNjNyOGJ2TGpYQnFLX0tQbjFxendnS2JXcTU2a0lKdWp5elE2bWNPVVh0NURxVHZlZTVVS09OVFFIcXdJS1d5MDdzRVgxTm9Dd2FxckNERnozcTZ0MmtaTnJNVVdrWUdpNVNDQnQ3MHo3Tlg5a3htR21ySzNLLWJ6TF9pT2JBdlJZYUQ5bk8xblJVbjZpLWYzcXN4c3lNTEdwbnQwbThuU3RibUJlVGM?oc=5>
+
+### 内塔尼亚胡欲赴美游说，特朗普：他知道谁是老大！
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: shobserver.com
+- 时间: 2026-07-06 10:10
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE1zVHV6RzlETmxhd0tkNGc2TlJOTFRHbTdpRm43OG83SlBLeVlHeFA1clUtVV91MUFpUFQ0NEZuc2tJRktESF9PN0sxOE5yWjdoMTM5aEp2NXNLbDdHZmc?oc=5>
+
+### 俩人都闹掰了，特朗普还发图挑衅梅洛尼
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-07-06 08:27
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1rOG11c3BDQ0pXVTFRZVoyVkgzOFBzYUFrdGJWZEYwT0otbmpJZzU4N3NyZ1N3LXZXYkE5dDFCRDJobUN4MGVLOUU1SzEwOW5QekdoMzhUTmJMYVhyQTJsRndHN3R4SE42SHc?oc=5>
+
+### 国际｜特朗普将访问土耳其，当地一大桥挂横幅抗议
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新京报
+- 时间: 2026-07-06 10:46
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2ZkVXZWxqMlBHLUlMcmg4ekZjaWF0NkNUakFGN0lOVHJlUFY2aWY0YlpPYmpfQllxbFZ5bXo3Z2hsMFgtSXpSTllXaE8xUy00V190ZlZCZUY2UWo5NUpOR2dza2Y?oc=5>
+
+### 美国250年纠葛史：奴隶制、原爆与特朗普2.0
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 日经中文网
+- 时间: 2026-07-06 02:14
+- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxNRkh1bUUzNWE4QkR1a1ctSXo2YTVlX2hId0Vqcms4UGl2SWZLc3JubmV6TUhoNVpuc2w3MklZX2NTTXo4SWo5dVFKZW90bTF1SGdsSE9wR25tTXhBNk1mdkdBZUJOQ1RVQnVaaTlJd29JaEZNV2IzT2M0dnNVS0dDUw?oc=5>
 
 ### 特朗普：哈梅内伊葬礼上一次攻击就能全部干掉伊朗高层，但不会这么做，这样就没人谈判了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-06 08:13
-- 链接: <https://news.google.com/rss/articles/CBMikgJBVV95cUxNQVVaZDRpay01QUV0M3J6ZXo1elQwRThPTzg2aHlPUEEtbDctMERzWWhsb1dCREhQMFB0bzJ0NVNlckpsd3hGbndNUFBrNHlaY29ySEdKQnRkU2h4aUx1UUczZHIyMUZLUWt3NWwtYTJIeXVtWXpfSHFXRnkxenZJUUR4b0IxYlBQT2VHWWVfM3lyNnlQUE0tbm5YZHRpYlNxWEd4eFE1cThyNGJUU2JILVBKcjVCaVIzQjVvWWVUblpnLVFIRW95MzVhcHNvd3dnZS0wblFvcXRCbXM0N2hwR2ZrUjRqcWRiZnNFbTUyX1lDdzFSQTIyNUpXdjN4QzhQc1lmcldTLUpvYlQ4bjU4RS1n?oc=5>
+- 场馆: 华尔街见闻
+- 时间: 2026-07-05 09:58
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPWTNtdmpYeEYwdUZnMHFLZW5BeE1wQmo1dERJVEdmWlVvMW9YMnBLUjltNFRsSjJ5WWgxVm90S2xOdUlOYWlYYVpKcVdMRk16SFRj?oc=5>
 
-### 内塔尼亚胡：以色列有许多朋友，比如“小国”印度
+### 以总理否认与特朗普存在裂痕 强调美以同盟关系
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-07-06 03:36
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE4tNU1wa2Z6UDAtbm5NTXhHMURUUmRMMTZpRDM1MzY3dGcwVVJuTk0zS2Y1TkJtRkhPcHBESW1iQzIzMG1GNFlTNHJqRjJwQktZRVlJME9MdmtnbFRzVXA0RnJnamJEeFdZTGc?oc=5>
-
-### 分析发现：特朗普迷因币投资者亏损38亿美元
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-06 07:11
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9RcFBCVmItN2RqMUE5M2ttR2ZxakY2MDZCcDhsVkFGYTRwZThqNTM5VGF0RWxCTlhXQ0pvYURXNXhxWTNhaHB1TkFYZw?oc=5>
+- 场馆: 中华军事
+- 时间: 2026-07-06 07:17
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1zd2xBSWQ2bnA0RXlxTmhtWkplcVR3ZmNuTDFnVnpHY1NnWkU1LVJsTGg4VlU2NVhfR05fcTdfbG52dHNEUF9ZdGtjMEFxbVZwTHQzOS1tVHFxYVpSZi11cGJaQk9SZ0x3eTNwTEFfQVc?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-06 12:44  (12 条)
+
+- **蔡徐坤** | 蔡徐坤新歌《没有意外》业绩很优秀,却还是被大众吐槽“难听”! <https://k.sina.com.cn/article_7857201856_1d45362c001907x8js.html>
+- **周杰伦** | 华语歌手谢霆锋温州演唱会官宣定档10.31 能拉动多少文旅消费？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801xk0u.html>
+- **周杰伦** | 谢霆锋温州演唱会能带动多少温州文旅消费？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801xjys.html>
+- **周杰伦** | 演唱会就这么拍！周杰伦登场啦！ <https://k.sina.com.cn/article_6085757658_m16abd4ada03301cr0u.html>
+- **特朗普** | 特朗普与普京长谈90分钟，普京再发访俄邀请 <https://news.google.com/rss/articles/CBMimAFBVV95cUxPNS00WFM2ZWtrUXZCY1BQY3QwVjNxY1QxNC11d3JxUlVhODNIM0dBRFJ0bml4cHBwQ0I1TUZoNlp6blNVLU5iWmtCbHdabmxlUG1DQURpMHZoa2xzT3RsWTFXbGE3X1cxY0tLb0I1U1JwVHdtQWRHcHhsUW1Vc01FUXh2YkE3MmowLVh3T1JWU25CaVplSU5oMg?oc=5>
+- **特朗普** | “北约 3.0 时代”：各国国防开支迎来特朗普大考 <https://news.google.com/rss/articles/CBMi_wFBVV95cUxNVVJKMFBDOFJ5MjBQQTlhTlVoYlZpcjI1N3hON3ZwbFg3TkJwdVRjVGlDTUZXMTVHMjZwUDZjWk4zQUlFN1lJb3VNMFBqb1F3VTJaRDd3a2lTNjNyOGJ2TGpYQnFLX0tQbjFxendnS2JXcTU2a0lKdWp5elE2bWNPVVh0NURxVHZlZTVVS09OVFFIcXdJS1d5MDdzRVgxTm9Dd2FxckNERnozcTZ0MmtaTnJNVVdrWUdpNVNDQnQ3MHo3Tlg5a3htR21ySzNLLWJ6TF9pT2JBdlJZYUQ5bk8xblJVbjZpLWYzcXN4c3lNTEdwbnQwbThuU3RibUJlVGM?oc=5>
+- **特朗普** | 内塔尼亚胡欲赴美游说，特朗普：他知道谁是老大！ <https://news.google.com/rss/articles/CBMiXkFVX3lxTE1zVHV6RzlETmxhd0tkNGc2TlJOTFRHbTdpRm43OG83SlBLeVlHeFA1clUtVV91MUFpUFQ0NEZuc2tJRktESF9PN0sxOE5yWjdoMTM5aEp2NXNLbDdHZmc?oc=5>
+- **特朗普** | 俩人都闹掰了，特朗普还发图挑衅梅洛尼 <https://news.google.com/rss/articles/CBMiakFVX3lxTE1rOG11c3BDQ0pXVTFRZVoyVkgzOFBzYUFrdGJWZEYwT0otbmpJZzU4N3NyZ1N3LXZXYkE5dDFCRDJobUN4MGVLOUU1SzEwOW5QekdoMzhUTmJMYVhyQTJsRndHN3R4SE42SHc?oc=5>
+- **特朗普** | 国际｜特朗普将访问土耳其，当地一大桥挂横幅抗议 <https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2ZkVXZWxqMlBHLUlMcmg4ekZjaWF0NkNUakFGN0lOVHJlUFY2aWY0YlpPYmpfQllxbFZ5bXo3Z2hsMFgtSXpSTllXaE8xUy00V190ZlZCZUY2UWo5NUpOR2dza2Y?oc=5>
+- **特朗普** | 美国250年纠葛史：奴隶制、原爆与特朗普2.0 <https://news.google.com/rss/articles/CBMigAFBVV95cUxNRkh1bUUzNWE4QkR1a1ctSXo2YTVlX2hId0Vqcms4UGl2SWZLc3JubmV6TUhoNVpuc2w3MklZX2NTTXo4SWo5dVFKZW90bTF1SGdsSE9wR25tTXhBNk1mdkdBZUJOQ1RVQnVaaTlJd29JaEZNV2IzT2M0dnNVS0dDUw?oc=5>
+- **特朗普** | 特朗普：哈梅内伊葬礼上一次攻击就能全部干掉伊朗高层，但不会这么做，这样就没人谈判了 <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPWTNtdmpYeEYwdUZnMHFLZW5BeE1wQmo1dERJVEdmWlVvMW9YMnBLUjltNFRsSjJ5WWgxVm90S2xOdUlOYWlYYVpKcVdMRk16SFRj?oc=5>
+- **特朗普** | 以总理否认与特朗普存在裂痕 强调美以同盟关系 <https://news.google.com/rss/articles/CBMicEFVX3lxTE1zd2xBSWQ2bnA0RXlxTmhtWkplcVR3ZmNuTDFnVnpHY1NnWkU1LVJsTGg4VlU2NVhfR05fcTdfbG52dHNEUF9ZdGtjMEFxbVZwTHQzOS1tVHFxYVpSZi11cGJaQk9SZ0x3eTNwTEFfQVc?oc=5>
 
 ### 2026-07-06 08:56  (7 条)
 
