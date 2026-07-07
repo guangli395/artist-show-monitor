@@ -1,72 +1,44 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-07 21:17**
-- 本轮扫到 6111 条, 新增 **8** 条
+- 最近更新: **2026-07-07 22:35**
+- 本轮扫到 6114 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (3 条)
 
-### 新浪演唱会热点小时报丨2026年07月08日05时_今日实时演唱会热点速递
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c00190809xs.html>
-
-### 新浪演唱会热点小时报丨2026年07月08日04时_今日实时演唱会热点速递
+### 新浪演唱会热点小时报丨2026年07月08日06时_今日实时演唱会热点速递
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c00190808sm.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019080c9o.html>
 
-### 电影《功夫女足》的主题曲叫什么名字？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879922982_1d5ae15260680axtri.html>
-
-### 普通人怎么才能抢到周杰伦演唱会门票？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801y8ea.html>
-
-### 特朗普公开喊话去买戴尔电脑，戴尔股价一度飙升
+### 特朗普折腾一年，美国贸易赤字不降反升
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-07-07 20:45
-- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxOV0kzeU5QMFk1SWJHejBoMzZrMFFObFo2LUlzSTlBdWhGVmVjckpwZHdnQ1BpMnpJV0hXWTNhQW1EU0lYMWJIU2FFdEUtdHZBLTNFdmFiQkl0eTBSc3RkdmFBTW1meTJXSWJlZkR1S3BMTEU4YVh5REZWeU55QWd4S0VxWQ?oc=5>
+- 场馆: 观察者
+- 时间: 2026-07-07 14:27
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5tOGpvN0tZajMyZGhjQ0otaHVEc0w0cDRtT3R1S1h0YTB3Rnk2T0l3RGljUW4xTzM4OEcyX2hXYVo5R0pwQzRJUWpzVTROYWlmMmpEVFVzMHFjY1RnNHFtbUNfZHpTQnVpRFE?oc=5>
 
-### 要闻分析 - 中国地下教会牧师获释 特朗普拿什么牌斡旋的？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-07-07 20:04
-- 链接: <https://news.google.com/rss/articles/CBMimgNBVV95cUxQV0RKRnR3SFIxWGR1V1BHTFBqWkpTd2VqNFpDWEtsQjdWSXBxUTZ6M0x2aUJDcFNndDBaR1RLNnU3RUp3ZFQzTTdqTUNxQ0VqazR0LVJMTk9sRk9IZzFQc0JRQVp0cWsyRV9yeEZkVXhMZDdYSkJmV1JHelc5RWhRZWNnVEFCYmQ5SlRZZnBEc2ZjRjlBZUhzVUd5dFRiVEkzM0h2VnZjMmVfU0h6RExEbk1wWEE2ZE9hLVFZS3lWeEpHWlM1VUV3OGFNYzFQR2cybk5zMldma28wam5xSXdLOWoybkExbFp5UXRZWlo5a3ZGZXJHSDJOVDBJdjZob21pODdWOEFodTkwc3c3dVByZmh6VFFsNWlER2FhMElRZGFKYk4yQVU0aGxUUy03NDljZjkyM2wtV3FBa0g4SER6djFidVlaT09uNGt1VFMwMUR4V2ZyMVFmemtCYWlYTnBmSDM3SXY0THFCbzRUb2hPUWswRWhkNU9fazQyX3RuT0lVeDl0T3VqcFpQcGs1b2JLZFVvWlhkV3cyUQ?oc=5>
-
-### 内塔尼亚胡要求特朗普管管埃尔多安，抱怨他的反以言论近来“越来越过分”，埃尔多安此前公开祷告摧毁以色列
+### 快讯：金明日牧师美国独立日获释抵达美国，家人“感谢特朗普总统及其政府展现出的卓越领导力”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-07 14:28
-- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxOWmNyU3lUZVZwcGY2ZzZwZVhkS0R3X29rSGNYNmc2eERGck93NUFyaWZPdHhQbjlhNVhmSzNUYkkxVjBxOERjWnUyNG9jeTJBWk9ubjlpTVcyYnFJTjh1bHl3REdaYmg2dHJvcDJEZk1KYXJlSzVrOHNaMUgzanN3MUcxYw?oc=5>
-
-### 暗示要对梅洛尼下达限制令后，特朗普又夸了她
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-07 19:53
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9hQ2h3Y3piWlN4dnlBSnc4Z0F0eFp3dGgzOFhBRUJYTW5MYURSQ01WeF9NdnA3NVpDckVwVmQ1eUxnd0tPQ196Vmt6cVE?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-07-05 01:50
+- 链接: <https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY0MxRE5HNGV2XzR6N1ZBVmRUcU9xX3hKcHhWMHV4LTJYYXVpVEtrSE5CZHRnd000M0l1Y0dzTnhVN3JWSlBhTlh1eGlKOHpSSW0yN1hsV2RKa2ZybFd6WlZKaGI5RTNlRVdWaWxubWo1LTZGTndFQzU2T1hlaG5aX1lfa2JyV1haOFNyTWNpb25LQkFvU0xPNlJQREtSUlEwNGZ5dl91ZGlvdHNZWEJuaUgtQjdHWEpS0gG7AUFVX3lxTE54X1VLX21oY2E0eGgtS0g1OHZkR0lEbEZuR0VuSngzR2taa3NERm4wMkFMbjhhTDFSemtYckFwUjgtaVYtaGhfNlN3TXJoZ1hPSkNGemt1QkRTamdIRE1nS2drZ2M0MER1ZzlQblZBZ2xmOGJqTEhhYUZNRE5uczlLTlk2d1ViVkpjNXkzcEctLUNSVGlYWHdkUVhBRlYyMlVNM093TDZpV0thT3JhU2hyMXRxY1dEV0duMFE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-07 22:35  (3 条)
+
+- **周杰伦** | 新浪演唱会热点小时报丨2026年07月08日06时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c0019080c9o.html>
+- **特朗普** | 特朗普折腾一年，美国贸易赤字不降反升 <https://news.google.com/rss/articles/CBMiakFVX3lxTE5tOGpvN0tZajMyZGhjQ0otaHVEc0w0cDRtT3R1S1h0YTB3Rnk2T0l3RGljUW4xTzM4OEcyX2hXYVo5R0pwQzRJUWpzVTROYWlmMmpEVFVzMHFjY1RnNHFtbUNfZHpTQnVpRFE?oc=5>
+- **特朗普** | 快讯：金明日牧师美国独立日获释抵达美国，家人“感谢特朗普总统及其政府展现出的卓越领导力” <https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY0MxRE5HNGV2XzR6N1ZBVmRUcU9xX3hKcHhWMHV4LTJYYXVpVEtrSE5CZHRnd000M0l1Y0dzTnhVN3JWSlBhTlh1eGlKOHpSSW0yN1hsV2RKa2ZybFd6WlZKaGI5RTNlRVdWaWxubWo1LTZGTndFQzU2T1hlaG5aX1lfa2JyV1haOFNyTWNpb25LQkFvU0xPNlJQREtSUlEwNGZ5dl91ZGlvdHNZWEJuaUgtQjdHWEpS0gG7AUFVX3lxTE54X1VLX21oY2E0eGgtS0g1OHZkR0lEbEZuR0VuSngzR2taa3NERm4wMkFMbjhhTDFSemtYckFwUjgtaVYtaGhfNlN3TXJoZ1hPSkNGemt1QkRTamdIRE1nS2drZ2M0MER1ZzlQblZBZ2xmOGJqTEhhYUZNRE5uczlLTlk2d1ViVkpjNXkzcEctLUNSVGlYWHdkUVhBRlYyMlVNM093TDZpV0thT3JhU2hyMXRxY1dEV0duMFE?oc=5>
 
 ### 2026-07-07 21:17  (8 条)
 
