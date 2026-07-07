@@ -1,72 +1,101 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-07 17:31**
-- 本轮扫到 6093 条, 新增 **7** 条
+- 最近更新: **2026-07-07 19:46**
+- 本轮扫到 6103 条, 新增 **10** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (10 条)
 
-### 特朗普抵达安卡拉出席北约峰会 将讨论贸易与安全议题
+### 周杰伦为《功夫女足》创作的主题曲什么时候上线？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-07-07 15:52
-- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTE80MjhXLW1lbzhNeEJXMjlWcUhOUkhQVUtjWjVXSGNpamp2anpWNnljZzd1Sld1Rk9lMWUwMVhuMkZaNFl3WnVyclo4OEU4V3JxRFlXNTVFN2ZwZThDN2pHQXU5UTBQMDByeVpiUjlB0gFwQVVfeXFMTm1Ic1kxX1pib0d5YWsxamV4MFd1YnY3VGd1NWlJdG0xQlg1d3o3OGV4Wk5nU0hTV1dmYlFkZlFDU0NyNy1kYTY3OVN4NndYdVhGaVNLd2FweWRCLVhWazRUUkVESU1xSjc0MHlLcmNReQ?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ydak.html>
 
-### 特朗普宣布解除对土耳其制裁 称将考虑恢复F-35战机军售
+### 新浪演唱会热点小时报丨2026年07月08日03时_今日实时演唱会热点速递
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-07-07 17:23
-- 链接: <https://news.google.com/rss/articles/CBMi-gJBVV95cUxOSGFFd2VtMUNSeUtRQlpkQktNODR4UTNRcGZONUZILXJjTWpKNTJCQnd0RTFUMmdMWmd0TkxDcmY2RFRGRWNqdV8xNzdIYjFQX2JIdkxxRXJTUGttc01TVGJUNkNaUlNZVDN1d2ptcjJUU2VzRDFQU2Zpb05tQ1hjT0VIRkJMUW05U1lOZmpjcE1yMklZeGg3aEZjNVZGYVpiQ19QY2lQd0gzM2FWbURaX21WbDJRM3RIVDhtMFM5dFFlYnhidEFfbFY0dDdVRURUYThVTzBBaU5aazhKTEw2N1lpdFg0bkZaN05BaTR5N09lSXExazdGTmxMT1BXbEFOZ3BYLXdlUkFGY0kwUTlJRURUeDZ0OC12QWZiSlp1OGo5U3E4cEpCSzdtbVZITDlkNkNUY2x2RlpDVHFkUkZiMU1tQXRTZ0liODBHU1ltN0hXeWdBdTZFNGlKSjAxQkpfdnlNOFpRenhLODQtcXBTNVVyMlpXejJXYXc?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c00190807h2.html>
 
-### 特朗普挥舞“关税大棒”折腾一年，美国贸易赤字扩大至2025年3月以来最高
+### 周杰伦为《功夫女足》创作的主题曲叫什么？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ybza.html>
+
+### 周杰伦确认献唱《功夫女足》主题曲！
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ybyk.html>
+
+### 特朗普：沃尔玛将下调碎牛肉及其他商品的价格
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-07 16:59
-- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxONFpaZzYzZ2tKbDVrT0FxVTJYZ0hSejZ6Tmo2NnpVSXkxa1J6THhoN1lfZU51Nmc0eG5Zc0p0aWdoQmRoZ3VXRE5yTTVtR1AweHFFT0lLa3VMdGY4cVRXTmZ6ZllrMmk5OWZtTkdvZFozRmllR3RhTTFiNWZZVEMzNGd1WQ?oc=5>
+- 时间: 2026-07-07 18:31
+- 链接: <https://news.google.com/rss/articles/CBMijwJBVV95cUxQZ1JINlN1ak5zalh2S2FkVVNaVkpDSTlScGJncUhXUTF0TVVISTVRZzhTdHAyMVkwVUdEcDNoSFc0VGVrMWdxaVBPdm5STndNMWRJY0tqWDNxanYwSHdEb1llTGN1ZU5kYUJZUGUwRENheTdTVWpnWjZreDNFTWg4THgyS3pSSmliX3dmVHdRVTlNUXFRQWNhbVc3ZFA1TnVEWEtQVGJBaTdBYnI2bkhNdm9lQ09ocjFSYWdsRURSTVFYMWRNVmlaNHIxOWh6QlRDN0ozRkY1eVpEUmdZdWRtR0ZhVjk3a2dSZU5qSkpuWS1EMUk3RjZQODc5VFNIUl95ZGZlRUVkbkltaV8zbGpR?oc=5>
 
-### 比利时国防大臣警告特朗普：不准再骚扰“女王”梅洛尼
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-07-07 12:54
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9fNDc5OEtkYl9jaFNadUEtSG1vZjFnSUtHajJyX0pSWjNQRS1rT0dIc1NYaklKcUZ3LWNaSWRPWG1xbmJqRllfaHF4QUhwREV6eFZ2VHFRMUdXakVfZWJyUWt3aVNHc0V6VkE?oc=5>
-
-### 意大利：不会再回复特朗普挑衅言论
+### 埃尔多安举行欢迎仪式，特朗普罕见用外语问好
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-07-07 11:51
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE8wS29YZjJDR1J5c1hPZ1NKVkdEUkRiWll0MTFUcnF1Nmc3ZXotMWsyTVB4UmNEd1d6dno2MVlMWGFUdEM1dDQzbHByWkI?oc=5>
+- 时间: 2026-07-07 18:33
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1Ta2RLZkwwLVp4QzIzQkVuZjNHZXJSbnpUSEdGczlYYUhTeWlRTWxjUE12VTVfNmxRek9xM3RhUl9sVld1emlUOFFHN3c?oc=5>
 
-### 川普帐户上路 什么是川普帐户？18年后能存多少钱？
+### 特朗普:无法忍受“人工智能”这个名字，建议改名
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-07-07 13:24
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE1vYXhhcmQ0eGdBaDYwdUdUWGtrTGpRSm82Nk9IeUJJaG1mWXF1bldfd0dvS3NtbWxpMjVzUzdVOWlfWHZESVpuejU4bnZfWkRsLVgxR18xanRkZmpfRGFva29ndkNQTmxaZ2lDZE9DRnZXdw?oc=5>
+
+### 世界杯2026：巴洛贡事件会否成为扳倒因凡蒂诺的丑闻？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: BBC
+- 时间: 2026-07-07 07:05
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BQTk4S29UaGx3ZVdCbUMyOHR5ZUE3NExKWGNsdUF5SE5uZmdwUHN6TmdEYUIxamxDZE95Q0ZVMlQzU0xPb0hBVWQwV3dHWHl5YzF6bVRXQXZjZ0ViSjlDRVZZbHlwUdIBa0FVX3lxTE4yOTNLTzVkYUxuUHJCZXVDVVpVb0FzSTFfMk1reVN3LXRaMEVWak9oNnVrS2pmX2s2bVgyMlYxWDZvOWgwQmZnVU43TnBrbFdFbTVRWU92b1FEV2xPU2ZXSjFraVYxa2g2QnVz?oc=5>
+
+### 为美国未成年人投资股市服务的“特朗普账户”正式推出，86%申请者为年收入20万美元以下家庭，批评人士称美国低收入群体难获得该账户收益
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-07-07 11:10
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GbWttTzVyRkx5WENnQXIxUE9EeTg2dElYUzRhZGRaLUdCQTVPa2JGbGI0cTZTekNrYmlkbEhLTjJyay1tSEpwSjlMN1k3SlNqODc4eWFSTTc4aDI1UlE?oc=5>
+
+### 美国在霍尔木兹海峡袭击事件后撤销了对伊朗的石油豁免。
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 文学城
-- 时间: 2026-07-07 16:32
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9XSFlUaW5LRkZwWFZvYkZSN0N5Si1YU0tDY0VJMHRQT1JaX29UeWdqUE9OYXAxNGR6RUhSeVp4UUVwbU5oSkRham5UNFlyNlJ3M0dFYTFycmN4Y3VLVzVGZDRXcHNqWHky?oc=5>
-
-### 特朗普回应Trump Accounts未来是否纳入比特币：“有可能会发生”
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: TradingView
-- 时间: 2026-07-06 14:24
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWMVZCakZVSU9BSzYybldGZHJfMXRzajlfRkdDVXE3NVBydG04RHYzUDJZSVJMby05NVR1V2h0aGhPb25PNy1WRjV0Q3pxc3IwWlhjWUwyVktEeG1aSGlxdlBaX1pqdw?oc=5>
+- 场馆: Al-Monitor
+- 时间: 2026-07-07 19:24
+- 链接: <https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTUJRZEtIUlBNekx3VHM5U1VsRTB2Zno5N2llN2piNkxVYVJQODZpS0NER0hmMWtsT3hWMTFkNkp5S0REajRub3VEZVBjbXA2dGFOX05oMTlfMEhPeTE3RVRJWVVINGcwOV9ld0EwenhsdEQtcnY1VmwzVkZ3ZU1GMmhheXJobGRGd3V3OVJVT253VU1Oc1FJbnVvT2p1OFBHNmVNN0NsWU1yMzA1MlhjVjRNSk0wOGg1ZzV5Tzg5QmFvdw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-07 19:46  (10 条)
+
+- **周杰伦** | 周杰伦为《功夫女足》创作的主题曲什么时候上线？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801ydak.html>
+- **周杰伦** | 新浪演唱会热点小时报丨2026年07月08日03时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c00190807h2.html>
+- **周杰伦** | 周杰伦为《功夫女足》创作的主题曲叫什么？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801ybza.html>
+- **周杰伦** | 周杰伦确认献唱《功夫女足》主题曲！ <https://k.sina.com.cn/article_7879776328_1d5abd84806801ybyk.html>
+- **特朗普** | 特朗普：沃尔玛将下调碎牛肉及其他商品的价格 <https://news.google.com/rss/articles/CBMijwJBVV95cUxQZ1JINlN1ak5zalh2S2FkVVNaVkpDSTlScGJncUhXUTF0TVVISTVRZzhTdHAyMVkwVUdEcDNoSFc0VGVrMWdxaVBPdm5STndNMWRJY0tqWDNxanYwSHdEb1llTGN1ZU5kYUJZUGUwRENheTdTVWpnWjZreDNFTWg4THgyS3pSSmliX3dmVHdRVTlNUXFRQWNhbVc3ZFA1TnVEWEtQVGJBaTdBYnI2bkhNdm9lQ09ocjFSYWdsRURSTVFYMWRNVmlaNHIxOWh6QlRDN0ozRkY1eVpEUmdZdWRtR0ZhVjk3a2dSZU5qSkpuWS1EMUk3RjZQODc5VFNIUl95ZGZlRUVkbkltaV8zbGpR?oc=5>
+- **特朗普** | 埃尔多安举行欢迎仪式，特朗普罕见用外语问好 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1Ta2RLZkwwLVp4QzIzQkVuZjNHZXJSbnpUSEdGczlYYUhTeWlRTWxjUE12VTVfNmxRek9xM3RhUl9sVld1emlUOFFHN3c?oc=5>
+- **特朗普** | 特朗普:无法忍受“人工智能”这个名字，建议改名 <https://news.google.com/rss/articles/CBMickFVX3lxTE1vYXhhcmQ0eGdBaDYwdUdUWGtrTGpRSm82Nk9IeUJJaG1mWXF1bldfd0dvS3NtbWxpMjVzUzdVOWlfWHZESVpuejU4bnZfWkRsLVgxR18xanRkZmpfRGFva29ndkNQTmxaZ2lDZE9DRnZXdw?oc=5>
+- **特朗普** | 世界杯2026：巴洛贡事件会否成为扳倒因凡蒂诺的丑闻？ <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BQTk4S29UaGx3ZVdCbUMyOHR5ZUE3NExKWGNsdUF5SE5uZmdwUHN6TmdEYUIxamxDZE95Q0ZVMlQzU0xPb0hBVWQwV3dHWHl5YzF6bVRXQXZjZ0ViSjlDRVZZbHlwUdIBa0FVX3lxTE4yOTNLTzVkYUxuUHJCZXVDVVpVb0FzSTFfMk1reVN3LXRaMEVWak9oNnVrS2pmX2s2bVgyMlYxWDZvOWgwQmZnVU43TnBrbFdFbTVRWU92b1FEV2xPU2ZXSjFraVYxa2g2QnVz?oc=5>
+- **特朗普** | 为美国未成年人投资股市服务的“特朗普账户”正式推出，86%申请者为年收入20万美元以下家庭，批评人士称美国低收入群体难获得该账户收益 <https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GbWttTzVyRkx5WENnQXIxUE9EeTg2dElYUzRhZGRaLUdCQTVPa2JGbGI0cTZTekNrYmlkbEhLTjJyay1tSEpwSjlMN1k3SlNqODc4eWFSTTc4aDI1UlE?oc=5>
+- **Trump** | 美国在霍尔木兹海峡袭击事件后撤销了对伊朗的石油豁免。 <https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTUJRZEtIUlBNekx3VHM5U1VsRTB2Zno5N2llN2piNkxVYVJQODZpS0NER0hmMWtsT3hWMTFkNkp5S0REajRub3VEZVBjbXA2dGFOX05oMTlfMEhPeTE3RVRJWVVINGcwOV9ld0EwenhsdEQtcnY1VmwzVkZ3ZU1GMmhheXJobGRGd3V3OVJVT253VU1Oc1FJbnVvT2p1OFBHNmVNN0NsWU1yMzA1MlhjVjRNSk0wOGg1ZzV5Tzg5QmFvdw?oc=5>
 
 ### 2026-07-07 17:31  (7 条)
 
