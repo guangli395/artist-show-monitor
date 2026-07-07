@@ -1,154 +1,85 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-07 09:30**
-- 本轮扫到 6064 条, 新增 **20** 条
+- 最近更新: **2026-07-07 12:23**
+- 本轮扫到 6072 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (20 条)
+## 本轮新发现 (8 条)
 
-### 周杰伦新歌《Be Yourself》发布，鼓励自信做自己
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6085757692_m16abd4afc03301o1re.html>
-
-### 周杰伦确认献唱《功夫女足》主题曲？25年精神续作最新进展
+### 功夫足球回来了!周星驰《女足》杀青,周杰伦或献唱主题曲
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801y1fk.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907za9m.html>
 
-### 功夫女足主题曲是周杰伦写的吗？官方信息确认
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801y1bm.html>
-
-### 周杰伦献唱《功夫女足》主题曲 2026年最新消息到底怎么回事？
+### 周杰伦为功夫女足献唱主题曲！歌名尚未公布
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801y12i.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801y2zq.html>
 
-### 周杰伦《功夫女足》主题曲一文看懂：25年情怀续作什么时候发布？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801y12a.html>
-
-### 周杰伦为《功夫女足》创作的主题曲什么时候发布？
+### 阿信会参与功夫女足的主题曲创作吗？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801y0zo.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801y2zc.html>
 
-### 阿信会参与《功夫女足》主题曲的合唱吗？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801y0za.html>
-
-### 周杰伦确认献唱《功夫女足》主题曲，星爷晒同框
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801y0z8.html>
-
-### 44岁华语天王周杰伦献唱《功夫女足》，为何主题曲名称至今成谜？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801bb5k.html>
-
-### 44岁华语天王周杰伦确认献唱《功夫女足》主题曲，为何粉丝更期待“周五组合”合体？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801bb5e.html>
-
-### 确认！周杰伦创作演唱《功夫女足》主题曲
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801xzss.html>
-
-### 白宫又动工 特朗普要新建直升机坪
+### 特朗普输了“出生公民权”官司 但未来孕妇入境美国是否更难?
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-07-07 08:29
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1MNTFFemFzdnhwZG1RZWxhVldwOXhBZER6dUhFZ0NkQ1V5cGxBaWdHZjNqOWxzc2dZc2xaUFBfM3pIc2Q5bzg2Wm44NERCQzNsbVVRNzZEWS1RX0JseVNMcjFPckUwN0lkOGVTeS1GTktZcXVIZ0E4b3ZBTk13b2M?oc=5>
+- 场馆: BBC
+- 时间: 2026-07-07 09:13
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SR2xuQmlJZXVieFVPOHk3OTRXZkxTNWx2V1k1b21rejJIRDNkUmpMa1FZcmJKZXRVdU5FcFlDdk1mTlM5NmdQTlhxeW5abGNRUXI2SGtUTWRUM3RWa0M2NTZJbGFqUdIBa0FVX3lxTE5sM1FOeEVWVzBvS0VvQTJzWmlhRHE3QlVxZmxBTlJWNFFaVVBnZDdSa25mYW5KaEVNdHQyTFVfVVYxVklyUEhKM1BwNWNDZ29JSmRMM2NTTEF0VGF4R0RxX0NHQVI3NFgxc3lJ?oc=5>
 
-### 特朗普：习近平将於9月24日访美到白宫
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-07-07 07:58
-- 链接: <https://news.google.com/rss/articles/CBMimAJBVV95cUxPc2xtYUxTcmpRQmptdjNoejZ4V1QwVktSaHAzYkxCOTdMczdEQkFaSk1fTVZYNzc2UnNhN1BRaHU4RzlSRDlqZzZXbDJQQnpJY045R2pJUWxLWDdROUFvSHVDQWFNUVRKSFRFcWZsdVp6Q2o0UUJiS25mdEY1TkVoTTJGWGdrZmpUTEt3clpySEtIMDhUYTh2SXpkWWRUU1Fjb0ZGT3RZZms5dmQ5a3RSUXBSaF9kNk5BMVdzX0hmS3JGWXI2MUsxMWdBRlkzNUtjN2F1TktuRVljSzUyeDhHZXllSU1xWEZtR09SemF3Znc1Z1ljNHh5NURBcWwwMEVFZVhKYzVteG5wanZyX1NXWVVDUENPaE1M?oc=5>
-
-### 特朗普预计习近平9月24日前后访美
+### 特朗普又立flag 特朗普乐观预判俄乌冲突收尾进度
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-07-07 00:54
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PSzV6d01hbGtDSmh6c2lSZnktbklwaXhmcEE0SWhGYmNEb1o3dVVHUF8wS1N6V2F2R2ppRGlYQTJLMXZ6cDFBLVVxOUczRFN1Y1h2ZGlyS29FMWFCR2N6UXRJeUNkQQ?oc=5>
+- 场馆: 中华网
+- 时间: 2026-07-07 11:09
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBXVUN3SmdTY3RDNFpIMzBHTUJpN1lsbEZNb0JFZHVlNUcwWFhPQkNhbkNiWU1KZzZGWGUtc1RlaGNDTEFXa2xsc0Y5RXJCbGh4Zk9sN1JKRmcza0ZqaFgwVXEtZ3k3WGF3X084NWJxeTg?oc=5>
 
-### 特朗普再度“挑衅”梅洛尼，意方“不屑”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-07-07 07:30
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9UZ0ZpcDZZUDdXbDVET3kwRFpkdGc0SHZuMDVLUEo0T3FUTVFtZWVpTHVLZnYtUnZxekNrN196dndLT2hjRG9oR1djSTRZSHNrTk5vb2RPYWlxT0VBMnF5enhiSTdnMXNQVm1aelAwZ3U?oc=5>
-
-### 美国队1:4惨败出局，特朗普白忙活一场 | 京酿馆
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-07-07 03:18
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9qYlBwNmJhZnVDSkpsMi1hRTNrZVg4M3BSaU1NVnJDSjR0N1habVc1ZWlXZXhPVEYxdk9ZTTgxTXNQZUVmRklXaVk0bUN4UjljTUtBNE40ZV9wR3phQ2RycXhCRng?oc=5>
-
-### 特朗普比特币储备受阻：财政部权限受疑，商务部成候选
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-07 06:15
-- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUkRHYjVHQjlKbEJYdDF6dWdFSFV1dElyVDRDLVVyQUp4dS1UdnlLOURTd2oyR0ZCa1hkNUZENC0weU1SM2tzSWhxVzRqOFdFSVhza28yZGdhd25UNExvQVVjelNhWm42MDl3Q1pFUi1JR1hUbEhkX0ktVTA0YTMwQmRzMllCTTl3ak5ET19MaUJhcGU5TV81dXdxMDlYbm1ycWFaMkxJQjJEQQ?oc=5>
-
-### 深视频 | 特朗普说若比利时赢，就是有黑幕！现在比利时赢了
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 上观新闻
-- 时间: 2026-07-07 03:07
-- 链接: <https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ibVpQSTBxMkNab0QydVFZdkI1bUlYSzlzRzJadjBVaXhMZUE4YWhOZE85Nmtpam5LRkdLY3NCSWVzUkJpa1Y3VFkydXI5TUR4SXZuLUJVcHhSQQ?oc=5>
-
-### 特朗普打电话要求“公平”美国队遭痛击惨败出局
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中国网
-- 时间: 2026-07-07 07:50
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE9DMUxka1hKbDBuTUlvU0VNalo3b3B6MWp2Sll2bzVhRmhKVDJoTEdqOEY0Nk8yLWR3QkExSXdrT3NhbWl0VkhXZnZqbm9lOU5LQkExaVUybHlYTUpacVhSNnRKRjFGWnVEaHpPdmZVbw?oc=5>
-
-### 史无前例！特朗普在白宫为纽交所和纳斯达克敲钟，他预言：美股将涨破天际！
+### “特朗普账户”正式推出，可操作性引质疑
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-07-07 06:48
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE51NDVqOTdacjR3d0xJMC1qNjlybFpUUHlKWE5CeWU0bnlvNlhKeHdWc0I0dzlVTjdrN1dheWw4UFVtazZuVjlqM2VVZHU?oc=5>
+- 时间: 2026-07-07 10:48
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9hUG5TMXhDbWhOdURfNWlfa1d4MVp0OEhwQUVwVkxKeHNEYkpRejgwcGoyLVZ1TjBlbF9RVWJCOUMtWENLUWs2YXZQVUs?oc=5>
+
+### Trump threatens to continue attacks if Iran rejects deal
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: IDNFinancials.com
+- 时间: 2026-07-07 07:00
+- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVDU4NEpmWWhITXZSdGpOSGo3T1N6ODB5d3VyMEpoR3BvSGZHc0c2eHFtZDlIMno1ekhrMzlKYTZDSGM2V1FuQlNkUW1MQk5FbWFSLUl4T3V0YTJWNFBvRThVTE5iNzZiV1B6ZElTUzBKR09ZYk5MLTJxTDlma2I2bVNQU3pXU2V5dkxzYTZybDY1Y1o5WWl2VzBZTW96dVZJZ2JjS3pPSHN3dw?oc=5>
+
+### 网红 ANSEM 同名 Meme，市值超过美国总统发的币
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: ForesightNews
+- 时间: 2026-07-07 08:38
+- 链接: <https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Uc3hyajhpOTFJN25HSlRrQWk2cXpmSjI0UzItaGttWVVvLW5hOE50RDhzMllrVzZaWVFXel91UlRtU0FMbFk4TVZPRkd6X3RVX1JlcElqMEcwdw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-07 12:23  (8 条)
+
+- **周杰伦** | 功夫足球回来了!周星驰《女足》杀青,周杰伦或献唱主题曲 <https://k.sina.com.cn/article_7857201856_1d45362c001907za9m.html>
+- **周杰伦** | 周杰伦为功夫女足献唱主题曲！歌名尚未公布 <https://k.sina.com.cn/article_7879776328_1d5abd84806801y2zq.html>
+- **周杰伦** | 阿信会参与功夫女足的主题曲创作吗？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801y2zc.html>
+- **特朗普** | 特朗普输了“出生公民权”官司 但未来孕妇入境美国是否更难? <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SR2xuQmlJZXVieFVPOHk3OTRXZkxTNWx2V1k1b21rejJIRDNkUmpMa1FZcmJKZXRVdU5FcFlDdk1mTlM5NmdQTlhxeW5abGNRUXI2SGtUTWRUM3RWa0M2NTZJbGFqUdIBa0FVX3lxTE5sM1FOeEVWVzBvS0VvQTJzWmlhRHE3QlVxZmxBTlJWNFFaVVBnZDdSa25mYW5KaEVNdHQyTFVfVVYxVklyUEhKM1BwNWNDZ29JSmRMM2NTTEF0VGF4R0RxX0NHQVI3NFgxc3lJ?oc=5>
+- **特朗普** | 特朗普又立flag 特朗普乐观预判俄乌冲突收尾进度 <https://news.google.com/rss/articles/CBMicEFVX3lxTFBXVUN3SmdTY3RDNFpIMzBHTUJpN1lsbEZNb0JFZHVlNUcwWFhPQkNhbkNiWU1KZzZGWGUtc1RlaGNDTEFXa2xsc0Y5RXJCbGh4Zk9sN1JKRmcza0ZqaFgwVXEtZ3k3WGF3X084NWJxeTg?oc=5>
+- **特朗普** | “特朗普账户”正式推出，可操作性引质疑 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9hUG5TMXhDbWhOdURfNWlfa1d4MVp0OEhwQUVwVkxKeHNEYkpRejgwcGoyLVZ1TjBlbF9RVWJCOUMtWENLUWs2YXZQVUs?oc=5>
+- **Trump** | Trump threatens to continue attacks if Iran rejects deal <https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVDU4NEpmWWhITXZSdGpOSGo3T1N6ODB5d3VyMEpoR3BvSGZHc0c2eHFtZDlIMno1ekhrMzlKYTZDSGM2V1FuQlNkUW1MQk5FbWFSLUl4T3V0YTJWNFBvRThVTE5iNzZiV1B6ZElTUzBKR09ZYk5MLTJxTDlma2I2bVNQU3pXU2V5dkxzYTZybDY1Y1o5WWl2VzBZTW96dVZJZ2JjS3pPSHN3dw?oc=5>
+- **Trump** | 网红 ANSEM 同名 Meme，市值超过美国总统发的币 <https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Uc3hyajhpOTFJN25HSlRrQWk2cXpmSjI0UzItaGttWVVvLW5hOE50RDhzMllrVzZaWVFXel91UlRtU0FMbFk4TVZPRkd6X3RVX1JlcElqMEcwdw?oc=5>
 
 ### 2026-07-07 09:30  (20 条)
 
