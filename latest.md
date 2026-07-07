@@ -1,38 +1,63 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-07 22:35**
-- 本轮扫到 6114 条, 新增 **3** 条
+- 最近更新: **2026-07-07 23:53**
+- 本轮扫到 6120 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (6 条)
 
-### 新浪演唱会热点小时报丨2026年07月08日06时_今日实时演唱会热点速递
+### 周杰伦确认献唱《功夫女足》主题曲！三大偶像同框
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019080c9o.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801yfu8.html>
 
-### 特朗普折腾一年，美国贸易赤字不降反升
+### 新浪演唱会热点小时报丨2026年07月08日07时_今日实时演唱会热点速递
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019080dim.html>
+
+### 周星驰电影《功夫女足》主题曲什么时候发布？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801yfju.html>
+
+### 华语歌手周杰伦阿信 联手《功夫女足》主题曲 22年合作重启能否再爆？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801yfg4.html>
+
+### 周杰伦为《功夫女足》创作的主题曲会好听吗？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801yfcg.html>
+
+### 特朗普：对北约在美对伊军事行动中表现感到“失望”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-07-07 14:27
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5tOGpvN0tZajMyZGhjQ0otaHVEc0w0cDRtT3R1S1h0YTB3Rnk2T0l3RGljUW4xTzM4OEcyX2hXYVo5R0pwQzRJUWpzVTROYWlmMmpEVFVzMHFjY1RnNHFtbUNfZHpTQnVpRFE?oc=5>
-
-### 快讯：金明日牧师美国独立日获释抵达美国，家人“感谢特朗普总统及其政府展现出的卓越领导力”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-07-05 01:50
-- 链接: <https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY0MxRE5HNGV2XzR6N1ZBVmRUcU9xX3hKcHhWMHV4LTJYYXVpVEtrSE5CZHRnd000M0l1Y0dzTnhVN3JWSlBhTlh1eGlKOHpSSW0yN1hsV2RKa2ZybFd6WlZKaGI5RTNlRVdWaWxubWo1LTZGTndFQzU2T1hlaG5aX1lfa2JyV1haOFNyTWNpb25LQkFvU0xPNlJQREtSUlEwNGZ5dl91ZGlvdHNZWEJuaUgtQjdHWEpS0gG7AUFVX3lxTE54X1VLX21oY2E0eGgtS0g1OHZkR0lEbEZuR0VuSngzR2taa3NERm4wMkFMbjhhTDFSemtYckFwUjgtaVYtaGhfNlN3TXJoZ1hPSkNGemt1QkRTamdIRE1nS2drZ2M0MER1ZzlQblZBZ2xmOGJqTEhhYUZNRE5uczlLTlk2d1ViVkpjNXkzcEctLUNSVGlYWHdkUVhBRlYyMlVNM093TDZpV0thT3JhU2hyMXRxY1dEV0duMFE?oc=5>
+- 场馆: 央广网
+- 时间: 2026-07-07 16:45
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE80cmM1ZW5iU2p1TDZRZUQycHVteTh0Y2Y2X0lFUDI2YmZlZDVxYnNYem1DZUs1RFpGcjYya2diVV9iSXhLeUEwUl93bVFPMUFvbjkwX1pma085U0VZWXM5dVN2b1VfamxX?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-07 23:53  (6 条)
+
+- **周杰伦** | 周杰伦确认献唱《功夫女足》主题曲！三大偶像同框 <https://k.sina.com.cn/article_7879776328_1d5abd84806801yfu8.html>
+- **周杰伦** | 新浪演唱会热点小时报丨2026年07月08日07时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c0019080dim.html>
+- **周杰伦** | 周星驰电影《功夫女足》主题曲什么时候发布？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801yfju.html>
+- **周杰伦** | 华语歌手周杰伦阿信 联手《功夫女足》主题曲 22年合作重启能否再爆？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801yfg4.html>
+- **周杰伦** | 周杰伦为《功夫女足》创作的主题曲会好听吗？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801yfcg.html>
+- **特朗普** | 特朗普：对北约在美对伊军事行动中表现感到“失望” <https://news.google.com/rss/articles/CBMiaEFVX3lxTE80cmM1ZW5iU2p1TDZRZUQycHVteTh0Y2Y2X0lFUDI2YmZlZDVxYnNYem1DZUs1RFpGcjYya2diVV9iSXhLeUEwUl93bVFPMUFvbjkwX1pma085U0VZWXM5dVN2b1VfamxX?oc=5>
 
 ### 2026-07-07 22:35  (3 条)
 
