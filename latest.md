@@ -1,46 +1,97 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-06 23:01**
-- 本轮扫到 6007 条, 新增 **4** 条
+- 最近更新: **2026-07-07 01:14**
+- 本轮扫到 6017 条, 新增 **10** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (10 条)
 
-### 演唱会抢票难：供需失衡、技术黄牛与内部票源分流成主因
+### 歌手王俊凯周杰伦歌迷 买专辑抢演唱会票 1980内场抢票失败 传言花钱买专辑是真的吗
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907xqe2.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801xva6.html>
 
-### 特朗普介入世界杯判罚 比利时强烈反弹
+### 歌手王俊凯抢周杰伦演唱会1980内场票失败 网友最关心他真花钱买专辑了吗？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801xv66.html>
+
+### 王俊凯抢到过周杰伦演唱会的门票吗？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801xv08.html>
+
+### 周杰伦演唱会抢票难度真的比王俊凯高吗
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801xufc.html>
+
+### 顶流艺人王俊凯原以为有新手buff 抢自己演唱会门票300万人抢8000张失败是怎么回事
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801xu6g.html>
+
+### 44岁华语天王周杰伦：10万张门票6分钟秒罄，抢票成功率不足5%，到底是谁抢到了周杰伦演唱会票？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801b9ei.html>
+
+### 特朗普感谢国际足联，其中有什么猫腻？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-07-06 20:29
-- 链接: <https://news.google.com/rss/articles/CBMirAJBVV95cUxPcmhJbVFqNmxJX2JsellzVExVYUdvN0dIYXRsck1STW90TGIwaEU2NlVDdTN6cUhJbnNTQXlsSWRpRDFaUnIweE5XQUFScFFKQ2hrcXNPcEVOaUdNRDJCVktaNHpPdFVfQmRaT2dSQWRVY3VHUEJDSDVGcG9DOVV4QnZ2bGh1V1dBUjZqTUc0Nl80OElYN1JIVkR2QldPa28zRjZsd1hmRHFjc1IxeXRkck91SkhnZ3Z4SUlSeHVQMk5BNkJUTzJkUW8xZDlRTURsU2xDWXRoZUpnT3NLZEVQdUdZZ3poZllxNmNFTWtDY1RZeWNoU21Zbkt1aFBpNXZaR0hSNXctYzQzUlBXTWRWbzlXaUNnOGVxUjZLaW4xRFhtMkNmVnBvSWs2MnI?oc=5>
+- 场馆: shobserver.com
+- 时间: 2026-07-06 23:42
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJSjRKSTE5amJLeHpodkhqYTBOWmo5VjFoUHJNTDZKZllidXZkeExpRGNTZUtKOXVUUkFzdEJJaHZLM3pLeV80ZVNrUExpZXYtZF95dzlUQ2YwYm8zUlE?oc=5>
 
 ### 特朗普：沃尔玛将下调碎牛肉及其他商品的价格
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-06 22:26
-- 链接: <https://news.google.com/rss/articles/CBMimwJBVV95cUxQOGVmSWZRVG4tSzFCdEc3SEhiTFBBc3hMVDdkel9KcXhBb1dGUkpHUkp6VkVxM2ZPNVY3N1R5U0c4a29SaEVXdHB4VlU1U0lramRqOUFpNzlId0h2aWh4UmctRDUzUzMyOEdfU1NWZ20yem52dnlMNGlFTDBUUmRiSzdFa0JJSTE2QTRWcE5LNUVFXzBPWDZMeEl6MU5UdnZiM29BUTREVmRZQjJOU20xeDE3WFo5QmNnUjhtR1RkUU5Jb01iZ3FSNjd1LVptOXRUcDdEZE1GQ2xVam9HRFNpMlRrMUlseTVyLU9OSjdvWmxpQk05UFp0U1FkVmpZVG1jYjhCUlZqX0M2X01FSG9ZM1kwWnY5MjFSRTZV?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-07-06 21:47
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxOR1labjd4X3BWOENfc3luTTk5WDhFaGZIMFAyMmFsY0M5cTVLQXRMTDIzZWNFQlFnWVZqd2swdEZ1TkFOUGNJdlhaVDdlSVhURjVHd3h4eGVxSzRxNW10QlEwVlF0OVN1QXNwMTZnY05lRXVLQl9JbHpsUU83X08yZ19xdDZfZWs?oc=5>
 
-### Dell's Stock Gets Another Trump Bump - but This Time It's Fading
+### 特朗普喊单，美股科技反弹：一句“买台戴尔”，市值一天涨了150亿美元
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-07-06 19:34
-- 链接: <https://news.google.com/rss/articles/CBMingFBVV95cUxNbU9mdUZZRlZGci1BbWNISWQ0UGhYRW5WeURxZ3hSQUwyQy1fRFVHYnJSNHBxM0RqSjhGRUQ4R19CcV82RDVUek1VSFFPeXN4cVdnVUdhTUFMTWxuTDdRcDQxMFJNYmxPYnRKemZqa19yVk1FNUd1cHB3S2xDY3ZIYnNHT0IzbUExRXJ6UktWQjI1Q05TQzhZeDhIWGNDUQ?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-07-07 00:49
+- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE1TaFl5Y2lBUDNqTkdyMTlYalpON0Nad2VlcVJUY1JhUW1jMDFYcWJnTTExOHNHVnh2OUdTaW5SaDJwU19NZ2lzNS1nVTRWN1Bf?oc=5>
+
+### 史无前例！白宫为交易所敲开市钟，特朗普吹美股：要涨到天上去
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 第一财经
+- 时间: 2026-07-06 23:15
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RYWpwYUlxWUV3eHBhTzEyRXpJd21pQ1BCdVBLdkpSYXFkMWJLcmtZM3NYUnBMSlBsazNsanBNV19QbzJhOFVaLW9aYW9iSXR3OUFn?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-07 01:14  (10 条)
+
+- **周杰伦** | 歌手王俊凯周杰伦歌迷 买专辑抢演唱会票 1980内场抢票失败 传言花钱买专辑是真的吗 <https://k.sina.com.cn/article_7879776328_1d5abd84806801xva6.html>
+- **周杰伦** | 歌手王俊凯抢周杰伦演唱会1980内场票失败 网友最关心他真花钱买专辑了吗？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801xv66.html>
+- **周杰伦** | 王俊凯抢到过周杰伦演唱会的门票吗？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801xv08.html>
+- **周杰伦** | 周杰伦演唱会抢票难度真的比王俊凯高吗 <https://k.sina.com.cn/article_7879776328_1d5abd84806801xufc.html>
+- **周杰伦** | 顶流艺人王俊凯原以为有新手buff 抢自己演唱会门票300万人抢8000张失败是怎么回事 <https://k.sina.com.cn/article_7879776328_1d5abd84806801xu6g.html>
+- **周杰伦** | 44岁华语天王周杰伦：10万张门票6分钟秒罄，抢票成功率不足5%，到底是谁抢到了周杰伦演唱会票？ <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801b9ei.html>
+- **特朗普** | 特朗普感谢国际足联，其中有什么猫腻？ <https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJSjRKSTE5amJLeHpodkhqYTBOWmo5VjFoUHJNTDZKZllidXZkeExpRGNTZUtKOXVUUkFzdEJJaHZLM3pLeV80ZVNrUExpZXYtZF95dzlUQ2YwYm8zUlE?oc=5>
+- **特朗普** | 特朗普：沃尔玛将下调碎牛肉及其他商品的价格 <https://news.google.com/rss/articles/CBMihwFBVV95cUxOR1labjd4X3BWOENfc3luTTk5WDhFaGZIMFAyMmFsY0M5cTVLQXRMTDIzZWNFQlFnWVZqd2swdEZ1TkFOUGNJdlhaVDdlSVhURjVHd3h4eGVxSzRxNW10QlEwVlF0OVN1QXNwMTZnY05lRXVLQl9JbHpsUU83X08yZ19xdDZfZWs?oc=5>
+- **特朗普** | 特朗普喊单，美股科技反弹：一句“买台戴尔”，市值一天涨了150亿美元 <https://news.google.com/rss/articles/CBMiUEFVX3lxTE1TaFl5Y2lBUDNqTkdyMTlYalpON0Nad2VlcVJUY1JhUW1jMDFYcWJnTTExOHNHVnh2OUdTaW5SaDJwU19NZ2lzNS1nVTRWN1Bf?oc=5>
+- **特朗普** | 史无前例！白宫为交易所敲开市钟，特朗普吹美股：要涨到天上去 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RYWpwYUlxWUV3eHBhTzEyRXpJd21pQ1BCdVBLdkpSYXFkMWJLcmtZM3NYUnBMSlBsazNsanBNV19QbzJhOFVaLW9aYW9iSXR3OUFn?oc=5>
 
 ### 2026-07-06 23:01  (4 条)
 
