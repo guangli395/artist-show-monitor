@@ -1,88 +1,83 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-07 19:46**
-- 本轮扫到 6103 条, 新增 **10** 条
+- 最近更新: **2026-07-07 21:17**
+- 本轮扫到 6111 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (10 条)
+## 本轮新发现 (8 条)
 
-### 周杰伦为《功夫女足》创作的主题曲什么时候上线？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ydak.html>
-
-### 新浪演唱会热点小时报丨2026年07月08日03时_今日实时演唱会热点速递
+### 新浪演唱会热点小时报丨2026年07月08日05时_今日实时演唱会热点速递
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c00190807h2.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c00190809xs.html>
 
-### 周杰伦为《功夫女足》创作的主题曲叫什么？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ybza.html>
-
-### 周杰伦确认献唱《功夫女足》主题曲！
+### 新浪演唱会热点小时报丨2026年07月08日04时_今日实时演唱会热点速递
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ybyk.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c00190808sm.html>
 
-### 特朗普：沃尔玛将下调碎牛肉及其他商品的价格
+### 电影《功夫女足》的主题曲叫什么名字？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-07 18:31
-- 链接: <https://news.google.com/rss/articles/CBMijwJBVV95cUxQZ1JINlN1ak5zalh2S2FkVVNaVkpDSTlScGJncUhXUTF0TVVISTVRZzhTdHAyMVkwVUdEcDNoSFc0VGVrMWdxaVBPdm5STndNMWRJY0tqWDNxanYwSHdEb1llTGN1ZU5kYUJZUGUwRENheTdTVWpnWjZreDNFTWg4THgyS3pSSmliX3dmVHdRVTlNUXFRQWNhbVc3ZFA1TnVEWEtQVGJBaTdBYnI2bkhNdm9lQ09ocjFSYWdsRURSTVFYMWRNVmlaNHIxOWh6QlRDN0ozRkY1eVpEUmdZdWRtR0ZhVjk3a2dSZU5qSkpuWS1EMUk3RjZQODc5VFNIUl95ZGZlRUVkbkltaV8zbGpR?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879922982_1d5ae15260680axtri.html>
 
-### 埃尔多安举行欢迎仪式，特朗普罕见用外语问好
+### 普通人怎么才能抢到周杰伦演唱会门票？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-07 18:33
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1Ta2RLZkwwLVp4QzIzQkVuZjNHZXJSbnpUSEdGczlYYUhTeWlRTWxjUE12VTVfNmxRek9xM3RhUl9sVld1emlUOFFHN3c?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801y8ea.html>
 
-### 特朗普:无法忍受“人工智能”这个名字，建议改名
+### 特朗普公开喊话去买戴尔电脑，戴尔股价一度飙升
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪网
-- 时间: 2026-07-07 13:24
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE1vYXhhcmQ0eGdBaDYwdUdUWGtrTGpRSm82Nk9IeUJJaG1mWXF1bldfd0dvS3NtbWxpMjVzUzdVOWlfWHZESVpuejU4bnZfWkRsLVgxR18xanRkZmpfRGFva29ndkNQTmxaZ2lDZE9DRnZXdw?oc=5>
+- 时间: 2026-07-07 20:45
+- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxOV0kzeU5QMFk1SWJHejBoMzZrMFFObFo2LUlzSTlBdWhGVmVjckpwZHdnQ1BpMnpJV0hXWTNhQW1EU0lYMWJIU2FFdEUtdHZBLTNFdmFiQkl0eTBSc3RkdmFBTW1meTJXSWJlZkR1S3BMTEU4YVh5REZWeU55QWd4S0VxWQ?oc=5>
 
-### 世界杯2026：巴洛贡事件会否成为扳倒因凡蒂诺的丑闻？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-07-07 07:05
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BQTk4S29UaGx3ZVdCbUMyOHR5ZUE3NExKWGNsdUF5SE5uZmdwUHN6TmdEYUIxamxDZE95Q0ZVMlQzU0xPb0hBVWQwV3dHWHl5YzF6bVRXQXZjZ0ViSjlDRVZZbHlwUdIBa0FVX3lxTE4yOTNLTzVkYUxuUHJCZXVDVVpVb0FzSTFfMk1reVN3LXRaMEVWak9oNnVrS2pmX2s2bVgyMlYxWDZvOWgwQmZnVU43TnBrbFdFbTVRWU92b1FEV2xPU2ZXSjFraVYxa2g2QnVz?oc=5>
-
-### 为美国未成年人投资股市服务的“特朗普账户”正式推出，86%申请者为年收入20万美元以下家庭，批评人士称美国低收入群体难获得该账户收益
+### 要闻分析 - 中国地下教会牧师获释 特朗普拿什么牌斡旋的？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-07-07 11:10
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GbWttTzVyRkx5WENnQXIxUE9EeTg2dElYUzRhZGRaLUdCQTVPa2JGbGI0cTZTekNrYmlkbEhLTjJyay1tSEpwSjlMN1k3SlNqODc4eWFSTTc4aDI1UlE?oc=5>
+- 场馆: RFI
+- 时间: 2026-07-07 20:04
+- 链接: <https://news.google.com/rss/articles/CBMimgNBVV95cUxQV0RKRnR3SFIxWGR1V1BHTFBqWkpTd2VqNFpDWEtsQjdWSXBxUTZ6M0x2aUJDcFNndDBaR1RLNnU3RUp3ZFQzTTdqTUNxQ0VqazR0LVJMTk9sRk9IZzFQc0JRQVp0cWsyRV9yeEZkVXhMZDdYSkJmV1JHelc5RWhRZWNnVEFCYmQ5SlRZZnBEc2ZjRjlBZUhzVUd5dFRiVEkzM0h2VnZjMmVfU0h6RExEbk1wWEE2ZE9hLVFZS3lWeEpHWlM1VUV3OGFNYzFQR2cybk5zMldma28wam5xSXdLOWoybkExbFp5UXRZWlo5a3ZGZXJHSDJOVDBJdjZob21pODdWOEFodTkwc3c3dVByZmh6VFFsNWlER2FhMElRZGFKYk4yQVU0aGxUUy03NDljZjkyM2wtV3FBa0g4SER6djFidVlaT09uNGt1VFMwMUR4V2ZyMVFmemtCYWlYTnBmSDM3SXY0THFCbzRUb2hPUWswRWhkNU9fazQyX3RuT0lVeDl0T3VqcFpQcGs1b2JLZFVvWlhkV3cyUQ?oc=5>
 
-### 美国在霍尔木兹海峡袭击事件后撤销了对伊朗的石油豁免。
+### 内塔尼亚胡要求特朗普管管埃尔多安，抱怨他的反以言论近来“越来越过分”，埃尔多安此前公开祷告摧毁以色列
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Al-Monitor
-- 时间: 2026-07-07 19:24
-- 链接: <https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTUJRZEtIUlBNekx3VHM5U1VsRTB2Zno5N2llN2piNkxVYVJQODZpS0NER0hmMWtsT3hWMTFkNkp5S0REajRub3VEZVBjbXA2dGFOX05oMTlfMEhPeTE3RVRJWVVINGcwOV9ld0EwenhsdEQtcnY1VmwzVkZ3ZU1GMmhheXJobGRGd3V3OVJVT253VU1Oc1FJbnVvT2p1OFBHNmVNN0NsWU1yMzA1MlhjVjRNSk0wOGg1ZzV5Tzg5QmFvdw?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-07-07 14:28
+- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxOWmNyU3lUZVZwcGY2ZzZwZVhkS0R3X29rSGNYNmc2eERGck93NUFyaWZPdHhQbjlhNVhmSzNUYkkxVjBxOERjWnUyNG9jeTJBWk9ubjlpTVcyYnFJTjh1bHl3REdaYmg2dHJvcDJEZk1KYXJlSzVrOHNaMUgzanN3MUcxYw?oc=5>
+
+### 暗示要对梅洛尼下达限制令后，特朗普又夸了她
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-07-07 19:53
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9hQ2h3Y3piWlN4dnlBSnc4Z0F0eFp3dGgzOFhBRUJYTW5MYURSQ01WeF9NdnA3NVpDckVwVmQ1eUxnd0tPQ196Vmt6cVE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-07 21:17  (8 条)
+
+- **周杰伦** | 新浪演唱会热点小时报丨2026年07月08日05时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c00190809xs.html>
+- **周杰伦** | 新浪演唱会热点小时报丨2026年07月08日04时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c00190808sm.html>
+- **周杰伦** | 电影《功夫女足》的主题曲叫什么名字？ <https://k.sina.com.cn/article_7879922982_1d5ae15260680axtri.html>
+- **周杰伦** | 普通人怎么才能抢到周杰伦演唱会门票？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801y8ea.html>
+- **特朗普** | 特朗普公开喊话去买戴尔电脑，戴尔股价一度飙升 <https://news.google.com/rss/articles/CBMigwFBVV95cUxOV0kzeU5QMFk1SWJHejBoMzZrMFFObFo2LUlzSTlBdWhGVmVjckpwZHdnQ1BpMnpJV0hXWTNhQW1EU0lYMWJIU2FFdEUtdHZBLTNFdmFiQkl0eTBSc3RkdmFBTW1meTJXSWJlZkR1S3BMTEU4YVh5REZWeU55QWd4S0VxWQ?oc=5>
+- **特朗普** | 要闻分析 - 中国地下教会牧师获释 特朗普拿什么牌斡旋的？ <https://news.google.com/rss/articles/CBMimgNBVV95cUxQV0RKRnR3SFIxWGR1V1BHTFBqWkpTd2VqNFpDWEtsQjdWSXBxUTZ6M0x2aUJDcFNndDBaR1RLNnU3RUp3ZFQzTTdqTUNxQ0VqazR0LVJMTk9sRk9IZzFQc0JRQVp0cWsyRV9yeEZkVXhMZDdYSkJmV1JHelc5RWhRZWNnVEFCYmQ5SlRZZnBEc2ZjRjlBZUhzVUd5dFRiVEkzM0h2VnZjMmVfU0h6RExEbk1wWEE2ZE9hLVFZS3lWeEpHWlM1VUV3OGFNYzFQR2cybk5zMldma28wam5xSXdLOWoybkExbFp5UXRZWlo5a3ZGZXJHSDJOVDBJdjZob21pODdWOEFodTkwc3c3dVByZmh6VFFsNWlER2FhMElRZGFKYk4yQVU0aGxUUy03NDljZjkyM2wtV3FBa0g4SER6djFidVlaT09uNGt1VFMwMUR4V2ZyMVFmemtCYWlYTnBmSDM3SXY0THFCbzRUb2hPUWswRWhkNU9fazQyX3RuT0lVeDl0T3VqcFpQcGs1b2JLZFVvWlhkV3cyUQ?oc=5>
+- **特朗普** | 内塔尼亚胡要求特朗普管管埃尔多安，抱怨他的反以言论近来“越来越过分”，埃尔多安此前公开祷告摧毁以色列 <https://news.google.com/rss/articles/CBMigwFBVV95cUxOWmNyU3lUZVZwcGY2ZzZwZVhkS0R3X29rSGNYNmc2eERGck93NUFyaWZPdHhQbjlhNVhmSzNUYkkxVjBxOERjWnUyNG9jeTJBWk9ubjlpTVcyYnFJTjh1bHl3REdaYmg2dHJvcDJEZk1KYXJlSzVrOHNaMUgzanN3MUcxYw?oc=5>
+- **特朗普** | 暗示要对梅洛尼下达限制令后，特朗普又夸了她 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9hQ2h3Y3piWlN4dnlBSnc4Z0F0eFp3dGgzOFhBRUJYTW5MYURSQ01WeF9NdnA3NVpDckVwVmQ1eUxnd0tPQ196Vmt6cVE?oc=5>
 
 ### 2026-07-07 19:46  (10 条)
 
