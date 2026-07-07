@@ -1,84 +1,228 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-07 01:14**
-- 本轮扫到 6017 条, 新增 **10** 条
+- 最近更新: **2026-07-07 05:30**
+- 本轮扫到 6044 条, 新增 **27** 条
 
 ---
 
-## 本轮新发现 (10 条)
+## 本轮新发现 (27 条)
 
-### 歌手王俊凯周杰伦歌迷 买专辑抢演唱会票 1980内场抢票失败 传言花钱买专辑是真的吗
+### 金子涵发布艺人名单有什么含义？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801xyz8.html>
+
+### 网红单眼皮的小黄豆花14.1万买500张专辑追星，签售会现场睡着被蔡徐坤“教训”，为何偶像反劝他省点钱？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801bak8.html>
+
+### 周杰伦献唱的《少林女足》主题曲好听吗
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801xva6.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801xz9m.html>
 
-### 歌手王俊凯抢周杰伦演唱会1980内场票失败 网友最关心他真花钱买专辑了吗？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801xv66.html>
-
-### 王俊凯抢到过周杰伦演唱会的门票吗？
+### 周杰伦为《功夫女足》创作的主题曲什么时候发
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801xv08.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801xz8i.html>
 
-### 周杰伦演唱会抢票难度真的比王俊凯高吗
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801xufc.html>
-
-### 顶流艺人王俊凯原以为有新手buff 抢自己演唱会门票300万人抢8000张失败是怎么回事
+### 这次周五组合会在《功夫女足》出新歌吗
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801xu6g.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801xz7u.html>
 
-### 44岁华语天王周杰伦：10万张门票6分钟秒罄，抢票成功率不足5%，到底是谁抢到了周杰伦演唱会票？
+### 这次周五组合会在《功夫女足》发新歌吗？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801b9ei.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801xz6y.html>
 
-### 特朗普感谢国际足联，其中有什么猫腻？
+### 周星驰为什么会选中周杰伦唱《功夫女足》主题曲？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801xz3q.html>
+
+### 还有哪些明星抢过自己演唱会的票？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801xyrs.html>
+
+### 华语流行歌手周杰伦 到底是谁抢到了周杰伦演唱会门票
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801xxng.html>
+
+### 到底是谁抢到了周杰伦演唱会票？20%-40%热门票源被黄牛控制
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801xxm0.html>
+
+### 黄牛到底抢到了多少周杰伦演唱会票？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801xxjm.html>
+
+### 周杰伦演唱会票被预留了多少给合作方？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801xxic.html>
+
+### 揭秘：到底是谁抢到了周杰伦演唱会票
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801xxim.html>
+
+### 《功夫女足》主题曲会在什么时候正式发布
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801xxk4.html>
+
+### 《功夫女足》周杰伦主题曲什么时候发布
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801xxes.html>
+
+### 王俊凯抢购周杰伦演唱会门票失败，系统繁忙致1680元座位秒灰
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1977983524_m75e5a22403301cr6e.html>
+
+### 杰威尔未授权赠周杰伦演唱会门票 Keep活动引争议_娱乐频道_中华网
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907y0e2.html>
+
+### 深视频 | 特朗普说若比利时赢，就是有黑幕！现在比利时赢了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: shobserver.com
-- 时间: 2026-07-06 23:42
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJSjRKSTE5amJLeHpodkhqYTBOWmo5VjFoUHJNTDZKZllidXZkeExpRGNTZUtKOXVUUkFzdEJJaHZLM3pLeV80ZVNrUExpZXYtZF95dzlUQ2YwYm8zUlE?oc=5>
+- 时间: 2026-07-07 03:07
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TQURwWFJ6dXB5M2p4M0w1d2pDS1dkdUxwcmZFbUxYUUx5V2M1QVlYUWhxb0NyNHZRR0VfM0l6aHpKNjJZdmtYaGRpMFhPRDQtMGdBbWRUOVlGeGllaFE?oc=5>
 
-### 特朗普：沃尔玛将下调碎牛肉及其他商品的价格
+### 特朗普再威胁伊朗：所有发电厂都将不复存在
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-07-06 21:47
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxOR1labjd4X3BWOENfc3luTTk5WDhFaGZIMFAyMmFsY0M5cTVLQXRMTDIzZWNFQlFnWVZqd2swdEZ1TkFOUGNJdlhaVDdlSVhURjVHd3h4eGVxSzRxNW10QlEwVlF0OVN1QXNwMTZnY05lRXVLQl9JbHpsUU83X08yZ19xdDZfZWs?oc=5>
+- 场馆: 观察者
+- 时间: 2026-07-07 02:57
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBnckotQ3BlZ3hGczNWXzc3RHl3VWV2N2MxTkt4Y0VUeGw3bVdrNGh1NFItZVZpTk5XR2lfM3d0OW9SZ2VFaVZzaFYyTmNQQ0V4bXlxR1ZrVVJlZjlKMzY2d2ZxQ1FCRm55bmc?oc=5>
 
-### 特朗普喊单，美股科技反弹：一句“买台戴尔”，市值一天涨了150亿美元
+### “每座发电厂都将不复存在”，特朗普再发出威胁
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-07-07 00:49
-- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE1TaFl5Y2lBUDNqTkdyMTlYalpON0Nad2VlcVJUY1JhUW1jMDFYcWJnTTExOHNHVnh2OUdTaW5SaDJwU19NZ2lzNS1nVTRWN1Bf?oc=5>
+- 时间: 2026-07-07 01:32
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFAxQVpUQ2NIWTRMU2RvdHY2MWNtU2FFV3pDb3lRY1lwZzE1SlRTQk52Xy1vbENhY002anlyWTMyTzlmYmt2OEFkOUt3UEk?oc=5>
 
-### 史无前例！白宫为交易所敲开市钟，特朗普吹美股：要涨到天上去
+### 特朗普称其与普京进行了“非常好的通话”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 第一财经
-- 时间: 2026-07-06 23:15
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RYWpwYUlxWUV3eHBhTzEyRXpJd21pQ1BCdVBLdkpSYXFkMWJLcmtZM3NYUnBMSlBsazNsanBNV19QbzJhOFVaLW9aYW9iSXR3OUFn?oc=5>
+- 场馆: 中国日报网
+- 时间: 2026-07-07 00:28
+- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE9UcmZVOXFQRlVORlRYaGNEMm02RXhRc0kydm94bFdxV2xrbTZpMUVzbTMwQVRwVV9Nc3F0STRqUjhiN2tBZjgzRGFBNXRtZVBBQnlOWXk3WVFhMXRvaDdQVExLSE10YjAzSzhiWGVKeDMwZUlwTXBub2wyRlM?oc=5>
+
+### 特朗普：与普京进行了一次“非常好的通话”，正进行磋商，看能否结束俄乌冲突，普京希望结束这场冲突，而且意愿“非常强烈”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-07-06 23:38
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTFBIMDRmbWl5T0RIWTNnM1ZkRlBGRkx6dk1qTVZTbVlzSlBpcXBwSDNPSFVRcW9RMnpwS3ZsMDNDRnhib2lrU0w4YmlLN0NfZm5heGJPNG82OVVnZHRXRkxTMU5wUjhCdDFhTklLQklwVHJ4M2VYMFE?oc=5>
+
+### 摔倒都怪特朗普？3月20日，全世界都在笑话美国，拜登很没面子
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-07-07 05:03
+- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxQRjF2RVRPMERkS21xeGg0U0p6TldDd3JCbGlYOU5IWUgzUTZLZEFGdkFiZkM4cWNxTGV2MmVCWXNRX1NEdEtTM2ZoVHpfLWRaUWhTdVREbHU5VzFhT3JuYVZPSTByekdoc3dqQ3lBS1RVYThHNFhCQm5obW51QWlJbGVFaUZJeGd3LUdCUjJCQQ?oc=5>
+
+### 逸语道破：美国自比罗马，但残酷的是特朗普不是恺撒而是……
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-07-07 00:42
+- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTE1YaFdKRV9EcGVrN3BTSzVEcFphQ3d0dUZvdXRCS1hwSGZObl9YZ05sMU5raVUzeGJjUk9kblY5QWIwTFZQM2E1UlA2cGF5Ui1lQzFId1ZZZ2hGb05ic3BaVG1fOA?oc=5>
+
+### 特朗普敲开市钟，“美股将涨上天”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网财经
+- 时间: 2026-07-06 23:40
+- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE1NREFTN1RTVnBkdi1mczZhWlBtOExBWFR1ZVB5OUpRZnpRZ0xoWVJ3TEx6TVZzNGtuaTVCRm9WeF9CRXVMUGNyQ0V1T0E4THdG?oc=5>
+
+### 土耳其横幅称把孩子藏好特朗普要来了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-07-07 00:58
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1PTUk5VlpUUWZfMEZRQzVoTGN1bFdidkc0TnZUckNGRjhWLTZFZGpEd0I5c2psM3gwcHJHS283ZENtUEhKQVdBYUNyLXVsZmVwOFVoZ2dZTHI2eFFUWkhZaThwTkhtMnpoZEJHcmxlV08?oc=5>
+
+### 风声｜美国出生公民权案宣判，特朗普输了还是赢了？
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-07-07 02:52
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9Hb2VaQ2JjVDV3Y2FLQklZUm5zV1lCWUdiUGVlRmo4SnJmeVJ3LTMxUHNQZEszeFpMY0k4X3pMbVNKbUpkTWQ1YlY1d0k?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-07 05:30  (27 条)
+
+- **蔡徐坤** | 金子涵发布艺人名单有什么含义？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801xyz8.html>
+- **蔡徐坤** | 网红单眼皮的小黄豆花14.1万买500张专辑追星，签售会现场睡着被蔡徐坤“教训”，为何偶像反劝他省点钱？ <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801bak8.html>
+- **周杰伦** | 周杰伦献唱的《少林女足》主题曲好听吗 <https://k.sina.com.cn/article_7879776328_1d5abd84806801xz9m.html>
+- **周杰伦** | 周杰伦为《功夫女足》创作的主题曲什么时候发 <https://k.sina.com.cn/article_7879776328_1d5abd84806801xz8i.html>
+- **周杰伦** | 这次周五组合会在《功夫女足》出新歌吗 <https://k.sina.com.cn/article_7879776328_1d5abd84806801xz7u.html>
+- **周杰伦** | 这次周五组合会在《功夫女足》发新歌吗？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801xz6y.html>
+- **周杰伦** | 周星驰为什么会选中周杰伦唱《功夫女足》主题曲？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801xz3q.html>
+- **周杰伦** | 还有哪些明星抢过自己演唱会的票？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801xyrs.html>
+- **周杰伦** | 华语流行歌手周杰伦 到底是谁抢到了周杰伦演唱会门票 <https://k.sina.com.cn/article_7879776328_1d5abd84806801xxng.html>
+- **周杰伦** | 到底是谁抢到了周杰伦演唱会票？20%-40%热门票源被黄牛控制 <https://k.sina.com.cn/article_7879776328_1d5abd84806801xxm0.html>
+- **周杰伦** | 黄牛到底抢到了多少周杰伦演唱会票？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801xxjm.html>
+- **周杰伦** | 周杰伦演唱会票被预留了多少给合作方？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801xxic.html>
+- **周杰伦** | 揭秘：到底是谁抢到了周杰伦演唱会票 <https://k.sina.com.cn/article_7879776328_1d5abd84806801xxim.html>
+- **周杰伦** | 《功夫女足》主题曲会在什么时候正式发布 <https://k.sina.com.cn/article_7879776328_1d5abd84806801xxk4.html>
+- **周杰伦** | 《功夫女足》周杰伦主题曲什么时候发布 <https://k.sina.com.cn/article_7879776328_1d5abd84806801xxes.html>
+- **周杰伦** | 王俊凯抢购周杰伦演唱会门票失败，系统繁忙致1680元座位秒灰 <https://k.sina.com.cn/article_1977983524_m75e5a22403301cr6e.html>
+- **周杰伦** | 杰威尔未授权赠周杰伦演唱会门票 Keep活动引争议_娱乐频道_中华网 <https://k.sina.com.cn/article_7857201856_1d45362c001907y0e2.html>
+- **特朗普** | 深视频 | 特朗普说若比利时赢，就是有黑幕！现在比利时赢了 <https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TQURwWFJ6dXB5M2p4M0w1d2pDS1dkdUxwcmZFbUxYUUx5V2M1QVlYUWhxb0NyNHZRR0VfM0l6aHpKNjJZdmtYaGRpMFhPRDQtMGdBbWRUOVlGeGllaFE?oc=5>
+- **特朗普** | 特朗普再威胁伊朗：所有发电厂都将不复存在 <https://news.google.com/rss/articles/CBMiakFVX3lxTFBnckotQ3BlZ3hGczNWXzc3RHl3VWV2N2MxTkt4Y0VUeGw3bVdrNGh1NFItZVZpTk5XR2lfM3d0OW9SZ2VFaVZzaFYyTmNQQ0V4bXlxR1ZrVVJlZjlKMzY2d2ZxQ1FCRm55bmc?oc=5>
+- **特朗普** | “每座发电厂都将不复存在”，特朗普再发出威胁 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFAxQVpUQ2NIWTRMU2RvdHY2MWNtU2FFV3pDb3lRY1lwZzE1SlRTQk52Xy1vbENhY002anlyWTMyTzlmYmt2OEFkOUt3UEk?oc=5>
+- **特朗普** | 特朗普称其与普京进行了“非常好的通话” <https://news.google.com/rss/articles/CBMifEFVX3lxTE9UcmZVOXFQRlVORlRYaGNEMm02RXhRc0kydm94bFdxV2xrbTZpMUVzbTMwQVRwVV9Nc3F0STRqUjhiN2tBZjgzRGFBNXRtZVBBQnlOWXk3WVFhMXRvaDdQVExLSE10YjAzSzhiWGVKeDMwZUlwTXBub2wyRlM?oc=5>
+- **特朗普** | 特朗普：与普京进行了一次“非常好的通话”，正进行磋商，看能否结束俄乌冲突，普京希望结束这场冲突，而且意愿“非常强烈” <https://news.google.com/rss/articles/CBMidkFVX3lxTFBIMDRmbWl5T0RIWTNnM1ZkRlBGRkx6dk1qTVZTbVlzSlBpcXBwSDNPSFVRcW9RMnpwS3ZsMDNDRnhib2lrU0w4YmlLN0NfZm5heGJPNG82OVVnZHRXRkxTMU5wUjhCdDFhTklLQklwVHJ4M2VYMFE?oc=5>
+- **特朗普** | 摔倒都怪特朗普？3月20日，全世界都在笑话美国，拜登很没面子 <https://news.google.com/rss/articles/CBMijwFBVV95cUxQRjF2RVRPMERkS21xeGg0U0p6TldDd3JCbGlYOU5IWUgzUTZLZEFGdkFiZkM4cWNxTGV2MmVCWXNRX1NEdEtTM2ZoVHpfLWRaUWhTdVREbHU5VzFhT3JuYVZPSTByekdoc3dqQ3lBS1RVYThHNFhCQm5obW51QWlJbGVFaUZJeGd3LUdCUjJCQQ?oc=5>
+- **特朗普** | 逸语道破：美国自比罗马，但残酷的是特朗普不是恺撒而是…… <https://news.google.com/rss/articles/CBMiY0FVX3lxTE1YaFdKRV9EcGVrN3BTSzVEcFphQ3d0dUZvdXRCS1hwSGZObl9YZ05sMU5raVUzeGJjUk9kblY5QWIwTFZQM2E1UlA2cGF5Ui1lQzFId1ZZZ2hGb05ic3BaVG1fOA?oc=5>
+- **特朗普** | 特朗普敲开市钟，“美股将涨上天” <https://news.google.com/rss/articles/CBMiUEFVX3lxTE1NREFTN1RTVnBkdi1mczZhWlBtOExBWFR1ZVB5OUpRZnpRZ0xoWVJ3TEx6TVZzNGtuaTVCRm9WeF9CRXVMUGNyQ0V1T0E4THdG?oc=5>
+- **特朗普** | 土耳其横幅称把孩子藏好特朗普要来了 <https://news.google.com/rss/articles/CBMicEFVX3lxTE1PTUk5VlpUUWZfMEZRQzVoTGN1bFdidkc0TnZUckNGRjhWLTZFZGpEd0I5c2psM3gwcHJHS283ZENtUEhKQVdBYUNyLXVsZmVwOFVoZ2dZTHI2eFFUWkhZaThwTkhtMnpoZEJHcmxlV08?oc=5>
+- **Trump** | 风声｜美国出生公民权案宣判，特朗普输了还是赢了？ <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9Hb2VaQ2JjVDV3Y2FLQklZUm5zV1lCWUdiUGVlRmo4SnJmeVJ3LTMxUHNQZEszeFpMY0k4X3pMbVNKbUpkTWQ1YlY1d0k?oc=5>
 
 ### 2026-07-07 01:14  (10 条)
 
