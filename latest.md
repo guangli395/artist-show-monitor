@@ -1,120 +1,82 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-07 15:23**
-- 本轮扫到 6086 条, 新增 **14** 条
+- 最近更新: **2026-07-07 17:31**
+- 本轮扫到 6093 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (14 条)
+## 本轮新发现 (7 条)
 
-### 《功夫女足》主题曲会是什么风格
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801y94q.html>
-
-### 周杰伦演唱会门票黄牛占比真的超过一半吗？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801y8ee.html>
-
-### 《功夫女足》主题曲《冲》的歌词是什么？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801y6wa.html>
-
-### 王炸联动!周星驰《功夫女足》定档7月,周杰伦献唱主题曲,两代青春撞碎情怀天花板
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907ze88.html>
-
-### 内塔尼亚胡要求特朗普管管埃尔多安，抱怨他的反以言论近来“越来越过分”，埃尔多安此前公开祷告摧毁以色列
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-07 14:44
-- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxNalJZTzhkS29IQlNodWh4aGJDcU9iVlljWVd3UUxmZXFoQ1hYSU1wM3J3Rl8zWXM4UzAzeFpBb29nUk53YkNmY0lCREtnTWU0Ri1PZUx3TElNLWtjdGREWnp4NVpvTDI4czVUMWtfN0l4Y0Nfb3BkMXh5WlpyUWs1U2dkZEM5Z2NGMzdF?oc=5>
-
-### 我们不想对朋友实施制裁，就这么简单
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-07-07 14:53
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1mYzA1cDdMTm9MbEJVTkJOSVpIdkUtaUNHQk9PdnQ1VWt1XzJ5cWpXUmhWcThUM1N0UTZmTk1jdkRDQURVT2M2MGtPOWJHcmlvclF0cUNZMHRnMkZHMmc2ZFBTMVJGYmlVMlE?oc=5>
-
-### 内塔尼亚胡：否认与特朗普“存在裂痕”，以色列在国际上拥有“许多朋友”，尤其是“14亿人口‘小国’印度”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-06 00:58
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWi16RVBVT1NnMktIbzV4LWt4UzA0TUlQMXU2eFdPXzNERmZ0WmpwVUV3UDlwV3JjWndwQXplZzA1WHVYanFTZU1naDhHWnhzOXIzV0NXa3BDdUVJSFM4bDl4Q0doNTRBNkY1T01ubjg2SG5teDFRaXByaklaMGoyUVRhRjdIVEZWclQzS0FmSXBsM09EeFIxTGtvNW5HQ29oNzZKZl80X2o2MnNtakZ3ZDNfSFJESWEzTUVkTHgtT2stRGtuLVQ1UzY3cjhDYUlH?oc=5>
-
-### 北约宣布重大武器协议，向特朗普总统展示联盟正在将国防投资转化为真正的军事能力
+### 特朗普抵达安卡拉出席北约峰会 将讨论贸易与安全议题
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 美国之音
-- 时间: 2026-07-07 12:33
-- 链接: <https://news.google.com/rss/articles/CBMixwFBVV95cUxPdHRQR1p1Wm43eWF2RkMxYjZESlhMMFAyQ0dwQWxYV3dSTWk4VWRhQXRWZGJkekxHM0tGLUJ2WENlbDJTZW5XbWZ0ZGxQcVVLSFktYm1UQXZBZGtldVdxX1RmdmhveUtja2ZyWEpodkQxT1AxcmhOVVQ1MWRUZnRWSEo0Ym8tbnlZcDNKbzNOSURVa0xObUVMMWRuT2N1M2U0YXdmRHZaWHJLaVZCVk51aGUzNTY3M0RKTHNDZnlVc3gtbFRIT2V30gHKAUFVX3lxTFA4Qk5fN1JGWWlkRVp1alFHbkV1VlFwTm5FSElab1JJcXFwM3B3MnRORFpLNHpVY0Rud1JRdzRXeFJhNElZS1N1X0h4eldiVXVTTUZkck1BMVJrTjZXNEZQTXd1aFFwNWE3ZEs5eVpZZ0ZFbk1RVm9acVpEUEpvb2pwWVIya3ZGY0huSWJaNkR2ZUVvT3ZXMnMzanB3UktkaDZfVjZfeUNrYWhabTlUMVRZbUQ4ajR1NTlIRnluQzlVRWMySDJUSFJTN2c?oc=5>
+- 时间: 2026-07-07 15:52
+- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTE80MjhXLW1lbzhNeEJXMjlWcUhOUkhQVUtjWjVXSGNpamp2anpWNnljZzd1Sld1Rk9lMWUwMVhuMkZaNFl3WnVyclo4OEU4V3JxRFlXNTVFN2ZwZThDN2pHQXU5UTBQMDByeVpiUjlB0gFwQVVfeXFMTm1Ic1kxX1pib0d5YWsxamV4MFd1YnY3VGd1NWlJdG0xQlg1d3o3OGV4Wk5nU0hTV1dmYlFkZlFDU0NyNy1kYTY3OVN4NndYdVhGaVNLd2FweWRCLVhWazRUUkVESU1xSjc0MHlLcmNReQ?oc=5>
 
-### 特朗普北约峰会再提格陵兰岛诉求并放出狠话：美国或将从欧洲撤军
+### 特朗普宣布解除对土耳其制裁 称将考虑恢复F-35战机军售
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-07-07 17:23
+- 链接: <https://news.google.com/rss/articles/CBMi-gJBVV95cUxOSGFFd2VtMUNSeUtRQlpkQktNODR4UTNRcGZONUZILXJjTWpKNTJCQnd0RTFUMmdMWmd0TkxDcmY2RFRGRWNqdV8xNzdIYjFQX2JIdkxxRXJTUGttc01TVGJUNkNaUlNZVDN1d2ptcjJUU2VzRDFQU2Zpb05tQ1hjT0VIRkJMUW05U1lOZmpjcE1yMklZeGg3aEZjNVZGYVpiQ19QY2lQd0gzM2FWbURaX21WbDJRM3RIVDhtMFM5dFFlYnhidEFfbFY0dDdVRURUYThVTzBBaU5aazhKTEw2N1lpdFg0bkZaN05BaTR5N09lSXExazdGTmxMT1BXbEFOZ3BYLXdlUkFGY0kwUTlJRURUeDZ0OC12QWZiSlp1OGo5U3E4cEpCSzdtbVZITDlkNkNUY2x2RlpDVHFkUkZiMU1tQXRTZ0liODBHU1ltN0hXeWdBdTZFNGlKSjAxQkpfdnlNOFpRenhLODQtcXBTNVVyMlpXejJXYXc?oc=5>
+
+### 特朗普挥舞“关税大棒”折腾一年，美国贸易赤字扩大至2025年3月以来最高
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-07 14:42
-- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYXEzQnZfa2xWYXVwZTdNaTU0WW1hQVI4WlMwbG01M3lDU3BSOENaeUlOLUZtcGprZGl2QjNORi1pd0RMV25odXJIM3RsRDg2YlEtZHRGb1dsamg1dmZWcWRPVXNLNE5aLVBfM0hNcXA3eldfZExsZ291TzVPMkZVWTlYZDFIeG81WG9QTmdId3NZSGkyLVo5YzNUVHhWcXdDaERZS0RhWWZPQQ?oc=5>
+- 时间: 2026-07-07 16:59
+- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxONFpaZzYzZ2tKbDVrT0FxVTJYZ0hSejZ6Tmo2NnpVSXkxa1J6THhoN1lfZU51Nmc0eG5Zc0p0aWdoQmRoZ3VXRE5yTTVtR1AweHFFT0lLa3VMdGY4cVRXTmZ6ZllrMmk5OWZtTkdvZFozRmllR3RhTTFiNWZZVEMzNGd1WQ?oc=5>
 
-### 特朗普北约峰会上重提格收购陵兰岛，称美国可能从欧洲撤军
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-07 14:21
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxQWWk3dVlQd2JOTGtkaWdWOVNPZUlac1o5Tzl1MkJmTU9HcEF4Y0JpeURiTDF5dkhNVmFPMFJGczR6NHlZd0pTVlZnb0pzOFpZNzloaW9jbEh0UU5zeU1zWjhZZUc4U1hWUHA1YTc4aDE0UmowRVZ1aWdVLUdqQkprTDVSejN5cUk?oc=5>
-
-### “白宫股神”再发威：一句话让戴尔市值暴涨超百亿美元
+### 比利时国防大臣警告特朗普：不准再骚扰“女王”梅洛尼
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-07-07 03:44
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE01ckFxazhfT3MzTVRYTjJ1WUp2eHlyTUc4eVloNmdnYXQ2UHhJMHBHUVpyRE1xSGN2SVF2cVlwbktqQ0tTcEVxTHgwdWgxYktScnBMNE9rNlVaUVc3bzFmUA?oc=5>
+- 场馆: 观察者
+- 时间: 2026-07-07 12:54
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9fNDc5OEtkYl9jaFNadUEtSG1vZjFnSUtHajJyX0pSWjNQRS1rT0dIc1NYaklKcUZ3LWNaSWRPWG1xbmJqRllfaHF4QUhwREV6eFZ2VHFRMUdXakVfZWJyUWt3aVNHc0V6VkE?oc=5>
 
-### “特朗普账户”是什么？
+### 意大利：不会再回复特朗普挑衅言论
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-07-07 10:55
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwRjVqRDNyd3R3eXM3Y3hmT3NLQU8tdS14MVR6UWp2MFNxRVJzblZmcjUtcGhqRTJjYUdrZjFYcGpJSFl2dllCaV9VSXhzSVNDejYzeEpJanRBdXlMUkRGc2dLMGQ?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-07-07 11:51
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE8wS29YZjJDR1J5c1hPZ1NKVkdEUkRiWll0MTFUcnF1Nmc3ZXotMWsyTVB4UmNEd1d6dno2MVlMWGFUdEM1dDQzbHByWkI?oc=5>
 
-### 特朗普称美国将解除对土耳其的《以制裁反击美国敌人法案》（CAATSA）制裁，并考虑向土耳其出售F-35战斗机。
+### 川普帐户上路 什么是川普帐户？18年后能存多少钱？
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Al-Monitor
-- 时间: 2026-07-07 13:41
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1UWUwtM1MzMWVSYjVWcGhsLWtwYWVha254RGFTSk1Pb2VxR1k0aGVnWHhDTXktYU0yMnVFdWNKWUtMUEhfb2VPRTZteWdyZ2ZQZmV1TTNsMGVWZDZ5TGdHOGZFT1g?oc=5>
+- 场馆: 文学城
+- 时间: 2026-07-07 16:32
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9XSFlUaW5LRkZwWFZvYkZSN0N5Si1YU0tDY0VJMHRQT1JaX29UeWdqUE9OYXAxNGR6RUhSeVp4UUVwbU5oSkRham5UNFlyNlJ3M0dFYTFycmN4Y3VLVzVGZDRXcHNqWHky?oc=5>
 
-### 纽约时报：近百万名Meme币TRUMP投资者截至6月底累计亏损38.1亿美元
+### 特朗普回应Trump Accounts未来是否纳入比特币：“有可能会发生”
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: TradingView
-- 时间: 2026-07-06 00:28
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBCaFIwVjJTTTNsYUhsUW5zQkVyR3hPaVB4SUZFemdpOGlSVC1wdWhXTWxMSGN0V0FsYk1mT29tQ1JQX0JWaFlYNFFiZXo4eW9YWjU5QkUyNFhUZFdnMjZjZXpKdXdMUQ?oc=5>
+- 时间: 2026-07-06 14:24
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWMVZCakZVSU9BSzYybldGZHJfMXRzajlfRkdDVXE3NVBydG04RHYzUDJZSVJMby05NVR1V2h0aGhPb25PNy1WRjV0Q3pxc3IwWlhjWUwyVktEeG1aSGlxdlBaX1pqdw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-07 17:31  (7 条)
+
+- **特朗普** | 特朗普抵达安卡拉出席北约峰会 将讨论贸易与安全议题 <https://news.google.com/rss/articles/CBMibkFVX3lxTE80MjhXLW1lbzhNeEJXMjlWcUhOUkhQVUtjWjVXSGNpamp2anpWNnljZzd1Sld1Rk9lMWUwMVhuMkZaNFl3WnVyclo4OEU4V3JxRFlXNTVFN2ZwZThDN2pHQXU5UTBQMDByeVpiUjlB0gFwQVVfeXFMTm1Ic1kxX1pib0d5YWsxamV4MFd1YnY3VGd1NWlJdG0xQlg1d3o3OGV4Wk5nU0hTV1dmYlFkZlFDU0NyNy1kYTY3OVN4NndYdVhGaVNLd2FweWRCLVhWazRUUkVESU1xSjc0MHlLcmNReQ?oc=5>
+- **特朗普** | 特朗普宣布解除对土耳其制裁 称将考虑恢复F-35战机军售 <https://news.google.com/rss/articles/CBMi-gJBVV95cUxOSGFFd2VtMUNSeUtRQlpkQktNODR4UTNRcGZONUZILXJjTWpKNTJCQnd0RTFUMmdMWmd0TkxDcmY2RFRGRWNqdV8xNzdIYjFQX2JIdkxxRXJTUGttc01TVGJUNkNaUlNZVDN1d2ptcjJUU2VzRDFQU2Zpb05tQ1hjT0VIRkJMUW05U1lOZmpjcE1yMklZeGg3aEZjNVZGYVpiQ19QY2lQd0gzM2FWbURaX21WbDJRM3RIVDhtMFM5dFFlYnhidEFfbFY0dDdVRURUYThVTzBBaU5aazhKTEw2N1lpdFg0bkZaN05BaTR5N09lSXExazdGTmxMT1BXbEFOZ3BYLXdlUkFGY0kwUTlJRURUeDZ0OC12QWZiSlp1OGo5U3E4cEpCSzdtbVZITDlkNkNUY2x2RlpDVHFkUkZiMU1tQXRTZ0liODBHU1ltN0hXeWdBdTZFNGlKSjAxQkpfdnlNOFpRenhLODQtcXBTNVVyMlpXejJXYXc?oc=5>
+- **特朗普** | 特朗普挥舞“关税大棒”折腾一年，美国贸易赤字扩大至2025年3月以来最高 <https://news.google.com/rss/articles/CBMigwFBVV95cUxONFpaZzYzZ2tKbDVrT0FxVTJYZ0hSejZ6Tmo2NnpVSXkxa1J6THhoN1lfZU51Nmc0eG5Zc0p0aWdoQmRoZ3VXRE5yTTVtR1AweHFFT0lLa3VMdGY4cVRXTmZ6ZllrMmk5OWZtTkdvZFozRmllR3RhTTFiNWZZVEMzNGd1WQ?oc=5>
+- **特朗普** | 比利时国防大臣警告特朗普：不准再骚扰“女王”梅洛尼 <https://news.google.com/rss/articles/CBMiakFVX3lxTE9fNDc5OEtkYl9jaFNadUEtSG1vZjFnSUtHajJyX0pSWjNQRS1rT0dIc1NYaklKcUZ3LWNaSWRPWG1xbmJqRllfaHF4QUhwREV6eFZ2VHFRMUdXakVfZWJyUWt3aVNHc0V6VkE?oc=5>
+- **特朗普** | 意大利：不会再回复特朗普挑衅言论 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE8wS29YZjJDR1J5c1hPZ1NKVkdEUkRiWll0MTFUcnF1Nmc3ZXotMWsyTVB4UmNEd1d6dno2MVlMWGFUdEM1dDQzbHByWkI?oc=5>
+- **Trump** | 川普帐户上路 什么是川普帐户？18年后能存多少钱？ <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9XSFlUaW5LRkZwWFZvYkZSN0N5Si1YU0tDY0VJMHRQT1JaX29UeWdqUE9OYXAxNGR6RUhSeVp4UUVwbU5oSkRham5UNFlyNlJ3M0dFYTFycmN4Y3VLVzVGZDRXcHNqWHky?oc=5>
+- **Trump** | 特朗普回应Trump Accounts未来是否纳入比特币：“有可能会发生” <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWMVZCakZVSU9BSzYybldGZHJfMXRzajlfRkdDVXE3NVBydG04RHYzUDJZSVJMby05NVR1V2h0aGhPb25PNy1WRjV0Q3pxc3IwWlhjWUwyVktEeG1aSGlxdlBaX1pqdw?oc=5>
 
 ### 2026-07-07 15:23  (14 条)
 
