@@ -1,74 +1,137 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-07 12:23**
-- 本轮扫到 6072 条, 新增 **8** 条
+- 最近更新: **2026-07-07 15:23**
+- 本轮扫到 6086 条, 新增 **14** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (14 条)
 
-### 功夫足球回来了!周星驰《女足》杀青,周杰伦或献唱主题曲
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907za9m.html>
-
-### 周杰伦为功夫女足献唱主题曲！歌名尚未公布
+### 《功夫女足》主题曲会是什么风格
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801y2zq.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801y94q.html>
 
-### 阿信会参与功夫女足的主题曲创作吗？
+### 周杰伦演唱会门票黄牛占比真的超过一半吗？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801y2zc.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801y8ee.html>
 
-### 特朗普输了“出生公民权”官司 但未来孕妇入境美国是否更难?
+### 《功夫女足》主题曲《冲》的歌词是什么？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-07-07 09:13
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SR2xuQmlJZXVieFVPOHk3OTRXZkxTNWx2V1k1b21rejJIRDNkUmpMa1FZcmJKZXRVdU5FcFlDdk1mTlM5NmdQTlhxeW5abGNRUXI2SGtUTWRUM3RWa0M2NTZJbGFqUdIBa0FVX3lxTE5sM1FOeEVWVzBvS0VvQTJzWmlhRHE3QlVxZmxBTlJWNFFaVVBnZDdSa25mYW5KaEVNdHQyTFVfVVYxVklyUEhKM1BwNWNDZ29JSmRMM2NTTEF0VGF4R0RxX0NHQVI3NFgxc3lJ?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801y6wa.html>
 
-### 特朗普又立flag 特朗普乐观预判俄乌冲突收尾进度
+### 王炸联动!周星驰《功夫女足》定档7月,周杰伦献唱主题曲,两代青春撞碎情怀天花板
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-07-07 11:09
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBXVUN3SmdTY3RDNFpIMzBHTUJpN1lsbEZNb0JFZHVlNUcwWFhPQkNhbkNiWU1KZzZGWGUtc1RlaGNDTEFXa2xsc0Y5RXJCbGh4Zk9sN1JKRmcza0ZqaFgwVXEtZ3k3WGF3X084NWJxeTg?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001907ze88.html>
 
-### “特朗普账户”正式推出，可操作性引质疑
+### 内塔尼亚胡要求特朗普管管埃尔多安，抱怨他的反以言论近来“越来越过分”，埃尔多安此前公开祷告摧毁以色列
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-07 10:48
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9hUG5TMXhDbWhOdURfNWlfa1d4MVp0OEhwQUVwVkxKeHNEYkpRejgwcGoyLVZ1TjBlbF9RVWJCOUMtWENLUWs2YXZQVUs?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-07-07 14:44
+- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxNalJZTzhkS29IQlNodWh4aGJDcU9iVlljWVd3UUxmZXFoQ1hYSU1wM3J3Rl8zWXM4UzAzeFpBb29nUk53YkNmY0lCREtnTWU0Ri1PZUx3TElNLWtjdGREWnp4NVpvTDI4czVUMWtfN0l4Y0Nfb3BkMXh5WlpyUWs1U2dkZEM5Z2NGMzdF?oc=5>
 
-### Trump threatens to continue attacks if Iran rejects deal
+### 我们不想对朋友实施制裁，就这么简单
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-07-07 14:53
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1mYzA1cDdMTm9MbEJVTkJOSVpIdkUtaUNHQk9PdnQ1VWt1XzJ5cWpXUmhWcThUM1N0UTZmTk1jdkRDQURVT2M2MGtPOWJHcmlvclF0cUNZMHRnMkZHMmc2ZFBTMVJGYmlVMlE?oc=5>
+
+### 内塔尼亚胡：否认与特朗普“存在裂痕”，以色列在国际上拥有“许多朋友”，尤其是“14亿人口‘小国’印度”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-06 00:58
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWi16RVBVT1NnMktIbzV4LWt4UzA0TUlQMXU2eFdPXzNERmZ0WmpwVUV3UDlwV3JjWndwQXplZzA1WHVYanFTZU1naDhHWnhzOXIzV0NXa3BDdUVJSFM4bDl4Q0doNTRBNkY1T01ubjg2SG5teDFRaXByaklaMGoyUVRhRjdIVEZWclQzS0FmSXBsM09EeFIxTGtvNW5HQ29oNzZKZl80X2o2MnNtakZ3ZDNfSFJESWEzTUVkTHgtT2stRGtuLVQ1UzY3cjhDYUlH?oc=5>
+
+### 北约宣布重大武器协议，向特朗普总统展示联盟正在将国防投资转化为真正的军事能力
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-07-07 12:33
+- 链接: <https://news.google.com/rss/articles/CBMixwFBVV95cUxPdHRQR1p1Wm43eWF2RkMxYjZESlhMMFAyQ0dwQWxYV3dSTWk4VWRhQXRWZGJkekxHM0tGLUJ2WENlbDJTZW5XbWZ0ZGxQcVVLSFktYm1UQXZBZGtldVdxX1RmdmhveUtja2ZyWEpodkQxT1AxcmhOVVQ1MWRUZnRWSEo0Ym8tbnlZcDNKbzNOSURVa0xObUVMMWRuT2N1M2U0YXdmRHZaWHJLaVZCVk51aGUzNTY3M0RKTHNDZnlVc3gtbFRIT2V30gHKAUFVX3lxTFA4Qk5fN1JGWWlkRVp1alFHbkV1VlFwTm5FSElab1JJcXFwM3B3MnRORFpLNHpVY0Rud1JRdzRXeFJhNElZS1N1X0h4eldiVXVTTUZkck1BMVJrTjZXNEZQTXd1aFFwNWE3ZEs5eVpZZ0ZFbk1RVm9acVpEUEpvb2pwWVIya3ZGY0huSWJaNkR2ZUVvT3ZXMnMzanB3UktkaDZfVjZfeUNrYWhabTlUMVRZbUQ4ajR1NTlIRnluQzlVRWMySDJUSFJTN2c?oc=5>
+
+### 特朗普北约峰会再提格陵兰岛诉求并放出狠话：美国或将从欧洲撤军
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-07 14:42
+- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYXEzQnZfa2xWYXVwZTdNaTU0WW1hQVI4WlMwbG01M3lDU3BSOENaeUlOLUZtcGprZGl2QjNORi1pd0RMV25odXJIM3RsRDg2YlEtZHRGb1dsamg1dmZWcWRPVXNLNE5aLVBfM0hNcXA3eldfZExsZ291TzVPMkZVWTlYZDFIeG81WG9QTmdId3NZSGkyLVo5YzNUVHhWcXdDaERZS0RhWWZPQQ?oc=5>
+
+### 特朗普北约峰会上重提格收购陵兰岛，称美国可能从欧洲撤军
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-07 14:21
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxQWWk3dVlQd2JOTGtkaWdWOVNPZUlac1o5Tzl1MkJmTU9HcEF4Y0JpeURiTDF5dkhNVmFPMFJGczR6NHlZd0pTVlZnb0pzOFpZNzloaW9jbEh0UU5zeU1zWjhZZUc4U1hWUHA1YTc4aDE0UmowRVZ1aWdVLUdqQkprTDVSejN5cUk?oc=5>
+
+### “白宫股神”再发威：一句话让戴尔市值暴涨超百亿美元
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 东方财富
+- 时间: 2026-07-07 03:44
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE01ckFxazhfT3MzTVRYTjJ1WUp2eHlyTUc4eVloNmdnYXQ2UHhJMHBHUVpyRE1xSGN2SVF2cVlwbktqQ0tTcEVxTHgwdWgxYktScnBMNE9rNlVaUVc3bzFmUA?oc=5>
+
+### “特朗普账户”是什么？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新京报
+- 时间: 2026-07-07 10:55
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwRjVqRDNyd3R3eXM3Y3hmT3NLQU8tdS14MVR6UWp2MFNxRVJzblZmcjUtcGhqRTJjYUdrZjFYcGpJSFl2dllCaV9VSXhzSVNDejYzeEpJanRBdXlMUkRGc2dLMGQ?oc=5>
+
+### 特朗普称美国将解除对土耳其的《以制裁反击美国敌人法案》（CAATSA）制裁，并考虑向土耳其出售F-35战斗机。
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: IDNFinancials.com
-- 时间: 2026-07-07 07:00
-- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVDU4NEpmWWhITXZSdGpOSGo3T1N6ODB5d3VyMEpoR3BvSGZHc0c2eHFtZDlIMno1ekhrMzlKYTZDSGM2V1FuQlNkUW1MQk5FbWFSLUl4T3V0YTJWNFBvRThVTE5iNzZiV1B6ZElTUzBKR09ZYk5MLTJxTDlma2I2bVNQU3pXU2V5dkxzYTZybDY1Y1o5WWl2VzBZTW96dVZJZ2JjS3pPSHN3dw?oc=5>
+- 场馆: Al-Monitor
+- 时间: 2026-07-07 13:41
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1UWUwtM1MzMWVSYjVWcGhsLWtwYWVha254RGFTSk1Pb2VxR1k0aGVnWHhDTXktYU0yMnVFdWNKWUtMUEhfb2VPRTZteWdyZ2ZQZmV1TTNsMGVWZDZ5TGdHOGZFT1g?oc=5>
 
-### 网红 ANSEM 同名 Meme，市值超过美国总统发的币
+### 纽约时报：近百万名Meme币TRUMP投资者截至6月底累计亏损38.1亿美元
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: ForesightNews
-- 时间: 2026-07-07 08:38
-- 链接: <https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Uc3hyajhpOTFJN25HSlRrQWk2cXpmSjI0UzItaGttWVVvLW5hOE50RDhzMllrVzZaWVFXel91UlRtU0FMbFk4TVZPRkd6X3RVX1JlcElqMEcwdw?oc=5>
+- 场馆: TradingView
+- 时间: 2026-07-06 00:28
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBCaFIwVjJTTTNsYUhsUW5zQkVyR3hPaVB4SUZFemdpOGlSVC1wdWhXTWxMSGN0V0FsYk1mT29tQ1JQX0JWaFlYNFFiZXo4eW9YWjU5QkUyNFhUZFdnMjZjZXpKdXdMUQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-07 15:23  (14 条)
+
+- **周杰伦** | 《功夫女足》主题曲会是什么风格 <https://k.sina.com.cn/article_7879776328_1d5abd84806801y94q.html>
+- **周杰伦** | 周杰伦演唱会门票黄牛占比真的超过一半吗？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801y8ee.html>
+- **周杰伦** | 《功夫女足》主题曲《冲》的歌词是什么？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801y6wa.html>
+- **周杰伦** | 王炸联动!周星驰《功夫女足》定档7月,周杰伦献唱主题曲,两代青春撞碎情怀天花板 <https://k.sina.com.cn/article_7857201856_1d45362c001907ze88.html>
+- **特朗普** | 内塔尼亚胡要求特朗普管管埃尔多安，抱怨他的反以言论近来“越来越过分”，埃尔多安此前公开祷告摧毁以色列 <https://news.google.com/rss/articles/CBMiiwFBVV95cUxNalJZTzhkS29IQlNodWh4aGJDcU9iVlljWVd3UUxmZXFoQ1hYSU1wM3J3Rl8zWXM4UzAzeFpBb29nUk53YkNmY0lCREtnTWU0Ri1PZUx3TElNLWtjdGREWnp4NVpvTDI4czVUMWtfN0l4Y0Nfb3BkMXh5WlpyUWs1U2dkZEM5Z2NGMzdF?oc=5>
+- **特朗普** | 我们不想对朋友实施制裁，就这么简单 <https://news.google.com/rss/articles/CBMiakFVX3lxTE1mYzA1cDdMTm9MbEJVTkJOSVpIdkUtaUNHQk9PdnQ1VWt1XzJ5cWpXUmhWcThUM1N0UTZmTk1jdkRDQURVT2M2MGtPOWJHcmlvclF0cUNZMHRnMkZHMmc2ZFBTMVJGYmlVMlE?oc=5>
+- **特朗普** | 内塔尼亚胡：否认与特朗普“存在裂痕”，以色列在国际上拥有“许多朋友”，尤其是“14亿人口‘小国’印度” <https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWi16RVBVT1NnMktIbzV4LWt4UzA0TUlQMXU2eFdPXzNERmZ0WmpwVUV3UDlwV3JjWndwQXplZzA1WHVYanFTZU1naDhHWnhzOXIzV0NXa3BDdUVJSFM4bDl4Q0doNTRBNkY1T01ubjg2SG5teDFRaXByaklaMGoyUVRhRjdIVEZWclQzS0FmSXBsM09EeFIxTGtvNW5HQ29oNzZKZl80X2o2MnNtakZ3ZDNfSFJESWEzTUVkTHgtT2stRGtuLVQ1UzY3cjhDYUlH?oc=5>
+- **特朗普** | 北约宣布重大武器协议，向特朗普总统展示联盟正在将国防投资转化为真正的军事能力 <https://news.google.com/rss/articles/CBMixwFBVV95cUxPdHRQR1p1Wm43eWF2RkMxYjZESlhMMFAyQ0dwQWxYV3dSTWk4VWRhQXRWZGJkekxHM0tGLUJ2WENlbDJTZW5XbWZ0ZGxQcVVLSFktYm1UQXZBZGtldVdxX1RmdmhveUtja2ZyWEpodkQxT1AxcmhOVVQ1MWRUZnRWSEo0Ym8tbnlZcDNKbzNOSURVa0xObUVMMWRuT2N1M2U0YXdmRHZaWHJLaVZCVk51aGUzNTY3M0RKTHNDZnlVc3gtbFRIT2V30gHKAUFVX3lxTFA4Qk5fN1JGWWlkRVp1alFHbkV1VlFwTm5FSElab1JJcXFwM3B3MnRORFpLNHpVY0Rud1JRdzRXeFJhNElZS1N1X0h4eldiVXVTTUZkck1BMVJrTjZXNEZQTXd1aFFwNWE3ZEs5eVpZZ0ZFbk1RVm9acVpEUEpvb2pwWVIya3ZGY0huSWJaNkR2ZUVvT3ZXMnMzanB3UktkaDZfVjZfeUNrYWhabTlUMVRZbUQ4ajR1NTlIRnluQzlVRWMySDJUSFJTN2c?oc=5>
+- **特朗普** | 特朗普北约峰会再提格陵兰岛诉求并放出狠话：美国或将从欧洲撤军 <https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYXEzQnZfa2xWYXVwZTdNaTU0WW1hQVI4WlMwbG01M3lDU3BSOENaeUlOLUZtcGprZGl2QjNORi1pd0RMV25odXJIM3RsRDg2YlEtZHRGb1dsamg1dmZWcWRPVXNLNE5aLVBfM0hNcXA3eldfZExsZ291TzVPMkZVWTlYZDFIeG81WG9QTmdId3NZSGkyLVo5YzNUVHhWcXdDaERZS0RhWWZPQQ?oc=5>
+- **特朗普** | 特朗普北约峰会上重提格收购陵兰岛，称美国可能从欧洲撤军 <https://news.google.com/rss/articles/CBMihwFBVV95cUxQWWk3dVlQd2JOTGtkaWdWOVNPZUlac1o5Tzl1MkJmTU9HcEF4Y0JpeURiTDF5dkhNVmFPMFJGczR6NHlZd0pTVlZnb0pzOFpZNzloaW9jbEh0UU5zeU1zWjhZZUc4U1hWUHA1YTc4aDE0UmowRVZ1aWdVLUdqQkprTDVSejN5cUk?oc=5>
+- **特朗普** | “白宫股神”再发威：一句话让戴尔市值暴涨超百亿美元 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE01ckFxazhfT3MzTVRYTjJ1WUp2eHlyTUc4eVloNmdnYXQ2UHhJMHBHUVpyRE1xSGN2SVF2cVlwbktqQ0tTcEVxTHgwdWgxYktScnBMNE9rNlVaUVc3bzFmUA?oc=5>
+- **特朗普** | “特朗普账户”是什么？ <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwRjVqRDNyd3R3eXM3Y3hmT3NLQU8tdS14MVR6UWp2MFNxRVJzblZmcjUtcGhqRTJjYUdrZjFYcGpJSFl2dllCaV9VSXhzSVNDejYzeEpJanRBdXlMUkRGc2dLMGQ?oc=5>
+- **Trump** | 特朗普称美国将解除对土耳其的《以制裁反击美国敌人法案》（CAATSA）制裁，并考虑向土耳其出售F-35战斗机。 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1UWUwtM1MzMWVSYjVWcGhsLWtwYWVha254RGFTSk1Pb2VxR1k0aGVnWHhDTXktYU0yMnVFdWNKWUtMUEhfb2VPRTZteWdyZ2ZQZmV1TTNsMGVWZDZ5TGdHOGZFT1g?oc=5>
+- **Trump** | 纽约时报：近百万名Meme币TRUMP投资者截至6月底累计亏损38.1亿美元 <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBCaFIwVjJTTTNsYUhsUW5zQkVyR3hPaVB4SUZFemdpOGlSVC1wdWhXTWxMSGN0V0FsYk1mT29tQ1JQX0JWaFlYNFFiZXo4eW9YWjU5QkUyNFhUZFdnMjZjZXpKdXdMUQ?oc=5>
 
 ### 2026-07-07 12:23  (8 条)
 
