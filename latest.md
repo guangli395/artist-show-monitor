@@ -1,60 +1,218 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-08 02:05**
-- 本轮扫到 6126 条, 新增 **6** 条
+- 最近更新: **2026-07-08 05:34**
+- 本轮扫到 6153 条, 新增 **27** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (27 条)
 
-### 新浪演唱会热点小时报丨2026年07月08日09时_今日实时演唱会热点速递
+### 艺人歌手王一博作词 2026王俊凯新歌署名乌龙是怎么回事
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801yk9y.html>
+
+### 王俊凯新歌作词人王一博系同名幕后音乐人
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7096020439_1a6f4add706801spry.html>
+
+### 王一博还会发布自己作词的新歌吗
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801yk4u.html>
+
+### 王俊凯新歌署名王一博，居然是同名乌龙
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801yk38.html>
+
+### 王俊凯今年会开启个人巡演吗？
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801yk2c.html>
+
+### 王俊凯新歌作词人王一博系同名
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1960785875_m74df37d303301rwam.html>
+
+### 27岁重庆演员王俊凯新歌《破晓》作词署名王一博，为何引发顶流合作乌龙？
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801beiw.html>
+
+### 王俊凯首张个人实体专辑《疑疑疑》发布，粉丝称嫡长专
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_6187089320_m170c77da803301eats.html>
+
+### 王俊凯新歌作词署名乌龙：王一博非艺人YIBO
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7096020439_1a6f4add706801spqm.html>
+
+### 王俊凯王一博合作新歌《破晓》作词引热议
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_2766575417_a4e69739040019oaw.html>
+
+### 王俊凯新歌《破晓》作词人真的是艺人王一博吗
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801yius.html>
+
+### 王一博未来会举办个人大型演唱会吗？
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801yiu0.html>
+
+### 王俊凯新歌作词人是王一博？原来是同名乌龙！
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801yisq.html>
+
+### 2025三亚周杰伦演唱会(时间+地点+购票)
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019080ela.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019080hr4.html>
 
-### 新浪演唱会热点小时报丨2026年07月08日08时_今日实时演唱会热点速递
+### 2025周杰伦会来三亚开演唱会吗?
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019080e0e.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019080hoi.html>
 
-### 特朗普启动新生儿投资账户计划，称将让美儿童变富翁
+### 周杰伦的MV女主角，台湾真的太多美女了，当年的玉兰油女神
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923704_m1d5ae17f803301ua2s.html>
+
+### 调好闹钟! 周杰伦三亚演唱会开票时间定了!
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019080gjc.html>
+
+### 45岁华语乐坛天王周杰伦三亚连开3场演唱会，为何能带动超11亿消费？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801befs.html>
+
+### 《功夫女足》周杰伦阿信合作 一文看懂3天内主题曲发布预测
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801yiou.html>
+
+### “演唱会的时候会稍微穿一下”笑不活了！
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923551_m1d5ae175f03301lykq.html>
+
+### 周杰伦给《功夫女足》的主题曲什么时候发布？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801yika.html>
+
+### 新浪演唱会热点小时报丨2026年07月08日10时_今日实时演唱会热点速递
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019080fam.html>
+
+### 特朗普与欧洲领导人土耳其峰会合影北约签数百亿国防协议
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪网
-- 时间: 2026-07-08 00:43
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFBBYXV4djVZUU1sekFQczBRMTRKR2lvWEpHSTVRWDNVdzgxRTB1V0xPZ2NrZ3E2c21Ucnh1QkR0bTdla3FRVFJvOGUxdzZac2tNamo0cXVzQ3p5ZnZqbG1OZEotLXVXR21lOGVMalU2dnpacGc?oc=5>
+- 时间: 2026-07-08 05:24
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZEZTMkREMlZwRHl5R2VXLXFCbHJlc3ZNSTV2UUc3QlU2NW5oaUpoS0QtQjJ1MHlRQ3I4U1RKalJNUWNOc2V5VkNlR295eUZLa2JMM3R5cWJ0WUE4ZWxmSldlc21ZLWE2RndaVXhEd2xidTZ2WDdMRWdTQ1htMVc4TndYYnA4c0FBeEkyUGtlME83Vzk5Z0hteWctb0pyeVAtN3RzM18wTy1Gb2t0QVJ1MkN4b3c2VVFXelg4UHJLaHdoYl8xd3MtUGFPY2JxdEJzYno1WGVFSlB6NXFISTl3?oc=5>
 
-### 北约宣布重大武器协议，向特朗普总统展示联盟正在将国防投资转化为真正的军事能力
+### 世界杯最大爽剧！特朗普来护航也没用，比利时打烂潜规则
 
 - 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-07-07 04:39
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9lWHYyUVdzRnFsVnliYUlXWFJyZDE1d2hRN2E0MG9LZnhIcW9zSU5hMTJxSUhZR1ZuQTgxWmlfdkdBT1ZSc3JBY1J6LVIyTFFBeWhMbEZ5ckNBREFLYm5vUg?oc=5>
+
+### 比利时国防大臣警告特朗普：不准再骚扰“女王”梅洛尼
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-07-07 13:32
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE00MGl3bVRta09UN3JxazdHM2xXaS1CRVo3T04zVVF1YTQwZUVMc1YzaWtpUzdNdjJScHpJLU0zb29yYlU0MlBmLUcyQXY?oc=5>
+
+### 讨好特朗普不灵了？北约集中抛出巨额军购大单，特朗普却称对盟友倍感失望
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: shobserver.com
+- 时间: 2026-07-08 05:20
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE96Zk9FXzBCQkl3SnQ1R25fWVMtUlRxVnVUTTlWa3dmZDFxYURLa0otd0pxSVVsd2FIbGx2MVN4WGY0UVhzZlpQNFNpSXMtTGowbnZYak5zSlRob2lnekE?oc=5>
+
+### 特朗普总统：美国将“考虑”向土耳其出售F-35战斗机
+
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: 美国之音
-- 时间: 2026-07-07 23:15
-- 链接: <https://news.google.com/rss/articles/CBMixwFBVV95cUxPLXp0SkJ4eXF5ZXAyQldsb1JwQlB3dWtzLTNlWUNBckJkaTRfR0VvZklNV2FiWlF5dS0xd1ljLVJ4YXVnTXE2OEQtRjZURm9zbjhEMmVydGduc3BEdkd5dnUwVzJTOWpvYVlrYnR1NEJLZXkzU1FKQm1WYmhQSWQyaE40RnpZNU9iN3ZySzRfeS1PNDVKQ1AyVTBBejVZR3FuNkF4em10RlBnOVJhQ1R2TlFzZDZ0MHhNQUFWUmVXSTdfR09Xem5Z0gHKAUFVX3lxTFBkX0w4dnA4eHJ0TnlaWHBUNmhPQ2tlTGROYjVDUy1WNl8ybTIwTnlhV1NSMGNzbXY0TTUwM3ZYODhKdEtTb0RURTdMbGY3V3BpbE8zbFN1bGNtM1NKN0lLaXBROGVZMVNKbkE1VUE3QUJjV04zVVYzRGJ6NFkzeUgzMDdPSHp5Xzg5cjBYSlRUY1hkSmJQRklBNkFHTVh3Q0pDNVpoYUdXb002Q29ZZWZzLW0tUmR6UmdWc3Q1VEdsN1F1eVRNWmRGTnc?oc=5>
-
-### 超600万美国儿童将可投资美股 特朗普力推青少年投资账户
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-07-08 01:40
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1QdFh4ZTJVTzZLSVM5dndma2NvRThNVmFXUVAtYnVPUGlTMFI0dnlibUw1N01kT2dQdkpkb2ljNzEtY09sLXU4dldJQ0o4RmJBTVAxdGVUd21oaE9ZN0JMOXZULTVON3NFU3o0bXBKNTk?oc=5>
-
-### 特朗普再次声称格陵兰岛“应该由美国控制”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-07-07 17:51
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1DNGM5NTRjNFluWmdxRm1seUZJMFM1eTFteDVnVDltR0JwR3dITkpaMExLV1VDZ1IzaGNFN3lkUktGVmFLSXBsbTJVZldUb2VUVHpFcVRrR0JmV1E4YzBnSmhMTTJldzVi?oc=5>
+- 时间: 2026-07-07 16:58
+- 链接: <https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYzI0bzA0b0MzZC1ueDZldlkxd1pwLUtGYlEyTVMyZVp5RUtBOFM4cW5SX0xIZ2UyY1dIVUEtaVFaR1kwMThFQ01BSGhLQmJlVjlMWXdheDluOWcxUHdRVTNIdjZpSWVTT1YwaFBnb0kxczUwQmc4RnNBYldYcTMtaGtsS0hjRmdZeWZHSGhpUUtWTUJkeVVOSk0zT05JNkJCUmRFYlptMFZyQUZJa0ZoOFFJcFVQamRv0gG4AUFVX3lxTE9jMjRvMDRvQzNkLW54NmV2WTF3WnAtS0ZiUTJNUzJlWnlFS0E4UzhxblJfTEhnZTJjV0hVQS1pUVpHWTAxOEVDTUFIaEtCYmVWOUxZd2F4OW45ZzFQd1FVM0h2NmlJZVNPVjBoUGdvSTFzNTBCZzhGc0FiV1hxMy1oa2xLSGNGZ1l5ZkdIaGlRS1ZNQmR5VU5KTTNPTkk2QkJSZEViWm0wVnJBRklrRmg4UUlwVVBqZG8?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-08 05:34  (27 条)
+
+- **王一博** | 艺人歌手王一博作词 2026王俊凯新歌署名乌龙是怎么回事 <https://k.sina.com.cn/article_7879776328_1d5abd84806801yk9y.html>
+- **王一博** | 王俊凯新歌作词人王一博系同名幕后音乐人 <https://k.sina.com.cn/article_7096020439_1a6f4add706801spry.html>
+- **王一博** | 王一博还会发布自己作词的新歌吗 <https://k.sina.com.cn/article_7879776328_1d5abd84806801yk4u.html>
+- **王一博** | 王俊凯新歌署名王一博，居然是同名乌龙 <https://k.sina.com.cn/article_7879776328_1d5abd84806801yk38.html>
+- **王一博** | 王俊凯今年会开启个人巡演吗？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801yk2c.html>
+- **王一博** | 王俊凯新歌作词人王一博系同名 <https://k.sina.com.cn/article_1960785875_m74df37d303301rwam.html>
+- **王一博** | 27岁重庆演员王俊凯新歌《破晓》作词署名王一博，为何引发顶流合作乌龙？ <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801beiw.html>
+- **王一博** | 王俊凯首张个人实体专辑《疑疑疑》发布，粉丝称嫡长专 <https://k.sina.com.cn/article_6187089320_m170c77da803301eats.html>
+- **王一博** | 王俊凯新歌作词署名乌龙：王一博非艺人YIBO <https://k.sina.com.cn/article_7096020439_1a6f4add706801spqm.html>
+- **王一博** | 王俊凯王一博合作新歌《破晓》作词引热议 <https://k.sina.com.cn/article_2766575417_a4e69739040019oaw.html>
+- **王一博** | 王俊凯新歌《破晓》作词人真的是艺人王一博吗 <https://k.sina.com.cn/article_7879776328_1d5abd84806801yius.html>
+- **王一博** | 王一博未来会举办个人大型演唱会吗？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801yiu0.html>
+- **王一博** | 王俊凯新歌作词人是王一博？原来是同名乌龙！ <https://k.sina.com.cn/article_7879776328_1d5abd84806801yisq.html>
+- **周杰伦** | 2025三亚周杰伦演唱会(时间+地点+购票) <https://k.sina.com.cn/article_7857201856_1d45362c0019080hr4.html>
+- **周杰伦** | 2025周杰伦会来三亚开演唱会吗? <https://k.sina.com.cn/article_7857201856_1d45362c0019080hoi.html>
+- **周杰伦** | 周杰伦的MV女主角，台湾真的太多美女了，当年的玉兰油女神 <https://k.sina.com.cn/article_7879923704_m1d5ae17f803301ua2s.html>
+- **周杰伦** | 调好闹钟! 周杰伦三亚演唱会开票时间定了! <https://k.sina.com.cn/article_7857201856_1d45362c0019080gjc.html>
+- **周杰伦** | 45岁华语乐坛天王周杰伦三亚连开3场演唱会，为何能带动超11亿消费？ <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801befs.html>
+- **周杰伦** | 《功夫女足》周杰伦阿信合作 一文看懂3天内主题曲发布预测 <https://k.sina.com.cn/article_7879776328_1d5abd84806801yiou.html>
+- **周杰伦** | “演唱会的时候会稍微穿一下”笑不活了！ <https://k.sina.com.cn/article_7879923551_m1d5ae175f03301lykq.html>
+- **周杰伦** | 周杰伦给《功夫女足》的主题曲什么时候发布？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801yika.html>
+- **周杰伦** | 新浪演唱会热点小时报丨2026年07月08日10时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c0019080fam.html>
+- **特朗普** | 特朗普与欧洲领导人土耳其峰会合影北约签数百亿国防协议 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZEZTMkREMlZwRHl5R2VXLXFCbHJlc3ZNSTV2UUc3QlU2NW5oaUpoS0QtQjJ1MHlRQ3I4U1RKalJNUWNOc2V5VkNlR295eUZLa2JMM3R5cWJ0WUE4ZWxmSldlc21ZLWE2RndaVXhEd2xidTZ2WDdMRWdTQ1htMVc4TndYYnA4c0FBeEkyUGtlME83Vzk5Z0hteWctb0pyeVAtN3RzM18wTy1Gb2t0QVJ1MkN4b3c2VVFXelg4UHJLaHdoYl8xd3MtUGFPY2JxdEJzYno1WGVFSlB6NXFISTl3?oc=5>
+- **特朗普** | 世界杯最大爽剧！特朗普来护航也没用，比利时打烂潜规则 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9lWHYyUVdzRnFsVnliYUlXWFJyZDE1d2hRN2E0MG9LZnhIcW9zSU5hMTJxSUhZR1ZuQTgxWmlfdkdBT1ZSc3JBY1J6LVIyTFFBeWhMbEZ5ckNBREFLYm5vUg?oc=5>
+- **特朗普** | 比利时国防大臣警告特朗普：不准再骚扰“女王”梅洛尼 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE00MGl3bVRta09UN3JxazdHM2xXaS1CRVo3T04zVVF1YTQwZUVMc1YzaWtpUzdNdjJScHpJLU0zb29yYlU0MlBmLUcyQXY?oc=5>
+- **特朗普** | 讨好特朗普不灵了？北约集中抛出巨额军购大单，特朗普却称对盟友倍感失望 <https://news.google.com/rss/articles/CBMiXkFVX3lxTE96Zk9FXzBCQkl3SnQ1R25fWVMtUlRxVnVUTTlWa3dmZDFxYURLa0otd0pxSVVsd2FIbGx2MVN4WGY0UVhzZlpQNFNpSXMtTGowbnZYak5zSlRob2lnekE?oc=5>
+- **Trump** | 特朗普总统：美国将“考虑”向土耳其出售F-35战斗机 <https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYzI0bzA0b0MzZC1ueDZldlkxd1pwLUtGYlEyTVMyZVp5RUtBOFM4cW5SX0xIZ2UyY1dIVUEtaVFaR1kwMThFQ01BSGhLQmJlVjlMWXdheDluOWcxUHdRVTNIdjZpSWVTT1YwaFBnb0kxczUwQmc4RnNBYldYcTMtaGtsS0hjRmdZeWZHSGhpUUtWTUJkeVVOSk0zT05JNkJCUmRFYlptMFZyQUZJa0ZoOFFJcFVQamRv0gG4AUFVX3lxTE9jMjRvMDRvQzNkLW54NmV2WTF3WnAtS0ZiUTJNUzJlWnlFS0E4UzhxblJfTEhnZTJjV0hVQS1pUVpHWTAxOEVDTUFIaEtCYmVWOUxZd2F4OW45ZzFQd1FVM0h2NmlJZVNPVjBoUGdvSTFzNTBCZzhGc0FiV1hxMy1oa2xLSGNGZ1l5ZkdIaGlRS1ZNQmR5VU5KTTNPTkk2QkJSZEViWm0wVnJBRklrRmg4UUlwVVBqZG8?oc=5>
 
 ### 2026-07-08 02:05  (6 条)
 
