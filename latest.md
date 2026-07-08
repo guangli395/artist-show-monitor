@@ -1,68 +1,40 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-08 22:00**
-- 本轮扫到 6320 条, 新增 **7** 条
+- 最近更新: **2026-07-08 23:34**
+- 本轮扫到 6323 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (3 条)
 
-### 王一博作词人是谁？王俊凯新歌《破晓》幕后填词人身份揭秘，同名≠顶流合作
+### 从演唱会嘉宾到游戏战友！周杰伦王俊凯联动引爆全网 - 360娱乐
 
-- 艺人/关键词: **王一博**
+- 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801yzti.html>
+- 链接: <https://k.sina.com.cn/article_7879923015_1d5ae154701901ed2c.html>
 
-### 王俊凯新歌《破晓》作词人“王一博”是谁？同名乌龙1小时阅读破2亿，幕后填词人身份与艺人王一博有何区别？
+### 周杰伦确认献唱《功夫女足》主题曲，阿信和孙燕姿会否客串？7月11日上映前最大悬念
 
-- 艺人/关键词: **王一博**
+- 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801yzwc.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801z172.html>
 
-### 特朗普：将授权海外生产“爱国者”供乌使用
+### 2026周杰伦南京演唱会最新消息(持续更新)
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 央视网
-- 时间: 2026-07-08 20:19
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5sa0pkNHBWTDZWNktxdEFCU2Y5Vk9aOFdaZS1BUE9Qc1pNZjJSRlBvN1JRX0VQTjktQzNPOElvTlV1ZkhQNE1mT3NPM0RiWHhLWHFTaHYtU0czTTRjSEFDRHI3V0I2OWJ1dXlrN1VUWUxCUWdmU192ag?oc=5>
-
-### 美国法官下令特朗普向作家卡罗尔支付500万美元损害赔偿金
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-08 20:39
-- 链接: <https://news.google.com/rss/articles/CBMivgJBVV95cUxNZUJRSUlSZEx5Nml0M1F0VXduaUhKaUFpVGdHdURLT0JhczduaFFVdHk0WE02Z0ZSRThjUTNSeDU4ZlRYMzllVWZDWUpXR3JqS0hPSHNzdHhSY0hvRF9PWlBWUElEVWk0YW5DUUFEOFR5aGxvVV92cGp3N0RJRTA5Tk54T3h0MnJSTS1EOVVQWFBQMzRqYThQSi1faTFWSWRUQmZYSzZ0dUVUT19Zbi02WEVkVjBxQW5PWVNCVFp6ckt1MlFXMWJHZTM3SDFjZHQyZXhIM3JEZ1M2VGFlZ2ZmakswdnlmNnU4TndQZEVOUjBRTEhCYkdHMFRrcW95U3l1Nk1yenpTRXBqbWpOZzdVamwzT1Y5ZFRPazBLb1kwWE9hMUNVQ3dnUGlPemRBdVJVNlBMNFZ6RWtqNHZZYVE?oc=5>
-
-### 特朗普会不会阻止美西贸易？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-07-08 20:27
-- 链接: <https://news.google.com/rss/articles/CBMi7wFBVV95cUxQSnpwWmoyTkpPRmlWMVZfMzdFMUUyLXhWV0UzZHZDYVA3SGdaNHVtbXpSQ0xVaFpRZzRYWnYwZzEwX0lrWDhDT3F0Mm5SSTR5YkF4V2x0X2xqek1WU3ptOTE4SFVwRzRPUjF3ZXpSbWo0WmEwQ2JFeno5SUhQNlVhVmdXbjVMMUdpMUE5RFQ2TlBLRmxXa2lhY2g1UWYtYXlmVXNKMjZKMjNvcWcyRE9raVVBSkFiWFRGLXFXdEluM0JKczZfTno1YUF4OGFwRjB4ODd0S05yNDFwdjVMaWJxSHFDQzJ1TzN5WVJuVWRUMA?oc=5>
-
-### U.S. Stocks Mostly Lower After Trump Threatens to Strike Iran, Declaring Ceasefire Over -- WSJ
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-07-08 20:50
-- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUGstODduTk9NM1NSOVlWZTJPeld4NFJFZTN4ZGJnWUJJU1NMdVhEcGxTckxJbmRFWHRHcTlRazhNNG5VWmsyMlJmQjZUTnhRSWpacXFTcV96eW16Y3hZYTFYaEt1d1lYdmRnSEdlS2puZnF6c3lHMG92TkFHcGV2dkcyTEJsdWUzX2NTZmNPLUdLMklIcmJxbDM1dWtUTGpCZmdzQUVmRUxRUQ?oc=5>
-
-### 特朗普希望美国留在北约 好向盟国卖武器
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-07-08 20:42
-- 链接: <https://news.google.com/rss/articles/CBMiuAJBVV95cUxNcFZCZ19yYUcxWGJwNm5mNmxTc3RtSDhyVDY3ZjlYbmZsZTdtRXRnR0xPS1llV1M5c1FESlBlM0pTckhGbkp4M19td3ljbWd4RlVjdFpybHFLMXBnOVo4TExNa1l0elpIMEZVQ0JaajV2N2xRZzF3Y0pqa284TW5sSXJNbVRHTzIzdzdjcDJlR1k5bS0wa3V3eWE2MzU1a0xiVHotamlpN2xwaHA1c3NyQTU0TDB0UzhVbHd5ekdheGZVa1ZtMUZPREkxTG5nVk11M3YzSkhVcTJYZnBrcUlxVW5FQnBBQWRZSlZQWDdhWXltZWgzMVdMSTJ4Z0pWaUd2T1EtMC1XTFBOdWZfTWRXOTMwWVJyOThyWTV1cGRuMmQ2REoxVzB1M09kSnlXVkFoOUR3dVA1N1o?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923018_1d5ae154a01901duj8.html>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-08 23:34  (3 条)
+
+- **周杰伦** | 从演唱会嘉宾到游戏战友！周杰伦王俊凯联动引爆全网 - 360娱乐 <https://k.sina.com.cn/article_7879923015_1d5ae154701901ed2c.html>
+- **周杰伦** | 周杰伦确认献唱《功夫女足》主题曲，阿信和孙燕姿会否客串？7月11日上映前最大悬念 <https://k.sina.com.cn/article_7879776328_1d5abd84806801z172.html>
+- **周杰伦** | 2026周杰伦南京演唱会最新消息(持续更新) <https://k.sina.com.cn/article_7879923018_1d5ae154a01901duj8.html>
 
 ### 2026-07-08 22:00  (7 条)
 
