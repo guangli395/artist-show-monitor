@@ -1,226 +1,331 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-08 08:15**
-- 本轮扫到 6186 条, 新增 **33** 条
+- 最近更新: **2026-07-08 10:33**
+- 本轮扫到 6226 条, 新增 **40** 条
 
 ---
 
-## 本轮新发现 (33 条)
+## 本轮新发现 (40 条)
 
-### 这次乌龙事件会给王俊凯新专辑带来哪些影响？
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ynj0.html>
-
-### 王俊凯新歌署名王一博？居然是乌龙！
+### 王俊凯新歌作词人王一博系同名
 
 - 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801yniw.html>
+- 链接: <https://k.sina.com.cn/article_1680430844_m642956fc03301lt74.html>
 
-### 王俊凯新专辑《破晓》词作者署名引乌龙
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7096020439_1a6f4add706801spy8.html>
-
-### 大乌龙！王俊凯新歌作词挂王一博吵上热搜，此一博非彼一博
+### 王俊凯新歌作词挂名王一博，全网坐等强强联手，结局竟是大型乌龙
 
 - 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019080iya.html>
+- 链接: <https://k.sina.com.cn/article_7879776354_1d5abd86201901k9b2.html>
 
-### 这次乌龙事件对王俊凯新专辑有影响吗？
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ymnu.html>
-
-### 王俊凯新歌署名王一博？原来是同名乌龙！
+### 新浪演唱会热点小时报丨2026年07月08日17时_今日实时演唱会热点速递
 
 - 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ymn0.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019080num.html>
 
-### 26岁内地歌手王一博粉丝，为何主动祝福25岁王俊凯新专辑大卖？
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801bfdw.html>
-
-### 23岁TFBOYS成员王俊凯新歌《破晓》署名词作人王一博，为何引发顶流梦幻联动乌龙？
+### 王俊凯新歌《破晓》作词王一博 1小时登热搜顶流 是真合作还是同名乌龙？
 
 - 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801bf68.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801yo22.html>
 
-### 艺人王一博作词是怎么回事？王俊凯新歌乌龙事件一文看懂
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801yllc.html>
-
-### 这场乌龙对王俊凯新专辑有什么影响？
+### 王俊凯新歌《破晓》作词人王一博是谁？一文看懂这场1小时破2亿阅读的热搜乌龙
 
 - 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ylhk.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801yo3u.html>
 
-### 王俊凯新歌署名王一博，原是同名乌龙！
+### 王俊凯新歌署名王一博引乌龙，牵出艺人旧作
 
 - 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801yk1s.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ynx8.html>
 
-### 王俊凯新歌《下一天》7月8日上线，与林迈可十年后再合作
+### 王俊凯新专辑署名王一博，原是同名乌龙！
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ynwy.html>
+
+### 王俊凯新专辑作词王一博，原来是同名乌龙！
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ynwi.html>
+
+### 蔡徐坤新歌MV与Jumpstyle电音完美契合
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1502793162_m5992cdca033013ce6.html>
+
+### 被Rod硬控！（潮他家很nice@果然Fashion潮厂 ）蔡徐坤 蔡徐坤进行曲 蔡徐坤马来西亚音乐节
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002nd7a.html>
+
+### 董宇辉与周杰伦昆凌亲密互动,共游长城并观看演唱会
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2106115754_m7d88c6aa03301c1z8.html>
+- 链接: <https://k.sina.com.cn/article_7879923015_1d5ae154701901e7su.html>
 
-### 王俊凯新单曲《下一天》发布，林迈可编曲
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7096020433_1a6f4add106801k5ku.html>
-
-### 新浪演唱会热点小时报丨2026年07月08日15时_今日实时演唱会热点速递
+### 董宇辉与周杰伦再同框,陪昆凌爬长城还现身其演唱会现场
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019080j9a.html>
+- 链接: <https://k.sina.com.cn/article_7879848922_1d5acf3da01901f60s.html>
 
-### 周星驰功夫女足放大招？周杰伦唱主题曲，五月天阿信也会参与吗
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019080ip4.html>
-
-### 王俊凯新专辑《WJK》什么时候正式发布
+### 王俊凯专辑15首全上线横扫多榜王俊凯新专辑中10首亲任制作人
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ym9y.html>
+- 链接: <https://k.sina.com.cn/article_1796087453_m6b0e1e9d03301t0dq.html>
 
-### 周杰伦400场演唱会邀王俊凯 完整合唱曝光
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ym98.html>
-
-### 周杰伦和王俊凯会合作新歌《明明就》吗？
+### 周杰伦御用编曲黄雨勋 争议后新专辑破200万张 为何争议不影响销量？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ym84.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801yopw.html>
 
-### 王俊凯新专辑真的致敬周杰伦首张专辑吗？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ym8e.html>
-
-### 周杰伦会不会邀请王俊凯当演唱会嘉宾？
+### 周杰伦为什么会邀请王俊凯当演唱会嘉宾
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ym7w.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801yojs.html>
 
-### 林迈可参与的周杰伦新专辑何时发布？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ym7m.html>
-
-### 王俊凯新歌《下一天》在哪里可以收听？
+### 周杰伦长沙演唱会邀王俊凯合唱完整版汇总
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ym72.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801yok0.html>
 
-### 王俊凯新歌邀周杰伦御用编曲，圆梦追星
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ym6o.html>
-
-### 王俊凯新专辑《WJK》还有其他新歌吗？
+### 这次争议会影响新专辑的销量吗
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ylno.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801yoia.html>
 
-### 王俊凯新歌邀周杰伦御用编曲，十年再携手
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ylmw.html>
-
-### 周星驰执导电影《功夫女足》 周杰伦确认献唱主题曲 功夫女足周杰伦有歌曲吗怎么回事
+### 歌迷对王俊凯新歌《下一天》评价如何？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ylli.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801yojo.html>
 
-### 周杰伦确认献唱周星驰《功夫女足》主题曲！
+### 王俊凯新歌邀周杰伦御用编曲，十年闭环太好哭
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801ylki.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801yojg.html>
 
-### 美国队惨败 比利时首相：我不会刺激特朗普
+### 王俊凯与林迈可合作新歌《下一天》，亲自作词展现新风格
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_3118051585_b9d9b101040018zsi.html>
+
+### 王俊凯新专辑收官曲《下一天》上线，独立作词邀林迈可编曲
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7096020433_1a6f4add106801k5ni.html>
+
+### 新浪演唱会热点小时报丨2026年07月08日16时_今日实时演唱会热点速递
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019080k68.html>
+
+### 周杰伦为《功夫女足》写的主题曲叫什么？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879995911_1d5af3207068027a0i.html>
+
+### 三场连开！周杰伦三亚演唱会官宣
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://finance.sina.com.cn/wm/2026-07-08/doc-inihaxzy4768226.shtml>
+
+### 特朗普：将就土耳其回归F-35战机项目作出决定
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网客户端
-- 时间: 2026-07-08 06:37
-- 链接: <https://news.google.com/rss/articles/CBMimgFBVV95cUxQeTE4TVVKdTJMc2xwdWE2REFDVDNfb19SVUxtTWdLUmsxM0RFRXN4XzJYa2EzVVVKWnEwY2hySlVxdy1BVmVDbTI2cERGYTRvNld6OWZ2U3hYREdYRFZiMU0xN2c4cGRWQkp0UVB0UFZDTmR1NmNuSnZXU0h4U192ZzE4aVhTRlJHb05mek1JR2l6Zk92ZmtWZ2J3?oc=5>
+- 场馆: 新华网
+- 时间: 2026-07-08 09:46
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1mSmFKOC1qQkFsa1prR3RpeHJyRm5nU1ZkT0ZMdXFzOWRJOUx0THpIQVpTZ0lPNk1VcWpNbG41Nkp1RnFHNXV1RkxmNjFuOU9Fcm9sdnpNTTR6TWhla0hJcTVXSDhuVk1sMWcwTTZlTXdtdktJY2x0STNjVkh0Wmc?oc=5>
 
-### 美国队惨败出局，比利时首相：我不打算刺激特朗普，不会主动提起此事
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 环球网
-- 时间: 2026-07-07 16:26
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KYkJ6VV80NExLNWVBNnhFX2ducDhfSkN1T0trYzRlVl9NVnpHaEt1WkJLSnlEY0R1UV95UUhBd0FKS1NmXzhKeWoycTJxQlNyWVZDaEdNd2U?oc=5>
-
-### 美国队惨败出局，特朗普赛前发话：比利时赢了就是有黑幕
+### 内塔尼亚胡急了：特朗普，不能卖！
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-07 02:08
-- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE93WWtBZ2RRVGRZN0tWcUl1TzNyZVBPN3ZzWndUWVhpT2ZVNUR0dnBSU2l3aDIxVFB0U2prX1RnaW9vNGFEcVBtRW82ZmIyd3c?oc=5>
+- 场馆: 观察者
+- 时间: 2026-07-08 01:28
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9OVDZCNE4wU2lLb2c1Q3ktb2N5c1UyblNBZ3A0bTZQV0FDR2xCdnc3NE1BUmFSX01KQlpDUlQ1dTljUjFKVEdjR05jLS1WN0p4U2psRW9JdVJud09PTTd3Rml1VnhzdlBWNWc?oc=5>
 
-### 讨好特朗普不灵了？北约集中抛出巨额军购大单，特朗普却称对盟友倍感失望
+### 特朗普要求：切断美国与西班牙贸易往来
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 广州日报新花城
+- 时间: 2026-07-08 09:33
+- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxOMEFMc1B0YzA3VkV0V1NyWEZDNGhrdENyVXYyQ290dWNmOVI2YnJleXdCcWFPc1FIaFJVT3cyN20xd3B3T1Q2MW9HN1BXdGNDQ0cyWnh2QVNMR1NfUUVFSnRERXVWcjVjekhQams1d1lwVGtZRnQtWWwycHNNVk9pbjdsVENsdFJlSWc?oc=5>
+
+### 突发！特朗普下令：切断所有与西班牙的贸易往来，“他们是北约内的糟糕盟友”！西班牙股市大跌
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 每日经济新闻
+- 时间: 2026-07-08 08:37
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9NMkhzQWt2bUx1VnVlcGQ3dk1KVW9CcXNMeGRWMk13bDRlZ3V0SlBKY2JHZDJyQ0tMV0RBZmJiNXpjYlJFWXlFRVl6YkhKOHZ3TFREOTZZMDVhS1FaaHhUOVUzSDhjZw?oc=5>
+
+### 特朗普要求全面切断与西班牙的贸易往来
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-08 09:27
+- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZXZIQ3BkV2U4TnVvU3hOSk1YVDJtazIwZFJJXzR6bHo5ZU5MU2hmUWNoQkxKUEpsSy1UZ3ZSM0FKU041NWRXZWhlYTVVdDctMWhSaS1HdDlBalpOTjJBOTBJYjdvdmFSZXdWTVE3Q0hZSWVIakJRQ3lGS2RKbkZibFFJX3JNVEsxM3Vv?oc=5>
+
+### 特朗普：美伊谅解备忘录“已终结”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 广州日报新花城
+- 时间: 2026-07-08 08:37
+- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxQNFJEQ2NHb210M1FkZmpib0NSMEVQTnNpNzE3RmY1cW8yMXFzdDgxQ2lDNTVNT1NWbDRmX2c2Y052Y1ctNTQ2emw3djMyNjdTV2s2VndWOUJiQkdBZDlNUUlRV2RlWWxUejVlSFBvMXQzTGY4YUNGWVJ3RkgwUVZkNFQ5alZ1Y3cyUVE?oc=5>
+
+### 特朗普再威胁撤出欧洲 北约盟友忙想招儿
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-07-08 09:45
+- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE5EVVhxUERwR2pjTFVsZHU4STVmXzNqdUplX0RxMExyR1ByZ3l3WUFFNUY0dkZ3NGRjam5yY21Td3pYb3Mxc256YjAwYWppdUMzNW9FZWtON1JDUEpZY0h1NGZXRFBqT3hKcGpjaXBRXzVzNk1GelBDNG52dVgxdw?oc=5>
+
+### 比利时首相：美国队惨败，特朗普可能心情不好，我不会刺激他
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪军事
+- 时间: 2026-07-08 09:58
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE9Gb1h5SnhubkJVNTc0WWFIM3dOUGdfQUFFRzl3M3lqYllydWNEN3FDcVJLbEtiV2Z0bUxMaEhLc08xUzJDQjd0RFZjeVhweTYyZlpLUEZmNF9YOEhYNjZVZXFUYTZtdnFfVnFCNHQtUTNqMU0?oc=5>
+
+### 特朗普北约峰会上重提格收购陵兰岛，称美国可能从欧洲撤军
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-08 10:17
+- 链接: <https://news.google.com/rss/articles/CBMiqAJBVV95cUxNNE5tWHVMc1M4ajQwQWRDQmpMTFdsN2E5ZVNIT05ETFZsbWJQYmVVQ1p2cVJkQWp6cDNQZFlxR3VrdmZ1TFFsaERpOEVtZ3RLZ28xd3YzbXc2OTlIOEctdXhYYkdoc0trVTE4QlA5UzVLREZUMzdIMGQ0ZHVJQjBGd25FWFAwZkc4NVdrd1dBaWkyYVo1SE1oenJ4OEtBN2ZhV254RW4yTFNPNm9KbjhOajd2eGtyUERrM0haZG56U19xM2RlQ0ZmWnlLclE5UzFpMlB0UDdhYmJndVFyUjJSNnVrMEhBNVRvT1dqdG5MUWs2Rkc5ZEt0bU1WY1hSR1F2VmtuTkF1M3JNMTVNamFIY0lLbEtsMDlObEJlSUZsNGFRTmlMQjhFcw?oc=5>
+
+### 北约峰会闹别扭：特朗普威胁撤出所有驻欧美军，重提格陵兰岛
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 第一财经
+- 时间: 2026-07-08 09:16
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xRDhGVW95VHg1YVlrdkdHaGthNDZLY0JqYTRGcUpMTlB5OU5wQmlxNF9ZbUh5cE5HbnFBU3AtLVF1UldPVjA0VGVMdUdoV0haMU1R?oc=5>
+
+### 特朗普加码谋求掌控格陵兰岛，丹麦表态将全力捍卫该岛主权
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪网
-- 时间: 2026-07-08 05:22
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9qTGFXTGtTcDZNa1FhcGxuLUNsWFc1dUdTY0IwMEs3RFNkdEgzX05oVXRaRy0wWnNlMi1pbjMwaWNYZHlrQ0lsT0VYSzRST29xeHVXVnNhVnItQ1JhbTF1MTZOQ21DV2MtMTdFQlVsMWtuUEMtdG1Iaw?oc=5>
+- 时间: 2026-07-08 09:29
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxQRzcxSUhiSVREY05uMzRjWWJISDJpNXdsRUVuUVF2TWZFYWU4dldQdWlPaXdTeElKV1hpUVUyWmJyMnlDWFE3RGZOcW1BYzF5MHJmQ3pMV1FVYlBXYWd2eDViSnh6bjJRRjR1RWQzZlJ6ZlEwYTF5c2VES0sxQm1DS0JzWHJuWnM?oc=5>
 
-### 国际丨特朗普发布美军袭伊视频 伊朗称美要为违反备忘录承担后果
+### Trump Says Ceasefire With Iran Is Over -- Update
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-07-07 16:00
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5RMjNuQm84RXdfZjVTcW91YzItb2o1bGJuQVZGWTNTY3V4Q2NPczBkZDFnVzF2aWZHaHNtWGJxWjZTeHB1czBZTkZKQTBBUHkxNm1GQzNKQkpFbFpEOF9WT3hUXzY?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-07-08 09:34
+- 链接: <https://news.google.com/rss/articles/CBMilwFBVV95cUxPcmJ0bEZPbWtMckJhcDh5MzhFRnN3OUM1TGgxYXpuc25od0d6SmhuOFVKMEI5OURoSkd6N2ZyYktBcjNuS1FuZFBHbVhybnFnYXdXMVdxY21YcnVhcE8yRG1fTmE3M1liOG9oZThTUGpyTUd1a3FHVWFYcUl1QktPaUIxY3pxdHZQSVhYelNsU0lid3BoMk1r?oc=5>
 
-### 章家敦指责TikTok毒害美国人，特朗普：纯属危言耸听，我一直霸榜TikTok
+### 特朗普称与伊朗的停火已经“终结”
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-08 03:57
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9LajFHT3JMUEs4SFRIQ3U1Mmc0ZDY4UHN3UWxFckVkZndpN3UxM3RiVnJoTWZnVnZBOGdGbTczVi1Eb3RHTGFCUHA3R3I?oc=5>
+- 场馆: 华尔街日报中文网
+- 时间: 2026-07-08 09:02
+- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxPTU9KM21kSHl0ak9HcDFmRHJYU3V1Tm8yVmZNMzJjMWh1cWFUMUVVYTVoZFh4UU9MU0lmeURKQTJodEUwSGI1SDZLOG9NWFpVYkR6ZmJMZ3dtSVhfLTUybGZiQ083akVYTlZSNUR1Smpsb09FUF84cDI4aWlNTWZuOQ?oc=5>
+
+### Bitcoin Falls Further After Trump Says Ceasefire Over -- Market Talk
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-07-08 08:59
+- 链接: <https://news.google.com/rss/articles/CBMisgFBVV95cUxPSWVISG9MRHJKQ2VLMVJMWF91VFhLZmtDZDFwZm1YMlpKWDlHZmI4OEZaTzYyWUVVSGItQTBEQUpEdTllQW1lZzhURW9xWlpUd2VuU19vcU1Zc0RRMVNfN1NPelZEdUlGbnVxdW93amQ1YzF0RlJua3ZMRE95cl80NE51bGtDUUowOG5ybTZpa2lEaE4wWlBSU1FYWkFCdDFsWHVlMHcwVGo5LW9XUkp6X1BB?oc=5>
+
+### 特朗普：在我看来，与伊朗签署的谅解备忘录已结束，他们想除掉我
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-07-08 10:04
+- 链接: <https://news.google.com/rss/articles/CBMivANBVV95cUxPN3RDajlicFlOZ3JVaWprUFlKQks1bnJyS3BVVUpndU85ajg3bEVXZ1U1a3QwTXA2WHRnNTZZTG9sM1ZnYy1HOWkyUnVFWEJsSXE1RDN5MGFPcGJyTERpM2lWUzZNNmtvVFRtUzhMaGNZMFNfX1VqeXVnc2NRLUMyUDEzVmFEYl9LYndmTUpLNC05bDI0RVl6RWh3eV9oZUg3TnVsYjVSTlN0TDZxc3VmTzk3X08yTjcydnk5dm1rVHpXX2p5VE9JbEZEcDNuQzFWM1Mtb2VacEdKekwxS0VzcjhQM0VQSlRkRE9rdWlOS3BzbTg4aXpuc1NlUzdPQlY2RzFFN2dIMnBNRFVnYjliRVgxT1F2TUpNbF9mZkVtakw1bHdpejlGQWU0cW1xcC1QYWd0RjJ2QXdKR09aWGpGaGpSNDRDSVZIVi1IRlFMb2tGVC1Sd3RBcVlaR2xyZVVRbHlsQkZDRjA3elRvdE1aekRwdWFUQ24tb1I3NUVLU2doOUVDNWZIWndQN0ZpRk96WGlRVTgwZ1daOE9pSXZocVA3Znp1MjJGRGgyd2o2S282SHNaQW12TzhtS2k?oc=5>
+
+### 特朗普：将全面切断与西班牙贸易往来
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 8world
+- 时间: 2026-07-08 09:15
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxONGY5Wm13THNjd0JsRmx6a2NBbndXRy1BSFBnVGJVT3hyVzFHclZGMkg4ZldHMVJ3U3N1bFNxUDgtQjQ4d1FjOU1ZOVFyNmlXYnRGR0RzVW9JM3hzRDBfYmtGWU9VWFhMcW5uU3dOWXViOEM3VkphMGVGWV9XZEs5MlJTNl9vaUhy?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-08 10:33  (40 条)
+
+- **王一博** | 王俊凯新歌作词人王一博系同名 <https://k.sina.com.cn/article_1680430844_m642956fc03301lt74.html>
+- **王一博** | 王俊凯新歌作词挂名王一博，全网坐等强强联手，结局竟是大型乌龙 <https://k.sina.com.cn/article_7879776354_1d5abd86201901k9b2.html>
+- **王一博** | 新浪演唱会热点小时报丨2026年07月08日17时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c0019080num.html>
+- **王一博** | 王俊凯新歌《破晓》作词王一博 1小时登热搜顶流 是真合作还是同名乌龙？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801yo22.html>
+- **王一博** | 王俊凯新歌《破晓》作词人王一博是谁？一文看懂这场1小时破2亿阅读的热搜乌龙 <https://k.sina.com.cn/article_7879776328_1d5abd84806801yo3u.html>
+- **王一博** | 王俊凯新歌署名王一博引乌龙，牵出艺人旧作 <https://k.sina.com.cn/article_7879776328_1d5abd84806801ynx8.html>
+- **王一博** | 王俊凯新专辑署名王一博，原是同名乌龙！ <https://k.sina.com.cn/article_7879776328_1d5abd84806801ynwy.html>
+- **王一博** | 王俊凯新专辑作词王一博，原来是同名乌龙！ <https://k.sina.com.cn/article_7879776328_1d5abd84806801ynwi.html>
+- **蔡徐坤** | 蔡徐坤新歌MV与Jumpstyle电音完美契合 <https://k.sina.com.cn/article_1502793162_m5992cdca033013ce6.html>
+- **蔡徐坤** | 被Rod硬控！（潮他家很nice@果然Fashion潮厂 ）蔡徐坤 蔡徐坤进行曲 蔡徐坤马来西亚音乐节 <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002nd7a.html>
+- **周杰伦** | 董宇辉与周杰伦昆凌亲密互动,共游长城并观看演唱会 <https://k.sina.com.cn/article_7879923015_1d5ae154701901e7su.html>
+- **周杰伦** | 董宇辉与周杰伦再同框,陪昆凌爬长城还现身其演唱会现场 <https://k.sina.com.cn/article_7879848922_1d5acf3da01901f60s.html>
+- **周杰伦** | 王俊凯专辑15首全上线横扫多榜王俊凯新专辑中10首亲任制作人 <https://k.sina.com.cn/article_1796087453_m6b0e1e9d03301t0dq.html>
+- **周杰伦** | 周杰伦御用编曲黄雨勋 争议后新专辑破200万张 为何争议不影响销量？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801yopw.html>
+- **周杰伦** | 周杰伦为什么会邀请王俊凯当演唱会嘉宾 <https://k.sina.com.cn/article_7879776328_1d5abd84806801yojs.html>
+- **周杰伦** | 周杰伦长沙演唱会邀王俊凯合唱完整版汇总 <https://k.sina.com.cn/article_7879776328_1d5abd84806801yok0.html>
+- **周杰伦** | 这次争议会影响新专辑的销量吗 <https://k.sina.com.cn/article_7879776328_1d5abd84806801yoia.html>
+- **周杰伦** | 歌迷对王俊凯新歌《下一天》评价如何？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801yojo.html>
+- **周杰伦** | 王俊凯新歌邀周杰伦御用编曲，十年闭环太好哭 <https://k.sina.com.cn/article_7879776328_1d5abd84806801yojg.html>
+- **周杰伦** | 王俊凯与林迈可合作新歌《下一天》，亲自作词展现新风格 <https://k.sina.com.cn/article_3118051585_b9d9b101040018zsi.html>
+- **周杰伦** | 王俊凯新专辑收官曲《下一天》上线，独立作词邀林迈可编曲 <https://k.sina.com.cn/article_7096020433_1a6f4add106801k5ni.html>
+- **周杰伦** | 新浪演唱会热点小时报丨2026年07月08日16时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c0019080k68.html>
+- **周杰伦** | 周杰伦为《功夫女足》写的主题曲叫什么？ <https://k.sina.com.cn/article_7879995911_1d5af3207068027a0i.html>
+- **周杰伦** | 三场连开！周杰伦三亚演唱会官宣 <https://finance.sina.com.cn/wm/2026-07-08/doc-inihaxzy4768226.shtml>
+- **特朗普** | 特朗普：将就土耳其回归F-35战机项目作出决定 <https://news.google.com/rss/articles/CBMif0FVX3lxTE1mSmFKOC1qQkFsa1prR3RpeHJyRm5nU1ZkT0ZMdXFzOWRJOUx0THpIQVpTZ0lPNk1VcWpNbG41Nkp1RnFHNXV1RkxmNjFuOU9Fcm9sdnpNTTR6TWhla0hJcTVXSDhuVk1sMWcwTTZlTXdtdktJY2x0STNjVkh0Wmc?oc=5>
+- **特朗普** | 内塔尼亚胡急了：特朗普，不能卖！ <https://news.google.com/rss/articles/CBMiakFVX3lxTE9OVDZCNE4wU2lLb2c1Q3ktb2N5c1UyblNBZ3A0bTZQV0FDR2xCdnc3NE1BUmFSX01KQlpDUlQ1dTljUjFKVEdjR05jLS1WN0p4U2psRW9JdVJud09PTTd3Rml1VnhzdlBWNWc?oc=5>
+- **特朗普** | 特朗普要求：切断美国与西班牙贸易往来 <https://news.google.com/rss/articles/CBMiigFBVV95cUxOMEFMc1B0YzA3VkV0V1NyWEZDNGhrdENyVXYyQ290dWNmOVI2YnJleXdCcWFPc1FIaFJVT3cyN20xd3B3T1Q2MW9HN1BXdGNDQ0cyWnh2QVNMR1NfUUVFSnRERXVWcjVjekhQams1d1lwVGtZRnQtWWwycHNNVk9pbjdsVENsdFJlSWc?oc=5>
+- **特朗普** | 突发！特朗普下令：切断所有与西班牙的贸易往来，“他们是北约内的糟糕盟友”！西班牙股市大跌 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9NMkhzQWt2bUx1VnVlcGQ3dk1KVW9CcXNMeGRWMk13bDRlZ3V0SlBKY2JHZDJyQ0tMV0RBZmJiNXpjYlJFWXlFRVl6YkhKOHZ3TFREOTZZMDVhS1FaaHhUOVUzSDhjZw?oc=5>
+- **特朗普** | 特朗普要求全面切断与西班牙的贸易往来 <https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZXZIQ3BkV2U4TnVvU3hOSk1YVDJtazIwZFJJXzR6bHo5ZU5MU2hmUWNoQkxKUEpsSy1UZ3ZSM0FKU041NWRXZWhlYTVVdDctMWhSaS1HdDlBalpOTjJBOTBJYjdvdmFSZXdWTVE3Q0hZSWVIakJRQ3lGS2RKbkZibFFJX3JNVEsxM3Vv?oc=5>
+- **特朗普** | 特朗普：美伊谅解备忘录“已终结” <https://news.google.com/rss/articles/CBMiigFBVV95cUxQNFJEQ2NHb210M1FkZmpib0NSMEVQTnNpNzE3RmY1cW8yMXFzdDgxQ2lDNTVNT1NWbDRmX2c2Y052Y1ctNTQ2emw3djMyNjdTV2s2VndWOUJiQkdBZDlNUUlRV2RlWWxUejVlSFBvMXQzTGY4YUNGWVJ3RkgwUVZkNFQ5alZ1Y3cyUVE?oc=5>
+- **特朗普** | 特朗普再威胁撤出欧洲 北约盟友忙想招儿 <https://news.google.com/rss/articles/CBMifkFVX3lxTE5EVVhxUERwR2pjTFVsZHU4STVmXzNqdUplX0RxMExyR1ByZ3l3WUFFNUY0dkZ3NGRjam5yY21Td3pYb3Mxc256YjAwYWppdUMzNW9FZWtON1JDUEpZY0h1NGZXRFBqT3hKcGpjaXBRXzVzNk1GelBDNG52dVgxdw?oc=5>
+- **特朗普** | 比利时首相：美国队惨败，特朗普可能心情不好，我不会刺激他 <https://news.google.com/rss/articles/CBMic0FVX3lxTE9Gb1h5SnhubkJVNTc0WWFIM3dOUGdfQUFFRzl3M3lqYllydWNEN3FDcVJLbEtiV2Z0bUxMaEhLc08xUzJDQjd0RFZjeVhweTYyZlpLUEZmNF9YOEhYNjZVZXFUYTZtdnFfVnFCNHQtUTNqMU0?oc=5>
+- **特朗普** | 特朗普北约峰会上重提格收购陵兰岛，称美国可能从欧洲撤军 <https://news.google.com/rss/articles/CBMiqAJBVV95cUxNNE5tWHVMc1M4ajQwQWRDQmpMTFdsN2E5ZVNIT05ETFZsbWJQYmVVQ1p2cVJkQWp6cDNQZFlxR3VrdmZ1TFFsaERpOEVtZ3RLZ28xd3YzbXc2OTlIOEctdXhYYkdoc0trVTE4QlA5UzVLREZUMzdIMGQ0ZHVJQjBGd25FWFAwZkc4NVdrd1dBaWkyYVo1SE1oenJ4OEtBN2ZhV254RW4yTFNPNm9KbjhOajd2eGtyUERrM0haZG56U19xM2RlQ0ZmWnlLclE5UzFpMlB0UDdhYmJndVFyUjJSNnVrMEhBNVRvT1dqdG5MUWs2Rkc5ZEt0bU1WY1hSR1F2VmtuTkF1M3JNMTVNamFIY0lLbEtsMDlObEJlSUZsNGFRTmlMQjhFcw?oc=5>
+- **特朗普** | 北约峰会闹别扭：特朗普威胁撤出所有驻欧美军，重提格陵兰岛 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xRDhGVW95VHg1YVlrdkdHaGthNDZLY0JqYTRGcUpMTlB5OU5wQmlxNF9ZbUh5cE5HbnFBU3AtLVF1UldPVjA0VGVMdUdoV0haMU1R?oc=5>
+- **特朗普** | 特朗普加码谋求掌控格陵兰岛，丹麦表态将全力捍卫该岛主权 <https://news.google.com/rss/articles/CBMihwFBVV95cUxQRzcxSUhiSVREY05uMzRjWWJISDJpNXdsRUVuUVF2TWZFYWU4dldQdWlPaXdTeElKV1hpUVUyWmJyMnlDWFE3RGZOcW1BYzF5MHJmQ3pMV1FVYlBXYWd2eDViSnh6bjJRRjR1RWQzZlJ6ZlEwYTF5c2VES0sxQm1DS0JzWHJuWnM?oc=5>
+- **Trump** | Trump Says Ceasefire With Iran Is Over -- Update <https://news.google.com/rss/articles/CBMilwFBVV95cUxPcmJ0bEZPbWtMckJhcDh5MzhFRnN3OUM1TGgxYXpuc25od0d6SmhuOFVKMEI5OURoSkd6N2ZyYktBcjNuS1FuZFBHbVhybnFnYXdXMVdxY21YcnVhcE8yRG1fTmE3M1liOG9oZThTUGpyTUd1a3FHVWFYcUl1QktPaUIxY3pxdHZQSVhYelNsU0lid3BoMk1r?oc=5>
+- **Trump** | 特朗普称与伊朗的停火已经“终结” <https://news.google.com/rss/articles/CBMigAFBVV95cUxPTU9KM21kSHl0ak9HcDFmRHJYU3V1Tm8yVmZNMzJjMWh1cWFUMUVVYTVoZFh4UU9MU0lmeURKQTJodEUwSGI1SDZLOG9NWFpVYkR6ZmJMZ3dtSVhfLTUybGZiQ083akVYTlZSNUR1Smpsb09FUF84cDI4aWlNTWZuOQ?oc=5>
+- **Trump** | Bitcoin Falls Further After Trump Says Ceasefire Over -- Market Talk <https://news.google.com/rss/articles/CBMisgFBVV95cUxPSWVISG9MRHJKQ2VLMVJMWF91VFhLZmtDZDFwZm1YMlpKWDlHZmI4OEZaTzYyWUVVSGItQTBEQUpEdTllQW1lZzhURW9xWlpUd2VuU19vcU1Zc0RRMVNfN1NPelZEdUlGbnVxdW93amQ1YzF0RlJua3ZMRE95cl80NE51bGtDUUowOG5ybTZpa2lEaE4wWlBSU1FYWkFCdDFsWHVlMHcwVGo5LW9XUkp6X1BB?oc=5>
+- **Trump** | 特朗普：在我看来，与伊朗签署的谅解备忘录已结束，他们想除掉我 <https://news.google.com/rss/articles/CBMivANBVV95cUxPN3RDajlicFlOZ3JVaWprUFlKQks1bnJyS3BVVUpndU85ajg3bEVXZ1U1a3QwTXA2WHRnNTZZTG9sM1ZnYy1HOWkyUnVFWEJsSXE1RDN5MGFPcGJyTERpM2lWUzZNNmtvVFRtUzhMaGNZMFNfX1VqeXVnc2NRLUMyUDEzVmFEYl9LYndmTUpLNC05bDI0RVl6RWh3eV9oZUg3TnVsYjVSTlN0TDZxc3VmTzk3X08yTjcydnk5dm1rVHpXX2p5VE9JbEZEcDNuQzFWM1Mtb2VacEdKekwxS0VzcjhQM0VQSlRkRE9rdWlOS3BzbTg4aXpuc1NlUzdPQlY2RzFFN2dIMnBNRFVnYjliRVgxT1F2TUpNbF9mZkVtakw1bHdpejlGQWU0cW1xcC1QYWd0RjJ2QXdKR09aWGpGaGpSNDRDSVZIVi1IRlFMb2tGVC1Sd3RBcVlaR2xyZVVRbHlsQkZDRjA3elRvdE1aekRwdWFUQ24tb1I3NUVLU2doOUVDNWZIWndQN0ZpRk96WGlRVTgwZ1daOE9pSXZocVA3Znp1MjJGRGgyd2o2S282SHNaQW12TzhtS2k?oc=5>
+- **Trump** | 特朗普：将全面切断与西班牙贸易往来 <https://news.google.com/rss/articles/CBMiiAFBVV95cUxONGY5Wm13THNjd0JsRmx6a2NBbndXRy1BSFBnVGJVT3hyVzFHclZGMkg4ZldHMVJ3U3N1bFNxUDgtQjQ4d1FjOU1ZOVFyNmlXYnRGR0RzVW9JM3hzRDBfYmtGWU9VWFhMcW5uU3dOWXViOEM3VkphMGVGWV9XZEs5MlJTNl9vaUhy?oc=5>
 
 ### 2026-07-08 08:15  (33 条)
 
