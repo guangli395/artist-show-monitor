@@ -1,60 +1,67 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-08 19:27**
-- 本轮扫到 6307 条, 新增 **6** 条
+- 最近更新: **2026-07-08 20:43**
+- 本轮扫到 6313 条, 新增 **6** 条
 
 ---
 
 ## 本轮新发现 (6 条)
 
-### 王俊凯新歌《破晓》作词人王一博（同名幕后填词人）是谁？一文看懂7月8日全网乌龙事件
+### 王俊凯新歌《破晓》作词王一博竟是同名乌龙
 
 - 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801yx9g.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801yy28.html>
 
-### 44岁华语流行天王周杰伦9月空降南京奥体，三唱狂欢再掀青春风暴，为何南京成周杰伦演唱会“流量密码”？
+### 王俊凯新歌《破晓》为什么会出现王一博署名？
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801yy7a.html>
+
+### 王俊凯这次新歌真的是在蹭周杰伦热度吗？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801bgg8.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801yy7g.html>
 
-### 特朗普赞扬北约提高防务开支
+### 社评：特朗普点名批评章家敦，释放一个明确信号
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-08 19:30
+- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNmFjaDVlQjhFRG5DM3ExeG5LOTZMZXdxcjlMeTJsVDlBT0h6QWZuVWdjYm8xRnBCa0dFcDVRNG9Jb2pxYkNKTW54Vkw3akVmVi03cmNVQk1jejgzMjJ5dHZjRmZSZWVwb2J3UVpSTlVISV9PZktkamNOWXNHY1JBOUw0R1hILWwxQjlR?oc=5>
+
+### 特朗普称北约峰会展现团结，并赞扬吕特是“了不起的团结者”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 美国之音
-- 时间: 2026-07-08 18:55
-- 链接: <https://news.google.com/rss/articles/CBMihAFBVV95cUxNc0g3S3ZfVHRHZFgxWTRuTGQxb1V0TjRiUE5sVTE0SzVfQ1QtbGtPWlpnMHl1dVU1UzJQeV9SUjZwUXMtZENQQVNOSGRndVNzekxHTXl4X1g4RDQzay0xaXJkVWFFV1RJYjc4RFpaWUhzaHlDLUtjdThlMjJBb1Q4MWllT0rSAYcBQVVfeXFMTzZFb0RzenhZZ0sxMjlsbnptSTVfRVUwYnpBbjcwM1JFakl0RUI4NXQyZEFtLXA4MDE3MTg3WWxiNFlyczd5QVR3UXZyT05IdkNBY1E2dmJpZzZKS2x1WWtpY3pnNHdNR1F1QnNaRXJfcHhyVE1JeUFFTHBRakFjSzhFMU1tVEU0?oc=5>
+- 时间: 2026-07-08 19:40
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE42NkpjNXVDQllsaXJBSmNyQ2lRTjc2SUNaQmpkZ3QwT1hzU1d4a3VudEFWdHN2Q0xBei1EVG5saVdnQml0SXRvbFViVDRJMHJqVUtDd3lwMkNFRGlzR0VwRTl0ME1SRkI1SERPNXJMVmxKaDlCREHSAXhBVV95cUxNNzUweEV4MjVBRldYdFJHUnFBVDlKWW9JMXJzcTFMa0tBc0J0aGxIMVNJVjBXaDFiZUo2UWtqbXIxOGhfWlVnZzVMZ2dIcDM3QzZ0RzN1OWxUdnhxZ1VrZXFGa1lVb2Q2c3otdEVoekVrbTJmVE11X0s?oc=5>
 
-### 特朗普政府多管齐下平息民怨 拉抬中期选举情势
+### 特朗普和FIFA一合计，“全世界都在笑话美国”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-07-08 08:45
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hOWZTVEZiMS13d2J2QThUYWdBUjJtZzBlaVNBejc3VXk3aTJMUzBsWkxUMzJSRTIyc3BOTkt4M1RxdEZfRzNFSFJOQW5FRmwxVDQyNUd0WXkyNVREMFYxWDdHbDJHZw?oc=5>
-
-### 特朗普表示，他可能会将叙利亚移除出美国的“支持恐怖主义国家”名单
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-07-08 17:54
-- 链接: <https://news.google.com/rss/articles/CBMivwFBVV95cUxPQzVOSThiQjZLRFo2Qm8xemVRY0p0Rk1uM00zN1N6Z0VWaU1mM1pIdnFvdkZ1QS1oLXcwUzVsaXFDdzZBTl96RTVrVzlNSWRIZWpDSWFqNk9oYUNnSTQ5OG1BNGZpRXpXajBacjIxZkxOckR2VEo0TXg3M0JoNUVJV2h6ZVAwYUJ1a25BRkFOM21BSXBMMnY4NDBFZUJIZXk2U1JJOHdmZ0c5Ykd0b0dEbEEyaGFVVzZMTmlwc2RPb9IBwgFBVV95cUxNdGtLODNoRndSclNnbU5Ja3ZIckNob21XM3k4S3FTSjc3ZThDSzBWT3RLaEpEcjhKNlVsa2dwN2h4Y2gzbFlwVlBxSlQzcy1FU0ZoT0ZmTThpelhhMTNZQS1qZlBKOVJDWjBOMVBIVnFSRnNtOGtXRVc2Vmp0dEYwTFBPSndSSW1lemhmblpTcVg1Nk1Gek9pN2RtNGNlUDg2UHdNRjczNTlPcjZORHZoZ0FZdFRXT0YtNk9fNnFMVC01QQ?oc=5>
-
-### Trump家族支持的WLFI财库公司AI Financial或将以约1500万美元出售| PANews发布于币安广场
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Binance
-- 时间: 2026-07-08 16:19
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9uUmJOak9vS2FlNjlqSjJuTU5QUVlzd29ZeTNaeHBkTzdzWWhiREQ4dVJKYzNuaFNTOW9TbkZBckVzcmxCUVlTUnhJSUhWU1JOQUtvWnVwZjhpcENJejN3T3pGVmctcjlQ?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-07-08 08:37
+- 链接: <https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVzB6emtYUDVOclh5LWpiZFNUSVhqMm40aU96THVTajFlaVluUG5QQlpvN0hmR3AtenV6NU5Edm1ndWszZWExbnRjX2xhXzF0NFFaNk5jYUVUbkN3eTNkcEJhTkVsRTRLVlRzQ2xFdUpzcEFGVFlrUHlfYXhFMUd4WFNDZW1EU1BZMldicmMtRm1jb3ZfRllMd0lqMFotNGhqSFJ5VmJrbmJaZE5WUVpybTY3WWkxQkktVFhKZk5Xa0p4OGg2SUJoRmV6aVVLUnFaUEN3?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-08 20:43  (6 条)
+
+- **王一博** | 王俊凯新歌《破晓》作词王一博竟是同名乌龙 <https://k.sina.com.cn/article_7879776328_1d5abd84806801yy28.html>
+- **王一博** | 王俊凯新歌《破晓》为什么会出现王一博署名？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801yy7a.html>
+- **周杰伦** | 王俊凯这次新歌真的是在蹭周杰伦热度吗？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801yy7g.html>
+- **特朗普** | 社评：特朗普点名批评章家敦，释放一个明确信号 <https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNmFjaDVlQjhFRG5DM3ExeG5LOTZMZXdxcjlMeTJsVDlBT0h6QWZuVWdjYm8xRnBCa0dFcDVRNG9Jb2pxYkNKTW54Vkw3akVmVi03cmNVQk1jejgzMjJ5dHZjRmZSZWVwb2J3UVpSTlVISV9PZktkamNOWXNHY1JBOUw0R1hILWwxQjlR?oc=5>
+- **特朗普** | 特朗普称北约峰会展现团结，并赞扬吕特是“了不起的团结者” <https://news.google.com/rss/articles/CBMidkFVX3lxTE42NkpjNXVDQllsaXJBSmNyQ2lRTjc2SUNaQmpkZ3QwT1hzU1d4a3VudEFWdHN2Q0xBei1EVG5saVdnQml0SXRvbFViVDRJMHJqVUtDd3lwMkNFRGlzR0VwRTl0ME1SRkI1SERPNXJMVmxKaDlCREHSAXhBVV95cUxNNzUweEV4MjVBRldYdFJHUnFBVDlKWW9JMXJzcTFMa0tBc0J0aGxIMVNJVjBXaDFiZUo2UWtqbXIxOGhfWlVnZzVMZ2dIcDM3QzZ0RzN1OWxUdnhxZ1VrZXFGa1lVb2Q2c3otdEVoekVrbTJmVE11X0s?oc=5>
+- **特朗普** | 特朗普和FIFA一合计，“全世界都在笑话美国” <https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVzB6emtYUDVOclh5LWpiZFNUSVhqMm40aU96THVTajFlaVluUG5QQlpvN0hmR3AtenV6NU5Edm1ndWszZWExbnRjX2xhXzF0NFFaNk5jYUVUbkN3eTNkcEJhTkVsRTRLVlRzQ2xFdUpzcEFGVFlrUHlfYXhFMUd4WFNDZW1EU1BZMldicmMtRm1jb3ZfRllMd0lqMFotNGhqSFJ5VmJrbmJaZE5WUVpybTY3WWkxQkktVFhKZk5Xa0p4OGg2SUJoRmV6aVVLUnFaUEN3?oc=5>
 
 ### 2026-07-08 19:27  (6 条)
 
