@@ -1,54 +1,69 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-07 23:53**
-- 本轮扫到 6120 条, 新增 **6** 条
+- 最近更新: **2026-07-08 02:05**
+- 本轮扫到 6126 条, 新增 **6** 条
 
 ---
 
 ## 本轮新发现 (6 条)
 
-### 周杰伦确认献唱《功夫女足》主题曲！三大偶像同框
+### 新浪演唱会热点小时报丨2026年07月08日09时_今日实时演唱会热点速递
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801yfu8.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019080ela.html>
 
-### 新浪演唱会热点小时报丨2026年07月08日07时_今日实时演唱会热点速递
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019080dim.html>
-
-### 周星驰电影《功夫女足》主题曲什么时候发布？
+### 新浪演唱会热点小时报丨2026年07月08日08时_今日实时演唱会热点速递
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801yfju.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019080e0e.html>
 
-### 华语歌手周杰伦阿信 联手《功夫女足》主题曲 22年合作重启能否再爆？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801yfg4.html>
-
-### 周杰伦为《功夫女足》创作的主题曲会好听吗？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801yfcg.html>
-
-### 特朗普：对北约在美对伊军事行动中表现感到“失望”
+### 特朗普启动新生儿投资账户计划，称将让美儿童变富翁
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 央广网
-- 时间: 2026-07-07 16:45
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE80cmM1ZW5iU2p1TDZRZUQycHVteTh0Y2Y2X0lFUDI2YmZlZDVxYnNYem1DZUs1RFpGcjYya2diVV9iSXhLeUEwUl93bVFPMUFvbjkwX1pma085U0VZWXM5dVN2b1VfamxX?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-07-08 00:43
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFBBYXV4djVZUU1sekFQczBRMTRKR2lvWEpHSTVRWDNVdzgxRTB1V0xPZ2NrZ3E2c21Ucnh1QkR0bTdla3FRVFJvOGUxdzZac2tNamo0cXVzQ3p5ZnZqbG1OZEotLXVXR21lOGVMalU2dnpacGc?oc=5>
+
+### 北约宣布重大武器协议，向特朗普总统展示联盟正在将国防投资转化为真正的军事能力
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-07-07 23:15
+- 链接: <https://news.google.com/rss/articles/CBMixwFBVV95cUxPLXp0SkJ4eXF5ZXAyQldsb1JwQlB3dWtzLTNlWUNBckJkaTRfR0VvZklNV2FiWlF5dS0xd1ljLVJ4YXVnTXE2OEQtRjZURm9zbjhEMmVydGduc3BEdkd5dnUwVzJTOWpvYVlrYnR1NEJLZXkzU1FKQm1WYmhQSWQyaE40RnpZNU9iN3ZySzRfeS1PNDVKQ1AyVTBBejVZR3FuNkF4em10RlBnOVJhQ1R2TlFzZDZ0MHhNQUFWUmVXSTdfR09Xem5Z0gHKAUFVX3lxTFBkX0w4dnA4eHJ0TnlaWHBUNmhPQ2tlTGROYjVDUy1WNl8ybTIwTnlhV1NSMGNzbXY0TTUwM3ZYODhKdEtTb0RURTdMbGY3V3BpbE8zbFN1bGNtM1NKN0lLaXBROGVZMVNKbkE1VUE3QUJjV04zVVYzRGJ6NFkzeUgzMDdPSHp5Xzg5cjBYSlRUY1hkSmJQRklBNkFHTVh3Q0pDNVpoYUdXb002Q29ZZWZzLW0tUmR6UmdWc3Q1VEdsN1F1eVRNWmRGTnc?oc=5>
+
+### 超600万美国儿童将可投资美股 特朗普力推青少年投资账户
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-07-08 01:40
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1QdFh4ZTJVTzZLSVM5dndma2NvRThNVmFXUVAtYnVPUGlTMFI0dnlibUw1N01kT2dQdkpkb2ljNzEtY09sLXU4dldJQ0o4RmJBTVAxdGVUd21oaE9ZN0JMOXZULTVON3NFU3o0bXBKNTk?oc=5>
+
+### 特朗普再次声称格陵兰岛“应该由美国控制”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: chinanews.com.cn
+- 时间: 2026-07-07 17:51
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1DNGM5NTRjNFluWmdxRm1seUZJMFM1eTFteDVnVDltR0JwR3dITkpaMExLV1VDZ1IzaGNFN3lkUktGVmFLSXBsbTJVZldUb2VUVHpFcVRrR0JmV1E4YzBnSmhMTTJldzVi?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-08 02:05  (6 条)
+
+- **周杰伦** | 新浪演唱会热点小时报丨2026年07月08日09时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c0019080ela.html>
+- **周杰伦** | 新浪演唱会热点小时报丨2026年07月08日08时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c0019080e0e.html>
+- **特朗普** | 特朗普启动新生儿投资账户计划，称将让美儿童变富翁 <https://news.google.com/rss/articles/CBMic0FVX3lxTFBBYXV4djVZUU1sekFQczBRMTRKR2lvWEpHSTVRWDNVdzgxRTB1V0xPZ2NrZ3E2c21Ucnh1QkR0bTdla3FRVFJvOGUxdzZac2tNamo0cXVzQ3p5ZnZqbG1OZEotLXVXR21lOGVMalU2dnpacGc?oc=5>
+- **特朗普** | 北约宣布重大武器协议，向特朗普总统展示联盟正在将国防投资转化为真正的军事能力 <https://news.google.com/rss/articles/CBMixwFBVV95cUxPLXp0SkJ4eXF5ZXAyQldsb1JwQlB3dWtzLTNlWUNBckJkaTRfR0VvZklNV2FiWlF5dS0xd1ljLVJ4YXVnTXE2OEQtRjZURm9zbjhEMmVydGduc3BEdkd5dnUwVzJTOWpvYVlrYnR1NEJLZXkzU1FKQm1WYmhQSWQyaE40RnpZNU9iN3ZySzRfeS1PNDVKQ1AyVTBBejVZR3FuNkF4em10RlBnOVJhQ1R2TlFzZDZ0MHhNQUFWUmVXSTdfR09Xem5Z0gHKAUFVX3lxTFBkX0w4dnA4eHJ0TnlaWHBUNmhPQ2tlTGROYjVDUy1WNl8ybTIwTnlhV1NSMGNzbXY0TTUwM3ZYODhKdEtTb0RURTdMbGY3V3BpbE8zbFN1bGNtM1NKN0lLaXBROGVZMVNKbkE1VUE3QUJjV04zVVYzRGJ6NFkzeUgzMDdPSHp5Xzg5cjBYSlRUY1hkSmJQRklBNkFHTVh3Q0pDNVpoYUdXb002Q29ZZWZzLW0tUmR6UmdWc3Q1VEdsN1F1eVRNWmRGTnc?oc=5>
+- **特朗普** | 超600万美国儿童将可投资美股 特朗普力推青少年投资账户 <https://news.google.com/rss/articles/CBMicEFVX3lxTE1QdFh4ZTJVTzZLSVM5dndma2NvRThNVmFXUVAtYnVPUGlTMFI0dnlibUw1N01kT2dQdkpkb2ljNzEtY09sLXU4dldJQ0o4RmJBTVAxdGVUd21oaE9ZN0JMOXZULTVON3NFU3o0bXBKNTk?oc=5>
+- **特朗普** | 特朗普再次声称格陵兰岛“应该由美国控制” <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1DNGM5NTRjNFluWmdxRm1seUZJMFM1eTFteDVnVDltR0JwR3dITkpaMExLV1VDZ1IzaGNFN3lkUktGVmFLSXBsbTJVZldUb2VUVHpFcVRrR0JmV1E4YzBnSmhMTTJldzVi?oc=5>
 
 ### 2026-07-07 23:53  (6 条)
 
