@@ -1,110 +1,69 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-08 17:58**
-- 本轮扫到 6301 条, 新增 **13** 条
+- 最近更新: **2026-07-08 19:27**
+- 本轮扫到 6307 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (13 条)
+## 本轮新发现 (6 条)
 
-### 港股异动 | 巨星传奇(06683)涨超8% 周杰伦2024年嘉年华世界巡回演唱会南京站和深圳站获投资
+### 王俊凯新歌《破晓》作词人王一博（同名幕后填词人）是谁？一文看懂7月8日全网乌龙事件
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801yx9g.html>
+
+### 44岁华语流行天王周杰伦9月空降南京奥体，三唱狂欢再掀青春风暴，为何南京成周杰伦演唱会“流量密码”？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001908197s.html>
+- 链接: <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801bgg8.html>
 
-### 巨星传奇(06683.HK)附属投资周杰伦2024嘉年华世界巡回演唱会南京站和深圳站
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001908199u.html>
-
-### 巨星传奇(06683.HK)：就周杰伦2024嘉年华世界巡回演唱会南京站和深圳站签订合作协议
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001908197q.html>
-
-### 新浪演唱会热点小时报丨2026年07月09日01时_今日实时演唱会热点速递
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c00190818va.html>
-
-### 中国新歌声决赛 汪峰战队蒋敦豪夺冠
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068235_1d5b04c8b019027m10.html>
-
-### 新闻分析｜特朗普扬言再打伊朗，到底几分虚实
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-07-08 14:34
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE8yaWtOci1WVEQ3cTh6cDZYeDk4eTctOTloRno3RG00cjFhWUJrdzh1ZG81b0d0eHZJT0UxenJPUU8xT1JXLU9QNndVWncxNDZmY2RNR3hkSGRPY1JZMmZ1QUg1cVg4dGw1V2NiejhUQ29xcXp2VThjRng3U0tNWjQ?oc=5>
-
-### 丹麦首相回应特朗普：“格陵兰岛绝不出售”|唐纳德·特朗普|雷杰普·塔伊普·埃尔多安|北约峰会|美国总统|安卡拉_手机新浪网
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-08 17:37
-- 链接: <https://news.google.com/rss/articles/CBMimAJBVV95cUxNQUl4aUxEX2FZaS1GNnBXYkpSTXlKOGM1ejd4dzJESVNFWk42Q3UtX0xhS2ZSX2VXZlRRcmhSalhnTGs1ZkNlRkZPMW9GNWZNV1RtU0xsTHRqamdfcWpzd3ZQTEJTNk9uMHdhbFkxMElaell4V2RPbGE3bko5VTlvX1MyMy0zOF9CdVVQRWl2UVFuN1N4dWRXMkZWMUZBSFE3aXlQdmw3bDVPQ0dueG40a2Jjc2lmY3RHbVRaQ0xQS2dNaGdaanNtRU1NdG1vS3A4Um16N0phSzJtbENKcGk2V3ZFX0ZoQ2VfSEp0MVRlU2FTVWJfZjV0R00tN0U0bGpyNENlbFVsVnNUcXplN1l3SDJxWUlyemEy?oc=5>
-
-### 特朗普：不乘坐卡塔尔赠送的新空军一号返回华盛顿
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-07-08 17:40
-- 链接: <https://news.google.com/rss/articles/CBMi6AJBVV95cUxQRDdYdWxvLVdrTkhocFN6VnFta18xZWIwNHc5TldxSU9xcmNXQ2NKT1VLWkFOQ3RRU2RIZ0F1eDdNTGhqVjFXWWdkZU1OLXJTdG5iSkZ4QjBLOTRnQ2MwZWJ4d1ROUU5ocjMxZGhTU293MGJFMXh6M3ZVOXFqNU9oZ1I1b0ZQaGZFc3FHNlZfR0RrQmtvdWc3enNFU3ltbGZjc2VKbnlfTlNfeGFsVFZmOHViYUYtMk9OUUZyYjI4MlJLNmVwQnFkX2dkTFhRT0wzWTlxZmVMOE9meEdwMW9jZzdTVXo3RGpBUnlUTUFRaUxqVXhQLWhla2RVeWk5azY2VWdOckEzZFA4ai1uOElQU0VPckRzNzB4RENIZG5QYVd0dmdFRlQ2Sk5NWTFpaGM3dDd5cU9tYzY2V0NiWUw2UFhVSVpNemhDZmJibEJyeEQ0UUkzQUVRWWpTQ1JJQ1Q3R2pqQXBZT1E?oc=5>
-
-### 特朗普表示，美国将授权乌克兰生产“爱国者”导弹
+### 特朗普赞扬北约提高防务开支
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 美国之音
-- 时间: 2026-07-08 16:52
-- 链接: <https://news.google.com/rss/articles/CBMiswFBVV95cUxNN2tkam5TeE9adHkwSDR3VmI2dTdiSV9SNGhMMHVOUWpLRGZQX0FFMXFfZ3NpVDBhSWdDdHc5VFBXMzNYWUlmYVNObGQwNkloNXY5aFlwYmx4TlIzTS1Xck52V00xb3NzRWcyTEg1ZFpzTnNxTTFvTW1yMVYzeVhCR3l6LWY5WnFJdUxkcGFaNmExTjlnZUpUak5SRklEMHpJLXNUVjZlX3JYeG9KU0h2R3h6Y9IBtgFBVV95cUxQY2p1NEwwQWhNUVNJVnpMVmU3MDY1WVIwRzNxY3lwdkJGUWN0WWpnU3hUNmZMckVKRXl3MmxvM0w3S1JsaWRRZDFfakdHT3VERWFDYTI3T01JRWNPelRNdUVCZHk3MGRTcldJWXlPR2pwUnhBbmR3OF9pRXU5YXNDZHBfQXFveTJ0VC1rRGFFU0ZVaVZNU1pfcklwQ1lfNE9udWNTOVQtdjJTSllWeGc2LWxDSUZldw?oc=5>
+- 时间: 2026-07-08 18:55
+- 链接: <https://news.google.com/rss/articles/CBMihAFBVV95cUxNc0g3S3ZfVHRHZFgxWTRuTGQxb1V0TjRiUE5sVTE0SzVfQ1QtbGtPWlpnMHl1dVU1UzJQeV9SUjZwUXMtZENQQVNOSGRndVNzekxHTXl4X1g4RDQzay0xaXJkVWFFV1RJYjc4RFpaWUhzaHlDLUtjdThlMjJBb1Q4MWllT0rSAYcBQVVfeXFMTzZFb0RzenhZZ0sxMjlsbnptSTVfRVUwYnpBbjcwM1JFakl0RUI4NXQyZEFtLXA4MDE3MTg3WWxiNFlyczd5QVR3UXZyT05IdkNBY1E2dmJpZzZKS2x1WWtpY3pnNHdNR1F1QnNaRXJfcHhyVE1JeUFFTHBRakFjSzhFMU1tVEU0?oc=5>
 
-### 特朗普称赞泽连斯基 表示将允许乌克兰生产爱国者导弹
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-08 15:44
-- 链接: <https://news.google.com/rss/articles/CBMijgJBVV95cUxPNmhCdE9lUkxzdzR1V2RwaUNXeHRiWkR3Q0lzbDBDam9pT0pSRXdwSU1DNFB5OWFaTTN4bDh6NnYxNDc0OXl6bmZEV0RnVXk2NC1kV3ZuQ3VmUTluXzN4ODRsQzNyeG85VlF2RnpDbVhsYlRSRzV4dG9BTGtSWXNpZWxpQ1VJYXBPck9rc3RUWjR1cHZFSlNqNmNpUDgzUlhkNlFxNEUzRzgwOFZIUFZuOUxOSEpCNmZzYkFjZXhoLXBzMFFtbFJ6UTV4VmZaQWZfemd5OW5pdG9ZajdLaGduWUtNRHpqWnVTNno0bFpGLWpEU0lQTDNGcUMyejZzMFMzZW9xUExhaUMtcXc4cnc?oc=5>
-
-### 特朗普要求切断美国与西班牙贸易往来
+### 特朗普政府多管齐下平息民怨 拉抬中期选举情势
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 央视网
-- 时间: 2026-07-08 09:15
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE93Q0pycmpsZnU0eXhLaVppdFBkVTdfTGtRbTJCR1V5RmZBNjNxRGltREtsMHdjbEwwbDhWVzU1Um1RWVVOTmhKS2pHQUVqc2VmeVlvcm1UUExCdjYxelFwbUxiMmJ3WHFKZ3g4cFp3Vi1ha0xOTFllbA?oc=5>
+- 场馆: 联合早报
+- 时间: 2026-07-08 08:45
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hOWZTVEZiMS13d2J2QThUYWdBUjJtZzBlaVNBejc3VXk3aTJMUzBsWkxUMzJSRTIyc3BOTkt4M1RxdEZfRzNFSFJOQW5FRmwxVDQyNUd0WXkyNVREMFYxWDdHbDJHZw?oc=5>
 
-### 特朗普和FIFA一合计，“全世界都在笑话美国”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-08 08:37
-- 链接: <https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcjJUNUdLS2k2VnA2U0tkcEhxeUducC1kelBrWUpfNmVNRFk2bXZYWTJCemZsc0lfb1ZSRlhDamV3ZDdoUkVFRTVXVmlIMWtFVTRmU2RpN2RMTXlidnU5WGlvd0FVNnp5OWozRThfRC1VbjBLWG53amh2WW9iSGVfcm5jT3BTSnVLbmgtT2ZfdkJTWTJqand3amtvbTZmRXRYVG9rUXU2eTZRZVhLSVlSbXlBUEhEcU5Dd2RQVlJrbEtPaFp1dGhNNXVwV1lYd2xMd244?oc=5>
-
-### Canadian Energy Names Rise as Trump Says Iran Ceasefire Over -- Market Talk
+### 特朗普表示，他可能会将叙利亚移除出美国的“支持恐怖主义国家”名单
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-07-08 14:59
-- 链接: <https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYlhMQ2hrbzJhc003ZXk2LS1MVFlGR2Nvb0ExTXpvVFgxejJkb2w0RW5Td21Wc1Z4X2oySUtuLVFEVURxenA4MGQ4Y0owY2dJZldsbC1Rc2MyTkNJSGN2UGtuMlZJbnM1MXFmakRoTUxudF9ud3VIdDhIakx3bFhHMFo0ekw2R1ItZTYyMmY4QTdNdU1ta1dTQUFDUE9mZDdPZ1E5MnZ0SUl4TFU?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-07-08 17:54
+- 链接: <https://news.google.com/rss/articles/CBMivwFBVV95cUxPQzVOSThiQjZLRFo2Qm8xemVRY0p0Rk1uM00zN1N6Z0VWaU1mM1pIdnFvdkZ1QS1oLXcwUzVsaXFDdzZBTl96RTVrVzlNSWRIZWpDSWFqNk9oYUNnSTQ5OG1BNGZpRXpXajBacjIxZkxOckR2VEo0TXg3M0JoNUVJV2h6ZVAwYUJ1a25BRkFOM21BSXBMMnY4NDBFZUJIZXk2U1JJOHdmZ0c5Ykd0b0dEbEEyaGFVVzZMTmlwc2RPb9IBwgFBVV95cUxNdGtLODNoRndSclNnbU5Ja3ZIckNob21XM3k4S3FTSjc3ZThDSzBWT3RLaEpEcjhKNlVsa2dwN2h4Y2gzbFlwVlBxSlQzcy1FU0ZoT0ZmTThpelhhMTNZQS1qZlBKOVJDWjBOMVBIVnFSRnNtOGtXRVc2Vmp0dEYwTFBPSndSSW1lemhmblpTcVg1Nk1Gek9pN2RtNGNlUDg2UHdNRjczNTlPcjZORHZoZ0FZdFRXT0YtNk9fNnFMVC01QQ?oc=5>
+
+### Trump家族支持的WLFI财库公司AI Financial或将以约1500万美元出售| PANews发布于币安广场
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Binance
+- 时间: 2026-07-08 16:19
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9uUmJOak9vS2FlNjlqSjJuTU5QUVlzd29ZeTNaeHBkTzdzWWhiREQ4dVJKYzNuaFNTOW9TbkZBckVzcmxCUVlTUnhJSUhWU1JOQUtvWnVwZjhpcENJejN3T3pGVmctcjlQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-08 19:27  (6 条)
+
+- **王一博** | 王俊凯新歌《破晓》作词人王一博（同名幕后填词人）是谁？一文看懂7月8日全网乌龙事件 <https://k.sina.com.cn/article_7879776328_1d5abd84806801yx9g.html>
+- **周杰伦** | 44岁华语流行天王周杰伦9月空降南京奥体，三唱狂欢再掀青春风暴，为何南京成周杰伦演唱会“流量密码”？ <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801bgg8.html>
+- **特朗普** | 特朗普赞扬北约提高防务开支 <https://news.google.com/rss/articles/CBMihAFBVV95cUxNc0g3S3ZfVHRHZFgxWTRuTGQxb1V0TjRiUE5sVTE0SzVfQ1QtbGtPWlpnMHl1dVU1UzJQeV9SUjZwUXMtZENQQVNOSGRndVNzekxHTXl4X1g4RDQzay0xaXJkVWFFV1RJYjc4RFpaWUhzaHlDLUtjdThlMjJBb1Q4MWllT0rSAYcBQVVfeXFMTzZFb0RzenhZZ0sxMjlsbnptSTVfRVUwYnpBbjcwM1JFakl0RUI4NXQyZEFtLXA4MDE3MTg3WWxiNFlyczd5QVR3UXZyT05IdkNBY1E2dmJpZzZKS2x1WWtpY3pnNHdNR1F1QnNaRXJfcHhyVE1JeUFFTHBRakFjSzhFMU1tVEU0?oc=5>
+- **特朗普** | 特朗普政府多管齐下平息民怨 拉抬中期选举情势 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hOWZTVEZiMS13d2J2QThUYWdBUjJtZzBlaVNBejc3VXk3aTJMUzBsWkxUMzJSRTIyc3BOTkt4M1RxdEZfRzNFSFJOQW5FRmwxVDQyNUd0WXkyNVREMFYxWDdHbDJHZw?oc=5>
+- **Trump** | 特朗普表示，他可能会将叙利亚移除出美国的“支持恐怖主义国家”名单 <https://news.google.com/rss/articles/CBMivwFBVV95cUxPQzVOSThiQjZLRFo2Qm8xemVRY0p0Rk1uM00zN1N6Z0VWaU1mM1pIdnFvdkZ1QS1oLXcwUzVsaXFDdzZBTl96RTVrVzlNSWRIZWpDSWFqNk9oYUNnSTQ5OG1BNGZpRXpXajBacjIxZkxOckR2VEo0TXg3M0JoNUVJV2h6ZVAwYUJ1a25BRkFOM21BSXBMMnY4NDBFZUJIZXk2U1JJOHdmZ0c5Ykd0b0dEbEEyaGFVVzZMTmlwc2RPb9IBwgFBVV95cUxNdGtLODNoRndSclNnbU5Ja3ZIckNob21XM3k4S3FTSjc3ZThDSzBWT3RLaEpEcjhKNlVsa2dwN2h4Y2gzbFlwVlBxSlQzcy1FU0ZoT0ZmTThpelhhMTNZQS1qZlBKOVJDWjBOMVBIVnFSRnNtOGtXRVc2Vmp0dEYwTFBPSndSSW1lemhmblpTcVg1Nk1Gek9pN2RtNGNlUDg2UHdNRjczNTlPcjZORHZoZ0FZdFRXT0YtNk9fNnFMVC01QQ?oc=5>
+- **Trump** | Trump家族支持的WLFI财库公司AI Financial或将以约1500万美元出售| PANews发布于币安广场 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9uUmJOak9vS2FlNjlqSjJuTU5QUVlzd29ZeTNaeHBkTzdzWWhiREQ4dVJKYzNuaFNTOW9TbkZBckVzcmxCUVlTUnhJSUhWU1JOQUtvWnVwZjhpcENJejN3T3pGVmctcjlQ?oc=5>
 
 ### 2026-07-08 17:58  (13 条)
 
