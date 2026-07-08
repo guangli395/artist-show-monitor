@@ -1,58 +1,78 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-08 20:43**
-- 本轮扫到 6313 条, 新增 **6** 条
+- 最近更新: **2026-07-08 22:00**
+- 本轮扫到 6320 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (7 条)
 
-### 王俊凯新歌《破晓》作词王一博竟是同名乌龙
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801yy28.html>
-
-### 王俊凯新歌《破晓》为什么会出现王一博署名？
+### 王一博作词人是谁？王俊凯新歌《破晓》幕后填词人身份揭秘，同名≠顶流合作
 
 - 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801yy7a.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801yzti.html>
 
-### 王俊凯这次新歌真的是在蹭周杰伦热度吗？
+### 王俊凯新歌《破晓》作词人“王一博”是谁？同名乌龙1小时阅读破2亿，幕后填词人身份与艺人王一博有何区别？
 
-- 艺人/关键词: **周杰伦**
+- 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801yy7g.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801yzwc.html>
 
-### 社评：特朗普点名批评章家敦，释放一个明确信号
+### 特朗普：将授权海外生产“爱国者”供乌使用
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 央视网
+- 时间: 2026-07-08 20:19
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5sa0pkNHBWTDZWNktxdEFCU2Y5Vk9aOFdaZS1BUE9Qc1pNZjJSRlBvN1JRX0VQTjktQzNPOElvTlV1ZkhQNE1mT3NPM0RiWHhLWHFTaHYtU0czTTRjSEFDRHI3V0I2OWJ1dXlrN1VUWUxCUWdmU192ag?oc=5>
+
+### 美国法官下令特朗普向作家卡罗尔支付500万美元损害赔偿金
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-08 19:30
-- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNmFjaDVlQjhFRG5DM3ExeG5LOTZMZXdxcjlMeTJsVDlBT0h6QWZuVWdjYm8xRnBCa0dFcDVRNG9Jb2pxYkNKTW54Vkw3akVmVi03cmNVQk1jejgzMjJ5dHZjRmZSZWVwb2J3UVpSTlVISV9PZktkamNOWXNHY1JBOUw0R1hILWwxQjlR?oc=5>
+- 时间: 2026-07-08 20:39
+- 链接: <https://news.google.com/rss/articles/CBMivgJBVV95cUxNZUJRSUlSZEx5Nml0M1F0VXduaUhKaUFpVGdHdURLT0JhczduaFFVdHk0WE02Z0ZSRThjUTNSeDU4ZlRYMzllVWZDWUpXR3JqS0hPSHNzdHhSY0hvRF9PWlBWUElEVWk0YW5DUUFEOFR5aGxvVV92cGp3N0RJRTA5Tk54T3h0MnJSTS1EOVVQWFBQMzRqYThQSi1faTFWSWRUQmZYSzZ0dUVUT19Zbi02WEVkVjBxQW5PWVNCVFp6ckt1MlFXMWJHZTM3SDFjZHQyZXhIM3JEZ1M2VGFlZ2ZmakswdnlmNnU4TndQZEVOUjBRTEhCYkdHMFRrcW95U3l1Nk1yenpTRXBqbWpOZzdVamwzT1Y5ZFRPazBLb1kwWE9hMUNVQ3dnUGlPemRBdVJVNlBMNFZ6RWtqNHZZYVE?oc=5>
 
-### 特朗普称北约峰会展现团结，并赞扬吕特是“了不起的团结者”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-07-08 19:40
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE42NkpjNXVDQllsaXJBSmNyQ2lRTjc2SUNaQmpkZ3QwT1hzU1d4a3VudEFWdHN2Q0xBei1EVG5saVdnQml0SXRvbFViVDRJMHJqVUtDd3lwMkNFRGlzR0VwRTl0ME1SRkI1SERPNXJMVmxKaDlCREHSAXhBVV95cUxNNzUweEV4MjVBRldYdFJHUnFBVDlKWW9JMXJzcTFMa0tBc0J0aGxIMVNJVjBXaDFiZUo2UWtqbXIxOGhfWlVnZzVMZ2dIcDM3QzZ0RzN1OWxUdnhxZ1VrZXFGa1lVb2Q2c3otdEVoekVrbTJmVE11X0s?oc=5>
-
-### 特朗普和FIFA一合计，“全世界都在笑话美国”
+### 特朗普会不会阻止美西贸易？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-08 08:37
-- 链接: <https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVzB6emtYUDVOclh5LWpiZFNUSVhqMm40aU96THVTajFlaVluUG5QQlpvN0hmR3AtenV6NU5Edm1ndWszZWExbnRjX2xhXzF0NFFaNk5jYUVUbkN3eTNkcEJhTkVsRTRLVlRzQ2xFdUpzcEFGVFlrUHlfYXhFMUd4WFNDZW1EU1BZMldicmMtRm1jb3ZfRllMd0lqMFotNGhqSFJ5VmJrbmJaZE5WUVpybTY3WWkxQkktVFhKZk5Xa0p4OGg2SUJoRmV6aVVLUnFaUEN3?oc=5>
+- 场馆: RFI
+- 时间: 2026-07-08 20:27
+- 链接: <https://news.google.com/rss/articles/CBMi7wFBVV95cUxQSnpwWmoyTkpPRmlWMVZfMzdFMUUyLXhWV0UzZHZDYVA3SGdaNHVtbXpSQ0xVaFpRZzRYWnYwZzEwX0lrWDhDT3F0Mm5SSTR5YkF4V2x0X2xqek1WU3ptOTE4SFVwRzRPUjF3ZXpSbWo0WmEwQ2JFeno5SUhQNlVhVmdXbjVMMUdpMUE5RFQ2TlBLRmxXa2lhY2g1UWYtYXlmVXNKMjZKMjNvcWcyRE9raVVBSkFiWFRGLXFXdEluM0JKczZfTno1YUF4OGFwRjB4ODd0S05yNDFwdjVMaWJxSHFDQzJ1TzN5WVJuVWRUMA?oc=5>
+
+### U.S. Stocks Mostly Lower After Trump Threatens to Strike Iran, Declaring Ceasefire Over -- WSJ
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-07-08 20:50
+- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUGstODduTk9NM1NSOVlWZTJPeld4NFJFZTN4ZGJnWUJJU1NMdVhEcGxTckxJbmRFWHRHcTlRazhNNG5VWmsyMlJmQjZUTnhRSWpacXFTcV96eW16Y3hZYTFYaEt1d1lYdmRnSEdlS2puZnF6c3lHMG92TkFHcGV2dkcyTEJsdWUzX2NTZmNPLUdLMklIcmJxbDM1dWtUTGpCZmdzQUVmRUxRUQ?oc=5>
+
+### 特朗普希望美国留在北约 好向盟国卖武器
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-07-08 20:42
+- 链接: <https://news.google.com/rss/articles/CBMiuAJBVV95cUxNcFZCZ19yYUcxWGJwNm5mNmxTc3RtSDhyVDY3ZjlYbmZsZTdtRXRnR0xPS1llV1M5c1FESlBlM0pTckhGbkp4M19td3ljbWd4RlVjdFpybHFLMXBnOVo4TExNa1l0elpIMEZVQ0JaajV2N2xRZzF3Y0pqa284TW5sSXJNbVRHTzIzdzdjcDJlR1k5bS0wa3V3eWE2MzU1a0xiVHotamlpN2xwaHA1c3NyQTU0TDB0UzhVbHd5ekdheGZVa1ZtMUZPREkxTG5nVk11M3YzSkhVcTJYZnBrcUlxVW5FQnBBQWRZSlZQWDdhWXltZWgzMVdMSTJ4Z0pWaUd2T1EtMC1XTFBOdWZfTWRXOTMwWVJyOThyWTV1cGRuMmQ2REoxVzB1M09kSnlXVkFoOUR3dVA1N1o?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-08 22:00  (7 条)
+
+- **王一博** | 王一博作词人是谁？王俊凯新歌《破晓》幕后填词人身份揭秘，同名≠顶流合作 <https://k.sina.com.cn/article_7879776328_1d5abd84806801yzti.html>
+- **王一博** | 王俊凯新歌《破晓》作词人“王一博”是谁？同名乌龙1小时阅读破2亿，幕后填词人身份与艺人王一博有何区别？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801yzwc.html>
+- **特朗普** | 特朗普：将授权海外生产“爱国者”供乌使用 <https://news.google.com/rss/articles/CBMieEFVX3lxTE5sa0pkNHBWTDZWNktxdEFCU2Y5Vk9aOFdaZS1BUE9Qc1pNZjJSRlBvN1JRX0VQTjktQzNPOElvTlV1ZkhQNE1mT3NPM0RiWHhLWHFTaHYtU0czTTRjSEFDRHI3V0I2OWJ1dXlrN1VUWUxCUWdmU192ag?oc=5>
+- **特朗普** | 美国法官下令特朗普向作家卡罗尔支付500万美元损害赔偿金 <https://news.google.com/rss/articles/CBMivgJBVV95cUxNZUJRSUlSZEx5Nml0M1F0VXduaUhKaUFpVGdHdURLT0JhczduaFFVdHk0WE02Z0ZSRThjUTNSeDU4ZlRYMzllVWZDWUpXR3JqS0hPSHNzdHhSY0hvRF9PWlBWUElEVWk0YW5DUUFEOFR5aGxvVV92cGp3N0RJRTA5Tk54T3h0MnJSTS1EOVVQWFBQMzRqYThQSi1faTFWSWRUQmZYSzZ0dUVUT19Zbi02WEVkVjBxQW5PWVNCVFp6ckt1MlFXMWJHZTM3SDFjZHQyZXhIM3JEZ1M2VGFlZ2ZmakswdnlmNnU4TndQZEVOUjBRTEhCYkdHMFRrcW95U3l1Nk1yenpTRXBqbWpOZzdVamwzT1Y5ZFRPazBLb1kwWE9hMUNVQ3dnUGlPemRBdVJVNlBMNFZ6RWtqNHZZYVE?oc=5>
+- **特朗普** | 特朗普会不会阻止美西贸易？ <https://news.google.com/rss/articles/CBMi7wFBVV95cUxQSnpwWmoyTkpPRmlWMVZfMzdFMUUyLXhWV0UzZHZDYVA3SGdaNHVtbXpSQ0xVaFpRZzRYWnYwZzEwX0lrWDhDT3F0Mm5SSTR5YkF4V2x0X2xqek1WU3ptOTE4SFVwRzRPUjF3ZXpSbWo0WmEwQ2JFeno5SUhQNlVhVmdXbjVMMUdpMUE5RFQ2TlBLRmxXa2lhY2g1UWYtYXlmVXNKMjZKMjNvcWcyRE9raVVBSkFiWFRGLXFXdEluM0JKczZfTno1YUF4OGFwRjB4ODd0S05yNDFwdjVMaWJxSHFDQzJ1TzN5WVJuVWRUMA?oc=5>
+- **Trump** | U.S. Stocks Mostly Lower After Trump Threatens to Strike Iran, Declaring Ceasefire Over -- WSJ <https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUGstODduTk9NM1NSOVlWZTJPeld4NFJFZTN4ZGJnWUJJU1NMdVhEcGxTckxJbmRFWHRHcTlRazhNNG5VWmsyMlJmQjZUTnhRSWpacXFTcV96eW16Y3hZYTFYaEt1d1lYdmRnSEdlS2puZnF6c3lHMG92TkFHcGV2dkcyTEJsdWUzX2NTZmNPLUdLMklIcmJxbDM1dWtUTGpCZmdzQUVmRUxRUQ?oc=5>
+- **Trump** | 特朗普希望美国留在北约 好向盟国卖武器 <https://news.google.com/rss/articles/CBMiuAJBVV95cUxNcFZCZ19yYUcxWGJwNm5mNmxTc3RtSDhyVDY3ZjlYbmZsZTdtRXRnR0xPS1llV1M5c1FESlBlM0pTckhGbkp4M19td3ljbWd4RlVjdFpybHFLMXBnOVo4TExNa1l0elpIMEZVQ0JaajV2N2xRZzF3Y0pqa284TW5sSXJNbVRHTzIzdzdjcDJlR1k5bS0wa3V3eWE2MzU1a0xiVHotamlpN2xwaHA1c3NyQTU0TDB0UzhVbHd5ekdheGZVa1ZtMUZPREkxTG5nVk11M3YzSkhVcTJYZnBrcUlxVW5FQnBBQWRZSlZQWDdhWXltZWgzMVdMSTJ4Z0pWaUd2T1EtMC1XTFBOdWZfTWRXOTMwWVJyOThyWTV1cGRuMmQ2REoxVzB1M09kSnlXVkFoOUR3dVA1N1o?oc=5>
 
 ### 2026-07-08 20:43  (6 条)
 
