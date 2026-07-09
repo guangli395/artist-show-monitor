@@ -1,66 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-09 21:54**
-- 本轮扫到 6411 条, 新增 **7** 条
+- 最近更新: **2026-07-09 23:05**
+- 本轮扫到 6416 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (5 条)
 
-### 王俊凯新歌《破晓》作词人惊现“王一博”!同名同姓引全网乌龙,真相竟是……
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923015_1d5ae154701901ecn8.html>
-
-### 王俊凯新专辑作词现王一博，原是同名乌龙！
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801yxik.html>
-
-### 王俊凯新歌《破晓》作词人“王一博”是顶流合作还是同名乌龙？一场误会如何引爆3亿阅读量？
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801yxrg.html>
-
-### 午盘：美股继续上扬，芯片股普涨
+### 北约秘书长马克・吕特一味讨好特朗普的策略内幕
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-09 20:55
-- 链接: <https://news.google.com/rss/articles/CBMi_wFBVV95cUxOZS1zOUdtZE5vM1hkdlVyY2RDQWozN2tjdFVUZTExZkY3YnFhM1pzdlI0TGNaTTRZTGhqS2c1WDdBc2ZFMFFPaXQ3WTNrbEd6eVc0N2tkQTR5aTdWV2ZqbFFHQkhYSUROSkRWeEdqUzR3VFNRUDdnakQ2UzRvRU1PQjQyeFhRTFpQZnR5TzQ2djhCZWVfams4YnJwLTN2ekQ3UTM0SnVZdm4xSDZkMlk0RGRiZGtrSVVyZlJKS0Y4UzhoUm9TZ1BfNVlsX3h0U3VaRERaQnh2S2h2X3JiemtvYXRYckZRMHQwNGY3ZG5abXBpXzFuSElsV1BPcExPOUE?oc=5>
+- 时间: 2026-07-09 12:22
+- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxPeDdha1VqWERmYTdsZnpLWmxDUTJfdkpERko2LUhPVVpoNmVqVS1BYVAyQlBiTGN1LXZ4dTAwb25DeDNaRTJMalRscFlRLXh5WXMwQV9xVVJXdDBiOXBlTUliLVlvRFhpeXZfcVFlZWtjT1VteENLMGgzRldxSFBYNWtmN2FWMGZkN1E?oc=5>
 
-### 特朗普和FIFA一合计，“全世界都在笑话美国”
+### 特朗普北约峰会上公开发飙，幕后态度却180度转变
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-07-09 02:05
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFB5Yzg2TnBWQ0pJYldCcG1pWXM1TGJnRFV0RjJkNDFsQTFzN3kxeFRmWEVqYnU3bGZQU3NzUUloQ2U0T1JkUzZWNWdIelk?oc=5>
+
+### 美伊局势紧张，特朗普往返北约峰会行程中临时换专机
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-08 08:37
-- 链接: <https://news.google.com/rss/articles/CBMi0wFBVV95cUxNT1hvVFhfekhTYXFpVVRsSkVGcFRZeVBxcW1QcXhvbTBVa0lROE4zMjdQcGVoX1htTHoyd0tPaHFkNk9YY085UzFUWGxlSlo5YUFaRXp4SFNDQktOYWpaTXZPUGxSV2EzeFZZVDdIbjQ5V1FqZzFTZFhiQ29jaEtQaGItdTNJZEFSRFNHY1RubUhmMXVmQkxKTHN1YUVpaXhzTnoxZjZ2M2IxLUF1cmJnVGpUcGZQc3NKWXc0OU5hUWljcDlZVHpzRUZxWEhDT3I1WnJV?oc=5>
+- 时间: 2026-07-09 23:03
+- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxNdUZodEhSQzZ1U1dzblFfRTBUc0hJb00tUTJuRkQ0b3hOWUZlU2Z3TkxzSHRCM1lIRlFOenFaRkxOcEZTRFNINW5MbVZnNHZwMTJhcm5qVWI5NllnRVBCQW9EU2FzdXJySFV1Q0g0X21KQUt2Y1NNV2o5WHpWZ1NFY2Q4MA?oc=5>
 
-### 美股收盘：特朗普一句话挽回跌势 阿里巴巴闪耀全球市场
+### 国际油价大涨6%金银跳水！特朗普一言引爆全球市场
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 财联社
-- 时间: 2026-07-08 22:41
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE11SWU0T3dxa2RYTEJiNy00M1IxdzQxODV0Ymlwb1d0T2NpSll0SXNSUHVhcEFkUEpUYVpidjI0RzlHUXlzY2pQWA?oc=5>
+- 时间: 2026-07-08 21:32
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE9SSUZDblVFMnBjNThGd1FFT0FYUUR4VEVlY1VyNzRiQ1o5d1p1d2dfOUs1N2tuS3BtRVB2YVN2RDk2dXlOS1VVYg?oc=5>
 
-### Perpetuals.com in Talks to Buy Payments Business From Trump-Backed AI Financial for Around $15 Million, Says Source -- WSJ
+### 美国贸易代表：特朗普可借助此前关税案所依据的法律切断与西班牙贸易
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-07-08 10:11
-- 链接: <https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUXNUMVRnSF9CbjJZYTJBT19rSEcxQzlBV0N1Z0dIM0JpMlViT2tBQzNIRjhtbUJEck5ac3dnbjBYVmJFb1N1bFhpdlV6X2l1MW9Za2RONFQzVm1SSEVlMkVhNC1pTTBQamUySDJoZExXMjkxQnk1cGgxMjJQQnZHM3FWQU5jZlFVZTBuRlN5cEo3eVZUOGdVdkltZkpFdFJXZHBzUm1EVlRWWEZhX2dSQ1M3Rkk0UmlhNVlKVWFmLW01cV83YUYwYWFfaDRlOG92eVV4Wm1mcXZ1UmI5QUFubA?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-07-09 15:51
+- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdVhJNW8zUXNiYTQ0Y1VMNDVlVDE0TXNpelIyLWhUVkt1QkU3VGREMW4tNndOTE4zMDQ2anAzMmFFd0pZZkEtcTBhZ0pkaXVYQVJXa0lzRzQ4bDc5UW5PQ0ktUHFzUzBiRm93WVJKMHRnWXhMeHREblFIMFdTN0FlN09uQ0ZGN1pTNXN4UHRyRWVIbk5PdGxxVmtub3k3eXFLdV9YVmlKYU1WUTl1YWs1a0JmN0xPV0VyVzB5NkpHYlpSeEhnUWpBbFhkWUIyWGpGckNOSEt4YlJDNFVwSXc?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-09 23:05  (5 条)
+
+- **特朗普** | 北约秘书长马克・吕特一味讨好特朗普的策略内幕 <https://news.google.com/rss/articles/CBMiigFBVV95cUxPeDdha1VqWERmYTdsZnpLWmxDUTJfdkpERko2LUhPVVpoNmVqVS1BYVAyQlBiTGN1LXZ4dTAwb25DeDNaRTJMalRscFlRLXh5WXMwQV9xVVJXdDBiOXBlTUliLVlvRFhpeXZfcVFlZWtjT1VteENLMGgzRldxSFBYNWtmN2FWMGZkN1E?oc=5>
+- **特朗普** | 特朗普北约峰会上公开发飙，幕后态度却180度转变 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFB5Yzg2TnBWQ0pJYldCcG1pWXM1TGJnRFV0RjJkNDFsQTFzN3kxeFRmWEVqYnU3bGZQU3NzUUloQ2U0T1JkUzZWNWdIelk?oc=5>
+- **特朗普** | 美伊局势紧张，特朗普往返北约峰会行程中临时换专机 <https://news.google.com/rss/articles/CBMigwFBVV95cUxNdUZodEhSQzZ1U1dzblFfRTBUc0hJb00tUTJuRkQ0b3hOWUZlU2Z3TkxzSHRCM1lIRlFOenFaRkxOcEZTRFNINW5MbVZnNHZwMTJhcm5qVWI5NllnRVBCQW9EU2FzdXJySFV1Q0g0X21KQUt2Y1NNV2o5WHpWZ1NFY2Q4MA?oc=5>
+- **特朗普** | 国际油价大涨6%金银跳水！特朗普一言引爆全球市场 <https://news.google.com/rss/articles/CBMiSEFVX3lxTE9SSUZDblVFMnBjNThGd1FFT0FYUUR4VEVlY1VyNzRiQ1o5d1p1d2dfOUs1N2tuS3BtRVB2YVN2RDk2dXlOS1VVYg?oc=5>
+- **特朗普** | 美国贸易代表：特朗普可借助此前关税案所依据的法律切断与西班牙贸易 <https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdVhJNW8zUXNiYTQ0Y1VMNDVlVDE0TXNpelIyLWhUVkt1QkU3VGREMW4tNndOTE4zMDQ2anAzMmFFd0pZZkEtcTBhZ0pkaXVYQVJXa0lzRzQ4bDc5UW5PQ0ktUHFzUzBiRm93WVJKMHRnWXhMeHREblFIMFdTN0FlN09uQ0ZGN1pTNXN4UHRyRWVIbk5PdGxxVmtub3k3eXFLdV9YVmlKYU1WUTl1YWs1a0JmN0xPV0VyVzB5NkpHYlpSeEhnUWpBbFhkWUIyWGpGckNOSEt4YlJDNFVwSXc?oc=5>
 
 ### 2026-07-09 21:54  (7 条)
 
