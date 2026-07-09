@@ -1,75 +1,87 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-09 02:24**
-- 本轮扫到 6336 条, 新增 **13** 条
+- 最近更新: **2026-07-09 06:25**
+- 本轮扫到 6351 条, 新增 **15** 条
 
 ---
 
-## 本轮新发现 (13 条)
+## 本轮新发现 (15 条)
 
-### 24岁歌手王俊凯新歌《破晓》署名引乌龙，为何同名“王一博”让全网集体误判？
+### 王俊凯新歌《破晓》作词栏为何出现王一博？
 
 - 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801bi9a.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801z5fo.html>
 
-### 蔡徐坤新歌MV精准卡点Jumpstyle舞曲节奏
+### Music派·新歌速递丨王一博新歌《像阳光那样》上线
 
-- 艺人/关键词: **蔡徐坤**
+- 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1502793162_m5992cdca053013cfu.html>
+- 链接: <https://k.sina.com.cn/article_7879848924_1d5acf3dc01901h8i4.html>
 
-### 黄晓明看周杰伦演唱会夸昆凌是“天使”还直言羡慕!网友:你也曾拥有过
+### 王俊凯新歌《破晓》里的“王一博”是艺人本人吗？
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801z3p0.html>
+
+### 王俊凯新歌《下一天》邀周杰伦御用编曲林迈可十年后再合作：深度还原周氏情歌还是情怀噱头？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879848923_1d5acf3db01901e38i.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801z6r2.html>
 
-### 王俊凯新歌《Badi Badi》发布，高能劲舞曲引爆期待
+### 王俊凯新歌《下一天》深度还原周杰伦风格？十年后再联手御用编曲人林迈可，音乐闭环如何实现？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2818008641_a7f7664104001e75k.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801z6o2.html>
 
-### 特朗普：将授权乌克兰制造“爱国者”反导拦截弹，以后别再说我给的少
+### 周杰伦请王俊凯完整版怎么回事？王俊凯新歌《下一天》由周杰伦御用编曲林迈可操刀，十年音乐闭环完成
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801z4iq.html>
+
+### 意大利：不会再理特朗普的挑衅，他热衷于挑衅
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-07-08 23:32
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1GekZudUZvaFRBZ2Y4c1RlRHhlVF9PNVkwQ1l3VzBvMFNxemd6MGpOWXJWazhCTzZvLWpiUElUR0M3d2RicnlwdFJJQjNGeS0za1d4ODFPUm56SjNpeTVua2NmelU5czRaUWc?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-07-09 05:51
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE9UdEx0YW1zY1l2ZTNmaExOTENPa1RSc2pyYnEtMnRsbERQU25TbzkzMkxUZVBqUjVOcU55ekVpbWYtNnJpMEtIZ2lVa2otRlZBR09tOXVSUEFkLU1pQUNiMEVHZmoyZm1IbkYyTDdCYWVCZw?oc=5>
 
-### 特朗普在北约峰会期间的讲话要点
+### 意外长：不再回应特朗普挑衅 避免盟友争端升温
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-07-07 09:08
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Ub0duSnp2MGF1V1hhNi1rT0pORGplUTYzemNHbUxObVRBWW52VzdiQU1SN3MweDdFNnNnUzc1WVZlaWNqR2pVRjE2NlVPWVJqeU1XSkx1R010WmFKSTdKSXNVSk9vdw?oc=5>
+
+### 特朗普称赞泽连斯基 表示将允许乌克兰生产爱国者导弹
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-09 00:42
-- 链接: <https://news.google.com/rss/articles/CBMimwJBVV95cUxNRExBN3loQ3IzbENrXy1tMHg3dXBCeEMycXJWbmNpeUo2ZFdjWHpTOFE4blN2TER6LTl6bUtOTWFTNTEzYWxHOURrYVNnclJWdHN0Z1dHRWVDWmpIa0JtR1pIUEthWEpXWExiMmpoM0lBbTI4c2swYnRwRjBpd3pQaW5QNmVyMEFSckRndENoQ3RLejBoR1BIdmlvc0Z0d2pScjhqTnJiZEtsS3lOS0RTZDRaVmNpV19UWG8zcTNlWjJlUEtvbmx3cGh1Q2ppQTRNMGpnUzNjdUZyZXlxNDZKQ2lFRjBKYWtZN1h1cUhCbkhWdUVnS1lmOWRrLUNpWUtleWFqY1VnR1p4YmVNYk1oZk15bk0xcmNaOHlz?oc=5>
+- 时间: 2026-07-09 05:15
+- 链接: <https://news.google.com/rss/articles/CBMinwJBVV95cUxPWEtlVGtqTllFbFIwakJUOThOZ1RBYTJ6QjBCYmdvRXlybWk0Sno0OWxnR2NfaXZzaE9oYkhRWDZBVGtoZ3FpSTRZMzlieExfZTIyaWtOelVZOF9ITGdJRWMxTlpwRGpSTzZfRWhMU3ZiTV9temVfeTg1ZmV2cXJBWnhJMFVsNzQ0bDhQVDZPTGtzeEVwb0VXOGRZLUR0d2YxclNPRTVUVEQ3UUNNa0ZUUTY0cTJCclVvS0NObml4ZTUteXV3Yzk3bjcxd0FwUTJ6VDdUcENXYW0yVW9vV3B0SmVyTXVzdUdqZ2FpY3Q3R2RqakZXYmJndXNwaU5XLTV6TlRTUThOX3Y0d3J3aURnRUJIU21VVWhVZEhkRFdtWQ?oc=5>
 
-### 特朗普总统北约峰会后记者会 (同声传译)
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-07-08 19:00
-- 链接: <https://news.google.com/rss/articles/CBMitgFBVV95cUxPSVg1Q3dteGpQYTBmRW1aRzZZUTBBM202N295WDRremJzb1liSzRORlB5Umo5dUFVMk5VaHFJYzhqbVFhR3o1VHpqdjJpZkxQNjNsOUdma2t3YWFzTjNJY0VqeUFFMXhndWxVa2dlS3hPYTRFT0pIU0c3ZEs5cWxpVTNVaHpYQXFJZzFHSm5oOFZ2OXIzX0tEQXRSeWRGbk02aG9GR21QRXhwaTFmT2huWFdERE5UUdIBuAFBVV95cUxNZi1uS21PSGYwSXBfTHRIeWw2RTFaWF9mTEtQTHZNNDFFa1d1TndlRXJUcjlGSTBJQldlNnlTMjRZVnBkRjkyTkQ5VTdUOWJ3RjlzYi1qc2ZHdVFYdDZNeTVobDVOVVNZNE5NN0VnSWlVb05tcnNOemViMms2OGxySGtEX0ltZEJBV2labG1TZ3ZGSmFuNzY4SHlvQm5QX0dxNlhCSG1SMzdSVUVyM08wMWRsa1JxTUJl?oc=5>
-
-### 特朗普再威胁撤出欧洲北约盟友忙想招儿--国际
+### 专家解读特朗普借格陵兰岛谋霸权 控制战略通道
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 人民网
-- 时间: 2026-07-09 00:45
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTFBvY2FTdUtzd2dwUk0tRFpJcWpHUkxUTnFhZ1FvdnhFLV9GZ3NEeWRFdmJoR21PM1oxaXpFRTBid2NEQWg5bUdQOTMycGx1VEhJU0pTZE82cC1KempwNFQxNG8tajRzRFhhMEFF?oc=5>
+- 场馆: 中华网
+- 时间: 2026-07-09 03:49
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBEYnNUX3hiTi1hdnAxckdJOU1taml5cl9RZlYycHF1dVhhNlQzNGNiWUVLWG1NV2pIemlHaEdXWGJ3TjU3Ung4VVBnZHdmRVVNTzltWC16OC1xTll2SFRLaHBvcTVwUG9FUmk0aktaSlQ?oc=5>
 
-### 特朗普点名批评章家敦，释放一个明确信号
+### 巴西对华贸易，特朗普“推了一把”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-08 23:15
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5FZEJGZXo3UVhsOFhOZG5xaTVZMWlMcXpoM3VVU2F6SDdyb3BxM2xMZnVuMFhCQzNmSFdSTlFnWERYY1ZoTGUxQ0h3Tmg?oc=5>
+- 场馆: 观察
+- 时间: 2026-07-09 03:58
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBLM1c4eGhMZ05OUm1ORVdNREdlUXlwcE9Ba3RtTzVEbUUwY2NpOGFRRHhCOUFxQ0xfTkpka0lLak8tdllOd1lYRjY1aHYzMGp2bzE5ZjBidU1MOVZaREpLWU9BNW9CTUJ0Nnc?oc=5>
 
 ### 特朗普和FIFA一合计，“全世界都在笑话美国”
 
@@ -77,36 +89,54 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-07-08 08:37
-- 链接: <https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbVVKR2dra29Cc1BmQkxheDI2ejR2clNZT2E4UEFWZno5OGtMSl95cDcxaktJbEVQLXlyTEVIUVFxWHFjcmZtbmgzdkFUSkN0TDV5MDVXQ282VGVvLWpMa2tGS1JvbmdIYmtZaUZ2LXNsaFJmaVFaQWN4cjFEOThwV05IUXNVcGdJVXBUMFgtWFNicmJxd3NKeFd3S0JubWhTbGJXc2hmYjNRZHY5ZlhkWUc2SXBhbFlUQUJKampEQU1IdXpIYnVKNk1FN2RvZGpYcElz?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWDdadDBSal85S0lHR3hibDlZZDA3MHN5eDRoVW9WY05hcGpIWmpqWEtiRUc3YnpIVi1uTUVOUUs2dHZ5YVZwT2RPSTBWR0hCVm1kajdyUW1DR29DN1FlRGVtXzVNdlJsdlZRaFUtbFJRb3A4RS14MnV3QTFDTTRvemdCU1M5dWtUM0FhNXRyRzJLYnBqN3E5VGlwYXhwcVVSS3VsYnp4V0ZtY3FnU2pXbGdtalM3c1BlVFBXWi1sSGN6WHo0Z0prWGNDTkpjdkh0dURCVQ?oc=5>
 
-### 美媒：特朗普称，美国是否进一步从欧洲撤军“取决于格陵兰岛”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 环球网
-- 时间: 2026-07-08 11:15
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE1nbVdFRTBpZDlXU0dCclFSVWJCVG5MRDlLVGowMFlvMG9hXzRYSkx5eHVLRHVNd3gybVE2ZHFpU0ltMzdicnR0ME0xVGZRUlBxR3VlX3NuMk4?oc=5>
-
-### 特朗普介入世界杯红牌，美欧关系阴云再现
+### 多家媒体：比利时进球后众将跳"特朗普之舞"庆祝，疑似嘲讽特朗普
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-07-07 03:39
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE05Z0tPRHB3emNULWF0V0U4UVEzRnJUR05iRXVRSVh5Ukdzd01kWlMtS2tKVUxYNkowRFZ1aERiYVFzeTdiNnNUS3FMLTd1eS1oRUg3QmJvQkhDcmdYNkh4elJXWkRzaUxVcFh0aXQ5M2lBOUtz?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-07-07 07:45
+- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ0o3clpwR09nUHhMUlBRQkF5ajFCczZKX3g1dVdIcDdsSUt2c3c0WkVtWFJPVGZZMnluSllKZ2xRUWhWSk9YN2tKOFAzU3ZSZHNzMk0wcGZQbW0yU3BiYm40RHRPSno4cGY2dHgzY3NtcUo3dThPbTh0NFFxVHBPbENNRGF4NXRmVEJLeTFtU3p3SlFkcXFQQQ?oc=5>
 
-### 特朗普虚张声势再多，除了与伊朗谈判别无选择——BBC编辑鲍文观察
+### 特朗普2025年个人收入超22亿美元 加密货币占比64%
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-07-09 00:12
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CVU9nSnBRSkxBbW1zYVNkcWFZbnBGODBWX3Y4c2xDMVVRU211YzVCcVhJZ3B4NEpDa3RGQ3YzdEV5WmswTXc5M2xnUzJkZGdHbGtjSkRVbDJYbVNTaVBYUXpXX2F6Z9IBa0FVX3lxTE5sbm9rZUFUSEZ4Tkhpak8wOWUwTkpmRVpHVm9UWTlYUnZpUXd2MG9MZ0Jsc1l3OXpINWZIbFlXN25TRDU1YTFBNHZ3TmhYWWlEbnhDenhLeE05SGxBLUZOR3RTQ096U0VsRWNR?oc=5>
+- 场馆: 虎嗅网
+- 时间: 2026-07-09 02:14
+- 链接: <https://news.google.com/rss/articles/CBMiVEFVX3lxTFBaMjY5b3I1ODdnUFZ6UXIyZUJOVVFhcjBvWUVhSDEwRWJrWnoxdTJHa1NwamQ3V0RNTjkzdVFpbjU2MVRLNzJaM20yOExiaVAxSEZ3dw?oc=5>
+
+### 特朗普突然换飞机引猜测，伊朗官员：本可以打击他本人，但没动手
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 腾讯新闻
+- 时间: 2026-07-09 01:12
+- 链接: <https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iR05Ubjh3TDVSNmRsV3FmdGpIT2QyNk1FRTJZenFkc19xWVpsZ3BNZDNfdXozNWpySHlfYVJWUF9FN1lVYnNNR3daTnFoUG1PZktYYVdkWQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-09 06:25  (15 条)
+
+- **王一博** | 王俊凯新歌《破晓》作词栏为何出现王一博？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801z5fo.html>
+- **王一博** | Music派·新歌速递丨王一博新歌《像阳光那样》上线 <https://k.sina.com.cn/article_7879848924_1d5acf3dc01901h8i4.html>
+- **王一博** | 王俊凯新歌《破晓》里的“王一博”是艺人本人吗？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801z3p0.html>
+- **周杰伦** | 王俊凯新歌《下一天》邀周杰伦御用编曲林迈可十年后再合作：深度还原周氏情歌还是情怀噱头？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801z6r2.html>
+- **周杰伦** | 王俊凯新歌《下一天》深度还原周杰伦风格？十年后再联手御用编曲人林迈可，音乐闭环如何实现？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801z6o2.html>
+- **周杰伦** | 周杰伦请王俊凯完整版怎么回事？王俊凯新歌《下一天》由周杰伦御用编曲林迈可操刀，十年音乐闭环完成 <https://k.sina.com.cn/article_7879776328_1d5abd84806801z4iq.html>
+- **特朗普** | 意大利：不会再理特朗普的挑衅，他热衷于挑衅 <https://news.google.com/rss/articles/CBMickFVX3lxTE9UdEx0YW1zY1l2ZTNmaExOTENPa1RSc2pyYnEtMnRsbERQU25TbzkzMkxUZVBqUjVOcU55ekVpbWYtNnJpMEtIZ2lVa2otRlZBR09tOXVSUEFkLU1pQUNiMEVHZmoyZm1IbkYyTDdCYWVCZw?oc=5>
+- **特朗普** | 意外长：不再回应特朗普挑衅 避免盟友争端升温 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Ub0duSnp2MGF1V1hhNi1rT0pORGplUTYzemNHbUxObVRBWW52VzdiQU1SN3MweDdFNnNnUzc1WVZlaWNqR2pVRjE2NlVPWVJqeU1XSkx1R010WmFKSTdKSXNVSk9vdw?oc=5>
+- **特朗普** | 特朗普称赞泽连斯基 表示将允许乌克兰生产爱国者导弹 <https://news.google.com/rss/articles/CBMinwJBVV95cUxPWEtlVGtqTllFbFIwakJUOThOZ1RBYTJ6QjBCYmdvRXlybWk0Sno0OWxnR2NfaXZzaE9oYkhRWDZBVGtoZ3FpSTRZMzlieExfZTIyaWtOelVZOF9ITGdJRWMxTlpwRGpSTzZfRWhMU3ZiTV9temVfeTg1ZmV2cXJBWnhJMFVsNzQ0bDhQVDZPTGtzeEVwb0VXOGRZLUR0d2YxclNPRTVUVEQ3UUNNa0ZUUTY0cTJCclVvS0NObml4ZTUteXV3Yzk3bjcxd0FwUTJ6VDdUcENXYW0yVW9vV3B0SmVyTXVzdUdqZ2FpY3Q3R2RqakZXYmJndXNwaU5XLTV6TlRTUThOX3Y0d3J3aURnRUJIU21VVWhVZEhkRFdtWQ?oc=5>
+- **特朗普** | 专家解读特朗普借格陵兰岛谋霸权 控制战略通道 <https://news.google.com/rss/articles/CBMicEFVX3lxTFBEYnNUX3hiTi1hdnAxckdJOU1taml5cl9RZlYycHF1dVhhNlQzNGNiWUVLWG1NV2pIemlHaEdXWGJ3TjU3Ung4VVBnZHdmRVVNTzltWC16OC1xTll2SFRLaHBvcTVwUG9FUmk0aktaSlQ?oc=5>
+- **特朗普** | 巴西对华贸易，特朗普“推了一把” <https://news.google.com/rss/articles/CBMiakFVX3lxTFBLM1c4eGhMZ05OUm1ORVdNREdlUXlwcE9Ba3RtTzVEbUUwY2NpOGFRRHhCOUFxQ0xfTkpka0lLak8tdllOd1lYRjY1aHYzMGp2bzE5ZjBidU1MOVZaREpLWU9BNW9CTUJ0Nnc?oc=5>
+- **特朗普** | 特朗普和FIFA一合计，“全世界都在笑话美国” <https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWDdadDBSal85S0lHR3hibDlZZDA3MHN5eDRoVW9WY05hcGpIWmpqWEtiRUc3YnpIVi1uTUVOUUs2dHZ5YVZwT2RPSTBWR0hCVm1kajdyUW1DR29DN1FlRGVtXzVNdlJsdlZRaFUtbFJRb3A4RS14MnV3QTFDTTRvemdCU1M5dWtUM0FhNXRyRzJLYnBqN3E5VGlwYXhwcVVSS3VsYnp4V0ZtY3FnU2pXbGdtalM3c1BlVFBXWi1sSGN6WHo0Z0prWGNDTkpjdkh0dURCVQ?oc=5>
+- **特朗普** | 多家媒体：比利时进球后众将跳"特朗普之舞"庆祝，疑似嘲讽特朗普 <https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ0o3clpwR09nUHhMUlBRQkF5ajFCczZKX3g1dVdIcDdsSUt2c3c0WkVtWFJPVGZZMnluSllKZ2xRUWhWSk9YN2tKOFAzU3ZSZHNzMk0wcGZQbW0yU3BiYm40RHRPSno4cGY2dHgzY3NtcUo3dThPbTh0NFFxVHBPbENNRGF4NXRmVEJLeTFtU3p3SlFkcXFQQQ?oc=5>
+- **特朗普** | 特朗普2025年个人收入超22亿美元 加密货币占比64% <https://news.google.com/rss/articles/CBMiVEFVX3lxTFBaMjY5b3I1ODdnUFZ6UXIyZUJOVVFhcjBvWUVhSDEwRWJrWnoxdTJHa1NwamQ3V0RNTjkzdVFpbjU2MVRLNzJaM20yOExiaVAxSEZ3dw?oc=5>
+- **特朗普** | 特朗普突然换飞机引猜测，伊朗官员：本可以打击他本人，但没动手 <https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iR05Ubjh3TDVSNmRsV3FmdGpIT2QyNk1FRTJZenFkc19xWVpsZ3BNZDNfdXozNWpySHlfYVJWUF9FN1lVYnNNR3daTnFoUG1PZktYYVdkWQ?oc=5>
 
 ### 2026-07-09 02:24  (13 条)
 
