@@ -1,74 +1,58 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-09 18:16**
-- 本轮扫到 6399 条, 新增 **8** 条
+- 最近更新: **2026-07-09 20:15**
+- 本轮扫到 6404 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (5 条)
 
-### 蔡徐坤《What a Day》MV舞蹈如何实现硬核卡点？
+### 王俊凯王一博同名乌龙？王俊凯新歌《破晓》作词人实为幕后填词人，粉丝为何不撕架？
 
-- 艺人/关键词: **蔡徐坤**
+- 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801zj2g.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801zkos.html>
 
-### 蔡徐坤新歌MV适配Jumpstyle，二创封神全网刷屏！
+### 王俊凯新歌《破晓》的作词人王一博究竟是谁？
 
-- 艺人/关键词: **蔡徐坤**
+- 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801zj22.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801zkja.html>
 
-### 王俊凯新歌《下一天》与《树读》十年音乐闭环在哪听？周杰伦御用编曲林迈可二度操刀，完整歌曲合集免费收听指南
+### 周星驰《女足》票房破2676万，周杰伦献唱主题曲，张柏芝惊艳
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801yzf6.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019081e44.html>
 
-### 美国法官下令特朗普向作家卡罗尔支付500万美元损害赔偿金
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-09 17:28
-- 链接: <https://news.google.com/rss/articles/CBMinwJBVV95cUxQTE40TUhDcUt6VWtwRHIzMzV6U2xVendCQUxFd1FUX0RVODBZZnRsWmVUNU9BdG9LMEZGSDZnbzItbEx0dkJSZFNjbXFEQmZXdUZxbjBOT2NHaGp3cWNPQjI4NnotbDNIRHJVY0JXUmd0d1k3aFNYckJDYW9ua3BHdVlTQnR2OWF4TjZnMU1DZ1I0b3JaTDFFRkt3ZnVXdEx1OWptUUhRM0wzOEV2VWJ0akRqaXZLaE9naXFiMVd0eEpvUk0xY1Q2SzQ2RU02X2Z5a2szVTV0U0JUMWU1eFlUQnBGN1lUWF9ad2trT3FnZnFvTzFldWdQbkpqQjRVRXNWcU1zN29ENlFJTlFBZmVGUFkxeDcwRE9IRzVuS2FqWQ?oc=5>
-
-### 美国贸易代表：特朗普可借助此前关税案所依据的法律切断与西班牙贸易
+### 特朗普和FIFA一合计，“全世界都在笑话美国”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-09 15:51
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxPTXdrRDJNa0wtSUpTRVJVdlJ2ZmRTWXRCcThMTVhhTGpHcDVKXzEyUWpJUnFJeXlxc2dzZFJ1V3Judjluc0NkQl9sVnU3VWRHS3dDNk9JcExGd055NkllQlkwQXoyQjJWV0FDTlplT2c1QUN1c2lVVTZtQ1htN2hGT1ZVMFJ1UTQ?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-07-08 08:37
+- 链接: <https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUEs0UDV3WUhya29WQkp3Qkg2V1JraUZCU2pkZ0sxTVFBeUFGaU04dVRTeDJfS2pkQlFEb1VJRFl5eVlzTDdTMWdKZk9qb1dZX2NNWXk4U1RJeHFkZF93Y0x5QmEwd29ZSEpBQ3F2Sm5BbnNudll5UXpSYWZ2b0xSTWdPaWgyR25WdVZxcVRCOTRfRHNCeVlqSVZpT05pblBlSUNySEFzdnE2VXVoa0t6bk1SeDktRlFGanB3b05kQ1l4TW5hTVJzcGZPQjFJdnNwMUtn?oc=5>
 
-### 特朗普北约峰会批评西班牙并重提格陵兰问题，后称联盟高度团结
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-09 16:33
-- 链接: <https://news.google.com/rss/articles/CBMijwJBVV95cUxPdGRTQmRLNE9ibXhjZXJNcnVtSVZ3ekFxQm90UXNwVURVOTkyVzRTSXQyeTBfT2pweXhqYnFBSjlfWkxLM1ZoWXlwZmNvU3JOdWxWSjExV2UySnZMVi1SX21kNGxhZXVlM2hhRk4tenBXZWtURmRITlk5NkFVS052UmU5U0RUYzkxcUhXdHJSM1liSjNoZEt0S0x4cF9nRXlwaFdsODVvRFNoSk4zT25KUUo4a2VCTUZIREJSb1l4bHdrZUVxTzBfV2FFVDlhMURDbDZmOXlzSG5SZDlBRkJNRHBmdWR6M0o0QU9pZGVHNmtBeE01b2c2V0pYNUNCNHRWVnFaY3JiWmZONnZ1U3Qw?oc=5>
-
-### 政治新星、“民主党版特朗普”，涉性侵丑闻“塌房”退选
+### 特朗普离开北约峰会时为何不坐新的空军一号？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-09 13:42
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1hbmNUQ1IxRlhXOElzZl82NXBIdmtKOTFJbWdVRWJxUm5qRjVxWk5qR0R0aWNkV0lfbXZBRXloR2RFNUk1VWZJREt3eVY?oc=5>
-
-### 美国行政当局通知国会，计划将叙利亚从恐怖主义名单中移除
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-07-09 16:20
-- 链接: <https://news.google.com/rss/articles/CBMiygFBVV95cUxNNmJ5SUVNaGlGaW9MSk5KWG9IdUFUY2lNWmFqVjFqV19CT25jOE9fcEFMY1U0UlIxamFiWllOM0hmLUxHaUh0U0xFeTRFalc4WWxRMUF6RFVxZmtaMVdNWi1LWUtVd25LUHRoZE5MRzJpckZKQTdwZTVzaVRraE9FdzdoZU5VUXJLYXdwanBRQlNVWkdwU3hEc3lMLWh0TFRDSGlSdEVKVHM0WV94Ui1hT0c0T0t2X2U2UnZvNlYtaXdFbm5QWlBrWThB0gHMAUFVX3lxTE1IeHZFZEtWRXBzeDZDMm9kOF9RajlqM2xneW03RzB0U19GRzJ3VVNCX3NYaXZvNU1hVmY2RnFiaXdmdlBCeDNXQTMydHhHcFplSHJuUFBSLVdYbVM0MGxsdFh4WjU1aFZjTzlUZERBTjdMZlliUDZTZWxCSjVRUjlkSGRya1pHS0VrMWpGQWFyenVMb2pyRVl3MFE4Sm5vZi1aOTkyVlUxYkNSd3VyYVlOQTlnT1Z5ZDVSbDE1VHNDYUFMLUl6N2F4UUpXaQ?oc=5>
+- 场馆: DW.com
+- 时间: 2026-07-09 11:38
+- 链接: <https://news.google.com/rss/articles/CBMiuAJBVV95cUxPUFJlcHZVRlVFQ04zcV9GeEY0ZUxUQlNVaTFMRlJhZUVKZ0d0ZWYwaTVPVkZkUE1oay1keFk2U2FMOUVUQzdyeFdIY2tjemsyQlVQUWJHUjRVRlU1RmY3clRXZlZXeW83M1JPLW81dGlvbjc3dHc0VDk1dkdzSXUtN2R0dTFGZEg5REdYZ3I4STJWS3ZWQ2d6TnRiM2xkVi1Jamo2M1ZTbTRDMU5rZkV5aHVRUVZmYndkc1VhZTFhUjkzZEoweGlpU1VpLWJDTk1jbzJCZWhucmtWZlNwNEtJMktRQTFkbFBWcE03U28tM3lfOFloY0xITGw2UnQxRmJHQ1ZLNEwtNEV0aFVkd2YxUGN2U3BTbkdtaUNhU3h5bkhCam45bmRrN3hrcU9CeE9yS0E1QVpHcVDSAbgCQVVfeXFMTXE4NWxURGFKdVo2YndpZ3FTRnNscnB2Sy14LXJZMThRdXM5Ti03UUhQZE1YajhQa1VTRWlMZlpBU2xnSDczZ3dHbGIwZjZYeVQ2eHgzeHdnRzZ5bHFUU3dIVXFzSkZzQnE5YWJQU0NXV0VIQ3hFbHJOSEQ3bGtPQXFYMkVHQ0xWNC1tQk9FZWlFWUVKZGlucVRxazl3bVhmYnJMcm51cWRmZU1HR2R3d3JVWEx1ZnpLaTE1aEdSaDd0ZHdiX3ZBNUxfVndQaVpleS13WTA5dUJPLXpVbmQ0bHRkZmx3aW1ycUhDQmFUVUpueFBwSjZKWFV2S2tZRGcyNHZEVkN1ZHoyZEEtRlVjS2FWTFEwaEt5Z3RxV0FKbzdaTDNlRVBiaG1hTF9aYmp6N1JZTUxJLVMz?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-09 20:15  (5 条)
+
+- **王一博** | 王俊凯王一博同名乌龙？王俊凯新歌《破晓》作词人实为幕后填词人，粉丝为何不撕架？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801zkos.html>
+- **王一博** | 王俊凯新歌《破晓》的作词人王一博究竟是谁？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801zkja.html>
+- **周杰伦** | 周星驰《女足》票房破2676万，周杰伦献唱主题曲，张柏芝惊艳 <https://k.sina.com.cn/article_7857201856_1d45362c0019081e44.html>
+- **特朗普** | 特朗普和FIFA一合计，“全世界都在笑话美国” <https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUEs0UDV3WUhya29WQkp3Qkg2V1JraUZCU2pkZ0sxTVFBeUFGaU04dVRTeDJfS2pkQlFEb1VJRFl5eVlzTDdTMWdKZk9qb1dZX2NNWXk4U1RJeHFkZF93Y0x5QmEwd29ZSEpBQ3F2Sm5BbnNudll5UXpSYWZ2b0xSTWdPaWgyR25WdVZxcVRCOTRfRHNCeVlqSVZpT05pblBlSUNySEFzdnE2VXVoa0t6bk1SeDktRlFGanB3b05kQ1l4TW5hTVJzcGZPQjFJdnNwMUtn?oc=5>
+- **特朗普** | 特朗普离开北约峰会时为何不坐新的空军一号？ <https://news.google.com/rss/articles/CBMiuAJBVV95cUxPUFJlcHZVRlVFQ04zcV9GeEY0ZUxUQlNVaTFMRlJhZUVKZ0d0ZWYwaTVPVkZkUE1oay1keFk2U2FMOUVUQzdyeFdIY2tjemsyQlVQUWJHUjRVRlU1RmY3clRXZlZXeW83M1JPLW81dGlvbjc3dHc0VDk1dkdzSXUtN2R0dTFGZEg5REdYZ3I4STJWS3ZWQ2d6TnRiM2xkVi1Jamo2M1ZTbTRDMU5rZkV5aHVRUVZmYndkc1VhZTFhUjkzZEoweGlpU1VpLWJDTk1jbzJCZWhucmtWZlNwNEtJMktRQTFkbFBWcE03U28tM3lfOFloY0xITGw2UnQxRmJHQ1ZLNEwtNEV0aFVkd2YxUGN2U3BTbkdtaUNhU3h5bkhCam45bmRrN3hrcU9CeE9yS0E1QVpHcVDSAbgCQVVfeXFMTXE4NWxURGFKdVo2YndpZ3FTRnNscnB2Sy14LXJZMThRdXM5Ti03UUhQZE1YajhQa1VTRWlMZlpBU2xnSDczZ3dHbGIwZjZYeVQ2eHgzeHdnRzZ5bHFUU3dIVXFzSkZzQnE5YWJQU0NXV0VIQ3hFbHJOSEQ3bGtPQXFYMkVHQ0xWNC1tQk9FZWlFWUVKZGlucVRxazl3bVhmYnJMcm51cWRmZU1HR2R3d3JVWEx1ZnpLaTE1aEdSaDd0ZHdiX3ZBNUxfVndQaVpleS13WTA5dUJPLXpVbmQ0bHRkZmx3aW1ycUhDQmFUVUpueFBwSjZKWFV2S2tZRGcyNHZEVkN1ZHoyZEEtRlVjS2FWTFEwaEt5Z3RxV0FKbzdaTDNlRVBiaG1hTF9aYmp6N1JZTUxJLVMz?oc=5>
 
 ### 2026-07-09 18:16  (8 条)
 
