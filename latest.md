@@ -1,50 +1,76 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-09 20:15**
-- 本轮扫到 6404 条, 新增 **5** 条
+- 最近更新: **2026-07-09 21:54**
+- 本轮扫到 6411 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (7 条)
 
-### 王俊凯王一博同名乌龙？王俊凯新歌《破晓》作词人实为幕后填词人，粉丝为何不撕架？
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801zkos.html>
-
-### 王俊凯新歌《破晓》的作词人王一博究竟是谁？
+### 王俊凯新歌《破晓》作词人惊现“王一博”!同名同姓引全网乌龙,真相竟是……
 
 - 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801zkja.html>
+- 链接: <https://k.sina.com.cn/article_7879923015_1d5ae154701901ecn8.html>
 
-### 周星驰《女足》票房破2676万，周杰伦献唱主题曲，张柏芝惊艳
+### 王俊凯新专辑作词现王一博，原是同名乌龙！
 
-- 艺人/关键词: **周杰伦**
+- 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019081e44.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801yxik.html>
+
+### 王俊凯新歌《破晓》作词人“王一博”是顶流合作还是同名乌龙？一场误会如何引爆3亿阅读量？
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801yxrg.html>
+
+### 午盘：美股继续上扬，芯片股普涨
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-09 20:55
+- 链接: <https://news.google.com/rss/articles/CBMi_wFBVV95cUxOZS1zOUdtZE5vM1hkdlVyY2RDQWozN2tjdFVUZTExZkY3YnFhM1pzdlI0TGNaTTRZTGhqS2c1WDdBc2ZFMFFPaXQ3WTNrbEd6eVc0N2tkQTR5aTdWV2ZqbFFHQkhYSUROSkRWeEdqUzR3VFNRUDdnakQ2UzRvRU1PQjQyeFhRTFpQZnR5TzQ2djhCZWVfams4YnJwLTN2ekQ3UTM0SnVZdm4xSDZkMlk0RGRiZGtrSVVyZlJKS0Y4UzhoUm9TZ1BfNVlsX3h0U3VaRERaQnh2S2h2X3JiemtvYXRYckZRMHQwNGY3ZG5abXBpXzFuSElsV1BPcExPOUE?oc=5>
 
 ### 特朗普和FIFA一合计，“全世界都在笑话美国”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
+- 场馆: 新浪财经
 - 时间: 2026-07-08 08:37
-- 链接: <https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUEs0UDV3WUhya29WQkp3Qkg2V1JraUZCU2pkZ0sxTVFBeUFGaU04dVRTeDJfS2pkQlFEb1VJRFl5eVlzTDdTMWdKZk9qb1dZX2NNWXk4U1RJeHFkZF93Y0x5QmEwd29ZSEpBQ3F2Sm5BbnNudll5UXpSYWZ2b0xSTWdPaWgyR25WdVZxcVRCOTRfRHNCeVlqSVZpT05pblBlSUNySEFzdnE2VXVoa0t6bk1SeDktRlFGanB3b05kQ1l4TW5hTVJzcGZPQjFJdnNwMUtn?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMi0wFBVV95cUxNT1hvVFhfekhTYXFpVVRsSkVGcFRZeVBxcW1QcXhvbTBVa0lROE4zMjdQcGVoX1htTHoyd0tPaHFkNk9YY085UzFUWGxlSlo5YUFaRXp4SFNDQktOYWpaTXZPUGxSV2EzeFZZVDdIbjQ5V1FqZzFTZFhiQ29jaEtQaGItdTNJZEFSRFNHY1RubUhmMXVmQkxKTHN1YUVpaXhzTnoxZjZ2M2IxLUF1cmJnVGpUcGZQc3NKWXc0OU5hUWljcDlZVHpzRUZxWEhDT3I1WnJV?oc=5>
 
-### 特朗普离开北约峰会时为何不坐新的空军一号？
+### 美股收盘：特朗普一句话挽回跌势 阿里巴巴闪耀全球市场
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: DW.com
-- 时间: 2026-07-09 11:38
-- 链接: <https://news.google.com/rss/articles/CBMiuAJBVV95cUxPUFJlcHZVRlVFQ04zcV9GeEY0ZUxUQlNVaTFMRlJhZUVKZ0d0ZWYwaTVPVkZkUE1oay1keFk2U2FMOUVUQzdyeFdIY2tjemsyQlVQUWJHUjRVRlU1RmY3clRXZlZXeW83M1JPLW81dGlvbjc3dHc0VDk1dkdzSXUtN2R0dTFGZEg5REdYZ3I4STJWS3ZWQ2d6TnRiM2xkVi1Jamo2M1ZTbTRDMU5rZkV5aHVRUVZmYndkc1VhZTFhUjkzZEoweGlpU1VpLWJDTk1jbzJCZWhucmtWZlNwNEtJMktRQTFkbFBWcE03U28tM3lfOFloY0xITGw2UnQxRmJHQ1ZLNEwtNEV0aFVkd2YxUGN2U3BTbkdtaUNhU3h5bkhCam45bmRrN3hrcU9CeE9yS0E1QVpHcVDSAbgCQVVfeXFMTXE4NWxURGFKdVo2YndpZ3FTRnNscnB2Sy14LXJZMThRdXM5Ti03UUhQZE1YajhQa1VTRWlMZlpBU2xnSDczZ3dHbGIwZjZYeVQ2eHgzeHdnRzZ5bHFUU3dIVXFzSkZzQnE5YWJQU0NXV0VIQ3hFbHJOSEQ3bGtPQXFYMkVHQ0xWNC1tQk9FZWlFWUVKZGlucVRxazl3bVhmYnJMcm51cWRmZU1HR2R3d3JVWEx1ZnpLaTE1aEdSaDd0ZHdiX3ZBNUxfVndQaVpleS13WTA5dUJPLXpVbmQ0bHRkZmx3aW1ycUhDQmFUVUpueFBwSjZKWFV2S2tZRGcyNHZEVkN1ZHoyZEEtRlVjS2FWTFEwaEt5Z3RxV0FKbzdaTDNlRVBiaG1hTF9aYmp6N1JZTUxJLVMz?oc=5>
+- 场馆: 财联社
+- 时间: 2026-07-08 22:41
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE11SWU0T3dxa2RYTEJiNy00M1IxdzQxODV0Ymlwb1d0T2NpSll0SXNSUHVhcEFkUEpUYVpidjI0RzlHUXlzY2pQWA?oc=5>
+
+### Perpetuals.com in Talks to Buy Payments Business From Trump-Backed AI Financial for Around $15 Million, Says Source -- WSJ
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-07-08 10:11
+- 链接: <https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUXNUMVRnSF9CbjJZYTJBT19rSEcxQzlBV0N1Z0dIM0JpMlViT2tBQzNIRjhtbUJEck5ac3dnbjBYVmJFb1N1bFhpdlV6X2l1MW9Za2RONFQzVm1SSEVlMkVhNC1pTTBQamUySDJoZExXMjkxQnk1cGgxMjJQQnZHM3FWQU5jZlFVZTBuRlN5cEo3eVZUOGdVdkltZkpFdFJXZHBzUm1EVlRWWEZhX2dSQ1M3Rkk0UmlhNVlKVWFmLW01cV83YUYwYWFfaDRlOG92eVV4Wm1mcXZ1UmI5QUFubA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-09 21:54  (7 条)
+
+- **王一博** | 王俊凯新歌《破晓》作词人惊现“王一博”!同名同姓引全网乌龙,真相竟是…… <https://k.sina.com.cn/article_7879923015_1d5ae154701901ecn8.html>
+- **王一博** | 王俊凯新专辑作词现王一博，原是同名乌龙！ <https://k.sina.com.cn/article_7879776328_1d5abd84806801yxik.html>
+- **王一博** | 王俊凯新歌《破晓》作词人“王一博”是顶流合作还是同名乌龙？一场误会如何引爆3亿阅读量？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801yxrg.html>
+- **特朗普** | 午盘：美股继续上扬，芯片股普涨 <https://news.google.com/rss/articles/CBMi_wFBVV95cUxOZS1zOUdtZE5vM1hkdlVyY2RDQWozN2tjdFVUZTExZkY3YnFhM1pzdlI0TGNaTTRZTGhqS2c1WDdBc2ZFMFFPaXQ3WTNrbEd6eVc0N2tkQTR5aTdWV2ZqbFFHQkhYSUROSkRWeEdqUzR3VFNRUDdnakQ2UzRvRU1PQjQyeFhRTFpQZnR5TzQ2djhCZWVfams4YnJwLTN2ekQ3UTM0SnVZdm4xSDZkMlk0RGRiZGtrSVVyZlJKS0Y4UzhoUm9TZ1BfNVlsX3h0U3VaRERaQnh2S2h2X3JiemtvYXRYckZRMHQwNGY3ZG5abXBpXzFuSElsV1BPcExPOUE?oc=5>
+- **特朗普** | 特朗普和FIFA一合计，“全世界都在笑话美国” <https://news.google.com/rss/articles/CBMi0wFBVV95cUxNT1hvVFhfekhTYXFpVVRsSkVGcFRZeVBxcW1QcXhvbTBVa0lROE4zMjdQcGVoX1htTHoyd0tPaHFkNk9YY085UzFUWGxlSlo5YUFaRXp4SFNDQktOYWpaTXZPUGxSV2EzeFZZVDdIbjQ5V1FqZzFTZFhiQ29jaEtQaGItdTNJZEFSRFNHY1RubUhmMXVmQkxKTHN1YUVpaXhzTnoxZjZ2M2IxLUF1cmJnVGpUcGZQc3NKWXc0OU5hUWljcDlZVHpzRUZxWEhDT3I1WnJV?oc=5>
+- **特朗普** | 美股收盘：特朗普一句话挽回跌势 阿里巴巴闪耀全球市场 <https://news.google.com/rss/articles/CBMiSEFVX3lxTE11SWU0T3dxa2RYTEJiNy00M1IxdzQxODV0Ymlwb1d0T2NpSll0SXNSUHVhcEFkUEpUYVpidjI0RzlHUXlzY2pQWA?oc=5>
+- **Trump** | Perpetuals.com in Talks to Buy Payments Business From Trump-Backed AI Financial for Around $15 Million, Says Source -- WSJ <https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUXNUMVRnSF9CbjJZYTJBT19rSEcxQzlBV0N1Z0dIM0JpMlViT2tBQzNIRjhtbUJEck5ac3dnbjBYVmJFb1N1bFhpdlV6X2l1MW9Za2RONFQzVm1SSEVlMkVhNC1pTTBQamUySDJoZExXMjkxQnk1cGgxMjJQQnZHM3FWQU5jZlFVZTBuRlN5cEo3eVZUOGdVdkltZkpFdFJXZHBzUm1EVlRWWEZhX2dSQ1M3Rkk0UmlhNVlKVWFmLW01cV83YUYwYWFfaDRlOG92eVV4Wm1mcXZ1UmI5QUFubA?oc=5>
 
 ### 2026-07-09 20:15  (5 条)
 
