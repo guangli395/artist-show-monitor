@@ -1,122 +1,126 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-09 10:02**
-- 本轮扫到 6365 条, 新增 **14** 条
+- 最近更新: **2026-07-09 13:27**
+- 本轮扫到 6378 条, 新增 **13** 条
 
 ---
 
-## 本轮新发现 (14 条)
+## 本轮新发现 (13 条)
 
-### 王俊凯新歌《破晓》的创作背景是什么？
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801zcdc.html>
-
-### 王俊凯新歌作词人王一博是艺人还是幕后填词人？
+### 王一博王俊凯抖音歌曲是乌龙？王俊凯新歌《破晓》作词人“王一博”系同名幕后，两人至今无合唱
 
 - 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801zc60.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801zdm6.html>
 
-### 王俊凯新歌《下一天》如何深度还原周杰伦风格？
+### 王俊凯新歌作词人叫王一博？同名乌龙引爆热搜
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801zcms.html>
+
+### 王俊凯如何用十年合作林迈可深度还原周杰伦？新歌《下一天》编曲与周氏情歌基因全解析
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801z6jw.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801zf16.html>
 
-### 美军又袭伊朗！特朗普威胁“今夜”再打、恢复海上封锁，后一度“降温”：美伊局势升级会很快平息
+### 王俊凯深度还原周杰伦是舞台模仿还是音乐复刻？新歌《下一天》邀请周杰伦御用编曲林迈可，十年合作背后的追星天花板争议
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-07-08 23:03
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE9pcS16bHRZSkFleEx6czdqT2xOQkFld3l3RVR5dDVFVVdHczI0VHRHREh6dGYtT1MtTmUtbUlOVEVFWFRlX0V6a2dmY2FkdkJzYUxF?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801zf1e.html>
 
-### 特朗普将伊朗称为“日本伊斯兰共和国”其高龄问题再受关注
+### 王俊凯新歌《下一天》与周杰伦御用编曲林迈可的合作细节有哪些？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-07-09 07:25
-- 链接: <https://news.google.com/rss/articles/CBMijgNBVV95cUxOMkh4Y0NvcFJSbHFkMjI2eEtjeWwyWXFiWVRWSVNXcEdtV0VEcmJBNi1wdWxSNXR5b3dzVjRkSUw0QVNZTWszVWwwd2pZYUhXV1VtajNOWjBKQnNyVlFkMDFQd3l2dmpYRFBSUlJYMFVoMllUazNtallzdzhpQkVlSDlyN19fTFJtVVhLYjBRU3prY2lWU0QxaDVFWXBxN1Z0R3VGckFrUkFUOEFpcFRUNXlFVE9tWFFoSm05S05rMlZlZHdNdUptT1FFYkhsQzFuN0xGVktUUUNOaG1FZEF4RzJsWGFuQnNIamQ1czJsU0hlUlgxM0NKZzZFZFU4OFZGV1BYWjVBc0pRSlBPczV4M2ZZbFNDbFJjbi1jMElCR042bThZUE1tMzN6ZGM3NEplSTRRbno5ZWdraHhGdlpXbElnajlOTTlvUTJqM0FpSmZ4QzBUdnJaOTREV04wb2FyUXpBZGd3QXpVLVVPQ3ZZdmdhck9DMVNZU000Y0tKNDYxMEFUQTE5Y2VWZ1l1Zw?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801zfgu.html>
 
-### 特朗普当面问泽连斯基：“你愿意去莫斯科吗”
+### “特朗普”重返肯尼迪中心？美法院又否了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新华网
-- 时间: 2026-07-09 08:37
-- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE1lZk1OWHNHMWJJb3k3X2R1RnpFdV8wdVhqOU13MVItRGZGS3ZVZ1R0bnBxeU5OZExoSjgyazF5SDUyZXhMZmgxeGtCLXNIQUQ1ZkxKaGxuR0lEWHlPYk94ZnNKQmRJVHNxMUlJRU1HZ3I5M21ZNmgzNldpTnhYdw?oc=5>
+- 时间: 2026-07-09 11:30
+- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE43OUU3d0pyUnhqUUxfYWNrWUdIaDl2YVk4S0E5VWd0RWNhQ0Y0cjF1NklWcU9TVEYzVS1XaFg0OEJjRk0tY0pwSWdhY1ZvaVh0NXFFT1IyT1hlajh2WmRkY0xBbFRmbEpLTE5jV2VNMWg5cHBIZWp4azdkMmY3Zw?oc=5>
 
-### 意大利：不再理会特朗普的挑衅
+### 北约秘书长马克・吕特一味讨好特朗普的策略内幕
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪网
-- 时间: 2026-07-09 09:07
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFAxWGtjN0FQdzhoX2UtQlN0MWIzb2ExTnlJZGJOaE00MmItVFFLZHM2TEJaZmZNSzctZl9Xc2dWYVlmVlpSSEhSRTA4OENsVktIMXdMTUVnTThGVnF1REVDWm9PcUd1OWw3YzJJeVNjaTN3dw?oc=5>
+- 时间: 2026-07-09 11:49
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxQV1N0aExLTEg5NkFKSURFWE1UTzhXODlUSXpuM3NyOTg5VW5YSjlsOFN3Y25RZ3ZEbENyWlhDQU5ZSEJJb0MxWEdlNEdweFE0M1RlV1R1RlI1OVVGRnRzVE1qUFZmbWltdWczU2pIbjhXMXAySGc2a1B3WDQyWEZvWDE0WXpxMDg?oc=5>
 
-### 特朗普“降本增效”压榨北约，谁割肉成了接盘侠？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-07-09 09:15
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZNTRHbG5IOEhDZXpGMjByQkJzM3JYNW80dVZXaUNOTFJNNjEtbjZBMERiMTBMdF9TUUQ2dWZsR1FJVUhNYlRGN2VrWnFYZWQwakJ1RWRFVTZ4RTY5NmlCaGdYd0YyMjhYakE?oc=5>
-
-### 特朗普北约峰会批评西班牙并重提格陵兰问题，后称联盟高度团结
+### 从大骂盟友到“充满爱” 特朗普在北约峰会态度大转变
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-08 19:29
-- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxOaGZmNkd0bDEzb0NBTjhUSmc3TnYyZmxaS2xYNjVRQ1Z3Tkl5ckhPVHF6LVhvVUE3VG5kRVRvUkdXUE9rbldzeUN2aFZBSGpWX3RocTkzZ1Brb1ZmVTZZOUdhYkZkSkZiUEYxZlRvV2pSM01LYmNEUFBRazZBOUR2S0RwOG44TE55Q052NW0xSC1iUWlfcl9maXpRdW92bUJWdmNIZjVySnhHXzh3djc0NkowenNjdVAyeDVZZmdEcU1rMU9Oc2ppODRsZ1hNVndxVlBxYW9GYUZObjVyUUE?oc=5>
+- 场馆: 中国日报网
+- 时间: 2026-07-09 02:57
+- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE02QVdsMlJrR2dzMnhDOE5QcmJjdFJWbWNKZWJwOWlhS0g0Vl8xRUJhc0QwdVUwbXZmcFlEby05Rzh0c2g5OXpkNzBPN0J2c3k2SDJSUGZ6X0d4MEpra2IzbmEycEdaRjBuRDhjMi1RYlhTbGJmQzYwV2dQOFM?oc=5>
 
-### 特朗普怼完西班牙又改口，桑切斯淡定回应
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-09 06:55
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5RbmwwLWJVQ0loMlhMaG5ncDZnQ2toTmN2M0FHYVZQVmFxN1RqbnF5TFJTa2xhWGJLQ1Q0bmN1TDdyN3hwLUZtWDZ3emI?oc=5>
-
-### 特朗普：西班牙是“糟糕盟友”，要求切断所有与西班牙的贸易往来
+### 特朗普：将切断与西班牙一切贸易往来
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-07-08 09:40
-- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE1OMGs2ZjhQblZwdHJicDU0ZEMwQ2JYcFFfVDBFUVJUaFZHM180TUVhSkE4N0dpOXBCNURQQ2F5My1VbE5uNndTUUlaYmdWN0NJaUxSOEZxSnMzMU5jNHREY2VhXzcta1lzOGZkUHlOaTQ4SWo4dGhfajZ4YXpXdw?oc=5>
+- 场馆: 财新
+- 时间: 2026-07-09 08:49
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9ROTV4d2NlQWR2cnFEbk5VUFRiQm85bkMtUGtESDNwRWtvVlBLQXB5VGtMVmdmUlFHY2duc3VwbUhqVUUwRnJxLWJ0X0F6aDVxdWM2aWFzMkZvQk40Wk9wSW03SHNDZkJuSnc?oc=5>
 
-### 特朗普，收下“27亿元大礼”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-09 09:31
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE54b3RzSTg1bGtaRzVmR3FOZVlSeU5HX1daa2R4N3N4U1FhZEpfMHYzZV9xdS1iX0Q1ZV8tci1sa0FvLVdMYVFKVWdOQnQ?oc=5>
-
-### 特朗普点名批评章家敦 涉华强硬叙事遇冷
+### 西班牙首相淡定回应特朗普言论 西美关系依旧稳固
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 中华网
-- 时间: 2026-07-09 05:57
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9DRmhNM3V4T1FSa0pzenhHYzBiQzlxdEp3UHFQR0tYa3JHelFkeXhvZXZ2amtQQ3pLRDV5ZW5XTUN4dS0zZnQ0Y1FqaDFxMnowY0tCbzZYaUMxdUp6WU5fQTVHOTFLdHZ1VDRpRHlRZjY?oc=5>
+- 时间: 2026-07-09 10:30
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFB4aEQ0YjEyZTBQLVBiWnpWVmRHU1ZrWW9yQjZiYml5Z3BoMXVvN3hfWEJwTkkxT1hJZjB5c09sdHFieHZkNzNrQ3pGTVBCY3JhMzFQN2RoZGJFMEp5Ui1GdHlmMU5KVmNFd2ZfX0ZiY3U?oc=5>
 
-### 澳廣視新聞｜Trump: US is preparing for more strikes against Iran｜Trump: US is preparing for more strikes against Iran
+### 特朗普称将要求最高法院重审出生公民权案件，分析认为重审概率低
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: TDM
-- 时间: 2026-07-09 00:30
-- 链接: <https://news.google.com/rss/articles/CBMiX0FVX3lxTE1fVnk3LWdkM0tDVFBZeURINHdBRTRDX2U0TWJrcHJQT3llNFIzQmRVaFJSV0hYa2NZa1A0eURiZG92ZEgtcFptR3JjVGpaOU02b2dGZHdnQ285a3hXV2FB?oc=5>
+- 场馆: thepaper.cn
+- 时间: 2026-07-09 13:09
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HWTBEaUEzbHcyaWpNRWpoMkNkdzdNbEhIakhLYlNnWVpDazV5ZVRFc1NCaERBcWU2VWNfaE0xM3gwRVlxRzlxYW9vbktZbEFTZjVhQkpVNjBPLVZqLVE?oc=5>
+
+### 特朗普总统表示，美国不寻求与伊朗发生长期冲突
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-07-08 20:38
+- 链接: <https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWU9jNWZkQzRNc1gtVWQzdld1X0VpdGswc05mSFZxRFFUV2dWUDJpeGlVRlFONVQwWGdnT01DSUszYmgtbVBIR1BlWkZSb0VKYnlOWGVnT3k5NHhTUnA5aG5YREx5TFVKRmtGRGl6WDJiNG5rN010OXgwaWRWdnUxSjMzUkFIdlpJT0FvTjBXN09TMXNOekhYb3YyTFdESnhEelJYdkxNYzR5N0RENDRzN0VTMEh3Q0lWc0ZOZFdwd1h3QdIBwgFBVV95cUxNWU9jNWZkQzRNc1gtVWQzdld1X0VpdGswc05mSFZxRFFUV2dWUDJpeGlVRlFONVQwWGdnT01DSUszYmgtbVBIR1BlWkZSb0VKYnlOWGVnT3k5NHhTUnA5aG5YREx5TFVKRmtGRGl6WDJiNG5rN010OXgwaWRWdnUxSjMzUkFIdlpJT0FvTjBXN09TMXNOekhYb3YyTFdESnhEelJYdkxNYzR5N0RENDRzN0VTMEh3Q0lWc0ZOZFdwd1h3QQ?oc=5>
+
+### 快观察 | 特朗普威胁切断与西班牙一切贸易往来，真能做到吗？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: shobserver.com
+- 时间: 2026-07-09 12:04
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1Ry1QUThVSDE4MVYxVWRuN1Z1UnV1TEdvLXVXVTNabXVXWk5MbnNWa3NxYVpDVnN6UVpMM3k5NlNyN055bXlsaHdGT0k5WldyN1FJek1Rb255Y254MFE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-09 13:27  (13 条)
+
+- **王一博** | 王一博王俊凯抖音歌曲是乌龙？王俊凯新歌《破晓》作词人“王一博”系同名幕后，两人至今无合唱 <https://k.sina.com.cn/article_7879776328_1d5abd84806801zdm6.html>
+- **王一博** | 王俊凯新歌作词人叫王一博？同名乌龙引爆热搜 <https://k.sina.com.cn/article_7879776328_1d5abd84806801zcms.html>
+- **周杰伦** | 王俊凯如何用十年合作林迈可深度还原周杰伦？新歌《下一天》编曲与周氏情歌基因全解析 <https://k.sina.com.cn/article_7879776328_1d5abd84806801zf16.html>
+- **周杰伦** | 王俊凯深度还原周杰伦是舞台模仿还是音乐复刻？新歌《下一天》邀请周杰伦御用编曲林迈可，十年合作背后的追星天花板争议 <https://k.sina.com.cn/article_7879776328_1d5abd84806801zf1e.html>
+- **周杰伦** | 王俊凯新歌《下一天》与周杰伦御用编曲林迈可的合作细节有哪些？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801zfgu.html>
+- **特朗普** | “特朗普”重返肯尼迪中心？美法院又否了 <https://news.google.com/rss/articles/CBMifkFVX3lxTE43OUU3d0pyUnhqUUxfYWNrWUdIaDl2YVk4S0E5VWd0RWNhQ0Y0cjF1NklWcU9TVEYzVS1XaFg0OEJjRk0tY0pwSWdhY1ZvaVh0NXFFT1IyT1hlajh2WmRkY0xBbFRmbEpLTE5jV2VNMWg5cHBIZWp4azdkMmY3Zw?oc=5>
+- **特朗普** | 北约秘书长马克・吕特一味讨好特朗普的策略内幕 <https://news.google.com/rss/articles/CBMihwFBVV95cUxQV1N0aExLTEg5NkFKSURFWE1UTzhXODlUSXpuM3NyOTg5VW5YSjlsOFN3Y25RZ3ZEbENyWlhDQU5ZSEJJb0MxWEdlNEdweFE0M1RlV1R1RlI1OVVGRnRzVE1qUFZmbWltdWczU2pIbjhXMXAySGc2a1B3WDQyWEZvWDE0WXpxMDg?oc=5>
+- **特朗普** | 从大骂盟友到“充满爱” 特朗普在北约峰会态度大转变 <https://news.google.com/rss/articles/CBMifEFVX3lxTE02QVdsMlJrR2dzMnhDOE5QcmJjdFJWbWNKZWJwOWlhS0g0Vl8xRUJhc0QwdVUwbXZmcFlEby05Rzh0c2g5OXpkNzBPN0J2c3k2SDJSUGZ6X0d4MEpra2IzbmEycEdaRjBuRDhjMi1RYlhTbGJmQzYwV2dQOFM?oc=5>
+- **特朗普** | 特朗普：将切断与西班牙一切贸易往来 <https://news.google.com/rss/articles/CBMiakFVX3lxTE9ROTV4d2NlQWR2cnFEbk5VUFRiQm85bkMtUGtESDNwRWtvVlBLQXB5VGtMVmdmUlFHY2duc3VwbUhqVUUwRnJxLWJ0X0F6aDVxdWM2aWFzMkZvQk40Wk9wSW03SHNDZkJuSnc?oc=5>
+- **特朗普** | 西班牙首相淡定回应特朗普言论 西美关系依旧稳固 <https://news.google.com/rss/articles/CBMicEFVX3lxTFB4aEQ0YjEyZTBQLVBiWnpWVmRHU1ZrWW9yQjZiYml5Z3BoMXVvN3hfWEJwTkkxT1hJZjB5c09sdHFieHZkNzNrQ3pGTVBCY3JhMzFQN2RoZGJFMEp5Ui1GdHlmMU5KVmNFd2ZfX0ZiY3U?oc=5>
+- **特朗普** | 特朗普称将要求最高法院重审出生公民权案件，分析认为重审概率低 <https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HWTBEaUEzbHcyaWpNRWpoMkNkdzdNbEhIakhLYlNnWVpDazV5ZVRFc1NCaERBcWU2VWNfaE0xM3gwRVlxRzlxYW9vbktZbEFTZjVhQkpVNjBPLVZqLVE?oc=5>
+- **特朗普** | 特朗普总统表示，美国不寻求与伊朗发生长期冲突 <https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWU9jNWZkQzRNc1gtVWQzdld1X0VpdGswc05mSFZxRFFUV2dWUDJpeGlVRlFONVQwWGdnT01DSUszYmgtbVBIR1BlWkZSb0VKYnlOWGVnT3k5NHhTUnA5aG5YREx5TFVKRmtGRGl6WDJiNG5rN010OXgwaWRWdnUxSjMzUkFIdlpJT0FvTjBXN09TMXNOekhYb3YyTFdESnhEelJYdkxNYzR5N0RENDRzN0VTMEh3Q0lWc0ZOZFdwd1h3QdIBwgFBVV95cUxNWU9jNWZkQzRNc1gtVWQzdld1X0VpdGswc05mSFZxRFFUV2dWUDJpeGlVRlFONVQwWGdnT01DSUszYmgtbVBIR1BlWkZSb0VKYnlOWGVnT3k5NHhTUnA5aG5YREx5TFVKRmtGRGl6WDJiNG5rN010OXgwaWRWdnUxSjMzUkFIdlpJT0FvTjBXN09TMXNOekhYb3YyTFdESnhEelJYdkxNYzR5N0RENDRzN0VTMEh3Q0lWc0ZOZFdwd1h3QQ?oc=5>
+- **特朗普** | 快观察 | 特朗普威胁切断与西班牙一切贸易往来，真能做到吗？ <https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1Ry1QUThVSDE4MVYxVWRuN1Z1UnV1TEdvLXVXVTNabXVXWk5MbnNWa3NxYVpDVnN6UVpMM3k5NlNyN055bXlsaHdGT0k5WldyN1FJek1Rb255Y254MFE?oc=5>
 
 ### 2026-07-09 10:02  (14 条)
 
