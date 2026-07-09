@@ -1,34 +1,128 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-08 23:34**
-- 本轮扫到 6323 条, 新增 **3** 条
+- 最近更新: **2026-07-09 02:24**
+- 本轮扫到 6336 条, 新增 **13** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (13 条)
 
-### 从演唱会嘉宾到游戏战友！周杰伦王俊凯联动引爆全网 - 360娱乐
+### 24岁歌手王俊凯新歌《破晓》署名引乌龙，为何同名“王一博”让全网集体误判？
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801bi9a.html>
+
+### 蔡徐坤新歌MV精准卡点Jumpstyle舞曲节奏
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1502793162_m5992cdca053013cfu.html>
+
+### 黄晓明看周杰伦演唱会夸昆凌是“天使”还直言羡慕!网友:你也曾拥有过
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923015_1d5ae154701901ed2c.html>
+- 链接: <https://k.sina.com.cn/article_7879848923_1d5acf3db01901e38i.html>
 
-### 周杰伦确认献唱《功夫女足》主题曲，阿信和孙燕姿会否客串？7月11日上映前最大悬念
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801z172.html>
-
-### 2026周杰伦南京演唱会最新消息(持续更新)
+### 王俊凯新歌《Badi Badi》发布，高能劲舞曲引爆期待
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923018_1d5ae154a01901duj8.html>
+- 链接: <https://k.sina.com.cn/article_2818008641_a7f7664104001e75k.html>
+
+### 特朗普：将授权乌克兰制造“爱国者”反导拦截弹，以后别再说我给的少
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-07-08 23:32
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1GekZudUZvaFRBZ2Y4c1RlRHhlVF9PNVkwQ1l3VzBvMFNxemd6MGpOWXJWazhCTzZvLWpiUElUR0M3d2RicnlwdFJJQjNGeS0za1d4ODFPUm56SjNpeTVua2NmelU5czRaUWc?oc=5>
+
+### 特朗普在北约峰会期间的讲话要点
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-09 00:42
+- 链接: <https://news.google.com/rss/articles/CBMimwJBVV95cUxNRExBN3loQ3IzbENrXy1tMHg3dXBCeEMycXJWbmNpeUo2ZFdjWHpTOFE4blN2TER6LTl6bUtOTWFTNTEzYWxHOURrYVNnclJWdHN0Z1dHRWVDWmpIa0JtR1pIUEthWEpXWExiMmpoM0lBbTI4c2swYnRwRjBpd3pQaW5QNmVyMEFSckRndENoQ3RLejBoR1BIdmlvc0Z0d2pScjhqTnJiZEtsS3lOS0RTZDRaVmNpV19UWG8zcTNlWjJlUEtvbmx3cGh1Q2ppQTRNMGpnUzNjdUZyZXlxNDZKQ2lFRjBKYWtZN1h1cUhCbkhWdUVnS1lmOWRrLUNpWUtleWFqY1VnR1p4YmVNYk1oZk15bk0xcmNaOHlz?oc=5>
+
+### 特朗普总统北约峰会后记者会 (同声传译)
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-07-08 19:00
+- 链接: <https://news.google.com/rss/articles/CBMitgFBVV95cUxPSVg1Q3dteGpQYTBmRW1aRzZZUTBBM202N295WDRremJzb1liSzRORlB5Umo5dUFVMk5VaHFJYzhqbVFhR3o1VHpqdjJpZkxQNjNsOUdma2t3YWFzTjNJY0VqeUFFMXhndWxVa2dlS3hPYTRFT0pIU0c3ZEs5cWxpVTNVaHpYQXFJZzFHSm5oOFZ2OXIzX0tEQXRSeWRGbk02aG9GR21QRXhwaTFmT2huWFdERE5UUdIBuAFBVV95cUxNZi1uS21PSGYwSXBfTHRIeWw2RTFaWF9mTEtQTHZNNDFFa1d1TndlRXJUcjlGSTBJQldlNnlTMjRZVnBkRjkyTkQ5VTdUOWJ3RjlzYi1qc2ZHdVFYdDZNeTVobDVOVVNZNE5NN0VnSWlVb05tcnNOemViMms2OGxySGtEX0ltZEJBV2labG1TZ3ZGSmFuNzY4SHlvQm5QX0dxNlhCSG1SMzdSVUVyM08wMWRsa1JxTUJl?oc=5>
+
+### 特朗普再威胁撤出欧洲北约盟友忙想招儿--国际
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 人民网
+- 时间: 2026-07-09 00:45
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTFBvY2FTdUtzd2dwUk0tRFpJcWpHUkxUTnFhZ1FvdnhFLV9GZ3NEeWRFdmJoR21PM1oxaXpFRTBid2NEQWg5bUdQOTMycGx1VEhJU0pTZE82cC1KempwNFQxNG8tajRzRFhhMEFF?oc=5>
+
+### 特朗普点名批评章家敦，释放一个明确信号
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-07-08 23:15
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5FZEJGZXo3UVhsOFhOZG5xaTVZMWlMcXpoM3VVU2F6SDdyb3BxM2xMZnVuMFhCQzNmSFdSTlFnWERYY1ZoTGUxQ0h3Tmg?oc=5>
+
+### 特朗普和FIFA一合计，“全世界都在笑话美国”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-08 08:37
+- 链接: <https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbVVKR2dra29Cc1BmQkxheDI2ejR2clNZT2E4UEFWZno5OGtMSl95cDcxaktJbEVQLXlyTEVIUVFxWHFjcmZtbmgzdkFUSkN0TDV5MDVXQ282VGVvLWpMa2tGS1JvbmdIYmtZaUZ2LXNsaFJmaVFaQWN4cjFEOThwV05IUXNVcGdJVXBUMFgtWFNicmJxd3NKeFd3S0JubWhTbGJXc2hmYjNRZHY5ZlhkWUc2SXBhbFlUQUJKampEQU1IdXpIYnVKNk1FN2RvZGpYcElz?oc=5>
+
+### 美媒：特朗普称，美国是否进一步从欧洲撤军“取决于格陵兰岛”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 环球网
+- 时间: 2026-07-08 11:15
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE1nbVdFRTBpZDlXU0dCclFSVWJCVG5MRDlLVGowMFlvMG9hXzRYSkx5eHVLRHVNd3gybVE2ZHFpU0ltMzdicnR0ME0xVGZRUlBxR3VlX3NuMk4?oc=5>
+
+### 特朗普介入世界杯红牌，美欧关系阴云再现
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 纽约时报中文网
+- 时间: 2026-07-07 03:39
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE05Z0tPRHB3emNULWF0V0U4UVEzRnJUR05iRXVRSVh5Ukdzd01kWlMtS2tKVUxYNkowRFZ1aERiYVFzeTdiNnNUS3FMLTd1eS1oRUg3QmJvQkhDcmdYNkh4elJXWkRzaUxVcFh0aXQ5M2lBOUtz?oc=5>
+
+### 特朗普虚张声势再多，除了与伊朗谈判别无选择——BBC编辑鲍文观察
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: BBC
+- 时间: 2026-07-09 00:12
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CVU9nSnBRSkxBbW1zYVNkcWFZbnBGODBWX3Y4c2xDMVVRU211YzVCcVhJZ3B4NEpDa3RGQ3YzdEV5WmswTXc5M2xnUzJkZGdHbGtjSkRVbDJYbVNTaVBYUXpXX2F6Z9IBa0FVX3lxTE5sbm9rZUFUSEZ4Tkhpak8wOWUwTkpmRVpHVm9UWTlYUnZpUXd2MG9MZ0Jsc1l3OXpINWZIbFlXN25TRDU1YTFBNHZ3TmhYWWlEbnhDenhLeE05SGxBLUZOR3RTQ096U0VsRWNR?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-09 02:24  (13 条)
+
+- **王一博** | 24岁歌手王俊凯新歌《破晓》署名引乌龙，为何同名“王一博”让全网集体误判？ <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801bi9a.html>
+- **蔡徐坤** | 蔡徐坤新歌MV精准卡点Jumpstyle舞曲节奏 <https://k.sina.com.cn/article_1502793162_m5992cdca053013cfu.html>
+- **周杰伦** | 黄晓明看周杰伦演唱会夸昆凌是“天使”还直言羡慕!网友:你也曾拥有过 <https://k.sina.com.cn/article_7879848923_1d5acf3db01901e38i.html>
+- **周杰伦** | 王俊凯新歌《Badi Badi》发布，高能劲舞曲引爆期待 <https://k.sina.com.cn/article_2818008641_a7f7664104001e75k.html>
+- **特朗普** | 特朗普：将授权乌克兰制造“爱国者”反导拦截弹，以后别再说我给的少 <https://news.google.com/rss/articles/CBMiakFVX3lxTE1GekZudUZvaFRBZ2Y4c1RlRHhlVF9PNVkwQ1l3VzBvMFNxemd6MGpOWXJWazhCTzZvLWpiUElUR0M3d2RicnlwdFJJQjNGeS0za1d4ODFPUm56SjNpeTVua2NmelU5czRaUWc?oc=5>
+- **特朗普** | 特朗普在北约峰会期间的讲话要点 <https://news.google.com/rss/articles/CBMimwJBVV95cUxNRExBN3loQ3IzbENrXy1tMHg3dXBCeEMycXJWbmNpeUo2ZFdjWHpTOFE4blN2TER6LTl6bUtOTWFTNTEzYWxHOURrYVNnclJWdHN0Z1dHRWVDWmpIa0JtR1pIUEthWEpXWExiMmpoM0lBbTI4c2swYnRwRjBpd3pQaW5QNmVyMEFSckRndENoQ3RLejBoR1BIdmlvc0Z0d2pScjhqTnJiZEtsS3lOS0RTZDRaVmNpV19UWG8zcTNlWjJlUEtvbmx3cGh1Q2ppQTRNMGpnUzNjdUZyZXlxNDZKQ2lFRjBKYWtZN1h1cUhCbkhWdUVnS1lmOWRrLUNpWUtleWFqY1VnR1p4YmVNYk1oZk15bk0xcmNaOHlz?oc=5>
+- **特朗普** | 特朗普总统北约峰会后记者会 (同声传译) <https://news.google.com/rss/articles/CBMitgFBVV95cUxPSVg1Q3dteGpQYTBmRW1aRzZZUTBBM202N295WDRremJzb1liSzRORlB5Umo5dUFVMk5VaHFJYzhqbVFhR3o1VHpqdjJpZkxQNjNsOUdma2t3YWFzTjNJY0VqeUFFMXhndWxVa2dlS3hPYTRFT0pIU0c3ZEs5cWxpVTNVaHpYQXFJZzFHSm5oOFZ2OXIzX0tEQXRSeWRGbk02aG9GR21QRXhwaTFmT2huWFdERE5UUdIBuAFBVV95cUxNZi1uS21PSGYwSXBfTHRIeWw2RTFaWF9mTEtQTHZNNDFFa1d1TndlRXJUcjlGSTBJQldlNnlTMjRZVnBkRjkyTkQ5VTdUOWJ3RjlzYi1qc2ZHdVFYdDZNeTVobDVOVVNZNE5NN0VnSWlVb05tcnNOemViMms2OGxySGtEX0ltZEJBV2labG1TZ3ZGSmFuNzY4SHlvQm5QX0dxNlhCSG1SMzdSVUVyM08wMWRsa1JxTUJl?oc=5>
+- **特朗普** | 特朗普再威胁撤出欧洲北约盟友忙想招儿--国际 <https://news.google.com/rss/articles/CBMia0FVX3lxTFBvY2FTdUtzd2dwUk0tRFpJcWpHUkxUTnFhZ1FvdnhFLV9GZ3NEeWRFdmJoR21PM1oxaXpFRTBid2NEQWg5bUdQOTMycGx1VEhJU0pTZE82cC1KempwNFQxNG8tajRzRFhhMEFF?oc=5>
+- **特朗普** | 特朗普点名批评章家敦，释放一个明确信号 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5FZEJGZXo3UVhsOFhOZG5xaTVZMWlMcXpoM3VVU2F6SDdyb3BxM2xMZnVuMFhCQzNmSFdSTlFnWERYY1ZoTGUxQ0h3Tmg?oc=5>
+- **特朗普** | 特朗普和FIFA一合计，“全世界都在笑话美国” <https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbVVKR2dra29Cc1BmQkxheDI2ejR2clNZT2E4UEFWZno5OGtMSl95cDcxaktJbEVQLXlyTEVIUVFxWHFjcmZtbmgzdkFUSkN0TDV5MDVXQ282VGVvLWpMa2tGS1JvbmdIYmtZaUZ2LXNsaFJmaVFaQWN4cjFEOThwV05IUXNVcGdJVXBUMFgtWFNicmJxd3NKeFd3S0JubWhTbGJXc2hmYjNRZHY5ZlhkWUc2SXBhbFlUQUJKampEQU1IdXpIYnVKNk1FN2RvZGpYcElz?oc=5>
+- **特朗普** | 美媒：特朗普称，美国是否进一步从欧洲撤军“取决于格陵兰岛” <https://news.google.com/rss/articles/CBMiWEFVX3lxTE1nbVdFRTBpZDlXU0dCclFSVWJCVG5MRDlLVGowMFlvMG9hXzRYSkx5eHVLRHVNd3gybVE2ZHFpU0ltMzdicnR0ME0xVGZRUlBxR3VlX3NuMk4?oc=5>
+- **特朗普** | 特朗普介入世界杯红牌，美欧关系阴云再现 <https://news.google.com/rss/articles/CBMidEFVX3lxTE05Z0tPRHB3emNULWF0V0U4UVEzRnJUR05iRXVRSVh5Ukdzd01kWlMtS2tKVUxYNkowRFZ1aERiYVFzeTdiNnNUS3FMLTd1eS1oRUg3QmJvQkhDcmdYNkh4elJXWkRzaUxVcFh0aXQ5M2lBOUtz?oc=5>
+- **Trump** | 特朗普虚张声势再多，除了与伊朗谈判别无选择——BBC编辑鲍文观察 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CVU9nSnBRSkxBbW1zYVNkcWFZbnBGODBWX3Y4c2xDMVVRU211YzVCcVhJZ3B4NEpDa3RGQ3YzdEV5WmswTXc5M2xnUzJkZGdHbGtjSkRVbDJYbVNTaVBYUXpXX2F6Z9IBa0FVX3lxTE5sbm9rZUFUSEZ4Tkhpak8wOWUwTkpmRVpHVm9UWTlYUnZpUXd2MG9MZ0Jsc1l3OXpINWZIbFlXN25TRDU1YTFBNHZ3TmhYWWlEbnhDenhLeE05SGxBLUZOR3RTQ096U0VsRWNR?oc=5>
 
 ### 2026-07-08 23:34  (3 条)
 
