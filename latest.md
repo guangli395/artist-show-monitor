@@ -1,110 +1,124 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-09 13:27**
-- 本轮扫到 6378 条, 新增 **13** 条
+- 最近更新: **2026-07-09 16:11**
+- 本轮扫到 6391 条, 新增 **13** 条
 
 ---
 
 ## 本轮新发现 (13 条)
 
-### 王一博王俊凯抖音歌曲是乌龙？王俊凯新歌《破晓》作词人“王一博”系同名幕后，两人至今无合唱
+### 王俊凯王一博同名的作词乌龙为何引发2亿阅读？新歌《破晓》作词人身份揭秘与舆论真相
 
 - 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801zdm6.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801zghg.html>
 
-### 王俊凯新歌作词人叫王一博？同名乌龙引爆热搜
+### 王俊凯新歌《破晓》作词人竟是同名“王一博”？幕后填词人还是顶流合作？1小时阅读破2亿的乌龙如何收场？
 
 - 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801zcms.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801z4y6.html>
 
-### 王俊凯如何用十年合作林迈可深度还原周杰伦？新歌《下一天》编曲与周氏情歌基因全解析
+### 王俊凯新歌《破晓》作词人王一博是谁？一文看懂同名乌龙背后的幕后填词人真相
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801z4xq.html>
+
+### 王俊凯新歌作词栏惊现王一博？同名乌龙引爆热搜
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801z4t6.html>
+
+### 蔡徐坤新MV搭配《Polska Jumpstyle》引爆网络
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5885611158_m15ecf4c9603301brxq.html>
+
+### 王力宏演唱会意外摔倒致39针缝合
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801zf16.html>
+- 链接: <https://k.sina.com.cn/article_6605837985_m189bd16a10330174f4.html>
 
-### 王俊凯深度还原周杰伦是舞台模仿还是音乐复刻？新歌《下一天》邀请周杰伦御用编曲林迈可，十年合作背后的追星天花板争议
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801zf1e.html>
-
-### 王俊凯新歌《下一天》与周杰伦御用编曲林迈可的合作细节有哪些？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801zfgu.html>
-
-### “特朗普”重返肯尼迪中心？美法院又否了
+### 特朗普被判赔500万美元
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-07-09 11:30
-- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE43OUU3d0pyUnhqUUxfYWNrWUdIaDl2YVk4S0E5VWd0RWNhQ0Y0cjF1NklWcU9TVEYzVS1XaFg0OEJjRk0tY0pwSWdhY1ZvaVh0NXFFT1IyT1hlajh2WmRkY0xBbFRmbEpLTE5jV2VNMWg5cHBIZWp4azdkMmY3Zw?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-07-09 13:49
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBFbUZQWVRiaFUyQm5EOGhTTEt1bzd5MHEzU3pWOUFQdzZaYi03X3BZc0xaVnh2aXpRWF9TbkJvMTVCTmVncV9ibHEyaWJjU25CS1VZYjF5eEVIWkQycWNCbUdsYU52d2E3UGRpcFFvOGZVU0Uzc1ZQRA?oc=5>
 
-### 北约秘书长马克・吕特一味讨好特朗普的策略内幕
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-07-09 11:49
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxQV1N0aExLTEg5NkFKSURFWE1UTzhXODlUSXpuM3NyOTg5VW5YSjlsOFN3Y25RZ3ZEbENyWlhDQU5ZSEJJb0MxWEdlNEdweFE0M1RlV1R1RlI1OVVGRnRzVE1qUFZmbWltdWczU2pIbjhXMXAySGc2a1B3WDQyWEZvWDE0WXpxMDg?oc=5>
-
-### 从大骂盟友到“充满爱” 特朗普在北约峰会态度大转变
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中国日报网
-- 时间: 2026-07-09 02:57
-- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE02QVdsMlJrR2dzMnhDOE5QcmJjdFJWbWNKZWJwOWlhS0g0Vl8xRUJhc0QwdVUwbXZmcFlEby05Rzh0c2g5OXpkNzBPN0J2c3k2SDJSUGZ6X0d4MEpra2IzbmEycEdaRjBuRDhjMi1RYlhTbGJmQzYwV2dQOFM?oc=5>
-
-### 特朗普：将切断与西班牙一切贸易往来
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财新
-- 时间: 2026-07-09 08:49
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9ROTV4d2NlQWR2cnFEbk5VUFRiQm85bkMtUGtESDNwRWtvVlBLQXB5VGtMVmdmUlFHY2duc3VwbUhqVUUwRnJxLWJ0X0F6aDVxdWM2aWFzMkZvQk40Wk9wSW03SHNDZkJuSnc?oc=5>
-
-### 西班牙首相淡定回应特朗普言论 西美关系依旧稳固
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-07-09 10:30
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFB4aEQ0YjEyZTBQLVBiWnpWVmRHU1ZrWW9yQjZiYml5Z3BoMXVvN3hfWEJwTkkxT1hJZjB5c09sdHFieHZkNzNrQ3pGTVBCY3JhMzFQN2RoZGJFMEp5Ui1GdHlmMU5KVmNFd2ZfX0ZiY3U?oc=5>
-
-### 特朗普称将要求最高法院重审出生公民权案件，分析认为重审概率低
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-07-09 13:09
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HWTBEaUEzbHcyaWpNRWpoMkNkdzdNbEhIakhLYlNnWVpDazV5ZVRFc1NCaERBcWU2VWNfaE0xM3gwRVlxRzlxYW9vbktZbEFTZjVhQkpVNjBPLVZqLVE?oc=5>
-
-### 特朗普总统表示，美国不寻求与伊朗发生长期冲突
+### 多数大法官作出对其行政令不利裁决后，特朗普总统表示将请最高法院重审出生公民权案
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 美国之音
-- 时间: 2026-07-08 20:38
-- 链接: <https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWU9jNWZkQzRNc1gtVWQzdld1X0VpdGswc05mSFZxRFFUV2dWUDJpeGlVRlFONVQwWGdnT01DSUszYmgtbVBIR1BlWkZSb0VKYnlOWGVnT3k5NHhTUnA5aG5YREx5TFVKRmtGRGl6WDJiNG5rN010OXgwaWRWdnUxSjMzUkFIdlpJT0FvTjBXN09TMXNOekhYb3YyTFdESnhEelJYdkxNYzR5N0RENDRzN0VTMEh3Q0lWc0ZOZFdwd1h3QdIBwgFBVV95cUxNWU9jNWZkQzRNc1gtVWQzdld1X0VpdGswc05mSFZxRFFUV2dWUDJpeGlVRlFONVQwWGdnT01DSUszYmgtbVBIR1BlWkZSb0VKYnlOWGVnT3k5NHhTUnA5aG5YREx5TFVKRmtGRGl6WDJiNG5rN010OXgwaWRWdnUxSjMzUkFIdlpJT0FvTjBXN09TMXNOekhYb3YyTFdESnhEelJYdkxNYzR5N0RENDRzN0VTMEh3Q0lWc0ZOZFdwd1h3QQ?oc=5>
+- 时间: 2026-07-09 15:21
+- 链接: <https://news.google.com/rss/articles/CBMihAJBVV95cUxOSWtBVHFOVTE2TUIxT1dKc19YMThoMjhsdFI1LXVJUWlRc1ZzQUdkajZSZEJtbkxSMVNQTzhCcUNlYkNteFptUGJzM2xTdVp0LXh1SDFDaHc5X2tMUnR4bEZ5WTdIT0VkQVNvOXRBR1pFd2MydjlNaWcwV2hXSzRjMnFGMFNhRDVDcDVmUXdFOVhjU3VRcU9Hc0N3RU0taUhnc05LX1l0ek5UVTh0RzBNRXo3M2h0X0tNU3hpVFkwRzdqdmdoTFVjdVA4VlJjMVMyWHk5YXFQQl9Ya2p1bnF5N3BIeWJrc05EamY4WWxYYU14OVdIUE1kdjFTNEotMjJDS1NWZdIBhwJBVV95cUxNR05telBPWWZGSWcwZUhLZUNKSlV6YUxKd2hPWnFneEZRLXFsY3N3bEVJWDYzOTN1ak02anlBZ2NUS1lmeHVxd1V5RDRLT01HcXlOU2VrWW1iekVYUGdKR29GSGlLRC1UdVYtVzZQa0NVeVlRNXN5YjN2TWlNN3E1TzNUVGR4bFBrMFpSNy1PZC1ySm5wLUR1UmczcXAwQ3kzZDNnUldZMEgwTFhVNkY0YlVmaUNfeDk1WDNiRTFuQWtrWlZ1NzZqSUxRYVNZeVN4a0ZtdVJqTHZZWkVsc1B1X2U4WV96bXo4QVo0UE1ublRTMmNzbElWTS1Jc0xJaVNWNm1hMGFlNA?oc=5>
 
-### 快观察 | 特朗普威胁切断与西班牙一切贸易往来，真能做到吗？
+### 美国贸易代表：特朗普可借助此前关税案所依据的法律切断与西班牙贸易
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: shobserver.com
-- 时间: 2026-07-09 12:04
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1Ry1QUThVSDE4MVYxVWRuN1Z1UnV1TEdvLXVXVTNabXVXWk5MbnNWa3NxYVpDVnN6UVpMM3k5NlNyN055bXlsaHdGT0k5WldyN1FJek1Rb255Y254MFE?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-07-09 15:51
+- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxPSXF3MjFIWV9HTVJpTDYxY1pjWFhSUEFCYlNFWTlPMWdaYjh6THc1eThvZzFreVRmblk2eGVrMW16REVDU2FvOWFLUGIxSTAwNDljeDZKWFR0WHRjeVFHVnRacDJhQjhFdVpuWTg4My1oNHZDTmxSYmxRVkJORWVmTnhCSDNJSHl5a1NUbFMtaG5tcmtMUHFzSEVJX18?oc=5>
+
+### 特朗普“掌控每个房间”，欧洲边忍边夸：北约峰会只剩一条成功标准？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-09 12:56
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1ET2NDSEFBd1Z6VzlUMjk1aC03cGhlR2RUTE9LRGNMc2xEMVdTejBTZmRybFEzTkZBUjJTb2F3RXNZNG5LcUJtMGZWdElnRXNfNVNxY3F3TVEwdjU3bFRtVVhWRTBqSm56eGhJOFNENTNINnYyN1hETA?oc=5>
+
+### 特朗普北约峰会上公开发飙，幕后态度却180度转变
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-07-09 10:31
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE1sdXlQS3lOQktXVU81aFQzcGRhWm8zd0tvNG9hZmpkUGhXMVhZRmp6bXBXWGctOTVuRDl6MlVxYnV4c1QwMnp6TQ?oc=5>
+
+### Dollar Turns Higher as Trump Says U.S.-Iran Ceasefire Is Over -- Market Talk
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-07-08 09:12
+- 链接: <https://news.google.com/rss/articles/CBMiowFBVV95cUxOZnZfcWpSV054UFQxQVZYczJOcVMzT0pYT0U5cWtzQ1NFMlpYU2w5ZFkyQUhFVlNEUnd6bUJ1SDJIQkpjNk1HUW1UMGFSTFI3MFdjdmNfUzhzaVFOUTJEZDJuRmctbXF1SFpKMV9WWFN5TDhfWndfbGdka2xkMG4xcjJ0ckFjMGNsMnhkMG5LY1RnVnJ3a1JLNUFWa3VTRUUxQTJN?oc=5>
+
+### 特朗普赞扬中国未介入伊朗战争
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-07-08 21:31
+- 链接: <https://news.google.com/rss/articles/CBMiswFBVV95cUxNMWtsZElNZm53cmhwQm13V0VzNGVZNXIwOXhVN09rQXI0VFNSUWlrUkgwR0RwRWFDUWVoRWlJa0lvVGI1UUJqMmlWTVd3ZTd2N1h0Wk5xbHlmNkx4bnBlbmNGWkp4MXhwcTN4YzRIUlhhS2xKTWFNdXVPRm1fU3VtOFZ5MGFYRUFPcWlsYWd6VGlkUUd1X2Q2Q2FBSTFXMVFMWWJRVjA3dmlOOVJOaTNIdFdfd9IBtgFBVV95cUxPVEJZLXJONC1fOThaNmpXM2VhNTVNVjg0d0tTUmk2Y3VBM1UxSklhLVRWbE1jVUVzTmFvcHhMT1BsalZEYnItSWVlQzlpR21TUDk4eG9PbnFtRk5QeU1xbTdxTGZuZnR3WlVRNm5ZN0FKeTc0TkRHbmNnenBkd1BwLURRVGc4ZmYxWEFZal8tSUlYQTBSSERCd3ZRTmwxZHpLeFJpeldEUF8zYWE0WUp4RTJjajhRUQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-09 16:11  (13 条)
+
+- **王一博** | 王俊凯王一博同名的作词乌龙为何引发2亿阅读？新歌《破晓》作词人身份揭秘与舆论真相 <https://k.sina.com.cn/article_7879776328_1d5abd84806801zghg.html>
+- **王一博** | 王俊凯新歌《破晓》作词人竟是同名“王一博”？幕后填词人还是顶流合作？1小时阅读破2亿的乌龙如何收场？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801z4y6.html>
+- **王一博** | 王俊凯新歌《破晓》作词人王一博是谁？一文看懂同名乌龙背后的幕后填词人真相 <https://k.sina.com.cn/article_7879776328_1d5abd84806801z4xq.html>
+- **王一博** | 王俊凯新歌作词栏惊现王一博？同名乌龙引爆热搜 <https://k.sina.com.cn/article_7879776328_1d5abd84806801z4t6.html>
+- **蔡徐坤** | 蔡徐坤新MV搭配《Polska Jumpstyle》引爆网络 <https://k.sina.com.cn/article_5885611158_m15ecf4c9603301brxq.html>
+- **周杰伦** | 王力宏演唱会意外摔倒致39针缝合 <https://k.sina.com.cn/article_6605837985_m189bd16a10330174f4.html>
+- **特朗普** | 特朗普被判赔500万美元 <https://news.google.com/rss/articles/CBMieEFVX3lxTFBFbUZQWVRiaFUyQm5EOGhTTEt1bzd5MHEzU3pWOUFQdzZaYi03X3BZc0xaVnh2aXpRWF9TbkJvMTVCTmVncV9ibHEyaWJjU25CS1VZYjF5eEVIWkQycWNCbUdsYU52d2E3UGRpcFFvOGZVU0Uzc1ZQRA?oc=5>
+- **特朗普** | 多数大法官作出对其行政令不利裁决后，特朗普总统表示将请最高法院重审出生公民权案 <https://news.google.com/rss/articles/CBMihAJBVV95cUxOSWtBVHFOVTE2TUIxT1dKc19YMThoMjhsdFI1LXVJUWlRc1ZzQUdkajZSZEJtbkxSMVNQTzhCcUNlYkNteFptUGJzM2xTdVp0LXh1SDFDaHc5X2tMUnR4bEZ5WTdIT0VkQVNvOXRBR1pFd2MydjlNaWcwV2hXSzRjMnFGMFNhRDVDcDVmUXdFOVhjU3VRcU9Hc0N3RU0taUhnc05LX1l0ek5UVTh0RzBNRXo3M2h0X0tNU3hpVFkwRzdqdmdoTFVjdVA4VlJjMVMyWHk5YXFQQl9Ya2p1bnF5N3BIeWJrc05EamY4WWxYYU14OVdIUE1kdjFTNEotMjJDS1NWZdIBhwJBVV95cUxNR05telBPWWZGSWcwZUhLZUNKSlV6YUxKd2hPWnFneEZRLXFsY3N3bEVJWDYzOTN1ak02anlBZ2NUS1lmeHVxd1V5RDRLT01HcXlOU2VrWW1iekVYUGdKR29GSGlLRC1UdVYtVzZQa0NVeVlRNXN5YjN2TWlNN3E1TzNUVGR4bFBrMFpSNy1PZC1ySm5wLUR1UmczcXAwQ3kzZDNnUldZMEgwTFhVNkY0YlVmaUNfeDk1WDNiRTFuQWtrWlZ1NzZqSUxRYVNZeVN4a0ZtdVJqTHZZWkVsc1B1X2U4WV96bXo4QVo0UE1ublRTMmNzbElWTS1Jc0xJaVNWNm1hMGFlNA?oc=5>
+- **特朗普** | 美国贸易代表：特朗普可借助此前关税案所依据的法律切断与西班牙贸易 <https://news.google.com/rss/articles/CBMinAFBVV95cUxPSXF3MjFIWV9HTVJpTDYxY1pjWFhSUEFCYlNFWTlPMWdaYjh6THc1eThvZzFreVRmblk2eGVrMW16REVDU2FvOWFLUGIxSTAwNDljeDZKWFR0WHRjeVFHVnRacDJhQjhFdVpuWTg4My1oNHZDTmxSYmxRVkJORWVmTnhCSDNJSHl5a1NUbFMtaG5tcmtMUHFzSEVJX18?oc=5>
+- **特朗普** | 特朗普“掌控每个房间”，欧洲边忍边夸：北约峰会只剩一条成功标准？ <https://news.google.com/rss/articles/CBMieEFVX3lxTE1ET2NDSEFBd1Z6VzlUMjk1aC03cGhlR2RUTE9LRGNMc2xEMVdTejBTZmRybFEzTkZBUjJTb2F3RXNZNG5LcUJtMGZWdElnRXNfNVNxY3F3TVEwdjU3bFRtVVhWRTBqSm56eGhJOFNENTNINnYyN1hETA?oc=5>
+- **特朗普** | 特朗普北约峰会上公开发飙，幕后态度却180度转变 <https://news.google.com/rss/articles/CBMiSEFVX3lxTE1sdXlQS3lOQktXVU81aFQzcGRhWm8zd0tvNG9hZmpkUGhXMVhZRmp6bXBXWGctOTVuRDl6MlVxYnV4c1QwMnp6TQ?oc=5>
+- **Trump** | Dollar Turns Higher as Trump Says U.S.-Iran Ceasefire Is Over -- Market Talk <https://news.google.com/rss/articles/CBMiowFBVV95cUxOZnZfcWpSV054UFQxQVZYczJOcVMzT0pYT0U5cWtzQ1NFMlpYU2w5ZFkyQUhFVlNEUnd6bUJ1SDJIQkpjNk1HUW1UMGFSTFI3MFdjdmNfUzhzaVFOUTJEZDJuRmctbXF1SFpKMV9WWFN5TDhfWndfbGdka2xkMG4xcjJ0ckFjMGNsMnhkMG5LY1RnVnJ3a1JLNUFWa3VTRUUxQTJN?oc=5>
+- **Trump** | 特朗普赞扬中国未介入伊朗战争 <https://news.google.com/rss/articles/CBMiswFBVV95cUxNMWtsZElNZm53cmhwQm13V0VzNGVZNXIwOXhVN09rQXI0VFNSUWlrUkgwR0RwRWFDUWVoRWlJa0lvVGI1UUJqMmlWTVd3ZTd2N1h0Wk5xbHlmNkx4bnBlbmNGWkp4MXhwcTN4YzRIUlhhS2xKTWFNdXVPRm1fU3VtOFZ5MGFYRUFPcWlsYWd6VGlkUUd1X2Q2Q2FBSTFXMVFMWWJRVjA3dmlOOVJOaTNIdFdfd9IBtgFBVV95cUxPVEJZLXJONC1fOThaNmpXM2VhNTVNVjg0d0tTUmk2Y3VBM1UxSklhLVRWbE1jVUVzTmFvcHhMT1BsalZEYnItSWVlQzlpR21TUDk4eG9PbnFtRk5QeU1xbTdxTGZuZnR3WlVRNm5ZN0FKeTc0TkRHbmNnenBkd1BwLURRVGc4ZmYxWEFZal8tSUlYQTBSSERCd3ZRTmwxZHpLeFJpeldEUF8zYWE0WUp4RTJjajhRUQ?oc=5>
 
 ### 2026-07-09 13:27  (13 条)
 
