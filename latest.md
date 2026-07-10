@@ -1,56 +1,116 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-09 23:05**
-- 本轮扫到 6416 条, 新增 **5** 条
+- 最近更新: **2026-07-10 01:07**
+- 本轮扫到 6427 条, 新增 **11** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (11 条)
 
-### 北约秘书长马克・吕特一味讨好特朗普的策略内幕
+### 王一博AI灵感工作室发布双语早安问候
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1663072851_m63207a5303301ml86.html>
+
+### 特朗普搞中国那套，拿来对付西班牙？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-07-09 23:13
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1hVVlvT2R1ZVBRTmV6QzJkYk4za2RlcWlUNEVPbFpKWl8ySXloenJFeWxDZzdDb25YTjVaYmMwN0F3Q2g4Wlpad0NrQTFuRVY2dkRxR01UbWtkNkdGVVpobk1BM2dieGQyN2c?oc=5>
+
+### 特朗普称“日本导弹”打美国航母，白宫回应
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-09 12:22
-- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxPeDdha1VqWERmYTdsZnpLWmxDUTJfdkpERko2LUhPVVpoNmVqVS1BYVAyQlBiTGN1LXZ4dTAwb25DeDNaRTJMalRscFlRLXh5WXMwQV9xVVJXdDBiOXBlTUliLVlvRFhpeXZfcVFlZWtjT1VteENLMGgzRldxSFBYNWtmN2FWMGZkN1E?oc=5>
+- 时间: 2026-07-10 00:42
+- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSEpjbTZfcUZfbEhSMUZDbnhDTHpvbnZscmV3T0Jla0ZqQ1IzQXNBNmFrV1RZV29fTF81a3dKcGV4WHZEWFlrWEdERXZVM1R6SUNUU3lDakloV3JiMjNLWlN6YU5Hd1NYMjFxSmhZSEs4N3lTTl9fdDlJQ2RqeWp6TmJQSDI4Q1l5ZVc4?oc=5>
 
-### 特朗普北约峰会上公开发飙，幕后态度却180度转变
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-09 02:05
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFB5Yzg2TnBWQ0pJYldCcG1pWXM1TGJnRFV0RjJkNDFsQTFzN3kxeFRmWEVqYnU3bGZQU3NzUUloQ2U0T1JkUzZWNWdIelk?oc=5>
-
-### 美伊局势紧张，特朗普往返北约峰会行程中临时换专机
+### “特朗普”重返肯尼迪中心？美法院又否了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-09 23:03
-- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxNdUZodEhSQzZ1U1dzblFfRTBUc0hJb00tUTJuRkQ0b3hOWUZlU2Z3TkxzSHRCM1lIRlFOenFaRkxOcEZTRFNINW5MbVZnNHZwMTJhcm5qVWI5NllnRVBCQW9EU2FzdXJySFV1Q0g0X21KQUt2Y1NNV2o5WHpWZ1NFY2Q4MA?oc=5>
+- 场馆: 新华网
+- 时间: 2026-07-09 11:30
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1zdlJOSlNLSkZnWUhiTEhrVkc4b0RvcmtWVDhobmJURVFTQ3FjTS1pRjhyZUw1QjVJUUw0TVBVU01rTnlEN3BpX2JiRklpeWtQWkdxanNZZ1d2ZzE5akJlQ0ZZWHFFSDJ3OG9GYjBwbTF6VkN4MTRyeGFaVFVWcXM?oc=5>
 
-### 国际油价大涨6%金银跳水！特朗普一言引爆全球市场
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-07-08 21:32
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE9SSUZDblVFMnBjNThGd1FFT0FYUUR4VEVlY1VyNzRiQ1o5d1p1d2dfOUs1N2tuS3BtRVB2YVN2RDk2dXlOS1VVYg?oc=5>
-
-### 美国贸易代表：特朗普可借助此前关税案所依据的法律切断与西班牙贸易
+### 特朗普和FIFA一合计，“全世界都在笑话美国”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-09 15:51
-- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdVhJNW8zUXNiYTQ0Y1VMNDVlVDE0TXNpelIyLWhUVkt1QkU3VGREMW4tNndOTE4zMDQ2anAzMmFFd0pZZkEtcTBhZ0pkaXVYQVJXa0lzRzQ4bDc5UW5PQ0ktUHFzUzBiRm93WVJKMHRnWXhMeHREblFIMFdTN0FlN09uQ0ZGN1pTNXN4UHRyRWVIbk5PdGxxVmtub3k3eXFLdV9YVmlKYU1WUTl1YWs1a0JmN0xPV0VyVzB5NkpHYlpSeEhnUWpBbFhkWUIyWGpGckNOSEt4YlJDNFVwSXc?oc=5>
+- 时间: 2026-07-08 08:37
+- 链接: <https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMExaWTViNVVTbk9lUmF2azJrMHpoeXQyXzUyZ2g1bkhlN2pxTG1sSjJibjhlWVhoUzhWdGNFVk80cGh0Ynd6SWNIc284TG1QZWc0T0JsSE5oekxWZlV1MTNTaHUxOUVnenJUSm54OWtCZHMzMlFyWHM1VFhjSzhCcUFESTBiSlBvQUo1Mmk2NjFLb3NqOVhNekl2dmJYV2U3dGYya01EY1N2NnhVRnVnVlNHYmRHMjJmYVNvUlhEdDc2MWNidHdiT0JxUHFBeDlIM0xv?oc=5>
+
+### 内塔尼亚胡与特朗普通话 商定保持两国政策协调
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新京报
+- 时间: 2026-07-09 23:12
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1UODdvTmxCSDVGZTdOci1MYl9LZExYU0RoSWpLcnRGY1hhbTR3T0ZvRmFFa0gyZEFlZFAtMEEwZ3lqdXVPUDZhVlZHanlicGduM0tIVE81dkpxdksxNXd3cmxaQzI?oc=5>
+
+### 特朗普：美国应把叙利亚移出支恐名单
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-07-08 15:45
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5OUHhJUW44aXVISklGazdsRkEzR3RETzB5RjJaYzEwT2JTdG9VWERQRFU1QXFlSWY0MEstU0Qxb29jRTR4aFZUV2NUTEdNeGNTYjVuZmd5MnB2Vi1tS29GYjJRSDA5Zw?oc=5>
+
+### 特朗普与内塔尼亚胡通话 通报美在海湾地区行动
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: chinanews.com.cn
+- 时间: 2026-07-09 22:55
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE44WGJsSk1EWENjMnZBTndjM2VZRHlJQkhiNmVaUW1DY3BudDVMTm1sVk1jLVF0TE9OaGllOEJMeVdwdGNKNFpnekZpYTZrYXZLbmp5ZVcxOUtiNlBBeHVJMFpfODFZcjdw?oc=5>
+
+### 深视频|特朗普：我在伊朗的刺杀名单上排第一！
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 上观新闻
+- 时间: 2026-07-10 00:02
+- 链接: <https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEMjk3VEJpbThLUUhBYk9aYVd6RjFsazR1dDBIUjBYMWVLM3paQ09IV3JvOU9JdHR0eERvOHJrM0k0UXpCNFNBZVM2YVhHcG01elJSSUxyTVAyUQ?oc=5>
+
+### Infantino Whistles for Trump
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: China Economic Net
+- 时间: 2026-07-09 08:04
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE40S3FabHdnMk12dmVvTm54NWlERklvaU1saFhIb21fTkE2NkVmN2NDQmhJci1aZXJKLXpJaXJISEtRcURtNWNHLXBCOWU0c0FjcmJXa19uVFJsY1doNE5kLWxOUFJJSzZfT1E?oc=5>
+
+### 特朗普同内坦亚胡通电 同意在各领域继续保持协调
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 8world
+- 时间: 2026-07-09 23:26
+- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTFBtU0g4cEV4QU0xQ0FUX1BzSTRsaXRnM1hLUTl1cjlMRGlQOWlna2s1R3V6eHJHQTJMQVQtWTNTdzQtY0RTRTc2SlRZa3NDNzBuTlFaTlRLXzdmdm54bjFvNVN3?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-10 01:07  (11 条)
+
+- **王一博** | 王一博AI灵感工作室发布双语早安问候 <https://k.sina.com.cn/article_1663072851_m63207a5303301ml86.html>
+- **特朗普** | 特朗普搞中国那套，拿来对付西班牙？ <https://news.google.com/rss/articles/CBMiakFVX3lxTE1hVVlvT2R1ZVBRTmV6QzJkYk4za2RlcWlUNEVPbFpKWl8ySXloenJFeWxDZzdDb25YTjVaYmMwN0F3Q2g4Wlpad0NrQTFuRVY2dkRxR01UbWtkNkdGVVpobk1BM2dieGQyN2c?oc=5>
+- **特朗普** | 特朗普称“日本导弹”打美国航母，白宫回应 <https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSEpjbTZfcUZfbEhSMUZDbnhDTHpvbnZscmV3T0Jla0ZqQ1IzQXNBNmFrV1RZV29fTF81a3dKcGV4WHZEWFlrWEdERXZVM1R6SUNUU3lDakloV3JiMjNLWlN6YU5Hd1NYMjFxSmhZSEs4N3lTTl9fdDlJQ2RqeWp6TmJQSDI4Q1l5ZVc4?oc=5>
+- **特朗普** | “特朗普”重返肯尼迪中心？美法院又否了 <https://news.google.com/rss/articles/CBMif0FVX3lxTE1zdlJOSlNLSkZnWUhiTEhrVkc4b0RvcmtWVDhobmJURVFTQ3FjTS1pRjhyZUw1QjVJUUw0TVBVU01rTnlEN3BpX2JiRklpeWtQWkdxanNZZ1d2ZzE5akJlQ0ZZWHFFSDJ3OG9GYjBwbTF6VkN4MTRyeGFaVFVWcXM?oc=5>
+- **特朗普** | 特朗普和FIFA一合计，“全世界都在笑话美国” <https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMExaWTViNVVTbk9lUmF2azJrMHpoeXQyXzUyZ2g1bkhlN2pxTG1sSjJibjhlWVhoUzhWdGNFVk80cGh0Ynd6SWNIc284TG1QZWc0T0JsSE5oekxWZlV1MTNTaHUxOUVnenJUSm54OWtCZHMzMlFyWHM1VFhjSzhCcUFESTBiSlBvQUo1Mmk2NjFLb3NqOVhNekl2dmJYV2U3dGYya01EY1N2NnhVRnVnVlNHYmRHMjJmYVNvUlhEdDc2MWNidHdiT0JxUHFBeDlIM0xv?oc=5>
+- **特朗普** | 内塔尼亚胡与特朗普通话 商定保持两国政策协调 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1UODdvTmxCSDVGZTdOci1MYl9LZExYU0RoSWpLcnRGY1hhbTR3T0ZvRmFFa0gyZEFlZFAtMEEwZ3lqdXVPUDZhVlZHanlicGduM0tIVE81dkpxdksxNXd3cmxaQzI?oc=5>
+- **特朗普** | 特朗普：美国应把叙利亚移出支恐名单 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5OUHhJUW44aXVISklGazdsRkEzR3RETzB5RjJaYzEwT2JTdG9VWERQRFU1QXFlSWY0MEstU0Qxb29jRTR4aFZUV2NUTEdNeGNTYjVuZmd5MnB2Vi1tS29GYjJRSDA5Zw?oc=5>
+- **特朗普** | 特朗普与内塔尼亚胡通话 通报美在海湾地区行动 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE44WGJsSk1EWENjMnZBTndjM2VZRHlJQkhiNmVaUW1DY3BudDVMTm1sVk1jLVF0TE9OaGllOEJMeVdwdGNKNFpnekZpYTZrYXZLbmp5ZVcxOUtiNlBBeHVJMFpfODFZcjdw?oc=5>
+- **特朗普** | 深视频|特朗普：我在伊朗的刺杀名单上排第一！ <https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEMjk3VEJpbThLUUhBYk9aYVd6RjFsazR1dDBIUjBYMWVLM3paQ09IV3JvOU9JdHR0eERvOHJrM0k0UXpCNFNBZVM2YVhHcG01elJSSUxyTVAyUQ?oc=5>
+- **Trump** | Infantino Whistles for Trump <https://news.google.com/rss/articles/CBMiakFVX3lxTE40S3FabHdnMk12dmVvTm54NWlERklvaU1saFhIb21fTkE2NkVmN2NDQmhJci1aZXJKLXpJaXJISEtRcURtNWNHLXBCOWU0c0FjcmJXa19uVFJsY1doNE5kLWxOUFJJSzZfT1E?oc=5>
+- **Trump** | 特朗普同内坦亚胡通电 同意在各领域继续保持协调 <https://news.google.com/rss/articles/CBMiYkFVX3lxTFBtU0g4cEV4QU0xQ0FUX1BzSTRsaXRnM1hLUTl1cjlMRGlQOWlna2s1R3V6eHJHQTJMQVQtWTNTdzQtY0RTRTc2SlRZa3NDNzBuTlFaTlRLXzdmdm54bjFvNVN3?oc=5>
 
 ### 2026-07-09 23:05  (5 条)
 
