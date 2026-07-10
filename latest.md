@@ -1,27 +1,19 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-10 18:56**
-- 本轮扫到 6481 条, 新增 **5** 条
+- 最近更新: **2026-07-10 20:20**
+- 本轮扫到 6485 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (4 条)
 
-### 特朗普总统：美国将继续与伊朗谈判，重申停火协议已“终结”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-07-10 18:34
-- 链接: <https://news.google.com/rss/articles/CBMiywFBVV95cUxPOTZZcTBRZmtOLTJ1dEZHOUN2YW50YllxcThyU1VCbjNKWjhRMHgxdWpudFVscHV3M0g2LVZVWmQ2STJYVnpaQXRLRnhnV3lkZ2R3TEZZZGdmMmtOUmx0eDhMSVBiQzVBOHBRVWV5SjVsaEItNmxzUldrcUN0UzIwa3h6OTA0WUhUejBOLUUtX1k0YlpqNU9WZXRqU3pybDBfdmFodjZIRlJCSTZ6SlZZR3FoLVVQMjQ0ck9TV29jeGs2MG5VT3M5Z0Fuc9IBzgFBVV95cUxNMXhwNVRKdk5zbDUwdVpTMzB0Z2N4UFZ6TFFCSThybVVzRW0wbmY2MUdVQlRJa0NsLU5Ca0Z6dXlYbkZjNGZPTkVSWDZ0MmlCNGo0WjBDQi1qdUZDM3dJcGNicTMwQ2R5MnV3bDNNYjJ4S05UMURHZHM1Y0RHVlhXQk9jRjZjV0UwQ29pYkN3c3ZycWh1U1F4WTU3OEJSWnI1OFZBTjQ3NzBGX2hGUy1sLWJ2R1BDZmE3bnZScHZlQk1vNkxDaFVDa2R3Zzd0UQ?oc=5>
-
-### 午盘：美股继续上扬，芯片股普涨
+### 特朗普称停火协议已经结束 但美伊双方将继续进行谈判
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-10 16:40
-- 链接: <https://news.google.com/rss/articles/CBMijgJBVV95cUxNVmVwbXFaMkpZcEg0NFBGUlJFX3U4V0xISWJlZ0JzTjhETndtRHFLWHBQaXF4Y0ZrcUFtaXlTVHZrU3JSS282VGxBMGo2TWpFSzdkSDJCYV82UWJkeF92VjlzQWVOZXF6a3hOSVVMb3J2TzRFdmxVc3l1a0JuRVhXNDFSVmJXdFFBVHFxSjVoMmxJcDVrUlAxZ3o5R1ZuZE9VOFowbXB6MUF4RWhpMnRIQ056eWhfc01za0gwT2RKMmx4dXJvV0dOM3A4czlVUVNQaW52R3ZVMm1RU3hyMExDYTF6THc5b0E4VkVXQ1FxRU53UlhjazN3eVFFcHZ6bW1JZFUtR0RtVjkzdE92dUE?oc=5>
+- 时间: 2026-07-10 18:45
+- 链接: <https://news.google.com/rss/articles/CBMijgJBVV95cUxQZmtUbHk5T1ZxYU0tdlJoUTViWE5BUy1YZzdaUndGbE91cHE5Y1R4SmhOQUllMWJNVXpKZE9mTVF0cTl3ekhNU1pPaGE3cUdWUlFYN0V0aHpJVEltY1JBbDFVU0RTY2tFWHgxV2xEQWZQRlB5SFM5cjdzbnpFUFJjR19JVXhyM3FXYVRFMTZXRUJBR2JObEV5UjIxdV90blFRcTNkR0pJTURCS2R6RkhjaWhVMG9JbHV1YjE0UFk0VVliMlk2c2lYZ1pTRG4tQTdsMEFTQjRSTlFRSjlMTU1ENlRlTmlQcE13dVRYZWpaUVdSUXdVVnlRZUhoYXpBbi11Rmt3SExGMk5sWUZCa0E?oc=5>
 
 ### 特朗普机场、特朗普大桥来了
 
@@ -29,28 +21,35 @@
 - 来源: `googlenews`
 - 场馆: 新浪网
 - 时间: 2026-07-10 06:22
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbmhzRlgyR2JtWVJiclFMdFdsaHlkQlIxQUtTMWwxMzBGMTJ2T09icTBXYTZqcGtlaVNHWEVuWUVwSGJaOVlNX0pfclNOUEV6akY4VzhQem9GUFRrX3dUQlFET3lSR2JCNEdaUkZyUUFfaWFqXzBfZkJjWE1PRDAtVlB0THVOdG90cmFZZWd2dTNmRjVnbHpReXViQnJfNHpQMnFKY2hTYk1sd0RsbUk1M2RDNk5aZV9SVGFkV0pqenloYzVwMkZoZWZBTzVUTDdk?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZHFIcHdJTXhkZUhvMk15Zm1iZlRESk5Ia0txaktnVlNSR255dHoxTHJwTWtMb29RS1l3RWVjbnV1cVA4eUtfRU1SOWg2MEFad05zNTdpenpDQ0tKS3NTZUVfMmpNYVd3ZlFLMDRIMlUzUVpqeWlIYXdIYm5zcWZ2UC02VWpNRTZmSXREZ2NRMUFWNDBuSG1JcmxQbUZrdE5tcjdyMm1wdXFJUHUweW5rdzR6YU1SWUpTMlphbVhSeS1mUE9yUEhwX1FFMEpMdEJx?oc=5>
 
-### 怕了？特朗普两次临时换专机
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-07-10 01:16
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9lcnRpZUlib1ZQbjU0OUx4a1RtVVNrVHFzR1B3VVVXQTcxUTRJaU5qQWpGbW5ZWWZaakFaWGlmU3F3VkpwMjhqWjN4WVozczhGVmNsbGFITkZGanF4MnRtYjNZLVRQMngwNnc?oc=5>
-
-### 美国贸易代表：特朗普可借助此前关税案所依据的法律切断与西班牙贸易
+### 特朗普拒签住房法案 但将允许其自动生效
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪网
-- 时间: 2026-07-09 15:51
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVjlsY0pVNjNDemNPUFdiSUtIZjlGYmZzSndTU3VSVi1iUms0RzV2ekFzdTdtRE5XS3U5dHR0SUZWVl9mckI1VjFRODQtQlJJY200RlZBQVI5LTFuUDcxSXhsclRVb1JkVUI3VG9QU1J6em93aDY5OU9BbTBaQmtyRDhPRVRabkFLX3RNcGdEclVzNlI3NFhGVl9yV3RBOHhsZE50Q2VRQ0RVTEFCY1VwWUItdTRqdXFmTG5qT1hsWlJMcml2NkI0cHFaVXp5MDhRQ29kY2c1V044S3FrRl9N?oc=5>
+- 时间: 2026-07-10 14:36
+- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTFB0RnRRQWNBVWNUN21TYTZGS0ZkeWlZaVN5MmV2RFJTd2hUYlpOekwyR3hWZ2d4RG5sQWozMV9NM2t6UzlBb21rZG5JelRMZFVJYjF2QmlhRG9fck5BWG1FbHM2NDRlYjBzQkNrNFBUYzZnR1dXcmhLTi1YbnJ1WmZyMU5BeEpNc1Z5ZzByT3QyUVRDbkNYTFFIZjhXUEd3cUJjYWI5SU9IaTducjB6QlhiSXhGVHBVdVU5dU5XUHRwdHdxZ0ZCUWx6ODZoOGJqdWdpS25nZUhPZ0p2cWc?oc=5>
+
+### 北约峰会：欧洲国家唾面自干，特朗普前倨后恭
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-07-10 05:52
+- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxQRVhLVERzOXVFUmxyX2JRY2tUcnc1aG9NbDg1Tmc2UXlWeXowTVJfaUxtYkJQVU5BS2RKdHFmTEQ1QkNTaER5RG91TVliSDJudWZIbjJDOEdVM2owMkw1UmdrUEl4WGJneG5jTmNpR3BjdEtfU1lzWEowbllvWncwTHVaX1RuZEl5LUxuTkhYYXIyd2VL?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-10 20:20  (4 条)
+
+- **特朗普** | 特朗普称停火协议已经结束 但美伊双方将继续进行谈判 <https://news.google.com/rss/articles/CBMijgJBVV95cUxQZmtUbHk5T1ZxYU0tdlJoUTViWE5BUy1YZzdaUndGbE91cHE5Y1R4SmhOQUllMWJNVXpKZE9mTVF0cTl3ekhNU1pPaGE3cUdWUlFYN0V0aHpJVEltY1JBbDFVU0RTY2tFWHgxV2xEQWZQRlB5SFM5cjdzbnpFUFJjR19JVXhyM3FXYVRFMTZXRUJBR2JObEV5UjIxdV90blFRcTNkR0pJTURCS2R6RkhjaWhVMG9JbHV1YjE0UFk0VVliMlk2c2lYZ1pTRG4tQTdsMEFTQjRSTlFRSjlMTU1ENlRlTmlQcE13dVRYZWpaUVdSUXdVVnlRZUhoYXpBbi11Rmt3SExGMk5sWUZCa0E?oc=5>
+- **特朗普** | 特朗普机场、特朗普大桥来了 <https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZHFIcHdJTXhkZUhvMk15Zm1iZlRESk5Ia0txaktnVlNSR255dHoxTHJwTWtMb29RS1l3RWVjbnV1cVA4eUtfRU1SOWg2MEFad05zNTdpenpDQ0tKS3NTZUVfMmpNYVd3ZlFLMDRIMlUzUVpqeWlIYXdIYm5zcWZ2UC02VWpNRTZmSXREZ2NRMUFWNDBuSG1JcmxQbUZrdE5tcjdyMm1wdXFJUHUweW5rdzR6YU1SWUpTMlphbVhSeS1mUE9yUEhwX1FFMEpMdEJx?oc=5>
+- **特朗普** | 特朗普拒签住房法案 但将允许其自动生效 <https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTFB0RnRRQWNBVWNUN21TYTZGS0ZkeWlZaVN5MmV2RFJTd2hUYlpOekwyR3hWZ2d4RG5sQWozMV9NM2t6UzlBb21rZG5JelRMZFVJYjF2QmlhRG9fck5BWG1FbHM2NDRlYjBzQkNrNFBUYzZnR1dXcmhLTi1YbnJ1WmZyMU5BeEpNc1Z5ZzByT3QyUVRDbkNYTFFIZjhXUEd3cUJjYWI5SU9IaTducjB6QlhiSXhGVHBVdVU5dU5XUHRwdHdxZ0ZCUWx6ODZoOGJqdWdpS25nZUhPZ0p2cWc?oc=5>
+- **特朗普** | 北约峰会：欧洲国家唾面自干，特朗普前倨后恭 <https://news.google.com/rss/articles/CBMilAFBVV95cUxQRVhLVERzOXVFUmxyX2JRY2tUcnc1aG9NbDg1Tmc2UXlWeXowTVJfaUxtYkJQVU5BS2RKdHFmTEQ1QkNTaER5RG91TVliSDJudWZIbjJDOEdVM2owMkw1UmdrUEl4WGJneG5jTmNpR3BjdEtfU1lzWEowbllvWncwTHVaX1RuZEl5LUxuTkhYYXIyd2VL?oc=5>
 
 ### 2026-07-10 18:56  (5 条)
 
