@@ -1,25 +1,33 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-10 15:09**
-- 本轮扫到 6472 条, 新增 **8** 条
+- 最近更新: **2026-07-10 17:15**
+- 本轮扫到 6476 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (4 条)
 
-### 陈立农应援棒成520热门礼物，粉丝尖叫期待演唱会
+### 2026爱在南京嘉年华2026周杰伦世界巡回演唱会时间+地点+门票
 
-- 艺人/关键词: **蔡徐坤**
+- 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6086153017_m16ac3533905301nkxm.html>
+- 链接: <https://k.sina.com.cn/article_7879923012_1d5ae154401903ay46.html>
 
-### 美国佛州棕榈滩机场正式更名为“唐纳德·特朗普国际机场”，特朗普发文称赞：全世界最伟大、最壮观的机场之一
+### 特朗普：美方已同意继续和伊朗谈判
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-10 14:37
-- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNm94Q2ZXMng0NnVkNzMxNzNkNUlOUGhmMWJZUFRLZnpoZ3ZQdGEyOVNUWE90R1hrdGVhMUp2b0pOQUVBZHlBMi1ObWJteF8wMERpdHRLdVRCS0hrRGljbVZEc3VRalRXbHRKUTJ0V3VTcTdiN3Z2WlVWM1pNTWNIRDlsY2hpQzlGMVlN?oc=5>
+- 场馆: 新京报
+- 时间: 2026-07-10 14:41
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE91QzlXRWxpTE13OUpxS3hRQ094NlhDd3lwS2hiTGhhME1SSWkwZmxGLUd6NUNrRmRDWVpaU0xtaFo1NFozOG1oRkptVzNWWXI2NGxGVlc0NnFlWGh3VG9yeVk2b3c?oc=5>
+
+### 以色列警告美国，伊朗密谋刺杀特朗普：你需要了解哪些信息
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Al-Monitor
+- 时间: 2026-07-10 15:11
+- 链接: <https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeWFJWWt1M1pJMl9pNW9vSFk5MjJvQ193SU1STG9UeTNtWlFPZjUtUW5fVXhSQ05CT0JQTzgzRG1ORWpDVUpaQzR1ak02OERMam9IRjRFc08wWlVnanlLRVh0WlEyVTJibFJfZjVMUmZmTGRkX3hLRW5PT01xQ1c1cU8zaEdWcTBwZy1YQ2JFYkluNi1EX1NIbGI2ZEszcHRYVUZPV0JYY0FnTm4zZnh4dkFxRkFPN3ZSNVY4?oc=5>
 
 ### 特朗普拒签住房法案 但将允许其自动生效
 
@@ -27,52 +35,19 @@
 - 来源: `googlenews`
 - 场馆: 新浪网
 - 时间: 2026-07-10 14:36
-- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxQX0FjQzRLcHF2NnRSQ1ZvNGRrLUdXUHZyV0M4alZGdkwzbHJVTE5GMzRtTnRuUDFYZnNDM3dVTVotc3JSVjJzRk5oOTVCeVd5UjdUS0hCQ1JhTkJDcmR1Z3RnS2hvMWJVMWNkRDkzSC1GOGk2OHRqUDNEWmZla3gycHpVd0RLY1VLY3ZnN1NXLUxrNmNhaEpyT2FKTHU?oc=5>
-
-### 特朗普的“爱”，出不了北约的房间
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-07-10 12:59
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1qY1J5c2FNeFZ1NDVCbkw0MU5vczlWYkJOZDNITDlueS1KZE9LdG1OZWhBUGpnRmJWUEV4Y3lxWVpRcVEwWFhwWkFJd1FxYm9ta3dTTndoTWFYck5HN0FNMDh1SXVqOFB3aGkxVmtWRml0bFJpOThBZA?oc=5>
-
-### 巨额财富成特朗普政治负资产 加密货币引发质疑浪潮
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华军事
-- 时间: 2026-07-10 08:44
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9xZTUyZlNjWWlXdkRydy1WcjAwS3lFWDNSY2FiakdfQUhqMkdHVGczbnVxekdzUnJlUTVoUmFDMTFqSmNlUXJwbndnQ1Z1QUJBMnhRNVVCNEFRRVU5NHJrcTFpdEVOSTBkTlRpOS1hSjg?oc=5>
-
-### 美国一机场正式以特朗普冠名引争议
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-07-10 10:35
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9rMjY4c0FpblFiRU4zSTUxb1FsMnRod3EzUzZ5Z2JvZ0RXRFgzd3NoNDJvTDZZWmNVYks4cXRiZFU0VkM2WnhhMmdSZnp4WlhTeVh4X1BiOFgzZnVxdG9XdXk2SVlmS2t6dXhneHFVX2tvVEVEZ0VZT0Z0NFF5b0k?oc=5>
-
-### 特朗普称伊朗要求继续谈判，美方已同意
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-07-10 14:40
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Od3N3LTlLUGtuRC1NVVVWVmR5ZDJWaklEdlRGWDdPSk9UalhOTVloMm9jM0dkV1RhMUNCSDBCc1AteDFRNU1mRkxLSkZnZEI3Ykt1RG1SbFhoRUthWGc?oc=5>
-
-### 特朗普：美方已同意继续和伊朗谈判
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-10 14:53
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5RNm1zZkNvcWdxVmRzdTFWTUM4d2dRZ09WbUg0UFFrZjlRNVhjWG13N3JKV01CczlQQkVsNVU1ZHhHXzRSclB1U2pCMUU?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxPTWtBSGtQRU1xZUFWVjFqSjdHTm9pcVlmVXduOTRvM3F5Vm1ULTNmRkNNUWY1WFdqX0Z6d2k5WUNaUTUwTm03ZkVtUExaWHBnMnE5OEhFbVhoUkJRdnR4SWl1dWpQZi1VNVBoUnZOXzNmSlZvODBGbHA2cHVPZDI4VHVfZHdrWTg?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-10 17:15  (4 条)
+
+- **周杰伦** | 2026爱在南京嘉年华2026周杰伦世界巡回演唱会时间+地点+门票 <https://k.sina.com.cn/article_7879923012_1d5ae154401903ay46.html>
+- **特朗普** | 特朗普：美方已同意继续和伊朗谈判 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE91QzlXRWxpTE13OUpxS3hRQ094NlhDd3lwS2hiTGhhME1SSWkwZmxGLUd6NUNrRmRDWVpaU0xtaFo1NFozOG1oRkptVzNWWXI2NGxGVlc0NnFlWGh3VG9yeVk2b3c?oc=5>
+- **特朗普** | 以色列警告美国，伊朗密谋刺杀特朗普：你需要了解哪些信息 <https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeWFJWWt1M1pJMl9pNW9vSFk5MjJvQ193SU1STG9UeTNtWlFPZjUtUW5fVXhSQ05CT0JQTzgzRG1ORWpDVUpaQzR1ak02OERMam9IRjRFc08wWlVnanlLRVh0WlEyVTJibFJfZjVMUmZmTGRkX3hLRW5PT01xQ1c1cU8zaEdWcTBwZy1YQ2JFYkluNi1EX1NIbGI2ZEszcHRYVUZPV0JYY0FnTm4zZnh4dkFxRkFPN3ZSNVY4?oc=5>
+- **特朗普** | 特朗普拒签住房法案 但将允许其自动生效 <https://news.google.com/rss/articles/CBMihwFBVV95cUxPTWtBSGtQRU1xZUFWVjFqSjdHTm9pcVlmVXduOTRvM3F5Vm1ULTNmRkNNUWY1WFdqX0Z6d2k5WUNaUTUwTm03ZkVtUExaWHBnMnE5OEhFbVhoUkJRdnR4SWl1dWpQZi1VNVBoUnZOXzNmSlZvODBGbHA2cHVPZDI4VHVfZHdrWTg?oc=5>
 
 ### 2026-07-10 15:09  (8 条)
 
