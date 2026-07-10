@@ -1,48 +1,73 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-10 20:20**
-- 本轮扫到 6485 条, 新增 **4** 条
+- 最近更新: **2026-07-10 21:33**
+- 本轮扫到 6491 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (6 条)
 
-### 特朗普称停火协议已经结束 但美伊双方将继续进行谈判
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-10 18:45
-- 链接: <https://news.google.com/rss/articles/CBMijgJBVV95cUxQZmtUbHk5T1ZxYU0tdlJoUTViWE5BUy1YZzdaUndGbE91cHE5Y1R4SmhOQUllMWJNVXpKZE9mTVF0cTl3ekhNU1pPaGE3cUdWUlFYN0V0aHpJVEltY1JBbDFVU0RTY2tFWHgxV2xEQWZQRlB5SFM5cjdzbnpFUFJjR19JVXhyM3FXYVRFMTZXRUJBR2JObEV5UjIxdV90blFRcTNkR0pJTURCS2R6RkhjaWhVMG9JbHV1YjE0UFk0VVliMlk2c2lYZ1pTRG4tQTdsMEFTQjRSTlFRSjlMTU1ENlRlTmlQcE13dVRYZWpaUVdSUXdVVnlRZUhoYXpBbi11Rmt3SExGMk5sWUZCa0E?oc=5>
-
-### 特朗普机场、特朗普大桥来了
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-07-10 06:22
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZHFIcHdJTXhkZUhvMk15Zm1iZlRESk5Ia0txaktnVlNSR255dHoxTHJwTWtMb29RS1l3RWVjbnV1cVA4eUtfRU1SOWg2MEFad05zNTdpenpDQ0tKS3NTZUVfMmpNYVd3ZlFLMDRIMlUzUVpqeWlIYXdIYm5zcWZ2UC02VWpNRTZmSXREZ2NRMUFWNDBuSG1JcmxQbUZrdE5tcjdyMm1wdXFJUHUweW5rdzR6YU1SWUpTMlphbVhSeS1mUE9yUEhwX1FFMEpMdEJx?oc=5>
-
-### 特朗普拒签住房法案 但将允许其自动生效
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-07-10 14:36
-- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTFB0RnRRQWNBVWNUN21TYTZGS0ZkeWlZaVN5MmV2RFJTd2hUYlpOekwyR3hWZ2d4RG5sQWozMV9NM2t6UzlBb21rZG5JelRMZFVJYjF2QmlhRG9fck5BWG1FbHM2NDRlYjBzQkNrNFBUYzZnR1dXcmhLTi1YbnJ1WmZyMU5BeEpNc1Z5ZzByT3QyUVRDbkNYTFFIZjhXUEd3cUJjYWI5SU9IaTducjB6QlhiSXhGVHBVdVU5dU5XUHRwdHdxZ0ZCUWx6ODZoOGJqdWdpS25nZUhPZ0p2cWc?oc=5>
-
-### 北约峰会：欧洲国家唾面自干，特朗普前倨后恭
+### 特朗普宣布美伊“停火结束”后 美军称暂无行动变化
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-07-10 05:52
-- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxQRVhLVERzOXVFUmxyX2JRY2tUcnc1aG9NbDg1Tmc2UXlWeXowTVJfaUxtYkJQVU5BS2RKdHFmTEQ1QkNTaER5RG91TVliSDJudWZIbjJDOEdVM2owMkw1UmdrUEl4WGJneG5jTmNpR3BjdEtfU1lzWEowbllvWncwTHVaX1RuZEl5LUxuTkhYYXIyd2VL?oc=5>
+- 时间: 2026-07-10 21:22
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE56U1FiRGlDTmhBN1lPbG03b0gwTWw1TEpHWThBblVKRkNRZ1BLM3VJa0xjVnJTNkZIN3hkd3lRMndqa0ppNHlybjVyZ0tXWmtYOVV1N3A5RVRGWEl1TlpFY3pPb1VQS3pZeWhPazhQN0NWVHhl?oc=5>
+
+### 特朗普松口：美国授权乌克兰自产“爱国者”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-10 19:48
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1zNW95b19rWkhqNDN2b3dKNmdSTEhOaEFteV8tZDIwSkw2NzZwNmY4dVZBa0hPRl9qWDE1bExsUWxwU05ZOUcxcmh4bTAtTlVmeFItc2JlelhEemFMZUxqdTJ2TUpnTkVkNHZnZHAwYzBfZjNEcHk5cw?oc=5>
+
+### 美众院中国问题特设委员会主席：盼特朗普总统保持坚定立场，维持台海现状
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-07-10 21:06
+- 链接: <https://news.google.com/rss/articles/CBMi3AFBVV95cUxQLURTaEo1ZzRjWHVQdWZqazNqVldDTkdhRU84QjlkQkN2YVJkaUpWalRJVElxTmNCZW5uSnZfc2JUN1gwRERmT3pXdkExNjhnXzNVVUU2QnpSajdSZUFSVjNjdUFGb01vQ1FqT1VockxqS21qVDNIck8tSzQ4RnZCbmgwTUhZNVZQd2dLUlZfWEllbnBqc0EtZTNtbjFfaDIyckZ6NFN2TnduTFpVSmtxdjZMVVNPY1czV3RzZkZoNVVUUnhKbVVEUnk0VFlvNS14SXVPVE1sU3ZNTDJN0gHfAUFVX3lxTE8wNEU3VEQzVzdtU0RZT0ZsT1VfbloydDZTbXZCZHhFeXdld2M0eUNXV2txcUtZMmpsVW55U3pLZnptbUhscS1nOHJqcVNodTUycXZMZlI3NkhuT1czNldMS19OWjV2dWp2YUE0UVg5UDhkWnUtY05NOW1BOFFjNktPcXJyaEhrbkNScVZHQUhITTZPQXB5ZUl3Um05dHB1LWIzb25POW9HcGVuTW1nREVFQkhGMGN6RHgxcFBZR0RwRVhUdEpqVVhPU21YaEktb0ZuQmdkMDZBekh2QWZHb2s?oc=5>
+
+### 特朗普赢麻了！嘴上全程零收益、不赚一分钱，暗地却稳收两大权！
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 网易
+- 时间: 2026-07-10 17:12
+- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE84R0U5b0ZBRW5jaUphZHNETmlBS0NURGRyenBFZUJkMEFwZXBMM0hxVTJ0UWVWUzgyTVBEMVppT0ZHTzFlcFRfU2VWT1JHYlZOdU1zOUxiZWtGWDlVbS1uenBn?oc=5>
+
+### 美国贸易代表：特朗普可借助此前关税案所依据的法律切断与西班牙贸易
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-09 15:51
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcmtVT0hCdmdjQWNaMUoybTAyYThOSzRjWnBzbEpseXBDbmZ1aC1mTDhOV3JhdUdsSm5WdFM3Uy0yWFR3RGRJOUNGdVdvS3c4UUd1Z29mWWJKVXhsY3BYY2YwU0Z2TmVlZ2VGYkZuQ0ctR3FWeEt3anh5eVFHbU52NjdTeHh3eTI2bUxUTkdHVldkbUtjMnRva0pKTmE0TTVma2UwVnJuejZ1dHZWUmlKUFFmVmRfUl9uYmxtOUItSU0tU09TdzFWcFVkV2lZcFdBQnRGOFlDUDhWMzVHUDhB?oc=5>
+
+### 更新：美国股市上涨，油价回落，因特朗普确认将举行伊朗会谈
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-07-10 20:37
+- 链接: <https://news.google.com/rss/articles/CBMipwFBVV95cUxOS3o2ZlJwWGlYREd5QzhxZEs5T0Z3RXBzRlQ5Ykg4dUlCbzZyRHoyaHU2SjBaelNmRnpCM0p3RlBjQkNwZHRock9ER3pjUl84cVhPUmNIWjBLdE9CUjg5Sm1GRTNoeUhZa0MtREdYZ21oOTB1aEs3NUc1MlIwX3lvQzJYa1FBNGhHcXpkZHp2SmxUXzhmZENXUWRpNDZmTkdpdVNkdXZzUQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-10 21:33  (6 条)
+
+- **特朗普** | 特朗普宣布美伊“停火结束”后 美军称暂无行动变化 <https://news.google.com/rss/articles/CBMidEFVX3lxTE56U1FiRGlDTmhBN1lPbG03b0gwTWw1TEpHWThBblVKRkNRZ1BLM3VJa0xjVnJTNkZIN3hkd3lRMndqa0ppNHlybjVyZ0tXWmtYOVV1N3A5RVRGWEl1TlpFY3pPb1VQS3pZeWhPazhQN0NWVHhl?oc=5>
+- **特朗普** | 特朗普松口：美国授权乌克兰自产“爱国者” <https://news.google.com/rss/articles/CBMieEFVX3lxTE1zNW95b19rWkhqNDN2b3dKNmdSTEhOaEFteV8tZDIwSkw2NzZwNmY4dVZBa0hPRl9qWDE1bExsUWxwU05ZOUcxcmh4bTAtTlVmeFItc2JlelhEemFMZUxqdTJ2TUpnTkVkNHZnZHAwYzBfZjNEcHk5cw?oc=5>
+- **特朗普** | 美众院中国问题特设委员会主席：盼特朗普总统保持坚定立场，维持台海现状 <https://news.google.com/rss/articles/CBMi3AFBVV95cUxQLURTaEo1ZzRjWHVQdWZqazNqVldDTkdhRU84QjlkQkN2YVJkaUpWalRJVElxTmNCZW5uSnZfc2JUN1gwRERmT3pXdkExNjhnXzNVVUU2QnpSajdSZUFSVjNjdUFGb01vQ1FqT1VockxqS21qVDNIck8tSzQ4RnZCbmgwTUhZNVZQd2dLUlZfWEllbnBqc0EtZTNtbjFfaDIyckZ6NFN2TnduTFpVSmtxdjZMVVNPY1czV3RzZkZoNVVUUnhKbVVEUnk0VFlvNS14SXVPVE1sU3ZNTDJN0gHfAUFVX3lxTE8wNEU3VEQzVzdtU0RZT0ZsT1VfbloydDZTbXZCZHhFeXdld2M0eUNXV2txcUtZMmpsVW55U3pLZnptbUhscS1nOHJqcVNodTUycXZMZlI3NkhuT1czNldMS19OWjV2dWp2YUE0UVg5UDhkWnUtY05NOW1BOFFjNktPcXJyaEhrbkNScVZHQUhITTZPQXB5ZUl3Um05dHB1LWIzb25POW9HcGVuTW1nREVFQkhGMGN6RHgxcFBZR0RwRVhUdEpqVVhPU21YaEktb0ZuQmdkMDZBekh2QWZHb2s?oc=5>
+- **特朗普** | 特朗普赢麻了！嘴上全程零收益、不赚一分钱，暗地却稳收两大权！ <https://news.google.com/rss/articles/CBMiYkFVX3lxTE84R0U5b0ZBRW5jaUphZHNETmlBS0NURGRyenBFZUJkMEFwZXBMM0hxVTJ0UWVWUzgyTVBEMVppT0ZHTzFlcFRfU2VWT1JHYlZOdU1zOUxiZWtGWDlVbS1uenBn?oc=5>
+- **特朗普** | 美国贸易代表：特朗普可借助此前关税案所依据的法律切断与西班牙贸易 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcmtVT0hCdmdjQWNaMUoybTAyYThOSzRjWnBzbEpseXBDbmZ1aC1mTDhOV3JhdUdsSm5WdFM3Uy0yWFR3RGRJOUNGdVdvS3c4UUd1Z29mWWJKVXhsY3BYY2YwU0Z2TmVlZ2VGYkZuQ0ctR3FWeEt3anh5eVFHbU52NjdTeHh3eTI2bUxUTkdHVldkbUtjMnRva0pKTmE0TTVma2UwVnJuejZ1dHZWUmlKUFFmVmRfUl9uYmxtOUItSU0tU09TdzFWcFVkV2lZcFdBQnRGOFlDUDhWMzVHUDhB?oc=5>
+- **Trump** | 更新：美国股市上涨，油价回落，因特朗普确认将举行伊朗会谈 <https://news.google.com/rss/articles/CBMipwFBVV95cUxOS3o2ZlJwWGlYREd5QzhxZEs5T0Z3RXBzRlQ5Ykg4dUlCbzZyRHoyaHU2SjBaelNmRnpCM0p3RlBjQkNwZHRock9ER3pjUl84cVhPUmNIWjBLdE9CUjg5Sm1GRTNoeUhZa0MtREdYZ21oOTB1aEs3NUc1MlIwX3lvQzJYa1FBNGhHcXpkZHp2SmxUXzhmZENXUWRpNDZmTkdpdVNkdXZzUQ?oc=5>
 
 ### 2026-07-10 20:20  (4 条)
 
