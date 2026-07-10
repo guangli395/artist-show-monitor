@@ -1,43 +1,43 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-10 21:33**
-- 本轮扫到 6491 条, 新增 **6** 条
+- 最近更新: **2026-07-10 22:55**
+- 本轮扫到 6498 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (7 条)
 
-### 特朗普宣布美伊“停火结束”后 美军称暂无行动变化
+### 特朗普：美方已同意继续和伊朗谈判
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-07-10 21:22
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE56U1FiRGlDTmhBN1lPbG03b0gwTWw1TEpHWThBblVKRkNRZ1BLM3VJa0xjVnJTNkZIN3hkd3lRMndqa0ppNHlybjVyZ0tXWmtYOVV1N3A5RVRGWEl1TlpFY3pPb1VQS3pZeWhPazhQN0NWVHhl?oc=5>
+- 场馆: 中国日报网
+- 时间: 2026-07-10 15:44
+- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE03NHdxYWFOTERjdzU5dE9VRjAxZmNtQm0yNEx3WnVoanlDb1JHWll6LVpSYXZsVFNRR0s3bWlsTVVxYmVydDJET1dJSUw4WGkzdWtJdlZSR3Q4SjB6dU1JVElOWXJET1ZxSkdKNzJJQzhNZkl3eFJkd3Fjd08?oc=5>
 
-### 特朗普松口：美国授权乌克兰自产“爱国者”
+### 特朗普拒签住房法案 但将允许其自动生效
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-10 19:48
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1zNW95b19rWkhqNDN2b3dKNmdSTEhOaEFteV8tZDIwSkw2NzZwNmY4dVZBa0hPRl9qWDE1bExsUWxwU05ZOUcxcmh4bTAtTlVmeFItc2JlelhEemFMZUxqdTJ2TUpnTkVkNHZnZHAwYzBfZjNEcHk5cw?oc=5>
+- 时间: 2026-07-10 21:42
+- 链接: <https://news.google.com/rss/articles/CBMixwJBVV95cUxPR0JJTkxsdXRiUGpPT2R5MFRRZk4wa1J5N1E5R0duUXFuYTZPMU1vVUhkcHNMaS13WHgySmdIRGEzMjVHWnRWLUxsUW4yZ1dabkhrRWU3MC1hcUxzeGtkcUE2anRaWFZodC0xWTc1WllYWlB0aGRqWF9wUVF2bVRld1JyMGtyZHExcmZocHJZWEdwUXNia01jSnB6SzZsaEVYeTBWTU4xY0VyUlFpdHBaMmE0X0tucndoZ1pwTFRwMTliUnJmZko0ZzV2NEVhWHZ5MU1VQnlUU1hBbkNDb2JMeDdhWDJzN1FCMy01bXVhWXNyeW4zNkY1Rnc4RmRWUXFmSGpsbFpRbUVRdmhma2hLQmVTaUdEV1Z5YTVQUUlsenRaOENCODJvWHJFWkxyend3WXluUDd2eG5RQTBWdzZNMS1Ic3JmeXM?oc=5>
 
-### 美众院中国问题特设委员会主席：盼特朗普总统保持坚定立场，维持台海现状
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-07-10 21:06
-- 链接: <https://news.google.com/rss/articles/CBMi3AFBVV95cUxQLURTaEo1ZzRjWHVQdWZqazNqVldDTkdhRU84QjlkQkN2YVJkaUpWalRJVElxTmNCZW5uSnZfc2JUN1gwRERmT3pXdkExNjhnXzNVVUU2QnpSajdSZUFSVjNjdUFGb01vQ1FqT1VockxqS21qVDNIck8tSzQ4RnZCbmgwTUhZNVZQd2dLUlZfWEllbnBqc0EtZTNtbjFfaDIyckZ6NFN2TnduTFpVSmtxdjZMVVNPY1czV3RzZkZoNVVUUnhKbVVEUnk0VFlvNS14SXVPVE1sU3ZNTDJN0gHfAUFVX3lxTE8wNEU3VEQzVzdtU0RZT0ZsT1VfbloydDZTbXZCZHhFeXdld2M0eUNXV2txcUtZMmpsVW55U3pLZnptbUhscS1nOHJqcVNodTUycXZMZlI3NkhuT1czNldMS19OWjV2dWp2YUE0UVg5UDhkWnUtY05NOW1BOFFjNktPcXJyaEhrbkNScVZHQUhITTZPQXB5ZUl3Um05dHB1LWIzb25POW9HcGVuTW1nREVFQkhGMGN6RHgxcFBZR0RwRVhUdEpqVVhPU21YaEktb0ZuQmdkMDZBekh2QWZHb2s?oc=5>
-
-### 特朗普赢麻了！嘴上全程零收益、不赚一分钱，暗地却稳收两大权！
+### 特朗普没来电话
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 网易
-- 时间: 2026-07-10 17:12
-- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE84R0U5b0ZBRW5jaUphZHNETmlBS0NURGRyenBFZUJkMEFwZXBMM0hxVTJ0UWVWUzgyTVBEMVppT0ZHTzFlcFRfU2VWT1JHYlZOdU1zOUxiZWtGWDlVbS1uenBn?oc=5>
+- 场馆: 观察者
+- 时间: 2026-07-09 13:41
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE0xV3A1QnhYV3dzRmZuV0hwQjdzMjhMR1hFQkFiM0owQnB6WjRpMUxpMnZ0ay0tMER2d1VCVmsyWW12Sk9YZ2VPRWhMZWVrNFBRQzJhMTRPQ0hSUllVUUtWclNhQkhpbGt2TkE?oc=5>
+
+### 特朗普机场、特朗普大桥来了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-10 06:22
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxQc08zZkVwenRSSW0yTWZhc2xUNlNxMXJEbUt5cFoyTl9nTHNoUER2NnBNTWlHT25ETGVFUlRNb0loVnRQS0psTmRHaVh1TlVlSWxCNGdVNnBOdEl5QWVfMFNCQ1pQMm9vN1dIWVhINkJ5NmdxQlEybDVXNXAxMmUwNkY1eWR0dFh3OW1ORzRsWkp5ckltZDdZM0pNVW5ZSFFvd2FSd0tFYUJiMkpNNDM5Z1g1SkxLUThzcVdlN0lWMXl2V3JHVXgzLWZ0bDlvVzZi?oc=5>
 
 ### 美国贸易代表：特朗普可借助此前关税案所依据的法律切断与西班牙贸易
 
@@ -45,20 +45,38 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-07-09 15:51
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcmtVT0hCdmdjQWNaMUoybTAyYThOSzRjWnBzbEpseXBDbmZ1aC1mTDhOV3JhdUdsSm5WdFM3Uy0yWFR3RGRJOUNGdVdvS3c4UUd1Z29mWWJKVXhsY3BYY2YwU0Z2TmVlZ2VGYkZuQ0ctR3FWeEt3anh5eVFHbU52NjdTeHh3eTI2bUxUTkdHVldkbUtjMnRva0pKTmE0TTVma2UwVnJuejZ1dHZWUmlKUFFmVmRfUl9uYmxtOUItSU0tU09TdzFWcFVkV2lZcFdBQnRGOFlDUDhWMzVHUDhB?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxOXzZVN0E4S3BkSE10VkJORzMxbVZqNWc4cXhPd1pBQ2toc211dFdxSVZXVkdjWkh0bDAzTk5SRWZGVFJycktRMWdOTmhDX3lGckhiZTdLOHl0LVpBTG1sakNPaF9FNDRMVmd5Q3hEam1ja0dKLVg3eFlkSWlJVkRFdFhwV0QzQjQzc2JiazAxZ1UxM0hxR2Jia05VYjQ4aHRuRFZRcTNFU25CV2pxUlJtbTgwaE9ITkU4WjEzUkwzaXZDbGNfWGtNMFZWeHBnVjA4eFBub1FxaF91a2lwN2dV?oc=5>
 
-### 更新：美国股市上涨，油价回落，因特朗普确认将举行伊朗会谈
+### Oil Futures Retreat as Trump Confirms Talks With Iran -- Market Talk
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: Moomoo
-- 时间: 2026-07-10 20:37
-- 链接: <https://news.google.com/rss/articles/CBMipwFBVV95cUxOS3o2ZlJwWGlYREd5QzhxZEs5T0Z3RXBzRlQ5Ykg4dUlCbzZyRHoyaHU2SjBaelNmRnpCM0p3RlBjQkNwZHRock9ER3pjUl84cVhPUmNIWjBLdE9CUjg5Sm1GRTNoeUhZa0MtREdYZ21oOTB1aEs3NUc1MlIwX3lvQzJYa1FBNGhHcXpkZHp2SmxUXzhmZENXUWRpNDZmTkdpdVNkdXZzUQ?oc=5>
+- 时间: 2026-07-10 16:09
+- 链接: <https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUGJIbV9rOFBFUDFabzJPekxlWlBaUVp2RFF5ZXE5SXFRLXR0Q0tUd1FQWGVqQkVGUFVVd25sT2dzRW1IZnB3OC1FSFVzRExBcGE5OE1xNkx5aU5rZ1N2S2ZNcDB2Z3I2d3dWWGNSczczYzIwSXFuZl9CVkN2MTdJNGNXcmhKYWFYOVlBRkpVZXVUNlNUQ0xNLVgwTkJhbWJTZUpfcEt2ZkxqWW8?oc=5>
+
+### Trump: US is preparing for more strikes against Iran
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: TDM
+- 时间: 2026-07-08 13:38
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxNcktWbm5Zd0xoNmc5Sm5wRTZVV2lHcDB4NFFIdE5OdTdQOV9LUDFiekpRNXFqZ0dxdld0LWpxaTFmajNTRW9DVXpXZXZVSVA2UDZWZzdUcFhJTEFMM0NYWDFYd2ZqQTdpQzlBNFRlR3RPSWptVmlzelhjb2FsclNPOUtjQWxFbFU?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-10 22:55  (7 条)
+
+- **特朗普** | 特朗普：美方已同意继续和伊朗谈判 <https://news.google.com/rss/articles/CBMifEFVX3lxTE03NHdxYWFOTERjdzU5dE9VRjAxZmNtQm0yNEx3WnVoanlDb1JHWll6LVpSYXZsVFNRR0s3bWlsTVVxYmVydDJET1dJSUw4WGkzdWtJdlZSR3Q4SjB6dU1JVElOWXJET1ZxSkdKNzJJQzhNZkl3eFJkd3Fjd08?oc=5>
+- **特朗普** | 特朗普拒签住房法案 但将允许其自动生效 <https://news.google.com/rss/articles/CBMixwJBVV95cUxPR0JJTkxsdXRiUGpPT2R5MFRRZk4wa1J5N1E5R0duUXFuYTZPMU1vVUhkcHNMaS13WHgySmdIRGEzMjVHWnRWLUxsUW4yZ1dabkhrRWU3MC1hcUxzeGtkcUE2anRaWFZodC0xWTc1WllYWlB0aGRqWF9wUVF2bVRld1JyMGtyZHExcmZocHJZWEdwUXNia01jSnB6SzZsaEVYeTBWTU4xY0VyUlFpdHBaMmE0X0tucndoZ1pwTFRwMTliUnJmZko0ZzV2NEVhWHZ5MU1VQnlUU1hBbkNDb2JMeDdhWDJzN1FCMy01bXVhWXNyeW4zNkY1Rnc4RmRWUXFmSGpsbFpRbUVRdmhma2hLQmVTaUdEV1Z5YTVQUUlsenRaOENCODJvWHJFWkxyend3WXluUDd2eG5RQTBWdzZNMS1Ic3JmeXM?oc=5>
+- **特朗普** | 特朗普没来电话 <https://news.google.com/rss/articles/CBMiakFVX3lxTE0xV3A1QnhYV3dzRmZuV0hwQjdzMjhMR1hFQkFiM0owQnB6WjRpMUxpMnZ0ay0tMER2d1VCVmsyWW12Sk9YZ2VPRWhMZWVrNFBRQzJhMTRPQ0hSUllVUUtWclNhQkhpbGt2TkE?oc=5>
+- **特朗普** | 特朗普机场、特朗普大桥来了 <https://news.google.com/rss/articles/CBMi0AFBVV95cUxQc08zZkVwenRSSW0yTWZhc2xUNlNxMXJEbUt5cFoyTl9nTHNoUER2NnBNTWlHT25ETGVFUlRNb0loVnRQS0psTmRHaVh1TlVlSWxCNGdVNnBOdEl5QWVfMFNCQ1pQMm9vN1dIWVhINkJ5NmdxQlEybDVXNXAxMmUwNkY1eWR0dFh3OW1ORzRsWkp5ckltZDdZM0pNVW5ZSFFvd2FSd0tFYUJiMkpNNDM5Z1g1SkxLUThzcVdlN0lWMXl2V3JHVXgzLWZ0bDlvVzZi?oc=5>
+- **特朗普** | 美国贸易代表：特朗普可借助此前关税案所依据的法律切断与西班牙贸易 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxOXzZVN0E4S3BkSE10VkJORzMxbVZqNWc4cXhPd1pBQ2toc211dFdxSVZXVkdjWkh0bDAzTk5SRWZGVFJycktRMWdOTmhDX3lGckhiZTdLOHl0LVpBTG1sakNPaF9FNDRMVmd5Q3hEam1ja0dKLVg3eFlkSWlJVkRFdFhwV0QzQjQzc2JiazAxZ1UxM0hxR2Jia05VYjQ4aHRuRFZRcTNFU25CV2pxUlJtbTgwaE9ITkU4WjEzUkwzaXZDbGNfWGtNMFZWeHBnVjA4eFBub1FxaF91a2lwN2dV?oc=5>
+- **Trump** | Oil Futures Retreat as Trump Confirms Talks With Iran -- Market Talk <https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUGJIbV9rOFBFUDFabzJPekxlWlBaUVp2RFF5ZXE5SXFRLXR0Q0tUd1FQWGVqQkVGUFVVd25sT2dzRW1IZnB3OC1FSFVzRExBcGE5OE1xNkx5aU5rZ1N2S2ZNcDB2Z3I2d3dWWGNSczczYzIwSXFuZl9CVkN2MTdJNGNXcmhKYWFYOVlBRkpVZXVUNlNUQ0xNLVgwTkJhbWJTZUpfcEt2ZkxqWW8?oc=5>
+- **Trump** | Trump: US is preparing for more strikes against Iran <https://news.google.com/rss/articles/CBMihwFBVV95cUxNcktWbm5Zd0xoNmc5Sm5wRTZVV2lHcDB4NFFIdE5OdTdQOV9LUDFiekpRNXFqZ0dxdld0LWpxaTFmajNTRW9DVXpXZXZVSVA2UDZWZzdUcFhJTEFMM0NYWDFYd2ZqQTdpQzlBNFRlR3RPSWptVmlzelhjb2FsclNPOUtjQWxFbFU?oc=5>
 
 ### 2026-07-10 21:33  (6 条)
 
