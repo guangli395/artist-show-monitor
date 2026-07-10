@@ -1,35 +1,19 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-10 22:55**
-- 本轮扫到 6498 条, 新增 **7** 条
+- 最近更新: **2026-07-10 23:54**
+- 本轮扫到 6504 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (6 条)
 
-### 特朗普：美方已同意继续和伊朗谈判
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中国日报网
-- 时间: 2026-07-10 15:44
-- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE03NHdxYWFOTERjdzU5dE9VRjAxZmNtQm0yNEx3WnVoanlDb1JHWll6LVpSYXZsVFNRR0s3bWlsTVVxYmVydDJET1dJSUw4WGkzdWtJdlZSR3Q4SjB6dU1JVElOWXJET1ZxSkdKNzJJQzhNZkl3eFJkd3Fjd08?oc=5>
-
-### 特朗普拒签住房法案 但将允许其自动生效
+### 特朗普表态：尽管停火协议作废，美国仍将与伊朗持续谈判
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-10 21:42
-- 链接: <https://news.google.com/rss/articles/CBMixwJBVV95cUxPR0JJTkxsdXRiUGpPT2R5MFRRZk4wa1J5N1E5R0duUXFuYTZPMU1vVUhkcHNMaS13WHgySmdIRGEzMjVHWnRWLUxsUW4yZ1dabkhrRWU3MC1hcUxzeGtkcUE2anRaWFZodC0xWTc1WllYWlB0aGRqWF9wUVF2bVRld1JyMGtyZHExcmZocHJZWEdwUXNia01jSnB6SzZsaEVYeTBWTU4xY0VyUlFpdHBaMmE0X0tucndoZ1pwTFRwMTliUnJmZko0ZzV2NEVhWHZ5MU1VQnlUU1hBbkNDb2JMeDdhWDJzN1FCMy01bXVhWXNyeW4zNkY1Rnc4RmRWUXFmSGpsbFpRbUVRdmhma2hLQmVTaUdEV1Z5YTVQUUlsenRaOENCODJvWHJFWkxyend3WXluUDd2eG5RQTBWdzZNMS1Ic3JmeXM?oc=5>
-
-### 特朗普没来电话
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-07-09 13:41
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE0xV3A1QnhYV3dzRmZuV0hwQjdzMjhMR1hFQkFiM0owQnB6WjRpMUxpMnZ0ay0tMER2d1VCVmsyWW12Sk9YZ2VPRWhMZWVrNFBRQzJhMTRPQ0hSUllVUUtWclNhQkhpbGt2TkE?oc=5>
+- 时间: 2026-07-10 23:30
+- 链接: <https://news.google.com/rss/articles/CBMiigJBVV95cUxPVnRkbFlPQVh4QnZRU1V4MzFPOWxXRUtlQ01lWW1qQW55MnVxVUNOb2hES3FWLTVjLXNVTzZoOU0zTWpZcGVSckZuQTY0Um9WNkpuNkd0c1JKNnRGVDN3bURMRlRBRHNhY001bGdTOFMtUUg2VW01RTk1UXR6YlhJNnM3bGhfSlNsSmZKR0pCUmtLTkxPdWE0cVJpUWZsUFJuWW1BWmtFdWlaSkVOOHljQldpRkRCcHJyUExNSVVKM3AzM2haUU9jVDZtUVhremNjVkE1aDI3ZWJqZmk0NmhZTUctaEkxNHBOUWZOQ052VzRSTU9UZHY3eW9CeEVNWE80UmxLYXhJWWdUZw?oc=5>
 
 ### 特朗普机场、特朗普大桥来了
 
@@ -37,36 +21,53 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-07-10 06:22
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxQc08zZkVwenRSSW0yTWZhc2xUNlNxMXJEbUt5cFoyTl9nTHNoUER2NnBNTWlHT25ETGVFUlRNb0loVnRQS0psTmRHaVh1TlVlSWxCNGdVNnBOdEl5QWVfMFNCQ1pQMm9vN1dIWVhINkJ5NmdxQlEybDVXNXAxMmUwNkY1eWR0dFh3OW1ORzRsWkp5ckltZDdZM0pNVW5ZSFFvd2FSd0tFYUJiMkpNNDM5Z1g1SkxLUThzcVdlN0lWMXl2V3JHVXgzLWZ0bDlvVzZi?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdnBWVW1hbDJqMHlBSy1rdmJsWlFVN3lnNEp0RktIVklDekJWeVRVUnJfMzF0cGs2OTN0cWd4R0hLaEV2aTZfajlBamJVMmFXQjhsTDgxNHRYNkk0T216cE5lSEVZUHF2cUtqeEM4V1dPVldQcW1oWkV6RE8yTzctbWNiVFpGNzVqUzZqVkt6TUJveVVDSW1FUjJKdWJGUnZlVmxWbHlsRU5PTnVfdkF1NzdDdGRDUDUzOF9GbVRESjFtRkFWeF9KdnBRWWpuSDlF?oc=5>
 
-### 美国贸易代表：特朗普可借助此前关税案所依据的法律切断与西班牙贸易
+### 罕见！在任总统名字直接贴机场，特朗普刚签完字，反对声就炸了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 网易
+- 时间: 2026-07-10 20:43
+- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE15bUlUZzlvZnZOc0VyWEhXQkItUjVPVm1JSTZkNHNSMDdQbUdjRURXWV91eGlTTWIwS1VEeDd2LXpSQzR6TVd1ck1OUmFZRGtjMm9IdUtLU2c5Qm9QV1oza2p3?oc=5>
+
+### 特朗普年入22亿美元，2/3来自加密货币，日均炒股87笔
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-09 15:51
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxOXzZVN0E4S3BkSE10VkJORzMxbVZqNWc4cXhPd1pBQ2toc211dFdxSVZXVkdjWkh0bDAzTk5SRWZGVFJycktRMWdOTmhDX3lGckhiZTdLOHl0LVpBTG1sakNPaF9FNDRMVmd5Q3hEam1ja0dKLVg3eFlkSWlJVkRFdFhwV0QzQjQzc2JiazAxZ1UxM0hxR2Jia05VYjQ4aHRuRFZRcTNFU25CV2pxUlJtbTgwaE9ITkU4WjEzUkwzaXZDbGNfWGtNMFZWeHBnVjA4eFBub1FxaF91a2lwN2dV?oc=5>
+- 时间: 2026-07-09 02:05
+- 链接: <https://news.google.com/rss/articles/CBMi4AFBVV95cUxQbk0tTThSMS1SOVN3X0RRWWFLZnkxeE14OV9qTk5OV3lIaF94dzhUMjVsdDh6UnhpOXRTdG1uYTNDeDdaRk1wZzJXNzVUX2hGVENyUkNzZVQtWk9lMkdHTkpwdmZGYjY5U1Q2SGI3WEttZ0FQbU9BUzFZTS1kUVEtcGZUYTZkXzk2bDc3ckVSd0t2S3JMVTVOS2lOS3VEMXlGVmRPUlRpUldDX3g5T0VZcWlYNVZSeEd3SE82V1ZnZWFRU25OclpDcHIxcTlOd3FVendPOTAzTEhXOHpWc28wOA?oc=5>
 
-### Oil Futures Retreat as Trump Confirms Talks With Iran -- Market Talk
+### 特朗普松口：美国授权乌克兰自产“爱国者”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 东方财富
+- 时间: 2026-07-10 22:12
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFB1UkxLbGpQNmE4cGY4VGI5dEJZWDFfMnZ3SkNpRVhIRFJsSEJFUVl1M3NNaG9yVm5JeWM1bXBDWWZBM25yQ3Q3RmcxcGdxOGJyUURSa1NzMnRlMjlwMHVJQVY0R1daZw?oc=5>
+
+### 8.35 TRUMP BRL 现货交易
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-07-10 16:09
-- 链接: <https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUGJIbV9rOFBFUDFabzJPekxlWlBaUVp2RFF5ZXE5SXFRLXR0Q0tUd1FQWGVqQkVGUFVVd25sT2dzRW1IZnB3OC1FSFVzRExBcGE5OE1xNkx5aU5rZ1N2S2ZNcDB2Z3I2d3dWWGNSczczYzIwSXFuZl9CVkN2MTdJNGNXcmhKYWFYOVlBRkpVZXVUNlNUQ0xNLVgwTkJhbWJTZUpfcEt2ZkxqWW8?oc=5>
-
-### Trump: US is preparing for more strikes against Iran
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: TDM
-- 时间: 2026-07-08 13:38
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxNcktWbm5Zd0xoNmc5Sm5wRTZVV2lHcDB4NFFIdE5OdTdQOV9LUDFiekpRNXFqZ0dxdld0LWpxaTFmajNTRW9DVXpXZXZVSVA2UDZWZzdUcFhJTEFMM0NYWDFYd2ZqQTdpQzlBNFRlR3RPSWptVmlzelhjb2FsclNPOUtjQWxFbFU?oc=5>
+- 场馆: OKX
+- 时间: 2026-07-10 05:28
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFBEOFJoMC1JMUpzS05lNDJHektHaDBYeENCVm9uTTRZV1JMcDRrdlRXZktibF9IV1l3ZW1LM2YzSmFaZktmTnBibGphMTlMYnBxbXRZdUo4UlJUR1JkWTRQTS1GaGV5Sy03Y0VvYnpycW1iUQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-10 23:54  (6 条)
+
+- **特朗普** | 特朗普表态：尽管停火协议作废，美国仍将与伊朗持续谈判 <https://news.google.com/rss/articles/CBMiigJBVV95cUxPVnRkbFlPQVh4QnZRU1V4MzFPOWxXRUtlQ01lWW1qQW55MnVxVUNOb2hES3FWLTVjLXNVTzZoOU0zTWpZcGVSckZuQTY0Um9WNkpuNkd0c1JKNnRGVDN3bURMRlRBRHNhY001bGdTOFMtUUg2VW01RTk1UXR6YlhJNnM3bGhfSlNsSmZKR0pCUmtLTkxPdWE0cVJpUWZsUFJuWW1BWmtFdWlaSkVOOHljQldpRkRCcHJyUExNSVVKM3AzM2haUU9jVDZtUVhremNjVkE1aDI3ZWJqZmk0NmhZTUctaEkxNHBOUWZOQ052VzRSTU9UZHY3eW9CeEVNWE80UmxLYXhJWWdUZw?oc=5>
+- **特朗普** | 特朗普机场、特朗普大桥来了 <https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdnBWVW1hbDJqMHlBSy1rdmJsWlFVN3lnNEp0RktIVklDekJWeVRVUnJfMzF0cGs2OTN0cWd4R0hLaEV2aTZfajlBamJVMmFXQjhsTDgxNHRYNkk0T216cE5lSEVZUHF2cUtqeEM4V1dPVldQcW1oWkV6RE8yTzctbWNiVFpGNzVqUzZqVkt6TUJveVVDSW1FUjJKdWJGUnZlVmxWbHlsRU5PTnVfdkF1NzdDdGRDUDUzOF9GbVRESjFtRkFWeF9KdnBRWWpuSDlF?oc=5>
+- **特朗普** | 罕见！在任总统名字直接贴机场，特朗普刚签完字，反对声就炸了 <https://news.google.com/rss/articles/CBMiYkFVX3lxTE15bUlUZzlvZnZOc0VyWEhXQkItUjVPVm1JSTZkNHNSMDdQbUdjRURXWV91eGlTTWIwS1VEeDd2LXpSQzR6TVd1ck1OUmFZRGtjMm9IdUtLU2c5Qm9QV1oza2p3?oc=5>
+- **特朗普** | 特朗普年入22亿美元，2/3来自加密货币，日均炒股87笔 <https://news.google.com/rss/articles/CBMi4AFBVV95cUxQbk0tTThSMS1SOVN3X0RRWWFLZnkxeE14OV9qTk5OV3lIaF94dzhUMjVsdDh6UnhpOXRTdG1uYTNDeDdaRk1wZzJXNzVUX2hGVENyUkNzZVQtWk9lMkdHTkpwdmZGYjY5U1Q2SGI3WEttZ0FQbU9BUzFZTS1kUVEtcGZUYTZkXzk2bDc3ckVSd0t2S3JMVTVOS2lOS3VEMXlGVmRPUlRpUldDX3g5T0VZcWlYNVZSeEd3SE82V1ZnZWFRU25OclpDcHIxcTlOd3FVendPOTAzTEhXOHpWc28wOA?oc=5>
+- **特朗普** | 特朗普松口：美国授权乌克兰自产“爱国者” <https://news.google.com/rss/articles/CBMiZkFVX3lxTFB1UkxLbGpQNmE4cGY4VGI5dEJZWDFfMnZ3SkNpRVhIRFJsSEJFUVl1M3NNaG9yVm5JeWM1bXBDWWZBM25yQ3Q3RmcxcGdxOGJyUURSa1NzMnRlMjlwMHVJQVY0R1daZw?oc=5>
+- **Trump** | 8.35 TRUMP BRL 现货交易 <https://news.google.com/rss/articles/CBMickFVX3lxTFBEOFJoMC1JMUpzS05lNDJHektHaDBYeENCVm9uTTRZV1JMcDRrdlRXZktibF9IV1l3ZW1LM2YzSmFaZktmTnBibGphMTlMYnBxbXRZdUo4UlJUR1JkWTRQTS1GaGV5Sy03Y0VvYnpycW1iUQ?oc=5>
 
 ### 2026-07-10 22:55  (7 条)
 
