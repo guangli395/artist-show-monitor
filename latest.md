@@ -1,122 +1,110 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-10 05:30**
-- 本轮扫到 6441 条, 新增 **14** 条
+- 最近更新: **2026-07-10 09:24**
+- 本轮扫到 6452 条, 新增 **11** 条
 
 ---
 
-## 本轮新发现 (14 条)
+## 本轮新发现 (11 条)
 
-### 这次乌龙会对王俊凯新专辑销量有影响吗？
+### 蔡徐坤新歌踮脚舞引发全网模仿潮
 
-- 艺人/关键词: **王一博**
+- 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801yykq.html>
+- 链接: <https://k.sina.com.cn/article_1790399185_m6ab752d103301t1d2.html>
 
-### 25岁顶流王俊凯新专辑现“王一博”署名，同名乌龙播放量破5亿，为何网友集体陷认知偏差？
+### 王俊凯缺席周杰伦演唱会，是否因为档期冲突？
 
-- 艺人/关键词: **王一博**
+- 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801bi98.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801zv3o.html>
 
-### 王一博AI灵感工作室发布双语早安问候
+### 周杰伦在演唱会上追问昆凌表现，夫妻感情有多好？
 
-- 艺人/关键词: **王一博**
+- 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://video.sina.com.cn/p/finance/2026-07-10/detail-inihhkup5157556.d.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806801zv22.html>
 
-### 态度反转接手特朗普诽谤作家案，顶级律所陷入内讧
+### 宝辉娱乐声明主办方辟谣周杰伦广州演唱会取消
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_2377587254_m8db71a3603301c2eq.html?from=ent&amp;subch=oent>
+
+### 美国选举机构成员遭特朗普解雇
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-07-10 04:20
-- 链接: <https://news.google.com/rss/articles/CBMihgFBVV95cUxPYlBxczdNLUplNERWbHFKZ1FDU0NycXYzSlZOcXNkblRQTjJvaTNwaUZNVndLeHBaSXdpLTN3MVI4cnN4ZHd3RkFGZ0pxYzdScVRvN1kxeFR2RVFxandaVlREV1VmWS1zeDA2d2tPU29zdEhON2tNRHQ5STJ6T3llZ1RYMHQ5UQ?oc=5>
+- 场馆: 新华网
+- 时间: 2026-07-10 09:14
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9zbnFOaVZidEp2WktpZDlnSFpEUl9MWFNjeDI3cS1QQzQtTW83Q0tPTFZxdk5Ca3FRWXZKQkl3R200UXJOR3YwX3J2WFhZQVVRM2JFR1UwU0ExTGR1czk0VTI0QXpBTXhhUXRWMlAySHV0SWNHOUxpTGY0a01FcGM?oc=5>
 
-### 午盘：美股继续上扬，芯片股普涨
+### 以色列媒体：以愿参与对伊打击 正等特朗普表态
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-10 02:26
-- 链接: <https://news.google.com/rss/articles/CBMiowJBVV95cUxOQ0ZTa3NPSDhYN2IwTTJmZVZOcmtEX2w5bE0xRjJ1MTBkYm1TZkRSSVM3NWp3cTg3X1RnWTdHXzM4cWVtUDdIaTF0OEhLbS1fb0NOSTF3a29SNm93eWdidFE4UkxKYmVmWUt3R256VllodE11OEd3VkZ4TmRhdUJ6R3Nid01Qa2F2SDNfOUVFa0F5NVNXc2oyQUU4ZEZYOV85dngtTjVXODN5S29LS29uQlkwZW9ob0h1Y0hFTFJIa2owVnV3LUZRbGdlOG4xOHRMaDE2RElWLUxWblZ0SUp6SU9KdDJKWFJHOFR6QlBFdG9XZ1BzSUFhNzByTTRRUnBId3BiY2xuTzROS3hzTm1lOG5uVV90b0NEU3FQaDY2VFNUcVE?oc=5>
+- 时间: 2026-07-10 08:26
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1QV0M5MExlTV9GaEtXWS1lNmZjeDN1WXg0c3kyQlJ2UHpReGxBd3JYdXNYc1VERGZpWnRFSTNsOE1rVHp2ZDE4eGpmZlk3TGFLLURMZ09OSktYTzZuYkVxTk1GMm5fZHhkOGpuMFozWHhtU0hIMWZGWA?oc=5>
 
-### 北约峰会：欧洲国家唾面自干，特朗普前倨后恭 | 京酿馆
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-10 03:42
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9SbVRzbml5VXg4cWFpSnFBcjVNaFNUZ2ZmdzJPRzJORzM4aGROdG9oVm1YLXVuQ2xOaWtPMndNRXJxLXd4Y1o5aXZOZHF2U2E4RjJUYVRyYWl6RGZDRFBybDZEclhBWmlKREdwUk5CTUhxUTJLNXd4ODVjUDZ2UTQ?oc=5>
-
-### 美国贸易代表：特朗普可借助此前关税案所依据的法律切断与西班牙贸易
+### “要么听话，否则把你们炸掉”：特朗普对阿曼下最后通牒，霍尔木兹海峡陷收费之争
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-09 15:51
-- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxOR29tN0ZBZ0FEejFyb19hcS1Mek1mTHNQY0EwM0hjaVVKSUJONkFQRHNyeUp4SDA2SmUzcGlUZFlYSjhncGVWalBaYjd0aXRGeVdvczZVdXdyOGd4Q1NZSDlmUHlvOWV2Yk9NUGhOelBUTmhfbE5NV3JRd0hYbm5TbnFvR05fUVA5QklodUgzYmRLa0JHZzlQOWliSVEyNGJfQUtpeXNUcnp1ZklrQ2RJbzYwampmV2s4VERnZlNjZFhfUlRlZEJFNl9NMkQzM25RWktrSnVFODJmX3BERFE?oc=5>
-
-### 美国授权乌克兰自产“爱国者”？特朗普松口
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-10 00:26
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1qWllmcVNrWWlCMGluX0l0S2hRNWNLZ2J4WXdtaE95dmtKRFRjUzBJQ0UzYnhmU2s4WDNrOVAxMW9VREJfeGtQQWdObVY?oc=5>
+- 时间: 2026-07-10 07:08
+- 链接: <https://news.google.com/rss/articles/CBMi4AFBVV95cUxNYXk2a3pRUTFYR3QtWjR1dFdFbzYxNk56ZzU2Nk04UHZVeXlORldjR2h5aFFLUk55U1FsVms2ZTBRcFAyRHhIT05peWx6eWJKcGJDNXdDTlU3OERUMjh5MW9INm5FMmxHRko4Q05WdU5Ual96MVRJMEsyQTBvRWgtWmdrRlhVYmZ5XzRFTnVzajl5aVExWW1VTmZWWGFVLWNsQVpBSUZmT01iRU9RUjYxcFFUd3NkSGRRTFZKZ0JPbFFRQkFIc3ZmM05yVEYzYU9XQ2tTc2JsTXhIMXJRZXgtWA?oc=5>
 
 ### 特朗普称“日本导弹”打美国航母，白宫回应
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-10 00:42
-- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxOZy1lLTRlMGVhbnlOZFp4eURSNktZOW1lQ09QeHBYRkNaX3MzLWt4V1VuTXBKOGJoUkNrbDFCaFZjX05ENHdDLTAzU01KOEJfbXBvRExIRkxmZkdjN19pV3ozMzZ0VUhDamgxWkMxWHU1b0JLU2U3cHF1U3BPWWZXSk43OA?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-07-10 03:56
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE42MHRjWmQ3LXpBdkJhb1ZFeGhYbkdYLVF5dXA4NDAxYkR3WTZFVnVkV3h1Rk5hTDl5bHhLZkRrblVQa0JVaGh1aDVsYms?oc=5>
 
-### 特朗普为何重新乘坐旧款空军一号 安全考量引猜测
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-07-10 01:21
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1QUFVmOUFEdlBRdGZ4TktzMmJOcW55VjR3TTlJd1hkM0NlV0dTWUs4MkJwNnNxZGIwV3E0dk84aXNjcnJLODczMU1CaG5jRE41NzNJZnhBdWpHajhuVlRjSjN3dmtlb2JCQmpSdzhGRjI?oc=5>
-
-### 从斥责到表扬 特朗普在北约峰会玩“变脸”
+### 美国一机场正式更名为“唐纳德·特朗普国际机场”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-07-09 09:37
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9QTExIX1ZpU09zc192c0Nfek1uYVVNV2RvYmFWNmgzVEswdWF6b3VHaU5OQXlzbTVoQjZQVnlhY3NuOWlMRFEtRHZ2ZUFsRmZYdm15RXZwRDk5TzNqMU9lTGpSLTBTWmZkV2hjazE5LTVfOUoyMHBLV2FUYTRUYnc?oc=5>
+- 场馆: 新京报
+- 时间: 2026-07-10 08:34
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBINnJHRXJpWWpISXl2aEtnWThxanAyMmdYblZoSVFDQVdLRUlGUktFd3BlZWFzd3EyZld6S2JhS3lxdTdhSEl4ZnU3SkpYMUtfb1YzWVBTMFg0ZlRjY1RHbGU0MjM?oc=5>
 
-### 北约峰会成“稳住特朗普”会议 特朗普称北约领导人都说爱他
+### 特朗普机场、特朗普大桥来了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-07-10 03:48
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE0zelRSemhtT0t4QzNsbVFDYmozTmxMZFU3ZGpxQmNIR3dtQ1NGaWgxb2IySmQ3di00bFdHODBvQ3RSOFR3dzA5aTduUExmWDJQRFZlYVAwNVc5OVpNcTByTXBXSzN2YkhjNWx0MWxPSkM?oc=5>
+- 场馆: 观察者
+- 时间: 2026-07-10 06:22
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBFRFQ3ckczWkhJcnhRajd0cF9hem5jRHlmZlZFMHRoMnN2MVJYZmNDTmRqOUY3UjBudW53WkN3OUctR3BFUnp6U05LdW9uQjhpVF9VMVlBYVFCQXN1ZGE0aUticEdsa2w0VlE?oc=5>
 
-### 特朗普曾设想向加沙派遣2万维和人员，如今首批部署仅10余人
+### 头条：美国拟对澳洲加征12.5%关税 澳洲正式提出异议
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-07-10 02:53
-- 链接: <https://news.google.com/rss/articles/CBMiswFBVV95cUxQOGpPa3hhQkpSU0dodHluSW9UcVVSVkg5MFVqeDk1NXY5Yk12bE5rbk9WTXg5eThBbHVwdlN3M1YtRmVua2piSk9scjNLVU5yVk1wS0RDZXl3TmJxRWRkS3ZvVnRWV0kzNWd2Ty1FdGpCRl9fMUhyU05xWjltbTIxb2doRjZ1cHB5QWZUeFdBcW43akpNTUFLd2pES0VLM2hVcGRncTZ3MTdSSUIxaHBZcUZnWQ?oc=5>
-
-### 美国棕榈滩机场正式更名为“特朗普国际机场”
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-07-10 03:18
-- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxNQWFDOWxYTDRRMklsLU9CXzZ5OUxqNjRzbDZGd2Yzdm1HTklrb3dCUHIwY3d4ZXdFeG0tczFHRnlWM0R0RnRLNEliTVgyN0FpWFFUaU9QdklCblVfM3BwV1pjX0NrN2Z4WmE5azVuSHA1OTNvb0Y5MXVRMmJMdEJPM05n?oc=5>
+- 场馆: ABC News & Headlines – Australian Broadcasting Corporation
+- 时间: 2026-07-10 00:24
+- 链接: <https://news.google.com/rss/articles/CBMiswFBVV95cUxPdUkwdlhOTDBLY2VyR2RGRlFNRmo5c2lLN0ZZTEhqNzhSOExTOFBzeHFEWW1BWWF6cTB4cmpoY1VteGFobmxTSjhyNzVLNUdGZmdlN3d0R2VSdHNkdUpLYnNSMm1HS0p1bWF3bWlDTi1nNkFsdDdtMkhYcXNQbkxFN3lPRGlsckV1RjdHU1hCOUtEc3ZYTDB0VmpiaEhDNkFadXQ0aVI5VDllUnRrWjBwUWxlNA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-10 09:24  (11 条)
+
+- **蔡徐坤** | 蔡徐坤新歌踮脚舞引发全网模仿潮 <https://k.sina.com.cn/article_1790399185_m6ab752d103301t1d2.html>
+- **周杰伦** | 王俊凯缺席周杰伦演唱会，是否因为档期冲突？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801zv3o.html>
+- **周杰伦** | 周杰伦在演唱会上追问昆凌表现，夫妻感情有多好？ <https://k.sina.com.cn/article_7879776328_1d5abd84806801zv22.html>
+- **周杰伦** | 宝辉娱乐声明主办方辟谣周杰伦广州演唱会取消 <https://k.sina.com.cn/article_2377587254_m8db71a3603301c2eq.html?from=ent&amp;subch=oent>
+- **特朗普** | 美国选举机构成员遭特朗普解雇 <https://news.google.com/rss/articles/CBMif0FVX3lxTE9zbnFOaVZidEp2WktpZDlnSFpEUl9MWFNjeDI3cS1QQzQtTW83Q0tPTFZxdk5Ca3FRWXZKQkl3R200UXJOR3YwX3J2WFhZQVVRM2JFR1UwU0ExTGR1czk0VTI0QXpBTXhhUXRWMlAySHV0SWNHOUxpTGY0a01FcGM?oc=5>
+- **特朗普** | 以色列媒体：以愿参与对伊打击 正等特朗普表态 <https://news.google.com/rss/articles/CBMieEFVX3lxTE1QV0M5MExlTV9GaEtXWS1lNmZjeDN1WXg0c3kyQlJ2UHpReGxBd3JYdXNYc1VERGZpWnRFSTNsOE1rVHp2ZDE4eGpmZlk3TGFLLURMZ09OSktYTzZuYkVxTk1GMm5fZHhkOGpuMFozWHhtU0hIMWZGWA?oc=5>
+- **特朗普** | “要么听话，否则把你们炸掉”：特朗普对阿曼下最后通牒，霍尔木兹海峡陷收费之争 <https://news.google.com/rss/articles/CBMi4AFBVV95cUxNYXk2a3pRUTFYR3QtWjR1dFdFbzYxNk56ZzU2Nk04UHZVeXlORldjR2h5aFFLUk55U1FsVms2ZTBRcFAyRHhIT05peWx6eWJKcGJDNXdDTlU3OERUMjh5MW9INm5FMmxHRko4Q05WdU5Ual96MVRJMEsyQTBvRWgtWmdrRlhVYmZ5XzRFTnVzajl5aVExWW1VTmZWWGFVLWNsQVpBSUZmT01iRU9RUjYxcFFUd3NkSGRRTFZKZ0JPbFFRQkFIc3ZmM05yVEYzYU9XQ2tTc2JsTXhIMXJRZXgtWA?oc=5>
+- **特朗普** | 特朗普称“日本导弹”打美国航母，白宫回应 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE42MHRjWmQ3LXpBdkJhb1ZFeGhYbkdYLVF5dXA4NDAxYkR3WTZFVnVkV3h1Rk5hTDl5bHhLZkRrblVQa0JVaGh1aDVsYms?oc=5>
+- **特朗普** | 美国一机场正式更名为“唐纳德·特朗普国际机场” <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBINnJHRXJpWWpISXl2aEtnWThxanAyMmdYblZoSVFDQVdLRUlGUktFd3BlZWFzd3EyZld6S2JhS3lxdTdhSEl4ZnU3SkpYMUtfb1YzWVBTMFg0ZlRjY1RHbGU0MjM?oc=5>
+- **特朗普** | 特朗普机场、特朗普大桥来了 <https://news.google.com/rss/articles/CBMiakFVX3lxTFBFRFQ3ckczWkhJcnhRajd0cF9hem5jRHlmZlZFMHRoMnN2MVJYZmNDTmRqOUY3UjBudW53WkN3OUctR3BFUnp6U05LdW9uQjhpVF9VMVlBYVFCQXN1ZGE0aUticEdsa2w0VlE?oc=5>
+- **Trump** | 头条：美国拟对澳洲加征12.5%关税 澳洲正式提出异议 <https://news.google.com/rss/articles/CBMiswFBVV95cUxPdUkwdlhOTDBLY2VyR2RGRlFNRmo5c2lLN0ZZTEhqNzhSOExTOFBzeHFEWW1BWWF6cTB4cmpoY1VteGFobmxTSjhyNzVLNUdGZmdlN3d0R2VSdHNkdUpLYnNSMm1HS0p1bWF3bWlDTi1nNkFsdDdtMkhYcXNQbkxFN3lPRGlsckV1RjdHU1hCOUtEc3ZYTDB0VmpiaEhDNkFadXQ0aVI5VDllUnRrWjBwUWxlNA?oc=5>
 
 ### 2026-07-10 05:30  (14 条)
 
