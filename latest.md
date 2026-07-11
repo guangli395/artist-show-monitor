@@ -1,14 +1,69 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-11 20:02**
-- 本轮扫到 6561 条, 新增 **0** 条
+- 最近更新: **2026-07-11 21:13**
+- 本轮扫到 6567 条, 新增 **6** 条
 
 ---
 
-## 本轮无新增
+## 本轮新发现 (6 条)
 
-数据库里所有演出/动态都已见过,暂无新增。
+### 王俊凯新专辑《WJK》有哪些致敬周杰伦的细节？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879848925_1d5acf3dd06801o5fc.html>
+
+### 粉丝为何调侃周杰伦温网打卡比出新歌还勤？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879995944_1d5af32280680297ny.html>
+
+### 美司法部传唤《纽约时报》4记者作证 涉报导特朗普新空军一号安全疑虑
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-07-11 20:28
+- 链接: <https://news.google.com/rss/articles/CBMiwANBVV95cUxNV21UcC1ETHRoalBhWVBXYlVHTGk1bU1QVk11VnVXTlZ4OFUxMVdmRUMzODZTZzJnaS1qLUVRRjNJMFJBQU1TTnF5VkdKZFN6TUxwQTAzLVcyODF1a2txdlhGVjRNLU9lUV93MHFVZUwzZ2ZOVldiRjVlSlBGNkp3UlEzZnZSMkpJRGY5QzNVZkNmaUJiOTZFX251M2hTX2VCV3BpVEVXQjV5OUlmR2I4dV9BYzFjUUdkYVJPeWtrd1pkdG5qYU93N1FGc0NnbXNHXzVGdHUwLWlmQXF0d3l0alJISUF3Qms1Tlo4aTY0SWQzXzJ4QUVBdTg0SElCX0gzVzYxVER5MjZlNFdCN2E4U2d5VXlGWUVENVVwV3htcGgtYlc2d0FhMktFR1RIanViXzJvZTNTTmZPbEM5d3VlSjlwdUZrdDZDN0IzcUNXX1BVQXhseGxQUU5KSF9pRVpsVFp4UUFNamw0ZC0zbHNPZ3lIWjNWNDdPRkJMQ0syZE4tZUxYVEh0ZU0yNVVmTDlobWNjeW1TUXNsV2lDMTlobG4tZ1pDMTA4ajBtV0hHSF9HQl9YcV9iNlhZOFYxTENI?oc=5>
+
+### 两党住房法案未经特朗普签署自动生效 多名议员表示庆贺
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-11 21:08
+- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxQN1ZQaE1wR0FBcnBQellMVG5PbmVaUFhsVkpEeWhKOWVYRFU1UVczZy1UVTRib3lKbThWQmd2OFAzbmJGTVVHTkJJRGpTRl93cjZMMHEzemNJcWYwdWRTLWxQSEZLWXIxdjFZYUJfUzlXdDhHZkZHVDVVNm1OQ2xrbHZfVUZwSGlOZXBwN050Z3QzWG5oVGF0ZU9OTVc5ZG5waXNCTG5pYTgtUQ?oc=5>
+
+### 民主党指控特朗普“试图控制选举”，共和党担心在11月失去国会多数席位
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-11 20:02
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9TZnNfeHptSV9qcEN1el9KN3pxNmJ6eGxRWjlzRm9KUlNzd3FqY0ZoekdtVGYtNGExTWpucUdjV0Z4MGpsWWRPeWFRTlU5MTdMakNPd2JPd0daNW91a3BMbWZTNmU3UTkyZzJnVU9Ib0dxNGpHT0Zfbw?oc=5>
+
+### 特朗普新专机有缺陷？报道记者收到传票
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-07-11 13:24
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9BYW9adjQya01HdzFTT0MxNnA5T1FmRzlrMmhScnVUSHJhVHNwZWFJaTFBdEVhQkRmQkF2YlpBTHVyc3hMVk9IU1pPRV8?oc=5>
+
+
+---
+
 ## 历史发现
+
+### 2026-07-11 21:13  (6 条)
+
+- **周杰伦** | 王俊凯新专辑《WJK》有哪些致敬周杰伦的细节？ <https://k.sina.com.cn/article_7879848925_1d5acf3dd06801o5fc.html>
+- **周杰伦** | 粉丝为何调侃周杰伦温网打卡比出新歌还勤？ <https://k.sina.com.cn/article_7879995944_1d5af32280680297ny.html>
+- **特朗普** | 美司法部传唤《纽约时报》4记者作证 涉报导特朗普新空军一号安全疑虑 <https://news.google.com/rss/articles/CBMiwANBVV95cUxNV21UcC1ETHRoalBhWVBXYlVHTGk1bU1QVk11VnVXTlZ4OFUxMVdmRUMzODZTZzJnaS1qLUVRRjNJMFJBQU1TTnF5VkdKZFN6TUxwQTAzLVcyODF1a2txdlhGVjRNLU9lUV93MHFVZUwzZ2ZOVldiRjVlSlBGNkp3UlEzZnZSMkpJRGY5QzNVZkNmaUJiOTZFX251M2hTX2VCV3BpVEVXQjV5OUlmR2I4dV9BYzFjUUdkYVJPeWtrd1pkdG5qYU93N1FGc0NnbXNHXzVGdHUwLWlmQXF0d3l0alJISUF3Qms1Tlo4aTY0SWQzXzJ4QUVBdTg0SElCX0gzVzYxVER5MjZlNFdCN2E4U2d5VXlGWUVENVVwV3htcGgtYlc2d0FhMktFR1RIanViXzJvZTNTTmZPbEM5d3VlSjlwdUZrdDZDN0IzcUNXX1BVQXhseGxQUU5KSF9pRVpsVFp4UUFNamw0ZC0zbHNPZ3lIWjNWNDdPRkJMQ0syZE4tZUxYVEh0ZU0yNVVmTDlobWNjeW1TUXNsV2lDMTlobG4tZ1pDMTA4ajBtV0hHSF9HQl9YcV9iNlhZOFYxTENI?oc=5>
+- **特朗普** | 两党住房法案未经特朗普签署自动生效 多名议员表示庆贺 <https://news.google.com/rss/articles/CBMiqgFBVV95cUxQN1ZQaE1wR0FBcnBQellMVG5PbmVaUFhsVkpEeWhKOWVYRFU1UVczZy1UVTRib3lKbThWQmd2OFAzbmJGTVVHTkJJRGpTRl93cjZMMHEzemNJcWYwdWRTLWxQSEZLWXIxdjFZYUJfUzlXdDhHZkZHVDVVNm1OQ2xrbHZfVUZwSGlOZXBwN050Z3QzWG5oVGF0ZU9OTVc5ZG5waXNCTG5pYTgtUQ?oc=5>
+- **特朗普** | 民主党指控特朗普“试图控制选举”，共和党担心在11月失去国会多数席位 <https://news.google.com/rss/articles/CBMieEFVX3lxTE9TZnNfeHptSV9qcEN1el9KN3pxNmJ6eGxRWjlzRm9KUlNzd3FqY0ZoekdtVGYtNGExTWpucUdjV0Z4MGpsWWRPeWFRTlU5MTdMakNPd2JPd0daNW91a3BMbWZTNmU3UTkyZzJnVU9Ib0dxNGpHT0Zfbw?oc=5>
+- **特朗普** | 特朗普新专机有缺陷？报道记者收到传票 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9BYW9adjQya01HdzFTT0MxNnA5T1FmRzlrMmhScnVUSHJhVHNwZWFJaTFBdEVhQkRmQkF2YlpBTHVyc3hMVk9IU1pPRV8?oc=5>
 
 ### 2026-07-11 18:52  (3 条)
 
