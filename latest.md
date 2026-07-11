@@ -1,79 +1,13 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-11 16:49**
-- 本轮扫到 6558 条, 新增 **8** 条
+- 最近更新: **2026-07-11 17:50**
+- 本轮扫到 6558 条, 新增 **0** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮无新增
 
-### 特朗普：1000枚导弹已瞄准伊朗
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 央视网
-- 时间: 2026-07-11 05:43
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5TM1pobzJpd1hBbXg0bVNnUHZBZ2g4RXY0aVd3bl9aamFqa01vaE51eEpOcGNvSEVPVmtrYzN5ZXZkWjFSUjBUaWx6dEZXOGE2N2wwYUgtLUotMlBLMXlhbmNPVU5MVW0tQW5JOWNlSUw5ZGdWVmh1OA?oc=5>
-
-### 特朗普表态：尽管停火协议作废，美国仍将与伊朗持续谈判
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-11 16:36
-- 链接: <https://news.google.com/rss/articles/CBMijwJBVV95cUxPODdpWHRfU1BudldRUGdnbFlmU2pIb2RJaS1WWGhSZmdpU1pTZUgya1FFczNZc0hFWm9OUkZQSVU5UERVaGJCcFhIeTc0XzkxYmlpUU5OVmYwcDYxWjF3Z04ybkJXMm41NzF0TXlVSThHZHVaVDZKWmxiR25LOENNdHBFLUNOSVI1Q1lTb1NacFliUVVWRlBuVHhVcFc1bTVVM01FdzFIX3dqTGQzRDBmOEx1TEJvRnBmaHlyOE5vSG8wTHZtc2N6M3RJbGlSYWVPeHZRYkprbGRDRFprZ2NHUFMyZnZ1RnV1RGd1YndVVmM1REpBajRRdzZQdVBIRDA3aThwdVpjZlBxZ2FJWGt3?oc=5>
-
-### 特朗普改口了
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪军事
-- 时间: 2026-07-11 15:42
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5rOTAwWTFac1VhdEMtTzFTYWdFUHRnbHcxNzgwbE95a3ZRVUM2UW9tYnZsc0xIMzc0VWFfNFFLeTBUMWQ3QjRwOGdqQzd0N1B4ZmVtempIaDlPVUVERzhENm1YLU1FOE9wOFIwcG4xNmRuT0k?oc=5>
-
-### 特朗普曾扬言封锁 美加大桥7月27日通车
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-07-11 13:54
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE56YmZudE5Cc01pTElSOU9BMzFBU3RLcEZReGRscWVTY210X1BGSUxzOVk2TU12OUEtMk1jOTJfQ3NMejRfcmZrUEJUM1hPR3JQdy1HY3NFM0FkTjZDZGhaMmpUVE83LUEtRFE?oc=5>
-
-### 特朗普不承认，反手发了张传票-观察者网
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: guancha.cn
-- 时间: 2026-07-11 14:50
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBFdzlSSjVEYmpKcUpndDZna3N1Q1IxdHppSWN5bjM0cWpxbmtjNmRuRng4YW9idV9MOUg2LTI0bGxSTkt1UnNRVS1HTlNUbEw4alM0cjhpLWlvVlRwTjg4dUd2YTNVREpfdWc?oc=5>
-
-### 特朗普：今晚可能再打伊朗
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-07-08 13:54
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE1VREVXXzRDa1dtRHU2Y0NPTF9SVS1uTjIzSmZ4NDB2c0FmdmxwNzNoQmNhdzd1ZW1fb1hKRjd6SUxSNW9qUDVyTQ?oc=5>
-
-### 美国主动给阿联酋芯片开后门 特朗普：我们不卖芯片的话中国就卖了
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 驱动之家
-- 时间: 2026-07-11 13:45
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE5pQW1sMm5wcW1MSm1TMjRodmRtRTh5R1ZWa3FyTFY3M3lfVjM1VFpMbjZaanZ0eVNEVUVxUEExTXpsSHF1VFFZQVhOMkt4Vjc1bVlhREhLdXU?oc=5>
-
-### 特朗普拒签住房法案 但将允许其自动生效
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-10 14:36
-- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMVZLb3ZJZWZ5eVpxNkFYS3ZNdjhhSlZWYXBvX0JyTUNnbjhmc0M1WkNIVHhYVVFENFZRVWdtMTdUMk5nelZkQmE0SkZ0RXFTZ19TZlcwcEFrc2k2X1JmSEI4UjBnWDFsWER1YUVJQW5PMEN5RFFIdlBZcDFwU0JtWU5TUW1hcTRzdzF1ZVJMbUs2WTZZeUZBY0xlc0I0QXRuTFdpaFd3LUVVNl9udVJuTW1QZDVYTnA4QlBRYm9nYmxLaHRRVVU4NEdUUGhDWVBNbUZRNDY4SmhFeGlKalE?oc=5>
-
-
----
-
+数据库里所有演出/动态都已见过,暂无新增。
 ## 历史发现
 
 ### 2026-07-11 16:49  (8 条)
