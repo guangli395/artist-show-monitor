@@ -1,35 +1,41 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-10 23:54**
-- 本轮扫到 6504 条, 新增 **6** 条
+- 最近更新: **2026-07-11 02:03**
+- 本轮扫到 6511 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (7 条)
 
-### 特朗普表态：尽管停火协议作废，美国仍将与伊朗持续谈判
+### 周杰伦现身温网半决赛观战，专注采风或为新歌取材
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-10 23:30
-- 链接: <https://news.google.com/rss/articles/CBMiigJBVV95cUxPVnRkbFlPQVh4QnZRU1V4MzFPOWxXRUtlQ01lWW1qQW55MnVxVUNOb2hES3FWLTVjLXNVTzZoOU0zTWpZcGVSckZuQTY0Um9WNkpuNkd0c1JKNnRGVDN3bURMRlRBRHNhY001bGdTOFMtUUg2VW01RTk1UXR6YlhJNnM3bGhfSlNsSmZKR0pCUmtLTkxPdWE0cVJpUWZsUFJuWW1BWmtFdWlaSkVOOHljQldpRkRCcHJyUExNSVVKM3AzM2haUU9jVDZtUVhremNjVkE1aDI3ZWJqZmk0NmhZTUctaEkxNHBOUWZOQ052VzRSTU9UZHY3eW9CeEVNWE80UmxLYXhJWWdUZw?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7880068820_m1d5b04ed403301l22q.html>
 
-### 特朗普机场、特朗普大桥来了
+### 特朗普：将继续和伊朗谈判
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-10 06:22
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdnBWVW1hbDJqMHlBSy1rdmJsWlFVN3lnNEp0RktIVklDekJWeVRVUnJfMzF0cGs2OTN0cWd4R0hLaEV2aTZfajlBamJVMmFXQjhsTDgxNHRYNkk0T216cE5lSEVZUHF2cUtqeEM4V1dPVldQcW1oWkV6RE8yTzctbWNiVFpGNzVqUzZqVkt6TUJveVVDSW1FUjJKdWJGUnZlVmxWbHlsRU5PTnVfdkF1NzdDdGRDUDUzOF9GbVRESjFtRkFWeF9KdnBRWWpuSDlF?oc=5>
+- 场馆: 观察
+- 时间: 2026-07-10 15:02
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9OU2xoVXhGVmw2Q2x6d25QaUdwZERJNlA3NzNrMFBjUkZkUWphOVhqWWdxMzRNRW5weEt6dG1BanlhNDlxLW9oVnMwMHFhMlBOeUZWOXpiZWdiVnhWUGctbmlJY2VnOWVvMlE?oc=5>
 
-### 罕见！在任总统名字直接贴机场，特朗普刚签完字，反对声就炸了
+### 乌克兰战争的转折点是否出现了 ？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 网易
-- 时间: 2026-07-10 20:43
-- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE15bUlUZzlvZnZOc0VyWEhXQkItUjVPVm1JSTZkNHNSMDdQbUdjRURXWV91eGlTTWIwS1VEeDd2LXpSQzR6TVd1ck1OUmFZRGtjMm9IdUtLU2c5Qm9QV1oza2p3?oc=5>
+- 场馆: RFI
+- 时间: 2026-07-10 23:03
+- 链接: <https://news.google.com/rss/articles/CBMihwJBVV95cUxPNnZjWFotRjdrZVI3OG5HT2V0WVNINXUyaHlCYlJpR0dEbFQzc0YxaHVPbWhRRmJvaE5DYS1LTUxKSmhHd0xBLVhxTXVHVktqX1VYRHNzYi1nM0FseXY5d3dYMjBJNTJuRTEzS1BwOVJUSlExZFQyV3N0a3N3UFZEbGNNZWtITWpuQ2ZZT24ySFhOWlNRSDNIREFENVFFSXQxbG1jNWlyelB0dmZDcnRUSldWZEI1YzBUOElveWNwcG1RNDRzTldVR19OZmlXYlFPMmtkdDlMdl82d2loZzZMR05QMkVPZ3lVOUxDRG9ycngwcndST1RKcGM3cDlRTDlYczB0dHRMSQ?oc=5>
+
+### 耗资550万，机场正式改名“特朗普”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 风闻
+- 时间: 2026-07-11 01:02
+- 链接: <https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Yb3h4dlJ0dVViUEJNeXZjODNaWFcyandnY1NtcFpjWXY1U21zYU5oN3R1bjFkUTdGV0d6MlM1S1YyeUpVdUdMU05oaXJ5aTlKQk8weEpSX3dLV0E?oc=5>
 
 ### 特朗普年入22亿美元，2/3来自加密货币，日均炒股87笔
 
@@ -37,28 +43,38 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-07-09 02:05
-- 链接: <https://news.google.com/rss/articles/CBMi4AFBVV95cUxQbk0tTThSMS1SOVN3X0RRWWFLZnkxeE14OV9qTk5OV3lIaF94dzhUMjVsdDh6UnhpOXRTdG1uYTNDeDdaRk1wZzJXNzVUX2hGVENyUkNzZVQtWk9lMkdHTkpwdmZGYjY5U1Q2SGI3WEttZ0FQbU9BUzFZTS1kUVEtcGZUYTZkXzk2bDc3ckVSd0t2S3JMVTVOS2lOS3VEMXlGVmRPUlRpUldDX3g5T0VZcWlYNVZSeEd3SE82V1ZnZWFRU25OclpDcHIxcTlOd3FVendPOTAzTEhXOHpWc28wOA?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOU0ySEZmS3JzbDFJQVowblhSMXVTcTRGdmtDd0F0eHN6alF4UXF1TXdxM05IWnp0MmMyeVl4NU9DMmc3QWp6WjZEU2RXRVNuNzFxdjNWbHE1NkUta0tEWDJfZXVZVDlPdGVsVWJoOEZOQ2tkck1fd21hczVaQ2h5QzJrTGU4TzB5d2hxOWI0VE1XQ0lkMEQtVWtNSEJZY21DTzFOb3JCUmhNN3NuUm9pb1lPN1hYMDlra3RHSzloeHBYOG5LeXZRM1hfcG9qbXUzaDMxam9kODVGMWFNVDlibg?oc=5>
 
-### 特朗普松口：美国授权乌克兰自产“爱国者”
+### 民调：60%的美国民众认为特朗普以权谋私
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-07-10 22:12
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFB1UkxLbGpQNmE4cGY4VGI5dEJZWDFfMnZ3SkNpRVhIRFJsSEJFUVl1M3NNaG9yVm5JeWM1bXBDWWZBM25yQ3Q3RmcxcGdxOGJyUURSa1NzMnRlMjlwMHVJQVY0R1daZw?oc=5>
+- 场馆: thepaper.cn
+- 时间: 2026-07-11 00:17
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE9TeXNGalhCMkFJR2l0RV9oZGp6TkxRN0pQWHRFZlNGNGR4MGJrQk9WamxENEhMWXFPZmdna1E4a2poNXNnaGpLVlQ1di1ibjFvVkZSeTg3RmlsZFVmeHc?oc=5>
 
-### 8.35 TRUMP BRL 现货交易
+### 美国贸易代表：特朗普可借助此前关税案所依据的法律切断与西班牙贸易
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: OKX
-- 时间: 2026-07-10 05:28
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFBEOFJoMC1JMUpzS05lNDJHektHaDBYeENCVm9uTTRZV1JMcDRrdlRXZktibF9IV1l3ZW1LM2YzSmFaZktmTnBibGphMTlMYnBxbXRZdUo4UlJUR1JkWTRQTS1GaGV5Sy03Y0VvYnpycW1iUQ?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-07-09 15:51
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZF8yeDVBWGh6N1AzR01XLXRtbTN4bmZzd3NfSzZYRzBlYTlhYjVVWkkyVEdrLUJIM2FiWnBsWUpRTEo3dmxTdFAxZE9oRDh2SjZtT2ZHTUlzaE5GZmtTNmtyVUpNRzhuUFBVQVU0WmNtTUl6VnJxczk2TlVaNmY2cXBuUGItd1gyMi16RmlFZFkxNXlrbnp0bW95NzA5RWZ1LWhvVkhfd1JqT2RqNS1Pakh3aV9abkNHQi15SGJ5WWxzT2dQSFY2Ulo1R0NLS2E1MmF3MDZHQVR3Sll6N2Nj?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-11 02:03  (7 条)
+
+- **周杰伦** | 周杰伦现身温网半决赛观战，专注采风或为新歌取材 <https://k.sina.com.cn/article_7880068820_m1d5b04ed403301l22q.html>
+- **特朗普** | 特朗普：将继续和伊朗谈判 <https://news.google.com/rss/articles/CBMiakFVX3lxTE9OU2xoVXhGVmw2Q2x6d25QaUdwZERJNlA3NzNrMFBjUkZkUWphOVhqWWdxMzRNRW5weEt6dG1BanlhNDlxLW9oVnMwMHFhMlBOeUZWOXpiZWdiVnhWUGctbmlJY2VnOWVvMlE?oc=5>
+- **特朗普** | 乌克兰战争的转折点是否出现了 ？ <https://news.google.com/rss/articles/CBMihwJBVV95cUxPNnZjWFotRjdrZVI3OG5HT2V0WVNINXUyaHlCYlJpR0dEbFQzc0YxaHVPbWhRRmJvaE5DYS1LTUxKSmhHd0xBLVhxTXVHVktqX1VYRHNzYi1nM0FseXY5d3dYMjBJNTJuRTEzS1BwOVJUSlExZFQyV3N0a3N3UFZEbGNNZWtITWpuQ2ZZT24ySFhOWlNRSDNIREFENVFFSXQxbG1jNWlyelB0dmZDcnRUSldWZEI1YzBUOElveWNwcG1RNDRzTldVR19OZmlXYlFPMmtkdDlMdl82d2loZzZMR05QMkVPZ3lVOUxDRG9ycngwcndST1RKcGM3cDlRTDlYczB0dHRMSQ?oc=5>
+- **特朗普** | 耗资550万，机场正式改名“特朗普” <https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Yb3h4dlJ0dVViUEJNeXZjODNaWFcyandnY1NtcFpjWXY1U21zYU5oN3R1bjFkUTdGV0d6MlM1S1YyeUpVdUdMU05oaXJ5aTlKQk8weEpSX3dLV0E?oc=5>
+- **特朗普** | 特朗普年入22亿美元，2/3来自加密货币，日均炒股87笔 <https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOU0ySEZmS3JzbDFJQVowblhSMXVTcTRGdmtDd0F0eHN6alF4UXF1TXdxM05IWnp0MmMyeVl4NU9DMmc3QWp6WjZEU2RXRVNuNzFxdjNWbHE1NkUta0tEWDJfZXVZVDlPdGVsVWJoOEZOQ2tkck1fd21hczVaQ2h5QzJrTGU4TzB5d2hxOWI0VE1XQ0lkMEQtVWtNSEJZY21DTzFOb3JCUmhNN3NuUm9pb1lPN1hYMDlra3RHSzloeHBYOG5LeXZRM1hfcG9qbXUzaDMxam9kODVGMWFNVDlibg?oc=5>
+- **特朗普** | 民调：60%的美国民众认为特朗普以权谋私 <https://news.google.com/rss/articles/CBMiXkFVX3lxTE9TeXNGalhCMkFJR2l0RV9oZGp6TkxRN0pQWHRFZlNGNGR4MGJrQk9WamxENEhMWXFPZmdna1E4a2poNXNnaGpLVlQ1di1ibjFvVkZSeTg3RmlsZFVmeHc?oc=5>
+- **特朗普** | 美国贸易代表：特朗普可借助此前关税案所依据的法律切断与西班牙贸易 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZF8yeDVBWGh6N1AzR01XLXRtbTN4bmZzd3NfSzZYRzBlYTlhYjVVWkkyVEdrLUJIM2FiWnBsWUpRTEo3dmxTdFAxZE9oRDh2SjZtT2ZHTUlzaE5GZmtTNmtyVUpNRzhuUFBVQVU0WmNtTUl6VnJxczk2TlVaNmY2cXBuUGItd1gyMi16RmlFZFkxNXlrbnp0bW95NzA5RWZ1LWhvVkhfd1JqT2RqNS1Pakh3aV9abkNHQi15SGJ5WWxzT2dQSFY2Ulo1R0NLS2E1MmF3MDZHQVR3Sll6N2Nj?oc=5>
 
 ### 2026-07-10 23:54  (6 条)
 
