@@ -1,35 +1,39 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-11 14:34**
-- 本轮扫到 6545 条, 新增 **4** 条
+- 最近更新: **2026-07-11 15:49**
+- 本轮扫到 6550 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (5 条)
 
-### 特朗普：美方已同意继续和伊朗谈判
+### 奔跑吧:地表73摄氏度,蔡徐坤新歌首演,baby的人设变了!
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879848923_1d5acf3db01901efqs.html>
+
+### 2026年KTV必点新歌推荐 | 最新K歌热门歌曲排行榜-好听歌音乐网
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923018_1d5ae154a01901e3q8.html>
+
+### 伊朗称已对美守承诺 特朗普称停火已终结 要求伊朗保证霍峡畅通并停止袭击
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-07-10 18:24
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9YWW83a3VYRWdXUWZEMXFMbG81TVV4enltdHNpcDkzdTZPcGxzci0wd0JQdHlpWXJHS2c0ckZDYkhaM0ZSbjhGWjNWWHFWd3Y4WTR6WjZuREtLejYzemFKcDVvT1BUMHk4aFN6STdHQXVFam9FS0tLTQ?oc=5>
+- 场馆: RFI
+- 时间: 2026-07-11 15:01
+- 链接: <https://news.google.com/rss/articles/CBMi7gNBVV95cUxPeHFPYnkzRGZJWG9zQlB0bGVZaEltNlhoX3RVZWJXbERhMzlEXzZ0eE5OamhkanZTQ0lqQ1BqZ0FqTW4zXy0zcW5CcWpHSkhzazRZMnFmcUtHcEw4Wk9QSEpRVmhzT0drYnozSE5WUTlqYjhjbGh5UDRTRHlYd3NPZjdqc2x1YXlEcGdQY29wT3doWTdqNm51bDJoUlRnay12M1RtcnlJU3Y0VGFCYXlhNHZUVFRDRWcxcVYtV21DYkY3OEszUVE1ZWJqUzdwMFZmSEgtUWpWLUVpU2s2WlZpWENPZ2VmUmcxSjktdzFReWVGMjE4NXMzRmtiMUp2ajhqWVliU1FBWEc0NXV3WUJjS0EwSFozZU9DUTBGdFNuSGVTckNDVURkVXI0anpZZU8yZEVhTlA5OXpuUldpNTV1TW52QS1kdDJmNHdTdjRranlZZ1d3eUcwZW1vNUluZWZnYXhNRExiODJ4cEk5aWN1S1NQZnlPcUJHVzZyeWVJWlc5WXg4UHhXeXF0Z2RuUDZyaTFRVU1HSURRY20tUzUyLVFoUmlSMW5Ra2IxZWp2ZEJ3aEdQNUtESUFOdEppelJDQjhJbnFUNlpjVkR3Y2p6MllNQUlXOElnVEwyQUJCYlhwMlZBM0xZRHI3QTlRQQ?oc=5>
 
-### 特朗普新专机有缺陷？报道记者收到传票
+### 特朗普机场、特朗普大桥来了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-11 13:14
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE1yMy1GT3M2NGpOMllQMDBqOUJGdVl5SGU0dW5mWlAyaTF2aG9xc2dCVnl6dTNRT2N0Z2p5WWREQ2p0Q1RBQnU2NU5MemRRWkRaaHJjUkg2RFN5YTJYU3U0bFpWcnVWcjJlV3BiSDRlNHU3YlpHa1E?oc=5>
-
-### 美国主动给阿联酋芯片开后门 特朗普：我们不卖芯片的话中国就卖了
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-11 14:16
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9IMUVYMU1VT3hsUjBTYVZPMVVmQXNrYkRTaS03WGtNM19fd1M0dHB1NUJxTldtNk9WTVowUXJtejV2ODgtRWVwVVZhOWFlQlVfNjh6UGNJTThCdUczdW1veVRRTHhnWWpSVkpTeTRCdm8wS210TjEwMzR1UFktdkU?oc=5>
+- 时间: 2026-07-10 06:22
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZ2ZPZFJIc1NOajJISlZIbFg3cmFkWndtNkNwcjFPVUtYNHNjdF9BV3lmeWlyUGpjUmpITkhKdlZMbVdUUlNHMnMyeS1maFRKY1RDdUVNRXpKNGh2TmlGUmdLd3NVMU9qazNNZVNtZXpPMUNiV1lDQTlXMW1Cak03NWwtWWV6NWNUZzhCSW1LVUNLNlJPdFlzekxKdGRWdnVucEZGY0dFWjhJNEs0OHQxOXNfc0RDUS04d1k3WDlZUVVMTzk5eWk2dEkwdmZPY2lz?oc=5>
 
 ### 特朗普拒签住房法案 但将允许其自动生效
 
@@ -37,12 +41,20 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-07-10 14:36
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQkdSRVZXbjJGZXNXM2wyVTFFU2NHQ0RtQnFuZWppY1RSVzNUMUFzYnEzU3dvY1ljR251LV9ldWFhLWMtbFVFaHpSWjdQLUxRSk1xY0M2TGpJUVBmQjhjc1lfYW9wQzY1RnF1NldGNEV6cFhaYTBiM2dZc09SRWpqOHdIQTgwLWkwOWd4Z0lQYzRrVzhSQ2tJSEl0RGE0N09HSWx4SjNuakJmX3c2WW5HM1BYVndBVnIzcXl1NUZHM0pSTGJzRkdlQjZ2T21BTGNKR1c3dnNJalNOV2hTeWs4?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxOaEk1NXJVb0hPOGlWcWstS24yc0FfOTZWSjdWa3BMaV9ULXBzWGpybVB4Vnh2RFZrWjlpNzlzSEszNVplSW4zZnV2WUpXblM3ZEJCMVpaMlpIUWJ5RWo0SFhzc2Zaa3BsRldUVVFic2EwU3BJSzctOUFSNnpCT256dFJXalE1bHFjRG1CWnZmQ1pyUnAtbnJqZzVaREZ2LU4wUHNFMzhvZE5sSzlhdlAxcFVuRGF5SzVEVVlZQ29sN08zemhJOUY3REdTdi1hVVRhd3MyMnptem8zR2NSaVE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-11 15:49  (5 条)
+
+- **蔡徐坤** | 奔跑吧:地表73摄氏度,蔡徐坤新歌首演,baby的人设变了! <https://k.sina.com.cn/article_7879848923_1d5acf3db01901efqs.html>
+- **周杰伦** | 2026年KTV必点新歌推荐 | 最新K歌热门歌曲排行榜-好听歌音乐网 <https://k.sina.com.cn/article_7879923018_1d5ae154a01901e3q8.html>
+- **特朗普** | 伊朗称已对美守承诺 特朗普称停火已终结 要求伊朗保证霍峡畅通并停止袭击 <https://news.google.com/rss/articles/CBMi7gNBVV95cUxPeHFPYnkzRGZJWG9zQlB0bGVZaEltNlhoX3RVZWJXbERhMzlEXzZ0eE5OamhkanZTQ0lqQ1BqZ0FqTW4zXy0zcW5CcWpHSkhzazRZMnFmcUtHcEw4Wk9QSEpRVmhzT0drYnozSE5WUTlqYjhjbGh5UDRTRHlYd3NPZjdqc2x1YXlEcGdQY29wT3doWTdqNm51bDJoUlRnay12M1RtcnlJU3Y0VGFCYXlhNHZUVFRDRWcxcVYtV21DYkY3OEszUVE1ZWJqUzdwMFZmSEgtUWpWLUVpU2s2WlZpWENPZ2VmUmcxSjktdzFReWVGMjE4NXMzRmtiMUp2ajhqWVliU1FBWEc0NXV3WUJjS0EwSFozZU9DUTBGdFNuSGVTckNDVURkVXI0anpZZU8yZEVhTlA5OXpuUldpNTV1TW52QS1kdDJmNHdTdjRranlZZ1d3eUcwZW1vNUluZWZnYXhNRExiODJ4cEk5aWN1S1NQZnlPcUJHVzZyeWVJWlc5WXg4UHhXeXF0Z2RuUDZyaTFRVU1HSURRY20tUzUyLVFoUmlSMW5Ra2IxZWp2ZEJ3aEdQNUtESUFOdEppelJDQjhJbnFUNlpjVkR3Y2p6MllNQUlXOElnVEwyQUJCYlhwMlZBM0xZRHI3QTlRQQ?oc=5>
+- **特朗普** | 特朗普机场、特朗普大桥来了 <https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZ2ZPZFJIc1NOajJISlZIbFg3cmFkWndtNkNwcjFPVUtYNHNjdF9BV3lmeWlyUGpjUmpITkhKdlZMbVdUUlNHMnMyeS1maFRKY1RDdUVNRXpKNGh2TmlGUmdLd3NVMU9qazNNZVNtZXpPMUNiV1lDQTlXMW1Cak03NWwtWWV6NWNUZzhCSW1LVUNLNlJPdFlzekxKdGRWdnVucEZGY0dFWjhJNEs0OHQxOXNfc0RDUS04d1k3WDlZUVVMTzk5eWk2dEkwdmZPY2lz?oc=5>
+- **特朗普** | 特朗普拒签住房法案 但将允许其自动生效 <https://news.google.com/rss/articles/CBMi3gFBVV95cUxOaEk1NXJVb0hPOGlWcWstS24yc0FfOTZWSjdWa3BMaV9ULXBzWGpybVB4Vnh2RFZrWjlpNzlzSEszNVplSW4zZnV2WUpXblM3ZEJCMVpaMlpIUWJ5RWo0SFhzc2Zaa3BsRldUVVFic2EwU3BJSzctOUFSNnpCT256dFJXalE1bHFjRG1CWnZmQ1pyUnAtbnJqZzVaREZ2LU4wUHNFMzhvZE5sSzlhdlAxcFVuRGF5SzVEVVlZQ29sN08zemhJOUY3REdTdi1hVVRhd3MyMnptem8zR2NSaVE?oc=5>
 
 ### 2026-07-11 14:34  (4 条)
 
