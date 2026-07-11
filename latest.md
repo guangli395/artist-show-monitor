@@ -1,70 +1,101 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-11 02:03**
-- 本轮扫到 6511 条, 新增 **7** 条
+- 最近更新: **2026-07-11 05:24**
+- 本轮扫到 6521 条, 新增 **10** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (10 条)
 
-### 周杰伦现身温网半决赛观战，专注采风或为新歌取材
+### 官宣！周杰伦演唱会长沙站将实行实名购票和实名入场制度
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068820_m1d5b04ed403301l22q.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019082xta.html>
 
-### 特朗普：将继续和伊朗谈判
+### 黄晓明在周杰伦演唱会夸奖昆凌,被网友怒骂不尊重前妻大男子主义
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923015_1d5ae154701901eowy.html>
+
+### 黄晓明、昆凌、姜妍等现身周杰伦演唱会
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019082wju.html>
+
+### 王俊凯看完周杰伦演唱会后,用一首歌回应谣言:扯!
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923015_1d5ae154701901eor8.html>
+
+### 伊朗回怼特朗普：从未向美国提出谈判诉求
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察
-- 时间: 2026-07-10 15:02
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9OU2xoVXhGVmw2Q2x6d25QaUdwZERJNlA3NzNrMFBjUkZkUWphOVhqWWdxMzRNRW5weEt6dG1BanlhNDlxLW9oVnMwMHFhMlBOeUZWOXpiZWdiVnhWUGctbmlJY2VnOWVvMlE?oc=5>
+- 场馆: 观察者
+- 时间: 2026-07-10 23:26
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5PRjlZcTdyenE1d25XdUd5T0ZaR0UtMU8xWnlZU1M1dGx3a29CRG1kRUowR05IZnNYdzQyMG9leFZkTklGSXNVRHNWZE5XWDUxMDhoMjIwTEc4RzN0bFdzbzFWUTVpcFAzc1E?oc=5>
 
-### 乌克兰战争的转折点是否出现了 ？
+### 阿联酋进A:5和特朗普政府的“算力外交”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-11 02:39
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE9FVHc3NkNMUWpqTmNUUGV2d2pqMEhoc1hCajA0UWRpZXoyOWt6M3dnLUJqZ2EtcE1qZnliWWxLSXh4YlZYS0ljMkZJbVVMZ0xvRWVmclB0am1KU25ROGxhZDBOeWluWWdCTHhfRU1hRUlyUQ?oc=5>
+
+### 特朗普：美方已同意继续和伊朗谈判
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 央视网
+- 时间: 2026-07-10 15:18
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5IdVpzV08yZXR1X2U3ek16Zkd6WDV3Y1ZXaWY5bkxjcnVmSkswMVFZTlgtNHVTc3ZSd1JvYklzVEdLdHlPNElRZ3lBYmlrbHZQLS1wVjAwalRKZFJfUjZJZmVKbWc2bFlKczFKdFFfMkVCT3dQdDdWTg?oc=5>
+
+### 特朗普：1000枚导弹已瞄准伊朗
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新京报
+- 时间: 2026-07-11 03:33
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wVy11MDZEcUNLeG5ndUZtUjhzYWxpQXZRZWlUeVkwNzh1Vlh3c0JaUVBneGwtTDVCbzNfdEUxajVXc3lZbkRVTXBlZDdFTTJvUGJ0SWE4YmpkdE93UlFDcU5vdE4?oc=5>
+
+### 美国总统特朗普10日......_7x24快讯_新浪财经
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-11 03:28
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE4xTk54NnprRDU1U25UZXBoYVV0UnZhUmtKTjhZRXg3eDZTcC03Y2xfVUlVaFlCLWQzYl9QX2wwVWZHRTFhbVdma3k3Yw?oc=5>
+
+### 以色列情报: 伊朗正试图暗杀特朗普
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: RFI
-- 时间: 2026-07-10 23:03
-- 链接: <https://news.google.com/rss/articles/CBMihwJBVV95cUxPNnZjWFotRjdrZVI3OG5HT2V0WVNINXUyaHlCYlJpR0dEbFQzc0YxaHVPbWhRRmJvaE5DYS1LTUxKSmhHd0xBLVhxTXVHVktqX1VYRHNzYi1nM0FseXY5d3dYMjBJNTJuRTEzS1BwOVJUSlExZFQyV3N0a3N3UFZEbGNNZWtITWpuQ2ZZT24ySFhOWlNRSDNIREFENVFFSXQxbG1jNWlyelB0dmZDcnRUSldWZEI1YzBUOElveWNwcG1RNDRzTldVR19OZmlXYlFPMmtkdDlMdl82d2loZzZMR05QMkVPZ3lVOUxDRG9ycngwcndST1RKcGM3cDlRTDlYczB0dHRMSQ?oc=5>
-
-### 耗资550万，机场正式改名“特朗普”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 风闻
-- 时间: 2026-07-11 01:02
-- 链接: <https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Yb3h4dlJ0dVViUEJNeXZjODNaWFcyandnY1NtcFpjWXY1U21zYU5oN3R1bjFkUTdGV0d6MlM1S1YyeUpVdUdMU05oaXJ5aTlKQk8weEpSX3dLV0E?oc=5>
-
-### 特朗普年入22亿美元，2/3来自加密货币，日均炒股87笔
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-09 02:05
-- 链接: <https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOU0ySEZmS3JzbDFJQVowblhSMXVTcTRGdmtDd0F0eHN6alF4UXF1TXdxM05IWnp0MmMyeVl4NU9DMmc3QWp6WjZEU2RXRVNuNzFxdjNWbHE1NkUta0tEWDJfZXVZVDlPdGVsVWJoOEZOQ2tkck1fd21hczVaQ2h5QzJrTGU4TzB5d2hxOWI0VE1XQ0lkMEQtVWtNSEJZY21DTzFOb3JCUmhNN3NuUm9pb1lPN1hYMDlra3RHSzloeHBYOG5LeXZRM1hfcG9qbXUzaDMxam9kODVGMWFNVDlibg?oc=5>
-
-### 民调：60%的美国民众认为特朗普以权谋私
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-07-11 00:17
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE9TeXNGalhCMkFJR2l0RV9oZGp6TkxRN0pQWHRFZlNGNGR4MGJrQk9WamxENEhMWXFPZmdna1E4a2poNXNnaGpLVlQ1di1ibjFvVkZSeTg3RmlsZFVmeHc?oc=5>
-
-### 美国贸易代表：特朗普可借助此前关税案所依据的法律切断与西班牙贸易
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-09 15:51
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZF8yeDVBWGh6N1AzR01XLXRtbTN4bmZzd3NfSzZYRzBlYTlhYjVVWkkyVEdrLUJIM2FiWnBsWUpRTEo3dmxTdFAxZE9oRDh2SjZtT2ZHTUlzaE5GZmtTNmtyVUpNRzhuUFBVQVU0WmNtTUl6VnJxczk2TlVaNmY2cXBuUGItd1gyMi16RmlFZFkxNXlrbnp0bW95NzA5RWZ1LWhvVkhfd1JqT2RqNS1Pakh3aV9abkNHQi15SGJ5WWxzT2dQSFY2Ulo1R0NLS2E1MmF3MDZHQVR3Sll6N2Nj?oc=5>
+- 时间: 2026-07-10 09:01
+- 链接: <https://news.google.com/rss/articles/CBMilAJBVV95cUxQVjA5Uk1QU2I3aVJMd3JMV1IwTDh5OEd6Y0o3T0JRaVIwZ3Q4Y2tBX3ZjRFJsZ1E2eUE1eHIyUFBhLVRkaE00YTU2RzFhQ2tGcGQ1MXpOQ28ySmxwTXZmLUFTUkRVaWRrUVYtWWFzUUVRRUpjT2lPRmdjQW1paFFSQml2UzA2a3ZRbUZJMHdKd2d2MXRFUG02RXYtS0YyM3NKT2NVRjNvUGlaYkE5b0tuTlBhN29Wb0tXblFkWnFpbHVGOTN0WE1hTEstZTZ0UldfMGdIeGx6MnotRkZiU0FMQ1NaQlpMM0hpMGhiTzJ1UlgwSzM4djFEV0tJMEdueXl4S1JuMFhvc0JROWNHZ3huNDRLRXA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-11 05:24  (10 条)
+
+- **周杰伦** | 官宣！周杰伦演唱会长沙站将实行实名购票和实名入场制度 <https://k.sina.com.cn/article_7857201856_1d45362c0019082xta.html>
+- **周杰伦** | 黄晓明在周杰伦演唱会夸奖昆凌,被网友怒骂不尊重前妻大男子主义 <https://k.sina.com.cn/article_7879923015_1d5ae154701901eowy.html>
+- **周杰伦** | 黄晓明、昆凌、姜妍等现身周杰伦演唱会 <https://k.sina.com.cn/article_7857201856_1d45362c0019082wju.html>
+- **周杰伦** | 王俊凯看完周杰伦演唱会后,用一首歌回应谣言:扯! <https://k.sina.com.cn/article_7879923015_1d5ae154701901eor8.html>
+- **特朗普** | 伊朗回怼特朗普：从未向美国提出谈判诉求 <https://news.google.com/rss/articles/CBMiakFVX3lxTE5PRjlZcTdyenE1d25XdUd5T0ZaR0UtMU8xWnlZU1M1dGx3a29CRG1kRUowR05IZnNYdzQyMG9leFZkTklGSXNVRHNWZE5XWDUxMDhoMjIwTEc4RzN0bFdzbzFWUTVpcFAzc1E?oc=5>
+- **特朗普** | 阿联酋进A:5和特朗普政府的“算力外交” <https://news.google.com/rss/articles/CBMickFVX3lxTE9FVHc3NkNMUWpqTmNUUGV2d2pqMEhoc1hCajA0UWRpZXoyOWt6M3dnLUJqZ2EtcE1qZnliWWxLSXh4YlZYS0ljMkZJbVVMZ0xvRWVmclB0am1KU25ROGxhZDBOeWluWWdCTHhfRU1hRUlyUQ?oc=5>
+- **特朗普** | 特朗普：美方已同意继续和伊朗谈判 <https://news.google.com/rss/articles/CBMieEFVX3lxTE5IdVpzV08yZXR1X2U3ek16Zkd6WDV3Y1ZXaWY5bkxjcnVmSkswMVFZTlgtNHVTc3ZSd1JvYklzVEdLdHlPNElRZ3lBYmlrbHZQLS1wVjAwalRKZFJfUjZJZmVKbWc2bFlKczFKdFFfMkVCT3dQdDdWTg?oc=5>
+- **特朗普** | 特朗普：1000枚导弹已瞄准伊朗 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wVy11MDZEcUNLeG5ndUZtUjhzYWxpQXZRZWlUeVkwNzh1Vlh3c0JaUVBneGwtTDVCbzNfdEUxajVXc3lZbkRVTXBlZDdFTTJvUGJ0SWE4YmpkdE93UlFDcU5vdE4?oc=5>
+- **特朗普** | 美国总统特朗普10日......_7x24快讯_新浪财经 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE4xTk54NnprRDU1U25UZXBoYVV0UnZhUmtKTjhZRXg3eDZTcC03Y2xfVUlVaFlCLWQzYl9QX2wwVWZHRTFhbVdma3k3Yw?oc=5>
+- **特朗普** | 以色列情报: 伊朗正试图暗杀特朗普 <https://news.google.com/rss/articles/CBMilAJBVV95cUxQVjA5Uk1QU2I3aVJMd3JMV1IwTDh5OEd6Y0o3T0JRaVIwZ3Q4Y2tBX3ZjRFJsZ1E2eUE1eHIyUFBhLVRkaE00YTU2RzFhQ2tGcGQ1MXpOQ28ySmxwTXZmLUFTUkRVaWRrUVYtWWFzUUVRRUpjT2lPRmdjQW1paFFSQml2UzA2a3ZRbUZJMHdKd2d2MXRFUG02RXYtS0YyM3NKT2NVRjNvUGlaYkE5b0tuTlBhN29Wb0tXblFkWnFpbHVGOTN0WE1hTEstZTZ0UldfMGdIeGx6MnotRkZiU0FMQ1NaQlpMM0hpMGhiTzJ1UlgwSzM4djFEV0tJMEdueXl4S1JuMFhvc0JROWNHZ3huNDRLRXA?oc=5>
 
 ### 2026-07-11 02:03  (7 条)
 
