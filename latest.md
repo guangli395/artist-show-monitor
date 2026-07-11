@@ -1,39 +1,67 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-11 15:49**
-- 本轮扫到 6550 条, 新增 **5** 条
+- 最近更新: **2026-07-11 16:49**
+- 本轮扫到 6558 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (8 条)
 
-### 奔跑吧:地表73摄氏度,蔡徐坤新歌首演,baby的人设变了!
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879848923_1d5acf3db01901efqs.html>
-
-### 2026年KTV必点新歌推荐 | 最新K歌热门歌曲排行榜-好听歌音乐网
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923018_1d5ae154a01901e3q8.html>
-
-### 伊朗称已对美守承诺 特朗普称停火已终结 要求伊朗保证霍峡畅通并停止袭击
+### 特朗普：1000枚导弹已瞄准伊朗
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-07-11 15:01
-- 链接: <https://news.google.com/rss/articles/CBMi7gNBVV95cUxPeHFPYnkzRGZJWG9zQlB0bGVZaEltNlhoX3RVZWJXbERhMzlEXzZ0eE5OamhkanZTQ0lqQ1BqZ0FqTW4zXy0zcW5CcWpHSkhzazRZMnFmcUtHcEw4Wk9QSEpRVmhzT0drYnozSE5WUTlqYjhjbGh5UDRTRHlYd3NPZjdqc2x1YXlEcGdQY29wT3doWTdqNm51bDJoUlRnay12M1RtcnlJU3Y0VGFCYXlhNHZUVFRDRWcxcVYtV21DYkY3OEszUVE1ZWJqUzdwMFZmSEgtUWpWLUVpU2s2WlZpWENPZ2VmUmcxSjktdzFReWVGMjE4NXMzRmtiMUp2ajhqWVliU1FBWEc0NXV3WUJjS0EwSFozZU9DUTBGdFNuSGVTckNDVURkVXI0anpZZU8yZEVhTlA5OXpuUldpNTV1TW52QS1kdDJmNHdTdjRranlZZ1d3eUcwZW1vNUluZWZnYXhNRExiODJ4cEk5aWN1S1NQZnlPcUJHVzZyeWVJWlc5WXg4UHhXeXF0Z2RuUDZyaTFRVU1HSURRY20tUzUyLVFoUmlSMW5Ra2IxZWp2ZEJ3aEdQNUtESUFOdEppelJDQjhJbnFUNlpjVkR3Y2p6MllNQUlXOElnVEwyQUJCYlhwMlZBM0xZRHI3QTlRQQ?oc=5>
+- 场馆: 央视网
+- 时间: 2026-07-11 05:43
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5TM1pobzJpd1hBbXg0bVNnUHZBZ2g4RXY0aVd3bl9aamFqa01vaE51eEpOcGNvSEVPVmtrYzN5ZXZkWjFSUjBUaWx6dEZXOGE2N2wwYUgtLUotMlBLMXlhbmNPVU5MVW0tQW5JOWNlSUw5ZGdWVmh1OA?oc=5>
 
-### 特朗普机场、特朗普大桥来了
+### 特朗普表态：尽管停火协议作废，美国仍将与伊朗持续谈判
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-10 06:22
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZ2ZPZFJIc1NOajJISlZIbFg3cmFkWndtNkNwcjFPVUtYNHNjdF9BV3lmeWlyUGpjUmpITkhKdlZMbVdUUlNHMnMyeS1maFRKY1RDdUVNRXpKNGh2TmlGUmdLd3NVMU9qazNNZVNtZXpPMUNiV1lDQTlXMW1Cak03NWwtWWV6NWNUZzhCSW1LVUNLNlJPdFlzekxKdGRWdnVucEZGY0dFWjhJNEs0OHQxOXNfc0RDUS04d1k3WDlZUVVMTzk5eWk2dEkwdmZPY2lz?oc=5>
+- 时间: 2026-07-11 16:36
+- 链接: <https://news.google.com/rss/articles/CBMijwJBVV95cUxPODdpWHRfU1BudldRUGdnbFlmU2pIb2RJaS1WWGhSZmdpU1pTZUgya1FFczNZc0hFWm9OUkZQSVU5UERVaGJCcFhIeTc0XzkxYmlpUU5OVmYwcDYxWjF3Z04ybkJXMm41NzF0TXlVSThHZHVaVDZKWmxiR25LOENNdHBFLUNOSVI1Q1lTb1NacFliUVVWRlBuVHhVcFc1bTVVM01FdzFIX3dqTGQzRDBmOEx1TEJvRnBmaHlyOE5vSG8wTHZtc2N6M3RJbGlSYWVPeHZRYkprbGRDRFprZ2NHUFMyZnZ1RnV1RGd1YndVVmM1REpBajRRdzZQdVBIRDA3aThwdVpjZlBxZ2FJWGt3?oc=5>
+
+### 特朗普改口了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪军事
+- 时间: 2026-07-11 15:42
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5rOTAwWTFac1VhdEMtTzFTYWdFUHRnbHcxNzgwbE95a3ZRVUM2UW9tYnZsc0xIMzc0VWFfNFFLeTBUMWQ3QjRwOGdqQzd0N1B4ZmVtempIaDlPVUVERzhENm1YLU1FOE9wOFIwcG4xNmRuT0k?oc=5>
+
+### 特朗普曾扬言封锁 美加大桥7月27日通车
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-07-11 13:54
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE56YmZudE5Cc01pTElSOU9BMzFBU3RLcEZReGRscWVTY210X1BGSUxzOVk2TU12OUEtMk1jOTJfQ3NMejRfcmZrUEJUM1hPR3JQdy1HY3NFM0FkTjZDZGhaMmpUVE83LUEtRFE?oc=5>
+
+### 特朗普不承认，反手发了张传票-观察者网
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: guancha.cn
+- 时间: 2026-07-11 14:50
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBFdzlSSjVEYmpKcUpndDZna3N1Q1IxdHppSWN5bjM0cWpxbmtjNmRuRng4YW9idV9MOUg2LTI0bGxSTkt1UnNRVS1HTlNUbEw4alM0cjhpLWlvVlRwTjg4dUd2YTNVREpfdWc?oc=5>
+
+### 特朗普：今晚可能再打伊朗
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 财联社
+- 时间: 2026-07-08 13:54
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE1VREVXXzRDa1dtRHU2Y0NPTF9SVS1uTjIzSmZ4NDB2c0FmdmxwNzNoQmNhdzd1ZW1fb1hKRjd6SUxSNW9qUDVyTQ?oc=5>
+
+### 美国主动给阿联酋芯片开后门 特朗普：我们不卖芯片的话中国就卖了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 驱动之家
+- 时间: 2026-07-11 13:45
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE5pQW1sMm5wcW1MSm1TMjRodmRtRTh5R1ZWa3FyTFY3M3lfVjM1VFpMbjZaanZ0eVNEVUVxUEExTXpsSHF1VFFZQVhOMkt4Vjc1bVlhREhLdXU?oc=5>
 
 ### 特朗普拒签住房法案 但将允许其自动生效
 
@@ -41,12 +69,23 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-07-10 14:36
-- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxOaEk1NXJVb0hPOGlWcWstS24yc0FfOTZWSjdWa3BMaV9ULXBzWGpybVB4Vnh2RFZrWjlpNzlzSEszNVplSW4zZnV2WUpXblM3ZEJCMVpaMlpIUWJ5RWo0SFhzc2Zaa3BsRldUVVFic2EwU3BJSzctOUFSNnpCT256dFJXalE1bHFjRG1CWnZmQ1pyUnAtbnJqZzVaREZ2LU4wUHNFMzhvZE5sSzlhdlAxcFVuRGF5SzVEVVlZQ29sN08zemhJOUY3REdTdi1hVVRhd3MyMnptem8zR2NSaVE?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMVZLb3ZJZWZ5eVpxNkFYS3ZNdjhhSlZWYXBvX0JyTUNnbjhmc0M1WkNIVHhYVVFENFZRVWdtMTdUMk5nelZkQmE0SkZ0RXFTZ19TZlcwcEFrc2k2X1JmSEI4UjBnWDFsWER1YUVJQW5PMEN5RFFIdlBZcDFwU0JtWU5TUW1hcTRzdzF1ZVJMbUs2WTZZeUZBY0xlc0I0QXRuTFdpaFd3LUVVNl9udVJuTW1QZDVYTnA4QlBRYm9nYmxLaHRRVVU4NEdUUGhDWVBNbUZRNDY4SmhFeGlKalE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-11 16:49  (8 条)
+
+- **特朗普** | 特朗普：1000枚导弹已瞄准伊朗 <https://news.google.com/rss/articles/CBMieEFVX3lxTE5TM1pobzJpd1hBbXg0bVNnUHZBZ2g4RXY0aVd3bl9aamFqa01vaE51eEpOcGNvSEVPVmtrYzN5ZXZkWjFSUjBUaWx6dEZXOGE2N2wwYUgtLUotMlBLMXlhbmNPVU5MVW0tQW5JOWNlSUw5ZGdWVmh1OA?oc=5>
+- **特朗普** | 特朗普表态：尽管停火协议作废，美国仍将与伊朗持续谈判 <https://news.google.com/rss/articles/CBMijwJBVV95cUxPODdpWHRfU1BudldRUGdnbFlmU2pIb2RJaS1WWGhSZmdpU1pTZUgya1FFczNZc0hFWm9OUkZQSVU5UERVaGJCcFhIeTc0XzkxYmlpUU5OVmYwcDYxWjF3Z04ybkJXMm41NzF0TXlVSThHZHVaVDZKWmxiR25LOENNdHBFLUNOSVI1Q1lTb1NacFliUVVWRlBuVHhVcFc1bTVVM01FdzFIX3dqTGQzRDBmOEx1TEJvRnBmaHlyOE5vSG8wTHZtc2N6M3RJbGlSYWVPeHZRYkprbGRDRFprZ2NHUFMyZnZ1RnV1RGd1YndVVmM1REpBajRRdzZQdVBIRDA3aThwdVpjZlBxZ2FJWGt3?oc=5>
+- **特朗普** | 特朗普改口了 <https://news.google.com/rss/articles/CBMic0FVX3lxTE5rOTAwWTFac1VhdEMtTzFTYWdFUHRnbHcxNzgwbE95a3ZRVUM2UW9tYnZsc0xIMzc0VWFfNFFLeTBUMWQ3QjRwOGdqQzd0N1B4ZmVtempIaDlPVUVERzhENm1YLU1FOE9wOFIwcG4xNmRuT0k?oc=5>
+- **特朗普** | 特朗普曾扬言封锁 美加大桥7月27日通车 <https://news.google.com/rss/articles/CBMiakFVX3lxTE56YmZudE5Cc01pTElSOU9BMzFBU3RLcEZReGRscWVTY210X1BGSUxzOVk2TU12OUEtMk1jOTJfQ3NMejRfcmZrUEJUM1hPR3JQdy1HY3NFM0FkTjZDZGhaMmpUVE83LUEtRFE?oc=5>
+- **特朗普** | 特朗普不承认，反手发了张传票-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTFBFdzlSSjVEYmpKcUpndDZna3N1Q1IxdHppSWN5bjM0cWpxbmtjNmRuRng4YW9idV9MOUg2LTI0bGxSTkt1UnNRVS1HTlNUbEw4alM0cjhpLWlvVlRwTjg4dUd2YTNVREpfdWc?oc=5>
+- **特朗普** | 特朗普：今晚可能再打伊朗 <https://news.google.com/rss/articles/CBMiSEFVX3lxTE1VREVXXzRDa1dtRHU2Y0NPTF9SVS1uTjIzSmZ4NDB2c0FmdmxwNzNoQmNhdzd1ZW1fb1hKRjd6SUxSNW9qUDVyTQ?oc=5>
+- **特朗普** | 美国主动给阿联酋芯片开后门 特朗普：我们不卖芯片的话中国就卖了 <https://news.google.com/rss/articles/CBMiWEFVX3lxTE5pQW1sMm5wcW1MSm1TMjRodmRtRTh5R1ZWa3FyTFY3M3lfVjM1VFpMbjZaanZ0eVNEVUVxUEExTXpsSHF1VFFZQVhOMkt4Vjc1bVlhREhLdXU?oc=5>
+- **特朗普** | 特朗普拒签住房法案 但将允许其自动生效 <https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMVZLb3ZJZWZ5eVpxNkFYS3ZNdjhhSlZWYXBvX0JyTUNnbjhmc0M1WkNIVHhYVVFENFZRVWdtMTdUMk5nelZkQmE0SkZ0RXFTZ19TZlcwcEFrc2k2X1JmSEI4UjBnWDFsWER1YUVJQW5PMEN5RFFIdlBZcDFwU0JtWU5TUW1hcTRzdzF1ZVJMbUs2WTZZeUZBY0xlc0I0QXRuTFdpaFd3LUVVNl9udVJuTW1QZDVYTnA4QlBRYm9nYmxLaHRRVVU4NEdUUGhDWVBNbUZRNDY4SmhFeGlKalE?oc=5>
 
 ### 2026-07-11 15:49  (5 条)
 
