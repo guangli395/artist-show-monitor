@@ -1,14 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-11 17:50**
-- 本轮扫到 6558 条, 新增 **0** 条
+- 最近更新: **2026-07-11 18:52**
+- 本轮扫到 6561 条, 新增 **3** 条
 
 ---
 
-## 本轮无新增
+## 本轮新发现 (3 条)
 
-数据库里所有演出/动态都已见过,暂无新增。
+### 特朗普改口了！
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-11 16:34
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE0yZ3ZJSVVIZ1YtaFc3TUJfaWVXTWlpZ2pCUFVEQU9BSEFWaUJBRWxmOGx0M2lna0xVaW1xSGxQQTBFTDlUUG5uQnFlMTlyS1NKODY2Vnp4Q3VrVm4yVkJoOTl2MFlDRUtjTW1qeXZrSlVlVm92SkE?oc=5>
+
+### 特朗普称停火协议已经结束 但美伊双方将继续进行谈判
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-11 17:20
+- 链接: <https://news.google.com/rss/articles/CBMijwJBVV95cUxQQnpkcU1qZ2pwRV9rREwxcTl5NU44bmRnZG0ydndPZnU1RGVOUnlNNXFlRy1yTS0yWkRVTW5yOThjd1VJWF83NE0tSDBBT0l6b2Q1NDdCQmYtRHRGdXo1bnNSWjcyYWl4LXNuMWk0dmVpZzZyYnhlUW9UUjJlb0VLMXRwdDRtUzNYRTMtaXE5ZkRqZHZnRzJzTG0xTE94Q0x1eGp6RkJRY0pmdlIwTUJ2UGhpYWtHakRhSTJHU1pqbVNaYjhja2loa2R3X1JZMXpjelRyUE91OHJNSHdRZkxWcE1tcmpJdW56d1FrNXhVMWo0R2lLMlVHWUZZM2ZwTmhLNG1oVnpKWTRaT212dVdr?oc=5>
+
+### 美伊突发！特朗普：1000枚导弹已瞄准伊朗！霍尔木兹海峡，大消息
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 证券时报
+- 时间: 2026-07-11 03:35
+- 链接: <https://news.google.com/rss/articles/CBMiXEFVX3lxTFA3Vnd5dVZmLW9rY194TGVURmp3eE5od1FMUTJEcGd2eld1Nks4WjhpTng3Q1Zud1c3WVdVSUNab2x3emVqU2d1NkR0UTNOMGdQZ1FMTEVxZFhJemtS?oc=5>
+
+
+---
+
 ## 历史发现
+
+### 2026-07-11 18:52  (3 条)
+
+- **特朗普** | 特朗普改口了！ <https://news.google.com/rss/articles/CBMidkFVX3lxTE0yZ3ZJSVVIZ1YtaFc3TUJfaWVXTWlpZ2pCUFVEQU9BSEFWaUJBRWxmOGx0M2lna0xVaW1xSGxQQTBFTDlUUG5uQnFlMTlyS1NKODY2Vnp4Q3VrVm4yVkJoOTl2MFlDRUtjTW1qeXZrSlVlVm92SkE?oc=5>
+- **特朗普** | 特朗普称停火协议已经结束 但美伊双方将继续进行谈判 <https://news.google.com/rss/articles/CBMijwJBVV95cUxQQnpkcU1qZ2pwRV9rREwxcTl5NU44bmRnZG0ydndPZnU1RGVOUnlNNXFlRy1yTS0yWkRVTW5yOThjd1VJWF83NE0tSDBBT0l6b2Q1NDdCQmYtRHRGdXo1bnNSWjcyYWl4LXNuMWk0dmVpZzZyYnhlUW9UUjJlb0VLMXRwdDRtUzNYRTMtaXE5ZkRqZHZnRzJzTG0xTE94Q0x1eGp6RkJRY0pmdlIwTUJ2UGhpYWtHakRhSTJHU1pqbVNaYjhja2loa2R3X1JZMXpjelRyUE91OHJNSHdRZkxWcE1tcmpJdW56d1FrNXhVMWo0R2lLMlVHWUZZM2ZwTmhLNG1oVnpKWTRaT212dVdr?oc=5>
+- **特朗普** | 美伊突发！特朗普：1000枚导弹已瞄准伊朗！霍尔木兹海峡，大消息 <https://news.google.com/rss/articles/CBMiXEFVX3lxTFA3Vnd5dVZmLW9rY194TGVURmp3eE5od1FMUTJEcGd2eld1Nks4WjhpTng3Q1Zud1c3WVdVSUNab2x3emVqU2d1NkR0UTNOMGdQZ1FMTEVxZFhJemtS?oc=5>
 
 ### 2026-07-11 16:49  (8 条)
 
