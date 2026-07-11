@@ -1,14 +1,60 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-11 11:48**
-- 本轮扫到 6536 条, 新增 **0** 条
+- 最近更新: **2026-07-11 13:04**
+- 本轮扫到 6541 条, 新增 **5** 条
 
 ---
 
-## 本轮无新增
+## 本轮新发现 (5 条)
 
-数据库里所有演出/动态都已见过,暂无新增。
+### 《功夫女足》主题曲由周杰伦演唱何时上线？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879995911_1d5af32070680292gi.html>
+
+### 周杰伦献唱《功夫女足》主题曲！阿信孙燕姿悬念待解
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879995911_1d5af32070680292f0.html>
+
+### 特朗普警告伊朗:1000枚导弹就绪，一旦暗杀美国总统，立即发射
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-07-11 12:38
+- 链接: <https://news.google.com/rss/articles/CBMingNBVV95cUxNWVM3Y1BBMU1wVVZvOWZaUjBfV1A4eG84WnduMVh5dXYzVVIzcWZHNXRjNE5adGhCSk0xcXJGcVBSMFI5QldQZ0lBVkZHV0N4ZFhQeGgyNmw4a0E3aGtRMTZQeXlqYzRyWEdGb3BpdFlLUWlnUzFkZzFJQzR6bDBfTEF5dktTQnB0VTM0T0JySHBBWTVWdy1nb0w4U3otdEpVb2NsWVhhWVk0Vzd5bHZiUXUtMDB3WmxQUGJEVFNra0h1d01SYnk1cWZWM3hJSElKbDVlcWk0TXhURHc5ZkVaN1Z2ZjNtR0dJYi1UWldNRzJlVWplRDRoaTI3ZndweUtyTy1Ba0ZieVZ6ZVhTN0N5MGF3clVnTC1MVTVkMEppVjkyRU15akpyc0VKcmNkV0FlY181TmlvcC1UYXBDc2VGRWpVUmJtRmFwYTZ4MnYxaW9zem4ySVRlQlN0VTMzbDNnbUt0TlFlYW83RFpCaUhtRllwVnVUbzVhYVVVR2J6OEFhSVpQWFZ0Vll4endLVF80QUJTWGhHbjNqZTQxa1E?oc=5>
+
+### 特朗普拒签住房法案 但将允许其自动生效
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-10 14:36
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbkZKM2hMRzNQc0VZV2RtN0d0bUozck5yclVEYzlPQVJMUmNxZHg2a3pWSndaN2ZraS0xaW5LaW9KdFJIQ2owd2c4djhMemw0T0VhbzQxWUZEMHZHWlhCSXBhU0VFYk9tQXRYb21ibFhaSU9VbVptV0I0NUtLNURkb1cxTDhNWnQxRkh6TTBuZEZ6VGtVeUNYb2tLTHR2YkxPVU5CdmxhTW9SS2hzYkx3RkhmeUlRRXpLbGdPdGtldG81VHZjOXZDTDNVWDc2RU9wT2NIUlIzWXNaSkxnaXBV?oc=5>
+
+### 特朗普发文：1000枚导弹已瞄准伊朗
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: chinanews.com.cn
+- 时间: 2026-07-11 03:50
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVZEFvaW5DQzc0OUdQR3dUSTBHOHhoVVUxeE1La3BRQ3k5WWxrN1RDczJuTlYxNFVZcWJNMEhhM1RENGE3ekNYMDZETjFnOHFNMVdqYm9lTGMtWFRUNE9UNXMxQ0NOS3pE?oc=5>
+
+
+---
+
 ## 历史发现
+
+### 2026-07-11 13:04  (5 条)
+
+- **周杰伦** | 《功夫女足》主题曲由周杰伦演唱何时上线？ <https://k.sina.com.cn/article_7879995911_1d5af32070680292gi.html>
+- **周杰伦** | 周杰伦献唱《功夫女足》主题曲！阿信孙燕姿悬念待解 <https://k.sina.com.cn/article_7879995911_1d5af32070680292f0.html>
+- **特朗普** | 特朗普警告伊朗:1000枚导弹就绪，一旦暗杀美国总统，立即发射 <https://news.google.com/rss/articles/CBMingNBVV95cUxNWVM3Y1BBMU1wVVZvOWZaUjBfV1A4eG84WnduMVh5dXYzVVIzcWZHNXRjNE5adGhCSk0xcXJGcVBSMFI5QldQZ0lBVkZHV0N4ZFhQeGgyNmw4a0E3aGtRMTZQeXlqYzRyWEdGb3BpdFlLUWlnUzFkZzFJQzR6bDBfTEF5dktTQnB0VTM0T0JySHBBWTVWdy1nb0w4U3otdEpVb2NsWVhhWVk0Vzd5bHZiUXUtMDB3WmxQUGJEVFNra0h1d01SYnk1cWZWM3hJSElKbDVlcWk0TXhURHc5ZkVaN1Z2ZjNtR0dJYi1UWldNRzJlVWplRDRoaTI3ZndweUtyTy1Ba0ZieVZ6ZVhTN0N5MGF3clVnTC1MVTVkMEppVjkyRU15akpyc0VKcmNkV0FlY181TmlvcC1UYXBDc2VGRWpVUmJtRmFwYTZ4MnYxaW9zem4ySVRlQlN0VTMzbDNnbUt0TlFlYW83RFpCaUhtRllwVnVUbzVhYVVVR2J6OEFhSVpQWFZ0Vll4endLVF80QUJTWGhHbjNqZTQxa1E?oc=5>
+- **特朗普** | 特朗普拒签住房法案 但将允许其自动生效 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbkZKM2hMRzNQc0VZV2RtN0d0bUozck5yclVEYzlPQVJMUmNxZHg2a3pWSndaN2ZraS0xaW5LaW9KdFJIQ2owd2c4djhMemw0T0VhbzQxWUZEMHZHWlhCSXBhU0VFYk9tQXRYb21ibFhaSU9VbVptV0I0NUtLNURkb1cxTDhNWnQxRkh6TTBuZEZ6VGtVeUNYb2tLTHR2YkxPVU5CdmxhTW9SS2hzYkx3RkhmeUlRRXpLbGdPdGtldG81VHZjOXZDTDNVWDc2RU9wT2NIUlIzWXNaSkxnaXBV?oc=5>
+- **特朗普** | 特朗普发文：1000枚导弹已瞄准伊朗 <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVZEFvaW5DQzc0OUdQR3dUSTBHOHhoVVUxeE1La3BRQ3k5WWxrN1RDczJuTlYxNFVZcWJNMEhhM1RENGE3ekNYMDZETjFnOHFNMVdqYm9lTGMtWFRUNE9UNXMxQ0NOS3pE?oc=5>
 
 ### 2026-07-11 10:39  (6 条)
 
