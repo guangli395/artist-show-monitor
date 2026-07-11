@@ -1,88 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-11 05:24**
-- 本轮扫到 6521 条, 新增 **10** 条
+- 最近更新: **2026-07-11 07:22**
+- 本轮扫到 6526 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (10 条)
-
-### 官宣！周杰伦演唱会长沙站将实行实名购票和实名入场制度
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019082xta.html>
-
-### 黄晓明在周杰伦演唱会夸奖昆凌,被网友怒骂不尊重前妻大男子主义
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923015_1d5ae154701901eowy.html>
-
-### 黄晓明、昆凌、姜妍等现身周杰伦演唱会
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019082wju.html>
-
-### 王俊凯看完周杰伦演唱会后,用一首歌回应谣言:扯!
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923015_1d5ae154701901eor8.html>
-
-### 伊朗回怼特朗普：从未向美国提出谈判诉求
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-07-10 23:26
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5PRjlZcTdyenE1d25XdUd5T0ZaR0UtMU8xWnlZU1M1dGx3a29CRG1kRUowR05IZnNYdzQyMG9leFZkTklGSXNVRHNWZE5XWDUxMDhoMjIwTEc4RzN0bFdzbzFWUTVpcFAzc1E?oc=5>
-
-### 阿联酋进A:5和特朗普政府的“算力外交”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-11 02:39
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE9FVHc3NkNMUWpqTmNUUGV2d2pqMEhoc1hCajA0UWRpZXoyOWt6M3dnLUJqZ2EtcE1qZnliWWxLSXh4YlZYS0ljMkZJbVVMZ0xvRWVmclB0am1KU25ROGxhZDBOeWluWWdCTHhfRU1hRUlyUQ?oc=5>
-
-### 特朗普：美方已同意继续和伊朗谈判
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 央视网
-- 时间: 2026-07-10 15:18
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5IdVpzV08yZXR1X2U3ek16Zkd6WDV3Y1ZXaWY5bkxjcnVmSkswMVFZTlgtNHVTc3ZSd1JvYklzVEdLdHlPNElRZ3lBYmlrbHZQLS1wVjAwalRKZFJfUjZJZmVKbWc2bFlKczFKdFFfMkVCT3dQdDdWTg?oc=5>
+## 本轮新发现 (5 条)
 
 ### 特朗普：1000枚导弹已瞄准伊朗
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-07-11 03:33
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wVy11MDZEcUNLeG5ndUZtUjhzYWxpQXZRZWlUeVkwNzh1Vlh3c0JaUVBneGwtTDVCbzNfdEUxajVXc3lZbkRVTXBlZDdFTTJvUGJ0SWE4YmpkdE93UlFDcU5vdE4?oc=5>
+- 场馆: 中国日报网
+- 时间: 2026-07-11 07:04
+- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTE1Keko0MkhpNmVuVTJ6QXU4WXhaUzB2Ri0tSVN5aEJhVmFvYmVneHZrVVdfejBvUEIyN2kxc29ueGRRa2toZlVmR0x0NTB4ZmxscXlKamZKcnFncFl3OVB6UnZzVnNIVkxzeF92Z2FRM05PNVVMYUpkM1ExRQ?oc=5>
 
-### 美国总统特朗普10日......_7x24快讯_新浪财经
+### 特朗普：1000枚导弹已瞄准伊朗
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-11 03:28
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE4xTk54NnprRDU1U25UZXBoYVV0UnZhUmtKTjhZRXg3eDZTcC03Y2xfVUlVaFlCLWQzYl9QX2wwVWZHRTFhbVdma3k3Yw?oc=5>
+- 时间: 2026-07-11 04:14
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE9wV3lMSmRoUUs1LXd1X25fV0NuOC1hdEJRS1Azdnp2OUpnZzVHSjUzU205R1VtOTZPZnZlMmVxdkc0NlB6T1V4T2NkRmJSWDNIcTI2dW0xSjhqVGppQjBwbXhra0JBemgwTWFwRXFXMWJnR2ZGVnc?oc=5>
 
-### 以色列情报: 伊朗正试图暗杀特朗普
+### 英格兰球星凯恩：我和特朗普一起打过高尔夫，他的球技相当不错
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-07-10 09:01
-- 链接: <https://news.google.com/rss/articles/CBMilAJBVV95cUxQVjA5Uk1QU2I3aVJMd3JMV1IwTDh5OEd6Y0o3T0JRaVIwZ3Q4Y2tBX3ZjRFJsZ1E2eUE1eHIyUFBhLVRkaE00YTU2RzFhQ2tGcGQ1MXpOQ28ySmxwTXZmLUFTUkRVaWRrUVYtWWFzUUVRRUpjT2lPRmdjQW1paFFSQml2UzA2a3ZRbUZJMHdKd2d2MXRFUG02RXYtS0YyM3NKT2NVRjNvUGlaYkE5b0tuTlBhN29Wb0tXblFkWnFpbHVGOTN0WE1hTEstZTZ0UldfMGdIeGx6MnotRkZiU0FMQ1NaQlpMM0hpMGhiTzJ1UlgwSzM4djFEV0tJMEdueXl4S1JuMFhvc0JROWNHZ3huNDRLRXA?oc=5>
+- 场馆: 观察者
+- 时间: 2026-07-11 06:23
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5GTmt3OHhCRVNDVG4wNjF4ZHR1UzczTlRaRVhiT1BSelJER0RTcTgxRGN3dGp1bXRza3ZsRU9KTHJLMVpsZEVxY2lOQS1lUk1mYkktZThxWXhJTWxTV0M3cXB4NFpnNnp1RHc?oc=5>
+
+### 特朗普机场、特朗普大桥来了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-10 06:22
+- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxPWkRPTjNyVGd2bTBMc1dreDBXUWRZQVl6cjZHblp2UW9GRko1enBqVWxtRElJQlA5WThNVWg2VkxRZ2NIZmotcm1uOExDWHhlcWE0SDJGMThYcjVPTnN1WkRYUDBxSmh4empzWXAtSXFoMmI3eFp1aXMyUVBkbzkxMDlSRzJrQzh3TVlKRDB4OHoycW0xcWMwQ2pJSl95RnpoRjA4TEdiRkMwQVNuWkhYUVNMTGZHVWIyLVlELVA0YUFsQXVFZE1PMmphb2h2RW8?oc=5>
+
+### 白宫证实特朗普已“清空”美选举援助委员会
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 搜狐网
+- 时间: 2026-07-11 05:44
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxNejlsUmdKZUdCWlVULUlST0RDZVF5MjhSbzlYMjB0YVI0aEFfUzVtT3M3SmxpeFY4SVN2SEtWOVZJWlh3Qk8tb1Z6TjN3VmZYS2k1ODN6d2M4YU94bV9ybXlPZmZUcFdzcXV0RFd6NElRWnFYSERELUNBVkRicmZuSXVZc01JUG1j?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-11 07:22  (5 条)
+
+- **特朗普** | 特朗普：1000枚导弹已瞄准伊朗 <https://news.google.com/rss/articles/CBMie0FVX3lxTE1Keko0MkhpNmVuVTJ6QXU4WXhaUzB2Ri0tSVN5aEJhVmFvYmVneHZrVVdfejBvUEIyN2kxc29ueGRRa2toZlVmR0x0NTB4ZmxscXlKamZKcnFncFl3OVB6UnZzVnNIVkxzeF92Z2FRM05PNVVMYUpkM1ExRQ?oc=5>
+- **特朗普** | 特朗普：1000枚导弹已瞄准伊朗 <https://news.google.com/rss/articles/CBMidkFVX3lxTE9wV3lMSmRoUUs1LXd1X25fV0NuOC1hdEJRS1Azdnp2OUpnZzVHSjUzU205R1VtOTZPZnZlMmVxdkc0NlB6T1V4T2NkRmJSWDNIcTI2dW0xSjhqVGppQjBwbXhra0JBemgwTWFwRXFXMWJnR2ZGVnc?oc=5>
+- **特朗普** | 英格兰球星凯恩：我和特朗普一起打过高尔夫，他的球技相当不错 <https://news.google.com/rss/articles/CBMiakFVX3lxTE5GTmt3OHhCRVNDVG4wNjF4ZHR1UzczTlRaRVhiT1BSelJER0RTcTgxRGN3dGp1bXRza3ZsRU9KTHJLMVpsZEVxY2lOQS1lUk1mYkktZThxWXhJTWxTV0M3cXB4NFpnNnp1RHc?oc=5>
+- **特朗普** | 特朗普机场、特朗普大桥来了 <https://news.google.com/rss/articles/CBMizwFBVV95cUxPWkRPTjNyVGd2bTBMc1dreDBXUWRZQVl6cjZHblp2UW9GRko1enBqVWxtRElJQlA5WThNVWg2VkxRZ2NIZmotcm1uOExDWHhlcWE0SDJGMThYcjVPTnN1WkRYUDBxSmh4empzWXAtSXFoMmI3eFp1aXMyUVBkbzkxMDlSRzJrQzh3TVlKRDB4OHoycW0xcWMwQ2pJSl95RnpoRjA4TEdiRkMwQVNuWkhYUVNMTGZHVWIyLVlELVA0YUFsQXVFZE1PMmphb2h2RW8?oc=5>
+- **特朗普** | 白宫证实特朗普已“清空”美选举援助委员会 <https://news.google.com/rss/articles/CBMiiAFBVV95cUxNejlsUmdKZUdCWlVULUlST0RDZVF5MjhSbzlYMjB0YVI0aEFfUzVtT3M3SmxpeFY4SVN2SEtWOVZJWlh3Qk8tb1Z6TjN3VmZYS2k1ODN6d2M4YU94bV9ybXlPZmZUcFdzcXV0RFd6NElRWnFYSERELUNBVkRicmZuSXVZc01JUG1j?oc=5>
 
 ### 2026-07-11 05:24  (10 条)
 
