@@ -1,48 +1,73 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-11 09:06**
-- 本轮扫到 6530 条, 新增 **4** 条
+- 最近更新: **2026-07-11 10:39**
+- 本轮扫到 6536 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (6 条)
 
-### 哈里凯恩证实与特朗普打高尔夫，赞其球技出色
+### 特朗普：1000枚导弹已瞄准伊朗
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-07-11 08:06
-- 链接: <https://news.google.com/rss/articles/CBMi7AFBVV95cUxObV9mZ3RUYXV0WjFkV2VUYUN4YUNLeE1ZWlc3NkZubFllTE1OVVBkUkVlU0JHdExCX0J5WklOWnJfM1pUQklKNHVtRmpoSUN4VDViQXkweWVuN2lxRWFQeTNPUnhyRVc0VERhV3dlYUtQYWhJVVUzbU1IOHlUNEtFaF9HUU9xdk1pQ0dPWmhfX2RWTVNkYmxiRXd0Zmx3a05GYUxweU9EM1R2WkFVRDJycGY1ajF5RjhxOTJMMGktZm0xeHRNWWtHVFU5RTNTZzVOUG1CMC1Gd201STBQaUJ1NU0zRTNHSWVtZm82VQ?oc=5>
+- 场馆: 中国日报网
+- 时间: 2026-07-11 07:04
+- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTFBkMXFaR2tMakxmWWl3bGE5Mk5ySVdfR2VtOVhUN0xqRzNYWXZtWUNCV3ZfUjkxQWFGZGdsOGlDaGMza1VsLVZ1LW5qTVU2TW1jMzBaZDZUZm03ampYSVRHV1hxZHhVanJ6ajViQzBkZ0JaLWxCS1lGV0ZxbHY?oc=5>
 
-### 特朗普称已同意与伊朗继续谈判 据传双方通过卡塔尔“积极对话”
+### 特朗普：1000枚导弹已瞄准伊朗
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-11 06:57
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxQVWcwRTNtdEtHYk13M2NvYTc3VldndzNHeXhlOU9kTnY2ZDZweWNySHM5SDZBWWRoRHpRaG1vVnpfVERUQUJ0bDZseUExcFN0TkpBMTZvdkF6MURDSFpIdXNQWjliT1hHaDBWMUt6SDFYWDRZZzdBeHVhSzM5X29tWlI1Y2x2TWVTLUlaSmxfcmN5WF9jdXBwaA?oc=5>
+- 时间: 2026-07-11 07:52
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE9BTUJOZ2NSNExkVlRLUG9ibkFxMDE3eERrcXlSUEhCXzVwT3pEWE9SckNyR3IyQ2NHMTJVRldMOTlzdGFrMV9WQ2ZVSk82cFVPOG1SLXQydFdXUU5FWjdlWTVoa0pTOWREWTRMY0RpNi1fTWJldHc?oc=5>
 
-### 特朗普前助理：美伊备忘录破裂，万斯或成替罪羊
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-11 07:53
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1HNG5CSVdVZms5a3k3ajZyWksxMkxQREVuaVBnWVdfNVphd29jOG94dE9sOGRlUzE5SFd0RldoV3R1Y09UcEROTjFJYzM?oc=5>
-
-### 总统身体出问题了？新书爆料特朗普忘性大，政敌的名字都记不住！
+### 特朗普称停火协议已经结束 但美伊双方将继续进行谈判
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 网易
-- 时间: 2026-07-11 06:58
-- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTFBVRzNVTE15M2ZIS3J2c2ZBLXJuY0RJUEhzcDlhdGc1SGhsMFNJMnRta25sLVNSVU9UcnljSVBZeEYzY25zdEhoanFsNGt4WkZ1VkxsQTdUTlh0cTVCamZiMmNn?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-07-11 09:11
+- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxPdTFlVFpuY0U0VVRjT1V2S29wR3MzbjVoMTh4WEdNSGtEN3JqbGx3akI1SEVvUGdZRHFxN08yLUxKZ1pVS2RqaFYtb2NkZlpvOVBiUUJYMjNDaUlicDRIWk5kOUo1SndmOXFQaFhFaEF2d2ZnNEhnUlFZRklyc0gtQmtFNTI4blNmdmc?oc=5>
+
+### 特朗普称美加跨国大桥将于27日通车
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 央视网
+- 时间: 2026-07-11 08:35
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9SZUZyNEF5UC11cUg0OWctellTLXRlbUhfLWhiNmgxdXkzdEFGeWtDTjE1c05fY3pCVmt2QjlQVEpHaGpQOHpkS0tzUVo2OTFyZ2VvMFZTelVOcHlvMzZna2pISjdQaGdQenRvUDFwTzBYeWMxN09rdA?oc=5>
+
+### 威胁阻止美加跨国大桥通车后，特朗普高调宣布美加达成新协议
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-07-11 09:56
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE1lS0Z6UkZYSndiTWpjRmc4RWx3NG9WM0E2ampuUXN4a1VwWFFoV2UyUVpMcXpndmpiMFhnWFVWWXdOZVpmR3BoMjNIMTZVa1dXZmM1MlNRRVExcDJsU0JEQ2RCaUlOemhLMEZMY2dadkFEOGhI?oc=5>
+
+### 特朗普拒签住房法案 但将允许其自动生效
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-10 14:36
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZTRhaTM0RUxLSG85TDJTZ014NUVheDlFRng0ejdNZS1SQm1kSGEtQk4tNXNqX0dVcWoycGROLVlLZHl2NGpWNGd2THRJaXp2bXl6ZkN2aVkxWngyOXJ5czVlYWRhSUxWc0VEUzRxLThhVmk4ckVUc1NyUVk1SDRUQm1CdnFHNTJveXkxQWZaY3VKVFV4MFQ4cEFxY3diX0MxOE5VaG9GNTdsdkJnT1pzWWJWN0hzajFMN1ZiTjc2R3VpZlBUTUl3LU12enhiMmlxQjJLNEgwX3FKRExvS0lR?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-11 10:39  (6 条)
+
+- **特朗普** | 特朗普：1000枚导弹已瞄准伊朗 <https://news.google.com/rss/articles/CBMifEFVX3lxTFBkMXFaR2tMakxmWWl3bGE5Mk5ySVdfR2VtOVhUN0xqRzNYWXZtWUNCV3ZfUjkxQWFGZGdsOGlDaGMza1VsLVZ1LW5qTVU2TW1jMzBaZDZUZm03ampYSVRHV1hxZHhVanJ6ajViQzBkZ0JaLWxCS1lGV0ZxbHY?oc=5>
+- **特朗普** | 特朗普：1000枚导弹已瞄准伊朗 <https://news.google.com/rss/articles/CBMidkFVX3lxTE9BTUJOZ2NSNExkVlRLUG9ibkFxMDE3eERrcXlSUEhCXzVwT3pEWE9SckNyR3IyQ2NHMTJVRldMOTlzdGFrMV9WQ2ZVSk82cFVPOG1SLXQydFdXUU5FWjdlWTVoa0pTOWREWTRMY0RpNi1fTWJldHc?oc=5>
+- **特朗普** | 特朗普称停火协议已经结束 但美伊双方将继续进行谈判 <https://news.google.com/rss/articles/CBMiigFBVV95cUxPdTFlVFpuY0U0VVRjT1V2S29wR3MzbjVoMTh4WEdNSGtEN3JqbGx3akI1SEVvUGdZRHFxN08yLUxKZ1pVS2RqaFYtb2NkZlpvOVBiUUJYMjNDaUlicDRIWk5kOUo1SndmOXFQaFhFaEF2d2ZnNEhnUlFZRklyc0gtQmtFNTI4blNmdmc?oc=5>
+- **特朗普** | 特朗普称美加跨国大桥将于27日通车 <https://news.google.com/rss/articles/CBMieEFVX3lxTE9SZUZyNEF5UC11cUg0OWctellTLXRlbUhfLWhiNmgxdXkzdEFGeWtDTjE1c05fY3pCVmt2QjlQVEpHaGpQOHpkS0tzUVo2OTFyZ2VvMFZTelVOcHlvMzZna2pISjdQaGdQenRvUDFwTzBYeWMxN09rdA?oc=5>
+- **特朗普** | 威胁阻止美加跨国大桥通车后，特朗普高调宣布美加达成新协议 <https://news.google.com/rss/articles/CBMidEFVX3lxTE1lS0Z6UkZYSndiTWpjRmc4RWx3NG9WM0E2ampuUXN4a1VwWFFoV2UyUVpMcXpndmpiMFhnWFVWWXdOZVpmR3BoMjNIMTZVa1dXZmM1MlNRRVExcDJsU0JEQ2RCaUlOemhLMEZMY2dadkFEOGhI?oc=5>
+- **特朗普** | 特朗普拒签住房法案 但将允许其自动生效 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZTRhaTM0RUxLSG85TDJTZ014NUVheDlFRng0ejdNZS1SQm1kSGEtQk4tNXNqX0dVcWoycGROLVlLZHl2NGpWNGd2THRJaXp2bXl6ZkN2aVkxWngyOXJ5czVlYWRhSUxWc0VEUzRxLThhVmk4ckVUc1NyUVk1SDRUQm1CdnFHNTJveXkxQWZaY3VKVFV4MFQ4cEFxY3diX0MxOE5VaG9GNTdsdkJnT1pzWWJWN0hzajFMN1ZiTjc2R3VpZlBUTUl3LU12enhiMmlxQjJLNEgwX3FKRExvS0lR?oc=5>
 
 ### 2026-07-11 09:06  (4 条)
 
