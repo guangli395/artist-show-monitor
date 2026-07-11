@@ -1,60 +1,82 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-11 21:13**
-- 本轮扫到 6567 条, 新增 **6** 条
+- 最近更新: **2026-07-11 22:12**
+- 本轮扫到 6574 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (6 条)
-
-### 王俊凯新专辑《WJK》有哪些致敬周杰伦的细节？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879848925_1d5acf3dd06801o5fc.html>
-
-### 粉丝为何调侃周杰伦温网打卡比出新歌还勤？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879995944_1d5af32280680297ny.html>
-
-### 美司法部传唤《纽约时报》4记者作证 涉报导特朗普新空军一号安全疑虑
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-07-11 20:28
-- 链接: <https://news.google.com/rss/articles/CBMiwANBVV95cUxNV21UcC1ETHRoalBhWVBXYlVHTGk1bU1QVk11VnVXTlZ4OFUxMVdmRUMzODZTZzJnaS1qLUVRRjNJMFJBQU1TTnF5VkdKZFN6TUxwQTAzLVcyODF1a2txdlhGVjRNLU9lUV93MHFVZUwzZ2ZOVldiRjVlSlBGNkp3UlEzZnZSMkpJRGY5QzNVZkNmaUJiOTZFX251M2hTX2VCV3BpVEVXQjV5OUlmR2I4dV9BYzFjUUdkYVJPeWtrd1pkdG5qYU93N1FGc0NnbXNHXzVGdHUwLWlmQXF0d3l0alJISUF3Qms1Tlo4aTY0SWQzXzJ4QUVBdTg0SElCX0gzVzYxVER5MjZlNFdCN2E4U2d5VXlGWUVENVVwV3htcGgtYlc2d0FhMktFR1RIanViXzJvZTNTTmZPbEM5d3VlSjlwdUZrdDZDN0IzcUNXX1BVQXhseGxQUU5KSF9pRVpsVFp4UUFNamw0ZC0zbHNPZ3lIWjNWNDdPRkJMQ0syZE4tZUxYVEh0ZU0yNVVmTDlobWNjeW1TUXNsV2lDMTlobG4tZ1pDMTA4ajBtV0hHSF9HQl9YcV9iNlhZOFYxTENI?oc=5>
+## 本轮新发现 (7 条)
 
 ### 两党住房法案未经特朗普签署自动生效 多名议员表示庆贺
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-11 21:08
-- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxQN1ZQaE1wR0FBcnBQellMVG5PbmVaUFhsVkpEeWhKOWVYRFU1UVczZy1UVTRib3lKbThWQmd2OFAzbmJGTVVHTkJJRGpTRl93cjZMMHEzemNJcWYwdWRTLWxQSEZLWXIxdjFZYUJfUzlXdDhHZkZHVDVVNm1OQ2xrbHZfVUZwSGlOZXBwN050Z3QzWG5oVGF0ZU9OTVc5ZG5waXNCTG5pYTgtUQ?oc=5>
+- 时间: 2026-07-11 20:45
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxNTkMydG5wZy1hWHA1SVZ4NTM3Yi1uSlJoeDhLNWduOXlfdjJselp2enhyT1ZJRTVpYVNNelU3c2swcHU1UHhTVkt6WlVTUV9wenE1R09qejRYMUFBUFRvMjhYYXcySHU5ZzRzNkp5eXp6MHRKUG1vUzZHLWk1RHZMVDJINXBXaE0?oc=5>
 
-### 民主党指控特朗普“试图控制选举”，共和党担心在11月失去国会多数席位
+### 面对暗杀威胁 特朗普警告伊朗：1000枚导弹已对准你们
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-11 20:02
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9TZnNfeHptSV9qcEN1el9KN3pxNmJ6eGxRWjlzRm9KUlNzd3FqY0ZoekdtVGYtNGExTWpucUdjV0Z4MGpsWWRPeWFRTlU5MTdMakNPd2JPd0daNW91a3BMbWZTNmU3UTkyZzJnVU9Ib0dxNGpHT0Zfbw?oc=5>
+- 场馆: 联合早报
+- 时间: 2026-07-11 05:27
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9kZEVtUTBHbk9jR2tTVlNaSjRGeHZpY1E0UmNXNFNURVpGQUxlTktsUTFvQnExVWlqWFV3ZWVBMTY0dEpHTXBSUDVaSXZQSV91ekxCQm42SVFTS2ZmRGlsZzJrZ0hMQQ?oc=5>
 
-### 特朗普新专机有缺陷？报道记者收到传票
+### 霍尔木兹海峡，大消息，特朗普：1000枚导弹已瞄准伊朗
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-07-11 13:24
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9BYW9adjQya01HdzFTT0MxNnA5T1FmRzlrMmhScnVUSHJhVHNwZWFJaTFBdEVhQkRmQkF2YlpBTHVyc3hMVk9IU1pPRV8?oc=5>
+- 时间: 2026-07-11 03:47
+- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFcVMzRGJzbDQ2NVBLd3VVaTh3cEpEUkoyenZwQUZ5TWNnZkhZWGFrNkF6Q3dSRnIxYTJrLWtLT2tsRGl6eDNORk9LQ3dtR3Zo?oc=5>
+
+### 白宫证实特朗普已“清空”选举援助委员会
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-07-11 06:38
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBEeFA1M2hqaHYxZU1wak5kOTJuQlFNbTJxZTYwSU5MVzhHY2FJWWFsbnFzVVZ3ZDc2b1dtUVZOQXBjWnluWDJieUFyNHZBSjdCZ216NWo1WUt5My12VnRVSTQ1N1ZmbEloc1E?oc=5>
+
+### Your Bro IQ (@Crypto_IQ)的见解
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Binance
+- 时间: 2026-07-11 10:21
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1CY0NpaTY1U3ltM2RXWWUxUWZiTzYzbW8tQ0V4SWFEVXFTS3ViRURiakxaM2V4MXlwNEM2dXFhd3V0YkpRUmltRzl4QlFhSF9yNENPOUdseXhnV2FmbEdHY3ppVG9vUnk0?oc=5>
+
+### Trump and the Fifa debacle因凡蒂诺：特朗普在国际体坛的“镜像人物”
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Financial Times Chinese
+- 时间: 2026-07-08 00:01
+- 链接: <https://news.google.com/rss/articles/CBMiV0FVX3lxTE1YTHRSTXZDelgtY0RySl9fNmdvbEgwci16NHM5RE05Vm1ES0xvSWNsWkpuaXNXYUp4cGJITHIyUHg5ZFNwTkdqQ0Vzb3pQdy10Q1hnVDRiaw?oc=5>
+
+### Trump threatens to continue attacks if Iran rejects deal
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: IDNFinancials.com
+- 时间: 2026-07-07 07:00
+- 链接: <https://news.google.com/rss/articles/CBMiogFBVV95cUxQZlNzR1FOdE5vQUhzSC1mczloSm1RZFpHQW9WMW9yVHMybjdSaU02a1dDdnlhaHBjcm5EYTI1Q2hYb0JteUZGTzlfb3hEQ3BUU0NhNi1BYm04N1BzZjRzQ0RJWXp1a0RiMkhqMWRKVHhtV2VXeVRBb3dtYmJDcE1ld0hHbndGcDByUUo2TTVQMzZBYkNDTHRpNHZoTlJiLUQ2UVE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-11 22:12  (7 条)
+
+- **特朗普** | 两党住房法案未经特朗普签署自动生效 多名议员表示庆贺 <https://news.google.com/rss/articles/CBMihwFBVV95cUxNTkMydG5wZy1hWHA1SVZ4NTM3Yi1uSlJoeDhLNWduOXlfdjJselp2enhyT1ZJRTVpYVNNelU3c2swcHU1UHhTVkt6WlVTUV9wenE1R09qejRYMUFBUFRvMjhYYXcySHU5ZzRzNkp5eXp6MHRKUG1vUzZHLWk1RHZMVDJINXBXaE0?oc=5>
+- **特朗普** | 面对暗杀威胁 特朗普警告伊朗：1000枚导弹已对准你们 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9kZEVtUTBHbk9jR2tTVlNaSjRGeHZpY1E0UmNXNFNURVpGQUxlTktsUTFvQnExVWlqWFV3ZWVBMTY0dEpHTXBSUDVaSXZQSV91ekxCQm42SVFTS2ZmRGlsZzJrZ0hMQQ?oc=5>
+- **特朗普** | 霍尔木兹海峡，大消息，特朗普：1000枚导弹已瞄准伊朗 <https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFcVMzRGJzbDQ2NVBLd3VVaTh3cEpEUkoyenZwQUZ5TWNnZkhZWGFrNkF6Q3dSRnIxYTJrLWtLT2tsRGl6eDNORk9LQ3dtR3Zo?oc=5>
+- **特朗普** | 白宫证实特朗普已“清空”选举援助委员会 <https://news.google.com/rss/articles/CBMiakFVX3lxTFBEeFA1M2hqaHYxZU1wak5kOTJuQlFNbTJxZTYwSU5MVzhHY2FJWWFsbnFzVVZ3ZDc2b1dtUVZOQXBjWnluWDJieUFyNHZBSjdCZ216NWo1WUt5My12VnRVSTQ1N1ZmbEloc1E?oc=5>
+- **Trump** | Your Bro IQ (@Crypto_IQ)的见解 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1CY0NpaTY1U3ltM2RXWWUxUWZiTzYzbW8tQ0V4SWFEVXFTS3ViRURiakxaM2V4MXlwNEM2dXFhd3V0YkpRUmltRzl4QlFhSF9yNENPOUdseXhnV2FmbEdHY3ppVG9vUnk0?oc=5>
+- **Trump** | Trump and the Fifa debacle因凡蒂诺：特朗普在国际体坛的“镜像人物” <https://news.google.com/rss/articles/CBMiV0FVX3lxTE1YTHRSTXZDelgtY0RySl9fNmdvbEgwci16NHM5RE05Vm1ES0xvSWNsWkpuaXNXYUp4cGJITHIyUHg5ZFNwTkdqQ0Vzb3pQdy10Q1hnVDRiaw?oc=5>
+- **Trump** | Trump threatens to continue attacks if Iran rejects deal <https://news.google.com/rss/articles/CBMiogFBVV95cUxQZlNzR1FOdE5vQUhzSC1mczloSm1RZFpHQW9WMW9yVHMybjdSaU02a1dDdnlhaHBjcm5EYTI1Q2hYb0JteUZGTzlfb3hEQ3BUU0NhNi1BYm04N1BzZjRzQ0RJWXp1a0RiMkhqMWRKVHhtV2VXeVRBb3dtYmJDcE1ld0hHbndGcDByUUo2TTVQMzZBYkNDTHRpNHZoTlJiLUQ2UVE?oc=5>
 
 ### 2026-07-11 21:13  (6 条)
 
