@@ -1,44 +1,54 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-12 18:56**
-- 本轮扫到 6634 条, 新增 **4** 条
+- 最近更新: **2026-07-12 20:05**
+- 本轮扫到 6639 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (5 条)
 
-### 蔡徐坤2026演唱会官宣全新主题巡演重磅来袭
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068235_1d5b04c8b019029my6.html>
-
-### 蔡徐坤“AN EVENING WITH KUN”北美巡演官宣!四月洛杉矶到华盛顿,手速抢票攻略来啦!
+### 蔡徐坤THE DEADMAN演唱会什么时候官宣地点？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923012_1d5ae154401903bezo.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd848068020nlu.html>
 
-### 特朗普过去24小时都忙了什么？（2026-07-12）
+### 蔡徐坤THE DEADMAN演唱会地点定了吗？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-12 18:45
-- 链接: <https://news.google.com/rss/articles/CBMixAJBVV95cUxNTlYzRzloVVE4aFJMd1V4WTN4aXVwOFFjQkpiMXY0aDdqZWU1eWpJaThxQ2RpVHYtckU0UmN4T3UwMmtaMmpkalJZVGV4ZWl4MUtVQThaR09OUGFHYnoxSUh2UVQwS2ZVbl93TTdLZXFMUDN0aWp2Z2FFUkgxekt5a2tvWnNBSlNUTDl1ZnkzbTgxUDAwdmZWU2lTa05wcVFoYlFoZ09jX0plbXlRWkxRS1JHb3cyWEJNRm5IRVpOckJIekZaOUZFd2pCbzE1cHI0UmhSdko4V0VtSEMwSkhRbzBLRmo4eWZKN0k3LUdROHpGQUNvOVp5YjZMck9RYXQ5cjhqU2FZSnBFMXJOUkZSdnhTU3BzdThBekt6bmU2NTZ0S29TWFFzMmE4TG1pZjZsMGFWRjVDcU1HeDMzLVplYmNSeVE?oc=5>
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd848068020nlo.html>
 
-### 特朗普发文悼念格雷厄姆参议员：（全美所有）国旗降半旗，哀悼持续至周六傍晚六点。
+### 蔡徐坤“AN EVENING WITH KUN”北美巡演官宣!四月洛杉矶到华盛顿，手速抢票攻略来啦! | 社区生活精选
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-12 16:57
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5FQTdGSXFjVm43Mzhjdmhiby1KeGpEY1l6dVIxMHMyT0x1LXRzT3B5TGlJbTU0alJMVTFwZnFYRk9IbDBzVFpBd1FyZExFc05qTHdZOUl6OEtLbkRLNzJHejNJV1ZOTzRLLWx2ZGU2cXoyNXdic2Y0NQ?oc=5>
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923015_1d5ae154701901eumi.html>
+
+### 《功夫女足》的主题曲是谁演唱的？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd848068020nko.html>
+
+### 王俊凯与周杰伦在演唱会上合唱过哪些歌曲？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879848925_1d5acf3dd06801o7c0.html>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-12 20:05  (5 条)
+
+- **蔡徐坤** | 蔡徐坤THE DEADMAN演唱会什么时候官宣地点？ <https://k.sina.com.cn/article_7879776328_1d5abd848068020nlu.html>
+- **蔡徐坤** | 蔡徐坤THE DEADMAN演唱会地点定了吗？ <https://k.sina.com.cn/article_7879776328_1d5abd848068020nlo.html>
+- **蔡徐坤** | 蔡徐坤“AN EVENING WITH KUN”北美巡演官宣!四月洛杉矶到华盛顿，手速抢票攻略来啦! | 社区生活精选 <https://k.sina.com.cn/article_7879923015_1d5ae154701901eumi.html>
+- **周杰伦** | 《功夫女足》的主题曲是谁演唱的？ <https://k.sina.com.cn/article_7879776328_1d5abd848068020nko.html>
+- **周杰伦** | 王俊凯与周杰伦在演唱会上合唱过哪些歌曲？ <https://k.sina.com.cn/article_7879848925_1d5acf3dd06801o7c0.html>
 
 ### 2026-07-12 18:56  (4 条)
 
