@@ -1,40 +1,73 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-12 09:25**
-- 本轮扫到 6596 条, 新增 **3** 条
+- 最近更新: **2026-07-12 10:51**
+- 本轮扫到 6602 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (6 条)
 
-### 披露特朗普新专机安全缺陷的美国记者收到传票--国际
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 人民网
-- 时间: 2026-07-12 07:17
-- 链接: <https://news.google.com/rss/articles/CBMibEFVX3lxTE8zRnRZMDJXUDM1ZjZuclktN1lCVWFjN0hrWHJvcnAxbWxCQjRrdm5oYnZSX3hneDlJVkJaNm94VGVCYWVOSWFCdXNpYkVrd0xNcDMxREo3dElzT0Raa0l5X1pZRllvaDRNQ0NyUw?oc=5>
-
-### 特朗普最忠实的盟友之一、共和党重量级参议员格雷厄姆突发疾病去世
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: DW.com
-- 时间: 2026-07-12 08:11
-- 链接: <https://news.google.com/rss/articles/CBMisANBVV95cUxPUnZMTFhxZks2WFZ6MFEwc0ZQRmlDU1JBTXhSX2Rtd2RDNVVNVzcwM2twNWFuU1RDSVowdjUwQjZ1aTFMWFZsWGUyUER0ZWZFaVNZcEFHcjh1ZmZFckMwNzZIcWFqYkpTQ3pkNlcwaGFGeThpSjNWSTgtM1JQb012cEVjWHo5cXFaRllTalNRYm1xa2lnUTJZM29QcnhiX1ZpZUdncXZ5eHQtY183WE1MclF6M2JsUDVrYnRsUFd1UlZwM1Vyb3NxYzM3ajN0ckN5Umd0ZTlTcU5idTY5Z1U3eDlzVHBIN3J3QlBfTzhkLW5YcElnNnFueXVpcUVRQkVpcG1zWFpMQTI4cGxRdW5zcG5xMUZJbjBEbmFyZVdPckdLdExtYUxVamZGZlF4d09NcWQ4ZmFBYWQ2LUkwZGpRWTZzUmliVVotYVJWYVRoMC1ob0ZRSUd1Zlc5OF9OVHB3TTUzUGhTX3JwSVY2dzlXQnZSTWVuMm94ZHV2ejgyZUJ0TUFnVTJiMk1fZmJpZFFSeGNMa1B0OHJIbTBlUHVNamlMcTAyRkhWN1d6T08yOXnSAbADQVVfeXFMT3JMV3RZelRBSF9BYXBDdU10dlQ1WnJyOURJTVRVRjB0VHZRQTVqOVFSV3NjLThGMkJpMHdvdzB0ZEtxSG93RXJRX19JZU15QzNXMFIyZXhnTEFMNmdxYkRHdi1XLVhDbjhSV2ZnZmQzR0dhWFY5d1FmcHE1eHd0MWhzTThTQnJiZTZjS3ByVl85TXlsT0RLYzNoelgzaWlReVRnMDltaUV0bTJmcU9OdE9DRnQyNDJELUNBM2d3WktSdFNUMWhGUy16VHloV2diV3M5NVV1bF94cXRNS25WUExSRUYydGlEekdpbWNUX05ZcXRLWmdyZlFBN0ZyRFl6TGJFZ0N4N01qT1QxTVpaMmxfUmU2ZEFyMUNnTzRHYUxEYTAxNHk1OURpamxINmhlSFZiUnpYQl9kVkFWTEFNbkF1S0l6T3dDUGNaOGxQLUNtQWpTLXlZb25Rc05aNzJzbnIwdVRINXltS1h1MENNUnFLdmQ1TTl5dkEzV2hSSXpLbGpITlp3aDVxTkNCYmM2MXFBdGphTGs5MmNla1VERFpSaEVQcFUtSmY0T1FVRUkz?oc=5>
-
-### 凯恩对阵挪威赛前回应特朗普言论：美国总统的球技“相当不错”
+### 特朗普公布“报复遗嘱”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-12 06:56
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTFBkR1M0cmh1aHZOVDZNX2ZzNmh0bENremVKN284ZVRScFgwNVl4UkNHcEdVN1p4a1QwTmZwWExycDZkdmpXUzV1RVdFblRkWUVOS2ZsMjRTZWZld0F0UWMzQXkyWjBUN0xTbFNUTC04OGFjR2d3dnc?oc=5>
+- 时间: 2026-07-12 08:58
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE9ydUtJdkc4eUtJNXJLZE1hcnNiMllwRFFzVmdERnlOemVKeFE5ZmNTOU9DNkJzTVRhYk15WE03Wjkyb2pLSmphMXhzTFFfLTRXZzdHY1NLWG9yQ0RpQ19TQmtJakRtX0lvVjhRaGJjRWE0MUhpYVE?oc=5>
+
+### 两党住房法案未经特朗普签署自动生效 多名议员表示庆贺
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-12 10:41
+- 链接: <https://news.google.com/rss/articles/CBMijwJBVV95cUxNN1Q4UEdMUUhuSjB4N1dTREhuSndPbWlUcnFFV2FSWlFzVGpxd0VaRkRPNHpFOTVTN25CZFlwM1J3ZEdoc0kya1RrWDdiTmhHNDdVa21qamN1VmFvdEk5Qm9JbE53cldwalFHSnUzMDVycENYWUF0b3lCYll0NjZoUnlJYkZCTFNFSjZveEZQbzJOcEVKelpSY3RZa0o0T2ExZ2JJNEJ4OVdkN1c2cUg4eGF4c0FQZVZPNVVWUFV0NEpBcXEwcnhXbUxtYnRsdE5NbW52MF9aalYtWmlEdFAzYlMwV3Nxcm1VNXhqTDRKLTIzdlY0TkZDekt6bTJTOVA1NXgxcTZka1pJLUc3Y1dV?oc=5>
+
+### 特朗普过去24小时都忙了什么？（2026-07-12）
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-12 10:07
+- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxNRTl6NXhjVU56RWxCenZsRGRGN2IwRC14NzJRaTNYRGpFUXc0RDJoRTBmMUxRcGNCXzFwNTBPcEVlNWNFbFFGVDlUYkdkb0M5ZUNXOEg0VWk5MHNqcTNLbkx2QUM1S09QdVNRWmNka0VZcTlRWVVRZk1Qd1hKR0F1cFdub2hxN1p1NTBzRFFjRHFJeVdlRk9TLVYzYWY?oc=5>
+
+### 特朗普立下数千枚导弹“报复遗嘱”，万斯可以不听吗？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-07-12 10:10
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5FYzBub2VSZGp5Um5NTFZmanhwWVUxUFhrczEtZDctbXVTcFNoYXdhTzljQ1M0NjRUTHJBcUgwUF9DVnN2T2FCREV3a18?oc=5>
+
+### 管用吗？特朗普担心遭暗杀立“报复遗嘱”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-07-12 08:01
+- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTFBSakQ1VkVETzJnVmJGdTY4UTVQNnNQVkNTYnVjbVFFSFhqRnhkQlpudjg5Y0tFajBqQ25SSHphYmRHUkl6amdKQWhOaWdiblFNRFhraXN2Z1NXNUdCVC14UVdJbHJkaUVkUUpaeTdhck9HdHJsRDZOUThnX0t5UQ?oc=5>
+
+### 特朗普宣布美伊停火“已经结束” 美方仍同意继续谈判
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-07-10 22:24
+- 链接: <https://news.google.com/rss/articles/CBMi6gJBVV95cUxQQlZWS0hQOEpVSnZGUDducUxJdVpHM1BhSVBoMlNsTk5SbGxhSzlzVWRIYWp1aFVYSklQVkJUMEdoX3BwTE5nNF9Rd1R3VTB5THN1anB2cWRKSUh1N3h1MURZNTJJS01WVGFNbGs1X3VFanFld1dGMVVZSl84TTItd05NRjRYV0hyV0UwNTNtTUlMa3pLQnlzYUY1a1hpSzBmb1g4VnExbjZMc1lwMXVycmlGSlc1YlJPQXZfcGtlNDV3OWdtTmhKMnJkWkN0dklYMkcwdTJUQXJlcHkzTURmVnNEUGNfNFdVZzJ6VzhuRGVCZVVNWGxpYURJWndPQ2d1Y3NPcDVNbWd2ZXhmdnlQbzFJdkdmalBXOWRXS0dKTHI1NFNFTWN3cS1SMzNRZmxJanNnS0ppa3JFWXo1emJJYjgzcnZpclRweUpkVzRFZmp1aHNQd1p1bS1lQjBIbTRvNUdacmlzT2VCdw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-12 10:51  (6 条)
+
+- **特朗普** | 特朗普公布“报复遗嘱” <https://news.google.com/rss/articles/CBMidkFVX3lxTE9ydUtJdkc4eUtJNXJLZE1hcnNiMllwRFFzVmdERnlOemVKeFE5ZmNTOU9DNkJzTVRhYk15WE03Wjkyb2pLSmphMXhzTFFfLTRXZzdHY1NLWG9yQ0RpQ19TQmtJakRtX0lvVjhRaGJjRWE0MUhpYVE?oc=5>
+- **特朗普** | 两党住房法案未经特朗普签署自动生效 多名议员表示庆贺 <https://news.google.com/rss/articles/CBMijwJBVV95cUxNN1Q4UEdMUUhuSjB4N1dTREhuSndPbWlUcnFFV2FSWlFzVGpxd0VaRkRPNHpFOTVTN25CZFlwM1J3ZEdoc0kya1RrWDdiTmhHNDdVa21qamN1VmFvdEk5Qm9JbE53cldwalFHSnUzMDVycENYWUF0b3lCYll0NjZoUnlJYkZCTFNFSjZveEZQbzJOcEVKelpSY3RZa0o0T2ExZ2JJNEJ4OVdkN1c2cUg4eGF4c0FQZVZPNVVWUFV0NEpBcXEwcnhXbUxtYnRsdE5NbW52MF9aalYtWmlEdFAzYlMwV3Nxcm1VNXhqTDRKLTIzdlY0TkZDekt6bTJTOVA1NXgxcTZka1pJLUc3Y1dV?oc=5>
+- **特朗普** | 特朗普过去24小时都忙了什么？（2026-07-12） <https://news.google.com/rss/articles/CBMinAFBVV95cUxNRTl6NXhjVU56RWxCenZsRGRGN2IwRC14NzJRaTNYRGpFUXc0RDJoRTBmMUxRcGNCXzFwNTBPcEVlNWNFbFFGVDlUYkdkb0M5ZUNXOEg0VWk5MHNqcTNLbkx2QUM1S09QdVNRWmNka0VZcTlRWVVRZk1Qd1hKR0F1cFdub2hxN1p1NTBzRFFjRHFJeVdlRk9TLVYzYWY?oc=5>
+- **特朗普** | 特朗普立下数千枚导弹“报复遗嘱”，万斯可以不听吗？ <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5FYzBub2VSZGp5Um5NTFZmanhwWVUxUFhrczEtZDctbXVTcFNoYXdhTzljQ1M0NjRUTHJBcUgwUF9DVnN2T2FCREV3a18?oc=5>
+- **特朗普** | 管用吗？特朗普担心遭暗杀立“报复遗嘱” <https://news.google.com/rss/articles/CBMifkFVX3lxTFBSakQ1VkVETzJnVmJGdTY4UTVQNnNQVkNTYnVjbVFFSFhqRnhkQlpudjg5Y0tFajBqQ25SSHphYmRHUkl6amdKQWhOaWdiblFNRFhraXN2Z1NXNUdCVC14UVdJbHJkaUVkUUpaeTdhck9HdHJsRDZOUThnX0t5UQ?oc=5>
+- **特朗普** | 特朗普宣布美伊停火“已经结束” 美方仍同意继续谈判 <https://news.google.com/rss/articles/CBMi6gJBVV95cUxQQlZWS0hQOEpVSnZGUDducUxJdVpHM1BhSVBoMlNsTk5SbGxhSzlzVWRIYWp1aFVYSklQVkJUMEdoX3BwTE5nNF9Rd1R3VTB5THN1anB2cWRKSUh1N3h1MURZNTJJS01WVGFNbGs1X3VFanFld1dGMVVZSl84TTItd05NRjRYV0hyV0UwNTNtTUlMa3pLQnlzYUY1a1hpSzBmb1g4VnExbjZMc1lwMXVycmlGSlc1YlJPQXZfcGtlNDV3OWdtTmhKMnJkWkN0dklYMkcwdTJUQXJlcHkzTURmVnNEUGNfNFdVZzJ6VzhuRGVCZVVNWGxpYURJWndPQ2d1Y3NPcDVNbWd2ZXhmdnlQbzFJdkdmalBXOWRXS0dKTHI1NFNFTWN3cS1SMzNRZmxJanNnS0ppa3JFWXo1emJJYjgzcnZpclRweUpkVzRFZmp1aHNQd1p1bS1lQjBIbTRvNUdacmlzT2VCdw?oc=5>
 
 ### 2026-07-12 09:25  (3 条)
 
