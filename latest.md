@@ -1,88 +1,51 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-12 17:54**
-- 本轮扫到 6630 条, 新增 **11** 条
+- 最近更新: **2026-07-12 18:56**
+- 本轮扫到 6634 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (11 条)
+## 本轮新发现 (4 条)
 
-### 蔡徐坤TheDeadman演唱会官方指定购票平台有哪些？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd848068020mt2.html>
-
-### 892万人蹲守！蔡徐坤TheDeadman演唱会门票如何抢？
+### 蔡徐坤2026演唱会官宣全新主题巡演重磅来袭
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd848068020msu.html>
+- 链接: <https://k.sina.com.cn/article_7880068235_1d5b04c8b019029my6.html>
 
-### 周杰伦为《功夫女足》创作的主题曲正式歌名是什么？
+### 蔡徐坤“AN EVENING WITH KUN”北美巡演官宣!四月洛杉矶到华盛顿,手速抢票攻略来啦!
 
-- 艺人/关键词: **周杰伦**
+- 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801i13k.html>
+- 链接: <https://k.sina.com.cn/article_7879923012_1d5ae154401903bezo.html>
 
-### 《功夫女足》主题曲中是否暗藏了《少林足球》的经典台词？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801i13i.html>
-
-### 周杰伦为《功夫女足》写主题曲，22年后再续星爷前缘
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801i13g.html>
-
-### 周杰伦会为功夫女足创作电影主题曲吗？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd848068020mvi.html>
-
-### 周杰伦为《功夫女足》献唱的主题曲叫什么？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd848068020mp6.html>
-
-### 周星驰的功夫女足预售刚开不到两天就轰下2676万票房，周杰伦亲自献唱主题曲，张柏芝太豪横
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923018_1d5ae154a01901eahq.html>
-
-### 特朗普发帖悼念
+### 特朗普过去24小时都忙了什么？（2026-07-12）
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-12 15:55
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE5DQU96MWowSjBuTUVJY3ZXa1pHaUJEeXJLUm5xRWRJbmR4Z3ZCYnhNcDcwOEszVnRhQkN3UGlXcFB0M2UwWWJMLUtBRl81bHY5YXJ6V0RSSlJyZllKaDVDZDJneGhaOUFWS2VHSjJjLTJvQlBGZ1E?oc=5>
+- 时间: 2026-07-12 18:45
+- 链接: <https://news.google.com/rss/articles/CBMixAJBVV95cUxNTlYzRzloVVE4aFJMd1V4WTN4aXVwOFFjQkpiMXY0aDdqZWU1eWpJaThxQ2RpVHYtckU0UmN4T3UwMmtaMmpkalJZVGV4ZWl4MUtVQThaR09OUGFHYnoxSUh2UVQwS2ZVbl93TTdLZXFMUDN0aWp2Z2FFUkgxekt5a2tvWnNBSlNUTDl1ZnkzbTgxUDAwdmZWU2lTa05wcVFoYlFoZ09jX0plbXlRWkxRS1JHb3cyWEJNRm5IRVpOckJIekZaOUZFd2pCbzE1cHI0UmhSdko4V0VtSEMwSkhRbzBLRmo4eWZKN0k3LUdROHpGQUNvOVp5YjZMck9RYXQ5cjhqU2FZSnBFMXJOUkZSdnhTU3BzdThBekt6bmU2NTZ0S29TWFFzMmE4TG1pZjZsMGFWRjVDcU1HeDMzLVplYmNSeVE?oc=5>
 
-### 美国联邦参议员格雷厄姆离世，特朗普总统、国会议员及世界领导人纷纷表示沉痛哀悼
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-07-12 17:40
-- 链接: <https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTDNCZk9HMTdoVXAzLVlFQllYZk5hNjNUaW85Rksyb2g3V0VHUVlZems0NFVuSVBkSDRlODlHb3cyZEVtSU1rdHlydjU0SnNjdVdEWkJuOERjOVRtTjFIVVk4Z3hTQ0lvak5tUTFXa0hfLVFiU3hyLTRmdXA5MzZkSnc4Y3hLTlgwNHh5MzAwY1hfUkhsVnRHeDFnUEFSZVZKT0N2LVhkOFZacjJDMEJ2Y1BiZDNqbVc1UHA1Yi16Wnd4dWgwN2hTYklKakF0OS0yU2F2S2RB0gHYAUFVX3lxTFBWQ0tiODVQS3VESlRQZFJjZmxEX1NsMC16TnpHazhsd2hfZkdmWExrcWhvVUV5M1ZWc0tHeTJuZFZibHBwWUt4eVRCbG9UVkhTY3FqZWFLUzhRT0w3aWEyQnQzOUxiSDVfazNpaWFOQjZZS0k4N20tNVg4elNhemt0ZFBIOThuUDA0Wi00X1JSUTR0bGJDdVp1VloxUS0wek5rbTV0OFBCX3d5U3NoYnliS1dfazhndENpZDY0d2VPY0NZc0d6WUpOZmhHcVFueDNjT2VLaFVFVQ?oc=5>
-
-### 美国观察｜特朗普访华前瞻：时隔9年首访将讨论啥？收获啥？
+### 特朗普发文悼念格雷厄姆参议员：（全美所有）国旗降半旗，哀悼持续至周六傍晚六点。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 复旦发展研究院
-- 时间: 2026-07-12 14:23
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JUjd5VjBfS1hmX1l3M0x5dl9hYThoekI5WkVtNDVuODZ1NjVnQW5XWk1zZjJjNDVqLTVqdGItd3dMUV9vRVIzNkdPWG84QklKZ3BZZDAyYk9zbG5VMnVnZHJuelg?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-07-12 16:57
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5FQTdGSXFjVm43Mzhjdmhiby1KeGpEY1l6dVIxMHMyT0x1LXRzT3B5TGlJbTU0alJMVTFwZnFYRk9IbDBzVFpBd1FyZExFc05qTHdZOUl6OEtLbkRLNzJHejNJV1ZOTzRLLWx2ZGU2cXoyNXdic2Y0NQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-12 18:56  (4 条)
+
+- **蔡徐坤** | 蔡徐坤2026演唱会官宣全新主题巡演重磅来袭 <https://k.sina.com.cn/article_7880068235_1d5b04c8b019029my6.html>
+- **蔡徐坤** | 蔡徐坤“AN EVENING WITH KUN”北美巡演官宣!四月洛杉矶到华盛顿,手速抢票攻略来啦! <https://k.sina.com.cn/article_7879923012_1d5ae154401903bezo.html>
+- **特朗普** | 特朗普过去24小时都忙了什么？（2026-07-12） <https://news.google.com/rss/articles/CBMixAJBVV95cUxNTlYzRzloVVE4aFJMd1V4WTN4aXVwOFFjQkpiMXY0aDdqZWU1eWpJaThxQ2RpVHYtckU0UmN4T3UwMmtaMmpkalJZVGV4ZWl4MUtVQThaR09OUGFHYnoxSUh2UVQwS2ZVbl93TTdLZXFMUDN0aWp2Z2FFUkgxekt5a2tvWnNBSlNUTDl1ZnkzbTgxUDAwdmZWU2lTa05wcVFoYlFoZ09jX0plbXlRWkxRS1JHb3cyWEJNRm5IRVpOckJIekZaOUZFd2pCbzE1cHI0UmhSdko4V0VtSEMwSkhRbzBLRmo4eWZKN0k3LUdROHpGQUNvOVp5YjZMck9RYXQ5cjhqU2FZSnBFMXJOUkZSdnhTU3BzdThBekt6bmU2NTZ0S29TWFFzMmE4TG1pZjZsMGFWRjVDcU1HeDMzLVplYmNSeVE?oc=5>
+- **特朗普** | 特朗普发文悼念格雷厄姆参议员：（全美所有）国旗降半旗，哀悼持续至周六傍晚六点。 <https://news.google.com/rss/articles/CBMieEFVX3lxTE5FQTdGSXFjVm43Mzhjdmhiby1KeGpEY1l6dVIxMHMyT0x1LXRzT3B5TGlJbTU0alJMVTFwZnFYRk9IbDBzVFpBd1FyZExFc05qTHdZOUl6OEtLbkRLNzJHejNJV1ZOTzRLLWx2ZGU2cXoyNXdic2Y0NQ?oc=5>
 
 ### 2026-07-12 17:54  (11 条)
 
