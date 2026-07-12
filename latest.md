@@ -1,56 +1,71 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-12 01:02**
-- 本轮扫到 6580 条, 新增 **5** 条
+- 最近更新: **2026-07-12 04:48**
+- 本轮扫到 6586 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (6 条)
 
-### 牛弹琴：伊朗发誓要复仇了
+### 周杰伦连续三年打卡温网是否在筹备网球新歌？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd848068020gq4.html>
+
+### 特朗普：已下令在伊朗企图行刺的情况下“毁灭”该国
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-12 00:37
-- 链接: <https://news.google.com/rss/articles/CBMiiwJBVV95cUxNN2ptSFY1cndCVjZpYnVGdEJyTURJYWZUV0x1My1sYWVSS2p4T3Z1YVdSX3lmWE1Jd3l4U1FYVVRtbk1FeUs3UGdTWnBrZ2duSno4M0JWaGdJWllfVzR5UEd5V3RKT3c5bVZrRTAtRHA3THNVdWtIWmdKZ3NFVktvM0ZxV1gxa2Z0WERqYnRDZXBtcG9mT0pjT29fYktwSjh4UVZUbUpuVUkxZDN5c1dLaFVsejc4ejVEWnFRNFRWTmxtZm0xQmZtNXQxWjJuY0gyRTVnSTRGUXR5MUhpWEJyOHZUTUNDbVFaTF9jV1dybjQ0SDBYRTlwR2plbEJ3TjRRdGp2dG94STFnUnc?oc=5>
+- 时间: 2026-07-11 04:04
+- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTFBZMGxwbml1UGRzNmllakd4YnBkcUIzLXBSM0k2bUZwOEttSmZFeG5DQzhPZVN2aUFWRGxrVDNGd2VuZk00MVpnQXZWb2FtcWhJWDZ3Y3RmbjRUSG40UVNOUlhvQkhmemxjRTUyV3ptYnkxQVpucldISE9B?oc=5>
 
-### 特朗普还是最担心：我们不卖芯片，中国就卖了
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-07-11 01:37
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBtX09temliT3lSWHAwbnF1dXdKU1ZYcTdUU3BtX0ZXdEpBMHJHLWlkdVl0WXpaQXZoQjY4SlZBeUcxM0NQSnJ2dDF2VXJsWFQ1c181c0duRWRXVFR0YzZDQXJrX0J5UlotRWc?oc=5>
-
-### 以色列预警暗杀威胁，特朗普被迫换乘旧款“空军一号”
+### 披露特朗普新专机安全缺陷的美国记者收到传票
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-07-11 01:09
-- 链接: <https://news.google.com/rss/articles/CBMizAJBVV95cUxQQ1Q0TU9mbUZkeTV0VS1zZEExWHdWMWxxQjRScjZoOUVjYXFDekw3UVhSX01RMnBpN1hmQ3RRVGhzT001V1ktbU44VXpZSDhfYVVZcEZ4ell3ZUVidU41dHhBY1RlQ1J6X1lZX25HdWdNTU1zR1N5a2tITkI2NFRYUU5MemxDXzVPcFdjdzJKakNCNDFFN0lHV3lYa2VjbGZfZGpfZWxxc0oweElmWEZWa1M3VGlUNjlWU3U0OWNqd01OVnBVQ210NEtYZTBPVWpQMmprR194ejBpTGpzUXZYaGZueWlHX3ZBazlrQU9vNE1IWU1TNjJWbUkyXzJUZl9ISmZnOHhoMFpHSWc1TFNNSUV0bGZ6dXdVNjVLVkFDcFMtNGZzYTQ1TUNIVmJoVmI3Um9PbzVRQ1l4cGtNbW5NeXpRaE10MXJlYXdCNQ?oc=5>
+- 场馆: 新华网
+- 时间: 2026-07-12 03:48
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1IZUh5OS1XYjVLQ0VnUXFDcEFESU9PdVRlSmVyZW5xZUNfQU5uX3ppU2dQRFRjc2ZXbDdQMjAxaTE4S3J3VE5nV09oa3RqdzZiVUxKbElRRDljZmZxSjB4MU9xWlNOUWFCdlYyZ2trMHNWVEZ6WmlZS2tUcjBsc2s?oc=5>
 
-### 特朗普：1000枚导弹已瞄准伊朗
+### 凯恩对阵挪威赛前回应特朗普言论：美国总统的球技“相当不错”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-07-11 03:46
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9mcTA0ZWFJZTVreWxfS0JocWxLdkpkOGdTeTRLX2UyY3FRam00Z0tXY1NEQzNoZ3JjLXIxYkZleHYzbFNPM3dKSklQMXFOSWdIZldfU0s0clFUUkFEelFQUQ?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-07-12 03:43
+- 链接: <https://news.google.com/rss/articles/CBMi6gFBVV95cUxNSGFZQlBVMF9YYjM3OC1acWZFdm9GbjdteVNhUXJ0aXlmQXh1WW1zbUZGY1pmcXd1ZmI1eWROa0lMRWdPMkR0MWZZQzFyNDBoc01FR0k4YWwzQy1vRHlHQlYwWnZDMUdsemZySDRZendPUVlNSTkxbDZNbnpGQ283VlR1aTZzRVJWLUFuS2xtNXVFLWkySGM1UXI5ai0xcFZ4RzFCaUt5d2oyUEFjb3J6MDNMYkJQQlJ4V2gtcXQybnd0X21kWHV1WTNfZ3Yxa2Q1TmMwM3Jha0VSVjNLeWlrTHI3TkVRMmlrekE?oc=5>
 
-### Trump最爱的几只军工股｜蓝血工厂
+### Trump: US is preparing for more strikes against Iran
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 星島頭條
-- 时间: 2026-07-11 23:00
-- 链接: <https://news.google.com/rss/articles/CBMi-wFBVV95cUxNTjBuNDM0NUFsWW51RWJIS0JEdWctZk44SHBCbzgwOXNLaGRIbXVlN0JMdm1tb20zMUdzQS16SDM2UHBOYVdqeGJuMHFmTU9HaGFiNmhmSzFtZ0ZsQzNSUTcwNDJ4RE52bWkyVWtlcDVfVkVCMkkwUkRJbGxmOGRoQzdwYUxvZDVvcTAwZ0QyRzIzVGoxRlJNN21oZ3dOYlNXREFqZ3lXZGpwOTBTS19NbE9Mc3ZldDdXMnFqVlJPckNyeUx3THNjaFFVUnpQcXhVZG9TVGpXT0pKTVp1ajJpakxjRWVUZmY5Wmx2VGdsOTluaHk1YjNLTm9yNA?oc=5>
+- 场馆: TDM
+- 时间: 2026-07-09 15:09
+- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxNMlVoUlI3em1kRmI4SWZHcnI0ZlJaazh4TmhmcXY3Zl9Xc3BOdzhwTUJNdVNBTFlfWmtFZjFPWTEzNV9UOE5CcG9kUDFMS3ItcjlmLW5QQzhvT1FBeFpPUmpXaUo4QWNxMEd6aFVpWTJuMXNvTm5Vd19vZ1F3WG5yY0k3NUlGeDdwcW15VEZsTzQ0X3lNX3BJbg?oc=5>
+
+### TRUMP再次持有土耳其股票！
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-07-08 08:28
+- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxORmxRTlo3NXNIZXAybEZ2UWk5azlNLVdITGZRQkxSc1VpZ2RxdlVXcHNWSWU2ZGxjV3FEMUNxcExVdk5QQllFanRDYVU4cC1Gd0RnTktLeGVCZUt1WlhSTjRPSGdpNEFIaWs2VFV1amlyb2VsN2lWNDB5TDAySG04bnMzeU45RGo2WVRz?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-12 04:48  (6 条)
+
+- **周杰伦** | 周杰伦连续三年打卡温网是否在筹备网球新歌？ <https://k.sina.com.cn/article_7879776328_1d5abd848068020gq4.html>
+- **特朗普** | 特朗普：已下令在伊朗企图行刺的情况下“毁灭”该国 <https://news.google.com/rss/articles/CBMiekFVX3lxTFBZMGxwbml1UGRzNmllakd4YnBkcUIzLXBSM0k2bUZwOEttSmZFeG5DQzhPZVN2aUFWRGxrVDNGd2VuZk00MVpnQXZWb2FtcWhJWDZ3Y3RmbjRUSG40UVNOUlhvQkhmemxjRTUyV3ptYnkxQVpucldISE9B?oc=5>
+- **特朗普** | 披露特朗普新专机安全缺陷的美国记者收到传票 <https://news.google.com/rss/articles/CBMif0FVX3lxTE1IZUh5OS1XYjVLQ0VnUXFDcEFESU9PdVRlSmVyZW5xZUNfQU5uX3ppU2dQRFRjc2ZXbDdQMjAxaTE4S3J3VE5nV09oa3RqdzZiVUxKbElRRDljZmZxSjB4MU9xWlNOUWFCdlYyZ2trMHNWVEZ6WmlZS2tUcjBsc2s?oc=5>
+- **特朗普** | 凯恩对阵挪威赛前回应特朗普言论：美国总统的球技“相当不错” <https://news.google.com/rss/articles/CBMi6gFBVV95cUxNSGFZQlBVMF9YYjM3OC1acWZFdm9GbjdteVNhUXJ0aXlmQXh1WW1zbUZGY1pmcXd1ZmI1eWROa0lMRWdPMkR0MWZZQzFyNDBoc01FR0k4YWwzQy1vRHlHQlYwWnZDMUdsemZySDRZendPUVlNSTkxbDZNbnpGQ283VlR1aTZzRVJWLUFuS2xtNXVFLWkySGM1UXI5ai0xcFZ4RzFCaUt5d2oyUEFjb3J6MDNMYkJQQlJ4V2gtcXQybnd0X21kWHV1WTNfZ3Yxa2Q1TmMwM3Jha0VSVjNLeWlrTHI3TkVRMmlrekE?oc=5>
+- **Trump** | Trump: US is preparing for more strikes against Iran <https://news.google.com/rss/articles/CBMimAFBVV95cUxNMlVoUlI3em1kRmI4SWZHcnI0ZlJaazh4TmhmcXY3Zl9Xc3BOdzhwTUJNdVNBTFlfWmtFZjFPWTEzNV9UOE5CcG9kUDFMS3ItcjlmLW5QQzhvT1FBeFpPUmpXaUo4QWNxMEd6aFVpWTJuMXNvTm5Vd19vZ1F3WG5yY0k3NUlGeDdwcW15VEZsTzQ0X3lNX3BJbg?oc=5>
+- **Trump** | TRUMP再次持有土耳其股票！ <https://news.google.com/rss/articles/CBMiiwFBVV95cUxORmxRTlo3NXNIZXAybEZ2UWk5azlNLVdITGZRQkxSc1VpZ2RxdlVXcHNWSWU2ZGxjV3FEMUNxcExVdk5QQllFanRDYVU4cC1Gd0RnTktLeGVCZUt1WlhSTjRPSGdpNEFIaWs2VFV1amlyb2VsN2lWNDB5TDAySG04bnMzeU45RGo2WVRz?oc=5>
 
 ### 2026-07-12 01:02  (5 条)
 
