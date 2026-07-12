@@ -1,52 +1,72 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-12 21:14**
-- 本轮扫到 6644 条, 新增 **5** 条
+- 最近更新: **2026-07-12 22:12**
+- 本轮扫到 6651 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (7 条)
 
-### 周杰伦为周星驰电影《功夫女足》创作的主题曲叫什么名字？
+### 蔡徐坤是否会为巡演发布全新专辑或单曲
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd848068020oga.html>
+
+### 蔡徐坤巡演是否计划在海外或港澳举办
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd848068020oge.html>
+
+### 蔡徐坤THE DEADMAN演唱会首批城市有哪些
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd848068020og4.html>
+
+### 《功夫女足》主题曲的歌词是什么？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd848068020o0k.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd848068020ok4.html>
 
-### 周星驰电影《少林足球》的主题曲是谁演唱的？
+### 王俊凯连唱6首新歌，全程自任制作人惊艳乐坛
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd848068020nzs.html>
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801i1ai.html>
 
-### “要么听话，否则把你们炸掉”：特朗普对阿曼下最后通牒，霍尔木兹海峡陷收费之争
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-10 07:08
-- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxOanNqNlpoeHZqNy1paEd5Um9LY2t1MDJ1NjRQa3RzS3JmMFl2TG1rQVF2RmkxQWU3SkdjdkpRT0p2Tng5YzU2ZmNtc2pBZFBXSTc1aTUxOFd0enBMamRnSjd3RDdNYmI4dml1aHk3ZU1KcXJMQjJ5VXhCTmdvNHVjUEVPMkZpaHlh?oc=5>
-
-### 特朗普担心遭伊朗暗杀，罕见立下“遗嘱”
+### 又晒测试又秀体检，80岁特朗普回击质疑，但腿部肿胀成焦点
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-12 20:07
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5WbHdReUQ3TDIzMkxOczhFd1lGYmVOaFlTaGxoeHRpMW5mSlY1b1VleWNjUGpMX2FFLTQ3dElxMTVSenltTFg3YUxBXzFWdk1uaVkzOEdFNFphejEwUXQyaC16cnpueXZmbHEtTFRkeHJEQXM2U0Q5Rw?oc=5>
+- 场馆: 网易
+- 时间: 2026-07-12 20:29
+- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE81Y2wweG5XNDREdGRQLXJsejNJc2JtbFVHN21RaVJpUHFRVFFTMkw1eXF3WEVrWmJUMkVDRlUxZ0JnTzFqclVGclNoQTVKUkVSckdRLS1hZG8yemhJSHZldVB3?oc=5>
 
-### 特朗普称美军“猛烈打击”伊朗 霍尔木兹海峡“仍然开放”
+### Trump: US is preparing for more strikes against Iran
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 中国网新闻中心
-- 时间: 2026-07-12 16:05
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTFBaUFJ5OEpUcm1MMERmTnFZNTVPWTZNMlVvR3ppNWJjbmZBSWw0el9aQWhfTzg0LTljcnc3WVZHdk9WLUMwNy1IeE10NTZKbmVZWGQ1WkdsQkE1VXVrSVJTYXhXZURidExCdGJZ?oc=5>
+- 场馆: TDM
+- 时间: 2026-07-08 13:27
+- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxNd2dqMExFeWJjcG5PSDQxVEllcDRnVmdfT2RSeWlYaF9tWEFzbHpSc0JhbFkyMnljQlM5emt2V2Uxd2FMQ2h0X3ZFYUVlOXQ5S0M1TGs4TmNEQjF6eGxRa2NrYTZXb2hiWUNvakszZ2o4Nm55RkRhN1dZSWQzNDlndUFMdTRQRjBQaGdzLXlMRjZ6YUR5eVZkSQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-12 22:12  (7 条)
+
+- **蔡徐坤** | 蔡徐坤是否会为巡演发布全新专辑或单曲 <https://k.sina.com.cn/article_7879776328_1d5abd848068020oga.html>
+- **蔡徐坤** | 蔡徐坤巡演是否计划在海外或港澳举办 <https://k.sina.com.cn/article_7879776328_1d5abd848068020oge.html>
+- **蔡徐坤** | 蔡徐坤THE DEADMAN演唱会首批城市有哪些 <https://k.sina.com.cn/article_7879776328_1d5abd848068020og4.html>
+- **周杰伦** | 《功夫女足》主题曲的歌词是什么？ <https://k.sina.com.cn/article_7879776328_1d5abd848068020ok4.html>
+- **周杰伦** | 王俊凯连唱6首新歌，全程自任制作人惊艳乐坛 <https://k.sina.com.cn/article_7879923021_1d5ae154d06801i1ai.html>
+- **特朗普** | 又晒测试又秀体检，80岁特朗普回击质疑，但腿部肿胀成焦点 <https://news.google.com/rss/articles/CBMiYkFVX3lxTE81Y2wweG5XNDREdGRQLXJsejNJc2JtbFVHN21RaVJpUHFRVFFTMkw1eXF3WEVrWmJUMkVDRlUxZ0JnTzFqclVGclNoQTVKUkVSckdRLS1hZG8yemhJSHZldVB3?oc=5>
+- **Trump** | Trump: US is preparing for more strikes against Iran <https://news.google.com/rss/articles/CBMimAFBVV95cUxNd2dqMExFeWJjcG5PSDQxVEllcDRnVmdfT2RSeWlYaF9tWEFzbHpSc0JhbFkyMnljQlM5emt2V2Uxd2FMQ2h0X3ZFYUVlOXQ5S0M1TGs4TmNEQjF6eGxRa2NrYTZXb2hiWUNvakszZ2o4Nm55RkRhN1dZSWQzNDlndUFMdTRQRjBQaGdzLXlMRjZ6YUR5eVZkSQ?oc=5>
 
 ### 2026-07-12 21:14  (5 条)
 
