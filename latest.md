@@ -1,70 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-12 07:25**
-- 本轮扫到 6593 条, 新增 **7** 条
+- 最近更新: **2026-07-12 09:25**
+- 本轮扫到 6596 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (3 条)
 
-### 周杰伦哭了 周杰伦福州演唱会 微博VC计划微博VC计划
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301d2ym.html>
-
-### 委代总统成傀儡？“采访要特朗普批，发文要鲁比奥审”
+### 披露特朗普新专机安全缺陷的美国记者收到传票--国际
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-07-12 06:18
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBTNHMtdmZTUFNqUElPQThtZ2ZHSXBwd05OVzlaaDNYSEt6RXdNejY4VElaWjktMjdBWGpWTmpOZHpNOWhDR3htV0lPcDUyOTZaTldlTEtaSDFVR2RZVjRJVHVhOFAxNjdvdkE?oc=5>
-
-### 委内瑞拉代总统是美国政府的傀儡吗 特朗普操控下的委政局
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-07-12 07:01
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9JVWZZMjZRaGhpd1NiSjhVSDhBMjdNNVNKTnNTUjBiYVN5dTBqa3A0U1IzQXFqa0dwLWR0eURXUFVEbzB1QVA4TXpGNjE3RlZyVEZNSnF1NzRRbDBDR0dNT2IzaU01UWZpNDNrVndldkM?oc=5>
-
-### 委内瑞拉代总统是美国傀儡吗 罗德里格斯需特朗普批准行动
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
+- 场馆: 人民网
 - 时间: 2026-07-12 07:17
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE40cTlIRUFILXlpNDhQRlBVdFk0dzI3aGgtbktycVMyX1hLZzFxSXJMZURZa3NBUGdXWTlFcmkwNkVEdTFITDY2YVpuQ2g1NnNpWU5KS0pjQWVzX1FSZXM5M2RDbml2Z3E2cmhLNTFUNU4?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMibEFVX3lxTE8zRnRZMDJXUDM1ZjZuclktN1lCVWFjN0hrWHJvcnAxbWxCQjRrdm5oYnZSX3hneDlJVkJaNm94VGVCYWVOSWFCdXNpYkVrd0xNcDMxREo3dElzT0Raa0l5X1pZRllvaDRNQ0NyUw?oc=5>
 
-### 披露特朗普新专机安全缺陷的美国记者收到传票
+### 特朗普最忠实的盟友之一、共和党重量级参议员格雷厄姆突发疾病去世
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中国经济网
-- 时间: 2026-07-12 05:44
-- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTE9pWnEzYTZZLUV1TzlPaS1tZmplTVNRcl9heE80VzVpcGh5cXVva0Q3YUFNMGU0dVVhR1B2X0ZESVFBcEZoRXB1VmFmTXVHMExkdlhNcER2NzVRYV9hMEVaVTAtSQ?oc=5>
+- 场馆: DW.com
+- 时间: 2026-07-12 08:11
+- 链接: <https://news.google.com/rss/articles/CBMisANBVV95cUxPUnZMTFhxZks2WFZ6MFEwc0ZQRmlDU1JBTXhSX2Rtd2RDNVVNVzcwM2twNWFuU1RDSVowdjUwQjZ1aTFMWFZsWGUyUER0ZWZFaVNZcEFHcjh1ZmZFckMwNzZIcWFqYkpTQ3pkNlcwaGFGeThpSjNWSTgtM1JQb012cEVjWHo5cXFaRllTalNRYm1xa2lnUTJZM29QcnhiX1ZpZUdncXZ5eHQtY183WE1MclF6M2JsUDVrYnRsUFd1UlZwM1Vyb3NxYzM3ajN0ckN5Umd0ZTlTcU5idTY5Z1U3eDlzVHBIN3J3QlBfTzhkLW5YcElnNnFueXVpcUVRQkVpcG1zWFpMQTI4cGxRdW5zcG5xMUZJbjBEbmFyZVdPckdLdExtYUxVamZGZlF4d09NcWQ4ZmFBYWQ2LUkwZGpRWTZzUmliVVotYVJWYVRoMC1ob0ZRSUd1Zlc5OF9OVHB3TTUzUGhTX3JwSVY2dzlXQnZSTWVuMm94ZHV2ejgyZUJ0TUFnVTJiMk1fZmJpZFFSeGNMa1B0OHJIbTBlUHVNamlMcTAyRkhWN1d6T08yOXnSAbADQVVfeXFMT3JMV3RZelRBSF9BYXBDdU10dlQ1WnJyOURJTVRVRjB0VHZRQTVqOVFSV3NjLThGMkJpMHdvdzB0ZEtxSG93RXJRX19JZU15QzNXMFIyZXhnTEFMNmdxYkRHdi1XLVhDbjhSV2ZnZmQzR0dhWFY5d1FmcHE1eHd0MWhzTThTQnJiZTZjS3ByVl85TXlsT0RLYzNoelgzaWlReVRnMDltaUV0bTJmcU9OdE9DRnQyNDJELUNBM2d3WktSdFNUMWhGUy16VHloV2diV3M5NVV1bF94cXRNS25WUExSRUYydGlEekdpbWNUX05ZcXRLWmdyZlFBN0ZyRFl6TGJFZ0N4N01qT1QxTVpaMmxfUmU2ZEFyMUNnTzRHYUxEYTAxNHk1OURpamxINmhlSFZiUnpYQl9kVkFWTEFNbkF1S0l6T3dDUGNaOGxQLUNtQWpTLXlZb25Rc05aNzJzbnIwdVRINXltS1h1MENNUnFLdmQ1TTl5dkEzV2hSSXpLbGpITlp3aDVxTkNCYmM2MXFBdGphTGs5MmNla1VERFpSaEVQcFUtSmY0T1FVRUkz?oc=5>
 
 ### 凯恩对阵挪威赛前回应特朗普言论：美国总统的球技“相当不错”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-07-12 07:19
-- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxOLVdHVTZWYkdGTDFLRkMtbHUxRUwyblJNajl1STNqemF3OE1Bb1picEh2U1ZzVGxwVGFmM0F2RVUySzlwTlkyTGgwTFhPdGNGNnlYRTliTEY2Z29IbU5QR01xYkNxWkFfdFJxdTdkTDNNck84WmVONUlBRG9jbWo3YVN5akxIcEtzT09lMHpLYl94ZmRNaDVPNkxnTi1xYkJTV0ZJdmMxTmsyTTQzdFNwaDgwQ3VZajFnVS1jZThjMkZkRXJ3LU9zWTRYamJGV3JQQmJoWTBObHZod0NRZlE?oc=5>
-
-### 伊朗最高领袖誓言“复仇” 特朗普：1000枚导弹 已瞄准伊朗
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 每日经济新闻
-- 时间: 2026-07-12 01:53
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9xdEs1aEdPUDlPYnNLUVJ3T3lPQXA1bHNWWFFqUktXem12S0ZXblE1aUYtOU81MGNlY1pzQmNFTllDdDNFTHptalBMZFV0bEVVWEVRUXFoNUE1NkMzQnVLN3Q4UnNjUQ?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-07-12 06:56
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTFBkR1M0cmh1aHZOVDZNX2ZzNmh0bENremVKN284ZVRScFgwNVl4UkNHcEdVN1p4a1QwTmZwWExycDZkdmpXUzV1RVdFblRkWUVOS2ZsMjRTZWZld0F0UWMzQXkyWjBUN0xTbFNUTC04OGFjR2d3dnc?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-12 09:25  (3 条)
+
+- **特朗普** | 披露特朗普新专机安全缺陷的美国记者收到传票--国际 <https://news.google.com/rss/articles/CBMibEFVX3lxTE8zRnRZMDJXUDM1ZjZuclktN1lCVWFjN0hrWHJvcnAxbWxCQjRrdm5oYnZSX3hneDlJVkJaNm94VGVCYWVOSWFCdXNpYkVrd0xNcDMxREo3dElzT0Raa0l5X1pZRllvaDRNQ0NyUw?oc=5>
+- **特朗普** | 特朗普最忠实的盟友之一、共和党重量级参议员格雷厄姆突发疾病去世 <https://news.google.com/rss/articles/CBMisANBVV95cUxPUnZMTFhxZks2WFZ6MFEwc0ZQRmlDU1JBTXhSX2Rtd2RDNVVNVzcwM2twNWFuU1RDSVowdjUwQjZ1aTFMWFZsWGUyUER0ZWZFaVNZcEFHcjh1ZmZFckMwNzZIcWFqYkpTQ3pkNlcwaGFGeThpSjNWSTgtM1JQb012cEVjWHo5cXFaRllTalNRYm1xa2lnUTJZM29QcnhiX1ZpZUdncXZ5eHQtY183WE1MclF6M2JsUDVrYnRsUFd1UlZwM1Vyb3NxYzM3ajN0ckN5Umd0ZTlTcU5idTY5Z1U3eDlzVHBIN3J3QlBfTzhkLW5YcElnNnFueXVpcUVRQkVpcG1zWFpMQTI4cGxRdW5zcG5xMUZJbjBEbmFyZVdPckdLdExtYUxVamZGZlF4d09NcWQ4ZmFBYWQ2LUkwZGpRWTZzUmliVVotYVJWYVRoMC1ob0ZRSUd1Zlc5OF9OVHB3TTUzUGhTX3JwSVY2dzlXQnZSTWVuMm94ZHV2ejgyZUJ0TUFnVTJiMk1fZmJpZFFSeGNMa1B0OHJIbTBlUHVNamlMcTAyRkhWN1d6T08yOXnSAbADQVVfeXFMT3JMV3RZelRBSF9BYXBDdU10dlQ1WnJyOURJTVRVRjB0VHZRQTVqOVFSV3NjLThGMkJpMHdvdzB0ZEtxSG93RXJRX19JZU15QzNXMFIyZXhnTEFMNmdxYkRHdi1XLVhDbjhSV2ZnZmQzR0dhWFY5d1FmcHE1eHd0MWhzTThTQnJiZTZjS3ByVl85TXlsT0RLYzNoelgzaWlReVRnMDltaUV0bTJmcU9OdE9DRnQyNDJELUNBM2d3WktSdFNUMWhGUy16VHloV2diV3M5NVV1bF94cXRNS25WUExSRUYydGlEekdpbWNUX05ZcXRLWmdyZlFBN0ZyRFl6TGJFZ0N4N01qT1QxTVpaMmxfUmU2ZEFyMUNnTzRHYUxEYTAxNHk1OURpamxINmhlSFZiUnpYQl9kVkFWTEFNbkF1S0l6T3dDUGNaOGxQLUNtQWpTLXlZb25Rc05aNzJzbnIwdVRINXltS1h1MENNUnFLdmQ1TTl5dkEzV2hSSXpLbGpITlp3aDVxTkNCYmM2MXFBdGphTGs5MmNla1VERFpSaEVQcFUtSmY0T1FVRUkz?oc=5>
+- **特朗普** | 凯恩对阵挪威赛前回应特朗普言论：美国总统的球技“相当不错” <https://news.google.com/rss/articles/CBMidkFVX3lxTFBkR1M0cmh1aHZOVDZNX2ZzNmh0bENremVKN284ZVRScFgwNVl4UkNHcEdVN1p4a1QwTmZwWExycDZkdmpXUzV1RVdFblRkWUVOS2ZsMjRTZWZld0F0UWMzQXkyWjBUN0xTbFNUTC04OGFjR2d3dnc?oc=5>
 
 ### 2026-07-12 07:25  (7 条)
 
