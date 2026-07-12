@@ -1,24 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-11 23:23**
-- 本轮扫到 6575 条, 新增 **1** 条
+- 最近更新: **2026-07-12 01:02**
+- 本轮扫到 6580 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮新发现 (5 条)
 
-### 白宫证实特朗普已“清空”美选举援助委员会
+### 牛弹琴：伊朗发誓要复仇了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 央广网
-- 时间: 2026-07-11 05:58
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0NWJRZzNzRC1ySlQ4b3d6VW92UllGaXhWSUY0VTl0TGxKSEEtRk5OMm9ZQWd4VGkwbFZ2b1hHUldXRFhKUjFhSUtCam96SW9CYkt0T0MyX3BKYXVDZEVVWGptNTU5S0t4?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-07-12 00:37
+- 链接: <https://news.google.com/rss/articles/CBMiiwJBVV95cUxNN2ptSFY1cndCVjZpYnVGdEJyTURJYWZUV0x1My1sYWVSS2p4T3Z1YVdSX3lmWE1Jd3l4U1FYVVRtbk1FeUs3UGdTWnBrZ2duSno4M0JWaGdJWllfVzR5UEd5V3RKT3c5bVZrRTAtRHA3THNVdWtIWmdKZ3NFVktvM0ZxV1gxa2Z0WERqYnRDZXBtcG9mT0pjT29fYktwSjh4UVZUbUpuVUkxZDN5c1dLaFVsejc4ejVEWnFRNFRWTmxtZm0xQmZtNXQxWjJuY0gyRTVnSTRGUXR5MUhpWEJyOHZUTUNDbVFaTF9jV1dybjQ0SDBYRTlwR2plbEJ3TjRRdGp2dG94STFnUnc?oc=5>
+
+### 特朗普还是最担心：我们不卖芯片，中国就卖了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-07-11 01:37
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBtX09temliT3lSWHAwbnF1dXdKU1ZYcTdUU3BtX0ZXdEpBMHJHLWlkdVl0WXpaQXZoQjY4SlZBeUcxM0NQSnJ2dDF2VXJsWFQ1c181c0duRWRXVFR0YzZDQXJrX0J5UlotRWc?oc=5>
+
+### 以色列预警暗杀威胁，特朗普被迫换乘旧款“空军一号”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-07-11 01:09
+- 链接: <https://news.google.com/rss/articles/CBMizAJBVV95cUxQQ1Q0TU9mbUZkeTV0VS1zZEExWHdWMWxxQjRScjZoOUVjYXFDekw3UVhSX01RMnBpN1hmQ3RRVGhzT001V1ktbU44VXpZSDhfYVVZcEZ4ell3ZUVidU41dHhBY1RlQ1J6X1lZX25HdWdNTU1zR1N5a2tITkI2NFRYUU5MemxDXzVPcFdjdzJKakNCNDFFN0lHV3lYa2VjbGZfZGpfZWxxc0oweElmWEZWa1M3VGlUNjlWU3U0OWNqd01OVnBVQ210NEtYZTBPVWpQMmprR194ejBpTGpzUXZYaGZueWlHX3ZBazlrQU9vNE1IWU1TNjJWbUkyXzJUZl9ISmZnOHhoMFpHSWc1TFNNSUV0bGZ6dXdVNjVLVkFDcFMtNGZzYTQ1TUNIVmJoVmI3Um9PbzVRQ1l4cGtNbW5NeXpRaE10MXJlYXdCNQ?oc=5>
+
+### 特朗普：1000枚导弹已瞄准伊朗
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-07-11 03:46
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9mcTA0ZWFJZTVreWxfS0JocWxLdkpkOGdTeTRLX2UyY3FRam00Z0tXY1NEQzNoZ3JjLXIxYkZleHYzbFNPM3dKSklQMXFOSWdIZldfU0s0clFUUkFEelFQUQ?oc=5>
+
+### Trump最爱的几只军工股｜蓝血工厂
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 星島頭條
+- 时间: 2026-07-11 23:00
+- 链接: <https://news.google.com/rss/articles/CBMi-wFBVV95cUxNTjBuNDM0NUFsWW51RWJIS0JEdWctZk44SHBCbzgwOXNLaGRIbXVlN0JMdm1tb20zMUdzQS16SDM2UHBOYVdqeGJuMHFmTU9HaGFiNmhmSzFtZ0ZsQzNSUTcwNDJ4RE52bWkyVWtlcDVfVkVCMkkwUkRJbGxmOGRoQzdwYUxvZDVvcTAwZ0QyRzIzVGoxRlJNN21oZ3dOYlNXREFqZ3lXZGpwOTBTS19NbE9Mc3ZldDdXMnFqVlJPckNyeUx3THNjaFFVUnpQcXhVZG9TVGpXT0pKTVp1ajJpakxjRWVUZmY5Wmx2VGdsOTluaHk1YjNLTm9yNA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-12 01:02  (5 条)
+
+- **特朗普** | 牛弹琴：伊朗发誓要复仇了 <https://news.google.com/rss/articles/CBMiiwJBVV95cUxNN2ptSFY1cndCVjZpYnVGdEJyTURJYWZUV0x1My1sYWVSS2p4T3Z1YVdSX3lmWE1Jd3l4U1FYVVRtbk1FeUs3UGdTWnBrZ2duSno4M0JWaGdJWllfVzR5UEd5V3RKT3c5bVZrRTAtRHA3THNVdWtIWmdKZ3NFVktvM0ZxV1gxa2Z0WERqYnRDZXBtcG9mT0pjT29fYktwSjh4UVZUbUpuVUkxZDN5c1dLaFVsejc4ejVEWnFRNFRWTmxtZm0xQmZtNXQxWjJuY0gyRTVnSTRGUXR5MUhpWEJyOHZUTUNDbVFaTF9jV1dybjQ0SDBYRTlwR2plbEJ3TjRRdGp2dG94STFnUnc?oc=5>
+- **特朗普** | 特朗普还是最担心：我们不卖芯片，中国就卖了 <https://news.google.com/rss/articles/CBMiakFVX3lxTFBtX09temliT3lSWHAwbnF1dXdKU1ZYcTdUU3BtX0ZXdEpBMHJHLWlkdVl0WXpaQXZoQjY4SlZBeUcxM0NQSnJ2dDF2VXJsWFQ1c181c0duRWRXVFR0YzZDQXJrX0J5UlotRWc?oc=5>
+- **特朗普** | 以色列预警暗杀威胁，特朗普被迫换乘旧款“空军一号” <https://news.google.com/rss/articles/CBMizAJBVV95cUxQQ1Q0TU9mbUZkeTV0VS1zZEExWHdWMWxxQjRScjZoOUVjYXFDekw3UVhSX01RMnBpN1hmQ3RRVGhzT001V1ktbU44VXpZSDhfYVVZcEZ4ell3ZUVidU41dHhBY1RlQ1J6X1lZX25HdWdNTU1zR1N5a2tITkI2NFRYUU5MemxDXzVPcFdjdzJKakNCNDFFN0lHV3lYa2VjbGZfZGpfZWxxc0oweElmWEZWa1M3VGlUNjlWU3U0OWNqd01OVnBVQ210NEtYZTBPVWpQMmprR194ejBpTGpzUXZYaGZueWlHX3ZBazlrQU9vNE1IWU1TNjJWbUkyXzJUZl9ISmZnOHhoMFpHSWc1TFNNSUV0bGZ6dXdVNjVLVkFDcFMtNGZzYTQ1TUNIVmJoVmI3Um9PbzVRQ1l4cGtNbW5NeXpRaE10MXJlYXdCNQ?oc=5>
+- **特朗普** | 特朗普：1000枚导弹已瞄准伊朗 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9mcTA0ZWFJZTVreWxfS0JocWxLdkpkOGdTeTRLX2UyY3FRam00Z0tXY1NEQzNoZ3JjLXIxYkZleHYzbFNPM3dKSklQMXFOSWdIZldfU0s0clFUUkFEelFQUQ?oc=5>
+- **Trump** | Trump最爱的几只军工股｜蓝血工厂 <https://news.google.com/rss/articles/CBMi-wFBVV95cUxNTjBuNDM0NUFsWW51RWJIS0JEdWctZk44SHBCbzgwOXNLaGRIbXVlN0JMdm1tb20zMUdzQS16SDM2UHBOYVdqeGJuMHFmTU9HaGFiNmhmSzFtZ0ZsQzNSUTcwNDJ4RE52bWkyVWtlcDVfVkVCMkkwUkRJbGxmOGRoQzdwYUxvZDVvcTAwZ0QyRzIzVGoxRlJNN21oZ3dOYlNXREFqZ3lXZGpwOTBTS19NbE9Mc3ZldDdXMnFqVlJPckNyeUx3THNjaFFVUnpQcXhVZG9TVGpXT0pKTVp1ajJpakxjRWVUZmY5Wmx2VGdsOTluaHk1YjNLTm9yNA?oc=5>
 
 ### 2026-07-11 23:23  (1 条)
 
