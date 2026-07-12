@@ -1,62 +1,78 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-12 22:12**
-- 本轮扫到 6651 条, 新增 **7** 条
+- 最近更新: **2026-07-12 23:23**
+- 本轮扫到 6658 条, 新增 **7** 条
 
 ---
 
 ## 本轮新发现 (7 条)
 
-### 蔡徐坤是否会为巡演发布全新专辑或单曲
+### 蔡徐坤「THE DEADMAN」演唱会的嘉宾都有谁？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd848068020oga.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd848068020ove.html>
 
-### 蔡徐坤巡演是否计划在海外或港澳举办
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd848068020oge.html>
-
-### 蔡徐坤THE DEADMAN演唱会首批城市有哪些
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd848068020og4.html>
-
-### 《功夫女足》主题曲的歌词是什么？
+### 王俊凯在周杰伦演唱会上还唱过哪些歌？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd848068020ok4.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd848068020oyy.html>
 
-### 王俊凯连唱6首新歌，全程自任制作人惊艳乐坛
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801i1ai.html>
-
-### 又晒测试又秀体检，80岁特朗普回击质疑，但腿部肿胀成焦点
+### 特朗普：1000枚导弹已瞄准伊朗
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 网易
-- 时间: 2026-07-12 20:29
-- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE81Y2wweG5XNDREdGRQLXJsejNJc2JtbFVHN21RaVJpUHFRVFFTMkw1eXF3WEVrWmJUMkVDRlUxZ0JnTzFqclVGclNoQTVKUkVSckdRLS1hZG8yemhJSHZldVB3?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-07-11 07:09
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBRSUlnVm15ZFhyd1BCUzVUTXZGeGRaaGxyNUZrY1o5MVEzLXkwaGNPTjRwSzVwaENtcUZYSTE1cGhsMTFmNE5nSHh0OA?oc=5>
 
-### Trump: US is preparing for more strikes against Iran
+### 【环球财经】特朗普坚称霍尔木兹海峡“是畅通的”
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: TDM
-- 时间: 2026-07-08 13:27
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxNd2dqMExFeWJjcG5PSDQxVEllcDRnVmdfT2RSeWlYaF9tWEFzbHpSc0JhbFkyMnljQlM5emt2V2Uxd2FMQ2h0X3ZFYUVlOXQ5S0M1TGs4TmNEQjF6eGxRa2NrYTZXb2hiWUNvakszZ2o4Nm55RkRhN1dZSWQzNDlndUFMdTRQRjBQaGdzLXlMRjZ6YUR5eVZkSQ?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-07-12 22:11
+- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxONVV5NGdxQjBKVmhCa2xQSlJNbkxxdmxDMDFxYS05OU1oRVR4X0c1WlZxX1BQWVMxX3lTQ001TmlvUEhDWXFKTU5wb0ktUGxXVnZxbmt4WERBWDh1MFQ4U0ZheXRuVHhQUHEtbzZVZ3Z1NkZYc1FYOEtpN0Z4VWFQZA?oc=5>
+
+### 重要盟友格雷厄姆突然去世，特朗普急发声
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-07-12 12:33
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE1vT1FBZlh2cEVpMDBfRjl5ZVduWUd3bmhJeFdWTGxYS1otS3hTd0toNlIxSnlDVlFSUFFCZTNXTldjWFRBV1lrVXY5UDh1SXdwNi1WazBBc2lOWS0wRnVLZFJGdWQwX3NPcTFxTV91UlMtcENm?oc=5>
+
+### 特朗普盟友格雷厄姆猝死 曾鼓吹对伊朗开战
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新京报
+- 时间: 2026-07-12 12:43
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFB6NlpDM1laVmQyY0NFMlh2MlhDdjJpUUtFUl9ac2ZVNklIT1UtMTNyT0ZjalBwaGJSS056Q0pfc19acUZfMkZaLUdjamZJN0RoNzU5VVRVY2RaTGdPX3hjN2hKQU4?oc=5>
+
+### 特朗普曾扬言封锁 美加大桥7月27日通车
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-07-11 13:54
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBIOWI2MFlmLTVkVzFZM2VVOG14TG5EQUxVbzVTSnl6ZjZJb3VPY3VIQ0FWOXJqOFdQdUF6c1NkRlltYWNKeTRHa09NcFJMSUFXeVdGNVBNZm11bkthbzUtc0hCRWdfZw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-12 23:23  (7 条)
+
+- **蔡徐坤** | 蔡徐坤「THE DEADMAN」演唱会的嘉宾都有谁？ <https://k.sina.com.cn/article_7879776328_1d5abd848068020ove.html>
+- **周杰伦** | 王俊凯在周杰伦演唱会上还唱过哪些歌？ <https://k.sina.com.cn/article_7879776328_1d5abd848068020oyy.html>
+- **特朗普** | 特朗普：1000枚导弹已瞄准伊朗 <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBRSUlnVm15ZFhyd1BCUzVUTXZGeGRaaGxyNUZrY1o5MVEzLXkwaGNPTjRwSzVwaENtcUZYSTE1cGhsMTFmNE5nSHh0OA?oc=5>
+- **特朗普** | 【环球财经】特朗普坚称霍尔木兹海峡“是畅通的” <https://news.google.com/rss/articles/CBMigAFBVV95cUxONVV5NGdxQjBKVmhCa2xQSlJNbkxxdmxDMDFxYS05OU1oRVR4X0c1WlZxX1BQWVMxX3lTQ001TmlvUEhDWXFKTU5wb0ktUGxXVnZxbmt4WERBWDh1MFQ4U0ZheXRuVHhQUHEtbzZVZ3Z1NkZYc1FYOEtpN0Z4VWFQZA?oc=5>
+- **特朗普** | 重要盟友格雷厄姆突然去世，特朗普急发声 <https://news.google.com/rss/articles/CBMidEFVX3lxTE1vT1FBZlh2cEVpMDBfRjl5ZVduWUd3bmhJeFdWTGxYS1otS3hTd0toNlIxSnlDVlFSUFFCZTNXTldjWFRBV1lrVXY5UDh1SXdwNi1WazBBc2lOWS0wRnVLZFJGdWQwX3NPcTFxTV91UlMtcENm?oc=5>
+- **特朗普** | 特朗普盟友格雷厄姆猝死 曾鼓吹对伊朗开战 <https://news.google.com/rss/articles/CBMiZEFVX3lxTFB6NlpDM1laVmQyY0NFMlh2MlhDdjJpUUtFUl9ac2ZVNklIT1UtMTNyT0ZjalBwaGJSS056Q0pfc19acUZfMkZaLUdjamZJN0RoNzU5VVRVY2RaTGdPX3hjN2hKQU4?oc=5>
+- **特朗普** | 特朗普曾扬言封锁 美加大桥7月27日通车 <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBIOWI2MFlmLTVkVzFZM2VVOG14TG5EQUxVbzVTSnl6ZjZJb3VPY3VIQ0FWOXJqOFdQdUF6c1NkRlltYWNKeTRHa09NcFJMSUFXeVdGNVBNZm11bkthbzUtc0hCRWdfZw?oc=5>
 
 ### 2026-07-12 22:12  (7 条)
 
