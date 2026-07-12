@@ -1,46 +1,60 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-12 20:05**
-- 本轮扫到 6639 条, 新增 **5** 条
+- 最近更新: **2026-07-12 21:14**
+- 本轮扫到 6644 条, 新增 **5** 条
 
 ---
 
 ## 本轮新发现 (5 条)
 
-### 蔡徐坤THE DEADMAN演唱会什么时候官宣地点？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd848068020nlu.html>
-
-### 蔡徐坤THE DEADMAN演唱会地点定了吗？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd848068020nlo.html>
-
-### 蔡徐坤“AN EVENING WITH KUN”北美巡演官宣!四月洛杉矶到华盛顿，手速抢票攻略来啦! | 社区生活精选
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923015_1d5ae154701901eumi.html>
-
-### 《功夫女足》的主题曲是谁演唱的？
+### 周杰伦为周星驰电影《功夫女足》创作的主题曲叫什么名字？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd848068020nko.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd848068020o0k.html>
 
-### 王俊凯与周杰伦在演唱会上合唱过哪些歌曲？
+### 周星驰电影《少林足球》的主题曲是谁演唱的？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879848925_1d5acf3dd06801o7c0.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd848068020nzs.html>
+
+### “要么听话，否则把你们炸掉”：特朗普对阿曼下最后通牒，霍尔木兹海峡陷收费之争
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-10 07:08
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxOanNqNlpoeHZqNy1paEd5Um9LY2t1MDJ1NjRQa3RzS3JmMFl2TG1rQVF2RmkxQWU3SkdjdkpRT0p2Tng5YzU2ZmNtc2pBZFBXSTc1aTUxOFd0enBMamRnSjd3RDdNYmI4dml1aHk3ZU1KcXJMQjJ5VXhCTmdvNHVjUEVPMkZpaHlh?oc=5>
+
+### 特朗普担心遭伊朗暗杀，罕见立下“遗嘱”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-12 20:07
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5WbHdReUQ3TDIzMkxOczhFd1lGYmVOaFlTaGxoeHRpMW5mSlY1b1VleWNjUGpMX2FFLTQ3dElxMTVSenltTFg3YUxBXzFWdk1uaVkzOEdFNFphejEwUXQyaC16cnpueXZmbHEtTFRkeHJEQXM2U0Q5Rw?oc=5>
+
+### 特朗普称美军“猛烈打击”伊朗 霍尔木兹海峡“仍然开放”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中国网新闻中心
+- 时间: 2026-07-12 16:05
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTFBaUFJ5OEpUcm1MMERmTnFZNTVPWTZNMlVvR3ppNWJjbmZBSWw0el9aQWhfTzg0LTljcnc3WVZHdk9WLUMwNy1IeE10NTZKbmVZWGQ1WkdsQkE1VXVrSVJTYXhXZURidExCdGJZ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-12 21:14  (5 条)
+
+- **周杰伦** | 周杰伦为周星驰电影《功夫女足》创作的主题曲叫什么名字？ <https://k.sina.com.cn/article_7879776328_1d5abd848068020o0k.html>
+- **周杰伦** | 周星驰电影《少林足球》的主题曲是谁演唱的？ <https://k.sina.com.cn/article_7879776328_1d5abd848068020nzs.html>
+- **特朗普** | “要么听话，否则把你们炸掉”：特朗普对阿曼下最后通牒，霍尔木兹海峡陷收费之争 <https://news.google.com/rss/articles/CBMiiAFBVV95cUxOanNqNlpoeHZqNy1paEd5Um9LY2t1MDJ1NjRQa3RzS3JmMFl2TG1rQVF2RmkxQWU3SkdjdkpRT0p2Tng5YzU2ZmNtc2pBZFBXSTc1aTUxOFd0enBMamRnSjd3RDdNYmI4dml1aHk3ZU1KcXJMQjJ5VXhCTmdvNHVjUEVPMkZpaHlh?oc=5>
+- **特朗普** | 特朗普担心遭伊朗暗杀，罕见立下“遗嘱” <https://news.google.com/rss/articles/CBMieEFVX3lxTE5WbHdReUQ3TDIzMkxOczhFd1lGYmVOaFlTaGxoeHRpMW5mSlY1b1VleWNjUGpMX2FFLTQ3dElxMTVSenltTFg3YUxBXzFWdk1uaVkzOEdFNFphejEwUXQyaC16cnpueXZmbHEtTFRkeHJEQXM2U0Q5Rw?oc=5>
+- **特朗普** | 特朗普称美军“猛烈打击”伊朗 霍尔木兹海峡“仍然开放” <https://news.google.com/rss/articles/CBMia0FVX3lxTFBaUFJ5OEpUcm1MMERmTnFZNTVPWTZNMlVvR3ppNWJjbmZBSWw0el9aQWhfTzg0LTljcnc3WVZHdk9WLUMwNy1IeE10NTZKbmVZWGQ1WkdsQkE1VXVrSVJTYXhXZURidExCdGJZ?oc=5>
 
 ### 2026-07-12 20:05  (5 条)
 
