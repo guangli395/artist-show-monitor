@@ -1,32 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-12 11:53**
-- 本轮扫到 6604 条, 新增 **2** 条
+- 最近更新: **2026-07-12 13:05**
+- 本轮扫到 6606 条, 新增 **2** 条
 
 ---
 
 ## 本轮新发现 (2 条)
 
-### 失去重要盟友，特朗普急发声-观察者网
+### 爆料！特朗普新换的4亿美元“空军一号”，居然被特勤局嫌弃了？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-07-12 10:23
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1Ma0d1ZlJXcmRVdjRmN21yVFNRck1YaVo5SXlGbURYR21iclI4bV9iNW5IeVVUdXRNdHllSUFHZUlkN2wzNHBXNDBQbml2dlJyWllfcTlBbWpiTXZKYmJGdFlSUUVoXzhybWc?oc=5>
+- 场馆: 腾讯新闻
+- 时间: 2026-07-11 20:47
+- 链接: <https://news.google.com/rss/articles/CBMiV0FVX3lxTFAwbkNEVjZVemMyZGJRWmtOenhnLWdGNUFVQUVXZHB6UGRWU29wWlVpY09lMEViMWhIclF5T0pQaEFaX09odnJveVN3R3IyTzRqdHdvRUZTOA?oc=5>
 
-### 管用吗？特朗普担心遭暗杀立“报复遗嘱”
+### 民调：六成美国人指特朗普以权谋私，净支持率-25%创新低
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-12 09:54
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1OVWpIdkdtU0dNZklrNUJRdDlVek5yWG9MZ1dJd3hSblhlZlZCTURVUG1oRWU0b2tXRHlUaW5rcFAxMGM1Z2g4NG5zUVg5UUZmdFI0d2JMbVJCWEpGNURxVXl0dDNaTDZobGV1X3VnTnYySi1uRURRcQ?oc=5>
+- 场馆: 网易
+- 时间: 2026-07-12 10:07
+- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTFAtQV9xS0djWmZEWnl2Y3dZR1RwT1ZZdkt3bkw1N0pMU1M4NFpHODdjOGxmYmdWSkdJd3FIQkU4dldtRDg3WmZfMFV3cl9hSUxENmpyckVlWE9KX3RZWldOTFdR?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-12 13:05  (2 条)
+
+- **特朗普** | 爆料！特朗普新换的4亿美元“空军一号”，居然被特勤局嫌弃了？ <https://news.google.com/rss/articles/CBMiV0FVX3lxTFAwbkNEVjZVemMyZGJRWmtOenhnLWdGNUFVQUVXZHB6UGRWU29wWlVpY09lMEViMWhIclF5T0pQaEFaX09odnJveVN3R3IyTzRqdHdvRUZTOA?oc=5>
+- **特朗普** | 民调：六成美国人指特朗普以权谋私，净支持率-25%创新低 <https://news.google.com/rss/articles/CBMiYkFVX3lxTFAtQV9xS0djWmZEWnl2Y3dZR1RwT1ZZdkt3bkw1N0pMU1M4NFpHODdjOGxmYmdWSkdJd3FIQkU4dldtRDg3WmZfMFV3cl9hSUxENmpyckVlWE9KX3RZWldOTFdR?oc=5>
 
 ### 2026-07-12 11:53  (2 条)
 
