@@ -1,62 +1,80 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-12 04:48**
-- 本轮扫到 6586 条, 新增 **6** 条
+- 最近更新: **2026-07-12 07:25**
+- 本轮扫到 6593 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (7 条)
 
-### 周杰伦连续三年打卡温网是否在筹备网球新歌？
+### 周杰伦哭了 周杰伦福州演唱会 微博VC计划微博VC计划
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd848068020gq4.html>
+- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301d2ym.html>
 
-### 特朗普：已下令在伊朗企图行刺的情况下“毁灭”该国
+### 委代总统成傀儡？“采访要特朗普批，发文要鲁比奥审”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-11 04:04
-- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTFBZMGxwbml1UGRzNmllakd4YnBkcUIzLXBSM0k2bUZwOEttSmZFeG5DQzhPZVN2aUFWRGxrVDNGd2VuZk00MVpnQXZWb2FtcWhJWDZ3Y3RmbjRUSG40UVNOUlhvQkhmemxjRTUyV3ptYnkxQVpucldISE9B?oc=5>
+- 场馆: 观察者
+- 时间: 2026-07-12 06:18
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBTNHMtdmZTUFNqUElPQThtZ2ZHSXBwd05OVzlaaDNYSEt6RXdNejY4VElaWjktMjdBWGpWTmpOZHpNOWhDR3htV0lPcDUyOTZaTldlTEtaSDFVR2RZVjRJVHVhOFAxNjdvdkE?oc=5>
+
+### 委内瑞拉代总统是美国政府的傀儡吗 特朗普操控下的委政局
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-07-12 07:01
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9JVWZZMjZRaGhpd1NiSjhVSDhBMjdNNVNKTnNTUjBiYVN5dTBqa3A0U1IzQXFqa0dwLWR0eURXUFVEbzB1QVA4TXpGNjE3RlZyVEZNSnF1NzRRbDBDR0dNT2IzaU01UWZpNDNrVndldkM?oc=5>
+
+### 委内瑞拉代总统是美国傀儡吗 罗德里格斯需特朗普批准行动
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-07-12 07:17
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE40cTlIRUFILXlpNDhQRlBVdFk0dzI3aGgtbktycVMyX1hLZzFxSXJMZURZa3NBUGdXWTlFcmkwNkVEdTFITDY2YVpuQ2g1NnNpWU5KS0pjQWVzX1FSZXM5M2RDbml2Z3E2cmhLNTFUNU4?oc=5>
 
 ### 披露特朗普新专机安全缺陷的美国记者收到传票
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-07-12 03:48
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1IZUh5OS1XYjVLQ0VnUXFDcEFESU9PdVRlSmVyZW5xZUNfQU5uX3ppU2dQRFRjc2ZXbDdQMjAxaTE4S3J3VE5nV09oa3RqdzZiVUxKbElRRDljZmZxSjB4MU9xWlNOUWFCdlYyZ2trMHNWVEZ6WmlZS2tUcjBsc2s?oc=5>
+- 场馆: 中国经济网
+- 时间: 2026-07-12 05:44
+- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTE9pWnEzYTZZLUV1TzlPaS1tZmplTVNRcl9heE80VzVpcGh5cXVva0Q3YUFNMGU0dVVhR1B2X0ZESVFBcEZoRXB1VmFmTXVHMExkdlhNcER2NzVRYV9hMEVaVTAtSQ?oc=5>
 
 ### 凯恩对阵挪威赛前回应特朗普言论：美国总统的球技“相当不错”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪网
-- 时间: 2026-07-12 03:43
-- 链接: <https://news.google.com/rss/articles/CBMi6gFBVV95cUxNSGFZQlBVMF9YYjM3OC1acWZFdm9GbjdteVNhUXJ0aXlmQXh1WW1zbUZGY1pmcXd1ZmI1eWROa0lMRWdPMkR0MWZZQzFyNDBoc01FR0k4YWwzQy1vRHlHQlYwWnZDMUdsemZySDRZendPUVlNSTkxbDZNbnpGQ283VlR1aTZzRVJWLUFuS2xtNXVFLWkySGM1UXI5ai0xcFZ4RzFCaUt5d2oyUEFjb3J6MDNMYkJQQlJ4V2gtcXQybnd0X21kWHV1WTNfZ3Yxa2Q1TmMwM3Jha0VSVjNLeWlrTHI3TkVRMmlrekE?oc=5>
+- 时间: 2026-07-12 07:19
+- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxOLVdHVTZWYkdGTDFLRkMtbHUxRUwyblJNajl1STNqemF3OE1Bb1picEh2U1ZzVGxwVGFmM0F2RVUySzlwTlkyTGgwTFhPdGNGNnlYRTliTEY2Z29IbU5QR01xYkNxWkFfdFJxdTdkTDNNck84WmVONUlBRG9jbWo3YVN5akxIcEtzT09lMHpLYl94ZmRNaDVPNkxnTi1xYkJTV0ZJdmMxTmsyTTQzdFNwaDgwQ3VZajFnVS1jZThjMkZkRXJ3LU9zWTRYamJGV3JQQmJoWTBObHZod0NRZlE?oc=5>
 
-### Trump: US is preparing for more strikes against Iran
+### 伊朗最高领袖誓言“复仇” 特朗普：1000枚导弹 已瞄准伊朗
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: TDM
-- 时间: 2026-07-09 15:09
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxNMlVoUlI3em1kRmI4SWZHcnI0ZlJaazh4TmhmcXY3Zl9Xc3BOdzhwTUJNdVNBTFlfWmtFZjFPWTEzNV9UOE5CcG9kUDFMS3ItcjlmLW5QQzhvT1FBeFpPUmpXaUo4QWNxMEd6aFVpWTJuMXNvTm5Vd19vZ1F3WG5yY0k3NUlGeDdwcW15VEZsTzQ0X3lNX3BJbg?oc=5>
-
-### TRUMP再次持有土耳其股票！
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-07-08 08:28
-- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxORmxRTlo3NXNIZXAybEZ2UWk5azlNLVdITGZRQkxSc1VpZ2RxdlVXcHNWSWU2ZGxjV3FEMUNxcExVdk5QQllFanRDYVU4cC1Gd0RnTktLeGVCZUt1WlhSTjRPSGdpNEFIaWs2VFV1amlyb2VsN2lWNDB5TDAySG04bnMzeU45RGo2WVRz?oc=5>
+- 场馆: 每日经济新闻
+- 时间: 2026-07-12 01:53
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9xdEs1aEdPUDlPYnNLUVJ3T3lPQXA1bHNWWFFqUktXem12S0ZXblE1aUYtOU81MGNlY1pzQmNFTllDdDNFTHptalBMZFV0bEVVWEVRUXFoNUE1NkMzQnVLN3Q4UnNjUQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-12 07:25  (7 条)
+
+- **周杰伦** | 周杰伦哭了 周杰伦福州演唱会 微博VC计划微博VC计划 <https://k.sina.com.cn/article_7879924009_m1d5ae192903301d2ym.html>
+- **特朗普** | 委代总统成傀儡？“采访要特朗普批，发文要鲁比奥审” <https://news.google.com/rss/articles/CBMiakFVX3lxTFBTNHMtdmZTUFNqUElPQThtZ2ZHSXBwd05OVzlaaDNYSEt6RXdNejY4VElaWjktMjdBWGpWTmpOZHpNOWhDR3htV0lPcDUyOTZaTldlTEtaSDFVR2RZVjRJVHVhOFAxNjdvdkE?oc=5>
+- **特朗普** | 委内瑞拉代总统是美国政府的傀儡吗 特朗普操控下的委政局 <https://news.google.com/rss/articles/CBMicEFVX3lxTE9JVWZZMjZRaGhpd1NiSjhVSDhBMjdNNVNKTnNTUjBiYVN5dTBqa3A0U1IzQXFqa0dwLWR0eURXUFVEbzB1QVA4TXpGNjE3RlZyVEZNSnF1NzRRbDBDR0dNT2IzaU01UWZpNDNrVndldkM?oc=5>
+- **特朗普** | 委内瑞拉代总统是美国傀儡吗 罗德里格斯需特朗普批准行动 <https://news.google.com/rss/articles/CBMicEFVX3lxTE40cTlIRUFILXlpNDhQRlBVdFk0dzI3aGgtbktycVMyX1hLZzFxSXJMZURZa3NBUGdXWTlFcmkwNkVEdTFITDY2YVpuQ2g1NnNpWU5KS0pjQWVzX1FSZXM5M2RDbml2Z3E2cmhLNTFUNU4?oc=5>
+- **特朗普** | 披露特朗普新专机安全缺陷的美国记者收到传票 <https://news.google.com/rss/articles/CBMiY0FVX3lxTE9pWnEzYTZZLUV1TzlPaS1tZmplTVNRcl9heE80VzVpcGh5cXVva0Q3YUFNMGU0dVVhR1B2X0ZESVFBcEZoRXB1VmFmTXVHMExkdlhNcER2NzVRYV9hMEVaVTAtSQ?oc=5>
+- **特朗普** | 凯恩对阵挪威赛前回应特朗普言论：美国总统的球技“相当不错” <https://news.google.com/rss/articles/CBMi3gFBVV95cUxOLVdHVTZWYkdGTDFLRkMtbHUxRUwyblJNajl1STNqemF3OE1Bb1picEh2U1ZzVGxwVGFmM0F2RVUySzlwTlkyTGgwTFhPdGNGNnlYRTliTEY2Z29IbU5QR01xYkNxWkFfdFJxdTdkTDNNck84WmVONUlBRG9jbWo3YVN5akxIcEtzT09lMHpLYl94ZmRNaDVPNkxnTi1xYkJTV0ZJdmMxTmsyTTQzdFNwaDgwQ3VZajFnVS1jZThjMkZkRXJ3LU9zWTRYamJGV3JQQmJoWTBObHZod0NRZlE?oc=5>
+- **特朗普** | 伊朗最高领袖誓言“复仇” 特朗普：1000枚导弹 已瞄准伊朗 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9xdEs1aEdPUDlPYnNLUVJ3T3lPQXA1bHNWWFFqUktXem12S0ZXblE1aUYtOU81MGNlY1pzQmNFTllDdDNFTHptalBMZFV0bEVVWEVRUXFoNUE1NkMzQnVLN3Q4UnNjUQ?oc=5>
 
 ### 2026-07-12 04:48  (6 条)
 
