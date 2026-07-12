@@ -1,64 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-12 10:51**
-- 本轮扫到 6602 条, 新增 **6** 条
+- 最近更新: **2026-07-12 11:53**
+- 本轮扫到 6604 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (2 条)
 
-### 特朗普公布“报复遗嘱”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-12 08:58
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE9ydUtJdkc4eUtJNXJLZE1hcnNiMllwRFFzVmdERnlOemVKeFE5ZmNTOU9DNkJzTVRhYk15WE03Wjkyb2pLSmphMXhzTFFfLTRXZzdHY1NLWG9yQ0RpQ19TQmtJakRtX0lvVjhRaGJjRWE0MUhpYVE?oc=5>
-
-### 两党住房法案未经特朗普签署自动生效 多名议员表示庆贺
+### 失去重要盟友，特朗普急发声-观察者网
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-12 10:41
-- 链接: <https://news.google.com/rss/articles/CBMijwJBVV95cUxNN1Q4UEdMUUhuSjB4N1dTREhuSndPbWlUcnFFV2FSWlFzVGpxd0VaRkRPNHpFOTVTN25CZFlwM1J3ZEdoc0kya1RrWDdiTmhHNDdVa21qamN1VmFvdEk5Qm9JbE53cldwalFHSnUzMDVycENYWUF0b3lCYll0NjZoUnlJYkZCTFNFSjZveEZQbzJOcEVKelpSY3RZa0o0T2ExZ2JJNEJ4OVdkN1c2cUg4eGF4c0FQZVZPNVVWUFV0NEpBcXEwcnhXbUxtYnRsdE5NbW52MF9aalYtWmlEdFAzYlMwV3Nxcm1VNXhqTDRKLTIzdlY0TkZDekt6bTJTOVA1NXgxcTZka1pJLUc3Y1dV?oc=5>
-
-### 特朗普过去24小时都忙了什么？（2026-07-12）
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-12 10:07
-- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxNRTl6NXhjVU56RWxCenZsRGRGN2IwRC14NzJRaTNYRGpFUXc0RDJoRTBmMUxRcGNCXzFwNTBPcEVlNWNFbFFGVDlUYkdkb0M5ZUNXOEg0VWk5MHNqcTNLbkx2QUM1S09QdVNRWmNka0VZcTlRWVVRZk1Qd1hKR0F1cFdub2hxN1p1NTBzRFFjRHFJeVdlRk9TLVYzYWY?oc=5>
-
-### 特朗普立下数千枚导弹“报复遗嘱”，万斯可以不听吗？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-12 10:10
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5FYzBub2VSZGp5Um5NTFZmanhwWVUxUFhrczEtZDctbXVTcFNoYXdhTzljQ1M0NjRUTHJBcUgwUF9DVnN2T2FCREV3a18?oc=5>
+- 场馆: 观察者
+- 时间: 2026-07-12 10:23
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1Ma0d1ZlJXcmRVdjRmN21yVFNRck1YaVo5SXlGbURYR21iclI4bV9iNW5IeVVUdXRNdHllSUFHZUlkN2wzNHBXNDBQbml2dlJyWllfcTlBbWpiTXZKYmJGdFlSUUVoXzhybWc?oc=5>
 
 ### 管用吗？特朗普担心遭暗杀立“报复遗嘱”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-07-12 08:01
-- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTFBSakQ1VkVETzJnVmJGdTY4UTVQNnNQVkNTYnVjbVFFSFhqRnhkQlpudjg5Y0tFajBqQ25SSHphYmRHUkl6amdKQWhOaWdiblFNRFhraXN2Z1NXNUdCVC14UVdJbHJkaUVkUUpaeTdhck9HdHJsRDZOUThnX0t5UQ?oc=5>
-
-### 特朗普宣布美伊停火“已经结束” 美方仍同意继续谈判
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-07-10 22:24
-- 链接: <https://news.google.com/rss/articles/CBMi6gJBVV95cUxQQlZWS0hQOEpVSnZGUDducUxJdVpHM1BhSVBoMlNsTk5SbGxhSzlzVWRIYWp1aFVYSklQVkJUMEdoX3BwTE5nNF9Rd1R3VTB5THN1anB2cWRKSUh1N3h1MURZNTJJS01WVGFNbGs1X3VFanFld1dGMVVZSl84TTItd05NRjRYV0hyV0UwNTNtTUlMa3pLQnlzYUY1a1hpSzBmb1g4VnExbjZMc1lwMXVycmlGSlc1YlJPQXZfcGtlNDV3OWdtTmhKMnJkWkN0dklYMkcwdTJUQXJlcHkzTURmVnNEUGNfNFdVZzJ6VzhuRGVCZVVNWGxpYURJWndPQ2d1Y3NPcDVNbWd2ZXhmdnlQbzFJdkdmalBXOWRXS0dKTHI1NFNFTWN3cS1SMzNRZmxJanNnS0ppa3JFWXo1emJJYjgzcnZpclRweUpkVzRFZmp1aHNQd1p1bS1lQjBIbTRvNUdacmlzT2VCdw?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-07-12 09:54
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1OVWpIdkdtU0dNZklrNUJRdDlVek5yWG9MZ1dJd3hSblhlZlZCTURVUG1oRWU0b2tXRHlUaW5rcFAxMGM1Z2g4NG5zUVg5UUZmdFI0d2JMbVJCWEpGNURxVXl0dDNaTDZobGV1X3VnTnYySi1uRURRcQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-12 11:53  (2 条)
+
+- **特朗普** | 失去重要盟友，特朗普急发声-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE1Ma0d1ZlJXcmRVdjRmN21yVFNRck1YaVo5SXlGbURYR21iclI4bV9iNW5IeVVUdXRNdHllSUFHZUlkN2wzNHBXNDBQbml2dlJyWllfcTlBbWpiTXZKYmJGdFlSUUVoXzhybWc?oc=5>
+- **特朗普** | 管用吗？特朗普担心遭暗杀立“报复遗嘱” <https://news.google.com/rss/articles/CBMieEFVX3lxTE1OVWpIdkdtU0dNZklrNUJRdDlVek5yWG9MZ1dJd3hSblhlZlZCTURVUG1oRWU0b2tXRHlUaW5rcFAxMGM1Z2g4NG5zUVg5UUZmdFI0d2JMbVJCWEpGNURxVXl0dDNaTDZobGV1X3VnTnYySi1uRURRcQ?oc=5>
 
 ### 2026-07-12 10:51  (6 条)
 
