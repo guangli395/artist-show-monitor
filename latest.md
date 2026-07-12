@@ -1,52 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-12 15:53**
-- 本轮扫到 6616 条, 新增 **5** 条
+- 最近更新: **2026-07-12 16:52**
+- 本轮扫到 6619 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (3 条)
 
-### 蔡徐坤时隔五年重启个人直播：无脚本纯聊天破千万观看，新歌片段首次公开
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019083lp6.html>
-
-### 蔡徐坤亚巡演唱会THE DEADMAN官宣
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923973_m1d5ae1905033024lrs.html>
-
-### 特朗普称美军“猛烈打击”伊朗 霍尔木兹海峡“仍然开放”
+### 管用吗？特朗普担心遭暗杀立“报复遗嘱”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-12 15:32
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1EWnBnOEhEMUFzWEhxN3h5TjBsdTQ3X1ZDOVdfZE1mOW1hY1pBeHJWS1pINHc3Q3liZ3o2akJ6dWxac0NQNlpaSGM3Y3NUS0dYOWlBQ0ZnUE9UQ2cxTEZ0X01WT194d3daT1BvUklFOGx0MzFnZG5WcQ?oc=5>
+- 场馆: 新华网
+- 时间: 2026-07-12 08:01
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE4yODAzUjlKVEgyZGNSWmEzN2dKMkh3RzBYVTQ2dHhDVk5pdWg0dV8yeGVPM2plbWlpTlRmV19PZzhOOFllNi13VXBDVkZ2OWJYWER6MzNyVTEwM3c4SEdfYld3M3JpcEIzNFlTZldRdDVLak84Z2R4VUxBZE12YVk?oc=5>
 
-### 特朗普盟友格雷厄姆猝死，终年71岁，曾鼓吹对伊朗开战
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-12 14:02
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1UUEhwbDA0UDZYRHF5ZWpyNDlXSnFxeDFsNjRJdmg0NENkdzlOczJNVkFmTXVWQjBOc2w2bVh3cng1SExOZFZSS1MzdFM3M3N5X2d4eGdKNUw2Z0FtQVlheUViT2tIUWJUeWhvRGlTMHZOdEdmeXZWdg?oc=5>
-
-### 两党住房法案未经特朗普签署自动生效 多名议员表示庆贺
+### 白宫证实特朗普已“清空”选举援助委员会
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-11 20:45
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWDNWNVVZcUduVkRLUDlZVXJxYnhxV2tBRndYUmt2S0l5cmhwakk4aVZnZ3BsRl9DTGlQam80ZEkxVFc3cWZWbURzSlNERnhQWVB3Y0xJX1UtY2dGS0lTaU1rYXU3YUlWUHFMLTVSRENTOGFLX0JGOWJHMU93dXQwdkcxWC0yeUVpWHJfNldNNUVZa1RkRlBISW9vMWpma1B4WXdDakNXUmVEcXd0TjZhMFlod2N2S1RFMThLS3JieTRtZzIzeHRHblZidVVkTWhHbnV3NldjempFMzNoTnBv?oc=5>
+- 场馆: 联合早报
+- 时间: 2026-07-11 06:38
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBmY1dMOGJyYXJBaWxoRFlXVzcwZjZFcXhMaXhOQjUzVE44QkJwbDNWcElDWHM4b082aWNMUFVsSmxjakVLSlFJQm90OFJBQnhNb01aMThPS1dtcHcyVld4elU4SFQ2Zw?oc=5>
+
+### 简直是当头一棒！美国农户称特朗普正在背弃他们，后悔曾支持他
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 网易
+- 时间: 2026-07-12 16:32
+- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE03emZqdzYya3NweHd2TzhpUlhvbTRtVzFjWUtfUS03QU5hQTBneTFKbVZpaWFTYnozZDVIcXB2eWt2WGFYWlJXakJKd2gtV004TWZjSzZqN3I4N1FFOXA4STd3?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-12 16:52  (3 条)
+
+- **特朗普** | 管用吗？特朗普担心遭暗杀立“报复遗嘱” <https://news.google.com/rss/articles/CBMif0FVX3lxTE4yODAzUjlKVEgyZGNSWmEzN2dKMkh3RzBYVTQ2dHhDVk5pdWg0dV8yeGVPM2plbWlpTlRmV19PZzhOOFllNi13VXBDVkZ2OWJYWER6MzNyVTEwM3c4SEdfYld3M3JpcEIzNFlTZldRdDVLak84Z2R4VUxBZE12YVk?oc=5>
+- **特朗普** | 白宫证实特朗普已“清空”选举援助委员会 <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBmY1dMOGJyYXJBaWxoRFlXVzcwZjZFcXhMaXhOQjUzVE44QkJwbDNWcElDWHM4b082aWNMUFVsSmxjakVLSlFJQm90OFJBQnhNb01aMThPS1dtcHcyVld4elU4SFQ2Zw?oc=5>
+- **特朗普** | 简直是当头一棒！美国农户称特朗普正在背弃他们，后悔曾支持他 <https://news.google.com/rss/articles/CBMiYkFVX3lxTE03emZqdzYya3NweHd2TzhpUlhvbTRtVzFjWUtfUS03QU5hQTBneTFKbVZpaWFTYnozZDVIcXB2eWt2WGFYWlJXakJKd2gtV004TWZjSzZqN3I4N1FFOXA4STd3?oc=5>
 
 ### 2026-07-12 15:53  (5 条)
 
