@@ -1,32 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-12 13:05**
-- 本轮扫到 6606 条, 新增 **2** 条
+- 最近更新: **2026-07-12 14:39**
+- 本轮扫到 6611 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (5 条)
 
-### 爆料！特朗普新换的4亿美元“空军一号”，居然被特勤局嫌弃了？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 腾讯新闻
-- 时间: 2026-07-11 20:47
-- 链接: <https://news.google.com/rss/articles/CBMiV0FVX3lxTFAwbkNEVjZVemMyZGJRWmtOenhnLWdGNUFVQUVXZHB6UGRWU29wWlVpY09lMEViMWhIclF5T0pQaEFaX09odnJveVN3R3IyTzRqdHdvRUZTOA?oc=5>
-
-### 民调：六成美国人指特朗普以权谋私，净支持率-25%创新低
+### 特朗普盟友 71岁美共和党籍参议员格雷厄姆去世
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 网易
-- 时间: 2026-07-12 10:07
-- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTFAtQV9xS0djWmZEWnl2Y3dZR1RwT1ZZdkt3bkw1N0pMU1M4NFpHODdjOGxmYmdWSkdJd3FIQkU4dldtRDg3WmZfMFV3cl9hSUxENmpyckVlWE9KX3RZWldOTFdR?oc=5>
+- 场馆: 联合早报
+- 时间: 2026-07-12 12:33
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5lOW1zdWhMaUFkNS1oSVRieVJJRW9xUWdMdnY4M0s2bkZWSVAyWTV5SzRic0NPMlFYZVE4U0ZFQ1lYbnZHV3pGWDJIOG1GUnBOc05SMGkyR2E2SHhNVW4tUGxtQnZNU0xQcFE?oc=5>
+
+### 两党住房法案未经特朗普签署自动生效 多名议员表示庆贺
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-07-11 20:45
+- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxPS0JIVm5MQm1XVUxVSzN3RUgwN2NFYkU5SlptN3ZBbUVnRjFjMWxfSVFGTVVtM0JDRk9YQTJMVnZxVDJZQXozSG50ZkRlQ2VJT0N6cnJCOXFxU2NxeWEzTXlHT3RNa2FsbG45UURQS1JzOWV1RnpwaVVGcWNWQmtsUUdmMHZiRUVMUkR3aGRZRUpRT1ZudXNJbTZKZWRZY1hQVFdlbzN6SHZBX2hGbXFGcVo3MUlPcmJpeFN4Z0lad1BoQXBXOHpKbkRSX3AtSFpnazRsY3U0M0d5bGdDaGc?oc=5>
+
+### 管用吗？特朗普担心遭暗杀立“报复遗嘱”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-07-12 08:37
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTFA3ZklyQlljcnhkWEp5bzVIZWFkV0Z3bDJxVTc2OXFnM1VWbk1LXzNVWUVqdXBCanEzdjlodWlTVUljcmdmWWNWSWtCSkhUYWFIUV9GUHNmUlRBREc0ekdDbzBaQUVOdENxQzFhamxzRnZ2WU1z?oc=5>
+
+### 特朗普立下数千枚导弹“报复遗嘱”，万斯可以不听吗？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-07-12 09:17
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBkcDc0cURMWlBGdTBzYmRzYVRodzh0UzFqUmhFMDR4UlY5Z2FvM0dHS1NCUGNKYk83WVhLam9uRUVqWk11SHZEcWl2czg3empKZ2R3a0NxNGhGZXZ2VzAzVldFRUlPTVBLNnc?oc=5>
+
+### Stock Market Today: Oil Jumps After Trump Says Iran Ceasefire Is Over for Him -- WSJ
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-07-08 16:38
+- 链接: <https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZkd0SENqbzZGeC1VUWNxQXNydVVlSzNmd0FhaFdaWGg4XzAzRGxTS2o3QTZ2UEJ2bUhnYlF3d0RQbkxTanlzbXlUaTljbEJPUnNpbWw5S0syYmdzVUVucGNSeU40c2lUa3ZWbTZXZ3g5ZUVtRWt6UGRXbGdyTUQyZlVvOExmZ2J1Ymt0NzdhV2xkTVk0YjByU3hSV2FGR0t0N2FlaVduMzNzSEk?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-12 14:39  (5 条)
+
+- **特朗普** | 特朗普盟友 71岁美共和党籍参议员格雷厄姆去世 <https://news.google.com/rss/articles/CBMiakFVX3lxTE5lOW1zdWhMaUFkNS1oSVRieVJJRW9xUWdMdnY4M0s2bkZWSVAyWTV5SzRic0NPMlFYZVE4U0ZFQ1lYbnZHV3pGWDJIOG1GUnBOc05SMGkyR2E2SHhNVW4tUGxtQnZNU0xQcFE?oc=5>
+- **特朗普** | 两党住房法案未经特朗普签署自动生效 多名议员表示庆贺 <https://news.google.com/rss/articles/CBMi3gFBVV95cUxPS0JIVm5MQm1XVUxVSzN3RUgwN2NFYkU5SlptN3ZBbUVnRjFjMWxfSVFGTVVtM0JDRk9YQTJMVnZxVDJZQXozSG50ZkRlQ2VJT0N6cnJCOXFxU2NxeWEzTXlHT3RNa2FsbG45UURQS1JzOWV1RnpwaVVGcWNWQmtsUUdmMHZiRUVMUkR3aGRZRUpRT1ZudXNJbTZKZWRZY1hQVFdlbzN6SHZBX2hGbXFGcVo3MUlPcmJpeFN4Z0lad1BoQXBXOHpKbkRSX3AtSFpnazRsY3U0M0d5bGdDaGc?oc=5>
+- **特朗普** | 管用吗？特朗普担心遭暗杀立“报复遗嘱” <https://news.google.com/rss/articles/CBMidEFVX3lxTFA3ZklyQlljcnhkWEp5bzVIZWFkV0Z3bDJxVTc2OXFnM1VWbk1LXzNVWUVqdXBCanEzdjlodWlTVUljcmdmWWNWSWtCSkhUYWFIUV9GUHNmUlRBREc0ekdDbzBaQUVOdENxQzFhamxzRnZ2WU1z?oc=5>
+- **特朗普** | 特朗普立下数千枚导弹“报复遗嘱”，万斯可以不听吗？ <https://news.google.com/rss/articles/CBMiakFVX3lxTFBkcDc0cURMWlBGdTBzYmRzYVRodzh0UzFqUmhFMDR4UlY5Z2FvM0dHS1NCUGNKYk83WVhLam9uRUVqWk11SHZEcWl2czg3empKZ2R3a0NxNGhGZXZ2VzAzVldFRUlPTVBLNnc?oc=5>
+- **Trump** | Stock Market Today: Oil Jumps After Trump Says Iran Ceasefire Is Over for Him -- WSJ <https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZkd0SENqbzZGeC1VUWNxQXNydVVlSzNmd0FhaFdaWGg4XzAzRGxTS2o3QTZ2UEJ2bUhnYlF3d0RQbkxTanlzbXlUaTljbEJPUnNpbWw5S0syYmdzVUVucGNSeU40c2lUa3ZWbTZXZ3g5ZUVtRWt6UGRXbGdyTUQyZlVvOExmZ2J1Ymt0NzdhV2xkTVk0YjByU3hSV2FGR0t0N2FlaVduMzNzSEk?oc=5>
 
 ### 2026-07-12 13:05  (2 条)
 
