@@ -1,112 +1,148 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-13 14:17**
-- 本轮扫到 6717 条, 新增 **13** 条
+- 最近更新: **2026-07-13 16:54**
+- 本轮扫到 6732 条, 新增 **15** 条
 
 ---
 
-## 本轮新发现 (13 条)
+## 本轮新发现 (15 条)
 
-### 蔡徐坤澳门连开两天，巡演首站引爆期待
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879995946_1d5af322a06801lxyg.html>
-
-### 蔡徐坤《Deadman》完整教学视频发布：翻唱近百万，向死而生背后的演唱技巧与重生叙事解析
+### 蔡徐坤官宣亚洲巡演首站澳门
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd848068020wv2.html>
+- 链接: <https://k.sina.com.cn/article_7879923704_m1d5ae17f803301uj6y.html>
 
-### 蔡徐坤2026演唱会官宣|全新主题巡演重磅来袭_星品推荐社
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923018_1d5ae154a01901ecc0.html>
-
-### 接每一场演唱会地址官宣都要直播 再dream一个真人出镜…
+### 是大事！@蔡徐坤 新演唱会真的来了，《DEADMAN》正式升级为「THE DEADMAN」…
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5103645868_m1303374ac03308slfo.html>
+- 链接: <https://k.sina.com.cn/article_5617768139_m14ed856cb03301sb9c.html>
 
-### 悼念格林厄姆，特朗普命令全美降半旗
+### 周杰伦近期会发新歌或开演唱会吗？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd848068020zuc.html>
+
+### 特朗普让全美降半旗志哀，但有人笑了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-07-13 00:23
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5IU2Y0LVJTYU1wZG02XzFwN2ZLUzc4VlhaTmQxejc0dXZGUndJRll3enRmN1MwVUhkV01ic0NXRHliZ0FGX3NPZWZQUDg?oc=5>
+
+### 谁接替格雷厄姆 特朗普称有“属意人选”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-07-13 07:46
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1KRnZWbzZaSzVjZDlMNHhtOThYT1JiODFNRlFDX2M2YWJZa1daejQzSWVRSHZJZWdTNUVtcUZDQThfNmZNd0tMLXU1emczMjJNQ3BscVRFSUdFTXdfbmh0TW9HNnRNdzV3UHIxUHNRTWpzaWlPYi1sNHJiRmFGVHM?oc=5>
+
+### 特朗普宣布重新封锁伊朗，对霍尔木兹海峡货运收取20%“保护费”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-13 07:52
-- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaFF6Ulg4bjh0NmN2ZFE4eFdnRXdfV1JTUVc0U3JKMS1ROTV2LXUybUZHcmFEaF8xRDZraTA4Vzg4UHVWeVNKXzZleEhWSnZVaGRROHBSdjhSeWdzSDRpRHFaNVI0Zjhqbm1DU09fVjZuM3ZZRDBfaEdRbWcxMm5sd0FZNFIxVVFFT1Vr?oc=5>
+- 时间: 2026-07-13 15:11
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFB4UXNPQjFudmtUMEJBcmt0d2JPQTVjOEczdHQyM0tXZDJyQkVuVFFRTnZIcmtuY1EtbzBmc0NVUS04MTV6STkwYnc5Y2FIZlV5SVB1cDRGckdZUTJTczhqcDVsVFViOUFSd1lUQkpDZXN1WXA3aUpzWQ?oc=5>
 
-### 最新消息：🇺🇸 特朗普总统表示，美国在保卫霍尔木兹海峡方面应获得“报销”。 “我们以前白白守卫它。现在我们要...
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-07-13 13:06
-- 链接: <https://news.google.com/rss/articles/CBMivwFBVV95cUxQc0FNcVAyTmljYUtobE5ELTdLRUxNaE9fS3BrY012MXdvN0xzRnJVOS1uemRVczNmbFJFR3FpeHdjejBqOEVzX0JXQ091aFJtaUQxU1FNcXR1Q0lIZElYbGZTcURLNDA3ejRjczh0N2lZRkxfdE5DdFp1TTlrREJfaEltcGhWa0JGc3BmVEFiNU93LUU4MnRXR1VoSmdSQi1UNmtfUnpXSWZTcmlJZmdUMkZTakNKOVNSa3YzRTA3MA?oc=5>
-
-### 停火协议沦为废纸！特朗普一句话反转中东战局，顶尖策略师割肉惊呼“研究全白做”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-07-13 12:55
-- 链接: <https://news.google.com/rss/articles/CBMisAFBVV95cUxOclJRYU1HTjVycU5wQTdILWtLZjJLUUF6eGN2LWpHbWQ0QmtOZmVmNWwybzM0eWxqXzJYRnZ1RWpkdm0zQ3pjM0Z6QUowWWxJY2JmNUxoUXBBMVc3R2UzZXNCTzVLUW9fQl8tclhkbVdpV1NpcHlWRkU3bEJQbzVxcHN0cmhrNzhxUy1lZGhtZEI0YXNnaG5XS3lIOHBDNk04dzRnMHFwSkNXb1NJV2pPZw?oc=5>
-
-### 特朗普称美国计划控制霍尔木兹海峡并获利
+### 特朗普称将收取霍尔木兹海峡货运20%费用
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-13 13:23
-- 链接: <https://news.google.com/rss/articles/CBMimAJBVV95cUxONF9Gam1aZFBPdGM1R2dWbVNnN2NFckJtbWNPdE1uZXVHWkIxV2RNaWhXQUN1Ynh6TWtCRi02RUZrVjRpcjlwQUdrN1J4QW9abnhaQ0RQbzFYUmJDSXJhOWZiYWJGQklPWEpQeFZEd0dFcjdLS3lVYmxBOFRXYlZTaHNyWHJYLXVnb2F2QVZYWlA2NUdGWjJuRGtaRzJZZXJSMEFfWWN6aVlkV0NWdlc3R3VBYlhfc3BSY2k0Um9vN3AzX1lfdHVfNnFFUm4tWC1Jemh4QzR1Q1phdjhzX09zcklRZ0ZYQ2loY1dxX2lDdDlLZU5wREdIcUdNdUZXbEVhZG5yTXNnNE1JbU0yMU9xV3JLM0RObFZz?oc=5>
+- 时间: 2026-07-13 15:18
+- 链接: <https://news.google.com/rss/articles/CBMipwFBVV95cUxPMmFQMkJTUVhfeEZ3TWxQZWthb05WVjRGQTc3d2JvZGs0VG0zTGFpTHNOUVYwY0xYUFBiMk9fbEdlakktU3BIb2hqSVB2Z1FCeHpfUnJFU0hFT0RETXpLaEFPRThzdi12Rl8zbGlkTVdNLWNRazhjdWJxakEwOXBrUEpsaU0yUHc1ZDVCTjR0S0tHUUo5WlVvTFl4QmFJajF0di1wYzhBRQ?oc=5>
 
-### 特朗普称要接管霍尔木兹海峡
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-07-13 12:18
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQTGtDc0FXQmMzZXdxSVVoLTBzM0dtXzFsZDhJOE9Hckw5NS1BVERkbmhZejFfSzFkS0p1SWIzN3Rld1QwdnJXVmo3Q2xSZ0lMbkhz?oc=5>
-
-### “特朗普、内塔尼亚胡、英法德意四国领导人，被列入暗杀名单”
+### 特朗普：即刻起恢复封锁伊朗 对货物运输收取20%费用
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-07-13 06:37
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE00RTlKRzBLSWlWUGdMTThQSDBBU0o3QnFKeE45dnZ6ZVZWM2s3WkZMRXUtRmZLei11QzZpVzJWQnNXYk9oc05MakRuRnBfbUVadk9Rc3FuZDZKY0hRZVRyYnZaTms?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-07-13 15:51
+- 链接: <https://news.google.com/rss/articles/CBMiuwJBVV95cUxPdmJobGdPZXZPbGtVVzVsMEFwU0xaQVZITG5CS1JCY3lINGVRZVhfUFpSek5mc2hxaUdZX3NtR1dIdVhQNDlCdWVlbE1fSExxQ2hheDhJVGhwcFM3cW4wLUU3LXdEZmxReTFTZEJzaHZmU2oxMGJZQk1YZHJlQTlrNzdsdnlmQ1VMOFJKOWMxME9tLXpKYnd6MUY0c1Ata1dudHMwX09wT19NVzZzMGs4dE5sWFRscVZCcXBnRlRRbFdXU3JrZlRFYXE4Q1JYQlZDY1dHT0VWRmUwZTBudHRvRFBkRkxNSDdGQUxOTEkzU2pBc05jYU5tUWNvM29qR0stdkF5RXhGelY3a2djZVZpQXI4ZVZid2xTdW5zUzQzeExrbWdLM2JhcjB1T01mRGJ4V205bWlPeTdLVWs?oc=5>
 
-### 哈梅内伊墓前大乱，特朗普趁机行动，华盛顿这步狠棋，没那么简单
+### 安迪·伯纳姆入主唐宁街几成定局：BBC记者评估中国、特朗普、普京等都会怎样看他
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: BBC
+- 时间: 2026-07-13 09:14
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE93V29qWGpDTjRCUUdaRlViWWpmM01zQ0JGQ0hCUW1xNTB3NkNENUl0cko0UTJaYjduMnI5NHJZU1FDOVAwOWNKYmVEYm81T1piek9KbWN6bUNISlMxaVZvTXpQRk5JUdIBa0FVX3lxTE9rS1ZpQkN5UVE4c1FPYVhwY2hUNjVYeDFWd0RaU1dyMkFienFtci1YOGFaQlZ4Qk92VmVJWlE3UmczSWdVVEZnY1FxX0tVbkw4eHdyUFBTNmJFYU9sd0VDNjdvcC1yXzNVeldv?oc=5>
+
+### 特朗普称美国将恢复“针对伊朗的封锁”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 东方财富
+- 时间: 2026-07-13 14:29
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFAya1RhWTNRaWYyVHhOSzdPUEFZQkRKODVyd25oazluMGZRTl84bDVVb1dQVE1ycW52UVpNMG9BZ1dEWkhoZkxrcmppd3lYbWZPNUtzc04zcWdJeU5uYmdRNA?oc=5>
+
+### 伊朗公布13人复仇名单，特朗普已提前立下遗嘱
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 手机网易网
-- 时间: 2026-07-13 09:04
-- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTFBmVVc4NFZJVVJmaHg0OUpiV0lSQU43Wkp1S1NfbjlSSWM1alJtMmhxQmhIRjNGd1F4QXpHWGgxSFk3YTFmOEwyVHVBelRxeUxuTExnemd4eWktRUpSaXZlU1V3?oc=5>
+- 时间: 2026-07-13 16:01
+- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTFAwYm42aEk4bXF3UVlMMVg5dkRmdkJLZ1hyRXVXaXE0Z0NFQVJUZDBkMmpqVkVDalJuaWp3U1hrWEh1aTZWY3R2ZS1jX05ieU5CcFJ5MXkwTVkzaUJiSXVVWlhR?oc=5>
 
-### 伊朗媒体公布13人复仇刺杀名单 特朗普内坦亚胡成目标
+### Treasurys Selloff Gains Momentum as Trump Revives Blockade -- Market Talk
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-07-13 16:23
+- 链接: <https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdGp0ZXFxT3lEZDBIMXphX3U0SkdpeDNUMFFYMTZiZUQ4RUE4Y0t0X3VkTVlmZG52OEpTQnp5VXEzdnlGcFJ4U25hR3NkZHRSSlM3MDQyMUY5Z0FhYWFUWUVEZzNrdU9uaHhka3Vza1pqeWVVdExja0VWM210WEp5UlVGVGNQcUhJOTBqQ1h4NHBTU242R21xSDdlM3pNM3lSNUMzRi12ZHpnQVFLOHJoUVhkcmRJcXM2?oc=5>
+
+### 特朗普：美国将接管霍尔木兹海峡安全 并向使用国家收费
+
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: 8world
-- 时间: 2026-07-12 23:21
-- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxONnBWZkl2Q2NGOE0zZXU3RW45eXl6bE5FV3c0WWNLeDVfMzk2aW9vUjY2TkFBQXBqanp3clI5aXpBOWlxck0xQmtVZmdQSFc4dTJ4akxHN2tjeUVfNlRjVGY0djBDblJweGJveEk0SlIzWjhWY3RlUnR2Qkt1emo1ODdORXA1dGVCRUI0NXNVcWx0ZDNVaFB1WEJ0d2lKenMw?oc=5>
+- 时间: 2026-07-13 13:57
+- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE9sV0NLVTItcGU4MlFWenNQT0xDeHEzSmE2VUlyUHBOWHE5WkJaVmNyNzVFMFFHMjVjd1JEZjNPd0dXRVJGVEtnTHhtVDcxb2ZwcVFWdmpnejB0WmliaHFzNTRn?oc=5>
 
-### 特朗普称要接管霍尔木兹海峡
+### 格雷厄姆死因初判主动脉破裂 病发前曾与川普通话
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 新蓝网
-- 时间: 2026-07-13 13:04
-- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE1pREd2RW5JeEk3NElidVMzamNSWUNGS0tvR3lVb082QnhyRURpZHl6UnJfSVpoa3UyVW84ekRfNFVKNE8yTmJNb05pWnRQRDg?oc=5>
+- 场馆: 文学城
+- 时间: 2026-07-13 14:35
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1DQURla3UzOEFNZ1dSblB4UGYtWm5oYmVNR0tSV19JRWZ3VXpvcnJiczdaSVZCbjcyUTM1TEV5cUhXeThrTlJQNVpMc3NKb3RFaS1lLW9jTElEbE1SUVF1S0I4dTJUclBV?oc=5>
+
+### 特朗普宣称美国为“霍尔木兹海峡守护者”，寻求对所有货物收取20%的补偿
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-07-13 14:50
+- 链接: <https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRTByYWxZT0hlYWJzQ095OE5wUjJvLWxJTldQS0hfaUVacEE5bHNsTVFnQVJqR1NBeXNUWnlGem5rb1NJUThMYUtsbndCa011V2s4akF3Nk9veTNqYXotVXJLOGVsWm5lUnhuVXhwRjNMZDVrYTFxZzBLZVpyNUxINHM3SjRFNUVmVFpqenAwZmhHajN4V25OdlJhZzNBNW5VeWlkbEhBRDU?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-13 16:54  (15 条)
+
+- **蔡徐坤** | 蔡徐坤官宣亚洲巡演首站澳门 <https://k.sina.com.cn/article_7879923704_m1d5ae17f803301uj6y.html>
+- **蔡徐坤** | 是大事！@蔡徐坤 新演唱会真的来了，《DEADMAN》正式升级为「THE DEADMAN」… <https://k.sina.com.cn/article_5617768139_m14ed856cb03301sb9c.html>
+- **周杰伦** | 周杰伦近期会发新歌或开演唱会吗？ <https://k.sina.com.cn/article_7879776328_1d5abd848068020zuc.html>
+- **特朗普** | 特朗普让全美降半旗志哀，但有人笑了 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5IU2Y0LVJTYU1wZG02XzFwN2ZLUzc4VlhaTmQxejc0dXZGUndJRll3enRmN1MwVUhkV01ic0NXRHliZ0FGX3NPZWZQUDg?oc=5>
+- **特朗普** | 谁接替格雷厄姆 特朗普称有“属意人选” <https://news.google.com/rss/articles/CBMif0FVX3lxTE1KRnZWbzZaSzVjZDlMNHhtOThYT1JiODFNRlFDX2M2YWJZa1daejQzSWVRSHZJZWdTNUVtcUZDQThfNmZNd0tMLXU1emczMjJNQ3BscVRFSUdFTXdfbmh0TW9HNnRNdzV3UHIxUHNRTWpzaWlPYi1sNHJiRmFGVHM?oc=5>
+- **特朗普** | 特朗普宣布重新封锁伊朗，对霍尔木兹海峡货运收取20%“保护费” <https://news.google.com/rss/articles/CBMieEFVX3lxTFB4UXNPQjFudmtUMEJBcmt0d2JPQTVjOEczdHQyM0tXZDJyQkVuVFFRTnZIcmtuY1EtbzBmc0NVUS04MTV6STkwYnc5Y2FIZlV5SVB1cDRGckdZUTJTczhqcDVsVFViOUFSd1lUQkpDZXN1WXA3aUpzWQ?oc=5>
+- **特朗普** | 特朗普称将收取霍尔木兹海峡货运20%费用 <https://news.google.com/rss/articles/CBMipwFBVV95cUxPMmFQMkJTUVhfeEZ3TWxQZWthb05WVjRGQTc3d2JvZGs0VG0zTGFpTHNOUVYwY0xYUFBiMk9fbEdlakktU3BIb2hqSVB2Z1FCeHpfUnJFU0hFT0RETXpLaEFPRThzdi12Rl8zbGlkTVdNLWNRazhjdWJxakEwOXBrUEpsaU0yUHc1ZDVCTjR0S0tHUUo5WlVvTFl4QmFJajF0di1wYzhBRQ?oc=5>
+- **特朗普** | 特朗普：即刻起恢复封锁伊朗 对货物运输收取20%费用 <https://news.google.com/rss/articles/CBMiuwJBVV95cUxPdmJobGdPZXZPbGtVVzVsMEFwU0xaQVZITG5CS1JCY3lINGVRZVhfUFpSek5mc2hxaUdZX3NtR1dIdVhQNDlCdWVlbE1fSExxQ2hheDhJVGhwcFM3cW4wLUU3LXdEZmxReTFTZEJzaHZmU2oxMGJZQk1YZHJlQTlrNzdsdnlmQ1VMOFJKOWMxME9tLXpKYnd6MUY0c1Ata1dudHMwX09wT19NVzZzMGs4dE5sWFRscVZCcXBnRlRRbFdXU3JrZlRFYXE4Q1JYQlZDY1dHT0VWRmUwZTBudHRvRFBkRkxNSDdGQUxOTEkzU2pBc05jYU5tUWNvM29qR0stdkF5RXhGelY3a2djZVZpQXI4ZVZid2xTdW5zUzQzeExrbWdLM2JhcjB1T01mRGJ4V205bWlPeTdLVWs?oc=5>
+- **特朗普** | 安迪·伯纳姆入主唐宁街几成定局：BBC记者评估中国、特朗普、普京等都会怎样看他 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE93V29qWGpDTjRCUUdaRlViWWpmM01zQ0JGQ0hCUW1xNTB3NkNENUl0cko0UTJaYjduMnI5NHJZU1FDOVAwOWNKYmVEYm81T1piek9KbWN6bUNISlMxaVZvTXpQRk5JUdIBa0FVX3lxTE9rS1ZpQkN5UVE4c1FPYVhwY2hUNjVYeDFWd0RaU1dyMkFienFtci1YOGFaQlZ4Qk92VmVJWlE3UmczSWdVVEZnY1FxX0tVbkw4eHdyUFBTNmJFYU9sd0VDNjdvcC1yXzNVeldv?oc=5>
+- **特朗普** | 特朗普称美国将恢复“针对伊朗的封锁” <https://news.google.com/rss/articles/CBMiYEFVX3lxTFAya1RhWTNRaWYyVHhOSzdPUEFZQkRKODVyd25oazluMGZRTl84bDVVb1dQVE1ycW52UVpNMG9BZ1dEWkhoZkxrcmppd3lYbWZPNUtzc04zcWdJeU5uYmdRNA?oc=5>
+- **特朗普** | 伊朗公布13人复仇名单，特朗普已提前立下遗嘱 <https://news.google.com/rss/articles/CBMiYkFVX3lxTFAwYm42aEk4bXF3UVlMMVg5dkRmdkJLZ1hyRXVXaXE0Z0NFQVJUZDBkMmpqVkVDalJuaWp3U1hrWEh1aTZWY3R2ZS1jX05ieU5CcFJ5MXkwTVkzaUJiSXVVWlhR?oc=5>
+- **Trump** | Treasurys Selloff Gains Momentum as Trump Revives Blockade -- Market Talk <https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdGp0ZXFxT3lEZDBIMXphX3U0SkdpeDNUMFFYMTZiZUQ4RUE4Y0t0X3VkTVlmZG52OEpTQnp5VXEzdnlGcFJ4U25hR3NkZHRSSlM3MDQyMUY5Z0FhYWFUWUVEZzNrdU9uaHhka3Vza1pqeWVVdExja0VWM210WEp5UlVGVGNQcUhJOTBqQ1h4NHBTU242R21xSDdlM3pNM3lSNUMzRi12ZHpnQVFLOHJoUVhkcmRJcXM2?oc=5>
+- **Trump** | 特朗普：美国将接管霍尔木兹海峡安全 并向使用国家收费 <https://news.google.com/rss/articles/CBMiYkFVX3lxTE9sV0NLVTItcGU4MlFWenNQT0xDeHEzSmE2VUlyUHBOWHE5WkJaVmNyNzVFMFFHMjVjd1JEZjNPd0dXRVJGVEtnTHhtVDcxb2ZwcVFWdmpnejB0WmliaHFzNTRn?oc=5>
+- **Trump** | 格雷厄姆死因初判主动脉破裂 病发前曾与川普通话 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1DQURla3UzOEFNZ1dSblB4UGYtWm5oYmVNR0tSV19JRWZ3VXpvcnJiczdaSVZCbjcyUTM1TEV5cUhXeThrTlJQNVpMc3NKb3RFaS1lLW9jTElEbE1SUVF1S0I4dTJUclBV?oc=5>
+- **Trump** | 特朗普宣称美国为“霍尔木兹海峡守护者”，寻求对所有货物收取20%的补偿 <https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRTByYWxZT0hlYWJzQ095OE5wUjJvLWxJTldQS0hfaUVacEE5bHNsTVFnQVJqR1NBeXNUWnlGem5rb1NJUThMYUtsbndCa011V2s4akF3Nk9veTNqYXotVXJLOGVsWm5lUnhuVXhwRjNMZDVrYTFxZzBLZVpyNUxINHM3SjRFNUVmVFpqenAwZmhHajN4V25OdlJhZzNBNW5VeWlkbEhBRDU?oc=5>
 
 ### 2026-07-13 14:17  (13 条)
 
