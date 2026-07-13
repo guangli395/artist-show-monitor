@@ -1,68 +1,68 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-12 23:23**
-- 本轮扫到 6658 条, 新增 **7** 条
+- 最近更新: **2026-07-13 01:03**
+- 本轮扫到 6665 条, 新增 **7** 条
 
 ---
 
 ## 本轮新发现 (7 条)
 
-### 蔡徐坤「THE DEADMAN」演唱会的嘉宾都有谁？
+### 谜底下的浪漫！盘点蔡徐坤演唱会暖哭粉丝的7个细节 | WOAH.MY
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd848068020ove.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019083ql0.html>
 
-### 王俊凯在周杰伦演唱会上还唱过哪些歌？
+### 戴比尔斯珠宝相伴蔡徐坤开启2021个人巡回演唱会
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923015_1d5ae154701901ev3a.html>
+
+### 2025蔡徐坤上海演唱会（门票＋时间＋地点＋购票入口）信息一览-大河票务网
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923015_1d5ae154701901ev0i.html>
+
+### 2025蔡徐坤成都演唱会（门票＋时间＋地点＋购票入口）信息一览-大河票务网
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923018_1d5ae154a01901eb8s.html>
+
+### 周杰伦为《功夫女足》演唱的主题曲叫什么？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd848068020oyy.html>
+- 链接: <https://k.sina.com.cn/article_7879848925_1d5acf3dd06801o7pw.html>
 
-### 特朗普：1000枚导弹已瞄准伊朗
+### 周杰伦为《功夫女足》创作的主题曲何时发布？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-11 07:09
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBRSUlnVm15ZFhyd1BCUzVUTXZGeGRaaGxyNUZrY1o5MVEzLXkwaGNPTjRwSzVwaENtcUZYSTE1cGhsMTFmNE5nSHh0OA?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879848925_1d5acf3dd06801o7og.html>
 
-### 【环球财经】特朗普坚称霍尔木兹海峡“是畅通的”
+### 疯了，女足狂轰4000万票房，刘嘉玲佐藤健加盟，世界杯助阵剑指30亿，周杰伦还悄悄献唱了主题曲，这波操作直接把情怀拉满
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-12 22:11
-- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxONVV5NGdxQjBKVmhCa2xQSlJNbkxxdmxDMDFxYS05OU1oRVR4X0c1WlZxX1BQWVMxX3lTQ001TmlvUEhDWXFKTU5wb0ktUGxXVnZxbmt4WERBWDh1MFQ4U0ZheXRuVHhQUHEtbzZVZ3Z1NkZYc1FYOEtpN0Z4VWFQZA?oc=5>
-
-### 重要盟友格雷厄姆突然去世，特朗普急发声
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-07-12 12:33
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE1vT1FBZlh2cEVpMDBfRjl5ZVduWUd3bmhJeFdWTGxYS1otS3hTd0toNlIxSnlDVlFSUFFCZTNXTldjWFRBV1lrVXY5UDh1SXdwNi1WazBBc2lOWS0wRnVLZFJGdWQwX3NPcTFxTV91UlMtcENm?oc=5>
-
-### 特朗普盟友格雷厄姆猝死 曾鼓吹对伊朗开战
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-07-12 12:43
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFB6NlpDM1laVmQyY0NFMlh2MlhDdjJpUUtFUl9ac2ZVNklIT1UtMTNyT0ZjalBwaGJSS056Q0pfc19acUZfMkZaLUdjamZJN0RoNzU5VVRVY2RaTGdPX3hjN2hKQU4?oc=5>
-
-### 特朗普曾扬言封锁 美加大桥7月27日通车
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-07-11 13:54
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBIOWI2MFlmLTVkVzFZM2VVOG14TG5EQUxVbzVTSnl6ZjZJb3VPY3VIQ0FWOXJqOFdQdUF6c1NkRlltYWNKeTRHa09NcFJMSUFXeVdGNVBNZm11bkthbzUtc0hCRWdfZw?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019083qiy.html>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-13 01:03  (7 条)
+
+- **蔡徐坤** | 谜底下的浪漫！盘点蔡徐坤演唱会暖哭粉丝的7个细节 | WOAH.MY <https://k.sina.com.cn/article_7857201856_1d45362c0019083ql0.html>
+- **蔡徐坤** | 戴比尔斯珠宝相伴蔡徐坤开启2021个人巡回演唱会 <https://k.sina.com.cn/article_7879923015_1d5ae154701901ev3a.html>
+- **蔡徐坤** | 2025蔡徐坤上海演唱会（门票＋时间＋地点＋购票入口）信息一览-大河票务网 <https://k.sina.com.cn/article_7879923015_1d5ae154701901ev0i.html>
+- **蔡徐坤** | 2025蔡徐坤成都演唱会（门票＋时间＋地点＋购票入口）信息一览-大河票务网 <https://k.sina.com.cn/article_7879923018_1d5ae154a01901eb8s.html>
+- **周杰伦** | 周杰伦为《功夫女足》演唱的主题曲叫什么？ <https://k.sina.com.cn/article_7879848925_1d5acf3dd06801o7pw.html>
+- **周杰伦** | 周杰伦为《功夫女足》创作的主题曲何时发布？ <https://k.sina.com.cn/article_7879848925_1d5acf3dd06801o7og.html>
+- **周杰伦** | 疯了，女足狂轰4000万票房，刘嘉玲佐藤健加盟，世界杯助阵剑指30亿，周杰伦还悄悄献唱了主题曲，这波操作直接把情怀拉满 <https://k.sina.com.cn/article_7857201856_1d45362c0019083qiy.html>
 
 ### 2026-07-12 23:23  (7 条)
 
