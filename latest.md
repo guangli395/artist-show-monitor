@@ -1,78 +1,62 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-13 22:00**
-- 本轮扫到 6759 条, 新增 **8** 条
+- 最近更新: **2026-07-13 23:01**
+- 本轮扫到 6764 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (5 条)
 
-### 周杰伦昆凌这次观赛是否为新专辑预热？
+### 演唱会门票团购怎么选？2026最新攻略：渠道、优惠、避坑全解析
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd8480680212z8.html>
+- 链接: <https://k.sina.com.cn/article_7880068305_1d5b04cd10680244z2.html>
 
-### 特朗普称美国将打击伊朗的皮克克斯山核设施
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: Al-Monitor
-- 时间: 2026-07-13 21:36
-- 链接: <https://news.google.com/rss/articles/CBMirgFBVV95cUxQc0JNM2l0UVZ1VDJyS2lrQjB6Umg2VWRGYVo5NldJMGRENXlweGxOZmNFMVByY19wS3Z3WV9ic2w4VGZiSm5qdWhlbmZlWjN3LTdnbTQ5VklBRHdFT19HZWZScTlEclV1T3g3VWtCcUFibzI0WFVXZnhfME1HVE4zbm42RTVucXBTZmhUcklSLUpaMGY2UGk1SE9nMXVqRHBnMVlWeWVxZUNwcXJSSFE?oc=5>
-
-### 美媒：特朗普已通知国会伊朗战事重新爆发
+### 特朗普铁杆盟友去世，死因曝光！他与内塔尼亚胡“里应外合”，煽动特朗普打伊朗！曾长期支持美国动武，包括对伊拉克、阿富汗、叙利亚等
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-13 19:40
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFA4SVRod29rR0xaU1hQcHVtTmZLM3NVWHpraTZZQWFBVW02Nk5ab09aM00tcWlTSjdvNmdpVWkwVldvVnZGMlJrUDh0OXE4U1dEcUpIYlg5cWREQUxENmFUSmNmNEFzSTdVWUdwTFRLbk15UU5XdWE5Yg?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-07-13 03:04
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBTT1BkMGxBQWlZVEwwVVBoM0RXMjEtbVZvY25HTENXN3hQRmtLNXZrOS1HeXJIaWxkcFozbkhEU2xZYUY0VDFIX2dpS0tzeUdEZTRSc3RidzJjRE5rVEFzS2VXd2l4SkVsRnZjX3dXZmk5aXlrNFBkag?oc=5>
 
-### 伊朗新任领袖誓言为父报仇 特朗普公布倘若遇刺的报复方案
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财新
-- 时间: 2026-07-13 12:58
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5hdmRuZkVfcl9SZ0o0MktYNjlIY3h6V0V3MmNuZVRXUDdqQ2k1U3hTaGF6U1o2dzJBblFad1VJczAxOUZfanY1UVo3MUNMOTJSa0hRSVJFYzNmOUYxR3JLNXdsN1hwMDBOY1E?oc=5>
-
-### 美对伊实施海上封锁！特朗普：战事重新爆发；油价涨10%；扩大消费！国务院发文；中国首个禁售燃油车省份确认；人大撤销蒋方舟硕士学位丨每经早参
+### 特朗普总统宣布对伊朗重新实施制裁，推高原油价格；美联储理事沃勒发表鹰派言论，导致长期利率上升，美元继续走强，兑日元升至162.48。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 每日经济新闻
-- 时间: 2026-07-13 21:52
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BR2FCQlNwV3hEcTZPOEdYT0l3dk9YQ1Z5ZHBoa3ZTSFNZOW5JWFpiMnF0Xzc4U0lXNHhXbm1EX1p6eVdBZVZnU0E3M25vWm4yVWNHQTgweEIwSjJPd0RoaXZsYlcyUQ?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-07-13 21:08
+- 链接: <https://news.google.com/rss/articles/CBMisAFBVV95cUxPU2VqeEpCRHN3Ql9ObG5WX1ZWSmR4bmJPSVRQeTZYNlpodHEyVmZpSUIwNlA3WlhPZUc0VVp1ZG96T3JISXY1OGI4cW1rSXN3YnZRUktFUzZsZUU2U3VNeDhlcGJqMGJQUmRnbGZ6dlNSNExqTDNSaVA2bGdSQ0RNcGFiUkhndGMtQXRYZzV2bERpeE54emxFT3p3N0dSWlpJb1kwbnhZUnBRdUF3RlZVRw?oc=5>
 
-### 日本为何难出特朗普式强势领袖？
+### “伊朗没有通过”，特朗普称美伊谅解备忘录只是一次“考验”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 日经中文网
-- 时间: 2026-07-12 21:04
-- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxQdl9vSERkbzVFNTd6YzBCc1Z0TDRzSGNmUnhoUVRxWldxaDljSXZBakQ5eC0tWTE1ZnlfZmg4Wk0wd1cxc0QzU1gteVU4eWZYTHdFbHNGTy1OV0hiUzdoNnN2WVk5bFRzS2Y1aGFDbVRjaTM0RG05RjZHT00tVDE0YUN3cHd4Z2lCMkkwSDc3Zw?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-07-13 22:06
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9YUlN6WHFyR2Y3dFZhckY2RFlvY0tDYlVOaXFuX1BCYkNJbW96ZFk4OTlkS2VwSnk2bXFxQWNlcFA2VkdyTUswOEplekQ?oc=5>
 
-### 特朗普称美将接管霍尔木兹海峡拟征20%货运补偿费
+### 特朗普宣布将向全国发表讲话
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-07-13 20:58
-- 链接: <https://news.google.com/rss/articles/CBMi3wJBVV95cUxQdkIwUGxQZmJnblNlZ3pSUFNFNUphRjJkTDFWa1FVNEQ1UEZYVV9sTnR6RXpOdFB5QTlRZGlDQ2ZMMmt2WmRFeGVmZlk4TkhsTzczcWloWTlqRDJ2M2o4dnVoR3dzbmJib2lKdmR2c2tjbnZ5RnZDRjEtUkV0d0ZGeXdYN0dRb1B4cVUzRlZpc012U1Ffank0bjFGUzVDZlctbXJ0Q01BS2xIVElhcWFyTGdJc2NIY3BZeWFHYkcxRFZ5Z0xKdXl5cG9wNC00UHBROG1RN1BBV2h4Y05uTUJaekVmMnNlelVKaFByUV9QRUtoQ2JlZFNneVMzQ01pel90V1lZTlpub1djTzZ1cUxwQlZNSVpkOUFrZVZHRTFfelhRd2x6UDUxUHdfSkwtN180QkFuMzR0NWM5Wm5NTFY3SlRneUF5aGdQMDZFSlEwSVN4a3RVTm1OS2Q3d2RuWGs?oc=5>
-
-### 美军周二恢复对伊朗港口的封锁
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-07-13 21:17
-- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbVBNZ1FVWVYta3Y5OGNrVi04VkhLak5qR0prZ2luN25iTFFUWC0zYkpFcGV3V2sxU3Y3ajMwQ0RNemlYaWZYaGFhX0NyeGpqaEt3NzhHUjcwT0NJUVlZbVZ5UFRMMHdXWXRhbzJkVVhlc3lweHpFSFpxdndzZ0JieXJIRzYtZDc3aHZRWkx5SDN2bU05RGpZQVJfLXFBUldwb0RtQWRDajQzUdIBrAFBVV95cUxNVVhOc1dLcUhqR3BLTlNBWnlKX3BpcDVXSExRUmt2aWtCVVN3MlA1NWY3VXMwWkpaVnQ0Q0RjRV9UY04yLVVrV2RNN3lIOFY0VFF1dFZINTJKOUctOV9JZGFLMXc2T0lGVDdaSTMxV3djdVhBS3lIZVpzblJEdW96TVNuRlUzUy1iVmxFVFFQSnA5LW5UTkNvWWRWU2lteGJZc0s4YmhFZDJaa0Fl?oc=5>
+- 场馆: 8world
+- 时间: 2026-07-13 22:38
+- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxOb3pMOENlMTBaOTlHamM5dXBUWHR1VXNTOFEtbF9CUURFNzVGMHlERnIxTHpYSmlGcnQ3VkQ0NEdvR292OEZYblI3TU9xRFBJTnYxS19MUlE0TnBSVnZnOGZUdmFmVG1OZUFZdkpQbFBTajE0LUg1bGlXRmRHaHdnbGNiM0d6OEI5cmFpVTFiaTVoTTAz?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-13 23:01  (5 条)
+
+- **周杰伦** | 演唱会门票团购怎么选？2026最新攻略：渠道、优惠、避坑全解析 <https://k.sina.com.cn/article_7880068305_1d5b04cd10680244z2.html>
+- **特朗普** | 特朗普铁杆盟友去世，死因曝光！他与内塔尼亚胡“里应外合”，煽动特朗普打伊朗！曾长期支持美国动武，包括对伊拉克、阿富汗、叙利亚等 <https://news.google.com/rss/articles/CBMieEFVX3lxTFBTT1BkMGxBQWlZVEwwVVBoM0RXMjEtbVZvY25HTENXN3hQRmtLNXZrOS1HeXJIaWxkcFozbkhEU2xZYUY0VDFIX2dpS0tzeUdEZTRSc3RidzJjRE5rVEFzS2VXd2l4SkVsRnZjX3dXZmk5aXlrNFBkag?oc=5>
+- **特朗普** | 特朗普总统宣布对伊朗重新实施制裁，推高原油价格；美联储理事沃勒发表鹰派言论，导致长期利率上升，美元继续走强，兑日元升至162.48。 <https://news.google.com/rss/articles/CBMisAFBVV95cUxPU2VqeEpCRHN3Ql9ObG5WX1ZWSmR4bmJPSVRQeTZYNlpodHEyVmZpSUIwNlA3WlhPZUc0VVp1ZG96T3JISXY1OGI4cW1rSXN3YnZRUktFUzZsZUU2U3VNeDhlcGJqMGJQUmRnbGZ6dlNSNExqTDNSaVA2bGdSQ0RNcGFiUkhndGMtQXRYZzV2bERpeE54emxFT3p3N0dSWlpJb1kwbnhZUnBRdUF3RlZVRw?oc=5>
+- **特朗普** | “伊朗没有通过”，特朗普称美伊谅解备忘录只是一次“考验” <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9YUlN6WHFyR2Y3dFZhckY2RFlvY0tDYlVOaXFuX1BCYkNJbW96ZFk4OTlkS2VwSnk2bXFxQWNlcFA2VkdyTUswOEplekQ?oc=5>
+- **Trump** | 特朗普宣布将向全国发表讲话 <https://news.google.com/rss/articles/CBMilAFBVV95cUxOb3pMOENlMTBaOTlHamM5dXBUWHR1VXNTOFEtbF9CUURFNzVGMHlERnIxTHpYSmlGcnQ3VkQ0NEdvR292OEZYblI3TU9xRFBJTnYxS19MUlE0TnBSVnZnOGZUdmFmVG1OZUFZdkpQbFBTajE0LUg1bGlXRmRHaHdnbGNiM0d6OEI5cmFpVTFiaTVoTTAz?oc=5>
 
 ### 2026-07-13 22:00  (8 条)
 
