@@ -1,58 +1,168 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-13 01:03**
-- 本轮扫到 6665 条, 新增 **7** 条
+- 最近更新: **2026-07-13 04:55**
+- 本轮扫到 6684 条, 新增 **19** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (19 条)
 
-### 谜底下的浪漫！盘点蔡徐坤演唱会暖哭粉丝的7个细节 | WOAH.MY
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019083ql0.html>
-
-### 戴比尔斯珠宝相伴蔡徐坤开启2021个人巡回演唱会
+### 蔡徐坤的THE DEADMAN演唱会何时启动巡演？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923015_1d5ae154701901ev3a.html>
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801i1ps.html>
 
-### 2025蔡徐坤上海演唱会（门票＋时间＋地点＋购票入口）信息一览-大河票务网
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923015_1d5ae154701901ev0i.html>
-
-### 2025蔡徐坤成都演唱会（门票＋时间＋地点＋购票入口）信息一览-大河票务网
+### 蔡徐坤THE DEADMAN演唱会是否只在中国港澳及海外巡演？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923018_1d5ae154a01901eb8s.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd848068020psy.html>
 
-### 周杰伦为《功夫女足》演唱的主题曲叫什么？
+### 蔡徐坤THE DEADMAN演唱会官方何时公布具体城市？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd848068020pse.html>
+
+### 蔡徐坤THE DEADMAN演唱会首站或定澳门香港
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd848068020pss.html>
+
+### 蔡徐坤的THE DEADMAN巡演具体有哪些城市？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd848068020pry.html>
+
+### 蔡徐坤新专辑制作进度如何，何时发布？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd848068020ps2.html>
+
+### 阿信是否参与《功夫女足》主题曲合作？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879848925_1d5acf3dd06801o7pw.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd848068020r7q.html>
 
 ### 周杰伦为《功夫女足》创作的主题曲何时发布？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879848925_1d5acf3dd06801o7og.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd848068020r7g.html>
 
-### 疯了，女足狂轰4000万票房，刘嘉玲佐藤健加盟，世界杯助阵剑指30亿，周杰伦还悄悄献唱了主题曲，这波操作直接把情怀拉满
+### 周杰伦为《功夫女足》创作的主题曲叫什么名字？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019083qiy.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd848068020qe2.html>
+
+### 周杰伦演唱会上会加入《功夫女足》宣传环节吗？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd848068020ptu.html>
+
+### 周杰伦是否会为《功夫女足》创作主题曲？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd848068020pui.html>
+
+### “特朗普以为中国还得买，等来的却是：谢谢，但不用了”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-07-13 04:01
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1LSGNKUVUyc2txRGUwUjlaUWJnMHNFMW9TRlpfU0dWbjAydFZ2Si1uWWpBczBwRnQ4LU94NjVPYzlfdGduaEQ0T2NOZTdVYmdBVXlaSG42eTI0TlBsd292R08zb19tcW5zNlE?oc=5>
+
+### 越遮掩越翻车！特朗普临时换专机丑闻败露，记者吃传票？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 风闻
+- 时间: 2026-07-13 03:18
+- 链接: <https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wd2VJZDlqeGFkZXN2Q01qeW9SbU5YYXh1MzduWGI5MFpGVWw4VUR3bzRxRFd4MlRJemVVd3lCV1VtcmIxNlRLbV95eDNtOFptakQzN0NPWklEMDQ?oc=5>
+
+### 【环球财经】特朗普坚称霍尔木兹海峡“是畅通的”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: eeo.com.cn
+- 时间: 2026-07-12 23:37
+- 链接: <https://news.google.com/rss/articles/CBMiV0FVX3lxTE9TcDB6RTVIa0M3d2RGRWI3WEpNNVRINVhRR2JnWXh3NEJnQXFOa2t3Ty05QzdQU1ZrTjhYdUdKTUtaRnV5UDctZm5JUDhTYnFpSU9YUHlTcw?oc=5>
+
+### 霍尔木兹海峡冲突症结：特朗普协议中一项措辞不当的条款
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-07-10 02:00
+- 链接: <https://news.google.com/rss/articles/CBMilgNBVV95cUxOdDVFcHJ1RVVrYmc1QllGUFZubUI5bk5JM3ZwdHUtV190RE5MWW51el8tRlF4VXU0WnpsZDFBS3J1VXJiWDFLNEFvSUNlVGNNUzZmdGgzbWpLdmhrenFaVmFicUxNc1hwRjR1Njg2SUZQVTZpR2h5ZHk3ZnYtNU5HVUR6YlpYbEhBSUhvZWtWM1dIams0MTBGc3FGVURaX2psYl9jbWxjWklkZ1p0aVpaQTA4ejNyZlZFaFh4alprZGM5ZG05WWpHdE9QZzFjZ29sZE4tRzc3bXZBdHoyUUJoa3E2d3dMTk5Sd2RBaEhETGw4MmdjV3piTGFiSkZONEEzUnF0MUtSZ0NyVFZ0bEViMGxDR1FDLWM3eFkxNEVrRlBOWnRFZXpxd2ozMV8zbzR3blhrRk8wcFY2VGdSMkpwelhyYklvdlN4RGVyR1ZiY09qT2x0dWhKQ0dyR2ZMRmk0YnQ3NUVoSGVDWDZrQmRsTDBoMlp6eV96NDh2N1lKVUp4VEdIMk9OeU5xNllIZEM0NUNQQWd3?oc=5>
+
+### 特朗普坚称霍尔木兹海峡“是畅通的”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 搜狐网
+- 时间: 2026-07-12 23:59
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNjlkR2t1RmVsU2VJUHI4NkxMaThGV0x6Y3BTZ25KeXJYaTNwM0tBV3AyeXFFRTYtUWNLcEttWVJWRFRmTFhUMzRGWUdpTGxGeUVwZGdmeWFldktoVm9XWTdTcl9YT0NvbTVTSWtQVVF1OHZpMHpDMzBmdGszejc5cERITTJaaE0x?oc=5>
+
+### 特朗普自称物价回落支持率达59% 外媒：油价正在飙升
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 搜狐网
+- 时间: 2026-07-13 03:31
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU3lLT0VsaEc5Z2RjeHJmWWZmRWtQeTVnMEhtZ1IzNWdhcmdsY3g1TVUzeE5ROFg0T3cwdWFJNndxXzJPb2l3MW9IYmxOaWxHazlrNUhqT1pwdTFLQk0zVFBjdXRORzRKaDMtR3JPcWFGTnNXZ2dJOVItcmp2RlZFRkNydU9hb2U1?oc=5>
+
+### 特朗普当众夸中国尊重，盟友傻眼：我们连对手都不如？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 手机网易网
+- 时间: 2026-07-13 02:39
+- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTFBGZ25NMW0tcmI2YUFNdG50dzdySHYxT0Q3LXp4WXhUNDNjRkhzZ0pfXzktYk1mc1BRUW1Yc0s1MEdNQlJ1TDNtOXREcjA0WmVRMEVCOTlkb1ZvbmdFb3pyTDd3?oc=5>
+
+### 白宫对英特尔的押注开始获得回报
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-07-13 03:55
+- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE1tMjgwWHdoUDI3UXQ5c3NfRFA4MWNRamVEbDFwN0hKWi1mQ3VVaEkxb0tKRGJvancyeWdEb1NQSFhWRWR5WC1JRmxqcHpvYWpEQnVGSkVOU2RWU1BJb1JvVGQzaFNJUDhYMDIyQ0ViQVB1UUloNWVPOUpB?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-13 04:55  (19 条)
+
+- **蔡徐坤** | 蔡徐坤的THE DEADMAN演唱会何时启动巡演？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801i1ps.html>
+- **蔡徐坤** | 蔡徐坤THE DEADMAN演唱会是否只在中国港澳及海外巡演？ <https://k.sina.com.cn/article_7879776328_1d5abd848068020psy.html>
+- **蔡徐坤** | 蔡徐坤THE DEADMAN演唱会官方何时公布具体城市？ <https://k.sina.com.cn/article_7879776328_1d5abd848068020pse.html>
+- **蔡徐坤** | 蔡徐坤THE DEADMAN演唱会首站或定澳门香港 <https://k.sina.com.cn/article_7879776328_1d5abd848068020pss.html>
+- **蔡徐坤** | 蔡徐坤的THE DEADMAN巡演具体有哪些城市？ <https://k.sina.com.cn/article_7879776328_1d5abd848068020pry.html>
+- **蔡徐坤** | 蔡徐坤新专辑制作进度如何，何时发布？ <https://k.sina.com.cn/article_7879776328_1d5abd848068020ps2.html>
+- **周杰伦** | 阿信是否参与《功夫女足》主题曲合作？ <https://k.sina.com.cn/article_7879776328_1d5abd848068020r7q.html>
+- **周杰伦** | 周杰伦为《功夫女足》创作的主题曲何时发布？ <https://k.sina.com.cn/article_7879776328_1d5abd848068020r7g.html>
+- **周杰伦** | 周杰伦为《功夫女足》创作的主题曲叫什么名字？ <https://k.sina.com.cn/article_7879776328_1d5abd848068020qe2.html>
+- **周杰伦** | 周杰伦演唱会上会加入《功夫女足》宣传环节吗？ <https://k.sina.com.cn/article_7879776328_1d5abd848068020ptu.html>
+- **周杰伦** | 周杰伦是否会为《功夫女足》创作主题曲？ <https://k.sina.com.cn/article_7879776328_1d5abd848068020pui.html>
+- **特朗普** | “特朗普以为中国还得买，等来的却是：谢谢，但不用了” <https://news.google.com/rss/articles/CBMiakFVX3lxTE1LSGNKUVUyc2txRGUwUjlaUWJnMHNFMW9TRlpfU0dWbjAydFZ2Si1uWWpBczBwRnQ4LU94NjVPYzlfdGduaEQ0T2NOZTdVYmdBVXlaSG42eTI0TlBsd292R08zb19tcW5zNlE?oc=5>
+- **特朗普** | 越遮掩越翻车！特朗普临时换专机丑闻败露，记者吃传票？ <https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wd2VJZDlqeGFkZXN2Q01qeW9SbU5YYXh1MzduWGI5MFpGVWw4VUR3bzRxRFd4MlRJemVVd3lCV1VtcmIxNlRLbV95eDNtOFptakQzN0NPWklEMDQ?oc=5>
+- **特朗普** | 【环球财经】特朗普坚称霍尔木兹海峡“是畅通的” <https://news.google.com/rss/articles/CBMiV0FVX3lxTE9TcDB6RTVIa0M3d2RGRWI3WEpNNVRINVhRR2JnWXh3NEJnQXFOa2t3Ty05QzdQU1ZrTjhYdUdKTUtaRnV5UDctZm5JUDhTYnFpSU9YUHlTcw?oc=5>
+- **特朗普** | 霍尔木兹海峡冲突症结：特朗普协议中一项措辞不当的条款 <https://news.google.com/rss/articles/CBMilgNBVV95cUxOdDVFcHJ1RVVrYmc1QllGUFZubUI5bk5JM3ZwdHUtV190RE5MWW51el8tRlF4VXU0WnpsZDFBS3J1VXJiWDFLNEFvSUNlVGNNUzZmdGgzbWpLdmhrenFaVmFicUxNc1hwRjR1Njg2SUZQVTZpR2h5ZHk3ZnYtNU5HVUR6YlpYbEhBSUhvZWtWM1dIams0MTBGc3FGVURaX2psYl9jbWxjWklkZ1p0aVpaQTA4ejNyZlZFaFh4alprZGM5ZG05WWpHdE9QZzFjZ29sZE4tRzc3bXZBdHoyUUJoa3E2d3dMTk5Sd2RBaEhETGw4MmdjV3piTGFiSkZONEEzUnF0MUtSZ0NyVFZ0bEViMGxDR1FDLWM3eFkxNEVrRlBOWnRFZXpxd2ozMV8zbzR3blhrRk8wcFY2VGdSMkpwelhyYklvdlN4RGVyR1ZiY09qT2x0dWhKQ0dyR2ZMRmk0YnQ3NUVoSGVDWDZrQmRsTDBoMlp6eV96NDh2N1lKVUp4VEdIMk9OeU5xNllIZEM0NUNQQWd3?oc=5>
+- **特朗普** | 特朗普坚称霍尔木兹海峡“是畅通的” <https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNjlkR2t1RmVsU2VJUHI4NkxMaThGV0x6Y3BTZ25KeXJYaTNwM0tBV3AyeXFFRTYtUWNLcEttWVJWRFRmTFhUMzRGWUdpTGxGeUVwZGdmeWFldktoVm9XWTdTcl9YT0NvbTVTSWtQVVF1OHZpMHpDMzBmdGszejc5cERITTJaaE0x?oc=5>
+- **特朗普** | 特朗普自称物价回落支持率达59% 外媒：油价正在飙升 <https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU3lLT0VsaEc5Z2RjeHJmWWZmRWtQeTVnMEhtZ1IzNWdhcmdsY3g1TVUzeE5ROFg0T3cwdWFJNndxXzJPb2l3MW9IYmxOaWxHazlrNUhqT1pwdTFLQk0zVFBjdXRORzRKaDMtR3JPcWFGTnNXZ2dJOVItcmp2RlZFRkNydU9hb2U1?oc=5>
+- **特朗普** | 特朗普当众夸中国尊重，盟友傻眼：我们连对手都不如？ <https://news.google.com/rss/articles/CBMiYkFVX3lxTFBGZ25NMW0tcmI2YUFNdG50dzdySHYxT0Q3LXp4WXhUNDNjRkhzZ0pfXzktYk1mc1BRUW1Yc0s1MEdNQlJ1TDNtOXREcjA0WmVRMEVCOTlkb1ZvbmdFb3pyTDd3?oc=5>
+- **Trump** | 白宫对英特尔的押注开始获得回报 <https://news.google.com/rss/articles/CBMiekFVX3lxTE1tMjgwWHdoUDI3UXQ5c3NfRFA4MWNRamVEbDFwN0hKWi1mQ3VVaEkxb0tKRGJvancyeWdEb1NQSFhWRWR5WC1JRmxqcHpvYWpEQnVGSkVOU2RWU1BJb1JvVGQzaFNJUDhYMDIyQ0ViQVB1UUloNWVPOUpB?oc=5>
 
 ### 2026-07-13 01:03  (7 条)
 
