@@ -1,22 +1,100 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-13 19:59**
-- 本轮扫到 6742 条, 新增 **1** 条
+- 最近更新: **2026-07-13 20:59**
+- 本轮扫到 6751 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮新发现 (9 条)
 
-### 蔡徐坤澳门演唱会官宣，连开两天呈现顶级舞台
+### 在美国股市收盘走低之前，特朗普提议封锁伊朗船只，对霍尔木兹海峡造成影响
 
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1852855013_m6e7052e503302orru.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-07-13 20:28
+- 链接: <https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWXpzcWx4SXo4V2xQMi1lVTJuaUZQUW51dmRMTmdOQVNtclFvMG9kUzVtQXN3enRxX2FZLWhLdFNpVjBHdjFyUTBsOG1fYVl2elNydHpuRFhqeGw5YS1rMDVSWXZKYVNEb2pkdDlxRmoxZTU3bDZGYUNDVHRhWDZ6Z2VpTTEyQzRncnFEY3dENV9kdk9FaXluZnZ3aTM5cC1FVDc4UWJPdWZZczg?oc=5>
+
+### 特朗普：恢复对伊朗封锁 将收取海峡货运两成费用
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-13 19:52
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBmSE1fbFhtZVN1enFGeUpZLVlLZ2JEX1BjdlFMVTQwUDBfbEFpbjl5bU03MFdUVnBfMUI4ZWVsMHlMZklFenlqSHpzU2syRjdBM002SEl0U0p2aWo5WWJESlJKQ1FsRk50ZWt4bG1IRFlUYU9tc2NHSA?oc=5>
+
+### 原油：WTI飙升 特朗普称美国拟对霍尔木兹海峡通行收费20%
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-13 20:38
+- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE9pSzhCLW1qZVNmc2duOEEyeUhnTElraEZWb0R4b2dFU0p5QjVOQ1A5QWI5TnpvZ3RyLTJvQV81ZjlDRmgxaDE2LWZvZWR1OU5RUnA2NWZIaDBFMFRKMzFuaWFwaHNteWlmMmt5ZHBjemRFa3ZfajhCX0tB?oc=5>
+
+### 美媒：特朗普已通知国会伊朗战事重新爆发
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-07-13 19:38
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE5pUlhSSU5UQ2RJUjdxX1FNdGZtZEVhMlJiMDhzZnk3ZUdGT1BTQl9qSk1rTElPOVV5akRRTDI2anlNZU5rV2d6MG9sMHBPS2hrWEZmQ2x1ajFQdVVwNnc?oc=5>
+
+### 特朗普总统恢复对伊朗港口的封锁，称美国将“接管”霍尔木兹海峡，以回应德黑兰袭击船只
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-07-13 16:52
+- 链接: <https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUVR6aWFPUDQzaGNxMWwxODE0cE1pbWV1dHBVdXBncTBaQ2ZuQWhmVVlxbWNmWDhycVpXc3hhZHpyRE9tLUk3Yk1rX3RvR194LUY1aUJIUXEzVnA4R1VpdGRoTUtCZ29aRzliaFN4YkluMlctMEtIeG8yQUtGQjFsd1lZNm00VUhhN29RT09kWWFvRkhQdTR3c2J1LUxnbmtTSWREZHBkR0NxN0Fyb1drRmVTM1NRWndpOU9RcHlXcWdZOGU4LUFRcWszU1R2d3pFNERvM3kySdIB1wFBVV95cUxOUVR6aWFPUDQzaGNxMWwxODE0cE1pbWV1dHBVdXBncTBaQ2ZuQWhmVVlxbWNmWDhycVpXc3hhZHpyRE9tLUk3Yk1rX3RvR194LUY1aUJIUXEzVnA4R1VpdGRoTUtCZ29aRzliaFN4YkluMlctMEtIeG8yQUtGQjFsd1lZNm00VUhhN29RT09kWWFvRkhQdTR3c2J1LUxnbmtTSWREZHBkR0NxN0Fyb1drRmVTM1NRWndpOU9RcHlXcWdZOGU4LUFRcWszU1R2d3pFNERvM3kySQ?oc=5>
+
+### 特朗普宣布：重新封锁伊朗
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新京报
+- 时间: 2026-07-13 14:31
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMeVFFZnVVeUQwa0E4MzJfSUNmRkpXYjk5OHBYaHIxT1ZNdHFsV056S3lTWmxwUVp1eEpYczhCOHk0UjFvUnI5NjdqY0liYmhTbl9PLTRJdTgtbXQ1NlVjd2YxZ3g?oc=5>
+
+### 特朗普：美国将对霍尔木兹海峡货运收取20%费用
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 东方财富
+- 时间: 2026-07-13 20:48
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5dno3S2g3MHRyQnZIdjlxQ0V1cUVRbjIzMUNtNllZT3ZxRk96UHRkTFFzOEpUcmFaZmVFRWJ4RWQ2cTk3Tkg5bHRsbUJIanN5bHBxMWdZRTYyVVEzcmRKVw?oc=5>
+
+### 特朗普称要接管霍尔木兹海峡
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 央广网
+- 时间: 2026-07-13 13:00
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1MQjZBNEVzMGFGcEIzTGNyX0FlOXRJN3BLU041YllJRUtvOWRqbkl6WFk2Vzg0d0ZrbVg4TGRGVm5OYnBQaUV5TzZGUy11UWFHMkdkUmd1a2RicHFGcnc2Y3diRWhVYmNx?oc=5>
+
+### 就职典礼当天投$1万，如今只剩$364？川普官方币跌得只剩“渣”，他却赚了14亿
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 手机网易网
+- 时间: 2026-07-13 19:39
+- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WX21ZeG9XRTZXLS1taXpaNUUtWnNKUmtGbjY0cnkyajNvRDE1TkI1bGtHQUhFSGVCWHBfaFA5Y0JNbmgtUU0xVi1ZZHBGX25yMjc0RHFUTVJjQXdIczJhdWl3?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-13 20:59  (9 条)
+
+- **特朗普** | 在美国股市收盘走低之前，特朗普提议封锁伊朗船只，对霍尔木兹海峡造成影响 <https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWXpzcWx4SXo4V2xQMi1lVTJuaUZQUW51dmRMTmdOQVNtclFvMG9kUzVtQXN3enRxX2FZLWhLdFNpVjBHdjFyUTBsOG1fYVl2elNydHpuRFhqeGw5YS1rMDVSWXZKYVNEb2pkdDlxRmoxZTU3bDZGYUNDVHRhWDZ6Z2VpTTEyQzRncnFEY3dENV9kdk9FaXluZnZ3aTM5cC1FVDc4UWJPdWZZczg?oc=5>
+- **特朗普** | 特朗普：恢复对伊朗封锁 将收取海峡货运两成费用 <https://news.google.com/rss/articles/CBMieEFVX3lxTFBmSE1fbFhtZVN1enFGeUpZLVlLZ2JEX1BjdlFMVTQwUDBfbEFpbjl5bU03MFdUVnBfMUI4ZWVsMHlMZklFenlqSHpzU2syRjdBM002SEl0U0p2aWo5WWJESlJKQ1FsRk50ZWt4bG1IRFlUYU9tc2NHSA?oc=5>
+- **特朗普** | 原油：WTI飙升 特朗普称美国拟对霍尔木兹海峡通行收费20% <https://news.google.com/rss/articles/CBMiekFVX3lxTE9pSzhCLW1qZVNmc2duOEEyeUhnTElraEZWb0R4b2dFU0p5QjVOQ1A5QWI5TnpvZ3RyLTJvQV81ZjlDRmgxaDE2LWZvZWR1OU5RUnA2NWZIaDBFMFRKMzFuaWFwaHNteWlmMmt5ZHBjemRFa3ZfajhCX0tB?oc=5>
+- **特朗普** | 美媒：特朗普已通知国会伊朗战事重新爆发 <https://news.google.com/rss/articles/CBMiXkFVX3lxTE5pUlhSSU5UQ2RJUjdxX1FNdGZtZEVhMlJiMDhzZnk3ZUdGT1BTQl9qSk1rTElPOVV5akRRTDI2anlNZU5rV2d6MG9sMHBPS2hrWEZmQ2x1ajFQdVVwNnc?oc=5>
+- **特朗普** | 特朗普总统恢复对伊朗港口的封锁，称美国将“接管”霍尔木兹海峡，以回应德黑兰袭击船只 <https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUVR6aWFPUDQzaGNxMWwxODE0cE1pbWV1dHBVdXBncTBaQ2ZuQWhmVVlxbWNmWDhycVpXc3hhZHpyRE9tLUk3Yk1rX3RvR194LUY1aUJIUXEzVnA4R1VpdGRoTUtCZ29aRzliaFN4YkluMlctMEtIeG8yQUtGQjFsd1lZNm00VUhhN29RT09kWWFvRkhQdTR3c2J1LUxnbmtTSWREZHBkR0NxN0Fyb1drRmVTM1NRWndpOU9RcHlXcWdZOGU4LUFRcWszU1R2d3pFNERvM3kySdIB1wFBVV95cUxOUVR6aWFPUDQzaGNxMWwxODE0cE1pbWV1dHBVdXBncTBaQ2ZuQWhmVVlxbWNmWDhycVpXc3hhZHpyRE9tLUk3Yk1rX3RvR194LUY1aUJIUXEzVnA4R1VpdGRoTUtCZ29aRzliaFN4YkluMlctMEtIeG8yQUtGQjFsd1lZNm00VUhhN29RT09kWWFvRkhQdTR3c2J1LUxnbmtTSWREZHBkR0NxN0Fyb1drRmVTM1NRWndpOU9RcHlXcWdZOGU4LUFRcWszU1R2d3pFNERvM3kySQ?oc=5>
+- **特朗普** | 特朗普宣布：重新封锁伊朗 <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMeVFFZnVVeUQwa0E4MzJfSUNmRkpXYjk5OHBYaHIxT1ZNdHFsV056S3lTWmxwUVp1eEpYczhCOHk0UjFvUnI5NjdqY0liYmhTbl9PLTRJdTgtbXQ1NlVjd2YxZ3g?oc=5>
+- **特朗普** | 特朗普：美国将对霍尔木兹海峡货运收取20%费用 <https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5dno3S2g3MHRyQnZIdjlxQ0V1cUVRbjIzMUNtNllZT3ZxRk96UHRkTFFzOEpUcmFaZmVFRWJ4RWQ2cTk3Tkg5bHRsbUJIanN5bHBxMWdZRTYyVVEzcmRKVw?oc=5>
+- **特朗普** | 特朗普称要接管霍尔木兹海峡 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1MQjZBNEVzMGFGcEIzTGNyX0FlOXRJN3BLU041YllJRUtvOWRqbkl6WFk2Vzg0d0ZrbVg4TGRGVm5OYnBQaUV5TzZGUy11UWFHMkdkUmd1a2RicHFGcnc2Y3diRWhVYmNx?oc=5>
+- **Trump** | 就职典礼当天投$1万，如今只剩$364？川普官方币跌得只剩“渣”，他却赚了14亿 <https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WX21ZeG9XRTZXLS1taXpaNUUtWnNKUmtGbjY0cnkyajNvRDE1TkI1bGtHQUhFSGVCWHBfaFA5Y0JNbmgtUU0xVi1ZZHBGX25yMjc0RHFUTVJjQXdIczJhdWl3?oc=5>
 
 ### 2026-07-13 19:59  (1 条)
 
