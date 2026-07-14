@@ -1,32 +1,87 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-14 10:40**
-- 本轮扫到 6808 条, 新增 **2** 条
+- 最近更新: **2026-07-14 12:06**
+- 本轮扫到 6816 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (8 条)
 
-### 特朗普的“霍尔木兹税”正在重创澳元，今夜美国CPI成多头最后希望
+### 蔡徐坤被称“下沉市场”人气王，签售会单日涨粉12万，为何不追热点反成抖国宝？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801c9wk.html>
+
+### 演唱会门票团购值不值？2026最新攻略：渠道、优惠、避坑全解析
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7880068305_1d5b04cd10680248p0.html>
+
+### 特朗普强硬重启对伊战事，共和党、白宫双双内讧
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-14 02:14
-- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVTdydGp1eG9NZ2FTX0dzaHByRmlNNWM3cDZpOE9zR3F2RUNwT3pyNWZWRi1SVUM4TW5SUWdMUzBuWkFpejV4dUhHRzNZQWdHRVltY3FYQlRHWFRHdGVyYll0SVVMTXAzdVpFSGo3NHlqekhTcWxxUmdSOG9ua0hGc1pkNjYxYnFDb1hObGl5Tk0xSnBWV2pvZEhpdVA1ZzdXWkw5U3M1THVYS2VGZlhsaGJGVUg4TVZTSTlOMzJGYktmMC1ILTVTZ0lJRURVY29sZGhkZlZEYWh3RzVpNHc?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-07-14 02:49
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBrVjF0eENlVnRnYk5mVVVoS01HUzEyekFCMXZ5OURHSmc0SVh4cjBSQjhKbmJZTG1YWGtLaWxEZ29CVXVpWjVwLTl6Slc?oc=5>
 
-### 特朗普已通知国会伊朗战事重新爆发
+### 美联邦法官推翻特朗普诉国税局案 指和解协议不具备法律效力
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-07-14 00:16
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9GaUptUXNSQm1nYVljSVNlcWU4TURoU0VGb0ZlNzZiN0dmbzl2WmY0RVA5SzU0MTVrTXhRaDlualNGdWp5enhmQlhQdUczdVNGZ19veXZSankzMXVfU3h0aA?oc=5>
+- 场馆: 财新
+- 时间: 2026-07-14 10:51
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE93cTQ5dkhxWlQxSFdWYV91MmZkdmxvMThFRFJWOUZkQ085WFlPUWZCejZQY3ZTRkN1TnhTMDRXdjh1UzNlbEZFV3Voa3ZKekRBYWhEWGkzNWlzTlR4bGNaN05XYzlicFNBa2c?oc=5>
+
+### 拜登预言成真，让特朗普干完这4年，美国将成为“世界老二”？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 手机网易网
+- 时间: 2026-07-14 11:24
+- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE02SnJ0ckRWM2Jkc1ZRY0JmV3pWQmxzRjFpU0JvWGY5TVlkaUxQV1hlMDdVeXNNeXlDVExvYldKT3g3X3JVamYtODFSaExuNV94c0E1M3J0VXBoMFFJVjhzamJn?oc=5>
+
+### 特朗普称中东盟友应支付保护费
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-07-13 22:10
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE1xejRHdk03LUZBREhyczNRd2MwQjdVQklhS2VSTi12YTdGRDhJaFYxVktac2R1Sl95bEZpQWVUbmNiQ1h2VXFqYjNBVWFyNjVDWVhoOVppQWRBRnhUMUJIX2dKVkZNYWN2NmxldE41RmZSSXh1?oc=5>
+
+### 特朗普点名沙特、卡塔尔、阿联酋等国，称应给美国交保护费
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中国网新闻中心
+- 时间: 2026-07-14 06:46
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTFBBYndlWU5vdVJ1MzJqTWZLNjcxUXI5Rk1KbUtDZWk3QkczQmhFN2NmX29uUTdzQ0tpbDN3aXo3THBOQ3RjTGlYY0Z3bWVIVlhoVVZSX05ZZ0xFYklmR2dGZ0xsZFk4OHAyQUJ3?oc=5>
+
+### 特朗普获得一项“大奖”，但可能高兴不起来
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-07-14 01:31
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFB1TlVBSEp5SU8zWnpFOUlmUktkRjBmdU9jVTk3TXYxQ09PMXRkQndzNk93QlFuRk9YMjZfa2VCNk1vcDg2LTZYSEFUeG8?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-14 12:06  (8 条)
+
+- **蔡徐坤** | 蔡徐坤被称“下沉市场”人气王，签售会单日涨粉12万，为何不追热点反成抖国宝？ <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801c9wk.html>
+- **周杰伦** | 演唱会门票团购值不值？2026最新攻略：渠道、优惠、避坑全解析 <https://k.sina.com.cn/article_7880068305_1d5b04cd10680248p0.html>
+- **特朗普** | 特朗普强硬重启对伊战事，共和党、白宫双双内讧 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBrVjF0eENlVnRnYk5mVVVoS01HUzEyekFCMXZ5OURHSmc0SVh4cjBSQjhKbmJZTG1YWGtLaWxEZ29CVXVpWjVwLTl6Slc?oc=5>
+- **特朗普** | 美联邦法官推翻特朗普诉国税局案 指和解协议不具备法律效力 <https://news.google.com/rss/articles/CBMiakFVX3lxTE93cTQ5dkhxWlQxSFdWYV91MmZkdmxvMThFRFJWOUZkQ085WFlPUWZCejZQY3ZTRkN1TnhTMDRXdjh1UzNlbEZFV3Voa3ZKekRBYWhEWGkzNWlzTlR4bGNaN05XYzlicFNBa2c?oc=5>
+- **特朗普** | 拜登预言成真，让特朗普干完这4年，美国将成为“世界老二”？ <https://news.google.com/rss/articles/CBMiYkFVX3lxTE02SnJ0ckRWM2Jkc1ZRY0JmV3pWQmxzRjFpU0JvWGY5TVlkaUxQV1hlMDdVeXNNeXlDVExvYldKT3g3X3JVamYtODFSaExuNV94c0E1M3J0VXBoMFFJVjhzamJn?oc=5>
+- **特朗普** | 特朗普称中东盟友应支付保护费 <https://news.google.com/rss/articles/CBMidEFVX3lxTE1xejRHdk03LUZBREhyczNRd2MwQjdVQklhS2VSTi12YTdGRDhJaFYxVktac2R1Sl95bEZpQWVUbmNiQ1h2VXFqYjNBVWFyNjVDWVhoOVppQWRBRnhUMUJIX2dKVkZNYWN2NmxldE41RmZSSXh1?oc=5>
+- **特朗普** | 特朗普点名沙特、卡塔尔、阿联酋等国，称应给美国交保护费 <https://news.google.com/rss/articles/CBMia0FVX3lxTFBBYndlWU5vdVJ1MzJqTWZLNjcxUXI5Rk1KbUtDZWk3QkczQmhFN2NmX29uUTdzQ0tpbDN3aXo3THBOQ3RjTGlYY0Z3bWVIVlhoVVZSX05ZZ0xFYklmR2dGZ0xsZFk4OHAyQUJ3?oc=5>
+- **特朗普** | 特朗普获得一项“大奖”，但可能高兴不起来 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFB1TlVBSEp5SU8zWnpFOUlmUktkRjBmdU9jVTk3TXYxQ09PMXRkQndzNk93QlFuRk9YMjZfa2VCNk1vcDg2LTZYSEFUeG8?oc=5>
 
 ### 2026-07-14 10:40  (2 条)
 
