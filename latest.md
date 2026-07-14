@@ -1,43 +1,27 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-14 21:28**
-- 本轮扫到 6851 条, 新增 **7** 条
+- 最近更新: **2026-07-14 22:30**
+- 本轮扫到 6857 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (6 条)
 
-### 伊拉克新总理访问白宫，特朗普总统谈及美国公司的石油交易
+### 特朗普：将用与海湾各国贸易投资协议取代霍尔木兹海峡货运费
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-07-14 15:30
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aSGUyR0ViV0o0YXBJaVNkWXZGM05NVmNERHZTaWl1M05SUTdBOU9UTEdMcUFKTVBGRkhaTDIzUEExWWsya3IxOFhSZzB5bTljNnlyM0RBSm1qLTRnVXc?oc=5>
+
+### 特朗普总统在白宫会见伊拉克新任总理阿里·扎伊迪
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 美国之音
-- 时间: 2026-07-14 21:07
-- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMm9XY3pRcU5hajhjSk1ILUdtTHhJRDdiVGFoVlFtQjdWWjJNcHRUdXNHM2xSYTNzVWh1RXpTYlBIUms3UFh0Wkt3MTFXZ25fYk1JWldwRWl1RkFLRDVoXzJHVTNMbU1UaG1kdmhhZ1B4aVNLWmVvSm1EUXRoZjVOcGw5TXdvU3FjWERFbUMyMTV1MGRKSDhHMi1pdFJvdTN6cVJ5UHA1czZYWFFYbkNpaXQ1VWFXSXFCc3h2U25SSl9aZ1ctbjdKbzZERDVUb00wMEHSAdQBQVVfeXFMTTF4X2hfdG1QMGJrVWFUcEpyM3kxMlVvNjNYWGlHamRoZ2ZCb3NBVUJtcVRyRWV6MERIbGttanFqY21uWkc1NGlZRUZjQURZT1pXRXpDNkdRSjlIZkpfaG42TFpnQTVYZV9UYnBVMlZpNUhsRUtvNVdXQ0lGT2x1T2VQeENsbWVJcUVSTFVuZy1IUHZhSFJDbDVsRTg0d0lENUw2bTdxZlZ0X1lCUURMMGxEVWdJWk5Pa3ZTLU5McUtINkRiMXBDMUZvektSNWJ2WDFiRmQ?oc=5>
-
-### 特朗普在椭圆形办公室与伊拉克总理发表讲话。
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-14 15:58
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBmdGQwSHZ6Q09KMm9Dbk8tclFuLWpOV0JUSnVNWjc0TDFmSHVFNDgzeC1fdzJMVFdsVzJiNnRtNTJYTUdQQzZQNUxIQQ?oc=5>
-
-### 特朗普宣布与伊拉克将达成"大规模"石油协议，伊拉克总理：美军9月底前须撤离
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-07-14 20:10
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BcUQ4M0NhQ29hREdLU3VPWUNXZDFXVVdLQmEzYzM3aFV4TXg0NkFqNVJRazBWNlVob2xxMkxQRmNNOUZTSV85OExQQlZmLWpjblZJ?oc=5>
-
-### 562万美元到账，她正式收到特朗普支付的性侵与诽谤赔偿金
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-14 20:42
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE15WjdoS3VnM1lSbllJWjJSdVJ6VDZobjZuSEtOemNJMVpvcWRtalJoY3ZPbldDenJxdUU0N09LTUpta2FJRUlkTDdnMlk?oc=5>
+- 时间: 2026-07-14 22:18
+- 链接: <https://news.google.com/rss/articles/CBMinwFBVV95cUxQVExKQ2tjRUpybWlBRklYSklwYlJaTXJrdXhGcFhIV3c3N0NPSEpTeHJ3dGN4R2dSY0VweGIwS0FWa0dkRTk5eGtBSzNVZ0tsNHFkVElBVUtLekRNcUxNS2c5cGdhdXJUUzdTS21KUDZMWnpucGI3ZFg4c2ZzS1d6cUV5VG5HWVdWRG9GXzVWNVk3NFFPemN5TEdzaGtuOVnSAaIBQVVfeXFMTkxqLTQ3UHc3SUZkZHdqMXZSalN3TlVyUUUyWFFhQjlJQnZpa1NxTGdVdUlfUzZTYTZvdEJUMWF1b05IREtWSjM4eGlBT3FnWGV2NTFTcklGRnJBbG9sSjVMMlpMYnZUX3BzX2Nqb1E2ZWFiNmpCZW1wbXc4UFl2dmowZEtOeDRpNmZhQ1BVVU1sa0IwTG4wWHZRczhYMTFpbVVB?oc=5>
 
 ### 特朗普宣称将与伊拉克达成“庞大”的石油交易
 
@@ -45,28 +29,45 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-07-14 17:25
-- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNUJtMDQyVThNUUZWYlY1OUN6ZWNFMzZLVXNGYnJzMkF3Wk5ncEVhN25JLUZxSEIxSU5DYW9La21aZkZsQjlyYkUtOGNWWl9NSVNqcENta3R5VTVOM2JsLVM1a2g5dkljcmxZM3lnQWJETmw0TXNBdHhiMkJUMGYzMUwtT1E4WFJvcGF1OWlaYTFqT0pSMmphaUdCd1hVUHJjQnhmOXRkOFJTWmpJS1k0LVFBMTlXb2l2aGNMZjM0bF9adGctM3pBdE8xTTAzUUlNV2c?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxNLUhQelFCaDBGTEVBa0VTZ2VPX0JhYy04TXhVQmtWUXRwQldGczRpcnlWYk1FYXdFSmFoTGJDTDgxMHhVckRTMHRvbmE2dmdWUjdHWXd5WTBPQXh3SW5vNnpveXZMb3RrZjBCMXh6WHNPT3VQeU01SHF2N0FFX1JxemVkN3ROdV9wWlZzTEFpRUdiMzA2SXRrREFLVUZqYTNuTDk3ZU9UVi1yVUphTDBkSzYzNmJ0VDByTHFfTmR4TEFTQ0I5Z3BhUC1iSTJ6Szk4dWc?oc=5>
 
-### 特朗普取消霍尔木兹海峡船只20%收费计划 启动与海湾国家贸易投资协议谈判
+### FT：特朗普重整国务院 引发美国外交体系空前震荡
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-07-14 21:08
-- 链接: <https://news.google.com/rss/articles/CBMi5ANBVV95cUxQMjZrNm9GMjg1VmlzYjUxS0V5NTJxcXpxQnIzLVhIOW9SMy1iRGZEZnBTcFRQVzNxNTNKUnlWYlhOOW1OYktlN3Azd2NuRUJYS0NzR3JwdWZ1SzJ5YjQxUFIzX245ZHRUWHdIclFmaU9HSkxFRVNfZVZYOEZNbFJucHFhME1IUFdLak1yLWxVWjAtUndJd0NDMXgwWktmOHlFYXlpU1dWRl9TYk5sZnVMbDNlWWRkRVBWVkVlSzJWYUNRZ216cHN5YVF3d2JMUmQyM1NhTUJhUzF6X2djd3Rwci1RZWhOaXFkNUdCQ2owNlZaWXJaenZpSFFaN3pyYUo2ekUxOElzR25Pb1JOelRuZTBQR2xGTS1kcjJPSFh6N1V6Um5wSlh0YW1qODY0NEFEMXd2SlFZeUluTzhWS3NvYUJ0MF90UC1vVTE3NlBvY2pwb3A3QnhBT0MzMlB3MFNneTc0U3dWQWpuVlA3WGowN2JHRm5CaDhRTDBXNDdzT2pYVkNsaFVwOUFremlFZ0wxb1UxcFRiQ2VSb0wxVW9qMFk4S3Y3d0NXWkJSY3QzMEZSZ3FhMTd3Y3JNSWJtYW5Sd3pDSmpZcWJna01rUVM5V0xOeVQza2FuVngyaE9pUlFZSy12?oc=5>
+- 场馆: 文学城
+- 时间: 2026-07-14 20:59
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFWGdaUFdTT0NieURuVW5Zb0N5QWJWVlJpQ01raUx0MU1VWXVFUGozTTZPNGlEZWo0NlJZeGtwYjV3b1R5cldEUjdqdk1Fa0pmTVo5NVNFYWN2cGN0Nkt1bmxvZExDakRM?oc=5>
 
-### Dow Jones Top Energy Headlines at 4 PM ET: Trump Backtracks on 20% Toll for Shipping in Hormuz Strait | BP ...
+### 特朗普：用贸易投资协议取代霍尔木兹海峡货物收费
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-07-14 20:16
-- 链接: <https://news.google.com/rss/articles/CBMimgFBVV95cUxQbkxuRlhYTmd1dkh3eUh6TWZLamRRLUlPQ1JtNlFkTWotUjFyM0NpWXB0WU83Wm5SWDV3LS1jSFd1QUUzWDNiblFrckpxUTk3eWQzY3pGcm1EYjF6ZU9objZ1X3NFN0pyNkdiMTlMYkZPdHRCT1FQUFM2ZF91Mklld0k0Q09nWEN5anR6cFA1NjE0bUdhTEFyOUdR?oc=5>
+- 场馆: 新华网
+- 时间: 2026-07-14 16:09
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE96VG9rcmJSeHU2TnJBdUlZSWE2OVQ5eUlqUDFyMHFGQWpadHdMSHMtX0xablE5dVQwelF5ZGF4U3M2NFZQUEFfUTVxZTRSLWR5dGlPSG9vT2wzV1R0THluLV9ScUF6VEZLNkxLeDBGR1NPTUJNNTZYX09ybTZSZ00?oc=5>
+
+### 特朗普：用贸易投资协议取代霍尔木兹海峡货物收费
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-07-14 21:53
+- 链接: <https://news.google.com/rss/articles/CBMihgFBVV95cUxNc2dvN1h5cXBDUmkwRlhpamJzSHlsamtPOVo4WjVtbVdkTWhmRk5QVEZrQUJ2N1QtSE1kQVlvZHBJTERILXMzTXdlU1RWSmV6M0Q0LU45bVMzeEo2andMazA4WDBxOUMzakl3MnJwVGduc21VOEdGMDNHcjBrSm5LMWR3Zml5QQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-14 22:30  (6 条)
+
+- **特朗普** | 特朗普：将用与海湾各国贸易投资协议取代霍尔木兹海峡货运费 <https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aSGUyR0ViV0o0YXBJaVNkWXZGM05NVmNERHZTaWl1M05SUTdBOU9UTEdMcUFKTVBGRkhaTDIzUEExWWsya3IxOFhSZzB5bTljNnlyM0RBSm1qLTRnVXc?oc=5>
+- **特朗普** | 特朗普总统在白宫会见伊拉克新任总理阿里·扎伊迪 <https://news.google.com/rss/articles/CBMinwFBVV95cUxQVExKQ2tjRUpybWlBRklYSklwYlJaTXJrdXhGcFhIV3c3N0NPSEpTeHJ3dGN4R2dSY0VweGIwS0FWa0dkRTk5eGtBSzNVZ0tsNHFkVElBVUtLekRNcUxNS2c5cGdhdXJUUzdTS21KUDZMWnpucGI3ZFg4c2ZzS1d6cUV5VG5HWVdWRG9GXzVWNVk3NFFPemN5TEdzaGtuOVnSAaIBQVVfeXFMTkxqLTQ3UHc3SUZkZHdqMXZSalN3TlVyUUUyWFFhQjlJQnZpa1NxTGdVdUlfUzZTYTZvdEJUMWF1b05IREtWSjM4eGlBT3FnWGV2NTFTcklGRnJBbG9sSjVMMlpMYnZUX3BzX2Nqb1E2ZWFiNmpCZW1wbXc4UFl2dmowZEtOeDRpNmZhQ1BVVU1sa0IwTG4wWHZRczhYMTFpbVVB?oc=5>
+- **特朗普** | 特朗普宣称将与伊拉克达成“庞大”的石油交易 <https://news.google.com/rss/articles/CBMi0gFBVV95cUxNLUhQelFCaDBGTEVBa0VTZ2VPX0JhYy04TXhVQmtWUXRwQldGczRpcnlWYk1FYXdFSmFoTGJDTDgxMHhVckRTMHRvbmE2dmdWUjdHWXd5WTBPQXh3SW5vNnpveXZMb3RrZjBCMXh6WHNPT3VQeU01SHF2N0FFX1JxemVkN3ROdV9wWlZzTEFpRUdiMzA2SXRrREFLVUZqYTNuTDk3ZU9UVi1yVUphTDBkSzYzNmJ0VDByTHFfTmR4TEFTQ0I5Z3BhUC1iSTJ6Szk4dWc?oc=5>
+- **特朗普** | FT：特朗普重整国务院 引发美国外交体系空前震荡 <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFWGdaUFdTT0NieURuVW5Zb0N5QWJWVlJpQ01raUx0MU1VWXVFUGozTTZPNGlEZWo0NlJZeGtwYjV3b1R5cldEUjdqdk1Fa0pmTVo5NVNFYWN2cGN0Nkt1bmxvZExDakRM?oc=5>
+- **特朗普** | 特朗普：用贸易投资协议取代霍尔木兹海峡货物收费 <https://news.google.com/rss/articles/CBMif0FVX3lxTE96VG9rcmJSeHU2TnJBdUlZSWE2OVQ5eUlqUDFyMHFGQWpadHdMSHMtX0xablE5dVQwelF5ZGF4U3M2NFZQUEFfUTVxZTRSLWR5dGlPSG9vT2wzV1R0THluLV9ScUF6VEZLNkxLeDBGR1NPTUJNNTZYX09ybTZSZ00?oc=5>
+- **特朗普** | 特朗普：用贸易投资协议取代霍尔木兹海峡货物收费 <https://news.google.com/rss/articles/CBMihgFBVV95cUxNc2dvN1h5cXBDUmkwRlhpamJzSHlsamtPOVo4WjVtbVdkTWhmRk5QVEZrQUJ2N1QtSE1kQVlvZHBJTERILXMzTXdlU1RWSmV6M0Q0LU45bVMzeEo2andMazA4WDBxOUMzakl3MnJwVGduc21VOEdGMDNHcjBrSm5LMWR3Zml5QQ?oc=5>
 
 ### 2026-07-14 21:28  (7 条)
 
