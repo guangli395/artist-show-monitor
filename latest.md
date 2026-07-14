@@ -1,92 +1,89 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-14 06:05**
-- 本轮扫到 6798 条, 新增 **10** 条
+- 最近更新: **2026-07-14 08:33**
+- 本轮扫到 6806 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (10 条)
+## 本轮新发现 (8 条)
 
-### 王俊凯透露演唱会拟邀嘉宾，周杰伦、吴昕、何炅在列
+### 终于等到了亚巡的官宣时刻！蔡徐坤「The Deadman」亚洲巡演首站澳门来了！…
 
-- 艺人/关键词: **周杰伦**
+- 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5680782366_m15299dc1e03301hiom.html>
+- 链接: <https://k.sina.com.cn/article_5617768139_m14ed856cb03301sbgu.html>
 
-### 张雅琪谈中餐厅团建名场面：周杰伦演唱会让大家集体回血！
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068235_1d5b04c8b01902aggs.html>
-
-### 最新消息：🇺🇸美国最高法院裁定特朗普总统的关税措施违法后，已发放$81,000,000,000的退款。
+### 特朗普下令美军连续第三晚空袭伊朗、海上封锁将恢复
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-07-14 05:47
-- 链接: <https://news.google.com/rss/articles/CBMirAFBVV95cUxPWjg1NjlGNDNNQlNxMDR5eHpYLTFFb1hLM25PRDV4ZjB4clBHbkdSWlA5SmpnTFNXaVd2cnRqR3VKV01KZHkwSmJRSm5LMmZQeDhrTzNmS3FDajZuV1VKQngzblgzSEw4b05FUmg2R3pFc0k1anctUk40dnNFRmE2Mm5iWGRRNHJ4WngyeHB2cHhPODhpUVFvcXdvQXVzR1JiTXRDSll6MWlCNm45?oc=5>
+- 场馆: 光明网
+- 时间: 2026-07-14 00:32
+- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE5OM3VhZ182MFJsWG9ULWdwYnhPNm9hM2dMdVV1MGFLZnF1RUx3Wk9Ddm5CSVVfTE9TYS04VUF4ZjFBdnM4RlpSbzZVdEk0X0h1Wno2bFVVZFhfZUl2Y1VlQkZR?oc=5>
 
-### 特朗普称仍可能与伊朗达成协议
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: china.zjol.com.cn
-- 时间: 2026-07-14 00:43
-- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTE1HRFBlYlluazNDUTFSZ3czUnNQMndDd3htNnQ2RDNoQ2V1ZmpDUWlJVVRCYVZxTWN1Z1NQVnZRWjlkX2gzMEo1YzBhLVdLWkt6UEJHeEVmOXprY0F1R0gtUllGZnBRNFFDMnItdlNB?oc=5>
-
-### 特朗普再打封锁牌！“NACHO对赌”野蛮复活，油价只会易涨难跌？
+### 特朗普已通知国会伊朗战事重新爆发
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-07-14 05:51
-- 链接: <https://news.google.com/rss/articles/CBMiWkFVX3lxTE16X3M4clRFSjY1bmVXNkx1SkxOZHBBTC1hVmZ5eVRKdVBJUldYMjdUd2FyMl9SSnZZX1hxNkFPWjZTNXAycm03S1RhczQtOWVfVXlXZXFyNkVNdw?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-07-14 01:04
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTFA1cERQTklfQ1l3R3B1cko4cVJOUVNJbnJjWVRJRVdHTHl0Vy1uakZvaWNNaVpsSUhqb2Vkc1l2eUJFUWVqWHBveFFCajJuYnpBOERxbEVFN1piXzE0ZmVuRmRncjZiVGRJTWlNenRldnFSMDZ4?oc=5>
 
-### 特朗普点名这6国：该交保护费了-观察者网
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: guancha.cn
-- 时间: 2026-07-14 00:01
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5zMEZ1aVJhQzl5bzhNcEQ0NF92elE1dFVtWGU5Q1BueUtJOEtTaWROUU9hdHptVWNVYkdkWkM3S3kyZFJQQmU4MHNKSnNnR19KenBLWVBVVGtPT3lnUTlaMHhEa2FYdFV1OXc?oc=5>
-
-### 一图世界｜特朗普威胁收20%过路费，霍尔木兹海峡为何仍是冲突焦点？
+### 特朗普称将收取霍尔木兹海峡货运20%费用
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-07-14 03:33
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE84bnFZSW1ua2N2VVhpZG9MVmo3RjNzUFg5NU4tMmVCT0c3ck1GV2dzTmNza0IxRjV0MFp4T3drTzVhRGt1cG90UThPZVVWX09JbC1jOGM5MWZrTkk2VkE?oc=5>
-
-### 特朗普称中东盟友应支付保护费
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-07-14 00:09
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9PQ3AzczNBQjZySUo2S1N1dG5adFh6TjR4NWhFMWd4eHk5emsteGh2dmxjT1ZKSFZLMWswVnQ0SGZ6U29XSmVTdkZXZF9QeEMtbWJRTUg4REV2Q2hHLVZVY3pzbHg?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-07-14 01:15
+- 链接: <https://news.google.com/rss/articles/CBMiowFBVV95cUxORHdwUlhPbUxGdERvQ3VqMExOTnRmYzhZRUk1aWw2N01OUjV3bDJIcUJXelZnN2ljMkhYc21saWZqMzg3NEM4VFl2RVRhb0pOVmJRTUhNb1hxdjRUd0hqREU4X2MzcEVFV2NjVk81TU1ZZlE0a0RGNXcxZloyRGVPQ19MN2p6b3RNSEc5eWxENDRrMWstenJRYndyNEd4SlNRaV9n?oc=5>
 
 ### 美军将恢复对伊朗海上封锁 特朗普宣布重新开战
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-07-14 00:54
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBEbk1PSENGVUxuSWdfd2h5X1FINk03SDY1Zy1FU1RCanBxSDBreXlUMUNlcVEyMjN0ai1uVmFCb0ctak95UVpERG9ib2w3d0hfZEtIMVNHWWJrc21OTzJoTUdsV2ZzSldaR3YtNjVBRjNXZ1hyQXFfblhEckZRbGM?oc=5>
+- 场馆: 中国网新闻中心
+- 时间: 2026-07-14 02:01
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTFBmc1NUbElDb181UmpPenFmM2wtS1pZZkIwQlJrV1Z5bS13UjdpOTEzcVZDUnc2Tk9VblNHaVZOVXRXbWxCT2lsd1hfcDNzX2tjc2pUemVLTDJKQURZX0NtQkxRcTJ6WFhweXgw?oc=5>
 
-### 一夜间特朗普态度大变！中美关系重大转折，别忘了这位中国男人
+### 特朗普家族日赚2亿，全球散户为美伊冲突买单！
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 手机网易网
-- 时间: 2026-07-14 03:30
-- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE9DdXJsY2xNNks1azRRVkdVTXJZci1qTkVXN3BLa3lTbjBLQXpXM2VWc1E3WGpEcnZvdU5aT2VETTVkOUNNSndXdmVXN280YUhkMjJoWThjdmN0MzVzUW55cjdR?oc=5>
+- 时间: 2026-07-14 07:24
+- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE5TM0FMM1pLdUpWZ19DZ3VGMGNWYjRaNlZOTWZ6ZjRydjBtNTdXN3ZhZGZ4YlpMaFpBWEg0WnFkQm1HOFM1bnd4eWRqTjRtVWtxNEc5emlVUHFkUUlkUGNWcXlR?oc=5>
+
+### US President Trump: We are taking over the Strait of Hormuz
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: TMGM trading
+- 时间: 2026-07-13 15:15
+- 链接: <https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSDZpUDJrN2p2ZDBjNG1OTlV2dF90bGFTc1hqQlJWaFJaaHJETUJUTVRHMVNtOGI3Z2NrSGtVWmxSWXRxQTRwR3c0cmhscEVydVBuYU1PNnBMWXhCX2xSS1lQUW9yLUN1dC1NNFBQcmsyc0I4TkliSTBmcWNqMlpZX2dNMmV3QlNUb04tRUREMGNPMXVqUUNVenQtZXpNRmoyX3RnUWxwbGxwRTV5QzRFVVYxYnpadUEyZWZrSnBwb3hYbnQ4VmZDOQ?oc=5>
+
+### Global Oil Prices Top $80 a Barrel After Trump Reimposes Strait of Hormuz Blockade and Charges 20% Fee for Cargo Shipped Through
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-07-13 15:25
+- 链接: <https://news.google.com/rss/articles/CBMipAFBVV95cUxPX3hxLTVZdzBsejRuX3VwTklydmRBZHM1TTB1RDhla1VJemxrS29BaVNUaDROcGZETEx6a3pRY1dkT0JJR2t1X1JELW1RTUw3aVpEVm9wSlgxT0RPYWQ5Y25ZdWo5TWlIQVdMUi0yeksxRG40QTA2SVVWT0l2S3BOZW9aeDQtOFFRQ0lobDllSW83X01OQzVFWGVvdWN0MV80Y01oZQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-14 08:33  (8 条)
+
+- **蔡徐坤** | 终于等到了亚巡的官宣时刻！蔡徐坤「The Deadman」亚洲巡演首站澳门来了！… <https://k.sina.com.cn/article_5617768139_m14ed856cb03301sbgu.html>
+- **特朗普** | 特朗普下令美军连续第三晚空袭伊朗、海上封锁将恢复 <https://news.google.com/rss/articles/CBMiYkFVX3lxTE5OM3VhZ182MFJsWG9ULWdwYnhPNm9hM2dMdVV1MGFLZnF1RUx3Wk9Ddm5CSVVfTE9TYS04VUF4ZjFBdnM4RlpSbzZVdEk0X0h1Wno2bFVVZFhfZUl2Y1VlQkZR?oc=5>
+- **特朗普** | 特朗普已通知国会伊朗战事重新爆发 <https://news.google.com/rss/articles/CBMidEFVX3lxTFA1cERQTklfQ1l3R3B1cko4cVJOUVNJbnJjWVRJRVdHTHl0Vy1uakZvaWNNaVpsSUhqb2Vkc1l2eUJFUWVqWHBveFFCajJuYnpBOERxbEVFN1piXzE0ZmVuRmRncjZiVGRJTWlNenRldnFSMDZ4?oc=5>
+- **特朗普** | 特朗普称将收取霍尔木兹海峡货运20%费用 <https://news.google.com/rss/articles/CBMiowFBVV95cUxORHdwUlhPbUxGdERvQ3VqMExOTnRmYzhZRUk1aWw2N01OUjV3bDJIcUJXelZnN2ljMkhYc21saWZqMzg3NEM4VFl2RVRhb0pOVmJRTUhNb1hxdjRUd0hqREU4X2MzcEVFV2NjVk81TU1ZZlE0a0RGNXcxZloyRGVPQ19MN2p6b3RNSEc5eWxENDRrMWstenJRYndyNEd4SlNRaV9n?oc=5>
+- **特朗普** | 美军将恢复对伊朗海上封锁 特朗普宣布重新开战 <https://news.google.com/rss/articles/CBMia0FVX3lxTFBmc1NUbElDb181UmpPenFmM2wtS1pZZkIwQlJrV1Z5bS13UjdpOTEzcVZDUnc2Tk9VblNHaVZOVXRXbWxCT2lsd1hfcDNzX2tjc2pUemVLTDJKQURZX0NtQkxRcTJ6WFhweXgw?oc=5>
+- **特朗普** | 特朗普家族日赚2亿，全球散户为美伊冲突买单！ <https://news.google.com/rss/articles/CBMiYkFVX3lxTE5TM0FMM1pLdUpWZ19DZ3VGMGNWYjRaNlZOTWZ6ZjRydjBtNTdXN3ZhZGZ4YlpMaFpBWEg0WnFkQm1HOFM1bnd4eWRqTjRtVWtxNEc5emlVUHFkUUlkUGNWcXlR?oc=5>
+- **Trump** | US President Trump: We are taking over the Strait of Hormuz <https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSDZpUDJrN2p2ZDBjNG1OTlV2dF90bGFTc1hqQlJWaFJaaHJETUJUTVRHMVNtOGI3Z2NrSGtVWmxSWXRxQTRwR3c0cmhscEVydVBuYU1PNnBMWXhCX2xSS1lQUW9yLUN1dC1NNFBQcmsyc0I4TkliSTBmcWNqMlpZX2dNMmV3QlNUb04tRUREMGNPMXVqUUNVenQtZXpNRmoyX3RnUWxwbGxwRTV5QzRFVVYxYnpadUEyZWZrSnBwb3hYbnQ4VmZDOQ?oc=5>
+- **Trump** | Global Oil Prices Top $80 a Barrel After Trump Reimposes Strait of Hormuz Blockade and Charges 20% Fee for Cargo Shipped Through <https://news.google.com/rss/articles/CBMipAFBVV95cUxPX3hxLTVZdzBsejRuX3VwTklydmRBZHM1TTB1RDhla1VJemxrS29BaVNUaDROcGZETEx6a3pRY1dkT0JJR2t1X1JELW1RTUw3aVpEVm9wSlgxT0RPYWQ5Y25ZdWo5TWlIQVdMUi0yeksxRG40QTA2SVVWT0l2S3BOZW9aeDQtOFFRQ0lobDllSW83X01OQzVFWGVvdWN0MV80Y01oZQ?oc=5>
 
 ### 2026-07-14 06:05  (10 条)
 
