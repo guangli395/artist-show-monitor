@@ -1,27 +1,25 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-14 22:30**
-- 本轮扫到 6857 条, 新增 **6** 条
+- 最近更新: **2026-07-14 23:46**
+- 本轮扫到 6860 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (3 条)
 
-### 特朗普：将用与海湾各国贸易投资协议取代霍尔木兹海峡货运费
+### 演唱会门票团购值不值？2026年渠道、优惠、避坑全解析
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-07-14 15:30
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aSGUyR0ViV0o0YXBJaVNkWXZGM05NVmNERHZTaWl1M05SUTdBOU9UTEdMcUFKTVBGRkhaTDIzUEExWWsya3IxOFhSZzB5bTljNnlyM0RBSm1qLTRnVXc?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7880068305_1d5b04cd1068024c4g.html>
 
-### 特朗普总统在白宫会见伊拉克新任总理阿里·扎伊迪
+### 特朗普：对伊朗的打击将继续
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-07-14 22:18
-- 链接: <https://news.google.com/rss/articles/CBMinwFBVV95cUxQVExKQ2tjRUpybWlBRklYSklwYlJaTXJrdXhGcFhIV3c3N0NPSEpTeHJ3dGN4R2dSY0VweGIwS0FWa0dkRTk5eGtBSzNVZ0tsNHFkVElBVUtLekRNcUxNS2c5cGdhdXJUUzdTS21KUDZMWnpucGI3ZFg4c2ZzS1d6cUV5VG5HWVdWRG9GXzVWNVk3NFFPemN5TEdzaGtuOVnSAaIBQVVfeXFMTkxqLTQ3UHc3SUZkZHdqMXZSalN3TlVyUUUyWFFhQjlJQnZpa1NxTGdVdUlfUzZTYTZvdEJUMWF1b05IREtWSjM4eGlBT3FnWGV2NTFTcklGRnJBbG9sSjVMMlpMYnZUX3BzX2Nqb1E2ZWFiNmpCZW1wbXc4UFl2dmowZEtOeDRpNmZhQ1BVVU1sa0IwTG4wWHZRczhYMTFpbVVB?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-07-14 22:59
+- 链接: <https://news.google.com/rss/articles/CBMiggJBVV95cUxNSjVpaVB1M3lsajNTTFVsa08yZE5ndlJGT055RURRWEhhZVI4bHQyM3dQZnBrVnFfTmYySE1kNjJpRXZ5NldMQXdzQlhBS1JZT0ZkMkYzTTEzT0lvN21SZWw0WnM3RWlQcEJDd2d6YkFZVVNqS0VaaVN5ajV0TG5SZlMwYXcyQ29uOGliMmhicVQxU3lyVDZTY1ZvVXBJcEFycFpMakEzTW9HMkFLRGtyVDV1allrdHFTNm1VR1lrZVdwd2laY3pDMDl6bXVtNXJCTno0YzlUMlBPZjU4MWs5czg1TUpscEoteDV4UkFod01zWDVzWFljUklUalVaSVRFWGc?oc=5>
 
 ### 特朗普宣称将与伊拉克达成“庞大”的石油交易
 
@@ -29,36 +27,18 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-07-14 17:25
-- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxNLUhQelFCaDBGTEVBa0VTZ2VPX0JhYy04TXhVQmtWUXRwQldGczRpcnlWYk1FYXdFSmFoTGJDTDgxMHhVckRTMHRvbmE2dmdWUjdHWXd5WTBPQXh3SW5vNnpveXZMb3RrZjBCMXh6WHNPT3VQeU01SHF2N0FFX1JxemVkN3ROdV9wWlZzTEFpRUdiMzA2SXRrREFLVUZqYTNuTDk3ZU9UVi1yVUphTDBkSzYzNmJ0VDByTHFfTmR4TEFTQ0I5Z3BhUC1iSTJ6Szk4dWc?oc=5>
-
-### FT：特朗普重整国务院 引发美国外交体系空前震荡
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 文学城
-- 时间: 2026-07-14 20:59
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFWGdaUFdTT0NieURuVW5Zb0N5QWJWVlJpQ01raUx0MU1VWXVFUGozTTZPNGlEZWo0NlJZeGtwYjV3b1R5cldEUjdqdk1Fa0pmTVo5NVNFYWN2cGN0Nkt1bmxvZExDakRM?oc=5>
-
-### 特朗普：用贸易投资协议取代霍尔木兹海峡货物收费
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-07-14 16:09
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE96VG9rcmJSeHU2TnJBdUlZSWE2OVQ5eUlqUDFyMHFGQWpadHdMSHMtX0xablE5dVQwelF5ZGF4U3M2NFZQUEFfUTVxZTRSLWR5dGlPSG9vT2wzV1R0THluLV9ScUF6VEZLNkxLeDBGR1NPTUJNNTZYX09ybTZSZ00?oc=5>
-
-### 特朗普：用贸易投资协议取代霍尔木兹海峡货物收费
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-07-14 21:53
-- 链接: <https://news.google.com/rss/articles/CBMihgFBVV95cUxNc2dvN1h5cXBDUmkwRlhpamJzSHlsamtPOVo4WjVtbVdkTWhmRk5QVEZrQUJ2N1QtSE1kQVlvZHBJTERILXMzTXdlU1RWSmV6M0Q0LU45bVMzeEo2andMazA4WDBxOUMzakl3MnJwVGduc21VOEdGMDNHcjBrSm5LMWR3Zml5QQ?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxPd1h0TS1BTV9GYkY4VUdudTQ3VVYzRUY4d3JfMEVWYk1CaWtRc3pFRFFUV1dnUGx4Sklob3hSejFnd0x0NjM4a3ZvVFRKdmRaTTBxbmt2eDdyVTlBZF9xZ0xTdS1pYWxrajFxcjc5bzQ4alZaWEpHQUFaMWlWR1c3TDA0QzgxOUF2NkZsMXUtU3M1UGJRQk9SbnVNbDAyNlU2VFM0dFctRUdoTElFQmQ3VlZNbVZHSGhBc2pvejNoQ3FFVkViODFJMWtEVXdNRkFKX1E?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-14 23:46  (3 条)
+
+- **周杰伦** | 演唱会门票团购值不值？2026年渠道、优惠、避坑全解析 <https://k.sina.com.cn/article_7880068305_1d5b04cd1068024c4g.html>
+- **特朗普** | 特朗普：对伊朗的打击将继续 <https://news.google.com/rss/articles/CBMiggJBVV95cUxNSjVpaVB1M3lsajNTTFVsa08yZE5ndlJGT055RURRWEhhZVI4bHQyM3dQZnBrVnFfTmYySE1kNjJpRXZ5NldMQXdzQlhBS1JZT0ZkMkYzTTEzT0lvN21SZWw0WnM3RWlQcEJDd2d6YkFZVVNqS0VaaVN5ajV0TG5SZlMwYXcyQ29uOGliMmhicVQxU3lyVDZTY1ZvVXBJcEFycFpMakEzTW9HMkFLRGtyVDV1allrdHFTNm1VR1lrZVdwd2laY3pDMDl6bXVtNXJCTno0YzlUMlBPZjU4MWs5czg1TUpscEoteDV4UkFod01zWDVzWFljUklUalVaSVRFWGc?oc=5>
+- **特朗普** | 特朗普宣称将与伊拉克达成“庞大”的石油交易 <https://news.google.com/rss/articles/CBMi0gFBVV95cUxPd1h0TS1BTV9GYkY4VUdudTQ3VVYzRUY4d3JfMEVWYk1CaWtRc3pFRFFUV1dnUGx4Sklob3hSejFnd0x0NjM4a3ZvVFRKdmRaTTBxbmt2eDdyVTlBZF9xZ0xTdS1pYWxrajFxcjc5bzQ4alZaWEpHQUFaMWlWR1c3TDA0QzgxOUF2NkZsMXUtU3M1UGJRQk9SbnVNbDAyNlU2VFM0dFctRUdoTElFQmQ3VlZNbVZHSGhBc2pvejNoQ3FFVkViODFJMWtEVXdNRkFKX1E?oc=5>
 
 ### 2026-07-14 22:30  (6 条)
 
