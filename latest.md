@@ -1,72 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-14 17:07**
-- 本轮扫到 6835 条, 新增 **7** 条
+- 最近更新: **2026-07-14 18:35**
+- 本轮扫到 6838 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (3 条)
 
-### 特朗普：美国将对霍尔木兹海峡货运收取20%费用
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-07-14 07:56
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBpUXB1MGFBVGpYWEhDLUZMeDViSjdKSEo2UU9mazRnZllwVElFRmRMRGo1ckdNbTFjRHNDNFh6Ul9QQzk4bmlMQjd6RFh6aWxOclpoejBKZ3R0TVFVVk1EZXJ0U0o1Zw?oc=5>
-
-### 美媒看不下去：鲁比奥是伪君子，而特朗普“装都不装”-观察者网
+### 特朗普宣称将与伊拉克达成“庞大”的石油交易
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-07-14 11:56
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1GaURnSjdJVV9jNmJCSXMySl9BWFVtaTBMT2VQNVNzaGdjazY2c3BwRVFKVW5aWkpJbnRzeHpFV0pGZU1xeTBZWllLTXdycGRpWWZKNWlyUERWQnZFckpIWFRZZFdUQ216N2c?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-07-14 17:25
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxQY0FyeEJhYmJ3aXVJSEdKeXQwTkZhYUtwZkJqWmhhWk9EZ1NBVXNXTUJEYU8xelAtU2VoS1ZBeUExMXFqaFYxdGlqUklrUm1LRGZ2blV2ajV0d09kM180OWhGRktnQVk2TVg1YXF5V1V6d0NJQXhmWlFEY3NIV21LMFVVMFhfZWhhX3N0YXpFUGhndG42RXBkWElTV29RQWdwclJVbXFkNDE3UGFwZ1ZteFBKOUVsemdHYTROYkxERVdjcnU0Nnpxemtqa2kya0Ft?oc=5>
 
-### 特朗普：美伊谅解备忘录只是一次“考验”，而伊朗没有通过！
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-07-14 12:21
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE02Snh6bExoT3lkNlpfUExLLXdrVWY0N3dpMlJNQjJMZ1NvV0tCSFlMUDVOT2NTZFZQc3JHNURVRkI2ejdhTVYxTTZLZ2xiMW1jRVpLekRGLUUyczFoaEE?oc=5>
-
-### 特朗普称仍可能与伊朗达成协议，中东盟友应支付保护费
+### “国会山最吵闹的战争贩子"去世，特朗普下令全美降半旗
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-07-13 22:59
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxV25YbHRYZXdLUHlPR3NERy1zNEFaZzFhaUZLZHdpcWtDV09tMy1uejlGeTgybGM4bW5tUS1MSEhMUl9HNUxROThDdjVUMDRKUTdZ?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-07-13 01:58
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9PeFRoekc5ZjRBQjdlcDgxdk80ZkVGXy14a05YbjMtbXkzUUR2VkE3bWs0dkM0UXBVUHU1Z3UyVzBsT2QwN2otcDg2bmQ?oc=5>
 
-### 特朗普：美国将摧毁伊朗疑有地下设施的镐山
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-07-13 23:34
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBubDdTQTNSNDdDcVFQNkJQcUpZc1R2VkNmVXUyUlM2SHIyZ19Jbm5UMGowZU5wZ2YzUGxNMmlpRXc5UEVZNmJrM1B1WGp1NEY2T0RWVEFlN1R0LU1BUmc3djU4Z3hIUQ?oc=5>
-
-### 特朗普称取消向海湾国家征收涉霍尔木兹海峡管控“补偿”
+### 美伊停火协议破裂，特朗普宣布收取通航“保护费”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 21财经
-- 时间: 2026-07-14 15:30
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxQUWxLWFNRMVUzVHgwd1NKek8wWFV5SGRjS2R5dzRGc09EelBseVNXZ2tESWI3NlBYUGV6NS1kR1lBdy1Hem1Sc3U0djlJVXZuQ2F2ZVFuVEV3bGxUajViUEEyaFlQdGd6dG4zeGdvZXB4N3ZwNmZJOUc1OEIzeTB0RVljY05pekdlbUNZYQ?oc=5>
-
-### 特朗普称放弃收20%海峡护航费 以这种形式取代
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 文学城
-- 时间: 2026-07-14 16:24
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lVmUtWFRWaERBY1dWc3RfV3ItcTY0VzFfRkdUblBrTGNYa2FwRDFqTFRnZUdCN3dianNGWGFMd0YzSG12ZGN2UVdDREVwT3U5Z1NzQmdBd0tMR25FaVN6RVhHemgtQXhM?oc=5>
+- 场馆: 纽约时报中文网
+- 时间: 2026-07-14 02:37
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE04QXhTaTFTdmdXYTFfTzQxSFdZT1o2N08tU0NkeHlRd3RLWFhxUEJieDhBM3M4V1VzUXBoOUs3RFpkQmd1eU5ENjRRN3FadG4wZU5uSVJlb002LWswbzVkVjNMQ0JxVTFo?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-14 18:35  (3 条)
+
+- **特朗普** | 特朗普宣称将与伊拉克达成“庞大”的石油交易 <https://news.google.com/rss/articles/CBMi0AFBVV95cUxQY0FyeEJhYmJ3aXVJSEdKeXQwTkZhYUtwZkJqWmhhWk9EZ1NBVXNXTUJEYU8xelAtU2VoS1ZBeUExMXFqaFYxdGlqUklrUm1LRGZ2blV2ajV0d09kM180OWhGRktnQVk2TVg1YXF5V1V6d0NJQXhmWlFEY3NIV21LMFVVMFhfZWhhX3N0YXpFUGhndG42RXBkWElTV29RQWdwclJVbXFkNDE3UGFwZ1ZteFBKOUVsemdHYTROYkxERVdjcnU0Nnpxemtqa2kya0Ft?oc=5>
+- **特朗普** | “国会山最吵闹的战争贩子"去世，特朗普下令全美降半旗 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9PeFRoekc5ZjRBQjdlcDgxdk80ZkVGXy14a05YbjMtbXkzUUR2VkE3bWs0dkM0UXBVUHU1Z3UyVzBsT2QwN2otcDg2bmQ?oc=5>
+- **特朗普** | 美伊停火协议破裂，特朗普宣布收取通航“保护费” <https://news.google.com/rss/articles/CBMiaEFVX3lxTE04QXhTaTFTdmdXYTFfTzQxSFdZT1o2N08tU0NkeHlRd3RLWFhxUEJieDhBM3M4V1VzUXBoOUs3RFpkQmd1eU5ENjRRN3FadG4wZU5uSVJlb002LWswbzVkVjNMQ0JxVTFo?oc=5>
 
 ### 2026-07-14 17:07  (7 条)
 
