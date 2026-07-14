@@ -1,76 +1,47 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-14 12:06**
-- 本轮扫到 6816 条, 新增 **8** 条
+- 最近更新: **2026-07-14 14:21**
+- 本轮扫到 6820 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (4 条)
 
-### 蔡徐坤被称“下沉市场”人气王，签售会单日涨粉12万，为何不追热点反成抖国宝？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801c9wk.html>
-
-### 演唱会门票团购值不值？2026最新攻略：渠道、优惠、避坑全解析
+### 周杰伦温网帮老婆拿饮料被赞好老公，新专辑已写12首歌却为何迟迟不发？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068305_1d5b04cd10680248p0.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd848068021bt8.html>
 
-### 特朗普强硬重启对伊战事，共和党、白宫双双内讧
+### 周杰伦看温网帮老婆拿饮料后，粉丝追问：新专辑何时发？一文看懂他为何写完12首歌却迟迟不发布
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-14 02:49
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBrVjF0eENlVnRnYk5mVVVoS01HUzEyekFCMXZ5OURHSmc0SVh4cjBSQjhKbmJZTG1YWGtLaWxEZ29CVXVpWjVwLTl6Slc?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd848068021bsy.html>
 
-### 美联邦法官推翻特朗普诉国税局案 指和解协议不具备法律效力
+### 周杰伦近期是否有新歌或演唱会计划？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财新
-- 时间: 2026-07-14 10:51
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE93cTQ5dkhxWlQxSFdWYV91MmZkdmxvMThFRFJWOUZkQ085WFlPUWZCejZQY3ZTRkN1TnhTMDRXdjh1UzNlbEZFV3Voa3ZKekRBYWhEWGkzNWlzTlR4bGNaN05XYzlicFNBa2c?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd848068021bqm.html>
 
-### 拜登预言成真，让特朗普干完这4年，美国将成为“世界老二”？
+### 周杰伦温网宠妻名场面！穿西装拿饮料，网友：比新歌准时
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机网易网
-- 时间: 2026-07-14 11:24
-- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE02SnJ0ckRWM2Jkc1ZRY0JmV3pWQmxzRjFpU0JvWGY5TVlkaUxQV1hlMDdVeXNNeXlDVExvYldKT3g3X3JVamYtODFSaExuNV94c0E1M3J0VXBoMFFJVjhzamJn?oc=5>
-
-### 特朗普称中东盟友应支付保护费
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-07-13 22:10
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE1xejRHdk03LUZBREhyczNRd2MwQjdVQklhS2VSTi12YTdGRDhJaFYxVktac2R1Sl95bEZpQWVUbmNiQ1h2VXFqYjNBVWFyNjVDWVhoOVppQWRBRnhUMUJIX2dKVkZNYWN2NmxldE41RmZSSXh1?oc=5>
-
-### 特朗普点名沙特、卡塔尔、阿联酋等国，称应给美国交保护费
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中国网新闻中心
-- 时间: 2026-07-14 06:46
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTFBBYndlWU5vdVJ1MzJqTWZLNjcxUXI5Rk1KbUtDZWk3QkczQmhFN2NmX29uUTdzQ0tpbDN3aXo3THBOQ3RjTGlYY0Z3bWVIVlhoVVZSX05ZZ0xFYklmR2dGZ0xsZFk4OHAyQUJ3?oc=5>
-
-### 特朗普获得一项“大奖”，但可能高兴不起来
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-14 01:31
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFB1TlVBSEp5SU8zWnpFOUlmUktkRjBmdU9jVTk3TXYxQ09PMXRkQndzNk93QlFuRk9YMjZfa2VCNk1vcDg2LTZYSEFUeG8?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd848068021bpo.html>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-14 14:21  (4 条)
+
+- **周杰伦** | 周杰伦温网帮老婆拿饮料被赞好老公，新专辑已写12首歌却为何迟迟不发？ <https://k.sina.com.cn/article_7879776328_1d5abd848068021bt8.html>
+- **周杰伦** | 周杰伦看温网帮老婆拿饮料后，粉丝追问：新专辑何时发？一文看懂他为何写完12首歌却迟迟不发布 <https://k.sina.com.cn/article_7879776328_1d5abd848068021bsy.html>
+- **周杰伦** | 周杰伦近期是否有新歌或演唱会计划？ <https://k.sina.com.cn/article_7879776328_1d5abd848068021bqm.html>
+- **周杰伦** | 周杰伦温网宠妻名场面！穿西装拿饮料，网友：比新歌准时 <https://k.sina.com.cn/article_7879776328_1d5abd848068021bpo.html>
 
 ### 2026-07-14 12:06  (8 条)
 
