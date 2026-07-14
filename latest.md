@@ -1,70 +1,154 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-14 00:13**
-- 本轮扫到 6771 条, 新增 **7** 条
+- 最近更新: **2026-07-14 03:42**
+- 本轮扫到 6788 条, 新增 **17** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (17 条)
 
-### 演唱会ODD拍摄手法是什么？薛之谦、周杰伦、林宥嘉等明星现场如何用折叠屏拍出刷屏级大片？一文看懂5种核心技法与4个代表作
+### 蔡徐坤同名专辑签售会造型大片释出：铆钉皮衣混搭 TASAKI 珠宝，解锁复古摩登摇滚型男质感
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019084bds.html>
+
+### 让大家久等了！就在昨天（7月12日）蔡徐坤终于正式官宣了他的全新个人巡回演唱会—「THE DEADMAN」！7月...
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c00190849hw.html>
+
+### 推荐一些蔡徐坤演唱会的精彩舞台直拍视频
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801i38a.html>
+
+### 26岁歌手蔡徐坤用30分钟无人直播官宣巡演，为何能让892万观众集体疯狂？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801c3ga.html>
+
+### 27岁华语原创音乐人蔡徐坤，苦等5年重启巡演首站澳门连开2场，为何引发892万观众在线狂欢？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801c3g2.html>
+
+### 当初《Deadman》MV中就充满隐喻，蔡徐坤化身荒野牛仔…
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5727695436_m15565b24c03301qzn8.html>
+
+### 张雅琪谈中餐厅团建名场面：周杰伦演唱会让大家集体回血！_工作_客人_经验
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd8480680214lq.html>
+- 链接: <https://k.sina.com.cn/article_7880068235_1d5b04c8b01902aeyu.html>
 
-### 特朗普称美军“猛烈打击”伊朗 霍尔木兹海峡“仍然开放”
+### 一文看懂演唱会ODD拍摄手法：薛之谦、周杰伦等明星如何用折叠屏和非常规视角拍出刷屏大片？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-12 14:34
-- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxPLTVOT3U4OEFhVEYzYTJPUFBpTk1XUzBySU1BLS1DRDFqYzlWVWwtX1RJb1JRbG5aT3VqT3pVSFM4bDdGWXowSzhPbGxDZ01nU0xKUl9kaDBoZ0lWMXR1SkZBSjVEV3lBcFFWclNxU3NNMGNmc0d1Q08wOVg0T1VGTkpYeC1NaGtqanZBYVprVTl6aHVpbTFaWHdZLXRXT0hJcWRLVkZOT3ZSN3dkMGZ4QVRkdGhRdTFfNl9SZzRFcjdwcmNZT0J2NzVLdU5pd2s?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd848068021584.html>
 
-### 特朗普：美国正保护中东多个富裕国家，应获得相关国家费用补偿
+### 演唱会ODD拍摄手法是什么？薛之谦、周杰伦等5位艺人案例教你用折叠屏拍出刷爆朋友圈的大片
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-13 23:40
-- 链接: <https://news.google.com/rss/articles/CBMiggJBVV95cUxQNWctbUhwRlhIaDhuQTRIT3VrS09iMXVGRUdJcEdlRUlacTgtNlRha1gzaW92QW00dWg0bVFITlNxVWhtRmNOX2kwUXp6S1lCZFVlTnlPQnRHb01DaFpsemZQSm9wUmpENHQtTjlUb3lnOWYyZkx2RUxxT21YWmtCVm83VUpXNmpPWE1PcDNfWVR4OFBQeHZMMG4xUEVtbnFiWnR4Mnd3UnR1WnY0ajdZaVdHejM3VmhxY1NyTjFhTEZSdlJPaDgwaUptMmw1eWNOaks0RXFXS0pVYXdKVFo5b0JiMHVsSjdyN0l4cHVubmlNdWhDZnQ3UjBPMW5UQV96bkE?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd84806802155s.html>
 
-### 美媒：特朗普已通知国会伊朗战事重新爆发
+### 美军将恢复对伊朗海上封锁 特朗普宣布重新开战
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-07-13 23:20
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Qd2UxalQ3bVFzenJZb3c3eXdNNkxvMl9HV3p6N3p2TG93SENUQXhZdE5XN09PTnNxZkVkRVNvX3hraHBHSU15MlhSYy1nMFRzN1FwemgwcFYyUldKSDRzYy12OHQ?oc=5>
+- 场馆: 新华网
+- 时间: 2026-07-14 00:54
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE5Ic0pUdHZMN0hpLUc0MThtMG10ZEtES1o5anE0T2U5d3hiczVZbWlVWl9wMlNIUXpmekplUkN5QkpweF8wTjBPM0o4UHRTZDVRWG5JWlQtTmc5amhOMVpxS3pWU1BQbXZuODROc2lfNVR0Z2x6TXJ0UEZDWGhVOVk?oc=5>
 
-### 特朗普称仍可能与伊朗达成协议
+### 特朗普称美国最终将控制霍尔木兹海峡
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-07-13 23:03
-- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRXpHZi15SnpoMTJJeDdlbzJRcDItRVY1X2NnWXBERXFDUkFSa01rWmtWUHgtMFY5R1k0cmRVaTFvV196ZHVvOVQtdzFzbWE4SHF1Rm9FYkllalNyY01WRnVTOVk4VVpGaDNLemN0QTV4NHpPNEFKU0d4TEhRa1pFUzFCOXkxUEdVWlRn?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-07-14 02:26
+- 链接: <https://news.google.com/rss/articles/CBMipAFBVV95cUxNekd5SERXN1JNVXFieE54WlNzS3NXMk1fMVdnaXNFOHVnWnR4ZU9uak5zLTlKWFowc0VyRWJvMmczTzN1VnczS3BLdEY5UURpQXN1SFNJelN5TzJoRzMtLUkzN1RSU3dHeEptQlJUVEV2MGF5bDFwQ0ZFRmRXeWFVZElzMWY3ODFzOVc4Z3RSYkhRb3ktQ2dzeWFPY1FLeG9RTnV2Vg?oc=5>
 
-### 特朗普支持骤逝参议员林赛·格雷厄姆之妹接替其参议院席位
+### 特朗普点名五国：交“保护费”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪军事
+- 时间: 2026-07-14 03:37
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE15cFp1LWdqMF9GTjg2aHNRLWxrR0dfOVlFVHBPLTluZjRoOV9DanJNY3FDVlNIQmlwV1BCaGYtREw0T3QxSkNsanFtZlVUOFYtekZEMDUwVHZyNlJDb1ZOYzFpTzk1WFBKVl9wVXJrWF9uX3c?oc=5>
+
+### 英特尔翻身有靠山！特朗普施压苹果、英伟达：英特尔这单你们必须接
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 驱动之家
+- 时间: 2026-07-14 02:09
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uVzd5WGZRVnk5dU1EbktmOUFWcUxQUmtQM1BBMlJUUTZkc3BBa1pwZzhrQVR0bEVIOXZWSDNSa2pBdGo5TjE3NTZDYk42Qk0wSlpwUEdrRmQ?oc=5>
+
+### “特朗普政府，考虑对ICC开刀”-观察者网
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: guancha.cn
+- 时间: 2026-07-13 14:41
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9IeFotRFp5aE1HZjY5TldDSk9Cb2xaN1VqUlV2SkY5RnU1QVotZzc3eFRwOF9GSF9RcXFrdndOMURyaHhjSTA0VW1KYk5HSnlpTmw1RF9PcG5tajB0TktIVDBZODlZRWM2T2c?oc=5>
+
+### 特朗普宣布恢复对伊朗海上封锁 美军公布实施时间
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-07-13 21:21
+- 链接: <https://news.google.com/rss/articles/CBMi6AJBVV95cUxQVTV1TWZ0dWt1S0xQRzVONTRNU2VYQWhUeV9Na05IZkxmVzYyXy1sWG8tRGtmcXNsU0FITnVaQVRod1BBSUtleVczaUhOU253NkFHbzJUVzFBQk82bjgzWHMwaWpMMXk2VkFPVVRwOWFjTmVHdjR6MEtoSUY3STVhU0czSkRET184aDk4X3QxcGZITFROT0dhMzVJWmxnbFEzVDJTLWQ3UzQta0tSa1pNcUw1VXFlM2Z4OXJvd1pNdlFGc3M2OWNvdVgwM3ZGOTQ2Z0NSTjJWV0JnTkRmNkxtc010RE4zT2Z0R2E1VXNlNnU5ZUZaRDFDMnVlWFR4Q2lUemJBbjBZMF82M0RYeWx4WVlSSWVCLXlUNmNnU1p5cUJGLUc0YUZGc013b3hmSGF2WXNHb0JwdXZQTFJzeHVHMzZ6Rl9LRW14WDZpV1huN3gyTzJ1RzNIeXhSRmNoUktmUWd0OGk0YW4?oc=5>
+
+### US President Trump declares US ‘Guardian of the Hormuz Strait’
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-07-13 23:59
-- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxOWTZ1bkZuMFJVTjR5ajJDSWQ5UE53cVFoS0xSUlB4c0JYZXNNcTRka01WNDRQTmVKbUhMUUhmMmVqTU1aNk9CeXNpblBZamwwZFpGek82SU9pbG90Rk1zLU5ranpqQkdxRjFGd3ZLLTUyYkZxbmdXX25RaURMZlZoSkRn?oc=5>
+- 场馆: TMGM trading
+- 时间: 2026-07-13 15:41
+- 链接: <https://news.google.com/rss/articles/CBMiywFBVV95cUxNTVR3Snhfd1QzajdneDdEWEpsaXlSUWdUc3l4X2lLaUliM0dvS01xWFJQT3VjOVRYb1QyUXFBczY2QnBqRTh0bzdWeE5ZaVBvVmEyMmUzWXBXa242QTNRdXJRaFd6andheWJJRWVpTUIxaWVHU25kTTVBc19KVk5WbXEzY0J3bXNqUmUtLWFaODZMUXVZNFpmdEdTemVwdkg4b2FsaEsyQy1GRGZIQW9hWmhkc2huMWZlNXE1cmo1WHFPZi1MRVpxVk92MA?oc=5>
 
-### 美国对伊朗发动新一轮打击，特朗普权衡攻击核设施
+### 川普称这两天将狠狠打击伊朗 已通知国会战事重启
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-07-13 23:11
-- 链接: <https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVi1VMUxpMzJaTkwtc09ES1hXQXl0LUdhcjhiNTVyRF9ZMmhpdEp3N0Q5S3dlV1A3eTZUVmRYd2dQemVlNEVqdjNpWklTMllVLUdtd0RIVzNscWhoZHlaTms3YUQyQ2tON3hmSFA0ZW1nTUdGRWtoNnlEenI4SnFheGFRYUgyM0NUN29Ib2ZyUmgzTmRmaXVQQ1VWM3dGQ2FCUF9EZDJXaks?oc=5>
+- 场馆: 文学城
+- 时间: 2026-07-13 23:58
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xRGJZU0tvX28wUkpRa2xNSVhTLVhrcm1QMWdKNk5xR1AwYW1ic01ULTZCUWdVMzVQU0MtdlczYkpXQjRUOTZRLXVreUpWRjJLYTctbUNpTHZKWDFta3p0ZWhoY0tNYkNT?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-14 03:42  (17 条)
+
+- **蔡徐坤** | 蔡徐坤同名专辑签售会造型大片释出：铆钉皮衣混搭 TASAKI 珠宝，解锁复古摩登摇滚型男质感 <https://k.sina.com.cn/article_7857201856_1d45362c0019084bds.html>
+- **蔡徐坤** | 让大家久等了！就在昨天（7月12日）蔡徐坤终于正式官宣了他的全新个人巡回演唱会—「THE DEADMAN」！7月... <https://k.sina.com.cn/article_7857201856_1d45362c00190849hw.html>
+- **蔡徐坤** | 推荐一些蔡徐坤演唱会的精彩舞台直拍视频 <https://k.sina.com.cn/article_7879923021_1d5ae154d06801i38a.html>
+- **蔡徐坤** | 26岁歌手蔡徐坤用30分钟无人直播官宣巡演，为何能让892万观众集体疯狂？ <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801c3ga.html>
+- **蔡徐坤** | 27岁华语原创音乐人蔡徐坤，苦等5年重启巡演首站澳门连开2场，为何引发892万观众在线狂欢？ <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801c3g2.html>
+- **蔡徐坤** | 当初《Deadman》MV中就充满隐喻，蔡徐坤化身荒野牛仔… <https://k.sina.com.cn/article_5727695436_m15565b24c03301qzn8.html>
+- **周杰伦** | 张雅琪谈中餐厅团建名场面：周杰伦演唱会让大家集体回血！_工作_客人_经验 <https://k.sina.com.cn/article_7880068235_1d5b04c8b01902aeyu.html>
+- **周杰伦** | 一文看懂演唱会ODD拍摄手法：薛之谦、周杰伦等明星如何用折叠屏和非常规视角拍出刷屏大片？ <https://k.sina.com.cn/article_7879776328_1d5abd848068021584.html>
+- **周杰伦** | 演唱会ODD拍摄手法是什么？薛之谦、周杰伦等5位艺人案例教你用折叠屏拍出刷爆朋友圈的大片 <https://k.sina.com.cn/article_7879776328_1d5abd84806802155s.html>
+- **特朗普** | 美军将恢复对伊朗海上封锁 特朗普宣布重新开战 <https://news.google.com/rss/articles/CBMif0FVX3lxTE5Ic0pUdHZMN0hpLUc0MThtMG10ZEtES1o5anE0T2U5d3hiczVZbWlVWl9wMlNIUXpmekplUkN5QkpweF8wTjBPM0o4UHRTZDVRWG5JWlQtTmc5amhOMVpxS3pWU1BQbXZuODROc2lfNVR0Z2x6TXJ0UEZDWGhVOVk?oc=5>
+- **特朗普** | 特朗普称美国最终将控制霍尔木兹海峡 <https://news.google.com/rss/articles/CBMipAFBVV95cUxNekd5SERXN1JNVXFieE54WlNzS3NXMk1fMVdnaXNFOHVnWnR4ZU9uak5zLTlKWFowc0VyRWJvMmczTzN1VnczS3BLdEY5UURpQXN1SFNJelN5TzJoRzMtLUkzN1RSU3dHeEptQlJUVEV2MGF5bDFwQ0ZFRmRXeWFVZElzMWY3ODFzOVc4Z3RSYkhRb3ktQ2dzeWFPY1FLeG9RTnV2Vg?oc=5>
+- **特朗普** | 特朗普点名五国：交“保护费” <https://news.google.com/rss/articles/CBMic0FVX3lxTE15cFp1LWdqMF9GTjg2aHNRLWxrR0dfOVlFVHBPLTluZjRoOV9DanJNY3FDVlNIQmlwV1BCaGYtREw0T3QxSkNsanFtZlVUOFYtekZEMDUwVHZyNlJDb1ZOYzFpTzk1WFBKVl9wVXJrWF9uX3c?oc=5>
+- **特朗普** | 英特尔翻身有靠山！特朗普施压苹果、英伟达：英特尔这单你们必须接 <https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uVzd5WGZRVnk5dU1EbktmOUFWcUxQUmtQM1BBMlJUUTZkc3BBa1pwZzhrQVR0bEVIOXZWSDNSa2pBdGo5TjE3NTZDYk42Qk0wSlpwUEdrRmQ?oc=5>
+- **特朗普** | “特朗普政府，考虑对ICC开刀”-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE9IeFotRFp5aE1HZjY5TldDSk9Cb2xaN1VqUlV2SkY5RnU1QVotZzc3eFRwOF9GSF9RcXFrdndOMURyaHhjSTA0VW1KYk5HSnlpTmw1RF9PcG5tajB0TktIVDBZODlZRWM2T2c?oc=5>
+- **特朗普** | 特朗普宣布恢复对伊朗海上封锁 美军公布实施时间 <https://news.google.com/rss/articles/CBMi6AJBVV95cUxQVTV1TWZ0dWt1S0xQRzVONTRNU2VYQWhUeV9Na05IZkxmVzYyXy1sWG8tRGtmcXNsU0FITnVaQVRod1BBSUtleVczaUhOU253NkFHbzJUVzFBQk82bjgzWHMwaWpMMXk2VkFPVVRwOWFjTmVHdjR6MEtoSUY3STVhU0czSkRET184aDk4X3QxcGZITFROT0dhMzVJWmxnbFEzVDJTLWQ3UzQta0tSa1pNcUw1VXFlM2Z4OXJvd1pNdlFGc3M2OWNvdVgwM3ZGOTQ2Z0NSTjJWV0JnTkRmNkxtc010RE4zT2Z0R2E1VXNlNnU5ZUZaRDFDMnVlWFR4Q2lUemJBbjBZMF82M0RYeWx4WVlSSWVCLXlUNmNnU1p5cUJGLUc0YUZGc013b3hmSGF2WXNHb0JwdXZQTFJzeHVHMzZ6Rl9LRW14WDZpV1huN3gyTzJ1RzNIeXhSRmNoUktmUWd0OGk0YW4?oc=5>
+- **Trump** | US President Trump declares US ‘Guardian of the Hormuz Strait’ <https://news.google.com/rss/articles/CBMiywFBVV95cUxNTVR3Snhfd1QzajdneDdEWEpsaXlSUWdUc3l4X2lLaUliM0dvS01xWFJQT3VjOVRYb1QyUXFBczY2QnBqRTh0bzdWeE5ZaVBvVmEyMmUzWXBXa242QTNRdXJRaFd6andheWJJRWVpTUIxaWVHU25kTTVBc19KVk5WbXEzY0J3bXNqUmUtLWFaODZMUXVZNFpmdEdTemVwdkg4b2FsaEsyQy1GRGZIQW9hWmhkc2huMWZlNXE1cmo1WHFPZi1MRVpxVk92MA?oc=5>
+- **Trump** | 川普称这两天将狠狠打击伊朗 已通知国会战事重启 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xRGJZU0tvX28wUkpRa2xNSVhTLVhrcm1QMWdKNk5xR1AwYW1ic01ULTZCUWdVMzVQU0MtdlczYkpXQjRUOTZRLXVreUpWRjJLYTctbUNpTHZKWDFta3p0ZWhoY0tNYkNT?oc=5>
 
 ### 2026-07-14 00:13  (7 条)
 
