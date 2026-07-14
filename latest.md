@@ -1,17 +1,43 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-14 20:06**
-- 本轮扫到 6844 条, 新增 **6** 条
+- 最近更新: **2026-07-14 21:28**
+- 本轮扫到 6851 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (7 条)
 
-### 2026毕业旅行车上必循环的BGM：经典与新歌混搭
+### 伊拉克新总理访问白宫，特朗普总统谈及美国公司的石油交易
 
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923101_1d5ae159d06801m6gm.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-07-14 21:07
+- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMm9XY3pRcU5hajhjSk1ILUdtTHhJRDdiVGFoVlFtQjdWWjJNcHRUdXNHM2xSYTNzVWh1RXpTYlBIUms3UFh0Wkt3MTFXZ25fYk1JWldwRWl1RkFLRDVoXzJHVTNMbU1UaG1kdmhhZ1B4aVNLWmVvSm1EUXRoZjVOcGw5TXdvU3FjWERFbUMyMTV1MGRKSDhHMi1pdFJvdTN6cVJ5UHA1czZYWFFYbkNpaXQ1VWFXSXFCc3h2U25SSl9aZ1ctbjdKbzZERDVUb00wMEHSAdQBQVVfeXFMTTF4X2hfdG1QMGJrVWFUcEpyM3kxMlVvNjNYWGlHamRoZ2ZCb3NBVUJtcVRyRWV6MERIbGttanFqY21uWkc1NGlZRUZjQURZT1pXRXpDNkdRSjlIZkpfaG42TFpnQTVYZV9UYnBVMlZpNUhsRUtvNVdXQ0lGT2x1T2VQeENsbWVJcUVSTFVuZy1IUHZhSFJDbDVsRTg0d0lENUw2bTdxZlZ0X1lCUURMMGxEVWdJWk5Pa3ZTLU5McUtINkRiMXBDMUZvektSNWJ2WDFiRmQ?oc=5>
+
+### 特朗普在椭圆形办公室与伊拉克总理发表讲话。
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-14 15:58
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBmdGQwSHZ6Q09KMm9Dbk8tclFuLWpOV0JUSnVNWjc0TDFmSHVFNDgzeC1fdzJMVFdsVzJiNnRtNTJYTUdQQzZQNUxIQQ?oc=5>
+
+### 特朗普宣布与伊拉克将达成"大规模"石油协议，伊拉克总理：美军9月底前须撤离
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街见闻
+- 时间: 2026-07-14 20:10
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BcUQ4M0NhQ29hREdLU3VPWUNXZDFXVVdLQmEzYzM3aFV4TXg0NkFqNVJRazBWNlVob2xxMkxQRmNNOUZTSV85OExQQlZmLWpjblZJ?oc=5>
+
+### 562万美元到账，她正式收到特朗普支付的性侵与诽谤赔偿金
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-07-14 20:42
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE15WjdoS3VnM1lSbllJWjJSdVJ6VDZobjZuSEtOemNJMVpvcWRtalJoY3ZPbldDenJxdUU0N09LTUpta2FJRUlkTDdnMlk?oc=5>
 
 ### 特朗普宣称将与伊拉克达成“庞大”的石油交易
 
@@ -19,44 +45,38 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-07-14 17:25
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxORi1sMmVyMjlWVXdIOWJJMVprQnFwYTUtSUJZNUJjOXFyc1Q2c1RjbE93LUcyQlEyVFVkeDZnM0VJQ2Z3Szl2bThBM1VQcUt5R1dqNHVxVlVPZVVMM0VMVDVrQlc0SXRucmVCN1FXUk4zaDZkN0hUNUl0dTJDc2hFSVhaVThjX1JXYjBjQlo4WUV6ZC1TazNjOEF6MVBRcWxLdy0tTHhJV3I0VGprdFlLYXFMSW8xc3J5TlMtR3JtTVNTYnhGdUh0bUpkNU5yMGN1?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNUJtMDQyVThNUUZWYlY1OUN6ZWNFMzZLVXNGYnJzMkF3Wk5ncEVhN25JLUZxSEIxSU5DYW9La21aZkZsQjlyYkUtOGNWWl9NSVNqcENta3R5VTVOM2JsLVM1a2g5dkljcmxZM3lnQWJETmw0TXNBdHhiMkJUMGYzMUwtT1E4WFJvcGF1OWlaYTFqT0pSMmphaUdCd1hVUHJjQnhmOXRkOFJTWmpJS1k0LVFBMTlXb2l2aGNMZjM0bF9adGctM3pBdE8xTTAzUUlNV2c?oc=5>
 
-### 特朗普的祸闯大了，权威美媒估算，美伊一仗打没了5000亿美元
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机网易网
-- 时间: 2026-07-14 16:40
-- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTFBNMmdqYldGWFBfLXFkNk4yMFduSjRKSlVWbUpudUZOdXJoSm9vTXpDeWpoWDZSd1V6cGJZZDBFaFcydlZBSTJDTXZPbmJTT2Y1X19sblI5Vjd2dFE2NmtfdnR3?oc=5>
-
-### 特朗普：将用与海湾各国贸易投资协议取代霍尔木兹海峡货运费
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-07-14 16:01
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5NQm55TzR2R0VSNk5panF4TG03TXhEQzZRZkFEVm94TXRaYU90NksybGVsLXRVbVJqaTZ2UldjOGRIOUx5a2ZRaHBjamEzbjZ0eXlBZXQ0MVhBblBJandoYmJBb3otTnZq?oc=5>
-
-### 特朗普总统：更赞同海湾国家与美国开展贸易和投资，而非对霍尔木兹海峡货运收费
+### 特朗普取消霍尔木兹海峡船只20%收费计划 启动与海湾国家贸易投资协议谈判
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-07-14 19:46
-- 链接: <https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeXMwSUVyUXBVbHI5SG5ZN3NjNUNKN2FWaGxuWjRzaExaSkwyQXpCSy1lRTRtV0V2OGxJRWpucG0zMTE2b2VRRmYyYlMwRFNaaHhyOEtQSGJ3dFRtYkhaLURiSUJXUWgyY0tIWkZyOWI5ZUl6QnRvY0N0NTBQUGJpb3JISVQzdTFrbWFKNXhnOEhzWDBpc0pVY2dZX0tNX0oxaVBaVEE2ZkFoOU9YamtiV240OTFKOHhCSlFwbmdXSGhjSzN0d0lVc2pzemVpSFMya2phU3BwcGYzZEJjSkhXT1AyNVh0ZjBTelHSAewBQVVfeXFMUF84eHlOY2Rkblc3dEdIdHRCM0laMC1uTGxaRzRyZHR0dEtDdmJXQjFVUXlJMGZMM2NtTE5sTDNfSVJsNzZWMkx2WlZ2bjJnUTRSUXNaYkJMdzNiV2pvdmxuelJfTHl1UDBqeVdKM3hTRjgyQkhwQ2dBeE9lMENURmlCY1JSbllFcDNMYkQ3cUtsdXFGTkR6YUwtdjliWEVkYkhNOGxoc2M4bnBFeXVxcHRudUpmYkszMDVXXzEtZXlqZVdtOU9WZGZlWXdzc2dqaG9maHJUYThqVElmekozQzFMNkdlWXNBd3JVQnA?oc=5>
+- 场馆: RFI
+- 时间: 2026-07-14 21:08
+- 链接: <https://news.google.com/rss/articles/CBMi5ANBVV95cUxQMjZrNm9GMjg1VmlzYjUxS0V5NTJxcXpxQnIzLVhIOW9SMy1iRGZEZnBTcFRQVzNxNTNKUnlWYlhOOW1OYktlN3Azd2NuRUJYS0NzR3JwdWZ1SzJ5YjQxUFIzX245ZHRUWHdIclFmaU9HSkxFRVNfZVZYOEZNbFJucHFhME1IUFdLak1yLWxVWjAtUndJd0NDMXgwWktmOHlFYXlpU1dWRl9TYk5sZnVMbDNlWWRkRVBWVkVlSzJWYUNRZ216cHN5YVF3d2JMUmQyM1NhTUJhUzF6X2djd3Rwci1RZWhOaXFkNUdCQ2owNlZaWXJaenZpSFFaN3pyYUo2ekUxOElzR25Pb1JOelRuZTBQR2xGTS1kcjJPSFh6N1V6Um5wSlh0YW1qODY0NEFEMXd2SlFZeUluTzhWS3NvYUJ0MF90UC1vVTE3NlBvY2pwb3A3QnhBT0MzMlB3MFNneTc0U3dWQWpuVlA3WGowN2JHRm5CaDhRTDBXNDdzT2pYVkNsaFVwOUFremlFZ0wxb1UxcFRiQ2VSb0wxVW9qMFk4S3Y3d0NXWkJSY3QzMEZSZ3FhMTd3Y3JNSWJtYW5Sd3pDSmpZcWJna01rUVM5V0xOeVQza2FuVngyaE9pUlFZSy12?oc=5>
 
-### Oil Trims Gains After Trump Backs Away From Proposed 20% Hormuz Fee -- Market Talk
+### Dow Jones Top Energy Headlines at 4 PM ET: Trump Backtracks on 20% Toll for Shipping in Hormuz Strait | BP ...
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: Moomoo
-- 时间: 2026-07-14 15:38
-- 链接: <https://news.google.com/rss/articles/CBMipAFBVV95cUxOX1VZbE53MlZtbi1jSW9oOUl2ZHVKZVhySkw5U1VNZjY1bWg1QndKQUZqR1lsWVQ0LXJBMFltMXNraWNDUjBhMTA5YnlhZ0Q5allNbktRaTNhbDQ3NF9NNGhJcU9oeXlUaGo3WVM0WmVXR0FrTzFpT2t3TWF3WlVoLW9Ia2N4WlJlNG5SVFJqTHJNYWFOWHBJV1Y1ZGQyZ2VLYVJNTQ?oc=5>
+- 时间: 2026-07-14 20:16
+- 链接: <https://news.google.com/rss/articles/CBMimgFBVV95cUxQbkxuRlhYTmd1dkh3eUh6TWZLamRRLUlPQ1JtNlFkTWotUjFyM0NpWXB0WU83Wm5SWDV3LS1jSFd1QUUzWDNiblFrckpxUTk3eWQzY3pGcm1EYjF6ZU9objZ1X3NFN0pyNkdiMTlMYkZPdHRCT1FQUFM2ZF91Mklld0k0Q09nWEN5anR6cFA1NjE0bUdhTEFyOUdR?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-14 21:28  (7 条)
+
+- **特朗普** | 伊拉克新总理访问白宫，特朗普总统谈及美国公司的石油交易 <https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMm9XY3pRcU5hajhjSk1ILUdtTHhJRDdiVGFoVlFtQjdWWjJNcHRUdXNHM2xSYTNzVWh1RXpTYlBIUms3UFh0Wkt3MTFXZ25fYk1JWldwRWl1RkFLRDVoXzJHVTNMbU1UaG1kdmhhZ1B4aVNLWmVvSm1EUXRoZjVOcGw5TXdvU3FjWERFbUMyMTV1MGRKSDhHMi1pdFJvdTN6cVJ5UHA1czZYWFFYbkNpaXQ1VWFXSXFCc3h2U25SSl9aZ1ctbjdKbzZERDVUb00wMEHSAdQBQVVfeXFMTTF4X2hfdG1QMGJrVWFUcEpyM3kxMlVvNjNYWGlHamRoZ2ZCb3NBVUJtcVRyRWV6MERIbGttanFqY21uWkc1NGlZRUZjQURZT1pXRXpDNkdRSjlIZkpfaG42TFpnQTVYZV9UYnBVMlZpNUhsRUtvNVdXQ0lGT2x1T2VQeENsbWVJcUVSTFVuZy1IUHZhSFJDbDVsRTg0d0lENUw2bTdxZlZ0X1lCUURMMGxEVWdJWk5Pa3ZTLU5McUtINkRiMXBDMUZvektSNWJ2WDFiRmQ?oc=5>
+- **特朗普** | 特朗普在椭圆形办公室与伊拉克总理发表讲话。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBmdGQwSHZ6Q09KMm9Dbk8tclFuLWpOV0JUSnVNWjc0TDFmSHVFNDgzeC1fdzJMVFdsVzJiNnRtNTJYTUdQQzZQNUxIQQ?oc=5>
+- **特朗普** | 特朗普宣布与伊拉克将达成"大规模"石油协议，伊拉克总理：美军9月底前须撤离 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BcUQ4M0NhQ29hREdLU3VPWUNXZDFXVVdLQmEzYzM3aFV4TXg0NkFqNVJRazBWNlVob2xxMkxQRmNNOUZTSV85OExQQlZmLWpjblZJ?oc=5>
+- **特朗普** | 562万美元到账，她正式收到特朗普支付的性侵与诽谤赔偿金 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE15WjdoS3VnM1lSbllJWjJSdVJ6VDZobjZuSEtOemNJMVpvcWRtalJoY3ZPbldDenJxdUU0N09LTUpta2FJRUlkTDdnMlk?oc=5>
+- **特朗普** | 特朗普宣称将与伊拉克达成“庞大”的石油交易 <https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNUJtMDQyVThNUUZWYlY1OUN6ZWNFMzZLVXNGYnJzMkF3Wk5ncEVhN25JLUZxSEIxSU5DYW9La21aZkZsQjlyYkUtOGNWWl9NSVNqcENta3R5VTVOM2JsLVM1a2g5dkljcmxZM3lnQWJETmw0TXNBdHhiMkJUMGYzMUwtT1E4WFJvcGF1OWlaYTFqT0pSMmphaUdCd1hVUHJjQnhmOXRkOFJTWmpJS1k0LVFBMTlXb2l2aGNMZjM0bF9adGctM3pBdE8xTTAzUUlNV2c?oc=5>
+- **Trump** | 特朗普取消霍尔木兹海峡船只20%收费计划 启动与海湾国家贸易投资协议谈判 <https://news.google.com/rss/articles/CBMi5ANBVV95cUxQMjZrNm9GMjg1VmlzYjUxS0V5NTJxcXpxQnIzLVhIOW9SMy1iRGZEZnBTcFRQVzNxNTNKUnlWYlhOOW1OYktlN3Azd2NuRUJYS0NzR3JwdWZ1SzJ5YjQxUFIzX245ZHRUWHdIclFmaU9HSkxFRVNfZVZYOEZNbFJucHFhME1IUFdLak1yLWxVWjAtUndJd0NDMXgwWktmOHlFYXlpU1dWRl9TYk5sZnVMbDNlWWRkRVBWVkVlSzJWYUNRZ216cHN5YVF3d2JMUmQyM1NhTUJhUzF6X2djd3Rwci1RZWhOaXFkNUdCQ2owNlZaWXJaenZpSFFaN3pyYUo2ekUxOElzR25Pb1JOelRuZTBQR2xGTS1kcjJPSFh6N1V6Um5wSlh0YW1qODY0NEFEMXd2SlFZeUluTzhWS3NvYUJ0MF90UC1vVTE3NlBvY2pwb3A3QnhBT0MzMlB3MFNneTc0U3dWQWpuVlA3WGowN2JHRm5CaDhRTDBXNDdzT2pYVkNsaFVwOUFremlFZ0wxb1UxcFRiQ2VSb0wxVW9qMFk4S3Y3d0NXWkJSY3QzMEZSZ3FhMTd3Y3JNSWJtYW5Sd3pDSmpZcWJna01rUVM5V0xOeVQza2FuVngyaE9pUlFZSy12?oc=5>
+- **Trump** | Dow Jones Top Energy Headlines at 4 PM ET: Trump Backtracks on 20% Toll for Shipping in Hormuz Strait | BP ... <https://news.google.com/rss/articles/CBMimgFBVV95cUxQbkxuRlhYTmd1dkh3eUh6TWZLamRRLUlPQ1JtNlFkTWotUjFyM0NpWXB0WU83Wm5SWDV3LS1jSFd1QUUzWDNiblFrckpxUTk3eWQzY3pGcm1EYjF6ZU9objZ1X3NFN0pyNkdiMTlMYkZPdHRCT1FQUFM2ZF91Mklld0k0Q09nWEN5anR6cFA1NjE0bUdhTEFyOUdR?oc=5>
 
 ### 2026-07-14 20:06  (6 条)
 
