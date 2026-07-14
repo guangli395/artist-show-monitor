@@ -1,80 +1,82 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-14 15:54**
-- 本轮扫到 6828 条, 新增 **8** 条
+- 最近更新: **2026-07-14 17:07**
+- 本轮扫到 6835 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (7 条)
 
-### 特朗普最忠实的盟友之一、共和党重量级参议员格雷厄姆突发疾病去世
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: dw.com
-- 时间: 2026-07-12 08:06
-- 链接: <https://news.google.com/rss/articles/CBMisANBVV95cUxPUnZMTFhxZks2WFZ6MFEwc0ZQRmlDU1JBTXhSX2Rtd2RDNVVNVzcwM2twNWFuU1RDSVowdjUwQjZ1aTFMWFZsWGUyUER0ZWZFaVNZcEFHcjh1ZmZFckMwNzZIcWFqYkpTQ3pkNlcwaGFGeThpSjNWSTgtM1JQb012cEVjWHo5cXFaRllTalNRYm1xa2lnUTJZM29QcnhiX1ZpZUdncXZ5eHQtY183WE1MclF6M2JsUDVrYnRsUFd1UlZwM1Vyb3NxYzM3ajN0ckN5Umd0ZTlTcU5idTY5Z1U3eDlzVHBIN3J3QlBfTzhkLW5YcElnNnFueXVpcUVRQkVpcG1zWFpMQTI4cGxRdW5zcG5xMUZJbjBEbmFyZVdPckdLdExtYUxVamZGZlF4d09NcWQ4ZmFBYWQ2LUkwZGpRWTZzUmliVVotYVJWYVRoMC1ob0ZRSUd1Zlc5OF9OVHB3TTUzUGhTX3JwSVY2dzlXQnZSTWVuMm94ZHV2ejgyZUJ0TUFnVTJiMk1fZmJpZFFSeGNMa1B0OHJIbTBlUHVNamlMcTAyRkhWN1d6T08yOXk?oc=5>
-
-### 白宫上演赛车演示，特朗普宣布华盛顿将举办印地赛车
+### 特朗普：美国将对霍尔木兹海峡货运收取20%费用
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 手机网易网
-- 时间: 2026-07-14 11:53
-- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE5PVGtNSk0yWkU4UGtDX1ptd1pVNFpnZ1NSbm5CRk5SUE05WmVXYUJpdG9WUEhrTXlGYUdvZlJiMXRqTkJfcEdvby1mY25JWnhBYXlzWEJMYU5ROS1tY1FZQlln?oc=5>
+- 场馆: 东方财富
+- 时间: 2026-07-14 07:56
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBpUXB1MGFBVGpYWEhDLUZMeDViSjdKSEo2UU9mazRnZllwVElFRmRMRGo1ckdNbTFjRHNDNFh6Ul9QQzk4bmlMQjd6RFh6aWxOclpoejBKZ3R0TVFVVk1EZXJ0U0o1Zw?oc=5>
 
-### 噩耗传来！特朗普铁杆盟友去世，泽连斯基慌了，他可能会沦为弃子
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-07-14 13:33
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxPZHcxbTYwTnlhdTExZDAwVUJBOXo1UHNRejZ4d0YzZjcyZ21JOVNqcjhVclFoRWJmU0RRNUlxRVZ6dFU3X1JHcXo2U0lGRWdUUG1MNVEyWG5ndHRXT0NwbENOQ1llTGd4UDZ5cl9DMk44MklZaV9Jb0loMl9qWDNHbG1rWEQ0ZTI2bzJWRg?oc=5>
-
-### 特朗普“打脸”鲁比奥：“守护天使”要收费
+### 美媒看不下去：鲁比奥是伪君子，而特朗普“装都不装”-观察者网
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-07-14 09:15
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFA1Q2ZDd09OMk5zampZUzRxOUc4Rml6YnRRanA3dVltRmNoQ0NGeEdNejJCUXR3X3FUeUZMOUpWYmJTNG9STXhIT0JZSm5PZUFieHRZZlJTN1hjTUdUTHpYeHR3SThKOXBCTkhVVUxRcHkyZmlHeFJoUkxzZWh6ZVk?oc=5>
+- 场馆: 观察者网
+- 时间: 2026-07-14 11:56
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1GaURnSjdJVV9jNmJCSXMySl9BWFVtaTBMT2VQNVNzaGdjazY2c3BwRVFKVW5aWkpJbnRzeHpFV0pGZU1xeTBZWllLTXdycGRpWWZKNWlyUERWQnZFckpIWFRZZFdUQ216N2c?oc=5>
 
-### Trump Mobile T1屏幕亮度不足会影响户外使用体验吗？
+### 特朗普：美伊谅解备忘录只是一次“考验”，而伊朗没有通过！
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-07-14 12:21
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE02Snh6bExoT3lkNlpfUExLLXdrVWY0N3dpMlJNQjJMZ1NvV0tCSFlMUDVOT2NTZFZQc3JHNURVRkI2ejdhTVYxTTZLZ2xiMW1jRVpLekRGLUUyczFoaEE?oc=5>
+
+### 特朗普称仍可能与伊朗达成协议，中东盟友应支付保护费
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街见闻
+- 时间: 2026-07-13 22:59
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxV25YbHRYZXdLUHlPR3NERy1zNEFaZzFhaUZLZHdpcWtDV09tMy1uejlGeTgybGM4bW5tUS1MSEhMUl9HNUxROThDdjVUMDRKUTdZ?oc=5>
+
+### 特朗普：美国将摧毁伊朗疑有地下设施的镐山
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-07-13 23:34
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBubDdTQTNSNDdDcVFQNkJQcUpZc1R2VkNmVXUyUlM2SHIyZ19Jbm5UMGowZU5wZ2YzUGxNMmlpRXc5UEVZNmJrM1B1WGp1NEY2T0RWVEFlN1R0LU1BUmc3djU4Z3hIUQ?oc=5>
+
+### 特朗普称取消向海湾国家征收涉霍尔木兹海峡管控“补偿”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 21财经
+- 时间: 2026-07-14 15:30
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxQUWxLWFNRMVUzVHgwd1NKek8wWFV5SGRjS2R5dzRGc09EelBseVNXZ2tESWI3NlBYUGV6NS1kR1lBdy1Hem1Sc3U0djlJVXZuQ2F2ZVFuVEV3bGxUajViUEEyaFlQdGd6dG4zeGdvZXB4N3ZwNmZJOUc1OEIzeTB0RVljY05pekdlbUNZYQ?oc=5>
+
+### 特朗普称放弃收20%海峡护航费 以这种形式取代
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-07-14 15:12
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE0yTHNadGdEZVpFSFlyZ1BremhNZjhOcHp5S2QybDdKdHFBMVhyQm1MNlZwVlIyYXhhS2w4dFNQdVc0T0FhTlg0bVVEbnJxVklDclNEenhEMmNQX0F5VTFBaXozUDRqSnZBMzhGaUdud1lSUQ?oc=5>
-
-### $比特币(BTC.CC)$ trump告诉伊朗，他们不能对通过海峡的安全通行收取比特币过路费😳。他想要每桶石油收取$...
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-07-14 12:13
-- 链接: <https://news.google.com/rss/articles/CBMisAFBVV95cUxPeFJnUEp6d0JJM3lYZndxckZ5VUxPZlBCT283WUU5U1hrZVhoVm5ScVhBZFpRY3dqb2lPYkt6dVF6MWR2X3dSVnJoVFBHZWViRVlUWU5TenNHdjBBbklEQk9LTTZWQUp3dURsTm9IWjlidUZ6TXFncHlBWTZPdEotSjlCWEUyLUJXeVRXSF9tbFJFQmNPblFTS0YwOWpjNnhWdlhWNUljU0NxLUh1ZHo3eg?oc=5>
-
-### 为何世界应效仿特朗普一次
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: The Business Times
-- 时间: 2026-07-14 08:47
-- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxNOGhrZ1B2aTVMQV94dlhhaUlsWE1pZFBjT05jdVZmZzM3SkhGYjhkVGFZd3NRenRJM3lOdXRBWFdFRHVBcU5fblhCRDEyY3lqX1haalpwMVYxRkVDRHBkZktfQXU0RndUY0dBWHlpamdGTXZTQmJvbFd6enNSUUVPSUFLTDJNWjg4YjFnSFZhQjEtczFB?oc=5>
-
-### 伊朗霍尔木兹费用比trump便宜20% 😂😂😂
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-07-14 12:11
-- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxPVFpyMlN5V3B5OUIycTNLeFVhN1NIcHUtV3BxNjFXbE5UUEVIekdjNEEwMTlpM2U5QjVBQWY3bEZKZnRaNEtiMnZwc3hzUHpkMXpBLS16ZW1PTUZZWHBULTAxOENMeWpvUGc4cmdkVnlCNnVfTnFueG9tRlZwMGlvQ0xUUVlBN2pEaFNHd1pfLV93aFVUVnpWYTh4cHRCb2t5?oc=5>
+- 场馆: 文学城
+- 时间: 2026-07-14 16:24
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lVmUtWFRWaERBY1dWc3RfV3ItcTY0VzFfRkdUblBrTGNYa2FwRDFqTFRnZUdCN3dianNGWGFMd0YzSG12ZGN2UVdDREVwT3U5Z1NzQmdBd0tMR25FaVN6RVhHemgtQXhM?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-14 17:07  (7 条)
+
+- **特朗普** | 特朗普：美国将对霍尔木兹海峡货运收取20%费用 <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBpUXB1MGFBVGpYWEhDLUZMeDViSjdKSEo2UU9mazRnZllwVElFRmRMRGo1ckdNbTFjRHNDNFh6Ul9QQzk4bmlMQjd6RFh6aWxOclpoejBKZ3R0TVFVVk1EZXJ0U0o1Zw?oc=5>
+- **特朗普** | 美媒看不下去：鲁比奥是伪君子，而特朗普“装都不装”-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE1GaURnSjdJVV9jNmJCSXMySl9BWFVtaTBMT2VQNVNzaGdjazY2c3BwRVFKVW5aWkpJbnRzeHpFV0pGZU1xeTBZWllLTXdycGRpWWZKNWlyUERWQnZFckpIWFRZZFdUQ216N2c?oc=5>
+- **特朗普** | 特朗普：美伊谅解备忘录只是一次“考验”，而伊朗没有通过！ <https://news.google.com/rss/articles/CBMiXkFVX3lxTE02Snh6bExoT3lkNlpfUExLLXdrVWY0N3dpMlJNQjJMZ1NvV0tCSFlMUDVOT2NTZFZQc3JHNURVRkI2ejdhTVYxTTZLZ2xiMW1jRVpLekRGLUUyczFoaEE?oc=5>
+- **特朗普** | 特朗普称仍可能与伊朗达成协议，中东盟友应支付保护费 <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxV25YbHRYZXdLUHlPR3NERy1zNEFaZzFhaUZLZHdpcWtDV09tMy1uejlGeTgybGM4bW5tUS1MSEhMUl9HNUxROThDdjVUMDRKUTdZ?oc=5>
+- **特朗普** | 特朗普：美国将摧毁伊朗疑有地下设施的镐山 <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBubDdTQTNSNDdDcVFQNkJQcUpZc1R2VkNmVXUyUlM2SHIyZ19Jbm5UMGowZU5wZ2YzUGxNMmlpRXc5UEVZNmJrM1B1WGp1NEY2T0RWVEFlN1R0LU1BUmc3djU4Z3hIUQ?oc=5>
+- **特朗普** | 特朗普称取消向海湾国家征收涉霍尔木兹海峡管控“补偿” <https://news.google.com/rss/articles/CBMijAFBVV95cUxQUWxLWFNRMVUzVHgwd1NKek8wWFV5SGRjS2R5dzRGc09EelBseVNXZ2tESWI3NlBYUGV6NS1kR1lBdy1Hem1Sc3U0djlJVXZuQ2F2ZVFuVEV3bGxUajViUEEyaFlQdGd6dG4zeGdvZXB4N3ZwNmZJOUc1OEIzeTB0RVljY05pekdlbUNZYQ?oc=5>
+- **Trump** | 特朗普称放弃收20%海峡护航费 以这种形式取代 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lVmUtWFRWaERBY1dWc3RfV3ItcTY0VzFfRkdUblBrTGNYa2FwRDFqTFRnZUdCN3dianNGWGFMd0YzSG12ZGN2UVdDREVwT3U5Z1NzQmdBd0tMR25FaVN6RVhHemgtQXhM?oc=5>
 
 ### 2026-07-14 15:54  (8 条)
 
