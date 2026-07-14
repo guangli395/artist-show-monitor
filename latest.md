@@ -1,54 +1,80 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-13 23:01**
-- 本轮扫到 6764 条, 新增 **5** 条
+- 最近更新: **2026-07-14 00:13**
+- 本轮扫到 6771 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (7 条)
 
-### 演唱会门票团购怎么选？2026最新攻略：渠道、优惠、避坑全解析
+### 演唱会ODD拍摄手法是什么？薛之谦、周杰伦、林宥嘉等明星现场如何用折叠屏拍出刷屏级大片？一文看懂5种核心技法与4个代表作
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068305_1d5b04cd10680244z2.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd8480680214lq.html>
 
-### 特朗普铁杆盟友去世，死因曝光！他与内塔尼亚胡“里应外合”，煽动特朗普打伊朗！曾长期支持美国动武，包括对伊拉克、阿富汗、叙利亚等
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-07-13 03:04
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBTT1BkMGxBQWlZVEwwVVBoM0RXMjEtbVZvY25HTENXN3hQRmtLNXZrOS1HeXJIaWxkcFozbkhEU2xZYUY0VDFIX2dpS0tzeUdEZTRSc3RidzJjRE5rVEFzS2VXd2l4SkVsRnZjX3dXZmk5aXlrNFBkag?oc=5>
-
-### 特朗普总统宣布对伊朗重新实施制裁，推高原油价格；美联储理事沃勒发表鹰派言论，导致长期利率上升，美元继续走强，兑日元升至162.48。
+### 特朗普称美军“猛烈打击”伊朗 霍尔木兹海峡“仍然开放”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-07-13 21:08
-- 链接: <https://news.google.com/rss/articles/CBMisAFBVV95cUxPU2VqeEpCRHN3Ql9ObG5WX1ZWSmR4bmJPSVRQeTZYNlpodHEyVmZpSUIwNlA3WlhPZUc0VVp1ZG96T3JISXY1OGI4cW1rSXN3YnZRUktFUzZsZUU2U3VNeDhlcGJqMGJQUmRnbGZ6dlNSNExqTDNSaVA2bGdSQ0RNcGFiUkhndGMtQXRYZzV2bERpeE54emxFT3p3N0dSWlpJb1kwbnhZUnBRdUF3RlZVRw?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-07-12 14:34
+- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxPLTVOT3U4OEFhVEYzYTJPUFBpTk1XUzBySU1BLS1DRDFqYzlWVWwtX1RJb1JRbG5aT3VqT3pVSFM4bDdGWXowSzhPbGxDZ01nU0xKUl9kaDBoZ0lWMXR1SkZBSjVEV3lBcFFWclNxU3NNMGNmc0d1Q08wOVg0T1VGTkpYeC1NaGtqanZBYVprVTl6aHVpbTFaWHdZLXRXT0hJcWRLVkZOT3ZSN3dkMGZ4QVRkdGhRdTFfNl9SZzRFcjdwcmNZT0J2NzVLdU5pd2s?oc=5>
 
-### “伊朗没有通过”，特朗普称美伊谅解备忘录只是一次“考验”
+### 特朗普：美国正保护中东多个富裕国家，应获得相关国家费用补偿
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-13 22:06
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9YUlN6WHFyR2Y3dFZhckY2RFlvY0tDYlVOaXFuX1BCYkNJbW96ZFk4OTlkS2VwSnk2bXFxQWNlcFA2VkdyTUswOEplekQ?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-07-13 23:40
+- 链接: <https://news.google.com/rss/articles/CBMiggJBVV95cUxQNWctbUhwRlhIaDhuQTRIT3VrS09iMXVGRUdJcEdlRUlacTgtNlRha1gzaW92QW00dWg0bVFITlNxVWhtRmNOX2kwUXp6S1lCZFVlTnlPQnRHb01DaFpsemZQSm9wUmpENHQtTjlUb3lnOWYyZkx2RUxxT21YWmtCVm83VUpXNmpPWE1PcDNfWVR4OFBQeHZMMG4xUEVtbnFiWnR4Mnd3UnR1WnY0ajdZaVdHejM3VmhxY1NyTjFhTEZSdlJPaDgwaUptMmw1eWNOaks0RXFXS0pVYXdKVFo5b0JiMHVsSjdyN0l4cHVubmlNdWhDZnQ3UjBPMW5UQV96bkE?oc=5>
 
-### 特朗普宣布将向全国发表讲话
+### 美媒：特朗普已通知国会伊朗战事重新爆发
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新京报
+- 时间: 2026-07-13 23:20
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Qd2UxalQ3bVFzenJZb3c3eXdNNkxvMl9HV3p6N3p2TG93SENUQXhZdE5XN09PTnNxZkVkRVNvX3hraHBHSU15MlhSYy1nMFRzN1FwemgwcFYyUldKSDRzYy12OHQ?oc=5>
+
+### 特朗普称仍可能与伊朗达成协议
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 搜狐网
+- 时间: 2026-07-13 23:03
+- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRXpHZi15SnpoMTJJeDdlbzJRcDItRVY1X2NnWXBERXFDUkFSa01rWmtWUHgtMFY5R1k0cmRVaTFvV196ZHVvOVQtdzFzbWE4SHF1Rm9FYkllalNyY01WRnVTOVk4VVpGaDNLemN0QTV4NHpPNEFKU0d4TEhRa1pFUzFCOXkxUEdVWlRn?oc=5>
+
+### 特朗普支持骤逝参议员林赛·格雷厄姆之妹接替其参议院席位
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-07-13 22:38
-- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxOb3pMOENlMTBaOTlHamM5dXBUWHR1VXNTOFEtbF9CUURFNzVGMHlERnIxTHpYSmlGcnQ3VkQ0NEdvR292OEZYblI3TU9xRFBJTnYxS19MUlE0TnBSVnZnOGZUdmFmVG1OZUFZdkpQbFBTajE0LUg1bGlXRmRHaHdnbGNiM0d6OEI5cmFpVTFiaTVoTTAz?oc=5>
+- 场馆: 华尔街日报中文网
+- 时间: 2026-07-13 23:59
+- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxOWTZ1bkZuMFJVTjR5ajJDSWQ5UE53cVFoS0xSUlB4c0JYZXNNcTRka01WNDRQTmVKbUhMUUhmMmVqTU1aNk9CeXNpblBZamwwZFpGek82SU9pbG90Rk1zLU5ranpqQkdxRjFGd3ZLLTUyYkZxbmdXX25RaURMZlZoSkRn?oc=5>
+
+### 美国对伊朗发动新一轮打击，特朗普权衡攻击核设施
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-07-13 23:11
+- 链接: <https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVi1VMUxpMzJaTkwtc09ES1hXQXl0LUdhcjhiNTVyRF9ZMmhpdEp3N0Q5S3dlV1A3eTZUVmRYd2dQemVlNEVqdjNpWklTMllVLUdtd0RIVzNscWhoZHlaTms3YUQyQ2tON3hmSFA0ZW1nTUdGRWtoNnlEenI4SnFheGFRYUgyM0NUN29Ib2ZyUmgzTmRmaXVQQ1VWM3dGQ2FCUF9EZDJXaks?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-14 00:13  (7 条)
+
+- **周杰伦** | 演唱会ODD拍摄手法是什么？薛之谦、周杰伦、林宥嘉等明星现场如何用折叠屏拍出刷屏级大片？一文看懂5种核心技法与4个代表作 <https://k.sina.com.cn/article_7879776328_1d5abd8480680214lq.html>
+- **特朗普** | 特朗普称美军“猛烈打击”伊朗 霍尔木兹海峡“仍然开放” <https://news.google.com/rss/articles/CBMizwFBVV95cUxPLTVOT3U4OEFhVEYzYTJPUFBpTk1XUzBySU1BLS1DRDFqYzlWVWwtX1RJb1JRbG5aT3VqT3pVSFM4bDdGWXowSzhPbGxDZ01nU0xKUl9kaDBoZ0lWMXR1SkZBSjVEV3lBcFFWclNxU3NNMGNmc0d1Q08wOVg0T1VGTkpYeC1NaGtqanZBYVprVTl6aHVpbTFaWHdZLXRXT0hJcWRLVkZOT3ZSN3dkMGZ4QVRkdGhRdTFfNl9SZzRFcjdwcmNZT0J2NzVLdU5pd2s?oc=5>
+- **特朗普** | 特朗普：美国正保护中东多个富裕国家，应获得相关国家费用补偿 <https://news.google.com/rss/articles/CBMiggJBVV95cUxQNWctbUhwRlhIaDhuQTRIT3VrS09iMXVGRUdJcEdlRUlacTgtNlRha1gzaW92QW00dWg0bVFITlNxVWhtRmNOX2kwUXp6S1lCZFVlTnlPQnRHb01DaFpsemZQSm9wUmpENHQtTjlUb3lnOWYyZkx2RUxxT21YWmtCVm83VUpXNmpPWE1PcDNfWVR4OFBQeHZMMG4xUEVtbnFiWnR4Mnd3UnR1WnY0ajdZaVdHejM3VmhxY1NyTjFhTEZSdlJPaDgwaUptMmw1eWNOaks0RXFXS0pVYXdKVFo5b0JiMHVsSjdyN0l4cHVubmlNdWhDZnQ3UjBPMW5UQV96bkE?oc=5>
+- **特朗普** | 美媒：特朗普已通知国会伊朗战事重新爆发 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Qd2UxalQ3bVFzenJZb3c3eXdNNkxvMl9HV3p6N3p2TG93SENUQXhZdE5XN09PTnNxZkVkRVNvX3hraHBHSU15MlhSYy1nMFRzN1FwemgwcFYyUldKSDRzYy12OHQ?oc=5>
+- **特朗普** | 特朗普称仍可能与伊朗达成协议 <https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRXpHZi15SnpoMTJJeDdlbzJRcDItRVY1X2NnWXBERXFDUkFSa01rWmtWUHgtMFY5R1k0cmRVaTFvV196ZHVvOVQtdzFzbWE4SHF1Rm9FYkllalNyY01WRnVTOVk4VVpGaDNLemN0QTV4NHpPNEFKU0d4TEhRa1pFUzFCOXkxUEdVWlRn?oc=5>
+- **Trump** | 特朗普支持骤逝参议员林赛·格雷厄姆之妹接替其参议院席位 <https://news.google.com/rss/articles/CBMiggFBVV95cUxOWTZ1bkZuMFJVTjR5ajJDSWQ5UE53cVFoS0xSUlB4c0JYZXNNcTRka01WNDRQTmVKbUhMUUhmMmVqTU1aNk9CeXNpblBZamwwZFpGek82SU9pbG90Rk1zLU5ranpqQkdxRjFGd3ZLLTUyYkZxbmdXX25RaURMZlZoSkRn?oc=5>
+- **Trump** | 美国对伊朗发动新一轮打击，特朗普权衡攻击核设施 <https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVi1VMUxpMzJaTkwtc09ES1hXQXl0LUdhcjhiNTVyRF9ZMmhpdEp3N0Q5S3dlV1A3eTZUVmRYd2dQemVlNEVqdjNpWklTMllVLUdtd0RIVzNscWhoZHlaTms3YUQyQ2tON3hmSFA0ZW1nTUdGRWtoNnlEenI4SnFheGFRYUgyM0NUN29Ib2ZyUmgzTmRmaXVQQ1VWM3dGQ2FCUF9EZDJXaks?oc=5>
 
 ### 2026-07-13 23:01  (5 条)
 
