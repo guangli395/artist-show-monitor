@@ -1,40 +1,91 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-14 14:21**
-- 本轮扫到 6820 条, 新增 **4** 条
+- 最近更新: **2026-07-14 15:54**
+- 本轮扫到 6828 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (8 条)
 
-### 周杰伦温网帮老婆拿饮料被赞好老公，新专辑已写12首歌却为何迟迟不发？
+### 特朗普最忠实的盟友之一、共和党重量级参议员格雷厄姆突发疾病去世
 
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd848068021bt8.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: dw.com
+- 时间: 2026-07-12 08:06
+- 链接: <https://news.google.com/rss/articles/CBMisANBVV95cUxPUnZMTFhxZks2WFZ6MFEwc0ZQRmlDU1JBTXhSX2Rtd2RDNVVNVzcwM2twNWFuU1RDSVowdjUwQjZ1aTFMWFZsWGUyUER0ZWZFaVNZcEFHcjh1ZmZFckMwNzZIcWFqYkpTQ3pkNlcwaGFGeThpSjNWSTgtM1JQb012cEVjWHo5cXFaRllTalNRYm1xa2lnUTJZM29QcnhiX1ZpZUdncXZ5eHQtY183WE1MclF6M2JsUDVrYnRsUFd1UlZwM1Vyb3NxYzM3ajN0ckN5Umd0ZTlTcU5idTY5Z1U3eDlzVHBIN3J3QlBfTzhkLW5YcElnNnFueXVpcUVRQkVpcG1zWFpMQTI4cGxRdW5zcG5xMUZJbjBEbmFyZVdPckdLdExtYUxVamZGZlF4d09NcWQ4ZmFBYWQ2LUkwZGpRWTZzUmliVVotYVJWYVRoMC1ob0ZRSUd1Zlc5OF9OVHB3TTUzUGhTX3JwSVY2dzlXQnZSTWVuMm94ZHV2ejgyZUJ0TUFnVTJiMk1fZmJpZFFSeGNMa1B0OHJIbTBlUHVNamlMcTAyRkhWN1d6T08yOXk?oc=5>
 
-### 周杰伦看温网帮老婆拿饮料后，粉丝追问：新专辑何时发？一文看懂他为何写完12首歌却迟迟不发布
+### 白宫上演赛车演示，特朗普宣布华盛顿将举办印地赛车
 
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd848068021bsy.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 手机网易网
+- 时间: 2026-07-14 11:53
+- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE5PVGtNSk0yWkU4UGtDX1ptd1pVNFpnZ1NSbm5CRk5SUE05WmVXYUJpdG9WUEhrTXlGYUdvZlJiMXRqTkJfcEdvby1mY25JWnhBYXlzWEJMYU5ROS1tY1FZQlln?oc=5>
 
-### 周杰伦近期是否有新歌或演唱会计划？
+### 噩耗传来！特朗普铁杆盟友去世，泽连斯基慌了，他可能会沦为弃子
 
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd848068021bqm.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 搜狐网
+- 时间: 2026-07-14 13:33
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxPZHcxbTYwTnlhdTExZDAwVUJBOXo1UHNRejZ4d0YzZjcyZ21JOVNqcjhVclFoRWJmU0RRNUlxRVZ6dFU3X1JHcXo2U0lGRWdUUG1MNVEyWG5ndHRXT0NwbENOQ1llTGd4UDZ5cl9DMk44MklZaV9Jb0loMl9qWDNHbG1rWEQ0ZTI2bzJWRg?oc=5>
 
-### 周杰伦温网宠妻名场面！穿西装拿饮料，网友：比新歌准时
+### 特朗普“打脸”鲁比奥：“守护天使”要收费
 
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd848068021bpo.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-07-14 09:15
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFA1Q2ZDd09OMk5zampZUzRxOUc4Rml6YnRRanA3dVltRmNoQ0NGeEdNejJCUXR3X3FUeUZMOUpWYmJTNG9STXhIT0JZSm5PZUFieHRZZlJTN1hjTUdUTHpYeHR3SThKOXBCTkhVVUxRcHkyZmlHeFJoUkxzZWh6ZVk?oc=5>
+
+### Trump Mobile T1屏幕亮度不足会影响户外使用体验吗？
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-07-14 15:12
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE0yTHNadGdEZVpFSFlyZ1BremhNZjhOcHp5S2QybDdKdHFBMVhyQm1MNlZwVlIyYXhhS2w4dFNQdVc0T0FhTlg0bVVEbnJxVklDclNEenhEMmNQX0F5VTFBaXozUDRqSnZBMzhGaUdud1lSUQ?oc=5>
+
+### $比特币(BTC.CC)$ trump告诉伊朗，他们不能对通过海峡的安全通行收取比特币过路费😳。他想要每桶石油收取$...
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-07-14 12:13
+- 链接: <https://news.google.com/rss/articles/CBMisAFBVV95cUxPeFJnUEp6d0JJM3lYZndxckZ5VUxPZlBCT283WUU5U1hrZVhoVm5ScVhBZFpRY3dqb2lPYkt6dVF6MWR2X3dSVnJoVFBHZWViRVlUWU5TenNHdjBBbklEQk9LTTZWQUp3dURsTm9IWjlidUZ6TXFncHlBWTZPdEotSjlCWEUyLUJXeVRXSF9tbFJFQmNPblFTS0YwOWpjNnhWdlhWNUljU0NxLUh1ZHo3eg?oc=5>
+
+### 为何世界应效仿特朗普一次
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: The Business Times
+- 时间: 2026-07-14 08:47
+- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxNOGhrZ1B2aTVMQV94dlhhaUlsWE1pZFBjT05jdVZmZzM3SkhGYjhkVGFZd3NRenRJM3lOdXRBWFdFRHVBcU5fblhCRDEyY3lqX1haalpwMVYxRkVDRHBkZktfQXU0RndUY0dBWHlpamdGTXZTQmJvbFd6enNSUUVPSUFLTDJNWjg4YjFnSFZhQjEtczFB?oc=5>
+
+### 伊朗霍尔木兹费用比trump便宜20% 😂😂😂
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-07-14 12:11
+- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxPVFpyMlN5V3B5OUIycTNLeFVhN1NIcHUtV3BxNjFXbE5UUEVIekdjNEEwMTlpM2U5QjVBQWY3bEZKZnRaNEtiMnZwc3hzUHpkMXpBLS16ZW1PTUZZWHBULTAxOENMeWpvUGc4cmdkVnlCNnVfTnFueG9tRlZwMGlvQ0xUUVlBN2pEaFNHd1pfLV93aFVUVnpWYTh4cHRCb2t5?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-14 15:54  (8 条)
+
+- **特朗普** | 特朗普最忠实的盟友之一、共和党重量级参议员格雷厄姆突发疾病去世 <https://news.google.com/rss/articles/CBMisANBVV95cUxPUnZMTFhxZks2WFZ6MFEwc0ZQRmlDU1JBTXhSX2Rtd2RDNVVNVzcwM2twNWFuU1RDSVowdjUwQjZ1aTFMWFZsWGUyUER0ZWZFaVNZcEFHcjh1ZmZFckMwNzZIcWFqYkpTQ3pkNlcwaGFGeThpSjNWSTgtM1JQb012cEVjWHo5cXFaRllTalNRYm1xa2lnUTJZM29QcnhiX1ZpZUdncXZ5eHQtY183WE1MclF6M2JsUDVrYnRsUFd1UlZwM1Vyb3NxYzM3ajN0ckN5Umd0ZTlTcU5idTY5Z1U3eDlzVHBIN3J3QlBfTzhkLW5YcElnNnFueXVpcUVRQkVpcG1zWFpMQTI4cGxRdW5zcG5xMUZJbjBEbmFyZVdPckdLdExtYUxVamZGZlF4d09NcWQ4ZmFBYWQ2LUkwZGpRWTZzUmliVVotYVJWYVRoMC1ob0ZRSUd1Zlc5OF9OVHB3TTUzUGhTX3JwSVY2dzlXQnZSTWVuMm94ZHV2ejgyZUJ0TUFnVTJiMk1fZmJpZFFSeGNMa1B0OHJIbTBlUHVNamlMcTAyRkhWN1d6T08yOXk?oc=5>
+- **特朗普** | 白宫上演赛车演示，特朗普宣布华盛顿将举办印地赛车 <https://news.google.com/rss/articles/CBMiYkFVX3lxTE5PVGtNSk0yWkU4UGtDX1ptd1pVNFpnZ1NSbm5CRk5SUE05WmVXYUJpdG9WUEhrTXlGYUdvZlJiMXRqTkJfcEdvby1mY25JWnhBYXlzWEJMYU5ROS1tY1FZQlln?oc=5>
+- **特朗普** | 噩耗传来！特朗普铁杆盟友去世，泽连斯基慌了，他可能会沦为弃子 <https://news.google.com/rss/articles/CBMijAFBVV95cUxPZHcxbTYwTnlhdTExZDAwVUJBOXo1UHNRejZ4d0YzZjcyZ21JOVNqcjhVclFoRWJmU0RRNUlxRVZ6dFU3X1JHcXo2U0lGRWdUUG1MNVEyWG5ndHRXT0NwbENOQ1llTGd4UDZ5cl9DMk44MklZaV9Jb0loMl9qWDNHbG1rWEQ0ZTI2bzJWRg?oc=5>
+- **特朗普** | 特朗普“打脸”鲁比奥：“守护天使”要收费 <https://news.google.com/rss/articles/CBMif0FVX3lxTFA1Q2ZDd09OMk5zampZUzRxOUc4Rml6YnRRanA3dVltRmNoQ0NGeEdNejJCUXR3X3FUeUZMOUpWYmJTNG9STXhIT0JZSm5PZUFieHRZZlJTN1hjTUdUTHpYeHR3SThKOXBCTkhVVUxRcHkyZmlHeFJoUkxzZWh6ZVk?oc=5>
+- **Trump** | Trump Mobile T1屏幕亮度不足会影响户外使用体验吗？ <https://news.google.com/rss/articles/CBMickFVX3lxTE0yTHNadGdEZVpFSFlyZ1BremhNZjhOcHp5S2QybDdKdHFBMVhyQm1MNlZwVlIyYXhhS2w4dFNQdVc0T0FhTlg0bVVEbnJxVklDclNEenhEMmNQX0F5VTFBaXozUDRqSnZBMzhGaUdud1lSUQ?oc=5>
+- **Trump** | $比特币(BTC.CC)$ trump告诉伊朗，他们不能对通过海峡的安全通行收取比特币过路费😳。他想要每桶石油收取$... <https://news.google.com/rss/articles/CBMisAFBVV95cUxPeFJnUEp6d0JJM3lYZndxckZ5VUxPZlBCT283WUU5U1hrZVhoVm5ScVhBZFpRY3dqb2lPYkt6dVF6MWR2X3dSVnJoVFBHZWViRVlUWU5TenNHdjBBbklEQk9LTTZWQUp3dURsTm9IWjlidUZ6TXFncHlBWTZPdEotSjlCWEUyLUJXeVRXSF9tbFJFQmNPblFTS0YwOWpjNnhWdlhWNUljU0NxLUh1ZHo3eg?oc=5>
+- **Trump** | 为何世界应效仿特朗普一次 <https://news.google.com/rss/articles/CBMilAFBVV95cUxNOGhrZ1B2aTVMQV94dlhhaUlsWE1pZFBjT05jdVZmZzM3SkhGYjhkVGFZd3NRenRJM3lOdXRBWFdFRHVBcU5fblhCRDEyY3lqX1haalpwMVYxRkVDRHBkZktfQXU0RndUY0dBWHlpamdGTXZTQmJvbFd6enNSUUVPSUFLTDJNWjg4YjFnSFZhQjEtczFB?oc=5>
+- **Trump** | 伊朗霍尔木兹费用比trump便宜20% 😂😂😂 <https://news.google.com/rss/articles/CBMioAFBVV95cUxPVFpyMlN5V3B5OUIycTNLeFVhN1NIcHUtV3BxNjFXbE5UUEVIekdjNEEwMTlpM2U5QjVBQWY3bEZKZnRaNEtiMnZwc3hzUHpkMXpBLS16ZW1PTUZZWHBULTAxOENMeWpvUGc4cmdkVnlCNnVfTnFueG9tRlZwMGlvQ0xUUVlBN2pEaFNHd1pfLV93aFVUVnpWYTh4cHRCb2t5?oc=5>
 
 ### 2026-07-14 14:21  (4 条)
 
