@@ -1,38 +1,73 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-14 23:46**
-- 本轮扫到 6860 条, 新增 **3** 条
+- 最近更新: **2026-07-15 01:50**
+- 本轮扫到 6866 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (6 条)
 
-### 演唱会门票团购值不值？2026年渠道、优惠、避坑全解析
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068305_1d5b04cd1068024c4g.html>
-
-### 特朗普：对伊朗的打击将继续
+### 特朗普改口，“保护费不收了，但…”-观察者网
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-14 22:59
-- 链接: <https://news.google.com/rss/articles/CBMiggJBVV95cUxNSjVpaVB1M3lsajNTTFVsa08yZE5ndlJGT055RURRWEhhZVI4bHQyM3dQZnBrVnFfTmYySE1kNjJpRXZ5NldMQXdzQlhBS1JZT0ZkMkYzTTEzT0lvN21SZWw0WnM3RWlQcEJDd2d6YkFZVVNqS0VaaVN5ajV0TG5SZlMwYXcyQ29uOGliMmhicVQxU3lyVDZTY1ZvVXBJcEFycFpMakEzTW9HMkFLRGtyVDV1allrdHFTNm1VR1lrZVdwd2laY3pDMDl6bXVtNXJCTno0YzlUMlBPZjU4MWs5czg1TUpscEoteDV4UkFod01zWDVzWFljUklUalVaSVRFWGc?oc=5>
+- 场馆: 观察者
+- 时间: 2026-07-14 23:04
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5OblFSVkpBd1RyMEhBZlcyWmNlZTBYTlRBc3RUNklMcjRSNjdZWjhYTnRGZmF3YnhKUVcwUlYxdzJYQ0ticUlQcEg5amQtaDQ2MllBZE5fZmNrUGc1NEw0U2lXVnpfQlByWVE?oc=5>
 
-### 特朗普宣称将与伊拉克达成“庞大”的石油交易
+### 特朗普称美国应获补偿，点名沙特等五国受其保护
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-14 17:25
-- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxPd1h0TS1BTV9GYkY4VUdudTQ3VVYzRUY4d3JfMEVWYk1CaWtRc3pFRFFUV1dnUGx4Sklob3hSejFnd0x0NjM4a3ZvVFRKdmRaTTBxbmt2eDdyVTlBZF9xZ0xTdS1pYWxrajFxcjc5bzQ4alZaWEpHQUFaMWlWR1c3TDA0QzgxOUF2NkZsMXUtU3M1UGJRQk9SbnVNbDAyNlU2VFM0dFctRUdoTElFQmQ3VlZNbVZHSGhBc2pvejNoQ3FFVkViODFJMWtEVXdNRkFKX1E?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-07-15 00:19
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFBfVlRjQzdMZGZLcHctZ00tLUh0ZWRpV05ycWNxdXBPdHRYWHlfVjQwcFRjRzl2ZFVzdFpuNTIwOWlJZFp1YTBTZTNvOW5aMm11eDZnS1JJZkFERXczZGlNLUF0MWsycjN2MVZLTm8tQjdzbWs?oc=5>
+
+### 特朗普突传重磅！美媒独家：特朗普要求内塔尼亚胡从叙利亚、黎巴嫩撤军
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 金融界
+- 时间: 2026-07-15 01:30
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE9YdlV4eE9yanpQZVFvY2RHVU1ualVnWXdVbzdxWE9zRWhpOHJkNDJXcG1LSUtJaDJORmprSXJHVEgzM0pyOXVrbVJ5UjhhX0tyTGNQdnRaYVpjMXZVMUZFMUVUUGN5QUtzYnFDMGRDOXhXa0da?oc=5>
+
+### 伊拉克新总理访问白宫，特朗普总统谈及美国公司的石油交易
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-07-14 21:07
+- 链接: <https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMXhfaF90bVAwYmtVYVRwSnIzeTEyVW82M1hYaUdqZGhnZkJvc0FVQm1xVHJFZXowREhsa21qcWpjbW5aRzU0aVlFRmNBRFlPWldFekM2R1FKOUhmSl9objZMWmdBNVhlX1RicFUyVmk1SGxFS281V1dDSUZPbHVPZVB4Q2xtZUlxRVJMVW5nLUhQdmFIUkNsNWxFODR3SUQ1TDZtN3FmVnRfWUJRREwwbERVZ0laTk9rdlMtTkxxS0g2RGIxcEMxRm96S1I1YnZYMWJGZNIB1AFBVV95cUxNMXhfaF90bVAwYmtVYVRwSnIzeTEyVW82M1hYaUdqZGhnZkJvc0FVQm1xVHJFZXowREhsa21qcWpjbW5aRzU0aVlFRmNBRFlPWldFekM2R1FKOUhmSl9objZMWmdBNVhlX1RicFUyVmk1SGxFS281V1dDSUZPbHVPZVB4Q2xtZUlxRVJMVW5nLUhQdmFIUkNsNWxFODR3SUQ1TDZtN3FmVnRfWUJRREwwbERVZ0laTk9rdlMtTkxxS0g2RGIxcEMxRm96S1I1YnZYMWJGZA?oc=5>
+
+### Trump：将在16日全国讲话中讨论“选举与投票设备”
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 아시아경제
+- 时间: 2026-07-14 20:02
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1PR3ljR2t4T0NfSzBmVFo5Qmk1emMwNm9IXzFFQnEzS3dUNTZTbmhiT1piejhJa1gyY1R2d0o3V1JXTTRfSXpmWDIxSTlZc2gzWnNDc2pvN1ZkTFZnenpnVTBFYlg?oc=5>
+
+### 卢比奥扬言“拆解”国际刑事法院 美拟施压各国退出ICC
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-07-14 23:54
+- 链接: <https://news.google.com/rss/articles/CBMi4wJBVV95cUxNVUF6dUt0QUpqb1pob3NiMWRzbGhrcVhEQ2h0MF9qQUo4TDRSTHhDb3pXbHdWdDdROWEwVVJYOWJSNHZlT0xFQnZKTGFHTnMwWjlOTi16Z0poekQ5RDBLSDZUam1OMThIQTdzOGtTdWc2M3FONURmSGk5dHVnNDNHNnlsTVgwSFpLcUtMYXlDQjdic2ZLR3Y4S09mQ2RwRzhHbzd6T05VLWg3UWI4MnVrbzV3WFMwUnoxM0FzbkViVUdxU19mZDgxT2pmQWdjdEJpdzluSWZrQm5KMGJFdkNFN1g1WkpzV3NwOERWRXFpQWkyRG5Wa2dxSDBUcnpTM3NvTDZ2bndXM2pYX3ZNdWtNcVZzOGZzUHUwT3hQQ1hWN3RPWVg5RnVNS25QNG9iU2NkVWk0NGVFaVBRVkdlcklTRzIxZm1nMFZFaUNSUVl3WGJ4bktnZU9TblV2XzdhcjdQUEtF?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-15 01:50  (6 条)
+
+- **特朗普** | 特朗普改口，“保护费不收了，但…”-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE5OblFSVkpBd1RyMEhBZlcyWmNlZTBYTlRBc3RUNklMcjRSNjdZWjhYTnRGZmF3YnhKUVcwUlYxdzJYQ0ticUlQcEg5amQtaDQ2MllBZE5fZmNrUGc1NEw0U2lXVnpfQlByWVE?oc=5>
+- **特朗普** | 特朗普称美国应获补偿，点名沙特等五国受其保护 <https://news.google.com/rss/articles/CBMic0FVX3lxTFBfVlRjQzdMZGZLcHctZ00tLUh0ZWRpV05ycWNxdXBPdHRYWHlfVjQwcFRjRzl2ZFVzdFpuNTIwOWlJZFp1YTBTZTNvOW5aMm11eDZnS1JJZkFERXczZGlNLUF0MWsycjN2MVZLTm8tQjdzbWs?oc=5>
+- **特朗普** | 特朗普突传重磅！美媒独家：特朗普要求内塔尼亚胡从叙利亚、黎巴嫩撤军 <https://news.google.com/rss/articles/CBMidEFVX3lxTE9YdlV4eE9yanpQZVFvY2RHVU1ualVnWXdVbzdxWE9zRWhpOHJkNDJXcG1LSUtJaDJORmprSXJHVEgzM0pyOXVrbVJ5UjhhX0tyTGNQdnRaYVpjMXZVMUZFMUVUUGN5QUtzYnFDMGRDOXhXa0da?oc=5>
+- **特朗普** | 伊拉克新总理访问白宫，特朗普总统谈及美国公司的石油交易 <https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMXhfaF90bVAwYmtVYVRwSnIzeTEyVW82M1hYaUdqZGhnZkJvc0FVQm1xVHJFZXowREhsa21qcWpjbW5aRzU0aVlFRmNBRFlPWldFekM2R1FKOUhmSl9objZMWmdBNVhlX1RicFUyVmk1SGxFS281V1dDSUZPbHVPZVB4Q2xtZUlxRVJMVW5nLUhQdmFIUkNsNWxFODR3SUQ1TDZtN3FmVnRfWUJRREwwbERVZ0laTk9rdlMtTkxxS0g2RGIxcEMxRm96S1I1YnZYMWJGZNIB1AFBVV95cUxNMXhfaF90bVAwYmtVYVRwSnIzeTEyVW82M1hYaUdqZGhnZkJvc0FVQm1xVHJFZXowREhsa21qcWpjbW5aRzU0aVlFRmNBRFlPWldFekM2R1FKOUhmSl9objZMWmdBNVhlX1RicFUyVmk1SGxFS281V1dDSUZPbHVPZVB4Q2xtZUlxRVJMVW5nLUhQdmFIUkNsNWxFODR3SUQ1TDZtN3FmVnRfWUJRREwwbERVZ0laTk9rdlMtTkxxS0g2RGIxcEMxRm96S1I1YnZYMWJGZA?oc=5>
+- **Trump** | Trump：将在16日全国讲话中讨论“选举与投票设备” <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1PR3ljR2t4T0NfSzBmVFo5Qmk1emMwNm9IXzFFQnEzS3dUNTZTbmhiT1piejhJa1gyY1R2d0o3V1JXTTRfSXpmWDIxSTlZc2gzWnNDc2pvN1ZkTFZnenpnVTBFYlg?oc=5>
+- **Trump** | 卢比奥扬言“拆解”国际刑事法院 美拟施压各国退出ICC <https://news.google.com/rss/articles/CBMi4wJBVV95cUxNVUF6dUt0QUpqb1pob3NiMWRzbGhrcVhEQ2h0MF9qQUo4TDRSTHhDb3pXbHdWdDdROWEwVVJYOWJSNHZlT0xFQnZKTGFHTnMwWjlOTi16Z0poekQ5RDBLSDZUam1OMThIQTdzOGtTdWc2M3FONURmSGk5dHVnNDNHNnlsTVgwSFpLcUtMYXlDQjdic2ZLR3Y4S09mQ2RwRzhHbzd6T05VLWg3UWI4MnVrbzV3WFMwUnoxM0FzbkViVUdxU19mZDgxT2pmQWdjdEJpdzluSWZrQm5KMGJFdkNFN1g1WkpzV3NwOERWRXFpQWkyRG5Wa2dxSDBUcnpTM3NvTDZ2bndXM2pYX3ZNdWtNcVZzOGZzUHUwT3hQQ1hWN3RPWVg5RnVNS25QNG9iU2NkVWk0NGVFaVBRVkdlcklTRzIxZm1nMFZFaUNSUVl3WGJ4bktnZU9TblV2XzdhcjdQUEtF?oc=5>
 
 ### 2026-07-14 23:46  (3 条)
 
