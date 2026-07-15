@@ -1,80 +1,109 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-15 12:49**
-- 本轮扫到 6915 条, 新增 **8** 条
+- 最近更新: **2026-07-15 14:43**
+- 本轮扫到 6925 条, 新增 **10** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (10 条)
 
-### 沙特、阿联酋、巴林、卡塔尔等海湾国家领导人“疯狂”致电特朗普，劝他彻底放弃离谱想法
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-15 11:17
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE53VE40X3BXX0I5ZTU1VGd0V0NWanJVVWxHbE5GVXJWQUVTckpnRV9oWWJDM2xCNlNsN291SmxkakVkWUZxci05T01HYk9QQ1VoVEVMcHVnYXphdVpsSDFCcm5zVzFtbE0waUZwaTJhcE9CNjBBMk9jTw?oc=5>
-
-### 23年驻军历史终结，特朗普在白宫接待“没参选”的伊拉克新总理
+### 环保天地 - 特朗普政府再遭环保组织起诉
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-15 01:17
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE80U1NPOWtGMUV4TVFrSFA5RFhoLWpzQ3hvdFU0djhQeXV0bkVCREY2eXR1enAwODRhS002NE1vWlZtR2pIbUNTMDk1c0Q?oc=5>
+- 场馆: RFI
+- 时间: 2026-07-15 13:23
+- 链接: <https://news.google.com/rss/articles/CBMixAJBVV95cUxPcGpxZjNMc3pwenVzY2ZqcnNMODZ2Vno5dUhNMkV1ZVBQZWNlbnJhV1hQZGl1QWQ0MEhiaUdDN1hfc3BnN2dTMExyNUh6N0VNMVJPV0szbnV3YURsd2g3WDkxTkd5bkR2YUYtT2dOR0FxZm4zcUhrSDhlWVhDWVZDMWl2c2ZHS3RlTmJEOHg0RGdyeWtFb0xZeTJRZU1kQk9wVWlKWTFza3k3bmpGNkFXZ3BmbmR6VHRPaFVwTFJCSkg0TWtzbmpmZ3RFTEFlTDRWN0VoYng2UlZpRG81YVJHa0tCZUNxN05YamZESk5NXzVCS205dElkbGRZYUhOa2t3V3JFUEJUSmlScTV0cXRHMlU2S2wxZWltTUxFcXg1d01wenRTSEFVa1l6SWF3dm5sdU1ZdDFybG5XS29sc1d1Z051a3o?oc=5>
 
-### 美国作家收到特朗普560万美元赔偿金 性侵案终落幕
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-07-15 07:20
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5kVU40czdJMUN6UlFkM3E2S09XLUNwUXFwRnVLczZ4cTZTZWJBX3J3SUt3b2ozZEh4VXo2Vm9rZlQ3XzNuNkRmSV9FZnQwSWFXUUFEVnQxVWNtekVjU2lieE55SnhtSngzWDcxQjBqZGE?oc=5>
-
-### 无视规则！特朗普彻底摊牌，全球秩序面临崩塌，多国目光转向中国
+### 特朗普点名沙特、卡塔尔、阿联酋等国，称应给美国交保护费
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 手机网易网
-- 时间: 2026-07-15 09:17
-- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zTjc4cHBrYk9ZUHkzS2pwRE5QYzlrbUlrZjAtQU9MRVJLV1Q0YTY5eEVTQkhkSG9kQzdrM0sybjhrU3N3bXpCdTNHZmcxcUduRVFiTlM0d3psRm9RQ0ItenBn?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-07-15 13:38
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE1nNk12VmVhVzZ1S1BWZGU1cFMyV0tDNjVMWTk3TVlqVTBKZHlhd3FndG1BRmZadk5kQ3ZEaHRSRWZONWtJNHdBNUYtS3RUUlp0YmwwV1loT1dZdDRVU2NjQ2ZEam1hMTNvczBNNnVNTFhWdw?oc=5>
 
-### 一财主播说| 特朗普性侵及诽谤案尘埃落定 82岁美国女作家称收到562万美元赔偿金
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 第一财经
-- 时间: 2026-07-15 07:25
-- 链接: <https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xMXBNQ0FfdkFZU0J1SkxPMHhDTDBOdkV0akVMSEZadVc4M1Ffd2ZERHcxd3k1bElDckNBUzBSdUV5RzktbFdRbFpxdUN0RlJkeU9PUQ?oc=5>
-
-### 已赔付女作家逾560万美元，特朗普因性侵案败诉“大出血”
+### 特朗普重启伊朗战事：美伊“战略韧性”较量下的海峡控制权博弈
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Jiemian.com
-- 时间: 2026-07-15 08:07
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTFBPbVg0Q2VqSzBZTEpOS3RzZ3EyNHpYMXJqMVRSb1dRcmpmQWtFa2hveDBiLUl0dEVfNDBMTDdfOFdRTHgwXzBhZVc5bTlZMGhnR2FaenVCTjU?oc=5>
+- 场馆: thepaper.cn
+- 时间: 2026-07-14 23:27
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FTXN6TExISHNpVkN4LVhtVmxiX2ZvZEotX2RWTFlvQWlKSGxQZXp1MmNudjdUQjN4Wl9iQlJyVi1LbktXRW1pZHV1M0dRTThjdEJoU1dsQlpZMkk5QkdURA?oc=5>
 
-### US President Donald Trump says US pressed Iran to reach agreement
+### 特朗普为何频频感谢中俄？-观察者网
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: guancha.cn
+- 时间: 2026-07-15 08:00
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBIck5MNjlTOG9YZXpBX3EzYXNNUGxKaE9BbUVVRW10Y2N0ajVFeS1YM0U4ZmpVM1B4X2Z4SzI5TzU5d2dfNVc1czZBSDhsMEJuVkRHWFl1VTl0QmZSMmpmMUphWVlEWW5FalE?oc=5>
+
+### 特朗普称俄罗斯已准备好达成协议以结束俄乌冲突
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新京报
+- 时间: 2026-07-15 12:55
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFA5UklwTWtuTDdMWEFmX0hJajlXN25uQ21xcjY2dk5LRUZOTEFQaHJ6ZXdNTnpfa2NnNGpPVWcyeHlUNGVoU25kX2g3d0xzQk02d2FUMkJsOGxtM0NQVm0yU21JbnE?oc=5>
+
+### 特朗普称俄罗斯已准备好达成协议以结束俄乌冲突
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 搜狐网
+- 时间: 2026-07-15 13:50
+- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTE56clJXWjE3eUtTcGlLYnczbUpPajdKUzBRMkt2b1d0MTlIWm41Njd3YklndVZMS1Jndk83NWNCenBYWnJMRGlHUy10NmJhWTJJNFE?oc=5>
+
+### 特朗普：普京已准备好尽快达成协议，以结束俄乌冲突！乌克兰继续打击俄油气运输，9天袭击超110艘俄船只
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 每日经济新闻
+- 时间: 2026-07-15 14:33
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RNFdmekpMTkgwNkFMRnpjTmhnTFdYWmtQd2dMU2YtOHFacTVLS21OVm41Rl94dDZxQzNHNzE0bVh6RTd3dDBBZkZZdXRtV01yWlZRMzZGTGJ5UGs5U0xBeHIxZVk2dw?oc=5>
+
+### 特朗普政府释重大信号！美媒独家：美国贸易代表格里尔敦促欧洲放宽科技监管
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 金融界
+- 时间: 2026-07-15 06:04
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE1iZHVhMk03aXdxa1MzUWVtRVdtWTlrWVkxbGwxUXdybW5XQXpNcVdLTHJpaW9QdUVGNUN3UFJ0czhzdk00LXNySmdNX3ZkZ2JidlhidzRCdy0tV2hqaHJhYUdvLWpxMlJSS3VEM2x4SGxJQktl?oc=5>
+
+### US President Trump: Strait of Hormuz open to all shipping except Iran
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: TMGM trading
-- 时间: 2026-07-15 01:11
-- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxOT2J5R0pXcklXVFR0Wl80UERsa3lrRUZpejl4MWlyZEV0Wjh5RUMyUVdBTGJiVEhaUWl1N2FkMUUtQmR0TDFFMmdreHV5Ty1zaFVfZV9LZHQwQkR0WUhfQVhVdU1oaGY5YmRjSzdkaFZoNXJjUGJRcWhiUVVabk4xS09MOGtXVFZtME9Dc2FUckM2VnFUQkJRSmhJWmhFWl9jbXdEVnZ2d0NLamNTT1BXR2xlSWRDX2ZKemJNMFU4YW56ZmtQaldJLWNTVUhjWWtDYUE?oc=5>
+- 时间: 2026-07-14 19:13
+- 链接: <https://news.google.com/rss/articles/CBMi1gFBVV95cUxPaGhFVWN0VWpGV19zR2xjcnowRGg4WkhYMTdaSERZZ3VSenZZTDRQSEswRHVvSWlKanczaWcwQW9WelFZN2VCM0w3NGlxT05EUVRnZVFNUU5VYnA1aVpTejlKRkZYbmtvNmZFQmlCX2ZscG9CdC03ejRjQUVLbDNtbXRfNGVWWDFUWi0yUzktbXhWejRCbFZmS3cxZWNNQTdrX29hN056VWZjSERBSVotdGpGNTA4NDJqcmZvZE5WcFhwVGNVMjFZUVIzaElEbkMwZ1hoYTB3?oc=5>
 
-### Trump urges Senate to pass CLARITY Act as crypto bill nears crucial vote
+### 第436天：降息 +特朗普2.0 第540天
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: TMGM trading
-- 时间: 2026-07-14 11:10
-- 链接: <https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRlRnMDdrd3JPTGhVRF9MakVHQUVCUDN0bWhJWHBJNUNMWDR3dk01X0w1eXdxUGVuTWd3WktvZmE3OEdZRUpjdkY4Wm9aMl91VHBqV1ZYejh6ZU85b09qOGp2VHlZa2tJc3liWHAtUExCUTZjVDVCN0lQUUhnYl9zVHllVlJiWnpVZjBINDB3OU1BX2R2aXM2UFdmY2ZIOEFnTG5QWEdmYjVGcTZwdVhJa1NucmZLd19EMW1IT3l2S3JuUmJKU0xDZWhRUFFSZm5rZ1M1NlhKeFIwQm8?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-07-15 14:30
+- 链接: <https://news.google.com/rss/articles/CBMimgFBVV95cUxNZG9KMUVIR2gyOF9ZWWFUZ2RPTTBFbWRkMTFHUjZYT19Kb1JfVV9YTlBpYlNEVzhpY1BWNlcxbEVmR2pwUlI0ajJ3TTV4ZFZwNVI4Z3JRWmlYZ0RLQjdCWVNNd0VZeVFXU3M3SkRSSnFiRHhlZndieWEyVEFRM3J4VnZIYk50aUU5NVZGVWk2RmtBMGctblp6b3R3?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-15 14:43  (10 条)
+
+- **特朗普** | 环保天地 - 特朗普政府再遭环保组织起诉 <https://news.google.com/rss/articles/CBMixAJBVV95cUxPcGpxZjNMc3pwenVzY2ZqcnNMODZ2Vno5dUhNMkV1ZVBQZWNlbnJhV1hQZGl1QWQ0MEhiaUdDN1hfc3BnN2dTMExyNUh6N0VNMVJPV0szbnV3YURsd2g3WDkxTkd5bkR2YUYtT2dOR0FxZm4zcUhrSDhlWVhDWVZDMWl2c2ZHS3RlTmJEOHg0RGdyeWtFb0xZeTJRZU1kQk9wVWlKWTFza3k3bmpGNkFXZ3BmbmR6VHRPaFVwTFJCSkg0TWtzbmpmZ3RFTEFlTDRWN0VoYng2UlZpRG81YVJHa0tCZUNxN05YamZESk5NXzVCS205dElkbGRZYUhOa2t3V3JFUEJUSmlScTV0cXRHMlU2S2wxZWltTUxFcXg1d01wenRTSEFVa1l6SWF3dm5sdU1ZdDFybG5XS29sc1d1Z051a3o?oc=5>
+- **特朗普** | 特朗普点名沙特、卡塔尔、阿联酋等国，称应给美国交保护费 <https://news.google.com/rss/articles/CBMickFVX3lxTE1nNk12VmVhVzZ1S1BWZGU1cFMyV0tDNjVMWTk3TVlqVTBKZHlhd3FndG1BRmZadk5kQ3ZEaHRSRWZONWtJNHdBNUYtS3RUUlp0YmwwV1loT1dZdDRVU2NjQ2ZEam1hMTNvczBNNnVNTFhWdw?oc=5>
+- **特朗普** | 特朗普重启伊朗战事：美伊“战略韧性”较量下的海峡控制权博弈 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FTXN6TExISHNpVkN4LVhtVmxiX2ZvZEotX2RWTFlvQWlKSGxQZXp1MmNudjdUQjN4Wl9iQlJyVi1LbktXRW1pZHV1M0dRTThjdEJoU1dsQlpZMkk5QkdURA?oc=5>
+- **特朗普** | 特朗普为何频频感谢中俄？-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTFBIck5MNjlTOG9YZXpBX3EzYXNNUGxKaE9BbUVVRW10Y2N0ajVFeS1YM0U4ZmpVM1B4X2Z4SzI5TzU5d2dfNVc1czZBSDhsMEJuVkRHWFl1VTl0QmZSMmpmMUphWVlEWW5FalE?oc=5>
+- **特朗普** | 特朗普称俄罗斯已准备好达成协议以结束俄乌冲突 <https://news.google.com/rss/articles/CBMiZEFVX3lxTFA5UklwTWtuTDdMWEFmX0hJajlXN25uQ21xcjY2dk5LRUZOTEFQaHJ6ZXdNTnpfa2NnNGpPVWcyeHlUNGVoU25kX2g3d0xzQk02d2FUMkJsOGxtM0NQVm0yU21JbnE?oc=5>
+- **特朗普** | 特朗普称俄罗斯已准备好达成协议以结束俄乌冲突 <https://news.google.com/rss/articles/CBMiUkFVX3lxTE56clJXWjE3eUtTcGlLYnczbUpPajdKUzBRMkt2b1d0MTlIWm41Njd3YklndVZMS1Jndk83NWNCenBYWnJMRGlHUy10NmJhWTJJNFE?oc=5>
+- **特朗普** | 特朗普：普京已准备好尽快达成协议，以结束俄乌冲突！乌克兰继续打击俄油气运输，9天袭击超110艘俄船只 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RNFdmekpMTkgwNkFMRnpjTmhnTFdYWmtQd2dMU2YtOHFacTVLS21OVm41Rl94dDZxQzNHNzE0bVh6RTd3dDBBZkZZdXRtV01yWlZRMzZGTGJ5UGs5U0xBeHIxZVk2dw?oc=5>
+- **特朗普** | 特朗普政府释重大信号！美媒独家：美国贸易代表格里尔敦促欧洲放宽科技监管 <https://news.google.com/rss/articles/CBMidEFVX3lxTE1iZHVhMk03aXdxa1MzUWVtRVdtWTlrWVkxbGwxUXdybW5XQXpNcVdLTHJpaW9QdUVGNUN3UFJ0czhzdk00LXNySmdNX3ZkZ2JidlhidzRCdy0tV2hqaHJhYUdvLWpxMlJSS3VEM2x4SGxJQktl?oc=5>
+- **Trump** | US President Trump: Strait of Hormuz open to all shipping except Iran <https://news.google.com/rss/articles/CBMi1gFBVV95cUxPaGhFVWN0VWpGV19zR2xjcnowRGg4WkhYMTdaSERZZ3VSenZZTDRQSEswRHVvSWlKanczaWcwQW9WelFZN2VCM0w3NGlxT05EUVRnZVFNUU5VYnA1aVpTejlKRkZYbmtvNmZFQmlCX2ZscG9CdC03ejRjQUVLbDNtbXRfNGVWWDFUWi0yUzktbXhWejRCbFZmS3cxZWNNQTdrX29hN056VWZjSERBSVotdGpGNTA4NDJqcmZvZE5WcFhwVGNVMjFZUVIzaElEbkMwZ1hoYTB3?oc=5>
+- **Trump** | 第436天：降息 +特朗普2.0 第540天 <https://news.google.com/rss/articles/CBMimgFBVV95cUxNZG9KMUVIR2gyOF9ZWWFUZ2RPTTBFbWRkMTFHUjZYT19Kb1JfVV9YTlBpYlNEVzhpY1BWNlcxbEVmR2pwUlI0ajJ3TTV4ZFZwNVI4Z3JRWmlYZ0RLQjdCWVNNd0VZeVFXU3M3SkRSSnFiRHhlZndieWEyVEFRM3J4VnZIYk50aUU5NVZGVWk2RmtBMGctblp6b3R3?oc=5>
 
 ### 2026-07-15 12:49  (8 条)
 
