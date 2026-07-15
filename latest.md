@@ -1,66 +1,133 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-15 04:46**
-- 本轮扫到 6873 条, 新增 **7** 条
+- 最近更新: **2026-07-15 07:10**
+- 本轮扫到 6887 条, 新增 **14** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (14 条)
 
-### 王一博工作室是否会发布更多夏日花絮？
+### 周杰伦青岛演唱会官宣，10月3日至5日开唱
 
-- 艺人/关键词: **王一博**
+- 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849031_1d5acf44706801mzsa.html>
+- 链接: <https://k.sina.com.cn/article_1931238691_m731c5d2303302ddv2.html>
 
-### 蔡徐坤 「THE DEADMAN」 澳门演唱会这次真的来啦！
+### 周杰伦青岛演唱会正式定档
 
-- 艺人/关键词: **蔡徐坤**
+- 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6579479315_m1882ae31303301cfd0.html>
+- 链接: <https://k.sina.com.cn/article_1789681642_m6aac5fea033085gnc.html>
 
-### 蔡徐坤澳门演唱会官宣，连开两天
+### 周杰伦青岛演唱会定档，2026年10月连唱3天
 
-- 艺人/关键词: **蔡徐坤**
+- 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2747054345_ma3bcb90903301i6m4.html>
+- 链接: <https://k.sina.com.cn/article_1768470921_m6968b98903301gozm.html>
 
-### 特朗普：美石油公司进入伊拉克规模“前所未有”
+### 官宣！周杰伦2026巡演落地青岛
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://finance.sina.com.cn/wm/2026-07-15/doc-inihwmie4785630.shtml>
+
+### 周杰伦青岛演唱会正式定档，2026年10月连唱三天
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://video.sina.com.cn/p/finance/2026-07-15/detail-inihwmia8001993.d.html>
+
+### 在青岛连唱三天！2026周杰伦世界巡回演唱会定档
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://finance.sina.com.cn/roll/2026-07-15/doc-inihwmie4764142.shtml>
+
+### 特朗普称继续袭击伊朗直至他说够了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-07-15 02:37
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1RaUZtTElRQVAxc3o2T0k2Sm5RUks5OFBJVWIzUl9iczRXX3ppVWdPcG1TQ0VPRHM5V3FqV3NfLW04SzJNNS14S3lvOFN3ZG94RmtmRDY3UE9aX2VnOG5yZDFPZEwyRkxTRVBhYUN6MXF3aTNmeElWUnRxMUJmb2M?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-07-15 06:37
+- 链接: <https://news.google.com/rss/articles/CBMiggJBVV95cUxOUjlXOW9yMU1Kb3VtcWU1X2hoc1ZNWXpxTTVEM2M3N2Q5ZW8zcVJvaHhlUy1NZWdzWjJGYnZ0R1NsZkFBdmRMb19aWjd4a05haVFsYTFSRTd5T203UzhrbU1xVjg2azI5Y1czU1FRSDRvOHg3ZUJYYjRBQXk1RHVfem9WYWpKTTRTTndlMGlPLUpPOUNzLV94T3BiNzFRLTl4c0lwejRpN1dlbHBkMVZHZkVBdHNlZmFEYlcyZGxpLS00X0xBdGNjRW1pbkpRbWJsSGZHb1ZCSE9VYzREX0hNT0tsd2lLLURMME01MHdjNnZFWndUcElZUVpsMEw5aTZ5bkE?oc=5>
+
+### 特朗普称伊朗像伟大拳击手，美军恢复海上封锁
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-07-15 06:22
+- 链接: <https://news.google.com/rss/articles/CBMijgFBVV95cUxNc2J3dEw5VjAzQWtVNE1wVlBUU3JiNlFxVjh3Q0c3TlB1Q3FWbVpZRlprRnpncDNReHdtRGRwY1lQQmNpRGJlVmRheEJSTkVpcWd2d21Qd3B1Y2M5blVJOUhxc1plaGt4aWtGUW9sM0ZjSUZVRDJrbmpINFZwWDlXaUdwVlFkeXFSM1k1d3NR?oc=5>
+
+### 特朗普：伊朗像伟大拳击手，你以为击败他，结果被重拳反击 若伊朗不回来谈判，不排除派地面部队
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-07-15 06:04
+- 链接: <https://news.google.com/rss/articles/CBMixwFBVV95cUxQNktOaEhvWFZyUnFNVjNiWmgzZkdRQW5MNVByYkM4NEtQUTJtWTdtTWxtSURMY3BpRGRnSUpVUXg1cVNOT2MzR05BMVpDV2lMSnYtajVsVnl4SU5kLWFsejhKZ3VDU0RmYjc1THhpb0JqS3BEY09BQXRFMndQMVFSMXgwRzE5aXZ5bFg0RmNDNlBQdGtxYlVWdk00Z0FucXF5VDA2MXhqSUZaa3dqaTZKelYtSzk5UmNqbUdlLWd0SWd0Q1ZVSTFB?oc=5>
+
+### 性侵案败诉 特朗普赔付女作家逾560万美元
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网客户端
+- 时间: 2026-07-15 06:49
+- 链接: <https://news.google.com/rss/articles/CBMimgFBVV95cUxOR2FTYjFyWGtXNlQ1X2ptWlVxa2VkUkw0NlliM2FsSmpVZlZySzMzMUU0dGZLNUFRV2QtVHFJc0dva1hueS1YbFRwQ2JMeHl2Qk1VOUgycVJYRUVtb3V1THZibVdrV1BGRXRSX1NxSmtuS3JyWDVJcDJsd2tvek5PUjE0Q3UtNzJnVXVzZDFJZy1yTEJXdnJLR2pn?oc=5>
 
 ### 特朗普宣称将与伊拉克达成“庞大”的石油交易
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
+- 场馆: 新浪网
 - 时间: 2026-07-14 17:25
-- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRFllNDQ5Z2FyQ2g4WXRGWVJYUlFCVHZUZXZYUTBMdEtycWNGMUhlNWdfUjN2V0ZELUtPU1preTJENFpRSHBZN0ZpeHd1SGh1TmJMQ0ZWbzFxYTNwQTVFb0VoNHhtNExWeGdDWE1vUEE1NE1nWnBtWFRpeHhRY3duRXhya0RHLXQ0S1RQU0x0SkJiSG5BeThiX21sUnF3WWFVM3JlM281eGFmc2N5VFFrVjVpZ0ZlMGRwdElRRTBaYXlZMmFEN3BUdnZ1LTZqTlgyNnc?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMXZ2SE8xeGdnZDVObjRjR3VZZXVhbjUxUlp1enVqSEN6UHc4dzhzR25wOHNTZ1FmRGhrT0xOa0JlWUpjaWpXN2F2VWlmSmEzZjRXOGh5cmdXZ3NnaklvWXhOVHh0dG95NnRiNnFwVjJZN0otXzZ0LVhfV3Jab0ZTWTlHQ3l2aXJMbC1VekEtb2JLRm1PREZPVTRHOFJsWEUxYkt6N2o3MDctT0c2WFkyLVdtSm5VYUZERnVJMklVVWZkaUVWYlBQOGNLbWtRZkRNZmc?oc=5>
 
-### 美伊战火没完没了？特朗普：要打到我喊停，下周或袭击桥梁发电厂！
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-07-14 22:57
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE5XRi12aWVnd243WVJYOFpYMENZWFlkaGlZeVc5WlVsNldsLW9rMm9NQ0VWRzVzaWZtVllDRXVUVy1GanhFNFdMTA?oc=5>
-
-### 美媒：特朗普召集会议讨论对伊朗大规模进攻计划
+### 规模将远超当前！特朗普与高官们在战情室开会研究袭击伊朗
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-07-15 04:03
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9COWQ0R0Y4cmV6clZRWGFwTkRTMkctanE4dlhiajlxalNQVFF6bEpNdmt2bFAzVEdrcDFJNmctNXgtZEhOekZac1M2eFJiSDg0NkhXMU80N3R0SWU2YWVoWEVIUGw?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-07-15 03:59
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE8tejZSamRaZ2J1amVXSFc2R2d6MjFCdUpYZmhpRkFMOEZSUnlJZ1hIQzN2eC1sTXFKQ2FfWkxTQ3VzV3RCT29fN3Jnd0c?oc=5>
+
+### 特朗普召集会议讨论对伊朗大规模进攻计划
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: chinanews.com.cn
+- 时间: 2026-07-15 04:13
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JWENnbEotNWNXd2otcWNRaExoVzVpRHUxcWJPWjdmMGVBVlFHWnlFZUVycGtfRmFudTZaaTl1aU5XSFZKTjFhOERyeXpoajRZaEcwOVlZS3ZHLW0ydWtWYWNVZDZ1T3J1?oc=5>
+
+### 美国恢复封锁伊朗船运后，油价窜升逾10%，全球股指涨跌互现
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-07-14 21:33
+- 链接: <https://news.google.com/rss/articles/CBMi4gFBVV95cUxNX25PYmJ3dVluTmJTQm55SjRhbTNLNm1Id1lPVkhIU29xajBVV3VWcjU0NTRzbGsxSUdFN1hhSWhzOUIyeFJ3NUQ2eU1nYmpBODg5YnBHRVcxVHFaZHRvcmlweXpVQzlzaFI5WjhZLUpMSG1KeWhNZnRyUWY1bDE3dHI5bG8wSTF4allMNTl5N0JtNWdmQzhhRkw0MHJrNGd1WGwyUmtxRXFRRVUwSkRra3BIZDF4eDFBX01TOElkOU9QdUxGeEppQVVnTTVXMkhPOW83MUhndmcycjJmaFFuM2tR0gHkAUFVX3lxTE5TOUFVRExLVmx3Nm9ZMDh4akN2UUdUbjdFZlJZQXNYRXlwLWJQR3d6R0tKaXR5M2RjTEJ2dTdyQlpSLWMzVXVGbnh5YnNJWVJGZmNrYUhWQzBJc20yMkF6SnBDQjBPcjg3RG1zWlhmVmhPbDU0RlhIT2hjQXl5M2hJUXdzWkFfTmxRUVhUalpiY0RRU0twb3ozNjlQT1dFSkZ2dW8zVlduWUFCdVUtTmhNZElEbG9jWGZEUmRGZEFseWhjRU96ZG1GUG1kVksySGlLUmNxeE1NQ3ViNURWNHNYZi1kUw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-15 07:10  (14 条)
+
+- **周杰伦** | 周杰伦青岛演唱会官宣，10月3日至5日开唱 <https://k.sina.com.cn/article_1931238691_m731c5d2303302ddv2.html>
+- **周杰伦** | 周杰伦青岛演唱会正式定档 <https://k.sina.com.cn/article_1789681642_m6aac5fea033085gnc.html>
+- **周杰伦** | 周杰伦青岛演唱会定档，2026年10月连唱3天 <https://k.sina.com.cn/article_1768470921_m6968b98903301gozm.html>
+- **周杰伦** | 官宣！周杰伦2026巡演落地青岛 <https://finance.sina.com.cn/wm/2026-07-15/doc-inihwmie4785630.shtml>
+- **周杰伦** | 周杰伦青岛演唱会正式定档，2026年10月连唱三天 <https://video.sina.com.cn/p/finance/2026-07-15/detail-inihwmia8001993.d.html>
+- **周杰伦** | 在青岛连唱三天！2026周杰伦世界巡回演唱会定档 <https://finance.sina.com.cn/roll/2026-07-15/doc-inihwmie4764142.shtml>
+- **特朗普** | 特朗普称继续袭击伊朗直至他说够了 <https://news.google.com/rss/articles/CBMiggJBVV95cUxOUjlXOW9yMU1Kb3VtcWU1X2hoc1ZNWXpxTTVEM2M3N2Q5ZW8zcVJvaHhlUy1NZWdzWjJGYnZ0R1NsZkFBdmRMb19aWjd4a05haVFsYTFSRTd5T203UzhrbU1xVjg2azI5Y1czU1FRSDRvOHg3ZUJYYjRBQXk1RHVfem9WYWpKTTRTTndlMGlPLUpPOUNzLV94T3BiNzFRLTl4c0lwejRpN1dlbHBkMVZHZkVBdHNlZmFEYlcyZGxpLS00X0xBdGNjRW1pbkpRbWJsSGZHb1ZCSE9VYzREX0hNT0tsd2lLLURMME01MHdjNnZFWndUcElZUVpsMEw5aTZ5bkE?oc=5>
+- **特朗普** | 特朗普称伊朗像伟大拳击手，美军恢复海上封锁 <https://news.google.com/rss/articles/CBMijgFBVV95cUxNc2J3dEw5VjAzQWtVNE1wVlBUU3JiNlFxVjh3Q0c3TlB1Q3FWbVpZRlprRnpncDNReHdtRGRwY1lQQmNpRGJlVmRheEJSTkVpcWd2d21Qd3B1Y2M5blVJOUhxc1plaGt4aWtGUW9sM0ZjSUZVRDJrbmpINFZwWDlXaUdwVlFkeXFSM1k1d3NR?oc=5>
+- **特朗普** | 特朗普：伊朗像伟大拳击手，你以为击败他，结果被重拳反击 若伊朗不回来谈判，不排除派地面部队 <https://news.google.com/rss/articles/CBMixwFBVV95cUxQNktOaEhvWFZyUnFNVjNiWmgzZkdRQW5MNVByYkM4NEtQUTJtWTdtTWxtSURMY3BpRGRnSUpVUXg1cVNOT2MzR05BMVpDV2lMSnYtajVsVnl4SU5kLWFsejhKZ3VDU0RmYjc1THhpb0JqS3BEY09BQXRFMndQMVFSMXgwRzE5aXZ5bFg0RmNDNlBQdGtxYlVWdk00Z0FucXF5VDA2MXhqSUZaa3dqaTZKelYtSzk5UmNqbUdlLWd0SWd0Q1ZVSTFB?oc=5>
+- **特朗普** | 性侵案败诉 特朗普赔付女作家逾560万美元 <https://news.google.com/rss/articles/CBMimgFBVV95cUxOR2FTYjFyWGtXNlQ1X2ptWlVxa2VkUkw0NlliM2FsSmpVZlZySzMzMUU0dGZLNUFRV2QtVHFJc0dva1hueS1YbFRwQ2JMeHl2Qk1VOUgycVJYRUVtb3V1THZibVdrV1BGRXRSX1NxSmtuS3JyWDVJcDJsd2tvek5PUjE0Q3UtNzJnVXVzZDFJZy1yTEJXdnJLR2pn?oc=5>
+- **特朗普** | 特朗普宣称将与伊拉克达成“庞大”的石油交易 <https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMXZ2SE8xeGdnZDVObjRjR3VZZXVhbjUxUlp1enVqSEN6UHc4dzhzR25wOHNTZ1FmRGhrT0xOa0JlWUpjaWpXN2F2VWlmSmEzZjRXOGh5cmdXZ3NnaklvWXhOVHh0dG95NnRiNnFwVjJZN0otXzZ0LVhfV3Jab0ZTWTlHQ3l2aXJMbC1VekEtb2JLRm1PREZPVTRHOFJsWEUxYkt6N2o3MDctT0c2WFkyLVdtSm5VYUZERnVJMklVVWZkaUVWYlBQOGNLbWtRZkRNZmc?oc=5>
+- **特朗普** | 规模将远超当前！特朗普与高官们在战情室开会研究袭击伊朗 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE8tejZSamRaZ2J1amVXSFc2R2d6MjFCdUpYZmhpRkFMOEZSUnlJZ1hIQzN2eC1sTXFKQ2FfWkxTQ3VzV3RCT29fN3Jnd0c?oc=5>
+- **特朗普** | 特朗普召集会议讨论对伊朗大规模进攻计划 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JWENnbEotNWNXd2otcWNRaExoVzVpRHUxcWJPWjdmMGVBVlFHWnlFZUVycGtfRmFudTZaaTl1aU5XSFZKTjFhOERyeXpoajRZaEcwOVlZS3ZHLW0ydWtWYWNVZDZ1T3J1?oc=5>
+- **Trump** | 美国恢复封锁伊朗船运后，油价窜升逾10%，全球股指涨跌互现 <https://news.google.com/rss/articles/CBMi4gFBVV95cUxNX25PYmJ3dVluTmJTQm55SjRhbTNLNm1Id1lPVkhIU29xajBVV3VWcjU0NTRzbGsxSUdFN1hhSWhzOUIyeFJ3NUQ2eU1nYmpBODg5YnBHRVcxVHFaZHRvcmlweXpVQzlzaFI5WjhZLUpMSG1KeWhNZnRyUWY1bDE3dHI5bG8wSTF4allMNTl5N0JtNWdmQzhhRkw0MHJrNGd1WGwyUmtxRXFRRVUwSkRra3BIZDF4eDFBX01TOElkOU9QdUxGeEppQVVnTTVXMkhPOW83MUhndmcycjJmaFFuM2tR0gHkAUFVX3lxTE5TOUFVRExLVmx3Nm9ZMDh4akN2UUdUbjdFZlJZQXNYRXlwLWJQR3d6R0tKaXR5M2RjTEJ2dTdyQlpSLWMzVXVGbnh5YnNJWVJGZmNrYUhWQzBJc20yMkF6SnBDQjBPcjg3RG1zWlhmVmhPbDU0RlhIT2hjQXl5M2hJUXdzWkFfTmxRUVhUalpiY0RRU0twb3ozNjlQT1dFSkZ2dW8zVlduWUFCdVUtTmhNZElEbG9jWGZEUmRGZEFseWhjRU96ZG1GUG1kVksySGlLUmNxeE1NQ3ViNURWNHNYZi1kUw?oc=5>
 
 ### 2026-07-15 04:46  (7 条)
 
