@@ -1,48 +1,91 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-15 11:08**
-- 本轮扫到 6907 条, 新增 **4** 条
+- 最近更新: **2026-07-15 12:49**
+- 本轮扫到 6915 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (8 条)
 
-### 特朗普宣称将与伊拉克达成“庞大”的石油交易
+### 沙特、阿联酋、巴林、卡塔尔等海湾国家领导人“疯狂”致电特朗普，劝他彻底放弃离谱想法
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-14 17:25
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNb0ZoUlVRM3VnUXlMaDBYOEpaN1BUaThUam1vNHVNcnEwV08xdW41SlFSRkZjRUJzS0NEbEM1RjBQZjFRak9zMXBmYmZSbklZVGRHNzkxLUJZSWVhRnFybWxsQ1V1WjNHT0pGUVFMamVLSUg0UklfSWowTFhySkFhM0xFbzY3WDl2TGRjckhFTkdvLVZGRFd5cmxEeVRqVC10a3BkbERzV3htSERzOWhHWWMwYUpLcnM5ZmRFMzZWclpsdXhFSFpXNTRMck9td01Z?oc=5>
+- 时间: 2026-07-15 11:17
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE53VE40X3BXX0I5ZTU1VGd0V0NWanJVVWxHbE5GVXJWQUVTckpnRV9oWWJDM2xCNlNsN291SmxkakVkWUZxci05T01HYk9QQ1VoVEVMcHVnYXphdVpsSDFCcm5zVzFtbE0waUZwaTJhcE9CNjBBMk9jTw?oc=5>
 
-### 特朗普火速撤回20%“过路费”内情披露！沙特、阿联酋等海湾国家领导人“疯狂”致电特朗普：别收了，我们将大举投资美国
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 每日经济新闻
-- 时间: 2026-07-15 10:45
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1aNll1STRuZUdDb3k1MHFOSUk1WVM2eEI3ZmNnOU9sWlViYjY3cm5vUFBzSEpOb0FLTDRkWW5UNXRCeGJWUGhuUG5nVUtqUEliMTF4WlNlSGFtNk94Vl9tZVdHanhWdw?oc=5>
-
-### 美伊战争或升级，特朗普召集会议讨论大规模进攻
+### 23年驻军历史终结，特朗普在白宫接待“没参选”的伊拉克新总理
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-07-15 05:13
-- 链接: <https://news.google.com/rss/articles/CBMikgFBVV95cUxOT1JfdVJzcHNFbXJnQlJsMVc3RkxpbHh0T2pjS084SnJmXzgwMTFiU0VJbjJXcFl3aXEyLTkyWHhYOGZmTUZRVllWMXBhRGFiMXNTYzN5WHN5SEYwLUNsWXc1eEZIY011YTktVkxvTVVOVnpqb196WXUxaVdmWk5RRHdLYzF6ZUp6b1A4ZC04V2dpQQ?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-07-15 01:17
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE80U1NPOWtGMUV4TVFrSFA5RFhoLWpzQ3hvdFU0djhQeXV0bkVCREY2eXR1enAwODRhS002NE1vWlZtR2pIbUNTMDk1c0Q?oc=5>
 
-### 特朗普：对伊朗的打击将继续
+### 美国作家收到特朗普560万美元赔偿金 性侵案终落幕
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-07-15 00:14
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zc00zYlpfaWpUTmNpN05FVEJKQ2JZSmpNV2h0ZUdhRllGbFQtM1gzUnlfcnVObGFPUVExY0lZa2U4MWNfV2d6a24xWTVyWW80MXZHSVF2UjNuLXZsZlhfcw?oc=5>
+- 场馆: 中华网
+- 时间: 2026-07-15 07:20
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5kVU40czdJMUN6UlFkM3E2S09XLUNwUXFwRnVLczZ4cTZTZWJBX3J3SUt3b2ozZEh4VXo2Vm9rZlQ3XzNuNkRmSV9FZnQwSWFXUUFEVnQxVWNtekVjU2lieE55SnhtSngzWDcxQjBqZGE?oc=5>
+
+### 无视规则！特朗普彻底摊牌，全球秩序面临崩塌，多国目光转向中国
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 手机网易网
+- 时间: 2026-07-15 09:17
+- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zTjc4cHBrYk9ZUHkzS2pwRE5QYzlrbUlrZjAtQU9MRVJLV1Q0YTY5eEVTQkhkSG9kQzdrM0sybjhrU3N3bXpCdTNHZmcxcUduRVFiTlM0d3psRm9RQ0ItenBn?oc=5>
+
+### 一财主播说| 特朗普性侵及诽谤案尘埃落定 82岁美国女作家称收到562万美元赔偿金
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 第一财经
+- 时间: 2026-07-15 07:25
+- 链接: <https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xMXBNQ0FfdkFZU0J1SkxPMHhDTDBOdkV0akVMSEZadVc4M1Ffd2ZERHcxd3k1bElDckNBUzBSdUV5RzktbFdRbFpxdUN0RlJkeU9PUQ?oc=5>
+
+### 已赔付女作家逾560万美元，特朗普因性侵案败诉“大出血”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Jiemian.com
+- 时间: 2026-07-15 08:07
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTFBPbVg0Q2VqSzBZTEpOS3RzZ3EyNHpYMXJqMVRSb1dRcmpmQWtFa2hveDBiLUl0dEVfNDBMTDdfOFdRTHgwXzBhZVc5bTlZMGhnR2FaenVCTjU?oc=5>
+
+### US President Donald Trump says US pressed Iran to reach agreement
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: TMGM trading
+- 时间: 2026-07-15 01:11
+- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxOT2J5R0pXcklXVFR0Wl80UERsa3lrRUZpejl4MWlyZEV0Wjh5RUMyUVdBTGJiVEhaUWl1N2FkMUUtQmR0TDFFMmdreHV5Ty1zaFVfZV9LZHQwQkR0WUhfQVhVdU1oaGY5YmRjSzdkaFZoNXJjUGJRcWhiUVVabk4xS09MOGtXVFZtME9Dc2FUckM2VnFUQkJRSmhJWmhFWl9jbXdEVnZ2d0NLamNTT1BXR2xlSWRDX2ZKemJNMFU4YW56ZmtQaldJLWNTVUhjWWtDYUE?oc=5>
+
+### Trump urges Senate to pass CLARITY Act as crypto bill nears crucial vote
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: TMGM trading
+- 时间: 2026-07-14 11:10
+- 链接: <https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRlRnMDdrd3JPTGhVRF9MakVHQUVCUDN0bWhJWHBJNUNMWDR3dk01X0w1eXdxUGVuTWd3WktvZmE3OEdZRUpjdkY4Wm9aMl91VHBqV1ZYejh6ZU85b09qOGp2VHlZa2tJc3liWHAtUExCUTZjVDVCN0lQUUhnYl9zVHllVlJiWnpVZjBINDB3OU1BX2R2aXM2UFdmY2ZIOEFnTG5QWEdmYjVGcTZwdVhJa1NucmZLd19EMW1IT3l2S3JuUmJKU0xDZWhRUFFSZm5rZ1M1NlhKeFIwQm8?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-15 12:49  (8 条)
+
+- **特朗普** | 沙特、阿联酋、巴林、卡塔尔等海湾国家领导人“疯狂”致电特朗普，劝他彻底放弃离谱想法 <https://news.google.com/rss/articles/CBMieEFVX3lxTE53VE40X3BXX0I5ZTU1VGd0V0NWanJVVWxHbE5GVXJWQUVTckpnRV9oWWJDM2xCNlNsN291SmxkakVkWUZxci05T01HYk9QQ1VoVEVMcHVnYXphdVpsSDFCcm5zVzFtbE0waUZwaTJhcE9CNjBBMk9jTw?oc=5>
+- **特朗普** | 23年驻军历史终结，特朗普在白宫接待“没参选”的伊拉克新总理 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE80U1NPOWtGMUV4TVFrSFA5RFhoLWpzQ3hvdFU0djhQeXV0bkVCREY2eXR1enAwODRhS002NE1vWlZtR2pIbUNTMDk1c0Q?oc=5>
+- **特朗普** | 美国作家收到特朗普560万美元赔偿金 性侵案终落幕 <https://news.google.com/rss/articles/CBMicEFVX3lxTE5kVU40czdJMUN6UlFkM3E2S09XLUNwUXFwRnVLczZ4cTZTZWJBX3J3SUt3b2ozZEh4VXo2Vm9rZlQ3XzNuNkRmSV9FZnQwSWFXUUFEVnQxVWNtekVjU2lieE55SnhtSngzWDcxQjBqZGE?oc=5>
+- **特朗普** | 无视规则！特朗普彻底摊牌，全球秩序面临崩塌，多国目光转向中国 <https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zTjc4cHBrYk9ZUHkzS2pwRE5QYzlrbUlrZjAtQU9MRVJLV1Q0YTY5eEVTQkhkSG9kQzdrM0sybjhrU3N3bXpCdTNHZmcxcUduRVFiTlM0d3psRm9RQ0ItenBn?oc=5>
+- **特朗普** | 一财主播说| 特朗普性侵及诽谤案尘埃落定 82岁美国女作家称收到562万美元赔偿金 <https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xMXBNQ0FfdkFZU0J1SkxPMHhDTDBOdkV0akVMSEZadVc4M1Ffd2ZERHcxd3k1bElDckNBUzBSdUV5RzktbFdRbFpxdUN0RlJkeU9PUQ?oc=5>
+- **特朗普** | 已赔付女作家逾560万美元，特朗普因性侵案败诉“大出血” <https://news.google.com/rss/articles/CBMiWEFVX3lxTFBPbVg0Q2VqSzBZTEpOS3RzZ3EyNHpYMXJqMVRSb1dRcmpmQWtFa2hveDBiLUl0dEVfNDBMTDdfOFdRTHgwXzBhZVc5bTlZMGhnR2FaenVCTjU?oc=5>
+- **Trump** | US President Donald Trump says US pressed Iran to reach agreement <https://news.google.com/rss/articles/CBMi0gFBVV95cUxOT2J5R0pXcklXVFR0Wl80UERsa3lrRUZpejl4MWlyZEV0Wjh5RUMyUVdBTGJiVEhaUWl1N2FkMUUtQmR0TDFFMmdreHV5Ty1zaFVfZV9LZHQwQkR0WUhfQVhVdU1oaGY5YmRjSzdkaFZoNXJjUGJRcWhiUVVabk4xS09MOGtXVFZtME9Dc2FUckM2VnFUQkJRSmhJWmhFWl9jbXdEVnZ2d0NLamNTT1BXR2xlSWRDX2ZKemJNMFU4YW56ZmtQaldJLWNTVUhjWWtDYUE?oc=5>
+- **Trump** | Trump urges Senate to pass CLARITY Act as crypto bill nears crucial vote <https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRlRnMDdrd3JPTGhVRF9MakVHQUVCUDN0bWhJWHBJNUNMWDR3dk01X0w1eXdxUGVuTWd3WktvZmE3OEdZRUpjdkY4Wm9aMl91VHBqV1ZYejh6ZU85b09qOGp2VHlZa2tJc3liWHAtUExCUTZjVDVCN0lQUUhnYl9zVHllVlJiWnpVZjBINDB3OU1BX2R2aXM2UFdmY2ZIOEFnTG5QWEdmYjVGcTZwdVhJa1NucmZLd19EMW1IT3l2S3JuUmJKU0xDZWhRUFFSZm5rZ1M1NlhKeFIwQm8?oc=5>
 
 ### 2026-07-15 11:08  (4 条)
 
