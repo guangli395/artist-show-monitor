@@ -1,72 +1,62 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-15 19:01**
-- 本轮扫到 6940 条, 新增 **7** 条
+- 最近更新: **2026-07-15 20:30**
+- 本轮扫到 6945 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (5 条)
 
-### 特朗普称暂不与伊朗谈判 美伊冲突升温拖累民调与经济
+### 王俊凯新专辑《WJK》为何致敬周杰伦首张专辑命名？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-07-15 18:35
-- 链接: <https://news.google.com/rss/articles/CBMigANBVV95cUxNZ0JJMjlmSGtKc0FBU0o5aGpNM3Bjc1dZM3FVVDBWOFVIX18wTkVFX2hxc0RwLTc0Si1qNVFlWG9BTXJoNzQydHpPZkQ1RDBPMmhfaTdweTNfd1ZrYnd5TS15cFBBQlZqUWdCRVk3WFhxb0xKdVBHRE1FbWdWa2hWRmZJeWoxa3BZaHo2dXdFbHBjUm9NOWJydV9WdE5LS1BtYUNhUHNrNElrVHlvTkNEcExLbTdjZDBVY3NfbVZvN0d2aURsTHB4VmdEbWxnX1VPcnBNeHBmY0JPM0F1UExqbGYyaHhmN3JQMnFNZGpILXowTDE1VWE5NU5JbjlQV2tPcExJeHJvNnEwaEdCN2VEeXpxMXZEYmtzZm1xVW44S0VDbnQ1a2tJUXJxcG45d18zYnFRZy1nbV9HYmU2cm5weElZTVBVMUZjc212Mk45ZE14bE02ZGNpaE9uQ1hSZ0FxaE8yOUp0NjVnYlQ3LWpmYmlqVURpeW5vMDAwUlI0VlE?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068013mba.html>
 
-### 美联储主席沃什强调自身独立性 称已“多次”告知特朗普这一点
+### 美国对伊朗发动更多空袭 特朗普重申德黑兰寻求会谈
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-15 18:02
-- 链接: <https://news.google.com/rss/articles/CBMingJBVV95cUxOdkVaNnNZbEpNajdjMEdYTkNDeVJ5NGsySVFMalczZ2tnTlZabVpJREl0cGxiTTU2X0tZbmlXNVJPZVVGRURkaUVZQk9sWHRfREZTWWhlM0VYMGhYcll4cS1QR3g2bmhMcjRCMkhQaFFrRzVwMmh2ODhDcy05MFp0U1RXMHBMS2NOSUdXZjRaeUFJcHNBM0tSYW55SU5aQWk0LU5HYzFnSTNxVlFDWTFxeXlnMW5Oc0NtVWJUTG8wWWl4bUczMl9BWG9RRDQzclN6alNRM1hsTVpadXhYbDF3ektvN0YwaFFRNDF4dmFHd3VOR3R3YVphakpUT3c0YlZjSzJhbGpLR2FzUWlkeGE3N0UweGR5c1JPU0JTaENB?oc=5>
+- 时间: 2026-07-15 20:29
+- 链接: <https://news.google.com/rss/articles/CBMimgJBVV95cUxQQXJNTkpCcGtBRzNSOWp3UE5aQnpzbkZkRG5KY3F6Zk82M1RGRVNHRWlQUjh0MUF0akh2ZG9XekRpRVJNd0xrd2lWWDRvNHJicHlTWGxBSEZLQlBHelQyV290Z256YjNFQXhvS3BUQlRaZldhT1pYOEJvZ2ZSQ0pFY2I1Nk9DdlBfNWM3enJwNDNnbjBNWmd2TDMyVVJOdnVKUEUwaXVjYzZESGNnd2xwR1ZieTQzSnYzbEstaE9HUUFXY3hEa1lxVGZmZGZSRC1mTXZSeHJuck15bnRoMHhGWUJJSnlkR1ZnWFd6LTNSWHVpNkxJcTlEN1YyTmhtaWQ4ZEZZdm5YWm5vTG9aMTlvT24zaDdkT2xzMVE?oc=5>
 
-### 特朗普被曝施压内塔尼亚胡从叙黎撤军 美两党内对以立场均现分歧
+### 性侵案败诉 特朗普赔付女作家逾560万美元
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 财新
-- 时间: 2026-07-15 12:06
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE94V093YU9zekZIR2hjWm96dmpHQUJndF85NHBQVnhreGdlWXJmVm5GU0E0WHZZTXNkZE1UNjkyUW1TZ0dBdWdiM3Zsam8xU2t6bWVsWXVEeXdVYnFGVTU3SzhoSEptTnhQRGc?oc=5>
+- 场馆: 新华网
+- 时间: 2026-07-15 06:43
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9VNUFlbU1VMDFDZDRlbE1ZWEFjMktmcEh0aS04OF9qUi1NdVZ0b1lRUnE2QUx2bURJanBMUkJuLVM3OW1ra2FTMm1BYmhZSTFxM05zbzJ0UDJ6LVhuZzhIejlBNzNUM2ttRXpPbjZqM3NQSHNKZVVrdVlINXVOazg?oc=5>
 
-### 不到24小时，特朗普态度大转弯了
+### 特朗普称俄罗斯已准备好达成协议以结束俄乌冲突
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 搜狐网
+- 时间: 2026-07-15 13:32
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxONEM1eHdXMUpCZkFTZWZHam1mRF93Y2ZkNWgzNGhkMmk2b3lvQ0lzTDhpaDdLR1ZfbUFyNUhSZXFmS05rWHBBMXVpbkRlSms0TFpKenExRzczMG83Q2tobDA3TWRfdldFd3FCY2ViaVdjU1lWbGR0Yng0R0FLVUVtOE9makFJUFU1?oc=5>
+
+### 正式铸造，特朗普1美元金币来了，长这样
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-07-15 00:09
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBXOUY4dThpbWo4bnZTamtfejkyZFdnQ2N3Qkp6OXRRQ0ltYjR3TmpGOGxTRWxqWHlqTjRnTzZ6eENCSFBJRTlQR2o3Tk0?oc=5>
-
-### 性侵案败诉，特朗普赔钱
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新蓝网
-- 时间: 2026-07-15 12:51
-- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE9OTzFKVHg5OGNsejRBTTByYjR4OTBhOGJjZldTOWxLWE44WUMyVmNrSjdvdGd6S1hXQXB2QjJaS1phbnZMell5em11T19BYTg?oc=5>
-
-### 美媒：特朗普在战情室开会，考虑对伊“毁灭性打击”计划
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-07-15 07:38
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPSVVMSnNfdDdpbG9FVXN5VnRpNlAxLVZQWV9KTjhEek1Kem9WM2pkd0RGMVBZTVd0QUhsdlFaNWc0VmpyVVF5VktheHVZLWZkMmY2V19wYzduSFQxRVdWVTFfYTFMbDBx?oc=5>
-
-### 伊朗霍尔木兹费用比trump便宜20% 😂😂😂
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-07-14 12:11
-- 链接: <https://news.google.com/rss/articles/CBMinwFBVV95cUxPdEtmYnF4blZPRFpBMW80TXNyWUtEUUpkVUNaQWlOWXhIcmFDNndRVmVZajloZzhoYXQ1OXp3dkVXZzdQdkxYTnRqbHdlcVpfaFlLYU9iNmR1b1A1ZW82TjBQb1NFUFVqU0ZlZnpLYV9iNzF0YlRvakJyajUwcHVaU3Roelk0eTlVcVN5Wl9LdWU1eWZSY2QzbUliYzFCaXc?oc=5>
+- 时间: 2026-07-15 18:55
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5kYlpwX2kyYUhucE04WnBWcTlhSi0zZWhzeHRhYWU0SkZoeEVaaVlJM3FSbHRXNXA2NDJIbzM2Tkg5X1k4MmZhYmhKek4?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-15 20:30  (5 条)
+
+- **周杰伦** | 王俊凯新专辑《WJK》为何致敬周杰伦首张专辑命名？ <https://k.sina.com.cn/article_7879776356_1d5abd864068013mba.html>
+- **特朗普** | 美国对伊朗发动更多空袭 特朗普重申德黑兰寻求会谈 <https://news.google.com/rss/articles/CBMimgJBVV95cUxQQXJNTkpCcGtBRzNSOWp3UE5aQnpzbkZkRG5KY3F6Zk82M1RGRVNHRWlQUjh0MUF0akh2ZG9XekRpRVJNd0xrd2lWWDRvNHJicHlTWGxBSEZLQlBHelQyV290Z256YjNFQXhvS3BUQlRaZldhT1pYOEJvZ2ZSQ0pFY2I1Nk9DdlBfNWM3enJwNDNnbjBNWmd2TDMyVVJOdnVKUEUwaXVjYzZESGNnd2xwR1ZieTQzSnYzbEstaE9HUUFXY3hEa1lxVGZmZGZSRC1mTXZSeHJuck15bnRoMHhGWUJJSnlkR1ZnWFd6LTNSWHVpNkxJcTlEN1YyTmhtaWQ4ZEZZdm5YWm5vTG9aMTlvT24zaDdkT2xzMVE?oc=5>
+- **特朗普** | 性侵案败诉 特朗普赔付女作家逾560万美元 <https://news.google.com/rss/articles/CBMif0FVX3lxTE9VNUFlbU1VMDFDZDRlbE1ZWEFjMktmcEh0aS04OF9qUi1NdVZ0b1lRUnE2QUx2bURJanBMUkJuLVM3OW1ra2FTMm1BYmhZSTFxM05zbzJ0UDJ6LVhuZzhIejlBNzNUM2ttRXpPbjZqM3NQSHNKZVVrdVlINXVOazg?oc=5>
+- **特朗普** | 特朗普称俄罗斯已准备好达成协议以结束俄乌冲突 <https://news.google.com/rss/articles/CBMiiAFBVV95cUxONEM1eHdXMUpCZkFTZWZHam1mRF93Y2ZkNWgzNGhkMmk2b3lvQ0lzTDhpaDdLR1ZfbUFyNUhSZXFmS05rWHBBMXVpbkRlSms0TFpKenExRzczMG83Q2tobDA3TWRfdldFd3FCY2ViaVdjU1lWbGR0Yng0R0FLVUVtOE9makFJUFU1?oc=5>
+- **特朗普** | 正式铸造，特朗普1美元金币来了，长这样 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5kYlpwX2kyYUhucE04WnBWcTlhSi0zZWhzeHRhYWU0SkZoeEVaaVlJM3FSbHRXNXA2NDJIbzM2Tkg5X1k4MmZhYmhKek4?oc=5>
 
 ### 2026-07-15 19:01  (7 条)
 
