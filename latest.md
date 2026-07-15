@@ -1,32 +1,71 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-15 16:15**
-- 本轮扫到 6927 条, 新增 **2** 条
+- 最近更新: **2026-07-15 17:44**
+- 本轮扫到 6933 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (6 条)
 
-### 美军连续四天袭击伊朗，特朗普威胁升级-观察者网
+### 《陈情令》泰国见面会定档,成员穿上泰国服饰,师姐也太美了吧
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察
-- 时间: 2026-07-15 00:46
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9qRm95SkF1RDBTVzZ2XzFuRFpOUkt1UU9ZeFRUQmM0YnR4QmlPTHlpSEt0UmNjMkwwUFY3SEZ1MUVwNmNFSUVLam9ycDRtUDJ1S0Y4dDRPTm9YdVJWRE1jMFNkOUlpZ3dva0E?oc=5>
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879848923_1d5acf3db01901eui8.html>
 
-### 特朗普：俄乌冲突会在其任期内结束，普京已准备好尽快达成协议
+### 美联储主席沃什强调自身独立性 称已“多次”告知特朗普这一点
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-15 13:25
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE9tdlZYNWF5V1draUNzSFBzUVZfTlI5SXdST2xEdWxUYXVHUDN3R25ubWktZkJ0THVHaV9rdkVaVF9wWEUzQVhPTmgtMzdIbXJBZFdtNnl1LUFMSjJ0Ul9HMkZUMERGakdtbTdyYlNKTHRuVUc5cUE?oc=5>
+- 时间: 2026-07-15 16:59
+- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxNSmgzbTZyaEw2a3RlOTJ4UHpYNkhBYzV3QzJfUGZmdVl1a0loaUkxRGV1WWhPZWdFcnRWUktzS3RGTFBvMWExVGR5OTZaS3d2V2pRVVROdFI2MmkyaTlDb0NfY0NmZWZsLWsyYlZPaEEyZFRHcXV6cGpWS0RiZ0o3amhScFBVXzBtTVE?oc=5>
+
+### 全线拉升，特朗普紧急召开会议，国际油价飙涨
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-07-15 12:17
+- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE5YQUxQclcxMTVmTGxXSExNZk1lWExVempsWHA5WXNWZVBlZ3RycVpmbm0zTFMyZkhDSUFzazBRb2QwOEJtcGYzc3hVcjVaUlBr?oc=5>
+
+### 特朗普称俄罗斯已准备好达成协议以结束俄乌冲突
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-07-15 13:04
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTFBsYW9lU09mMXFoRl92OG9NRGkwWmRyREVSUnJnR1UwbnJKOGQ5YmQzQXBod0pPRnN3aTZPOHBvTm5JcjkxRklUT2xORXBteXhMbHBmWmhMUkxia3F0aHc?oc=5>
+
+### 特朗普召集会议讨论对伊朗大规模进攻计划
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 央广网
+- 时间: 2026-07-15 05:17
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE14aTNEYmJNdnpzbE4wVHdzb3hqajdHMlU3V09aMDdwMjVwMkFoQ1g4NzgxNXh5TG5RLUxkRllJSWd1Z3lUWUtnaXNzU0RCNkhYR0pDcGdNbDVvYnV2SGdHdVVnQ1ROekp6?oc=5>
+
+### 以色列总理内塔尼亚胡计划访美，会见特朗普并参加格雷厄姆追悼会。
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Al-Monitor
+- 时间: 2026-07-15 16:50
+- 链接: <https://news.google.com/rss/articles/CBMizAFBVV95cUxPMUtNQlhtOW13RzNfQXAwYWxnNUFMOFQ0R0ZJaURFZkVpNWJNV2I4UUhzODdDcW9WMlN1ZmR0Y0U3X2piY0xhR1FtOEE1bFdVYVRtbHA5VzRkREhlZjh2U1lJVzJnRFZrTTVXWEtncnZqM1FwakRMd09zcFVpb0cyeW14MlhTUU80Y0ljLUlZYUZKYk9sNWlMc3pDcHpKY0V1dFRILXVSM1RQT0QzSXdLQVg1cy10UF83TnBZazF1N1JHSEkxdW9DSW1wS2c?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-15 17:44  (6 条)
+
+- **王一博** | 《陈情令》泰国见面会定档,成员穿上泰国服饰,师姐也太美了吧 <https://k.sina.com.cn/article_7879848923_1d5acf3db01901eui8.html>
+- **特朗普** | 美联储主席沃什强调自身独立性 称已“多次”告知特朗普这一点 <https://news.google.com/rss/articles/CBMiigFBVV95cUxNSmgzbTZyaEw2a3RlOTJ4UHpYNkhBYzV3QzJfUGZmdVl1a0loaUkxRGV1WWhPZWdFcnRWUktzS3RGTFBvMWExVGR5OTZaS3d2V2pRVVROdFI2MmkyaTlDb0NfY0NmZWZsLWsyYlZPaEEyZFRHcXV6cGpWS0RiZ0o3amhScFBVXzBtTVE?oc=5>
+- **特朗普** | 全线拉升，特朗普紧急召开会议，国际油价飙涨 <https://news.google.com/rss/articles/CBMiUEFVX3lxTE5YQUxQclcxMTVmTGxXSExNZk1lWExVempsWHA5WXNWZVBlZ3RycVpmbm0zTFMyZkhDSUFzazBRb2QwOEJtcGYzc3hVcjVaUlBr?oc=5>
+- **特朗普** | 特朗普称俄罗斯已准备好达成协议以结束俄乌冲突 <https://news.google.com/rss/articles/CBMiXkFVX3lxTFBsYW9lU09mMXFoRl92OG9NRGkwWmRyREVSUnJnR1UwbnJKOGQ5YmQzQXBod0pPRnN3aTZPOHBvTm5JcjkxRklUT2xORXBteXhMbHBmWmhMUkxia3F0aHc?oc=5>
+- **特朗普** | 特朗普召集会议讨论对伊朗大规模进攻计划 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE14aTNEYmJNdnpzbE4wVHdzb3hqajdHMlU3V09aMDdwMjVwMkFoQ1g4NzgxNXh5TG5RLUxkRllJSWd1Z3lUWUtnaXNzU0RCNkhYR0pDcGdNbDVvYnV2SGdHdVVnQ1ROekp6?oc=5>
+- **Trump** | 以色列总理内塔尼亚胡计划访美，会见特朗普并参加格雷厄姆追悼会。 <https://news.google.com/rss/articles/CBMizAFBVV95cUxPMUtNQlhtOW13RzNfQXAwYWxnNUFMOFQ0R0ZJaURFZkVpNWJNV2I4UUhzODdDcW9WMlN1ZmR0Y0U3X2piY0xhR1FtOEE1bFdVYVRtbHA5VzRkREhlZjh2U1lJVzJnRFZrTTVXWEtncnZqM1FwakRMd09zcFVpb0cyeW14MlhTUU80Y0ljLUlZYUZKYk9sNWlMc3pDcHpKY0V1dFRILXVSM1RQT0QzSXdLQVg1cy10UF83TnBZazF1N1JHSEkxdW9DSW1wS2c?oc=5>
 
 ### 2026-07-15 16:15  (2 条)
 
