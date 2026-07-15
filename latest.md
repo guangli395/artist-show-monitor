@@ -1,48 +1,80 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-15 22:53**
-- 本轮扫到 6953 条, 新增 **4** 条
+- 最近更新: **2026-07-15 23:53**
+- 本轮扫到 6960 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (7 条)
 
-### 特朗普在国防峰会上点名通用动力 称美国需加快造潜艇
+### 虞书欣 的理想型，每回新歌打call都准时且小作文！
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-15 22:27
-- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVl9NYnlCNlpOSXV6VVUxY2pabnpTcDBFeDJmSVExWm96TEhDNWh6czhmeUZzRGJaYzVnV1M0eDA3MHRHa1hNYUhoYVUycFd3YjE2TTl2ZE1Zd3l1bmY1QVBfd0FkbzdLZ0lpYTc1V01fRm0ycG9SSEI3Umd1R2YwVF9DNjEwcVpzeGFZUnBkaklmb24zMXVzTzNycnpUN3VZTnlsUUJEbVg2Zw?oc=5>
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301d89c.html>
 
-### 特朗普抨击纽约州AI数据中心暂停令，称州政府应“立即”调整政策
+### 特朗普总统将于周四晚间向全国发表重大讲话
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-15 22:33
-- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE5rSEFpVmpJVFZSTmZFd29IX3ZWeng2djZhMGU0cm5MUGgtc3pCZ3F0OXJNNVluYVh1V0dBSHp6YWpGQlNwdXI3WVBGclZmemVUaTVqQlRqamVEVEszTHgwQkNoR3NRWUVveFlrS3dfRWJYZkItRm1VZkRn?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-07-15 22:56
+- 链接: <https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcUl3bmdXUmJMdk5oV2lOQ2hOdjAtVUhKTUZIN1hXREJJMXhFb3dlVmJPM2V0N2hTQkd4NWMxRjBuSUhINnJNZ1lWX3pWeUF5MEtKRktGS0s3bkVvaUpkSmNobUJfRjFtN0Fta0VjdzBHaVRuc0dOYm5TVjhqYi1RV0hsNmVGY3A3REJBYUVDNm5vLVpSa3RQcUUwQ005WV9CbXdDMnoybVVfWlhDaEtvd1JSVmJjM0dVdEJn0gG-AUFVX3lxTFBMOXB0cGlaZjRwNF92WUh1QzBiVXl4TUZzT1o1a1pNSWVNck14WWcwaUs4VGNMbjAxc2tUTkxEbmZWYTZJTURQdEZMcHFuU19OQ1Q3RmRoZE5WcHh3dWJNakFLc2xwV01wLTFnbnhSOVFQUWZDSGRMQkg5SHpqM3FxUUZhNDJrU3NxUFFBV20yV2N6Mkg4MUFMU2d4ZWJ4VXdWTkhZdm5hMndWNFhKN3pzU0ZVUTFwMkgxbTRjRXc?oc=5>
 
-### 特朗普称继续袭击伊朗直至他说够了
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-15 22:46
-- 链接: <https://news.google.com/rss/articles/CBMirAJBVV95cUxNSzBDSzdqU1ZKSzJZMHhKdzRxUm13Vmo4VEZqQWhoUm9PN2Z2Y3JTcDl2OGNXd1NrMTFCMm5Ld3FoaFlGSkhQMmlJbzYtWERmUHk0a2VVd0RpaVI0N05NQlk1cjRDTHlrNU1DWDFoaFdsODMxTFd5RmN4TThzNFRfeUUxWFFVbkJsa1NLOGhha05EZnAwZDZlR3VjQm5BM1NnQi01eDRMTUJvVnRQa3ZoUEQwN3Y0ZlNkb3gzdEZYYWdLR0ZfOVVGUHprdU9Xekhhcmk4R1hZSExIMktTRzh3R002MzVobVBUamZ4YlBLZ0lXRUNwaEhkOWVoWTBJZnhsb1VCQ3JHdUd4cjl6VWNZZkNlcDFnejhuNjdqOW9xclh2dzF2VUJtNlVpMzI?oc=5>
-
-### 特朗普称俄罗斯已准备好达成协议以结束俄乌冲突
+### 白宫战情室紧急开会！特朗普讨论对伊朗发动大规模进攻计划
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-07-15 13:04
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ReFc0dGpzcEdON2ZsRGstVzVOOE04QUF5ODZVUHNUYVUxUThXNVBadmhGa2xOd2lvOWt6Z0tVN2M5aUFMbm83X3A5S3lOdWVtVUt4UFdvSlIybzdmWVYwYQ?oc=5>
+- 场馆: 华尔街见闻
+- 时间: 2026-07-15 05:47
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yOTJfaTJHLVhKUUlHaE1ib0JTclBLQlU5MmRjdTJlWkdmNktKcWdJd0RucHM2Tm9Mak92ZGJDS2JnTFFKWk13UjUwUEdOd2hER2V3?oc=5>
+
+### 特朗普：伊朗非常希望达成和解 决定权在美方手中
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 8world
+- 时间: 2026-07-15 23:04
+- 链接: <https://news.google.com/rss/articles/CBMiX0FVX3lxTE1yUU9pRmRfVktESUQ2a2daNnM0NWE5c0tIU1FPN1VYaWpHOTFhSDM1RVVQSG9pWWpvSHBWSEdPNkJ1YnA4dHNfbmxwRmZtVWExSTZ1aXBMTU4zNENub0dR?oc=5>
+
+### 贝森特表示“特朗普美元”金币将投入生产
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-07-15 23:41
+- 链接: <https://news.google.com/rss/articles/CBMimgFBVV95cUxON2ZNMEU3WGxhd3M5UjhfVW1aV3BOUjNLbHZhcjJLNVNPOGFjc2NhMm5hN0dEVFJHdFdFT0FQVnNMZVMwWEQ2NUh0dEJlQ3hBZTZrcjVBdm8zYVJqRjc2NjJ4REREei04S0ZFRlZUV2NzRW9UdDJ6UnJ5ZjlOZUJiTGtKMGR1eXBtbjd4REZreWJvenB4ZWJPWkZB?oc=5>
+
+### 特朗普：相信普京已准备好达成协议 结束乌克兰战争
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 8world
+- 时间: 2026-07-15 23:45
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9sM2hvRFcyUVk1VUFYbFZ0TUFEN29LNHFkQXptZU9RN1hibFVQTUlwcl9jOTBKQUEzN1JOWnk3WXJoNFIwdEhJS0FqdlhWSFFRdWJhOERiWXFCTFJjM1I0cw?oc=5>
+
+### 特朗普倾向于扩大美军在伊朗的军事行动
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-07-15 23:18
+- 链接: <https://news.google.com/rss/articles/CBMingFBVV95cUxNaGFZcWFhazM3d2NlS3B0OFdmdHNsc3hlQ2RaNFh6d3Vrb1FWVFU2VTFxb0RKYm1Jelp6eFJvTmhCVEhsbmJPOXVOUHJjVnVkQTFueEExanl3MW1DOFZGczUyQVkxOHFTcHFlUndROVd3NzZ3dkpIMzVjRW1XSmpoWWpRVHVXNlByTC1sdnFwekJrb1JSdXFWZU44aGtudw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-15 23:53  (7 条)
+
+- **蔡徐坤** | 虞书欣 的理想型，每回新歌打call都准时且小作文！ <https://k.sina.com.cn/article_7879924009_m1d5ae192903301d89c.html>
+- **特朗普** | 特朗普总统将于周四晚间向全国发表重大讲话 <https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcUl3bmdXUmJMdk5oV2lOQ2hOdjAtVUhKTUZIN1hXREJJMXhFb3dlVmJPM2V0N2hTQkd4NWMxRjBuSUhINnJNZ1lWX3pWeUF5MEtKRktGS0s3bkVvaUpkSmNobUJfRjFtN0Fta0VjdzBHaVRuc0dOYm5TVjhqYi1RV0hsNmVGY3A3REJBYUVDNm5vLVpSa3RQcUUwQ005WV9CbXdDMnoybVVfWlhDaEtvd1JSVmJjM0dVdEJn0gG-AUFVX3lxTFBMOXB0cGlaZjRwNF92WUh1QzBiVXl4TUZzT1o1a1pNSWVNck14WWcwaUs4VGNMbjAxc2tUTkxEbmZWYTZJTURQdEZMcHFuU19OQ1Q3RmRoZE5WcHh3dWJNakFLc2xwV01wLTFnbnhSOVFQUWZDSGRMQkg5SHpqM3FxUUZhNDJrU3NxUFFBV20yV2N6Mkg4MUFMU2d4ZWJ4VXdWTkhZdm5hMndWNFhKN3pzU0ZVUTFwMkgxbTRjRXc?oc=5>
+- **特朗普** | 白宫战情室紧急开会！特朗普讨论对伊朗发动大规模进攻计划 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yOTJfaTJHLVhKUUlHaE1ib0JTclBLQlU5MmRjdTJlWkdmNktKcWdJd0RucHM2Tm9Mak92ZGJDS2JnTFFKWk13UjUwUEdOd2hER2V3?oc=5>
+- **Trump** | 特朗普：伊朗非常希望达成和解 决定权在美方手中 <https://news.google.com/rss/articles/CBMiX0FVX3lxTE1yUU9pRmRfVktESUQ2a2daNnM0NWE5c0tIU1FPN1VYaWpHOTFhSDM1RVVQSG9pWWpvSHBWSEdPNkJ1YnA4dHNfbmxwRmZtVWExSTZ1aXBMTU4zNENub0dR?oc=5>
+- **Trump** | 贝森特表示“特朗普美元”金币将投入生产 <https://news.google.com/rss/articles/CBMimgFBVV95cUxON2ZNMEU3WGxhd3M5UjhfVW1aV3BOUjNLbHZhcjJLNVNPOGFjc2NhMm5hN0dEVFJHdFdFT0FQVnNMZVMwWEQ2NUh0dEJlQ3hBZTZrcjVBdm8zYVJqRjc2NjJ4REREei04S0ZFRlZUV2NzRW9UdDJ6UnJ5ZjlOZUJiTGtKMGR1eXBtbjd4REZreWJvenB4ZWJPWkZB?oc=5>
+- **Trump** | 特朗普：相信普京已准备好达成协议 结束乌克兰战争 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9sM2hvRFcyUVk1VUFYbFZ0TUFEN29LNHFkQXptZU9RN1hibFVQTUlwcl9jOTBKQUEzN1JOWnk3WXJoNFIwdEhJS0FqdlhWSFFRdWJhOERiWXFCTFJjM1I0cw?oc=5>
+- **Trump** | 特朗普倾向于扩大美军在伊朗的军事行动 <https://news.google.com/rss/articles/CBMingFBVV95cUxNaGFZcWFhazM3d2NlS3B0OFdmdHNsc3hlQ2RaNFh6d3Vrb1FWVFU2VTFxb0RKYm1Jelp6eFJvTmhCVEhsbmJPOXVOUHJjVnVkQTFueEExanl3MW1DOFZGczUyQVkxOHFTcHFlUndROVd3NzZ3dkpIMzVjRW1XSmpoWWpRVHVXNlByTC1sdnFwekJrb1JSdXFWZU44aGtudw?oc=5>
 
 ### 2026-07-15 22:53  (4 条)
 
