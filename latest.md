@@ -1,96 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-15 14:43**
-- 本轮扫到 6925 条, 新增 **10** 条
+- 最近更新: **2026-07-15 16:15**
+- 本轮扫到 6927 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (10 条)
+## 本轮新发现 (2 条)
 
-### 环保天地 - 特朗普政府再遭环保组织起诉
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-07-15 13:23
-- 链接: <https://news.google.com/rss/articles/CBMixAJBVV95cUxPcGpxZjNMc3pwenVzY2ZqcnNMODZ2Vno5dUhNMkV1ZVBQZWNlbnJhV1hQZGl1QWQ0MEhiaUdDN1hfc3BnN2dTMExyNUh6N0VNMVJPV0szbnV3YURsd2g3WDkxTkd5bkR2YUYtT2dOR0FxZm4zcUhrSDhlWVhDWVZDMWl2c2ZHS3RlTmJEOHg0RGdyeWtFb0xZeTJRZU1kQk9wVWlKWTFza3k3bmpGNkFXZ3BmbmR6VHRPaFVwTFJCSkg0TWtzbmpmZ3RFTEFlTDRWN0VoYng2UlZpRG81YVJHa0tCZUNxN05YamZESk5NXzVCS205dElkbGRZYUhOa2t3V3JFUEJUSmlScTV0cXRHMlU2S2wxZWltTUxFcXg1d01wenRTSEFVa1l6SWF3dm5sdU1ZdDFybG5XS29sc1d1Z051a3o?oc=5>
-
-### 特朗普点名沙特、卡塔尔、阿联酋等国，称应给美国交保护费
+### 美军连续四天袭击伊朗，特朗普威胁升级-观察者网
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-07-15 13:38
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE1nNk12VmVhVzZ1S1BWZGU1cFMyV0tDNjVMWTk3TVlqVTBKZHlhd3FndG1BRmZadk5kQ3ZEaHRSRWZONWtJNHdBNUYtS3RUUlp0YmwwV1loT1dZdDRVU2NjQ2ZEam1hMTNvczBNNnVNTFhWdw?oc=5>
+- 场馆: 观察
+- 时间: 2026-07-15 00:46
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9qRm95SkF1RDBTVzZ2XzFuRFpOUkt1UU9ZeFRUQmM0YnR4QmlPTHlpSEt0UmNjMkwwUFY3SEZ1MUVwNmNFSUVLam9ycDRtUDJ1S0Y4dDRPTm9YdVJWRE1jMFNkOUlpZ3dva0E?oc=5>
 
-### 特朗普重启伊朗战事：美伊“战略韧性”较量下的海峡控制权博弈
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-07-14 23:27
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FTXN6TExISHNpVkN4LVhtVmxiX2ZvZEotX2RWTFlvQWlKSGxQZXp1MmNudjdUQjN4Wl9iQlJyVi1LbktXRW1pZHV1M0dRTThjdEJoU1dsQlpZMkk5QkdURA?oc=5>
-
-### 特朗普为何频频感谢中俄？-观察者网
+### 特朗普：俄乌冲突会在其任期内结束，普京已准备好尽快达成协议
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: guancha.cn
-- 时间: 2026-07-15 08:00
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBIck5MNjlTOG9YZXpBX3EzYXNNUGxKaE9BbUVVRW10Y2N0ajVFeS1YM0U4ZmpVM1B4X2Z4SzI5TzU5d2dfNVc1czZBSDhsMEJuVkRHWFl1VTl0QmZSMmpmMUphWVlEWW5FalE?oc=5>
-
-### 特朗普称俄罗斯已准备好达成协议以结束俄乌冲突
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-07-15 12:55
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFA5UklwTWtuTDdMWEFmX0hJajlXN25uQ21xcjY2dk5LRUZOTEFQaHJ6ZXdNTnpfa2NnNGpPVWcyeHlUNGVoU25kX2g3d0xzQk02d2FUMkJsOGxtM0NQVm0yU21JbnE?oc=5>
-
-### 特朗普称俄罗斯已准备好达成协议以结束俄乌冲突
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-07-15 13:50
-- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTE56clJXWjE3eUtTcGlLYnczbUpPajdKUzBRMkt2b1d0MTlIWm41Njd3YklndVZMS1Jndk83NWNCenBYWnJMRGlHUy10NmJhWTJJNFE?oc=5>
-
-### 特朗普：普京已准备好尽快达成协议，以结束俄乌冲突！乌克兰继续打击俄油气运输，9天袭击超110艘俄船只
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 每日经济新闻
-- 时间: 2026-07-15 14:33
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RNFdmekpMTkgwNkFMRnpjTmhnTFdYWmtQd2dMU2YtOHFacTVLS21OVm41Rl94dDZxQzNHNzE0bVh6RTd3dDBBZkZZdXRtV01yWlZRMzZGTGJ5UGs5U0xBeHIxZVk2dw?oc=5>
-
-### 特朗普政府释重大信号！美媒独家：美国贸易代表格里尔敦促欧洲放宽科技监管
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 金融界
-- 时间: 2026-07-15 06:04
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE1iZHVhMk03aXdxa1MzUWVtRVdtWTlrWVkxbGwxUXdybW5XQXpNcVdLTHJpaW9QdUVGNUN3UFJ0czhzdk00LXNySmdNX3ZkZ2JidlhidzRCdy0tV2hqaHJhYUdvLWpxMlJSS3VEM2x4SGxJQktl?oc=5>
-
-### US President Trump: Strait of Hormuz open to all shipping except Iran
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: TMGM trading
-- 时间: 2026-07-14 19:13
-- 链接: <https://news.google.com/rss/articles/CBMi1gFBVV95cUxPaGhFVWN0VWpGV19zR2xjcnowRGg4WkhYMTdaSERZZ3VSenZZTDRQSEswRHVvSWlKanczaWcwQW9WelFZN2VCM0w3NGlxT05EUVRnZVFNUU5VYnA1aVpTejlKRkZYbmtvNmZFQmlCX2ZscG9CdC03ejRjQUVLbDNtbXRfNGVWWDFUWi0yUzktbXhWejRCbFZmS3cxZWNNQTdrX29hN056VWZjSERBSVotdGpGNTA4NDJqcmZvZE5WcFhwVGNVMjFZUVIzaElEbkMwZ1hoYTB3?oc=5>
-
-### 第436天：降息 +特朗普2.0 第540天
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-07-15 14:30
-- 链接: <https://news.google.com/rss/articles/CBMimgFBVV95cUxNZG9KMUVIR2gyOF9ZWWFUZ2RPTTBFbWRkMTFHUjZYT19Kb1JfVV9YTlBpYlNEVzhpY1BWNlcxbEVmR2pwUlI0ajJ3TTV4ZFZwNVI4Z3JRWmlYZ0RLQjdCWVNNd0VZeVFXU3M3SkRSSnFiRHhlZndieWEyVEFRM3J4VnZIYk50aUU5NVZGVWk2RmtBMGctblp6b3R3?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-07-15 13:25
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE9tdlZYNWF5V1draUNzSFBzUVZfTlI5SXdST2xEdWxUYXVHUDN3R25ubWktZkJ0THVHaV9rdkVaVF9wWEUzQVhPTmgtMzdIbXJBZFdtNnl1LUFMSjJ0Ul9HMkZUMERGakdtbTdyYlNKTHRuVUc5cUE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-15 16:15  (2 条)
+
+- **特朗普** | 美军连续四天袭击伊朗，特朗普威胁升级-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE9qRm95SkF1RDBTVzZ2XzFuRFpOUkt1UU9ZeFRUQmM0YnR4QmlPTHlpSEt0UmNjMkwwUFY3SEZ1MUVwNmNFSUVLam9ycDRtUDJ1S0Y4dDRPTm9YdVJWRE1jMFNkOUlpZ3dva0E?oc=5>
+- **特朗普** | 特朗普：俄乌冲突会在其任期内结束，普京已准备好尽快达成协议 <https://news.google.com/rss/articles/CBMidkFVX3lxTE9tdlZYNWF5V1draUNzSFBzUVZfTlI5SXdST2xEdWxUYXVHUDN3R25ubWktZkJ0THVHaV9rdkVaVF9wWEUzQVhPTmgtMzdIbXJBZFdtNnl1LUFMSjJ0Ul9HMkZUMERGakdtbTdyYlNKTHRuVUc5cUE?oc=5>
 
 ### 2026-07-15 14:43  (10 条)
 
