@@ -1,48 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-15 21:53**
-- 本轮扫到 6949 条, 新增 **4** 条
+- 最近更新: **2026-07-15 22:53**
+- 本轮扫到 6953 条, 新增 **4** 条
 
 ---
 
 ## 本轮新发现 (4 条)
 
-### 性侵案败诉，特朗普赔付女作家逾560万美元
+### 特朗普在国防峰会上点名通用动力 称美国需加快造潜艇
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-07-15 08:13
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE51TkZIRFhCQzlIY09TeC1vejBZNnBlNkE4VTVQQWc5SWszTkRkSjh0OFZpMlZMRUhTN083S1JBQk4tbXl1VUc2QXFkV3lPVnB6NFF6Qjh2VUtmQXBQQ08zdA?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-07-15 22:27
+- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVl9NYnlCNlpOSXV6VVUxY2pabnpTcDBFeDJmSVExWm96TEhDNWh6czhmeUZzRGJaYzVnV1M0eDA3MHRHa1hNYUhoYVUycFd3YjE2TTl2ZE1Zd3l1bmY1QVBfd0FkbzdLZ0lpYTc1V01fRm0ycG9SSEI3Umd1R2YwVF9DNjEwcVpzeGFZUnBkaklmb24zMXVzTzNycnpUN3VZTnlsUUJEbVg2Zw?oc=5>
 
-### 不怕被骂？美国特朗普自比希特勒斯大林，还嫌弃他们没飞机
+### 特朗普抨击纽约州AI数据中心暂停令，称州政府应“立即”调整政策
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 手机网易网
-- 时间: 2026-07-15 17:59
-- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTFBMYnhNVVlmeDR2M0RKV0FDa0FTQk11UkNjenVrR3RhUUVkeXNZTmJEOVZkYzRfZl9kTmJ0RjFOVzcxaW9vQlYyWWluTmFSekdiS2s0ejRCZnhLM1BJYUtTYnJB?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-07-15 22:33
+- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE5rSEFpVmpJVFZSTmZFd29IX3ZWeng2djZhMGU0cm5MUGgtc3pCZ3F0OXJNNVluYVh1V0dBSHp6YWpGQlNwdXI3WVBGclZmemVUaTVqQlRqamVEVEszTHgwQkNoR3NRWUVveFlrS3dfRWJYZkItRm1VZkRn?oc=5>
+
+### 特朗普称继续袭击伊朗直至他说够了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-15 22:46
+- 链接: <https://news.google.com/rss/articles/CBMirAJBVV95cUxNSzBDSzdqU1ZKSzJZMHhKdzRxUm13Vmo4VEZqQWhoUm9PN2Z2Y3JTcDl2OGNXd1NrMTFCMm5Ld3FoaFlGSkhQMmlJbzYtWERmUHk0a2VVd0RpaVI0N05NQlk1cjRDTHlrNU1DWDFoaFdsODMxTFd5RmN4TThzNFRfeUUxWFFVbkJsa1NLOGhha05EZnAwZDZlR3VjQm5BM1NnQi01eDRMTUJvVnRQa3ZoUEQwN3Y0ZlNkb3gzdEZYYWdLR0ZfOVVGUHprdU9Xekhhcmk4R1hZSExIMktTRzh3R002MzVobVBUamZ4YlBLZ0lXRUNwaEhkOWVoWTBJZnhsb1VCQ3JHdUd4cjl6VWNZZkNlcDFnejhuNjdqOW9xclh2dzF2VUJtNlVpMzI?oc=5>
 
 ### 特朗普称俄罗斯已准备好达成协议以结束俄乌冲突
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 央广网
-- 时间: 2026-07-15 14:18
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1WcVdCSlk4X0o2RERvNURZTzNVdDEtRlRDaHFQbUMzSlFhTXg1VnF5RzM4cVp1VF9Zak8wZWZpYV9MeS05WkhtSHdmVUlwOVRTREd2RjRYbjd5ZHduNmJoM3lLdXlBX2dN?oc=5>
-
-### 川普2025年吸金22亿美元：65%来自加密货币，近百万投资者亏损38亿美元
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 辟谣吧
-- 时间: 2026-07-15 21:34
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE81clQzTFQ2MGl1NGZzZmhxYkJTTENjSU90UUJsczdvRG9UbGw3VjZHLUY0VWxKajhMUzVLd0xsNmNEeDFfYjdpTHZJS20yM19vdVdFVFJSckN2bTU3RE1WbVFSaWtwcndVR21HQXgxSElUaWQwekw3Qw?oc=5>
+- 场馆: thepaper.cn
+- 时间: 2026-07-15 13:04
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ReFc0dGpzcEdON2ZsRGstVzVOOE04QUF5ODZVUHNUYVUxUThXNVBadmhGa2xOd2lvOWt6Z0tVN2M5aUFMbm83X3A5S3lOdWVtVUt4UFdvSlIybzdmWVYwYQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-15 22:53  (4 条)
+
+- **特朗普** | 特朗普在国防峰会上点名通用动力 称美国需加快造潜艇 <https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVl9NYnlCNlpOSXV6VVUxY2pabnpTcDBFeDJmSVExWm96TEhDNWh6czhmeUZzRGJaYzVnV1M0eDA3MHRHa1hNYUhoYVUycFd3YjE2TTl2ZE1Zd3l1bmY1QVBfd0FkbzdLZ0lpYTc1V01fRm0ycG9SSEI3Umd1R2YwVF9DNjEwcVpzeGFZUnBkaklmb24zMXVzTzNycnpUN3VZTnlsUUJEbVg2Zw?oc=5>
+- **特朗普** | 特朗普抨击纽约州AI数据中心暂停令，称州政府应“立即”调整政策 <https://news.google.com/rss/articles/CBMiekFVX3lxTE5rSEFpVmpJVFZSTmZFd29IX3ZWeng2djZhMGU0cm5MUGgtc3pCZ3F0OXJNNVluYVh1V0dBSHp6YWpGQlNwdXI3WVBGclZmemVUaTVqQlRqamVEVEszTHgwQkNoR3NRWUVveFlrS3dfRWJYZkItRm1VZkRn?oc=5>
+- **特朗普** | 特朗普称继续袭击伊朗直至他说够了 <https://news.google.com/rss/articles/CBMirAJBVV95cUxNSzBDSzdqU1ZKSzJZMHhKdzRxUm13Vmo4VEZqQWhoUm9PN2Z2Y3JTcDl2OGNXd1NrMTFCMm5Ld3FoaFlGSkhQMmlJbzYtWERmUHk0a2VVd0RpaVI0N05NQlk1cjRDTHlrNU1DWDFoaFdsODMxTFd5RmN4TThzNFRfeUUxWFFVbkJsa1NLOGhha05EZnAwZDZlR3VjQm5BM1NnQi01eDRMTUJvVnRQa3ZoUEQwN3Y0ZlNkb3gzdEZYYWdLR0ZfOVVGUHprdU9Xekhhcmk4R1hZSExIMktTRzh3R002MzVobVBUamZ4YlBLZ0lXRUNwaEhkOWVoWTBJZnhsb1VCQ3JHdUd4cjl6VWNZZkNlcDFnejhuNjdqOW9xclh2dzF2VUJtNlVpMzI?oc=5>
+- **特朗普** | 特朗普称俄罗斯已准备好达成协议以结束俄乌冲突 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ReFc0dGpzcEdON2ZsRGstVzVOOE04QUF5ODZVUHNUYVUxUThXNVBadmhGa2xOd2lvOWt6Z0tVN2M5aUFMbm83X3A5S3lOdWVtVUt4UFdvSlIybzdmWVYwYQ?oc=5>
 
 ### 2026-07-15 21:53  (4 条)
 
