@@ -1,93 +1,11 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-15 09:27**
-- 本轮扫到 6903 条, 新增 **16** 条
+- 最近更新: **2026-07-15 11:08**
+- 本轮扫到 6907 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (16 条)
-
-### 青岛启动城市内涝风险预警：今起强降雨叠加，这些路段慎行 | 在青岛连唱三天！2026周杰伦世界巡回演唱会定档
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5953189932_162d6782c06704nls2.html>
-
-### 周杰伦10年重返广州开唱周杰伦2026演唱会定档广州
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1887790981_m7085678503301ajxg.html>
-
-### 周杰伦青岛演唱会10月3日开唱周杰伦青岛演唱会定档国庆假期
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1789681642_m6aac5fea033085im2.html>
-
-### 周杰伦青岛演唱会正式定档
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1899227237_m7133e865033085i64.html>
-
-### 周杰伦青岛演唱会定档2026年10月连唱三天
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2292899701_88aadf7504001ryfy.html>
-
-### 周杰伦青岛演唱会定档，2026年国庆连唱三天
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://video.sina.com.cn/p/finance/2026-07-15/detail-inihwmii7999988.d.html>
-
-### 在青连唱三天！又一演唱会定档
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://finance.sina.com.cn/wm/2026-07-15/doc-inihwrra4763095.shtml>
-
-### 特朗普发AI图 把加拿大委内瑞拉标为美国领土？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-07-15 09:25
-- 链接: <https://news.google.com/rss/articles/CBMikAFBVV95cUxQcm50dW1BZnV3UlFUTUI0MWd1NHIwY1dSYzhlU0o5dVV2bGFaWGU3Y2VBYW9Sb19VcE0yMThEYmRXVzVBaXVsVlotVDRnVnJfSk1NYU5MZlY1SDVuYkJ4TGd3TjNpbzhKRG5uME5ISGhyRUZkaGpWUFBKX0RsampuSURaNV93cC03ZXltcTRHb3Y?oc=5>
-
-### 性侵案败诉 特朗普赔付女作家逾560万美元
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-07-15 06:43
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBtdllaWWFhQ1lEQzhUYk1XNFNTMlBuX2JUaGx1TDdTMk1MNWZsNEJwYW5GNDdFR1hQUGZyQUFjV1ZxZGN3dzA3RkxicnJiVDBWeGZHa05tdWxPY1F2STlKbVNsdk5WUE9EVlNZMk9XQ2FobFZ5ZTk4a2V1YlFNdjQ?oc=5>
-
-### 特朗普，支付巨额赔偿！82岁女作家收到超560万美元性侵诽谤赔偿金，发帖庆祝：雄鹰已着陆！还有8330万美元未执行
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 每日经济新闻
-- 时间: 2026-07-15 06:13
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5GaFFlRHQwQU1QMDJTaXYtczVJYjBMQjJ4VDdqMHJlZ2tWMzFmZ3luZDRRNUEtazNiUkJzQUlDcDdYMFJxUkxseFp2SW5NOGZOaHZoeTVzU3dEMm5EWVI1TF9qZFRTZw?oc=5>
-
-### 特朗普：对伊朗的打击将继续
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-15 08:01
-- 链接: <https://news.google.com/rss/articles/CBMiiAJBVV95cUxNUzlVRG5zODJmS1V2TzY0bzROUVdCamF6WDhBSzJGSHdhRnJ4SjQzNVpNSlVIdjVfeTUtZ1Z2U0M0ejN3eDJPUDlOT0ZtOW5BYkJaNk5nTXFEancteWEzSXpMbHpFYlp1ZmZFRWdSMDNLOTJRWnE4dXc5VkZGbm00TkstMXFQdlU1MFZKZ3hycTUzbHd4aFFxOG5ONVplRjhUR0xMb0JtRTRCSjktbnhCRjlsTnhHOGNWdWRQUE9DMUQzbDNsalZnZVBhUW5KWi16ajJCb1NqZDZsLUlpeGo5a0xmZ0hvWU9lY1Rra0lRdmV5WTR6UmtSRE9kWnoyWEpVREhBNXpSRk0?oc=5>
-
-### 特朗普：美石油公司进入伊拉克规模“前所未有”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-07-15 07:39
-- 链接: <https://news.google.com/rss/articles/CBMihgFBVV95cUxQZDNwbEp6R3Q4M3dBRkhQdzdLUHJCZEJqOFVWVkpQWXBDN1hpVjhvUzdGaG8yaExLLWpwT1RpaGxsWEhwOVpjM2Fvdnd0QnYzWGVHZTdGenlMV2RVYjFMclV6MldYU2ZVQ1B1WGlrYWl0ZVkwaHd6TlBaWlM3c3VJY1VJaUZVUQ?oc=5>
+## 本轮新发现 (4 条)
 
 ### 特朗普宣称将与伊拉克达成“庞大”的石油交易
 
@@ -95,36 +13,43 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-07-14 17:25
-- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeU5ERno2SXhkWDJoVzlCNXR4MVQ3MmlRXy00REo0N2hicC1VYjI3eHFwSW5qNW9FbkxKMUJ0cjVBUFRsOUViMUs2a3ZsSnFzTnNUTVdKRjlaNUptZnRFVXJLUm9rbDZBS0pSR2Jwdkw4dDFYdkk1aXFGeHlVSlhweWlMRm9KWDA3?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNb0ZoUlVRM3VnUXlMaDBYOEpaN1BUaThUam1vNHVNcnEwV08xdW41SlFSRkZjRUJzS0NEbEM1RjBQZjFRak9zMXBmYmZSbklZVGRHNzkxLUJZSWVhRnFybWxsQ1V1WjNHT0pGUVFMamVLSUg0UklfSWowTFhySkFhM0xFbzY3WDl2TGRjckhFTkdvLVZGRFd5cmxEeVRqVC10a3BkbERzV3htSERzOWhHWWMwYUpLcnM5ZmRFMzZWclpsdXhFSFpXNTRMck9td01Z?oc=5>
 
-### 当战争变成账本和生意，特朗普每打一张牌美伊局势就更难收拾
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-07-15 08:51
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwUWJfd1dLTE1ieHRScHdaaHpUVjRkaFhVQm55bzhodm9sVUxHMFlWN2pHWEU4Ri0tRG4yUlJXbEhUc2drWTJEcU1nSHo2Q2JfVGF0YjUzNmFjbHdPN2c?oc=5>
-
-### 特朗普已正式通知国会重启伊朗战事
+### 特朗普火速撤回20%“过路费”内情披露！沙特、阿联酋等海湾国家领导人“疯狂”致电特朗普：别收了，我们将大举投资美国
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-07-14 01:08
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9MSEt0aW1IREZ5SjVUQVpmR255dU1ydXZIRGRNU0ZNcGN0b1R6bnBLcGpqd0FIenc2b0JXRUQzS01WYkpJUmVnVjFsVkxLU0lRcDQ1ZDd4ZXpzSFFDNXJSVlp2bTdUUQ?oc=5>
+- 场馆: 每日经济新闻
+- 时间: 2026-07-15 10:45
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1aNll1STRuZUdDb3k1MHFOSUk1WVM2eEI3ZmNnOU9sWlViYjY3cm5vUFBzSEpOb0FLTDRkWW5UNXRCeGJWUGhuUG5nVUtqUEliMTF4WlNlSGFtNk94Vl9tZVdHanhWdw?oc=5>
 
-### Trump Administration Increasingly Pessimistic of Clinching Iran Nuclear Deal
+### 美伊战争或升级，特朗普召集会议讨论大规模进攻
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-07-11 02:40
-- 链接: <https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRW40cUpGSFcyd3RPellFRm4tcTJoS09XRV81R1U3eTRjQ0Rnd0t4c3RwT2oyeEVIZ000UGZDRzhoLWY3Z0taQS1vOEhsSllUOW9YRUI4amdNbW1aZ2FxLXVCbVI5ZUJndXlUaFBfTzh4S3RDR2dPUklnNTZ3dno1Y3p1YXVQeE0yaXBETmRESEpkVmstQXZjeVAteFo3OFk5OUdNaVd6QWxCZmx1RVRzSzMzRGxMUzNYWTZ3MjlJSnM?oc=5>
+- 场馆: 搜狐网
+- 时间: 2026-07-15 05:13
+- 链接: <https://news.google.com/rss/articles/CBMikgFBVV95cUxOT1JfdVJzcHNFbXJnQlJsMVc3RkxpbHh0T2pjS084SnJmXzgwMTFiU0VJbjJXcFl3aXEyLTkyWHhYOGZmTUZRVllWMXBhRGFiMXNTYzN5WHN5SEYwLUNsWXc1eEZIY011YTktVkxvTVVOVnpqb196WXUxaVdmWk5RRHdLYzF6ZUp6b1A4ZC04V2dpQQ?oc=5>
+
+### 特朗普：对伊朗的打击将继续
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 东方财富
+- 时间: 2026-07-15 00:14
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zc00zYlpfaWpUTmNpN05FVEJKQ2JZSmpNV2h0ZUdhRllGbFQtM1gzUnlfcnVObGFPUVExY0lZa2U4MWNfV2d6a24xWTVyWW80MXZHSVF2UjNuLXZsZlhfcw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-15 11:08  (4 条)
+
+- **特朗普** | 特朗普宣称将与伊拉克达成“庞大”的石油交易 <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNb0ZoUlVRM3VnUXlMaDBYOEpaN1BUaThUam1vNHVNcnEwV08xdW41SlFSRkZjRUJzS0NEbEM1RjBQZjFRak9zMXBmYmZSbklZVGRHNzkxLUJZSWVhRnFybWxsQ1V1WjNHT0pGUVFMamVLSUg0UklfSWowTFhySkFhM0xFbzY3WDl2TGRjckhFTkdvLVZGRFd5cmxEeVRqVC10a3BkbERzV3htSERzOWhHWWMwYUpLcnM5ZmRFMzZWclpsdXhFSFpXNTRMck9td01Z?oc=5>
+- **特朗普** | 特朗普火速撤回20%“过路费”内情披露！沙特、阿联酋等海湾国家领导人“疯狂”致电特朗普：别收了，我们将大举投资美国 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1aNll1STRuZUdDb3k1MHFOSUk1WVM2eEI3ZmNnOU9sWlViYjY3cm5vUFBzSEpOb0FLTDRkWW5UNXRCeGJWUGhuUG5nVUtqUEliMTF4WlNlSGFtNk94Vl9tZVdHanhWdw?oc=5>
+- **特朗普** | 美伊战争或升级，特朗普召集会议讨论大规模进攻 <https://news.google.com/rss/articles/CBMikgFBVV95cUxOT1JfdVJzcHNFbXJnQlJsMVc3RkxpbHh0T2pjS084SnJmXzgwMTFiU0VJbjJXcFl3aXEyLTkyWHhYOGZmTUZRVllWMXBhRGFiMXNTYzN5WHN5SEYwLUNsWXc1eEZIY011YTktVkxvTVVOVnpqb196WXUxaVdmWk5RRHdLYzF6ZUp6b1A4ZC04V2dpQQ?oc=5>
+- **特朗普** | 特朗普：对伊朗的打击将继续 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zc00zYlpfaWpUTmNpN05FVEJKQ2JZSmpNV2h0ZUdhRllGbFQtM1gzUnlfcnVObGFPUVExY0lZa2U4MWNfV2d6a24xWTVyWW80MXZHSVF2UjNuLXZsZlhfcw?oc=5>
 
 ### 2026-07-15 09:27  (16 条)
 
