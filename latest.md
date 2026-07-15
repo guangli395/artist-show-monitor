@@ -1,54 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-15 20:30**
-- 本轮扫到 6945 条, 新增 **5** 条
+- 最近更新: **2026-07-15 21:53**
+- 本轮扫到 6949 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (4 条)
 
-### 王俊凯新专辑《WJK》为何致敬周杰伦首张专辑命名？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068013mba.html>
-
-### 美国对伊朗发动更多空袭 特朗普重申德黑兰寻求会谈
+### 性侵案败诉，特朗普赔付女作家逾560万美元
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-15 20:29
-- 链接: <https://news.google.com/rss/articles/CBMimgJBVV95cUxQQXJNTkpCcGtBRzNSOWp3UE5aQnpzbkZkRG5KY3F6Zk82M1RGRVNHRWlQUjh0MUF0akh2ZG9XekRpRVJNd0xrd2lWWDRvNHJicHlTWGxBSEZLQlBHelQyV290Z256YjNFQXhvS3BUQlRaZldhT1pYOEJvZ2ZSQ0pFY2I1Nk9DdlBfNWM3enJwNDNnbjBNWmd2TDMyVVJOdnVKUEUwaXVjYzZESGNnd2xwR1ZieTQzSnYzbEstaE9HUUFXY3hEa1lxVGZmZGZSRC1mTXZSeHJuck15bnRoMHhGWUJJSnlkR1ZnWFd6LTNSWHVpNkxJcTlEN1YyTmhtaWQ4ZEZZdm5YWm5vTG9aMTlvT24zaDdkT2xzMVE?oc=5>
+- 场馆: thepaper.cn
+- 时间: 2026-07-15 08:13
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE51TkZIRFhCQzlIY09TeC1vejBZNnBlNkE4VTVQQWc5SWszTkRkSjh0OFZpMlZMRUhTN083S1JBQk4tbXl1VUc2QXFkV3lPVnB6NFF6Qjh2VUtmQXBQQ08zdA?oc=5>
 
-### 性侵案败诉 特朗普赔付女作家逾560万美元
+### 不怕被骂？美国特朗普自比希特勒斯大林，还嫌弃他们没飞机
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-07-15 06:43
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9VNUFlbU1VMDFDZDRlbE1ZWEFjMktmcEh0aS04OF9qUi1NdVZ0b1lRUnE2QUx2bURJanBMUkJuLVM3OW1ra2FTMm1BYmhZSTFxM05zbzJ0UDJ6LVhuZzhIejlBNzNUM2ttRXpPbjZqM3NQSHNKZVVrdVlINXVOazg?oc=5>
+- 场馆: 手机网易网
+- 时间: 2026-07-15 17:59
+- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTFBMYnhNVVlmeDR2M0RKV0FDa0FTQk11UkNjenVrR3RhUUVkeXNZTmJEOVZkYzRfZl9kTmJ0RjFOVzcxaW9vQlYyWWluTmFSekdiS2s0ejRCZnhLM1BJYUtTYnJB?oc=5>
 
 ### 特朗普称俄罗斯已准备好达成协议以结束俄乌冲突
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-07-15 13:32
-- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxONEM1eHdXMUpCZkFTZWZHam1mRF93Y2ZkNWgzNGhkMmk2b3lvQ0lzTDhpaDdLR1ZfbUFyNUhSZXFmS05rWHBBMXVpbkRlSms0TFpKenExRzczMG83Q2tobDA3TWRfdldFd3FCY2ViaVdjU1lWbGR0Yng0R0FLVUVtOE9makFJUFU1?oc=5>
+- 场馆: 央广网
+- 时间: 2026-07-15 14:18
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1WcVdCSlk4X0o2RERvNURZTzNVdDEtRlRDaHFQbUMzSlFhTXg1VnF5RzM4cVp1VF9Zak8wZWZpYV9MeS05WkhtSHdmVUlwOVRTREd2RjRYbjd5ZHduNmJoM3lLdXlBX2dN?oc=5>
 
-### 正式铸造，特朗普1美元金币来了，长这样
+### 川普2025年吸金22亿美元：65%来自加密货币，近百万投资者亏损38亿美元
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-15 18:55
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5kYlpwX2kyYUhucE04WnBWcTlhSi0zZWhzeHRhYWU0SkZoeEVaaVlJM3FSbHRXNXA2NDJIbzM2Tkg5X1k4MmZhYmhKek4?oc=5>
+- 场馆: 辟谣吧
+- 时间: 2026-07-15 21:34
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE81clQzTFQ2MGl1NGZzZmhxYkJTTENjSU90UUJsczdvRG9UbGw3VjZHLUY0VWxKajhMUzVLd0xsNmNEeDFfYjdpTHZJS20yM19vdVdFVFJSckN2bTU3RE1WbVFSaWtwcndVR21HQXgxSElUaWQwekw3Qw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-15 21:53  (4 条)
+
+- **特朗普** | 性侵案败诉，特朗普赔付女作家逾560万美元 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE51TkZIRFhCQzlIY09TeC1vejBZNnBlNkE4VTVQQWc5SWszTkRkSjh0OFZpMlZMRUhTN083S1JBQk4tbXl1VUc2QXFkV3lPVnB6NFF6Qjh2VUtmQXBQQ08zdA?oc=5>
+- **特朗普** | 不怕被骂？美国特朗普自比希特勒斯大林，还嫌弃他们没飞机 <https://news.google.com/rss/articles/CBMiYkFVX3lxTFBMYnhNVVlmeDR2M0RKV0FDa0FTQk11UkNjenVrR3RhUUVkeXNZTmJEOVZkYzRfZl9kTmJ0RjFOVzcxaW9vQlYyWWluTmFSekdiS2s0ejRCZnhLM1BJYUtTYnJB?oc=5>
+- **特朗普** | 特朗普称俄罗斯已准备好达成协议以结束俄乌冲突 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1WcVdCSlk4X0o2RERvNURZTzNVdDEtRlRDaHFQbUMzSlFhTXg1VnF5RzM4cVp1VF9Zak8wZWZpYV9MeS05WkhtSHdmVUlwOVRTREd2RjRYbjd5ZHduNmJoM3lLdXlBX2dN?oc=5>
+- **Trump** | 川普2025年吸金22亿美元：65%来自加密货币，近百万投资者亏损38亿美元 <https://news.google.com/rss/articles/CBMieEFVX3lxTE81clQzTFQ2MGl1NGZzZmhxYkJTTENjSU90UUJsczdvRG9UbGw3VjZHLUY0VWxKajhMUzVLd0xsNmNEeDFfYjdpTHZJS20yM19vdVdFVFJSckN2bTU3RE1WbVFSaWtwcndVR21HQXgxSElUaWQwekw3Qw?oc=5>
 
 ### 2026-07-15 20:30  (5 条)
 
