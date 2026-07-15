@@ -1,64 +1,76 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-15 01:50**
-- 本轮扫到 6866 条, 新增 **6** 条
+- 最近更新: **2026-07-15 04:46**
+- 本轮扫到 6873 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (7 条)
 
-### 特朗普改口，“保护费不收了，但…”-观察者网
+### 王一博工作室是否会发布更多夏日花絮？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-07-14 23:04
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5OblFSVkpBd1RyMEhBZlcyWmNlZTBYTlRBc3RUNklMcjRSNjdZWjhYTnRGZmF3YnhKUVcwUlYxdzJYQ0ticUlQcEg5amQtaDQ2MllBZE5fZmNrUGc1NEw0U2lXVnpfQlByWVE?oc=5>
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879849031_1d5acf44706801mzsa.html>
 
-### 特朗普称美国应获补偿，点名沙特等五国受其保护
+### 蔡徐坤 「THE DEADMAN」 澳门演唱会这次真的来啦！
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-07-15 00:19
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFBfVlRjQzdMZGZLcHctZ00tLUh0ZWRpV05ycWNxdXBPdHRYWHlfVjQwcFRjRzl2ZFVzdFpuNTIwOWlJZFp1YTBTZTNvOW5aMm11eDZnS1JJZkFERXczZGlNLUF0MWsycjN2MVZLTm8tQjdzbWs?oc=5>
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_6579479315_m1882ae31303301cfd0.html>
 
-### 特朗普突传重磅！美媒独家：特朗普要求内塔尼亚胡从叙利亚、黎巴嫩撤军
+### 蔡徐坤澳门演唱会官宣，连开两天
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 金融界
-- 时间: 2026-07-15 01:30
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE9YdlV4eE9yanpQZVFvY2RHVU1ualVnWXdVbzdxWE9zRWhpOHJkNDJXcG1LSUtJaDJORmprSXJHVEgzM0pyOXVrbVJ5UjhhX0tyTGNQdnRaYVpjMXZVMUZFMUVUUGN5QUtzYnFDMGRDOXhXa0da?oc=5>
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_2747054345_ma3bcb90903301i6m4.html>
 
-### 伊拉克新总理访问白宫，特朗普总统谈及美国公司的石油交易
+### 特朗普：美石油公司进入伊拉克规模“前所未有”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-07-14 21:07
-- 链接: <https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMXhfaF90bVAwYmtVYVRwSnIzeTEyVW82M1hYaUdqZGhnZkJvc0FVQm1xVHJFZXowREhsa21qcWpjbW5aRzU0aVlFRmNBRFlPWldFekM2R1FKOUhmSl9objZMWmdBNVhlX1RicFUyVmk1SGxFS281V1dDSUZPbHVPZVB4Q2xtZUlxRVJMVW5nLUhQdmFIUkNsNWxFODR3SUQ1TDZtN3FmVnRfWUJRREwwbERVZ0laTk9rdlMtTkxxS0g2RGIxcEMxRm96S1I1YnZYMWJGZNIB1AFBVV95cUxNMXhfaF90bVAwYmtVYVRwSnIzeTEyVW82M1hYaUdqZGhnZkJvc0FVQm1xVHJFZXowREhsa21qcWpjbW5aRzU0aVlFRmNBRFlPWldFekM2R1FKOUhmSl9objZMWmdBNVhlX1RicFUyVmk1SGxFS281V1dDSUZPbHVPZVB4Q2xtZUlxRVJMVW5nLUhQdmFIUkNsNWxFODR3SUQ1TDZtN3FmVnRfWUJRREwwbERVZ0laTk9rdlMtTkxxS0g2RGIxcEMxRm96S1I1YnZYMWJGZA?oc=5>
+- 场馆: 新华网
+- 时间: 2026-07-15 02:37
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1RaUZtTElRQVAxc3o2T0k2Sm5RUks5OFBJVWIzUl9iczRXX3ppVWdPcG1TQ0VPRHM5V3FqV3NfLW04SzJNNS14S3lvOFN3ZG94RmtmRDY3UE9aX2VnOG5yZDFPZEwyRkxTRVBhYUN6MXF3aTNmeElWUnRxMUJmb2M?oc=5>
 
-### Trump：将在16日全国讲话中讨论“选举与投票设备”
+### 特朗普宣称将与伊拉克达成“庞大”的石油交易
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 아시아경제
-- 时间: 2026-07-14 20:02
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1PR3ljR2t4T0NfSzBmVFo5Qmk1emMwNm9IXzFFQnEzS3dUNTZTbmhiT1piejhJa1gyY1R2d0o3V1JXTTRfSXpmWDIxSTlZc2gzWnNDc2pvN1ZkTFZnenpnVTBFYlg?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-07-14 17:25
+- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRFllNDQ5Z2FyQ2g4WXRGWVJYUlFCVHZUZXZYUTBMdEtycWNGMUhlNWdfUjN2V0ZELUtPU1preTJENFpRSHBZN0ZpeHd1SGh1TmJMQ0ZWbzFxYTNwQTVFb0VoNHhtNExWeGdDWE1vUEE1NE1nWnBtWFRpeHhRY3duRXhya0RHLXQ0S1RQU0x0SkJiSG5BeThiX21sUnF3WWFVM3JlM281eGFmc2N5VFFrVjVpZ0ZlMGRwdElRRTBaYXlZMmFEN3BUdnZ1LTZqTlgyNnc?oc=5>
 
-### 卢比奥扬言“拆解”国际刑事法院 美拟施压各国退出ICC
+### 美伊战火没完没了？特朗普：要打到我喊停，下周或袭击桥梁发电厂！
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-07-14 23:54
-- 链接: <https://news.google.com/rss/articles/CBMi4wJBVV95cUxNVUF6dUt0QUpqb1pob3NiMWRzbGhrcVhEQ2h0MF9qQUo4TDRSTHhDb3pXbHdWdDdROWEwVVJYOWJSNHZlT0xFQnZKTGFHTnMwWjlOTi16Z0poekQ5RDBLSDZUam1OMThIQTdzOGtTdWc2M3FONURmSGk5dHVnNDNHNnlsTVgwSFpLcUtMYXlDQjdic2ZLR3Y4S09mQ2RwRzhHbzd6T05VLWg3UWI4MnVrbzV3WFMwUnoxM0FzbkViVUdxU19mZDgxT2pmQWdjdEJpdzluSWZrQm5KMGJFdkNFN1g1WkpzV3NwOERWRXFpQWkyRG5Wa2dxSDBUcnpTM3NvTDZ2bndXM2pYX3ZNdWtNcVZzOGZzUHUwT3hQQ1hWN3RPWVg5RnVNS25QNG9iU2NkVWk0NGVFaVBRVkdlcklTRzIxZm1nMFZFaUNSUVl3WGJ4bktnZU9TblV2XzdhcjdQUEtF?oc=5>
+- 场馆: 财联社
+- 时间: 2026-07-14 22:57
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE5XRi12aWVnd243WVJYOFpYMENZWFlkaGlZeVc5WlVsNldsLW9rMm9NQ0VWRzVzaWZtVllDRXVUVy1GanhFNFdMTA?oc=5>
+
+### 美媒：特朗普召集会议讨论对伊朗大规模进攻计划
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新京报
+- 时间: 2026-07-15 04:03
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9COWQ0R0Y4cmV6clZRWGFwTkRTMkctanE4dlhiajlxalNQVFF6bEpNdmt2bFAzVEdrcDFJNmctNXgtZEhOekZac1M2eFJiSDg0NkhXMU80N3R0SWU2YWVoWEVIUGw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-15 04:46  (7 条)
+
+- **王一博** | 王一博工作室是否会发布更多夏日花絮？ <https://k.sina.com.cn/article_7879849031_1d5acf44706801mzsa.html>
+- **蔡徐坤** | 蔡徐坤 「THE DEADMAN」 澳门演唱会这次真的来啦！ <https://k.sina.com.cn/article_6579479315_m1882ae31303301cfd0.html>
+- **蔡徐坤** | 蔡徐坤澳门演唱会官宣，连开两天 <https://k.sina.com.cn/article_2747054345_ma3bcb90903301i6m4.html>
+- **特朗普** | 特朗普：美石油公司进入伊拉克规模“前所未有” <https://news.google.com/rss/articles/CBMif0FVX3lxTE1RaUZtTElRQVAxc3o2T0k2Sm5RUks5OFBJVWIzUl9iczRXX3ppVWdPcG1TQ0VPRHM5V3FqV3NfLW04SzJNNS14S3lvOFN3ZG94RmtmRDY3UE9aX2VnOG5yZDFPZEwyRkxTRVBhYUN6MXF3aTNmeElWUnRxMUJmb2M?oc=5>
+- **特朗普** | 特朗普宣称将与伊拉克达成“庞大”的石油交易 <https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRFllNDQ5Z2FyQ2g4WXRGWVJYUlFCVHZUZXZYUTBMdEtycWNGMUhlNWdfUjN2V0ZELUtPU1preTJENFpRSHBZN0ZpeHd1SGh1TmJMQ0ZWbzFxYTNwQTVFb0VoNHhtNExWeGdDWE1vUEE1NE1nWnBtWFRpeHhRY3duRXhya0RHLXQ0S1RQU0x0SkJiSG5BeThiX21sUnF3WWFVM3JlM281eGFmc2N5VFFrVjVpZ0ZlMGRwdElRRTBaYXlZMmFEN3BUdnZ1LTZqTlgyNnc?oc=5>
+- **特朗普** | 美伊战火没完没了？特朗普：要打到我喊停，下周或袭击桥梁发电厂！ <https://news.google.com/rss/articles/CBMiSEFVX3lxTE5XRi12aWVnd243WVJYOFpYMENZWFlkaGlZeVc5WlVsNldsLW9rMm9NQ0VWRzVzaWZtVllDRXVUVy1GanhFNFdMTA?oc=5>
+- **特朗普** | 美媒：特朗普召集会议讨论对伊朗大规模进攻计划 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9COWQ0R0Y4cmV6clZRWGFwTkRTMkctanE4dlhiajlxalNQVFF6bEpNdmt2bFAzVEdrcDFJNmctNXgtZEhOekZac1M2eFJiSDg0NkhXMU80N3R0SWU2YWVoWEVIUGw?oc=5>
 
 ### 2026-07-15 01:50  (6 条)
 
