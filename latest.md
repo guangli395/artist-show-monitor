@@ -1,70 +1,98 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-15 23:53**
-- 本轮扫到 6960 条, 新增 **7** 条
+- 最近更新: **2026-07-16 02:01**
+- 本轮扫到 6969 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (9 条)
 
-### 虞书欣 的理想型，每回新歌打call都准时且小作文！
+### 时隔8年重返青岛！周杰伦演唱会青岛站定档，10月3日至5日连唱三天
 
-- 艺人/关键词: **蔡徐坤**
+- 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301d89c.html>
+- 链接: <https://k.sina.com.cn/article_1931238691_731c5d2301902dic0.html>
 
-### 特朗普总统将于周四晚间向全国发表重大讲话
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-07-15 22:56
-- 链接: <https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcUl3bmdXUmJMdk5oV2lOQ2hOdjAtVUhKTUZIN1hXREJJMXhFb3dlVmJPM2V0N2hTQkd4NWMxRjBuSUhINnJNZ1lWX3pWeUF5MEtKRktGS0s3bkVvaUpkSmNobUJfRjFtN0Fta0VjdzBHaVRuc0dOYm5TVjhqYi1RV0hsNmVGY3A3REJBYUVDNm5vLVpSa3RQcUUwQ005WV9CbXdDMnoybVVfWlhDaEtvd1JSVmJjM0dVdEJn0gG-AUFVX3lxTFBMOXB0cGlaZjRwNF92WUh1QzBiVXl4TUZzT1o1a1pNSWVNck14WWcwaUs4VGNMbjAxc2tUTkxEbmZWYTZJTURQdEZMcHFuU19OQ1Q3RmRoZE5WcHh3dWJNakFLc2xwV01wLTFnbnhSOVFQUWZDSGRMQkg5SHpqM3FxUUZhNDJrU3NxUFFBV20yV2N6Mkg4MUFMU2d4ZWJ4VXdWTkhZdm5hMndWNFhKN3pzU0ZVUTFwMkgxbTRjRXc?oc=5>
-
-### 白宫战情室紧急开会！特朗普讨论对伊朗发动大规模进攻计划
+### 认错，我们搞砸了爱泼斯坦文件公布
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-07-15 05:47
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yOTJfaTJHLVhKUUlHaE1ib0JTclBLQlU5MmRjdTJlWkdmNktKcWdJd0RucHM2Tm9Mak92ZGJDS2JnTFFKWk13UjUwUEdOd2hER2V3?oc=5>
+- 场馆: 观察
+- 时间: 2026-07-16 00:34
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBzY0t4ZVVKaWM3MHlHMVBBS0RwZ1l5NmxFbzdZNGtNMmR6Qm9Kdlk4ZDFaTTJNblViUkl6OEVmeWdPbXZGdGJpX1dfMHp0YTlMMVFlQW5oaDhYT2Q5VGpGOVgxT0lNVEJkSGc?oc=5>
 
-### 特朗普：伊朗非常希望达成和解 决定权在美方手中
+### 性侵案败诉，特朗普赔钱
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-07-15 23:04
-- 链接: <https://news.google.com/rss/articles/CBMiX0FVX3lxTE1yUU9pRmRfVktESUQ2a2daNnM0NWE5c0tIU1FPN1VYaWpHOTFhSDM1RVVQSG9pWWpvSHBWSEdPNkJ1YnA4dHNfbmxwRmZtVWExSTZ1aXBMTU4zNENub0dR?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-07-16 00:56
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE0wcXlXR2diUDhCUUNTbzVkWVktTnVXTldEb0s1SzhUMW1ZLUlXYks5TndJelBKV1BBNkVxa3FxaTVCNDJhVjZMMmZpN0dTWVJtWjhIRzdsdmdvcm5MUmhyT2FkUU9hLXc5bkI5ajhVNWFuUlVM?oc=5>
 
-### 贝森特表示“特朗普美元”金币将投入生产
+### 特朗普宣称将与伊拉克达成“庞大”的石油交易
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-07-15 23:41
-- 链接: <https://news.google.com/rss/articles/CBMimgFBVV95cUxON2ZNMEU3WGxhd3M5UjhfVW1aV3BOUjNLbHZhcjJLNVNPOGFjc2NhMm5hN0dEVFJHdFdFT0FQVnNMZVMwWEQ2NUh0dEJlQ3hBZTZrcjVBdm8zYVJqRjc2NjJ4REREei04S0ZFRlZUV2NzRW9UdDJ6UnJ5ZjlOZUJiTGtKMGR1eXBtbjd4REZreWJvenB4ZWJPWkZB?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-07-14 17:25
+- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE9sczdKUEtheURvdXdUVHk0MVNnenRCWEtvN0VlZzl5OEdBNVU2dFlsMkttdkdPTWdQUVR0QTNXTnI2VVk4ZnpQVVdIbHNxSVB4WG9iTTNKbEZ3dE9QTGtlYWdHQ1p3dl9vYnRkOHdGOTNBTXZoeFh5TDVn?oc=5>
 
-### 特朗普：相信普京已准备好达成协议 结束乌克兰战争
+### 特朗普又来催降息，白宫官员称当前无理由加息
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-07-15 23:45
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9sM2hvRFcyUVk1VUFYbFZ0TUFEN29LNHFkQXptZU9RN1hibFVQTUlwcl9jOTBKQUEzN1JOWnk3WXJoNFIwdEhJS0FqdlhWSFFRdWJhOERiWXFCTFJjM1I0cw?oc=5>
+- 场馆: 凤凰网财经
+- 时间: 2026-07-16 00:23
+- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE9YSlN6OVh1Y2EyQi1PeGtsZVVtc0dBcU5SeGhKRUZKQ1ZhUklXRVdhalVGS2FmYXBjVTNXZ2pWNDVvSWNMWGhRYW1HRTNLaWY2?oc=5>
 
-### 特朗普倾向于扩大美军在伊朗的军事行动
+### 美财政部将发行1美元特朗普金币 引发巨大争议
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-07-15 23:18
-- 链接: <https://news.google.com/rss/articles/CBMingFBVV95cUxNaGFZcWFhazM3d2NlS3B0OFdmdHNsc3hlQ2RaNFh6d3Vrb1FWVFU2VTFxb0RKYm1Jelp6eFJvTmhCVEhsbmJPOXVOUHJjVnVkQTFueEExanl3MW1DOFZGczUyQVkxOHFTcHFlUndROVd3NzZ3dkpIMzVjRW1XSmpoWWpRVHVXNlByTC1sdnFwekJrb1JSdXFWZU44aGtudw?oc=5>
+- 场馆: 中华网
+- 时间: 2026-07-16 00:16
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZVTVieE8wMXJHZExuMUZHcGhjbEJ6SEdid21LWlVFWmZpbm1FdFhSM2NMQ1d6a0FKa19pZjJkMXExQ1ZxcGRWdmQ0WEotOHNpVHUzMmdmbmRjQlB0T2tCN3hnR1dUb09mZXcwNm44Sno?oc=5>
+
+### 特朗普力挺移民与海关执法局调查执法
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 腾讯新闻
+- 时间: 2026-07-16 00:39
+- 链接: <https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3RW4yRjZybUY3aVBhRFpsR1pIZFdLc05sQjEtRkRkbTVsMzJsNkRLY3VzSUQ0ODFzLS1pQmdsUkdFOEV1QmhSVmNpX3k1V2R5OVp4bjhR?oc=5>
+
+### 特朗普：“感谢伊朗善意之举”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪军事_手机新浪网
+- 时间: 2026-07-16 01:41
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE9IRE1GV2tFQ3dVTzd4MlVtRmd2QndZMDEwTGVoNldQWFdPOHc1ZVNRZ1RXTVdwU0dRelRSRzhXWHJXSWc1SlItOFJxS3lrd29pTDFqZ2M4SGxiUGk0d0d1R1RpT3VtX3FZb1FTR1BXNHM1OEE?oc=5>
+
+### 特朗普：伊朗允许一名被扣留美国公民离境，感谢伊朗善意之举
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: chinanews.com.cn
+- 时间: 2026-07-16 00:16
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE4tY0cwTHVkVksxM3Noa1ZiaGtLV1pUZEJmQVJMZDNpWGJDR3IzdDUyZTl6NjRDTWhuUEZZTWZrN2ExRHFRR2dwbDByc3EwLTBGVm5rRnh2U181T05QNk1DTXVGQ2hzc3Q4?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-16 02:01  (9 条)
+
+- **周杰伦** | 时隔8年重返青岛！周杰伦演唱会青岛站定档，10月3日至5日连唱三天 <https://k.sina.com.cn/article_1931238691_731c5d2301902dic0.html>
+- **特朗普** | 认错，我们搞砸了爱泼斯坦文件公布 <https://news.google.com/rss/articles/CBMiakFVX3lxTFBzY0t4ZVVKaWM3MHlHMVBBS0RwZ1l5NmxFbzdZNGtNMmR6Qm9Kdlk4ZDFaTTJNblViUkl6OEVmeWdPbXZGdGJpX1dfMHp0YTlMMVFlQW5oaDhYT2Q5VGpGOVgxT0lNVEJkSGc?oc=5>
+- **特朗普** | 性侵案败诉，特朗普赔钱 <https://news.google.com/rss/articles/CBMidEFVX3lxTE0wcXlXR2diUDhCUUNTbzVkWVktTnVXTldEb0s1SzhUMW1ZLUlXYks5TndJelBKV1BBNkVxa3FxaTVCNDJhVjZMMmZpN0dTWVJtWjhIRzdsdmdvcm5MUmhyT2FkUU9hLXc5bkI5ajhVNWFuUlVM?oc=5>
+- **特朗普** | 特朗普宣称将与伊拉克达成“庞大”的石油交易 <https://news.google.com/rss/articles/CBMiekFVX3lxTE9sczdKUEtheURvdXdUVHk0MVNnenRCWEtvN0VlZzl5OEdBNVU2dFlsMkttdkdPTWdQUVR0QTNXTnI2VVk4ZnpQVVdIbHNxSVB4WG9iTTNKbEZ3dE9QTGtlYWdHQ1p3dl9vYnRkOHdGOTNBTXZoeFh5TDVn?oc=5>
+- **特朗普** | 特朗普又来催降息，白宫官员称当前无理由加息 <https://news.google.com/rss/articles/CBMiUEFVX3lxTE9YSlN6OVh1Y2EyQi1PeGtsZVVtc0dBcU5SeGhKRUZKQ1ZhUklXRVdhalVGS2FmYXBjVTNXZ2pWNDVvSWNMWGhRYW1HRTNLaWY2?oc=5>
+- **特朗普** | 美财政部将发行1美元特朗普金币 引发巨大争议 <https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZVTVieE8wMXJHZExuMUZHcGhjbEJ6SEdid21LWlVFWmZpbm1FdFhSM2NMQ1d6a0FKa19pZjJkMXExQ1ZxcGRWdmQ0WEotOHNpVHUzMmdmbmRjQlB0T2tCN3hnR1dUb09mZXcwNm44Sno?oc=5>
+- **特朗普** | 特朗普力挺移民与海关执法局调查执法 <https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3RW4yRjZybUY3aVBhRFpsR1pIZFdLc05sQjEtRkRkbTVsMzJsNkRLY3VzSUQ0ODFzLS1pQmdsUkdFOEV1QmhSVmNpX3k1V2R5OVp4bjhR?oc=5>
+- **特朗普** | 特朗普：“感谢伊朗善意之举” <https://news.google.com/rss/articles/CBMic0FVX3lxTE9IRE1GV2tFQ3dVTzd4MlVtRmd2QndZMDEwTGVoNldQWFdPOHc1ZVNRZ1RXTVdwU0dRelRSRzhXWHJXSWc1SlItOFJxS3lrd29pTDFqZ2M4SGxiUGk0d0d1R1RpT3VtX3FZb1FTR1BXNHM1OEE?oc=5>
+- **特朗普** | 特朗普：伊朗允许一名被扣留美国公民离境，感谢伊朗善意之举 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE4tY0cwTHVkVksxM3Noa1ZiaGtLV1pUZEJmQVJMZDNpWGJDR3IzdDUyZTl6NjRDTWhuUEZZTWZrN2ExRHFRR2dwbDByc3EwLTBGVm5rRnh2U181T05QNk1DTXVGQ2hzc3Q4?oc=5>
 
 ### 2026-07-15 23:53  (7 条)
 
