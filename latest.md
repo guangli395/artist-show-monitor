@@ -1,40 +1,62 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-16 18:01**
-- 本轮扫到 7055 条, 新增 **3** 条
+- 最近更新: **2026-07-16 19:39**
+- 本轮扫到 7060 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (5 条)
 
-### 美联储主席沃什强调自身独立性 称已“多次”告知特朗普这一点
+### 时隔10年，周杰伦将在广州开演唱会
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://finance.sina.com.cn/wm/2026-07-16/doc-inihyuqa4468990.shtml>
+
+### 美国商品期货交易委员会调查白宫提词器操作员 涉特朗普演讲押注获利
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-16 17:05
-- 链接: <https://news.google.com/rss/articles/CBMipwJBVV95cUxNX2ZiOHRpem0zZ2hjZmk1cmx3NXduMHVtU1YyWnJSZU5sakZwUkNiTm9uTl9WLTltb0xjV1RBSUw1UEplYVNlVGdkTTA2Y25aQ0J1eFFvQXlBM3dyNDFiQzlPeEdFaGN1R2N3Rnh0SFBJZFdYMW82dmpSbGtMUWxDVWtnNXZJdTNqWk80YnhDTUFhc3MzbUpDczM4cEdSa2lISl9UelVOcjJfQUhmY1JJMUdCYmNxeEw5R3VpdnJqLXNtUWZUMnhUX2ZrR013aG9KTVUwQzB5VmtKODhyV2tyZE0wSXFqbG5KeVM4bC04a2hrSEFXTVJKUzFReFktS3lvOVNORmNfc19iN19BY0dzczR1by1hR25yWmtBLTJfWTE5eTltVmQ4?oc=5>
+- 时间: 2026-07-16 19:38
+- 链接: <https://news.google.com/rss/articles/CBMipwJBVV95cUxNT0RkWGpXdDhqZmZjLWpGZkhBWFludWhWVUloMmFfOEF3cnRuVzJQYkVKeTI0MEdiV2pFSjgyaG9QdjBjLUdnTWtrb2NVQnRWb3lUYzYtdjhvNnotekl5YWc1QVJ5bDFzZGZwV0IxTjFIeUlqTl8yaFlzX1FKTGFpei1MbTdJV3VQUlU1V1M3QU9mNDVOMUVmb0IxRjJZX25VdDN0Z0NaUmd6ZW1tdG9SbHd6MjNHeEdKWjhsQXhnT1E3SE53NEJDUnh2M2FCX1VqTEZVVGhoTkpYR3N1Q3BrcDFTajVhRUxteTFFMUx0ck51bEpzMUtpYUQ2U2ZadHEwSmtCRXVERlF0QjAtVm1rMVpZVGZEZjJYT2hwVUw0ZnJ4cy1KT1hz?oc=5>
 
 ### 特朗普定于今晚发表聚焦选举的全国讲话
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-16 17:41
-- 链接: <https://news.google.com/rss/articles/CBMipwJBVV95cUxObHA0MDlOVjAyTk50WDlhVFE2VHhacllFVVJ6dW5obm45RmstNmJvX3R1VWhqZHhVS2RVZ2J1RkNtZ3MtWjZuYmV2ZnVYNEdJNk40b2NSN3k1dXRsc1FvQjVoaDQzTVZKUGdLX19TbTNwTHk2c2FmdVVhNWd4NmJDd3RPaWd3UmF2Qi1OTGpzTllCWlBoQVRocGQyTlZWYzFMUFdTWnVOd0R5di1fa2dXc0RkWDkzWE5nZnhOLVc2alNKTmRialZUSXI5LVRQU3NtVzR1cFZOclBIUW5XekktRzI1LUZfQXBPdW1rX0w1QV9Tb2p3ZUgwUFhtTGpPZ1hyZFZmRmUyUFFjeEpJb1duTk1nRkVPdGhNMDVIc0NfZDBfcUxmemJv?oc=5>
+- 时间: 2026-07-16 17:21
+- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxObmplWUZFbk5fQThmUnlYU3FxU2p2cURmSnJNd2kxcmRjSngwclRmc1EyNjMyNVg1RmhIY25ieHlQLUt4bWVlbmVDSkhNNlNhdElfdk1sTXQtSUJRbnd0ZHlZNUxnNDZaVTlPYU5zQmcwYlNsXy1KVnVYOFVyN0pOLUtyT0c0eVRTQWVuUTdFamh5UG12Qy05U1EtWFRqWlduZFZILW1aczdRbVk4dE01UXRUMWMxemxzc2FyWUhpWmp2UlNqOTRIRzVHcjBuQXdYSFE?oc=5>
 
-### 特朗普考虑扩大对伊行动 包括派地面部队参战
+### 世界杯决赛：特朗普将前往观赛
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-07-16 15:47
-- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxNclRRZnJPMVlHNVhQVDVzMGhUNE5mMWRrY25Xb0xMdG9sUzlEWmZTd3pFU3RON2dsM0NDSWVuUC0tcE8yZGxyZ19rblREZGVRZDNZdmcxNHhrRFhSeldfLTYyRm1PUjhaTi01eHZ5cHgzRS1DT3Jzb0lHdHg4aHhUcFBDcmVzcDF3VUxRV1MtSGFJVVVjUWJXT3l1eWI?oc=5>
+- 场馆: RFI
+- 时间: 2026-07-16 18:08
+- 链接: <https://news.google.com/rss/articles/CBMi_AFBVV95cUxQUzBZZ21TQlQteEZOMjQtSlU3WjdYTTZJVmZGY3ZCbUNFdm9QUTIzQnVQWm1XaVE5ZkN3dktJRmJpaUxseWJlblpWRXhFZ1RlcVdGS0pvdmpMdWJ4SGZIMHZJdFl5TGRmRGVrbjNtcEpXeGtEZVBuOWEwamZ1Y2RNLWloYUEyODFiOFF0RnpieVNMcGN5aUQ1T1VRMmNDVWFMUWkyQmNCSk4xaGVqeDJaQktzYXdteG9yMnhVMGlKNkhFUVN6M2luWGJSNHlQM1FNa01NYnctbk1adU9NZXNSQTZfWkZGNTJHdll6NURxUDdzUUpCQmo1dk9oSkM?oc=5>
+
+### 特朗普定于今晚发表聚焦选举的全国讲话
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-16 18:00
+- 链接: <https://news.google.com/rss/articles/CBMimgJBVV95cUxOS1p0SWR3OWJsVklOS2poSmxEVjlxZTI5cjVvSHNCM2U2RmZkNmdNT0YwTHkwU2w4VWVwOGEzTW1iUWswVUpjZ1FnYjNfMGpnVGtPOUJOZW9BMGxZWl92Yk53ZzFmVVA0VFoxdE5pQ3VrWkUtLWdmVE82ZHFQcThiZlFzdXB0dGRzOXp2emtLcDhlZE1iXzZ5ZjRPeGFsUzFiSWhaUUFqNzVTc25nWV9zUWNtNEJzbVhEeUNnemw2dFAtNFU1YmpwMG1SekpzN1pMMC1HVUllRUhGYjJENkhBR1J4U05UcGRQd3lJcFBKOHJXZG9YZTVITlVMNkVJREJya1p3d0Q1Z0xoTDR5WmYyWmVLbVVDczZ5U3c?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-16 19:39  (5 条)
+
+- **周杰伦** | 时隔10年，周杰伦将在广州开演唱会 <https://finance.sina.com.cn/wm/2026-07-16/doc-inihyuqa4468990.shtml>
+- **特朗普** | 美国商品期货交易委员会调查白宫提词器操作员 涉特朗普演讲押注获利 <https://news.google.com/rss/articles/CBMipwJBVV95cUxNT0RkWGpXdDhqZmZjLWpGZkhBWFludWhWVUloMmFfOEF3cnRuVzJQYkVKeTI0MEdiV2pFSjgyaG9QdjBjLUdnTWtrb2NVQnRWb3lUYzYtdjhvNnotekl5YWc1QVJ5bDFzZGZwV0IxTjFIeUlqTl8yaFlzX1FKTGFpei1MbTdJV3VQUlU1V1M3QU9mNDVOMUVmb0IxRjJZX25VdDN0Z0NaUmd6ZW1tdG9SbHd6MjNHeEdKWjhsQXhnT1E3SE53NEJDUnh2M2FCX1VqTEZVVGhoTkpYR3N1Q3BrcDFTajVhRUxteTFFMUx0ck51bEpzMUtpYUQ2U2ZadHEwSmtCRXVERlF0QjAtVm1rMVpZVGZEZjJYT2hwVUw0ZnJ4cy1KT1hz?oc=5>
+- **特朗普** | 特朗普定于今晚发表聚焦选举的全国讲话 <https://news.google.com/rss/articles/CBMi0gFBVV95cUxObmplWUZFbk5fQThmUnlYU3FxU2p2cURmSnJNd2kxcmRjSngwclRmc1EyNjMyNVg1RmhIY25ieHlQLUt4bWVlbmVDSkhNNlNhdElfdk1sTXQtSUJRbnd0ZHlZNUxnNDZaVTlPYU5zQmcwYlNsXy1KVnVYOFVyN0pOLUtyT0c0eVRTQWVuUTdFamh5UG12Qy05U1EtWFRqWlduZFZILW1aczdRbVk4dE01UXRUMWMxemxzc2FyWUhpWmp2UlNqOTRIRzVHcjBuQXdYSFE?oc=5>
+- **特朗普** | 世界杯决赛：特朗普将前往观赛 <https://news.google.com/rss/articles/CBMi_AFBVV95cUxQUzBZZ21TQlQteEZOMjQtSlU3WjdYTTZJVmZGY3ZCbUNFdm9QUTIzQnVQWm1XaVE5ZkN3dktJRmJpaUxseWJlblpWRXhFZ1RlcVdGS0pvdmpMdWJ4SGZIMHZJdFl5TGRmRGVrbjNtcEpXeGtEZVBuOWEwamZ1Y2RNLWloYUEyODFiOFF0RnpieVNMcGN5aUQ1T1VRMmNDVWFMUWkyQmNCSk4xaGVqeDJaQktzYXdteG9yMnhVMGlKNkhFUVN6M2luWGJSNHlQM1FNa01NYnctbk1adU9NZXNSQTZfWkZGNTJHdll6NURxUDdzUUpCQmo1dk9oSkM?oc=5>
+- **特朗普** | 特朗普定于今晚发表聚焦选举的全国讲话 <https://news.google.com/rss/articles/CBMimgJBVV95cUxOS1p0SWR3OWJsVklOS2poSmxEVjlxZTI5cjVvSHNCM2U2RmZkNmdNT0YwTHkwU2w4VWVwOGEzTW1iUWswVUpjZ1FnYjNfMGpnVGtPOUJOZW9BMGxZWl92Yk53ZzFmVVA0VFoxdE5pQ3VrWkUtLWdmVE82ZHFQcThiZlFzdXB0dGRzOXp2emtLcDhlZE1iXzZ5ZjRPeGFsUzFiSWhaUUFqNzVTc25nWV9zUWNtNEJzbVhEeUNnemw2dFAtNFU1YmpwMG1SekpzN1pMMC1HVUllRUhGYjJENkhBR1J4U05UcGRQd3lJcFBKOHJXZG9YZTVITlVMNkVJREJya1p3d0Q1Z0xoTDR5WmYyWmVLbVVDczZ5U3c?oc=5>
 
 ### 2026-07-16 18:01  (3 条)
 
