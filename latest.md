@@ -1,110 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-16 16:49**
-- 本轮扫到 7052 条, 新增 **14** 条
+- 最近更新: **2026-07-16 18:01**
+- 本轮扫到 7055 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (14 条)
+## 本轮新发现 (3 条)
 
-### 蔡徐坤演唱会的所有歌曲都是原创吗？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879995944_1d5af322806802bnog.html>
-
-### 蔡徐坤演唱会歌单全揭秘：从《情人》到《Deadman》
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879995944_1d5af322806802bno2.html>
-
-### 蔡徐坤2024年是否继续参加江苏跨年演唱会？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879995944_1d5af322806802bno0.html>
-
-### 抢不到蔡徐坤演唱会门票的粉丝还有哪些官方渠道？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849036_1d5acf44c06801ee4e.html>
-
-### 蔡徐坤澳门演唱会为何选择空降官宣次日开票？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923118_1d5ae15ae06801nlfe.html>
-
-### 周董演唱会惊见「前偶像男团」热舞! 梦幻连线嗨翻全场
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019087bdg.html>
-
-### 新浪演唱会热点小时报丨2026年07月16日23时_今日实时演唱会热点速递
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019087aj4.html>
-
-### 周杰伦2026演唱会广州站定档，连开三场
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c00190875ow.html>
-
-### 周杰伦2026年北京鸟巢演唱会嘉宾名单确认了吗？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923107_1d5ae15a306803nc9c.html>
-
-### 特朗普与共和党坐拥11亿美元资金备战中期选举 规模达民主党阵营3倍多
+### 美联储主席沃什强调自身独立性 称已“多次”告知特朗普这一点
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-16 16:43
-- 链接: <https://news.google.com/rss/articles/CBMixwJBVV95cUxPNnpwYjA2NDRnUUZWZXFtVl9POW9tTVJybVFXaTVPa1dwQklrRmpURkhubkZuY0c5dlpkek5iLWdGcmFOTzZNaTZyTVdjY1V2a1lMdXBRS0plVDJ3VEliSEpRV3FST1Y4M3U1RlVUZGhILTZoTm5jdDZFdGYxczFIcldHeXIxbWl5bkxVWERlbmVPaE5qR2hyRm16NzZFR2w2bTlxT1U0WjhDWkoyQkU2SWpMb2hIbFVwdmZsQmYzMUpEdGp0cm5OYzFuSGI5QzdyckVUY0VCMWlFeEtlRHpBUURwN1VOdHoyc1J6bWJDVVZ1Tm8yQndtM0RYSkhvZ0YySVJrb3N2UWV1UXVQai1TTldFelJUQVhUUWZTbWdPNFlwdU1TNnU3SWZUalFRQjMxOG1RQU95Q3ZpV0Vjd2ZPUDJ4cE0xOUE?oc=5>
+- 时间: 2026-07-16 17:05
+- 链接: <https://news.google.com/rss/articles/CBMipwJBVV95cUxNX2ZiOHRpem0zZ2hjZmk1cmx3NXduMHVtU1YyWnJSZU5sakZwUkNiTm9uTl9WLTltb0xjV1RBSUw1UEplYVNlVGdkTTA2Y25aQ0J1eFFvQXlBM3dyNDFiQzlPeEdFaGN1R2N3Rnh0SFBJZFdYMW82dmpSbGtMUWxDVWtnNXZJdTNqWk80YnhDTUFhc3MzbUpDczM4cEdSa2lISl9UelVOcjJfQUhmY1JJMUdCYmNxeEw5R3VpdnJqLXNtUWZUMnhUX2ZrR013aG9KTVUwQzB5VmtKODhyV2tyZE0wSXFqbG5KeVM4bC04a2hrSEFXTVJKUzFReFktS3lvOVNORmNfc19iN19BY0dzczR1by1hR25yWmtBLTJfWTE5eTltVmQ4?oc=5>
 
-### 美媒爆：特朗普震怒，美官员“交手机”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪军事
-- 时间: 2026-07-16 16:39
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE0wa2FyTzZzUFlhLXJUUWM1NGNCUUdwTkh6cVp2Q1BKNEktU0pIakhIYTAxY0tNemV2VjhVb2FTQzFqOW9HVmpMczlLZzZqbTIybnVlSW96U3BkbVh2OWhGeUNGRjcxMmdBcHlWMmNBTGg2elk?oc=5>
-
-### 特朗普又给以色列压力，内塔尼亚胡还在硬撑
+### 特朗普定于今晚发表聚焦选举的全国讲话
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-15 01:56
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE43WnUxZVE5UUxVLW1MRWJTaC1aUkg4MnBqZXJXVTBCcFRNR1pnZlJrVlg2akpqOGlrVkwtTk0xZnQwdlV3bHFjSXNIclg?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-07-16 17:41
+- 链接: <https://news.google.com/rss/articles/CBMipwJBVV95cUxObHA0MDlOVjAyTk50WDlhVFE2VHhacllFVVJ6dW5obm45RmstNmJvX3R1VWhqZHhVS2RVZ2J1RkNtZ3MtWjZuYmV2ZnVYNEdJNk40b2NSN3k1dXRsc1FvQjVoaDQzTVZKUGdLX19TbTNwTHk2c2FmdVVhNWd4NmJDd3RPaWd3UmF2Qi1OTGpzTllCWlBoQVRocGQyTlZWYzFMUFdTWnVOd0R5di1fa2dXc0RkWDkzWE5nZnhOLVc2alNKTmRialZUSXI5LVRQU3NtVzR1cFZOclBIUW5XekktRzI1LUZfQXBPdW1rX0w1QV9Tb2p3ZUgwUFhtTGpPZ1hyZFZmRmUyUFFjeEpJb1duTk1nRkVPdGhNMDVIc0NfZDBfcUxmemJv?oc=5>
 
-### 特朗普敦促内塔尼亚胡从叙利亚和黎巴嫩撤军，以色列面临多重压力
+### 特朗普考虑扩大对伊行动 包括派地面部队参战
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-07-15 00:42
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE9fRXFkcXI3Ty0wbXlib2Z4V3gtbXhNZ3pYelczbjhoeDlEbjVRS3VmM0FJWmI3b256MWZ0TVltR0tHRU9YRVlwMkZpTzREQWoxZnRz?oc=5>
-
-### 皮尤：许多国家对中国及习近平好感度超过美国和特朗普
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: DW.com
-- 时间: 2026-07-16 11:29
-- 链接: <https://news.google.com/rss/articles/CBMi6AJBVV95cUxNMkFRbnZzNHBMeHV1OFFuOHVpRDBwLUZ5aUo4VzNhSkVORVdMU1JIWkV1R2RMYU96dVpHbWJoU2VaVGhpOV96VmdYZkpWZVBJR3pXY3RMY0o4ZVVfVXR2Y1gwTllIZkhlWThmOE5xRF82aDgwWHdVTEcwRG5Bekpvb2xVbXlVZ245RDJZaUhQY043QmZRZ1BpOS1MNFd0YzllaTFuck12amhpZ0xlOVlqNnV0OWJRc0V2SVpZNm92U1E2ZW9UbTUwcThSUVB6d0tNWWNqM2ctZ3BDUVBmbGJEeC1kYS1PMjR6MjhXTHl3ZVBBdlFyMVBzZ085eHo0dUY5ZElNZnVFSE0yYkxnZmZNZHBCanozcnB4ajhtTzg2Y0t5STNYcXNkSHFLRE84cjUwT2o3UWdJX0NFblJhbFRacmlLdUxOQVh3UXdDNWltLTVtZmpLRVoxc05PUkNuQjFZRldWMmR0blbSAegCQVVfeXFMTVFpNWF2QXdyNVZNVmFnMzlha2VVT3E1SGFoYUNZUEo4TmlaZDZMdkJSb01yM2dYTHJiVWg2ZW42VFJKQXFLempPN1c3bGZKVjYxWlhINTNuMDZwWGswYVpFUDhHQzBVRmlFT2ZTcEt6TGdNX2VvaUJZRUxVRXRnb2NXb2RkNnNmdi1ZWmFpWFhlNkhkVXZCcUExRmJpazktWklMbmJkUHpXR1NxR1lSbDhwMFcyNllNNVh4UUl3cXFyU0hRUjI4dnF0d3dXbi1IVnBTTEMwTG9DVGZhd0ZqSVc1MlhsdEhEYXc4SnZEamZ3eG13OTkteWo4SXRnemd1NDFSd2EtNk5CVHhoM3ZTVTNBWWc0RnVaMjV1V1pja0hFNVpRZlhIcHBPTkZ1RV91blpNQ080cUtOUjM1c2JYMVdSYVBWcVdBQXhxU0xDRFY0d3BPOWVvbFFHZzlramtkQ3ZTenBUM1M1?oc=5>
+- 场馆: 8world
+- 时间: 2026-07-16 15:47
+- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxNclRRZnJPMVlHNVhQVDVzMGhUNE5mMWRrY25Xb0xMdG9sUzlEWmZTd3pFU3RON2dsM0NDSWVuUC0tcE8yZGxyZ19rblREZGVRZDNZdmcxNHhrRFhSeldfLTYyRm1PUjhaTi01eHZ5cHgzRS1DT3Jzb0lHdHg4aHhUcFBDcmVzcDF3VUxRV1MtSGFJVVVjUWJXT3l1eWI?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-16 18:01  (3 条)
+
+- **特朗普** | 美联储主席沃什强调自身独立性 称已“多次”告知特朗普这一点 <https://news.google.com/rss/articles/CBMipwJBVV95cUxNX2ZiOHRpem0zZ2hjZmk1cmx3NXduMHVtU1YyWnJSZU5sakZwUkNiTm9uTl9WLTltb0xjV1RBSUw1UEplYVNlVGdkTTA2Y25aQ0J1eFFvQXlBM3dyNDFiQzlPeEdFaGN1R2N3Rnh0SFBJZFdYMW82dmpSbGtMUWxDVWtnNXZJdTNqWk80YnhDTUFhc3MzbUpDczM4cEdSa2lISl9UelVOcjJfQUhmY1JJMUdCYmNxeEw5R3VpdnJqLXNtUWZUMnhUX2ZrR013aG9KTVUwQzB5VmtKODhyV2tyZE0wSXFqbG5KeVM4bC04a2hrSEFXTVJKUzFReFktS3lvOVNORmNfc19iN19BY0dzczR1by1hR25yWmtBLTJfWTE5eTltVmQ4?oc=5>
+- **特朗普** | 特朗普定于今晚发表聚焦选举的全国讲话 <https://news.google.com/rss/articles/CBMipwJBVV95cUxObHA0MDlOVjAyTk50WDlhVFE2VHhacllFVVJ6dW5obm45RmstNmJvX3R1VWhqZHhVS2RVZ2J1RkNtZ3MtWjZuYmV2ZnVYNEdJNk40b2NSN3k1dXRsc1FvQjVoaDQzTVZKUGdLX19TbTNwTHk2c2FmdVVhNWd4NmJDd3RPaWd3UmF2Qi1OTGpzTllCWlBoQVRocGQyTlZWYzFMUFdTWnVOd0R5di1fa2dXc0RkWDkzWE5nZnhOLVc2alNKTmRialZUSXI5LVRQU3NtVzR1cFZOclBIUW5XekktRzI1LUZfQXBPdW1rX0w1QV9Tb2p3ZUgwUFhtTGpPZ1hyZFZmRmUyUFFjeEpJb1duTk1nRkVPdGhNMDVIc0NfZDBfcUxmemJv?oc=5>
+- **Trump** | 特朗普考虑扩大对伊行动 包括派地面部队参战 <https://news.google.com/rss/articles/CBMinAFBVV95cUxNclRRZnJPMVlHNVhQVDVzMGhUNE5mMWRrY25Xb0xMdG9sUzlEWmZTd3pFU3RON2dsM0NDSWVuUC0tcE8yZGxyZ19rblREZGVRZDNZdmcxNHhrRFhSeldfLTYyRm1PUjhaTi01eHZ5cHgzRS1DT3Jzb0lHdHg4aHhUcFBDcmVzcDF3VUxRV1MtSGFJVVVjUWJXT3l1eWI?oc=5>
 
 ### 2026-07-16 16:49  (14 条)
 
