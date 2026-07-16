@@ -1,130 +1,122 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-16 10:01**
-- 本轮扫到 7004 条, 新增 **17** 条
+- 最近更新: **2026-07-16 11:58**
+- 本轮扫到 7017 条, 新增 **13** 条
 
 ---
 
-## 本轮新发现 (17 条)
+## 本轮新发现 (13 条)
 
-### 新浪演唱会热点小时报丨2026年07月16日17时_今日实时演唱会热点速递
+### 期待蔡徐坤新的巡演能来河南 IKUN们在河南等你…
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1733763180_m6757206c03301chus.html>
+
+### 王俊凯广州演唱会倒计时1个月
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019086x1c.html>
+- 链接: <https://k.sina.com.cn/article_6380644334_m17c50e7ee03301b29y.html>
 
-### 时隔10年，周杰伦将在广州开演唱会
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1497087080_593bbc6801901ddcm.html>
-
-### 周杰伦2026演唱会广州站时间发布！
+### 新浪演唱会热点小时报丨2026年07月16日18时_今日实时演唱会热点速递
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1682207150_m644471ae03301nyfk.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019086zis.html>
 
-### 时隔8年！周杰伦青岛演唱会正式定档，“十一”假期连唱三天
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5328858693_m13d9fee4502002ffj8.html>
-
-### 新浪演唱会热点小时报丨2026年07月16日15时_今日实时演唱会热点速递
+### 周杰伦广州演唱会官宣！主题时光机，距上次广州专场已10年
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019086s6o.html>
+- 链接: <https://k.sina.com.cn/article_2131593523_7f0d893301901o7i0.html>
 
-### 王俊凯又幸福了？给周杰伦演唱会当嘉宾，网友：追星人的楷模
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019086rbu.html>
-
-### 王俊凯竟成周杰伦长沙演唱会嘉宾？跨界合作引发热议，你期待吗
+### 新歌声：要是没点实力，谁敢翻唱《小苹果》啊，导师必须转身！
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019086tae.html>
+- 链接: <https://k.sina.com.cn/article_7480986512_m1bde6cb9000101829w.html>
 
-### 周杰伦为星爷新片打call并合作主题曲
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857263936_v1d454554006801moca.html>
-
-### 2026年7月广州近期演唱会排期全攻略:这份夏日观演日历一次整理_哒哒哒
+### 王俊凯广州演唱会审批通过
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776442_1d5abd8ba019029eys.html>
+- 链接: <https://k.sina.com.cn/article_2756869861_a4527ee50400145pc.html>
 
-### 周杰伦广州演唱会审批通过时隔10年周杰伦再回广州办巡演
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://video.sina.com.cn/p/finance/2026-07-16/detail-inihyupy7687089.d.html>
-
-### 王俊凯和偶像周杰伦顶峰相见，演唱会想看榜前二！
+### 周杰伦王俊凯演唱会想看榜破百万纪录有多快？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://finance.sina.com.cn/jjxw/2026-07-16/doc-inihyupy7640359.shtml>
+- 链接: <https://k.sina.com.cn/article_7879923111_1d5ae15a706801ci8o.html>
 
-### 特朗普据报将在周四晚演讲中谈及中国涉嫌干预美国选举事宜
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-07-16 09:05
-- 链接: <https://news.google.com/rss/articles/CBMiowNBVV95cUxQZ3NOYktsaVlvYTMzN0JWMDROOWFlRWlkbVRCYm5lUWd1dXR2WTJIemNUU0JINVRaMTJvREdfY0JfUy11TE5kTVY3WG9nZFJaT0dZUXJNOGMwQ3lia1RHVHJTakJvdEF6UU1YRHBqRGEzamVNbnVVdEhjSG81ZkJodkMxa05fVl9PMUliejYzVmxTS3p3U3IwM3Z4N3AtcnJVbFJ4MVZJWW9Vb1ZadmpGSjVRXzdNa0hsUUdJelAtZ1c1OVc3TnE0UVBoRjlfdDhnSHJRdnc4MW8xWnc2MVB3MjdCa2dZZXA4RmV4WXcyQTRVSnN6UTIyaFViYWhZMlZManNHdFZfN2hvRmZrSTZtUXJNOUVIQ1B5bGZtejY4bjV3M2ZGdEZVREcyUU05TUpvSXFIaWxPQlhLZGNsNWcwYUl2NWxCdXhaRk9fdTd6WXd6R2pDT1MyWGNMbW1qSzV3TURQeHRkUElWQl9RbWo2U3pnYUxmMFROMWhURmx3a1N3VkpZb19rUklXZE5ieVVoeE9YUjE3dG8yM2MwU3RzN2FuVQ?oc=5>
-
-### 美武器库存消耗加剧 特朗普再促军工增产
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 央视网
-- 时间: 2026-07-16 07:36
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1OU3l2d2otR1phUjZralFjazZxeEgtUHpRSFJwMUFaOXQ2Sm9RbVI4a0h1NEtacFhNaFRHV3RCWkd5VVhGdHZkcW1hX2MxUmFYZV9XOWJxYVRCR0JUNWMxVzhGeUNiWmNkSXRyLVJtYThoYU1nX21SWg?oc=5>
-
-### 特朗普：“感谢伊朗善意之举”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-16 00:54
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE10Z2gxU3ctdm1yeVZRRDUzTmlXcWlPanh2dHJBREJnckFjMnBYRGJxbnRDYy1lNjRjOHZTNUE2TnpxbTBIXzM1UE5aXzJ6Y3RDS3NMc1o2amk1OTZiX2l6YWNUaUE2Rl9TcnAwOUNGY2VEWFJPUXc?oc=5>
-
-### 美国将中国、印度等国列为制裁目标，授权特朗普最高征收100%关税，中方：搞双重标准，胁迫施压，只会搬起石头砸自己的脚
+### 深埋百米、尚未启用、内部成谜：特朗普要炸伊朗核计划“保险箱”？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-07-15 07:24
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBKR0lIczJnSU1XTWpGQUVDRUpvcGIzRDlZV0pvX1JBOWJiM1Z6WUh6aDlTQ1hTNzREZ0lRZERPWnU5TWFXRGRLbGlYVkhRWDBFMF9DTU9fLWxVbWJyWlJ3bHdISkRiVDlxRVNJZ3h2cVRnYmtwa3F5eg?oc=5>
+- 时间: 2026-07-16 11:45
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE96NGY4UGVPTFI1UUpMMWRsNGVpd1dZYWJXYmlLajR3aXZPaV9DNHNveGI3R1ZweFlVRnEzZUxJbjBWeXQwVDVoRVFsRWxHNVVmem5tcktnYUE3dFpVUjB1Z1paZ2NaRnpaakNCSGlSTnY?oc=5>
 
-### 美伊战火将旷日持久？特朗普称伊朗愿意谈判又遭“打脸”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 东方财富网
-- 时间: 2026-07-16 00:19
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JR0lINEMtN21NUlNROWpsc094czUxY1d4cWRfYVgyRW5BRkl6bGZiQkl0UnNaU2xrQ3pGb1VQWDJKUHVLazVIMTJnRTFJYnZISUVtMi1xZUNBLWppc1ZOYw?oc=5>
-
-### 中国蓝观察丨特朗普又改口 海峡收费24小时“变卦”
+### 特朗普对伊朗发狠沙特参战，美伊多条战线全在激烈交火
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新蓝网
-- 时间: 2026-07-16 03:05
-- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE9IYlVzMG5ELVB3VVFIelZibnZDdUZWd3FsTW4yQmNZaHVkdkpHQlpwWl9KWFBuVnZ6eWtra0Q5QnNUWDJ3dmFfNklGOV9tODQ?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-07-16 11:34
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1OWl9tQzFHU0t6NWJ3eXlUMXVRVjRwUkVaVjZFZlZwdFprMk12a1l1ekJnN0RUNlZtRXF5R2VkYVRwSHN6TzZ1OUR2RFJ1SElGcy1KZmZYajBrVlZnbUZkNTEzUzlFb0Q4dGdOalNaaXBsZk0?oc=5>
+
+### 伊朗就霍尔木兹海峡划出红线警告美国：若特朗普实施打击威胁，伊朗必将反击
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-16 09:39
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxONVVacnhNOEwtZ0ZKV1RKUEFrY3dqR1NjenZHcUh3UWVJLTRFS3N4ZVVhVFVRYmdkOHNCQnZjWjFrcUN1MWlHZFFWalYtZ2lWeG9VdFhqcVYtYTZHRmRCcV9Cd3I4amd4V0dyUFRzM1JReW54OVRqS1JfUEZFamtNVDd4RlFfWXIwOGZYV3g1TW5EeGlUZW1GZlhBRmU3ZGk3M2YtLXJGOEFpWnNrWXRhUk1VRWJMWUIyUFFWdmRtenhRWmlWUnFDRGdBNWdlR2lQRHhwR0NlMzVjZUFmbHF3?oc=5>
+
+### 特朗普公开回应被列入“暗杀名单”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新京报
+- 时间: 2026-07-16 10:30
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1mVjAtVTFJRnNITFhoNmh2aWxqZlM3LWMtMlAzTkdNX1VZVThQeGRmVWhZWmgzNnBxUTFaejhId2MxdGd4c1VocGdlX2RVMU95WTk1dUExNjV0OUxhRXptR3pzX2E?oc=5>
+
+### Senator Urges Trump Administration to Review Canada's Lawful-Access Bill
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 富途牛牛
+- 时间: 2026-07-16 10:30
+- 链接: <https://news.google.com/rss/articles/CBMiqAFBVV95cUxOanlscUdJYk8xVXRTQXR2RjRfZ3dkMUxJdUFNZjNuQjFSTUVhTGQ5d2NWOHdNa2hJUkJJZkN6R05vV3VadlNEbXpod09tbUhhdE8wMlpoYVkwN1JPUzQwLVBPMnVqdmUxWGdDOTZqTFlweXlnQmtQWG0yWXhNMV9ia3o3UENLSXcxUnViTzFhdmFpbjRrcmJ1MVBMS0lfRjlpelU0amxOUHE?oc=5>
+
+### 琴久 (@Square-Creator-ddc67b0f2664)的见解
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Binance
+- 时间: 2026-07-16 07:40
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1YeE1QdWt5LTNKUlcwYTB0ZElzdUJ4b3Vycm9LWmJPLTdDWGptZkNHUEdSajVrSVZTd3M3UURhcWZsLVdCdHVkQ1RGODd0WW9nWi1VcWwtZVNhWmx6eUkwQ241aW9FMHlk?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-16 11:58  (13 条)
+
+- **蔡徐坤** | 期待蔡徐坤新的巡演能来河南 IKUN们在河南等你… <https://k.sina.com.cn/article_1733763180_m6757206c03301chus.html>
+- **周杰伦** | 王俊凯广州演唱会倒计时1个月 <https://k.sina.com.cn/article_6380644334_m17c50e7ee03301b29y.html>
+- **周杰伦** | 新浪演唱会热点小时报丨2026年07月16日18时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c0019086zis.html>
+- **周杰伦** | 周杰伦广州演唱会官宣！主题时光机，距上次广州专场已10年 <https://k.sina.com.cn/article_2131593523_7f0d893301901o7i0.html>
+- **周杰伦** | 新歌声：要是没点实力，谁敢翻唱《小苹果》啊，导师必须转身！ <https://k.sina.com.cn/article_7480986512_m1bde6cb9000101829w.html>
+- **周杰伦** | 王俊凯广州演唱会审批通过 <https://k.sina.com.cn/article_2756869861_a4527ee50400145pc.html>
+- **周杰伦** | 周杰伦王俊凯演唱会想看榜破百万纪录有多快？ <https://k.sina.com.cn/article_7879923111_1d5ae15a706801ci8o.html>
+- **特朗普** | 深埋百米、尚未启用、内部成谜：特朗普要炸伊朗核计划“保险箱”？ <https://news.google.com/rss/articles/CBMicEFVX3lxTE96NGY4UGVPTFI1UUpMMWRsNGVpd1dZYWJXYmlLajR3aXZPaV9DNHNveGI3R1ZweFlVRnEzZUxJbjBWeXQwVDVoRVFsRWxHNVVmem5tcktnYUE3dFpVUjB1Z1paZ2NaRnpaakNCSGlSTnY?oc=5>
+- **特朗普** | 特朗普对伊朗发狠沙特参战，美伊多条战线全在激烈交火 <https://news.google.com/rss/articles/CBMic0FVX3lxTE1OWl9tQzFHU0t6NWJ3eXlUMXVRVjRwUkVaVjZFZlZwdFprMk12a1l1ekJnN0RUNlZtRXF5R2VkYVRwSHN6TzZ1OUR2RFJ1SElGcy1KZmZYajBrVlZnbUZkNTEzUzlFb0Q4dGdOalNaaXBsZk0?oc=5>
+- **特朗普** | 伊朗就霍尔木兹海峡划出红线警告美国：若特朗普实施打击威胁，伊朗必将反击 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxONVVacnhNOEwtZ0ZKV1RKUEFrY3dqR1NjenZHcUh3UWVJLTRFS3N4ZVVhVFVRYmdkOHNCQnZjWjFrcUN1MWlHZFFWalYtZ2lWeG9VdFhqcVYtYTZHRmRCcV9Cd3I4amd4V0dyUFRzM1JReW54OVRqS1JfUEZFamtNVDd4RlFfWXIwOGZYV3g1TW5EeGlUZW1GZlhBRmU3ZGk3M2YtLXJGOEFpWnNrWXRhUk1VRWJMWUIyUFFWdmRtenhRWmlWUnFDRGdBNWdlR2lQRHhwR0NlMzVjZUFmbHF3?oc=5>
+- **特朗普** | 特朗普公开回应被列入“暗杀名单” <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1mVjAtVTFJRnNITFhoNmh2aWxqZlM3LWMtMlAzTkdNX1VZVThQeGRmVWhZWmgzNnBxUTFaejhId2MxdGd4c1VocGdlX2RVMU95WTk1dUExNjV0OUxhRXptR3pzX2E?oc=5>
+- **Trump** | Senator Urges Trump Administration to Review Canada's Lawful-Access Bill <https://news.google.com/rss/articles/CBMiqAFBVV95cUxOanlscUdJYk8xVXRTQXR2RjRfZ3dkMUxJdUFNZjNuQjFSTUVhTGQ5d2NWOHdNa2hJUkJJZkN6R05vV3VadlNEbXpod09tbUhhdE8wMlpoYVkwN1JPUzQwLVBPMnVqdmUxWGdDOTZqTFlweXlnQmtQWG0yWXhNMV9ia3o3UENLSXcxUnViTzFhdmFpbjRrcmJ1MVBMS0lfRjlpelU0amxOUHE?oc=5>
+- **Trump** | 琴久 (@Square-Creator-ddc67b0f2664)的见解 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1YeE1QdWt5LTNKUlcwYTB0ZElzdUJ4b3Vycm9LWmJPLTdDWGptZkNHUEdSajVrSVZTd3M3UURhcWZsLVdCdHVkQ1RGODd0WW9nWi1VcWwtZVNhWmx6eUkwQ241aW9FMHlk?oc=5>
 
 ### 2026-07-16 10:01  (17 条)
 
