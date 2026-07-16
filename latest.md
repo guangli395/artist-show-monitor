@@ -1,63 +1,59 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-16 13:53**
-- 本轮扫到 7027 条, 新增 **10** 条
+- 最近更新: **2026-07-16 15:28**
+- 本轮扫到 7038 条, 新增 **11** 条
 
 ---
 
-## 本轮新发现 (10 条)
+## 本轮新发现 (11 条)
 
-### 新浪演唱会热点小时报丨2026年07月16日20时_今日实时演唱会热点速递
+### 2026蔡徐坤澳门演唱会是什么时候
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923015_1d5ae154701901ffae.html>
+
+### 蔡徐坤Deadman演唱会，机械裂变大屏，激光矩阵打造暗黑舞台
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_2495457342_m94bda83e053019ulq.html>
+
+### 昆凌为周杰伦宣传新专辑 晒出专辑上线时间倒计时
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c00190874pq.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019087acq.html>
 
-### 王俊凯和周杰伦在长沙演唱会上合唱了哪首歌？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923102_1d5ae159e06801e2xe.html>
-
-### 王俊凯新专辑《WJK》命名如何致敬周杰伦？
+### 时隔10年，重返广州！周杰伦广州演唱会审批通过
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923108_1d5ae15a406801g2to.html>
+- 链接: <https://k.sina.com.cn/article_1691507817_m64d25c6903301msyy.html>
 
-### 王俊凯广州演唱会倒计时1个月
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://video.sina.com.cn/p/finance/2026-07-16/detail-inihzfcz8171706.d.html>
-
-### 周杰伦要来广州了！还有这些演唱会即将开唱
+### 周杰伦2026演唱会广州站时间发布！
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://finance.sina.com.cn/roll/2026-07-16/doc-inihzfcu7673416.shtml>
+- 链接: <https://k.sina.com.cn/article_1288429914_m4ccbe15a0330182qw.html>
 
-### 就在天体！周杰伦广州演唱会审批通过
+### 王俊凯和偶像周杰伦顶峰相见，演唱会想看榜前二！
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://video.sina.com.cn/p/finance/2026-07-16/detail-inihyuqe1319139.d.html>
+- 链接: <https://k.sina.com.cn/article_5876448064_m15e437b4003301quco.html>
 
-### 美联储主席沃什强调自身独立性 称已“多次”告知特朗普这一点
+### 周杰伦为王俊凯新专辑提供了哪些支持？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-16 13:20
-- 链接: <https://news.google.com/rss/articles/CBMikwJBVV95cUxQOE9URTZFYmQ4bUltUnJfSTVtVlliTHFzbnhVVzRuOHZOTDBjemFmYV9NZUJOLXNyZEwwWTIzUE5RLTdBT1dabno0a0dDNFhRanZrMGNrVy0zSUs0T3ROTkdoVmhKbG1zWnJ6ZGhXOXFRZVdpUkRhSk9HRmpiRm9wb1BpcW50bzVoQ3FEaURhaEt0a0xsSzBTMHdQRWtybFREMlhQLU5tWVRndHBRWUZGV3NWQVhORWZwcjlkME04QlZmcHkxcFhSVWhsNHlwU2g0dnJFSF9hc1p2SFhGV3R0SDNkUTFWMm5aU2RWTWJDTXE3R2Zjb1ZtZlB4YmJackZaTEdCS18xa0V3TFpiZUFpNUR2bw?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923118_1d5ae15ae06801nl0q.html>
 
-### 团队有声音担心中方视缄默为索取更多让步契机 美贸易代表指9月特习会多为盘点进展
+### 演唱会前排座位的价格一般是多少？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-07-16 12:56
-- 链接: <https://news.google.com/rss/articles/CBMingRBVV95cUxPejFtQVRxXzQxV3RxTnpqSnhkaDVyMFBrZ3AyTTB1QXUzdlJEbHh1alZmQU1RZ2hZZHhzdlhvMUtkczFWWnFNNjl2ZkFXU0NVcURIQ3pnbXhNWGc4QVFsYjFyVmEzZU9mQ1pyMnNXdk55RGdKRW1EQkpPU25PM0xSM2VYRjVzTlRXQkkxYmNCOHBHM3QtZnNDaFdibEhBWE5YSlJlTEpobzlsVXA0SklyZlljaEpDczVhXzljV1I4VkRSWnBJQldwRE16NXl1UU5MY0dGaFFneWRlb1A5RmNISjZSdnQ4UFJrNmh6MGVNZzNXY2ZtRXlUOV92ZF9qR24ybnJsbnF6NVFrd3FHUHBQUkRzNnZ5d1RIR280S1hXM1cwSVczNTNsMDhUTzMyc3AtY1U5VXZKSktiak04QnZJWFB1OUIyUHpzVklfYmpiMllnMVNaZ3JLbHJOb2hsM3RyQ1g2QnBETTBIQmFsQkhZcVczSVpKQTEtVjNZYnlwbG5MOWIxUXBFUW51bFpvb2lURzZpRXJPallHWlRxZUJoWTJwNU53MVFBVHJFMFB5b1JMeThJN000SDk5b254X3h4RFB4MnRkQ1dVUkk4YS11ZmJ6R3I4RXNzWURudlhxMnBjRVBCaThPR1VSQ0VINDNkUWhBMHlPa0VvN2o3dVJjel9kbHYtd29JWm9ONVloQm84MEVweHA5WFdOYWxDQQ?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776419_1d5abd8a3068016on2.html>
 
 ### 美国国税局局长：“我们要让所有家庭都开立特朗普儿童储蓄账户”
 
@@ -65,20 +61,42 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-07-16 13:48
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxPbnhBdllKR3IxR0N6Yzlkal9RQk9ueDdGM2JONXZtSHkwaEZORjZFMURzd1hCSFd6MURfbU56TUZ6TGF2UFUyNkhsZXJCNWxtSUxkT3FTV0VCV2tRamFMMEZ6NnhlWUlSSmV5Rmswd1QxYko4bUk3U21Xb1ZSUWkyWi13U3Z3Vkk?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxPc3R5cUhKYnR3NDFOMHRFWGhFWFFEOG45QmVlYTAyYU1DLUNRSVdvWGdmOG1iRkhMMHlpQ05GSGNBbGMyTlVRRWhveTdETUpxdEZ3dEJPR2tfXzBLWi1WNklZRmFlRXlqNURQbUVFNTduVzFZd21rOTFaUGZNa05MM3k4ZDl5SGRkZEg4aElvV0ZtTFBoY3JaOWZadDc?oc=5>
 
-### “特朗普金币”来了！面值1美元 计划今年秋季发行
+### 万斯承认：特朗普政府未能妥善处理爱泼斯坦案文件，“我们搞砸了”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-07-16 03:34
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTFB4MmNXOWM2M0pVZnZTamU0ZzdwMnpRZWVZbDlVckhRdm5EeVZWZGQ4OGJLdHBvYXpUT2Y0R0xNYi1NUmFlZ0dGdQ?oc=5>
+- 场馆: 中华网
+- 时间: 2026-07-16 05:35
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE96TlVudGU3TUpRZVZJUmlaLWxDOFluUGF0RmtGbjExazZtcllFLUdLOXpvN1NrbGhCNUptc0pPSzlVS2RXRW1RRU9EbzBjRlF0clN4OWN1UmlVUHJIMEFWWlYwallTTUF2WGphTVgwTUE?oc=5>
+
+### 担心特朗普全国演讲乱说话，共和党人：我们被吓得“屁滚尿流”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-07-16 13:20
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5MZ0ljeDJLcldHTnF2M3VkLTRFVWtXQUVacU9iVDEtX3NObW5iRGFZSC1Zd3ZqcEF3Y3NFd0pKS2RrdE1yc0FfUjVwTzM?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-16 15:28  (11 条)
+
+- **蔡徐坤** | 2026蔡徐坤澳门演唱会是什么时候 <https://k.sina.com.cn/article_7879923015_1d5ae154701901ffae.html>
+- **蔡徐坤** | 蔡徐坤Deadman演唱会，机械裂变大屏，激光矩阵打造暗黑舞台 <https://k.sina.com.cn/article_2495457342_m94bda83e053019ulq.html>
+- **周杰伦** | 昆凌为周杰伦宣传新专辑 晒出专辑上线时间倒计时 <https://k.sina.com.cn/article_7857201856_1d45362c0019087acq.html>
+- **周杰伦** | 时隔10年，重返广州！周杰伦广州演唱会审批通过 <https://k.sina.com.cn/article_1691507817_m64d25c6903301msyy.html>
+- **周杰伦** | 周杰伦2026演唱会广州站时间发布！ <https://k.sina.com.cn/article_1288429914_m4ccbe15a0330182qw.html>
+- **周杰伦** | 王俊凯和偶像周杰伦顶峰相见，演唱会想看榜前二！ <https://k.sina.com.cn/article_5876448064_m15e437b4003301quco.html>
+- **周杰伦** | 周杰伦为王俊凯新专辑提供了哪些支持？ <https://k.sina.com.cn/article_7879923118_1d5ae15ae06801nl0q.html>
+- **周杰伦** | 演唱会前排座位的价格一般是多少？ <https://k.sina.com.cn/article_7879776419_1d5abd8a3068016on2.html>
+- **特朗普** | 美国国税局局长：“我们要让所有家庭都开立特朗普儿童储蓄账户” <https://news.google.com/rss/articles/CBMinAFBVV95cUxPc3R5cUhKYnR3NDFOMHRFWGhFWFFEOG45QmVlYTAyYU1DLUNRSVdvWGdmOG1iRkhMMHlpQ05GSGNBbGMyTlVRRWhveTdETUpxdEZ3dEJPR2tfXzBLWi1WNklZRmFlRXlqNURQbUVFNTduVzFZd21rOTFaUGZNa05MM3k4ZDl5SGRkZEg4aElvV0ZtTFBoY3JaOWZadDc?oc=5>
+- **特朗普** | 万斯承认：特朗普政府未能妥善处理爱泼斯坦案文件，“我们搞砸了” <https://news.google.com/rss/articles/CBMicEFVX3lxTE96TlVudGU3TUpRZVZJUmlaLWxDOFluUGF0RmtGbjExazZtcllFLUdLOXpvN1NrbGhCNUptc0pPSzlVS2RXRW1RRU9EbzBjRlF0clN4OWN1UmlVUHJIMEFWWlYwallTTUF2WGphTVgwTUE?oc=5>
+- **特朗普** | 担心特朗普全国演讲乱说话，共和党人：我们被吓得“屁滚尿流” <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5MZ0ljeDJLcldHTnF2M3VkLTRFVWtXQUVacU9iVDEtX3NObW5iRGFZSC1Zd3ZqcEF3Y3NFd0pKS2RrdE1yc0FfUjVwTzM?oc=5>
 
 ### 2026-07-16 13:53  (10 条)
 
