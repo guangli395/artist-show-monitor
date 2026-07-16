@@ -1,86 +1,123 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-16 02:01**
-- 本轮扫到 6969 条, 新增 **9** 条
+- 最近更新: **2026-07-16 05:23**
+- 本轮扫到 6981 条, 新增 **12** 条
 
 ---
 
-## 本轮新发现 (9 条)
+## 本轮新发现 (12 条)
 
-### 时隔8年重返青岛！周杰伦演唱会青岛站定档，10月3日至5日连唱三天
+### 蔡徐坤《What A Day》掀起二创狂潮，一镜到底MV尽显多年厚积薄发的舞台掌控力
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_6042105161_m16823354903301f14o.html>
+
+### 周杰伦新专辑首支预热短片公开，网友直呼“终于等到你”
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1931238691_731c5d2301902dic0.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019086kvo.html>
 
-### 认错，我们搞砸了爱泼斯坦文件公布
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察
-- 时间: 2026-07-16 00:34
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBzY0t4ZVVKaWM3MHlHMVBBS0RwZ1l5NmxFbzdZNGtNMmR6Qm9Kdlk4ZDFaTTJNblViUkl6OEVmeWdPbXZGdGJpX1dfMHp0YTlMMVFlQW5oaDhYT2Q5VGpGOVgxT0lNVEJkSGc?oc=5>
-
-### 性侵案败诉，特朗普赔钱
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-07-16 00:56
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE0wcXlXR2diUDhCUUNTbzVkWVktTnVXTldEb0s1SzhUMW1ZLUlXYks5TndJelBKV1BBNkVxa3FxaTVCNDJhVjZMMmZpN0dTWVJtWjhIRzdsdmdvcm5MUmhyT2FkUU9hLXc5bkI5ajhVNWFuUlVM?oc=5>
-
-### 特朗普宣称将与伊拉克达成“庞大”的石油交易
+### 特朗普：对伊朗的打击将继续
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-14 17:25
-- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE9sczdKUEtheURvdXdUVHk0MVNnenRCWEtvN0VlZzl5OEdBNVU2dFlsMkttdkdPTWdQUVR0QTNXTnI2VVk4ZnpQVVdIbHNxSVB4WG9iTTNKbEZ3dE9QTGtlYWdHQ1p3dl9vYnRkOHdGOTNBTXZoeFh5TDVn?oc=5>
+- 时间: 2026-07-14 22:12
+- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxNdEpiWHVlQzZld01ONGliYUd2eTFkMWhqQkFrZlFSQV9jRVRlRjl3RjBKOU5ib0VaQ1Z6S3RvMU5tcjlxU182a1dOLU9xbHdaZURYcm82QnJFejlWdTVWZ3F2UXhWMEVLWkYxRjIxUTZ4Vlg3bFRaaVYtS0NnNGg3bVpDUHFNTG5vMzJGRXZJYW1tLUczYktranNyWFZiWkNJUFNlYVVEZ3lrTzE4V0lJTDRmRkZfd1IyYWY5R2NaWDlTclI5WDhHSjJ6MGFUOWs?oc=5>
 
-### 特朗普又来催降息，白宫官员称当前无理由加息
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网财经
-- 时间: 2026-07-16 00:23
-- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE9YSlN6OVh1Y2EyQi1PeGtsZVVtc0dBcU5SeGhKRUZKQ1ZhUklXRVdhalVGS2FmYXBjVTNXZ2pWNDVvSWNMWGhRYW1HRTNLaWY2?oc=5>
-
-### 美财政部将发行1美元特朗普金币 引发巨大争议
+### 特朗普：感谢伊朗
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-07-16 00:16
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZVTVieE8wMXJHZExuMUZHcGhjbEJ6SEdid21LWlVFWmZpbm1FdFhSM2NMQ1d6a0FKa19pZjJkMXExQ1ZxcGRWdmQ0WEotOHNpVHUzMmdmbmRjQlB0T2tCN3hnR1dUb09mZXcwNm44Sno?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-07-16 02:14
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1Hb0pqa08wSXhhVDNxc05hbVpscjF5bmQ0a0VKaGI3RWhRNkdtMDBHSnJLUzNXVll6Q19oQzNNY0Y2aHJLMFNER3EwOXo?oc=5>
 
-### 特朗普力挺移民与海关执法局调查执法
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 腾讯新闻
-- 时间: 2026-07-16 00:39
-- 链接: <https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3RW4yRjZybUY3aVBhRFpsR1pIZFdLc05sQjEtRkRkbTVsMzJsNkRLY3VzSUQ0ODFzLS1pQmdsUkdFOEV1QmhSVmNpX3k1V2R5OVp4bjhR?oc=5>
-
-### 特朗普：“感谢伊朗善意之举”
+### 纽约州叫停建设AI数据中心？特朗普怒喷：你们在白白丢掉“摇钱树”！
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪军事_手机新浪网
-- 时间: 2026-07-16 01:41
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE9IRE1GV2tFQ3dVTzd4MlVtRmd2QndZMDEwTGVoNldQWFdPOHc1ZVNRZ1RXTVdwU0dRelRSRzhXWHJXSWc1SlItOFJxS3lrd29pTDFqZ2M4SGxiUGk0d0d1R1RpT3VtX3FZb1FTR1BXNHM1OEE?oc=5>
+- 场馆: 财联社
+- 时间: 2026-07-16 00:01
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE5scU05MExoLUJVb2VJQ1JpaF9RWkR3OUR3ekFWbXpiY2NaRjcxaVVvQzNNY2c5QzdZalRBVkVEcUd2SDFKbVVpRw?oc=5>
 
-### 特朗普：伊朗允许一名被扣留美国公民离境，感谢伊朗善意之举
+### 特朗普“货币化”霍尔木兹海峡引发新风险
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-07-16 00:16
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE4tY0cwTHVkVksxM3Noa1ZiaGtLV1pUZEJmQVJMZDNpWGJDR3IzdDUyZTl6NjRDTWhuUEZZTWZrN2ExRHFRR2dwbDByc3EwLTBGVm5rRnh2U181T05QNk1DTXVGQ2hzc3Q4?oc=5>
+- 场馆: 纽约时报中文网
+- 时间: 2026-07-15 02:15
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE5DdUpKZjF0bnVkQ3V2OTZaSnhQTzRielJVemMxZ180S1ZjbEYtbTc4SHRXTHRscUNEQzl1TW5XRTJDcmlhajJMbklwWUVGQXNpXzZEWlFnWTNXMmRQRnhVbzQ3Z3hmZXVMNTVMd3JVckxTdw?oc=5>
+
+### “特朗普金币”来了！面值1美元 计划今年秋季发行
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 手机网易网
+- 时间: 2026-07-16 03:47
+- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE9EVTkyUDhiWVV3eDJJU3B2dG9DcGtaaTlnV191OU41YjNIdmprbGRQc0JNZFRHQjJlZ21SVGVEOG1tVkFSTWg4T25DbVh4RWRia1I1MG9mQk9nWHNLZ0Rlby1n?oc=5>
+
+### 皮尤研究：对中国有好感国家胜过美国，逾20年以来首次
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: BBC
+- 时间: 2026-07-16 03:30
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9RZ3hOMnFoVzVyNzNOeHZhVmdGZEJCRF9teV9BdFdEZG5nLTNlVjgzUFpGNTRWaHpveU5Kc3p6MDFIamFhX2FOYkx5UUh2M0lXVnJ3NE9NbDM1bTRhVjBnVjg3R2czUdIBa0FVX3lxTE1WVmNqbnR1SGk1TVpxQUVfZlJ3S3FrZmZUbFdPc0diTnFVRnl2ZkJVWU15TWdiU19BX1BHRGdwdnlRQU1XOEJpMVFNdk5nX293clFvM1dleFE0ZzB0NWVrSU5ldUItdU4tTjlv?oc=5>
+
+### 特朗普：伊朗释放一名被扣押超过一年半的美国女子
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 8world
+- 时间: 2026-07-16 02:11
+- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE9GUjhnTUt2RVZzMTZVVmhOQ3BadnBmeWNERHM0Zjh3LVhMaGgzSThwUU5LUUNoM3I5MlhXMlg0NktFZkRtYTdzb3NFWmlwN2EzNFA5Q09ZZmhsQkFKY0tCZ2gxOGw1YkEtTzhKZEJpR1RvUnBCYlo2RDVB?oc=5>
+
+### Trump：为增强美国海军将考察韩国企业……期待扩大造船合作- 阿视亚经济
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 아시아경제
+- 时间: 2026-07-16 02:00
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9MSDFzWXNkWnFkOS1yblRMWll0a2NSSnFpd2d1V0V1a1BtUGhxd3RHbF9GUkZZNkZ0TnZvNFltVC1KalVGVFYwbnNieGhCLWEtOEdUdjhUeTdtQzI3LVczVnlxOHE?oc=5>
+
+### 报道：特朗普全国讲话或披露中国干预总统选举情报
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 8world
+- 时间: 2026-07-16 04:24
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGZWVVRzh1VHlwRWpsZVNpd1A2cU80bVZUX3BDR2tfeFBXWHdKWnQxdHhBWEp1LUVpSFgwb2gwWGp2b3VxWlNCaWhQWXcwekItQkNhMVV3WTk4RkZCaWc?oc=5>
+
+### “印有我肖像的硬币，很可爱”……Trump金色1美元纪念币将发行- 阿视亚经济
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 아시아경제
+- 时间: 2026-07-15 23:39
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvc1dHQnNndXA0UHZnZ08yWkk5aFBlTkt0RXZUNkhPRVJ2VHRCZWtnV0g1bnNVYk9sNVg3SS1hT3JoTWlKU2J5M2JnUmZ1WUd6bjVaUHM1bWFzUzRUTDI1dlRsZWU?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-16 05:23  (12 条)
+
+- **蔡徐坤** | 蔡徐坤《What A Day》掀起二创狂潮，一镜到底MV尽显多年厚积薄发的舞台掌控力 <https://k.sina.com.cn/article_6042105161_m16823354903301f14o.html>
+- **周杰伦** | 周杰伦新专辑首支预热短片公开，网友直呼“终于等到你” <https://k.sina.com.cn/article_7857201856_1d45362c0019086kvo.html>
+- **特朗普** | 特朗普：对伊朗的打击将继续 <https://news.google.com/rss/articles/CBMizwFBVV95cUxNdEpiWHVlQzZld01ONGliYUd2eTFkMWhqQkFrZlFSQV9jRVRlRjl3RjBKOU5ib0VaQ1Z6S3RvMU5tcjlxU182a1dOLU9xbHdaZURYcm82QnJFejlWdTVWZ3F2UXhWMEVLWkYxRjIxUTZ4Vlg3bFRaaVYtS0NnNGg3bVpDUHFNTG5vMzJGRXZJYW1tLUczYktranNyWFZiWkNJUFNlYVVEZ3lrTzE4V0lJTDRmRkZfd1IyYWY5R2NaWDlTclI5WDhHSjJ6MGFUOWs?oc=5>
+- **特朗普** | 特朗普：感谢伊朗 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1Hb0pqa08wSXhhVDNxc05hbVpscjF5bmQ0a0VKaGI3RWhRNkdtMDBHSnJLUzNXVll6Q19oQzNNY0Y2aHJLMFNER3EwOXo?oc=5>
+- **特朗普** | 纽约州叫停建设AI数据中心？特朗普怒喷：你们在白白丢掉“摇钱树”！ <https://news.google.com/rss/articles/CBMiSEFVX3lxTE5scU05MExoLUJVb2VJQ1JpaF9RWkR3OUR3ekFWbXpiY2NaRjcxaVVvQzNNY2c5QzdZalRBVkVEcUd2SDFKbVVpRw?oc=5>
+- **特朗普** | 特朗普“货币化”霍尔木兹海峡引发新风险 <https://news.google.com/rss/articles/CBMickFVX3lxTE5DdUpKZjF0bnVkQ3V2OTZaSnhQTzRielJVemMxZ180S1ZjbEYtbTc4SHRXTHRscUNEQzl1TW5XRTJDcmlhajJMbklwWUVGQXNpXzZEWlFnWTNXMmRQRnhVbzQ3Z3hmZXVMNTVMd3JVckxTdw?oc=5>
+- **特朗普** | “特朗普金币”来了！面值1美元 计划今年秋季发行 <https://news.google.com/rss/articles/CBMiYkFVX3lxTE9EVTkyUDhiWVV3eDJJU3B2dG9DcGtaaTlnV191OU41YjNIdmprbGRQc0JNZFRHQjJlZ21SVGVEOG1tVkFSTWg4T25DbVh4RWRia1I1MG9mQk9nWHNLZ0Rlby1n?oc=5>
+- **Trump** | 皮尤研究：对中国有好感国家胜过美国，逾20年以来首次 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9RZ3hOMnFoVzVyNzNOeHZhVmdGZEJCRF9teV9BdFdEZG5nLTNlVjgzUFpGNTRWaHpveU5Kc3p6MDFIamFhX2FOYkx5UUh2M0lXVnJ3NE9NbDM1bTRhVjBnVjg3R2czUdIBa0FVX3lxTE1WVmNqbnR1SGk1TVpxQUVfZlJ3S3FrZmZUbFdPc0diTnFVRnl2ZkJVWU15TWdiU19BX1BHRGdwdnlRQU1XOEJpMVFNdk5nX293clFvM1dleFE0ZzB0NWVrSU5ldUItdU4tTjlv?oc=5>
+- **Trump** | 特朗普：伊朗释放一名被扣押超过一年半的美国女子 <https://news.google.com/rss/articles/CBMiekFVX3lxTE9GUjhnTUt2RVZzMTZVVmhOQ3BadnBmeWNERHM0Zjh3LVhMaGgzSThwUU5LUUNoM3I5MlhXMlg0NktFZkRtYTdzb3NFWmlwN2EzNFA5Q09ZZmhsQkFKY0tCZ2gxOGw1YkEtTzhKZEJpR1RvUnBCYlo2RDVB?oc=5>
+- **Trump** | Trump：为增强美国海军将考察韩国企业……期待扩大造船合作- 阿视亚经济 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9MSDFzWXNkWnFkOS1yblRMWll0a2NSSnFpd2d1V0V1a1BtUGhxd3RHbF9GUkZZNkZ0TnZvNFltVC1KalVGVFYwbnNieGhCLWEtOEdUdjhUeTdtQzI3LVczVnlxOHE?oc=5>
+- **Trump** | 报道：特朗普全国讲话或披露中国干预总统选举情报 <https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGZWVVRzh1VHlwRWpsZVNpd1A2cU80bVZUX3BDR2tfeFBXWHdKWnQxdHhBWEp1LUVpSFgwb2gwWGp2b3VxWlNCaWhQWXcwekItQkNhMVV3WTk4RkZCaWc?oc=5>
+- **Trump** | “印有我肖像的硬币，很可爱”……Trump金色1美元纪念币将发行- 阿视亚经济 <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvc1dHQnNndXA0UHZnZ08yWkk5aFBlTkt0RXZUNkhPRVJ2VHRCZWtnV0g1bnNVYk9sNVg3SS1hT3JoTWlKU2J5M2JnUmZ1WUd6bjVaUHM1bWFzUzRUTDI1dlRsZWU?oc=5>
 
 ### 2026-07-16 02:01  (9 条)
 
