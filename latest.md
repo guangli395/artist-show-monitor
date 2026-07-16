@@ -1,64 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-16 20:51**
-- 本轮扫到 7066 条, 新增 **6** 条
+- 最近更新: **2026-07-16 21:59**
+- 本轮扫到 7070 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (4 条)
 
-### 美国商品期货交易委员会调查白宫提词器操作员 涉特朗普演讲押注获利
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-16 19:52
-- 链接: <https://news.google.com/rss/articles/CBMi_wFBVV95cUxQMTJHZERNOHljWVdIMXpMVWxYM045S3Uwa0dBbVk0YU1leFpOV0wxQ1ZfcURSUDcyTUN2Y1d3X1prd0FaNGQ5MHE5VEZfd1ZIMUVrbUdUSU14LVVsSjlzU2ZUM2xyVU1PRi1hd1JFdWhRbzhLOXZVVGhSdmtNSXl2S0ZNRUlfMXBXYmplU0VSaTVLX3JpUzBhSnh4QURyamNEYXhpNEF2R296X0hQcHZyeXJKV2haeDVjQzFrRE5ZT2NRUHBDR2VkNXFGQjBYMVFsbHNTWlNTd0lsTWsxYVdJZm8xMTVuZjJYdHh0cklxY0swTl83cUdXRXhibVFTX1k?oc=5>
-
-### 特朗普与共和党坐拥11亿美元资金备战中期选举 规模达民主党阵营3倍多
+### 涉利用特朗普演说内幕下注，白宫读稿机操作员获利10万元停职受查
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-16 20:34
-- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxNNVBxZ2hfQjRkSXRobFZlWVRCVVNJT3lWcks3bUY5T3A4aDVXOFhJLUJyQjJhUFd1RXZSMGNGNEc0c3Yyd1RaMlA5ZFVpZGxDM1UxWTUxdW1CY1BkMnp2NGdtQkZ5ZE1qeHN5Z0dMQWJPeGMwOTNHdnYwdkh2RnJNUkM1RWFsbWpzemc?oc=5>
+- 场馆: BBC
+- 时间: 2026-07-16 20:59
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5xZ050akpkMFpxS0JFYnBlN0djSUJLZFgtVWJmdEYzZGRSNTMtS2c0MzhxSGlVT2RIazhMOE45MEl6cFlXWHkyaURCeWpnb2VTbk5yajFDaHpiOXh0eVhEVWtjZVBKUdIBa0FVX3lxTE5WOWdqMzVYSDMtZnF4NG8yV3k0VGRCSVVFTnlXYmlkVnI3OG53X2tLaU9mRzV0VTdVU1BSZFM2ZGxWOHdXX1pPbnBEbTA4cTNHRkhER3BFMjVtWTFDemxMbzMzVlhYenVFMU1B?oc=5>
 
-### 美财长：将铸造印有特朗普头像的1美元硬币-观察者网
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察
-- 时间: 2026-07-16 01:36
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5fZmJ2QksxbUFBanhmU3Vxd1FOcjNsOVpQRGNfeVRaWVZYV1hKTF9VOGtyNHFhRXJLSDFFNkVua3M2aHhLeG9XbkE3ajhtWkhMS3pGUHh2Rzd0NkFNaHpoZ0hvZXlrMmdOUlE?oc=5>
-
-### 特朗普头像将被印上硬币，面值1美元
+### 特朗普将就选举公正性发表全国讲话
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网财经
-- 时间: 2026-07-16 11:40
-- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE1mczhXYlpOcmVrNWF2elF4ck1fbGV2d05JWUVCMk9fWHpWbl9jTU1wbHZGREVrd01hV1JwamdGeEdydWNyOTVoc3ctVWY4RnhX?oc=5>
-
-### 特朗普1美元硬币将投入生产 预计今年秋季发行
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-07-16 00:26
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9xb1JISlZSRmNLSWNNYUp3MFJIcXZFeVAzQW9GclNoQkMzN2swTGtzTHl2WGRkejJjY0lWVktuZ3JCVFJHam4yQl9SQW0wdEQwZnlRUTZDbFVUUmJ0WkJtWkU4SjR1dw?oc=5>
+- 场馆: RFI
+- 时间: 2026-07-16 21:07
+- 链接: <https://news.google.com/rss/articles/CBMinwJBVV95cUxQdFBpaHBHNWxCa2dWbTdpLXVwQ2xEamxEd1h3NDg1Z2pGUnRhUEdCazN6TzNMcTdCMENYbVBBNWUtdVYycFlvYnZjSk1jNzdwV1hLZ1lOOHV4R2h0Q1J3blZFY3ZQZ014U2FLbHN2ckZqdElpVjZ2dFp0M1JpaXdwYUJTUWFuenhjYlVqMTR4R2hOSzNuVGNCOF9ucXdSS0FMQnVjQTRCaFZtWHUzblRQa1JLZVVvMl9pSUE2UE81M3BEdjgySU5mTjU0Zk5wOU5rSFdXUGtwdkp5RUNHWGlRS3h0S0Jhc0FJX18wVm1fd3p4dUpsQkFBWEtWaTRRZUZZaVF1UmE2bjVaMzlwVGdZUlBEd0xrOWR3MUxHVmVrQQ?oc=5>
 
 ### 特朗普定于今晚发表聚焦选举的全国讲话
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-16 17:21
-- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE9ZQ09qRVJUbmNLQWVGUUhhX3RxQUJ6XzFveDJSSlBSTnFGcW9heVZCXzVGclJ2WmdqalNzeHZudkFZekRkLUZSWjhtWFEyeEI3NzY4NGZYV1RKeFl0anA3eEx0M2hiTFd3dnpxeUlYcnRGNFJ0Ykw3UDZB?oc=5>
+- 时间: 2026-07-16 21:02
+- 链接: <https://news.google.com/rss/articles/CBMiqAJBVV95cUxPU2lhT1hoTlhSWVZRQnJwNUtFMHVZT0o0WkZRUlptU3VXTElVY1BZNTBpYkY1dllVVGUwVG9uOE9RcWtrc0lUQlUwZXFFUGhIbmd2NkljVHkwaFcwMDJaVFVLWlNhb2w3TWx6R3NwTDdfVURCSEdNN0xCRjk0YjdXQUxmMlRaX1h6UFRKVjUxOExQRXRzNTN5UzZvMk56MERwNllhY0Z4MVRFNFA4QWxxZVR3VlNqS01fTUpobC04NFhDTXVfQnBRV3Rfb2pjMURicXpYVkFycmlSbzFfa3Eya3R2cWRySC1INEk2NF9wQTFZRkgzeTlWckRxM2hsTkFLdGxKX1NoVkg5bDB0LUR0UDJOTnlPNzhEUmZjYXJsUS1wM0tBSUlCQg?oc=5>
+
+### 白宫：冲突加剧之际，伊朗正与美国进行对话
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-07-16 20:53
+- 链接: <https://news.google.com/rss/articles/CBMirgFBVV95cUxOV3Q3NDR4T1Rva2FjZGlGNWVGbElDQy1TLXdKTUtUTk51dTdoenZ3RlYyM19ZQmlFSEM5S3p3d1IyMnlQT09QdV9QUmZFbTFrVHlBWFo1cFN4T3ZsbnIxdDhZWktNX2RmYTdaZzNiNFZXbktPSHNIQloteHE4aG52bWZBbkFMWjNxU1RyM0xIMFBxbHlNT3VQYjVCMlFBRmd0aWdpNThrcnBwWERHYnfSAbABQVVfeXFMTTgzLXZCRjVtU3A3TUpMNjlSa00yclJKdFMxLVpKN3FSSTBxNk9pSlROS182MmxtNHpNNGRFZkVOX2pnbDJQS2gxNXVRcXR6LURNRTkyQzFtZFF3SG02V2hNNHRsRFRieWV0TFM5cENaWEZ6VWV3Yl96aF92cEZKOUt5b0hiOHRhQ0tvUjdFVWdhazdwQ0tzYm5CWkxQSE9SUFdLazlJeUM0MWNPVk5qLUI?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-16 21:59  (4 条)
+
+- **特朗普** | 涉利用特朗普演说内幕下注，白宫读稿机操作员获利10万元停职受查 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5xZ050akpkMFpxS0JFYnBlN0djSUJLZFgtVWJmdEYzZGRSNTMtS2c0MzhxSGlVT2RIazhMOE45MEl6cFlXWHkyaURCeWpnb2VTbk5yajFDaHpiOXh0eVhEVWtjZVBKUdIBa0FVX3lxTE5WOWdqMzVYSDMtZnF4NG8yV3k0VGRCSVVFTnlXYmlkVnI3OG53X2tLaU9mRzV0VTdVU1BSZFM2ZGxWOHdXX1pPbnBEbTA4cTNHRkhER3BFMjVtWTFDemxMbzMzVlhYenVFMU1B?oc=5>
+- **特朗普** | 特朗普将就选举公正性发表全国讲话 <https://news.google.com/rss/articles/CBMinwJBVV95cUxQdFBpaHBHNWxCa2dWbTdpLXVwQ2xEamxEd1h3NDg1Z2pGUnRhUEdCazN6TzNMcTdCMENYbVBBNWUtdVYycFlvYnZjSk1jNzdwV1hLZ1lOOHV4R2h0Q1J3blZFY3ZQZ014U2FLbHN2ckZqdElpVjZ2dFp0M1JpaXdwYUJTUWFuenhjYlVqMTR4R2hOSzNuVGNCOF9ucXdSS0FMQnVjQTRCaFZtWHUzblRQa1JLZVVvMl9pSUE2UE81M3BEdjgySU5mTjU0Zk5wOU5rSFdXUGtwdkp5RUNHWGlRS3h0S0Jhc0FJX18wVm1fd3p4dUpsQkFBWEtWaTRRZUZZaVF1UmE2bjVaMzlwVGdZUlBEd0xrOWR3MUxHVmVrQQ?oc=5>
+- **特朗普** | 特朗普定于今晚发表聚焦选举的全国讲话 <https://news.google.com/rss/articles/CBMiqAJBVV95cUxPU2lhT1hoTlhSWVZRQnJwNUtFMHVZT0o0WkZRUlptU3VXTElVY1BZNTBpYkY1dllVVGUwVG9uOE9RcWtrc0lUQlUwZXFFUGhIbmd2NkljVHkwaFcwMDJaVFVLWlNhb2w3TWx6R3NwTDdfVURCSEdNN0xCRjk0YjdXQUxmMlRaX1h6UFRKVjUxOExQRXRzNTN5UzZvMk56MERwNllhY0Z4MVRFNFA4QWxxZVR3VlNqS01fTUpobC04NFhDTXVfQnBRV3Rfb2pjMURicXpYVkFycmlSbzFfa3Eya3R2cWRySC1INEk2NF9wQTFZRkgzeTlWckRxM2hsTkFLdGxKX1NoVkg5bDB0LUR0UDJOTnlPNzhEUmZjYXJsUS1wM0tBSUlCQg?oc=5>
+- **Trump** | 白宫：冲突加剧之际，伊朗正与美国进行对话 <https://news.google.com/rss/articles/CBMirgFBVV95cUxOV3Q3NDR4T1Rva2FjZGlGNWVGbElDQy1TLXdKTUtUTk51dTdoenZ3RlYyM19ZQmlFSEM5S3p3d1IyMnlQT09QdV9QUmZFbTFrVHlBWFo1cFN4T3ZsbnIxdDhZWktNX2RmYTdaZzNiNFZXbktPSHNIQloteHE4aG52bWZBbkFMWjNxU1RyM0xIMFBxbHlNT3VQYjVCMlFBRmd0aWdpNThrcnBwWERHYnfSAbABQVVfeXFMTTgzLXZCRjVtU3A3TUpMNjlSa00yclJKdFMxLVpKN3FSSTBxNk9pSlROS182MmxtNHpNNGRFZkVOX2pnbDJQS2gxNXVRcXR6LURNRTkyQzFtZFF3SG02V2hNNHRsRFRieWV0TFM5cENaWEZ6VWV3Yl96aF92cEZKOUt5b0hiOHRhQ0tvUjdFVWdhazdwQ0tzYm5CWkxQSE9SUFdLazlJeUM0MWNPVk5qLUI?oc=5>
 
 ### 2026-07-16 20:51  (6 条)
 
