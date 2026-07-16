@@ -1,25 +1,51 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-16 19:39**
-- 本轮扫到 7060 条, 新增 **5** 条
+- 最近更新: **2026-07-16 20:51**
+- 本轮扫到 7066 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (5 条)
-
-### 时隔10年，周杰伦将在广州开演唱会
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://finance.sina.com.cn/wm/2026-07-16/doc-inihyuqa4468990.shtml>
+## 本轮新发现 (6 条)
 
 ### 美国商品期货交易委员会调查白宫提词器操作员 涉特朗普演讲押注获利
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-16 19:38
-- 链接: <https://news.google.com/rss/articles/CBMipwJBVV95cUxNT0RkWGpXdDhqZmZjLWpGZkhBWFludWhWVUloMmFfOEF3cnRuVzJQYkVKeTI0MEdiV2pFSjgyaG9QdjBjLUdnTWtrb2NVQnRWb3lUYzYtdjhvNnotekl5YWc1QVJ5bDFzZGZwV0IxTjFIeUlqTl8yaFlzX1FKTGFpei1MbTdJV3VQUlU1V1M3QU9mNDVOMUVmb0IxRjJZX25VdDN0Z0NaUmd6ZW1tdG9SbHd6MjNHeEdKWjhsQXhnT1E3SE53NEJDUnh2M2FCX1VqTEZVVGhoTkpYR3N1Q3BrcDFTajVhRUxteTFFMUx0ck51bEpzMUtpYUQ2U2ZadHEwSmtCRXVERlF0QjAtVm1rMVpZVGZEZjJYT2hwVUw0ZnJ4cy1KT1hz?oc=5>
+- 时间: 2026-07-16 19:52
+- 链接: <https://news.google.com/rss/articles/CBMi_wFBVV95cUxQMTJHZERNOHljWVdIMXpMVWxYM045S3Uwa0dBbVk0YU1leFpOV0wxQ1ZfcURSUDcyTUN2Y1d3X1prd0FaNGQ5MHE5VEZfd1ZIMUVrbUdUSU14LVVsSjlzU2ZUM2xyVU1PRi1hd1JFdWhRbzhLOXZVVGhSdmtNSXl2S0ZNRUlfMXBXYmplU0VSaTVLX3JpUzBhSnh4QURyamNEYXhpNEF2R296X0hQcHZyeXJKV2haeDVjQzFrRE5ZT2NRUHBDR2VkNXFGQjBYMVFsbHNTWlNTd0lsTWsxYVdJZm8xMTVuZjJYdHh0cklxY0swTl83cUdXRXhibVFTX1k?oc=5>
+
+### 特朗普与共和党坐拥11亿美元资金备战中期选举 规模达民主党阵营3倍多
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-16 20:34
+- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxNNVBxZ2hfQjRkSXRobFZlWVRCVVNJT3lWcks3bUY5T3A4aDVXOFhJLUJyQjJhUFd1RXZSMGNGNEc0c3Yyd1RaMlA5ZFVpZGxDM1UxWTUxdW1CY1BkMnp2NGdtQkZ5ZE1qeHN5Z0dMQWJPeGMwOTNHdnYwdkh2RnJNUkM1RWFsbWpzemc?oc=5>
+
+### 美财长：将铸造印有特朗普头像的1美元硬币-观察者网
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察
+- 时间: 2026-07-16 01:36
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5fZmJ2QksxbUFBanhmU3Vxd1FOcjNsOVpQRGNfeVRaWVZYV1hKTF9VOGtyNHFhRXJLSDFFNkVua3M2aHhLeG9XbkE3ajhtWkhMS3pGUHh2Rzd0NkFNaHpoZ0hvZXlrMmdOUlE?oc=5>
+
+### 特朗普头像将被印上硬币，面值1美元
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网财经
+- 时间: 2026-07-16 11:40
+- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE1mczhXYlpOcmVrNWF2elF4ck1fbGV2d05JWUVCMk9fWHpWbl9jTU1wbHZGREVrd01hV1JwamdGeEdydWNyOTVoc3ctVWY4RnhX?oc=5>
+
+### 特朗普1美元硬币将投入生产 预计今年秋季发行
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-07-16 00:26
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9xb1JISlZSRmNLSWNNYUp3MFJIcXZFeVAzQW9GclNoQkMzN2swTGtzTHl2WGRkejJjY0lWVktuZ3JCVFJHam4yQl9SQW0wdEQwZnlRUTZDbFVUUmJ0WkJtWkU4SjR1dw?oc=5>
 
 ### 特朗普定于今晚发表聚焦选举的全国讲话
 
@@ -27,28 +53,21 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-07-16 17:21
-- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxObmplWUZFbk5fQThmUnlYU3FxU2p2cURmSnJNd2kxcmRjSngwclRmc1EyNjMyNVg1RmhIY25ieHlQLUt4bWVlbmVDSkhNNlNhdElfdk1sTXQtSUJRbnd0ZHlZNUxnNDZaVTlPYU5zQmcwYlNsXy1KVnVYOFVyN0pOLUtyT0c0eVRTQWVuUTdFamh5UG12Qy05U1EtWFRqWlduZFZILW1aczdRbVk4dE01UXRUMWMxemxzc2FyWUhpWmp2UlNqOTRIRzVHcjBuQXdYSFE?oc=5>
-
-### 世界杯决赛：特朗普将前往观赛
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-07-16 18:08
-- 链接: <https://news.google.com/rss/articles/CBMi_AFBVV95cUxQUzBZZ21TQlQteEZOMjQtSlU3WjdYTTZJVmZGY3ZCbUNFdm9QUTIzQnVQWm1XaVE5ZkN3dktJRmJpaUxseWJlblpWRXhFZ1RlcVdGS0pvdmpMdWJ4SGZIMHZJdFl5TGRmRGVrbjNtcEpXeGtEZVBuOWEwamZ1Y2RNLWloYUEyODFiOFF0RnpieVNMcGN5aUQ1T1VRMmNDVWFMUWkyQmNCSk4xaGVqeDJaQktzYXdteG9yMnhVMGlKNkhFUVN6M2luWGJSNHlQM1FNa01NYnctbk1adU9NZXNSQTZfWkZGNTJHdll6NURxUDdzUUpCQmo1dk9oSkM?oc=5>
-
-### 特朗普定于今晚发表聚焦选举的全国讲话
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-16 18:00
-- 链接: <https://news.google.com/rss/articles/CBMimgJBVV95cUxOS1p0SWR3OWJsVklOS2poSmxEVjlxZTI5cjVvSHNCM2U2RmZkNmdNT0YwTHkwU2w4VWVwOGEzTW1iUWswVUpjZ1FnYjNfMGpnVGtPOUJOZW9BMGxZWl92Yk53ZzFmVVA0VFoxdE5pQ3VrWkUtLWdmVE82ZHFQcThiZlFzdXB0dGRzOXp2emtLcDhlZE1iXzZ5ZjRPeGFsUzFiSWhaUUFqNzVTc25nWV9zUWNtNEJzbVhEeUNnemw2dFAtNFU1YmpwMG1SekpzN1pMMC1HVUllRUhGYjJENkhBR1J4U05UcGRQd3lJcFBKOHJXZG9YZTVITlVMNkVJREJya1p3d0Q1Z0xoTDR5WmYyWmVLbVVDczZ5U3c?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE9ZQ09qRVJUbmNLQWVGUUhhX3RxQUJ6XzFveDJSSlBSTnFGcW9heVZCXzVGclJ2WmdqalNzeHZudkFZekRkLUZSWjhtWFEyeEI3NzY4NGZYV1RKeFl0anA3eEx0M2hiTFd3dnpxeUlYcnRGNFJ0Ykw3UDZB?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-16 20:51  (6 条)
+
+- **特朗普** | 美国商品期货交易委员会调查白宫提词器操作员 涉特朗普演讲押注获利 <https://news.google.com/rss/articles/CBMi_wFBVV95cUxQMTJHZERNOHljWVdIMXpMVWxYM045S3Uwa0dBbVk0YU1leFpOV0wxQ1ZfcURSUDcyTUN2Y1d3X1prd0FaNGQ5MHE5VEZfd1ZIMUVrbUdUSU14LVVsSjlzU2ZUM2xyVU1PRi1hd1JFdWhRbzhLOXZVVGhSdmtNSXl2S0ZNRUlfMXBXYmplU0VSaTVLX3JpUzBhSnh4QURyamNEYXhpNEF2R296X0hQcHZyeXJKV2haeDVjQzFrRE5ZT2NRUHBDR2VkNXFGQjBYMVFsbHNTWlNTd0lsTWsxYVdJZm8xMTVuZjJYdHh0cklxY0swTl83cUdXRXhibVFTX1k?oc=5>
+- **特朗普** | 特朗普与共和党坐拥11亿美元资金备战中期选举 规模达民主党阵营3倍多 <https://news.google.com/rss/articles/CBMiigFBVV95cUxNNVBxZ2hfQjRkSXRobFZlWVRCVVNJT3lWcks3bUY5T3A4aDVXOFhJLUJyQjJhUFd1RXZSMGNGNEc0c3Yyd1RaMlA5ZFVpZGxDM1UxWTUxdW1CY1BkMnp2NGdtQkZ5ZE1qeHN5Z0dMQWJPeGMwOTNHdnYwdkh2RnJNUkM1RWFsbWpzemc?oc=5>
+- **特朗普** | 美财长：将铸造印有特朗普头像的1美元硬币-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE5fZmJ2QksxbUFBanhmU3Vxd1FOcjNsOVpQRGNfeVRaWVZYV1hKTF9VOGtyNHFhRXJLSDFFNkVua3M2aHhLeG9XbkE3ajhtWkhMS3pGUHh2Rzd0NkFNaHpoZ0hvZXlrMmdOUlE?oc=5>
+- **特朗普** | 特朗普头像将被印上硬币，面值1美元 <https://news.google.com/rss/articles/CBMiUEFVX3lxTE1mczhXYlpOcmVrNWF2elF4ck1fbGV2d05JWUVCMk9fWHpWbl9jTU1wbHZGREVrd01hV1JwamdGeEdydWNyOTVoc3ctVWY4RnhX?oc=5>
+- **特朗普** | 特朗普1美元硬币将投入生产 预计今年秋季发行 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9xb1JISlZSRmNLSWNNYUp3MFJIcXZFeVAzQW9GclNoQkMzN2swTGtzTHl2WGRkejJjY0lWVktuZ3JCVFJHam4yQl9SQW0wdEQwZnlRUTZDbFVUUmJ0WkJtWkU4SjR1dw?oc=5>
+- **特朗普** | 特朗普定于今晚发表聚焦选举的全国讲话 <https://news.google.com/rss/articles/CBMiekFVX3lxTE9ZQ09qRVJUbmNLQWVGUUhhX3RxQUJ6XzFveDJSSlBSTnFGcW9heVZCXzVGclJ2WmdqalNzeHZudkFZekRkLUZSWjhtWFEyeEI3NzY4NGZYV1RKeFl0anA3eEx0M2hiTFd3dnpxeUlYcnRGNFJ0Ykw3UDZB?oc=5>
 
 ### 2026-07-16 19:39  (5 条)
 
