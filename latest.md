@@ -1,106 +1,97 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-16 11:58**
-- 本轮扫到 7017 条, 新增 **13** 条
+- 最近更新: **2026-07-16 13:53**
+- 本轮扫到 7027 条, 新增 **10** 条
 
 ---
 
-## 本轮新发现 (13 条)
+## 本轮新发现 (10 条)
 
-### 期待蔡徐坤新的巡演能来河南 IKUN们在河南等你…
+### 新浪演唱会热点小时报丨2026年07月16日20时_今日实时演唱会热点速递
 
-- 艺人/关键词: **蔡徐坤**
+- 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1733763180_m6757206c03301chus.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c00190874pq.html>
+
+### 王俊凯和周杰伦在长沙演唱会上合唱了哪首歌？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923102_1d5ae159e06801e2xe.html>
+
+### 王俊凯新专辑《WJK》命名如何致敬周杰伦？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923108_1d5ae15a406801g2to.html>
 
 ### 王俊凯广州演唱会倒计时1个月
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6380644334_m17c50e7ee03301b29y.html>
+- 链接: <https://video.sina.com.cn/p/finance/2026-07-16/detail-inihzfcz8171706.d.html>
 
-### 新浪演唱会热点小时报丨2026年07月16日18时_今日实时演唱会热点速递
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019086zis.html>
-
-### 周杰伦广州演唱会官宣！主题时光机，距上次广州专场已10年
+### 周杰伦要来广州了！还有这些演唱会即将开唱
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2131593523_7f0d893301901o7i0.html>
+- 链接: <https://finance.sina.com.cn/roll/2026-07-16/doc-inihzfcu7673416.shtml>
 
-### 新歌声：要是没点实力，谁敢翻唱《小苹果》啊，导师必须转身！
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7480986512_m1bde6cb9000101829w.html>
-
-### 王俊凯广州演唱会审批通过
+### 就在天体！周杰伦广州演唱会审批通过
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2756869861_a4527ee50400145pc.html>
+- 链接: <https://video.sina.com.cn/p/finance/2026-07-16/detail-inihyuqe1319139.d.html>
 
-### 周杰伦王俊凯演唱会想看榜破百万纪录有多快？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923111_1d5ae15a706801ci8o.html>
-
-### 深埋百米、尚未启用、内部成谜：特朗普要炸伊朗核计划“保险箱”？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-07-16 11:45
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE96NGY4UGVPTFI1UUpMMWRsNGVpd1dZYWJXYmlLajR3aXZPaV9DNHNveGI3R1ZweFlVRnEzZUxJbjBWeXQwVDVoRVFsRWxHNVVmem5tcktnYUE3dFpVUjB1Z1paZ2NaRnpaakNCSGlSTnY?oc=5>
-
-### 特朗普对伊朗发狠沙特参战，美伊多条战线全在激烈交火
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-07-16 11:34
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1OWl9tQzFHU0t6NWJ3eXlUMXVRVjRwUkVaVjZFZlZwdFprMk12a1l1ekJnN0RUNlZtRXF5R2VkYVRwSHN6TzZ1OUR2RFJ1SElGcy1KZmZYajBrVlZnbUZkNTEzUzlFb0Q4dGdOalNaaXBsZk0?oc=5>
-
-### 伊朗就霍尔木兹海峡划出红线警告美国：若特朗普实施打击威胁，伊朗必将反击
+### 美联储主席沃什强调自身独立性 称已“多次”告知特朗普这一点
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-16 09:39
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxONVVacnhNOEwtZ0ZKV1RKUEFrY3dqR1NjenZHcUh3UWVJLTRFS3N4ZVVhVFVRYmdkOHNCQnZjWjFrcUN1MWlHZFFWalYtZ2lWeG9VdFhqcVYtYTZHRmRCcV9Cd3I4amd4V0dyUFRzM1JReW54OVRqS1JfUEZFamtNVDd4RlFfWXIwOGZYV3g1TW5EeGlUZW1GZlhBRmU3ZGk3M2YtLXJGOEFpWnNrWXRhUk1VRWJMWUIyUFFWdmRtenhRWmlWUnFDRGdBNWdlR2lQRHhwR0NlMzVjZUFmbHF3?oc=5>
+- 时间: 2026-07-16 13:20
+- 链接: <https://news.google.com/rss/articles/CBMikwJBVV95cUxQOE9URTZFYmQ4bUltUnJfSTVtVlliTHFzbnhVVzRuOHZOTDBjemFmYV9NZUJOLXNyZEwwWTIzUE5RLTdBT1dabno0a0dDNFhRanZrMGNrVy0zSUs0T3ROTkdoVmhKbG1zWnJ6ZGhXOXFRZVdpUkRhSk9HRmpiRm9wb1BpcW50bzVoQ3FEaURhaEt0a0xsSzBTMHdQRWtybFREMlhQLU5tWVRndHBRWUZGV3NWQVhORWZwcjlkME04QlZmcHkxcFhSVWhsNHlwU2g0dnJFSF9hc1p2SFhGV3R0SDNkUTFWMm5aU2RWTWJDTXE3R2Zjb1ZtZlB4YmJackZaTEdCS18xa0V3TFpiZUFpNUR2bw?oc=5>
 
-### 特朗普公开回应被列入“暗杀名单”
+### 团队有声音担心中方视缄默为索取更多让步契机 美贸易代表指9月特习会多为盘点进展
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-07-16 10:30
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1mVjAtVTFJRnNITFhoNmh2aWxqZlM3LWMtMlAzTkdNX1VZVThQeGRmVWhZWmgzNnBxUTFaejhId2MxdGd4c1VocGdlX2RVMU95WTk1dUExNjV0OUxhRXptR3pzX2E?oc=5>
+- 场馆: RFI
+- 时间: 2026-07-16 12:56
+- 链接: <https://news.google.com/rss/articles/CBMingRBVV95cUxPejFtQVRxXzQxV3RxTnpqSnhkaDVyMFBrZ3AyTTB1QXUzdlJEbHh1alZmQU1RZ2hZZHhzdlhvMUtkczFWWnFNNjl2ZkFXU0NVcURIQ3pnbXhNWGc4QVFsYjFyVmEzZU9mQ1pyMnNXdk55RGdKRW1EQkpPU25PM0xSM2VYRjVzTlRXQkkxYmNCOHBHM3QtZnNDaFdibEhBWE5YSlJlTEpobzlsVXA0SklyZlljaEpDczVhXzljV1I4VkRSWnBJQldwRE16NXl1UU5MY0dGaFFneWRlb1A5RmNISjZSdnQ4UFJrNmh6MGVNZzNXY2ZtRXlUOV92ZF9qR24ybnJsbnF6NVFrd3FHUHBQUkRzNnZ5d1RIR280S1hXM1cwSVczNTNsMDhUTzMyc3AtY1U5VXZKSktiak04QnZJWFB1OUIyUHpzVklfYmpiMllnMVNaZ3JLbHJOb2hsM3RyQ1g2QnBETTBIQmFsQkhZcVczSVpKQTEtVjNZYnlwbG5MOWIxUXBFUW51bFpvb2lURzZpRXJPallHWlRxZUJoWTJwNU53MVFBVHJFMFB5b1JMeThJN000SDk5b254X3h4RFB4MnRkQ1dVUkk4YS11ZmJ6R3I4RXNzWURudlhxMnBjRVBCaThPR1VSQ0VINDNkUWhBMHlPa0VvN2o3dVJjel9kbHYtd29JWm9ONVloQm84MEVweHA5WFdOYWxDQQ?oc=5>
 
-### Senator Urges Trump Administration to Review Canada's Lawful-Access Bill
+### 美国国税局局长：“我们要让所有家庭都开立特朗普儿童储蓄账户”
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 富途牛牛
-- 时间: 2026-07-16 10:30
-- 链接: <https://news.google.com/rss/articles/CBMiqAFBVV95cUxOanlscUdJYk8xVXRTQXR2RjRfZ3dkMUxJdUFNZjNuQjFSTUVhTGQ5d2NWOHdNa2hJUkJJZkN6R05vV3VadlNEbXpod09tbUhhdE8wMlpoYVkwN1JPUzQwLVBPMnVqdmUxWGdDOTZqTFlweXlnQmtQWG0yWXhNMV9ia3o3UENLSXcxUnViTzFhdmFpbjRrcmJ1MVBMS0lfRjlpelU0amxOUHE?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-07-16 13:48
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxPbnhBdllKR3IxR0N6Yzlkal9RQk9ueDdGM2JONXZtSHkwaEZORjZFMURzd1hCSFd6MURfbU56TUZ6TGF2UFUyNkhsZXJCNWxtSUxkT3FTV0VCV2tRamFMMEZ6NnhlWUlSSmV5Rmswd1QxYko4bUk3U21Xb1ZSUWkyWi13U3Z3Vkk?oc=5>
 
-### 琴久 (@Square-Creator-ddc67b0f2664)的见解
+### “特朗普金币”来了！面值1美元 计划今年秋季发行
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Binance
-- 时间: 2026-07-16 07:40
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1YeE1QdWt5LTNKUlcwYTB0ZElzdUJ4b3Vycm9LWmJPLTdDWGptZkNHUEdSajVrSVZTd3M3UURhcWZsLVdCdHVkQ1RGODd0WW9nWi1VcWwtZVNhWmx6eUkwQ241aW9FMHlk?oc=5>
+- 场馆: 财联社
+- 时间: 2026-07-16 03:34
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTFB4MmNXOWM2M0pVZnZTamU0ZzdwMnpRZWVZbDlVckhRdm5EeVZWZGQ4OGJLdHBvYXpUT2Y0R0xNYi1NUmFlZ0dGdQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-16 13:53  (10 条)
+
+- **周杰伦** | 新浪演唱会热点小时报丨2026年07月16日20时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c00190874pq.html>
+- **周杰伦** | 王俊凯和周杰伦在长沙演唱会上合唱了哪首歌？ <https://k.sina.com.cn/article_7879923102_1d5ae159e06801e2xe.html>
+- **周杰伦** | 王俊凯新专辑《WJK》命名如何致敬周杰伦？ <https://k.sina.com.cn/article_7879923108_1d5ae15a406801g2to.html>
+- **周杰伦** | 王俊凯广州演唱会倒计时1个月 <https://video.sina.com.cn/p/finance/2026-07-16/detail-inihzfcz8171706.d.html>
+- **周杰伦** | 周杰伦要来广州了！还有这些演唱会即将开唱 <https://finance.sina.com.cn/roll/2026-07-16/doc-inihzfcu7673416.shtml>
+- **周杰伦** | 就在天体！周杰伦广州演唱会审批通过 <https://video.sina.com.cn/p/finance/2026-07-16/detail-inihyuqe1319139.d.html>
+- **特朗普** | 美联储主席沃什强调自身独立性 称已“多次”告知特朗普这一点 <https://news.google.com/rss/articles/CBMikwJBVV95cUxQOE9URTZFYmQ4bUltUnJfSTVtVlliTHFzbnhVVzRuOHZOTDBjemFmYV9NZUJOLXNyZEwwWTIzUE5RLTdBT1dabno0a0dDNFhRanZrMGNrVy0zSUs0T3ROTkdoVmhKbG1zWnJ6ZGhXOXFRZVdpUkRhSk9HRmpiRm9wb1BpcW50bzVoQ3FEaURhaEt0a0xsSzBTMHdQRWtybFREMlhQLU5tWVRndHBRWUZGV3NWQVhORWZwcjlkME04QlZmcHkxcFhSVWhsNHlwU2g0dnJFSF9hc1p2SFhGV3R0SDNkUTFWMm5aU2RWTWJDTXE3R2Zjb1ZtZlB4YmJackZaTEdCS18xa0V3TFpiZUFpNUR2bw?oc=5>
+- **特朗普** | 团队有声音担心中方视缄默为索取更多让步契机 美贸易代表指9月特习会多为盘点进展 <https://news.google.com/rss/articles/CBMingRBVV95cUxPejFtQVRxXzQxV3RxTnpqSnhkaDVyMFBrZ3AyTTB1QXUzdlJEbHh1alZmQU1RZ2hZZHhzdlhvMUtkczFWWnFNNjl2ZkFXU0NVcURIQ3pnbXhNWGc4QVFsYjFyVmEzZU9mQ1pyMnNXdk55RGdKRW1EQkpPU25PM0xSM2VYRjVzTlRXQkkxYmNCOHBHM3QtZnNDaFdibEhBWE5YSlJlTEpobzlsVXA0SklyZlljaEpDczVhXzljV1I4VkRSWnBJQldwRE16NXl1UU5MY0dGaFFneWRlb1A5RmNISjZSdnQ4UFJrNmh6MGVNZzNXY2ZtRXlUOV92ZF9qR24ybnJsbnF6NVFrd3FHUHBQUkRzNnZ5d1RIR280S1hXM1cwSVczNTNsMDhUTzMyc3AtY1U5VXZKSktiak04QnZJWFB1OUIyUHpzVklfYmpiMllnMVNaZ3JLbHJOb2hsM3RyQ1g2QnBETTBIQmFsQkhZcVczSVpKQTEtVjNZYnlwbG5MOWIxUXBFUW51bFpvb2lURzZpRXJPallHWlRxZUJoWTJwNU53MVFBVHJFMFB5b1JMeThJN000SDk5b254X3h4RFB4MnRkQ1dVUkk4YS11ZmJ6R3I4RXNzWURudlhxMnBjRVBCaThPR1VSQ0VINDNkUWhBMHlPa0VvN2o3dVJjel9kbHYtd29JWm9ONVloQm84MEVweHA5WFdOYWxDQQ?oc=5>
+- **特朗普** | 美国国税局局长：“我们要让所有家庭都开立特朗普儿童储蓄账户” <https://news.google.com/rss/articles/CBMihwFBVV95cUxPbnhBdllKR3IxR0N6Yzlkal9RQk9ueDdGM2JONXZtSHkwaEZORjZFMURzd1hCSFd6MURfbU56TUZ6TGF2UFUyNkhsZXJCNWxtSUxkT3FTV0VCV2tRamFMMEZ6NnhlWUlSSmV5Rmswd1QxYko4bUk3U21Xb1ZSUWkyWi13U3Z3Vkk?oc=5>
+- **特朗普** | “特朗普金币”来了！面值1美元 计划今年秋季发行 <https://news.google.com/rss/articles/CBMiSEFVX3lxTFB4MmNXOWM2M0pVZnZTamU0ZzdwMnpRZWVZbDlVckhRdm5EeVZWZGQ4OGJLdHBvYXpUT2Y0R0xNYi1NUmFlZ0dGdQ?oc=5>
 
 ### 2026-07-16 11:58  (13 条)
 
