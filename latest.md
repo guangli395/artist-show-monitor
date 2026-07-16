@@ -1,108 +1,71 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-16 05:23**
-- 本轮扫到 6981 条, 新增 **12** 条
+- 最近更新: **2026-07-16 07:34**
+- 本轮扫到 6987 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (12 条)
+## 本轮新发现 (6 条)
 
-### 蔡徐坤《What A Day》掀起二创狂潮，一镜到底MV尽显多年厚积薄发的舞台掌控力
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6042105161_m16823354903301f14o.html>
-
-### 周杰伦新专辑首支预热短片公开，网友直呼“终于等到你”
+### 王俊凯缺席周杰伦演唱会？周董面子不够大，还是王俊凯公司不愿意
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019086kvo.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019086n32.html>
 
 ### 特朗普：对伊朗的打击将继续
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
+- 场馆: 新浪网
 - 时间: 2026-07-14 22:12
-- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxNdEpiWHVlQzZld01ONGliYUd2eTFkMWhqQkFrZlFSQV9jRVRlRjl3RjBKOU5ib0VaQ1Z6S3RvMU5tcjlxU182a1dOLU9xbHdaZURYcm82QnJFejlWdTVWZ3F2UXhWMEVLWkYxRjIxUTZ4Vlg3bFRaaVYtS0NnNGg3bVpDUHFNTG5vMzJGRXZJYW1tLUczYktranNyWFZiWkNJUFNlYVVEZ3lrTzE4V0lJTDRmRkZfd1IyYWY5R2NaWDlTclI5WDhHSjJ6MGFUOWs?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxOMk5YWHRPNUppTTVhVXFHZU1UejNVaGhVR3pUQTZ4bm5WZVVFZ0tHVThCSV9Ua3pNVWR5WHJjei1tYnYybU8tV1BvY0ZYVWRfYlkzMjFybGdXUVBDOGx0X0ZERmN1QkdfTVJka1JiR3R6eUQ4NU5BR2dwNW5WenhjcGtLTEVNamxXRFc1cExWNF93VWlsRmtYVnlKVDVMMFhOLVE2UkIwTVBPRVVVR1F3aG5YVUlPcEhZaThTUDhJUkY5UmE1WGZ0cmlqQzVYUlE?oc=5>
 
-### 特朗普：感谢伊朗
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-16 02:14
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1Hb0pqa08wSXhhVDNxc05hbVpscjF5bmQ0a0VKaGI3RWhRNkdtMDBHSnJLUzNXVll6Q19oQzNNY0Y2aHJLMFNER3EwOXo?oc=5>
-
-### 纽约州叫停建设AI数据中心？特朗普怒喷：你们在白白丢掉“摇钱树”！
+### 特朗普又遭打脸 伊朗否认求和
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-07-16 00:01
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE5scU05MExoLUJVb2VJQ1JpaF9RWkR3OUR3ekFWbXpiY2NaRjcxaVVvQzNNY2c5QzdZalRBVkVEcUd2SDFKbVVpRw?oc=5>
+- 场馆: 中华网
+- 时间: 2026-07-16 05:00
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE44UkVRdTFVT3ZjcDVZT0RNRjRac3RYTFVzTWFtMWFpaXNLaHhvR1NsR0hIREg2R1VTRGNDZUFTOXVjaENLYjdtTEluOGZrRHpuLXVBbklKN1pPdlJkUV83UklQejhncF9XdmRTY2RNQVU?oc=5>
 
-### 特朗普“货币化”霍尔木兹海峡引发新风险
+### “特朗普硬币”来了，特朗普：荣幸！硬币采用镀金工艺，印有“LIBERTY”一词；美国财政部长：可以把在世人物的肖像印在硬币上
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-07-15 02:15
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE5DdUpKZjF0bnVkQ3V2OTZaSnhQTzRielJVemMxZ180S1ZjbEYtbTc4SHRXTHRscUNEQzl1TW5XRTJDcmlhajJMbklwWUVGQXNpXzZEWlFnWTNXMmRQRnhVbzQ3Z3hmZXVMNTVMd3JVckxTdw?oc=5>
+- 场馆: 每日经济新闻
+- 时间: 2026-07-16 06:25
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9DeWRyc2lmelpVRnhRMkpqd0M0U0JGUTZCT1NubXFaR01hTkFfX2JQWTduSGJJQkVUbzJLQlEyNkt5a2NWWnZwMUtmMWNuSFl4QWd2ZmI0SFVkRTBIUXFfbUR2alZzQQ?oc=5>
 
-### “特朗普金币”来了！面值1美元 计划今年秋季发行
+### 新专机安全缺陷遭泄露，特朗普震怒，多名美官员被要求“交手机”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 搜狐网
+- 时间: 2026-07-16 05:24
+- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMzRPc2dBX2dqckNhSmpwbWFBSDlIOHJISXUtQTlMQ18yN3JHQXhUc0RuTjFWMDEydnU3LXg4aENWTWdmRW01bklPOGEydk5PNmpia1dYUkVvM0pHcGtiSUhCT1ZZUjNXeHg1UW1jTkh1bURZb2s5ckw5VEg2YWVVLTFyQ1lpSFVaTnZj?oc=5>
+
+### 韩国企业被查向特朗普家族打款200万美元引争议
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 手机网易网
-- 时间: 2026-07-16 03:47
-- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE9EVTkyUDhiWVV3eDJJU3B2dG9DcGtaaTlnV191OU41YjNIdmprbGRQc0JNZFRHQjJlZ21SVGVEOG1tVkFSTWg4T25DbVh4RWRia1I1MG9mQk9nWHNLZ0Rlby1n?oc=5>
-
-### 皮尤研究：对中国有好感国家胜过美国，逾20年以来首次
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-07-16 03:30
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9RZ3hOMnFoVzVyNzNOeHZhVmdGZEJCRF9teV9BdFdEZG5nLTNlVjgzUFpGNTRWaHpveU5Kc3p6MDFIamFhX2FOYkx5UUh2M0lXVnJ3NE9NbDM1bTRhVjBnVjg3R2czUdIBa0FVX3lxTE1WVmNqbnR1SGk1TVpxQUVfZlJ3S3FrZmZUbFdPc0diTnFVRnl2ZkJVWU15TWdiU19BX1BHRGdwdnlRQU1XOEJpMVFNdk5nX293clFvM1dleFE0ZzB0NWVrSU5ldUItdU4tTjlv?oc=5>
-
-### 特朗普：伊朗释放一名被扣押超过一年半的美国女子
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-07-16 02:11
-- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE9GUjhnTUt2RVZzMTZVVmhOQ3BadnBmeWNERHM0Zjh3LVhMaGgzSThwUU5LUUNoM3I5MlhXMlg0NktFZkRtYTdzb3NFWmlwN2EzNFA5Q09ZZmhsQkFKY0tCZ2gxOGw1YkEtTzhKZEJpR1RvUnBCYlo2RDVB?oc=5>
-
-### Trump：为增强美国海军将考察韩国企业……期待扩大造船合作- 阿视亚经济
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 아시아경제
-- 时间: 2026-07-16 02:00
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9MSDFzWXNkWnFkOS1yblRMWll0a2NSSnFpd2d1V0V1a1BtUGhxd3RHbF9GUkZZNkZ0TnZvNFltVC1KalVGVFYwbnNieGhCLWEtOEdUdjhUeTdtQzI3LVczVnlxOHE?oc=5>
-
-### 报道：特朗普全国讲话或披露中国干预总统选举情报
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-07-16 04:24
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGZWVVRzh1VHlwRWpsZVNpd1A2cU80bVZUX3BDR2tfeFBXWHdKWnQxdHhBWEp1LUVpSFgwb2gwWGp2b3VxWlNCaWhQWXcwekItQkNhMVV3WTk4RkZCaWc?oc=5>
-
-### “印有我肖像的硬币，很可爱”……Trump金色1美元纪念币将发行- 阿视亚经济
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 아시아경제
-- 时间: 2026-07-15 23:39
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvc1dHQnNndXA0UHZnZ08yWkk5aFBlTkt0RXZUNkhPRVJ2VHRCZWtnV0g1bnNVYk9sNVg3SS1hT3JoTWlKU2J5M2JnUmZ1WUd6bjVaUHM1bWFzUzRUTDI1dlRsZWU?oc=5>
+- 时间: 2026-07-16 04:07
+- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xNnU3VUpteGcxcjhreUFiTnVsUzh5LXJ3VG16SjVzdU9tSXNCNWpNR1haTHZPQ216aDFFcm9DbWtaTlU2TFloWHJSUHdsVHI4ZTRGUmpwempuRGltT3BOYUxB?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-16 07:34  (6 条)
+
+- **周杰伦** | 王俊凯缺席周杰伦演唱会？周董面子不够大，还是王俊凯公司不愿意 <https://k.sina.com.cn/article_7857201856_1d45362c0019086n32.html>
+- **特朗普** | 特朗普：对伊朗的打击将继续 <https://news.google.com/rss/articles/CBMizwFBVV95cUxOMk5YWHRPNUppTTVhVXFHZU1UejNVaGhVR3pUQTZ4bm5WZVVFZ0tHVThCSV9Ua3pNVWR5WHJjei1tYnYybU8tV1BvY0ZYVWRfYlkzMjFybGdXUVBDOGx0X0ZERmN1QkdfTVJka1JiR3R6eUQ4NU5BR2dwNW5WenhjcGtLTEVNamxXRFc1cExWNF93VWlsRmtYVnlKVDVMMFhOLVE2UkIwTVBPRVVVR1F3aG5YVUlPcEhZaThTUDhJUkY5UmE1WGZ0cmlqQzVYUlE?oc=5>
+- **特朗普** | 特朗普又遭打脸 伊朗否认求和 <https://news.google.com/rss/articles/CBMicEFVX3lxTE44UkVRdTFVT3ZjcDVZT0RNRjRac3RYTFVzTWFtMWFpaXNLaHhvR1NsR0hIREg2R1VTRGNDZUFTOXVjaENLYjdtTEluOGZrRHpuLXVBbklKN1pPdlJkUV83UklQejhncF9XdmRTY2RNQVU?oc=5>
+- **特朗普** | “特朗普硬币”来了，特朗普：荣幸！硬币采用镀金工艺，印有“LIBERTY”一词；美国财政部长：可以把在世人物的肖像印在硬币上 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9DeWRyc2lmelpVRnhRMkpqd0M0U0JGUTZCT1NubXFaR01hTkFfX2JQWTduSGJJQkVUbzJLQlEyNkt5a2NWWnZwMUtmMWNuSFl4QWd2ZmI0SFVkRTBIUXFfbUR2alZzQQ?oc=5>
+- **特朗普** | 新专机安全缺陷遭泄露，特朗普震怒，多名美官员被要求“交手机” <https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMzRPc2dBX2dqckNhSmpwbWFBSDlIOHJISXUtQTlMQ18yN3JHQXhUc0RuTjFWMDEydnU3LXg4aENWTWdmRW01bklPOGEydk5PNmpia1dYUkVvM0pHcGtiSUhCT1ZZUjNXeHg1UW1jTkh1bURZb2s5ckw5VEg2YWVVLTFyQ1lpSFVaTnZj?oc=5>
+- **特朗普** | 韩国企业被查向特朗普家族打款200万美元引争议 <https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xNnU3VUpteGcxcjhreUFiTnVsUzh5LXJ3VG16SjVzdU9tSXNCNWpNR1haTHZPQ216aDFFcm9DbWtaTlU2TFloWHJSUHdsVHI4ZTRGUmpwempuRGltT3BOYUxB?oc=5>
 
 ### 2026-07-16 05:23  (12 条)
 
