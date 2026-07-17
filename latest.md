@@ -1,82 +1,76 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-17 12:40**
-- 本轮扫到 7139 条, 新增 **9** 条
+- 最近更新: **2026-07-17 14:27**
+- 本轮扫到 7146 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (9 条)
+## 本轮新发现 (7 条)
 
-### 周杰伦王俊凯演唱会想看人数差83.9万？2026年度榜单谁在断层领跑？
+### 蔡徐坤巡演前现身香水店有何深意？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923112_1d5ae15a806801v2f6.html>
+
+### 周杰伦2026演唱会广州站定档,连开三场
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd848068021oc6.html>
+- 链接: <https://k.sina.com.cn/article_7879848923_1d5acf3db01901f788.html>
 
-### 周杰伦王俊凯演唱会想看人数差距83.9万怎么回事？华语乐坛“双核”格局如何形成？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd848068021oc4.html>
-
-### 周杰伦和王俊凯的演唱会想看人数差距多大？
+### 嘿,看完济南周杰伦演唱会的你开始“戒断”了吗?
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd848068021obc.html>
+- 链接: <https://k.sina.com.cn/article_7879848924_1d5acf3dc01901iq1o.html>
 
-### 特朗普将出席世界杯决赛，白宫狂吹：美国史上收视最高、安保最严的一届
+### 特朗普提词器操作员借职务之便提前掌握演讲稿，对十余场重要演讲下注，非法获利逾10万美元
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-17 03:21
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE5lbE9XZlNPNzNvQ0J2UFZMVmFrMHE1X1ViWVV0VFM1bldpanB1YnZ5WlNBMkFHeUtUV1k4cGcyYWdYb0pwOWtHb01DWW9JN0NMNndWOXRuVUhWQ0FQQmY3WXF1aXRHbFR5SzM2NW5VZGpQM0x4U3c?oc=5>
+
+### 白宫提词器操作员靠特朗普讲话下注，内幕交易获利近10万
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: thepaper.cn
-- 时间: 2026-07-17 05:12
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE95VmhUTkJLak50SXRDTnRweXJLREhEMXlFaUNIWHhQQXZYTnBFZEV2Z3owQi1fQWl4eFBHSHlVaDNBRWFocUs1TEZRREhxY25EbUtkbDdYNlhnNnRUWFE?oc=5>
+- 时间: 2026-07-17 12:14
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE5rWGk1aWlYSkx5QzlNRWloQ1ZJQ25tcHl1UTZEeXYtWVFIbFdhNnhPZk1XZHd0UUVIX2dRRzhKYld6cWN4RUN2LUxaT3JIV1Y0Zy0xcTEyUVlRU1hmblVIejd4U2M2RTRYR0VNSU5HVE15dw?oc=5>
 
-### 特朗普将出席世界杯决赛 与因凡蒂诺一起颁奖
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中国网
-- 时间: 2026-07-17 11:31
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE1EM1NyTUFFbUtHVmkwcDg4OWVzbTVxeVpHcktzYU1Yb2oxSEpRN2ZvNXBzTWJJNkR6dGR1Qk9tVXltOFI4WVBJVTVTa0ZUWXYxY1F4OXI4RDQ5czAtb2xadTRTYUx4alBGTFhzd2k4Zw?oc=5>
-
-### 白宫提词器操作员靠特朗普讲话下注，赢近10万美元
+### 特朗普为何频频感谢中俄？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-07-17 02:56
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1ubG1Gc1VMVGtrX1kwSV9ENTlZSVhtT0hHREIxS2xFQWN6SEtYRXNCTEZ5N2RYVUlwS25hZWRPcjBPVXhjMGtNQnkxQmFTdHdpUHQydmN5RVlaTG5RM1lETS1ySzNrRWRYaGtQZGhfb2VpWEZ0aFNFTw?oc=5>
+- 场馆: 观察
+- 时间: 2026-07-15 08:00
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LZUJWRnl6d1ZEMXhxV01FN1o1cG44VGZvc1NkM1NjUmNCZm1iT18tNXhiRGV5dVJCSkhsVzZPa0Izek0wUndNNnBiaFQ2LThJMTRYMjllTjd1eVlmNnRLY3BTNTY?oc=5>
 
-### 特朗普步步紧逼，伊朗受创经济痛上加痛
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-07-17 03:24
-- 链接: <https://news.google.com/rss/articles/CBMitAFBVV95cUxPQm0zUlNLVTVqX3hiLTFKTWpYSmltMWhMYTJKYmdVc1RNU011TzVfOUJGbTNnaEg3TGJzYTVxTjJhcVp6eFByY3VBUURnQngxRTJGV3VodDVNc0dIeUMxaEFSQTBScXQ5QnlhRjg0WE9xc1BxOHJzVjBtQldHVGw0emFjTkZXVDc1OFJ1a0NaeGo2WW1TaWZfOWNHTTJaYnNvZEh1UV81RFFJS1lLeHBhRDFucEE?oc=5>
-
-### 付费用户“提前看”特朗普帖子？到底是怎么回事
+### 特朗普探讨扩大对伊打击 伊准备封锁红海石油运输通道
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 第一财经
-- 时间: 2026-07-17 12:25
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE96bEFHZDRKMDVJdTVEQlMzcjU5UHRFYnlPRWs3ODlBeFpabXl1dy11LVhIUFNWWExQaFgzZHZ6bVlaMi1tYlpmemZsbTFKTkJiUDlB?oc=5>
-
-### 特朗普指责中方曾试图影响2020年大选结果 北京：有关说法纯属无中生有
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-07-17 10:25
-- 链接: <https://news.google.com/rss/articles/CBMiwwNBVV95cUxPeGhkWkRKbE1wVFBqcmQ5YWhkY0h0UTU5NmlVb3h1d3pzNnpOdGJuLUxBRmc4ZDZVNUpxT0VsdkphQk9Ea3R4NEVhd3hJaXY1VF9NM3VoMWpqbEhnNnlQVVVLZjE3WHJwcXY4T1VWT09sak0tV0MwblVyZDd3VDBvWFM3ZElSc3ZJTWt2ZV9yY0pWZTVwWlZPMm44WnhwcnR5aFVnSk1iclJkUC1TSHBhOXNmano1TkQ3ZUhlVlB6R0xUR0lVbXIwMkZHZldheHZWUC10eEJoVDdzVlBwbjVfVlBPT3luaTJqQVY5Wk1hODZSS3NVTTA5NFF5RW52RDdPWW91NHhab1psZVJrVnd3X1BKbS15SC1FOUFSWmtKTC0wb3hRQ1RvYWlfa0hFV09RTU1ha0oyRFFDZTlKNDVrdjVzWXRoMHVYbHE5eG91X0FROWRlTVQ3amZKa1NReUJjQXFjcDc3NzRSM2xDSnBIQ0JxUWtKUk13TEZibC1rMG0zNGdWaHdRdXQ1c1hnZFlwaEZPZ1haSkpSVHowQXVlb3JUa0ttTm5WRFZSbjVPTzEtUUdnLUQ1b2JFX0xLUk5FS3dR?oc=5>
+- 场馆: 联合早报
+- 时间: 2026-07-16 13:56
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFA5V0lwLU1IaFQ1dE5Na0pEQ2tJaklGVjM5SWJ0QTdza3J2RjdNQWpPM1pYS2JtR1lsbUctaVR6TkhlMnNBU3hLS290ZnVxRC01LTd6QWU3cW1NbGtHMWcwNGdXclVmdw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-17 14:27  (7 条)
+
+- **蔡徐坤** | 蔡徐坤巡演前现身香水店有何深意？ <https://k.sina.com.cn/article_7879923112_1d5ae15a806801v2f6.html>
+- **周杰伦** | 周杰伦2026演唱会广州站定档,连开三场 <https://k.sina.com.cn/article_7879848923_1d5acf3db01901f788.html>
+- **周杰伦** | 嘿,看完济南周杰伦演唱会的你开始“戒断”了吗? <https://k.sina.com.cn/article_7879848924_1d5acf3dc01901iq1o.html>
+- **特朗普** | 特朗普提词器操作员借职务之便提前掌握演讲稿，对十余场重要演讲下注，非法获利逾10万美元 <https://news.google.com/rss/articles/CBMidkFVX3lxTE5lbE9XZlNPNzNvQ0J2UFZMVmFrMHE1X1ViWVV0VFM1bldpanB1YnZ5WlNBMkFHeUtUV1k4cGcyYWdYb0pwOWtHb01DWW9JN0NMNndWOXRuVUhWQ0FQQmY3WXF1aXRHbFR5SzM2NW5VZGpQM0x4U3c?oc=5>
+- **特朗普** | 白宫提词器操作员靠特朗普讲话下注，内幕交易获利近10万 <https://news.google.com/rss/articles/CBMickFVX3lxTE5rWGk1aWlYSkx5QzlNRWloQ1ZJQ25tcHl1UTZEeXYtWVFIbFdhNnhPZk1XZHd0UUVIX2dRRzhKYld6cWN4RUN2LUxaT3JIV1Y0Zy0xcTEyUVlRU1hmblVIejd4U2M2RTRYR0VNSU5HVE15dw?oc=5>
+- **特朗普** | 特朗普为何频频感谢中俄？ <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LZUJWRnl6d1ZEMXhxV01FN1o1cG44VGZvc1NkM1NjUmNCZm1iT18tNXhiRGV5dVJCSkhsVzZPa0Izek0wUndNNnBiaFQ2LThJMTRYMjllTjd1eVlmNnRLY3BTNTY?oc=5>
+- **特朗普** | 特朗普探讨扩大对伊打击 伊准备封锁红海石油运输通道 <https://news.google.com/rss/articles/CBMiZkFVX3lxTFA5V0lwLU1IaFQ1dE5Na0pEQ2tJaklGVjM5SWJ0QTdza3J2RjdNQWpPM1pYS2JtR1lsbUctaVR6TkhlMnNBU3hLS290ZnVxRC01LTd6QWU3cW1NbGtHMWcwNGdXclVmdw?oc=5>
 
 ### 2026-07-17 12:40  (9 条)
 
