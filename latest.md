@@ -1,56 +1,71 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-17 22:12**
-- 本轮扫到 7172 条, 新增 **5** 条
+- 最近更新: **2026-07-17 23:15**
+- 本轮扫到 7178 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (6 条)
+
+### 黄牛倒卖蔡徐坤演唱会门票如何防范？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923107_1d5ae15a306803nx4m.html>
 
 ### 特朗普媒体推出付费Truth API 出售热门账户发帖快速访问权
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-17 21:13
-- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRFl2enVrYUROWEZQMkpLTnphTV9BRkxvN3BrVG5QY3R5dTk2bWp1b3F4Q0lORFVISkh5RmFqd1ZXeFdFVHpxQ2t0b1FGdEVDZ3ZlTWE1dXhJaXVWYk43bWNka09NaU9yeHlXejZsbkpNU1p4bjFvNjM3Y0YwQWFReDBhMnlvSXktTXhjcTZ4STZZRkVPUlBKbHRJTzFqVFk4Wm03YlpRSWtMUQ?oc=5>
+- 时间: 2026-07-17 22:30
+- 链接: <https://news.google.com/rss/articles/CBMipgFBVV95cUxOQklVbEdCZGhHcm8yMTN5V295UzBOSERnTlY1LTRMT1kxNDBJV0JuQ1EyMENwdDFqekFRVi01TXh1MmpXejlYbXh4QUpWUXdiYm51ckFQMXlUdWlOOHVOR2JiTmx2M2M2R0RIVXVfcnVPaFEtQkJSNjZyNU1neDAwdHp3S2F3WldCZW1ZNkNIM1pKYnRFVW5USVhNbDNWazZZa0trSmdn?oc=5>
 
-### 7月18日外盘头条：美伊互袭基础设施英国研判特朗普对伊威胁并非空话Meta据悉洽谈出租算力给Anthropic
+### 特朗普怒批加拿大山火，称美国将把污染成本加入关税
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-17 21:59
-- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTFBscFRiRkMtX1lnb3Voa0ZITnZLbERnU0s3Y1JrVUQ2ZGJ4Mk1INzZQTnNDb3ljdXA4WWhwRVNCUHZ5WGs2WTBzMDlUYUVuR1hTeGt0ekh4UWNvQUdKcjE4LWdZd2ltcFNOVFlJSEhLWGMxM05fR1JPaWNR?oc=5>
+- 时间: 2026-07-17 21:42
+- 链接: <https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcGd6ODJtc294Ym9Mb0V3UGxUR1hmUHZhdUFIODgzenh0YUU3LTRVOElwNHVKckdUUXRGMW5TWmVkbWdwWkl4c0JjTmxzU2QyOHRiakxlWXBsbkpkQkRwaDNIVjlkRDBHWGxVY3hYR3JrRW0xN1d0MGFxZnBKNDdnMmV5aXJaQ19BSmtvX1FsbFBZZU5IR0JKVHNkazQtNmVxWHR4dHIzQ2dCNndPNjB2Um1uTnRWYU9JVjhNRW5paWo?oc=5>
 
-### 美伊主谈派各自释放谈判意愿 特朗普被曝考虑扩大战事方案
+### 特朗普向加拿大发出警告：不可接受，损失无法估量！
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 财新
-- 时间: 2026-07-17 11:13
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1sa2VvSXB6ekgxLTQ2cnNTZ3puNFlJMVAtalpqc0ZuR0Y5YlhTTnk0OXI0a3l0R2tIOW9VQUVsTTdVUjZDNjVJaFgwTHV0RG8zZUpsNGMzZFktN1M4LW44N1VzYThYUFIxU0E?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-07-17 22:46
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5pWDhYclhrUldQZnBvUkJLWFllOWpCRG51bjRpZjB0LTZkWXhnbmFSaF85OFpBZVhaWkhjZ2hFMXdYakxEMVRvRUJoNks?oc=5>
 
-### 特朗普称中国非法收集2.2亿份美国选民文件
+### “历史性逆转，特朗普最害怕的事发生了”
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-07-16 17:17
-- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE9YaTVFb1VGcE9xVTl6VVpzdnRfNlhiLXRQdjBzOVU3c0pSVE9vVEx6UTJMZ2RWaWtqNm1MSUlfVW1OVkZncHFVMHpOaDhaZ09NaVhaQXNEaGhNS2VmU2h4ckYxWUpZZVY4LVlGQ2NFb2RKRXNlRm1CMEpOeDM?oc=5>
+- 场馆: 观察
+- 时间: 2026-07-17 10:56
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE8tWVhVMlNsMnVMMkU1UEF4ZjBnbmduWGVUMDd3cC1iUU1uUEp2dG5vaHkwZzZWdm1yZXI2N3ZBVFZuWmQxSTFJNU4tcXdVaUh5dUo4QUpBWUlDYXhab0NBeTdvYWdqRGwtVEE?oc=5>
 
-### 特朗普媒体推出付费Truth API 出售热门账户发帖快速访问权
+### 每月10万美元，交易员据悉可获取特朗普帖文抢先看服务
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-17 21:18
-- 链接: <https://news.google.com/rss/articles/CBMiigJBVV95cUxOT1N0Qi0wUGRsUHFaRWxvRUVsTy1CeTUyMFB5Ul9YR0NOSTVGdlVoVzZYbm9NQVVORkN2TmV3WUl4UUp4d0tFLUZTX3BTQUlUMGJMbndRdWpLcm5mdVFTYWxieTJMODBYWjllLTUtZTNMV0ZjQ29Tb1ZZVHZmckVpMUQybDEySElpTVBRRUtMZVFZTXluZlpOME1jSFpJczJFa3VnUDZRTEtrS2Q3RmpaaTFYWjY1U1dVMlFjZ3EyM0lyYjQtaEF4MTJuc2JHQ2Z3YzljdHBzQ055d2N1elFhZDNPNVpPUk5SRl9wSEh5NzBDRlFzQ20xZ0E5N0lMZXdVQjVYV09TMmotZw?oc=5>
+- 场馆: 凤凰网财经
+- 时间: 2026-07-17 19:42
+- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTFA3S0F4d3AybHlnTWM1R2NYVXVwMnlRekdJNVZJX19BVlVTSnluUi1nQjlIX0NyWmtpczZDU045bThYaDNtaGRJbWh3eF9xYW02?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-17 23:15  (6 条)
+
+- **蔡徐坤** | 黄牛倒卖蔡徐坤演唱会门票如何防范？ <https://k.sina.com.cn/article_7879923107_1d5ae15a306803nx4m.html>
+- **特朗普** | 特朗普媒体推出付费Truth API 出售热门账户发帖快速访问权 <https://news.google.com/rss/articles/CBMipgFBVV95cUxOQklVbEdCZGhHcm8yMTN5V295UzBOSERnTlY1LTRMT1kxNDBJV0JuQ1EyMENwdDFqekFRVi01TXh1MmpXejlYbXh4QUpWUXdiYm51ckFQMXlUdWlOOHVOR2JiTmx2M2M2R0RIVXVfcnVPaFEtQkJSNjZyNU1neDAwdHp3S2F3WldCZW1ZNkNIM1pKYnRFVW5USVhNbDNWazZZa0trSmdn?oc=5>
+- **特朗普** | 特朗普怒批加拿大山火，称美国将把污染成本加入关税 <https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcGd6ODJtc294Ym9Mb0V3UGxUR1hmUHZhdUFIODgzenh0YUU3LTRVOElwNHVKckdUUXRGMW5TWmVkbWdwWkl4c0JjTmxzU2QyOHRiakxlWXBsbkpkQkRwaDNIVjlkRDBHWGxVY3hYR3JrRW0xN1d0MGFxZnBKNDdnMmV5aXJaQ19BSmtvX1FsbFBZZU5IR0JKVHNkazQtNmVxWHR4dHIzQ2dCNndPNjB2Um1uTnRWYU9JVjhNRW5paWo?oc=5>
+- **特朗普** | 特朗普向加拿大发出警告：不可接受，损失无法估量！ <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5pWDhYclhrUldQZnBvUkJLWFllOWpCRG51bjRpZjB0LTZkWXhnbmFSaF85OFpBZVhaWkhjZ2hFMXdYakxEMVRvRUJoNks?oc=5>
+- **特朗普** | “历史性逆转，特朗普最害怕的事发生了” <https://news.google.com/rss/articles/CBMiakFVX3lxTE8tWVhVMlNsMnVMMkU1UEF4ZjBnbmduWGVUMDd3cC1iUU1uUEp2dG5vaHkwZzZWdm1yZXI2N3ZBVFZuWmQxSTFJNU4tcXdVaUh5dUo4QUpBWUlDYXhab0NBeTdvYWdqRGwtVEE?oc=5>
+- **特朗普** | 每月10万美元，交易员据悉可获取特朗普帖文抢先看服务 <https://news.google.com/rss/articles/CBMiUEFVX3lxTFA3S0F4d3AybHlnTWM1R2NYVXVwMnlRekdJNVZJX19BVlVTSnluUi1nQjlIX0NyWmtpczZDU045bThYaDNtaGRJbWh3eF9xYW02?oc=5>
 
 ### 2026-07-17 22:12  (5 条)
 
