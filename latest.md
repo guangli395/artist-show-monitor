@@ -1,44 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-17 21:13**
-- 本轮扫到 7167 条, 新增 **4** 条
+- 最近更新: **2026-07-17 22:12**
+- 本轮扫到 7172 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (4 条)
-
-### 蔡徐坤演唱会官宣开票时间 粉丝备战抢票大战_中华网
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923018_1d5ae154a01901f04u.html>
-
-### 蔡徐坤澳门演唱会抢票秒罄，黄牛加价数千引众怒
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923107_1d5ae15a306803nx4k.html>
-
-### 特朗普指责加火灾给美国造成空气污染
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-07-17 20:35
-- 链接: <https://news.google.com/rss/articles/CBMiqwJBVV95cUxQVTFxZGsySE94RGVpYk84ZTJBY2lTay1Ma19ISUJCWnlhSzBVMjZYSjh6UTlDMU9VeTJXOXBYU3ZKckJCRUVsS25SR3dpaTRoNC1EVzlDSEktTExIUE5aNUYtUWpRejltTEVxRWticGRHYmlzTEZXS2Z2eXotWUNCQWVHVk00cndoZmZMUnFZa0dMVzZfRGswLXNFWjE4NXA4R25wdGVVYmtxQ3FJTTUyZDVPejN1RmFubnAyVHZzNVo0R0pLU2F4UXVyUGZOVmZaY25WM3VvUUlKNEdoaHljVVh4Vk1iRlVsTC1yMk5Ib0gyVTJBdUp5UjRvZm44Nnlzc0tqVlFaZUdRNVh3SVV1bEhuMXl3czdCRFNObU5OZTQ2RXpfdjduRUxaUQ?oc=5>
+## 本轮新发现 (5 条)
 
 ### 特朗普媒体推出付费Truth API 出售热门账户发帖快速访问权
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-17 20:16
-- 链接: <https://news.google.com/rss/articles/CBMijwJBVV95cUxNNmNQZzViVTAwZ0Q1T21OQ2pyQzBOcjR2Z3I2UjRQTTRxNXlaT0lqQ3JpSUpTOFdrNS02WWRYMVZpTGVITnlXRFZNYkxYLWxGS3N0V2dGUDdSVUxPblNwTGxlUDVjY0J6YzNqMWdPZ2FIWHBuWkhDbV9pajF4YVhZWWQyd3l5dFhEQTV4TVhlOVA1bHdkVWU3UVhYWFY1UlZRTkN2ZTZMSHdnZS04Z25feGVmemNFLUhKekpSUm01VUlpenptZnRvZzk0MlBCUUNNcFRuZ05KUVJsWWwxUmNpR2swbWtIX1hVMnZYcGxDd1lSMmxyU3hhOEdSMTBlazE1ZTNJbWpBMU1jelpybHpV?oc=5>
+- 时间: 2026-07-17 21:13
+- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRFl2enVrYUROWEZQMkpLTnphTV9BRkxvN3BrVG5QY3R5dTk2bWp1b3F4Q0lORFVISkh5RmFqd1ZXeFdFVHpxQ2t0b1FGdEVDZ3ZlTWE1dXhJaXVWYk43bWNka09NaU9yeHlXejZsbkpNU1p4bjFvNjM3Y0YwQWFReDBhMnlvSXktTXhjcTZ4STZZRkVPUlBKbHRJTzFqVFk4Wm03YlpRSWtMUQ?oc=5>
+
+### 7月18日外盘头条：美伊互袭基础设施英国研判特朗普对伊威胁并非空话Meta据悉洽谈出租算力给Anthropic
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-17 21:59
+- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTFBscFRiRkMtX1lnb3Voa0ZITnZLbERnU0s3Y1JrVUQ2ZGJ4Mk1INzZQTnNDb3ljdXA4WWhwRVNCUHZ5WGs2WTBzMDlUYUVuR1hTeGt0ekh4UWNvQUdKcjE4LWdZd2ltcFNOVFlJSEhLWGMxM05fR1JPaWNR?oc=5>
+
+### 美伊主谈派各自释放谈判意愿 特朗普被曝考虑扩大战事方案
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 财新
+- 时间: 2026-07-17 11:13
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1sa2VvSXB6ekgxLTQ2cnNTZ3puNFlJMVAtalpqc0ZuR0Y5YlhTTnk0OXI0a3l0R2tIOW9VQUVsTTdVUjZDNjVJaFgwTHV0RG8zZUpsNGMzZFktN1M4LW44N1VzYThYUFIxU0E?oc=5>
+
+### 特朗普称中国非法收集2.2亿份美国选民文件
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 纽约时报中文网
+- 时间: 2026-07-16 17:17
+- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE9YaTVFb1VGcE9xVTl6VVpzdnRfNlhiLXRQdjBzOVU3c0pSVE9vVEx6UTJMZ2RWaWtqNm1MSUlfVW1OVkZncHFVMHpOaDhaZ09NaVhaQXNEaGhNS2VmU2h4ckYxWUpZZVY4LVlGQ2NFb2RKRXNlRm1CMEpOeDM?oc=5>
+
+### 特朗普媒体推出付费Truth API 出售热门账户发帖快速访问权
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-17 21:18
+- 链接: <https://news.google.com/rss/articles/CBMiigJBVV95cUxOT1N0Qi0wUGRsUHFaRWxvRUVsTy1CeTUyMFB5Ul9YR0NOSTVGdlVoVzZYbm9NQVVORkN2TmV3WUl4UUp4d0tFLUZTX3BTQUlUMGJMbndRdWpLcm5mdVFTYWxieTJMODBYWjllLTUtZTNMV0ZjQ29Tb1ZZVHZmckVpMUQybDEySElpTVBRRUtMZVFZTXluZlpOME1jSFpJczJFa3VnUDZRTEtrS2Q3RmpaaTFYWjY1U1dVMlFjZ3EyM0lyYjQtaEF4MTJuc2JHQ2Z3YzljdHBzQ055d2N1elFhZDNPNVpPUk5SRl9wSEh5NzBDRlFzQ20xZ0E5N0lMZXdVQjVYV09TMmotZw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-17 22:12  (5 条)
+
+- **特朗普** | 特朗普媒体推出付费Truth API 出售热门账户发帖快速访问权 <https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRFl2enVrYUROWEZQMkpLTnphTV9BRkxvN3BrVG5QY3R5dTk2bWp1b3F4Q0lORFVISkh5RmFqd1ZXeFdFVHpxQ2t0b1FGdEVDZ3ZlTWE1dXhJaXVWYk43bWNka09NaU9yeHlXejZsbkpNU1p4bjFvNjM3Y0YwQWFReDBhMnlvSXktTXhjcTZ4STZZRkVPUlBKbHRJTzFqVFk4Wm03YlpRSWtMUQ?oc=5>
+- **特朗普** | 7月18日外盘头条：美伊互袭基础设施英国研判特朗普对伊威胁并非空话Meta据悉洽谈出租算力给Anthropic <https://news.google.com/rss/articles/CBMiekFVX3lxTFBscFRiRkMtX1lnb3Voa0ZITnZLbERnU0s3Y1JrVUQ2ZGJ4Mk1INzZQTnNDb3ljdXA4WWhwRVNCUHZ5WGs2WTBzMDlUYUVuR1hTeGt0ekh4UWNvQUdKcjE4LWdZd2ltcFNOVFlJSEhLWGMxM05fR1JPaWNR?oc=5>
+- **特朗普** | 美伊主谈派各自释放谈判意愿 特朗普被曝考虑扩大战事方案 <https://news.google.com/rss/articles/CBMiakFVX3lxTE1sa2VvSXB6ekgxLTQ2cnNTZ3puNFlJMVAtalpqc0ZuR0Y5YlhTTnk0OXI0a3l0R2tIOW9VQUVsTTdVUjZDNjVJaFgwTHV0RG8zZUpsNGMzZFktN1M4LW44N1VzYThYUFIxU0E?oc=5>
+- **Trump** | 特朗普称中国非法收集2.2亿份美国选民文件 <https://news.google.com/rss/articles/CBMifEFVX3lxTE9YaTVFb1VGcE9xVTl6VVpzdnRfNlhiLXRQdjBzOVU3c0pSVE9vVEx6UTJMZ2RWaWtqNm1MSUlfVW1OVkZncHFVMHpOaDhaZ09NaVhaQXNEaGhNS2VmU2h4ckYxWUpZZVY4LVlGQ2NFb2RKRXNlRm1CMEpOeDM?oc=5>
+- **Trump** | 特朗普媒体推出付费Truth API 出售热门账户发帖快速访问权 <https://news.google.com/rss/articles/CBMiigJBVV95cUxOT1N0Qi0wUGRsUHFaRWxvRUVsTy1CeTUyMFB5Ul9YR0NOSTVGdlVoVzZYbm9NQVVORkN2TmV3WUl4UUp4d0tFLUZTX3BTQUlUMGJMbndRdWpLcm5mdVFTYWxieTJMODBYWjllLTUtZTNMV0ZjQ29Tb1ZZVHZmckVpMUQybDEySElpTVBRRUtMZVFZTXluZlpOME1jSFpJczJFa3VnUDZRTEtrS2Q3RmpaaTFYWjY1U1dVMlFjZ3EyM0lyYjQtaEF4MTJuc2JHQ2Z3YzljdHBzQ055d2N1elFhZDNPNVpPUk5SRl9wSEh5NzBDRlFzQ20xZ0E5N0lMZXdVQjVYV09TMmotZw?oc=5>
 
 ### 2026-07-17 21:13  (4 条)
 
