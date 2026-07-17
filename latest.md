@@ -1,40 +1,53 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-17 18:32**
-- 本轮扫到 7159 条, 新增 **3** 条
+- 最近更新: **2026-07-17 20:01**
+- 本轮扫到 7163 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (4 条)
 
-### 特朗普将出席世界杯决赛并颁发奖杯
+### 中国广州发布
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-07-17 01:02
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13STc3aWNwbDh5cVhJUC1zWG81Q3h1bWhXZ2tFejYtdndBTksyeFdGbFV1d3dldkl6NEM0djhEa2pCdUV0VEpWSHRldC1WaDVJWFM1SWNrMUhGNkJiTWlZa3hhb3JlLWc?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879848924_1d5acf3dc01901is2y.html>
 
-### 特朗普炮轰多家美媒：他们不播我讲话，都该被吊销执照！
+### 特朗普媒体推出付费Truth API 出售热门账户发帖快速访问权
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-07-17 08:10
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE9iUFlPa1VMblN6Sl80LVI5ZHZNQ3JnN0xER1NmR0haQ0VOOVdTWWxZdkhERzA0VHRDcXlTNlBhV04yZXozOTFRS0FET1VJdVlpUFV4NWRSUUdleGRydnc?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-07-17 19:42
+- 链接: <https://news.google.com/rss/articles/CBMijwJBVV95cUxPTkhPSzN1OEFtZm1iSjBQOXFZVHh0MDNIMXo1VFFMWFFMMzV3R1VhVFdOYkxtTlJqdUJwU2lMNzVmcXdLc0dsMDhKdmlaXzJLanF4VG1BcUFjc25nMlpjNndqN1hSRmRjS0dOSElRYXFnOGVrWEYwQzVyVHhXR1oxLVRuSU9PU3JwVlg0ZFU1V3ZZZlRTLWZXaGkzcENPdk1hdk1YeW1jVUlWTVNpZjFRdjJ3VTZBM01MWEhSeUhLR2FmTldVMkhSXy1QZjYwNDhGSmZUQ1FLVXRKcmkzbzhMaWptMnJyTWZPWEtTbnZza1lGa1lLWWVWSVBmeTMwbk9UVGdTSmlkVWp3SWN0WHhB?oc=5>
 
-### 付费可抢先获取川普发文？ Truth Social下月起推新服务(美中報道）
+### 特朗普媒体推出付费Truth API 出售热门账户发帖快速访问权
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 美中報導
-- 时间: 2026-07-17 11:37
-- 链接: <https://news.google.com/rss/articles/CBMijgFBVV95cUxQRzd4Qkt1Wi0zM2NiNlk0RHBtM3NrdjlQdDR3NFFzd3JSclR3bU9hZ2Y4a2lWS2NCVlNDVkRVX3pKa081QVp4Z0tTNkZiTmloV1NPbzlzVW9GU081T3p5cE9rWmFFaFJyS1pGRTVhVEV6MktsWF94QXZYcTROeFRDUk5YQ0xXVGV5eDVsLXV3?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-07-17 19:58
+- 链接: <https://news.google.com/rss/articles/CBMikwJBVV95cUxPUThXc1FHSmU1a3JjQjhhZHVMMzhlcXFpVmFkWXFLbnI0Z0tzc2tnRHpuQkdpaUczejcxanVfekFlbGNZSUktdnd3bmlQYWZjdGRJSHpxUTZSVkhtNnQtX0YzbUNVRE0taG9vSUJjZVpLeXUyMWxLekt6RHotTzdXNGI1WmhFTFlEOVA3R3poc1hhS0NaeEZHWEFpVGVmOVFkb1l3NXhwQXo3Y3pfcGl4am5sQ00yQTlySkJacWNqTXRVUTRhcGZ0dWhuTkhIazhTa2RWTmFyUUpUWmtab0xWYkVaSmdCRmZ6b0JiVm9QWm9QdmM5SkpXbENtNzNjemROY2tueXlSRnFuTUxzQk41MlFBZw?oc=5>
+
+### trump
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-07-17 07:00
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE9qcVZjUTR5bTdsS3FJa1d3MTlNQjlzYVNta1c5VXZ0QVVXUlJ0eU43TUcxdEVkN2FUdHpuWFl1MXh1MnBHbGVDUURTX0xucURmSFZ5R2VrNE9KbDJHZk9icmtJODFVYWc0QTFUNlhaSm1JUQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-17 20:01  (4 条)
+
+- **周杰伦** | 中国广州发布 <https://k.sina.com.cn/article_7879848924_1d5acf3dc01901is2y.html>
+- **特朗普** | 特朗普媒体推出付费Truth API 出售热门账户发帖快速访问权 <https://news.google.com/rss/articles/CBMijwJBVV95cUxPTkhPSzN1OEFtZm1iSjBQOXFZVHh0MDNIMXo1VFFMWFFMMzV3R1VhVFdOYkxtTlJqdUJwU2lMNzVmcXdLc0dsMDhKdmlaXzJLanF4VG1BcUFjc25nMlpjNndqN1hSRmRjS0dOSElRYXFnOGVrWEYwQzVyVHhXR1oxLVRuSU9PU3JwVlg0ZFU1V3ZZZlRTLWZXaGkzcENPdk1hdk1YeW1jVUlWTVNpZjFRdjJ3VTZBM01MWEhSeUhLR2FmTldVMkhSXy1QZjYwNDhGSmZUQ1FLVXRKcmkzbzhMaWptMnJyTWZPWEtTbnZza1lGa1lLWWVWSVBmeTMwbk9UVGdTSmlkVWp3SWN0WHhB?oc=5>
+- **Trump** | 特朗普媒体推出付费Truth API 出售热门账户发帖快速访问权 <https://news.google.com/rss/articles/CBMikwJBVV95cUxPUThXc1FHSmU1a3JjQjhhZHVMMzhlcXFpVmFkWXFLbnI0Z0tzc2tnRHpuQkdpaUczejcxanVfekFlbGNZSUktdnd3bmlQYWZjdGRJSHpxUTZSVkhtNnQtX0YzbUNVRE0taG9vSUJjZVpLeXUyMWxLekt6RHotTzdXNGI1WmhFTFlEOVA3R3poc1hhS0NaeEZHWEFpVGVmOVFkb1l3NXhwQXo3Y3pfcGl4am5sQ00yQTlySkJacWNqTXRVUTRhcGZ0dWhuTkhIazhTa2RWTmFyUUpUWmtab0xWYkVaSmdCRmZ6b0JiVm9QWm9QdmM5SkpXbENtNzNjemROY2tueXlSRnFuTUxzQk41MlFBZw?oc=5>
+- **Trump** | trump <https://news.google.com/rss/articles/CBMickFVX3lxTE9qcVZjUTR5bTdsS3FJa1d3MTlNQjlzYVNta1c5VXZ0QVVXUlJ0eU43TUcxdEVkN2FUdHpuWFl1MXh1MnBHbGVDUURTX0xucURmSFZ5R2VrNE9KbDJHZk9icmtJODFVYWc0QTFUNlhaSm1JUQ?oc=5>
 
 ### 2026-07-17 18:32  (3 条)
 
