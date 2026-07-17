@@ -1,70 +1,82 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-17 00:57**
-- 本轮扫到 7079 条, 新增 **7** 条
+- 最近更新: **2026-07-17 04:06**
+- 本轮扫到 7088 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (9 条)
 
-### 艾米人生第一次看演唱会 艾米 周杰伦 杨迪 雀骨 演唱会 功夫女足 侯明昊
+### 蔡徐坤演唱会抢票攻略：如何提高大麦平台成功率？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776730_1d5abd9da06803o364.html>
+
+### 蔡徐坤澳门演唱会想看人数破十万，明天开票连开两场生日场
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5727695436_m15565b24c05301r6no.html>
+
+### 王俊凯看周杰伦演唱会时有多紧张？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923674_m1d5ae17da03301mbne.html>
+- 链接: <https://k.sina.com.cn/article_7879923373_1d5ae16ad06801ed36.html>
 
-### 白宫提词器操作员靠特朗普讲话下注，赢近10万美元
+### 王俊凯演唱会想看人数为何能紧追周杰伦？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察
-- 时间: 2026-07-16 23:13
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE10T09QR3FTeUw5VFRsMDAwVXlJdHp4MW5JSnRFZEI2ekNhdHU4MXktcWRUWmxwV2ROd01BVWdYZm9zQTBaalVoVWlLdkVvM0tHWEM0bzZFM3JSM0NVNXZrYXkzZ3poR0hnR0E?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923373_1d5ae16ad06801ed34.html>
 
-### 特朗普称有美籍囚犯从伊朗监狱获释，伊朗：经核查，没有这种情况，也未发生任何美籍囚犯交换事件
+### 王俊凯看周杰伦演唱会，追星赢家顶峰相见
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: finance.sina.cn
-- 时间: 2026-07-16 23:21
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBnM2dUTW5Gb1B4WVk1UVo3alQ0cWZhUzQ3VHZfMXZCRFJkcG00dU1ERTFmY3h3TVV4MXZMREdfbHBMU2xSd3paU2V5UEpWZjItMk1PUWlJd2w4X2pvM18wX0R1U0JFTjhkNXhMbzdsUlBMRWFJQ1Jfcw?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923373_1d5ae16ad06801ed32.html>
 
-### 特朗普预判俄乌冲突将在其任期内结束 俄准备达成协议
+### 盘点演唱会上8大神级特邀嘉宾，每一场都是绝版名场面
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-07-17 00:07
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9GaWN0elFFenBPaEJoRFhibXB3NjBmeUFsTUFCQkdnYUY3S2JlYU1Xd1Z3bVNKSzE3czhxMml1Q1FVRllmVmhYRDY1S3V4Z0FCa0FUVGJQakV0RWtoMXR5YlFFQ2lkcWVtdEZ2U3BIcWg?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923704_m1d5ae17f803301up4e.html>
 
-### Trump Media推新服务：付费即可更快获取总统发的帖子
+### 王俊凯重庆演唱会零预热13小时破百万想看是真的吗？
 
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-07-17 00:41
-- 链接: <https://news.google.com/rss/articles/CBMitgJBVV95cUxPUWlocVhhSnlPX3FISDY0TVVuWkZIaXJJUnR3NERuRkpqM3dWQUEzZlA5TzgwRnFHeHdUdXdnS0doN2NlajMxRjlRRFNDYzNsWHVNLVdWMzdpdkduU2FsZ0lLX0QwLWJTMmdlLUlKaE5neDN0c09FQnQ0NzJTMy00SVNUR2FuUURmNDhhRnlsNnpadHhQUTN3empFYjlLcmhiUlRDZUZRamxINTFxN0V0V3lrb3VKcHI1MXhxWFhzX2hLUlNyeHo3enR5Yl9hY2R2RGJiMk1IZ2tNa2dHbDdaUFlkd3F2cVZmbFRjNE9HUjdNWFhDUnIwT3JneWpBM04xMWMxem9vS042bHNERFhWU042UlJwbE5yRWQ4ZUl2ZUNabllDc01GZzlyTWx2bDlFbHh2YlNR?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879849300_1d5acf554068012vci.html>
 
-### 特朗普将亲临现场观看世界杯决赛
+### 周杰伦MV排行第一名-千里之外
 
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-07-16 22:50
-- 链接: <https://news.google.com/rss/articles/CBMingFBVV95cUxQZ0c3R2dHLUFuRWhGaU1va1RIZWtnMlYwWmFDaE5mRHVOLXp4WEEwamFMVnZ2U2ZMVjc5TlZGLWdnUHNXMjM0dzNBVzZyOWZKbmJObUNYd2dmR1BZWnlvSVdtVHNidE9QWmhUaTMzc0ticEpBcHNMQkdOUjh4ODhrdFlqbVhBQjE1c0E4VkJHNDI4dGk4WldxNHlZWWFGZw?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879924057_m1d5ae195903301fi8s.html>
 
-### 白宫提词器操作员因涉嫌押注特朗普演讲而遭到调查
+### 周杰伦王俊凯演唱会想看数为何能双双破纪录？
 
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-07-16 23:59
-- 链接: <https://news.google.com/rss/articles/CBMiugFBVV95cUxQaXI3M1VZWDI1WGlPRHVEa09IM2tJdWtIc085ZGMyd0kyT21oSlgyN2R6R1BtOVRnaHl0UVRNQ0gtNVlGU09lVlhubEJicjNIdGIwOFUzMWstS2JoT1FHZDg4VW13TVp1UWN3Rm8yVUU5TkZrN2tURENfTkQ0bXVFeEJvZDh3QjhLN0VPWGtkYVhtd3BweERzMHNaZmZxNVV6ZzVRUDhnRkd0dzhqcmhQMzBrMFpOUS1fY0E?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923112_1d5ae15a806801uz70.html>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-17 04:06  (9 条)
+
+- **蔡徐坤** | 蔡徐坤演唱会抢票攻略：如何提高大麦平台成功率？ <https://k.sina.com.cn/article_7879776730_1d5abd9da06803o364.html>
+- **蔡徐坤** | 蔡徐坤澳门演唱会想看人数破十万，明天开票连开两场生日场 <https://k.sina.com.cn/article_5727695436_m15565b24c05301r6no.html>
+- **周杰伦** | 王俊凯看周杰伦演唱会时有多紧张？ <https://k.sina.com.cn/article_7879923373_1d5ae16ad06801ed36.html>
+- **周杰伦** | 王俊凯演唱会想看人数为何能紧追周杰伦？ <https://k.sina.com.cn/article_7879923373_1d5ae16ad06801ed34.html>
+- **周杰伦** | 王俊凯看周杰伦演唱会，追星赢家顶峰相见 <https://k.sina.com.cn/article_7879923373_1d5ae16ad06801ed32.html>
+- **周杰伦** | 盘点演唱会上8大神级特邀嘉宾，每一场都是绝版名场面 <https://k.sina.com.cn/article_7879923704_m1d5ae17f803301up4e.html>
+- **周杰伦** | 王俊凯重庆演唱会零预热13小时破百万想看是真的吗？ <https://k.sina.com.cn/article_7879849300_1d5acf554068012vci.html>
+- **周杰伦** | 周杰伦MV排行第一名-千里之外 <https://k.sina.com.cn/article_7879924057_m1d5ae195903301fi8s.html>
+- **周杰伦** | 周杰伦王俊凯演唱会想看数为何能双双破纪录？ <https://k.sina.com.cn/article_7879923112_1d5ae15a806801uz70.html>
 
 ### 2026-07-17 00:57  (7 条)
 
