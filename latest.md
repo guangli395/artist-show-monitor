@@ -1,68 +1,44 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-17 15:54**
-- 本轮扫到 7153 条, 新增 **7** 条
+- 最近更新: **2026-07-17 17:05**
+- 本轮扫到 7156 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (3 条)
 
-### 蔡徐坤近期演唱会巡演有哪些城市
+### 蔡徐坤选购香水是否与巡回演唱会个人用品有关？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd848068021osy.html>
+- 链接: <https://k.sina.com.cn/article_7879776730_1d5abd9da06803o5uu.html>
 
-### 周杰伦嘉年华长沙站演唱会门票价格是多少？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923119_1d5ae15af06801teu8.html>
-
-### 近七成美国人反对，特朗普的麻烦来了
+### 美议员致函特朗普促禁中国水产品进口 指涉强迫劳动与非法捕鱼威胁美国市场
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-07-17 11:14
-- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxQenRzSUEyZDhMTFh2N0w1bUpRMmtOUm5WS2NUSk9wZGo2RG50Z2o3VVI1NWJXemhleldSbVk2RkRFQ1hkNDRVOUllMUhHT0YtTXhTZHdlTi1jZ2Y0dVNfUXJhcmR2cF9ZOFJEZEcyYUU3MXl1UUdCeHZxRnFHd2EyWVhZOUw3a1BvVFBOLW9lRDR4UjRf?oc=5>
+- 场馆: RFI
+- 时间: 2026-07-17 16:19
+- 链接: <https://news.google.com/rss/articles/CBMi-ANBVV95cUxPcno5TjZCSGNzZ3I4dTFTSnR6Njl1R19SZHFiRkIxWW9IYUdGbHplOEFVUlppRk5fSDZ0WmtpdTJjTjBfaW02OTNUWDZDSDBQYkVJN3dDUkxaSkZSSnlCN2xUZ2JRc2hjTV8zQlJVME56YUYtcnN6N1RvbVMycm5NX1NJSXhybDIxd1FMT0hUR3ZqZzZiUXFwWUZhcmdsQ056WjlSN3RsdzVCaGZ6YWFjQXZJQ1BFWTZXSUdMZ3FOeWVmQk9Hd2pCVEVEbVREOVotSDgyS2ZqbFl4aVNWeGxGWkFaMFNqSHNCZjlZOTM0ZWpSeTVHck5aUHExSW5LbXhUZ240dG9TaFh2OXp0MVBSVXdqX25pUlZMZDd6RWVyLVdFX2xZa2JXa2N6T01HSXliU3lOdFVEcUtYOV80VzlrT0N2RlFkQmtEYjMxZzRWcFlGZV90allVQzh1QjdVYzdkNEhDR0lkc3FYYk1yN2RpcWd5UVY4T0U3ZGVmdkd3Y0ZLSVotQlRPNUlEWmRnVGRybGt2OVlXYUpfWVNQenJjNHkwTF9JOGZlNWEwdWNHNGYxUndCY3F5SWhNWDZqS2lIdnUxakM3NEIxaGFLU3hYWTNEWTBRQXZqVjFWdlV0NUdMYy14cW9ldzJHeFJESXlMbEdHSDl0dXc?oc=5>
 
-### 白宫再曝内幕交易丑闻！特朗普御用提词员利用演讲信息牟利遭调查
+### 中国商务部：美方已向中方确认，不再延续涉港国家紧急状态
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-17 02:48
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5BaU5EWWVsenZoN0dWNFhCUmFWbFVtZFVRVFY3U0dQSzh5dVc5blU5LUROeWVGZU1qLVRlc3ljOXF4a3Z2cndOTVpWMWZ3UTVseUl6ZUtHUV9ROEJIUlYzRUFEWDFEM1diaktFZnlpNERCUHFkR29rUQ?oc=5>
-
-### 特朗普：别人都在笑话美国
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-07-17 08:50
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0WFhrTUg0enBzb0FtNUJwbWNxUkd2WTVvM3JjNUpXRzFMcEM2VFI1cHNweVhJNE9PNVZEeGxkSFg0bzB3MWE0VDRNZzhZSkRvYmQxSHYyb2R2ZHRRMW40UjBucG8?oc=5>
-
-### 特朗普旗下社交平台推出“付费超前点播”：特朗普发帖可第一时间抢先看，“远超常规速度”！公司股价三连涨，市值26.67亿美元
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-17 06:42
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE9ENjEtTmRMVWxzUmYwS1hzOVVuVzhHZk5xSmRsNTBxNkFEbDhyX1E0WmlKWkNETmc4UmZSUGs5Y3FjaGhjakhRb2hRbXBJbDNoaW0zVGR0Zjd3eHVjUk9QaXNiV1k0TXkwNjkxenc4RW50Q05Kb0E?oc=5>
-
-### 特朗普开辟“权力变现”新门路
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-16 22:16
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBDSV9oTHFfcTl5dS1rbzdBV0pSVmIzWnlOZWxVckZFWEpmVm4xMm9jZnhxN1hRXzV4TTNLYW1ENFR2dzNCeFFmTW9Vb3o?oc=5>
+- 场馆: RFI
+- 时间: 2026-07-17 15:03
+- 链接: <https://news.google.com/rss/articles/CBMimANBVV95cUxNV3EwS1ZIbHpHb0VoRHQyVTNKck1EVXJoNU1GRy1hVjdpZlVxM1BtT3lQUEZJS1c2cjV1R0RfRW8xXzJGRWJYZGhzeE1PdHV0MFM5Nm9WWDVyQ1lWeU14ZE9KaGVvanNwMDhhSzRkcEEzTjdsVEhCSTZPMktvVWtrLVhhZGdIQVdZTE84SkNMWnBqaDdzX2tOYlp1TndjelVTbVV1X29OaEpIV1NPU2J1SXIwVVV1UUR5VkFScE5oaW5GWWRUNFdwMVNIZ3lOMzdZMUtod2tTb05VRjhqS3dhSUlsQlFXTDNRWWdESHFDLUVVQ3BGd0VmMmoxTVl1aTJWeEJyMUJUQ3RkTnhQN1BjSHM1WFFxb3VHeDR2LTFObTBWQ2F3LWV1MVhRZHlMeFUwR2RGRTA1NFhIYlpSZlJobF9jOG1ONEw2a2l5b2Z0QUllTDNrNVlfNExWSDh3MEcxclNXWF81QkRoc08tTTJ6SzZnYmxTcE44TjkwUmRvYzlfM0pncHJIYjZwUUp1WmNYRm5QcFFuWWk?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-17 17:05  (3 条)
+
+- **蔡徐坤** | 蔡徐坤选购香水是否与巡回演唱会个人用品有关？ <https://k.sina.com.cn/article_7879776730_1d5abd9da06803o5uu.html>
+- **特朗普** | 美议员致函特朗普促禁中国水产品进口 指涉强迫劳动与非法捕鱼威胁美国市场 <https://news.google.com/rss/articles/CBMi-ANBVV95cUxPcno5TjZCSGNzZ3I4dTFTSnR6Njl1R19SZHFiRkIxWW9IYUdGbHplOEFVUlppRk5fSDZ0WmtpdTJjTjBfaW02OTNUWDZDSDBQYkVJN3dDUkxaSkZSSnlCN2xUZ2JRc2hjTV8zQlJVME56YUYtcnN6N1RvbVMycm5NX1NJSXhybDIxd1FMT0hUR3ZqZzZiUXFwWUZhcmdsQ056WjlSN3RsdzVCaGZ6YWFjQXZJQ1BFWTZXSUdMZ3FOeWVmQk9Hd2pCVEVEbVREOVotSDgyS2ZqbFl4aVNWeGxGWkFaMFNqSHNCZjlZOTM0ZWpSeTVHck5aUHExSW5LbXhUZ240dG9TaFh2OXp0MVBSVXdqX25pUlZMZDd6RWVyLVdFX2xZa2JXa2N6T01HSXliU3lOdFVEcUtYOV80VzlrT0N2RlFkQmtEYjMxZzRWcFlGZV90allVQzh1QjdVYzdkNEhDR0lkc3FYYk1yN2RpcWd5UVY4T0U3ZGVmdkd3Y0ZLSVotQlRPNUlEWmRnVGRybGt2OVlXYUpfWVNQenJjNHkwTF9JOGZlNWEwdWNHNGYxUndCY3F5SWhNWDZqS2lIdnUxakM3NEIxaGFLU3hYWTNEWTBRQXZqVjFWdlV0NUdMYy14cW9ldzJHeFJESXlMbEdHSDl0dXc?oc=5>
+- **Trump** | 中国商务部：美方已向中方确认，不再延续涉港国家紧急状态 <https://news.google.com/rss/articles/CBMimANBVV95cUxNV3EwS1ZIbHpHb0VoRHQyVTNKck1EVXJoNU1GRy1hVjdpZlVxM1BtT3lQUEZJS1c2cjV1R0RfRW8xXzJGRWJYZGhzeE1PdHV0MFM5Nm9WWDVyQ1lWeU14ZE9KaGVvanNwMDhhSzRkcEEzTjdsVEhCSTZPMktvVWtrLVhhZGdIQVdZTE84SkNMWnBqaDdzX2tOYlp1TndjelVTbVV1X29OaEpIV1NPU2J1SXIwVVV1UUR5VkFScE5oaW5GWWRUNFdwMVNIZ3lOMzdZMUtod2tTb05VRjhqS3dhSUlsQlFXTDNRWWdESHFDLUVVQ3BGd0VmMmoxTVl1aTJWeEJyMUJUQ3RkTnhQN1BjSHM1WFFxb3VHeDR2LTFObTBWQ2F3LWV1MVhRZHlMeFUwR2RGRTA1NFhIYlpSZlJobF9jOG1ONEw2a2l5b2Z0QUllTDNrNVlfNExWSDh3MEcxclNXWF81QkRoc08tTTJ6SzZnYmxTcE44TjkwUmRvYzlfM0pncHJIYjZwUUp1WmNYRm5QcFFuWWk?oc=5>
 
 ### 2026-07-17 15:54  (7 条)
 
