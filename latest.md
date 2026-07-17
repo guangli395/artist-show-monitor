@@ -1,31 +1,57 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-17 09:05**
-- 本轮扫到 7116 条, 新增 **11** 条
+- 最近更新: **2026-07-17 11:03**
+- 本轮扫到 7130 条, 新增 **14** 条
 
 ---
 
-## 本轮新发现 (11 条)
+## 本轮新发现 (14 条)
 
-### 蔡徐坤演唱会空降数据！不愧是蔡徐坤太能打了！活粉好多啊
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5930868365_m16181de8d03301krq0.html>
-
-### 蔡徐坤澳门巡演想看人数破10万，生日场明日开票
+### 蔡徐坤全新巡演澳门站大麦想看人数破45万
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2495457342_m94bda83e05301a078.html>
+- 链接: <https://k.sina.com.cn/article_7096020439_v1a6f4add706801t0wa.html>
+
+### 重磅官宣！周杰伦时隔八年再来青岛，国庆连开三场爱琴海演唱会
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019088dig.html>
+
+### 王俊凯到底有没有在周杰伦演唱会当嘉宾？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879849022_1d5acf43e06801flui.html>
+
+### 周杰伦长沙演唱会王俊凯合唱曲目《稻香》的歌词
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923101_1d5ae159d06801mbba.html>
+
+### 周杰伦为周星驰新片打call，主题曲合作确认
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857263936_v1d454554006801muba.html>
 
 ### 中方驳斥特朗普“中国干预美国大选”论调：无稽之谈
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪军事
+- 场馆: 中国日报网
 - 时间: 2026-07-17 08:08
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1uTDQ4aWRNQTFYNjlNVEYwcV90TFdTa0R6ZGswcHUyRTJBLXJwZTdqeWVVRzdHdWR4a2p1U0JGeDQ4T3B3QWF0YUJRU3ZrS0xxSS1SMk1jN3ZsdHA1OFltYVROUmRTdGx4WXFIQms5XzY3OE0?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE1KYzN3dmlTX04xMnJiUnpmSFNhVjFZMEFlekp1UFBGUGxBWEZIbzU3MG5XdkhnbWZIc3JnWDBwX1BhOGNXeTRXZFp1ajRYWHVqTnpHRmVTZktNWndwa0JaVFgwNEdsNDJ3RnpDYV9rZGp6VmVfRWRKR1lHRUw?oc=5>
+
+### 特朗普今晚演讲
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-07-17 10:45
+- 链接: <https://news.google.com/rss/articles/CBMihgFBVV95cUxQMEtzVGNJYjBtWF9CU05Wejl1bU55dF9ENUlZV0owZ2xQU0Rfb2VDdnNLazludXR2UF9VUXhSV3dQcm5jV0V1bmxtdUdJZEEzcU5sTDhyam1GeDBla1R4TDlQcTVINVBLbGRFZmxyclRtdG5uaE5QcGRnYzh6d19meXBRZHp0Zw?oc=5>
 
 ### 特朗普：别人都在笑话美国
 
@@ -33,31 +59,23 @@
 - 来源: `googlenews`
 - 场馆: 新华网
 - 时间: 2026-07-17 03:17
-- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE5COEZsTF9jdF8zX2hoQS1RU1FtMFlJVDJfMkFvaUlqaUR3dWxvWFpza01PME1TOWdkOUlTVWk0QVp0MWJ0TUgzWVl0NlcxRENKOEk5ZEVRS3AwU0tGUlB1Y0hUQTlNNWpabE1QaUgxMFdDM3Rud0dIeUZ5TzBodw?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE0xS2Nna2kxZk9yUVhadDA4NlZsMGFhS3ZHTDJSbkhDN0VPU2UxU1M3MHJFTXNsNU1kbURwNXE0SjhQVHdQVklvSmlyTkxXX3FWbWlZR3BHZGltSkZHUTVvZ3djSnhOWkpXd0libmkxYmJfM1VDNDgxQ01HS25XV0U?oc=5>
 
-### 特朗普：别人都在笑话美国
+### 特朗普发表全国电视讲话：“别人都在笑话我们国家”，“没播我讲话的媒体是骗子，都该被吊销营业执照”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-07-17 08:57
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1kSFRBU1NsVnMzdFdHSWFwNVpnUE9lUkVhTzR1OVUzQjRQMlJwdGRkU3JRNlNqOWNnWEVRX29kakUtQWlXYVFsVDZKOFN5eUkxYmlGZk8wS0FPRXgwX1diMjdVZGlmMDlfY0hiUzRBcGQ?oc=5>
+- 时间: 2026-07-17 04:07
+- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxQSU5oZDZEam9zV1JUaTZNSHVnTEZLMi1HUEhMZkxVdEtmeHFUV0luYW1lSkU4QzJMT3hCV05ZWk9lWlBSTjBPV3Z6MThQaDBtRGNMZ3JiVjBSbVdGbzhVQXBoaXVaa1UyRjcxdjlfWFJ4YWRQMVZUYUNSdkVjUENUZXY4VExpckFlaGFNbVhKNTI0WEFnZnZJaA?oc=5>
 
-### 特朗普：别人都在笑话美国
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: qq.com
-- 时间: 2026-07-17 03:11
-- 链接: <https://news.google.com/rss/articles/CBMiV0FVX3lxTE84dkN2WHZNalZKeXlPeWJ4WFRiVHgyTl9WSFZKWEFpX3BnVWdneGpJX24tbkNwNDRQSTFxb1BGdTg4RUJWLUVqNEIySm4xQU9EM2ZTWjQ0MA?oc=5>
-
-### 白宫：特朗普同意万斯
+### 特朗普：别人都在笑话美国，美国正面临严重的困境，没有播出我讲话的媒体，都应该被吊销营业执照
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察
-- 时间: 2026-07-17 03:19
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1hUmpwZmFnY2FoVGdMdzNwT2pqVWVoRDlwNlBWR1QtWTJyUVV2MnZRQTA0RUc4TUJ5UE5PSUR6cW00STNjODh5NEk5QWV4d1ptY2prVDFEZnpBNUxzMklBTFRiV25ZRnRfNGc?oc=5>
+- 场馆: video.sina.com.cn
+- 时间: 2026-07-17 07:22
+- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxPRzNnUlRTSmxtX1pjd3kzekI5NHhwYURqdVVZX01hSmdCd0hkRmtxWTE3Z2JkTGVhcExmZnBxaFdMSHRLbTRienNGRTJRbWZtdXAxT05kVFRTVE9rTEZ3V1ZQMW8xWDM0Mzhva2loSng4WGk3b1VEZzlVd0xuVXJiS1FB?oc=5>
 
 ### 特朗普提词器操作员借职务之便提前掌握演讲稿，对十余场重要演讲下注，非法获利逾10万美元
 
@@ -65,36 +83,53 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-07-17 03:21
-- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxOa2VJX3lNZjFwTHlOOVpGNmt1ZjdxQ1ZlanJMLXRxTVFXZU5DdVhQUGpQLWlBc2ZLT0ZvZDVTRmRlcWRHS2ZCcU5ySFRwRmI5SHhYZmcwX3otSDc1REJEcjJQc2szNldCbjJDNHJzaWg1ZE5FN0hIQ09Rck9WV3NDc3R1WndNd2ZkamUydWlmLVZHU2dDMGlvRnM4eUpzUGRCTzExbEd4dElZTzFwT0RubWpfWTZXcFI1amVpT1hWRmg1YU93YkgxckRhRDRCM0E?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTWI0WkJrODNKRVRSZXZPR3J4bDJnTWpxbXJ1MzZBaUhOVEU0amJoaFBUTGRwZzZxc0hkWHFBU2RuM29pbHJtWXdJVmpiZkhOSWd1NlZVOVpqQUJ2UXdKQjVKQkc3czl2TU5uNXJpblBqVVJHV2JTeEhNdTR5WUNpdWtOc2pVamo5cGxia0ZZWVFUeXRkenBGNGEtLXQxOHQ0M1NqQnZlUDJObGZEbTVMWHJzSi1nM2RzY0dmRVBSUlg1bjM2Z1Q0TQ?oc=5>
 
-### 特朗普幕僚认为中国违反贸易协议 但不愿采取反制措施
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-07-16 03:28
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1MZHBuanNCcV95MUhkemhSLTVpLTBkRGh3R0JReDdRVHBuS0xYdWw3NlFJWFFPSVNELW5XOFZEMjVIa0ZpU0ZnYzNFbWlnWUN0WWJMak4yN09yRU5yRFR1NXBCZlZrZw?oc=5>
-
-### 一财主播说 | 公开售卖“优先内幕信息”？ 特朗普推付费项目 花钱抢先看我的推文
+### 民调：特朗普在伊朗问题上遭遇政治失败
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 第一财经
-- 时间: 2026-07-17 04:15
-- 链接: <https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qb05PSmRLX0M3MDRNTk9JdDJMZ1FTck95UUdSNGM1c2t3YmZqYjFEaFh3blV3elhXY1VLRkI0TWp3ZzhrdnNIb05QczdjQm9DU1k1eg?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-07-17 10:11
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBWZDR4MnRCcV92bDh1Mk1iRElxUmJJMkc3MUQ2TUlUMDZQRWxfbXVaMkg0ODVwclE3dU5Yb3lISVl2dklnSUJ6czBBVkM?oc=5>
 
-### 《经济学人》｜特朗普掏空美国司法部
+### 特朗普确认将出席世界杯决赛，预计将亲自颁发冠军奖杯！冠军将获定制戒指，还将向全球球迷发售！“感到恶心”，英法均无心季军战
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 手机网易网
-- 时间: 2026-07-17 05:41
-- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE85ZjVxSkdpTElrcWtUSFk3MTBOTURRZFpOX3p3VlJvSWdsSXZFbDhkRVhBZWZXamJvTE8zbnpmTzFMZ3lzTjZ6OTFsVjlVaU9UcGdfTzZwdkdtRHBwRi1kSTVn?oc=5>
+- 场馆: 每日经济新闻
+- 时间: 2026-07-17 02:50
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5HRDhobjdGYTRzVVBLMENWa3NIeDU3bHhnalNiQ2NodFNtYXptdGlzNmFycERDMGNrZ3RJSWYxWHVScWVRVF9QRmU1czVFVVZFWHN0N01yU2tCenJyZlZEZnJCSHpTQQ?oc=5>
+
+### US President Donald Trump begins widely anticipated address to the nation
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: TMGM trading
+- 时间: 2026-07-17 02:22
+- 链接: <https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbXpGRkx6SVQ3aTdsV0VqRmZtYWdBR0JEd3VuMjZDTWo2b1dHRFNHMlpHVlRLcHdTY0hRTjI3Z3NiNXU2a0tRYlRtTVJFRnN1UlppaEo1SHd6cGhZT2VPNXVUUHpGRVpVVjdKMTE1X0JSbWFSdm9LRWVxdVlSWU50Qzl4QXNlUFZOYU5HUTRsa2ZEamVTc2d1eUhNWUpac2FSQ055OWVJRDRHai1RbmR5SEFwY3NMdDBWM3MxQVk2SDYyYXVGNWtCTUtuNW5yaUJSVHdndVlvcFMyay1q?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-17 11:03  (14 条)
+
+- **蔡徐坤** | 蔡徐坤全新巡演澳门站大麦想看人数破45万 <https://k.sina.com.cn/article_7096020439_v1a6f4add706801t0wa.html>
+- **周杰伦** | 重磅官宣！周杰伦时隔八年再来青岛，国庆连开三场爱琴海演唱会 <https://k.sina.com.cn/article_7857201856_1d45362c0019088dig.html>
+- **周杰伦** | 王俊凯到底有没有在周杰伦演唱会当嘉宾？ <https://k.sina.com.cn/article_7879849022_1d5acf43e06801flui.html>
+- **周杰伦** | 周杰伦长沙演唱会王俊凯合唱曲目《稻香》的歌词 <https://k.sina.com.cn/article_7879923101_1d5ae159d06801mbba.html>
+- **周杰伦** | 周杰伦为周星驰新片打call，主题曲合作确认 <https://k.sina.com.cn/article_7857263936_v1d454554006801muba.html>
+- **特朗普** | 中方驳斥特朗普“中国干预美国大选”论调：无稽之谈 <https://news.google.com/rss/articles/CBMifEFVX3lxTE1KYzN3dmlTX04xMnJiUnpmSFNhVjFZMEFlekp1UFBGUGxBWEZIbzU3MG5XdkhnbWZIc3JnWDBwX1BhOGNXeTRXZFp1ajRYWHVqTnpHRmVTZktNWndwa0JaVFgwNEdsNDJ3RnpDYV9rZGp6VmVfRWRKR1lHRUw?oc=5>
+- **特朗普** | 特朗普今晚演讲 <https://news.google.com/rss/articles/CBMihgFBVV95cUxQMEtzVGNJYjBtWF9CU05Wejl1bU55dF9ENUlZV0owZ2xQU0Rfb2VDdnNLazludXR2UF9VUXhSV3dQcm5jV0V1bmxtdUdJZEEzcU5sTDhyam1GeDBla1R4TDlQcTVINVBLbGRFZmxyclRtdG5uaE5QcGRnYzh6d19meXBRZHp0Zw?oc=5>
+- **特朗普** | 特朗普：别人都在笑话美国 <https://news.google.com/rss/articles/CBMif0FVX3lxTE0xS2Nna2kxZk9yUVhadDA4NlZsMGFhS3ZHTDJSbkhDN0VPU2UxU1M3MHJFTXNsNU1kbURwNXE0SjhQVHdQVklvSmlyTkxXX3FWbWlZR3BHZGltSkZHUTVvZ3djSnhOWkpXd0libmkxYmJfM1VDNDgxQ01HS25XV0U?oc=5>
+- **特朗普** | 特朗普发表全国电视讲话：“别人都在笑话我们国家”，“没播我讲话的媒体是骗子，都该被吊销营业执照” <https://news.google.com/rss/articles/CBMimAFBVV95cUxQSU5oZDZEam9zV1JUaTZNSHVnTEZLMi1HUEhMZkxVdEtmeHFUV0luYW1lSkU4QzJMT3hCV05ZWk9lWlBSTjBPV3Z6MThQaDBtRGNMZ3JiVjBSbVdGbzhVQXBoaXVaa1UyRjcxdjlfWFJ4YWRQMVZUYUNSdkVjUENUZXY4VExpckFlaGFNbVhKNTI0WEFnZnZJaA?oc=5>
+- **特朗普** | 特朗普：别人都在笑话美国，美国正面临严重的困境，没有播出我讲话的媒体，都应该被吊销营业执照 <https://news.google.com/rss/articles/CBMiggFBVV95cUxPRzNnUlRTSmxtX1pjd3kzekI5NHhwYURqdVVZX01hSmdCd0hkRmtxWTE3Z2JkTGVhcExmZnBxaFdMSHRLbTRienNGRTJRbWZtdXAxT05kVFRTVE9rTEZ3V1ZQMW8xWDM0Mzhva2loSng4WGk3b1VEZzlVd0xuVXJiS1FB?oc=5>
+- **特朗普** | 特朗普提词器操作员借职务之便提前掌握演讲稿，对十余场重要演讲下注，非法获利逾10万美元 <https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTWI0WkJrODNKRVRSZXZPR3J4bDJnTWpxbXJ1MzZBaUhOVEU0amJoaFBUTGRwZzZxc0hkWHFBU2RuM29pbHJtWXdJVmpiZkhOSWd1NlZVOVpqQUJ2UXdKQjVKQkc3czl2TU5uNXJpblBqVVJHV2JTeEhNdTR5WUNpdWtOc2pVamo5cGxia0ZZWVFUeXRkenBGNGEtLXQxOHQ0M1NqQnZlUDJObGZEbTVMWHJzSi1nM2RzY0dmRVBSUlg1bjM2Z1Q0TQ?oc=5>
+- **特朗普** | 民调：特朗普在伊朗问题上遭遇政治失败 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBWZDR4MnRCcV92bDh1Mk1iRElxUmJJMkc3MUQ2TUlUMDZQRWxfbXVaMkg0ODVwclE3dU5Yb3lISVl2dklnSUJ6czBBVkM?oc=5>
+- **特朗普** | 特朗普确认将出席世界杯决赛，预计将亲自颁发冠军奖杯！冠军将获定制戒指，还将向全球球迷发售！“感到恶心”，英法均无心季军战 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5HRDhobjdGYTRzVVBLMENWa3NIeDU3bHhnalNiQ2NodFNtYXptdGlzNmFycERDMGNrZ3RJSWYxWHVScWVRVF9QRmU1czVFVVZFWHN0N01yU2tCenJyZlZEZnJCSHpTQQ?oc=5>
+- **Trump** | US President Donald Trump begins widely anticipated address to the nation <https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbXpGRkx6SVQ3aTdsV0VqRmZtYWdBR0JEd3VuMjZDTWo2b1dHRFNHMlpHVlRLcHdTY0hRTjI3Z3NiNXU2a0tRYlRtTVJFRnN1UlppaEo1SHd6cGhZT2VPNXVUUHpGRVpVVjdKMTE1X0JSbWFSdm9LRWVxdVlSWU50Qzl4QXNlUFZOYU5HUTRsa2ZEamVTc2d1eUhNWUpac2FSQ055OWVJRDRHai1RbmR5SEFwY3NMdDBWM3MxQVk2SDYyYXVGNWtCTUtuNW5yaUJSVHdndVlvcFMyay1q?oc=5>
 
 ### 2026-07-17 09:05  (11 条)
 
