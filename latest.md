@@ -1,66 +1,78 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-17 14:27**
-- 本轮扫到 7146 条, 新增 **7** 条
+- 最近更新: **2026-07-17 15:54**
+- 本轮扫到 7153 条, 新增 **7** 条
 
 ---
 
 ## 本轮新发现 (7 条)
 
-### 蔡徐坤巡演前现身香水店有何深意？
+### 蔡徐坤近期演唱会巡演有哪些城市
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923112_1d5ae15a806801v2f6.html>
+- 链接: <https://k.sina.com.cn/article_7879776328_1d5abd848068021osy.html>
 
-### 周杰伦2026演唱会广州站定档,连开三场
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879848923_1d5acf3db01901f788.html>
-
-### 嘿,看完济南周杰伦演唱会的你开始“戒断”了吗?
+### 周杰伦嘉年华长沙站演唱会门票价格是多少？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879848924_1d5acf3dc01901iq1o.html>
+- 链接: <https://k.sina.com.cn/article_7879923119_1d5ae15af06801teu8.html>
 
-### 特朗普提词器操作员借职务之便提前掌握演讲稿，对十余场重要演讲下注，非法获利逾10万美元
+### 近七成美国人反对，特朗普的麻烦来了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-07-17 11:14
+- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxQenRzSUEyZDhMTFh2N0w1bUpRMmtOUm5WS2NUSk9wZGo2RG50Z2o3VVI1NWJXemhleldSbVk2RkRFQ1hkNDRVOUllMUhHT0YtTXhTZHdlTi1jZ2Y0dVNfUXJhcmR2cF9ZOFJEZEcyYUU3MXl1UUdCeHZxRnFHd2EyWVhZOUw3a1BvVFBOLW9lRDR4UjRf?oc=5>
+
+### 白宫再曝内幕交易丑闻！特朗普御用提词员利用演讲信息牟利遭调查
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-17 03:21
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE5lbE9XZlNPNzNvQ0J2UFZMVmFrMHE1X1ViWVV0VFM1bldpanB1YnZ5WlNBMkFHeUtUV1k4cGcyYWdYb0pwOWtHb01DWW9JN0NMNndWOXRuVUhWQ0FQQmY3WXF1aXRHbFR5SzM2NW5VZGpQM0x4U3c?oc=5>
+- 时间: 2026-07-17 02:48
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5BaU5EWWVsenZoN0dWNFhCUmFWbFVtZFVRVFY3U0dQSzh5dVc5blU5LUROeWVGZU1qLVRlc3ljOXF4a3Z2cndOTVpWMWZ3UTVseUl6ZUtHUV9ROEJIUlYzRUFEWDFEM1diaktFZnlpNERCUHFkR29rUQ?oc=5>
 
-### 白宫提词器操作员靠特朗普讲话下注，内幕交易获利近10万
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-07-17 12:14
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE5rWGk1aWlYSkx5QzlNRWloQ1ZJQ25tcHl1UTZEeXYtWVFIbFdhNnhPZk1XZHd0UUVIX2dRRzhKYld6cWN4RUN2LUxaT3JIV1Y0Zy0xcTEyUVlRU1hmblVIejd4U2M2RTRYR0VNSU5HVE15dw?oc=5>
-
-### 特朗普为何频频感谢中俄？
+### 特朗普：别人都在笑话美国
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察
-- 时间: 2026-07-15 08:00
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LZUJWRnl6d1ZEMXhxV01FN1o1cG44VGZvc1NkM1NjUmNCZm1iT18tNXhiRGV5dVJCSkhsVzZPa0Izek0wUndNNnBiaFQ2LThJMTRYMjllTjd1eVlmNnRLY3BTNTY?oc=5>
+- 场馆: 新京报
+- 时间: 2026-07-17 08:50
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0WFhrTUg0enBzb0FtNUJwbWNxUkd2WTVvM3JjNUpXRzFMcEM2VFI1cHNweVhJNE9PNVZEeGxkSFg0bzB3MWE0VDRNZzhZSkRvYmQxSHYyb2R2ZHRRMW40UjBucG8?oc=5>
 
-### 特朗普探讨扩大对伊打击 伊准备封锁红海石油运输通道
+### 特朗普旗下社交平台推出“付费超前点播”：特朗普发帖可第一时间抢先看，“远超常规速度”！公司股价三连涨，市值26.67亿美元
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-07-16 13:56
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFA5V0lwLU1IaFQ1dE5Na0pEQ2tJaklGVjM5SWJ0QTdza3J2RjdNQWpPM1pYS2JtR1lsbUctaVR6TkhlMnNBU3hLS290ZnVxRC01LTd6QWU3cW1NbGtHMWcwNGdXclVmdw?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-07-17 06:42
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE9ENjEtTmRMVWxzUmYwS1hzOVVuVzhHZk5xSmRsNTBxNkFEbDhyX1E0WmlKWkNETmc4UmZSUGs5Y3FjaGhjakhRb2hRbXBJbDNoaW0zVGR0Zjd3eHVjUk9QaXNiV1k0TXkwNjkxenc4RW50Q05Kb0E?oc=5>
+
+### 特朗普开辟“权力变现”新门路
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-07-16 22:16
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBDSV9oTHFfcTl5dS1rbzdBV0pSVmIzWnlOZWxVckZFWEpmVm4xMm9jZnhxN1hRXzV4TTNLYW1ENFR2dzNCeFFmTW9Vb3o?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-17 15:54  (7 条)
+
+- **蔡徐坤** | 蔡徐坤近期演唱会巡演有哪些城市 <https://k.sina.com.cn/article_7879776328_1d5abd848068021osy.html>
+- **周杰伦** | 周杰伦嘉年华长沙站演唱会门票价格是多少？ <https://k.sina.com.cn/article_7879923119_1d5ae15af06801teu8.html>
+- **特朗普** | 近七成美国人反对，特朗普的麻烦来了 <https://news.google.com/rss/articles/CBMilAFBVV95cUxQenRzSUEyZDhMTFh2N0w1bUpRMmtOUm5WS2NUSk9wZGo2RG50Z2o3VVI1NWJXemhleldSbVk2RkRFQ1hkNDRVOUllMUhHT0YtTXhTZHdlTi1jZ2Y0dVNfUXJhcmR2cF9ZOFJEZEcyYUU3MXl1UUdCeHZxRnFHd2EyWVhZOUw3a1BvVFBOLW9lRDR4UjRf?oc=5>
+- **特朗普** | 白宫再曝内幕交易丑闻！特朗普御用提词员利用演讲信息牟利遭调查 <https://news.google.com/rss/articles/CBMieEFVX3lxTE5BaU5EWWVsenZoN0dWNFhCUmFWbFVtZFVRVFY3U0dQSzh5dVc5blU5LUROeWVGZU1qLVRlc3ljOXF4a3Z2cndOTVpWMWZ3UTVseUl6ZUtHUV9ROEJIUlYzRUFEWDFEM1diaktFZnlpNERCUHFkR29rUQ?oc=5>
+- **特朗普** | 特朗普：别人都在笑话美国 <https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0WFhrTUg0enBzb0FtNUJwbWNxUkd2WTVvM3JjNUpXRzFMcEM2VFI1cHNweVhJNE9PNVZEeGxkSFg0bzB3MWE0VDRNZzhZSkRvYmQxSHYyb2R2ZHRRMW40UjBucG8?oc=5>
+- **特朗普** | 特朗普旗下社交平台推出“付费超前点播”：特朗普发帖可第一时间抢先看，“远超常规速度”！公司股价三连涨，市值26.67亿美元 <https://news.google.com/rss/articles/CBMidkFVX3lxTE9ENjEtTmRMVWxzUmYwS1hzOVVuVzhHZk5xSmRsNTBxNkFEbDhyX1E0WmlKWkNETmc4UmZSUGs5Y3FjaGhjakhRb2hRbXBJbDNoaW0zVGR0Zjd3eHVjUk9QaXNiV1k0TXkwNjkxenc4RW50Q05Kb0E?oc=5>
+- **特朗普** | 特朗普开辟“权力变现”新门路 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBDSV9oTHFfcTl5dS1rbzdBV0pSVmIzWnlOZWxVckZFWEpmVm4xMm9jZnhxN1hRXzV4TTNLYW1ENFR2dzNCeFFmTW9Vb3o?oc=5>
 
 ### 2026-07-17 14:27  (7 条)
 
