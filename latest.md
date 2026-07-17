@@ -1,46 +1,51 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-17 20:01**
-- 本轮扫到 7163 条, 新增 **4** 条
+- 最近更新: **2026-07-17 21:13**
+- 本轮扫到 7167 条, 新增 **4** 条
 
 ---
 
 ## 本轮新发现 (4 条)
 
-### 中国广州发布
+### 蔡徐坤演唱会官宣开票时间 粉丝备战抢票大战_中华网
 
-- 艺人/关键词: **周杰伦**
+- 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879848924_1d5acf3dc01901is2y.html>
+- 链接: <https://k.sina.com.cn/article_7879923018_1d5ae154a01901f04u.html>
+
+### 蔡徐坤澳门演唱会抢票秒罄，黄牛加价数千引众怒
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923107_1d5ae15a306803nx4k.html>
+
+### 特朗普指责加火灾给美国造成空气污染
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-07-17 20:35
+- 链接: <https://news.google.com/rss/articles/CBMiqwJBVV95cUxQVTFxZGsySE94RGVpYk84ZTJBY2lTay1Ma19ISUJCWnlhSzBVMjZYSjh6UTlDMU9VeTJXOXBYU3ZKckJCRUVsS25SR3dpaTRoNC1EVzlDSEktTExIUE5aNUYtUWpRejltTEVxRWticGRHYmlzTEZXS2Z2eXotWUNCQWVHVk00cndoZmZMUnFZa0dMVzZfRGswLXNFWjE4NXA4R25wdGVVYmtxQ3FJTTUyZDVPejN1RmFubnAyVHZzNVo0R0pLU2F4UXVyUGZOVmZaY25WM3VvUUlKNEdoaHljVVh4Vk1iRlVsTC1yMk5Ib0gyVTJBdUp5UjRvZm44Nnlzc0tqVlFaZUdRNVh3SVV1bEhuMXl3czdCRFNObU5OZTQ2RXpfdjduRUxaUQ?oc=5>
 
 ### 特朗普媒体推出付费Truth API 出售热门账户发帖快速访问权
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-17 19:42
-- 链接: <https://news.google.com/rss/articles/CBMijwJBVV95cUxPTkhPSzN1OEFtZm1iSjBQOXFZVHh0MDNIMXo1VFFMWFFMMzV3R1VhVFdOYkxtTlJqdUJwU2lMNzVmcXdLc0dsMDhKdmlaXzJLanF4VG1BcUFjc25nMlpjNndqN1hSRmRjS0dOSElRYXFnOGVrWEYwQzVyVHhXR1oxLVRuSU9PU3JwVlg0ZFU1V3ZZZlRTLWZXaGkzcENPdk1hdk1YeW1jVUlWTVNpZjFRdjJ3VTZBM01MWEhSeUhLR2FmTldVMkhSXy1QZjYwNDhGSmZUQ1FLVXRKcmkzbzhMaWptMnJyTWZPWEtTbnZza1lGa1lLWWVWSVBmeTMwbk9UVGdTSmlkVWp3SWN0WHhB?oc=5>
-
-### 特朗普媒体推出付费Truth API 出售热门账户发帖快速访问权
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-17 19:58
-- 链接: <https://news.google.com/rss/articles/CBMikwJBVV95cUxPUThXc1FHSmU1a3JjQjhhZHVMMzhlcXFpVmFkWXFLbnI0Z0tzc2tnRHpuQkdpaUczejcxanVfekFlbGNZSUktdnd3bmlQYWZjdGRJSHpxUTZSVkhtNnQtX0YzbUNVRE0taG9vSUJjZVpLeXUyMWxLekt6RHotTzdXNGI1WmhFTFlEOVA3R3poc1hhS0NaeEZHWEFpVGVmOVFkb1l3NXhwQXo3Y3pfcGl4am5sQ00yQTlySkJacWNqTXRVUTRhcGZ0dWhuTkhIazhTa2RWTmFyUUpUWmtab0xWYkVaSmdCRmZ6b0JiVm9QWm9QdmM5SkpXbENtNzNjemROY2tueXlSRnFuTUxzQk41MlFBZw?oc=5>
-
-### trump
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-07-17 07:00
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE9qcVZjUTR5bTdsS3FJa1d3MTlNQjlzYVNta1c5VXZ0QVVXUlJ0eU43TUcxdEVkN2FUdHpuWFl1MXh1MnBHbGVDUURTX0xucURmSFZ5R2VrNE9KbDJHZk9icmtJODFVYWc0QTFUNlhaSm1JUQ?oc=5>
+- 时间: 2026-07-17 20:16
+- 链接: <https://news.google.com/rss/articles/CBMijwJBVV95cUxNNmNQZzViVTAwZ0Q1T21OQ2pyQzBOcjR2Z3I2UjRQTTRxNXlaT0lqQ3JpSUpTOFdrNS02WWRYMVZpTGVITnlXRFZNYkxYLWxGS3N0V2dGUDdSVUxPblNwTGxlUDVjY0J6YzNqMWdPZ2FIWHBuWkhDbV9pajF4YVhZWWQyd3l5dFhEQTV4TVhlOVA1bHdkVWU3UVhYWFY1UlZRTkN2ZTZMSHdnZS04Z25feGVmemNFLUhKekpSUm01VUlpenptZnRvZzk0MlBCUUNNcFRuZ05KUVJsWWwxUmNpR2swbWtIX1hVMnZYcGxDd1lSMmxyU3hhOEdSMTBlazE1ZTNJbWpBMU1jelpybHpV?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-17 21:13  (4 条)
+
+- **蔡徐坤** | 蔡徐坤演唱会官宣开票时间 粉丝备战抢票大战_中华网 <https://k.sina.com.cn/article_7879923018_1d5ae154a01901f04u.html>
+- **蔡徐坤** | 蔡徐坤澳门演唱会抢票秒罄，黄牛加价数千引众怒 <https://k.sina.com.cn/article_7879923107_1d5ae15a306803nx4k.html>
+- **特朗普** | 特朗普指责加火灾给美国造成空气污染 <https://news.google.com/rss/articles/CBMiqwJBVV95cUxQVTFxZGsySE94RGVpYk84ZTJBY2lTay1Ma19ISUJCWnlhSzBVMjZYSjh6UTlDMU9VeTJXOXBYU3ZKckJCRUVsS25SR3dpaTRoNC1EVzlDSEktTExIUE5aNUYtUWpRejltTEVxRWticGRHYmlzTEZXS2Z2eXotWUNCQWVHVk00cndoZmZMUnFZa0dMVzZfRGswLXNFWjE4NXA4R25wdGVVYmtxQ3FJTTUyZDVPejN1RmFubnAyVHZzNVo0R0pLU2F4UXVyUGZOVmZaY25WM3VvUUlKNEdoaHljVVh4Vk1iRlVsTC1yMk5Ib0gyVTJBdUp5UjRvZm44Nnlzc0tqVlFaZUdRNVh3SVV1bEhuMXl3czdCRFNObU5OZTQ2RXpfdjduRUxaUQ?oc=5>
+- **特朗普** | 特朗普媒体推出付费Truth API 出售热门账户发帖快速访问权 <https://news.google.com/rss/articles/CBMijwJBVV95cUxNNmNQZzViVTAwZ0Q1T21OQ2pyQzBOcjR2Z3I2UjRQTTRxNXlaT0lqQ3JpSUpTOFdrNS02WWRYMVZpTGVITnlXRFZNYkxYLWxGS3N0V2dGUDdSVUxPblNwTGxlUDVjY0J6YzNqMWdPZ2FIWHBuWkhDbV9pajF4YVhZWWQyd3l5dFhEQTV4TVhlOVA1bHdkVWU3UVhYWFY1UlZRTkN2ZTZMSHdnZS04Z25feGVmemNFLUhKekpSUm01VUlpenptZnRvZzk0MlBCUUNNcFRuZ05KUVJsWWwxUmNpR2swbWtIX1hVMnZYcGxDd1lSMmxyU3hhOEdSMTBlazE1ZTNJbWpBMU1jelpybHpV?oc=5>
 
 ### 2026-07-17 20:01  (4 条)
 
