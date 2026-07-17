@@ -1,51 +1,63 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-17 06:35**
-- 本轮扫到 7105 条, 新增 **17** 条
+- 最近更新: **2026-07-17 09:05**
+- 本轮扫到 7116 条, 新增 **11** 条
 
 ---
 
-## 本轮新发现 (17 条)
+## 本轮新发现 (11 条)
 
-### 蔡徐坤演唱会为何不采用强实名制防黄牛？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849292_1d5acf54c06801dbs2.html>
-
-### 蔡徐坤演唱会门票秒空，百万观众抢票难
+### 蔡徐坤演唱会空降数据！不愧是蔡徐坤太能打了！活粉好多啊
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5930868365_16181de8d04001kru8.html>
+- 链接: <https://k.sina.com.cn/article_5930868365_m16181de8d03301krq0.html>
 
-### 蔡徐坤澳门演唱会首场为何选在8月2日？
+### 蔡徐坤澳门巡演想看人数破10万，生日场明日开票
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849291_1d5acf54b06801gdxm.html>
+- 链接: <https://k.sina.com.cn/article_2495457342_m94bda83e05301a078.html>
 
-### 周杰伦长沙演唱会是否可能邀请王俊凯作为嘉宾？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849292_1d5acf54c06801dbrg.html>
-
-### 美国正式进入战争状态，20艘军舰压境伊朗，特朗普真能硬刚到底？
+### 中方驳斥特朗普“中国干预美国大选”论调：无稽之谈
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-07-17 05:55
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFBrY1dCb3RTYTUxN3BPN2o3N3RSaEM4NWt3dGZrS0VVUnlWdE9BUWk5eDVLcXB3WlU0eFplYXZ5NjZhekd3YUEyQXR4ajh5YW9rendXZnBFUmN6NER5SGs5U0lzQzcxTzgyUFlweEFESURsZw?oc=5>
+- 场馆: 新浪军事
+- 时间: 2026-07-17 08:08
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1uTDQ4aWRNQTFYNjlNVEYwcV90TFdTa0R6ZGswcHUyRTJBLXJwZTdqeWVVRzdHdWR4a2p1U0JGeDQ4T3B3QWF0YUJRU3ZrS0xxSS1SMk1jN3ZsdHA1OFltYVROUmRTdGx4WXFIQms5XzY3OE0?oc=5>
 
-### 中期选举临近特朗普剑指中国 称美国选举安全存在“令人震惊的漏洞”
+### 特朗普：别人都在笑话美国
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-07-17 05:01
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RZFFEWGlmb3p1VjhKbWRsNGdSQm4tcDZsVUpzMzZ4ZkpjTHZzY0tXNTF2R3MtRFI2ZWg1bWZGM2pJWnFicXpwa0g5VHhkVE1ubDhwcWFlSWxFVmxFbl9BWFRzZkkzQdIBa0FVX3lxTE5KSVpmdWlzQllid05MUGk0YTFQMUhnRHA5TF9pSUtWNDVXVkgtQlJHT2ZIQ3NWcFlzVVVLLXJnTEhqdkJlTGpHSlVkZ0RUMUxEQ0lzdEZnTWk3VlZDdjFsNHl6TFNLcjFJR1kw?oc=5>
+- 场馆: 新华网
+- 时间: 2026-07-17 03:17
+- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE5COEZsTF9jdF8zX2hoQS1RU1FtMFlJVDJfMkFvaUlqaUR3dWxvWFpza01PME1TOWdkOUlTVWk0QVp0MWJ0TUgzWVl0NlcxRENKOEk5ZEVRS3AwU0tGUlB1Y0hUQTlNNWpabE1QaUgxMFdDM3Rud0dIeUZ5TzBodw?oc=5>
+
+### 特朗普：别人都在笑话美国
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-07-17 08:57
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1kSFRBU1NsVnMzdFdHSWFwNVpnUE9lUkVhTzR1OVUzQjRQMlJwdGRkU3JRNlNqOWNnWEVRX29kakUtQWlXYVFsVDZKOFN5eUkxYmlGZk8wS0FPRXgwX1diMjdVZGlmMDlfY0hiUzRBcGQ?oc=5>
+
+### 特朗普：别人都在笑话美国
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: qq.com
+- 时间: 2026-07-17 03:11
+- 链接: <https://news.google.com/rss/articles/CBMiV0FVX3lxTE84dkN2WHZNalZKeXlPeWJ4WFRiVHgyTl9WSFZKWEFpX3BnVWdneGpJX24tbkNwNDRQSTFxb1BGdTg4RUJWLUVqNEIySm4xQU9EM2ZTWjQ0MA?oc=5>
+
+### 白宫：特朗普同意万斯
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察
+- 时间: 2026-07-17 03:19
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1hUmpwZmFnY2FoVGdMdzNwT2pqVWVoRDlwNlBWR1QtWTJyUVV2MnZRQTA0RUc4TUJ5UE5PSUR6cW00STNjODh5NEk5QWV4d1ptY2prVDFEZnpBNUxzMklBTFRiV25ZRnRfNGc?oc=5>
 
 ### 特朗普提词器操作员借职务之便提前掌握演讲稿，对十余场重要演讲下注，非法获利逾10万美元
 
@@ -53,92 +65,50 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-07-17 03:21
-- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxNZVZSZzFOTWJVR1J0SHZuLTZMeThLdlFXSGt5eXF3MFVqaEFQNkxUMTE1emRnaHM4Rjcwd2ZneFVDQldXYmw3UnNZT0s1MlJGajZmOEkzSGk1dEp3M1BaU3VEZmVERXJMcktpVVlBR2FwTjl4WGhDVHhJdFI3X240Z2dsN3VKZGVVVzgyM284N0R6YkZXVEdVdzhFVjY3UG9zMTFjWlBUTmNSc0lQT1g0XzJVa2dWeGw0cDhtYWw0QWJRV2h4akhVUWhHb0tQSms?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxOa2VJX3lNZjFwTHlOOVpGNmt1ZjdxQ1ZlanJMLXRxTVFXZU5DdVhQUGpQLWlBc2ZLT0ZvZDVTRmRlcWRHS2ZCcU5ySFRwRmI5SHhYZmcwX3otSDc1REJEcjJQc2szNldCbjJDNHJzaWg1ZE5FN0hIQ09Rck9WV3NDc3R1WndNd2ZkamUydWlmLVZHU2dDMGlvRnM4eUpzUGRCTzExbEd4dElZTzFwT0RubWpfWTZXcFI1amVpT1hWRmg1YU93YkgxckRhRDRCM0E?oc=5>
 
-### 白宫宣布特朗普将现场观看世界杯决赛
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 共同网
-- 时间: 2026-07-17 04:06
-- 链接: <https://news.google.com/rss/articles/CBMiV0FVX3lxTE9hdnY1YmxFZEZXekhJdmYwMVBYOXNWVkZldE9PZlpTOVZQNmc4SUs2Q0Z6U2VHM2pRdVI2Y2JoYkl1LWczZ0xQR0VJdGRMN3RuWGpjLWNWSQ?oc=5>
-
-### 特朗普确认出席世界杯决赛
+### 特朗普幕僚认为中国违反贸易协议 但不愿采取反制措施
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-17 00:42
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE5iTW9VcHp0QVBaU3Nlb2pNRDlxUzM3cXNDLXJwNWdVM1o0NTg2QjIwOTAxd2s1dzgzdE8tWTlTUWs2OEtqZkNRMmZMb3QtSU54MXpDQTN2UmI0T2prc3BjdDRiMmNRR19rN1FUMm5fZGhOUHpkUUE?oc=5>
+- 场馆: 联合早报
+- 时间: 2026-07-16 03:28
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1MZHBuanNCcV95MUhkemhSLTVpLTBkRGh3R0JReDdRVHBuS0xYdWw3NlFJWFFPSVNELW5XOFZEMjVIa0ZpU0ZnYzNFbWlnWUN0WWJMak4yN09yRU5yRFR1NXBCZlZrZw?oc=5>
 
-### 特朗普公开发文感谢伊朗，遭伊方“打脸”：经核查，他说的事情并未发生
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 每日经济新闻
-- 时间: 2026-07-17 00:08
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFB0TWJfZHRDa2ZPaG14dDY5X1V2TGZTTktNQWxId21iemM1UHV5WnJ6WHlqckRjM0JfYmN1TWNoT1Y1Ykd3dTJZSDA0QUN5MGZpR2s4b1lkWllWRGU4T0dyb0otaF9TQQ?oc=5>
-
-### “特朗普金币”来了！面值1美元 计划今年秋季发行
+### 一财主播说 | 公开售卖“优先内幕信息”？ 特朗普推付费项目 花钱抢先看我的推文
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-16 03:33
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaHJraTMzZ2RaR2Qxd0NkZUphNHlkcUFDazhPZV9TUnFQbG1lVnppVFZfMWFNZnZKMldubnp5eGREN0tvWW5PU05TVkJWcjlsdmNPcFJjOHRla1d4RWlnMEx4YmplR1Nnc3loaEtLRGxtZTc2MkYtaGVmcGZOYkpxbGMwOWhueGt3Q0c5WTFhNFRnNm84a09rczlFOUp6ZzRBU2Jnc0U0aU5zMU9LM0ZuZXlnWEgwSG9qRHBubFY0c2Qtdk9QRTNmQlBkVkdDSm5l?oc=5>
+- 场馆: 第一财经
+- 时间: 2026-07-17 04:15
+- 链接: <https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qb05PSmRLX0M3MDRNTk9JdDJMZ1FTck95UUdSNGM1c2t3YmZqYjFEaFh3blV3elhXY1VLRkI0TWp3ZzhrdnNIb05QczdjQm9DU1k1eg?oc=5>
 
-### 特朗普总统指控中国对美国2020年大选数据实施了“最大规模的入侵”，并公布相关文件
+### 《经济学人》｜特朗普掏空美国司法部
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-07-17 04:57
-- 链接: <https://news.google.com/rss/articles/CBMi6wFBVV95cUxPRTRndmgwNzhRc3RMYi1wcDZ2anFjMzJsdGZObm1iZG9hZUtmaTB6OGFObnkzUjNkOV9hY3o4LVB5aC02eEZ0eUNobGNtVG5OaHpNS1VmVXZxWUZqbW1KXzA2elQ1cGJ2b2JwazFjN1VSbDZhLVZpVERhLXJGWHlOM2Ryd2RCblFMa0MzQzBTWmZIOEtDdnRXRDlmSXBRZmlONnp0S1RjcUJHZEltSmVvQlItZGVidG5vTW43SnNmOEJWMXNybHVBUWxSX0VWdGVCTFo2aGw1VFN5SlBJYnJ3em13dVhRa2hzNUlz0gHuAUFVX3lxTFBJUFdza2dfSm5IX19aaGlXY2JCanZCbTIxd3hOZko4V3ZlYU9uOXhfTU5RUTZkcHV3Q19LMFNTREZmNzk4bjhkRE1ydzlRVWRfUXJ3cVdVTmFhQ2kyYUxheFFnbXRtV2lYTlRrSnZDVGI0dlpPRWZlSkxlMnpKYW1qczJMOHp1TEl6Ni1OYVUxeDhrZkp1dV9CUF9ReEw0cTgyRG9WWVN1WVhfZTk4QW9teTdXbWVMQzVUbkN3c3RGUTBrb3Fjc2pFMTlpa0ZCTGg4Y0N4aU9HektMTVJBNG1OVlRoZGVhTTVjWjF4d3c?oc=5>
-
-### 特朗普全国演说 美两大电视网拒主频道直播
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-07-17 00:47
-- 链接: <https://news.google.com/rss/articles/CBMilwFBVV95cUxOUzVld1EtSGVpTUhLcG1xdGpRc0wwTUtpTDlqNXJpQVJ2QlBEc2dYVloza25LRGgyTUQxUGg0eEtkUGtRRmQwcmEtNlZlRkFERkRlaUlDWGVhRkI3N1kyRDZ2aUVCQ1lBVEQ4WHdzQTlWMUFBTlhZcmozN1R6X01ybThMaHFmN3NGaHpQSUw4dDZyeDNmczRB?oc=5>
-
-### $特斯拉 (TSLA.US)$ trump！
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-07-17 00:57
-- 链接: <https://news.google.com/rss/articles/CBMihAFBVV95cUxOb196WERTNjRuVW1uZ0JsRkZHVVRBQlhyU0ZmTEhSd0k5WkJ5YWFLczVTZGpDZW1vTThtb0I4WnR3ZlhZWENKVmdNbXh5ZDQ5S3BVc3h1ZHc2TnhXa0lGekRaOTdMLWpjU2d5LW05OUM4S19sb1EyTTFQdHRoVXJRSnNKdlQ?oc=5>
-
-### 特朗普媒体科技集团拟推出“Truth API”数据服务
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-07-17 03:00
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFByTWFkYzFRNkxZbXZyNUx5VzdscFhtZGtRN253ZVhUWUkwTlFIemo3eG1PbDFxcjBRdndfbVJOVXg3NkJ6VHRKcm5XQ3JRSUtHM1hDWHJNakViN1Z5bmRjamhTZkhEUQ?oc=5>
-
-### 特朗普的帖子论毫秒卖给华尔街，细数 Truth Social 母公司的「影响力生意经」
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 深潮TechFlow
-- 时间: 2026-07-17 02:15
-- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTE1rMlBZWWV5THNPZGxKMlZnOTExUndpVl9wME5kZTg2b2RTWml1U19GZkhsU19RZG5zZUtkREcwejFacnNkUndrWUZ0Q1lqYXpuYkE?oc=5>
-
-### 特朗普关于选举诚信演讲的要点
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-07-17 05:31
-- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxPLVZQU3JwNjNSeEJwclpTOFdBRF9aVVZjTVJ0TkZlSUROV3VNVlMtcTZpNGU5aGZMZmg4MjZNQXRBQ005LXRwLVpya1UyRmtUNE5scnVJSlpfQm1obTl6WTY1YnFvbGl5ZjNOMWREcGFNYU5pYjdYMHo0aDNHQzdfa25xMA?oc=5>
+- 场馆: 手机网易网
+- 时间: 2026-07-17 05:41
+- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE85ZjVxSkdpTElrcWtUSFk3MTBOTURRZFpOX3p3VlJvSWdsSXZFbDhkRVhBZWZXamJvTE8zbnpmTzFMZ3lzTjZ6OTFsVjlVaU9UcGdfTzZwdkdtRHBwRi1kSTVn?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-17 09:05  (11 条)
+
+- **蔡徐坤** | 蔡徐坤演唱会空降数据！不愧是蔡徐坤太能打了！活粉好多啊 <https://k.sina.com.cn/article_5930868365_m16181de8d03301krq0.html>
+- **蔡徐坤** | 蔡徐坤澳门巡演想看人数破10万，生日场明日开票 <https://k.sina.com.cn/article_2495457342_m94bda83e05301a078.html>
+- **特朗普** | 中方驳斥特朗普“中国干预美国大选”论调：无稽之谈 <https://news.google.com/rss/articles/CBMic0FVX3lxTE1uTDQ4aWRNQTFYNjlNVEYwcV90TFdTa0R6ZGswcHUyRTJBLXJwZTdqeWVVRzdHdWR4a2p1U0JGeDQ4T3B3QWF0YUJRU3ZrS0xxSS1SMk1jN3ZsdHA1OFltYVROUmRTdGx4WXFIQms5XzY3OE0?oc=5>
+- **特朗普** | 特朗普：别人都在笑话美国 <https://news.google.com/rss/articles/CBMifkFVX3lxTE5COEZsTF9jdF8zX2hoQS1RU1FtMFlJVDJfMkFvaUlqaUR3dWxvWFpza01PME1TOWdkOUlTVWk0QVp0MWJ0TUgzWVl0NlcxRENKOEk5ZEVRS3AwU0tGUlB1Y0hUQTlNNWpabE1QaUgxMFdDM3Rud0dIeUZ5TzBodw?oc=5>
+- **特朗普** | 特朗普：别人都在笑话美国 <https://news.google.com/rss/articles/CBMicEFVX3lxTE1kSFRBU1NsVnMzdFdHSWFwNVpnUE9lUkVhTzR1OVUzQjRQMlJwdGRkU3JRNlNqOWNnWEVRX29kakUtQWlXYVFsVDZKOFN5eUkxYmlGZk8wS0FPRXgwX1diMjdVZGlmMDlfY0hiUzRBcGQ?oc=5>
+- **特朗普** | 特朗普：别人都在笑话美国 <https://news.google.com/rss/articles/CBMiV0FVX3lxTE84dkN2WHZNalZKeXlPeWJ4WFRiVHgyTl9WSFZKWEFpX3BnVWdneGpJX24tbkNwNDRQSTFxb1BGdTg4RUJWLUVqNEIySm4xQU9EM2ZTWjQ0MA?oc=5>
+- **特朗普** | 白宫：特朗普同意万斯 <https://news.google.com/rss/articles/CBMiakFVX3lxTE1hUmpwZmFnY2FoVGdMdzNwT2pqVWVoRDlwNlBWR1QtWTJyUVV2MnZRQTA0RUc4TUJ5UE5PSUR6cW00STNjODh5NEk5QWV4d1ptY2prVDFEZnpBNUxzMklBTFRiV25ZRnRfNGc?oc=5>
+- **特朗普** | 特朗普提词器操作员借职务之便提前掌握演讲稿，对十余场重要演讲下注，非法获利逾10万美元 <https://news.google.com/rss/articles/CBMizwFBVV95cUxOa2VJX3lNZjFwTHlOOVpGNmt1ZjdxQ1ZlanJMLXRxTVFXZU5DdVhQUGpQLWlBc2ZLT0ZvZDVTRmRlcWRHS2ZCcU5ySFRwRmI5SHhYZmcwX3otSDc1REJEcjJQc2szNldCbjJDNHJzaWg1ZE5FN0hIQ09Rck9WV3NDc3R1WndNd2ZkamUydWlmLVZHU2dDMGlvRnM4eUpzUGRCTzExbEd4dElZTzFwT0RubWpfWTZXcFI1amVpT1hWRmg1YU93YkgxckRhRDRCM0E?oc=5>
+- **特朗普** | 特朗普幕僚认为中国违反贸易协议 但不愿采取反制措施 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1MZHBuanNCcV95MUhkemhSLTVpLTBkRGh3R0JReDdRVHBuS0xYdWw3NlFJWFFPSVNELW5XOFZEMjVIa0ZpU0ZnYzNFbWlnWUN0WWJMak4yN09yRU5yRFR1NXBCZlZrZw?oc=5>
+- **特朗普** | 一财主播说 | 公开售卖“优先内幕信息”？ 特朗普推付费项目 花钱抢先看我的推文 <https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qb05PSmRLX0M3MDRNTk9JdDJMZ1FTck95UUdSNGM1c2t3YmZqYjFEaFh3blV3elhXY1VLRkI0TWp3ZzhrdnNIb05QczdjQm9DU1k1eg?oc=5>
+- **特朗普** | 《经济学人》｜特朗普掏空美国司法部 <https://news.google.com/rss/articles/CBMiYkFVX3lxTE85ZjVxSkdpTElrcWtUSFk3MTBOTURRZFpOX3p3VlJvSWdsSXZFbDhkRVhBZWZXamJvTE8zbnpmTzFMZ3lzTjZ6OTFsVjlVaU9UcGdfTzZwdkdtRHBwRi1kSTVn?oc=5>
 
 ### 2026-07-17 06:35  (17 条)
 
