@@ -1,38 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-17 17:05**
-- 本轮扫到 7156 条, 新增 **3** 条
+- 最近更新: **2026-07-17 18:32**
+- 本轮扫到 7159 条, 新增 **3** 条
 
 ---
 
 ## 本轮新发现 (3 条)
 
-### 蔡徐坤选购香水是否与巡回演唱会个人用品有关？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776730_1d5abd9da06803o5uu.html>
-
-### 美议员致函特朗普促禁中国水产品进口 指涉强迫劳动与非法捕鱼威胁美国市场
+### 特朗普将出席世界杯决赛并颁发奖杯
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-07-17 16:19
-- 链接: <https://news.google.com/rss/articles/CBMi-ANBVV95cUxPcno5TjZCSGNzZ3I4dTFTSnR6Njl1R19SZHFiRkIxWW9IYUdGbHplOEFVUlppRk5fSDZ0WmtpdTJjTjBfaW02OTNUWDZDSDBQYkVJN3dDUkxaSkZSSnlCN2xUZ2JRc2hjTV8zQlJVME56YUYtcnN6N1RvbVMycm5NX1NJSXhybDIxd1FMT0hUR3ZqZzZiUXFwWUZhcmdsQ056WjlSN3RsdzVCaGZ6YWFjQXZJQ1BFWTZXSUdMZ3FOeWVmQk9Hd2pCVEVEbVREOVotSDgyS2ZqbFl4aVNWeGxGWkFaMFNqSHNCZjlZOTM0ZWpSeTVHck5aUHExSW5LbXhUZ240dG9TaFh2OXp0MVBSVXdqX25pUlZMZDd6RWVyLVdFX2xZa2JXa2N6T01HSXliU3lOdFVEcUtYOV80VzlrT0N2RlFkQmtEYjMxZzRWcFlGZV90allVQzh1QjdVYzdkNEhDR0lkc3FYYk1yN2RpcWd5UVY4T0U3ZGVmdkd3Y0ZLSVotQlRPNUlEWmRnVGRybGt2OVlXYUpfWVNQenJjNHkwTF9JOGZlNWEwdWNHNGYxUndCY3F5SWhNWDZqS2lIdnUxakM3NEIxaGFLU3hYWTNEWTBRQXZqVjFWdlV0NUdMYy14cW9ldzJHeFJESXlMbEdHSDl0dXc?oc=5>
+- 场馆: 联合早报
+- 时间: 2026-07-17 01:02
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13STc3aWNwbDh5cVhJUC1zWG81Q3h1bWhXZ2tFejYtdndBTksyeFdGbFV1d3dldkl6NEM0djhEa2pCdUV0VEpWSHRldC1WaDVJWFM1SWNrMUhGNkJiTWlZa3hhb3JlLWc?oc=5>
 
-### 中国商务部：美方已向中方确认，不再延续涉港国家紧急状态
+### 特朗普炮轰多家美媒：他们不播我讲话，都该被吊销执照！
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-07-17 08:10
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE9iUFlPa1VMblN6Sl80LVI5ZHZNQ3JnN0xER1NmR0haQ0VOOVdTWWxZdkhERzA0VHRDcXlTNlBhV04yZXozOTFRS0FET1VJdVlpUFV4NWRSUUdleGRydnc?oc=5>
+
+### 付费可抢先获取川普发文？ Truth Social下月起推新服务(美中報道）
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-07-17 15:03
-- 链接: <https://news.google.com/rss/articles/CBMimANBVV95cUxNV3EwS1ZIbHpHb0VoRHQyVTNKck1EVXJoNU1GRy1hVjdpZlVxM1BtT3lQUEZJS1c2cjV1R0RfRW8xXzJGRWJYZGhzeE1PdHV0MFM5Nm9WWDVyQ1lWeU14ZE9KaGVvanNwMDhhSzRkcEEzTjdsVEhCSTZPMktvVWtrLVhhZGdIQVdZTE84SkNMWnBqaDdzX2tOYlp1TndjelVTbVV1X29OaEpIV1NPU2J1SXIwVVV1UUR5VkFScE5oaW5GWWRUNFdwMVNIZ3lOMzdZMUtod2tTb05VRjhqS3dhSUlsQlFXTDNRWWdESHFDLUVVQ3BGd0VmMmoxTVl1aTJWeEJyMUJUQ3RkTnhQN1BjSHM1WFFxb3VHeDR2LTFObTBWQ2F3LWV1MVhRZHlMeFUwR2RGRTA1NFhIYlpSZlJobF9jOG1ONEw2a2l5b2Z0QUllTDNrNVlfNExWSDh3MEcxclNXWF81QkRoc08tTTJ6SzZnYmxTcE44TjkwUmRvYzlfM0pncHJIYjZwUUp1WmNYRm5QcFFuWWk?oc=5>
+- 场馆: 美中報導
+- 时间: 2026-07-17 11:37
+- 链接: <https://news.google.com/rss/articles/CBMijgFBVV95cUxQRzd4Qkt1Wi0zM2NiNlk0RHBtM3NrdjlQdDR3NFFzd3JSclR3bU9hZ2Y4a2lWS2NCVlNDVkRVX3pKa081QVp4Z0tTNkZiTmloV1NPbzlzVW9GU081T3p5cE9rWmFFaFJyS1pGRTVhVEV6MktsWF94QXZYcTROeFRDUk5YQ0xXVGV5eDVsLXV3?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-17 18:32  (3 条)
+
+- **特朗普** | 特朗普将出席世界杯决赛并颁发奖杯 <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13STc3aWNwbDh5cVhJUC1zWG81Q3h1bWhXZ2tFejYtdndBTksyeFdGbFV1d3dldkl6NEM0djhEa2pCdUV0VEpWSHRldC1WaDVJWFM1SWNrMUhGNkJiTWlZa3hhb3JlLWc?oc=5>
+- **特朗普** | 特朗普炮轰多家美媒：他们不播我讲话，都该被吊销执照！ <https://news.google.com/rss/articles/CBMiXkFVX3lxTE9iUFlPa1VMblN6Sl80LVI5ZHZNQ3JnN0xER1NmR0haQ0VOOVdTWWxZdkhERzA0VHRDcXlTNlBhV04yZXozOTFRS0FET1VJdVlpUFV4NWRSUUdleGRydnc?oc=5>
+- **Trump** | 付费可抢先获取川普发文？ Truth Social下月起推新服务(美中報道） <https://news.google.com/rss/articles/CBMijgFBVV95cUxQRzd4Qkt1Wi0zM2NiNlk0RHBtM3NrdjlQdDR3NFFzd3JSclR3bU9hZ2Y4a2lWS2NCVlNDVkRVX3pKa081QVp4Z0tTNkZiTmloV1NPbzlzVW9GU081T3p5cE9rWmFFaFJyS1pGRTVhVEV6MktsWF94QXZYcTROeFRDUk5YQ0xXVGV5eDVsLXV3?oc=5>
 
 ### 2026-07-17 17:05  (3 条)
 
