@@ -1,32 +1,80 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-16 23:00**
-- 本轮扫到 7072 条, 新增 **2** 条
+- 最近更新: **2026-07-17 00:57**
+- 本轮扫到 7079 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (7 条)
 
-### 白宫：特朗普总统将就选举诚信问题发表讲话
+### 艾米人生第一次看演唱会 艾米 周杰伦 杨迪 雀骨 演唱会 功夫女足 侯明昊
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-07-16 22:26
-- 链接: <https://news.google.com/rss/articles/CBMiugFBVV95cUxOTEdzZWpsWGdaZERqU2k0cGdCaHhkb1Y4bEJlNkNZbUEwUEg4VEZPWHNsTUFTNVN4QjV4OFFMMTZiZkVxenkzb2xqZGZBOHo1amlxbEd2THdXYUFKQ0VDMWZRSE1IN0dKajZ2T1k2NmlYRmVUNkF3SDVWSUNvZ08xeTNoUGRPc2FidjR3SjZqVnpvR0V2TzlUZmJoRTROOVEyWUUyZUNZZExIZzAyTlh3aWYtbzhOYzFuWEHSAbwBQVVfeXFMTjhVdmpNTkpMQ0J0Y2lIQTJKTzlaQTEydkp0WG02UTc3aW55N2lNQ1ROUzlkcGNFSW9hU0hmd1NiQ1Q3RWpvTGhVREZKcjZBOWF4cVJpOFk2S1dzSG1aeEZxNXAzT3JtZ1hiMzZHUUY3U3RlWEQ5RWVVTjl4SWRrelFRc3N4dnVnem1SSm1HSllqQ2d2ejVmcVpvdTZDXzRiM1dDSWFXdzBVQXpvS1dpeUZELUFEU0lTYUtJOGY?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923674_m1d5ae17da03301mbne.html>
 
-### 特朗普定于今晚发表聚焦选举的全国讲话
+### 白宫提词器操作员靠特朗普讲话下注，赢近10万美元
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-16 22:07
-- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxQZjdZUFNlaS1BdHRLNHB2ckJTUDNLZFB6VGc2eTZSY3V0MEV1cmNtN3RPdktha3RzN2hwQ3EyZGxheUMzcU9mUDctMkZRWUI1TFRBYkxJQUxtMUdMUE5nQ3BfMzBQYXFSWUlTeXU1MjIwUTdnYVJ4NVlrZmpnRW9VRno4ak9XUHVrN3c?oc=5>
+- 场馆: 观察
+- 时间: 2026-07-16 23:13
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE10T09QR3FTeUw5VFRsMDAwVXlJdHp4MW5JSnRFZEI2ekNhdHU4MXktcWRUWmxwV2ROd01BVWdYZm9zQTBaalVoVWlLdkVvM0tHWEM0bzZFM3JSM0NVNXZrYXkzZ3poR0hnR0E?oc=5>
+
+### 特朗普称有美籍囚犯从伊朗监狱获释，伊朗：经核查，没有这种情况，也未发生任何美籍囚犯交换事件
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: finance.sina.cn
+- 时间: 2026-07-16 23:21
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBnM2dUTW5Gb1B4WVk1UVo3alQ0cWZhUzQ3VHZfMXZCRFJkcG00dU1ERTFmY3h3TVV4MXZMREdfbHBMU2xSd3paU2V5UEpWZjItMk1PUWlJd2w4X2pvM18wX0R1U0JFTjhkNXhMbzdsUlBMRWFJQ1Jfcw?oc=5>
+
+### 特朗普预判俄乌冲突将在其任期内结束 俄准备达成协议
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-07-17 00:07
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9GaWN0elFFenBPaEJoRFhibXB3NjBmeUFsTUFCQkdnYUY3S2JlYU1Xd1Z3bVNKSzE3czhxMml1Q1FVRllmVmhYRDY1S3V4Z0FCa0FUVGJQakV0RWtoMXR5YlFFQ2lkcWVtdEZ2U3BIcWg?oc=5>
+
+### Trump Media推新服务：付费即可更快获取总统发的帖子
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-07-17 00:41
+- 链接: <https://news.google.com/rss/articles/CBMitgJBVV95cUxPUWlocVhhSnlPX3FISDY0TVVuWkZIaXJJUnR3NERuRkpqM3dWQUEzZlA5TzgwRnFHeHdUdXdnS0doN2NlajMxRjlRRFNDYzNsWHVNLVdWMzdpdkduU2FsZ0lLX0QwLWJTMmdlLUlKaE5neDN0c09FQnQ0NzJTMy00SVNUR2FuUURmNDhhRnlsNnpadHhQUTN3empFYjlLcmhiUlRDZUZRamxINTFxN0V0V3lrb3VKcHI1MXhxWFhzX2hLUlNyeHo3enR5Yl9hY2R2RGJiMk1IZ2tNa2dHbDdaUFlkd3F2cVZmbFRjNE9HUjdNWFhDUnIwT3JneWpBM04xMWMxem9vS042bHNERFhWU042UlJwbE5yRWQ4ZUl2ZUNabllDc01GZzlyTWx2bDlFbHh2YlNR?oc=5>
+
+### 特朗普将亲临现场观看世界杯决赛
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 8world
+- 时间: 2026-07-16 22:50
+- 链接: <https://news.google.com/rss/articles/CBMingFBVV95cUxQZ0c3R2dHLUFuRWhGaU1va1RIZWtnMlYwWmFDaE5mRHVOLXp4WEEwamFMVnZ2U2ZMVjc5TlZGLWdnUHNXMjM0dzNBVzZyOWZKbmJObUNYd2dmR1BZWnlvSVdtVHNidE9QWmhUaTMzc0ticEpBcHNMQkdOUjh4ODhrdFlqbVhBQjE1c0E4VkJHNDI4dGk4WldxNHlZWWFGZw?oc=5>
+
+### 白宫提词器操作员因涉嫌押注特朗普演讲而遭到调查
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-07-16 23:59
+- 链接: <https://news.google.com/rss/articles/CBMiugFBVV95cUxQaXI3M1VZWDI1WGlPRHVEa09IM2tJdWtIc085ZGMyd0kyT21oSlgyN2R6R1BtOVRnaHl0UVRNQ0gtNVlGU09lVlhubEJicjNIdGIwOFUzMWstS2JoT1FHZDg4VW13TVp1UWN3Rm8yVUU5TkZrN2tURENfTkQ0bXVFeEJvZDh3QjhLN0VPWGtkYVhtd3BweERzMHNaZmZxNVV6ZzVRUDhnRkd0dzhqcmhQMzBrMFpOUS1fY0E?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-17 00:57  (7 条)
+
+- **周杰伦** | 艾米人生第一次看演唱会 艾米 周杰伦 杨迪 雀骨 演唱会 功夫女足 侯明昊 <https://k.sina.com.cn/article_7879923674_m1d5ae17da03301mbne.html>
+- **特朗普** | 白宫提词器操作员靠特朗普讲话下注，赢近10万美元 <https://news.google.com/rss/articles/CBMiakFVX3lxTE10T09QR3FTeUw5VFRsMDAwVXlJdHp4MW5JSnRFZEI2ekNhdHU4MXktcWRUWmxwV2ROd01BVWdYZm9zQTBaalVoVWlLdkVvM0tHWEM0bzZFM3JSM0NVNXZrYXkzZ3poR0hnR0E?oc=5>
+- **特朗普** | 特朗普称有美籍囚犯从伊朗监狱获释，伊朗：经核查，没有这种情况，也未发生任何美籍囚犯交换事件 <https://news.google.com/rss/articles/CBMieEFVX3lxTFBnM2dUTW5Gb1B4WVk1UVo3alQ0cWZhUzQ3VHZfMXZCRFJkcG00dU1ERTFmY3h3TVV4MXZMREdfbHBMU2xSd3paU2V5UEpWZjItMk1PUWlJd2w4X2pvM18wX0R1U0JFTjhkNXhMbzdsUlBMRWFJQ1Jfcw?oc=5>
+- **特朗普** | 特朗普预判俄乌冲突将在其任期内结束 俄准备达成协议 <https://news.google.com/rss/articles/CBMicEFVX3lxTE9GaWN0elFFenBPaEJoRFhibXB3NjBmeUFsTUFCQkdnYUY3S2JlYU1Xd1Z3bVNKSzE3czhxMml1Q1FVRllmVmhYRDY1S3V4Z0FCa0FUVGJQakV0RWtoMXR5YlFFQ2lkcWVtdEZ2U3BIcWg?oc=5>
+- **Trump** | Trump Media推新服务：付费即可更快获取总统发的帖子 <https://news.google.com/rss/articles/CBMitgJBVV95cUxPUWlocVhhSnlPX3FISDY0TVVuWkZIaXJJUnR3NERuRkpqM3dWQUEzZlA5TzgwRnFHeHdUdXdnS0doN2NlajMxRjlRRFNDYzNsWHVNLVdWMzdpdkduU2FsZ0lLX0QwLWJTMmdlLUlKaE5neDN0c09FQnQ0NzJTMy00SVNUR2FuUURmNDhhRnlsNnpadHhQUTN3empFYjlLcmhiUlRDZUZRamxINTFxN0V0V3lrb3VKcHI1MXhxWFhzX2hLUlNyeHo3enR5Yl9hY2R2RGJiMk1IZ2tNa2dHbDdaUFlkd3F2cVZmbFRjNE9HUjdNWFhDUnIwT3JneWpBM04xMWMxem9vS042bHNERFhWU042UlJwbE5yRWQ4ZUl2ZUNabllDc01GZzlyTWx2bDlFbHh2YlNR?oc=5>
+- **Trump** | 特朗普将亲临现场观看世界杯决赛 <https://news.google.com/rss/articles/CBMingFBVV95cUxQZ0c3R2dHLUFuRWhGaU1va1RIZWtnMlYwWmFDaE5mRHVOLXp4WEEwamFMVnZ2U2ZMVjc5TlZGLWdnUHNXMjM0dzNBVzZyOWZKbmJObUNYd2dmR1BZWnlvSVdtVHNidE9QWmhUaTMzc0ticEpBcHNMQkdOUjh4ODhrdFlqbVhBQjE1c0E4VkJHNDI4dGk4WldxNHlZWWFGZw?oc=5>
+- **Trump** | 白宫提词器操作员因涉嫌押注特朗普演讲而遭到调查 <https://news.google.com/rss/articles/CBMiugFBVV95cUxQaXI3M1VZWDI1WGlPRHVEa09IM2tJdWtIc085ZGMyd0kyT21oSlgyN2R6R1BtOVRnaHl0UVRNQ0gtNVlGU09lVlhubEJicjNIdGIwOFUzMWstS2JoT1FHZDg4VW13TVp1UWN3Rm8yVUU5TkZrN2tURENfTkQ0bXVFeEJvZDh3QjhLN0VPWGtkYVhtd3BweERzMHNaZmZxNVV6ZzVRUDhnRkd0dzhqcmhQMzBrMFpOUS1fY0E?oc=5>
 
 ### 2026-07-16 23:00  (2 条)
 
