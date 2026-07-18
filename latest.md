@@ -1,40 +1,26 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-18 15:50**
-- 本轮扫到 7240 条, 新增 **3** 条
+- 最近更新: **2026-07-18 16:50**
+- 本轮扫到 7241 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (1 条)
 
-### 受特朗普邀请，墨西哥总统将赴美观看世界杯决赛
+### 周杰伦演唱会被吐槽“划水”，3小时演唱会，实际演唱不足90分钟
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-07-18 12:31
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE42cmdIWWFwUzJPcW5uaUlEM3lNMXhQbjMteG53cHc3ZXNlUHZ2Sm1FTGJOc3BwOXI4X3gwUlQwQS04QU9IY3FJNWpkeGhRZWJfRF9SSi1heVBVd0dOR0ZhZ3dSWk8?oc=5>
-
-### 特朗普称有美籍囚犯从伊朗监狱获释，伊朗：经核查，没有这种情况，也未发生任何美籍囚犯交换事件
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-16 22:48
-- 链接: <https://news.google.com/rss/articles/CBMixwFBVV95cUxPam5POHhJRmcyaURzRjltRkZhVm9zdGRkaU1sdmZ4TlhlUEdFVm9XV1gzYnJfN2p0YzZ2WVZPUVdJV0tYVTFwMF8zZDZnN0ZvLWFDYTIyaG5hM2xKRGFCUXFMOVM4N0NScmpZZy00LXQ0Q3pXXzNkMjgyMHB3Um9uSVRrR1VKWE0tQmh0V0RpWklpVXRuQ3lSVHJvZnFXQ3VoRDYtSjNDbXpMQm1qalBwcEFnbWR2RmNUbWdRWElZWFBudEtKX0Nz?oc=5>
-
-### 靠押注“讲稿用词”获利 特朗普提词员被停职
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-18 01:56
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbFVKbV9KUW0yMXhXczdpYnV0alRRV2Q2UnZtSlEwUU9MZlpzZUlSb01ZVWx0WFltOThQUVZ0aUVqejNsWFZPLXJqXzVuNTRMd0hrVkJFUlIwdEJpQU5SY095X2JaRmZxNTRCRTF4SHVDTlRrMG1oVWRuR2MxR29Wc1RTNC1WRWVKVUI2SnFQd250a3h3TVNvZTdJbV95NDJrMmhJdEZ3U2t6aU1CRFlvNkRyeEFUX1ZPRTVIQmRtMEFjUjJja3VoVnRLZnpPSVhl?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019089m7i.html>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-18 16:50  (1 条)
+
+- **周杰伦** | 周杰伦演唱会被吐槽“划水”，3小时演唱会，实际演唱不足90分钟 <https://k.sina.com.cn/article_7857201856_1d45362c0019089m7i.html>
 
 ### 2026-07-18 15:50  (3 条)
 
