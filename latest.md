@@ -1,56 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-18 11:51**
-- 本轮扫到 7228 条, 新增 **6** 条
+- 最近更新: **2026-07-18 13:00**
+- 本轮扫到 7230 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (2 条)
 
-### 蔡徐坤澳门演唱会门票为何瞬间秒空，后续会加场吗？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068588_1d5b04dec06801n2vu.html>
-
-### 26岁内地歌手蔡徐坤澳门演唱会28000张票遭疯抢，大麦网抢票成功率仅3%？如何才能突破重围？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801d71e.html>
-
-### 2026年7月国内明星演唱会全安排:这份月度观演日历一次讲清_正大光明漂流瓶8Z
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879996014_1d5af326e01901tele.html>
-
-### 周杰伦要来广州了!还有这些演唱会即将开唱
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068315_1d5b04cdb01901pwys.html>
-
-### 事实核查：特朗普指控美国2020大选遭舞弊 是否属实？
+### 事实核查：特朗普指控中国干预美国2020大选 是否属实？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: DW.com
-- 时间: 2026-07-18 08:21
-- 链接: <https://news.google.com/rss/articles/CBMivwJBVV95cUxQbEJNRHZDdWxrX1UwQkx1bVhJZVluRUVsM0ZWSEZMUUN1OVFLal9FV2tZbVY1NG9UWFQ0U05DamVSWTNGRlpvS1d0WGJING5XTk9fUzN4cjk2MlZSVFI4NUJhZHJTbUozSndZRzVNdC1oanBKQk9lbllYYy15Wl9qTDNZY011UzF2dHRjVVhnNEExd0pyWllPOFlQUjFHMDBMTDljZmt0M1YzVURuYjdNZjdkVTcyR2RQdG5zRll4WnpjSkhuZ3NLVmVybF9kZHlPanZVcHhuaFk0NFlta0FMUzNnUERENUxrcjlVeFNRRFdVVW5IX3hHRG4zNWtIYVpCVjhwc1lOSWpMQ1BrN01SY2lhRnBYYzJLeGVkUmM3NG96bFVjRTN6emFfa2pfWkpUVFZCUWdIdTV1MlE5b1FJ0gG_AkFVX3lxTFAzbmFFa3Eyb2hqN29QWmtFQlNYVVpRT2ppb1BtNUV1dEw0SUlNaEVZQmZkVXhIdHVfQk1WRkZPZ3JRRHk5bkR0QWRVZWNXUk5EWlFmblkta0xaM3dQSnVUNkVsa0VKdGZzUlZWTS02ZjRBQmdhaFJ5LUpGWXBiZHJuaWgwRS1PV3ZFb1hDRGxURExmOEQ1cTRmc2kxTUNyQkZnVFZIY1Y2anJtS1BSRGRLcEcwemltdHUwUUcwSEFjcWVvT2V0MlN6dUpoYXNLWmkyWDNadVFpUC1jdnBLV2g0dk9GQzY0X01YQTM2Tlk2UFpQQUpua1d1dHZkZ2lIeGowMVRtYWc1VFJKZUpfTDViWWJqaHVFdnQ5M3NKMU1fS1haNEdPUXFDVmVfWXI2QVFjV2JINGxaWk5ScEFXNVk?oc=5>
+- 时间: 2026-07-18 11:00
+- 链接: <https://news.google.com/rss/articles/CBMiywJBVV95cUxNbXdjNlFkbFloZjNQMzhwcEctdHp2ODlVYl95NDNPVmFJUlQ3YXhVNU5aWlVVN2JYaFljQTNZSmZNTVhlWE41eWdEUEtDT3JJekJ0ZkNGelhKMUN2cGhhWFF3V1QyOW9YWnJNTWdveXZXTS1GUFF0aGppN2hOMGUxbWZUSkFQa0FzQnNIOTlld1ByWnE0MVNkWDd6NlpwLUVqZlZMYndtbGhXV2U4Wlk1SXl1LTFGYW51dHpGWVRFODVDQklWNkVJeFZMV0lhakRrb0NyM19DOUhVaEQzeWRwSUptamlPMmdndjVjdXJXa2lEaWROU1ZLQ2pzd20tRmpoUS1FQ0ZIajZ5TVhoT2poeUxpTHdTOUNERGlFNFIwSFNFaV9xSTQyZFRtSjF0bUstODY0MElWYWZ0RGdhSDRuQ05yZGxRRDVlTWtR0gHLAkFVX3lxTE54QXNKcll2MHI3RWs2ZlZ2bXhEVTZZVy11clFNSE41bDAzVDJUMDFvMl81MHlWUHBFYlV4QVFQS2xEb3pnWFpqS2EzcTVEZlR4ejJNVGtHSDg4QkgyTjR4dE50dktfa1pGLUNsVUJPbGR0ZVRYcjZra24yYTlFNUFrcm5PeUtWS05FcDZNVkZfVlNZNV9EeGZ6dWxMWU9EZ0kxRl9tbFRmOG9ONlBRQzBCMGFLWUFIanJBMlo2OFhLVnNUMnNwM0QtQU10OTJ0b3ZTQy1IOXUzTW9GYlNxQzM5Zkc2QkdVWVBsSTNnV2xRZDFUZTIwckwzcm9JNjZYTnJ6RHJ0Z01qWnY4Z0pIeWV2dXp0V2VyZi1FY2RNTF9ST21kV2FHNGE1VXNlVmxzNWRycFFpaTViYVhoNWtVVzRqd2N0S21DNnJkWDg?oc=5>
 
-### 加拿大野火烟雾蔓延至美国，特朗普痛批并称要加税
+### 一刀会-Bit米一刀 (@Gann-Mickey)的见解
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-18 10:36
-- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxOVDA5aXY0c25seU51NjVjSXJ5TUhXcDBqNi1LN3Q3eUZZVTdhcWs4RGdMdHJRdmRUeGREQmVRSGZrZGFWYUljNnlPdklHSDRNTm5MUHNDNmNLaGFvX1dXRk56ZlJZUzlyZ3c3WjA3eTV3ZGxjc1VKaUpJSjd6eWNvVG9YOXZGMHpvdnc?oc=5>
+- 场馆: Binance
+- 时间: 2026-07-18 11:28
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE50bWVPbl9OcnN6d1lBNmd3Snc0R01JSmQ5UUdsekMtUjlBcC1ZYTBlc3VZQVc2U3loRENFUl9DZGRKWENOVG54REE1cHl0eG5rRjh6V1EzTDZFZXItcDhtR2hNbVFuWjNQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-18 13:00  (2 条)
+
+- **特朗普** | 事实核查：特朗普指控中国干预美国2020大选 是否属实？ <https://news.google.com/rss/articles/CBMiywJBVV95cUxNbXdjNlFkbFloZjNQMzhwcEctdHp2ODlVYl95NDNPVmFJUlQ3YXhVNU5aWlVVN2JYaFljQTNZSmZNTVhlWE41eWdEUEtDT3JJekJ0ZkNGelhKMUN2cGhhWFF3V1QyOW9YWnJNTWdveXZXTS1GUFF0aGppN2hOMGUxbWZUSkFQa0FzQnNIOTlld1ByWnE0MVNkWDd6NlpwLUVqZlZMYndtbGhXV2U4Wlk1SXl1LTFGYW51dHpGWVRFODVDQklWNkVJeFZMV0lhakRrb0NyM19DOUhVaEQzeWRwSUptamlPMmdndjVjdXJXa2lEaWROU1ZLQ2pzd20tRmpoUS1FQ0ZIajZ5TVhoT2poeUxpTHdTOUNERGlFNFIwSFNFaV9xSTQyZFRtSjF0bUstODY0MElWYWZ0RGdhSDRuQ05yZGxRRDVlTWtR0gHLAkFVX3lxTE54QXNKcll2MHI3RWs2ZlZ2bXhEVTZZVy11clFNSE41bDAzVDJUMDFvMl81MHlWUHBFYlV4QVFQS2xEb3pnWFpqS2EzcTVEZlR4ejJNVGtHSDg4QkgyTjR4dE50dktfa1pGLUNsVUJPbGR0ZVRYcjZra24yYTlFNUFrcm5PeUtWS05FcDZNVkZfVlNZNV9EeGZ6dWxMWU9EZ0kxRl9tbFRmOG9ONlBRQzBCMGFLWUFIanJBMlo2OFhLVnNUMnNwM0QtQU10OTJ0b3ZTQy1IOXUzTW9GYlNxQzM5Zkc2QkdVWVBsSTNnV2xRZDFUZTIwckwzcm9JNjZYTnJ6RHJ0Z01qWnY4Z0pIeWV2dXp0V2VyZi1FY2RNTF9ST21kV2FHNGE1VXNlVmxzNWRycFFpaTViYVhoNWtVVzRqd2N0S21DNnJkWDg?oc=5>
+- **Trump** | 一刀会-Bit米一刀 (@Gann-Mickey)的见解 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE50bWVPbl9OcnN6d1lBNmd3Snc0R01JSmQ5UUdsekMtUjlBcC1ZYTBlc3VZQVc2U3loRENFUl9DZGRKWENOVG54REE1cHl0eG5rRjh6V1EzTDZFZXItcDhtR2hNbVFuWjNQ?oc=5>
 
 ### 2026-07-18 11:51  (6 条)
 
