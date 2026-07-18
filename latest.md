@@ -1,45 +1,99 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-18 00:52**
-- 本轮扫到 7184 条, 新增 **6** 条
+- 最近更新: **2026-07-18 03:50**
+- 本轮扫到 7197 条, 新增 **13** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (13 条)
 
-### 蔡徐坤2023澳门迷巡演排练3寸亮膜小卡(真实物流，收藏链接送随机小卡)
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879848924_1d5acf3dc01901it28.html>
-
-### 2026蔡徐坤澳门演唱会开票信息- 澳门本地宝
+### 蔡徐坤澳门演唱会大麦抢票，多账号同时抢会被封号吗？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923015_1d5ae154701901fovw.html>
+- 链接: <https://k.sina.com.cn/article_7879923118_1d5ae15ae06801nnf2.html>
 
-### 王俊凯生日演唱会票价公布供需比169:1引爆抢票热潮
+### 2026蔡徐坤澳门演唱会攻略(时间地点购票入口)- 澳门本地宝
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879995939_1d5af322301901dtfc.html>
+
+### 加价千元买周杰伦演唱会票换来一场空
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879848924_1d5acf3dc01901itog.html?from=tech>
+- 链接: <https://k.sina.com.cn/article_2992050891_mb25712cb03301tsqi.html>
 
-### 特朗普总统公布有关中国干预2020年大选和收集数据的情报文件，里面到底有什么？
+### 演唱会门票团购怎么选？3大渠道实测PK，这3类人闭眼入对应选项
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-07-17 22:13
-- 链接: <https://news.google.com/rss/articles/CBMi7wFBVV95cUxPbW5pa0dwclZwOWdDTThybDRzcU1kMFlfNUJ3UG5HMTdaNzVVVXBqT1dLa0J6ZXhjMHZ4eVBRYnVwVWxHbUJ3TWhNV1Y2NjgwbkhQRTNxQW5tU2tuYkU4Si1XM0F0WUk0eExZSTZKenFMNnZXMUNlNlgyc0VONlpmSkNZX1NHYU83dzJvNWozVjZVWjY4eWdiNkpkVHFaVnVOcV9taE1fNmFxVGxFQTEweU5YdmtyZHZ4TjAyT2JKcUtYWHd0ajVtY1NzekMydUlHY2duMkZCVkxjcmpQQ2lIYU1TamlkMXZFOGx3S3ZtONIB8gFBVV95cUxOZ0dJLWxvOEt6QXduUDVNaTZoT1BEQXJSRVJySDZoWkVmLUFPSzFUNUVlRWEta0wxZVNIWE5zdk9PZTdEVl9ob1hjV1Z5bl9tNTBVZUF4eVNWRGEzWUJSWDgtOEFnNVV4X2ZrWDh2N09XcFNRZzFOTXljVXB0blQ4dWhPRGJxTmpMRUttYzhLZjEtWEVCU1lQd25ER3BnOFc3eElwRWQ0XzRlVWpZYm95R3dFUDNlR3BuMHk1NDQwNWpTQmNpN1RzSzVCX3ZPZlo4NmgxRWY4a3p6VGZOQzBodlQyRWtQOXVUdXJhMzhFRDA4dw?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879849059_1d5acf46306801d72c.html>
 
-### 特朗普：都怪加拿大，加税！
+### 特朗普：因凡蒂诺曾建议中美共同举办世界杯，球员们会喜欢的
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 观察者
-- 时间: 2026-07-17 23:14
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5iRDhyelc4dWZyZF81QVFDbEJWMVh4RnJNMnFpb2gyazh6NUwyV3ZIajktWDBndG9RcmNmQkU0eTN5bHZQbEdNM0FLNndYTHdFaDQ0b0gxTU9ORVp2WGhRWmFweG9ZOVhwV0E?oc=5>
+- 时间: 2026-07-18 00:53
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1Pb1Vob1JjekpNLVpCMkhxR1VVZkIyc2JibDlNV3ZQcHNGNmd3Wm9KcFViVlVLS0oxVHR5MlRCdFliWG1wQXVxZ1BIOHgzQVBMZU5KSjJEMzRRdDhSeWtQdU1xenF1TVIyRUE?oc=5>
+
+### 特朗普指责加拿大野火殃及美国空气 威胁以关税追偿
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-07-18 02:19
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBNdm55V2QxeFl2Uk5XQnlURFNXT1B3bHFtdldpbG13ZTlZYU5zeGZSRUxpSGd1clhzVWxkcld5M3RxODA4bG5NSWRRX3B4Y1Y1UzU3UWlUWW1DYTNXanE1UVoxOXFoQ1hjVnBhdC1KX1Jpb241c3BJeFlaZWR0NWc?oc=5>
+
+### 特朗普指责加拿大野火“年年殃及美国”，称将污染成本计入关税
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 光明网
+- 时间: 2026-07-18 01:14
+- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE44bVRrTHJhYmVLTGRqX1Q1bjU4Rk9vd2pRWmlHQ2JXTTJSMHRoMEpmcGdfY2VsMXcwb05JV09IUkJUVVFLQkxyRXN4bk9reVJDU3dqQjk3WWk2QmpkYUdnV0xB?oc=5>
+
+### 加学者献计：最好让特朗普以为自己赢了，否则他非常记仇
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-07-17 09:46
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9IcTdyYUVIYVl2MkdCYTBmWXVwU0FsTDZfS05qbG9MTkRuaEVSdTgwOW9SRjlqaTNnbEExTDJnSElldXhXUGNKNXF2amVkVGo2ajBuNUNFWVZLcUxaaklMOHZqQXUzSm9UV1E?oc=5>
+
+### 特朗普媒体推出付费Truth API 出售热门账户发帖快速访问权
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-18 01:52
+- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxNMzZQaUdtT2VES0lqTkZQd2JNX0ctdUR4dUFDV0F2RXhFSWJVbjhRZHBBckF3NGUxWEI1bUlQNWI4b2l3T2RyUWVjQ0hHLVBJUG5vYnA2eDRlQW1COU5MWThDU2dQaXNPc3dqTXNENnVhYVNGa1ZiMUNSeU5QZW84Ti1sU0JMNVdEOHc?oc=5>
+
+### 特朗普提词器操作员借职务之便提前掌握演讲稿，对十余场重要演讲下注，非法获利逾10万美元
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-17 03:21
+- 链接: <https://news.google.com/rss/articles/CBMizgFBVV95cUxOamMtZFdvbC1YcU9NSjJkbUE0b285cXQ4TUJOaGVIZXpucGFxbG5QcnZBVktZN3pyVmU3V2NXdzJOX3l0OS1JdjdIMHRHWWp2SkhzaVVlQTFteHZxWU9iVW1oN3AtM3ZzeFE4Mjd1Tmh1QUNNTUVmQklRZ3pxUGUtbl9iMmdJazU3VGNzU2llT0lrcmYtR2gzRm8zNVhfaTRmc21XeU95akhhV01IeUJiVUNoNncxNFQzQmI4MGFrOHQwUF9FbVVkOTk5c0VkUQ?oc=5>
+
+### 特朗普：很可耻！白宫提词器操作员利用其演讲稿下注，非法获利超10万美元
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-07-17 07:23
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9MTW1qeVRqYUtoM09fVzZ0M0R1Y2lhTVBRT1F3NzgtR0xaODRlbS1LQ2piRExaQWVDV2l6WUUzdngxaHhiR2N6OWJIVjhQV3RQVFExWmxCaThpLUlhNGhVbVA3bFJqLXFDNzNpcUhPLUo0QWlWVk56OQ?oc=5>
+
+### 靠押注“讲稿用词”获利 特朗普提词员被停职
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-07-18 02:02
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFAwakFwdmF0b1BMb0pIOUN2VTB2czBqOHNYaHBKdkhJdllFd0ZnMjhNSXM2ZV9Udm1hM3N3VDVKdFJjTmd1QlZEV3ZYRHE5TGhHb1VfeGQ3VVQ0TXcwZ0kxVjRVR01JN0FMSUNwRkNTcXRXLS1qQ2NENjZjZFhQRWs?oc=5>
 
 ### 分析｜轰炸、备忘录双双失效，特朗普还有C计划吗？专家：美国已陷入“战略死胡同”
 
@@ -47,12 +101,28 @@
 - 来源: `googlenews`
 - 场馆: thepaper.cn
 - 时间: 2026-07-17 23:21
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE8tN0VOUnJpekdMVTVUZnA5TnA5VndXQW14VDUwdDNvbVBtM01YT2M5VEZGX0NOZXI4QzBtaHlqbVJRc085MV9INDVGQThXVHI2XzFDN29IUlNzSWRmaTdPMQ?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE03cDJEemdzeThEZmRUbV9GMFl5a3B5YVpvYWR5UENvbzUyMW15OFl5THdhMUhWdEdVSm1qcXlVenhfRktsakNqZU54YmRYdG9oVFZ1SHVrZ3BKSDNsbThFNUhfYm9PNHcxd2tJbTZ1RmZZdw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-18 03:50  (13 条)
+
+- **蔡徐坤** | 蔡徐坤澳门演唱会大麦抢票，多账号同时抢会被封号吗？ <https://k.sina.com.cn/article_7879923118_1d5ae15ae06801nnf2.html>
+- **蔡徐坤** | 2026蔡徐坤澳门演唱会攻略(时间地点购票入口)- 澳门本地宝 <https://k.sina.com.cn/article_7879995939_1d5af322301901dtfc.html>
+- **周杰伦** | 加价千元买周杰伦演唱会票换来一场空 <https://k.sina.com.cn/article_2992050891_mb25712cb03301tsqi.html>
+- **周杰伦** | 演唱会门票团购怎么选？3大渠道实测PK，这3类人闭眼入对应选项 <https://k.sina.com.cn/article_7879849059_1d5acf46306801d72c.html>
+- **特朗普** | 特朗普：因凡蒂诺曾建议中美共同举办世界杯，球员们会喜欢的 <https://news.google.com/rss/articles/CBMiakFVX3lxTE1Pb1Vob1JjekpNLVpCMkhxR1VVZkIyc2JibDlNV3ZQcHNGNmd3Wm9KcFViVlVLS0oxVHR5MlRCdFliWG1wQXVxZ1BIOHgzQVBMZU5KSjJEMzRRdDhSeWtQdU1xenF1TVIyRUE?oc=5>
+- **特朗普** | 特朗普指责加拿大野火殃及美国空气 威胁以关税追偿 <https://news.google.com/rss/articles/CBMif0FVX3lxTFBNdm55V2QxeFl2Uk5XQnlURFNXT1B3bHFtdldpbG13ZTlZYU5zeGZSRUxpSGd1clhzVWxkcld5M3RxODA4bG5NSWRRX3B4Y1Y1UzU3UWlUWW1DYTNXanE1UVoxOXFoQ1hjVnBhdC1KX1Jpb241c3BJeFlaZWR0NWc?oc=5>
+- **特朗普** | 特朗普指责加拿大野火“年年殃及美国”，称将污染成本计入关税 <https://news.google.com/rss/articles/CBMiYkFVX3lxTE44bVRrTHJhYmVLTGRqX1Q1bjU4Rk9vd2pRWmlHQ2JXTTJSMHRoMEpmcGdfY2VsMXcwb05JV09IUkJUVVFLQkxyRXN4bk9reVJDU3dqQjk3WWk2QmpkYUdnV0xB?oc=5>
+- **特朗普** | 加学者献计：最好让特朗普以为自己赢了，否则他非常记仇 <https://news.google.com/rss/articles/CBMiakFVX3lxTE9IcTdyYUVIYVl2MkdCYTBmWXVwU0FsTDZfS05qbG9MTkRuaEVSdTgwOW9SRjlqaTNnbEExTDJnSElldXhXUGNKNXF2amVkVGo2ajBuNUNFWVZLcUxaaklMOHZqQXUzSm9UV1E?oc=5>
+- **特朗普** | 特朗普媒体推出付费Truth API 出售热门账户发帖快速访问权 <https://news.google.com/rss/articles/CBMiigFBVV95cUxNMzZQaUdtT2VES0lqTkZQd2JNX0ctdUR4dUFDV0F2RXhFSWJVbjhRZHBBckF3NGUxWEI1bUlQNWI4b2l3T2RyUWVjQ0hHLVBJUG5vYnA2eDRlQW1COU5MWThDU2dQaXNPc3dqTXNENnVhYVNGa1ZiMUNSeU5QZW84Ti1sU0JMNVdEOHc?oc=5>
+- **特朗普** | 特朗普提词器操作员借职务之便提前掌握演讲稿，对十余场重要演讲下注，非法获利逾10万美元 <https://news.google.com/rss/articles/CBMizgFBVV95cUxOamMtZFdvbC1YcU9NSjJkbUE0b285cXQ4TUJOaGVIZXpucGFxbG5QcnZBVktZN3pyVmU3V2NXdzJOX3l0OS1JdjdIMHRHWWp2SkhzaVVlQTFteHZxWU9iVW1oN3AtM3ZzeFE4Mjd1Tmh1QUNNTUVmQklRZ3pxUGUtbl9iMmdJazU3VGNzU2llT0lrcmYtR2gzRm8zNVhfaTRmc21XeU95akhhV01IeUJiVUNoNncxNFQzQmI4MGFrOHQwUF9FbVVkOTk5c0VkUQ?oc=5>
+- **特朗普** | 特朗普：很可耻！白宫提词器操作员利用其演讲稿下注，非法获利超10万美元 <https://news.google.com/rss/articles/CBMieEFVX3lxTE9MTW1qeVRqYUtoM09fVzZ0M0R1Y2lhTVBRT1F3NzgtR0xaODRlbS1LQ2piRExaQWVDV2l6WUUzdngxaHhiR2N6OWJIVjhQV3RQVFExWmxCaThpLUlhNGhVbVA3bFJqLXFDNzNpcUhPLUo0QWlWVk56OQ?oc=5>
+- **特朗普** | 靠押注“讲稿用词”获利 特朗普提词员被停职 <https://news.google.com/rss/articles/CBMif0FVX3lxTFAwakFwdmF0b1BMb0pIOUN2VTB2czBqOHNYaHBKdkhJdllFd0ZnMjhNSXM2ZV9Udm1hM3N3VDVKdFJjTmd1QlZEV3ZYRHE5TGhHb1VfeGQ3VVQ0TXcwZ0kxVjRVR01JN0FMSUNwRkNTcXRXLS1qQ2NENjZjZFhQRWs?oc=5>
+- **特朗普** | 分析｜轰炸、备忘录双双失效，特朗普还有C计划吗？专家：美国已陷入“战略死胡同” <https://news.google.com/rss/articles/CBMickFVX3lxTE03cDJEemdzeThEZmRUbV9GMFl5a3B5YVpvYWR5UENvbzUyMW15OFl5THdhMUhWdEdVSm1qcXlVenhfRktsakNqZU54YmRYdG9oVFZ1SHVrZ3BKSDNsbThFNUhfYm9PNHcxd2tJbTZ1RmZZdw?oc=5>
 
 ### 2026-07-18 00:52  (6 条)
 
