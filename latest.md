@@ -1,76 +1,80 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-18 05:59**
-- 本轮扫到 7205 条, 新增 **8** 条
+- 最近更新: **2026-07-18 08:00**
+- 本轮扫到 7212 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (7 条)
 
-### 刘雨昕真的太强，主题曲随便一跳都征服全场，LISA蔡徐坤当场沦陷
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924004_m1d5ae1924033025gos.html>
-
-### 如何安全转收蔡徐坤演唱会门票？
+### 蔡徐坤澳门水弹音乐节的门票可以通过哪些支付方式购买？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923104_1d5ae15a006801fs3k.html>
+- 链接: <https://k.sina.com.cn/article_7879923104_1d5ae15a006801ft1e.html>
+
+### FIFA主席回应“特朗普希望再次选择美国办世界杯”：可以中美合办世界杯
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-18 05:04
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE5hN3dPZ2dLYjR3ZC1kbGpUTElXVWtFbVFaOTRJeUM2cnUtZVFMNFhxLVFHTU5nZnVmRmdHUkt6MFE4RGVlNVdaVWZRaTFRVkpvbTdLNl9IdkZraWd5d2h6Z1VaU2p0Z1JPRjJsZ0U4WDNxZw?oc=5>
+
+### 特朗普开始“点评”英格兰队战术了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-18 03:40
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTFB3c3Q5eF9aRmJzYWNFa2xqSVg0aFJGSHVJVW1tb0h5RFJqenVsSkNxb19GMXd4WktLeXMtcHNhVGpUVXJZaFdSanZnTjFrQnhCMklPN0h4cmgzblVrQTVzcThmOXY0WV90b0syN1RWY05hMjZCaGc?oc=5>
+
+### 付费解锁“毫秒级”先机！特朗普开启“总统言论变现”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-18 05:30
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE0wS0lwOVVLVEVkR3RRNkJvaU1BR2Z0dGlsdmd6bUszRmltelAwVm9Rb0pUaldQSTk0emlaTXNlQ09fYmUyMWVvZ1NtdVFHQkxzemRWdHdSNi1vMVhLNkNsNGxwVjdveXUzbTNEcWJBeG5fSnBrVVE?oc=5>
+
+### 特朗普指责加拿大野火浓烟蔓延至美国：加税！
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-07-17 23:14
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTFBXYnZZbFpnanpnUkpXTUI3NEViR1VhWktvRXFMYmthM0hiNm5EaDVUbVVrNlZNVjdnMGtxM3Rpcy0xdHRDamg0N0tKdjZBOFE1S2FQZFZnbGFxNjBLaDlWcGZnMWlLTV9wRjVYUjVpREF6RnNi?oc=5>
+
+### 特朗普帖文“优先访问权”拟售每月10万美元
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新京报
+- 时间: 2026-07-18 06:22
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMYUhuLVRPdWkwdWdYaHFHNUUwSFBiUXVJSjg1WkJZVXN1V0ladVFVRGFJNmEyUmVDR29fRi1RY19jZnpGY18wVk9WeXFJcGV4czkxdkpoRjRCcWlidzBvck5yS08?oc=5>
 
 ### 特朗普最新支持率公布
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-18 05:40
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE5SX2RVSnVNa0RvSkViYzQxMEFIV19HRURMNDdSaW11ejRZVmhCeHhsSFBlVTVESFRWUURiQmFEaDVIeWxoX3h5MXVLREZFa2hYU05WQkZqLVJoNjBMZ0dHbVpvZ2w1NVMtQ1FIaDVtZm1RR1NEcUE?oc=5>
-
-### 特朗普怒批加拿大山火，称美国将把污染成本加入关税
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-17 21:38
-- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTFBleW1pMTl3dFl5V3ZvMUJxQUlPVTJnLWJaMUdXLXNBYlN5eElIWlBUWTRrVVJrN3pFUjJxY3l6am8tX1FIUXNSWEpPYi13LVdXVmx4dDh2RzJjYXBmQ2psU0ZWOTRwZDJhUURNR0JBSWQwQkM2OG43Y0dn?oc=5>
-
-### 中国未来最大对手，不是特朗普，而是即将手握万亿美元的马斯克
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-17 16:33
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE1ac0x3UHhpWFA1QXlueG1JSzFjMzlkUnVMMnpfZS03b2RScnFWZXdYNmloSVhpSkozczdhZGo1bS1qeFp5cTkyblhmdXhpTmxDWVJJSlRPVU55YVJ4cEJZamVLcFlTa3loa28xa1gwMGotdw?oc=5>
-
-### 特朗普支持“兄终妹及”：任期结束后继续参选
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-18 03:18
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9kcWJMRkVhcFBjRno4b3RFWnRvN1NkTnh0SjFoNjhpSDdZYTd5M1pUejZjaEVvTG5mQzA3ZGpGUkZxTXJTWEQyU0dCWEQ?oc=5>
-
-### 特朗普透露：因凡蒂诺曾建议美国和中国联合举办一届世界杯
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-07-18 04:58
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE41b1lWMFBqemZ6dVRaVE03RVFqNFVQU1p0SUppX2NmSnFtbUxkeGtDYmdKTDN1YnozYndBb0pGUXJDSEJKR3BieEltNzNra0lyaGxPUDFNUjBDRTVLMEE?oc=5>
-
-### Trump: US is preparing for more strikes against Iran
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: TDM
-- 时间: 2026-07-14 05:30
-- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxOMWRKREw1Wi0tR2RXVUdZdDdLbENSQThsZkV2amxoOTNhZzRVakU5dVhscGxJZUdSU2FseHV3cS1hV21OQlFtS3B5cTNyb1dDeGUyQTl1Qk5IdE5BM1lQSU9qNjVKMk9MRC1OcHpSVjl0VGI1NklHSG1OOTJrN2R3WA?oc=5>
+- 场馆: 搜狐网
+- 时间: 2026-07-18 07:36
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxNUGlTVHRfSUstTWlCMUR3OHBfejlvSTNTeGFxNEJDRmk5Y1dIOHpjN3U3elMwWjFaWXY1cHluVUFGdmdXX3NrSkZVSWV0cWhpSEQ2dFRienpkMmxOelNyc05QanpUM1pScWJQd2JzSTlRT1lLb1lhVDBSNHZiZzJZeHlsak42WFpJNU5XYw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-18 08:00  (7 条)
+
+- **蔡徐坤** | 蔡徐坤澳门水弹音乐节的门票可以通过哪些支付方式购买？ <https://k.sina.com.cn/article_7879923104_1d5ae15a006801ft1e.html>
+- **特朗普** | FIFA主席回应“特朗普希望再次选择美国办世界杯”：可以中美合办世界杯 <https://news.google.com/rss/articles/CBMickFVX3lxTE5hN3dPZ2dLYjR3ZC1kbGpUTElXVWtFbVFaOTRJeUM2cnUtZVFMNFhxLVFHTU5nZnVmRmdHUkt6MFE4RGVlNVdaVWZRaTFRVkpvbTdLNl9IdkZraWd5d2h6Z1VaU2p0Z1JPRjJsZ0U4WDNxZw?oc=5>
+- **特朗普** | 特朗普开始“点评”英格兰队战术了 <https://news.google.com/rss/articles/CBMidkFVX3lxTFB3c3Q5eF9aRmJzYWNFa2xqSVg0aFJGSHVJVW1tb0h5RFJqenVsSkNxb19GMXd4WktLeXMtcHNhVGpUVXJZaFdSanZnTjFrQnhCMklPN0h4cmgzblVrQTVzcThmOXY0WV90b0syN1RWY05hMjZCaGc?oc=5>
+- **特朗普** | 付费解锁“毫秒级”先机！特朗普开启“总统言论变现” <https://news.google.com/rss/articles/CBMidkFVX3lxTE0wS0lwOVVLVEVkR3RRNkJvaU1BR2Z0dGlsdmd6bUszRmltelAwVm9Rb0pUaldQSTk0emlaTXNlQ09fYmUyMWVvZ1NtdVFHQkxzemRWdHdSNi1vMVhLNkNsNGxwVjdveXUzbTNEcWJBeG5fSnBrVVE?oc=5>
+- **特朗普** | 特朗普指责加拿大野火浓烟蔓延至美国：加税！ <https://news.google.com/rss/articles/CBMidEFVX3lxTFBXYnZZbFpnanpnUkpXTUI3NEViR1VhWktvRXFMYmthM0hiNm5EaDVUbVVrNlZNVjdnMGtxM3Rpcy0xdHRDamg0N0tKdjZBOFE1S2FQZFZnbGFxNjBLaDlWcGZnMWlLTV9wRjVYUjVpREF6RnNi?oc=5>
+- **特朗普** | 特朗普帖文“优先访问权”拟售每月10万美元 <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMYUhuLVRPdWkwdWdYaHFHNUUwSFBiUXVJSjg1WkJZVXN1V0ladVFVRGFJNmEyUmVDR29fRi1RY19jZnpGY18wVk9WeXFJcGV4czkxdkpoRjRCcWlidzBvck5yS08?oc=5>
+- **特朗普** | 特朗普最新支持率公布 <https://news.google.com/rss/articles/CBMijAFBVV95cUxNUGlTVHRfSUstTWlCMUR3OHBfejlvSTNTeGFxNEJDRmk5Y1dIOHpjN3U3elMwWjFaWXY1cHluVUFGdmdXX3NrSkZVSWV0cWhpSEQ2dFRienpkMmxOelNyc05QanpUM1pScWJQd2JzSTlRT1lLb1lhVDBSNHZiZzJZeHlsak42WFpJNU5XYw?oc=5>
 
 ### 2026-07-18 05:59  (8 条)
 
