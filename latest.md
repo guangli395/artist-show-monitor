@@ -1,7 +1,7 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-18 18:53**
-- 本轮扫到 7247 条, 新增 **2** 条
+- 最近更新: **2026-07-18 20:01**
+- 本轮扫到 7249 条, 新增 **2** 条
 
 ---
 
@@ -12,21 +12,26 @@
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-07-18 14:56
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE1jWnM5dUoybG5WaXM5MHVIbk1Zc1gwSTBNS3I1eVV5empja2ZOeDlLSWdLcnY4OEpkeUxfbXU5Q3RMSWVhNzJyOWRkSmtXQXB2Ykt6OGJ5VFVkZXVlaWg3dXFmWjgyUUFSTHhvLTBOLVJwSm5s?oc=5>
+- 时间: 2026-07-18 14:15
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBLTno0MU9CRnZqbHBHbzJwMWxiZXpST3RmUG8xTEpEVFFHVDEwc1UzX0ptcnVVTXpObnNQVzJKcnVTalc2UklLc1VhaHdyaGFERzVxTi1aX3EwNkdndW1CNlI0eG1FeUI5ZEFHUVJPWUh0R3V0OWJqZ1V4VmFvZ00?oc=5>
 
-### 靠押注“讲稿用词”获利 特朗普提词员被停职
+### ‘What Do You Mean?’—Thomas Tuchel Bites Back at President Trump Criticism
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-18 01:56
-- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxQWnQ4MTRGNnhvYnF3dEVTblNJWEFYZEswN0txUHo5M3FsenVkRkdVRHJjeDZCXy1uQmZFRU9sZEJPa1BReFlTMzZpYUVUYnVhXzRtTzUtUTFsWE9xWVZyZzJ1VGlSS1dGRU8wV0NZX2stelFXT0o5dkM3elM5NHlCVDNLSWhhX2h3M0hScUR4VEVDVXBfS3RQMFktTF91SXIxclRRd0tQYVAydkJqa2E4eVB0OUhUdWRiX1N5eldtdnhiTHN3eTVDaXZkMk83N1E?oc=5>
+- 场馆: FotMob
+- 时间: 2026-07-18 18:15
+- 链接: <https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMDViSnN0RHhvMG91ekEycXE3aVFIeURfV19sMnl6WjhsQnNjNDB0b2lCejZNTnVyQkRvZTR6LXltZDliOV9IV0ZQSnVOc0JKWEpWdWhWVWVyYmZDQ3RfUENxQVVqRlQzZjNCYUt4MHowS0FTMFczVTh3bUM1UFFSRDNaYUJDMDhhUUVwVWRBd2dBSFYwWTFubHZQMTVGMmxfclhJM0gwTnYxR3FCbEplb0VDU3lCS09XTnEwblBTWXdCUQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-18 20:01  (2 条)
+
+- **特朗普** | 特朗普最新支持率公布 <https://news.google.com/rss/articles/CBMif0FVX3lxTFBLTno0MU9CRnZqbHBHbzJwMWxiZXpST3RmUG8xTEpEVFFHVDEwc1UzX0ptcnVVTXpObnNQVzJKcnVTalc2UklLc1VhaHdyaGFERzVxTi1aX3EwNkdndW1CNlI0eG1FeUI5ZEFHUVJPWUh0R3V0OWJqZ1V4VmFvZ00?oc=5>
+- **Trump** | ‘What Do You Mean?’—Thomas Tuchel Bites Back at President Trump Criticism <https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMDViSnN0RHhvMG91ekEycXE3aVFIeURfV19sMnl6WjhsQnNjNDB0b2lCejZNTnVyQkRvZTR6LXltZDliOV9IV0ZQSnVOc0JKWEpWdWhWVWVyYmZDQ3RfUENxQVVqRlQzZjNCYUt4MHowS0FTMFczVTh3bUM1UFFSRDNaYUJDMDhhUUVwVWRBd2dBSFYwWTFubHZQMTVGMmxfclhJM0gwTnYxR3FCbEplb0VDU3lCS09XTnEwblBTWXdCUQ?oc=5>
 
 ### 2026-07-18 18:53  (2 条)
 
