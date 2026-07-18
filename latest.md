@@ -1,112 +1,87 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-18 03:50**
-- 本轮扫到 7197 条, 新增 **13** 条
+- 最近更新: **2026-07-18 05:59**
+- 本轮扫到 7205 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (13 条)
+## 本轮新发现 (8 条)
 
-### 蔡徐坤澳门演唱会大麦抢票，多账号同时抢会被封号吗？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923118_1d5ae15ae06801nnf2.html>
-
-### 2026蔡徐坤澳门演唱会攻略(时间地点购票入口)- 澳门本地宝
+### 刘雨昕真的太强，主题曲随便一跳都征服全场，LISA蔡徐坤当场沦陷
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879995939_1d5af322301901dtfc.html>
+- 链接: <https://k.sina.com.cn/article_7879924004_m1d5ae1924033025gos.html>
 
-### 加价千元买周杰伦演唱会票换来一场空
+### 如何安全转收蔡徐坤演唱会门票？
 
-- 艺人/关键词: **周杰伦**
+- 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2992050891_mb25712cb03301tsqi.html>
+- 链接: <https://k.sina.com.cn/article_7879923104_1d5ae15a006801fs3k.html>
 
-### 演唱会门票团购怎么选？3大渠道实测PK，这3类人闭眼入对应选项
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849059_1d5acf46306801d72c.html>
-
-### 特朗普：因凡蒂诺曾建议中美共同举办世界杯，球员们会喜欢的
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-07-18 00:53
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1Pb1Vob1JjekpNLVpCMkhxR1VVZkIyc2JibDlNV3ZQcHNGNmd3Wm9KcFViVlVLS0oxVHR5MlRCdFliWG1wQXVxZ1BIOHgzQVBMZU5KSjJEMzRRdDhSeWtQdU1xenF1TVIyRUE?oc=5>
-
-### 特朗普指责加拿大野火殃及美国空气 威胁以关税追偿
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-07-18 02:19
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBNdm55V2QxeFl2Uk5XQnlURFNXT1B3bHFtdldpbG13ZTlZYU5zeGZSRUxpSGd1clhzVWxkcld5M3RxODA4bG5NSWRRX3B4Y1Y1UzU3UWlUWW1DYTNXanE1UVoxOXFoQ1hjVnBhdC1KX1Jpb241c3BJeFlaZWR0NWc?oc=5>
-
-### 特朗普指责加拿大野火“年年殃及美国”，称将污染成本计入关税
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 光明网
-- 时间: 2026-07-18 01:14
-- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE44bVRrTHJhYmVLTGRqX1Q1bjU4Rk9vd2pRWmlHQ2JXTTJSMHRoMEpmcGdfY2VsMXcwb05JV09IUkJUVVFLQkxyRXN4bk9reVJDU3dqQjk3WWk2QmpkYUdnV0xB?oc=5>
-
-### 加学者献计：最好让特朗普以为自己赢了，否则他非常记仇
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-07-17 09:46
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9IcTdyYUVIYVl2MkdCYTBmWXVwU0FsTDZfS05qbG9MTkRuaEVSdTgwOW9SRjlqaTNnbEExTDJnSElldXhXUGNKNXF2amVkVGo2ajBuNUNFWVZLcUxaaklMOHZqQXUzSm9UV1E?oc=5>
-
-### 特朗普媒体推出付费Truth API 出售热门账户发帖快速访问权
+### 特朗普最新支持率公布
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-18 01:52
-- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxNMzZQaUdtT2VES0lqTkZQd2JNX0ctdUR4dUFDV0F2RXhFSWJVbjhRZHBBckF3NGUxWEI1bUlQNWI4b2l3T2RyUWVjQ0hHLVBJUG5vYnA2eDRlQW1COU5MWThDU2dQaXNPc3dqTXNENnVhYVNGa1ZiMUNSeU5QZW84Ti1sU0JMNVdEOHc?oc=5>
+- 时间: 2026-07-18 05:40
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE5SX2RVSnVNa0RvSkViYzQxMEFIV19HRURMNDdSaW11ejRZVmhCeHhsSFBlVTVESFRWUURiQmFEaDVIeWxoX3h5MXVLREZFa2hYU05WQkZqLVJoNjBMZ0dHbVpvZ2w1NVMtQ1FIaDVtZm1RR1NEcUE?oc=5>
 
-### 特朗普提词器操作员借职务之便提前掌握演讲稿，对十余场重要演讲下注，非法获利逾10万美元
+### 特朗普怒批加拿大山火，称美国将把污染成本加入关税
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-17 03:21
-- 链接: <https://news.google.com/rss/articles/CBMizgFBVV95cUxOamMtZFdvbC1YcU9NSjJkbUE0b285cXQ4TUJOaGVIZXpucGFxbG5QcnZBVktZN3pyVmU3V2NXdzJOX3l0OS1JdjdIMHRHWWp2SkhzaVVlQTFteHZxWU9iVW1oN3AtM3ZzeFE4Mjd1Tmh1QUNNTUVmQklRZ3pxUGUtbl9iMmdJazU3VGNzU2llT0lrcmYtR2gzRm8zNVhfaTRmc21XeU95akhhV01IeUJiVUNoNncxNFQzQmI4MGFrOHQwUF9FbVVkOTk5c0VkUQ?oc=5>
+- 时间: 2026-07-17 21:38
+- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTFBleW1pMTl3dFl5V3ZvMUJxQUlPVTJnLWJaMUdXLXNBYlN5eElIWlBUWTRrVVJrN3pFUjJxY3l6am8tX1FIUXNSWEpPYi13LVdXVmx4dDh2RzJjYXBmQ2psU0ZWOTRwZDJhUURNR0JBSWQwQkM2OG43Y0dn?oc=5>
 
-### 特朗普：很可耻！白宫提词器操作员利用其演讲稿下注，非法获利超10万美元
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-07-17 07:23
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9MTW1qeVRqYUtoM09fVzZ0M0R1Y2lhTVBRT1F3NzgtR0xaODRlbS1LQ2piRExaQWVDV2l6WUUzdngxaHhiR2N6OWJIVjhQV3RQVFExWmxCaThpLUlhNGhVbVA3bFJqLXFDNzNpcUhPLUo0QWlWVk56OQ?oc=5>
-
-### 靠押注“讲稿用词”获利 特朗普提词员被停职
+### 中国未来最大对手，不是特朗普，而是即将手握万亿美元的马斯克
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-07-18 02:02
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFAwakFwdmF0b1BMb0pIOUN2VTB2czBqOHNYaHBKdkhJdllFd0ZnMjhNSXM2ZV9Udm1hM3N3VDVKdFJjTmd1QlZEV3ZYRHE5TGhHb1VfeGQ3VVQ0TXcwZ0kxVjRVR01JN0FMSUNwRkNTcXRXLS1qQ2NENjZjZFhQRWs?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-07-17 16:33
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE1ac0x3UHhpWFA1QXlueG1JSzFjMzlkUnVMMnpfZS03b2RScnFWZXdYNmloSVhpSkozczdhZGo1bS1qeFp5cTkyblhmdXhpTmxDWVJJSlRPVU55YVJ4cEJZamVLcFlTa3loa28xa1gwMGotdw?oc=5>
 
-### 分析｜轰炸、备忘录双双失效，特朗普还有C计划吗？专家：美国已陷入“战略死胡同”
+### 特朗普支持“兄终妹及”：任期结束后继续参选
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-07-18 03:18
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9kcWJMRkVhcFBjRno4b3RFWnRvN1NkTnh0SjFoNjhpSDdZYTd5M1pUejZjaEVvTG5mQzA3ZGpGUkZxTXJTWEQyU0dCWEQ?oc=5>
+
+### 特朗普透露：因凡蒂诺曾建议美国和中国联合举办一届世界杯
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: thepaper.cn
-- 时间: 2026-07-17 23:21
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE03cDJEemdzeThEZmRUbV9GMFl5a3B5YVpvYWR5UENvbzUyMW15OFl5THdhMUhWdEdVSm1qcXlVenhfRktsakNqZU54YmRYdG9oVFZ1SHVrZ3BKSDNsbThFNUhfYm9PNHcxd2tJbTZ1RmZZdw?oc=5>
+- 时间: 2026-07-18 04:58
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE41b1lWMFBqemZ6dVRaVE03RVFqNFVQU1p0SUppX2NmSnFtbUxkeGtDYmdKTDN1YnozYndBb0pGUXJDSEJKR3BieEltNzNra0lyaGxPUDFNUjBDRTVLMEE?oc=5>
+
+### Trump: US is preparing for more strikes against Iran
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: TDM
+- 时间: 2026-07-14 05:30
+- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxOMWRKREw1Wi0tR2RXVUdZdDdLbENSQThsZkV2amxoOTNhZzRVakU5dVhscGxJZUdSU2FseHV3cS1hV21OQlFtS3B5cTNyb1dDeGUyQTl1Qk5IdE5BM1lQSU9qNjVKMk9MRC1OcHpSVjl0VGI1NklHSG1OOTJrN2R3WA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-18 05:59  (8 条)
+
+- **蔡徐坤** | 刘雨昕真的太强，主题曲随便一跳都征服全场，LISA蔡徐坤当场沦陷 <https://k.sina.com.cn/article_7879924004_m1d5ae1924033025gos.html>
+- **蔡徐坤** | 如何安全转收蔡徐坤演唱会门票？ <https://k.sina.com.cn/article_7879923104_1d5ae15a006801fs3k.html>
+- **特朗普** | 特朗普最新支持率公布 <https://news.google.com/rss/articles/CBMidkFVX3lxTE5SX2RVSnVNa0RvSkViYzQxMEFIV19HRURMNDdSaW11ejRZVmhCeHhsSFBlVTVESFRWUURiQmFEaDVIeWxoX3h5MXVLREZFa2hYU05WQkZqLVJoNjBMZ0dHbVpvZ2w1NVMtQ1FIaDVtZm1RR1NEcUE?oc=5>
+- **特朗普** | 特朗普怒批加拿大山火，称美国将把污染成本加入关税 <https://news.google.com/rss/articles/CBMiekFVX3lxTFBleW1pMTl3dFl5V3ZvMUJxQUlPVTJnLWJaMUdXLXNBYlN5eElIWlBUWTRrVVJrN3pFUjJxY3l6am8tX1FIUXNSWEpPYi13LVdXVmx4dDh2RzJjYXBmQ2psU0ZWOTRwZDJhUURNR0JBSWQwQkM2OG43Y0dn?oc=5>
+- **特朗普** | 中国未来最大对手，不是特朗普，而是即将手握万亿美元的马斯克 <https://news.google.com/rss/articles/CBMickFVX3lxTE1ac0x3UHhpWFA1QXlueG1JSzFjMzlkUnVMMnpfZS03b2RScnFWZXdYNmloSVhpSkozczdhZGo1bS1qeFp5cTkyblhmdXhpTmxDWVJJSlRPVU55YVJ4cEJZamVLcFlTa3loa28xa1gwMGotdw?oc=5>
+- **特朗普** | 特朗普支持“兄终妹及”：任期结束后继续参选 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9kcWJMRkVhcFBjRno4b3RFWnRvN1NkTnh0SjFoNjhpSDdZYTd5M1pUejZjaEVvTG5mQzA3ZGpGUkZxTXJTWEQyU0dCWEQ?oc=5>
+- **特朗普** | 特朗普透露：因凡蒂诺曾建议美国和中国联合举办一届世界杯 <https://news.google.com/rss/articles/CBMiXkFVX3lxTE41b1lWMFBqemZ6dVRaVE03RVFqNFVQU1p0SUppX2NmSnFtbUxkeGtDYmdKTDN1YnozYndBb0pGUXJDSEJKR3BieEltNzNra0lyaGxPUDFNUjBDRTVLMEE?oc=5>
+- **Trump** | Trump: US is preparing for more strikes against Iran <https://news.google.com/rss/articles/CBMigAFBVV95cUxOMWRKREw1Wi0tR2RXVUdZdDdLbENSQThsZkV2amxoOTNhZzRVakU5dVhscGxJZUdSU2FseHV3cS1hV21OQlFtS3B5cTNyb1dDeGUyQTl1Qk5IdE5BM1lQSU9qNjVKMk9MRC1OcHpSVjl0VGI1NklHSG1OOTJrN2R3WA?oc=5>
 
 ### 2026-07-18 03:50  (13 条)
 
