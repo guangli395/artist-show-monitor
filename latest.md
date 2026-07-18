@@ -1,70 +1,87 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-18 08:00**
-- 本轮扫到 7212 条, 新增 **7** 条
+- 最近更新: **2026-07-18 09:53**
+- 本轮扫到 7220 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (8 条)
 
-### 蔡徐坤澳门水弹音乐节的门票可以通过哪些支付方式购买？
+### 周杰伦2026广州演唱会定档，上次来穗已是10年前
 
-- 艺人/关键词: **蔡徐坤**
+- 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923104_1d5ae15a006801ft1e.html>
+- 链接: <https://k.sina.com.cn/article_1831591892_m6d2bdfd403301fbog.html>
 
-### FIFA主席回应“特朗普希望再次选择美国办世界杯”：可以中美合办世界杯
+### 王俊凯新歌《Steal the Moon》为何获周杰伦赞赏
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776725_1d5abd9d506801k7f6.html>
+
+### 靠押注“讲稿用词”获利 特朗普提词员被停职
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中国经济网
+- 时间: 2026-07-18 02:52
+- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTFAxU2dJaUY2enZwdDI0ZG5ZMzVSMTlSdURfa2V2eUJhS1FHWkxDMzdsXzdfSUlKVmEtMUdjSWQ2VnN4OEJaZFEtRXBxdmMyYVV2eTc1UWw2Y2wzdWUwdlpjc0dLWQ?oc=5>
+
+### 加拿大野火烟雾蔓延至美国，特朗普痛批并称要加税
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-18 05:04
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE5hN3dPZ2dLYjR3ZC1kbGpUTElXVWtFbVFaOTRJeUM2cnUtZVFMNFhxLVFHTU5nZnVmRmdHUkt6MFE4RGVlNVdaVWZRaTFRVkpvbTdLNl9IdkZraWd5d2h6Z1VaU2p0Z1JPRjJsZ0U4WDNxZw?oc=5>
+- 时间: 2026-07-18 08:04
+- 链接: <https://news.google.com/rss/articles/CBMivgJBVV95cUxPLW43RzFLc2NXZ0pJT2FPS0dRa2Q4NG5GWUd0Q2xrTUtrY0JWN1JfbXZndGlJSm5YOGdJcUkyRFZVMDdWdzdYeEhrMnpRV1FOalJxNmJVOFNXd1NUY1lvQTgtQXVRSEkwSXM2VmhIdFpCTldLZ09DQmE4NWlDd0VNUDM1OXdQZ2RrTVg0YWhMbWZUS2swQXl3UmVDazg5X1U1LVVEWlJfOV94Y3p2YlBvWjB6d0NQcTBETFNfRmJoU0QtR0EydkJqYkhzbjlfS0F5emc5cm1odEJRWEMtV29UTWNmb1ZKVnhNQjJGSlpLMFJnRzMtOWxWbzFQeEV1OHFFLTU4Um41VkNSS1lHYnMwaGNRRWNWeTJCTVMwM0JYbllBWTY5bDIxMG5LNkNnTkpDZnE4UlNfY2YtcmlzeEE?oc=5>
 
-### 特朗普开始“点评”英格兰队战术了
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-18 03:40
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTFB3c3Q5eF9aRmJzYWNFa2xqSVg0aFJGSHVJVW1tb0h5RFJqenVsSkNxb19GMXd4WktLeXMtcHNhVGpUVXJZaFdSanZnTjFrQnhCMklPN0h4cmgzblVrQTVzcThmOXY0WV90b0syN1RWY05hMjZCaGc?oc=5>
-
-### 付费解锁“毫秒级”先机！特朗普开启“总统言论变现”
+### 世界杯决赛或受加拿大山火影响，特朗普威胁加关税
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-18 05:30
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE0wS0lwOVVLVEVkR3RRNkJvaU1BR2Z0dGlsdmd6bUszRmltelAwVm9Rb0pUaldQSTk0emlaTXNlQ09fYmUyMWVvZ1NtdVFHQkxzemRWdHdSNi1vMVhLNkNsNGxwVjdveXUzbTNEcWJBeG5fSnBrVVE?oc=5>
+- 时间: 2026-07-18 08:32
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5NOEt1VEF0VnFqY08yVlBURUVySmFvMGZ3ZEM2MG1CSGR4MElEem9sYUc4bmVUOHVFc1pjUDE5ZjZIN19fUUJfMW9pZjZ4di1uaXlGYWtjOUhlOUJKTnVKV1lwR1ZfMVR5OVVlVngxeVdVUWJsX1lUeQ?oc=5>
 
-### 特朗普指责加拿大野火浓烟蔓延至美国：加税！
+### 中美合办世界杯？特朗普曝光因凡蒂诺疯狂计划
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-07-17 23:14
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTFBXYnZZbFpnanpnUkpXTUI3NEViR1VhWktvRXFMYmthM0hiNm5EaDVUbVVrNlZNVjdnMGtxM3Rpcy0xdHRDamg0N0tKdjZBOFE1S2FQZFZnbGFxNjBLaDlWcGZnMWlLTV9wRjVYUjVpREF6RnNi?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-07-18 00:43
+- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wQmdZVE4zMU5LMnQ0am5yU0VoM0kxNC1PbG0xQXFIQlhXX2dHb3JmQm5CY0EwaTJJNUF0RU9rTEVfdlFoeWFVei1pRUprRVE?oc=5>
+
+### 特朗普：因凡蒂诺跟我建议中美共同举办世界杯，我感觉球员们会喜欢的
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-07-18 09:34
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYm9xaHZyZlJMdGtTSEdYWUJ0WWhKcEpHQ3AwTGxSSlI0bF9sNTFEUy0wdENiWTNTWkFSUkVsbjQwV25hdVpoVE8zNWtoSm53Uk1pbFZzMVJ4MTh4c2V3MThyd3RleE9ydHNLcmV5Zk1Pc3ozdnFFcWI0R25CT0FWVmZvWmdwSl8wWUZqVGdZMVFSODB6U3VNXzBmcEJiMnhJUUx5RldXODRYTFlSUnpNTmQwQUc0LW1TVlBzdGNjWmJRY0RocTd2NS1EVFZtLUg5dmJHYTdkYjJtamdSU2xz?oc=5>
 
 ### 特朗普帖文“优先访问权”拟售每月10万美元
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-07-18 06:22
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMYUhuLVRPdWkwdWdYaHFHNUUwSFBiUXVJSjg1WkJZVXN1V0ladVFVRGFJNmEyUmVDR29fRi1RY19jZnpGY18wVk9WeXFJcGV4czkxdkpoRjRCcWlidzBvck5yS08?oc=5>
-
-### 特朗普最新支持率公布
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-07-18 07:36
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxNUGlTVHRfSUstTWlCMUR3OHBfejlvSTNTeGFxNEJDRmk5Y1dIOHpjN3U3elMwWjFaWXY1cHluVUFGdmdXX3NrSkZVSWV0cWhpSEQ2dFRienpkMmxOelNyc05QanpUM1pScWJQd2JzSTlRT1lLb1lhVDBSNHZiZzJZeHlsak42WFpJNU5XYw?oc=5>
+- 场馆: 新华网
+- 时间: 2026-07-18 08:58
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE5wcEFLVHYtMVkwem5xU1lwNFRjTFp0MnR0UTZ5Q0ZiYUZSUFZYMlI1eXoxQ1NqQnQ3anZFcE9SY3pBc1pPWkVkRHhuR2tOUHpaUWFlbDk0R0xPdnFmUnljMmdQdFg5V0x1ZFpQVlhMc051RFFob1hYWUFPNk1DVkk?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-18 09:53  (8 条)
+
+- **周杰伦** | 周杰伦2026广州演唱会定档，上次来穗已是10年前 <https://k.sina.com.cn/article_1831591892_m6d2bdfd403301fbog.html>
+- **周杰伦** | 王俊凯新歌《Steal the Moon》为何获周杰伦赞赏 <https://k.sina.com.cn/article_7879776725_1d5abd9d506801k7f6.html>
+- **特朗普** | 靠押注“讲稿用词”获利 特朗普提词员被停职 <https://news.google.com/rss/articles/CBMiY0FVX3lxTFAxU2dJaUY2enZwdDI0ZG5ZMzVSMTlSdURfa2V2eUJhS1FHWkxDMzdsXzdfSUlKVmEtMUdjSWQ2VnN4OEJaZFEtRXBxdmMyYVV2eTc1UWw2Y2wzdWUwdlpjc0dLWQ?oc=5>
+- **特朗普** | 加拿大野火烟雾蔓延至美国，特朗普痛批并称要加税 <https://news.google.com/rss/articles/CBMivgJBVV95cUxPLW43RzFLc2NXZ0pJT2FPS0dRa2Q4NG5GWUd0Q2xrTUtrY0JWN1JfbXZndGlJSm5YOGdJcUkyRFZVMDdWdzdYeEhrMnpRV1FOalJxNmJVOFNXd1NUY1lvQTgtQXVRSEkwSXM2VmhIdFpCTldLZ09DQmE4NWlDd0VNUDM1OXdQZ2RrTVg0YWhMbWZUS2swQXl3UmVDazg5X1U1LVVEWlJfOV94Y3p2YlBvWjB6d0NQcTBETFNfRmJoU0QtR0EydkJqYkhzbjlfS0F5emc5cm1odEJRWEMtV29UTWNmb1ZKVnhNQjJGSlpLMFJnRzMtOWxWbzFQeEV1OHFFLTU4Um41VkNSS1lHYnMwaGNRRWNWeTJCTVMwM0JYbllBWTY5bDIxMG5LNkNnTkpDZnE4UlNfY2YtcmlzeEE?oc=5>
+- **特朗普** | 世界杯决赛或受加拿大山火影响，特朗普威胁加关税 <https://news.google.com/rss/articles/CBMieEFVX3lxTE5NOEt1VEF0VnFqY08yVlBURUVySmFvMGZ3ZEM2MG1CSGR4MElEem9sYUc4bmVUOHVFc1pjUDE5ZjZIN19fUUJfMW9pZjZ4di1uaXlGYWtjOUhlOUJKTnVKV1lwR1ZfMVR5OVVlVngxeVdVUWJsX1lUeQ?oc=5>
+- **特朗普** | 中美合办世界杯？特朗普曝光因凡蒂诺疯狂计划 <https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wQmdZVE4zMU5LMnQ0am5yU0VoM0kxNC1PbG0xQXFIQlhXX2dHb3JmQm5CY0EwaTJJNUF0RU9rTEVfdlFoeWFVei1pRUprRVE?oc=5>
+- **特朗普** | 特朗普：因凡蒂诺跟我建议中美共同举办世界杯，我感觉球员们会喜欢的 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYm9xaHZyZlJMdGtTSEdYWUJ0WWhKcEpHQ3AwTGxSSlI0bF9sNTFEUy0wdENiWTNTWkFSUkVsbjQwV25hdVpoVE8zNWtoSm53Uk1pbFZzMVJ4MTh4c2V3MThyd3RleE9ydHNLcmV5Zk1Pc3ozdnFFcWI0R25CT0FWVmZvWmdwSl8wWUZqVGdZMVFSODB6U3VNXzBmcEJiMnhJUUx5RldXODRYTFlSUnpNTmQwQUc0LW1TVlBzdGNjWmJRY0RocTd2NS1EVFZtLUg5dmJHYTdkYjJtamdSU2xz?oc=5>
+- **特朗普** | 特朗普帖文“优先访问权”拟售每月10万美元 <https://news.google.com/rss/articles/CBMif0FVX3lxTE5wcEFLVHYtMVkwem5xU1lwNFRjTFp0MnR0UTZ5Q0ZiYUZSUFZYMlI1eXoxQ1NqQnQ3anZFcE9SY3pBc1pPWkVkRHhuR2tOUHpaUWFlbDk0R0xPdnFmUnljMmdQdFg5V0x1ZFpQVlhMc051RFFob1hYWUFPNk1DVkk?oc=5>
 
 ### 2026-07-18 08:00  (7 条)
 
