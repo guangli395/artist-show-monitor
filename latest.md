@@ -1,48 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-18 17:51**
-- 本轮扫到 7245 条, 新增 **4** 条
+- 最近更新: **2026-07-18 18:53**
+- 本轮扫到 7247 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (2 条)
 
-### 特朗普脱口而出： 中美将联合申办世界杯
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-07-18 16:58
-- 链接: <https://news.google.com/rss/articles/CBMirAJBVV95cUxNMnZJbWJFVnFRSHlRVjVDLUJqVmdtQVp4Wm5jOGZmRDl1MTlJNzc2TmRhTzlSaDBqbERZX0hpT3l3d2dmbXQtMThyaHNfS0J3cDdBVW9YaHdvaTZsN3BGdTRlRndjNk5RZ2xzcC1SRThYeWYwUDdlUTlPX2pmZWdMQ0ZfSUF1cUlzUU43UjgydXBsd3ZsM2prUDM5UmNyUzVVWmIwdEVFUGd0NEZ1bHZjNkczM1lENTUxdWc4RlhBbVVsblNPWTBCdnN0aENxRV9ub0prMVh1U0ctbDM2RWR1WXd5bkRETG41VWdXYXRxSC1xNEMyMXgwb3lqUHdFMWJMTTUtOEVTZHlZdUN6REZDZWd0c3BGODhzQXhuZzgydkNGallla2JmeU91WmQ?oc=5>
-
-### FIFA主席回应“特朗普希望再次选择美国办世界杯”：可以中美合办世界杯
+### 特朗普最新支持率公布
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-18 03:07
-- 链接: <https://news.google.com/rss/articles/CBMi1AFBVV95cUxNY1RJYzRiX1JJSGgyNVFlcjB6akQ3QXNjbTlMdjNZVURNQWlOcnJXQ2RxRksxZl9Mbjlpdm9BYnk4ZDhuakViZHZUcmRyTHU2ZDBZenY1RThYQWJlZnZQS0lFd2R3M1I3dzZFeW5QbEJybXItYnZhX0x0THlaa0lhbGduYnpLdkhKRkpRYVViV1VyVFpFc1BPY1RuLXk2cnZXUENHRGFrbUtyRVdrX0huRHVaNXdLbWpjaGlhczZ3eEx4LTZ5WGRWYkVlQ2FFVlhjUnBwSQ?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-07-18 14:56
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE1jWnM5dUoybG5WaXM5MHVIbk1Zc1gwSTBNS3I1eVV5empja2ZOeDlLSWdLcnY4OEpkeUxfbXU5Q3RMSWVhNzJyOWRkSmtXQXB2Ykt6OGJ5VFVkZXVlaWg3dXFmWjgyUUFSTHhvLTBOLVJwSm5s?oc=5>
 
-### 特朗普提词员被停职
+### 靠押注“讲稿用词”获利 特朗普提词员被停职
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-18 09:48
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE41OVVTQmtTRE1XVThONGZKd2lJRDhjVzN2WE1vQ3AxcjZBcWkweU9vZmV4U1hHODNVLVBRYnJvQ0R0dEVoSzYzMkk5bGFBdDZvWER1NjZET21JaWp2YWFpNHBZcFRGVGgyaU1UbWthTHNYWjdkX0NtTg?oc=5>
-
-### 三大电视台两家没播总统演讲，特朗普破防：吊销执照！
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-07-17 14:53
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBvNnpJV2RacTlXTUExS1FfcVllaUVUeDcyenNKWjkyQUE3ZkJUZVVXZTBRY2Y0QUh0a0NfVkpSdng4cF9CbXY4c3FxVUZvVkVnb2w5WGVjN1VkNFBIMDhpNi13YVlOUnkzc3c?oc=5>
+- 时间: 2026-07-18 01:56
+- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxQWnQ4MTRGNnhvYnF3dEVTblNJWEFYZEswN0txUHo5M3FsenVkRkdVRHJjeDZCXy1uQmZFRU9sZEJPa1BReFlTMzZpYUVUYnVhXzRtTzUtUTFsWE9xWVZyZzJ1VGlSS1dGRU8wV0NZX2stelFXT0o5dkM3elM5NHlCVDNLSWhhX2h3M0hScUR4VEVDVXBfS3RQMFktTF91SXIxclRRd0tQYVAydkJqa2E4eVB0OUhUdWRiX1N5eldtdnhiTHN3eTVDaXZkMk83N1E?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-18 18:53  (2 条)
+
+- **特朗普** | 特朗普最新支持率公布 <https://news.google.com/rss/articles/CBMidEFVX3lxTE1jWnM5dUoybG5WaXM5MHVIbk1Zc1gwSTBNS3I1eVV5empja2ZOeDlLSWdLcnY4OEpkeUxfbXU5Q3RMSWVhNzJyOWRkSmtXQXB2Ykt6OGJ5VFVkZXVlaWg3dXFmWjgyUUFSTHhvLTBOLVJwSm5s?oc=5>
+- **特朗普** | 靠押注“讲稿用词”获利 特朗普提词员被停职 <https://news.google.com/rss/articles/CBMizwFBVV95cUxQWnQ4MTRGNnhvYnF3dEVTblNJWEFYZEswN0txUHo5M3FsenVkRkdVRHJjeDZCXy1uQmZFRU9sZEJPa1BReFlTMzZpYUVUYnVhXzRtTzUtUTFsWE9xWVZyZzJ1VGlSS1dGRU8wV0NZX2stelFXT0o5dkM3elM5NHlCVDNLSWhhX2h3M0hScUR4VEVDVXBfS3RQMFktTF91SXIxclRRd0tQYVAydkJqa2E4eVB0OUhUdWRiX1N5eldtdnhiTHN3eTVDaXZkMk83N1E?oc=5>
 
 ### 2026-07-18 17:51  (4 条)
 
