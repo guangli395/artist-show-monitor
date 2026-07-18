@@ -1,14 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-18 22:12**
-- 本轮扫到 7252 条, 新增 **0** 条
+- 最近更新: **2026-07-18 23:23**
+- 本轮扫到 7255 条, 新增 **3** 条
 
 ---
 
-## 本轮无新增
+## 本轮新发现 (3 条)
 
-数据库里所有演出/动态都已见过,暂无新增。
+### 特朗普帖文“优先访问权”拟售每月10万美元
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 上海热线
+- 时间: 2026-07-18 23:03
+- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE0yWnB3RUdVSjY3Ulp1ZUxEbVdKeFN1UnFLdk05cVhBMm1IRmx4bThpU0QtRlB5VUZrTGtDeU5sMGhxbG9RanlBSG85V0xDRDVxZmUza1E3cUoxNnVDSUlBLUR3ZDBVSkVNeTJiU3htaHBvU2NuRmtjbjVTWTkyZw?oc=5>
+
+### 西前锋：和特朗普握手 出于无奈
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-07-18 20:23
+- 链接: <https://news.google.com/rss/articles/CBMi_gFBVV95cUxQQU9SRnBBeWdwMlRBenAzbVVKODFkTTM0cUhGZXVJbVR3YUg1MUNhaGU1WmF4WkZPN09KR3hUY0NYRzBMSm9zc1lTcEdJN0NqOEV4aThTaFFsZUFldlFSVHlvSG42Z3JEbDRvVFowa1c5ckFaYnAzampnZkl2UFVhNndsa2wzY3F4MnRBdVdOU05OdUttSXlGMlJyNG1YSXdSZWhtaU0zdnRzWjBGc25fazhubzhiQUVBdFNzUEtacVlXYjJKXzdjZTZLZFA4bjEyc1VRMVV5bi1scmNqeWpkTjBjVVFlcDhMQUpzQnhoQzN0djJIU2pscmhUa1d5QQ?oc=5>
+
+### 特朗普指责中方曾试图影响美选举结果后 白宫确认9月的特习会仍将按计划进行
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-07-18 10:02
+- 链接: <https://news.google.com/rss/articles/CBMi-gNBVV95cUxNNGJnNm9WSV80TFRYZE5XWVJHU2RpQ3lxR0IxV3d2VHNpM0stRmJOcnFqTDBUbmZ6LVk0OWhqZTVfZUswQ2JHblhTYTFCQ2FIdUxXSEZoRk9mSGpuWmZqdFZ2UnhuRUQ0NEpfdHJidVVvYXZkZjdHUG9RU0hFd29TdFllNlRZVHh1MmduSU9OeHVsNHlaX2pUcEgxQTE4ak9vVmpXU29CWW1uWDJjdjItejJhUEdBVnJpdXBVanI4QUNOTkUxcHpLSUlwT1VDcmJ3X2Z4WXNkck50QWkyLU04WmJNWHFGQk1sVmV1cGFPYlJzZFJUYXE1STAyVjRzNDMtdWZ0eU5ObXZRMGJtbDZuLW5BYkF2RmhZc0VYMjBNOXlWZFczSmFSTl8zODRHeXJrOW1mUVZaYmN4b2tjYkU5T0pKWmNGMm5pakIxMktFLW5iNDN4ZFhsbTY4ZHlWMnJ4dVJza21GdEo3aHdkSzVSU0dubWhxTkZIX2RqZ20zd2NfZ080SzI1UE84QnphZ1RtRUtIZUNDSlpvczd5dVpYNC1ISGFQVU5XcFpKSFlWWUNHODhFQ0VYZXQ5RWlqdG1yZ2lRT29aZHVCS3Q1QURna1dIMnNfWXA1bGtfVVV0cTM0WGRqZURTaEhCaWdrUTM2TUtKMl83WlNDZw?oc=5>
+
+
+---
+
 ## 历史发现
+
+### 2026-07-18 23:23  (3 条)
+
+- **特朗普** | 特朗普帖文“优先访问权”拟售每月10万美元 <https://news.google.com/rss/articles/CBMifkFVX3lxTE0yWnB3RUdVSjY3Ulp1ZUxEbVdKeFN1UnFLdk05cVhBMm1IRmx4bThpU0QtRlB5VUZrTGtDeU5sMGhxbG9RanlBSG85V0xDRDVxZmUza1E3cUoxNnVDSUlBLUR3ZDBVSkVNeTJiU3htaHBvU2NuRmtjbjVTWTkyZw?oc=5>
+- **特朗普** | 西前锋：和特朗普握手 出于无奈 <https://news.google.com/rss/articles/CBMi_gFBVV95cUxQQU9SRnBBeWdwMlRBenAzbVVKODFkTTM0cUhGZXVJbVR3YUg1MUNhaGU1WmF4WkZPN09KR3hUY0NYRzBMSm9zc1lTcEdJN0NqOEV4aThTaFFsZUFldlFSVHlvSG42Z3JEbDRvVFowa1c5ckFaYnAzampnZkl2UFVhNndsa2wzY3F4MnRBdVdOU05OdUttSXlGMlJyNG1YSXdSZWhtaU0zdnRzWjBGc25fazhubzhiQUVBdFNzUEtacVlXYjJKXzdjZTZLZFA4bjEyc1VRMVV5bi1scmNqeWpkTjBjVVFlcDhMQUpzQnhoQzN0djJIU2pscmhUa1d5QQ?oc=5>
+- **特朗普** | 特朗普指责中方曾试图影响美选举结果后 白宫确认9月的特习会仍将按计划进行 <https://news.google.com/rss/articles/CBMi-gNBVV95cUxNNGJnNm9WSV80TFRYZE5XWVJHU2RpQ3lxR0IxV3d2VHNpM0stRmJOcnFqTDBUbmZ6LVk0OWhqZTVfZUswQ2JHblhTYTFCQ2FIdUxXSEZoRk9mSGpuWmZqdFZ2UnhuRUQ0NEpfdHJidVVvYXZkZjdHUG9RU0hFd29TdFllNlRZVHh1MmduSU9OeHVsNHlaX2pUcEgxQTE4ak9vVmpXU29CWW1uWDJjdjItejJhUEdBVnJpdXBVanI4QUNOTkUxcHpLSUlwT1VDcmJ3X2Z4WXNkck50QWkyLU04WmJNWHFGQk1sVmV1cGFPYlJzZFJUYXE1STAyVjRzNDMtdWZ0eU5ObXZRMGJtbDZuLW5BYkF2RmhZc0VYMjBNOXlWZFczSmFSTl8zODRHeXJrOW1mUVZaYmN4b2tjYkU5T0pKWmNGMm5pakIxMktFLW5iNDN4ZFhsbTY4ZHlWMnJ4dVJza21GdEo3aHdkSzVSU0dubWhxTkZIX2RqZ20zd2NfZ080SzI1UE84QnphZ1RtRUtIZUNDSlpvczd5dVpYNC1ISGFQVU5XcFpKSFlWWUNHODhFQ0VYZXQ5RWlqdG1yZ2lRT29aZHVCS3Q1QURna1dIMnNfWXA1bGtfVVV0cTM0WGRqZURTaEhCaWdrUTM2TUtKMl83WlNDZw?oc=5>
 
 ### 2026-07-18 21:11  (3 条)
 
