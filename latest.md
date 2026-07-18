@@ -1,62 +1,67 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-17 23:15**
-- 本轮扫到 7178 条, 新增 **6** 条
+- 最近更新: **2026-07-18 00:52**
+- 本轮扫到 7184 条, 新增 **6** 条
 
 ---
 
 ## 本轮新发现 (6 条)
 
-### 黄牛倒卖蔡徐坤演唱会门票如何防范？
+### 蔡徐坤2023澳门迷巡演排练3寸亮膜小卡(真实物流，收藏链接送随机小卡)
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923107_1d5ae15a306803nx4m.html>
+- 链接: <https://k.sina.com.cn/article_7879848924_1d5acf3dc01901it28.html>
 
-### 特朗普媒体推出付费Truth API 出售热门账户发帖快速访问权
+### 2026蔡徐坤澳门演唱会开票信息- 澳门本地宝
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-17 22:30
-- 链接: <https://news.google.com/rss/articles/CBMipgFBVV95cUxOQklVbEdCZGhHcm8yMTN5V295UzBOSERnTlY1LTRMT1kxNDBJV0JuQ1EyMENwdDFqekFRVi01TXh1MmpXejlYbXh4QUpWUXdiYm51ckFQMXlUdWlOOHVOR2JiTmx2M2M2R0RIVXVfcnVPaFEtQkJSNjZyNU1neDAwdHp3S2F3WldCZW1ZNkNIM1pKYnRFVW5USVhNbDNWazZZa0trSmdn?oc=5>
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923015_1d5ae154701901fovw.html>
 
-### 特朗普怒批加拿大山火，称美国将把污染成本加入关税
+### 王俊凯生日演唱会票价公布供需比169:1引爆抢票热潮
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-17 21:42
-- 链接: <https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcGd6ODJtc294Ym9Mb0V3UGxUR1hmUHZhdUFIODgzenh0YUU3LTRVOElwNHVKckdUUXRGMW5TWmVkbWdwWkl4c0JjTmxzU2QyOHRiakxlWXBsbkpkQkRwaDNIVjlkRDBHWGxVY3hYR3JrRW0xN1d0MGFxZnBKNDdnMmV5aXJaQ19BSmtvX1FsbFBZZU5IR0JKVHNkazQtNmVxWHR4dHIzQ2dCNndPNjB2Um1uTnRWYU9JVjhNRW5paWo?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879848924_1d5acf3dc01901itog.html?from=tech>
 
-### 特朗普向加拿大发出警告：不可接受，损失无法估量！
+### 特朗普总统公布有关中国干预2020年大选和收集数据的情报文件，里面到底有什么？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-17 22:46
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5pWDhYclhrUldQZnBvUkJLWFllOWpCRG51bjRpZjB0LTZkWXhnbmFSaF85OFpBZVhaWkhjZ2hFMXdYakxEMVRvRUJoNks?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-07-17 22:13
+- 链接: <https://news.google.com/rss/articles/CBMi7wFBVV95cUxPbW5pa0dwclZwOWdDTThybDRzcU1kMFlfNUJ3UG5HMTdaNzVVVXBqT1dLa0J6ZXhjMHZ4eVBRYnVwVWxHbUJ3TWhNV1Y2NjgwbkhQRTNxQW5tU2tuYkU4Si1XM0F0WUk0eExZSTZKenFMNnZXMUNlNlgyc0VONlpmSkNZX1NHYU83dzJvNWozVjZVWjY4eWdiNkpkVHFaVnVOcV9taE1fNmFxVGxFQTEweU5YdmtyZHZ4TjAyT2JKcUtYWHd0ajVtY1NzekMydUlHY2duMkZCVkxjcmpQQ2lIYU1TamlkMXZFOGx3S3ZtONIB8gFBVV95cUxOZ0dJLWxvOEt6QXduUDVNaTZoT1BEQXJSRVJySDZoWkVmLUFPSzFUNUVlRWEta0wxZVNIWE5zdk9PZTdEVl9ob1hjV1Z5bl9tNTBVZUF4eVNWRGEzWUJSWDgtOEFnNVV4X2ZrWDh2N09XcFNRZzFOTXljVXB0blQ4dWhPRGJxTmpMRUttYzhLZjEtWEVCU1lQd25ER3BnOFc3eElwRWQ0XzRlVWpZYm95R3dFUDNlR3BuMHk1NDQwNWpTQmNpN1RzSzVCX3ZPZlo4NmgxRWY4a3p6VGZOQzBodlQyRWtQOXVUdXJhMzhFRDA4dw?oc=5>
 
-### “历史性逆转，特朗普最害怕的事发生了”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察
-- 时间: 2026-07-17 10:56
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE8tWVhVMlNsMnVMMkU1UEF4ZjBnbmduWGVUMDd3cC1iUU1uUEp2dG5vaHkwZzZWdm1yZXI2N3ZBVFZuWmQxSTFJNU4tcXdVaUh5dUo4QUpBWUlDYXhab0NBeTdvYWdqRGwtVEE?oc=5>
-
-### 每月10万美元，交易员据悉可获取特朗普帖文抢先看服务
+### 特朗普：都怪加拿大，加税！
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网财经
-- 时间: 2026-07-17 19:42
-- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTFA3S0F4d3AybHlnTWM1R2NYVXVwMnlRekdJNVZJX19BVlVTSnluUi1nQjlIX0NyWmtpczZDU045bThYaDNtaGRJbWh3eF9xYW02?oc=5>
+- 场馆: 观察者
+- 时间: 2026-07-17 23:14
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5iRDhyelc4dWZyZF81QVFDbEJWMVh4RnJNMnFpb2gyazh6NUwyV3ZIajktWDBndG9RcmNmQkU0eTN5bHZQbEdNM0FLNndYTHdFaDQ0b0gxTU9ORVp2WGhRWmFweG9ZOVhwV0E?oc=5>
+
+### 分析｜轰炸、备忘录双双失效，特朗普还有C计划吗？专家：美国已陷入“战略死胡同”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-07-17 23:21
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE8tN0VOUnJpekdMVTVUZnA5TnA5VndXQW14VDUwdDNvbVBtM01YT2M5VEZGX0NOZXI4QzBtaHlqbVJRc085MV9INDVGQThXVHI2XzFDN29IUlNzSWRmaTdPMQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-18 00:52  (6 条)
+
+- **蔡徐坤** | 蔡徐坤2023澳门迷巡演排练3寸亮膜小卡(真实物流，收藏链接送随机小卡) <https://k.sina.com.cn/article_7879848924_1d5acf3dc01901it28.html>
+- **蔡徐坤** | 2026蔡徐坤澳门演唱会开票信息- 澳门本地宝 <https://k.sina.com.cn/article_7879923015_1d5ae154701901fovw.html>
+- **周杰伦** | 王俊凯生日演唱会票价公布供需比169:1引爆抢票热潮 <https://k.sina.com.cn/article_7879848924_1d5acf3dc01901itog.html?from=tech>
+- **特朗普** | 特朗普总统公布有关中国干预2020年大选和收集数据的情报文件，里面到底有什么？ <https://news.google.com/rss/articles/CBMi7wFBVV95cUxPbW5pa0dwclZwOWdDTThybDRzcU1kMFlfNUJ3UG5HMTdaNzVVVXBqT1dLa0J6ZXhjMHZ4eVBRYnVwVWxHbUJ3TWhNV1Y2NjgwbkhQRTNxQW5tU2tuYkU4Si1XM0F0WUk0eExZSTZKenFMNnZXMUNlNlgyc0VONlpmSkNZX1NHYU83dzJvNWozVjZVWjY4eWdiNkpkVHFaVnVOcV9taE1fNmFxVGxFQTEweU5YdmtyZHZ4TjAyT2JKcUtYWHd0ajVtY1NzekMydUlHY2duMkZCVkxjcmpQQ2lIYU1TamlkMXZFOGx3S3ZtONIB8gFBVV95cUxOZ0dJLWxvOEt6QXduUDVNaTZoT1BEQXJSRVJySDZoWkVmLUFPSzFUNUVlRWEta0wxZVNIWE5zdk9PZTdEVl9ob1hjV1Z5bl9tNTBVZUF4eVNWRGEzWUJSWDgtOEFnNVV4X2ZrWDh2N09XcFNRZzFOTXljVXB0blQ4dWhPRGJxTmpMRUttYzhLZjEtWEVCU1lQd25ER3BnOFc3eElwRWQ0XzRlVWpZYm95R3dFUDNlR3BuMHk1NDQwNWpTQmNpN1RzSzVCX3ZPZlo4NmgxRWY4a3p6VGZOQzBodlQyRWtQOXVUdXJhMzhFRDA4dw?oc=5>
+- **特朗普** | 特朗普：都怪加拿大，加税！ <https://news.google.com/rss/articles/CBMiakFVX3lxTE5iRDhyelc4dWZyZF81QVFDbEJWMVh4RnJNMnFpb2gyazh6NUwyV3ZIajktWDBndG9RcmNmQkU0eTN5bHZQbEdNM0FLNndYTHdFaDQ0b0gxTU9ORVp2WGhRWmFweG9ZOVhwV0E?oc=5>
+- **特朗普** | 分析｜轰炸、备忘录双双失效，特朗普还有C计划吗？专家：美国已陷入“战略死胡同” <https://news.google.com/rss/articles/CBMiYEFVX3lxTE8tN0VOUnJpekdMVTVUZnA5TnA5VndXQW14VDUwdDNvbVBtM01YT2M5VEZGX0NOZXI4QzBtaHlqbVJRc085MV9INDVGQThXVHI2XzFDN29IUlNzSWRmaTdPMQ?oc=5>
 
 ### 2026-07-17 23:15  (6 条)
 
