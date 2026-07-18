@@ -1,32 +1,80 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-18 13:00**
-- 本轮扫到 7230 条, 新增 **2** 条
+- 最近更新: **2026-07-18 14:33**
+- 本轮扫到 7237 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (7 条)
 
-### 事实核查：特朗普指控中国干预美国2020大选 是否属实？
+### 07年周董《不能说的秘密》歌友会全程笑点
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923551_m1d5ae175f03301n310.html>
+
+### 搅乱威尼斯，特朗普“最富特使”耸肩：让意大利人看看，这叫顶级富豪
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: DW.com
-- 时间: 2026-07-18 11:00
-- 链接: <https://news.google.com/rss/articles/CBMiywJBVV95cUxNbXdjNlFkbFloZjNQMzhwcEctdHp2ODlVYl95NDNPVmFJUlQ3YXhVNU5aWlVVN2JYaFljQTNZSmZNTVhlWE41eWdEUEtDT3JJekJ0ZkNGelhKMUN2cGhhWFF3V1QyOW9YWnJNTWdveXZXTS1GUFF0aGppN2hOMGUxbWZUSkFQa0FzQnNIOTlld1ByWnE0MVNkWDd6NlpwLUVqZlZMYndtbGhXV2U4Wlk1SXl1LTFGYW51dHpGWVRFODVDQklWNkVJeFZMV0lhakRrb0NyM19DOUhVaEQzeWRwSUptamlPMmdndjVjdXJXa2lEaWROU1ZLQ2pzd20tRmpoUS1FQ0ZIajZ5TVhoT2poeUxpTHdTOUNERGlFNFIwSFNFaV9xSTQyZFRtSjF0bUstODY0MElWYWZ0RGdhSDRuQ05yZGxRRDVlTWtR0gHLAkFVX3lxTE54QXNKcll2MHI3RWs2ZlZ2bXhEVTZZVy11clFNSE41bDAzVDJUMDFvMl81MHlWUHBFYlV4QVFQS2xEb3pnWFpqS2EzcTVEZlR4ejJNVGtHSDg4QkgyTjR4dE50dktfa1pGLUNsVUJPbGR0ZVRYcjZra24yYTlFNUFrcm5PeUtWS05FcDZNVkZfVlNZNV9EeGZ6dWxMWU9EZ0kxRl9tbFRmOG9ONlBRQzBCMGFLWUFIanJBMlo2OFhLVnNUMnNwM0QtQU10OTJ0b3ZTQy1IOXUzTW9GYlNxQzM5Zkc2QkdVWVBsSTNnV2xRZDFUZTIwckwzcm9JNjZYTnJ6RHJ0Z01qWnY4Z0pIeWV2dXp0V2VyZi1FY2RNTF9ST21kV2FHNGE1VXNlVmxzNWRycFFpaTViYVhoNWtVVzRqd2N0S21DNnJkWDg?oc=5>
+- 场馆: 观察者
+- 时间: 2026-07-18 12:58
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFAwZTFBdzAzNmtPSWVQZndTdUlDcXkyYmVvTjVwa1RZdVc4MTZQeHFZMHNnU0luc3hLRlN2SGFHeXFRVVE2YUxvRXNnbmtfSUx0SU5md0hEbFY5YTBScDZFaTBJN05PNUR3SkE?oc=5>
 
-### 一刀会-Bit米一刀 (@Gann-Mickey)的见解
+### 特朗普媒体推出付费Truth API 出售热门账户发帖快速访问权
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Binance
-- 时间: 2026-07-18 11:28
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE50bWVPbl9OcnN6d1lBNmd3Snc0R01JSmQ5UUdsekMtUjlBcC1ZYTBlc3VZQVc2U3loRENFUl9DZGRKWENOVG54REE1cHl0eG5rRjh6V1EzTDZFZXItcDhtR2hNbVFuWjNQ?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-07-18 13:26
+- 链接: <https://news.google.com/rss/articles/CBMivgJBVV95cUxNcThvN0xFeUJOV0RudkQ5ZGh4b1R0VTFKdEJ5RkZCb2lIZnZVSFV1ZllVT2lSR1JrSHN5VTlWRTY5aFVCaWN4ZTJLRzJ4WElEWHFrUUV5VWVGdFpFNWVqNlhSSmIxdUR0ZXl4U0NldWllRS0zSzNBRkw1N3VvRGs0Yk00d0JGUmIyZFlDNkc3UDh4T1g2a1lFWVFkcDlGS0ZKQWFhR1cxdVlqZFhOS3hSMFFCc2lXdVYtUUcwLUR6dm96dEFfMXhhS21GcEFPd0FHRW9yV2lYV1Y0d1JHdjVUVE9IVEVHYW5PMkktQXBxbVB0UVZCb1Aya3ViaFRCM1ZfaEtfQjBrN05BRjZrVHoyeC1QY1NLTlYwZVc5VzZWcUxJeDdKaHV6Zl9aUU5vNGV0QUF0NWpoNENCdXhxYnc?oc=5>
+
+### 加拿大野火殃及美国空气 特朗普称将以关税追偿损失
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-17 19:27
+- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxPdTNxd3ViWnA5S1JTaHFkM2tLNjdTXzZuNDBTbXhrNjVqaTZBaXE1UndRT2Y0SmNHbUIyYnliX3p0eUNYWTcxZWF3VTBaU0ZvdnNYWjdPU0h4Vm9UME5FUkdON1RsSnZYWlNPQzAtZy1qMFVkenZ3alY5cUlrVzhaSVlMMHctRjBTMWVMSWFNeVZiUHBDTjhqZVNzYTZLZTF5NThjWk5Yb3ItbUpUXzd4Rmp4LVpfb2cyMkt6RUN4d3NSeENVSENrYWdsVTYwcFk?oc=5>
+
+### 西班牙首相站上“反特朗普”第一线
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-07-18 11:15
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9IRzJINjhGZkhFZzdUTGQ0U0hNYlVVZDJnNmNmUW8yX3ZjNlFsSDJSb2FCaU8zYkpXZkl6VXhra1VjRFk1SmhwdU9JVTg?oc=5>
+
+### FIFA主席回应“特朗普希望再次选择美国办世界杯”：可以中美合办世界杯
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-18 03:07
+- 链接: <https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOGpvT2tQQU1ZZ2lnTE5FcFJnS3QzYWwtTk03OE9hRzBaN2ZMeUFkUkVlMlIza0Z3RDNTWGRMTWhsekRPb1BjX3EySDMyeEZoQlg5V2JjRkdQM1ZaVy1tRlh3NWk4ZF8tYnN1U1Z1VjZ4VmRlVWpTODE3ckh3aUlaSHVkTzBkNXVjQXZyX1F1UUF4YlJ1U1ZCaUJPS0k5M1RobExmc1gyMWdyRGVOcHRmemRBYmh3Zm9ObnhOWE1LcWNFX01rZTZPeUU4V0Z3dGxidXN6UA?oc=5>
+
+### 特朗普最新支持率公布
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新京报
+- 时间: 2026-07-18 11:03
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE42dGRNU1JpYVFmd2o0R1NPYUF2VHZsT3F0UmtYV2FBZ3RJSTlTcHhtQkQ2Zkk1cDAzdWVtS1ZaanlfRkM0OUttZWJUWUpXcVMxSlZMUkcwQm1jRUtyeXRxV1JiRXM?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-18 14:33  (7 条)
+
+- **周杰伦** | 07年周董《不能说的秘密》歌友会全程笑点 <https://k.sina.com.cn/article_7879923551_m1d5ae175f03301n310.html>
+- **特朗普** | 搅乱威尼斯，特朗普“最富特使”耸肩：让意大利人看看，这叫顶级富豪 <https://news.google.com/rss/articles/CBMiakFVX3lxTFAwZTFBdzAzNmtPSWVQZndTdUlDcXkyYmVvTjVwa1RZdVc4MTZQeHFZMHNnU0luc3hLRlN2SGFHeXFRVVE2YUxvRXNnbmtfSUx0SU5md0hEbFY5YTBScDZFaTBJN05PNUR3SkE?oc=5>
+- **特朗普** | 特朗普媒体推出付费Truth API 出售热门账户发帖快速访问权 <https://news.google.com/rss/articles/CBMivgJBVV95cUxNcThvN0xFeUJOV0RudkQ5ZGh4b1R0VTFKdEJ5RkZCb2lIZnZVSFV1ZllVT2lSR1JrSHN5VTlWRTY5aFVCaWN4ZTJLRzJ4WElEWHFrUUV5VWVGdFpFNWVqNlhSSmIxdUR0ZXl4U0NldWllRS0zSzNBRkw1N3VvRGs0Yk00d0JGUmIyZFlDNkc3UDh4T1g2a1lFWVFkcDlGS0ZKQWFhR1cxdVlqZFhOS3hSMFFCc2lXdVYtUUcwLUR6dm96dEFfMXhhS21GcEFPd0FHRW9yV2lYV1Y0d1JHdjVUVE9IVEVHYW5PMkktQXBxbVB0UVZCb1Aya3ViaFRCM1ZfaEtfQjBrN05BRjZrVHoyeC1QY1NLTlYwZVc5VzZWcUxJeDdKaHV6Zl9aUU5vNGV0QUF0NWpoNENCdXhxYnc?oc=5>
+- **特朗普** | 加拿大野火殃及美国空气 特朗普称将以关税追偿损失 <https://news.google.com/rss/articles/CBMizwFBVV95cUxPdTNxd3ViWnA5S1JTaHFkM2tLNjdTXzZuNDBTbXhrNjVqaTZBaXE1UndRT2Y0SmNHbUIyYnliX3p0eUNYWTcxZWF3VTBaU0ZvdnNYWjdPU0h4Vm9UME5FUkdON1RsSnZYWlNPQzAtZy1qMFVkenZ3alY5cUlrVzhaSVlMMHctRjBTMWVMSWFNeVZiUHBDTjhqZVNzYTZLZTF5NThjWk5Yb3ItbUpUXzd4Rmp4LVpfb2cyMkt6RUN4d3NSeENVSENrYWdsVTYwcFk?oc=5>
+- **特朗普** | 西班牙首相站上“反特朗普”第一线 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9IRzJINjhGZkhFZzdUTGQ0U0hNYlVVZDJnNmNmUW8yX3ZjNlFsSDJSb2FCaU8zYkpXZkl6VXhra1VjRFk1SmhwdU9JVTg?oc=5>
+- **特朗普** | FIFA主席回应“特朗普希望再次选择美国办世界杯”：可以中美合办世界杯 <https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOGpvT2tQQU1ZZ2lnTE5FcFJnS3QzYWwtTk03OE9hRzBaN2ZMeUFkUkVlMlIza0Z3RDNTWGRMTWhsekRPb1BjX3EySDMyeEZoQlg5V2JjRkdQM1ZaVy1tRlh3NWk4ZF8tYnN1U1Z1VjZ4VmRlVWpTODE3ckh3aUlaSHVkTzBkNXVjQXZyX1F1UUF4YlJ1U1ZCaUJPS0k5M1RobExmc1gyMWdyRGVOcHRmemRBYmh3Zm9ObnhOWE1LcWNFX01rZTZPeUU4V0Z3dGxidXN6UA?oc=5>
+- **特朗普** | 特朗普最新支持率公布 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE42dGRNU1JpYVFmd2o0R1NPYUF2VHZsT3F0UmtYV2FBZ3RJSTlTcHhtQkQ2Zkk1cDAzdWVtS1ZaanlfRkM0OUttZWJUWUpXcVMxSlZMUkcwQm1jRUtyeXRxV1JiRXM?oc=5>
 
 ### 2026-07-18 13:00  (2 条)
 
