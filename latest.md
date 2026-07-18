@@ -1,32 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-18 20:01**
-- 本轮扫到 7249 条, 新增 **2** 条
+- 最近更新: **2026-07-18 21:11**
+- 本轮扫到 7252 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (3 条)
 
-### 特朗普最新支持率公布
+### 黎总统出访美国 与特朗普会面
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-07-18 14:15
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBLTno0MU9CRnZqbHBHbzJwMWxiZXpST3RmUG8xTEpEVFFHVDEwc1UzX0ptcnVVTXpObnNQVzJKcnVTalc2UklLc1VhaHdyaGFERzVxTi1aX3EwNkdndW1CNlI0eG1FeUI5ZEFHUVJPWUh0R3V0OWJqZ1V4VmFvZ00?oc=5>
+- 场馆: RFI
+- 时间: 2026-07-18 20:17
+- 链接: <https://news.google.com/rss/articles/CBMi_AFBVV95cUxNNzRQTUJmX2R6cThwYzNxSzVXdDB3VmFJWGNqTnBzSTRtN0VET3RfNlVJRHN1eDVEQmY0YmE0RHE2UUdIWm84eFV5eUlJZGpiT243SzRwQktzMklYOFlMTXhrS3pDTGRkTDYwR01GWFd6N1gyNWdMaS1tRVEyekxIQmZYX0VVb2RFWWplUjU2Nk9HWXhjOS1WQkRtbnItU2M5dk1pS3N2Z3ozTGJGZ0FKWFlHTExSUV9abnlwMHJjYWtHZlk5UWx3eF90REhHb2pMOGJjR1RKNUd4bVNlQ0RMdHFDMDR2cnJIa1pNc0prNDQ3WVBKZGhVZW5od1Q?oc=5>
 
-### ‘What Do You Mean?’—Thomas Tuchel Bites Back at President Trump Criticism
+### 穆杰塔巴：特朗普的签名毫无价值、无效
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: FotMob
-- 时间: 2026-07-18 18:15
-- 链接: <https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMDViSnN0RHhvMG91ekEycXE3aVFIeURfV19sMnl6WjhsQnNjNDB0b2lCejZNTnVyQkRvZTR6LXltZDliOV9IV0ZQSnVOc0JKWEpWdWhWVWVyYmZDQ3RfUENxQVVqRlQzZjNCYUt4MHowS0FTMFczVTh3bUM1UFFSRDNaYUJDMDhhUUVwVWRBd2dBSFYwWTFubHZQMTVGMmxfclhJM0gwTnYxR3FCbEplb0VDU3lCS09XTnEwblBTWXdCUQ?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-07-18 16:53
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBQa2FXdlhyM3ViRHoyS095OF92VTY4X1AtdjVmR1RsZ2NNSDdndVllYmxLRDZWMnZ0d2dheWt5SVJaVjhBOHE4dzltN2w?oc=5>
+
+### 白宫提词器操作员靠特朗普讲话下注获利近10万美元，被停职调查，特朗普怒斥“可耻”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-18 12:33
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE1iN1V5QU8xTDBERnFvLXFjYWRsYTRPZ2xjSVJxUno4T0ZyeUVuakpVa0VVU2hWcXV3cVFnR2xRMG14czFIX1IxYXhUTTZ5VmVpVkptRjMySTNGLWEwU2hDbGdrVmxxVV81aDBXSGNuVHdOOGxYaHc?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-18 21:11  (3 条)
+
+- **特朗普** | 黎总统出访美国 与特朗普会面 <https://news.google.com/rss/articles/CBMi_AFBVV95cUxNNzRQTUJmX2R6cThwYzNxSzVXdDB3VmFJWGNqTnBzSTRtN0VET3RfNlVJRHN1eDVEQmY0YmE0RHE2UUdIWm84eFV5eUlJZGpiT243SzRwQktzMklYOFlMTXhrS3pDTGRkTDYwR01GWFd6N1gyNWdMaS1tRVEyekxIQmZYX0VVb2RFWWplUjU2Nk9HWXhjOS1WQkRtbnItU2M5dk1pS3N2Z3ozTGJGZ0FKWFlHTExSUV9abnlwMHJjYWtHZlk5UWx3eF90REhHb2pMOGJjR1RKNUd4bVNlQ0RMdHFDMDR2cnJIa1pNc0prNDQ3WVBKZGhVZW5od1Q?oc=5>
+- **特朗普** | 穆杰塔巴：特朗普的签名毫无价值、无效 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBQa2FXdlhyM3ViRHoyS095OF92VTY4X1AtdjVmR1RsZ2NNSDdndVllYmxLRDZWMnZ0d2dheWt5SVJaVjhBOHE4dzltN2w?oc=5>
+- **特朗普** | 白宫提词器操作员靠特朗普讲话下注获利近10万美元，被停职调查，特朗普怒斥“可耻” <https://news.google.com/rss/articles/CBMidkFVX3lxTE1iN1V5QU8xTDBERnFvLXFjYWRsYTRPZ2xjSVJxUno4T0ZyeUVuakpVa0VVU2hWcXV3cVFnR2xRMG14czFIX1IxYXhUTTZ5VmVpVkptRjMySTNGLWEwU2hDbGdrVmxxVV81aDBXSGNuVHdOOGxYaHc?oc=5>
 
 ### 2026-07-18 20:01  (2 条)
 
