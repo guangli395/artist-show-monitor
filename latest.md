@@ -1,56 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-19 18:57**
-- 本轮扫到 7295 条, 新增 **5** 条
+- 最近更新: **2026-07-19 20:05**
+- 本轮扫到 7299 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (4 条)
 
-### 美国援外大转向：特朗普要向欧洲输出“MAGA”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-07-19 12:06
-- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE1JNlNlWG1QM3JHdVl6RkhPMWNZbkFscUJzZm1wY051SFFGTG5mZ0NkX2lydmV2dEp1M0tVVDN2YnBrbHlYbEdaTFBueEFZS0ZfWl9fWlFoUVdFa1RMcU1BQTJJY0V5b3NfZGJia3cwOWJfaDdMbWI3OFNB?oc=5>
-
-### 特朗普有意扩大对伊战争，美媒披露行动方案细节
+### 特朗普现身世界杯决赛看台
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-07-17 02:29
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE80YjRDT1hUdmUwSUZ0eDg4VnRPcGxHMzZ2eV9wRzI4LWI0SHJsaXdGaVExMy14cHpzd21OLUc3QkV1NG54eENNS09Uaw?oc=5>
+- 时间: 2026-07-19 19:19
+- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE9uaEFMNGJSOHBLMFpUSlBReTdIbmtTVzlDbVdGWTNRVzIySl9va3pmckg0WG1Lby01cEh0b0taZ3BiSG1qTmYtU0tha1hldXc?oc=5>
 
-### 决赛前夕特朗普再语出惊人 揶揄英格兰盼美独办世界杯
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-07-18 05:04
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9RLWtXS2RNUkhDOXNwUE9Xa0dURkdPcGpRT3BQSVlaOEt3VTVDODJBY0ttaG11NWFDRUd3VUZiSF9PNGFtOVlJX1Z4NXg3ZjBESmhoR2poTzM0UzlsMXMtQmNoX1RoQ1k?oc=5>
-
-### 特朗普将出席世界杯决赛，F-16战机、军方狙击手和数千名FBI将参与安保
+### 暗杀威胁拦不住特朗普：世界杯决赛还没开打，他就已经“抢戏”了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-07-19 09:20
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTFBrQUQwQm95cTc2aGlIdkp5UFdQM0JlUkJMbU9zT3hQSzNva0dBQS1FaEQwNzNUTHMwdmIwaV83QkN5S3BYanlrRUVRTTVfZjFsYk4wN0NRVkJXLWpKamc?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-07-18 15:37
+- 链接: <https://news.google.com/rss/articles/CBMi1AFBVV95cUxPa3JnOGdYbzNTblFJTHRmMlhDUXhXek9udkZEaklQR0IwRmtHWS10aDJJYlI1WndsU1pieEw0ak9nOFFfRDZNcHFNQXBoUnA0dml3NDhCNElOX3dZbm5GMFFOcjNYbHJUc3lLS3I5SE5SYkVOb0EtNUFQTGtmdVMzQTJOU1VmSG5pVE5SV2VMeWkwTVY4Z2gyMU5qcXc0ZDBmbmxJeXEtdzdPRWhNWlNZSHYyS0ZYUmtDam1tTjBEcnNsMTN2MEtfMVg2TlNZd1NLV0Q5Ug?oc=5>
 
-### 川普贴文要卖钱！抢先看月费10万 民主党怒轰
+### 外媒：特朗普公开扬言要扩大袭击目标范围，这表明他越来越沮丧，特朗普难在伊朗迅速找到出路，伊朗可能会以牙还牙
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 文学城
-- 时间: 2026-07-19 14:51
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MYi1qb3NMeWprUDZHZ3hieUt5b1BNc25XTmFaanpfSlU1TUJGRkI5ejhaSVIzVElUSUpJUVhjcHUxU3AzMmMwUkJfcU5ERkwzYkx1YzJUTDNHV3BkNkVONzRfckpYT2Vq?oc=5>
+- 场馆: 搜狐网
+- 时间: 2026-07-19 13:19
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxPbHg1ZWJrcDdiSGFtNnRWdjh6MGVDX0VYN1NOUVA4YWRwd1paZFpON2JMVjlVNGFrc0M5bEpaNkh3b2gtTmdsdldWNUFEQVRQb3BPbUVnTFNmVE5MUEdWR3BTcGMwb3hVVjU4bXY3aWlycXl1NmUxUzhlakZ3RVdNc2VUamxCN1FJR1VPNA?oc=5>
+
+### 公开出售内幕消息？特朗普旗下Truth Social向华尔街推出付费API，“毫秒级”投递特朗普推文
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街见闻
+- 时间: 2026-07-17 22:48
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Td2hwQkJtWXBHcWZGRnZSQTl1SjFTVXZ2empPeHFYbzVHaEpDVnUwX1NLWHFPMk1fWjAzaHhudTZFQklRcVhyUHd2ME9zYkh3RjVj?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-19 20:05  (4 条)
+
+- **特朗普** | 特朗普现身世界杯决赛看台 <https://news.google.com/rss/articles/CBMiT0FVX3lxTE9uaEFMNGJSOHBLMFpUSlBReTdIbmtTVzlDbVdGWTNRVzIySl9va3pmckg0WG1Lby01cEh0b0taZ3BiSG1qTmYtU0tha1hldXc?oc=5>
+- **特朗普** | 暗杀威胁拦不住特朗普：世界杯决赛还没开打，他就已经“抢戏”了 <https://news.google.com/rss/articles/CBMi1AFBVV95cUxPa3JnOGdYbzNTblFJTHRmMlhDUXhXek9udkZEaklQR0IwRmtHWS10aDJJYlI1WndsU1pieEw0ak9nOFFfRDZNcHFNQXBoUnA0dml3NDhCNElOX3dZbm5GMFFOcjNYbHJUc3lLS3I5SE5SYkVOb0EtNUFQTGtmdVMzQTJOU1VmSG5pVE5SV2VMeWkwTVY4Z2gyMU5qcXc0ZDBmbmxJeXEtdzdPRWhNWlNZSHYyS0ZYUmtDam1tTjBEcnNsMTN2MEtfMVg2TlNZd1NLV0Q5Ug?oc=5>
+- **特朗普** | 外媒：特朗普公开扬言要扩大袭击目标范围，这表明他越来越沮丧，特朗普难在伊朗迅速找到出路，伊朗可能会以牙还牙 <https://news.google.com/rss/articles/CBMijAFBVV95cUxPbHg1ZWJrcDdiSGFtNnRWdjh6MGVDX0VYN1NOUVA4YWRwd1paZFpON2JMVjlVNGFrc0M5bEpaNkh3b2gtTmdsdldWNUFEQVRQb3BPbUVnTFNmVE5MUEdWR3BTcGMwb3hVVjU4bXY3aWlycXl1NmUxUzhlakZ3RVdNc2VUamxCN1FJR1VPNA?oc=5>
+- **特朗普** | 公开出售内幕消息？特朗普旗下Truth Social向华尔街推出付费API，“毫秒级”投递特朗普推文 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Td2hwQkJtWXBHcWZGRnZSQTl1SjFTVXZ2empPeHFYbzVHaEpDVnUwX1NLWHFPMk1fWjAzaHhudTZFQklRcVhyUHd2ME9zYkh3RjVj?oc=5>
 
 ### 2026-07-19 18:57  (5 条)
 
