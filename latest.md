@@ -1,40 +1,44 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-18 23:23**
-- 本轮扫到 7255 条, 新增 **3** 条
+- 最近更新: **2026-07-19 00:58**
+- 本轮扫到 7258 条, 新增 **3** 条
 
 ---
 
 ## 本轮新发现 (3 条)
 
-### 特朗普帖文“优先访问权”拟售每月10万美元
+### 周星驰女足轰下5个亿票房，周杰伦献唱主题曲，张柏芝做法太豪横
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019089okk.html>
+
+### 特朗普最新支持率公布
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 上海热线
-- 时间: 2026-07-18 23:03
-- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE0yWnB3RUdVSjY3Ulp1ZUxEbVdKeFN1UnFLdk05cVhBMm1IRmx4bThpU0QtRlB5VUZrTGtDeU5sMGhxbG9RanlBSG85V0xDRDVxZmUza1E3cUoxNnVDSUlBLUR3ZDBVSkVNeTJiU3htaHBvU2NuRmtjbjVTWTkyZw?oc=5>
+- 场馆: 新浪军事_手机新浪网
+- 时间: 2026-07-18 06:35
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE12bXY1TXlORWVJTWF2N0J3eTluTkRXaFdsX3ZzNjU2RWJybkVOb2VQOHJab2V0VTMzMlpIb1RodUJ1ckNXaFByX3JocXdhYVQ0ZzBvM2lVeUd1OG01QXNLbE1ySzNMMlg3YmNqVlFRWUxiTVU?oc=5>
 
-### 西前锋：和特朗普握手 出于无奈
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-07-18 20:23
-- 链接: <https://news.google.com/rss/articles/CBMi_gFBVV95cUxQQU9SRnBBeWdwMlRBenAzbVVKODFkTTM0cUhGZXVJbVR3YUg1MUNhaGU1WmF4WkZPN09KR3hUY0NYRzBMSm9zc1lTcEdJN0NqOEV4aThTaFFsZUFldlFSVHlvSG42Z3JEbDRvVFowa1c5ckFaYnAzampnZkl2UFVhNndsa2wzY3F4MnRBdVdOU05OdUttSXlGMlJyNG1YSXdSZWhtaU0zdnRzWjBGc25fazhubzhiQUVBdFNzUEtacVlXYjJKXzdjZTZLZFA4bjEyc1VRMVV5bi1scmNqeWpkTjBjVVFlcDhMQUpzQnhoQzN0djJIU2pscmhUa1d5QQ?oc=5>
-
-### 特朗普指责中方曾试图影响美选举结果后 白宫确认9月的特习会仍将按计划进行
+### 搅乱威尼斯，特朗普“最富特使”耸肩：让意大利人看看什么叫顶级富豪
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-07-18 10:02
-- 链接: <https://news.google.com/rss/articles/CBMi-gNBVV95cUxNNGJnNm9WSV80TFRYZE5XWVJHU2RpQ3lxR0IxV3d2VHNpM0stRmJOcnFqTDBUbmZ6LVk0OWhqZTVfZUswQ2JHblhTYTFCQ2FIdUxXSEZoRk9mSGpuWmZqdFZ2UnhuRUQ0NEpfdHJidVVvYXZkZjdHUG9RU0hFd29TdFllNlRZVHh1MmduSU9OeHVsNHlaX2pUcEgxQTE4ak9vVmpXU29CWW1uWDJjdjItejJhUEdBVnJpdXBVanI4QUNOTkUxcHpLSUlwT1VDcmJ3X2Z4WXNkck50QWkyLU04WmJNWHFGQk1sVmV1cGFPYlJzZFJUYXE1STAyVjRzNDMtdWZ0eU5ObXZRMGJtbDZuLW5BYkF2RmhZc0VYMjBNOXlWZFczSmFSTl8zODRHeXJrOW1mUVZaYmN4b2tjYkU5T0pKWmNGMm5pakIxMktFLW5iNDN4ZFhsbTY4ZHlWMnJ4dVJza21GdEo3aHdkSzVSU0dubWhxTkZIX2RqZ20zd2NfZ080SzI1UE84QnphZ1RtRUtIZUNDSlpvczd5dVpYNC1ISGFQVU5XcFpKSFlWWUNHODhFQ0VYZXQ5RWlqdG1yZ2lRT29aZHVCS3Q1QURna1dIMnNfWXA1bGtfVVV0cTM0WGRqZURTaEhCaWdrUTM2TUtKMl83WlNDZw?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-07-18 12:59
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE53VGx1ZXBpVTN2STdmQ1dCWWRqMWdWYWFDRnNkRl9ac2xEWHFKTnljZnZxNU4tYzVQT0FZd2dRS0NtNWlWc1VuQUhkbDBTTHJhVzZLR1p2dXdsOFJJM3NwM1pkb3JfTU9XM0gxZF9uWk9lX0pCNkg5Tw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-19 00:58  (3 条)
+
+- **周杰伦** | 周星驰女足轰下5个亿票房，周杰伦献唱主题曲，张柏芝做法太豪横 <https://k.sina.com.cn/article_7857201856_1d45362c0019089okk.html>
+- **特朗普** | 特朗普最新支持率公布 <https://news.google.com/rss/articles/CBMic0FVX3lxTE12bXY1TXlORWVJTWF2N0J3eTluTkRXaFdsX3ZzNjU2RWJybkVOb2VQOHJab2V0VTMzMlpIb1RodUJ1ckNXaFByX3JocXdhYVQ0ZzBvM2lVeUd1OG01QXNLbE1ySzNMMlg3YmNqVlFRWUxiTVU?oc=5>
+- **特朗普** | 搅乱威尼斯，特朗普“最富特使”耸肩：让意大利人看看什么叫顶级富豪 <https://news.google.com/rss/articles/CBMieEFVX3lxTE53VGx1ZXBpVTN2STdmQ1dCWWRqMWdWYWFDRnNkRl9ac2xEWHFKTnljZnZxNU4tYzVQT0FZd2dRS0NtNWlWc1VuQUhkbDBTTHJhVzZLR1p2dXdsOFJJM3NwM1pkb3JfTU9XM0gxZF9uWk9lX0pCNkg5Tw?oc=5>
 
 ### 2026-07-18 23:23  (3 条)
 
