@@ -1,56 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-19 21:13**
-- 本轮扫到 7304 条, 新增 **5** 条
+- 最近更新: **2026-07-19 22:22**
+- 本轮扫到 7307 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (3 条)
 
-### 特朗普现身世界杯决赛看台 总统观战引发媒体挑战
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-07-19 19:23
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBocTV0eGNGSXhlaUY2LWdoR3czeEswUE91Vm1WckhBVERnc0tqLXV2LVRFbEhHVS11WVNWaE94M3FvUlNDa0xSMkh2TE1ZTENxaGM5T3BVY0lvMHpBVFdnUVlrOHVJTzc5RXk3MVVjQXY?oc=5>
-
-### 特朗普称FIFA主席曾建议美中合办世界杯
+### 暗杀威胁拦不住特朗普：世界杯决赛还没开打，他就已经“抢戏”了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-07-19 04:27
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9DMlpZTGVZTjdHWXZkLXRyME92ZmhIX2NRRF9FTmppR2RfRXppTzUyWXlNM0pYSWNKcFo5Q2Z1alZMeENtRHUxemRyQVN2RkwycGlPRW9aYmt0QzFHVWJ2cUNJU1VFUQ?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-07-18 15:37
+- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMjNHZ3UwN2RHTWt3RWZpQmZpeUpxRnZQN3lzRjl6cnd0Z2Q1RlZlV05XSVBMYWREamFHQ2NHbFppTUx4cGdVOWRSbzFSR1BYaDlFMHVNSEtFSXBVMV9zdEVjZ2NEN3pWcnNwTVdkRVo0MU1qZzduQURtSTloTzlyaTJhLUVxTnVkdm1hNXNkUXExcGs1Y3prYkRjYVM1WXdWVnFzVGtvY2dRMTljSExRQWx4WTAwMUpFMWdRRExRQjRNRG5ZRXE2VVlaS3JnZHRrNUE?oc=5>
 
-### 川普与多国元首到场观决赛 看台上都有谁？
+### 特朗普提词器操作员借职务之便提前掌握演讲稿，对十余场重要演讲下注，非法获利逾10万美元
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-07-17 03:21
+- 链接: <https://news.google.com/rss/articles/CBMizgFBVV95cUxNaGNMeDVvRGdxNXBwOERqNmFoM2MyYVBSU0M3bUVyUUFPMHdITWZtMFB5cUExSjN3dmU1QzFKNFl0SnFkckFNUDR1clNBREpRdU5LR21qeHNpM1J0SnZsUWkyMlpCREF5ODBEX19laDVnYkN3ZmdCak9zb2M1aV9KT1lvT3dsaTBNUFl5VUhIYW5nMlFIT01YUENpbE1yYXB2YjZLWndYOE5RZ1pVSVRIZnFPQ1gzUGFtMENPa0xicS1UT3BPZHZLRExjcEdzdw?oc=5>
+
+### 特朗普称中国非法收集2.2亿份美国选民文件
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 文学城
-- 时间: 2026-07-19 20:50
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9rVElwWWloWGU2a1BULWxTWmVESFJRaUZ1dWdYckN5OWJBc2RDRXByXzRaLWltRzBoVy1QUlBRR3hKLUtEcXJkR0NRWGs3ZEU5bDJMUmNjQjFKbWg4Q0ZvRzZiSmMzeTZk?oc=5>
-
-### 美加墨三国首脑观看世界杯决赛
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-07-19 20:23
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE9Mcm9mR0tXaVZyRXo2RFBoNFRXdlFwYTZGWnFHeTBZWFhfcktIaXdzMUJCUlM4R2prYzFGdlA0dDhZbUduMG1JQmFVb2dHd1lkUTQwVDBESC1ERWxJMTk5ZEVKZnNLWlFaMDlhRzJQeUNPLURUZlHSAXhBVV95cUxPb2VPY3lPTzB1YVB5QkFXaGUtVk1oNnRzMW1DQnU2aWV3LUFOYnhvVHlSUGk5RW5YQUZDQm44OUJyMDJGRHJVd3JkTUFwbjRxZWlSMlRKOGwxRDU5c0tuWHNBTFF1VnFNeEZDNnFFMEZ1VmRBM0k4UHk?oc=5>
-
-### 痛批川普沦为“美国叛徒” 卡尔森:如果万斯当总统…
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 文学城
-- 时间: 2026-07-19 20:47
-- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxNc1F2M2g5ejFmb1VGMVhJdUhHcDRCMmNzUlc1d2h4RUdsby1EdVl5VG9fZmY2X2J0TU1pNGFQbF95Snl1YzRvX0xDMl9VWGpVX0RDX3JILTRXS1RyVUR1VjJ3QTBYbDdrSldwcnYteWZPQ1I1QTFMRHVoRXBtcWtXTQ?oc=5>
+- 场馆: 纽约时报中文网
+- 时间: 2026-07-16 17:17
+- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxNS1JOYVBoM0xpVmplbkRtcUZhNV9uRjNoNjRVeTJmOV95WjhYLW1kbVFXaDdJMkpCRm9ydFpvZUpqVWFGYzdEQktodEdwcHBUdHhSamZaQ0l2ZW14WUJqZWNpUHB3anlQeG8xM2RqeHUxRGphRGpxcFdzcnM5NUE5amRyYw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-19 22:22  (3 条)
+
+- **特朗普** | 暗杀威胁拦不住特朗普：世界杯决赛还没开打，他就已经“抢戏”了 <https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMjNHZ3UwN2RHTWt3RWZpQmZpeUpxRnZQN3lzRjl6cnd0Z2Q1RlZlV05XSVBMYWREamFHQ2NHbFppTUx4cGdVOWRSbzFSR1BYaDlFMHVNSEtFSXBVMV9zdEVjZ2NEN3pWcnNwTVdkRVo0MU1qZzduQURtSTloTzlyaTJhLUVxTnVkdm1hNXNkUXExcGs1Y3prYkRjYVM1WXdWVnFzVGtvY2dRMTljSExRQWx4WTAwMUpFMWdRRExRQjRNRG5ZRXE2VVlaS3JnZHRrNUE?oc=5>
+- **特朗普** | 特朗普提词器操作员借职务之便提前掌握演讲稿，对十余场重要演讲下注，非法获利逾10万美元 <https://news.google.com/rss/articles/CBMizgFBVV95cUxNaGNMeDVvRGdxNXBwOERqNmFoM2MyYVBSU0M3bUVyUUFPMHdITWZtMFB5cUExSjN3dmU1QzFKNFl0SnFkckFNUDR1clNBREpRdU5LR21qeHNpM1J0SnZsUWkyMlpCREF5ODBEX19laDVnYkN3ZmdCak9zb2M1aV9KT1lvT3dsaTBNUFl5VUhIYW5nMlFIT01YUENpbE1yYXB2YjZLWndYOE5RZ1pVSVRIZnFPQ1gzUGFtMENPa0xicS1UT3BPZHZLRExjcEdzdw?oc=5>
+- **Trump** | 特朗普称中国非法收集2.2亿份美国选民文件 <https://news.google.com/rss/articles/CBMigwFBVV95cUxNS1JOYVBoM0xpVmplbkRtcUZhNV9uRjNoNjRVeTJmOV95WjhYLW1kbVFXaDdJMkpCRm9ydFpvZUpqVWFGYzdEQktodEdwcHBUdHhSamZaQ0l2ZW14WUJqZWNpUHB3anlQeG8xM2RqeHUxRGphRGpxcFdzcnM5NUE5amRyYw?oc=5>
 
 ### 2026-07-19 21:13  (5 条)
 
