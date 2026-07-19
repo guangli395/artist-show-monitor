@@ -1,48 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-19 20:05**
-- 本轮扫到 7299 条, 新增 **4** 条
+- 最近更新: **2026-07-19 21:13**
+- 本轮扫到 7304 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (5 条)
 
-### 特朗普现身世界杯决赛看台
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-19 19:19
-- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE9uaEFMNGJSOHBLMFpUSlBReTdIbmtTVzlDbVdGWTNRVzIySl9va3pmckg0WG1Lby01cEh0b0taZ3BiSG1qTmYtU0tha1hldXc?oc=5>
-
-### 暗杀威胁拦不住特朗普：世界杯决赛还没开打，他就已经“抢戏”了
+### 特朗普现身世界杯决赛看台 总统观战引发媒体挑战
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-07-18 15:37
-- 链接: <https://news.google.com/rss/articles/CBMi1AFBVV95cUxPa3JnOGdYbzNTblFJTHRmMlhDUXhXek9udkZEaklQR0IwRmtHWS10aDJJYlI1WndsU1pieEw0ak9nOFFfRDZNcHFNQXBoUnA0dml3NDhCNElOX3dZbm5GMFFOcjNYbHJUc3lLS3I5SE5SYkVOb0EtNUFQTGtmdVMzQTJOU1VmSG5pVE5SV2VMeWkwTVY4Z2gyMU5qcXc0ZDBmbmxJeXEtdzdPRWhNWlNZSHYyS0ZYUmtDam1tTjBEcnNsMTN2MEtfMVg2TlNZd1NLV0Q5Ug?oc=5>
+- 场馆: 中华网
+- 时间: 2026-07-19 19:23
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBocTV0eGNGSXhlaUY2LWdoR3czeEswUE91Vm1WckhBVERnc0tqLXV2LVRFbEhHVS11WVNWaE94M3FvUlNDa0xSMkh2TE1ZTENxaGM5T3BVY0lvMHpBVFdnUVlrOHVJTzc5RXk3MVVjQXY?oc=5>
 
-### 外媒：特朗普公开扬言要扩大袭击目标范围，这表明他越来越沮丧，特朗普难在伊朗迅速找到出路，伊朗可能会以牙还牙
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-07-19 13:19
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxPbHg1ZWJrcDdiSGFtNnRWdjh6MGVDX0VYN1NOUVA4YWRwd1paZFpON2JMVjlVNGFrc0M5bEpaNkh3b2gtTmdsdldWNUFEQVRQb3BPbUVnTFNmVE5MUEdWR3BTcGMwb3hVVjU4bXY3aWlycXl1NmUxUzhlakZ3RVdNc2VUamxCN1FJR1VPNA?oc=5>
-
-### 公开出售内幕消息？特朗普旗下Truth Social向华尔街推出付费API，“毫秒级”投递特朗普推文
+### 特朗普称FIFA主席曾建议美中合办世界杯
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-07-17 22:48
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Td2hwQkJtWXBHcWZGRnZSQTl1SjFTVXZ2empPeHFYbzVHaEpDVnUwX1NLWHFPMk1fWjAzaHhudTZFQklRcVhyUHd2ME9zYkh3RjVj?oc=5>
+- 场馆: 联合早报
+- 时间: 2026-07-19 04:27
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9DMlpZTGVZTjdHWXZkLXRyME92ZmhIX2NRRF9FTmppR2RfRXppTzUyWXlNM0pYSWNKcFo5Q2Z1alZMeENtRHUxemRyQVN2RkwycGlPRW9aYmt0QzFHVWJ2cUNJU1VFUQ?oc=5>
+
+### 川普与多国元首到场观决赛 看台上都有谁？
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 文学城
+- 时间: 2026-07-19 20:50
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9rVElwWWloWGU2a1BULWxTWmVESFJRaUZ1dWdYckN5OWJBc2RDRXByXzRaLWltRzBoVy1QUlBRR3hKLUtEcXJkR0NRWGs3ZEU5bDJMUmNjQjFKbWg4Q0ZvRzZiSmMzeTZk?oc=5>
+
+### 美加墨三国首脑观看世界杯决赛
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-07-19 20:23
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE9Mcm9mR0tXaVZyRXo2RFBoNFRXdlFwYTZGWnFHeTBZWFhfcktIaXdzMUJCUlM4R2prYzFGdlA0dDhZbUduMG1JQmFVb2dHd1lkUTQwVDBESC1ERWxJMTk5ZEVKZnNLWlFaMDlhRzJQeUNPLURUZlHSAXhBVV95cUxPb2VPY3lPTzB1YVB5QkFXaGUtVk1oNnRzMW1DQnU2aWV3LUFOYnhvVHlSUGk5RW5YQUZDQm44OUJyMDJGRHJVd3JkTUFwbjRxZWlSMlRKOGwxRDU5c0tuWHNBTFF1VnFNeEZDNnFFMEZ1VmRBM0k4UHk?oc=5>
+
+### 痛批川普沦为“美国叛徒” 卡尔森:如果万斯当总统…
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 文学城
+- 时间: 2026-07-19 20:47
+- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxNc1F2M2g5ejFmb1VGMVhJdUhHcDRCMmNzUlc1d2h4RUdsby1EdVl5VG9fZmY2X2J0TU1pNGFQbF95Snl1YzRvX0xDMl9VWGpVX0RDX3JILTRXS1RyVUR1VjJ3QTBYbDdrSldwcnYteWZPQ1I1QTFMRHVoRXBtcWtXTQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-19 21:13  (5 条)
+
+- **特朗普** | 特朗普现身世界杯决赛看台 总统观战引发媒体挑战 <https://news.google.com/rss/articles/CBMicEFVX3lxTFBocTV0eGNGSXhlaUY2LWdoR3czeEswUE91Vm1WckhBVERnc0tqLXV2LVRFbEhHVS11WVNWaE94M3FvUlNDa0xSMkh2TE1ZTENxaGM5T3BVY0lvMHpBVFdnUVlrOHVJTzc5RXk3MVVjQXY?oc=5>
+- **特朗普** | 特朗普称FIFA主席曾建议美中合办世界杯 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9DMlpZTGVZTjdHWXZkLXRyME92ZmhIX2NRRF9FTmppR2RfRXppTzUyWXlNM0pYSWNKcFo5Q2Z1alZMeENtRHUxemRyQVN2RkwycGlPRW9aYmt0QzFHVWJ2cUNJU1VFUQ?oc=5>
+- **Trump** | 川普与多国元首到场观决赛 看台上都有谁？ <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9rVElwWWloWGU2a1BULWxTWmVESFJRaUZ1dWdYckN5OWJBc2RDRXByXzRaLWltRzBoVy1QUlBRR3hKLUtEcXJkR0NRWGs3ZEU5bDJMUmNjQjFKbWg4Q0ZvRzZiSmMzeTZk?oc=5>
+- **Trump** | 美加墨三国首脑观看世界杯决赛 <https://news.google.com/rss/articles/CBMidkFVX3lxTE9Mcm9mR0tXaVZyRXo2RFBoNFRXdlFwYTZGWnFHeTBZWFhfcktIaXdzMUJCUlM4R2prYzFGdlA0dDhZbUduMG1JQmFVb2dHd1lkUTQwVDBESC1ERWxJMTk5ZEVKZnNLWlFaMDlhRzJQeUNPLURUZlHSAXhBVV95cUxPb2VPY3lPTzB1YVB5QkFXaGUtVk1oNnRzMW1DQnU2aWV3LUFOYnhvVHlSUGk5RW5YQUZDQm44OUJyMDJGRHJVd3JkTUFwbjRxZWlSMlRKOGwxRDU5c0tuWHNBTFF1VnFNeEZDNnFFMEZ1VmRBM0k4UHk?oc=5>
+- **Trump** | 痛批川普沦为“美国叛徒” 卡尔森:如果万斯当总统… <https://news.google.com/rss/articles/CBMigAFBVV95cUxNc1F2M2g5ejFmb1VGMVhJdUhHcDRCMmNzUlc1d2h4RUdsby1EdVl5VG9fZmY2X2J0TU1pNGFQbF95Snl1YzRvX0xDMl9VWGpVX0RDX3JILTRXS1RyVUR1VjJ3QTBYbDdrSldwcnYteWZPQ1I1QTFMRHVoRXBtcWtXTQ?oc=5>
 
 ### 2026-07-19 20:05  (4 条)
 
