@@ -1,32 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-19 16:51**
-- 本轮扫到 7287 条, 新增 **2** 条
+- 最近更新: **2026-07-19 17:53**
+- 本轮扫到 7290 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (3 条)
 
-### 60天打趴伊朗？特朗普话音刚落，这国率先站队，胡塞武装直接掀桌
+### 美军连炸四天后，特朗普态度变了，最大输家出现 备忘录彻底失效
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪网
-- 时间: 2026-07-17 07:00
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFA1ZTQxbi1YTV91Yi03T2Z6NExFT180d3NLcW1DUlVtbEpEZ2xuZXR4OFpIdkYwa2R2RFhCMnFyNENlUkIwN0F4Rnk2NlVIUjN4R0RvVnBmNTNVQkp4b3FpbkE4Y1ZXMjM1bklHS3pPTVRyUQ?oc=5>
+- 时间: 2026-07-19 17:18
+- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVGdQNEQzUVM0M0NCbk9IR0VvdzdLV09RenpqVm96WVZZVVgwcXFLQ2F0aTFmdGkwTnhqOFBBWHo3dHUweUFrX2ZBVEd2clRZLUhXSnF6d1NUQWZKTTZBbndweTl5OXBQV0VBdTJYTHQzbVRDTW5Yb19MVDZobzI1T3JjbGdjVGhrQWNZRzVrVy1DZURRTlkwbzVOSlBNeVp5Z3lycDR2RWU2SlZJbjJURzMzMlpBTFdadmVxelgtQVgzSVNOelQ5cWtEYW1KMzlGUTRXOTN1cy1vUHl2Q2c?oc=5>
 
-### Trump once again accuses China of meddling in 2020 US election
+### 特朗普提词器操作员借职务之便提前掌握演讲稿，对十余场重要演讲下注，非法获利逾10万美元
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: TVB
-- 时间: 2026-07-18 13:57
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxNVHE0SGJLVVVXR1UxZEplaXZyeDVPM2dkajVlTHRBdFBtX0xrZnFDdHBQNGlLaUd5VjN2Wmd3Q1BNdHhkdWVpdzE1U2xQZzBYVnRrdk13VlppTmxfZ3ZfcXJrenpLa3U4MlV2NG1pT2R4NkpDeHEybTJvbGZ1NjB6d1VSUHZIbjRrZXpKNg?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-07-17 03:21
+- 链接: <https://news.google.com/rss/articles/CBMizgFBVV95cUxPdHc2b0NJVmtwWFh6cFZ0TmxFUThSbHpOTVUwb20zcjAzQW5hV29SYy15ZGtVU3l6d1J2TWlYdjlOb1BnVThzM2RRQnduZ2JNUkg4djFzRzdaSk93NjY5blA2aFFQMm1aY2JKS3VlRWhieDdBUEJfa2lLWW5zdWg1UE13ZG1KODdxQTRHX3BZVlJ2Y1M5T2VHRXhhMk1ia09oQlNDeDFyWlRFc1FSbm9mMm15akdBTERGNTNfcnNSRUdFZVhzcl9xckk4Y0NFZw?oc=5>
+
+### 外媒：特朗普将出席世界杯决赛，F-16战机、军方狙击手及数千名特工被调集展开安保行动
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-07-19 07:28
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1Ba3VPT01SVE5XSVYtNVN6a2h4X3ptYVR4TDg1VVppSnJITE40M3J2QnFCWlVPWUYyd2NVZVkyRzZxVmE3b1NCTUlybW8?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-19 17:53  (3 条)
+
+- **特朗普** | 美军连炸四天后，特朗普态度变了，最大输家出现 备忘录彻底失效 <https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVGdQNEQzUVM0M0NCbk9IR0VvdzdLV09RenpqVm96WVZZVVgwcXFLQ2F0aTFmdGkwTnhqOFBBWHo3dHUweUFrX2ZBVEd2clRZLUhXSnF6d1NUQWZKTTZBbndweTl5OXBQV0VBdTJYTHQzbVRDTW5Yb19MVDZobzI1T3JjbGdjVGhrQWNZRzVrVy1DZURRTlkwbzVOSlBNeVp5Z3lycDR2RWU2SlZJbjJURzMzMlpBTFdadmVxelgtQVgzSVNOelQ5cWtEYW1KMzlGUTRXOTN1cy1vUHl2Q2c?oc=5>
+- **特朗普** | 特朗普提词器操作员借职务之便提前掌握演讲稿，对十余场重要演讲下注，非法获利逾10万美元 <https://news.google.com/rss/articles/CBMizgFBVV95cUxPdHc2b0NJVmtwWFh6cFZ0TmxFUThSbHpOTVUwb20zcjAzQW5hV29SYy15ZGtVU3l6d1J2TWlYdjlOb1BnVThzM2RRQnduZ2JNUkg4djFzRzdaSk93NjY5blA2aFFQMm1aY2JKS3VlRWhieDdBUEJfa2lLWW5zdWg1UE13ZG1KODdxQTRHX3BZVlJ2Y1M5T2VHRXhhMk1ia09oQlNDeDFyWlRFc1FSbm9mMm15akdBTERGNTNfcnNSRUdFZVhzcl9xckk4Y0NFZw?oc=5>
+- **特朗普** | 外媒：特朗普将出席世界杯决赛，F-16战机、军方狙击手及数千名特工被调集展开安保行动 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1Ba3VPT01SVE5XSVYtNVN6a2h4X3ptYVR4TDg1VVppSnJITE40M3J2QnFCWlVPWUYyd2NVZVkyRzZxVmE3b1NCTUlybW8?oc=5>
 
 ### 2026-07-19 16:51  (2 条)
 
