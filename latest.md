@@ -1,48 +1,71 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-19 04:21**
-- 本轮扫到 7262 条, 新增 **4** 条
+- 最近更新: **2026-07-19 07:03**
+- 本轮扫到 7268 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (6 条)
 
-### 充SVIP，特朗普帖文抢先看
+### 24岁歌手王俊凯缺席周杰伦鸟巢演唱会，为何11年头号迷弟竟错过偶像主场？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801dgnq.html>
+
+### 美国援外大转向：特朗普要向欧洲输出“MAGA”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 观察者
-- 时间: 2026-07-17 01:30
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9Kd2l1bjh2bk85ZkNlRTlzMllkOUo2UTU5UGhiZk9PZ3ZoZm01UVdsaDVDZjg1a1l5TURQQUZqY3FyOW9lOWRSbU9SLTh2enNjbnc1dExGR0JXXzU0VTlWU3VGWkVGMFNtb2c?oc=5>
+- 时间: 2026-07-19 04:55
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE0zQ1BZS242ODBCOXdwTG01YmtuU0tUQ2dlWTBUUUZMLWd6enI1UTViWHdvSFRGSjZtUW9adVZ6dklvZ24zeDVhQlMwemV0bVlEQmJ0bV9kd0lBOFl1UjVHOUlHdl9zckRKV1E?oc=5>
 
-### 特朗普最新发声！美军连续八天夜袭伊朗 美国发布全球安全警示
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-07-18 19:21
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE1telV4WjVuUjd2ckFmZWRTVG8zR0dKNTl5NzZFdzJLb3lzYkZYZThuN2k1SzJvTHByOFdlekNFaFBIWTRGNTVXLQ?oc=5>
-
-### 特朗普回应两名美军被伊朗炸死：难过，不愿看到这种事情发生
+### 特朗普提词器操作员借职务之便提前掌握演讲稿，对十余场重要演讲下注，非法获利逾10万美元
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-19 01:26
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1uc1NLa1NBRGJvMlllQXppWlFJU2d6WE16VVhLd3AwNnpSTnBRdURMSmNKMFRVM1FLU1hiY2hGNXVjLWxfQkc2TnR6dFdsU21hSDQ1dFF4ZDJ6TWV4a2N4ejgxWHRKbVEwOGgxaG5xYzh4QVJudWI1Xw?oc=5>
+- 时间: 2026-07-17 03:21
+- 链接: <https://news.google.com/rss/articles/CBMizAFBVV95cUxPNWFTVGs0NmVQWVl2WXUtSnZCYmxienFqTWg1R29YVHFyMW43eWlDVDlhX3FiMDJyeTdIUDAxdTlkNzBRRE5PcHdVR1l0VktoTWNyblRkQkV5S1pNS3dtZW16dGhjZ0U1RHdiUS01ellVd1VmYzdPb29ISlN2cm01ZnpLekZ6ZnUyMEExbElfX3dhOUZiaXFhOEZ5akU0UE8wRzRaWTJHTnV1WWVFdFRXNEFwVlNDWkMtN2ZhR2hmYnFyM0s5cERSZERHTVc?oc=5>
 
-### [重化工ON]Trump：“与韩国合作建造军舰”……韩国造船业期待升温- 阿视亚经济
+### 美国记者：特朗普的“背叛”将美国推向革命，他不是最有权势的人
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 手机网易网
+- 时间: 2026-07-19 04:54
+- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTFBkZGx5Y3pROW9JRlNweHJhU0FLdDM2VEZwWDJBaHIyUU9CZ2pibUxHS1BVM2g4b3ZYaGVVVXhPTEVpOFkyUmdLejY3ejVwMlNrTGFFa0U0UHFkMVB0OHVBY2R3?oc=5>
+
+### 特朗普再打中国“介选”牌 解密文件引质疑
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: DW.com
+- 时间: 2026-07-17 20:06
+- 链接: <https://news.google.com/rss/articles/CBMilgJBVV95cUxNTkNaNUZSRGFJbkE0RjBXak1IblBrdko4UlJvd082UlJxUzNSSHNFMVF2SnQ5aFlpLW91a1c2ZnNmdkt6cTNPNEpFNFlET3ByZDBNQ2VyOTNKcGdRSmtQZHRvbEx5QkczdjBFY3ZnMS1iN1hzMzdVQnR0Y3NyLWtWdFZBR2tPOG03aTZpSE5TTUZRVG5la3QxYl91Nms3b3dNVlFST2NycWl2MURTeGhTNjRXREtrMmxydkFrc2JYLUhDSFJuMC1ycmRFckc5ZEFEVllhZDBJOXdjZFVVSUt6LVI2a095eWZlcksydV8xOVZGNy1oNUxOUE13OS1NWk90VUNBWHpIQ09sRWwxcFRzdmViaEw0Z9IBlgJBVV95cUxNSFphNXFLc3p6dlB2eks4MTJ6bVdXU09YSURLMDBxTDNRbU0yaFN5SlZrLUllNmQ0NzhOU0pwSk9RZ1hpdEZ5emw2WndwRTJGUEdsdGZXTGFsb3FrVFZmajFQOF9fWnBzNkJCSnhwWXMtVWRJd2ZzMXNDSFJWNFYzWDlqTlZiMjVRVklvbFFOUUFHQ2pXODNRUXgzTDYxRWNfMmdyN3hqNUs4WTN2M2RqTTFNQ1VrZ09mZkprVVlHbERPQUVvLVpxWUtvUGVUb0tnQ3pITEhRc0dkY0QyNVlZb1BsamdTUGZiWHlrMGpaXzUzME9qWFRJYk5aY2wxeVgxVjJrQmxneTBBd0hKMHdic3FvMFFWdw?oc=5>
+
+### 特朗普媒体找到新财路：卖“最快帖文”，每月收费10万美元
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 아시아경제
-- 时间: 2026-07-18 22:30
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1pQm94ZFVBa2Eybl9TNHl1WG4tM05Wc2hTZVIyTVJza3hleDdmRWp2M0FvUGJDUmR1SFpWYjNZQndmMDZFMFE0d3RPWjN6SXd6TmoxYk82bUhVRUNodTVmUklBbUg?oc=5>
+- 场馆: FX168
+- 时间: 2026-07-19 05:29
+- 链接: <https://news.google.com/rss/articles/CBMikAFBVV95cUxOdnF5RjREWHQ0S3c2LWpYZUdBMWtfUnRQTG9DWkFfZlhtY0xRU2ZNb0UtNUcxSFIyMDlqOFVIRjk4b1dDY2M5Z1BGWkZXVWxPSFpabEhaUS0tVDN3V2VpUThnOXpzVG53Z1V0UEFINDVLNVh6ZGdENEdhQVdqcWw1MHBSaTZaMFE5aFYzZGMwSGY?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-19 07:03  (6 条)
+
+- **周杰伦** | 24岁歌手王俊凯缺席周杰伦鸟巢演唱会，为何11年头号迷弟竟错过偶像主场？ <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801dgnq.html>
+- **特朗普** | 美国援外大转向：特朗普要向欧洲输出“MAGA” <https://news.google.com/rss/articles/CBMiakFVX3lxTE0zQ1BZS242ODBCOXdwTG01YmtuU0tUQ2dlWTBUUUZMLWd6enI1UTViWHdvSFRGSjZtUW9adVZ6dklvZ24zeDVhQlMwemV0bVlEQmJ0bV9kd0lBOFl1UjVHOUlHdl9zckRKV1E?oc=5>
+- **特朗普** | 特朗普提词器操作员借职务之便提前掌握演讲稿，对十余场重要演讲下注，非法获利逾10万美元 <https://news.google.com/rss/articles/CBMizAFBVV95cUxPNWFTVGs0NmVQWVl2WXUtSnZCYmxienFqTWg1R29YVHFyMW43eWlDVDlhX3FiMDJyeTdIUDAxdTlkNzBRRE5PcHdVR1l0VktoTWNyblRkQkV5S1pNS3dtZW16dGhjZ0U1RHdiUS01ellVd1VmYzdPb29ISlN2cm01ZnpLekZ6ZnUyMEExbElfX3dhOUZiaXFhOEZ5akU0UE8wRzRaWTJHTnV1WWVFdFRXNEFwVlNDWkMtN2ZhR2hmYnFyM0s5cERSZERHTVc?oc=5>
+- **特朗普** | 美国记者：特朗普的“背叛”将美国推向革命，他不是最有权势的人 <https://news.google.com/rss/articles/CBMiYkFVX3lxTFBkZGx5Y3pROW9JRlNweHJhU0FLdDM2VEZwWDJBaHIyUU9CZ2pibUxHS1BVM2g4b3ZYaGVVVXhPTEVpOFkyUmdLejY3ejVwMlNrTGFFa0U0UHFkMVB0OHVBY2R3?oc=5>
+- **特朗普** | 特朗普再打中国“介选”牌 解密文件引质疑 <https://news.google.com/rss/articles/CBMilgJBVV95cUxNTkNaNUZSRGFJbkE0RjBXak1IblBrdko4UlJvd082UlJxUzNSSHNFMVF2SnQ5aFlpLW91a1c2ZnNmdkt6cTNPNEpFNFlET3ByZDBNQ2VyOTNKcGdRSmtQZHRvbEx5QkczdjBFY3ZnMS1iN1hzMzdVQnR0Y3NyLWtWdFZBR2tPOG03aTZpSE5TTUZRVG5la3QxYl91Nms3b3dNVlFST2NycWl2MURTeGhTNjRXREtrMmxydkFrc2JYLUhDSFJuMC1ycmRFckc5ZEFEVllhZDBJOXdjZFVVSUt6LVI2a095eWZlcksydV8xOVZGNy1oNUxOUE13OS1NWk90VUNBWHpIQ09sRWwxcFRzdmViaEw0Z9IBlgJBVV95cUxNSFphNXFLc3p6dlB2eks4MTJ6bVdXU09YSURLMDBxTDNRbU0yaFN5SlZrLUllNmQ0NzhOU0pwSk9RZ1hpdEZ5emw2WndwRTJGUEdsdGZXTGFsb3FrVFZmajFQOF9fWnBzNkJCSnhwWXMtVWRJd2ZzMXNDSFJWNFYzWDlqTlZiMjVRVklvbFFOUUFHQ2pXODNRUXgzTDYxRWNfMmdyN3hqNUs4WTN2M2RqTTFNQ1VrZ09mZkprVVlHbERPQUVvLVpxWUtvUGVUb0tnQ3pITEhRc0dkY0QyNVlZb1BsamdTUGZiWHlrMGpaXzUzME9qWFRJYk5aY2wxeVgxVjJrQmxneTBBd0hKMHdic3FvMFFWdw?oc=5>
+- **Trump** | 特朗普媒体找到新财路：卖“最快帖文”，每月收费10万美元 <https://news.google.com/rss/articles/CBMikAFBVV95cUxOdnF5RjREWHQ0S3c2LWpYZUdBMWtfUnRQTG9DWkFfZlhtY0xRU2ZNb0UtNUcxSFIyMDlqOFVIRjk4b1dDY2M5Z1BGWkZXVWxPSFpabEhaUS0tVDN3V2VpUThnOXpzVG53Z1V0UEFINDVLNVh6ZGdENEdhQVdqcWw1MHBSaTZaMFE5aFYzZGMwSGY?oc=5>
 
 ### 2026-07-19 04:21  (4 条)
 
