@@ -1,62 +1,44 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-19 07:03**
-- 本轮扫到 7268 条, 新增 **6** 条
+- 最近更新: **2026-07-19 09:24**
+- 本轮扫到 7271 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (3 条)
 
-### 24岁歌手王俊凯缺席周杰伦鸟巢演唱会，为何11年头号迷弟竟错过偶像主场？
+### 中餐厅包场周杰伦演唱会？黄晓明一句话让昆凌封神，头号迷弟王俊凯却缺席了！_鸟巢_出圈_合唱
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801dgnq.html>
+- 链接: <https://k.sina.com.cn/article_7880068235_1d5b04c8b01902ckp6.html>
 
-### 美国援外大转向：特朗普要向欧洲输出“MAGA”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-07-19 04:55
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE0zQ1BZS242ODBCOXdwTG01YmtuU0tUQ2dlWTBUUUZMLWd6enI1UTViWHdvSFRGSjZtUW9adVZ6dklvZ24zeDVhQlMwemV0bVlEQmJ0bV9kd0lBOFl1UjVHOUlHdl9zckRKV1E?oc=5>
-
-### 特朗普提词器操作员借职务之便提前掌握演讲稿，对十余场重要演讲下注，非法获利逾10万美元
+### 特朗普确认出席世界杯决赛！美国启动最高级别安保
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-17 03:21
-- 链接: <https://news.google.com/rss/articles/CBMizAFBVV95cUxPNWFTVGs0NmVQWVl2WXUtSnZCYmxienFqTWg1R29YVHFyMW43eWlDVDlhX3FiMDJyeTdIUDAxdTlkNzBRRE5PcHdVR1l0VktoTWNyblRkQkV5S1pNS3dtZW16dGhjZ0U1RHdiUS01ellVd1VmYzdPb29ISlN2cm01ZnpLekZ6ZnUyMEExbElfX3dhOUZiaXFhOEZ5akU0UE8wRzRaWTJHTnV1WWVFdFRXNEFwVlNDWkMtN2ZhR2hmYnFyM0s5cERSZERHTVc?oc=5>
+- 时间: 2026-07-19 06:56
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE53R0pHSHZvRkh6X280bVlQQURNLWtLQXdRRVhLMVZ3bkVYY3p3NkJUc0lIOVpTNVVtWU0xU0NMaExxSHRROXJaOFVwMHBxbnVoeXlDSEhFY2tuSklWNkhPbjlyZlZfMmlEMGh3dlJnQ0oxR3d6dEE?oc=5>
 
-### 美国记者：特朗普的“背叛”将美国推向革命，他不是最有权势的人
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机网易网
-- 时间: 2026-07-19 04:54
-- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTFBkZGx5Y3pROW9JRlNweHJhU0FLdDM2VEZwWDJBaHIyUU9CZ2pibUxHS1BVM2g4b3ZYaGVVVXhPTEVpOFkyUmdLejY3ejVwMlNrTGFFa0U0UHFkMVB0OHVBY2R3?oc=5>
-
-### 特朗普再打中国“介选”牌 解密文件引质疑
+### 特朗普：令人难过
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: DW.com
-- 时间: 2026-07-17 20:06
-- 链接: <https://news.google.com/rss/articles/CBMilgJBVV95cUxNTkNaNUZSRGFJbkE0RjBXak1IblBrdko4UlJvd082UlJxUzNSSHNFMVF2SnQ5aFlpLW91a1c2ZnNmdkt6cTNPNEpFNFlET3ByZDBNQ2VyOTNKcGdRSmtQZHRvbEx5QkczdjBFY3ZnMS1iN1hzMzdVQnR0Y3NyLWtWdFZBR2tPOG03aTZpSE5TTUZRVG5la3QxYl91Nms3b3dNVlFST2NycWl2MURTeGhTNjRXREtrMmxydkFrc2JYLUhDSFJuMC1ycmRFckc5ZEFEVllhZDBJOXdjZFVVSUt6LVI2a095eWZlcksydV8xOVZGNy1oNUxOUE13OS1NWk90VUNBWHpIQ09sRWwxcFRzdmViaEw0Z9IBlgJBVV95cUxNSFphNXFLc3p6dlB2eks4MTJ6bVdXU09YSURLMDBxTDNRbU0yaFN5SlZrLUllNmQ0NzhOU0pwSk9RZ1hpdEZ5emw2WndwRTJGUEdsdGZXTGFsb3FrVFZmajFQOF9fWnBzNkJCSnhwWXMtVWRJd2ZzMXNDSFJWNFYzWDlqTlZiMjVRVklvbFFOUUFHQ2pXODNRUXgzTDYxRWNfMmdyN3hqNUs4WTN2M2RqTTFNQ1VrZ09mZkprVVlHbERPQUVvLVpxWUtvUGVUb0tnQ3pITEhRc0dkY0QyNVlZb1BsamdTUGZiWHlrMGpaXzUzME9qWFRJYk5aY2wxeVgxVjJrQmxneTBBd0hKMHdic3FvMFFWdw?oc=5>
-
-### 特朗普媒体找到新财路：卖“最快帖文”，每月收费10万美元
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: FX168
-- 时间: 2026-07-19 05:29
-- 链接: <https://news.google.com/rss/articles/CBMikAFBVV95cUxOdnF5RjREWHQ0S3c2LWpYZUdBMWtfUnRQTG9DWkFfZlhtY0xRU2ZNb0UtNUcxSFIyMDlqOFVIRjk4b1dDY2M5Z1BGWkZXVWxPSFpabEhaUS0tVDN3V2VpUThnOXpzVG53Z1V0UEFINDVLNVh6ZGdENEdhQVdqcWw1MHBSaTZaMFE5aFYzZGMwSGY?oc=5>
+- 场馆: 观察者
+- 时间: 2026-07-19 01:20
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9jczA1TUJ3a09LNVJmUmpVSUpfeGpyd2sxWjd3QW42QndvdU1UdVBvaHVXWk1TU1hrU2hBbnhqN1R2cTR3S051NFdOZlhWVHpWd3hlU3JkME5qcmlCVXcwd25UV29NdlJSNXc?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-19 09:24  (3 条)
+
+- **周杰伦** | 中餐厅包场周杰伦演唱会？黄晓明一句话让昆凌封神，头号迷弟王俊凯却缺席了！_鸟巢_出圈_合唱 <https://k.sina.com.cn/article_7880068235_1d5b04c8b01902ckp6.html>
+- **特朗普** | 特朗普确认出席世界杯决赛！美国启动最高级别安保 <https://news.google.com/rss/articles/CBMidkFVX3lxTE53R0pHSHZvRkh6X280bVlQQURNLWtLQXdRRVhLMVZ3bkVYY3p3NkJUc0lIOVpTNVVtWU0xU0NMaExxSHRROXJaOFVwMHBxbnVoeXlDSEhFY2tuSklWNkhPbjlyZlZfMmlEMGh3dlJnQ0oxR3d6dEE?oc=5>
+- **特朗普** | 特朗普：令人难过 <https://news.google.com/rss/articles/CBMiakFVX3lxTE9jczA1TUJ3a09LNVJmUmpVSUpfeGpyd2sxWjd3QW42QndvdU1UdVBvaHVXWk1TU1hrU2hBbnhqN1R2cTR3S051NFdOZlhWVHpWd3hlU3JkME5qcmlCVXcwd25UV29NdlJSNXc?oc=5>
 
 ### 2026-07-19 07:03  (6 条)
 
