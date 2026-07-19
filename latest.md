@@ -1,44 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-19 11:51**
-- 本轮扫到 7280 条, 新增 **4** 条
+- 最近更新: **2026-07-19 13:02**
+- 本轮扫到 7281 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (1 条)
 
-### 蔡徐坤近期澳门演唱会会否受传闻影响？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068591_1d5b04def06801te5u.html>
-
-### 这也太帅了吧，刘雨昕开嗓既演唱会现场，蔡徐坤LISA都沦陷
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924004_m1d5ae1924033025lcg.html>
-
-### 特朗普上硬币，伦敦基辅忙换人，29国上海签约：同一世界三种节奏？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-07-19 11:48
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE16NWxGaWdwdGhnNzdhbUotMUlDaWszVmMxbnhJUlFEdXNTZHk0Uzl6WE5BaXR0VFotTzFhZm1XUFN1RlVxMXhRNXpZZ3NIbVBoaWtYYWpyZGZ3c0hGb0hzWjVUekNHanZzQlByeDFtbF9pUQ?oc=5>
-
-### 暗杀威胁拦不住特朗普：世界杯决赛还没开打，他就已经“抢戏”了
+### 特朗普将出席世界杯决赛，外媒：美方将部署F-16、军方狙击手，还将调集数千名特工
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-18 15:37
-- 链接: <https://news.google.com/rss/articles/CBMi1AFBVV95cUxPX043cTV3VHNpR3JmZ29CTTNyZ3pSdE1Sei1EZHJVNXpibzdrZkFISkc3dmpuUVYwZHhVaDVpaGVtM0xFR2hFcVpPdFlfejlLdHBTQk5kMTNfVUlGdS1PMXZLWHlXVXYwN2JSTXYzbkdDNVJYT2JmU1F0M04wOXRzTHRZZV9fcHdmbmZmM0k3NXpxRGcwMmlJazZfRWdVLWNDcXZvS1lwbi1jV19KT29PWHlzLWJpeTdKSnZHbnhqaUd1YnVJTnFwSzdLR1N0QUstNE5lZA?oc=5>
+- 时间: 2026-07-19 11:01
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE4tRUduOE1UZXNVN0swS000Z1BCanZOakJfcGNYSEx0d1hnMjM2bkJsYldHdkJaRF8wcmEwWFl4XzJBeWNuS2lTNGVsWnRFQllmWWRLZHhkeXQ0dEQ1VkZETDdibWowSEpPYmp6MmZxRE1BcjhCdWc?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-19 13:02  (1 条)
+
+- **特朗普** | 特朗普将出席世界杯决赛，外媒：美方将部署F-16、军方狙击手，还将调集数千名特工 <https://news.google.com/rss/articles/CBMidkFVX3lxTE4tRUduOE1UZXNVN0swS000Z1BCanZOakJfcGNYSEx0d1hnMjM2bkJsYldHdkJaRF8wcmEwWFl4XzJBeWNuS2lTNGVsWnRFQllmWWRLZHhkeXQ0dEQ1VkZETDdibWowSEpPYmp6MmZxRE1BcjhCdWc?oc=5>
 
 ### 2026-07-19 11:51  (4 条)
 
