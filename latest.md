@@ -1,40 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-19 17:53**
-- 本轮扫到 7290 条, 新增 **3** 条
+- 最近更新: **2026-07-19 18:57**
+- 本轮扫到 7295 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (5 条)
 
-### 美军连炸四天后，特朗普态度变了，最大输家出现 备忘录彻底失效
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-07-19 17:18
-- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVGdQNEQzUVM0M0NCbk9IR0VvdzdLV09RenpqVm96WVZZVVgwcXFLQ2F0aTFmdGkwTnhqOFBBWHo3dHUweUFrX2ZBVEd2clRZLUhXSnF6d1NUQWZKTTZBbndweTl5OXBQV0VBdTJYTHQzbVRDTW5Yb19MVDZobzI1T3JjbGdjVGhrQWNZRzVrVy1DZURRTlkwbzVOSlBNeVp5Z3lycDR2RWU2SlZJbjJURzMzMlpBTFdadmVxelgtQVgzSVNOelQ5cWtEYW1KMzlGUTRXOTN1cy1vUHl2Q2c?oc=5>
-
-### 特朗普提词器操作员借职务之便提前掌握演讲稿，对十余场重要演讲下注，非法获利逾10万美元
+### 美国援外大转向：特朗普要向欧洲输出“MAGA”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-17 03:21
-- 链接: <https://news.google.com/rss/articles/CBMizgFBVV95cUxPdHc2b0NJVmtwWFh6cFZ0TmxFUThSbHpOTVUwb20zcjAzQW5hV29SYy15ZGtVU3l6d1J2TWlYdjlOb1BnVThzM2RRQnduZ2JNUkg4djFzRzdaSk93NjY5blA2aFFQMm1aY2JKS3VlRWhieDdBUEJfa2lLWW5zdWg1UE13ZG1KODdxQTRHX3BZVlJ2Y1M5T2VHRXhhMk1ia09oQlNDeDFyWlRFc1FSbm9mMm15akdBTERGNTNfcnNSRUdFZVhzcl9xckk4Y0NFZw?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-07-19 12:06
+- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE1JNlNlWG1QM3JHdVl6RkhPMWNZbkFscUJzZm1wY051SFFGTG5mZ0NkX2lydmV2dEp1M0tVVDN2YnBrbHlYbEdaTFBueEFZS0ZfWl9fWlFoUVdFa1RMcU1BQTJJY0V5b3NfZGJia3cwOWJfaDdMbWI3OFNB?oc=5>
 
-### 外媒：特朗普将出席世界杯决赛，F-16战机、军方狙击手及数千名特工被调集展开安保行动
+### 特朗普有意扩大对伊战争，美媒披露行动方案细节
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-07-19 07:28
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1Ba3VPT01SVE5XSVYtNVN6a2h4X3ptYVR4TDg1VVppSnJITE40M3J2QnFCWlVPWUYyd2NVZVkyRzZxVmE3b1NCTUlybW8?oc=5>
+- 时间: 2026-07-17 02:29
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE80YjRDT1hUdmUwSUZ0eDg4VnRPcGxHMzZ2eV9wRzI4LWI0SHJsaXdGaVExMy14cHpzd21OLUc3QkV1NG54eENNS09Uaw?oc=5>
+
+### 决赛前夕特朗普再语出惊人 揶揄英格兰盼美独办世界杯
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-07-18 05:04
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9RLWtXS2RNUkhDOXNwUE9Xa0dURkdPcGpRT3BQSVlaOEt3VTVDODJBY0ttaG11NWFDRUd3VUZiSF9PNGFtOVlJX1Z4NXg3ZjBESmhoR2poTzM0UzlsMXMtQmNoX1RoQ1k?oc=5>
+
+### 特朗普将出席世界杯决赛，F-16战机、军方狙击手和数千名FBI将参与安保
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-07-19 09:20
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTFBrQUQwQm95cTc2aGlIdkp5UFdQM0JlUkJMbU9zT3hQSzNva0dBQS1FaEQwNzNUTHMwdmIwaV83QkN5S3BYanlrRUVRTTVfZjFsYk4wN0NRVkJXLWpKamc?oc=5>
+
+### 川普贴文要卖钱！抢先看月费10万 民主党怒轰
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 文学城
+- 时间: 2026-07-19 14:51
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MYi1qb3NMeWprUDZHZ3hieUt5b1BNc25XTmFaanpfSlU1TUJGRkI5ejhaSVIzVElUSUpJUVhjcHUxU3AzMmMwUkJfcU5ERkwzYkx1YzJUTDNHV3BkNkVONzRfckpYT2Vq?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-19 18:57  (5 条)
+
+- **特朗普** | 美国援外大转向：特朗普要向欧洲输出“MAGA” <https://news.google.com/rss/articles/CBMiekFVX3lxTE1JNlNlWG1QM3JHdVl6RkhPMWNZbkFscUJzZm1wY051SFFGTG5mZ0NkX2lydmV2dEp1M0tVVDN2YnBrbHlYbEdaTFBueEFZS0ZfWl9fWlFoUVdFa1RMcU1BQTJJY0V5b3NfZGJia3cwOWJfaDdMbWI3OFNB?oc=5>
+- **特朗普** | 特朗普有意扩大对伊战争，美媒披露行动方案细节 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE80YjRDT1hUdmUwSUZ0eDg4VnRPcGxHMzZ2eV9wRzI4LWI0SHJsaXdGaVExMy14cHpzd21OLUc3QkV1NG54eENNS09Uaw?oc=5>
+- **特朗普** | 决赛前夕特朗普再语出惊人 揶揄英格兰盼美独办世界杯 <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9RLWtXS2RNUkhDOXNwUE9Xa0dURkdPcGpRT3BQSVlaOEt3VTVDODJBY0ttaG11NWFDRUd3VUZiSF9PNGFtOVlJX1Z4NXg3ZjBESmhoR2poTzM0UzlsMXMtQmNoX1RoQ1k?oc=5>
+- **特朗普** | 特朗普将出席世界杯决赛，F-16战机、军方狙击手和数千名FBI将参与安保 <https://news.google.com/rss/articles/CBMiXkFVX3lxTFBrQUQwQm95cTc2aGlIdkp5UFdQM0JlUkJMbU9zT3hQSzNva0dBQS1FaEQwNzNUTHMwdmIwaV83QkN5S3BYanlrRUVRTTVfZjFsYk4wN0NRVkJXLWpKamc?oc=5>
+- **Trump** | 川普贴文要卖钱！抢先看月费10万 民主党怒轰 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MYi1qb3NMeWprUDZHZ3hieUt5b1BNc25XTmFaanpfSlU1TUJGRkI5ejhaSVIzVElUSUpJUVhjcHUxU3AzMmMwUkJfcU5ERkwzYkx1YzJUTDNHV3BkNkVONzRfckpYT2Vq?oc=5>
 
 ### 2026-07-19 17:53  (3 条)
 
