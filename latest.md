@@ -1,38 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-19 00:58**
-- 本轮扫到 7258 条, 新增 **3** 条
+- 最近更新: **2026-07-19 04:21**
+- 本轮扫到 7262 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (4 条)
 
-### 周星驰女足轰下5个亿票房，周杰伦献唱主题曲，张柏芝做法太豪横
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c0019089okk.html>
-
-### 特朗普最新支持率公布
+### 充SVIP，特朗普帖文抢先看
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪军事_手机新浪网
-- 时间: 2026-07-18 06:35
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE12bXY1TXlORWVJTWF2N0J3eTluTkRXaFdsX3ZzNjU2RWJybkVOb2VQOHJab2V0VTMzMlpIb1RodUJ1ckNXaFByX3JocXdhYVQ0ZzBvM2lVeUd1OG01QXNLbE1ySzNMMlg3YmNqVlFRWUxiTVU?oc=5>
+- 场馆: 观察者
+- 时间: 2026-07-17 01:30
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9Kd2l1bjh2bk85ZkNlRTlzMllkOUo2UTU5UGhiZk9PZ3ZoZm01UVdsaDVDZjg1a1l5TURQQUZqY3FyOW9lOWRSbU9SLTh2enNjbnc1dExGR0JXXzU0VTlWU3VGWkVGMFNtb2c?oc=5>
 
-### 搅乱威尼斯，特朗普“最富特使”耸肩：让意大利人看看什么叫顶级富豪
+### 特朗普最新发声！美军连续八天夜袭伊朗 美国发布全球安全警示
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 财联社
+- 时间: 2026-07-18 19:21
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE1telV4WjVuUjd2ckFmZWRTVG8zR0dKNTl5NzZFdzJLb3lzYkZYZThuN2k1SzJvTHByOFdlekNFaFBIWTRGNTVXLQ?oc=5>
+
+### 特朗普回应两名美军被伊朗炸死：难过，不愿看到这种事情发生
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-18 12:59
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE53VGx1ZXBpVTN2STdmQ1dCWWRqMWdWYWFDRnNkRl9ac2xEWHFKTnljZnZxNU4tYzVQT0FZd2dRS0NtNWlWc1VuQUhkbDBTTHJhVzZLR1p2dXdsOFJJM3NwM1pkb3JfTU9XM0gxZF9uWk9lX0pCNkg5Tw?oc=5>
+- 时间: 2026-07-19 01:26
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1uc1NLa1NBRGJvMlllQXppWlFJU2d6WE16VVhLd3AwNnpSTnBRdURMSmNKMFRVM1FLU1hiY2hGNXVjLWxfQkc2TnR6dFdsU21hSDQ1dFF4ZDJ6TWV4a2N4ejgxWHRKbVEwOGgxaG5xYzh4QVJudWI1Xw?oc=5>
+
+### [重化工ON]Trump：“与韩国合作建造军舰”……韩国造船业期待升温- 阿视亚经济
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 아시아경제
+- 时间: 2026-07-18 22:30
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1pQm94ZFVBa2Eybl9TNHl1WG4tM05Wc2hTZVIyTVJza3hleDdmRWp2M0FvUGJDUmR1SFpWYjNZQndmMDZFMFE0d3RPWjN6SXd6TmoxYk82bUhVRUNodTVmUklBbUg?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-19 04:21  (4 条)
+
+- **特朗普** | 充SVIP，特朗普帖文抢先看 <https://news.google.com/rss/articles/CBMiakFVX3lxTE9Kd2l1bjh2bk85ZkNlRTlzMllkOUo2UTU5UGhiZk9PZ3ZoZm01UVdsaDVDZjg1a1l5TURQQUZqY3FyOW9lOWRSbU9SLTh2enNjbnc1dExGR0JXXzU0VTlWU3VGWkVGMFNtb2c?oc=5>
+- **特朗普** | 特朗普最新发声！美军连续八天夜袭伊朗 美国发布全球安全警示 <https://news.google.com/rss/articles/CBMiSEFVX3lxTE1telV4WjVuUjd2ckFmZWRTVG8zR0dKNTl5NzZFdzJLb3lzYkZYZThuN2k1SzJvTHByOFdlekNFaFBIWTRGNTVXLQ?oc=5>
+- **特朗普** | 特朗普回应两名美军被伊朗炸死：难过，不愿看到这种事情发生 <https://news.google.com/rss/articles/CBMieEFVX3lxTE1uc1NLa1NBRGJvMlllQXppWlFJU2d6WE16VVhLd3AwNnpSTnBRdURMSmNKMFRVM1FLU1hiY2hGNXVjLWxfQkc2TnR6dFdsU21hSDQ1dFF4ZDJ6TWV4a2N4ejgxWHRKbVEwOGgxaG5xYzh4QVJudWI1Xw?oc=5>
+- **Trump** | [重化工ON]Trump：“与韩国合作建造军舰”……韩国造船业期待升温- 阿视亚经济 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1pQm94ZFVBa2Eybl9TNHl1WG4tM05Wc2hTZVIyTVJza3hleDdmRWp2M0FvUGJDUmR1SFpWYjNZQndmMDZFMFE0d3RPWjN6SXd6TmoxYk82bUhVRUNodTVmUklBbUg?oc=5>
 
 ### 2026-07-19 00:58  (3 条)
 
