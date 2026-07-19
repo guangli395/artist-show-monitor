@@ -1,40 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-19 22:22**
-- 本轮扫到 7307 条, 新增 **3** 条
+- 最近更新: **2026-07-19 23:26**
+- 本轮扫到 7310 条, 新增 **3** 条
 
 ---
 
 ## 本轮新发现 (3 条)
 
-### 暗杀威胁拦不住特朗普：世界杯决赛还没开打，他就已经“抢戏”了
+### 特朗普与因凡蒂诺现场观看世界杯决赛 被批“政治利用”体育
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-07-18 15:37
-- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMjNHZ3UwN2RHTWt3RWZpQmZpeUpxRnZQN3lzRjl6cnd0Z2Q1RlZlV05XSVBMYWREamFHQ2NHbFppTUx4cGdVOWRSbzFSR1BYaDlFMHVNSEtFSXBVMV9zdEVjZ2NEN3pWcnNwTVdkRVo0MU1qZzduQURtSTloTzlyaTJhLUVxTnVkdm1hNXNkUXExcGs1Y3prYkRjYVM1WXdWVnFzVGtvY2dRMTljSExRQWx4WTAwMUpFMWdRRExRQjRNRG5ZRXE2VVlaS3JnZHRrNUE?oc=5>
+- 场馆: 共同网
+- 时间: 2026-07-19 22:54
+- 链接: <https://news.google.com/rss/articles/CBMiV0FVX3lxTE93dEVwczRJWGZlTE9HQlk4V0FOSXFSRWRVa3hvRFJxQmNiQ0JXdDVydUJjajdGNDUzYVU0ZlZWdFhyUVR6QWdwZmtaSDNXeEhQek90eVV0OA?oc=5>
 
-### 特朗普提词器操作员借职务之便提前掌握演讲稿，对十余场重要演讲下注，非法获利逾10万美元
+### 两天三名美军死亡！美伊冲突失控风险骤升，特朗普迎来关键考验
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-07-17 03:21
-- 链接: <https://news.google.com/rss/articles/CBMizgFBVV95cUxNaGNMeDVvRGdxNXBwOERqNmFoM2MyYVBSU0M3bUVyUUFPMHdITWZtMFB5cUExSjN3dmU1QzFKNFl0SnFkckFNUDR1clNBREpRdU5LR21qeHNpM1J0SnZsUWkyMlpCREF5ODBEX19laDVnYkN3ZmdCak9zb2M1aV9KT1lvT3dsaTBNUFl5VUhIYW5nMlFIT01YUENpbE1yYXB2YjZLWndYOE5RZ1pVSVRIZnFPQ1gzUGFtMENPa0xicS1UT3BPZHZLRExjcEdzdw?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-07-19 23:20
+- 链接: <https://news.google.com/rss/articles/CBMirwFBVV95cUxQSG5wdFQ3cVlhM0E5OWlrV1JGaGFHU2d6U1ozQ0Z5TWhDd3VFYnNNOVUxYXJWUHV4amx6RUw4Z080QjE3dEotZzVxV2tMOVEzMEU3bGdqSEZsX1NNZjZlYkZzUFNxVTdXdkczSkNIcTh1RVQwWE1BS2J5LW1jeHNoY2wyWWhQT043Ml9Qd0F0WF9tWldIb0owV182NHJHdmFlMUtINWNKbXFyN0d3UGlz?oc=5>
 
-### 特朗普称中国非法收集2.2亿份美国选民文件
+### 保博物馆还是保特朗普？美国爆发历史真相之争，国会面临选择
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-07-16 17:17
-- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxNS1JOYVBoM0xpVmplbkRtcUZhNV9uRjNoNjRVeTJmOV95WjhYLW1kbVFXaDdJMkpCRm9ydFpvZUpqVWFGYzdEQktodEdwcHBUdHhSamZaQ0l2ZW14WUJqZWNpUHB3anlQeG8xM2RqeHUxRGphRGpxcFdzcnM5NUE5amRyYw?oc=5>
+- 场馆: 手机网易网
+- 时间: 2026-07-19 22:47
+- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTFBlcEQ0NDNMNHNJcE1hVWxuOGZ1R1dCNTRMNnQ5STVBSFBCRlJzNENyYjFxZDlUUXdiNmprX29xUG9raURVQkdQZnUxNXRiUC1oSTFOQXk1dE56WW11RmJzdnl3?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-19 23:26  (3 条)
+
+- **特朗普** | 特朗普与因凡蒂诺现场观看世界杯决赛 被批“政治利用”体育 <https://news.google.com/rss/articles/CBMiV0FVX3lxTE93dEVwczRJWGZlTE9HQlk4V0FOSXFSRWRVa3hvRFJxQmNiQ0JXdDVydUJjajdGNDUzYVU0ZlZWdFhyUVR6QWdwZmtaSDNXeEhQek90eVV0OA?oc=5>
+- **特朗普** | 两天三名美军死亡！美伊冲突失控风险骤升，特朗普迎来关键考验 <https://news.google.com/rss/articles/CBMirwFBVV95cUxQSG5wdFQ3cVlhM0E5OWlrV1JGaGFHU2d6U1ozQ0Z5TWhDd3VFYnNNOVUxYXJWUHV4amx6RUw4Z080QjE3dEotZzVxV2tMOVEzMEU3bGdqSEZsX1NNZjZlYkZzUFNxVTdXdkczSkNIcTh1RVQwWE1BS2J5LW1jeHNoY2wyWWhQT043Ml9Qd0F0WF9tWldIb0owV182NHJHdmFlMUtINWNKbXFyN0d3UGlz?oc=5>
+- **特朗普** | 保博物馆还是保特朗普？美国爆发历史真相之争，国会面临选择 <https://news.google.com/rss/articles/CBMiYkFVX3lxTFBlcEQ0NDNMNHNJcE1hVWxuOGZ1R1dCNTRMNnQ5STVBSFBCRlJzNENyYjFxZDlUUXdiNmprX29xUG9raURVQkdQZnUxNXRiUC1oSTFOQXk1dE56WW11RmJzdnl3?oc=5>
 
 ### 2026-07-19 22:22  (3 条)
 
