@@ -1,24 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-19 15:51**
-- 本轮扫到 7285 条, 新增 **1** 条
+- 最近更新: **2026-07-19 16:51**
+- 本轮扫到 7287 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮新发现 (2 条)
 
-### 特朗普提词器操作员借职务之便提前掌握演讲稿，对十余场重要演讲下注，非法获利逾10万美元
+### 60天打趴伊朗？特朗普话音刚落，这国率先站队，胡塞武装直接掀桌
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-17 03:21
-- 链接: <https://news.google.com/rss/articles/CBMizgFBVV95cUxQUUdzdUdNRmI4b090X3FKdkNqNkU2bERUX1FxRWx5MEpkRUp6Sy1TajNScnEyMUQydlZ6Z0VaeFc1aS1nbzlRWUVZMVFfZ3dTTUdON1lnUHRMOWlreFZWSWx2STFIcVBYRGZiYUo3cGpsZTlGaWdEbGIwZWpNcmI1X1phMERfVEExVFkxTlgwQ3ZDZUpiX2F2UGNNaUZOMFNtdWNfMkpmTHRBSjVJei1sMUc2SUhiTnlzbkVfNlhXalVqMDFKS2lfSmwzaVhjZw?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-07-17 07:00
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFA1ZTQxbi1YTV91Yi03T2Z6NExFT180d3NLcW1DUlVtbEpEZ2xuZXR4OFpIdkYwa2R2RFhCMnFyNENlUkIwN0F4Rnk2NlVIUjN4R0RvVnBmNTNVQkp4b3FpbkE4Y1ZXMjM1bklHS3pPTVRyUQ?oc=5>
+
+### Trump once again accuses China of meddling in 2020 US election
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: TVB
+- 时间: 2026-07-18 13:57
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxNVHE0SGJLVVVXR1UxZEplaXZyeDVPM2dkajVlTHRBdFBtX0xrZnFDdHBQNGlLaUd5VjN2Wmd3Q1BNdHhkdWVpdzE1U2xQZzBYVnRrdk13VlppTmxfZ3ZfcXJrenpLa3U4MlV2NG1pT2R4NkpDeHEybTJvbGZ1NjB6d1VSUHZIbjRrZXpKNg?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-19 16:51  (2 条)
+
+- **特朗普** | 60天打趴伊朗？特朗普话音刚落，这国率先站队，胡塞武装直接掀桌 <https://news.google.com/rss/articles/CBMickFVX3lxTFA1ZTQxbi1YTV91Yi03T2Z6NExFT180d3NLcW1DUlVtbEpEZ2xuZXR4OFpIdkYwa2R2RFhCMnFyNENlUkIwN0F4Rnk2NlVIUjN4R0RvVnBmNTNVQkp4b3FpbkE4Y1ZXMjM1bklHS3pPTVRyUQ?oc=5>
+- **Trump** | Trump once again accuses China of meddling in 2020 US election <https://news.google.com/rss/articles/CBMijAFBVV95cUxNVHE0SGJLVVVXR1UxZEplaXZyeDVPM2dkajVlTHRBdFBtX0xrZnFDdHBQNGlLaUd5VjN2Wmd3Q1BNdHhkdWVpdzE1U2xQZzBYVnRrdk13VlppTmxfZ3ZfcXJrenpLa3U4MlV2NG1pT2R4NkpDeHEybTJvbGZ1NjB6d1VSUHZIbjRrZXpKNg?oc=5>
 
 ### 2026-07-19 15:51  (1 条)
 
