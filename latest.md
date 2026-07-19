@@ -1,38 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-19 09:24**
-- 本轮扫到 7271 条, 新增 **3** 条
+- 最近更新: **2026-07-19 10:50**
+- 本轮扫到 7276 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (5 条)
 
-### 中餐厅包场周杰伦演唱会？黄晓明一句话让昆凌封神，头号迷弟王俊凯却缺席了！_鸟巢_出圈_合唱
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068235_1d5b04c8b01902ckp6.html>
-
-### 特朗普确认出席世界杯决赛！美国启动最高级别安保
+### 特朗普将出席世界杯决赛，美方部署F-16战机、军方狙击手、数千名FBI特工参与安保
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-19 06:56
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE53R0pHSHZvRkh6X280bVlQQURNLWtLQXdRRVhLMVZ3bkVYY3p3NkJUc0lIOVpTNVVtWU0xU0NMaExxSHRROXJaOFVwMHBxbnVoeXlDSEhFY2tuSklWNkhPbjlyZlZfMmlEMGh3dlJnQ0oxR3d6dEE?oc=5>
+- 时间: 2026-07-19 09:36
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE50eS1XMTlObjIwWG1aaWJwVXo2SjZtcnFTX3ljVW1qZy1pU1UwdjZBZ1pGRlJ5N3FscDdKZVI3TWcyWjNnZmxqejE2cDdTZmdmR3htNVRna2FPNlgzQjl6LVA0UjdVVnpjdzE5eHU1UHptQm41a2c?oc=5>
 
-### 特朗普：令人难过
+### 加拿大野火烟雾蔓延至美国，特朗普痛批并称要加税
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-07-19 01:20
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9jczA1TUJ3a09LNVJmUmpVSUpfeGpyd2sxWjd3QW42QndvdU1UdVBvaHVXWk1TU1hrU2hBbnhqN1R2cTR3S051NFdOZlhWVHpWd3hlU3JkME5qcmlCVXcwd25UV29NdlJSNXc?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-07-18 07:38
+- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxORnZTdEVyRXFUdUZPVXp1WTRYdkZIRlA3ZjdKQXZaU0t6cEtFRlc5eklpY2FsTW9ySTRSRXp1YVBLdU9aRmFDTDJhZ3JzM0U5bWtmeUVSUlgtMlo2T2tJSnZxVEkwQUN1QTJFWFdZTm1mRDI2N3pWaW1Oak1lNzQ0RTVfemNiWjRrMmEtM2RDRzhmSmI2aV9HSi1nUUlSYlhLTVRGYy1fRmdqRkxKZE15dmU1QzBULTBGQzR3VUMzNHJ5XzNGT3o4LXJGQ3QwVUN3MlNtXzVXWjhKLUlSemc?oc=5>
+
+### 特朗普威胁加税！加拿大回应→
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-19 08:30
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTFB0cjlSY1NBaWxXSlNPNEgwVDY4Zzl3c3paa2MzZXdwMjRjSVJwWHFfcUIyR0NDeVRJR1hudktQcXpDZzZHMW9sNExZZDk0a0xUeFVrZEJZdE9UQUNod2hBYlhUWTFJNmNWalR4OWczbVFySWhvYUE?oc=5>
+
+### 特朗普帖文“优先访问权”拟售每月10万美元
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中国经济网
+- 时间: 2026-07-18 23:19
+- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTE9GU3dDWGdsYWZuMS1DcFlpbTBUMGpYdVAyb2U3UG9sdUtqbk5UYmxtczBMd2wxOTZoWExXd2UxZE9OSmVwUVJvbmZnSzd6bldUcDNWRnQ1X3JWdE9FZ2JpNkw4RQ?oc=5>
+
+### 特朗普提词器操作员借职务之便提前掌握演讲稿，对十余场重要演讲下注，非法获利逾10万美元
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-17 03:21
+- 链接: <https://news.google.com/rss/articles/CBMiywFBVV95cUxNUU9qRllJell6dHBkRTRRcWdfaEs0OXE4TmpKMURSQjlyV3Z4cDJvc0liTDFockZtVFY5YlRzNktjX3ZPZjdoa2JCQ2RZNE00a3MxRXktNXB5ajhXVVZfajlfdVVpTmxYaTlZQ2dhY00xMXlJcmZyZHJzRUpJbExLVTRXSVoyN1BMQW5Bei02UjB2MTY5ZTVpVXVJVGVxaEd3SFpZT1Fkb0paNG1vTEFhcV84M2xfREFSNlNkLUZYUGZBSnlhSE5Qc3EwYw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-19 10:50  (5 条)
+
+- **特朗普** | 特朗普将出席世界杯决赛，美方部署F-16战机、军方狙击手、数千名FBI特工参与安保 <https://news.google.com/rss/articles/CBMidkFVX3lxTE50eS1XMTlObjIwWG1aaWJwVXo2SjZtcnFTX3ljVW1qZy1pU1UwdjZBZ1pGRlJ5N3FscDdKZVI3TWcyWjNnZmxqejE2cDdTZmdmR3htNVRna2FPNlgzQjl6LVA0UjdVVnpjdzE5eHU1UHptQm41a2c?oc=5>
+- **特朗普** | 加拿大野火烟雾蔓延至美国，特朗普痛批并称要加税 <https://news.google.com/rss/articles/CBMi3gFBVV95cUxORnZTdEVyRXFUdUZPVXp1WTRYdkZIRlA3ZjdKQXZaU0t6cEtFRlc5eklpY2FsTW9ySTRSRXp1YVBLdU9aRmFDTDJhZ3JzM0U5bWtmeUVSUlgtMlo2T2tJSnZxVEkwQUN1QTJFWFdZTm1mRDI2N3pWaW1Oak1lNzQ0RTVfemNiWjRrMmEtM2RDRzhmSmI2aV9HSi1nUUlSYlhLTVRGYy1fRmdqRkxKZE15dmU1QzBULTBGQzR3VUMzNHJ5XzNGT3o4LXJGQ3QwVUN3MlNtXzVXWjhKLUlSemc?oc=5>
+- **特朗普** | 特朗普威胁加税！加拿大回应→ <https://news.google.com/rss/articles/CBMidkFVX3lxTFB0cjlSY1NBaWxXSlNPNEgwVDY4Zzl3c3paa2MzZXdwMjRjSVJwWHFfcUIyR0NDeVRJR1hudktQcXpDZzZHMW9sNExZZDk0a0xUeFVrZEJZdE9UQUNod2hBYlhUWTFJNmNWalR4OWczbVFySWhvYUE?oc=5>
+- **特朗普** | 特朗普帖文“优先访问权”拟售每月10万美元 <https://news.google.com/rss/articles/CBMiY0FVX3lxTE9GU3dDWGdsYWZuMS1DcFlpbTBUMGpYdVAyb2U3UG9sdUtqbk5UYmxtczBMd2wxOTZoWExXd2UxZE9OSmVwUVJvbmZnSzd6bldUcDNWRnQ1X3JWdE9FZ2JpNkw4RQ?oc=5>
+- **特朗普** | 特朗普提词器操作员借职务之便提前掌握演讲稿，对十余场重要演讲下注，非法获利逾10万美元 <https://news.google.com/rss/articles/CBMiywFBVV95cUxNUU9qRllJell6dHBkRTRRcWdfaEs0OXE4TmpKMURSQjlyV3Z4cDJvc0liTDFockZtVFY5YlRzNktjX3ZPZjdoa2JCQ2RZNE00a3MxRXktNXB5ajhXVVZfajlfdVVpTmxYaTlZQ2dhY00xMXlJcmZyZHJzRUpJbExLVTRXSVoyN1BMQW5Bei02UjB2MTY5ZTVpVXVJVGVxaEd3SFpZT1Fkb0paNG1vTEFhcV84M2xfREFSNlNkLUZYUGZBSnlhSE5Qc3EwYw?oc=5>
 
 ### 2026-07-19 09:24  (3 条)
 
