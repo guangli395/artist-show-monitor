@@ -1,40 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-19 14:36**
-- 本轮扫到 7284 条, 新增 **3** 条
+- 最近更新: **2026-07-19 15:51**
+- 本轮扫到 7285 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (1 条)
 
-### 特朗普威胁加税！加拿大回应→
+### 特朗普提词器操作员借职务之便提前掌握演讲稿，对十余场重要演讲下注，非法获利逾10万美元
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-19 12:13
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTFBkSEpZYzBLc2NrQ1IxcGhsejNiSUVJaTBndi1FQnBTaF9MVFEzWDdoVTlTZ3RQamt3SW9WaVprZHNZSGI2Y19UemxnQWstanltRlJGd1YtcEdleU41MmgxcDgwVkpKOGxja1pkZ2Z6QkR5UUpfQVE?oc=5>
-
-### 美国援外大转向：特朗普要向欧洲输出“MAGA”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-19 08:48
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9pTFRaQ3M0VVMzOExlclNWSXNwcjljVGdaLWJ3THlvRjJzQmE1OHJ5eXpDeGJuR0xlU3hQTy1KUjRiRU1mOF9XM2U4RGc?oc=5>
-
-### 万斯叫板特朗普！太牛了！这样的美国拿什么跟中国拼？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机网易网
-- 时间: 2026-07-19 08:14
-- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE0xVzFkVkdla2Q1MDdHc3pmSHpuNEpaQUhYODQtaVFCOE1ucXlKby1hS08zaU5sY25WZ1R2MUN3QkNMX2o2eUxDTy1CbVZ5V3pVRHJRX1QwcDlFbjlyLVl5TmhR?oc=5>
+- 时间: 2026-07-17 03:21
+- 链接: <https://news.google.com/rss/articles/CBMizgFBVV95cUxQUUdzdUdNRmI4b090X3FKdkNqNkU2bERUX1FxRWx5MEpkRUp6Sy1TajNScnEyMUQydlZ6Z0VaeFc1aS1nbzlRWUVZMVFfZ3dTTUdON1lnUHRMOWlreFZWSWx2STFIcVBYRGZiYUo3cGpsZTlGaWdEbGIwZWpNcmI1X1phMERfVEExVFkxTlgwQ3ZDZUpiX2F2UGNNaUZOMFNtdWNfMkpmTHRBSjVJei1sMUc2SUhiTnlzbkVfNlhXalVqMDFKS2lfSmwzaVhjZw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-19 15:51  (1 条)
+
+- **特朗普** | 特朗普提词器操作员借职务之便提前掌握演讲稿，对十余场重要演讲下注，非法获利逾10万美元 <https://news.google.com/rss/articles/CBMizgFBVV95cUxQUUdzdUdNRmI4b090X3FKdkNqNkU2bERUX1FxRWx5MEpkRUp6Sy1TajNScnEyMUQydlZ6Z0VaeFc1aS1nbzlRWUVZMVFfZ3dTTUdON1lnUHRMOWlreFZWSWx2STFIcVBYRGZiYUo3cGpsZTlGaWdEbGIwZWpNcmI1X1phMERfVEExVFkxTlgwQ3ZDZUpiX2F2UGNNaUZOMFNtdWNfMkpmTHRBSjVJei1sMUc2SUhiTnlzbkVfNlhXalVqMDFKS2lfSmwzaVhjZw?oc=5>
 
 ### 2026-07-19 14:36  (3 条)
 
