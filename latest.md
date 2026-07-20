@@ -1,100 +1,96 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-20 08:22**
-- 本轮扫到 7336 条, 新增 **11** 条
+- 最近更新: **2026-07-20 11:20**
+- 本轮扫到 7345 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (11 条)
+## 本轮新发现 (9 条)
 
-### 湖经广播台正式发布蔡徐坤新歌ColderReaction
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6041830381_m1681f03ed053016178.html>
-
-### 周星驰功夫女足放大招？周杰伦唱主题曲，五月天阿信也会参与吗
+### 谢霆锋要来温州开演唱会
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001908b17a.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001908b9tg.html>
 
-### 特朗普、因凡蒂诺被嘘
+### 演员余文乐宣布离婚！女方王棠云被称为“皮带千金”，比余文乐小7岁，参演过周杰伦、张靓颖的MV
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://finance.sina.com.cn/wm/2026-07-20/doc-iniimzhh4956408.shtml>
+
+### 特朗普：我们必须再次举办这项赛事，而且要在我在任期间实现
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-20 01:10
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFB5VzZqMjFIOTVnRWJyaW45LS1kX1RpVlJqTTFSY3hESXdFQnFVNkhmU0JGMHJycWVNc0Z5eWRwZ2Q2X0pmZU5DWndfeEdQYjVDU3Y4aGdGZUZXeFN0eUotMV8xRFFBaGs4aEJfNXFBaXlINEl5QzZJdA?oc=5>
+- 时间: 2026-07-20 09:29
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE5JcVNRTmNtWHdnYzNacEEyb1FIUnZEZFN5U1FIV0tSbFFqNnJmRjJUVlVXc1BXSmV0eVFVbFNramV0TjlvdWtaejEyXy1ETURXWW9iUEdFTEZmX1ZTcjh3WkpkLV81c1dqb2dyeS1rVkZzZUFtRFE?oc=5>
 
-### 特朗普世界杯颁奖后赖在台上不走，国际足联主席也没辙
+### 美媒：特朗普嘴里“毫无希望的坏人”赢得了他的世界杯
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-07-20 00:15
-- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE03aG9tcTV0SVNMeTZQdHo4Q2xUMVBtcnVoVjVwTE01ZEJKU2ZCVVd0LW94VXlzYndBTXduUm1xYXVxZ0xMTGI5THJJcjFTWHc?oc=5>
+- 时间: 2026-07-20 06:53
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1JZ19LNGlrY0tkZ2JqUDhpYlZkeHRoblNuMjR3NzBCUmk0cEtYWVVCVjdzeHFGNEdEYVRpUkJwcE91ZEFmR1lIZFFqbTk?oc=5>
 
-### 特朗普总统指控中国干预美国选举并公布相关细节
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-07-17 23:20
-- 链接: <https://news.google.com/rss/articles/CBMi6wFBVV95cUxOdHJfd3BxSUpMTzJScE9lX281WHlZR3NqbEF0VjFJMW04eDNpc3RlMm1LWHUxdTIyM01vNHZhVXhaY0Fhc2tQbUdhRU9sLXlweG05ZVI5RGstc3RNS3Y2X3NzUlcwNXp6QWUzcEJfY0ZOZGJQTHc2TDhDQ1NHYnJOU1hlZFlsVjE0WTAwUDNUS3VIZ3JTX1cwQ2dQbGVSZ2NYTzdFM0RfUVNYbDdra3NtQWRQcVdXQVZrWmhvYklMd0VCei1Sb0RVU2pCMnBoYkRaODJXSzZBREExNjB1VlowWUJjR0RqNFdnOGpJ0gHuAUFVX3lxTE5hWURCOUVNV1lwcUcxazEwcFFLbFBDVk4tUWRMalFLbi1vNHhwR2oyUkJVWnJHMlFybGxRb3o0dFlaWnE4d1FGMjVVZHdPVjQ5QWU4UUlFdzJSSjBfdzIzcGg3UlRjMFFHc1Jqa014dGtfX0Q0cGhBdzMyRWFZa2lZRDFkSDdGeXZGeU5xTEZ3N1B5YzFlOXNpUFdBVldzNUdZb0swUm5tWjIyTTFWNXBidHYxcndrWEJpUmlvdVA4R3puU2JmSC1NVkVZLW5KQ0hRTWdzUFJxNVNKWU1sMzlhMU5IcDhBczU0THBzRmc?oc=5>
-
-### 特朗普现场观看决赛，美方部署F-16战机、军方狙击手、数千名FBI特工参与安保
+### 加拿大山火肆虐影响美国 特朗普放话：要么赔钱，要么加关税！
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-07-20 08:18
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5LVnoxSGZuVWZENTVlS3VSa0QwU3RqNWcwVjc5WTN2RjdsYlZVd0JVaUg4bUJ2eDJ3MGxqR1BBend0WHNOYjZNS05DcERZcG9vU0Y2WWg1X2pXSVVTODN6MWI2MFhSUElrVG1DZ01GeWU?oc=5>
+- 场馆: 财联社
+- 时间: 2026-07-20 07:14
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE5zcjE4TTRXdzNEdkJ3MmdwQVd4a01lUXNtQW40WFFQMy1XNFF5Q3RaYTR4MUpMelF6RjBCc0pXWndXMXVfY2JzXw?oc=5>
 
-### 我当面告诉加总理，你们得赔钱
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-07-20 03:10
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5nMTViTnNSaHc2RS1QVkg3a181UzlNaWxSQ01QdklVM2J3WTZzTW5FZHhzRGxRUjhmRXd1YmlyWWZkZ1lwY3BvRHpHeWlRb1ZtYi0tV2k1blQwY3hva2phdEI4NEJicFQ5X0E?oc=5>
-
-### 特朗普称新空军一号将进行升级 即将送走改造
+### 特朗普称新空军一号将升级改造
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-07-20 07:32
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE54Q2NDcUFacEk1cVVyc2F1UFd1VFoyTEFsQTFOV0NzUHVxeTBIbVE4NkpfM1Fvd2dyRWpUdEd2MXNrZjc1aEgtRmdRajZSSHBQSVZKMUVsUFZvRnJHQ2JGUUhvQnd2MXlpbjhVQ25NTjU?oc=5>
+- 场馆: 东方财富
+- 时间: 2026-07-20 06:45
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFWURCeDRKczZfbDV0LS1tWmIyeFQ1b0RnT3RFTm0xbE1xVndSR3NHNWQ2dVpTZ3dRUmV4S3RPWnB4UVpheDZwbXhXdUxZOTZDVVZPby1VdFdtaWNBdUV6cWlPU2Etdw?oc=5>
 
-### 特朗普给西班牙队颁发大力神杯后，未按照惯例退场
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-07-19 16:00
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1GLVNEMUN5Z2hDUmxQOXlvVTBzZnQ3UzRtaktaTWdIQWFaam9waUpPUC1tODdmWUVxMTdWY1BEZUxNUDhWbU5nbXJfT0dua1g2YXBhQmVWMTV3dE1SUHZ1TVZUb0c?oc=5>
-
-### 安全性能引发质疑后，特朗普称卡塔尔赠送的新“空军一号”将进行升级
+### “有其父必有其子”？小特朗普夸女儿“性感”挨轰：太诡异了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 腾讯新闻
-- 时间: 2026-07-20 05:30
-- 链接: <https://news.google.com/rss/articles/CBMibEFVX3lxTFAxODMxQ1JIZ0FlNXpIS3RZNXljc041WTRLQWZhOWd0UTVBdGZDby1PZ3dPdFFkMW82bGZob1hoRHRuRnRTc05wa2tDc2ZFSDJOWW45Y0RXNTdUaGRTMEE3RzhtWjVWa0pUczRCMw?oc=5>
+- 场馆: 手机网易网
+- 时间: 2026-07-20 08:46
+- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE9lSnJQek1ZQXhqalFuY21JLTZlcTBFQjhiZFNRbVp2aHAwZkU0dkd0bnNZbkptRnlLOXlYcnc2bXk4OFhTMHZTVHdnSUdhdm9VVk8wdjNGRHBnb0NQWVJqOW1R?oc=5>
 
-### 无视嘘声和让其离场的手势……Trump在西班牙夺冠庆祝仪式上再犯“抢镜本能”
+### 视频丨特朗普称新“空军一号”将进行升级改造
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 21财经
+- 时间: 2026-07-20 07:51
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxPX3hLX3gzMjJ0YUNnZ2tpR2gwZ3hkdDhTeGJrV3hjLXVXX3Y0eGtYQzd2dU1PQUNMaFpzOXJFWjdiaUY0UDhhbkZUbXdNdUJWWjN2blZoZV9icWRxNlRibGU5WHVGUlgzb3VHNXBEM1dpWldVMHdGSDdFRDY4cHQtY2ZjeVM1TTRuYjBGcw?oc=5>
+
+### 特朗普确认出席世界杯决赛
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 아시아경제
-- 时间: 2026-07-20 04:49
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzekhHSjZvWTJGZkF3SFprN1lwUXk1T3ZwMGo4R1BLWkFydW9mZkFYVWt6Um9VVHdTWUktQThibWxSVXJtQ25hYlVUMjNqWml2TG1xY2xBa2drWHBjOEV4SU13LUw?oc=5>
+- 场馆: 手机网易网
+- 时间: 2026-07-18 10:07
+- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE5tMm5OM0VrZVpQQW5OVWNWenRwRDVvVGNSVlA3VTJOMVJ6QjdySUViTndDVGdqZ2hMVHFDSmdIUWRyTFYxM19oa3JodGdpRDZ1c3FZei1La3NhR1pHRzZhY0dR?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-20 11:20  (9 条)
+
+- **周杰伦** | 谢霆锋要来温州开演唱会 <https://k.sina.com.cn/article_7857201856_1d45362c001908b9tg.html>
+- **周杰伦** | 演员余文乐宣布离婚！女方王棠云被称为“皮带千金”，比余文乐小7岁，参演过周杰伦、张靓颖的MV <https://finance.sina.com.cn/wm/2026-07-20/doc-iniimzhh4956408.shtml>
+- **特朗普** | 特朗普：我们必须再次举办这项赛事，而且要在我在任期间实现 <https://news.google.com/rss/articles/CBMidkFVX3lxTE5JcVNRTmNtWHdnYzNacEEyb1FIUnZEZFN5U1FIV0tSbFFqNnJmRjJUVlVXc1BXSmV0eVFVbFNramV0TjlvdWtaejEyXy1ETURXWW9iUEdFTEZmX1ZTcjh3WkpkLV81c1dqb2dyeS1rVkZzZUFtRFE?oc=5>
+- **特朗普** | 美媒：特朗普嘴里“毫无希望的坏人”赢得了他的世界杯 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1JZ19LNGlrY0tkZ2JqUDhpYlZkeHRoblNuMjR3NzBCUmk0cEtYWVVCVjdzeHFGNEdEYVRpUkJwcE91ZEFmR1lIZFFqbTk?oc=5>
+- **特朗普** | 加拿大山火肆虐影响美国 特朗普放话：要么赔钱，要么加关税！ <https://news.google.com/rss/articles/CBMiSEFVX3lxTE5zcjE4TTRXdzNEdkJ3MmdwQVd4a01lUXNtQW40WFFQMy1XNFF5Q3RaYTR4MUpMelF6RjBCc0pXWndXMXVfY2JzXw?oc=5>
+- **特朗普** | 特朗普称新空军一号将升级改造 <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFWURCeDRKczZfbDV0LS1tWmIyeFQ1b0RnT3RFTm0xbE1xVndSR3NHNWQ2dVpTZ3dRUmV4S3RPWnB4UVpheDZwbXhXdUxZOTZDVVZPby1VdFdtaWNBdUV6cWlPU2Etdw?oc=5>
+- **特朗普** | “有其父必有其子”？小特朗普夸女儿“性感”挨轰：太诡异了 <https://news.google.com/rss/articles/CBMiYkFVX3lxTE9lSnJQek1ZQXhqalFuY21JLTZlcTBFQjhiZFNRbVp2aHAwZkU0dkd0bnNZbkptRnlLOXlYcnc2bXk4OFhTMHZTVHdnSUdhdm9VVk8wdjNGRHBnb0NQWVJqOW1R?oc=5>
+- **特朗普** | 视频丨特朗普称新“空军一号”将进行升级改造 <https://news.google.com/rss/articles/CBMijAFBVV95cUxPX3hLX3gzMjJ0YUNnZ2tpR2gwZ3hkdDhTeGJrV3hjLXVXX3Y0eGtYQzd2dU1PQUNMaFpzOXJFWjdiaUY0UDhhbkZUbXdNdUJWWjN2blZoZV9icWRxNlRibGU5WHVGUlgzb3VHNXBEM1dpWldVMHdGSDdFRDY4cHQtY2ZjeVM1TTRuYjBGcw?oc=5>
+- **Trump** | 特朗普确认出席世界杯决赛 <https://news.google.com/rss/articles/CBMiYkFVX3lxTE5tMm5OM0VrZVpQQW5OVWNWenRwRDVvVGNSVlA3VTJOMVJ6QjdySUViTndDVGdqZ2hMVHFDSmdIUWRyTFYxM19oa3JodGdpRDZ1c3FZei1La3NhR1pHRzZhY0dR?oc=5>
 
 ### 2026-07-20 08:22  (11 条)
 
