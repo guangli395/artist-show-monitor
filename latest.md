@@ -1,64 +1,100 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-20 01:02**
-- 本轮扫到 7316 条, 新增 **6** 条
+- 最近更新: **2026-07-20 05:01**
+- 本轮扫到 7325 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (9 条)
 
-### 特朗普怎么拉都不走，“咔嚓”…
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-07-19 23:41
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBVVWRMTlJuanFneW9heXFTSzA4dHo3VFhZS2xKM205Nk1IQXlhZ2lxOUVCcU1jcHgyVVpldGE5eUphQ3ZmV1RZcmtlNGdTMXlrWDJ5ZFl4NzNoZ05xNFlRc2NuczFqVFJ0Z3c?oc=5>
-
-### 特朗普指责加拿大野火“年年殃及美国”，称将污染成本计入关税
+### 柏林《每日镜报》：美国“选举安全的噩梦”并不是中国，而是美国自己的总统
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中国经济网
-- 时间: 2026-07-19 23:22
-- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTE04ZTdNVHQwUnFxSWd1ZFNUSzIwMWlueGJ4TWZDTUhwME5LRHhSM1pkbEFtQ1lBRXh6UE84b2NvZE5FQVVXUjBKajBoejN5M0U1YzV3X2FmdGdsRXZEYlhhYkI5RQ?oc=5>
+- 场馆: RFI
+- 时间: 2026-07-19 16:58
+- 链接: <https://news.google.com/rss/articles/CBMizANBVV95cUxOLTJ0VGJSWi1UY3JmbUV5OU9qbVZleHp5X3VsbnJFTEZ6WERzck53NG1RSFFaR00yRWtWa1pYMEdFMFN0UlZOTGxNNUp1N1o2c2VKcFU4YzRjQjM4MDY1cEI3RlZoX3FYdjN4SnQ0LTd5bnNrSFNYdTZnYnVIdW9RSEZrOE1UNVF3Zlh4LWhqc2FubEpiNHJja0VWY3dXWm50Y0huSElRTTd5LVFFOHoyLW5YRUt5VndCbVplTEFpenlBUHg4QmhKMTNXOEdnTjFkc3ZjSTNyZVczMEhOWElvMFN1VFQtXzhnWDJmOGlHMUR5Y2s4Yjh5NXJ3a2hUZDRHQzdGaWdGaE8wcEV4ajR0anlOQnViT0lOMWJHSUFIQkFQeDZkV0ZvX3ZOc2pIWVp3b3RpSkhqRXljTTVWSkMxLWRXQVMyU1RncG13YkVUZTFJSHJFOEVqSnRja3FPTDlRaUxqZmFyQndwUjlwaDE4akYwM2NQTmpzN3E1cHZYSG8wcEI5YlVNNjRxdXJENURYNUZvUFhVemdqeEVJd0k4Q3I3UzhGeXBSRTVDTmwxR2F2YThnSWQ4TjZIQUlzWlRNdE1jcGRSYjBVVnFi?oc=5>
 
-### 西班牙球员试图请特朗普离开捧杯舞台，但并未成功！
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-07-20 01:00
-- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxORUxLemMxWk9xN3o1NlZhVGh2ZWpRNHhGVkZiazAydGQtQ1p5WVFxYk5BUk1NdWJhaFZ2OWhGSDJnWGhwYXlaRURCOHBUUlZXOTNwZGNEbTA3djRkNFRlYjJQTGtFaV9oN01kLWpZQUZMejdtT3Bqc0dHb1dYMEVEZQ?oc=5>
-
-### 17名美军死亡后，特朗普仍未亮牌：美伊战争下一步走向成谜
+### 特朗普称正“猛烈轰炸”伊朗 为三名身亡美军报仇
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-20 00:22
-- 链接: <https://news.google.com/rss/articles/CBMisAFBVV95cUxQTktqTFV1VHZiNExXaHNrMXRrZDNBYzZpY1hqWnRFTnlLNi1DOFNnV1k0dlE0aXdNOWtZb1F1a0JWVVVmRVdsRDU5aHBaSjZmWjk2eTh3Wkp2ZGpTUjhncVJHbjVmamwtZmdmQWtzUkpJaHJOS190Xy1PVHlFUnRMajlVTERrbVpEbko1RnV0WXVWNERMUnQ2bVB6akdpenp0T0VHMFRtWlk4eldzU0xFVw?oc=5>
+- 场馆: 央视网
+- 时间: 2026-07-20 01:24
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1uTGlkUnZTZ2F2ckNqcHpNUmViOEJRZEFlR1NhVkdNSWM2VlBuVVNnZllHYTY1cGZ6Q0xiY3NqWVVOZXp5ZGRNX2x6N2I5QTUtdktHR3hVcVo2ZmYzMFdQLVg1TE5EZlBjVGNreHpqZWZQcmdnUjBWTA?oc=5>
 
-### 暗杀威胁拦不住特朗普：世界杯决赛还没开打，他就已经“抢戏”了
+### “自己人”反水，特朗普在最高法院遭遇耻辱性惨败
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-07-20 02:46
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFB2TWNLam9RVk1MSlYyOE5tVFJaQnY1UXJKSjVxcE05X1YyMzRVRHdBMERxUXIxalBOMWdNU0VSdmpfLWxhZzAxLUc4QWxCWER4MDBnSVpGcFNqczhSd0Jwc1RITWotR0I3ZzRSd3Z0elQ?oc=5>
+
+### 特朗普怒批加拿大山火，称美国将把污染成本加入关税
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-18 15:37
-- 链接: <https://news.google.com/rss/articles/CBMi0wFBVV95cUxQR0FEbnBBY2dFVENSYXN4TDVCaTYyaEZjaHd5cGdWcWVhdUotYjdHdXBuTWdHOXJ2WXlTdl83SWZGTTU3VU9PdmE0d2o3bFVCdzRyc3VYYUtRNmZmUUNFZW1jd2JUQ3I4Q0FuQUF4OHRWNDJGRlhwbk5HWnEwMFl5TUMtZUlfb21vM2pLcmVQME9HUERGU3NDdUNabHF5UEo0Y1J3WlVLZWFJX0RISllOVDJ6MXg0UVFVYjBzSnBCc0NtaFVaVjl5UWtjUmszTzlPa21j?oc=5>
+- 时间: 2026-07-17 21:38
+- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxNZV9pTjh0N2RNbG9La3VCNVBXWC1KT05sdEVPUjZfSGZUSDJCTDJxRzF1TTI3SmZERDNQbkxPNERXUGVhN3dUU0JpaDRBVjZLQUJzNURhQmlNbUlsTDV1NnRGQjVJaVdmWG9IcV9GTUJEWXhwbjhpaWUtLTk1SWpTRktPYnRCQ0ROQWk1VDNrVQ?oc=5>
 
-### 特朗普：知道你们看我发帖炒股，现在月付10万美元，提前几秒告诉你们
+### 安全性能引发质疑后，特朗普称卡塔尔赠送的新“空军一号”将进行升级
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 环球网
+- 时间: 2026-07-19 13:56
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE55bmJPb21rRzl0enhhQ29EMmZCd3JjSGN5NkNKRG9OMkpDNldzYVJzaHM3cVIxN04zek5iUnVUYUVZOHBuY2JGa3BkOXF3R2szV3RvWGh5dlc?oc=5>
+
+### 80岁特朗普签名登美钞！主持人看后笑喷，笔迹与爱泼斯坦涂鸦神似
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 手机网易网
-- 时间: 2026-07-20 00:16
-- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE9OV05kY2hDMVdRMkJWeVZ0SjR1U3ptVVpYejJQM25QQUdTMVZiYXg2R2dxbkZ3eFhHZkp2Nl82RXRvd1dqTndOdHZlRU55NEVma01sS1hQYUVoWjVsOHc2Z1J3?oc=5>
+- 时间: 2026-07-20 04:52
+- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE5YYTlTbGVaeU9TLWU2RHJhNTBMTEpJQktFdWNtM21MVEZFUllobm5TeWZzcTVoLTR6cG9Wcmg1VDl2VjFsZTZsQVVQdWwyUEM1M016M0NRc3dacTdBR3ZyWlp3?oc=5>
+
+### 特朗普：被告知Giant Eagle将在至劳动节期间降低商品价格。
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-20 00:35
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1xa01kRE5fa0Q4ZGs5RVVXbzZvSW9TcEJ6aU13VWtUd2RuNnJtUGFuaHhGNS1La1AtUXd6WkJGNVVJVnYyaXllbkNOcw?oc=5>
+
+### 川普世足颁奖硬挤合照！全场8万人狂嘘
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 文学城
+- 时间: 2026-07-20 03:31
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE51T1Q2UmRMVE5sYl9YcGVWank1dVVzTUtMNk14bmdEMVV0OWVWTWg2dUdMVzUzajlTb3lrQWVEOElSZFB0cUpPZm5TM054T25UVVpoNmFZNFpuRV9QZXNGc2hUMmFub1Rt?oc=5>
+
+### 无视嘘声和让其离场的手势……Trump在西班牙夺冠庆祝仪式上再犯“抢镜本能”
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 아시아경제
+- 时间: 2026-07-20 04:49
+- 链接: <https://news.google.com/rss/articles/CBMihgFBVV95cUxPWmtHZkxiTkxGR2NsYWtaM1BoT0RmMTJNQjRKWFg4Nnl6Z25WUmF3MTZqSlNKMzNlVWE4MC1Gc1BzVkJrTzRrQWJrMHMydmVubzJNaDRJWlFfVE8zSHpjeWFia09SMDk3S0dDN3JwV213UW9jbTBZcnNuM09BWXlva3Fud0Fudw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-20 05:01  (9 条)
+
+- **特朗普** | 柏林《每日镜报》：美国“选举安全的噩梦”并不是中国，而是美国自己的总统 <https://news.google.com/rss/articles/CBMizANBVV95cUxOLTJ0VGJSWi1UY3JmbUV5OU9qbVZleHp5X3VsbnJFTEZ6WERzck53NG1RSFFaR00yRWtWa1pYMEdFMFN0UlZOTGxNNUp1N1o2c2VKcFU4YzRjQjM4MDY1cEI3RlZoX3FYdjN4SnQ0LTd5bnNrSFNYdTZnYnVIdW9RSEZrOE1UNVF3Zlh4LWhqc2FubEpiNHJja0VWY3dXWm50Y0huSElRTTd5LVFFOHoyLW5YRUt5VndCbVplTEFpenlBUHg4QmhKMTNXOEdnTjFkc3ZjSTNyZVczMEhOWElvMFN1VFQtXzhnWDJmOGlHMUR5Y2s4Yjh5NXJ3a2hUZDRHQzdGaWdGaE8wcEV4ajR0anlOQnViT0lOMWJHSUFIQkFQeDZkV0ZvX3ZOc2pIWVp3b3RpSkhqRXljTTVWSkMxLWRXQVMyU1RncG13YkVUZTFJSHJFOEVqSnRja3FPTDlRaUxqZmFyQndwUjlwaDE4akYwM2NQTmpzN3E1cHZYSG8wcEI5YlVNNjRxdXJENURYNUZvUFhVemdqeEVJd0k4Q3I3UzhGeXBSRTVDTmwxR2F2YThnSWQ4TjZIQUlzWlRNdE1jcGRSYjBVVnFi?oc=5>
+- **特朗普** | 特朗普称正“猛烈轰炸”伊朗 为三名身亡美军报仇 <https://news.google.com/rss/articles/CBMieEFVX3lxTE1uTGlkUnZTZ2F2ckNqcHpNUmViOEJRZEFlR1NhVkdNSWM2VlBuVVNnZllHYTY1cGZ6Q0xiY3NqWVVOZXp5ZGRNX2x6N2I5QTUtdktHR3hVcVo2ZmYzMFdQLVg1TE5EZlBjVGNreHpqZWZQcmdnUjBWTA?oc=5>
+- **特朗普** | “自己人”反水，特朗普在最高法院遭遇耻辱性惨败 <https://news.google.com/rss/articles/CBMicEFVX3lxTFB2TWNLam9RVk1MSlYyOE5tVFJaQnY1UXJKSjVxcE05X1YyMzRVRHdBMERxUXIxalBOMWdNU0VSdmpfLWxhZzAxLUc4QWxCWER4MDBnSVpGcFNqczhSd0Jwc1RITWotR0I3ZzRSd3Z0elQ?oc=5>
+- **特朗普** | 特朗普怒批加拿大山火，称美国将把污染成本加入关税 <https://news.google.com/rss/articles/CBMijwFBVV95cUxNZV9pTjh0N2RNbG9La3VCNVBXWC1KT05sdEVPUjZfSGZUSDJCTDJxRzF1TTI3SmZERDNQbkxPNERXUGVhN3dUU0JpaDRBVjZLQUJzNURhQmlNbUlsTDV1NnRGQjVJaVdmWG9IcV9GTUJEWXhwbjhpaWUtLTk1SWpTRktPYnRCQ0ROQWk1VDNrVQ?oc=5>
+- **特朗普** | 安全性能引发质疑后，特朗普称卡塔尔赠送的新“空军一号”将进行升级 <https://news.google.com/rss/articles/CBMiWEFVX3lxTE55bmJPb21rRzl0enhhQ29EMmZCd3JjSGN5NkNKRG9OMkpDNldzYVJzaHM3cVIxN04zek5iUnVUYUVZOHBuY2JGa3BkOXF3R2szV3RvWGh5dlc?oc=5>
+- **特朗普** | 80岁特朗普签名登美钞！主持人看后笑喷，笔迹与爱泼斯坦涂鸦神似 <https://news.google.com/rss/articles/CBMiYkFVX3lxTE5YYTlTbGVaeU9TLWU2RHJhNTBMTEpJQktFdWNtM21MVEZFUllobm5TeWZzcTVoLTR6cG9Wcmg1VDl2VjFsZTZsQVVQdWwyUEM1M016M0NRc3dacTdBR3ZyWlp3?oc=5>
+- **特朗普** | 特朗普：被告知Giant Eagle将在至劳动节期间降低商品价格。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1xa01kRE5fa0Q4ZGs5RVVXbzZvSW9TcEJ6aU13VWtUd2RuNnJtUGFuaHhGNS1La1AtUXd6WkJGNVVJVnYyaXllbkNOcw?oc=5>
+- **Trump** | 川普世足颁奖硬挤合照！全场8万人狂嘘 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE51T1Q2UmRMVE5sYl9YcGVWank1dVVzTUtMNk14bmdEMVV0OWVWTWg2dUdMVzUzajlTb3lrQWVEOElSZFB0cUpPZm5TM054T25UVVpoNmFZNFpuRV9QZXNGc2hUMmFub1Rt?oc=5>
+- **Trump** | 无视嘘声和让其离场的手势……Trump在西班牙夺冠庆祝仪式上再犯“抢镜本能” <https://news.google.com/rss/articles/CBMihgFBVV95cUxPWmtHZkxiTkxGR2NsYWtaM1BoT0RmMTJNQjRKWFg4Nnl6Z25WUmF3MTZqSlNKMzNlVWE4MC1Gc1BzVkJrTzRrQWJrMHMydmVubzJNaDRJWlFfVE8zSHpjeWFia09SMDk3S0dDN3JwV213UW9jbTBZcnNuM09BWXlva3Fud0Fudw?oc=5>
 
 ### 2026-07-20 01:02  (6 条)
 
