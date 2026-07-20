@@ -1,84 +1,53 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-20 11:20**
-- 本轮扫到 7345 条, 新增 **9** 条
+- 最近更新: **2026-07-20 13:23**
+- 本轮扫到 7349 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (9 条)
+## 本轮新发现 (4 条)
 
-### 谢霆锋要来温州开演唱会
+### 王一博是否会定期发布类似的居家生活影像？
 
-- 艺人/关键词: **周杰伦**
+- 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001908b9tg.html>
+- 链接: <https://k.sina.com.cn/article_7879849295_1d5acf54f06801j7cw.html>
 
-### 演员余文乐宣布离婚！女方王棠云被称为“皮带千金”，比余文乐小7岁，参演过周杰伦、张靓颖的MV
+### 特朗普、因凡蒂诺被嘘
 
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://finance.sina.com.cn/wm/2026-07-20/doc-iniimzhh4956408.shtml>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-07-20 01:10
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1uZUV0WXFzT24zUUxmejNOVTdlVWN1ajZXMTRlSlJZdDQyMDhGVWVUMXhCT2dUNGJyakQ4R1gzcEpJY3BJdllJXzd3RXJhclhaeDh4ak1ib0dsRG9meTVKaDR6czNqY2ViSWc?oc=5>
 
-### 特朗普：我们必须再次举办这项赛事，而且要在我在任期间实现
+### 伯纳姆就任英国首相，特朗普痛批英国是 “深陷贫困的烂摊子国家”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-20 09:29
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE5JcVNRTmNtWHdnYzNacEEyb1FIUnZEZFN5U1FIV0tSbFFqNnJmRjJUVlVXc1BXSmV0eVFVbFNramV0TjlvdWtaejEyXy1ETURXWW9iUEdFTEZmX1ZTcjh3WkpkLV81c1dqb2dyeS1rVkZzZUFtRFE?oc=5>
+- 时间: 2026-07-20 12:11
+- 链接: <https://news.google.com/rss/articles/CBMiigJBVV95cUxOa0IxTF9falRvQlhjT0xBdWdJT2tJNHhXc2h4cENIZ2h6ZVJLeERRUWpGdmI3SEc2OG05S3RYbnM4b2FtMlJVbG9CWlZsSWVjRl9tVzRFSHp0QUVBYmpkREM0N0FXZTUwVDI2SjlYWFY4c0VRQ3pLZEVTRnN4QllEbHV3MHYyZExZdndMc1NCbzh0MGZVUXhQbEhhNTB5bURWY1MwSUJxc29vRzZrYVZhSUlvOGh2aGVTUko0SlNUYkhQYTU5SVJBczEzcmk3NU1IUkd2YnhDbm5jdVhMNkUzWmJpWklfT0IwUXlJY2U4MlpqQ0VTYkV2MGhlb2d3ZWh2UGY5NVNrdjJ5Zw?oc=5>
 
-### 美媒：特朗普嘴里“毫无希望的坏人”赢得了他的世界杯
+### 安全性能引发质疑后，特朗普称卡塔尔赠送的新“空军一号”将进行升级
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-07-20 06:53
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1JZ19LNGlrY0tkZ2JqUDhpYlZkeHRoblNuMjR3NzBCUmk0cEtYWVVCVjdzeHFGNEdEYVRpUkJwcE91ZEFmR1lIZFFqbTk?oc=5>
-
-### 加拿大山火肆虐影响美国 特朗普放话：要么赔钱，要么加关税！
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-07-20 07:14
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE5zcjE4TTRXdzNEdkJ3MmdwQVd4a01lUXNtQW40WFFQMy1XNFF5Q3RaYTR4MUpMelF6RjBCc0pXWndXMXVfY2JzXw?oc=5>
-
-### 特朗普称新空军一号将升级改造
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-07-20 06:45
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFWURCeDRKczZfbDV0LS1tWmIyeFQ1b0RnT3RFTm0xbE1xVndSR3NHNWQ2dVpTZ3dRUmV4S3RPWnB4UVpheDZwbXhXdUxZOTZDVVZPby1VdFdtaWNBdUV6cWlPU2Etdw?oc=5>
-
-### “有其父必有其子”？小特朗普夸女儿“性感”挨轰：太诡异了
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机网易网
-- 时间: 2026-07-20 08:46
-- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE9lSnJQek1ZQXhqalFuY21JLTZlcTBFQjhiZFNRbVp2aHAwZkU0dkd0bnNZbkptRnlLOXlYcnc2bXk4OFhTMHZTVHdnSUdhdm9VVk8wdjNGRHBnb0NQWVJqOW1R?oc=5>
-
-### 视频丨特朗普称新“空军一号”将进行升级改造
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 21财经
-- 时间: 2026-07-20 07:51
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxPX3hLX3gzMjJ0YUNnZ2tpR2gwZ3hkdDhTeGJrV3hjLXVXX3Y0eGtYQzd2dU1PQUNMaFpzOXJFWjdiaUY0UDhhbkZUbXdNdUJWWjN2blZoZV9icWRxNlRibGU5WHVGUlgzb3VHNXBEM1dpWldVMHdGSDdFRDY4cHQtY2ZjeVM1TTRuYjBGcw?oc=5>
-
-### 特朗普确认出席世界杯决赛
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 手机网易网
-- 时间: 2026-07-18 10:07
-- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE5tMm5OM0VrZVpQQW5OVWNWenRwRDVvVGNSVlA3VTJOMVJ6QjdySUViTndDVGdqZ2hMVHFDSmdIUWRyTFYxM19oa3JodGdpRDZ1c3FZei1La3NhR1pHRzZhY0dR?oc=5>
+- 时间: 2026-07-20 05:03
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE83eHdBRDd6eEtqaGR4R0o2Y3JJLVV4N3l6NHNyclBtVVNJejZxSzZZQkN3TUszdDVxeW5MckJEb0c5WHg5aGh2XzJMcGg?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-20 13:23  (4 条)
+
+- **王一博** | 王一博是否会定期发布类似的居家生活影像？ <https://k.sina.com.cn/article_7879849295_1d5acf54f06801j7cw.html>
+- **特朗普** | 特朗普、因凡蒂诺被嘘 <https://news.google.com/rss/articles/CBMiakFVX3lxTE1uZUV0WXFzT24zUUxmejNOVTdlVWN1ajZXMTRlSlJZdDQyMDhGVWVUMXhCT2dUNGJyakQ4R1gzcEpJY3BJdllJXzd3RXJhclhaeDh4ak1ib0dsRG9meTVKaDR6czNqY2ViSWc?oc=5>
+- **特朗普** | 伯纳姆就任英国首相，特朗普痛批英国是 “深陷贫困的烂摊子国家” <https://news.google.com/rss/articles/CBMiigJBVV95cUxOa0IxTF9falRvQlhjT0xBdWdJT2tJNHhXc2h4cENIZ2h6ZVJLeERRUWpGdmI3SEc2OG05S3RYbnM4b2FtMlJVbG9CWlZsSWVjRl9tVzRFSHp0QUVBYmpkREM0N0FXZTUwVDI2SjlYWFY4c0VRQ3pLZEVTRnN4QllEbHV3MHYyZExZdndMc1NCbzh0MGZVUXhQbEhhNTB5bURWY1MwSUJxc29vRzZrYVZhSUlvOGh2aGVTUko0SlNUYkhQYTU5SVJBczEzcmk3NU1IUkd2YnhDbm5jdVhMNkUzWmJpWklfT0IwUXlJY2U4MlpqQ0VTYkV2MGhlb2d3ZWh2UGY5NVNrdjJ5Zw?oc=5>
+- **特朗普** | 安全性能引发质疑后，特朗普称卡塔尔赠送的新“空军一号”将进行升级 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE83eHdBRDd6eEtqaGR4R0o2Y3JJLVV4N3l6NHNyclBtVVNJejZxSzZZQkN3TUszdDVxeW5MckJEb0c5WHg5aGh2XzJMcGg?oc=5>
 
 ### 2026-07-20 11:20  (9 条)
 
