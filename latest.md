@@ -1,80 +1,73 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-20 15:26**
-- 本轮扫到 7357 条, 新增 **8** 条
+- 最近更新: **2026-07-20 16:53**
+- 本轮扫到 7363 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (6 条)
 
-### 特朗普喊话国际足联主席因凡蒂诺：美国必须再次举办世界杯，而且要在我在任期间实现，你听到了吗
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-07-20 08:59
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE5TTkUxOFIzM3pKUWxNeGNJY2tkWHFQTDFOdDcwNFZTRk5SdU52QnlST0k4V0xqa04xX1BNY2VzV3ZCaXpQcVByb3d1RlNsTHdnamF6MElzVEhjT1gtUkVmYkxIQURJTF93b2JMUzRROXBYYnU3?oc=5>
-
-### 特朗普威胁加拿大：应该赔我们一些损失，或者我们应该收点关税！让其为美国空气遭野火烟霾污染“负责”
+### “绝不妥协”的波音与“一再妥协”的交付，特朗普专机有多“难产”？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 每日经济新闻
-- 时间: 2026-07-20 06:13
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFA1NTFXelNZSmM2WWZuY19IZ1dUY0N2SVplTmk4Z1J3czVqNHZ0Q2N1M1R3cVE4bEtPdHVGRFU2aXljUnF2c1VjVlJITmUtUlVYeTJxVlJKdVRhY1BLbi0yUmZHQVJGUQ?oc=5>
+- 场馆: 观察者
+- 时间: 2026-07-20 10:06
+- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTFAzQlljUGdkQnhrZ2ZEdTFlT05ZemMyY2lJd3RSb2Y3TFdjYWtOUzFIN0VVZlRSVnlkc3FBUEtfTjlTTVAza0RiWmNpbGFoU2pESG5DblJNa2dod21JZE1CanZ3?oc=5>
 
-### 特朗普指责加拿大野火浓烟蔓延至美国：加税！
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-07-18 01:18
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBEajEzR1gzSEV3b0xhZjVyUl9hLWJrQ2pNUEtabkp2SV8teTZaREpZTmdZd1NjYy1EZUdlRU82UDcyZnhRTXJUN2M3VWo5WWh4NHRRTDh5SzNUWnBza2dQa0VLb1N0X1dkOEZEaFNTVEVCcG5fSU9Sc1lBVXpiRm8?oc=5>
-
-### 争执加剧？加拿大野火蔓延至美国多地，特朗普：已和卡尼交谈，他们或许应该支付赔偿
+### 涉新“空军一号”，特朗普最新披露
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-20 03:40
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5nUlB0UGxGdnl1bFVTMy1LUGFleVBYRnJRV09pQUlCWUp3WTFNV2ZjNGEyVndPZFpncU1fdU9FVnRxUkxWVUF6UjZBTVdWYjg2cFgyc0FWV2l6QVdzMEExMVhNRXZ4VkRLQXFHSElxVjcwWUFlUGFzYw?oc=5>
+- 场馆: thepaper.cn
+- 时间: 2026-07-20 15:21
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuSExHWmJlZmhaam5MTVV3T0gzazVuZXIzYkd1bUZFVHJSbzZNUW1ldFp6WWItX2pwVGc5TTlNWEhUTjlpa0RLZ2loRUpvQ1RXTWx5eTNScTJaNzQ0TkE?oc=5>
 
-### 特朗普出席世界杯颁奖仪式 被现场观众狂嘘
+### 特朗普：美国将“狠打”伊朗以祭阵亡美军
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 联合早报
-- 时间: 2026-07-20 00:42
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE04X2dDODE4VG53S3ZQUGU5YWd4T3ZNeEQ3S3FDXzVINExRcVhYazFmajhCZmRiNWFPR21fYlpnYmR2SVVaZ2JRTEpROEpTWThiSERJbzhkSlZjTUlmeTV1TTVzRURiakxyUW5J?oc=5>
+- 时间: 2026-07-20 02:22
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RR0l5bnA3NnlZUnQ4Y2RzWlJiU2VZSTFvWWVKRmVrcHVfZ05uTGxCYVRRYUtuZHZFaGlTdWVoUUIxeGp1R3FzSlZmUjR3TTRXc21PWUdBejU3aVRBemRuTjM2X1ZNZw?oc=5>
 
-### 特朗普颁奖遭如雷嘘声，热辣评论全球刷屏
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-20 14:34
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBKaUFYN1VqMGdnckVvd2VXNlAtazFpRlliazVVLUcyeUlVRVNRaTBvQUt6elM3N2xRVnhlVVNyZTM0ZktkUnFTcmlyR3g?oc=5>
-
-### 特朗普为世界杯冠军西班牙队颁奖
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-07-20 00:14
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xc3YxNnJfcm5qTkRDcUYtVXNLRkFJbW1rYzVjT3NaaXdhZ21ZT3ZZcllWYy05RG5kRV9LQUlPSTk5d0E0ZTE4akNwaXZUWVdvWEExbENSUlFKVWltaThMUFpmSEU2TFpN?oc=5>
-
-### 特朗普“怒斥”中国，但仍寻求与习近平建立良好关系
+### 川普空军一号“俯瞰8万球迷” 画面超震撼
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 茉莉花新闻网
-- 时间: 2026-07-20 14:19
-- 链接: <https://news.google.com/rss/articles/CBMiqAJBVV95cUxNQ2pqRlF3eFdKcXhPamlaNG12dWdzZ2FlZlJxdVRnMi1MWHNHWHdtZFRLckpzVXdndDJWTFNibmM0RHBDb3BOZm9LbjNEQlZlMFZxMVlKN0VhellOekgwLXVURFZhNHdSVzF4aWNZNzN0aURiaFpXSkJLV0RfUWxUMjY2YVRFRFVBNlk5Q1hoa2lnTXpXUWlmUDJPR1BsZFhfX0EzWFluazBfUGNBdmg0c0Y2Y0pFQ3RRenBVSkxtc2ZtX0h0enJxVkU3ZGM2Ukc5YUJVeGVsWDVNX194ZEhQbnFmQzdSOFdmcDNxRGZLWFdMajFVS1Y1bzQzdkhmR05yNTVXM0RFUXJVTERFYWNnWlhRS0dISkpfckIyWHRranU3d2c5RWFVYQ?oc=5>
+- 场馆: 万维读者网
+- 时间: 2026-07-20 00:42
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFByTE5YUHRKdHIzS3VPTWpzWlBUdjBMeGZPamdrNF9Rb0JjS0paUFZLV2ZUTzh4bnpObXROS3JPSWlYb0hLanpRVHA4QkVBc1dwY1VaZFgzemxzNG1GcVQySw?oc=5>
+
+### 决赛现场川普当面施压卡尼 辛鲍姆夹在中间表情亮了
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 文学城
+- 时间: 2026-07-20 15:59
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2bm1IWmR3WWoyN3pENFdONGMyTWlCYml4NDBIcGdENkZKaUZqMGtuVl9rZmlGZXNCUkF2WHktdHBZVFNFYXBETFdMdERJcWlVcnZXaGwyeS1uc1EyNXhiZkdqTlBZWUtv?oc=5>
+
+### US President Donald Trump says US hitting Iran 'very hard’
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: TMGM trading
+- 时间: 2026-07-20 05:06
+- 链接: <https://news.google.com/rss/articles/CBMixgFBVV95cUxQYkJUTU1LN2JFMDFpaVMzYmhVTmc3SldvdGJBZkthRzJocHd6b09PeC1Ic1BrNGxkR1lDYVI4WmpTZVNuQUR0aEk2S294Q19uY2dTWXZBemdwSGZVaXFpMkoxTG12bFhzWWo3R1dRcUc5dFJCdUxodU9BcXRYb2pJQmtDQzl2YlVvU0pvNVhwd2YxLWdfVUJGYnFCQTdTbDhCamYzcS0xX0dwVDRjWEVJODdXeTktZlhKNVhZSGlGNG00RmRkamc?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-20 16:53  (6 条)
+
+- **特朗普** | “绝不妥协”的波音与“一再妥协”的交付，特朗普专机有多“难产”？ <https://news.google.com/rss/articles/CBMiYkFVX3lxTFAzQlljUGdkQnhrZ2ZEdTFlT05ZemMyY2lJd3RSb2Y3TFdjYWtOUzFIN0VVZlRSVnlkc3FBUEtfTjlTTVAza0RiWmNpbGFoU2pESG5DblJNa2dod21JZE1CanZ3?oc=5>
+- **特朗普** | 涉新“空军一号”，特朗普最新披露 <https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuSExHWmJlZmhaam5MTVV3T0gzazVuZXIzYkd1bUZFVHJSbzZNUW1ldFp6WWItX2pwVGc5TTlNWEhUTjlpa0RLZ2loRUpvQ1RXTWx5eTNScTJaNzQ0TkE?oc=5>
+- **特朗普** | 特朗普：美国将“狠打”伊朗以祭阵亡美军 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RR0l5bnA3NnlZUnQ4Y2RzWlJiU2VZSTFvWWVKRmVrcHVfZ05uTGxCYVRRYUtuZHZFaGlTdWVoUUIxeGp1R3FzSlZmUjR3TTRXc21PWUdBejU3aVRBemRuTjM2X1ZNZw?oc=5>
+- **Trump** | 川普空军一号“俯瞰8万球迷” 画面超震撼 <https://news.google.com/rss/articles/CBMiYEFVX3lxTFByTE5YUHRKdHIzS3VPTWpzWlBUdjBMeGZPamdrNF9Rb0JjS0paUFZLV2ZUTzh4bnpObXROS3JPSWlYb0hLanpRVHA4QkVBc1dwY1VaZFgzemxzNG1GcVQySw?oc=5>
+- **Trump** | 决赛现场川普当面施压卡尼 辛鲍姆夹在中间表情亮了 <https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2bm1IWmR3WWoyN3pENFdONGMyTWlCYml4NDBIcGdENkZKaUZqMGtuVl9rZmlGZXNCUkF2WHktdHBZVFNFYXBETFdMdERJcWlVcnZXaGwyeS1uc1EyNXhiZkdqTlBZWUtv?oc=5>
+- **Trump** | US President Donald Trump says US hitting Iran 'very hard’ <https://news.google.com/rss/articles/CBMixgFBVV95cUxQYkJUTU1LN2JFMDFpaVMzYmhVTmc3SldvdGJBZkthRzJocHd6b09PeC1Ic1BrNGxkR1lDYVI4WmpTZVNuQUR0aEk2S294Q19uY2dTWXZBemdwSGZVaXFpMkoxTG12bFhzWWo3R1dRcUc5dFJCdUxodU9BcXRYb2pJQmtDQzl2YlVvU0pvNVhwd2YxLWdfVUJGYnFCQTdTbDhCamYzcS0xX0dwVDRjWEVJODdXeTktZlhKNVhZSGlGNG00RmRkamc?oc=5>
 
 ### 2026-07-20 15:26  (8 条)
 
