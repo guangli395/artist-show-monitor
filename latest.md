@@ -1,55 +1,13 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-20 18:49**
-- 本轮扫到 7368 条, 新增 **5** 条
+- 最近更新: **2026-07-20 20:16**
+- 本轮扫到 7368 条, 新增 **0** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮无新增
 
-### 特朗普现身世界杯决赛现场，观战阿根廷对阵西班牙
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-19 18:14
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1SV0JMWWs1bkl1dVEwNlN1WkhMZTlwdlI1SFBNSi1GeTlXdzI3ZUswYkwwUUEzY2swV1RJb1ktcHQ1bVc4VTNQNWpLR2xpYWRpanJqYThfR2x1d0JmWXY0OVVWVjdBZTd1OU5zcHc4OVRTbE42eGRmOQ?oc=5>
-
-### 特朗普突然翻脸，他是真的怕了！这是中国的好机会
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-07-18 12:58
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9EajJDbGdZU08ycFdjSWM2MFNKZXJ6cDBKYWZzZkxyM29tYi1vWUkxSGV2ekZ1ZEFBc3RSaG42YmMzMjVtaVdBY0RsVnRSMmJJOVVYSlVmTW5kYTVTT0lXR2UwQU9DdHA2QWc?oc=5>
-
-### “特朗普毫无疑问是美国历史上最腐败的总统”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-20 18:09
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9iQV9zVTVSaDY4aU9wSlJVc0xDVFBfa2NPSlU1amFyT2ZwcnZRZjFkbWUzMVZXdENVNUNORW9UTnRoZnBXcUJ3TklmOHk?oc=5>
-
-### 安全性能引发质疑后，特朗普称卡塔尔赠送的新“空军一号”将进行升级
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: QQ News
-- 时间: 2026-07-20 05:30
-- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTE1VODNfT2xrZG9SRW5yMTNHT1h5WjhGLWVmdF9hVmF0UG9RQ1R6bGpEZTVXMWxZMkZ3Mk1uOExwdFZZZzhNZEF3ZGRPdHd2MUlNdkVTc1RmTVB3eUdJeEF1WGpjRHVZNVYyOWNiaUJ3?oc=5>
-
-### 据报道，高频交易公司每月支付$10万，就能比你更早看到特朗普在Truth Social 上的帖子
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-07-20 17:25
-- 链接: <https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ3F0dVB4U3YtSUNZb3VOR3NWUEM4OWd0OUR6OUdCQjVRNldNcndDb2Rxay01VWRNcFJjUTd6Q2FaLVdFcUNuanZBelhZSWpzVk5CM2VJMjU1VjNuMTVwZDUtNXd6V1hYM05tNWliQmtRNmpjR2h1aFVGYnJKeTNxWnBPTHphMDhoanY3ejAtbTFDZkUySmRaMjlIajFXaVQwbUY0WERLc3F4ZUl0MlE?oc=5>
-
-
----
-
+数据库里所有演出/动态都已见过,暂无新增。
 ## 历史发现
 
 ### 2026-07-20 18:49  (5 条)
