@@ -1,40 +1,73 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-19 23:26**
-- 本轮扫到 7310 条, 新增 **3** 条
+- 最近更新: **2026-07-20 01:02**
+- 本轮扫到 7316 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (6 条)
 
-### 特朗普与因凡蒂诺现场观看世界杯决赛 被批“政治利用”体育
+### 特朗普怎么拉都不走，“咔嚓”…
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 共同网
-- 时间: 2026-07-19 22:54
-- 链接: <https://news.google.com/rss/articles/CBMiV0FVX3lxTE93dEVwczRJWGZlTE9HQlk4V0FOSXFSRWRVa3hvRFJxQmNiQ0JXdDVydUJjajdGNDUzYVU0ZlZWdFhyUVR6QWdwZmtaSDNXeEhQek90eVV0OA?oc=5>
+- 场馆: 观察者
+- 时间: 2026-07-19 23:41
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBVVWRMTlJuanFneW9heXFTSzA4dHo3VFhZS2xKM205Nk1IQXlhZ2lxOUVCcU1jcHgyVVpldGE5eUphQ3ZmV1RZcmtlNGdTMXlrWDJ5ZFl4NzNoZ05xNFlRc2NuczFqVFJ0Z3c?oc=5>
 
-### 两天三名美军死亡！美伊冲突失控风险骤升，特朗普迎来关键考验
+### 特朗普指责加拿大野火“年年殃及美国”，称将污染成本计入关税
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中国经济网
+- 时间: 2026-07-19 23:22
+- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTE04ZTdNVHQwUnFxSWd1ZFNUSzIwMWlueGJ4TWZDTUhwME5LRHhSM1pkbEFtQ1lBRXh6UE84b2NvZE5FQVVXUjBKajBoejN5M0U1YzV3X2FmdGdsRXZEYlhhYkI5RQ?oc=5>
+
+### 西班牙球员试图请特朗普离开捧杯舞台，但并未成功！
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 手机新浪网
+- 时间: 2026-07-20 01:00
+- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxORUxLemMxWk9xN3o1NlZhVGh2ZWpRNHhGVkZiazAydGQtQ1p5WVFxYk5BUk1NdWJhaFZ2OWhGSDJnWGhwYXlaRURCOHBUUlZXOTNwZGNEbTA3djRkNFRlYjJQTGtFaV9oN01kLWpZQUZMejdtT3Bqc0dHb1dYMEVEZQ?oc=5>
+
+### 17名美军死亡后，特朗普仍未亮牌：美伊战争下一步走向成谜
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-19 23:20
-- 链接: <https://news.google.com/rss/articles/CBMirwFBVV95cUxQSG5wdFQ3cVlhM0E5OWlrV1JGaGFHU2d6U1ozQ0Z5TWhDd3VFYnNNOVUxYXJWUHV4amx6RUw4Z080QjE3dEotZzVxV2tMOVEzMEU3bGdqSEZsX1NNZjZlYkZzUFNxVTdXdkczSkNIcTh1RVQwWE1BS2J5LW1jeHNoY2wyWWhQT043Ml9Qd0F0WF9tWldIb0owV182NHJHdmFlMUtINWNKbXFyN0d3UGlz?oc=5>
+- 时间: 2026-07-20 00:22
+- 链接: <https://news.google.com/rss/articles/CBMisAFBVV95cUxQTktqTFV1VHZiNExXaHNrMXRrZDNBYzZpY1hqWnRFTnlLNi1DOFNnV1k0dlE0aXdNOWtZb1F1a0JWVVVmRVdsRDU5aHBaSjZmWjk2eTh3Wkp2ZGpTUjhncVJHbjVmamwtZmdmQWtzUkpJaHJOS190Xy1PVHlFUnRMajlVTERrbVpEbko1RnV0WXVWNERMUnQ2bVB6akdpenp0T0VHMFRtWlk4eldzU0xFVw?oc=5>
 
-### 保博物馆还是保特朗普？美国爆发历史真相之争，国会面临选择
+### 暗杀威胁拦不住特朗普：世界杯决赛还没开打，他就已经“抢戏”了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-18 15:37
+- 链接: <https://news.google.com/rss/articles/CBMi0wFBVV95cUxQR0FEbnBBY2dFVENSYXN4TDVCaTYyaEZjaHd5cGdWcWVhdUotYjdHdXBuTWdHOXJ2WXlTdl83SWZGTTU3VU9PdmE0d2o3bFVCdzRyc3VYYUtRNmZmUUNFZW1jd2JUQ3I4Q0FuQUF4OHRWNDJGRlhwbk5HWnEwMFl5TUMtZUlfb21vM2pLcmVQME9HUERGU3NDdUNabHF5UEo0Y1J3WlVLZWFJX0RISllOVDJ6MXg0UVFVYjBzSnBCc0NtaFVaVjl5UWtjUmszTzlPa21j?oc=5>
+
+### 特朗普：知道你们看我发帖炒股，现在月付10万美元，提前几秒告诉你们
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 手机网易网
-- 时间: 2026-07-19 22:47
-- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTFBlcEQ0NDNMNHNJcE1hVWxuOGZ1R1dCNTRMNnQ5STVBSFBCRlJzNENyYjFxZDlUUXdiNmprX29xUG9raURVQkdQZnUxNXRiUC1oSTFOQXk1dE56WW11RmJzdnl3?oc=5>
+- 时间: 2026-07-20 00:16
+- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE9OV05kY2hDMVdRMkJWeVZ0SjR1U3ptVVpYejJQM25QQUdTMVZiYXg2R2dxbkZ3eFhHZkp2Nl82RXRvd1dqTndOdHZlRU55NEVma01sS1hQYUVoWjVsOHc2Z1J3?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-20 01:02  (6 条)
+
+- **特朗普** | 特朗普怎么拉都不走，“咔嚓”… <https://news.google.com/rss/articles/CBMiakFVX3lxTFBVVWRMTlJuanFneW9heXFTSzA4dHo3VFhZS2xKM205Nk1IQXlhZ2lxOUVCcU1jcHgyVVpldGE5eUphQ3ZmV1RZcmtlNGdTMXlrWDJ5ZFl4NzNoZ05xNFlRc2NuczFqVFJ0Z3c?oc=5>
+- **特朗普** | 特朗普指责加拿大野火“年年殃及美国”，称将污染成本计入关税 <https://news.google.com/rss/articles/CBMiY0FVX3lxTE04ZTdNVHQwUnFxSWd1ZFNUSzIwMWlueGJ4TWZDTUhwME5LRHhSM1pkbEFtQ1lBRXh6UE84b2NvZE5FQVVXUjBKajBoejN5M0U1YzV3X2FmdGdsRXZEYlhhYkI5RQ?oc=5>
+- **特朗普** | 西班牙球员试图请特朗普离开捧杯舞台，但并未成功！ <https://news.google.com/rss/articles/CBMigAFBVV95cUxORUxLemMxWk9xN3o1NlZhVGh2ZWpRNHhGVkZiazAydGQtQ1p5WVFxYk5BUk1NdWJhaFZ2OWhGSDJnWGhwYXlaRURCOHBUUlZXOTNwZGNEbTA3djRkNFRlYjJQTGtFaV9oN01kLWpZQUZMejdtT3Bqc0dHb1dYMEVEZQ?oc=5>
+- **特朗普** | 17名美军死亡后，特朗普仍未亮牌：美伊战争下一步走向成谜 <https://news.google.com/rss/articles/CBMisAFBVV95cUxQTktqTFV1VHZiNExXaHNrMXRrZDNBYzZpY1hqWnRFTnlLNi1DOFNnV1k0dlE0aXdNOWtZb1F1a0JWVVVmRVdsRDU5aHBaSjZmWjk2eTh3Wkp2ZGpTUjhncVJHbjVmamwtZmdmQWtzUkpJaHJOS190Xy1PVHlFUnRMajlVTERrbVpEbko1RnV0WXVWNERMUnQ2bVB6akdpenp0T0VHMFRtWlk4eldzU0xFVw?oc=5>
+- **特朗普** | 暗杀威胁拦不住特朗普：世界杯决赛还没开打，他就已经“抢戏”了 <https://news.google.com/rss/articles/CBMi0wFBVV95cUxQR0FEbnBBY2dFVENSYXN4TDVCaTYyaEZjaHd5cGdWcWVhdUotYjdHdXBuTWdHOXJ2WXlTdl83SWZGTTU3VU9PdmE0d2o3bFVCdzRyc3VYYUtRNmZmUUNFZW1jd2JUQ3I4Q0FuQUF4OHRWNDJGRlhwbk5HWnEwMFl5TUMtZUlfb21vM2pLcmVQME9HUERGU3NDdUNabHF5UEo0Y1J3WlVLZWFJX0RISllOVDJ6MXg0UVFVYjBzSnBCc0NtaFVaVjl5UWtjUmszTzlPa21j?oc=5>
+- **特朗普** | 特朗普：知道你们看我发帖炒股，现在月付10万美元，提前几秒告诉你们 <https://news.google.com/rss/articles/CBMiYkFVX3lxTE9OV05kY2hDMVdRMkJWeVZ0SjR1U3ptVVpYejJQM25QQUdTMVZiYXg2R2dxbkZ3eFhHZkp2Nl82RXRvd1dqTndOdHZlRU55NEVma01sS1hQYUVoWjVsOHc2Z1J3?oc=5>
 
 ### 2026-07-19 23:26  (3 条)
 
