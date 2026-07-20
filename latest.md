@@ -1,64 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-20 16:53**
-- 本轮扫到 7363 条, 新增 **6** 条
+- 最近更新: **2026-07-20 18:49**
+- 本轮扫到 7368 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (5 条)
 
-### “绝不妥协”的波音与“一再妥协”的交付，特朗普专机有多“难产”？
+### 特朗普现身世界杯决赛现场，观战阿根廷对阵西班牙
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-19 18:14
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1SV0JMWWs1bkl1dVEwNlN1WkhMZTlwdlI1SFBNSi1GeTlXdzI3ZUswYkwwUUEzY2swV1RJb1ktcHQ1bVc4VTNQNWpLR2xpYWRpanJqYThfR2x1d0JmWXY0OVVWVjdBZTd1OU5zcHc4OVRTbE42eGRmOQ?oc=5>
+
+### 特朗普突然翻脸，他是真的怕了！这是中国的好机会
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 观察者
-- 时间: 2026-07-20 10:06
-- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTFAzQlljUGdkQnhrZ2ZEdTFlT05ZemMyY2lJd3RSb2Y3TFdjYWtOUzFIN0VVZlRSVnlkc3FBUEtfTjlTTVAza0RiWmNpbGFoU2pESG5DblJNa2dod21JZE1CanZ3?oc=5>
+- 时间: 2026-07-18 12:58
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9EajJDbGdZU08ycFdjSWM2MFNKZXJ6cDBKYWZzZkxyM29tYi1vWUkxSGV2ekZ1ZEFBc3RSaG42YmMzMjVtaVdBY0RsVnRSMmJJOVVYSlVmTW5kYTVTT0lXR2UwQU9DdHA2QWc?oc=5>
 
-### 涉新“空军一号”，特朗普最新披露
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-07-20 15:21
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuSExHWmJlZmhaam5MTVV3T0gzazVuZXIzYkd1bUZFVHJSbzZNUW1ldFp6WWItX2pwVGc5TTlNWEhUTjlpa0RLZ2loRUpvQ1RXTWx5eTNScTJaNzQ0TkE?oc=5>
-
-### 特朗普：美国将“狠打”伊朗以祭阵亡美军
+### “特朗普毫无疑问是美国历史上最腐败的总统”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-07-20 02:22
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RR0l5bnA3NnlZUnQ4Y2RzWlJiU2VZSTFvWWVKRmVrcHVfZ05uTGxCYVRRYUtuZHZFaGlTdWVoUUIxeGp1R3FzSlZmUjR3TTRXc21PWUdBejU3aVRBemRuTjM2X1ZNZw?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-07-20 18:09
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9iQV9zVTVSaDY4aU9wSlJVc0xDVFBfa2NPSlU1amFyT2ZwcnZRZjFkbWUzMVZXdENVNUNORW9UTnRoZnBXcUJ3TklmOHk?oc=5>
 
-### 川普空军一号“俯瞰8万球迷” 画面超震撼
+### 安全性能引发质疑后，特朗普称卡塔尔赠送的新“空军一号”将进行升级
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: QQ News
+- 时间: 2026-07-20 05:30
+- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTE1VODNfT2xrZG9SRW5yMTNHT1h5WjhGLWVmdF9hVmF0UG9RQ1R6bGpEZTVXMWxZMkZ3Mk1uOExwdFZZZzhNZEF3ZGRPdHd2MUlNdkVTc1RmTVB3eUdJeEF1WGpjRHVZNVYyOWNiaUJ3?oc=5>
+
+### 据报道，高频交易公司每月支付$10万，就能比你更早看到特朗普在Truth Social 上的帖子
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 万维读者网
-- 时间: 2026-07-20 00:42
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFByTE5YUHRKdHIzS3VPTWpzWlBUdjBMeGZPamdrNF9Rb0JjS0paUFZLV2ZUTzh4bnpObXROS3JPSWlYb0hLanpRVHA4QkVBc1dwY1VaZFgzemxzNG1GcVQySw?oc=5>
-
-### 决赛现场川普当面施压卡尼 辛鲍姆夹在中间表情亮了
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 文学城
-- 时间: 2026-07-20 15:59
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2bm1IWmR3WWoyN3pENFdONGMyTWlCYml4NDBIcGdENkZKaUZqMGtuVl9rZmlGZXNCUkF2WHktdHBZVFNFYXBETFdMdERJcWlVcnZXaGwyeS1uc1EyNXhiZkdqTlBZWUtv?oc=5>
-
-### US President Donald Trump says US hitting Iran 'very hard’
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: TMGM trading
-- 时间: 2026-07-20 05:06
-- 链接: <https://news.google.com/rss/articles/CBMixgFBVV95cUxQYkJUTU1LN2JFMDFpaVMzYmhVTmc3SldvdGJBZkthRzJocHd6b09PeC1Ic1BrNGxkR1lDYVI4WmpTZVNuQUR0aEk2S294Q19uY2dTWXZBemdwSGZVaXFpMkoxTG12bFhzWWo3R1dRcUc5dFJCdUxodU9BcXRYb2pJQmtDQzl2YlVvU0pvNVhwd2YxLWdfVUJGYnFCQTdTbDhCamYzcS0xX0dwVDRjWEVJODdXeTktZlhKNVhZSGlGNG00RmRkamc?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-07-20 17:25
+- 链接: <https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ3F0dVB4U3YtSUNZb3VOR3NWUEM4OWd0OUR6OUdCQjVRNldNcndDb2Rxay01VWRNcFJjUTd6Q2FaLVdFcUNuanZBelhZSWpzVk5CM2VJMjU1VjNuMTVwZDUtNXd6V1hYM05tNWliQmtRNmpjR2h1aFVGYnJKeTNxWnBPTHphMDhoanY3ejAtbTFDZkUySmRaMjlIajFXaVQwbUY0WERLc3F4ZUl0MlE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-20 18:49  (5 条)
+
+- **特朗普** | 特朗普现身世界杯决赛现场，观战阿根廷对阵西班牙 <https://news.google.com/rss/articles/CBMieEFVX3lxTE1SV0JMWWs1bkl1dVEwNlN1WkhMZTlwdlI1SFBNSi1GeTlXdzI3ZUswYkwwUUEzY2swV1RJb1ktcHQ1bVc4VTNQNWpLR2xpYWRpanJqYThfR2x1d0JmWXY0OVVWVjdBZTd1OU5zcHc4OVRTbE42eGRmOQ?oc=5>
+- **特朗普** | 特朗普突然翻脸，他是真的怕了！这是中国的好机会 <https://news.google.com/rss/articles/CBMiakFVX3lxTE9EajJDbGdZU08ycFdjSWM2MFNKZXJ6cDBKYWZzZkxyM29tYi1vWUkxSGV2ekZ1ZEFBc3RSaG42YmMzMjVtaVdBY0RsVnRSMmJJOVVYSlVmTW5kYTVTT0lXR2UwQU9DdHA2QWc?oc=5>
+- **特朗普** | “特朗普毫无疑问是美国历史上最腐败的总统” <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9iQV9zVTVSaDY4aU9wSlJVc0xDVFBfa2NPSlU1amFyT2ZwcnZRZjFkbWUzMVZXdENVNUNORW9UTnRoZnBXcUJ3TklmOHk?oc=5>
+- **特朗普** | 安全性能引发质疑后，特朗普称卡塔尔赠送的新“空军一号”将进行升级 <https://news.google.com/rss/articles/CBMibkFVX3lxTE1VODNfT2xrZG9SRW5yMTNHT1h5WjhGLWVmdF9hVmF0UG9RQ1R6bGpEZTVXMWxZMkZ3Mk1uOExwdFZZZzhNZEF3ZGRPdHd2MUlNdkVTc1RmTVB3eUdJeEF1WGpjRHVZNVYyOWNiaUJ3?oc=5>
+- **Trump** | 据报道，高频交易公司每月支付$10万，就能比你更早看到特朗普在Truth Social 上的帖子 <https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ3F0dVB4U3YtSUNZb3VOR3NWUEM4OWd0OUR6OUdCQjVRNldNcndDb2Rxay01VWRNcFJjUTd6Q2FaLVdFcUNuanZBelhZSWpzVk5CM2VJMjU1VjNuMTVwZDUtNXd6V1hYM05tNWliQmtRNmpjR2h1aFVGYnJKeTNxWnBPTHphMDhoanY3ejAtbTFDZkUySmRaMjlIajFXaVQwbUY0WERLc3F4ZUl0MlE?oc=5>
 
 ### 2026-07-20 16:53  (6 条)
 
