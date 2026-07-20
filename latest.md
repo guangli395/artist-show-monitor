@@ -1,40 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-20 22:53**
-- 本轮扫到 7378 条, 新增 **3** 条
+- 最近更新: **2026-07-20 23:51**
+- 本轮扫到 7383 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (5 条)
 
-### 特朗普宣布对部分加拿大商品加征50%关税，指责其存在贸易歧视
+### 特朗普喊话国际足联主席因凡蒂诺：美国必须再次举办世界杯，而且要在我在任期间实现，你听到了吗
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-07-20 07:22
+- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxNdjFDWThtcnd4bzJtZUZFb0xsc1oxemVZS09qWDBIQnJLVEE2UVlIYzU4U1hvaEN1TWJVU1k2RFlyLVRndnVhNUliU0pldW1oUnpXdWhnSHZBZXMyT3pMZnowTng1NkhjdDRDZ3A3VHB1R1VmRlI3cDNzcDR6MDFHVmUzVjlVb2hJYkxfX3BEQ2tjSkFl?oc=5>
+
+### 7月21日外盘头条：特朗普要让伊朗为美军身亡士兵付出代价 派拉蒙收购华纳交易被叫停
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-07-20 21:34
+- 链接: <https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ya2YtaDFnU3lGc3R3bG9BVmJsMUxScFB3WVJzWU5wdjE3dE5vRzNOc2RqM1VmNVNFSnZhTjVfa1R2T1VNX3pXZ2pVQVhXakVGc3owTnNXZXg4UQ?oc=5>
+
+### 特朗普暗示美军将对伊朗发动强硬报复：每杀害一名美国士兵将付出数倍代价
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 华尔街见闻
-- 时间: 2026-07-20 22:08
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tZllucHFpRFhXSHNPNmVram1LQjNSYTBGZktYZV9ucjNpdmw0MlVOeFpDUGFGZGFIMDk3bV9MampyM1U0UnRETUJDd2ZweVJNalFz?oc=5>
+- 时间: 2026-07-20 20:28
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5tMnFQSkQwVzhXeDgtSTZFSzU4MkJzYW1kVHpSOWZXU1RzNTQzVktzMFAzZWlhV19INDUxcmt1ZXh2RUN5YXZ1amtaU0VSQlRpeGNz?oc=5>
 
-### 特朗普暗示美军将对伊朗发动强硬报复
+### 白宫：特朗普与英国新任首相进行了通话
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 青岛日报
-- 时间: 2026-07-20 22:02
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ObUE3MUNBa1dCek9ZdG9YNEpKZ0VxVkNzVGJTNlljLVRGQnFscTd4SGowRFN6eTR3WUxSTWlKOGs4UmVsb2IwQ0llUGVRM0xnYjM0RDlZQnc?oc=5>
+- 场馆: 联合早报
+- 时间: 2026-07-20 15:55
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5NaUkyS2hPUjR3ODR2cE9mZHdBS2xNMEo3bkRISDVqNDlLYzc0UDhMMVBOLWxncTcxTzZPRDBoNGhFYTVfbXNmalFUMVhHLUtYUkFHanFJQWxPa3psdVY2UmJxR3hsZHp2dkE?oc=5>
 
-### 特朗普：伊朗将为杀害美国士兵付出昂贵代价
+### 特朗普称新“空军一号”将进行升级改造
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-07-20 22:34
-- 链接: <https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lNDVuU3A1Y0RacWxlYm84Y2wzaHFvNFlSb2RhTklmdllwMkhYZGh4REJ6c3NsaF9pOXZqb3lPUU5NQURPdm9rQ0Y1emlGMk1iazNwU2FwaG95dzA?oc=5>
+- 场馆: 央广网
+- 时间: 2026-07-20 07:16
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5saHJLaVViSFRmSDloNHBJYkxObTFYblk1ZWU4c3B0UDBWSUhYbGU0NUZnMlFQa3JyaHE1UWcxQ29VVjhZZzI0SWJRUWNFZjdJeXoyOERnd3hoLWlpWUJXM3FHREF5dVo2?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-20 23:51  (5 条)
+
+- **特朗普** | 特朗普喊话国际足联主席因凡蒂诺：美国必须再次举办世界杯，而且要在我在任期间实现，你听到了吗 <https://news.google.com/rss/articles/CBMilAFBVV95cUxNdjFDWThtcnd4bzJtZUZFb0xsc1oxemVZS09qWDBIQnJLVEE2UVlIYzU4U1hvaEN1TWJVU1k2RFlyLVRndnVhNUliU0pldW1oUnpXdWhnSHZBZXMyT3pMZnowTng1NkhjdDRDZ3A3VHB1R1VmRlI3cDNzcDR6MDFHVmUzVjlVb2hJYkxfX3BEQ2tjSkFl?oc=5>
+- **特朗普** | 7月21日外盘头条：特朗普要让伊朗为美军身亡士兵付出代价 派拉蒙收购华纳交易被叫停 <https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ya2YtaDFnU3lGc3R3bG9BVmJsMUxScFB3WVJzWU5wdjE3dE5vRzNOc2RqM1VmNVNFSnZhTjVfa1R2T1VNX3pXZ2pVQVhXakVGc3owTnNXZXg4UQ?oc=5>
+- **特朗普** | 特朗普暗示美军将对伊朗发动强硬报复：每杀害一名美国士兵将付出数倍代价 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5tMnFQSkQwVzhXeDgtSTZFSzU4MkJzYW1kVHpSOWZXU1RzNTQzVktzMFAzZWlhV19INDUxcmt1ZXh2RUN5YXZ1amtaU0VSQlRpeGNz?oc=5>
+- **特朗普** | 白宫：特朗普与英国新任首相进行了通话 <https://news.google.com/rss/articles/CBMiakFVX3lxTE5NaUkyS2hPUjR3ODR2cE9mZHdBS2xNMEo3bkRISDVqNDlLYzc0UDhMMVBOLWxncTcxTzZPRDBoNGhFYTVfbXNmalFUMVhHLUtYUkFHanFJQWxPa3psdVY2UmJxR3hsZHp2dkE?oc=5>
+- **特朗普** | 特朗普称新“空军一号”将进行升级改造 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5saHJLaVViSFRmSDloNHBJYkxObTFYblk1ZWU4c3B0UDBWSUhYbGU0NUZnMlFQa3JyaHE1UWcxQ29VVjhZZzI0SWJRUWNFZjdJeXoyOERnd3hoLWlpWUJXM3FHREF5dVo2?oc=5>
 
 ### 2026-07-20 22:53  (3 条)
 
