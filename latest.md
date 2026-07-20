@@ -1,72 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-20 21:39**
-- 本轮扫到 7375 条, 新增 **7** 条
+- 最近更新: **2026-07-20 22:53**
+- 本轮扫到 7378 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (3 条)
 
-### 7.18日：白宫官宣，特朗普将出席世界杯决赛，与因凡蒂诺共同颁奖，为赛事完美收官
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-07-20 20:47
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE52OHhnVFFRQURMTUVIT3E0YVQ5UUpBdTNTTVN4aWhZRUEteXRZTTAtSEliRDBuVExiSkFvNk1zcGpiNUo5LXBiUTctMFp2ZGJfdzZzcHJQWVlTT2o3MHJfWmR6cGZIOHNjaGVBRW5JcDl3Zw?oc=5>
-
-### 特朗普称伊朗将为杀害美军士兵“付出代价”，油价应声上涨
+### 特朗普宣布对部分加拿大商品加征50%关税，指责其存在贸易歧视
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-20 19:18
-- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxQV1h2aE9lTFFJZzBjWjFYQ28tczRaYjZWNzdQQmxkMXJyWnkwa1NXYWU1akVzQVl1ZUN3WEVDaERzYTVoNW1YMDRMV3hyRmtScjFVRVZFc3NneWIxcTlFYU9SRW1Iay1Bam9LYnBrazJfci1tRFNmbG9TM0JsRzkzb2lYZVRBSDFHdkE?oc=5>
+- 场馆: 华尔街见闻
+- 时间: 2026-07-20 22:08
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tZllucHFpRFhXSHNPNmVram1LQjNSYTBGZktYZV9ucjNpdmw0MlVOeFpDUGFGZGFIMDk3bV9MampyM1U0UnRETUJDd2ZweVJNalFz?oc=5>
 
-### 特朗普临时换乘旧专机 内部清查开启 白宫风向变了
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机网易网
-- 时间: 2026-07-20 16:32
-- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE5KRWdYcnZQcVY0dWdabVdqaUpxeDBqcjJoeUxtZlVIVVdZM0lQMWxCajVHZFRtLXFnem02YWtUSkZFTFFVd0pkVmxDTkQ1QTlrSjd3a184Y0U1Y3RfRHBCeFRn?oc=5>
-
-### 伯纳姆：上任后将先致电特朗普与泽连斯基
+### 特朗普暗示美军将对伊朗发动强硬报复
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-07-20 12:37
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFAxd2FreEhlX25McW1wY0NpTUNGZG11bDZKdVZQVC1ScGtsTHd4LTY0bXNDMmVqWTdLVHgzcGVUSC0yZFZsaWlac09ZWm1USjAwMFYxM2pMcWVqaEJSVnNXbDFrRXBBSUJpdHc?oc=5>
+- 场馆: 青岛日报
+- 时间: 2026-07-20 22:02
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ObUE3MUNBa1dCek9ZdG9YNEpKZ0VxVkNzVGJTNlljLVRGQnFscTd4SGowRFN6eTR3WUxSTWlKOGs4UmVsb2IwQ0llUGVRM0xnYjM0RDlZQnc?oc=5>
 
-### 特朗普誓言要让伊朗为美军士兵身亡“付出代价” 调解方力促冲突降温
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-07-20 19:26
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ZOTJFdE9JWTNISThYcTJlWE5IRWtHbGtESEVFUENtNmlzaW9oMWZtZ3g1a091ZmpRUlBkN0hTNFJhTHpYV1B5RVRiWG1sMExncXdz?oc=5>
-
-### 川普空军一号“俯瞰8万球迷” 画面超震撼
+### 特朗普：伊朗将为杀害美国士兵付出昂贵代价
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 万维读者网
-- 时间: 2026-07-20 15:42
-- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTE9IRFdBSFFqZ0RGRFZVT2dSUDlrMDdlRllXd2RDTHJXQVNza2IxX0FURENWNlpIR1ZkRDZrc1BpXzRvQXNLNjZmc1B3UXBTbTZDNUE?oc=5>
-
-### 特朗普总统将出席在伊朗袭击中丧生的美国军人的遗骸尊荣移交
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-07-20 20:16
-- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUHZldWJjV1lqdzJLWGttMnlJYzdyeUNaRU1qS1dPeWZDRy10TnhVdUVZTGl5UC01LUZJWnlvV2N3RG1YT2dEeHdLMEt0bTN2aDNSVDlqcGoza3RmRXN4NGRpVGhIczlRNGlKMUE1WEZLWVVsUTNobkpXdnRfa0xOY3Q2am5xOTIyWHg4QVRiUnZ1MTc5Zzh6U25XSnJSWmd0eTFJOHEyaFBRcVNDMzZyaEplY3pMUVZhdXQ1X0JESHVJMGJyaG1jTlFrY1UyOG0zZ1HSAdQBQVVfeXFMUEoycnZNcm1RSzZ5c0d3RVRyM1FZcENXREtsMW1YaUNUT0NvSDJ5UnZGUGgwOEpyS3YxdXhsZHNRLUxYeGJuT1VRbEZyYXZKVDlHNGlHQ0Y3Q2p5UzRtaW5qdWY4bGZNblN3b1I3dThoV3ltUzE0Z0ZuS1pFSDBRY2l5Ylc0cXpVUjJnaUIxTURQWFlGZktONDlPdzdONDJWV2h2NHJGcGFyYzBLejhWenR2dE1fU0dzdW95U25Sc0Q3dTF0dnIzWEtkdVc5V1RiWGNZYms?oc=5>
+- 场馆: 8world
+- 时间: 2026-07-20 22:34
+- 链接: <https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lNDVuU3A1Y0RacWxlYm84Y2wzaHFvNFlSb2RhTklmdllwMkhYZGh4REJ6c3NsaF9pOXZqb3lPUU5NQURPdm9rQ0Y1emlGMk1iazNwU2FwaG95dzA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-20 22:53  (3 条)
+
+- **特朗普** | 特朗普宣布对部分加拿大商品加征50%关税，指责其存在贸易歧视 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tZllucHFpRFhXSHNPNmVram1LQjNSYTBGZktYZV9ucjNpdmw0MlVOeFpDUGFGZGFIMDk3bV9MampyM1U0UnRETUJDd2ZweVJNalFz?oc=5>
+- **特朗普** | 特朗普暗示美军将对伊朗发动强硬报复 <https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ObUE3MUNBa1dCek9ZdG9YNEpKZ0VxVkNzVGJTNlljLVRGQnFscTd4SGowRFN6eTR3WUxSTWlKOGs4UmVsb2IwQ0llUGVRM0xnYjM0RDlZQnc?oc=5>
+- **Trump** | 特朗普：伊朗将为杀害美国士兵付出昂贵代价 <https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lNDVuU3A1Y0RacWxlYm84Y2wzaHFvNFlSb2RhTklmdllwMkhYZGh4REJ6c3NsaF9pOXZqb3lPUU5NQURPdm9rQ0Y1emlGMk1iazNwU2FwaG95dzA?oc=5>
 
 ### 2026-07-20 21:39  (7 条)
 
