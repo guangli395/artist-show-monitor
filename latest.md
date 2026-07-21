@@ -1,56 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-21 10:36**
-- 本轮扫到 7421 条, 新增 **5** 条
+- 最近更新: **2026-07-21 12:20**
+- 本轮扫到 7425 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (4 条)
 
-### 特朗普有了“新盟友”：说“我不是骗子”的尼克松
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-21 08:51
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTFBGb0FEZFVvWDVqVkdPNjZ6N08ydFZremRaR1pPY0hzMWVZRWxTWURSZVFLT01qTGkyT1RiLUlEMnJjNUFTMlg5dmZRNDFfNngxakkxRXlobDhqek9EdmxrTDAzTjhHcDN5SjBxckVlVWtlT3BrMFE?oc=5>
-
-### 7月21日外盘头条：特朗普要让伊朗为美军身亡士兵付出代价 派拉蒙收购华纳交易被叫停
+### 特朗普宣布针对加拿大汽车、乳制品及酒类产品征50%关税
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-20 21:30
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxNMDZaT1FYY3o3cHVZWVE5bldaVHVQMnB0YVBUXzVpTFVzX2N0SGhaSDJVUWYxaURnSmNwMkstMjNtQ3pnNFA5bDVOTUtDcVM4TUpqM3RiOXZGbFk2ZnMxOEQ4amtyS2hqMmNFYXZjSUg2cGF3aG9nS3V2Nk41MXdvdi1KamQ1ZHc?oc=5>
+- 时间: 2026-07-21 10:32
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxPM21FbHRZZVcta0IySkRVcFpkQVhaV1lEdGNDd19PNjVKeF9oNG5CMzZFS0JoZ3NPY0gzQi1iNHBQYjBLUHRPX0JCYWMzX3Z3TlFESTJvSkxGWjA5dkxaa1djX2ZKV0pmLVBBLUVlbWMtQ3lsVi13YjYwNEd4ZzFWYXg5R3ptSU0?oc=5>
 
-### 毫无疑问，特朗普是美国历史上最腐败的总统
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-07-20 15:06
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9FZlNCLTV5OHlEdEUzaGc2eEozVF9yZzBXQVF1VUhjMHF1ZUZrNUFMZ0RZcm1IWm1laVV1RGJzeW5YQXhhT0FJTXpWSU9IcDhXREFySHdjX1VtUTFkQnBOblBtU3FlWVdjSkE?oc=5>
-
-### 首次曝光！特朗普晒万斯夫妇新生儿照片
+### 西班牙，你太不给特朗普面子了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-07-21 01:04
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBSVldwNzJTNG4tcVVmcG1KS3o4Y29vSWxObUlKVDRtdTRXb3d5NHVQWDl3WGRWSUtTN0RoSzdRT2RyTTA0T3RTZ2NrOEI?oc=5>
+- 时间: 2026-07-20 23:54
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1CQjMwVG1sb0x6Qkl5bDJBTG5naWxsUmg3U3pnTVI4N2U3NTZVYVFjazFPS0xIMDZ1bXdTdFF5Z1A2VGt1VjNxd09HTFo?oc=5>
 
-### 赖到领奖台最后一刻……Trump在国际足联冠军照片中被“完全剪掉”
+### 美伊战争第二阶段升级：导弹互射致油价攀升，特朗普目标或为政权更迭
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 虎嗅
+- 时间: 2026-07-21 08:39
+- 链接: <https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ldHpURVJMU01BNnR3QTNUbzdSN2l1NWZxS19ZbHFvSUFLcFVkWm5BbmxRb0RHRWFtSGdjTUNXOTNET3NhMExaZ3RCaV9UOGdwNGRsaQ?oc=5>
+
+### 在未经证实的报道称特朗普同意道德协议后，Polymarket上的Clarity赔率跃升至43%
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 아시아경제
-- 时间: 2026-07-21 06:23
-- 链接: <https://news.google.com/rss/articles/CBMihgFBVV95cUxPVGNBX0hyMDVNelBhY09uUjNPLTNjMzdNTWpETXZZZDVCaUFtMXlIa0ZpSEszb1ZBcUZJT3VpSGJ4NU5DS2U4X1Ayek10VEdxRlJtdmdFQi1aSlQ2YjZVNXBCY001UXR1bEtoeDYyU2hHbFdvMThqeW1xeGNneFpHbjRpV1ZZZw?oc=5>
+- 场馆: CoinDesk
+- 时间: 2026-07-20 20:19
+- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxNWXdwcnh4TnR2TkxXa3JjTG9aRDVBeU5kYk54XzZUVWRJS0pTRmZqYU1iQmVfN1JNRlVxNGpyVFg3Qms2R0tCVW41amV5bDh5LXdmVEdqbDVTQ2liRE5WTnQ5cS1GeEk2R2hhTWR5bzZkbFctR05HbHpNNXB0MDBsSFRLc3VaYUQ1Z3I4clExVEdsVjVraTBUZzFFT0g2NUlGTFJwRkhvQ3hoaDY2SGM4dUdXYVFndkhNT19vQ1FoXzhIcTY3X1k5ZmlNdTFhcW8?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-21 12:20  (4 条)
+
+- **特朗普** | 特朗普宣布针对加拿大汽车、乳制品及酒类产品征50%关税 <https://news.google.com/rss/articles/CBMihwFBVV95cUxPM21FbHRZZVcta0IySkRVcFpkQVhaV1lEdGNDd19PNjVKeF9oNG5CMzZFS0JoZ3NPY0gzQi1iNHBQYjBLUHRPX0JCYWMzX3Z3TlFESTJvSkxGWjA5dkxaa1djX2ZKV0pmLVBBLUVlbWMtQ3lsVi13YjYwNEd4ZzFWYXg5R3ptSU0?oc=5>
+- **特朗普** | 西班牙，你太不给特朗普面子了 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1CQjMwVG1sb0x6Qkl5bDJBTG5naWxsUmg3U3pnTVI4N2U3NTZVYVFjazFPS0xIMDZ1bXdTdFF5Z1A2VGt1VjNxd09HTFo?oc=5>
+- **特朗普** | 美伊战争第二阶段升级：导弹互射致油价攀升，特朗普目标或为政权更迭 <https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ldHpURVJMU01BNnR3QTNUbzdSN2l1NWZxS19ZbHFvSUFLcFVkWm5BbmxRb0RHRWFtSGdjTUNXOTNET3NhMExaZ3RCaV9UOGdwNGRsaQ?oc=5>
+- **Trump** | 在未经证实的报道称特朗普同意道德协议后，Polymarket上的Clarity赔率跃升至43% <https://news.google.com/rss/articles/CBMizwFBVV95cUxNWXdwcnh4TnR2TkxXa3JjTG9aRDVBeU5kYk54XzZUVWRJS0pTRmZqYU1iQmVfN1JNRlVxNGpyVFg3Qms2R0tCVW41amV5bDh5LXdmVEdqbDVTQ2liRE5WTnQ5cS1GeEk2R2hhTWR5bzZkbFctR05HbHpNNXB0MDBsSFRLc3VaYUQ1Z3I4clExVEdsVjVraTBUZzFFT0g2NUlGTFJwRkhvQ3hoaDY2SGM4dUdXYVFndkhNT19vQ1FoXzhIcTY3X1k5ZmlNdTFhcW8?oc=5>
 
 ### 2026-07-21 10:36  (5 条)
 
