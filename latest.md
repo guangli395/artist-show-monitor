@@ -1,40 +1,62 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-21 21:59**
-- 本轮扫到 7455 条, 新增 **3** 条
+- 最近更新: **2026-07-21 23:01**
+- 本轮扫到 7460 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (5 条)
 
-### 美伊对峙愈演愈烈？美军伤亡与日俱增 特朗普扬言要伊朗付数倍代价！
+### 周杰伦三场鸟巢演唱会强势收官，直接一拳击碎内娱演出市场坚不可摧的天花板！
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-07-20 00:53
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIRU5Sb3ljNmFzVlNKZVlDTHYzUHpIUjhXQjJtcFIzbFhIcG50WVpjdFZwa05RTWdSUHdNajVNY3FmREdsc1N3RURDTUl4REROVDlhZldGQXpuNE9IQ3lCaQ?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923674_m1d5ae17da03301mqyi.html>
 
-### VOA今日焦点 (2026年7月22日) 特朗普总统：将很快打击伊朗镐山核设施
+### 美国即将对几十个国家征收新关税，特朗普总统之前实施的临时性全球关税即将于本周到期
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-07-21 21:47
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTFByalM4VHBER1FvVFNTeDZ0ZGNDbVI4bzlWcTBGYUJDNW5MOWRHZ1hSSzVYbVZQRXpVZ3NjYXFkSGJOWlBoZFVObEh0ZjJDb3p2SXlwRHRtMUVoZUZrR2k0RWNHc20yZlY1ZG9J0gFuQVVfeXFMTjhVd0hHUmJhdWlHRmRpd2JnSF9tNXJLdDc2MzV1cEZjdE12dUQ1T0VSODB2aGduQXpDN05QRjJGelVBTlBmZWNKNEJpeV9PUndPZFVYeXVuTUtkcjNpMktGblpoQUJjNVdjS1I5OVE?oc=5>
+- 场馆: RFI
+- 时间: 2026-07-21 22:19
+- 链接: <https://news.google.com/rss/articles/CBMivwRBVV95cUxQNzB2VGxjNTBtNUx3Ym9uS0M5ZnBZd2NteGdmU3EwYXJxQXU2V0FaaFpWUy1xZlFpSGl5aGdadFd4U2FNQVhTYzg3cmlmc1FwZWhzQThkeC1sWEFRRWxzenctU2pCLTFmenNMTDdEdzRoemVBNlUtOTlrSTBwWHlfc1dIOE5Vcy10aFBQOGtXQy1NaEVxVTFJc05qZFN3UWtzcHZGcnYyOVZPd0pzMEd4UzFDTnBuNmVLQjNQNXpfdDhRYjJ2dkEyVm9xbmtHeGVhWUd6dU14eVl4LUotZUdYVnhMMnQ3N3F6OU8xdkhuQk10blgwTDFVWldWSnc4ejFQbGVOVDdRakI5cW1hbGFJZGRuUjFpTHVNM2JIVXpzc1NqRm93TXlnRG5wcmx1OEoxVTRRYUZNMkxiU05iWGg0YUlhcGFYU053blFYQUNrUnp6N0xqOTdPMDJPVDhmUkdjNUE5d29XRmhzZldFVkNaYUhKYlhPT05wLVExQW4yVEdyazFwQlc1WE9Od25xcWRER0o1M0R2MEJ0SWpTcG9MV0ZZZlAxZk1Ja3VTZ01vOUpxbEVQYVA5WmJ6SEtQZng3WEFIdEdoMFY3aUZmajA2MEtKYnhPVHJWNFE1WnBVbEpTaDZkUmUtY3ltRC1pLUE1VExmUTVVVDM3TG12NDk4ZVgyOTl0Qjc4bGtSaUxzbE53UVFCZlo0dW1nRHVURnM5TU5DOXAxVWFqNVBxbFlsSE1UVEFXbjFMZUlJa1hPVQ?oc=5>
 
-### 特朗普称“可能很快”打击伊朗“镐山”核设施
+### 7月22日外盘头条：特朗普淡化与伊朗谈判可能性OpenAI智能体用户突破千万SpaceX迎来史诗级股票解禁
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-07-21 18:22
-- 链接: <https://news.google.com/rss/articles/CBMihgFBVV95cUxPRnVzTGpzeE5mRGw0elJmQnQtQUItUjhEVU44aTRYLVRGZ0lBNTQ2emVFNjh1ckk1NHpUSHVzVGxNRDRiemh6SUliazJPelZ0UXVSME1vMS1FT3lkeUhETEdEa2VUSWJuVkY0dXV0OHlQZHhiVGZwR3IzdlpVYUNiRmpXbks2Zw?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-07-21 21:58
+- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE45aFRYOXdUY3p3OW9yalFRN3ZvT083eHpYSU95MGJobHMzV2xfT3VuNTlJZkxLbm53dXlvYzdxOWctbVk4VlU1TEYwclNidlJBS0U4XzF4ZFAwZGlSUVUtSWhJcnViOXZJcGFpYjU1cWFwZHo1UnRPbk5n?oc=5>
+
+### 共和党中期选举焦虑加重，特朗普在伊朗问题上缺乏选择：“这就是陷入泥潭的样子”
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 加美财经
+- 时间: 2026-07-21 22:27
+- 链接: <https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HeEhZM2REOFdLVERkNnV6R3RjZkd3cnE4RUgzZ2hLU3g0bkI5OGY5OGxIVERiZm43MWZUQWQyR2ZmVS1fSG9udmRneks5WjFUdW9BMHlfZnc5dw?oc=5>
+
+### 特朗普签令对加拿大多项商品课征50%关税 美加贸易战再升级
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-07-21 22:28
+- 链接: <https://news.google.com/rss/articles/CBMikANBVV95cUxOMjMyQTFYc3didS1wdGhyVkRZeEpuaXBiYUluOVh3LXRvRGJBMkF0czN6OFp4M3FCdDJJenNVRGNxUU9zS3VPRnlEMmJxOFJQTEQ5QjZfQll4UkJ4UU9aRS14dFB6TUdsam5VcV9PV29fTklrWWR6NDFUWHhlVWNqeVlaM08wV0VTR0h0dW5YMUNWUXBpb2E0ZVBiQ0NyNHd3UnVoaVBQXzQ1OFJScktGRzVhelVmcm1UN1MwbTY4WFhDTjZZc2h1UGRGX2tKZHZCWWlUaVVGUVp3OWx1RGtFZ2V2VGVjdXRkdUpPR21OU0ZWMUhHYTJ5Zkg5c3QwWG9QbFBpUEFER3FNc1l2ZllGc0FjUmRKT3lyZ2VGdGtIakxYeVRCWDdlaTJNeEJucnlLd0QxZ3dMRHM5S29mR0xMVTZPZXk4NXVjWFRPNElVUjRkTHNGS191a1BNdTNPMXNYQlZVVnZpVk5ST1hNZ0FDNThNbGdOM2pqWWxNeXRocXRPLWs5R0pzUzR6UzVZdk45?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-21 23:01  (5 条)
+
+- **周杰伦** | 周杰伦三场鸟巢演唱会强势收官，直接一拳击碎内娱演出市场坚不可摧的天花板！ <https://k.sina.com.cn/article_7879923674_m1d5ae17da03301mqyi.html>
+- **特朗普** | 美国即将对几十个国家征收新关税，特朗普总统之前实施的临时性全球关税即将于本周到期 <https://news.google.com/rss/articles/CBMivwRBVV95cUxQNzB2VGxjNTBtNUx3Ym9uS0M5ZnBZd2NteGdmU3EwYXJxQXU2V0FaaFpWUy1xZlFpSGl5aGdadFd4U2FNQVhTYzg3cmlmc1FwZWhzQThkeC1sWEFRRWxzenctU2pCLTFmenNMTDdEdzRoemVBNlUtOTlrSTBwWHlfc1dIOE5Vcy10aFBQOGtXQy1NaEVxVTFJc05qZFN3UWtzcHZGcnYyOVZPd0pzMEd4UzFDTnBuNmVLQjNQNXpfdDhRYjJ2dkEyVm9xbmtHeGVhWUd6dU14eVl4LUotZUdYVnhMMnQ3N3F6OU8xdkhuQk10blgwTDFVWldWSnc4ejFQbGVOVDdRakI5cW1hbGFJZGRuUjFpTHVNM2JIVXpzc1NqRm93TXlnRG5wcmx1OEoxVTRRYUZNMkxiU05iWGg0YUlhcGFYU053blFYQUNrUnp6N0xqOTdPMDJPVDhmUkdjNUE5d29XRmhzZldFVkNaYUhKYlhPT05wLVExQW4yVEdyazFwQlc1WE9Od25xcWRER0o1M0R2MEJ0SWpTcG9MV0ZZZlAxZk1Ja3VTZ01vOUpxbEVQYVA5WmJ6SEtQZng3WEFIdEdoMFY3aUZmajA2MEtKYnhPVHJWNFE1WnBVbEpTaDZkUmUtY3ltRC1pLUE1VExmUTVVVDM3TG12NDk4ZVgyOTl0Qjc4bGtSaUxzbE53UVFCZlo0dW1nRHVURnM5TU5DOXAxVWFqNVBxbFlsSE1UVEFXbjFMZUlJa1hPVQ?oc=5>
+- **特朗普** | 7月22日外盘头条：特朗普淡化与伊朗谈判可能性OpenAI智能体用户突破千万SpaceX迎来史诗级股票解禁 <https://news.google.com/rss/articles/CBMiekFVX3lxTE45aFRYOXdUY3p3OW9yalFRN3ZvT083eHpYSU95MGJobHMzV2xfT3VuNTlJZkxLbm53dXlvYzdxOWctbVk4VlU1TEYwclNidlJBS0U4XzF4ZFAwZGlSUVUtSWhJcnViOXZJcGFpYjU1cWFwZHo1UnRPbk5n?oc=5>
+- **Trump** | 共和党中期选举焦虑加重，特朗普在伊朗问题上缺乏选择：“这就是陷入泥潭的样子” <https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HeEhZM2REOFdLVERkNnV6R3RjZkd3cnE4RUgzZ2hLU3g0bkI5OGY5OGxIVERiZm43MWZUQWQyR2ZmVS1fSG9udmRneks5WjFUdW9BMHlfZnc5dw?oc=5>
+- **Trump** | 特朗普签令对加拿大多项商品课征50%关税 美加贸易战再升级 <https://news.google.com/rss/articles/CBMikANBVV95cUxOMjMyQTFYc3didS1wdGhyVkRZeEpuaXBiYUluOVh3LXRvRGJBMkF0czN6OFp4M3FCdDJJenNVRGNxUU9zS3VPRnlEMmJxOFJQTEQ5QjZfQll4UkJ4UU9aRS14dFB6TUdsam5VcV9PV29fTklrWWR6NDFUWHhlVWNqeVlaM08wV0VTR0h0dW5YMUNWUXBpb2E0ZVBiQ0NyNHd3UnVoaVBQXzQ1OFJScktGRzVhelVmcm1UN1MwbTY4WFhDTjZZc2h1UGRGX2tKZHZCWWlUaVVGUVp3OWx1RGtFZ2V2VGVjdXRkdUpPR21OU0ZWMUhHYTJ5Zkg5c3QwWG9QbFBpUEFER3FNc1l2ZllGc0FjUmRKT3lyZ2VGdGtIakxYeVRCWDdlaTJNeEJucnlLd0QxZ3dMRHM5S29mR0xMVTZPZXk4NXVjWFRPNElVUjRkTHNGS191a1BNdTNPMXNYQlZVVnZpVk5ST1hNZ0FDNThNbGdOM2pqWWxNeXRocXRPLWs5R0pzUzR6UzVZdk45?oc=5>
 
 ### 2026-07-21 21:59  (3 条)
 
