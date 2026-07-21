@@ -1,88 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-21 08:14**
-- 本轮扫到 7416 条, 新增 **9** 条
+- 最近更新: **2026-07-21 10:36**
+- 本轮扫到 7421 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (9 条)
-
-### 特朗普“怒斥”中国，但仍寻求与习近平建立良好关系
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-07-20 03:08
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE4tVkFUVlBaVU1tVEZQczRjYmNUenVEdEpOSFpBZU9vUDRZVVcwelhLaVFYa2VQYkpIcEh3QnNlOEtHSGhtcTBaYV8tYWl3cFNxZlh6UHh0c3IzN3lWOHpqS09EWXVBQUxRTWc?oc=5>
+## 本轮新发现 (5 条)
 
 ### 特朗普有了“新盟友”：说“我不是骗子”的尼克松
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-21 08:51
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTFBGb0FEZFVvWDVqVkdPNjZ6N08ydFZremRaR1pPY0hzMWVZRWxTWURSZVFLT01qTGkyT1RiLUlEMnJjNUFTMlg5dmZRNDFfNngxakkxRXlobDhqek9EdmxrTDAzTjhHcDN5SjBxckVlVWtlT3BrMFE?oc=5>
+
+### 7月21日外盘头条：特朗普要让伊朗为美军身亡士兵付出代价 派拉蒙收购华纳交易被叫停
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-20 21:30
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxNMDZaT1FYY3o3cHVZWVE5bldaVHVQMnB0YVBUXzVpTFVzX2N0SGhaSDJVUWYxaURnSmNwMkstMjNtQ3pnNFA5bDVOTUtDcVM4TUpqM3RiOXZGbFk2ZnMxOEQ4amtyS2hqMmNFYXZjSUg2cGF3aG9nS3V2Nk41MXdvdi1KamQ1ZHc?oc=5>
+
+### 毫无疑问，特朗普是美国历史上最腐败的总统
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
 - 场馆: 观察者
+- 时间: 2026-07-20 15:06
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9FZlNCLTV5OHlEdEUzaGc2eEozVF9yZzBXQVF1VUhjMHF1ZUZrNUFMZ0RZcm1IWm1laVV1RGJzeW5YQXhhT0FJTXpWSU9IcDhXREFySHdjX1VtUTFkQnBOblBtU3FlWVdjSkE?oc=5>
+
+### 首次曝光！特朗普晒万斯夫妇新生儿照片
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-07-21 01:04
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBSVldwNzJTNG4tcVVmcG1KS3o4Y29vSWxObUlKVDRtdTRXb3d5NHVQWDl3WGRWSUtTN0RoSzdRT2RyTTA0T3RTZ2NrOEI?oc=5>
+
+### 赖到领奖台最后一刻……Trump在国际足联冠军照片中被“完全剪掉”
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 아시아경제
 - 时间: 2026-07-21 06:23
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1VR3hJZGM4cXRLS0x3eEdoRVplMGVQUmJhLXBZclRYdTBHcDlYMzRaczB5c3R2MmtzbUtZMl9yQ0UzQ0ZiOXlHcEVtYmxsS0ZjT1RDS3YzQ2pCWFRwNmtkdlNsZ3c2ejVMUWc?oc=5>
-
-### 西班牙，你太不给特朗普面子了
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-21 07:30
-- 链接: <https://news.google.com/rss/articles/CBMijgJBVV95cUxPNlRzcWdhN0E3b19mQzdGeFY0OWE4d2tpTGJqQ1E0anhkLWstTVllWlFGS3ExZkdJUm9TaENMM1MyMlRxTTJQcFRySUdPOFpiR2hNaXFCY0VEOWxtOGdQakZJMDhHanZXazlZSFhlVHVFVklRRVN4RGVmLUhUNkM1UUp0QTFqR2lCQ2JUTFdIekhFRjFkaUU4QzhCblhHTDZhSUZqY3hxZUxQbllPbE5OU3NPMElZOFJvSm1GNnFoSTBOMzVMMVJkc0NMNVhBRnpQb2dpZGRvZEZEMkpnOTBCTEh2Z0Z6YmFiQklDbWRSTU5OWE1fUnB0UmlPaWdqb3p5dXA1NnktZUFvLXZyUXc?oc=5>
-
-### 特朗普、因凡蒂诺被嘘
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-20 01:10
-- 链接: <https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaE5TNXlCMFFSMENGTmdRRHlTc3RQaDItLVhqcGphU0VrdzlFVjRqNlRSTmE1MUhGQjExeFhMZE5sMkJHS0JFZUhKNWEyUjQtcFFaY2thUmFkUjZBQTQ2QjZvZkxHZUgxQ05lS0wzckVNWUtoZDdwdktuZUtLcFFfMzYySEFmU1JOaWk1endKVTF4dTY3M0VWdU5jVVNHSkNBcy04Nk5Id1ZnNExXcEFRQlJHemdKejhUV3JCLWEyM3NPc09uZ0lfaEhnT0dJZVBLTTA2Qg?oc=5>
-
-### 西班牙足协发布夺冠举杯照，特朗普被P掉了
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-07-21 07:39
-- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTE93NVpLRWh3ZGJ2Vjc4NXdOempUcGpPcG01NDcwbEpQeTlPMGxLeXhRdXoxT0c0VktseWl6WTNaTDJrVXV5ajhLVnhycVV0TGxZVEFsOUo5WExqbWlEbkk3YTc3VQ?oc=5>
-
-### 加拿大省长炮轰特朗普：一堆废话，让人抓狂
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-21 03:44
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE00cXE3MjlfMmVOaVlvcUlpSFZ5V2JFcVdzZS1LcUprdThmdmtmTVg0SHhaRlJFWDFOM0FPVFRUdjZfdU45TkhxWnNRUEY?oc=5>
-
-### 特朗普：内塔尼亚胡在美不会被捕
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-07-20 23:47
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBxNGhTMEVYVHN4cXIxQl8xRk1wcEFOZW1PVUpsa2lWTnYzendlSVhNQV9sWjRXX29VMkVyTzhyTHFCTjkxakl2cmhsUHhCQUgwSkl2Y0kxNm8wNlNtUjdPdVJ1Z2JhUE5aT3c?oc=5>
-
-### 纽约市长威胁逮捕内塔尼亚胡，特朗普表态
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-20 18:39
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5BaEEyQnF0cFRCM3Nkdnlacjkzc3ExWDFMUkQzRC0tMXEybVJENHVtX1V3Z25mZHZiQ21NSTJlZlJoZnpWR21sWEl1ZUo?oc=5>
-
-### 特朗普称内塔尼亚胡不会在美国被捕
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-07-21 01:12
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9jcFFmRElGOE85NVp5ZWgtakJDOGtGTWVhY0Mwb29aZ3hzOGRVMDhiUGg4S3dnVmxEczRYcmdDWDZqcVoxMG5kQndPSzY5Z2NVWU1POUtIdXp1V2tfeGdnaTllZS1qam5lQ2Jwbm5VN3M4cUw0ZExLVVpiUld6X1k?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMihgFBVV95cUxPVGNBX0hyMDVNelBhY09uUjNPLTNjMzdNTWpETXZZZDVCaUFtMXlIa0ZpSEszb1ZBcUZJT3VpSGJ4NU5DS2U4X1Ayek10VEdxRlJtdmdFQi1aSlQ2YjZVNXBCY001UXR1bEtoeDYyU2hHbFdvMThqeW1xeGNneFpHbjRpV1ZZZw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-21 10:36  (5 条)
+
+- **特朗普** | 特朗普有了“新盟友”：说“我不是骗子”的尼克松 <https://news.google.com/rss/articles/CBMidkFVX3lxTFBGb0FEZFVvWDVqVkdPNjZ6N08ydFZremRaR1pPY0hzMWVZRWxTWURSZVFLT01qTGkyT1RiLUlEMnJjNUFTMlg5dmZRNDFfNngxakkxRXlobDhqek9EdmxrTDAzTjhHcDN5SjBxckVlVWtlT3BrMFE?oc=5>
+- **特朗普** | 7月21日外盘头条：特朗普要让伊朗为美军身亡士兵付出代价 派拉蒙收购华纳交易被叫停 <https://news.google.com/rss/articles/CBMihwFBVV95cUxNMDZaT1FYY3o3cHVZWVE5bldaVHVQMnB0YVBUXzVpTFVzX2N0SGhaSDJVUWYxaURnSmNwMkstMjNtQ3pnNFA5bDVOTUtDcVM4TUpqM3RiOXZGbFk2ZnMxOEQ4amtyS2hqMmNFYXZjSUg2cGF3aG9nS3V2Nk41MXdvdi1KamQ1ZHc?oc=5>
+- **特朗普** | 毫无疑问，特朗普是美国历史上最腐败的总统 <https://news.google.com/rss/articles/CBMiakFVX3lxTE9FZlNCLTV5OHlEdEUzaGc2eEozVF9yZzBXQVF1VUhjMHF1ZUZrNUFMZ0RZcm1IWm1laVV1RGJzeW5YQXhhT0FJTXpWSU9IcDhXREFySHdjX1VtUTFkQnBOblBtU3FlWVdjSkE?oc=5>
+- **特朗普** | 首次曝光！特朗普晒万斯夫妇新生儿照片 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBSVldwNzJTNG4tcVVmcG1KS3o4Y29vSWxObUlKVDRtdTRXb3d5NHVQWDl3WGRWSUtTN0RoSzdRT2RyTTA0T3RTZ2NrOEI?oc=5>
+- **Trump** | 赖到领奖台最后一刻……Trump在国际足联冠军照片中被“完全剪掉” <https://news.google.com/rss/articles/CBMihgFBVV95cUxPVGNBX0hyMDVNelBhY09uUjNPLTNjMzdNTWpETXZZZDVCaUFtMXlIa0ZpSEszb1ZBcUZJT3VpSGJ4NU5DS2U4X1Ayek10VEdxRlJtdmdFQi1aSlQ2YjZVNXBCY001UXR1bEtoeDYyU2hHbFdvMThqeW1xeGNneFpHbjRpV1ZZZw?oc=5>
 
 ### 2026-07-21 08:14  (9 条)
 
