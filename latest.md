@@ -1,64 +1,82 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-21 14:32**
-- 本轮扫到 7431 条, 新增 **6** 条
+- 最近更新: **2026-07-21 16:18**
+- 本轮扫到 7438 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (7 条)
 
-### 要闻解说 - 中国开源模型 Kimi K3 再给特朗普政府出了一道“禁或不禁”的难解题
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-07-21 13:20
-- 链接: <https://news.google.com/rss/articles/CBMi4wNBVV95cUxOSDNfWFJTSGd1d2RYU3FKcVV3UUJ5SGNiOHFRVnlRcFpjZURwU1JJN2oxTmdmVmU5NDVjQUtOVkJwX0FKSmFZRjdUYmdwMG1ZZFhxWTREazg1RWtTeU1QeUlSWUwwbHNRLTJrMG9oS1dybEJ5a2JwQzF3QlJZZ3RhTGJTUThnd3pYSmROdGp3eWVuM2pYSlNkeWxmTHVTTFgzNnZLcHJRY1ZvNWRHZnJmRll2bzFNUWtzaTlFQ0o3RDdLSmN1WmhDTlY4R0xnQVE1aTlsVlRhcXZ6QW5yZHJfWkVQSXhNNUtmV2JaVGhHa0F6VUxVWXg1MzNPMWI0YzZON3pNNzhaNG53dWFyNXBQb2thTXktaEV2WktvSENPdUFyUDVTSnNJNVpRMjdkQ05FQUsydVcwU0N2WmIzb3NvUUdJS0RFLUh2OEJwMjFMZEdHckF6TEw4VjFzR01XTWVGdnNqMWZCWGFFQ2xHd1FVaUNtdlByNFVzOVFqTDcxb2cyd0JlcDJ0cWVSVy04WkVnZmpPcnBYOG1JT1FfejZJZ2hlSExad0QzRWdzeFI5aUZqR2FnZ0FjTDNlMHdJb1B5VVNOMnR4SmVSOW9SU2NOLUtfSGFkWGRXaDNnTWpmbVJUdDA?oc=5>
-
-### 美国总统特朗普最快将于本周内对数十个国家实施新的关税。
+### 特朗普誓言要让伊朗为美军士兵身亡“付出代价” 调解方力促冲突降温
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-21 10:03
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1oSF9yLTlUNmlXUW0zUDFMYWtIbzhybW1TdVp3b1hZbERrM3hwS1dTMXVBRkM0OS13RUd4eF9xNjB3cGVPbW1Qa3BRMA?oc=5>
+- 时间: 2026-07-20 19:26
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxQREpHc2Zod0lzYmJYelA0dFBnYk9qWC13TEotTGxNZnF2OEltZXZhdnpUOFhfM01nTHhvRC01VlRadG1iRjkxYV8zYVJObG8xZEFyNmlJWWV3c3dFSk11bHZzWXlGOFVlZWtPb3Q0NkxjcEJxQlpxbDJPTkozb3VXNS1ZR0hUcHM?oc=5>
 
-### 特朗普总统将出席在伊朗袭击中丧生的美国军人的遗骸尊荣移交
+### 特朗普本周拟对数十个国家加征新一轮关税
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-07-20 20:16
-- 链接: <https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSjJydk1ybVFLNnlzR3dFVHIzUVlwQ1dES2wxbVhpQ1RPQ29IMnlSdkZQaDA4SnJLdjF1eGxkc1EtTFh4Ym5PVVFsRnJhdkpUOUc0aUdDRjdDanlTNG1pbmp1ZjhsZk1uU3dvUjd1OGhXeW1TMTRnRm5LWkVIMFFjaXliVzRxelVSMmdpQjFNRFBYWUZmS040OU93N040MlZXaHY0ckZwYXJjMEt6OFZ6dHZ0TV9TR3N1b3lTblJzRDd1MXR2cjNYS2R1VzlXVGJYY1lia9IB1AFBVV95cUxQSjJydk1ybVFLNnlzR3dFVHIzUVlwQ1dES2wxbVhpQ1RPQ29IMnlSdkZQaDA4SnJLdjF1eGxkc1EtTFh4Ym5PVVFsRnJhdkpUOUc0aUdDRjdDanlTNG1pbmp1ZjhsZk1uU3dvUjd1OGhXeW1TMTRnRm5LWkVIMFFjaXliVzRxelVSMmdpQjFNRFBYWUZmS040OU93N040MlZXaHY0ckZwYXJjMEt6OFZ6dHZ0TV9TR3N1b3lTblJzRDd1MXR2cjNYS2R1VzlXVGJYY1liaw?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-07-21 10:27
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE42cjFWVG1RdUJhZGgtdVA4REwxa3ZSUjhVZDBadm5HN1ZBZVdTMEtoaHV0OUNEcnNnTWtoclp3dnBUNzlUR0VBSE94TFI?oc=5>
 
-### 巴列维表示，美国轰炸伊朗是在保护伊朗人民，可以挽救更多生命
+### 特朗普宣布针对加拿大汽车、乳制品及酒类产品征50%关税
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 风闻
-- 时间: 2026-07-21 11:59
-- 链接: <https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wNlE5T1RGN1pRVGZXeFIzdWJJRkg2czZvVGlIQTI4WmRieFBVbWVfSXhyQWZ5Ukwxb2VPQ3AwWGNPQ0lxRUxPNmg1WmJQTDhOZXF0Smh3Q3dOWDA?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-07-21 10:32
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMkd0MVBoelpsWFk0RWo0cTQ3YS0xaU5wcHllclZESmtvU1ZMY2k0Q2J2U2tzNnZGNW1JeU5ZTW96OHZUejFaby0xSFhZSjU1US1yVGg5cHA3RW5nTjd2OURCdV9tNEluR1JqLXF1WnEyOWFFZWpPVlFmZTkzeXVnMVhfV0NIVzVKeVhuMmRuMFRlYnFzTS04TjZZSDhKZnNRVXI0OTc3S3VvOEgydlVVLV96STNYeGt6Vy1aeXowNlctbFhFVVpRZXZCU3NTVFNLWkYtMzdYNnkwZFFPQmlv?oc=5>
 
-### 吴说每日精选加密新闻 - 特朗普同意《CLARITY 法案》伦理条款，参议院最早本周公布文本
+### 特朗普、因凡蒂诺被嘘
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 吴说
-- 时间: 2026-07-21 13:57
-- 链接: <https://news.google.com/rss/articles/CBMimwFBVV95cUxQa2NPODVCeldNNmxnM2JfSEtqQWlXN09QLWxaa3VlVW9DcVMxU0RfUjBnX2lMd01XUTV3RDNIWGNlQzBtem9ybklUMzhyUGZuSEI2VlBOU0paMVVLSUdfdUVWaWQ3Ylp6R1JONjJfaEVwWEdoWE9feXhnZTdxYUdydGFXVFN1TEZLYk9pU1JyOThrQWNRdVVxdGlQQQ?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-07-20 07:00
+- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE1OaVg3NktWdnViRzc2MC03M1F2NldpMFVjV0NSdzBGZ1pUT1RTRkpMWjNKOURGTnB3YTdaOGZUTFg1cE5ib1ZROVowSU0yejhQa1E0Nm9xVUhSLXMwOTF4R3IxSzViWWZEOU5BdGd5RWFlWGE2aWYwWjlIS3JXUQ?oc=5>
 
-### 第440天：降息 +特朗普2.0 第546天
+### 特朗普支持率暴跌30%，妈妈群体与共和党集体背弃
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 手机网易网
+- 时间: 2026-07-21 14:11
+- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE5LNkd4TVlwZm5zOThRQUtGcUdOV3hXc0MyS1RaRFJUeHJrZE1peGY1a3BFZGNTbENPbVhEUFZBT1RhdjJFRDhTbUwxdG1fUjBGdk9LS2VmYzIzR3FzSVBCQmhn?oc=5>
+
+### 8000万市值的无人机股票，与$UMAC合作，并与特朗普家族有关联
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: Moomoo
-- 时间: 2026-07-21 14:10
-- 链接: <https://news.google.com/rss/articles/CBMimgFBVV95cUxNRVk2WnVtWktzUDI3VFRzS1VUcWhRMWprUjZkN2pLYll4Vm4yODRMbFRrVnl4SVBPakdUdUUxdkExWGthTVZFN09zdUlLaGh2TUZ2OVVOelJwWmRndGVjV1hfT0RvVExYeXhGM1dzb0dsTjdqd0lSTVVTc2t5R2FSTGstanVKbjhPTHowSGtEUmxSdXlONWNXNmZ3?oc=5>
+- 时间: 2026-07-21 15:36
+- 链接: <https://news.google.com/rss/articles/CBMiswFBVV95cUxPTllkMVdvZDFxazU0d1VBMFVaUHp5a1lRTmZHbUgtOGhLdHRSMmlPN1RMbTlkakhPNEJHMURxUXh4akZWNDRGTjVWUHZiUURRVTdxMms3Q1FNUHRHVnl0UmNkTDNDU0JNYkVOaG1haXFpekEzZlhCOFhncTc1eW02U1RPZXh0eFV3QXN2emNOa2c1b21LSDRWaGhkV3lJSWJIbWFPcDF2MXpWamNrZlBDdlAwbw?oc=5>
+
+### 黎巴嫩总统到访白宫，支持黎巴嫩-以色列协议
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-07-21 16:06
+- 链接: <https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZ0RnQ2g1RUUyT0pGYzhLNk55LWJpOC1MWXpFM3BPNjYzOTdhdnk3dlRCdHZjZWVkS1ZDV3lYRDZ2OTB1MTJaQ3YyX3Fpd2IxN1hsZ2dxRTI3Wl9McGlGTTF6U0JhODBxMWJ5b19aU09scWhfWXM4OHluTUVFb1ZxNUJhOHFGOGRZMkdDVTNIQU9yYzRsR0hVck9CUWdmdnR4U2FKMnJnanVzNk1PYkFaWHhEZENMdWJDNjBWQWNKRjdud9IBxAFBVV95cUxOd0dqS2FmTVZEdWhoanpoMnZQZ1dZRDJXSWRRa0NiRjdvdjVuaWlLZU9EV1RkNTBSY0Frdm9fb096c3dvU2huaUtrU0NpLXFvNFYxVS03NWRaLUYyZmVTWUVsbmgwSjdZTzFqdjZjWlE1RUpCb1F2d3ZVS1JVWU0zbGh4QlVGTmVHa1pDU1BOYmZwLU5CRWpJSzY4SXptVDV0Z1BlVGNmdFNKaXFtYmRQNDE0aDNCeFpOb0pfNWRubGVZc3Jq?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-21 16:18  (7 条)
+
+- **特朗普** | 特朗普誓言要让伊朗为美军士兵身亡“付出代价” 调解方力促冲突降温 <https://news.google.com/rss/articles/CBMihwFBVV95cUxQREpHc2Zod0lzYmJYelA0dFBnYk9qWC13TEotTGxNZnF2OEltZXZhdnpUOFhfM01nTHhvRC01VlRadG1iRjkxYV8zYVJObG8xZEFyNmlJWWV3c3dFSk11bHZzWXlGOFVlZWtPb3Q0NkxjcEJxQlpxbDJPTkozb3VXNS1ZR0hUcHM?oc=5>
+- **特朗普** | 特朗普本周拟对数十个国家加征新一轮关税 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE42cjFWVG1RdUJhZGgtdVA4REwxa3ZSUjhVZDBadm5HN1ZBZVdTMEtoaHV0OUNEcnNnTWtoclp3dnBUNzlUR0VBSE94TFI?oc=5>
+- **特朗普** | 特朗普宣布针对加拿大汽车、乳制品及酒类产品征50%关税 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMkd0MVBoelpsWFk0RWo0cTQ3YS0xaU5wcHllclZESmtvU1ZMY2k0Q2J2U2tzNnZGNW1JeU5ZTW96OHZUejFaby0xSFhZSjU1US1yVGg5cHA3RW5nTjd2OURCdV9tNEluR1JqLXF1WnEyOWFFZWpPVlFmZTkzeXVnMVhfV0NIVzVKeVhuMmRuMFRlYnFzTS04TjZZSDhKZnNRVXI0OTc3S3VvOEgydlVVLV96STNYeGt6Vy1aeXowNlctbFhFVVpRZXZCU3NTVFNLWkYtMzdYNnkwZFFPQmlv?oc=5>
+- **特朗普** | 特朗普、因凡蒂诺被嘘 <https://news.google.com/rss/articles/CBMifkFVX3lxTE1OaVg3NktWdnViRzc2MC03M1F2NldpMFVjV0NSdzBGZ1pUT1RTRkpMWjNKOURGTnB3YTdaOGZUTFg1cE5ib1ZROVowSU0yejhQa1E0Nm9xVUhSLXMwOTF4R3IxSzViWWZEOU5BdGd5RWFlWGE2aWYwWjlIS3JXUQ?oc=5>
+- **特朗普** | 特朗普支持率暴跌30%，妈妈群体与共和党集体背弃 <https://news.google.com/rss/articles/CBMiYkFVX3lxTE5LNkd4TVlwZm5zOThRQUtGcUdOV3hXc0MyS1RaRFJUeHJrZE1peGY1a3BFZGNTbENPbVhEUFZBT1RhdjJFRDhTbUwxdG1fUjBGdk9LS2VmYzIzR3FzSVBCQmhn?oc=5>
+- **Trump** | 8000万市值的无人机股票，与$UMAC合作，并与特朗普家族有关联 <https://news.google.com/rss/articles/CBMiswFBVV95cUxPTllkMVdvZDFxazU0d1VBMFVaUHp5a1lRTmZHbUgtOGhLdHRSMmlPN1RMbTlkakhPNEJHMURxUXh4akZWNDRGTjVWUHZiUURRVTdxMms3Q1FNUHRHVnl0UmNkTDNDU0JNYkVOaG1haXFpekEzZlhCOFhncTc1eW02U1RPZXh0eFV3QXN2emNOa2c1b21LSDRWaGhkV3lJSWJIbWFPcDF2MXpWamNrZlBDdlAwbw?oc=5>
+- **Trump** | 黎巴嫩总统到访白宫，支持黎巴嫩-以色列协议 <https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZ0RnQ2g1RUUyT0pGYzhLNk55LWJpOC1MWXpFM3BPNjYzOTdhdnk3dlRCdHZjZWVkS1ZDV3lYRDZ2OTB1MTJaQ3YyX3Fpd2IxN1hsZ2dxRTI3Wl9McGlGTTF6U0JhODBxMWJ5b19aU09scWhfWXM4OHluTUVFb1ZxNUJhOHFGOGRZMkdDVTNIQU9yYzRsR0hVck9CUWdmdnR4U2FKMnJnanVzNk1PYkFaWHhEZENMdWJDNjBWQWNKRjdud9IBxAFBVV95cUxOd0dqS2FmTVZEdWhoanpoMnZQZ1dZRDJXSWRRa0NiRjdvdjVuaWlLZU9EV1RkNTBSY0Frdm9fb096c3dvU2huaUtrU0NpLXFvNFYxVS03NWRaLUYyZmVTWUVsbmgwSjdZTzFqdjZjWlE1RUpCb1F2d3ZVS1JVWU0zbGh4QlVGTmVHa1pDU1BOYmZwLU5CRWpJSzY4SXptVDV0Z1BlVGNmdFNKaXFtYmRQNDE0aDNCeFpOb0pfNWRubGVZc3Jq?oc=5>
 
 ### 2026-07-21 14:32  (6 条)
 
