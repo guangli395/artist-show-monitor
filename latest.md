@@ -1,56 +1,141 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-20 23:51**
-- 本轮扫到 7383 条, 新增 **5** 条
+- 最近更新: **2026-07-21 02:03**
+- 本轮扫到 7397 条, 新增 **14** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (14 条)
+
+### 肖战王一博新图发布，粉丝直呼很帅很帅
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_2388733261_8e612d4d04001o4ke.html>
+
+### 大麦网 抢票成功率仅0.5%，为何百万用户仍难抢到一张演唱会门票？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801do3i.html>
 
 ### 特朗普喊话国际足联主席因凡蒂诺：美国必须再次举办世界杯，而且要在我在任期间实现，你听到了吗
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-07-20 07:22
-- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxNdjFDWThtcnd4bzJtZUZFb0xsc1oxemVZS09qWDBIQnJLVEE2UVlIYzU4U1hvaEN1TWJVU1k2RFlyLVRndnVhNUliU0pldW1oUnpXdWhnSHZBZXMyT3pMZnowTng1NkhjdDRDZ3A3VHB1R1VmRlI3cDNzcDR6MDFHVmUzVjlVb2hJYkxfX3BEQ2tjSkFl?oc=5>
+- 时间: 2026-07-20 08:35
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9NSmpaS1VxaTRKS0dveG5TaWMyQUlWbzhxc01uX2QzbmpWektZaTU3dmZzYS1iZ1dqN0c5eGJhLU1DWDRFZFQteUFIWU5HdGhFTjdXSkFhWmwtYy1KREcxb1dDekYwS0lEOEVuTl9XM3gtQjI3cW5BeEV4Y29wRkE?oc=5>
 
-### 7月21日外盘头条：特朗普要让伊朗为美军身亡士兵付出代价 派拉蒙收购华纳交易被叫停
+### 特朗普宣布对加拿大部分商品加征50%关税 为史上首次338关税
 
 - 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 财新
+- 时间: 2026-07-21 00:06
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE81bUlicXdWXzBIQXVSZlp6UlZMRE9CTUFodHhjZm94cFRTQWlXM3BBNFN6bUF5MWZKSDBBd1d5dFcteHBzb3hwUXR5WUlLTDVjTGhESjQ1ZEFFSmFNVEMwSVRrak44dHNZUGc?oc=5>
+
+### 特朗普再挥关税大棒：美国将对加拿大特定商品加征50%关税
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 财联社
+- 时间: 2026-07-21 00:16
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTFB0TzZzcEgtVW54ZUhmR2tyeDk3SHpkX3FpVkJYUUZkczl1TWxoOTZqY2tlM2R1NVFNYUJuTTBmU05zcWs4ckN5Xw?oc=5>
+
+### 美伊对峙愈演愈烈？美军伤亡与日俱增，特朗普扬言要伊朗付数倍代价！
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 财联社
+- 时间: 2026-07-21 00:16
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE1kb2ROd3RJaVVsX1kyeFdlRHh0amlfM2F1NTdUOXk4aUFicFFkTjYzM0dIYlZ4UjRJM3p6ZkJra1BmTVlZbFRKMA?oc=5>
+
+### 美AI学者喊话特朗普：跟中国合作吧，早说美国赢不了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-21 00:38
+- 链接: <https://news.google.com/rss/articles/CBMipwFBVV95cUxOUW1BMXJYT3M2YlBIdkdLazNBY0tGNUFCek1vNi1iR2FfU1d1Q1pMRzI0SGxtTm5zSkhqb3lUbjNjUmZieTNNUlk4NmFvZGNCb3NEbGRDcElPTi1fak5YRWJqWGV5dXo3TmsxYVRvdDBFczgtb3FneS1lVFNKdE1sVEc3b01yeFpXdmd1ZGR6OFlrZkR3ekdkMG10bGhrMVgxcDlaYnFqNA?oc=5>
+
+### 特朗普：内塔尼亚胡不会在美国被捕
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新京报
+- 时间: 2026-07-21 01:21
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RX1p5VlhQZmFqZHpWV3ZuMGxCWEhoc1FVZVpIQmU4Z0FLUG9oYTIxbzZvTW5GVXpWcUlmNjZLUW5oX0hVekZxOEZDX2lIc3phblh0Y2ptRV9pU2FoaXBVWHoxbGU?oc=5>
+
+### 涉新“空军一号”，特朗普最新披露
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 手机网易网
+- 时间: 2026-07-20 23:50
+- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTFB3OWxSYmdDSkY3UUM1LUJISHVHUVZjNklqOWFDZzNkLXhJek1yUW12d3JqSHQ4Njd4UVdjQTRUaUFGMDV1ZVh6dWozMXQwcldYdjRqUHNNUzc1RzZOUk9ZeGtR?oc=5>
+
+### 特朗普：内塔尼亚胡在美国期间不会被捕
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: chinanews.com.cn
+- 时间: 2026-07-21 01:58
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ad3J1cGQwTGZvLTI2Yi1GQnlPcEJBenA1bEwwSWMyZ3dRdVFBUFFFQzZrX2pTaUlNa3JFMTF2QzNLMng1ZndsMHVpTi15R1ltZ0l4N0I4UFZDYXJudlVmNUM5SmhySVBI?oc=5>
+
+### AI霸权之争升温，特朗普政府据报道考虑封杀中国模型
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-07-21 01:36
+- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOGZlTDhSaHJjUzQ0emhiMkVPZlhiNGd3dnpTbGtzbXR6SkYyM0FxSDdfazFpNGdVUGtwMlJ1elNNZXlkUzJfa3dxS1RpYlJvYThXTHA1dmpGUVhkOTJDRW94M3RZM3BlelIta2t5Q0JZV0FjSFlIVWFITi1tc29YTzd2ZmdrbXJjOTJkNkNPYUFIZlVLWGJDZ244VHdKNWlSWV8yVGdZMS1rQmNTV3U3YnhHN0J2MklrVzNuZWRNdkUydUNCQXd1cVFuU2VNWDR4Wl9sZ3dJM25KV3A1UkE?oc=5>
+
+### trump
+
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: Moomoo
-- 时间: 2026-07-20 21:34
-- 链接: <https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ya2YtaDFnU3lGc3R3bG9BVmJsMUxScFB3WVJzWU5wdjE3dE5vRzNOc2RqM1VmNVNFSnZhTjVfa1R2T1VNX3pXZ2pVQVhXakVGc3owTnNXZXg4UQ?oc=5>
+- 时间: 2026-07-17 03:34
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5YOHBFWkJBZjYxR1F3Q0IwLVdPT0RkRnRtaE5BR0h4SjhQMzBjUTFIZ2tlZDEySEZjaXN5Sm5uSUM5VzBoSXdobVZUbUxEd0VsSTdkVV95VEFpV2tVbjZEdE9wOE03NXEtd0JrNDlKdnc?oc=5>
 
-### 特朗普暗示美军将对伊朗发动强硬报复：每杀害一名美国士兵将付出数倍代价
+### 特朗普政府：在美建厂可享铝关税减半- 阿视亚经济
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-07-20 20:28
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5tMnFQSkQwVzhXeDgtSTZFSzU4MkJzYW1kVHpSOWZXU1RzNTQzVktzMFAzZWlhV19INDUxcmt1ZXh2RUN5YXZ1amtaU0VSQlRpeGNz?oc=5>
+- 场馆: 아시아경제
+- 时间: 2026-07-20 23:35
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RUXNQTmxvMnd1YjgtTmZiNEV5SllNbk5fVEwxRVZUZ0JGOUI5WTRBUXdPUmxvSnlkaXdkNWZIbnFQeVBEQ2FKNkRMcDU0UWwydmJWYTVnaWY5MWY2Q0p0T09KaFo?oc=5>
 
-### 白宫：特朗普与英国新任首相进行了通话
+### 明天特朗普将宣布买入ORCL
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-07-20 15:55
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5NaUkyS2hPUjR3ODR2cE9mZHdBS2xNMEo3bkRISDVqNDlLYzc0UDhMMVBOLWxncTcxTzZPRDBoNGhFYTVfbXNmalFUMVhHLUtYUkFHanFJQWxPa3psdVY2UmJxR3hsZHp2dkE?oc=5>
-
-### 特朗普称新“空军一号”将进行升级改造
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 央广网
-- 时间: 2026-07-20 07:16
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5saHJLaVViSFRmSDloNHBJYkxObTFYblk1ZWU4c3B0UDBWSUhYbGU0NUZnMlFQa3JyaHE1UWcxQ29VVjhZZzI0SWJRUWNFZjdJeXoyOERnd3hoLWlpWUJXM3FHREF5dVo2?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-07-21 00:34
+- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxNY09TMUpuclF5cTZBN3ZCMmlNQWxhbE1xbGRNa1p5SnVPQTVEOTRnUHRHcDV2LURsSmk1S0o0MGplT0FHUzc3WmJtbUVFemc3X25UeXV0YlA5TlhFUUUzcXIxSFlqOUlXT0xuUFlNU0tfUTE0LXFFRzRMelVId0liMFd1RVpjN1laa2Y2b2QtNWlyTzNX?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-21 02:03  (14 条)
+
+- **王一博** | 肖战王一博新图发布，粉丝直呼很帅很帅 <https://k.sina.com.cn/article_2388733261_8e612d4d04001o4ke.html>
+- **蔡徐坤** | 大麦网 抢票成功率仅0.5%，为何百万用户仍难抢到一张演唱会门票？ <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801do3i.html>
+- **特朗普** | 特朗普喊话国际足联主席因凡蒂诺：美国必须再次举办世界杯，而且要在我在任期间实现，你听到了吗 <https://news.google.com/rss/articles/CBMif0FVX3lxTE9NSmpaS1VxaTRKS0dveG5TaWMyQUlWbzhxc01uX2QzbmpWektZaTU3dmZzYS1iZ1dqN0c5eGJhLU1DWDRFZFQteUFIWU5HdGhFTjdXSkFhWmwtYy1KREcxb1dDekYwS0lEOEVuTl9XM3gtQjI3cW5BeEV4Y29wRkE?oc=5>
+- **特朗普** | 特朗普宣布对加拿大部分商品加征50%关税 为史上首次338关税 <https://news.google.com/rss/articles/CBMiakFVX3lxTE81bUlicXdWXzBIQXVSZlp6UlZMRE9CTUFodHhjZm94cFRTQWlXM3BBNFN6bUF5MWZKSDBBd1d5dFcteHBzb3hwUXR5WUlLTDVjTGhESjQ1ZEFFSmFNVEMwSVRrak44dHNZUGc?oc=5>
+- **特朗普** | 特朗普再挥关税大棒：美国将对加拿大特定商品加征50%关税 <https://news.google.com/rss/articles/CBMiSEFVX3lxTFB0TzZzcEgtVW54ZUhmR2tyeDk3SHpkX3FpVkJYUUZkczl1TWxoOTZqY2tlM2R1NVFNYUJuTTBmU05zcWs4ckN5Xw?oc=5>
+- **特朗普** | 美伊对峙愈演愈烈？美军伤亡与日俱增，特朗普扬言要伊朗付数倍代价！ <https://news.google.com/rss/articles/CBMiSEFVX3lxTE1kb2ROd3RJaVVsX1kyeFdlRHh0amlfM2F1NTdUOXk4aUFicFFkTjYzM0dIYlZ4UjRJM3p6ZkJra1BmTVlZbFRKMA?oc=5>
+- **特朗普** | 美AI学者喊话特朗普：跟中国合作吧，早说美国赢不了 <https://news.google.com/rss/articles/CBMipwFBVV95cUxOUW1BMXJYT3M2YlBIdkdLazNBY0tGNUFCek1vNi1iR2FfU1d1Q1pMRzI0SGxtTm5zSkhqb3lUbjNjUmZieTNNUlk4NmFvZGNCb3NEbGRDcElPTi1fak5YRWJqWGV5dXo3TmsxYVRvdDBFczgtb3FneS1lVFNKdE1sVEc3b01yeFpXdmd1ZGR6OFlrZkR3ekdkMG10bGhrMVgxcDlaYnFqNA?oc=5>
+- **特朗普** | 特朗普：内塔尼亚胡不会在美国被捕 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RX1p5VlhQZmFqZHpWV3ZuMGxCWEhoc1FVZVpIQmU4Z0FLUG9oYTIxbzZvTW5GVXpWcUlmNjZLUW5oX0hVekZxOEZDX2lIc3phblh0Y2ptRV9pU2FoaXBVWHoxbGU?oc=5>
+- **特朗普** | 涉新“空军一号”，特朗普最新披露 <https://news.google.com/rss/articles/CBMiYkFVX3lxTFB3OWxSYmdDSkY3UUM1LUJISHVHUVZjNklqOWFDZzNkLXhJek1yUW12d3JqSHQ4Njd4UVdjQTRUaUFGMDV1ZVh6dWozMXQwcldYdjRqUHNNUzc1RzZOUk9ZeGtR?oc=5>
+- **特朗普** | 特朗普：内塔尼亚胡在美国期间不会被捕 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ad3J1cGQwTGZvLTI2Yi1GQnlPcEJBenA1bEwwSWMyZ3dRdVFBUFFFQzZrX2pTaUlNa3JFMTF2QzNLMng1ZndsMHVpTi15R1ltZ0l4N0I4UFZDYXJudlVmNUM5SmhySVBI?oc=5>
+- **Trump** | AI霸权之争升温，特朗普政府据报道考虑封杀中国模型 <https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOGZlTDhSaHJjUzQ0emhiMkVPZlhiNGd3dnpTbGtzbXR6SkYyM0FxSDdfazFpNGdVUGtwMlJ1elNNZXlkUzJfa3dxS1RpYlJvYThXTHA1dmpGUVhkOTJDRW94M3RZM3BlelIta2t5Q0JZV0FjSFlIVWFITi1tc29YTzd2ZmdrbXJjOTJkNkNPYUFIZlVLWGJDZ244VHdKNWlSWV8yVGdZMS1rQmNTV3U3YnhHN0J2MklrVzNuZWRNdkUydUNCQXd1cVFuU2VNWDR4Wl9sZ3dJM25KV3A1UkE?oc=5>
+- **Trump** | trump <https://news.google.com/rss/articles/CBMicEFVX3lxTE5YOHBFWkJBZjYxR1F3Q0IwLVdPT0RkRnRtaE5BR0h4SjhQMzBjUTFIZ2tlZDEySEZjaXN5Sm5uSUM5VzBoSXdobVZUbUxEd0VsSTdkVV95VEFpV2tVbjZEdE9wOE03NXEtd0JrNDlKdnc?oc=5>
+- **Trump** | 特朗普政府：在美建厂可享铝关税减半- 阿视亚经济 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RUXNQTmxvMnd1YjgtTmZiNEV5SllNbk5fVEwxRVZUZ0JGOUI5WTRBUXdPUmxvSnlkaXdkNWZIbnFQeVBEQ2FKNkRMcDU0UWwydmJWYTVnaWY5MWY2Q0p0T09KaFo?oc=5>
+- **Trump** | 明天特朗普将宣布买入ORCL <https://news.google.com/rss/articles/CBMilAFBVV95cUxNY09TMUpuclF5cTZBN3ZCMmlNQWxhbE1xbGRNa1p5SnVPQTVEOTRnUHRHcDV2LURsSmk1S0o0MGplT0FHUzc3WmJtbUVFemc3X25UeXV0YlA5TlhFUUUzcXIxSFlqOUlXT0xuUFlNU0tfUTE0LXFFRzRMelVId0liMFd1RVpjN1laa2Y2b2QtNWlyTzNX?oc=5>
 
 ### 2026-07-20 23:51  (5 条)
 
