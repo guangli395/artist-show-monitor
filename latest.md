@@ -1,48 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-21 20:42**
-- 本轮扫到 7452 条, 新增 **4** 条
+- 最近更新: **2026-07-21 21:59**
+- 本轮扫到 7455 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (3 条)
 
-### 美国对加拿大乳制品、酒类和汽车加征50%的新关税
+### 美伊对峙愈演愈烈？美军伤亡与日俱增 特朗普扬言要伊朗付数倍代价！
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 东方财富
+- 时间: 2026-07-20 00:53
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIRU5Sb3ljNmFzVlNKZVlDTHYzUHpIUjhXQjJtcFIzbFhIcG50WVpjdFZwa05RTWdSUHdNajVNY3FmREdsc1N3RURDTUl4REROVDlhZldGQXpuNE9IQ3lCaQ?oc=5>
+
+### VOA今日焦点 (2026年7月22日) 特朗普总统：将很快打击伊朗镐山核设施
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 美国之音
-- 时间: 2026-07-21 19:55
-- 链接: <https://news.google.com/rss/articles/CBMirwFBVV95cUxPQXhEVURSYnFZU3FIM29kOGtiMVRTVDFnSjdnTS1rY1JqdkowbHhhUlF4eUs1RmxZRFk4eHlXV29lcHJzNU05eWNCLXF3UDhBcEtzeFlHdEFYSU9YZTF3V2RCbkk4U2prWVNtc1RqVWM5WlI4X1RyQ2UwVldBNnBEcmxRd1p4S2JqT3pQVHpOMmcxOEs2RFNvODBmSUtKVjlFYV9OMXJsQVBEMGtyZy1Z0gGyAUFVX3lxTE41clNhUWMzSGRfT1R0cHNZaXktX0pub0NfeGVEMGlHT0loSjB3eHRURGFjZFJNOWZRUlc1ZWtoMG9FSVJoZE8ycThDSjJBcXlSUnZic1NRRU9kbmtRRFpNczFSN2ZmRzhBdXJnX1ppejllQ0xBMjBrNFJ3NmtOa2FRbXJjdmhRNHhGWTdQWjkwTzJUOFFqU2RUUXJySjItZWtUMW55TE1LS0UtOEFVWWtUMWc?oc=5>
+- 时间: 2026-07-21 21:47
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTFByalM4VHBER1FvVFNTeDZ0ZGNDbVI4bzlWcTBGYUJDNW5MOWRHZ1hSSzVYbVZQRXpVZ3NjYXFkSGJOWlBoZFVObEh0ZjJDb3p2SXlwRHRtMUVoZUZrR2k0RWNHc20yZlY1ZG9J0gFuQVVfeXFMTjhVd0hHUmJhdWlHRmRpd2JnSF9tNXJLdDc2MzV1cEZjdE12dUQ1T0VSODB2aGduQXpDN05QRjJGelVBTlBmZWNKNEJpeV9PUndPZFVYeXVuTUtkcjNpMktGblpoQUJjNVdjS1I5OVE?oc=5>
 
-### 刚投入使用，特朗普新专机又得入厂重改
+### 特朗普称“可能很快”打击伊朗“镐山”核设施
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-07-21 15:28
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxQZE9PQ1lhY2tYZlRzS0duRHJVNEQ2TkpyekdGZXdLaVdZSkxHZkgxOXJQZ3VJNVp1U0ltZVhPTnlUZW5jczA5WElHZ2M1cS1IekRHWHp4c0tkX00wYVZQalhXdHhOWjRqRnB0eklZWDZUc3NILWZ0Q053cnphQS1pMEc1MFlKUVNfMmk0OA?oc=5>
-
-### 特朗普总统：美国对伊朗的行动“远未结束”，承诺将发动更多猛烈打击
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-07-21 19:52
-- 链接: <https://news.google.com/rss/articles/CBMi1AFBVV95cUxNd0FYOVdoa3JHTm9SZlQ1b25BTkR4SkQ3QTV3S1NCRk5wQ2g2dmtLX2o3aXBPcTlheUwwWEExbjF5RnVheXdhZlZQVnI0Ri15bEdOZUFYODhBbUJzNUxOR1UtOXEyNmNzc2NELU0tMGJzX0ZrMTFqNnp4ZE12d0RySVdFVTF1enBGNTNOQ1dHczl0bEpHQXI0MGZfYkcyYWJrUEYtSm80YUNvQ3JzOFlFZWNjd1BPSXdNU0FQTExLcHhfTlZIUzc5d2RaT2dpZ21IYWppY9IB1wFBVV95cUxQRVlmVXltNGJXbjNoaGNDTTFQSXBEVDBnOXlYZEtQRjFwd0RQQlhkYXVUNXJuMUtNS0U0Nm5lXy1haDFlQkwwUmxMZGNQdGw1WnFMUXV2RUFMT2ZWQV9rTzJzZzBmOXJKRmFjNGI3UDROQklwQzNwNXFxdWgtY1l0blJxQnNKWng0aUk2S01nT0xQa1JuWU5rclJvWkxqaklWQVhNdWxueC1maVJiV1RuRWFzNVcwbFVIX29hdmNKeWNXNEdYa191RkM3enBFbG5QN0N6R1dpdw?oc=5>
-
-### 特朗普会见黎巴嫩总统奥恩，承诺制定“具体计划”以促成以色列撤军
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Al-Monitor
-- 时间: 2026-07-21 19:20
-- 链接: <https://news.google.com/rss/articles/CBMizgFBVV95cUxQdVZOb1RpSjk0bHZDSjdVS1YtOGFyN0Z5NE9CX3dZMlFrUGVOeVdEd3U5RWhTRE5GWFdrdF9KV01LU1FFMzZvSkVUeDVqeVJiU2JOMjJlTEoxek9vMU5SRXY4N3BDSDVRR2IyTDMwbnR3eTh1ckNVVlU4OWNiVm42SXR5d3RBamNtTlNHNWNIUF93VkJKc1hkRkRYMjJrSkFhRzZLZXFSVG9rQmJGRTk2dEpEanM0LW4ySEM1RUoxR01jcmpFWkJvNWVWYTlOdw?oc=5>
+- 场馆: 新华网
+- 时间: 2026-07-21 18:22
+- 链接: <https://news.google.com/rss/articles/CBMihgFBVV95cUxPRnVzTGpzeE5mRGw0elJmQnQtQUItUjhEVU44aTRYLVRGZ0lBNTQ2emVFNjh1ckk1NHpUSHVzVGxNRDRiemh6SUliazJPelZ0UXVSME1vMS1FT3lkeUhETEdEa2VUSWJuVkY0dXV0OHlQZHhiVGZwR3IzdlpVYUNiRmpXbks2Zw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-21 21:59  (3 条)
+
+- **特朗普** | 美伊对峙愈演愈烈？美军伤亡与日俱增 特朗普扬言要伊朗付数倍代价！ <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIRU5Sb3ljNmFzVlNKZVlDTHYzUHpIUjhXQjJtcFIzbFhIcG50WVpjdFZwa05RTWdSUHdNajVNY3FmREdsc1N3RURDTUl4REROVDlhZldGQXpuNE9IQ3lCaQ?oc=5>
+- **特朗普** | VOA今日焦点 (2026年7月22日) 特朗普总统：将很快打击伊朗镐山核设施 <https://news.google.com/rss/articles/CBMia0FVX3lxTFByalM4VHBER1FvVFNTeDZ0ZGNDbVI4bzlWcTBGYUJDNW5MOWRHZ1hSSzVYbVZQRXpVZ3NjYXFkSGJOWlBoZFVObEh0ZjJDb3p2SXlwRHRtMUVoZUZrR2k0RWNHc20yZlY1ZG9J0gFuQVVfeXFMTjhVd0hHUmJhdWlHRmRpd2JnSF9tNXJLdDc2MzV1cEZjdE12dUQ1T0VSODB2aGduQXpDN05QRjJGelVBTlBmZWNKNEJpeV9PUndPZFVYeXVuTUtkcjNpMktGblpoQUJjNVdjS1I5OVE?oc=5>
+- **特朗普** | 特朗普称“可能很快”打击伊朗“镐山”核设施 <https://news.google.com/rss/articles/CBMihgFBVV95cUxPRnVzTGpzeE5mRGw0elJmQnQtQUItUjhEVU44aTRYLVRGZ0lBNTQ2emVFNjh1ckk1NHpUSHVzVGxNRDRiemh6SUliazJPelZ0UXVSME1vMS1FT3lkeUhETEdEa2VUSWJuVkY0dXV0OHlQZHhiVGZwR3IzdlpVYUNiRmpXbks2Zw?oc=5>
 
 ### 2026-07-21 20:42  (4 条)
 
