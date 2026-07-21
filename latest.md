@@ -1,124 +1,107 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-21 02:03**
-- 本轮扫到 7397 条, 新增 **14** 条
+- 最近更新: **2026-07-21 05:33**
+- 本轮扫到 7407 条, 新增 **10** 条
 
 ---
 
-## 本轮新发现 (14 条)
+## 本轮新发现 (10 条)
 
-### 肖战王一博新图发布，粉丝直呼很帅很帅
+### 演员余文乐宣布离婚！女方王棠云被称为“皮带千金”，比余文乐小7岁，参演过周杰伦、张靓颖的MV
 
-- 艺人/关键词: **王一博**
+- 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2388733261_8e612d4d04001o4ke.html>
+- 链接: <https://k.sina.com.cn/article_7879923018_1d5ae154a01901fja8.html>
 
-### 大麦网 抢票成功率仅0.5%，为何百万用户仍难抢到一张演唱会门票？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801do3i.html>
-
-### 特朗普喊话国际足联主席因凡蒂诺：美国必须再次举办世界杯，而且要在我在任期间实现，你听到了吗
+### 特朗普：伊朗将付出数倍的代价
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-07-20 08:35
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9NSmpaS1VxaTRKS0dveG5TaWMyQUlWbzhxc01uX2QzbmpWektZaTU3dmZzYS1iZ1dqN0c5eGJhLU1DWDRFZFQteUFIWU5HdGhFTjdXSkFhWmwtYy1KREcxb1dDekYwS0lEOEVuTl9XM3gtQjI3cW5BeEV4Y29wRkE?oc=5>
+- 场馆: 观察者
+- 时间: 2026-07-20 23:29
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5faG5WbENYMjc1d2lSYjUwZXNNdzF1MnRsQzhZT0ViQVl0TENBYW9jU1V2bGQ3dU5MWmh1QUNDVEZHeHpqVUd3b3hrMTJvTUxuRm5hRTJ2MnNaMTNqM3MwM1R4S1FZYVlPMGc?oc=5>
 
-### 特朗普宣布对加拿大部分商品加征50%关税 为史上首次338关税
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财新
-- 时间: 2026-07-21 00:06
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE81bUlicXdWXzBIQXVSZlp6UlZMRE9CTUFodHhjZm94cFRTQWlXM3BBNFN6bUF5MWZKSDBBd1d5dFcteHBzb3hwUXR5WUlLTDVjTGhESjQ1ZEFFSmFNVEMwSVRrak44dHNZUGc?oc=5>
-
-### 特朗普再挥关税大棒：美国将对加拿大特定商品加征50%关税
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-07-21 00:16
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTFB0TzZzcEgtVW54ZUhmR2tyeDk3SHpkX3FpVkJYUUZkczl1TWxoOTZqY2tlM2R1NVFNYUJuTTBmU05zcWs4ckN5Xw?oc=5>
-
-### 美伊对峙愈演愈烈？美军伤亡与日俱增，特朗普扬言要伊朗付数倍代价！
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-07-21 00:16
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE1kb2ROd3RJaVVsX1kyeFdlRHh0amlfM2F1NTdUOXk4aUFicFFkTjYzM0dIYlZ4UjRJM3p6ZkJra1BmTVlZbFRKMA?oc=5>
-
-### 美AI学者喊话特朗普：跟中国合作吧，早说美国赢不了
+### 特朗普签署命令：加征50%关税
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-21 00:38
-- 链接: <https://news.google.com/rss/articles/CBMipwFBVV95cUxOUW1BMXJYT3M2YlBIdkdLazNBY0tGNUFCek1vNi1iR2FfU1d1Q1pMRzI0SGxtTm5zSkhqb3lUbjNjUmZieTNNUlk4NmFvZGNCb3NEbGRDcElPTi1fak5YRWJqWGV5dXo3TmsxYVRvdDBFczgtb3FneS1lVFNKdE1sVEc3b01yeFpXdmd1ZGR6OFlrZkR3ekdkMG10bGhrMVgxcDlaYnFqNA?oc=5>
+- 时间: 2026-07-21 00:13
+- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTFBIRjZHWWtrR3kzbXVJNjdnb2pYS1BqM1I3Q2hJY1FLRVJHMXJNTEhqOUlvaWt4VHo0OU5ER29CX0w0Sm42bzY3MExYOWxDYUxsUjZkUXFnQ3QwNi1QenJBWGFkWlliY1J2VEdWSjh3?oc=5>
 
-### 特朗普：内塔尼亚胡不会在美国被捕
+### 白宫：特朗普与英国新任首相进行了通话
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-07-21 01:21
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RX1p5VlhQZmFqZHpWV3ZuMGxCWEhoc1FVZVpIQmU4Z0FLUG9oYTIxbzZvTW5GVXpWcUlmNjZLUW5oX0hVekZxOEZDX2lIc3phblh0Y2ptRV9pU2FoaXBVWHoxbGU?oc=5>
+- 场馆: 联合早报
+- 时间: 2026-07-20 15:55
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1JZGYtTENoXzRFN2REbWx1RzVYaklVLV9RM05EM1JDWHgzVGdUVlpYYzJnWVYzc2hadlJaU3ZYUnB6V3RRSGVhcXU4SUZyZ3pnQ1QzZUNUbjNlTFg3akg5T3lmMXBpUQ?oc=5>
 
-### 涉新“空军一号”，特朗普最新披露
+### 特朗普政府突发！美媒独家:特朗普AI安全“掌门人”辞职 白宫AI战略再添变数
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 金融界
+- 时间: 2026-07-21 05:17
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE1vLXJNeXNfSjMxeENRZ1RJcDM2MTFCbDRhU1FvbXB3bkQwQnZTNTN3RkhfTGNreXoxU2I5cWtOdEN5UWk0Ui0yLVp5WUlmdy13QTZfNXJpWkJKQXQtZnhock5PN0NxVmx3ODJyWnJYVEpPQQ?oc=5>
+
+### 特朗普回应“纽约可能逮捕内塔尼亚胡”：他在美国绝不会遭到逮捕，真正该被捕的，是将伊朗带入这场“死亡与毁灭漩涡”的罪魁祸首
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 每日经济新闻
+- 时间: 2026-07-21 03:29
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rMmRCTEZkTDVKQ2h5YjN3cThmQlU2WkdYc09iMzkydERubkFJdlUyVE13NmVELXR0dXVYeW93N2lfR1lwNXgwT1N5ZWNSU0dYMm5hZ0ZkNU9UV0ZDQnExZGpmTEc5UQ?oc=5>
+
+### 特朗普帖子的毫秒级数据流月费10万美元，交易圈已经有人买单了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 手机网易网
-- 时间: 2026-07-20 23:50
-- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTFB3OWxSYmdDSkY3UUM1LUJISHVHUVZjNklqOWFDZzNkLXhJek1yUW12d3JqSHQ4Njd4UVdjQTRUaUFGMDV1ZVh6dWozMXQwcldYdjRqUHNNUzc1RzZOUk9ZeGtR?oc=5>
+- 时间: 2026-07-21 04:37
+- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE5hTktuckFqUHctdEtLa1Q5NHpENF9UV3QzUWdJMkxkeWtEY21CbklSQlJMY1dkTU1XaGRVaF9SdndDdzEtNWZyTmk2Q3BtR29Odmx5Ti1ZM09Ham1CR0RaWjN3?oc=5>
 
-### 特朗普：内塔尼亚胡在美国期间不会被捕
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-07-21 01:58
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ad3J1cGQwTGZvLTI2Yi1GQnlPcEJBenA1bEwwSWMyZ3dRdVFBUFFFQzZrX2pTaUlNa3JFMTF2QzNLMng1ZndsMHVpTi15R1ltZ0l4N0I4UFZDYXJudlVmNUM5SmhySVBI?oc=5>
-
-### AI霸权之争升温，特朗普政府据报道考虑封杀中国模型
+### 特朗普对加拿大加征50%关税|trump|加拿大|美加墨贸易协定_新浪新闻
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-07-21 01:36
-- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOGZlTDhSaHJjUzQ0emhiMkVPZlhiNGd3dnpTbGtzbXR6SkYyM0FxSDdfazFpNGdVUGtwMlJ1elNNZXlkUzJfa3dxS1RpYlJvYThXTHA1dmpGUVhkOTJDRW94M3RZM3BlelIta2t5Q0JZV0FjSFlIVWFITi1tc29YTzd2ZmdrbXJjOTJkNkNPYUFIZlVLWGJDZ244VHdKNWlSWV8yVGdZMS1rQmNTV3U3YnhHN0J2MklrVzNuZWRNdkUydUNCQXd1cVFuU2VNWDR4Wl9sZ3dJM25KV3A1UkE?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-07-20 21:28
+- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTE5iMm1BYzF1aWJ5Rm1UNFg1YU5mLWRYcDBZS3BvY2x3UVhVQjRsTm9zLVdKanU3WUF2Mk5sWEs2MHNWTHU0R1R5cnZ4N0tlclhXc0RJVDgxd1FVVUc1cGhkRlJRUQ?oc=5>
 
-### trump
+### Trump declares retaliation against Iran automatic in Truth Social post
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-07-17 03:34
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5YOHBFWkJBZjYxR1F3Q0IwLVdPT0RkRnRtaE5BR0h4SjhQMzBjUTFIZ2tlZDEySEZjaXN5Sm5uSUM5VzBoSXdobVZUbUxEd0VsSTdkVV95VEFpV2tVbjZEdE9wOE03NXEtd0JrNDlKdnc?oc=5>
+- 场馆: TMGM trading
+- 时间: 2026-07-20 18:30
+- 链接: <https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZERnWUtNUWowMk95Uzd0cDhZSjZyU0VFS3BCVE1mOHZuSURyczRYWWczdkt2WmNuV1J3QTJvSzZadXpVLWk3S2x6QXNHZWZiYXNtUXF4VGltcVhPbFQ5X2d2VUhZMlVrbzJjdWFnYW52Yjd4MEZPODU3TlZ4UTlWNTVRUEI2UE1OYnlQV19NUkZpSFZGeDNXcmVSR2ViTll4OGRsREFoU3hwMEVJQnhRd3Z3VGdaV2NlcF9fTFFaOXZmeVhMUG1SWEdpRWhWU1FYSDA0SkVnS3g?oc=5>
 
-### 特朗普政府：在美建厂可享铝关税减半- 阿视亚经济
+### Trump：“与英国新任首相进行了非常愉快的交谈……讨论北海石油开发等问题”
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: 아시아경제
-- 时间: 2026-07-20 23:35
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RUXNQTmxvMnd1YjgtTmZiNEV5SllNbk5fVEwxRVZUZ0JGOUI5WTRBUXdPUmxvSnlkaXdkNWZIbnFQeVBEQ2FKNkRMcDU0UWwydmJWYTVnaWY5MWY2Q0p0T09KaFo?oc=5>
-
-### 明天特朗普将宣布买入ORCL
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-07-21 00:34
-- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxNY09TMUpuclF5cTZBN3ZCMmlNQWxhbE1xbGRNa1p5SnVPQTVEOTRnUHRHcDV2LURsSmk1S0o0MGplT0FHUzc3WmJtbUVFemc3X25UeXV0YlA5TlhFUUUzcXIxSFlqOUlXT0xuUFlNU0tfUTE0LXFFRzRMelVId0liMFd1RVpjN1laa2Y2b2QtNWlyTzNX?oc=5>
+- 时间: 2026-07-21 02:19
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBWb202M25wLW9KWnh5MlI3TzdPUENJS2JLQ283Z1h0ajdlUDRNam1XMmtHZnBGV3FoZzhLM1VQcnk4a1hfOWhENWNaWE1ZVm5Ec3hGcWNrek41WV9pN3VHUzNNMlE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-21 05:33  (10 条)
+
+- **周杰伦** | 演员余文乐宣布离婚！女方王棠云被称为“皮带千金”，比余文乐小7岁，参演过周杰伦、张靓颖的MV <https://k.sina.com.cn/article_7879923018_1d5ae154a01901fja8.html>
+- **特朗普** | 特朗普：伊朗将付出数倍的代价 <https://news.google.com/rss/articles/CBMiakFVX3lxTE5faG5WbENYMjc1d2lSYjUwZXNNdzF1MnRsQzhZT0ViQVl0TENBYW9jU1V2bGQ3dU5MWmh1QUNDVEZHeHpqVUd3b3hrMTJvTUxuRm5hRTJ2MnNaMTNqM3MwM1R4S1FZYVlPMGc?oc=5>
+- **特朗普** | 特朗普签署命令：加征50%关税 <https://news.google.com/rss/articles/CBMibkFVX3lxTFBIRjZHWWtrR3kzbXVJNjdnb2pYS1BqM1I3Q2hJY1FLRVJHMXJNTEhqOUlvaWt4VHo0OU5ER29CX0w0Sm42bzY3MExYOWxDYUxsUjZkUXFnQ3QwNi1QenJBWGFkWlliY1J2VEdWSjh3?oc=5>
+- **特朗普** | 白宫：特朗普与英国新任首相进行了通话 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1JZGYtTENoXzRFN2REbWx1RzVYaklVLV9RM05EM1JDWHgzVGdUVlpYYzJnWVYzc2hadlJaU3ZYUnB6V3RRSGVhcXU4SUZyZ3pnQ1QzZUNUbjNlTFg3akg5T3lmMXBpUQ?oc=5>
+- **特朗普** | 特朗普政府突发！美媒独家:特朗普AI安全“掌门人”辞职 白宫AI战略再添变数 <https://news.google.com/rss/articles/CBMickFVX3lxTE1vLXJNeXNfSjMxeENRZ1RJcDM2MTFCbDRhU1FvbXB3bkQwQnZTNTN3RkhfTGNreXoxU2I5cWtOdEN5UWk0Ui0yLVp5WUlmdy13QTZfNXJpWkJKQXQtZnhock5PN0NxVmx3ODJyWnJYVEpPQQ?oc=5>
+- **特朗普** | 特朗普回应“纽约可能逮捕内塔尼亚胡”：他在美国绝不会遭到逮捕，真正该被捕的，是将伊朗带入这场“死亡与毁灭漩涡”的罪魁祸首 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rMmRCTEZkTDVKQ2h5YjN3cThmQlU2WkdYc09iMzkydERubkFJdlUyVE13NmVELXR0dXVYeW93N2lfR1lwNXgwT1N5ZWNSU0dYMm5hZ0ZkNU9UV0ZDQnExZGpmTEc5UQ?oc=5>
+- **特朗普** | 特朗普帖子的毫秒级数据流月费10万美元，交易圈已经有人买单了 <https://news.google.com/rss/articles/CBMiYkFVX3lxTE5hTktuckFqUHctdEtLa1Q5NHpENF9UV3QzUWdJMkxkeWtEY21CbklSQlJMY1dkTU1XaGRVaF9SdndDdzEtNWZyTmk2Q3BtR29Odmx5Ti1ZM09Ham1CR0RaWjN3?oc=5>
+- **Trump** | 特朗普对加拿大加征50%关税|trump|加拿大|美加墨贸易协定_新浪新闻 <https://news.google.com/rss/articles/CBMiY0FVX3lxTE5iMm1BYzF1aWJ5Rm1UNFg1YU5mLWRYcDBZS3BvY2x3UVhVQjRsTm9zLVdKanU3WUF2Mk5sWEs2MHNWTHU0R1R5cnZ4N0tlclhXc0RJVDgxd1FVVUc1cGhkRlJRUQ?oc=5>
+- **Trump** | Trump declares retaliation against Iran automatic in Truth Social post <https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZERnWUtNUWowMk95Uzd0cDhZSjZyU0VFS3BCVE1mOHZuSURyczRYWWczdkt2WmNuV1J3QTJvSzZadXpVLWk3S2x6QXNHZWZiYXNtUXF4VGltcVhPbFQ5X2d2VUhZMlVrbzJjdWFnYW52Yjd4MEZPODU3TlZ4UTlWNTVRUEI2UE1OYnlQV19NUkZpSFZGeDNXcmVSR2ViTll4OGRsREFoU3hwMEVJQnhRd3Z3VGdaV2NlcF9fTFFaOXZmeVhMUG1SWEdpRWhWU1FYSDA0SkVnS3g?oc=5>
+- **Trump** | Trump：“与英国新任首相进行了非常愉快的交谈……讨论北海石油开发等问题” <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBWb202M25wLW9KWnh5MlI3TzdPUENJS2JLQ283Z1h0ajdlUDRNam1XMmtHZnBGV3FoZzhLM1VQcnk4a1hfOWhENWNaWE1ZVm5Ec3hGcWNrek41WV9pN3VHUzNNMlE?oc=5>
 
 ### 2026-07-21 02:03  (14 条)
 
