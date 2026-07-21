@@ -1,72 +1,82 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-21 16:18**
-- 本轮扫到 7438 条, 新增 **7** 条
+- 最近更新: **2026-07-21 17:51**
+- 本轮扫到 7445 条, 新增 **7** 条
 
 ---
 
 ## 本轮新发现 (7 条)
 
-### 特朗普誓言要让伊朗为美军士兵身亡“付出代价” 调解方力促冲突降温
+### 加拿大总理卡尼与特朗普同意在美国50%关税生效前加紧谈判
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-20 19:26
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxQREpHc2Zod0lzYmJYelA0dFBnYk9qWC13TEotTGxNZnF2OEltZXZhdnpUOFhfM01nTHhvRC01VlRadG1iRjkxYV8zYVJObG8xZEFyNmlJWWV3c3dFSk11bHZzWXlGOFVlZWtPb3Q0NkxjcEJxQlpxbDJPTkozb3VXNS1ZR0hUcHM?oc=5>
+- 时间: 2026-07-21 17:27
+- 链接: <https://news.google.com/rss/articles/CBMipwJBVV95cUxOV09QY0tTeFNDdnU4T2JjZUpqSDl6WVBodWk2RzRRS0l5T25aYVp0SXdKRHNtQm5pZkdUcWRkd3kxRC03THJ3Q1BEbFJRYnl4M2t4ckdjYk43ZWUtVzhqR3laNlJSWlI0cGIwaWJ3dnZicUczQzJYRHF1a3p6TTduZlBEbEM4X28tT0VtdVZVVURRbEdUOWVZcUtxOWx5TnJzeUVITHZfNjR3aFIyYXV5VWxqMHFEVloxRERnYm1kUFVjZDViUTlHN1prUkgyT3AyT2RHa0dEM0lybnFVV1ByMjYtZHRoYjlRSXpQWWZkVkV3azhBR285NFNnRTY4djVFRjFqbzRPMkdMQU5DbHJoTWxSUGJodTAtZHFmeWthNWcyRkdlLWJB?oc=5>
 
-### 特朗普本周拟对数十个国家加征新一轮关税
+### 特朗普10%临时关税即将到期，美国拟启动301关税“接棒”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-07-21 12:05
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTFBhcHk4TTZPZmEyNWRVM2VDRnowMTRJOGMwbnRGQkdiTE9ERWxkN2RKODgyN3RHV05pUVR0emNFWXFHRE5WQlpkeGs3anF3RVN3RE5ZbVdJWGwzMktWMHc?oc=5>
+
+### 特朗普：胡塞武装若封锁红海，美国将采取行动
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-07-21 10:27
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE42cjFWVG1RdUJhZGgtdVA4REwxa3ZSUjhVZDBadm5HN1ZBZVdTMEtoaHV0OUNEcnNnTWtoclp3dnBUNzlUR0VBSE94TFI?oc=5>
+- 时间: 2026-07-21 17:32
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5IZndUa0Vsa3RPOHRNVFNJN191Vzktek5WMWZ0LXRzNnBrdGR3dWoxOTNENTFuSm5HNHpON2NxZHZOX0dGUlVodTF5U2c?oc=5>
 
-### 特朗普宣布针对加拿大汽车、乳制品及酒类产品征50%关税
+### 特朗普在白宫会见黎巴嫩总统前与其会面寒暄。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-21 10:32
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMkd0MVBoelpsWFk0RWo0cTQ3YS0xaU5wcHllclZESmtvU1ZMY2k0Q2J2U2tzNnZGNW1JeU5ZTW96OHZUejFaby0xSFhZSjU1US1yVGg5cHA3RW5nTjd2OURCdV9tNEluR1JqLXF1WnEyOWFFZWpPVlFmZTkzeXVnMVhfV0NIVzVKeVhuMmRuMFRlYnFzTS04TjZZSDhKZnNRVXI0OTc3S3VvOEgydlVVLV96STNYeGt6Vy1aeXowNlctbFhFVVpRZXZCU3NTVFNLWkYtMzdYNnkwZFFPQmlv?oc=5>
+- 时间: 2026-07-21 15:08
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1JM3NidGdMV2hHSnFPa09ieDVZZEEyRmR5d0hUNDFQaEZ6b1lrV0JnZ0hMRG5ETk5pSEpURnNXdlFhQ0xRZmEweGxfdw?oc=5>
 
 ### 特朗普、因凡蒂诺被嘘
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-20 07:00
-- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE1OaVg3NktWdnViRzc2MC03M1F2NldpMFVjV0NSdzBGZ1pUT1RTRkpMWjNKOURGTnB3YTdaOGZUTFg1cE5ib1ZROVowSU0yejhQa1E0Nm9xVUhSLXMwOTF4R3IxSzViWWZEOU5BdGd5RWFlWGE2aWYwWjlIS3JXUQ?oc=5>
+- 时间: 2026-07-20 01:10
+- 链接: <https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNnBqcjFKR0R3cUFoMU1sUzdvaW5VaXNROGFKVUNiVXFqRHR2UWtGb1BvUTBrbGxpY2NNZ2NXcmxXZUZTS0d5Sk1ha3c5SWhuOWl0azUyaFZNNWFfNExJUkxfY2l4WDRMbi1MYzFmcVVyNk1zRkRLaFJKemJIVktTU0VURjJVb2pVd1FMMXFmRkNEUVBDVXVuWGRqX1hLdk42LVdQTlBua2FBeU1wbkpwMzIzOWJmQ2tNOEhpbHV4Q0FyZlllaUdtS2dpUTdPS190REhN?oc=5>
 
-### 特朗普支持率暴跌30%，妈妈群体与共和党集体背弃
+### 西班牙队发布夺冠照 特朗普总统被“裁”掉了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 手机网易网
-- 时间: 2026-07-21 14:11
-- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE5LNkd4TVlwZm5zOThRQUtGcUdOV3hXc0MyS1RaRFJUeHJrZE1peGY1a3BFZGNTbENPbVhEUFZBT1RhdjJFRDhTbUwxdG1fUjBGdk9LS2VmYzIzR3FzSVBCQmhn?oc=5>
+- 场馆: 新京报
+- 时间: 2026-07-21 14:19
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBWcWNGSXZoRjFpR1NXekQ5bTNHTnI3TWFLdG5EaUxDNzZ3TGxsWHhnbXZzUk03UlI1OGdHWTREWDAtblNBMWVBczl3SzR4c0x1ZDM0Z0U1WC05bkJJeGdzRE9EUVU?oc=5>
 
-### 8000万市值的无人机股票，与$UMAC合作，并与特朗普家族有关联
+### 柏林飞鸿 - 伊朗战争：特朗普陷入困境
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-07-21 15:36
-- 链接: <https://news.google.com/rss/articles/CBMiswFBVV95cUxPTllkMVdvZDFxazU0d1VBMFVaUHp5a1lRTmZHbUgtOGhLdHRSMmlPN1RMbTlkakhPNEJHMURxUXh4akZWNDRGTjVWUHZiUURRVTdxMms3Q1FNUHRHVnl0UmNkTDNDU0JNYkVOaG1haXFpekEzZlhCOFhncTc1eW02U1RPZXh0eFV3QXN2emNOa2c1b21LSDRWaGhkV3lJSWJIbWFPcDF2MXpWamNrZlBDdlAwbw?oc=5>
-
-### 黎巴嫩总统到访白宫，支持黎巴嫩-以色列协议
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-07-21 16:06
-- 链接: <https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZ0RnQ2g1RUUyT0pGYzhLNk55LWJpOC1MWXpFM3BPNjYzOTdhdnk3dlRCdHZjZWVkS1ZDV3lYRDZ2OTB1MTJaQ3YyX3Fpd2IxN1hsZ2dxRTI3Wl9McGlGTTF6U0JhODBxMWJ5b19aU09scWhfWXM4OHluTUVFb1ZxNUJhOHFGOGRZMkdDVTNIQU9yYzRsR0hVck9CUWdmdnR4U2FKMnJnanVzNk1PYkFaWHhEZENMdWJDNjBWQWNKRjdud9IBxAFBVV95cUxOd0dqS2FmTVZEdWhoanpoMnZQZ1dZRDJXSWRRa0NiRjdvdjVuaWlLZU9EV1RkNTBSY0Frdm9fb096c3dvU2huaUtrU0NpLXFvNFYxVS03NWRaLUYyZmVTWUVsbmgwSjdZTzFqdjZjWlE1RUpCb1F2d3ZVS1JVWU0zbGh4QlVGTmVHa1pDU1BOYmZwLU5CRWpJSzY4SXptVDV0Z1BlVGNmdFNKaXFtYmRQNDE0aDNCeFpOb0pfNWRubGVZc3Jq?oc=5>
+- 场馆: RFI
+- 时间: 2026-07-21 15:30
+- 链接: <https://news.google.com/rss/articles/CBMirgJBVV95cUxQNU95bmlYWDg4UUhURkJTTl9NUllNRGZPTjNwV2s3cTE1SnNHUm5oS3cybGVzMTJyd3l4bjM1MHpVM2phUllZVm5PUVh1VEhiaHktbUMyeV9qckk5dmtJajNsb01JQ3dEcFdmbmJIc1VBaENSc2YxelRlNkhvOWVzSFdwdUFtSkJSNmlSejdFd3ZoSmNRckRHTU95Rmg0V1c1RmM4ay15MFNQUzZWSlc1SnpKakVvNmxsR2lIdzdpZTdkU0h6N01pRWIyemFIdWpMR091WlVxZTVRMC1wX0pVM09EMkV1cTY2WVRkZDB5NXphSTA1cEhBYjN3MHE4WE16Z2R3NTl3aXRERU5JSG9oVkdQRThBNHJjTzZNTHlaRzZ1ZnU3SndyX2xuMmRyUQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-21 17:51  (7 条)
+
+- **特朗普** | 加拿大总理卡尼与特朗普同意在美国50%关税生效前加紧谈判 <https://news.google.com/rss/articles/CBMipwJBVV95cUxOV09QY0tTeFNDdnU4T2JjZUpqSDl6WVBodWk2RzRRS0l5T25aYVp0SXdKRHNtQm5pZkdUcWRkd3kxRC03THJ3Q1BEbFJRYnl4M2t4ckdjYk43ZWUtVzhqR3laNlJSWlI0cGIwaWJ3dnZicUczQzJYRHF1a3p6TTduZlBEbEM4X28tT0VtdVZVVURRbEdUOWVZcUtxOWx5TnJzeUVITHZfNjR3aFIyYXV5VWxqMHFEVloxRERnYm1kUFVjZDViUTlHN1prUkgyT3AyT2RHa0dEM0lybnFVV1ByMjYtZHRoYjlRSXpQWWZkVkV3azhBR285NFNnRTY4djVFRjFqbzRPMkdMQU5DbHJoTWxSUGJodTAtZHFmeWthNWcyRkdlLWJB?oc=5>
+- **特朗普** | 特朗普10%临时关税即将到期，美国拟启动301关税“接棒” <https://news.google.com/rss/articles/CBMiXkFVX3lxTFBhcHk4TTZPZmEyNWRVM2VDRnowMTRJOGMwbnRGQkdiTE9ERWxkN2RKODgyN3RHV05pUVR0emNFWXFHRE5WQlpkeGs3anF3RVN3RE5ZbVdJWGwzMktWMHc?oc=5>
+- **特朗普** | 特朗普：胡塞武装若封锁红海，美国将采取行动 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5IZndUa0Vsa3RPOHRNVFNJN191Vzktek5WMWZ0LXRzNnBrdGR3dWoxOTNENTFuSm5HNHpON2NxZHZOX0dGUlVodTF5U2c?oc=5>
+- **特朗普** | 特朗普在白宫会见黎巴嫩总统前与其会面寒暄。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1JM3NidGdMV2hHSnFPa09ieDVZZEEyRmR5d0hUNDFQaEZ6b1lrV0JnZ0hMRG5ETk5pSEpURnNXdlFhQ0xRZmEweGxfdw?oc=5>
+- **特朗普** | 特朗普、因凡蒂诺被嘘 <https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNnBqcjFKR0R3cUFoMU1sUzdvaW5VaXNROGFKVUNiVXFqRHR2UWtGb1BvUTBrbGxpY2NNZ2NXcmxXZUZTS0d5Sk1ha3c5SWhuOWl0azUyaFZNNWFfNExJUkxfY2l4WDRMbi1MYzFmcVVyNk1zRkRLaFJKemJIVktTU0VURjJVb2pVd1FMMXFmRkNEUVBDVXVuWGRqX1hLdk42LVdQTlBua2FBeU1wbkpwMzIzOWJmQ2tNOEhpbHV4Q0FyZlllaUdtS2dpUTdPS190REhN?oc=5>
+- **特朗普** | 西班牙队发布夺冠照 特朗普总统被“裁”掉了 <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBWcWNGSXZoRjFpR1NXekQ5bTNHTnI3TWFLdG5EaUxDNzZ3TGxsWHhnbXZzUk03UlI1OGdHWTREWDAtblNBMWVBczl3SzR4c0x1ZDM0Z0U1WC05bkJJeGdzRE9EUVU?oc=5>
+- **特朗普** | 柏林飞鸿 - 伊朗战争：特朗普陷入困境 <https://news.google.com/rss/articles/CBMirgJBVV95cUxQNU95bmlYWDg4UUhURkJTTl9NUllNRGZPTjNwV2s3cTE1SnNHUm5oS3cybGVzMTJyd3l4bjM1MHpVM2phUllZVm5PUVh1VEhiaHktbUMyeV9qckk5dmtJajNsb01JQ3dEcFdmbmJIc1VBaENSc2YxelRlNkhvOWVzSFdwdUFtSkJSNmlSejdFd3ZoSmNRckRHTU95Rmg0V1c1RmM4ay15MFNQUzZWSlc1SnpKakVvNmxsR2lIdzdpZTdkU0h6N01pRWIyemFIdWpMR091WlVxZTVRMC1wX0pVM09EMkV1cTY2WVRkZDB5NXphSTA1cEhBYjN3MHE4WE16Z2R3NTl3aXRERU5JSG9oVkdQRThBNHJjTzZNTHlaRzZ1ZnU3SndyX2xuMmRyUQ?oc=5>
 
 ### 2026-07-21 16:18  (7 条)
 
