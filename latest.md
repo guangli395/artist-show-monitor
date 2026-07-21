@@ -1,94 +1,100 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-21 05:33**
-- 本轮扫到 7407 条, 新增 **10** 条
+- 最近更新: **2026-07-21 08:14**
+- 本轮扫到 7416 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (10 条)
+## 本轮新发现 (9 条)
 
-### 演员余文乐宣布离婚！女方王棠云被称为“皮带千金”，比余文乐小7岁，参演过周杰伦、张靓颖的MV
+### 特朗普“怒斥”中国，但仍寻求与习近平建立良好关系
 
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923018_1d5ae154a01901fja8.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 纽约时报中文网
+- 时间: 2026-07-20 03:08
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE4tVkFUVlBaVU1tVEZQczRjYmNUenVEdEpOSFpBZU9vUDRZVVcwelhLaVFYa2VQYkpIcEh3QnNlOEtHSGhtcTBaYV8tYWl3cFNxZlh6UHh0c3IzN3lWOHpqS09EWXVBQUxRTWc?oc=5>
 
-### 特朗普：伊朗将付出数倍的代价
+### 特朗普有了“新盟友”：说“我不是骗子”的尼克松
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 观察者
-- 时间: 2026-07-20 23:29
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5faG5WbENYMjc1d2lSYjUwZXNNdzF1MnRsQzhZT0ViQVl0TENBYW9jU1V2bGQ3dU5MWmh1QUNDVEZHeHpqVUd3b3hrMTJvTUxuRm5hRTJ2MnNaMTNqM3MwM1R4S1FZYVlPMGc?oc=5>
+- 时间: 2026-07-21 06:23
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1VR3hJZGM4cXRLS0x3eEdoRVplMGVQUmJhLXBZclRYdTBHcDlYMzRaczB5c3R2MmtzbUtZMl9yQ0UzQ0ZiOXlHcEVtYmxsS0ZjT1RDS3YzQ2pCWFRwNmtkdlNsZ3c2ejVMUWc?oc=5>
 
-### 特朗普签署命令：加征50%关税
+### 西班牙，你太不给特朗普面子了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-21 00:13
-- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTFBIRjZHWWtrR3kzbXVJNjdnb2pYS1BqM1I3Q2hJY1FLRVJHMXJNTEhqOUlvaWt4VHo0OU5ER29CX0w0Sm42bzY3MExYOWxDYUxsUjZkUXFnQ3QwNi1QenJBWGFkWlliY1J2VEdWSjh3?oc=5>
+- 时间: 2026-07-21 07:30
+- 链接: <https://news.google.com/rss/articles/CBMijgJBVV95cUxPNlRzcWdhN0E3b19mQzdGeFY0OWE4d2tpTGJqQ1E0anhkLWstTVllWlFGS3ExZkdJUm9TaENMM1MyMlRxTTJQcFRySUdPOFpiR2hNaXFCY0VEOWxtOGdQakZJMDhHanZXazlZSFhlVHVFVklRRVN4RGVmLUhUNkM1UUp0QTFqR2lCQ2JUTFdIekhFRjFkaUU4QzhCblhHTDZhSUZqY3hxZUxQbllPbE5OU3NPMElZOFJvSm1GNnFoSTBOMzVMMVJkc0NMNVhBRnpQb2dpZGRvZEZEMkpnOTBCTEh2Z0Z6YmFiQklDbWRSTU5OWE1fUnB0UmlPaWdqb3p5dXA1NnktZUFvLXZyUXc?oc=5>
 
-### 白宫：特朗普与英国新任首相进行了通话
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-07-20 15:55
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1JZGYtTENoXzRFN2REbWx1RzVYaklVLV9RM05EM1JDWHgzVGdUVlpYYzJnWVYzc2hadlJaU3ZYUnB6V3RRSGVhcXU4SUZyZ3pnQ1QzZUNUbjNlTFg3akg5T3lmMXBpUQ?oc=5>
-
-### 特朗普政府突发！美媒独家:特朗普AI安全“掌门人”辞职 白宫AI战略再添变数
+### 特朗普、因凡蒂诺被嘘
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 金融界
-- 时间: 2026-07-21 05:17
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE1vLXJNeXNfSjMxeENRZ1RJcDM2MTFCbDRhU1FvbXB3bkQwQnZTNTN3RkhfTGNreXoxU2I5cWtOdEN5UWk0Ui0yLVp5WUlmdy13QTZfNXJpWkJKQXQtZnhock5PN0NxVmx3ODJyWnJYVEpPQQ?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-07-20 01:10
+- 链接: <https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaE5TNXlCMFFSMENGTmdRRHlTc3RQaDItLVhqcGphU0VrdzlFVjRqNlRSTmE1MUhGQjExeFhMZE5sMkJHS0JFZUhKNWEyUjQtcFFaY2thUmFkUjZBQTQ2QjZvZkxHZUgxQ05lS0wzckVNWUtoZDdwdktuZUtLcFFfMzYySEFmU1JOaWk1endKVTF4dTY3M0VWdU5jVVNHSkNBcy04Nk5Id1ZnNExXcEFRQlJHemdKejhUV3JCLWEyM3NPc09uZ0lfaEhnT0dJZVBLTTA2Qg?oc=5>
 
-### 特朗普回应“纽约可能逮捕内塔尼亚胡”：他在美国绝不会遭到逮捕，真正该被捕的，是将伊朗带入这场“死亡与毁灭漩涡”的罪魁祸首
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 每日经济新闻
-- 时间: 2026-07-21 03:29
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rMmRCTEZkTDVKQ2h5YjN3cThmQlU2WkdYc09iMzkydERubkFJdlUyVE13NmVELXR0dXVYeW93N2lfR1lwNXgwT1N5ZWNSU0dYMm5hZ0ZkNU9UV0ZDQnExZGpmTEc5UQ?oc=5>
-
-### 特朗普帖子的毫秒级数据流月费10万美元，交易圈已经有人买单了
+### 西班牙足协发布夺冠举杯照，特朗普被P掉了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 手机网易网
-- 时间: 2026-07-21 04:37
-- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE5hTktuckFqUHctdEtLa1Q5NHpENF9UV3QzUWdJMkxkeWtEY21CbklSQlJMY1dkTU1XaGRVaF9SdndDdzEtNWZyTmk2Q3BtR29Odmx5Ti1ZM09Ham1CR0RaWjN3?oc=5>
+- 场馆: 观察者
+- 时间: 2026-07-21 07:39
+- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTE93NVpLRWh3ZGJ2Vjc4NXdOempUcGpPcG01NDcwbEpQeTlPMGxLeXhRdXoxT0c0VktseWl6WTNaTDJrVXV5ajhLVnhycVV0TGxZVEFsOUo5WExqbWlEbkk3YTc3VQ?oc=5>
 
-### 特朗普对加拿大加征50%关税|trump|加拿大|美加墨贸易协定_新浪新闻
+### 加拿大省长炮轰特朗普：一堆废话，让人抓狂
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-07-20 21:28
-- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTE5iMm1BYzF1aWJ5Rm1UNFg1YU5mLWRYcDBZS3BvY2x3UVhVQjRsTm9zLVdKanU3WUF2Mk5sWEs2MHNWTHU0R1R5cnZ4N0tlclhXc0RJVDgxd1FVVUc1cGhkRlJRUQ?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-07-21 03:44
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE00cXE3MjlfMmVOaVlvcUlpSFZ5V2JFcVdzZS1LcUprdThmdmtmTVg0SHhaRlJFWDFOM0FPVFRUdjZfdU45TkhxWnNRUEY?oc=5>
 
-### Trump declares retaliation against Iran automatic in Truth Social post
+### 特朗普：内塔尼亚胡在美不会被捕
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: TMGM trading
-- 时间: 2026-07-20 18:30
-- 链接: <https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZERnWUtNUWowMk95Uzd0cDhZSjZyU0VFS3BCVE1mOHZuSURyczRYWWczdkt2WmNuV1J3QTJvSzZadXpVLWk3S2x6QXNHZWZiYXNtUXF4VGltcVhPbFQ5X2d2VUhZMlVrbzJjdWFnYW52Yjd4MEZPODU3TlZ4UTlWNTVRUEI2UE1OYnlQV19NUkZpSFZGeDNXcmVSR2ViTll4OGRsREFoU3hwMEVJQnhRd3Z3VGdaV2NlcF9fTFFaOXZmeVhMUG1SWEdpRWhWU1FYSDA0SkVnS3g?oc=5>
+- 场馆: 观察者
+- 时间: 2026-07-20 23:47
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBxNGhTMEVYVHN4cXIxQl8xRk1wcEFOZW1PVUpsa2lWTnYzendlSVhNQV9sWjRXX29VMkVyTzhyTHFCTjkxakl2cmhsUHhCQUgwSkl2Y0kxNm8wNlNtUjdPdVJ1Z2JhUE5aT3c?oc=5>
 
-### Trump：“与英国新任首相进行了非常愉快的交谈……讨论北海石油开发等问题”
+### 纽约市长威胁逮捕内塔尼亚胡，特朗普表态
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 아시아경제
-- 时间: 2026-07-21 02:19
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBWb202M25wLW9KWnh5MlI3TzdPUENJS2JLQ283Z1h0ajdlUDRNam1XMmtHZnBGV3FoZzhLM1VQcnk4a1hfOWhENWNaWE1ZVm5Ec3hGcWNrek41WV9pN3VHUzNNMlE?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-07-20 18:39
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5BaEEyQnF0cFRCM3Nkdnlacjkzc3ExWDFMUkQzRC0tMXEybVJENHVtX1V3Z25mZHZiQ21NSTJlZlJoZnpWR21sWEl1ZUo?oc=5>
+
+### 特朗普称内塔尼亚胡不会在美国被捕
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-07-21 01:12
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9jcFFmRElGOE85NVp5ZWgtakJDOGtGTWVhY0Mwb29aZ3hzOGRVMDhiUGg4S3dnVmxEczRYcmdDWDZqcVoxMG5kQndPSzY5Z2NVWU1POUtIdXp1V2tfeGdnaTllZS1qam5lQ2Jwbm5VN3M4cUw0ZExLVVpiUld6X1k?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-21 08:14  (9 条)
+
+- **特朗普** | 特朗普“怒斥”中国，但仍寻求与习近平建立良好关系 <https://news.google.com/rss/articles/CBMiakFVX3lxTE4tVkFUVlBaVU1tVEZQczRjYmNUenVEdEpOSFpBZU9vUDRZVVcwelhLaVFYa2VQYkpIcEh3QnNlOEtHSGhtcTBaYV8tYWl3cFNxZlh6UHh0c3IzN3lWOHpqS09EWXVBQUxRTWc?oc=5>
+- **特朗普** | 特朗普有了“新盟友”：说“我不是骗子”的尼克松 <https://news.google.com/rss/articles/CBMiakFVX3lxTE1VR3hJZGM4cXRLS0x3eEdoRVplMGVQUmJhLXBZclRYdTBHcDlYMzRaczB5c3R2MmtzbUtZMl9yQ0UzQ0ZiOXlHcEVtYmxsS0ZjT1RDS3YzQ2pCWFRwNmtkdlNsZ3c2ejVMUWc?oc=5>
+- **特朗普** | 西班牙，你太不给特朗普面子了 <https://news.google.com/rss/articles/CBMijgJBVV95cUxPNlRzcWdhN0E3b19mQzdGeFY0OWE4d2tpTGJqQ1E0anhkLWstTVllWlFGS3ExZkdJUm9TaENMM1MyMlRxTTJQcFRySUdPOFpiR2hNaXFCY0VEOWxtOGdQakZJMDhHanZXazlZSFhlVHVFVklRRVN4RGVmLUhUNkM1UUp0QTFqR2lCQ2JUTFdIekhFRjFkaUU4QzhCblhHTDZhSUZqY3hxZUxQbllPbE5OU3NPMElZOFJvSm1GNnFoSTBOMzVMMVJkc0NMNVhBRnpQb2dpZGRvZEZEMkpnOTBCTEh2Z0Z6YmFiQklDbWRSTU5OWE1fUnB0UmlPaWdqb3p5dXA1NnktZUFvLXZyUXc?oc=5>
+- **特朗普** | 特朗普、因凡蒂诺被嘘 <https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaE5TNXlCMFFSMENGTmdRRHlTc3RQaDItLVhqcGphU0VrdzlFVjRqNlRSTmE1MUhGQjExeFhMZE5sMkJHS0JFZUhKNWEyUjQtcFFaY2thUmFkUjZBQTQ2QjZvZkxHZUgxQ05lS0wzckVNWUtoZDdwdktuZUtLcFFfMzYySEFmU1JOaWk1endKVTF4dTY3M0VWdU5jVVNHSkNBcy04Nk5Id1ZnNExXcEFRQlJHemdKejhUV3JCLWEyM3NPc09uZ0lfaEhnT0dJZVBLTTA2Qg?oc=5>
+- **特朗普** | 西班牙足协发布夺冠举杯照，特朗普被P掉了 <https://news.google.com/rss/articles/CBMiY0FVX3lxTE93NVpLRWh3ZGJ2Vjc4NXdOempUcGpPcG01NDcwbEpQeTlPMGxLeXhRdXoxT0c0VktseWl6WTNaTDJrVXV5ajhLVnhycVV0TGxZVEFsOUo5WExqbWlEbkk3YTc3VQ?oc=5>
+- **特朗普** | 加拿大省长炮轰特朗普：一堆废话，让人抓狂 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE00cXE3MjlfMmVOaVlvcUlpSFZ5V2JFcVdzZS1LcUprdThmdmtmTVg0SHhaRlJFWDFOM0FPVFRUdjZfdU45TkhxWnNRUEY?oc=5>
+- **特朗普** | 特朗普：内塔尼亚胡在美不会被捕 <https://news.google.com/rss/articles/CBMiakFVX3lxTFBxNGhTMEVYVHN4cXIxQl8xRk1wcEFOZW1PVUpsa2lWTnYzendlSVhNQV9sWjRXX29VMkVyTzhyTHFCTjkxakl2cmhsUHhCQUgwSkl2Y0kxNm8wNlNtUjdPdVJ1Z2JhUE5aT3c?oc=5>
+- **特朗普** | 纽约市长威胁逮捕内塔尼亚胡，特朗普表态 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5BaEEyQnF0cFRCM3Nkdnlacjkzc3ExWDFMUkQzRC0tMXEybVJENHVtX1V3Z25mZHZiQ21NSTJlZlJoZnpWR21sWEl1ZUo?oc=5>
+- **特朗普** | 特朗普称内塔尼亚胡不会在美国被捕 <https://news.google.com/rss/articles/CBMif0FVX3lxTE9jcFFmRElGOE85NVp5ZWgtakJDOGtGTWVhY0Mwb29aZ3hzOGRVMDhiUGg4S3dnVmxEczRYcmdDWDZqcVoxMG5kQndPSzY5Z2NVWU1POUtIdXp1V2tfeGdnaTllZS1qam5lQ2Jwbm5VN3M4cUw0ZExLVVpiUld6X1k?oc=5>
 
 ### 2026-07-21 05:33  (10 条)
 
