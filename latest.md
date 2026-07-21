@@ -1,72 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-21 17:51**
-- 本轮扫到 7445 条, 新增 **7** 条
+- 最近更新: **2026-07-21 19:09**
+- 本轮扫到 7448 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (3 条)
 
-### 加拿大总理卡尼与特朗普同意在美国50%关税生效前加紧谈判
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-21 17:27
-- 链接: <https://news.google.com/rss/articles/CBMipwJBVV95cUxOV09QY0tTeFNDdnU4T2JjZUpqSDl6WVBodWk2RzRRS0l5T25aYVp0SXdKRHNtQm5pZkdUcWRkd3kxRC03THJ3Q1BEbFJRYnl4M2t4ckdjYk43ZWUtVzhqR3laNlJSWlI0cGIwaWJ3dnZicUczQzJYRHF1a3p6TTduZlBEbEM4X28tT0VtdVZVVURRbEdUOWVZcUtxOWx5TnJzeUVITHZfNjR3aFIyYXV5VWxqMHFEVloxRERnYm1kUFVjZDViUTlHN1prUkgyT3AyT2RHa0dEM0lybnFVV1ByMjYtZHRoYjlRSXpQWWZkVkV3azhBR285NFNnRTY4djVFRjFqbzRPMkdMQU5DbHJoTWxSUGJodTAtZHFmeWthNWcyRkdlLWJB?oc=5>
-
-### 特朗普10%临时关税即将到期，美国拟启动301关税“接棒”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-07-21 12:05
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTFBhcHk4TTZPZmEyNWRVM2VDRnowMTRJOGMwbnRGQkdiTE9ERWxkN2RKODgyN3RHV05pUVR0emNFWXFHRE5WQlpkeGs3anF3RVN3RE5ZbVdJWGwzMktWMHc?oc=5>
-
-### 特朗普：胡塞武装若封锁红海，美国将采取行动
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-21 17:32
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5IZndUa0Vsa3RPOHRNVFNJN191Vzktek5WMWZ0LXRzNnBrdGR3dWoxOTNENTFuSm5HNHpON2NxZHZOX0dGUlVodTF5U2c?oc=5>
-
-### 特朗普在白宫会见黎巴嫩总统前与其会面寒暄。
+### 西班牙，你太不给特朗普面子了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-21 15:08
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1JM3NidGdMV2hHSnFPa09ieDVZZEEyRmR5d0hUNDFQaEZ6b1lrV0JnZ0hMRG5ETk5pSEpURnNXdlFhQ0xRZmEweGxfdw?oc=5>
+- 时间: 2026-07-20 23:32
+- 链接: <https://news.google.com/rss/articles/CBMizAFBVV95cUxOeldhVmpVM3labXlVT0xqakFUb0o2RVpMa1BuR2stdGlwTkFuVG8zd19OZ2wtNkkwSmwyRHBoQWNYMU91dkZTUHFMdnBNbFpxSE1OZUp1UDVOdjFoVHl3SjEyV3YzZW1GdmdLTEJtaE81YjRuZzNxMmdFSC1ZbEx5YWh4b2ZqanNXa2poOE5mMjNXT3I0SWxwemZraVY3TVhEXzRKNmU4TnhqZVBFTXFONjNUYVB6emJQUDdzWkhfejlzMk81c1VBLTdHamw?oc=5>
 
-### 特朗普、因凡蒂诺被嘘
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-20 01:10
-- 链接: <https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNnBqcjFKR0R3cUFoMU1sUzdvaW5VaXNROGFKVUNiVXFqRHR2UWtGb1BvUTBrbGxpY2NNZ2NXcmxXZUZTS0d5Sk1ha3c5SWhuOWl0azUyaFZNNWFfNExJUkxfY2l4WDRMbi1MYzFmcVVyNk1zRkRLaFJKemJIVktTU0VURjJVb2pVd1FMMXFmRkNEUVBDVXVuWGRqX1hLdk42LVdQTlBua2FBeU1wbkpwMzIzOWJmQ2tNOEhpbHV4Q0FyZlllaUdtS2dpUTdPS190REhN?oc=5>
-
-### 西班牙队发布夺冠照 特朗普总统被“裁”掉了
+### “特朗普世界杯”，被嘘了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-07-21 14:19
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBWcWNGSXZoRjFpR1NXekQ5bTNHTnI3TWFLdG5EaUxDNzZ3TGxsWHhnbXZzUk03UlI1OGdHWTREWDAtblNBMWVBczl3SzR4c0x1ZDM0Z0U1WC05bkJJeGdzRE9EUVU?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-07-21 07:15
+- 链接: <https://news.google.com/rss/articles/CBMiyAJBVV95cUxPZWJoLVhIRDJ4NkYtQjRXZUdCUkR6Q0toU2Jhb2xybmludXljMDIzeGQwcUQzdE9UZm5MXzhUZlhibmZVNjdyX0ZXeVI1Mll2cTlLb2xzSlNxVXlYaWdtbG1HUDNKSWJKWi0zNDFpalhQSHhFTlljb1AxNFA3YkdrN1lucHJwY2hwRzFablBaV3JySVVvUUF4aXpqVzJmaEpuZnB2cXVLTHlCWF9VM2F5SnE3NW5aZWk0Q2cybGxMMkxLb2RXZmVha0JuM0FWbVY0RzJ6TGFCbmZING45YTZEWndmZDVNOWprMmlacFBOSVNIRE15Q3Nlb0JFTWdrOXVkek1Zc2tRVDFSVlJTWG9PalQ4VEF1LUlxc1F3Uk8wRy0zRGVBaGNXWGFYMGhDY2hzbnh1SV9aZGEyZFJFTlViZjFQX01uOHp5?oc=5>
 
-### 柏林飞鸿 - 伊朗战争：特朗普陷入困境
+### 特朗普总统称伊朗“迫切”希望对话，伊朗官员同时与调解人巴基斯坦会面
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-07-21 15:30
-- 链接: <https://news.google.com/rss/articles/CBMirgJBVV95cUxQNU95bmlYWDg4UUhURkJTTl9NUllNRGZPTjNwV2s3cTE1SnNHUm5oS3cybGVzMTJyd3l4bjM1MHpVM2phUllZVm5PUVh1VEhiaHktbUMyeV9qckk5dmtJajNsb01JQ3dEcFdmbmJIc1VBaENSc2YxelRlNkhvOWVzSFdwdUFtSkJSNmlSejdFd3ZoSmNRckRHTU95Rmg0V1c1RmM4ay15MFNQUzZWSlc1SnpKakVvNmxsR2lIdzdpZTdkU0h6N01pRWIyemFIdWpMR091WlVxZTVRMC1wX0pVM09EMkV1cTY2WVRkZDB5NXphSTA1cEhBYjN3MHE4WE16Z2R3NTl3aXRERU5JSG9oVkdQRThBNHJjTzZNTHlaRzZ1ZnU3SndyX2xuMmRyUQ?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-07-21 18:54
+- 链接: <https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZFZycGRBeUhaUTczcmMtU2tSdTRrT3NULUpHU0M0Z1hycW41R1QyNXYxRGE1QlBLOTRUQ3Q1dHNydUIzOUdxZHJuVEdmbVVUd3hWOHhOVElZWVVRUDAxM2ZXU2JuX0JMeGhlaVR6UEtuQm1JMW9vV0ZvcjJUMUtLeHRSOVdOaWdNWjdpS09fT0YwdjBjbDFZUlMzYkdwNDgxcUc5X0hMdzF6U1VUOXRpc2hNQmtOOWN0dmFXdVdKR1VOVjZjekhUamhNUFkzM2RHR1hUWEpqblZmeWJ0a3NKdG1TONIB5gFBVV95cUxPT0hjWU9obHBiLXhaM3BEV0pLOFZQaXYteTRaYlAwaFdMZVNpRHlzMFNMOGk1NlAwckdPc3NxYThIcURMS2k5bS11MFM0Y0Q1REtLcGFrMXRJUlRmTzg4ZDRvc3hCckJLZFZrZGJPZk5TQTNOa1ZqV2hQVFZMTXFZbERlV0lwUERjemFVOFU0NFl3dWJUaER6MmJUVjhHdmRhWTBSV0FiTU5PaksteXFocVZxREhPNFByT2RObGNnVm5sazI0aDhTaUZ2N1JFY2tjc3ZEX3JuRDZmdHp2TDNBai1PWlh5UQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-21 19:09  (3 条)
+
+- **特朗普** | 西班牙，你太不给特朗普面子了 <https://news.google.com/rss/articles/CBMizAFBVV95cUxOeldhVmpVM3labXlVT0xqakFUb0o2RVpMa1BuR2stdGlwTkFuVG8zd19OZ2wtNkkwSmwyRHBoQWNYMU91dkZTUHFMdnBNbFpxSE1OZUp1UDVOdjFoVHl3SjEyV3YzZW1GdmdLTEJtaE81YjRuZzNxMmdFSC1ZbEx5YWh4b2ZqanNXa2poOE5mMjNXT3I0SWxwemZraVY3TVhEXzRKNmU4TnhqZVBFTXFONjNUYVB6emJQUDdzWkhfejlzMk81c1VBLTdHamw?oc=5>
+- **特朗普** | “特朗普世界杯”，被嘘了 <https://news.google.com/rss/articles/CBMiyAJBVV95cUxPZWJoLVhIRDJ4NkYtQjRXZUdCUkR6Q0toU2Jhb2xybmludXljMDIzeGQwcUQzdE9UZm5MXzhUZlhibmZVNjdyX0ZXeVI1Mll2cTlLb2xzSlNxVXlYaWdtbG1HUDNKSWJKWi0zNDFpalhQSHhFTlljb1AxNFA3YkdrN1lucHJwY2hwRzFablBaV3JySVVvUUF4aXpqVzJmaEpuZnB2cXVLTHlCWF9VM2F5SnE3NW5aZWk0Q2cybGxMMkxLb2RXZmVha0JuM0FWbVY0RzJ6TGFCbmZING45YTZEWndmZDVNOWprMmlacFBOSVNIRE15Q3Nlb0JFTWdrOXVkek1Zc2tRVDFSVlJTWG9PalQ4VEF1LUlxc1F3Uk8wRy0zRGVBaGNXWGFYMGhDY2hzbnh1SV9aZGEyZFJFTlViZjFQX01uOHp5?oc=5>
+- **Trump** | 特朗普总统称伊朗“迫切”希望对话，伊朗官员同时与调解人巴基斯坦会面 <https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZFZycGRBeUhaUTczcmMtU2tSdTRrT3NULUpHU0M0Z1hycW41R1QyNXYxRGE1QlBLOTRUQ3Q1dHNydUIzOUdxZHJuVEdmbVVUd3hWOHhOVElZWVVRUDAxM2ZXU2JuX0JMeGhlaVR6UEtuQm1JMW9vV0ZvcjJUMUtLeHRSOVdOaWdNWjdpS09fT0YwdjBjbDFZUlMzYkdwNDgxcUc5X0hMdzF6U1VUOXRpc2hNQmtOOWN0dmFXdVdKR1VOVjZjekhUamhNUFkzM2RHR1hUWEpqblZmeWJ0a3NKdG1TONIB5gFBVV95cUxPT0hjWU9obHBiLXhaM3BEV0pLOFZQaXYteTRaYlAwaFdMZVNpRHlzMFNMOGk1NlAwckdPc3NxYThIcURMS2k5bS11MFM0Y0Q1REtLcGFrMXRJUlRmTzg4ZDRvc3hCckJLZFZrZGJPZk5TQTNOa1ZqV2hQVFZMTXFZbERlV0lwUERjemFVOFU0NFl3dWJUaER6MmJUVjhHdmRhWTBSV0FiTU5PaksteXFocVZxREhPNFByT2RObGNnVm5sazI0aDhTaUZ2N1JFY2tjc3ZEX3JuRDZmdHp2TDNBai1PWlh5UQ?oc=5>
 
 ### 2026-07-21 17:51  (7 条)
 
