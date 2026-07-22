@@ -1,27 +1,35 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-22 12:54**
-- 本轮扫到 7507 条, 新增 **4** 条
+- 最近更新: **2026-07-22 14:59**
+- 本轮扫到 7514 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (7 条)
 
-### 美AI学者喊话特朗普：跟中国合作吧，早说美国赢不了
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-07-20 23:48
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1EbTZ1R0s4YkU1V2l6WnY3LWpEVlRxaGFvWXVYbnoyLWtodHEtbmlJek5pYUxsbEhvZm04U3pJemRVdFN6ckxmZG5WQmJHazhKbm5ELWxRZHh3Tm14UlktLTJhb0tlZHhGcEE?oc=5>
-
-### 美媒：特朗普希望国际足联主席因凡蒂诺出任联合国秘书长，认为“他拥有特殊能力，能够把人们团结在一起”
+### “美国警告英国新任首相”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-22 01:33
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxQT0NPZmZUalZGbWliNFNFUlZOVU50b2tON0tOTjdpM1JJWnpwZDlXcTYtSmgybGdxYzdHZ1I3bGxZbUVTWExicGZZRDRySVI3TXdmQjAzSnhCRU1PMGpGTUFYRHBDYmhKU2ZGcC0zdHIwakJkZkZhMXhsNmxfcVl4ekFuUV85SFVzaHpOQlVQTUJzS2V0cUFqeEdnNS1CWkJDVWlkM3ZpUlZrbTBfRmdJWjdlWkJyUHdKUjNWeDV2SFlMTEJuaURfTWR2Z09OTzFU?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-07-22 14:00
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBBR0VMSE9ReUZQXzlKZkR4XzJGWHRQSnZ2OUc3OUxqWnZlclBQeGd3NXZKMklNSkNiYzZ1QzN6UHlodTc1M0o5QklVVll4MzRRdlJ4MzlRbVh2aUpoZE5yLV9nTTNCaWVJcm83eXhTSk4?oc=5>
+
+### 特朗普威胁伊朗：开火一次，美军就摧毁一座桥梁或发电厂
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-07-22 13:28
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9GbEtHWWFNSFJYSGZoTW44dm9heWhQel9mQXJzN1pWZnJ6azdXVC0wVlFjSkdoYUpDMHA1MWJnY2NSNm9tOExmNzltZDA?oc=5>
+
+### 要闻解说 - 无休止的美伊战争费用高昂 亦将给特朗普带来政治代价？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-07-22 13:52
+- 链接: <https://news.google.com/rss/articles/CBMivgNBVV95cUxQSmhGREZkcy1OblVuM1ZNRE42Ynp0dXc1S0RyanJGYjBxNjFCSnJmYW5ZVThuUDU1RDVZNnNWMnJqc3NXVDI2TnFoRVoyVllwQ3g5WVludU10VmhvaTIxRWFKZUpkdTRUR0FxY2xBcGxYcWZyV2wwT0ZYbmFMaXBwRXBEZHFEcTVDNUFFVkc3QUFTVlFPNUNqWVAwUnM4bThTWFlrU2tMVjJqUndiVkI0WnpoanVqZ0h1ZXAxLVlaZjFnVmtJOE5EU2FhN29PZDY1V2pXaThYT2pqcE9kQ3ZpZFFmR0VETlVIZ3U3OGZkNVo4ODFOSUFkZVJ6X2Faa3lUY2QyeVdnME9xbW5HOFgwTTF2eF8za1hGWHNTX0FXaUFnUndpNk8ycDdEb255U09EUTYtaXZXZnRMR0lHUGMxbDIxV1J2cUtoVENvX055RmZiWlBidzR4aTZOOWZSZzVwYVhNMXBZRnBkZDZsbHZlNDV6ZjlTMnBEczZ1eUlqX21SdXlKMVp5RmNEVEhjVzJsOXhvYkZ1ckNkQTQ3TEZ3TkdqeDRTUkFmTnhuSGo2VW9NYzVKTGpEcG16bzAxdw?oc=5>
 
 ### 特朗普会见黎巴嫩总统奥恩
 
@@ -29,20 +37,46 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-07-21 15:10
-- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxNak12d2xTVDRmdUpfdlBtOVB2eTRBQnJObWd2M0ljRGgwN1dJV2IxV2tPejRSbWtBaUI0YjcwZWR0NU9maUtxU1ZZUURoMWFPLTM5WU1XRlQxbWZwOEZvNWRkODQzbDd0SnZKSGVRVDBJMFRUMzlWVXBMdEFtd2RvME1GbDdNTVlwNnh6RDFWMVJSZktKZVJQYnBfWVhWNlhxd21PTWhFak45VnhDR0hJdG1remVUQnliMHZNNHFBTElrRTAtcnhKSHJzUDdhcTg?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxPdHlWcjN5LTd6aGVmcFZ5dllpU2dhMkV2VzMydzRXR2ZhUERkQmp0aHJ2X0twWXZOZGNhX2xfUHdhZTROQUg5dGFTMWxnRU45VnhHS1k2WWJfWlhxcVdibUJTZVhiYWNxNUtQN09DNFh3NDA5ZUFhYnE3NF9HbXlkT2tVX0hKeUYxb2RBb2VLSWdWWmk4WWZRclJ0U2hsa3h6UEZGT2xuNmZlX3NIX2RWWmU4NDhZWGJKVjFOMU9BV0hmMjhJdDNpczRFbVlyVjQ?oc=5>
 
-### 伊朗反驳Trump“打击鹤嘴锄山”言论：“侵略的借口”
+### 仿制药关税将提高至200%！特朗普最新宣布
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-07-22 12:39
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5HWm1aNk9oZC1nek9KYS1fTE5tR3JNaWp5aFlZMEdKdFFlY2prNzZHa3Yyc084Q3lEQkNsZFRPazQzTURqOGRRR2NJR0E?oc=5>
+
+### 特朗普计划2028年起征收仿制药关税，设置两年缓冲期倒逼医药产能回迁美国
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-22 08:51
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxNa0dqc19idElIUGp1R19ZUDQ4M1lwQzUwVUZhclhiYm5xc0ZyUnhrTXJ4YzJicmY2RFBGanY5NWFmaWItb3JrWC1idXM3cllNal9TZDhlTV9iV3BJejJNN01Fb0hkM3J3U2E4ZFFsdlVsSzMwdU1wTkYxbHpSOHJDZkR6T1hsNG1wdVVncThSekNsWWdrTFFOc2ZSM0xWLTRRd05GbXVKb3J5Q3pLV2pDV0xieFFSdTVFRFRfRWJQSTNQX0NxTWwwczVRZkxKZGhYYWozZDlyMkJUNVBwbHVZ?oc=5>
+
+### 美国和沙特阿拉伯即将签署核协议：你需要了解哪些信息
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 아시아경제
-- 时间: 2026-07-22 11:38
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Ib3Z6SWhIUld0OW96cS1sa1JpVnBET2loV0xhOE5mb0szNEpLaTBFYmJ4MUR3ZVZkalhzNWJwS1hsY2h6SHFUR1cyYldzMDdsWDBEeks4YTZUUUxGbmdZRnd5eWs?oc=5>
+- 场馆: Al-Monitor
+- 时间: 2026-07-22 14:16
+- 链接: <https://news.google.com/rss/articles/CBMitAFBVV95cUxOVUd3SU44LTlVdnZhZUgzS1BEUC1hdk4yN3dUdzlHV2RBZTh0WTQ5QWt0STZOeWQ4VUNIUjMzb3AydmFNaHk0U1VfN2N6eUNqUmx6azZwb1d3N0l5M3E0YmZiZUk3VUNreUFUc3FTeVZSazFvOWZzem5Bc3dqTlBHN0NrdHdKY252TmZvZkxpUGk3WEMyeUN2cnR2c0dKT2YxLUxhdTRxeUIzUGZzTi1aMkxWVDE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-22 14:59  (7 条)
+
+- **特朗普** | “美国警告英国新任首相” <https://news.google.com/rss/articles/CBMicEFVX3lxTFBBR0VMSE9ReUZQXzlKZkR4XzJGWHRQSnZ2OUc3OUxqWnZlclBQeGd3NXZKMklNSkNiYzZ1QzN6UHlodTc1M0o5QklVVll4MzRRdlJ4MzlRbVh2aUpoZE5yLV9nTTNCaWVJcm83eXhTSk4?oc=5>
+- **特朗普** | 特朗普威胁伊朗：开火一次，美军就摧毁一座桥梁或发电厂 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9GbEtHWWFNSFJYSGZoTW44dm9heWhQel9mQXJzN1pWZnJ6azdXVC0wVlFjSkdoYUpDMHA1MWJnY2NSNm9tOExmNzltZDA?oc=5>
+- **特朗普** | 要闻解说 - 无休止的美伊战争费用高昂 亦将给特朗普带来政治代价？ <https://news.google.com/rss/articles/CBMivgNBVV95cUxQSmhGREZkcy1OblVuM1ZNRE42Ynp0dXc1S0RyanJGYjBxNjFCSnJmYW5ZVThuUDU1RDVZNnNWMnJqc3NXVDI2TnFoRVoyVllwQ3g5WVludU10VmhvaTIxRWFKZUpkdTRUR0FxY2xBcGxYcWZyV2wwT0ZYbmFMaXBwRXBEZHFEcTVDNUFFVkc3QUFTVlFPNUNqWVAwUnM4bThTWFlrU2tMVjJqUndiVkI0WnpoanVqZ0h1ZXAxLVlaZjFnVmtJOE5EU2FhN29PZDY1V2pXaThYT2pqcE9kQ3ZpZFFmR0VETlVIZ3U3OGZkNVo4ODFOSUFkZVJ6X2Faa3lUY2QyeVdnME9xbW5HOFgwTTF2eF8za1hGWHNTX0FXaUFnUndpNk8ycDdEb255U09EUTYtaXZXZnRMR0lHUGMxbDIxV1J2cUtoVENvX055RmZiWlBidzR4aTZOOWZSZzVwYVhNMXBZRnBkZDZsbHZlNDV6ZjlTMnBEczZ1eUlqX21SdXlKMVp5RmNEVEhjVzJsOXhvYkZ1ckNkQTQ3TEZ3TkdqeDRTUkFmTnhuSGo2VW9NYzVKTGpEcG16bzAxdw?oc=5>
+- **特朗普** | 特朗普会见黎巴嫩总统奥恩 <https://news.google.com/rss/articles/CBMizwFBVV95cUxPdHlWcjN5LTd6aGVmcFZ5dllpU2dhMkV2VzMydzRXR2ZhUERkQmp0aHJ2X0twWXZOZGNhX2xfUHdhZTROQUg5dGFTMWxnRU45VnhHS1k2WWJfWlhxcVdibUJTZVhiYWNxNUtQN09DNFh3NDA5ZUFhYnE3NF9HbXlkT2tVX0hKeUYxb2RBb2VLSWdWWmk4WWZRclJ0U2hsa3h6UEZGT2xuNmZlX3NIX2RWWmU4NDhZWGJKVjFOMU9BV0hmMjhJdDNpczRFbVlyVjQ?oc=5>
+- **特朗普** | 仿制药关税将提高至200%！特朗普最新宣布 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5HWm1aNk9oZC1nek9KYS1fTE5tR3JNaWp5aFlZMEdKdFFlY2prNzZHa3Yyc084Q3lEQkNsZFRPazQzTURqOGRRR2NJR0E?oc=5>
+- **特朗普** | 特朗普计划2028年起征收仿制药关税，设置两年缓冲期倒逼医药产能回迁美国 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxNa0dqc19idElIUGp1R19ZUDQ4M1lwQzUwVUZhclhiYm5xc0ZyUnhrTXJ4YzJicmY2RFBGanY5NWFmaWItb3JrWC1idXM3cllNal9TZDhlTV9iV3BJejJNN01Fb0hkM3J3U2E4ZFFsdlVsSzMwdU1wTkYxbHpSOHJDZkR6T1hsNG1wdVVncThSekNsWWdrTFFOc2ZSM0xWLTRRd05GbXVKb3J5Q3pLV2pDV0xieFFSdTVFRFRfRWJQSTNQX0NxTWwwczVRZkxKZGhYYWozZDlyMkJUNVBwbHVZ?oc=5>
+- **Trump** | 美国和沙特阿拉伯即将签署核协议：你需要了解哪些信息 <https://news.google.com/rss/articles/CBMitAFBVV95cUxOVUd3SU44LTlVdnZhZUgzS1BEUC1hdk4yN3dUdzlHV2RBZTh0WTQ5QWt0STZOeWQ4VUNIUjMzb3AydmFNaHk0U1VfN2N6eUNqUmx6azZwb1d3N0l5M3E0YmZiZUk3VUNreUFUc3FTeVZSazFvOWZzem5Bc3dqTlBHN0NrdHdKY252TmZvZkxpUGk3WEMyeUN2cnR2c0dKT2YxLUxhdTRxeUIzUGZzTi1aMkxWVDE?oc=5>
 
 ### 2026-07-22 12:54  (4 条)
 
