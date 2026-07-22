@@ -1,80 +1,109 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-22 00:14**
-- 本轮扫到 7468 条, 新增 **8** 条
+- 最近更新: **2026-07-22 03:55**
+- 本轮扫到 7478 条, 新增 **10** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (10 条)
 
-### “新一轮关税，最快本周”-观察者网
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-07-21 23:20
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBtRjNpcy12QW9qRDYybm5xZ0lGMlA3UjM4bW1lWEcwSEpzUFhzYnYwNjQycTlfOFg1M2k4bzR4azVqd2xZTERoRGdBM3l5aVFTN0dKbGJGb1dXOU02dXd5dHNOUDAtdFB0YUE?oc=5>
-
-### 特朗普宣布两年后对仿制药征收100%关税
+### 特朗普宣布两年后对仿制药征收100%关税，对中国医药出口影响如何
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 紫牛新闻
-- 时间: 2026-07-21 23:34
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBEOWdraDNjTHN6ME83N3FGaEJFZjM3VFBNalQ4ZWN6dU5wRDZzTmZINmRYMEVzUVoxcXF1ZTFkN0NCVlZjNXY1anAzLUpFakpYYUQ2VDBLM3kzMlp0UVFTa2poaDVQS3czZ3c?oc=5>
+- 场馆: 第一财经
+- 时间: 2026-07-22 02:36
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tVkljdGtMSE1KclVtdHhBVHRqN0NjeVVuTWpSQU9uZDUzMmh0ZGItMTFtelZTS2tLUnJVeS04RWF4ai1jQVliWGZ5enlRaEhYd0dN?oc=5>
 
-### 面对特朗普50%关税威胁，加拿大总理卡尼硬气回应：保留所有选项，将密集展开谈判
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: video.sina.com.cn
-- 时间: 2026-07-21 23:56
-- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxQemdHa1hBcF9IMHFlcnk2bzcwWHBDR0M2cGJSc2dQNlB3ZGhUWE5rei1aYXUtUWQxQmlyYnBaWVdTSUp5SU14dVpaelhOcHJGdTVLTWszY0dISHo1QVlUc1ZfT1J1QnV5ZlJaeUdhWjU3M0NsWVM5cWV6bzFSQmNSa0FR?oc=5>
-
-### 特朗普称2026美加墨世界杯为“史上最成功的世界杯”
+### 新措施即将出台，特朗普宣布2年后对仿制药征100%关税
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: video.sina.com.cn
-- 时间: 2026-07-21 23:56
-- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxNN21kREwtZWgyVFVZUHc5Q3FmMG5HNnZwVXZFR0kzcW1MeU1Wb1FtMW9yZDkyYjBuZ190eDBieGlKYmlWeE1taFU4U2hCcnVrWW9VSHVBT2Jmc2RsNm1hXzZqbHhPNEQwQTFzQVJFQVdIaW5mUnpLbnVYNExCTFdnMmhR?oc=5>
+- 场馆: Jiemian.com
+- 时间: 2026-07-22 00:31
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE16ZE9FWDkzdUYzSHlBRGg4aXhvVGROUzN3RWtxVk8xYU5VOFlONDl1eVgyU0RSeE40LVFyUkJwcUEzYzE1SkNYdXF4UlFhNEN5VHpOeldXeWQ?oc=5>
 
-### 特朗普：胡塞武装若封锁红海 美国将采取行动
+### 特朗普硬蹭西班牙合影被P掉 尴尬瞬间引发热议
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-07-21 17:25
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBCdkRFbzc4clpFWFk2TVdJaEFTNGNwWnZUeS1RWDFhYWdVcGV1YVdhdUdNWE1fMkxlZFlMSnNaUU8wOGRORUVhSGNfN3pHbDhSRER0RlZjQXA1N2FIV0Zva3JhTWNxU1gtUFBRemI2eklqTEdDZHI0RFpxREZjckU?oc=5>
+- 场馆: 中华网
+- 时间: 2026-07-22 02:40
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE00YlRwbjNyNkdKNkxaWXVRQnM0d1ZKdXlKOG9tM1pOWFdoWUFVdVRFSDlvaFh1X0JrVFROWVpLLXdKUngyTTJNM242NnN1QkZVYlRaZ0NJc2JhTGlWZVpfbXcxTkFMOTFCVDFEOWhWU1U?oc=5>
 
-### 特朗普淡化与伊朗谈判可能性 并称将在红海航运受威胁时出手
+### 特朗普会见黎巴嫩总统奥恩
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-21 18:00
-- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWlpUaDFnNVUxNFQzZUNZMGJ5VWlyajk2ek14WHpDSElfbWg2SU4zdDVfSmJjOS0xSWRwdm1SYnB1Yk55SFB5aW0ycGJldzhyNGcwN244OGhMV3ByODhla1pvRk9jRFo4Nmpsbjg1SXZ3NXhRQ3pqRDA5SEpPa0FBN1Izb3Bmc29Ib1RMZ3FsZHh4M2ltR2ttZXR0VERfdmxScXZITHg0Y3dxbEhCV0M0dEhaQVllNUlFNFhVVE1WQ3NhZ0Fac0czZ2FYaHRpN3ZUMHc?oc=5>
+- 时间: 2026-07-21 15:10
+- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxOLWdzQVhaM0V3Ri16QVlKc3JvanVHcUVJM3pGR3RlV2k5TE9LT0VpYm5sWk52SE1iQmhSSnUweElGWkluUDVjbEd3NEw0Sjc3a1A5R2tLcUYtazVoSzVQUzZ4a3NMaVBUNmNCcWJDdVpKNTNRcjZ0Z29zdVUzOENCRUxxUEd6S1RkX3MyYmR6dDBrcUxrLVFDWk9tbnhIbE5KV2xaZmhIbWlqTWtITVpKSlZGX0pJQWlyQXkteF9MVmNMdUF1SjFVc3h1UER0Z1k?oc=5>
 
-### 特朗普：胡塞武装若封锁红海 美国将采取行动
+### 疯了？特朗普希望因凡蒂诺接任联合国秘书长
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-07-21 23:22
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xVC1xTWI1ZUZZaWFJMXlNSWdydUhZZkJGU0pGY1FUZkRwT1ZnLXl0OWpEMnAyNTlIV19OWDFkc1lmU091REZuMlJYVWw3cWpmaVFNN1J0WTJvNGpBSVdzZE1Yck4?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-07-21 23:42
+- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZblpBX194WlpNNzFpQlV1RGg2Y2hwbjN2NmllTGdobUZVd3VHZW5Nd204S0l6Ui1FZkZUZzVSVjh4R0duQ3VQWlg4QURjQVk?oc=5>
 
-### 特朗普批准美国直飞黎巴嫩的航班，结束了长达40年的停飞。
+### 新闻蒸馏器｜特朗普关税或将“换壳”：覆盖60国，税率10%至12.5%
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-07-22 03:22
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE96ZlVEZncxRzYzMko4V0JqS0JqRC1yY0dtMENMZ3hsdEVSa1lXcEdQRTBHS2VjM2RUQzV2ZjluU2owU3RzckpKTldoQ2laMTQ0d0JWalMxRTNsTUNldUE?oc=5>
+
+### Dow Jones Top Company Headlines at 9 PM ET: Utilities Join Trump Pledge to Limit AI-Driven Increases in Electricity Bills | At ...
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Al-Monitor
-- 时间: 2026-07-21 19:46
-- 链接: <https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeHc5R2JhTWlhYXZFLWFfQ2NBbTN6azE5SWZkYk5mMmNhLWhSQUQzT1NMUFJ0ZTJZWmNFSHdCdExLQTJqQ3RtSHhaY0l2QWE1WG84YlJabjBrMEdsSGVCS01oODF3YW04TnNSWDQ0dkE1eUkxY1RsZjJ1TkRDUnp0NXZSMzgtRzE5ZzVEeEw4RlFoMktqT2lUWTB6bDZaazhYaERaMDFnNU9pWGVaQ0JtX2d5UnhTYkx4eWhrT05KcFBKbEE?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-07-22 01:00
+- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxQWHRQaUkxdDlVSjNLdV96NkF5ZUV4bUNfY1JEazI3R25qUHF5WVpWT00tYXpHLW4yVFBrSy1XSEdlMmRYN3dzUFdSdnZlNGQ2TUFaTTVidHZQSXpuX1FoSC1vbkFnWXBFbURrX3lPZUpKWmYxejltOF8yYmxuWlcxb0NqM1c5UUg4SV9XLUFuZzU1SmtwekZfUmZZRGp2dXAt?oc=5>
+
+### 特朗普批准美沙里程碑式核协议，沙特赢得重大胜利
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-07-22 01:58
+- 链接: <https://news.google.com/rss/articles/CBMitAFBVV95cUxQdWVGRkhlN2RZOHQ3aTNKbjhEUDBaUnJMTFJUS2NCUjU5MmZnUXJJSi1hQmVjYlJ6MkVWMkRuN05LS2VVaUd3Q1U3SFpTbEk2Qy0xU3hEUzFXNzhIeDZUbVNqc2xhZl9xbVJHc2lYZ1BOUTVrNmZ2cV8yREE5SzJfXzhKUUprZnBmYnphZXlGc3FXem5SbHdVS1hwUkY3TlhGTjRFcnBqYkxiRzhsTWpGZGZFQk4?oc=5>
+
+### Trump在世界杯遭“完全剪辑删除”羞辱……白宫突发照片公开- 阿视亚经济
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 아시아경제
+- 时间: 2026-07-22 00:22
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE0za0hQX2h5SFBFMHVUNEYydFhUN0JUZ1VlOUx6TnU5QmlPLUZlTGMyMHFoemdzMGNZbDZCUm01bDU1YUIwMTRXUmk0WXVhS2k2QjV4RU9ld1JadkVhOEdteFBaZ2k?oc=5>
+
+### 特朗普阵营的MAGA Inc.在中期选举前筹集了$4亿的竞选资金
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-07-22 03:01
+- 链接: <https://news.google.com/rss/articles/CBMipwFBVV95cUxPYi12Q1FvY1hDdkhtQ3BxR3FUYl9oZUdFN25SblUwMkdtNFNtMjA4Z2F3aXYyTC1zSHVhTG92enN2WkdQVE1XbHRNZGJBZmtCRElnRkwzeGZra1JCUjhQX0FlY3NJQ01ERGZWajA3Ri1JckRTMUllZ3RZdExfbXJtYmlxeFMzU1h0YTZIcV9MMzJvbk5lZ0hSSlFNRDBkTDNuaVNvaVphdw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-22 03:55  (10 条)
+
+- **特朗普** | 特朗普宣布两年后对仿制药征收100%关税，对中国医药出口影响如何 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tVkljdGtMSE1KclVtdHhBVHRqN0NjeVVuTWpSQU9uZDUzMmh0ZGItMTFtelZTS2tLUnJVeS04RWF4ai1jQVliWGZ5enlRaEhYd0dN?oc=5>
+- **特朗普** | 新措施即将出台，特朗普宣布2年后对仿制药征100%关税 <https://news.google.com/rss/articles/CBMiWEFVX3lxTE16ZE9FWDkzdUYzSHlBRGg4aXhvVGROUzN3RWtxVk8xYU5VOFlONDl1eVgyU0RSeE40LVFyUkJwcUEzYzE1SkNYdXF4UlFhNEN5VHpOeldXeWQ?oc=5>
+- **特朗普** | 特朗普硬蹭西班牙合影被P掉 尴尬瞬间引发热议 <https://news.google.com/rss/articles/CBMicEFVX3lxTE00YlRwbjNyNkdKNkxaWXVRQnM0d1ZKdXlKOG9tM1pOWFdoWUFVdVRFSDlvaFh1X0JrVFROWVpLLXdKUngyTTJNM242NnN1QkZVYlRaZ0NJc2JhTGlWZVpfbXcxTkFMOTFCVDFEOWhWU1U?oc=5>
+- **特朗普** | 特朗普会见黎巴嫩总统奥恩 <https://news.google.com/rss/articles/CBMizwFBVV95cUxOLWdzQVhaM0V3Ri16QVlKc3JvanVHcUVJM3pGR3RlV2k5TE9LT0VpYm5sWk52SE1iQmhSSnUweElGWkluUDVjbEd3NEw0Sjc3a1A5R2tLcUYtazVoSzVQUzZ4a3NMaVBUNmNCcWJDdVpKNTNRcjZ0Z29zdVUzOENCRUxxUEd6S1RkX3MyYmR6dDBrcUxrLVFDWk9tbnhIbE5KV2xaZmhIbWlqTWtITVpKSlZGX0pJQWlyQXkteF9MVmNMdUF1SjFVc3h1UER0Z1k?oc=5>
+- **特朗普** | 疯了？特朗普希望因凡蒂诺接任联合国秘书长 <https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZblpBX194WlpNNzFpQlV1RGg2Y2hwbjN2NmllTGdobUZVd3VHZW5Nd204S0l6Ui1FZkZUZzVSVjh4R0duQ3VQWlg4QURjQVk?oc=5>
+- **特朗普** | 新闻蒸馏器｜特朗普关税或将“换壳”：覆盖60国，税率10%至12.5% <https://news.google.com/rss/articles/CBMiXkFVX3lxTE96ZlVEZncxRzYzMko4V0JqS0JqRC1yY0dtMENMZ3hsdEVSa1lXcEdQRTBHS2VjM2RUQzV2ZjluU2owU3RzckpKTldoQ2laMTQ0d0JWalMxRTNsTUNldUE?oc=5>
+- **Trump** | Dow Jones Top Company Headlines at 9 PM ET: Utilities Join Trump Pledge to Limit AI-Driven Increases in Electricity Bills | At ... <https://news.google.com/rss/articles/CBMioAFBVV95cUxQWHRQaUkxdDlVSjNLdV96NkF5ZUV4bUNfY1JEazI3R25qUHF5WVpWT00tYXpHLW4yVFBrSy1XSEdlMmRYN3dzUFdSdnZlNGQ2TUFaTTVidHZQSXpuX1FoSC1vbkFnWXBFbURrX3lPZUpKWmYxejltOF8yYmxuWlcxb0NqM1c5UUg4SV9XLUFuZzU1SmtwekZfUmZZRGp2dXAt?oc=5>
+- **Trump** | 特朗普批准美沙里程碑式核协议，沙特赢得重大胜利 <https://news.google.com/rss/articles/CBMitAFBVV95cUxQdWVGRkhlN2RZOHQ3aTNKbjhEUDBaUnJMTFJUS2NCUjU5MmZnUXJJSi1hQmVjYlJ6MkVWMkRuN05LS2VVaUd3Q1U3SFpTbEk2Qy0xU3hEUzFXNzhIeDZUbVNqc2xhZl9xbVJHc2lYZ1BOUTVrNmZ2cV8yREE5SzJfXzhKUUprZnBmYnphZXlGc3FXem5SbHdVS1hwUkY3TlhGTjRFcnBqYkxiRzhsTWpGZGZFQk4?oc=5>
+- **Trump** | Trump在世界杯遭“完全剪辑删除”羞辱……白宫突发照片公开- 阿视亚经济 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE0za0hQX2h5SFBFMHVUNEYydFhUN0JUZ1VlOUx6TnU5QmlPLUZlTGMyMHFoemdzMGNZbDZCUm01bDU1YUIwMTRXUmk0WXVhS2k2QjV4RU9ld1JadkVhOEdteFBaZ2k?oc=5>
+- **Trump** | 特朗普阵营的MAGA Inc.在中期选举前筹集了$4亿的竞选资金 <https://news.google.com/rss/articles/CBMipwFBVV95cUxPYi12Q1FvY1hDdkhtQ3BxR3FUYl9oZUdFN25SblUwMkdtNFNtMjA4Z2F3aXYyTC1zSHVhTG92enN2WkdQVE1XbHRNZGJBZmtCRElnRkwzeGZra1JCUjhQX0FlY3NJQ01ERGZWajA3Ri1JckRTMUllZ3RZdExfbXJtYmlxeFMzU1h0YTZIcV9MMzJvbk5lZ0hSSlFNRDBkTDNuaVNvaVphdw?oc=5>
 
 ### 2026-07-22 00:14  (8 条)
 
