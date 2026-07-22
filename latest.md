@@ -1,14 +1,73 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-22 20:41**
-- 本轮扫到 7534 条, 新增 **0** 条
+- 最近更新: **2026-07-22 22:00**
+- 本轮扫到 7540 条, 新增 **6** 条
 
 ---
 
-## 本轮无新增
+## 本轮新发现 (6 条)
 
-数据库里所有演出/动态都已见过,暂无新增。
+### 特朗普威胁伊朗袭一船就炸一座桥或电厂，伊朗警告报复美利益设施、“谁都别想卖油”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街见闻
+- 时间: 2026-07-22 17:56
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sbUZkd1BubjhOR0NsWFREOG83eTN3ejM5YTJpdHVhYkNYOVd1RmxFQ0x6MUU1OUp4anBJeGFYN0FqdGZKTWJPNVVWeUY0TzB4MlJR?oc=5>
+
+### 特朗普总统出席四名在中东阵亡的美军官兵遗骸尊荣移交
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-07-22 19:45
+- 链接: <https://news.google.com/rss/articles/CBMiygFBVV95cUxQcEY4MWxyRXJaNW9BbEtTbVJxdGtNVGFWV0w5b1VRZFVqVXNrSFNMNERwM1ZVOTNpa0hLRVRQUGR3dEpSWmlXODNNemhxMS1Ld3B6aXhhNG5aVG1HeUVOeW0wSXFxYlh3NDctR01VZGJCbXZlcmFhTFJtNGpLQ1hMUXBGYVA2VEUxVGRDVnRsQmQ2Qmwxa1NCVjJxM0R3N2hKQnhaUWFfTXhpTG53NndvSGxiOGZOa2ZqdnZmSU0zbEFiTDM0Y21Sd3NR0gHMAUFVX3lxTE9kOWZsTUo0bzlwNVE1aTNpZkE2NS1hY2o3VTFaWU4wUzAwYVNDZjU5Y25rb1lQbVVXb2txb1BLT2VXNW9lUS1sNXdfZjVQMWlJLWhKVlo3MWhyU2c3cHE2VWJ5T3ZnMkM0NXBHbDk3aVVPUHdwQmFMNzZJY1g4SGxLcHNMeTRwbXZpX3hCdl83dEo3STIxbkRfNzZCajhXMUFmNWw3c29rLWNHbnVhTi12cGU5VlBDaW5SWEN4UTAwNzYxNEJRd0tGMkxsMA?oc=5>
+
+### 特朗普计划从2028年8月起对仿制药征收100%关税
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-21 23:06
+- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE01emdObUVRVlVKQWNxMk1nMnppV2dmOVNJMjd1ekttbmtwX3czYmUwMU5yU05pWlU4a2k4SDFhQ1VTZEwyMTFRdHlTRzlZamdJUXN5eUROZ2lKekhYbzRfNnV1RGhET3ZHSEJZcUUzWk00dWRLT2cyV0xB?oc=5>
+
+### Apotex Shares Drop as Trump Tariff Threat Targets Overseas-Made Generic Drugs
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-07-22 15:41
+- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVlFTZGp0eFdkYWpOTGFCVnd6eERPRDJkcHotaEUtdFktbWVBRGZkWHNZX3NRT3k1RkZaT2tVSmJMUWc1SFROZG1mc3RUdnBvY1JJOHRaWTh5aTl0UlpxNzFOUGlXR055b1pySjFEMWR0dUZXSENYaXBsZkZwblhTcW9ldTNwX0Fhclo5c0xXa1FITVJxdUN5M1JyMXhVQ1FLc20zMldab213d1NvUGJkUzlBb0QwYmE5RlgxWFpRUjg3S21oMGxCdU9FZE5ETTJWR2Ntcmk3cTdvUWswZFE?oc=5>
+
+### $Applied Digital (APLD.US)$ 只有一种可能，trump 请发条推文吧
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-07-22 13:05
+- 链接: <https://news.google.com/rss/articles/CBMiugFBVV95cUxNNmE4LUZLcHJIS3lIbkh2ZVE3dDVIOXhFUEdPX1JKaGt5TDNfVng4ZTBuOG1JTzFWejc1aF9oelM3RjZMc1JvZGlURkx3OG1vSUhfd0JDQmhKYkY2cE44SW04OEVxYUZzajN0eEhUTXN1dU93cTR1RkpCSUJFc3V4Rmd2anBQNnl5d0ZhZGtnTVVySURpUzdNaWVzSm9YcGVmbk9JcEpCRGRqd01IT0VpMGktVS1ONlNDU2c?oc=5>
+
+### 特朗普扬言伊朗若再袭霍尔木兹海峡船只 美将炸桥梁或发电厂
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-07-22 21:14
+- 链接: <https://news.google.com/rss/articles/CBMipANBVV95cUxNUWZyWDkzU2ZCMXJJX1ZVSU5ObmswLTBzTWU3TDNmYmhiQTc0Yk5WU0tXVmw0bVQ4amdKZksybERMU3YxZjhPUFZZX0JkbXpHV1h6b2RHa0V2Wm9pa0dfM3FPeHNTUzNyWUNLZ2d6bm9qUG5VTW5ONGxvaXdRb0NQU2Y3SV9aT2F5QldsRXZ1ejJHUUxHTUJvMVJzQ2lYazRITWxtQ0NWZVN6VF9JOTdaV29Bc2xHRXh5b0lhS0lRallWdV92VWxyVVVNbjhVYXU0WWFqUll3TElqclJudENaSVRyRmxmbHFYaUFCVEJaVVdrR0tWOWNVTW5yaVJEVmpZQkM2b1gyLTlkT0pudG5vSzhkanhEYjFTQTJvb3NQWjgyZTVIanU1S3JBZ21JRU1Ud0x1NmN1aFNjM1NFYTJTMzZXM3ZuNVgwc3gxakZLUUNHMnduci01dDVaNHA1WTRkZGtMMjNsUzVobDJnMlhkTmpDNlZ0NTR1RllVQUIwTmpGcnBhdXlyYk8yTnhRdjF6bnJsMzd1aVVqTWVrX0JUZURFa1k?oc=5>
+
+
+---
+
 ## 历史发现
+
+### 2026-07-22 22:00  (6 条)
+
+- **特朗普** | 特朗普威胁伊朗袭一船就炸一座桥或电厂，伊朗警告报复美利益设施、“谁都别想卖油” <https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sbUZkd1BubjhOR0NsWFREOG83eTN3ejM5YTJpdHVhYkNYOVd1RmxFQ0x6MUU1OUp4anBJeGFYN0FqdGZKTWJPNVVWeUY0TzB4MlJR?oc=5>
+- **特朗普** | 特朗普总统出席四名在中东阵亡的美军官兵遗骸尊荣移交 <https://news.google.com/rss/articles/CBMiygFBVV95cUxQcEY4MWxyRXJaNW9BbEtTbVJxdGtNVGFWV0w5b1VRZFVqVXNrSFNMNERwM1ZVOTNpa0hLRVRQUGR3dEpSWmlXODNNemhxMS1Ld3B6aXhhNG5aVG1HeUVOeW0wSXFxYlh3NDctR01VZGJCbXZlcmFhTFJtNGpLQ1hMUXBGYVA2VEUxVGRDVnRsQmQ2Qmwxa1NCVjJxM0R3N2hKQnhaUWFfTXhpTG53NndvSGxiOGZOa2ZqdnZmSU0zbEFiTDM0Y21Sd3NR0gHMAUFVX3lxTE9kOWZsTUo0bzlwNVE1aTNpZkE2NS1hY2o3VTFaWU4wUzAwYVNDZjU5Y25rb1lQbVVXb2txb1BLT2VXNW9lUS1sNXdfZjVQMWlJLWhKVlo3MWhyU2c3cHE2VWJ5T3ZnMkM0NXBHbDk3aVVPUHdwQmFMNzZJY1g4SGxLcHNMeTRwbXZpX3hCdl83dEo3STIxbkRfNzZCajhXMUFmNWw3c29rLWNHbnVhTi12cGU5VlBDaW5SWEN4UTAwNzYxNEJRd0tGMkxsMA?oc=5>
+- **特朗普** | 特朗普计划从2028年8月起对仿制药征收100%关税 <https://news.google.com/rss/articles/CBMiekFVX3lxTE01emdObUVRVlVKQWNxMk1nMnppV2dmOVNJMjd1ekttbmtwX3czYmUwMU5yU05pWlU4a2k4SDFhQ1VTZEwyMTFRdHlTRzlZamdJUXN5eUROZ2lKekhYbzRfNnV1RGhET3ZHSEJZcUUzWk00dWRLT2cyV0xB?oc=5>
+- **Trump** | Apotex Shares Drop as Trump Tariff Threat Targets Overseas-Made Generic Drugs <https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVlFTZGp0eFdkYWpOTGFCVnd6eERPRDJkcHotaEUtdFktbWVBRGZkWHNZX3NRT3k1RkZaT2tVSmJMUWc1SFROZG1mc3RUdnBvY1JJOHRaWTh5aTl0UlpxNzFOUGlXR055b1pySjFEMWR0dUZXSENYaXBsZkZwblhTcW9ldTNwX0Fhclo5c0xXa1FITVJxdUN5M1JyMXhVQ1FLc20zMldab213d1NvUGJkUzlBb0QwYmE5RlgxWFpRUjg3S21oMGxCdU9FZE5ETTJWR2Ntcmk3cTdvUWswZFE?oc=5>
+- **Trump** | $Applied Digital (APLD.US)$ 只有一种可能，trump 请发条推文吧 <https://news.google.com/rss/articles/CBMiugFBVV95cUxNNmE4LUZLcHJIS3lIbkh2ZVE3dDVIOXhFUEdPX1JKaGt5TDNfVng4ZTBuOG1JTzFWejc1aF9oelM3RjZMc1JvZGlURkx3OG1vSUhfd0JDQmhKYkY2cE44SW04OEVxYUZzajN0eEhUTXN1dU93cTR1RkpCSUJFc3V4Rmd2anBQNnl5d0ZhZGtnTVVySURpUzdNaWVzSm9YcGVmbk9JcEpCRGRqd01IT0VpMGktVS1ONlNDU2c?oc=5>
+- **Trump** | 特朗普扬言伊朗若再袭霍尔木兹海峡船只 美将炸桥梁或发电厂 <https://news.google.com/rss/articles/CBMipANBVV95cUxNUWZyWDkzU2ZCMXJJX1ZVSU5ObmswLTBzTWU3TDNmYmhiQTc0Yk5WU0tXVmw0bVQ4amdKZksybERMU3YxZjhPUFZZX0JkbXpHV1h6b2RHa0V2Wm9pa0dfM3FPeHNTUzNyWUNLZ2d6bm9qUG5VTW5ONGxvaXdRb0NQU2Y3SV9aT2F5QldsRXZ1ejJHUUxHTUJvMVJzQ2lYazRITWxtQ0NWZVN6VF9JOTdaV29Bc2xHRXh5b0lhS0lRallWdV92VWxyVVVNbjhVYXU0WWFqUll3TElqclJudENaSVRyRmxmbHFYaUFCVEJaVVdrR0tWOWNVTW5yaVJEVmpZQkM2b1gyLTlkT0pudG5vSzhkanhEYjFTQTJvb3NQWjgyZTVIanU1S3JBZ21JRU1Ud0x1NmN1aFNjM1NFYTJTMzZXM3ZuNVgwc3gxakZLUUNHMnduci01dDVaNHA1WTRkZGtMMjNsUzVobDJnMlhkTmpDNlZ0NTR1RllVQUIwTmpGcnBhdXlyYk8yTnhRdjF6bnJsMzd1aVVqTWVrX0JUZURFa1k?oc=5>
 
 ### 2026-07-22 19:03  (8 条)
 
