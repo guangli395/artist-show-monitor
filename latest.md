@@ -1,79 +1,13 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-22 19:03**
-- 本轮扫到 7534 条, 新增 **8** 条
+- 最近更新: **2026-07-22 20:41**
+- 本轮扫到 7534 条, 新增 **0** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮无新增
 
-### 特朗普：伊朗想会谈但美国“没兴趣”，“很快”重击镐山核设施，警告胡塞武装勿封红海
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-07-21 20:00
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBtTTh2RGhxcmtRNEhXUElEaWVOMHhfZ21SckFuTXAwamRDalhnTlU5MnFtZWR5MjM4U2pDWlhXcjYwaHZoZ2Z2bW0xaV9pVGROVWxv?oc=5>
-
-### 记者追问美伊战事，特朗普怒怼：你比我了解情况？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-07-22 13:04
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5YRzUxRDVSVW1GbG1SMGJ0MlpBbjBESWk1VzhfVjB6UUE4QVV2T0pwbzUyczRKeTJwTkVvSHVycjA5X2kzV3dmYmd3YjdsZ2t6WW9BdzVoYTRkb1RoTGpGbTBVVTl4M0U5ZFlQRFBGM1U?oc=5>
-
-### 美媒爆料：特朗普批准美沙30年核协议，沙特或将开展铀浓缩，协议即将递交国会审查
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-07-22 18:21
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE44ZG0ySzJLSHZFcjNzNEE3WlU4UXZSOGJUSDZPYmJCRzdDV0NFOHo2ZG5KSkp2VDlHZUwwVFIyVjJGZGtxbTN3VlNOOGVBSF9vQzgzeHhKbVZpSHNrWkNsT1NzWkpOTmR0M2RBODI0bUQ?oc=5>
-
-### 美国和沙特阿拉伯预计将宣布核能合作协议
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-07-22 17:27
-- 链接: <https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUjlEX3NvVGdReEt6cVQ2d01DdWh1QzB1UVBXMnl2Wm5NV0JtVHl5U0xZT0g2ZlN1Z0VGRW0ySlUyX0xiTTBsUTNTUDJfUWNNRjBfakp5NmdYYkZZczFIaW9WeHJGSm9qYWlQQkxVcXp5RmN1VFE0bjlHTWxPUHNqVFBwTGtFY21UM2I5Sk1jbEwwN044Nklpd3RfdkVMaDcySVZmT1FVb3VDWlEwbmRYTFJYOGQxUEhz0gG7AUFVX3lxTFBxbmt4YXdNeU9SdkFPTDBJLUlZSE54VDFFT2FUbFBleHY4aHFRMjZFTXVyMWhieFB3cUFkenZ0Qlk1SzBsbm9ha0pGMFdCc3FsNGU5ZHVCLTdqRmRfWEJyVFlfNTdlSGJWcGFYMnZRbWFKYUVVak9JZzVyX1RxbDhqalA4cExqX0syLVpIWlNUMUVqWFhpc2xCOFUxTThjOGdWbmNDZTVkZ2V3N0tpeVhoOGVnLWxjYlhSNG8?oc=5>
-
-### 特朗普总统参加美国阵亡军人遗体的尊荣移交
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-07-22 17:52
-- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxQRmJyTWhuV3JyUkowaVBuUnJfY1p6alhwb3IyQ2F6Rkc2NFRzeVc4ck1hQ0Jwa0hST2d0VDNGUzNzS1AyWkpDMjZZYlRhWDF5cXhCZm0zYS1GWTUxLW1XZHNKYlhSSWlreTNxTDJSNEZJakZqTTljSWVLUFlSQk81SzRB0gGEAUFVX3lxTFBZSFRiN2ZYSWpYbTBkNzdGS3QzQVVhWlAzd3B2OEFoRDBYVFAtWXE1SWRWYjNKdjFseE1idWRuOTA5cHZDUDdtTmh1NHVHZXI2bDR5MzhRMDBMcjFJOVptSXVzX3RlQ1BCYTQ2R1E3RVdDTGNKSmxvZUQ0cTVmMGlya1NORQ?oc=5>
-
-### 污蔑中国遭驳斥后，特朗普自曝：干预过中国事务
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-22 14:31
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9CMG13bElEcmdhMnQzd1Bnb3FRUEhJLUxmTU9xem8xc0tuRm1WbzVZbEdRSW14ai1FUHZCOU00d1lmRmdYVDYwN0loaTZCckJxLTBlX2lqZ3RETzNYRm10anFQdHQ0YlRZejQtOUhqSV93ejcxVmFyMw?oc=5>
-
-### 特朗普拟对进口仿制药征关税：将如何影响药价、药企与药品供应链
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-22 16:25
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSHd5UmZXUVZoUjJoQW5jaGFfaFJFUXlFdXFONUNVVzFoRndhNFU2YlFxV2NWVTJDTm9iMmczWWVkQUVFZ3dTbE5xY0RNWEctVkR6QzE3aFJmRE5GdWNueGVMLXU5ZEx1ckdhWjVRWEVES1UwTXpTX3NTT1RheWR6bXZ2RzFibF9XRTdpc3ZEZXBZN0dFM1NwT2R3ZDNqNUZiT0gteUNKUTF5MjRJY3hFM2cwUksyTm14bjIzTWlXa08tRUlBaVhoNVp0WWJoV2lvbGtRQmM3YWQ3SUJ2R1Jz?oc=5>
-
-### 川普诉BBC诽谤案 总统被裁定向BBC公开财务纪录
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 文学城
-- 时间: 2026-07-22 16:39
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tZ1BobVhkcTJ6RHcyLXNOZnRKTjdFa0FONGk5ekFMLUdlMGl5bnZVamlWbktFendGdlpfNTBCZTRrQWI2bEFVWGp5MXFCNU02SHhQdlhHeXFtQkZRMHhYUi1pc0lpQzEt?oc=5>
-
-
----
-
+数据库里所有演出/动态都已见过,暂无新增。
 ## 历史发现
 
 ### 2026-07-22 19:03  (8 条)
