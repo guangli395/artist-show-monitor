@@ -1,62 +1,109 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-22 06:24**
-- 本轮扫到 7484 条, 新增 **6** 条
+- 最近更新: **2026-07-22 09:06**
+- 本轮扫到 7494 条, 新增 **10** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (10 条)
 
-### 未发布任何作品 周杰伦抖音账号粉丝数破千万
+### 特朗普计划2028年起征收仿制药关税，设置两年缓冲期倒逼医药产能回迁美国
 
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001908cjjy.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-22 08:51
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxOZV9uV1NLbURDcFp5U0dqRXVZME1YVVhCTVVlUHBMZEJTcTBCVDR3V2VzdzJVMnVkMUUxUUVmMXZhbVVjZ3Z3OEVGLWlhM0xFTDFhS2xBRGN5VF9YS1dzZmd0S2xqNWhWZ0Z0SGQwQ1AxQ0phVnRfVndvLU05TWFnZGt4OTVtaW8?oc=5>
+
+### 特朗普：进口仿制药首两年0%关税 随后渐增至200%
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-07-22 01:06
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBRUk1KcTBIVnVpU2VQc1pFRkozNWZpdF9YV0syQ1FpeVh3Q0pMdm81c2tNSmVDVFozVWRMbjJQaXp3NjhFdXYzNzJmY3RLeElteWdCcmotQzR3OC1CeU1PczBRN0I0dw?oc=5>
+
+### 记者追问美伊战事，特朗普怒怼：你比我了解情况？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-07-22 06:57
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFB6TDF5WWdvWVNodlV0Yk1hemtzTjZoN2RXbGE4V1hrRFR3MUFvNnNrckdzdVBQTWlWbXc5TWtEemdWUzh0VnVzTUxrQ3ZVVDJjYWV2MHdOZ1ZoV1dIVTRpUnN6UF95ODNQSzZNSWp5emJPLUhiNG4ycmVYVlNzdW8?oc=5>
+
+### 民调下滑之际 特朗普团队召开闭门会议 数亿资金布局美国中期选举
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-22 07:45
+- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWmdnMVR3aEJQd1NUUXdRX0FLTlZudWpsXzZscXdjcEpXYTVCRWg5YnU4ODhSaDJPVVN3eHBaakdsXzRaQkY0VVhxdy1SOVNZMDgwdEc4LWV1anJ2ZnpMQm8yTS1qLTR4ZGFjSXpCR2E5emF4MVdSNkJfX2hSUEZaUGZ3ZkIzX1ZjZjFIMUlNRVdGNXlmYzF5cUxLdE93NXlINEU3VFZPSXE1Zw?oc=5>
+
+### 特朗普承认美方干预中国事务，并称“中国今时不同往日”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-07-22 06:27
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFB1NURpU3ctWWs2X05tdElRSURoX2p6T0hXSkJ3RUdCZU1TaFBnUndaSzdiZldYR3VEYm9HUURLUUV1dEhnTWUzbkFjZkQ?oc=5>
+
+### 特朗普“中国干预大选论”令美中关系再起波澜
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-07-20 05:35
+- 链接: <https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVkJOLVRsV3U2TnNFOTdCdnpBbTEtWUw4di1JZHlqQkEtbVd4djZCMWRzN1NVNVd6UkY1eF90dHdteFNra2o1QXNmdlpmRlNGWWVlNGlzTlRxendJVzZOYi1PRTZJdENpUkxTWE0wd3BBM2xGMDFldXZEU0ttNHUtQjlTdjVrNW15ZlF6b2E1RWx4R05HWndlOHhURXBxTzcxcVZHcmlvUm9uVXU0TmpvWV94Zml1Wm9yWFNIUG1CVGM?oc=5>
+
+### 特朗普批准与沙特达成核协议，美企或在沙特境内建铀浓缩设施
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察
+- 时间: 2026-07-22 03:11
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE51Y0F2NjVJWXozMHlkM0Q5dU9xamd5X3UxMHNfWlJrRVRWWTJvRkZ4RTZiUnlsV3VNN2J6eVRJajZfWjNkXzZLWDBsYVNrTktmRHNhWkdkOS1WbmxMbFdTTVlpOVpEMGI5eGc?oc=5>
+
+### 美媒爆料：特朗普批准美国与沙特民用核项目协议
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-07-22 08:22
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9oNEhBVXFKejdoejM2S0oycXJIMDQyeERhajZZUndQdWJpVkFPYWVvd25pNWFBcEJUSU5oMm4xdFNlLWQyYXBvVU50Qm4?oc=5>
 
 ### 加拿大总理卡尼与特朗普同意在美国50%关税生效前加紧谈判
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-22 05:13
-- 链接: <https://news.google.com/rss/articles/CBMikwJBVV95cUxQVVBOb2d4dUpBQ0U3TEhxaGRheEUtOXdDdUREcjJKdm5NWXdyaGxmWTdEN05NTXNScV9XLWRRa0h1Nl9od3A5emM2YmRyYWR2R1pzWHZYcXc0MXNzbVliMU9GdmtnZ3BTd25PYUROZnEyREJOZWtTSGVVY0hqYk80U01ySkl2d19FalJpRmNheG9CZG9xWFNicHJDc3BWSGwxekNaY2NXa2t0RFZKSHFIMUVBa1hZNlVDNGlhY3haaG5IRE1wS2V3amk1OW5odjF6WUIyMGJIS2RYdnV2MldTWmdqbzZwQ2VDZ2JuR2hWWTZZM0QxM3BYTHZmeWV3VEdyT2gyRGVPNmdnU2VGVmNIcVdSNA?oc=5>
+- 时间: 2026-07-22 07:54
+- 链接: <https://news.google.com/rss/articles/CBMinwJBVV95cUxQZ1YtTW1lcmJ0dmFJWDJnQ1Z0azRibkpFVEZhVEhZZ3Vsc0xENFljaFVtRFRsX3MtaEJ0d25JTWlhY3VhcnNZNm9NWGVvYU9LMzhVRFlmTVBVNU53U3JjaHZHQlRJeUlMQ1FKYlR6d3RUR3VTUlNWSjFteDV6WHE1WFVEVjN3QWtRQl9SNk1ibkFka2VkdlFpVGtOY2MxM04wSUcyVXNXM3U5TERwMlRKdEhJN3dsUG1rcXp3VXVTYy1IR3ZZMWpNVWRFQlFPTFUxRHA3RThNTTVnN1hRMGw5b0ZyRlNNNFpOUzQwaW12LU0tWG0takotR2R6WGt0OFVWb2xFMU5jVEF0c2FwRG1YdnQ2RnBlVnlDaVAwWHBWOA?oc=5>
 
-### 特朗普宣布两年后对仿制药征收100%关税
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-07-21 23:33
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1obnVhc1BMVnIwTDJMbzFFRmRHSTZDSzlLeGdhdUtkS1ZBVmY1N2xYSV9DVG04dEo3elpWME5TNlM3aER6YjZJSVhRU0NHNnM2eHBCVlRWZENKU012SkdETA?oc=5>
-
-### 西班牙，你太不给特朗普面子了
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-20 23:32
-- 链接: <https://news.google.com/rss/articles/CBMizAFBVV95cUxOSlMxTzlwaFBIRGI5RnpHdnNwcDh6MHQyN25GdFA3aWI5RU5EMklHbHdaeV9Cdl95ZkhyRWo5R1FaWnc4N28yVjBWQkNnVW9iVG1OT3ZjMy1hdU5iMTJJWEhuRXlBQmdxZ1U3WmR2QXR2bWxkUXRZRm8xSnd6eWVYaVZ3bDRFd3d2QUtaOW5CRlh4dnJUczdxR0hTWDhVb3lIbVl0TzdfZFNXQmx2V1pqUUNUVlA5NFh3MmdkV0dVc1JBeGdXbTNScElCVUE?oc=5>
-
-### 特朗普称或打击伊朗“镐山”核设施 伊方强硬回应
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-07-22 02:20
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBlRnRSSW53RmtSd2k2MDRrQlJUVHdlNnN4Zm91aHV2am5GVTZsanFBWDNqR29MNHV3Y3VKSEFIMjNRY2Z4V19yUHZmOWJfcTFVN1dfQkRZWHJCeVhFTDc5UUhhVzdaenk2YWoyT0NpRF9fRDd2Q3R2blA2RWlReDQ?oc=5>
-
-### 特朗普指控中国干预美国大选，文件显示俄罗斯才是“真凶”
+### General Motors Steps Up Defense Efforts Following Trump Pressure -- Market Talk
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 茉莉花新闻网
-- 时间: 2026-07-22 05:15
-- 链接: <https://news.google.com/rss/articles/CBMiwAJBVV95cUxOU0lkODBDY194X2NpWU1lSmxXYUVyY1FSQUpmM2hCNjRNRW5rVzEzakJERkpFeWF2SkgyaF84UmVfOGRsVTJ4Mkh4c2FaNDRqYm80aThCYzlpRjVQemhZcWE3dV9XbXBXYVBYVWt4QXFrZVdqbkRrSDBLS19pM0NmNFVzS184UDZfNk53alJVR1I0eEdyeU5mTzJGVDRKb2hPVkdhWGRpUU0wM2gwMXBnczhQV0RqRnlfWDFuVThoQ29IQ3VNeE9VZUx1VjdZako2NDFVdzRZcm5LaTNEX01sS3ByS1NLQ1FSNDJVOVZqcVVoaUozTll1YVM0Y3dMSDFRWFdpTWplYmVERlV2Ym9LX25SV2l5ZnZSek0yd0lQQlhVeWtXamlESFVrRktZcGNBcVdHb0tVS3pRbWFkNm83bw?oc=5>
+- 场馆: 富途牛牛
+- 时间: 2026-07-21 19:32
+- 链接: <https://news.google.com/rss/articles/CBMirgFBVV95cUxOTFdrOG1UUzh3RWVQVTZRU2pnWHh3YnFERl9yck1ZZXdWSUdpcVotSFB3X1FaVXRFcHZfZ0VPbDQxVlFtNzVzTE1NcHg4dllfeTlaLXBqZGc3ajRhaXlJd1U4WWFyYVdhWXY3eEtKUWhoVGpsTFZRQ3lRd2dhcXZxbDg1WTVlTllsRTRpWjhBWmVFTlRlT1lrOFVfY3RGOXUtUmxkak95ZVY2bDZpMkE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-22 09:06  (10 条)
+
+- **特朗普** | 特朗普计划2028年起征收仿制药关税，设置两年缓冲期倒逼医药产能回迁美国 <https://news.google.com/rss/articles/CBMihwFBVV95cUxOZV9uV1NLbURDcFp5U0dqRXVZME1YVVhCTVVlUHBMZEJTcTBCVDR3V2VzdzJVMnVkMUUxUUVmMXZhbVVjZ3Z3OEVGLWlhM0xFTDFhS2xBRGN5VF9YS1dzZmd0S2xqNWhWZ0Z0SGQwQ1AxQ0phVnRfVndvLU05TWFnZGt4OTVtaW8?oc=5>
+- **特朗普** | 特朗普：进口仿制药首两年0%关税 随后渐增至200% <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBRUk1KcTBIVnVpU2VQc1pFRkozNWZpdF9YV0syQ1FpeVh3Q0pMdm81c2tNSmVDVFozVWRMbjJQaXp3NjhFdXYzNzJmY3RLeElteWdCcmotQzR3OC1CeU1PczBRN0I0dw?oc=5>
+- **特朗普** | 记者追问美伊战事，特朗普怒怼：你比我了解情况？ <https://news.google.com/rss/articles/CBMif0FVX3lxTFB6TDF5WWdvWVNodlV0Yk1hemtzTjZoN2RXbGE4V1hrRFR3MUFvNnNrckdzdVBQTWlWbXc5TWtEemdWUzh0VnVzTUxrQ3ZVVDJjYWV2MHdOZ1ZoV1dIVTRpUnN6UF95ODNQSzZNSWp5emJPLUhiNG4ycmVYVlNzdW8?oc=5>
+- **特朗普** | 民调下滑之际 特朗普团队召开闭门会议 数亿资金布局美国中期选举 <https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWmdnMVR3aEJQd1NUUXdRX0FLTlZudWpsXzZscXdjcEpXYTVCRWg5YnU4ODhSaDJPVVN3eHBaakdsXzRaQkY0VVhxdy1SOVNZMDgwdEc4LWV1anJ2ZnpMQm8yTS1qLTR4ZGFjSXpCR2E5emF4MVdSNkJfX2hSUEZaUGZ3ZkIzX1ZjZjFIMUlNRVdGNXlmYzF5cUxLdE93NXlINEU3VFZPSXE1Zw?oc=5>
+- **特朗普** | 特朗普承认美方干预中国事务，并称“中国今时不同往日” <https://news.google.com/rss/articles/CBMiTEFVX3lxTFB1NURpU3ctWWs2X05tdElRSURoX2p6T0hXSkJ3RUdCZU1TaFBnUndaSzdiZldYR3VEYm9HUURLUUV1dEhnTWUzbkFjZkQ?oc=5>
+- **特朗普** | 特朗普“中国干预大选论”令美中关系再起波澜 <https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVkJOLVRsV3U2TnNFOTdCdnpBbTEtWUw4di1JZHlqQkEtbVd4djZCMWRzN1NVNVd6UkY1eF90dHdteFNra2o1QXNmdlpmRlNGWWVlNGlzTlRxendJVzZOYi1PRTZJdENpUkxTWE0wd3BBM2xGMDFldXZEU0ttNHUtQjlTdjVrNW15ZlF6b2E1RWx4R05HWndlOHhURXBxTzcxcVZHcmlvUm9uVXU0TmpvWV94Zml1Wm9yWFNIUG1CVGM?oc=5>
+- **特朗普** | 特朗普批准与沙特达成核协议，美企或在沙特境内建铀浓缩设施 <https://news.google.com/rss/articles/CBMiakFVX3lxTE51Y0F2NjVJWXozMHlkM0Q5dU9xamd5X3UxMHNfWlJrRVRWWTJvRkZ4RTZiUnlsV3VNN2J6eVRJajZfWjNkXzZLWDBsYVNrTktmRHNhWkdkOS1WbmxMbFdTTVlpOVpEMGI5eGc?oc=5>
+- **特朗普** | 美媒爆料：特朗普批准美国与沙特民用核项目协议 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9oNEhBVXFKejdoejM2S0oycXJIMDQyeERhajZZUndQdWJpVkFPYWVvd25pNWFBcEJUSU5oMm4xdFNlLWQyYXBvVU50Qm4?oc=5>
+- **特朗普** | 加拿大总理卡尼与特朗普同意在美国50%关税生效前加紧谈判 <https://news.google.com/rss/articles/CBMinwJBVV95cUxQZ1YtTW1lcmJ0dmFJWDJnQ1Z0azRibkpFVEZhVEhZZ3Vsc0xENFljaFVtRFRsX3MtaEJ0d25JTWlhY3VhcnNZNm9NWGVvYU9LMzhVRFlmTVBVNU53U3JjaHZHQlRJeUlMQ1FKYlR6d3RUR3VTUlNWSjFteDV6WHE1WFVEVjN3QWtRQl9SNk1ibkFka2VkdlFpVGtOY2MxM04wSUcyVXNXM3U5TERwMlRKdEhJN3dsUG1rcXp3VXVTYy1IR3ZZMWpNVWRFQlFPTFUxRHA3RThNTTVnN1hRMGw5b0ZyRlNNNFpOUzQwaW12LU0tWG0takotR2R6WGt0OFVWb2xFMU5jVEF0c2FwRG1YdnQ2RnBlVnlDaVAwWHBWOA?oc=5>
+- **Trump** | General Motors Steps Up Defense Efforts Following Trump Pressure -- Market Talk <https://news.google.com/rss/articles/CBMirgFBVV95cUxOTFdrOG1UUzh3RWVQVTZRU2pnWHh3YnFERl9yck1ZZXdWSUdpcVotSFB3X1FaVXRFcHZfZ0VPbDQxVlFtNzVzTE1NcHg4dllfeTlaLXBqZGc3ajRhaXlJd1U4WWFyYVdhWXY3eEtKUWhoVGpsTFZRQ3lRd2dhcXZxbDg1WTVlTllsRTRpWjhBWmVFTlRlT1lrOFVfY3RGOXUtUmxkak95ZVY2bDZpMkE?oc=5>
 
 ### 2026-07-22 06:24  (6 条)
 
