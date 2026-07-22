@@ -1,54 +1,91 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-21 23:01**
-- 本轮扫到 7460 条, 新增 **5** 条
+- 最近更新: **2026-07-22 00:14**
+- 本轮扫到 7468 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (8 条)
 
-### 周杰伦三场鸟巢演唱会强势收官，直接一拳击碎内娱演出市场坚不可摧的天花板！
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923674_m1d5ae17da03301mqyi.html>
-
-### 美国即将对几十个国家征收新关税，特朗普总统之前实施的临时性全球关税即将于本周到期
+### “新一轮关税，最快本周”-观察者网
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-07-21 22:19
-- 链接: <https://news.google.com/rss/articles/CBMivwRBVV95cUxQNzB2VGxjNTBtNUx3Ym9uS0M5ZnBZd2NteGdmU3EwYXJxQXU2V0FaaFpWUy1xZlFpSGl5aGdadFd4U2FNQVhTYzg3cmlmc1FwZWhzQThkeC1sWEFRRWxzenctU2pCLTFmenNMTDdEdzRoemVBNlUtOTlrSTBwWHlfc1dIOE5Vcy10aFBQOGtXQy1NaEVxVTFJc05qZFN3UWtzcHZGcnYyOVZPd0pzMEd4UzFDTnBuNmVLQjNQNXpfdDhRYjJ2dkEyVm9xbmtHeGVhWUd6dU14eVl4LUotZUdYVnhMMnQ3N3F6OU8xdkhuQk10blgwTDFVWldWSnc4ejFQbGVOVDdRakI5cW1hbGFJZGRuUjFpTHVNM2JIVXpzc1NqRm93TXlnRG5wcmx1OEoxVTRRYUZNMkxiU05iWGg0YUlhcGFYU053blFYQUNrUnp6N0xqOTdPMDJPVDhmUkdjNUE5d29XRmhzZldFVkNaYUhKYlhPT05wLVExQW4yVEdyazFwQlc1WE9Od25xcWRER0o1M0R2MEJ0SWpTcG9MV0ZZZlAxZk1Ja3VTZ01vOUpxbEVQYVA5WmJ6SEtQZng3WEFIdEdoMFY3aUZmajA2MEtKYnhPVHJWNFE1WnBVbEpTaDZkUmUtY3ltRC1pLUE1VExmUTVVVDM3TG12NDk4ZVgyOTl0Qjc4bGtSaUxzbE53UVFCZlo0dW1nRHVURnM5TU5DOXAxVWFqNVBxbFlsSE1UVEFXbjFMZUlJa1hPVQ?oc=5>
+- 场馆: 观察者
+- 时间: 2026-07-21 23:20
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBtRjNpcy12QW9qRDYybm5xZ0lGMlA3UjM4bW1lWEcwSEpzUFhzYnYwNjQycTlfOFg1M2k4bzR4azVqd2xZTERoRGdBM3l5aVFTN0dKbGJGb1dXOU02dXd5dHNOUDAtdFB0YUE?oc=5>
 
-### 7月22日外盘头条：特朗普淡化与伊朗谈判可能性OpenAI智能体用户突破千万SpaceX迎来史诗级股票解禁
+### 特朗普宣布两年后对仿制药征收100%关税
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 紫牛新闻
+- 时间: 2026-07-21 23:34
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBEOWdraDNjTHN6ME83N3FGaEJFZjM3VFBNalQ4ZWN6dU5wRDZzTmZINmRYMEVzUVoxcXF1ZTFkN0NCVlZjNXY1anAzLUpFakpYYUQ2VDBLM3kzMlp0UVFTa2poaDVQS3czZ3c?oc=5>
+
+### 面对特朗普50%关税威胁，加拿大总理卡尼硬气回应：保留所有选项，将密集展开谈判
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: video.sina.com.cn
+- 时间: 2026-07-21 23:56
+- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxQemdHa1hBcF9IMHFlcnk2bzcwWHBDR0M2cGJSc2dQNlB3ZGhUWE5rei1aYXUtUWQxQmlyYnBaWVdTSUp5SU14dVpaelhOcHJGdTVLTWszY0dISHo1QVlUc1ZfT1J1QnV5ZlJaeUdhWjU3M0NsWVM5cWV6bzFSQmNSa0FR?oc=5>
+
+### 特朗普称2026美加墨世界杯为“史上最成功的世界杯”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: video.sina.com.cn
+- 时间: 2026-07-21 23:56
+- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxNN21kREwtZWgyVFVZUHc5Q3FmMG5HNnZwVXZFR0kzcW1MeU1Wb1FtMW9yZDkyYjBuZ190eDBieGlKYmlWeE1taFU4U2hCcnVrWW9VSHVBT2Jmc2RsNm1hXzZqbHhPNEQwQTFzQVJFQVdIaW5mUnpLbnVYNExCTFdnMmhR?oc=5>
+
+### 特朗普：胡塞武装若封锁红海 美国将采取行动
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-07-21 17:25
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBCdkRFbzc4clpFWFk2TVdJaEFTNGNwWnZUeS1RWDFhYWdVcGV1YVdhdUdNWE1fMkxlZFlMSnNaUU8wOGRORUVhSGNfN3pHbDhSRER0RlZjQXA1N2FIV0Zva3JhTWNxU1gtUFBRemI2eklqTEdDZHI0RFpxREZjckU?oc=5>
+
+### 特朗普淡化与伊朗谈判可能性 并称将在红海航运受威胁时出手
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-21 21:58
-- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE45aFRYOXdUY3p3OW9yalFRN3ZvT083eHpYSU95MGJobHMzV2xfT3VuNTlJZkxLbm53dXlvYzdxOWctbVk4VlU1TEYwclNidlJBS0U4XzF4ZFAwZGlSUVUtSWhJcnViOXZJcGFpYjU1cWFwZHo1UnRPbk5n?oc=5>
+- 时间: 2026-07-21 18:00
+- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWlpUaDFnNVUxNFQzZUNZMGJ5VWlyajk2ek14WHpDSElfbWg2SU4zdDVfSmJjOS0xSWRwdm1SYnB1Yk55SFB5aW0ycGJldzhyNGcwN244OGhMV3ByODhla1pvRk9jRFo4Nmpsbjg1SXZ3NXhRQ3pqRDA5SEpPa0FBN1Izb3Bmc29Ib1RMZ3FsZHh4M2ltR2ttZXR0VERfdmxScXZITHg0Y3dxbEhCV0M0dEhaQVllNUlFNFhVVE1WQ3NhZ0Fac0czZ2FYaHRpN3ZUMHc?oc=5>
 
-### 共和党中期选举焦虑加重，特朗普在伊朗问题上缺乏选择：“这就是陷入泥潭的样子”
+### 特朗普：胡塞武装若封锁红海 美国将采取行动
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新京报
+- 时间: 2026-07-21 23:22
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xVC1xTWI1ZUZZaWFJMXlNSWdydUhZZkJGU0pGY1FUZkRwT1ZnLXl0OWpEMnAyNTlIV19OWDFkc1lmU091REZuMlJYVWw3cWpmaVFNN1J0WTJvNGpBSVdzZE1Yck4?oc=5>
+
+### 特朗普批准美国直飞黎巴嫩的航班，结束了长达40年的停飞。
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 加美财经
-- 时间: 2026-07-21 22:27
-- 链接: <https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HeEhZM2REOFdLVERkNnV6R3RjZkd3cnE4RUgzZ2hLU3g0bkI5OGY5OGxIVERiZm43MWZUQWQyR2ZmVS1fSG9udmRneks5WjFUdW9BMHlfZnc5dw?oc=5>
-
-### 特朗普签令对加拿大多项商品课征50%关税 美加贸易战再升级
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-07-21 22:28
-- 链接: <https://news.google.com/rss/articles/CBMikANBVV95cUxOMjMyQTFYc3didS1wdGhyVkRZeEpuaXBiYUluOVh3LXRvRGJBMkF0czN6OFp4M3FCdDJJenNVRGNxUU9zS3VPRnlEMmJxOFJQTEQ5QjZfQll4UkJ4UU9aRS14dFB6TUdsam5VcV9PV29fTklrWWR6NDFUWHhlVWNqeVlaM08wV0VTR0h0dW5YMUNWUXBpb2E0ZVBiQ0NyNHd3UnVoaVBQXzQ1OFJScktGRzVhelVmcm1UN1MwbTY4WFhDTjZZc2h1UGRGX2tKZHZCWWlUaVVGUVp3OWx1RGtFZ2V2VGVjdXRkdUpPR21OU0ZWMUhHYTJ5Zkg5c3QwWG9QbFBpUEFER3FNc1l2ZllGc0FjUmRKT3lyZ2VGdGtIakxYeVRCWDdlaTJNeEJucnlLd0QxZ3dMRHM5S29mR0xMVTZPZXk4NXVjWFRPNElVUjRkTHNGS191a1BNdTNPMXNYQlZVVnZpVk5ST1hNZ0FDNThNbGdOM2pqWWxNeXRocXRPLWs5R0pzUzR6UzVZdk45?oc=5>
+- 场馆: Al-Monitor
+- 时间: 2026-07-21 19:46
+- 链接: <https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeHc5R2JhTWlhYXZFLWFfQ2NBbTN6azE5SWZkYk5mMmNhLWhSQUQzT1NMUFJ0ZTJZWmNFSHdCdExLQTJqQ3RtSHhaY0l2QWE1WG84YlJabjBrMEdsSGVCS01oODF3YW04TnNSWDQ0dkE1eUkxY1RsZjJ1TkRDUnp0NXZSMzgtRzE5ZzVEeEw4RlFoMktqT2lUWTB6bDZaazhYaERaMDFnNU9pWGVaQ0JtX2d5UnhTYkx4eWhrT05KcFBKbEE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-22 00:14  (8 条)
+
+- **特朗普** | “新一轮关税，最快本周”-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTFBtRjNpcy12QW9qRDYybm5xZ0lGMlA3UjM4bW1lWEcwSEpzUFhzYnYwNjQycTlfOFg1M2k4bzR4azVqd2xZTERoRGdBM3l5aVFTN0dKbGJGb1dXOU02dXd5dHNOUDAtdFB0YUE?oc=5>
+- **特朗普** | 特朗普宣布两年后对仿制药征收100%关税 <https://news.google.com/rss/articles/CBMiakFVX3lxTFBEOWdraDNjTHN6ME83N3FGaEJFZjM3VFBNalQ4ZWN6dU5wRDZzTmZINmRYMEVzUVoxcXF1ZTFkN0NCVlZjNXY1anAzLUpFakpYYUQ2VDBLM3kzMlp0UVFTa2poaDVQS3czZ3c?oc=5>
+- **特朗普** | 面对特朗普50%关税威胁，加拿大总理卡尼硬气回应：保留所有选项，将密集展开谈判 <https://news.google.com/rss/articles/CBMiggFBVV95cUxQemdHa1hBcF9IMHFlcnk2bzcwWHBDR0M2cGJSc2dQNlB3ZGhUWE5rei1aYXUtUWQxQmlyYnBaWVdTSUp5SU14dVpaelhOcHJGdTVLTWszY0dISHo1QVlUc1ZfT1J1QnV5ZlJaeUdhWjU3M0NsWVM5cWV6bzFSQmNSa0FR?oc=5>
+- **特朗普** | 特朗普称2026美加墨世界杯为“史上最成功的世界杯” <https://news.google.com/rss/articles/CBMiggFBVV95cUxNN21kREwtZWgyVFVZUHc5Q3FmMG5HNnZwVXZFR0kzcW1MeU1Wb1FtMW9yZDkyYjBuZ190eDBieGlKYmlWeE1taFU4U2hCcnVrWW9VSHVBT2Jmc2RsNm1hXzZqbHhPNEQwQTFzQVJFQVdIaW5mUnpLbnVYNExCTFdnMmhR?oc=5>
+- **特朗普** | 特朗普：胡塞武装若封锁红海 美国将采取行动 <https://news.google.com/rss/articles/CBMif0FVX3lxTFBCdkRFbzc4clpFWFk2TVdJaEFTNGNwWnZUeS1RWDFhYWdVcGV1YVdhdUdNWE1fMkxlZFlMSnNaUU8wOGRORUVhSGNfN3pHbDhSRER0RlZjQXA1N2FIV0Zva3JhTWNxU1gtUFBRemI2eklqTEdDZHI0RFpxREZjckU?oc=5>
+- **特朗普** | 特朗普淡化与伊朗谈判可能性 并称将在红海航运受威胁时出手 <https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWlpUaDFnNVUxNFQzZUNZMGJ5VWlyajk2ek14WHpDSElfbWg2SU4zdDVfSmJjOS0xSWRwdm1SYnB1Yk55SFB5aW0ycGJldzhyNGcwN244OGhMV3ByODhla1pvRk9jRFo4Nmpsbjg1SXZ3NXhRQ3pqRDA5SEpPa0FBN1Izb3Bmc29Ib1RMZ3FsZHh4M2ltR2ttZXR0VERfdmxScXZITHg0Y3dxbEhCV0M0dEhaQVllNUlFNFhVVE1WQ3NhZ0Fac0czZ2FYaHRpN3ZUMHc?oc=5>
+- **特朗普** | 特朗普：胡塞武装若封锁红海 美国将采取行动 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xVC1xTWI1ZUZZaWFJMXlNSWdydUhZZkJGU0pGY1FUZkRwT1ZnLXl0OWpEMnAyNTlIV19OWDFkc1lmU091REZuMlJYVWw3cWpmaVFNN1J0WTJvNGpBSVdzZE1Yck4?oc=5>
+- **Trump** | 特朗普批准美国直飞黎巴嫩的航班，结束了长达40年的停飞。 <https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeHc5R2JhTWlhYXZFLWFfQ2NBbTN6azE5SWZkYk5mMmNhLWhSQUQzT1NMUFJ0ZTJZWmNFSHdCdExLQTJqQ3RtSHhaY0l2QWE1WG84YlJabjBrMEdsSGVCS01oODF3YW04TnNSWDQ0dkE1eUkxY1RsZjJ1TkRDUnp0NXZSMzgtRzE5ZzVEeEw4RlFoMktqT2lUWTB6bDZaazhYaERaMDFnNU9pWGVaQ0JtX2d5UnhTYkx4eWhrT05KcFBKbEE?oc=5>
 
 ### 2026-07-21 23:01  (5 条)
 
