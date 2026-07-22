@@ -1,35 +1,19 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-22 11:24**
-- 本轮扫到 7503 条, 新增 **9** 条
+- 最近更新: **2026-07-22 12:54**
+- 本轮扫到 7507 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (9 条)
+## 本轮新发现 (4 条)
 
-### 污蔑中国遭驳斥后，特朗普自曝：美国对中国“做过一些事”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察
-- 时间: 2026-07-22 09:46
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE94NU9Reld6el9pbW51bUktNFByRlAtN1RPanBCdjgxX1k4SzNTVk1FRVN5UW5wdGlFM0pNTmFJTm9maE4xdzBScFdUdUNzamVMejR3VzZ1eEhlZjdFd0JoZlNYSHRWWE9fZ0E?oc=5>
-
-### 特朗普指控中国干预美国大选，文件显示俄罗斯才是“真凶”
+### 美AI学者喊话特朗普：跟中国合作吧，早说美国赢不了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-07-22 02:13
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFBlUVpYWF84bjhCSnpRdTA0WWpmZHZPWHpFMFVMdVRJczBPYkFrVkZ6T1RXQzVRakszU1ZpQWVRSFpvd3A5cGx2QnR6ZXBSem9nZzBMdHdrNW84RzMwbFpDbGl4YVlWNjFkNlFvODQ3MmxyQQ?oc=5>
-
-### 特朗普社交媒体发文，将对仿制药征收100%关税
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-22 08:45
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBrOGlXclgwSjhKSEZTV3NGSlgtTXdMbVoyX1dQRlkyanZwUlBzMExwSlZVc3hrNWtJemprd0Rwa1A1OGJBUi1QSGdGcnlfWTI0MFRjZmVsNmdmSWtFY3hfdlktbkZKbVdfYjJJaEhES2dRbjdJM3VQeg?oc=5>
+- 场馆: 观察者网
+- 时间: 2026-07-20 23:48
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1EbTZ1R0s4YkU1V2l6WnY3LWpEVlRxaGFvWXVYbnoyLWtodHEtbmlJek5pYUxsbEhvZm04U3pJemRVdFN6ckxmZG5WQmJHazhKbm5ELWxRZHh3Tm14UlktLTJhb0tlZHhGcEE?oc=5>
 
 ### 美媒：特朗普希望国际足联主席因凡蒂诺出任联合国秘书长，认为“他拥有特殊能力，能够把人们团结在一起”
 
@@ -37,15 +21,7 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-07-22 01:33
-- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTEtFbHd3cWlCS1Y2SG1iZl9XazZFUzVOZVZQN042SkNtRXFjck4yckh5OUg1dG92VjR1YjhjMEdUcTdwWTRtRktOemlBVHVfSnFCb1VtXy1tMnl0NGtwV1p1TVloQjFhQWE1bkxWMFJMWG4wenZ2UmhqMWxhamtmLXFDMktGX2xMWm05TWQtcGktT2NtcG5rZTBMZUw2eXVobjYwQjBDNTdRZExvbzRCWWxVVFlYNUJ4cDRXYlY2WklPUzhfa1paa0V5MWI0T0h5Q1E?oc=5>
-
-### 加拿大总理卡尼与特朗普同意在美国50%关税生效前加紧谈判
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-22 08:03
-- 链接: <https://news.google.com/rss/articles/CBMikwJBVV95cUxOWExmVWdzbkZJVkpxX2pNSnhuWjFmb2pqWjBhcTBTRmtqcjQyQk4zWEhOT1FOeVBnY2VIQmdJQUtIQmpCZ09HVTdlUEZaV081bktfbXZhejdTWVU4UnVjSXZQR1lBYng0ZGxmWUUtYTJIbG5CMmFxUG8yZzFYcFh3bmdCaHl2d1k2TktpQnNWMGM4SnEzMFNJbW9sTmpReWNuR25NWFdaVWszZlZtX2FkSFdpa0ZnekVzelZQQ1p2NTNWRnNLXzBfY1dXbHR4YnpCX0Y5SFlhOTF2ZVV4OWowcXNQVTRZVzljZUVoQ3hOUlllMFBReFJ6V1hOYWpPVTVtOGw1ZFVHZEVyVVprU3dtSEJQcw?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxQT0NPZmZUalZGbWliNFNFUlZOVU50b2tON0tOTjdpM1JJWnpwZDlXcTYtSmgybGdxYzdHZ1I3bGxZbUVTWExicGZZRDRySVI3TXdmQjAzSnhCRU1PMGpGTUFYRHBDYmhKU2ZGcC0zdHIwakJkZkZhMXhsNmxfcVl4ekFuUV85SFVzaHpOQlVQTUJzS2V0cUFqeEdnNS1CWkJDVWlkM3ZpUlZrbTBfRmdJWjdlWkJyUHdKUjNWeDV2SFlMTEJuaURfTWR2Z09OTzFU?oc=5>
 
 ### 特朗普会见黎巴嫩总统奥恩
 
@@ -53,36 +29,27 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-07-21 15:10
-- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxNZ2l1SHRkelI2a2kxT0wyYzN5SDVlLVl4Q0hLRktoSHdIZ1BXVzdzUTJPZzJHOHU5eml6ek1LVXUzVi1kb3pvYVlTdDNpZ3hHbklyZkxod2RzYklzN2tlYUdJakx6d29JRzU4Q0pQLXhYQnBsR1FuT3M2RUdFdlJ2dnkwRm1qZnJ6NWlVSkxRNDJheFBfNFR5VF9oNlNnbnVsd0FLdjNwd1NpYkU0VE1GQnI2R3p5cDB4bGRFY0ZTUks2WjNQYkF4bGdBcHVENXM?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxNak12d2xTVDRmdUpfdlBtOVB2eTRBQnJObWd2M0ljRGgwN1dJV2IxV2tPejRSbWtBaUI0YjcwZWR0NU9maUtxU1ZZUURoMWFPLTM5WU1XRlQxbWZwOEZvNWRkODQzbDd0SnZKSGVRVDBJMFRUMzlWVXBMdEFtd2RvME1GbDdNTVlwNnh6RDFWMVJSZktKZVJQYnBfWVhWNlhxd21PTWhFak45VnhDR0hJdG1remVUQnliMHZNNHFBTElrRTAtcnhKSHJzUDdhcTg?oc=5>
 
-### 特朗普解除美国直飞黎巴嫩航班40余年禁令
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察
-- 时间: 2026-07-22 03:09
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBmdWFQRWdvOWhKWDdibTdOYzlRaGdHb0lUdjlmSkxLVEhPMGFPaEd4azJJb0VnQjFXbVBGTllROURCV1hLRFp4b0F5UlU2TW9JVkVMZFRKUEJScFdqVjlHLXFIakU0YXc3X1E?oc=5>
-
-### 特朗普诉BBC《Panorama》诽谤案 法官颁令总统交出纪录
+### 伊朗反驳Trump“打击鹤嘴锄山”言论：“侵略的借口”
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-07-22 05:03
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE56R0h1Ml9sSDgwSnppYlZPV05UY21HV1B1YmJBN2s2OER3S0NCS0lKaXVTMjN3QXRTUG1jRDMzTXRVR2kzQkpGOFQ2Q2xycmtuLVpkbHdJYXhyWjBBcEZibDNqck5sd9IBa0FVX3lxTE5YbWFkZW54M0l6YzBDdzdiT3ZIQ0E0S2hrQkN2ZzNoOG80dWxQTFpXd1FiZTVmVUtFdDFvdXhab3BzbHVvZDdVWVpBbVpxSi1NZDNtTWhYb0k0M0xFNEdYSjhwUm1aUUlTZjk0?oc=5>
-
-### US President Donald Trump approves US-Saudi Arabia nuclear deal
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: TMGM trading
-- 时间: 2026-07-22 05:44
-- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxPVXFoUFQyd3NQR0V6cXF2Ums0V250MVFucU0wMjl6Sm9ENDEwMGx4VXlqQlMtbW9QWTV0T1N2ZzNQM2lETGF5QzMwdzVYTlotSW9jZEt2Mk1hOE5rVVlOYWRBZkJkNU5sLVJ4YS1DN205c1FuX29fbmZNTWZkSHNtcmFyZFpMOS1oRXNtMkMwYk1pdkl3cXo2bjg4M05IenhmWm9wWnFCcGNjNE9PZ0dCakVqV2E1M0NNZWFnY2RfYWkxamhrZ2xwMXI2YktscVU?oc=5>
+- 场馆: 아시아경제
+- 时间: 2026-07-22 11:38
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Ib3Z6SWhIUld0OW96cS1sa1JpVnBET2loV0xhOE5mb0szNEpLaTBFYmJ4MUR3ZVZkalhzNWJwS1hsY2h6SHFUR1cyYldzMDdsWDBEeks4YTZUUUxGbmdZRnd5eWs?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-22 12:54  (4 条)
+
+- **特朗普** | 美AI学者喊话特朗普：跟中国合作吧，早说美国赢不了 <https://news.google.com/rss/articles/CBMiakFVX3lxTE1EbTZ1R0s4YkU1V2l6WnY3LWpEVlRxaGFvWXVYbnoyLWtodHEtbmlJek5pYUxsbEhvZm04U3pJemRVdFN6ckxmZG5WQmJHazhKbm5ELWxRZHh3Tm14UlktLTJhb0tlZHhGcEE?oc=5>
+- **特朗普** | 美媒：特朗普希望国际足联主席因凡蒂诺出任联合国秘书长，认为“他拥有特殊能力，能够把人们团结在一起” <https://news.google.com/rss/articles/CBMi0AFBVV95cUxQT0NPZmZUalZGbWliNFNFUlZOVU50b2tON0tOTjdpM1JJWnpwZDlXcTYtSmgybGdxYzdHZ1I3bGxZbUVTWExicGZZRDRySVI3TXdmQjAzSnhCRU1PMGpGTUFYRHBDYmhKU2ZGcC0zdHIwakJkZkZhMXhsNmxfcVl4ekFuUV85SFVzaHpOQlVQTUJzS2V0cUFqeEdnNS1CWkJDVWlkM3ZpUlZrbTBfRmdJWjdlWkJyUHdKUjNWeDV2SFlMTEJuaURfTWR2Z09OTzFU?oc=5>
+- **特朗普** | 特朗普会见黎巴嫩总统奥恩 <https://news.google.com/rss/articles/CBMizwFBVV95cUxNak12d2xTVDRmdUpfdlBtOVB2eTRBQnJObWd2M0ljRGgwN1dJV2IxV2tPejRSbWtBaUI0YjcwZWR0NU9maUtxU1ZZUURoMWFPLTM5WU1XRlQxbWZwOEZvNWRkODQzbDd0SnZKSGVRVDBJMFRUMzlWVXBMdEFtd2RvME1GbDdNTVlwNnh6RDFWMVJSZktKZVJQYnBfWVhWNlhxd21PTWhFak45VnhDR0hJdG1remVUQnliMHZNNHFBTElrRTAtcnhKSHJzUDdhcTg?oc=5>
+- **Trump** | 伊朗反驳Trump“打击鹤嘴锄山”言论：“侵略的借口” <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Ib3Z6SWhIUld0OW96cS1sa1JpVnBET2loV0xhOE5mb0szNEpLaTBFYmJ4MUR3ZVZkalhzNWJwS1hsY2h6SHFUR1cyYldzMDdsWDBEeks4YTZUUUxGbmdZRnd5eWs?oc=5>
 
 ### 2026-07-22 11:24  (9 条)
 
