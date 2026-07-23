@@ -1,78 +1,80 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-23 15:50**
-- 本轮扫到 7596 条, 新增 **8** 条
+- 最近更新: **2026-07-23 17:13**
+- 本轮扫到 7603 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (7 条)
 
-### 【南昌】王力宏「最好的地方」巡回演唱会
+### 赛事方和王一博工作室发布了哪些观赛倡议？
 
-- 艺人/关键词: **周杰伦**
+- 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001908dsey.html>
+- 链接: <https://k.sina.com.cn/article_7879923101_1d5ae159d06801mmoy.html>
 
-### 特朗普: 美沙民用核能协议条件是沙特承认以色列
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-07-23 13:40
-- 链接: <https://news.google.com/rss/articles/CBMi6AJBVV95cUxOVTZFOEk1N1NsUWIxSEZ2T1JoMUI5TU9qOGdoaXpQeE04S1VGS3d6UklHLTU4YXotZ1Vpb2c2MFRoWGJhdlhmMGNSN0tUVHFqVzg1T2xSVXJiTlMydmJYdlk0LUhMNU9VWjBhMHBjdkk5dVhQUi1FUjN6QVRKWS10cWFnZHphRG1LMkdRdHVlemtHLVdpSW1LUC1FazFlNnJRZDhXWnJ6S3FPX0JJRUwyUkdhR1F3Q3ZlVzNpakx0R0Z3cnZKQndfVmVic3o1UHZoUG9SdUJ3Y3NxbVQ4QmVoTTJ3aFRVcFVSWjVrZ2dad2dqYVRaWVZ0dGlRV0RiTzlHRC1aSWVyNHpINW9CM3BNREdvMHkzWHFKalBPaW1xakxtakZGTkZPNTBYU0NURkN2M0hONFdVUEZrUjB3eTFkNGg4WEd2YXRnaFNfVkU2clR5OUZlZk5RRElrRUlVb3hOM3NOTldTUGo?oc=5>
-
-### 特朗普称沙特加入《亚伯拉罕协议》是美沙核能协议获批前提
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-23 12:27
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE00al9teUdMVG15eUpHNVZ0bURfUUxRYjdaZm43YmtkUjV2cWkzdmNoYWxoLVlOZTFYSmZVOWNuSk9ONExzYzBNV3g4bS0?oc=5>
-
-### 如果我是特朗普：2026年中期选举前的美股剧本
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-07-23 14:05
-- 链接: <https://news.google.com/rss/articles/CBMiogFBVV95cUxNX3NGaTJvdDlfcEtCRVU4NHh3SXlSNXdYMjd2cnQ1UElWRE5XY2xqc0plQk11T3ZXV2NvNXZvaXBZMzFZdFF3M3pPRVhSUk5md241Ry1xNm1WVHplbmF4SThtbU1uRndldnlsZU15UjFoVnZocWZlX3N5WHZCRE92U1ZzQ3ZjUlA5Z3AyLVNpWEtuSUJkb2NaREYzSGdDYkFIUUE?oc=5>
-
-### 美众议院再次通过决议要求停止对伊朗军事行动
+### 特朗普媒体科技推出总统帖文高速数据流 引发华尔街集体抵制
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-23 15:12
-- 链接: <https://news.google.com/rss/articles/CBMipwFBVV95cUxOSTJoLWNPbFZHRUNPdW0wU3pPOEZCZ2dSbllQc2lVUllnTlVYNFlTLVp5QV8wQUl6NkJyNi1hQTZIY3RBdF9xcE5ncGFLck5NVFhQZDF1TjJaQ0ZnRUVjS3Z0T0g1ZjFKTnFkOVZxSlRpZVllUVdDWmt0a3BaYWpXTHZvSzdhQXpWNVBfYmZNNG1Nd1hMNnVZOXpxLUVxalV3WEdTWDZDbw?oc=5>
+- 时间: 2026-07-23 16:12
+- 链接: <https://news.google.com/rss/articles/CBMijwJBVV95cUxOS2I1bUt5QkQ2WnN4NGZYS1Q5Zy1qaFF2MlVDUXIwQkVUeGhodEt6WDB0YS1MalhpelZsQ1JWc3k0R3ROVHFkemdqaGZhUklxWlRXczNkZzFCdkFmLWpmWHJMOU1SNGl6djUzWWRRSFpJVnNaZkl2VVRQVGJaMDE1c0FvbW82TUpvenN5VXJJRmlsTkVBQ2RFRHFOc3JfVWhvNzJGZ2hmQTNJbGhlYjBxbnV5dVk0WFBtcEg1OGpJQWRLNDRqdjFBb3ZOSDIyR0gyaS0xcUpWYUtKMlpQTm9OZmNWN1Y2WXVraHo2S0Zna1JPd25vNHA2emFYSHVTUVdGVTlwdkliQlpiOHI4aWNN?oc=5>
 
-### 特朗普：接近就“大规模打击”伊朗作出决定
+### 特朗普颁奖后赖着不走，因凡蒂诺拉都拉不动，全球15亿人围观
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-23 15:29
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9STFhSa3FWdUZsV0xmZEVDYW5lZU0zcGc4akhTc2ZlN1hYU3B1aUYtM3lidEFqdGUtazBqZGlRWmNaQm9KVHF0Wm1tNA?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-07-23 16:36
+- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZXJlUTVfZW1ZTlZjd1Y5TmJtZE9pTXBKSEZKa25iWlhPYnp2eEd4dkp0WUl4VGF3ZXpBc0VoS1VrTDBnckoxRlRfODRqbkpFMU8yeW9VZHNYTkQxak9uMmdtTHVRWThPeTJwci1EZTg4ZUFsb0V1RFAwTGgyNlNTWmJXYVRyV0FBNlRFWEF3clZmRFlMejQ5eGduQXFfdng5ZmpVU1J1YUxmWkloNm5tSzQ2QkdKNVA0ZGlBY1BQZEZpamhndDVsLUpISjl3Zlp4czF2dGREc0dQY3lKVnc?oc=5>
 
-### 特朗普总统出席四名在中东阵亡的美军官兵遗骸尊荣移交
+### 美媒爆料：特朗普批准美沙30年核协议，沙特或将开展铀浓缩，协议即将递交国会审查
 
 - 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-07-23 16:57
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE1lZ2k1OHpGTEo1bkRzMXJnMGxPUXNWLTFhNVVNdWYwaWM0S1VGb3JOWGpVNFd3NExIck56a0JvRE4yQXlWZ1Y2cmRXTDZyVVFXNTJLa3UtLTRIS0kyZDZsTGVLUnRVYlZSXzFRdnd1LXdGUQ?oc=5>
+
+### 特朗普总统警告，如果红海袭击事件继续发生，将对伊朗及其也门盟友胡塞武装实施“严厉军事惩罚”
+
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: 美国之音
-- 时间: 2026-07-22 19:45
-- 链接: <https://news.google.com/rss/articles/CBMizAFBVV95cUxPZDlmbE1KNG85cDVRNWkzaWZBNjUtYWNqN1UxWllOMFMwMGFTQ2Y1OWNua29ZUG1VV29rcW9QS09lVzVvZVEtbDV3X2Y1UDFpSS1oSlZaNzFoclNnN3BxNlVieU92ZzJDNDVwR2w5N2lVT1B3cEJhTDc2SWNYOEhsS3BzTHk0cG12aV94QnZfN3RKN0kyMW5EXzc2Qmo4VzFBZjVsN3Nvay1jR251YU4tdnBlOVZQQ2luUlhDeFEwMDc2MTRCUXdLRjJMbDDSAcwBQVVfeXFMT2Q5ZmxNSjRvOXA1UTVpM2lmQTY1LWFjajdVMVpZTjBTMDBhU0NmNTljbmtvWVBtVVdva3FvUEtPZVc1b2VRLWw1d19mNVAxaUktaEpWWjcxaHJTZzdwcTZVYnlPdmcyQzQ1cEdsOTdpVU9Qd3BCYUw3NkljWDhIbEtwc0x5NHBtdmlfeEJ2Xzd0SjdJMjFuRF83NkJqOFcxQWY1bDdzb2stY0dudWFOLXZwZTlWUENpblJYQ3hRMDA3NjE0QlF3S0YyTGww?oc=5>
+- 时间: 2026-07-23 16:48
+- 链接: <https://news.google.com/rss/articles/CBMi-gFBVV95cUxQMDFERmhaR1NiT2N4RzZva0pZbnNqeG9zTXNJYVJxbFQ4UUVqRjRFcWUtOFFtTUhoM1JTVWFNS3luejFMaVVmS3VRRHk2T01XN2tfNXJLcWc0QW1Cb0VKcTFhcGJFU2dxRHVRRzZCcnRPR08wa21iRU94X0VUb3FfREUyZ2x4VWVza1pxd0d0c0tKMkVlYlNsVXA5TlRmUUNqb1RFcHdGWnBUNWp3MFpXazk4RG1Cd2tGd0NpTWJYMnJ5MGt2RHdTYmJNNHVLZlBUc3hrbzdMbms1cG1EdmVmczBnWGhmSXdZNThwY1h5Y05Rc0doQzcxRHJB0gH8AUFVX3lxTE1VV0wtS0hjTjh3dmRab2ppR0YxWTBtLUxOTmlCVEF4OHhXcl9WNVFmMFU3eXFtNmlRZzZWVE0zQ3ZWZmhxcXA0dDJiNGFxd3AyWFRFWnZwSWNFNlR2S2ZLdjFzNXlZOGFkbkJPU0U1UnpQZWhUR1dFYklvMW9jNl9xNjFVYjl0Z3R6d1UtQTFoeFh0QnY4aV9QZmhMRF84UnN2S0h3SUZXNW5yUlpVdVBvbFdITExvMDYwOEVnRDVKeTMyNTJGaGk0cVNRU01QbDVYZWVXNlAzWlFONV9fQ1lPYlF2S2N4b3hGMUk1a01jQURGQ29ScGZCaVVkRA?oc=5>
 
-### 持续的战争因trump而引发了此事！
+### $SpaceX (SPCX.US)$ 这场持续的战争是由trump引发的！
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: Moomoo
-- 时间: 2026-07-23 14:07
-- 链接: <https://news.google.com/rss/articles/CBMinwFBVV95cUxPR1o0YldGcjVxTTMtU05LMTJTaFlMUXJNaDA5NDRMZzFjcmE2VFl4VXZVTFRTWWItVWxmdkJMUXo2S3F2S1IxZVVBZFpYUVlGYWVUZkRxU2NYYWVSMjdTWTNBQzd2VnBFYmh4TjJ3YWZwV2dqZUxUU2tzelRQWmtOUnVDN1FVVXhGX21fQTREZFVGdGJnVnFnQkF2WU1PZTg?oc=5>
+- 时间: 2026-07-23 14:06
+- 链接: <https://news.google.com/rss/articles/CBMiswFBVV95cUxNbUF6bW5KMmZjTUhlOHFnOHRRWndIVEo0VThtbWxyX3ByeVJIWmNsX1NvRXhxc21jWF9qTXhvR3NCY3JSeGtmUzZkVk44eHN6SXI0aEF0bHJVWXBfMlhtZFBHY3JfS2UtcFMxMmxtc1V0MExhX2hZZ3NGd3VQUkZvcnY5cmhsc1dLMWk2TTRDNHNSLTR1LWFfREpzcTdlVk00UEZFbGdnVy1hVHJuazU3cE1pZw?oc=5>
+
+### 鲁比奥与王毅就习近平9月访美事宜进行磋商
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 茉莉花新闻网
+- 时间: 2026-07-23 16:25
+- 链接: <https://news.google.com/rss/articles/CBMingJBVV95cUxOOTBCV3FCc3cta2R4M2xRd0NnZkJLejE0d3J2Rl9KaklYQWYtNlBnZG1PakNfeE9WazVreks4X2ZNcll2WW95d25aaEVwRktmX19mazlXazg1WlJuRmhxdUsteS1EVXFhYjQzUVV6dnBrRU1zRVltXzR1WFNBczFzRm5fSlFSNVd2UmQ0cXU3Z0ZHWjA1b2ZpVHJXTHlTN2wxVDZTTlJYZGVtVDdaMkY2c3A2SWVoLXdRTFRpZXR4YkNrdUtGeDRfXzI4RkxMLUN2T0ZPWEpyX3gxVXVyUDVrOEVpT1pUVmE3STh0QkVkTmFIak9hRkc0NWN5d2dHS2hIYjQ5YzlPU0N1TWxDblhqMG92MFNSRlR5VzQ1dkdR?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-23 17:13  (7 条)
+
+- **王一博** | 赛事方和王一博工作室发布了哪些观赛倡议？ <https://k.sina.com.cn/article_7879923101_1d5ae159d06801mmoy.html>
+- **特朗普** | 特朗普媒体科技推出总统帖文高速数据流 引发华尔街集体抵制 <https://news.google.com/rss/articles/CBMijwJBVV95cUxOS2I1bUt5QkQ2WnN4NGZYS1Q5Zy1qaFF2MlVDUXIwQkVUeGhodEt6WDB0YS1MalhpelZsQ1JWc3k0R3ROVHFkemdqaGZhUklxWlRXczNkZzFCdkFmLWpmWHJMOU1SNGl6djUzWWRRSFpJVnNaZkl2VVRQVGJaMDE1c0FvbW82TUpvenN5VXJJRmlsTkVBQ2RFRHFOc3JfVWhvNzJGZ2hmQTNJbGhlYjBxbnV5dVk0WFBtcEg1OGpJQWRLNDRqdjFBb3ZOSDIyR0gyaS0xcUpWYUtKMlpQTm9OZmNWN1Y2WXVraHo2S0Zna1JPd25vNHA2emFYSHVTUVdGVTlwdkliQlpiOHI4aWNN?oc=5>
+- **特朗普** | 特朗普颁奖后赖着不走，因凡蒂诺拉都拉不动，全球15亿人围观 <https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZXJlUTVfZW1ZTlZjd1Y5TmJtZE9pTXBKSEZKa25iWlhPYnp2eEd4dkp0WUl4VGF3ZXpBc0VoS1VrTDBnckoxRlRfODRqbkpFMU8yeW9VZHNYTkQxak9uMmdtTHVRWThPeTJwci1EZTg4ZUFsb0V1RFAwTGgyNlNTWmJXYVRyV0FBNlRFWEF3clZmRFlMejQ5eGduQXFfdng5ZmpVU1J1YUxmWkloNm5tSzQ2QkdKNVA0ZGlBY1BQZEZpamhndDVsLUpISjl3Zlp4czF2dGREc0dQY3lKVnc?oc=5>
+- **特朗普** | 美媒爆料：特朗普批准美沙30年核协议，沙特或将开展铀浓缩，协议即将递交国会审查 <https://news.google.com/rss/articles/CBMickFVX3lxTE1lZ2k1OHpGTEo1bkRzMXJnMGxPUXNWLTFhNVVNdWYwaWM0S1VGb3JOWGpVNFd3NExIck56a0JvRE4yQXlWZ1Y2cmRXTDZyVVFXNTJLa3UtLTRIS0kyZDZsTGVLUnRVYlZSXzFRdnd1LXdGUQ?oc=5>
+- **Trump** | 特朗普总统警告，如果红海袭击事件继续发生，将对伊朗及其也门盟友胡塞武装实施“严厉军事惩罚” <https://news.google.com/rss/articles/CBMi-gFBVV95cUxQMDFERmhaR1NiT2N4RzZva0pZbnNqeG9zTXNJYVJxbFQ4UUVqRjRFcWUtOFFtTUhoM1JTVWFNS3luejFMaVVmS3VRRHk2T01XN2tfNXJLcWc0QW1Cb0VKcTFhcGJFU2dxRHVRRzZCcnRPR08wa21iRU94X0VUb3FfREUyZ2x4VWVza1pxd0d0c0tKMkVlYlNsVXA5TlRmUUNqb1RFcHdGWnBUNWp3MFpXazk4RG1Cd2tGd0NpTWJYMnJ5MGt2RHdTYmJNNHVLZlBUc3hrbzdMbms1cG1EdmVmczBnWGhmSXdZNThwY1h5Y05Rc0doQzcxRHJB0gH8AUFVX3lxTE1VV0wtS0hjTjh3dmRab2ppR0YxWTBtLUxOTmlCVEF4OHhXcl9WNVFmMFU3eXFtNmlRZzZWVE0zQ3ZWZmhxcXA0dDJiNGFxd3AyWFRFWnZwSWNFNlR2S2ZLdjFzNXlZOGFkbkJPU0U1UnpQZWhUR1dFYklvMW9jNl9xNjFVYjl0Z3R6d1UtQTFoeFh0QnY4aV9QZmhMRF84UnN2S0h3SUZXNW5yUlpVdVBvbFdITExvMDYwOEVnRDVKeTMyNTJGaGk0cVNRU01QbDVYZWVXNlAzWlFONV9fQ1lPYlF2S2N4b3hGMUk1a01jQURGQ29ScGZCaVVkRA?oc=5>
+- **Trump** | $SpaceX (SPCX.US)$ 这场持续的战争是由trump引发的！ <https://news.google.com/rss/articles/CBMiswFBVV95cUxNbUF6bW5KMmZjTUhlOHFnOHRRWndIVEo0VThtbWxyX3ByeVJIWmNsX1NvRXhxc21jWF9qTXhvR3NCY3JSeGtmUzZkVk44eHN6SXI0aEF0bHJVWXBfMlhtZFBHY3JfS2UtcFMxMmxtc1V0MExhX2hZZ3NGd3VQUkZvcnY5cmhsc1dLMWk2TTRDNHNSLTR1LWFfREpzcTdlVk00UEZFbGdnVy1hVHJuazU3cE1pZw?oc=5>
+- **Trump** | 鲁比奥与王毅就习近平9月访美事宜进行磋商 <https://news.google.com/rss/articles/CBMingJBVV95cUxOOTBCV3FCc3cta2R4M2xRd0NnZkJLejE0d3J2Rl9KaklYQWYtNlBnZG1PakNfeE9WazVreks4X2ZNcll2WW95d25aaEVwRktmX19mazlXazg1WlJuRmhxdUsteS1EVXFhYjQzUVV6dnBrRU1zRVltXzR1WFNBczFzRm5fSlFSNVd2UmQ0cXU3Z0ZHWjA1b2ZpVHJXTHlTN2wxVDZTTlJYZGVtVDdaMkY2c3A2SWVoLXdRTFRpZXR4YkNrdUtGeDRfXzI4RkxMLUN2T0ZPWEpyX3gxVXVyUDVrOEVpT1pUVmE3STh0QkVkTmFIak9hRkc0NWN5d2dHS2hIYjQ5YzlPU0N1TWxDblhqMG92MFNSRlR5VzQ1dkdR?oc=5>
 
 ### 2026-07-23 15:50  (8 条)
 
