@@ -1,40 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-23 18:43**
-- 本轮扫到 7606 条, 新增 **3** 条
+- 最近更新: **2026-07-23 20:08**
+- 本轮扫到 7607 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (1 条)
 
-### 特朗普考虑重启对伊朗重大军事行动
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-07-23 15:37
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5GbG5VQm1QeC1oYldvelpDcEYwTHBiVVhUaEU5bE9tUWpCcWFRZk9malY4SGs4WF9pQW12cmlJSTF4aklfWnR5Sk91WQ?oc=5>
-
-### 特朗普称美沙核协议取决于沙特与以色列实现关系正常化
+### 为高频交易制造毫秒优势 “真实社交”10万美元售卖特朗普帖子抢先访问权引争议
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪网
-- 时间: 2026-07-23 18:22
-- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTC1wbzJhUWZoMGx2SjBBNVBYWGZWT05uVlotS0Zuc0hYY1BWNHBvWWdvcVFNd09hUWJrakhDWEllbXc5MUZDWjduZ0M0MG9pbFYzc3F2V2xreXJkQ3JsQkhjdGYyRC0xdG9xS01aV3ZUWjVmMTQ4LS0xSzVFQ1l0aFN0WFlWUXVhdkVSWFZpVVlxTFNBSElGcUlEcVdjTzFLTVlBcUhKZndCZw?oc=5>
-
-### 特朗普：2年后对仿制药征收100%关税，对中国医药出口有哪些影响？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-07-23 10:06
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE10YVNsWkl5aURUdlhIMG5ZUWlwVWt2dGlNakxXWGQ4cEFOT0lMV2o0NWtOZW9FQ2w4bDc4OWRFbXNDYkh6Qm1BTDJ5SFFoeFM2RHJMNmVneGYyMnhKU0w3dFNnYTlLQ0hLTEV1aTNFYVNfbFFsUTA0eA?oc=5>
+- 时间: 2026-07-23 18:57
+- 链接: <https://news.google.com/rss/articles/CBMiigJBVV95cUxNSzZLUWI5Y3UxUWZ1WlZUOG1uX04zRFJnbi11cGxqOHBvUlFaVE5yQ1pEWWZ0TERoNmF0elA3U1VaYlFxOVRiZGR3RGpyWktXc19NZjV0ZUNFamZjbGQ2RzlybWN1bzkxZ1VSRTIzQ01XVW55cHI2LXhvMEJVUGRrOXZpWjFmNzFzb0ZsZlNTTDFhenFmNE9vQm1CZDhhYWYtR2hQaGNMV01fZ1IzWlFnTENCU21nMzhzTkNxbURfaF9Vem96bHJVM0g0YnN6WXZ5RWgtdFdLSWdCTDN2REpyZ0NVZmhUZ2hGYWM3SHpiNGhPeTlIUHh6azJiYjNZNkRzZFZaNkxkYjRIdw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-23 20:08  (1 条)
+
+- **特朗普** | 为高频交易制造毫秒优势 “真实社交”10万美元售卖特朗普帖子抢先访问权引争议 <https://news.google.com/rss/articles/CBMiigJBVV95cUxNSzZLUWI5Y3UxUWZ1WlZUOG1uX04zRFJnbi11cGxqOHBvUlFaVE5yQ1pEWWZ0TERoNmF0elA3U1VaYlFxOVRiZGR3RGpyWktXc19NZjV0ZUNFamZjbGQ2RzlybWN1bzkxZ1VSRTIzQ01XVW55cHI2LXhvMEJVUGRrOXZpWjFmNzFzb0ZsZlNTTDFhenFmNE9vQm1CZDhhYWYtR2hQaGNMV01fZ1IzWlFnTENCU21nMzhzTkNxbURfaF9Vem96bHJVM0g0YnN6WXZ5RWgtdFdLSWdCTDN2REpyZ0NVZmhUZ2hGYWM3SHpiNGhPeTlIUHh6azJiYjNZNkRzZFZaNkxkYjRIdw?oc=5>
 
 ### 2026-07-23 18:43  (3 条)
 
