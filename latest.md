@@ -1,48 +1,114 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-23 04:16**
-- 本轮扫到 7553 条, 新增 **4** 条
+- 最近更新: **2026-07-23 07:03**
+- 本轮扫到 7564 条, 新增 **11** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (11 条)
 
-### 知情人士：特朗普批准沙特核协议
+### 周杰伦释出新歌前奏    MV造型掀回忆杀
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-07-23 03:43
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE9kWTZPcUw1YndHVmRybU82QWY4V0drR2F4eFc0c3BkY20yay1Kd1k5ZzhESmhsT1RCLTZEVFpoQVNyUXc1ZmJfUmZrcFdfOVVWN2FiMnBqSGFiUWt0YXJmVVd2X1hTZHduWDlWUkpCRzJmQQ?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001908db22.html>
 
-### 特朗普演讲遭抢镜 镜头后的替身笑料
+### 两顶流同开线上演唱会,周杰伦不忘做公益,鹿晗超敬业献唱15首歌
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-07-23 03:48
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5RQjVITUVxa2dXMVduRHVndElWQWdtdnRiVXQ4bzd1R05lUC1CcjA5YUk2OG9UZHFWNWVabmhLRzlqMkdKSk9oeDNZYWlET05xTVAxY1FBZzJyQjNVY3VjN0NvVEdBYXc5T2dxSU5aRjc?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879848924_1d5acf3dc01901jk7s.html>
 
-### 特朗普2028年8月起向仿制药征收100%关税 隔年翻倍
+### 特朗普再威胁：伊朗袭船就炸桥梁、电厂
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-07-22 10:20
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1PMHZDOFZJNlBlaHFHTFVmZlVpVTVlR0c2MmFaNDBvSmE1UjNUYUVydTBaYURTMTlLRzBLbG5oLTF2WmZuelpSLUFlQ1R2TGVHRTBqUTk0aDduUlpPbE9JQTRRWE9rdw?oc=5>
+- 场馆: 观察者
+- 时间: 2026-07-22 23:11
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE50aVJDQXJZaWtURG9LWTZKNlpwejNLd1RvOWhURzZYcktVOWMzNFlDY0JEZzdOamVPbDhfR0FMTER4TEFNeG0wZmtrVllkZUNia1hpT0x5cXB6cFNONUt2MEpaaUd3WDA2VUE?oc=5>
 
-### 高频交易公司如何靠Trump Media推出的特快数据流掘金？
+### 特朗普：我们与伊朗只是小规模冲突
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-07-23 04:58
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE8zQWFkdmNwN3JiWTlwMm9CYUZMNDY1UGF6eWV2ZFBaeVpUUDcwVmloRVl5bFlxcEdVRUtOakNwY0xmakNncDlPdjhLQ0w?oc=5>
+
+### 月费10万美元！已有机构抢购“总统API”，只为纳秒级抢跑赚差价
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-23 05:07
+- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxOUUFUWGtjQ1JSeGlwN2sxZE1RWm1mSk51eS15MUphaVR6RHY3ZTBFMmRMTzdCeTBkemFZalB1WlRwSTR4V2J5bDJZdGVKcHg5V096d3hOOFI1akNjUnAyb18wTER6VzRTSHVCX2I0Rzllb3RhdzRrSGktNDU3Uk1Jbl91Y2NEYkROVGUxdXFaX1hQYTBBdUlWZw?oc=5>
+
+### 卡尼对特朗普软硬兼施，但均未奏效
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-07-23 05:17
+- 链接: <https://news.google.com/rss/articles/CBMigwJBVV95cUxOeUZQYlJ6enpKdkgyR1dFZW9FcVdZOGJLVWtFVk9WZzdPbzc1dUtScDlXMXE2SFFFV0dmWEpkVzcyWFBTVjFRc3JnM0lqYkFHUzBSM2VJWXNMZzRJdzZLTTV6aWU3em5NYWZXaFM4M1ozckk4QVlEbzloWlJZZjc2YXZtXzRhZzVZMnVNWUJQNnZKZmprRkpaYWVUUTJaYW5nQTc2UHpZNnR1a2FDcXozUzREUUtBR1VnWVdneFhOSHA1c1BRNjQwejlXYzBUZXJMRUNNLWpVX2lFNUlKUVlTbFhQU3ktVGdaQkdGRkt3YTFadzBQT3A0WnRCUGxtVFY3SGdz?oc=5>
+
+### 特朗普：通胀降归功自己，物价高归咎前任
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-07-23 06:54
+- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE9jTG5sbllSa3drZXE2b3JGVDcwWWFJUFRwUDBGLXJZdTVTbEdhdzFtZVVTcDdoNmVXSXZnRHRrVFJYUmFTVks4SUZIODVKdFpsT0g3VTEzZlUwTGRMTWhzdGJhcmVCOUg3NWZUTFU3YnN0ajF3OGJTSFBWMk8zdw?oc=5>
+
+### 特朗普：预计美联邦政府在9月将出现“停摆”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-07-23 04:45
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1YelRjdkFaX0MxSGxKc1YtMVRyYXcyRVIxVWpwSjZuOWE1b3ZLSW1feWlZVkhsczNlTjBNSWpGZk92OHAwZzhGMUFZaWNxM3JMYUZycm45YjlzZnAzYnpzRF96aWRobk5SWUowNE04VzY?oc=5>
+
+### 特朗普：预计美联邦政府在9月将出现“停摆”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-07-22 23:48
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE53aXRoTUJhdEV6cVpFclZ3NllHbzNPS3hVTlE2Y2RzSElkVzV5a1F4UFJNcXM0dTVCdldDeWJMd1Y1eDRNbFV3eGV1Mko1WmhYU3RzQkdwNkpWVVB0NU9yNVZtUHdZWS1qYVFaZWpoUHFXa1dq?oc=5>
+
+### 特朗普政府大举参股企业，选民对政府持股行为普遍心存戒备
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-20 12:01
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxOS1NjbDNXZkRtT1IxaWRBLWVDVW8yRHNPVzc5bDV5STdIZUZ5NDFWbXpPazZjSzgxREVjaGwtNEZqSjR2bG1VeVdlSFJ6ZnpjUHdyWENib3FWd2FreUZiM3NseXkxZlI2SV9pMlQ4WHJTYVJfZ19ZVWdzRVJGSm1MWGM0VjB0MDA?oc=5>
+
+### 琴久 (@Square-Creator-ddc67b0f2664)的见解
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-07-23 03:05
-- 链接: <https://news.google.com/rss/articles/CBMipAFBVV95cUxPaDRjS21hWkZzUnowVHBBZ2U5aDZUUkVxUFJpUTJWamR6TzE3R1lrZVI3SzVUOU9vNklmaU9iMzRQei1Qc0pHQTFKM1A0aXJiUDdLMmZBU01SWXVicEU4LW1XbWQtbUhONnNfeHZCTnF0eUtJTnNDNllDR1JQV2JvNUpMY2hQLThRODhreC05d3owU2ExZzRJM0p6WUwyY011WDU0YQ?oc=5>
+- 场馆: Binance
+- 时间: 2026-07-23 04:32
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5LbmxwU1pDaVE5dEJaTS1wVV9pZTByWnhwd1NhSE42U04wcllfVFJuY1lDS2d6NkpBQjhRcVk5WGdsY244Qm0zX1JyWWpOYThGMG5LZ3pFbC1wQS1RTFJHSm9ONklRQzRv?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-23 07:03  (11 条)
+
+- **周杰伦** | 周杰伦释出新歌前奏    MV造型掀回忆杀 <https://k.sina.com.cn/article_7857201856_1d45362c001908db22.html>
+- **周杰伦** | 两顶流同开线上演唱会,周杰伦不忘做公益,鹿晗超敬业献唱15首歌 <https://k.sina.com.cn/article_7879848924_1d5acf3dc01901jk7s.html>
+- **特朗普** | 特朗普再威胁：伊朗袭船就炸桥梁、电厂 <https://news.google.com/rss/articles/CBMiakFVX3lxTE50aVJDQXJZaWtURG9LWTZKNlpwejNLd1RvOWhURzZYcktVOWMzNFlDY0JEZzdOamVPbDhfR0FMTER4TEFNeG0wZmtrVllkZUNia1hpT0x5cXB6cFNONUt2MEpaaUd3WDA2VUE?oc=5>
+- **特朗普** | 特朗普：我们与伊朗只是小规模冲突 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE8zQWFkdmNwN3JiWTlwMm9CYUZMNDY1UGF6eWV2ZFBaeVpUUDcwVmloRVl5bFlxcEdVRUtOakNwY0xmakNncDlPdjhLQ0w?oc=5>
+- **特朗普** | 月费10万美元！已有机构抢购“总统API”，只为纳秒级抢跑赚差价 <https://news.google.com/rss/articles/CBMimAFBVV95cUxOUUFUWGtjQ1JSeGlwN2sxZE1RWm1mSk51eS15MUphaVR6RHY3ZTBFMmRMTzdCeTBkemFZalB1WlRwSTR4V2J5bDJZdGVKcHg5V096d3hOOFI1akNjUnAyb18wTER6VzRTSHVCX2I0Rzllb3RhdzRrSGktNDU3Uk1Jbl91Y2NEYkROVGUxdXFaX1hQYTBBdUlWZw?oc=5>
+- **特朗普** | 卡尼对特朗普软硬兼施，但均未奏效 <https://news.google.com/rss/articles/CBMigwJBVV95cUxOeUZQYlJ6enpKdkgyR1dFZW9FcVdZOGJLVWtFVk9WZzdPbzc1dUtScDlXMXE2SFFFV0dmWEpkVzcyWFBTVjFRc3JnM0lqYkFHUzBSM2VJWXNMZzRJdzZLTTV6aWU3em5NYWZXaFM4M1ozckk4QVlEbzloWlJZZjc2YXZtXzRhZzVZMnVNWUJQNnZKZmprRkpaYWVUUTJaYW5nQTc2UHpZNnR1a2FDcXozUzREUUtBR1VnWVdneFhOSHA1c1BRNjQwejlXYzBUZXJMRUNNLWpVX2lFNUlKUVlTbFhQU3ktVGdaQkdGRkt3YTFadzBQT3A0WnRCUGxtVFY3SGdz?oc=5>
+- **特朗普** | 特朗普：通胀降归功自己，物价高归咎前任 <https://news.google.com/rss/articles/CBMifkFVX3lxTE9jTG5sbllSa3drZXE2b3JGVDcwWWFJUFRwUDBGLXJZdTVTbEdhdzFtZVVTcDdoNmVXSXZnRHRrVFJYUmFTVks4SUZIODVKdFpsT0g3VTEzZlUwTGRMTWhzdGJhcmVCOUg3NWZUTFU3YnN0ajF3OGJTSFBWMk8zdw?oc=5>
+- **特朗普** | 特朗普：预计美联邦政府在9月将出现“停摆” <https://news.google.com/rss/articles/CBMicEFVX3lxTE1YelRjdkFaX0MxSGxKc1YtMVRyYXcyRVIxVWpwSjZuOWE1b3ZLSW1feWlZVkhsczNlTjBNSWpGZk92OHAwZzhGMUFZaWNxM3JMYUZycm45YjlzZnAzYnpzRF96aWRobk5SWUowNE04VzY?oc=5>
+- **特朗普** | 特朗普：预计美联邦政府在9月将出现“停摆” <https://news.google.com/rss/articles/CBMidEFVX3lxTE53aXRoTUJhdEV6cVpFclZ3NllHbzNPS3hVTlE2Y2RzSElkVzV5a1F4UFJNcXM0dTVCdldDeWJMd1Y1eDRNbFV3eGV1Mko1WmhYU3RzQkdwNkpWVVB0NU9yNVZtUHdZWS1qYVFaZWpoUHFXa1dq?oc=5>
+- **特朗普** | 特朗普政府大举参股企业，选民对政府持股行为普遍心存戒备 <https://news.google.com/rss/articles/CBMihwFBVV95cUxOS1NjbDNXZkRtT1IxaWRBLWVDVW8yRHNPVzc5bDV5STdIZUZ5NDFWbXpPazZjSzgxREVjaGwtNEZqSjR2bG1VeVdlSFJ6ZnpjUHdyWENib3FWd2FreUZiM3NseXkxZlI2SV9pMlQ4WHJTYVJfZ19ZVWdzRVJGSm1MWGM0VjB0MDA?oc=5>
+- **Trump** | 琴久 (@Square-Creator-ddc67b0f2664)的见解 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5LbmxwU1pDaVE5dEJaTS1wVV9pZTByWnhwd1NhSE42U04wcllfVFJuY1lDS2d6NkpBQjhRcVk5WGdsY244Qm0zX1JyWWpOYThGMG5LZ3pFbC1wQS1RTFJHSm9ONklRQzRv?oc=5>
 
 ### 2026-07-23 04:16  (4 条)
 
