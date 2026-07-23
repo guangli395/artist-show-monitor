@@ -1,72 +1,82 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-23 22:50**
-- 本轮扫到 7619 条, 新增 **7** 条
+- 最近更新: **2026-07-23 23:54**
+- 本轮扫到 7626 条, 新增 **7** 条
 
 ---
 
 ## 本轮新发现 (7 条)
 
-### 欧盟重罚谷歌8.9亿欧元 恐再激怒特朗普政府
+### 特朗普全球关税战又开火 针对60个经济体以“强迫劳动”为由加税
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-07-23 21:39
-- 链接: <https://news.google.com/rss/articles/CBMivAJBVV95cUxNZ2FBQTI2Y0d3ZHRIbVEzMmRoVW5kbm1FMUl0RGh5UEJ5T3lLVEk0TElJSXgyc3NNSVYzX0JnMTY1TGZGZTNlbHFpZk56QW9uTm1WRHZEcmJWQl9EVHJJTFdoWC01Y19ZMDNOdV9tZ3FZTHUwb1QxNG9YNk9YNkQ2Q21Pb3lyZ3VWeVFXTklLR0pXcE1QYTQ5UDlkS3p0emJQSTBHTmwteXc3RjQ3RHdSQ2d0TDdGamJ1dVlYSFk1UDJSWHZYbmhoNXJITVEwNWRXQThtaEh1OWtJTjQySDhqNjRWQ2stQlQ2Vk9nUjlvUlFvaUcxLVNHSU5oOWdvcFFDWFJxTm5oSUhVb3VpeV9uSFdZQVJ5TjRhVjhLVkcwVEsyWDBzd25IamFJRHpkVnBUeWFoVl93S3NKaHBa?oc=5>
+- 场馆: 财新
+- 时间: 2026-07-23 23:08
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5Cb0RxRUJ2R2JxN21Gb1pQdXMzMFpJRmUtZjBkZ2cydndKOW9KTTBtazFNY0tEZ0R2ajhNOWp0SmIwRUx4dzFDWFZYV0o2Yk53THo3eXNvMG5CLVlsdGw3aVZ6eUxwZWVLMHc?oc=5>
+
+### 特朗普新一轮加税公布，中方反对
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-07-23 22:54
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE02ck9kMzVkaGtYblNjTXRncklUeXBYQ3JmaXFxZWtuSjFoTG1jSTlkM3duVHB1N2FWbWNxb3RNeDVCSE1wb0REYTFzWFQzSHJPY0dUMjFlenVVQkhwbWo1WFNHQVg5MFpQcXc?oc=5>
 
 ### 特朗普威胁“军事惩罚”伊朗和也门胡塞武装
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-23 22:43
-- 链接: <https://news.google.com/rss/articles/CBMijAJBVV95cUxNdzlaMDkyQVk2LWluX1kwQjRxRkpjNTEtYjRkTTA4Y1lFN01COC10dnBXTjJXNERzRV9IR1lMaXdpMnEzbHhNZFVYWHlLMzVyUUhnWjE5YUlRTGh2UWVSTWVLdjgzRVFUSTJCS0Z5cXo0d1Yzb3JCb0ZoMEYtZHUzRUc4MWhwWFJuVXl6N3Z6QlBZbDNHbkNpSGc2NnBnaG9pYzAyZXZnY0RpYWhweTd5azl6bGx0akpPOEMwVGRUVzJMSy1DTTAzVlRLZDI4YVM1Y1E2YVg5YUtPNVYzQTZ6Q1gzYlIwUGhtMjJHZXBBaENlcDhCQzdCTTdKazFnUnNzMzlaMkFyMXpkOWRP?oc=5>
+- 时间: 2026-07-23 23:29
+- 链接: <https://news.google.com/rss/articles/CBMi_gFBVV95cUxQYXpVR2lxZ1o5a3hTUHZ4Q2JjTE1EQ1V5THBTNDBCbVN3dmVheENQM2FHcEZ2NUd3N3hybFV0eUk3UkZmek1kd1I1ak1KNXpIQWhZZUxROG0xSlR5ZU1wX0JxYnZ0RkZMVHJYNXd2RU52bDRqOHhiS1RReUpEU252dmpYY2RKRU9hM0trT1RJZFN6LUluMVNWNkpvdzNJdzJfRTlpaU9WWmE2UzNRRndTYlJuTG0zdVB0RU9yRkhDSkpKWVQzSE5Vd0NqODdQVXBUQlh5ZzFjRWQtZTJoOTd6UWhiNkpFdUEtWDlQU2tRVE9EdS1LVGhIdlZKdkVrQQ?oc=5>
 
-### 特朗普或重启对伊朗大规模作战 沙特油轮遭袭国际油价破百
+### 金明日牧师VOA专访揭获释内幕：我获释时中国没有提条件，甚至没有警告
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-23 22:17
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE83OXQzVWVaTC0tSHZIWmVYd3RrekhzazBVazJnRHVpLXptUVhKUHBZVW9ZaFZrSFk4RDJ1MzUwOW11YnFiMHV3bHVucUJmTGlHdVF3d290N0RRbXVCVy1sQ01Vd2pENjhsY3p1WEo1Ym4zT3hTRk5yMA?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-07-23 23:26
+- 链接: <https://news.google.com/rss/articles/CBMingFBVV95cUxPcnU4RHJuMjNYYzRmR3Y2RzB0YzB5d0w1VEJKOThpZmRvSFBhMHNsMXFkSGVoY2VpaDJRNnZ0dko5ZmxJaUdMalFQS0luaEM0SG1vb1B5SEgxZkkxVU54dlpzOF9rNjhiZ2VvbUMzVmtkd2RjSkJxTEM3X1A3c2FiT3BueWRuMTZiNWJWTlhyQW5UVkpYX0FJWmRZNXBEUdIBoAFBVV95cUxNay1MUmViWjE5enRGLUh3WlVXM05vQzlRdFZhS01Dck5JMkczaW1SdEpOeFpXaVhZNF9tRC1ILUNRcFVoU3ZRWExsZjhsa2hDT3Y0U0JqZWd5TkY4SVNmaDMzMW14QWpTZ1lxODFLSktxRGFnelBINEN1OVd3UWxRM0ZleHNZRUhBSXpabkpMVTZiYWxvZzNBWTZ6Rl9GbHhu?oc=5>
 
-### 美25州起诉特朗普政府 反对将救灾资金与选举制度改革挂钩
+### 特朗普推出新关税措施，旨在经受住法律审查
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-23 22:09
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBmby1EeFJoeEhMTnRVc1dYZXBYdW1UR0lfTGtPR1pEVzZ6WXRMSDEzQUVqcEpCUjFDQjloTEhkdGpia1FFdzRpbktqSjhmOGZDblltNGR1dXZjTElLd0drQ0lJSklIYS02M25IUEtXZXBCbnBsZnN0aw?oc=5>
+- 场馆: 华尔街日报中文网
+- 时间: 2026-07-23 23:14
+- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxNby1hVWt3TUdTWEl2V2llNnNfUE5SdmlGYlBXd3c5RjQwS1hJVF8xMmYtZVEyMVJ1SVNmdWlXSFplQVpSZk51VVdXUm9qRWNZdHV5eTgxWW1XRWt1S3c4cktSenZkSy1WblVGNlFEc011d0ZVOHJfSVFrekVMZVpabTZ5VGN5ZVR6bFVVQWlsWlg5VVJ3NDBadXdxektmNFRv?oc=5>
 
-### 美国会要让特朗普“踩刹车”，众院通过议案要求停止对伊朗军事行动
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-07-23 16:21
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KTlljaDRPVmwzSUk3TU9HUXpUdWlnQkJNN01FbkR5UUhKeFJVRDJ4VzFtb2dndkhjdDVzU3pNWU1pcmJJbk5SX1E0RU1yckNCbWMw?oc=5>
-
-### $SpaceX (SPCX.US)$ 这场持续的战争是由trump引发的！
+### Dow Jones Top Markets Headlines at 7 PM ET: Trump Unveils New Tariffs Designed to Withstand Legal Scrutiny
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: Moomoo
-- 时间: 2026-07-23 14:06
-- 链接: <https://news.google.com/rss/articles/CBMisgFBVV95cUxPVnhPMkhLTk5HeXg2ZWswWU5LQ3JPU216NlhUbHhJdEN3SVgya3p0aTRUTmxBcUxVVlhtMUFXNkdlek4wRlVJTkZuTFM1d3pCbk9DVXc0TGpaZGxwelNmOUQ0azRsREtOMnlZd01rRUl5ZG50VWcyUnZlWUdSUjdUT3JiV0RNNTRVTUg0NFk5YXRTWVFPTDVLNFRLNzhjejMzOFZ1b2tIb0U3Q1ZULUxGVXFB?oc=5>
+- 时间: 2026-07-23 23:00
+- 链接: <https://news.google.com/rss/articles/CBMimwFBVV95cUxPTTFteGlJYmRFbDNNWngxVWh0U1BKbktiYnFFU25UT1dOSVFRZlpPTWVvQTZKUUw2cVRkWGRaMU5jUmF6SkY4LXIyeG5ULXM4UlZWREtXN0FOX1ROTXRrR2wwUEZLd1JMT1czRUh1UmRnNE1EbG9sbEpCNXNSRGVzTmdxUTNLLXJPcElGSVV6NllVNk1keUpjQjZLYw?oc=5>
 
-### $比特币 (BTC.CC)$ 突发：🇺🇸 特朗普总统表示，我们在加密货币领域大幅领先中国及其他所有国家，并称“我们希望在加密货币领域保持领先地位。” 现在我们只需要《清晰法案》通过。
+### 众议院和参议院在限制美军在伊朗军事行动的立法问题上意见不一
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-07-23 21:18
-- 链接: <https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbkRLMmxLTi01ckRHOGF1U083WHBTWUJJOU5LbGcwdXUwZW1waW9IczZDZ051SDAwRGZPRk5ZcXBuNllzcTRwUGhYeVl2N0N1SUNKZ21JQURoRS1xRzM2UDkxU2JiOGFhUVpnQnBQZGVVMkVUbWlxQkFZbDVfd1liX0tvOC1HUERaY21lQ2NpbnpVTF9IdEt6YkZtb0swTXhqSmpDcUg0YnFpa3NrS0tUMFpGMHZLNXRt?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-07-23 23:16
+- 链接: <https://news.google.com/rss/articles/CBMixgFBVV95cUxPa3dtZ0RUdkstNmVrY0E3QmR6bmpDMXFSWGs1bmVEeEF2NDdoZ2FVNFduNFo1VklUM2dtSVlsNXY0OE1kQXlPVEQ1bEZXUVBjNmN1WmxwSEJ1bm42TmllWTRfd0pLWVkxYXhqODFsSlVOVVVld2RUUlc3VEVmSUhjOEF0eHhXWExKMFBfWjdtOHFIZmJLM1NjanU4VDNBYWk1aHhuM2k2aVM2XzZFNVN6YWhncWF3XzJtUGUwNzhIeFl5UzF5VnfSAcgBQVVfeXFMT2FfcDNFWW9OQ09pazJFQmRqLWlGSVVlY1hYUkl6VlgzWGl1VkRhbWdNSVc5Zmh1VllQZS1DZjhWVXRBXy0xdHlOTEsxaVp5NU1DRTFjQzM5SXp4MjlOczBWbkZCZFF2Zm5lRXZxWEQ1bVNrQXI5MElhVXJEelpjdEVhNDdYVWYxdEVBbF9nWVJtSHBoMnN0Q3Z6QXRZWU8xYUc3RGpabW1hb1B2bjFkbUZCV1hzMElGaHBzMUFXS1VTN2h2YkVqck0?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-23 23:54  (7 条)
+
+- **特朗普** | 特朗普全球关税战又开火 针对60个经济体以“强迫劳动”为由加税 <https://news.google.com/rss/articles/CBMiakFVX3lxTE5Cb0RxRUJ2R2JxN21Gb1pQdXMzMFpJRmUtZjBkZ2cydndKOW9KTTBtazFNY0tEZ0R2ajhNOWp0SmIwRUx4dzFDWFZYV0o2Yk53THo3eXNvMG5CLVlsdGw3aVZ6eUxwZWVLMHc?oc=5>
+- **特朗普** | 特朗普新一轮加税公布，中方反对 <https://news.google.com/rss/articles/CBMiakFVX3lxTE02ck9kMzVkaGtYblNjTXRncklUeXBYQ3JmaXFxZWtuSjFoTG1jSTlkM3duVHB1N2FWbWNxb3RNeDVCSE1wb0REYTFzWFQzSHJPY0dUMjFlenVVQkhwbWo1WFNHQVg5MFpQcXc?oc=5>
+- **特朗普** | 特朗普威胁“军事惩罚”伊朗和也门胡塞武装 <https://news.google.com/rss/articles/CBMi_gFBVV95cUxQYXpVR2lxZ1o5a3hTUHZ4Q2JjTE1EQ1V5THBTNDBCbVN3dmVheENQM2FHcEZ2NUd3N3hybFV0eUk3UkZmek1kd1I1ak1KNXpIQWhZZUxROG0xSlR5ZU1wX0JxYnZ0RkZMVHJYNXd2RU52bDRqOHhiS1RReUpEU252dmpYY2RKRU9hM0trT1RJZFN6LUluMVNWNkpvdzNJdzJfRTlpaU9WWmE2UzNRRndTYlJuTG0zdVB0RU9yRkhDSkpKWVQzSE5Vd0NqODdQVXBUQlh5ZzFjRWQtZTJoOTd6UWhiNkpFdUEtWDlQU2tRVE9EdS1LVGhIdlZKdkVrQQ?oc=5>
+- **Trump** | 金明日牧师VOA专访揭获释内幕：我获释时中国没有提条件，甚至没有警告 <https://news.google.com/rss/articles/CBMingFBVV95cUxPcnU4RHJuMjNYYzRmR3Y2RzB0YzB5d0w1VEJKOThpZmRvSFBhMHNsMXFkSGVoY2VpaDJRNnZ0dko5ZmxJaUdMalFQS0luaEM0SG1vb1B5SEgxZkkxVU54dlpzOF9rNjhiZ2VvbUMzVmtkd2RjSkJxTEM3X1A3c2FiT3BueWRuMTZiNWJWTlhyQW5UVkpYX0FJWmRZNXBEUdIBoAFBVV95cUxNay1MUmViWjE5enRGLUh3WlVXM05vQzlRdFZhS01Dck5JMkczaW1SdEpOeFpXaVhZNF9tRC1ILUNRcFVoU3ZRWExsZjhsa2hDT3Y0U0JqZWd5TkY4SVNmaDMzMW14QWpTZ1lxODFLSktxRGFnelBINEN1OVd3UWxRM0ZleHNZRUhBSXpabkpMVTZiYWxvZzNBWTZ6Rl9GbHhu?oc=5>
+- **Trump** | 特朗普推出新关税措施，旨在经受住法律审查 <https://news.google.com/rss/articles/CBMioAFBVV95cUxNby1hVWt3TUdTWEl2V2llNnNfUE5SdmlGYlBXd3c5RjQwS1hJVF8xMmYtZVEyMVJ1SVNmdWlXSFplQVpSZk51VVdXUm9qRWNZdHV5eTgxWW1XRWt1S3c4cktSenZkSy1WblVGNlFEc011d0ZVOHJfSVFrekVMZVpabTZ5VGN5ZVR6bFVVQWlsWlg5VVJ3NDBadXdxektmNFRv?oc=5>
+- **Trump** | Dow Jones Top Markets Headlines at 7 PM ET: Trump Unveils New Tariffs Designed to Withstand Legal Scrutiny <https://news.google.com/rss/articles/CBMimwFBVV95cUxPTTFteGlJYmRFbDNNWngxVWh0U1BKbktiYnFFU25UT1dOSVFRZlpPTWVvQTZKUUw2cVRkWGRaMU5jUmF6SkY4LXIyeG5ULXM4UlZWREtXN0FOX1ROTXRrR2wwUEZLd1JMT1czRUh1UmRnNE1EbG9sbEpCNXNSRGVzTmdxUTNLLXJPcElGSVV6NllVNk1keUpjQjZLYw?oc=5>
+- **Trump** | 众议院和参议院在限制美军在伊朗军事行动的立法问题上意见不一 <https://news.google.com/rss/articles/CBMixgFBVV95cUxPa3dtZ0RUdkstNmVrY0E3QmR6bmpDMXFSWGs1bmVEeEF2NDdoZ2FVNFduNFo1VklUM2dtSVlsNXY0OE1kQXlPVEQ1bEZXUVBjNmN1WmxwSEJ1bm42TmllWTRfd0pLWVkxYXhqODFsSlVOVVVld2RUUlc3VEVmSUhjOEF0eHhXWExKMFBfWjdtOHFIZmJLM1NjanU4VDNBYWk1aHhuM2k2aVM2XzZFNVN6YWhncWF3XzJtUGUwNzhIeFl5UzF5VnfSAcgBQVVfeXFMT2FfcDNFWW9OQ09pazJFQmRqLWlGSVVlY1hYUkl6VlgzWGl1VkRhbWdNSVc5Zmh1VllQZS1DZjhWVXRBXy0xdHlOTEsxaVp5NU1DRTFjQzM5SXp4MjlOczBWbkZCZFF2Zm5lRXZxWEQ1bVNrQXI5MElhVXJEelpjdEVhNDdYVWYxdEVBbF9nWVJtSHBoMnN0Q3Z6QXRZWU8xYUc3RGpabW1hb1B2bjFkbUZCV1hzMElGaHBzMUFXS1VTN2h2YkVqck0?oc=5>
 
 ### 2026-07-23 22:50  (7 条)
 
