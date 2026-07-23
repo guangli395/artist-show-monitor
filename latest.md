@@ -1,56 +1,82 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-23 21:33**
-- 本轮扫到 7612 条, 新增 **5** 条
+- 最近更新: **2026-07-23 22:50**
+- 本轮扫到 7619 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (7 条)
 
-### 特朗普称美沙核协议取决于沙特与以色列实现关系正常化
+### 欧盟重罚谷歌8.9亿欧元 恐再激怒特朗普政府
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-07-23 21:39
+- 链接: <https://news.google.com/rss/articles/CBMivAJBVV95cUxNZ2FBQTI2Y0d3ZHRIbVEzMmRoVW5kbm1FMUl0RGh5UEJ5T3lLVEk0TElJSXgyc3NNSVYzX0JnMTY1TGZGZTNlbHFpZk56QW9uTm1WRHZEcmJWQl9EVHJJTFdoWC01Y19ZMDNOdV9tZ3FZTHUwb1QxNG9YNk9YNkQ2Q21Pb3lyZ3VWeVFXTklLR0pXcE1QYTQ5UDlkS3p0emJQSTBHTmwteXc3RjQ3RHdSQ2d0TDdGamJ1dVlYSFk1UDJSWHZYbmhoNXJITVEwNWRXQThtaEh1OWtJTjQySDhqNjRWQ2stQlQ2Vk9nUjlvUlFvaUcxLVNHSU5oOWdvcFFDWFJxTm5oSUhVb3VpeV9uSFdZQVJ5TjRhVjhLVkcwVEsyWDBzd25IamFJRHpkVnBUeWFoVl93S3NKaHBa?oc=5>
+
+### 特朗普威胁“军事惩罚”伊朗和也门胡塞武装
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-23 18:05
-- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE1CWlYteUpGVHB6T3dRckZxSDd3R2RhTXk4OHlKejBjd3dWeURrdWRaS24zYmJ0cnowUnpsNDM2UXV0dkQ3aFVlTkpHcjh1eUhpZkxQdFptaWQ3V2szTVFnUXRjUlNMM3gzM2ZfaHJyaG1uakc1elZmQVRn?oc=5>
+- 时间: 2026-07-23 22:43
+- 链接: <https://news.google.com/rss/articles/CBMijAJBVV95cUxNdzlaMDkyQVk2LWluX1kwQjRxRkpjNTEtYjRkTTA4Y1lFN01COC10dnBXTjJXNERzRV9IR1lMaXdpMnEzbHhNZFVYWHlLMzVyUUhnWjE5YUlRTGh2UWVSTWVLdjgzRVFUSTJCS0Z5cXo0d1Yzb3JCb0ZoMEYtZHUzRUc4MWhwWFJuVXl6N3Z6QlBZbDNHbkNpSGc2NnBnaG9pYzAyZXZnY0RpYWhweTd5azl6bGx0akpPOEMwVGRUVzJMSy1DTTAzVlRLZDI4YVM1Y1E2YVg5YUtPNVYzQTZ6Q1gzYlIwUGhtMjJHZXBBaENlcDhCQzdCTTdKazFnUnNzMzlaMkFyMXpkOWRP?oc=5>
 
-### 特朗普：伊朗每向船只开火，美国就摧毁它一座桥梁或发电厂
+### 特朗普或重启对伊朗大规模作战 沙特油轮遭袭国际油价破百
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-23 21:00
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5UcDdxcjRSeDZsRWRLQXM1NmYySEx3LXl1REZ4STVxeGtia1JaTXJxY2w1NUdncWlsMF9QOFE0TFZzVnlaTFM4bVVpdlRSSmJWWjRUbWJXTnVadzhPTEdERnFaTG5MRnA4TFh0LUI2V244ell6X3B5aA?oc=5>
+- 时间: 2026-07-23 22:17
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE83OXQzVWVaTC0tSHZIWmVYd3RrekhzazBVazJnRHVpLXptUVhKUHBZVW9ZaFZrSFk4RDJ1MzUwOW11YnFiMHV3bHVucUJmTGlHdVF3d290N0RRbXVCVy1sQ01Vd2pENjhsY3p1WEo1Ym4zT3hTRk5yMA?oc=5>
 
-### 士兵伤亡增加、民调下滑，特朗普大举增兵中东意欲何为？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-07-23 11:21
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFBYdWlwX3BWWmxRRC1aVnBuTjdzRElwYW1JN2NNODVzVC0yTEhlV3hldTgyTmd3YjJmMVlsM0hLaGVtcmtVX0tPRWRpSzV3NVI3cS1ScTE2RVRocjJUdV81Y2VSSnhKRENmM2s1eDhGczlOdw?oc=5>
-
-### 特朗普总统警告，如果红海袭击事件继续发生，将对伊朗及其也门盟友胡塞武装实施“严厉军事惩罚”
+### 美25州起诉特朗普政府 反对将救灾资金与选举制度改革挂钩
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-07-23 16:48
-- 链接: <https://news.google.com/rss/articles/CBMi_AFBVV95cUxNVVdMLUtIY044d3ZkWm9qaUdGMVkwbS1MTk5pQlRBeDh4V3JfVjVRZjBVN3lxbTZpUWc2VlRNM0N2VmZocXFwNHQyYjRhcXdwMlhURVp2cEljRTZUdktmS3YxczV5WThhZG5CT1NFNVJ6UGVoVEdXRWJJbzFvYzZfcTYxVWI5dGd0endVLUExaHhYdEJ2OGlfUGZoTERfOFJzdktId0lGVzVuclJaVXVQb2xXSExMbzA2MDhFZ0Q1SnkzMjUyRmhpNHFTUVNNUGw1WGVlVzZQM1pRTjVfX0NZT2JRdktjeG94RjFJNWtNY0FERkNvUnBmQmlVZETSAfwBQVVfeXFMTVVXTC1LSGNOOHd2ZFpvamlHRjFZMG0tTE5OaUJUQXg4eFdyX1Y1UWYwVTd5cW02aVFnNlZUTTNDdlZmaHFxcDR0MmI0YXF3cDJYVEVadnBJY0U2VHZLZkt2MXM1eVk4YWRuQk9TRTVSelBlaFRHV0ViSW8xb2M2X3E2MVViOXRndHp3VS1BMWh4WHRCdjhpX1BmaExEXzhSc3ZLSHdJRlc1bnJSWlV1UG9sV0hMTG8wNjA4RWdENUp5MzI1MkZoaTRxU1FTTVBsNVhlZVc2UDNaUU41X19DWU9iUXZLY3hveEYxSTVrTWNBREZDb1JwZkJpVWRE?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-07-23 22:09
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBmby1EeFJoeEhMTnRVc1dYZXBYdW1UR0lfTGtPR1pEVzZ6WXRMSDEzQUVqcEpCUjFDQjloTEhkdGpia1FFdzRpbktqSjhmOGZDblltNGR1dXZjTElLd0drQ0lJSklIYS02M25IUEtXZXBCbnBsZnN0aw?oc=5>
 
-### 特朗普称接近决定对伊朗发动大规模攻击 美伊冲突升温推升油价
+### 美国会要让特朗普“踩刹车”，众院通过议案要求停止对伊朗军事行动
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街见闻
+- 时间: 2026-07-23 16:21
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KTlljaDRPVmwzSUk3TU9HUXpUdWlnQkJNN01FbkR5UUhKeFJVRDJ4VzFtb2dndkhjdDVzU3pNWU1pcmJJbk5SX1E0RU1yckNCbWMw?oc=5>
+
+### $SpaceX (SPCX.US)$ 这场持续的战争是由trump引发的！
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-07-23 21:02
-- 链接: <https://news.google.com/rss/articles/CBMisANBVV95cUxQeUFDUG4yODZJTDUwQnAzblVhNEVMUVZZYWhWbVpGQzY1ODEwWmFCZWkyaUNzc0plVmQtNkQzSFFTam5LcktqTDFtZjNJZUowcXgzMUF6Uldkb2lsNFNuaExRNzNPQnFBM29GQWp6czNpVUVVYmdrV1VGT252MVFkTjZWN3ZWQlhYRGY3WGEwQ245emZBLUY5YmQtNlFrOWlhUmhmMHk0akNJdHpfTTZtQmpteEFiWmRXZ3BfNjd0T2NGSzFaRUphX1A4N2lzVi1GbEdGT0dhSjAwS20zZnhSMmxoVVczbVFJa3VQWDRENU1ra2VYdEF6LWxBeVlPMGlDVG5mRUhEeE1GZG9jdW94aUFPZThnQnU5ZlpLekVid25pRkdTU0NoWFd6NzlDUC1MYTBZVUZSaTZZcjFyNnJ4cEdkMk1pRVBOWHd5LWp0alNtY190Z0FiMm1ObExRdTRsRE1KTXowZEpJczYtSkVFTVVBTEtXU29DUGZjMEo2RGR6clcycUVNd0hEV0Q1eXJlWXhRLVBSU2JGcDFnWHNqSmZmTUdvcWhiV195YXFGdDk?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-07-23 14:06
+- 链接: <https://news.google.com/rss/articles/CBMisgFBVV95cUxPVnhPMkhLTk5HeXg2ZWswWU5LQ3JPU216NlhUbHhJdEN3SVgya3p0aTRUTmxBcUxVVlhtMUFXNkdlek4wRlVJTkZuTFM1d3pCbk9DVXc0TGpaZGxwelNmOUQ0azRsREtOMnlZd01rRUl5ZG50VWcyUnZlWUdSUjdUT3JiV0RNNTRVTUg0NFk5YXRTWVFPTDVLNFRLNzhjejMzOFZ1b2tIb0U3Q1ZULUxGVXFB?oc=5>
+
+### $比特币 (BTC.CC)$ 突发：🇺🇸 特朗普总统表示，我们在加密货币领域大幅领先中国及其他所有国家，并称“我们希望在加密货币领域保持领先地位。” 现在我们只需要《清晰法案》通过。
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-07-23 21:18
+- 链接: <https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbkRLMmxLTi01ckRHOGF1U083WHBTWUJJOU5LbGcwdXUwZW1waW9IczZDZ051SDAwRGZPRk5ZcXBuNllzcTRwUGhYeVl2N0N1SUNKZ21JQURoRS1xRzM2UDkxU2JiOGFhUVpnQnBQZGVVMkVUbWlxQkFZbDVfd1liX0tvOC1HUERaY21lQ2NpbnpVTF9IdEt6YkZtb0swTXhqSmpDcUg0YnFpa3NrS0tUMFpGMHZLNXRt?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-23 22:50  (7 条)
+
+- **特朗普** | 欧盟重罚谷歌8.9亿欧元 恐再激怒特朗普政府 <https://news.google.com/rss/articles/CBMivAJBVV95cUxNZ2FBQTI2Y0d3ZHRIbVEzMmRoVW5kbm1FMUl0RGh5UEJ5T3lLVEk0TElJSXgyc3NNSVYzX0JnMTY1TGZGZTNlbHFpZk56QW9uTm1WRHZEcmJWQl9EVHJJTFdoWC01Y19ZMDNOdV9tZ3FZTHUwb1QxNG9YNk9YNkQ2Q21Pb3lyZ3VWeVFXTklLR0pXcE1QYTQ5UDlkS3p0emJQSTBHTmwteXc3RjQ3RHdSQ2d0TDdGamJ1dVlYSFk1UDJSWHZYbmhoNXJITVEwNWRXQThtaEh1OWtJTjQySDhqNjRWQ2stQlQ2Vk9nUjlvUlFvaUcxLVNHSU5oOWdvcFFDWFJxTm5oSUhVb3VpeV9uSFdZQVJ5TjRhVjhLVkcwVEsyWDBzd25IamFJRHpkVnBUeWFoVl93S3NKaHBa?oc=5>
+- **特朗普** | 特朗普威胁“军事惩罚”伊朗和也门胡塞武装 <https://news.google.com/rss/articles/CBMijAJBVV95cUxNdzlaMDkyQVk2LWluX1kwQjRxRkpjNTEtYjRkTTA4Y1lFN01COC10dnBXTjJXNERzRV9IR1lMaXdpMnEzbHhNZFVYWHlLMzVyUUhnWjE5YUlRTGh2UWVSTWVLdjgzRVFUSTJCS0Z5cXo0d1Yzb3JCb0ZoMEYtZHUzRUc4MWhwWFJuVXl6N3Z6QlBZbDNHbkNpSGc2NnBnaG9pYzAyZXZnY0RpYWhweTd5azl6bGx0akpPOEMwVGRUVzJMSy1DTTAzVlRLZDI4YVM1Y1E2YVg5YUtPNVYzQTZ6Q1gzYlIwUGhtMjJHZXBBaENlcDhCQzdCTTdKazFnUnNzMzlaMkFyMXpkOWRP?oc=5>
+- **特朗普** | 特朗普或重启对伊朗大规模作战 沙特油轮遭袭国际油价破百 <https://news.google.com/rss/articles/CBMieEFVX3lxTE83OXQzVWVaTC0tSHZIWmVYd3RrekhzazBVazJnRHVpLXptUVhKUHBZVW9ZaFZrSFk4RDJ1MzUwOW11YnFiMHV3bHVucUJmTGlHdVF3d290N0RRbXVCVy1sQ01Vd2pENjhsY3p1WEo1Ym4zT3hTRk5yMA?oc=5>
+- **特朗普** | 美25州起诉特朗普政府 反对将救灾资金与选举制度改革挂钩 <https://news.google.com/rss/articles/CBMieEFVX3lxTFBmby1EeFJoeEhMTnRVc1dYZXBYdW1UR0lfTGtPR1pEVzZ6WXRMSDEzQUVqcEpCUjFDQjloTEhkdGpia1FFdzRpbktqSjhmOGZDblltNGR1dXZjTElLd0drQ0lJSklIYS02M25IUEtXZXBCbnBsZnN0aw?oc=5>
+- **特朗普** | 美国会要让特朗普“踩刹车”，众院通过议案要求停止对伊朗军事行动 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KTlljaDRPVmwzSUk3TU9HUXpUdWlnQkJNN01FbkR5UUhKeFJVRDJ4VzFtb2dndkhjdDVzU3pNWU1pcmJJbk5SX1E0RU1yckNCbWMw?oc=5>
+- **Trump** | $SpaceX (SPCX.US)$ 这场持续的战争是由trump引发的！ <https://news.google.com/rss/articles/CBMisgFBVV95cUxPVnhPMkhLTk5HeXg2ZWswWU5LQ3JPU216NlhUbHhJdEN3SVgya3p0aTRUTmxBcUxVVlhtMUFXNkdlek4wRlVJTkZuTFM1d3pCbk9DVXc0TGpaZGxwelNmOUQ0azRsREtOMnlZd01rRUl5ZG50VWcyUnZlWUdSUjdUT3JiV0RNNTRVTUg0NFk5YXRTWVFPTDVLNFRLNzhjejMzOFZ1b2tIb0U3Q1ZULUxGVXFB?oc=5>
+- **Trump** | $比特币 (BTC.CC)$ 突发：🇺🇸 特朗普总统表示，我们在加密货币领域大幅领先中国及其他所有国家，并称“我们希望在加密货币领域保持领先地位。” 现在我们只需要《清晰法案》通过。 <https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbkRLMmxLTi01ckRHOGF1U083WHBTWUJJOU5LbGcwdXUwZW1waW9IczZDZ051SDAwRGZPRk5ZcXBuNllzcTRwUGhYeVl2N0N1SUNKZ21JQURoRS1xRzM2UDkxU2JiOGFhUVpnQnBQZGVVMkVUbWlxQkFZbDVfd1liX0tvOC1HUERaY21lQ2NpbnpVTF9IdEt6YkZtb0swTXhqSmpDcUg0YnFpa3NrS0tUMFpGMHZLNXRt?oc=5>
 
 ### 2026-07-23 21:33  (5 条)
 
