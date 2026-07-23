@@ -1,32 +1,82 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-22 23:10**
-- 本轮扫到 7542 条, 新增 **2** 条
+- 最近更新: **2026-07-23 00:58**
+- 本轮扫到 7549 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (7 条)
 
-### 特朗普：预计美联邦政府在9月将出现“停摆”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 央视网
-- 时间: 2026-07-22 22:27
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9WSVNZTlZhMGFMVktESVlSLWVaN3NmdnRrZ29tVEUzdy05OXdnVjVZRkRDOGt2N3lIN18wRW1nRzJSNjdCN0RTNzRpWXlUcThiX2hPaEhUZG1qT3pDMGZVSm1KMmFRU3E4MmtzUWx2bkFrSGdmWkdpSw?oc=5>
-
-### 特朗普宣布两年后对仿制药征收100%关税 目的是推动仿制药生产回流美国
+### 特朗普发狠：伊朗炸一艘船，美军就摧毁一座桥梁或电厂
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 每日经济新闻
-- 时间: 2026-07-22 15:56
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1GRXc2WHJMdUM0aTZNVG9xMHFoOTNDUTM3OEVVbEQ0SENJSEl4Z1B1b05fZi1iRmNmRERTUUhyTXg3a1FyR2JsTVNmRzBTXzhYdFkzRUsxWXJySnN6UFZiYkt3eWktZw?oc=5>
+- 场馆: 观察者
+- 时间: 2026-07-22 14:42
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1aTGxfUmg3dVFwVm13NzZQMzZjLXBYUExPTTh0cEhkYXBmWVJPbEUxMnhZWkRKTW9HbXhDWVB5SmNBZGVBNjlHOXFEV0pvM1hYeDJKM1ZINEtkNExkcEFtYkhjN1AzV0NCQkE?oc=5>
+
+### 特朗普：应再选美国办世界杯，下次中美合办
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: video.sina.com.cn
+- 时间: 2026-07-23 00:49
+- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE5KQWJXeU9qSTRRMkVORzhtMGdHV2lqWWkxalVFeTBMVzlVMHdqblVvVnBCa1o1Z0RWZWhmdEhYWldIQ1kzOTFxT3dFaVpRSGtYMzgzZjdIWXg5OVhZeVRPLW4zY2hyY2FZTVFDN2o2MWJTZGxZbmNHNG9vQThaZw?oc=5>
+
+### 美国总统特朗普意犹未尽，中美合办世界杯是否可能？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-07-21 03:11
+- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxPR0tHMWVYWHVmNWRLUUxWZ2gtR29wYU9kWVFCbkk2cmwtZk4xOGRCY0NZXzlDVTZTT19jcW9BaU5peEFXVVA4eDF5NXFIWHNwLXgtWS1JaGo1RlQwcWl1WHFVQl9lYVhudFZyUTZHTE9rcl82bC1ZRnVydnpSTjRCMWFWcw?oc=5>
+
+### 央视新闻：特朗普预计美政府9月停摆
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-22 22:10
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9vZFE1ZjBxMENjUmNKd0I1R01NSnRwT0JBaVJrRWlxb21sVnFlTlBIUHZKQzFmUmpiN1kxYWgza2VQZDZZRTdpT1luZDgzWHZGSVRSRkI3SVIwMXN1cVZVeWg5MEh1WnZQMXVCeGt5alNkUW0tTVJaOQ?oc=5>
+
+### 特朗普批准与沙特达成核协议 引发“双标”质疑
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-07-23 00:23
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5MZ3VmV1c5ZUVsN2FnUUxQUlRSMVpVZnVLYzFlX0FOTkxmSFRJT1gyVWZselRBRFBvSjF1Rk1PX1VwdV9lejNuV2prSThONXZjOTRTNXZaSXhaVUcxV0tXczZYdG5JZmp5dFd3d0xtdnU?oc=5>
+
+### 特朗普称若伊朗袭击船只，美国将轰炸其发电厂和桥梁
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-07-22 23:21
+- 链接: <https://news.google.com/rss/articles/CBMisgFBVV95cUxOZDdnbmdvTHpiNWx1VHhYcWZpNUE1bmZVTDU1WmNvTXdDdWc1UWd5NnpGRU1tZDVuWmxwWjNCSkVpRGdPWC1zWThqYlpTc3dfRWhiSGw1NVpaVkxSOW5makxPOWtiaWM0TDJxTXUwWGY2Nm95eTM4Y3BSZmpBa2VEXzhNN1F3WTZzUnk4b25kR2d1SzhrVzNNcWoxalRWVjVjZkxwSkhvczZtdld3bjFraERR?oc=5>
+
+### 美国向中东大举增兵，为特朗普扩大对伊战事提供选项
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-07-22 23:35
+- 链接: <https://news.google.com/rss/articles/CBMiswFBVV95cUxOTG00ZlJfRGNFR3Fib05ZZGJMYVJDNHAxLXVtSUdHOHYwMkNNblVCVHNrWWplR1RxQ05qZlFrZ1ZWM212SVFrVV9kWlg1VzJNcVMtM0RPUE04bUJYblI1QmZkM1Ntdl9Qb0ZpTm9tTnVKZkhoRU5tQ2I0bU8tNHJOVWZvaFJEbDJDUVF2d21HdElzeGQycXJwTDBja0VXVzNzNzFMYml0eld5b0sxN0hYaVU1aw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-23 00:58  (7 条)
+
+- **特朗普** | 特朗普发狠：伊朗炸一艘船，美军就摧毁一座桥梁或电厂 <https://news.google.com/rss/articles/CBMiakFVX3lxTE1aTGxfUmg3dVFwVm13NzZQMzZjLXBYUExPTTh0cEhkYXBmWVJPbEUxMnhZWkRKTW9HbXhDWVB5SmNBZGVBNjlHOXFEV0pvM1hYeDJKM1ZINEtkNExkcEFtYkhjN1AzV0NCQkE?oc=5>
+- **特朗普** | 特朗普：应再选美国办世界杯，下次中美合办 <https://news.google.com/rss/articles/CBMifkFVX3lxTE5KQWJXeU9qSTRRMkVORzhtMGdHV2lqWWkxalVFeTBMVzlVMHdqblVvVnBCa1o1Z0RWZWhmdEhYWldIQ1kzOTFxT3dFaVpRSGtYMzgzZjdIWXg5OVhZeVRPLW4zY2hyY2FZTVFDN2o2MWJTZGxZbmNHNG9vQThaZw?oc=5>
+- **特朗普** | 美国总统特朗普意犹未尽，中美合办世界杯是否可能？ <https://news.google.com/rss/articles/CBMigwFBVV95cUxPR0tHMWVYWHVmNWRLUUxWZ2gtR29wYU9kWVFCbkk2cmwtZk4xOGRCY0NZXzlDVTZTT19jcW9BaU5peEFXVVA4eDF5NXFIWHNwLXgtWS1JaGo1RlQwcWl1WHFVQl9lYVhudFZyUTZHTE9rcl82bC1ZRnVydnpSTjRCMWFWcw?oc=5>
+- **特朗普** | 央视新闻：特朗普预计美政府9月停摆 <https://news.google.com/rss/articles/CBMieEFVX3lxTE9vZFE1ZjBxMENjUmNKd0I1R01NSnRwT0JBaVJrRWlxb21sVnFlTlBIUHZKQzFmUmpiN1kxYWgza2VQZDZZRTdpT1luZDgzWHZGSVRSRkI3SVIwMXN1cVZVeWg5MEh1WnZQMXVCeGt5alNkUW0tTVJaOQ?oc=5>
+- **特朗普** | 特朗普批准与沙特达成核协议 引发“双标”质疑 <https://news.google.com/rss/articles/CBMicEFVX3lxTE5MZ3VmV1c5ZUVsN2FnUUxQUlRSMVpVZnVLYzFlX0FOTkxmSFRJT1gyVWZselRBRFBvSjF1Rk1PX1VwdV9lejNuV2prSThONXZjOTRTNXZaSXhaVUcxV0tXczZYdG5JZmp5dFd3d0xtdnU?oc=5>
+- **Trump** | 特朗普称若伊朗袭击船只，美国将轰炸其发电厂和桥梁 <https://news.google.com/rss/articles/CBMisgFBVV95cUxOZDdnbmdvTHpiNWx1VHhYcWZpNUE1bmZVTDU1WmNvTXdDdWc1UWd5NnpGRU1tZDVuWmxwWjNCSkVpRGdPWC1zWThqYlpTc3dfRWhiSGw1NVpaVkxSOW5makxPOWtiaWM0TDJxTXUwWGY2Nm95eTM4Y3BSZmpBa2VEXzhNN1F3WTZzUnk4b25kR2d1SzhrVzNNcWoxalRWVjVjZkxwSkhvczZtdld3bjFraERR?oc=5>
+- **Trump** | 美国向中东大举增兵，为特朗普扩大对伊战事提供选项 <https://news.google.com/rss/articles/CBMiswFBVV95cUxOTG00ZlJfRGNFR3Fib05ZZGJMYVJDNHAxLXVtSUdHOHYwMkNNblVCVHNrWWplR1RxQ05qZlFrZ1ZWM212SVFrVV9kWlg1VzJNcVMtM0RPUE04bUJYblI1QmZkM1Ntdl9Qb0ZpTm9tTnVKZkhoRU5tQ2I0bU8tNHJOVWZvaFJEbDJDUVF2d21HdElzeGQycXJwTDBja0VXVzNzNzFMYml0eld5b0sxN0hYaVU1aw?oc=5>
 
 ### 2026-07-22 23:10  (2 条)
 
