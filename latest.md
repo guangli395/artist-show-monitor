@@ -1,100 +1,98 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-23 07:03**
-- 本轮扫到 7564 条, 新增 **11** 条
+- 最近更新: **2026-07-23 09:54**
+- 本轮扫到 7573 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (11 条)
+## 本轮新发现 (9 条)
 
-### 周杰伦释出新歌前奏    MV造型掀回忆杀
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001908db22.html>
-
-### 两顶流同开线上演唱会,周杰伦不忘做公益,鹿晗超敬业献唱15首歌
+### 2026音乐节门票怎么买最划算？大连周杰伦/林俊杰/薛之谦/浪潮音乐节门票价格、抢票技巧与避坑指南
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879848924_1d5acf3dc01901jk7s.html>
+- 链接: <https://k.sina.com.cn/article_7880068208_1d5b04c7006801uppg.html>
 
-### 特朗普再威胁：伊朗袭船就炸桥梁、电厂
+### 特朗普：与伊朗的战争是“小冲突”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 观察者
-- 时间: 2026-07-22 23:11
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE50aVJDQXJZaWtURG9LWTZKNlpwejNLd1RvOWhURzZYcktVOWMzNFlDY0JEZzdOamVPbDhfR0FMTER4TEFNeG0wZmtrVllkZUNia1hpT0x5cXB6cFNONUt2MEpaaUd3WDA2VUE?oc=5>
+- 时间: 2026-07-23 02:31
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE84WE5pazhxUmMzX21NQkRSb0JwWjdoMFpJNktYV3NNcEJEcDBUMkVOWjVrR1RMUTg1VUJpXzRtQ2VTLU16TWhSQ01ydVFXd24yOUlSdml2YWhTWjJRZE1YdUl2TjhmM0RFakE?oc=5>
 
-### 特朗普：我们与伊朗只是小规模冲突
+### 特朗普的关税保护伞，反成了北美家电厂的“催命符”？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-23 04:58
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE8zQWFkdmNwN3JiWTlwMm9CYUZMNDY1UGF6eWV2ZFBaeVpUUDcwVmloRVl5bFlxcEdVRUtOakNwY0xmakNncDlPdjhLQ0w?oc=5>
+- 场馆: 观察者
+- 时间: 2026-07-23 08:45
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1POHBRNWgxSjNockd0c1B3ZTZhQlNuMjRDQmJzRnhkajdESU1uLVUxWU5nMnBzdS1nTGpIRXR0QzNQLWF4emZ0ZVRLaWhRU0RwQloyTkFmNlJERXBUdlRLSWpSUjY?oc=5>
 
-### 月费10万美元！已有机构抢购“总统API”，只为纳秒级抢跑赚差价
+### 美媒：美国正增兵中东为特朗普提供更多军事选项
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-23 05:07
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxOUUFUWGtjQ1JSeGlwN2sxZE1RWm1mSk51eS15MUphaVR6RHY3ZTBFMmRMTzdCeTBkemFZalB1WlRwSTR4V2J5bDJZdGVKcHg5V096d3hOOFI1akNjUnAyb18wTER6VzRTSHVCX2I0Rzllb3RhdzRrSGktNDU3Uk1Jbl91Y2NEYkROVGUxdXFaX1hQYTBBdUlWZw?oc=5>
-
-### 卡尼对特朗普软硬兼施，但均未奏效
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-07-23 05:17
-- 链接: <https://news.google.com/rss/articles/CBMigwJBVV95cUxOeUZQYlJ6enpKdkgyR1dFZW9FcVdZOGJLVWtFVk9WZzdPbzc1dUtScDlXMXE2SFFFV0dmWEpkVzcyWFBTVjFRc3JnM0lqYkFHUzBSM2VJWXNMZzRJdzZLTTV6aWU3em5NYWZXaFM4M1ozckk4QVlEbzloWlJZZjc2YXZtXzRhZzVZMnVNWUJQNnZKZmprRkpaYWVUUTJaYW5nQTc2UHpZNnR1a2FDcXozUzREUUtBR1VnWVdneFhOSHA1c1BRNjQwejlXYzBUZXJMRUNNLWpVX2lFNUlKUVlTbFhQU3ktVGdaQkdGRkt3YTFadzBQT3A0WnRCUGxtVFY3SGdz?oc=5>
+- 时间: 2026-07-23 08:05
+- 链接: <https://news.google.com/rss/articles/CBMipwFBVV95cUxPMVNLU1hLVTFCR1htMGk5bThXWXotb3lxNnFBZG5Oc2tmb3RwWTM2bFdkQ2psTThaYUtuVFRKc19LazVIb3N1aVdJQWlxanAtX1RhWWg0STFJSDFoYnB6MlZ2TWZZRFNtY2VZbjN6akh4TGFjU0ZfaFV5eVdJdTh1NGs1ejQ4YW0yYjlBYTdpRlZaWFN3Q1M2UExPVXlRalpORzhDRnc3OA?oc=5>
 
 ### 特朗普：通胀降归功自己，物价高归咎前任
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-07-23 06:54
-- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE9jTG5sbllSa3drZXE2b3JGVDcwWWFJUFRwUDBGLXJZdTVTbEdhdzFtZVVTcDdoNmVXSXZnRHRrVFJYUmFTVks4SUZIODVKdFpsT0g3VTEzZlUwTGRMTWhzdGJhcmVCOUg3NWZUTFU3YnN0ajF3OGJTSFBWMk8zdw?oc=5>
+- 场馆: 中国网新闻中心
+- 时间: 2026-07-23 08:28
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE1USHV6dVYzcFpZMzd6MG1aempQX0U5WnprOWFwNEkxVTA5WDl4aG1qMEFseUJXN1h2dHFPT25kMUJDd2UyS0stTFZQSll5d3FPY0FQS2NRclhoUldEaEl0cjhtczVyWTl5LS00?oc=5>
 
 ### 特朗普：预计美联邦政府在9月将出现“停摆”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-07-23 04:45
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1YelRjdkFaX0MxSGxKc1YtMVRyYXcyRVIxVWpwSjZuOWE1b3ZLSW1feWlZVkhsczNlTjBNSWpGZk92OHAwZzhGMUFZaWNxM3JMYUZycm45YjlzZnAzYnpzRF96aWRobk5SWUowNE04VzY?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-07-22 21:42
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE8xbHdBZXBRM1o5Y1NpTVozMjAyU1JFX1BnaWpDai1EODN1dldhaWZORm9VdW5QT2RsX0s4cWpvdDQtZUlvdDk2czFZM0g?oc=5>
 
-### 特朗普：预计美联邦政府在9月将出现“停摆”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-07-22 23:48
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE53aXRoTUJhdEV6cVpFclZ3NllHbzNPS3hVTlE2Y2RzSElkVzV5a1F4UFJNcXM0dTVCdldDeWJMd1Y1eDRNbFV3eGV1Mko1WmhYU3RzQkdwNkpWVVB0NU9yNVZtUHdZWS1qYVFaZWpoUHFXa1dq?oc=5>
-
-### 特朗普政府大举参股企业，选民对政府持股行为普遍心存戒备
+### 特朗普的言论意味着对台政策发生重大转变？美著名“中国通”解读
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-20 12:01
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxOS1NjbDNXZkRtT1IxaWRBLWVDVW8yRHNPVzc5bDV5STdIZUZ5NDFWbXpPazZjSzgxREVjaGwtNEZqSjR2bG1VeVdlSFJ6ZnpjUHdyWENib3FWd2FreUZiM3NseXkxZlI2SV9pMlQ4WHJTYVJfZ19ZVWdzRVJGSm1MWGM0VjB0MDA?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-07-23 03:16
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9NQWQ0TDhIcEhDaElGR1BFR0dwNmt2RHBGZE5HbmlRWWRROGJDTzVqdEFQRWFtRFFTSzd0SHRnenFqNnU0SzdmcmNEc3I?oc=5>
 
-### 琴久 (@Square-Creator-ddc67b0f2664)的见解
+### China, US seeking input on trade council after Trump visit, Mofcom says
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Binance
-- 时间: 2026-07-23 04:32
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5LbmxwU1pDaVE5dEJaTS1wVV9pZTByWnhwd1NhSE42U04wcllfVFJuY1lDS2d6NkpBQjhRcVk5WGdsY244Qm0zX1JyWWpOYThGMG5LZ3pFbC1wQS1RTFJHSm9ONklRQzRv?oc=5>
+- 场馆: MLex
+- 时间: 2026-07-23 09:10
+- 链接: <https://news.google.com/rss/articles/CBMiugFBVV95cUxPekdtMWR5dWdLVHJIak1DdGRXUGg2WnJpTkF6SUt3Vk1rTnhSYnZUNTBNRW04ZU8tOVZ0dmxHR2hjOW9YMGJ3R0lxTlNJSmZyeXdJN1Nfa3EzTDRDLXllLVpNVGUxNS1DdkNuNG9YUUJ5T29YeHE1N1FhV2FucWNfVDI3R1BydUhaWUFncHZhbHhvTWpTQzlkY2xTUDVpcG80am1sZ1NBRTM5SThHOFZxU0UzQTNqemZtVXfSAVpBVV95cUxNVy1zUmlBSXRmQTZZbUktWlJ2cDY4ZFZ0OW1GSDdkX0hlQ3VXa1ZWTW9DQ3U1NVNTWTR2SWk3NEZuOVJmZ2hQSEhBX0RiQjgtaDN6SWtxT0VqZ1E?oc=5>
+
+### Canada's Carney Says Trump Agrees to Talks to Avert New 50% Tariff
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-07-22 11:12
+- 链接: <https://news.google.com/rss/articles/CBMizgFBVV95cUxNa2JpTXZ4RWNNR2JwR1k0RTZvQ3FnQzVXSlJGb3RFQjVrRnZhZ2xIY2t4VmVaQlUxR00wdGtUMGZjQXE2c1VaZ2R5NkFHVlJzZjBPRWJXNHprMTdKcmtMWmxxdVBWc2VVS0wtUHFNbGtqTS02NUVuMUZTUTlMcEl3YnRoTDU4VUlEVE1rWDRLaExLcWJLSmNJTWpDejN3U0RKQWJBMUpRY1BEU0hhVVhtM2l2M1M5UUVZVG56WDJBZ1Z3WDR6N1FpUTNHblhpQQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-23 09:54  (9 条)
+
+- **周杰伦** | 2026音乐节门票怎么买最划算？大连周杰伦/林俊杰/薛之谦/浪潮音乐节门票价格、抢票技巧与避坑指南 <https://k.sina.com.cn/article_7880068208_1d5b04c7006801uppg.html>
+- **特朗普** | 特朗普：与伊朗的战争是“小冲突” <https://news.google.com/rss/articles/CBMiakFVX3lxTE84WE5pazhxUmMzX21NQkRSb0JwWjdoMFpJNktYV3NNcEJEcDBUMkVOWjVrR1RMUTg1VUJpXzRtQ2VTLU16TWhSQ01ydVFXd24yOUlSdml2YWhTWjJRZE1YdUl2TjhmM0RFakE?oc=5>
+- **特朗普** | 特朗普的关税保护伞，反成了北美家电厂的“催命符”？ <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1POHBRNWgxSjNockd0c1B3ZTZhQlNuMjRDQmJzRnhkajdESU1uLVUxWU5nMnBzdS1nTGpIRXR0QzNQLWF4emZ0ZVRLaWhRU0RwQloyTkFmNlJERXBUdlRLSWpSUjY?oc=5>
+- **特朗普** | 美媒：美国正增兵中东为特朗普提供更多军事选项 <https://news.google.com/rss/articles/CBMipwFBVV95cUxPMVNLU1hLVTFCR1htMGk5bThXWXotb3lxNnFBZG5Oc2tmb3RwWTM2bFdkQ2psTThaYUtuVFRKc19LazVIb3N1aVdJQWlxanAtX1RhWWg0STFJSDFoYnB6MlZ2TWZZRFNtY2VZbjN6akh4TGFjU0ZfaFV5eVdJdTh1NGs1ejQ4YW0yYjlBYTdpRlZaWFN3Q1M2UExPVXlRalpORzhDRnc3OA?oc=5>
+- **特朗普** | 特朗普：通胀降归功自己，物价高归咎前任 <https://news.google.com/rss/articles/CBMia0FVX3lxTE1USHV6dVYzcFpZMzd6MG1aempQX0U5WnprOWFwNEkxVTA5WDl4aG1qMEFseUJXN1h2dHFPT25kMUJDd2UyS0stTFZQSll5d3FPY0FQS2NRclhoUldEaEl0cjhtczVyWTl5LS00?oc=5>
+- **特朗普** | 特朗普：预计美联邦政府在9月将出现“停摆” <https://news.google.com/rss/articles/CBMiTEFVX3lxTE8xbHdBZXBRM1o5Y1NpTVozMjAyU1JFX1BnaWpDai1EODN1dldhaWZORm9VdW5QT2RsX0s4cWpvdDQtZUlvdDk2czFZM0g?oc=5>
+- **特朗普** | 特朗普的言论意味着对台政策发生重大转变？美著名“中国通”解读 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9NQWQ0TDhIcEhDaElGR1BFR0dwNmt2RHBGZE5HbmlRWWRROGJDTzVqdEFQRWFtRFFTSzd0SHRnenFqNnU0SzdmcmNEc3I?oc=5>
+- **Trump** | China, US seeking input on trade council after Trump visit, Mofcom says <https://news.google.com/rss/articles/CBMiugFBVV95cUxPekdtMWR5dWdLVHJIak1DdGRXUGg2WnJpTkF6SUt3Vk1rTnhSYnZUNTBNRW04ZU8tOVZ0dmxHR2hjOW9YMGJ3R0lxTlNJSmZyeXdJN1Nfa3EzTDRDLXllLVpNVGUxNS1DdkNuNG9YUUJ5T29YeHE1N1FhV2FucWNfVDI3R1BydUhaWUFncHZhbHhvTWpTQzlkY2xTUDVpcG80am1sZ1NBRTM5SThHOFZxU0UzQTNqemZtVXfSAVpBVV95cUxNVy1zUmlBSXRmQTZZbUktWlJ2cDY4ZFZ0OW1GSDdkX0hlQ3VXa1ZWTW9DQ3U1NVNTWTR2SWk3NEZuOVJmZ2hQSEhBX0RiQjgtaDN6SWtxT0VqZ1E?oc=5>
+- **Trump** | Canada's Carney Says Trump Agrees to Talks to Avert New 50% Tariff <https://news.google.com/rss/articles/CBMizgFBVV95cUxNa2JpTXZ4RWNNR2JwR1k0RTZvQ3FnQzVXSlJGb3RFQjVrRnZhZ2xIY2t4VmVaQlUxR00wdGtUMGZjQXE2c1VaZ2R5NkFHVlJzZjBPRWJXNHprMTdKcmtMWmxxdVBWc2VVS0wtUHFNbGtqTS02NUVuMUZTUTlMcEl3YnRoTDU4VUlEVE1rWDRLaExLcWJLSmNJTWpDejN3U0RKQWJBMUpRY1BEU0hhVVhtM2l2M1M5UUVZVG56WDJBZ1Z3WDR6N1FpUTNHblhpQQ?oc=5>
 
 ### 2026-07-23 07:03  (11 条)
 
