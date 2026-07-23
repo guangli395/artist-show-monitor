@@ -1,72 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-23 00:58**
-- 本轮扫到 7549 条, 新增 **7** 条
+- 最近更新: **2026-07-23 04:16**
+- 本轮扫到 7553 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (4 条)
 
-### 特朗普发狠：伊朗炸一艘船，美军就摧毁一座桥梁或电厂
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-07-22 14:42
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1aTGxfUmg3dVFwVm13NzZQMzZjLXBYUExPTTh0cEhkYXBmWVJPbEUxMnhZWkRKTW9HbXhDWVB5SmNBZGVBNjlHOXFEV0pvM1hYeDJKM1ZINEtkNExkcEFtYkhjN1AzV0NCQkE?oc=5>
-
-### 特朗普：应再选美国办世界杯，下次中美合办
+### 知情人士：特朗普批准沙特核协议
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: video.sina.com.cn
-- 时间: 2026-07-23 00:49
-- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE5KQWJXeU9qSTRRMkVORzhtMGdHV2lqWWkxalVFeTBMVzlVMHdqblVvVnBCa1o1Z0RWZWhmdEhYWldIQ1kzOTFxT3dFaVpRSGtYMzgzZjdIWXg5OVhZeVRPLW4zY2hyY2FZTVFDN2o2MWJTZGxZbmNHNG9vQThaZw?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-07-23 03:43
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE9kWTZPcUw1YndHVmRybU82QWY4V0drR2F4eFc0c3BkY20yay1Kd1k5ZzhESmhsT1RCLTZEVFpoQVNyUXc1ZmJfUmZrcFdfOVVWN2FiMnBqSGFiUWt0YXJmVVd2X1hTZHduWDlWUkpCRzJmQQ?oc=5>
 
-### 美国总统特朗普意犹未尽，中美合办世界杯是否可能？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-07-21 03:11
-- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxPR0tHMWVYWHVmNWRLUUxWZ2gtR29wYU9kWVFCbkk2cmwtZk4xOGRCY0NZXzlDVTZTT19jcW9BaU5peEFXVVA4eDF5NXFIWHNwLXgtWS1JaGo1RlQwcWl1WHFVQl9lYVhudFZyUTZHTE9rcl82bC1ZRnVydnpSTjRCMWFWcw?oc=5>
-
-### 央视新闻：特朗普预计美政府9月停摆
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-22 22:10
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9vZFE1ZjBxMENjUmNKd0I1R01NSnRwT0JBaVJrRWlxb21sVnFlTlBIUHZKQzFmUmpiN1kxYWgza2VQZDZZRTdpT1luZDgzWHZGSVRSRkI3SVIwMXN1cVZVeWg5MEh1WnZQMXVCeGt5alNkUW0tTVJaOQ?oc=5>
-
-### 特朗普批准与沙特达成核协议 引发“双标”质疑
+### 特朗普演讲遭抢镜 镜头后的替身笑料
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 中华网
-- 时间: 2026-07-23 00:23
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5MZ3VmV1c5ZUVsN2FnUUxQUlRSMVpVZnVLYzFlX0FOTkxmSFRJT1gyVWZselRBRFBvSjF1Rk1PX1VwdV9lejNuV2prSThONXZjOTRTNXZaSXhaVUcxV0tXczZYdG5JZmp5dFd3d0xtdnU?oc=5>
+- 时间: 2026-07-23 03:48
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5RQjVITUVxa2dXMVduRHVndElWQWdtdnRiVXQ4bzd1R05lUC1CcjA5YUk2OG9UZHFWNWVabmhLRzlqMkdKSk9oeDNZYWlET05xTVAxY1FBZzJyQjNVY3VjN0NvVEdBYXc5T2dxSU5aRjc?oc=5>
 
-### 特朗普称若伊朗袭击船只，美国将轰炸其发电厂和桥梁
+### 特朗普2028年8月起向仿制药征收100%关税 隔年翻倍
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-07-22 10:20
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1PMHZDOFZJNlBlaHFHTFVmZlVpVTVlR0c2MmFaNDBvSmE1UjNUYUVydTBaYURTMTlLRzBLbG5oLTF2WmZuelpSLUFlQ1R2TGVHRTBqUTk0aDduUlpPbE9JQTRRWE9rdw?oc=5>
+
+### 高频交易公司如何靠Trump Media推出的特快数据流掘金？
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: 华尔街日报中文网
-- 时间: 2026-07-22 23:21
-- 链接: <https://news.google.com/rss/articles/CBMisgFBVV95cUxOZDdnbmdvTHpiNWx1VHhYcWZpNUE1bmZVTDU1WmNvTXdDdWc1UWd5NnpGRU1tZDVuWmxwWjNCSkVpRGdPWC1zWThqYlpTc3dfRWhiSGw1NVpaVkxSOW5makxPOWtiaWM0TDJxTXUwWGY2Nm95eTM4Y3BSZmpBa2VEXzhNN1F3WTZzUnk4b25kR2d1SzhrVzNNcWoxalRWVjVjZkxwSkhvczZtdld3bjFraERR?oc=5>
-
-### 美国向中东大举增兵，为特朗普扩大对伊战事提供选项
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-07-22 23:35
-- 链接: <https://news.google.com/rss/articles/CBMiswFBVV95cUxOTG00ZlJfRGNFR3Fib05ZZGJMYVJDNHAxLXVtSUdHOHYwMkNNblVCVHNrWWplR1RxQ05qZlFrZ1ZWM212SVFrVV9kWlg1VzJNcVMtM0RPUE04bUJYblI1QmZkM1Ntdl9Qb0ZpTm9tTnVKZkhoRU5tQ2I0bU8tNHJOVWZvaFJEbDJDUVF2d21HdElzeGQycXJwTDBja0VXVzNzNzFMYml0eld5b0sxN0hYaVU1aw?oc=5>
+- 时间: 2026-07-23 03:05
+- 链接: <https://news.google.com/rss/articles/CBMipAFBVV95cUxPaDRjS21hWkZzUnowVHBBZ2U5aDZUUkVxUFJpUTJWamR6TzE3R1lrZVI3SzVUOU9vNklmaU9iMzRQei1Qc0pHQTFKM1A0aXJiUDdLMmZBU01SWXVicEU4LW1XbWQtbUhONnNfeHZCTnF0eUtJTnNDNllDR1JQV2JvNUpMY2hQLThRODhreC05d3owU2ExZzRJM0p6WUwyY011WDU0YQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-23 04:16  (4 条)
+
+- **特朗普** | 知情人士：特朗普批准沙特核协议 <https://news.google.com/rss/articles/CBMickFVX3lxTE9kWTZPcUw1YndHVmRybU82QWY4V0drR2F4eFc0c3BkY20yay1Kd1k5ZzhESmhsT1RCLTZEVFpoQVNyUXc1ZmJfUmZrcFdfOVVWN2FiMnBqSGFiUWt0YXJmVVd2X1hTZHduWDlWUkpCRzJmQQ?oc=5>
+- **特朗普** | 特朗普演讲遭抢镜 镜头后的替身笑料 <https://news.google.com/rss/articles/CBMicEFVX3lxTE5RQjVITUVxa2dXMVduRHVndElWQWdtdnRiVXQ4bzd1R05lUC1CcjA5YUk2OG9UZHFWNWVabmhLRzlqMkdKSk9oeDNZYWlET05xTVAxY1FBZzJyQjNVY3VjN0NvVEdBYXc5T2dxSU5aRjc?oc=5>
+- **特朗普** | 特朗普2028年8月起向仿制药征收100%关税 隔年翻倍 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1PMHZDOFZJNlBlaHFHTFVmZlVpVTVlR0c2MmFaNDBvSmE1UjNUYUVydTBaYURTMTlLRzBLbG5oLTF2WmZuelpSLUFlQ1R2TGVHRTBqUTk0aDduUlpPbE9JQTRRWE9rdw?oc=5>
+- **Trump** | 高频交易公司如何靠Trump Media推出的特快数据流掘金？ <https://news.google.com/rss/articles/CBMipAFBVV95cUxPaDRjS21hWkZzUnowVHBBZ2U5aDZUUkVxUFJpUTJWamR6TzE3R1lrZVI3SzVUOU9vNklmaU9iMzRQei1Qc0pHQTFKM1A0aXJiUDdLMmZBU01SWXVicEU4LW1XbWQtbUhONnNfeHZCTnF0eUtJTnNDNllDR1JQV2JvNUpMY2hQLThRODhreC05d3owU2ExZzRJM0p6WUwyY011WDU0YQ?oc=5>
 
 ### 2026-07-23 00:58  (7 条)
 
