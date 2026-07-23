@@ -1,24 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-23 20:08**
-- 本轮扫到 7607 条, 新增 **1** 条
+- 最近更新: **2026-07-23 21:33**
+- 本轮扫到 7612 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮新发现 (5 条)
 
-### 为高频交易制造毫秒优势 “真实社交”10万美元售卖特朗普帖子抢先访问权引争议
+### 特朗普称美沙核协议取决于沙特与以色列实现关系正常化
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-07-23 18:57
-- 链接: <https://news.google.com/rss/articles/CBMiigJBVV95cUxNSzZLUWI5Y3UxUWZ1WlZUOG1uX04zRFJnbi11cGxqOHBvUlFaVE5yQ1pEWWZ0TERoNmF0elA3U1VaYlFxOVRiZGR3RGpyWktXc19NZjV0ZUNFamZjbGQ2RzlybWN1bzkxZ1VSRTIzQ01XVW55cHI2LXhvMEJVUGRrOXZpWjFmNzFzb0ZsZlNTTDFhenFmNE9vQm1CZDhhYWYtR2hQaGNMV01fZ1IzWlFnTENCU21nMzhzTkNxbURfaF9Vem96bHJVM0g0YnN6WXZ5RWgtdFdLSWdCTDN2REpyZ0NVZmhUZ2hGYWM3SHpiNGhPeTlIUHh6azJiYjNZNkRzZFZaNkxkYjRIdw?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-07-23 18:05
+- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE1CWlYteUpGVHB6T3dRckZxSDd3R2RhTXk4OHlKejBjd3dWeURrdWRaS24zYmJ0cnowUnpsNDM2UXV0dkQ3aFVlTkpHcjh1eUhpZkxQdFptaWQ3V2szTVFnUXRjUlNMM3gzM2ZfaHJyaG1uakc1elZmQVRn?oc=5>
+
+### 特朗普：伊朗每向船只开火，美国就摧毁它一座桥梁或发电厂
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-23 21:00
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5UcDdxcjRSeDZsRWRLQXM1NmYySEx3LXl1REZ4STVxeGtia1JaTXJxY2w1NUdncWlsMF9QOFE0TFZzVnlaTFM4bVVpdlRSSmJWWjRUbWJXTnVadzhPTEdERnFaTG5MRnA4TFh0LUI2V244ell6X3B5aA?oc=5>
+
+### 士兵伤亡增加、民调下滑，特朗普大举增兵中东意欲何为？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-07-23 11:21
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFBYdWlwX3BWWmxRRC1aVnBuTjdzRElwYW1JN2NNODVzVC0yTEhlV3hldTgyTmd3YjJmMVlsM0hLaGVtcmtVX0tPRWRpSzV3NVI3cS1ScTE2RVRocjJUdV81Y2VSSnhKRENmM2s1eDhGczlOdw?oc=5>
+
+### 特朗普总统警告，如果红海袭击事件继续发生，将对伊朗及其也门盟友胡塞武装实施“严厉军事惩罚”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-07-23 16:48
+- 链接: <https://news.google.com/rss/articles/CBMi_AFBVV95cUxNVVdMLUtIY044d3ZkWm9qaUdGMVkwbS1MTk5pQlRBeDh4V3JfVjVRZjBVN3lxbTZpUWc2VlRNM0N2VmZocXFwNHQyYjRhcXdwMlhURVp2cEljRTZUdktmS3YxczV5WThhZG5CT1NFNVJ6UGVoVEdXRWJJbzFvYzZfcTYxVWI5dGd0endVLUExaHhYdEJ2OGlfUGZoTERfOFJzdktId0lGVzVuclJaVXVQb2xXSExMbzA2MDhFZ0Q1SnkzMjUyRmhpNHFTUVNNUGw1WGVlVzZQM1pRTjVfX0NZT2JRdktjeG94RjFJNWtNY0FERkNvUnBmQmlVZETSAfwBQVVfeXFMTVVXTC1LSGNOOHd2ZFpvamlHRjFZMG0tTE5OaUJUQXg4eFdyX1Y1UWYwVTd5cW02aVFnNlZUTTNDdlZmaHFxcDR0MmI0YXF3cDJYVEVadnBJY0U2VHZLZkt2MXM1eVk4YWRuQk9TRTVSelBlaFRHV0ViSW8xb2M2X3E2MVViOXRndHp3VS1BMWh4WHRCdjhpX1BmaExEXzhSc3ZLSHdJRlc1bnJSWlV1UG9sV0hMTG8wNjA4RWdENUp5MzI1MkZoaTRxU1FTTVBsNVhlZVc2UDNaUU41X19DWU9iUXZLY3hveEYxSTVrTWNBREZDb1JwZkJpVWRE?oc=5>
+
+### 特朗普称接近决定对伊朗发动大规模攻击 美伊冲突升温推升油价
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-07-23 21:02
+- 链接: <https://news.google.com/rss/articles/CBMisANBVV95cUxQeUFDUG4yODZJTDUwQnAzblVhNEVMUVZZYWhWbVpGQzY1ODEwWmFCZWkyaUNzc0plVmQtNkQzSFFTam5LcktqTDFtZjNJZUowcXgzMUF6Uldkb2lsNFNuaExRNzNPQnFBM29GQWp6czNpVUVVYmdrV1VGT252MVFkTjZWN3ZWQlhYRGY3WGEwQ245emZBLUY5YmQtNlFrOWlhUmhmMHk0akNJdHpfTTZtQmpteEFiWmRXZ3BfNjd0T2NGSzFaRUphX1A4N2lzVi1GbEdGT0dhSjAwS20zZnhSMmxoVVczbVFJa3VQWDRENU1ra2VYdEF6LWxBeVlPMGlDVG5mRUhEeE1GZG9jdW94aUFPZThnQnU5ZlpLekVid25pRkdTU0NoWFd6NzlDUC1MYTBZVUZSaTZZcjFyNnJ4cEdkMk1pRVBOWHd5LWp0alNtY190Z0FiMm1ObExRdTRsRE1KTXowZEpJczYtSkVFTVVBTEtXU29DUGZjMEo2RGR6clcycUVNd0hEV0Q1eXJlWXhRLVBSU2JGcDFnWHNqSmZmTUdvcWhiV195YXFGdDk?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-23 21:33  (5 条)
+
+- **特朗普** | 特朗普称美沙核协议取决于沙特与以色列实现关系正常化 <https://news.google.com/rss/articles/CBMiekFVX3lxTE1CWlYteUpGVHB6T3dRckZxSDd3R2RhTXk4OHlKejBjd3dWeURrdWRaS24zYmJ0cnowUnpsNDM2UXV0dkQ3aFVlTkpHcjh1eUhpZkxQdFptaWQ3V2szTVFnUXRjUlNMM3gzM2ZfaHJyaG1uakc1elZmQVRn?oc=5>
+- **特朗普** | 特朗普：伊朗每向船只开火，美国就摧毁它一座桥梁或发电厂 <https://news.google.com/rss/articles/CBMieEFVX3lxTE5UcDdxcjRSeDZsRWRLQXM1NmYySEx3LXl1REZ4STVxeGtia1JaTXJxY2w1NUdncWlsMF9QOFE0TFZzVnlaTFM4bVVpdlRSSmJWWjRUbWJXTnVadzhPTEdERnFaTG5MRnA4TFh0LUI2V244ell6X3B5aA?oc=5>
+- **特朗普** | 士兵伤亡增加、民调下滑，特朗普大举增兵中东意欲何为？ <https://news.google.com/rss/articles/CBMickFVX3lxTFBYdWlwX3BWWmxRRC1aVnBuTjdzRElwYW1JN2NNODVzVC0yTEhlV3hldTgyTmd3YjJmMVlsM0hLaGVtcmtVX0tPRWRpSzV3NVI3cS1ScTE2RVRocjJUdV81Y2VSSnhKRENmM2s1eDhGczlOdw?oc=5>
+- **特朗普** | 特朗普总统警告，如果红海袭击事件继续发生，将对伊朗及其也门盟友胡塞武装实施“严厉军事惩罚” <https://news.google.com/rss/articles/CBMi_AFBVV95cUxNVVdMLUtIY044d3ZkWm9qaUdGMVkwbS1MTk5pQlRBeDh4V3JfVjVRZjBVN3lxbTZpUWc2VlRNM0N2VmZocXFwNHQyYjRhcXdwMlhURVp2cEljRTZUdktmS3YxczV5WThhZG5CT1NFNVJ6UGVoVEdXRWJJbzFvYzZfcTYxVWI5dGd0endVLUExaHhYdEJ2OGlfUGZoTERfOFJzdktId0lGVzVuclJaVXVQb2xXSExMbzA2MDhFZ0Q1SnkzMjUyRmhpNHFTUVNNUGw1WGVlVzZQM1pRTjVfX0NZT2JRdktjeG94RjFJNWtNY0FERkNvUnBmQmlVZETSAfwBQVVfeXFMTVVXTC1LSGNOOHd2ZFpvamlHRjFZMG0tTE5OaUJUQXg4eFdyX1Y1UWYwVTd5cW02aVFnNlZUTTNDdlZmaHFxcDR0MmI0YXF3cDJYVEVadnBJY0U2VHZLZkt2MXM1eVk4YWRuQk9TRTVSelBlaFRHV0ViSW8xb2M2X3E2MVViOXRndHp3VS1BMWh4WHRCdjhpX1BmaExEXzhSc3ZLSHdJRlc1bnJSWlV1UG9sV0hMTG8wNjA4RWdENUp5MzI1MkZoaTRxU1FTTVBsNVhlZVc2UDNaUU41X19DWU9iUXZLY3hveEYxSTVrTWNBREZDb1JwZkJpVWRE?oc=5>
+- **Trump** | 特朗普称接近决定对伊朗发动大规模攻击 美伊冲突升温推升油价 <https://news.google.com/rss/articles/CBMisANBVV95cUxQeUFDUG4yODZJTDUwQnAzblVhNEVMUVZZYWhWbVpGQzY1ODEwWmFCZWkyaUNzc0plVmQtNkQzSFFTam5LcktqTDFtZjNJZUowcXgzMUF6Uldkb2lsNFNuaExRNzNPQnFBM29GQWp6czNpVUVVYmdrV1VGT252MVFkTjZWN3ZWQlhYRGY3WGEwQ245emZBLUY5YmQtNlFrOWlhUmhmMHk0akNJdHpfTTZtQmpteEFiWmRXZ3BfNjd0T2NGSzFaRUphX1A4N2lzVi1GbEdGT0dhSjAwS20zZnhSMmxoVVczbVFJa3VQWDRENU1ra2VYdEF6LWxBeVlPMGlDVG5mRUhEeE1GZG9jdW94aUFPZThnQnU5ZlpLekVid25pRkdTU0NoWFd6NzlDUC1MYTBZVUZSaTZZcjFyNnJ4cEdkMk1pRVBOWHd5LWp0alNtY190Z0FiMm1ObExRdTRsRE1KTXowZEpJczYtSkVFTVVBTEtXU29DUGZjMEo2RGR6clcycUVNd0hEV0Q1eXJlWXhRLVBSU2JGcDFnWHNqSmZmTUdvcWhiV195YXFGdDk?oc=5>
 
 ### 2026-07-23 20:08  (1 条)
 
