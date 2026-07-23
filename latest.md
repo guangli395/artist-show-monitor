@@ -1,64 +1,89 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-23 13:41**
-- 本轮扫到 7588 条, 新增 **6** 条
+- 最近更新: **2026-07-23 15:50**
+- 本轮扫到 7596 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (8 条)
 
-### 特朗普：若胡塞武装再袭船 美将采取军事惩罚
+### 【南昌】王力宏「最好的地方」巡回演唱会
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001908dsey.html>
+
+### 特朗普: 美沙民用核能协议条件是沙特承认以色列
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-07-23 12:26
-- 链接: <https://news.google.com/rss/articles/CBMid0FVX3lxTE5qaFZNOWt1XzY2T0NvdF94eFF4NWM1M3dTSE1QYVJPUEtxQlpuaExYTXhTOE9LSzlRTlZ1aUo3SExoeF9SZWJqeXlfS0RDeFphTDM3Mkw1WFlHY2U1N3RydkJSclV3NmhIdC1rVWQ1N2VVMkUzTkVF?oc=5>
+- 场馆: RFI
+- 时间: 2026-07-23 13:40
+- 链接: <https://news.google.com/rss/articles/CBMi6AJBVV95cUxOVTZFOEk1N1NsUWIxSEZ2T1JoMUI5TU9qOGdoaXpQeE04S1VGS3d6UklHLTU4YXotZ1Vpb2c2MFRoWGJhdlhmMGNSN0tUVHFqVzg1T2xSVXJiTlMydmJYdlk0LUhMNU9VWjBhMHBjdkk5dVhQUi1FUjN6QVRKWS10cWFnZHphRG1LMkdRdHVlemtHLVdpSW1LUC1FazFlNnJRZDhXWnJ6S3FPX0JJRUwyUkdhR1F3Q3ZlVzNpakx0R0Z3cnZKQndfVmVic3o1UHZoUG9SdUJ3Y3NxbVQ4QmVoTTJ3aFRVcFVSWjVrZ2dad2dqYVRaWVZ0dGlRV0RiTzlHRC1aSWVyNHpINW9CM3BNREdvMHkzWHFKalBPaW1xakxtakZGTkZPNTBYU0NURkN2M0hONFdVUEZrUjB3eTFkNGg4WEd2YXRnaFNfVkU2clR5OUZlZk5RRElrRUlVb3hOM3NOTldTUGo?oc=5>
 
-### 特朗普：美国将对伊朗以及胡塞武装实施大规模军事打击
+### 特朗普称沙特加入《亚伯拉罕协议》是美沙核能协议获批前提
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-07-23 12:27
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE00al9teUdMVG15eUpHNVZ0bURfUUxRYjdaZm43YmtkUjV2cWkzdmNoYWxoLVlOZTFYSmZVOWNuSk9ONExzYzBNV3g4bS0?oc=5>
+
+### 如果我是特朗普：2026年中期选举前的美股剧本
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-07-23 14:05
+- 链接: <https://news.google.com/rss/articles/CBMiogFBVV95cUxNX3NGaTJvdDlfcEtCRVU4NHh3SXlSNXdYMjd2cnQ1UElWRE5XY2xqc0plQk11T3ZXV2NvNXZvaXBZMzFZdFF3M3pPRVhSUk5md241Ry1xNm1WVHplbmF4SThtbU1uRndldnlsZU15UjFoVnZocWZlX3N5WHZCRE92U1ZzQ3ZjUlA5Z3AyLVNpWEtuSUJkb2NaREYzSGdDYkFIUUE?oc=5>
+
+### 美众议院再次通过决议要求停止对伊朗军事行动
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-23 12:19
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9RSEI4a29iZFY0YW9TUFdvbjA4d0lSektDQXJ5QzVqUmRTbU5qVjRGeUttTnFDeHpIUmxJQnpWZk5QZ2p0aTZ1RjJHMA?oc=5>
+- 时间: 2026-07-23 15:12
+- 链接: <https://news.google.com/rss/articles/CBMipwFBVV95cUxOSTJoLWNPbFZHRUNPdW0wU3pPOEZCZ2dSbllQc2lVUllnTlVYNFlTLVp5QV8wQUl6NkJyNi1hQTZIY3RBdF9xcE5ncGFLck5NVFhQZDF1TjJaQ0ZnRUVjS3Z0T0g1ZjFKTnFkOVZxSlRpZVllUVdDWmt0a3BaYWpXTHZvSzdhQXpWNVBfYmZNNG1Nd1hMNnVZOXpxLUVxalV3WEdTWDZDbw?oc=5>
 
-### 特朗普媒体科技推出总统帖文高速数据流 引发华尔街集体抵制
+### 特朗普：接近就“大规模打击”伊朗作出决定
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-23 13:18
-- 链接: <https://news.google.com/rss/articles/CBMijgJBVV95cUxQdVRfc25tYUludHRqR2tqYVZtanE3QTN0ZkpfWS1McmhoZUtzQV9MRllHaDZuZmlnZWQ5MnRuUVNvTXZjbFloa0Rfdm4yczBXbTFfT2NFeXRzMTRZOUJ6YXlYRUh0Q3ZZOWp2c1NlSXZYLU44QnRYNlFRZm5BeDZQbkJPNmVOMDZmZVlmZFVTREdKMXpaTG9qcDFzdVNxaFZzLXJONmdiZVQ2eTV1QXl5eWhmdExPVko2QlFtZktyQy1hZUM4czNJZExjTjR2N1hyNGlYcW85Tl9ld0Z4MmF6UEZNSFFXanBCN0h1UWNpRHdnOHludlVBY0xmaHJNMWFaN2l0SFdua2FXcVR2ZUE?oc=5>
+- 时间: 2026-07-23 15:29
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9STFhSa3FWdUZsV0xmZEVDYW5lZU0zcGc4akhTc2ZlN1hYU3B1aUYtM3lidEFqdGUtazBqZGlRWmNaQm9KVHF0Wm1tNA?oc=5>
 
-### 福布斯 | 特朗普政府已与沙特阿拉伯达成一项核协议
+### 特朗普总统出席四名在中东阵亡的美军官兵遗骸尊荣移交
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-07-23 11:07
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE9NS0Q1RWNDNGpjNlN5UEhiOS1hY3ByVF9VYnk5eko4NlNvTjAtZmZMUHFmb1p1eUwxRDVvWXltWWF5SWpWeVl4V2NRNmdiREVXSUZnSndPOHBUb1BWTHZWWnRtUlE0Qk1iZVNBMGExa3RnZw?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-07-22 19:45
+- 链接: <https://news.google.com/rss/articles/CBMizAFBVV95cUxPZDlmbE1KNG85cDVRNWkzaWZBNjUtYWNqN1UxWllOMFMwMGFTQ2Y1OWNua29ZUG1VV29rcW9QS09lVzVvZVEtbDV3X2Y1UDFpSS1oSlZaNzFoclNnN3BxNlVieU92ZzJDNDVwR2w5N2lVT1B3cEJhTDc2SWNYOEhsS3BzTHk0cG12aV94QnZfN3RKN0kyMW5EXzc2Qmo4VzFBZjVsN3Nvay1jR251YU4tdnBlOVZQQ2luUlhDeFEwMDc2MTRCUXdLRjJMbDDSAcwBQVVfeXFMT2Q5ZmxNSjRvOXA1UTVpM2lmQTY1LWFjajdVMVpZTjBTMDBhU0NmNTljbmtvWVBtVVdva3FvUEtPZVc1b2VRLWw1d19mNVAxaUktaEpWWjcxaHJTZzdwcTZVYnlPdmcyQzQ1cEdsOTdpVU9Qd3BCYUw3NkljWDhIbEtwc0x5NHBtdmlfeEJ2Xzd0SjdJMjFuRF83NkJqOFcxQWY1bDdzb2stY0dudWFOLXZwZTlWUENpblJYQ3hRMDA3NjE0QlF3S0YyTGww?oc=5>
 
-### U.S. Surges Forces Toward Middle East, Giving Trump Options to Expand Iran War
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-07-23 00:08
-- 链接: <https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZi1VVkFOZEltWWN1WFhFemdkN3Q5WHFQbmt3YS1acXpqU0hTRzl0R2V5c3VmX1M0aHhDZ09nTjgwQVZuMWswSEZDS2Vwc0VYLThTb2VBSDBpMUxEVXVDTTlKMElpVDAtR3lzazZuc2pzTEJPZVZHN1hrel9JNWdtMjBCSHVNTHJfX0ZReUx0LU95eUVkOVBpVVdHV3BXR0htclJaSEpxNHgzeVhpM0I1bFdfTzBSeVQ1NFNhblIyNE9RWUNLUEJaU1IwcndBMG5BU0kzTmVXNTU?oc=5>
-
-### Canada's Carney Says Trump Agrees to Talks to Avert New 50% Tariff
+### 持续的战争因trump而引发了此事！
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: Moomoo
-- 时间: 2026-07-22 12:27
-- 链接: <https://news.google.com/rss/articles/CBMinwFBVV95cUxNaV8zRXJzRjZqbFRzMkNFeUR4Nm8tMjFwY25lLVJaY3pqSTZCcEppVS1UU2cxY2JIUlhFcWZCMnRYOW1VZGtGWGVCSEZkQUN3dWtZM04xbzdyUHR6eV9USG1iRldoR1NVQXQ2b3BMbm0zUEg5eV9jY2FsMlhWR2dNYVY5cnpSNkxmaFNSVkRTOWF6OS14eUdXWmVyNjl5Sm8?oc=5>
+- 时间: 2026-07-23 14:07
+- 链接: <https://news.google.com/rss/articles/CBMinwFBVV95cUxPR1o0YldGcjVxTTMtU05LMTJTaFlMUXJNaDA5NDRMZzFjcmE2VFl4VXZVTFRTWWItVWxmdkJMUXo2S3F2S1IxZVVBZFpYUVlGYWVUZkRxU2NYYWVSMjdTWTNBQzd2VnBFYmh4TjJ3YWZwV2dqZUxUU2tzelRQWmtOUnVDN1FVVXhGX21fQTREZFVGdGJnVnFnQkF2WU1PZTg?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-23 15:50  (8 条)
+
+- **周杰伦** | 【南昌】王力宏「最好的地方」巡回演唱会 <https://k.sina.com.cn/article_7857201856_1d45362c001908dsey.html>
+- **特朗普** | 特朗普: 美沙民用核能协议条件是沙特承认以色列 <https://news.google.com/rss/articles/CBMi6AJBVV95cUxOVTZFOEk1N1NsUWIxSEZ2T1JoMUI5TU9qOGdoaXpQeE04S1VGS3d6UklHLTU4YXotZ1Vpb2c2MFRoWGJhdlhmMGNSN0tUVHFqVzg1T2xSVXJiTlMydmJYdlk0LUhMNU9VWjBhMHBjdkk5dVhQUi1FUjN6QVRKWS10cWFnZHphRG1LMkdRdHVlemtHLVdpSW1LUC1FazFlNnJRZDhXWnJ6S3FPX0JJRUwyUkdhR1F3Q3ZlVzNpakx0R0Z3cnZKQndfVmVic3o1UHZoUG9SdUJ3Y3NxbVQ4QmVoTTJ3aFRVcFVSWjVrZ2dad2dqYVRaWVZ0dGlRV0RiTzlHRC1aSWVyNHpINW9CM3BNREdvMHkzWHFKalBPaW1xakxtakZGTkZPNTBYU0NURkN2M0hONFdVUEZrUjB3eTFkNGg4WEd2YXRnaFNfVkU2clR5OUZlZk5RRElrRUlVb3hOM3NOTldTUGo?oc=5>
+- **特朗普** | 特朗普称沙特加入《亚伯拉罕协议》是美沙核能协议获批前提 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE00al9teUdMVG15eUpHNVZ0bURfUUxRYjdaZm43YmtkUjV2cWkzdmNoYWxoLVlOZTFYSmZVOWNuSk9ONExzYzBNV3g4bS0?oc=5>
+- **特朗普** | 如果我是特朗普：2026年中期选举前的美股剧本 <https://news.google.com/rss/articles/CBMiogFBVV95cUxNX3NGaTJvdDlfcEtCRVU4NHh3SXlSNXdYMjd2cnQ1UElWRE5XY2xqc0plQk11T3ZXV2NvNXZvaXBZMzFZdFF3M3pPRVhSUk5md241Ry1xNm1WVHplbmF4SThtbU1uRndldnlsZU15UjFoVnZocWZlX3N5WHZCRE92U1ZzQ3ZjUlA5Z3AyLVNpWEtuSUJkb2NaREYzSGdDYkFIUUE?oc=5>
+- **特朗普** | 美众议院再次通过决议要求停止对伊朗军事行动 <https://news.google.com/rss/articles/CBMipwFBVV95cUxOSTJoLWNPbFZHRUNPdW0wU3pPOEZCZ2dSbllQc2lVUllnTlVYNFlTLVp5QV8wQUl6NkJyNi1hQTZIY3RBdF9xcE5ncGFLck5NVFhQZDF1TjJaQ0ZnRUVjS3Z0T0g1ZjFKTnFkOVZxSlRpZVllUVdDWmt0a3BaYWpXTHZvSzdhQXpWNVBfYmZNNG1Nd1hMNnVZOXpxLUVxalV3WEdTWDZDbw?oc=5>
+- **特朗普** | 特朗普：接近就“大规模打击”伊朗作出决定 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9STFhSa3FWdUZsV0xmZEVDYW5lZU0zcGc4akhTc2ZlN1hYU3B1aUYtM3lidEFqdGUtazBqZGlRWmNaQm9KVHF0Wm1tNA?oc=5>
+- **特朗普** | 特朗普总统出席四名在中东阵亡的美军官兵遗骸尊荣移交 <https://news.google.com/rss/articles/CBMizAFBVV95cUxPZDlmbE1KNG85cDVRNWkzaWZBNjUtYWNqN1UxWllOMFMwMGFTQ2Y1OWNua29ZUG1VV29rcW9QS09lVzVvZVEtbDV3X2Y1UDFpSS1oSlZaNzFoclNnN3BxNlVieU92ZzJDNDVwR2w5N2lVT1B3cEJhTDc2SWNYOEhsS3BzTHk0cG12aV94QnZfN3RKN0kyMW5EXzc2Qmo4VzFBZjVsN3Nvay1jR251YU4tdnBlOVZQQ2luUlhDeFEwMDc2MTRCUXdLRjJMbDDSAcwBQVVfeXFMT2Q5ZmxNSjRvOXA1UTVpM2lmQTY1LWFjajdVMVpZTjBTMDBhU0NmNTljbmtvWVBtVVdva3FvUEtPZVc1b2VRLWw1d19mNVAxaUktaEpWWjcxaHJTZzdwcTZVYnlPdmcyQzQ1cEdsOTdpVU9Qd3BCYUw3NkljWDhIbEtwc0x5NHBtdmlfeEJ2Xzd0SjdJMjFuRF83NkJqOFcxQWY1bDdzb2stY0dudWFOLXZwZTlWUENpblJYQ3hRMDA3NjE0QlF3S0YyTGww?oc=5>
+- **Trump** | 持续的战争因trump而引发了此事！ <https://news.google.com/rss/articles/CBMinwFBVV95cUxPR1o0YldGcjVxTTMtU05LMTJTaFlMUXJNaDA5NDRMZzFjcmE2VFl4VXZVTFRTWWItVWxmdkJMUXo2S3F2S1IxZVVBZFpYUVlGYWVUZkRxU2NYYWVSMjdTWTNBQzd2VnBFYmh4TjJ3YWZwV2dqZUxUU2tzelRQWmtOUnVDN1FVVXhGX21fQTREZFVGdGJnVnFnQkF2WU1PZTg?oc=5>
 
 ### 2026-07-23 13:41  (6 条)
 
