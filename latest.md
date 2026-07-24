@@ -1,70 +1,82 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-24 08:14**
-- 本轮扫到 7653 条, 新增 **7** 条
+- 最近更新: **2026-07-24 10:31**
+- 本轮扫到 7660 条, 新增 **7** 条
 
 ---
 
 ## 本轮新发现 (7 条)
 
-### 一大批演唱会官宣落地广州
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://video.sina.com.cn/p/finance/2026-07-24/detail-iniiwvke4400598.d.html>
-
-### 美参议院否决限制特朗普对伊战争权力的决议案
+### “特朗普与马科斯通话，保证对华提出菲方关切”，外交部回应
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-07-23 16:34
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE5MMHgwNjNrdVpKM2hXTFFhQS1hckk2Qk5IZExSU2dBVjZnLTBHYktKNHBLUFdETW9aT0w0c1hmbjUzaHEydmYza0Q2cm0tdFNNUEU0bVNsQlV4STlhMlU0QXhBaTh6TWJSOEFXZmM1ZW5ZaGJE?oc=5>
+- 场馆: 新浪军事_手机新浪网
+- 时间: 2026-07-24 09:11
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFBCZGhIU09yVW8tVlc5RkVJUFFEU2t5T2xJYW9JZmlJcGJ3al9VSWlIOVEwNEUyN2tvYi1vOXZnQldvWTJoM0hXNXhkOUFTaUs5SC1KcDZBYkZ3S21tZ09OUTZjZ25VSF9xT1pPWUs3eFdMMGc?oc=5>
 
-### 特朗普称正“认真考虑”重启对伊朗的大规模作战
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-07-23 15:30
-- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxPTV9lXzdLeFk3REgzRkdUSDF2dW9QMEZReVA4NFFsbDZmbnI4Q1NGSXhpRFlOc21ubzhlMXBrenVfNTNJRVZEYVk0dUxhNkJ1djBmcFRQRG9LLVk1dHpXR19YaEV6NzFzbWNZdmFHMjRZbzlRbmRja1ZOU19MdG9TXy1LMjNtR09HbUNEWGFnOTdmbWJWUGE5cFdMVk1mbVRCZGNlVVJiTk0tbXlsa3RvWVJqa0JsRWlZRTJLWDlZb1hBZjlCU0JWZC1UUzdMZGc?oc=5>
-
-### 特朗普：若胡塞武装再袭船 美将采取军事惩罚
+### 特朗普：拿伊朗资金赔
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-07-23 12:26
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE4xc1VOM0VwRldrb2VxSk9KUURsWUtEdmwzVGg2MmpPcW83Sy1Ubi1OUmlMbWtDZy1Wa1BhZW9aVFZqdTRpOW9FUjBLcHZBd01kT1pDcUVFcW9JM3lsa1ZjcEFqYmFXLUR4ak5ZcDhzUWZrck9aMUFIUFJRNjlIaGc?oc=5>
+- 场馆: 新浪军事_手机新浪网
+- 时间: 2026-07-24 09:39
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE96V0xpVzk4TmZPdzJkU2J4Uk9HTlhEeUNOeU1WYjRGTXpyV1JVdWVaMlJkMTN4NVJHV3p6MXVJVFpXbmdHb1E1UHJ4TDdCWUNpNUJIWXN1a1l1TE9iczhsUHZORU1BaW5GeUNzU3ZKekNzUFU?oc=5>
 
-### 美特勤局长称威胁增40%，特朗普晚宴遇24年最大危机
+### 废除近20年防线！特朗普私批核协议，中东爆出惊天大瓜？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-07-24 08:46
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBxeW9ETm9fTEQ2NWlBU2JhaXhkWEZIay1kSzBUc3U0cnVjQXgxSDBKVnNpVHZLbmgxbG1Nc2hlMGVzdFg1ZDM2SlJCaw?oc=5>
+
+### 美国施压沙特：要么“入群”， 否则核协议“作废”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪军事_手机新浪网
+- 时间: 2026-07-24 10:11
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1FTmpoVlhCUDNLX3djSHZWT05VWWRwZVZiaFlFd1dudzduZ0hxMTc2MzVHZmxBR2ExaWtWZjVKTVFSWm93Tkh1WVhqT3FNRWZxeVQxOE5RUlRsUHRpM25seTVYM3dhQVpFSUcwdGRZTDVGbXc?oc=5>
+
+### 特朗普狠下重手：仿制药加征100%关税！
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 手机网易网
-- 时间: 2026-07-24 05:10
-- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTFB4dWtjVVBZcnZHd2ZsZWNwVjRmci14U1FTWGF1aTRfWnpZSVVOR01sYThJV3lkY3gtZF9sZndvbmY3Z2ZaTVhSeDFtQ1FNZTYtN1Atb3VSTmZnYUtZM241OE13?oc=5>
+- 时间: 2026-07-24 09:58
+- 链接: <https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rTzZjXzNSN2dVX2p6RVhHb1ZxRjBtcF9jQ3NTcTlxd1NCXzZwQ3pTNGlpNk5zSHhyNzdqaFFEYi1BSUdTMl9ia05lRVpsMTAtcEdMOA?oc=5>
 
-### 特朗普向伊朗发骇人威胁、黄金暴跌！FXStreet首席分析师金价技术前景分析
+### 特朗普：正“认真考虑”重启对伊朗大规模作战
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-07-24 03:49
-- 链接: <https://news.google.com/rss/articles/CBMisgFBVV95cUxQaDB4cUFDcGJMYnlQYVV5WUFNOWU2dDJwS0JPZWJOU3BCeTlMOXhYTDBhWjNUNGdLNnBZS1ZXWUtJYnVtcnplZDZjdURTRzV5MC1hVE9OLUxnS3dxb2pFbUFfelM5ZzJZbDlrTkJ2eUFUOU5GVDVFaDRTNjRhc1h0ejZQaG12cHRHR2sxbEN4MWJ6UUVER2RSTEN0cDFqNm9iOWkzaGRlaWRXZHQ1VVpWNlNR?oc=5>
+- 场馆: 新华报业网
+- 时间: 2026-07-23 23:44
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTFBVV09FM3NYSkwyY0FQSm5nQU9DVTRyc0NvTVdlMW82Smw3WUp3YjBIQlEyTW1HREZhX1JkQXVOS29QUmxmTDNhSzl5bkhwLUNrQ3NKa0lyLVRQbkRNVThLN2hKUm03bnlnbnFz?oc=5>
 
-### 美国总统Donald Trump对数十个贸易伙伴征收新关税
+### 特朗普背书、亡兄同情分加持，这位新参议员却面临败选风险
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: TMGM trading
-- 时间: 2026-07-24 01:07
-- 链接: <https://news.google.com/rss/articles/CBMi3AFBVV95cUxORHJlUnZEQS1uVTBSaDJNa2xOb0EwcG81M3FzMjhSOS1yTmNVMkNCbDJ5RTBJWlQzSFo3WFlYeTZnLW1GR2xaalJGWjBXcGcwV0RzdExkOTF0MGRQbDlpSlo0aTM5WTdQcGR1bWVSYlhBRkh6TFpvUXFYRHdMaVFBanY5VlRUNUo2Qm5uQVFfZTVndEhqM0JzUnQxbVhQSVFHR010T29vWkMzZ3FsZTdtU3o2TXFsRElpZFVwRE5DRzVOQ0xyOHE1TDVPZUF6M21Rb2o0cEk5aDJMSk5F?oc=5>
+- 场馆: 手机网易网
+- 时间: 2026-07-24 09:27
+- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE9OVzhDR0hmYjBfd0JBalRoUFFTdUxwd01ncXAyVkdaZ05RQU5QU2RLZ2VsNThFTmRVQmx5a01RdHpyZGRFZjBONEo5WWNYd1E3d21Tb1lRMHhOQ21pYlpPZkFB?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-24 10:31  (7 条)
+
+- **特朗普** | “特朗普与马科斯通话，保证对华提出菲方关切”，外交部回应 <https://news.google.com/rss/articles/CBMic0FVX3lxTFBCZGhIU09yVW8tVlc5RkVJUFFEU2t5T2xJYW9JZmlJcGJ3al9VSWlIOVEwNEUyN2tvYi1vOXZnQldvWTJoM0hXNXhkOUFTaUs5SC1KcDZBYkZ3S21tZ09OUTZjZ25VSF9xT1pPWUs3eFdMMGc?oc=5>
+- **特朗普** | 特朗普：拿伊朗资金赔 <https://news.google.com/rss/articles/CBMic0FVX3lxTE96V0xpVzk4TmZPdzJkU2J4Uk9HTlhEeUNOeU1WYjRGTXpyV1JVdWVaMlJkMTN4NVJHV3p6MXVJVFpXbmdHb1E1UHJ4TDdCWUNpNUJIWXN1a1l1TE9iczhsUHZORU1BaW5GeUNzU3ZKekNzUFU?oc=5>
+- **特朗普** | 废除近20年防线！特朗普私批核协议，中东爆出惊天大瓜？ <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBxeW9ETm9fTEQ2NWlBU2JhaXhkWEZIay1kSzBUc3U0cnVjQXgxSDBKVnNpVHZLbmgxbG1Nc2hlMGVzdFg1ZDM2SlJCaw?oc=5>
+- **特朗普** | 美国施压沙特：要么“入群”， 否则核协议“作废” <https://news.google.com/rss/articles/CBMic0FVX3lxTE1FTmpoVlhCUDNLX3djSHZWT05VWWRwZVZiaFlFd1dudzduZ0hxMTc2MzVHZmxBR2ExaWtWZjVKTVFSWm93Tkh1WVhqT3FNRWZxeVQxOE5RUlRsUHRpM25seTVYM3dhQVpFSUcwdGRZTDVGbXc?oc=5>
+- **特朗普** | 特朗普狠下重手：仿制药加征100%关税！ <https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rTzZjXzNSN2dVX2p6RVhHb1ZxRjBtcF9jQ3NTcTlxd1NCXzZwQ3pTNGlpNk5zSHhyNzdqaFFEYi1BSUdTMl9ia05lRVpsMTAtcEdMOA?oc=5>
+- **特朗普** | 特朗普：正“认真考虑”重启对伊朗大规模作战 <https://news.google.com/rss/articles/CBMia0FVX3lxTFBVV09FM3NYSkwyY0FQSm5nQU9DVTRyc0NvTVdlMW82Smw3WUp3YjBIQlEyTW1HREZhX1JkQXVOS29QUmxmTDNhSzl5bkhwLUNrQ3NKa0lyLVRQbkRNVThLN2hKUm03bnlnbnFz?oc=5>
+- **特朗普** | 特朗普背书、亡兄同情分加持，这位新参议员却面临败选风险 <https://news.google.com/rss/articles/CBMiYkFVX3lxTE9OVzhDR0hmYjBfd0JBalRoUFFTdUxwd01ncXAyVkdaZ05RQU5QU2RLZ2VsNThFTmRVQmx5a01RdHpyZGRFZjBONEo5WWNYd1E3d21Tb1lRMHhOQ21pYlpPZkFB?oc=5>
 
 ### 2026-07-24 08:14  (7 条)
 
