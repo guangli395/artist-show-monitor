@@ -1,64 +1,71 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-24 12:15**
-- 本轮扫到 7666 条, 新增 **6** 条
+- 最近更新: **2026-07-24 14:19**
+- 本轮扫到 7672 条, 新增 **6** 条
 
 ---
 
 ## 本轮新发现 (6 条)
 
-### 特朗普之子入局机器人赛道？联手AMD开发新一代人形机器人
+### 蔡徐坤签售会被妈咪粉花式逗到招架不住
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5885611158_m15ecf4c9603301f44e.html>
+
+### 特朗普称美沙核协议取决于沙特与以色列实现关系正常化
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-23 18:05
+- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbnZKSjZJWC05OWdkMGpYY1BpTFpLTDJWVUlVcXptY0hUWXI1TEpGOS1SRVFCYzhaNHVKME8tMHVnemxQZEdOb3B6RVEzZmFnS1VkbjRzbTRlQW9lWUZPSzVWeks0Z2hvZm9UMkJMWGhHdERtb0JRUk1sS0lxa2NDVVE3QXBCNzk3VlZGbGxpcXFFa18zLUpwNmJteHNUOWgwUzZJOTVlRVJRQmFvRVNFZjBJUnhleXBGcGgtTzQxVEVYWWoxT2pMVTNWQUlyUXZ3Nmc?oc=5>
+
+### 特朗普：正“认真考虑”重启对伊朗大规模作战
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-23 23:40
+- 链接: <https://news.google.com/rss/articles/CBMizgFBVV95cUxQRkoxVTdSQm15cUlURi1CY2Qwd09BWmdLeksxSjc0c0Q1VU9FWGlrY0l6VzZsQWdkQTI0N09xV2dwSU9OZGlQSExjUlQxUWs3LU5MZ3RPUGFQa24xTWkxaUhaWWJvaFl5VUxoc1M2TjFtS00ta0dPZzV1UXB3WC10ZXVEU1h1VEFjUGhBNmwtRTlWNXExenNaZ0JLYUlRRGFDeXVFZGUtSXVEYVA2LUhmTlhmTjlnOGFLYmhQcUxJMGxoYk45N1B5ZDlOUmxTZw?oc=5>
+
+### 特朗普威胁伊朗和也门胡塞武装
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪网
-- 时间: 2026-07-24 12:02
-- 链接: <https://news.google.com/rss/articles/CBMisgFBVV95cUxPUl84ZlRVNU9lSUpMN1hZa1BSLXV2VkNpSDJCLU5oSHBUdUxpYVd2eHYwd1E2ZkZ1TXY1VTg5d0JHTHllbGJaLVlHS3VuVE00Y3l1cFphalNWaHd5N0lRME5sSE5FNVBHODZfa0V0LXQ4ZVJadHliQlFKaEtqWkdLOWRtTnozZ2pKdHFsZ0dOQlBkci1TTmNZNVJqU1I2ZS1MOHhpdnN3M2l6aDdTeGwyR3lR?oc=5>
+- 时间: 2026-07-24 13:57
+- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxPU0hjTTBLVGhxQUhCNVd6TUxfdFM1cDNMOE5jdkNGV0tjcjBUTi1SWHotZlpwTG0zUEZSMlJLblNEUnp2NVRKNnliX3l5N2c2S1NmTVhmWk9rdTZ1cEN1V2hVZVhLc1hnVjRSNFUwUURjbFNveGlGc2llOERQYnYzdQ?oc=5>
 
-### 特朗普称正“认真考虑”重启对伊朗的大规模作战
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-07-23 15:30
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSDNKejhFMEhkdFAycFVHVTI1MzZDZzd6X1JpUjZMUVc1LWJoamFtY0wzd0R6WWNCbDhwdm54TU5KNk43bzFkT3pyZjMyQkdxem93RlBxUmp1SEJqdjhJMGxsOVlaUUl6eGYxb2xsaHUyMEdFUkdFTDVzNkxHeDFIa21Lc1g5aWE4eVpaYTktbGlleldfRXM3UldLeXU1RDNTeXAtRVN0VjdNNWoxRHpKUVNaeE1QWjdtQlE0TWlmVnZVUEl4dlZhRlpfWXZzeENn?oc=5>
-
-### 美国专栏 - 军费暴增、伤亡攀升、国会分裂 伊朗战争代价全面浮现
+### 特朗普称美国必须在AI领域领先，民调显示美国人认为中国AI更先进
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-07-24 10:40
-- 链接: <https://news.google.com/rss/articles/CBMitANBVV95cUxQWkNrTDlYbWhWa2g2Y1FPeC1zQmQ4OWxnZVdzTE9DMGFtSTBrTU44Vms4TXZVb1l4a2lHR0cwRmVfVWM0ZERFdDVpa1Bxa0VKY2NkU0JZREZCT0ZoRDlaUjI3bjNmZVRKMEw3YTFzMTZuV0ZXdTdyaVlaN2lseVJUdGNCLVVtY2Y4b2hFWTFRNEJzR3h4OGJBREt1azItY0h4SFNKYU9mUmdUZnFVV2tVaHhFM3dsN0FBY1RSdlRNV09FT2x2S0R1dVdEQWg2X09fclRQZ2dpSFdua2RiWTBPVkxIMmZ5V2ZZWU41Q2daZ2IxSWNwaEY4NWplT1cwNUF4c0RYLWZTUEJMOE45Q2s5RHFWQ0tqTlVXSVdlb2duN2JrTHpfbjVIV0pveXpicTU4TllxajZoV215aEpoVmZzVi1pd1VOdURFQnZ2bEZTbDM0WTVVRDZnM0FxVUt0T1k5OFF0WEJjLTZCRHBYb2NuMlZUckJHZDhISXVnOHJicDNKTDZITFZXcWZ3dWU0Vm1kY2x3LWFKa2ZqbVFZaThBYmJINlUzMmNRbzNQWS1UMm0zeE41?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-07-24 06:15
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9DdVdKN21BY3hhZWRHYTNTVmh4ZjFmYW1sRG83bGZta0RqNjBQZjRLZ3JRcFk2OUFiWGpnT0p4N3dVbGJSaWVGanFjNDc?oc=5>
 
-### 特朗普对60个贸易伙伴征收针对强迫劳动关税 北京：反对单边关税措施
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-07-24 08:59
-- 链接: <https://news.google.com/rss/articles/CBMiwANBVV95cUxNVEpXOVpHdFVUXzZTVlVGLUNpemRlWGh1YzdKUzljWkZaYUtheDAtc3BpNXRISEgxN3RfWW5mM2dmbkhERTdSSXpBOG1VMVhOaUhJbV9VSU9IMTIwazdLTXZtNVdyQ3JYc0JGVFBtY1dhQWYxV2xpUmdQOG1mczNNeEpXanowTjBldzU5RkdWOFdvREpkWnZEOHlXRlh3TjhUVTlTQ3g1d3JwTFpQb0ZDMDl1NWpyc2dGc2JZc01iamVNRkxmVGM5YWNYdE9zb1hzOEtsdEFvOVNBNkVmNk5peHRqU1IyOHM2bTkwbXJkdEtNUXNJT0lIVkRYeS1sNUFrVFZTYnBEQmZST1ZrSWp1NXpkdkx0Yk9KVTVEUjZTVlhxLVdCY2MyRFRvNHc3b0dpN2c0amJIdFNibXJQVzVsd1B3MzdCalhEV2JyU3dIc3RxQlgyTHZJMndEOTQtUjBTRGxOQm00U0tsbmpJRzFZdy0wcU5EdlBJd1pvd2JORVBYSkZudWRkd202NGFES3k3OG1hcEFvdGZsdG5Sb3lpa0hsMjBVVHItbk51d29CZm45X2c1NFlaSlVLc3lIZ0Zf?oc=5>
-
-### 特朗普：习近平9月24日访美 两人将讨论AI课题
+### 美官员：特朗普与泽连斯基将在华盛顿会晤
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-07-24 00:03
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9HMlhLZXNKZEs3cnkwYXdIX3NmYUt0eDluOXltcjgzcUFnbDdDMjdSRUxjc3FRb0otSkZtb2xzNllkMXltOTMta2twdTg5ay1JUjhBU1hrSE54ZFV0dk5iRjdCYS1wZw?oc=5>
-
-### 特朗普施压沙特正常化与以色列关系 美沙核协议前景不明
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财新
-- 时间: 2026-07-24 11:22
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9BSEw4a1U5S1poTXJCaU9uSFlWWTdsanVreF9jU2pnTlNlbWJycU9Rc0lOUlpEbEFybXEzcVJ5RnBFZ19wbGt2TmQtZll2RFktVkhDVTFUek56UHRrTFVwUzdNbHJuU2VZSHc?oc=5>
+- 场馆: 搜狐网
+- 时间: 2026-07-24 13:34
+- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vYm1PbXNHTS1hNDhNWlFXNGJoamJLTDN5SkhFcFBOSy01WmExeDdxSXN2dmx5ZWRUUmphWFQ2Yjkza1BQNEtPY0thajQ4UGJlYkE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-24 14:19  (6 条)
+
+- **蔡徐坤** | 蔡徐坤签售会被妈咪粉花式逗到招架不住 <https://k.sina.com.cn/article_5885611158_m15ecf4c9603301f44e.html>
+- **特朗普** | 特朗普称美沙核协议取决于沙特与以色列实现关系正常化 <https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbnZKSjZJWC05OWdkMGpYY1BpTFpLTDJWVUlVcXptY0hUWXI1TEpGOS1SRVFCYzhaNHVKME8tMHVnemxQZEdOb3B6RVEzZmFnS1VkbjRzbTRlQW9lWUZPSzVWeks0Z2hvZm9UMkJMWGhHdERtb0JRUk1sS0lxa2NDVVE3QXBCNzk3VlZGbGxpcXFFa18zLUpwNmJteHNUOWgwUzZJOTVlRVJRQmFvRVNFZjBJUnhleXBGcGgtTzQxVEVYWWoxT2pMVTNWQUlyUXZ3Nmc?oc=5>
+- **特朗普** | 特朗普：正“认真考虑”重启对伊朗大规模作战 <https://news.google.com/rss/articles/CBMizgFBVV95cUxQRkoxVTdSQm15cUlURi1CY2Qwd09BWmdLeksxSjc0c0Q1VU9FWGlrY0l6VzZsQWdkQTI0N09xV2dwSU9OZGlQSExjUlQxUWs3LU5MZ3RPUGFQa24xTWkxaUhaWWJvaFl5VUxoc1M2TjFtS00ta0dPZzV1UXB3WC10ZXVEU1h1VEFjUGhBNmwtRTlWNXExenNaZ0JLYUlRRGFDeXVFZGUtSXVEYVA2LUhmTlhmTjlnOGFLYmhQcUxJMGxoYk45N1B5ZDlOUmxTZw?oc=5>
+- **特朗普** | 特朗普威胁伊朗和也门胡塞武装 <https://news.google.com/rss/articles/CBMigAFBVV95cUxPU0hjTTBLVGhxQUhCNVd6TUxfdFM1cDNMOE5jdkNGV0tjcjBUTi1SWHotZlpwTG0zUEZSMlJLblNEUnp2NVRKNnliX3l5N2c2S1NmTVhmWk9rdTZ1cEN1V2hVZVhLc1hnVjRSNFUwUURjbFNveGlGc2llOERQYnYzdQ?oc=5>
+- **特朗普** | 特朗普称美国必须在AI领域领先，民调显示美国人认为中国AI更先进 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9DdVdKN21BY3hhZWRHYTNTVmh4ZjFmYW1sRG83bGZta0RqNjBQZjRLZ3JRcFk2OUFiWGpnT0p4N3dVbGJSaWVGanFjNDc?oc=5>
+- **特朗普** | 美官员：特朗普与泽连斯基将在华盛顿会晤 <https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vYm1PbXNHTS1hNDhNWlFXNGJoamJLTDN5SkhFcFBOSy01WmExeDdxSXN2dmx5ZWRUUmphWFQ2Yjkza1BQNEtPY0thajQ4UGJlYkE?oc=5>
 
 ### 2026-07-24 12:15  (6 条)
 
