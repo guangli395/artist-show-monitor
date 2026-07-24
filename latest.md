@@ -1,72 +1,100 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-23 23:54**
-- 本轮扫到 7626 条, 新增 **7** 条
+- 最近更新: **2026-07-24 02:05**
+- 本轮扫到 7635 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (9 条)
 
-### 特朗普全球关税战又开火 针对60个经济体以“强迫劳动”为由加税
+### 涉中国AI，近200家美企创始人致信特朗普
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 财新
-- 时间: 2026-07-23 23:08
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5Cb0RxRUJ2R2JxN21Gb1pQdXMzMFpJRmUtZjBkZ2cydndKOW9KTTBtazFNY0tEZ0R2ajhNOWp0SmIwRUx4dzFDWFZYV0o2Yk53THo3eXNvMG5CLVlsdGw3aVZ6eUxwZWVLMHc?oc=5>
+- 场馆: 新浪军事_手机新浪网
+- 时间: 2026-07-24 00:59
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE4tMkdCcUY0eTVHQUt0U01ramJJd0F0ZGQwYzZseGhNV24yYmFHYTJSZk1NOTFvV3gzV0oyaUhJYXlhamY1dEV0RjM1ZDRhbUN6X0xtM1hiT2ZQeGtoalhTNlZ1Q2FIUGJnTUtCTk5KdzdRaTg?oc=5>
 
-### 特朗普新一轮加税公布，中方反对
+### 刚签就要黄了？特朗普：核能协议想落地，沙特必须和以色列建交
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 观察者
-- 时间: 2026-07-23 22:54
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE02ck9kMzVkaGtYblNjTXRncklUeXBYQ3JmaXFxZWtuSjFoTG1jSTlkM3duVHB1N2FWbWNxb3RNeDVCSE1wb0REYTFzWFQzSHJPY0dUMjFlenVVQkhwbWo1WFNHQVg5MFpQcXc?oc=5>
+- 时间: 2026-07-23 14:46
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1Oakg2eXZ4UjZJclBuMFpHUmQ3a3BpUjlGRGxUcW1lMF9Jb01KWGQ0bExRdFJpLW12SkhfRE1FNEJveXFWcHVndUZfVEJQTV95bnQwMzBQclN3ekpvX1ZKODl5Tksxa09VbGc?oc=5>
+
+### 特朗普为沙特核协议设新门槛：需与以色列关系正常化
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-07-23 23:51
+- 链接: <https://news.google.com/rss/articles/CBMi4wJBVV95cUxOb3JPSkVieFlHdExYczZFVjNQOGRrV3lVNWNSTmVWYUdhYURmMTIwZmpyMlg5aXBSM1REeEYzT1NvZnlGaDNVMjB1emlONHE1Z2JxU2Q4dFdUcHgtbFRIb3B6ZGNJek1nTGRKeERZaGNDYmdRdFJ1RVlmdVpVcjJiS1ROOWJaYlJVeTFrd0k3UWh3X3NmVExHdVM5S3pmUTJMZ0FQT0NFUi1SVXA2NFhQSGo1NTRwRHU2OUlPUVZIemgwZ2c0U2IzLXhyelVPSVAyT0JyanRNVFg3aktfd2hDaVE4OVN0ZXFmUTVldTVvN0dMTlZ3ZjFqcTdFbEhLUlA0VUFjdEpvTzlhN2ppdGZmVHlzZDBZM0xhbXUtUmhVb3VheDJxZ0JobjRxeVV4NFBySXM5QXVTRVRRT25OWGs1OUJiS2l4Q0t1c2tHb0daT3RGUlVqRXl1TnplTjROSFlvQmF3?oc=5>
+
+### 特朗普：将用伊朗资金“赔偿”受损船只和货物
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-24 00:03
+- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxPeW8weGVGMzV1NHRsSUJQNElZQ2tWVVhWY0dtYmZSeVNLbVZjS2tDVHFzQ1R0SDUxN09xQmt0MVFPVF9oUmJSVDRuSHFNUnRYMGh1SFZXZjU0emFVOUlTUVpRY0RwNjQ4ZDlUbHF6RFpjTXRhRkdISDhxTW5UZ0gyVVZEOTFZcklMNS0zWHBjSV9HcWptWDUzOA?oc=5>
+
+### 特朗普称“接近”决定发动“大规模攻击”，伊朗被曝为军事升级做准备、尤其地面入侵
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街见闻
+- 时间: 2026-07-23 16:08
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE43U0czLUFkb0JsSGlxSGRrbTdGNS1MNVdGUGhDM0hacTFwSzN2NlBMbTh1UjNWa1Rodk9Sc2U1ZXR2cndlLTRnSUd2MVpPTmV5MVBB?oc=5>
+
+### 特朗普威胁发动空前打击，伊朗、胡塞武装强硬回应
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪军事_手机新浪网
+- 时间: 2026-07-24 00:59
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5IRDVXRnFGZnR2MzZ6V2tGZG1admlabkpKVVVaajRBSmdKd3UzRkd0Z0U1bGR2N3VnN1JLN3hvWnpqeHJNUDdCRS1wdElJeWVrWXIwajVoamtRcVE2UWZHak9OdC1pU3B4XzliVHhQMVhfWm8?oc=5>
 
 ### 特朗普威胁“军事惩罚”伊朗和也门胡塞武装
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-23 23:29
-- 链接: <https://news.google.com/rss/articles/CBMi_gFBVV95cUxQYXpVR2lxZ1o5a3hTUHZ4Q2JjTE1EQ1V5THBTNDBCbVN3dmVheENQM2FHcEZ2NUd3N3hybFV0eUk3UkZmek1kd1I1ak1KNXpIQWhZZUxROG0xSlR5ZU1wX0JxYnZ0RkZMVHJYNXd2RU52bDRqOHhiS1RReUpEU252dmpYY2RKRU9hM0trT1RJZFN6LUluMVNWNkpvdzNJdzJfRTlpaU9WWmE2UzNRRndTYlJuTG0zdVB0RU9yRkhDSkpKWVQzSE5Vd0NqODdQVXBUQlh5ZzFjRWQtZTJoOTd6UWhiNkpFdUEtWDlQU2tRVE9EdS1LVGhIdlZKdkVrQQ?oc=5>
+- 场馆: 央视网
+- 时间: 2026-07-23 22:04
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE8tLXA4YzMwT2hfX1BKZVZnel9Jdk9SSm92N3l4NUpGeWZNcEg1U3ZRWWpfR2xBQ1lBNW5WM1lVSTZYazZzZHFsMlF6RW9uNkVXR0Z4VzgxdDg1bTNvdG9FaWpNN2syTFdHUHpmb216aHFiUTdxZElNaA?oc=5>
 
-### 金明日牧师VOA专访揭获释内幕：我获释时中国没有提条件，甚至没有警告
+### 特朗普宣布习近平9月24日访美 人工智能将成会谈议题
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-07-23 23:26
-- 链接: <https://news.google.com/rss/articles/CBMingFBVV95cUxPcnU4RHJuMjNYYzRmR3Y2RzB0YzB5d0w1VEJKOThpZmRvSFBhMHNsMXFkSGVoY2VpaDJRNnZ0dko5ZmxJaUdMalFQS0luaEM0SG1vb1B5SEgxZkkxVU54dlpzOF9rNjhiZ2VvbUMzVmtkd2RjSkJxTEM3X1A3c2FiT3BueWRuMTZiNWJWTlhyQW5UVkpYX0FJWmRZNXBEUdIBoAFBVV95cUxNay1MUmViWjE5enRGLUh3WlVXM05vQzlRdFZhS01Dck5JMkczaW1SdEpOeFpXaVhZNF9tRC1ILUNRcFVoU3ZRWExsZjhsa2hDT3Y0U0JqZWd5TkY4SVNmaDMzMW14QWpTZ1lxODFLSktxRGFnelBINEN1OVd3UWxRM0ZleHNZRUhBSXpabkpMVTZiYWxvZzNBWTZ6Rl9GbHhu?oc=5>
+- 场馆: RFI
+- 时间: 2026-07-23 20:59
+- 链接: <https://news.google.com/rss/articles/CBMi7AJBVV95cUxObVN6YUFNMFdIZGJJeWVqOG5FcnlxM3NIbE56b1J2SHdNREdxZUR5ZjlsZVFXcXBoNUtCcUh5aVBiWVhHQWt6ZlBxa0tKUFhHSDJaTmxUSm9lY0kzWnkyYkRnUy1mOGhEQ25mRy1Dd3NPTHZLbDFVTGs5SHN4aTZ5czA0YzVNdjQ3dmlsQ3AxcnM1MWVsOWVaaWk4ZDBaNzNUZUxsU1VOcnJJbF8zWFlVTURlMThEMVZWeFdMTVlKZUFCV2tXczcteUpheGdyeWd4U2FCX3NXMUJvaG5pd0V6TlJNWnpRbmp6b1ZzaXRzUFEtWXp6QndIZlFxY2FmQjI1MGR1dVZ6SjJWZUZJdlZSSHRNMkxPRDhLOWMxd25sRzVWSzdmdjIyT0d1SW1ySURPbUxsclplLWNvdFhINlpCVGxlY2UweE5JRHhFeFFQNXlVTmhzSmI4clNiSGVneHRoQVBKQUVpTDRmVG85?oc=5>
 
-### 特朗普推出新关税措施，旨在经受住法律审查
+### 特朗普称伊朗将为胡塞武装未来的袭击承担责任
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: 华尔街日报中文网
-- 时间: 2026-07-23 23:14
-- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxNby1hVWt3TUdTWEl2V2llNnNfUE5SdmlGYlBXd3c5RjQwS1hJVF8xMmYtZVEyMVJ1SVNmdWlXSFplQVpSZk51VVdXUm9qRWNZdHV5eTgxWW1XRWt1S3c4cktSenZkSy1WblVGNlFEc011d0ZVOHJfSVFrekVMZVpabTZ5VGN5ZVR6bFVVQWlsWlg5VVJ3NDBadXdxektmNFRv?oc=5>
-
-### Dow Jones Top Markets Headlines at 7 PM ET: Trump Unveils New Tariffs Designed to Withstand Legal Scrutiny
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-07-23 23:00
-- 链接: <https://news.google.com/rss/articles/CBMimwFBVV95cUxPTTFteGlJYmRFbDNNWngxVWh0U1BKbktiYnFFU25UT1dOSVFRZlpPTWVvQTZKUUw2cVRkWGRaMU5jUmF6SkY4LXIyeG5ULXM4UlZWREtXN0FOX1ROTXRrR2wwUEZLd1JMT1czRUh1UmRnNE1EbG9sbEpCNXNSRGVzTmdxUTNLLXJPcElGSVV6NllVNk1keUpjQjZLYw?oc=5>
-
-### 众议院和参议院在限制美军在伊朗军事行动的立法问题上意见不一
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-07-23 23:16
-- 链接: <https://news.google.com/rss/articles/CBMixgFBVV95cUxPa3dtZ0RUdkstNmVrY0E3QmR6bmpDMXFSWGs1bmVEeEF2NDdoZ2FVNFduNFo1VklUM2dtSVlsNXY0OE1kQXlPVEQ1bEZXUVBjNmN1WmxwSEJ1bm42TmllWTRfd0pLWVkxYXhqODFsSlVOVVVld2RUUlc3VEVmSUhjOEF0eHhXWExKMFBfWjdtOHFIZmJLM1NjanU4VDNBYWk1aHhuM2k2aVM2XzZFNVN6YWhncWF3XzJtUGUwNzhIeFl5UzF5VnfSAcgBQVVfeXFMT2FfcDNFWW9OQ09pazJFQmRqLWlGSVVlY1hYUkl6VlgzWGl1VkRhbWdNSVc5Zmh1VllQZS1DZjhWVXRBXy0xdHlOTEsxaVp5NU1DRTFjQzM5SXp4MjlOczBWbkZCZFF2Zm5lRXZxWEQ1bVNrQXI5MElhVXJEelpjdEVhNDdYVWYxdEVBbF9nWVJtSHBoMnN0Q3Z6QXRZWU8xYUc3RGpabW1hb1B2bjFkbUZCV1hzMElGaHBzMUFXS1VTN2h2YkVqck0?oc=5>
+- 时间: 2026-07-24 00:01
+- 链接: <https://news.google.com/rss/articles/CBMiogFBVV95cUxPYlA0c055RVhDR3kwOUZzcC10ZnNMWVp0cElUR2lMbmlWUnZNNkVCUWZtQXdxZ2xLWGZrYjlQLVhEMVlCN1YtcGtWV0R2b2Vib3F0RURwaUxlNHpFMUhpRC1rMjZuWHZIZkxCYTFvLUpFVmpRc2J5djF6OFNpVUJ5ZzI0OEVNSDE2SXRsdDU3eDBpR3pSdE9lSUxrRTR2c1pfWnc?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-24 02:05  (9 条)
+
+- **特朗普** | 涉中国AI，近200家美企创始人致信特朗普 <https://news.google.com/rss/articles/CBMic0FVX3lxTE4tMkdCcUY0eTVHQUt0U01ramJJd0F0ZGQwYzZseGhNV24yYmFHYTJSZk1NOTFvV3gzV0oyaUhJYXlhamY1dEV0RjM1ZDRhbUN6X0xtM1hiT2ZQeGtoalhTNlZ1Q2FIUGJnTUtCTk5KdzdRaTg?oc=5>
+- **特朗普** | 刚签就要黄了？特朗普：核能协议想落地，沙特必须和以色列建交 <https://news.google.com/rss/articles/CBMiakFVX3lxTE1Oakg2eXZ4UjZJclBuMFpHUmQ3a3BpUjlGRGxUcW1lMF9Jb01KWGQ0bExRdFJpLW12SkhfRE1FNEJveXFWcHVndUZfVEJQTV95bnQwMzBQclN3ekpvX1ZKODl5Tksxa09VbGc?oc=5>
+- **特朗普** | 特朗普为沙特核协议设新门槛：需与以色列关系正常化 <https://news.google.com/rss/articles/CBMi4wJBVV95cUxOb3JPSkVieFlHdExYczZFVjNQOGRrV3lVNWNSTmVWYUdhYURmMTIwZmpyMlg5aXBSM1REeEYzT1NvZnlGaDNVMjB1emlONHE1Z2JxU2Q4dFdUcHgtbFRIb3B6ZGNJek1nTGRKeERZaGNDYmdRdFJ1RVlmdVpVcjJiS1ROOWJaYlJVeTFrd0k3UWh3X3NmVExHdVM5S3pmUTJMZ0FQT0NFUi1SVXA2NFhQSGo1NTRwRHU2OUlPUVZIemgwZ2c0U2IzLXhyelVPSVAyT0JyanRNVFg3aktfd2hDaVE4OVN0ZXFmUTVldTVvN0dMTlZ3ZjFqcTdFbEhLUlA0VUFjdEpvTzlhN2ppdGZmVHlzZDBZM0xhbXUtUmhVb3VheDJxZ0JobjRxeVV4NFBySXM5QXVTRVRRT25OWGs1OUJiS2l4Q0t1c2tHb0daT3RGUlVqRXl1TnplTjROSFlvQmF3?oc=5>
+- **特朗普** | 特朗普：将用伊朗资金“赔偿”受损船只和货物 <https://news.google.com/rss/articles/CBMimAFBVV95cUxPeW8weGVGMzV1NHRsSUJQNElZQ2tWVVhWY0dtYmZSeVNLbVZjS2tDVHFzQ1R0SDUxN09xQmt0MVFPVF9oUmJSVDRuSHFNUnRYMGh1SFZXZjU0emFVOUlTUVpRY0RwNjQ4ZDlUbHF6RFpjTXRhRkdISDhxTW5UZ0gyVVZEOTFZcklMNS0zWHBjSV9HcWptWDUzOA?oc=5>
+- **特朗普** | 特朗普称“接近”决定发动“大规模攻击”，伊朗被曝为军事升级做准备、尤其地面入侵 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE43U0czLUFkb0JsSGlxSGRrbTdGNS1MNVdGUGhDM0hacTFwSzN2NlBMbTh1UjNWa1Rodk9Sc2U1ZXR2cndlLTRnSUd2MVpPTmV5MVBB?oc=5>
+- **特朗普** | 特朗普威胁发动空前打击，伊朗、胡塞武装强硬回应 <https://news.google.com/rss/articles/CBMic0FVX3lxTE5IRDVXRnFGZnR2MzZ6V2tGZG1admlabkpKVVVaajRBSmdKd3UzRkd0Z0U1bGR2N3VnN1JLN3hvWnpqeHJNUDdCRS1wdElJeWVrWXIwajVoamtRcVE2UWZHak9OdC1pU3B4XzliVHhQMVhfWm8?oc=5>
+- **特朗普** | 特朗普威胁“军事惩罚”伊朗和也门胡塞武装 <https://news.google.com/rss/articles/CBMieEFVX3lxTE8tLXA4YzMwT2hfX1BKZVZnel9Jdk9SSm92N3l4NUpGeWZNcEg1U3ZRWWpfR2xBQ1lBNW5WM1lVSTZYazZzZHFsMlF6RW9uNkVXR0Z4VzgxdDg1bTNvdG9FaWpNN2syTFdHUHpmb216aHFiUTdxZElNaA?oc=5>
+- **特朗普** | 特朗普宣布习近平9月24日访美 人工智能将成会谈议题 <https://news.google.com/rss/articles/CBMi7AJBVV95cUxObVN6YUFNMFdIZGJJeWVqOG5FcnlxM3NIbE56b1J2SHdNREdxZUR5ZjlsZVFXcXBoNUtCcUh5aVBiWVhHQWt6ZlBxa0tKUFhHSDJaTmxUSm9lY0kzWnkyYkRnUy1mOGhEQ25mRy1Dd3NPTHZLbDFVTGs5SHN4aTZ5czA0YzVNdjQ3dmlsQ3AxcnM1MWVsOWVaaWk4ZDBaNzNUZUxsU1VOcnJJbF8zWFlVTURlMThEMVZWeFdMTVlKZUFCV2tXczcteUpheGdyeWd4U2FCX3NXMUJvaG5pd0V6TlJNWnpRbmp6b1ZzaXRzUFEtWXp6QndIZlFxY2FmQjI1MGR1dVZ6SjJWZUZJdlZSSHRNMkxPRDhLOWMxd25sRzVWSzdmdjIyT0d1SW1ySURPbUxsclplLWNvdFhINlpCVGxlY2UweE5JRHhFeFFQNXlVTmhzSmI4clNiSGVneHRoQVBKQUVpTDRmVG85?oc=5>
+- **Trump** | 特朗普称伊朗将为胡塞武装未来的袭击承担责任 <https://news.google.com/rss/articles/CBMiogFBVV95cUxPYlA0c055RVhDR3kwOUZzcC10ZnNMWVp0cElUR2lMbmlWUnZNNkVCUWZtQXdxZ2xLWGZrYjlQLVhEMVlCN1YtcGtWV0R2b2Vib3F0RURwaUxlNHpFMUhpRC1rMjZuWHZIZkxCYTFvLUpFVmpRc2J5djF6OFNpVUJ5ZzI0OEVNSDE2SXRsdDU3eDBpR3pSdE9lSUxrRTR2c1pfWnc?oc=5>
 
 ### 2026-07-23 23:54  (7 条)
 
