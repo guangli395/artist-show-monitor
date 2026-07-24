@@ -1,62 +1,82 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-24 15:52**
-- 本轮扫到 7678 条, 新增 **6** 条
+- 最近更新: **2026-07-24 17:23**
+- 本轮扫到 7685 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (7 条)
 
-### 最新歌手排名中老牌歌手有哪些占据前列？
+### 英伟达等20余公司警告不应对开放权重模型实施过早限制 特朗普政府内部看法不一
 
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923377_1d5ae16b106801b12k.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-07-24 15:40
+- 链接: <https://news.google.com/rss/articles/CBMiqwRBVV95cUxQZE1vS3V3M1czZ2pWN3UzelJGUk9fQ2xiWUZOaFZUZFNNZDI0SXA0SGZoX1o1SmhhNHBCeVJPek5RdUpYOXBkMlVibVlwQzAtUnF1T0ZiT0RZeFB2YzU2cGVSOUNIbzJxTVN6ZHJ5UFVwTklKOUJYVTZmN1laUVJZbzJ3NENoaEd3a0ZkaV9ETGl1SVhXUUlLZG1YR096SEljRDFnS2d0Ym85X2ZKYWlNbDdUaGVVSlFLYXdwQ2VJTllReWdaX1lfUW9WMGdIRXMwSmdzUmgtQTFJS3JwdUpyMWRJY2R4MTlaZWVYWG5MNG1WWUVJLW5sdmVUeW50WlUyb0RmbVcwS2pHZG5Va3dnZWtlaV9XTjNYVUVOVFNTUGxuOHpZa3RHSnljOUZqRkdjTDhyWVM0NTQ3Q3gtQmZYei1waURiQ3dyRGhNN3RXV3Rna3RwVVp1RXhMT1NkVWpiVXJBLWZBVGEwQ25lMHA5VTV2U0p5R1V1RkVCejJaT0lsY0EzSU9kUUg5ZFM0aDI4dG56c1prQ3RYOG42aEo3c3ZsYzgwa2EtakVhNkEzcEdGbnltODdfSWxEVEN1R05UaE5IY1RiUlpTbGpOZWlUMXl0LTNDVkpDSlJVc2tUTldxMkR6enBheEk3U2xVWFFibmk0OUhFZFBCWXROSHE1RVVTVkh5RURJdnR6RDBucThZZGJFUzhTV2IzVExhTnpSYjZQalpiN09RdVk?oc=5>
+
+### 里维安起诉美国政府，要求全额退还特朗普执政时期关税款项
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-07-24 17:15
+- 链接: <https://news.google.com/rss/articles/CBMimwJBVV95cUxPR1RQVlpNMHFESEtuc1d1S2NTeWphMGhBZEZDOGM3c09HeDUxR1pMaU1NVGYzYUxiME9rc1pvb1Q1eEVrUU1oSVZINHZfUklHc1RMSDQzTU9OM2FaTGNFYmtERjB0MFZJUWhZZm1kdVU3WVVwQVNINWMwNFVycDN5cDhLdTZ6UnREWmY4Wk9Tbk1kV3E0SXo2QU1HWmlwemR3NWFlZzd2TkR3aFl3UVAxUXVxX3JZd051bG9RQVp1WjZvYnpONjd1eFRnLWpEVVIzN0xMVVRQTEI5blRGcU42SFcxY0QxZy1XY2pHdkNCNS0tVmtHUXI4cU5vMVJuVzV2YWZueDZOb284czRDMURBdmlKU2FEWExCb0Uw?oc=5>
+
+### 特朗普称美沙核协议取决于沙特与以色列实现关系正常化
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-07-24 16:55
+- 链接: <https://news.google.com/rss/articles/CBMijwJBVV95cUxOM2t1RDVocThncWdPT2Fsa2lpYzhOQ2daQ0dsMjJTVXBJWW00U0N6VDhyOEF0ekl0dmdoZFd5YzVBa1hOOXFkMGE3Z0ZQQzZoMHJQUXdRZGpuY2JRVEFwQ0VqemFoajNZcE10Z3JldUpVM1NYc3llVUk4SDBidkN0ZXhnRzBjY29FVkZmdVNIb2tTMnhud043RDBvVVg3T0dVWC1Ma1hDY3NfUUMwNnF3N2tBZXhUYUFJVXQxVGU3U2ZjN1hJSnhDMjd3Rno4X05pYzdSaEstbnVUX3ZnSHpleUw2ZGRFLW1SMmJ2V1hib0VCX3c4MHBSREt2MC1tdXFqQU9uZ0FSNXdXR1dHVy1r?oc=5>
+
+### 特朗普24小时内“手撕”美沙核协议背后：白宫甩锅能源部长，内塔尼亚胡被疑“最后一分钟干预”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-07-24 14:32
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE9rOVN5YkhJMklBTXBCS25hUlppMjlHSEt0Z3ExdjVVQ3F2VVVwblVMOExMY3QwWnNuYmhaWHJXS09TSTRBWF9OMkRKYWRPeFVyaG9yQUlOTDQxTjdCdVE?oc=5>
+
+### 特朗普：正“认真考虑”重启对伊朗大规模作战
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-07-23 23:40
+- 链接: <https://news.google.com/rss/articles/CBMizAFBVV95cUxOVW5ha0JrRVJ1dV93aEJzVkd0RFp5aTA4QTlzQ1ZNWGszNGZHenZqc2Y1eDhrUTNPSFhXeGhOTHh5clNRdXhZSjFPeWQ2dTdZeXRkVmQ2ZDV4bkdEb2s2OWliTV9IdXlmLXVDZ2o5T0RNVE9Yekw2Z25SaFB6c1pGZEc1LS00dXBqVnNpNURPMTJJZldwVUt3NW1xUkdjSzVQSHVoY2tIWnAzVElHODUyZmVPZ1NCaUZhblp4eFc4SHhQX0c1WnlfaHNwbXk?oc=5>
+
+### “特朗普家族已造成‘不可挽回’的破坏”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-07-24 11:28
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFAxUzlmX0VsTldWVFlTNnhGWXBqcnB6Uk5laElGWm5ZNWNpQ05sWS1IVFAzMDQ4UTFSTzVxYk44NHR1TFpyLXJxZC1GTmQ1UmJSOWluUFcxUzFXaVlMSEI1QUpqd3NNNkt4ckE?oc=5>
 
 ### AI数据中心扩张推高电价，特朗普欲推动企业承担更多成本
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-24 14:37
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBNWk5JaUVGUHZRQ2ZNNXlkYnp1eE5XcDlBVXNTekNyQ2stZnR1a1c5X3c2YXN0c29MM3Jpd0ZReVVkeW1iWjh3SUtXMTVQZDJRUW1WRXBQTFJzM01peVQ3bWpQenJzYzZvcnFJMDBseVI5dW9nQXplQw?oc=5>
-
-### 特朗普称正“认真考虑”重启对伊朗的大规模作战
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-24 15:32
-- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxNb1Q2dlhqOUdHeG9WSk5hS2l0QXJQdHZiY2cyTjBoWlhlR20xX1d5cUhfcUFlZE1jTFRFV2ViekdjY3ltbjBSQy1TZnh1TmRIR05aNmk1aFI3SlF3dTBVd0F3VTZiSl85UEVmeWlhWlNmSzUtMFFnT2dTMFc5MW1ldmlrTzlmV3lEMjhsM0pUanNfcmVhamhqSHUtcXRSTEFaUTlGSjFzT2VsdVU2cGIzTjliNGxTSEVuVGRadFJMNGkwbWsySXMxYWhwNHcwUHM?oc=5>
-
-### 伊朗拒绝停火提议！特朗普：认真考虑对伊大规模作战
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-07-24 09:02
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xZUFiQk9fbENRMkpQbjJNV21JWlp3TUhyZGFHdno4WWxYMUx2TEctOU10NGlBVU5BdHV4cXpMUXZxN1RJTE5mb2hoa1dyQkFEWGZIalJZRVlNeVJUOWRheA?oc=5>
-
-### 给沙特拥核开绿灯 特朗普开极坏先例
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-07-24 13:51
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE1HY3V6d282cmpYdHdnNlU1WkdjWWdvRjlSMUtNdjF5WXZBNHgtWlJITmFJalJxbkVySHhZY3hqSmRDQ2NKcGYxZ3VpT2FUcFlHbjR6MG9QS3AwdDJheThWZTBNR1Vpemk5dzlXbFhkTENkUQ?oc=5>
-
-### 以总理透露说服特朗普打伊朗细节：带7张幻灯片当面展示
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-07-24 11:26
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1nakZKZ2xQSGplcFZMc1NLX19PdE82c0RVbmFVZWE5d3BRS09zODgzV3ZDbmtydzhGSG1oSGVndThQTmp4MEUzU1JzY1FELUtyZHpWRnk0OVhWZzItX2d2UFRydTA?oc=5>
+- 场馆: thepaper.cn
+- 时间: 2026-07-24 10:46
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE5JLW83bHpzT1VSZHRKNXp4LUxLOVpJWUpoeVlWTXd4VUdudlZtaXl1Z1BndDlheW0xZnhoRW5Zd2NTSWRNTGlWVk92ZGxISk9fMm1pbGliR1Nqb3hXR2c?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-24 17:23  (7 条)
+
+- **特朗普** | 英伟达等20余公司警告不应对开放权重模型实施过早限制 特朗普政府内部看法不一 <https://news.google.com/rss/articles/CBMiqwRBVV95cUxQZE1vS3V3M1czZ2pWN3UzelJGUk9fQ2xiWUZOaFZUZFNNZDI0SXA0SGZoX1o1SmhhNHBCeVJPek5RdUpYOXBkMlVibVlwQzAtUnF1T0ZiT0RZeFB2YzU2cGVSOUNIbzJxTVN6ZHJ5UFVwTklKOUJYVTZmN1laUVJZbzJ3NENoaEd3a0ZkaV9ETGl1SVhXUUlLZG1YR096SEljRDFnS2d0Ym85X2ZKYWlNbDdUaGVVSlFLYXdwQ2VJTllReWdaX1lfUW9WMGdIRXMwSmdzUmgtQTFJS3JwdUpyMWRJY2R4MTlaZWVYWG5MNG1WWUVJLW5sdmVUeW50WlUyb0RmbVcwS2pHZG5Va3dnZWtlaV9XTjNYVUVOVFNTUGxuOHpZa3RHSnljOUZqRkdjTDhyWVM0NTQ3Q3gtQmZYei1waURiQ3dyRGhNN3RXV3Rna3RwVVp1RXhMT1NkVWpiVXJBLWZBVGEwQ25lMHA5VTV2U0p5R1V1RkVCejJaT0lsY0EzSU9kUUg5ZFM0aDI4dG56c1prQ3RYOG42aEo3c3ZsYzgwa2EtakVhNkEzcEdGbnltODdfSWxEVEN1R05UaE5IY1RiUlpTbGpOZWlUMXl0LTNDVkpDSlJVc2tUTldxMkR6enBheEk3U2xVWFFibmk0OUhFZFBCWXROSHE1RVVTVkh5RURJdnR6RDBucThZZGJFUzhTV2IzVExhTnpSYjZQalpiN09RdVk?oc=5>
+- **特朗普** | 里维安起诉美国政府，要求全额退还特朗普执政时期关税款项 <https://news.google.com/rss/articles/CBMimwJBVV95cUxPR1RQVlpNMHFESEtuc1d1S2NTeWphMGhBZEZDOGM3c09HeDUxR1pMaU1NVGYzYUxiME9rc1pvb1Q1eEVrUU1oSVZINHZfUklHc1RMSDQzTU9OM2FaTGNFYmtERjB0MFZJUWhZZm1kdVU3WVVwQVNINWMwNFVycDN5cDhLdTZ6UnREWmY4Wk9Tbk1kV3E0SXo2QU1HWmlwemR3NWFlZzd2TkR3aFl3UVAxUXVxX3JZd051bG9RQVp1WjZvYnpONjd1eFRnLWpEVVIzN0xMVVRQTEI5blRGcU42SFcxY0QxZy1XY2pHdkNCNS0tVmtHUXI4cU5vMVJuVzV2YWZueDZOb284czRDMURBdmlKU2FEWExCb0Uw?oc=5>
+- **特朗普** | 特朗普称美沙核协议取决于沙特与以色列实现关系正常化 <https://news.google.com/rss/articles/CBMijwJBVV95cUxOM2t1RDVocThncWdPT2Fsa2lpYzhOQ2daQ0dsMjJTVXBJWW00U0N6VDhyOEF0ekl0dmdoZFd5YzVBa1hOOXFkMGE3Z0ZQQzZoMHJQUXdRZGpuY2JRVEFwQ0VqemFoajNZcE10Z3JldUpVM1NYc3llVUk4SDBidkN0ZXhnRzBjY29FVkZmdVNIb2tTMnhud043RDBvVVg3T0dVWC1Ma1hDY3NfUUMwNnF3N2tBZXhUYUFJVXQxVGU3U2ZjN1hJSnhDMjd3Rno4X05pYzdSaEstbnVUX3ZnSHpleUw2ZGRFLW1SMmJ2V1hib0VCX3c4MHBSREt2MC1tdXFqQU9uZ0FSNXdXR1dHVy1r?oc=5>
+- **特朗普** | 特朗普24小时内“手撕”美沙核协议背后：白宫甩锅能源部长，内塔尼亚胡被疑“最后一分钟干预” <https://news.google.com/rss/articles/CBMiXkFVX3lxTE9rOVN5YkhJMklBTXBCS25hUlppMjlHSEt0Z3ExdjVVQ3F2VVVwblVMOExMY3QwWnNuYmhaWHJXS09TSTRBWF9OMkRKYWRPeFVyaG9yQUlOTDQxTjdCdVE?oc=5>
+- **特朗普** | 特朗普：正“认真考虑”重启对伊朗大规模作战 <https://news.google.com/rss/articles/CBMizAFBVV95cUxOVW5ha0JrRVJ1dV93aEJzVkd0RFp5aTA4QTlzQ1ZNWGszNGZHenZqc2Y1eDhrUTNPSFhXeGhOTHh5clNRdXhZSjFPeWQ2dTdZeXRkVmQ2ZDV4bkdEb2s2OWliTV9IdXlmLXVDZ2o5T0RNVE9Yekw2Z25SaFB6c1pGZEc1LS00dXBqVnNpNURPMTJJZldwVUt3NW1xUkdjSzVQSHVoY2tIWnAzVElHODUyZmVPZ1NCaUZhblp4eFc4SHhQX0c1WnlfaHNwbXk?oc=5>
+- **特朗普** | “特朗普家族已造成‘不可挽回’的破坏” <https://news.google.com/rss/articles/CBMiakFVX3lxTFAxUzlmX0VsTldWVFlTNnhGWXBqcnB6Uk5laElGWm5ZNWNpQ05sWS1IVFAzMDQ4UTFSTzVxYk44NHR1TFpyLXJxZC1GTmQ1UmJSOWluUFcxUzFXaVlMSEI1QUpqd3NNNkt4ckE?oc=5>
+- **特朗普** | AI数据中心扩张推高电价，特朗普欲推动企业承担更多成本 <https://news.google.com/rss/articles/CBMiXkFVX3lxTE5JLW83bHpzT1VSZHRKNXp4LUxLOVpJWUpoeVlWTXd4VUdudlZtaXl1Z1BndDlheW0xZnhoRW5Zd2NTSWRNTGlWVk92ZGxISk9fMm1pbGliR1Nqb3hXR2c?oc=5>
 
 ### 2026-07-24 15:52  (6 条)
 
