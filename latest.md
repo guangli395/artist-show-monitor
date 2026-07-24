@@ -1,64 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-24 18:54**
-- 本轮扫到 7691 条, 新增 **6** 条
+- 最近更新: **2026-07-24 20:14**
+- 本轮扫到 7692 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (1 条)
 
-### 特朗普出台全新全球关税，招致各贸易伙伴谴责
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-07-24 12:50
-- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxOSEFGdnRlZ1NITEVjbmo5SVJTMTJFVksyM3E0MXZjOXZyTDg5WGh0YWhNZG9DME1xSzZXZ2k5N1hLMEhIaWJOTGpSenBFRDlEa19jejlYLWRPY2d2dEF2Rm0yS09NR0JxalVmTGdpaDh5WnBDQ1I2bzR0bkZ6eXRXQnNKMi1iZzlTZGc?oc=5>
-
-### 里维安起诉美国政府，要求全额退还特朗普执政时期关税款项
+### 特朗普预警9月政府“停摆”，美国两党又演“预算”拉锯战？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-07-24 17:37
-- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxNXzRqOFYtV210eU9lMF8zeURDMEFETFlMa2lWaDk4WHFiVHBta3BZV1I4eEFKYno2amVCMXpGNEZqUW5yNXEzQVpVemRjSmJpbVhObHJhczl5Ull4eFpTbnY0UXA5SERVQi01Sngtdl9YM0ZNaFFQeUFJQWo2eGwwQ2pCUTF0aWd0Z2c?oc=5>
-
-### 美官员：特朗普与泽连斯基将在华盛顿会晤
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-07-24 13:30
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1EMDNqZm5ocWVDV3R5dldUWFM0RFU4ZnZGMENzUlVmNDg1WERTWUNQOS1CcThWVUU1V3l4OVljSXF6VWFTQVlTa09RSG1kQy1HWnFwc011YVlzZUUyNzEwVElqSjM?oc=5>
-
-### Trump Threatens New Tariffs on EU Over Tech Fines -- WSJ
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-07-24 18:32
-- 链接: <https://news.google.com/rss/articles/CBMiogFBVV95cUxQUHBNUDNxeFUwNmt1VGRKYUdlZE5zUE5ZeDZYcXlTeUxoczM5c1liLWZoLUduQ3VvcDVLOFJPc0FGdG5SVGNPU0pFdnZjQndlQlVfTU9wUmROUTBNdDZGaTlHQTdvOG5oLTNTaEcwblJDN29KWFRSU0xrVWpxOFlWYzNsVDhYUUExVndWZEFCSTMtM3dzNGxpUXdueF8yUEc2S3c?oc=5>
-
-### 特朗普总统：俄罗斯和中国承诺不向伊朗出售武器
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-07-24 18:27
-- 链接: <https://news.google.com/rss/articles/CBMitAFBVV95cUxPWHBCRTZhZVpoSTF4dS0wUThmUVNvVFAzOHRDQVk0T0diNnNDZ01CdldRbHhMUU03X1ZXSmlMajFiejI4VHdINjkyQ1dVeFptMlNsREJRWTltd0NiYVRBMWYzbU9SRFFBa2tYUlpYZk84TlhXUkduVnhNN3FRMmVCTG1RRUlMMnZjeXhQWlpaUmJ1UE9DTHpac3JFZ2lCM0tYM1FFb0wtQktEM1YyeWpwN2FuREzSAbcBQVVfeXFMTkQyaHhFWkRFeHJDR1FzdUE1cHhJbzVGRFRNVTJEZWJ2ejdkVzJaRVBTZ3FhNC1fNktxUE5LSVdEdEtvZmNhUmZBcVZJaF9vZVNhWjRETkdpR0hkZGQybXpxVjNsb0dNWVhrMXVjV1IwM2lTaE5IaExPVmczdG40b2RiU2tCcWRsZlV6akRVLTAzOWxtOUFfWmdxYWxoZnNmd3Z2RjB0M3VEQk1IMW5rRy1TblFOeUNz?oc=5>
-
-### 特朗普政府启动301条款调查，针对欧盟对科技公司开出的罚单
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-07-24 17:25
-- 链接: <https://news.google.com/rss/articles/CBMisAFBVV95cUxNUFFsMGNJX0NOaVFmMVpSejYtSXVXWmdKSjNoZkxHY2VLeUUyX2pUT2lBdGVZR3FZSWhfWlZfUXRucmFNeGUtX3dyZ2xGYU8xOWJ2ZGVDQ3NOcDd2dEpxWGhQdm5Pb3p5eWJpdVlEX3h4bERCaDd2ZTJ3d3BqbzJUaGQyTm1fOU5ZUTFadjljNHFnU3BsMU9PcHluY0FNM2J2dmJCRUw4YXItMkI4Q1VsQg?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-07-24 17:16
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFB5WllVTUhzcXZ1QUgyZTI3VjFoSEEtLThVbnZFZTRSV0djMGpfX19nM1h3aGFfX1ZEZkNkQ3RFVnlQVmREdXZsMWtteUM?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-24 20:14  (1 条)
+
+- **特朗普** | 特朗普预警9月政府“停摆”，美国两党又演“预算”拉锯战？ <https://news.google.com/rss/articles/CBMiTEFVX3lxTFB5WllVTUhzcXZ1QUgyZTI3VjFoSEEtLThVbnZFZTRSV0djMGpfX19nM1h3aGFfX1ZEZkNkQ3RFVnlQVmREdXZsMWtteUM?oc=5>
 
 ### 2026-07-24 18:54  (6 条)
 
