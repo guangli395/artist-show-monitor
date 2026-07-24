@@ -1,72 +1,73 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-24 10:31**
-- 本轮扫到 7660 条, 新增 **7** 条
+- 最近更新: **2026-07-24 12:15**
+- 本轮扫到 7666 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (6 条)
 
-### “特朗普与马科斯通话，保证对华提出菲方关切”，外交部回应
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪军事_手机新浪网
-- 时间: 2026-07-24 09:11
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFBCZGhIU09yVW8tVlc5RkVJUFFEU2t5T2xJYW9JZmlJcGJ3al9VSWlIOVEwNEUyN2tvYi1vOXZnQldvWTJoM0hXNXhkOUFTaUs5SC1KcDZBYkZ3S21tZ09OUTZjZ25VSF9xT1pPWUs3eFdMMGc?oc=5>
-
-### 特朗普：拿伊朗资金赔
+### 特朗普之子入局机器人赛道？联手AMD开发新一代人形机器人
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪军事_手机新浪网
-- 时间: 2026-07-24 09:39
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE96V0xpVzk4TmZPdzJkU2J4Uk9HTlhEeUNOeU1WYjRGTXpyV1JVdWVaMlJkMTN4NVJHV3p6MXVJVFpXbmdHb1E1UHJ4TDdCWUNpNUJIWXN1a1l1TE9iczhsUHZORU1BaW5GeUNzU3ZKekNzUFU?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-07-24 12:02
+- 链接: <https://news.google.com/rss/articles/CBMisgFBVV95cUxPUl84ZlRVNU9lSUpMN1hZa1BSLXV2VkNpSDJCLU5oSHBUdUxpYVd2eHYwd1E2ZkZ1TXY1VTg5d0JHTHllbGJaLVlHS3VuVE00Y3l1cFphalNWaHd5N0lRME5sSE5FNVBHODZfa0V0LXQ4ZVJadHliQlFKaEtqWkdLOWRtTnozZ2pKdHFsZ0dOQlBkci1TTmNZNVJqU1I2ZS1MOHhpdnN3M2l6aDdTeGwyR3lR?oc=5>
 
-### 废除近20年防线！特朗普私批核协议，中东爆出惊天大瓜？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-24 08:46
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBxeW9ETm9fTEQ2NWlBU2JhaXhkWEZIay1kSzBUc3U0cnVjQXgxSDBKVnNpVHZLbmgxbG1Nc2hlMGVzdFg1ZDM2SlJCaw?oc=5>
-
-### 美国施压沙特：要么“入群”， 否则核协议“作废”
+### 特朗普称正“认真考虑”重启对伊朗的大规模作战
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪军事_手机新浪网
-- 时间: 2026-07-24 10:11
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1FTmpoVlhCUDNLX3djSHZWT05VWWRwZVZiaFlFd1dudzduZ0hxMTc2MzVHZmxBR2ExaWtWZjVKTVFSWm93Tkh1WVhqT3FNRWZxeVQxOE5RUlRsUHRpM25seTVYM3dhQVpFSUcwdGRZTDVGbXc?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-07-23 15:30
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSDNKejhFMEhkdFAycFVHVTI1MzZDZzd6X1JpUjZMUVc1LWJoamFtY0wzd0R6WWNCbDhwdm54TU5KNk43bzFkT3pyZjMyQkdxem93RlBxUmp1SEJqdjhJMGxsOVlaUUl6eGYxb2xsaHUyMEdFUkdFTDVzNkxHeDFIa21Lc1g5aWE4eVpaYTktbGlleldfRXM3UldLeXU1RDNTeXAtRVN0VjdNNWoxRHpKUVNaeE1QWjdtQlE0TWlmVnZVUEl4dlZhRlpfWXZzeENn?oc=5>
 
-### 特朗普狠下重手：仿制药加征100%关税！
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机网易网
-- 时间: 2026-07-24 09:58
-- 链接: <https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rTzZjXzNSN2dVX2p6RVhHb1ZxRjBtcF9jQ3NTcTlxd1NCXzZwQ3pTNGlpNk5zSHhyNzdqaFFEYi1BSUdTMl9ia05lRVpsMTAtcEdMOA?oc=5>
-
-### 特朗普：正“认真考虑”重启对伊朗大规模作战
+### 美国专栏 - 军费暴增、伤亡攀升、国会分裂 伊朗战争代价全面浮现
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华报业网
-- 时间: 2026-07-23 23:44
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTFBVV09FM3NYSkwyY0FQSm5nQU9DVTRyc0NvTVdlMW82Smw3WUp3YjBIQlEyTW1HREZhX1JkQXVOS29QUmxmTDNhSzl5bkhwLUNrQ3NKa0lyLVRQbkRNVThLN2hKUm03bnlnbnFz?oc=5>
+- 场馆: RFI
+- 时间: 2026-07-24 10:40
+- 链接: <https://news.google.com/rss/articles/CBMitANBVV95cUxQWkNrTDlYbWhWa2g2Y1FPeC1zQmQ4OWxnZVdzTE9DMGFtSTBrTU44Vms4TXZVb1l4a2lHR0cwRmVfVWM0ZERFdDVpa1Bxa0VKY2NkU0JZREZCT0ZoRDlaUjI3bjNmZVRKMEw3YTFzMTZuV0ZXdTdyaVlaN2lseVJUdGNCLVVtY2Y4b2hFWTFRNEJzR3h4OGJBREt1azItY0h4SFNKYU9mUmdUZnFVV2tVaHhFM3dsN0FBY1RSdlRNV09FT2x2S0R1dVdEQWg2X09fclRQZ2dpSFdua2RiWTBPVkxIMmZ5V2ZZWU41Q2daZ2IxSWNwaEY4NWplT1cwNUF4c0RYLWZTUEJMOE45Q2s5RHFWQ0tqTlVXSVdlb2duN2JrTHpfbjVIV0pveXpicTU4TllxajZoV215aEpoVmZzVi1pd1VOdURFQnZ2bEZTbDM0WTVVRDZnM0FxVUt0T1k5OFF0WEJjLTZCRHBYb2NuMlZUckJHZDhISXVnOHJicDNKTDZITFZXcWZ3dWU0Vm1kY2x3LWFKa2ZqbVFZaThBYmJINlUzMmNRbzNQWS1UMm0zeE41?oc=5>
 
-### 特朗普背书、亡兄同情分加持，这位新参议员却面临败选风险
+### 特朗普对60个贸易伙伴征收针对强迫劳动关税 北京：反对单边关税措施
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 手机网易网
-- 时间: 2026-07-24 09:27
-- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE9OVzhDR0hmYjBfd0JBalRoUFFTdUxwd01ncXAyVkdaZ05RQU5QU2RLZ2VsNThFTmRVQmx5a01RdHpyZGRFZjBONEo5WWNYd1E3d21Tb1lRMHhOQ21pYlpPZkFB?oc=5>
+- 场馆: RFI
+- 时间: 2026-07-24 08:59
+- 链接: <https://news.google.com/rss/articles/CBMiwANBVV95cUxNVEpXOVpHdFVUXzZTVlVGLUNpemRlWGh1YzdKUzljWkZaYUtheDAtc3BpNXRISEgxN3RfWW5mM2dmbkhERTdSSXpBOG1VMVhOaUhJbV9VSU9IMTIwazdLTXZtNVdyQ3JYc0JGVFBtY1dhQWYxV2xpUmdQOG1mczNNeEpXanowTjBldzU5RkdWOFdvREpkWnZEOHlXRlh3TjhUVTlTQ3g1d3JwTFpQb0ZDMDl1NWpyc2dGc2JZc01iamVNRkxmVGM5YWNYdE9zb1hzOEtsdEFvOVNBNkVmNk5peHRqU1IyOHM2bTkwbXJkdEtNUXNJT0lIVkRYeS1sNUFrVFZTYnBEQmZST1ZrSWp1NXpkdkx0Yk9KVTVEUjZTVlhxLVdCY2MyRFRvNHc3b0dpN2c0amJIdFNibXJQVzVsd1B3MzdCalhEV2JyU3dIc3RxQlgyTHZJMndEOTQtUjBTRGxOQm00U0tsbmpJRzFZdy0wcU5EdlBJd1pvd2JORVBYSkZudWRkd202NGFES3k3OG1hcEFvdGZsdG5Sb3lpa0hsMjBVVHItbk51d29CZm45X2c1NFlaSlVLc3lIZ0Zf?oc=5>
+
+### 特朗普：习近平9月24日访美 两人将讨论AI课题
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-07-24 00:03
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9HMlhLZXNKZEs3cnkwYXdIX3NmYUt0eDluOXltcjgzcUFnbDdDMjdSRUxjc3FRb0otSkZtb2xzNllkMXltOTMta2twdTg5ay1JUjhBU1hrSE54ZFV0dk5iRjdCYS1wZw?oc=5>
+
+### 特朗普施压沙特正常化与以色列关系 美沙核协议前景不明
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 财新
+- 时间: 2026-07-24 11:22
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9BSEw4a1U5S1poTXJCaU9uSFlWWTdsanVreF9jU2pnTlNlbWJycU9Rc0lOUlpEbEFybXEzcVJ5RnBFZ19wbGt2TmQtZll2RFktVkhDVTFUek56UHRrTFVwUzdNbHJuU2VZSHc?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-24 12:15  (6 条)
+
+- **特朗普** | 特朗普之子入局机器人赛道？联手AMD开发新一代人形机器人 <https://news.google.com/rss/articles/CBMisgFBVV95cUxPUl84ZlRVNU9lSUpMN1hZa1BSLXV2VkNpSDJCLU5oSHBUdUxpYVd2eHYwd1E2ZkZ1TXY1VTg5d0JHTHllbGJaLVlHS3VuVE00Y3l1cFphalNWaHd5N0lRME5sSE5FNVBHODZfa0V0LXQ4ZVJadHliQlFKaEtqWkdLOWRtTnozZ2pKdHFsZ0dOQlBkci1TTmNZNVJqU1I2ZS1MOHhpdnN3M2l6aDdTeGwyR3lR?oc=5>
+- **特朗普** | 特朗普称正“认真考虑”重启对伊朗的大规模作战 <https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSDNKejhFMEhkdFAycFVHVTI1MzZDZzd6X1JpUjZMUVc1LWJoamFtY0wzd0R6WWNCbDhwdm54TU5KNk43bzFkT3pyZjMyQkdxem93RlBxUmp1SEJqdjhJMGxsOVlaUUl6eGYxb2xsaHUyMEdFUkdFTDVzNkxHeDFIa21Lc1g5aWE4eVpaYTktbGlleldfRXM3UldLeXU1RDNTeXAtRVN0VjdNNWoxRHpKUVNaeE1QWjdtQlE0TWlmVnZVUEl4dlZhRlpfWXZzeENn?oc=5>
+- **特朗普** | 美国专栏 - 军费暴增、伤亡攀升、国会分裂 伊朗战争代价全面浮现 <https://news.google.com/rss/articles/CBMitANBVV95cUxQWkNrTDlYbWhWa2g2Y1FPeC1zQmQ4OWxnZVdzTE9DMGFtSTBrTU44Vms4TXZVb1l4a2lHR0cwRmVfVWM0ZERFdDVpa1Bxa0VKY2NkU0JZREZCT0ZoRDlaUjI3bjNmZVRKMEw3YTFzMTZuV0ZXdTdyaVlaN2lseVJUdGNCLVVtY2Y4b2hFWTFRNEJzR3h4OGJBREt1azItY0h4SFNKYU9mUmdUZnFVV2tVaHhFM3dsN0FBY1RSdlRNV09FT2x2S0R1dVdEQWg2X09fclRQZ2dpSFdua2RiWTBPVkxIMmZ5V2ZZWU41Q2daZ2IxSWNwaEY4NWplT1cwNUF4c0RYLWZTUEJMOE45Q2s5RHFWQ0tqTlVXSVdlb2duN2JrTHpfbjVIV0pveXpicTU4TllxajZoV215aEpoVmZzVi1pd1VOdURFQnZ2bEZTbDM0WTVVRDZnM0FxVUt0T1k5OFF0WEJjLTZCRHBYb2NuMlZUckJHZDhISXVnOHJicDNKTDZITFZXcWZ3dWU0Vm1kY2x3LWFKa2ZqbVFZaThBYmJINlUzMmNRbzNQWS1UMm0zeE41?oc=5>
+- **特朗普** | 特朗普对60个贸易伙伴征收针对强迫劳动关税 北京：反对单边关税措施 <https://news.google.com/rss/articles/CBMiwANBVV95cUxNVEpXOVpHdFVUXzZTVlVGLUNpemRlWGh1YzdKUzljWkZaYUtheDAtc3BpNXRISEgxN3RfWW5mM2dmbkhERTdSSXpBOG1VMVhOaUhJbV9VSU9IMTIwazdLTXZtNVdyQ3JYc0JGVFBtY1dhQWYxV2xpUmdQOG1mczNNeEpXanowTjBldzU5RkdWOFdvREpkWnZEOHlXRlh3TjhUVTlTQ3g1d3JwTFpQb0ZDMDl1NWpyc2dGc2JZc01iamVNRkxmVGM5YWNYdE9zb1hzOEtsdEFvOVNBNkVmNk5peHRqU1IyOHM2bTkwbXJkdEtNUXNJT0lIVkRYeS1sNUFrVFZTYnBEQmZST1ZrSWp1NXpkdkx0Yk9KVTVEUjZTVlhxLVdCY2MyRFRvNHc3b0dpN2c0amJIdFNibXJQVzVsd1B3MzdCalhEV2JyU3dIc3RxQlgyTHZJMndEOTQtUjBTRGxOQm00U0tsbmpJRzFZdy0wcU5EdlBJd1pvd2JORVBYSkZudWRkd202NGFES3k3OG1hcEFvdGZsdG5Sb3lpa0hsMjBVVHItbk51d29CZm45X2c1NFlaSlVLc3lIZ0Zf?oc=5>
+- **特朗普** | 特朗普：习近平9月24日访美 两人将讨论AI课题 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9HMlhLZXNKZEs3cnkwYXdIX3NmYUt0eDluOXltcjgzcUFnbDdDMjdSRUxjc3FRb0otSkZtb2xzNllkMXltOTMta2twdTg5ay1JUjhBU1hrSE54ZFV0dk5iRjdCYS1wZw?oc=5>
+- **特朗普** | 特朗普施压沙特正常化与以色列关系 美沙核协议前景不明 <https://news.google.com/rss/articles/CBMiakFVX3lxTE9BSEw4a1U5S1poTXJCaU9uSFlWWTdsanVreF9jU2pnTlNlbWJycU9Rc0lOUlpEbEFybXEzcVJ5RnBFZ19wbGt2TmQtZll2RFktVkhDVTFUek56UHRrTFVwUzdNbHJuU2VZSHc?oc=5>
 
 ### 2026-07-24 10:31  (7 条)
 
