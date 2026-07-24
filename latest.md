@@ -1,102 +1,80 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-24 05:34**
-- 本轮扫到 7646 条, 新增 **11** 条
+- 最近更新: **2026-07-24 08:14**
+- 本轮扫到 7653 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (11 条)
+## 本轮新发现 (7 条)
 
-### 广州20+场演唱会官宣，高热度演唱会接连上演
+### 一大批演唱会官宣落地广州
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://video.sina.com.cn/p/finance/2026-07-24/detail-iniiwrap1747488.d.html>
+- 链接: <https://video.sina.com.cn/p/finance/2026-07-24/detail-iniiwvke4400598.d.html>
 
-### 特朗普拿“镐山”做文章搅动中东
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-07-24 04:51
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE8tdTdNSU01clpaU2NzaWVmZjRUQU9aLV9ibGcyOXpjck5XcUk1NmdGQzlhb240dWg5RFJPUTBaaDJ3STFpSGRXbkhGeTJfRlNUa2JRaVVZYmFIeXZhR0x5M0drLU9qaG1FSHAwWDFzMS1PUjJwQUV6Zw?oc=5>
-
-### 美25州起诉特朗普政府 反对将救灾资金与选举制度改革挂钩
+### 美参议院否决限制特朗普对伊战争权力的决议案
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-07-23 22:07
-- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxQZVY3eU8yTlhRWmVabDE2WGtUbHJEUTQtNVdNUTZRTmg4Q29NM1NtSnhkSDFFanI1Wm9QeXk4OWc1cnVIVWgwLTZnSEx2MGxHSWxEcDctbzBCYXgxTi1reTI5d2JsdGltdkEwU3JSZ1Bzb2IxZWdMOGZ5NTVaQ2psUHlETVZXWTM4VGcyblI2TnJMMHJw?oc=5>
+- 时间: 2026-07-23 16:34
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE5MMHgwNjNrdVpKM2hXTFFhQS1hckk2Qk5IZExSU2dBVjZnLTBHYktKNHBLUFdETW9aT0w0c1hmbjUzaHEydmYza0Q2cm0tdFNNUEU0bVNsQlV4STlhMlU0QXhBaTh6TWJSOEFXZmM1ZW5ZaGJE?oc=5>
 
 ### 特朗普称正“认真考虑”重启对伊朗的大规模作战
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中国青年网
-- 时间: 2026-07-23 22:16
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1OMndBOEM3SnRrTmdYb0QwOWJLQ2VqNHIwX3VWVExRd2YxczlHWjRUZmhCZjF3NWF2TXV5cUEzeTBQOHB4emVweUZjRF9QaDR1Q3BMeUhoR2FYMnFWUjVlUDNtd2g?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-07-23 15:30
+- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxPTV9lXzdLeFk3REgzRkdUSDF2dW9QMEZReVA4NFFsbDZmbnI4Q1NGSXhpRFlOc21ubzhlMXBrenVfNTNJRVZEYVk0dUxhNkJ1djBmcFRQRG9LLVk1dHpXR19YaEV6NzFzbWNZdmFHMjRZbzlRbmRja1ZOU19MdG9TXy1LMjNtR09HbUNEWGFnOTdmbWJWUGE5cFdMVk1mbVRCZGNlVVJiTk0tbXlsa3RvWVJqa0JsRWlZRTJLWDlZb1hBZjlCU0JWZC1UUzdMZGc?oc=5>
 
-### 今夜大变局，全线跳水，特朗普重大警告，美股、黄金、白银崩了
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-23 14:58
-- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE40dFlPWnFjVWlxSDRjSEF6MndOYlc5YnI5X2VMOGtKeFpUZmt2eHBqVXZENFMtVUlFWGFUN3JXSXM2VUpuMlp4THBid25lWlJ0?oc=5>
-
-### 特朗普政府宣布对60个贸易伙伴征收10%至12.5%不等的新关税
+### 特朗普：若胡塞武装再袭船 美将采取军事惩罚
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中国日报网
-- 时间: 2026-07-24 00:12
-- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE9lc0M4Wm1lT1RNS0h4ZnJRelFSTUVMVXZyQXhGNzN0WkJWR2U4MGQ4QTNDWTNxZ0pQRGw1aklpcmdaaTcyZzYwTlJtYV9uRVpTTE9zc2xKbzEtbWVLM2I4al9OYzBmMGc0ZGY4akZ1WW9tUHU0Y1E3S3NibTc?oc=5>
+- 场馆: 新华网
+- 时间: 2026-07-23 12:26
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE4xc1VOM0VwRldrb2VxSk9KUURsWUtEdmwzVGg2MmpPcW83Sy1Ubi1OUmlMbWtDZy1Wa1BhZW9aVFZqdTRpOW9FUjBLcHZBd01kT1pDcUVFcW9JM3lsa1ZjcEFqYmFXLUR4ak5ZcDhzUWZrck9aMUFIUFJRNjlIaGc?oc=5>
 
-### 特朗普：正“认真考虑”重启对伊大规模打击 接近作出决定
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-07-23 22:47
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFByeTc2akUweEU0S3d6Z3VpM3ZORmRMd1ZlS1hJUTdCZVUzaTR5OGxmNTJ6aGI3UFdRdlhiY2hTVkFISmswalJ3bHZzSUpCUXdNQUJUTFUwN3VnX2Jaa2NKZWVUQ1p4S2kt?oc=5>
-
-### 美国以“强迫劳动”为由徵新关税，影响中国、台湾等60个贸易伙伴
+### 美特勤局长称威胁增40%，特朗普晚宴遇24年最大危机
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-07-24 04:59
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkVXJuT2VSY3hFU0FGRUtzY21jSWZBYUdZcm5pdmFvTFRzdkJ5M2ZDQ3pUZVh4VkViTDZjbDNJblVncE5wODgyYUtZVjJCbURfYkdOaURnakpHeWJMc0RhcmJhYTUzUdIBa0FVX3lxTE80bU41Qm55UlRsN3lKU1hzMjlibHI5X2Mta212S3Z1SzhjdjRyNUxqZldOMWViTDNMbGR5bzFUSlZmT2s0T3A1VFc1eGdETlNtUWJKV2R1TTNvMFNyWE1WbHNBMUpMMThMLVNZ?oc=5>
+- 场馆: 手机网易网
+- 时间: 2026-07-24 05:10
+- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTFB4dWtjVVBZcnZHd2ZsZWNwVjRmci14U1FTWGF1aTRfWnpZSVVOR01sYThJV3lkY3gtZF9sZndvbmY3Z2ZaTVhSeDFtQ1FNZTYtN1Atb3VSTmZnYUtZM241OE13?oc=5>
 
-### 美国25个州联合起诉特朗普政府
+### 特朗普向伊朗发骇人威胁、黄金暴跌！FXStreet首席分析师金价技术前景分析
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-07-24 03:05
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE93RTBvV1VjZUh3djRNSHRUaUNER1VFMlAwdmxUR09CUzd1ci0zTGxCU0QtelJXbVBsRi1hTElSaGRmR0xzdjYxNml3Y3RxTFJJTkJscHpyTlV3Q3Rxa2hGRjgzLTNha2ltTEE?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-07-24 03:49
+- 链接: <https://news.google.com/rss/articles/CBMisgFBVV95cUxQaDB4cUFDcGJMYnlQYVV5WUFNOWU2dDJwS0JPZWJOU3BCeTlMOXhYTDBhWjNUNGdLNnBZS1ZXWUtJYnVtcnplZDZjdURTRzV5MC1hVE9OLUxnS3dxb2pFbUFfelM5ZzJZbDlrTkJ2eUFUOU5GVDVFaDRTNjRhc1h0ejZQaG12cHRHR2sxbEN4MWJ6UUVER2RSTEN0cDFqNm9iOWkzaGRlaWRXZHQ1VVpWNlNR?oc=5>
 
-### 事实核查：川普再重提“2020大选舞弊”——并首次指控中国干预？
+### 美国总统Donald Trump对数十个贸易伙伴征收新关税
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 辟谣吧
-- 时间: 2026-07-23 23:22
-- 链接: <https://news.google.com/rss/articles/CBMid0FVX3lxTE1TZnRqUDRUZm1wRVU0QXB0RnZTSzN0WnkxamE0UHdlWUxObGs4M29STTFKTWtFZHJ4QTlWc2lmal83VjNndEhHbk5XTU42V2JGMzFLT2E4SDdYVVFYRTY2Wm5nQklMOVdsSFd2Nm50RGMyWndMOVYw?oc=5>
-
-### Trump Rolls Out a New Wave of Tariffs. Here Are the Latest Rates.
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-07-23 21:50
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxOdDdKc2UzS2JXc09lR2hZNHJLendSWmNXMEllMTIyTHFIOXFEUWZXTk1XVXZPOVJ0TktMQTkzRUJiekgySEZ3R25kWllMeEdLdjhEVFJNTUg3YXBkaWN5alhSenQyTFVsc2NiUlpUYll6a1l4OV81OEk2Z3o0M05zUC1zTC1qYXY0dl9UemtyWkY1anNiSkdMQw?oc=5>
+- 场馆: TMGM trading
+- 时间: 2026-07-24 01:07
+- 链接: <https://news.google.com/rss/articles/CBMi3AFBVV95cUxORHJlUnZEQS1uVTBSaDJNa2xOb0EwcG81M3FzMjhSOS1yTmNVMkNCbDJ5RTBJWlQzSFo3WFlYeTZnLW1GR2xaalJGWjBXcGcwV0RzdExkOTF0MGRQbDlpSlo0aTM5WTdQcGR1bWVSYlhBRkh6TFpvUXFYRHdMaVFBanY5VlRUNUo2Qm5uQVFfZTVndEhqM0JzUnQxbVhQSVFHR010T29vWkMzZ3FsZTdtU3o2TXFsRElpZFVwRE5DRzVOQ0xyOHE1TDVPZUF6M21Rb2o0cEk5aDJMSk5F?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-24 08:14  (7 条)
+
+- **周杰伦** | 一大批演唱会官宣落地广州 <https://video.sina.com.cn/p/finance/2026-07-24/detail-iniiwvke4400598.d.html>
+- **特朗普** | 美参议院否决限制特朗普对伊战争权力的决议案 <https://news.google.com/rss/articles/CBMidEFVX3lxTE5MMHgwNjNrdVpKM2hXTFFhQS1hckk2Qk5IZExSU2dBVjZnLTBHYktKNHBLUFdETW9aT0w0c1hmbjUzaHEydmYza0Q2cm0tdFNNUEU0bVNsQlV4STlhMlU0QXhBaTh6TWJSOEFXZmM1ZW5ZaGJE?oc=5>
+- **特朗普** | 特朗普称正“认真考虑”重启对伊朗的大规模作战 <https://news.google.com/rss/articles/CBMizwFBVV95cUxPTV9lXzdLeFk3REgzRkdUSDF2dW9QMEZReVA4NFFsbDZmbnI4Q1NGSXhpRFlOc21ubzhlMXBrenVfNTNJRVZEYVk0dUxhNkJ1djBmcFRQRG9LLVk1dHpXR19YaEV6NzFzbWNZdmFHMjRZbzlRbmRja1ZOU19MdG9TXy1LMjNtR09HbUNEWGFnOTdmbWJWUGE5cFdMVk1mbVRCZGNlVVJiTk0tbXlsa3RvWVJqa0JsRWlZRTJLWDlZb1hBZjlCU0JWZC1UUzdMZGc?oc=5>
+- **特朗普** | 特朗普：若胡塞武装再袭船 美将采取军事惩罚 <https://news.google.com/rss/articles/CBMif0FVX3lxTE4xc1VOM0VwRldrb2VxSk9KUURsWUtEdmwzVGg2MmpPcW83Sy1Ubi1OUmlMbWtDZy1Wa1BhZW9aVFZqdTRpOW9FUjBLcHZBd01kT1pDcUVFcW9JM3lsa1ZjcEFqYmFXLUR4ak5ZcDhzUWZrck9aMUFIUFJRNjlIaGc?oc=5>
+- **特朗普** | 美特勤局长称威胁增40%，特朗普晚宴遇24年最大危机 <https://news.google.com/rss/articles/CBMiYkFVX3lxTFB4dWtjVVBZcnZHd2ZsZWNwVjRmci14U1FTWGF1aTRfWnpZSVVOR01sYThJV3lkY3gtZF9sZndvbmY3Z2ZaTVhSeDFtQ1FNZTYtN1Atb3VSTmZnYUtZM241OE13?oc=5>
+- **特朗普** | 特朗普向伊朗发骇人威胁、黄金暴跌！FXStreet首席分析师金价技术前景分析 <https://news.google.com/rss/articles/CBMisgFBVV95cUxQaDB4cUFDcGJMYnlQYVV5WUFNOWU2dDJwS0JPZWJOU3BCeTlMOXhYTDBhWjNUNGdLNnBZS1ZXWUtJYnVtcnplZDZjdURTRzV5MC1hVE9OLUxnS3dxb2pFbUFfelM5ZzJZbDlrTkJ2eUFUOU5GVDVFaDRTNjRhc1h0ejZQaG12cHRHR2sxbEN4MWJ6UUVER2RSTEN0cDFqNm9iOWkzaGRlaWRXZHQ1VVpWNlNR?oc=5>
+- **Trump** | 美国总统Donald Trump对数十个贸易伙伴征收新关税 <https://news.google.com/rss/articles/CBMi3AFBVV95cUxORHJlUnZEQS1uVTBSaDJNa2xOb0EwcG81M3FzMjhSOS1yTmNVMkNCbDJ5RTBJWlQzSFo3WFlYeTZnLW1GR2xaalJGWjBXcGcwV0RzdExkOTF0MGRQbDlpSlo0aTM5WTdQcGR1bWVSYlhBRkh6TFpvUXFYRHdMaVFBanY5VlRUNUo2Qm5uQVFfZTVndEhqM0JzUnQxbVhQSVFHR010T29vWkMzZ3FsZTdtU3o2TXFsRElpZFVwRE5DRzVOQ0xyOHE1TDVPZUF6M21Rb2o0cEk5aDJMSk5F?oc=5>
 
 ### 2026-07-24 05:34  (11 条)
 
