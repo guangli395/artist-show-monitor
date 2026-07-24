@@ -1,48 +1,80 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-24 22:56**
-- 本轮扫到 7701 条, 新增 **4** 条
+- 最近更新: **2026-07-24 23:59**
+- 本轮扫到 7708 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (7 条)
 
-### 特朗普出台全新全球关税，招致各贸易伙伴谴责
+### 广西人专属!三月三涠洲岛双人船票立减33元，看完周杰伦演唱会直奔玻璃海!_新闻
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879777386_1d5abdc6a01901rsnu.html>
+
+### 特朗普警告俄罗斯和中国不要向伊朗出售武器
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-07-24 23:18
+- 链接: <https://news.google.com/rss/articles/CBMizwJBVV95cUxNc29QV1FRbko2a3l6Q2pZc1RpSjJPUmlHZ3ZXZXFNTWFRZkY4TlVSZ2p2MF9MLXQ3czBaMVJjaW9UUmpMT3JkN00wRm05dE9KaFpqdEV4VFFnZURKQUJSNGVsV0Zoc1UxbDdWcllfYWVYWC0yNkh1MzVpcU5Oc01RSHY3bGZyUmR2SzlONTFwdWxHWGoxc2tweUNYcGRnbnp1czZrb3BQYW5IeUY0ZGJBUWliOFFEQm1pd3lJSDN3MXJjcUs5aW5ZZUg3aDFzcXBPdG1SYklGdTIwdFFOVlNwR3ZfTlJOekFVc013eWltU0dlODRodEdBR0YxNlBHWVBfWUNaSmpXRnR4b1dXbTNnQVpwbVp1MURLeHB6bExxTVBXRmJ4Q1RWUmVrSWV0RzhEcUZlS3d2TGdsRUktUUJmbEJLdkdUZ3BuSXZqYzVhTQ?oc=5>
+
+### 施压沙特加入《亚伯拉罕协议》，特朗普为美沙核协议提条件
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-24 09:02
-- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWVNKZF9yUDQycE41M3daV1l1WmNHTFZJMzNubW1qSDNDWm45RnNqU18wYkduNDFsYkU0bERvRzR4b0thT09sYWJMXzA4aW53Qm5qeEVnSTRjQm4xZ1BCd3FPUUhoRmxxTzRROTY2OWFnNWZ1YnVJWE1qbE5JMFFPbXBvalhaeDRPVG9SdERVaFV6NE1sYjBHbG9CSkZqS0FTa1NmNG1taGExWjRUMVFYNWx5eTlfNFNseUNtZmwyazFiTS02WXFQUE14Y0g3WmlJMU1NSzdoVFl2RkwyM3c?oc=5>
+- 时间: 2026-07-24 23:10
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9ORmJSdVpCaWZwb1hobWpXSjIyR2oyeE51NnFHTTgtTXoxN0xFclcwYmZvc1J5OVRoMTBpbzk5OWFiR0xId3hFeUNaMG1IUVhIXzlXQkRBWHR3MkZtUzFld25mc1FDTG1IdTlYT3E2S2I1NTdFdWxxQQ?oc=5>
 
-### 特朗普总统：与伊朗的谈判仍在进行，但美国已准备升级军事行动
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-07-24 22:12
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWDZqRXVPTTYwSlNZTkUxMEVDZl9FS3p4Vy1UOFdXZzJlWGZBY1NScHN1clRzNjhtS2xnTF9pLXplQWxEYjBjc3FMTkpfOHJMMXFZdDc4T3E3Wm94djZGTHFGWE9GX1NEaGtkZHVNUXM3OUZVeW93dHdoa1VYRHZSN1I3d0FDX1VsUjloOW9uYk55eHVSdHRFS3E2WEtQdzVwaDNmTWxTOEprVG9FLXU4QU9rbktOMkhadGFOTWExTVJtX19MU1M0VkRQZUtxWk420gHTAUFVX3lxTE8ySGhsUDVsaV9WblFJdktLZmZMX21LOVlPX180Qk11cGQ1OERGcXlCc296QkxveWF5N0lwQkhzYzFfZng2SVVOV2FGNHhfem5sY2p4eHRtSnF4ZmpiOXVoUHpFT3JKTnFxS0VxSFRPSnEzdWY3VGRpQ0JLVlZibFJ5aXhvYzNJOVZJc2llZUpnUUItbnk3aGR2aFl6WTY1MGdYVkx4NzN0S0dHNnZXNmhPQUNkMFJlR1JrSjlvcHJLUGNGb3JPbFViOUpfaTh2NC0yZVk?oc=5>
-
-### 特朗普称美沙核协议取决于沙特与以色列实现关系正常化
+### 美官员：特朗普与泽连斯基将在华盛顿会晤
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-24 16:43
-- 链接: <https://news.google.com/rss/articles/CBMiigJBVV95cUxNakFud1hva0Rmb1ZreHVORXYxZFNJY0NHTzJrUGZKTzNBMWNKaEtZOGRoWWVxYlZ6dXBRY0kwVGFuVkItdHc1dGRjQjc1ZHdFMGhhYjdjME53c056cmxud1VtQnI1VHlWR2lfaW02ZFJKdldvekJscEZ3bnpSbjJIVE44TlFEblNMeGhZWmJLSEt3N0xsYWFYYklla2hzc1dpaG1fWkZZVTAxOEJFMmxtX0ZNa1dKYS1JSld3bTJCRGgwQXMwZGNwVFJPNzdTaVY5TkYxNjJpRW4ybExDdjlqZ2N1ZlExem5rUGJ2ZGFwanNrOC12aHVGTWZMUXlPem5yU3FXYUVEN2VQZw?oc=5>
+- 时间: 2026-07-24 14:22
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5qU2ZBSURQV1V0bnFhXzczSlU3aTRJa2c3cmNwMHM4NFVQN0hrTk8wWWcyZlhLX2hlX1AwdW9MdEJUVDJOYjc1MG5nRldOTGRmb283UE5maXM4aTZWQkFFdFBJR0VUeE9rWFJjRGx5cHRqR2tDcE1CZA?oc=5>
 
-### 特朗普表示，美国将启动301条款调查，审查欧盟对待美国企业的方式
+### 特朗普炮轰欧盟罚款谷歌“非法”，宣布启动301调查
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-07-24 22:37
-- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxOTWJFa1hZSE5SUF9kbkhvUjFxQWhDSlB6TVF5VVpqTTR3YUpfcjVUdE1KZ292T1paLTJNWGRqanlqRkhmdjJEQVB1bWpGYlB4TG5Qa0VkcUJGdDJma3d5XzhhYnFSdHZGakJOUmFMUHl3MDRBUXFRWlJxY1VhaFhVVWZ1OHJNMmxUTDJldWowdy1MSDFCZjJPbUhncnE?oc=5>
+- 场馆: 华尔街见闻
+- 时间: 2026-07-24 19:11
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE91dHBackdXb05nTjVNS1BKZXp1cGlsLXFhTTVWZTRJblNnNXJ1bVh1a1pNM1QxVmwxdmtfWVJOTEdjWE0xVENacjlqQnRueUt5Z0Fn?oc=5>
+
+### 特朗普称美方正与伊朗谈判，不排除加大军事打击
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街见闻
+- 时间: 2026-07-24 21:21
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1dGp3N0U2TXo0VHNZTFVVYjZBdE4wUHBsOHJaRWVWRXEyVWpseURsT2phQkNyZi0tUkd4enQtZlpyUFhsRjNVS3otajVuMlh1Z2hB?oc=5>
+
+### 美官员：特朗普与泽连斯基将在华盛顿会晤
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 央广网
+- 时间: 2026-07-24 15:31
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFByNGxjNHh0VHV1U2FudFB4X1lXaXAzTW04Rk9RcXgwNEpBZWxPaGRkVWdwNHh2UHctR0l2a0VELWtoRXg4X190TzBOUVU2RTk3RXhJYmthODZVVnVydXRJN3VwLTZHc2Ji?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-24 23:59  (7 条)
+
+- **周杰伦** | 广西人专属!三月三涠洲岛双人船票立减33元，看完周杰伦演唱会直奔玻璃海!_新闻 <https://k.sina.com.cn/article_7879777386_1d5abdc6a01901rsnu.html>
+- **特朗普** | 特朗普警告俄罗斯和中国不要向伊朗出售武器 <https://news.google.com/rss/articles/CBMizwJBVV95cUxNc29QV1FRbko2a3l6Q2pZc1RpSjJPUmlHZ3ZXZXFNTWFRZkY4TlVSZ2p2MF9MLXQ3czBaMVJjaW9UUmpMT3JkN00wRm05dE9KaFpqdEV4VFFnZURKQUJSNGVsV0Zoc1UxbDdWcllfYWVYWC0yNkh1MzVpcU5Oc01RSHY3bGZyUmR2SzlONTFwdWxHWGoxc2tweUNYcGRnbnp1czZrb3BQYW5IeUY0ZGJBUWliOFFEQm1pd3lJSDN3MXJjcUs5aW5ZZUg3aDFzcXBPdG1SYklGdTIwdFFOVlNwR3ZfTlJOekFVc013eWltU0dlODRodEdBR0YxNlBHWVBfWUNaSmpXRnR4b1dXbTNnQVpwbVp1MURLeHB6bExxTVBXRmJ4Q1RWUmVrSWV0RzhEcUZlS3d2TGdsRUktUUJmbEJLdkdUZ3BuSXZqYzVhTQ?oc=5>
+- **特朗普** | 施压沙特加入《亚伯拉罕协议》，特朗普为美沙核协议提条件 <https://news.google.com/rss/articles/CBMieEFVX3lxTE9ORmJSdVpCaWZwb1hobWpXSjIyR2oyeE51NnFHTTgtTXoxN0xFclcwYmZvc1J5OVRoMTBpbzk5OWFiR0xId3hFeUNaMG1IUVhIXzlXQkRBWHR3MkZtUzFld25mc1FDTG1IdTlYT3E2S2I1NTdFdWxxQQ?oc=5>
+- **特朗普** | 美官员：特朗普与泽连斯基将在华盛顿会晤 <https://news.google.com/rss/articles/CBMieEFVX3lxTE5qU2ZBSURQV1V0bnFhXzczSlU3aTRJa2c3cmNwMHM4NFVQN0hrTk8wWWcyZlhLX2hlX1AwdW9MdEJUVDJOYjc1MG5nRldOTGRmb283UE5maXM4aTZWQkFFdFBJR0VUeE9rWFJjRGx5cHRqR2tDcE1CZA?oc=5>
+- **特朗普** | 特朗普炮轰欧盟罚款谷歌“非法”，宣布启动301调查 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE91dHBackdXb05nTjVNS1BKZXp1cGlsLXFhTTVWZTRJblNnNXJ1bVh1a1pNM1QxVmwxdmtfWVJOTEdjWE0xVENacjlqQnRueUt5Z0Fn?oc=5>
+- **特朗普** | 特朗普称美方正与伊朗谈判，不排除加大军事打击 <https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1dGp3N0U2TXo0VHNZTFVVYjZBdE4wUHBsOHJaRWVWRXEyVWpseURsT2phQkNyZi0tUkd4enQtZlpyUFhsRjNVS3otajVuMlh1Z2hB?oc=5>
+- **特朗普** | 美官员：特朗普与泽连斯基将在华盛顿会晤 <https://news.google.com/rss/articles/CBMiaEFVX3lxTFByNGxjNHh0VHV1U2FudFB4X1lXaXAzTW04Rk9RcXgwNEpBZWxPaGRkVWdwNHh2UHctR0l2a0VELWtoRXg4X190TzBOUVU2RTk3RXhJYmthODZVVnVydXRJN3VwLTZHc2Ji?oc=5>
 
 ### 2026-07-24 22:56  (4 条)
 
