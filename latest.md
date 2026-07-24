@@ -1,62 +1,71 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-24 14:19**
-- 本轮扫到 7672 条, 新增 **6** 条
+- 最近更新: **2026-07-24 15:52**
+- 本轮扫到 7678 条, 新增 **6** 条
 
 ---
 
 ## 本轮新发现 (6 条)
 
-### 蔡徐坤签售会被妈咪粉花式逗到招架不住
+### 最新歌手排名中老牌歌手有哪些占据前列？
 
-- 艺人/关键词: **蔡徐坤**
+- 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5885611158_m15ecf4c9603301f44e.html>
+- 链接: <https://k.sina.com.cn/article_7879923377_1d5ae16b106801b12k.html>
 
-### 特朗普称美沙核协议取决于沙特与以色列实现关系正常化
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-23 18:05
-- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbnZKSjZJWC05OWdkMGpYY1BpTFpLTDJWVUlVcXptY0hUWXI1TEpGOS1SRVFCYzhaNHVKME8tMHVnemxQZEdOb3B6RVEzZmFnS1VkbjRzbTRlQW9lWUZPSzVWeks0Z2hvZm9UMkJMWGhHdERtb0JRUk1sS0lxa2NDVVE3QXBCNzk3VlZGbGxpcXFFa18zLUpwNmJteHNUOWgwUzZJOTVlRVJRQmFvRVNFZjBJUnhleXBGcGgtTzQxVEVYWWoxT2pMVTNWQUlyUXZ3Nmc?oc=5>
-
-### 特朗普：正“认真考虑”重启对伊朗大规模作战
+### AI数据中心扩张推高电价，特朗普欲推动企业承担更多成本
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-23 23:40
-- 链接: <https://news.google.com/rss/articles/CBMizgFBVV95cUxQRkoxVTdSQm15cUlURi1CY2Qwd09BWmdLeksxSjc0c0Q1VU9FWGlrY0l6VzZsQWdkQTI0N09xV2dwSU9OZGlQSExjUlQxUWs3LU5MZ3RPUGFQa24xTWkxaUhaWWJvaFl5VUxoc1M2TjFtS00ta0dPZzV1UXB3WC10ZXVEU1h1VEFjUGhBNmwtRTlWNXExenNaZ0JLYUlRRGFDeXVFZGUtSXVEYVA2LUhmTlhmTjlnOGFLYmhQcUxJMGxoYk45N1B5ZDlOUmxTZw?oc=5>
+- 时间: 2026-07-24 14:37
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBNWk5JaUVGUHZRQ2ZNNXlkYnp1eE5XcDlBVXNTekNyQ2stZnR1a1c5X3c2YXN0c29MM3Jpd0ZReVVkeW1iWjh3SUtXMTVQZDJRUW1WRXBQTFJzM01peVQ3bWpQenJzYzZvcnFJMDBseVI5dW9nQXplQw?oc=5>
 
-### 特朗普威胁伊朗和也门胡塞武装
+### 特朗普称正“认真考虑”重启对伊朗的大规模作战
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-24 15:32
+- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxNb1Q2dlhqOUdHeG9WSk5hS2l0QXJQdHZiY2cyTjBoWlhlR20xX1d5cUhfcUFlZE1jTFRFV2ViekdjY3ltbjBSQy1TZnh1TmRIR05aNmk1aFI3SlF3dTBVd0F3VTZiSl85UEVmeWlhWlNmSzUtMFFnT2dTMFc5MW1ldmlrTzlmV3lEMjhsM0pUanNfcmVhamhqSHUtcXRSTEFaUTlGSjFzT2VsdVU2cGIzTjliNGxTSEVuVGRadFJMNGkwbWsySXMxYWhwNHcwUHM?oc=5>
+
+### 伊朗拒绝停火提议！特朗普：认真考虑对伊大规模作战
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 东方财富
+- 时间: 2026-07-24 09:02
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xZUFiQk9fbENRMkpQbjJNV21JWlp3TUhyZGFHdno4WWxYMUx2TEctOU10NGlBVU5BdHV4cXpMUXZxN1RJTE5mb2hoa1dyQkFEWGZIalJZRVlNeVJUOWRheA?oc=5>
+
+### 给沙特拥核开绿灯 特朗普开极坏先例
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪网
-- 时间: 2026-07-24 13:57
-- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxPU0hjTTBLVGhxQUhCNVd6TUxfdFM1cDNMOE5jdkNGV0tjcjBUTi1SWHotZlpwTG0zUEZSMlJLblNEUnp2NVRKNnliX3l5N2c2S1NmTVhmWk9rdTZ1cEN1V2hVZVhLc1hnVjRSNFUwUURjbFNveGlGc2llOERQYnYzdQ?oc=5>
+- 时间: 2026-07-24 13:51
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE1HY3V6d282cmpYdHdnNlU1WkdjWWdvRjlSMUtNdjF5WXZBNHgtWlJITmFJalJxbkVySHhZY3hqSmRDQ2NKcGYxZ3VpT2FUcFlHbjR6MG9QS3AwdDJheThWZTBNR1Vpemk5dzlXbFhkTENkUQ?oc=5>
 
-### 特朗普称美国必须在AI领域领先，民调显示美国人认为中国AI更先进
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-24 06:15
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9DdVdKN21BY3hhZWRHYTNTVmh4ZjFmYW1sRG83bGZta0RqNjBQZjRLZ3JRcFk2OUFiWGpnT0p4N3dVbGJSaWVGanFjNDc?oc=5>
-
-### 美官员：特朗普与泽连斯基将在华盛顿会晤
+### 以总理透露说服特朗普打伊朗细节：带7张幻灯片当面展示
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-07-24 13:34
-- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vYm1PbXNHTS1hNDhNWlFXNGJoamJLTDN5SkhFcFBOSy01WmExeDdxSXN2dmx5ZWRUUmphWFQ2Yjkza1BQNEtPY0thajQ4UGJlYkE?oc=5>
+- 场馆: 新京报
+- 时间: 2026-07-24 11:26
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1nakZKZ2xQSGplcFZMc1NLX19PdE82c0RVbmFVZWE5d3BRS09zODgzV3ZDbmtydzhGSG1oSGVndThQTmp4MEUzU1JzY1FELUtyZHpWRnk0OVhWZzItX2d2UFRydTA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-24 15:52  (6 条)
+
+- **周杰伦** | 最新歌手排名中老牌歌手有哪些占据前列？ <https://k.sina.com.cn/article_7879923377_1d5ae16b106801b12k.html>
+- **特朗普** | AI数据中心扩张推高电价，特朗普欲推动企业承担更多成本 <https://news.google.com/rss/articles/CBMieEFVX3lxTFBNWk5JaUVGUHZRQ2ZNNXlkYnp1eE5XcDlBVXNTekNyQ2stZnR1a1c5X3c2YXN0c29MM3Jpd0ZReVVkeW1iWjh3SUtXMTVQZDJRUW1WRXBQTFJzM01peVQ3bWpQenJzYzZvcnFJMDBseVI5dW9nQXplQw?oc=5>
+- **特朗普** | 特朗普称正“认真考虑”重启对伊朗的大规模作战 <https://news.google.com/rss/articles/CBMizwFBVV95cUxNb1Q2dlhqOUdHeG9WSk5hS2l0QXJQdHZiY2cyTjBoWlhlR20xX1d5cUhfcUFlZE1jTFRFV2ViekdjY3ltbjBSQy1TZnh1TmRIR05aNmk1aFI3SlF3dTBVd0F3VTZiSl85UEVmeWlhWlNmSzUtMFFnT2dTMFc5MW1ldmlrTzlmV3lEMjhsM0pUanNfcmVhamhqSHUtcXRSTEFaUTlGSjFzT2VsdVU2cGIzTjliNGxTSEVuVGRadFJMNGkwbWsySXMxYWhwNHcwUHM?oc=5>
+- **特朗普** | 伊朗拒绝停火提议！特朗普：认真考虑对伊大规模作战 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xZUFiQk9fbENRMkpQbjJNV21JWlp3TUhyZGFHdno4WWxYMUx2TEctOU10NGlBVU5BdHV4cXpMUXZxN1RJTE5mb2hoa1dyQkFEWGZIalJZRVlNeVJUOWRheA?oc=5>
+- **特朗普** | 给沙特拥核开绿灯 特朗普开极坏先例 <https://news.google.com/rss/articles/CBMickFVX3lxTE1HY3V6d282cmpYdHdnNlU1WkdjWWdvRjlSMUtNdjF5WXZBNHgtWlJITmFJalJxbkVySHhZY3hqSmRDQ2NKcGYxZ3VpT2FUcFlHbjR6MG9QS3AwdDJheThWZTBNR1Vpemk5dzlXbFhkTENkUQ?oc=5>
+- **特朗普** | 以总理透露说服特朗普打伊朗细节：带7张幻灯片当面展示 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1nakZKZ2xQSGplcFZMc1NLX19PdE82c0RVbmFVZWE5d3BRS09zODgzV3ZDbmtydzhGSG1oSGVndThQTmp4MEUzU1JzY1FELUtyZHpWRnk0OVhWZzItX2d2UFRydTA?oc=5>
 
 ### 2026-07-24 14:19  (6 条)
 
