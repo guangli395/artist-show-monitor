@@ -1,108 +1,91 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-25 10:06**
-- 本轮扫到 7748 条, 新增 **12** 条
+- 最近更新: **2026-07-25 11:40**
+- 本轮扫到 7756 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (12 条)
+## 本轮新发现 (8 条)
 
-### 蔡徐坤演唱会门票秒空
+### 特朗普称美方正与伊朗谈判 不排除加大军事打击
 
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001908fjr4.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 央视网
+- 时间: 2026-07-24 22:10
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFA5ZFhVdk51OWV0QW1xTG5HSVVXbjBMV2w0aG00Z3d6WjljSFZRelJpWXRWYkJFVVQ2R2lWcmd2R0VJajVRUUFtb3BHTUJXeVFKNGUxSHFUb20yRHEzei15V3F0TWduajBrNEhaaTBaem1lSGNnS2JIMw?oc=5>
 
-### 大麦、摩天轮、票牛哪个更划算？福州7月8场演唱会门票团购攻略与平台实测对比
+### 美沙核协议引质疑 特朗普向沙特提新条件
 
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879996579_1d5af34a306801i1n6.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新蓝网
+- 时间: 2026-07-25 10:22
+- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE15REtFUUw4NDFhWGk2czFUTkFPcTByRHh3R2VKb1hhTW0wejdBZjFzaTQxNTBDakhxdUEwYXQxNkFjMEZLcXVMMGljMXk2UmM?oc=5>
+
+### 事关红海航道 沙特、胡塞和特朗普各放狠话
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-07-25 10:29
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBscjVUaC1veXl1c01rNXliaU1GWUlTYVVkT2dLRjRJRW9FNTc2RGxjV0FfY0J1U1pNeFNteHkzNzFaWjBZcDFVazZxQ3lQd3Fna1hNRFNERHBUckZmZFpTcFlBY0FjZWFQX2NSWmdSWlBYMTc1eW1BeFp4eXIyWEE?oc=5>
+
+### 胡塞武装袭击红海油轮，特朗普表态：胡塞若再发动袭击，美国将追究伊朗责任
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-23 15:04
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxOWDVpdHNYaFhzS1Q0N09kM1BtSk9oMEdTbjFuYk1uUE5zU3p6d2J4bF9Cd0gtcGE3NEFhOF9nbnF0aVdnODVEN2VNcjA5RnJaLUo5MUxSTFdBRDJ0ajV1bTRRUTl5SlkyeHVQMGxlNXc0YkVLbm55S05DSWxTZmtTUV9jczRUWVU?oc=5>
+
+### 特朗普威胁对欧盟产品征收新关税 以报复欧盟对谷歌罚款
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-24 18:00
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVEJqUjZYTlFTUFkzbEJoa3JSOVY4ZTZKYjJiUU9NY1d0SGdOdkdzX013Ui1VNjRHTGVVZ1d5UVN1dDRwMUc5VnhqN0t4UFZCTmZhN3V5akNDOWRPX3JHOXZuMjJHcWFHX3BJd2ExS3dIaGcyMVhTaFZsczVrUlNKY1NORnN5NmlWeFBkNXU1dHlRRmVVX25qcW5XckVJajFKb1UyVDZjd25hQ2xQZXd6ZHFjc1NLNHpDZDB3UzIzUjNCWm41UXJreHZDbG5tX2hB?oc=5>
+
+### 特朗普称准备第四次竞选总统
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-07-25 08:06
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE14OXota2dtcW5CazlmUlJvQ0xxY29pdU1tQUdPMHZQa1BaUlkyOUl2WWlQZDFYT254ZU4yZ3ZLeGhSbndtZWN3aVhoaVU?oc=5>
 
 ### 特朗普一大批关税换马甲，最终掏空美国人钱包
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-25 09:00
-- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTFBOXzJ0blo0amRrcE5iVElXUzcwYmxOZHE3MVk1SGpnemdtUl9rQlhrRldnejBBeXJ6amw2X1drdDVJSjQwbE9TZHJHSmRVT29X?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-07-25 08:30
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE5VLUxuUDk5YXBmSWFidzZKV1Z4Smcwc2tSMkpVdmx1VWdzUVp2YVdMQjdfMmlOTmN3Uk8zOVNfSFljck9JeEpaZGYwcGc5RkR4cC1jcnZPTWdGTUQ5Sy1HUHM3dUg5c1QxNG5BZDlQUGdjOHlKREE?oc=5>
 
-### 观天下丨美沙核协议引质疑 特朗普向沙特提新条件
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-07-25 09:46
-- 链接: <https://news.google.com/rss/articles/CBMid0FVX3lxTFBBMUVjdDYxVWpZZmgxLW1IN3ZaNjVXcFJnLURYYzF1V0RCVnp0OHczbFlJT1dHLVFMeDdwd2lhbGJvWmZBYnlhRk1WaEFVTXNzVWM3dkxIUlpTN1pWYVJfSl9taVhwdkNGXzY5Y2VrY1BMejVuek84?oc=5>
-
-### 特朗普又改口，沙特“瞠目结舌”
+### 枪击案发生近三月后 特朗普再次出席白宫记协晚宴
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-24 06:56
-- 链接: <https://news.google.com/rss/articles/CBMihAFBVV95cUxNNWhoNlpncHFWUW5iQUJ4OVRENGJOWHo0VmUzNUlYc3RkdnRmUzU3ejZGUkhVUVZ3cXJxVmFVT1ZzelU2Z1Y5MmJtQkVrUmxTZlZaZEtxbHhEUVlMRVc2OFZGV2I5bHlLdnNfUmZpQzdId3c2cDdndW1sRVZLc3hWWFp2UzE?oc=5>
-
-### 特朗普犯愁：用中国芯片，便宜，可美国就毁了
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-07-25 06:07
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE93SDR6XzV5ODZfNTVyaVhxQUNfY0I3NjZ5bHpBX2pzbGhqQ2doUm5PRlFrSUxoSDZkRnBxYW5EUTRDOGMzZ2tKR2t0M1JpRzllS0NXeTZMeEJ4X3lVeEdsVzJfbDZYOXZLSVE?oc=5>
-
-### 白宫记者晚宴在枪击阴影下重开，特朗普抢镜：要竞选第四任期
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-25 04:28
-- 链接: <https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUnlBRnpHc3dOeU5wVDhfZ3BqWkNCcXpJOHJIblRGcWhBaHVmbHFSSjZxbUhPQ2R4RW11M3dBel9MSVpxUmhIMldsUWlBdEVTblE4SmtZVlBVTjZtcWpNLUFGOWxVYUJuZGkza1BDbnpzOWJUOHJlaFFPZkZlX0UxVXAycjRYQ08wbUpta0IteTU1SFAteXhpVVNQVW5SZk9Kd1lMTkR0LVVzcWhfMUhaX2dwczN1SGlGUTBxZHZNUXAwZnMxVzFxMVdpRTFOOEVVRXptRGxLOGtvd3ZyVmM2T1BwZUEyU3FQT25Ec3ZR?oc=5>
-
-### 特朗普称美国与伊朗仍在对话
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-07-24 21:30
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE5rQktINzc3Xy0xRzFPeERwZ1F1LURIekg1SUlmZmRaNEdoSkdsWFNCS2ZpWFFmUUpPNWk4aTZ1aGp1ekFkWjN0dTBIYnhHUDFUWWtjWC14ejk5WGZlQ2JNMlpUUHlJV3lCY0doRjRqaXFkUVc1SEwzMEtMQkRkdEU?oc=5>
-
-### 美25州起诉特朗普政府 反对将救灾资金与选举制度改革挂钩
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-07-23 19:09
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE80cWZNTHozclZMVWp5RmtvOC13NTQ1U0h4UmdjZWhhbFFLZmc3cWpvS0NIV3dDWHk0ZGw4WF96d0NxbXVnT0hPWjNfdGVlLW5FMTZkNHU1VUVIbV91U2lsbTcwcVVaY0tXdk9vcG50cWJ6SkRK?oc=5>
-
-### 特朗普称美国与伊朗仍在对话
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-07-24 21:30
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9KTFFPSnVySWtFMl84WUNTdUcxMHJWRnR4NzRrbXcwMHNhUE1iOVNLS21oX0JnTHF6bmpKblQ2YXV4WkZ5cWRwM3lKVWg1cmh4T21Kd3Y0WC1OQmk5YXRBekM2WEQzVkpYRGprNG1ybjBBcWJIQmFab2NDNGx4bms?oc=5>
-
-### 特朗普重返白宫记者协会晚宴 称现场聚集最多“盲目反特朗普症候群”患者
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-07-25 07:13
-- 链接: <https://news.google.com/rss/articles/CBMipAFBVV95cUxNX3RlNmZoUnotYUdhY001end5SzBYR2dMZENEOThoWHZYY0xEU3FtU1BSMEdWbGJSeUZNT3VBaVJQODA1a2VUWmw5NDF3MVdoYVNESS1TX244UFJyWWs1UTZDa3VDT0c0SkY2V3BXb0RuNDFLbUM1SDRyTkRzb1NabGlMSVNrVHQ2NkF4RGc3Y0Y2cGo2SWQ0RWN3VG1LVHE0eTU4NA?oc=5>
-
-### 俄罗斯和乌克兰的远程空袭造成至少21人死亡，莫斯科称正在等待特朗普总统的新和平方案
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-07-24 20:21
-- 链接: <https://news.google.com/rss/articles/CBMi9wFBVV95cUxQb09aQWZGRk44a2Ftb3lveG0tY2tnTGZqSEZzSVZ2NmtzaTNpTUpDQTNjWm9Mdm12Z2w1TWNWMWY3Q2h2czQ4WHB2d2hCWE9ldDlaS2lIOEhiY1lwT181WkQyTVFtTDZianNFM0tmQVFwMGx2OXVWdVl1T0pIRFFyZURoX1dNZDh4UDNUYk9NSmhMbVVhbGpONjNYbk9lbnpXbGJnZ3VseDVOSXp5bXJ2bjJ0SFowdWlzUF9uM1BBVFc0ampEeHhVZ0hoa05wdkNDcUJIX0tkaGlDOEF6X2pscjBBV0lTSS1HbUZKeFBjOXM5TzBWNWJR0gH6AUFVX3lxTE1xNWVEeVlRaG5uZ25qUDBTTXhvaFJrZDhCMXpFOEVkTnhpSkh3Y1EtUjdTbko1ZUI2djY1WkVYY09VZll2aVdYU0FTRTlyVTQ5RXk1Q3FFNGpkMDFKd1dvTGV6azR6SHEtVHhBQzU2WFRkNDBmS21UMmxfV1pzR1FnLXQxLTNQemlXQ2N3Y1hfY2R5dmlHelFBS3VTMml6ejRxRkFZMnFUM2pwbnBuVl9oUXY1V0ZvZ09sVUNrMlZMVXRfZ3BFVVI1SGtwQ3JFZDlzYWEzc1M4dXRpTWZLZ19UZE5vSXotS0Q2bGNXNGRURUNEMXUxcHd0OGc?oc=5>
+- 时间: 2026-07-25 08:17
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBmTDZqaHUxbzk2RVU4MmhwbFZfVEhudElaczVMTEoydWtwN1NmcEhXNk1pcHhDWXFhLVBjZTdTYXZ2STkxY3dfNXk1bFhuMWdZNHlhOVVuTzQwTnBRbGpMY3dfdWR3S1VHU3BKYmFMcmtqU0w5bGhtcw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-25 11:40  (8 条)
+
+- **特朗普** | 特朗普称美方正与伊朗谈判 不排除加大军事打击 <https://news.google.com/rss/articles/CBMieEFVX3lxTFA5ZFhVdk51OWV0QW1xTG5HSVVXbjBMV2w0aG00Z3d6WjljSFZRelJpWXRWYkJFVVQ2R2lWcmd2R0VJajVRUUFtb3BHTUJXeVFKNGUxSHFUb20yRHEzei15V3F0TWduajBrNEhaaTBaem1lSGNnS2JIMw?oc=5>
+- **特朗普** | 美沙核协议引质疑 特朗普向沙特提新条件 <https://news.google.com/rss/articles/CBMiT0FVX3lxTE15REtFUUw4NDFhWGk2czFUTkFPcTByRHh3R2VKb1hhTW0wejdBZjFzaTQxNTBDakhxdUEwYXQxNkFjMEZLcXVMMGljMXk2UmM?oc=5>
+- **特朗普** | 事关红海航道 沙特、胡塞和特朗普各放狠话 <https://news.google.com/rss/articles/CBMif0FVX3lxTFBscjVUaC1veXl1c01rNXliaU1GWUlTYVVkT2dLRjRJRW9FNTc2RGxjV0FfY0J1U1pNeFNteHkzNzFaWjBZcDFVazZxQ3lQd3Fna1hNRFNERHBUckZmZFpTcFlBY0FjZWFQX2NSWmdSWlBYMTc1eW1BeFp4eXIyWEE?oc=5>
+- **特朗普** | 胡塞武装袭击红海油轮，特朗普表态：胡塞若再发动袭击，美国将追究伊朗责任 <https://news.google.com/rss/articles/CBMihwFBVV95cUxOWDVpdHNYaFhzS1Q0N09kM1BtSk9oMEdTbjFuYk1uUE5zU3p6d2J4bF9Cd0gtcGE3NEFhOF9nbnF0aVdnODVEN2VNcjA5RnJaLUo5MUxSTFdBRDJ0ajV1bTRRUTl5SlkyeHVQMGxlNXc0YkVLbm55S05DSWxTZmtTUV9jczRUWVU?oc=5>
+- **特朗普** | 特朗普威胁对欧盟产品征收新关税 以报复欧盟对谷歌罚款 <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVEJqUjZYTlFTUFkzbEJoa3JSOVY4ZTZKYjJiUU9NY1d0SGdOdkdzX013Ui1VNjRHTGVVZ1d5UVN1dDRwMUc5VnhqN0t4UFZCTmZhN3V5akNDOWRPX3JHOXZuMjJHcWFHX3BJd2ExS3dIaGcyMVhTaFZsczVrUlNKY1NORnN5NmlWeFBkNXU1dHlRRmVVX25qcW5XckVJajFKb1UyVDZjd25hQ2xQZXd6ZHFjc1NLNHpDZDB3UzIzUjNCWm41UXJreHZDbG5tX2hB?oc=5>
+- **特朗普** | 特朗普称准备第四次竞选总统 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE14OXota2dtcW5CazlmUlJvQ0xxY29pdU1tQUdPMHZQa1BaUlkyOUl2WWlQZDFYT254ZU4yZ3ZLeGhSbndtZWN3aVhoaVU?oc=5>
+- **特朗普** | 特朗普一大批关税换马甲，最终掏空美国人钱包 <https://news.google.com/rss/articles/CBMidkFVX3lxTE5VLUxuUDk5YXBmSWFidzZKV1Z4Smcwc2tSMkpVdmx1VWdzUVp2YVdMQjdfMmlOTmN3Uk8zOVNfSFljck9JeEpaZGYwcGc5RkR4cC1jcnZPTWdGTUQ5Sy1HUHM3dUg5c1QxNG5BZDlQUGdjOHlKREE?oc=5>
+- **特朗普** | 枪击案发生近三月后 特朗普再次出席白宫记协晚宴 <https://news.google.com/rss/articles/CBMieEFVX3lxTFBmTDZqaHUxbzk2RVU4MmhwbFZfVEhudElaczVMTEoydWtwN1NmcEhXNk1pcHhDWXFhLVBjZTdTYXZ2STkxY3dfNXk1bFhuMWdZNHlhOVVuTzQwTnBRbGpMY3dfdWR3S1VHU3BKYmFMcmtqU0w5bGhtcw?oc=5>
 
 ### 2026-07-25 10:06  (12 条)
 
