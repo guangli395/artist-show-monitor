@@ -1,38 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-25 18:13**
-- 本轮扫到 7775 条, 新增 **3** 条
+- 最近更新: **2026-07-25 19:40**
+- 本轮扫到 7779 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (4 条)
 
-### 【海平面】天王真要来了！周杰伦青岛演唱会定档 “演唱会之城”凭实力拿下独家“爱琴海”
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879848923_1d5acf3db01901fzsa.html>
-
-### 7月25日外盘头条：特朗普称美伊仍在保持沟通 高通宣布产品价格上调 马斯克身家一周缩水1300亿美元
+### 事关红海航道 沙特、胡塞和特朗普各放狠话
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-25 18:09
-- 链接: <https://news.google.com/rss/articles/CBMimgJBVV95cUxQWnBHNnItSnRCRFNCeDc3X3BwZ0VlTXJJY1pFYU5ZbVVkc1VXN3ZneWxiaTZPaEVQSUdfX2U4aFFZUGxQbWhZaGN5Ylo3Y3JCa1g1TS1MRDgyOXEzY18xeTAzcFZST1VoWXNYemtvVVB3MjFFYWx0WFpyWFA5UmJxdlVRQVlnQS1xQzUydFRYaFY3N1hnYzBVb05wWVhQZ0doYmFtYkh4bVlVNTJpOGd4RXI4UnJQYWZqUENmc0x2enBXb2F0U01OMGZaS0x2b2dya1lLRjV6c083Tm9NejFqZjlvMmJaX1RDMmFCa01QckMxT1lYMFd2NUxvbTN1UTRCZE5LN2RXSHRpcTFsclc1MFFGcDNHZGhINlE?oc=5>
+- 场馆: 中国网
+- 时间: 2026-07-25 17:21
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE5kWlJ4d2FlRzNqS0xzLUQta29paVF1NEhHa3RnUGEtM0NrMTBVajNEYl9CMEd0OGdjUjFPNGNCSUdmbGFTSk9PTlAtMU5IQk5vZGRHYXhwWE5JZ1NKZTZsTnpHT21LTy1pbGxoYlhvZw?oc=5>
 
 ### 特朗普称美方正与伊朗谈判 不排除加大军事打击
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-25 17:20
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxONVhNVGtKTmZqTXJqSVVRN0lfWDRybjZBajIzNUc3UFdEQ09ZdndPYU9maXRQaGp2QW5kTWRqQ2lkckhDcjlsVFBaYzYtaWJ2ZThlazdXU091cDRtVW1TX092ODhvT1NKbktkZU1UdVhlZkQ2RVlFZk1oY2RWTkMzUThwNmVBYk1aSWg0M3hOb1A5Xy0xOHhjc19iVzkwMHR3SGhJZU1OOHVyaGxTSUFvLTY2YWVITllGbUpvbFJjNXVYb0FJQkNQYVFacUtVeXpz?oc=5>
+- 时间: 2026-07-25 17:59
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUTZjc0JMaWFWRjE5a3FVUElJQkdhUHJTWEpBOC16R3NOOXJYZWJsLVRHZHVPUF9ndkprXzQ2NjVsbXdmMl9BV1hJNTdLaWV1U2R6TXowWE1vdno3YzRwWVZRdk0wSDlabGUxNHdldjhVWGFKLWZVcl9xM3hES2xmVW03bjAwZGlhbDFVbGFUX250U0Y5LW5MR3REM1Z3OUNNekkyLXRJMFAwSS0zbGR6RmlDeDFieWYtYkRpa2NPZEJ6MGc2OEJVbzJqeVpqOU1L?oc=5>
+
+### 报复谷歌被开罚 特朗普恫言对欧盟展开新贸易调查
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-07-25 09:34
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1UTWkxS25OQzF5YmhJRGdFTGhkaVNVSS1JSmF0enFGZ0JvOFg0TlE1d3JUQ0d1b09Sdi12a1VMRC1YSUVtNlNnNUJSVzFtcVgzUVdxU0M0b0JtczJ0WDVFWnFDNmFtOW5pOEE?oc=5>
+
+### 特朗普新一轮全球关税遭小企业起诉，美贸易战再陷法律争议
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街见闻
+- 时间: 2026-07-24 22:51
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBFVVVWcHQ2NU96bDVJUWZESUhJeWFFUXhfbzNEaDI1b0p5dzdtNy1leXd3R0R2VjNBS0tYYjNDeUlZZnRMMnB3REVrcnhjc19CU1Nz?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-25 19:40  (4 条)
+
+- **特朗普** | 事关红海航道 沙特、胡塞和特朗普各放狠话 <https://news.google.com/rss/articles/CBMib0FVX3lxTE5kWlJ4d2FlRzNqS0xzLUQta29paVF1NEhHa3RnUGEtM0NrMTBVajNEYl9CMEd0OGdjUjFPNGNCSUdmbGFTSk9PTlAtMU5IQk5vZGRHYXhwWE5JZ1NKZTZsTnpHT21LTy1pbGxoYlhvZw?oc=5>
+- **特朗普** | 特朗普称美方正与伊朗谈判 不排除加大军事打击 <https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUTZjc0JMaWFWRjE5a3FVUElJQkdhUHJTWEpBOC16R3NOOXJYZWJsLVRHZHVPUF9ndkprXzQ2NjVsbXdmMl9BV1hJNTdLaWV1U2R6TXowWE1vdno3YzRwWVZRdk0wSDlabGUxNHdldjhVWGFKLWZVcl9xM3hES2xmVW03bjAwZGlhbDFVbGFUX250U0Y5LW5MR3REM1Z3OUNNekkyLXRJMFAwSS0zbGR6RmlDeDFieWYtYkRpa2NPZEJ6MGc2OEJVbzJqeVpqOU1L?oc=5>
+- **特朗普** | 报复谷歌被开罚 特朗普恫言对欧盟展开新贸易调查 <https://news.google.com/rss/articles/CBMiakFVX3lxTE1UTWkxS25OQzF5YmhJRGdFTGhkaVNVSS1JSmF0enFGZ0JvOFg0TlE1d3JUQ0d1b09Sdi12a1VMRC1YSUVtNlNnNUJSVzFtcVgzUVdxU0M0b0JtczJ0WDVFWnFDNmFtOW5pOEE?oc=5>
+- **特朗普** | 特朗普新一轮全球关税遭小企业起诉，美贸易战再陷法律争议 <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBFVVVWcHQ2NU96bDVJUWZESUhJeWFFUXhfbzNEaDI1b0p5dzdtNy1leXd3R0R2VjNBS0tYYjNDeUlZZnRMMnB3REVrcnhjc19CU1Nz?oc=5>
 
 ### 2026-07-25 18:13  (3 条)
 
