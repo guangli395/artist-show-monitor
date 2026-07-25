@@ -1,88 +1,89 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-25 03:16**
-- 本轮扫到 7717 条, 新增 **9** 条
+- 最近更新: **2026-07-25 05:59**
+- 本轮扫到 7725 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (9 条)
+## 本轮新发现 (8 条)
 
-### 特朗普总统参加白宫记者协会晚宴
+### 蔡徐坤马来西亚音乐节彩排｜西海岸风裹热忱，落日赴音乐之约
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-07-25 00:35
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1ya3pySnp3aS1SN2JxbjdNU1F3MUdhVVFEMHM3RkVLVEM3YnNseFhEY2Z0dk1mc2p4dEpSaXA3UGMzdHRJQ0xYVnoxZFl1aldfZnc3eHZ1bmZlb2JHNGtVeGxoVVkxUndnX05JS3h1eXFEZUtTWE1OMtIBe0FVX3lxTFBVVG16U3Rxcm9NYlNFOXhzanplQzhKZjU0b3I5dnN4cHNmWmJxWUl5M2RoV25rMU5sQlg1NEhQN3NoTG9MdDFIVHZOV0JZVTZCVU1zWm4taldsaFFKcjJGaU1pTW1CU1dUSXhDNDNCdDRtV2htMlE2OGw0NA?oc=5>
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001908fbaw.html>
 
-### 特朗普拟禁中国AI模型，OpenAI总裁称未参与
+### 特朗普出台全新全球关税，招致各贸易伙伴谴责
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-25 01:54
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBsY05tOE02ZlNlaEZUalJBUUpndFJ1bGNTUVNTVDlpLVRENnY4RnQyTkpqeEMzWmRuSldic0VfMGpfbWJRVV8yZlc1REkxN0o4U2VOQ3UzQ0Izc25SM2NpdjFSWF9rZ1BIVk53RE1WWVg?oc=5>
+- 时间: 2026-07-24 09:02
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNU5HSVRmNW90YzJ4TkxtR003NUdKODI3S2IwejlMaUF3VmYySjFyT3E4VUFfbnB2T2hBZ29SSmJNR3llT0c0UExLTFRMdWFnSEs0bjJPWVl5V1NxUm9jTWs3X19hTWVwMlE4NU8yYzdPWDFHQ0ttOUlJVnJLeFpiVGhPQl8wbmZVVXhhR1pya2tfRGY5VThFLUxZdzZ6bUdaYm5pXzYtVlk1OEpDeEdDekhDYU5LY0l1WjRDeGF0WFluSktac3pibENoWmp4NGF1cDFfYzlreU1JSHUxTzZz?oc=5>
 
-### 特朗普称美沙核协议取决于沙特与以色列实现关系正常化
+### 白宫记者晚宴在枪击阴影下重开，特朗普抢镜：要竞选第四任期
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-23 18:05
-- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeEQ0d2hHTktZU2xpeGRNVGxjTUU3ZS1LeGRVUWFiMC1WenhkWDM5SGhGbzVsS05CNlByd1dIZGc2STduR1FXRmNhMm11d0ZjdE16VVY1eTZvMGtUWjU0Zkxobm5kMWdnNy0ta0FTRUdoM0prc1FZdnE1TVJFa0NHN295Z2VNOGJ0bnhPRUZmNEs1ZW5OcnNfN1JXc2FhQV9jeVJoMldWZkFrMDBqd1FVbXFSd1RtQ1QwdEFNRXotSWJCTUxuWWRLOHd5dFNqOFp4Q3c?oc=5>
+- 时间: 2026-07-25 04:51
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBhNjJBR0VBXzNtWG1QZkoyeHRORlBWY3hSRWVGVWh3VnRfOTJBWW1SUzZDdV9RcmxvLUw2a0c5ajBPWm9hNFdWX0JGTWlGbVJXclJjSUljSDNvSm4yWFlLVTd1RlIzbUJKX1l1ME1XT1RLTlgxeFdPdA?oc=5>
 
-### 特朗普因谷歌被罚威胁对欧盟加征新关税
+### 特朗普：沙特必须承认以色列，才能达成民用核计划的协议
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-07-25 00:55
-- 链接: <https://news.google.com/rss/articles/CBMipgJBVV95cUxNZnREaG5hMXNQa0tBcVRLdkZwMFB0bnphY2YyYkZLcW5uTnY1eVpmdGF4YVgwRWY4UmZtMTZNRUxKT2kwNGo1T0NrOHdhUVBzTklhQ1RHaFA3c1pwZGlpckk0d2o2R3czRUY4amtRckVBR1d5RmRoQzVucFV2OTF4OWE4ZzJtUWlqMmFKcHZoWnNscXBlWXZlazZ0VXBjdC1sbDM0ckprbUlldUx4WHVfZURlOVBIUnRFMm1CMm9yVDJZaHJNWnJLUldFVWNpbjhRWkxxZ3Zhb1lSWHVCS1dmMG1FV25ybVA1a3dkc3A3d3oyRmRBZ19ta3R5Y3c3VmZ3RlhfTGhFWlBPNFFJTzFMQnhTSmg3bkc4bGRIN3I3TFhKajRJZGc?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-07-25 05:43
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFB0bkpkc3RyYTBuV2RPR1JKUjY3NUFJNzg5S1Zza2o4cWR6WTVHejF6Q2VrcFBzbTdXSzN1Vy1LVU9GeFZtUHNLTUcxVE5oRzRKa2RmMUhNWVFIeWZfai0ySFQ2d1dJUFA4QzEzb0xwMmdqdw?oc=5>
 
 ### 谷歌被罚9亿欧元后，特朗普威胁：欧盟将付出沉重代价
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-07-25 00:27
-- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE5VNDhSM3VWaGl3OEtHX0h6WHFkTzdSQXM3al9QSTBwWUZsRzNHQ0w0T0t5cHBDbUxWOHJBaGxNbHlhR1Z4QUJPNHU5QS1Zdmh6dzhwN190QW42ODVxUG5qbkFzTV9NYjBIdFpHdUF0d3pYbFE2LVJsTkR0bE1nZw?oc=5>
+- 场馆: 观察
+- 时间: 2026-07-25 00:21
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9wVHI3ejVFZjlTRzdvYlBoT2htXzBRMXlNQUtJaTZKUDI2MlVDaHhRbVdHZFJBUjRMekFlOWVhNDVuTk00SDh6cDV6aVZwTm5wRVk0VjFfREJHeGlWNXJWdzN6amFldUdIcUE?oc=5>
 
-### 特朗普级战列舰被国会“卡脖子”：关键技术成熟前禁止建造
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-25 01:51
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1BMGRyNGpkNGVfcVBHYm9aUWRzZGhZeHJxM29rTGpSRzFLbVo1eUU1YmhaZmRrbHJtS3lXbWQ0TEVjVGZJNV9PSV9DNA?oc=5>
-
-### 特朗普的“影子替身”意外出镜 原来真实身份是....
+### 谷歌罚款点燃特朗普怒火 欧盟再次面临巨额关税威胁
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 文学城
-- 时间: 2026-07-24 20:05
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1VUWxmc0xSUzlZY2VzZ01lbndlanoxbFk2cVVob2tpN0FHeGZSVm5za3ZVdDY3VVNSVTN3RVFib1FXOFZkQ0pFN3NXTmV3TjYySVpXNWJWZ2dzaFBqNXZsZ2ZwWi0tVkMz?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-07-25 03:26
+- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTFBmOUV3ODgwY3JjRGVhUV8zYmFvX0hHRVI1cFV2bFJDYlJodENGMkdjaS1hakxpY2dWOUlTTUtpYXcxc2o5bWRlSUdKM3l0enpndmRoTHJwNlJMM2NRcFpDQ1ZCbDluQTI4dlRYM2ZB?oc=5>
 
-### 士兵伤亡增加、民调下滑，特朗普大举增兵中东意欲何为？
+### 特朗普称詹姆斯是种族主义者 引发争议言论
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 手机网易网
-- 时间: 2026-07-23 11:22
-- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE51ZGg1NWV6NC00NndnTjIxb1c1UGx6VU1UWmdlOHRPejIyS08wNTBlc1lwZE1MT1ZqdXdnc3ZaYUYwcFlnRkNvQkFWd1RKZk5mMDgtVURCcjNJR2FydHFjRGRR?oc=5>
+- 场馆: 中华网
+- 时间: 2026-07-25 05:06
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9nX2t6Q1FsLWdVZF91cVhBMmZ0SklVMGY2dDEtdDRfaHVjQmgyaXBuUEN3M1NCTkwtaEh3dzhQU2lneUhWb2V2MHNGYnQzUzM5elBmTkpia3VZaXRONkhWd1hnRDlXb210N3VLcWY4WFA?oc=5>
 
-### Trump：“正与伊朗认真对话，也已做好立即采取军事行动的准备”
+### 特朗普总统：与伊朗的谈判仍在进行，但美国已准备升级军事行动
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 아시아경제
-- 时间: 2026-07-25 00:50
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kWXMtS1VIMUVMbTVJdllJZDJxWGkyMkY2UW05ZEtsbl9lWHRPZUVWRkZRQW4zSGZLQUE0ZkR4RnBIbWNreERYaG5GR3ZLNjd0S1VWOXNOODhyZ1Q1QWJvYkxZbjU?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-07-24 22:12
+- 链接: <https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMkhobFA1bGlfVm5RSXZLS2ZmTF9tSzlZT19fNEJNdXBkNThERnF5QnNvekJMb3lheTdJcEJIc2MxX2Z4NklVTldhRjR4X3pubGNqeHh0bUpxeGZqYjl1aFB6RU9ySk5xcUtFcUhUT0pxM3VmN1RkaUNCS1ZWYmxSeWl4b2MzSTlWSXNpZWVKZ1FCLW55N2hkdmhZelk2NTBnWFZMeDczdEtHRzZ2VzZoT0FDZDBSZUdSa0o5b3ByS1BjRm9yT2xVYjlKX2k4djQtMmVZ0gHTAUFVX3lxTE8ySGhsUDVsaV9WblFJdktLZmZMX21LOVlPX180Qk11cGQ1OERGcXlCc296QkxveWF5N0lwQkhzYzFfZng2SVVOV2FGNHhfem5sY2p4eHRtSnF4ZmpiOXVoUHpFT3JKTnFxS0VxSFRPSnEzdWY3VGRpQ0JLVlZibFJ5aXhvYzNJOVZJc2llZUpnUUItbnk3aGR2aFl6WTY1MGdYVkx4NzN0S0dHNnZXNmhPQUNkMFJlR1JrSjlvcHJLUGNGb3JPbFViOUpfaTh2NC0yZVk?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-25 05:59  (8 条)
+
+- **蔡徐坤** | 蔡徐坤马来西亚音乐节彩排｜西海岸风裹热忱，落日赴音乐之约 <https://k.sina.com.cn/article_7857201856_1d45362c001908fbaw.html>
+- **特朗普** | 特朗普出台全新全球关税，招致各贸易伙伴谴责 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNU5HSVRmNW90YzJ4TkxtR003NUdKODI3S2IwejlMaUF3VmYySjFyT3E4VUFfbnB2T2hBZ29SSmJNR3llT0c0UExLTFRMdWFnSEs0bjJPWVl5V1NxUm9jTWs3X19hTWVwMlE4NU8yYzdPWDFHQ0ttOUlJVnJLeFpiVGhPQl8wbmZVVXhhR1pya2tfRGY5VThFLUxZdzZ6bUdaYm5pXzYtVlk1OEpDeEdDekhDYU5LY0l1WjRDeGF0WFluSktac3pibENoWmp4NGF1cDFfYzlreU1JSHUxTzZz?oc=5>
+- **特朗普** | 白宫记者晚宴在枪击阴影下重开，特朗普抢镜：要竞选第四任期 <https://news.google.com/rss/articles/CBMieEFVX3lxTFBhNjJBR0VBXzNtWG1QZkoyeHRORlBWY3hSRWVGVWh3VnRfOTJBWW1SUzZDdV9RcmxvLUw2a0c5ajBPWm9hNFdWX0JGTWlGbVJXclJjSUljSDNvSm4yWFlLVTd1RlIzbUJKX1l1ME1XT1RLTlgxeFdPdA?oc=5>
+- **特朗普** | 特朗普：沙特必须承认以色列，才能达成民用核计划的协议 <https://news.google.com/rss/articles/CBMickFVX3lxTFB0bkpkc3RyYTBuV2RPR1JKUjY3NUFJNzg5S1Zza2o4cWR6WTVHejF6Q2VrcFBzbTdXSzN1Vy1LVU9GeFZtUHNLTUcxVE5oRzRKa2RmMUhNWVFIeWZfai0ySFQ2d1dJUFA4QzEzb0xwMmdqdw?oc=5>
+- **特朗普** | 谷歌被罚9亿欧元后，特朗普威胁：欧盟将付出沉重代价 <https://news.google.com/rss/articles/CBMiakFVX3lxTE9wVHI3ejVFZjlTRzdvYlBoT2htXzBRMXlNQUtJaTZKUDI2MlVDaHhRbVdHZFJBUjRMekFlOWVhNDVuTk00SDh6cDV6aVZwTm5wRVk0VjFfREJHeGlWNXJWdzN6amFldUdIcUE?oc=5>
+- **特朗普** | 谷歌罚款点燃特朗普怒火 欧盟再次面临巨额关税威胁 <https://news.google.com/rss/articles/CBMibkFVX3lxTFBmOUV3ODgwY3JjRGVhUV8zYmFvX0hHRVI1cFV2bFJDYlJodENGMkdjaS1hakxpY2dWOUlTTUtpYXcxc2o5bWRlSUdKM3l0enpndmRoTHJwNlJMM2NRcFpDQ1ZCbDluQTI4dlRYM2ZB?oc=5>
+- **特朗普** | 特朗普称詹姆斯是种族主义者 引发争议言论 <https://news.google.com/rss/articles/CBMicEFVX3lxTE9nX2t6Q1FsLWdVZF91cVhBMmZ0SklVMGY2dDEtdDRfaHVjQmgyaXBuUEN3M1NCTkwtaEh3dzhQU2lneUhWb2V2MHNGYnQzUzM5elBmTkpia3VZaXRONkhWd1hnRDlXb210N3VLcWY4WFA?oc=5>
+- **特朗普** | 特朗普总统：与伊朗的谈判仍在进行，但美国已准备升级军事行动 <https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMkhobFA1bGlfVm5RSXZLS2ZmTF9tSzlZT19fNEJNdXBkNThERnF5QnNvekJMb3lheTdJcEJIc2MxX2Z4NklVTldhRjR4X3pubGNqeHh0bUpxeGZqYjl1aFB6RU9ySk5xcUtFcUhUT0pxM3VmN1RkaUNCS1ZWYmxSeWl4b2MzSTlWSXNpZWVKZ1FCLW55N2hkdmhZelk2NTBnWFZMeDczdEtHRzZ2VzZoT0FDZDBSZUdSa0o5b3ByS1BjRm9yT2xVYjlKX2k4djQtMmVZ0gHTAUFVX3lxTE8ySGhsUDVsaV9WblFJdktLZmZMX21LOVlPX180Qk11cGQ1OERGcXlCc296QkxveWF5N0lwQkhzYzFfZng2SVVOV2FGNHhfem5sY2p4eHRtSnF4ZmpiOXVoUHpFT3JKTnFxS0VxSFRPSnEzdWY3VGRpQ0JLVlZibFJ5aXhvYzNJOVZJc2llZUpnUUItbnk3aGR2aFl6WTY1MGdYVkx4NzN0S0dHNnZXNmhPQUNkMFJlR1JrSjlvcHJLUGNGb3JPbFViOUpfaTh2NC0yZVk?oc=5>
 
 ### 2026-07-25 03:16  (9 条)
 
