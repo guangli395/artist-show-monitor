@@ -1,40 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-25 20:42**
-- 本轮扫到 7782 条, 新增 **3** 条
+- 最近更新: **2026-07-25 21:48**
+- 本轮扫到 7784 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (2 条)
+
+### 特朗普再打关税战 这次有何不同 新关税政策引发争议
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-07-25 14:34
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1kbHh5dllLWnVsaUpRd1l1QzRkLWFqdFNENTA5eGI4aFVRTXEtSGE2Z2FXQUEzWVk4empCX2NMSGNweVYxQlNoVHJfV2J3RFlySFdGV1RIcGFlY2h4UEVIOXIyMTZ0OGVhOGlBTkdwTUg?oc=5>
 
 ### 特朗普称美方正与伊朗谈判 不排除加大军事打击
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-25 19:31
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNERsU2pRaFY1U2NzZnhrR3p0enUtR2dOb2ppQ0I2NEIwQ3YtRkFQVVBzazV2Ml9uaFhOS3BIX0JPYWVJYms1dDBjdDYyXzBLMEdsUWxmRHZSSTFUUTJKZ1BIMTZzRGdFUVJKaUc4b0pYWnlVRE9Oa1M4MTFIT3JKdXd6NDRkRU1BODRjVzRMamZINHdOblQ3RU1KSzJNQnE2V0lHTGxYb1VkejZXX3FIbUFmaF9UbDVtS1VkWXpsTGpDU2hFUHVjVXFXWFh4Zlla?oc=5>
-
-### 特朗普突然宣布：将第四次竞选总统！他头戴印有“特朗普2028”字样的小红帽称：我已经很有经验了，将再次出马
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-07-25 09:09
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxPWXN3ZGpMUmY3WldObnd0S1VWTFhKRW1rNUl3OUp3akRUUzJ5dlV3VnFYQU44ckNENTBRY2JETWFNNVRKalRScU1IWGZmWE12SmIzSlpiUnp5TVVaSzA1cHhtdURKczgyNTVTVVpqZEVvWWlCdGxES1FwUV9BVldjOUtsZ3NXQktWeEw2bS1jZmNNREE2WTJVYQ?oc=5>
-
-### 特朗普称美方正与伊朗谈判 不排除加大军事打击
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-07-25 04:18
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QRWFRVUUxYV94RE04Ymk3STJzUE5kSDdTT3MyZVA4Q1BhYWs4em9VOGhOcVRjZnltenJYZHhxQ2JLZTlqSmxtTWhmc2N3bDM0SGJjYTkwUVcxV1RraWliZA?oc=5>
+- 时间: 2026-07-25 20:44
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRG1tX1N4aEE5Nnh2WVZGOW5sLWhCTEZFQjN2ZVg1RHIzSkFDRkFsZ1ZxUTR6T211eERaLVY0WnYwTHUzR1RWTTV0ZElVbkcxWHRqWG5IR0t0eU5UUVNwX3R0RFlBYy1zQWQ1eWM4SWJQek5JRzVxdm1UMmtvXy13WXRkcExEbTdRUXdXRTZDakJwVW1FOFFNQlpIZFowMHBaU1AwZXpHR0dWUlplNHBYb2hNZE04eFhobm5NMk1LVjVQcjZmd0YxQ1c0OWkwbDJS?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-25 21:48  (2 条)
+
+- **特朗普** | 特朗普再打关税战 这次有何不同 新关税政策引发争议 <https://news.google.com/rss/articles/CBMicEFVX3lxTE1kbHh5dllLWnVsaUpRd1l1QzRkLWFqdFNENTA5eGI4aFVRTXEtSGE2Z2FXQUEzWVk4empCX2NMSGNweVYxQlNoVHJfV2J3RFlySFdGV1RIcGFlY2h4UEVIOXIyMTZ0OGVhOGlBTkdwTUg?oc=5>
+- **特朗普** | 特朗普称美方正与伊朗谈判 不排除加大军事打击 <https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRG1tX1N4aEE5Nnh2WVZGOW5sLWhCTEZFQjN2ZVg1RHIzSkFDRkFsZ1ZxUTR6T211eERaLVY0WnYwTHUzR1RWTTV0ZElVbkcxWHRqWG5IR0t0eU5UUVNwX3R0RFlBYy1zQWQ1eWM4SWJQek5JRzVxdm1UMmtvXy13WXRkcExEbTdRUXdXRTZDakJwVW1FOFFNQlpIZFowMHBaU1AwZXpHR0dWUlplNHBYb2hNZE04eFhobm5NMk1LVjVQcjZmd0YxQ1c0OWkwbDJS?oc=5>
 
 ### 2026-07-25 20:42  (3 条)
 
