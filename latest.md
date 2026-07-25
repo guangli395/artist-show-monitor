@@ -1,11 +1,19 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-25 22:47**
-- 本轮扫到 7789 条, 新增 **5** 条
+- 最近更新: **2026-07-25 23:54**
+- 本轮扫到 7797 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (8 条)
+
+### 特朗普下令暂停空袭伊朗
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 央视网
+- 时间: 2026-07-25 22:31
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1oYkkxVE1mZm1RUUd5SzJISml4U0lja2VYT0tFN0xLc0Vid1lOY09RRlF0R3VZX1pGX1g2WGQ3aUh6ZVl0akY1b01Ma3ExWW9fZktGRDgwLXFwc0RQY3gycnVZQ2xjNkc4SXlCNFo0SDN4WnVvc3ZwNA?oc=5>
 
 ### 特朗普新关税生效数小时后即遭起诉，专家称其可能无法维持
 
@@ -13,44 +21,71 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-07-25 14:33
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxNM2MwbjhXUFZ3eFpuRDVaOVo1LThRREhtSndISXhpUEtOYWNQVFpyMlRKZGpaR29vajhYVHh1VUtsOVBLenpfVHVDaENCeVBkYUhJSTJMYkxGWUU5U3N5VUFLVzFCSWhJNkZrbTVSa3ROX0diNVJsWXVnZDlJcGU2LXQydFpfWnM?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxNOVY3eWp0eDFUTG1sTUJTcW4tb0tTa05SRlVNOU5PNXlHS3FLaWs1QWR3QU8zWEdIS3JBRUJjTDNiNC1xWjlBQVp1bGNKcUxOaVZlUlFHRmQycW1RclpIT3l0NUtiLXA4RjJGd21yVWxfaGxkOUhUUUJVRVl6OGlwYm9OZEt1RVEwX3c4eXlEdHJaNGQ4Q192SWlkb2l6VjY2dk1LcVVvUWlpLVpwWFVFMGJsUW8wNktWdTRnVnFfWF96VEFVWE5fYkYwOWE5anVsVWhxdzI3Zkdpc0VGd2Zr?oc=5>
 
-### 特朗普突然宣布：将第四次竞选总统！他头戴印有“特朗普2028”字样的小红帽称：我已经很有经验了，将再次出马
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-07-25 08:18
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZV2M1dkNkV0NKSllkX0tvWkc0SkNaX0pRX3AyMDB6SEo3NVpVVDNKMV9vZDhDZnVzN1dvN0ZlekI4SUQ3TW52NVhyZmFVWjZUWWVISXItQ01qSFo2bEFDV19GcFZhdEczb2pVS2xGZEhLV1dVNm93Tw?oc=5>
-
-### 枪击案发生近三月后 特朗普再次出席白宫记协晚宴
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-07-25 07:54
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXUDlFc0I0a3RKWG5PTzFBZlFkV1RZUDd0QWh4T2hiVm5oaWpFNWlUeWRpUnhRYjBSbXZDWXVpc3ZxN2h0THhqdmhSV3RNSndPU2c0Yl94ampUTVBGY2V5bXVLYTc?oc=5>
-
-### 特朗普称美方正与伊朗谈判 不排除加大军事打击
+### 事关红海航道 沙特、胡塞和特朗普各放狠话
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-25 21:49
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVzNJT0I4dFBtcGo5bDNIc3RGQ3Jad3A4bXNsNU4zZXROUXhhTnNWNlB0TVd5YW9DSndUOUNHVEFiVG1kUktnMElpbDFqS2s2d1FjYWo2OWVzUHotNlA1UkJqSGxZSVZTXzZRR1o4ckNVN2ItYzBkQTVKZVhNdkpWTnVtZ0pCaWZFcHNpZkx5UEFJWGM1ZVg0ZUFFR1FMLWhvOGZQZFI2STFZWW9IVV90WUkwTW9mamZmeUtfcUdnVEwwaFFjN2xOeGtQb2hkd0Zw?oc=5>
+- 时间: 2026-07-25 23:46
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZSVdQZll2VWJnejhJczdVcVJZR0puU1VUM0J5LWdVYXhCbC1pQUx6eTFoM0hGQUN3TWQwdV9XZndQbGJDRGZRS2tHYUFrWEk3cy00dm1DeWozVkZPaXgtUXlRRFpWYXV1Um11YzFRTndYQkRyVGFTdg?oc=5>
 
-### 以总理计划向特朗普递交伊朗情报
+### 白宫记协晚宴再度举行：特朗普调侃宾客们宁愿“死”也不穿防弹背心，引哄堂大笑
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 环球网
-- 时间: 2026-07-25 07:34
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE93dXZreTJrTXB0Y2tEbFpCcDU1ejR1azlZTzVSMVdOTDk5S1ZmbUI1RzZoc2dBQ2JISUVEYkF2Z3VxaGhDZ3N5ZTNoMlRDajdxdkxTS2ZURGs?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-07-24 07:00
+- 链接: <https://news.google.com/rss/articles/CBMi-AFBVV95cUxNaXhrSExxRTdTYm41aDRQSkVkRktvR2pPSndFblhQRm8zeXd6cHZWMnhNTXF1R00yRUoxSk5ubjFlZWxYVGhYWVlJVUxXSFZLUE9wTWRwc2IwTWtuQnBKLVk4a1BFMi1VUUFmY2Y1aTZidU1OT3lrdEJQZTMyRFFEdUViaDdYbmk3ZURTWWpQSTcyUEp0eTNhblgtUmU0OFV1UVlSMDlVamdUZ095Z0JWYzQzY08yWV9BQXY3dU5ZVXZEZllPdTI1STl5eVJnU2xydGV2dkZCTU1obVJkQml2LTMtV2k5eG9YZVB4azhyd2VMbjRKRkVFRQ?oc=5>
+
+### 特朗普按下美军空袭暂停键 沙特胡塞武装互袭红海局势升温
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华报业网
+- 时间: 2026-07-25 23:31
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE5ZWUxaNkxpblRQTXFpbWItXzFkcVp3aUt3UV9mRzlyNDdwZ3lZeFg1aEgzeHdnTFpYWlEyWHRIZXBMeHRJcWdnWjNVbE9zSnNXbTdVS2g4dVBJRnZnUzBpTkRuSV85YUhkRktv?oc=5>
+
+### 特朗普威胁：墨西哥生菜让美国人拉肚子，加税！
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-07-25 00:01
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5sMzExSFlXVk93ckcwZlFUZlVYRURaZDN2T1lpRl9ZeW1wTEE4S0VOR3ktYjhMcGZQZGk0LTRfSlYzRGk3ajZpS0NfYnZGSlkzMjVvQjhRNk1wSGFFWTdoLXo1aVZXbk1ySlE?oc=5>
+
+### 特朗普下令暂停空袭伊朗
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: chinanews.com.cn
+- 时间: 2026-07-25 22:23
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JVnFVSlVSdFBfSXBJdmRPSW5KOUVXdXdlTHZqOVo5Wlc1Wk9lMmFNVUU4dTVIelpTRVY0THREbkVBWml4VTNiSHZtX3Q3VUVMazkwWlRfZUpPTkZhcnhPUE92TGJkYW9B?oc=5>
+
+### 美国停止对伊朗的空袭，认为谈判出现转机：你需要了解什么
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Al-Monitor
+- 时间: 2026-07-24 07:00
+- 链接: <https://news.google.com/rss/articles/CBMixgFBVV95cUxNdUdSQUNLWTlFQURSUnVhTG9ydV80cXI4VEFZUE9FeWFuNFZkV2Nib0RhNWNNWlhDc3k0LWtTRnlUREg5R1lwNG5jZ2lxMjJuOTF6VkdOc1VKMUkySFJXUG15LWxvR2FWR2p3djRtbTFnclBGR010dVRjSnd4VGhnSXVoY3B1SW81ZU1qRFFRaTJ1UWlXaTZRTDdGa0dYUlRkbnE0eGNnOXUyZUFvZF92MGJST0FJYWJVR3JRUXNUS2dXT2lFSFE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-25 23:54  (8 条)
+
+- **特朗普** | 特朗普下令暂停空袭伊朗 <https://news.google.com/rss/articles/CBMieEFVX3lxTE1oYkkxVE1mZm1RUUd5SzJISml4U0lja2VYT0tFN0xLc0Vid1lOY09RRlF0R3VZX1pGX1g2WGQ3aUh6ZVl0akY1b01Ma3ExWW9fZktGRDgwLXFwc0RQY3gycnVZQ2xjNkc4SXlCNFo0SDN4WnVvc3ZwNA?oc=5>
+- **特朗普** | 特朗普新关税生效数小时后即遭起诉，专家称其可能无法维持 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxNOVY3eWp0eDFUTG1sTUJTcW4tb0tTa05SRlVNOU5PNXlHS3FLaWs1QWR3QU8zWEdIS3JBRUJjTDNiNC1xWjlBQVp1bGNKcUxOaVZlUlFHRmQycW1RclpIT3l0NUtiLXA4RjJGd21yVWxfaGxkOUhUUUJVRVl6OGlwYm9OZEt1RVEwX3c4eXlEdHJaNGQ4Q192SWlkb2l6VjY2dk1LcVVvUWlpLVpwWFVFMGJsUW8wNktWdTRnVnFfWF96VEFVWE5fYkYwOWE5anVsVWhxdzI3Zkdpc0VGd2Zr?oc=5>
+- **特朗普** | 事关红海航道 沙特、胡塞和特朗普各放狠话 <https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZSVdQZll2VWJnejhJczdVcVJZR0puU1VUM0J5LWdVYXhCbC1pQUx6eTFoM0hGQUN3TWQwdV9XZndQbGJDRGZRS2tHYUFrWEk3cy00dm1DeWozVkZPaXgtUXlRRFpWYXV1Um11YzFRTndYQkRyVGFTdg?oc=5>
+- **特朗普** | 白宫记协晚宴再度举行：特朗普调侃宾客们宁愿“死”也不穿防弹背心，引哄堂大笑 <https://news.google.com/rss/articles/CBMi-AFBVV95cUxNaXhrSExxRTdTYm41aDRQSkVkRktvR2pPSndFblhQRm8zeXd6cHZWMnhNTXF1R00yRUoxSk5ubjFlZWxYVGhYWVlJVUxXSFZLUE9wTWRwc2IwTWtuQnBKLVk4a1BFMi1VUUFmY2Y1aTZidU1OT3lrdEJQZTMyRFFEdUViaDdYbmk3ZURTWWpQSTcyUEp0eTNhblgtUmU0OFV1UVlSMDlVamdUZ095Z0JWYzQzY08yWV9BQXY3dU5ZVXZEZllPdTI1STl5eVJnU2xydGV2dkZCTU1obVJkQml2LTMtV2k5eG9YZVB4azhyd2VMbjRKRkVFRQ?oc=5>
+- **特朗普** | 特朗普按下美军空袭暂停键 沙特胡塞武装互袭红海局势升温 <https://news.google.com/rss/articles/CBMia0FVX3lxTE5ZWUxaNkxpblRQTXFpbWItXzFkcVp3aUt3UV9mRzlyNDdwZ3lZeFg1aEgzeHdnTFpYWlEyWHRIZXBMeHRJcWdnWjNVbE9zSnNXbTdVS2g4dVBJRnZnUzBpTkRuSV85YUhkRktv?oc=5>
+- **特朗普** | 特朗普威胁：墨西哥生菜让美国人拉肚子，加税！ <https://news.google.com/rss/articles/CBMiakFVX3lxTE5sMzExSFlXVk93ckcwZlFUZlVYRURaZDN2T1lpRl9ZeW1wTEE4S0VOR3ktYjhMcGZQZGk0LTRfSlYzRGk3ajZpS0NfYnZGSlkzMjVvQjhRNk1wSGFFWTdoLXo1aVZXbk1ySlE?oc=5>
+- **特朗普** | 特朗普下令暂停空袭伊朗 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JVnFVSlVSdFBfSXBJdmRPSW5KOUVXdXdlTHZqOVo5Wlc1Wk9lMmFNVUU4dTVIelpTRVY0THREbkVBWml4VTNiSHZtX3Q3VUVMazkwWlRfZUpPTkZhcnhPUE92TGJkYW9B?oc=5>
+- **Trump** | 美国停止对伊朗的空袭，认为谈判出现转机：你需要了解什么 <https://news.google.com/rss/articles/CBMixgFBVV95cUxNdUdSQUNLWTlFQURSUnVhTG9ydV80cXI4VEFZUE9FeWFuNFZkV2Nib0RhNWNNWlhDc3k0LWtTRnlUREg5R1lwNG5jZ2lxMjJuOTF6VkdOc1VKMUkySFJXUG15LWxvR2FWR2p3djRtbTFnclBGR010dVRjSnd4VGhnSXVoY3B1SW81ZU1qRFFRaTJ1UWlXaTZRTDdGa0dYUlRkbnE0eGNnOXUyZUFvZF92MGJST0FJYWJVR3JRUXNUS2dXT2lFSFE?oc=5>
 
 ### 2026-07-25 22:47  (5 条)
 
