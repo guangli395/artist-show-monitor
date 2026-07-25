@@ -1,64 +1,26 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-25 13:10**
-- 本轮扫到 7762 条, 新增 **6** 条
+- 最近更新: **2026-07-25 14:45**
+- 本轮扫到 7763 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (1 条)
 
-### 特朗普：将对伊朗和胡塞武装实施“重大军事惩罚”
+### 周杰伦演唱会“一票难求”引诈骗，常德一歌迷被骗1.5万！警方跨省追回：赵某被刑拘
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-07-24 22:57
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBDRDNZYXNTVVdrb3VoS1lFVzNOME5ZcHFlVi04a1NZYjV3VVE1QUJxY19lcVlkSlVEbk15UlpTZWFZa0dSelZMSUZvS2lYVi11SUxvS29wUWtzOXAzRk9XOGViUFNJTzN6ZlVHRTBtMmFWamZONml0N0Fybllwem8?oc=5>
-
-### 特朗普政府想禁中国AI模型？自废武功，反而成全中国
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-25 12:26
-- 链接: <https://news.google.com/rss/articles/CBMihgFBVV95cUxNMzZXLTljX3RNQ0pMbEc2eERYeHVQdFJMVU9MNDl2SWs3SmFXaFg3QzVBTW1PYnhqX0VwZ1A0UFJ5MW5oWTlqS1FSRU9SV1RkcFgtVFYwNzBuNGlXdVNGUEVVRUY5ay1uSTlVaFpQUkw0V3pYRmlvb2hjaEdWYzZaRHpYS0psQQ?oc=5>
-
-### 特朗普威胁对欧盟产品征收新关税 以报复欧盟对谷歌罚款
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-24 18:00
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbnlTb0NCYWR0eFVRSERxaE8yUTA5SGs5Y25vU1FNSWdBRlFMMlh4cy1fb2VfMVlDR09vWVd4NXRsSVRINGljeHM3aVVEYjZSZmIwNzV5LVlBSVJHSnZwRERWZHFyakNmRjZfTmdkUjFUWERtd1RQRGZfeEpBZ1Y0bm9oZTN1SjRwd181Z2NBSnFYdlRISHNhNFNZa05hdzdZaEIxS0hnQ3NGSDVMSFdlc1BLMFFicU1ZTkw4WGRTcU9HOTkwR0dMa1FSeVpVMDhE?oc=5>
-
-### 枪击案发生近三月后 特朗普再次出席白宫记协晚宴
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新蓝网
-- 时间: 2026-07-24 17:19
-- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE5KNk1uU3QxOVNic2FQYVppOWxZZXJNU2tBMUUxY0ZsYVc4dUtxcmtxMmQ2eklLVHRKaF90aWt3SFZsQWItbkE3c1ZQRDlMRGs?oc=5>
-
-### 特朗普突然宣布：将第四次竞选总统！他头戴印有“特朗普2028”字样的小红帽称：我已经很有经验了，将再次出马
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-07-25 08:28
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHVi1DMzBYazNQOXpzX091emo5SWhkV0NVWDl4V1lvQm84d3VDaUdqQ1VhT255VkV2MmZ5S2RZNy1ELS0tZkhlcURwM1h1UW9TTEtJ?oc=5>
-
-### 围绕引进中国存储芯片，苹果与美光冲突……Trump总统陷入两难- 阿视亚经济
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 아시아경제
-- 时间: 2026-07-25 10:24
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfOTFFUzRBQV9RS3FTWjFKREV1ZXFnek9jNFNoT1dqLXhsUGdZV0Zmb0lOSGZUMGF4VlhnSEZfM3l6b3NtOUJSc2hhaW1pVG5maVB0R2RVYTNmT2M2b0pZbmdVeGI?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_3363163410_c875cd1202001yooe.html>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-25 14:45  (1 条)
+
+- **周杰伦** | 周杰伦演唱会“一票难求”引诈骗，常德一歌迷被骗1.5万！警方跨省追回：赵某被刑拘 <https://k.sina.com.cn/article_3363163410_c875cd1202001yooe.html>
 
 ### 2026-07-25 13:10  (6 条)
 
