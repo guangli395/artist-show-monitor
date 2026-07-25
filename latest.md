@@ -1,19 +1,19 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-25 15:59**
-- 本轮扫到 7769 条, 新增 **6** 条
+- 最近更新: **2026-07-25 17:03**
+- 本轮扫到 7772 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (3 条)
 
 ### 特朗普新关税生效数小时后即遭起诉，专家称其可能无法维持
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-25 14:33
-- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxPUXhTUldWMDhiQWkzbUZXMkNNNDEtNUU3WE9vcXJwZDlMUzluMS02RkVILWJWUWNtaWo5YTBwMW8xaVBuVFg0YVgxdjJGZTl0Z2MyN1EzVE0tWC1qdTFaaFZoNzFabnl3ZGpGakNoaVhqM1NEcUJrSWVrd1padGVTNk5GWWtjWDBKMk5pUUJ3Wi1fWkFaRkxOR2JlNnE?oc=5>
+- 时间: 2026-07-25 15:20
+- 链接: <https://news.google.com/rss/articles/CBMi_wFBVV95cUxOQTlBTGRERkxxeDZxb25vbExxOXo3TXdQeFdBTURpQU5Jcy1qcTk2SnVoT0FCRmdvRjliUnZ1R2lZY1JBN3NZLUN4NUZrMVNmRE9tekx5ejJjQWF3TUFWMkNGY3NzYnlZY3VKZnFSV1o0NU5YSEJMdWhlT3RvOHppaEhzeXJHSUh4R1NtSVJNeVFyR2I1VUsxTnhpYzJUOWlHbFF4aE40LUV5NEk4aWJwbi1UTFhIY1ZqSHB3MWh1bURIWU5rWmdvVmk0YU5BUlNsZ2JncEJReEt4VEZFYk5pRFp5TmE0MEhLVzVRWFJ4aUVCQVRjYng5OHkwT3lYb2M?oc=5>
 
 ### 特朗普威胁对欧盟产品征收新关税 以报复欧盟对谷歌罚款
 
@@ -21,44 +21,26 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-07-24 18:00
-- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUXQtVEVRUjZSSzI2cWs5SGFXakxfcVJOSkRCLVN5VkdyN0l6U29vV0I1RDRHN1NUdmpoX05aVC0zbU4xRUZOWjBJNGtOZlhHUURqdy1rdWliMTAzYi1iYTJtMUJUT0dZM3JSVlIyQVlJeDljOHB5N2RvdDFOT253SkxTdzZZMFp1VDhXRzdZZnRUWlpCcDN4REhrMzNJX0RKaV8zX1NrTTdrc25SS2QxNWJpeFB0MXIyZnBCYzRIbks1UU5VVnV2ZllIR2ZGYWpGb3c?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdU9oQUdNbU1mbnMxOHFWb2dGQkxQbFg5UWZpWGQ3aFVuNFVxc0hkZXBrWmxTcXhLV0N1Q1FFOEdQT3piVmN0cWNCYk0tcUJuTGwtdU55N2NNSmZySnNHMUwzbVVaMkNkYlhNVFZOcVlSWGswclYwSjVFY0xzMTZ5TE9wVndoanhFb3BweGZhY3dUajZhejZVTFZRZGhhUkVYdjBmQWdVOVRzTWJoNW9oNDNqVVV5WkdocGJCNGl2S0xUbGNEZ3NVajg0TmN1czQ1anc?oc=5>
 
-### 特朗普威胁对欧盟加征报复性关税
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-07-25 12:12
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE40WlhZM1VCXzhDVmVQdmlGSGpIUldqRlVpbVExbm5vdTY1SmI3alQ5cTh1QWRtWlJsd3QwZzg4RW9nVkxwdGZybmxIbVUwaXBaRWV0ODJXOW9KVHRzLWcwZnZPeTc?oc=5>
-
-### 特朗普宣布准备第四次竞选总统，头戴印有 “特朗普2028” 字样的小红帽，“竞选总统 我已经很有经验了”（来源：中国新闻社）#特朗普 #竞选 #美国 #特朗普第四次竞选
+### 特朗普为何又打关税牌又邀中方访美 贸易战与对话并行
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Sohu
-- 时间: 2026-07-25 12:08
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxNcmJaYW9sWDNKb243eUhCanBLbWF5dGZja0JZNUVfNEhEbzlTLTNtNHUwV0pSYVlRWGhwakRhQmJWdTlIY2RVQWZwV2tUNzZZRnYtQ1JPR3dOZ1RRLUFRa1hacTI3UW9zSklZeG15MXZKcTVMMjh3YXFjRFlPVzJOMlA0dkRoMkhWYjlLWA?oc=5>
-
-### 库克游说特朗普使用中国芯片！美光强烈反对：你是要毁掉美国存储产业
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 驱动之家
-- 时间: 2026-07-25 13:09
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE1CdE8wLTVTN01ySHhYdG9SODJsb0VIN3ZZb1lQbnBwY0s5M3pRYkFkYzgyWXlLQ0hoWG41RWx5UWVERlJiUGNUVzN1SExGdllCRXlzblVRQ2s?oc=5>
-
-### Trump：欧盟就谷歌罚款“将付出巨大代价”
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 아시아경제
-- 时间: 2026-07-25 11:01
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fODRqLWFaWUE4bWZHVUNrd2lhWmdmZ3o1MFVJeXpOcjFSYWFSRFhVWHNkZU1HZURJcFdJY2JucjAtU3RXbnVHQ3oyNzRxNV9hZHY2WklCNDI5SFdNZ2tSVmk4UUI?oc=5>
+- 场馆: 中华网
+- 时间: 2026-07-25 09:39
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9iaThIczZqdk1STjhQcGxmTU96VWx5NElzS0RYLUc3ZXp3M0RzZ3U5VV9iMW8xcnhwdF9Sc29reF9GY3QyYnhwM0xMMF9hVGZJQlBqS1lDWjdIU0hKWFBmbnM3TS1HR05MYXktQ2tFMTU?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-25 17:03  (3 条)
+
+- **特朗普** | 特朗普新关税生效数小时后即遭起诉，专家称其可能无法维持 <https://news.google.com/rss/articles/CBMi_wFBVV95cUxOQTlBTGRERkxxeDZxb25vbExxOXo3TXdQeFdBTURpQU5Jcy1qcTk2SnVoT0FCRmdvRjliUnZ1R2lZY1JBN3NZLUN4NUZrMVNmRE9tekx5ejJjQWF3TUFWMkNGY3NzYnlZY3VKZnFSV1o0NU5YSEJMdWhlT3RvOHppaEhzeXJHSUh4R1NtSVJNeVFyR2I1VUsxTnhpYzJUOWlHbFF4aE40LUV5NEk4aWJwbi1UTFhIY1ZqSHB3MWh1bURIWU5rWmdvVmk0YU5BUlNsZ2JncEJReEt4VEZFYk5pRFp5TmE0MEhLVzVRWFJ4aUVCQVRjYng5OHkwT3lYb2M?oc=5>
+- **特朗普** | 特朗普威胁对欧盟产品征收新关税 以报复欧盟对谷歌罚款 <https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdU9oQUdNbU1mbnMxOHFWb2dGQkxQbFg5UWZpWGQ3aFVuNFVxc0hkZXBrWmxTcXhLV0N1Q1FFOEdQT3piVmN0cWNCYk0tcUJuTGwtdU55N2NNSmZySnNHMUwzbVVaMkNkYlhNVFZOcVlSWGswclYwSjVFY0xzMTZ5TE9wVndoanhFb3BweGZhY3dUajZhejZVTFZRZGhhUkVYdjBmQWdVOVRzTWJoNW9oNDNqVVV5WkdocGJCNGl2S0xUbGNEZ3NVajg0TmN1czQ1anc?oc=5>
+- **特朗普** | 特朗普为何又打关税牌又邀中方访美 贸易战与对话并行 <https://news.google.com/rss/articles/CBMicEFVX3lxTE9iaThIczZqdk1STjhQcGxmTU96VWx5NElzS0RYLUc3ZXp3M0RzZ3U5VV9iMW8xcnhwdF9Sc29reF9GY3QyYnhwM0xMMF9hVGZJQlBqS1lDWjdIU0hKWFBmbnM3TS1HR05MYXktQ2tFMTU?oc=5>
 
 ### 2026-07-25 15:59  (6 条)
 
