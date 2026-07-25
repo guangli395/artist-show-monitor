@@ -1,32 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-25 21:48**
-- 本轮扫到 7784 条, 新增 **2** 条
+- 最近更新: **2026-07-25 22:47**
+- 本轮扫到 7789 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (5 条)
 
-### 特朗普再打关税战 这次有何不同 新关税政策引发争议
+### 特朗普新关税生效数小时后即遭起诉，专家称其可能无法维持
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-07-25 14:34
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1kbHh5dllLWnVsaUpRd1l1QzRkLWFqdFNENTA5eGI4aFVRTXEtSGE2Z2FXQUEzWVk4empCX2NMSGNweVYxQlNoVHJfV2J3RFlySFdGV1RIcGFlY2h4UEVIOXIyMTZ0OGVhOGlBTkdwTUg?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-07-25 14:33
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxNM2MwbjhXUFZ3eFpuRDVaOVo1LThRREhtSndISXhpUEtOYWNQVFpyMlRKZGpaR29vajhYVHh1VUtsOVBLenpfVHVDaENCeVBkYUhJSTJMYkxGWUU5U3N5VUFLVzFCSWhJNkZrbTVSa3ROX0diNVJsWXVnZDlJcGU2LXQydFpfWnM?oc=5>
+
+### 特朗普突然宣布：将第四次竞选总统！他头戴印有“特朗普2028”字样的小红帽称：我已经很有经验了，将再次出马
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-07-25 08:18
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZV2M1dkNkV0NKSllkX0tvWkc0SkNaX0pRX3AyMDB6SEo3NVpVVDNKMV9vZDhDZnVzN1dvN0ZlekI4SUQ3TW52NVhyZmFVWjZUWWVISXItQ01qSFo2bEFDV19GcFZhdEczb2pVS2xGZEhLV1dVNm93Tw?oc=5>
+
+### 枪击案发生近三月后 特朗普再次出席白宫记协晚宴
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新京报
+- 时间: 2026-07-25 07:54
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXUDlFc0I0a3RKWG5PTzFBZlFkV1RZUDd0QWh4T2hiVm5oaWpFNWlUeWRpUnhRYjBSbXZDWXVpc3ZxN2h0THhqdmhSV3RNSndPU2c0Yl94ampUTVBGY2V5bXVLYTc?oc=5>
 
 ### 特朗普称美方正与伊朗谈判 不排除加大军事打击
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-25 20:44
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRG1tX1N4aEE5Nnh2WVZGOW5sLWhCTEZFQjN2ZVg1RHIzSkFDRkFsZ1ZxUTR6T211eERaLVY0WnYwTHUzR1RWTTV0ZElVbkcxWHRqWG5IR0t0eU5UUVNwX3R0RFlBYy1zQWQ1eWM4SWJQek5JRzVxdm1UMmtvXy13WXRkcExEbTdRUXdXRTZDakJwVW1FOFFNQlpIZFowMHBaU1AwZXpHR0dWUlplNHBYb2hNZE04eFhobm5NMk1LVjVQcjZmd0YxQ1c0OWkwbDJS?oc=5>
+- 时间: 2026-07-25 21:49
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVzNJT0I4dFBtcGo5bDNIc3RGQ3Jad3A4bXNsNU4zZXROUXhhTnNWNlB0TVd5YW9DSndUOUNHVEFiVG1kUktnMElpbDFqS2s2d1FjYWo2OWVzUHotNlA1UkJqSGxZSVZTXzZRR1o4ckNVN2ItYzBkQTVKZVhNdkpWTnVtZ0pCaWZFcHNpZkx5UEFJWGM1ZVg0ZUFFR1FMLWhvOGZQZFI2STFZWW9IVV90WUkwTW9mamZmeUtfcUdnVEwwaFFjN2xOeGtQb2hkd0Zw?oc=5>
+
+### 以总理计划向特朗普递交伊朗情报
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 环球网
+- 时间: 2026-07-25 07:34
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE93dXZreTJrTXB0Y2tEbFpCcDU1ejR1azlZTzVSMVdOTDk5S1ZmbUI1RzZoc2dBQ2JISUVEYkF2Z3VxaGhDZ3N5ZTNoMlRDajdxdkxTS2ZURGs?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-25 22:47  (5 条)
+
+- **特朗普** | 特朗普新关税生效数小时后即遭起诉，专家称其可能无法维持 <https://news.google.com/rss/articles/CBMihwFBVV95cUxNM2MwbjhXUFZ3eFpuRDVaOVo1LThRREhtSndISXhpUEtOYWNQVFpyMlRKZGpaR29vajhYVHh1VUtsOVBLenpfVHVDaENCeVBkYUhJSTJMYkxGWUU5U3N5VUFLVzFCSWhJNkZrbTVSa3ROX0diNVJsWXVnZDlJcGU2LXQydFpfWnM?oc=5>
+- **特朗普** | 特朗普突然宣布：将第四次竞选总统！他头戴印有“特朗普2028”字样的小红帽称：我已经很有经验了，将再次出马 <https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZV2M1dkNkV0NKSllkX0tvWkc0SkNaX0pRX3AyMDB6SEo3NVpVVDNKMV9vZDhDZnVzN1dvN0ZlekI4SUQ3TW52NVhyZmFVWjZUWWVISXItQ01qSFo2bEFDV19GcFZhdEczb2pVS2xGZEhLV1dVNm93Tw?oc=5>
+- **特朗普** | 枪击案发生近三月后 特朗普再次出席白宫记协晚宴 <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXUDlFc0I0a3RKWG5PTzFBZlFkV1RZUDd0QWh4T2hiVm5oaWpFNWlUeWRpUnhRYjBSbXZDWXVpc3ZxN2h0THhqdmhSV3RNSndPU2c0Yl94ampUTVBGY2V5bXVLYTc?oc=5>
+- **特朗普** | 特朗普称美方正与伊朗谈判 不排除加大军事打击 <https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVzNJT0I4dFBtcGo5bDNIc3RGQ3Jad3A4bXNsNU4zZXROUXhhTnNWNlB0TVd5YW9DSndUOUNHVEFiVG1kUktnMElpbDFqS2s2d1FjYWo2OWVzUHotNlA1UkJqSGxZSVZTXzZRR1o4ckNVN2ItYzBkQTVKZVhNdkpWTnVtZ0pCaWZFcHNpZkx5UEFJWGM1ZVg0ZUFFR1FMLWhvOGZQZFI2STFZWW9IVV90WUkwTW9mamZmeUtfcUdnVEwwaFFjN2xOeGtQb2hkd0Zw?oc=5>
+- **特朗普** | 以总理计划向特朗普递交伊朗情报 <https://news.google.com/rss/articles/CBMiWEFVX3lxTE93dXZreTJrTXB0Y2tEbFpCcDU1ejR1azlZTzVSMVdOTDk5S1ZmbUI1RzZoc2dBQ2JISUVEYkF2Z3VxaGhDZ3N5ZTNoMlRDajdxdkxTS2ZURGs?oc=5>
 
 ### 2026-07-25 21:48  (2 条)
 
