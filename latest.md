@@ -1,80 +1,53 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-25 23:54**
-- 本轮扫到 7797 条, 新增 **8** 条
+- 最近更新: **2026-07-26 02:09**
+- 本轮扫到 7801 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (4 条)
 
-### 特朗普下令暂停空袭伊朗
+### 摩托姐姐必备！Redmi Note 12王一博潮流定制款发布
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 央视网
-- 时间: 2026-07-25 22:31
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1oYkkxVE1mZm1RUUd5SzJISml4U0lja2VYT0tFN0xLc0Vid1lOY09RRlF0R3VZX1pGX1g2WGQ3aUh6ZVl0akY1b01Ma3ExWW9fZktGRDgwLXFwc0RQY3gycnVZQ2xjNkc4SXlCNFo0SDN4WnVvc3ZwNA?oc=5>
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001908g1sy.html>
 
-### 特朗普新关税生效数小时后即遭起诉，专家称其可能无法维持
+### 刚签完又反悔？特朗普追加条件，沙特核协议悬了？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-25 14:33
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxNOVY3eWp0eDFUTG1sTUJTcW4tb0tTa05SRlVNOU5PNXlHS3FLaWs1QWR3QU8zWEdIS3JBRUJjTDNiNC1xWjlBQVp1bGNKcUxOaVZlUlFHRmQycW1RclpIT3l0NUtiLXA4RjJGd21yVWxfaGxkOUhUUUJVRVl6OGlwYm9OZEt1RVEwX3c4eXlEdHJaNGQ4Q192SWlkb2l6VjY2dk1LcVVvUWlpLVpwWFVFMGJsUW8wNktWdTRnVnFfWF96VEFVWE5fYkYwOWE5anVsVWhxdzI3Zkdpc0VGd2Zr?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-07-26 00:22
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE96UWV0Y3UxWFpQUzBZN3MyQXJ2Unk1dnJWTmtsRjMtSmNybGMxQjZnMjlJM0xNSzhsSE8tSmVqNEpUck1vV2JWMVFJNVlRVGc3NW5KV1htRnBlYVRtcXF6cFJZdkpPTzdYNEl3bWdaZW1Gdw?oc=5>
 
-### 事关红海航道 沙特、胡塞和特朗普各放狠话
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-25 23:46
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZSVdQZll2VWJnejhJczdVcVJZR0puU1VUM0J5LWdVYXhCbC1pQUx6eTFoM0hGQUN3TWQwdV9XZndQbGJDRGZRS2tHYUFrWEk3cy00dm1DeWozVkZPaXgtUXlRRFpWYXV1Um11YzFRTndYQkRyVGFTdg?oc=5>
-
-### 白宫记协晚宴再度举行：特朗普调侃宾客们宁愿“死”也不穿防弹背心，引哄堂大笑
+### 以总理计划向特朗普递交伊朗情报
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-24 07:00
-- 链接: <https://news.google.com/rss/articles/CBMi-AFBVV95cUxNaXhrSExxRTdTYm41aDRQSkVkRktvR2pPSndFblhQRm8zeXd6cHZWMnhNTXF1R00yRUoxSk5ubjFlZWxYVGhYWVlJVUxXSFZLUE9wTWRwc2IwTWtuQnBKLVk4a1BFMi1VUUFmY2Y1aTZidU1OT3lrdEJQZTMyRFFEdUViaDdYbmk3ZURTWWpQSTcyUEp0eTNhblgtUmU0OFV1UVlSMDlVamdUZ095Z0JWYzQzY08yWV9BQXY3dU5ZVXZEZllPdTI1STl5eVJnU2xydGV2dkZCTU1obVJkQml2LTMtV2k5eG9YZVB4azhyd2VMbjRKRkVFRQ?oc=5>
+- 场馆: 新京报
+- 时间: 2026-07-25 23:15
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JTVMtQ1F0TnBvUXU1SW0tb25xUU5TbUdHNmFXQ1lHZ01BSUxwZ2Z6NnhSX1ZhVTdFb0lJWTJPcURkUmNOU19XU29FZ3pBaHlLaHpHSjJ4U0dEUDZKSjVBQ3FPbTI?oc=5>
 
-### 特朗普按下美军空袭暂停键 沙特胡塞武装互袭红海局势升温
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华报业网
-- 时间: 2026-07-25 23:31
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE5ZWUxaNkxpblRQTXFpbWItXzFkcVp3aUt3UV9mRzlyNDdwZ3lZeFg1aEgzeHdnTFpYWlEyWHRIZXBMeHRJcWdnWjNVbE9zSnNXbTdVS2g4dVBJRnZnUzBpTkRuSV85YUhkRktv?oc=5>
-
-### 特朗普威胁：墨西哥生菜让美国人拉肚子，加税！
+### 新华社消息丨美媒：特朗普24日下令美军暂停打击伊朗
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-07-25 00:01
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5sMzExSFlXVk93ckcwZlFUZlVYRURaZDN2T1lpRl9ZeW1wTEE4S0VOR3ktYjhMcGZQZGk0LTRfSlYzRGk3ajZpS0NfYnZGSlkzMjVvQjhRNk1wSGFFWTdoLXo1aVZXbk1ySlE?oc=5>
-
-### 特朗普下令暂停空袭伊朗
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-07-25 22:23
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JVnFVSlVSdFBfSXBJdmRPSW5KOUVXdXdlTHZqOVo5Wlc1Wk9lMmFNVUU4dTVIelpTRVY0THREbkVBWml4VTNiSHZtX3Q3VUVMazkwWlRfZUpPTkZhcnhPUE92TGJkYW9B?oc=5>
-
-### 美国停止对伊朗的空袭，认为谈判出现转机：你需要了解什么
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Al-Monitor
-- 时间: 2026-07-24 07:00
-- 链接: <https://news.google.com/rss/articles/CBMixgFBVV95cUxNdUdSQUNLWTlFQURSUnVhTG9ydV80cXI4VEFZUE9FeWFuNFZkV2Nib0RhNWNNWlhDc3k0LWtTRnlUREg5R1lwNG5jZ2lxMjJuOTF6VkdOc1VKMUkySFJXUG15LWxvR2FWR2p3djRtbTFnclBGR010dVRjSnd4VGhnSXVoY3B1SW81ZU1qRFFRaTJ1UWlXaTZRTDdGa0dYUlRkbnE0eGNnOXUyZUFvZF92MGJST0FJYWJVR3JRUXNUS2dXT2lFSFE?oc=5>
+- 场馆: 新华网客户端
+- 时间: 2026-07-26 02:08
+- 链接: <https://news.google.com/rss/articles/CBMimgFBVV95cUxOeWZ6ZC1oaGVocnJvYlhqZk96TjJsM1I4X1FnaFBERWhfTWk4eUdxaW41eFJCVTJBX04zRWtTREdWcGpIQ1lsdG9jTG93MXlfZ04tTkcxVXVUZHdteWZnblR5ZllTX2tuNWN1NGFQdXBKcDZKbWVpRTB5VGpPRnloZXZUcjRyQldsdTFNWHYxc3pJUTJpMnhpUk9R?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-26 02:09  (4 条)
+
+- **王一博** | 摩托姐姐必备！Redmi Note 12王一博潮流定制款发布 <https://k.sina.com.cn/article_7857201856_1d45362c001908g1sy.html>
+- **特朗普** | 刚签完又反悔？特朗普追加条件，沙特核协议悬了？ <https://news.google.com/rss/articles/CBMickFVX3lxTE96UWV0Y3UxWFpQUzBZN3MyQXJ2Unk1dnJWTmtsRjMtSmNybGMxQjZnMjlJM0xNSzhsSE8tSmVqNEpUck1vV2JWMVFJNVlRVGc3NW5KV1htRnBlYVRtcXF6cFJZdkpPTzdYNEl3bWdaZW1Gdw?oc=5>
+- **特朗普** | 以总理计划向特朗普递交伊朗情报 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JTVMtQ1F0TnBvUXU1SW0tb25xUU5TbUdHNmFXQ1lHZ01BSUxwZ2Z6NnhSX1ZhVTdFb0lJWTJPcURkUmNOU19XU29FZ3pBaHlLaHpHSjJ4U0dEUDZKSjVBQ3FPbTI?oc=5>
+- **特朗普** | 新华社消息丨美媒：特朗普24日下令美军暂停打击伊朗 <https://news.google.com/rss/articles/CBMimgFBVV95cUxOeWZ6ZC1oaGVocnJvYlhqZk96TjJsM1I4X1FnaFBERWhfTWk4eUdxaW41eFJCVTJBX04zRWtTREdWcGpIQ1lsdG9jTG93MXlfZ04tTkcxVXVUZHdteWZnblR5ZllTX2tuNWN1NGFQdXBKcDZKbWVpRTB5VGpPRnloZXZUcjRyQldsdTFNWHYxc3pJUTJpMnhpUk9R?oc=5>
 
 ### 2026-07-25 23:54  (8 条)
 
