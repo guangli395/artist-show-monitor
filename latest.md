@@ -1,40 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-26 21:53**
-- 本轮扫到 7859 条, 新增 **3** 条
+- 最近更新: **2026-07-26 22:54**
+- 本轮扫到 7860 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (1 条)
 
-### 欧盟重罚谷歌，特朗普威胁对欧再征税，美欧数字争端愈演愈烈
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-26 20:22
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1oS0phRy1lNTZMZzR4SzFsM3lENmpnbFY2TWd4OHl3OTZMSWphWGFKeTQ4WTlsYmFaV2VCNFZtVnRwUmZMZVh2WmtsR2pKb255WHpHbllmU2pkNW1DUzF1dEhyTXhpOHltNTRvVWVSdTAtYk1EZHh0Qg?oc=5>
-
-### 获特朗普赦免后洪都拉斯前总统埃尔南德斯返回祖国
+### 特朗普又改口 沙特“瞠目结舌”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-07-26 20:58
-- 链接: <https://news.google.com/rss/articles/CBMi8wJBVV95cUxQYkNwVmNJNFJJeXdNOWlEYnFXdXVUYjMzZ1JORXZuOUl1Zi1yWVZYZ2FHX0phNEJ3TmQtR3poU3lNQ3VuMjBubHlKYXp0MUNVdmRiTGdydnJWaENPaVpUaGNXRzd4MjQ1akVjQVpLN0VmeE9MaE5DVlRGeDdEX0M5bTlWMzR5eFJDZmNDQmJ5eEZQZmFPMGFtTXAxU1hXZERGbUpaNFNYbE5EMkJCOVdTUXZ1UC1ZLWtmWU9KQ1doeGdLU3FzdWhBa0hvTUhXbXhsSzkzX2FoVGJEWTIzZ3hzc0c4cWs1R1VIUW85bE05bDhCbnAxblRmVG0xMGZ5d0Y2NUUxTVU4X05jZ1BRT2NpT3p4RWlPWGQ1X2FtS21EQWxXZUVWTng4bjlNcDZpRG9BejB4R3piRmRLT0xza0c1UkpZN2U0bzd1cGdDZzZyRDZNQ2NYNFFQU2xCRlVlaFdTSURlZDNQbXFkTnZpNWlQYnJQYw?oc=5>
-
-### 美国2026中期选举100天前的选情
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-07-26 20:53
-- 链接: <https://news.google.com/rss/articles/CBMi4AFBVV95cUxNU1M0VzA0MmxMVloza2lJRVdjOC1FYlJyUHMwWjdLZ3I0MVlaVXlaTkxlcGtiUVAzSXNMQ2FyQS1aWXdYTXo4YnNicGtwXzlhLW56VDlZYzIyaFZsX1RMZ3ZuS01GeTBlenlFZVk0ZkxVVGlmNEFucEdiRHZ3TEJWWXdDME5hMm9sQjJYbGJPTm1aVzZQS01uWlpTTzdpWVkzdC1wb1ZLMmdveGZJSXJFcFRlUVdiNmVpdnZVZlR1cWhZMkp2LUN4QnhWanZHTDJYVldkUThYWF9ueEdzT29FLQ?oc=5>
+- 场馆: 手机网易网
+- 时间: 2026-07-24 08:31
+- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE1oYnJWTTJVT3d6Z0FJWkNwSll0UFVQSkVHcXdKU1V3ZkFDck5IN0lzZmpORlVGTmFRSTJZckdSQWlTM21OMmpnaDBMbXVWYVVSSDV3TVZBcHA2VDFHbEtnYlVB?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-26 22:54  (1 条)
+
+- **特朗普** | 特朗普又改口 沙特“瞠目结舌” <https://news.google.com/rss/articles/CBMiYkFVX3lxTE1oYnJWTTJVT3d6Z0FJWkNwSll0UFVQSkVHcXdKU1V3ZkFDck5IN0lzZmpORlVGTmFRSTJZckdSQWlTM21OMmpnaDBMbXVWYVVSSDV3TVZBcHA2VDFHbEtnYlVB?oc=5>
 
 ### 2026-07-26 21:53  (3 条)
 
