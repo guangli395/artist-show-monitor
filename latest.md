@@ -1,58 +1,26 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-26 08:14**
-- 本轮扫到 7822 条, 新增 **6** 条
+- 最近更新: **2026-07-26 10:16**
+- 本轮扫到 7823 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (1 条)
 
-### 18:28的发布时间如何被摩托姐姐破解为“一博爱博”暗号？
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776731_1d5abd9db06801cwom.html>
-
-### 王一博在超话中给粉丝发布了什么安全提醒？
+### 211230 王一博新歌廿 王一博新歌《廿》登上世趋第三名
 
 - 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776726_1d5abd9d606801m0je.html>
-
-### 赵丽颖如何公开称赞王一博的新歌？
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923378_1d5ae16b206801xbzq.html>
-
-### 澳总理要找特朗普“理论”关税：这会损害美澳贸易关系
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-26 07:11
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1waEtZeEFMVGpsdVRLaUs2bVhPbjVXRmQ1TFZZSGVGWjhseURqenV0VFUzcFdVLUMzaEJ3X09vRC1zMEpwUTNLNWdGZC0?oc=5>
-
-### 特朗普：美沙核协议不涉及铀浓缩活动
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-07-23 13:04
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE41c1RGdmFxeTV3Tm1ZNHlvU1RJOHdpZFdUM3JzWFYwRkZWb1NrQ3p3ZWxOVVNsY1BLMzdMSnlZel8wRmNEcVY0ZHVYbXVXcXBKa0xiOVpMMDl5b2JnSGJzLVBkOXVldw?oc=5>
-
-### 特朗普称詹姆斯是种族主义者
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-07-26 05:43
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFBMTkcyeFdScGd3RmI4bEdkeGppMjV3cGNWRnpacmlxQmllU1pqVkpONjdUOE5vd2luTkM2bVNwcTRhS2pnUlMwaUlDNjJndUpFcjJhejZrM2pRc3lDcC0xdWNQYnFFQ0UxZ3hmV05fc0ROTzA?oc=5>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001908gfe6.html>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-26 10:16  (1 条)
+
+- **王一博** | 211230 王一博新歌廿 王一博新歌《廿》登上世趋第三名 <https://k.sina.com.cn/article_7857201856_1d45362c001908gfe6.html>
 
 ### 2026-07-26 08:14  (6 条)
 
