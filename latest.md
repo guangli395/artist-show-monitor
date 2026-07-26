@@ -1,22 +1,73 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-26 13:06**
-- 本轮扫到 7830 条, 新增 **1** 条
+- 最近更新: **2026-07-26 14:47**
+- 本轮扫到 7836 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮新发现 (6 条)
 
-### 2026年周杰伦演唱会的票务购买信息
+### 37岁白宫记协新主席上任，接替江惟嘉，被特朗普当面“辣评”
 
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879995995_1d5af325b06801nywm.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-07-26 10:54
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9xTUw5RHdrWlZYcmtaLVBYNGtXWWg0ZHRBSHdVVEFKWGFmZUhBQ1ZCbHBnRUJ0TnBpZ2xpeEFnZnNaZmNESWxMeEFoOE0?oc=5>
+
+### 特朗普新关税生效数小时后即遭起诉，专家称其可能无法维持
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-25 07:00
+- 链接: <https://news.google.com/rss/articles/CBMixwJBVV95cUxQTGpqOEVUVmpPdmVzV3V3cko5R0J2eVd0OFIyQnYySFFQR3lUWjVlVVdyZEx3RHlzWE0wcmZscXh0aUVIQmpIN0VyQ3J5UTNDcV9CbjdEU3owYzZQV3ZZc3BzODhyZkxXdlU4eVFTTWtxRTYzT1FyaVdLNDVwYUVNOUsxT2FUcFViVUFSbHBzYkczLWZnNVluN09ic2M2cmRyRmV5d3JrU2JkV2RycUJIT1BubGVYTWMyYXBMU0dzMlVLN2s5MXY3Nkk1TmdGZGhJYXpOcjhabGltc2FQcGl1elBMNnRUZFFDejBaZF9saFhNRzJ6TzhxT2lhZGtvYk5aeVVXUUtKRVdIVEhBSDNJNGJYUWk2ZFFka1I5UVhFV2o2ME5PNDZrOGxZcDI0dXE2OG1PTGFGMjl4WXFadXVhNlI4NG9XMDA?oc=5>
+
+### 【早报】特朗普威胁对欧盟加征报复性关税；韩国存储双雄拟签下9500亿美元大单
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 财联社
+- 时间: 2026-07-25 23:23
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTFBERjdHTWFHMHJFRUNXZnp0VHFKSXRpUFhzU2xDU2kzdzgtLXhfSmVnUmZ1blZRcGhCN2RMTGhEdjJZeVR4WTZ1Qg?oc=5>
+
+### 分析：特朗普新关税措施 北京虽不悦但不会报复
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-07-25 01:51
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBKTXJoeTVtbnNRalNhTEU5LWgxMU05UFI1eE82LTdRLVNZdUhTSTV2WHoySENDblVSczdYeWpfWld1UmZfVXFDMHRuZUstNjdBRENoQzFlU3UxTHFPRGxBaUxEZXBmdw?oc=5>
+
+### 特朗普下令暂停空袭伊朗
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中国日报网
+- 时间: 2026-07-25 23:31
+- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE56YTBSYi1mTS1DbnJJNlZQVGdySWk5b092R3A3QmMxbWJBenZlRGt4azVzLTBkbHlwZUdlNFAtbGdNMUZpZlh5Q2FwMEF3dk5zYVN3UTZwUG9SaEJuTEtOZGMtbmpPcE1haE4teE1Ia1EyMmJ2bWo5NE5BVmE?oc=5>
+
+### TRUMP 团队将昨日解锁的1380万枚TRUMP代币转入多家CEX交易所
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: TradingView
+- 时间: 2026-07-26 09:43
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE82c284WkdqM0laNXlYRVdUczRibGlXS05WdVhsNTRWaF9IUEZmZWU5VVZnbVRIN0dxMXBqbUNzc3hVeWJUbC0xaFY5cWllR0szck1ZWldsTDhDZHZBdloyUVY0d2dyRlU?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-26 14:47  (6 条)
+
+- **特朗普** | 37岁白宫记协新主席上任，接替江惟嘉，被特朗普当面“辣评” <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9xTUw5RHdrWlZYcmtaLVBYNGtXWWg0ZHRBSHdVVEFKWGFmZUhBQ1ZCbHBnRUJ0TnBpZ2xpeEFnZnNaZmNESWxMeEFoOE0?oc=5>
+- **特朗普** | 特朗普新关税生效数小时后即遭起诉，专家称其可能无法维持 <https://news.google.com/rss/articles/CBMixwJBVV95cUxQTGpqOEVUVmpPdmVzV3V3cko5R0J2eVd0OFIyQnYySFFQR3lUWjVlVVdyZEx3RHlzWE0wcmZscXh0aUVIQmpIN0VyQ3J5UTNDcV9CbjdEU3owYzZQV3ZZc3BzODhyZkxXdlU4eVFTTWtxRTYzT1FyaVdLNDVwYUVNOUsxT2FUcFViVUFSbHBzYkczLWZnNVluN09ic2M2cmRyRmV5d3JrU2JkV2RycUJIT1BubGVYTWMyYXBMU0dzMlVLN2s5MXY3Nkk1TmdGZGhJYXpOcjhabGltc2FQcGl1elBMNnRUZFFDejBaZF9saFhNRzJ6TzhxT2lhZGtvYk5aeVVXUUtKRVdIVEhBSDNJNGJYUWk2ZFFka1I5UVhFV2o2ME5PNDZrOGxZcDI0dXE2OG1PTGFGMjl4WXFadXVhNlI4NG9XMDA?oc=5>
+- **特朗普** | 【早报】特朗普威胁对欧盟加征报复性关税；韩国存储双雄拟签下9500亿美元大单 <https://news.google.com/rss/articles/CBMiSEFVX3lxTFBERjdHTWFHMHJFRUNXZnp0VHFKSXRpUFhzU2xDU2kzdzgtLXhfSmVnUmZ1blZRcGhCN2RMTGhEdjJZeVR4WTZ1Qg?oc=5>
+- **特朗普** | 分析：特朗普新关税措施 北京虽不悦但不会报复 <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBKTXJoeTVtbnNRalNhTEU5LWgxMU05UFI1eE82LTdRLVNZdUhTSTV2WHoySENDblVSczdYeWpfWld1UmZfVXFDMHRuZUstNjdBRENoQzFlU3UxTHFPRGxBaUxEZXBmdw?oc=5>
+- **特朗普** | 特朗普下令暂停空袭伊朗 <https://news.google.com/rss/articles/CBMifEFVX3lxTE56YTBSYi1mTS1DbnJJNlZQVGdySWk5b092R3A3QmMxbWJBenZlRGt4azVzLTBkbHlwZUdlNFAtbGdNMUZpZlh5Q2FwMEF3dk5zYVN3UTZwUG9SaEJuTEtOZGMtbmpPcE1haE4teE1Ia1EyMmJ2bWo5NE5BVmE?oc=5>
+- **Trump** | TRUMP 团队将昨日解锁的1380万枚TRUMP代币转入多家CEX交易所 <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE82c284WkdqM0laNXlYRVdUczRibGlXS05WdVhsNTRWaF9IUEZmZWU5VVZnbVRIN0dxMXBqbUNzc3hVeWJUbC0xaFY5cWllR0szck1ZWldsTDhDZHZBdloyUVY0d2dyRlU?oc=5>
 
 ### 2026-07-26 13:06  (1 条)
 
