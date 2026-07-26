@@ -1,24 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-26 22:54**
-- 本轮扫到 7860 条, 新增 **1** 条
+- 最近更新: **2026-07-26 23:54**
+- 本轮扫到 7862 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮新发现 (2 条)
 
-### 特朗普又改口 沙特“瞠目结舌”
+### 特朗普新关税生效数小时后即遭起诉，专家称其可能无法维持
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 手机网易网
-- 时间: 2026-07-24 08:31
-- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE1oYnJWTTJVT3d6Z0FJWkNwSll0UFVQSkVHcXdKU1V3ZkFDck5IN0lzZmpORlVGTmFRSTJZckdSQWlTM21OMmpnaDBMbXVWYVVSSDV3TVZBcHA2VDFHbEtnYlVB?oc=5>
+- 场馆: finance.sina.com.cn
+- 时间: 2026-07-25 14:33
+- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVkFrNFBrTGVENTQzZVV5a0dwNEJLRmYzNU53NHJjVE1nR3NFWEpOUHBpaWNLQVpPZ1I4NGdEX00waWp4M00ySUU3dVFyOTg4VEs2dG1hU1pEczVMY1FnbUdSbWlzOUVqWTBFUncyZkpMYmZPT0h4LWtLY2daQjRsLXBjQjMzbUJyOVU4X0dMS205V3lOVFpQdkhiQ1NZVWtjc0hKcWdYbURDLXY0ZXo0VTZvRVdYUnl5RHVVUVVMbGNYV21KVlhCbnJYb0d5VXdSZ3BsQ2ZVeWVSbi1SNGc?oc=5>
+
+### 特朗普过去24小时都忙了什么？（2026-07-26）
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-26 21:55
+- 链接: <https://news.google.com/rss/articles/CBMipgJBVV95cUxPcGoxRzRSZXVhQy1MNXBnS1F4Ty15a0RkeW1tWnN3V3l5Mk5jRkZrOTBvTDZYOTd3LXpETU5YTG80NzJzdkZvX1hhSmtwalhMLVJKYUlKQ1ZVekplbEdLa0JZNm1XM0dXalU0WnpBbXhoQ0UxV2pSSy16V3VhQUMyZEY3aWFKMkd5VloxMnpPNGlvckFIWklYRzI4eVAzbHhKWVNjdTlFcGJkZjVVVVFfUWlqRi1hdWFZWWNaOHQ0QVV5MlJtYWdiNEJGTW5Fa2lkRnMyaWhHYjVtOG9ySzg0NUtyWlBPbW02MWVXTlE3VWFwRXdrekN6YmItSlpkRHVEWW9FX1dvNWNGSXMwVFNLNUVRNjB6RUgtZ25UTUlValQyUFpnSUE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-26 23:54  (2 条)
+
+- **特朗普** | 特朗普新关税生效数小时后即遭起诉，专家称其可能无法维持 <https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVkFrNFBrTGVENTQzZVV5a0dwNEJLRmYzNU53NHJjVE1nR3NFWEpOUHBpaWNLQVpPZ1I4NGdEX00waWp4M00ySUU3dVFyOTg4VEs2dG1hU1pEczVMY1FnbUdSbWlzOUVqWTBFUncyZkpMYmZPT0h4LWtLY2daQjRsLXBjQjMzbUJyOVU4X0dMS205V3lOVFpQdkhiQ1NZVWtjc0hKcWdYbURDLXY0ZXo0VTZvRVdYUnl5RHVVUVVMbGNYV21KVlhCbnJYb0d5VXdSZ3BsQ2ZVeWVSbi1SNGc?oc=5>
+- **特朗普** | 特朗普过去24小时都忙了什么？（2026-07-26） <https://news.google.com/rss/articles/CBMipgJBVV95cUxPcGoxRzRSZXVhQy1MNXBnS1F4Ty15a0RkeW1tWnN3V3l5Mk5jRkZrOTBvTDZYOTd3LXpETU5YTG80NzJzdkZvX1hhSmtwalhMLVJKYUlKQ1ZVekplbEdLa0JZNm1XM0dXalU0WnpBbXhoQ0UxV2pSSy16V3VhQUMyZEY3aWFKMkd5VloxMnpPNGlvckFIWklYRzI4eVAzbHhKWVNjdTlFcGJkZjVVVVFfUWlqRi1hdWFZWWNaOHQ0QVV5MlJtYWdiNEJGTW5Fa2lkRnMyaWhHYjVtOG9ySzg0NUtyWlBPbW02MWVXTlE3VWFwRXdrekN6YmItSlpkRHVEWW9FX1dvNWNGSXMwVFNLNUVRNjB6RUgtZ25UTUlValQyUFpnSUE?oc=5>
 
 ### 2026-07-26 22:54  (1 条)
 
