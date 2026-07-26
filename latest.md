@@ -1,32 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-26 16:57**
-- 本轮扫到 7846 条, 新增 **2** 条
+- 最近更新: **2026-07-26 18:01**
+- 本轮扫到 7849 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (3 条)
 
-### 特朗普白宫记者晚宴笑话频频冷场 凸显与媒体紧张关系
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-07-26 09:27
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5FY0NLNlRoaGptelJuSE50amU5NkhMWlFCODZfLURKb2dXVmxsdWJoVHdmSWUwaERucEhRczVid1lZTVJHN0I5c2dya1VoSHptWmZCVmJYaUpMeHN6Rm1vNkNtaFFqZw?oc=5>
-
-### 美方知情人士披露特朗普暂缓扩大对伊作战规模原因
+### 特朗普过去24小时都忙了什么？（2026-07-26）
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 军事频道
-- 时间: 2026-07-26 09:18
-- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTFBxa3BqVU1RR2dJa0J2WkNLQTBfZGpwS2pGZDFZVElWNjRhOXhMbE9zQS1SQ2ZOODB5SjQzdmI4YkdkeURVUXA2YVRLMEdBa3V4S19OdFlnZXVDVENOS0pHaFIxaDgxaXh3TEZTRy1IVlBFUWNiaG9YUzQ0RWZWQQ?oc=5>
+- 场馆: finance.sina.com.cn
+- 时间: 2026-07-26 17:49
+- 链接: <https://news.google.com/rss/articles/CBMijAJBVV95cUxPQ1BYNUN6Uk1TSGJqNF81bF9CR1BkN1dGLWVHbG1qeVY1WnR1VGNEUEN1cnVkSmVMVF81Qmk1LV83cVY1NVQ1dmtaVlMyelJYVk5wS1ByU0QyUVNjMDZQNHpXcXBrSy16Tk9CSTlBRFNWVXBKaGFUZ2lFRG95cFNldWZUMkljQnVEc0gzWFcxcnEtT1lKSVQxSVZTZEhqR0s4YnA5bzlIdHR2aDFhQmE2bDdHdlJWRUtuTTRxYTdhZFdOTVBOY3FlcXhSQ0taYVQwVXJrR3NzMzl5OTZWODZKRXBWRTNmekdXcXZYaUc3RDREQVlvLVM0MWl5d3R0ZzF1aDhvYkpGdGU2Y0hh?oc=5>
+
+### 美伊冲突，突传大消息！
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: finance.sina.com.cn
+- 时间: 2026-07-26 17:38
+- 链接: <https://news.google.com/rss/articles/CBMiggJBVV95cUxPZjBXTU02WnBpaWhRUTZxOW9UdXpoSWtYRGZYTi15V0VCRHU3Q2ZiYWtoemdhSVJKNnhiQ091bWp1M0h1UjFaWWRUTEwyYXlnQTdWRjU1d3VvSVMzbExXRG9qNUFYcjA0aU5WdDdiUnBJNGdGVUEtclJtV09mbGQzbGZnRXBMRHh3d0ZTOFk4TVhqT1hxb0c5MC1UWWRyRmRiVm5LUUx2dnJ3ZFRUM3FfUXd0ZlpDN0l2ZWFVaWx0NllqZFd0OU1HRzNlN20tYUxUYWJOUnhFNWVtMHhaMDVJc0cySmV5YXVpSzk3S0UxMkZ5Q1NXSVA3U2FqWWdNek5EaXc?oc=5>
+
+### 白宫会议上，万斯和美军最高将领忧心忡忡
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者网
+- 时间: 2026-07-26 09:26
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBMbWlkYkF0SHhGTjBiUWp4V0JRM1pNblVDVmpzMXhXcnFINk5aeVFBelZBb1JBOG40a2RaVFRITXFaN0R5OGplUW41SHAyMEFXWkFKclhPVjFDS2tORWczNFhueDhzLXJYaGc?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-26 18:01  (3 条)
+
+- **特朗普** | 特朗普过去24小时都忙了什么？（2026-07-26） <https://news.google.com/rss/articles/CBMijAJBVV95cUxPQ1BYNUN6Uk1TSGJqNF81bF9CR1BkN1dGLWVHbG1qeVY1WnR1VGNEUEN1cnVkSmVMVF81Qmk1LV83cVY1NVQ1dmtaVlMyelJYVk5wS1ByU0QyUVNjMDZQNHpXcXBrSy16Tk9CSTlBRFNWVXBKaGFUZ2lFRG95cFNldWZUMkljQnVEc0gzWFcxcnEtT1lKSVQxSVZTZEhqR0s4YnA5bzlIdHR2aDFhQmE2bDdHdlJWRUtuTTRxYTdhZFdOTVBOY3FlcXhSQ0taYVQwVXJrR3NzMzl5OTZWODZKRXBWRTNmekdXcXZYaUc3RDREQVlvLVM0MWl5d3R0ZzF1aDhvYkpGdGU2Y0hh?oc=5>
+- **特朗普** | 美伊冲突，突传大消息！ <https://news.google.com/rss/articles/CBMiggJBVV95cUxPZjBXTU02WnBpaWhRUTZxOW9UdXpoSWtYRGZYTi15V0VCRHU3Q2ZiYWtoemdhSVJKNnhiQ091bWp1M0h1UjFaWWRUTEwyYXlnQTdWRjU1d3VvSVMzbExXRG9qNUFYcjA0aU5WdDdiUnBJNGdGVUEtclJtV09mbGQzbGZnRXBMRHh3d0ZTOFk4TVhqT1hxb0c5MC1UWWRyRmRiVm5LUUx2dnJ3ZFRUM3FfUXd0ZlpDN0l2ZWFVaWx0NllqZFd0OU1HRzNlN20tYUxUYWJOUnhFNWVtMHhaMDVJc0cySmV5YXVpSzk3S0UxMkZ5Q1NXSVA3U2FqWWdNek5EaXc?oc=5>
+- **特朗普** | 白宫会议上，万斯和美军最高将领忧心忡忡 <https://news.google.com/rss/articles/CBMiakFVX3lxTFBMbWlkYkF0SHhGTjBiUWp4V0JRM1pNblVDVmpzMXhXcnFINk5aeVFBelZBb1JBOG40a2RaVFRITXFaN0R5OGplUW41SHAyMEFXWkFKclhPVjFDS2tORWczNFhueDhzLXJYaGc?oc=5>
 
 ### 2026-07-26 16:57  (2 条)
 
