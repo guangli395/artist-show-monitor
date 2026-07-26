@@ -1,78 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-26 15:56**
-- 本轮扫到 7844 条, 新增 **8** 条
+- 最近更新: **2026-07-26 16:57**
+- 本轮扫到 7846 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (2 条)
 
-### 听说最近流行考古？ 翻到主题曲竞选c位，天生抽象搞笑女
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923995_m1d5ae191b02002w354.html>
-
-### 伊朗军方称鉴于美军停止新的攻击 其亦停止报复行动 特朗普下一步受关注
+### 特朗普白宫记者晚宴笑话频频冷场 凸显与媒体紧张关系
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-07-26 15:09
-- 链接: <https://news.google.com/rss/articles/CBMi4gNBVV95cUxNcGZGb3lLT2hlZWY4MFliTE5NTDZFUjNDcmUzcDBiZTNoVVoyZmpmS1ViOHU0QVVTdDROWTRHblk3WGJoS0thdXlwNkxMSmprT19DS05vYVBjOHBaNFVfT3VZRTFkSW41N195Q0NSTm1jOVdJQzAyVEhXdHhPd29EMUJMWDlqeDZFQ3A2QU9YYkp2VUJiZzZwTFFPNk5VRXVGTlhWYWVCaXZMdzVXQmR0NnBreWhqT29JLUNuMml5WXRuYldOLVVqbFZBMXRJbWlNQmlxUE9VVEZPc0xDQkc5UkhQTklyNDZ3REtZbzZ4ck5aTlNUTU1GcXNlRFc0b0IxLXNWQkxiQXp4Ui0tVWVWWE1NMzVyQWdsYjRxMEk1M19lOVB5MkU4WUMtVHV6WHZVV24xYWgxaWoyLVdTaHRkbFMtWUFnREl5VkdxcW9BeHQ4THdGd2l6R18teDBRX01CLV9rRW5YTVUtRGdlVFlnRlp5VWctVE1pcnRWbmlKZUxWMnlpMmoxT3RuSWx0MnFPemwwMVRCdDNrbXAwdVpkQkRaS2NWQU5EXzE0aHp4empEVWh3Sk5uU1NXVnFVSU9CQkt6MGZsMlZJd2RpNnFLeGkxU2Y5eWREOUJfOV9NVmdPdw?oc=5>
+- 场馆: 联合早报
+- 时间: 2026-07-26 09:27
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5FY0NLNlRoaGptelJuSE50amU5NkhMWlFCODZfLURKb2dXVmxsdWJoVHdmSWUwaERucEhRczVid1lZTVJHN0I5c2dya1VoSHptWmZCVmJYaUpMeHN6Rm1vNkNtaFFqZw?oc=5>
 
-### 英国新任首相伯纳姆：准备在必要时直言批评特朗普
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-26 14:13
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMTExZ05TMW43Uno2dnI4eDZLWXU0SHJFelQ5ZmlMQ0RkZUNLMzNsN0d1RlFPdGV4LVdlVW0zNXhaVU1NR0pLRmJNLVZGNXZ6WlFsYm9leXVxbmdQSVFfdlFzUkJ4SEZKMkxiX1N6cHZ2bWRTM0g1TDFJWDZqMlo2ZGw0bTc4ZURadTBPVzhFb1hrcklpbFRQanlPVmIwRTJDdDZGMEgtYTU4Y2dCRjlGTGxfLXlIcllMSERjNnB4V0djcVVlZjlyVVFiNXFTLW8wcmQzNTdmSVpkRE9PdU0w?oc=5>
-
-### 伊朗帮手就位，压力给到美国，特朗普彻夜难眠，要对德黑兰上强度
+### 美方知情人士披露特朗普暂缓扩大对伊作战规模原因
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-07-26 15:30
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBGTW42cENvRy14MVBubGhtZGR1V1lDMXplN0ZJVk0ycFJULUpKYk9HWlFJeFBFYlJYVEJHXzcxbGpUcTdEamd1LVd5VVN1bVlfVE5hRVRBMEpQcjlpaTY5LUtkWjh0U1ZkZHBvVnI2elBYcG1GM0JsOXNxY2dhQTA?oc=5>
-
-### 以总理计划向特朗普递交伊朗情报
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-07-25 19:02
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE9ieWlvb3p5ZXBWNkNGVTNZVkhCOFRIYTh2M1pMM2MybTBpVGlCTHFmcnBHRG9BZTVmeGxLV0J5ZUlFWVZELV9aUkFtMkFocjNBcFZWRzhzVEJRNmJjdTFvTkxlSHBHMVF3enNybHZXb3FfREpN?oc=5>
-
-### 特朗普下令暂停打击伊朗 伊方谴责乌克兰袭击商船
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-07-26 03:48
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE5NUDdWdU93aGZjQk43WlpmbGt3M0t5eklCdk1kZDhZNzVUeWdkWUxtRS1CbFJON213MUtSdVBobXJyUlc2ZE5zdGV1RmpyN21GMzlLSTRWWm1lT01PMzgwM3lXRTl2MmtLLTVpMnRTekFxZy1DRWF6UlZXZHV5dXc?oc=5>
-
-### 特朗普下令暂停空袭伊朗
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-07-26 00:53
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kTTJwY0oyMm0yeVVqbVpReDNpRkVEZzhiVEZPTHlPMEpyWUFrYjJVWHdncjAzTjR4WXg3LW1ZdS01QjBnWDkyMVdNckFkdDdwVjZJ?oc=5>
-
-### $特朗普媒体科技集团 (DJT.US)$ 你怎么看这个？ https://qz.com/trump-media-truth-social-api-wall-street-traders-071626
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-07-24 16:08
-- 链接: <https://news.google.com/rss/articles/CBMisgFBVV95cUxNTXVIdjREdC1TbEl3Y090UVFZNFpkc1QtMTM3eUZ3amlJaDRmOTJCSFFRSlhVeThvTHBGUlFya0hmX0x3S0FXN3BoeXFpXzhDTjk0bzFPYmg3TE1uNkNpdjVfb0M3RnFTNjZRUzFhYnBqUVIxWFBxVVB4dW1GZVh2TWNrNDJQeHlfVXJXZkM0bVVSWGZOT1I1dTg1dWJiNlJpZzd3SkxUbzhzVkRYclFpMUpB?oc=5>
+- 场馆: 军事频道
+- 时间: 2026-07-26 09:18
+- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTFBxa3BqVU1RR2dJa0J2WkNLQTBfZGpwS2pGZDFZVElWNjRhOXhMbE9zQS1SQ2ZOODB5SjQzdmI4YkdkeURVUXA2YVRLMEdBa3V4S19OdFlnZXVDVENOS0pHaFIxaDgxaXh3TEZTRy1IVlBFUWNiaG9YUzQ0RWZWQQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-26 16:57  (2 条)
+
+- **特朗普** | 特朗普白宫记者晚宴笑话频频冷场 凸显与媒体紧张关系 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5FY0NLNlRoaGptelJuSE50amU5NkhMWlFCODZfLURKb2dXVmxsdWJoVHdmSWUwaERucEhRczVid1lZTVJHN0I5c2dya1VoSHptWmZCVmJYaUpMeHN6Rm1vNkNtaFFqZw?oc=5>
+- **特朗普** | 美方知情人士披露特朗普暂缓扩大对伊作战规模原因 <https://news.google.com/rss/articles/CBMifkFVX3lxTFBxa3BqVU1RR2dJa0J2WkNLQTBfZGpwS2pGZDFZVElWNjRhOXhMbE9zQS1SQ2ZOODB5SjQzdmI4YkdkeURVUXA2YVRLMEdBa3V4S19OdFlnZXVDVENOS0pHaFIxaDgxaXh3TEZTRy1IVlBFUWNiaG9YUzQ0RWZWQQ?oc=5>
 
 ### 2026-07-26 15:56  (8 条)
 
