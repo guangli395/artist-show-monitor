@@ -1,22 +1,73 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-26 10:16**
-- 本轮扫到 7823 条, 新增 **1** 条
+- 最近更新: **2026-07-26 11:42**
+- 本轮扫到 7829 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮新发现 (6 条)
 
-### 211230 王一博新歌廿 王一博新歌《廿》登上世趋第三名
+### 特朗普下令暂停空袭伊朗 表示美伊双方目前“正在进行对话”
 
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001908gfe6.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-07-25 17:48
+- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxQYkZhY05XZkNMM3pqUjhDUl9GbHhfOVlxSXkyRzJ4S1FQNWNnRk9UekRjX24yaVJXbnphM01pblpEUmlmTEZ0ODVsampyMVdLVG5UU01sOENRUVpodXp5Y2R3eDZLX3hBdkluLUI0TXpFVzJZaWt1ZlVMZlQ4ZXcxdmJ3blktcUFOc1VpREk2eVNqdzVH?oc=5>
+
+### 美国加税，澳总理要找特朗普“理论”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者网
+- 时间: 2026-07-26 05:11
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5ydEdHY1kwQkpGWnkxbHI5OVotN01VLWZWNDlFRWs1Y2JNYnVOZUI3Y0NCUEZveUlUV2FmN3cxVDI1RTM4VF9GR05TVU5fWGhpY0pKRE5EY1Nmek1uY0RQOGpsVXh6ZDZRUHc?oc=5>
+
+### 白宫记者晚宴在枪击阴影下重开，特朗普抢镜：要竞选第四任期
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: finance.sina.com.cn
+- 时间: 2026-07-25 04:28
+- 链接: <https://news.google.com/rss/articles/CBMilwJBVV95cUxNUkRUYS1JbWVrTUx4RUxJUmgtbDNHWFVPZlowU0Y4SWFvaGxaRU1PM29Yc1R3YWRVTnNVYUxUc09IdThyWWhlenMxSTZwVzNLR0hSRDBCZmIyTG9yaUpfakxIZm1Rb1hyU3Y5cWlMUnQxbmFCbTRPNHdXb2hKVkw0VjFid3VsNng0MXFtVDlQQWxmSG8zQUhKSXhxQ0Rtc3ROVGtYaGstQjhSYjIzcFlDb29JU09RNDR5Z2dwWkE2dXBEclhsZjFvUHg1ZlhYU1FQam9FZGtCX25qOE9CbW9TZ3NmRGszS3NRVjFKU1lTV05JU1FncElSSVV5YUhhanNac2pNZXNUVXRtaHZJOHBjd1h6Z3BnTEE?oc=5>
+
+### 内塔尼亚胡称将赴美会晤特朗普
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-07-26 11:13
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE05OTJfZm9mdnFyT1VYU2YyZk1NY1Vla3dXUmNSdk01bDd6MUVWNDFQV0FlWWExLU1vdndGRU8zcFJjZEtKT2FQb0o3NXU?oc=5>
+
+### 费兰戴“MSGA”帽子庆祝夺冠！特朗普：这是很好的致敬
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Sohu
+- 时间: 2026-07-26 06:34
+- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxQRlFPWXliNHdPMEVhOXB4RlR0cHZGdzUwMmdWdTBibjgzOWlYbWRON1g4OWUzLWFpY3FMZjhiX0pfX3R3cDRmYjFCSXYwVjlLOEtqQzFrZzJrNjRrT2tINFN4aXRueXhVdmdBT01SOEJoVFl6Y3R5Mnh3aHhwby10aENraVZCcVlmbmJaek5UUGlSc0Z2eHlNa0xqOWM5Qlp0?oc=5>
+
+### 特朗普为何暂停？“防空弹快打光了”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者网
+- 时间: 2026-07-26 06:29
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5fNnRRaUtCV0t1aXZWeUh4ZUx6Q2RLQWF5Q3pncDNkS092X291SjdoWVoxY1Z4bkV2SXVCTU0tbWRTNHFkTHFUWFBxZ0k5ZV9rdGZwMVFuZUE3SzBhNldrbjI2VGhpNWFBaHc?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-26 11:42  (6 条)
+
+- **特朗普** | 特朗普下令暂停空袭伊朗 表示美伊双方目前“正在进行对话” <https://news.google.com/rss/articles/CBMilAFBVV95cUxQYkZhY05XZkNMM3pqUjhDUl9GbHhfOVlxSXkyRzJ4S1FQNWNnRk9UekRjX24yaVJXbnphM01pblpEUmlmTEZ0ODVsampyMVdLVG5UU01sOENRUVpodXp5Y2R3eDZLX3hBdkluLUI0TXpFVzJZaWt1ZlVMZlQ4ZXcxdmJ3blktcUFOc1VpREk2eVNqdzVH?oc=5>
+- **特朗普** | 美国加税，澳总理要找特朗普“理论” <https://news.google.com/rss/articles/CBMiakFVX3lxTE5ydEdHY1kwQkpGWnkxbHI5OVotN01VLWZWNDlFRWs1Y2JNYnVOZUI3Y0NCUEZveUlUV2FmN3cxVDI1RTM4VF9GR05TVU5fWGhpY0pKRE5EY1Nmek1uY0RQOGpsVXh6ZDZRUHc?oc=5>
+- **特朗普** | 白宫记者晚宴在枪击阴影下重开，特朗普抢镜：要竞选第四任期 <https://news.google.com/rss/articles/CBMilwJBVV95cUxNUkRUYS1JbWVrTUx4RUxJUmgtbDNHWFVPZlowU0Y4SWFvaGxaRU1PM29Yc1R3YWRVTnNVYUxUc09IdThyWWhlenMxSTZwVzNLR0hSRDBCZmIyTG9yaUpfakxIZm1Rb1hyU3Y5cWlMUnQxbmFCbTRPNHdXb2hKVkw0VjFid3VsNng0MXFtVDlQQWxmSG8zQUhKSXhxQ0Rtc3ROVGtYaGstQjhSYjIzcFlDb29JU09RNDR5Z2dwWkE2dXBEclhsZjFvUHg1ZlhYU1FQam9FZGtCX25qOE9CbW9TZ3NmRGszS3NRVjFKU1lTV05JU1FncElSSVV5YUhhanNac2pNZXNUVXRtaHZJOHBjd1h6Z3BnTEE?oc=5>
+- **特朗普** | 内塔尼亚胡称将赴美会晤特朗普 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE05OTJfZm9mdnFyT1VYU2YyZk1NY1Vla3dXUmNSdk01bDd6MUVWNDFQV0FlWWExLU1vdndGRU8zcFJjZEtKT2FQb0o3NXU?oc=5>
+- **特朗普** | 费兰戴“MSGA”帽子庆祝夺冠！特朗普：这是很好的致敬 <https://news.google.com/rss/articles/CBMioAFBVV95cUxQRlFPWXliNHdPMEVhOXB4RlR0cHZGdzUwMmdWdTBibjgzOWlYbWRON1g4OWUzLWFpY3FMZjhiX0pfX3R3cDRmYjFCSXYwVjlLOEtqQzFrZzJrNjRrT2tINFN4aXRueXhVdmdBT01SOEJoVFl6Y3R5Mnh3aHhwby10aENraVZCcVlmbmJaek5UUGlSc0Z2eHlNa0xqOWM5Qlp0?oc=5>
+- **特朗普** | 特朗普为何暂停？“防空弹快打光了” <https://news.google.com/rss/articles/CBMiakFVX3lxTE5fNnRRaUtCV0t1aXZWeUh4ZUx6Q2RLQWF5Q3pncDNkS092X291SjdoWVoxY1Z4bkV2SXVCTU0tbWRTNHFkTHFUWFBxZ0k5ZV9rdGZwMVFuZUE3SzBhNldrbjI2VGhpNWFBaHc?oc=5>
 
 ### 2026-07-26 10:16  (1 条)
 
