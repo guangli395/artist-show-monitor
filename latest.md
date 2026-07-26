@@ -1,46 +1,150 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-26 02:09**
-- 本轮扫到 7801 条, 新增 **4** 条
+- 最近更新: **2026-07-26 05:43**
+- 本轮扫到 7816 条, 新增 **15** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (15 条)
 
-### 摩托姐姐必备！Redmi Note 12王一博潮流定制款发布
+### 王一博发布的暖心叮嘱内容是什么？
 
 - 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001908g1sy.html>
+- 链接: <https://k.sina.com.cn/article_7879776726_1d5abd9d606801lznk.html>
 
-### 刚签完又反悔？特朗普追加条件，沙特核协议悬了？
+### 不搞情怀割韭菜!谢霆锋全开麦巡演,十月炸场温州
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879848924_1d5acf3dc01901k37u.html>
+
+### 美媒：特朗普24日下令美军暂停打击伊朗
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: finance.sina.com.cn
+- 时间: 2026-07-26 00:45
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5ndVNwSWFJMVJSRDRNczVpMVVVMlhRM3lsNWtCcG5jQWdUN3RzMGJ5anVVMUJIT2k1elBON3hsdnZXcEhPenJVRDlNcFRYYkdhN2FoT2NVX0tITHR6dGxubG1xLVJXY0hpSTFRTjJQZFdmWjZrc3hYSw?oc=5>
+
+### 特朗普新关税生效数小时后即遭起诉，专家称其可能无法维持
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: finance.sina.com.cn
+- 时间: 2026-07-26 03:12
+- 链接: <https://news.google.com/rss/articles/CBMijgJBVV95cUxNU1ByRllVWVZYRlF2Zk5KTXl4LWgxSGhDaFdpcHFXUXAyUXE4RXVpT3pUSklIVUxudG1Hc3REYTg5SXVEV2lEbzBnNkw4UGRXMnY2UjRwZHNTa0VDY00wSTdjNXdUQmtIUkNpdVRLejA1QUJNMGVsMUM2dmtQTURvZHFGXy1UR21xYUtGalJWMWV2UXFWUGhSLS1Hd1NtTnZmT2tnMGdKVnhhUHQ3Ti1NWlFXXzc0S0pjMms2UjlnaEN3LVdVNGtfaFFZc0EzS3FjT1dhNXFXQjFVck9vbGQ5UHJHVmRWSkpUbFh6dVJuREFzdUJEVzlkelNBOVhLMGdzN3R6NThzemRJanhFcnc?oc=5>
+
+### 特朗普因以色列不满，对沙特核协议增新条件，从允许到禁止浓缩铀
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪网
-- 时间: 2026-07-26 00:22
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE96UWV0Y3UxWFpQUzBZN3MyQXJ2Unk1dnJWTmtsRjMtSmNybGMxQjZnMjlJM0xNSzhsSE8tSmVqNEpUck1vV2JWMVFJNVlRVGc3NW5KV1htRnBlYVRtcXF6cFJZdkpPTzdYNEl3bWdaZW1Gdw?oc=5>
-
-### 以总理计划向特朗普递交伊朗情报
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-07-25 23:15
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JTVMtQ1F0TnBvUXU1SW0tb25xUU5TbUdHNmFXQ1lHZ01BSUxwZ2Z6NnhSX1ZhVTdFb0lJWTJPcURkUmNOU19XU29FZ3pBaHlLaHpHSjJ4U0dEUDZKSjVBQ3FPbTI?oc=5>
+- 时间: 2026-07-26 04:18
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5mS29fRjJCMVRnN21ONDBqd0NnMGhnME1WbjBCWTlSVTkyc1F6MzdEbnQ2MHplVXNSRG1SSnlnUnduNlh6T2xfNHpMS1VnQ3ZLakhjTlRFZFRYelZCa3U3SVk4TlhnQUFmRVQzcWNldXFfcUk?oc=5>
 
 ### 新华社消息丨美媒：特朗普24日下令美军暂停打击伊朗
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网客户端
-- 时间: 2026-07-26 02:08
-- 链接: <https://news.google.com/rss/articles/CBMimgFBVV95cUxOeWZ6ZC1oaGVocnJvYlhqZk96TjJsM1I4X1FnaFBERWhfTWk4eUdxaW41eFJCVTJBX04zRWtTREdWcGpIQ1lsdG9jTG93MXlfZ04tTkcxVXVUZHdteWZnblR5ZllTX2tuNWN1NGFQdXBKcDZKbWVpRTB5VGpPRnloZXZUcjRyQldsdTFNWHYxc3pJUTJpMnhpUk9R?oc=5>
+- 场馆: 新华网
+- 时间: 2026-07-26 02:02
+- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE1CMDVpdEl4bEdYbmlleTZWSmVfOVNPNmJRUy12bEFaV2t6MDZyaHl5YUpMOTFxSld5OEdGNUNDckx6d3RGYXRfVkpjZEd0RnpYYmNDWkNsMG5Zb2huR2NjOFZvblkzNzJhTGNvZ0RBUmtqOVZHQloySUNENHZaQQ?oc=5>
+
+### 国际特稿：第二任内家族财富暴涨 特朗普坐大位揽大权 招来公权谋私利质疑
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-07-25 21:00
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5rbHBQNklHWjJvRkpzelNLN0hsMjFla0FUSzdGZlFhV2g5SmFqd2Nib0l4NVdJYkxxVFZKamI3cWhfQ1RLSUFTVHVtNThIdkhjYzM2a2EzMWNVdS1vZy1HM24yY0l0Z0o2bGc?oc=5>
+
+### 谷歌罚款点燃特朗普怒火 欧盟再次面临巨额关税威胁
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 驱动之家
+- 时间: 2026-07-25 13:42
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE9tYVlIVzhoMjU5VkdNcjlsUklKLVFLT3VqRHlRcmJqd3FaNlhNVXhyeEVLeEpIZVpQTS1pMEphWlludXJUcTBmT0hNY3RsSUVTOTV2X1VwdEQ?oc=5>
+
+### 特朗普为何不敢把对华制裁的话说死？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 手机网易网
+- 时间: 2026-07-26 05:41
+- 链接: <https://news.google.com/rss/articles/CBMiVEFVX3lxTFBKTmd4b3VyT3I5X19ySjN6OHQ3bGExcTRFNzdVQnNreDVTc2hQWlJFQ2NiUWE4MG1XbnNHbnhNSVRhRnhZQzZ4OWJRV3pLclBROEg5aA?oc=5>
+
+### 不满对谷歌罚款8.9亿欧元，特朗普称欧盟将为此付出沉重代价
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Sohu
+- 时间: 2026-07-26 04:02
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeHJkcFBodDRzOFVHRFRfcnpFeXJ6ZEFFUGRNT1ZMbnU1dXZ3T0w1cHhqQ1lPODNETVZ6NTVwbmJIaEtReUo5Tk9TMl9CVE15RTl4eER2ZzFUSVN1aWc1cjV1WW1ZU2Rub25IMTdZZWhONlQxRElYLVFyX2t3aG1fUTF4WVN1bzh0?oc=5>
+
+### 美媒：特朗普24日下令美军暂停打击伊朗
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-07-25 20:34
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9mMFZfZmtjUlpMY1dpdF9TZldwclNZV2pXa1A0dWZvU0RUQml3N3ZydnJVU1NHNTlDUjdlcXBiUjREZ05neXg1R01Pb0xtdzVtY2xpQ0l1UHVrdUNobG5nMi13OHByXy0xeDV5TnY5OTNvZDB5V0FhLS1oVE1xUFE?oc=5>
+
+### 美媒曝特朗普暂停打击伊朗内幕
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: chinanews.com.cn
+- 时间: 2026-07-26 04:03
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ISXQ1X0Rld3FPZzM5Z1AtZm56UmVnS2xwWVdTb04tRld1VFRud09DR29sY3dkekQ5endFZFpkdHQxZlhDejc4SFNPZWNaMk1yTzhpRVV0blRreF9wZ3RCM3RqellmWXJr?oc=5>
+
+### 特朗普再次戴上小红帽：我将第4次竞选总统！
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 东方财富
+- 时间: 2026-07-25 09:45
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtLVZrbU1KTVhkODVWT2xZMnhDNmpWTldFNFFrOWVTYjFyN3QyNUxfekNLYTBuOE9fNzlIODFpMnU0SEtWU2dvS2trR3F0N2ZQNVdZdkI0Z0ZDMUE4blZLaA?oc=5>
+
+### TRUMP团队解锁转出1083万枚代币，价值1691万美元
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: TradingView
+- 时间: 2026-07-25 01:13
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1vNjFCZlNQNVctTkk5SEhOMWtzOFlvZkQxNXpZVWVzTUVJSkxjeXhBdVlSczNJSHlPV2FMd2NqZG5UUlQ2UTRQRzhYRW9rUUJpYW9xQXR6UTJjcHlNTTYxY3BGbWY3QQ?oc=5>
+
+### “Trump因担忧防空导弹耗尽 暂缓对伊朗大规模攻击”
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 아시아경제
+- 时间: 2026-07-26 03:16
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LMFNGVWZ1UzhNS1NRR1hvRVZyM1Z6YU5XTExZczdRSE9YNUYyeFM5VEpzUTlwZHR2NmtTeksyQVY0SWdCMjZuMjI2QTdfY01PYXc5ZXh2LWtNQXZZNnZGZUNRTkI?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-26 05:43  (15 条)
+
+- **王一博** | 王一博发布的暖心叮嘱内容是什么？ <https://k.sina.com.cn/article_7879776726_1d5abd9d606801lznk.html>
+- **周杰伦** | 不搞情怀割韭菜!谢霆锋全开麦巡演,十月炸场温州 <https://k.sina.com.cn/article_7879848924_1d5acf3dc01901k37u.html>
+- **特朗普** | 美媒：特朗普24日下令美军暂停打击伊朗 <https://news.google.com/rss/articles/CBMieEFVX3lxTE5ndVNwSWFJMVJSRDRNczVpMVVVMlhRM3lsNWtCcG5jQWdUN3RzMGJ5anVVMUJIT2k1elBON3hsdnZXcEhPenJVRDlNcFRYYkdhN2FoT2NVX0tITHR6dGxubG1xLVJXY0hpSTFRTjJQZFdmWjZrc3hYSw?oc=5>
+- **特朗普** | 特朗普新关税生效数小时后即遭起诉，专家称其可能无法维持 <https://news.google.com/rss/articles/CBMijgJBVV95cUxNU1ByRllVWVZYRlF2Zk5KTXl4LWgxSGhDaFdpcHFXUXAyUXE4RXVpT3pUSklIVUxudG1Hc3REYTg5SXVEV2lEbzBnNkw4UGRXMnY2UjRwZHNTa0VDY00wSTdjNXdUQmtIUkNpdVRLejA1QUJNMGVsMUM2dmtQTURvZHFGXy1UR21xYUtGalJWMWV2UXFWUGhSLS1Hd1NtTnZmT2tnMGdKVnhhUHQ3Ti1NWlFXXzc0S0pjMms2UjlnaEN3LVdVNGtfaFFZc0EzS3FjT1dhNXFXQjFVck9vbGQ5UHJHVmRWSkpUbFh6dVJuREFzdUJEVzlkelNBOVhLMGdzN3R6NThzemRJanhFcnc?oc=5>
+- **特朗普** | 特朗普因以色列不满，对沙特核协议增新条件，从允许到禁止浓缩铀 <https://news.google.com/rss/articles/CBMic0FVX3lxTE5mS29fRjJCMVRnN21ONDBqd0NnMGhnME1WbjBCWTlSVTkyc1F6MzdEbnQ2MHplVXNSRG1SSnlnUnduNlh6T2xfNHpMS1VnQ3ZLakhjTlRFZFRYelZCa3U3SVk4TlhnQUFmRVQzcWNldXFfcUk?oc=5>
+- **特朗普** | 新华社消息丨美媒：特朗普24日下令美军暂停打击伊朗 <https://news.google.com/rss/articles/CBMifkFVX3lxTE1CMDVpdEl4bEdYbmlleTZWSmVfOVNPNmJRUy12bEFaV2t6MDZyaHl5YUpMOTFxSld5OEdGNUNDckx6d3RGYXRfVkpjZEd0RnpYYmNDWkNsMG5Zb2huR2NjOFZvblkzNzJhTGNvZ0RBUmtqOVZHQloySUNENHZaQQ?oc=5>
+- **特朗普** | 国际特稿：第二任内家族财富暴涨 特朗普坐大位揽大权 招来公权谋私利质疑 <https://news.google.com/rss/articles/CBMiakFVX3lxTE5rbHBQNklHWjJvRkpzelNLN0hsMjFla0FUSzdGZlFhV2g5SmFqd2Nib0l4NVdJYkxxVFZKamI3cWhfQ1RLSUFTVHVtNThIdkhjYzM2a2EzMWNVdS1vZy1HM24yY0l0Z0o2bGc?oc=5>
+- **特朗普** | 谷歌罚款点燃特朗普怒火 欧盟再次面临巨额关税威胁 <https://news.google.com/rss/articles/CBMiWEFVX3lxTE9tYVlIVzhoMjU5VkdNcjlsUklKLVFLT3VqRHlRcmJqd3FaNlhNVXhyeEVLeEpIZVpQTS1pMEphWlludXJUcTBmT0hNY3RsSUVTOTV2X1VwdEQ?oc=5>
+- **特朗普** | 特朗普为何不敢把对华制裁的话说死？ <https://news.google.com/rss/articles/CBMiVEFVX3lxTFBKTmd4b3VyT3I5X19ySjN6OHQ3bGExcTRFNzdVQnNreDVTc2hQWlJFQ2NiUWE4MG1XbnNHbnhNSVRhRnhZQzZ4OWJRV3pLclBROEg5aA?oc=5>
+- **特朗普** | 不满对谷歌罚款8.9亿欧元，特朗普称欧盟将为此付出沉重代价 <https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeHJkcFBodDRzOFVHRFRfcnpFeXJ6ZEFFUGRNT1ZMbnU1dXZ3T0w1cHhqQ1lPODNETVZ6NTVwbmJIaEtReUo5Tk9TMl9CVE15RTl4eER2ZzFUSVN1aWc1cjV1WW1ZU2Rub25IMTdZZWhONlQxRElYLVFyX2t3aG1fUTF4WVN1bzh0?oc=5>
+- **特朗普** | 美媒：特朗普24日下令美军暂停打击伊朗 <https://news.google.com/rss/articles/CBMif0FVX3lxTE9mMFZfZmtjUlpMY1dpdF9TZldwclNZV2pXa1A0dWZvU0RUQml3N3ZydnJVU1NHNTlDUjdlcXBiUjREZ05neXg1R01Pb0xtdzVtY2xpQ0l1UHVrdUNobG5nMi13OHByXy0xeDV5TnY5OTNvZDB5V0FhLS1oVE1xUFE?oc=5>
+- **特朗普** | 美媒曝特朗普暂停打击伊朗内幕 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ISXQ1X0Rld3FPZzM5Z1AtZm56UmVnS2xwWVdTb04tRld1VFRud09DR29sY3dkekQ5endFZFpkdHQxZlhDejc4SFNPZWNaMk1yTzhpRVV0blRreF9wZ3RCM3RqellmWXJr?oc=5>
+- **特朗普** | 特朗普再次戴上小红帽：我将第4次竞选总统！ <https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtLVZrbU1KTVhkODVWT2xZMnhDNmpWTldFNFFrOWVTYjFyN3QyNUxfekNLYTBuOE9fNzlIODFpMnU0SEtWU2dvS2trR3F0N2ZQNVdZdkI0Z0ZDMUE4blZLaA?oc=5>
+- **Trump** | TRUMP团队解锁转出1083万枚代币，价值1691万美元 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1vNjFCZlNQNVctTkk5SEhOMWtzOFlvZkQxNXpZVWVzTUVJSkxjeXhBdVlSczNJSHlPV2FMd2NqZG5UUlQ2UTRQRzhYRW9rUUJpYW9xQXR6UTJjcHlNTTYxY3BGbWY3QQ?oc=5>
+- **Trump** | “Trump因担忧防空导弹耗尽 暂缓对伊朗大规模攻击” <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LMFNGVWZ1UzhNS1NRR1hvRVZyM1Z6YU5XTExZczdRSE9YNUYyeFM5VEpzUTlwZHR2NmtTeksyQVY0SWdCMjZuMjI2QTdfY01PYXc5ZXh2LWtNQXZZNnZGZUNRTkI?oc=5>
 
 ### 2026-07-26 02:09  (4 条)
 
