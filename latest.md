@@ -1,64 +1,89 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-26 14:47**
-- 本轮扫到 7836 条, 新增 **6** 条
+- 最近更新: **2026-07-26 15:56**
+- 本轮扫到 7844 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (8 条)
 
-### 37岁白宫记协新主席上任，接替江惟嘉，被特朗普当面“辣评”
+### 听说最近流行考古？ 翻到主题曲竞选c位，天生抽象搞笑女
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923995_m1d5ae191b02002w354.html>
+
+### 伊朗军方称鉴于美军停止新的攻击 其亦停止报复行动 特朗普下一步受关注
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-26 10:54
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9xTUw5RHdrWlZYcmtaLVBYNGtXWWg0ZHRBSHdVVEFKWGFmZUhBQ1ZCbHBnRUJ0TnBpZ2xpeEFnZnNaZmNESWxMeEFoOE0?oc=5>
+- 场馆: RFI
+- 时间: 2026-07-26 15:09
+- 链接: <https://news.google.com/rss/articles/CBMi4gNBVV95cUxNcGZGb3lLT2hlZWY4MFliTE5NTDZFUjNDcmUzcDBiZTNoVVoyZmpmS1ViOHU0QVVTdDROWTRHblk3WGJoS0thdXlwNkxMSmprT19DS05vYVBjOHBaNFVfT3VZRTFkSW41N195Q0NSTm1jOVdJQzAyVEhXdHhPd29EMUJMWDlqeDZFQ3A2QU9YYkp2VUJiZzZwTFFPNk5VRXVGTlhWYWVCaXZMdzVXQmR0NnBreWhqT29JLUNuMml5WXRuYldOLVVqbFZBMXRJbWlNQmlxUE9VVEZPc0xDQkc5UkhQTklyNDZ3REtZbzZ4ck5aTlNUTU1GcXNlRFc0b0IxLXNWQkxiQXp4Ui0tVWVWWE1NMzVyQWdsYjRxMEk1M19lOVB5MkU4WUMtVHV6WHZVV24xYWgxaWoyLVdTaHRkbFMtWUFnREl5VkdxcW9BeHQ4THdGd2l6R18teDBRX01CLV9rRW5YTVUtRGdlVFlnRlp5VWctVE1pcnRWbmlKZUxWMnlpMmoxT3RuSWx0MnFPemwwMVRCdDNrbXAwdVpkQkRaS2NWQU5EXzE0aHp4empEVWh3Sk5uU1NXVnFVSU9CQkt6MGZsMlZJd2RpNnFLeGkxU2Y5eWREOUJfOV9NVmdPdw?oc=5>
 
-### 特朗普新关税生效数小时后即遭起诉，专家称其可能无法维持
+### 英国新任首相伯纳姆：准备在必要时直言批评特朗普
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-25 07:00
-- 链接: <https://news.google.com/rss/articles/CBMixwJBVV95cUxQTGpqOEVUVmpPdmVzV3V3cko5R0J2eVd0OFIyQnYySFFQR3lUWjVlVVdyZEx3RHlzWE0wcmZscXh0aUVIQmpIN0VyQ3J5UTNDcV9CbjdEU3owYzZQV3ZZc3BzODhyZkxXdlU4eVFTTWtxRTYzT1FyaVdLNDVwYUVNOUsxT2FUcFViVUFSbHBzYkczLWZnNVluN09ic2M2cmRyRmV5d3JrU2JkV2RycUJIT1BubGVYTWMyYXBMU0dzMlVLN2s5MXY3Nkk1TmdGZGhJYXpOcjhabGltc2FQcGl1elBMNnRUZFFDejBaZF9saFhNRzJ6TzhxT2lhZGtvYk5aeVVXUUtKRVdIVEhBSDNJNGJYUWk2ZFFka1I5UVhFV2o2ME5PNDZrOGxZcDI0dXE2OG1PTGFGMjl4WXFadXVhNlI4NG9XMDA?oc=5>
+- 时间: 2026-07-26 14:13
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMTExZ05TMW43Uno2dnI4eDZLWXU0SHJFelQ5ZmlMQ0RkZUNLMzNsN0d1RlFPdGV4LVdlVW0zNXhaVU1NR0pLRmJNLVZGNXZ6WlFsYm9leXVxbmdQSVFfdlFzUkJ4SEZKMkxiX1N6cHZ2bWRTM0g1TDFJWDZqMlo2ZGw0bTc4ZURadTBPVzhFb1hrcklpbFRQanlPVmIwRTJDdDZGMEgtYTU4Y2dCRjlGTGxfLXlIcllMSERjNnB4V0djcVVlZjlyVVFiNXFTLW8wcmQzNTdmSVpkRE9PdU0w?oc=5>
 
-### 【早报】特朗普威胁对欧盟加征报复性关税；韩国存储双雄拟签下9500亿美元大单
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-07-25 23:23
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTFBERjdHTWFHMHJFRUNXZnp0VHFKSXRpUFhzU2xDU2kzdzgtLXhfSmVnUmZ1blZRcGhCN2RMTGhEdjJZeVR4WTZ1Qg?oc=5>
-
-### 分析：特朗普新关税措施 北京虽不悦但不会报复
+### 伊朗帮手就位，压力给到美国，特朗普彻夜难眠，要对德黑兰上强度
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-07-25 01:51
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBKTXJoeTVtbnNRalNhTEU5LWgxMU05UFI1eE82LTdRLVNZdUhTSTV2WHoySENDblVSczdYeWpfWld1UmZfVXFDMHRuZUstNjdBRENoQzFlU3UxTHFPRGxBaUxEZXBmdw?oc=5>
+- 场馆: 手机新浪网
+- 时间: 2026-07-26 15:30
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBGTW42cENvRy14MVBubGhtZGR1V1lDMXplN0ZJVk0ycFJULUpKYk9HWlFJeFBFYlJYVEJHXzcxbGpUcTdEamd1LVd5VVN1bVlfVE5hRVRBMEpQcjlpaTY5LUtkWjh0U1ZkZHBvVnI2elBYcG1GM0JsOXNxY2dhQTA?oc=5>
+
+### 以总理计划向特朗普递交伊朗情报
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-07-25 19:02
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE9ieWlvb3p5ZXBWNkNGVTNZVkhCOFRIYTh2M1pMM2MybTBpVGlCTHFmcnBHRG9BZTVmeGxLV0J5ZUlFWVZELV9aUkFtMkFocjNBcFZWRzhzVEJRNmJjdTFvTkxlSHBHMVF3enNybHZXb3FfREpN?oc=5>
+
+### 特朗普下令暂停打击伊朗 伊方谴责乌克兰袭击商船
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-07-26 03:48
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE5NUDdWdU93aGZjQk43WlpmbGt3M0t5eklCdk1kZDhZNzVUeWdkWUxtRS1CbFJON213MUtSdVBobXJyUlc2ZE5zdGV1RmpyN21GMzlLSTRWWm1lT01PMzgwM3lXRTl2MmtLLTVpMnRTekFxZy1DRWF6UlZXZHV5dXc?oc=5>
 
 ### 特朗普下令暂停空袭伊朗
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中国日报网
-- 时间: 2026-07-25 23:31
-- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE56YTBSYi1mTS1DbnJJNlZQVGdySWk5b092R3A3QmMxbWJBenZlRGt4azVzLTBkbHlwZUdlNFAtbGdNMUZpZlh5Q2FwMEF3dk5zYVN3UTZwUG9SaEJuTEtOZGMtbmpPcE1haE4teE1Ia1EyMmJ2bWo5NE5BVmE?oc=5>
+- 场馆: 华尔街见闻
+- 时间: 2026-07-26 00:53
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kTTJwY0oyMm0yeVVqbVpReDNpRkVEZzhiVEZPTHlPMEpyWUFrYjJVWHdncjAzTjR4WXg3LW1ZdS01QjBnWDkyMVdNckFkdDdwVjZJ?oc=5>
 
-### TRUMP 团队将昨日解锁的1380万枚TRUMP代币转入多家CEX交易所
+### $特朗普媒体科技集团 (DJT.US)$ 你怎么看这个？ https://qz.com/trump-media-truth-social-api-wall-street-traders-071626
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: TradingView
-- 时间: 2026-07-26 09:43
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE82c284WkdqM0laNXlYRVdUczRibGlXS05WdVhsNTRWaF9IUEZmZWU5VVZnbVRIN0dxMXBqbUNzc3hVeWJUbC0xaFY5cWllR0szck1ZWldsTDhDZHZBdloyUVY0d2dyRlU?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-07-24 16:08
+- 链接: <https://news.google.com/rss/articles/CBMisgFBVV95cUxNTXVIdjREdC1TbEl3Y090UVFZNFpkc1QtMTM3eUZ3amlJaDRmOTJCSFFRSlhVeThvTHBGUlFya0hmX0x3S0FXN3BoeXFpXzhDTjk0bzFPYmg3TE1uNkNpdjVfb0M3RnFTNjZRUzFhYnBqUVIxWFBxVVB4dW1GZVh2TWNrNDJQeHlfVXJXZkM0bVVSWGZOT1I1dTg1dWJiNlJpZzd3SkxUbzhzVkRYclFpMUpB?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-26 15:56  (8 条)
+
+- **蔡徐坤** | 听说最近流行考古？ 翻到主题曲竞选c位，天生抽象搞笑女 <https://k.sina.com.cn/article_7879923995_m1d5ae191b02002w354.html>
+- **特朗普** | 伊朗军方称鉴于美军停止新的攻击 其亦停止报复行动 特朗普下一步受关注 <https://news.google.com/rss/articles/CBMi4gNBVV95cUxNcGZGb3lLT2hlZWY4MFliTE5NTDZFUjNDcmUzcDBiZTNoVVoyZmpmS1ViOHU0QVVTdDROWTRHblk3WGJoS0thdXlwNkxMSmprT19DS05vYVBjOHBaNFVfT3VZRTFkSW41N195Q0NSTm1jOVdJQzAyVEhXdHhPd29EMUJMWDlqeDZFQ3A2QU9YYkp2VUJiZzZwTFFPNk5VRXVGTlhWYWVCaXZMdzVXQmR0NnBreWhqT29JLUNuMml5WXRuYldOLVVqbFZBMXRJbWlNQmlxUE9VVEZPc0xDQkc5UkhQTklyNDZ3REtZbzZ4ck5aTlNUTU1GcXNlRFc0b0IxLXNWQkxiQXp4Ui0tVWVWWE1NMzVyQWdsYjRxMEk1M19lOVB5MkU4WUMtVHV6WHZVV24xYWgxaWoyLVdTaHRkbFMtWUFnREl5VkdxcW9BeHQ4THdGd2l6R18teDBRX01CLV9rRW5YTVUtRGdlVFlnRlp5VWctVE1pcnRWbmlKZUxWMnlpMmoxT3RuSWx0MnFPemwwMVRCdDNrbXAwdVpkQkRaS2NWQU5EXzE0aHp4empEVWh3Sk5uU1NXVnFVSU9CQkt6MGZsMlZJd2RpNnFLeGkxU2Y5eWREOUJfOV9NVmdPdw?oc=5>
+- **特朗普** | 英国新任首相伯纳姆：准备在必要时直言批评特朗普 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMTExZ05TMW43Uno2dnI4eDZLWXU0SHJFelQ5ZmlMQ0RkZUNLMzNsN0d1RlFPdGV4LVdlVW0zNXhaVU1NR0pLRmJNLVZGNXZ6WlFsYm9leXVxbmdQSVFfdlFzUkJ4SEZKMkxiX1N6cHZ2bWRTM0g1TDFJWDZqMlo2ZGw0bTc4ZURadTBPVzhFb1hrcklpbFRQanlPVmIwRTJDdDZGMEgtYTU4Y2dCRjlGTGxfLXlIcllMSERjNnB4V0djcVVlZjlyVVFiNXFTLW8wcmQzNTdmSVpkRE9PdU0w?oc=5>
+- **特朗普** | 伊朗帮手就位，压力给到美国，特朗普彻夜难眠，要对德黑兰上强度 <https://news.google.com/rss/articles/CBMif0FVX3lxTFBGTW42cENvRy14MVBubGhtZGR1V1lDMXplN0ZJVk0ycFJULUpKYk9HWlFJeFBFYlJYVEJHXzcxbGpUcTdEamd1LVd5VVN1bVlfVE5hRVRBMEpQcjlpaTY5LUtkWjh0U1ZkZHBvVnI2elBYcG1GM0JsOXNxY2dhQTA?oc=5>
+- **特朗普** | 以总理计划向特朗普递交伊朗情报 <https://news.google.com/rss/articles/CBMidEFVX3lxTE9ieWlvb3p5ZXBWNkNGVTNZVkhCOFRIYTh2M1pMM2MybTBpVGlCTHFmcnBHRG9BZTVmeGxLV0J5ZUlFWVZELV9aUkFtMkFocjNBcFZWRzhzVEJRNmJjdTFvTkxlSHBHMVF3enNybHZXb3FfREpN?oc=5>
+- **特朗普** | 特朗普下令暂停打击伊朗 伊方谴责乌克兰袭击商船 <https://news.google.com/rss/articles/CBMif0FVX3lxTE5NUDdWdU93aGZjQk43WlpmbGt3M0t5eklCdk1kZDhZNzVUeWdkWUxtRS1CbFJON213MUtSdVBobXJyUlc2ZE5zdGV1RmpyN21GMzlLSTRWWm1lT01PMzgwM3lXRTl2MmtLLTVpMnRTekFxZy1DRWF6UlZXZHV5dXc?oc=5>
+- **特朗普** | 特朗普下令暂停空袭伊朗 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kTTJwY0oyMm0yeVVqbVpReDNpRkVEZzhiVEZPTHlPMEpyWUFrYjJVWHdncjAzTjR4WXg3LW1ZdS01QjBnWDkyMVdNckFkdDdwVjZJ?oc=5>
+- **Trump** | $特朗普媒体科技集团 (DJT.US)$ 你怎么看这个？ https://qz.com/trump-media-truth-social-api-wall-street-traders-071626 <https://news.google.com/rss/articles/CBMisgFBVV95cUxNTXVIdjREdC1TbEl3Y090UVFZNFpkc1QtMTM3eUZ3amlJaDRmOTJCSFFRSlhVeThvTHBGUlFya0hmX0x3S0FXN3BoeXFpXzhDTjk0bzFPYmg3TE1uNkNpdjVfb0M3RnFTNjZRUzFhYnBqUVIxWFBxVVB4dW1GZVh2TWNrNDJQeHlfVXJXZkM0bVVSWGZOT1I1dTg1dWJiNlJpZzd3SkxUbzhzVkRYclFpMUpB?oc=5>
 
 ### 2026-07-26 14:47  (6 条)
 
