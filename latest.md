@@ -1,132 +1,67 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-26 05:43**
-- 本轮扫到 7816 条, 新增 **15** 条
+- 最近更新: **2026-07-26 08:14**
+- 本轮扫到 7822 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (15 条)
+## 本轮新发现 (6 条)
 
-### 王一博发布的暖心叮嘱内容是什么？
+### 18:28的发布时间如何被摩托姐姐破解为“一博爱博”暗号？
 
 - 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776726_1d5abd9d606801lznk.html>
+- 链接: <https://k.sina.com.cn/article_7879776731_1d5abd9db06801cwom.html>
 
-### 不搞情怀割韭菜!谢霆锋全开麦巡演,十月炸场温州
+### 王一博在超话中给粉丝发布了什么安全提醒？
 
-- 艺人/关键词: **周杰伦**
+- 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879848924_1d5acf3dc01901k37u.html>
+- 链接: <https://k.sina.com.cn/article_7879776726_1d5abd9d606801m0je.html>
 
-### 美媒：特朗普24日下令美军暂停打击伊朗
+### 赵丽颖如何公开称赞王一博的新歌？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-07-26 00:45
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5ndVNwSWFJMVJSRDRNczVpMVVVMlhRM3lsNWtCcG5jQWdUN3RzMGJ5anVVMUJIT2k1elBON3hsdnZXcEhPenJVRDlNcFRYYkdhN2FoT2NVX0tITHR6dGxubG1xLVJXY0hpSTFRTjJQZFdmWjZrc3hYSw?oc=5>
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923378_1d5ae16b206801xbzq.html>
 
-### 特朗普新关税生效数小时后即遭起诉，专家称其可能无法维持
+### 澳总理要找特朗普“理论”关税：这会损害美澳贸易关系
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-07-26 03:12
-- 链接: <https://news.google.com/rss/articles/CBMijgJBVV95cUxNU1ByRllVWVZYRlF2Zk5KTXl4LWgxSGhDaFdpcHFXUXAyUXE4RXVpT3pUSklIVUxudG1Hc3REYTg5SXVEV2lEbzBnNkw4UGRXMnY2UjRwZHNTa0VDY00wSTdjNXdUQmtIUkNpdVRLejA1QUJNMGVsMUM2dmtQTURvZHFGXy1UR21xYUtGalJWMWV2UXFWUGhSLS1Hd1NtTnZmT2tnMGdKVnhhUHQ3Ti1NWlFXXzc0S0pjMms2UjlnaEN3LVdVNGtfaFFZc0EzS3FjT1dhNXFXQjFVck9vbGQ5UHJHVmRWSkpUbFh6dVJuREFzdUJEVzlkelNBOVhLMGdzN3R6NThzemRJanhFcnc?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-07-26 07:11
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1waEtZeEFMVGpsdVRLaUs2bVhPbjVXRmQ1TFZZSGVGWjhseURqenV0VFUzcFdVLUMzaEJ3X09vRC1zMEpwUTNLNWdGZC0?oc=5>
 
-### 特朗普因以色列不满，对沙特核协议增新条件，从允许到禁止浓缩铀
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-07-26 04:18
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5mS29fRjJCMVRnN21ONDBqd0NnMGhnME1WbjBCWTlSVTkyc1F6MzdEbnQ2MHplVXNSRG1SSnlnUnduNlh6T2xfNHpMS1VnQ3ZLakhjTlRFZFRYelZCa3U3SVk4TlhnQUFmRVQzcWNldXFfcUk?oc=5>
-
-### 新华社消息丨美媒：特朗普24日下令美军暂停打击伊朗
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-07-26 02:02
-- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE1CMDVpdEl4bEdYbmlleTZWSmVfOVNPNmJRUy12bEFaV2t6MDZyaHl5YUpMOTFxSld5OEdGNUNDckx6d3RGYXRfVkpjZEd0RnpYYmNDWkNsMG5Zb2huR2NjOFZvblkzNzJhTGNvZ0RBUmtqOVZHQloySUNENHZaQQ?oc=5>
-
-### 国际特稿：第二任内家族财富暴涨 特朗普坐大位揽大权 招来公权谋私利质疑
+### 特朗普：美沙核协议不涉及铀浓缩活动
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 联合早报
-- 时间: 2026-07-25 21:00
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5rbHBQNklHWjJvRkpzelNLN0hsMjFla0FUSzdGZlFhV2g5SmFqd2Nib0l4NVdJYkxxVFZKamI3cWhfQ1RLSUFTVHVtNThIdkhjYzM2a2EzMWNVdS1vZy1HM24yY0l0Z0o2bGc?oc=5>
+- 时间: 2026-07-23 13:04
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE41c1RGdmFxeTV3Tm1ZNHlvU1RJOHdpZFdUM3JzWFYwRkZWb1NrQ3p3ZWxOVVNsY1BLMzdMSnlZel8wRmNEcVY0ZHVYbXVXcXBKa0xiOVpMMDl5b2JnSGJzLVBkOXVldw?oc=5>
 
-### 谷歌罚款点燃特朗普怒火 欧盟再次面临巨额关税威胁
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 驱动之家
-- 时间: 2026-07-25 13:42
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE9tYVlIVzhoMjU5VkdNcjlsUklKLVFLT3VqRHlRcmJqd3FaNlhNVXhyeEVLeEpIZVpQTS1pMEphWlludXJUcTBmT0hNY3RsSUVTOTV2X1VwdEQ?oc=5>
-
-### 特朗普为何不敢把对华制裁的话说死？
+### 特朗普称詹姆斯是种族主义者
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 手机网易网
-- 时间: 2026-07-26 05:41
-- 链接: <https://news.google.com/rss/articles/CBMiVEFVX3lxTFBKTmd4b3VyT3I5X19ySjN6OHQ3bGExcTRFNzdVQnNreDVTc2hQWlJFQ2NiUWE4MG1XbnNHbnhNSVRhRnhZQzZ4OWJRV3pLclBROEg5aA?oc=5>
-
-### 不满对谷歌罚款8.9亿欧元，特朗普称欧盟将为此付出沉重代价
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: Sohu
-- 时间: 2026-07-26 04:02
-- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeHJkcFBodDRzOFVHRFRfcnpFeXJ6ZEFFUGRNT1ZMbnU1dXZ3T0w1cHhqQ1lPODNETVZ6NTVwbmJIaEtReUo5Tk9TMl9CVE15RTl4eER2ZzFUSVN1aWc1cjV1WW1ZU2Rub25IMTdZZWhONlQxRElYLVFyX2t3aG1fUTF4WVN1bzh0?oc=5>
-
-### 美媒：特朗普24日下令美军暂停打击伊朗
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-07-25 20:34
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9mMFZfZmtjUlpMY1dpdF9TZldwclNZV2pXa1A0dWZvU0RUQml3N3ZydnJVU1NHNTlDUjdlcXBiUjREZ05neXg1R01Pb0xtdzVtY2xpQ0l1UHVrdUNobG5nMi13OHByXy0xeDV5TnY5OTNvZDB5V0FhLS1oVE1xUFE?oc=5>
-
-### 美媒曝特朗普暂停打击伊朗内幕
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-07-26 04:03
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ISXQ1X0Rld3FPZzM5Z1AtZm56UmVnS2xwWVdTb04tRld1VFRud09DR29sY3dkekQ5endFZFpkdHQxZlhDejc4SFNPZWNaMk1yTzhpRVV0blRreF9wZ3RCM3RqellmWXJr?oc=5>
-
-### 特朗普再次戴上小红帽：我将第4次竞选总统！
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-07-25 09:45
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtLVZrbU1KTVhkODVWT2xZMnhDNmpWTldFNFFrOWVTYjFyN3QyNUxfekNLYTBuOE9fNzlIODFpMnU0SEtWU2dvS2trR3F0N2ZQNVdZdkI0Z0ZDMUE4blZLaA?oc=5>
-
-### TRUMP团队解锁转出1083万枚代币，价值1691万美元
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: TradingView
-- 时间: 2026-07-25 01:13
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1vNjFCZlNQNVctTkk5SEhOMWtzOFlvZkQxNXpZVWVzTUVJSkxjeXhBdVlSczNJSHlPV2FMd2NqZG5UUlQ2UTRQRzhYRW9rUUJpYW9xQXR6UTJjcHlNTTYxY3BGbWY3QQ?oc=5>
-
-### “Trump因担忧防空导弹耗尽 暂缓对伊朗大规模攻击”
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 아시아경제
-- 时间: 2026-07-26 03:16
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LMFNGVWZ1UzhNS1NRR1hvRVZyM1Z6YU5XTExZczdRSE9YNUYyeFM5VEpzUTlwZHR2NmtTeksyQVY0SWdCMjZuMjI2QTdfY01PYXc5ZXh2LWtNQXZZNnZGZUNRTkI?oc=5>
+- 场馆: 手机新浪网
+- 时间: 2026-07-26 05:43
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFBMTkcyeFdScGd3RmI4bEdkeGppMjV3cGNWRnpacmlxQmllU1pqVkpONjdUOE5vd2luTkM2bVNwcTRhS2pnUlMwaUlDNjJndUpFcjJhejZrM2pRc3lDcC0xdWNQYnFFQ0UxZ3hmV05fc0ROTzA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-26 08:14  (6 条)
+
+- **王一博** | 18:28的发布时间如何被摩托姐姐破解为“一博爱博”暗号？ <https://k.sina.com.cn/article_7879776731_1d5abd9db06801cwom.html>
+- **王一博** | 王一博在超话中给粉丝发布了什么安全提醒？ <https://k.sina.com.cn/article_7879776726_1d5abd9d606801m0je.html>
+- **王一博** | 赵丽颖如何公开称赞王一博的新歌？ <https://k.sina.com.cn/article_7879923378_1d5ae16b206801xbzq.html>
+- **特朗普** | 澳总理要找特朗普“理论”关税：这会损害美澳贸易关系 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1waEtZeEFMVGpsdVRLaUs2bVhPbjVXRmQ1TFZZSGVGWjhseURqenV0VFUzcFdVLUMzaEJ3X09vRC1zMEpwUTNLNWdGZC0?oc=5>
+- **特朗普** | 特朗普：美沙核协议不涉及铀浓缩活动 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE41c1RGdmFxeTV3Tm1ZNHlvU1RJOHdpZFdUM3JzWFYwRkZWb1NrQ3p3ZWxOVVNsY1BLMzdMSnlZel8wRmNEcVY0ZHVYbXVXcXBKa0xiOVpMMDl5b2JnSGJzLVBkOXVldw?oc=5>
+- **特朗普** | 特朗普称詹姆斯是种族主义者 <https://news.google.com/rss/articles/CBMic0FVX3lxTFBMTkcyeFdScGd3RmI4bEdkeGppMjV3cGNWRnpacmlxQmllU1pqVkpONjdUOE5vd2luTkM2bVNwcTRhS2pnUlMwaUlDNjJndUpFcjJhejZrM2pRc3lDcC0xdWNQYnFFQ0UxZ3hmV05fc0ROTzA?oc=5>
 
 ### 2026-07-26 05:43  (15 条)
 
