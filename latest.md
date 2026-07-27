@@ -1,72 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-27 22:00**
-- 本轮扫到 7937 条, 新增 **7** 条
+- 最近更新: **2026-07-27 23:10**
+- 本轮扫到 7941 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (4 条)
 
-### 美媒披露特朗普暂停空袭伊朗原因：导弹不够了！美方：因阿曼斡旋停火，不是缺弹药！伊最高领袖最新表态，以总理：伊政权垮台战争才会结束
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-07-26 23:58
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1PWUhxUVkzQWgtSjBta2dCOUxEZXpHN1NVU2RyZ1dBZjk2SDBMeHk4dFU1YVlGdUQ0WU5uRWJZU2tVUHFmUzhuWDhLRUptazBOYkFwNFpZamhLYlp5ZERDMk41M0dKSTNxdUNVZTZtOHlDSnMyOGt6SQ?oc=5>
-
-### 特朗普：关税对通用汽车的影响令人惊叹。
+### 600名以色列前高官联名致信特朗普 警告约旦河西岸局势或升级
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: finance.sina.com.cn
-- 时间: 2026-07-27 18:30
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBxVkkzeTBXRi1XeDRlM3VURU9qaUh6cV9EZFl2WnBGeGpuWG5sZmgzUXEzV1NPbkFkc2g2ZkVJWkpHbG9HU242Z3BjYw?oc=5>
+- 时间: 2026-07-27 22:51
+- 链接: <https://news.google.com/rss/articles/CBMilgJBVV95cUxNMlVKWGhtd1RhbUh1bTJLSVNJWVVodW1xUFFjWThGeS03eTdQVDdQQmNqcDFrQTVWcTluclEyZE5aeE00cE1YOEVYbGh0ZmxaLTZTb1BMeTRKUEtPMURyQkRUZHJGT2xrcGdPTEFqMG8tMjNhTWd1RDhQVlBvVXdETnB2ckdXcEplMnJOak0yZkZUbTZDT3BRNzZjYWR0SVRDZHVmNzZGb2FGbFptbE1SMmpZSERmRDJqZkhWWWpEMWJ0QncyRm9xdEJZY3BuZnA1WWM5VzJrTm1GaS1yVzdaRDBqSy15aDlFd3hwQ1BsbVp1ak5ZRlAzLTl4RDd6a1B0c0YySE1wMmhhc1lMVi1acnZRVVV5UQ?oc=5>
 
-### 特朗普：暂停打击伊朗是给谈判再一次机会，谈不拢就“重新大打”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-07-27 16:02
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FN0RvREN6UlBjNlRvT3JJdEJqU01FTzBJRFJEeHBzblU3QW1SVFRkUENfTDZZb2RGSzFBVHg2STl3UWZiNHc5Q25tekVESmJYcHU4?oc=5>
-
-### 3个选项，特朗普举棋未定
+### 特朗普：美国已从委内瑞拉石油销售中获利超130亿美元
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-27 08:43
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE0tS182MlZ5bTc1ckxUUFZ2NEpmTWlzTVpqdmZMSFc1ZzNVaHI3NFRIM2VPUmNWUDNoVWZUeEthNktfeHdUaGdFWnVMTDY?oc=5>
+- 场馆: finance.sina.com.cn
+- 时间: 2026-07-27 21:20
+- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRUJDR3g1X1NHWWRsQ0wzV09DcXZ4TGZaSXlHWDJ4eHA3NElIRVpQVGRPNlUxd3RjOVpaRHZNTVpIa0stcU1LN1ZpTk1iOU9yNDkxb0xNYUFmc2x6eS1fWWhsbzZyQ28talZPUkpVZGJIdTIyVlhsZjdWWW5MbnlUZXhxVUZoekhkMDhpTGhYblljZ1RTRFE4WHpqcDlYM1FGMW5RN3N0YmVkcGlvUWI0ZFhmYjNwa3RzUlhlQ1NrQk9sNFR6RDF2Q2JVSnQwd3B0d2c?oc=5>
 
-### 特朗普：如果和伊朗谈判失败 军事行动可能恢复
+### 特朗普称有耐心与伊朗达成新协议
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-07-27 19:03
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE11b3JYVlpjQzJSOXBPYkN2T3hEQUoxc3BtVExzOHJuOTA1U0puN0o4a2FjUW1lWlU3RHFKeHhSYkhqdWx6T2ZiVl95NUthN2lYSVYxYkxadEtpdG94WW00aQ?oc=5>
+- 场馆: finance.sina.com.cn
+- 时间: 2026-07-27 22:23
+- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxPbFB2d051MEVWOVlXTmswaGJDOHA5N3RtaHJOdk5MZ0VsTENfWVNBMkJmT2JYUnR4Nmh3cGpETW9DbDFjX0VsbHJKbHJwRmRPdmQ0NVdid0wyc1JBWS16VnYwZG91V2daa3hXSmdNSExvaHphckpMWGptV1Q4NGdoMG1xN0d1R004dVJfMTR1RktXMzVSdjZ5UnQ4bEJXLWJk?oc=5>
 
-### 谢谢你，TRUMP！！！
+### 特朗普：正和伊朗进行“非常友好的谈判”
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-07-27 14:08
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE5mTVBveUNCblZGMTZLX0RvbXFEUUFaMDl2T3phdHE0eW4zdVAyazI1clZ4STZxV3AtOVN2dzlJUlc1a1VOTkM0MUJGNllpdzlmS0NBZ1dYeWlISE5PZEY2TFhTVTQyRnFmLTltaC04a05zMV82Vlp4ZC1KT0JHUFk?oc=5>
-
-### 美伊暂停袭击，全球油价下跌，股市上涨
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-07-27 16:28
-- 链接: <https://news.google.com/rss/articles/CBMitwFBVV95cUxOSXU5OVVabDgxaGRBQ2R0aV9zQjNzZFJJM0JIbjI4T2o4elVUbmVVLUJOQjhJbEN3OEZ6NkV4WW9ORzljd0VNRmMweno3X1RwQVluZlJYWk12UG9hVnJhMjNtUWhKY2hPN2dra2I4cFRrYjVVTWtHaVdMX2t6U3drdXgzQUs3bkRpRFdKcEc5dGQ3cmZFTGJPa1k0SkZVSU9uaXliTDFLT29xTGdHekdxSncyWXdKOTDSAboBQVVfeXFMTTY4OUs1V3dER19jTjFkaXR5dXFGckk2NzUzRW9Hc2xNaExYY05DaFE2QjBNZHdTakRtd1JudjJVeGRqZGlseTVQZ0xjVGhyTjkxTUxLVHBJNmdadm54VGpwMlVYVzlXa3l5RUpMTVdKVFFPRGI0U0g1dzJtYU9kRUE5UE9nNVowTzMwbHRrSm92ajA1VWxYb01CbUFBNVBxZnNOY3BiMEtnRkMwanRVVUVVTEJRbFlOclFn?oc=5>
+- 场馆: chinanews.com.cn
+- 时间: 2026-07-27 22:47
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1sRnpRcThBUFE3eXV3SHBXaDQ5NU5qY0QxQkUwa1hpWDllaHZhM1ZPTzdIS0NkQWg2VDZfRjJxQy1SeWZRN1hmQjV1TXFTMU15Q0lrTkdKUHNrUTMyaUgycWtrUVprbUhr?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-27 23:10  (4 条)
+
+- **特朗普** | 600名以色列前高官联名致信特朗普 警告约旦河西岸局势或升级 <https://news.google.com/rss/articles/CBMilgJBVV95cUxNMlVKWGhtd1RhbUh1bTJLSVNJWVVodW1xUFFjWThGeS03eTdQVDdQQmNqcDFrQTVWcTluclEyZE5aeE00cE1YOEVYbGh0ZmxaLTZTb1BMeTRKUEtPMURyQkRUZHJGT2xrcGdPTEFqMG8tMjNhTWd1RDhQVlBvVXdETnB2ckdXcEplMnJOak0yZkZUbTZDT3BRNzZjYWR0SVRDZHVmNzZGb2FGbFptbE1SMmpZSERmRDJqZkhWWWpEMWJ0QncyRm9xdEJZY3BuZnA1WWM5VzJrTm1GaS1yVzdaRDBqSy15aDlFd3hwQ1BsbVp1ak5ZRlAzLTl4RDd6a1B0c0YySE1wMmhhc1lMVi1acnZRVVV5UQ?oc=5>
+- **特朗普** | 特朗普：美国已从委内瑞拉石油销售中获利超130亿美元 <https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRUJDR3g1X1NHWWRsQ0wzV09DcXZ4TGZaSXlHWDJ4eHA3NElIRVpQVGRPNlUxd3RjOVpaRHZNTVpIa0stcU1LN1ZpTk1iOU9yNDkxb0xNYUFmc2x6eS1fWWhsbzZyQ28talZPUkpVZGJIdTIyVlhsZjdWWW5MbnlUZXhxVUZoekhkMDhpTGhYblljZ1RTRFE4WHpqcDlYM1FGMW5RN3N0YmVkcGlvUWI0ZFhmYjNwa3RzUlhlQ1NrQk9sNFR6RDF2Q2JVSnQwd3B0d2c?oc=5>
+- **特朗普** | 特朗普称有耐心与伊朗达成新协议 <https://news.google.com/rss/articles/CBMioAFBVV95cUxPbFB2d051MEVWOVlXTmswaGJDOHA5N3RtaHJOdk5MZ0VsTENfWVNBMkJmT2JYUnR4Nmh3cGpETW9DbDFjX0VsbHJKbHJwRmRPdmQ0NVdid0wyc1JBWS16VnYwZG91V2daa3hXSmdNSExvaHphckpMWGptV1Q4NGdoMG1xN0d1R004dVJfMTR1RktXMzVSdjZ5UnQ4bEJXLWJk?oc=5>
+- **特朗普** | 特朗普：正和伊朗进行“非常友好的谈判” <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1sRnpRcThBUFE3eXV3SHBXaDQ5NU5qY0QxQkUwa1hpWDllaHZhM1ZPTzdIS0NkQWg2VDZfRjJxQy1SeWZRN1hmQjV1TXFTMU15Q0lrTkdKUHNrUTMyaUgycWtrUVprbUhr?oc=5>
 
 ### 2026-07-27 22:00  (7 条)
 
