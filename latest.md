@@ -1,41 +1,59 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-27 06:03**
-- 本轮扫到 7883 条, 新增 **14** 条
+- 最近更新: **2026-07-27 10:14**
+- 本轮扫到 7896 条, 新增 **13** 条
 
 ---
 
-## 本轮新发现 (14 条)
+## 本轮新发现 (13 条)
 
-### 新浪演唱会热点小时报丨2026年07月27日13时_今日实时演唱会热点速递
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001908gxcs.html>
-
-### 新浪演唱会热点小时报丨2026年07月27日12时_今日实时演唱会热点速递
+### 周杰伦2027武汉站演唱会主题“兰亭序”有什么特别设计？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001908gwdy.html>
+- 链接: <https://k.sina.com.cn/article_7879849300_1d5acf5540680137ko.html>
 
-### 周杰伦武汉演唱会审批通过，预计于2027年4月9日开唱
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5953190046_162d6789e06703lt9i.html>
-
-### 周杰伦武汉演唱会审批通过
+### 新浪演唱会热点小时报丨2026年07月27日15时_今日实时演唱会热点速递
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2992050891_mb25712cb03301uc3e.html>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001908h1ty.html>
 
-### 周杰伦将来武汉开演唱会！
+### 周杰伦演唱会\&quot;划水\&quot;风波？这瓜我吃了！
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://finance.sina.com.cn/wm/2026-07-27/doc-inikfhfk9922963.shtml>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001908h1kk.html>
+
+### 周杰伦可能要塌房了！这次演唱会带来了很多危机！
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001908h1ku.html>
+
+### 来了！周杰伦武汉演唱会过审，2027兰亭序限定场太戳江城人
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001908h18m.html>
+
+### 新浪演唱会热点小时报丨2026年07月27日14时_今日实时演唱会热点速递
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001908h0c4.html>
+
+### 周杰伦武汉演唱会，审批通过！时间确定
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://finance.sina.com.cn/wm/2026-07-27/doc-inikfsuy8420626.shtml>
+
+### 审批通过！周杰伦武汉演唱会，时间定了！
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://finance.sina.com.cn/wm/2026-07-27/doc-inikfhfi3212329.shtml>
 
 ### 特朗普新关税生效数小时后即遭起诉，专家称其可能无法维持
 
@@ -43,76 +61,60 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-07-25 14:33
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNkNlc095VXZkNERmRWZkYjdQN3RvZDl5N2xPd3dPaUZrNWlHUjlSc0RUMXd2ZUdmR000dFhBRjBTQ0NyQWpHcTF5Z2FGcVFzWURMZDBLWVNWdTY0OWF0aTEyd2tUU1VhLVF3S01KYTJoQ2t3dlQ3QVM2WUVvcjE1MFo5UVcxelBqdkc1eVRCMzJMMUE5NURNVXZUSlR5Zlczc2wtakR0eGQ0Yi1KQ3ZsNW1TMDdxRUtXVXpGMHRody1uUVZ6ek9Kc0tFaWlXeU9mdXVXTTJIMnZFdWJZSGFN?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxPckZrdWQzdmpYVmlVOTZfVmNkYkVpdVM4YkQwLXQ5VTVkWHkweGdsYWNTYWwwOVdtN3NBWmxvZmdmbTJoeHNhMnJFUDc1WVVaRlQ3RV9aSXJBTWtsQTQwMXJzSVQ2cm5qbTZOamRYOGkxNnV3WlUxRm5sRjEzTFNGRlgwR1FyQjRJNVU4S1U2TGVtd2JFSW5rSUIya0Z4aG5LLXM1b0RPOFNyTFpmZEtKQnBGajdoMm45V2p1enExNVBzTWpaVDNHaXJCeE5vXzZ0ZmRaTWFfWTFVaW9pVXc?oc=5>
 
-### 特朗普连发数十张AI图：化身“超人”拯救华盛顿、与肯尼迪合影
+### 特朗普将于周二在白宫会见泽连斯基
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-27 05:18
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE9rQm9vRkkzVldGc2s1UXZBeFVScVNpMlVUaFMtb3I4cS1tR1VZVUExZVpLSFoyanNtdU04U0lkc3NvalRudEpnbEE0QnU3TGxJdW9TNl9qUlA5TWxCN01sVm1lc1loZVZLcmJNMFdUMzJhdWdNLVE?oc=5>
-
-### 美媒：特朗普24日下令美军暂停打击伊朗
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-07-25 20:36
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE56LXpNNW1HbXRGTHFYYmtzdlNxTGR0anFNQW5mYzYyeWgwWG5uRGVaMnkyYnR0M1RuZFdndWRHanYxUDFKV2VDdkdxZDYzLXlONmlsS0NwSS1oMHVCVUwzNA?oc=5>
-
-### 美媒披露特朗普暂停空袭伊朗原因：导弹不够了！美方：因阿曼斡旋停火 不是缺弹药！
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-07-27 00:41
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wRGNJUFJSejFZdmRzNG1zNVJHZ1FoTTBmb3Q1d0ZaWGx2MkpEbXRydVlkWklORTItVzJ1YUxlTkdManh0dWI4UGI2ZmROU0NCSlJpMndqVmlXRk00cXZ3ag?oc=5>
-
-### 美方知情人士披露特朗普暂缓扩大对伊作战规模原因
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 央广网
-- 时间: 2026-07-26 09:28
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yZ0FJRllfd2dJLTV4RWVBYUg2NzlsTnpIdjdyd3NJUTdDT21VNlljOC1Kams2VVcySjVTQW1SSzVodUFkeTlFYWhURDg2dUp1dTdfVFhqMndmc1BKdGZBcGN0SnA5OWR5?oc=5>
-
-### 美伊冲突又按“暂停键”，以总理今日启程再访白宫- 湖北日报新闻客户端
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 湖北日报传媒集团
-- 时间: 2026-07-27 00:50
-- 链接: <https://news.google.com/rss/articles/CBMiV0FVX3lxTE9DVjcwWVhoM3NkQkZkVU9KejBXb0x1bUw2UzZ1RGpDaXluM3NfLVc5SWVLMmI1WW5zNGdVQmNSWWlMQk1GTEVHUmJXZXBCVUN5bzlUUlZIdw?oc=5>
-
-### 苹果与美光掀起中国芯片游说战，特朗普陷入两难
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-07-27 04:42
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE5CcDhZSjl4czdibEpaQmZtWlJwOGhVNk00UGNSYk9UdTVOME55dW1vcTZETWM5RWZrNHdXWExIT2hwbEp4MUhqcGo4Vm9VeV9MQVhRYW5NTkh1X2JZTTZrMXhPdkxiMU1pT0xGbS1ZR3M3QVVzUEE?oc=5>
-
-### 特朗普全球新关税对中国影响有限
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 茉莉花新闻网
-- 时间: 2026-07-27 05:02
-- 链接: <https://news.google.com/rss/articles/CBMi7AFBVV95cUxNN0YwWjhvWXo5Q0FhbU1LSHEtNXRtaFludF9LWnBULWFmTEQ5Vm9WZ21POFA4VEJUSUtDNGJ2UXM4U3MtS0JhVXUxc2hOOXR6WGl6U3U5RDAyc2pkNHYwYXlUeVNqQlRCNG1WY2w1MVhjNW9TbXpsWTNtbHhXdWQ1OGsta0lJYXRoWkNQTEtQR3hHYWhZVFU0dXVYUVVUb1J4SEg1cW80aHNqUmFxenZYa0V6ME9lUjJITURTaG5IaV9ISkdZRlpuOGhEMG82ZXB4UmFISTFrRHVSdGpraS0tbTBQa1BwazR1WTdLNw?oc=5>
+- 时间: 2026-07-27 08:56
+- 链接: <https://news.google.com/rss/articles/CBMijgJBVV95cUxNb1phY2x3UUJrU1BWVm5tRFY2MHo0bnF1WlFWNGFBYjhSeGpSdXRVNUxaTDlnUWZ3WjhEdk9iVGxLY21LVWpGeHRqSENEdE5KTEl4ZjExczdzbXU1V0pXZVV6OWFNdHVGd01WMzNXT2U4UzdGSTNvcnFXQ1NTTnNpRjV0TVNnaHAzNWVEbWViSG5uSHFiSEZ0TWRDcWxpVzhqOVRUYUNEOGJxRnhuU2NkLUt0NFdrdjdqSHdYa0ZfejVaWWg4eDk5Zjl3eU1OV1NWOUIwUlJNTmt5T3FNbTNmVmhxWmxkdkxGRHNTRGRQNW1ZTFNSOEx5N0ZOQzc3YUNSQlgwSGRIUVI4UGNUUGc?oc=5>
 
 ### 伯纳姆：必要时将公开批评特朗普以捍卫国家利益
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-07-27 04:11
-- 链接: <https://news.google.com/rss/articles/CBMipgFBVV95cUxOLUsyaDFhNkx5N3RQUnFQLTV0ZTBrb1hhekw5Q3hDLXJRRWNXdkUwdEVfZlIxVnFZblZMemlwRGJrOTlJM2gtclNSeEZkVE55QkxhbjBYWnh2dkdFekVyS2xTcW0wUGI0QnBzLXBkLXJobkpDRTl0QXJpMDAtN1p0dkFLUnRiRHd1OW1obUpyR2FBcS1zZnZESnpOWmc0ZTR4TnM2aFlR?oc=5>
+- 场馆: 文学城
+- 时间: 2026-07-27 07:23
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5mdW9CVjdJTjFTZDVKaGtIcHFzTUNsX0hvYl9ITVBqbWszWUV3THNxQTNTNlBGdVNKbVprNDhDWHdibmNoV3djdS1fTTZqQzJHNzI5VzVDZ0w3U2VTU3lVaS1BalFMQzlw?oc=5>
+
+### 美议员：特朗普喜欢每天的袭击行动，他认为有时候你必须杀鸡儆猴
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Sohu
+- 时间: 2026-07-27 08:07
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxONHRZYjVGS0tMTHF1QVh5al85Z2FxRTkwN1J4aE9mb3NMWDhRYmswazFadTdMTlhNbzI2d3N5Z1pabDAtTExtWkluZFV4VGU5UVNoWGZkcnpoY0JKa2QySkRNZ2RzN3EzT3A3Ml9vX3NoamYwd0pEZ1NXeVJwZ2xlMndlM0g4Q08tM0FEag?oc=5>
+
+### 特朗普是美国最佳总统吗？泽连斯基含糊回应：历史会给出答案
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-07-27 08:52
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE5TNFZPWkpUX0VBOFd3YjdfbkVjZXFsNGtuZVJkV1ZTeU9pREdiQWF1Q3liV2tmc2JnR2ctcE1pX3RHNk11LWpIdFdJWDlYc252Zjlja2lmUElyczNRNlE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-27 10:14  (13 条)
+
+- **周杰伦** | 周杰伦2027武汉站演唱会主题“兰亭序”有什么特别设计？ <https://k.sina.com.cn/article_7879849300_1d5acf5540680137ko.html>
+- **周杰伦** | 新浪演唱会热点小时报丨2026年07月27日15时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001908h1ty.html>
+- **周杰伦** | 周杰伦演唱会\&quot;划水\&quot;风波？这瓜我吃了！ <https://k.sina.com.cn/article_7857201856_1d45362c001908h1kk.html>
+- **周杰伦** | 周杰伦可能要塌房了！这次演唱会带来了很多危机！ <https://k.sina.com.cn/article_7857201856_1d45362c001908h1ku.html>
+- **周杰伦** | 来了！周杰伦武汉演唱会过审，2027兰亭序限定场太戳江城人 <https://k.sina.com.cn/article_7857201856_1d45362c001908h18m.html>
+- **周杰伦** | 新浪演唱会热点小时报丨2026年07月27日14时_今日实时演唱会热点速递 <https://k.sina.com.cn/article_7857201856_1d45362c001908h0c4.html>
+- **周杰伦** | 周杰伦武汉演唱会，审批通过！时间确定 <https://finance.sina.com.cn/wm/2026-07-27/doc-inikfsuy8420626.shtml>
+- **周杰伦** | 审批通过！周杰伦武汉演唱会，时间定了！ <https://finance.sina.com.cn/wm/2026-07-27/doc-inikfhfi3212329.shtml>
+- **特朗普** | 特朗普新关税生效数小时后即遭起诉，专家称其可能无法维持 <https://news.google.com/rss/articles/CBMi3gFBVV95cUxPckZrdWQzdmpYVmlVOTZfVmNkYkVpdVM4YkQwLXQ5VTVkWHkweGdsYWNTYWwwOVdtN3NBWmxvZmdmbTJoeHNhMnJFUDc1WVVaRlQ3RV9aSXJBTWtsQTQwMXJzSVQ2cm5qbTZOamRYOGkxNnV3WlUxRm5sRjEzTFNGRlgwR1FyQjRJNVU4S1U2TGVtd2JFSW5rSUIya0Z4aG5LLXM1b0RPOFNyTFpmZEtKQnBGajdoMm45V2p1enExNVBzTWpaVDNHaXJCeE5vXzZ0ZmRaTWFfWTFVaW9pVXc?oc=5>
+- **特朗普** | 特朗普将于周二在白宫会见泽连斯基 <https://news.google.com/rss/articles/CBMijgJBVV95cUxNb1phY2x3UUJrU1BWVm5tRFY2MHo0bnF1WlFWNGFBYjhSeGpSdXRVNUxaTDlnUWZ3WjhEdk9iVGxLY21LVWpGeHRqSENEdE5KTEl4ZjExczdzbXU1V0pXZVV6OWFNdHVGd01WMzNXT2U4UzdGSTNvcnFXQ1NTTnNpRjV0TVNnaHAzNWVEbWViSG5uSHFiSEZ0TWRDcWxpVzhqOVRUYUNEOGJxRnhuU2NkLUt0NFdrdjdqSHdYa0ZfejVaWWg4eDk5Zjl3eU1OV1NWOUIwUlJNTmt5T3FNbTNmVmhxWmxkdkxGRHNTRGRQNW1ZTFNSOEx5N0ZOQzc3YUNSQlgwSGRIUVI4UGNUUGc?oc=5>
+- **特朗普** | 伯纳姆：必要时将公开批评特朗普以捍卫国家利益 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5mdW9CVjdJTjFTZDVKaGtIcHFzTUNsX0hvYl9ITVBqbWszWUV3THNxQTNTNlBGdVNKbVprNDhDWHdibmNoV3djdS1fTTZqQzJHNzI5VzVDZ0w3U2VTU3lVaS1BalFMQzlw?oc=5>
+- **特朗普** | 美议员：特朗普喜欢每天的袭击行动，他认为有时候你必须杀鸡儆猴 <https://news.google.com/rss/articles/CBMijAFBVV95cUxONHRZYjVGS0tMTHF1QVh5al85Z2FxRTkwN1J4aE9mb3NMWDhRYmswazFadTdMTlhNbzI2d3N5Z1pabDAtTExtWkluZFV4VGU5UVNoWGZkcnpoY0JKa2QySkRNZ2RzN3EzT3A3Ml9vX3NoamYwd0pEZ1NXeVJwZ2xlMndlM0g4Q08tM0FEag?oc=5>
+- **特朗普** | 特朗普是美国最佳总统吗？泽连斯基含糊回应：历史会给出答案 <https://news.google.com/rss/articles/CBMiXkFVX3lxTE5TNFZPWkpUX0VBOFd3YjdfbkVjZXFsNGtuZVJkV1ZTeU9pREdiQWF1Q3liV2tmc2JnR2ctcE1pX3RHNk11LWpIdFdJWDlYc252Zjlja2lmUElyczNRNlE?oc=5>
 
 ### 2026-07-27 06:03  (14 条)
 
