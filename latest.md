@@ -1,72 +1,73 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-27 19:17**
-- 本轮扫到 7924 条, 新增 **7** 条
+- 最近更新: **2026-07-27 20:49**
+- 本轮扫到 7930 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (6 条)
 
-### 特朗普将于周二在白宫会见泽连斯基
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-27 18:39
-- 链接: <https://news.google.com/rss/articles/CBMiqgJBVV95cUxONlFMRVlJalhXS1h0RE92MkZfUTllQVY2WDRHXzA3Z09KYWtOX3FGTFcyMkM3X2ZzeENEOHZPbndyXzNSRGhjYzYwRzUwNm5kZWc1ZXltTkJ0R2xEV19HWWdsc19jQkNlZHBHbDBNd0VfUGpZUkRHdURoak9FWTNUM1dHUVkwOFM4ZjBEUnRpQlRoMjNqNlVaNUFUWmI5Q2Z6TWFGUnlwOFdiMlZSaVNpaEZsV3BKc1lKSDd5X0Y4b2ljcTJJVnhIcHZVZ3htSGlKVXp5NU5xTXpYNHB6NEFsdGItclQ3MUFpUVFxSEk5QXQ2S1RQMUk3cGcya1VwT3dFbmIzVFlIR1hQWWk2NHdMQVB1Slo3b2xEdVZJQkxyTzZQclh6SzNJMzVR?oc=5>
-
-### 特朗普辟谣说：“有很多弹药”
+### 特朗普称美方正与伊朗谈判 不排除加大军事打击
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-07-27 18:30
-- 链接: <https://news.google.com/rss/articles/CBMi5AFBVV95cUxNM3FsNWJVeVcxQUdyLVVQZ2pjM3dUOXZOaTE0WHhZdlROVEJOYXhRQk9yRmh1bWMzd2VCazZDZ00wVUxPM0gteWprUW1DejBCQ21uMHlCQW9xUU40c1UweldDV3czR2NUT2JwZFo4ZDdCeTVlNi1yZFFEOGZyR0JXSzlKYW5hcExQcVVSbHF2amtDRnNZY0p5X1djZEZRdEZIOE9lcFp3alVwaTZQZWJmMEJFdEluQnZKQ25FNUJyclc4LUVzV2piZ29zZ1gzWVlGWHRZYXNieEVpczdlNVRMWFpZUlk?oc=5>
+- 场馆: finance.sina.com.cn
+- 时间: 2026-07-24 19:36
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5RcWYtY2owdVY5SUd3VHBqMElqTEdvRWVlSXVDcjdyYUUxR2w0eGphbGV3MXhucXZxTnFtWmk2ckRwbkIxLXkyWF9vMEtkUjg5QWt2SDZJYVFzS2Ywd2ZINE1IbmEwQW9TcmFud1Zacl9XMmV3cUl0Xw?oc=5>
 
-### 山姆・奥特曼本周将会晤特朗普政府官员，其沟通核心内容曝光
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-27 15:36
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxPNURZaTdiWmU4OTgtQnYyWURmS0FUanBockhvYXg2ejhOeTBfUXN3MDV6c294dHdkQlNwdnJQTTNOREdHdGtFLWp1UF96blBZd2N6TlB3bjhTekNZeE13eXIzYzBOMkxjV21OV0lxQ05KSVFCaXNCb1F4NEN1dUlJOGhGQ0E0VTA?oc=5>
-
-### 《南德意志报》：特朗普钟爱关税 所以就征收关税
+### 特朗普政府AI自愿监管框架即将落地
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-07-26 18:05
-- 链接: <https://news.google.com/rss/articles/CBMixgJBVV95cUxPaFB6cHVoakdXTlY0bXB1Uk8xV3RxMnZwekJtRU9GWXV4NWhUczVlNDZ3TEVGMFdZWWpUREE2SVptbDBuN2RSanotWVk2LUowWkRRUXFZeHdLZ2xmdjFUS1R4ZUtNSXMzTjRfMnUyWDZQc2E1SktCdTItY0tRb1FKTFpYeTBCRGdHTUxvbk5Tc1hweVhlek1CWk9yX2ZHd2lKbzB6bW1RMXpaTGVlQmxpM2k1UmE1ejZVa1N2SWkxbVgzeExkRGh0RVQ1VUxrTGkzX3ZRZkRpdFExTGRlUndLTGlYaXBMWGFseHVVbGl0eGcyVXQ4eVVGTFVXaHNGdnhhRDRfMmk3VHVWNnI5Z094MmQwMFlUelZVdzduV2VING5FQ1czRFZlSVFxRlZJblNfVWNsX0FwOUtyeGcwNG9MaEZGU2o5QQ?oc=5>
+- 场馆: video.sina.com.cn
+- 时间: 2026-07-27 20:27
+- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxOMWRYRmtkZUpFVHdPWkozaWZxWGxpRFBVS0tBZ2Z0a0lpdEtxS3VZb2NGbVVaOFY2cGF3R19zVHBZV1BmOF9sRGZ1VmdXNlpQLVNpRlJiODdjOTQ0ZmFfeEloaldXcVBqUmVxTEJhRGZyQWxSdXE3UUZhWFVnUUJvWUxR?oc=5>
 
-### 民调崩盘！共和党集体叛逃，要弃特朗普保选举？
+### 特朗普威胁对欧盟加征巨额报复性关税，为何又是“301调查”？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 文学城
-- 时间: 2026-07-27 16:43
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5rVm5kTWlnVGFTR2FIaVAySDF1c3YxS0NIV2hNWE1nS29VQ3lWUWxvN0NSV3RlampueFcybUJwSUFpbFgyME81cXBlTVNNQnhmTDlwTHl1bzcwMEFXQTVHTkNzRnZ3blhS?oc=5>
+- 场馆: finance.sina.com.cn
+- 时间: 2026-07-27 11:07
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9zejh0a2NGcC1zbk5Fd1VjVDNxLXd1NE9pb0NXQjlDZlFYTFJVUDVLaF9RTHl2dWwwbVJOcVgzMExsWXozaTN6dWJrM2NmNjJQUkw3NWxQSWZ5SXhJOGhkbmc4TkZ5cmM3WE1uVmx0bzRlcFN2ekVEbg?oc=5>
 
-### 英国新首相：必要时会公开反驳特朗普
+### 英国新国防大臣：欧洲会感谢特朗普，是他让我们摆脱了自满情绪
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-07-27 05:55
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9yNkt5XzlaUWxuTjV0UFZETVNmTU5tVVBTY3pHcEZrSWx1clhCMkRQSmxIYXdia0x2SmdFUFZjZklfUEd0MDBvMjhSeU8?oc=5>
+
+### 特朗普威胁对欧盟加征巨额报复性关税，为何又是“301调查”？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 21财经
-- 时间: 2026-07-27 10:04
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxORE8wa2JkSEdDSTFaWndnRzlpdjVzejJlZFdpcHkyX1MtQk1tTGN4aEZvNGxwcnd2WGh3cGxOTlJGNkl2RVl6Zlh1alZYOXlmdDVFazExVG5SbkFOOHMwb25Mci11WWhqeDdhZHZTQ1duZFFxMFkwU3VNYkx3WEp1dEJCS3AyTjluclllOQ?oc=5>
+- 时间: 2026-07-27 13:27
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxQUXdvWG9oWXUzWkdVQkJGa2huUmNQUllNXzBocVJsRUF6WlMtdElyVHYtXzlSQ3hYT0NkQzl0TDA1YkNiazJ0dnlvaHFXTHowWGd0clVBdi1pTWdiYmVyano3ZTlJazhlQUlMdjhZSWtRa2xnd3kzcE14NkhuNEFSVXNzazkxWVlUeUZrWQ?oc=5>
 
-### 特朗普周二将在白宫会见内塔尼亚胡
+### 美伊暂停袭击，全球油价下跌，股市上涨
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-07-27 17:49
-- 链接: <https://news.google.com/rss/articles/CBMinwJBVV95cUxQdjRTR3JzUUhnSFhxaVRXdllfMXRLeVRGNTlxam95NzM4Rm5YT081Y0hPUTM0WlU2bWNUb0pRdG9WVTNhQUk0ZGFqQUZoQUk5c2lNXzNfaGFMWm1PR1ZYV0xjOXlTZU5CSVhNV0VtQjBfbDhWb1hCU0ZYOThjM0haYkt0b3dfQnpSa1Z0VlhTWnF1cGFDX1F5aFd0c1o2WW1WUGd4SkhvMC0xN3prbUVyRE0xSlN6U3p2VzYyLXNHMlBobFpfQkU0ZlJ5OUEzZWQyR0QxeVpYRXpxNk5RLXo4eW5QeHJ4WjJqYmNWaXFHdVFBTE52YTMtNkFWRlhzYkI5SUZiMC1UemRBcjZTVW5UcTRxYnRNRklKWktHUC1nZw?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-07-27 16:28
+- 链接: <https://news.google.com/rss/articles/CBMitwFBVV95cUxOSXU5OVVabDgxaGRBQ2R0aV9zQjNzZFJJM0JIbjI4T2o4elVUbmVVLUJOQjhJbEN3OEZ6NkV4WW9ORzljd0VNRmMweno3X1RwQVluZlJYWk12UG9hVnJhMjNtUWhKY2hPN2dra2I4cFRrYjVVTWtHaVdMX2t6U3drdXgzQUs3bkRpRFdKcEc5dGQ3cmZFTGJPa1k0SkZVSU9uaXliTDFLT29xTGdHekdxSncyWXdKOTA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-27 20:49  (6 条)
+
+- **特朗普** | 特朗普称美方正与伊朗谈判 不排除加大军事打击 <https://news.google.com/rss/articles/CBMieEFVX3lxTE5RcWYtY2owdVY5SUd3VHBqMElqTEdvRWVlSXVDcjdyYUUxR2w0eGphbGV3MXhucXZxTnFtWmk2ckRwbkIxLXkyWF9vMEtkUjg5QWt2SDZJYVFzS2Ywd2ZINE1IbmEwQW9TcmFud1Zacl9XMmV3cUl0Xw?oc=5>
+- **特朗普** | 特朗普政府AI自愿监管框架即将落地 <https://news.google.com/rss/articles/CBMiggFBVV95cUxOMWRYRmtkZUpFVHdPWkozaWZxWGxpRFBVS0tBZ2Z0a0lpdEtxS3VZb2NGbVVaOFY2cGF3R19zVHBZV1BmOF9sRGZ1VmdXNlpQLVNpRlJiODdjOTQ0ZmFfeEloaldXcVBqUmVxTEJhRGZyQWxSdXE3UUZhWFVnUUJvWUxR?oc=5>
+- **特朗普** | 特朗普威胁对欧盟加征巨额报复性关税，为何又是“301调查”？ <https://news.google.com/rss/articles/CBMieEFVX3lxTE9zejh0a2NGcC1zbk5Fd1VjVDNxLXd1NE9pb0NXQjlDZlFYTFJVUDVLaF9RTHl2dWwwbVJOcVgzMExsWXozaTN6dWJrM2NmNjJQUkw3NWxQSWZ5SXhJOGhkbmc4TkZ5cmM3WE1uVmx0bzRlcFN2ekVEbg?oc=5>
+- **特朗普** | 英国新国防大臣：欧洲会感谢特朗普，是他让我们摆脱了自满情绪 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9yNkt5XzlaUWxuTjV0UFZETVNmTU5tVVBTY3pHcEZrSWx1clhCMkRQSmxIYXdia0x2SmdFUFZjZklfUEd0MDBvMjhSeU8?oc=5>
+- **特朗普** | 特朗普威胁对欧盟加征巨额报复性关税，为何又是“301调查”？ <https://news.google.com/rss/articles/CBMijAFBVV95cUxQUXdvWG9oWXUzWkdVQkJGa2huUmNQUllNXzBocVJsRUF6WlMtdElyVHYtXzlSQ3hYT0NkQzl0TDA1YkNiazJ0dnlvaHFXTHowWGd0clVBdi1pTWdiYmVyano3ZTlJazhlQUlMdjhZSWtRa2xnd3kzcE14NkhuNEFSVXNzazkxWVlUeUZrWQ?oc=5>
+- **Trump** | 美伊暂停袭击，全球油价下跌，股市上涨 <https://news.google.com/rss/articles/CBMitwFBVV95cUxOSXU5OVVabDgxaGRBQ2R0aV9zQjNzZFJJM0JIbjI4T2o4elVUbmVVLUJOQjhJbEN3OEZ6NkV4WW9ORzljd0VNRmMweno3X1RwQVluZlJYWk12UG9hVnJhMjNtUWhKY2hPN2dra2I4cFRrYjVVTWtHaVdMX2t6U3drdXgzQUs3bkRpRFdKcEc5dGQ3cmZFTGJPa1k0SkZVSU9uaXliTDFLT29xTGdHekdxSncyWXdKOTA?oc=5>
 
 ### 2026-07-27 19:17  (7 条)
 
