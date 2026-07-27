@@ -1,52 +1,89 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-27 13:23**
-- 本轮扫到 7902 条, 新增 **6** 条
+- 最近更新: **2026-07-27 15:57**
+- 本轮扫到 7910 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (8 条)
 
-### 周杰伦南京演唱会具体定在什么时候？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923682_1d5ae17e206801dkqy.html>
-
-### 周杰伦巡演“一城一名”模式中其他城市主题是什么？
+### 周杰伦武汉演唱会定档4月
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849300_1d5acf5540680137kq.html>
+- 链接: <https://k.sina.com.cn/article_1720962692_m6693ce840530355p0.html>
 
-### 周杰伦“嘉年华”巡演未来还会增加哪些新城市？
+### 美时政评论员：特朗普不希望赖清德搞“抗中保台”
 
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849300_1d5acf5540680137kk.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-07-25 07:00
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1CbWVwWUN1YzNjY3JfWlhPOVN3T2tJd2I5LXR1aEtQRmpRLTZ2UEJmVlJkZkhFRkZZMjd3eG53ZHZoeE03WVJDOTFNTE8?oc=5>
 
-### 周杰伦武汉演唱会审批通过，预计于2027年4月9日开唱
+### 特朗普全球新关税对中国影响有限
 
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001908h35e.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 纽约时报中文网
+- 时间: 2026-07-27 02:06
+- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTFBPeFRZRmpHbnBtUERLUG1GWXpicktIVElnbHk0VWh2UnU1dkZlNEVWQ1Y2U1VPdlpRT1RSMzNaSGhJWXZTLV9haVpUdC1CenJreVRBeEJEVmZtQWQwSkJteHdQRkYxcjRZQWR6bGhn?oc=5>
 
-### 周杰伦武汉演唱会，审批通过！
+### 特朗普新关税生效数小时后即遭起诉，专家称其可能无法维持
 
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://finance.sina.com.cn/wm/2026-07-27/doc-inikhcky9814159.shtml>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-25 14:33
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPY1VDeDFqNGNkS1dTN0ZyRDQ3OUNucFEwdTJyWGJwOTlBd0l1NXluQThYSlA3ajlTX1ZxM2Vvakw0N05OMmlReER4ZkpfQTlYTndXSWlZQXp6dVRrQVBzTnVfNk00em50aW5NaDgtRFl6SEdNT043ZXNPNG1sYkZHOUhoRWltdzUyV0JVSFhtTzdRNDIxeWxUUWt3N05FMVlSNlliMzd1UkMwWjBFLW5rUmk2QU1COUVfRUZFajlZa05UZ1VNS3I1QWtMUVdsYzRHdlBjdW1KVWFmWlFBdExj?oc=5>
 
-### 周杰伦明年4月来武汉开演唱会，周杰伦潘玮柏许嵩黄丽玲都要来武汉
+### 英国新首相：必要时会公开反驳特朗普
 
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://finance.sina.com.cn/jjxw/2026-07-27/doc-inikfsve9899120.shtml>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Sohu
+- 时间: 2026-07-27 08:42
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxORWhGNC1MTXBOWXdaYmJGTlR1S1BwTVFTQVRqSjdEblhZQnhsNzRGcG1CSG9nSG9wX3J2SlA4alNRMGVYTzdVNlRxcnc1eFB4b1hLNzJUYjBUWUFldHVTeTN0WkVta3VPQjJGeGhrZjh6d2l0ZjZpQ0Nncm1GZnJOWlIwcVY5MnhE?oc=5>
+
+### 特朗普称若谈判破裂将强力打击伊朗
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: chinanews.com.cn
+- 时间: 2026-07-27 15:55
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zX2lzV0RZOWdhaHQwSkpGXzhpT0xKenhKWU1pZmtXQ1FOSnRPVTU4cFBKUldkWkc0TTdyYVpMa1RRNFdsS0QxYmVZYXhjbnhycXNxNmFtR2IxTEpFWkJERU5vczg4VUFU?oc=5>
+
+### 特朗普叫停对伊朗空袭 为霍尔木兹海峡谈判留出空间
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 财联社
+- 时间: 2026-07-27 08:43
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTFA5Q3cxaEhVLXQxTDE2bDMxMGoxaVNWRTJvcTdPYzJCVWgxU19ENlctMmF2SEg1am1BdVFmWS12cDhkdE1PeXJiYQ?oc=5>
+
+### 由于伊朗和美国暂停袭击，油价暴跌9.5%，创数月来最大跌幅。
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Al-Monitor
+- 时间: 2026-07-27 13:24
+- 链接: <https://news.google.com/rss/articles/CBMivwFBVV95cUxOUWlOYk8ycEdVZkVESktsdVQwejNCbDdYTmFYc0swVXFnb2NxcDhWQ2dnYzdTbHpmemd6S2VkWTM1Um9Oc3Y2Q1VaNmM2Rnlsei1JTWg3WlJtT2RUMGh4eDg0MEEyazJ6Q2ZzSVAzQTk5NGlHLURkZXlfRGNyUmF2a25qX25PdlV5Y0h4WVl1TW5yWThJR2dkbFFMMmhiNGZWRWhFMW52ZTd5S2NNR0dEcXBQN2dYMlpDelhEUDBRMA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-27 15:57  (8 条)
+
+- **周杰伦** | 周杰伦武汉演唱会定档4月 <https://k.sina.com.cn/article_1720962692_m6693ce840530355p0.html>
+- **特朗普** | 美时政评论员：特朗普不希望赖清德搞“抗中保台” <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1CbWVwWUN1YzNjY3JfWlhPOVN3T2tJd2I5LXR1aEtQRmpRLTZ2UEJmVlJkZkhFRkZZMjd3eG53ZHZoeE03WVJDOTFNTE8?oc=5>
+- **特朗普** | 特朗普全球新关税对中国影响有限 <https://news.google.com/rss/articles/CBMibkFVX3lxTFBPeFRZRmpHbnBtUERLUG1GWXpicktIVElnbHk0VWh2UnU1dkZlNEVWQ1Y2U1VPdlpRT1RSMzNaSGhJWXZTLV9haVpUdC1CenJreVRBeEJEVmZtQWQwSkJteHdQRkYxcjRZQWR6bGhn?oc=5>
+- **特朗普** | 特朗普新关税生效数小时后即遭起诉，专家称其可能无法维持 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPY1VDeDFqNGNkS1dTN0ZyRDQ3OUNucFEwdTJyWGJwOTlBd0l1NXluQThYSlA3ajlTX1ZxM2Vvakw0N05OMmlReER4ZkpfQTlYTndXSWlZQXp6dVRrQVBzTnVfNk00em50aW5NaDgtRFl6SEdNT043ZXNPNG1sYkZHOUhoRWltdzUyV0JVSFhtTzdRNDIxeWxUUWt3N05FMVlSNlliMzd1UkMwWjBFLW5rUmk2QU1COUVfRUZFajlZa05UZ1VNS3I1QWtMUVdsYzRHdlBjdW1KVWFmWlFBdExj?oc=5>
+- **特朗普** | 英国新首相：必要时会公开反驳特朗普 <https://news.google.com/rss/articles/CBMiiAFBVV95cUxORWhGNC1MTXBOWXdaYmJGTlR1S1BwTVFTQVRqSjdEblhZQnhsNzRGcG1CSG9nSG9wX3J2SlA4alNRMGVYTzdVNlRxcnc1eFB4b1hLNzJUYjBUWUFldHVTeTN0WkVta3VPQjJGeGhrZjh6d2l0ZjZpQ0Nncm1GZnJOWlIwcVY5MnhE?oc=5>
+- **特朗普** | 特朗普称若谈判破裂将强力打击伊朗 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zX2lzV0RZOWdhaHQwSkpGXzhpT0xKenhKWU1pZmtXQ1FOSnRPVTU4cFBKUldkWkc0TTdyYVpMa1RRNFdsS0QxYmVZYXhjbnhycXNxNmFtR2IxTEpFWkJERU5vczg4VUFU?oc=5>
+- **特朗普** | 特朗普叫停对伊朗空袭 为霍尔木兹海峡谈判留出空间 <https://news.google.com/rss/articles/CBMiSEFVX3lxTFA5Q3cxaEhVLXQxTDE2bDMxMGoxaVNWRTJvcTdPYzJCVWgxU19ENlctMmF2SEg1am1BdVFmWS12cDhkdE1PeXJiYQ?oc=5>
+- **Trump** | 由于伊朗和美国暂停袭击，油价暴跌9.5%，创数月来最大跌幅。 <https://news.google.com/rss/articles/CBMivwFBVV95cUxOUWlOYk8ycEdVZkVESktsdVQwejNCbDdYTmFYc0swVXFnb2NxcDhWQ2dnYzdTbHpmemd6S2VkWTM1Um9Oc3Y2Q1VaNmM2Rnlsei1JTWg3WlJtT2RUMGh4eDg0MEEyazJ6Q2ZzSVAzQTk5NGlHLURkZXlfRGNyUmF2a25qX25PdlV5Y0h4WVl1TW5yWThJR2dkbFFMMmhiNGZWRWhFMW52ZTd5S2NNR0dEcXBQN2dYMlpDelhEUDBRMA?oc=5>
 
 ### 2026-07-27 13:23  (6 条)
 
