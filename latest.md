@@ -1,104 +1,61 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-27 10:14**
-- 本轮扫到 7896 条, 新增 **13** 条
+- 最近更新: **2026-07-27 13:23**
+- 本轮扫到 7902 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (13 条)
+## 本轮新发现 (6 条)
 
-### 周杰伦2027武汉站演唱会主题“兰亭序”有什么特别设计？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849300_1d5acf5540680137ko.html>
-
-### 新浪演唱会热点小时报丨2026年07月27日15时_今日实时演唱会热点速递
+### 周杰伦南京演唱会具体定在什么时候？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001908h1ty.html>
+- 链接: <https://k.sina.com.cn/article_7879923682_1d5ae17e206801dkqy.html>
 
-### 周杰伦演唱会\&quot;划水\&quot;风波？这瓜我吃了！
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001908h1kk.html>
-
-### 周杰伦可能要塌房了！这次演唱会带来了很多危机！
+### 周杰伦巡演“一城一名”模式中其他城市主题是什么？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001908h1ku.html>
+- 链接: <https://k.sina.com.cn/article_7879849300_1d5acf5540680137kq.html>
 
-### 来了！周杰伦武汉演唱会过审，2027兰亭序限定场太戳江城人
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001908h18m.html>
-
-### 新浪演唱会热点小时报丨2026年07月27日14时_今日实时演唱会热点速递
+### 周杰伦“嘉年华”巡演未来还会增加哪些新城市？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001908h0c4.html>
+- 链接: <https://k.sina.com.cn/article_7879849300_1d5acf5540680137kk.html>
 
-### 周杰伦武汉演唱会，审批通过！时间确定
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://finance.sina.com.cn/wm/2026-07-27/doc-inikfsuy8420626.shtml>
-
-### 审批通过！周杰伦武汉演唱会，时间定了！
+### 周杰伦武汉演唱会审批通过，预计于2027年4月9日开唱
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://finance.sina.com.cn/wm/2026-07-27/doc-inikfhfi3212329.shtml>
+- 链接: <https://k.sina.com.cn/article_7857201856_1d45362c001908h35e.html>
 
-### 特朗普新关税生效数小时后即遭起诉，专家称其可能无法维持
+### 周杰伦武汉演唱会，审批通过！
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-25 14:33
-- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxPckZrdWQzdmpYVmlVOTZfVmNkYkVpdVM4YkQwLXQ5VTVkWHkweGdsYWNTYWwwOVdtN3NBWmxvZmdmbTJoeHNhMnJFUDc1WVVaRlQ3RV9aSXJBTWtsQTQwMXJzSVQ2cm5qbTZOamRYOGkxNnV3WlUxRm5sRjEzTFNGRlgwR1FyQjRJNVU4S1U2TGVtd2JFSW5rSUIya0Z4aG5LLXM1b0RPOFNyTFpmZEtKQnBGajdoMm45V2p1enExNVBzTWpaVDNHaXJCeE5vXzZ0ZmRaTWFfWTFVaW9pVXc?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://finance.sina.com.cn/wm/2026-07-27/doc-inikhcky9814159.shtml>
 
-### 特朗普将于周二在白宫会见泽连斯基
+### 周杰伦明年4月来武汉开演唱会，周杰伦潘玮柏许嵩黄丽玲都要来武汉
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-27 08:56
-- 链接: <https://news.google.com/rss/articles/CBMijgJBVV95cUxNb1phY2x3UUJrU1BWVm5tRFY2MHo0bnF1WlFWNGFBYjhSeGpSdXRVNUxaTDlnUWZ3WjhEdk9iVGxLY21LVWpGeHRqSENEdE5KTEl4ZjExczdzbXU1V0pXZVV6OWFNdHVGd01WMzNXT2U4UzdGSTNvcnFXQ1NTTnNpRjV0TVNnaHAzNWVEbWViSG5uSHFiSEZ0TWRDcWxpVzhqOVRUYUNEOGJxRnhuU2NkLUt0NFdrdjdqSHdYa0ZfejVaWWg4eDk5Zjl3eU1OV1NWOUIwUlJNTmt5T3FNbTNmVmhxWmxkdkxGRHNTRGRQNW1ZTFNSOEx5N0ZOQzc3YUNSQlgwSGRIUVI4UGNUUGc?oc=5>
-
-### 伯纳姆：必要时将公开批评特朗普以捍卫国家利益
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 文学城
-- 时间: 2026-07-27 07:23
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5mdW9CVjdJTjFTZDVKaGtIcHFzTUNsX0hvYl9ITVBqbWszWUV3THNxQTNTNlBGdVNKbVprNDhDWHdibmNoV3djdS1fTTZqQzJHNzI5VzVDZ0w3U2VTU3lVaS1BalFMQzlw?oc=5>
-
-### 美议员：特朗普喜欢每天的袭击行动，他认为有时候你必须杀鸡儆猴
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: Sohu
-- 时间: 2026-07-27 08:07
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxONHRZYjVGS0tMTHF1QVh5al85Z2FxRTkwN1J4aE9mb3NMWDhRYmswazFadTdMTlhNbzI2d3N5Z1pabDAtTExtWkluZFV4VGU5UVNoWGZkcnpoY0JKa2QySkRNZ2RzN3EzT3A3Ml9vX3NoamYwd0pEZ1NXeVJwZ2xlMndlM0g4Q08tM0FEag?oc=5>
-
-### 特朗普是美国最佳总统吗？泽连斯基含糊回应：历史会给出答案
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-07-27 08:52
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE5TNFZPWkpUX0VBOFd3YjdfbkVjZXFsNGtuZVJkV1ZTeU9pREdiQWF1Q3liV2tmc2JnR2ctcE1pX3RHNk11LWpIdFdJWDlYc252Zjlja2lmUElyczNRNlE?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://finance.sina.com.cn/jjxw/2026-07-27/doc-inikfsve9899120.shtml>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-27 13:23  (6 条)
+
+- **周杰伦** | 周杰伦南京演唱会具体定在什么时候？ <https://k.sina.com.cn/article_7879923682_1d5ae17e206801dkqy.html>
+- **周杰伦** | 周杰伦巡演“一城一名”模式中其他城市主题是什么？ <https://k.sina.com.cn/article_7879849300_1d5acf5540680137kq.html>
+- **周杰伦** | 周杰伦“嘉年华”巡演未来还会增加哪些新城市？ <https://k.sina.com.cn/article_7879849300_1d5acf5540680137kk.html>
+- **周杰伦** | 周杰伦武汉演唱会审批通过，预计于2027年4月9日开唱 <https://k.sina.com.cn/article_7857201856_1d45362c001908h35e.html>
+- **周杰伦** | 周杰伦武汉演唱会，审批通过！ <https://finance.sina.com.cn/wm/2026-07-27/doc-inikhcky9814159.shtml>
+- **周杰伦** | 周杰伦明年4月来武汉开演唱会，周杰伦潘玮柏许嵩黄丽玲都要来武汉 <https://finance.sina.com.cn/jjxw/2026-07-27/doc-inikfsve9899120.shtml>
 
 ### 2026-07-27 10:14  (13 条)
 
