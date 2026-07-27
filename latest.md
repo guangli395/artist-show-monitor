@@ -1,78 +1,80 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-27 15:57**
-- 本轮扫到 7910 条, 新增 **8** 条
+- 最近更新: **2026-07-27 17:41**
+- 本轮扫到 7917 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (7 条)
 
-### 周杰伦武汉演唱会定档4月
+### 蔡徐坤28岁生日澳门演唱会即将开启，粉丝应援遍布十余城
 
-- 艺人/关键词: **周杰伦**
+- 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1720962692_m6693ce840530355p0.html>
+- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301dwnu.html>
 
-### 美时政评论员：特朗普不希望赖清德搞“抗中保台”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-25 07:00
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1CbWVwWUN1YzNjY3JfWlhPOVN3T2tJd2I5LXR1aEtQRmpRLTZ2UEJmVlJkZkhFRkZZMjd3eG53ZHZoeE03WVJDOTFNTE8?oc=5>
-
-### 特朗普全球新关税对中国影响有限
+### 特朗普下令：暂停空袭
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-07-27 02:06
-- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTFBPeFRZRmpHbnBtUERLUG1GWXpicktIVElnbHk0VWh2UnU1dkZlNEVWQ1Y2U1VPdlpRT1RSMzNaSGhJWXZTLV9haVpUdC1CenJreVRBeEJEVmZtQWQwSkJteHdQRkYxcjRZQWR6bGhn?oc=5>
+- 场馆: 京报网
+- 时间: 2026-07-27 14:15
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE5qUm91X252OU8tQmtiVVM5NkdoMEhUYzRPcFNselZMZFUybjVnc1BrcTNqSlpIX0ZwNTB5TGZtd0ozNDFRall6N3FqZE5YZFBZa3RNMWUwZ1VkY1VWQ1E?oc=5>
 
-### 特朗普新关税生效数小时后即遭起诉，专家称其可能无法维持
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-25 14:33
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPY1VDeDFqNGNkS1dTN0ZyRDQ3OUNucFEwdTJyWGJwOTlBd0l1NXluQThYSlA3ajlTX1ZxM2Vvakw0N05OMmlReER4ZkpfQTlYTndXSWlZQXp6dVRrQVBzTnVfNk00em50aW5NaDgtRFl6SEdNT043ZXNPNG1sYkZHOUhoRWltdzUyV0JVSFhtTzdRNDIxeWxUUWt3N05FMVlSNlliMzd1UkMwWjBFLW5rUmk2QU1COUVfRUZFajlZa05UZ1VNS3I1QWtMUVdsYzRHdlBjdW1KVWFmWlFBdExj?oc=5>
-
-### 英国新首相：必要时会公开反驳特朗普
+### 特朗普是美国最佳总统吗？泽连斯基含糊回应：历史会给出答案
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Sohu
-- 时间: 2026-07-27 08:42
-- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxORWhGNC1MTXBOWXdaYmJGTlR1S1BwTVFTQVRqSjdEblhZQnhsNzRGcG1CSG9nSG9wX3J2SlA4alNRMGVYTzdVNlRxcnc1eFB4b1hLNzJUYjBUWUFldHVTeTN0WkVta3VPQjJGeGhrZjh6d2l0ZjZpQ0Nncm1GZnJOWlIwcVY5MnhE?oc=5>
+- 场馆: 21财经
+- 时间: 2026-07-27 09:14
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxNbEJWV1puSkc4Z0drN1lkTVRDNnY0TENQWlJXV3lzQlZlUlVDaVBWQzFqN1gyc2NiMFBiX2VNTllJYjZaa2xUaTNUQmdNUC1hZXdwWWhtZmNxYW5mSTdMMVFGb2lLSTUwM3c4OHNkM1dHano3V1ozcVdIQjg4aVZKbG9LRW1qSHUtdkFsSQ?oc=5>
 
-### 特朗普称若谈判破裂将强力打击伊朗
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-07-27 15:55
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zX2lzV0RZOWdhaHQwSkpGXzhpT0xKenhKWU1pZmtXQ1FOSnRPVTU4cFBKUldkWkc0TTdyYVpMa1RRNFdsS0QxYmVZYXhjbnhycXNxNmFtR2IxTEpFWkJERU5vczg4VUFU?oc=5>
-
-### 特朗普叫停对伊朗空袭 为霍尔木兹海峡谈判留出空间
+### 美伊停火延续至第三天，特朗普称双方正进行“深度谈判”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 财联社
-- 时间: 2026-07-27 08:43
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTFA5Q3cxaEhVLXQxTDE2bDMxMGoxaVNWRTJvcTdPYzJCVWgxU19ENlctMmF2SEg1am1BdVFmWS12cDhkdE1PeXJiYQ?oc=5>
+- 时间: 2026-07-27 01:56
+- 链接: <https://news.google.com/rss/articles/CBMiRkFVX3lxTE9yZmdQTmUxU1d6bk44a0d6QXdNbFJJbG9UV3BDQTJFY1MxZmNqbVlBdHhNVTk5LTNIRVItQURCbTNEZkR1OHc?oc=5>
 
-### 由于伊朗和美国暂停袭击，油价暴跌9.5%，创数月来最大跌幅。
+### 特朗普：若美伊谈判失败 准备采取扩大军事行动
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-07-27 16:05
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5GYlVhSkVyNllYaU1TNFBlVkRTOXdSalVYczllZC1tZTN5RkZOR0RtY2JNOVItU2pNdFFUd2VPRFJoVW9aaXJqUWsyblRYMGE4eWZ6SG82bXZla2M5M0ljbFloOWV4elRGRUE?oc=5>
+
+### Oil Tumbles, Stocks Jump After Trump Puts Mideast Fighting on Hold -- WSJ
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Al-Monitor
-- 时间: 2026-07-27 13:24
-- 链接: <https://news.google.com/rss/articles/CBMivwFBVV95cUxOUWlOYk8ycEdVZkVESktsdVQwejNCbDdYTmFYc0swVXFnb2NxcDhWQ2dnYzdTbHpmemd6S2VkWTM1Um9Oc3Y2Q1VaNmM2Rnlsei1JTWg3WlJtT2RUMGh4eDg0MEEyazJ6Q2ZzSVAzQTk5NGlHLURkZXlfRGNyUmF2a25qX25PdlV5Y0h4WVl1TW5yWThJR2dkbFFMMmhiNGZWRWhFMW52ZTd5S2NNR0dEcXBQN2dYMlpDelhEUDBRMA?oc=5>
+- 场馆: 富途牛牛
+- 时间: 2026-07-27 14:05
+- 链接: <https://news.google.com/rss/articles/CBMinwFBVV95cUxOZDJ6N1dVR3VnR0VNMWVKSFo4R2Q3cnFuTWhZODF0TTR1UFpZTi1YZU80RjdKcVVKb1FRZWNYUkNtbjJ1QmEwVHI4QnVzeDgtTTVnVEVsbE1yWk5TZ1BseFZhblF2dGU0MFFkQjY0NE1mNnA4X25WalF6VnJjTXNibGY5RjMyV0ZlMXZmcnYyZnM5aXRsUThwM2huelRSVTg?oc=5>
+
+### Dow Jones Top Markets Headlines at 1 PM ET: Sandisk, ASML, and More Chip Stocks Hit China Roadblocks | Trump ...
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-07-27 17:14
+- 链接: <https://news.google.com/rss/articles/CBMingFBVV95cUxOSnVGVUdLTFl2VzltTHB5Uk9NczZVSXg5NVR1YkpXOVBkNzJIdEwzd2ZselktRGtzcDBkcXN4dWJWaTY4bTRqQnFxRDk5azFnZUVVVnNfSFdVQXFDMk02ZkxZdnVLbnZRdi03M29MUGVXLVNOWEVRSG5ONjM3bTBKZzlNWGtQRnJNYWRUYTdGNE1ub05DN1F6U3VTbXBpdw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-27 17:41  (7 条)
+
+- **蔡徐坤** | 蔡徐坤28岁生日澳门演唱会即将开启，粉丝应援遍布十余城 <https://k.sina.com.cn/article_7879924009_m1d5ae192903301dwnu.html>
+- **特朗普** | 特朗普下令：暂停空袭 <https://news.google.com/rss/articles/CBMiXkFVX3lxTE5qUm91X252OU8tQmtiVVM5NkdoMEhUYzRPcFNselZMZFUybjVnc1BrcTNqSlpIX0ZwNTB5TGZtd0ozNDFRall6N3FqZE5YZFBZa3RNMWUwZ1VkY1VWQ1E?oc=5>
+- **特朗普** | 特朗普是美国最佳总统吗？泽连斯基含糊回应：历史会给出答案 <https://news.google.com/rss/articles/CBMijAFBVV95cUxNbEJWV1puSkc4Z0drN1lkTVRDNnY0TENQWlJXV3lzQlZlUlVDaVBWQzFqN1gyc2NiMFBiX2VNTllJYjZaa2xUaTNUQmdNUC1hZXdwWWhtZmNxYW5mSTdMMVFGb2lLSTUwM3c4OHNkM1dHano3V1ozcVdIQjg4aVZKbG9LRW1qSHUtdkFsSQ?oc=5>
+- **特朗普** | 美伊停火延续至第三天，特朗普称双方正进行“深度谈判” <https://news.google.com/rss/articles/CBMiRkFVX3lxTE9yZmdQTmUxU1d6bk44a0d6QXdNbFJJbG9UV3BDQTJFY1MxZmNqbVlBdHhNVTk5LTNIRVItQURCbTNEZkR1OHc?oc=5>
+- **特朗普** | 特朗普：若美伊谈判失败 准备采取扩大军事行动 <https://news.google.com/rss/articles/CBMiakFVX3lxTE5GYlVhSkVyNllYaU1TNFBlVkRTOXdSalVYczllZC1tZTN5RkZOR0RtY2JNOVItU2pNdFFUd2VPRFJoVW9aaXJqUWsyblRYMGE4eWZ6SG82bXZla2M5M0ljbFloOWV4elRGRUE?oc=5>
+- **Trump** | Oil Tumbles, Stocks Jump After Trump Puts Mideast Fighting on Hold -- WSJ <https://news.google.com/rss/articles/CBMinwFBVV95cUxOZDJ6N1dVR3VnR0VNMWVKSFo4R2Q3cnFuTWhZODF0TTR1UFpZTi1YZU80RjdKcVVKb1FRZWNYUkNtbjJ1QmEwVHI4QnVzeDgtTTVnVEVsbE1yWk5TZ1BseFZhblF2dGU0MFFkQjY0NE1mNnA4X25WalF6VnJjTXNibGY5RjMyV0ZlMXZmcnYyZnM5aXRsUThwM2huelRSVTg?oc=5>
+- **Trump** | Dow Jones Top Markets Headlines at 1 PM ET: Sandisk, ASML, and More Chip Stocks Hit China Roadblocks | Trump ... <https://news.google.com/rss/articles/CBMingFBVV95cUxOSnVGVUdLTFl2VzltTHB5Uk9NczZVSXg5NVR1YkpXOVBkNzJIdEwzd2ZselktRGtzcDBkcXN4dWJWaTY4bTRqQnFxRDk5azFnZUVVVnNfSFdVQXFDMk02ZkxZdnVLbnZRdi03M29MUGVXLVNOWEVRSG5ONjM3bTBKZzlNWGtQRnJNYWRUYTdGNE1ub05DN1F6U3VTbXBpdw?oc=5>
 
 ### 2026-07-27 15:57  (8 条)
 
