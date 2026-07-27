@@ -1,70 +1,82 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-27 17:41**
-- 本轮扫到 7917 条, 新增 **7** 条
+- 最近更新: **2026-07-27 19:17**
+- 本轮扫到 7924 条, 新增 **7** 条
 
 ---
 
 ## 本轮新发现 (7 条)
 
-### 蔡徐坤28岁生日澳门演唱会即将开启，粉丝应援遍布十余城
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301dwnu.html>
-
-### 特朗普下令：暂停空袭
+### 特朗普将于周二在白宫会见泽连斯基
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 京报网
-- 时间: 2026-07-27 14:15
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE5qUm91X252OU8tQmtiVVM5NkdoMEhUYzRPcFNselZMZFUybjVnc1BrcTNqSlpIX0ZwNTB5TGZtd0ozNDFRall6N3FqZE5YZFBZa3RNMWUwZ1VkY1VWQ1E?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-07-27 18:39
+- 链接: <https://news.google.com/rss/articles/CBMiqgJBVV95cUxONlFMRVlJalhXS1h0RE92MkZfUTllQVY2WDRHXzA3Z09KYWtOX3FGTFcyMkM3X2ZzeENEOHZPbndyXzNSRGhjYzYwRzUwNm5kZWc1ZXltTkJ0R2xEV19HWWdsc19jQkNlZHBHbDBNd0VfUGpZUkRHdURoak9FWTNUM1dHUVkwOFM4ZjBEUnRpQlRoMjNqNlVaNUFUWmI5Q2Z6TWFGUnlwOFdiMlZSaVNpaEZsV3BKc1lKSDd5X0Y4b2ljcTJJVnhIcHZVZ3htSGlKVXp5NU5xTXpYNHB6NEFsdGItclQ3MUFpUVFxSEk5QXQ2S1RQMUk3cGcya1VwT3dFbmIzVFlIR1hQWWk2NHdMQVB1Slo3b2xEdVZJQkxyTzZQclh6SzNJMzVR?oc=5>
 
-### 特朗普是美国最佳总统吗？泽连斯基含糊回应：历史会给出答案
+### 特朗普辟谣说：“有很多弹药”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-07-27 18:30
+- 链接: <https://news.google.com/rss/articles/CBMi5AFBVV95cUxNM3FsNWJVeVcxQUdyLVVQZ2pjM3dUOXZOaTE0WHhZdlROVEJOYXhRQk9yRmh1bWMzd2VCazZDZ00wVUxPM0gteWprUW1DejBCQ21uMHlCQW9xUU40c1UweldDV3czR2NUT2JwZFo4ZDdCeTVlNi1yZFFEOGZyR0JXSzlKYW5hcExQcVVSbHF2amtDRnNZY0p5X1djZEZRdEZIOE9lcFp3alVwaTZQZWJmMEJFdEluQnZKQ25FNUJyclc4LUVzV2piZ29zZ1gzWVlGWHRZYXNieEVpczdlNVRMWFpZUlk?oc=5>
+
+### 山姆・奥特曼本周将会晤特朗普政府官员，其沟通核心内容曝光
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-27 15:36
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxPNURZaTdiWmU4OTgtQnYyWURmS0FUanBockhvYXg2ejhOeTBfUXN3MDV6c294dHdkQlNwdnJQTTNOREdHdGtFLWp1UF96blBZd2N6TlB3bjhTekNZeE13eXIzYzBOMkxjV21OV0lxQ05KSVFCaXNCb1F4NEN1dUlJOGhGQ0E0VTA?oc=5>
+
+### 《南德意志报》：特朗普钟爱关税 所以就征收关税
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-07-26 18:05
+- 链接: <https://news.google.com/rss/articles/CBMixgJBVV95cUxPaFB6cHVoakdXTlY0bXB1Uk8xV3RxMnZwekJtRU9GWXV4NWhUczVlNDZ3TEVGMFdZWWpUREE2SVptbDBuN2RSanotWVk2LUowWkRRUXFZeHdLZ2xmdjFUS1R4ZUtNSXMzTjRfMnUyWDZQc2E1SktCdTItY0tRb1FKTFpYeTBCRGdHTUxvbk5Tc1hweVhlek1CWk9yX2ZHd2lKbzB6bW1RMXpaTGVlQmxpM2k1UmE1ejZVa1N2SWkxbVgzeExkRGh0RVQ1VUxrTGkzX3ZRZkRpdFExTGRlUndLTGlYaXBMWGFseHVVbGl0eGcyVXQ4eVVGTFVXaHNGdnhhRDRfMmk3VHVWNnI5Z094MmQwMFlUelZVdzduV2VING5FQ1czRFZlSVFxRlZJblNfVWNsX0FwOUtyeGcwNG9MaEZGU2o5QQ?oc=5>
+
+### 民调崩盘！共和党集体叛逃，要弃特朗普保选举？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 文学城
+- 时间: 2026-07-27 16:43
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5rVm5kTWlnVGFTR2FIaVAySDF1c3YxS0NIV2hNWE1nS29VQ3lWUWxvN0NSV3RlampueFcybUJwSUFpbFgyME81cXBlTVNNQnhmTDlwTHl1bzcwMEFXQTVHTkNzRnZ3blhS?oc=5>
+
+### 英国新首相：必要时会公开反驳特朗普
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 21财经
-- 时间: 2026-07-27 09:14
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxNbEJWV1puSkc4Z0drN1lkTVRDNnY0TENQWlJXV3lzQlZlUlVDaVBWQzFqN1gyc2NiMFBiX2VNTllJYjZaa2xUaTNUQmdNUC1hZXdwWWhtZmNxYW5mSTdMMVFGb2lLSTUwM3c4OHNkM1dHano3V1ozcVdIQjg4aVZKbG9LRW1qSHUtdkFsSQ?oc=5>
+- 时间: 2026-07-27 10:04
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxORE8wa2JkSEdDSTFaWndnRzlpdjVzejJlZFdpcHkyX1MtQk1tTGN4aEZvNGxwcnd2WGh3cGxOTlJGNkl2RVl6Zlh1alZYOXlmdDVFazExVG5SbkFOOHMwb25Mci11WWhqeDdhZHZTQ1duZFFxMFkwU3VNYkx3WEp1dEJCS3AyTjluclllOQ?oc=5>
 
-### 美伊停火延续至第三天，特朗普称双方正进行“深度谈判”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-07-27 01:56
-- 链接: <https://news.google.com/rss/articles/CBMiRkFVX3lxTE9yZmdQTmUxU1d6bk44a0d6QXdNbFJJbG9UV3BDQTJFY1MxZmNqbVlBdHhNVTk5LTNIRVItQURCbTNEZkR1OHc?oc=5>
-
-### 特朗普：若美伊谈判失败 准备采取扩大军事行动
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-07-27 16:05
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5GYlVhSkVyNllYaU1TNFBlVkRTOXdSalVYczllZC1tZTN5RkZOR0RtY2JNOVItU2pNdFFUd2VPRFJoVW9aaXJqUWsyblRYMGE4eWZ6SG82bXZla2M5M0ljbFloOWV4elRGRUE?oc=5>
-
-### Oil Tumbles, Stocks Jump After Trump Puts Mideast Fighting on Hold -- WSJ
+### 特朗普周二将在白宫会见内塔尼亚胡
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 富途牛牛
-- 时间: 2026-07-27 14:05
-- 链接: <https://news.google.com/rss/articles/CBMinwFBVV95cUxOZDJ6N1dVR3VnR0VNMWVKSFo4R2Q3cnFuTWhZODF0TTR1UFpZTi1YZU80RjdKcVVKb1FRZWNYUkNtbjJ1QmEwVHI4QnVzeDgtTTVnVEVsbE1yWk5TZ1BseFZhblF2dGU0MFFkQjY0NE1mNnA4X25WalF6VnJjTXNibGY5RjMyV0ZlMXZmcnYyZnM5aXRsUThwM2huelRSVTg?oc=5>
-
-### Dow Jones Top Markets Headlines at 1 PM ET: Sandisk, ASML, and More Chip Stocks Hit China Roadblocks | Trump ...
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-07-27 17:14
-- 链接: <https://news.google.com/rss/articles/CBMingFBVV95cUxOSnVGVUdLTFl2VzltTHB5Uk9NczZVSXg5NVR1YkpXOVBkNzJIdEwzd2ZselktRGtzcDBkcXN4dWJWaTY4bTRqQnFxRDk5azFnZUVVVnNfSFdVQXFDMk02ZkxZdnVLbnZRdi03M29MUGVXLVNOWEVRSG5ONjM3bTBKZzlNWGtQRnJNYWRUYTdGNE1ub05DN1F6U3VTbXBpdw?oc=5>
+- 场馆: RFI
+- 时间: 2026-07-27 17:49
+- 链接: <https://news.google.com/rss/articles/CBMinwJBVV95cUxQdjRTR3JzUUhnSFhxaVRXdllfMXRLeVRGNTlxam95NzM4Rm5YT081Y0hPUTM0WlU2bWNUb0pRdG9WVTNhQUk0ZGFqQUZoQUk5c2lNXzNfaGFMWm1PR1ZYV0xjOXlTZU5CSVhNV0VtQjBfbDhWb1hCU0ZYOThjM0haYkt0b3dfQnpSa1Z0VlhTWnF1cGFDX1F5aFd0c1o2WW1WUGd4SkhvMC0xN3prbUVyRE0xSlN6U3p2VzYyLXNHMlBobFpfQkU0ZlJ5OUEzZWQyR0QxeVpYRXpxNk5RLXo4eW5QeHJ4WjJqYmNWaXFHdVFBTE52YTMtNkFWRlhzYkI5SUZiMC1UemRBcjZTVW5UcTRxYnRNRklKWktHUC1nZw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-27 19:17  (7 条)
+
+- **特朗普** | 特朗普将于周二在白宫会见泽连斯基 <https://news.google.com/rss/articles/CBMiqgJBVV95cUxONlFMRVlJalhXS1h0RE92MkZfUTllQVY2WDRHXzA3Z09KYWtOX3FGTFcyMkM3X2ZzeENEOHZPbndyXzNSRGhjYzYwRzUwNm5kZWc1ZXltTkJ0R2xEV19HWWdsc19jQkNlZHBHbDBNd0VfUGpZUkRHdURoak9FWTNUM1dHUVkwOFM4ZjBEUnRpQlRoMjNqNlVaNUFUWmI5Q2Z6TWFGUnlwOFdiMlZSaVNpaEZsV3BKc1lKSDd5X0Y4b2ljcTJJVnhIcHZVZ3htSGlKVXp5NU5xTXpYNHB6NEFsdGItclQ3MUFpUVFxSEk5QXQ2S1RQMUk3cGcya1VwT3dFbmIzVFlIR1hQWWk2NHdMQVB1Slo3b2xEdVZJQkxyTzZQclh6SzNJMzVR?oc=5>
+- **特朗普** | 特朗普辟谣说：“有很多弹药” <https://news.google.com/rss/articles/CBMi5AFBVV95cUxNM3FsNWJVeVcxQUdyLVVQZ2pjM3dUOXZOaTE0WHhZdlROVEJOYXhRQk9yRmh1bWMzd2VCazZDZ00wVUxPM0gteWprUW1DejBCQ21uMHlCQW9xUU40c1UweldDV3czR2NUT2JwZFo4ZDdCeTVlNi1yZFFEOGZyR0JXSzlKYW5hcExQcVVSbHF2amtDRnNZY0p5X1djZEZRdEZIOE9lcFp3alVwaTZQZWJmMEJFdEluQnZKQ25FNUJyclc4LUVzV2piZ29zZ1gzWVlGWHRZYXNieEVpczdlNVRMWFpZUlk?oc=5>
+- **特朗普** | 山姆・奥特曼本周将会晤特朗普政府官员，其沟通核心内容曝光 <https://news.google.com/rss/articles/CBMihwFBVV95cUxPNURZaTdiWmU4OTgtQnYyWURmS0FUanBockhvYXg2ejhOeTBfUXN3MDV6c294dHdkQlNwdnJQTTNOREdHdGtFLWp1UF96blBZd2N6TlB3bjhTekNZeE13eXIzYzBOMkxjV21OV0lxQ05KSVFCaXNCb1F4NEN1dUlJOGhGQ0E0VTA?oc=5>
+- **特朗普** | 《南德意志报》：特朗普钟爱关税 所以就征收关税 <https://news.google.com/rss/articles/CBMixgJBVV95cUxPaFB6cHVoakdXTlY0bXB1Uk8xV3RxMnZwekJtRU9GWXV4NWhUczVlNDZ3TEVGMFdZWWpUREE2SVptbDBuN2RSanotWVk2LUowWkRRUXFZeHdLZ2xmdjFUS1R4ZUtNSXMzTjRfMnUyWDZQc2E1SktCdTItY0tRb1FKTFpYeTBCRGdHTUxvbk5Tc1hweVhlek1CWk9yX2ZHd2lKbzB6bW1RMXpaTGVlQmxpM2k1UmE1ejZVa1N2SWkxbVgzeExkRGh0RVQ1VUxrTGkzX3ZRZkRpdFExTGRlUndLTGlYaXBMWGFseHVVbGl0eGcyVXQ4eVVGTFVXaHNGdnhhRDRfMmk3VHVWNnI5Z094MmQwMFlUelZVdzduV2VING5FQ1czRFZlSVFxRlZJblNfVWNsX0FwOUtyeGcwNG9MaEZGU2o5QQ?oc=5>
+- **特朗普** | 民调崩盘！共和党集体叛逃，要弃特朗普保选举？ <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5rVm5kTWlnVGFTR2FIaVAySDF1c3YxS0NIV2hNWE1nS29VQ3lWUWxvN0NSV3RlampueFcybUJwSUFpbFgyME81cXBlTVNNQnhmTDlwTHl1bzcwMEFXQTVHTkNzRnZ3blhS?oc=5>
+- **特朗普** | 英国新首相：必要时会公开反驳特朗普 <https://news.google.com/rss/articles/CBMijAFBVV95cUxORE8wa2JkSEdDSTFaWndnRzlpdjVzejJlZFdpcHkyX1MtQk1tTGN4aEZvNGxwcnd2WGh3cGxOTlJGNkl2RVl6Zlh1alZYOXlmdDVFazExVG5SbkFOOHMwb25Mci11WWhqeDdhZHZTQ1duZFFxMFkwU3VNYkx3WEp1dEJCS3AyTjluclllOQ?oc=5>
+- **Trump** | 特朗普周二将在白宫会见内塔尼亚胡 <https://news.google.com/rss/articles/CBMinwJBVV95cUxQdjRTR3JzUUhnSFhxaVRXdllfMXRLeVRGNTlxam95NzM4Rm5YT081Y0hPUTM0WlU2bWNUb0pRdG9WVTNhQUk0ZGFqQUZoQUk5c2lNXzNfaGFMWm1PR1ZYV0xjOXlTZU5CSVhNV0VtQjBfbDhWb1hCU0ZYOThjM0haYkt0b3dfQnpSa1Z0VlhTWnF1cGFDX1F5aFd0c1o2WW1WUGd4SkhvMC0xN3prbUVyRE0xSlN6U3p2VzYyLXNHMlBobFpfQkU0ZlJ5OUEzZWQyR0QxeVpYRXpxNk5RLXo4eW5QeHJ4WjJqYmNWaXFHdVFBTE52YTMtNkFWRlhzYkI5SUZiMC1UemRBcjZTVW5UcTRxYnRNRklKWktHUC1nZw?oc=5>
 
 ### 2026-07-27 17:41  (7 条)
 
