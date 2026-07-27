@@ -1,51 +1,59 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-27 20:49**
-- 本轮扫到 7930 条, 新增 **6** 条
+- 最近更新: **2026-07-27 22:00**
+- 本轮扫到 7937 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (7 条)
 
-### 特朗普称美方正与伊朗谈判 不排除加大军事打击
+### 美媒披露特朗普暂停空袭伊朗原因：导弹不够了！美方：因阿曼斡旋停火，不是缺弹药！伊最高领袖最新表态，以总理：伊政权垮台战争才会结束
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-07-26 23:58
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1PWUhxUVkzQWgtSjBta2dCOUxEZXpHN1NVU2RyZ1dBZjk2SDBMeHk4dFU1YVlGdUQ0WU5uRWJZU2tVUHFmUzhuWDhLRUptazBOYkFwNFpZamhLYlp5ZERDMk41M0dKSTNxdUNVZTZtOHlDSnMyOGt6SQ?oc=5>
+
+### 特朗普：关税对通用汽车的影响令人惊叹。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: finance.sina.com.cn
-- 时间: 2026-07-24 19:36
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5RcWYtY2owdVY5SUd3VHBqMElqTEdvRWVlSXVDcjdyYUUxR2w0eGphbGV3MXhucXZxTnFtWmk2ckRwbkIxLXkyWF9vMEtkUjg5QWt2SDZJYVFzS2Ywd2ZINE1IbmEwQW9TcmFud1Zacl9XMmV3cUl0Xw?oc=5>
+- 时间: 2026-07-27 18:30
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBxVkkzeTBXRi1XeDRlM3VURU9qaUh6cV9EZFl2WnBGeGpuWG5sZmgzUXEzV1NPbkFkc2g2ZkVJWkpHbG9HU242Z3BjYw?oc=5>
 
-### 特朗普政府AI自愿监管框架即将落地
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: video.sina.com.cn
-- 时间: 2026-07-27 20:27
-- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxOMWRYRmtkZUpFVHdPWkozaWZxWGxpRFBVS0tBZ2Z0a0lpdEtxS3VZb2NGbVVaOFY2cGF3R19zVHBZV1BmOF9sRGZ1VmdXNlpQLVNpRlJiODdjOTQ0ZmFfeEloaldXcVBqUmVxTEJhRGZyQWxSdXE3UUZhWFVnUUJvWUxR?oc=5>
-
-### 特朗普威胁对欧盟加征巨额报复性关税，为何又是“301调查”？
+### 特朗普：暂停打击伊朗是给谈判再一次机会，谈不拢就“重新大打”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-07-27 11:07
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9zejh0a2NGcC1zbk5Fd1VjVDNxLXd1NE9pb0NXQjlDZlFYTFJVUDVLaF9RTHl2dWwwbVJOcVgzMExsWXozaTN6dWJrM2NmNjJQUkw3NWxQSWZ5SXhJOGhkbmc4TkZ5cmM3WE1uVmx0bzRlcFN2ekVEbg?oc=5>
+- 场馆: 华尔街见闻
+- 时间: 2026-07-27 16:02
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FN0RvREN6UlBjNlRvT3JJdEJqU01FTzBJRFJEeHBzblU3QW1SVFRkUENfTDZZb2RGSzFBVHg2STl3UWZiNHc5Q25tekVESmJYcHU4?oc=5>
 
-### 英国新国防大臣：欧洲会感谢特朗普，是他让我们摆脱了自满情绪
+### 3个选项，特朗普举棋未定
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-07-27 05:55
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9yNkt5XzlaUWxuTjV0UFZETVNmTU5tVVBTY3pHcEZrSWx1clhCMkRQSmxIYXdia0x2SmdFUFZjZklfUEd0MDBvMjhSeU8?oc=5>
+- 时间: 2026-07-27 08:43
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE0tS182MlZ5bTc1ckxUUFZ2NEpmTWlzTVpqdmZMSFc1ZzNVaHI3NFRIM2VPUmNWUDNoVWZUeEthNktfeHdUaGdFWnVMTDY?oc=5>
 
-### 特朗普威胁对欧盟加征巨额报复性关税，为何又是“301调查”？
+### 特朗普：如果和伊朗谈判失败 军事行动可能恢复
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 21财经
-- 时间: 2026-07-27 13:27
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxQUXdvWG9oWXUzWkdVQkJGa2huUmNQUllNXzBocVJsRUF6WlMtdElyVHYtXzlSQ3hYT0NkQzl0TDA1YkNiazJ0dnlvaHFXTHowWGd0clVBdi1pTWdiYmVyano3ZTlJazhlQUlMdjhZSWtRa2xnd3kzcE14NkhuNEFSVXNzazkxWVlUeUZrWQ?oc=5>
+- 场馆: 东方财富
+- 时间: 2026-07-27 19:03
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE11b3JYVlpjQzJSOXBPYkN2T3hEQUoxc3BtVExzOHJuOTA1U0puN0o4a2FjUW1lWlU3RHFKeHhSYkhqdWx6T2ZiVl95NUthN2lYSVYxYkxadEtpdG94WW00aQ?oc=5>
+
+### 谢谢你，TRUMP！！！
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-07-27 14:08
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE5mTVBveUNCblZGMTZLX0RvbXFEUUFaMDl2T3phdHE0eW4zdVAyazI1clZ4STZxV3AtOVN2dzlJUlc1a1VOTkM0MUJGNllpdzlmS0NBZ1dYeWlISE5PZEY2TFhTVTQyRnFmLTltaC04a05zMV82Vlp4ZC1KT0JHUFk?oc=5>
 
 ### 美伊暂停袭击，全球油价下跌，股市上涨
 
@@ -53,12 +61,22 @@
 - 来源: `googlenews`
 - 场馆: 美国之音
 - 时间: 2026-07-27 16:28
-- 链接: <https://news.google.com/rss/articles/CBMitwFBVV95cUxOSXU5OVVabDgxaGRBQ2R0aV9zQjNzZFJJM0JIbjI4T2o4elVUbmVVLUJOQjhJbEN3OEZ6NkV4WW9ORzljd0VNRmMweno3X1RwQVluZlJYWk12UG9hVnJhMjNtUWhKY2hPN2dra2I4cFRrYjVVTWtHaVdMX2t6U3drdXgzQUs3bkRpRFdKcEc5dGQ3cmZFTGJPa1k0SkZVSU9uaXliTDFLT29xTGdHekdxSncyWXdKOTA?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMitwFBVV95cUxOSXU5OVVabDgxaGRBQ2R0aV9zQjNzZFJJM0JIbjI4T2o4elVUbmVVLUJOQjhJbEN3OEZ6NkV4WW9ORzljd0VNRmMweno3X1RwQVluZlJYWk12UG9hVnJhMjNtUWhKY2hPN2dra2I4cFRrYjVVTWtHaVdMX2t6U3drdXgzQUs3bkRpRFdKcEc5dGQ3cmZFTGJPa1k0SkZVSU9uaXliTDFLT29xTGdHekdxSncyWXdKOTDSAboBQVVfeXFMTTY4OUs1V3dER19jTjFkaXR5dXFGckk2NzUzRW9Hc2xNaExYY05DaFE2QjBNZHdTakRtd1JudjJVeGRqZGlseTVQZ0xjVGhyTjkxTUxLVHBJNmdadm54VGpwMlVYVzlXa3l5RUpMTVdKVFFPRGI0U0g1dzJtYU9kRUE5UE9nNVowTzMwbHRrSm92ajA1VWxYb01CbUFBNVBxZnNOY3BiMEtnRkMwanRVVUVVTEJRbFlOclFn?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-27 22:00  (7 条)
+
+- **特朗普** | 美媒披露特朗普暂停空袭伊朗原因：导弹不够了！美方：因阿曼斡旋停火，不是缺弹药！伊最高领袖最新表态，以总理：伊政权垮台战争才会结束 <https://news.google.com/rss/articles/CBMieEFVX3lxTE1PWUhxUVkzQWgtSjBta2dCOUxEZXpHN1NVU2RyZ1dBZjk2SDBMeHk4dFU1YVlGdUQ0WU5uRWJZU2tVUHFmUzhuWDhLRUptazBOYkFwNFpZamhLYlp5ZERDMk41M0dKSTNxdUNVZTZtOHlDSnMyOGt6SQ?oc=5>
+- **特朗普** | 特朗普：关税对通用汽车的影响令人惊叹。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBxVkkzeTBXRi1XeDRlM3VURU9qaUh6cV9EZFl2WnBGeGpuWG5sZmgzUXEzV1NPbkFkc2g2ZkVJWkpHbG9HU242Z3BjYw?oc=5>
+- **特朗普** | 特朗普：暂停打击伊朗是给谈判再一次机会，谈不拢就“重新大打” <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FN0RvREN6UlBjNlRvT3JJdEJqU01FTzBJRFJEeHBzblU3QW1SVFRkUENfTDZZb2RGSzFBVHg2STl3UWZiNHc5Q25tekVESmJYcHU4?oc=5>
+- **特朗普** | 3个选项，特朗普举棋未定 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE0tS182MlZ5bTc1ckxUUFZ2NEpmTWlzTVpqdmZMSFc1ZzNVaHI3NFRIM2VPUmNWUDNoVWZUeEthNktfeHdUaGdFWnVMTDY?oc=5>
+- **特朗普** | 特朗普：如果和伊朗谈判失败 军事行动可能恢复 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE11b3JYVlpjQzJSOXBPYkN2T3hEQUoxc3BtVExzOHJuOTA1U0puN0o4a2FjUW1lWlU3RHFKeHhSYkhqdWx6T2ZiVl95NUthN2lYSVYxYkxadEtpdG94WW00aQ?oc=5>
+- **Trump** | 谢谢你，TRUMP！！！ <https://news.google.com/rss/articles/CBMif0FVX3lxTE5mTVBveUNCblZGMTZLX0RvbXFEUUFaMDl2T3phdHE0eW4zdVAyazI1clZ4STZxV3AtOVN2dzlJUlc1a1VOTkM0MUJGNllpdzlmS0NBZ1dYeWlISE5PZEY2TFhTVTQyRnFmLTltaC04a05zMV82Vlp4ZC1KT0JHUFk?oc=5>
+- **Trump** | 美伊暂停袭击，全球油价下跌，股市上涨 <https://news.google.com/rss/articles/CBMitwFBVV95cUxOSXU5OVVabDgxaGRBQ2R0aV9zQjNzZFJJM0JIbjI4T2o4elVUbmVVLUJOQjhJbEN3OEZ6NkV4WW9ORzljd0VNRmMweno3X1RwQVluZlJYWk12UG9hVnJhMjNtUWhKY2hPN2dra2I4cFRrYjVVTWtHaVdMX2t6U3drdXgzQUs3bkRpRFdKcEc5dGQ3cmZFTGJPa1k0SkZVSU9uaXliTDFLT29xTGdHekdxSncyWXdKOTDSAboBQVVfeXFMTTY4OUs1V3dER19jTjFkaXR5dXFGckk2NzUzRW9Hc2xNaExYY05DaFE2QjBNZHdTakRtd1JudjJVeGRqZGlseTVQZ0xjVGhyTjkxTUxLVHBJNmdadm54VGpwMlVYVzlXa3l5RUpMTVdKVFFPRGI0U0g1dzJtYU9kRUE5UE9nNVowTzMwbHRrSm92ajA1VWxYb01CbUFBNVBxZnNOY3BiMEtnRkMwanRVVUVVTEJRbFlOclFn?oc=5>
 
 ### 2026-07-27 20:49  (6 条)
 
