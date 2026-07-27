@@ -1,32 +1,82 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-26 23:54**
-- 本轮扫到 7862 条, 新增 **2** 条
+- 最近更新: **2026-07-27 02:22**
+- 本轮扫到 7869 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (7 条)
 
 ### 特朗普新关税生效数小时后即遭起诉，专家称其可能无法维持
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: finance.sina.com.cn
+- 场馆: 新浪财经
 - 时间: 2026-07-25 14:33
-- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVkFrNFBrTGVENTQzZVV5a0dwNEJLRmYzNU53NHJjVE1nR3NFWEpOUHBpaWNLQVpPZ1I4NGdEX00waWp4M00ySUU3dVFyOTg4VEs2dG1hU1pEczVMY1FnbUdSbWlzOUVqWTBFUncyZkpMYmZPT0h4LWtLY2daQjRsLXBjQjMzbUJyOVU4X0dMS205V3lOVFpQdkhiQ1NZVWtjc0hKcWdYbURDLXY0ZXo0VTZvRVdYUnl5RHVVUVVMbGNYV21KVlhCbnJYb0d5VXdSZ3BsQ2ZVeWVSbi1SNGc?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxNT0dXMF84SmVCZjZ4U0x0QVR1VHhzMjNsR1hkMExXaHN6N0pMRHhBdjNwam1oVlVHVjY1akV4dmhBSmFsQXVwZV9JS0tubEJXRnlwR1VlUV9tZGRGdEtCME1IZHM0WHFxekozQ0pkdnVQNnp0NEw3UkxZc3FDdWt6cEtVd2ZmSTF5NmRiX1J0TEZTWXI5RjNDVjZkWjFuVFlMbEdkcXZsUEUyeW5zRWhPd01IUldfWjhsaGlPY2djNlQ5elhxb1U4MXZEdE1wekhVeU4wMjR3a2ZxNXdaLVVz?oc=5>
 
-### 特朗普过去24小时都忙了什么？（2026-07-26）
+### 英国新首相谈特朗普 交流很顺利
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-07-27 01:11
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5CWlIxWXJJcEZNWXFnOS10MnBCM1JGaGRoN1VaVW9iVjFKcVY3SUdVYl9BRXRSTkpqV2RYYndmd1R0V3pBSVd2ZDRwRmFaNEJSb09WU1d0ejY0cnFhWjJEckNKVUZOQks4QkJHR0U1a20?oc=5>
+
+### 美伊冲突又按“暂停键” ，以总理今日启程再访白宫
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华报业网
+- 时间: 2026-07-26 23:29
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE9xWE5MM3U5N3ZhcjQ4NXN0dVdGQWxFa0lfMnY1R00zc2J0cl81Z0IyRWI4bGp2TUFad2JSbzNUMnpHT0s3dTRleE1wc2pDRFJuaVRoQkR5aHl3WEIxOEFkR3lXRzliU29NRUJz?oc=5>
+
+### 内塔尼亚胡计划访美向特朗普递交涉伊朗核计划最新情报
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-26 21:55
-- 链接: <https://news.google.com/rss/articles/CBMipgJBVV95cUxPcGoxRzRSZXVhQy1MNXBnS1F4Ty15a0RkeW1tWnN3V3l5Mk5jRkZrOTBvTDZYOTd3LXpETU5YTG80NzJzdkZvX1hhSmtwalhMLVJKYUlKQ1ZVekplbEdLa0JZNm1XM0dXalU0WnpBbXhoQ0UxV2pSSy16V3VhQUMyZEY3aWFKMkd5VloxMnpPNGlvckFIWklYRzI4eVAzbHhKWVNjdTlFcGJkZjVVVVFfUWlqRi1hdWFZWWNaOHQ0QVV5MlJtYWdiNEJGTW5Fa2lkRnMyaWhHYjVtOG9ySzg0NUtyWlBPbW02MWVXTlE3VWFwRXdrekN6YmItSlpkRHVEWW9FX1dvNWNGSXMwVFNLNUVRNjB6RUgtZ25UTUlValQyUFpnSUE?oc=5>
+- 时间: 2026-07-26 21:54
+- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxQbnp6RHQ0TlRNUmlsVXZkbk9TRWpfZ1R3VjBhcDlsd0oySjBwQm03RkdpVlFReHJBLVZkaU5jb2E1Zkc0TV9mM3FaY2RZVkRHbTNxMkZBMC16cm41b0IzbjBaSTY3MTRFZXljYWtFaEtpalVIeU95aWVLNVByVjRhNTRuV0xRVUNIODZxSjRfOTN5a2ljRFpHOHFWb0NpZG1t?oc=5>
+
+### 叫停对伊行动原因被曝光，特朗普回应
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-07-27 00:56
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBNczgwNFh0SzRTNGtEbXVGNEU3dnlVMXdIRXNwdjBjSGlwTjRJWFJmNjNqakFHUVkxVHZURUJ5NG5lWFZyQTlvZTFlQVQ?oc=5>
+
+### TRUMP 团队将昨日解锁的1380万枚TRUMP代币转入多家CEX交易所
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: TradingView
+- 时间: 2026-07-26 09:43
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9laFNpeDYxSmlCbWJCUjJhODZrSC03U3FKWXlQb256ckZINVFtblF4THBuX1JhNzhqa2NWZUNNZ2FwMlR1SXd1UV9MYk5DQmpJelZXT2dJcFZuWVRrZTBzOXZ1ZWxGQQ?oc=5>
+
+### Trump Pauses Iran Strikes as Officials Weigh Dwindling Air Defense Stocks
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-07-26 23:55
+- 链接: <https://news.google.com/rss/articles/CBMiswFBVV95cUxQUWRJTE9WVlEzRFRGNEUwRGZLNE83aUxqc1ZYRkFGOXFOSVhlemg3S2tpSkw3cjFWM3I3cU1ZSzZuR0JhakdsRTdPdnN6YUhyOFNEZ2tSZnVscGVsSzV6WUFhcUxzZzRuNnJDdFBRQmtaQW82Rmt4cW1TNnZOT2l0R2FKVmE3M3F6UWlURzRXWm9NNVYzblBXenV4UzZOakxZdkRWbjc5aXBiRjlJcVU5dWlzdw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-27 02:22  (7 条)
+
+- **特朗普** | 特朗普新关税生效数小时后即遭起诉，专家称其可能无法维持 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxNT0dXMF84SmVCZjZ4U0x0QVR1VHhzMjNsR1hkMExXaHN6N0pMRHhBdjNwam1oVlVHVjY1akV4dmhBSmFsQXVwZV9JS0tubEJXRnlwR1VlUV9tZGRGdEtCME1IZHM0WHFxekozQ0pkdnVQNnp0NEw3UkxZc3FDdWt6cEtVd2ZmSTF5NmRiX1J0TEZTWXI5RjNDVjZkWjFuVFlMbEdkcXZsUEUyeW5zRWhPd01IUldfWjhsaGlPY2djNlQ5elhxb1U4MXZEdE1wekhVeU4wMjR3a2ZxNXdaLVVz?oc=5>
+- **特朗普** | 英国新首相谈特朗普 交流很顺利 <https://news.google.com/rss/articles/CBMicEFVX3lxTE5CWlIxWXJJcEZNWXFnOS10MnBCM1JGaGRoN1VaVW9iVjFKcVY3SUdVYl9BRXRSTkpqV2RYYndmd1R0V3pBSVd2ZDRwRmFaNEJSb09WU1d0ejY0cnFhWjJEckNKVUZOQks4QkJHR0U1a20?oc=5>
+- **特朗普** | 美伊冲突又按“暂停键” ，以总理今日启程再访白宫 <https://news.google.com/rss/articles/CBMia0FVX3lxTE9xWE5MM3U5N3ZhcjQ4NXN0dVdGQWxFa0lfMnY1R00zc2J0cl81Z0IyRWI4bGp2TUFad2JSbzNUMnpHT0s3dTRleE1wc2pDRFJuaVRoQkR5aHl3WEIxOEFkR3lXRzliU29NRUJz?oc=5>
+- **特朗普** | 内塔尼亚胡计划访美向特朗普递交涉伊朗核计划最新情报 <https://news.google.com/rss/articles/CBMioAFBVV95cUxQbnp6RHQ0TlRNUmlsVXZkbk9TRWpfZ1R3VjBhcDlsd0oySjBwQm03RkdpVlFReHJBLVZkaU5jb2E1Zkc0TV9mM3FaY2RZVkRHbTNxMkZBMC16cm41b0IzbjBaSTY3MTRFZXljYWtFaEtpalVIeU95aWVLNVByVjRhNTRuV0xRVUNIODZxSjRfOTN5a2ljRFpHOHFWb0NpZG1t?oc=5>
+- **特朗普** | 叫停对伊行动原因被曝光，特朗普回应 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBNczgwNFh0SzRTNGtEbXVGNEU3dnlVMXdIRXNwdjBjSGlwTjRJWFJmNjNqakFHUVkxVHZURUJ5NG5lWFZyQTlvZTFlQVQ?oc=5>
+- **Trump** | TRUMP 团队将昨日解锁的1380万枚TRUMP代币转入多家CEX交易所 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9laFNpeDYxSmlCbWJCUjJhODZrSC03U3FKWXlQb256ckZINVFtblF4THBuX1JhNzhqa2NWZUNNZ2FwMlR1SXd1UV9MYk5DQmpJelZXT2dJcFZuWVRrZTBzOXZ1ZWxGQQ?oc=5>
+- **Trump** | Trump Pauses Iran Strikes as Officials Weigh Dwindling Air Defense Stocks <https://news.google.com/rss/articles/CBMiswFBVV95cUxQUWRJTE9WVlEzRFRGNEUwRGZLNE83aUxqc1ZYRkFGOXFOSVhlemg3S2tpSkw3cjFWM3I3cU1ZSzZuR0JhakdsRTdPdnN6YUhyOFNEZ2tSZnVscGVsSzV6WUFhcUxzZzRuNnJDdFBRQmtaQW82Rmt4cW1TNnZOT2l0R2FKVmE3M3F6UWlURzRXWm9NNVYzblBXenV4UzZOakxZdkRWbjc5aXBiRjlJcVU5dWlzdw?oc=5>
 
 ### 2026-07-26 23:54  (2 条)
 
