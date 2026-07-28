@@ -1,92 +1,96 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-28 09:14**
-- 本轮扫到 7977 条, 新增 **10** 条
+- 最近更新: **2026-07-28 11:33**
+- 本轮扫到 7986 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (10 条)
+## 本轮新发现 (9 条)
 
-### 26岁王俊凯周杰伦演唱会连唱3首，40首歌超时罚钱？完整版歌曲为何让粉丝疯狂求源？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801elgm.html>
-
-### 答题、转盘识骗局，解锁新玩法！/审批通过！周杰伦将来武汉开演唱会
+### 演唱会门票团购怎么买？摩天轮大麦双平台实测，5人以上连座攻略+FAQ
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://finance.sina.com.cn/wm/2026-07-28/doc-inikivuc2557806.shtml>
+- 链接: <https://k.sina.com.cn/article_7879777065_1d5abdb2906801exk4.html>
 
-### 会晤前特朗普撂话：没有美国,以色列早完蛋了！
+### 演唱会门票团购怎么买？3个维度说清渠道+避坑攻略+FAQ
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776419_1d5abd8a3068017gx6.html>
+
+### 特朗普政府要求美最高法院限制邮寄选票
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: video.sina.com.cn
-- 时间: 2026-07-28 07:32
-- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxNam42bFVqYmNyUTgwUHdyYXFXYTRpRnl1eDREMW1jVWZSTlJUajFZTW1ZT0hPUnpNMlczREY0eUt5dEVtZmVVZnZBTjl3eW40RXVPWl9jN1VzV0k2QUoyWnI4NXBSVTlQZnVVUndkYkpRRTBjdmZQY19iZWxJU2lBcDVR?oc=5>
+- 场馆: 央视网
+- 时间: 2026-07-28 10:34
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1peXpCRF9nQzNQaktSOEJvd09vVHZ2bkRLN204Z0dfNy1mdlQxWV9ncVFhNG1hMThoUVlGZEJTZnVNMGRqR0Zfbm1aOGVDWnpfRmFmUnVzZUxsX0xMR0VUQmw3TUF3R0plUDBrNXhLckZtalFYVDR1Zg?oc=5>
 
-### 7月28日外盘头条：特朗普称若谈判破裂将强力打击伊朗 苹果重夺全球市值第一宝座 英伟达循环融资再引忧虑
+### 特朗普政府AI监管框架即将落地，开源模型合规问题悬而未决
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-28 08:57
-- 链接: <https://news.google.com/rss/articles/CBMimgJBVV95cUxQS3BrcElEUEtJcmlBc1J0TnMyUXpZamgzUWtRcml1ZFJPWG5KRDZ6SnBfc0wtTHFSdkRYQ2pWYTJ1NmxGZVlOTkxtTXJvQllzWjhTY201SVpWWnRMLU9zLU1DRDB1TkhlTlBtSTlpbTFCMWh2Q1RuQlNOdFlBS21uV3NBY3RKVjVZcThxM1IySGVqd0xvUW44MFBjSlRPLWVFVDR6WURrTUQ1a3BFdHZHZC1MOXB6c09fd2ZpMzhrNzdKMDExdDhMVWc1c1NJaktmR3haRlVjakUzVVQ2TTVRZUU3Ti1XazlMUENPSmNrRWtEU2IzeEhBS2NKb0FvblNrZWN3anBWWU1RaEE4SmNGaUU3ZkdaOEI2Wmc?oc=5>
+- 时间: 2026-07-28 09:34
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxPQjluWWswd2doUUNnd1FQaUtOOVdLXzU3a21LTGxYejB2NTJfREVqWEdqS3V1U21YdVBZLXdIaTduN3hRMzZWUzlIZjJHU0d2bHViSlhMWDMxLVM4QmVrZ0pLeW1pWjF0OEJyb21MWkY3Q0U1TXZSWHNQMklfX19MTGNsRnV5U1E?oc=5>
 
-### WTI扩大跌幅 特朗普称美伊正进行谈判
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-28 08:58
-- 链接: <https://news.google.com/rss/articles/CBMixwJBVV95cUxPcFFJamx6dGhyaEVwS2o4SWJfSmMzc2JLcTY3S2otNHEwajRXQ0xETmw3SUd4YWFnRkVDeS1sZDNIdTJwdWp6YnpVME1DUFpBa1R4TndUZVgtNzVmZzRPSnNYTXJQNmxHZGtFTDFEbVUwR1k4MHI4OXBNVGRLdUhMN2Q0Y1phbW9MMVJudi1vUTVUVDhBaFN5LUJzX0J0bnhTTjFNbW5xbTlhd2NBM0hXdzhzTUtUQkZKVno0SGpONkx3bzllc3RwZVZhY3dCc3dCMW1HR0RhS0dZRU1ieEhESXRob2N6Q3NRVWtySTYySzlTeFB2dzdmM1lzbWtINEJZX1pwRlZMTklDdGYxV3ZXS1cyRTFSaVgyT3VxeGJOd0JMbC15c25KUnRVYnZfN0dtZGc4YXNETjg1cW5aVnRkb1VqcFZBbVk?oc=5>
-
-### 美伊停火延续至第三天，特朗普称双方正进行“深度谈判”
+### 油价暴跌，特朗普称停火给伊朗谈判机会，伊朗嘲讽每当油价上涨美国就喊停
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: finance.sina.com.cn
-- 时间: 2026-07-27 16:57
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdV9XdXE1TE5IWWRtYUpqNF9qWmFmOFJ5V2F6LXJDa2pQUlNPOFJHbnBqVTNEc3lUbzJibWdTbHFHaE5NQ2RjQVltVVV4dm9kRHN6Mnlmd2lNQVdNYkV0ajRpbjV5S3d6TjJqRTZKNzdSVEUxME4wWFFrT1J2R1VKUUJQYmFzRW5SeHlzSUFkaUtoaXBtUmNUYU9YX1dsam5hTW1jZGdUbUpDWXBUOGp2VzFKS2RraDFMaUZ5Q2FOWmxHaUNCd1Mzd29wb1hsNzBY?oc=5>
+- 时间: 2026-07-28 11:22
+- 链接: <https://news.google.com/rss/articles/CBMirwJBVV95cUxQN1ZObVMybElwOWdJSnd5OVB4MW9Ma09odXdjeEFtSk1qYVZQU1BOZXVpZkNocWQxbjVhWFVEM05tcXdaTFBrUldmTGpERW9JbDZPWllZa1JlS0RWWW9QR29QeFZobXpCN0hBTjU5eS1yYU84bjRVaTkyWmpzdl9TN0VJdHV3VjdZdWctX25LRUtwX3RPbUF5Qmx4YmNyNlo2Mm9uNWdKYlJ4cEUxWDBONWw3SUVUTm5qYk5NaFA4cDNLQnhOSzRoaWItU2Z3VWlqbUxfaW9FdkJfS2RiVEtYVnBvczk3RFNwcEhIajJkNzBacVhRRDYxS1dsdXdMaFNKSHliTHkzWXBaT2Q0bHo4NnJnY3FudWdzanhPMHpQeENZSHlneFR1MUlVT09DWms?oc=5>
 
-### 视频：泽连斯基抵达美国，将和特朗普会晤
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-28 06:18
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE0zQkM0Z1A2ZTdrVFk0d2tnYkVmLTFkTTVpLU01Y2ROOFhhNmwwclczay1JdWlnV1d5TDk2X3pvRjV5a3YzTzNoYjZLajY?oc=5>
-
-### 戴庆成：特朗普11月会访问香港么？
+### 特朗普再次戴上小红帽：我将第4次竞选总统！
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-07-26 21:00
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1DV0otX1RtOGUxdDltSW1ZYkNJd2g1aWIwQ2d4WE1fSjFRQ3Zac3dzSmtIR1hKZlUxYjJ3Y1c1WVBRMUJlVzJEaWd3eGZwa200ZkY4MDg4aVJ3S2Fwam5kRHNabUZhdw?oc=5>
+- 场馆: 东方财富
+- 时间: 2026-07-26 00:03
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5HVmw5R0RRcE1CaHpVbm1adzl3QUdBSEhYZmNyeVdvazBxeHdPOEtKVVhodWpqRW1NTGFpSGhrNmRGdjF2dmRBbHpKbS15dHFjcDhjdGZ0YWszcndhbmwtUURwMVBOdw?oc=5>
 
-### 特朗普称若谈判破裂将强力打击伊朗
+### 泽连斯基和内塔尼亚胡均已抵达美国，都想争取特朗普进一步支持
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 央广网
-- 时间: 2026-07-27 16:26
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GQWp1bXdMWTF2Sm1HTVIxdzJiZFU1UTdnbjA2OUdFc0JUbjc5NXFNMmxwQzRIMkIxdmxXbWlZdTkyQ0xLa01nQnVkREpfNVVxbmVmcDdnZy1Sc05rbHhrM1czcDdvZXVq?oc=5>
+- 场馆: 上观新闻
+- 时间: 2026-07-28 10:31
+- 链接: <https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3SDFjeFVVT0hUamt4bGhMMy1wZXlBc0NoTm5lbHpnamI2aW9CQmlITjRCUThfMTgzNEJoWnBaMGIxdnU5VGlSZ3c0WExjdE1Td1R6TzV4QkFlZw?oc=5>
 
-### 特朗普对肯尼迪加大施压，要求减少儿童疫苗接种项目
+### 特朗普：美国在委内瑞拉早就赚回本儿了，在伊朗也一样，这些钱都“用于维持国家运转了”
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-07-28 06:45
-- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE54bXBkOHZoazhpT2YtME5LRFBxakVlelcwbjJGeUY2Q3htX3NqN1I2U3QyQ2tWMUplMmxYeTBfdk9feFVUWERqNnlISVE0N2NBSWlEQXI4bTF6MjhiNy1YS1QyNm14dW82Q0dWUkhpcTlkc1NTUTk4QUl3?oc=5>
+- 场馆: 21财经
+- 时间: 2026-07-28 09:43
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxQcGQ3Zmp6dW5UUGE0SXF6eWhRTEZHcldURUs0U3NMZE9sVndNemtWY2ZfeWtuRFo4ZEVzRTNPZ1paLWllQlNjN3NpU0lwLTNmODNVS3RWU0REYmc4UGNYa3E3d2pWZlhuN2NOeWU0NEJRSVhWaklEcnNxZEZvUWNNaG1fcFhsR0h1ZTdZcg?oc=5>
+
+### 特朗普宣布又赢了：美国有上千年石油储备 而中国没有
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 东方财富
+- 时间: 2026-07-28 00:09
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBOeUtTRlA3bnpGOHprLXJGTk1XLXlKSkgyNFdxQVpJaUQyaTRST0d2TWxnTnJNNnVJLWF5QUlRdkF2RUpSV19LMGRpOHBsc05sdzNtVFhYb3hvRjlqV3BFUg?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-28 11:33  (9 条)
+
+- **周杰伦** | 演唱会门票团购怎么买？摩天轮大麦双平台实测，5人以上连座攻略+FAQ <https://k.sina.com.cn/article_7879777065_1d5abdb2906801exk4.html>
+- **周杰伦** | 演唱会门票团购怎么买？3个维度说清渠道+避坑攻略+FAQ <https://k.sina.com.cn/article_7879776419_1d5abd8a3068017gx6.html>
+- **特朗普** | 特朗普政府要求美最高法院限制邮寄选票 <https://news.google.com/rss/articles/CBMieEFVX3lxTE1peXpCRF9nQzNQaktSOEJvd09vVHZ2bkRLN204Z0dfNy1mdlQxWV9ncVFhNG1hMThoUVlGZEJTZnVNMGRqR0Zfbm1aOGVDWnpfRmFmUnVzZUxsX0xMR0VUQmw3TUF3R0plUDBrNXhLckZtalFYVDR1Zg?oc=5>
+- **特朗普** | 特朗普政府AI监管框架即将落地，开源模型合规问题悬而未决 <https://news.google.com/rss/articles/CBMihwFBVV95cUxPQjluWWswd2doUUNnd1FQaUtOOVdLXzU3a21LTGxYejB2NTJfREVqWEdqS3V1U21YdVBZLXdIaTduN3hRMzZWUzlIZjJHU0d2bHViSlhMWDMxLVM4QmVrZ0pLeW1pWjF0OEJyb21MWkY3Q0U1TXZSWHNQMklfX19MTGNsRnV5U1E?oc=5>
+- **特朗普** | 油价暴跌，特朗普称停火给伊朗谈判机会，伊朗嘲讽每当油价上涨美国就喊停 <https://news.google.com/rss/articles/CBMirwJBVV95cUxQN1ZObVMybElwOWdJSnd5OVB4MW9Ma09odXdjeEFtSk1qYVZQU1BOZXVpZkNocWQxbjVhWFVEM05tcXdaTFBrUldmTGpERW9JbDZPWllZa1JlS0RWWW9QR29QeFZobXpCN0hBTjU5eS1yYU84bjRVaTkyWmpzdl9TN0VJdHV3VjdZdWctX25LRUtwX3RPbUF5Qmx4YmNyNlo2Mm9uNWdKYlJ4cEUxWDBONWw3SUVUTm5qYk5NaFA4cDNLQnhOSzRoaWItU2Z3VWlqbUxfaW9FdkJfS2RiVEtYVnBvczk3RFNwcEhIajJkNzBacVhRRDYxS1dsdXdMaFNKSHliTHkzWXBaT2Q0bHo4NnJnY3FudWdzanhPMHpQeENZSHlneFR1MUlVT09DWms?oc=5>
+- **特朗普** | 特朗普再次戴上小红帽：我将第4次竞选总统！ <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5HVmw5R0RRcE1CaHpVbm1adzl3QUdBSEhYZmNyeVdvazBxeHdPOEtKVVhodWpqRW1NTGFpSGhrNmRGdjF2dmRBbHpKbS15dHFjcDhjdGZ0YWszcndhbmwtUURwMVBOdw?oc=5>
+- **特朗普** | 泽连斯基和内塔尼亚胡均已抵达美国，都想争取特朗普进一步支持 <https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3SDFjeFVVT0hUamt4bGhMMy1wZXlBc0NoTm5lbHpnamI2aW9CQmlITjRCUThfMTgzNEJoWnBaMGIxdnU5VGlSZ3c0WExjdE1Td1R6TzV4QkFlZw?oc=5>
+- **特朗普** | 特朗普：美国在委内瑞拉早就赚回本儿了，在伊朗也一样，这些钱都“用于维持国家运转了” <https://news.google.com/rss/articles/CBMijAFBVV95cUxQcGQ3Zmp6dW5UUGE0SXF6eWhRTEZHcldURUs0U3NMZE9sVndNemtWY2ZfeWtuRFo4ZEVzRTNPZ1paLWllQlNjN3NpU0lwLTNmODNVS3RWU0REYmc4UGNYa3E3d2pWZlhuN2NOeWU0NEJRSVhWaklEcnNxZEZvUWNNaG1fcFhsR0h1ZTdZcg?oc=5>
+- **特朗普** | 特朗普宣布又赢了：美国有上千年石油储备 而中国没有 <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBOeUtTRlA3bnpGOHprLXJGTk1XLXlKSkgyNFdxQVpJaUQyaTRST0d2TWxnTnJNNnVJLWF5QUlRdkF2RUpSV19LMGRpOHBsc05sdzNtVFhYb3hvRjlqV3BFUg?oc=5>
 
 ### 2026-07-28 09:14  (10 条)
 
