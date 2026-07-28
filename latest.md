@@ -1,48 +1,82 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-28 17:50**
-- 本轮扫到 8007 条, 新增 **4** 条
+- 最近更新: **2026-07-28 19:14**
+- 本轮扫到 8014 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (7 条)
 
-### 微妙时刻访美，内塔尼亚胡有何诉求|唐纳德·特朗普|美国大选|美国总统|以色列|伊朗_手机新浪网
+### 白宫称与乌克兰和以色列领导会面都“正面且富有成效”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-07-28 18:15
+- 链接: <https://news.google.com/rss/articles/CBMi9AJBVV95cUxON0ZWX2FldUc0XzBJRmphNHF1NTJwYjlKZXF3dE43YWlRckdCcGtoOGw2MWdiMGFMWEtENkRQcWI3VGhiQmozNEIwQTRpQ1l4YkFFQjU0V0RSQXJ1S1RqOEc0NlJuLVR2RGVmWXhfcnJXT3hPM1hxa2xqZHM2c1J1Qm5nV2lScFNmN3B4RlhwQjNKajJtaDhPMXU5TzdaaFJCRlc4dDlVUjZoeldtdlA3RHByN3dRZ0lYaHNGS3JJZ09RYlZLbnBuWlVEV04zbmpqV053R2Q5MlFrbGs5X2lWTm1DN2I3TGNFNHZ4cGxiRUVYX1p1dkNqRnRaNzZWTGYwbWFNVHhxRFYybHFtREVDcjhqVURET0JHc244YW1JNW54akFkN2U2cHNYOHdxejIxQXgteTV2UXEzOEJsQ0M0TWxSV2U4S0E2NEFQckJwa21SZDBXc1dFdU9zbXVtVjB2VGVHZTBaSmYxRkRtcHR6bkNfd1o?oc=5>
+
+### 莱维特：特朗普与内塔尼亚胡和泽连斯基的会谈“积极”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-28 17:20
-- 链接: <https://news.google.com/rss/articles/CBMiiAJBVV95cUxQZUxxdWdUaTVFSE5XSS16R3BmNjcyLThlRVhKcE9fdlJudnhNbk9fVnh4N0VGZHJvQ01NSUlRMTFMQXFFZWtGU1I1VTl6NGs4SHBYcTRtay12emYyM3V4S3loZ3lzRVlTY3NweFlZalduZFk3UFM2VWlDTlR0bUlPNnBwTVVIU2ZHZ283X0paRXVnSEg4Z1Y1cnF6Y05feDcyWDBxQ19JMUo4cVNVMDhxRjZCMVNRbHZLZkR3dUotbDdGZHgzeU84ZUdPVDB4cExqXzZXYksxLWYwdDNFMVFSS3hpbWJIc1NDU09wRjFydUs1QXlqVTVveUZRMGtxSHYwa0o3ak1Zem4?oc=5>
+- 时间: 2026-07-28 17:14
+- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE83VkZTb2dlTFBLaGtYQ0dHdEJYdEdwR0k0Z0t0UmtiaUhsaWZJZUdIQzFRcUwySmV2dDhlWVJSM1NKNDRZa0d3WnpTdlBfbHZzNFZGTXlXWVhncWx4cFJJV1BlQ3E4b3pseHJWUEJYMFpSNXJYQVZhaVZ3?oc=5>
 
-### 特朗普在最后关头怂了，伊朗没打垮，先把美军导弹库打空了
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-28 16:00
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE0zUFpBSkR2QUcyTzd0RHVscVVTcm0yQzRvSjRpVXctMTZxS084STZMTmhQX0NIZEJVSVVKX2NhOWZ2WldCaGZoZUpiWnEzSnJ6WUdYZVFyUHRFRlYwYWthQ1J3cXdUTEJJbmJjNl9MTFVtY3hrX3c?oc=5>
-
-### 美伊停火延续至第三天，特朗普称双方正进行“深度谈判”
+### 7月28日外盘头条：特朗普称若谈判破裂将强力打击伊朗苹果重夺全球市值第一宝座英伟达循环融资再引忧虑
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-28 12:22
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxQZjlEbXF3YVZBRzdrZFJKcmVLcVFaQ2pKaUotRHdHVXFURFVxWXNBLUpPSl9DTVhtSnhnbGNqT3ZablFLRUZlY0xjN1pDalA2a2pVNlluWVc2YmhnWUJ1SmVFV0VxMk1GZGl0bTdjU2x1cVE1RHp2UF9UQVAtYlRfV0JsMWJHMzNQNkEwVjgzTUtjYkc1WEV2WA?oc=5>
+- 时间: 2026-07-27 22:00
+- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQnBKd2R3aGk4ZlZ3NkJoelg0RVA0ODNqZ3YwWXBzVUkycE1OeXhIZm5JdlVYNE9ETmlPMHNsNnRFN28tSHBVellNR2VBQmY1cnRzQU5fZEJTbnRiWTMySDdHZ2ttbmU0R3FILUZhei1SMWpXYVVLOFNsR0kxdEFKZlJYeTlwWVRrUnY0VjZfRER0a3VXRTJZLUhsMlpqeW1wbGdRbnQzRXBucWFEWTJBVW9BXzgza0NvOFgyWkRVbDBVT0dGSGVTRTlneEZ1VVduWXc?oc=5>
 
-### 特朗普：美以在伊朗问题上存在分歧
+### 特朗普重申若未与伊朗达成协议将摧毁“镐山”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 青岛日报
-- 时间: 2026-07-28 10:04
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NR3RTSDRLOWhZMUlsRURZeXFvNHZkTlRSV3FHV1V3cFF6Vnh1T3Q0Tnc2d1FidllreDRMYm55OUdadTZYMXMwaDhKSFRDUERqZHRidkdjX0Y?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-07-28 16:46
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE40RWQ4WTZtUzdQX0JUMFB5RS1XTVpoSDZEMWNoc1hsMXE2OVJVVzFjTU9Ud0U1eS1fTGpkS3dTT2pYMi1wTnozU2I4N3l4TV8yU3k5SWc5N3FVR1lwWTNiUUJ0SWlDUXpFZ1F4UXpPRG13QUI4UEtubA?oc=5>
+
+### 特朗普：新关税与最高法院裁定违法的关税“在做同样的事”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-28 14:49
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNTZnMHhuZXFKRHFyblgzcFdjdldWS0ExSmN6SmZtN1FycjdodUxKY2Ffa284NzNQOU1KWlM3aVFYd3FTeHRoSDlnSVBtUlFqNTM5YVJHbHk1TWN6Qzg0Y0FrdnlNRGpkbXNWS1R5RnJTeGRVSTRGR3p2Nk1JaXJ1dDR4Tk81YVQ0VzJTTldQSUJaOF9Obl9OTjdoNzdhbmNySzVucEdjV3d6N29yTS1PWnRHV3hxS19kVkxTRjZRcnFtTU54UzEwV2pmdXB4VV9sRTZtWU8xTXFhazJFVTJJ?oc=5>
+
+### 内塔尼亚胡称赞与特朗普的会晤“非常成功”，与此同时，以色列对伊朗问题采取更强硬的立场。
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Al-Monitor
+- 时间: 2026-07-28 19:00
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5OQ2RZbVBXbjBlWUNSMXVyNnZBclRpT05FYjNJdWJDR0hmX0I3bktiUzM2RFVDbldjV1U4V1VSZmhDRGUtV3YtU19sbTBKV0kzcnFvZ2ZQX3ltNUxYZV9aVWJJcFBmZw?oc=5>
+
+### 谢谢你，TRUMP！！！
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-07-27 14:08
+- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE10UzVad1JyUzBSRXI4ZlBCRnNZR21FdmpITkRNYmRQbV9MZGJleWJWdDJFMHpzRGRORFhHczg0bHphc3kwX0M0LWhMaU1BNXN5NlBNc3c4dVNUMUxUeHF4S1VtY3cwbjBHSWN0a29tR2lGb000THdwaTlNNmgzZw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-28 19:14  (7 条)
+
+- **特朗普** | 白宫称与乌克兰和以色列领导会面都“正面且富有成效” <https://news.google.com/rss/articles/CBMi9AJBVV95cUxON0ZWX2FldUc0XzBJRmphNHF1NTJwYjlKZXF3dE43YWlRckdCcGtoOGw2MWdiMGFMWEtENkRQcWI3VGhiQmozNEIwQTRpQ1l4YkFFQjU0V0RSQXJ1S1RqOEc0NlJuLVR2RGVmWXhfcnJXT3hPM1hxa2xqZHM2c1J1Qm5nV2lScFNmN3B4RlhwQjNKajJtaDhPMXU5TzdaaFJCRlc4dDlVUjZoeldtdlA3RHByN3dRZ0lYaHNGS3JJZ09RYlZLbnBuWlVEV04zbmpqV053R2Q5MlFrbGs5X2lWTm1DN2I3TGNFNHZ4cGxiRUVYX1p1dkNqRnRaNzZWTGYwbWFNVHhxRFYybHFtREVDcjhqVURET0JHc244YW1JNW54akFkN2U2cHNYOHdxejIxQXgteTV2UXEzOEJsQ0M0TWxSV2U4S0E2NEFQckJwa21SZDBXc1dFdU9zbXVtVjB2VGVHZTBaSmYxRkRtcHR6bkNfd1o?oc=5>
+- **特朗普** | 莱维特：特朗普与内塔尼亚胡和泽连斯基的会谈“积极” <https://news.google.com/rss/articles/CBMiekFVX3lxTE83VkZTb2dlTFBLaGtYQ0dHdEJYdEdwR0k0Z0t0UmtiaUhsaWZJZUdIQzFRcUwySmV2dDhlWVJSM1NKNDRZa0d3WnpTdlBfbHZzNFZGTXlXWVhncWx4cFJJV1BlQ3E4b3pseHJWUEJYMFpSNXJYQVZhaVZ3?oc=5>
+- **特朗普** | 7月28日外盘头条：特朗普称若谈判破裂将强力打击伊朗苹果重夺全球市值第一宝座英伟达循环融资再引忧虑 <https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQnBKd2R3aGk4ZlZ3NkJoelg0RVA0ODNqZ3YwWXBzVUkycE1OeXhIZm5JdlVYNE9ETmlPMHNsNnRFN28tSHBVellNR2VBQmY1cnRzQU5fZEJTbnRiWTMySDdHZ2ttbmU0R3FILUZhei1SMWpXYVVLOFNsR0kxdEFKZlJYeTlwWVRrUnY0VjZfRER0a3VXRTJZLUhsMlpqeW1wbGdRbnQzRXBucWFEWTJBVW9BXzgza0NvOFgyWkRVbDBVT0dGSGVTRTlneEZ1VVduWXc?oc=5>
+- **特朗普** | 特朗普重申若未与伊朗达成协议将摧毁“镐山” <https://news.google.com/rss/articles/CBMieEFVX3lxTE40RWQ4WTZtUzdQX0JUMFB5RS1XTVpoSDZEMWNoc1hsMXE2OVJVVzFjTU9Ud0U1eS1fTGpkS3dTT2pYMi1wTnozU2I4N3l4TV8yU3k5SWc5N3FVR1lwWTNiUUJ0SWlDUXpFZ1F4UXpPRG13QUI4UEtubA?oc=5>
+- **特朗普** | 特朗普：新关税与最高法院裁定违法的关税“在做同样的事” <https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNTZnMHhuZXFKRHFyblgzcFdjdldWS0ExSmN6SmZtN1FycjdodUxKY2Ffa284NzNQOU1KWlM3aVFYd3FTeHRoSDlnSVBtUlFqNTM5YVJHbHk1TWN6Qzg0Y0FrdnlNRGpkbXNWS1R5RnJTeGRVSTRGR3p2Nk1JaXJ1dDR4Tk81YVQ0VzJTTldQSUJaOF9Obl9OTjdoNzdhbmNySzVucEdjV3d6N29yTS1PWnRHV3hxS19kVkxTRjZRcnFtTU54UzEwV2pmdXB4VV9sRTZtWU8xTXFhazJFVTJJ?oc=5>
+- **Trump** | 内塔尼亚胡称赞与特朗普的会晤“非常成功”，与此同时，以色列对伊朗问题采取更强硬的立场。 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5OQ2RZbVBXbjBlWUNSMXVyNnZBclRpT05FYjNJdWJDR0hmX0I3bktiUzM2RFVDbldjV1U4V1VSZmhDRGUtV3YtU19sbTBKV0kzcnFvZ2ZQX3ltNUxYZV9aVWJJcFBmZw?oc=5>
+- **Trump** | 谢谢你，TRUMP！！！ <https://news.google.com/rss/articles/CBMifkFVX3lxTE10UzVad1JyUzBSRXI4ZlBCRnNZR21FdmpITkRNYmRQbV9MZGJleWJWdDJFMHpzRGRORFhHczg0bHphc3kwX0M0LWhMaU1BNXN5NlBNc3c4dVNUMUxUeHF4S1VtY3cwbjBHSWN0a29tR2lGb000THdwaTlNNmgzZw?oc=5>
 
 ### 2026-07-28 17:50  (4 条)
 
