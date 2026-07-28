@@ -1,32 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-28 21:57**
-- 本轮扫到 8023 条, 新增 **2** 条
+- 最近更新: **2026-07-28 22:59**
+- 本轮扫到 8028 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (5 条)
 
-### 泽连斯基与特朗普磋商爱国者防空系统
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-07-28 20:50
-- 链接: <https://news.google.com/rss/articles/CBMiqwJBVV95cUxQUVcyUHVQUXpvbzJnODZ4YlM0dXJobTJNeHlrRmlGeUpsNXRVTWRyNGs5MU03RUVVOUJnWTBoR0pWeGo0bEdaUTljQXo2bmxJZUFJWjhsUFJxczlsMzA4RXNQTnk5dEhSSjRSdmtseVQ2TWpxWFp3X3hRbk54eHJobC1nNzVEeG5EX3hQbDl1RmlsV25ZOW15a3Z0OF96MWlMMGV1cFpUVzBjX3hXNzFYVjFmX3hPNlVxWkttaWl3dS1mVG9WajhuVk9KaldPWFN2RXllV01EdnZKbmhYcWVUT3dRLWdlTnpFd19DMnVuVUNrLVJBc2FOVTI1SEh5SVI4ZVloMTBiV05BaHFwYjJlcmxMS0hLdlZabUM5NEg5Zmo4LWY0eXhGdmRXQQ?oc=5>
-
-### 这一次，可能不会按剧本来
+### 600名以色列前高官联名致信特朗普 警告约旦河西岸局势或升级
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-07-28 14:59
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFB6RXk3RkZKRnV5MTFlWjFUMFZObmdSWnhPSG1scEpPZ01MUkJkNTM1blFvd3pnaUJ4ZTRYcjBsWEpCbjd4ZnNkZmxlQW41ekNHcG1aaTZ4QWpNZHk0bnNITGppcVlqd25nWVE?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-07-28 22:39
+- 链接: <https://news.google.com/rss/articles/CBMijAJBVV95cUxPc0MyUVlFY19QUXo1aTVyWkd0NWxRSS16TXBTdE9iSDZDX0QxVkgxYWJEanlNRmd1SmtTN0ZaM2QzX1VXV09xc25lZm40RUNnTlpESmJCNEdYNnhqTlN4Q0VDcG43bUY0SG5sS3lvNzFkcXVJaWxwYWZTZ1doZWk1OFVNUmo2WTUzczJnbzNmSXdqNk1lQ0RaRUQtbGV1bVpPd3V5MEZwQmZQdGFGLVBET2JuOFNhWEhXZkV2eDE5M0RTVmtSb3lLeHRScmMydVQ1RV9wQmUtUWVMRURXR214WWx4b25VdVdBYklSQzBycWdSUjdPZ1hZV2ZkV3FvUXY0VXFiSEYzSmluNEF1?oc=5>
+
+### 美国斡旋陷入停滞之际，特朗普见泽连斯基讨论俄乌和平进程
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 环球网
+- 时间: 2026-07-28 07:56
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTFB4VmhSMk00Qi1vMU82MUkzbUtoVXQ3aU9NVkdYbGZWRi1zQkRCNmo4N1Z3V192TjBGM2xGblctS1JlalphaHEzYS1qaWM4ekN2NzE4M3kzZk8?oc=5>
+
+### 微妙时刻访美，内塔尼亚胡有何诉求|唐纳德·特朗普|美国大选|美国总统|以色列|伊朗_手机新浪网
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-28 22:30
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1DeWphbVNZZkxHOGlJTUg4OTlWVEpVUG1MbWVnMmtfbHJhenAzeFhWYnh5Yjh4Y2pMSm9aQ2xLbjJtaTNEeVZVbWtnZ1dmZGQ2akNVYmZGQzRxUk4telZaMl9LbXNlQ2FGbjJPcEVxVFo4Nk96Q2hrX2J5VlZyMXM?oc=5>
+
+### 特朗普：新关税与最高法院裁定违法的关税“在做同样的事”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-28 14:49
+- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxOT0ppMVltOFJmbnRZeU1qbXVwWFhaRkduU29URWVWRFFuYk5tRENUY29Xd1NHNmdOTjFBSkNyc2NRY09qRjhDYjZWWVdacVY1V01mSGc1eHA5S1RpT1Fpb0pITWNDTU94dmo5V21JZ19UanZDdVY1YkFkbkh3TWZpQ1NYZHJ5Z20wU0swb1R1aUF0UUYzc0F4cmlZR2VsWmJqXy1ETTVyU0FrcG1adXZFcXUxdVZ2WkZFT3VxS2lYZHN3RHJHQmtfZ1VNSnRMRHdvLUYzeTRLYWxoSC1IbkE?oc=5>
+
+### 特朗普在密歇根州为中期选举造势：我对你们比你们爸妈更好
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-07-28 08:43
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE5PTk1Jdkd6QVV6Tl9qcDZmbXQ1VnR5UkFSbjNuSjF5V3VwQ3JfSzNtV3FRdG1tQm5YQUREbTJLdGJMUDZFb3dYZzdOZHVLTHFUdWZyUTdfMlF3WUxhS0JPNVIzbmRfUEZfbHRoU3d0RHhPQQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-28 22:59  (5 条)
+
+- **特朗普** | 600名以色列前高官联名致信特朗普 警告约旦河西岸局势或升级 <https://news.google.com/rss/articles/CBMijAJBVV95cUxPc0MyUVlFY19QUXo1aTVyWkd0NWxRSS16TXBTdE9iSDZDX0QxVkgxYWJEanlNRmd1SmtTN0ZaM2QzX1VXV09xc25lZm40RUNnTlpESmJCNEdYNnhqTlN4Q0VDcG43bUY0SG5sS3lvNzFkcXVJaWxwYWZTZ1doZWk1OFVNUmo2WTUzczJnbzNmSXdqNk1lQ0RaRUQtbGV1bVpPd3V5MEZwQmZQdGFGLVBET2JuOFNhWEhXZkV2eDE5M0RTVmtSb3lLeHRScmMydVQ1RV9wQmUtUWVMRURXR214WWx4b25VdVdBYklSQzBycWdSUjdPZ1hZV2ZkV3FvUXY0VXFiSEYzSmluNEF1?oc=5>
+- **特朗普** | 美国斡旋陷入停滞之际，特朗普见泽连斯基讨论俄乌和平进程 <https://news.google.com/rss/articles/CBMiWEFVX3lxTFB4VmhSMk00Qi1vMU82MUkzbUtoVXQ3aU9NVkdYbGZWRi1zQkRCNmo4N1Z3V192TjBGM2xGblctS1JlalphaHEzYS1qaWM4ekN2NzE4M3kzZk8?oc=5>
+- **特朗普** | 微妙时刻访美，内塔尼亚胡有何诉求|唐纳德·特朗普|美国大选|美国总统|以色列|伊朗_手机新浪网 <https://news.google.com/rss/articles/CBMif0FVX3lxTE1DeWphbVNZZkxHOGlJTUg4OTlWVEpVUG1MbWVnMmtfbHJhenAzeFhWYnh5Yjh4Y2pMSm9aQ2xLbjJtaTNEeVZVbWtnZ1dmZGQ2akNVYmZGQzRxUk4telZaMl9LbXNlQ2FGbjJPcEVxVFo4Nk96Q2hrX2J5VlZyMXM?oc=5>
+- **特朗普** | 特朗普：新关税与最高法院裁定违法的关税“在做同样的事” <https://news.google.com/rss/articles/CBMi3gFBVV95cUxOT0ppMVltOFJmbnRZeU1qbXVwWFhaRkduU29URWVWRFFuYk5tRENUY29Xd1NHNmdOTjFBSkNyc2NRY09qRjhDYjZWWVdacVY1V01mSGc1eHA5S1RpT1Fpb0pITWNDTU94dmo5V21JZ19UanZDdVY1YkFkbkh3TWZpQ1NYZHJ5Z20wU0swb1R1aUF0UUYzc0F4cmlZR2VsWmJqXy1ETTVyU0FrcG1adXZFcXUxdVZ2WkZFT3VxS2lYZHN3RHJHQmtfZ1VNSnRMRHdvLUYzeTRLYWxoSC1IbkE?oc=5>
+- **特朗普** | 特朗普在密歇根州为中期选举造势：我对你们比你们爸妈更好 <https://news.google.com/rss/articles/CBMickFVX3lxTE5PTk1Jdkd6QVV6Tl9qcDZmbXQ1VnR5UkFSbjNuSjF5V3VwQ3JfSzNtV3FRdG1tQm5YQUREbTJLdGJMUDZFb3dYZzdOZHVLTHFUdWZyUTdfMlF3WUxhS0JPNVIzbmRfUEZfbHRoU3d0RHhPQQ?oc=5>
 
 ### 2026-07-28 21:57  (2 条)
 
