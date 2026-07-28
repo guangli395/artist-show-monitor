@@ -1,84 +1,96 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-28 00:53**
-- 本轮扫到 7950 条, 新增 **9** 条
+- 最近更新: **2026-07-28 03:56**
+- 本轮扫到 7959 条, 新增 **9** 条
 
 ---
 
 ## 本轮新发现 (9 条)
 
-### 王一博带你看:LOEWE罗意威2026秋冬系列发布!_Loewe_品牌_皮革
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849812_1d5acf754019014qci.html>
-
-### 周杰伦、王源、那英都来了,2026年下半年这些演唱会别错过
+### 演唱会演出票务购买，到底选哪个平台最靠谱？3大维度拆解+FAQ
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879996589_1d5af34ad01901ptwe.html>
+- 链接: <https://k.sina.com.cn/article_7879923679_1d5ae17df06801ipm8.html>
 
-### 特朗普总统：关税政策重振了美国汽车制造业
+### 演唱会票务平台怎么选？大麦、票星球、百度票务实测对比+安全避坑指南+FAQ
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-07-27 23:09
-- 链接: <https://news.google.com/rss/articles/CBMivAFBVV95cUxNY2lkdlhwMnBuMmpTdUV0bC1FejUxT2xOcWJINGs3VnFhMTZMel9yN1Fwd3pMV0tVQUt5MUwwWXpzRjFZdWJaNzg2bklYdjZ3Q091Ml9NREpQYzl2bW44SjRrNzFvTXpBQWJBLU5Lc08tQnZxQW4zMkpnMGx4Ri1mNFh1WGc0MjV3cU1GZ2RwQVNvckZNMFFTZGZIOGx3ODN0a0t3R0VURE5wckptTXFjWnR1NmJQRjJNQ2RCQ9IBvwFBVV95cUxNejVHWldKeEwwUGpiZXlGb2hjVGZwX2k4N1dMbDhRZEx1TE1hamlHMVlNcUVucExwUEs3eGxqZG5WYlk5VnJoUDZscmZxQTFBNFpVeFBCcWFiSlRkQV9ZZUtqdkZfVGpXU055eGhDckI1WEtLcnJ5U2dZaElkN0Uxelltd21uMHhLVHdwc1ByMFA0Q2N4YTZvQ1RMVldGNnpwdW9xbHlCaWFVOTN4VlRTdGxVdlZXU3VIb2k0Umpvbw?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879849092_1d5acf48406801qzxg.html>
 
-### 特朗普：有足够耐心与伊朗达成新协议，否则就开打
+### 山姆・奥特曼本周将会晤特朗普政府官员，其沟通核心内容曝光
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-27 22:21
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBHRno4a0ZYWG1ibkhDSFhSYVB0d252a0dfY255Sk10dGxCdjd0Ny1TS0ZvN0NqcXRvT0dob3Z5dWl1M1FnbEpRNENfeXNQRGY1VzBHcFd5UzJwS3pUdy1Ga0NXSl80V2E3LXBjLTdyTUNzWGJ5ZXBlUw?oc=5>
+- 时间: 2026-07-28 01:27
+- 链接: <https://news.google.com/rss/articles/CBMi_wFBVV95cUxQRWUwMHEyd2REUE1XTkhBcE10aDkwenprUUJaOFZEU2VDcmhwWl9QTm5CNXhZbHZrTVJ4Z3pBYmNpNUJKN09hbF9LaWpScEpMbUZqT0pWdkV4YXBONU5LRkR2SUU5RGtjdGx6cDRrQnplMi1iNm01d2Nma0pPUEQzVGxDQmxYcWp3WlBFNk5EdjBWVkI0Mi1UUFI3T1R6NldYMGtobHEwRlBRRHQtazZTU01YNm9hSTlxRVBwaUhMLTZaSXl4VUhXaWxVaGdEbEFsWTl0UTAxV0VXOWJPaFh3MEY3XzdselJpVHVMTmN6YjJfXzZRbnAtcG9vSFY1YVU?oc=5>
 
-### 特朗普再威胁恢复打击伊朗 中东冲突或多点爆发
+### 特朗普：有足够耐心与伊朗达成新协议 否则就开打
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-07-27 23:31
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hZWJLZTdtZ3pocjJjRzRJRldQa0tmMlVFQ0lYVy14c0N6ejE1aXJncF9OemhkYUhkNVBvSlIySFYxaXEwZjBGLWhTQlptcWI4RWZhNHBGb2h4Y290dVpLNEt2S2s?oc=5>
+- 场馆: 新华网
+- 时间: 2026-07-27 20:11
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZbF9FLUZtV3hicnU1QkNUSUh3N0FNWDBaOFRBcWpCQzN0RzFOckZVTjZMdVg5M3hxamxBSmVwaFg1YV9YU0hDcUFXR3F3WWVOSTRQMExSVm1rUTZwdDgxQmpBSWpmdElqdGp0SENJZlJNV2xnajFWbU5zbmRNQVk?oc=5>
 
-### 特朗普将在白宫会见两位重要客人
+### 特朗普威胁对欧盟加征巨额报复性关税，为何又是“301调查”？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-07-28 00:11
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9DeXJlbTdTNENBdkVWZ3JNOVJLUTUxalhRQkViVHdVSjR5bURRTUVMV0ZvVzZmT1F5ZXZVdzlueE1GU1F4WThpT0lWVXo?oc=5>
+- 时间: 2026-07-23 16:01
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5DckJ2UVhFMWZrNGExR0JLakYwdG12WjFUZ1F5OTVPeXViTm5GU3UycjJNWWtiTkM1X2NiM2NGLVI5SUtwdXV4ajhRVFg?oc=5>
 
-### 特朗普称美伊“积极谈判” 警告若未果将恢复打击
+### 600名以色列前高官联名致信特朗普 警告约旦河西岸局势或升级
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-27 21:56
-- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE1kRlRiRnpIbWhyMXhLR3R3VlktM2NZQ2xHOUN2VnN6VDNPSnRHZzFzaE5zYW0wOWg5ejJJOVZIb3cyR0p0cExQTXFkdWNkeHJxQ09MMHhydzRzSGFQRzMtVWY5RE9udmlhcy1maDA2Z3FqSWpCdkpBSm1n?oc=5>
+- 时间: 2026-07-27 22:11
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9GS216MkVrSUZXOE1haTYwS0ZESkZCUFFscWpCeU5Md01PdW94ZXR2NE9HUEdpUGRCZ2IxS3E1NjBUWTRyQ2c5N21MNzFYNG9SZUp3N3BpRUQ5MGlsTU56eHpVWG1YYlFJNW1teTVYaC03b2h2bEUtNA?oc=5>
 
-### 打击伊朗 特朗普被迫按下“暂停键”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 天津日报
-- 时间: 2026-07-27 22:00
-- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxPbXpTWkRaeHBCbm1kbnhfSWJQWlpCN21vLVUzREpWNEpuMG1TZURkbGhENnpiRUd0eVFid3hkMDBoam5ZYjFxb3JIcHN4dnpsOHhLMnhMdTUzQTFMQXRkNW9ReDdpekdrdVotVjF4enZTQVdycDJIYXAyY2V4NUthRzRR?oc=5>
-
-### 特朗普政府即将敲定自愿性AI监管框架
+### 以军持续袭击黎巴嫩，大量平民伤亡，联合国派调查团搜集证据！内塔尼亚胡抵美，特朗普：没美国以色列早就不存在了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观点网
-- 时间: 2026-07-27 23:27
-- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTFBacnIyTXh5SFdyYkN3cl9oQnBsenl5Um1hUGlUdEs2X1BJeHVlODF1S3pMaVh3U2pXQUUtMC1DbUFPQTdjM0J6cmVpOGNDa0lHR0tVcTJUajl0RndwbWJFNXl3?oc=5>
+- 场馆: 每日经济新闻
+- 时间: 2026-07-28 02:33
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KeGxJeWtKZnNubkxFWTJvN0twYVBOUVM0aEdITTItWm1qZ0Z2YzJyaThNTlpZY19laEo2Ujc1U0xmRDRPeGxhWXNKSGlQOTVaYnRhZGxYNVlmRFNHV3JRdTRLVFl5Zw?oc=5>
+
+### 一财主播说| 会晤前夕放狠话！特朗普：没有美国，以色列活不下去
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 第一财经
+- 时间: 2026-07-28 03:31
+- 链接: <https://news.google.com/rss/articles/CBMiVEFVX3lxTFB0aXBGd2JfQzBrWkxfYkFXd0JBSV9pQkVQNXVOdk9UbGVLQm1wUnh5Uk9NSzRDV2pfVDIxZWxTeUw0UnRNNkU4bUZXWkVUakdNQjRoOA?oc=5>
+
+### 特朗普怒怼媒体、百年熨斗大厦重修 来《张朝阳的英语课》了解国际新鲜事
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-07-28 02:59
+- 链接: <https://news.google.com/rss/articles/CBMibEFVX3lxTE56N3RQTEFzSDVBVlNSVkQ3Q25lWGgzM0FyN1FMejcyLXo1TEV5Q292WjBpN2dCVm5USW51RTBNdDBmZVE3ZVpBYlFqSVJjNlY0bTFYYl80MEpHRTZfa2tJRkVleERtT0ZpRGtUTA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-28 03:56  (9 条)
+
+- **周杰伦** | 演唱会演出票务购买，到底选哪个平台最靠谱？3大维度拆解+FAQ <https://k.sina.com.cn/article_7879923679_1d5ae17df06801ipm8.html>
+- **周杰伦** | 演唱会票务平台怎么选？大麦、票星球、百度票务实测对比+安全避坑指南+FAQ <https://k.sina.com.cn/article_7879849092_1d5acf48406801qzxg.html>
+- **特朗普** | 山姆・奥特曼本周将会晤特朗普政府官员，其沟通核心内容曝光 <https://news.google.com/rss/articles/CBMi_wFBVV95cUxQRWUwMHEyd2REUE1XTkhBcE10aDkwenprUUJaOFZEU2VDcmhwWl9QTm5CNXhZbHZrTVJ4Z3pBYmNpNUJKN09hbF9LaWpScEpMbUZqT0pWdkV4YXBONU5LRkR2SUU5RGtjdGx6cDRrQnplMi1iNm01d2Nma0pPUEQzVGxDQmxYcWp3WlBFNk5EdjBWVkI0Mi1UUFI3T1R6NldYMGtobHEwRlBRRHQtazZTU01YNm9hSTlxRVBwaUhMLTZaSXl4VUhXaWxVaGdEbEFsWTl0UTAxV0VXOWJPaFh3MEY3XzdselJpVHVMTmN6YjJfXzZRbnAtcG9vSFY1YVU?oc=5>
+- **特朗普** | 特朗普：有足够耐心与伊朗达成新协议 否则就开打 <https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZbF9FLUZtV3hicnU1QkNUSUh3N0FNWDBaOFRBcWpCQzN0RzFOckZVTjZMdVg5M3hxamxBSmVwaFg1YV9YU0hDcUFXR3F3WWVOSTRQMExSVm1rUTZwdDgxQmpBSWpmdElqdGp0SENJZlJNV2xnajFWbU5zbmRNQVk?oc=5>
+- **特朗普** | 特朗普威胁对欧盟加征巨额报复性关税，为何又是“301调查”？ <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5DckJ2UVhFMWZrNGExR0JLakYwdG12WjFUZ1F5OTVPeXViTm5GU3UycjJNWWtiTkM1X2NiM2NGLVI5SUtwdXV4ajhRVFg?oc=5>
+- **特朗普** | 600名以色列前高官联名致信特朗普 警告约旦河西岸局势或升级 <https://news.google.com/rss/articles/CBMieEFVX3lxTE9GS216MkVrSUZXOE1haTYwS0ZESkZCUFFscWpCeU5Md01PdW94ZXR2NE9HUEdpUGRCZ2IxS3E1NjBUWTRyQ2c5N21MNzFYNG9SZUp3N3BpRUQ5MGlsTU56eHpVWG1YYlFJNW1teTVYaC03b2h2bEUtNA?oc=5>
+- **特朗普** | 以军持续袭击黎巴嫩，大量平民伤亡，联合国派调查团搜集证据！内塔尼亚胡抵美，特朗普：没美国以色列早就不存在了 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KeGxJeWtKZnNubkxFWTJvN0twYVBOUVM0aEdITTItWm1qZ0Z2YzJyaThNTlpZY19laEo2Ujc1U0xmRDRPeGxhWXNKSGlQOTVaYnRhZGxYNVlmRFNHV3JRdTRLVFl5Zw?oc=5>
+- **特朗普** | 一财主播说| 会晤前夕放狠话！特朗普：没有美国，以色列活不下去 <https://news.google.com/rss/articles/CBMiVEFVX3lxTFB0aXBGd2JfQzBrWkxfYkFXd0JBSV9pQkVQNXVOdk9UbGVLQm1wUnh5Uk9NSzRDV2pfVDIxZWxTeUw0UnRNNkU4bUZXWkVUakdNQjRoOA?oc=5>
+- **特朗普** | 特朗普怒怼媒体、百年熨斗大厦重修 来《张朝阳的英语课》了解国际新鲜事 <https://news.google.com/rss/articles/CBMibEFVX3lxTE56N3RQTEFzSDVBVlNSVkQ3Q25lWGgzM0FyN1FMejcyLXo1TEV5Q292WjBpN2dCVm5USW51RTBNdDBmZVE3ZVpBYlFqSVJjNlY0bTFYYl80MEpHRTZfa2tJRkVleERtT0ZpRGtUTA?oc=5>
 
 ### 2026-07-28 00:53  (9 条)
 
