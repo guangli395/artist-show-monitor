@@ -1,48 +1,96 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-27 23:10**
-- 本轮扫到 7941 条, 新增 **4** 条
+- 最近更新: **2026-07-28 00:53**
+- 本轮扫到 7950 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (9 条)
 
-### 600名以色列前高官联名致信特朗普 警告约旦河西岸局势或升级
+### 王一博带你看:LOEWE罗意威2026秋冬系列发布!_Loewe_品牌_皮革
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-07-27 22:51
-- 链接: <https://news.google.com/rss/articles/CBMilgJBVV95cUxNMlVKWGhtd1RhbUh1bTJLSVNJWVVodW1xUFFjWThGeS03eTdQVDdQQmNqcDFrQTVWcTluclEyZE5aeE00cE1YOEVYbGh0ZmxaLTZTb1BMeTRKUEtPMURyQkRUZHJGT2xrcGdPTEFqMG8tMjNhTWd1RDhQVlBvVXdETnB2ckdXcEplMnJOak0yZkZUbTZDT3BRNzZjYWR0SVRDZHVmNzZGb2FGbFptbE1SMmpZSERmRDJqZkhWWWpEMWJ0QncyRm9xdEJZY3BuZnA1WWM5VzJrTm1GaS1yVzdaRDBqSy15aDlFd3hwQ1BsbVp1ak5ZRlAzLTl4RDd6a1B0c0YySE1wMmhhc1lMVi1acnZRVVV5UQ?oc=5>
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879849812_1d5acf754019014qci.html>
 
-### 特朗普：美国已从委内瑞拉石油销售中获利超130亿美元
+### 周杰伦、王源、那英都来了,2026年下半年这些演唱会别错过
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-07-27 21:20
-- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRUJDR3g1X1NHWWRsQ0wzV09DcXZ4TGZaSXlHWDJ4eHA3NElIRVpQVGRPNlUxd3RjOVpaRHZNTVpIa0stcU1LN1ZpTk1iOU9yNDkxb0xNYUFmc2x6eS1fWWhsbzZyQ28talZPUkpVZGJIdTIyVlhsZjdWWW5MbnlUZXhxVUZoekhkMDhpTGhYblljZ1RTRFE4WHpqcDlYM1FGMW5RN3N0YmVkcGlvUWI0ZFhmYjNwa3RzUlhlQ1NrQk9sNFR6RDF2Q2JVSnQwd3B0d2c?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879996589_1d5af34ad01901ptwe.html>
 
-### 特朗普称有耐心与伊朗达成新协议
+### 特朗普总统：关税政策重振了美国汽车制造业
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-07-27 22:23
-- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxPbFB2d051MEVWOVlXTmswaGJDOHA5N3RtaHJOdk5MZ0VsTENfWVNBMkJmT2JYUnR4Nmh3cGpETW9DbDFjX0VsbHJKbHJwRmRPdmQ0NVdid0wyc1JBWS16VnYwZG91V2daa3hXSmdNSExvaHphckpMWGptV1Q4NGdoMG1xN0d1R004dVJfMTR1RktXMzVSdjZ5UnQ4bEJXLWJk?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-07-27 23:09
+- 链接: <https://news.google.com/rss/articles/CBMivAFBVV95cUxNY2lkdlhwMnBuMmpTdUV0bC1FejUxT2xOcWJINGs3VnFhMTZMel9yN1Fwd3pMV0tVQUt5MUwwWXpzRjFZdWJaNzg2bklYdjZ3Q091Ml9NREpQYzl2bW44SjRrNzFvTXpBQWJBLU5Lc08tQnZxQW4zMkpnMGx4Ri1mNFh1WGc0MjV3cU1GZ2RwQVNvckZNMFFTZGZIOGx3ODN0a0t3R0VURE5wckptTXFjWnR1NmJQRjJNQ2RCQ9IBvwFBVV95cUxNejVHWldKeEwwUGpiZXlGb2hjVGZwX2k4N1dMbDhRZEx1TE1hamlHMVlNcUVucExwUEs3eGxqZG5WYlk5VnJoUDZscmZxQTFBNFpVeFBCcWFiSlRkQV9ZZUtqdkZfVGpXU055eGhDckI1WEtLcnJ5U2dZaElkN0Uxelltd21uMHhLVHdwc1ByMFA0Q2N4YTZvQ1RMVldGNnpwdW9xbHlCaWFVOTN4VlRTdGxVdlZXU3VIb2k0Umpvbw?oc=5>
 
-### 特朗普：正和伊朗进行“非常友好的谈判”
+### 特朗普：有足够耐心与伊朗达成新协议，否则就开打
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-07-27 22:47
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1sRnpRcThBUFE3eXV3SHBXaDQ5NU5qY0QxQkUwa1hpWDllaHZhM1ZPTzdIS0NkQWg2VDZfRjJxQy1SeWZRN1hmQjV1TXFTMU15Q0lrTkdKUHNrUTMyaUgycWtrUVprbUhr?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-07-27 22:21
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBHRno4a0ZYWG1ibkhDSFhSYVB0d252a0dfY255Sk10dGxCdjd0Ny1TS0ZvN0NqcXRvT0dob3Z5dWl1M1FnbEpRNENfeXNQRGY1VzBHcFd5UzJwS3pUdy1Ga0NXSl80V2E3LXBjLTdyTUNzWGJ5ZXBlUw?oc=5>
+
+### 特朗普再威胁恢复打击伊朗 中东冲突或多点爆发
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新京报
+- 时间: 2026-07-27 23:31
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hZWJLZTdtZ3pocjJjRzRJRldQa0tmMlVFQ0lYVy14c0N6ejE1aXJncF9OemhkYUhkNVBvSlIySFYxaXEwZjBGLWhTQlptcWI4RWZhNHBGb2h4Y290dVpLNEt2S2s?oc=5>
+
+### 特朗普将在白宫会见两位重要客人
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-07-28 00:11
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9DeXJlbTdTNENBdkVWZ3JNOVJLUTUxalhRQkViVHdVSjR5bURRTUVMV0ZvVzZmT1F5ZXZVdzlueE1GU1F4WThpT0lWVXo?oc=5>
+
+### 特朗普称美伊“积极谈判” 警告若未果将恢复打击
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-27 21:56
+- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE1kRlRiRnpIbWhyMXhLR3R3VlktM2NZQ2xHOUN2VnN6VDNPSnRHZzFzaE5zYW0wOWg5ejJJOVZIb3cyR0p0cExQTXFkdWNkeHJxQ09MMHhydzRzSGFQRzMtVWY5RE9udmlhcy1maDA2Z3FqSWpCdkpBSm1n?oc=5>
+
+### 打击伊朗 特朗普被迫按下“暂停键”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 天津日报
+- 时间: 2026-07-27 22:00
+- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxPbXpTWkRaeHBCbm1kbnhfSWJQWlpCN21vLVUzREpWNEpuMG1TZURkbGhENnpiRUd0eVFid3hkMDBoam5ZYjFxb3JIcHN4dnpsOHhLMnhMdTUzQTFMQXRkNW9ReDdpekdrdVotVjF4enZTQVdycDJIYXAyY2V4NUthRzRR?oc=5>
+
+### 特朗普政府即将敲定自愿性AI监管框架
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观点网
+- 时间: 2026-07-27 23:27
+- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTFBacnIyTXh5SFdyYkN3cl9oQnBsenl5Um1hUGlUdEs2X1BJeHVlODF1S3pMaVh3U2pXQUUtMC1DbUFPQTdjM0J6cmVpOGNDa0lHR0tVcTJUajl0RndwbWJFNXl3?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-28 00:53  (9 条)
+
+- **王一博** | 王一博带你看:LOEWE罗意威2026秋冬系列发布!_Loewe_品牌_皮革 <https://k.sina.com.cn/article_7879849812_1d5acf754019014qci.html>
+- **周杰伦** | 周杰伦、王源、那英都来了,2026年下半年这些演唱会别错过 <https://k.sina.com.cn/article_7879996589_1d5af34ad01901ptwe.html>
+- **特朗普** | 特朗普总统：关税政策重振了美国汽车制造业 <https://news.google.com/rss/articles/CBMivAFBVV95cUxNY2lkdlhwMnBuMmpTdUV0bC1FejUxT2xOcWJINGs3VnFhMTZMel9yN1Fwd3pMV0tVQUt5MUwwWXpzRjFZdWJaNzg2bklYdjZ3Q091Ml9NREpQYzl2bW44SjRrNzFvTXpBQWJBLU5Lc08tQnZxQW4zMkpnMGx4Ri1mNFh1WGc0MjV3cU1GZ2RwQVNvckZNMFFTZGZIOGx3ODN0a0t3R0VURE5wckptTXFjWnR1NmJQRjJNQ2RCQ9IBvwFBVV95cUxNejVHWldKeEwwUGpiZXlGb2hjVGZwX2k4N1dMbDhRZEx1TE1hamlHMVlNcUVucExwUEs3eGxqZG5WYlk5VnJoUDZscmZxQTFBNFpVeFBCcWFiSlRkQV9ZZUtqdkZfVGpXU055eGhDckI1WEtLcnJ5U2dZaElkN0Uxelltd21uMHhLVHdwc1ByMFA0Q2N4YTZvQ1RMVldGNnpwdW9xbHlCaWFVOTN4VlRTdGxVdlZXU3VIb2k0Umpvbw?oc=5>
+- **特朗普** | 特朗普：有足够耐心与伊朗达成新协议，否则就开打 <https://news.google.com/rss/articles/CBMieEFVX3lxTFBHRno4a0ZYWG1ibkhDSFhSYVB0d252a0dfY255Sk10dGxCdjd0Ny1TS0ZvN0NqcXRvT0dob3Z5dWl1M1FnbEpRNENfeXNQRGY1VzBHcFd5UzJwS3pUdy1Ga0NXSl80V2E3LXBjLTdyTUNzWGJ5ZXBlUw?oc=5>
+- **特朗普** | 特朗普再威胁恢复打击伊朗 中东冲突或多点爆发 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hZWJLZTdtZ3pocjJjRzRJRldQa0tmMlVFQ0lYVy14c0N6ejE1aXJncF9OemhkYUhkNVBvSlIySFYxaXEwZjBGLWhTQlptcWI4RWZhNHBGb2h4Y290dVpLNEt2S2s?oc=5>
+- **特朗普** | 特朗普将在白宫会见两位重要客人 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9DeXJlbTdTNENBdkVWZ3JNOVJLUTUxalhRQkViVHdVSjR5bURRTUVMV0ZvVzZmT1F5ZXZVdzlueE1GU1F4WThpT0lWVXo?oc=5>
+- **特朗普** | 特朗普称美伊“积极谈判” 警告若未果将恢复打击 <https://news.google.com/rss/articles/CBMiekFVX3lxTE1kRlRiRnpIbWhyMXhLR3R3VlktM2NZQ2xHOUN2VnN6VDNPSnRHZzFzaE5zYW0wOWg5ejJJOVZIb3cyR0p0cExQTXFkdWNkeHJxQ09MMHhydzRzSGFQRzMtVWY5RE9udmlhcy1maDA2Z3FqSWpCdkpBSm1n?oc=5>
+- **特朗普** | 打击伊朗 特朗普被迫按下“暂停键” <https://news.google.com/rss/articles/CBMiggFBVV95cUxPbXpTWkRaeHBCbm1kbnhfSWJQWlpCN21vLVUzREpWNEpuMG1TZURkbGhENnpiRUd0eVFid3hkMDBoam5ZYjFxb3JIcHN4dnpsOHhLMnhMdTUzQTFMQXRkNW9ReDdpekdrdVotVjF4enZTQVdycDJIYXAyY2V4NUthRzRR?oc=5>
+- **特朗普** | 特朗普政府即将敲定自愿性AI监管框架 <https://news.google.com/rss/articles/CBMiYkFVX3lxTFBacnIyTXh5SFdyYkN3cl9oQnBsenl5Um1hUGlUdEs2X1BJeHVlODF1S3pMaVh3U2pXQUUtMC1DbUFPQTdjM0J6cmVpOGNDa0lHR0tVcTJUajl0RndwbWJFNXl3?oc=5>
 
 ### 2026-07-27 23:10  (4 条)
 
