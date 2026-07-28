@@ -1,80 +1,105 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-28 06:23**
-- 本轮扫到 7967 条, 新增 **8** 条
+- 最近更新: **2026-07-28 09:14**
+- 本轮扫到 7977 条, 新增 **10** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (10 条)
 
-### 特朗普将与内塔尼亚胡在白宫会晤
+### 26岁王俊凯周杰伦演唱会连唱3首，40首歌超时罚钱？完整版歌曲为何让粉丝疯狂求源？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801elgm.html>
+
+### 答题、转盘识骗局，解锁新玩法！/审批通过！周杰伦将来武汉开演唱会
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://finance.sina.com.cn/wm/2026-07-28/doc-inikivuc2557806.shtml>
+
+### 会晤前特朗普撂话：没有美国,以色列早完蛋了！
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: video.sina.com.cn
+- 时间: 2026-07-28 07:32
+- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxNam42bFVqYmNyUTgwUHdyYXFXYTRpRnl1eDREMW1jVWZSTlJUajFZTW1ZT0hPUnpNMlczREY0eUt5dEVtZmVVZnZBTjl3eW40RXVPWl9jN1VzV0k2QUoyWnI4NXBSVTlQZnVVUndkYkpRRTBjdmZQY19iZWxJU2lBcDVR?oc=5>
+
+### 7月28日外盘头条：特朗普称若谈判破裂将强力打击伊朗 苹果重夺全球市值第一宝座 英伟达循环融资再引忧虑
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-27 23:41
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE4zaWpnR0VtTUN2WElVNTNBRnBZWHJtT2lBVTVQV3ZsWnVTOXpVQm5ic0E1YkQyQTZKSTFNOGRRWXpJR1k5ZFV5X0tFeGVhWDZTal9ZM0Q1Rk1fSzRQMF8tTDRfRWdCN2ZoTzdWOFVRZ1VrSmtFQ3dmWg?oc=5>
+- 时间: 2026-07-28 08:57
+- 链接: <https://news.google.com/rss/articles/CBMimgJBVV95cUxQS3BrcElEUEtJcmlBc1J0TnMyUXpZamgzUWtRcml1ZFJPWG5KRDZ6SnBfc0wtTHFSdkRYQ2pWYTJ1NmxGZVlOTkxtTXJvQllzWjhTY201SVpWWnRMLU9zLU1DRDB1TkhlTlBtSTlpbTFCMWh2Q1RuQlNOdFlBS21uV3NBY3RKVjVZcThxM1IySGVqd0xvUW44MFBjSlRPLWVFVDR6WURrTUQ1a3BFdHZHZC1MOXB6c09fd2ZpMzhrNzdKMDExdDhMVWc1c1NJaktmR3haRlVjakUzVVQ2TTVRZUU3Ti1XazlMUENPSmNrRWtEU2IzeEhBS2NKb0FvblNrZWN3anBWWU1RaEE4SmNGaUU3ZkdaOEI2Wmc?oc=5>
 
-### 特朗普：没有美国以色列活不下去
+### WTI扩大跌幅 特朗普称美伊正进行谈判
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-28 08:58
+- 链接: <https://news.google.com/rss/articles/CBMixwJBVV95cUxPcFFJamx6dGhyaEVwS2o4SWJfSmMzc2JLcTY3S2otNHEwajRXQ0xETmw3SUd4YWFnRkVDeS1sZDNIdTJwdWp6YnpVME1DUFpBa1R4TndUZVgtNzVmZzRPSnNYTXJQNmxHZGtFTDFEbVUwR1k4MHI4OXBNVGRLdUhMN2Q0Y1phbW9MMVJudi1vUTVUVDhBaFN5LUJzX0J0bnhTTjFNbW5xbTlhd2NBM0hXdzhzTUtUQkZKVno0SGpONkx3bzllc3RwZVZhY3dCc3dCMW1HR0RhS0dZRU1ieEhESXRob2N6Q3NRVWtySTYySzlTeFB2dzdmM1lzbWtINEJZX1pwRlZMTklDdGYxV3ZXS1cyRTFSaVgyT3VxeGJOd0JMbC15c25KUnRVYnZfN0dtZGc4YXNETjg1cW5aVnRkb1VqcFZBbVk?oc=5>
+
+### 美伊停火延续至第三天，特朗普称双方正进行“深度谈判”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: finance.sina.com.cn
+- 时间: 2026-07-27 16:57
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdV9XdXE1TE5IWWRtYUpqNF9qWmFmOFJ5V2F6LXJDa2pQUlNPOFJHbnBqVTNEc3lUbzJibWdTbHFHaE5NQ2RjQVltVVV4dm9kRHN6Mnlmd2lNQVdNYkV0ajRpbjV5S3d6TjJqRTZKNzdSVEUxME4wWFFrT1J2R1VKUUJQYmFzRW5SeHlzSUFkaUtoaXBtUmNUYU9YX1dsam5hTW1jZGdUbUpDWXBUOGp2VzFKS2RraDFMaUZ5Q2FOWmxHaUNCd1Mzd29wb1hsNzBY?oc=5>
+
+### 视频：泽连斯基抵达美国，将和特朗普会晤
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-07-28 02:46
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5FMzdVcUtZVmUtTlJfWkd5bl95RVpQU0lWeWVYMjFhZVk1bkszb3RzaXFqcHBKZ1dxak1FeGxkV0RWdmFUWWNsWGU5bWY?oc=5>
+- 时间: 2026-07-28 06:18
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE0zQkM0Z1A2ZTdrVFk0d2tnYkVmLTFkTTVpLU01Y2ROOFhhNmwwclczay1JdWlnV1d5TDk2X3pvRjV5a3YzTzNoYjZLajY?oc=5>
 
-### 山姆・奥特曼本周将会晤特朗普政府官员，其沟通核心内容曝光
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-28 04:51
-- 链接: <https://news.google.com/rss/articles/CBMinwJBVV95cUxQU2xxRDl3WDVDUl84dkhwbnJYXzdHbTZVeGhmVEFRVG4zb0tPUXpiYlZMT05ZZzcyQ3JXeWJmU0NKaGRGVHl5bEtEM1FuOW9YTU95RkJ3NWN3TndQRmduOEUtaXhVd3JNTTJzSnhhaUdGd0xuZVpRQVcxQjktVzhuc0psd2JaS3pINDhVQWE3UUdlZTJpQzZsQnZkUWlOMXNPaTZ5NXRPRW40czFibEJHakdYTzVJS21SS1A2eWtjTGQtS0kzMWlGeENXNGNyZmV1c0x2Y1FLSThteFRJejJ1MTVySnJIeFg3a1ctQWx2bERlUURvM3ptX1FrNGR5NlJEMUFZcTZ3QVlaQzZmMmZUX1ZFMFM5Y1VYczFVRE9qbw?oc=5>
-
-### 乌克兰总统抵达美国
+### 戴庆成：特朗普11月会访问香港么？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-28 06:01
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBFTzFGUDJpVHJ0SXVvWXNFbHR2WFZyeTZOTnd3eGdQbGdmQnhxLW41TTFiNjQ4WHJVTGh4elJNUWpTZUplV2hSR0tzQXcyV0NnRXJOOFA0Z3pVLUo2eW1fWTBBejQ4VWtFOWtxSUxhaHVNS0lKYUp6ZA?oc=5>
+- 场馆: 联合早报
+- 时间: 2026-07-26 21:00
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1DV0otX1RtOGUxdDltSW1ZYkNJd2g1aWIwQ2d4WE1fSjFRQ3Zac3dzSmtIR1hKZlUxYjJ3Y1c1WVBRMUJlVzJEaWd3eGZwa200ZkY4MDg4aVJ3S2Fwam5kRHNabUZhdw?oc=5>
 
 ### 特朗普称若谈判破裂将强力打击伊朗
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: china.zjol.com.cn
-- 时间: 2026-07-28 00:16
-- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTE1ONHVvYmxrdlpZYkV6bV90eV84WlB2bDByanU5VkpIdzF3NjBLU0lnRFJjWWtpZTRvZE1YT3o1M1dnZG9uWHJkNDJBU2E1OXY2RHN3Z3M0MXUwME5neFhNN0NqakxLRVQweDNGOEp3?oc=5>
+- 场馆: 央广网
+- 时间: 2026-07-27 16:26
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GQWp1bXdMWTF2Sm1HTVIxdzJiZFU1UTdnbjA2OUdFc0JUbjc5NXFNMmxwQzRIMkIxdmxXbWlZdTkyQ0xLa01nQnVkREpfNVVxbmVmcDdnZy1Sc05rbHhrM1czcDdvZXVq?oc=5>
 
-### 600名以色列前高官联名致信特朗普 警告约旦河西岸局势或升级
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 央视网
-- 时间: 2026-07-27 22:11
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBSUkRYUGtFemw2TGNyRHlEeDctOUFKa0JGeU1QTi1FNDh4YjdKZ2pweV9nX2ZmUFZ2TldoRFhib3BqYUNXcWhJQ2FKUDRkOHlvazRRcnNTOFJSLThQWHpWcWhzQUF1dTAtUlNnX3lTaGd4Q3Rud3JJZw?oc=5>
-
-### 特朗普连发数十张AI图：化身“超人”拯救华盛顿、与肯尼迪合影
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-27 05:18
-- 链接: <https://news.google.com/rss/articles/CBMihAFBVV95cUxORTFUVndoWlNXTmNsOFJYUE40UllwckI4VkRFUE5HWk9CSUtmb0VhMDBWc0JGOGZSbDRXNXNiQTZRUHJ3a0lNSDhyOHNHSTBWTGEtaS1pdDQ3dVVMcWR3N1lGeWUxbTF4VU5OZlJiSnFPY29mRklXMUFyQ2s1SmVJUlpPcW8?oc=5>
-
-### 巴西警惕美国试图影响大选
+### 特朗普对肯尼迪加大施压，要求减少儿童疫苗接种项目
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: 华尔街日报中文网
-- 时间: 2026-07-28 04:28
-- 链接: <https://news.google.com/rss/articles/CBMingFBVV95cUxOX3BtSzltRngxbDVGWnE0c180SWdUVUIxanY5UnYzTENZUFFvSnVjYTI3bEpPWXBLZGJreXU4ZXZUTmgyWmdJSTExMDhndjlOSDhvcDhreUd2b3IxM1U2YXVMQ2lFRDl5bm8zaUZveEd1Tmx3Ri1oNHNOTjV3aHRKQTZoRzZidi1CMXg0Tm8xY3FpU1B2ZWVtWWdwcTdrUQ?oc=5>
+- 时间: 2026-07-28 06:45
+- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE54bXBkOHZoazhpT2YtME5LRFBxakVlelcwbjJGeUY2Q3htX3NqN1I2U3QyQ2tWMUplMmxYeTBfdk9feFVUWERqNnlISVE0N2NBSWlEQXI4bTF6MjhiNy1YS1QyNm14dW82Q0dWUkhpcTlkc1NTUTk4QUl3?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-28 09:14  (10 条)
+
+- **周杰伦** | 26岁王俊凯周杰伦演唱会连唱3首，40首歌超时罚钱？完整版歌曲为何让粉丝疯狂求源？ <https://k.sina.com.cn/article_7880068204_1d5b04c6c06801elgm.html>
+- **周杰伦** | 答题、转盘识骗局，解锁新玩法！/审批通过！周杰伦将来武汉开演唱会 <https://finance.sina.com.cn/wm/2026-07-28/doc-inikivuc2557806.shtml>
+- **特朗普** | 会晤前特朗普撂话：没有美国,以色列早完蛋了！ <https://news.google.com/rss/articles/CBMiggFBVV95cUxNam42bFVqYmNyUTgwUHdyYXFXYTRpRnl1eDREMW1jVWZSTlJUajFZTW1ZT0hPUnpNMlczREY0eUt5dEVtZmVVZnZBTjl3eW40RXVPWl9jN1VzV0k2QUoyWnI4NXBSVTlQZnVVUndkYkpRRTBjdmZQY19iZWxJU2lBcDVR?oc=5>
+- **特朗普** | 7月28日外盘头条：特朗普称若谈判破裂将强力打击伊朗 苹果重夺全球市值第一宝座 英伟达循环融资再引忧虑 <https://news.google.com/rss/articles/CBMimgJBVV95cUxQS3BrcElEUEtJcmlBc1J0TnMyUXpZamgzUWtRcml1ZFJPWG5KRDZ6SnBfc0wtTHFSdkRYQ2pWYTJ1NmxGZVlOTkxtTXJvQllzWjhTY201SVpWWnRMLU9zLU1DRDB1TkhlTlBtSTlpbTFCMWh2Q1RuQlNOdFlBS21uV3NBY3RKVjVZcThxM1IySGVqd0xvUW44MFBjSlRPLWVFVDR6WURrTUQ1a3BFdHZHZC1MOXB6c09fd2ZpMzhrNzdKMDExdDhMVWc1c1NJaktmR3haRlVjakUzVVQ2TTVRZUU3Ti1XazlMUENPSmNrRWtEU2IzeEhBS2NKb0FvblNrZWN3anBWWU1RaEE4SmNGaUU3ZkdaOEI2Wmc?oc=5>
+- **特朗普** | WTI扩大跌幅 特朗普称美伊正进行谈判 <https://news.google.com/rss/articles/CBMixwJBVV95cUxPcFFJamx6dGhyaEVwS2o4SWJfSmMzc2JLcTY3S2otNHEwajRXQ0xETmw3SUd4YWFnRkVDeS1sZDNIdTJwdWp6YnpVME1DUFpBa1R4TndUZVgtNzVmZzRPSnNYTXJQNmxHZGtFTDFEbVUwR1k4MHI4OXBNVGRLdUhMN2Q0Y1phbW9MMVJudi1vUTVUVDhBaFN5LUJzX0J0bnhTTjFNbW5xbTlhd2NBM0hXdzhzTUtUQkZKVno0SGpONkx3bzllc3RwZVZhY3dCc3dCMW1HR0RhS0dZRU1ieEhESXRob2N6Q3NRVWtySTYySzlTeFB2dzdmM1lzbWtINEJZX1pwRlZMTklDdGYxV3ZXS1cyRTFSaVgyT3VxeGJOd0JMbC15c25KUnRVYnZfN0dtZGc4YXNETjg1cW5aVnRkb1VqcFZBbVk?oc=5>
+- **特朗普** | 美伊停火延续至第三天，特朗普称双方正进行“深度谈判” <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdV9XdXE1TE5IWWRtYUpqNF9qWmFmOFJ5V2F6LXJDa2pQUlNPOFJHbnBqVTNEc3lUbzJibWdTbHFHaE5NQ2RjQVltVVV4dm9kRHN6Mnlmd2lNQVdNYkV0ajRpbjV5S3d6TjJqRTZKNzdSVEUxME4wWFFrT1J2R1VKUUJQYmFzRW5SeHlzSUFkaUtoaXBtUmNUYU9YX1dsam5hTW1jZGdUbUpDWXBUOGp2VzFKS2RraDFMaUZ5Q2FOWmxHaUNCd1Mzd29wb1hsNzBY?oc=5>
+- **特朗普** | 视频：泽连斯基抵达美国，将和特朗普会晤 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE0zQkM0Z1A2ZTdrVFk0d2tnYkVmLTFkTTVpLU01Y2ROOFhhNmwwclczay1JdWlnV1d5TDk2X3pvRjV5a3YzTzNoYjZLajY?oc=5>
+- **特朗普** | 戴庆成：特朗普11月会访问香港么？ <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1DV0otX1RtOGUxdDltSW1ZYkNJd2g1aWIwQ2d4WE1fSjFRQ3Zac3dzSmtIR1hKZlUxYjJ3Y1c1WVBRMUJlVzJEaWd3eGZwa200ZkY4MDg4aVJ3S2Fwam5kRHNabUZhdw?oc=5>
+- **特朗普** | 特朗普称若谈判破裂将强力打击伊朗 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GQWp1bXdMWTF2Sm1HTVIxdzJiZFU1UTdnbjA2OUdFc0JUbjc5NXFNMmxwQzRIMkIxdmxXbWlZdTkyQ0xLa01nQnVkREpfNVVxbmVmcDdnZy1Sc05rbHhrM1czcDdvZXVq?oc=5>
+- **Trump** | 特朗普对肯尼迪加大施压，要求减少儿童疫苗接种项目 <https://news.google.com/rss/articles/CBMiekFVX3lxTE54bXBkOHZoazhpT2YtME5LRFBxakVlelcwbjJGeUY2Q3htX3NqN1I2U3QyQ2tWMUplMmxYeTBfdk9feFVUWERqNnlISVE0N2NBSWlEQXI4bTF6MjhiNy1YS1QyNm14dW82Q0dWUkhpcTlkc1NTUTk4QUl3?oc=5>
 
 ### 2026-07-28 06:23  (8 条)
 
