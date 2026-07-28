@@ -1,72 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-28 20:40**
-- 本轮扫到 8021 条, 新增 **7** 条
+- 最近更新: **2026-07-28 21:57**
+- 本轮扫到 8023 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (2 条)
 
-### 特朗普总统发表声明纪念韩战停战73周年，称“美韩同盟是印太地区和平的基石”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-07-28 19:42
-- 链接: <https://news.google.com/rss/articles/CBMi1wFBVV95cUxOX2p5UHYzQmxPNkU0N0o2cHV3MG84RFdJa2VxR2dNaE5NSWVlSUJlZ3BUWTRWTGh1bk1fWjVGYWw4dGZIYUtMTnp6TDZJeU9tVG5WZE5jc2RheUpfXzFqeEY1Qk1XVFpVeUtUWXUtVmY0bGRXaWUyNFBfRlYzT1B2dEt6RDZCRGxBRFpoUWhLRFRQRXdzNEdMZmJnSVFsc1VfUnRTbmpTSnNHZ2Q1MEpDWXE1TElKbk5KdVFMRHNsekZvN1lNN3NLWWRMTGZseFJrMnpPcWk5TdIB2gFBVV95cUxQb2gtWmQ3ekttY2I5d2ctcnlCZENfVW9haEZqbk1WZ21rcklYTWNkc2prQS1tUVBrTE9XRkhYQVJtSXYyNGprUkdXaE5mNVBCZW9rTmEyd3RTTlAtclFsWUI5d1V4b3BRZXZIaUtnbVVpOEdLT0ZveWRTYUtOM3diNDVYb0VOT3ZFZHBPVHZYdjVfaDZQdlFWc0NkeWY1T2R3TFQyNWtwaVFONmllenJkdmZhc1c4LXlWMkFQWEsyMFhKVEJaWVNOMENGY2pVOGNWLUw3SzhZVS1sZw?oc=5>
-
-### 内塔尼亚胡称与特朗普进行了一次“极佳的会晤”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-28 19:02
-- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxNbUJmbEU4QjNXa0lOeFMyMXh0T1dXLU1BWHMxSzRtSERIR3NXSUV4aUotM21sNVFKN2hYQjQyQTBqdm81R3pkZ3BXRUdRRTFZZWJ2cDdndU1aN1VPYlJiWDdaRG9ETWRLR1ZORUl1NFprWnJuVm15dUtLTmhFNXBCLVY3MDFNMzFiMzhnNmlTMXRhRVFYRDA1OVczb19uUVRW?oc=5>
-
-### 仅有1/3的美国人支持对伊朗战争
+### 泽连斯基与特朗普磋商爱国者防空系统
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: RFI
-- 时间: 2026-07-28 19:29
-- 链接: <https://news.google.com/rss/articles/CBMi_wFBVV95cUxPVFhCUnhyZF9tT2NHMEhQdzlSb3dxS0lvV1lremY4TWpxVTlCU3UyQmpHemVYN1RjY29LbmdtWk9IZEF3Yl9TaHk2aGdodVZndGlkbXZOTDlOc0t3aUtiZl9MM0FuLUI2MTdvRHNDVkJyY2tCd015SXBKWEo0STRhdUJnTXhScjAwMHlXb0FFbTVOVVh4ZkNMLV9EVW5URUxJc2s4OTBxYzd6TW9GSV9ZbGZ6MHBxTklOR3BINjUtaGpwSzg3aFN6ZE9OREdhVEl6Q0JQd0psZEtURE9jTlZJSFdvV0tKRGU1cDV3ZkRGOHJFdGFkT3d6UGxuWkQwN00?oc=5>
+- 时间: 2026-07-28 20:50
+- 链接: <https://news.google.com/rss/articles/CBMiqwJBVV95cUxQUVcyUHVQUXpvbzJnODZ4YlM0dXJobTJNeHlrRmlGeUpsNXRVTWRyNGs5MU03RUVVOUJnWTBoR0pWeGo0bEdaUTljQXo2bmxJZUFJWjhsUFJxczlsMzA4RXNQTnk5dEhSSjRSdmtseVQ2TWpxWFp3X3hRbk54eHJobC1nNzVEeG5EX3hQbDl1RmlsV25ZOW15a3Z0OF96MWlMMGV1cFpUVzBjX3hXNzFYVjFmX3hPNlVxWkttaWl3dS1mVG9WajhuVk9KaldPWFN2RXllV01EdnZKbmhYcWVUT3dRLWdlTnpFd19DMnVuVUNrLVJBc2FOVTI1SEh5SVI4ZVloMTBiV05BaHFwYjJlcmxMS0hLdlZabUM5NEg5Zmo4LWY0eXhGdmRXQQ?oc=5>
 
-### 特朗普公开支持美联储主席沃什 敦促降息并指责部分美联储官员“动机不纯”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-28 08:12
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxQemtXdXNvU21pSUVNdEYzQ3lLSV9JUzNLWmJJTlE2VWV4TV81ZHRYc056a3UtVDNNQm5HQlZ4ODRBbXEwR29nS0RpZ0w4Rzk4Zm5DRU8yYktXazhUMTUxdUs4aHE0Ry13NzE4eWpOMWdFR1cxMmFjUlpNRVRGcFl5NDBLV2JyYVE?oc=5>
-
-### 特朗普：新关税与最高法院裁定违法的关税“在做同样的事”
+### 这一次，可能不会按剧本来
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-28 14:49
-- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUVUyWU5TeWpVdVhmNGhuWGFETlFhMjVteTBYSW1JMm1KdW1mVFJEU3Z0ZWlXdm5MUjlGZGszblRUSDRDOTczbnVIdHVmR1Q3T2o3TmhFbE8yZ0QzOC1jZHpXM1d5M3dhZWVqbTdiX3k1bzlZRXVkY19yVy0tcTRoNlRwcC1Fcmh5bFpqT1gzQVVuZnNYR2VyNFJTM2ZoODE4VmNCWHZKMFk2WVBVYmF4Yi1RUkVDYjZyaUZJM1pabmJxQTlidC1KUy1BMEY2ZUtVRE0xeUdGOGtSbDJ3WVE?oc=5>
-
-### 特朗普总统在已故参议员格雷厄姆追思会前同乌克兰总统泽连斯基白宫举行闭门会谈
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-07-28 20:21
-- 链接: <https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYjdSQW5qVGl4TjQ1NndWSGpwbmtFaHhKT29xZmxTZUdGS1FpYjVHdFpPWVlsVDNsWDdmRFE3WE00TWJYUFB2N3RLcmlTQjI0VEZOVFFkRE04eVpiV0htelZqaDB6Tk5iOUY3eHlJa3JHUUNIRmhuR2tNbUluTER6V0dUX2piUUVUcFFESGo3c1ZIanE3UHN2YTcyZmNMRm1ZNTkycnl3dzRpaVlWNTJzS05jRmc2YkxKOTlac01MSEdoNTlXbXlBTVZNNlRtdnVONm9JT0pJUdIB2gFBVV95cUxQbHVyOVZaNGowMjdXWF9ibVF4UzFuUFFlVkpId1RjWjhxaVd0eGZCZGJ4Q2U0WXpXYk54UnRBalFsMzdyMzNNWk1HWVNjWnk0cXNja1lVaUpPRzNpaXpFaVptZURIRFJWVGtac0Z5N3I3Q01nWTlYLVk1b0Q2TUJhOXlnSzFnUm92VUM3dW91cl9wSzhENF82b1hMMFpCWVNPOEpjQWY5bG4tNkNMZTRZS3F0c01ZN29UTkxNR2JzLVB3VXp1QjU2OWNBZG8wUEw5M3U5V09WMFJXUQ?oc=5>
-
-### Trump Administration Moves to Spare Space Companies From Environmental Reviews -- WSJ
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-07-28 19:50
-- 链接: <https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTEMyR3hOdENvd3hVdm5CM0JjanBBY3ZSMW01dWoyMlE2ZldoaWNMWWhMMEQ2cElPbFhNUWw0R3BwSnIwZExrTzlSYkhZZHIxcUpGNWk0VU5QWlo1TkdtRndDT0d4UmlHRkQ4dS1rZlBsU3Qwa0dxMVNwTG1JV2s2ajdqakhkQkFuNG56OExTUmVCOEVsMnRPWWdxRUNiaWgtS2gzX1p4Wk14Y2JUYmt6MW13Q2xYeTFTdTNHS1QtRVhmUTQ?oc=5>
+- 场馆: 观察者网
+- 时间: 2026-07-28 14:59
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFB6RXk3RkZKRnV5MTFlWjFUMFZObmdSWnhPSG1scEpPZ01MUkJkNTM1blFvd3pnaUJ4ZTRYcjBsWEpCbjd4ZnNkZmxlQW41ekNHcG1aaTZ4QWpNZHk0bnNITGppcVlqd25nWVE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-28 21:57  (2 条)
+
+- **特朗普** | 泽连斯基与特朗普磋商爱国者防空系统 <https://news.google.com/rss/articles/CBMiqwJBVV95cUxQUVcyUHVQUXpvbzJnODZ4YlM0dXJobTJNeHlrRmlGeUpsNXRVTWRyNGs5MU03RUVVOUJnWTBoR0pWeGo0bEdaUTljQXo2bmxJZUFJWjhsUFJxczlsMzA4RXNQTnk5dEhSSjRSdmtseVQ2TWpxWFp3X3hRbk54eHJobC1nNzVEeG5EX3hQbDl1RmlsV25ZOW15a3Z0OF96MWlMMGV1cFpUVzBjX3hXNzFYVjFmX3hPNlVxWkttaWl3dS1mVG9WajhuVk9KaldPWFN2RXllV01EdnZKbmhYcWVUT3dRLWdlTnpFd19DMnVuVUNrLVJBc2FOVTI1SEh5SVI4ZVloMTBiV05BaHFwYjJlcmxMS0hLdlZabUM5NEg5Zmo4LWY0eXhGdmRXQQ?oc=5>
+- **特朗普** | 这一次，可能不会按剧本来 <https://news.google.com/rss/articles/CBMiakFVX3lxTFB6RXk3RkZKRnV5MTFlWjFUMFZObmdSWnhPSG1scEpPZ01MUkJkNTM1blFvd3pnaUJ4ZTRYcjBsWEpCbjd4ZnNkZmxlQW41ekNHcG1aaTZ4QWpNZHk0bnNITGppcVlqd25nWVE?oc=5>
 
 ### 2026-07-28 20:40  (7 条)
 
