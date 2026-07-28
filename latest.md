@@ -1,75 +1,65 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-28 13:49**
-- 本轮扫到 7995 条, 新增 **9** 条
+- 最近更新: **2026-07-28 16:01**
+- 本轮扫到 8003 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (9 条)
+## 本轮新发现 (8 条)
 
-### 特朗普：新的关税不会伤害经济
+### 周杰伦南京演唱会，开票时间定了
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://finance.sina.com.cn/wm/2026-07-28/doc-inikknrz0341828.shtml>
+
+### 特朗普将在已故参议员格雷厄姆葬礼前在白宫会见泽连斯基和内塔尼亚胡
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-07-28 15:49
+- 链接: <https://news.google.com/rss/articles/CBMixwFBVV95cUxQNEltNjVOV0JiY29BOFdxWGdXaHpDbnVRQjVZNmI5SVRranQyNmEtQ2l1eFd2SEZoQUllenFMakFRZmtZR0YzbEZjZ3VJRk1pcjgtbTR0NDVMenhnTXdlcXJaSG5PSXFYUWZfVHc2bGVyNUFLbW90dmNESmFFUnNaY3pGSEZudkxlNjdOU0drT3VLU1dhTC1rZDFKSmUxZnpCMkFlVi1iYmt5dEp0VVZ3d0lBd3FtU2RLd0FFWWJXa2JNWEFlN2lN0gHKAUFVX3lxTE94M05aVmJkdW5fRWxaRHZUM3F4S09mLTZZMGduZktSZXhuWjdxS0VrVnU2YVBFcWJycnh6ekZUNExPeGhmV3hkVmdzME5WS2V2ZUhqRFczcGpqVFA4TkhpaGJqLVc2TVc5b2JPYWxpa1pzRnhTdlFUSmkxOTAzRGIyZFV3QUM2TS1OS01fMk9jSng4d3F5c0pVNUNDcHNZTHViU3ByV2JxSU5oWXFIdnhhbGNXVWJJd0tNanVkMEkzZFZjUXpZbEFWRGc?oc=5>
+
+### 特朗普重申若未与伊朗达成协议将摧毁“镐山”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-28 13:34
-- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxPempBTnlTbFhrZC02WmYzd3kwQkxYQm1La1JHS0ZLMlVUZE5hQ291eEhHeVpCUE5nR3BRaWlBc0tNdURVcVl0YThCMXZNd2lpSl9WWmJwWkpzaFh4NS1QN19GSlUxcXNERy04aVlGYzBveTRxTW9TSkNXTjMyTEN4V1pBS1NHa0w3UTZlU09ydUdMTnRqNDQxSHIwRXVsQl9x?oc=5>
+- 时间: 2026-07-28 13:31
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9iMGN1NlhQZzJFSG5Wd0pmN19yZDU5RHdmeVBLRm9feXJHRXVuTk5qU0V4bHN0emNaY01rZVJQTDRpNTZtVDd6YXdQRF9fMGRNdGV5ZzNBOXhqakktQVB0QkY4S3RGRlVCRDNuSnhrTnBUeWE0OW1HRg?oc=5>
 
-### 美媒披露特朗普暂缓扩大对伊作战的原因
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-27 00:32
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFA4QnhjUE0yeTR1TFhCaGk4SFFSc09XNVpMR1dwWkdwQW5UaU1naHAzbTdORWZjTHl4MjNrenExV0JIWG5XU3R1SUgzTQ?oc=5>
-
-### 台湾、美国军火库存与伊朗：特朗普暂停战争，真的面临武器短缺吗？
+### 特朗普：要不是美国打伊朗，以色列早没了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-07-28 08:49
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE00ZWl0dVRwMnJueWllbmhJc0ZtUDZ1X3JuR0Fod2RUeWlreGNOczFaT0plY1p4YlVMd3R1eHBBMFBHcEdsN1JMQURYX1IxMlpjcUhqTXg0WWtSdXZPRXFUQVBYS3cyZ9IBa0FVX3lxTE1DWWE0ZV9OREJHWU5uWWt1cGotWHM3eTJZSkQyOUhWczRNLUNLQ2VxRG9RTTJfTEpzVkJWOVppY0pNbWQzNXExZC0yaUQ1aUk5Mmc4Y3p6MEhCX1BrYndLaG81UWgtWmF0U0tn?oc=5>
-
-### 要闻解说 - 乌战伊战交锋 白宫同一天接待内塔尼亚胡和泽连斯基：且看谁更受特朗普青睐赢得支持
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-07-28 10:45
-- 链接: <https://news.google.com/rss/articles/CBMi5wRBVV95cUxQcEtoTDlvdXdJM01Lbm8yZ3NBajBaYnlWb2p0QkhDN1ZjRGZtODZ1Z1ZKeWlfTk5fbU1tb0VRQTNQSzNRcHlhQ2FBUzktSVZESG0zcWdPZkJtZmdsaFc1QmtKRWhJbzJiNjloVmJvVGg3dzRyQ1ducDQwTzQtdXJQeC1RT3NaY254R2pCQk44QXdIN2gtY3JOcnk2LVdBLUJJcXJOaENPMVAwUFR4TTJ5VU8zdWZoSnhKX1doQ1hCaUJjTWV0WkNGUGR6SHRLc09nQlFMcjN4Y1J2ZXplaFlKYU15U3NSN2JkUFN4RUlfZEZiMGFROVVUbDRBLVFYVjdNSTQ3WklGbDlHMVRvMW5YUlZlcHQyVFNiaW9jS29rbXJXVFJvVWFsWEYtWFhpODVXUmw4aXRjeXpYeXJkeE8xbFYxaktLYkYyZy12S21MT2ZqM0ltZm95cDFQY1BRV0NXOVBLMmRJN1hQX2pVMFRrQlFtR2lsTThyYjNwZkhkNmNsZk9fcmg3NHpjMDRZdE9qZDFySVhYUGJtMzlvbjNMN0xuZHpFVXpkVmdLTExJdGcwVkQwaXFNZEhvZFloUWtpcG1SYXE2bl9ncV81THBNYWU3dHRHc1lpZXJ6cGozeDlIM19VVGxOV1RvbC1qMUNPZUFGQkNtb3Jmd2tRUXM5cUxwak03NFAzYVE0R3NhWUlVcUI3ejNjMDFFUUVVUXJIRExXY2s1Njd5V20yekU4dk9vQXF5ZHZ4cU1JTzBCYXhYZkx2cHhObVFkcWpRcDVIbVA2dDQ2R0x4bzRKYVJLMENWc3VYT2M?oc=5>
-
-### 600名以色列前高官联名致信特朗普 警告约旦河西岸局势或升级
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中国网新闻中心
-- 时间: 2026-07-28 02:30
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE5Md2pYY0dNd3RuMnZSaWRTZmpLVnJtR19scGhjaXFoTWtuRHNoSXh4RldXVnBIR3lNZVZWdFBPRThHZXFtN1lXa2R5bXVCcXBPdzU2ZnlQaU1IYnJrTEJoX096T08yMXl1eGtr?oc=5>
-
-### 特朗普接连发布数十张AI图 展现多种形象引发热议
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网新闻
-- 时间: 2026-07-28 07:46
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1YZy0wZGFPS3lQQU45NzdqaUtjbm94ZE55WVpMNmxTS1dRSUJQNnJTLVBjTmkxMjBVRlRFY3h4MThmbEJjNnBVYVBqdVF3RXVQcEMwcDJsLUtHVUMxQnU4TDB1TmJYS0R3eW9hb1phM08?oc=5>
+- 场馆: 观察者网
+- 时间: 2026-07-28 02:51
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5HR2h6UTdTQnQwSF8tNWxFUERzNDJlZmZsSHNEOE9pR0JhbEVhLVp2Vk1EMm9fT0JtU3BhYkR1NkRodVZBbllrb0tkcXM4OURlWmNhZUhYaGRmUk1pMmRKUWhmaFFTeHBhWVE?oc=5>
 
 ### 特朗普称在委内瑞拉、伊朗赚回本
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 京报网
-- 时间: 2026-07-28 08:50
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE9xRTNyV1g3RXc0NEp1UFU2eEtQZU82UmFoaHJ1am9VdVM4TFhQa2NKVXNZOC1EQUpJWmUyMnBZVmU4OG9aQ3lHMjE2b0gzVURoRU4wRjdDWlpsay1aSEtNblJWX3NkZmdIQ043ZDEwcjd6UQ?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-07-28 08:53
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5OdmJrYXRjYjVLUU1uWXRlb1U3cEdIMWtDLVpfS0w4alZidGNQMU9mZVZNR0IwNjRHbGlYbXBocE5sSEl5WDRkdl9vUkI?oc=5>
 
-### “TACO”模型精准押中特朗普反转，麦格理预计油市将转向供应过剩-市场参考
+### 特朗普：美国在委内瑞拉早就赚回本儿了，在伊朗也一样
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-07-28 13:59
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE45SUcxRFFqMjM1Zk8zVWxVSUN0M3hINnJibE5kUUNhZVF4VEJrMk1oU3dMWVc4VWxBdkFsQm5fd2ZNMnRPU0UwWElPVlhKTWlLQkJ3Z0lzOE81RkNYa3VFeA?oc=5>
+
+### 市场传闻：OpenAI和Anthropic正敦促特朗普政府扩大需接受政府审查的人工智能模型范围。
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 金十数据
-- 时间: 2026-07-28 12:40
-- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE13NEVxME8yQnBjd1BGaldtSWpiZmdWNnljcXd3c0MzZlBhQ3IwQU5iaVpzaVFKMWFiVm9ZbnBlODZaR0VuRHpmVlAxUjJLQnM?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-07-28 15:51
+- 链接: <https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQV9HQ1NqNFJ6VUJvWFNCMG16X29XNmhvb0E2aGkydW5KNWJEWWVJMHM1VnQyZUlUYnVmWUV2THAwdVhpbTRFdWpNcHNHbUNRLWFNYi1sQy13ODhJM1RmdktmRS1ZbDZFZUg1czVFRFBiQjF4Z0FCYmNya0lRbk5lTzljYTJwVTFnWTVXaEVWNmppWVAwUzRBVmU0NXdocVBWSUMzTUNndk9zSWtfa1duUE5QSEdzUFJl?oc=5>
 
 ### 从修昔底德到特朗普：世界应避免的三大陷阱
 
@@ -77,12 +67,23 @@
 - 来源: `googlenews`
 - 场馆: The Business Times
 - 时间: 2026-07-27 23:00
-- 链接: <https://news.google.com/rss/articles/CBMivAFBVV95cUxPakpYQzVYazJNa1VqamdaeTZ5SGhVZHE1Tng3LXNVbDAxSG52dHZxcEwwR2dGbUt1WTJvc0s0OUV5VlhXeUZZYmlJMFBjRFY3M1BUOFFQTHpJSS0tUjZuWHdPd2t5ajNpYnRBdnVKN1ZrcktvcVpvSjdxUnVhb2FkOHBmZlhLdm41RlJScVZ1NzFnS2FxeFJoMzBzbEc4VFVCcXJJeXVmYmVKODlqSUxXU2h0cTl5Q3A2d1JwYQ?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMiqAFBVV95cUxPamJ2LVBDdXk1S21yRXFLc3ZHdWJac3JFUTJSQWdsZWlJMlhONTBSaFhWVnVBeVlIQXlBcEM0UE9QdTNJTTFldl9VSTFDclR3d0hvZFhid2Fta0xWbVdnU0duall5cVgtTnBKUWFhOHlQS0Mzc2pvWjZYMVN1anZKYkFVLWl1clRfSkZLQlBIbjJ5M1JUeGRlVnhtYkxncjc2enh5YmEyWTE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-28 16:01  (8 条)
+
+- **周杰伦** | 周杰伦南京演唱会，开票时间定了 <https://finance.sina.com.cn/wm/2026-07-28/doc-inikknrz0341828.shtml>
+- **特朗普** | 特朗普将在已故参议员格雷厄姆葬礼前在白宫会见泽连斯基和内塔尼亚胡 <https://news.google.com/rss/articles/CBMixwFBVV95cUxQNEltNjVOV0JiY29BOFdxWGdXaHpDbnVRQjVZNmI5SVRranQyNmEtQ2l1eFd2SEZoQUllenFMakFRZmtZR0YzbEZjZ3VJRk1pcjgtbTR0NDVMenhnTXdlcXJaSG5PSXFYUWZfVHc2bGVyNUFLbW90dmNESmFFUnNaY3pGSEZudkxlNjdOU0drT3VLU1dhTC1rZDFKSmUxZnpCMkFlVi1iYmt5dEp0VVZ3d0lBd3FtU2RLd0FFWWJXa2JNWEFlN2lN0gHKAUFVX3lxTE94M05aVmJkdW5fRWxaRHZUM3F4S09mLTZZMGduZktSZXhuWjdxS0VrVnU2YVBFcWJycnh6ekZUNExPeGhmV3hkVmdzME5WS2V2ZUhqRFczcGpqVFA4TkhpaGJqLVc2TVc5b2JPYWxpa1pzRnhTdlFUSmkxOTAzRGIyZFV3QUM2TS1OS01fMk9jSng4d3F5c0pVNUNDcHNZTHViU3ByV2JxSU5oWXFIdnhhbGNXVWJJd0tNanVkMEkzZFZjUXpZbEFWRGc?oc=5>
+- **特朗普** | 特朗普重申若未与伊朗达成协议将摧毁“镐山” <https://news.google.com/rss/articles/CBMieEFVX3lxTE9iMGN1NlhQZzJFSG5Wd0pmN19yZDU5RHdmeVBLRm9feXJHRXVuTk5qU0V4bHN0emNaY01rZVJQTDRpNTZtVDd6YXdQRF9fMGRNdGV5ZzNBOXhqakktQVB0QkY4S3RGRlVCRDNuSnhrTnBUeWE0OW1HRg?oc=5>
+- **特朗普** | 特朗普：要不是美国打伊朗，以色列早没了 <https://news.google.com/rss/articles/CBMiakFVX3lxTE5HR2h6UTdTQnQwSF8tNWxFUERzNDJlZmZsSHNEOE9pR0JhbEVhLVp2Vk1EMm9fT0JtU3BhYkR1NkRodVZBbllrb0tkcXM4OURlWmNhZUhYaGRmUk1pMmRKUWhmaFFTeHBhWVE?oc=5>
+- **特朗普** | 特朗普称在委内瑞拉、伊朗赚回本 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5OdmJrYXRjYjVLUU1uWXRlb1U3cEdIMWtDLVpfS0w4alZidGNQMU9mZVZNR0IwNjRHbGlYbXBocE5sSEl5WDRkdl9vUkI?oc=5>
+- **特朗普** | 特朗普：美国在委内瑞拉早就赚回本儿了，在伊朗也一样 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE45SUcxRFFqMjM1Zk8zVWxVSUN0M3hINnJibE5kUUNhZVF4VEJrMk1oU3dMWVc4VWxBdkFsQm5fd2ZNMnRPU0UwWElPVlhKTWlLQkJ3Z0lzOE81RkNYa3VFeA?oc=5>
+- **Trump** | 市场传闻：OpenAI和Anthropic正敦促特朗普政府扩大需接受政府审查的人工智能模型范围。 <https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQV9HQ1NqNFJ6VUJvWFNCMG16X29XNmhvb0E2aGkydW5KNWJEWWVJMHM1VnQyZUlUYnVmWUV2THAwdVhpbTRFdWpNcHNHbUNRLWFNYi1sQy13ODhJM1RmdktmRS1ZbDZFZUg1czVFRFBiQjF4Z0FCYmNya0lRbk5lTzljYTJwVTFnWTVXaEVWNmppWVAwUzRBVmU0NXdocVBWSUMzTUNndk9zSWtfa1duUE5QSEdzUFJl?oc=5>
+- **Trump** | 从修昔底德到特朗普：世界应避免的三大陷阱 <https://news.google.com/rss/articles/CBMiqAFBVV95cUxPamJ2LVBDdXk1S21yRXFLc3ZHdWJac3JFUTJSQWdsZWlJMlhONTBSaFhWVnVBeVlIQXlBcEM0UE9QdTNJTTFldl9VSTFDclR3d0hvZFhid2Fta0xWbVdnU0duall5cVgtTnBKUWFhOHlQS0Mzc2pvWjZYMVN1anZKYkFVLWl1clRfSkZLQlBIbjJ5M1JUeGRlVnhtYkxncjc2enh5YmEyWTE?oc=5>
 
 ### 2026-07-28 13:49  (9 条)
 
