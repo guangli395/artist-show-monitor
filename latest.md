@@ -1,78 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-28 16:01**
-- 本轮扫到 8003 条, 新增 **8** 条
+- 最近更新: **2026-07-28 17:50**
+- 本轮扫到 8007 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (4 条)
 
-### 周杰伦南京演唱会，开票时间定了
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://finance.sina.com.cn/wm/2026-07-28/doc-inikknrz0341828.shtml>
-
-### 特朗普将在已故参议员格雷厄姆葬礼前在白宫会见泽连斯基和内塔尼亚胡
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-07-28 15:49
-- 链接: <https://news.google.com/rss/articles/CBMixwFBVV95cUxQNEltNjVOV0JiY29BOFdxWGdXaHpDbnVRQjVZNmI5SVRranQyNmEtQ2l1eFd2SEZoQUllenFMakFRZmtZR0YzbEZjZ3VJRk1pcjgtbTR0NDVMenhnTXdlcXJaSG5PSXFYUWZfVHc2bGVyNUFLbW90dmNESmFFUnNaY3pGSEZudkxlNjdOU0drT3VLU1dhTC1rZDFKSmUxZnpCMkFlVi1iYmt5dEp0VVZ3d0lBd3FtU2RLd0FFWWJXa2JNWEFlN2lN0gHKAUFVX3lxTE94M05aVmJkdW5fRWxaRHZUM3F4S09mLTZZMGduZktSZXhuWjdxS0VrVnU2YVBFcWJycnh6ekZUNExPeGhmV3hkVmdzME5WS2V2ZUhqRFczcGpqVFA4TkhpaGJqLVc2TVc5b2JPYWxpa1pzRnhTdlFUSmkxOTAzRGIyZFV3QUM2TS1OS01fMk9jSng4d3F5c0pVNUNDcHNZTHViU3ByV2JxSU5oWXFIdnhhbGNXVWJJd0tNanVkMEkzZFZjUXpZbEFWRGc?oc=5>
-
-### 特朗普重申若未与伊朗达成协议将摧毁“镐山”
+### 微妙时刻访美，内塔尼亚胡有何诉求|唐纳德·特朗普|美国大选|美国总统|以色列|伊朗_手机新浪网
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-28 13:31
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9iMGN1NlhQZzJFSG5Wd0pmN19yZDU5RHdmeVBLRm9feXJHRXVuTk5qU0V4bHN0emNaY01rZVJQTDRpNTZtVDd6YXdQRF9fMGRNdGV5ZzNBOXhqakktQVB0QkY4S3RGRlVCRDNuSnhrTnBUeWE0OW1HRg?oc=5>
+- 时间: 2026-07-28 17:20
+- 链接: <https://news.google.com/rss/articles/CBMiiAJBVV95cUxQZUxxdWdUaTVFSE5XSS16R3BmNjcyLThlRVhKcE9fdlJudnhNbk9fVnh4N0VGZHJvQ01NSUlRMTFMQXFFZWtGU1I1VTl6NGs4SHBYcTRtay12emYyM3V4S3loZ3lzRVlTY3NweFlZalduZFk3UFM2VWlDTlR0bUlPNnBwTVVIU2ZHZ283X0paRXVnSEg4Z1Y1cnF6Y05feDcyWDBxQ19JMUo4cVNVMDhxRjZCMVNRbHZLZkR3dUotbDdGZHgzeU84ZUdPVDB4cExqXzZXYksxLWYwdDNFMVFSS3hpbWJIc1NDU09wRjFydUs1QXlqVTVveUZRMGtxSHYwa0o3ak1Zem4?oc=5>
 
-### 特朗普：要不是美国打伊朗，以色列早没了
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-07-28 02:51
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5HR2h6UTdTQnQwSF8tNWxFUERzNDJlZmZsSHNEOE9pR0JhbEVhLVp2Vk1EMm9fT0JtU3BhYkR1NkRodVZBbllrb0tkcXM4OURlWmNhZUhYaGRmUk1pMmRKUWhmaFFTeHBhWVE?oc=5>
-
-### 特朗普称在委内瑞拉、伊朗赚回本
+### 特朗普在最后关头怂了，伊朗没打垮，先把美军导弹库打空了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-28 08:53
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5OdmJrYXRjYjVLUU1uWXRlb1U3cEdIMWtDLVpfS0w4alZidGNQMU9mZVZNR0IwNjRHbGlYbXBocE5sSEl5WDRkdl9vUkI?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-07-28 16:00
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE0zUFpBSkR2QUcyTzd0RHVscVVTcm0yQzRvSjRpVXctMTZxS084STZMTmhQX0NIZEJVSVVKX2NhOWZ2WldCaGZoZUpiWnEzSnJ6WUdYZVFyUHRFRlYwYWthQ1J3cXdUTEJJbmJjNl9MTFVtY3hrX3c?oc=5>
 
-### 特朗普：美国在委内瑞拉早就赚回本儿了，在伊朗也一样
+### 美伊停火延续至第三天，特朗普称双方正进行“深度谈判”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-07-28 13:59
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE45SUcxRFFqMjM1Zk8zVWxVSUN0M3hINnJibE5kUUNhZVF4VEJrMk1oU3dMWVc4VWxBdkFsQm5fd2ZNMnRPU0UwWElPVlhKTWlLQkJ3Z0lzOE81RkNYa3VFeA?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-07-28 12:22
+- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxQZjlEbXF3YVZBRzdrZFJKcmVLcVFaQ2pKaUotRHdHVXFURFVxWXNBLUpPSl9DTVhtSnhnbGNqT3ZablFLRUZlY0xjN1pDalA2a2pVNlluWVc2YmhnWUJ1SmVFV0VxMk1GZGl0bTdjU2x1cVE1RHp2UF9UQVAtYlRfV0JsMWJHMzNQNkEwVjgzTUtjYkc1WEV2WA?oc=5>
 
-### 市场传闻：OpenAI和Anthropic正敦促特朗普政府扩大需接受政府审查的人工智能模型范围。
+### 特朗普：美以在伊朗问题上存在分歧
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-07-28 15:51
-- 链接: <https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQV9HQ1NqNFJ6VUJvWFNCMG16X29XNmhvb0E2aGkydW5KNWJEWWVJMHM1VnQyZUlUYnVmWUV2THAwdVhpbTRFdWpNcHNHbUNRLWFNYi1sQy13ODhJM1RmdktmRS1ZbDZFZUg1czVFRFBiQjF4Z0FCYmNya0lRbk5lTzljYTJwVTFnWTVXaEVWNmppWVAwUzRBVmU0NXdocVBWSUMzTUNndk9zSWtfa1duUE5QSEdzUFJl?oc=5>
-
-### 从修昔底德到特朗普：世界应避免的三大陷阱
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: The Business Times
-- 时间: 2026-07-27 23:00
-- 链接: <https://news.google.com/rss/articles/CBMiqAFBVV95cUxPamJ2LVBDdXk1S21yRXFLc3ZHdWJac3JFUTJSQWdsZWlJMlhONTBSaFhWVnVBeVlIQXlBcEM0UE9QdTNJTTFldl9VSTFDclR3d0hvZFhid2Fta0xWbVdnU0duall5cVgtTnBKUWFhOHlQS0Mzc2pvWjZYMVN1anZKYkFVLWl1clRfSkZLQlBIbjJ5M1JUeGRlVnhtYkxncjc2enh5YmEyWTE?oc=5>
+- 场馆: 青岛日报
+- 时间: 2026-07-28 10:04
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NR3RTSDRLOWhZMUlsRURZeXFvNHZkTlRSV3FHV1V3cFF6Vnh1T3Q0Tnc2d1FidllreDRMYm55OUdadTZYMXMwaDhKSFRDUERqZHRidkdjX0Y?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-28 17:50  (4 条)
+
+- **特朗普** | 微妙时刻访美，内塔尼亚胡有何诉求|唐纳德·特朗普|美国大选|美国总统|以色列|伊朗_手机新浪网 <https://news.google.com/rss/articles/CBMiiAJBVV95cUxQZUxxdWdUaTVFSE5XSS16R3BmNjcyLThlRVhKcE9fdlJudnhNbk9fVnh4N0VGZHJvQ01NSUlRMTFMQXFFZWtGU1I1VTl6NGs4SHBYcTRtay12emYyM3V4S3loZ3lzRVlTY3NweFlZalduZFk3UFM2VWlDTlR0bUlPNnBwTVVIU2ZHZ283X0paRXVnSEg4Z1Y1cnF6Y05feDcyWDBxQ19JMUo4cVNVMDhxRjZCMVNRbHZLZkR3dUotbDdGZHgzeU84ZUdPVDB4cExqXzZXYksxLWYwdDNFMVFSS3hpbWJIc1NDU09wRjFydUs1QXlqVTVveUZRMGtxSHYwa0o3ak1Zem4?oc=5>
+- **特朗普** | 特朗普在最后关头怂了，伊朗没打垮，先把美军导弹库打空了 <https://news.google.com/rss/articles/CBMidkFVX3lxTE0zUFpBSkR2QUcyTzd0RHVscVVTcm0yQzRvSjRpVXctMTZxS084STZMTmhQX0NIZEJVSVVKX2NhOWZ2WldCaGZoZUpiWnEzSnJ6WUdYZVFyUHRFRlYwYWthQ1J3cXdUTEJJbmJjNl9MTFVtY3hrX3c?oc=5>
+- **特朗普** | 美伊停火延续至第三天，特朗普称双方正进行“深度谈判” <https://news.google.com/rss/articles/CBMimAFBVV95cUxQZjlEbXF3YVZBRzdrZFJKcmVLcVFaQ2pKaUotRHdHVXFURFVxWXNBLUpPSl9DTVhtSnhnbGNqT3ZablFLRUZlY0xjN1pDalA2a2pVNlluWVc2YmhnWUJ1SmVFV0VxMk1GZGl0bTdjU2x1cVE1RHp2UF9UQVAtYlRfV0JsMWJHMzNQNkEwVjgzTUtjYkc1WEV2WA?oc=5>
+- **特朗普** | 特朗普：美以在伊朗问题上存在分歧 <https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NR3RTSDRLOWhZMUlsRURZeXFvNHZkTlRSV3FHV1V3cFF6Vnh1T3Q0Tnc2d1FidllreDRMYm55OUdadTZYMXMwaDhKSFRDUERqZHRidkdjX0Y?oc=5>
 
 ### 2026-07-28 16:01  (8 条)
 
