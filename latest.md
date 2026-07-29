@@ -1,88 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-29 13:54**
-- 本轮扫到 8073 条, 新增 **9** 条
+- 最近更新: **2026-07-29 15:46**
+- 本轮扫到 8078 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (9 条)
+## 本轮新发现 (5 条)
 
-### 泽连斯基：特朗普已批准乌克兰生产“爱国者”导弹
+### 特朗普 ：美国将“报复”伊朗
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪军事_手机新浪网
+- 时间: 2026-07-29 15:23
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE03SVU1OWVmX3hJVm9weEVsNGJYV3lnSjdhUENSVzMwRlBpRENvZXJWQnRUcmFtdTl4UUN4aEY2MEV0cnhxTlJjcEg3OW42X1lRZVNEOThnbmJURTR2d0dkMEFSYkZMbTM5RUt2b0JrelBlanM?oc=5>
+
+### 刚见完内塔尼亚胡，特朗普就对伊朗放狠话
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-29 08:10
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1UeHYxZHl3bjFtRWlzSTVuQ3ItZHBDVlMxcENNQjdRcmZTTE9rX1JGcXo3Q3VCcXhaWWljcS1rTUlla1YzTzlVbEd0ZTlXSVBHRHBnSS1ITkZJSlBPbFFJVGpOdVRpUkdhUXMyRjNoU05oZFU5VE95Vg?oc=5>
+- 时间: 2026-07-29 14:53
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE5tNV8xR0tvUXVQZDdraGR2VUwyTDA5VVA0SHhobDJsenlIOTVsN3VhR1R4eUxoNEZQUWpybXZ0OGdUY092VUREQTBxVkh2bU1aSGthWFowTndhdzVLR0ZZUG5WaHpYMFdHaFdXVDdhWEczVkJUNWc?oc=5>
 
-### 打理特朗普8.58亿美元投资组合的金融网络全貌
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-29 13:38
-- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxPZTF1Zm40WGhYRFkxN0JLcl9pNGJOQ2NWcVFfQ1I4NG5Kb3FWZWVQaFJNU19QbzVHV2ZrelBjeFU5TmwwRTlLN1ZVQkpTUDJxVEpkSjZBalh6SjRaZWE3UzJsQThaOS0xcjNaLTRJbVVROVpQQjdGVVFDWkpEd0xRYms5LUk4cGhXMnc?oc=5>
-
-### 特朗普称美国目前在伊朗问题上地位强势
+### 特朗普政府禁止中国人形机械人进口 北京批“泛化国家安全”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-28 07:00
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9ka0tFUF83aHdxRjRJS25WTWhYbl9iTE5tRlN6U3N4TXZwWWczR3AtZkJaRlh6YkxJME9pQ0dyb2hHay1CVS0xV0lPbWZFMWRRa2oyU3RZVjRBR3ZIOWVVVVIzSWJ5aXplVktCLV9QUEQ5V3laWmUxeQ?oc=5>
+- 场馆: BBC
+- 时间: 2026-07-29 11:18
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMdTVsbkZNT2JscUZlWjYyQnoxR0NkekxmYmtnUUtEMjhibVVJek43S2tram44c3BWVS1HcWVYSTk4X1h2S0hFTVZINEdDbmttTWNMTkxva0hqdENYUU52cDNJTENyQdIBa0FVX3lxTE5wb2Y2bm9Qa0RGRUhia1BSaDVHQVdGazBxaFhpYUhNSWx3dUE3NnItY0huZ1hNTnlha1FicElSMVZkcTRSNjE5WXJ1WFdHYkxjbjNzdWNCTHh2U2xKdVFFQXhmTW9XMEk1M3ZN?oc=5>
 
-### 特朗普称伊朗将遭痛击，美国将强力报复
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-07-29 13:25
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1tTTFsblYtdzUwUVQwSkxZdDFxNE15ckxvQTNlVFYtY2JJV1JvZ1djSjBWeGlfMHhFTUhJeFlYX1hkZXBIUFItbHh3RUxQTTc0ejBzU3RBb2lvM1hITWw1cHpsZVFqandGaGFvUS1GS24?oc=5>
-
-### 特朗普：美墨加协定续不续签“无所谓”
+### 泽连斯基成特朗普座上宾，都不让万斯露脸了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-07-29 12:06
-- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE5PMlhma0Zpb2dBNXZQQ0pydzdub2N1dERFaW9WRWhmN0ZzODVuaU1UV0lOQUdCV2pfc2VLa2I1Uy1XMzQzbl9XVjZaUGlvZFhWVXltcmdiMEg5djZPUWVtYkdOZEpQUlV6d09Ob0IxalBQRDFPY1QwSldTaVZuUQ?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-07-29 11:03
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE52cG1lTXNuQ3pKVmZfSDFINVR3aXFfU21HS09SbGV1bUN4aGxreXpwekxtcEJvMnJMYWVUYnBvMDJMOGFVa29GM0czZG4?oc=5>
 
-### 特朗普在葬礼上分薄荷糖 悼念中的轻松一刻
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-07-29 03:18
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFA0VU9VcW5PTjI3OWktY3NUQ1VuYlhjXy1kUjJHWGhQNzNFOWdlYUNNWkZGalhfMDRSWXZObFI0TzdVUlJpV0dTbW5uandkVFQ0VmNPYjA5Zm5hNlVoYW1iTnlvNnpScHZtLThyT1o2eUg?oc=5>
-
-### 为中期选举拉票 特朗普在摇摆州宣扬政绩抨击民主党
+### 特朗普同日会见内塔尼亚胡和泽连斯基
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-07-28 09:08
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5DcnJYbFpqNnh0UmJZaGQ3S0IzSWFXV2c3VDJlSEpkUUw1a3pZeFFBSlNZMUZtR19XdUk5cDVnR3JUeTJ4Nkkzalg2THFBbVNVZ2dTSXZtRENURFRIbTZxMjJycGNFQQ?oc=5>
-
-### 特朗普、泽连斯基、内塔尼亚胡，同时现身
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-07-29 11:26
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BOEVFWFdXeEFwclN2UGdwYkd1ZFpUV1BsSmdVcW84S1BDZ2dyTFFFV3dzcE93LVIwc0JrSEJ5VUotTW5HVDR4clVqZXFOb0U4VzVPV0lHZE9UNFY3Z2R2T05PQTY?oc=5>
-
-### 我昨天就告诉过你了！！！TRUMP给他们打过电话了！
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-07-29 12:40
-- 链接: <https://news.google.com/rss/articles/CBMingFBVV95cUxNLUhNTWRpbWtHVDYyTXZPa0N0RE9VRlRrWko0cnJGb1RGc19FYU1kVTRNVjAxdTlSTGU1R283a1RmbmhSTkthR0tWWVY3X1dfSnhjOEhLcFUxZ2pCTEY3NXhMNVQtQnk4NE9acHV0R201Ml9mLVhOcVhyMnVjb1VZbGdRTG5Ddm9leHc2YXJ5djlvcFFLbUZBbTV0dHl4dw?oc=5>
+- 场馆: chinanews.com.cn
+- 时间: 2026-07-29 05:11
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VN3pNOW1FT2tLakpSOF9POWIya1Z4UWJJTDdmR3IxdTVUWlgyYnp1MXFNQjQyY05BMkUzcjFwb2Q3RmNoejhqSWZiQXBMVktnU1FXUHFyMUx5RDBIM2RmS2U2akQtZTRl?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-29 15:46  (5 条)
+
+- **特朗普** | 特朗普 ：美国将“报复”伊朗 <https://news.google.com/rss/articles/CBMic0FVX3lxTE03SVU1OWVmX3hJVm9weEVsNGJYV3lnSjdhUENSVzMwRlBpRENvZXJWQnRUcmFtdTl4UUN4aEY2MEV0cnhxTlJjcEg3OW42X1lRZVNEOThnbmJURTR2d0dkMEFSYkZMbTM5RUt2b0JrelBlanM?oc=5>
+- **特朗普** | 刚见完内塔尼亚胡，特朗普就对伊朗放狠话 <https://news.google.com/rss/articles/CBMidkFVX3lxTE5tNV8xR0tvUXVQZDdraGR2VUwyTDA5VVA0SHhobDJsenlIOTVsN3VhR1R4eUxoNEZQUWpybXZ0OGdUY092VUREQTBxVkh2bU1aSGthWFowTndhdzVLR0ZZUG5WaHpYMFdHaFdXVDdhWEczVkJUNWc?oc=5>
+- **特朗普** | 特朗普政府禁止中国人形机械人进口 北京批“泛化国家安全” <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMdTVsbkZNT2JscUZlWjYyQnoxR0NkekxmYmtnUUtEMjhibVVJek43S2tram44c3BWVS1HcWVYSTk4X1h2S0hFTVZINEdDbmttTWNMTkxva0hqdENYUU52cDNJTENyQdIBa0FVX3lxTE5wb2Y2bm9Qa0RGRUhia1BSaDVHQVdGazBxaFhpYUhNSWx3dUE3NnItY0huZ1hNTnlha1FicElSMVZkcTRSNjE5WXJ1WFdHYkxjbjNzdWNCTHh2U2xKdVFFQXhmTW9XMEk1M3ZN?oc=5>
+- **特朗普** | 泽连斯基成特朗普座上宾，都不让万斯露脸了 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE52cG1lTXNuQ3pKVmZfSDFINVR3aXFfU21HS09SbGV1bUN4aGxreXpwekxtcEJvMnJMYWVUYnBvMDJMOGFVa29GM0czZG4?oc=5>
+- **特朗普** | 特朗普同日会见内塔尼亚胡和泽连斯基 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VN3pNOW1FT2tLakpSOF9POWIya1Z4UWJJTDdmR3IxdTVUWlgyYnp1MXFNQjQyY05BMkUzcjFwb2Q3RmNoejhqSWZiQXBMVktnU1FXUHFyMUx5RDBIM2RmS2U2akQtZTRl?oc=5>
 
 ### 2026-07-29 13:54  (9 条)
 
