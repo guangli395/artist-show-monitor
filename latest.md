@@ -1,40 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-29 20:08**
-- 本轮扫到 8086 条, 新增 **3** 条
+- 最近更新: **2026-07-29 21:25**
+- 本轮扫到 8087 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (1 条)
 
-### 泽连斯基成特朗普座上宾，都不让万斯露脸了-观察者网
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-07-29 09:52
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBNUE5wR1Y5bXJTcXJ6MVBsSFMzeFlXOEpITVNCVzFEdE5ScEVjRWVoWkx0bVJFQkdsVXJTQkpVWnVhQ1RGd0FRcnc2TkFLNU51dDNQaUEwVEpIeVQyTUg2MXdpWDBtNmY3WEE?oc=5>
-
-### 格雷厄姆下葬，特朗普、泽连斯基、内塔尼亚胡同时现身
+### 内塔尼亚胡结束与特朗普会晤：两人“最好的对话之一”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中国网
-- 时间: 2026-07-29 10:10
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE5ha19aaHhKRmFlMkpEb0FmSXJKTkFOT1hiR01UVW45WGQybmpCOC1zcjNJS1VjbXEtNnpUQnFkcGM2YWMyaWp0bDllb1Fmb3A3cXJYX1BIeWdYY1psRFA5YkF0UkRKOGo2YjVPYVRCOA?oc=5>
-
-### 特朗普称伊朗将遭“痛击” 不排除继续打击其地区代理人
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-07-29 15:50
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2cTh3eXpNLVl6U1NTckE2U1ZTeU9fYkhwYTREQ1BqMkNIMEM3czltLUNYbVA1SGlvaTdzU0pBRFdVZWpPWW1LX21meTA0QTc1SmUzMW9vaFFhdlVXd3lENHZaZmtnRG9o?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-07-29 20:51
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBmd0h5cndkVU9GTThDcXZNYkxKeUZRVUdFMkRFb2c3dnMwVHg1bUFuX3hfZm9FLTU5UlRMQ3ZxbHdzLWJxZWZMZGM3UmRCYS0zcHR6bDkwNjkwQkVlSjNlSk5remhBRVFFU2UzZmVPb3BPcjcxZDZvUw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-29 21:25  (1 条)
+
+- **特朗普** | 内塔尼亚胡结束与特朗普会晤：两人“最好的对话之一” <https://news.google.com/rss/articles/CBMieEFVX3lxTFBmd0h5cndkVU9GTThDcXZNYkxKeUZRVUdFMkRFb2c3dnMwVHg1bUFuX3hfZm9FLTU5UlRMQ3ZxbHdzLWJxZWZMZGM3UmRCYS0zcHR6bDkwNjkwQkVlSjNlSk5remhBRVFFU2UzZmVPb3BPcjcxZDZvUw?oc=5>
 
 ### 2026-07-29 20:08  (3 条)
 
