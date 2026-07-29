@@ -1,96 +1,73 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-29 03:21**
-- 本轮扫到 8044 条, 新增 **10** 条
+- 最近更新: **2026-07-29 06:12**
+- 本轮扫到 8050 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (10 条)
+## 本轮新发现 (6 条)
 
-### 美以伊最新局势：特朗普同日会见内塔尼亚胡、泽连斯基，美以重申“阻止伊朗获得核武器”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-29 02:42
-- 链接: <https://news.google.com/rss/articles/CBMiiAJBVV95cUxPUG5IUDJUN3J4YTI0NXo2Wm02bmRPVmlZWVdpMDBYN091TXV5X3BTNEc1SDJJcnJzNUE5MG1KWUJGNFlVR1pzZkMtU2ZfbmtUQ25FUHloeEdFaXRCR1o4RkpoOUFyWEtkZDE4VnNvZUwxaUtHLXNwakM4YzJkaTBzSzNFWWFTRlV6MTdyZHFkNkUzUWdydGd2ZTN3aFpabG5oZEFGeVM4bEpwbVl3LVZuV2FSWHNNUnlZeDFZM29MTWJhbEJSc0hXbjdWQ3FHd1EyV1RmUGdNM1dJYVV0YVVZaTI4MWhzd2plUHFQd2g3ajZ3T0xjY3dKUXh2WUlsczR3SFFHV1ZYZHc?oc=5>
-
-### 伊朗战争久拖不决，特朗普对内塔尼亚胡的欢迎程度大不如前
+### 特朗普总统在密歇根州米尔福德的通用汽车工厂坐进一辆闪亮的崭新凯迪拉克。 ​
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-07-29 01:59
-- 链接: <https://news.google.com/rss/articles/CBMipgFBVV95cUxPcXYxQW5BdjB6RlotZjBQYjgtdkhmYS1GazQ1aEw4MVE2UEh5SkZYU2dUWUJ6ZWdZeGZuV1lGMXAyNkdsRm5tUThOaDhLaTVDX0MySjBIaVQ3WVlnNHpFWkg4cXVjV3JwWnpSdlBqTDlxYWJ3MDZZWlJjNjhsVW0tZEExT25nNEtVNEtiNnc4LUZvVkJMR3pUa0tNNENVemdTQ29heGtn?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-07-29 04:57
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE9pQW1vYl85c0RQS2lsMDNaTkwzUkVBWGtlM21xQmJBYURwWkd6bnB3UllSQ0VrTElVakZlMFZ3MnotLVJsd1BPUkF6RlZNZ0Q1d1hreTFad1owS21Pa2dmNkVWbUdjWHcxanp5T2RNR19kVmM?oc=5>
 
-### 特朗普当面纠正内塔尼亚胡：我才是Number one！
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-28 18:54
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE0wUER4NlJWVzlFNGNzSFdQaWVCWVg3M2dSQmpZNUVJRDJoZ1BtRUl6WHBqOE14b0ZPNGVwSWRzbW1vT2RhdVdRa2xpa2g?oc=5>
-
-### 全线大跌！特朗普重磅发声！美股芯片、原油，集体重挫
+### 特朗普在格雷厄姆葬礼上被发现多次打瞌睡，仰头闭眼又勉强睁开，白宫：他在缅怀
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-28 23:23
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxQeGdWcTk3WENvbzZqR2FSZUhvR19uNGJMYktqMDVqdWxkYV9FOU05TVlrZUxLUXZDTlo5LVpQakVHMmdxellFWHNsTl9OOWpLNjlzMUxaVk5oU1JvbDNaOU00VHA5Z2s5WHhoLUdOcTJ3N2dPYnVXZWJtakZIbEtCTnhLc01qV09VVUVJZA?oc=5>
+- 场馆: finance.sina.com.cn
+- 时间: 2026-07-29 05:12
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE81UVJ5TkE2UEttaU1aN2ViNGxKRG1SU3BEdmhSMjVMOUJGTTVxYi0tVmhxU0dzTFVMeVhDTm9WajBHNUZQRnlGRWNjRXl5YWV5ZjhtSVl3T3RRZHJTb1RNMnA3UHFJaUdKWi1kNVZoM1hyUQ?oc=5>
 
-### 特朗普：有足够耐心与伊朗达成新协议 否则就开打
+### “特朗普诉芭芭拉案”：出生公民权判决背后，被剥夺与被损害的
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: finance.sina.com.cn
+- 时间: 2026-07-29 05:17
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5IRERrNVVkOTJXbXVUWmFYUjREMDBfMG1RM3FiQmlnS3NzMkVJM084NjJJbEd4WDNvMmdRYjZyQW9yVE13bndpMlJZX0RRQXViT3pzTlBDMTVjQTlLTzJRcVVFREM4eTktemdnQUo1YWtPNmdzMjRpaw?oc=5>
+
+### 伊朗武装部队警告特朗普
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-07-28 23:15
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBDNEtDMUNual9mWm03cjNEVEdVcGJMazdBS0lkcGhuWDF6ck92cklFbkREdGpTYk5kZk9vM3FCbmxKQ2RjYmFsZHBUaw?oc=5>
+- 时间: 2026-07-29 05:30
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE50V1g5cGtTQjFqeXNJQWpoTGNHMlluRi03YWdDTm53R3hFR1pCZ0FocV9PNFVXQm9URUZhYjFGbnlLN2xoYlg4Mg?oc=5>
 
-### 特朗普称美伊“积极谈判” 警告若未果将恢复打击
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-27 21:56
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxPT2dHczY1UmNwWjlwUlJVNkRWSkZHM1pYR29DUExvTW5ZeXB0djdXMTlmWDJNVmVkUEpFWDFGeFhkemloRXppTEZDY3pvNS1VZENhaWVna2pjSzYwR0ZtM1k5R2lhd3ZuR2FzNWprTFhlZlJkbXJlMktseVVvdnRuNkxmQ1gydXItbGw0ZG5oSFZNOWNpX0Y0MUlvdXFGX1psRjVnVkVIMGhpZHRvaUhNVHJtcnppaExjZWlHNFhkSGYyQk9kbEdkRkNxelR2aGZs?oc=5>
-
-### 特朗普政府加快遣返寻求庇护者
+### 特朗普再威胁恢复打击伊朗 中东冲突或多点爆发
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-07-29 00:14
-- 链接: <https://news.google.com/rss/articles/CBMihwJBVV95cUxQb1JOLUh2ajJ2aFFmTjFlaHRralZjTGZQdHNhMkY2R2ZsTmNCTC1hdm00MmF4eWp1empkaTBzU1ZOSVZLZGRsQ3REeG9rNFE5X1RqUmZ3aEJLRXYzUHRNMmRreXF3NmZNV2o5SElPVmhuaVlrX2FOcUxJRWpJUXphS1R6ZTF0aU92U1c1YU1idWptR0JYVXg1Znh1VlFMM1NMc3F2VVBpdGdnQ3NYcGNoVlE4RjFPUzNYWnEzSHVXZlMxVWEyeHhEWjlWUkxLSTZtUVRPMGJiTVFScUNpSTFfT3NaT1ZFS3gxQV9JSi1RaVBTdWJlQTZyZVJxMUZ4NGM4a3hjV2E3WQ?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-07-28 01:17
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5aczRxOU1fb3NiUXQ4VVR0MTZVU3Z0NGtUNmtjRHNJWG5LOHQzUzVvZ1VOQVd2WDU5VjkzV2FPR21vclZYMHdPUFNDbktGVF9YZjEySER2QmdJcUxWQVJyRDgyUU5MS3pLd1Z0dzBrblM2TEtrTDczLQ?oc=5>
 
-### 明查｜特朗普的替身出现了？先把视频暂停一下
+### 特朗普：美以在伊朗问题上存在分歧 - 新闻- 中国网
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-07-28 23:15
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PT0JUdXhTSUFfaVpKYWpEakgyNk9wb0o5dTliQmFmQjctbTQ1QnpkLTU2QkhTNWdqVzBxNDJjNkEzMVpteDJyZFNPYzBweTc2SkoxTEM0Q21CM1Zya1RtYw?oc=5>
-
-### 盘点特朗普与小肯尼迪围绕疫苗问题的紧张关系
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-07-29 00:31
-- 链接: <https://news.google.com/rss/articles/CBMiowFBVV95cUxNNGswNHBSdDZwSzRDSU5LYUtSZDVvdUoyZGNFVzhIVEIzWGNFRTVuaTIxR3lSdVpua1dwd2lYX0Zqai1vMjFrNGlXbUN5TWRyOTd1azlBeUZpUGJrVVFpdU5Wa0lWWHhUTHNMYVdoWlg0VE5HNFpsbFB4N3BBSzdoNUFNTlBGUV94MjN6bVVjOUVLY3VkQ1ROa1hZNldBNzBTR3BB?oc=5>
-
-### 特朗普政府拟豁免航天公司的环境评估
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-07-29 00:42
-- 链接: <https://news.google.com/rss/articles/CBMitgFBVV95cUxPdzFMc2RjT0NOc29GbG5wdEVLUmZvMHk1c0RZVThDZkhXZWtnYlFGVG5kMldKenhwaHR3V3ZRb0ZRSEh0WkttY3BJc2h5NVh6UUtYM3Y2eXJHSXg1cy00UkVfWkhRbGw4bVdOXzBINEEtS1RPSk42dm9QeEsxazQtMWtyWktyQkV4OXBBVWhrRC1tc2tBU3VXMjFheWV1WG9mWk9VR2M3dl9NQkczdWZCR3A1bldKdw?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-07-29 05:51
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9iVG1ZUmtVbnpBRnplQ3JxYWMzZnBiRHNTdFVVV0pYRE9kLWw0c1U5N3JZR09udEtndWhmTDViU3d0bWJlRXhBTU1QV01DcjFUb19SZlk5dTZkeV9tOThwTmVocXZHM0dXQTgybEVyVHVuV0FSeldNbEpZdGVsaHc?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-29 06:12  (6 条)
+
+- **特朗普** | 特朗普总统在密歇根州米尔福德的通用汽车工厂坐进一辆闪亮的崭新凯迪拉克。 ​ <https://news.google.com/rss/articles/CBMic0FVX3lxTE9pQW1vYl85c0RQS2lsMDNaTkwzUkVBWGtlM21xQmJBYURwWkd6bnB3UllSQ0VrTElVakZlMFZ3MnotLVJsd1BPUkF6RlZNZ0Q1d1hreTFad1owS21Pa2dmNkVWbUdjWHcxanp5T2RNR19kVmM?oc=5>
+- **特朗普** | 特朗普在格雷厄姆葬礼上被发现多次打瞌睡，仰头闭眼又勉强睁开，白宫：他在缅怀 <https://news.google.com/rss/articles/CBMickFVX3lxTE81UVJ5TkE2UEttaU1aN2ViNGxKRG1SU3BEdmhSMjVMOUJGTTVxYi0tVmhxU0dzTFVMeVhDTm9WajBHNUZQRnlGRWNjRXl5YWV5ZjhtSVl3T3RRZHJTb1RNMnA3UHFJaUdKWi1kNVZoM1hyUQ?oc=5>
+- **特朗普** | “特朗普诉芭芭拉案”：出生公民权判决背后，被剥夺与被损害的 <https://news.google.com/rss/articles/CBMieEFVX3lxTE5IRERrNVVkOTJXbXVUWmFYUjREMDBfMG1RM3FiQmlnS3NzMkVJM084NjJJbEd4WDNvMmdRYjZyQW9yVE13bndpMlJZX0RRQXViT3pzTlBDMTVjQTlLTzJRcVVFREM4eTktemdnQUo1YWtPNmdzMjRpaw?oc=5>
+- **特朗普** | 伊朗武装部队警告特朗普 <https://news.google.com/rss/articles/CBMiSEFVX3lxTE50V1g5cGtTQjFqeXNJQWpoTGNHMlluRi03YWdDTm53R3hFR1pCZ0FocV9PNFVXQm9URUZhYjFGbnlLN2xoYlg4Mg?oc=5>
+- **特朗普** | 特朗普再威胁恢复打击伊朗 中东冲突或多点爆发 <https://news.google.com/rss/articles/CBMieEFVX3lxTE5aczRxOU1fb3NiUXQ4VVR0MTZVU3Z0NGtUNmtjRHNJWG5LOHQzUzVvZ1VOQVd2WDU5VjkzV2FPR21vclZYMHdPUFNDbktGVF9YZjEySER2QmdJcUxWQVJyRDgyUU5MS3pLd1Z0dzBrblM2TEtrTDczLQ?oc=5>
+- **特朗普** | 特朗普：美以在伊朗问题上存在分歧 - 新闻- 中国网 <https://news.google.com/rss/articles/CBMif0FVX3lxTE9iVG1ZUmtVbnpBRnplQ3JxYWMzZnBiRHNTdFVVV0pYRE9kLWw0c1U5N3JZR09udEtndWhmTDViU3d0bWJlRXhBTU1QV01DcjFUb19SZlk5dTZkeV9tOThwTmVocXZHM0dXQTgybEVyVHVuV0FSeldNbEpZdGVsaHc?oc=5>
 
 ### 2026-07-29 03:21  (10 条)
 
