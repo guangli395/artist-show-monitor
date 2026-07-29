@@ -1,48 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-29 17:08**
-- 本轮扫到 8082 条, 新增 **4** 条
+- 最近更新: **2026-07-29 18:30**
+- 本轮扫到 8083 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (1 条)
 
-### 边谈边打，美以伊又进新博弈？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪军事_手机新浪网
-- 时间: 2026-07-29 16:23
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5VUlhFZlUtNnJKdFRoWkhlNWlJUmpQVUZ3SG5kam9xZHV0ZlJzMEJzLXJpNWNUVGFCcUxKdTBmeGowbHpObU8yakxyRkpnXzBXcGwyTTZPaHk3U3Itd3ZsNFpzaS1xRFprVUxldmx4NXFwLTg?oc=5>
-
-### 特朗普称美国将强力打击伊朗 中东局势升级推动国际油价大幅飙升
+### 特朗普出席葬礼疑似打瞌睡引争议 白宫怒斥批评者“堕落的白痴”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-07-29 13:12
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE1KWTJRSFdycUZJUE9Dd3FaSjM5X2VENHhuVGZLTHpjVDFUTWZhOS15X2FSc2NHYlh4ajREa0NPekkzR2t0OGNEVA?oc=5>
-
-### 美国参议院确认克莱顿出任国家情报总监
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-07-29 16:35
-- 链接: <https://news.google.com/rss/articles/CBMipAFBVV95cUxNbnJzTGJNS2NydGxxR1pIRVU0Z2Fkd0x1a1VHVnZmRS1EM0p2cWc5T05CTFU2N0Nfb0dhTld6cUs2WlNZdHpFMjlQb1hsbHpZR0x1d2ZzVTdLcl80TFZnMGpNUE5GeWd2S3YwdEw4SDJZZmtBMFpjZVZjOUJmU08wZEVfbll4WjZDdkh3YzZuMXFHU0p3OG5xZFJWVzd4aVhDdHZQMNIBpwFBVV95cUxNaDVTLXFmUjkyZVlTbzhsUl9uWmxiaEpaMTN5OWJlbGhzbFNxYmUwRlFEeXM5YXpGMXVtaDIxTmo0QmMwMWZLR1pGZTJuWVAxd1U2b2lKekZ4dnJzSEo0c1B4Y09UTzBnbHhvOHFxZmhrMk9LTWVHWndzNGVwOWhoUl9EUHZpeERMYUFwREppZU1hZ2QxNmdia0hlRy1qaGQwMDlxSGlaRQ?oc=5>
-
-### 午间要闻：特朗普誓言对伊朗袭击作出强力回应，股市下跌、油价上涨；Vertiv第二季度营收不及预期
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-07-29 15:48
-- 链接: <https://news.google.com/rss/articles/CBMinwFBVV95cUxOdk5jMUE1M19HYnBuYm13VVA4YUlQX1ZhSlh5S3BkY1NpbmJXVVRpbHc0VFFNUFNKeVBGZGRFQTRuLTR4R0JHZlItYmJoR3VxQXlkdTRKTGRfajV5WTY3MzNMVGxid1NlS25lQ254TmNSWUVKeFIxb0FLZjR6Y1UxRE9GTVJqTGFnbjRDcmMzeUJYaEZIdjNZR3NTdUZmemM?oc=5>
+- 场馆: 财新
+- 时间: 2026-07-29 11:58
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HREpmVXRJM2cxb2RTOEc3NjJqRktlVktxeFo3dnNzSjk2NnNOT3JrR2dwZXAxYThRVTZoblc5QWxlUFZrRlYtNlpTeGhLblBwU09sWFVlZFVVQmhXUWRPZg?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-29 18:30  (1 条)
+
+- **特朗普** | 特朗普出席葬礼疑似打瞌睡引争议 白宫怒斥批评者“堕落的白痴” <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HREpmVXRJM2cxb2RTOEc3NjJqRktlVktxeFo3dnNzSjk2NnNOT3JrR2dwZXAxYThRVTZoblc5QWxlUFZrRlYtNlpTeGhLblBwU09sWFVlZFVVQmhXUWRPZg?oc=5>
 
 ### 2026-07-29 17:08  (4 条)
 
