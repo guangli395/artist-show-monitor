@@ -1,64 +1,109 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-29 00:00**
-- 本轮扫到 8034 条, 新增 **6** 条
+- 最近更新: **2026-07-29 03:21**
+- 本轮扫到 8044 条, 新增 **10** 条
 
 ---
 
-## 本轮新发现 (6 条)
-
-### 美国斡旋陷入停滞之际，特朗普见泽连斯基讨论俄乌和平进程
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-07-28 23:28
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE95NC1RckNyT0FqdXZQdjA0dzFlUHc4Y0g5OVpaN1ZwcXZfaDdWNzFQY3JidUZCRFVtZy1zR3Z3U2xKN3dWc3BiTkc3dmw3UmxGMVZ6eFdmSk5kUXJNSDI4QXNia2Uyc1BPMVBPcms1aWs?oc=5>
+## 本轮新发现 (10 条)
 
 ### 美以伊最新局势：特朗普同日会见内塔尼亚胡、泽连斯基，美以重申“阻止伊朗获得核武器”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-28 23:16
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9vN2pZTlZvMTNGSGZpT3VVb3VPMmNEdVZpZ3JINzdaSDVpX0dyc2xRbFdVYkJkWnI0TWRHMGd3b3dGSU94SGU4ckpNN3VxTjl5NlpPUXQ4dWlOT3RYWDg4RkVFbHpjRkxMTVFDbXF5Z1VSSEhxYlpCcQ?oc=5>
+- 时间: 2026-07-29 02:42
+- 链接: <https://news.google.com/rss/articles/CBMiiAJBVV95cUxPUG5IUDJUN3J4YTI0NXo2Wm02bmRPVmlZWVdpMDBYN091TXV5X3BTNEc1SDJJcnJzNUE5MG1KWUJGNFlVR1pzZkMtU2ZfbmtUQ25FUHloeEdFaXRCR1o4RkpoOUFyWEtkZDE4VnNvZUwxaUtHLXNwakM4YzJkaTBzSzNFWWFTRlV6MTdyZHFkNkUzUWdydGd2ZTN3aFpabG5oZEFGeVM4bEpwbVl3LVZuV2FSWHNNUnlZeDFZM29MTWJhbEJSc0hXbjdWQ3FHd1EyV1RmUGdNM1dJYVV0YVVZaTI4MWhzd2plUHFQd2g3ajZ3T0xjY3dKUXh2WUlsczR3SFFHV1ZYZHc?oc=5>
+
+### 伊朗战争久拖不决，特朗普对内塔尼亚胡的欢迎程度大不如前
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-07-29 01:59
+- 链接: <https://news.google.com/rss/articles/CBMipgFBVV95cUxPcXYxQW5BdjB6RlotZjBQYjgtdkhmYS1GazQ1aEw4MVE2UEh5SkZYU2dUWUJ6ZWdZeGZuV1lGMXAyNkdsRm5tUThOaDhLaTVDX0MySjBIaVQ3WVlnNHpFWkg4cXVjV3JwWnpSdlBqTDlxYWJ3MDZZWlJjNjhsVW0tZEExT25nNEtVNEtiNnc4LUZvVkJMR3pUa0tNNENVemdTQ29heGtn?oc=5>
+
+### 特朗普当面纠正内塔尼亚胡：我才是Number one！
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-07-28 18:54
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE0wUER4NlJWVzlFNGNzSFdQaWVCWVg3M2dSQmpZNUVJRDJoZ1BtRUl6WHBqOE14b0ZPNGVwSWRzbW1vT2RhdVdRa2xpa2g?oc=5>
 
 ### 全线大跌！特朗普重磅发声！美股芯片、原油，集体重挫
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-28 23:50
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxPUGt3b1dBcHUzd2VPNFBXT2UwRS0wME9iWGpMcjBVN3NRZkVpWW4xWDh6eGpJcVRUVWR3dUN4Vndoemh3TjRQeGNRQkJBN1Bqa1RUQ0RMRFZJWW9BZXMtQnIzRFFfb3pleVlTemQ5R1YtRVNsSkJkZnpOSG1XWGdjN0E1ZTMyTzJLLW4zcVUyRUtKTXJNUTFScw?oc=5>
+- 时间: 2026-07-28 23:23
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxQeGdWcTk3WENvbzZqR2FSZUhvR19uNGJMYktqMDVqdWxkYV9FOU05TVlrZUxLUXZDTlo5LVpQakVHMmdxellFWHNsTl9OOWpLNjlzMUxaVk5oU1JvbDNaOU00VHA5Z2s5WHhoLUdOcTJ3N2dPYnVXZWJtakZIbEtCTnhLc01qV09VVUVJZA?oc=5>
 
-### 特朗普：新关税与最高法院裁定违法的关税“在做同样的事”
+### 特朗普：有足够耐心与伊朗达成新协议 否则就开打
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-07-28 23:15
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBDNEtDMUNual9mWm03cjNEVEdVcGJMazdBS0lkcGhuWDF6ck92cklFbkREdGpTYk5kZk9vM3FCbmxKQ2RjYmFsZHBUaw?oc=5>
+
+### 特朗普称美伊“积极谈判” 警告若未果将恢复打击
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-28 14:49
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcHVvZzljd0d6VXA2R3JZRk5Cc3RJZTJlcEtxSjFNN1ltbXBmeGtvRUoyVjQtRmNicExEc2xIMDlENnRMZGlQRGNNNHVxZW5GQm80VlU1ZFczMEJ2amVHVXF5MDFRbllDNldER3BCRm1YbDJNUWNTVVJKRHpoUHZFMWduNDNJSjJ4c3ZDTVBMR205ZWgtZHZZM1VMeVlUZW9CeHhIVEFUY1FvamN3QlJ4dzU4TWtBUDRCTkhrYkZ0Nm1waFFCclV1eFItSnpMZklxOHF3ZWl4QTd2TjNfbnRz?oc=5>
+- 时间: 2026-07-27 21:56
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxPT2dHczY1UmNwWjlwUlJVNkRWSkZHM1pYR29DUExvTW5ZeXB0djdXMTlmWDJNVmVkUEpFWDFGeFhkemloRXppTEZDY3pvNS1VZENhaWVna2pjSzYwR0ZtM1k5R2lhd3ZuR2FzNWprTFhlZlJkbXJlMktseVVvdnRuNkxmQ1gydXItbGw0ZG5oSFZNOWNpX0Y0MUlvdXFGX1psRjVnVkVIMGhpZHRvaUhNVHJtcnppaExjZWlHNFhkSGYyQk9kbEdkRkNxelR2aGZs?oc=5>
 
-### Trump接连与Zelenskyy、Netanyahu举行非公开会谈……讨论两场战争解决方案- 阿视亚经济
+### 特朗普政府加快遣返寻求庇护者
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-07-29 00:14
+- 链接: <https://news.google.com/rss/articles/CBMihwJBVV95cUxQb1JOLUh2ajJ2aFFmTjFlaHRralZjTGZQdHNhMkY2R2ZsTmNCTC1hdm00MmF4eWp1empkaTBzU1ZOSVZLZGRsQ3REeG9rNFE5X1RqUmZ3aEJLRXYzUHRNMmRreXF3NmZNV2o5SElPVmhuaVlrX2FOcUxJRWpJUXphS1R6ZTF0aU92U1c1YU1idWptR0JYVXg1Znh1VlFMM1NMc3F2VVBpdGdnQ3NYcGNoVlE4RjFPUzNYWnEzSHVXZlMxVWEyeHhEWjlWUkxLSTZtUVRPMGJiTVFScUNpSTFfT3NaT1ZFS3gxQV9JSi1RaVBTdWJlQTZyZVJxMUZ4NGM4a3hjV2E3WQ?oc=5>
+
+### 明查｜特朗普的替身出现了？先把视频暂停一下
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-07-28 23:15
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PT0JUdXhTSUFfaVpKYWpEakgyNk9wb0o5dTliQmFmQjctbTQ1QnpkLTU2QkhTNWdqVzBxNDJjNkEzMVpteDJyZFNPYzBweTc2SkoxTEM0Q21CM1Zya1RtYw?oc=5>
+
+### 盘点特朗普与小肯尼迪围绕疫苗问题的紧张关系
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 아시아경제
-- 时间: 2026-07-28 21:14
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hYmxkaHY4cE9vT3QxTVI0WlFMRi1nRmFyeTQ0MUZVTDNpUVhwT1R1UWxLdENQTXl5akVnRG5WNUd3MURvdHlMOEZNX0w4MWc5dnVTeGtBUjl1NDRJYkQ0clRISlc?oc=5>
+- 场馆: 华尔街日报中文网
+- 时间: 2026-07-29 00:31
+- 链接: <https://news.google.com/rss/articles/CBMiowFBVV95cUxNNGswNHBSdDZwSzRDSU5LYUtSZDVvdUoyZGNFVzhIVEIzWGNFRTVuaTIxR3lSdVpua1dwd2lYX0Zqai1vMjFrNGlXbUN5TWRyOTd1azlBeUZpUGJrVVFpdU5Wa0lWWHhUTHNMYVdoWlg0VE5HNFpsbFB4N3BBSzdoNUFNTlBGUV94MjN6bVVjOUVLY3VkQ1ROa1hZNldBNzBTR3BB?oc=5>
 
-### TRUMP团队解锁转出1083万枚代币，价值1691万美元
+### 特朗普政府拟豁免航天公司的环境评估
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: TradingView
-- 时间: 2026-07-25 01:13
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBmS0FLVDRta21EUlM1MDNqUW9pUzN2VThLNDQ5YVVuVVAtSGo4QU9XUDRHTjEtUjNMS3RxVjBOMHUweUFMTnA0Wk5zRjhDYzVkZXJ0b1hXQlBHVzdvaTgtRlhJS3JuZw?oc=5>
+- 场馆: 华尔街日报中文网
+- 时间: 2026-07-29 00:42
+- 链接: <https://news.google.com/rss/articles/CBMitgFBVV95cUxPdzFMc2RjT0NOc29GbG5wdEVLUmZvMHk1c0RZVThDZkhXZWtnYlFGVG5kMldKenhwaHR3V3ZRb0ZRSEh0WkttY3BJc2h5NVh6UUtYM3Y2eXJHSXg1cy00UkVfWkhRbGw4bVdOXzBINEEtS1RPSk42dm9QeEsxazQtMWtyWktyQkV4OXBBVWhrRC1tc2tBU3VXMjFheWV1WG9mWk9VR2M3dl9NQkczdWZCR3A1bldKdw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-29 03:21  (10 条)
+
+- **特朗普** | 美以伊最新局势：特朗普同日会见内塔尼亚胡、泽连斯基，美以重申“阻止伊朗获得核武器” <https://news.google.com/rss/articles/CBMiiAJBVV95cUxPUG5IUDJUN3J4YTI0NXo2Wm02bmRPVmlZWVdpMDBYN091TXV5X3BTNEc1SDJJcnJzNUE5MG1KWUJGNFlVR1pzZkMtU2ZfbmtUQ25FUHloeEdFaXRCR1o4RkpoOUFyWEtkZDE4VnNvZUwxaUtHLXNwakM4YzJkaTBzSzNFWWFTRlV6MTdyZHFkNkUzUWdydGd2ZTN3aFpabG5oZEFGeVM4bEpwbVl3LVZuV2FSWHNNUnlZeDFZM29MTWJhbEJSc0hXbjdWQ3FHd1EyV1RmUGdNM1dJYVV0YVVZaTI4MWhzd2plUHFQd2g3ajZ3T0xjY3dKUXh2WUlsczR3SFFHV1ZYZHc?oc=5>
+- **特朗普** | 伊朗战争久拖不决，特朗普对内塔尼亚胡的欢迎程度大不如前 <https://news.google.com/rss/articles/CBMipgFBVV95cUxPcXYxQW5BdjB6RlotZjBQYjgtdkhmYS1GazQ1aEw4MVE2UEh5SkZYU2dUWUJ6ZWdZeGZuV1lGMXAyNkdsRm5tUThOaDhLaTVDX0MySjBIaVQ3WVlnNHpFWkg4cXVjV3JwWnpSdlBqTDlxYWJ3MDZZWlJjNjhsVW0tZEExT25nNEtVNEtiNnc4LUZvVkJMR3pUa0tNNENVemdTQ29heGtn?oc=5>
+- **特朗普** | 特朗普当面纠正内塔尼亚胡：我才是Number one！ <https://news.google.com/rss/articles/CBMiTEFVX3lxTE0wUER4NlJWVzlFNGNzSFdQaWVCWVg3M2dSQmpZNUVJRDJoZ1BtRUl6WHBqOE14b0ZPNGVwSWRzbW1vT2RhdVdRa2xpa2g?oc=5>
+- **特朗普** | 全线大跌！特朗普重磅发声！美股芯片、原油，集体重挫 <https://news.google.com/rss/articles/CBMijAFBVV95cUxQeGdWcTk3WENvbzZqR2FSZUhvR19uNGJMYktqMDVqdWxkYV9FOU05TVlrZUxLUXZDTlo5LVpQakVHMmdxellFWHNsTl9OOWpLNjlzMUxaVk5oU1JvbDNaOU00VHA5Z2s5WHhoLUdOcTJ3N2dPYnVXZWJtakZIbEtCTnhLc01qV09VVUVJZA?oc=5>
+- **特朗普** | 特朗普：有足够耐心与伊朗达成新协议 否则就开打 <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBDNEtDMUNual9mWm03cjNEVEdVcGJMazdBS0lkcGhuWDF6ck92cklFbkREdGpTYk5kZk9vM3FCbmxKQ2RjYmFsZHBUaw?oc=5>
+- **特朗普** | 特朗普称美伊“积极谈判” 警告若未果将恢复打击 <https://news.google.com/rss/articles/CBMi0AFBVV95cUxPT2dHczY1UmNwWjlwUlJVNkRWSkZHM1pYR29DUExvTW5ZeXB0djdXMTlmWDJNVmVkUEpFWDFGeFhkemloRXppTEZDY3pvNS1VZENhaWVna2pjSzYwR0ZtM1k5R2lhd3ZuR2FzNWprTFhlZlJkbXJlMktseVVvdnRuNkxmQ1gydXItbGw0ZG5oSFZNOWNpX0Y0MUlvdXFGX1psRjVnVkVIMGhpZHRvaUhNVHJtcnppaExjZWlHNFhkSGYyQk9kbEdkRkNxelR2aGZs?oc=5>
+- **特朗普** | 特朗普政府加快遣返寻求庇护者 <https://news.google.com/rss/articles/CBMihwJBVV95cUxQb1JOLUh2ajJ2aFFmTjFlaHRralZjTGZQdHNhMkY2R2ZsTmNCTC1hdm00MmF4eWp1empkaTBzU1ZOSVZLZGRsQ3REeG9rNFE5X1RqUmZ3aEJLRXYzUHRNMmRreXF3NmZNV2o5SElPVmhuaVlrX2FOcUxJRWpJUXphS1R6ZTF0aU92U1c1YU1idWptR0JYVXg1Znh1VlFMM1NMc3F2VVBpdGdnQ3NYcGNoVlE4RjFPUzNYWnEzSHVXZlMxVWEyeHhEWjlWUkxLSTZtUVRPMGJiTVFScUNpSTFfT3NaT1ZFS3gxQV9JSi1RaVBTdWJlQTZyZVJxMUZ4NGM4a3hjV2E3WQ?oc=5>
+- **特朗普** | 明查｜特朗普的替身出现了？先把视频暂停一下 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PT0JUdXhTSUFfaVpKYWpEakgyNk9wb0o5dTliQmFmQjctbTQ1QnpkLTU2QkhTNWdqVzBxNDJjNkEzMVpteDJyZFNPYzBweTc2SkoxTEM0Q21CM1Zya1RtYw?oc=5>
+- **Trump** | 盘点特朗普与小肯尼迪围绕疫苗问题的紧张关系 <https://news.google.com/rss/articles/CBMiowFBVV95cUxNNGswNHBSdDZwSzRDSU5LYUtSZDVvdUoyZGNFVzhIVEIzWGNFRTVuaTIxR3lSdVpua1dwd2lYX0Zqai1vMjFrNGlXbUN5TWRyOTd1azlBeUZpUGJrVVFpdU5Wa0lWWHhUTHNMYVdoWlg0VE5HNFpsbFB4N3BBSzdoNUFNTlBGUV94MjN6bVVjOUVLY3VkQ1ROa1hZNldBNzBTR3BB?oc=5>
+- **Trump** | 特朗普政府拟豁免航天公司的环境评估 <https://news.google.com/rss/articles/CBMitgFBVV95cUxPdzFMc2RjT0NOc29GbG5wdEVLUmZvMHk1c0RZVThDZkhXZWtnYlFGVG5kMldKenhwaHR3V3ZRb0ZRSEh0WkttY3BJc2h5NVh6UUtYM3Y2eXJHSXg1cy00UkVfWkhRbGw4bVdOXzBINEEtS1RPSk42dm9QeEsxazQtMWtyWktyQkV4OXBBVWhrRC1tc2tBU3VXMjFheWV1WG9mWk9VR2M3dl9NQkczdWZCR3A1bldKdw?oc=5>
 
 ### 2026-07-29 00:00  (6 条)
 
