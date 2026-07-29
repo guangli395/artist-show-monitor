@@ -1,74 +1,73 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-29 09:19**
-- 本轮扫到 8058 条, 新增 **8** 条
+- 最近更新: **2026-07-29 11:38**
+- 本轮扫到 8064 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (6 条)
 
-### 演唱会门票团购怎么买？3大渠道实测对比，买到即赚到+FAQ
+### 又吃糖又犯困，特朗普在美政客葬礼现场小动作惹争议，白宫：他在缅怀
 
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776555_1d5abd92b06801z12e.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-07-29 10:37
+- 链接: <https://news.google.com/rss/articles/CBMikAFBVV95cUxOT284Rlg4X2V1TFBtcG4wZC1xOGFHbXpjb3JVaFI2QlF5UndnX0VjbmhKSzZRdDE2WFRSZWJoN1hFNnQtOWluYzY3RUhyYjQzVlYzcDFQOTNScWQyWHFSaC01ZFcydDlxaGQ5MjNOU2RLZThCTzhJTXc2WmVlOGpUQy1uOFRqeWtyNnRGdjRfd24?oc=5>
 
-### 演唱会门票团购怎么买？这篇攻略让你轻松组队抢票+FAQ
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923155_1d5ae15d306801jadg.html>
-
-### 周杰伦词曲，五月天怪兽阿信等合作新歌谁稀罕
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002omyi.html>
-
-### 特朗普参加盟友格雷厄姆葬礼，称“没有他不喜欢的战争”，被拍到在葬礼上吃薄荷糖，还分给万斯和贝森特，泽连斯基、内塔尼亚胡现场交谈
+### 关键时刻，特朗普见了内塔尼亚胡
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-07-29 08:57
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5UREI2UmdVNnRiZmRfWFBBM3lmcHlFWDhKeklmOG50amZSbjAzMEZyclhKNzdkb01FdkhLdUQtdHNlVkpLMjJ6Q3FvNXQ0UzJ0VVlEWm9nMzJtbXVScUhBb3BqOWNHX0xtcC1Obkcweko?oc=5>
+- 时间: 2026-07-29 03:47
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5HYkZLUVc4ekFEc0xIUlFFcmtNMno2MVZTZ0JJSlFQWUtDUTB5bkZKcGZnNTJ4RGNGTzJIcFJIamtWdWNyRThGSzhQQTVWSklBZGFDWU9HcnEwMm5hOWgzLWpaempmRlJIRC10eFByX2xwRS1tMlgzSw?oc=5>
 
-### 特朗普会晤内塔尼亚胡，此前刚与泽连斯基会谈
+### 特朗普：“内塔尼亚胡为什么不直接告诉我，为什么要向全世界宣布？”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-29 00:08
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE01ZkVfck5VNW5IdUlaekFSdGZHRXBySUZkY2pzaHMxXzFBa2lOT3VybkliajF1U29haDduWW1ZaU10d1pZOHVPZWRMdEI4Z0MyVC1MTDdmeGhrVlpNNUVYYkJYMUFTdkZoQ2xXY3V0N0M3NDRnaDZoaw?oc=5>
+
+### 伊朗突袭美军基地！特朗普的停火赌局遭遇新考验，油价反弹4%！
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-29 09:22
+- 链接: <https://news.google.com/rss/articles/CBMipAJBVV95cUxNakU1QVFScXRmRE5ES2tWZ1ozMndkV1dUczBRbDNwanJubnlGeWV5Si14NTcxZFdtYkZlb3RWNEF1ZXE5NlpESGhlbTR0NnJjRnVVMWNqb2JMSl84SDlIUW5ia0JqYTNpNXp3dl9tV0U3aF9ETXQ4X1lqQnNLUkE5SUR3UDUxSXhNam9UX3pOTERwUGUzX0Q1REJzSTRYZWZEWU85X2hMVHdFNG9QU0lkSzM2N3dNZHFnZXJ6VERfOFZVUnlkYXZDZzJrQWlJTklEa19zQ3RlSjlUZEE2UXRwVWhTdF95eExjN2FrSGQ4M2g1MVJlVDl0eENZMzc4TER2U1hRc3ZmblpBQXBjS19SbFVMTE5iMWk5OEJkSmhLSGRmUVMz?oc=5>
+
+### 特朗普宣布又赢了：美国有上千年石油储备 而中国没有
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 东方财富
+- 时间: 2026-07-28 05:54
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5QZTRkX1BCd0J4M2VuVUp2UTR5cXplcmg0VjRiR1RlcldSdjdKZ0VjYTlhMFI4ellrRzRBQTN6YlJoZjNlaFVBc21hVkNwMFBGMENaX3VwS0Zia1pMNTNPbGduLTVYdw?oc=5>
+
+### 特朗普再次威胁打击伊朗镐山地下核设施
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
 - 时间: 2026-07-29 08:43
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFAtMkhsOXhvdzVFam5mTXBRZ2NaYnZRUmI0ZElJWTRyTDlaaHV1YktjcmtHRHBaODhELS1SRjRDNzhYeXlSV2NXODVLNA?oc=5>
-
-### 内塔尼亚胡盛赞白宫会晤 特朗普会前连表对其不满
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-07-29 08:51
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9iUVdmZ2doUEg3YXFfNDZDeG53M2xYVGJJbGQ4VUViS0lWcUlyUmNtSVlIb2pUTTZCdERyOTV6ZnpSem41WVRKdERDcGZRWkpLdnp5VEFOZ2VLXzduR0ZKazFUNS1KYm9mdWw5OHhnMExvSlFoY29oRUdmY2lxa1E?oc=5>
-
-### 特朗普拉票：我比你们爸妈还好 重振汽车制造业
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-07-29 06:06
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBoM3djdVJqbXYzR2NsNzZkVXlIWXVWS2dxNFNYSFMzM2ZZZ3R5bFJDTTJLYzN6ejZIaC1xcnZNQzVSdHI3ZGVVRFJ5cXhYWV9aYUI3TnNzNU5rRmo4a29MQ3F6UlZvRlhPZEpWZkVMaUM?oc=5>
-
-### 以色列前高官联名致信特朗普 警告约旦河西岸局势或升级
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-07-28 02:43
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TazB5WU1KR0RjV0ZUX3FTOEdNeF9SQVVSTHE0OUY1alN4bmVhbzhqNDZDZHc5TnFmSDc3SDJPRWZiU0ZNNEJSZkZNQWNjeTI1SXNvMUx5ejBTYXI4NVZLVEk0UGNVQQ?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE81aHBpZi1zLWJUbU5MNG5icjRUZHlDdWtwZi1sWm9qMXdzd3JPTmFib05xRVpqNkUwcWpia3pFNzVlUkpuT19wMmUwVQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-29 11:38  (6 条)
+
+- **特朗普** | 又吃糖又犯困，特朗普在美政客葬礼现场小动作惹争议，白宫：他在缅怀 <https://news.google.com/rss/articles/CBMikAFBVV95cUxOT284Rlg4X2V1TFBtcG4wZC1xOGFHbXpjb3JVaFI2QlF5UndnX0VjbmhKSzZRdDE2WFRSZWJoN1hFNnQtOWluYzY3RUhyYjQzVlYzcDFQOTNScWQyWHFSaC01ZFcydDlxaGQ5MjNOU2RLZThCTzhJTXc2WmVlOGpUQy1uOFRqeWtyNnRGdjRfd24?oc=5>
+- **特朗普** | 关键时刻，特朗普见了内塔尼亚胡 <https://news.google.com/rss/articles/CBMieEFVX3lxTE5HYkZLUVc4ekFEc0xIUlFFcmtNMno2MVZTZ0JJSlFQWUtDUTB5bkZKcGZnNTJ4RGNGTzJIcFJIamtWdWNyRThGSzhQQTVWSklBZGFDWU9HcnEwMm5hOWgzLWpaempmRlJIRC10eFByX2xwRS1tMlgzSw?oc=5>
+- **特朗普** | 特朗普：“内塔尼亚胡为什么不直接告诉我，为什么要向全世界宣布？” <https://news.google.com/rss/articles/CBMieEFVX3lxTE01ZkVfck5VNW5IdUlaekFSdGZHRXBySUZkY2pzaHMxXzFBa2lOT3VybkliajF1U29haDduWW1ZaU10d1pZOHVPZWRMdEI4Z0MyVC1MTDdmeGhrVlpNNUVYYkJYMUFTdkZoQ2xXY3V0N0M3NDRnaDZoaw?oc=5>
+- **特朗普** | 伊朗突袭美军基地！特朗普的停火赌局遭遇新考验，油价反弹4%！ <https://news.google.com/rss/articles/CBMipAJBVV95cUxNakU1QVFScXRmRE5ES2tWZ1ozMndkV1dUczBRbDNwanJubnlGeWV5Si14NTcxZFdtYkZlb3RWNEF1ZXE5NlpESGhlbTR0NnJjRnVVMWNqb2JMSl84SDlIUW5ia0JqYTNpNXp3dl9tV0U3aF9ETXQ4X1lqQnNLUkE5SUR3UDUxSXhNam9UX3pOTERwUGUzX0Q1REJzSTRYZWZEWU85X2hMVHdFNG9QU0lkSzM2N3dNZHFnZXJ6VERfOFZVUnlkYXZDZzJrQWlJTklEa19zQ3RlSjlUZEE2UXRwVWhTdF95eExjN2FrSGQ4M2g1MVJlVDl0eENZMzc4TER2U1hRc3ZmblpBQXBjS19SbFVMTE5iMWk5OEJkSmhLSGRmUVMz?oc=5>
+- **特朗普** | 特朗普宣布又赢了：美国有上千年石油储备 而中国没有 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5QZTRkX1BCd0J4M2VuVUp2UTR5cXplcmg0VjRiR1RlcldSdjdKZ0VjYTlhMFI4ellrRzRBQTN6YlJoZjNlaFVBc21hVkNwMFBGMENaX3VwS0Zia1pMNTNPbGduLTVYdw?oc=5>
+- **特朗普** | 特朗普再次威胁打击伊朗镐山地下核设施 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE81aHBpZi1zLWJUbU5MNG5icjRUZHlDdWtwZi1sWm9qMXdzd3JPTmFib05xRVpqNkUwcWpia3pFNzVlUkpuT19wMmUwVQ?oc=5>
 
 ### 2026-07-29 09:19  (8 条)
 
