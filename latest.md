@@ -1,64 +1,85 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-29 06:12**
-- 本轮扫到 8050 条, 新增 **6** 条
+- 最近更新: **2026-07-29 09:19**
+- 本轮扫到 8058 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (8 条)
 
-### 特朗普总统在密歇根州米尔福德的通用汽车工厂坐进一辆闪亮的崭新凯迪拉克。 ​
+### 演唱会门票团购怎么买？3大渠道实测对比，买到即赚到+FAQ
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-07-29 04:57
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE9pQW1vYl85c0RQS2lsMDNaTkwzUkVBWGtlM21xQmJBYURwWkd6bnB3UllSQ0VrTElVakZlMFZ3MnotLVJsd1BPUkF6RlZNZ0Q1d1hreTFad1owS21Pa2dmNkVWbUdjWHcxanp5T2RNR19kVmM?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776555_1d5abd92b06801z12e.html>
 
-### 特朗普在格雷厄姆葬礼上被发现多次打瞌睡，仰头闭眼又勉强睁开，白宫：他在缅怀
+### 演唱会门票团购怎么买？这篇攻略让你轻松组队抢票+FAQ
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-07-29 05:12
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE81UVJ5TkE2UEttaU1aN2ViNGxKRG1SU3BEdmhSMjVMOUJGTTVxYi0tVmhxU0dzTFVMeVhDTm9WajBHNUZQRnlGRWNjRXl5YWV5ZjhtSVl3T3RRZHJTb1RNMnA3UHFJaUdKWi1kNVZoM1hyUQ?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923155_1d5ae15d306801jadg.html>
 
-### “特朗普诉芭芭拉案”：出生公民权判决背后，被剥夺与被损害的
+### 周杰伦词曲，五月天怪兽阿信等合作新歌谁稀罕
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-07-29 05:17
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5IRERrNVVkOTJXbXVUWmFYUjREMDBfMG1RM3FiQmlnS3NzMkVJM084NjJJbEd4WDNvMmdRYjZyQW9yVE13bndpMlJZX0RRQXViT3pzTlBDMTVjQTlLTzJRcVVFREM4eTktemdnQUo1YWtPNmdzMjRpaw?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002omyi.html>
 
-### 伊朗武装部队警告特朗普
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-29 05:30
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE50V1g5cGtTQjFqeXNJQWpoTGNHMlluRi03YWdDTm53R3hFR1pCZ0FocV9PNFVXQm9URUZhYjFGbnlLN2xoYlg4Mg?oc=5>
-
-### 特朗普再威胁恢复打击伊朗 中东冲突或多点爆发
+### 特朗普参加盟友格雷厄姆葬礼，称“没有他不喜欢的战争”，被拍到在葬礼上吃薄荷糖，还分给万斯和贝森特，泽连斯基、内塔尼亚胡现场交谈
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-07-28 01:17
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5aczRxOU1fb3NiUXQ4VVR0MTZVU3Z0NGtUNmtjRHNJWG5LOHQzUzVvZ1VOQVd2WDU5VjkzV2FPR21vclZYMHdPUFNDbktGVF9YZjEySER2QmdJcUxWQVJyRDgyUU5MS3pLd1Z0dzBrblM2TEtrTDczLQ?oc=5>
+- 时间: 2026-07-29 08:57
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5UREI2UmdVNnRiZmRfWFBBM3lmcHlFWDhKeklmOG50amZSbjAzMEZyclhKNzdkb01FdkhLdUQtdHNlVkpLMjJ6Q3FvNXQ0UzJ0VVlEWm9nMzJtbXVScUhBb3BqOWNHX0xtcC1Obkcweko?oc=5>
 
-### 特朗普：美以在伊朗问题上存在分歧 - 新闻- 中国网
+### 特朗普会晤内塔尼亚胡，此前刚与泽连斯基会谈
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-07-29 05:51
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9iVG1ZUmtVbnpBRnplQ3JxYWMzZnBiRHNTdFVVV0pYRE9kLWw0c1U5N3JZR09udEtndWhmTDViU3d0bWJlRXhBTU1QV01DcjFUb19SZlk5dTZkeV9tOThwTmVocXZHM0dXQTgybEVyVHVuV0FSeldNbEpZdGVsaHc?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-07-29 08:43
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFAtMkhsOXhvdzVFam5mTXBRZ2NaYnZRUmI0ZElJWTRyTDlaaHV1YktjcmtHRHBaODhELS1SRjRDNzhYeXlSV2NXODVLNA?oc=5>
+
+### 内塔尼亚胡盛赞白宫会晤 特朗普会前连表对其不满
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-07-29 08:51
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9iUVdmZ2doUEg3YXFfNDZDeG53M2xYVGJJbGQ4VUViS0lWcUlyUmNtSVlIb2pUTTZCdERyOTV6ZnpSem41WVRKdERDcGZRWkpLdnp5VEFOZ2VLXzduR0ZKazFUNS1KYm9mdWw5OHhnMExvSlFoY29oRUdmY2lxa1E?oc=5>
+
+### 特朗普拉票：我比你们爸妈还好 重振汽车制造业
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-07-29 06:06
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBoM3djdVJqbXYzR2NsNzZkVXlIWXVWS2dxNFNYSFMzM2ZZZ3R5bFJDTTJLYzN6ejZIaC1xcnZNQzVSdHI3ZGVVRFJ5cXhYWV9aYUI3TnNzNU5rRmo4a29MQ3F6UlZvRlhPZEpWZkVMaUM?oc=5>
+
+### 以色列前高官联名致信特朗普 警告约旦河西岸局势或升级
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-07-28 02:43
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TazB5WU1KR0RjV0ZUX3FTOEdNeF9SQVVSTHE0OUY1alN4bmVhbzhqNDZDZHc5TnFmSDc3SDJPRWZiU0ZNNEJSZkZNQWNjeTI1SXNvMUx5ejBTYXI4NVZLVEk0UGNVQQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-29 09:19  (8 条)
+
+- **周杰伦** | 演唱会门票团购怎么买？3大渠道实测对比，买到即赚到+FAQ <https://k.sina.com.cn/article_7879776555_1d5abd92b06801z12e.html>
+- **周杰伦** | 演唱会门票团购怎么买？这篇攻略让你轻松组队抢票+FAQ <https://k.sina.com.cn/article_7879923155_1d5ae15d306801jadg.html>
+- **周杰伦** | 周杰伦词曲，五月天怪兽阿信等合作新歌谁稀罕 <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002omyi.html>
+- **特朗普** | 特朗普参加盟友格雷厄姆葬礼，称“没有他不喜欢的战争”，被拍到在葬礼上吃薄荷糖，还分给万斯和贝森特，泽连斯基、内塔尼亚胡现场交谈 <https://news.google.com/rss/articles/CBMicEFVX3lxTE5UREI2UmdVNnRiZmRfWFBBM3lmcHlFWDhKeklmOG50amZSbjAzMEZyclhKNzdkb01FdkhLdUQtdHNlVkpLMjJ6Q3FvNXQ0UzJ0VVlEWm9nMzJtbXVScUhBb3BqOWNHX0xtcC1Obkcweko?oc=5>
+- **特朗普** | 特朗普会晤内塔尼亚胡，此前刚与泽连斯基会谈 <https://news.google.com/rss/articles/CBMiS0FVX3lxTFAtMkhsOXhvdzVFam5mTXBRZ2NaYnZRUmI0ZElJWTRyTDlaaHV1YktjcmtHRHBaODhELS1SRjRDNzhYeXlSV2NXODVLNA?oc=5>
+- **特朗普** | 内塔尼亚胡盛赞白宫会晤 特朗普会前连表对其不满 <https://news.google.com/rss/articles/CBMif0FVX3lxTE9iUVdmZ2doUEg3YXFfNDZDeG53M2xYVGJJbGQ4VUViS0lWcUlyUmNtSVlIb2pUTTZCdERyOTV6ZnpSem41WVRKdERDcGZRWkpLdnp5VEFOZ2VLXzduR0ZKazFUNS1KYm9mdWw5OHhnMExvSlFoY29oRUdmY2lxa1E?oc=5>
+- **特朗普** | 特朗普拉票：我比你们爸妈还好 重振汽车制造业 <https://news.google.com/rss/articles/CBMicEFVX3lxTFBoM3djdVJqbXYzR2NsNzZkVXlIWXVWS2dxNFNYSFMzM2ZZZ3R5bFJDTTJLYzN6ejZIaC1xcnZNQzVSdHI3ZGVVRFJ5cXhYWV9aYUI3TnNzNU5rRmo4a29MQ3F6UlZvRlhPZEpWZkVMaUM?oc=5>
+- **特朗普** | 以色列前高官联名致信特朗普 警告约旦河西岸局势或升级 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TazB5WU1KR0RjV0ZUX3FTOEdNeF9SQVVSTHE0OUY1alN4bmVhbzhqNDZDZHc5TnFmSDc3SDJPRWZiU0ZNNEJSZkZNQWNjeTI1SXNvMUx5ejBTYXI4NVZLVEk0UGNVQQ?oc=5>
 
 ### 2026-07-29 06:12  (6 条)
 
