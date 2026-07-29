@@ -1,56 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-29 15:46**
-- 本轮扫到 8078 条, 新增 **5** 条
+- 最近更新: **2026-07-29 17:08**
+- 本轮扫到 8082 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (4 条)
 
-### 特朗普 ：美国将“报复”伊朗
+### 边谈边打，美以伊又进新博弈？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪军事_手机新浪网
-- 时间: 2026-07-29 15:23
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE03SVU1OWVmX3hJVm9weEVsNGJYV3lnSjdhUENSVzMwRlBpRENvZXJWQnRUcmFtdTl4UUN4aEY2MEV0cnhxTlJjcEg3OW42X1lRZVNEOThnbmJURTR2d0dkMEFSYkZMbTM5RUt2b0JrelBlanM?oc=5>
+- 时间: 2026-07-29 16:23
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5VUlhFZlUtNnJKdFRoWkhlNWlJUmpQVUZ3SG5kam9xZHV0ZlJzMEJzLXJpNWNUVGFCcUxKdTBmeGowbHpObU8yakxyRkpnXzBXcGwyTTZPaHk3U3Itd3ZsNFpzaS1xRFprVUxldmx4NXFwLTg?oc=5>
 
-### 刚见完内塔尼亚胡，特朗普就对伊朗放狠话
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-29 14:53
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE5tNV8xR0tvUXVQZDdraGR2VUwyTDA5VVA0SHhobDJsenlIOTVsN3VhR1R4eUxoNEZQUWpybXZ0OGdUY092VUREQTBxVkh2bU1aSGthWFowTndhdzVLR0ZZUG5WaHpYMFdHaFdXVDdhWEczVkJUNWc?oc=5>
-
-### 特朗普政府禁止中国人形机械人进口 北京批“泛化国家安全”
+### 特朗普称美国将强力打击伊朗 中东局势升级推动国际油价大幅飙升
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-07-29 11:18
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMdTVsbkZNT2JscUZlWjYyQnoxR0NkekxmYmtnUUtEMjhibVVJek43S2tram44c3BWVS1HcWVYSTk4X1h2S0hFTVZINEdDbmttTWNMTkxva0hqdENYUU52cDNJTENyQdIBa0FVX3lxTE5wb2Y2bm9Qa0RGRUhia1BSaDVHQVdGazBxaFhpYUhNSWx3dUE3NnItY0huZ1hNTnlha1FicElSMVZkcTRSNjE5WXJ1WFdHYkxjbjNzdWNCTHh2U2xKdVFFQXhmTW9XMEk1M3ZN?oc=5>
+- 场馆: 财联社
+- 时间: 2026-07-29 13:12
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE1KWTJRSFdycUZJUE9Dd3FaSjM5X2VENHhuVGZLTHpjVDFUTWZhOS15X2FSc2NHYlh4ajREa0NPekkzR2t0OGNEVA?oc=5>
 
-### 泽连斯基成特朗普座上宾，都不让万斯露脸了
+### 美国参议院确认克莱顿出任国家情报总监
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-29 11:03
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE52cG1lTXNuQ3pKVmZfSDFINVR3aXFfU21HS09SbGV1bUN4aGxreXpwekxtcEJvMnJMYWVUYnBvMDJMOGFVa29GM0czZG4?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-07-29 16:35
+- 链接: <https://news.google.com/rss/articles/CBMipAFBVV95cUxNbnJzTGJNS2NydGxxR1pIRVU0Z2Fkd0x1a1VHVnZmRS1EM0p2cWc5T05CTFU2N0Nfb0dhTld6cUs2WlNZdHpFMjlQb1hsbHpZR0x1d2ZzVTdLcl80TFZnMGpNUE5GeWd2S3YwdEw4SDJZZmtBMFpjZVZjOUJmU08wZEVfbll4WjZDdkh3YzZuMXFHU0p3OG5xZFJWVzd4aVhDdHZQMNIBpwFBVV95cUxNaDVTLXFmUjkyZVlTbzhsUl9uWmxiaEpaMTN5OWJlbGhzbFNxYmUwRlFEeXM5YXpGMXVtaDIxTmo0QmMwMWZLR1pGZTJuWVAxd1U2b2lKekZ4dnJzSEo0c1B4Y09UTzBnbHhvOHFxZmhrMk9LTWVHWndzNGVwOWhoUl9EUHZpeERMYUFwREppZU1hZ2QxNmdia0hlRy1qaGQwMDlxSGlaRQ?oc=5>
 
-### 特朗普同日会见内塔尼亚胡和泽连斯基
+### 午间要闻：特朗普誓言对伊朗袭击作出强力回应，股市下跌、油价上涨；Vertiv第二季度营收不及预期
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-07-29 05:11
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VN3pNOW1FT2tLakpSOF9POWIya1Z4UWJJTDdmR3IxdTVUWlgyYnp1MXFNQjQyY05BMkUzcjFwb2Q3RmNoejhqSWZiQXBMVktnU1FXUHFyMUx5RDBIM2RmS2U2akQtZTRl?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-07-29 15:48
+- 链接: <https://news.google.com/rss/articles/CBMinwFBVV95cUxOdk5jMUE1M19HYnBuYm13VVA4YUlQX1ZhSlh5S3BkY1NpbmJXVVRpbHc0VFFNUFNKeVBGZGRFQTRuLTR4R0JHZlItYmJoR3VxQXlkdTRKTGRfajV5WTY3MzNMVGxid1NlS25lQ254TmNSWUVKeFIxb0FLZjR6Y1UxRE9GTVJqTGFnbjRDcmMzeUJYaEZIdjNZR3NTdUZmemM?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-29 17:08  (4 条)
+
+- **特朗普** | 边谈边打，美以伊又进新博弈？ <https://news.google.com/rss/articles/CBMic0FVX3lxTE5VUlhFZlUtNnJKdFRoWkhlNWlJUmpQVUZ3SG5kam9xZHV0ZlJzMEJzLXJpNWNUVGFCcUxKdTBmeGowbHpObU8yakxyRkpnXzBXcGwyTTZPaHk3U3Itd3ZsNFpzaS1xRFprVUxldmx4NXFwLTg?oc=5>
+- **特朗普** | 特朗普称美国将强力打击伊朗 中东局势升级推动国际油价大幅飙升 <https://news.google.com/rss/articles/CBMiSEFVX3lxTE1KWTJRSFdycUZJUE9Dd3FaSjM5X2VENHhuVGZLTHpjVDFUTWZhOS15X2FSc2NHYlh4ajREa0NPekkzR2t0OGNEVA?oc=5>
+- **Trump** | 美国参议院确认克莱顿出任国家情报总监 <https://news.google.com/rss/articles/CBMipAFBVV95cUxNbnJzTGJNS2NydGxxR1pIRVU0Z2Fkd0x1a1VHVnZmRS1EM0p2cWc5T05CTFU2N0Nfb0dhTld6cUs2WlNZdHpFMjlQb1hsbHpZR0x1d2ZzVTdLcl80TFZnMGpNUE5GeWd2S3YwdEw4SDJZZmtBMFpjZVZjOUJmU08wZEVfbll4WjZDdkh3YzZuMXFHU0p3OG5xZFJWVzd4aVhDdHZQMNIBpwFBVV95cUxNaDVTLXFmUjkyZVlTbzhsUl9uWmxiaEpaMTN5OWJlbGhzbFNxYmUwRlFEeXM5YXpGMXVtaDIxTmo0QmMwMWZLR1pGZTJuWVAxd1U2b2lKekZ4dnJzSEo0c1B4Y09UTzBnbHhvOHFxZmhrMk9LTWVHWndzNGVwOWhoUl9EUHZpeERMYUFwREppZU1hZ2QxNmdia0hlRy1qaGQwMDlxSGlaRQ?oc=5>
+- **Trump** | 午间要闻：特朗普誓言对伊朗袭击作出强力回应，股市下跌、油价上涨；Vertiv第二季度营收不及预期 <https://news.google.com/rss/articles/CBMinwFBVV95cUxOdk5jMUE1M19HYnBuYm13VVA4YUlQX1ZhSlh5S3BkY1NpbmJXVVRpbHc0VFFNUFNKeVBGZGRFQTRuLTR4R0JHZlItYmJoR3VxQXlkdTRKTGRfajV5WTY3MzNMVGxid1NlS25lQ254TmNSWUVKeFIxb0FLZjR6Y1UxRE9GTVJqTGFnbjRDcmMzeUJYaEZIdjNZR3NTdUZmemM?oc=5>
 
 ### 2026-07-29 15:46  (5 条)
 
