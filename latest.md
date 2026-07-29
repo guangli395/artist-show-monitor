@@ -1,24 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-29 21:25**
-- 本轮扫到 8087 条, 新增 **1** 条
+- 最近更新: **2026-07-29 22:27**
+- 本轮扫到 8090 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮新发现 (3 条)
 
-### 内塔尼亚胡结束与特朗普会晤：两人“最好的对话之一”
+### 美股收盘：特朗普最后时刻砸盘 纳斯达克100指数坠入回调区间
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-07-29 22:16
+- 链接: <https://news.google.com/rss/articles/CBMixwFBVV95cUxOMVRpbTltaHplaHFnazJNMDVSa0FiVU5iUXJsU2l1NzUxT1FyQnEzODQ0YWYxTHRxSVlKOFdrSEJ0Z1Fwb0xHLU8zYXlaVWJFRTFacUt3SGdpVDVJTnR0RlVsRV9tYnFPU3VQRU9NTS1wdHFXVjhORllHUHZqSmFpMEpLVndaUkRyaHQ0OG1VUEEyUy0zeHJfTEkyQ3Fla0lBRWVJRzkyM0hHZHdtWGJYMnRDZHpmazZxemFMMVF3YTE3Ym1yNWcw?oc=5>
+
+### 7月30日外盘头条：特朗普称美国将“狠狠打击”伊朗 美联储维持利率不变 微软Q4业绩大超预期 云收入增超40%
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-29 20:51
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBmd0h5cndkVU9GTThDcXZNYkxKeUZRVUdFMkRFb2c3dnMwVHg1bUFuX3hfZm9FLTU5UlRMQ3ZxbHdzLWJxZWZMZGM3UmRCYS0zcHR6bDkwNjkwQkVlSjNlSk5remhBRVFFU2UzZmVPb3BPcjcxZDZvUw?oc=5>
+- 时间: 2026-07-29 21:49
+- 链接: <https://news.google.com/rss/articles/CBMijwJBVV95cUxOTW84dWF6RmJVUEI5WGtuNVlGVE5hR0pnd1E4THZPQzdBV1lUNU0xaGVxa0dCZFVWNk9FdXQzUXRiMm9VSnd0S0tFNFRpLXgxLUg0aXhOS25vZ0xyVzBrMFhac3duYzZVMXBYbGJDd0ZFQ00tSnJUR1FiY1cyQzdKZDVkZGdnY09tcF9WY1B4T25lSS1KV1A2U3ZkdTJfUUV3cF95LUtqNmk4dWF3c0pjNTJ3RWpQSW16SVY1WjRwelVydm9fWXVVSHB4WExuOHJzSUd3QkIxSzBucXl6YWNPc04xeV80bWl3NUVQNVZHQ1BPX2pSaVBQN2YxRlR2ZlB3ZGdyS0xEeGhRcjRMWDRv?oc=5>
+
+### 以媒：内塔尼亚胡向特朗普阐述对伊“三种情景”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-07-29 21:10
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE9WMEt3eGN2VEpTR3haUGdJc1NpNENZRkpkVkVSX2ZwaGhlSlF3Wjc1OG9VUF9GNWQ4Wm9zeVJkbXlubUFNdEExUkZDMjRMeEV0X0F0ZGNMVkV4NmQ1WUE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-29 22:27  (3 条)
+
+- **特朗普** | 美股收盘：特朗普最后时刻砸盘 纳斯达克100指数坠入回调区间 <https://news.google.com/rss/articles/CBMixwFBVV95cUxOMVRpbTltaHplaHFnazJNMDVSa0FiVU5iUXJsU2l1NzUxT1FyQnEzODQ0YWYxTHRxSVlKOFdrSEJ0Z1Fwb0xHLU8zYXlaVWJFRTFacUt3SGdpVDVJTnR0RlVsRV9tYnFPU3VQRU9NTS1wdHFXVjhORllHUHZqSmFpMEpLVndaUkRyaHQ0OG1VUEEyUy0zeHJfTEkyQ3Fla0lBRWVJRzkyM0hHZHdtWGJYMnRDZHpmazZxemFMMVF3YTE3Ym1yNWcw?oc=5>
+- **特朗普** | 7月30日外盘头条：特朗普称美国将“狠狠打击”伊朗 美联储维持利率不变 微软Q4业绩大超预期 云收入增超40% <https://news.google.com/rss/articles/CBMijwJBVV95cUxOTW84dWF6RmJVUEI5WGtuNVlGVE5hR0pnd1E4THZPQzdBV1lUNU0xaGVxa0dCZFVWNk9FdXQzUXRiMm9VSnd0S0tFNFRpLXgxLUg0aXhOS25vZ0xyVzBrMFhac3duYzZVMXBYbGJDd0ZFQ00tSnJUR1FiY1cyQzdKZDVkZGdnY09tcF9WY1B4T25lSS1KV1A2U3ZkdTJfUUV3cF95LUtqNmk4dWF3c0pjNTJ3RWpQSW16SVY1WjRwelVydm9fWXVVSHB4WExuOHJzSUd3QkIxSzBucXl6YWNPc04xeV80bWl3NUVQNVZHQ1BPX2pSaVBQN2YxRlR2ZlB3ZGdyS0xEeGhRcjRMWDRv?oc=5>
+- **特朗普** | 以媒：内塔尼亚胡向特朗普阐述对伊“三种情景” <https://news.google.com/rss/articles/CBMiXkFVX3lxTE9WMEt3eGN2VEpTR3haUGdJc1NpNENZRkpkVkVSX2ZwaGhlSlF3Wjc1OG9VUF9GNWQ4Wm9zeVJkbXlubUFNdEExUkZDMjRMeEV0X0F0ZGNMVkV4NmQ1WUE?oc=5>
 
 ### 2026-07-29 21:25  (1 条)
 
