@@ -1,11 +1,11 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-29 22:27**
-- 本轮扫到 8090 条, 新增 **3** 条
+- 最近更新: **2026-07-29 23:29**
+- 本轮扫到 8097 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (7 条)
 
 ### 美股收盘：特朗普最后时刻砸盘 纳斯达克100指数坠入回调区间
 
@@ -13,28 +13,70 @@
 - 来源: `googlenews`
 - 场馆: 新浪新闻_手机新浪网
 - 时间: 2026-07-29 22:16
-- 链接: <https://news.google.com/rss/articles/CBMixwFBVV95cUxOMVRpbTltaHplaHFnazJNMDVSa0FiVU5iUXJsU2l1NzUxT1FyQnEzODQ0YWYxTHRxSVlKOFdrSEJ0Z1Fwb0xHLU8zYXlaVWJFRTFacUt3SGdpVDVJTnR0RlVsRV9tYnFPU3VQRU9NTS1wdHFXVjhORllHUHZqSmFpMEpLVndaUkRyaHQ0OG1VUEEyUy0zeHJfTEkyQ3Fla0lBRWVJRzkyM0hHZHdtWGJYMnRDZHpmazZxemFMMVF3YTE3Ym1yNWcw?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBWZTFpcm1KWVRXM0tER2FVMGJjT2p6U0I1UnY0VkNaQW9weVlrNVJ2dkFTZDVsVzJZeGpMclpCaEM2X2J2U21LZ2Z6bHJkdXRyMVdoODFnTjhZcWNpSXJTT2xaOTlBXy1zVFpLYzBoMlc?oc=5>
 
-### 7月30日外盘头条：特朗普称美国将“狠狠打击”伊朗 美联储维持利率不变 微软Q4业绩大超预期 云收入增超40%
+### 7月30日外盘头条：特朗普称美国将“狠狠打击”伊朗美联储维持利率不变微软Q4业绩大超预期云收入增超40%
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-07-29 21:46
+- 链接: <https://news.google.com/rss/articles/CBMiWkFVX3lxTE42eGxsM0JGQmFuR2R3MDRVallTU2tUQVhOQjdrMHNKdFBLaVhmS25JMkpvcDlmM1RjbE01RDQzLVN5UkVFbEExMmFzMTlwTGRJbGloWFYyX3FiQQ?oc=5>
+
+### 凌晨，美联储宣布利率决定！美股收跌！特朗普、沃什，最新发声
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-29 21:49
-- 链接: <https://news.google.com/rss/articles/CBMijwJBVV95cUxOTW84dWF6RmJVUEI5WGtuNVlGVE5hR0pnd1E4THZPQzdBV1lUNU0xaGVxa0dCZFVWNk9FdXQzUXRiMm9VSnd0S0tFNFRpLXgxLUg0aXhOS25vZ0xyVzBrMFhac3duYzZVMXBYbGJDd0ZFQ00tSnJUR1FiY1cyQzdKZDVkZGdnY09tcF9WY1B4T25lSS1KV1A2U3ZkdTJfUUV3cF95LUtqNmk4dWF3c0pjNTJ3RWpQSW16SVY1WjRwelVydm9fWXVVSHB4WExuOHJzSUd3QkIxSzBucXl6YWNPc04xeV80bWl3NUVQNVZHQ1BPX2pSaVBQN2YxRlR2ZlB3ZGdyS0xEeGhRcjRMWDRv?oc=5>
+- 时间: 2026-07-29 23:20
+- 链接: <https://news.google.com/rss/articles/CBMi_AFBVV95cUxPQndFZkNWUEtzclBKSUQ4M2pTZnpqMGp0QUdoVXFfM0pTd2RyWFFzWVhrcE1DZklRa1d2cVFER2V5V0I2UzMtSGRlTGxIR1IyaXRxZjNrWnlWdVVGbS13Y3ZFTVBIR2RyamdRa2M0dUVIeVpNaTdkazZEYnlhbmluSmNTUGxzdW5wZXh6Z3FhRjZhZjMwaVQtUlc4QmNBRzdXdG8yckhGaVdjSWliU052VkhLdFdTbkxnSmJ0TDd3eXd1NXJkaXVEWkRsMDlmYlZqSkNxMlFFM2pHMVAzc09veWFkRF9MNG5qQUNtMG81TjhVd1lPRERBb1dYOVI?oc=5>
 
-### 以媒：内塔尼亚胡向特朗普阐述对伊“三种情景”
+### ICE扩大美国机场移民执法
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-07-29 21:10
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE9WMEt3eGN2VEpTR3haUGdJc1NpNENZRkpkVkVSX2ZwaGhlSlF3Wjc1OG9VUF9GNWQ4Wm9zeVJkbXlubUFNdEExUkZDMjRMeEV0X0F0ZGNMVkV4NmQ1WUE?oc=5>
+- 场馆: RFI
+- 时间: 2026-07-29 22:22
+- 链接: <https://news.google.com/rss/articles/CBMi2wFBVV95cUxOS212ZUtKY2c2YXh2S1NIUGVySlFaZmZtM0t5ay05OW1IUkZqSUR5R3VrYUp2RjM3cnBMQkNTdUhsOFh5YVVrbFpuUW9RMmdOZmFDeGxpc1czVmVSeERlX3Y1Z0VySnBOZzJEUFBDZXVBMFdRaFIwRFM3bEZiMElIUVk5OEpzMHJQZVpqWjV6QXZ3RVJZYzhDUXZ0dHF4N2dCMG02bnRwMUpwSlFzOHZiSTVRYnBqSmM0cVZrZGxaVjQ4bGNmajg5am41TDJPUEdPSFBEdzROVnh5RlU?oc=5>
+
+### 特朗普:若谈不拢就继续打
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-29 23:28
+- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ003M0tQZnh1aFRmSV9uRGNqVE1NdWRidHRlRmp0clBYQ01PMzVncDlyMWFVVHFfeGppakpBSmMtcUplMWFaOGo4c1N6Y2xKRUNqeFkxS0k3U3FGQjBzMk1Fbks3RjRxLWNYWkdvaUxpcm9jV3JDZ0V1Q084RGZ0YldYd0UtdlBlN295U1luUnhnMjdORkxTVklFS1c4RFJO?oc=5>
+
+### 特朗普称伊朗将遭痛击，美国将强力报复
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-07-29 13:30
+- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxQWmpRcTRlU2ZsZklMTVNaeE5Ta2g3dDFBYUdfUW1HajRCbDhGUmlJY1VPV3VFREZyeTZxUGx0VGNIWVpZY1I2S2NUbDk5VnBVUVdCbmVfamwzVzZ5WGY2dzFCZGF2ZTFHdklfUDQ4ZEstTTlMQlpXcEpkcnMyaFlONE1PaHdJUWZkcWhzcHRCMnotOVV1dXVzSw?oc=5>
+
+### 特朗普再次威胁袭击伊朗，并寻求对伊加征关税
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-29 22:08
+- 链接: <https://news.google.com/rss/articles/CBMijgFBVV95cUxQNDB0U0lNcWhublg5aC1KNG0tOF9paEpSd3lWS2ZlYmJUNTdvbXF2dHM5dDlreTNRTElKRFZNeG5RYXpQOE42SmQtVHNiNEhlNDh0c2VkeDlobHpWMXBCdHJEUHpvN0FtTExReTl3V1JROWJLRFd2QkozMXlpUzZ2SDVZT2tUdURNcEc2c2dR?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-29 23:29  (7 条)
+
+- **特朗普** | 美股收盘：特朗普最后时刻砸盘 纳斯达克100指数坠入回调区间 <https://news.google.com/rss/articles/CBMicEFVX3lxTFBWZTFpcm1KWVRXM0tER2FVMGJjT2p6U0I1UnY0VkNaQW9weVlrNVJ2dkFTZDVsVzJZeGpMclpCaEM2X2J2U21LZ2Z6bHJkdXRyMVdoODFnTjhZcWNpSXJTT2xaOTlBXy1zVFpLYzBoMlc?oc=5>
+- **特朗普** | 7月30日外盘头条：特朗普称美国将“狠狠打击”伊朗美联储维持利率不变微软Q4业绩大超预期云收入增超40% <https://news.google.com/rss/articles/CBMiWkFVX3lxTE42eGxsM0JGQmFuR2R3MDRVallTU2tUQVhOQjdrMHNKdFBLaVhmS25JMkpvcDlmM1RjbE01RDQzLVN5UkVFbEExMmFzMTlwTGRJbGloWFYyX3FiQQ?oc=5>
+- **特朗普** | 凌晨，美联储宣布利率决定！美股收跌！特朗普、沃什，最新发声 <https://news.google.com/rss/articles/CBMi_AFBVV95cUxPQndFZkNWUEtzclBKSUQ4M2pTZnpqMGp0QUdoVXFfM0pTd2RyWFFzWVhrcE1DZklRa1d2cVFER2V5V0I2UzMtSGRlTGxIR1IyaXRxZjNrWnlWdVVGbS13Y3ZFTVBIR2RyamdRa2M0dUVIeVpNaTdkazZEYnlhbmluSmNTUGxzdW5wZXh6Z3FhRjZhZjMwaVQtUlc4QmNBRzdXdG8yckhGaVdjSWliU052VkhLdFdTbkxnSmJ0TDd3eXd1NXJkaXVEWkRsMDlmYlZqSkNxMlFFM2pHMVAzc09veWFkRF9MNG5qQUNtMG81TjhVd1lPRERBb1dYOVI?oc=5>
+- **特朗普** | ICE扩大美国机场移民执法 <https://news.google.com/rss/articles/CBMi2wFBVV95cUxOS212ZUtKY2c2YXh2S1NIUGVySlFaZmZtM0t5ay05OW1IUkZqSUR5R3VrYUp2RjM3cnBMQkNTdUhsOFh5YVVrbFpuUW9RMmdOZmFDeGxpc1czVmVSeERlX3Y1Z0VySnBOZzJEUFBDZXVBMFdRaFIwRFM3bEZiMElIUVk5OEpzMHJQZVpqWjV6QXZ3RVJZYzhDUXZ0dHF4N2dCMG02bnRwMUpwSlFzOHZiSTVRYnBqSmM0cVZrZGxaVjQ4bGNmajg5am41TDJPUEdPSFBEdzROVnh5RlU?oc=5>
+- **特朗普** | 特朗普:若谈不拢就继续打 <https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ003M0tQZnh1aFRmSV9uRGNqVE1NdWRidHRlRmp0clBYQ01PMzVncDlyMWFVVHFfeGppakpBSmMtcUplMWFaOGo4c1N6Y2xKRUNqeFkxS0k3U3FGQjBzMk1Fbks3RjRxLWNYWkdvaUxpcm9jV3JDZ0V1Q084RGZ0YldYd0UtdlBlN295U1luUnhnMjdORkxTVklFS1c4RFJO?oc=5>
+- **特朗普** | 特朗普称伊朗将遭痛击，美国将强力报复 <https://news.google.com/rss/articles/CBMimAFBVV95cUxQWmpRcTRlU2ZsZklMTVNaeE5Ta2g3dDFBYUdfUW1HajRCbDhGUmlJY1VPV3VFREZyeTZxUGx0VGNIWVpZY1I2S2NUbDk5VnBVUVdCbmVfamwzVzZ5WGY2dzFCZGF2ZTFHdklfUDQ4ZEstTTlMQlpXcEpkcnMyaFlONE1PaHdJUWZkcWhzcHRCMnotOVV1dXVzSw?oc=5>
+- **特朗普** | 特朗普再次威胁袭击伊朗，并寻求对伊加征关税 <https://news.google.com/rss/articles/CBMijgFBVV95cUxQNDB0U0lNcWhublg5aC1KNG0tOF9paEpSd3lWS2ZlYmJUNTdvbXF2dHM5dDlreTNRTElKRFZNeG5RYXpQOE42SmQtVHNiNEhlNDh0c2VkeDlobHpWMXBCdHJEUHpvN0FtTExReTl3V1JROWJLRFd2QkozMXlpUzZ2SDVZT2tUdURNcEc2c2dR?oc=5>
 
 ### 2026-07-29 22:27  (3 条)
 
