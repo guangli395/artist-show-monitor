@@ -1,32 +1,67 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-30 17:02**
-- 本轮扫到 8147 条, 新增 **2** 条
+- 最近更新: **2026-07-30 18:53**
+- 本轮扫到 8153 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (6 条)
 
-### 特朗普称伊朗将遭“痛击” 不排除继续打击其地区代理人
+### 蔡徐坤生日演唱会与普通场次有何不同？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776722_1d5abd9d206801eopu.html>
+
+### 蔡徐坤生日演唱会伴手礼，仪式感堪比结婚
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776722_1d5abd9d206801eopq.html>
+
+### 周杰伦樊振东跨界同框！俱乐部赞他幽默友好，正筹办大型发布会
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879849212_1d5acf4fc06801k03o.html>
+
+### 7月30日外盘头条：特朗普称美国将“狠狠打击”伊朗 美联储维持利率不变 微软Q4业绩大超预期 云收入增超40%
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-07-29 07:00
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5TNG9VSi1DRmdETUxqdlN5cThSY2NHMHIwc2wteFlLdklpREhwOWgtUXNDWFlHVGxhaVZUUEJpSHVNeHRJcEJzUDM2ZGttRno5X2hqaWJLYkZiZ1pDZW1QQjNiM2hlcGkxbmY3QW9iUDRSRE1KSnpIbA?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-07-30 18:34
+- 链接: <https://news.google.com/rss/articles/CBMijwJBVV95cUxNOWV2RTVyaWNYNHFCdFh6STI2TERjemZSakg5TGtPbnJtc0YxSHk3UFpSZ1V0bFJXTVhDTHQ2bWlVYmxWRmxWS2hDOUFOa2dnelRkTzVrTEwyeHAtcVdZRDVnZEVfNW1wN0N5YzdUTk9vM3U4V0IyOTRkRGI2dUJkWHJEdUJ5eVlGYVhPZW5MLW9TLU5IQzBpRkdqd09WTGIyZkNqYm4tODE1WXRvdzJUa2p3alc2d2ZjRGNaMXNlVXhjSVV0Y3VzUWlSdUJIeF9aWkVITUk5a0FiTUw4YWE5cFJ3TXFXNzBEYy1FT2lMNU01ZWZJaHNQWVVhZGRBd3g0M0hsU1p5VnV4TEtNNEFN?oc=5>
 
-### 泽连斯基请求美国紧急提供300枚“爱国者”拦截弹
+### 美乌美以华盛顿会晤，巧合还是勾连？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-07-30 16:57
-- 链接: <https://news.google.com/rss/articles/CBMihAJBVV95cUxQMk1TX0M3VkJHMFk5QXdFNzJRcFZNZHdSb2dXTnVJSkZEa0VfbW9YSzg5MmtCQVZhaVVUMzBBRjQ2VG1rbDEybmh4UlVXS0hGSkF1aUVlMm1PMC1MbnNXdlQxWDRuX3A0RkdqYS1EN3FLLV9iUkFqVlRBOEV2TGJEZ2ZPVERDaHA3REhoT3JnR09vWmRuMzRxQ1RFLUd1eHVJM3RQSDRDZ1N2T2Z3Qks1cmhtUWhTM21YelBHTkhDU2tqNmxKVVZOVGpwdGlNMG8yZ2FaQkFUbGo5eUV2T1ZkVmlYTVg0OHVjck5jN045OHZlSTVWU3dNZXZKUXpWQ01rNXlEZw?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-07-30 17:22
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBrdVFEZk92cXpISElvZUo5MWQwSDdYbE84TV9MSDFldVE3ekVwdFhzQVd6dTZnNXd3RnJyRDJGcThxV2pySlZqeVB2UFR5TzBpUkxBNkwyRzhkWnN2RGZEc0dFV3A2MHdMWlI2SExtODR5S0sxamU1Vw?oc=5>
+
+### 报道称伊朗将获得中国肩射防空导弹，特朗普总统表示若有此事，他会“相当失望”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-07-30 16:55
+- 链接: <https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZmNrem1OaU1NaWVwX2hocS04M3VWSThQS1VRTzlNdG5hNXA0S1RrVDZid0NUSlJtdWYwbi00NVlrano3S29TOW5SZGxXVjBBUmJJdjV2MUVMRk9zT29mVjZvVFVROEZSVWJHRGY3ZlFSXy1UNF91aU5SeHB1OG1MWmZVWmVENV9lT09YSVZMWDBkSUcxYWt0Q2luNkZSRVRSSWNIZzM1TlRIZGYxUVdNakdSZ01ORWM3bUdNdi1VSVltdWxoTTRjcEJyZ1R0Ti05NXNPSUlQNXkzR3pGX3FONnJ3OEVEWTk5bUxaR0p5U284cGvSAfYBQVVfeXFMUHMyQUNYWXllajBTVnMwYnlzdW5zSVlzQnFLMzJZWjVVTGhjaTdnc3ROQzNRc1NoZUdPaUl1UE1MS2VaX2lEZ1IzYTZzeGxRU0Z1MVo3U0lCZEJpZHpzOXBwZVRCZ2ZXbWR3MnhORGx4R1JSUVhuYUFlNWZsNDcwUlZUVG0xTXB4cldvNWNLZ2dFN1Ewc1FCRXh3am1jOHU2T1N5TFUyT0p4U0V3bi1iRG0zdWtGa0ZUX2Rzdmc1WTEtR0lIYXNackd5Z1FfaXdITEUzR21UY2J4NzNDUGFVWnZjWm9RVy1Bb2dDWFZnZGRwcGtXb1lR?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-30 18:53  (6 条)
+
+- **蔡徐坤** | 蔡徐坤生日演唱会与普通场次有何不同？ <https://k.sina.com.cn/article_7879776722_1d5abd9d206801eopu.html>
+- **蔡徐坤** | 蔡徐坤生日演唱会伴手礼，仪式感堪比结婚 <https://k.sina.com.cn/article_7879776722_1d5abd9d206801eopq.html>
+- **周杰伦** | 周杰伦樊振东跨界同框！俱乐部赞他幽默友好，正筹办大型发布会 <https://k.sina.com.cn/article_7879849212_1d5acf4fc06801k03o.html>
+- **特朗普** | 7月30日外盘头条：特朗普称美国将“狠狠打击”伊朗 美联储维持利率不变 微软Q4业绩大超预期 云收入增超40% <https://news.google.com/rss/articles/CBMijwJBVV95cUxNOWV2RTVyaWNYNHFCdFh6STI2TERjemZSakg5TGtPbnJtc0YxSHk3UFpSZ1V0bFJXTVhDTHQ2bWlVYmxWRmxWS2hDOUFOa2dnelRkTzVrTEwyeHAtcVdZRDVnZEVfNW1wN0N5YzdUTk9vM3U4V0IyOTRkRGI2dUJkWHJEdUJ5eVlGYVhPZW5MLW9TLU5IQzBpRkdqd09WTGIyZkNqYm4tODE1WXRvdzJUa2p3alc2d2ZjRGNaMXNlVXhjSVV0Y3VzUWlSdUJIeF9aWkVITUk5a0FiTUw4YWE5cFJ3TXFXNzBEYy1FT2lMNU01ZWZJaHNQWVVhZGRBd3g0M0hsU1p5VnV4TEtNNEFN?oc=5>
+- **特朗普** | 美乌美以华盛顿会晤，巧合还是勾连？ <https://news.google.com/rss/articles/CBMieEFVX3lxTFBrdVFEZk92cXpISElvZUo5MWQwSDdYbE84TV9MSDFldVE3ekVwdFhzQVd6dTZnNXd3RnJyRDJGcThxV2pySlZqeVB2UFR5TzBpUkxBNkwyRzhkWnN2RGZEc0dFV3A2MHdMWlI2SExtODR5S0sxamU1Vw?oc=5>
+- **特朗普** | 报道称伊朗将获得中国肩射防空导弹，特朗普总统表示若有此事，他会“相当失望” <https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZmNrem1OaU1NaWVwX2hocS04M3VWSThQS1VRTzlNdG5hNXA0S1RrVDZid0NUSlJtdWYwbi00NVlrano3S29TOW5SZGxXVjBBUmJJdjV2MUVMRk9zT29mVjZvVFVROEZSVWJHRGY3ZlFSXy1UNF91aU5SeHB1OG1MWmZVWmVENV9lT09YSVZMWDBkSUcxYWt0Q2luNkZSRVRSSWNIZzM1TlRIZGYxUVdNakdSZ01ORWM3bUdNdi1VSVltdWxoTTRjcEJyZ1R0Ti05NXNPSUlQNXkzR3pGX3FONnJ3OEVEWTk5bUxaR0p5U284cGvSAfYBQVVfeXFMUHMyQUNYWXllajBTVnMwYnlzdW5zSVlzQnFLMzJZWjVVTGhjaTdnc3ROQzNRc1NoZUdPaUl1UE1MS2VaX2lEZ1IzYTZzeGxRU0Z1MVo3U0lCZEJpZHpzOXBwZVRCZ2ZXbWR3MnhORGx4R1JSUVhuYUFlNWZsNDcwUlZUVG0xTXB4cldvNWNLZ2dFN1Ewc1FCRXh3am1jOHU2T1N5TFUyT0p4U0V3bi1iRG0zdWtGa0ZUX2Rzdmc1WTEtR0lIYXNackd5Z1FfaXdITEUzR21UY2J4NzNDUGFVWnZjWm9RVy1Bb2dDWFZnZGRwcGtXb1lR?oc=5>
 
 ### 2026-07-30 17:02  (2 条)
 
