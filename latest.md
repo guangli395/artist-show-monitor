@@ -1,64 +1,71 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-30 20:11**
-- 本轮扫到 8159 条, 新增 **6** 条
+- 最近更新: **2026-07-30 21:40**
+- 本轮扫到 8165 条, 新增 **6** 条
 
 ---
 
 ## 本轮新发现 (6 条)
 
-### 特朗普再次威胁袭击伊朗，并寻求对伊加征关税
+### 蔡徐坤澳门生日场演唱会伴手礼包含哪些物品？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923119_1d5ae15af06801un22.html>
+
+### 特朗普称伊朗将遭痛击，美国将强力报复
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-07-29 15:29
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE85WlpfM3FGSXVveVBWWjc3QjBFSXBTNnR5MnlxUHZmb3hmZHZGTjhudFFhZTRsQWZRcG1WQVY0d3JzbVpZXy10RmNNNlNRZWJGV3FaOFQzVzY2cWg0LTZWYXJBaUpjRlVNRDVQNlZRbnZ2d3B0MkVGRw?oc=5>
+
+### 凌晨，美联储宣布利率决定！美股收跌！特朗普、沃什，最新发声
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-29 22:08
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1JTDZjTUFfMm1iTkh4cGY1cE9FRXZXdUk4VjRHM1FqV0o0Rk9oRmllaEs0bnBJbzhDMEdpNC1LSTNqUlhjYlpUOUhWNzVDSVhFTlZTazhldVZtYWRUa1RzMndUR2o1R1JHdGlISlp3VE9GTDZPWXdnWQ?oc=5>
-
-### “乌克兰防空拦截弹几乎耗尽”，泽连斯基向美国请求紧急援助
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-30 18:45
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBjR3QtSXZxbFRFR2xhaWFBZzdXemdFZno2SG1TS1Q3WmgyTEFielVscFc0RFRsSGxCS3hpX21tZVlrZjhNQkhaSVpZOHljVXd0UlVReE82SjBBRl9EYTM5NVhfTjNkZE50cWdwYThPOV81MS1QNF8tcw?oc=5>
-
-### “内塔尼亚胡与特朗普在白宫举行约90分钟会谈，伊朗问题是会谈重点，两人讨论了三种方案”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-29 23:39
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTFBpd19PUmNpX1ViYlo3N3pZaWx4aXllTVlualdmRGVfYVpHTVhnbDhpUEF4NE1BRG1sc2dEdlpOX2Z6YjNXQU5tY3YzQmNuTlBVZEZCZGZkN3NIRTZqRUtNamw2bFA0MGpIcTlaOGJGM0R6d1ZvdWc?oc=5>
-
-### 美以伊渐入新博弈
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-30 20:08
-- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxQQ3c5ZTE0VHRBdTJrSkg3OEptSnBxS3RseTFZc0FrTjZ0RXZaVjh2RkFrREdTNWprSFczQW90NzB1NzJ3QW1xZHA1OF9kYTVyVTlRaVhURktud3puSm1IVnVTMmlnbFJKZGJZRVMyQUZZN25RS096c1JBcXVybXRUQzNBVVdLS3pidTc0QzE1Y3hYeVNzeG9SMXJONEQwNElP?oc=5>
+- 时间: 2026-07-30 20:14
+- 链接: <https://news.google.com/rss/articles/CBMijAJBVV95cUxNSUR1cGpUWU11WVhBVzZucEhTNDU5dUpoX05yLVhYX083S21rRF85OWE1b1gtcUtVSUdFOS1GTXNEZExIM3FpcUdabXQxMFlENUpqanZwVVFGRlV6WVRubVNRMko1ejFnRHpVM3lKNTd1SE9LYWhVSXMzLVNXYW1Hblk3MDdhR2sxemlvLXNMd21KczFGbGpwN2gyT3QwTEowX1BTUnFTSUZ1dkpoOEItTjFGaU9YaWV6eGRIYzFTYlhKTklMNVlZVE1GeW4zYWRrYmVEY201bW1mYXY1aWx1NEQtaXhJWW9UTWdSdDdhcmYta0FJX19rbEVDWWMtUW9Cc3lFZy1BNEtuUTlv?oc=5>
 
 ### 马斯克将投入至少1亿美元助力共和党中期选举
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-30 20:06
-- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxNeGtoM3hVNjB6Tk9UNHZEdkkwMS1Oblg5X2FzclpyLWpEWHhHNDRJSWFBajNHUkJPc2RNc3k4NnJSeHJfenRHVHlqMC1lV0VaaGlaM1VlTWo4bDAtdkVXNUQ4WGV6QWF2cmNqZDhKOW1WWUJsY3F4cmpYSHBZRWFzUzVLVERnemJBR2c?oc=5>
+- 时间: 2026-07-30 20:18
+- 链接: <https://news.google.com/rss/articles/CBMivgJBVV95cUxPOEVpNGpMWGZRTUtVdDBYb2VjTEE4ZVQ4UzRKcnBjYVBhV0VVb3lpRnY5a1AyMnozcXVDdjA5VTZmcllHOXQ4cWh0WV8ydGd4cmNaR3NBSUdPWmh5Y0poZmVDbjZ4cVY2Vk1yNnVrbVBLQjByOVlqOUxvelpnd2cyT3N1QU1tSHk5cHptZV9LZUJ1UTl1ZnQzUjhmbmVQWHZMNHpXUkxrLTRRRmFvWnEtWkFsRGY1Z2RGWVA1TnRBbVlrWC1ldm84c1FkbFhUM0lqMHZ0LWFaeEpseEg4MTBzUV9kb3Izbkd3SWxJNndOajZvN2VCa1BveG1EVEQ5VkpYOVhjb25pLWExd1BFV2ZMZGg5dWFSR2xGYkJkUTltc3JBUlY4ZVhYeDNBOGxMNlR0NVI0WERqNVdpaWRDZEE?oc=5>
 
-### “极不寻常”！爆料称特朗普或拒绝法国驻美大使提名
+### 美中贸易官员举行通话，美国敦促北京兑现稀土与农产品承诺
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-30 13:38
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1SNzZKRmRZRl9jVUIwUWRyMVJQUTF2dUtsTG9na01Sd1p4dnpleWpBYS1KdUNIZC14YWFJZ0xYSmE0TE12dDJxam5sQzA?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-07-30 20:49
+- 链接: <https://news.google.com/rss/articles/CBMiugFBVV95cUxOMEdod2x1MVVuVlUwZW9YalZCZGNUcC1WODNVbHBneTBwSXZTRHRPNm5kRE1zWXlFR2NsOWJhMzhWTzlHNUdWc05tckVoVkZLbWJLUW5oYzU5RzJKeXdNYXpSUzlwdUp5cTZGQ2NpZXhydi1ZNXZGNTBDUkJWUFNTY0Q0QUtoRkY5R3BqdnAyQW9TakptalBQWGZ5MzFHWVMtVGhlNlRHbTA2S3g3M24zbGxRMVFlbmp2VXfSAbwBQVVfeXFMT2Vrd0R0b204Wi0yRXp6eHYtT0RiYng5SGMxMktjRldLZk15MTRsUzFOUU0zcE51aGdmLU5NWGdITEltb201NFlETDhXSDNUYldpN2VZQlhvVnQxalBzdFA3dHRfSGctZG1rT3Y4bFZiQjFaVG9pWm13TWdoNjNZSnJsVExFQ1dXcXhQWUk0aGF0RFR5Snd1YlFmVmJWUVplaV95NGRkbmJTUnhsaWpfVjFZNEVNdjZwVUhCUnc?oc=5>
+
+### 战略青年
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 清华大学战略与安全研究中心
+- 时间: 2026-07-27 07:00
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RZFE3TkNLNVMtM1hfQy1TbzNSRlJabTBOeFRmOU5weUs3VFU1NXRwOG9LSktBRDhqVWtPbGYxc3FtMjlBbEk1bE9IY1JrLWhzcXBvVDZRWkQyc3hjYm1hUUZKQ19hWlJh?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-30 21:40  (6 条)
+
+- **蔡徐坤** | 蔡徐坤澳门生日场演唱会伴手礼包含哪些物品？ <https://k.sina.com.cn/article_7879923119_1d5ae15af06801un22.html>
+- **特朗普** | 特朗普称伊朗将遭痛击，美国将强力报复 <https://news.google.com/rss/articles/CBMieEFVX3lxTE85WlpfM3FGSXVveVBWWjc3QjBFSXBTNnR5MnlxUHZmb3hmZHZGTjhudFFhZTRsQWZRcG1WQVY0d3JzbVpZXy10RmNNNlNRZWJGV3FaOFQzVzY2cWg0LTZWYXJBaUpjRlVNRDVQNlZRbnZ2d3B0MkVGRw?oc=5>
+- **特朗普** | 凌晨，美联储宣布利率决定！美股收跌！特朗普、沃什，最新发声 <https://news.google.com/rss/articles/CBMijAJBVV95cUxNSUR1cGpUWU11WVhBVzZucEhTNDU5dUpoX05yLVhYX083S21rRF85OWE1b1gtcUtVSUdFOS1GTXNEZExIM3FpcUdabXQxMFlENUpqanZwVVFGRlV6WVRubVNRMko1ejFnRHpVM3lKNTd1SE9LYWhVSXMzLVNXYW1Hblk3MDdhR2sxemlvLXNMd21KczFGbGpwN2gyT3QwTEowX1BTUnFTSUZ1dkpoOEItTjFGaU9YaWV6eGRIYzFTYlhKTklMNVlZVE1GeW4zYWRrYmVEY201bW1mYXY1aWx1NEQtaXhJWW9UTWdSdDdhcmYta0FJX19rbEVDWWMtUW9Cc3lFZy1BNEtuUTlv?oc=5>
+- **特朗普** | 马斯克将投入至少1亿美元助力共和党中期选举 <https://news.google.com/rss/articles/CBMivgJBVV95cUxPOEVpNGpMWGZRTUtVdDBYb2VjTEE4ZVQ4UzRKcnBjYVBhV0VVb3lpRnY5a1AyMnozcXVDdjA5VTZmcllHOXQ4cWh0WV8ydGd4cmNaR3NBSUdPWmh5Y0poZmVDbjZ4cVY2Vk1yNnVrbVBLQjByOVlqOUxvelpnd2cyT3N1QU1tSHk5cHptZV9LZUJ1UTl1ZnQzUjhmbmVQWHZMNHpXUkxrLTRRRmFvWnEtWkFsRGY1Z2RGWVA1TnRBbVlrWC1ldm84c1FkbFhUM0lqMHZ0LWFaeEpseEg4MTBzUV9kb3Izbkd3SWxJNndOajZvN2VCa1BveG1EVEQ5VkpYOVhjb25pLWExd1BFV2ZMZGg5dWFSR2xGYkJkUTltc3JBUlY4ZVhYeDNBOGxMNlR0NVI0WERqNVdpaWRDZEE?oc=5>
+- **Trump** | 美中贸易官员举行通话，美国敦促北京兑现稀土与农产品承诺 <https://news.google.com/rss/articles/CBMiugFBVV95cUxOMEdod2x1MVVuVlUwZW9YalZCZGNUcC1WODNVbHBneTBwSXZTRHRPNm5kRE1zWXlFR2NsOWJhMzhWTzlHNUdWc05tckVoVkZLbWJLUW5oYzU5RzJKeXdNYXpSUzlwdUp5cTZGQ2NpZXhydi1ZNXZGNTBDUkJWUFNTY0Q0QUtoRkY5R3BqdnAyQW9TakptalBQWGZ5MzFHWVMtVGhlNlRHbTA2S3g3M24zbGxRMVFlbmp2VXfSAbwBQVVfeXFMT2Vrd0R0b204Wi0yRXp6eHYtT0RiYng5SGMxMktjRldLZk15MTRsUzFOUU0zcE51aGdmLU5NWGdITEltb201NFlETDhXSDNUYldpN2VZQlhvVnQxalBzdFA3dHRfSGctZG1rT3Y4bFZiQjFaVG9pWm13TWdoNjNZSnJsVExFQ1dXcXhQWUk0aGF0RFR5Snd1YlFmVmJWUVplaV95NGRkbmJTUnhsaWpfVjFZNEVNdjZwVUhCUnc?oc=5>
+- **Trump** | 战略青年 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RZFE3TkNLNVMtM1hfQy1TbzNSRlJabTBOeFRmOU5weUs3VFU1NXRwOG9LSktBRDhqVWtPbGYxc3FtMjlBbEk1bE9IY1JrLWhzcXBvVDZRWkQyc3hjYm1hUUZKQ19hWlJh?oc=5>
 
 ### 2026-07-30 20:11  (6 条)
 
