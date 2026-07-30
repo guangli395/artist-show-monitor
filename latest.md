@@ -1,72 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-30 03:52**
-- 本轮扫到 8113 条, 新增 **7** 条
+- 最近更新: **2026-07-30 06:21**
+- 本轮扫到 8118 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (5 条)
 
-### 以色列煽风，乌克兰点火，特朗普不为所动
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-28 23:46
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE95Z1JaZ2hyU18tWnNVSXp2UmtGSlY3ZGRYTFZycmRrSk5MS2drdGpzRXJRSm5hR25kNWRsQ0d3YjZJNTRFTmtoT2RpVlY?oc=5>
-
-### 要闻解说 - 特朗普与泽连斯基会面谈及爱国者导弹及重启外交斡旋 美参议院通过制裁俄法案
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-07-29 14:01
-- 链接: <https://news.google.com/rss/articles/CBMizgRBVV95cUxQRG5hYWdkVEUyejF0RkJfUzRuVVJ0OEZoMUpVUDZEVW43RE9fdDFabnFOYjBjMGhJUno1RVF3VTZOal9oZzdlZk1tSzBocEt6S0lqNDhRUnhNQXdmWWUwRmphaDVfZ2NOZ3BXVGNkOVhQVjBsMUQwemFJajNCM2UtOWhxTHhyU3dyei04UWJybjdPWTJGOWJ2ZkRocjcyekY2dlBpN2xWZnMtUXMwb1lLU2VBS2t4OWhTX3ZaVnRQOEFBS2tYNE0zcURVNDEzTTYxa21uV05qM1V6dVdoZHo1NHRPaGRrVmZwd1lzR1E1MGkwM1pDZ2FUS1N6bXFhRENMRTZCUWJOeU4taU5DdmxfYm5lTFM2MzBwVEtLeHlqUV9sdmc2cERnODJLRWNjRlpFbUFxQVBnMVZrazdicTBNVTZrSWU1Wld4Q1RORDUtRjFBLU5lSktoOUpGUlRlZ1ZmclllMi02QlhDMzhIWVBHMTNVQVgtX2IzU2wyZl95T2lid1IxRVRKOEJhd2FPRGtpeUliRWdxU0ZKWHBWUEVaM0E2SGY4VlYyeFJsbW9WMlF1c0p6LUVsakFmdVBNTjJWRWkyYmdsVl9Pek1GYXZtTWVnUWpqNlhyN001T2dpSWN3aElzR25DcTZVUEhhSFVwWl92NHNJc2JtUUlrVVp4NGdnTlJReGo5eUYySjNWbldfajVrd3JXQUZua0tORElhdTNEWDRxa2JLdGI4N2ktR2RYUFM3MVZjR3hkTmU1WHNpM29ic0tQenVlakxDQQ?oc=5>
-
-### 特朗普在格雷厄姆葬礼上疑打瞌睡，白宫：他在缅怀
+### 知情官员预测美伊战争将持续至少数月 最终协议或在边打边谈中产生
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪网
-- 时间: 2026-07-30 01:02
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFBVa0U5QmltZWtiRnpKOGRvTC1UVGNuSDBoWlZCTmE1NWhVX2RmQ29rUi1EbWV6N1FJakpZc0hhQ2xoV05DNEFlWHhHVlFzb2RHY1RjcWc3eENSUDlDb1Z1OFhxX2xVbUpwa04tQUlZZWRKdw?oc=5>
+- 时间: 2026-07-30 05:49
+- 链接: <https://news.google.com/rss/articles/CBMiowJBVV95cUxPQTEtMnkwRU52ek1FQ0FUZnlVb0QxS3ZkTkhBQmh2S3ljYUpMV0ZvMVFjWXQ2TWFGaEk0VUN2THR1VFZoNHRnV3hadGgxVHdxYzZqMUZjUTJVNnRscklxRjRua0NUTFhIcS1uWk01c1RUR29oM182SWJiZkhmM3Q2U1BWcUdDWElDQ194cGx4ZnFzeDNmRzN2Z3JtRVJWVjBzSHFGSHVUUVZ5MDZ1OGdQbEpsdGdBeGJLWFdzenRiVnRxQy1zRkc3YWItcFpFRk95ZjJnRDAyRVBYTVpiZERueTdwZGpaWkw2UTlqY2xlNlFEaDVVbkxTcm1yMlRkdThEV3VfWlh4NnVUSmx5SU5WZWtLQ3NnODI4VmhqNXNoOHdIV2c?oc=5>
 
-### 特朗普在格雷厄姆葬礼上打瞌睡？ 白宫：他在缅怀
+### 特朗普再次威胁袭击伊朗，并寻求对伊加征关税
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪网
-- 时间: 2026-07-30 02:47
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE5ROWVZNFVvVG1qenFEdldMcmFuOFV3ZXQ4b0pVZUJHaHI3SDVDN2RfWGhRYUEyYlhkcUZWM2p4RlZ2eUJwQkd6REtYbHc2NUJ2SWRtMEVHTE05enU1ZmJpdFR3OHdoTWlpeHRSSVZ1aFZQZw?oc=5>
+- 时间: 2026-07-29 22:08
+- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxOUnM2cGRJY2dTcnRzZXJVdzlWQ3lGT2FWbWJJWnZ1V2hIekY2MURJWHFHcWFVVXJNWUlFUlpPRGZ0eEFqY19VNXByV0J6YVNORi0wdEtlaVZ3SGtsMlJHZXhJUGJqeWo0azhKbnFYLXh0dkQ2NlRJcGFRS1BaWlFBUVMxNmVDdW5rTVlsSm1mSC1VcVBrMEZmS0tRNWhJREk3UzRzbnZQYXZuSWpNb1Y0RjZhaEpCd0tDc3p5aU5ZS3hzUGxQV1QtdzJSdXJxMTg?oc=5>
 
-### 内塔尼亚胡被曝与特朗普讨论三种对伊策略
+### 特朗普在格雷厄姆葬礼上打瞌睡
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: news.sina.cn
-- 时间: 2026-07-29 21:02
-- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxPSEhjajNibmU1UldVVmw4eFVkckRjUW1OeUZrcmZpajFncV9wVXIzNjVxUDZibnUzclhiWV9MV2pIUFYwVVNCZzJWM1JSZjg5YWhqY2FQY1Axa2NpendUUjZhTVhFRDNkLXZJWE1HV2pHQjR6OWxTSjZWZzN4SlVyNkZWd0tGajc4RnljbGlBa3RLcUZF?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-07-29 23:59
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE1vU2EtMjU5OF9sSi1acWVzcjkwS01fODJEYzJ2TlNYaEhXLXdNRDF4ei04NWtVQ2UtQXVKTzRqZGhVbHl2OGVjbG5EZFd2Vmg3ZXlyVzk2R3haTVdUejlTS0dmbnVhbnpILTBIanFnTzE5QQ?oc=5>
 
-### 特朗普：有足够耐心与伊朗达成新协议 否则就开打
+### 特朗普公开对内塔尼亚胡的不满 会晤前情绪显露
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-07-30 02:56
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9PRllhcVFZVl8zWjktNkk4TU9Vbmh1eTNMa09RUGFBY0gxT2FaeDFOa1F4TVBQX1JVdWN6b3N0elo2Z1prWklZZC1XQjJtNXJzZVJEalRsT1Z2MnB0SlpNdFJiOWpqNDVSY0NuTm9PRmk?oc=5>
+
+### 特朗普称伊朗将遭“痛击” 不排除继续打击其地区代理人
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 东方财富
-- 时间: 2026-07-28 23:14
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaLXllZnFlNXV6eEhwRmZtYWhNZGxmRmhxWDh6U1hqY2V0M3pCVzVrMDNVWWVQaGdCZVRZY19ieG9KSDBhRnRraF84YUlXOHR5QmRQSEF3ZFA2OTlwRzRvaQ?oc=5>
-
-### 特朗普确认伊朗向约旦发射弹道导弹。
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Binance
-- 时间: 2026-07-29 19:27
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE03WVhNZXBFcWhDOGlNb0UzbWV1OWNzdlNnVEFWeGlhdVRTRUFJWExtRjJqTjVHNm44MG4ybmRjTHo2c1lVMXdNV0xaVDhNVlRGNU12d3ZVWDZkNWthV3R1cFBtTllFRXpn?oc=5>
+- 时间: 2026-07-29 22:54
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fczFlczgzWGRtR3hNZ3RnQmtjMEk5VjZCTElYSlkzUExYc091SGVjVVZiZERlbHhMem9HVHM4THNOWFNkd3hEWnlZcnp0R0lYTUhTRjBJZWlRNWlYcmZCSA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-30 06:21  (5 条)
+
+- **特朗普** | 知情官员预测美伊战争将持续至少数月 最终协议或在边打边谈中产生 <https://news.google.com/rss/articles/CBMiowJBVV95cUxPQTEtMnkwRU52ek1FQ0FUZnlVb0QxS3ZkTkhBQmh2S3ljYUpMV0ZvMVFjWXQ2TWFGaEk0VUN2THR1VFZoNHRnV3hadGgxVHdxYzZqMUZjUTJVNnRscklxRjRua0NUTFhIcS1uWk01c1RUR29oM182SWJiZkhmM3Q2U1BWcUdDWElDQ194cGx4ZnFzeDNmRzN2Z3JtRVJWVjBzSHFGSHVUUVZ5MDZ1OGdQbEpsdGdBeGJLWFdzenRiVnRxQy1zRkc3YWItcFpFRk95ZjJnRDAyRVBYTVpiZERueTdwZGpaWkw2UTlqY2xlNlFEaDVVbkxTcm1yMlRkdThEV3VfWlh4NnVUSmx5SU5WZWtLQ3NnODI4VmhqNXNoOHdIV2c?oc=5>
+- **特朗普** | 特朗普再次威胁袭击伊朗，并寻求对伊加征关税 <https://news.google.com/rss/articles/CBMizwFBVV95cUxOUnM2cGRJY2dTcnRzZXJVdzlWQ3lGT2FWbWJJWnZ1V2hIekY2MURJWHFHcWFVVXJNWUlFUlpPRGZ0eEFqY19VNXByV0J6YVNORi0wdEtlaVZ3SGtsMlJHZXhJUGJqeWo0azhKbnFYLXh0dkQ2NlRJcGFRS1BaWlFBUVMxNmVDdW5rTVlsSm1mSC1VcVBrMEZmS0tRNWhJREk3UzRzbnZQYXZuSWpNb1Y0RjZhaEpCd0tDc3p5aU5ZS3hzUGxQV1QtdzJSdXJxMTg?oc=5>
+- **特朗普** | 特朗普在格雷厄姆葬礼上打瞌睡 <https://news.google.com/rss/articles/CBMickFVX3lxTE1vU2EtMjU5OF9sSi1acWVzcjkwS01fODJEYzJ2TlNYaEhXLXdNRDF4ei04NWtVQ2UtQXVKTzRqZGhVbHl2OGVjbG5EZFd2Vmg3ZXlyVzk2R3haTVdUejlTS0dmbnVhbnpILTBIanFnTzE5QQ?oc=5>
+- **特朗普** | 特朗普公开对内塔尼亚胡的不满 会晤前情绪显露 <https://news.google.com/rss/articles/CBMicEFVX3lxTE9PRllhcVFZVl8zWjktNkk4TU9Vbmh1eTNMa09RUGFBY0gxT2FaeDFOa1F4TVBQX1JVdWN6b3N0elo2Z1prWklZZC1XQjJtNXJzZVJEalRsT1Z2MnB0SlpNdFJiOWpqNDVSY0NuTm9PRmk?oc=5>
+- **特朗普** | 特朗普称伊朗将遭“痛击” 不排除继续打击其地区代理人 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fczFlczgzWGRtR3hNZ3RnQmtjMEk5VjZCTElYSlkzUExYc091SGVjVVZiZERlbHhMem9HVHM4THNOWFNkd3hEWnlZcnp0R0lYTUhTRjBJZWlRNWlYcmZCSA?oc=5>
 
 ### 2026-07-30 03:52  (7 条)
 
