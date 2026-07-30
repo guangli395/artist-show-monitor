@@ -1,56 +1,85 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-30 06:21**
-- 本轮扫到 8118 条, 新增 **5** 条
+- 最近更新: **2026-07-30 09:11**
+- 本轮扫到 8126 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (8 条)
 
-### 知情官员预测美伊战争将持续至少数月 最终协议或在边打边谈中产生
+### 演唱会门票团购怎么买？3大平台实测+强实名避坑指南+FAQ
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7880068415_1d5b04d3f068022c16.html>
+
+### 周杰伦世界巡回演唱会开票时间定了！
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7096020466_m1a6f4adf203301l9bi.html>
+
+### 周杰伦、郭富城、伍佰老师……一大波演唱会定档南京！
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://finance.sina.com.cn/jjxw/2026-07-30/doc-inikqiyi1293641.shtml>
+
+### 7月30日外盘头条：特朗普称美国将“狠狠打击”伊朗 美联储维持利率不变 微软Q4业绩大超预期 云收入增超40%
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪网
-- 时间: 2026-07-30 05:49
-- 链接: <https://news.google.com/rss/articles/CBMiowJBVV95cUxPQTEtMnkwRU52ek1FQ0FUZnlVb0QxS3ZkTkhBQmh2S3ljYUpMV0ZvMVFjWXQ2TWFGaEk0VUN2THR1VFZoNHRnV3hadGgxVHdxYzZqMUZjUTJVNnRscklxRjRua0NUTFhIcS1uWk01c1RUR29oM182SWJiZkhmM3Q2U1BWcUdDWElDQ194cGx4ZnFzeDNmRzN2Z3JtRVJWVjBzSHFGSHVUUVZ5MDZ1OGdQbEpsdGdBeGJLWFdzenRiVnRxQy1zRkc3YWItcFpFRk95ZjJnRDAyRVBYTVpiZERueTdwZGpaWkw2UTlqY2xlNlFEaDVVbkxTcm1yMlRkdThEV3VfWlh4NnVUSmx5SU5WZWtLQ3NnODI4VmhqNXNoOHdIV2c?oc=5>
+- 时间: 2026-07-30 08:37
+- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxNcnZKZGhzdllTaWVmQkgwMFF0SmhWU05NZ20tWFJ1QnZsQVlmbnZXQVlqVG5zMUtJYngxQ0VwdkFuMmFkdEJmWVRWeGxTSEF3OTJudk5XSjgxbC1yb0ZJb2QzOE9rcXhvQU5oLVJoOGMyMUZTWExwTHoybWtmQ2UxVzdrZHcwcmlXTnc?oc=5>
 
-### 特朗普再次威胁袭击伊朗，并寻求对伊加征关税
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-07-29 22:08
-- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxOUnM2cGRJY2dTcnRzZXJVdzlWQ3lGT2FWbWJJWnZ1V2hIekY2MURJWHFHcWFVVXJNWUlFUlpPRGZ0eEFqY19VNXByV0J6YVNORi0wdEtlaVZ3SGtsMlJHZXhJUGJqeWo0azhKbnFYLXh0dkQ2NlRJcGFRS1BaWlFBUVMxNmVDdW5rTVlsSm1mSC1VcVBrMEZmS0tRNWhJREk3UzRzbnZQYXZuSWpNb1Y0RjZhaEpCd0tDc3p5aU5ZS3hzUGxQV1QtdzJSdXJxMTg?oc=5>
-
-### 特朗普在格雷厄姆葬礼上打瞌睡
+### 特朗普：伊朗请求不要发动打击，但美国将给他们一个教训
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-07-29 23:59
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE1vU2EtMjU5OF9sSi1acWVzcjkwS01fODJEYzJ2TlNYaEhXLXdNRDF4ei04NWtVQ2UtQXVKTzRqZGhVbHl2OGVjbG5EZFd2Vmg3ZXlyVzk2R3haTVdUejlTS0dmbnVhbnpILTBIanFnTzE5QQ?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-07-29 20:47
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBTdGxFU2lRR0h3OFlfTTFHNDBIRE9vOG9udjdWV3RTOWNvQjVoUF9va0NwM0stdEdrcG0ydU5qUHJPRDR1d29yTnRhaTQ?oc=5>
 
-### 特朗普公开对内塔尼亚胡的不满 会晤前情绪显露
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-07-30 02:56
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9PRllhcVFZVl8zWjktNkk4TU9Vbmh1eTNMa09RUGFBY0gxT2FaeDFOa1F4TVBQX1JVdWN6b3N0elo2Z1prWklZZC1XQjJtNXJzZVJEalRsT1Z2MnB0SlpNdFJiOWpqNDVSY0NuTm9PRmk?oc=5>
-
-### 特朗普称伊朗将遭“痛击” 不排除继续打击其地区代理人
+### 爆料：特朗普“大为恼火”，在会上大发雷霆
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-07-29 22:54
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fczFlczgzWGRtR3hNZ3RnQmtjMEk5VjZCTElYSlkzUExYc091SGVjVVZiZERlbHhMem9HVHM4THNOWFNkd3hEWnlZcnp0R0lYTUhTRjBJZWlRNWlYcmZCSA?oc=5>
+- 场馆: 新浪军事
+- 时间: 2026-07-30 07:22
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE0zSmZickpPRXBCVDF3dGxLNjdzaHo1dEoyM0ZYek84ZURQd2lWYlJod29uaWxXQmtMQUJyb1JPdGdvVlM1aFBtWFdidFVuVHprQlJjWkVscjA3eFdjMUVjV3JFU1dYbWpGWGhDdTVIUWVWdEk?oc=5>
+
+### 内塔尼亚胡否认误导特朗普打伊朗
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-07-30 09:05
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBaTzMtNlhtaC1rTU50SGRKdWFPWW44Mm81N3BXbmFVdDRlMDEtZHZpa1gtVzVwTVNzTE1ocEU5cXpWMjVyc3BKOGEwQnY?oc=5>
+
+### 特朗普官宣斥资200亿美元改造杜勒斯机场 目标全球最佳
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: news.china.com
+- 时间: 2026-07-30 07:51
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBCSTNkdGJla01ib0xvemwya05ubHhPTnVjTTZDRlV6YzZuS3Z1QmtLN3NHbmRydUg5eF85Ynl0VW5NUlRyM1NjUEVrUGdNeXcxSTdsZVlhbzAtZDlQZkp5c1g4NlhiZ1FpQW1XdjRIcG8?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-30 09:11  (8 条)
+
+- **周杰伦** | 演唱会门票团购怎么买？3大平台实测+强实名避坑指南+FAQ <https://k.sina.com.cn/article_7880068415_1d5b04d3f068022c16.html>
+- **周杰伦** | 周杰伦世界巡回演唱会开票时间定了！ <https://k.sina.com.cn/article_7096020466_m1a6f4adf203301l9bi.html>
+- **周杰伦** | 周杰伦、郭富城、伍佰老师……一大波演唱会定档南京！ <https://finance.sina.com.cn/jjxw/2026-07-30/doc-inikqiyi1293641.shtml>
+- **特朗普** | 7月30日外盘头条：特朗普称美国将“狠狠打击”伊朗 美联储维持利率不变 微软Q4业绩大超预期 云收入增超40% <https://news.google.com/rss/articles/CBMiigFBVV95cUxNcnZKZGhzdllTaWVmQkgwMFF0SmhWU05NZ20tWFJ1QnZsQVlmbnZXQVlqVG5zMUtJYngxQ0VwdkFuMmFkdEJmWVRWeGxTSEF3OTJudk5XSjgxbC1yb0ZJb2QzOE9rcXhvQU5oLVJoOGMyMUZTWExwTHoybWtmQ2UxVzdrZHcwcmlXTnc?oc=5>
+- **特朗普** | 特朗普：伊朗请求不要发动打击，但美国将给他们一个教训 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBTdGxFU2lRR0h3OFlfTTFHNDBIRE9vOG9udjdWV3RTOWNvQjVoUF9va0NwM0stdEdrcG0ydU5qUHJPRDR1d29yTnRhaTQ?oc=5>
+- **特朗普** | 爆料：特朗普“大为恼火”，在会上大发雷霆 <https://news.google.com/rss/articles/CBMic0FVX3lxTE0zSmZickpPRXBCVDF3dGxLNjdzaHo1dEoyM0ZYek84ZURQd2lWYlJod29uaWxXQmtMQUJyb1JPdGdvVlM1aFBtWFdidFVuVHprQlJjWkVscjA3eFdjMUVjV3JFU1dYbWpGWGhDdTVIUWVWdEk?oc=5>
+- **特朗普** | 内塔尼亚胡否认误导特朗普打伊朗 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBaTzMtNlhtaC1rTU50SGRKdWFPWW44Mm81N3BXbmFVdDRlMDEtZHZpa1gtVzVwTVNzTE1ocEU5cXpWMjVyc3BKOGEwQnY?oc=5>
+- **特朗普** | 特朗普官宣斥资200亿美元改造杜勒斯机场 目标全球最佳 <https://news.google.com/rss/articles/CBMicEFVX3lxTFBCSTNkdGJla01ib0xvemwya05ubHhPTnVjTTZDRlV6YzZuS3Z1QmtLN3NHbmRydUg5eF85Ynl0VW5NUlRyM1NjUEVrUGdNeXcxSTdsZVlhbzAtZDlQZkp5c1g4NlhiZ1FpQW1XdjRIcG8?oc=5>
 
 ### 2026-07-30 06:21  (5 条)
 
