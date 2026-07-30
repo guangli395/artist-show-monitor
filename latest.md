@@ -1,86 +1,82 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-30 00:55**
-- 本轮扫到 8106 条, 新增 **9** 条
+- 最近更新: **2026-07-30 03:52**
+- 本轮扫到 8113 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (9 条)
+## 本轮新发现 (7 条)
 
-### 周杰伦武汉演唱会审批通过
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2992050891_mb25712cb05301uf84.html>
-
-### 凌晨，美联储宣布利率决定！美股收跌！特朗普、沃什，最新发声
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-30 00:38
-- 链接: <https://news.google.com/rss/articles/CBMi_gFBVV95cUxNdUJxZ2FIc0U4d0NkWlNhVFVfUnpjTWlYeGZ2QWg5MUs0aUpfSlB2TmY3RFdNd0xVNEs2SWhHNDRsN3RLM2FiRm5YU2NaTnRma2tOd0NZR1lzbWZRZkhmc1I3ZVg4VDFQVjJGOW4wSmZ1TVdUVDlfRVRyQy1MMnZZMzN3WmhxXzdpbDlYMmVpWDVMb1VucWpkbFl3bVpZT3p5NWg1UGlrN2c0VUpYclZWWnY0eWp0U0tkM242MlgwQ255Wm1jb0h0a29EWFhJb082WjhhZnVubmU0eU1IUTFqZHZFbnBxUjJWV3g4UENfdmp5ZnlPVjdiOS01N2pZUQ?oc=5>
-
-### 7月30日外盘头条：特朗普称美国将“狠狠打击”伊朗 美联储维持利率不变 微软Q4业绩大超预期 云收入增超40%
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-29 22:50
-- 链接: <https://news.google.com/rss/articles/CBMiqgJBVV95cUxPQ3daOGQ4bWIwSFpLZmNpSjRTUlRIXzdfendRMG14eGI0SmJQOHJINnM4TmkzTi1xcmxoeGswTUNxRGJzSFhvLVl1UWtYanZwajloUTJaMWFKaFZXenZubm1mYm12RnJrdjRtcWhwNVJtSVh2NEZKVHpSZGtyX01NMS1HOTFjWlhZMVJ2UzVna1EyZVVrRmx2bDd2VGJuRzdSVUUxU0N1QW80UDlhNXlROFRYemNTWDFNZ1hkb2VVUEQ1OGs0RzFzbzQxak5MWFFxanFiMnB1MGRRRDNYN0doQXV4emxQQnZwcnJKVkdfMmJZd0xEcUpnQ2FLRzFnN1cxRlA2X3lzMk52Y0t5RFBFUWt0Ym9QZE53TXlzRk9pMC0tNHRMSEZjdzJn?oc=5>
-
-### 美股收盘：特朗普最后时刻砸盘 纳斯达克100指数坠入回调区间
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-07-29 20:13
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE5jQjgtUFNsMDV4aFpwTnlzdUFFY2Y5aWZhaU55b3ZjSGRfVG41X2NiWFJRa1c1LTZlTDFPem5lcmIyMXB5WHlheQ?oc=5>
-
-### “内塔尼亚胡向特朗普提出对伊三种情景”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-29 23:17
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE1kRnJTZmdneDhYdHpFWFladTNmN2RUcVhqZHFxUW5YazM4R01UakJrTjRTcTVCY296Z3hoYUxLUUxBZnc5WWJBZEh6dFdTWHJUYkt5amtZMzhFRGplbThUaXZWWFlWcXVzOTVqZF9kc05WWGNOSFE?oc=5>
-
-### 特朗普再次威胁袭击伊朗 并寻求对伊加征关税
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 环球网
-- 时间: 2026-07-29 08:41
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE9WMHRaM1NtdFNZdUVGWUtFNENuRTR5ZjdQb2l4YWs2UGdWbnIxeXZMdjFCWVl0Qm91alNpbnJqUnh5dXJyTXJsMHJqMENaY3Jyc0J4WThMRG0?oc=5>
-
-### 美伊和平之路又“添堵”？特朗普誓言报复，还想动用“关税武器”！
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-29 23:29
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxQTXEyNm9yMWhNVHJWeGVUYkhpQ0JlcmVJcWNNSG9Sd1RGcnA5T00yUS1EZm1xd0dFSnJkZlFIaTBMWDJmckxRVnRfWTl5S01XNDdPN2h3TlU1ZTJLWlVJeVBROTl0ZGx2Ri0tOTdTV2kyM01qVl9Tdno1S0xpTkhjQl9uYWZGUUQ5SXZfR3EzNGtOYjgtSFhPeg?oc=5>
-
-### 仅有三成选民认可执政表现，特朗普遭遇民意逆风
+### 以色列煽风，乌克兰点火，特朗普不为所动
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-07-30 00:27
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1nbC1kRjNMdFVIZ3NQQU0xV3hEMWx2WkVxMXFWc3Uxd2ZhS2wxX2NPZ3ozWDR2anl6WTR1Q3F3aXpuTjhEVTVEbjJBY2c?oc=5>
+- 时间: 2026-07-28 23:46
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE95Z1JaZ2hyU18tWnNVSXp2UmtGSlY3ZGRYTFZycmRrSk5MS2drdGpzRXJRSm5hR25kNWRsQ0d3YjZJNTRFTmtoT2RpVlY?oc=5>
 
-### 特朗普誓称将以“非常猛烈”的新一轮打击报复伊朗
+### 要闻解说 - 特朗普与泽连斯基会面谈及爱国者导弹及重启外交斡旋 美参议院通过制裁俄法案
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-07-29 14:01
+- 链接: <https://news.google.com/rss/articles/CBMizgRBVV95cUxQRG5hYWdkVEUyejF0RkJfUzRuVVJ0OEZoMUpVUDZEVW43RE9fdDFabnFOYjBjMGhJUno1RVF3VTZOal9oZzdlZk1tSzBocEt6S0lqNDhRUnhNQXdmWWUwRmphaDVfZ2NOZ3BXVGNkOVhQVjBsMUQwemFJajNCM2UtOWhxTHhyU3dyei04UWJybjdPWTJGOWJ2ZkRocjcyekY2dlBpN2xWZnMtUXMwb1lLU2VBS2t4OWhTX3ZaVnRQOEFBS2tYNE0zcURVNDEzTTYxa21uV05qM1V6dVdoZHo1NHRPaGRrVmZwd1lzR1E1MGkwM1pDZ2FUS1N6bXFhRENMRTZCUWJOeU4taU5DdmxfYm5lTFM2MzBwVEtLeHlqUV9sdmc2cERnODJLRWNjRlpFbUFxQVBnMVZrazdicTBNVTZrSWU1Wld4Q1RORDUtRjFBLU5lSktoOUpGUlRlZ1ZmclllMi02QlhDMzhIWVBHMTNVQVgtX2IzU2wyZl95T2lid1IxRVRKOEJhd2FPRGtpeUliRWdxU0ZKWHBWUEVaM0E2SGY4VlYyeFJsbW9WMlF1c0p6LUVsakFmdVBNTjJWRWkyYmdsVl9Pek1GYXZtTWVnUWpqNlhyN001T2dpSWN3aElzR25DcTZVUEhhSFVwWl92NHNJc2JtUUlrVVp4NGdnTlJReGo5eUYySjNWbldfajVrd3JXQUZua0tORElhdTNEWDRxa2JLdGI4N2ktR2RYUFM3MVZjR3hkTmU1WHNpM29ic0tQenVlakxDQQ?oc=5>
+
+### 特朗普在格雷厄姆葬礼上疑打瞌睡，白宫：他在缅怀
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-07-30 01:02
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFBVa0U5QmltZWtiRnpKOGRvTC1UVGNuSDBoWlZCTmE1NWhVX2RmQ29rUi1EbWV6N1FJakpZc0hhQ2xoV05DNEFlWHhHVlFzb2RHY1RjcWc3eENSUDlDb1Z1OFhxX2xVbUpwa04tQUlZZWRKdw?oc=5>
+
+### 特朗普在格雷厄姆葬礼上打瞌睡？ 白宫：他在缅怀
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-07-30 02:47
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE5ROWVZNFVvVG1qenFEdldMcmFuOFV3ZXQ4b0pVZUJHaHI3SDVDN2RfWGhRYUEyYlhkcUZWM2p4RlZ2eUJwQkd6REtYbHc2NUJ2SWRtMEVHTE05enU1ZmJpdFR3OHdoTWlpeHRSSVZ1aFZQZw?oc=5>
+
+### 内塔尼亚胡被曝与特朗普讨论三种对伊策略
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: news.sina.cn
+- 时间: 2026-07-29 21:02
+- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxPSEhjajNibmU1UldVVmw4eFVkckRjUW1OeUZrcmZpajFncV9wVXIzNjVxUDZibnUzclhiWV9MV2pIUFYwVVNCZzJWM1JSZjg5YWhqY2FQY1Axa2NpendUUjZhTVhFRDNkLXZJWE1HV2pHQjR6OWxTSjZWZzN4SlVyNkZWd0tGajc4RnljbGlBa3RLcUZF?oc=5>
+
+### 特朗普：有足够耐心与伊朗达成新协议 否则就开打
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 东方财富
+- 时间: 2026-07-28 23:14
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaLXllZnFlNXV6eEhwRmZtYWhNZGxmRmhxWDh6U1hqY2V0M3pCVzVrMDNVWWVQaGdCZVRZY19ieG9KSDBhRnRraF84YUlXOHR5QmRQSEF3ZFA2OTlwRzRvaQ?oc=5>
+
+### 特朗普确认伊朗向约旦发射弹道导弹。
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: cn.wsj.com
-- 时间: 2026-07-30 00:01
-- 链接: <https://news.google.com/rss/articles/CBMisAFBVV95cUxOR1ZPRk1lTHZTOWpFOUhrbnlDdVIwOXRaQ1JtdmZRaTBoSVA0VWRzU3NUQWFPSkxMTTRKOUprM3c1SDcwbUNVb2l2SzRScW02X3dVRHh3Tk5sdnZSZjNFX0JYZkJqOUp4SWxjV2JNRFdtRi1HcFRhcXRnaWFNcWc1T1dWWWVrb3JRQjhvOTVZMlByc011bnVGZExaclhrSGNWRTB1dmFKcFFoTG9yTXcxZA?oc=5>
+- 场馆: Binance
+- 时间: 2026-07-29 19:27
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE03WVhNZXBFcWhDOGlNb0UzbWV1OWNzdlNnVEFWeGlhdVRTRUFJWExtRjJqTjVHNm44MG4ybmRjTHo2c1lVMXdNV0xaVDhNVlRGNU12d3ZVWDZkNWthV3R1cFBtTllFRXpn?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-30 03:52  (7 条)
+
+- **特朗普** | 以色列煽风，乌克兰点火，特朗普不为所动 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE95Z1JaZ2hyU18tWnNVSXp2UmtGSlY3ZGRYTFZycmRrSk5MS2drdGpzRXJRSm5hR25kNWRsQ0d3YjZJNTRFTmtoT2RpVlY?oc=5>
+- **特朗普** | 要闻解说 - 特朗普与泽连斯基会面谈及爱国者导弹及重启外交斡旋 美参议院通过制裁俄法案 <https://news.google.com/rss/articles/CBMizgRBVV95cUxQRG5hYWdkVEUyejF0RkJfUzRuVVJ0OEZoMUpVUDZEVW43RE9fdDFabnFOYjBjMGhJUno1RVF3VTZOal9oZzdlZk1tSzBocEt6S0lqNDhRUnhNQXdmWWUwRmphaDVfZ2NOZ3BXVGNkOVhQVjBsMUQwemFJajNCM2UtOWhxTHhyU3dyei04UWJybjdPWTJGOWJ2ZkRocjcyekY2dlBpN2xWZnMtUXMwb1lLU2VBS2t4OWhTX3ZaVnRQOEFBS2tYNE0zcURVNDEzTTYxa21uV05qM1V6dVdoZHo1NHRPaGRrVmZwd1lzR1E1MGkwM1pDZ2FUS1N6bXFhRENMRTZCUWJOeU4taU5DdmxfYm5lTFM2MzBwVEtLeHlqUV9sdmc2cERnODJLRWNjRlpFbUFxQVBnMVZrazdicTBNVTZrSWU1Wld4Q1RORDUtRjFBLU5lSktoOUpGUlRlZ1ZmclllMi02QlhDMzhIWVBHMTNVQVgtX2IzU2wyZl95T2lid1IxRVRKOEJhd2FPRGtpeUliRWdxU0ZKWHBWUEVaM0E2SGY4VlYyeFJsbW9WMlF1c0p6LUVsakFmdVBNTjJWRWkyYmdsVl9Pek1GYXZtTWVnUWpqNlhyN001T2dpSWN3aElzR25DcTZVUEhhSFVwWl92NHNJc2JtUUlrVVp4NGdnTlJReGo5eUYySjNWbldfajVrd3JXQUZua0tORElhdTNEWDRxa2JLdGI4N2ktR2RYUFM3MVZjR3hkTmU1WHNpM29ic0tQenVlakxDQQ?oc=5>
+- **特朗普** | 特朗普在格雷厄姆葬礼上疑打瞌睡，白宫：他在缅怀 <https://news.google.com/rss/articles/CBMickFVX3lxTFBVa0U5QmltZWtiRnpKOGRvTC1UVGNuSDBoWlZCTmE1NWhVX2RmQ29rUi1EbWV6N1FJakpZc0hhQ2xoV05DNEFlWHhHVlFzb2RHY1RjcWc3eENSUDlDb1Z1OFhxX2xVbUpwa04tQUlZZWRKdw?oc=5>
+- **特朗普** | 特朗普在格雷厄姆葬礼上打瞌睡？ 白宫：他在缅怀 <https://news.google.com/rss/articles/CBMickFVX3lxTE5ROWVZNFVvVG1qenFEdldMcmFuOFV3ZXQ4b0pVZUJHaHI3SDVDN2RfWGhRYUEyYlhkcUZWM2p4RlZ2eUJwQkd6REtYbHc2NUJ2SWRtMEVHTE05enU1ZmJpdFR3OHdoTWlpeHRSSVZ1aFZQZw?oc=5>
+- **特朗普** | 内塔尼亚胡被曝与特朗普讨论三种对伊策略 <https://news.google.com/rss/articles/CBMilAFBVV95cUxPSEhjajNibmU1UldVVmw4eFVkckRjUW1OeUZrcmZpajFncV9wVXIzNjVxUDZibnUzclhiWV9MV2pIUFYwVVNCZzJWM1JSZjg5YWhqY2FQY1Axa2NpendUUjZhTVhFRDNkLXZJWE1HV2pHQjR6OWxTSjZWZzN4SlVyNkZWd0tGajc4RnljbGlBa3RLcUZF?oc=5>
+- **特朗普** | 特朗普：有足够耐心与伊朗达成新协议 否则就开打 <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaLXllZnFlNXV6eEhwRmZtYWhNZGxmRmhxWDh6U1hqY2V0M3pCVzVrMDNVWWVQaGdCZVRZY19ieG9KSDBhRnRraF84YUlXOHR5QmRQSEF3ZFA2OTlwRzRvaQ?oc=5>
+- **Trump** | 特朗普确认伊朗向约旦发射弹道导弹。 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE03WVhNZXBFcWhDOGlNb0UzbWV1OWNzdlNnVEFWeGlhdVRTRUFJWExtRjJqTjVHNm44MG4ybmRjTHo2c1lVMXdNV0xaVDhNVlRGNU12d3ZVWDZkNWthV3R1cFBtTllFRXpn?oc=5>
 
 ### 2026-07-30 00:55  (9 条)
 
