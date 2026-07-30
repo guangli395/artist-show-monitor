@@ -1,62 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-30 21:40**
-- 本轮扫到 8165 条, 新增 **6** 条
+- 最近更新: **2026-07-30 22:59**
+- 本轮扫到 8169 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (4 条)
 
-### 蔡徐坤澳门生日场演唱会伴手礼包含哪些物品？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923119_1d5ae15af06801un22.html>
-
-### 特朗普称伊朗将遭痛击，美国将强力报复
+### 格雷厄姆下葬，特朗普、泽连斯基、内塔尼亚胡同时现身
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-07-29 15:29
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE85WlpfM3FGSXVveVBWWjc3QjBFSXBTNnR5MnlxUHZmb3hmZHZGTjhudFFhZTRsQWZRcG1WQVY0d3JzbVpZXy10RmNNNlNRZWJGV3FaOFQzVzY2cWg0LTZWYXJBaUpjRlVNRDVQNlZRbnZ2d3B0MkVGRw?oc=5>
+- 场馆: news.cn
+- 时间: 2026-07-29 08:18
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1uVnRNaUNselh4UlZoTkRRdXJZRHhVaW5YbE5KRENOREdtVXp0YnQ3T3JBdkVnN0IteXdtU2NtU2FBV1p3QVdncThHQkU0Y3FyR2JzSXgydHBCMFVMSnFhUGQyeW1OMV9OXzl5Q0p0VWU1eWpZQzJHNzMtOVI3aW8?oc=5>
 
-### 凌晨，美联储宣布利率决定！美股收跌！特朗普、沃什，最新发声
+### 特朗普称伊朗将遭“痛击” 不排除继续打击其地区代理人
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-30 20:14
-- 链接: <https://news.google.com/rss/articles/CBMijAJBVV95cUxNSUR1cGpUWU11WVhBVzZucEhTNDU5dUpoX05yLVhYX083S21rRF85OWE1b1gtcUtVSUdFOS1GTXNEZExIM3FpcUdabXQxMFlENUpqanZwVVFGRlV6WVRubVNRMko1ejFnRHpVM3lKNTd1SE9LYWhVSXMzLVNXYW1Hblk3MDdhR2sxemlvLXNMd21KczFGbGpwN2gyT3QwTEowX1BTUnFTSUZ1dkpoOEItTjFGaU9YaWV6eGRIYzFTYlhKTklMNVlZVE1GeW4zYWRrYmVEY201bW1mYXY1aWx1NEQtaXhJWW9UTWdSdDdhcmYta0FJX19rbEVDWWMtUW9Cc3lFZy1BNEtuUTlv?oc=5>
+- 场馆: 央视网
+- 时间: 2026-07-29 16:14
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9HRVFRSlRtdmRJYUJyaE9vc21sVy1wd3Vxc3BheDUwSkhDN3NkY2xEWDhFaGNNSHc4SVdQemtsOHpGWkVGWHM5VXlqdTFnMXNOWVZjZUxJanBkdUxGQVVpekhuRUQzbDh0dWNnYmRwM01COEQ0WkZfdg?oc=5>
 
-### 马斯克将投入至少1亿美元助力共和党中期选举
+### 特朗普再次威胁袭击伊朗，并寻求对伊加征关税
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-30 20:18
-- 链接: <https://news.google.com/rss/articles/CBMivgJBVV95cUxPOEVpNGpMWGZRTUtVdDBYb2VjTEE4ZVQ4UzRKcnBjYVBhV0VVb3lpRnY5a1AyMnozcXVDdjA5VTZmcllHOXQ4cWh0WV8ydGd4cmNaR3NBSUdPWmh5Y0poZmVDbjZ4cVY2Vk1yNnVrbVBLQjByOVlqOUxvelpnd2cyT3N1QU1tSHk5cHptZV9LZUJ1UTl1ZnQzUjhmbmVQWHZMNHpXUkxrLTRRRmFvWnEtWkFsRGY1Z2RGWVA1TnRBbVlrWC1ldm84c1FkbFhUM0lqMHZ0LWFaeEpseEg4MTBzUV9kb3Izbkd3SWxJNndOajZvN2VCa1BveG1EVEQ5VkpYOVhjb25pLWExd1BFV2ZMZGg5dWFSR2xGYkJkUTltc3JBUlY4ZVhYeDNBOGxMNlR0NVI0WERqNVdpaWRDZEE?oc=5>
+- 时间: 2026-07-29 22:08
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxOb05vcGF0SVRNQ2RzVjhVRlhheHNKbGo4b0FIUHd2NDNFNVNqOTdseGgwSkV0UHl2bTZzanZkMy11Vnd4TXZKdG5SVjBObk41N2tPOFNRcDhhMm5jWTQtQUEzVkpVVnZTVUVhZGZZeS1aY1U0N241TFN6S3VBbndPRmoxNWo3MU9TY25pWWRKRmt0c1ZiX2Y3aG9fQjVpWVlsdzFxSXVPMUtQcjJqcE9lT1FWOTBpV3Z2Q25MV190bFR5ZkhXMXMwLVF3VnJnSnRv?oc=5>
 
-### 美中贸易官员举行通话，美国敦促北京兑现稀土与农产品承诺
+### OpenAI遭遇网络安全漏洞且面临与中国竞争之际，特朗普总统正考虑对人工智能实施管控
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 美国之音
-- 时间: 2026-07-30 20:49
-- 链接: <https://news.google.com/rss/articles/CBMiugFBVV95cUxOMEdod2x1MVVuVlUwZW9YalZCZGNUcC1WODNVbHBneTBwSXZTRHRPNm5kRE1zWXlFR2NsOWJhMzhWTzlHNUdWc05tckVoVkZLbWJLUW5oYzU5RzJKeXdNYXpSUzlwdUp5cTZGQ2NpZXhydi1ZNXZGNTBDUkJWUFNTY0Q0QUtoRkY5R3BqdnAyQW9TakptalBQWGZ5MzFHWVMtVGhlNlRHbTA2S3g3M24zbGxRMVFlbmp2VXfSAbwBQVVfeXFMT2Vrd0R0b204Wi0yRXp6eHYtT0RiYng5SGMxMktjRldLZk15MTRsUzFOUU0zcE51aGdmLU5NWGdITEltb201NFlETDhXSDNUYldpN2VZQlhvVnQxalBzdFA3dHRfSGctZG1rT3Y4bFZiQjFaVG9pWm13TWdoNjNZSnJsVExFQ1dXcXhQWUk0aGF0RFR5Snd1YlFmVmJWUVplaV95NGRkbmJTUnhsaWpfVjFZNEVNdjZwVUhCUnc?oc=5>
-
-### 战略青年
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 清华大学战略与安全研究中心
-- 时间: 2026-07-27 07:00
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RZFE3TkNLNVMtM1hfQy1TbzNSRlJabTBOeFRmOU5weUs3VFU1NXRwOG9LSktBRDhqVWtPbGYxc3FtMjlBbEk1bE9IY1JrLWhzcXBvVDZRWkQyc3hjYm1hUUZKQ19hWlJh?oc=5>
+- 时间: 2026-07-30 21:48
+- 链接: <https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdk9EdG1Wa1lNekNQMy1yYUgzdjRlUmF6N0FXZGZWd0RWYndlM0UzYXVMZlhIb3A0ZEUwYnR3SlJqWVJQcDAtT3htdlkwVldETFhDajVjNE5FMkZPRk9yLXAtQmxObXZ5TmZuM1c2alE0Nk1pclZXNUxsUnBYZUVBTC1LazVaeUd6cjVVUFBUY0FabDJjcXhmTWt0TGxmNUk0dFZnaFJDbi0wSzk1ekZEVVh4amI1UDlFVTRYQ0ZscVByMXl2Rk9NZlZpaUprLWtkYXlkVHk1S1TSAdsBQVVfeXFMTVVNdGVnd0dwbFRWdmdZb1gtVHRDVlpsN080bWM4YzNlTHNSRmg0M1VrTmhLTVExSlFvdTlSc2FKcEJUcE15alVJYzk3bDY0OVNXNFFzanZQM0lCQXpCRE5iT28wa2hXVDVQS0dCYTIxMzN3R3czc3FSVEhJckNPVlIxVnJJTm94RTI5bnEzNmdGTnRyNWFqMXFiMHcxVWRzTFJ4UzBwbm5Fd19udXhDSWxZdi1kaGtwb3BQcjFSVDh5ZFJqM08ySUtfWUszOUFOTHBBM3Y3WmRIX240?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-30 22:59  (4 条)
+
+- **特朗普** | 格雷厄姆下葬，特朗普、泽连斯基、内塔尼亚胡同时现身 <https://news.google.com/rss/articles/CBMif0FVX3lxTE1uVnRNaUNselh4UlZoTkRRdXJZRHhVaW5YbE5KRENOREdtVXp0YnQ3T3JBdkVnN0IteXdtU2NtU2FBV1p3QVdncThHQkU0Y3FyR2JzSXgydHBCMFVMSnFhUGQyeW1OMV9OXzl5Q0p0VWU1eWpZQzJHNzMtOVI3aW8?oc=5>
+- **特朗普** | 特朗普称伊朗将遭“痛击” 不排除继续打击其地区代理人 <https://news.google.com/rss/articles/CBMieEFVX3lxTE9HRVFRSlRtdmRJYUJyaE9vc21sVy1wd3Vxc3BheDUwSkhDN3NkY2xEWDhFaGNNSHc4SVdQemtsOHpGWkVGWHM5VXlqdTFnMXNOWVZjZUxJanBkdUxGQVVpekhuRUQzbDh0dWNnYmRwM01COEQ0WkZfdg?oc=5>
+- **特朗普** | 特朗普再次威胁袭击伊朗，并寻求对伊加征关税 <https://news.google.com/rss/articles/CBMi0AFBVV95cUxOb05vcGF0SVRNQ2RzVjhVRlhheHNKbGo4b0FIUHd2NDNFNVNqOTdseGgwSkV0UHl2bTZzanZkMy11Vnd4TXZKdG5SVjBObk41N2tPOFNRcDhhMm5jWTQtQUEzVkpVVnZTVUVhZGZZeS1aY1U0N241TFN6S3VBbndPRmoxNWo3MU9TY25pWWRKRmt0c1ZiX2Y3aG9fQjVpWVlsdzFxSXVPMUtQcjJqcE9lT1FWOTBpV3Z2Q25MV190bFR5ZkhXMXMwLVF3VnJnSnRv?oc=5>
+- **特朗普** | OpenAI遭遇网络安全漏洞且面临与中国竞争之际，特朗普总统正考虑对人工智能实施管控 <https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdk9EdG1Wa1lNekNQMy1yYUgzdjRlUmF6N0FXZGZWd0RWYndlM0UzYXVMZlhIb3A0ZEUwYnR3SlJqWVJQcDAtT3htdlkwVldETFhDajVjNE5FMkZPRk9yLXAtQmxObXZ5TmZuM1c2alE0Nk1pclZXNUxsUnBYZUVBTC1LazVaeUd6cjVVUFBUY0FabDJjcXhmTWt0TGxmNUk0dFZnaFJDbi0wSzk1ekZEVVh4amI1UDlFVTRYQ0ZscVByMXl2Rk9NZlZpaUprLWtkYXlkVHk1S1TSAdsBQVVfeXFMTVVNdGVnd0dwbFRWdmdZb1gtVHRDVlpsN080bWM4YzNlTHNSRmg0M1VrTmhLTVExSlFvdTlSc2FKcEJUcE15alVJYzk3bDY0OVNXNFFzanZQM0lCQXpCRE5iT28wa2hXVDVQS0dCYTIxMzN3R3czc3FSVEhJckNPVlIxVnJJTm94RTI5bnEzNmdGTnRyNWFqMXFiMHcxVWRzTFJ4UzBwbm5Fd19udXhDSWxZdi1kaGtwb3BQcjFSVDh5ZFJqM08ySUtfWUszOUFOTHBBM3Y3WmRIX240?oc=5>
 
 ### 2026-07-30 21:40  (6 条)
 
