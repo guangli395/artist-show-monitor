@@ -1,58 +1,73 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-30 18:53**
-- 本轮扫到 8153 条, 新增 **6** 条
+- 最近更新: **2026-07-30 20:11**
+- 本轮扫到 8159 条, 新增 **6** 条
 
 ---
 
 ## 本轮新发现 (6 条)
 
-### 蔡徐坤生日演唱会与普通场次有何不同？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776722_1d5abd9d206801eopu.html>
-
-### 蔡徐坤生日演唱会伴手礼，仪式感堪比结婚
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776722_1d5abd9d206801eopq.html>
-
-### 周杰伦樊振东跨界同框！俱乐部赞他幽默友好，正筹办大型发布会
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849212_1d5acf4fc06801k03o.html>
-
-### 7月30日外盘头条：特朗普称美国将“狠狠打击”伊朗 美联储维持利率不变 微软Q4业绩大超预期 云收入增超40%
+### 特朗普再次威胁袭击伊朗，并寻求对伊加征关税
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-30 18:34
-- 链接: <https://news.google.com/rss/articles/CBMijwJBVV95cUxNOWV2RTVyaWNYNHFCdFh6STI2TERjemZSakg5TGtPbnJtc0YxSHk3UFpSZ1V0bFJXTVhDTHQ2bWlVYmxWRmxWS2hDOUFOa2dnelRkTzVrTEwyeHAtcVdZRDVnZEVfNW1wN0N5YzdUTk9vM3U4V0IyOTRkRGI2dUJkWHJEdUJ5eVlGYVhPZW5MLW9TLU5IQzBpRkdqd09WTGIyZkNqYm4tODE1WXRvdzJUa2p3alc2d2ZjRGNaMXNlVXhjSVV0Y3VzUWlSdUJIeF9aWkVITUk5a0FiTUw4YWE5cFJ3TXFXNzBEYy1FT2lMNU01ZWZJaHNQWVVhZGRBd3g0M0hsU1p5VnV4TEtNNEFN?oc=5>
+- 时间: 2026-07-29 22:08
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1JTDZjTUFfMm1iTkh4cGY1cE9FRXZXdUk4VjRHM1FqV0o0Rk9oRmllaEs0bnBJbzhDMEdpNC1LSTNqUlhjYlpUOUhWNzVDSVhFTlZTazhldVZtYWRUa1RzMndUR2o1R1JHdGlISlp3VE9GTDZPWXdnWQ?oc=5>
 
-### 美乌美以华盛顿会晤，巧合还是勾连？
+### “乌克兰防空拦截弹几乎耗尽”，泽连斯基向美国请求紧急援助
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-30 17:22
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBrdVFEZk92cXpISElvZUo5MWQwSDdYbE84TV9MSDFldVE3ekVwdFhzQVd6dTZnNXd3RnJyRDJGcThxV2pySlZqeVB2UFR5TzBpUkxBNkwyRzhkWnN2RGZEc0dFV3A2MHdMWlI2SExtODR5S0sxamU1Vw?oc=5>
+- 时间: 2026-07-30 18:45
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBjR3QtSXZxbFRFR2xhaWFBZzdXemdFZno2SG1TS1Q3WmgyTEFielVscFc0RFRsSGxCS3hpX21tZVlrZjhNQkhaSVpZOHljVXd0UlVReE82SjBBRl9EYTM5NVhfTjNkZE50cWdwYThPOV81MS1QNF8tcw?oc=5>
 
-### 报道称伊朗将获得中国肩射防空导弹，特朗普总统表示若有此事，他会“相当失望”
+### “内塔尼亚胡与特朗普在白宫举行约90分钟会谈，伊朗问题是会谈重点，两人讨论了三种方案”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-07-30 16:55
-- 链接: <https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZmNrem1OaU1NaWVwX2hocS04M3VWSThQS1VRTzlNdG5hNXA0S1RrVDZid0NUSlJtdWYwbi00NVlrano3S29TOW5SZGxXVjBBUmJJdjV2MUVMRk9zT29mVjZvVFVROEZSVWJHRGY3ZlFSXy1UNF91aU5SeHB1OG1MWmZVWmVENV9lT09YSVZMWDBkSUcxYWt0Q2luNkZSRVRSSWNIZzM1TlRIZGYxUVdNakdSZ01ORWM3bUdNdi1VSVltdWxoTTRjcEJyZ1R0Ti05NXNPSUlQNXkzR3pGX3FONnJ3OEVEWTk5bUxaR0p5U284cGvSAfYBQVVfeXFMUHMyQUNYWXllajBTVnMwYnlzdW5zSVlzQnFLMzJZWjVVTGhjaTdnc3ROQzNRc1NoZUdPaUl1UE1MS2VaX2lEZ1IzYTZzeGxRU0Z1MVo3U0lCZEJpZHpzOXBwZVRCZ2ZXbWR3MnhORGx4R1JSUVhuYUFlNWZsNDcwUlZUVG0xTXB4cldvNWNLZ2dFN1Ewc1FCRXh3am1jOHU2T1N5TFUyT0p4U0V3bi1iRG0zdWtGa0ZUX2Rzdmc1WTEtR0lIYXNackd5Z1FfaXdITEUzR21UY2J4NzNDUGFVWnZjWm9RVy1Bb2dDWFZnZGRwcGtXb1lR?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-07-29 23:39
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTFBpd19PUmNpX1ViYlo3N3pZaWx4aXllTVlualdmRGVfYVpHTVhnbDhpUEF4NE1BRG1sc2dEdlpOX2Z6YjNXQU5tY3YzQmNuTlBVZEZCZGZkN3NIRTZqRUtNamw2bFA0MGpIcTlaOGJGM0R6d1ZvdWc?oc=5>
+
+### 美以伊渐入新博弈
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-30 20:08
+- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxQQ3c5ZTE0VHRBdTJrSkg3OEptSnBxS3RseTFZc0FrTjZ0RXZaVjh2RkFrREdTNWprSFczQW90NzB1NzJ3QW1xZHA1OF9kYTVyVTlRaVhURktud3puSm1IVnVTMmlnbFJKZGJZRVMyQUZZN25RS096c1JBcXVybXRUQzNBVVdLS3pidTc0QzE1Y3hYeVNzeG9SMXJONEQwNElP?oc=5>
+
+### 马斯克将投入至少1亿美元助力共和党中期选举
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-30 20:06
+- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxNeGtoM3hVNjB6Tk9UNHZEdkkwMS1Oblg5X2FzclpyLWpEWHhHNDRJSWFBajNHUkJPc2RNc3k4NnJSeHJfenRHVHlqMC1lV0VaaGlaM1VlTWo4bDAtdkVXNUQ4WGV6QWF2cmNqZDhKOW1WWUJsY3F4cmpYSHBZRWFzUzVLVERnemJBR2c?oc=5>
+
+### “极不寻常”！爆料称特朗普或拒绝法国驻美大使提名
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-07-30 13:38
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1SNzZKRmRZRl9jVUIwUWRyMVJQUTF2dUtsTG9na01Sd1p4dnpleWpBYS1KdUNIZC14YWFJZ0xYSmE0TE12dDJxam5sQzA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-30 20:11  (6 条)
+
+- **特朗普** | 特朗普再次威胁袭击伊朗，并寻求对伊加征关税 <https://news.google.com/rss/articles/CBMieEFVX3lxTE1JTDZjTUFfMm1iTkh4cGY1cE9FRXZXdUk4VjRHM1FqV0o0Rk9oRmllaEs0bnBJbzhDMEdpNC1LSTNqUlhjYlpUOUhWNzVDSVhFTlZTazhldVZtYWRUa1RzMndUR2o1R1JHdGlISlp3VE9GTDZPWXdnWQ?oc=5>
+- **特朗普** | “乌克兰防空拦截弹几乎耗尽”，泽连斯基向美国请求紧急援助 <https://news.google.com/rss/articles/CBMieEFVX3lxTFBjR3QtSXZxbFRFR2xhaWFBZzdXemdFZno2SG1TS1Q3WmgyTEFielVscFc0RFRsSGxCS3hpX21tZVlrZjhNQkhaSVpZOHljVXd0UlVReE82SjBBRl9EYTM5NVhfTjNkZE50cWdwYThPOV81MS1QNF8tcw?oc=5>
+- **特朗普** | “内塔尼亚胡与特朗普在白宫举行约90分钟会谈，伊朗问题是会谈重点，两人讨论了三种方案” <https://news.google.com/rss/articles/CBMidkFVX3lxTFBpd19PUmNpX1ViYlo3N3pZaWx4aXllTVlualdmRGVfYVpHTVhnbDhpUEF4NE1BRG1sc2dEdlpOX2Z6YjNXQU5tY3YzQmNuTlBVZEZCZGZkN3NIRTZqRUtNamw2bFA0MGpIcTlaOGJGM0R6d1ZvdWc?oc=5>
+- **特朗普** | 美以伊渐入新博弈 <https://news.google.com/rss/articles/CBMioAFBVV95cUxQQ3c5ZTE0VHRBdTJrSkg3OEptSnBxS3RseTFZc0FrTjZ0RXZaVjh2RkFrREdTNWprSFczQW90NzB1NzJ3QW1xZHA1OF9kYTVyVTlRaVhURktud3puSm1IVnVTMmlnbFJKZGJZRVMyQUZZN25RS096c1JBcXVybXRUQzNBVVdLS3pidTc0QzE1Y3hYeVNzeG9SMXJONEQwNElP?oc=5>
+- **特朗普** | 马斯克将投入至少1亿美元助力共和党中期选举 <https://news.google.com/rss/articles/CBMiigFBVV95cUxNeGtoM3hVNjB6Tk9UNHZEdkkwMS1Oblg5X2FzclpyLWpEWHhHNDRJSWFBajNHUkJPc2RNc3k4NnJSeHJfenRHVHlqMC1lV0VaaGlaM1VlTWo4bDAtdkVXNUQ4WGV6QWF2cmNqZDhKOW1WWUJsY3F4cmpYSHBZRWFzUzVLVERnemJBR2c?oc=5>
+- **特朗普** | “极不寻常”！爆料称特朗普或拒绝法国驻美大使提名 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1SNzZKRmRZRl9jVUIwUWRyMVJQUTF2dUtsTG9na01Sd1p4dnpleWpBYS1KdUNIZC14YWFJZ0xYSmE0TE12dDJxam5sQzA?oc=5>
 
 ### 2026-07-30 18:53  (6 条)
 
