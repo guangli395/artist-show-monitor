@@ -1,32 +1,108 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-30 13:06**
-- 本轮扫到 8134 条, 新增 **2** 条
+- 最近更新: **2026-07-30 15:29**
+- 本轮扫到 8145 条, 新增 **11** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (11 条)
 
-### 勒夫勒财务申报曝光丈夫参股小唐纳德・特朗普创办的高端私人俱乐部
+### 黄子韬演唱会现场真的直接给观众发现金吗？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068013x3a.html>
+
+### 蔡徐坤浪漫伴手礼VS黄子韬送钱，演唱会福利谁更宠粉？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068013x36.html>
+
+### 蔡徐坤演唱会禁止携带哪些应援物品
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776722_1d5abd9d206801eoje.html>
+
+### 8月2日蔡徐坤生日当天演唱会有何特殊环节
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776722_1d5abd9d206801eoj6.html>
+
+### 蔡徐坤生日演唱会送神秘伴手礼，粉丝直呼婚礼级仪式感
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776722_1d5abd9d206801eoj4.html>
+
+### 特朗普称将打击伊朗以回应驻中东美军遭袭
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: finance.sina.com.cn
-- 时间: 2026-07-30 12:19
-- 链接: <https://news.google.com/rss/articles/CBMivgJBVV95cUxOa0hVOUxiOXROT1VPSDdDQkxya19CLVVyV1lpRlJ6cFR6WDg2b0xkZnh0d3FXWXBPRTVPY045aUtrS2l6MEtnWFY4T0Fhd2pMclZmQmZwUVFlU19EamV6N1VxY0hybjNOVDJ5SG9weGxqN2VsVWMzWEdfaWxZM3NKZmtYUHY2SUhBYmw1M1hBVkw4MWxEdUQ5d2lsNlVkb2JTU0R4QjM3V0l3ZW80TE1SQjdMYWZlQnBKSWZPMXdhMl9MQVJsejRwRTFJbXlDZGZuMi1STm55Y1V2Sm9ybGd4Umc2UmE4WjdRM0Y0NnhHcHU5MG1BQUJSNURHeW9ydXhuSXFXcFFBNk5DNFpwZ3g4OGtXdXVRdmV3em1UMjZKSUlSNVk3b3JiUVFVdklOUGdGc2RuVEpPRHcydG1KaGc?oc=5>
+- 时间: 2026-07-30 04:03
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9QbVRVTG9kZTBQTzNWVzRQcmt1N0t2UnpKdFluaVAtN2FPdVg4azVMTFBzRTNCTnpaOEVUSHNqS0pxU0VXdzRNbE5ZOWUtblQwMGFYUGVDYllkYVJROEFkWlFvZGcyLUh6c0FpaW9iWFNqSkY2UFozUQ?oc=5>
 
-### 美媒：特朗普，遇到了一个更强硬的伊朗
+### 特朗普为何钟爱“301调查” 关税报复的新利器
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-30 11:37
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFA1d3JwaXVRcDJIdExOeHptdDIyN1ZYRTJzUG1GQTVXY0NGeFg1REo0NVlBS2FwY1FaVXlhV3BWLVB0bktVVXpLbmc1WFo?oc=5>
+- 场馆: 中华网
+- 时间: 2026-07-30 13:29
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE56Yk1TeTh5dDQ2UGRJdGZnV2JxX1AzLUZ4OEJETlhuNm05MjFLU2tSa1VUblJfOU1Tc2czSGwyTEp0ZzJBSWtZLURZQXVXaUNXME9leGZYLVpsQkNZbEhYdlpYeVYyTTVkZUVoM0dvMVA?oc=5>
+
+### 国际足联：讨好特朗普激怒全世界，大甩卖带来大分裂
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: DW.com
+- 时间: 2026-07-30 12:41
+- 链接: <https://news.google.com/rss/articles/CBMi0AJBVV95cUxOaXhMNHVsZGVKUHZHSS1EUkZQTVI4MDRtTEFVdGtzTkFCZHBjMzlwVDIyREZScU9CSGdvY0oxVTRTOVdhSXlZcENJN0FJaVVSeExteFBzbVI3VzVYa05aVmJVazIzSDFBOUpKSGxzQ0ZNR0hmb3Y1c0hSdk56RVVzQXgzeE9wenBqNUswaVI1WmJFRTRmRlZ6b3dKdm8zak5rS2t1TUwybVp3Vl9fNWJqeXhsTTRNckd1NVVZM3ZyeFRVa2I0MmNqeGVZX3lEd2FLRXRzeGQ3MWNzSnNIbGJwWVNUMTY0Vzl0dkpMSkRMM0FrS1hqbC1VWWZua3pCX1BxQlZxaXZlT0xDVndZLVBVc2EzZDRER05kRHdtR3dkWU5XMjJLRXBhTXl5OV9UdkRobC1oU1RtQWZTNldZaHVvVFlLZHJ5YmZvX0tTMnNBazPSAdACQVVfeXFMTk55N1FSTzdrOVVNU1RGWWw1UWh4bVo5UEc0WUVKejJJQmFMSXNsRkZIQlZmTVQ4eGQxamR2VVVGNUZHc21TZlkySE15SkF4QjNhUkNzNkRENjgwZk8welU1dWYtcGJ1SXRRY1VWU1R2ZkdyN29HNDk3Y0VYcUpLdE5Wa1ZpMlFjaVkxYXVtUzdRRE1mVjJlZk5ReWlpdkMzN01hVTRkclp1N1E2Yzc4N0NDSTF1Yk9TNElOMm1XeHQzaTlLMUJZNHZVNjRoLWxfT1JjRVlyMFJiOXdPbWNOVVgtdkhsU0dIVy1WVmxBUUFBcEwycUdralVYYWRKVDlSZGtFYU16amNFM2RQc2I5OFEwWE82RXY5czJXZ1h6QU02bmFOeUtoTnZPS3FyYUx0VUJHSmR2TC0wWGxpMGRqVkJMbEh4U2JBZkRlRDJlLTk3?oc=5>
+
+### 特朗普关税政策正让一些企业“回流”中国
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 纽约时报中文网
+- 时间: 2026-07-30 01:19
+- 链接: <https://news.google.com/rss/articles/CBMingFBVV95cUxORldIMEo5MVg0TUh1Tmk2M1EzLUdHeFJRcVF1TTd0U21XaEE3a2YyZW03LXUwcXRBODY5WWRDUG1TWFl6QlVuUDNOSWNPXzc3M3c1VTdqbm1qb3NLdVdjcUNwNWtzR01NbkJxWmtidmxkX1E4TTJrSmVpTndzSWlkbk1jR09SNnJxRzQtYm96VnFwd2ZiRUplYWRGNGQ2Zw?oc=5>
+
+### 特朗普：要给予伊朗沉重打击；美联储今年连续五次按兵不动；道指跌超1100点，国际油价大涨7%；月之暗面完成超35亿美元F轮融资丨每经早参
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 每日经济新闻
+- 时间: 2026-07-29 22:03
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1GbmpCQk5peUhVWE5RVTN1eG1tUFNRZGtwT3hyUEkyTEpSWkdORDJCZkpNODdNM1hELVVkeUE1NXJhYm1Pd3oxRzJZX0NvbFU5TWNiaW9BTl9tYnZqLWxDOUZiZ28xZw?oc=5>
+
+### 爆料：特朗普“大为恼火”，在会上大发雷霆
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 21财经
+- 时间: 2026-07-30 08:48
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxOeUlIQzhBLXMzRF93OGhWZlE3OXhBWlFzSVNPTmFiYnNIRlBNQ3QyeUdqUGoyd1RxY1VlRDJzeDVZbHBVWXpNRFI0bFpsYUV1Y1lqWGJSQ2pLaHJpM3p6c25COWFaSGVLZjdoNm1GRGpXUnlMRUt0d1Fpd3BKT1lrclU0NkRtbzNaZEo1OQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-30 15:29  (11 条)
+
+- **蔡徐坤** | 黄子韬演唱会现场真的直接给观众发现金吗？ <https://k.sina.com.cn/article_7879776356_1d5abd864068013x3a.html>
+- **蔡徐坤** | 蔡徐坤浪漫伴手礼VS黄子韬送钱，演唱会福利谁更宠粉？ <https://k.sina.com.cn/article_7879776356_1d5abd864068013x36.html>
+- **蔡徐坤** | 蔡徐坤演唱会禁止携带哪些应援物品 <https://k.sina.com.cn/article_7879776722_1d5abd9d206801eoje.html>
+- **蔡徐坤** | 8月2日蔡徐坤生日当天演唱会有何特殊环节 <https://k.sina.com.cn/article_7879776722_1d5abd9d206801eoj6.html>
+- **蔡徐坤** | 蔡徐坤生日演唱会送神秘伴手礼，粉丝直呼婚礼级仪式感 <https://k.sina.com.cn/article_7879776722_1d5abd9d206801eoj4.html>
+- **特朗普** | 特朗普称将打击伊朗以回应驻中东美军遭袭 <https://news.google.com/rss/articles/CBMieEFVX3lxTE9QbVRVTG9kZTBQTzNWVzRQcmt1N0t2UnpKdFluaVAtN2FPdVg4azVMTFBzRTNCTnpaOEVUSHNqS0pxU0VXdzRNbE5ZOWUtblQwMGFYUGVDYllkYVJROEFkWlFvZGcyLUh6c0FpaW9iWFNqSkY2UFozUQ?oc=5>
+- **特朗普** | 特朗普为何钟爱“301调查” 关税报复的新利器 <https://news.google.com/rss/articles/CBMicEFVX3lxTE56Yk1TeTh5dDQ2UGRJdGZnV2JxX1AzLUZ4OEJETlhuNm05MjFLU2tSa1VUblJfOU1Tc2czSGwyTEp0ZzJBSWtZLURZQXVXaUNXME9leGZYLVpsQkNZbEhYdlpYeVYyTTVkZUVoM0dvMVA?oc=5>
+- **特朗普** | 国际足联：讨好特朗普激怒全世界，大甩卖带来大分裂 <https://news.google.com/rss/articles/CBMi0AJBVV95cUxOaXhMNHVsZGVKUHZHSS1EUkZQTVI4MDRtTEFVdGtzTkFCZHBjMzlwVDIyREZScU9CSGdvY0oxVTRTOVdhSXlZcENJN0FJaVVSeExteFBzbVI3VzVYa05aVmJVazIzSDFBOUpKSGxzQ0ZNR0hmb3Y1c0hSdk56RVVzQXgzeE9wenBqNUswaVI1WmJFRTRmRlZ6b3dKdm8zak5rS2t1TUwybVp3Vl9fNWJqeXhsTTRNckd1NVVZM3ZyeFRVa2I0MmNqeGVZX3lEd2FLRXRzeGQ3MWNzSnNIbGJwWVNUMTY0Vzl0dkpMSkRMM0FrS1hqbC1VWWZua3pCX1BxQlZxaXZlT0xDVndZLVBVc2EzZDRER05kRHdtR3dkWU5XMjJLRXBhTXl5OV9UdkRobC1oU1RtQWZTNldZaHVvVFlLZHJ5YmZvX0tTMnNBazPSAdACQVVfeXFMTk55N1FSTzdrOVVNU1RGWWw1UWh4bVo5UEc0WUVKejJJQmFMSXNsRkZIQlZmTVQ4eGQxamR2VVVGNUZHc21TZlkySE15SkF4QjNhUkNzNkRENjgwZk8welU1dWYtcGJ1SXRRY1VWU1R2ZkdyN29HNDk3Y0VYcUpLdE5Wa1ZpMlFjaVkxYXVtUzdRRE1mVjJlZk5ReWlpdkMzN01hVTRkclp1N1E2Yzc4N0NDSTF1Yk9TNElOMm1XeHQzaTlLMUJZNHZVNjRoLWxfT1JjRVlyMFJiOXdPbWNOVVgtdkhsU0dIVy1WVmxBUUFBcEwycUdralVYYWRKVDlSZGtFYU16amNFM2RQc2I5OFEwWE82RXY5czJXZ1h6QU02bmFOeUtoTnZPS3FyYUx0VUJHSmR2TC0wWGxpMGRqVkJMbEh4U2JBZkRlRDJlLTk3?oc=5>
+- **特朗普** | 特朗普关税政策正让一些企业“回流”中国 <https://news.google.com/rss/articles/CBMingFBVV95cUxORldIMEo5MVg0TUh1Tmk2M1EzLUdHeFJRcVF1TTd0U21XaEE3a2YyZW03LXUwcXRBODY5WWRDUG1TWFl6QlVuUDNOSWNPXzc3M3c1VTdqbm1qb3NLdVdjcUNwNWtzR01NbkJxWmtidmxkX1E4TTJrSmVpTndzSWlkbk1jR09SNnJxRzQtYm96VnFwd2ZiRUplYWRGNGQ2Zw?oc=5>
+- **特朗普** | 特朗普：要给予伊朗沉重打击；美联储今年连续五次按兵不动；道指跌超1100点，国际油价大涨7%；月之暗面完成超35亿美元F轮融资丨每经早参 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1GbmpCQk5peUhVWE5RVTN1eG1tUFNRZGtwT3hyUEkyTEpSWkdORDJCZkpNODdNM1hELVVkeUE1NXJhYm1Pd3oxRzJZX0NvbFU5TWNiaW9BTl9tYnZqLWxDOUZiZ28xZw?oc=5>
+- **特朗普** | 爆料：特朗普“大为恼火”，在会上大发雷霆 <https://news.google.com/rss/articles/CBMijAFBVV95cUxOeUlIQzhBLXMzRF93OGhWZlE3OXhBWlFzSVNPTmFiYnNIRlBNQ3QyeUdqUGoyd1RxY1VlRDJzeDVZbHBVWXpNRFI0bFpsYUV1Y1lqWGJSQ2pLaHJpM3p6c25COWFaSGVLZjdoNm1GRGpXUnlMRUt0d1Fpd3BKT1lrclU0NkRtbzNaZEo1OQ?oc=5>
 
 ### 2026-07-30 13:06  (2 条)
 
