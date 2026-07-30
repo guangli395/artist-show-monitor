@@ -1,74 +1,71 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-30 09:11**
-- 本轮扫到 8126 条, 新增 **8** 条
+- 最近更新: **2026-07-30 11:27**
+- 本轮扫到 8132 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (6 条)
 
-### 演唱会门票团购怎么买？3大平台实测+强实名避坑指南+FAQ
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068415_1d5b04d3f068022c16.html>
-
-### 周杰伦世界巡回演唱会开票时间定了！
+### 周杰伦演唱会南京站，8月5日开票
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7096020466_m1a6f4adf203301l9bi.html>
+- 链接: <https://k.sina.com.cn/article_1785051807_m6a65ba9f03301cww6.html>
 
-### 周杰伦、郭富城、伍佰老师……一大波演唱会定档南京！
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://finance.sina.com.cn/jjxw/2026-07-30/doc-inikqiyi1293641.shtml>
-
-### 7月30日外盘头条：特朗普称美国将“狠狠打击”伊朗 美联储维持利率不变 微软Q4业绩大超预期 云收入增超40%
+### 特朗普：轮到我们打了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-07-30 08:37
-- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxNcnZKZGhzdllTaWVmQkgwMFF0SmhWU05NZ20tWFJ1QnZsQVlmbnZXQVlqVG5zMUtJYngxQ0VwdkFuMmFkdEJmWVRWeGxTSEF3OTJudk5XSjgxbC1yb0ZJb2QzOE9rcXhvQU5oLVJoOGMyMUZTWExwTHoybWtmQ2UxVzdrZHcwcmlXTnc?oc=5>
+- 场馆: 21财经
+- 时间: 2026-07-30 08:49
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxPMTdlN1lqdEppNDByTGFIRW9TUU5mT0tHdHVkaWhVemtqU3FWTmV4c0Q2WS1pbWVGc3YweV9JOERiOGhZSzk3eXVfZ2V6R21uNHQxdlRFOVZGTUlCZEZybmlsbVRwb25tUVZoclR5RXpCWDc5RzlFS3Y5c0lGSWk4UGc3blRPLW5FTEZVSA?oc=5>
 
-### 特朗普：伊朗请求不要发动打击，但美国将给他们一个教训
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-29 20:47
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBTdGxFU2lRR0h3OFlfTTFHNDBIRE9vOG9udjdWV3RTOWNvQjVoUF9va0NwM0stdEdrcG0ydU5qUHJPRDR1d29yTnRhaTQ?oc=5>
-
-### 爆料：特朗普“大为恼火”，在会上大发雷霆
+### 特朗普见完泽连斯基：我和俄乌领导人处得都很好，战事该结束了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪军事
-- 时间: 2026-07-30 07:22
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE0zSmZickpPRXBCVDF3dGxLNjdzaHo1dEoyM0ZYek84ZURQd2lWYlJod29uaWxXQmtMQUJyb1JPdGdvVlM1aFBtWFdidFVuVHprQlJjWkVscjA3eFdjMUVjV3JFU1dYbWpGWGhDdTVIUWVWdEk?oc=5>
+- 场馆: thepaper.cn
+- 时间: 2026-07-30 09:27
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wWTFQLWZhVXY5MVRtNFZLVGdIUWJMYTFkLVZGalZXTDgtRzRCWS14YXNnQ0I3TGVlbDJiMk1WZzIwYXNITm9YQWdnY3B1QU93UXhDNGhGaWJ2VmZvQ2V0Ng?oc=5>
 
-### 内塔尼亚胡否认误导特朗普打伊朗
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-30 09:05
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBaTzMtNlhtaC1rTU50SGRKdWFPWW44Mm81N3BXbmFVdDRlMDEtZHZpa1gtVzVwTVNzTE1ocEU5cXpWMjVyc3BKOGEwQnY?oc=5>
-
-### 特朗普官宣斥资200亿美元改造杜勒斯机场 目标全球最佳
+### 对华问题，特朗普搅混水：要是真的，很失望
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: news.china.com
-- 时间: 2026-07-30 07:51
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBCSTNkdGJla01ib0xvemwya05ubHhPTnVjTTZDRlV6YzZuS3Z1QmtLN3NHbmRydUg5eF85Ynl0VW5NUlRyM1NjUEVrUGdNeXcxSTdsZVlhbzAtZDlQZkp5c1g4NlhiZ1FpQW1XdjRIcG8?oc=5>
+- 场馆: 观察者
+- 时间: 2026-07-30 01:31
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBHNG9qd1lDUWRqS2s4dWs4ZkdJU2RENjIwVVJSU3V3dm1tZzVGTW52X1BLd0tkVDFfZjlWUXV4Ml9ERm9lNnRZVko1a3hPTk5aNnFMc2NmVnZKQl9xQ1EwdlpaZjd4QnJhTnc?oc=5>
+
+### 内塔尼亚胡盛赞白宫会晤 特朗普会前连表对其不满
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: china.com.cn
+- 时间: 2026-07-29 09:56
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTFBaMEJXOGxSdzBWdHZBdk8yc2JFaXFJTHF6a09xSkJDeHlhN0RhNFRtYy1aaGpzOXpTUFF6MUdtcUxDMVg2M2dzcW5WUlViSjNyd2Y0TDA0WGloUnVsdnBfTUZJSHpuenlIWXMzN2t4QQ?oc=5>
+
+### 内塔尼亚胡被曝与特朗普讨论三种对伊策略
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: news.sina.cn
+- 时间: 2026-07-30 07:52
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZbkRyMVE5VkdjYks4eW9fY2Z3VkFsWFdoV3pMd0tNTW9FUlRiS3hDOGRJUkprelpQLXhJRmJEZmtKR19SemVYTmU1N1B2V2JPdzNDTm9DZzdtVDYxNVF3U3lIYTJxeTZXM0dKclNGRV81WVJm?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-30 11:27  (6 条)
+
+- **周杰伦** | 周杰伦演唱会南京站，8月5日开票 <https://k.sina.com.cn/article_1785051807_m6a65ba9f03301cww6.html>
+- **特朗普** | 特朗普：轮到我们打了 <https://news.google.com/rss/articles/CBMijAFBVV95cUxPMTdlN1lqdEppNDByTGFIRW9TUU5mT0tHdHVkaWhVemtqU3FWTmV4c0Q2WS1pbWVGc3YweV9JOERiOGhZSzk3eXVfZ2V6R21uNHQxdlRFOVZGTUlCZEZybmlsbVRwb25tUVZoclR5RXpCWDc5RzlFS3Y5c0lGSWk4UGc3blRPLW5FTEZVSA?oc=5>
+- **特朗普** | 特朗普见完泽连斯基：我和俄乌领导人处得都很好，战事该结束了 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wWTFQLWZhVXY5MVRtNFZLVGdIUWJMYTFkLVZGalZXTDgtRzRCWS14YXNnQ0I3TGVlbDJiMk1WZzIwYXNITm9YQWdnY3B1QU93UXhDNGhGaWJ2VmZvQ2V0Ng?oc=5>
+- **特朗普** | 对华问题，特朗普搅混水：要是真的，很失望 <https://news.google.com/rss/articles/CBMiakFVX3lxTFBHNG9qd1lDUWRqS2s4dWs4ZkdJU2RENjIwVVJSU3V3dm1tZzVGTW52X1BLd0tkVDFfZjlWUXV4Ml9ERm9lNnRZVko1a3hPTk5aNnFMc2NmVnZKQl9xQ1EwdlpaZjd4QnJhTnc?oc=5>
+- **特朗普** | 内塔尼亚胡盛赞白宫会晤 特朗普会前连表对其不满 <https://news.google.com/rss/articles/CBMib0FVX3lxTFBaMEJXOGxSdzBWdHZBdk8yc2JFaXFJTHF6a09xSkJDeHlhN0RhNFRtYy1aaGpzOXpTUFF6MUdtcUxDMVg2M2dzcW5WUlViSjNyd2Y0TDA0WGloUnVsdnBfTUZJSHpuenlIWXMzN2t4QQ?oc=5>
+- **特朗普** | 内塔尼亚胡被曝与特朗普讨论三种对伊策略 <https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZbkRyMVE5VkdjYks4eW9fY2Z3VkFsWFdoV3pMd0tNTW9FUlRiS3hDOGRJUkprelpQLXhJRmJEZmtKR19SemVYTmU1N1B2V2JPdzNDTm9DZzdtVDYxNVF3U3lIYTJxeTZXM0dKclNGRV81WVJm?oc=5>
 
 ### 2026-07-30 09:11  (8 条)
 
