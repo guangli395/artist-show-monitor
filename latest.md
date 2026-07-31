@@ -1,70 +1,80 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-31 06:48**
-- 本轮扫到 8199 条, 新增 **7** 条
+- 最近更新: **2026-07-31 09:39**
+- 本轮扫到 8206 条, 新增 **7** 条
 
 ---
 
 ## 本轮新发现 (7 条)
 
-### 国乒世界冠军樊振东与周杰伦深圳见面会怎么回事？47岁天王与29岁国手1小时深聊，跨界友情为何刷屏？
+### 周杰伦上娱乐百分百宣传新专辑
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879995911_1d5af320706802flfi.html>
+- 链接: <https://k.sina.com.cn/article_7879923674_m1d5ae17da03301net6.html>
 
 ### 特朗普称尚不确定是否允许乌克兰生产爱国者导弹
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-31 06:35
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxOQTFmZEtxbGZPckNaRlFsdUoyUWJjaHh4NHFwbUUzdW1zM2ZLbW9zQXZnUmZmWGNYM0FDUHd6QTBZVjdtRktKZGh6RHZRVnZUTlJtRTZsazJwb0JibUhhWkt3TXlZM01XRFpwWlFJSGJwWC1TcXUtSm5TY1hERXNLc284aW1EUEE?oc=5>
+- 时间: 2026-07-31 09:05
+- 链接: <https://news.google.com/rss/articles/CBMiqgJBVV95cUxOVjRKMGlvS0pZSnRWUVZmWHVNVE90ZUxsZmZtLXpGeHZFRlhxblpQMmVmZWFsS3Z5RU5Jbkl5SG1yY0J2T3RmVm45MHZRSzlIMnI4YUdqdTlTbDZyNzY5OEtKbUY3dF9mY1hqUGpWaTkwb3R4R2F4UUh1SU4tV2NNTkZ3M0gyeER6elJZa0lyZmo1STc1eWVPTWpFN29xdjhUT3RjUW9LdndGbW1UQkNNaFRnaHBTYk9GSEVrbnNLYVJielRoUklUSFRFRUExdDF0aW0wWTBsOHVaa1F5M1J6RVFkRy1zU3NJU0o1SURpQ29WbzdIU2dKdVVlWUY5ZnpJOU9OS2RHZGtULVNOV01GZHlqMUxfLVZCcXE1MDdtaGIwV1g2SWhfYnZR?oc=5>
 
-### 按头伊朗这么难！“特朗普在会上破防了，爆粗咒骂”-观察者网
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-07-31 03:11
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5GZVE0YTVOVm0yWTU1QTlEVjZEbVRyejl1eGE0OUpGdWcxandZeTBybDJSa1pIN2MtWXVxRlNkMEp6ZjVGS0JqMlQ0TzlpbHdNY2pTX0pfbFZpbG5UM0twMFZnYXI5RTJ3VlE?oc=5>
-
-### 特朗普：与哈马斯及加沙其他武装团体达成解除武装协议，这系落实其“加沙20点计划”的重要里程碑
+### 反悔了？特朗普：这是非常特殊的武器，我还在考虑
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-30 23:24
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE9HeklKb1E2Wkdnam9lMTViMmxJNlpYNFd4SlZNQmtrdVlhUXBSaGVMYlhpRnBKY2dkdXVEMDVuYVA2blJybzhtWlJhb0N0M0NMYkdBYnpoT1I3UmtPTnItSm1DZzYxMGo2VG9PUDFucktGaUFNbXc?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-07-29 07:34
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5IekE2NnBzWHlDUVlpa0MtQVk0OXlvd1p2akoxemw4VlM4ZHRMbUVWWVU1QzhJSVV5cmJORWdqTko3M2lIMnpHZ3hrV1M?oc=5>
 
-### 勒夫勒财务申报曝光丈夫参股小唐纳德・特朗普创办的高端私人俱乐部
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-07-31 05:30
-- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxPdkE1c2VQVVdkTHA4bmtrcnJ1YjZGNDJrTm9zYmVPVVVoRzFIRE5LX2MtOGtadkZVUGtxcHM0bVhiM25TVmM1TWtJTkxXanhnYVBDaUk2cW4zdnpIUEpKRFAzMG1Ha25mQ3FhQkpxcWo5VXhDVk8yeEljaC1jRG1Zc0xVa3VYVEVUV2c?oc=5>
-
-### 特朗普称已就哈马斯“全面解除武装”达成协议
+### 携四大诉求赴白宫，内塔尼亚胡要如何游说特朗普？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-07-31 00:08
-- 链接: <https://news.google.com/rss/articles/CBMid0FVX3lxTE1LSmt3enZ5eUxIc1k5Z2Z6aDR4bDlNb2lLaExpR0wwS0JXS3RVS212LXFEYXA5dG41eXdpTTJQVzIyclRpMlZkbjNOQ05ydVdYOHkwNUVRSUZGQ09wSndPeDh3V1kyZ2NWVE0zXzVnY2JQLXctYV9v?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-07-30 08:53
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9VT2RqR1g0RHdKMDBmSDR2MWpHMXI0MTduc09oc1BhRnJrMjJVRnk1YTEzeXlLNWg5UWVjNDJMS29CTFNib0gyQ2lQZVY?oc=5>
 
-### 川普週五將在戴維營主持新一輪內閣會議
+### 巴勒斯坦加沙地带：哈马斯向BBC证实同意特朗普的缴械计划
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 大纪元
-- 时间: 2026-07-31 06:26
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tTWhhVTVLM0gxSlgwTVNKTVpvWEJwVjhDZ05JSXN5alc2UlRSLWlXQjl3SDV3OEVPczdVSDhyaXpocFQwdF9Uejl0ZFBVMUlfWExtc2Z2ZjdEZVZ3SUlFMNIBZkFVX3lxTE44enNGS3htWHdPbXNNak9HX3VYWWs5aDVfS09PTHRaUjBUUFVxOFZBZUpuU1prSlNRSi00QTZ3LVZTQkYtSzQwNFJjWXFHQUUxSDY1ZTQtaE5RSWtXcXNyVEtiOHFvZw?oc=5>
+- 场馆: BBC
+- 时间: 2026-07-31 06:16
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9GNGg4U2tkc0poZUJXYV9LdFdkSF9JekJ1cGpYeENZZTFCZVozUDk3NW1mRjh0MzM0STNYTzNvMW1SSnlzSG1vN1JZV01xZjgwWVdKaUdpZm1XZkF3bVFqVVc4N3U5Z9IBa0FVX3lxTE9Xczl3N2E1dWNQWHV1WVBpMnprX2FMM2dfaG9LWWpOTktweV9WZHJrWnAtUDg3dU15QWxvMUJ6WVMyRW55amt5SkpGcEhiRGpNZVpiWGdWVmVNQTI3VnZWYjIyRGZtYkFKbFVZ?oc=5>
+
+### 马斯克据称准备再“砸”超1亿美元，为特朗普中期选举铺路！
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: cls.cn
+- 时间: 2026-07-31 03:01
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTFBHTmlNZ0VFcjRGRnFCUHY1X3FvVlBRQ3dTM18xMzF3VGdOX3Fad1gwMUhzcGxVUWVDWHdlV29jUlE3OUNCcl9pdw?oc=5>
+
+### 最新民调：美国民众对伊朗战争的态度更悲观了，特朗普支持率跌至新低
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-07-31 04:34
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE54amFsX2ZMT3NwZDFHQXNKQnZqcU0yVTd2NGpadUhGOVNCSVZDeU5tVUxMLTFiRDFBMmFualFLc0h4czBqOFRsWHJ6Vms?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-31 09:39  (7 条)
+
+- **周杰伦** | 周杰伦上娱乐百分百宣传新专辑 <https://k.sina.com.cn/article_7879923674_m1d5ae17da03301net6.html>
+- **特朗普** | 特朗普称尚不确定是否允许乌克兰生产爱国者导弹 <https://news.google.com/rss/articles/CBMiqgJBVV95cUxOVjRKMGlvS0pZSnRWUVZmWHVNVE90ZUxsZmZtLXpGeHZFRlhxblpQMmVmZWFsS3Z5RU5Jbkl5SG1yY0J2T3RmVm45MHZRSzlIMnI4YUdqdTlTbDZyNzY5OEtKbUY3dF9mY1hqUGpWaTkwb3R4R2F4UUh1SU4tV2NNTkZ3M0gyeER6elJZa0lyZmo1STc1eWVPTWpFN29xdjhUT3RjUW9LdndGbW1UQkNNaFRnaHBTYk9GSEVrbnNLYVJielRoUklUSFRFRUExdDF0aW0wWTBsOHVaa1F5M1J6RVFkRy1zU3NJU0o1SURpQ29WbzdIU2dKdVVlWUY5ZnpJOU9OS2RHZGtULVNOV01GZHlqMUxfLVZCcXE1MDdtaGIwV1g2SWhfYnZR?oc=5>
+- **特朗普** | 反悔了？特朗普：这是非常特殊的武器，我还在考虑 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5IekE2NnBzWHlDUVlpa0MtQVk0OXlvd1p2akoxemw4VlM4ZHRMbUVWWVU1QzhJSVV5cmJORWdqTko3M2lIMnpHZ3hrV1M?oc=5>
+- **特朗普** | 携四大诉求赴白宫，内塔尼亚胡要如何游说特朗普？ <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9VT2RqR1g0RHdKMDBmSDR2MWpHMXI0MTduc09oc1BhRnJrMjJVRnk1YTEzeXlLNWg5UWVjNDJMS29CTFNib0gyQ2lQZVY?oc=5>
+- **特朗普** | 巴勒斯坦加沙地带：哈马斯向BBC证实同意特朗普的缴械计划 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9GNGg4U2tkc0poZUJXYV9LdFdkSF9JekJ1cGpYeENZZTFCZVozUDk3NW1mRjh0MzM0STNYTzNvMW1SSnlzSG1vN1JZV01xZjgwWVdKaUdpZm1XZkF3bVFqVVc4N3U5Z9IBa0FVX3lxTE9Xczl3N2E1dWNQWHV1WVBpMnprX2FMM2dfaG9LWWpOTktweV9WZHJrWnAtUDg3dU15QWxvMUJ6WVMyRW55amt5SkpGcEhiRGpNZVpiWGdWVmVNQTI3VnZWYjIyRGZtYkFKbFVZ?oc=5>
+- **特朗普** | 马斯克据称准备再“砸”超1亿美元，为特朗普中期选举铺路！ <https://news.google.com/rss/articles/CBMiSEFVX3lxTFBHTmlNZ0VFcjRGRnFCUHY1X3FvVlBRQ3dTM18xMzF3VGdOX3Fad1gwMUhzcGxVUWVDWHdlV29jUlE3OUNCcl9pdw?oc=5>
+- **特朗普** | 最新民调：美国民众对伊朗战争的态度更悲观了，特朗普支持率跌至新低 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE54amFsX2ZMT3NwZDFHQXNKQnZqcU0yVTd2NGpadUhGOVNCSVZDeU5tVUxMLTFiRDFBMmFualFLc0h4czBqOFRsWHJ6Vms?oc=5>
 
 ### 2026-07-31 06:48  (7 条)
 
