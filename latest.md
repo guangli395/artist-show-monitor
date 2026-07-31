@@ -1,40 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-31 19:14**
-- 本轮扫到 8223 条, 新增 **3** 条
+- 最近更新: **2026-07-31 20:39**
+- 本轮扫到 8225 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (2 条)
 
-### 特朗普称尚不确定是否允许乌克兰生产爱国者导弹
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-31 18:31
-- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxOOWVwQzM0VlFQRHVDSm9fZkxFVVgyZzFEbWJJaWw2V0JmSUswelB2SDZpTTBESVdXOUdtMDFzTHNFeXlzM1dKSlVpTTRfTFBIQjF1N3VZelBMM0pfTW4xd19GQnRpbThMaDhUYXNpZTZEdkcwRFAwT3dJSU9KR2RTczZVUHV5X3RGaGc?oc=5>
-
-### 卖世界杯股权给特朗普亲友 欧足联抵制 国际足联回应
+### 特朗普否认和国际足联主席谈“出售世界杯股份”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 文学城
-- 时间: 2026-07-31 15:19
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFAwZnFDQ00zWlVEMHZQLXBmOE1Ob2d3clN1RXRPcTZSWURPR3ZJMHhqQjRLNGFKcGxlN2Z0b2ROWWMzQVozNzF5cmQ2M1BBVTFidTF6RVRXZWgwYWxKWHh5eEViVDh3NnI2?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-07-31 17:45
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1QVVp2VFVJcnA4UDRUdURURmZsNUR6TlRIWi0xRmYtQmY0cGdqeEFWeDFJcGg2RWd2SlJwSjNWaDFBV1JRTWtRZGRHNUM?oc=5>
 
-### 传商业子公司与特朗普家族关联 FIFA融资方案引爆欧洲足坛
+### 特朗普总统表示，美国将“非常严厉”地打击伊朗，而乌克兰和俄罗斯必须做出让步才能实现和平
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-07-29 13:15
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54S0hCUjFzOVdFN25yREJWYUxwNXFkX0R6ZUdaemZRcEpZajl5QW9oeHNkRjVhbVBpb3hjTFhWNjBsTjNRdWhndkFvbFF4UmJRQ2VVbi13Vm9lZjRmNG85anVzUnZYZ3M?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-07-31 19:26
+- 链接: <https://news.google.com/rss/articles/CBMi9wFBVV95cUxNWUFzQjlhUUVQWUNaVXNrRVltVnctTTc5WnlaVGN0UVFWWlBSSlVlZG5lXzc5OEZIbmY0ZkNQOTB4YjR5REYzaUt1M3hoT3F2cm9JelVMLVk5NUNXZ2RMTW91amhqdGYtRjFtWGM2ejNLVDBnaDlaZHpudlEyVE5xNE42Y0pCTGNTLXF6eVRFekVVcndNZV9fcnh5QlhMY2h2Nmdtc0FRbFVaN25rNmZtakpXN1pGRUZ3NzZMRDBDWXNyaUN2TUd3VmFXNTBhSjRjQVpsQnJ6VUlaUUdOZWdiU2h3d01RQ3JiMzBMQVp0LUhjVi1ZSGlN0gH6AUFVX3lxTE9SU2hJNDFxdVpuQTltX19IWDZSWXZDOTBnUDBVYXhQczVvbDgxRFMwVF85SVJkOEFleFh5SGtjS0l6aEJVTkxOcjQ0d1I4SnVPNTdUQzRYbXlWNGZLZFExT2lCVlZBRkNVdlZhYV9USFdIb2VrRTJrbTVUM21MY01DaFJiUUd5dklZOFp0RkFNeEl4MkpzVFVCTFdtdzNzS0xtR09yU3VER0twTlhQZ3BvMTU2ZUlhNFpYTmNvOUVFLU9mUEJMZW9uMzhjMThXSm9LcHIxRFdUYnNFdmI5WnRzVzdFTW1SZGVOTGxocTAtU3VlQlViSnNvNXc?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-31 20:39  (2 条)
+
+- **特朗普** | 特朗普否认和国际足联主席谈“出售世界杯股份” <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1QVVp2VFVJcnA4UDRUdURURmZsNUR6TlRIWi0xRmYtQmY0cGdqeEFWeDFJcGg2RWd2SlJwSjNWaDFBV1JRTWtRZGRHNUM?oc=5>
+- **特朗普** | 特朗普总统表示，美国将“非常严厉”地打击伊朗，而乌克兰和俄罗斯必须做出让步才能实现和平 <https://news.google.com/rss/articles/CBMi9wFBVV95cUxNWUFzQjlhUUVQWUNaVXNrRVltVnctTTc5WnlaVGN0UVFWWlBSSlVlZG5lXzc5OEZIbmY0ZkNQOTB4YjR5REYzaUt1M3hoT3F2cm9JelVMLVk5NUNXZ2RMTW91amhqdGYtRjFtWGM2ejNLVDBnaDlaZHpudlEyVE5xNE42Y0pCTGNTLXF6eVRFekVVcndNZV9fcnh5QlhMY2h2Nmdtc0FRbFVaN25rNmZtakpXN1pGRUZ3NzZMRDBDWXNyaUN2TUd3VmFXNTBhSjRjQVpsQnJ6VUlaUUdOZWdiU2h3d01RQ3JiMzBMQVp0LUhjVi1ZSGlN0gH6AUFVX3lxTE9SU2hJNDFxdVpuQTltX19IWDZSWXZDOTBnUDBVYXhQczVvbDgxRFMwVF85SVJkOEFleFh5SGtjS0l6aEJVTkxOcjQ0d1I4SnVPNTdUQzRYbXlWNGZLZFExT2lCVlZBRkNVdlZhYV9USFdIb2VrRTJrbTVUM21MY01DaFJiUUd5dklZOFp0RkFNeEl4MkpzVFVCTFdtdzNzS0xtR09yU3VER0twTlhQZ3BvMTU2ZUlhNFpYTmNvOUVFLU9mUEJMZW9uMzhjMThXSm9LcHIxRFdUYnNFdmI5WnRzVzdFTW1SZGVOTGxocTAtU3VlQlViSnNvNXc?oc=5>
 
 ### 2026-07-31 19:14  (3 条)
 
