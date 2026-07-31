@@ -1,32 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-31 11:54**
-- 本轮扫到 8208 条, 新增 **2** 条
+- 最近更新: **2026-07-31 13:49**
+- 本轮扫到 8211 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (3 条)
 
-### 美伊再度开打，特朗普：打击沿海目标！多国卷入大混战，以想参战
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-07-31 11:20
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBHUjl1eWxNN2I2U04yaXFZcXFZcjJWdHQxWlk3N2NtV3NmZkFyZHRKOW9rX3FCZFBUOTU0STZlTzBxSEJyZGd4YUc1S2hUTkpPX2V1dTh3ZTROQV9sV0NDakVaNEJhWjRETW42WkdTWk8?oc=5>
-
-### 特朗普下令禁止美国关键矿产废料出口 全球资源回收重视度再提升
+### 马斯克又要烧钱助选了！特朗普支持率只剩36%，这届“钞能力”还灵不灵？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 财新
-- 时间: 2026-07-31 06:57
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE50SVhyTW9QaWt6eHAxQkRud01VWklYeGRxUkhNa2xhUFNPQTJBVDI2MFJWcnJWbjM4anpyTDQ2QVJVQldmM21vcUlGR1RMclQ5MmNPMlNXWjZrSHB3MER3djBMb3Y?oc=5>
+- 场馆: k.sina.com.cn
+- 时间: 2026-07-31 13:25
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFBkem5TV3R5MVRuY0hFbnZuYWItRkViRC1xTWNLZWg0RXVLdWxvMU82cFMxNEF3SGo4eFlTelc2bG9qUG5Xa2FmaldMVVFBMXJXVXIzdmQyQkI4Ul80cXAxWXNmbThSMHdVQWowTmRpSllxZw?oc=5>
+
+### 事关半导体！特朗普政府再出手：将入股七家科技公司
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 财联社
+- 时间: 2026-07-31 05:26
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE1od3lKYU50ME9SbVpOV3dNQ00tcnlyN1NwbWNad0F1SmhfVDZGWGd6LUhrR3YyZUpDVjlaTjEweU10eHU0eXNScw?oc=5>
+
+### 特朗普被曝对伊朗战事失去耐心，美前外交官：他对谈判的理解本质上就错了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-07-31 10:02
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nZ19vMGM5RGwwZ0owM2JTWWJJRkFTbWFBQmF5aVViclZQTnBnVEh6LXgxRFBmUVlIdkVYdjE5WGl3dVBnbFpNVW5zOHA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-31 13:49  (3 条)
+
+- **特朗普** | 马斯克又要烧钱助选了！特朗普支持率只剩36%，这届“钞能力”还灵不灵？ <https://news.google.com/rss/articles/CBMickFVX3lxTFBkem5TV3R5MVRuY0hFbnZuYWItRkViRC1xTWNLZWg0RXVLdWxvMU82cFMxNEF3SGo4eFlTelc2bG9qUG5Xa2FmaldMVVFBMXJXVXIzdmQyQkI4Ul80cXAxWXNmbThSMHdVQWowTmRpSllxZw?oc=5>
+- **特朗普** | 事关半导体！特朗普政府再出手：将入股七家科技公司 <https://news.google.com/rss/articles/CBMiSEFVX3lxTE1od3lKYU50ME9SbVpOV3dNQ00tcnlyN1NwbWNad0F1SmhfVDZGWGd6LUhrR3YyZUpDVjlaTjEweU10eHU0eXNScw?oc=5>
+- **特朗普** | 特朗普被曝对伊朗战事失去耐心，美前外交官：他对谈判的理解本质上就错了 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nZ19vMGM5RGwwZ0owM2JTWWJJRkFTbWFBQmF5aVViclZQTnBnVEh6LXgxRFBmUVlIdkVYdjE5WGl3dVBnbFpNVW5zOHA?oc=5>
 
 ### 2026-07-31 11:54  (2 条)
 
