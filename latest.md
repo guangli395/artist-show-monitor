@@ -1,56 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-31 17:40**
-- 本轮扫到 8220 条, 新增 **5** 条
+- 最近更新: **2026-07-31 19:14**
+- 本轮扫到 8223 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (3 条)
 
-### 马斯克又要砸钱帮共和党？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-07-31 16:28
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFBWNHFEUmdYbElLWkJ1d3kzMlhnamtVam9RejJEWFM1MUJSZWVDSlN3ZDZ6TGlIOVdZYXBDc2pEOUszaDQzSzlrNFM2MU9oQktWRnVYU3ZnVG5tYlJwY05CLVRGUFhCTWI3RUVUQjcyVF95dw?oc=5>
-
-### 特朗普：以色列在哈马斯解除武装计划方面“表现出色”
+### 特朗普称尚不确定是否允许乌克兰生产爱国者导弹
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-31 17:01
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5rUUlRQ1VaNTZmNWtGdWxjYUlYYVZ0amphWm5hcGZ4OXAtc1ZyNjJFYlpZN1dlem5XTFRaZzU5amg4c3ZzMFZuTkY1ejBSbmNULWxsSUhISFNLRTJJbEh1THJfUm5EZ2tOMy1yMVotRVplTGdDeFJ4bg?oc=5>
+- 时间: 2026-07-31 18:31
+- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxOOWVwQzM0VlFQRHVDSm9fZkxFVVgyZzFEbWJJaWw2V0JmSUswelB2SDZpTTBESVdXOUdtMDFzTHNFeXlzM1dKSlVpTTRfTFBIQjF1N3VZelBMM0pfTW4xd19GQnRpbThMaDhUYXNpZTZEdkcwRFAwT3dJSU9KR2RTczZVUHV5X3RGaGc?oc=5>
 
-### 白宫发表事实清单，显示美国情报界支持特朗普总统称中国干预大选的说法
+### 卖世界杯股权给特朗普亲友 欧足联抵制 国际足联回应
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-07-31 16:25
-- 链接: <https://news.google.com/rss/articles/CBMitgFBVV95cUxNRGE4RGR5VFExdUprS0daUzR0X2xTVHh0Rm9xQk9jMjlaRU9pZlBPY1hiaGEwWHptUC1CMWlwbGdwNmlHb2wyMmtCaWdjLXE3YTZmTzVPRWFsTUpicmRmT29FNnhQajRUcUU3Tmk0MnFJcFh0bjE3djdUMEgwVkNkWElVN2treTNJSFJOQWxJZDl3SXJTMGZYY3drZFVTdkN6MXBVLTFtTmZZZnBpT1pJZDRYNWc5UdIBuAFBVV95cUxQYml3V3duZ05SVXRkN0t1ajJ6cTJfNWlkSmJ0dWFISU1KdFhBLXFiaHpZcDNiSVFweUl0dDRrRnhsZS1nUjlCN0dVNmlDQ2xabE9pdFd0Q1pxZElXX1hoZGtfWUM5TkRHSUFLdDFsNzlUNGpyWXhJQjZjNXp6V3d5bGxtREFiemV4alRNdDlYWnR2UHRRWGZsN1JsRzIyT2ZNVlQyVWhmMjBxT0Q0aUdfZDd4VmtxVTFw?oc=5>
+- 场馆: 文学城
+- 时间: 2026-07-31 15:19
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFAwZnFDQ00zWlVEMHZQLXBmOE1Ob2d3clN1RXRPcTZSWURPR3ZJMHhqQjRLNGFKcGxlN2Z0b2ROWWMzQVozNzF5cmQ2M1BBVTFidTF6RVRXZWgwYWxKWHh5eEViVDh3NnI2?oc=5>
 
-### 特朗普：若中国向伊朗提供武器 我会感到失望
+### 传商业子公司与特朗普家族关联 FIFA融资方案引爆欧洲足坛
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 联合早报
-- 时间: 2026-07-30 00:20
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5UcUI5dHNOMlpVVEhxVFVVVUNEb1RTdW9qQVFOUnhfWkxtUVI5VlRyN1Vsckk5a0N6bWR3b3RuQlNOb2oyZFRqbGNfQmdRLTZLUnp1ak5zMEZGSWRITHpSNGcydENtUU55OFE?oc=5>
-
-### 特朗普总统称已达成让哈马斯解除武装的协议，该恐怖组织予以证实，以色列保持沉默
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-07-31 16:57
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZXI3LUhTNlEybVVlakFIQmdqNmthd2JxYmdvc2NTeGNyLW03MUpKVTFfM25EdEhHMGkwR3dVcUllUElaYzNFR3F0RE50VXQtd0RUc3NBTFUzcnk3blRBdWZWOXlqYlhTOUtGWjg5S2ZXakNUR2MwMzZCSGstYWcwYUd1ZW02b0hvOXBjekp4eWJpRkxuWWxaZFlNT25ORlpwRmQ2M0xtWWhhS1duM1dJeGJZbWFseDVUQmZ4RGRQd1ljSU1xOGZNMXVqMmVFX0pGVmVwOGxGdVZCelUwdG9z0gHiAUFVX3lxTE96SHQ0ZXhidUJXd1pKNE1yOTk3WDlvaV8wWTc5WnA1U19RRzdJSHNxeUVYVHRtZmpMc2FvVWZsM0JQZzB5MHVVSHYzZUxCWnl2d3hrTEVzUnNDVU9ILTBITl9TRmxTZngyZkJ3QVFpWlpUWFVMRThoelU3anMxbHoteHpIVWZnMXpINnlLc2w5LWg3XzNCLWpqSFNfUTJaTzFRcE81R05oTkxFUDd4N3owcHQ2djZaNVdwZVpGejNqYmNOSVZXcXZ1LU1uTEJBRExiMVM3RHVZcEJZUWVkLWliOUE?oc=5>
+- 时间: 2026-07-29 13:15
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54S0hCUjFzOVdFN25yREJWYUxwNXFkX0R6ZUdaemZRcEpZajl5QW9oeHNkRjVhbVBpb3hjTFhWNjBsTjNRdWhndkFvbFF4UmJRQ2VVbi13Vm9lZjRmNG85anVzUnZYZ3M?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-31 19:14  (3 条)
+
+- **特朗普** | 特朗普称尚不确定是否允许乌克兰生产爱国者导弹 <https://news.google.com/rss/articles/CBMiigFBVV95cUxOOWVwQzM0VlFQRHVDSm9fZkxFVVgyZzFEbWJJaWw2V0JmSUswelB2SDZpTTBESVdXOUdtMDFzTHNFeXlzM1dKSlVpTTRfTFBIQjF1N3VZelBMM0pfTW4xd19GQnRpbThMaDhUYXNpZTZEdkcwRFAwT3dJSU9KR2RTczZVUHV5X3RGaGc?oc=5>
+- **特朗普** | 卖世界杯股权给特朗普亲友 欧足联抵制 国际足联回应 <https://news.google.com/rss/articles/CBMiaEFVX3lxTFAwZnFDQ00zWlVEMHZQLXBmOE1Ob2d3clN1RXRPcTZSWURPR3ZJMHhqQjRLNGFKcGxlN2Z0b2ROWWMzQVozNzF5cmQ2M1BBVTFidTF6RVRXZWgwYWxKWHh5eEViVDh3NnI2?oc=5>
+- **特朗普** | 传商业子公司与特朗普家族关联 FIFA融资方案引爆欧洲足坛 <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54S0hCUjFzOVdFN25yREJWYUxwNXFkX0R6ZUdaemZRcEpZajl5QW9oeHNkRjVhbVBpb3hjTFhWNjBsTjNRdWhndkFvbFF4UmJRQ2VVbi13Vm9lZjRmNG85anVzUnZYZ3M?oc=5>
 
 ### 2026-07-31 17:40  (5 条)
 
