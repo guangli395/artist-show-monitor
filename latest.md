@@ -1,48 +1,82 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-30 22:59**
-- 本轮扫到 8169 条, 新增 **4** 条
+- 最近更新: **2026-07-31 00:04**
+- 本轮扫到 8176 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (7 条)
 
-### 格雷厄姆下葬，特朗普、泽连斯基、内塔尼亚胡同时现身
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: news.cn
-- 时间: 2026-07-29 08:18
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1uVnRNaUNselh4UlZoTkRRdXJZRHhVaW5YbE5KRENOREdtVXp0YnQ3T3JBdkVnN0IteXdtU2NtU2FBV1p3QVdncThHQkU0Y3FyR2JzSXgydHBCMFVMSnFhUGQyeW1OMV9OXzl5Q0p0VWU1eWpZQzJHNzMtOVI3aW8?oc=5>
-
-### 特朗普称伊朗将遭“痛击” 不排除继续打击其地区代理人
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 央视网
-- 时间: 2026-07-29 16:14
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9HRVFRSlRtdmRJYUJyaE9vc21sVy1wd3Vxc3BheDUwSkhDN3NkY2xEWDhFaGNNSHc4SVdQemtsOHpGWkVGWHM5VXlqdTFnMXNOWVZjZUxJanBkdUxGQVVpekhuRUQzbDh0dWNnYmRwM01COEQ0WkZfdg?oc=5>
-
-### 特朗普再次威胁袭击伊朗，并寻求对伊加征关税
+### 中东突变！国际油价飙涨7% 特朗普再次威胁将痛击伊朗
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-29 22:08
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxOb05vcGF0SVRNQ2RzVjhVRlhheHNKbGo4b0FIUHd2NDNFNVNqOTdseGgwSkV0UHl2bTZzanZkMy11Vnd4TXZKdG5SVjBObk41N2tPOFNRcDhhMm5jWTQtQUEzVkpVVnZTVUVhZGZZeS1aY1U0N241TFN6S3VBbndPRmoxNWo3MU9TY25pWWRKRmt0c1ZiX2Y3aG9fQjVpWVlsdzFxSXVPMUtQcjJqcE9lT1FWOTBpV3Z2Q25MV190bFR5ZkhXMXMwLVF3VnJnSnRv?oc=5>
+- 时间: 2026-07-30 21:33
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBVUk5mUkhyQ2VtRUg1VWtxZnNIYzF5eU0tQ2hMMVNnZFRhckxDVnBNYXhRX1pVRjFkakdwTUlSNURDQ0hfaVZuNnJTaElVX2dQanhRWVFEdE81YkdIRDBtcVp2clg0dHNNRnJhUWF5bFd5eFpacnNkNA?oc=5>
 
-### OpenAI遭遇网络安全漏洞且面临与中国竞争之际，特朗普总统正考虑对人工智能实施管控
+### 7月30日外盘头条：特朗普称美国将“狠狠打击”伊朗 美联储维持利率不变 微软Q4业绩大超预期 云收入增超40%
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-07-30 21:48
-- 链接: <https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdk9EdG1Wa1lNekNQMy1yYUgzdjRlUmF6N0FXZGZWd0RWYndlM0UzYXVMZlhIb3A0ZEUwYnR3SlJqWVJQcDAtT3htdlkwVldETFhDajVjNE5FMkZPRk9yLXAtQmxObXZ5TmZuM1c2alE0Nk1pclZXNUxsUnBYZUVBTC1LazVaeUd6cjVVUFBUY0FabDJjcXhmTWt0TGxmNUk0dFZnaFJDbi0wSzk1ekZEVVh4amI1UDlFVTRYQ0ZscVByMXl2Rk9NZlZpaUprLWtkYXlkVHk1S1TSAdsBQVVfeXFMTVVNdGVnd0dwbFRWdmdZb1gtVHRDVlpsN080bWM4YzNlTHNSRmg0M1VrTmhLTVExSlFvdTlSc2FKcEJUcE15alVJYzk3bDY0OVNXNFFzanZQM0lCQXpCRE5iT28wa2hXVDVQS0dCYTIxMzN3R3czc3FSVEhJckNPVlIxVnJJTm94RTI5bnEzNmdGTnRyNWFqMXFiMHcxVWRzTFJ4UzBwbm5Fd19udXhDSWxZdi1kaGtwb3BQcjFSVDh5ZFJqM08ySUtfWUszOUFOTHBBM3Y3WmRIX240?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-07-30 20:55
+- 链接: <https://news.google.com/rss/articles/CBMiqAJBVV95cUxOQTJPNHpyemhGc3h2aU9EaV9WbTlVRi1uOXpMTUxnQUh0RVYzVmVfeVdFY2hKZGp4Vi1FQUQxV0NyS1Q0d3lwbXkySHd0cnBXc3h3S2Z5R1FIUmt4STVKSUlxeWVZNE5lX2djTUJWd0hzdS04RE9lOGlHcXVaWVJ6djB0MGR4VDhRbDA0U2dyYnllZkN1QUlidFFLOU5EUUR2T1dkM0k5cTNyZk5SeElUbW5CczFKaGk5NmNLSE9ES1VXWTVZVHVxMlltUjJZb3dTV0hBMkFTckMtMXpOaW5PdUljZzIxOGhmbWwtSzQ4bXd3QnRoTy1GZEJFbDQ0V244YktxSmJIVGVzS05MV3hQVFZMa0VUcEZ6WUl0ZkVkcVpoWEN6eml2aw?oc=5>
+
+### 特朗普：我希望泽连斯基结束俄乌战争
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-30 23:42
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE9Bb3N5QXRMbjlHb19oOTVoMmdtNFBWVERvNjZsRXd2MEtQaFZkNWppclNaTW5fUk81ZGdlUXlweFhhREItZ2gxYVBmVE9pcFR3OV9BcnlXbEFIVlhWRkhsZm1JWTlZU3pkTDcxWnBzTmktTmNxaEE?oc=5>
+
+### 特朗普称已就哈马斯“全面解除武装”达成协议
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 央视网
+- 时间: 2026-07-30 22:48
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE13MS0zbUJiT1lNWHJJaU41cFJVTWUwRUx6dW5nSHZBcFpaSmVLTFFHVVAtTW9CMU8ySG1fdVpHRHh4VUU4V29KZ19QaFBGTndkd1d4cXkwNm4tbzNHZDN4aTFXTjloR0syV1JmMGoyNXcwak1hR1Rvbw?oc=5>
+
+### 特朗普政府考虑对毕业后希望留美工作的外国学生征收10万美元费用
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-30 23:06
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxPZlFsQWRtejItcFJjT1l6X1p5NEJGZDNPeUV4WlVDSi1nN3pKV1lzWWdVZXdBdmxyMzJhaGp6X2R6SDlRZHJBWklNRmpQNFV3eUJ1ZzNlRzBiaUZENDhWeXZXSERZdFdlVXJ4b25iRTZtV18xMzExX1ZYTy1ibU1oR1JYMEpJTzg?oc=5>
+
+### 白宫：中国涉搜集约2.2亿笔美国选民资料长期选举干预
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-07-30 20:13
+- 链接: <https://news.google.com/rss/articles/CBMi7AJBVV95cUxQOEx6RlNrbjNwRm1hR2hNaWhvZnhXU0dxY1BkSjhTOC1ydUxEOVA1QVFHVFYzeWNiSHZVY0d2N3BtOTlxalF5bmNXb01pdkdqclFBOFBUYUptR2NmRlZZVnl4OGM4dFNRek1mUHFPSFowbHJOWHZ2X2pJUTl2Rlpuak96S21HUWlpY2c0bFJVb0pydFVwYUlLM283T2pNbU5GSW8tdG4xdXVCOENkSHY3WjdjYXVyR1FlbV8wblBaZGhtdEJXWlJWalFNZGliYUxxM29YTVlSNGZrUVpOVXJ0RXZVLXg1LV9aaVg4Z3cxMGVvbkFoeXlaQzhYVHByRjNYZ3BYdTZoQjRzY2FvNWRnUktBQ3dwR2YxNnJ0VF9RSmJlaDJYSE5sZzRoRDh5RTFDUUs0ekZiSUtHZThSTnIxRVRyNkd2TExOOWtjSzdaUTlGWlNDRkpBb0pLYTlLbHlFU2NjQTdRaWJQLVRh?oc=5>
+
+### Trump：“和平委员会就解除哈马斯等加沙武装组织武装达成协议”
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 아시아경제
+- 时间: 2026-07-30 23:02
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDN2l3VnlUV2FYNDZCOWZRVkMzSzJrVGdsZHJNWFgyOEJNcURJVHFKSXZPZDl2Mll3NGJnb3VCdnBNb0cxOV9hSEVSZGFnN29CUk1sSWtsQ28xV0l0OXFfeDVCWF8?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-31 00:04  (7 条)
+
+- **特朗普** | 中东突变！国际油价飙涨7% 特朗普再次威胁将痛击伊朗 <https://news.google.com/rss/articles/CBMieEFVX3lxTFBVUk5mUkhyQ2VtRUg1VWtxZnNIYzF5eU0tQ2hMMVNnZFRhckxDVnBNYXhRX1pVRjFkakdwTUlSNURDQ0hfaVZuNnJTaElVX2dQanhRWVFEdE81YkdIRDBtcVp2clg0dHNNRnJhUWF5bFd5eFpacnNkNA?oc=5>
+- **特朗普** | 7月30日外盘头条：特朗普称美国将“狠狠打击”伊朗 美联储维持利率不变 微软Q4业绩大超预期 云收入增超40% <https://news.google.com/rss/articles/CBMiqAJBVV95cUxOQTJPNHpyemhGc3h2aU9EaV9WbTlVRi1uOXpMTUxnQUh0RVYzVmVfeVdFY2hKZGp4Vi1FQUQxV0NyS1Q0d3lwbXkySHd0cnBXc3h3S2Z5R1FIUmt4STVKSUlxeWVZNE5lX2djTUJWd0hzdS04RE9lOGlHcXVaWVJ6djB0MGR4VDhRbDA0U2dyYnllZkN1QUlidFFLOU5EUUR2T1dkM0k5cTNyZk5SeElUbW5CczFKaGk5NmNLSE9ES1VXWTVZVHVxMlltUjJZb3dTV0hBMkFTckMtMXpOaW5PdUljZzIxOGhmbWwtSzQ4bXd3QnRoTy1GZEJFbDQ0V244YktxSmJIVGVzS05MV3hQVFZMa0VUcEZ6WUl0ZkVkcVpoWEN6eml2aw?oc=5>
+- **特朗普** | 特朗普：我希望泽连斯基结束俄乌战争 <https://news.google.com/rss/articles/CBMidkFVX3lxTE9Bb3N5QXRMbjlHb19oOTVoMmdtNFBWVERvNjZsRXd2MEtQaFZkNWppclNaTW5fUk81ZGdlUXlweFhhREItZ2gxYVBmVE9pcFR3OV9BcnlXbEFIVlhWRkhsZm1JWTlZU3pkTDcxWnBzTmktTmNxaEE?oc=5>
+- **特朗普** | 特朗普称已就哈马斯“全面解除武装”达成协议 <https://news.google.com/rss/articles/CBMieEFVX3lxTE13MS0zbUJiT1lNWHJJaU41cFJVTWUwRUx6dW5nSHZBcFpaSmVLTFFHVVAtTW9CMU8ySG1fdVpHRHh4VUU4V29KZ19QaFBGTndkd1d4cXkwNm4tbzNHZDN4aTFXTjloR0syV1JmMGoyNXcwak1hR1Rvbw?oc=5>
+- **特朗普** | 特朗普政府考虑对毕业后希望留美工作的外国学生征收10万美元费用 <https://news.google.com/rss/articles/CBMihwFBVV95cUxPZlFsQWRtejItcFJjT1l6X1p5NEJGZDNPeUV4WlVDSi1nN3pKV1lzWWdVZXdBdmxyMzJhaGp6X2R6SDlRZHJBWklNRmpQNFV3eUJ1ZzNlRzBiaUZENDhWeXZXSERZdFdlVXJ4b25iRTZtV18xMzExX1ZYTy1ibU1oR1JYMEpJTzg?oc=5>
+- **特朗普** | 白宫：中国涉搜集约2.2亿笔美国选民资料长期选举干预 <https://news.google.com/rss/articles/CBMi7AJBVV95cUxQOEx6RlNrbjNwRm1hR2hNaWhvZnhXU0dxY1BkSjhTOC1ydUxEOVA1QVFHVFYzeWNiSHZVY0d2N3BtOTlxalF5bmNXb01pdkdqclFBOFBUYUptR2NmRlZZVnl4OGM4dFNRek1mUHFPSFowbHJOWHZ2X2pJUTl2Rlpuak96S21HUWlpY2c0bFJVb0pydFVwYUlLM283T2pNbU5GSW8tdG4xdXVCOENkSHY3WjdjYXVyR1FlbV8wblBaZGhtdEJXWlJWalFNZGliYUxxM29YTVlSNGZrUVpOVXJ0RXZVLXg1LV9aaVg4Z3cxMGVvbkFoeXlaQzhYVHByRjNYZ3BYdTZoQjRzY2FvNWRnUktBQ3dwR2YxNnJ0VF9RSmJlaDJYSE5sZzRoRDh5RTFDUUs0ekZiSUtHZThSTnIxRVRyNkd2TExOOWtjSzdaUTlGWlNDRkpBb0pLYTlLbHlFU2NjQTdRaWJQLVRh?oc=5>
+- **Trump** | Trump：“和平委员会就解除哈马斯等加沙武装组织武装达成协议” <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDN2l3VnlUV2FYNDZCOWZRVkMzSzJrVGdsZHJNWFgyOEJNcURJVHFKSXZPZDl2Mll3NGJnb3VCdnBNb0cxOV9hSEVSZGFnN29CUk1sSWtsQ28xV0l0OXFfeDVCWF8?oc=5>
 
 ### 2026-07-30 22:59  (4 条)
 
