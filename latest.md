@@ -1,32 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-31 20:39**
-- 本轮扫到 8225 条, 新增 **2** 条
+- 最近更新: **2026-07-31 21:59**
+- 本轮扫到 8229 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (4 条)
 
-### 特朗普否认和国际足联主席谈“出售世界杯股份”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-31 17:45
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1QVVp2VFVJcnA4UDRUdURURmZsNUR6TlRIWi0xRmYtQmY0cGdqeEFWeDFJcGg2RWd2SlJwSjNWaDFBV1JRTWtRZGRHNUM?oc=5>
-
-### 特朗普总统表示，美国将“非常严厉”地打击伊朗，而乌克兰和俄罗斯必须做出让步才能实现和平
+### 特朗普政府据报考虑对毕业后留美工作的国际学生征收10万美金；DHS：并未最终敲定
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 美国之音
-- 时间: 2026-07-31 19:26
-- 链接: <https://news.google.com/rss/articles/CBMi9wFBVV95cUxNWUFzQjlhUUVQWUNaVXNrRVltVnctTTc5WnlaVGN0UVFWWlBSSlVlZG5lXzc5OEZIbmY0ZkNQOTB4YjR5REYzaUt1M3hoT3F2cm9JelVMLVk5NUNXZ2RMTW91amhqdGYtRjFtWGM2ejNLVDBnaDlaZHpudlEyVE5xNE42Y0pCTGNTLXF6eVRFekVVcndNZV9fcnh5QlhMY2h2Nmdtc0FRbFVaN25rNmZtakpXN1pGRUZ3NzZMRDBDWXNyaUN2TUd3VmFXNTBhSjRjQVpsQnJ6VUlaUUdOZWdiU2h3d01RQ3JiMzBMQVp0LUhjVi1ZSGlN0gH6AUFVX3lxTE9SU2hJNDFxdVpuQTltX19IWDZSWXZDOTBnUDBVYXhQczVvbDgxRFMwVF85SVJkOEFleFh5SGtjS0l6aEJVTkxOcjQ0d1I4SnVPNTdUQzRYbXlWNGZLZFExT2lCVlZBRkNVdlZhYV9USFdIb2VrRTJrbTVUM21MY01DaFJiUUd5dklZOFp0RkFNeEl4MkpzVFVCTFdtdzNzS0xtR09yU3VER0twTlhQZ3BvMTU2ZUlhNFpYTmNvOUVFLU9mUEJMZW9uMzhjMThXSm9LcHIxRFdUYnNFdmI5WnRzVzdFTW1SZGVOTGxocTAtU3VlQlViSnNvNXc?oc=5>
+- 时间: 2026-07-31 20:54
+- 链接: <https://news.google.com/rss/articles/CBMitAFBVV95cUxPOU52WjJMbl9MSmNBODFoeWJPWlZiY2EwNEpsbWVpVUstcXVYbWtvZVU5WWR5R0IzendESHdzWHh3MF9ybEJCd0pqNXo1U1ppaTFGdExNQTJSN25GeTVDblhfTExBMFI0WThhaW9yTjNlenBISUdUTTNwTWduVzFTaUNFZk5GcUU1TkhyWW9fUmlMcEVyNE5zVzFyVnNHUlNCYnJmcVpyVkhPTHowcHlRcFZmem3SAbcBQVVfeXFMTkxwT0l0dmNWTVRaQmhEdWd4UGUwRGRibGx5Q2YxRDJ6aVliSk1RT2VUSFFuRWlaUTMxVFZieko1a01nWlpKcVlkV3d3cXZwbFdUdllwZDZiVDZuZGhVemNHektMQXZWVVBvSmxGaUdoem5ZemtTX3JzOWM0TEstWXNqY09LRmpSSUJoTlpJNUs0eVJTQ1lOVjZjcXlKckY3cjNRc0EyNWRVbUFXaDEwLU43SnV1MTIw?oc=5>
+
+### 特朗普总统：对伊朗谈判“逐渐失去信心”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-07-31 20:51
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE5hM1hEeWROTWdJOFFMS2EwN21jeGd3aXJFWE1aNFpCX3hoT2hDU25VcVQ2V1kwa0lyQldhUjRyYzlfTHJkMUt1YU01MHkyXzdPN0FXbC15cmhsaFJkMmlmN2VLb2dYenZoaVhHRFYySmxVd0ls0gF3QVVfeXFMTm1FOG9qdHJrTVFPbUY2WUViR0NZSGxhQzh1R1ppM3h6RnBnUWZET2dnMWtKUnh1SVg1cEZuVHNBMXlfOXU2NFU5YS1adGk5dHBIT010VGd6STE1ZURtS25pZDNibm0weHB0N0I3aGRuSXJlMWRWUDg?oc=5>
+
+### 特朗普称正对伊朗谈判代表失去信心 中东战事恐持续
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: finance.sina.com.cn
+- 时间: 2026-07-31 18:32
+- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZWxXLWJUVkJDSy0ySGl2aUZ6dnpHeEVSTzJXdmpxTUFGUWhRbC1ObFZmOE9abTNBdXNydTRNdVRoSlk3V0JJTnJ0Z2pGc0dHajcxUHlJMHc5ajhCcTdvTnBMeUQyYkl5eWVPbk5VQ2JNSlRHcTFsbmpOMFRJdFljQjFNRDVaeVBHYm50ZVUxcUZOcnNRR3NzdFVxSjh5a1pKUmhVNkdxUHFmQ2lyUVhlRzBFb1lLNU0zajYxMXQ2MGJJbDhTNHlHOWtnM0g4bW5rdFE?oc=5>
+
+### VOA今日焦点 (2026年8月1日) 特朗普总统：已达成哈马斯解除武装协议
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-07-31 21:24
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE5XWl96YVFMUmZJaGhDMVhIRWJ4U1RSNWw2MzNUcFVfSXRnY1gzTkktUzc1VGtwZnN2ZUphQzJjLU5HMU9zUEZveE9peDVnR2tVQm1PVDNLNk5ENE9KRjE3SVIwT2NtTFdHRUp30gFuQVVfeXFMTVA1ZGZYb3ZMTG9GT3NWODU1NXBhb3FMTzFXLWNGRkZSTkgycDJyTHI2YTVSUFQ2UmxLSDExWDA3a0tiSHhhZ1FnLVlMSV9vSmprQTh1M0M0cUZTeUM2UlprTlVhczJBRS0yVEVsQWc?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-31 21:59  (4 条)
+
+- **特朗普** | 特朗普政府据报考虑对毕业后留美工作的国际学生征收10万美金；DHS：并未最终敲定 <https://news.google.com/rss/articles/CBMitAFBVV95cUxPOU52WjJMbl9MSmNBODFoeWJPWlZiY2EwNEpsbWVpVUstcXVYbWtvZVU5WWR5R0IzendESHdzWHh3MF9ybEJCd0pqNXo1U1ppaTFGdExNQTJSN25GeTVDblhfTExBMFI0WThhaW9yTjNlenBISUdUTTNwTWduVzFTaUNFZk5GcUU1TkhyWW9fUmlMcEVyNE5zVzFyVnNHUlNCYnJmcVpyVkhPTHowcHlRcFZmem3SAbcBQVVfeXFMTkxwT0l0dmNWTVRaQmhEdWd4UGUwRGRibGx5Q2YxRDJ6aVliSk1RT2VUSFFuRWlaUTMxVFZieko1a01nWlpKcVlkV3d3cXZwbFdUdllwZDZiVDZuZGhVemNHektMQXZWVVBvSmxGaUdoem5ZemtTX3JzOWM0TEstWXNqY09LRmpSSUJoTlpJNUs0eVJTQ1lOVjZjcXlKckY3cjNRc0EyNWRVbUFXaDEwLU43SnV1MTIw?oc=5>
+- **特朗普** | 特朗普总统：对伊朗谈判“逐渐失去信心” <https://news.google.com/rss/articles/CBMidEFVX3lxTE5hM1hEeWROTWdJOFFMS2EwN21jeGd3aXJFWE1aNFpCX3hoT2hDU25VcVQ2V1kwa0lyQldhUjRyYzlfTHJkMUt1YU01MHkyXzdPN0FXbC15cmhsaFJkMmlmN2VLb2dYenZoaVhHRFYySmxVd0ls0gF3QVVfeXFMTm1FOG9qdHJrTVFPbUY2WUViR0NZSGxhQzh1R1ppM3h6RnBnUWZET2dnMWtKUnh1SVg1cEZuVHNBMXlfOXU2NFU5YS1adGk5dHBIT010VGd6STE1ZURtS25pZDNibm0weHB0N0I3aGRuSXJlMWRWUDg?oc=5>
+- **特朗普** | 特朗普称正对伊朗谈判代表失去信心 中东战事恐持续 <https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZWxXLWJUVkJDSy0ySGl2aUZ6dnpHeEVSTzJXdmpxTUFGUWhRbC1ObFZmOE9abTNBdXNydTRNdVRoSlk3V0JJTnJ0Z2pGc0dHajcxUHlJMHc5ajhCcTdvTnBMeUQyYkl5eWVPbk5VQ2JNSlRHcTFsbmpOMFRJdFljQjFNRDVaeVBHYm50ZVUxcUZOcnNRR3NzdFVxSjh5a1pKUmhVNkdxUHFmQ2lyUVhlRzBFb1lLNU0zajYxMXQ2MGJJbDhTNHlHOWtnM0g4bW5rdFE?oc=5>
+- **特朗普** | VOA今日焦点 (2026年8月1日) 特朗普总统：已达成哈马斯解除武装协议 <https://news.google.com/rss/articles/CBMia0FVX3lxTE5XWl96YVFMUmZJaGhDMVhIRWJ4U1RSNWw2MzNUcFVfSXRnY1gzTkktUzc1VGtwZnN2ZUphQzJjLU5HMU9zUEZveE9peDVnR2tVQm1PVDNLNk5ENE9KRjE3SVIwT2NtTFdHRUp30gFuQVVfeXFMTVA1ZGZYb3ZMTG9GT3NWODU1NXBhb3FMTzFXLWNGRkZSTkgycDJyTHI2YTVSUFQ2UmxLSDExWDA3a0tiSHhhZ1FnLVlMSV9vSmprQTh1M0M0cUZTeUM2UlprTlVhczJBRS0yVEVsQWc?oc=5>
 
 ### 2026-07-31 20:39  (2 条)
 
