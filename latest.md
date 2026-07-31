@@ -1,77 +1,49 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-31 03:59**
-- 本轮扫到 8192 条, 新增 **16** 条
+- 最近更新: **2026-07-31 06:48**
+- 本轮扫到 8199 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (16 条)
+## 本轮新发现 (7 条)
 
-### 周杰伦樊振东同框在哪看？樊振东杜塞尔多夫发布会7月31日时间未定，一文看懂私下关系与直播渠道全知道
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879995911_1d5af320706802fldy.html>
-
-### 樊振东周杰伦深圳见面会是否真实存在？7月30日梦幻联动同框成真
+### 国乒世界冠军樊振东与周杰伦深圳见面会怎么回事？47岁天王与29岁国手1小时深聊，跨界友情为何刷屏？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879995911_1d5af320706802fl6q.html>
+- 链接: <https://k.sina.com.cn/article_7879995911_1d5af320706802flfi.html>
 
-### 樊振东周杰伦深圳见面会是真的吗？7月30日同框细节一文看懂
+### 特朗普称尚不确定是否允许乌克兰生产爱国者导弹
 
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879995911_1d5af320706802fl62.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-31 06:35
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxOQTFmZEtxbGZPckNaRlFsdUoyUWJjaHh4NHFwbUUzdW1zM2ZLbW9zQXZnUmZmWGNYM0FDUHd6QTBZVjdtRktKZGh6RHZRVnZUTlJtRTZsazJwb0JibUhhWkt3TXlZM01XRFpwWlFJSGJwWC1TcXUtSm5TY1hERXNLc284aW1EUEE?oc=5>
 
-### 特朗普面临两难局面，美伊战火是否会升级？分析师们这么认为……
+### 按头伊朗这么难！“特朗普在会上破防了，爆粗咒骂”-观察者网
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-07-31 03:11
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5GZVE0YTVOVm0yWTU1QTlEVjZEbVRyejl1eGE0OUpGdWcxandZeTBybDJSa1pIN2MtWXVxRlNkMEp6ZjVGS0JqMlQ0TzlpbHdNY2pTX0pfbFZpbG5UM0twMFZnYXI5RTJ3VlE?oc=5>
+
+### 特朗普：与哈马斯及加沙其他武装团体达成解除武装协议，这系落实其“加沙20点计划”的重要里程碑
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-30 23:24
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE9HeklKb1E2Wkdnam9lMTViMmxJNlpYNFd4SlZNQmtrdVlhUXBSaGVMYlhpRnBKY2dkdXVEMDVuYVA2blJybzhtWlJhb0N0M0NMYkdBYnpoT1I3UmtPTnItSm1DZzYxMGo2VG9PUDFucktGaUFNbXc?oc=5>
+
+### 勒夫勒财务申报曝光丈夫参股小唐纳德・特朗普创办的高端私人俱乐部
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: finance.sina.com.cn
-- 时间: 2026-07-31 02:24
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxOS0RpNFpFVmI4OF8wN0tDQW5ibVZRTUxTVHdWd08wNlZ5OHlKUlJKM3l4MmwtM05BejZuOG5aZi1ZZHB6Z05YckdScnBNd2d5Rjh3SXlRYnZpME5FUlNJMXBPeHNTeEpWU1J2M1hFeDAtN2ZsbFpOOWtxVTZYQ2NSUXFsdnczQlBGcjgxRjJPWnZFR1YtRE9MWQ?oc=5>
-
-### 布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-07-29 20:09
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5tMkNXOE1jYU5kY2FFMlRxbmZOQ3VhZHdPU2VRbHJfdW8xTEVfN2JQekk0cmk3LVdHeGxpUloxcHYzcUxKVU4xLWUwajRUS2JGd0lN?oc=5>
-
-### 胡塞直击命门，美军弹药告急，特朗普急寻台阶，伊朗精准拿捏死穴
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-07-31 01:45
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE41empUbDg5NzFwdklIb1c3ZWdRb01uenFyWlo5V3dRbUR4eGEzbV9lZks3VkhBM0hBdUVXcjZQLUlFRnpyX2hyMnFHbWFmdEdHcThmVWc0RmJYMXVnRDMwd2V2TXhmQXZRNW5JVzJxUUtFZw?oc=5>
-
-### 泽连斯基：特朗普已批准乌克兰生产“爱国者”导弹
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: DW.com
-- 时间: 2026-07-30 08:29
-- 链接: <https://news.google.com/rss/articles/CBMiuAJBVV95cUxQd0dfRFplRWRnWFJlN1dBQUZkNG5uMFhsVVBwVGFnb0tFTXVfLTByNnU5STk0dWUxMWtaYndELU8zWHZEbjk4bTNtdzJ3bGhSOFo2a2MtSzBySGsyd2tNUDFxakFGT3RHelBBZk1aMWJRb0dwcTFSTnlyS3h1T2RTdFd6c2VzMHp3TS1BbkNBM3l6Q09DQ0h3c0hFbm1GemF5M0Vxc2xqd1F1M2kzU3BxbDFoZkxzZjJOS3FpUWttNFFjTVlKNHVjbEY5UUxLbmJfWEJTSVRTajM1RmgwOEVKSE9NQl9lQzBRal9CWUN0NkhxNTJNdnVMY3RhYzZWRlBGVG1VbE5GU0dYSnVhY0dyN0h2NVBEb09sRWVBR2ZRZGVERXg4WE5ZVHNvQmZTOUFuX0dkaGYyb3nSAbgCQVVfeXFMTmh0a0o2V0xjb1lMM1hHd0x2dkZFckx1eHdxYm5HSXlTVWF1MTl3cm5YUDlMQ2RLdEtfQk1qNVRPLUx2SzlHTzY5Y21HS2dVeXFEY3ZxcWdRWC16VG0zVXR5dDdRWWlCQXdOQ0dvbXFRaEpIWVVTR1huUW40S2RVNV9UUlVoQVVmSmJISldvYlU0WW9iYi1hOU9xRTJBQkZobXAtc2FJdDJhOHRuVW5KTWg2N2JvQm9JRUxiYXBjdkpXd1p2WHZDemhFdEdacVdtNkNxOEw5T0dDeGphOFdrczZaVGZMc0VYQkpXcEJQdWkxMFNPMlRFTVBZNlhJN0lSMjhwZTBiQ3NHcFhLN09abTU4bzFneDRqdG9admRhRzNwS09qTTg3Z0MyS1N3ajFCZmZYbTd3eTlY?oc=5>
-
-### 美媒爆料：泽连斯基请特朗普说服马斯克，允许乌借助“星链”打击俄导弹发射装置
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 环球网
-- 时间: 2026-07-30 12:47
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE5xWHZQMktQVDZHeG1SdzRLbUZGNlVzUl9zeGNKeHZBeUl6dUhMMzBzV1E3NTc1S3BUc01TcTdIc0RabmhrRXFXRnQzWUkxZXh0MW93dk1EdUc?oc=5>
-
-### 马斯克与特朗普的关系是如何从决裂走向和解的？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-07-31 03:58
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFBGb2FGTG8wS2dqWkpKZEdiQTFtZDNrcl9IcjMtVFZpRGdQd3dYLTJkNndYNkg3RjZ1VkF1VlJ3QzJmdEFDcFJfMnpWMXYtWVY3Zm5EZURNQ0p6b3hsWWR6V2NuVTV5Ukp1Qk9zTEozUlBlUQ?oc=5>
+- 时间: 2026-07-31 05:30
+- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxPdkE1c2VQVVdkTHA4bmtrcnJ1YjZGNDJrTm9zYmVPVVVoRzFIRE5LX2MtOGtadkZVUGtxcHM0bVhiM25TVmM1TWtJTkxXanhnYVBDaUk2cW4zdnpIUEpKRFAzMG1Ha25mQ3FhQkpxcWo5VXhDVk8yeEljaC1jRG1Zc0xVa3VYVEVUV2c?oc=5>
 
 ### 特朗普称已就哈马斯“全面解除武装”达成协议
 
@@ -79,60 +51,30 @@
 - 来源: `googlenews`
 - 场馆: 新华网
 - 时间: 2026-07-31 00:08
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBWekJER1M1Z3Z6LTdoNU5JMHJfRlM0QUJsNWVsdWJKbVdkUUNKMDBTQ2RSemJFLWwzWVdsbWhYTFdDcHczVWxoQmtqWjFFdUl2YW5rT2pLOUFhaC1NTUF5eVRQTTdlQy1iVVhzN3F6WXhsVXVoV29YeVFPZjFsRG8?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMid0FVX3lxTE1LSmt3enZ5eUxIc1k5Z2Z6aDR4bDlNb2lLaExpR0wwS0JXS3RVS212LXFEYXA5dG41eXdpTTJQVzIyclRpMlZkbjNOQ05ydVdYOHkwNUVRSUZGQ09wSndPeDh3V1kyZ2NWVE0zXzVnY2JQLXctYV9v?oc=5>
 
-### 特朗普宣布达成“历史性协议”：哈马斯将全面解除武装，以色列军队将撤出加沙地带
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪军事_手机新浪网
-- 时间: 2026-07-31 02:21
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFBSbFBJVkFoOXdvdUx1S19wNS1VNTN2Zmx4Smtoejd0dzNfcHBtNWRHc0d1b0dKMHlSb01kbHVTd2JiOFpld3lpa3hWUTUtcEIxLTR2TnRTQlAtQjY2V2hHdmtfczdxVUNxY3Ezc3dXbmRVMkk?oc=5>
-
-### 特朗普：与哈马斯达成全面解除武装协议
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-31 00:28
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBkMWp4MDFxVUlBdDhOcXRuZFhkdkhJcHlGWlZUTVd3WExONG51QU1ZZWkwQlZrWmh2am81R0Z3MzQ0RHNZOElodTk2YWw?oc=5>
-
-### 毕业留美先交10万美元？特朗普政府盯上留学生-观察者网
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: guancha.cn
-- 时间: 2026-07-31 00:05
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE4xRklxVEJueXZyZmEwN2tveGRicG5hMy1MSWNlQmh1VTNNUWsxRFdISDdlWU04dnhic1lXQnNmWmY4WmtScG5XS2tVZHRlYmt5YWh6OXpEYTRaWTJmcmlZWFJna0R2aTlGOUE?oc=5>
-
-### “老板要这笔钱”：起底特朗普史无前例的筹款行动
+### 川普週五將在戴維營主持新一輪內閣會議
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: cn.wsj.com
-- 时间: 2026-07-31 03:41
-- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE5QUFpCdWQ2SWVfNHZkblBjczdoZ0JGQ3NtVUtxQkxFS3R1eXRoekQzYWRQS0dIclhnb1B2QlN5VE9kbk1zdTlvUXB0bzFxQzdhT1BTckNlVnh3bkZZU3pHZzZ0RWU2MkFrbVpzR0xIVWpkeW9tVXpXd2NIVEg?oc=5>
-
-### 伊朗的新策略：先发制人，后谈判
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: al-monitor.com
-- 时间: 2026-07-30 21:02
-- 链接: <https://news.google.com/rss/articles/CBMikgFBVV95cUxOTlI0YWxXem5pbjdwdUJUM0xQWjF6aEZSZElWZ1hLWEdCbDNnNVpUNGdpS3lGdTVsVndhY0RRSFByY0hrNUZjX0JZOEpRREQ4bGI1eUtVcWRhMFE2d29wc3JlbjE0dUVxNGw1UTExUWJ3RmJCMEFLWGZjb1ExU1hhUXJwbXNLV1l5dmFHTktOM0o4dw?oc=5>
-
-### 特朗普宣布哈马斯同意“全面解除武装”协议 以色列态度仍未明朗
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: SBS
-- 时间: 2026-07-31 02:12
-- 链接: <https://news.google.com/rss/articles/CBMizgFBVV95cUxNeFpPNVBNZTdyLXJRWmZyeGV4bE0tNHNsQlU2VXRmQkRzNmJBSWV4a2hnTlJTUUdQZ1pVYVhnMklhd056b3FIX1RMcFdKcWc5NlpXb21YS3ZQekx4cGxNcEx3Q3dHaV9sWGFtNTZFOE9EQnhuNUZsbWpWbjJRR1FBRlRfNW1wV2Y2U3JGeVpRT09CVWhOQlBZVWNfYXVBQzdnTDZoWVMzOVlOZjd0WVNuejBsT0pLTTA4QkE1d01Jd0NZNTFlY1JXN3hZaW1nQQ?oc=5>
+- 场馆: 大纪元
+- 时间: 2026-07-31 06:26
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tTWhhVTVLM0gxSlgwTVNKTVpvWEJwVjhDZ05JSXN5alc2UlRSLWlXQjl3SDV3OEVPczdVSDhyaXpocFQwdF9Uejl0ZFBVMUlfWExtc2Z2ZjdEZVZ3SUlFMNIBZkFVX3lxTE44enNGS3htWHdPbXNNak9HX3VYWWs5aDVfS09PTHRaUjBUUFVxOFZBZUpuU1prSlNRSi00QTZ3LVZTQkYtSzQwNFJjWXFHQUUxSDY1ZTQtaE5RSWtXcXNyVEtiOHFvZw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-31 06:48  (7 条)
+
+- **周杰伦** | 国乒世界冠军樊振东与周杰伦深圳见面会怎么回事？47岁天王与29岁国手1小时深聊，跨界友情为何刷屏？ <https://k.sina.com.cn/article_7879995911_1d5af320706802flfi.html>
+- **特朗普** | 特朗普称尚不确定是否允许乌克兰生产爱国者导弹 <https://news.google.com/rss/articles/CBMihwFBVV95cUxOQTFmZEtxbGZPckNaRlFsdUoyUWJjaHh4NHFwbUUzdW1zM2ZLbW9zQXZnUmZmWGNYM0FDUHd6QTBZVjdtRktKZGh6RHZRVnZUTlJtRTZsazJwb0JibUhhWkt3TXlZM01XRFpwWlFJSGJwWC1TcXUtSm5TY1hERXNLc284aW1EUEE?oc=5>
+- **特朗普** | 按头伊朗这么难！“特朗普在会上破防了，爆粗咒骂”-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE5GZVE0YTVOVm0yWTU1QTlEVjZEbVRyejl1eGE0OUpGdWcxandZeTBybDJSa1pIN2MtWXVxRlNkMEp6ZjVGS0JqMlQ0TzlpbHdNY2pTX0pfbFZpbG5UM0twMFZnYXI5RTJ3VlE?oc=5>
+- **特朗普** | 特朗普：与哈马斯及加沙其他武装团体达成解除武装协议，这系落实其“加沙20点计划”的重要里程碑 <https://news.google.com/rss/articles/CBMidkFVX3lxTE9HeklKb1E2Wkdnam9lMTViMmxJNlpYNFd4SlZNQmtrdVlhUXBSaGVMYlhpRnBKY2dkdXVEMDVuYVA2blJybzhtWlJhb0N0M0NMYkdBYnpoT1I3UmtPTnItSm1DZzYxMGo2VG9PUDFucktGaUFNbXc?oc=5>
+- **特朗普** | 勒夫勒财务申报曝光丈夫参股小唐纳德・特朗普创办的高端私人俱乐部 <https://news.google.com/rss/articles/CBMiigFBVV95cUxPdkE1c2VQVVdkTHA4bmtrcnJ1YjZGNDJrTm9zYmVPVVVoRzFIRE5LX2MtOGtadkZVUGtxcHM0bVhiM25TVmM1TWtJTkxXanhnYVBDaUk2cW4zdnpIUEpKRFAzMG1Ha25mQ3FhQkpxcWo5VXhDVk8yeEljaC1jRG1Zc0xVa3VYVEVUV2c?oc=5>
+- **特朗普** | 特朗普称已就哈马斯“全面解除武装”达成协议 <https://news.google.com/rss/articles/CBMid0FVX3lxTE1LSmt3enZ5eUxIc1k5Z2Z6aDR4bDlNb2lLaExpR0wwS0JXS3RVS212LXFEYXA5dG41eXdpTTJQVzIyclRpMlZkbjNOQ05ydVdYOHkwNUVRSUZGQ09wSndPeDh3V1kyZ2NWVE0zXzVnY2JQLXctYV9v?oc=5>
+- **Trump** | 川普週五將在戴維營主持新一輪內閣會議 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tTWhhVTVLM0gxSlgwTVNKTVpvWEJwVjhDZ05JSXN5alc2UlRSLWlXQjl3SDV3OEVPczdVSDhyaXpocFQwdF9Uejl0ZFBVMUlfWExtc2Z2ZjdEZVZ3SUlFMNIBZkFVX3lxTE44enNGS3htWHdPbXNNak9HX3VYWWs5aDVfS09PTHRaUjBUUFVxOFZBZUpuU1prSlNRSi00QTZ3LVZTQkYtSzQwNFJjWXFHQUUxSDY1ZTQtaE5RSWtXcXNyVEtiOHFvZw?oc=5>
 
 ### 2026-07-31 03:59  (16 条)
 
