@@ -1,48 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-31 15:58**
-- 本轮扫到 8215 条, 新增 **4** 条
+- 最近更新: **2026-07-31 17:40**
+- 本轮扫到 8220 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (5 条)
 
-### 美国专栏 - 特朗普推动AI安全框架 强化监管但警惕因限制落后中国
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-07-31 14:19
-- 链接: <https://news.google.com/rss/articles/CBMiwANBVV95cUxPeEhKbWhDNGJsTkduZFRqN1ZTOU5EVmxIM2d0RGpRUVpZOXBpai1icmYzclpzX01zVF9oVVUtXzZWbXJQUWVyMk41VzIwRzg2WnFEU1lmZkNHWFNXTXNtZ3l0Q3NmdkVDSVFjRTQ3eElUYzlVeWNZV2h0WjAyMVZiQUFsNzIteHZpWlZ4UWtoekJtZDBadWkxVGNYa1ZDQjhsdG5iSExaU2hxUE00OG1YdkJ3dWN6b2t2Wm5qQzZwMnk2VDV0NFpsNFY1Z1dfSnl4c3FqT280bHg0TDJId1hXWmJfY0MzWER5OXlLbE9SbGRuano5MkdlSlBMTm1JR0NWYnN3TzRXNnlibHdPek5qQ1E0eTZoY3FHRUNZQ2hJTGpVQnBpN2VQb3N1MWNHMXNfSHdubjllZXJKcnpTcERab1NWY2s2X0dJYU9GTUJIV1FZSzFYLWhMWW5paTFoNmpPSG9tQ0JMU0VtR0xKLTAzeWh5WGZvcHR2QmJ5YUN6M284a08wbm52MmZkdTNFb1J3aFVwZFBYMnNlYnE5bmdIMlpPTXRsX3VBTTByZnRkRTUxYkpxQ2dqdW5CY2hBTWtS?oc=5>
-
-### 特朗普政府将6家芯片企业纳入政府持股清单，目前政府参股企业总数已达30家
+### 马斯克又要砸钱帮共和党？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-31 14:15
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxNbmV6cnFHM0xSQndPNHhYVEFxWnE2dE1jV2ZmcXRHMlBDUW9ZUlI3ZzVKSzhkSUtyaDV6azZ5MW1fNnFWNXFsc1MyTjZ4NDBOOFFHLWpaaURBR1FVZXNjV0hOMmdCeEFYYU15U1BDZzB0MnZnME00N0EwazhmSE1qUUpIdjBHM28?oc=5>
+- 场馆: 手机新浪网
+- 时间: 2026-07-31 16:28
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFBWNHFEUmdYbElLWkJ1d3kzMlhnamtVam9RejJEWFM1MUJSZWVDSlN3ZDZ6TGlIOVdZYXBDc2pEOUszaDQzSzlrNFM2MU9oQktWRnVYU3ZnVG5tYlJwY05CLVRGUFhCTWI3RUVUQjcyVF95dw?oc=5>
 
-### 特朗普曾许诺农业迎来“黄金时代”，爱荷华州农民：仍在苦苦等待
+### 特朗普：以色列在哈马斯解除武装计划方面“表现出色”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-30 12:07
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPc2l4bXJYN3VhTGJObDBGQk9lZm5YZTNFZ0FQT1gtekJydjcybmUydU5ZMVdCbE1yS045YXBtRVBwWndzam5OLUltMGtuamJqbEhCel9MSTlyb1J1dW1IZUpWeE9SMkNIVGNDREp6dFhqSWRrLVc3MElfWGtrQ1h2XzlMUG5TUUhkZGk3WG5VckZqYjN0Sm5fcWQ1OWJxcndfMGhsZ3dDc0FGXzczUFQ2a3pLNUJzQTNqRTRGYWJBdnVUeTRCSVpTem91N2M1VW5UMi1Zak53Smg4TEt0RGtV?oc=5>
+- 时间: 2026-07-31 17:01
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5rUUlRQ1VaNTZmNWtGdWxjYUlYYVZ0amphWm5hcGZ4OXAtc1ZyNjJFYlpZN1dlem5XTFRaZzU5amg4c3ZzMFZuTkY1ejBSbmNULWxsSUhISFNLRTJJbEh1THJfUm5EZ2tOMy1yMVotRVplTGdDeFJ4bg?oc=5>
 
-### 美媒爆料：特朗普一重要提名遇阻
+### 白宫发表事实清单，显示美国情报界支持特朗普总统称中国干预大选的说法
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-07-30 16:19
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9MWi1Wdzd1aXZxQzltVTIzWHpIaFkwV2JjWklBbUN3ZmVSUnNfSks4S2pkU3hEdHRxMU1hVUZJeEdIVUV4QUtNQTVkWi14a2JsdFp2ZW1ubUlJdHBSWW0zU0J0Z0hDUnJINVZDRjFFVV9rSVhNRmNmUQ?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-07-31 16:25
+- 链接: <https://news.google.com/rss/articles/CBMitgFBVV95cUxNRGE4RGR5VFExdUprS0daUzR0X2xTVHh0Rm9xQk9jMjlaRU9pZlBPY1hiaGEwWHptUC1CMWlwbGdwNmlHb2wyMmtCaWdjLXE3YTZmTzVPRWFsTUpicmRmT29FNnhQajRUcUU3Tmk0MnFJcFh0bjE3djdUMEgwVkNkWElVN2treTNJSFJOQWxJZDl3SXJTMGZYY3drZFVTdkN6MXBVLTFtTmZZZnBpT1pJZDRYNWc5UdIBuAFBVV95cUxQYml3V3duZ05SVXRkN0t1ajJ6cTJfNWlkSmJ0dWFISU1KdFhBLXFiaHpZcDNiSVFweUl0dDRrRnhsZS1nUjlCN0dVNmlDQ2xabE9pdFd0Q1pxZElXX1hoZGtfWUM5TkRHSUFLdDFsNzlUNGpyWXhJQjZjNXp6V3d5bGxtREFiemV4alRNdDlYWnR2UHRRWGZsN1JsRzIyT2ZNVlQyVWhmMjBxT0Q0aUdfZDd4VmtxVTFw?oc=5>
+
+### 特朗普：若中国向伊朗提供武器 我会感到失望
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-07-30 00:20
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5UcUI5dHNOMlpVVEhxVFVVVUNEb1RTdW9qQVFOUnhfWkxtUVI5VlRyN1Vsckk5a0N6bWR3b3RuQlNOb2oyZFRqbGNfQmdRLTZLUnp1ak5zMEZGSWRITHpSNGcydENtUU55OFE?oc=5>
+
+### 特朗普总统称已达成让哈马斯解除武装的协议，该恐怖组织予以证实，以色列保持沉默
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-07-31 16:57
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZXI3LUhTNlEybVVlakFIQmdqNmthd2JxYmdvc2NTeGNyLW03MUpKVTFfM25EdEhHMGkwR3dVcUllUElaYzNFR3F0RE50VXQtd0RUc3NBTFUzcnk3blRBdWZWOXlqYlhTOUtGWjg5S2ZXakNUR2MwMzZCSGstYWcwYUd1ZW02b0hvOXBjekp4eWJpRkxuWWxaZFlNT25ORlpwRmQ2M0xtWWhhS1duM1dJeGJZbWFseDVUQmZ4RGRQd1ljSU1xOGZNMXVqMmVFX0pGVmVwOGxGdVZCelUwdG9z0gHiAUFVX3lxTE96SHQ0ZXhidUJXd1pKNE1yOTk3WDlvaV8wWTc5WnA1U19RRzdJSHNxeUVYVHRtZmpMc2FvVWZsM0JQZzB5MHVVSHYzZUxCWnl2d3hrTEVzUnNDVU9ILTBITl9TRmxTZngyZkJ3QVFpWlpUWFVMRThoelU3anMxbHoteHpIVWZnMXpINnlLc2w5LWg3XzNCLWpqSFNfUTJaTzFRcE81R05oTkxFUDd4N3owcHQ2djZaNVdwZVpGejNqYmNOSVZXcXZ1LU1uTEJBRExiMVM3RHVZcEJZUWVkLWliOUE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-31 17:40  (5 条)
+
+- **特朗普** | 马斯克又要砸钱帮共和党？ <https://news.google.com/rss/articles/CBMickFVX3lxTFBWNHFEUmdYbElLWkJ1d3kzMlhnamtVam9RejJEWFM1MUJSZWVDSlN3ZDZ6TGlIOVdZYXBDc2pEOUszaDQzSzlrNFM2MU9oQktWRnVYU3ZnVG5tYlJwY05CLVRGUFhCTWI3RUVUQjcyVF95dw?oc=5>
+- **特朗普** | 特朗普：以色列在哈马斯解除武装计划方面“表现出色” <https://news.google.com/rss/articles/CBMieEFVX3lxTE5rUUlRQ1VaNTZmNWtGdWxjYUlYYVZ0amphWm5hcGZ4OXAtc1ZyNjJFYlpZN1dlem5XTFRaZzU5amg4c3ZzMFZuTkY1ejBSbmNULWxsSUhISFNLRTJJbEh1THJfUm5EZ2tOMy1yMVotRVplTGdDeFJ4bg?oc=5>
+- **特朗普** | 白宫发表事实清单，显示美国情报界支持特朗普总统称中国干预大选的说法 <https://news.google.com/rss/articles/CBMitgFBVV95cUxNRGE4RGR5VFExdUprS0daUzR0X2xTVHh0Rm9xQk9jMjlaRU9pZlBPY1hiaGEwWHptUC1CMWlwbGdwNmlHb2wyMmtCaWdjLXE3YTZmTzVPRWFsTUpicmRmT29FNnhQajRUcUU3Tmk0MnFJcFh0bjE3djdUMEgwVkNkWElVN2treTNJSFJOQWxJZDl3SXJTMGZYY3drZFVTdkN6MXBVLTFtTmZZZnBpT1pJZDRYNWc5UdIBuAFBVV95cUxQYml3V3duZ05SVXRkN0t1ajJ6cTJfNWlkSmJ0dWFISU1KdFhBLXFiaHpZcDNiSVFweUl0dDRrRnhsZS1nUjlCN0dVNmlDQ2xabE9pdFd0Q1pxZElXX1hoZGtfWUM5TkRHSUFLdDFsNzlUNGpyWXhJQjZjNXp6V3d5bGxtREFiemV4alRNdDlYWnR2UHRRWGZsN1JsRzIyT2ZNVlQyVWhmMjBxT0Q0aUdfZDd4VmtxVTFw?oc=5>
+- **特朗普** | 特朗普：若中国向伊朗提供武器 我会感到失望 <https://news.google.com/rss/articles/CBMiakFVX3lxTE5UcUI5dHNOMlpVVEhxVFVVVUNEb1RTdW9qQVFOUnhfWkxtUVI5VlRyN1Vsckk5a0N6bWR3b3RuQlNOb2oyZFRqbGNfQmdRLTZLUnp1ak5zMEZGSWRITHpSNGcydENtUU55OFE?oc=5>
+- **Trump** | 特朗普总统称已达成让哈马斯解除武装的协议，该恐怖组织予以证实，以色列保持沉默 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZXI3LUhTNlEybVVlakFIQmdqNmthd2JxYmdvc2NTeGNyLW03MUpKVTFfM25EdEhHMGkwR3dVcUllUElaYzNFR3F0RE50VXQtd0RUc3NBTFUzcnk3blRBdWZWOXlqYlhTOUtGWjg5S2ZXakNUR2MwMzZCSGstYWcwYUd1ZW02b0hvOXBjekp4eWJpRkxuWWxaZFlNT25ORlpwRmQ2M0xtWWhhS1duM1dJeGJZbWFseDVUQmZ4RGRQd1ljSU1xOGZNMXVqMmVFX0pGVmVwOGxGdVZCelUwdG9z0gHiAUFVX3lxTE96SHQ0ZXhidUJXd1pKNE1yOTk3WDlvaV8wWTc5WnA1U19RRzdJSHNxeUVYVHRtZmpMc2FvVWZsM0JQZzB5MHVVSHYzZUxCWnl2d3hrTEVzUnNDVU9ILTBITl9TRmxTZngyZkJ3QVFpWlpUWFVMRThoelU3anMxbHoteHpIVWZnMXpINnlLc2w5LWg3XzNCLWpqSFNfUTJaTzFRcE81R05oTkxFUDd4N3owcHQ2djZaNVdwZVpGejNqYmNOSVZXcXZ1LU1uTEJBRExiMVM3RHVZcEJZUWVkLWliOUE?oc=5>
 
 ### 2026-07-31 15:58  (4 条)
 
