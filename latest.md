@@ -1,40 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-31 13:49**
-- 本轮扫到 8211 条, 新增 **3** 条
+- 最近更新: **2026-07-31 15:58**
+- 本轮扫到 8215 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (4 条)
 
-### 马斯克又要烧钱助选了！特朗普支持率只剩36%，这届“钞能力”还灵不灵？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: k.sina.com.cn
-- 时间: 2026-07-31 13:25
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFBkem5TV3R5MVRuY0hFbnZuYWItRkViRC1xTWNLZWg0RXVLdWxvMU82cFMxNEF3SGo4eFlTelc2bG9qUG5Xa2FmaldMVVFBMXJXVXIzdmQyQkI4Ul80cXAxWXNmbThSMHdVQWowTmRpSllxZw?oc=5>
-
-### 事关半导体！特朗普政府再出手：将入股七家科技公司
+### 美国专栏 - 特朗普推动AI安全框架 强化监管但警惕因限制落后中国
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-07-31 05:26
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE1od3lKYU50ME9SbVpOV3dNQ00tcnlyN1NwbWNad0F1SmhfVDZGWGd6LUhrR3YyZUpDVjlaTjEweU10eHU0eXNScw?oc=5>
+- 场馆: RFI
+- 时间: 2026-07-31 14:19
+- 链接: <https://news.google.com/rss/articles/CBMiwANBVV95cUxPeEhKbWhDNGJsTkduZFRqN1ZTOU5EVmxIM2d0RGpRUVpZOXBpai1icmYzclpzX01zVF9oVVUtXzZWbXJQUWVyMk41VzIwRzg2WnFEU1lmZkNHWFNXTXNtZ3l0Q3NmdkVDSVFjRTQ3eElUYzlVeWNZV2h0WjAyMVZiQUFsNzIteHZpWlZ4UWtoekJtZDBadWkxVGNYa1ZDQjhsdG5iSExaU2hxUE00OG1YdkJ3dWN6b2t2Wm5qQzZwMnk2VDV0NFpsNFY1Z1dfSnl4c3FqT280bHg0TDJId1hXWmJfY0MzWER5OXlLbE9SbGRuano5MkdlSlBMTm1JR0NWYnN3TzRXNnlibHdPek5qQ1E0eTZoY3FHRUNZQ2hJTGpVQnBpN2VQb3N1MWNHMXNfSHdubjllZXJKcnpTcERab1NWY2s2X0dJYU9GTUJIV1FZSzFYLWhMWW5paTFoNmpPSG9tQ0JMU0VtR0xKLTAzeWh5WGZvcHR2QmJ5YUN6M284a08wbm52MmZkdTNFb1J3aFVwZFBYMnNlYnE5bmdIMlpPTXRsX3VBTTByZnRkRTUxYkpxQ2dqdW5CY2hBTWtS?oc=5>
 
-### 特朗普被曝对伊朗战事失去耐心，美前外交官：他对谈判的理解本质上就错了
+### 特朗普政府将6家芯片企业纳入政府持股清单，目前政府参股企业总数已达30家
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-31 10:02
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nZ19vMGM5RGwwZ0owM2JTWWJJRkFTbWFBQmF5aVViclZQTnBnVEh6LXgxRFBmUVlIdkVYdjE5WGl3dVBnbFpNVW5zOHA?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-07-31 14:15
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxNbmV6cnFHM0xSQndPNHhYVEFxWnE2dE1jV2ZmcXRHMlBDUW9ZUlI3ZzVKSzhkSUtyaDV6azZ5MW1fNnFWNXFsc1MyTjZ4NDBOOFFHLWpaaURBR1FVZXNjV0hOMmdCeEFYYU15U1BDZzB0MnZnME00N0EwazhmSE1qUUpIdjBHM28?oc=5>
+
+### 特朗普曾许诺农业迎来“黄金时代”，爱荷华州农民：仍在苦苦等待
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-30 12:07
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPc2l4bXJYN3VhTGJObDBGQk9lZm5YZTNFZ0FQT1gtekJydjcybmUydU5ZMVdCbE1yS045YXBtRVBwWndzam5OLUltMGtuamJqbEhCel9MSTlyb1J1dW1IZUpWeE9SMkNIVGNDREp6dFhqSWRrLVc3MElfWGtrQ1h2XzlMUG5TUUhkZGk3WG5VckZqYjN0Sm5fcWQ1OWJxcndfMGhsZ3dDc0FGXzczUFQ2a3pLNUJzQTNqRTRGYWJBdnVUeTRCSVpTem91N2M1VW5UMi1Zak53Smg4TEt0RGtV?oc=5>
+
+### 美媒爆料：特朗普一重要提名遇阻
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-07-30 16:19
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9MWi1Wdzd1aXZxQzltVTIzWHpIaFkwV2JjWklBbUN3ZmVSUnNfSks4S2pkU3hEdHRxMU1hVUZJeEdIVUV4QUtNQTVkWi14a2JsdFp2ZW1ubUlJdHBSWW0zU0J0Z0hDUnJINVZDRjFFVV9rSVhNRmNmUQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-31 15:58  (4 条)
+
+- **特朗普** | 美国专栏 - 特朗普推动AI安全框架 强化监管但警惕因限制落后中国 <https://news.google.com/rss/articles/CBMiwANBVV95cUxPeEhKbWhDNGJsTkduZFRqN1ZTOU5EVmxIM2d0RGpRUVpZOXBpai1icmYzclpzX01zVF9oVVUtXzZWbXJQUWVyMk41VzIwRzg2WnFEU1lmZkNHWFNXTXNtZ3l0Q3NmdkVDSVFjRTQ3eElUYzlVeWNZV2h0WjAyMVZiQUFsNzIteHZpWlZ4UWtoekJtZDBadWkxVGNYa1ZDQjhsdG5iSExaU2hxUE00OG1YdkJ3dWN6b2t2Wm5qQzZwMnk2VDV0NFpsNFY1Z1dfSnl4c3FqT280bHg0TDJId1hXWmJfY0MzWER5OXlLbE9SbGRuano5MkdlSlBMTm1JR0NWYnN3TzRXNnlibHdPek5qQ1E0eTZoY3FHRUNZQ2hJTGpVQnBpN2VQb3N1MWNHMXNfSHdubjllZXJKcnpTcERab1NWY2s2X0dJYU9GTUJIV1FZSzFYLWhMWW5paTFoNmpPSG9tQ0JMU0VtR0xKLTAzeWh5WGZvcHR2QmJ5YUN6M284a08wbm52MmZkdTNFb1J3aFVwZFBYMnNlYnE5bmdIMlpPTXRsX3VBTTByZnRkRTUxYkpxQ2dqdW5CY2hBTWtS?oc=5>
+- **特朗普** | 特朗普政府将6家芯片企业纳入政府持股清单，目前政府参股企业总数已达30家 <https://news.google.com/rss/articles/CBMihwFBVV95cUxNbmV6cnFHM0xSQndPNHhYVEFxWnE2dE1jV2ZmcXRHMlBDUW9ZUlI3ZzVKSzhkSUtyaDV6azZ5MW1fNnFWNXFsc1MyTjZ4NDBOOFFHLWpaaURBR1FVZXNjV0hOMmdCeEFYYU15U1BDZzB0MnZnME00N0EwazhmSE1qUUpIdjBHM28?oc=5>
+- **特朗普** | 特朗普曾许诺农业迎来“黄金时代”，爱荷华州农民：仍在苦苦等待 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPc2l4bXJYN3VhTGJObDBGQk9lZm5YZTNFZ0FQT1gtekJydjcybmUydU5ZMVdCbE1yS045YXBtRVBwWndzam5OLUltMGtuamJqbEhCel9MSTlyb1J1dW1IZUpWeE9SMkNIVGNDREp6dFhqSWRrLVc3MElfWGtrQ1h2XzlMUG5TUUhkZGk3WG5VckZqYjN0Sm5fcWQ1OWJxcndfMGhsZ3dDc0FGXzczUFQ2a3pLNUJzQTNqRTRGYWJBdnVUeTRCSVpTem91N2M1VW5UMi1Zak53Smg4TEt0RGtV?oc=5>
+- **特朗普** | 美媒爆料：特朗普一重要提名遇阻 <https://news.google.com/rss/articles/CBMieEFVX3lxTE9MWi1Wdzd1aXZxQzltVTIzWHpIaFkwV2JjWklBbUN3ZmVSUnNfSks4S2pkU3hEdHRxMU1hVUZJeEdIVUV4QUtNQTVkWi14a2JsdFp2ZW1ubUlJdHBSWW0zU0J0Z0hDUnJINVZDRjFFVV9rSVhNRmNmUQ?oc=5>
 
 ### 2026-07-31 13:49  (3 条)
 
