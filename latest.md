@@ -1,70 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-31 09:39**
-- 本轮扫到 8206 条, 新增 **7** 条
+- 最近更新: **2026-07-31 11:54**
+- 本轮扫到 8208 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (2 条)
 
-### 周杰伦上娱乐百分百宣传新专辑
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923674_m1d5ae17da03301net6.html>
-
-### 特朗普称尚不确定是否允许乌克兰生产爱国者导弹
+### 美伊再度开打，特朗普：打击沿海目标！多国卷入大混战，以想参战
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-31 09:05
-- 链接: <https://news.google.com/rss/articles/CBMiqgJBVV95cUxOVjRKMGlvS0pZSnRWUVZmWHVNVE90ZUxsZmZtLXpGeHZFRlhxblpQMmVmZWFsS3Z5RU5Jbkl5SG1yY0J2T3RmVm45MHZRSzlIMnI4YUdqdTlTbDZyNzY5OEtKbUY3dF9mY1hqUGpWaTkwb3R4R2F4UUh1SU4tV2NNTkZ3M0gyeER6elJZa0lyZmo1STc1eWVPTWpFN29xdjhUT3RjUW9LdndGbW1UQkNNaFRnaHBTYk9GSEVrbnNLYVJielRoUklUSFRFRUExdDF0aW0wWTBsOHVaa1F5M1J6RVFkRy1zU3NJU0o1SURpQ29WbzdIU2dKdVVlWUY5ZnpJOU9OS2RHZGtULVNOV01GZHlqMUxfLVZCcXE1MDdtaGIwV1g2SWhfYnZR?oc=5>
+- 场馆: 手机新浪网
+- 时间: 2026-07-31 11:20
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBHUjl1eWxNN2I2U04yaXFZcXFZcjJWdHQxWlk3N2NtV3NmZkFyZHRKOW9rX3FCZFBUOTU0STZlTzBxSEJyZGd4YUc1S2hUTkpPX2V1dTh3ZTROQV9sV0NDakVaNEJhWjRETW42WkdTWk8?oc=5>
 
-### 反悔了？特朗普：这是非常特殊的武器，我还在考虑
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-29 07:34
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5IekE2NnBzWHlDUVlpa0MtQVk0OXlvd1p2akoxemw4VlM4ZHRMbUVWWVU1QzhJSVV5cmJORWdqTko3M2lIMnpHZ3hrV1M?oc=5>
-
-### 携四大诉求赴白宫，内塔尼亚胡要如何游说特朗普？
+### 特朗普下令禁止美国关键矿产废料出口 全球资源回收重视度再提升
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-30 08:53
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9VT2RqR1g0RHdKMDBmSDR2MWpHMXI0MTduc09oc1BhRnJrMjJVRnk1YTEzeXlLNWg5UWVjNDJMS29CTFNib0gyQ2lQZVY?oc=5>
-
-### 巴勒斯坦加沙地带：哈马斯向BBC证实同意特朗普的缴械计划
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-07-31 06:16
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9GNGg4U2tkc0poZUJXYV9LdFdkSF9JekJ1cGpYeENZZTFCZVozUDk3NW1mRjh0MzM0STNYTzNvMW1SSnlzSG1vN1JZV01xZjgwWVdKaUdpZm1XZkF3bVFqVVc4N3U5Z9IBa0FVX3lxTE9Xczl3N2E1dWNQWHV1WVBpMnprX2FMM2dfaG9LWWpOTktweV9WZHJrWnAtUDg3dU15QWxvMUJ6WVMyRW55amt5SkpGcEhiRGpNZVpiWGdWVmVNQTI3VnZWYjIyRGZtYkFKbFVZ?oc=5>
-
-### 马斯克据称准备再“砸”超1亿美元，为特朗普中期选举铺路！
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: cls.cn
-- 时间: 2026-07-31 03:01
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTFBHTmlNZ0VFcjRGRnFCUHY1X3FvVlBRQ3dTM18xMzF3VGdOX3Fad1gwMUhzcGxVUWVDWHdlV29jUlE3OUNCcl9pdw?oc=5>
-
-### 最新民调：美国民众对伊朗战争的态度更悲观了，特朗普支持率跌至新低
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-07-31 04:34
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE54amFsX2ZMT3NwZDFHQXNKQnZqcU0yVTd2NGpadUhGOVNCSVZDeU5tVUxMLTFiRDFBMmFualFLc0h4czBqOFRsWHJ6Vms?oc=5>
+- 场馆: 财新
+- 时间: 2026-07-31 06:57
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE50SVhyTW9QaWt6eHAxQkRud01VWklYeGRxUkhNa2xhUFNPQTJBVDI2MFJWcnJWbjM4anpyTDQ2QVJVQldmM21vcUlGR1RMclQ5MmNPMlNXWjZrSHB3MER3djBMb3Y?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-31 11:54  (2 条)
+
+- **特朗普** | 美伊再度开打，特朗普：打击沿海目标！多国卷入大混战，以想参战 <https://news.google.com/rss/articles/CBMicEFVX3lxTFBHUjl1eWxNN2I2U04yaXFZcXFZcjJWdHQxWlk3N2NtV3NmZkFyZHRKOW9rX3FCZFBUOTU0STZlTzBxSEJyZGd4YUc1S2hUTkpPX2V1dTh3ZTROQV9sV0NDakVaNEJhWjRETW42WkdTWk8?oc=5>
+- **特朗普** | 特朗普下令禁止美国关键矿产废料出口 全球资源回收重视度再提升 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE50SVhyTW9QaWt6eHAxQkRud01VWklYeGRxUkhNa2xhUFNPQTJBVDI2MFJWcnJWbjM4anpyTDQ2QVJVQldmM21vcUlGR1RMclQ5MmNPMlNXWjZrSHB3MER3djBMb3Y?oc=5>
 
 ### 2026-07-31 09:39  (7 条)
 
