@@ -1,48 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-31 21:59**
-- 本轮扫到 8229 条, 新增 **4** 条
+- 最近更新: **2026-07-31 23:05**
+- 本轮扫到 8234 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (5 条)
 
-### 特朗普政府据报考虑对毕业后留美工作的国际学生征收10万美金；DHS：并未最终敲定
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-07-31 20:54
-- 链接: <https://news.google.com/rss/articles/CBMitAFBVV95cUxPOU52WjJMbl9MSmNBODFoeWJPWlZiY2EwNEpsbWVpVUstcXVYbWtvZVU5WWR5R0IzendESHdzWHh3MF9ybEJCd0pqNXo1U1ppaTFGdExNQTJSN25GeTVDblhfTExBMFI0WThhaW9yTjNlenBISUdUTTNwTWduVzFTaUNFZk5GcUU1TkhyWW9fUmlMcEVyNE5zVzFyVnNHUlNCYnJmcVpyVkhPTHowcHlRcFZmem3SAbcBQVVfeXFMTkxwT0l0dmNWTVRaQmhEdWd4UGUwRGRibGx5Q2YxRDJ6aVliSk1RT2VUSFFuRWlaUTMxVFZieko1a01nWlpKcVlkV3d3cXZwbFdUdllwZDZiVDZuZGhVemNHektMQXZWVVBvSmxGaUdoem5ZemtTX3JzOWM0TEstWXNqY09LRmpSSUJoTlpJNUs0eVJTQ1lOVjZjcXlKckY3cjNRc0EyNWRVbUFXaDEwLU43SnV1MTIw?oc=5>
-
-### 特朗普总统：对伊朗谈判“逐渐失去信心”
+### 特朗普透露白宫已订购250辆凯迪拉克，网友：他根本不在乎美国人民
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-07-31 20:51
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE5hM1hEeWROTWdJOFFMS2EwN21jeGd3aXJFWE1aNFpCX3hoT2hDU25VcVQ2V1kwa0lyQldhUjRyYzlfTHJkMUt1YU01MHkyXzdPN0FXbC15cmhsaFJkMmlmN2VLb2dYenZoaVhHRFYySmxVd0ls0gF3QVVfeXFMTm1FOG9qdHJrTVFPbUY2WUViR0NZSGxhQzh1R1ppM3h6RnBnUWZET2dnMWtKUnh1SVg1cEZuVHNBMXlfOXU2NFU5YS1adGk5dHBIT010VGd6STE1ZURtS25pZDNibm0weHB0N0I3aGRuSXJlMWRWUDg?oc=5>
+- 场馆: 手机新浪网
+- 时间: 2026-07-31 22:04
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE95UVZYbjN2aEthc3dKNHA2UE56VDlKTDEwdVNVMjd6cWFXU1BsdkpxX2dHYWFEcmhma0JwXzdaQmw4bV9RQVZmNHVuOHFsVGxHNWd1dUlVS0UwYmlvdkd1MjFQYXBvbzRMQVoxYjVzTXg4bGc?oc=5>
 
-### 特朗普称正对伊朗谈判代表失去信心 中东战事恐持续
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-07-31 18:32
-- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZWxXLWJUVkJDSy0ySGl2aUZ6dnpHeEVSTzJXdmpxTUFGUWhRbC1ObFZmOE9abTNBdXNydTRNdVRoSlk3V0JJTnJ0Z2pGc0dHajcxUHlJMHc5ajhCcTdvTnBMeUQyYkl5eWVPbk5VQ2JNSlRHcTFsbmpOMFRJdFljQjFNRDVaeVBHYm50ZVUxcUZOcnNRR3NzdFVxSjh5a1pKUmhVNkdxUHFmQ2lyUVhlRzBFb1lLNU0zajYxMXQ2MGJJbDhTNHlHOWtnM0g4bW5rdFE?oc=5>
-
-### VOA今日焦点 (2026年8月1日) 特朗普总统：已达成哈马斯解除武装协议
+### 美官员称特朗普已下令对伊朗发动新一轮袭击
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-07-31 21:24
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE5XWl96YVFMUmZJaGhDMVhIRWJ4U1RSNWw2MzNUcFVfSXRnY1gzTkktUzc1VGtwZnN2ZUphQzJjLU5HMU9zUEZveE9peDVnR2tVQm1PVDNLNk5ENE9KRjE3SVIwT2NtTFdHRUp30gFuQVVfeXFMTVA1ZGZYb3ZMTG9GT3NWODU1NXBhb3FMTzFXLWNGRkZSTkgycDJyTHI2YTVSUFQ2UmxLSDExWDA3a0tiSHhhZ1FnLVlMSV9vSmprQTh1M0M0cUZTeUM2UlprTlVhczJBRS0yVEVsQWc?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-07-31 22:44
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE45SmtsSEpZZHNiNDcyUERoVWpKUFFyUExyVFN3dFhCTThxVmNYRG1kUFh2b0tqUTg2YkFmd0wzc0tpMHduZlhkUE9lMXpmSi1vZzRyX29lUG1vMFgyQjNDUkxJemFVd1NfQTM3MUV4QUM?oc=5>
+
+### 美官员称特朗普已下令对伊朗发动新一轮袭击
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-31 22:35
+- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxOWU5scUZ4UnVhMUhpdzZfM2pWd25sQUNrTVlGSDdCeWVjN3hwalhzNUFNYUt2QUtCODQwNmQ4cXV3TDQyeUktcUJ4ajhYSGZvSFpyTUt4UWw2TGt2UWhCMUh6X2JYUFljM2FYV0dpN2FkYjZ0SXhRamt6a1NDWEU0M1dWd3E3OHQtTHZqX0NXb2VUMDR4Sm1Lbg?oc=5>
+
+### 特朗普称以色列对“全面解除”哈马斯武装协议很满意
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-31 22:55
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5acFl1RFB1RTdfZzJqV0gzU2pTSURnRTRpRXd5eWpiZDdZbUs3TEpTMEZuQmdHUzZubXZFQXUzV3JmUmx3REpXcG96cExOWEtUMktKMk15R3RVOHo1TW92bXpIWU50QXRVRlNlSkk3ckpES05ZWkRiMQ?oc=5>
+
+### 特朗普否认允许乌克兰生产“爱国者”拦截弹
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 环球网
+- 时间: 2026-07-31 07:33
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE1CYVJvUnNRTURmdTBtM0dkRUluRFJLWlc5UEdFOThSTjAyODZRM3BWUzFuSmhSY2kzWHMyLUk3TGszcG9tcGlEY3ltcWlxZ284Sy00b2JhM0Y?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-07-31 23:05  (5 条)
+
+- **特朗普** | 特朗普透露白宫已订购250辆凯迪拉克，网友：他根本不在乎美国人民 <https://news.google.com/rss/articles/CBMic0FVX3lxTE95UVZYbjN2aEthc3dKNHA2UE56VDlKTDEwdVNVMjd6cWFXU1BsdkpxX2dHYWFEcmhma0JwXzdaQmw4bV9RQVZmNHVuOHFsVGxHNWd1dUlVS0UwYmlvdkd1MjFQYXBvbzRMQVoxYjVzTXg4bGc?oc=5>
+- **特朗普** | 美官员称特朗普已下令对伊朗发动新一轮袭击 <https://news.google.com/rss/articles/CBMicEFVX3lxTE45SmtsSEpZZHNiNDcyUERoVWpKUFFyUExyVFN3dFhCTThxVmNYRG1kUFh2b0tqUTg2YkFmd0wzc0tpMHduZlhkUE9lMXpmSi1vZzRyX29lUG1vMFgyQjNDUkxJemFVd1NfQTM3MUV4QUM?oc=5>
+- **特朗普** | 美官员称特朗普已下令对伊朗发动新一轮袭击 <https://news.google.com/rss/articles/CBMimAFBVV95cUxOWU5scUZ4UnVhMUhpdzZfM2pWd25sQUNrTVlGSDdCeWVjN3hwalhzNUFNYUt2QUtCODQwNmQ4cXV3TDQyeUktcUJ4ajhYSGZvSFpyTUt4UWw2TGt2UWhCMUh6X2JYUFljM2FYV0dpN2FkYjZ0SXhRamt6a1NDWEU0M1dWd3E3OHQtTHZqX0NXb2VUMDR4Sm1Lbg?oc=5>
+- **特朗普** | 特朗普称以色列对“全面解除”哈马斯武装协议很满意 <https://news.google.com/rss/articles/CBMieEFVX3lxTE5acFl1RFB1RTdfZzJqV0gzU2pTSURnRTRpRXd5eWpiZDdZbUs3TEpTMEZuQmdHUzZubXZFQXUzV3JmUmx3REpXcG96cExOWEtUMktKMk15R3RVOHo1TW92bXpIWU50QXRVRlNlSkk3ckpES05ZWkRiMQ?oc=5>
+- **特朗普** | 特朗普否认允许乌克兰生产“爱国者”拦截弹 <https://news.google.com/rss/articles/CBMiWEFVX3lxTE1CYVJvUnNRTURmdTBtM0dkRUluRFJLWlc5UEdFOThSTjAyODZRM3BWUzFuSmhSY2kzWHMyLUk3TGszcG9tcGlEY3ltcWlxZ284Sy00b2JhM0Y?oc=5>
 
 ### 2026-07-31 21:59  (4 条)
 
