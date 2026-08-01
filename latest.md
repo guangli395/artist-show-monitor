@@ -1,40 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-01 14:23**
-- 本轮扫到 8269 条, 新增 **3** 条
+- 最近更新: **2026-08-01 15:34**
+- 本轮扫到 8271 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (2 条)
 
-### 特朗普称以色列对“全面解除”哈马斯武装协议很满意
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-01 14:06
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE54V09SYWN4cFpIRzZ3YVlueUp3cnFMNDVkWUg5RzRpTFd2Rk5vNnJILWlwTFpoZUdmWlhNTl96MzB4b2ZwUlJhS1BVNWF1Z3BxODVQNVJ1NnBVcGdZT05HcDJxajZoRU5BaElJUlJ1QXZBbFR4d0V0cQ?oc=5>
-
-### 伊万卡祝贺父亲特朗普与丈夫库什纳：不懈努力终获里程碑
+### 难民危机成为特朗普的选举道具 恐惧政治再升级
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-08-01 13:23
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE9nNk5VZ3QxaENNV1B1TVlidjA3bmM0Ri1qUE1lMXd5SjN1TnRCOEpFdEtwYmkyWkM5TVFROUpSVkVoZG40WWpLR2pSNUFyanl5cVZab0VKaERqTDJZOTdSMF9VTUhqRVF6anRpdkZQMjdCUQ?oc=5>
+- 场馆: 中华网
+- 时间: 2026-08-01 14:35
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5TNWVPYUJ2UWRsQ2RnZXZwbV9UQnVuVTNxb0RuQU45cFk4N1VIRVRib1paalpmN2NpaEExUmVrVzhqcUlKeFZOOUtPQ05pUGx0enpSeXpaYlhta0laaWNkWWxzbHBLRGhRZks3cjBWMG0?oc=5>
 
-### 特朗普：尚未同意授权乌克兰生产“爱国者”拦截弹
+### 特朗普500万美元镀金雕像遭批：“不如让孩子吃饱”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-01 04:46
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE81bFo0OWQtSjBtZFdkQXYyR3Y4MjU1eElRYVdIQlVNZkZGdHlsV2RRWjc2MmMxVm05MGJGZG4zanJJdXVYcEdwQzVjSlZHVjhwM0xNY2ZkeTZ1eV9DVmpnejRCYTRlUkhub1htRDdRYVN0SDV3amhCOA?oc=5>
+- 场馆: 观察者
+- 时间: 2026-08-01 10:00
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE4xSS1uZWdyRzNwSjZXU01rZjRja2VPNTB1RTJaZUt5elNlZTRQOE5IS3hZeE5FV1F3UzZFSWp4ajQzZGU2ZHZJMmNSalJxYl9xbGpfbUFKaWdPbU0xOGxEaG9IWmRiblNQRFE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-01 15:34  (2 条)
+
+- **特朗普** | 难民危机成为特朗普的选举道具 恐惧政治再升级 <https://news.google.com/rss/articles/CBMicEFVX3lxTE5TNWVPYUJ2UWRsQ2RnZXZwbV9UQnVuVTNxb0RuQU45cFk4N1VIRVRib1paalpmN2NpaEExUmVrVzhqcUlKeFZOOUtPQ05pUGx0enpSeXpaYlhta0laaWNkWWxzbHBLRGhRZks3cjBWMG0?oc=5>
+- **特朗普** | 特朗普500万美元镀金雕像遭批：“不如让孩子吃饱” <https://news.google.com/rss/articles/CBMiakFVX3lxTE4xSS1uZWdyRzNwSjZXU01rZjRja2VPNTB1RTJaZUt5elNlZTRQOE5IS3hZeE5FV1F3UzZFSWp4ajQzZGU2ZHZJMmNSalJxYl9xbGpfbUFKaWdPbU0xOGxEaG9IWmRiblNQRFE?oc=5>
 
 ### 2026-08-01 14:23  (3 条)
 
