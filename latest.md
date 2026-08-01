@@ -1,32 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-01 15:34**
-- 本轮扫到 8271 条, 新增 **2** 条
+- 最近更新: **2026-08-01 16:53**
+- 本轮扫到 8274 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (3 条)
 
-### 难民危机成为特朗普的选举道具 恐惧政治再升级
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-08-01 14:35
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5TNWVPYUJ2UWRsQ2RnZXZwbV9UQnVuVTNxb0RuQU45cFk4N1VIRVRib1paalpmN2NpaEExUmVrVzhqcUlKeFZOOUtPQ05pUGx0enpSeXpaYlhta0laaWNkWWxzbHBLRGhRZks3cjBWMG0?oc=5>
-
-### 特朗普500万美元镀金雕像遭批：“不如让孩子吃饱”
+### 特朗普称美国尚未同意授权乌生产“爱国者”拦截弹
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-08-01 10:00
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE4xSS1uZWdyRzNwSjZXU01rZjRja2VPNTB1RTJaZUt5elNlZTRQOE5IS3hZeE5FV1F3UzZFSWp4ajQzZGU2ZHZJMmNSalJxYl9xbGpfbUFKaWdPbU0xOGxEaG9IWmRiblNQRFE?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-01 04:53
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5fLTQwVVVoNWFBUHpnbkhyQlFpTjFIRW8xTkpDSG5zWFphS0pHcl9xOTdiNnp2eFFGZ0lDTjJZSEh1THp3LS1sSVVzaDRLMnN3Zm0xb2p1clZCSHRJVnd6Sk45eGFLV1plYjJDY1pfbXpOSVpZaWtZTQ?oc=5>
+
+### 特朗普支持率跌至新低 美媒：经济问题和伊朗战事为主因
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: chinanews.com.cn
+- 时间: 2026-08-01 08:18
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9rYnpzN1doLU9sYktDWkc3MUExNV9XeU51cGhPc29vTURHTURXWlJtcTBtTmFjZXpsUThtTU5pbm5qc2JoVlN5SktIWUhLQ3dpMGxFZEZxcjU2cHpFQ3BLQzVEV0RKandm?oc=5>
+
+### Zelensky请求Trump“允许用星链空袭俄罗斯”
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: asiae.co.kr
+- 时间: 2026-08-01 07:51
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBlQ0VyaTJuX1FsZE5KaGpXSXZxQ0drQU5GSDU1b19BMzlsZ2R6TlZDM1NsbjZVd2I5Y2RIcTZtc00wY1dTSHdrOFBMeDFpcjRPT1RWVl9lTS1ITURJMnRGdHJ1eTg?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-01 16:53  (3 条)
+
+- **特朗普** | 特朗普称美国尚未同意授权乌生产“爱国者”拦截弹 <https://news.google.com/rss/articles/CBMieEFVX3lxTE5fLTQwVVVoNWFBUHpnbkhyQlFpTjFIRW8xTkpDSG5zWFphS0pHcl9xOTdiNnp2eFFGZ0lDTjJZSEh1THp3LS1sSVVzaDRLMnN3Zm0xb2p1clZCSHRJVnd6Sk45eGFLV1plYjJDY1pfbXpOSVpZaWtZTQ?oc=5>
+- **特朗普** | 特朗普支持率跌至新低 美媒：经济问题和伊朗战事为主因 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9rYnpzN1doLU9sYktDWkc3MUExNV9XeU51cGhPc29vTURHTURXWlJtcTBtTmFjZXpsUThtTU5pbm5qc2JoVlN5SktIWUhLQ3dpMGxFZEZxcjU2cHpFQ3BLQzVEV0RKandm?oc=5>
+- **Trump** | Zelensky请求Trump“允许用星链空袭俄罗斯” <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBlQ0VyaTJuX1FsZE5KaGpXSXZxQ0drQU5GSDU1b19BMzlsZ2R6TlZDM1NsbjZVd2I5Y2RIcTZtc00wY1dTSHdrOFBMeDFpcjRPT1RWVl9lTS1ITURJMnRGdHJ1eTg?oc=5>
 
 ### 2026-08-01 15:34  (2 条)
 
