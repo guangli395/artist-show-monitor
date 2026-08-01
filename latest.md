@@ -1,48 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-01 11:11**
-- 本轮扫到 8263 条, 新增 **4** 条
+- 最近更新: **2026-08-01 12:32**
+- 本轮扫到 8266 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (3 条)
 
-### 特朗普再迎来最强金主！马斯克砸钱入局，直接买到未来政策方向？
+### 特朗普最新支持率公布
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-08-01 09:39
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE05NlV2SEhxWVJadG9XdG9VT0hhN0hiWUVGaDk0cTRiNThkMzd4YkZmSVkxTDVvS3NRSEs5WHF3T25icTB3dnlQX0tYV2ZsUjA1b3JCcGQtRVJ3U2hFbi1PWGg2MlRaOU1XZDRlZ09XYjY2dw?oc=5>
+- 场馆: finance.sina.com.cn
+- 时间: 2026-08-01 11:34
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1SY1A5ZDBjVjRBblVEUGpfTU5KRjFuVEgzenhsZUQtaGU4Z3p6ZEdBcGVQd3hWSFUxT0NzUE5YbEF5SGJvcjJtQjFrQUtuUHNMOHJKalR4Y3l5RDZpT2VzQ1BUX2dHd3ZYckFoNGJQRUQwZ1NzSWNLUA?oc=5>
+
+### 美官员称特朗普已下令对伊朗发动新一轮袭击
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 东方财富
+- 时间: 2026-08-01 03:56
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jbGV4U2RGOFo5ckhDTGwzcmV1cWsyYlEtYk9Fb1BRUkxKVEhwSnFvYnNRcmFZT2p6NS1DWGdVUTR6bmpMQUl6MXJHTWxKUG5sLWlCXzc1bWVqeVI5VWNnZg?oc=5>
 
 ### 特朗普否认允许乌克兰生产“爱国者”拦截弹
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
+- 场馆: finance.sina.com.cn
 - 时间: 2026-07-31 16:23
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUFFwREVlUUZmMEVaZGZsb25DM0lDeWE0U0xsOS1yUFFQYklGLS05cldSblhNV25STzFybW82ZGJyaTl1bmNLLWp2QnV3U25YVGpkY1ZIVGM4T1RxRk80bnVqUnlDRXpaMFVqZnp5LVFJakhsSnJIUVMwWWRlVFR1dDlsZVJ5SGJOLVNEZGp3Tko5NHNtcW9KUkJFcDBuR3dCZkJZQ09JNVp0MG9zRVdIcV91bjItaUNGMUtfRlUxNzRaTUVtdWNLdWJkclBmZHJr?oc=5>
-
-### 西班牙飞地移民危机持续震动欧洲多国！特朗普发声
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 环球网
-- 时间: 2026-07-31 19:30
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE02UFpWYUxzRDFjOHhVR0JPb0lrbGVIZmo4UW01cENucHBJZUdYTUV1TG9YbEsyZU9SNFJWa0JYcFBmWnhjNmpsT1NpVUhTQ0R0YW8xUC1WZnY?oc=5>
-
-### 特朗普500万美元镀金雕像遭批：不如让孩子吃饱
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-01 10:50
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE8tQVhuTm9fMnNJVm9lSEUyRnFrZWxGNGlNSHF5dFRFdUxudlFhbl81UnFwWW83bm5YNFgwWlBoNldJSVl5NXhSZnM1aHI?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxQV3BRSWZMcS11MDI0NmJsMGpqZ3hIbElqTkRmZUQ2aXMxYjhOa3J3aUhFcGxpeUlsbGtBTnl0UTJLLTlZeXNVYW1kQmxVem5zdzRyX3lPVXBFLXVmSGxhOWNvWkRsWnFseU5SeFdqRWg2U0g2V3Q5Y1VWNVRvaDdZQy1xMHpmbS1YUTVLS0h4aVg3dERidGZJa25uSW85SUV2eEF4SU1KcDFfWUR2NFZZaU5xbGNibm5Qc3BiZ3Vfejh2YWV2enRXbERCSVlDWWdv?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-01 12:32  (3 条)
+
+- **特朗普** | 特朗普最新支持率公布 <https://news.google.com/rss/articles/CBMieEFVX3lxTE1SY1A5ZDBjVjRBblVEUGpfTU5KRjFuVEgzenhsZUQtaGU4Z3p6ZEdBcGVQd3hWSFUxT0NzUE5YbEF5SGJvcjJtQjFrQUtuUHNMOHJKalR4Y3l5RDZpT2VzQ1BUX2dHd3ZYckFoNGJQRUQwZ1NzSWNLUA?oc=5>
+- **特朗普** | 美官员称特朗普已下令对伊朗发动新一轮袭击 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jbGV4U2RGOFo5ckhDTGwzcmV1cWsyYlEtYk9Fb1BRUkxKVEhwSnFvYnNRcmFZT2p6NS1DWGdVUTR6bmpMQUl6MXJHTWxKUG5sLWlCXzc1bWVqeVI5VWNnZg?oc=5>
+- **特朗普** | 特朗普否认允许乌克兰生产“爱国者”拦截弹 <https://news.google.com/rss/articles/CBMi0AFBVV95cUxQV3BRSWZMcS11MDI0NmJsMGpqZ3hIbElqTkRmZUQ2aXMxYjhOa3J3aUhFcGxpeUlsbGtBTnl0UTJLLTlZeXNVYW1kQmxVem5zdzRyX3lPVXBFLXVmSGxhOWNvWkRsWnFseU5SeFdqRWg2U0g2V3Q5Y1VWNVRvaDdZQy1xMHpmbS1YUTVLS0h4aVg3dERidGZJa25uSW85SUV2eEF4SU1KcDFfWUR2NFZZaU5xbGNibm5Qc3BiZ3Vfejh2YWV2enRXbERCSVlDWWdv?oc=5>
 
 ### 2026-08-01 11:11  (4 条)
 
