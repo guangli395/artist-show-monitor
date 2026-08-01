@@ -1,64 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-01 09:30**
-- 本轮扫到 8259 条, 新增 **6** 条
+- 最近更新: **2026-08-01 11:11**
+- 本轮扫到 8263 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (4 条)
 
-### 特朗普宣布哈马斯解除武装，以色列未必买账
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-01 04:55
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9YOE5jNjBEanhIT3ByX1pOS0dFbmR6YWJKcFBQalpOU2pUWExoNW95aDNwS3A3azJnLTRkcF9KMU0zamVCUV9IbHJnVXI?oc=5>
-
-### 特朗普：美国并未同意乌克兰生产
+### 特朗普再迎来最强金主！马斯克砸钱入局，直接买到未来政策方向？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-31 22:32
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1BN0ZFQl9GcDktYndtN2hWYUotckNKalVtMDZ0cllBYUdVSHZza0kxM2kwNGNHQXVaZ3VrcFprajJvYjVJdVdMYm5zOXpqX0M1SWRfM0JPVE1ibGs0NVFINVQ4TXlfQm82THVpSjFGYlRudjZHb21aRg?oc=5>
+- 场馆: 手机新浪网
+- 时间: 2026-08-01 09:39
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE05NlV2SEhxWVJadG9XdG9VT0hhN0hiWUVGaDk0cTRiNThkMzd4YkZmSVkxTDVvS3NRSEs5WHF3T25icTB3dnlQX0tYV2ZsUjA1b3JCcGQtRVJ3U2hFbi1PWGg2MlRaOU1XZDRlZ09XYjY2dw?oc=5>
 
-### 特朗普第二任期支持率跌至最低点
+### 特朗普否认允许乌克兰生产“爱国者”拦截弹
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-08-01 02:34
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE80NHloQ05EdXo2QS16elE2WnFBTlNYRXAtODVIeWRqVzdmeDdmd0Y3eHVzdmg4OHJIb3FaZzNFbnBCNXFIUEpaVmpqM0gwSExUdGNmS0Z2eE50Yi1KR2E3cWlUUnpqTWZrVkNXdEVkanRKaE1GREZUdg?oc=5>
+- 时间: 2026-07-31 16:23
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUFFwREVlUUZmMEVaZGZsb25DM0lDeWE0U0xsOS1yUFFQYklGLS05cldSblhNV25STzFybW82ZGJyaTl1bmNLLWp2QnV3U25YVGpkY1ZIVGM4T1RxRk80bnVqUnlDRXpaMFVqZnp5LVFJakhsSnJIUVMwWWRlVFR1dDlsZVJ5SGJOLVNEZGp3Tko5NHNtcW9KUkJFcDBuR3dCZkJZQ09JNVp0MG9zRVdIcV91bjItaUNGMUtfRlUxNzRaTUVtdWNLdWJkclBmZHJr?oc=5>
 
-### 特朗普支持率跌至新低 美媒：经济问题和伊朗战事为主因
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: Sohu
-- 时间: 2026-08-01 08:31
-- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVjNfYzZfb2kzUlM3TXB5aXJyQ3FXSWlad1ZYNkR4b3dyM01PemtObl93WFRLckJCM1M2ak9oUWh0Q0J3akFfc3g1dkJFUVVVYmwtSzJzWUFmZUhOZWxBNFBJaXRNTFBWVWdqYVhqRkh5dy1ZbEhFaVd6ZzUtMGI1ZkU3Q2lUcVEt?oc=5>
-
-### 最新民调：超七成美国人指责特朗普施政偏离核心议题
+### 西班牙飞地移民危机持续震动欧洲多国！特朗普发声
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-07-30 01:19
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1PZzFIMXlvVUwxVkd5RzFrRzRjWkhjMGZ0TUU0NXNPMkYzYU1ydWNPQ2JES3VGRHJUcFlYNUl2ZXZCOTh5TUczNVFqSFFxN18zM3pYb0VZM0JXbXJHTEpoWHJHTEZnQQ?oc=5>
+- 场馆: 环球网
+- 时间: 2026-07-31 19:30
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE02UFpWYUxzRDFjOHhVR0JPb0lrbGVIZmo4UW01cENucHBJZUdYTUV1TG9YbEsyZU9SNFJWa0JYcFBmWnhjNmpsT1NpVUhTQ0R0YW8xUC1WZnY?oc=5>
 
-### 特朗普模拟美军拦截伊朗导弹过程，英媒：幼稚
+### 特朗普500万美元镀金雕像遭批：不如让孩子吃饱
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-08-01 08:59
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5DX0tsaHVMa2c1ZmhWNDhZRUtXYzNEODlrWlFyTExQbVVFd3hGSnZ3bFd5cTFqbTMwM0g4a3hlZU5fNzlybk9HQ1hpdEs?oc=5>
+- 时间: 2026-08-01 10:50
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE8tQVhuTm9fMnNJVm9lSEUyRnFrZWxGNGlNSHF5dFRFdUxudlFhbl81UnFwWW83bm5YNFgwWlBoNldJSVl5NXhSZnM1aHI?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-01 11:11  (4 条)
+
+- **特朗普** | 特朗普再迎来最强金主！马斯克砸钱入局，直接买到未来政策方向？ <https://news.google.com/rss/articles/CBMickFVX3lxTE05NlV2SEhxWVJadG9XdG9VT0hhN0hiWUVGaDk0cTRiNThkMzd4YkZmSVkxTDVvS3NRSEs5WHF3T25icTB3dnlQX0tYV2ZsUjA1b3JCcGQtRVJ3U2hFbi1PWGg2MlRaOU1XZDRlZ09XYjY2dw?oc=5>
+- **特朗普** | 特朗普否认允许乌克兰生产“爱国者”拦截弹 <https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUFFwREVlUUZmMEVaZGZsb25DM0lDeWE0U0xsOS1yUFFQYklGLS05cldSblhNV25STzFybW82ZGJyaTl1bmNLLWp2QnV3U25YVGpkY1ZIVGM4T1RxRk80bnVqUnlDRXpaMFVqZnp5LVFJakhsSnJIUVMwWWRlVFR1dDlsZVJ5SGJOLVNEZGp3Tko5NHNtcW9KUkJFcDBuR3dCZkJZQ09JNVp0MG9zRVdIcV91bjItaUNGMUtfRlUxNzRaTUVtdWNLdWJkclBmZHJr?oc=5>
+- **特朗普** | 西班牙飞地移民危机持续震动欧洲多国！特朗普发声 <https://news.google.com/rss/articles/CBMiWEFVX3lxTE02UFpWYUxzRDFjOHhVR0JPb0lrbGVIZmo4UW01cENucHBJZUdYTUV1TG9YbEsyZU9SNFJWa0JYcFBmWnhjNmpsT1NpVUhTQ0R0YW8xUC1WZnY?oc=5>
+- **特朗普** | 特朗普500万美元镀金雕像遭批：不如让孩子吃饱 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE8tQVhuTm9fMnNJVm9lSEUyRnFrZWxGNGlNSHF5dFRFdUxudlFhbl81UnFwWW83bm5YNFgwWlBoNldJSVl5NXhSZnM1aHI?oc=5>
 
 ### 2026-08-01 09:30  (6 条)
 
