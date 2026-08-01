@@ -1,56 +1,73 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-07-31 23:05**
-- 本轮扫到 8234 条, 新增 **5** 条
+- 最近更新: **2026-08-01 01:02**
+- 本轮扫到 8240 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (6 条)
 
-### 特朗普透露白宫已订购250辆凯迪拉克，网友：他根本不在乎美国人民
+### “美国之音”要有新老板，会怎样针对中国？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-07-31 22:04
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE95UVZYbjN2aEthc3dKNHA2UE56VDlKTDEwdVNVMjd6cWFXU1BsdkpxX2dHYWFEcmhma0JwXzdaQmw4bV9RQVZmNHVuOHFsVGxHNWd1dUlVS0UwYmlvdkd1MjFQYXBvbzRMQVoxYjVzTXg4bGc?oc=5>
+- 场馆: 观察者
+- 时间: 2026-07-31 23:08
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnN3docEdDZmtzYW5pYzNlV2pKT2JKbDNxb2VwOVI1UWxKN01UcDVxa19aNHpHZXByQ0ozSHRtQng1blFuTDlHX1hLYkNXS0ZrOVBRckdQUzlpZkNMTkJWN0E2cEk?oc=5>
 
 ### 美官员称特朗普已下令对伊朗发动新一轮袭击
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-07-31 22:44
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE45SmtsSEpZZHNiNDcyUERoVWpKUFFyUExyVFN3dFhCTThxVmNYRG1kUFh2b0tqUTg2YkFmd0wzc0tpMHduZlhkUE9lMXpmSi1vZzRyX29lUG1vMFgyQjNDUkxJemFVd1NfQTM3MUV4QUM?oc=5>
+- 场馆: 央视网
+- 时间: 2026-07-31 22:34
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBpWmNPdzl1czA4bVhnNDhNZTlpWFBkZzNHZXdZaUVzZWs4NVEyVXRIOFNKNTV6dUo0bExTU1JHT3hhY3oyZ04yQlVkTktkZkljdVh2bld2bm94ZDBZYkxVblZFaFJ2ZW5lZ2tWV3BwNWhzM1M4N012WA?oc=5>
 
-### 美官员称特朗普已下令对伊朗发动新一轮袭击
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-07-31 22:35
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxOWU5scUZ4UnVhMUhpdzZfM2pWd25sQUNrTVlGSDdCeWVjN3hwalhzNUFNYUt2QUtCODQwNmQ4cXV3TDQyeUktcUJ4ajhYSGZvSFpyTUt4UWw2TGt2UWhCMUh6X2JYUFljM2FYV0dpN2FkYjZ0SXhRamt6a1NDWEU0M1dWd3E3OHQtTHZqX0NXb2VUMDR4Sm1Lbg?oc=5>
-
-### 特朗普称以色列对“全面解除”哈马斯武装协议很满意
+### 伊朗警告打击美以能源基础设施
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-07-31 22:55
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5acFl1RFB1RTdfZzJqV0gzU2pTSURnRTRpRXd5eWpiZDdZbUs3TEpTMEZuQmdHUzZubXZFQXUzV3JmUmx3REpXcG96cExOWEtUMktKMk15R3RVOHo1TW92bXpIWU50QXRVRlNlSkk3ckpES05ZWkRiMQ?oc=5>
+- 时间: 2026-08-01 00:00
+- 链接: <https://news.google.com/rss/articles/CBMi_AFBVV95cUxQV3BtMnB6N0l6c2dVbmJFZEhZWnd4V1NzYWJSdmlJTEpXeXk5RV9xT2NaS3l2MWRDdzZLaHpsX0F5QlY4QTBubW81YmFzWnVES2djVmhPNVl3OHpWQTlZbzRvUWxlTmVJdmFib3pBWXNCbUFJMFMwd3Y0Ym0zU3dkX0ZBcVFXakF4U2JTWHhkQzcwZWlSVUpuQmdkZ0xPRGRpb08wM212QnNCNmUtc21lWVN4S3RVSmNiSENkcUcyMG1hRk5LZG81Q0ZDOVlFaF9KQ0d4RXpTYnk4S2NBd0pEcDlyeGZLTnNtY0FkS05zN3FKbGFhLUNFeFZIN0M?oc=5>
 
-### 特朗普否认允许乌克兰生产“爱国者”拦截弹
+### 消息：特朗普政府考虑向留美毕业生收费10万美元
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 环球网
-- 时间: 2026-07-31 07:33
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE1CYVJvUnNRTURmdTBtM0dkRUluRFJLWlc5UEdFOThSTjAyODZRM3BWUzFuSmhSY2kzWHMyLUk3TGszcG9tcGlEY3ltcWlxZ284Sy00b2JhM0Y?oc=5>
+- 场馆: 联合早报
+- 时间: 2026-07-31 07:56
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5tYnFVUTdSb05WWGVSelV4dTlfWlZpVWFmRFJLTHYxSnBCN2llQ2NOX1hmaEZ4Ym1obzRwem1IenhHd04wXzl2UGxPczNyZ1oyYWtzaUJiR0twUlBxbEVtLVBpX0M4UQ?oc=5>
+
+### 特朗普总统称已达成让哈马斯解除武装的协议，该恐怖组织予以证实，以色列保持沉默
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-07-31 16:57
+- 链接: <https://news.google.com/rss/articles/CBMi4gFBVV95cUxPekh0NGV4YnVCV3daSjRNcjk5N1g5b2lfMFk3OVpwNVNfUUc3SUhzcXlFWFR0bWZqTHNhb1VmbDNCUGcweTB1VUh2M2VMQlp5dnd4a0xFc1JzQ1VPSC0wSE5fU0ZsU2Z4MmZCd0FRaVpaVFhVTEU4aHpVN2pzMWx6LXh6SFVmZzF6SDZ5S3NsOS1oN18zQi1qakhTX1EyWk8xUXBPNUdOaE5MRVA3eDd6MHB0NnY2WjVXcGVaRnozamJjTklWV3F2dS1NbkxCQURMYjFTN0R1WXBCWVFlZC1pYjlB0gHiAUFVX3lxTE96SHQ0ZXhidUJXd1pKNE1yOTk3WDlvaV8wWTc5WnA1U19RRzdJSHNxeUVYVHRtZmpMc2FvVWZsM0JQZzB5MHVVSHYzZUxCWnl2d3hrTEVzUnNDVU9ILTBITl9TRmxTZngyZkJ3QVFpWlpUWFVMRThoelU3anMxbHoteHpIVWZnMXpINnlLc2w5LWg3XzNCLWpqSFNfUTJaTzFRcE81R05oTkxFUDd4N3owcHQ2djZaNVdwZVpGejNqYmNOSVZXcXZ1LU1uTEJBRExiMVM3RHVZcEJZUWVkLWliOUE?oc=5>
+
+### 特朗普下令对伊朗发动新一轮袭击
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: cn.wsj.com
+- 时间: 2026-08-01 00:18
+- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdVNwc2tsQ3g3SlBSQWlkd2JSWmtZNkFYY0hwVFJocjd5N2ZTOVZ5ZUFNalpieWhlR01ESGNsMFZScFRia05UNmROblFZbjZCSUNkeTFpRG9FcTFpYmZkcjJkRERxWWNWRUUxZHc3MUdjTVJLVmRfaFdkaWJYYU9aczVhWkVNX3FrWGJR?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-01 01:02  (6 条)
+
+- **特朗普** | “美国之音”要有新老板，会怎样针对中国？ <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnN3docEdDZmtzYW5pYzNlV2pKT2JKbDNxb2VwOVI1UWxKN01UcDVxa19aNHpHZXByQ0ozSHRtQng1blFuTDlHX1hLYkNXS0ZrOVBRckdQUzlpZkNMTkJWN0E2cEk?oc=5>
+- **特朗普** | 美官员称特朗普已下令对伊朗发动新一轮袭击 <https://news.google.com/rss/articles/CBMieEFVX3lxTFBpWmNPdzl1czA4bVhnNDhNZTlpWFBkZzNHZXdZaUVzZWs4NVEyVXRIOFNKNTV6dUo0bExTU1JHT3hhY3oyZ04yQlVkTktkZkljdVh2bld2bm94ZDBZYkxVblZFaFJ2ZW5lZ2tWV3BwNWhzM1M4N012WA?oc=5>
+- **特朗普** | 伊朗警告打击美以能源基础设施 <https://news.google.com/rss/articles/CBMi_AFBVV95cUxQV3BtMnB6N0l6c2dVbmJFZEhZWnd4V1NzYWJSdmlJTEpXeXk5RV9xT2NaS3l2MWRDdzZLaHpsX0F5QlY4QTBubW81YmFzWnVES2djVmhPNVl3OHpWQTlZbzRvUWxlTmVJdmFib3pBWXNCbUFJMFMwd3Y0Ym0zU3dkX0ZBcVFXakF4U2JTWHhkQzcwZWlSVUpuQmdkZ0xPRGRpb08wM212QnNCNmUtc21lWVN4S3RVSmNiSENkcUcyMG1hRk5LZG81Q0ZDOVlFaF9KQ0d4RXpTYnk4S2NBd0pEcDlyeGZLTnNtY0FkS05zN3FKbGFhLUNFeFZIN0M?oc=5>
+- **特朗普** | 消息：特朗普政府考虑向留美毕业生收费10万美元 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5tYnFVUTdSb05WWGVSelV4dTlfWlZpVWFmRFJLTHYxSnBCN2llQ2NOX1hmaEZ4Ym1obzRwem1IenhHd04wXzl2UGxPczNyZ1oyYWtzaUJiR0twUlBxbEVtLVBpX0M4UQ?oc=5>
+- **特朗普** | 特朗普总统称已达成让哈马斯解除武装的协议，该恐怖组织予以证实，以色列保持沉默 <https://news.google.com/rss/articles/CBMi4gFBVV95cUxPekh0NGV4YnVCV3daSjRNcjk5N1g5b2lfMFk3OVpwNVNfUUc3SUhzcXlFWFR0bWZqTHNhb1VmbDNCUGcweTB1VUh2M2VMQlp5dnd4a0xFc1JzQ1VPSC0wSE5fU0ZsU2Z4MmZCd0FRaVpaVFhVTEU4aHpVN2pzMWx6LXh6SFVmZzF6SDZ5S3NsOS1oN18zQi1qakhTX1EyWk8xUXBPNUdOaE5MRVA3eDd6MHB0NnY2WjVXcGVaRnozamJjTklWV3F2dS1NbkxCQURMYjFTN0R1WXBCWVFlZC1pYjlB0gHiAUFVX3lxTE96SHQ0ZXhidUJXd1pKNE1yOTk3WDlvaV8wWTc5WnA1U19RRzdJSHNxeUVYVHRtZmpMc2FvVWZsM0JQZzB5MHVVSHYzZUxCWnl2d3hrTEVzUnNDVU9ILTBITl9TRmxTZngyZkJ3QVFpWlpUWFVMRThoelU3anMxbHoteHpIVWZnMXpINnlLc2w5LWg3XzNCLWpqSFNfUTJaTzFRcE81R05oTkxFUDd4N3owcHQ2djZaNVdwZVpGejNqYmNOSVZXcXZ1LU1uTEJBRExiMVM3RHVZcEJZUWVkLWliOUE?oc=5>
+- **Trump** | 特朗普下令对伊朗发动新一轮袭击 <https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdVNwc2tsQ3g3SlBSQWlkd2JSWmtZNkFYY0hwVFJocjd5N2ZTOVZ5ZUFNalpieWhlR01ESGNsMFZScFRia05UNmROblFZbjZCSUNkeTFpRG9FcTFpYmZkcjJkRERxWWNWRUUxZHc3MUdjTVJLVmRfaFdkaWJYYU9aczVhWkVNX3FrWGJR?oc=5>
 
 ### 2026-07-31 23:05  (5 条)
 
