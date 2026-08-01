@@ -1,40 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-01 12:32**
-- 本轮扫到 8266 条, 新增 **3** 条
+- 最近更新: **2026-08-01 14:23**
+- 本轮扫到 8269 条, 新增 **3** 条
 
 ---
 
 ## 本轮新发现 (3 条)
 
-### 特朗普最新支持率公布
+### 特朗普称以色列对“全面解除”哈马斯武装协议很满意
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-08-01 11:34
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1SY1A5ZDBjVjRBblVEUGpfTU5KRjFuVEgzenhsZUQtaGU4Z3p6ZEdBcGVQd3hWSFUxT0NzUE5YbEF5SGJvcjJtQjFrQUtuUHNMOHJKalR4Y3l5RDZpT2VzQ1BUX2dHd3ZYckFoNGJQRUQwZ1NzSWNLUA?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-01 14:06
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE54V09SYWN4cFpIRzZ3YVlueUp3cnFMNDVkWUg5RzRpTFd2Rk5vNnJILWlwTFpoZUdmWlhNTl96MzB4b2ZwUlJhS1BVNWF1Z3BxODVQNVJ1NnBVcGdZT05HcDJxajZoRU5BaElJUlJ1QXZBbFR4d0V0cQ?oc=5>
 
-### 美官员称特朗普已下令对伊朗发动新一轮袭击
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-08-01 03:56
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jbGV4U2RGOFo5ckhDTGwzcmV1cWsyYlEtYk9Fb1BRUkxKVEhwSnFvYnNRcmFZT2p6NS1DWGdVUTR6bmpMQUl6MXJHTWxKUG5sLWlCXzc1bWVqeVI5VWNnZg?oc=5>
-
-### 特朗普否认允许乌克兰生产“爱国者”拦截弹
+### 伊万卡祝贺父亲特朗普与丈夫库什纳：不懈努力终获里程碑
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-07-31 16:23
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxQV3BRSWZMcS11MDI0NmJsMGpqZ3hIbElqTkRmZUQ2aXMxYjhOa3J3aUhFcGxpeUlsbGtBTnl0UTJLLTlZeXNVYW1kQmxVem5zdzRyX3lPVXBFLXVmSGxhOWNvWkRsWnFseU5SeFdqRWg2U0g2V3Q5Y1VWNVRvaDdZQy1xMHpmbS1YUTVLS0h4aVg3dERidGZJa25uSW85SUV2eEF4SU1KcDFfWUR2NFZZaU5xbGNibm5Qc3BiZ3Vfejh2YWV2enRXbERCSVlDWWdv?oc=5>
+- 场馆: 手机新浪网
+- 时间: 2026-08-01 13:23
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE9nNk5VZ3QxaENNV1B1TVlidjA3bmM0Ri1qUE1lMXd5SjN1TnRCOEpFdEtwYmkyWkM5TVFROUpSVkVoZG40WWpLR2pSNUFyanl5cVZab0VKaERqTDJZOTdSMF9VTUhqRVF6anRpdkZQMjdCUQ?oc=5>
+
+### 特朗普：尚未同意授权乌克兰生产“爱国者”拦截弹
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-01 04:46
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE81bFo0OWQtSjBtZFdkQXYyR3Y4MjU1eElRYVdIQlVNZkZGdHlsV2RRWjc2MmMxVm05MGJGZG4zanJJdXVYcEdwQzVjSlZHVjhwM0xNY2ZkeTZ1eV9DVmpnejRCYTRlUkhub1htRDdRYVN0SDV3amhCOA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-01 14:23  (3 条)
+
+- **特朗普** | 特朗普称以色列对“全面解除”哈马斯武装协议很满意 <https://news.google.com/rss/articles/CBMieEFVX3lxTE54V09SYWN4cFpIRzZ3YVlueUp3cnFMNDVkWUg5RzRpTFd2Rk5vNnJILWlwTFpoZUdmWlhNTl96MzB4b2ZwUlJhS1BVNWF1Z3BxODVQNVJ1NnBVcGdZT05HcDJxajZoRU5BaElJUlJ1QXZBbFR4d0V0cQ?oc=5>
+- **特朗普** | 伊万卡祝贺父亲特朗普与丈夫库什纳：不懈努力终获里程碑 <https://news.google.com/rss/articles/CBMickFVX3lxTE9nNk5VZ3QxaENNV1B1TVlidjA3bmM0Ri1qUE1lMXd5SjN1TnRCOEpFdEtwYmkyWkM5TVFROUpSVkVoZG40WWpLR2pSNUFyanl5cVZab0VKaERqTDJZOTdSMF9VTUhqRVF6anRpdkZQMjdCUQ?oc=5>
+- **特朗普** | 特朗普：尚未同意授权乌克兰生产“爱国者”拦截弹 <https://news.google.com/rss/articles/CBMieEFVX3lxTE81bFo0OWQtSjBtZFdkQXYyR3Y4MjU1eElRYVdIQlVNZkZGdHlsV2RRWjc2MmMxVm05MGJGZG4zanJJdXVYcEdwQzVjSlZHVjhwM0xNY2ZkeTZ1eV9DVmpnejRCYTRlUkhub1htRDdRYVN0SDV3amhCOA?oc=5>
 
 ### 2026-08-01 12:32  (3 条)
 
