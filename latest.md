@@ -1,14 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-01 20:24**
-- 本轮扫到 8290 条, 新增 **0** 条
+- 最近更新: **2026-08-01 21:23**
+- 本轮扫到 8292 条, 新增 **2** 条
 
 ---
 
-## 本轮无新增
+## 本轮新发现 (2 条)
 
-数据库里所有演出/动态都已见过,暂无新增。
+### 特朗普突然旧事重提，“我们能从乌克兰拿走所有想要的”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者网
+- 时间: 2026-08-01 14:29
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9fQnNUekFyNjFianAtcUR2WllBWUZfc0hEdVhFZWt0azRScFY5VXR0UzlZOTdkc1BBbjVBYXhkbnFEVGUtMEd3LWctWmQ0d0lvSkU3MnNsbmphelJDeC0zNXUwSF9uSW56Nnc?oc=5>
+
+### 周文龙：解构特朗普“Pro Max版”商业帝国
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-08-01 21:00
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5QekNKTU5YUTB3VDVOaFhHQjdaZU9GZlZGUzh0cjhHY2JqM1h1azZSUXhJR0FtZFNZX0J3WjBGTlFTNFNTRWZSaFk1MzdxWVMycV9FdC1HX3pKLWx4MVI3M1hOakdmVlQwWkltQ0NSQTdGQlE?oc=5>
+
+
+---
+
 ## 历史发现
+
+### 2026-08-01 21:23  (2 条)
+
+- **特朗普** | 特朗普突然旧事重提，“我们能从乌克兰拿走所有想要的” <https://news.google.com/rss/articles/CBMiakFVX3lxTE9fQnNUekFyNjFianAtcUR2WllBWUZfc0hEdVhFZWt0azRScFY5VXR0UzlZOTdkc1BBbjVBYXhkbnFEVGUtMEd3LWctWmQ0d0lvSkU3MnNsbmphelJDeC0zNXUwSF9uSW56Nnc?oc=5>
+- **Trump** | 周文龙：解构特朗普“Pro Max版”商业帝国 <https://news.google.com/rss/articles/CBMic0FVX3lxTE5QekNKTU5YUTB3VDVOaFhHQjdaZU9GZlZGUzh0cjhHY2JqM1h1azZSUXhJR0FtZFNZX0J3WjBGTlFTNFNTRWZSaFk1MzdxWVMycV9FdC1HX3pKLWx4MVI3M1hOakdmVlQwWkltQ0NSQTdGQlE?oc=5>
 
 ### 2026-08-01 19:03  (7 条)
 
