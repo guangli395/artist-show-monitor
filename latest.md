@@ -1,64 +1,91 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-01 01:02**
-- 本轮扫到 8240 条, 新增 **6** 条
+- 最近更新: **2026-08-01 04:47**
+- 本轮扫到 8248 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (8 条)
 
-### “美国之音”要有新老板，会怎样针对中国？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-07-31 23:08
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnN3docEdDZmtzYW5pYzNlV2pKT2JKbDNxb2VwOVI1UWxKN01UcDVxa19aNHpHZXByQ0ozSHRtQng1blFuTDlHX1hLYkNXS0ZrOVBRckdQUzlpZkNMTkJWN0E2cEk?oc=5>
-
-### 美官员称特朗普已下令对伊朗发动新一轮袭击
+### 捆绑美国总统特朗普不是护身符，因凡蒂诺宣布放弃世界杯股权出售计划
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 央视网
-- 时间: 2026-07-31 22:34
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBpWmNPdzl1czA4bVhnNDhNZTlpWFBkZzNHZXdZaUVzZWs4NVEyVXRIOFNKNTV6dUo0bExTU1JHT3hhY3oyZ04yQlVkTktkZkljdVh2bld2bm94ZDBZYkxVblZFaFJ2ZW5lZ2tWV3BwNWhzM1M4N012WA?oc=5>
+- 场馆: finance.sina.com.cn
+- 时间: 2026-08-01 00:57
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5pYUlNZlBwZjNNTXdiQ0REVDdJQ2YyOEdLdkRXcDBseXZEZWNMdTN4QWlIV1JFb3NhY1RvbVBrRnljdHZkN0NXN09xTU5yVmEwcVhEdm03SS01d1U5XzFlZTMxcVh1Z2RtQ0VrTmlzVnd5czljSkdXbQ?oc=5>
 
-### 伊朗警告打击美以能源基础设施
+### 同意乌克兰生产“爱国者”拦截弹？特朗普否认
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: guancha.cn
+- 时间: 2026-07-31 23:06
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE42a0M4V1lIclJUakhYcXFvU0JjTV8yVFZ2WC1RU2ZmbGg0MFBwenJDbWd4b1Q4XzN2cTdHQ1E4ak9ZZmEzY2VKdl9PbXl6MUJ6amJZZm41SmRRUWNfSWx3X3dHci1yS0tQTUE?oc=5>
+
+### 特朗普否认允许乌克兰生产“爱国者”拦截弹
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-08-01 00:00
-- 链接: <https://news.google.com/rss/articles/CBMi_AFBVV95cUxQV3BtMnB6N0l6c2dVbmJFZEhZWnd4V1NzYWJSdmlJTEpXeXk5RV9xT2NaS3l2MWRDdzZLaHpsX0F5QlY4QTBubW81YmFzWnVES2djVmhPNVl3OHpWQTlZbzRvUWxlTmVJdmFib3pBWXNCbUFJMFMwd3Y0Ym0zU3dkX0ZBcVFXakF4U2JTWHhkQzcwZWlSVUpuQmdkZ0xPRGRpb08wM212QnNCNmUtc21lWVN4S3RVSmNiSENkcUcyMG1hRk5LZG81Q0ZDOVlFaF9KQ0d4RXpTYnk4S2NBd0pEcDlyeGZLTnNtY0FkS05zN3FKbGFhLUNFeFZIN0M?oc=5>
+- 时间: 2026-07-31 23:33
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9JdGpvNlhxMFFGMmpuYmpSNnFzaVVoZEN4a2FDbEVhb2pTZkFIZVEzQnc1TFl2Y0FWR1pVcDBpWXN0WnJvMXRsX3F4YVZyYTVERWtwekVoYl9zZ1I1bjREV1pmOU41TFJrdzNCMklRZ2J6N21vd1ZrUQ?oc=5>
 
-### 消息：特朗普政府考虑向留美毕业生收费10万美元
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-07-31 07:56
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5tYnFVUTdSb05WWGVSelV4dTlfWlZpVWFmRFJLTHYxSnBCN2llQ2NOX1hmaEZ4Ym1obzRwem1IenhHd04wXzl2UGxPczNyZ1oyYWtzaUJiR0twUlBxbEVtLVBpX0M4UQ?oc=5>
-
-### 特朗普总统称已达成让哈马斯解除武装的协议，该恐怖组织予以证实，以色列保持沉默
+### 特朗普谈美乌稀土金属协议：美国可“拿走几乎所有想要的东西”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-07-31 16:57
-- 链接: <https://news.google.com/rss/articles/CBMi4gFBVV95cUxPekh0NGV4YnVCV3daSjRNcjk5N1g5b2lfMFk3OVpwNVNfUUc3SUhzcXlFWFR0bWZqTHNhb1VmbDNCUGcweTB1VUh2M2VMQlp5dnd4a0xFc1JzQ1VPSC0wSE5fU0ZsU2Z4MmZCd0FRaVpaVFhVTEU4aHpVN2pzMWx6LXh6SFVmZzF6SDZ5S3NsOS1oN18zQi1qakhTX1EyWk8xUXBPNUdOaE5MRVA3eDd6MHB0NnY2WjVXcGVaRnozamJjTklWV3F2dS1NbkxCQURMYjFTN0R1WXBCWVFlZC1pYjlB0gHiAUFVX3lxTE96SHQ0ZXhidUJXd1pKNE1yOTk3WDlvaV8wWTc5WnA1U19RRzdJSHNxeUVYVHRtZmpMc2FvVWZsM0JQZzB5MHVVSHYzZUxCWnl2d3hrTEVzUnNDVU9ILTBITl9TRmxTZngyZkJ3QVFpWlpUWFVMRThoelU3anMxbHoteHpIVWZnMXpINnlLc2w5LWg3XzNCLWpqSFNfUTJaTzFRcE81R05oTkxFUDd4N3owcHQ2djZaNVdwZVpGejNqYmNOSVZXcXZ1LU1uTEJBRExiMVM3RHVZcEJZUWVkLWliOUE?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-08-01 03:37
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBBN1FBSFY3VTYwVjk5TEVtNTQxQVphM3lucHZaZ0tEUGhzcXVfSG1UcWJJS2xRczNNMW5ZRWViU3dmaVo1MVBwM2N0cnpWRjhpOFhKV2xuWUppWTZJVnFEZmlxNWhIeVdpMTJVMllXVkU?oc=5>
 
-### 特朗普下令对伊朗发动新一轮袭击
+### 特朗普宣布“历史性协议”，以色列迅速泼冷水
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: cn.wsj.com
-- 时间: 2026-08-01 00:18
-- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdVNwc2tsQ3g3SlBSQWlkd2JSWmtZNkFYY0hwVFJocjd5N2ZTOVZ5ZUFNalpieWhlR01ESGNsMFZScFRia05UNmROblFZbjZCSUNkeTFpRG9FcTFpYmZkcjJkRERxWWNWRUUxZHc3MUdjTVJLVmRfaFdkaWJYYU9aczVhWkVNX3FrWGJR?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-01 03:10
+- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUEluVVU3M0xFWnBLeGZFZkU2WGMzdGRjRk0tdE9kT0RwZGNpS1RjaEk0Zk94TUctakozNUNNajlQZWFJRmVnS090dnNWTklMdDlVMEdQTUkwcXExUF9ZcnEzaGtKVU43dTY4LXJMUWNyTng1b2U4ZVNma2t4OF82U2ZSRHdVTXRId01v?oc=5>
+
+### 从“与特朗普翻脸”到“重返共和党阵营”：马斯克的2.6亿政治赌局
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 手机新浪网
+- 时间: 2026-08-01 03:28
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFBUajByUkNqTnVlYld6eF9pSC1wTUVaZDNCRDVLTVBCUC1uOHVnNmVud1FyTFFsZVNXWGxvVE1CS1lQalJJVXdmUW0tYm9WVUVWd0dCcWZ2M3ZKeXdlSEctUkVYYlllN0xUQlBaUVZveDRldw?oc=5>
+
+### 美官员称特朗普已下令对伊朗发动新袭击：可能本周末启动
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-01 03:48
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFA5TGpIRHdTS2d3QnR6dU1SV0gzdFVYUE1SRGVUaFF5ZFJmU05LQW5XQUlGOEdJSzk2MXBLSU54ZEkzcERWN2c0MFVrOGludjZialVzSXFTa3NIaFpMdW1tZi1CSnUtSlBnMDIzZ201YXdDVVJRY2oyRA?oc=5>
+
+### 特朗普：美国试图解散国际刑事法院，是为“保护内塔尼亚胡”而不是我
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 环球网
+- 时间: 2026-07-31 10:30
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE5CTUhmMU0tbHdwRmozX0lRemZVX3JqXzFxdFVOcTRPTXVwek9Fdlc3aDRXY3VKY09YUndmWGQ3d053eG8yRW40M0g1Y3lSWFhFYW14Um5hajc?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-01 04:47  (8 条)
+
+- **特朗普** | 捆绑美国总统特朗普不是护身符，因凡蒂诺宣布放弃世界杯股权出售计划 <https://news.google.com/rss/articles/CBMieEFVX3lxTE5pYUlNZlBwZjNNTXdiQ0REVDdJQ2YyOEdLdkRXcDBseXZEZWNMdTN4QWlIV1JFb3NhY1RvbVBrRnljdHZkN0NXN09xTU5yVmEwcVhEdm03SS01d1U5XzFlZTMxcVh1Z2RtQ0VrTmlzVnd5czljSkdXbQ?oc=5>
+- **特朗普** | 同意乌克兰生产“爱国者”拦截弹？特朗普否认 <https://news.google.com/rss/articles/CBMiakFVX3lxTE42a0M4V1lIclJUakhYcXFvU0JjTV8yVFZ2WC1RU2ZmbGg0MFBwenJDbWd4b1Q4XzN2cTdHQ1E4ak9ZZmEzY2VKdl9PbXl6MUJ6amJZZm41SmRRUWNfSWx3X3dHci1yS0tQTUE?oc=5>
+- **特朗普** | 特朗普否认允许乌克兰生产“爱国者”拦截弹 <https://news.google.com/rss/articles/CBMieEFVX3lxTE9JdGpvNlhxMFFGMmpuYmpSNnFzaVVoZEN4a2FDbEVhb2pTZkFIZVEzQnc1TFl2Y0FWR1pVcDBpWXN0WnJvMXRsX3F4YVZyYTVERWtwekVoYl9zZ1I1bjREV1pmOU41TFJrdzNCMklRZ2J6N21vd1ZrUQ?oc=5>
+- **特朗普** | 特朗普谈美乌稀土金属协议：美国可“拿走几乎所有想要的东西” <https://news.google.com/rss/articles/CBMicEFVX3lxTFBBN1FBSFY3VTYwVjk5TEVtNTQxQVphM3lucHZaZ0tEUGhzcXVfSG1UcWJJS2xRczNNMW5ZRWViU3dmaVo1MVBwM2N0cnpWRjhpOFhKV2xuWUppWTZJVnFEZmlxNWhIeVdpMTJVMllXVkU?oc=5>
+- **特朗普** | 特朗普宣布“历史性协议”，以色列迅速泼冷水 <https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUEluVVU3M0xFWnBLeGZFZkU2WGMzdGRjRk0tdE9kT0RwZGNpS1RjaEk0Zk94TUctakozNUNNajlQZWFJRmVnS090dnNWTklMdDlVMEdQTUkwcXExUF9ZcnEzaGtKVU43dTY4LXJMUWNyTng1b2U4ZVNma2t4OF82U2ZSRHdVTXRId01v?oc=5>
+- **特朗普** | 从“与特朗普翻脸”到“重返共和党阵营”：马斯克的2.6亿政治赌局 <https://news.google.com/rss/articles/CBMickFVX3lxTFBUajByUkNqTnVlYld6eF9pSC1wTUVaZDNCRDVLTVBCUC1uOHVnNmVud1FyTFFsZVNXWGxvVE1CS1lQalJJVXdmUW0tYm9WVUVWd0dCcWZ2M3ZKeXdlSEctUkVYYlllN0xUQlBaUVZveDRldw?oc=5>
+- **特朗普** | 美官员称特朗普已下令对伊朗发动新袭击：可能本周末启动 <https://news.google.com/rss/articles/CBMieEFVX3lxTFA5TGpIRHdTS2d3QnR6dU1SV0gzdFVYUE1SRGVUaFF5ZFJmU05LQW5XQUlGOEdJSzk2MXBLSU54ZEkzcERWN2c0MFVrOGludjZialVzSXFTa3NIaFpMdW1tZi1CSnUtSlBnMDIzZ201YXdDVVJRY2oyRA?oc=5>
+- **特朗普** | 特朗普：美国试图解散国际刑事法院，是为“保护内塔尼亚胡”而不是我 <https://news.google.com/rss/articles/CBMiWEFVX3lxTE5CTUhmMU0tbHdwRmozX0lRemZVX3JqXzFxdFVOcTRPTXVwek9Fdlc3aDRXY3VKY09YUndmWGQ3d053eG8yRW40M0g1Y3lSWFhFYW14Um5hajc?oc=5>
 
 ### 2026-08-01 01:02  (6 条)
 
