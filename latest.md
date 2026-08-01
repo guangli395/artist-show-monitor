@@ -1,63 +1,13 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-01 19:03**
-- 本轮扫到 8290 条, 新增 **7** 条
+- 最近更新: **2026-08-01 20:24**
+- 本轮扫到 8290 条, 新增 **0** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮无新增
 
-### 蔡徐坤新专辑《KUN》融合了哪些音乐风格？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849300_1d5acf554068013bba.html>
-
-### 蔡徐坤28岁生日当天开启全球巡演，新专辑《KUN》惊艳亮相
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849300_1d5acf554068013bb2.html>
-
-### 蔡徐坤澳门演唱会为什么禁止携带发光应援物？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849292_1d5acf54c06801dng8.html>
-
-### 蔡徐坤的沉浸式叙事演唱会和传统演唱会有什么不同？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849292_1d5acf54c06801dnga.html>
-
-### 特朗普政府据报考虑对毕业后留美工作的国际学生征收10万美金；DHS：并未最终敲定
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-08-01 18:05
-- 链接: <https://news.google.com/rss/articles/CBMivgFBVV95cUxNNG9FaXRYOXR2Q3YwOUQ4ZVJDNEU0U0JsNlRzbHktTE9fdERwMTN1a0ZLa1RQZWdNSzVuSUtEYzBLOVFFQVJ3c09pUFVxZll0MGJKOWRjOFNvbzVsTEtpdUFYMzNsVGZFV1VDMjdWYXZhc3JGRDBlNjk1X0RhdDZwS2IzMU41ck0wVmd1QnBPTGtKN1VIWHg5WmhISlhLSFl6c000MDQ5N2p0TWRJVXZXOUFsU3dQNF9ZTUhrRFBB0gHAAUFVX3lxTE9IWEVwX1ItOVo4aVBlSEhjSUxzcDVPN1ZiYURWTzk2T0E1SWd4QUdMYlBqYW12d2hrTXdHUjh6VkhhV3VGcHQ0TFRDQ2hpekNvWEJZUktqYU53aWFjR1FPOUdHSy0tN1ZhcjNLMFdOT1ItemVqa2ticllmS2t2TmhIVy11Ty1xdTFkV2ZIT2ZJSXlZdmNGb1lSeGV5R3RFU3JITWlrNWhTQXV1VVdCOWdjazNKV1FTbThLbm4wcXY4YQ?oc=5>
-
-### 人形机器人：特朗普对华贸易战的最新战场？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: DW.com
-- 时间: 2026-08-01 13:55
-- 链接: <https://news.google.com/rss/articles/CBMioAJBVV95cUxQQWVFNFNRd3hXWm44RUZ2dG1rT2ZQcUMtaXJ1SGpPOEJBaXA1REhnbElRanFNelJwUVZyRUpiWTFwLWY2SE5wSkJmbDItQXZ2bU9ZTGNiRlV0MXZZaGpGMmJuNVV1VjR4U3BYLUVvczlxWTFPN3JoWC1CNlFKUzVHUGVscGNNSkpCZGlEX1hlMEdWbXRvdVRFYklTN1NZRUZVQWlPQnFYc3podEFkVzZTZVQxZ3Y3OXVscGZoam5STmdKQVJDNG9fYXNxTHVoNFRIaHRaYzJlQm8wNHZLVmdDZmRmQ3FzeGVQNWFSUlZSZUg5RXc5Q0cyaXZ4LWhiWFhyY3hqZEFaRUNwTzJMNmg4UVpuMXRQRkNfdV9TS3RiejbSAaACQVVfeXFMT3c1SHFUYTMyZjdLZkZqMGNSZ1dRMUI2S29veWhSWGxGaHNSWUU2OGRLc3FHekJDRlQ4bmJvMzA1Snh2cHAzYlJlRnl1bi1tUHF5RUk4a3UydFpxc3FWd1hpdVFYU0ZTU21fRUMwR21VMlVnNTUwbHAxWFRYS05FaDZMTS1fcnJtV1ZnQmhhTy1xOXMzT1pBSVA2MEc1d09iN3VQajNnNkpCb0pkNWZyc1FDTXR0c1NYSGdnM1Q0Q3VTa3ZlcUE1LUFiUVJKczZmZzBKZVRTdW5GS1JnNUplZVBqQ2ZsVjJHeWFYWEd6WG9fdDBqUGtKRFp4bVFNQW1ZNlFfV1BnNDFqS0pIbXVjTmpRYkl4MVZ2VTQwWkZLYnJC?oc=5>
-
-### 特朗普改口了
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪军事_手机新浪网
-- 时间: 2026-08-01 17:41
-- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE84ZEVUU1VTa2Q5NTdYbHFYTENLS2xYNzJ2Snh0SlY1ZlpaNVJaTjVVWUd6cmp2a1N4Ul9zNms4aUNqMDU3WFlkLXNQc1pHYmJRTExmSE9tQW1lOUN4Q3dOenhkZHRyVF8yRFd6akZHTWIxQkRyWUdtZE9EaWdwUQ?oc=5>
-
-
----
-
+数据库里所有演出/动态都已见过,暂无新增。
 ## 历史发现
 
 ### 2026-08-01 19:03  (7 条)
