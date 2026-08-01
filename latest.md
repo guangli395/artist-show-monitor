@@ -1,32 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-01 21:23**
-- 本轮扫到 8292 条, 新增 **2** 条
+- 最近更新: **2026-08-01 22:25**
+- 本轮扫到 8294 条, 新增 **2** 条
 
 ---
 
 ## 本轮新发现 (2 条)
 
-### 特朗普突然旧事重提，“我们能从乌克兰拿走所有想要的”
+### 特朗普宣布达成“历史性协议”：哈马斯将全面解除武装！消息人士称
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-08-01 14:29
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9fQnNUekFyNjFianAtcUR2WllBWUZfc0hEdVhFZWt0azRScFY5VXR0UzlZOTdkc1BBbjVBYXhkbnFEVGUtMEd3LWctWmQ0d0lvSkU3MnNsbmphelJDeC0zNXUwSF9uSW56Nnc?oc=5>
+- 场馆: 每日经济新闻
+- 时间: 2026-07-31 08:58
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFB4X1RIQWRRQk9iOC1ETFhzd3pqS2xFTkRrRWdrNnhfakVxbVdHNzJaZEdfd0JHVVNoODFZVGlxNmNMZ3JRbVNkWWRLbTJTNXlYRkRFOG1sQmpaWmlIMzJkdnFkWjVidw?oc=5>
 
-### 周文龙：解构特朗普“Pro Max版”商业帝国
+### 南华早报：美参议员戴恩斯拟再访北京 为9月特习会铺路
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-08-01 21:00
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5QekNKTU5YUTB3VDVOaFhHQjdaZU9GZlZGUzh0cjhHY2JqM1h1azZSUXhJR0FtZFNZX0J3WjBGTlFTNFNTRWZSaFk1MzdxWVMycV9FdC1HX3pKLWx4MVI3M1hOakdmVlQwWkltQ0NSQTdGQlE?oc=5>
+- 场馆: rfi.fr
+- 时间: 2026-08-01 21:27
+- 链接: <https://news.google.com/rss/articles/CBMi9wJBVV95cUxNTWJDSmZfOU5UU3E2a3BVMk5YU1JlSEFTSVFzLWdKR21LTno1Unl0TFVSNVNCQUpnYW1qRl9aQ3hhZDE1UHBUZFZDcnFTUGNma0NfTF9rb2xpVnZBZzJvcl9UT0ZGdElPWF94UXdJVTZ5TkFBcHlTdTFFcTE5WndQTzhOcl9nQ3EteWtoOWoxeUZHN3VucjZ3UXZhQy1wa2RKZ2VZcEotT1g4S0JSRVBUeXhTbG5ObkVCODFhT0RFQTdwaVFhRU9PeXg5X0l5eklhTmd6ZDVJbzBJRDJDY2FkbnM4Vk5yMXlxY2NwUnhtVjhQQnFUOVNwYzI0REcyTHR2MWRnT01MWUQ0Nmxzb212UGlDYU1DZXc0OHRRQVgteEhpdzVhMjIzd09oc0JwSXgxYnltdUNTRkNvbVN1SzF4Y1BvUlNKVGxKMEw1Vjc2d1dSak1uaHlsOWVoTzBOSFVHMXJERVEwUG9Dd3dvZ2s2dDBiNEI5MEk?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-01 22:25  (2 条)
+
+- **特朗普** | 特朗普宣布达成“历史性协议”：哈马斯将全面解除武装！消息人士称 <https://news.google.com/rss/articles/CBMiZkFVX3lxTFB4X1RIQWRRQk9iOC1ETFhzd3pqS2xFTkRrRWdrNnhfakVxbVdHNzJaZEdfd0JHVVNoODFZVGlxNmNMZ3JRbVNkWWRLbTJTNXlYRkRFOG1sQmpaWmlIMzJkdnFkWjVidw?oc=5>
+- **特朗普** | 南华早报：美参议员戴恩斯拟再访北京 为9月特习会铺路 <https://news.google.com/rss/articles/CBMi9wJBVV95cUxNTWJDSmZfOU5UU3E2a3BVMk5YU1JlSEFTSVFzLWdKR21LTno1Unl0TFVSNVNCQUpnYW1qRl9aQ3hhZDE1UHBUZFZDcnFTUGNma0NfTF9rb2xpVnZBZzJvcl9UT0ZGdElPWF94UXdJVTZ5TkFBcHlTdTFFcTE5WndQTzhOcl9nQ3EteWtoOWoxeUZHN3VucjZ3UXZhQy1wa2RKZ2VZcEotT1g4S0JSRVBUeXhTbG5ObkVCODFhT0RFQTdwaVFhRU9PeXg5X0l5eklhTmd6ZDVJbzBJRDJDY2FkbnM4Vk5yMXlxY2NwUnhtVjhQQnFUOVNwYzI0REcyTHR2MWRnT01MWUQ0Nmxzb212UGlDYU1DZXc0OHRRQVgteEhpdzVhMjIzd09oc0JwSXgxYnltdUNTRkNvbVN1SzF4Y1BvUlNKVGxKMEw1Vjc2d1dSak1uaHlsOWVoTzBOSFVHMXJERVEwUG9Dd3dvZ2s2dDBiNEI5MEk?oc=5>
 
 ### 2026-08-01 21:23  (2 条)
 
