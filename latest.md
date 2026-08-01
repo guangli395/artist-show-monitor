@@ -1,32 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-01 22:25**
-- 本轮扫到 8294 条, 新增 **2** 条
+- 最近更新: **2026-08-01 23:27**
+- 本轮扫到 8296 条, 新增 **2** 条
 
 ---
 
 ## 本轮新发现 (2 条)
 
-### 特朗普宣布达成“历史性协议”：哈马斯将全面解除武装！消息人士称
+### 特朗普火大：美国之音要黑中国，怎么“夸上了”，得改
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 每日经济新闻
-- 时间: 2026-07-31 08:58
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFB4X1RIQWRRQk9iOC1ETFhzd3pqS2xFTkRrRWdrNnhfakVxbVdHNzJaZEdfd0JHVVNoODFZVGlxNmNMZ3JRbVNkWWRLbTJTNXlYRkRFOG1sQmpaWmlIMzJkdnFkWjVidw?oc=5>
+- 场馆: 观察者网
+- 时间: 2026-07-31 23:08
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE12cnBPNk42RkFMYWw0YmZzVlBFRnVlX0dGenp2RjUwY1UySzJyRndsMER3VTNkQm5sTVpJSWh2Q3lobTF1RlVELVJkZG45Nm92RWUyaGhqbW1FbFBSLUxYcU1WcjdIUEF4R0E?oc=5>
 
-### 南华早报：美参议员戴恩斯拟再访北京 为9月特习会铺路
+### 特朗普称正对伊朗谈判代表失去信心 中东战事恐持续
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: rfi.fr
-- 时间: 2026-08-01 21:27
-- 链接: <https://news.google.com/rss/articles/CBMi9wJBVV95cUxNTWJDSmZfOU5UU3E2a3BVMk5YU1JlSEFTSVFzLWdKR21LTno1Unl0TFVSNVNCQUpnYW1qRl9aQ3hhZDE1UHBUZFZDcnFTUGNma0NfTF9rb2xpVnZBZzJvcl9UT0ZGdElPWF94UXdJVTZ5TkFBcHlTdTFFcTE5WndQTzhOcl9nQ3EteWtoOWoxeUZHN3VucjZ3UXZhQy1wa2RKZ2VZcEotT1g4S0JSRVBUeXhTbG5ObkVCODFhT0RFQTdwaVFhRU9PeXg5X0l5eklhTmd6ZDVJbzBJRDJDY2FkbnM4Vk5yMXlxY2NwUnhtVjhQQnFUOVNwYzI0REcyTHR2MWRnT01MWUQ0Nmxzb212UGlDYU1DZXc0OHRRQVgteEhpdzVhMjIzd09oc0JwSXgxYnltdUNTRkNvbVN1SzF4Y1BvUlNKVGxKMEw1Vjc2d1dSak1uaHlsOWVoTzBOSFVHMXJERVEwUG9Dd3dvZ2s2dDBiNEI5MEk?oc=5>
+- 场馆: finance.sina.com.cn
+- 时间: 2026-07-31 18:32
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSjZ4MXllY1NaS0hvb0FzTE94M2lCUHdPNG9JSUxpRU5XRnQ0dnNKQUxhVGRrRDRyXzQycF9CTVhUTWxFemxNU2JBb19TYXVQczdEdWRmaE96RlRyUFlaTk1yNDVidlphM3U2UVVLX1JKRHI2QjdvSGNOSXhsZ1VKbktGU2REZ2IzX09DZG9NN3hyRkVpVUsyZk50cWNwTlg4LUZ5R3JBRm9kLWtNcXdKa1JSRzc5N0V6bEhaT0dZazNxX0VHM2JuZWxBbXhlUHZU?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-01 23:27  (2 条)
+
+- **特朗普** | 特朗普火大：美国之音要黑中国，怎么“夸上了”，得改 <https://news.google.com/rss/articles/CBMiakFVX3lxTE12cnBPNk42RkFMYWw0YmZzVlBFRnVlX0dGenp2RjUwY1UySzJyRndsMER3VTNkQm5sTVpJSWh2Q3lobTF1RlVELVJkZG45Nm92RWUyaGhqbW1FbFBSLUxYcU1WcjdIUEF4R0E?oc=5>
+- **特朗普** | 特朗普称正对伊朗谈判代表失去信心 中东战事恐持续 <https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSjZ4MXllY1NaS0hvb0FzTE94M2lCUHdPNG9JSUxpRU5XRnQ0dnNKQUxhVGRrRDRyXzQycF9CTVhUTWxFemxNU2JBb19TYXVQczdEdWRmaE96RlRyUFlaTk1yNDVidlphM3U2UVVLX1JKRHI2QjdvSGNOSXhsZ1VKbktGU2REZ2IzX09DZG9NN3hyRkVpVUsyZk50cWNwTlg4LUZ5R3JBRm9kLWtNcXdKa1JSRzc5N0V6bEhaT0dZazNxX0VHM2JuZWxBbXhlUHZU?oc=5>
 
 ### 2026-08-01 22:25  (2 条)
 
