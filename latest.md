@@ -1,56 +1,73 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-01 07:24**
-- 本轮扫到 8253 条, 新增 **5** 条
+- 最近更新: **2026-08-01 09:30**
+- 本轮扫到 8259 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (6 条)
 
-### 特朗普：尚未同意授权乌克兰生产“爱国者”拦截弹
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-07-31 20:54
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9RenRvLUNZWGNpS0pnRk5KVTQ5dmJDWnI0SDl1LWJfOHVHRkd2VkkyY0J6MkFWTk9GdHV4T0ZzODJ3RExoalk5MW00cGtYZFNNTGVWZmZFc216ZTRRanRCTFBtN3ZJcHJwa0J1ZVFndHZBbUdrNDNqTDhsVFNSNlE?oc=5>
-
-### 特朗普称尚不确定是否允许乌克兰生产爱国者导弹
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-01 06:50
-- 链接: <https://news.google.com/rss/articles/CBMikwJBVV95cUxObnEtTUZEMkNlSzJGZFVsVG5SS1NTanp4RnR5V2FnRnhEUTZFZ2M2OC1sNHpud0o2UWF2dnhhcFNRQ0dTYmJid1R0eU9WbmhxNnlSdG5TYXNFbW1SRHhwX3BWRWxCZk9EY0Q5OTQ2WUREd2d0cktUSGhkdFVSV0xIeHpJMWhEdHoxN3FqTTBJMUtrZUUtX1U1ekU2R0dVb1R5andMamZSNjZGNUlGdHdzM2NSaDhXQVpSOUZ1ekRDR3dtZ2p3Z3dPSV96Y1BaNV81a3R1QlUwWWkwLUFaWG1uWE9ISS10T01VWG9kaWp4a1VKemV3V2puUVFxWWFjOGJRZjI2RVdmWVBpY2drLTl6TjJSSQ?oc=5>
-
-### 乌克兰想要“爱国者”，美国为啥变卦不想给？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-08-01 07:07
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFB5WUg4YTN1Y3I1a1lkLUhaaTlXOVI3aEJmTExCa21oamNUN3VvY3B2OFZTdExYVXh0c0lGMWVEUmNNRmNUOGxLUFdoYnBuTEk5cG1pQ0hhdGJXcGZiWVhrRlVZSi1FUjdFb1RjandPdlA?oc=5>
-
-### 美以被爆拟对伊朗能源设施发起“迄今最猛烈”轰炸行动之一，白宫、美国防部表态
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-08-01 06:01
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZcHlzMW9vTzlqY2ZmSTFOWlNyd1g4ZG8za2RkYzJaVnRaQTc4UXU1V0dTc08ybGhZWjFxb3JpNGpqZUxZYTdVSWlOVlZUTmRGMEV6aHl2ek53aEZXNE4xTG5xUWlKLXhvLVMzRGlGQ2o?oc=5>
-
-### 多国应对西班牙飞地移民危机，特朗普直言“这是入侵”
+### 特朗普宣布哈马斯解除武装，以色列未必买账
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-08-01 00:54
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE4zOXV3Rk1MMUdxQ19BZTdINmc5U3JsTWMzY3ZwTWx6QmV0UTY5MFVDS0t2alhVMUsxQkstNzJJZFI3emlKRUdkX3N3QzI?oc=5>
+- 时间: 2026-08-01 04:55
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9YOE5jNjBEanhIT3ByX1pOS0dFbmR6YWJKcFBQalpOU2pUWExoNW95aDNwS3A3azJnLTRkcF9KMU0zamVCUV9IbHJnVXI?oc=5>
+
+### 特朗普：美国并未同意乌克兰生产
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-07-31 22:32
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1BN0ZFQl9GcDktYndtN2hWYUotckNKalVtMDZ0cllBYUdVSHZza0kxM2kwNGNHQXVaZ3VrcFprajJvYjVJdVdMYm5zOXpqX0M1SWRfM0JPVE1ibGs0NVFINVQ4TXlfQm82THVpSjFGYlRudjZHb21aRg?oc=5>
+
+### 特朗普第二任期支持率跌至最低点
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-01 02:34
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE80NHloQ05EdXo2QS16elE2WnFBTlNYRXAtODVIeWRqVzdmeDdmd0Y3eHVzdmg4OHJIb3FaZzNFbnBCNXFIUEpaVmpqM0gwSExUdGNmS0Z2eE50Yi1KR2E3cWlUUnpqTWZrVkNXdEVkanRKaE1GREZUdg?oc=5>
+
+### 特朗普支持率跌至新低 美媒：经济问题和伊朗战事为主因
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Sohu
+- 时间: 2026-08-01 08:31
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVjNfYzZfb2kzUlM3TXB5aXJyQ3FXSWlad1ZYNkR4b3dyM01PemtObl93WFRLckJCM1M2ak9oUWh0Q0J3akFfc3g1dkJFUVVVYmwtSzJzWUFmZUhOZWxBNFBJaXRNTFBWVWdqYVhqRkh5dy1ZbEhFaVd6ZzUtMGI1ZkU3Q2lUcVEt?oc=5>
+
+### 最新民调：超七成美国人指责特朗普施政偏离核心议题
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-07-30 01:19
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1PZzFIMXlvVUwxVkd5RzFrRzRjWkhjMGZ0TUU0NXNPMkYzYU1ydWNPQ2JES3VGRHJUcFlYNUl2ZXZCOTh5TUczNVFqSFFxN18zM3pYb0VZM0JXbXJHTEpoWHJHTEZnQQ?oc=5>
+
+### 特朗普模拟美军拦截伊朗导弹过程，英媒：幼稚
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-08-01 08:59
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5DX0tsaHVMa2c1ZmhWNDhZRUtXYzNEODlrWlFyTExQbVVFd3hGSnZ3bFd5cTFqbTMwM0g4a3hlZU5fNzlybk9HQ1hpdEs?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-01 09:30  (6 条)
+
+- **特朗普** | 特朗普宣布哈马斯解除武装，以色列未必买账 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9YOE5jNjBEanhIT3ByX1pOS0dFbmR6YWJKcFBQalpOU2pUWExoNW95aDNwS3A3azJnLTRkcF9KMU0zamVCUV9IbHJnVXI?oc=5>
+- **特朗普** | 特朗普：美国并未同意乌克兰生产 <https://news.google.com/rss/articles/CBMieEFVX3lxTE1BN0ZFQl9GcDktYndtN2hWYUotckNKalVtMDZ0cllBYUdVSHZza0kxM2kwNGNHQXVaZ3VrcFprajJvYjVJdVdMYm5zOXpqX0M1SWRfM0JPVE1ibGs0NVFINVQ4TXlfQm82THVpSjFGYlRudjZHb21aRg?oc=5>
+- **特朗普** | 特朗普第二任期支持率跌至最低点 <https://news.google.com/rss/articles/CBMieEFVX3lxTE80NHloQ05EdXo2QS16elE2WnFBTlNYRXAtODVIeWRqVzdmeDdmd0Y3eHVzdmg4OHJIb3FaZzNFbnBCNXFIUEpaVmpqM0gwSExUdGNmS0Z2eE50Yi1KR2E3cWlUUnpqTWZrVkNXdEVkanRKaE1GREZUdg?oc=5>
+- **特朗普** | 特朗普支持率跌至新低 美媒：经济问题和伊朗战事为主因 <https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVjNfYzZfb2kzUlM3TXB5aXJyQ3FXSWlad1ZYNkR4b3dyM01PemtObl93WFRLckJCM1M2ak9oUWh0Q0J3akFfc3g1dkJFUVVVYmwtSzJzWUFmZUhOZWxBNFBJaXRNTFBWVWdqYVhqRkh5dy1ZbEhFaVd6ZzUtMGI1ZkU3Q2lUcVEt?oc=5>
+- **特朗普** | 最新民调：超七成美国人指责特朗普施政偏离核心议题 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1PZzFIMXlvVUwxVkd5RzFrRzRjWkhjMGZ0TUU0NXNPMkYzYU1ydWNPQ2JES3VGRHJUcFlYNUl2ZXZCOTh5TUczNVFqSFFxN18zM3pYb0VZM0JXbXJHTEpoWHJHTEZnQQ?oc=5>
+- **特朗普** | 特朗普模拟美军拦截伊朗导弹过程，英媒：幼稚 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5DX0tsaHVMa2c1ZmhWNDhZRUtXYzNEODlrWlFyTExQbVVFd3hGSnZ3bFd5cTFqbTMwM0g4a3hlZU5fNzlybk9HQ1hpdEs?oc=5>
 
 ### 2026-08-01 07:24  (5 条)
 
