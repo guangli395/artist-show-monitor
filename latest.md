@@ -1,110 +1,123 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-02 14:25**
-- 本轮扫到 8359 条, 新增 **15** 条
+- 最近更新: **2026-08-02 15:36**
+- 本轮扫到 8373 条, 新增 **14** 条
 
 ---
 
-## 本轮新发现 (15 条)
+## 本轮新发现 (14 条)
 
-### 今晚，六家公司发布利好！
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://finance.sina.com.cn/stock/relnews/cn/2026-08-02/doc-inikxrzc5115945.shtml>
-
-### 蔡徐坤演唱会巨型斗兽场框架从天而降
+### 蔡徐坤这次巡演与之前相比有何突破？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5617768139_m14ed856cb03301syoo.html>
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068013yy0.html>
 
-### 蔡徐坤演唱会巨型斗兽场装置缓缓降落，环形结构空降舞台
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6579089112_m18824eed803301cbhk.html>
-
-### 蔡徐坤澳门演唱会，现场太震撼了！这恐怖的实力，蔡徐坤太帅了
+### 蔡徐坤演唱会禁止携带哪些物品？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7002256903_m1a15df60703301keu8.html>
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068013yy2.html>
 
-### 蔡徐坤太帅了！这才是神级演唱会
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7002256903_m1a15df60703301keu6.html>
-
-### 蔡徐坤澳门演唱会，西部荒漠风舞台让人沉浸其中
+### 蔡徐坤澳门演唱会门票如何购买？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6579089112_m18824eed803301cbh6.html>
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068013yxy.html>
 
-### 蔡徐坤澳门演唱会四面台走位稳，照顾每一面观众
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2105980803_m7d86b78303301gegi.html>
-
-### 蔡徐坤巡演花篮来自哪些粉丝或好友？
+### 蔡徐坤泰国演唱会的舞台设计有何特别之处？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923379_1d5ae16b306801lkmq.html>
+- 链接: <https://k.sina.com.cn/article_7879849292_1d5acf54c06801dnza.html>
 
-### 蔡徐坤战损妆亮相演唱会，演绎The Deadman篇章
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5617768139_m14ed856cb03301syoa.html>
-
-### 蔡徐坤战损妆亮相演唱会，演绎荒原史诗
+### 蔡徐坤为何选择曼谷作为海外巡演首站？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6579089112_m18824eed803301cbh4.html>
+- 链接: <https://k.sina.com.cn/article_7879849292_1d5acf54c06801dnz4.html>
 
-### 蔡徐坤澳门演唱会前瞻画面释出，电影级暗黑美学拉满
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2495457342_m94bda83e03301atpc.html>
-
-### 蔡徐坤澳门演唱会即将开场，氛围感拉满
+### 蔡徐坤在泰国演唱会上演唱了哪些歌曲？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5556631847_m14b33792705302bjko.html>
+- 链接: <https://k.sina.com.cn/article_7879849292_1d5acf54c06801dnz2.html>
 
-### 王俊凯新专辑中哪首歌与周杰伦御用编曲人林迈可合作？
+### 蔡徐坤曼谷万人演唱会，粉丝齐喊打怪兽燃爆全场
 
-- 艺人/关键词: **周杰伦**
+- 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923119_1d5ae15af06801ut1s.html>
+- 链接: <https://k.sina.com.cn/article_7879849292_1d5acf54c06801dnz0.html>
 
-### 爆料：马斯克拒绝泽连斯基
+### 蔡徐坤线上演唱会5G原文件包含哪些曲目？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923379_1d5ae16b306801lkny.html>
+
+### 蔡徐坤演唱会下雪了，天亮之前一定要下一场雪
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5824346124_m15b28780c03302gap6.html>
+
+### 蔡徐坤演唱会下雪，天亮之前浪漫飘雪
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5947704959_m16282c67f03301hrra.html>
+
+### 蔡徐坤澳门演唱会开场战损牛仔造型
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5556631847_m14b33792705302bjmu.html>
+
+### 特朗普，笑麻了！中期选举不到100天，马斯克“强援”从天而降，民主党这回危险了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-08-01 08:03
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE11bTBXLWcyRV81OXY4VTR4YWx4ejBmOG9KbjF0SldGdkpUSXhYTkdETmFhZV9BaXR3TnhaQ3U5TmRmOFNpR19ibzJ5d3ZEeU5jTFhTOFNaVmxKVlRCY0xsVk1mcnVWajdmeDNxRUs0Z0JKQ3h3?oc=5>
+- 场馆: Sohu
+- 时间: 2026-08-02 14:46
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxQWGJhLW5GVWJHRzJ4c1hoVm9MOVJQOFZSZUI2eWdvd0hYNm4tWDhHRkVOVWlpN0hYNjFERkNCLUZVblBCYTJtMl9ZbEtxeWtVOVhlTHVlbVUzZE9ZQUdqaWhNRkhlN0s1a2pLbjk0VUF0eG5HRXVNWUg5cEZlWGF3ek1RYURwYWJXY3Qwcw?oc=5>
 
-### 特朗普相关的超过300个银行帐户被关闭，原因公布
+### 特朗普：同意取消对伊朗的打击
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-02 09:08
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE81XzVvSEhoWXg5RmdWa1kyWWI2azVGMnpFVGVJWFRseDNyeXk3UzZsMDZKQVNrY3NfbzdkX2FQOUtUYXFMUXR6SXpWWWc?oc=5>
+- 场馆: chinanews.com.cn
+- 时间: 2026-08-02 02:12
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9TZ1dRbkR3VnllWVlyTlVLaHAzcXdmU2dpdG5nMUViVVpPMEt4RTd2bDRlb05PVnlmWU4xT3dqcTVONG9EMV92dm1Xd3hQUDZ5d1d3YUFGdGRBMy1FNDRuaTVIOXNGUVct?oc=5>
+
+### 从“狠打”到“不打” 特朗普叫停大规模攻击伊朗
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: DW.com
+- 时间: 2026-08-02 14:47
+- 链接: <https://news.google.com/rss/articles/CBMiogJBVV95cUxPNGVycU5mMG0yUjhfZ3ZKYzhxOU14WWtkb2w4NmxXRGZPUVZKWjFDNFo2Nm9WM210UzBHOFdXUWpJaFdxbzlJS09EblhzUWR3ZEktVDBxUWhaX1ZqM2ZZdUhiVklUU19uVEJ1YU9sTzhCZnIzX00wdGFENG9QZ1hYWmdvUUd2MHVJZTRBOWVuaGU0ZnhTRGg5X0ZGUldaWW5OWDNXTkhLeFBKR09EOWJNWnQzc1hXOHdJWjhpLXFGLUFLSnV1dXF4T0VaZ2RHaUJ6R3JQS3pEVE96SWxUMzR4dlc2THJ4WDBRam03alNoMi1IY053MmlIbE5LUkg3V1VtRW45cS1INlZwZjBra2JlUG5yVTJLT0J1a1R5elRiWXN5Z9IBogJBVV95cUxQcjEzOW5xZ3BYc3VFbnBPQXJZcUsyeFFBOG5KdENDWFYzOVFQSHdpRVhMNW5LTTc0NjZPQUJycm5IeHFBVmlhTVBUeTlxQUN3dDJRSDF1UU5vX19vME9nUXIxRVdwTENHSnA2Z0pabFVtSWxWZ3BiY3g5czlGY3JhQmhSV1g5OEVLX24ySV9pVjlPbW9pU2lTYWNEWE80Q2R2ekRZWDVpQ2ZDZGFaTXFzeEppNURla0lOSlB0b0FYekZ3ZF91Zzl3bEx3V2pwSE8zZ2RXNVhSU1h5OFp0SUsxMzA5cnhTaV9RNXI0dUNlaUliYTFRRVpOQTVjSVFfM3ZQblBQNWZlSHJuZVo0eVh1aWZOcDBtWDFOV0J6cXpMV0lUdw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-02 15:36  (14 条)
+
+- **蔡徐坤** | 蔡徐坤这次巡演与之前相比有何突破？ <https://k.sina.com.cn/article_7879776356_1d5abd864068013yy0.html>
+- **蔡徐坤** | 蔡徐坤演唱会禁止携带哪些物品？ <https://k.sina.com.cn/article_7879776356_1d5abd864068013yy2.html>
+- **蔡徐坤** | 蔡徐坤澳门演唱会门票如何购买？ <https://k.sina.com.cn/article_7879776356_1d5abd864068013yxy.html>
+- **蔡徐坤** | 蔡徐坤泰国演唱会的舞台设计有何特别之处？ <https://k.sina.com.cn/article_7879849292_1d5acf54c06801dnza.html>
+- **蔡徐坤** | 蔡徐坤为何选择曼谷作为海外巡演首站？ <https://k.sina.com.cn/article_7879849292_1d5acf54c06801dnz4.html>
+- **蔡徐坤** | 蔡徐坤在泰国演唱会上演唱了哪些歌曲？ <https://k.sina.com.cn/article_7879849292_1d5acf54c06801dnz2.html>
+- **蔡徐坤** | 蔡徐坤曼谷万人演唱会，粉丝齐喊打怪兽燃爆全场 <https://k.sina.com.cn/article_7879849292_1d5acf54c06801dnz0.html>
+- **蔡徐坤** | 蔡徐坤线上演唱会5G原文件包含哪些曲目？ <https://k.sina.com.cn/article_7879923379_1d5ae16b306801lkny.html>
+- **蔡徐坤** | 蔡徐坤演唱会下雪了，天亮之前一定要下一场雪 <https://k.sina.com.cn/article_5824346124_m15b28780c03302gap6.html>
+- **蔡徐坤** | 蔡徐坤演唱会下雪，天亮之前浪漫飘雪 <https://k.sina.com.cn/article_5947704959_m16282c67f03301hrra.html>
+- **蔡徐坤** | 蔡徐坤澳门演唱会开场战损牛仔造型 <https://k.sina.com.cn/article_5556631847_m14b33792705302bjmu.html>
+- **特朗普** | 特朗普，笑麻了！中期选举不到100天，马斯克“强援”从天而降，民主党这回危险了 <https://news.google.com/rss/articles/CBMijAFBVV95cUxQWGJhLW5GVWJHRzJ4c1hoVm9MOVJQOFZSZUI2eWdvd0hYNm4tWDhHRkVOVWlpN0hYNjFERkNCLUZVblBCYTJtMl9ZbEtxeWtVOVhlTHVlbVUzZE9ZQUdqaWhNRkhlN0s1a2pLbjk0VUF0eG5HRXVNWUg5cEZlWGF3ek1RYURwYWJXY3Qwcw?oc=5>
+- **特朗普** | 特朗普：同意取消对伊朗的打击 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9TZ1dRbkR3VnllWVlyTlVLaHAzcXdmU2dpdG5nMUViVVpPMEt4RTd2bDRlb05PVnlmWU4xT3dqcTVONG9EMV92dm1Xd3hQUDZ5d1d3YUFGdGRBMy1FNDRuaTVIOXNGUVct?oc=5>
+- **特朗普** | 从“狠打”到“不打” 特朗普叫停大规模攻击伊朗 <https://news.google.com/rss/articles/CBMiogJBVV95cUxPNGVycU5mMG0yUjhfZ3ZKYzhxOU14WWtkb2w4NmxXRGZPUVZKWjFDNFo2Nm9WM210UzBHOFdXUWpJaFdxbzlJS09EblhzUWR3ZEktVDBxUWhaX1ZqM2ZZdUhiVklUU19uVEJ1YU9sTzhCZnIzX00wdGFENG9QZ1hYWmdvUUd2MHVJZTRBOWVuaGU0ZnhTRGg5X0ZGUldaWW5OWDNXTkhLeFBKR09EOWJNWnQzc1hXOHdJWjhpLXFGLUFLSnV1dXF4T0VaZ2RHaUJ6R3JQS3pEVE96SWxUMzR4dlc2THJ4WDBRam03alNoMi1IY053MmlIbE5LUkg3V1VtRW45cS1INlZwZjBra2JlUG5yVTJLT0J1a1R5elRiWXN5Z9IBogJBVV95cUxQcjEzOW5xZ3BYc3VFbnBPQXJZcUsyeFFBOG5KdENDWFYzOVFQSHdpRVhMNW5LTTc0NjZPQUJycm5IeHFBVmlhTVBUeTlxQUN3dDJRSDF1UU5vX19vME9nUXIxRVdwTENHSnA2Z0pabFVtSWxWZ3BiY3g5czlGY3JhQmhSV1g5OEVLX24ySV9pVjlPbW9pU2lTYWNEWE80Q2R2ekRZWDVpQ2ZDZGFaTXFzeEppNURla0lOSlB0b0FYekZ3ZF91Zzl3bEx3V2pwSE8zZ2RXNVhSU1h5OFp0SUsxMzA5cnhTaV9RNXI0dUNlaUliYTFRRVpOQTVjSVFfM3ZQblBQNWZlSHJuZVo0eVh1aWZOcDBtWDFOV0J6cXpMV0lUdw?oc=5>
 
 ### 2026-08-02 14:25  (15 条)
 
