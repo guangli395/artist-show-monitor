@@ -1,74 +1,117 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-02 22:25**
-- 本轮扫到 8409 条, 新增 **8** 条
+- 最近更新: **2026-08-02 23:27**
+- 本轮扫到 8421 条, 新增 **12** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (12 条)
 
-### 蔡徐坤全开麦唱跳封神，澳门演唱会刷屏
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923101_1d5ae159d06801n4v8.html>
-
-### 蔡徐坤澳门演唱会演唱了哪些原创歌曲？
+### 蔡徐坤线上演唱会原视频中的斗兽场装置是如何搭建的？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923112_1d5ae15a806801wua4.html>
+- 链接: <https://k.sina.com.cn/article_7879849300_1d5acf554068013c4i.html>
 
-### 蔡徐坤演唱会现场连续唱跳13首是如何保持体力的？
+### 蔡徐坤线上演唱会原视频为什么能引发路人自发好评？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923101_1d5ae159d06801n4uu.html>
+- 链接: <https://k.sina.com.cn/article_7879849300_1d5acf554068013c4g.html>
+
+### 蔡徐坤如何回应演唱会背景抄袭风波？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879849298_1d5acf552068019jty.html>
+
+### 蔡徐坤的建模脸为什么能在演唱会上引发热议？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879849298_1d5acf552068019jtq.html>
+
+### 蔡徐坤建模脸封神？澳门演唱会细节全揭秘
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879849298_1d5acf552068019jto.html>
+
+### 央行：继续实施适度宽松的货币政策；特朗普称美伊将举行谈判丨21早新闻
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 21财经
+- 时间: 2026-08-02 23:06
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxNY2x4cTZLUGhNWXE4RUZ2YWd5SFFYOWY4cjhsYk9uWWw4NUhGRHQwbGdVcnBlS0xib2g1OFVpN0c3Z3l4bElzM2ppMkJZeXh5NUtNM21JMHJ1Z2ZJckU0bXpNUkZnMkQ2b0FobzMyVF9ra1BGdTd5SHlNb2VxMG9XTnlIWF9weDg4aHVuag?oc=5>
 
 ### 大反转！特朗普：同意取消对伊朗的打击，但前提是能够迅速达成协议
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-02 22:19
-- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxOcWZpekl1MUFhdENJVmlEbnNkaXhmM3JtWmNsc2lqZDlyS0I5VEwxSzBlUEluSlNPeUpzVThEZHNnMWp6bVdHemZaS1JSa19KMnZPNE5CdC03cEJ0eEg1OVV1aFVxU0N2Mml2eXhvdDZCUEE2TERJMU1UTXlCY3dOOUs0TXFydlNuX2dIQUxPUE83ZDdUc2czdUZ4WXZfdXI3R1pIU0pYdUtWZTNUclNDc295aU1wNjd2N0lnVEY3ZENIcnBvbHl5dzlTeFN0RUE?oc=5>
+- 场馆: 新浪财经_金融信息服务商
+- 时间: 2026-08-02 23:09
+- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxNWXpIc0ctNDhWWjFQb1IzdUpYX3drcktKNTdGSVNNOGdQUElvYUM2VHFnRVB3aW5wcUx6b0pJZmdrVnVQbWw3ZjFxN083aHBIM2lIVVFCVlRnay1ZTUZNc3NFa2o5R3lOSGFLTmwyWTdJVVpOelp3RzltUVVpdWxDVEJLZnQ4WG8wQWFnWkZJdXlUMzI3SHdCbHVxV2JqRW9iT1F4dWFFajc0cjBncTNpQjhQTEhtb2JQaU5sVXFGQjRhYXRCU0FjMmtwUnJLYkE?oc=5>
 
-### 特朗普谈及伊朗问题：（相关活动）将于明日下午开始。
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-02 21:41
-- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE1WTTZVSFNXZUE4OUo3MTRDMEpQSTJweDZFT3AzRUdOWmNlZmFsbFhjWTA1Q1JpbXNiMFBaMjBwRTI4UFJUd2p3M2doVVJNeFU?oc=5>
-
-### “人为破坏指控”不成立？特朗普与钦点检察官因倒影池问题生分歧
+### “特朗普民调支持跌至历史新低，但别指望他作出改变”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-08-02 11:16
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBfaXk0dGR4TjQwbmVmd2JXZXVpZklFNGdqVHRza1Z6dF92aVZuSjBpeGp6amQ1WVhuZ0NpVFZnWkg3ZlExMFdqWXNYekk5M0xvVGhPeHZRTUZHS2RlY1RkQkdqVzFDaElzUVE?oc=5>
+- 场馆: 观察者
+- 时间: 2026-08-02 14:51
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1qS3RJSHkzV0tfMmMya0VjaHVOc0NSV3N6MDdkYTcxNTVTamRlYkM5dGVicUdVQ3RzbFptU18tanoybXVLWHVvUDlPOGtIMGRDX01XVTA3WEhQVkhKZS1XYmZQUnA2WUdWT2c?oc=5>
 
-### TACO！特朗普“取消对伊朗打击”，伊朗否认曾要求停火，沙特王储曾致电美方“敦促缓和局势”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: wallstreetcn.com
-- 时间: 2026-08-02 05:49
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE03d0ZWT3dtTUZOZFVKbFdCOGpkOWZRUlRKRUptRXNRamtjWl8tUWpUWFpKcGpObDFQZjl0WXJhZG9XWXYzeE45eFg3RmFzQTVwbVM0?oc=5>
-
-### 特朗普称美伊3日将举行谈判
+### “特朗普渴望一项成就，伊朗情况复杂”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 京报网
-- 时间: 2026-08-02 22:09
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Cazl6RzNtT3FCRUJETUdVc19oS1IxWndYTzNnUzk1aHp0RGdJZkRma1lGMnlxYXN6YmY2cFUwb0g4ektRdzBQUmoxbm5hd3FURi1hSThSRFRxUHE4OGc?oc=5>
+- 场馆: wenxuecity.com
+- 时间: 2026-08-01 07:56
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfNUMwWFlWa19aSHFGZzJiTFRCcGJjakdsc0tFM2t4SVJibWhZdnk5ZmR0cU5tTXlZQlBBdU5nTXVvUUJtY3l4cHdhVGRzUWNXclExT2hVbjZVTlZjNGV1emt0d1p2WTNa?oc=5>
+
+### 特朗普最新支持率公布
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 腾讯新闻
+- 时间: 2026-08-01 07:09
+- 链接: <https://news.google.com/rss/articles/CBMiVkFVX3lxTFBsTzBzcFdISFVrMGJYYjlSaFVoU1BqMGhkY0ZjaWp4NHNMVnJtRndhS01fakVVMkwyd2R0N3Ryb1VxMFdMaEFSd21fY3A5OWkyUUJCdTV3?oc=5>
+
+### 从“狠打”到不打，特朗普为何又对伊朗极限反转？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: cztv.com
+- 时间: 2026-08-02 22:33
+- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTFBfWE9pZUYtT1F0WWhMMTl0N21iZGI1QUVOZ0pVLWcyVG9Kb2VfNGNhVEhITnVKUzBnLXBvWlJta2xMaGo2Nm1ZTDZXb1NGekU?oc=5>
+
+### Trump Media将2628枚BTC转入交易所，预计总亏损达5.55亿美元
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: TradingView
+- 时间: 2026-08-02 00:53
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NazJZRzJ6ZXN2dXdWQjUxMkRkMTA2UEJCNUZOc3hZRXZ0WTk1NlpQUTlka0Y0QnoyR1pwWFdMTmc4Z2FLdmU5XzJxMTNsU045b242dEdFdjgxY2E3MXFscTZGS0lyUQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-02 23:27  (12 条)
+
+- **蔡徐坤** | 蔡徐坤线上演唱会原视频中的斗兽场装置是如何搭建的？ <https://k.sina.com.cn/article_7879849300_1d5acf554068013c4i.html>
+- **蔡徐坤** | 蔡徐坤线上演唱会原视频为什么能引发路人自发好评？ <https://k.sina.com.cn/article_7879849300_1d5acf554068013c4g.html>
+- **蔡徐坤** | 蔡徐坤如何回应演唱会背景抄袭风波？ <https://k.sina.com.cn/article_7879849298_1d5acf552068019jty.html>
+- **蔡徐坤** | 蔡徐坤的建模脸为什么能在演唱会上引发热议？ <https://k.sina.com.cn/article_7879849298_1d5acf552068019jtq.html>
+- **蔡徐坤** | 蔡徐坤建模脸封神？澳门演唱会细节全揭秘 <https://k.sina.com.cn/article_7879849298_1d5acf552068019jto.html>
+- **特朗普** | 央行：继续实施适度宽松的货币政策；特朗普称美伊将举行谈判丨21早新闻 <https://news.google.com/rss/articles/CBMijAFBVV95cUxNY2x4cTZLUGhNWXE4RUZ2YWd5SFFYOWY4cjhsYk9uWWw4NUhGRHQwbGdVcnBlS0xib2g1OFVpN0c3Z3l4bElzM2ppMkJZeXh5NUtNM21JMHJ1Z2ZJckU0bXpNUkZnMkQ2b0FobzMyVF9ra1BGdTd5SHlNb2VxMG9XTnlIWF9weDg4aHVuag?oc=5>
+- **特朗普** | 大反转！特朗普：同意取消对伊朗的打击，但前提是能够迅速达成协议 <https://news.google.com/rss/articles/CBMizwFBVV95cUxNWXpIc0ctNDhWWjFQb1IzdUpYX3drcktKNTdGSVNNOGdQUElvYUM2VHFnRVB3aW5wcUx6b0pJZmdrVnVQbWw3ZjFxN083aHBIM2lIVVFCVlRnay1ZTUZNc3NFa2o5R3lOSGFLTmwyWTdJVVpOelp3RzltUVVpdWxDVEJLZnQ4WG8wQWFnWkZJdXlUMzI3SHdCbHVxV2JqRW9iT1F4dWFFajc0cjBncTNpQjhQTEhtb2JQaU5sVXFGQjRhYXRCU0FjMmtwUnJLYkE?oc=5>
+- **特朗普** | “特朗普民调支持跌至历史新低，但别指望他作出改变” <https://news.google.com/rss/articles/CBMiakFVX3lxTE1qS3RJSHkzV0tfMmMya0VjaHVOc0NSV3N6MDdkYTcxNTVTamRlYkM5dGVicUdVQ3RzbFptU18tanoybXVLWHVvUDlPOGtIMGRDX01XVTA3WEhQVkhKZS1XYmZQUnA2WUdWT2c?oc=5>
+- **特朗普** | “特朗普渴望一项成就，伊朗情况复杂” <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfNUMwWFlWa19aSHFGZzJiTFRCcGJjakdsc0tFM2t4SVJibWhZdnk5ZmR0cU5tTXlZQlBBdU5nTXVvUUJtY3l4cHdhVGRzUWNXclExT2hVbjZVTlZjNGV1emt0d1p2WTNa?oc=5>
+- **特朗普** | 特朗普最新支持率公布 <https://news.google.com/rss/articles/CBMiVkFVX3lxTFBsTzBzcFdISFVrMGJYYjlSaFVoU1BqMGhkY0ZjaWp4NHNMVnJtRndhS01fakVVMkwyd2R0N3Ryb1VxMFdMaEFSd21fY3A5OWkyUUJCdTV3?oc=5>
+- **特朗普** | 从“狠打”到不打，特朗普为何又对伊朗极限反转？ <https://news.google.com/rss/articles/CBMiT0FVX3lxTFBfWE9pZUYtT1F0WWhMMTl0N21iZGI1QUVOZ0pVLWcyVG9Kb2VfNGNhVEhITnVKUzBnLXBvWlJta2xMaGo2Nm1ZTDZXb1NGekU?oc=5>
+- **Trump** | Trump Media将2628枚BTC转入交易所，预计总亏损达5.55亿美元 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NazJZRzJ6ZXN2dXdWQjUxMkRkMTA2UEJCNUZOc3hZRXZ0WTk1NlpQUTlka0Y0QnoyR1pwWFdMTmc4Z2FLdmU5XzJxMTNsU045b242dEdFdjgxY2E3MXFscTZGS0lyUQ?oc=5>
 
 ### 2026-08-02 22:25  (8 条)
 
