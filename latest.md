@@ -1,24 +1,33 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-02 16:52**
-- 本轮扫到 8374 条, 新增 **1** 条
+- 最近更新: **2026-08-02 17:56**
+- 本轮扫到 8376 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮新发现 (2 条)
 
-### 特朗普帖文每月10万美元能抢先看 频繁点名上市公司
+### 蔡徐坤澳门演唱会原话到底说了什么？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-02 00:02
-- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxNRDBDXzRjVEpKZU91YXh4WWpSQzExamJIbGRzQmFGekNnbElvQmMyY0JacFJxTHRKVWxBZDZhQWQ2QmZVODVSRk1ZRWJoQ3dTTXk0Yk0weFV2RW44eHQ2T3Y0SUs2b0JoUV92aXJXUnlfdmluemtXNmdfa21tZFktVXlVWUY1VXNiRHNvVl9WSQ?oc=5>
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923104_1d5ae15a006801h06s.html>
+
+### 蔡徐坤演唱会预告暗黑风，牛仔废墟秘境即将开启
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5727695436_m15565b24c05301sbf0.html>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-02 17:56  (2 条)
+
+- **蔡徐坤** | 蔡徐坤澳门演唱会原话到底说了什么？ <https://k.sina.com.cn/article_7879923104_1d5ae15a006801h06s.html>
+- **蔡徐坤** | 蔡徐坤演唱会预告暗黑风，牛仔废墟秘境即将开启 <https://k.sina.com.cn/article_5727695436_m15565b24c05301sbf0.html>
 
 ### 2026-08-02 16:52  (1 条)
 
