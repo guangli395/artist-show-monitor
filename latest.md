@@ -1,68 +1,85 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-02 21:24**
-- 本轮扫到 8401 条, 新增 **7** 条
+- 最近更新: **2026-08-02 22:25**
+- 本轮扫到 8409 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (8 条)
 
-### 蔡徐坤为什么选择斗兽场作为巡演主题？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923373_1d5ae16ad06801epds.html>
-
-### 蔡徐坤演唱会《情人》水雾舞台封神，路人直呼被圈粉！
+### 蔡徐坤全开麦唱跳封神，澳门演唱会刷屏
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849300_1d5acf554068013c20.html>
+- 链接: <https://k.sina.com.cn/article_7879923101_1d5ae159d06801n4v8.html>
+
+### 蔡徐坤澳门演唱会演唱了哪些原创歌曲？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923112_1d5ae15a806801wua4.html>
+
+### 蔡徐坤演唱会现场连续唱跳13首是如何保持体力的？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923101_1d5ae159d06801n4uu.html>
 
 ### 大反转！特朗普：同意取消对伊朗的打击，但前提是能够迅速达成协议
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经_金融信息服务商
-- 时间: 2026-08-02 19:05
-- 链接: <https://news.google.com/rss/articles/CBMizgFBVV95cUxPQzVDZzdRWkFmS2ZBM21ZcVNVSGp3Nk9zdnlsYWFhdVI2VWRQenFna09wM1lzc1dBR1ZUaEtFTHNuWE9iYVYxVWdKWThjX183T1RxMTc3LXZKWmNQbThsSThxbWYyZm5hVXhlMWlLbnBJaTBnTDFzSjBfTS01VmRGQzBxeml1TjhYdENMZFlnd1NEaEI3OUV2OHJMOW95dlpLM1hmVXNUODhSZEZNUm8ydi10VlIwTXFtZzFsa19xU3NoUjNZd3NMZDdHYjg1Zw?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-02 22:19
+- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxOcWZpekl1MUFhdENJVmlEbnNkaXhmM3JtWmNsc2lqZDlyS0I5VEwxSzBlUEluSlNPeUpzVThEZHNnMWp6bVdHemZaS1JSa19KMnZPNE5CdC03cEJ0eEg1OVV1aFVxU0N2Mml2eXhvdDZCUEE2TERJMU1UTXlCY3dOOUs0TXFydlNuX2dIQUxPUE83ZDdUc2czdUZ4WXZfdXI3R1pIU0pYdUtWZTNUclNDc295aU1wNjd2N0lnVEY3ZENIcnBvbHl5dzlTeFN0RUE?oc=5>
 
-### 非洲最长公路，冠名“特朗普高速”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-08-02 14:52
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5WRUp3N2dHLTdxbzBEbE81VWtRbWwwcFhkMmcyRXpILXA4SE9TVXFOakJOOGdhQ1lUTWVoazBVdjZVR2h5NEczQjJCSmNiLS1ZalNvNEJwbXdOTDRhdGFTVm1rVG4tNW1tRVE?oc=5>
-
-### 突变！特朗普同意取消对伊朗的打击 “双方已就协议的框架达成一致”！原油永续合约大跌
+### 特朗普谈及伊朗问题：（相关活动）将于明日下午开始。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-08-02 06:05
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9BU3lNaFlieXFtX0JJZWJiRGdYMFZUVDJDbXhCSDNDSXNYNks0ZUVoRmR6SzNfQlU4VENxYjZjdEJuZkZjS1ZJakpMS0dNQUpZQzE4TzRrY2ZHdHYxZ1BuZQ?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-02 21:41
+- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE1WTTZVSFNXZUE4OUo3MTRDMEpQSTJweDZFT3AzRUdOWmNlZmFsbFhjWTA1Q1JpbXNiMFBaMjBwRTI4UFJUd2p3M2doVVJNeFU?oc=5>
 
-### Trump Media 正式推出付费服务，提供更快访问特朗普Truth Social 帖子的服务。 交易公司每月支付...
+### “人为破坏指控”不成立？特朗普与钦点检察官因倒影池问题生分歧
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-08-02 12:17
-- 链接: <https://news.google.com/rss/articles/CBMirwNBVV95cUxPajRLSTJ0MWhpVWNNckgtdEUwY3JRazNmaG5WYmk3TFZlbXF6MU9BaGFUNzUxYmVrbERPSXNfenZPdzdreUc1bGVHOWRyZWJxVnEwR1BFTVlLUU1POGR5cVBiS01VdmdySm51TXNMN2pydzdkZXp5T1BLNWJjaUMyaHYyUV8yZHo0dGlIWDZSc0xjRmJEYjFlU0FUQTJWLXlyMzVnSGktcm9MX3VZY29Ua0llOGIxcHJoQUxULXlJdUI5UjJWdkNjYjBqUjZndk9selotNUlYUHBKT2taako3N3dmUTVKWXdwTWM1REp6Y1hfTTRqODZLaFE3bXktZ1VEUm1wLWlfTjlFMkVTNEZBaFpOMWFWaDEyWFRHUmdRdGFleFRoUlkzU3VlSW1kbHlIOG83ZGRmc0tfMDJxZFpJdVhESW5OZ1lQWVctb3RzNWktQmlRWUsxS1dkSlU1QVlpQnZXeEN2YWQtM2JZRjRtU3V3NVpYeVdUT01CVjlTRk9ud0xxRVFhdEhsVnRoTFB5T1BUMEhCQjZDM2JaMm45M0RDelJ4emJiVEZKUUx2VQ?oc=5>
+- 场馆: 联合早报
+- 时间: 2026-08-02 11:16
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBfaXk0dGR4TjQwbmVmd2JXZXVpZklFNGdqVHRza1Z6dF92aVZuSjBpeGp6amQ1WVhuZ0NpVFZnWkg3ZlExMFdqWXNYekk5M0xvVGhPeHZRTUZHS2RlY1RkQkdqVzFDaElzUVE?oc=5>
 
-### 特朗普暂缓对伊朗动武 以色列警告仍可能发动打击
+### TACO！特朗普“取消对伊朗打击”，伊朗否认曾要求停火，沙特王储曾致电美方“敦促缓和局势”
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: rfi.fr
-- 时间: 2026-08-02 21:19
-- 链接: <https://news.google.com/rss/articles/CBMi6AJBVV95cUxOV2pVVVZYd0ktTGg0dkVXbGR2V2cxOTdzZEJUS2FUM2FCUm5hdDFDUzZfOGpNbkQwY1QtLVBLbmN6NTRwdkM1cENCUjY5dW9jdTBqNlJwNWJINWVhX0M5bEtLcmNJZmdOYnQ1WVd5bFY2YkZRNGtJWVF6eVFzZjlvdUd6a2RtZjRtRjkyOVRHUWpWTUJnRmxsM1VkbHl2bUNIb3N2MmFCbXhQd0NHSTlJN3p2RVNhNnliTEtnM0Q4MVpINTRYbk1RZUw4SWdsb3VKbVVNS0RhN1dWNGJlWE9SLTYzT1NtSDBCV1RNWUhYQnRDYWR1Q2lzU2JjbU5kamVRaG15WkJYaVVjd2ZzUXI3N0hKcUh2X1dPUFZBNWoxSUhTdHlFMUFuOEMzaHB3WWJGdFN5N05WSmZSM2g2Ny1NbGpwZm1HQVY3eFA5dzh5Z1ZfZEgtajY2RFFNTnZ4eTJXdUFUZ0dIUlk?oc=5>
+- 场馆: wallstreetcn.com
+- 时间: 2026-08-02 05:49
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE03d0ZWT3dtTUZOZFVKbFdCOGpkOWZRUlRKRUptRXNRamtjWl8tUWpUWFpKcGpObDFQZjl0WXJhZG9XWXYzeE45eFg3RmFzQTVwbVM0?oc=5>
+
+### 特朗普称美伊3日将举行谈判
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 京报网
+- 时间: 2026-08-02 22:09
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Cazl6RzNtT3FCRUJETUdVc19oS1IxWndYTzNnUzk1aHp0RGdJZkRma1lGMnlxYXN6YmY2cFUwb0g4ektRdzBQUmoxbm5hd3FURi1hSThSRFRxUHE4OGc?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-02 22:25  (8 条)
+
+- **蔡徐坤** | 蔡徐坤全开麦唱跳封神，澳门演唱会刷屏 <https://k.sina.com.cn/article_7879923101_1d5ae159d06801n4v8.html>
+- **蔡徐坤** | 蔡徐坤澳门演唱会演唱了哪些原创歌曲？ <https://k.sina.com.cn/article_7879923112_1d5ae15a806801wua4.html>
+- **蔡徐坤** | 蔡徐坤演唱会现场连续唱跳13首是如何保持体力的？ <https://k.sina.com.cn/article_7879923101_1d5ae159d06801n4uu.html>
+- **特朗普** | 大反转！特朗普：同意取消对伊朗的打击，但前提是能够迅速达成协议 <https://news.google.com/rss/articles/CBMizwFBVV95cUxOcWZpekl1MUFhdENJVmlEbnNkaXhmM3JtWmNsc2lqZDlyS0I5VEwxSzBlUEluSlNPeUpzVThEZHNnMWp6bVdHemZaS1JSa19KMnZPNE5CdC03cEJ0eEg1OVV1aFVxU0N2Mml2eXhvdDZCUEE2TERJMU1UTXlCY3dOOUs0TXFydlNuX2dIQUxPUE83ZDdUc2czdUZ4WXZfdXI3R1pIU0pYdUtWZTNUclNDc295aU1wNjd2N0lnVEY3ZENIcnBvbHl5dzlTeFN0RUE?oc=5>
+- **特朗普** | 特朗普谈及伊朗问题：（相关活动）将于明日下午开始。 <https://news.google.com/rss/articles/CBMiT0FVX3lxTE1WTTZVSFNXZUE4OUo3MTRDMEpQSTJweDZFT3AzRUdOWmNlZmFsbFhjWTA1Q1JpbXNiMFBaMjBwRTI4UFJUd2p3M2doVVJNeFU?oc=5>
+- **特朗普** | “人为破坏指控”不成立？特朗普与钦点检察官因倒影池问题生分歧 <https://news.google.com/rss/articles/CBMiakFVX3lxTFBfaXk0dGR4TjQwbmVmd2JXZXVpZklFNGdqVHRza1Z6dF92aVZuSjBpeGp6amQ1WVhuZ0NpVFZnWkg3ZlExMFdqWXNYekk5M0xvVGhPeHZRTUZHS2RlY1RkQkdqVzFDaElzUVE?oc=5>
+- **特朗普** | TACO！特朗普“取消对伊朗打击”，伊朗否认曾要求停火，沙特王储曾致电美方“敦促缓和局势” <https://news.google.com/rss/articles/CBMiU0FVX3lxTE03d0ZWT3dtTUZOZFVKbFdCOGpkOWZRUlRKRUptRXNRamtjWl8tUWpUWFpKcGpObDFQZjl0WXJhZG9XWXYzeE45eFg3RmFzQTVwbVM0?oc=5>
+- **特朗普** | 特朗普称美伊3日将举行谈判 <https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Cazl6RzNtT3FCRUJETUdVc19oS1IxWndYTzNnUzk1aHp0RGdJZkRma1lGMnlxYXN6YmY2cFUwb0g4ektRdzBQUmoxbm5hd3FURi1hSThSRFRxUHE4OGc?oc=5>
 
 ### 2026-08-02 21:24  (7 条)
 
