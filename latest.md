@@ -1,45 +1,35 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-02 04:50**
-- 本轮扫到 8315 条, 新增 **9** 条
+- 最近更新: **2026-08-02 07:29**
+- 本轮扫到 8326 条, 新增 **11** 条
 
 ---
 
-## 本轮新发现 (9 条)
+## 本轮新发现 (11 条)
 
-### 蔡徐坤TheDeadman演唱会讲了一个什么故事？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923101_1d5ae159d06801n3tw.html>
-
-### 蔡徐坤这次演唱会有生日惊喜彩蛋环节吗？
+### 蔡徐坤庆生照曝光，黑色西装造型亮相，今晚澳门巡演开启
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923101_1d5ae159d06801n3ts.html>
+- 链接: <https://k.sina.com.cn/article_1922407515_72959c5b04001ieb8.html>
 
-### 蔡徐坤默片五年后巡演再掀热潮
+### 蔡徐坤新专辑《KUN》有哪些亮点？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7096020433_1a6f4add106801le94.html>
+- 链接: <https://k.sina.com.cn/article_7879776730_1d5abd9da06803pj3i.html>
 
-### 特朗普：算了，不打了
+### 蔡徐坤新专辑《KUN》设计背后有哪些故事？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: finance.sina.cn
-- 时间: 2026-08-02 03:35
-- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbVVUUWNoSGYwbmVfWkd1aVRQdnNSb3lrdzFYZlZIWWtKaklzb3dXU0JoVVpHai15UU0tNmpUUEJQaGdpWV96SC0tZVNkRXJHU3dtcmVzUXVBbXpIamtDT2MydEp2V2pIVW1wVFIybG9MejVwQUFkRk5YNlpkU18tcTl5MEdKTUJpbEFN?oc=5>
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7880068588_1d5b04dec06801ov7g.html>
 
-### 美代表团时隔7年访华，中企却递上闭门羹，川普恼羞成怒下裁禁令
+### 周杰伦世界巡回演唱会开票时间定了！
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-08-02 04:25
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9MSGRpRnJnOVBBam1RT2RYV2NMTkJUUWVqMzVBdGtlb2RMVzkzalFRUTUzOVJFdjRPY0dSMTZWeGQ2b1gydnJsTFpMUUgtLXNkWlVYdnJzTWV2MFh0ck5jdGE4ZG1reXpMOTI4VEtsTGY?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_6380644334_m17c50e7ee03301bhqg.html>
 
 ### 特朗普称同意取消对伊朗的打击
 
@@ -47,36 +37,74 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-08-02 02:08
-- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcGNaOGd4dkxmYUJoLVl6aFRVY0xJeXh4aVh1LUhLY0FXaUtSaURLdDVOM0tiUmZvWGM5Ny1lSHo3TE5mU192YXNpdXNXSlV4Y1Nrem5PUWNvNkNQc1FrNkVMZ21LZFBoakF0X1dTSFRqQS1kSVY2X1lCMkFmU1BqMVZlbnFmazFkTTJKZWNrWldYNjBKTXR5dk1ZOHpGbnNiZS1qVWVwSXVQRUNHRGl1T2dXUU1FbnRYRDNlYS1UaF9TYWJPYXdEQ0Y4ckoxdi15N2c?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxQM0xlLTNBMHBtMFBSQ05JeUNnN3ZkSjN6SWlOb2RGTVM2YlQxYTJkTWdYd1BCN2RrdExEeGJqMFBVN0dlZHpCdkE2dENKdkU4ek94OWNkd1lsaWh0S0lzMUNBX3VvNUNiOXc5a1dfQlc1S3RSMjdxSkFINDE3MXI5OXZzNV9vV0hPR0FLc29mN3ZYMDJlUUUySXFqNWgzcEFibUtDRmQ2cExiNEVxRTNhWXhOMTkxMXNMWWlvRXI1eDlyYmRzR1FWVjFmWXZqMHdGREE?oc=5>
 
-### 大反转！特朗普：同意取消对伊朗的打击，但前提是能够迅速达成协议
+### 爆料：泽连斯基请特朗普说服马斯克
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-07-31 15:00
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5ad0M4S01YVm5TSnhXbFRaUkxHZ3RxMnJ5dFpnV2M2N0ItRlg4QUdDejNzN2JWYzNadkxPYVlzc1BORkdZalpCdnE2cXpXVWtfWFRZMFc4eTdaek91U21XTUkzSDVuNmxEbFBXcmRiMFZVcTZuUUFNRA?oc=5>
+
+### 特朗普改口了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-08-02 03:18
-- 链接: <https://news.google.com/rss/articles/CBMizAFBVV95cUxPc0MwYndldG5Mc0hrZEFVUjFIZGp1Wk9kdHRoNmx2eVFmQWJtNWdxNTBpMGdUX21Nd2tNUHlCeUhCb2o3VHVVLVhpV2V2Y09MNWVwWG5vZWhQb3BEZWZTQ3hyN2pPTy1mamdxNklmc0l3ZUtGU0taOE5YNjlNMUdoY0hVcE9yM1JaX1h5RUVmQkpsMFBQUVhfTW1aRGJMMS11VE53Tk44eEJDT2VsU29XNXdPREJ0R29jUnVRVTVoa1B6TWdxY19uWEJXUVk?oc=5>
+- 时间: 2026-08-01 23:05
+- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE1FbXFfMTdOamJ3UVNGWU12ZWZVM2N3Wlc3WC1oaUxsbG43WWx6LXVFY2JQTzhDcjhSaDlPeHFNVUxjSXlCUi1RbWdQdVc1NmpHeVZuYWVLZmJscFlsYUo1cDZhRmo3ZXAway10NDJTbXBmcksyQkF5eU9R?oc=5>
 
-### 特朗普旗下集团推出高速信息服务 引发内幕交易担忧
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-08-02 02:58
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5FZnZIOUdzYzJ4THVKZURxZjlLcVlETGNkbTRlRFRienhnbUxQVF9iaDJ0M3dtRXkyME1fckdCck1yYnB6SUMzNE45VERoRVpGaXl3dUo2V3k2dTZGUGNBWEpJOE9ELUV2bnlzQWU5cUE?oc=5>
-
-### 特朗普表示，他已同意“取消对伊朗的袭击”
+### 特朗普政府官员据报正商讨接手伦敦中国“超级大使馆”地块
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-08-02 03:04
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBDVFZyVHYzVkVYSTQ2VUVRbnBxV0twR3NMdVIwQk9TajJkU082b1gtQXR4SkVFM1pTSWNIYjdlTm9Ib2kxV29fMGFUTThyUXJITGdZUmRva29jV2llY1ZNSjQtTGdBVkNZ?oc=5>
+- 场馆: RFI
+- 时间: 2026-08-01 13:22
+- 链接: <https://news.google.com/rss/articles/CBMijgNBVV95cUxQWUVlRlJydk5ockxhUTZhQ0ZIQWlRdURQMEdudWdfcHVEZTNabWhnUTFwVzRxeTJXNHI4cGMwUjlCYmpQOWZvZXZxMEpXZzlWTERkMGRnZFJfMmZQY3hyeGhNRXVlREVVczhteExETFpWVnRFQ1I5UE1NZjdJS1pqVmFCNnNfLU1Jb1cwWEZGN0VJVkg4UGxvcXkxOFdrcnRQbVo0VEdneGczYnJ6LUV1ZmJGSWdmUWlxUndPTndqYkJDcG1RODg2aVhQSW5EWlRzNTRVbjlIUXQ4SnMtRjlJTmkweHFpNEI4dmtETWI1N2VUc21VVHVLOG1tejdNeV8xX0RDUkFza2JBaWczSkVMZ0s1YnlERmRJem9fVExNalZmdkowSFh0em1EY3ZhMXlJcVhQWFFESGlYa3pmMlZ0eVVxS3FJVGpsM3J1dzl4cFI0WWFSb1BtaDJCX01PYXhDNnROb3V6NUNuTlB4eHpmSXBFYm1qbXhadXlFc3FuenFtRno1OWJiVk4wUnhiUQ?oc=5>
+
+### 特朗普抨击“亲密盟友”：不知道她咋想的
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-08-02 05:20
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBpWXFuNzAyQXpGbk91VmxNSjNXUmNRUGhLSl91WjItR2dmNUlBdVQyeW9MUi1vd0xNV2lWaXZqeGZWQXUzY3BETUFPMUg?oc=5>
+
+### 特朗普称同意取消对伊朗的军事打击
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-08-02 03:30
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1WVVJ0Y3VDejQzMWh0bV9HN3Nvc3FwQ3BVRmF0cGxSdXN4a0pWamFDenV3QXBiekhUUkREcUJTSFY3R0thb0VUbHZDTjUxWmRVNmZQOTJ0S1dEcFBjN2pvS2NHRlR6cjRidVZJQmpvWW5mQWcxMi0wZmxzdHg2OFk?oc=5>
+
+### Uncle Trump就是Savior
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-08-02 02:59
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRkNTT1cyQmdjWnc3RmpVVU1WZzdOdjRqX01icDJZSUJLRTFudFBZRTBwbUk2bndkaWtOUjFaYjEwczQwY0MwUmRLV0p2NHVSUVFvZEh1RTJUVmwzLWNnbXVjZUZ6WlE4QmZEQ2xTN3IxcXNXeEM1elJGNVVUc3l4eWxhbC1rYk9V?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-02 07:29  (11 条)
+
+- **蔡徐坤** | 蔡徐坤庆生照曝光，黑色西装造型亮相，今晚澳门巡演开启 <https://k.sina.com.cn/article_1922407515_72959c5b04001ieb8.html>
+- **蔡徐坤** | 蔡徐坤新专辑《KUN》有哪些亮点？ <https://k.sina.com.cn/article_7879776730_1d5abd9da06803pj3i.html>
+- **蔡徐坤** | 蔡徐坤新专辑《KUN》设计背后有哪些故事？ <https://k.sina.com.cn/article_7880068588_1d5b04dec06801ov7g.html>
+- **周杰伦** | 周杰伦世界巡回演唱会开票时间定了！ <https://k.sina.com.cn/article_6380644334_m17c50e7ee03301bhqg.html>
+- **特朗普** | 特朗普称同意取消对伊朗的打击 <https://news.google.com/rss/articles/CBMi0gFBVV95cUxQM0xlLTNBMHBtMFBSQ05JeUNnN3ZkSjN6SWlOb2RGTVM2YlQxYTJkTWdYd1BCN2RrdExEeGJqMFBVN0dlZHpCdkE2dENKdkU4ek94OWNkd1lsaWh0S0lzMUNBX3VvNUNiOXc5a1dfQlc1S3RSMjdxSkFINDE3MXI5OXZzNV9vV0hPR0FLc29mN3ZYMDJlUUUySXFqNWgzcEFibUtDRmQ2cExiNEVxRTNhWXhOMTkxMXNMWWlvRXI1eDlyYmRzR1FWVjFmWXZqMHdGREE?oc=5>
+- **特朗普** | 爆料：泽连斯基请特朗普说服马斯克 <https://news.google.com/rss/articles/CBMieEFVX3lxTE5ad0M4S01YVm5TSnhXbFRaUkxHZ3RxMnJ5dFpnV2M2N0ItRlg4QUdDejNzN2JWYzNadkxPYVlzc1BORkdZalpCdnE2cXpXVWtfWFRZMFc4eTdaek91U21XTUkzSDVuNmxEbFBXcmRiMFZVcTZuUUFNRA?oc=5>
+- **特朗普** | 特朗普改口了 <https://news.google.com/rss/articles/CBMiekFVX3lxTE1FbXFfMTdOamJ3UVNGWU12ZWZVM2N3Wlc3WC1oaUxsbG43WWx6LXVFY2JQTzhDcjhSaDlPeHFNVUxjSXlCUi1RbWdQdVc1NmpHeVZuYWVLZmJscFlsYUo1cDZhRmo3ZXAway10NDJTbXBmcksyQkF5eU9R?oc=5>
+- **特朗普** | 特朗普政府官员据报正商讨接手伦敦中国“超级大使馆”地块 <https://news.google.com/rss/articles/CBMijgNBVV95cUxQWUVlRlJydk5ockxhUTZhQ0ZIQWlRdURQMEdudWdfcHVEZTNabWhnUTFwVzRxeTJXNHI4cGMwUjlCYmpQOWZvZXZxMEpXZzlWTERkMGRnZFJfMmZQY3hyeGhNRXVlREVVczhteExETFpWVnRFQ1I5UE1NZjdJS1pqVmFCNnNfLU1Jb1cwWEZGN0VJVkg4UGxvcXkxOFdrcnRQbVo0VEdneGczYnJ6LUV1ZmJGSWdmUWlxUndPTndqYkJDcG1RODg2aVhQSW5EWlRzNTRVbjlIUXQ4SnMtRjlJTmkweHFpNEI4dmtETWI1N2VUc21VVHVLOG1tejdNeV8xX0RDUkFza2JBaWczSkVMZ0s1YnlERmRJem9fVExNalZmdkowSFh0em1EY3ZhMXlJcVhQWFFESGlYa3pmMlZ0eVVxS3FJVGpsM3J1dzl4cFI0WWFSb1BtaDJCX01PYXhDNnROb3V6NUNuTlB4eHpmSXBFYm1qbXhadXlFc3FuenFtRno1OWJiVk4wUnhiUQ?oc=5>
+- **特朗普** | 特朗普抨击“亲密盟友”：不知道她咋想的 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBpWXFuNzAyQXpGbk91VmxNSjNXUmNRUGhLSl91WjItR2dmNUlBdVQyeW9MUi1vd0xNV2lWaXZqeGZWQXUzY3BETUFPMUg?oc=5>
+- **特朗普** | 特朗普称同意取消对伊朗的军事打击 <https://news.google.com/rss/articles/CBMif0FVX3lxTE1WVVJ0Y3VDejQzMWh0bV9HN3Nvc3FwQ3BVRmF0cGxSdXN4a0pWamFDenV3QXBiekhUUkREcUJTSFY3R0thb0VUbHZDTjUxWmRVNmZQOTJ0S1dEcFBjN2pvS2NHRlR6cjRidVZJQmpvWW5mQWcxMi0wZmxzdHg2OFk?oc=5>
+- **Trump** | Uncle Trump就是Savior <https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRkNTT1cyQmdjWnc3RmpVVU1WZzdOdjRqX01icDJZSUJLRTFudFBZRTBwbUk2bndkaWtOUjFaYjEwczQwY0MwUmRLV0p2NHVSUVFvZEh1RTJUVmwzLWNnbXVjZUZ6WlE4QmZEQ2xTN3IxcXNXeEM1elJGNVVUc3l4eWxhbC1rYk9V?oc=5>
 
 ### 2026-08-02 04:50  (9 条)
 
