@@ -1,68 +1,83 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-02 09:34**
-- 本轮扫到 8333 条, 新增 **7** 条
+- 最近更新: **2026-08-02 11:12**
+- 本轮扫到 8341 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (8 条)
 
-### 一博科技(301366.SZ)发布上半年业绩，归母净利润6382.93万元，同比增长1561.55%
+### 净利同比增超1500% 85亿PCB概念股发布半年报|盘后公告集锦
 
 - 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-02/doc-inikxmtf5137112.shtml>
+- 链接: <https://k.sina.com.cn/article_2868676035_aafc85c302001u094.html?from=finance>
 
-### 蔡徐坤释出生日大片，黑色西装装饰乐器，今晚演唱会
+### 蔡徐坤The Deadman巡演澳门站有哪些必唱曲目？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1614137095_6035c70704002021o.html>
+- 链接: <https://k.sina.com.cn/article_7879849298_1d5acf552068019jko.html>
 
-### 特朗普称同意取消对伊朗的军事打击
+### 蔡徐坤演唱会上首唱的新歌《Plastic Angels》何时上线？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中国网新闻中心
-- 时间: 2026-08-02 06:45
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE5jUFF0ZV9hV3dXQWhPbktPeXVpRWhZZWQzSG5mbjZ2TW9NMlI3ZE9oczYxa3lfVnRSVVdMaFNhZlNRQzJJbG14dmsxekNXT2NpY0FlYXJYSWM4WmtHOWhkb2hDWE04Q08yYjJn?oc=5>
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776724_1d5abd9d406801gzr0.html>
 
-### 周文龙：解构特朗普“Pro Max版”商业帝国
+### 2026周杰伦南京、青岛和三亚巡演购票攻略已出炉！官方没票了怎么买演唱会票比较靠谱？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: zaobao.com
-- 时间: 2026-08-01 21:00
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE5DQkNGNi1JZlBHVVV6RXNTVlg2WVdQazJSSVdXc0NUTmZyaEJub1hYa19aVGVyQ2xxTk16endpbVUyWENaeG1DR0dVV0h1SlpqUk5aOUItdndVdmFaODFEYml5bU9LLVpQMWxia0dLQQ?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_8015470109_1ddc25e1d02001vmum.html?from=tech>
 
-### 特朗普表示同意取消对伊朗的打击，前提是能“迅速”达成协议
+### 特朗普：看起来像是入侵
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-08-02 06:22
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BdjlWMlp1b1Uxa0pvUFpYd2NsTjlEV3d6OTh1QkNlY0tTSWM4X0g1MkZYV3hjcjZucUYtVm9zZHhYN21qc0JvX0t3cXBIYk1wTVNxbk9mMmY1WWlfYWl4ajhBQzZ4QdIBa0FVX3lxTE5hVXU2SW1QMzNRZTJQbG1IbW9MQVRZZmxWWW5aSFg4RzkzaUJ2Q2hUWGVHcnhLSl85SC05d3lZQklIRkthNWd2bFhFYUtNWDFQR010aGJHOHg4T0o3RjNJdkNlQk1PbkZFMGln?oc=5>
+- 场馆: 观察者
+- 时间: 2026-08-01 02:36
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1udXhIOVRaZngtRTJxWFdaZm0tODFyQW9WV3FhYU5jRDlJN3YwQkI3U0doZ0JKaXZtbFhMUklELVNEVWJwd01idmNQaE5za3VYMnJUejVvVko3dnVzajkwYlBnOUJLWVhxYmc?oc=5>
 
-### 特朗普称同意取消对伊朗的打击
+### 谁会花10万美元买特朗普帖文抢先看 刷新底线的新生意
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: news.cctv.com
-- 时间: 2026-08-02 02:14
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBHMzdiNjhhNE9HNERFdGNadnRFVWotcEZXc05TNElMdS14TWhyanJGQXJ5ZkwtbEhMeldvNGg1cWU4WE5XS0pKVlpYc00zenhRdU1mUmVWMVk5MVhDakNFOVJ3S28xSU1ucEpHSnp0VE5HNXBLRGFQYw?oc=5>
+- 场馆: 中华网
+- 时间: 2026-08-02 10:57
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1LWURjUHhFVU9ncG5WeWJhdkFqNGdxQTZqTWcxNm5JMjJvUUdoQ0VnQ2hScFZheTZ1eFdEcHRsYmNIazd1Q05qR3drOGU0c3poVzFrTE1IU1EtLTVFTGR5R1NmdDI2SlFWZUtmcmlXQ1Q?oc=5>
 
-### 特朗普：同意取消对伊朗的打击
+### 特朗普改口了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Sohu
+- 时间: 2026-08-02 00:03
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTTRVQ2dFT2VUTkRsbGViZi1FZkl1aHdMeUsweHlWd2Y5OTJRc2NLVTVyWDJUbHVTbjZLd3hPbUZLc085RGlkdENnMGZSTmtfQnNtUU1tUmJGSklPUTVVem40TEtDUURRUWVGX3BRYmVGX2g5cmFGNHM0M0FjM2E4MXRXdWpqdkRI?oc=5>
+
+### Trump Media将2628枚BTC转入交易所，预计总亏损达5.55亿美元
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 富途牛牛
-- 时间: 2026-08-02 07:53
-- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxNbnBzSGR4aTNfNnZ6SVk4VXJFTzdhSmNXQmZiblRsTHFGemVvd1NYSExMQnJtMGZ2bllickxHWkVXMFM1SFc0cXFHbmFCVk9OX1RKMlFYY2tXemg1TjJXbHRyQXFUbnBfSTJaNFpsOTJjRF9tYXMwdUhyMHdaeHNXaklobw?oc=5>
+- 场馆: TradingView
+- 时间: 2026-08-02 00:53
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE43R2ZPLUJYNVh6TFIzYmtCZlBCaG5HMzEyQnRnc1NldFJkZ1lvLVFON2stQTI1ak9ISG1MM1lNanZSUmVWYkw4RUFiazA1MmhxcGhPem9DSWVGamkxbHpTUWdjWG1ZZw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-02 11:12  (8 条)
+
+- **王一博** | 净利同比增超1500% 85亿PCB概念股发布半年报|盘后公告集锦 <https://k.sina.com.cn/article_2868676035_aafc85c302001u094.html?from=finance>
+- **蔡徐坤** | 蔡徐坤The Deadman巡演澳门站有哪些必唱曲目？ <https://k.sina.com.cn/article_7879849298_1d5acf552068019jko.html>
+- **蔡徐坤** | 蔡徐坤演唱会上首唱的新歌《Plastic Angels》何时上线？ <https://k.sina.com.cn/article_7879776724_1d5abd9d406801gzr0.html>
+- **周杰伦** | 2026周杰伦南京、青岛和三亚巡演购票攻略已出炉！官方没票了怎么买演唱会票比较靠谱？ <https://k.sina.com.cn/article_8015470109_1ddc25e1d02001vmum.html?from=tech>
+- **特朗普** | 特朗普：看起来像是入侵 <https://news.google.com/rss/articles/CBMiakFVX3lxTE1udXhIOVRaZngtRTJxWFdaZm0tODFyQW9WV3FhYU5jRDlJN3YwQkI3U0doZ0JKaXZtbFhMUklELVNEVWJwd01idmNQaE5za3VYMnJUejVvVko3dnVzajkwYlBnOUJLWVhxYmc?oc=5>
+- **特朗普** | 谁会花10万美元买特朗普帖文抢先看 刷新底线的新生意 <https://news.google.com/rss/articles/CBMicEFVX3lxTE1LWURjUHhFVU9ncG5WeWJhdkFqNGdxQTZqTWcxNm5JMjJvUUdoQ0VnQ2hScFZheTZ1eFdEcHRsYmNIazd1Q05qR3drOGU0c3poVzFrTE1IU1EtLTVFTGR5R1NmdDI2SlFWZUtmcmlXQ1Q?oc=5>
+- **特朗普** | 特朗普改口了 <https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTTRVQ2dFT2VUTkRsbGViZi1FZkl1aHdMeUsweHlWd2Y5OTJRc2NLVTVyWDJUbHVTbjZLd3hPbUZLc085RGlkdENnMGZSTmtfQnNtUU1tUmJGSklPUTVVem40TEtDUURRUWVGX3BRYmVGX2g5cmFGNHM0M0FjM2E4MXRXdWpqdkRI?oc=5>
+- **Trump** | Trump Media将2628枚BTC转入交易所，预计总亏损达5.55亿美元 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE43R2ZPLUJYNVh6TFIzYmtCZlBCaG5HMzEyQnRnc1NldFJkZ1lvLVFON2stQTI1ak9ISG1MM1lNanZSUmVWYkw4RUFiazA1MmhxcGhPem9DSWVGamkxbHpTUWdjWG1ZZw?oc=5>
 
 ### 2026-08-02 09:34  (7 条)
 
