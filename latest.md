@@ -1,132 +1,78 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-02 20:27**
-- 本轮扫到 8394 条, 新增 **18** 条
+- 最近更新: **2026-08-02 21:24**
+- 本轮扫到 8401 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (18 条)
+## 本轮新发现 (7 条)
 
-### 蔡徐坤双膝跪地：澳门演唱会上的向死而生
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923119_1d5ae15af06801utlg.html>
-
-### 蔡徐坤新专辑《KUN》在演唱会演唱了哪些歌曲？
+### 蔡徐坤为什么选择斗兽场作为巡演主题？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068013z12.html>
+- 链接: <https://k.sina.com.cn/article_7879923373_1d5ae16ad06801epds.html>
 
-### 蔡徐坤28岁生日演唱会设计了哪些特别环节？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068013z0w.html>
-
-### 蔡徐坤澳门演唱会两场门票多久售罄？
+### 蔡徐坤演唱会《情人》水雾舞台封神，路人直呼被圈粉！
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068013z0u.html>
-
-### 蔡徐坤为演唱会做了哪些特别准备？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849291_1d5acf54b06801i83m.html>
-
-### 蔡徐坤澳门演唱会帅上热搜，全开麦实力圈粉
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849291_1d5acf54b06801i83k.html>
-
-### 蔡徐坤罗马斗兽场巡演下一站在哪里？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923118_1d5ae15ae06801o6se.html>
-
-### 蔡徐坤演唱会为什么选择在澳门举办？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923377_1d5ae16b106801bd2o.html>
-
-### 蔡徐坤演唱会打破圈层偏见，现场实力获路人认可
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924002_m1d5ae192203301h1mq.html>
-
-### 蔡徐坤在澳门演唱会上还演唱了哪些歌曲？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068588_1d5b04dec06801owp2.html>
-
-### 蔡徐坤在生日演唱会上全开麦唱跳了哪些歌曲？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776724_1d5abd9d406801h0be.html>
-
-### 蔡徐坤澳门巡演的水雾舞台特效是如何设计的？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923101_1d5ae159d06801n4ri.html>
-
-### 蔡徐坤演唱会现场真实唱功
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5059772642_m12d9600e205302795i.html>
-
-### 蔡徐坤演唱会外巨型Coldy乖乖站岗
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5934541885_m161b9ec3d03301epc2.html>
-
-### 特朗普又没谱了说美国才是老大
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-08-02 20:17
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbXpJaDcwWnNiYUMxcG1VYko1ajE0OTI5SEdKMWlsQzBCT1RhRDJ6V2lFcDhtSmRGeFpIRERvMG5oZnhIQXBZNUxpcW5tN1A2VlJweGFMRDdGdUZVVERiQ0JOV3piajBJM1pqdUxiRGN4WEo1RWhDTENyNTJvZDZkQU9ZX2tkdUdIbUphMXlLUzI4X2FVZUlSbHRDTVM0eWxjSWd2YUlrdnZUZzFqNW9PNkhNUU9ZUW1lbjdQNTBiVGpNaG9OZGQtOWpqTkFlMVFHVzk3d3Z3djE3aW1lcjhN?oc=5>
+- 链接: <https://k.sina.com.cn/article_7879849300_1d5acf554068013c20.html>
 
 ### 大反转！特朗普：同意取消对伊朗的打击，但前提是能够迅速达成协议
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-02 19:46
-- 链接: <https://news.google.com/rss/articles/CBMizgFBVV95cUxOM3BCWGNYc09ZLVFWR0VfZTlzZ3ZyTnE5blJUUGJZSWFhWmZHZWVjWnd1dVdmSzhuejZQNWxJNnE4dTV6bk5heHBFOGhtSzFoak42N3RKUUdsU004ajR5Z3NfM1FSZHhOUlk4X1UtVllHSGxLbXh2VTNzQjk3b3JlZ3YyUmVnNmNMV2p1dl94Y1BTUm03TEp1eXd6TkdtZ2dXRjY3bTQ0d0szU2I0alBBZy1nMXRJRjBCSkxEMXhDVGY1VUs2LWdqSEVSSF85UQ?oc=5>
+- 场馆: 新浪财经_金融信息服务商
+- 时间: 2026-08-02 19:05
+- 链接: <https://news.google.com/rss/articles/CBMizgFBVV95cUxPQzVDZzdRWkFmS2ZBM21ZcVNVSGp3Nk9zdnlsYWFhdVI2VWRQenFna09wM1lzc1dBR1ZUaEtFTHNuWE9iYVYxVWdKWThjX183T1RxMTc3LXZKWmNQbThsSThxbWYyZm5hVXhlMWlLbnBJaTBnTDFzSjBfTS01VmRGQzBxeml1TjhYdENMZFlnd1NEaEI3OUV2OHJMOW95dlpLM1hmVXNUODhSZEZNUm8ydi10VlIwTXFtZzFsa19xU3NoUjNZd3NMZDdHYjg1Zw?oc=5>
 
-### 从“狠打”到“不打” 特朗普叫停大规模攻击伊朗
+### 非洲最长公路，冠名“特朗普高速”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: dw.com
-- 时间: 2026-08-02 14:51
-- 链接: <https://news.google.com/rss/articles/CBMiogJBVV95cUxQcjEzOW5xZ3BYc3VFbnBPQXJZcUsyeFFBOG5KdENDWFYzOVFQSHdpRVhMNW5LTTc0NjZPQUJycm5IeHFBVmlhTVBUeTlxQUN3dDJRSDF1UU5vX19vME9nUXIxRVdwTENHSnA2Z0pabFVtSWxWZ3BiY3g5czlGY3JhQmhSV1g5OEVLX24ySV9pVjlPbW9pU2lTYWNEWE80Q2R2ekRZWDVpQ2ZDZGFaTXFzeEppNURla0lOSlB0b0FYekZ3ZF91Zzl3bEx3V2pwSE8zZ2RXNVhSU1h5OFp0SUsxMzA5cnhTaV9RNXI0dUNlaUliYTFRRVpOQTVjSVFfM3ZQblBQNWZlSHJuZVo0eVh1aWZOcDBtWDFOV0J6cXpMV0lUd9IBogJBVV95cUxQcjEzOW5xZ3BYc3VFbnBPQXJZcUsyeFFBOG5KdENDWFYzOVFQSHdpRVhMNW5LTTc0NjZPQUJycm5IeHFBVmlhTVBUeTlxQUN3dDJRSDF1UU5vX19vME9nUXIxRVdwTENHSnA2Z0pabFVtSWxWZ3BiY3g5czlGY3JhQmhSV1g5OEVLX24ySV9pVjlPbW9pU2lTYWNEWE80Q2R2ekRZWDVpQ2ZDZGFaTXFzeEppNURla0lOSlB0b0FYekZ3ZF91Zzl3bEx3V2pwSE8zZ2RXNVhSU1h5OFp0SUsxMzA5cnhTaV9RNXI0dUNlaUliYTFRRVpOQTVjSVFfM3ZQblBQNWZlSHJuZVo0eVh1aWZOcDBtWDFOV0J6cXpMV0lUdw?oc=5>
+- 场馆: 观察者
+- 时间: 2026-08-02 14:52
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5WRUp3N2dHLTdxbzBEbE81VWtRbWwwcFhkMmcyRXpILXA4SE9TVXFOakJOOGdhQ1lUTWVoazBVdjZVR2h5NEczQjJCSmNiLS1ZalNvNEJwbXdOTDRhdGFTVm1rVG4tNW1tRVE?oc=5>
 
-### Trump says he called off Iran attack after framework for agreement emerged
+### 突变！特朗普同意取消对伊朗的打击 “双方已就协议的框架达成一致”！原油永续合约大跌
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 东方财富
+- 时间: 2026-08-02 06:05
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9BU3lNaFlieXFtX0JJZWJiRGdYMFZUVDJDbXhCSDNDSXNYNks0ZUVoRmR6SzNfQlU4VENxYjZjdEJuZkZjS1ZJakpMS0dNQUpZQzE4TzRrY2ZHdHYxZ1BuZQ?oc=5>
+
+### Trump Media 正式推出付费服务，提供更快访问特朗普Truth Social 帖子的服务。 交易公司每月支付...
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: CryptoRank
-- 时间: 2026-08-02 06:00
-- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxQQ3VXaFR0ZDR2eXNKR0FMNEFLc0RxdkZPa01NNHowaTFsc1NGTEhJRm9PVUhRRTVjbnZqcExaeFlZVTVDV1pMb2VWWktTTVROR2F1NGlvRkNCalBlaWxrODdkX0FQbUNBNHhLdGZKNHRadDZmcjMxLTVfX0tTbnVTQ01sMEh4R24tUFRKM3dKVQ?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-08-02 12:17
+- 链接: <https://news.google.com/rss/articles/CBMirwNBVV95cUxPajRLSTJ0MWhpVWNNckgtdEUwY3JRazNmaG5WYmk3TFZlbXF6MU9BaGFUNzUxYmVrbERPSXNfenZPdzdreUc1bGVHOWRyZWJxVnEwR1BFTVlLUU1POGR5cVBiS01VdmdySm51TXNMN2pydzdkZXp5T1BLNWJjaUMyaHYyUV8yZHo0dGlIWDZSc0xjRmJEYjFlU0FUQTJWLXlyMzVnSGktcm9MX3VZY29Ua0llOGIxcHJoQUxULXlJdUI5UjJWdkNjYjBqUjZndk9selotNUlYUHBKT2taako3N3dmUTVKWXdwTWM1REp6Y1hfTTRqODZLaFE3bXktZ1VEUm1wLWlfTjlFMkVTNEZBaFpOMWFWaDEyWFRHUmdRdGFleFRoUlkzU3VlSW1kbHlIOG83ZGRmc0tfMDJxZFpJdVhESW5OZ1lQWVctb3RzNWktQmlRWUsxS1dkSlU1QVlpQnZXeEN2YWQtM2JZRjRtU3V3NVpYeVdUT01CVjlTRk9ud0xxRVFhdEhsVnRoTFB5T1BUMEhCQjZDM2JaMm45M0RDelJ4emJiVEZKUUx2VQ?oc=5>
+
+### 特朗普暂缓对伊朗动武 以色列警告仍可能发动打击
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: rfi.fr
+- 时间: 2026-08-02 21:19
+- 链接: <https://news.google.com/rss/articles/CBMi6AJBVV95cUxOV2pVVVZYd0ktTGg0dkVXbGR2V2cxOTdzZEJUS2FUM2FCUm5hdDFDUzZfOGpNbkQwY1QtLVBLbmN6NTRwdkM1cENCUjY5dW9jdTBqNlJwNWJINWVhX0M5bEtLcmNJZmdOYnQ1WVd5bFY2YkZRNGtJWVF6eVFzZjlvdUd6a2RtZjRtRjkyOVRHUWpWTUJnRmxsM1VkbHl2bUNIb3N2MmFCbXhQd0NHSTlJN3p2RVNhNnliTEtnM0Q4MVpINTRYbk1RZUw4SWdsb3VKbVVNS0RhN1dWNGJlWE9SLTYzT1NtSDBCV1RNWUhYQnRDYWR1Q2lzU2JjbU5kamVRaG15WkJYaVVjd2ZzUXI3N0hKcUh2X1dPUFZBNWoxSUhTdHlFMUFuOEMzaHB3WWJGdFN5N05WSmZSM2g2Ny1NbGpwZm1HQVY3eFA5dzh5Z1ZfZEgtajY2RFFNTnZ4eTJXdUFUZ0dIUlk?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-02 21:24  (7 条)
+
+- **蔡徐坤** | 蔡徐坤为什么选择斗兽场作为巡演主题？ <https://k.sina.com.cn/article_7879923373_1d5ae16ad06801epds.html>
+- **蔡徐坤** | 蔡徐坤演唱会《情人》水雾舞台封神，路人直呼被圈粉！ <https://k.sina.com.cn/article_7879849300_1d5acf554068013c20.html>
+- **特朗普** | 大反转！特朗普：同意取消对伊朗的打击，但前提是能够迅速达成协议 <https://news.google.com/rss/articles/CBMizgFBVV95cUxPQzVDZzdRWkFmS2ZBM21ZcVNVSGp3Nk9zdnlsYWFhdVI2VWRQenFna09wM1lzc1dBR1ZUaEtFTHNuWE9iYVYxVWdKWThjX183T1RxMTc3LXZKWmNQbThsSThxbWYyZm5hVXhlMWlLbnBJaTBnTDFzSjBfTS01VmRGQzBxeml1TjhYdENMZFlnd1NEaEI3OUV2OHJMOW95dlpLM1hmVXNUODhSZEZNUm8ydi10VlIwTXFtZzFsa19xU3NoUjNZd3NMZDdHYjg1Zw?oc=5>
+- **特朗普** | 非洲最长公路，冠名“特朗普高速” <https://news.google.com/rss/articles/CBMiakFVX3lxTE5WRUp3N2dHLTdxbzBEbE81VWtRbWwwcFhkMmcyRXpILXA4SE9TVXFOakJOOGdhQ1lUTWVoazBVdjZVR2h5NEczQjJCSmNiLS1ZalNvNEJwbXdOTDRhdGFTVm1rVG4tNW1tRVE?oc=5>
+- **特朗普** | 突变！特朗普同意取消对伊朗的打击 “双方已就协议的框架达成一致”！原油永续合约大跌 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9BU3lNaFlieXFtX0JJZWJiRGdYMFZUVDJDbXhCSDNDSXNYNks0ZUVoRmR6SzNfQlU4VENxYjZjdEJuZkZjS1ZJakpMS0dNQUpZQzE4TzRrY2ZHdHYxZ1BuZQ?oc=5>
+- **Trump** | Trump Media 正式推出付费服务，提供更快访问特朗普Truth Social 帖子的服务。 交易公司每月支付... <https://news.google.com/rss/articles/CBMirwNBVV95cUxPajRLSTJ0MWhpVWNNckgtdEUwY3JRazNmaG5WYmk3TFZlbXF6MU9BaGFUNzUxYmVrbERPSXNfenZPdzdreUc1bGVHOWRyZWJxVnEwR1BFTVlLUU1POGR5cVBiS01VdmdySm51TXNMN2pydzdkZXp5T1BLNWJjaUMyaHYyUV8yZHo0dGlIWDZSc0xjRmJEYjFlU0FUQTJWLXlyMzVnSGktcm9MX3VZY29Ua0llOGIxcHJoQUxULXlJdUI5UjJWdkNjYjBqUjZndk9selotNUlYUHBKT2taako3N3dmUTVKWXdwTWM1REp6Y1hfTTRqODZLaFE3bXktZ1VEUm1wLWlfTjlFMkVTNEZBaFpOMWFWaDEyWFRHUmdRdGFleFRoUlkzU3VlSW1kbHlIOG83ZGRmc0tfMDJxZFpJdVhESW5OZ1lQWVctb3RzNWktQmlRWUsxS1dkSlU1QVlpQnZXeEN2YWQtM2JZRjRtU3V3NVpYeVdUT01CVjlTRk9ud0xxRVFhdEhsVnRoTFB5T1BUMEhCQjZDM2JaMm45M0RDelJ4emJiVEZKUUx2VQ?oc=5>
+- **Trump** | 特朗普暂缓对伊朗动武 以色列警告仍可能发动打击 <https://news.google.com/rss/articles/CBMi6AJBVV95cUxOV2pVVVZYd0ktTGg0dkVXbGR2V2cxOTdzZEJUS2FUM2FCUm5hdDFDUzZfOGpNbkQwY1QtLVBLbmN6NTRwdkM1cENCUjY5dW9jdTBqNlJwNWJINWVhX0M5bEtLcmNJZmdOYnQ1WVd5bFY2YkZRNGtJWVF6eVFzZjlvdUd6a2RtZjRtRjkyOVRHUWpWTUJnRmxsM1VkbHl2bUNIb3N2MmFCbXhQd0NHSTlJN3p2RVNhNnliTEtnM0Q4MVpINTRYbk1RZUw4SWdsb3VKbVVNS0RhN1dWNGJlWE9SLTYzT1NtSDBCV1RNWUhYQnRDYWR1Q2lzU2JjbU5kamVRaG15WkJYaVVjd2ZzUXI3N0hKcUh2X1dPUFZBNWoxSUhTdHlFMUFuOEMzaHB3WWJGdFN5N05WSmZSM2g2Ny1NbGpwZm1HQVY3eFA5dzh5Z1ZfZEgtajY2RFFNTnZ4eTJXdUFUZ0dIUlk?oc=5>
 
 ### 2026-08-02 20:27  (18 条)
 
