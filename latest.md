@@ -1,72 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-02 11:12**
-- 本轮扫到 8341 条, 新增 **8** 条
+- 最近更新: **2026-08-02 12:34**
+- 本轮扫到 8344 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (3 条)
 
-### 净利同比增超1500% 85亿PCB概念股发布半年报|盘后公告集锦
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2868676035_aafc85c302001u094.html?from=finance>
-
-### 蔡徐坤The Deadman巡演澳门站有哪些必唱曲目？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849298_1d5acf552068019jko.html>
-
-### 蔡徐坤演唱会上首唱的新歌《Plastic Angels》何时上线？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776724_1d5abd9d406801gzr0.html>
-
-### 2026周杰伦南京、青岛和三亚巡演购票攻略已出炉！官方没票了怎么买演唱会票比较靠谱？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_8015470109_1ddc25e1d02001vmum.html?from=tech>
-
-### 特朗普：看起来像是入侵
+### 特朗普暂缓对伊朗发动新一轮重大袭击希望尽快达成协议
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-08-01 02:36
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1udXhIOVRaZngtRTJxWFdaZm0tODFyQW9WV3FhYU5jRDlJN3YwQkI3U0doZ0JKaXZtbFhMUklELVNEVWJwd01idmNQaE5za3VYMnJUejVvVko3dnVzajkwYlBnOUJLWVhxYmc?oc=5>
+- 场馆: RFI
+- 时间: 2026-08-02 11:41
+- 链接: <https://news.google.com/rss/articles/CBMiiwNBVV95cUxQNk50bFBBWTNnM19kSU9MbkNKQy1JOU92Mnd1Z3FwVUdTWm9Fdk9YS1ZITTZmU0xpVTJGUEdKREJwVUVyME9oaFl4aFNVOVY2endIZDE4Wkd5NmtGdk9NSGYzYnFvWGo3c2gyVG9aekFLTG1qd2FLSjJPOHh6ZVpkcXpINi1jUFdBekR0UUhxRXNHaTQ1Q3dSYTFOY2hHT2NuSFBXdEZ5dF90LTZYT3pUQ1lyZzl3ZFV3eS1RUHE4eTNJa1ZvcXd1cXY5bElpUFlZN2p6aFR4b3hidnFvLVFFZ1Npc001TjhwUkdabVdFRi11Y3JnbUg0LWwxdDhLZ0FQQk5hRnV1OXFudm4xZWF3dWVld05INWxOdGxCc2RXTDJsZDFnN1l3YVVRZnJaOUZWb2lqb1oxU09CNng2b2xjZ3V1RDR0NjYtWWItVXBySlVfOG8zS3ZJWVowTGpIcFR0UGtFc3psb1RWSWE4NWN5ZlFnX0d3RnE2RmNYanhaRDdyRTVZMF9nMXY5NA?oc=5>
 
-### 谁会花10万美元买特朗普帖文抢先看 刷新底线的新生意
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-08-02 10:57
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1LWURjUHhFVU9ncG5WeWJhdkFqNGdxQTZqTWcxNm5JMjJvUUdoQ0VnQ2hScFZheTZ1eFdEcHRsYmNIazd1Q05qR3drOGU0c3poVzFrTE1IU1EtLTVFTGR5R1NmdDI2SlFWZUtmcmlXQ1Q?oc=5>
-
-### 特朗普改口了
+### 美媒：沙特王储劝特朗普别打伊朗
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Sohu
-- 时间: 2026-08-02 00:03
-- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTTRVQ2dFT2VUTkRsbGViZi1FZkl1aHdMeUsweHlWd2Y5OTJRc2NLVTVyWDJUbHVTbjZLd3hPbUZLc085RGlkdENnMGZSTmtfQnNtUU1tUmJGSklPUTVVem40TEtDUURRUWVGX3BRYmVGX2g5cmFGNHM0M0FjM2E4MXRXdWpqdkRI?oc=5>
+- 场馆: k.sina.com.cn
+- 时间: 2026-08-02 12:27
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBrRG9DRVYzRV9TaWFEeHFzaUdkUDBWTFhua0E5S0EwbkV2d0Z1SDM2LXBEbUoxSzlMX1NwT1c3YXNTb25mOFFKSk1UUDhiY0VOQzNwQ3JpMGxlajVoQ21IRi1hWV9Fc2xDYzNJYXpBMkp6dEpBZ2F3MUlDV1hzTXc?oc=5>
 
-### Trump Media将2628枚BTC转入交易所，预计总亏损达5.55亿美元
+### 特朗普：同意取消对伊朗的打击
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: TradingView
-- 时间: 2026-08-02 00:53
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE43R2ZPLUJYNVh6TFIzYmtCZlBCaG5HMzEyQnRnc1NldFJkZ1lvLVFON2stQTI1ak9ISG1MM1lNanZSUmVWYkw4RUFiazA1MmhxcGhPem9DSWVGamkxbHpTUWdjWG1ZZw?oc=5>
+- 场馆: 新京报
+- 时间: 2026-08-02 02:14
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE85a0wxUWpyQ3A0RVZDWmdYV3J3ZEpUdUNDSENPcUtQOElmaE5iSGJsSXZ4Sk10ZTlnS25ZZG9wd0tLZGdRRDhvbkQxR09aNko1cHFNbGhoUXU1SGluZGZLcVpSMW4?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-02 12:34  (3 条)
+
+- **特朗普** | 特朗普暂缓对伊朗发动新一轮重大袭击希望尽快达成协议 <https://news.google.com/rss/articles/CBMiiwNBVV95cUxQNk50bFBBWTNnM19kSU9MbkNKQy1JOU92Mnd1Z3FwVUdTWm9Fdk9YS1ZITTZmU0xpVTJGUEdKREJwVUVyME9oaFl4aFNVOVY2endIZDE4Wkd5NmtGdk9NSGYzYnFvWGo3c2gyVG9aekFLTG1qd2FLSjJPOHh6ZVpkcXpINi1jUFdBekR0UUhxRXNHaTQ1Q3dSYTFOY2hHT2NuSFBXdEZ5dF90LTZYT3pUQ1lyZzl3ZFV3eS1RUHE4eTNJa1ZvcXd1cXY5bElpUFlZN2p6aFR4b3hidnFvLVFFZ1Npc001TjhwUkdabVdFRi11Y3JnbUg0LWwxdDhLZ0FQQk5hRnV1OXFudm4xZWF3dWVld05INWxOdGxCc2RXTDJsZDFnN1l3YVVRZnJaOUZWb2lqb1oxU09CNng2b2xjZ3V1RDR0NjYtWWItVXBySlVfOG8zS3ZJWVowTGpIcFR0UGtFc3psb1RWSWE4NWN5ZlFnX0d3RnE2RmNYanhaRDdyRTVZMF9nMXY5NA?oc=5>
+- **特朗普** | 美媒：沙特王储劝特朗普别打伊朗 <https://news.google.com/rss/articles/CBMif0FVX3lxTFBrRG9DRVYzRV9TaWFEeHFzaUdkUDBWTFhua0E5S0EwbkV2d0Z1SDM2LXBEbUoxSzlMX1NwT1c3YXNTb25mOFFKSk1UUDhiY0VOQzNwQ3JpMGxlajVoQ21IRi1hWV9Fc2xDYzNJYXpBMkp6dEpBZ2F3MUlDV1hzTXc?oc=5>
+- **特朗普** | 特朗普：同意取消对伊朗的打击 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE85a0wxUWpyQ3A0RVZDWmdYV3J3ZEpUdUNDSENPcUtQOElmaE5iSGJsSXZ4Sk10ZTlnS25ZZG9wd0tLZGdRRDhvbkQxR09aNko1cHFNbGhoUXU1SGluZGZLcVpSMW4?oc=5>
 
 ### 2026-08-02 11:12  (8 条)
 
