@@ -1,80 +1,94 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-02 01:06**
-- 本轮扫到 8306 条, 新增 **10** 条
+- 最近更新: **2026-08-02 04:50**
+- 本轮扫到 8315 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (10 条)
+## 本轮新发现 (9 条)
 
-### 蔡徐坤新歌《Jasmine》与生日有何关联？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849300_1d5acf554068013bfq.html>
-
-### 蔡徐坤新巡演THE DEADMAN的舞台设计有何亮点？
+### 蔡徐坤TheDeadman演唱会讲了一个什么故事？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923118_1d5ae15ae06801o66g.html>
+- 链接: <https://k.sina.com.cn/article_7879923101_1d5ae159d06801n3tw.html>
 
-### 蔡徐坤新专辑《KUN》的创作灵感来源于哪里？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923118_1d5ae15ae06801o66c.html>
-
-### 生日即开唱！蔡徐坤28岁澳门巡演首站燃爆舞台
+### 蔡徐坤这次演唱会有生日惊喜彩蛋环节吗？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923118_1d5ae15ae06801o66a.html>
+- 链接: <https://k.sina.com.cn/article_7879923101_1d5ae159d06801n3ts.html>
 
-### 蔡徐坤新专辑《KUN》与林宥嘉合作了哪些歌曲？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923101_1d5ae159d06801n3ig.html>
-
-### 蔡徐坤澳门演唱会沉浸式开唱，新专辑《KUN》上线
+### 蔡徐坤默片五年后巡演再掀热潮
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923101_1d5ae159d06801n3i6.html>
+- 链接: <https://k.sina.com.cn/article_7096020433_1a6f4add106801le94.html>
 
-### 蔡徐坤新专辑《KUN》收录了哪些歌曲？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849292_1d5acf54c06801dnk2.html>
-
-### 蔡徐坤生日开唱！新专辑《KUN》首秀
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849292_1d5acf54c06801dnjy.html>
-
-### 特朗普称正对伊朗谈判代表失去信心 中东战事恐持续
+### 特朗普：算了，不打了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-07-31 18:32
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaGtrbFdRUnJJV1pqNnBDWnVUYVMwNzR6SHZ3SVhmOHNjdC1tdHZDcEZLbjBSVEh0QkxmSzlVaml1dlBILXZ3dzNYOEo0WkRVX0VpRmlGSk5CUHByOS1KazAyUVp1bnI3TnhsM0t3WW52RUNrNUd4UVFmV0F3cEQ5a3RZN1RKMlp3anVUVUVveU8wR2JnNGpsbHd1ZEV1bzgxSlpkcEdJY2RNd0JSTXh4VExGVzY2S0d2TzlySnJocy1sczhPajRibDduTnJJLUlj?oc=5>
+- 场馆: finance.sina.cn
+- 时间: 2026-08-02 03:35
+- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbVVUUWNoSGYwbmVfWkd1aVRQdnNSb3lrdzFYZlZIWWtKaklzb3dXU0JoVVpHai15UU0tNmpUUEJQaGdpWV96SC0tZVNkRXJHU3dtcmVzUXVBbXpIamtDT2MydEp2V2pIVW1wVFIybG9MejVwQUFkRk5YNlpkU18tcTl5MEdKTUJpbEFN?oc=5>
 
-### 特朗普出席葬礼疑似打瞌睡引争议 白宫怒斥批评者“堕落的白痴”
+### 美代表团时隔7年访华，中企却递上闭门羹，川普恼羞成怒下裁禁令
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 财新
-- 时间: 2026-07-29 11:58
-- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTFBNLTFxSUtIQ3RPdjdUeGVCaTVZY3BvZ1JiVTNIQTZ5R0JaUTg3c01tT2ZqVGdxR2ZvUEE0dmE5YmI1YXpSYldrbjBkX2l0SXRiMGxnamZyMU5QU0JacEFqMXpJUQ?oc=5>
+- 场馆: 手机新浪网
+- 时间: 2026-08-02 04:25
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9MSGRpRnJnOVBBam1RT2RYV2NMTkJUUWVqMzVBdGtlb2RMVzkzalFRUTUzOVJFdjRPY0dSMTZWeGQ2b1gydnJsTFpMUUgtLXNkWlVYdnJzTWV2MFh0ck5jdGE4ZG1reXpMOTI4VEtsTGY?oc=5>
+
+### 特朗普称同意取消对伊朗的打击
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-02 02:08
+- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcGNaOGd4dkxmYUJoLVl6aFRVY0xJeXh4aVh1LUhLY0FXaUtSaURLdDVOM0tiUmZvWGM5Ny1lSHo3TE5mU192YXNpdXNXSlV4Y1Nrem5PUWNvNkNQc1FrNkVMZ21LZFBoakF0X1dTSFRqQS1kSVY2X1lCMkFmU1BqMVZlbnFmazFkTTJKZWNrWldYNjBKTXR5dk1ZOHpGbnNiZS1qVWVwSXVQRUNHRGl1T2dXUU1FbnRYRDNlYS1UaF9TYWJPYXdEQ0Y4ckoxdi15N2c?oc=5>
+
+### 大反转！特朗普：同意取消对伊朗的打击，但前提是能够迅速达成协议
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-02 03:18
+- 链接: <https://news.google.com/rss/articles/CBMizAFBVV95cUxPc0MwYndldG5Mc0hrZEFVUjFIZGp1Wk9kdHRoNmx2eVFmQWJtNWdxNTBpMGdUX21Nd2tNUHlCeUhCb2o3VHVVLVhpV2V2Y09MNWVwWG5vZWhQb3BEZWZTQ3hyN2pPTy1mamdxNklmc0l3ZUtGU0taOE5YNjlNMUdoY0hVcE9yM1JaX1h5RUVmQkpsMFBQUVhfTW1aRGJMMS11VE53Tk44eEJDT2VsU29XNXdPREJ0R29jUnVRVTVoa1B6TWdxY19uWEJXUVk?oc=5>
+
+### 特朗普旗下集团推出高速信息服务 引发内幕交易担忧
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-08-02 02:58
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5FZnZIOUdzYzJ4THVKZURxZjlLcVlETGNkbTRlRFRienhnbUxQVF9iaDJ0M3dtRXkyME1fckdCck1yYnB6SUMzNE45VERoRVpGaXl3dUo2V3k2dTZGUGNBWEpJOE9ELUV2bnlzQWU5cUE?oc=5>
+
+### 特朗普表示，他已同意“取消对伊朗的袭击”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: chinanews.com.cn
+- 时间: 2026-08-02 03:04
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBDVFZyVHYzVkVYSTQ2VUVRbnBxV0twR3NMdVIwQk9TajJkU082b1gtQXR4SkVFM1pTSWNIYjdlTm9Ib2kxV29fMGFUTThyUXJITGdZUmRva29jV2llY1ZNSjQtTGdBVkNZ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-02 04:50  (9 条)
+
+- **蔡徐坤** | 蔡徐坤TheDeadman演唱会讲了一个什么故事？ <https://k.sina.com.cn/article_7879923101_1d5ae159d06801n3tw.html>
+- **蔡徐坤** | 蔡徐坤这次演唱会有生日惊喜彩蛋环节吗？ <https://k.sina.com.cn/article_7879923101_1d5ae159d06801n3ts.html>
+- **蔡徐坤** | 蔡徐坤默片五年后巡演再掀热潮 <https://k.sina.com.cn/article_7096020433_1a6f4add106801le94.html>
+- **特朗普** | 特朗普：算了，不打了 <https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbVVUUWNoSGYwbmVfWkd1aVRQdnNSb3lrdzFYZlZIWWtKaklzb3dXU0JoVVpHai15UU0tNmpUUEJQaGdpWV96SC0tZVNkRXJHU3dtcmVzUXVBbXpIamtDT2MydEp2V2pIVW1wVFIybG9MejVwQUFkRk5YNlpkU18tcTl5MEdKTUJpbEFN?oc=5>
+- **特朗普** | 美代表团时隔7年访华，中企却递上闭门羹，川普恼羞成怒下裁禁令 <https://news.google.com/rss/articles/CBMicEFVX3lxTE9MSGRpRnJnOVBBam1RT2RYV2NMTkJUUWVqMzVBdGtlb2RMVzkzalFRUTUzOVJFdjRPY0dSMTZWeGQ2b1gydnJsTFpMUUgtLXNkWlVYdnJzTWV2MFh0ck5jdGE4ZG1reXpMOTI4VEtsTGY?oc=5>
+- **特朗普** | 特朗普称同意取消对伊朗的打击 <https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcGNaOGd4dkxmYUJoLVl6aFRVY0xJeXh4aVh1LUhLY0FXaUtSaURLdDVOM0tiUmZvWGM5Ny1lSHo3TE5mU192YXNpdXNXSlV4Y1Nrem5PUWNvNkNQc1FrNkVMZ21LZFBoakF0X1dTSFRqQS1kSVY2X1lCMkFmU1BqMVZlbnFmazFkTTJKZWNrWldYNjBKTXR5dk1ZOHpGbnNiZS1qVWVwSXVQRUNHRGl1T2dXUU1FbnRYRDNlYS1UaF9TYWJPYXdEQ0Y4ckoxdi15N2c?oc=5>
+- **特朗普** | 大反转！特朗普：同意取消对伊朗的打击，但前提是能够迅速达成协议 <https://news.google.com/rss/articles/CBMizAFBVV95cUxPc0MwYndldG5Mc0hrZEFVUjFIZGp1Wk9kdHRoNmx2eVFmQWJtNWdxNTBpMGdUX21Nd2tNUHlCeUhCb2o3VHVVLVhpV2V2Y09MNWVwWG5vZWhQb3BEZWZTQ3hyN2pPTy1mamdxNklmc0l3ZUtGU0taOE5YNjlNMUdoY0hVcE9yM1JaX1h5RUVmQkpsMFBQUVhfTW1aRGJMMS11VE53Tk44eEJDT2VsU29XNXdPREJ0R29jUnVRVTVoa1B6TWdxY19uWEJXUVk?oc=5>
+- **特朗普** | 特朗普旗下集团推出高速信息服务 引发内幕交易担忧 <https://news.google.com/rss/articles/CBMicEFVX3lxTE5FZnZIOUdzYzJ4THVKZURxZjlLcVlETGNkbTRlRFRienhnbUxQVF9iaDJ0M3dtRXkyME1fckdCck1yYnB6SUMzNE45VERoRVpGaXl3dUo2V3k2dTZGUGNBWEpJOE9ELUV2bnlzQWU5cUE?oc=5>
+- **特朗普** | 特朗普表示，他已同意“取消对伊朗的袭击” <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBDVFZyVHYzVkVYSTQ2VUVRbnBxV0twR3NMdVIwQk9TajJkU082b1gtQXR4SkVFM1pTSWNIYjdlTm9Ib2kxV29fMGFUTThyUXJITGdZUmRva29jV2llY1ZNSjQtTGdBVkNZ?oc=5>
 
 ### 2026-08-02 01:06  (10 条)
 
