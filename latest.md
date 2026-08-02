@@ -1,40 +1,128 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-02 12:34**
-- 本轮扫到 8344 条, 新增 **3** 条
+- 最近更新: **2026-08-02 14:25**
+- 本轮扫到 8359 条, 新增 **15** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (15 条)
 
-### 特朗普暂缓对伊朗发动新一轮重大袭击希望尽快达成协议
+### 今晚，六家公司发布利好！
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://finance.sina.com.cn/stock/relnews/cn/2026-08-02/doc-inikxrzc5115945.shtml>
+
+### 蔡徐坤演唱会巨型斗兽场框架从天而降
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5617768139_m14ed856cb03301syoo.html>
+
+### 蔡徐坤演唱会巨型斗兽场装置缓缓降落，环形结构空降舞台
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_6579089112_m18824eed803301cbhk.html>
+
+### 蔡徐坤澳门演唱会，现场太震撼了！这恐怖的实力，蔡徐坤太帅了
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7002256903_m1a15df60703301keu8.html>
+
+### 蔡徐坤太帅了！这才是神级演唱会
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7002256903_m1a15df60703301keu6.html>
+
+### 蔡徐坤澳门演唱会，西部荒漠风舞台让人沉浸其中
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_6579089112_m18824eed803301cbh6.html>
+
+### 蔡徐坤澳门演唱会四面台走位稳，照顾每一面观众
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_2105980803_m7d86b78303301gegi.html>
+
+### 蔡徐坤巡演花篮来自哪些粉丝或好友？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923379_1d5ae16b306801lkmq.html>
+
+### 蔡徐坤战损妆亮相演唱会，演绎The Deadman篇章
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5617768139_m14ed856cb03301syoa.html>
+
+### 蔡徐坤战损妆亮相演唱会，演绎荒原史诗
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_6579089112_m18824eed803301cbh4.html>
+
+### 蔡徐坤澳门演唱会前瞻画面释出，电影级暗黑美学拉满
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_2495457342_m94bda83e03301atpc.html>
+
+### 蔡徐坤澳门演唱会即将开场，氛围感拉满
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5556631847_m14b33792705302bjko.html>
+
+### 王俊凯新专辑中哪首歌与周杰伦御用编曲人林迈可合作？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923119_1d5ae15af06801ut1s.html>
+
+### 爆料：马斯克拒绝泽连斯基
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-08-02 11:41
-- 链接: <https://news.google.com/rss/articles/CBMiiwNBVV95cUxQNk50bFBBWTNnM19kSU9MbkNKQy1JOU92Mnd1Z3FwVUdTWm9Fdk9YS1ZITTZmU0xpVTJGUEdKREJwVUVyME9oaFl4aFNVOVY2endIZDE4Wkd5NmtGdk9NSGYzYnFvWGo3c2gyVG9aekFLTG1qd2FLSjJPOHh6ZVpkcXpINi1jUFdBekR0UUhxRXNHaTQ1Q3dSYTFOY2hHT2NuSFBXdEZ5dF90LTZYT3pUQ1lyZzl3ZFV3eS1RUHE4eTNJa1ZvcXd1cXY5bElpUFlZN2p6aFR4b3hidnFvLVFFZ1Npc001TjhwUkdabVdFRi11Y3JnbUg0LWwxdDhLZ0FQQk5hRnV1OXFudm4xZWF3dWVld05INWxOdGxCc2RXTDJsZDFnN1l3YVVRZnJaOUZWb2lqb1oxU09CNng2b2xjZ3V1RDR0NjYtWWItVXBySlVfOG8zS3ZJWVowTGpIcFR0UGtFc3psb1RWSWE4NWN5ZlFnX0d3RnE2RmNYanhaRDdyRTVZMF9nMXY5NA?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-08-01 08:03
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE11bTBXLWcyRV81OXY4VTR4YWx4ejBmOG9KbjF0SldGdkpUSXhYTkdETmFhZV9BaXR3TnhaQ3U5TmRmOFNpR19ibzJ5d3ZEeU5jTFhTOFNaVmxKVlRCY0xsVk1mcnVWajdmeDNxRUs0Z0JKQ3h3?oc=5>
 
-### 美媒：沙特王储劝特朗普别打伊朗
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: k.sina.com.cn
-- 时间: 2026-08-02 12:27
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBrRG9DRVYzRV9TaWFEeHFzaUdkUDBWTFhua0E5S0EwbkV2d0Z1SDM2LXBEbUoxSzlMX1NwT1c3YXNTb25mOFFKSk1UUDhiY0VOQzNwQ3JpMGxlajVoQ21IRi1hWV9Fc2xDYzNJYXpBMkp6dEpBZ2F3MUlDV1hzTXc?oc=5>
-
-### 特朗普：同意取消对伊朗的打击
+### 特朗普相关的超过300个银行帐户被关闭，原因公布
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-08-02 02:14
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE85a0wxUWpyQ3A0RVZDWmdYV3J3ZEpUdUNDSENPcUtQOElmaE5iSGJsSXZ4Sk10ZTlnS25ZZG9wd0tLZGdRRDhvbkQxR09aNko1cHFNbGhoUXU1SGluZGZLcVpSMW4?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-08-02 09:08
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE81XzVvSEhoWXg5RmdWa1kyWWI2azVGMnpFVGVJWFRseDNyeXk3UzZsMDZKQVNrY3NfbzdkX2FQOUtUYXFMUXR6SXpWWWc?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-02 14:25  (15 条)
+
+- **王一博** | 今晚，六家公司发布利好！ <https://finance.sina.com.cn/stock/relnews/cn/2026-08-02/doc-inikxrzc5115945.shtml>
+- **蔡徐坤** | 蔡徐坤演唱会巨型斗兽场框架从天而降 <https://k.sina.com.cn/article_5617768139_m14ed856cb03301syoo.html>
+- **蔡徐坤** | 蔡徐坤演唱会巨型斗兽场装置缓缓降落，环形结构空降舞台 <https://k.sina.com.cn/article_6579089112_m18824eed803301cbhk.html>
+- **蔡徐坤** | 蔡徐坤澳门演唱会，现场太震撼了！这恐怖的实力，蔡徐坤太帅了 <https://k.sina.com.cn/article_7002256903_m1a15df60703301keu8.html>
+- **蔡徐坤** | 蔡徐坤太帅了！这才是神级演唱会 <https://k.sina.com.cn/article_7002256903_m1a15df60703301keu6.html>
+- **蔡徐坤** | 蔡徐坤澳门演唱会，西部荒漠风舞台让人沉浸其中 <https://k.sina.com.cn/article_6579089112_m18824eed803301cbh6.html>
+- **蔡徐坤** | 蔡徐坤澳门演唱会四面台走位稳，照顾每一面观众 <https://k.sina.com.cn/article_2105980803_m7d86b78303301gegi.html>
+- **蔡徐坤** | 蔡徐坤巡演花篮来自哪些粉丝或好友？ <https://k.sina.com.cn/article_7879923379_1d5ae16b306801lkmq.html>
+- **蔡徐坤** | 蔡徐坤战损妆亮相演唱会，演绎The Deadman篇章 <https://k.sina.com.cn/article_5617768139_m14ed856cb03301syoa.html>
+- **蔡徐坤** | 蔡徐坤战损妆亮相演唱会，演绎荒原史诗 <https://k.sina.com.cn/article_6579089112_m18824eed803301cbh4.html>
+- **蔡徐坤** | 蔡徐坤澳门演唱会前瞻画面释出，电影级暗黑美学拉满 <https://k.sina.com.cn/article_2495457342_m94bda83e03301atpc.html>
+- **蔡徐坤** | 蔡徐坤澳门演唱会即将开场，氛围感拉满 <https://k.sina.com.cn/article_5556631847_m14b33792705302bjko.html>
+- **周杰伦** | 王俊凯新专辑中哪首歌与周杰伦御用编曲人林迈可合作？ <https://k.sina.com.cn/article_7879923119_1d5ae15af06801ut1s.html>
+- **特朗普** | 爆料：马斯克拒绝泽连斯基 <https://news.google.com/rss/articles/CBMidEFVX3lxTE11bTBXLWcyRV81OXY4VTR4YWx4ejBmOG9KbjF0SldGdkpUSXhYTkdETmFhZV9BaXR3TnhaQ3U5TmRmOFNpR19ibzJ5d3ZEeU5jTFhTOFNaVmxKVlRCY0xsVk1mcnVWajdmeDNxRUs0Z0JKQ3h3?oc=5>
+- **特朗普** | 特朗普相关的超过300个银行帐户被关闭，原因公布 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE81XzVvSEhoWXg5RmdWa1kyWWI2azVGMnpFVGVJWFRseDNyeXk3UzZsMDZKQVNrY3NfbzdkX2FQOUtUYXFMUXR6SXpWWWc?oc=5>
 
 ### 2026-08-02 12:34  (3 条)
 
