@@ -1,106 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-02 15:36**
-- 本轮扫到 8373 条, 新增 **14** 条
+- 最近更新: **2026-08-02 16:52**
+- 本轮扫到 8374 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (14 条)
+## 本轮新发现 (1 条)
 
-### 蔡徐坤这次巡演与之前相比有何突破？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068013yy0.html>
-
-### 蔡徐坤演唱会禁止携带哪些物品？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068013yy2.html>
-
-### 蔡徐坤澳门演唱会门票如何购买？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068013yxy.html>
-
-### 蔡徐坤泰国演唱会的舞台设计有何特别之处？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849292_1d5acf54c06801dnza.html>
-
-### 蔡徐坤为何选择曼谷作为海外巡演首站？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849292_1d5acf54c06801dnz4.html>
-
-### 蔡徐坤在泰国演唱会上演唱了哪些歌曲？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849292_1d5acf54c06801dnz2.html>
-
-### 蔡徐坤曼谷万人演唱会，粉丝齐喊打怪兽燃爆全场
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849292_1d5acf54c06801dnz0.html>
-
-### 蔡徐坤线上演唱会5G原文件包含哪些曲目？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923379_1d5ae16b306801lkny.html>
-
-### 蔡徐坤演唱会下雪了，天亮之前一定要下一场雪
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5824346124_m15b28780c03302gap6.html>
-
-### 蔡徐坤演唱会下雪，天亮之前浪漫飘雪
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5947704959_m16282c67f03301hrra.html>
-
-### 蔡徐坤澳门演唱会开场战损牛仔造型
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5556631847_m14b33792705302bjmu.html>
-
-### 特朗普，笑麻了！中期选举不到100天，马斯克“强援”从天而降，民主党这回危险了
+### 特朗普帖文每月10万美元能抢先看 频繁点名上市公司
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Sohu
-- 时间: 2026-08-02 14:46
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxQWGJhLW5GVWJHRzJ4c1hoVm9MOVJQOFZSZUI2eWdvd0hYNm4tWDhHRkVOVWlpN0hYNjFERkNCLUZVblBCYTJtMl9ZbEtxeWtVOVhlTHVlbVUzZE9ZQUdqaWhNRkhlN0s1a2pLbjk0VUF0eG5HRXVNWUg5cEZlWGF3ek1RYURwYWJXY3Qwcw?oc=5>
-
-### 特朗普：同意取消对伊朗的打击
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-08-02 02:12
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9TZ1dRbkR3VnllWVlyTlVLaHAzcXdmU2dpdG5nMUViVVpPMEt4RTd2bDRlb05PVnlmWU4xT3dqcTVONG9EMV92dm1Xd3hQUDZ5d1d3YUFGdGRBMy1FNDRuaTVIOXNGUVct?oc=5>
-
-### 从“狠打”到“不打” 特朗普叫停大规模攻击伊朗
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: DW.com
-- 时间: 2026-08-02 14:47
-- 链接: <https://news.google.com/rss/articles/CBMiogJBVV95cUxPNGVycU5mMG0yUjhfZ3ZKYzhxOU14WWtkb2w4NmxXRGZPUVZKWjFDNFo2Nm9WM210UzBHOFdXUWpJaFdxbzlJS09EblhzUWR3ZEktVDBxUWhaX1ZqM2ZZdUhiVklUU19uVEJ1YU9sTzhCZnIzX00wdGFENG9QZ1hYWmdvUUd2MHVJZTRBOWVuaGU0ZnhTRGg5X0ZGUldaWW5OWDNXTkhLeFBKR09EOWJNWnQzc1hXOHdJWjhpLXFGLUFLSnV1dXF4T0VaZ2RHaUJ6R3JQS3pEVE96SWxUMzR4dlc2THJ4WDBRam03alNoMi1IY053MmlIbE5LUkg3V1VtRW45cS1INlZwZjBra2JlUG5yVTJLT0J1a1R5elRiWXN5Z9IBogJBVV95cUxQcjEzOW5xZ3BYc3VFbnBPQXJZcUsyeFFBOG5KdENDWFYzOVFQSHdpRVhMNW5LTTc0NjZPQUJycm5IeHFBVmlhTVBUeTlxQUN3dDJRSDF1UU5vX19vME9nUXIxRVdwTENHSnA2Z0pabFVtSWxWZ3BiY3g5czlGY3JhQmhSV1g5OEVLX24ySV9pVjlPbW9pU2lTYWNEWE80Q2R2ekRZWDVpQ2ZDZGFaTXFzeEppNURla0lOSlB0b0FYekZ3ZF91Zzl3bEx3V2pwSE8zZ2RXNVhSU1h5OFp0SUsxMzA5cnhTaV9RNXI0dUNlaUliYTFRRVpOQTVjSVFfM3ZQblBQNWZlSHJuZVo0eVh1aWZOcDBtWDFOV0J6cXpMV0lUdw?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-02 00:02
+- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxNRDBDXzRjVEpKZU91YXh4WWpSQzExamJIbGRzQmFGekNnbElvQmMyY0JacFJxTHRKVWxBZDZhQWQ2QmZVODVSRk1ZRWJoQ3dTTXk0Yk0weFV2RW44eHQ2T3Y0SUs2b0JoUV92aXJXUnlfdmluemtXNmdfa21tZFktVXlVWUY1VXNiRHNvVl9WSQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-02 16:52  (1 条)
+
+- **特朗普** | 特朗普帖文每月10万美元能抢先看 频繁点名上市公司 <https://news.google.com/rss/articles/CBMijwFBVV95cUxNRDBDXzRjVEpKZU91YXh4WWpSQzExamJIbGRzQmFGekNnbElvQmMyY0JacFJxTHRKVWxBZDZhQWQ2QmZVODVSRk1ZRWJoQ3dTTXk0Yk0weFV2RW44eHQ2T3Y0SUs2b0JoUV92aXJXUnlfdmluemtXNmdfa21tZFktVXlVWUY1VXNiRHNvVl9WSQ?oc=5>
 
 ### 2026-08-02 15:36  (14 条)
 
