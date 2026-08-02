@@ -1,96 +1,78 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-02 07:29**
-- 本轮扫到 8326 条, 新增 **11** 条
+- 最近更新: **2026-08-02 09:34**
+- 本轮扫到 8333 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (11 条)
+## 本轮新发现 (7 条)
 
-### 蔡徐坤庆生照曝光，黑色西装造型亮相，今晚澳门巡演开启
+### 一博科技(301366.SZ)发布上半年业绩，归母净利润6382.93万元，同比增长1561.55%
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-02/doc-inikxmtf5137112.shtml>
+
+### 蔡徐坤释出生日大片，黑色西装装饰乐器，今晚演唱会
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1922407515_72959c5b04001ieb8.html>
-
-### 蔡徐坤新专辑《KUN》有哪些亮点？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776730_1d5abd9da06803pj3i.html>
-
-### 蔡徐坤新专辑《KUN》设计背后有哪些故事？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068588_1d5b04dec06801ov7g.html>
-
-### 周杰伦世界巡回演唱会开票时间定了！
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6380644334_m17c50e7ee03301bhqg.html>
-
-### 特朗普称同意取消对伊朗的打击
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-02 02:08
-- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxQM0xlLTNBMHBtMFBSQ05JeUNnN3ZkSjN6SWlOb2RGTVM2YlQxYTJkTWdYd1BCN2RrdExEeGJqMFBVN0dlZHpCdkE2dENKdkU4ek94OWNkd1lsaWh0S0lzMUNBX3VvNUNiOXc5a1dfQlc1S3RSMjdxSkFINDE3MXI5OXZzNV9vV0hPR0FLc29mN3ZYMDJlUUUySXFqNWgzcEFibUtDRmQ2cExiNEVxRTNhWXhOMTkxMXNMWWlvRXI1eDlyYmRzR1FWVjFmWXZqMHdGREE?oc=5>
-
-### 爆料：泽连斯基请特朗普说服马斯克
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-07-31 15:00
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5ad0M4S01YVm5TSnhXbFRaUkxHZ3RxMnJ5dFpnV2M2N0ItRlg4QUdDejNzN2JWYzNadkxPYVlzc1BORkdZalpCdnE2cXpXVWtfWFRZMFc4eTdaek91U21XTUkzSDVuNmxEbFBXcmRiMFZVcTZuUUFNRA?oc=5>
-
-### 特朗普改口了
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-01 23:05
-- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE1FbXFfMTdOamJ3UVNGWU12ZWZVM2N3Wlc3WC1oaUxsbG43WWx6LXVFY2JQTzhDcjhSaDlPeHFNVUxjSXlCUi1RbWdQdVc1NmpHeVZuYWVLZmJscFlsYUo1cDZhRmo3ZXAway10NDJTbXBmcksyQkF5eU9R?oc=5>
-
-### 特朗普政府官员据报正商讨接手伦敦中国“超级大使馆”地块
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-08-01 13:22
-- 链接: <https://news.google.com/rss/articles/CBMijgNBVV95cUxQWUVlRlJydk5ockxhUTZhQ0ZIQWlRdURQMEdudWdfcHVEZTNabWhnUTFwVzRxeTJXNHI4cGMwUjlCYmpQOWZvZXZxMEpXZzlWTERkMGRnZFJfMmZQY3hyeGhNRXVlREVVczhteExETFpWVnRFQ1I5UE1NZjdJS1pqVmFCNnNfLU1Jb1cwWEZGN0VJVkg4UGxvcXkxOFdrcnRQbVo0VEdneGczYnJ6LUV1ZmJGSWdmUWlxUndPTndqYkJDcG1RODg2aVhQSW5EWlRzNTRVbjlIUXQ4SnMtRjlJTmkweHFpNEI4dmtETWI1N2VUc21VVHVLOG1tejdNeV8xX0RDUkFza2JBaWczSkVMZ0s1YnlERmRJem9fVExNalZmdkowSFh0em1EY3ZhMXlJcVhQWFFESGlYa3pmMlZ0eVVxS3FJVGpsM3J1dzl4cFI0WWFSb1BtaDJCX01PYXhDNnROb3V6NUNuTlB4eHpmSXBFYm1qbXhadXlFc3FuenFtRno1OWJiVk4wUnhiUQ?oc=5>
-
-### 特朗普抨击“亲密盟友”：不知道她咋想的
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-02 05:20
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBpWXFuNzAyQXpGbk91VmxNSjNXUmNRUGhLSl91WjItR2dmNUlBdVQyeW9MUi1vd0xNV2lWaXZqeGZWQXUzY3BETUFPMUg?oc=5>
+- 链接: <https://k.sina.com.cn/article_1614137095_6035c70704002021o.html>
 
 ### 特朗普称同意取消对伊朗的军事打击
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-08-02 03:30
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1WVVJ0Y3VDejQzMWh0bV9HN3Nvc3FwQ3BVRmF0cGxSdXN4a0pWamFDenV3QXBiekhUUkREcUJTSFY3R0thb0VUbHZDTjUxWmRVNmZQOTJ0S1dEcFBjN2pvS2NHRlR6cjRidVZJQmpvWW5mQWcxMi0wZmxzdHg2OFk?oc=5>
+- 场馆: 中国网新闻中心
+- 时间: 2026-08-02 06:45
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE5jUFF0ZV9hV3dXQWhPbktPeXVpRWhZZWQzSG5mbjZ2TW9NMlI3ZE9oczYxa3lfVnRSVVdMaFNhZlNRQzJJbG14dmsxekNXT2NpY0FlYXJYSWM4WmtHOWhkb2hDWE04Q08yYjJn?oc=5>
 
-### Uncle Trump就是Savior
+### 周文龙：解构特朗普“Pro Max版”商业帝国
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: zaobao.com
+- 时间: 2026-08-01 21:00
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE5DQkNGNi1JZlBHVVV6RXNTVlg2WVdQazJSSVdXc0NUTmZyaEJub1hYa19aVGVyQ2xxTk16endpbVUyWENaeG1DR0dVV0h1SlpqUk5aOUItdndVdmFaODFEYml5bU9LLVpQMWxia0dLQQ?oc=5>
+
+### 特朗普表示同意取消对伊朗的打击，前提是能“迅速”达成协议
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: BBC
+- 时间: 2026-08-02 06:22
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BdjlWMlp1b1Uxa0pvUFpYd2NsTjlEV3d6OTh1QkNlY0tTSWM4X0g1MkZYV3hjcjZucUYtVm9zZHhYN21qc0JvX0t3cXBIYk1wTVNxbk9mMmY1WWlfYWl4ajhBQzZ4QdIBa0FVX3lxTE5hVXU2SW1QMzNRZTJQbG1IbW9MQVRZZmxWWW5aSFg4RzkzaUJ2Q2hUWGVHcnhLSl85SC05d3lZQklIRkthNWd2bFhFYUtNWDFQR010aGJHOHg4T0o3RjNJdkNlQk1PbkZFMGln?oc=5>
+
+### 特朗普称同意取消对伊朗的打击
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: news.cctv.com
+- 时间: 2026-08-02 02:14
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBHMzdiNjhhNE9HNERFdGNadnRFVWotcEZXc05TNElMdS14TWhyanJGQXJ5ZkwtbEhMeldvNGg1cWU4WE5XS0pKVlpYc00zenhRdU1mUmVWMVk5MVhDakNFOVJ3S28xSU1ucEpHSnp0VE5HNXBLRGFQYw?oc=5>
+
+### 特朗普：同意取消对伊朗的打击
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-08-02 02:59
-- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRkNTT1cyQmdjWnc3RmpVVU1WZzdOdjRqX01icDJZSUJLRTFudFBZRTBwbUk2bndkaWtOUjFaYjEwczQwY0MwUmRLV0p2NHVSUVFvZEh1RTJUVmwzLWNnbXVjZUZ6WlE4QmZEQ2xTN3IxcXNXeEM1elJGNVVUc3l4eWxhbC1rYk9V?oc=5>
+- 场馆: 富途牛牛
+- 时间: 2026-08-02 07:53
+- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxNbnBzSGR4aTNfNnZ6SVk4VXJFTzdhSmNXQmZiblRsTHFGemVvd1NYSExMQnJtMGZ2bllickxHWkVXMFM1SFc0cXFHbmFCVk9OX1RKMlFYY2tXemg1TjJXbHRyQXFUbnBfSTJaNFpsOTJjRF9tYXMwdUhyMHdaeHNXaklobw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-02 09:34  (7 条)
+
+- **王一博** | 一博科技(301366.SZ)发布上半年业绩，归母净利润6382.93万元，同比增长1561.55% <https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-02/doc-inikxmtf5137112.shtml>
+- **蔡徐坤** | 蔡徐坤释出生日大片，黑色西装装饰乐器，今晚演唱会 <https://k.sina.com.cn/article_1614137095_6035c70704002021o.html>
+- **特朗普** | 特朗普称同意取消对伊朗的军事打击 <https://news.google.com/rss/articles/CBMia0FVX3lxTE5jUFF0ZV9hV3dXQWhPbktPeXVpRWhZZWQzSG5mbjZ2TW9NMlI3ZE9oczYxa3lfVnRSVVdMaFNhZlNRQzJJbG14dmsxekNXT2NpY0FlYXJYSWM4WmtHOWhkb2hDWE04Q08yYjJn?oc=5>
+- **特朗普** | 周文龙：解构特朗普“Pro Max版”商业帝国 <https://news.google.com/rss/articles/CBMib0FVX3lxTE5DQkNGNi1JZlBHVVV6RXNTVlg2WVdQazJSSVdXc0NUTmZyaEJub1hYa19aVGVyQ2xxTk16endpbVUyWENaeG1DR0dVV0h1SlpqUk5aOUItdndVdmFaODFEYml5bU9LLVpQMWxia0dLQQ?oc=5>
+- **特朗普** | 特朗普表示同意取消对伊朗的打击，前提是能“迅速”达成协议 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BdjlWMlp1b1Uxa0pvUFpYd2NsTjlEV3d6OTh1QkNlY0tTSWM4X0g1MkZYV3hjcjZucUYtVm9zZHhYN21qc0JvX0t3cXBIYk1wTVNxbk9mMmY1WWlfYWl4ajhBQzZ4QdIBa0FVX3lxTE5hVXU2SW1QMzNRZTJQbG1IbW9MQVRZZmxWWW5aSFg4RzkzaUJ2Q2hUWGVHcnhLSl85SC05d3lZQklIRkthNWd2bFhFYUtNWDFQR010aGJHOHg4T0o3RjNJdkNlQk1PbkZFMGln?oc=5>
+- **特朗普** | 特朗普称同意取消对伊朗的打击 <https://news.google.com/rss/articles/CBMieEFVX3lxTFBHMzdiNjhhNE9HNERFdGNadnRFVWotcEZXc05TNElMdS14TWhyanJGQXJ5ZkwtbEhMeldvNGg1cWU4WE5XS0pKVlpYc00zenhRdU1mUmVWMVk5MVhDakNFOVJ3S28xSU1ucEpHSnp0VE5HNXBLRGFQYw?oc=5>
+- **Trump** | 特朗普：同意取消对伊朗的打击 <https://news.google.com/rss/articles/CBMigwFBVV95cUxNbnBzSGR4aTNfNnZ6SVk4VXJFTzdhSmNXQmZiblRsTHFGemVvd1NYSExMQnJtMGZ2bllickxHWkVXMFM1SFc0cXFHbmFCVk9OX1RKMlFYY2tXemg1TjJXbHRyQXFUbnBfSTJaNFpsOTJjRF9tYXMwdUhyMHdaeHNXaklobw?oc=5>
 
 ### 2026-08-02 07:29  (11 条)
 
