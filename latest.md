@@ -1,110 +1,138 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-03 15:23**
-- 本轮扫到 8506 条, 新增 **14** 条
+- 最近更新: **2026-08-03 17:23**
+- 本轮扫到 8521 条, 新增 **15** 条
 
 ---
 
-## 本轮新发现 (14 条)
+## 本轮新发现 (15 条)
 
-### 蔡徐坤澳门演唱会生日夜，叙事舞台带来视听盛宴
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301e79s.html>
-
-### 蔡徐坤澳门演唱会《Ride or Die》舞台 反手拿麦克风真的夯爆了
+### 蔡徐坤澳门演唱会的舞台设计有哪些亮点？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2766575417_ma4e6973903301bby6.html>
+- 链接: <https://k.sina.com.cn/article_7879776722_1d5abd9d206801esmm.html>
 
-### 蔡徐坤演唱会说的“走出盒子”具体指什么？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923104_1d5ae15a006801h24o.html>
-
-### 蔡徐坤澳门演唱会全开麦表演反响如何？
+### 蔡徐坤演唱会惊现&#039;两撤&#039;热搜，澳门舞台封神
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923104_1d5ae15a006801h24m.html>
+- 链接: <https://k.sina.com.cn/article_7879776722_1d5abd9d206801esmi.html>
 
-### 蔡徐坤澳门演唱会呈现百老汇质感，西部故事线精致舞美
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6579479545_m1882ae3f903302fq6c.html>
-
-### 蔡徐坤演唱会扔手套，粉丝稳稳接住专属好运
+### 蔡徐坤撤回事件对演唱会热度有何影响？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5727695436_m15565b24c05301scpi.html>
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068013zk0.html>
 
-### 粉丝对蔡徐坤演唱会撒娇片段作何评价？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776724_1d5abd9d406801h1xy.html>
-
-### 蔡徐坤演唱会撒娇名场面：索要飞吻反差萌太犯规
+### 蔡徐坤腿长上热搜，澳门演唱会因何口碑逆转？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776724_1d5abd9d406801h1xw.html>
+- 链接: <https://k.sina.com.cn/article_7879849292_1d5acf54c06801dop8.html>
 
-### 蔡徐坤演唱会撒娇萌态尽显
+### 蔡徐坤澳门演唱会为什么选择四面台废土美学设计？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5059772642_m12d9600e2053027b8c.html>
+- 链接: <https://k.sina.com.cn/article_7879923377_1d5ae16b106801bdp2.html>
 
-### 特朗普：日本向我们求助
+### 内娱最该开演唱会的人来了，蔡徐坤澳门演唱会夯爆了！
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5719836546_m154edc78203301gb7u.html>
+
+### 蔡徐坤演唱会西部牛仔造型燃爆全场
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5556631847_m14b33792705302bkuo.html>
+
+### 蔡徐坤澳门演唱会百老汇质感，沉浸式戏剧舞台体验
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5556631847_m14b33792705302bkum.html>
+
+### 要闻解说 - 特朗普宣布恢复谈判 伊朗否认 各有盘算？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-03 06:09
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE95LTNaOC1icDUya1VZMHZ2MTZZSnY0OVFQazJlaTVLb2FlclhkMGx4ZDc5QnEwTlZOalluLXlWVE1sOHdxNzJJbGZuSUw?oc=5>
+- 场馆: RFI
+- 时间: 2026-08-03 13:34
+- 链接: <https://news.google.com/rss/articles/CBMigwNBVV95cUxNVWtCM1YteTN0N0lqYUZDSDRraFdjQlpBNlhxNXRHdUY3T3A0b1lFdlhIZHVleFVHMHNnQV94djFESHY5UkxIdWVmT0h2ai03Z204Zk1vTnZxd3FMUWRvUkdPVGxXRktXbVNGR3lnNm9KaVBHOXN6a1FnY0lERkZwb3k4ZUVQTVNrd19xLTl5eUVaekE1V0JreDdqcUd2bHFqTW5wTzkzb05zY0E0NUVjVjNFMHBGQlRLWjhsV0FfZXpqcnFZOW9TZU5IWXgzQzF1Ymt0QVJPYmFYcThKaUx4RTVKWjdKUDFVcTZSUmFUOTJjNGpEenZYaS1Nbkl6TDJtN0kzTk14aFo3SzRMdGZRaEFXeFZkR1BJWDl2dHpYdlZiTlBDSHBWSk9RaTBHSnhGUjlncHMyaGRJQTFaZkEzUFkxbm1pZjZrcEhyVVhXcnNEZ19GMWktdUpKWnBaVWVXbXFpOU9yWW9CRi0zR1N1Yjd0aUVKbE1zMV9OeHQzOVVTYVE?oc=5>
 
-### 15年来首次“联合干预”！美日财政部同步证实 特朗普发声
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-08-03 00:42
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE9zN194bGY2N3Q5cUNndkd2OXJUdXFVZXpMVi0wSllfNndRQndCQnlyN0QxNUh1XzNFQk5kZ3NCNHJWakpWZGFNeg?oc=5>
-
-### 大V：特朗普卖帖文是权力变现 引发舆论与法律风暴
+### 美国铜进口激增 交易员赶在特朗普关税决定前布局
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中华军事
-- 时间: 2026-08-03 14:22
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBfaVRkSGpQZ1ZDdjA5Q0NBT0xmbHRFbUlBRmpaUXlGaTdaZnBBUnROS3lFREt2R3cxaC0tbjFXVTRpbTkyTXYxNTRMbzV1UmpQU1VfV25hd2t1OXVrV1d5ZHNDVk50aG83MnNRSWp1elQ?oc=5>
+- 场馆: finance.sina.com.cn
+- 时间: 2026-08-03 15:32
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMDFLRUtxQ0t1Um1EY3RMazljOUNjbFpvWU13N1czczMzeENnLVdMa0F2RWtla2oyei1EOXNiZDQ4WURhbjYtUHdsN3JsazZwS1gwOW1UMllyS2pxRFpSZzRuUGZPengwbkQ0aEUyLTVSOGZMUC1oYTYzQlZQN0t6Z0RQVDVDNTVubDljYzV1MjJIX0FpaHZOODVRbExSNGR4TTI5WXA2Tk8wTGJZaHhteEc4eGEzRkZwVzRGT0pybzd6WDBHWS1WQk5uVEFPVk1F?oc=5>
 
-### 特朗普拒绝为美伊达成协议设定最后期限
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: video.sina.com.cn
-- 时间: 2026-08-03 07:28
-- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxOUU5iM1U1UWxPR2Ntd2ZpVE9YNmg0S1RIb0ZEUU0yck95VHpWbXZQY0xVRFFob1NHQUY4RGhEX2hxaHFkMDNCc21RZnI2cEFUQVNLN1pNbEdYWVVMVW5zdjdIOUZhaFRBQ0dCRW1TanZOQTdqb0pPeHdEbi0tNTBBTjF3?oc=5>
-
-### 特朗普：已决定惩罚加拿大，盟友身份不再豁免
+### 美日突发重磅！特朗普向日本释放强烈信号 美元对日元一度暴跌约260点
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-08-03 06:45
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZZW5vREE4VHVFV1U5ZGF5SVROVF9VYWRfYVhaeXlsUDhCT0RrQ0R2N1Rta09lNDljdGJIUnJ4aGI4UUdVY3k0QmV2aFBSU3M1YUNUOVVkN0FmSndyTTVUdE5vQUc2N29ObFRJaEp1RzU?oc=5>
+- 场馆: 金融界
+- 时间: 2026-08-03 04:57
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE1iVUUtc0VFQTRDdlJjUzNCY0JzUHJ4SXkxNnk1UjZmamdPSVNyemkteDM5SUY3YUl6WlVMYWpieEtTT3BOQzlVS3VKUkxMWnpwc2t2el9Md1lvLWdtS3BuOUo4clFoeUJoZ1VrdHJiWnpsZW1q?oc=5>
+
+### 特朗普：美伊谈判将于3日开始
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: chinanews.com.cn
+- 时间: 2026-08-03 11:41
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFA4ZF8wRWYtS211TzVMVHBzVkpsNFdHNi1hMmpRQXZHbExLd09sVnctcU9rclVBT1llS01PYnVTa29WQlhuTWxCX0tlVWZHaWd3SnNUNE5LaktPbTJZalUxM1ZRd2RoUHp6?oc=5>
+
+### 特朗普最近为什么特别反常
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-08-03 03:41
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBYRXlpcVNNM2VLM1pyQWFyMWplVmpnM2I2bUZoQXhIdC1HNFY5Z0YzZFEtT2phajVnb2JaM29yQjJhMDNjVkpJRElUZEJkQnIydExLRE9pQUxNc1daOXozeFVIM2xHWnhrN1E?oc=5>
+
+### 特朗普称美伊3日将举行谈判
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 央广网
+- 时间: 2026-08-02 23:11
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE0ydkR6U1EwcW9jNmJPX1pPRnktemZBRUpxQmRDN0MxeERZU3QyTnpaQUpZVmI1dU5VYTVWQWRXNzA5aVNFMXpPVUtwYnBZQlF5TDQtdkRuM1dlYzRiOVpSa0phc0JUZ2Fh?oc=5>
+
+### 美国和伊朗寻求外交途径之际，油价下跌，全球市场涨跌互现
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-08-03 15:43
+- 链接: <https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWjJmLVlJa2dla0NRa0Y3RXkwXzVLaVhoRll1N2p4NGhkblBkbjRIOWMwNW5CQkxVbUEzUFpKU0xYN0ZZLXFNb2t0Vks5eE1lYzRBek9DYjhnQ29tbHl1NjJXc1ktU3RoWmNjM2htLWJhaW1lMzYteTdEclJjNHh0Z2psR2lQeGRSRVR5QTItRFVGdzBFalNWZ194R09UNmtjcVp3b1hZQTdIUHZ3MmdzZzdwMDkzXzVYd3E1dEVuOGhoQdIBxAFBVV95cUxPLVVZMkh5clV0Y0k1ZjdGa2NxRFhQMTMzR1hXcXRtcTJsT283MlFlRE4xX3lLMDVYS2VXUURrbnlSSnNINERCaHA3Unc3VmlzUnpITll3NGVhMnZnX3UyaHFxMm5fT3VYRDJaUkNaTEEwV1UxbG1vSWxZZjVKTmx0ZW16bnFyTjdGajFzNWllaDNtSjlhYUZQVnNVYUExR3ZtSm1XN1hVS3VLdzRNWlhZS0FNQTJNeGYyVFhmelJLZ09lcjI1?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-03 17:23  (15 条)
+
+- **蔡徐坤** | 蔡徐坤澳门演唱会的舞台设计有哪些亮点？ <https://k.sina.com.cn/article_7879776722_1d5abd9d206801esmm.html>
+- **蔡徐坤** | 蔡徐坤演唱会惊现&#039;两撤&#039;热搜，澳门舞台封神 <https://k.sina.com.cn/article_7879776722_1d5abd9d206801esmi.html>
+- **蔡徐坤** | 蔡徐坤撤回事件对演唱会热度有何影响？ <https://k.sina.com.cn/article_7879776356_1d5abd864068013zk0.html>
+- **蔡徐坤** | 蔡徐坤腿长上热搜，澳门演唱会因何口碑逆转？ <https://k.sina.com.cn/article_7879849292_1d5acf54c06801dop8.html>
+- **蔡徐坤** | 蔡徐坤澳门演唱会为什么选择四面台废土美学设计？ <https://k.sina.com.cn/article_7879923377_1d5ae16b106801bdp2.html>
+- **蔡徐坤** | 内娱最该开演唱会的人来了，蔡徐坤澳门演唱会夯爆了！ <https://k.sina.com.cn/article_5719836546_m154edc78203301gb7u.html>
+- **蔡徐坤** | 蔡徐坤演唱会西部牛仔造型燃爆全场 <https://k.sina.com.cn/article_5556631847_m14b33792705302bkuo.html>
+- **蔡徐坤** | 蔡徐坤澳门演唱会百老汇质感，沉浸式戏剧舞台体验 <https://k.sina.com.cn/article_5556631847_m14b33792705302bkum.html>
+- **特朗普** | 要闻解说 - 特朗普宣布恢复谈判 伊朗否认 各有盘算？ <https://news.google.com/rss/articles/CBMigwNBVV95cUxNVWtCM1YteTN0N0lqYUZDSDRraFdjQlpBNlhxNXRHdUY3T3A0b1lFdlhIZHVleFVHMHNnQV94djFESHY5UkxIdWVmT0h2ai03Z204Zk1vTnZxd3FMUWRvUkdPVGxXRktXbVNGR3lnNm9KaVBHOXN6a1FnY0lERkZwb3k4ZUVQTVNrd19xLTl5eUVaekE1V0JreDdqcUd2bHFqTW5wTzkzb05zY0E0NUVjVjNFMHBGQlRLWjhsV0FfZXpqcnFZOW9TZU5IWXgzQzF1Ymt0QVJPYmFYcThKaUx4RTVKWjdKUDFVcTZSUmFUOTJjNGpEenZYaS1Nbkl6TDJtN0kzTk14aFo3SzRMdGZRaEFXeFZkR1BJWDl2dHpYdlZiTlBDSHBWSk9RaTBHSnhGUjlncHMyaGRJQTFaZkEzUFkxbm1pZjZrcEhyVVhXcnNEZ19GMWktdUpKWnBaVWVXbXFpOU9yWW9CRi0zR1N1Yjd0aUVKbE1zMV9OeHQzOVVTYVE?oc=5>
+- **特朗普** | 美国铜进口激增 交易员赶在特朗普关税决定前布局 <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMDFLRUtxQ0t1Um1EY3RMazljOUNjbFpvWU13N1czczMzeENnLVdMa0F2RWtla2oyei1EOXNiZDQ4WURhbjYtUHdsN3JsazZwS1gwOW1UMllyS2pxRFpSZzRuUGZPengwbkQ0aEUyLTVSOGZMUC1oYTYzQlZQN0t6Z0RQVDVDNTVubDljYzV1MjJIX0FpaHZOODVRbExSNGR4TTI5WXA2Tk8wTGJZaHhteEc4eGEzRkZwVzRGT0pybzd6WDBHWS1WQk5uVEFPVk1F?oc=5>
+- **特朗普** | 美日突发重磅！特朗普向日本释放强烈信号 美元对日元一度暴跌约260点 <https://news.google.com/rss/articles/CBMidEFVX3lxTE1iVUUtc0VFQTRDdlJjUzNCY0JzUHJ4SXkxNnk1UjZmamdPSVNyemkteDM5SUY3YUl6WlVMYWpieEtTT3BOQzlVS3VKUkxMWnpwc2t2el9Md1lvLWdtS3BuOUo4clFoeUJoZ1VrdHJiWnpsZW1q?oc=5>
+- **特朗普** | 特朗普：美伊谈判将于3日开始 <https://news.google.com/rss/articles/CBMiaEFVX3lxTFA4ZF8wRWYtS211TzVMVHBzVkpsNFdHNi1hMmpRQXZHbExLd09sVnctcU9rclVBT1llS01PYnVTa29WQlhuTWxCX0tlVWZHaWd3SnNUNE5LaktPbTJZalUxM1ZRd2RoUHp6?oc=5>
+- **特朗普** | 特朗普最近为什么特别反常 <https://news.google.com/rss/articles/CBMiakFVX3lxTFBYRXlpcVNNM2VLM1pyQWFyMWplVmpnM2I2bUZoQXhIdC1HNFY5Z0YzZFEtT2phajVnb2JaM29yQjJhMDNjVkpJRElUZEJkQnIydExLRE9pQUxNc1daOXozeFVIM2xHWnhrN1E?oc=5>
+- **特朗普** | 特朗普称美伊3日将举行谈判 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE0ydkR6U1EwcW9jNmJPX1pPRnktemZBRUpxQmRDN0MxeERZU3QyTnpaQUpZVmI1dU5VYTVWQWRXNzA5aVNFMXpPVUtwYnBZQlF5TDQtdkRuM1dlYzRiOVpSa0phc0JUZ2Fh?oc=5>
+- **Trump** | 美国和伊朗寻求外交途径之际，油价下跌，全球市场涨跌互现 <https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWjJmLVlJa2dla0NRa0Y3RXkwXzVLaVhoRll1N2p4NGhkblBkbjRIOWMwNW5CQkxVbUEzUFpKU0xYN0ZZLXFNb2t0Vks5eE1lYzRBek9DYjhnQ29tbHl1NjJXc1ktU3RoWmNjM2htLWJhaW1lMzYteTdEclJjNHh0Z2psR2lQeGRSRVR5QTItRFVGdzBFalNWZ194R09UNmtjcVp3b1hZQTdIUHZ3MmdzZzdwMDkzXzVYd3E1dEVuOGhoQdIBxAFBVV95cUxPLVVZMkh5clV0Y0k1ZjdGa2NxRFhQMTMzR1hXcXRtcTJsT283MlFlRE4xX3lLMDVYS2VXUURrbnlSSnNINERCaHA3Unc3VmlzUnpITll3NGVhMnZnX3UyaHFxMm5fT3VYRDJaUkNaTEEwV1UxbG1vSWxZZjVKTmx0ZW16bnFyTjdGajFzNWllaDNtSjlhYUZQVnNVYUExR3ZtSm1XN1hVS3VLdzRNWlhZS0FNQTJNeGYyVFhmelJLZ09lcjI1?oc=5>
 
 ### 2026-08-03 15:23  (14 条)
 
