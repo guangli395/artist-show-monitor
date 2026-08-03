@@ -1,106 +1,79 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-03 20:42**
-- 本轮扫到 8539 条, 新增 **13** 条
+- 最近更新: **2026-08-03 22:02**
+- 本轮扫到 8547 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (13 条)
+## 本轮新发现 (8 条)
 
-### 蔡徐坤演唱会“撕掉爱豆标签”原话到底是什么？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776724_1d5abd9d406801h2jq.html>
-
-### 蔡徐坤在澳门演唱会上说的“困住我的盒子”具体指什么？
+### 蔡徐坤腿长瞩目！撤回两次反差萌引爆澳门演唱会
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923373_1d5ae16ad06801epz8.html>
+- 链接: <https://k.sina.com.cn/article_7879923119_1d5ae15af06801uvz6.html>
 
-### 蔡徐坤演唱会全开麦唱跳近两小时，对歌手体能要求有多高？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923373_1d5ae16ad06801epzg.html>
-
-### 蔡徐坤的新歌《Plastic Angels》什么时候正式上线？
+### 蔡徐坤澳门演唱会逗猫视频为何发了又删？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923373_1d5ae16ad06801epz6.html>
+- 链接: <https://k.sina.com.cn/article_7879849300_1d5acf554068013ctq.html>
 
-### 蔡徐坤澳门演唱会现场观众评价如何？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776724_1d5abd9d406801h2j0.html>
-
-### 蔡徐坤澳门演唱会生日场有哪些特别互动环节？
+### 蔡徐坤没退游！澳门演唱会逗猫两发两撤
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776724_1d5abd9d406801h2iu.html>
+- 链接: <https://k.sina.com.cn/article_7879849300_1d5acf554068013ctm.html>
 
-### 蔡徐坤澳门演唱会门票开售多久售罄？
+### 蔡徐坤演唱会上小黄豆的灯牌为何会与舞台画面错位？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776724_1d5abd9d406801h2is.html>
+- 链接: <https://k.sina.com.cn/article_7880068588_1d5b04dec06801ozm0.html>
 
-### 特朗普批石油公司大赚一笔
+### 蔡徐坤演唱会大屏错位，小黄豆被“踩”脚下反成爆笑名场面
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-08-03 20:18
-- 链接: <https://news.google.com/rss/articles/CBMi7wFBVV95cUxQb2RaV09zczFtb0JValg5NTJfaHZPT21lZFhmQVl3NjNnN2hMbGc4OXdaN2pzQ1hfZmNpelN0WlV3THkxenBIRzNUaTh0T0QzQTM1a0tmNzBxdlRSRmttcFZMdnJUeFNxRGY0cnBBbGJyUVZJc3ExeVFLUmxVZTdlaWpsTUpXUDRfNzhFVGx5MHhsS1hjdHJOMlhPdVIxd2ZRa1RvVmtWc2JsNEwza1RieVd0REZCZi1TXzd3NzV1QW9rSDdtdzI1TWFUTllTTmx3b052b2huZTUya2pfX3FEQ1JHeW1TdVh6Qmw3ckZqTQ?oc=5>
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7880068588_1d5b04dec06801ozly.html>
 
-### 特朗普证实美日联合干预日元汇率，再提珍珠港
+### 蔡徐坤演唱会真实水平到底怎么样？今天来实地考察一下
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002oxxo.html>
+
+### 美国多个州就特朗普最新关税提起诉讼
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-08-02 23:37
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9oaEVpOXlGRVoyUGlSSld3Uldzby1SOXEwenpFUnMzenNJazFJcFZYMWdMU3RyR09rY1YtekhvdTBxeUJMZWJYTzFrOW1ybDh4T1RoWkpMdFdXdnM1c2gzTUw4SkFiMElWWDdKcHFFRmQxb3RFYnNkSw?oc=5>
+- 时间: 2026-08-03 20:41
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUG1XQy01V0thS3QwV3RpaGRNbG5JaF9KYlVpWGZpRlhtRXg4Z1B2eVpJYktvMzBsWW52LXhSTW11OEJfdUl4aFgyMG5pckhnSW9EYmctaWNiMHh2Qk5tNVhZcEFkc0pXLThLYlpjMFA4SGoxTy1PaVVaQ2c4QUpYMUx6SVdIbWZiLTZDUmZmZjZrY1JvRHY1NF9paXRLam9sRDNYQ1VsajRCTEhuaFAzUjduQjlORzNxQW54MTJnNDFXblBXNUNVOFpkOGJ2cDNQMHhZcUxUQmFkUzdXQ2Rz?oc=5>
 
-### 美媒曝特朗普狂向企业要钱 权力与金钱的界限模糊
+### 美25个州在法庭挑战特朗普最新的关税政策
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中华军事
-- 时间: 2026-08-03 14:30
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE52X0pHcWlzbWlNd1c3ZGhOTUFSUDBlOFB4TWt4OUNTajczcS1JYjRBLXRxeXhQbUlMQ004dzM2OXNsMmtUZnJqQ3pxM3cxNnJEajd0aTBwZ2JFMmx4Y3p4Q0ZzbnRVcEs4c2RwRnFqTnU?oc=5>
-
-### 特朗普总统指责伊朗表里不一，重申核红线
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-08-03 19:05
-- 链接: <https://news.google.com/rss/articles/CBMivAFBVV95cUxPdFRiMGMyQ3lRN291MDJSMGFfOFFDVGNXNTVOblplODRoX0xULUFMdnB0MkIwZVpwaUpzOWh0TlotbW8yYkR1TFNkbzVIZUlQeDBUa1MzX0pDeXhUVVRIbkZmWk9PLWI3UEw3cUk1LWhXbHlDUnVfM0RuY0p6SEtncWNqeWVDcUR6RVdydzlDSmgydEhZNE5CN1ZHc09Ka29uRDA4MXl1dkVEbGlWVVBQTEdlY1dqa1RQQ1NSc9IBvwFBVV95cUxNdFAwd3Rhc0VKc01rYXEwaC1ad0hLaWUzMExJXzVDQTBjWGNjMUdiMExSSTU2SmlaVUduMXpjTzUtN3U1SC1RUXN5UVpnZUphMjhEcktzTFRtSUJMeXBETmw0aDlFaVBDZkg1RTBjbFpJWENNaVRFRmNkR1NlSHFpODg3X2hlaUpaMk45eVdQTExRRTg1NHg0bkFJZWNnNHUtX2tMUS1zdXEtZzl2dUJPZ1VHd3NFck8yWlVydUpjcw?oc=5>
-
-### Trump Tacoed. 川普取消军事打击， Monday will be bullish, 星期一牛市
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-08-03 00:31
-- 链接: <https://news.google.com/rss/articles/CBMivgFBVV95cUxNbElycU5QcU1jcU96R2x4SjR1cktWZXhuUkdsMUtBdmo5Nko4R1JzUW1tSEd0MkhiX1ZCdjlORU9GNlNxRldVNlpyM2lld2ZRVmtjeE9sQXRuSVp5aVNMVzEzaFhvUDRUT2FvaWxSMWpEVnBHeFlSb2N2QldnaWstN3pTZ29nb0l6c29aalNkX0x0MnI3a0ZrQWZNUTFTSTdOVGdCa2JtOHRodS1WYmJmSXlIRkNYSUs3T2VFZjln?oc=5>
-
-### 特朗普家族旗下比特币矿商连续三季亏损，股价较峰值跌逾九成
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-08-03 20:16
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvaEhJOUUwRFVYVUdYSV8xQWY0RmNwT1J4eVBVTUI5VXExMVRUd3lPNjg5eE5kSWkweFp6WEJsekZFNzZ4T09RSk5IV291Rk9aTHFZ?oc=5>
+- 场馆: RFI
+- 时间: 2026-08-03 20:50
+- 链接: <https://news.google.com/rss/articles/CBMiugJBVV95cUxPbGo3dFZuTElDVEppeDRnVHBYQWV6RVNWQUg4TTZKT09IZzBPTFJJOFVBbTF1ekpoMkYxaU42dEx0aUl5X0RyNjE5Tk9nNUx3TC03UDNuM1hCVUtLZWJUSFpWOWx4NGVWV3lEdlRsM05Xeml0Q0JKUVFTaEhRbGU3ZjRLcnd4Qk1RZk9lNGZiUjFsV2c4d19tM2Z0ZHlpaUJuTFBVNXVBZzZhTERKLVJLcUdTOV9uQXVMUE9HdkQxT2xzWTJ0Q1paMmROY2tPNGw4OWRrNVRzZ3ZsM0o5dEh6c3d3aFdNUzM5THd6YlAxT3ExSUlncXJFS0E0eDNCZktDcjhlaFRVTnV0T1hXUlRaYWpPMS1ybnRxY0YwcVhpVGdqS2ctVjFNU1JtWExKbU15cFhsQjhJTnRYUQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-03 22:02  (8 条)
+
+- **蔡徐坤** | 蔡徐坤腿长瞩目！撤回两次反差萌引爆澳门演唱会 <https://k.sina.com.cn/article_7879923119_1d5ae15af06801uvz6.html>
+- **蔡徐坤** | 蔡徐坤澳门演唱会逗猫视频为何发了又删？ <https://k.sina.com.cn/article_7879849300_1d5acf554068013ctq.html>
+- **蔡徐坤** | 蔡徐坤没退游！澳门演唱会逗猫两发两撤 <https://k.sina.com.cn/article_7879849300_1d5acf554068013ctm.html>
+- **蔡徐坤** | 蔡徐坤演唱会上小黄豆的灯牌为何会与舞台画面错位？ <https://k.sina.com.cn/article_7880068588_1d5b04dec06801ozm0.html>
+- **蔡徐坤** | 蔡徐坤演唱会大屏错位，小黄豆被“踩”脚下反成爆笑名场面 <https://k.sina.com.cn/article_7880068588_1d5b04dec06801ozly.html>
+- **蔡徐坤** | 蔡徐坤演唱会真实水平到底怎么样？今天来实地考察一下 <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002oxxo.html>
+- **特朗普** | 美国多个州就特朗普最新关税提起诉讼 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUG1XQy01V0thS3QwV3RpaGRNbG5JaF9KYlVpWGZpRlhtRXg4Z1B2eVpJYktvMzBsWW52LXhSTW11OEJfdUl4aFgyMG5pckhnSW9EYmctaWNiMHh2Qk5tNVhZcEFkc0pXLThLYlpjMFA4SGoxTy1PaVVaQ2c4QUpYMUx6SVdIbWZiLTZDUmZmZjZrY1JvRHY1NF9paXRLam9sRDNYQ1VsajRCTEhuaFAzUjduQjlORzNxQW54MTJnNDFXblBXNUNVOFpkOGJ2cDNQMHhZcUxUQmFkUzdXQ2Rz?oc=5>
+- **特朗普** | 美25个州在法庭挑战特朗普最新的关税政策 <https://news.google.com/rss/articles/CBMiugJBVV95cUxPbGo3dFZuTElDVEppeDRnVHBYQWV6RVNWQUg4TTZKT09IZzBPTFJJOFVBbTF1ekpoMkYxaU42dEx0aUl5X0RyNjE5Tk9nNUx3TC03UDNuM1hCVUtLZWJUSFpWOWx4NGVWV3lEdlRsM05Xeml0Q0JKUVFTaEhRbGU3ZjRLcnd4Qk1RZk9lNGZiUjFsV2c4d19tM2Z0ZHlpaUJuTFBVNXVBZzZhTERKLVJLcUdTOV9uQXVMUE9HdkQxT2xzWTJ0Q1paMmROY2tPNGw4OWRrNVRzZ3ZsM0o5dEh6c3d3aFdNUzM5THd6YlAxT3ExSUlncXJFS0E0eDNCZktDcjhlaFRVTnV0T1hXUlRaYWpPMS1ybnRxY0YwcVhpVGdqS2ctVjFNU1JtWExKbU15cFhsQjhJTnRYUQ?oc=5>
 
 ### 2026-08-03 20:42  (13 条)
 
