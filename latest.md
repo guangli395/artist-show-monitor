@@ -1,47 +1,11 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-03 22:02**
-- 本轮扫到 8547 条, 新增 **8** 条
+- 最近更新: **2026-08-03 23:33**
+- 本轮扫到 8556 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (8 条)
-
-### 蔡徐坤腿长瞩目！撤回两次反差萌引爆澳门演唱会
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923119_1d5ae15af06801uvz6.html>
-
-### 蔡徐坤澳门演唱会逗猫视频为何发了又删？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849300_1d5acf554068013ctq.html>
-
-### 蔡徐坤没退游！澳门演唱会逗猫两发两撤
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849300_1d5acf554068013ctm.html>
-
-### 蔡徐坤演唱会上小黄豆的灯牌为何会与舞台画面错位？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068588_1d5b04dec06801ozm0.html>
-
-### 蔡徐坤演唱会大屏错位，小黄豆被“踩”脚下反成爆笑名场面
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068588_1d5b04dec06801ozly.html>
-
-### 蔡徐坤演唱会真实水平到底怎么样？今天来实地考察一下
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002oxxo.html>
+## 本轮新发现 (9 条)
 
 ### 美国多个州就特朗普最新关税提起诉讼
 
@@ -49,20 +13,88 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-08-03 20:41
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUG1XQy01V0thS3QwV3RpaGRNbG5JaF9KYlVpWGZpRlhtRXg4Z1B2eVpJYktvMzBsWW52LXhSTW11OEJfdUl4aFgyMG5pckhnSW9EYmctaWNiMHh2Qk5tNVhZcEFkc0pXLThLYlpjMFA4SGoxTy1PaVVaQ2c4QUpYMUx6SVdIbWZiLTZDUmZmZjZrY1JvRHY1NF9paXRLam9sRDNYQ1VsajRCTEhuaFAzUjduQjlORzNxQW54MTJnNDFXblBXNUNVOFpkOGJ2cDNQMHhZcUxUQmFkUzdXQ2Rz?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVXhMWWxjWnh1dGhDNG9JenZKY01IYkRibk1ST2Fjb084SVpUSHdKSTRqZFZPczVGMG0zQWxrTkw0VG1vbGtRNVBVQzdIYjktR1VHX2NkOXdFY25id3RVX2FQSjFTSDBQdWFJSlZfTW5qb0xBcHgza0xxOE9BNHBoS3N5ay1ucHZfWDBPMmlRY01pUFllWFlmNjBsWW5wLWRWTkZIYmpISVdSZ3psQ3p6b3l1NDlzQ1VXT29MeXY2VnFjZE9uTTRndXRHdTJNMEZzaHRlLVJsdlNfNEE2N0E?oc=5>
 
-### 美25个州在法庭挑战特朗普最新的关税政策
+### “控制”格陵兰岛，特朗普罕见列出时间表
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-08-03 20:50
-- 链接: <https://news.google.com/rss/articles/CBMiugJBVV95cUxPbGo3dFZuTElDVEppeDRnVHBYQWV6RVNWQUg4TTZKT09IZzBPTFJJOFVBbTF1ekpoMkYxaU42dEx0aUl5X0RyNjE5Tk9nNUx3TC03UDNuM1hCVUtLZWJUSFpWOWx4NGVWV3lEdlRsM05Xeml0Q0JKUVFTaEhRbGU3ZjRLcnd4Qk1RZk9lNGZiUjFsV2c4d19tM2Z0ZHlpaUJuTFBVNXVBZzZhTERKLVJLcUdTOV9uQXVMUE9HdkQxT2xzWTJ0Q1paMmROY2tPNGw4OWRrNVRzZ3ZsM0o5dEh6c3d3aFdNUzM5THd6YlAxT3ExSUlncXJFS0E0eDNCZktDcjhlaFRVTnV0T1hXUlRaYWpPMS1ybnRxY0YwcVhpVGdqS2ctVjFNU1JtWExKbU15cFhsQjhJTnRYUQ?oc=5>
+- 场馆: news.ifeng.com
+- 时间: 2026-08-03 17:02
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ONWw4S09KY1pvcVU4M0lyYzkzdUJBTjMxUzVkMDVOVHBCZGhzZEtEQVEtdWZ2R2ZDeHJQUFg5dXU4UVNqcUk2TEwyN0k?oc=5>
+
+### 特朗普：美国参与推高日元汇率是为展现两国友谊
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-08-02 23:56
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBlSTJtSDAxVEgwcGFROHk3ZTNlaDVldFJseGhOQmVtSnFTRFZUaWdNUFZ6cURMRW5VR3owVmdhVHZhd1JMTDZ1RUUyRGZsd3lHWVk5cjZLQmRpT0ZhZUREZkRfSm5zQQ?oc=5>
+
+### 特朗普称3日与伊朗谈判 以色列自曝“被盟友抛弃”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华报业网
+- 时间: 2026-08-02 23:28
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE93MEd1elFQWkpjNHgxOHNzV2hSWUxCM0RrdkRDbjBtMHNlRGY4THZuckJkTFo2Vi1qZHlEeS1wNjhvTjF1RmY3TmFQYkl1ZUZweTd3azBUMGVHTldJUmRQaXV3bldjT0x3ck0w?oc=5>
+
+### 特朗普总统指责伊朗表里不一，重申核红线
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-08-03 19:05
+- 链接: <https://news.google.com/rss/articles/CBMivwFBVV95cUxNdFAwd3Rhc0VKc01rYXEwaC1ad0hLaWUzMExJXzVDQTBjWGNjMUdiMExSSTU2SmlaVUduMXpjTzUtN3U1SC1RUXN5UVpnZUphMjhEcktzTFRtSUJMeXBETmw0aDlFaVBDZkg1RTBjbFpJWENNaVRFRmNkR1NlSHFpODg3X2hlaUpaMk45eVdQTExRRTg1NHg0bkFJZWNnNHUtX2tMUS1zdXEtZzl2dUJPZ1VHd3NFck8yWlVydUpjc9IBvwFBVV95cUxNdFAwd3Rhc0VKc01rYXEwaC1ad0hLaWUzMExJXzVDQTBjWGNjMUdiMExSSTU2SmlaVUduMXpjTzUtN3U1SC1RUXN5UVpnZUphMjhEcktzTFRtSUJMeXBETmw0aDlFaVBDZkg1RTBjbFpJWENNaVRFRmNkR1NlSHFpODg3X2hlaUpaMk45eVdQTExRRTg1NHg0bkFJZWNnNHUtX2tMUS1zdXEtZzl2dUJPZ1VHd3NFck8yWlVydUpjcw?oc=5>
+
+### 特朗普：与伊朗的谈判已开始 计划近期举行更多会谈
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 央广网
+- 时间: 2026-08-03 16:29
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pbnJvWDRibWV0V3FOTTB0eWd0cEE1VHNxRVB4Nk1kZXpLekRSMDVwWUNUWmlFcjNkOGlrRVhvSVdVYjdvdWMwS0VhUWcyUENPQk9nZE1zOEdENWR3ekw3Qjg1Y0V4c3hw?oc=5>
+
+### 特朗普称美伊正在谈判 是伊朗的“最后机会”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: chinanews.com.cn
+- 时间: 2026-08-03 22:47
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wVm9fcFF1akpRMmJsWENwQW5SZ3NUeGZ5ZDVTZms2X3A0T2xtRnFFNWU4cEVaNkQ0Z201T0FLenA3MGR6RURacDdwMVpVVjdFeGNpenN4NDBlV1RLNG1LYVBmLVdSMEVs?oc=5>
+
+### Trump：“正与伊朗对话……这是最后机会”
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 아시아경제
+- 时间: 2026-08-03 18:58
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE85ZHFfX21xZy1QY1JwSkQ2akMxeFY5QWNaZjY1YUxtSnZzZzZQakVkYnA5anJxLUVfLXhRaDJxS0J4RngxSVhBZm92S3JlZnNFcDlVRG9OOV9wME5GenNfVlJuSjI?oc=5>
+
+### Trump Tacoed. 川普取消军事打击， Monday will be bullish, 星期一牛市
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-08-03 00:31
+- 链接: <https://news.google.com/rss/articles/CBMivAFBVV95cUxNdjEySTlOcWpTbFp5dGpmUmNadHFWaGt0NkY0MURWSFdWcGxES1VQUDdsTWFJaUM3TWk4bThObTgtOHEySVB5enljYnFRT0ZWeHdyM1FFZHZZcE12Q0tFbHppaEpDT01WcFdSekdVWVpuLTdhVWlpdlBQd3luemhFRkltMG1ObGZta0hQSWNZVkZTXzNnZGtGVGg5b0UyUzU2S2xUd2pOOEI4a1VXck00VnlXaV9CamFWSndYRw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-03 23:33  (9 条)
+
+- **特朗普** | 美国多个州就特朗普最新关税提起诉讼 <https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVXhMWWxjWnh1dGhDNG9JenZKY01IYkRibk1ST2Fjb084SVpUSHdKSTRqZFZPczVGMG0zQWxrTkw0VG1vbGtRNVBVQzdIYjktR1VHX2NkOXdFY25id3RVX2FQSjFTSDBQdWFJSlZfTW5qb0xBcHgza0xxOE9BNHBoS3N5ay1ucHZfWDBPMmlRY01pUFllWFlmNjBsWW5wLWRWTkZIYmpISVdSZ3psQ3p6b3l1NDlzQ1VXT29MeXY2VnFjZE9uTTRndXRHdTJNMEZzaHRlLVJsdlNfNEE2N0E?oc=5>
+- **特朗普** | “控制”格陵兰岛，特朗普罕见列出时间表 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ONWw4S09KY1pvcVU4M0lyYzkzdUJBTjMxUzVkMDVOVHBCZGhzZEtEQVEtdWZ2R2ZDeHJQUFg5dXU4UVNqcUk2TEwyN0k?oc=5>
+- **特朗普** | 特朗普：美国参与推高日元汇率是为展现两国友谊 <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBlSTJtSDAxVEgwcGFROHk3ZTNlaDVldFJseGhOQmVtSnFTRFZUaWdNUFZ6cURMRW5VR3owVmdhVHZhd1JMTDZ1RUUyRGZsd3lHWVk5cjZLQmRpT0ZhZUREZkRfSm5zQQ?oc=5>
+- **特朗普** | 特朗普称3日与伊朗谈判 以色列自曝“被盟友抛弃” <https://news.google.com/rss/articles/CBMia0FVX3lxTE93MEd1elFQWkpjNHgxOHNzV2hSWUxCM0RrdkRDbjBtMHNlRGY4THZuckJkTFo2Vi1qZHlEeS1wNjhvTjF1RmY3TmFQYkl1ZUZweTd3azBUMGVHTldJUmRQaXV3bldjT0x3ck0w?oc=5>
+- **特朗普** | 特朗普总统指责伊朗表里不一，重申核红线 <https://news.google.com/rss/articles/CBMivwFBVV95cUxNdFAwd3Rhc0VKc01rYXEwaC1ad0hLaWUzMExJXzVDQTBjWGNjMUdiMExSSTU2SmlaVUduMXpjTzUtN3U1SC1RUXN5UVpnZUphMjhEcktzTFRtSUJMeXBETmw0aDlFaVBDZkg1RTBjbFpJWENNaVRFRmNkR1NlSHFpODg3X2hlaUpaMk45eVdQTExRRTg1NHg0bkFJZWNnNHUtX2tMUS1zdXEtZzl2dUJPZ1VHd3NFck8yWlVydUpjc9IBvwFBVV95cUxNdFAwd3Rhc0VKc01rYXEwaC1ad0hLaWUzMExJXzVDQTBjWGNjMUdiMExSSTU2SmlaVUduMXpjTzUtN3U1SC1RUXN5UVpnZUphMjhEcktzTFRtSUJMeXBETmw0aDlFaVBDZkg1RTBjbFpJWENNaVRFRmNkR1NlSHFpODg3X2hlaUpaMk45eVdQTExRRTg1NHg0bkFJZWNnNHUtX2tMUS1zdXEtZzl2dUJPZ1VHd3NFck8yWlVydUpjcw?oc=5>
+- **特朗普** | 特朗普：与伊朗的谈判已开始 计划近期举行更多会谈 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pbnJvWDRibWV0V3FOTTB0eWd0cEE1VHNxRVB4Nk1kZXpLekRSMDVwWUNUWmlFcjNkOGlrRVhvSVdVYjdvdWMwS0VhUWcyUENPQk9nZE1zOEdENWR3ekw3Qjg1Y0V4c3hw?oc=5>
+- **特朗普** | 特朗普称美伊正在谈判 是伊朗的“最后机会” <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wVm9fcFF1akpRMmJsWENwQW5SZ3NUeGZ5ZDVTZms2X3A0T2xtRnFFNWU4cEVaNkQ0Z201T0FLenA3MGR6RURacDdwMVpVVjdFeGNpenN4NDBlV1RLNG1LYVBmLVdSMEVs?oc=5>
+- **Trump** | Trump：“正与伊朗对话……这是最后机会” <https://news.google.com/rss/articles/CBMiZEFVX3lxTE85ZHFfX21xZy1QY1JwSkQ2akMxeFY5QWNaZjY1YUxtSnZzZzZQakVkYnA5anJxLUVfLXhRaDJxS0J4RngxSVhBZm92S3JlZnNFcDlVRG9OOV9wME5GenNfVlJuSjI?oc=5>
+- **Trump** | Trump Tacoed. 川普取消军事打击， Monday will be bullish, 星期一牛市 <https://news.google.com/rss/articles/CBMivAFBVV95cUxNdjEySTlOcWpTbFp5dGpmUmNadHFWaGt0NkY0MURWSFdWcGxES1VQUDdsTWFJaUM3TWk4bThObTgtOHEySVB5enljYnFRT0ZWeHdyM1FFZHZZcE12Q0tFbHppaEpDT01WcFdSekdVWVpuLTdhVWlpdlBQd3luemhFRkltMG1ObGZta0hQSWNZVkZTXzNnZGtGVGg5b0UyUzU2S2xUd2pOOEI4a1VXck00VnlXaV9CamFWSndYRw?oc=5>
 
 ### 2026-08-03 22:02  (8 条)
 
