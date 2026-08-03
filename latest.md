@@ -1,120 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-03 17:23**
-- 本轮扫到 8521 条, 新增 **15** 条
+- 最近更新: **2026-08-03 19:03**
+- 本轮扫到 8526 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (15 条)
-
-### 蔡徐坤澳门演唱会的舞台设计有哪些亮点？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776722_1d5abd9d206801esmm.html>
-
-### 蔡徐坤演唱会惊现&#039;两撤&#039;热搜，澳门舞台封神
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776722_1d5abd9d206801esmi.html>
-
-### 蔡徐坤撤回事件对演唱会热度有何影响？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068013zk0.html>
-
-### 蔡徐坤腿长上热搜，澳门演唱会因何口碑逆转？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849292_1d5acf54c06801dop8.html>
-
-### 蔡徐坤澳门演唱会为什么选择四面台废土美学设计？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923377_1d5ae16b106801bdp2.html>
-
-### 内娱最该开演唱会的人来了，蔡徐坤澳门演唱会夯爆了！
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5719836546_m154edc78203301gb7u.html>
-
-### 蔡徐坤演唱会西部牛仔造型燃爆全场
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5556631847_m14b33792705302bkuo.html>
-
-### 蔡徐坤澳门演唱会百老汇质感，沉浸式戏剧舞台体验
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5556631847_m14b33792705302bkum.html>
-
-### 要闻解说 - 特朗普宣布恢复谈判 伊朗否认 各有盘算？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-08-03 13:34
-- 链接: <https://news.google.com/rss/articles/CBMigwNBVV95cUxNVWtCM1YteTN0N0lqYUZDSDRraFdjQlpBNlhxNXRHdUY3T3A0b1lFdlhIZHVleFVHMHNnQV94djFESHY5UkxIdWVmT0h2ai03Z204Zk1vTnZxd3FMUWRvUkdPVGxXRktXbVNGR3lnNm9KaVBHOXN6a1FnY0lERkZwb3k4ZUVQTVNrd19xLTl5eUVaekE1V0JreDdqcUd2bHFqTW5wTzkzb05zY0E0NUVjVjNFMHBGQlRLWjhsV0FfZXpqcnFZOW9TZU5IWXgzQzF1Ymt0QVJPYmFYcThKaUx4RTVKWjdKUDFVcTZSUmFUOTJjNGpEenZYaS1Nbkl6TDJtN0kzTk14aFo3SzRMdGZRaEFXeFZkR1BJWDl2dHpYdlZiTlBDSHBWSk9RaTBHSnhGUjlncHMyaGRJQTFaZkEzUFkxbm1pZjZrcEhyVVhXcnNEZ19GMWktdUpKWnBaVWVXbXFpOU9yWW9CRi0zR1N1Yjd0aUVKbE1zMV9OeHQzOVVTYVE?oc=5>
-
-### 美国铜进口激增 交易员赶在特朗普关税决定前布局
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-08-03 15:32
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMDFLRUtxQ0t1Um1EY3RMazljOUNjbFpvWU13N1czczMzeENnLVdMa0F2RWtla2oyei1EOXNiZDQ4WURhbjYtUHdsN3JsazZwS1gwOW1UMllyS2pxRFpSZzRuUGZPengwbkQ0aEUyLTVSOGZMUC1oYTYzQlZQN0t6Z0RQVDVDNTVubDljYzV1MjJIX0FpaHZOODVRbExSNGR4TTI5WXA2Tk8wTGJZaHhteEc4eGEzRkZwVzRGT0pybzd6WDBHWS1WQk5uVEFPVk1F?oc=5>
-
-### 美日突发重磅！特朗普向日本释放强烈信号 美元对日元一度暴跌约260点
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 金融界
-- 时间: 2026-08-03 04:57
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE1iVUUtc0VFQTRDdlJjUzNCY0JzUHJ4SXkxNnk1UjZmamdPSVNyemkteDM5SUY3YUl6WlVMYWpieEtTT3BOQzlVS3VKUkxMWnpwc2t2el9Md1lvLWdtS3BuOUo4clFoeUJoZ1VrdHJiWnpsZW1q?oc=5>
-
-### 特朗普：美伊谈判将于3日开始
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-08-03 11:41
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFA4ZF8wRWYtS211TzVMVHBzVkpsNFdHNi1hMmpRQXZHbExLd09sVnctcU9rclVBT1llS01PYnVTa29WQlhuTWxCX0tlVWZHaWd3SnNUNE5LaktPbTJZalUxM1ZRd2RoUHp6?oc=5>
-
-### 特朗普最近为什么特别反常
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-08-03 03:41
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBYRXlpcVNNM2VLM1pyQWFyMWplVmpnM2I2bUZoQXhIdC1HNFY5Z0YzZFEtT2phajVnb2JaM29yQjJhMDNjVkpJRElUZEJkQnIydExLRE9pQUxNc1daOXozeFVIM2xHWnhrN1E?oc=5>
+## 本轮新发现 (5 条)
 
 ### 特朗普称美伊3日将举行谈判
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 央广网
-- 时间: 2026-08-02 23:11
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE0ydkR6U1EwcW9jNmJPX1pPRnktemZBRUpxQmRDN0MxeERZU3QyTnpaQUpZVmI1dU5VYTVWQWRXNzA5aVNFMXpPVUtwYnBZQlF5TDQtdkRuM1dlYzRiOVpSa0phc0JUZ2Fh?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-08-03 02:48
+- 链接: <https://news.google.com/rss/articles/CBMivwJBVV95cUxQYVpMZjJPRk9STUtoN29XVmpvZzF1RFBmOHA4NE9FNkk0WENVSTF2OGE2NUtxandEQzE2M1NHVFZidDBCdkFabVhKT1ZCb0RsSzZUY2FUUGFBdG5LQTh3enpHVFlHdVQ1Vm0yT014Y01nSGpUWkVQN1F5aG1USmthOVhGSWdpLVhnclIxYVIzbEk5ekJ6STZvSDdJUVlwMnpnSGdOSTJnT3pqQnd5aGFOd1lFSEFzTU9iR0hjMUdEbXFlMEZWTTV2STNlem9IRHRUcWNLVFVhZnVuUjZjYU9zRlhLSFMtcmw3VjRQWFRBWEpaRGV2eWVlU0h2MGxjMzVCbXhWVzNBWFVBWUdaQ0JWWDd3OEloZlhIMW5POGFXNkZqaUdMeGdTV2g0NmZzQUhOa3l2cmowMWx5UHIxMXhz?oc=5>
 
-### 美国和伊朗寻求外交途径之际，油价下跌，全球市场涨跌互现
+### 以称内塔尼亚胡通过特朗普社媒得知美叫停对伊打击
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-08-03 15:43
-- 链接: <https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWjJmLVlJa2dla0NRa0Y3RXkwXzVLaVhoRll1N2p4NGhkblBkbjRIOWMwNW5CQkxVbUEzUFpKU0xYN0ZZLXFNb2t0Vks5eE1lYzRBek9DYjhnQ29tbHl1NjJXc1ktU3RoWmNjM2htLWJhaW1lMzYteTdEclJjNHh0Z2psR2lQeGRSRVR5QTItRFVGdzBFalNWZ194R09UNmtjcVp3b1hZQTdIUHZ3MmdzZzdwMDkzXzVYd3E1dEVuOGhoQdIBxAFBVV95cUxPLVVZMkh5clV0Y0k1ZjdGa2NxRFhQMTMzR1hXcXRtcTJsT283MlFlRE4xX3lLMDVYS2VXUURrbnlSSnNINERCaHA3Unc3VmlzUnpITll3NGVhMnZnX3UyaHFxMm5fT3VYRDJaUkNaTEEwV1UxbG1vSWxZZjVKTmx0ZW16bnFyTjdGajFzNWllaDNtSjlhYUZQVnNVYUExR3ZtSm1XN1hVS3VLdzRNWlhZS0FNQTJNeGYyVFhmelJLZ09lcjI1?oc=5>
+- 场馆: finance.sina.com.cn
+- 时间: 2026-08-02 19:09
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZ3hlYnNRSEtHU2hmRmhycjNmc20xcWNnSXJhcVkxQWozc2NRT2JnWlRoSWpUaWxLVlE0TnlYRkk1TEhfZkFqZThVb1FTN00zNXVoOXlnNF9nYzZNb1lzTWwyVjVURGNTaVloNFhmcXJTYWFJdXBlNlh3NWVWb0dMa3VHVDZlRkR5Rm5rcWVUR1pWMzY2WXF3YmJJYzZnUEd0a3djaGJTclR6QWNWS2JRNldFdldCclJ5VEU5Y2J3dzN2TjAyWnpaQ2JVZFk5Ym13?oc=5>
+
+### 特朗普说美伊将谈判 伊朗称在霍尔木兹海峡划新航线
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 环球网
+- 时间: 2026-08-02 10:16
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE5scXNDdFdpUm1Fd0g2NkJTQTIyRVVhaHp3RU5SajlyeEVMcE1tVXRiWUdwckg1LWxaZTZ2WFlxYm9kV29lbExNQ1lqN3ZJQWtKUS1xb2h1MnE?oc=5>
+
+### 特朗普称3日与伊朗谈判 以色列自曝“被盟友抛弃”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新京报
+- 时间: 2026-08-02 23:58
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtcUU3R19zUVhHclNGYnVySldnM3B4RER6ZWFHYXlGWVVyVzRXNWdfRzh4aHBuYnhyelJRWXJ2RnpXelBMTlJxeWw2RnpsX0oxUy1sVS1ydS1vWGN1TXIzRHM1MGg?oc=5>
+
+### 特朗普不到24小时改口：斥伊朗“两面三刀”，警告不达成协议或“完全投降”就继续封锁
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街见闻
+- 时间: 2026-08-03 16:50
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkeEVFVXBCeDV0Mnk0aGNfZEI0VXkxNFdwVENtdXNYcGxzRlFZOC1xVHptQUVhSUloWEUtem5SYUtfeGRIbE1wUkRHYl9FM2xwWnk0?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-03 19:03  (5 条)
+
+- **特朗普** | 特朗普称美伊3日将举行谈判 <https://news.google.com/rss/articles/CBMivwJBVV95cUxQYVpMZjJPRk9STUtoN29XVmpvZzF1RFBmOHA4NE9FNkk0WENVSTF2OGE2NUtxandEQzE2M1NHVFZidDBCdkFabVhKT1ZCb0RsSzZUY2FUUGFBdG5LQTh3enpHVFlHdVQ1Vm0yT014Y01nSGpUWkVQN1F5aG1USmthOVhGSWdpLVhnclIxYVIzbEk5ekJ6STZvSDdJUVlwMnpnSGdOSTJnT3pqQnd5aGFOd1lFSEFzTU9iR0hjMUdEbXFlMEZWTTV2STNlem9IRHRUcWNLVFVhZnVuUjZjYU9zRlhLSFMtcmw3VjRQWFRBWEpaRGV2eWVlU0h2MGxjMzVCbXhWVzNBWFVBWUdaQ0JWWDd3OEloZlhIMW5POGFXNkZqaUdMeGdTV2g0NmZzQUhOa3l2cmowMWx5UHIxMXhz?oc=5>
+- **特朗普** | 以称内塔尼亚胡通过特朗普社媒得知美叫停对伊打击 <https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZ3hlYnNRSEtHU2hmRmhycjNmc20xcWNnSXJhcVkxQWozc2NRT2JnWlRoSWpUaWxLVlE0TnlYRkk1TEhfZkFqZThVb1FTN00zNXVoOXlnNF9nYzZNb1lzTWwyVjVURGNTaVloNFhmcXJTYWFJdXBlNlh3NWVWb0dMa3VHVDZlRkR5Rm5rcWVUR1pWMzY2WXF3YmJJYzZnUEd0a3djaGJTclR6QWNWS2JRNldFdldCclJ5VEU5Y2J3dzN2TjAyWnpaQ2JVZFk5Ym13?oc=5>
+- **特朗普** | 特朗普说美伊将谈判 伊朗称在霍尔木兹海峡划新航线 <https://news.google.com/rss/articles/CBMiWEFVX3lxTE5scXNDdFdpUm1Fd0g2NkJTQTIyRVVhaHp3RU5SajlyeEVMcE1tVXRiWUdwckg1LWxaZTZ2WFlxYm9kV29lbExNQ1lqN3ZJQWtKUS1xb2h1MnE?oc=5>
+- **特朗普** | 特朗普称3日与伊朗谈判 以色列自曝“被盟友抛弃” <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtcUU3R19zUVhHclNGYnVySldnM3B4RER6ZWFHYXlGWVVyVzRXNWdfRzh4aHBuYnhyelJRWXJ2RnpXelBMTlJxeWw2RnpsX0oxUy1sVS1ydS1vWGN1TXIzRHM1MGg?oc=5>
+- **特朗普** | 特朗普不到24小时改口：斥伊朗“两面三刀”，警告不达成协议或“完全投降”就继续封锁 <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkeEVFVXBCeDV0Mnk0aGNfZEI0VXkxNFdwVENtdXNYcGxzRlFZOC1xVHptQUVhSUloWEUtem5SYUtfeGRIbE1wUkRHYl9FM2xwWnk0?oc=5>
 
 ### 2026-08-03 17:23  (15 条)
 
