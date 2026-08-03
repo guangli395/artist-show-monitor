@@ -1,56 +1,122 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-03 19:03**
-- 本轮扫到 8526 条, 新增 **5** 条
+- 最近更新: **2026-08-03 20:42**
+- 本轮扫到 8539 条, 新增 **13** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (13 条)
 
-### 特朗普称美伊3日将举行谈判
+### 蔡徐坤演唱会“撕掉爱豆标签”原话到底是什么？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776724_1d5abd9d406801h2jq.html>
+
+### 蔡徐坤在澳门演唱会上说的“困住我的盒子”具体指什么？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923373_1d5ae16ad06801epz8.html>
+
+### 蔡徐坤演唱会全开麦唱跳近两小时，对歌手体能要求有多高？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923373_1d5ae16ad06801epzg.html>
+
+### 蔡徐坤的新歌《Plastic Angels》什么时候正式上线？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923373_1d5ae16ad06801epz6.html>
+
+### 蔡徐坤澳门演唱会现场观众评价如何？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776724_1d5abd9d406801h2j0.html>
+
+### 蔡徐坤澳门演唱会生日场有哪些特别互动环节？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776724_1d5abd9d406801h2iu.html>
+
+### 蔡徐坤澳门演唱会门票开售多久售罄？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776724_1d5abd9d406801h2is.html>
+
+### 特朗普批石油公司大赚一笔
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-08-03 02:48
-- 链接: <https://news.google.com/rss/articles/CBMivwJBVV95cUxQYVpMZjJPRk9STUtoN29XVmpvZzF1RFBmOHA4NE9FNkk0WENVSTF2OGE2NUtxandEQzE2M1NHVFZidDBCdkFabVhKT1ZCb0RsSzZUY2FUUGFBdG5LQTh3enpHVFlHdVQ1Vm0yT014Y01nSGpUWkVQN1F5aG1USmthOVhGSWdpLVhnclIxYVIzbEk5ekJ6STZvSDdJUVlwMnpnSGdOSTJnT3pqQnd5aGFOd1lFSEFzTU9iR0hjMUdEbXFlMEZWTTV2STNlem9IRHRUcWNLVFVhZnVuUjZjYU9zRlhLSFMtcmw3VjRQWFRBWEpaRGV2eWVlU0h2MGxjMzVCbXhWVzNBWFVBWUdaQ0JWWDd3OEloZlhIMW5POGFXNkZqaUdMeGdTV2g0NmZzQUhOa3l2cmowMWx5UHIxMXhz?oc=5>
+- 场馆: RFI
+- 时间: 2026-08-03 20:18
+- 链接: <https://news.google.com/rss/articles/CBMi7wFBVV95cUxQb2RaV09zczFtb0JValg5NTJfaHZPT21lZFhmQVl3NjNnN2hMbGc4OXdaN2pzQ1hfZmNpelN0WlV3THkxenBIRzNUaTh0T0QzQTM1a0tmNzBxdlRSRmttcFZMdnJUeFNxRGY0cnBBbGJyUVZJc3ExeVFLUmxVZTdlaWpsTUpXUDRfNzhFVGx5MHhsS1hjdHJOMlhPdVIxd2ZRa1RvVmtWc2JsNEwza1RieVd0REZCZi1TXzd3NzV1QW9rSDdtdzI1TWFUTllTTmx3b052b2huZTUya2pfX3FEQ1JHeW1TdVh6Qmw3ckZqTQ?oc=5>
 
-### 以称内塔尼亚胡通过特朗普社媒得知美叫停对伊打击
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-08-02 19:09
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZ3hlYnNRSEtHU2hmRmhycjNmc20xcWNnSXJhcVkxQWozc2NRT2JnWlRoSWpUaWxLVlE0TnlYRkk1TEhfZkFqZThVb1FTN00zNXVoOXlnNF9nYzZNb1lzTWwyVjVURGNTaVloNFhmcXJTYWFJdXBlNlh3NWVWb0dMa3VHVDZlRkR5Rm5rcWVUR1pWMzY2WXF3YmJJYzZnUEd0a3djaGJTclR6QWNWS2JRNldFdldCclJ5VEU5Y2J3dzN2TjAyWnpaQ2JVZFk5Ym13?oc=5>
-
-### 特朗普说美伊将谈判 伊朗称在霍尔木兹海峡划新航线
+### 特朗普证实美日联合干预日元汇率，再提珍珠港
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 环球网
-- 时间: 2026-08-02 10:16
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE5scXNDdFdpUm1Fd0g2NkJTQTIyRVVhaHp3RU5SajlyeEVMcE1tVXRiWUdwckg1LWxaZTZ2WFlxYm9kV29lbExNQ1lqN3ZJQWtKUS1xb2h1MnE?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-02 23:37
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9oaEVpOXlGRVoyUGlSSld3Uldzby1SOXEwenpFUnMzenNJazFJcFZYMWdMU3RyR09rY1YtekhvdTBxeUJMZWJYTzFrOW1ybDh4T1RoWkpMdFdXdnM1c2gzTUw4SkFiMElWWDdKcHFFRmQxb3RFYnNkSw?oc=5>
 
-### 特朗普称3日与伊朗谈判 以色列自曝“被盟友抛弃”
+### 美媒曝特朗普狂向企业要钱 权力与金钱的界限模糊
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-08-02 23:58
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtcUU3R19zUVhHclNGYnVySldnM3B4RER6ZWFHYXlGWVVyVzRXNWdfRzh4aHBuYnhyelJRWXJ2RnpXelBMTlJxeWw2RnpsX0oxUy1sVS1ydS1vWGN1TXIzRHM1MGg?oc=5>
+- 场馆: 中华军事
+- 时间: 2026-08-03 14:30
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE52X0pHcWlzbWlNd1c3ZGhOTUFSUDBlOFB4TWt4OUNTajczcS1JYjRBLXRxeXhQbUlMQ004dzM2OXNsMmtUZnJqQ3pxM3cxNnJEajd0aTBwZ2JFMmx4Y3p4Q0ZzbnRVcEs4c2RwRnFqTnU?oc=5>
 
-### 特朗普不到24小时改口：斥伊朗“两面三刀”，警告不达成协议或“完全投降”就继续封锁
+### 特朗普总统指责伊朗表里不一，重申核红线
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-08-03 19:05
+- 链接: <https://news.google.com/rss/articles/CBMivAFBVV95cUxPdFRiMGMyQ3lRN291MDJSMGFfOFFDVGNXNTVOblplODRoX0xULUFMdnB0MkIwZVpwaUpzOWh0TlotbW8yYkR1TFNkbzVIZUlQeDBUa1MzX0pDeXhUVVRIbkZmWk9PLWI3UEw3cUk1LWhXbHlDUnVfM0RuY0p6SEtncWNqeWVDcUR6RVdydzlDSmgydEhZNE5CN1ZHc09Ka29uRDA4MXl1dkVEbGlWVVBQTEdlY1dqa1RQQ1NSc9IBvwFBVV95cUxNdFAwd3Rhc0VKc01rYXEwaC1ad0hLaWUzMExJXzVDQTBjWGNjMUdiMExSSTU2SmlaVUduMXpjTzUtN3U1SC1RUXN5UVpnZUphMjhEcktzTFRtSUJMeXBETmw0aDlFaVBDZkg1RTBjbFpJWENNaVRFRmNkR1NlSHFpODg3X2hlaUpaMk45eVdQTExRRTg1NHg0bkFJZWNnNHUtX2tMUS1zdXEtZzl2dUJPZ1VHd3NFck8yWlVydUpjcw?oc=5>
+
+### Trump Tacoed. 川普取消军事打击， Monday will be bullish, 星期一牛市
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-08-03 00:31
+- 链接: <https://news.google.com/rss/articles/CBMivgFBVV95cUxNbElycU5QcU1jcU96R2x4SjR1cktWZXhuUkdsMUtBdmo5Nko4R1JzUW1tSEd0MkhiX1ZCdjlORU9GNlNxRldVNlpyM2lld2ZRVmtjeE9sQXRuSVp5aVNMVzEzaFhvUDRUT2FvaWxSMWpEVnBHeFlSb2N2QldnaWstN3pTZ29nb0l6c29aalNkX0x0MnI3a0ZrQWZNUTFTSTdOVGdCa2JtOHRodS1WYmJmSXlIRkNYSUs3T2VFZjln?oc=5>
+
+### 特朗普家族旗下比特币矿商连续三季亏损，股价较峰值跌逾九成
+
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: 华尔街见闻
-- 时间: 2026-08-03 16:50
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkeEVFVXBCeDV0Mnk0aGNfZEI0VXkxNFdwVENtdXNYcGxzRlFZOC1xVHptQUVhSUloWEUtem5SYUtfeGRIbE1wUkRHYl9FM2xwWnk0?oc=5>
+- 时间: 2026-08-03 20:16
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvaEhJOUUwRFVYVUdYSV8xQWY0RmNwT1J4eVBVTUI5VXExMVRUd3lPNjg5eE5kSWkweFp6WEJsekZFNzZ4T09RSk5IV291Rk9aTHFZ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-03 20:42  (13 条)
+
+- **蔡徐坤** | 蔡徐坤演唱会“撕掉爱豆标签”原话到底是什么？ <https://k.sina.com.cn/article_7879776724_1d5abd9d406801h2jq.html>
+- **蔡徐坤** | 蔡徐坤在澳门演唱会上说的“困住我的盒子”具体指什么？ <https://k.sina.com.cn/article_7879923373_1d5ae16ad06801epz8.html>
+- **蔡徐坤** | 蔡徐坤演唱会全开麦唱跳近两小时，对歌手体能要求有多高？ <https://k.sina.com.cn/article_7879923373_1d5ae16ad06801epzg.html>
+- **蔡徐坤** | 蔡徐坤的新歌《Plastic Angels》什么时候正式上线？ <https://k.sina.com.cn/article_7879923373_1d5ae16ad06801epz6.html>
+- **蔡徐坤** | 蔡徐坤澳门演唱会现场观众评价如何？ <https://k.sina.com.cn/article_7879776724_1d5abd9d406801h2j0.html>
+- **蔡徐坤** | 蔡徐坤澳门演唱会生日场有哪些特别互动环节？ <https://k.sina.com.cn/article_7879776724_1d5abd9d406801h2iu.html>
+- **蔡徐坤** | 蔡徐坤澳门演唱会门票开售多久售罄？ <https://k.sina.com.cn/article_7879776724_1d5abd9d406801h2is.html>
+- **特朗普** | 特朗普批石油公司大赚一笔 <https://news.google.com/rss/articles/CBMi7wFBVV95cUxQb2RaV09zczFtb0JValg5NTJfaHZPT21lZFhmQVl3NjNnN2hMbGc4OXdaN2pzQ1hfZmNpelN0WlV3THkxenBIRzNUaTh0T0QzQTM1a0tmNzBxdlRSRmttcFZMdnJUeFNxRGY0cnBBbGJyUVZJc3ExeVFLUmxVZTdlaWpsTUpXUDRfNzhFVGx5MHhsS1hjdHJOMlhPdVIxd2ZRa1RvVmtWc2JsNEwza1RieVd0REZCZi1TXzd3NzV1QW9rSDdtdzI1TWFUTllTTmx3b052b2huZTUya2pfX3FEQ1JHeW1TdVh6Qmw3ckZqTQ?oc=5>
+- **特朗普** | 特朗普证实美日联合干预日元汇率，再提珍珠港 <https://news.google.com/rss/articles/CBMieEFVX3lxTE9oaEVpOXlGRVoyUGlSSld3Uldzby1SOXEwenpFUnMzenNJazFJcFZYMWdMU3RyR09rY1YtekhvdTBxeUJMZWJYTzFrOW1ybDh4T1RoWkpMdFdXdnM1c2gzTUw4SkFiMElWWDdKcHFFRmQxb3RFYnNkSw?oc=5>
+- **特朗普** | 美媒曝特朗普狂向企业要钱 权力与金钱的界限模糊 <https://news.google.com/rss/articles/CBMicEFVX3lxTE52X0pHcWlzbWlNd1c3ZGhOTUFSUDBlOFB4TWt4OUNTajczcS1JYjRBLXRxeXhQbUlMQ004dzM2OXNsMmtUZnJqQ3pxM3cxNnJEajd0aTBwZ2JFMmx4Y3p4Q0ZzbnRVcEs4c2RwRnFqTnU?oc=5>
+- **Trump** | 特朗普总统指责伊朗表里不一，重申核红线 <https://news.google.com/rss/articles/CBMivAFBVV95cUxPdFRiMGMyQ3lRN291MDJSMGFfOFFDVGNXNTVOblplODRoX0xULUFMdnB0MkIwZVpwaUpzOWh0TlotbW8yYkR1TFNkbzVIZUlQeDBUa1MzX0pDeXhUVVRIbkZmWk9PLWI3UEw3cUk1LWhXbHlDUnVfM0RuY0p6SEtncWNqeWVDcUR6RVdydzlDSmgydEhZNE5CN1ZHc09Ka29uRDA4MXl1dkVEbGlWVVBQTEdlY1dqa1RQQ1NSc9IBvwFBVV95cUxNdFAwd3Rhc0VKc01rYXEwaC1ad0hLaWUzMExJXzVDQTBjWGNjMUdiMExSSTU2SmlaVUduMXpjTzUtN3U1SC1RUXN5UVpnZUphMjhEcktzTFRtSUJMeXBETmw0aDlFaVBDZkg1RTBjbFpJWENNaVRFRmNkR1NlSHFpODg3X2hlaUpaMk45eVdQTExRRTg1NHg0bkFJZWNnNHUtX2tMUS1zdXEtZzl2dUJPZ1VHd3NFck8yWlVydUpjcw?oc=5>
+- **Trump** | Trump Tacoed. 川普取消军事打击， Monday will be bullish, 星期一牛市 <https://news.google.com/rss/articles/CBMivgFBVV95cUxNbElycU5QcU1jcU96R2x4SjR1cktWZXhuUkdsMUtBdmo5Nko4R1JzUW1tSEd0MkhiX1ZCdjlORU9GNlNxRldVNlpyM2lld2ZRVmtjeE9sQXRuSVp5aVNMVzEzaFhvUDRUT2FvaWxSMWpEVnBHeFlSb2N2QldnaWstN3pTZ29nb0l6c29aalNkX0x0MnI3a0ZrQWZNUTFTSTdOVGdCa2JtOHRodS1WYmJmSXlIRkNYSUs3T2VFZjln?oc=5>
+- **Trump** | 特朗普家族旗下比特币矿商连续三季亏损，股价较峰值跌逾九成 <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvaEhJOUUwRFVYVUdYSV8xQWY0RmNwT1J4eVBVTUI5VXExMVRUd3lPNjg5eE5kSWkweFp6WEJsekZFNzZ4T09RSk5IV291Rk9aTHFZ?oc=5>
 
 ### 2026-08-03 19:03  (5 条)
 
