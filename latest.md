@@ -1,197 +1,131 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-03 04:59**
-- 本轮扫到 8461 条, 新增 **33** 条
+- 最近更新: **2026-08-03 08:33**
+- 本轮扫到 8481 条, 新增 **20** 条
 
 ---
 
-## 本轮新发现 (33 条)
+## 本轮新发现 (20 条)
 
-### 小黄豆签售会打盹被拍是什么情况？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923111_1d5ae15a706801d68u.html>
-
-### 蔡徐坤澳门演唱会大屏错位灯牌事件具体经过是什么？
+### 蔡徐坤28岁生日澳门巡演，默片戏曲改编演绎无声到有声
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068588_1d5b04dec06801oxsc.html>
+- 链接: <https://k.sina.com.cn/article_5449334139_m144ce3d7b03301dpai.html>
 
-### 蔡徐坤澳门演唱会大屏错位，铁粉玩梗回应笑翻网友
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068588_1d5b04dec06801oxs4.html>
-
-### 蔡徐坤澳门演唱会坦言十年破框，撕掉爱豆标签
+### 蔡徐坤全开麦唱跳巡演实力硬核吸睛
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301e6fu.html>
+- 链接: <https://k.sina.com.cn/article_5449334139_m144ce3d7b03301dpac.html>
 
-### 蔡徐坤官方何时发布澳门演唱会舞蹈高清版？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923119_1d5ae15af06801uufw.html>
-
-### 蔡徐坤演唱会上指心诉说“那个曾经困住我的盒子”
+### 蔡徐坤演唱会“踩”到铁粉小黄豆，神级错位引爆全场
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6112733438_m16c58e8fe03302k5f0.html>
+- 链接: <https://k.sina.com.cn/article_7879923116_1d5ae15ac06801j7z8.html>
 
-### 蔡徐坤全裹出镜演唱会，称走出困住我的盒子
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7002256903_m1a15df60703301kffc.html>
-
-### 蔡徐坤近期还有哪些音乐或巡演计划？
+### 蔡徐坤演唱会上的视觉错位是如何形成的？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923112_1d5ae15a806801wuow.html>
+- 链接: <https://k.sina.com.cn/article_7880068588_1d5b04dec06801oy0a.html>
 
-### 蔡徐坤澳门演唱会上的战损牛仔造型是如何设计的？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801iwxy.html>
-
-### 蔡徐坤演唱会直播被侵权，商场曾直播TFBOYS赔10万
+### 蔡徐坤大屏出神图，颜值惊艳演唱会
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1496814565_593793e5040023pue.html>
+- 链接: <https://k.sina.com.cn/article_6579479312_m1882ae31003301bb2q.html>
 
-### 蔡徐坤新专辑《Deadman》有哪些必听曲目
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776731_1d5abd9db06801d63a.html>
-
-### 蔡徐坤澳门演唱会全开麦唱跳持续多久
+### 蔡徐坤澳门巡演门票为何能秒罄且口碑翻盘？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776731_1d5abd9db06801d638.html>
+- 链接: <https://k.sina.com.cn/article_7880068588_1d5b04dec06801oxzw.html>
 
-### 蔡徐坤演唱会如何打破流量艺人没实力偏见
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776731_1d5abd9db06801d636.html>
-
-### 蔡徐坤《THE DEADMAN》巡演下一站在哪里
+### 蔡徐坤澳门巡演《RIDE OR DIE》直拍视频在哪看？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776731_1d5abd9db06801d634.html>
+- 链接: <https://k.sina.com.cn/article_7880068588_1d5b04dec06801oxzq.html>
 
-### 蔡徐坤演唱会口碑破圈对流量歌手有何影响？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923116_1d5ae15ac06801j7my.html>
-
-### 路人观众对蔡徐坤演唱会的真实评价是怎样的？
+### 蔡徐坤演唱会怼脸镜头封神，五官轮廓放大绝美
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923116_1d5ae15ac06801j7mw.html>
+- 链接: <https://k.sina.com.cn/article_5617768139_m14ed856cb03301sytk.html>
 
-### 路人自发刷屏！蔡徐坤演唱会凭硬实力口碑逆袭
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923116_1d5ae15ac06801j7mq.html>
-
-### 蔡徐坤在演唱会上说的“走出盒子”具体指什么经历？
+### 蔡徐坤演唱会大屏神图，掌管大屏的神帅得权威
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849291_1d5acf54b06801i8c4.html>
+- 链接: <https://k.sina.com.cn/article_1852855013_m6e7052e505302qmd8.html>
 
-### 蔡徐坤演唱会全程不翻唱他人歌曲，歌单包含哪些原创作品？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849291_1d5acf54b06801i8c2.html>
-
-### 蔡徐坤澳门演唱会遭遇未经授权直播，粉丝如何维权？
+### 蔡徐坤演唱会大屏神图，美貌暴击帅得权威
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849291_1d5acf54b06801i8by.html>
+- 链接: <https://k.sina.com.cn/article_1852855013_m6e7052e503302qm1u.html>
 
-### 蔡徐坤巡演纪念写真：复古胶片氛围感，生日与舞台双向奔赴
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1301666333_4d95da1d001013z3w.html>
-
-### 蔡徐坤生日当天澳门开启亚洲巡演，万人演唱会回应等待
+### 蔡徐坤演唱会生日祝福视频全程 真的是全场爆哭
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201851_1d45362bb06801fxoq.html>
+- 链接: <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002owp8.html>
 
-### 蔡徐坤演唱会美妙夜晚，今晚继续见面庆生
+### 谁的一辈子蔡徐坤 蔡徐坤演唱会 TheDeadman演唱会
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6363486338_m17b4b188205301tyn2.html>
+- 链接: <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002owog.html>
 
-### “几毫秒内得到市场消息”，特朗普售卖社媒帖文“优先访问权”
+### 特朗普证实美日联合干预日元汇率，再提珍珠港
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: guancha.cn
-- 时间: 2026-08-03 04:08
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE40LVlEQU1wRGhWM09zNm9sNkQ3UUNXMlEwbjA2ZkhDR1hkcFpmVkc5Z2FmcjVpaDlPWW5iMlg4eHB4RDNWTGN5aVY5ODV4cUR0eFlGRTk4Z0tiRmM1MF8wTHcwUWhsNEc0R3c?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-02 23:37
+- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxOWlpkeTZkOTVVeV8zbkgyZ18tUGpYMzZadnBtRG5nSEpzWlVVc0ZiNHctenpLZkpBemlqNDVoUzl5bGFlbGljYklEc3d1b0xYM2xXRWVJUnZ1Tjl3S1l2Qk9td3cwdnZ2dFpROGhnRXotdkttemVkYWxyS095SzdRMVJLWmdGTFBHaXBSUi00WQ?oc=5>
 
-### 特朗普：已决定惩罚加拿大
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-03 03:30
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE03NlZ4MF9pcjRqS1hVVGVMMW9rWG5DUFhQVlJrbHk1bnlXYWVySHN4a0Z3UzlnUGdkYmowOHl6V1FscDl0Q0huWnRURDI?oc=5>
-
-### 国际油价暗盘闪崩6%，特朗普取消打击伊朗，称各方已初步达成协议
+### 特朗普回应为何干预日元汇率 友谊与经济考量
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 同花顺财经
-- 时间: 2026-08-01 23:34
-- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ITGRRYmNVclhJQUNFRGtIMnMxMDhTcjdEc214QnB3NUk3emp0SWVWTVZKZkRFa2hZeXU4UEtOZ2F6MDlpS21URWlSSllvSlBlcmxjVnY2LU53MlhoZ211OVN3?oc=5>
+- 场馆: 中华网
+- 时间: 2026-08-03 07:46
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9lcXQtLXQxTU5vZ3lMSlFmaDBnVE0wVzc1bF9HdWthUzhZUzJkN1RoaUFYV3NKTkh6R0FFdTZHYUR4clFVTmFGaVV3a1d6SVhzUWU0U0NMbEd1UVo5SkxJc3J5Q01nQ3Fia3ZmbnJVa2Y?oc=5>
 
-### 特朗普为何又取消对伊朗打击
+### 美日干预汇率后，特朗普：日本对美国很好，“除了珍珠港”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新华网
-- 时间: 2026-08-02 08:20
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9WTVJ6eHlQNkQxUzNmR3hCOE9ERm9ISlZ3V0xwV3NWeGdPWTVZcGlRdVQtcEk4NkZJY3BkZEF2YkdteFZHY1ZtMlpJb2wxWHpvSFVSal83MlFhQWhRM0s1Q0oyeXo2bHM2SU9lVkhoYWhoeklIcFhmbENPajZzQnM?oc=5>
+- 时间: 2026-08-03 07:50
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBEdTl1ZXBzVURaSjZlcVdsRHdUU21KQ3g2bGM1ajZjUEdQRjFmWlpmYjliZmZNVHJ1d25mSnBBQ253VFR5cF9sb3VyWDZPVU52Skl5Q1hCOWZ1aW1ZT05zZm9DYkp0dGlGNkdTbUhwQ0Y5Tm1senNIZEtqV0FOYTg?oc=5>
 
-### 新华社消息丨特朗普称美伊将于8月3日举行谈判
+### 【早报】特朗普称取消打击伊朗，原油大跌、黄金上涨；央行定调下半年货币政策
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网客户端
-- 时间: 2026-08-03 02:30
-- 链接: <https://news.google.com/rss/articles/CBMimgFBVV95cUxNekNXSkZKUGdsMnFmbGdRX2hEUVFEZFI2ZWZQbDlzYi1qSm5pNllkS3JmZndMNkFJY0tkU3U0M2RRQU5naDFjNk43MFh2a3ZfQmxBak45T2ZBb1pMV1JSWU50bE1xcTJLbXFHMDljMUFpd0o2QmQ2OXNqbjROZ3BiMEYxOFZLdThZYVR5eTV6TzB1dkFuU3Z3WVJR?oc=5>
+- 场馆: 财联社
+- 时间: 2026-08-02 23:13
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE96ajJZVHozekU5RmNDRlROdmRldk9WUWpjRHllZGVNaWNMTFd4ekdEMU5xaXNBOGw3dUxsQWdhY3JkV0NmY1FxNg?oc=5>
 
-### 特朗普：同意取消对伊朗的打击
+### 特朗普“大变脸”：取消打击！国际油价大跌7%，金价拉升，伊朗：正与阿曼讨论划定一条霍尔木兹海峡新航线
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: news.futunn.com
-- 时间: 2026-08-02 02:49
-- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxNVFV2YWdwZVFFajEtWmNTSER2X05jSUFBdlFRdWpHaHJRSDFYVThRbVphQjI5bUVmbmE1ZXJQVXA2Tl90ZmlqQkdvWHFKbUFxc1ViVEFOMExES2lybkdwaGljekJWWVZVcmI5TmxxWF92bVo0dUgwZ3hGWGN5QmY5MWMtV1dwTUluamc?oc=5>
+- 场馆: 每日经济新闻
+- 时间: 2026-08-03 01:12
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Ub2prYjQwZXU1QUJzRnBBbkJTNVF6ZDhfa2xsdnNjcm9VRkVaaEJWRkpBQ2F6UzRVUUJxb0JoaDV5WW1tZ200NmJCSmc1WHp1Y1F4clhwTldzR3NNdHQ3WWxicHZldw?oc=5>
+
+### 特朗普称美伊3日将举行谈判
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 央广网
+- 时间: 2026-08-03 00:51
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2Zk9QeV80cDRvWjg3cks3XzVydVJlXzZKRWFzWlY0V05QSldRWDFkdGliSGNDQXpjb1ZEZV91aXNzUFFkdzNwVXBWTHVCWVZMRnVIaFJ5THhiUllBdl9pUXpBZlhJdDhD?oc=5>
 
 ### Trump Media 正式推出付费服务，提供更快访问特朗普Truth Social 帖子的服务。 交易公司每月支付...
 
@@ -199,36 +133,43 @@
 - 来源: `googlenews`
 - 场馆: Moomoo
 - 时间: 2026-08-02 12:17
-- 链接: <https://news.google.com/rss/articles/CBMivgFBVV95cUxQWDd3ZkttcC1fbXNUNFdwLXZBTXZqOVlWcUJvUWN3engzek9GdXJuRU9CV1pyRzVyaEtYNG13SjJLcFJwQmdGc3Jyb2ppREhKVXZBQ1dnYnIteDY1QWdDTFRNcVUtTXJ5bkhnWkQwTWo2OXZCQ3htbFYxSkhmcGZ5dThYYzNWbkluZFZmbmNPSWlIQ2ozYmstc0pTNDh0RnZYUk9HUEFMSS1FZFF3MHBRMTd5S0hvRFZVbnFCQmhR?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMivAFBVV95cUxNZmZLV09VZllodmZhTHVVQkFBeWRzQlpHdlFGb2lHdHJyOWpXUF9SQkcxb2xjOXhvYnZReXlTOGRiYUJzYTcxc3N1ZjByTXhtOGh5eWpNVmVxckpEUzluWG9MUC10SkxUZ21xQm02V05YZURvS0tFdGZoRW5wblh2Rk9KSUlrSUVLQVRHaTZMeWlNZENpVWJBUDJ2c1BvN2JfNmVrLTVUeFlYQUp2ZVR5THRZQUFlQlNQalNxOA?oc=5>
 
-### 对伊胜利难寻，特朗普重回外交路线
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-08-03 01:10
-- 链接: <https://news.google.com/rss/articles/CBMimgFBVV95cUxQTkhTQWJxa1pEeFgzZWFsY0FJUnhxQ3VERXZMaW81eVVXTmxuTzZPNnhmRlhQQkczcE9rNUMzS1E0ZkxjUjRLWGFsUlFXUlJ5aW5rR01kMlFFc1RnZi1XdXRkQlNrSmZzeU5NNTVwR3N5cnFLMTBZMWlFOENQY0hoZElxblJPUTFRMXp2TUdzZURFQ1Axd0VaWHln?oc=5>
-
-### Trump：3日重启与伊朗谈判……讨论霍尔木兹海峡与无核化- 阿视亚经济
+### 特朗普媒体的比特币储备在转移1.65亿美元BTC后，可能已作为贷款抵押品
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 아시아경제
-- 时间: 2026-08-02 23:22
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1na0lUNm53REh5QVJBMjdkTHFCeEVyeS1jdUh6eUZzdXcwd1hMTjhuTGxnUjNWd0EyRHdaai1JOVlRWTZYdE9OUjdTY25Ldm80OUhRNXdHb0w4cUY3VEtQMmJMY24?oc=5>
-
-### Uncle Trump就是Savior
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-08-02 02:59
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxNUmlSVHhFeXVrQmxhY2ZEeHQwc0hiNTVhMWlBVFV5RS1FWlR1RERyUmVSSWp0ejA3Yl8wUmJ0T2h6WEFWUjZVcDNtbnMtZGxYWGx6SmRpSE05SjRaNklTdkJ5bHNJWjdUVktzU0lyclB4UEd0NzNJM0lZUXNnTThpazNPTVB4MmM?oc=5>
+- 场馆: CoinDesk
+- 时间: 2026-08-02 14:52
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNS1NlZVRULTAxN3pfdGlzLXRfeTd4bTBfVjVHTDB0NU8zXzNOTU12cXhQdFlYQ256dUhDbWIya2FTNkhUS2luU1ZOM0JQd21lalVXektXbUxCc1I3enNmZHA3QnZoTXhTTDJWZGdDbDVUU0tPS2RnQ3IwX1RsTkdTZzBEbGNSNTFHVHIyQmk5QlVzUFI1Sm9VVVdvaVRURU5sRER3ZHphbE1WMzAzRWdMbXlWeE5WUnVqSGtaUExTcE9sQWZSZlZFd2NPalZ3X21q?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-03 08:33  (20 条)
+
+- **蔡徐坤** | 蔡徐坤28岁生日澳门巡演，默片戏曲改编演绎无声到有声 <https://k.sina.com.cn/article_5449334139_m144ce3d7b03301dpai.html>
+- **蔡徐坤** | 蔡徐坤全开麦唱跳巡演实力硬核吸睛 <https://k.sina.com.cn/article_5449334139_m144ce3d7b03301dpac.html>
+- **蔡徐坤** | 蔡徐坤演唱会“踩”到铁粉小黄豆，神级错位引爆全场 <https://k.sina.com.cn/article_7879923116_1d5ae15ac06801j7z8.html>
+- **蔡徐坤** | 蔡徐坤演唱会上的视觉错位是如何形成的？ <https://k.sina.com.cn/article_7880068588_1d5b04dec06801oy0a.html>
+- **蔡徐坤** | 蔡徐坤大屏出神图，颜值惊艳演唱会 <https://k.sina.com.cn/article_6579479312_m1882ae31003301bb2q.html>
+- **蔡徐坤** | 蔡徐坤澳门巡演门票为何能秒罄且口碑翻盘？ <https://k.sina.com.cn/article_7880068588_1d5b04dec06801oxzw.html>
+- **蔡徐坤** | 蔡徐坤澳门巡演《RIDE OR DIE》直拍视频在哪看？ <https://k.sina.com.cn/article_7880068588_1d5b04dec06801oxzq.html>
+- **蔡徐坤** | 蔡徐坤演唱会怼脸镜头封神，五官轮廓放大绝美 <https://k.sina.com.cn/article_5617768139_m14ed856cb03301sytk.html>
+- **蔡徐坤** | 蔡徐坤演唱会大屏神图，掌管大屏的神帅得权威 <https://k.sina.com.cn/article_1852855013_m6e7052e505302qmd8.html>
+- **蔡徐坤** | 蔡徐坤演唱会大屏神图，美貌暴击帅得权威 <https://k.sina.com.cn/article_1852855013_m6e7052e503302qm1u.html>
+- **蔡徐坤** | 蔡徐坤演唱会生日祝福视频全程 真的是全场爆哭 <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002owp8.html>
+- **蔡徐坤** | 谁的一辈子蔡徐坤 蔡徐坤演唱会 TheDeadman演唱会 <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002owog.html>
+- **特朗普** | 特朗普证实美日联合干预日元汇率，再提珍珠港 <https://news.google.com/rss/articles/CBMijwFBVV95cUxOWlpkeTZkOTVVeV8zbkgyZ18tUGpYMzZadnBtRG5nSEpzWlVVc0ZiNHctenpLZkpBemlqNDVoUzl5bGFlbGljYklEc3d1b0xYM2xXRWVJUnZ1Tjl3S1l2Qk9td3cwdnZ2dFpROGhnRXotdkttemVkYWxyS095SzdRMVJLWmdGTFBHaXBSUi00WQ?oc=5>
+- **特朗普** | 特朗普回应为何干预日元汇率 友谊与经济考量 <https://news.google.com/rss/articles/CBMicEFVX3lxTE9lcXQtLXQxTU5vZ3lMSlFmaDBnVE0wVzc1bF9HdWthUzhZUzJkN1RoaUFYV3NKTkh6R0FFdTZHYUR4clFVTmFGaVV3a1d6SVhzUWU0U0NMbEd1UVo5SkxJc3J5Q01nQ3Fia3ZmbnJVa2Y?oc=5>
+- **特朗普** | 美日干预汇率后，特朗普：日本对美国很好，“除了珍珠港” <https://news.google.com/rss/articles/CBMif0FVX3lxTFBEdTl1ZXBzVURaSjZlcVdsRHdUU21KQ3g2bGM1ajZjUEdQRjFmWlpmYjliZmZNVHJ1d25mSnBBQ253VFR5cF9sb3VyWDZPVU52Skl5Q1hCOWZ1aW1ZT05zZm9DYkp0dGlGNkdTbUhwQ0Y5Tm1senNIZEtqV0FOYTg?oc=5>
+- **特朗普** | 【早报】特朗普称取消打击伊朗，原油大跌、黄金上涨；央行定调下半年货币政策 <https://news.google.com/rss/articles/CBMiSEFVX3lxTE96ajJZVHozekU5RmNDRlROdmRldk9WUWpjRHllZGVNaWNMTFd4ekdEMU5xaXNBOGw3dUxsQWdhY3JkV0NmY1FxNg?oc=5>
+- **特朗普** | 特朗普“大变脸”：取消打击！国际油价大跌7%，金价拉升，伊朗：正与阿曼讨论划定一条霍尔木兹海峡新航线 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Ub2prYjQwZXU1QUJzRnBBbkJTNVF6ZDhfa2xsdnNjcm9VRkVaaEJWRkpBQ2F6UzRVUUJxb0JoaDV5WW1tZ200NmJCSmc1WHp1Y1F4clhwTldzR3NNdHQ3WWxicHZldw?oc=5>
+- **特朗普** | 特朗普称美伊3日将举行谈判 <https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2Zk9QeV80cDRvWjg3cks3XzVydVJlXzZKRWFzWlY0V05QSldRWDFkdGliSGNDQXpjb1ZEZV91aXNzUFFkdzNwVXBWTHVCWVZMRnVIaFJ5THhiUllBdl9pUXpBZlhJdDhD?oc=5>
+- **Trump** | Trump Media 正式推出付费服务，提供更快访问特朗普Truth Social 帖子的服务。 交易公司每月支付... <https://news.google.com/rss/articles/CBMivAFBVV95cUxNZmZLV09VZllodmZhTHVVQkFBeWRzQlpHdlFGb2lHdHJyOWpXUF9SQkcxb2xjOXhvYnZReXlTOGRiYUJzYTcxc3N1ZjByTXhtOGh5eWpNVmVxckpEUzluWG9MUC10SkxUZ21xQm02V05YZURvS0tFdGZoRW5wblh2Rk9KSUlrSUVLQVRHaTZMeWlNZENpVWJBUDJ2c1BvN2JfNmVrLTVUeFlYQUp2ZVR5THRZQUFlQlNQalNxOA?oc=5>
+- **Trump** | 特朗普媒体的比特币储备在转移1.65亿美元BTC后，可能已作为贷款抵押品 <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNS1NlZVRULTAxN3pfdGlzLXRfeTd4bTBfVjVHTDB0NU8zXzNOTU12cXhQdFlYQ256dUhDbWIya2FTNkhUS2luU1ZOM0JQd21lalVXektXbUxCc1I3enNmZHA3QnZoTXhTTDJWZGdDbDVUU0tPS2RnQ3IwX1RsTkdTZzBEbGNSNTFHVHIyQmk5QlVzUFI1Sm9VVVdvaVRURU5sRER3ZHphbE1WMzAzRWdMbXlWeE5WUnVqSGtaUExTcE9sQWZSZlZFd2NPalZ3X21q?oc=5>
 
 ### 2026-08-03 04:59  (33 条)
 
