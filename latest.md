@@ -1,92 +1,127 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-03 12:16**
-- 本轮扫到 8492 条, 新增 **11** 条
+- 最近更新: **2026-08-03 15:23**
+- 本轮扫到 8506 条, 新增 **14** 条
 
 ---
 
-## 本轮新发现 (11 条)
+## 本轮新发现 (14 条)
 
-### 【业绩发布】这家PCB设计厂商 上半年净利润大增15倍
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://finance.sina.com.cn/stock/relnews/cn/2026-08-03/doc-inikzeav2923929.shtml>
-
-### 蔡徐坤专辑签售会完整视频
+### 蔡徐坤澳门演唱会生日夜，叙事舞台带来视听盛宴
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923104_1d5ae15a006801h1iw.html>
+- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301e79s.html>
 
-### 蔡徐坤澳门演唱会彩排照，反复打磨唱腔走位
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5934541885_m161b9ec3d03301epp4.html>
-
-### 蔡徐坤演唱会伴手礼被炒到820元
+### 蔡徐坤澳门演唱会《Ride or Die》舞台 反手拿麦克风真的夯爆了
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1640601392_m61c9973003301m8cm.html>
+- 链接: <https://k.sina.com.cn/article_2766575417_ma4e6973903301bby6.html>
 
-### 蔡徐坤演唱会伴手礼被炒至820元
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7096020466_m1a6f4adf203301lgj8.html>
-
-### 28岁涅槃重生！蔡徐坤最新巡演封神！向死而生真的太好哭了
+### 蔡徐坤演唱会说的“走出盒子”具体指什么？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6883060031_m19a43293f03301ankq.html>
+- 链接: <https://k.sina.com.cn/article_7879923104_1d5ae15a006801h24o.html>
 
-### 日美公布联合干预外汇市场阻止日元贬值 特朗普表示日本向美国求援
+### 蔡徐坤澳门演唱会全开麦表演反响如何？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: rfi.fr
-- 时间: 2026-08-03 10:38
-- 链接: <https://news.google.com/rss/articles/CBMiyANBVV95cUxNZnYtdFd0VlQtN2c5N2hhaVYza0FFQTI0ZExDeXJOanBQNklSZnVtSFAzd0ZxWGJoVzM1N1E5ZjVDRnNPNXZlSWxYb3ZFdzRWajZCUXpBQUVNTndEcmMwRDlJZEJSLTVDLVdYT08wOHpHd0d6SGtOajV3di1RTTZlcVhkb2pKajkxV0wwUlhCajYza0ZYSzBaN3o1OFJzQ18zMmlsMF9CcVMtNGEtWkhvZUEwNkVpb2dKWVpsXzJUYWZhRDVmTTEtTDNhclE1S2NlVFVnUm1vR19lT1VNaWVDYldIbFVvOFRBcFRYRkw5cGNMS2JEaTFlUUo4aGdYM3Q5RXRONVZsa3VUY3g5eGxMMm9ZVlFQNTIwS2ZJeWVTcnEtRk9nNTNObjNPQTFFSU9NbWpBU256SFZEUmVOajFiRzZUUGpUc1BFV1N5Ukh6TlRhQXFDNmducHZrSGI5Y2dSTmhFX29CUFdkcnZyVVFiQzFPUFhyZ2pVOGh4S2s3cnFpeFFFa0oyVV85T3BIRWRhRlFjd1B0QVh3X19IdnphWHg3SnBRclhUWXFHYnhKd2lPTk44WlJTb2N4ckdNQ2NrYVlxT0VxUko?oc=5>
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923104_1d5ae15a006801h24m.html>
 
-### 特朗普家族账户被关，银行首次挂钩反洗钱审查
+### 蔡徐坤澳门演唱会呈现百老汇质感，西部故事线精致舞美
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-08-03 05:02
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBmLTQ3NnFkR0ZQVGtRdWJJcGxMVXhZNE1xcWRiZzBVV2Vaa0ZKRFRtMS1QMHFRYWcwUW4yWUFSYlJSdHFURTlOY1JYa3FnNG4xS1dieTd6MGRnTThNRl9jRnZ4eXQ?oc=5>
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_6579479545_m1882ae3f903302fq6c.html>
 
-### 特朗普帖文，花10万美元可提前看
+### 蔡徐坤演唱会扔手套，粉丝稳稳接住专属好运
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5727695436_m15565b24c05301scpi.html>
+
+### 粉丝对蔡徐坤演唱会撒娇片段作何评价？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776724_1d5abd9d406801h1xy.html>
+
+### 蔡徐坤演唱会撒娇名场面：索要飞吻反差萌太犯规
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776724_1d5abd9d406801h1xw.html>
+
+### 蔡徐坤演唱会撒娇萌态尽显
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5059772642_m12d9600e2053027b8c.html>
+
+### 特朗普：日本向我们求助
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-08-03 11:36
-- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE9xTmQ5dTAtM01rOWFqQlNjOEdGejQ3UWJiMlJ6cGZjSTgtSWd5LXFOYVNTdGt2LVlScGpueGlaX1dndU5Nb1ZsOXNNWklyY19n?oc=5>
+- 时间: 2026-08-03 06:09
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE95LTNaOC1icDUya1VZMHZ2MTZZSnY0OVFQazJlaTVLb2FlclhkMGx4ZDc5QnEwTlZOalluLXlWVE1sOHdxNzJJbGZuSUw?oc=5>
 
-### 美日干预汇率后，特朗普：日本对美国很好，“除了珍珠港”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: xinhuanet.com
-- 时间: 2026-08-03 07:50
-- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE44ZHVwU0J0LVJkRHVPSlFhdzE2SXVIWFBSUmo5NFpuWWk0Mkk4MFNLWjIyeXBvUnpzUzJzVng5Q0JydjlxRU9BNW5vS3NPNmJPT29mVFAxS2JOQ0xzOTJoUmNpVTRNaFFMbUUzZlBHUHF2LUdkYjhDYUNYWFJaUQ?oc=5>
-
-### 特朗普总统宣布达成加沙协议- 美国驻华大使馆和领事馆
+### 15年来首次“联合干预”！美日财政部同步证实 特朗普发声
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: U.S. Embassy & Consulates in China
-- 时间: 2026-08-03 06:38
-- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZTBpdXB2Y0djMzIwUU5mTW13cWNlVVA5MG9seUo2ejFNTWl0SkFIN1Y0bElCV216QXh4UjBfTjhXemxieDZabmF3eEYwaHc0S2lfdFpMQ2RCTExNR0t6WG5Pb0FGMjZmMHNZRklCN190dG9jRFRTWmJPWmlaS09lT2dsLU54Z1U1?oc=5>
+- 场馆: 财联社
+- 时间: 2026-08-03 00:42
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE9zN194bGY2N3Q5cUNndkd2OXJUdXFVZXpMVi0wSllfNndRQndCQnlyN0QxNUh1XzNFQk5kZ3NCNHJWakpWZGFNeg?oc=5>
+
+### 大V：特朗普卖帖文是权力变现 引发舆论与法律风暴
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华军事
+- 时间: 2026-08-03 14:22
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBfaVRkSGpQZ1ZDdjA5Q0NBT0xmbHRFbUlBRmpaUXlGaTdaZnBBUnROS3lFREt2R3cxaC0tbjFXVTRpbTkyTXYxNTRMbzV1UmpQU1VfV25hd2t1OXVrV1d5ZHNDVk50aG83MnNRSWp1elQ?oc=5>
+
+### 特朗普拒绝为美伊达成协议设定最后期限
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: video.sina.com.cn
+- 时间: 2026-08-03 07:28
+- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxOUU5iM1U1UWxPR2Ntd2ZpVE9YNmg0S1RIb0ZEUU0yck95VHpWbXZQY0xVRFFob1NHQUY4RGhEX2hxaHFkMDNCc21RZnI2cEFUQVNLN1pNbEdYWVVMVW5zdjdIOUZhaFRBQ0dCRW1TanZOQTdqb0pPeHdEbi0tNTBBTjF3?oc=5>
+
+### 特朗普：已决定惩罚加拿大，盟友身份不再豁免
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-08-03 06:45
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZZW5vREE4VHVFV1U5ZGF5SVROVF9VYWRfYVhaeXlsUDhCT0RrQ0R2N1Rta09lNDljdGJIUnJ4aGI4UUdVY3k0QmV2aFBSU3M1YUNUOVVkN0FmSndyTTVUdE5vQUc2N29ObFRJaEp1RzU?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-03 15:23  (14 条)
+
+- **蔡徐坤** | 蔡徐坤澳门演唱会生日夜，叙事舞台带来视听盛宴 <https://k.sina.com.cn/article_7879924009_m1d5ae192903301e79s.html>
+- **蔡徐坤** | 蔡徐坤澳门演唱会《Ride or Die》舞台 反手拿麦克风真的夯爆了 <https://k.sina.com.cn/article_2766575417_ma4e6973903301bby6.html>
+- **蔡徐坤** | 蔡徐坤演唱会说的“走出盒子”具体指什么？ <https://k.sina.com.cn/article_7879923104_1d5ae15a006801h24o.html>
+- **蔡徐坤** | 蔡徐坤澳门演唱会全开麦表演反响如何？ <https://k.sina.com.cn/article_7879923104_1d5ae15a006801h24m.html>
+- **蔡徐坤** | 蔡徐坤澳门演唱会呈现百老汇质感，西部故事线精致舞美 <https://k.sina.com.cn/article_6579479545_m1882ae3f903302fq6c.html>
+- **蔡徐坤** | 蔡徐坤演唱会扔手套，粉丝稳稳接住专属好运 <https://k.sina.com.cn/article_5727695436_m15565b24c05301scpi.html>
+- **蔡徐坤** | 粉丝对蔡徐坤演唱会撒娇片段作何评价？ <https://k.sina.com.cn/article_7879776724_1d5abd9d406801h1xy.html>
+- **蔡徐坤** | 蔡徐坤演唱会撒娇名场面：索要飞吻反差萌太犯规 <https://k.sina.com.cn/article_7879776724_1d5abd9d406801h1xw.html>
+- **蔡徐坤** | 蔡徐坤演唱会撒娇萌态尽显 <https://k.sina.com.cn/article_5059772642_m12d9600e2053027b8c.html>
+- **特朗普** | 特朗普：日本向我们求助 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE95LTNaOC1icDUya1VZMHZ2MTZZSnY0OVFQazJlaTVLb2FlclhkMGx4ZDc5QnEwTlZOalluLXlWVE1sOHdxNzJJbGZuSUw?oc=5>
+- **特朗普** | 15年来首次“联合干预”！美日财政部同步证实 特朗普发声 <https://news.google.com/rss/articles/CBMiSEFVX3lxTE9zN194bGY2N3Q5cUNndkd2OXJUdXFVZXpMVi0wSllfNndRQndCQnlyN0QxNUh1XzNFQk5kZ3NCNHJWakpWZGFNeg?oc=5>
+- **特朗普** | 大V：特朗普卖帖文是权力变现 引发舆论与法律风暴 <https://news.google.com/rss/articles/CBMicEFVX3lxTFBfaVRkSGpQZ1ZDdjA5Q0NBT0xmbHRFbUlBRmpaUXlGaTdaZnBBUnROS3lFREt2R3cxaC0tbjFXVTRpbTkyTXYxNTRMbzV1UmpQU1VfV25hd2t1OXVrV1d5ZHNDVk50aG83MnNRSWp1elQ?oc=5>
+- **特朗普** | 特朗普拒绝为美伊达成协议设定最后期限 <https://news.google.com/rss/articles/CBMiggFBVV95cUxOUU5iM1U1UWxPR2Ntd2ZpVE9YNmg0S1RIb0ZEUU0yck95VHpWbXZQY0xVRFFob1NHQUY4RGhEX2hxaHFkMDNCc21RZnI2cEFUQVNLN1pNbEdYWVVMVW5zdjdIOUZhaFRBQ0dCRW1TanZOQTdqb0pPeHdEbi0tNTBBTjF3?oc=5>
+- **特朗普** | 特朗普：已决定惩罚加拿大，盟友身份不再豁免 <https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZZW5vREE4VHVFV1U5ZGF5SVROVF9VYWRfYVhaeXlsUDhCT0RrQ0R2N1Rta09lNDljdGJIUnJ4aGI4UUdVY3k0QmV2aFBSU3M1YUNUOVVkN0FmSndyTTVUdE5vQUc2N29ObFRJaEp1RzU?oc=5>
 
 ### 2026-08-03 12:16  (11 条)
 
