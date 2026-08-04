@@ -1,29 +1,13 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-04 22:06**
-- 本轮扫到 8711 条, 新增 **2** 条
+- 最近更新: **2026-08-04 23:30**
+- 本轮扫到 8711 条, 新增 **0** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮无新增
 
-### 蔡徐坤在澳门演唱会上到底亲没亲到粉丝手背？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimezkr3757519.html>
-
-### 时隔28年美日再度携手“拯救日元”的背后：特朗普既救日元更帮自己
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-08-04 20:26
-- 链接: <https://news.google.com/rss/articles/CBMisAFBVV95cUxOQUpEU29vb0JYRHhhbHlBZEhNZFNQbEE5cGdzZDM2WnBDQ2ZFci1pUXltQzNYWDlVOWE3TW9KdWxYWFhWS1VRQzFYbFBfM1dtSXB2c2hVSjNhRk5iTlR0Qjc2R3NqeThQbzdGS2Y3SkNuSzJoaGhhWjltaUtGNHhrLVNZbVBRVW9uTzAtWTZYVTdmZDRNSlUzM1ZNMTEyVEttRHoxTDJURkZWR1M5Mmo3cg?oc=5>
-
-
----
-
+数据库里所有演出/动态都已见过,暂无新增。
 ## 历史发现
 
 ### 2026-08-04 22:06  (2 条)
