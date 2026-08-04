@@ -1,172 +1,156 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-04 05:11**
-- 本轮扫到 8593 条, 新增 **22** 条
+- 最近更新: **2026-08-04 07:58**
+- 本轮扫到 8610 条, 新增 **17** 条
 
 ---
 
-## 本轮新发现 (22 条)
+## 本轮新发现 (17 条)
 
-### 为何蔡徐坤澳门演唱会吻手礼刷屏全网？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7002256903_m1a15df60703301kgt8.html>
-
-### 蔡徐坤演唱会拿粉丝拍立得自拍，全场沸腾
+### 蔡徐坤澳门演唱会的废土美学舞台有哪些设计亮点？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7323270704_m1b4803e3003301n8qy.html>
+- 链接: <https://k.sina.com.cn/article_7879923104_1d5ae15a006801h3fi.html>
 
-### 蔡徐坤新专辑《KUN》为何采用全英文创作？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776730_1d5abd9da06803pndk.html>
-
-### 蔡徐坤演唱会忙成小陀螺，白西装穿梭粉丝区互动
+### 蔡徐坤澳门演唱会为何能实现口碑逆袭？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5556631847_m14b33792705302bliu.html>
+- 链接: <https://k.sina.com.cn/article_7879923104_1d5ae15a006801h3fc.html>
 
-### 蔡徐坤演唱会戴猫耳朵，为粉丝黑胶亲签
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5556631847_m14b33792705302blf8.html>
-
-### 蔡徐坤把MV搬上演唱会！原来全网爆火的舞蹈挑战就出自这里
+### 蔡徐坤没退圈！演唱会全开麦引爆热议
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002oyk8.html>
+- 链接: <https://k.sina.com.cn/article_7879923107_1d5ae15a306803srmg.html>
 
-### 蔡徐坤演唱会现场互动比心拍手，带头磕糖甜度超标
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5556631847_m14b33792705302blhc.html>
-
-### 我再再再再再也不愿见你在深夜里买醉…蔡徐坤澳门演唱会 爱如潮水
+### 蔡徐坤大片：金属尖顶礼帽加持，生日开唱将巡演化作盛大狂欢派对
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002oyke.html>
+- 链接: <https://k.sina.com.cn/article_1301666333_4d95da1d001013zv0.html>
 
-### 神来的蔡徐坤演唱会 蔡徐坤
+### 蔡徐坤演唱会所有舞者均为00后
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002oydo.html>
+- 链接: <https://k.sina.com.cn/article_5556631847_m14b33792705302blji.html>
 
-### 周杰伦为《功夫女足》创作了哪首主题曲？
+### 蔡徐坤澳门演唱会《Ride or Die》舞台 反手拿麦克风真的夯爆了
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_6627962199_m18b0ead57053025loc.html>
+
+### 蔡徐坤演唱会突然表白，温柔真诚引全场沸腾
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5556631847_m14b33792705302blmc.html>
+
+### 樊振东周杰伦乒乓球对打，刘俊熙花絮视频发布
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776730_1d5abd9da06803pni4.html>
+- 链接: <https://k.sina.com.cn/article_7879923907_m1d5ae18c303301h3i8.html>
 
-### 伊朗否认与美国谈判后招致特朗普不满 斥责德黑兰“极其虚伪”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-03 18:17
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYTJFUUtqdFdqLS03S1RGTGxQQW5LbkFseDVhNlFDdTVZWXFRdmtXNjFnSTd6cEU2YklTb3hmWnY3cGlPYTd2R1pWRVRSQVJqSHJHRUEzVHNPSk1waFFOeERUdi04R2xWTlctRzY4VW1KM3NWYzloaU1YbzZYRVdpVkdRd0xDRWZwMFlYUjFfUFd4cVRQVWl3SmU4OUIzYUJGMmRMdUc0OE1qZWRtSldtOFNvaHd2dWY1MmJJcGp4YkExZDBTRXhhdTEtS2NJb3lN?oc=5>
-
-### 特朗普暗示：美国将在2029年前控制格陵兰岛
+### 美媒披露：国际足联主席因凡蒂诺希望特朗普政府保其职位，将与鲁比奥通话
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中国经济网
-- 时间: 2026-08-04 04:40
-- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTE5tYk9JT25XZEFIX0dNMXNVNjdNb3VmVmRrcVNQMlFyZjdfVTVFT2oxR0VOWFg0LUhrTEZWTExmZHpHblFGa3lGR2lXNWlYUkhaRzFxaW1VNS1PMmY1SVN0ODFfcw?oc=5>
+- 场馆: guancha.cn
+- 时间: 2026-08-03 12:35
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9XanpkTWluUm5xbXA1X1k0dHdjaWY0bFdPSDZPa3RXWkEwVHhST1VXb1ZNSTJZQUZQN21QT0NfbGllVGhNMnFES1VialNyWWtWQ2VMeWIwbEZFWExmUXdrbVlnWWdwX0JVVmc?oc=5>
 
-### 美国铜进口激增 交易员赶在特朗普关税决定前布局
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-03 15:32
-- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxNLUpMQXRiUVpvcnZEbmhvRGhNZ2hBbU9KbTdzMmR5a0FSYlNvZEQxODFZbGR0QVlLSUNJbnpFNEdQX3NsU2d1RXFWY29vUkhfNkhMRm84NExGUkhfd183al9FbjlvUTYzNk91V2xXeGpoZnFzTXVNemR6NlpldVlsdTNyYjZhS1l6LUVpM05UaGdQS3BITWlOLU03UXlEVmU4TDI0VmdEa2pfRzdtVkN4SGxWSWRIZmdBRGFOXzJpSV9TbFdZcXpyMTBBc1J2bXlndUE?oc=5>
-
-### 美媒爆特朗普拟撤换哥伦比亚特区联邦检察官：他对皮罗“反水”非常不满，整个周末都在生她的气
+### 外媒：因凡蒂诺多次致电特朗普未果 深感“孤立无援”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 环球网
-- 时间: 2026-08-03 11:49
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE9NelNzdjZFUm9YNFhvMkF0YkRHZGtKWGFXYU1IUnBHdnB4TDlPNmJxOGlzTnJQZUxKZnVvYzNFbmRJd3U0eXUtbWlGb29lZ3l2TkhOQU93TGM?oc=5>
+- 场馆: 中国网新闻中心
+- 时间: 2026-08-04 07:29
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE1PMGpYT3gtY3ltQXJnMlJLQklBSWZsY1oxN2dZNXZNa2dTMGZjbWdhVVZFYXZNTU9HUmdlYThObmdmckJQNGZCOWoxNWVCcmV5QjN6S3MwWGJ3MHFna3FLd2R5YlFmMnAySnBZ?oc=5>
 
-### 特朗普政府被美25州起诉 质疑关税合法性
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-08-04 03:26
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE8tR1B1NjdSbldPSGJsYUVEZ2tQeDlYZmJvdGxYa2U0V3E3RG9EUk9HWjdyRjcycjAtRWtuQUJwZzR0Zmw5VEhoWjkxMXBqdXctZUtwUVJEQ3F5UFZZV1hON2daRXNvUFVmM2lVLS1Ld0U?oc=5>
-
-### 以称内塔尼亚胡通过特朗普社媒得知美叫停对伊打击
+### 特朗普也不理因凡蒂诺了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-08-02 20:08
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TMzFnMWxkX0V5Q21pVEE3UFg2QW44U1ZXbnE0OG5YRUJ1MkdrTzNnQnJKT3QzUFZlanhhNTV2MlVNak1YMkhFLUFXbXhaM3MwaUUzWERwMFBIdDl0UDRTeQ?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-08-04 05:36
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxNNkJPYV9sdkFuWVN6UmFZbEQ1SUJ6eUp3eEY3OEItWUkweU1NdU9Gc3ZaYW5uTWRwNFR0Z1pCdk9EaktSWXNENFJjT0ZvSjN3TmFXSkgzN3U4TnpIZkVWZjd4VmNJLVVjVjBXNzdlZTJ0OHp2RmhQSzZzVTJEUW1CWnozekFOc0k?oc=5>
 
-### 特朗普总统：正在进行的谈判是伊朗达成协议的“最后机会”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-08-03 21:13
-- 链接: <https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX2pUUjZBaTVLT2FiV0ZKZGNCLXA5ZTZDVE96ZVNwbkdBX2ZjSUxhRUpBZXFRWkp0ZTNIRjI4OEFwOHdhVFRHSjlYQTdyckt5YTVoMzlwQjJVNnlxel9fMFJTWmljUVVMT29DN2N0MTFWRVluQWtGbFdZRVNwcjBMTFZUU1hhRGVRSUtiZW9Xbnc1b2M2OUJKcWc0MUpXdFQ3NXVfTXBsLTZzN0g1VmVRdlZGOUppUU4xLVVsQnlFdnMzakHSAcMBQVVfeXFMTV9qVFI2QWk1S09hYldGSmRjQi1wOWU2Q1RPemVTcG5HQV9mY0lMYUVKQWVxUVpKdGUzSEYyODhBcDh3YVRUR0o5WEE3cnJLeWE1aDM5cEIyVTZ5cXpfXzBSU1ppY1FVTE9vQzdjdDExVkVZbkFrRmxXWUVTcHIwTExWVFNYYURlUUlLYmVvV253NW9jNjlCSnFnNDFKV3RUNzV1X01wbC02czdINVZlUXZWRjlKaVFOMS1VbEJ5RXZzM2pB?oc=5>
-
-### 特朗普称美伊正在对话 是伊朗的“最后机会”
+### 新华社消息丨美国25州联合起诉特朗普政府301关税政策
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新华网
-- 时间: 2026-08-03 20:40
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9lMFhQTDVoVG16WldMVkloMkFxTnFkR0cwTXE1WlVYeFdhQmR5Nk05d2ZZTThaaGdYX09wZG85UUhnTGdvQ3RDbFFfV1BlbXFXVV9TYjJCejFvaVk3YUFMT0RJVXFvdjFuMVppWGk0Y3J1STRydjZZV2FCSENGOUk?oc=5>
+- 时间: 2026-08-04 02:30
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE1lbHlMZVVmclUyQTMwVlZVeUpIUWVsaHE5VEJhN1JDdXRhNGF6eGdycll5TXRYRlZ5bVRnbmhGUmNYUm9OdUJuTDhoUDltTWlzTHFPQVJJQmx5dWJ5UklMSFJLaWhnVnF6RzlvOU5JS0JiTkdfdXc?oc=5>
 
-### Eric Trump：ABTC上市11个月快速扩张，成全球第16大上市比特币持有企业
+### “特朗普非常愤怒，整个周末都气愤不已”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-08-04 07:56
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBNT3pwMlhIV2lnX3hUelhiYnAyeGdlTmxlNldrRHNWRHUzMmcwQUI1Qmt0ekpXQ3ZIQTVWWWlMY3BMYVlWQmVDSzQ0bjI?oc=5>
+
+### 不满倒影池案急转弯 特朗普讨论开除多年心腹
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-08-04 07:14
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5paU9fSUhRV1g5amgzb1VjSC1sdzkwamNBTEJuZGV2OEluMzdlMFpKeXM1Y0R4YnNjOW8xeHJWVF9nMVhXdmhIdWNYWUctWDdrdlM2ZkdzSjNRQXQ1MW5rN0F2dE5laVBLMHc?oc=5>
+
+### 瞄准两大石油巨头，特朗普施压：你们赚太多
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: finance.ifeng.com
+- 时间: 2026-08-04 00:21
+- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pT1pRdHJaRmdRdmF6WUpFTWV1SmRITHNWZmxHT3ZIMURpQzdESm5sMTEwLUJ1VEtCYlZaeEl1UV9xd0JTQnhIZWlZdGdFcHhE?oc=5>
+
+### $标普500ETF-SPDR (SPY.US)$ trump为了不让市场下跌什么话都说得出来，但他其实是个操纵股价的骗子，真是笑话
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: TradingView
-- 时间: 2026-08-03 14:17
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5vSFZkamtrMjJxSjdWUkltSk5JRDNUY3FWSHRlYW1nVUFXT0JQNkVjaWFWNTlDTVVHU1hVRlVhS3JlMWNGc2lFazI5d0w1UWo2YXA2eVZXZ053V3JTa3Zzb1hMNnZnUQ?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-08-04 02:02
+- 链接: <https://news.google.com/rss/articles/CBMi8gNBVV95cUxNZ0NwazlQY2pNcGxhTHhwVW1xYUZBU2NKczAwYmszOEtLS1lfU2RmMEJ1T3hNbmROUENJWl90bFRpR0F0OGN4TE4xam1yQXB6Tk1INlVTREp5eE05SDNTdmlWbHNCVktrMjMyMjZleEhtMlJOanFNMmpFT1JyYXhUdVdmLVZ5TUFxU2E5V191LWJvT0VvaDVnNlZ6X2NPMURfN2VNN1V4MEMtN3FXckE2Y2xKdW5oZUp4VWl6THR6OUVfcjloWUlicVVRc0RtWktFMTNHbmdIT3hlQkdnN09Tem1lMnp5dkh4YnJXdjd4MFF6Q1FkN2FjRjUzdTIzakpOTG4wQUpKd05VRXZiQ0FfaFQ0STBHZzFCUDFOR1l6T3RaU0hDUnlkVEhmY3lNdnRsMXlkR1RyaGpVeGU1MndJcERMTzJlcWxnVmVpbi1VY2NOQ2s4ek0wM0VXdnlxbnRSRE9YNklROWp0NU5pSTA5SlpQMXdvZVVuQzhaaVBwcmdLbjFoNnNxcnd5dTFuSGtVN3NCamY3M3dWQ3J3M2t5MVgzRUN0TUpURlo1bnZTUmhNcFhmemx3eC1rZ25FU1lJYjJFdVk5cW5ucGRWYjdlU0dLNzU2ME5mNXhEcFg1RTg0UUNEWWl4YTgwQk54eG54MGc?oc=5>
 
-### 特习会后美中再现摩擦　“建设性稳定”能否撑到九月？
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-08-04 00:08
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0YWk2MzJxdHlOYVZfT1FyUTJSMFZlM28yU1pSc1FTUjBCcjZfWHRYd1FEbUpFNVBTdWRZMWYxWC13NEgwbFI2ckR1dGFSdW41UzRzZ3NzRWM3UVF3dFowU2lxT0RxUdIBa0FVX3lxTE9TU0tReGJyV2Z6MnhlQnVUNWE4YzdoZXc3RVZ3ZjNCeF9pNElUejloVDJrYlAxNEV4T2U2SURyV1RjZTc5OTBZWVRORFlhYWFTR3Q1NVFiZkNmRGJCMEptSTd6OHVUTFQ4bkVZ?oc=5>
-
-### Trump对埃克森美孚、雪佛龙：“赚得太多，油价该降了”
+### DJT|Trump Media & Technology Group Corp|价格:10.005|涨跌幅:+0.145
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 아시아경제
-- 时间: 2026-08-03 21:34
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBZGRhRTExN1E2OXAxaU5LdDJHMGlCQVU1M0tHVkNFR2VpalRJSFJvNm5zUVJyU0ZLdjZhbmNWQ18yV2VXNUZjSVgtU0E4UnBrWmNKRnRuUG5vaHpNVkx3emVpWTE?oc=5>
-
-### 特朗普总统：正在进行的谈判是伊朗达成协议的“最后机会”
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-08-03 21:13
-- 链接: <https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRGlUM01MRHEzQXdJTzdVeFRxaU4ybWRMTWw2RlY0UkRBaFlHeVNjelNQQ29waExFeEc4WDBWSTRVVnhYOXdCaXM3Yjd3b01LSDhNclpsNU42Y0lMdW9mSFVRSnM4VGRXM1VRc0g2RXpVeDlLcTRRdDZsdFZiUlBlVnM5X0Y1MWVCd0VmQi1nM081cXZhV2w3Yl8yQVB2eW96SE5yS2ZnS2tMWkFFUWlGY2RWS0dBeU1TWGxTUFpVN2fSAcMBQVVfeXFMTV9qVFI2QWk1S09hYldGSmRjQi1wOWU2Q1RPemVTcG5HQV9mY0lMYUVKQWVxUVpKdGUzSEYyODhBcDh3YVRUR0o5WEE3cnJLeWE1aDM5cEIyVTZ5cXpfXzBSU1ppY1FVTE9vQzdjdDExVkVZbkFrRmxXWUVTcHIwTExWVFNYYURlUUlLYmVvV253NW9jNjlCSnFnNDFKV3RUNzV1X01wbC02czdINVZlUXZWRjlKaVFOMS1VbEJ5RXZzM2pB?oc=5>
+- 场馆: TradingKey
+- 时间: 2026-08-04 03:51
+- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTE5HOWdWVy01RlJzdlpheHcwV2FWTGx4RGVlOVNSNFpmdU5wQi13aEZRb0laNExWSUJLVnpqUC1lc21PcDRJQk5XR01ZdGpXMDE5dTRiUHByY0RSbmE4YzAzNVZlaw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-04 07:58  (17 条)
+
+- **蔡徐坤** | 蔡徐坤澳门演唱会的废土美学舞台有哪些设计亮点？ <https://k.sina.com.cn/article_7879923104_1d5ae15a006801h3fi.html>
+- **蔡徐坤** | 蔡徐坤澳门演唱会为何能实现口碑逆袭？ <https://k.sina.com.cn/article_7879923104_1d5ae15a006801h3fc.html>
+- **蔡徐坤** | 蔡徐坤没退圈！演唱会全开麦引爆热议 <https://k.sina.com.cn/article_7879923107_1d5ae15a306803srmg.html>
+- **蔡徐坤** | 蔡徐坤大片：金属尖顶礼帽加持，生日开唱将巡演化作盛大狂欢派对 <https://k.sina.com.cn/article_1301666333_4d95da1d001013zv0.html>
+- **蔡徐坤** | 蔡徐坤演唱会所有舞者均为00后 <https://k.sina.com.cn/article_5556631847_m14b33792705302blji.html>
+- **蔡徐坤** | 蔡徐坤澳门演唱会《Ride or Die》舞台 反手拿麦克风真的夯爆了 <https://k.sina.com.cn/article_6627962199_m18b0ead57053025loc.html>
+- **蔡徐坤** | 蔡徐坤演唱会突然表白，温柔真诚引全场沸腾 <https://k.sina.com.cn/article_5556631847_m14b33792705302blmc.html>
+- **周杰伦** | 樊振东周杰伦乒乓球对打，刘俊熙花絮视频发布 <https://k.sina.com.cn/article_7879923907_m1d5ae18c303301h3i8.html>
+- **特朗普** | 美媒披露：国际足联主席因凡蒂诺希望特朗普政府保其职位，将与鲁比奥通话 <https://news.google.com/rss/articles/CBMiakFVX3lxTE9XanpkTWluUm5xbXA1X1k0dHdjaWY0bFdPSDZPa3RXWkEwVHhST1VXb1ZNSTJZQUZQN21QT0NfbGllVGhNMnFES1VialNyWWtWQ2VMeWIwbEZFWExmUXdrbVlnWWdwX0JVVmc?oc=5>
+- **特朗普** | 外媒：因凡蒂诺多次致电特朗普未果 深感“孤立无援” <https://news.google.com/rss/articles/CBMia0FVX3lxTE1PMGpYT3gtY3ltQXJnMlJLQklBSWZsY1oxN2dZNXZNa2dTMGZjbWdhVVZFYXZNTU9HUmdlYThObmdmckJQNGZCOWoxNWVCcmV5QjN6S3MwWGJ3MHFna3FLd2R5YlFmMnAySnBZ?oc=5>
+- **特朗普** | 特朗普也不理因凡蒂诺了 <https://news.google.com/rss/articles/CBMihwFBVV95cUxNNkJPYV9sdkFuWVN6UmFZbEQ1SUJ6eUp3eEY3OEItWUkweU1NdU9Gc3ZaYW5uTWRwNFR0Z1pCdk9EaktSWXNENFJjT0ZvSjN3TmFXSkgzN3U4TnpIZkVWZjd4VmNJLVVjVjBXNzdlZTJ0OHp2RmhQSzZzVTJEUW1CWnozekFOc0k?oc=5>
+- **特朗普** | 新华社消息丨美国25州联合起诉特朗普政府301关税政策 <https://news.google.com/rss/articles/CBMidkFVX3lxTE1lbHlMZVVmclUyQTMwVlZVeUpIUWVsaHE5VEJhN1JDdXRhNGF6eGdycll5TXRYRlZ5bVRnbmhGUmNYUm9OdUJuTDhoUDltTWlzTHFPQVJJQmx5dWJ5UklMSFJLaWhnVnF6RzlvOU5JS0JiTkdfdXc?oc=5>
+- **特朗普** | “特朗普非常愤怒，整个周末都气愤不已” <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBNT3pwMlhIV2lnX3hUelhiYnAyeGdlTmxlNldrRHNWRHUzMmcwQUI1Qmt0ekpXQ3ZIQTVWWWlMY3BMYVlWQmVDSzQ0bjI?oc=5>
+- **特朗普** | 不满倒影池案急转弯 特朗普讨论开除多年心腹 <https://news.google.com/rss/articles/CBMiakFVX3lxTE5paU9fSUhRV1g5amgzb1VjSC1sdzkwamNBTEJuZGV2OEluMzdlMFpKeXM1Y0R4YnNjOW8xeHJWVF9nMVhXdmhIdWNYWUctWDdrdlM2ZkdzSjNRQXQ1MW5rN0F2dE5laVBLMHc?oc=5>
+- **特朗普** | 瞄准两大石油巨头，特朗普施压：你们赚太多 <https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pT1pRdHJaRmdRdmF6WUpFTWV1SmRITHNWZmxHT3ZIMURpQzdESm5sMTEwLUJ1VEtCYlZaeEl1UV9xd0JTQnhIZWlZdGdFcHhE?oc=5>
+- **Trump** | $标普500ETF-SPDR (SPY.US)$ trump为了不让市场下跌什么话都说得出来，但他其实是个操纵股价的骗子，真是笑话 <https://news.google.com/rss/articles/CBMi8gNBVV95cUxNZ0NwazlQY2pNcGxhTHhwVW1xYUZBU2NKczAwYmszOEtLS1lfU2RmMEJ1T3hNbmROUENJWl90bFRpR0F0OGN4TE4xam1yQXB6Tk1INlVTREp5eE05SDNTdmlWbHNCVktrMjMyMjZleEhtMlJOanFNMmpFT1JyYXhUdVdmLVZ5TUFxU2E5V191LWJvT0VvaDVnNlZ6X2NPMURfN2VNN1V4MEMtN3FXckE2Y2xKdW5oZUp4VWl6THR6OUVfcjloWUlicVVRc0RtWktFMTNHbmdIT3hlQkdnN09Tem1lMnp5dkh4YnJXdjd4MFF6Q1FkN2FjRjUzdTIzakpOTG4wQUpKd05VRXZiQ0FfaFQ0STBHZzFCUDFOR1l6T3RaU0hDUnlkVEhmY3lNdnRsMXlkR1RyaGpVeGU1MndJcERMTzJlcWxnVmVpbi1VY2NOQ2s4ek0wM0VXdnlxbnRSRE9YNklROWp0NU5pSTA5SlpQMXdvZVVuQzhaaVBwcmdLbjFoNnNxcnd5dTFuSGtVN3NCamY3M3dWQ3J3M2t5MVgzRUN0TUpURlo1bnZTUmhNcFhmemx3eC1rZ25FU1lJYjJFdVk5cW5ucGRWYjdlU0dLNzU2ME5mNXhEcFg1RTg0UUNEWWl4YTgwQk54eG54MGc?oc=5>
+- **Trump** | DJT|Trump Media & Technology Group Corp|价格:10.005|涨跌幅:+0.145 <https://news.google.com/rss/articles/CBMiY0FVX3lxTE5HOWdWVy01RlJzdlpheHcwV2FWTGx4RGVlOVNSNFpmdU5wQi13aEZRb0laNExWSUJLVnpqUC1lc21PcDRJQk5XR01ZdGpXMDE5dTRiUHByY0RSbmE4YzAzNVZlaw?oc=5>
 
 ### 2026-08-04 05:11  (22 条)
 
