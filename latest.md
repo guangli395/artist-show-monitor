@@ -1,88 +1,138 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-03 23:33**
-- 本轮扫到 8556 条, 新增 **9** 条
+- 最近更新: **2026-08-04 01:55**
+- 本轮扫到 8571 条, 新增 **15** 条
 
 ---
 
-## 本轮新发现 (9 条)
+## 本轮新发现 (15 条)
 
-### 美国多个州就特朗普最新关税提起诉讼
+### 蔡徐坤生日演唱会上如何回应粉丝应援？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776731_1d5abd9db06801d7di.html>
+
+### 蔡徐坤生日演唱会为何选20:02开场？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776731_1d5abd9db06801d7de.html>
+
+### 路人观众看完蔡徐坤演唱会为何纷纷路转粉？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879849295_1d5acf54f06801ji9e.html>
+
+### 蔡徐坤演唱会上提到的困住我的盒子指的是什么？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879849295_1d5acf54f06801ji9a.html>
+
+### 蔡徐坤澳门演唱会为何没人喊“倒闭了”？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923104_1d5ae15a006801h2uc.html>
+
+### 蔡徐坤“The Deadman”演唱会的舞美设计有哪些亮点？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923104_1d5ae15a006801h2ua.html>
+
+### 路人观众如何评价蔡徐坤澳门演唱会的唱功？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923104_1d5ae15a006801h2u8.html>
+
+### 蔡徐坤澳门演唱会无人喊倒闭，硬实力口碑逆袭
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923104_1d5ae15a006801h2u2.html>
+
+### 特朗普剑指美国大型石油公司：赚太多，要还富于民
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-08-04 00:02
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1Nb1YtWmZYYzJOTDhzdzlHMFlzTV9oeUJXY3piNGo1ZS1xZHQ0aUhQU3oxY1UzclhqU3VBeV9hbDNHX18tXzhOUkQ4dHZHYTQ1cnJXR1hGY2QwanFyOFBCb0VlMVVJaDAyWVE?oc=5>
+
+### 美石油巨头大发“战争财”特朗普炮轰：赚得太多了，我不喜欢
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网财经
+- 时间: 2026-08-04 00:13
+- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE93S0R1US1DMW1TT0xZSTVaT0pXamdIZGtWOGh3WGNkMXhZeHNBRGJybHFESHZDRF9OSjJENFJXdjJWMTRpdGVFVlpnT0hFdUpQ?oc=5>
+
+### 特朗普批评雪佛龙CEO未称颂政府的能源政策 并催促石油企业立即降价
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-08-03 20:41
-- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVXhMWWxjWnh1dGhDNG9JenZKY01IYkRibk1ST2Fjb084SVpUSHdKSTRqZFZPczVGMG0zQWxrTkw0VG1vbGtRNVBVQzdIYjktR1VHX2NkOXdFY25id3RVX2FQSjFTSDBQdWFJSlZfTW5qb0xBcHgza0xxOE9BNHBoS3N5ay1ucHZfWDBPMmlRY01pUFllWFlmNjBsWW5wLWRWTkZIYmpISVdSZ3psQ3p6b3l1NDlzQ1VXT29MeXY2VnFjZE9uTTRndXRHdTJNMEZzaHRlLVJsdlNfNEE2N0E?oc=5>
+- 时间: 2026-08-03 16:14
+- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOUhOUHpHbXZKZFVqdlhGbXBMVXRteUM3Rll5UWlIa2tzM2VRa0dSM3Q2amRSdE8yX3UtQWo5MFlGaGpsTlRHcElEWUZ4NHBWMHM4bDlrZmIxT1JnV2FNQ21PRGwyYzkxQmJCZ1pOZXBZOERaM3k5dGJPaWkwTWpMaW5KdHBhLVF0RS1FUW9McUNIQmRRQUpRNUNfb29xSGdYWlo5Q3lmSkF3X0Z2WFAtdWRORHp0X0FjWEZadUhyaGtlRU05VVRUYmM2dzVNbXpuT2c?oc=5>
 
-### “控制”格陵兰岛，特朗普罕见列出时间表
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: news.ifeng.com
-- 时间: 2026-08-03 17:02
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ONWw4S09KY1pvcVU4M0lyYzkzdUJBTjMxUzVkMDVOVHBCZGhzZEtEQVEtdWZ2R2ZDeHJQUFg5dXU4UVNqcUk2TEwyN0k?oc=5>
-
-### 特朗普：美国参与推高日元汇率是为展现两国友谊
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-08-02 23:56
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBlSTJtSDAxVEgwcGFROHk3ZTNlaDVldFJseGhOQmVtSnFTRFZUaWdNUFZ6cURMRW5VR3owVmdhVHZhd1JMTDZ1RUUyRGZsd3lHWVk5cjZLQmRpT0ZhZUREZkRfSm5zQQ?oc=5>
-
-### 特朗普称3日与伊朗谈判 以色列自曝“被盟友抛弃”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华报业网
-- 时间: 2026-08-02 23:28
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE93MEd1elFQWkpjNHgxOHNzV2hSWUxCM0RrdkRDbjBtMHNlRGY4THZuckJkTFo2Vi1qZHlEeS1wNjhvTjF1RmY3TmFQYkl1ZUZweTd3azBUMGVHTldJUmRQaXV3bldjT0x3ck0w?oc=5>
-
-### 特朗普总统指责伊朗表里不一，重申核红线
+### VOA今日焦点 (2026年8月4日) 特朗普总统警告：当前是与伊朗谈判的“最后机会”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 美国之音
-- 时间: 2026-08-03 19:05
-- 链接: <https://news.google.com/rss/articles/CBMivwFBVV95cUxNdFAwd3Rhc0VKc01rYXEwaC1ad0hLaWUzMExJXzVDQTBjWGNjMUdiMExSSTU2SmlaVUduMXpjTzUtN3U1SC1RUXN5UVpnZUphMjhEcktzTFRtSUJMeXBETmw0aDlFaVBDZkg1RTBjbFpJWENNaVRFRmNkR1NlSHFpODg3X2hlaUpaMk45eVdQTExRRTg1NHg0bkFJZWNnNHUtX2tMUS1zdXEtZzl2dUJPZ1VHd3NFck8yWlVydUpjc9IBvwFBVV95cUxNdFAwd3Rhc0VKc01rYXEwaC1ad0hLaWUzMExJXzVDQTBjWGNjMUdiMExSSTU2SmlaVUduMXpjTzUtN3U1SC1RUXN5UVpnZUphMjhEcktzTFRtSUJMeXBETmw0aDlFaVBDZkg1RTBjbFpJWENNaVRFRmNkR1NlSHFpODg3X2hlaUpaMk45eVdQTExRRTg1NHg0bkFJZWNnNHUtX2tMUS1zdXEtZzl2dUJPZ1VHd3NFck8yWlVydUpjcw?oc=5>
+- 时间: 2026-08-04 00:57
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTFBQdnVydWZJNUhzZzYtV3BZLVFjUjQ2dFd1NXhfUnRWWlBDM1RtYXQwSUZkb0ZranpuUGM2VHBzV2dreGU0VkMzejJVT0FnLVlRcTV4dlYzREpXOU15RDQxRGhxQTYwS2FQbzBF0gFuQVVfeXFMTmJkS0Vfd3d4ZFUybmRYQ3AzVG85ZUQ4LUJMYm9IS1NpR1N5cU1TZEF0NVV5dFRzMTlaNElSTTc3ckpxaE1UaXRJVDBEMHBnQUFSZGJwc2FWb0ZRNllncHpFZ1BKRHFjemxHeF9tWlE?oc=5>
 
-### 特朗普：与伊朗的谈判已开始 计划近期举行更多会谈
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 央广网
-- 时间: 2026-08-03 16:29
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pbnJvWDRibWV0V3FOTTB0eWd0cEE1VHNxRVB4Nk1kZXpLekRSMDVwWUNUWmlFcjNkOGlrRVhvSVdVYjdvdWMwS0VhUWcyUENPQk9nZE1zOEdENWR3ekw3Qjg1Y0V4c3hw?oc=5>
-
-### 特朗普称美伊正在谈判 是伊朗的“最后机会”
+### 特朗普威胁：“斩首”行动前，伊朗最后的机会
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-08-03 22:47
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wVm9fcFF1akpRMmJsWENwQW5SZ3NUeGZ5ZDVTZms2X3A0T2xtRnFFNWU4cEVaNkQ0Z201T0FLenA3MGR6RURacDdwMVpVVjdFeGNpenN4NDBlV1RLNG1LYVBmLVdSMEVs?oc=5>
+- 场馆: 观察者
+- 时间: 2026-08-03 23:02
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBueHkwcnBGRE1PSVRWUjQzU0N4a0lzMEtRRG80dm5EQmU3UUs5Q1V3TXd4TWhwOVV1Ym0xQjFGR0UtQlgzRU1BVzFIYnBURUY4a0FSTDNhSUNZMDdQWEQ2bC16TXVCeTV4QUE?oc=5>
 
-### Trump：“正与伊朗对话……这是最后机会”
+### 美日证实双方联合干预日元汇率 特朗普再提珍珠港
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 아시아경제
-- 时间: 2026-08-03 18:58
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE85ZHFfX21xZy1QY1JwSkQ2akMxeFY5QWNaZjY1YUxtSnZzZzZQakVkYnA5anJxLUVfLXhRaDJxS0J4RngxSVhBZm92S3JlZnNFcDlVRG9OOV9wME5GenNfVlJuSjI?oc=5>
+- 场馆: 东方财富
+- 时间: 2026-08-03 15:03
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tQWh2bU5IRk5KYlFYbEpKakl2cnRYTkljZWRzMG9xMEdwY3YwbGQ2eVRocUJoU2NZUmNOOFBuWjVQSWZmMk5BcGhwdU4zSVViQ2x3WVVaTk0yNjc3Q21qeg?oc=5>
 
-### Trump Tacoed. 川普取消军事打击， Monday will be bullish, 星期一牛市
+### 美国铜进口激增 交易员赶在特朗普关税决定前布局
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-08-03 00:31
-- 链接: <https://news.google.com/rss/articles/CBMivAFBVV95cUxNdjEySTlOcWpTbFp5dGpmUmNadHFWaGt0NkY0MURWSFdWcGxES1VQUDdsTWFJaUM3TWk4bThObTgtOHEySVB5enljYnFRT0ZWeHdyM1FFZHZZcE12Q0tFbHppaEpDT01WcFdSekdVWVpuLTdhVWlpdlBQd3luemhFRkltMG1ObGZta0hQSWNZVkZTXzNnZGtGVGg5b0UyUzU2S2xUd2pOOEI4a1VXck00VnlXaV9CamFWSndYRw?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-03 15:32
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxQV285S1ZWcXFIZzJHYWRRYnZwU0stc0VXeWkyZk9TVUlIVU50SERYUG5sczVqRHFKZXJIdmljZEticDhheHoydnJ3aTgzNm5ScWNReGNuVXhQTkw2OWdIWGF0VzJTRmt0QlpURGRSRFlaTU5zRmxJMHVMX2Z5WUF3S0ZTSlZJaTd1dlkyVHhKZG5wR1djYUdTRjN1VTg0SjBpWVl3MXpVUzJ4NWVYSEZZS3F2R1kwQXA5S0c0QVQzUlVGZ3U4U3hzX25VZUlCMGF2?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-04 01:55  (15 条)
+
+- **蔡徐坤** | 蔡徐坤生日演唱会上如何回应粉丝应援？ <https://k.sina.com.cn/article_7879776731_1d5abd9db06801d7di.html>
+- **蔡徐坤** | 蔡徐坤生日演唱会为何选20:02开场？ <https://k.sina.com.cn/article_7879776731_1d5abd9db06801d7de.html>
+- **蔡徐坤** | 路人观众看完蔡徐坤演唱会为何纷纷路转粉？ <https://k.sina.com.cn/article_7879849295_1d5acf54f06801ji9e.html>
+- **蔡徐坤** | 蔡徐坤演唱会上提到的困住我的盒子指的是什么？ <https://k.sina.com.cn/article_7879849295_1d5acf54f06801ji9a.html>
+- **蔡徐坤** | 蔡徐坤澳门演唱会为何没人喊“倒闭了”？ <https://k.sina.com.cn/article_7879923104_1d5ae15a006801h2uc.html>
+- **蔡徐坤** | 蔡徐坤“The Deadman”演唱会的舞美设计有哪些亮点？ <https://k.sina.com.cn/article_7879923104_1d5ae15a006801h2ua.html>
+- **蔡徐坤** | 路人观众如何评价蔡徐坤澳门演唱会的唱功？ <https://k.sina.com.cn/article_7879923104_1d5ae15a006801h2u8.html>
+- **蔡徐坤** | 蔡徐坤澳门演唱会无人喊倒闭，硬实力口碑逆袭 <https://k.sina.com.cn/article_7879923104_1d5ae15a006801h2u2.html>
+- **特朗普** | 特朗普剑指美国大型石油公司：赚太多，要还富于民 <https://news.google.com/rss/articles/CBMiakFVX3lxTE1Nb1YtWmZYYzJOTDhzdzlHMFlzTV9oeUJXY3piNGo1ZS1xZHQ0aUhQU3oxY1UzclhqU3VBeV9hbDNHX18tXzhOUkQ4dHZHYTQ1cnJXR1hGY2QwanFyOFBCb0VlMVVJaDAyWVE?oc=5>
+- **特朗普** | 美石油巨头大发“战争财”特朗普炮轰：赚得太多了，我不喜欢 <https://news.google.com/rss/articles/CBMiUEFVX3lxTE93S0R1US1DMW1TT0xZSTVaT0pXamdIZGtWOGh3WGNkMXhZeHNBRGJybHFESHZDRF9OSjJENFJXdjJWMTRpdGVFVlpnT0hFdUpQ?oc=5>
+- **特朗普** | 特朗普批评雪佛龙CEO未称颂政府的能源政策 并催促石油企业立即降价 <https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOUhOUHpHbXZKZFVqdlhGbXBMVXRteUM3Rll5UWlIa2tzM2VRa0dSM3Q2amRSdE8yX3UtQWo5MFlGaGpsTlRHcElEWUZ4NHBWMHM4bDlrZmIxT1JnV2FNQ21PRGwyYzkxQmJCZ1pOZXBZOERaM3k5dGJPaWkwTWpMaW5KdHBhLVF0RS1FUW9McUNIQmRRQUpRNUNfb29xSGdYWlo5Q3lmSkF3X0Z2WFAtdWRORHp0X0FjWEZadUhyaGtlRU05VVRUYmM2dzVNbXpuT2c?oc=5>
+- **特朗普** | VOA今日焦点 (2026年8月4日) 特朗普总统警告：当前是与伊朗谈判的“最后机会” <https://news.google.com/rss/articles/CBMia0FVX3lxTFBQdnVydWZJNUhzZzYtV3BZLVFjUjQ2dFd1NXhfUnRWWlBDM1RtYXQwSUZkb0ZranpuUGM2VHBzV2dreGU0VkMzejJVT0FnLVlRcTV4dlYzREpXOU15RDQxRGhxQTYwS2FQbzBF0gFuQVVfeXFMTmJkS0Vfd3d4ZFUybmRYQ3AzVG85ZUQ4LUJMYm9IS1NpR1N5cU1TZEF0NVV5dFRzMTlaNElSTTc3ckpxaE1UaXRJVDBEMHBnQUFSZGJwc2FWb0ZRNllncHpFZ1BKRHFjemxHeF9tWlE?oc=5>
+- **特朗普** | 特朗普威胁：“斩首”行动前，伊朗最后的机会 <https://news.google.com/rss/articles/CBMiakFVX3lxTFBueHkwcnBGRE1PSVRWUjQzU0N4a0lzMEtRRG80dm5EQmU3UUs5Q1V3TXd4TWhwOVV1Ym0xQjFGR0UtQlgzRU1BVzFIYnBURUY4a0FSTDNhSUNZMDdQWEQ2bC16TXVCeTV4QUE?oc=5>
+- **特朗普** | 美日证实双方联合干预日元汇率 特朗普再提珍珠港 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tQWh2bU5IRk5KYlFYbEpKakl2cnRYTkljZWRzMG9xMEdwY3YwbGQ2eVRocUJoU2NZUmNOOFBuWjVQSWZmMk5BcGhwdU4zSVViQ2x3WVVaTk0yNjc3Q21qeg?oc=5>
+- **特朗普** | 美国铜进口激增 交易员赶在特朗普关税决定前布局 <https://news.google.com/rss/articles/CBMi0AFBVV95cUxQV285S1ZWcXFIZzJHYWRRYnZwU0stc0VXeWkyZk9TVUlIVU50SERYUG5sczVqRHFKZXJIdmljZEticDhheHoydnJ3aTgzNm5ScWNReGNuVXhQTkw2OWdIWGF0VzJTRmt0QlpURGRSRFlaTU5zRmxJMHVMX2Z5WUF3S0ZTSlZJaTd1dlkyVHhKZG5wR1djYUdTRjN1VTg0SjBpWVl3MXpVUzJ4NWVYSEZZS3F2R1kwQXA5S0c0QVQzUlVGZ3U4U3hzX25VZUlCMGF2?oc=5>
 
 ### 2026-08-03 23:33  (9 条)
 
