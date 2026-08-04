@@ -1,17 +1,23 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-04 17:10**
-- 本轮扫到 8700 条, 新增 **7** 条
+- 最近更新: **2026-08-04 19:05**
+- 本轮扫到 8704 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (4 条)
 
-### RIMOWA携手周杰伦、樊振东发布广告大片，交汇非凡旅程
+### 蔡徐坤这次演唱会的口碑为什么能破圈？
 
-- 艺人/关键词: **周杰伦**
+- 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimctri5688684.html>
+- 链接: <https://www.sina.cn/news/article/nimevat3816027.html>
+
+### 蔡徐坤澳门演唱会婚纱粉丝互动到底是什么情况？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimevat3815365.html>
 
 ### 伊朗否认与美国谈判后招致特朗普不满 斥责德黑兰“极其虚伪”
 
@@ -19,52 +25,27 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-08-03 18:17
-- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE1lTlVzcFBpTERMYm8zVGVrVW5QM3prRWZQOUhxVi1HVHdlUjB1dGttaHdueDR0d195NUZIYTh0d3FheEhvM0pZUXBKTFZvQ0JDRkpqUjlmRzJNVnpxaUJfeW5aby0xQkpwVERuTGhxUkVVS0xwZlpWOERR?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSUEzNndQc0owZXR3ZlhNUlVxWlR4T0d5VW1yY2hLSkN4ZG15MTRWbVRBZkdMSWRUYjNSX2RVT05vazdPZWE1Mnp1a0N5M0tNbmdyanpLRTd4WmNqZXg4S1pfUGR5RHhNY19qQkhHcnhvTXNxNnZvSE1wemk5djNZRkg1VXhnZE8tbjhGaEU3YUFZaWpFSE5qVWtGVUlHRzNBeW9Sd056MkJoYXpCemRUVDd1aUhOTUtYbGhMb1hfU1lDR2ZKYThKRXBoMVAyS2JoYlE?oc=5>
 
-### 因凡蒂诺曾寻求特朗普政府支持？国际足联否认
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-08-04 12:34
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE04clgtN1dqR0RMczd0ZzdSR3IzY0RZZjhCaDhNM0pLWTNUbEI0TXprcVM2dDVtQ0E1dkFtb19wdmFFTGVEN29WRnZNMnFfbG9iR0dfaU9YX2NqU0l0Z284UWlLdVA?oc=5>
-
-### 特朗普的2个坏消息：25州起诉美政府，支持率跌至35%！
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 风闻
-- 时间: 2026-08-04 09:12
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE9haV84MWRucHN0TjI2dFhjbWZXTWl2YmEydjF1Um1PUzVPUmtXa2Zlc05WS25DT2RDZ1FTZGFua0lhRjlCLTZra1gwQkJPb3pkX2p0NmZpdUxLUzlZaEhMdXhDVlNBSWFMTUtvaG41bGtZSzFn?oc=5>
-
-### 特朗普一句话震动市场，美股、黄金全线拉升
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-03 00:06
-- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE5kWGp6RVQyS0xTcUxkRzFiMmNQbTFkZjlnaURlSURzREFkTkRNT0VXMjU4MHhhcVZ4WEZCLTlkaV9jbXQzYVUzT05PUkxzbUNB?oc=5>
-
-### 罕见！美25州联手轰川普关税 要求停征 退还税款
+### 特朗普家族的比特币矿企连亏三个季度，American Bitcoin还能穿越熊市吗？
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 文学城
-- 时间: 2026-08-04 16:13
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xZDB1d3hrVjBzNGViaTYwdXFnTEwzT1p0UUdQa1VXcDBaSkN1aXljY0NBZ1J1SnFwMUx2SVRrcllQY2RFOGJQZ2U3MVdzNGktc0pIQklEMTZMQ2t5VzFDYUo1VFJNMlVn?oc=5>
-
-### 法国报纸摘要 - 法国报摘：德国在国防上的胃口令欧洲恼火；人工智能助力台湾经济腾飞
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-08-04 14:37
-- 链接: <https://news.google.com/rss/articles/CBMiqwRBVV95cUxPT0tIZW1tOTI1U25iMEsySHBtcVAwTHZNM0tUaDJjTlVzRWR5RjlEa3d3LTR6b2tOa1lrWnlIMlBtTmNCUFV6eW9MUVh0eEpQUWFHTlBPXzdPc1E0N2FoQVoxYVNHNVdRNXpkdU0yeEpTQkRieFY5Y1ZoUGNwcnloSUIyOEI2a0JrM0dYTXZpRW95Yi03WXRUS1g1Vms2aE40R2F5VU9ZTVlzMWd4NkdlTmtqWDhEaUpTejM0cWNWV0U5dDdreGV2OEhzUU9OZjN3SE5vcTZZSlhsdlZXbE5CM1g4bzJyeVFFWkd1Vlc1V3ZDa2xUTlJtVjc1MC1ubTJrNTZMUWRDQkF5MlhLYzV3dklDNTV6akRhajBpRmxCbDRBN0xCSC1uV3dWY0czcXB3REZfUXVPTjZtQTJ4Z1RBM0dJcEpyemRHdjRCQzlNNDN6WGw5ZlYzYWMybHJzRzZReGdKZENySE9aLXdpUDlNRFJMWTd4aVpJNE5Uc3pqTkllTDBueTQxSFVJRHVCb2JOeVNyUkpIc3l0UUpzVVpQcGhpR2RQT2d0X0I3SnNYZmk3ZXpQY0I4a3hrMFNWWjZpOUttcjJhTExwM292TU1ScDB3cWx5LVlqQy02WENpbVFYR3MxdDQxODlCVlVMZHh4YWhYWm4tbTQ5bVhhU0NweFkyMnVsVWljTGFweGNFRERfZGh4LVlYMXhxdlBjVFRDWGJxS3hqdllaWms?oc=5>
+- 场馆: panewslab.com
+- 时间: 2026-08-04 17:21
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE5JMjdJcDFyRnhEMEUtM05HZWZIN1hxY04ySWVWUUNjeVBuTk05SnVKSzlPaUJxbTZRMGF3eW1VdTlSOTlITmZJZVBqMmx0aWtTNnBPajJpOV9fVmNBODZlZWZoUWNiNWJhanF2ZGlsM0xuaU5uOFFwWlh2UnAxR3c?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-04 19:05  (4 条)
+
+- **蔡徐坤** | 蔡徐坤这次演唱会的口碑为什么能破圈？ <https://www.sina.cn/news/article/nimevat3816027.html>
+- **蔡徐坤** | 蔡徐坤澳门演唱会婚纱粉丝互动到底是什么情况？ <https://www.sina.cn/news/article/nimevat3815365.html>
+- **特朗普** | 伊朗否认与美国谈判后招致特朗普不满 斥责德黑兰“极其虚伪” <https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSUEzNndQc0owZXR3ZlhNUlVxWlR4T0d5VW1yY2hLSkN4ZG15MTRWbVRBZkdMSWRUYjNSX2RVT05vazdPZWE1Mnp1a0N5M0tNbmdyanpLRTd4WmNqZXg4S1pfUGR5RHhNY19qQkhHcnhvTXNxNnZvSE1wemk5djNZRkg1VXhnZE8tbjhGaEU3YUFZaWpFSE5qVWtGVUlHRzNBeW9Sd056MkJoYXpCemRUVDd1aUhOTUtYbGhMb1hfU1lDR2ZKYThKRXBoMVAyS2JoYlE?oc=5>
+- **Trump** | 特朗普家族的比特币矿企连亏三个季度，American Bitcoin还能穿越熊市吗？ <https://news.google.com/rss/articles/CBMif0FVX3lxTE5JMjdJcDFyRnhEMEUtM05HZWZIN1hxY04ySWVWUUNjeVBuTk05SnVKSzlPaUJxbTZRMGF3eW1VdTlSOTlITmZJZVBqMmx0aWtTNnBPajJpOV9fVmNBODZlZWZoUWNiNWJhanF2ZGlsM0xuaU5uOFFwWlh2UnAxR3c?oc=5>
 
 ### 2026-08-04 17:10  (7 条)
 
