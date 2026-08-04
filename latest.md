@@ -1,44 +1,62 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-04 19:05**
-- 本轮扫到 8704 条, 新增 **4** 条
+- 最近更新: **2026-08-04 20:49**
+- 本轮扫到 8709 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (5 条)
 
-### 蔡徐坤这次演唱会的口碑为什么能破圈？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimevat3816027.html>
-
-### 蔡徐坤澳门演唱会婚纱粉丝互动到底是什么情况？
+### 蔡徐坤澳门演唱会8秒限定环节是什么内容
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimevat3815365.html>
+- 链接: <https://www.sina.cn/news/article/nimezkt5334852.html>
 
-### 伊朗否认与美国谈判后招致特朗普不满 斥责德黑兰“极其虚伪”
+### 美国25州联合起诉特朗普政府301关税政策
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-08-03 18:17
-- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSUEzNndQc0owZXR3ZlhNUlVxWlR4T0d5VW1yY2hLSkN4ZG15MTRWbVRBZkdMSWRUYjNSX2RVT05vazdPZWE1Mnp1a0N5M0tNbmdyanpLRTd4WmNqZXg4S1pfUGR5RHhNY19qQkhHcnhvTXNxNnZvSE1wemk5djNZRkg1VXhnZE8tbjhGaEU3YUFZaWpFSE5qVWtGVUlHRzNBeW9Sd056MkJoYXpCemRUVDd1aUhOTUtYbGhMb1hfU1lDR2ZKYThKRXBoMVAyS2JoYlE?oc=5>
+- 时间: 2026-08-03 22:04
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNU1RdmlJdDVXaVJyX3F3akNaTEZCU1hZcmVlclFDOEZUT09CQ3I3NEdnTjZUVnR3b1hxb19QcHE5X3FxNTV6UmlVeXdzaXBrd3A5RmhJRlo3c0ZOeVlyOUM3eWJmeVhkdUlOVGNUaWliaTFDTmkxd1Q5dC11WXlDOUdkSW9fYnJHVmx1Q0xBdlVhUTFMeF9EZFNjaFZCUWZQRGd4MzcyMnhaOG1FaHZfclZISU5BS3EwMTJvQURnVWdoVnlwNFlCOG1QOGltMHMx?oc=5>
 
-### 特朗普家族的比特币矿企连亏三个季度，American Bitcoin还能穿越熊市吗？
+### 特朗普怒批石油巨头“赚太多”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-08-03 23:50
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPanNRZE9OV2FCWEtORGhQbDVtZWJuZVJLeEExUGtkQ1hMM0dCY19sOVV0NjF5NnVtQ2g1ZG5XZmhwVC1TVjRKekphMGVTam5fS3AwVVRWN3FGSzIxbVZ6dUVHX0lsNkNxV0NpQXFmeDUyTFpBT3J6WTJ2U0lELTlXVmpJRW1HSWl5M0RnS2hiM3k4QmFwN1FMSFBzVk5TV0JxakhRbWxjT044RFJFcHlmWmhoOU9uMkpPV1o0aV9xZXFuZm1idV9hb1B4MHJTaUhrZHVOdFNEWVd0a2o5ZDNj?oc=5>
+
+### 特朗普批评雪佛龙CEO未称颂政府的能源政策 并催促石油企业立即降价
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-03 16:14
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdzFLcmFGVFJVUE9QV0prRnc5bmNBQlNuR1pVS0w3Q3d1NnRhUWx4RmdNbDlPZGh6RXZYWmFPY0pmWFdIem5XaER4NUx3ZWM2RS1TOGRRSGdaSGNZX25JME1QcTRQOVlLbWtES2ZWRDBQQVFfT0k3SnJfUFVmd05yODRmMDJWVFg3bml6eHpjRW9ETjdKMWNHUGpnT3o2YTFsZG8wNG1ndHpkRHQxaDBWTWtnUzdKbWhsRFh5ZzNqemlOYmtUWi0xcExZbWRsdndj?oc=5>
+
+### Trump 家族的数字货币收入爆了，但真正有意思的是——监管反而... | OKX Orbita
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: panewslab.com
-- 时间: 2026-08-04 17:21
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE5JMjdJcDFyRnhEMEUtM05HZWZIN1hxY04ySWVWUUNjeVBuTk05SnVKSzlPaUJxbTZRMGF3eW1VdTlSOTlITmZJZVBqMmx0aWtTNnBPajJpOV9fVmNBODZlZWZoUWNiNWJhanF2ZGlsM0xuaU5uOFFwWlh2UnAxR3c?oc=5>
+- 场馆: OKX
+- 时间: 2026-08-04 08:45
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE8ySU5mOUhaRk9FX014STdVdW51a2ZRbUJZbVFfNXFFSk1ZQXowMlpPX1FxOUpRLWVEelB2N0xPNk14c3ZZTmkwcDc0b3dabXlVeUxZQUZlUDIyWGFaVVJFRw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-04 20:49  (5 条)
+
+- **蔡徐坤** | 蔡徐坤澳门演唱会8秒限定环节是什么内容 <https://www.sina.cn/news/article/nimezkt5334852.html>
+- **特朗普** | 美国25州联合起诉特朗普政府301关税政策 <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNU1RdmlJdDVXaVJyX3F3akNaTEZCU1hZcmVlclFDOEZUT09CQ3I3NEdnTjZUVnR3b1hxb19QcHE5X3FxNTV6UmlVeXdzaXBrd3A5RmhJRlo3c0ZOeVlyOUM3eWJmeVhkdUlOVGNUaWliaTFDTmkxd1Q5dC11WXlDOUdkSW9fYnJHVmx1Q0xBdlVhUTFMeF9EZFNjaFZCUWZQRGd4MzcyMnhaOG1FaHZfclZISU5BS3EwMTJvQURnVWdoVnlwNFlCOG1QOGltMHMx?oc=5>
+- **特朗普** | 特朗普怒批石油巨头“赚太多” <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPanNRZE9OV2FCWEtORGhQbDVtZWJuZVJLeEExUGtkQ1hMM0dCY19sOVV0NjF5NnVtQ2g1ZG5XZmhwVC1TVjRKekphMGVTam5fS3AwVVRWN3FGSzIxbVZ6dUVHX0lsNkNxV0NpQXFmeDUyTFpBT3J6WTJ2U0lELTlXVmpJRW1HSWl5M0RnS2hiM3k4QmFwN1FMSFBzVk5TV0JxakhRbWxjT044RFJFcHlmWmhoOU9uMkpPV1o0aV9xZXFuZm1idV9hb1B4MHJTaUhrZHVOdFNEWVd0a2o5ZDNj?oc=5>
+- **特朗普** | 特朗普批评雪佛龙CEO未称颂政府的能源政策 并催促石油企业立即降价 <https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdzFLcmFGVFJVUE9QV0prRnc5bmNBQlNuR1pVS0w3Q3d1NnRhUWx4RmdNbDlPZGh6RXZYWmFPY0pmWFdIem5XaER4NUx3ZWM2RS1TOGRRSGdaSGNZX25JME1QcTRQOVlLbWtES2ZWRDBQQVFfT0k3SnJfUFVmd05yODRmMDJWVFg3bml6eHpjRW9ETjdKMWNHUGpnT3o2YTFsZG8wNG1ndHpkRHQxaDBWTWtnUzdKbWhsRFh5ZzNqemlOYmtUWi0xcExZbWRsdndj?oc=5>
+- **Trump** | Trump 家族的数字货币收入爆了，但真正有意思的是——监管反而... | OKX Orbita <https://news.google.com/rss/articles/CBMiYEFVX3lxTE8ySU5mOUhaRk9FX014STdVdW51a2ZRbUJZbVFfNXFFSk1ZQXowMlpPX1FxOUpRLWVEelB2N0xPNk14c3ZZTmkwcDc0b3dabXlVeUxZQUZlUDIyWGFaVVJFRw?oc=5>
 
 ### 2026-08-04 19:05  (4 条)
 
