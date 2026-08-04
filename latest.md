@@ -1,38 +1,80 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-04 15:20**
-- 本轮扫到 8693 条, 新增 **3** 条
+- 最近更新: **2026-08-04 17:10**
+- 本轮扫到 8700 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (7 条)
 
-### 蔡徐坤演唱会一眼万年，舞台抬眸瞬间
+### RIMOWA携手周杰伦、樊振东发布广告大片，交汇非凡旅程
 
-- 艺人/关键词: **蔡徐坤**
+- 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimekpf5172942.html>
+- 链接: <https://www.sina.cn/news/article/nimctri5688684.html>
 
-### 25个州联手，把特朗普告了
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-04 00:05
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1fbFh3YWFDVkNySmJZYzU5eFMtakJYVzdWZTl0RmdsOVpJOTMya01yc3lSZ3RLeHdWbVdBZDVWUUFmZUlpWC1XakQxQ3g?oc=5>
-
-### 美国铜进口激增 交易员赶在特朗普关税决定前布局
+### 伊朗否认与美国谈判后招致特朗普不满 斥责德黑兰“极其虚伪”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-08-03 15:32
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbHNvNHFyci1GODQtVGd4LWprOHU2cWhGRzBTRzNvVFU0UFI3UWQwLTYzZDNhZVF6RHUwemtyQk40Rkh4alV4TmpjVkZ4QkZuREwtYjBXeXA0T2hmWTlBM2hFVC12RjJGUFl2X25vczdiaWZfakpYMWU5STJhTUV0bjBPVEZGWEROVEk4Z0V5RXlLcTdpX1hkYUlCZUpaOERWeTdwOVBja0RNNDVCNHlwb0Y4MmI2Z19PTVBiNDlZeXVETEo0cEF2emEtdkJ1Ny1P?oc=5>
+- 时间: 2026-08-03 18:17
+- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE1lTlVzcFBpTERMYm8zVGVrVW5QM3prRWZQOUhxVi1HVHdlUjB1dGttaHdueDR0d195NUZIYTh0d3FheEhvM0pZUXBKTFZvQ0JDRkpqUjlmRzJNVnpxaUJfeW5aby0xQkpwVERuTGhxUkVVS0xwZlpWOERR?oc=5>
+
+### 因凡蒂诺曾寻求特朗普政府支持？国际足联否认
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新京报
+- 时间: 2026-08-04 12:34
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE04clgtN1dqR0RMczd0ZzdSR3IzY0RZZjhCaDhNM0pLWTNUbEI0TXprcVM2dDVtQ0E1dkFtb19wdmFFTGVEN29WRnZNMnFfbG9iR0dfaU9YX2NqU0l0Z284UWlLdVA?oc=5>
+
+### 特朗普的2个坏消息：25州起诉美政府，支持率跌至35%！
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 风闻
+- 时间: 2026-08-04 09:12
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE9haV84MWRucHN0TjI2dFhjbWZXTWl2YmEydjF1Um1PUzVPUmtXa2Zlc05WS25DT2RDZ1FTZGFua0lhRjlCLTZra1gwQkJPb3pkX2p0NmZpdUxLUzlZaEhMdXhDVlNBSWFMTUtvaG41bGtZSzFn?oc=5>
+
+### 特朗普一句话震动市场，美股、黄金全线拉升
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-08-03 00:06
+- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE5kWGp6RVQyS0xTcUxkRzFiMmNQbTFkZjlnaURlSURzREFkTkRNT0VXMjU4MHhhcVZ4WEZCLTlkaV9jbXQzYVUzT05PUkxzbUNB?oc=5>
+
+### 罕见！美25州联手轰川普关税 要求停征 退还税款
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 文学城
+- 时间: 2026-08-04 16:13
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xZDB1d3hrVjBzNGViaTYwdXFnTEwzT1p0UUdQa1VXcDBaSkN1aXljY0NBZ1J1SnFwMUx2SVRrcllQY2RFOGJQZ2U3MVdzNGktc0pIQklEMTZMQ2t5VzFDYUo1VFJNMlVn?oc=5>
+
+### 法国报纸摘要 - 法国报摘：德国在国防上的胃口令欧洲恼火；人工智能助力台湾经济腾飞
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-08-04 14:37
+- 链接: <https://news.google.com/rss/articles/CBMiqwRBVV95cUxPT0tIZW1tOTI1U25iMEsySHBtcVAwTHZNM0tUaDJjTlVzRWR5RjlEa3d3LTR6b2tOa1lrWnlIMlBtTmNCUFV6eW9MUVh0eEpQUWFHTlBPXzdPc1E0N2FoQVoxYVNHNVdRNXpkdU0yeEpTQkRieFY5Y1ZoUGNwcnloSUIyOEI2a0JrM0dYTXZpRW95Yi03WXRUS1g1Vms2aE40R2F5VU9ZTVlzMWd4NkdlTmtqWDhEaUpTejM0cWNWV0U5dDdreGV2OEhzUU9OZjN3SE5vcTZZSlhsdlZXbE5CM1g4bzJyeVFFWkd1Vlc1V3ZDa2xUTlJtVjc1MC1ubTJrNTZMUWRDQkF5MlhLYzV3dklDNTV6akRhajBpRmxCbDRBN0xCSC1uV3dWY0czcXB3REZfUXVPTjZtQTJ4Z1RBM0dJcEpyemRHdjRCQzlNNDN6WGw5ZlYzYWMybHJzRzZReGdKZENySE9aLXdpUDlNRFJMWTd4aVpJNE5Uc3pqTkllTDBueTQxSFVJRHVCb2JOeVNyUkpIc3l0UUpzVVpQcGhpR2RQT2d0X0I3SnNYZmk3ZXpQY0I4a3hrMFNWWjZpOUttcjJhTExwM292TU1ScDB3cWx5LVlqQy02WENpbVFYR3MxdDQxODlCVlVMZHh4YWhYWm4tbTQ5bVhhU0NweFkyMnVsVWljTGFweGNFRERfZGh4LVlYMXhxdlBjVFRDWGJxS3hqdllaWms?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-04 17:10  (7 条)
+
+- **周杰伦** | RIMOWA携手周杰伦、樊振东发布广告大片，交汇非凡旅程 <https://www.sina.cn/news/article/nimctri5688684.html>
+- **特朗普** | 伊朗否认与美国谈判后招致特朗普不满 斥责德黑兰“极其虚伪” <https://news.google.com/rss/articles/CBMiekFVX3lxTE1lTlVzcFBpTERMYm8zVGVrVW5QM3prRWZQOUhxVi1HVHdlUjB1dGttaHdueDR0d195NUZIYTh0d3FheEhvM0pZUXBKTFZvQ0JDRkpqUjlmRzJNVnpxaUJfeW5aby0xQkpwVERuTGhxUkVVS0xwZlpWOERR?oc=5>
+- **特朗普** | 因凡蒂诺曾寻求特朗普政府支持？国际足联否认 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE04clgtN1dqR0RMczd0ZzdSR3IzY0RZZjhCaDhNM0pLWTNUbEI0TXprcVM2dDVtQ0E1dkFtb19wdmFFTGVEN29WRnZNMnFfbG9iR0dfaU9YX2NqU0l0Z284UWlLdVA?oc=5>
+- **特朗普** | 特朗普的2个坏消息：25州起诉美政府，支持率跌至35%！ <https://news.google.com/rss/articles/CBMidEFVX3lxTE9haV84MWRucHN0TjI2dFhjbWZXTWl2YmEydjF1Um1PUzVPUmtXa2Zlc05WS25DT2RDZ1FTZGFua0lhRjlCLTZra1gwQkJPb3pkX2p0NmZpdUxLUzlZaEhMdXhDVlNBSWFMTUtvaG41bGtZSzFn?oc=5>
+- **特朗普** | 特朗普一句话震动市场，美股、黄金全线拉升 <https://news.google.com/rss/articles/CBMiUEFVX3lxTE5kWGp6RVQyS0xTcUxkRzFiMmNQbTFkZjlnaURlSURzREFkTkRNT0VXMjU4MHhhcVZ4WEZCLTlkaV9jbXQzYVUzT05PUkxzbUNB?oc=5>
+- **Trump** | 罕见！美25州联手轰川普关税 要求停征 退还税款 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xZDB1d3hrVjBzNGViaTYwdXFnTEwzT1p0UUdQa1VXcDBaSkN1aXljY0NBZ1J1SnFwMUx2SVRrcllQY2RFOGJQZ2U3MVdzNGktc0pIQklEMTZMQ2t5VzFDYUo1VFJNMlVn?oc=5>
+- **Trump** | 法国报纸摘要 - 法国报摘：德国在国防上的胃口令欧洲恼火；人工智能助力台湾经济腾飞 <https://news.google.com/rss/articles/CBMiqwRBVV95cUxPT0tIZW1tOTI1U25iMEsySHBtcVAwTHZNM0tUaDJjTlVzRWR5RjlEa3d3LTR6b2tOa1lrWnlIMlBtTmNCUFV6eW9MUVh0eEpQUWFHTlBPXzdPc1E0N2FoQVoxYVNHNVdRNXpkdU0yeEpTQkRieFY5Y1ZoUGNwcnloSUIyOEI2a0JrM0dYTXZpRW95Yi03WXRUS1g1Vms2aE40R2F5VU9ZTVlzMWd4NkdlTmtqWDhEaUpTejM0cWNWV0U5dDdreGV2OEhzUU9OZjN3SE5vcTZZSlhsdlZXbE5CM1g4bzJyeVFFWkd1Vlc1V3ZDa2xUTlJtVjc1MC1ubTJrNTZMUWRDQkF5MlhLYzV3dklDNTV6akRhajBpRmxCbDRBN0xCSC1uV3dWY0czcXB3REZfUXVPTjZtQTJ4Z1RBM0dJcEpyemRHdjRCQzlNNDN6WGw5ZlYzYWMybHJzRzZReGdKZENySE9aLXdpUDlNRFJMWTd4aVpJNE5Uc3pqTkllTDBueTQxSFVJRHVCb2JOeVNyUkpIc3l0UUpzVVpQcGhpR2RQT2d0X0I3SnNYZmk3ZXpQY0I4a3hrMFNWWjZpOUttcjJhTExwM292TU1ScDB3cWx5LVlqQy02WENpbVFYR3MxdDQxODlCVlVMZHh4YWhYWm4tbTQ5bVhhU0NweFkyMnVsVWljTGFweGNFRERfZGh4LVlYMXhxdlBjVFRDWGJxS3hqdllaWms?oc=5>
 
 ### 2026-08-04 15:20  (3 条)
 
