@@ -1,107 +1,87 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-04 01:55**
-- 本轮扫到 8571 条, 新增 **15** 条
+- 最近更新: **2026-08-04 05:11**
+- 本轮扫到 8593 条, 新增 **22** 条
 
 ---
 
-## 本轮新发现 (15 条)
+## 本轮新发现 (22 条)
 
-### 蔡徐坤生日演唱会上如何回应粉丝应援？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776731_1d5abd9db06801d7di.html>
-
-### 蔡徐坤生日演唱会为何选20:02开场？
+### 为何蔡徐坤澳门演唱会吻手礼刷屏全网？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776731_1d5abd9db06801d7de.html>
+- 链接: <https://k.sina.com.cn/article_7002256903_m1a15df60703301kgt8.html>
 
-### 路人观众看完蔡徐坤演唱会为何纷纷路转粉？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849295_1d5acf54f06801ji9e.html>
-
-### 蔡徐坤演唱会上提到的困住我的盒子指的是什么？
+### 蔡徐坤演唱会拿粉丝拍立得自拍，全场沸腾
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849295_1d5acf54f06801ji9a.html>
+- 链接: <https://k.sina.com.cn/article_7323270704_m1b4803e3003301n8qy.html>
 
-### 蔡徐坤澳门演唱会为何没人喊“倒闭了”？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923104_1d5ae15a006801h2uc.html>
-
-### 蔡徐坤“The Deadman”演唱会的舞美设计有哪些亮点？
+### 蔡徐坤新专辑《KUN》为何采用全英文创作？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923104_1d5ae15a006801h2ua.html>
+- 链接: <https://k.sina.com.cn/article_7879776730_1d5abd9da06803pndk.html>
 
-### 路人观众如何评价蔡徐坤澳门演唱会的唱功？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923104_1d5ae15a006801h2u8.html>
-
-### 蔡徐坤澳门演唱会无人喊倒闭，硬实力口碑逆袭
+### 蔡徐坤演唱会忙成小陀螺，白西装穿梭粉丝区互动
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923104_1d5ae15a006801h2u2.html>
+- 链接: <https://k.sina.com.cn/article_5556631847_m14b33792705302bliu.html>
 
-### 特朗普剑指美国大型石油公司：赚太多，要还富于民
+### 蔡徐坤演唱会戴猫耳朵，为粉丝黑胶亲签
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-08-04 00:02
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1Nb1YtWmZYYzJOTDhzdzlHMFlzTV9oeUJXY3piNGo1ZS1xZHQ0aUhQU3oxY1UzclhqU3VBeV9hbDNHX18tXzhOUkQ4dHZHYTQ1cnJXR1hGY2QwanFyOFBCb0VlMVVJaDAyWVE?oc=5>
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5556631847_m14b33792705302blf8.html>
 
-### 美石油巨头大发“战争财”特朗普炮轰：赚得太多了，我不喜欢
+### 蔡徐坤把MV搬上演唱会！原来全网爆火的舞蹈挑战就出自这里
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网财经
-- 时间: 2026-08-04 00:13
-- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE93S0R1US1DMW1TT0xZSTVaT0pXamdIZGtWOGh3WGNkMXhZeHNBRGJybHFESHZDRF9OSjJENFJXdjJWMTRpdGVFVlpnT0hFdUpQ?oc=5>
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002oyk8.html>
 
-### 特朗普批评雪佛龙CEO未称颂政府的能源政策 并催促石油企业立即降价
+### 蔡徐坤演唱会现场互动比心拍手，带头磕糖甜度超标
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5556631847_m14b33792705302blhc.html>
+
+### 我再再再再再也不愿见你在深夜里买醉…蔡徐坤澳门演唱会 爱如潮水
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002oyke.html>
+
+### 神来的蔡徐坤演唱会 蔡徐坤
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002oydo.html>
+
+### 周杰伦为《功夫女足》创作了哪首主题曲？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776730_1d5abd9da06803pni4.html>
+
+### 伊朗否认与美国谈判后招致特朗普不满 斥责德黑兰“极其虚伪”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-08-03 16:14
-- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOUhOUHpHbXZKZFVqdlhGbXBMVXRteUM3Rll5UWlIa2tzM2VRa0dSM3Q2amRSdE8yX3UtQWo5MFlGaGpsTlRHcElEWUZ4NHBWMHM4bDlrZmIxT1JnV2FNQ21PRGwyYzkxQmJCZ1pOZXBZOERaM3k5dGJPaWkwTWpMaW5KdHBhLVF0RS1FUW9McUNIQmRRQUpRNUNfb29xSGdYWlo5Q3lmSkF3X0Z2WFAtdWRORHp0X0FjWEZadUhyaGtlRU05VVRUYmM2dzVNbXpuT2c?oc=5>
+- 时间: 2026-08-03 18:17
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYTJFUUtqdFdqLS03S1RGTGxQQW5LbkFseDVhNlFDdTVZWXFRdmtXNjFnSTd6cEU2YklTb3hmWnY3cGlPYTd2R1pWRVRSQVJqSHJHRUEzVHNPSk1waFFOeERUdi04R2xWTlctRzY4VW1KM3NWYzloaU1YbzZYRVdpVkdRd0xDRWZwMFlYUjFfUFd4cVRQVWl3SmU4OUIzYUJGMmRMdUc0OE1qZWRtSldtOFNvaHd2dWY1MmJJcGp4YkExZDBTRXhhdTEtS2NJb3lN?oc=5>
 
-### VOA今日焦点 (2026年8月4日) 特朗普总统警告：当前是与伊朗谈判的“最后机会”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-08-04 00:57
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTFBQdnVydWZJNUhzZzYtV3BZLVFjUjQ2dFd1NXhfUnRWWlBDM1RtYXQwSUZkb0ZranpuUGM2VHBzV2dreGU0VkMzejJVT0FnLVlRcTV4dlYzREpXOU15RDQxRGhxQTYwS2FQbzBF0gFuQVVfeXFMTmJkS0Vfd3d4ZFUybmRYQ3AzVG85ZUQ4LUJMYm9IS1NpR1N5cU1TZEF0NVV5dFRzMTlaNElSTTc3ckpxaE1UaXRJVDBEMHBnQUFSZGJwc2FWb0ZRNllncHpFZ1BKRHFjemxHeF9tWlE?oc=5>
-
-### 特朗普威胁：“斩首”行动前，伊朗最后的机会
+### 特朗普暗示：美国将在2029年前控制格陵兰岛
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-08-03 23:02
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBueHkwcnBGRE1PSVRWUjQzU0N4a0lzMEtRRG80dm5EQmU3UUs5Q1V3TXd4TWhwOVV1Ym0xQjFGR0UtQlgzRU1BVzFIYnBURUY4a0FSTDNhSUNZMDdQWEQ2bC16TXVCeTV4QUE?oc=5>
-
-### 美日证实双方联合干预日元汇率 特朗普再提珍珠港
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-08-03 15:03
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tQWh2bU5IRk5KYlFYbEpKakl2cnRYTkljZWRzMG9xMEdwY3YwbGQ2eVRocUJoU2NZUmNOOFBuWjVQSWZmMk5BcGhwdU4zSVViQ2x3WVVaTk0yNjc3Q21qeg?oc=5>
+- 场馆: 中国经济网
+- 时间: 2026-08-04 04:40
+- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTE5tYk9JT25XZEFIX0dNMXNVNjdNb3VmVmRrcVNQMlFyZjdfVTVFT2oxR0VOWFg0LUhrTEZWTExmZHpHblFGa3lGR2lXNWlYUkhaRzFxaW1VNS1PMmY1SVN0ODFfcw?oc=5>
 
 ### 美国铜进口激增 交易员赶在特朗普关税决定前布局
 
@@ -109,12 +89,109 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-08-03 15:32
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxQV285S1ZWcXFIZzJHYWRRYnZwU0stc0VXeWkyZk9TVUlIVU50SERYUG5sczVqRHFKZXJIdmljZEticDhheHoydnJ3aTgzNm5ScWNReGNuVXhQTkw2OWdIWGF0VzJTRmt0QlpURGRSRFlaTU5zRmxJMHVMX2Z5WUF3S0ZTSlZJaTd1dlkyVHhKZG5wR1djYUdTRjN1VTg0SjBpWVl3MXpVUzJ4NWVYSEZZS3F2R1kwQXA5S0c0QVQzUlVGZ3U4U3hzX25VZUlCMGF2?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxNLUpMQXRiUVpvcnZEbmhvRGhNZ2hBbU9KbTdzMmR5a0FSYlNvZEQxODFZbGR0QVlLSUNJbnpFNEdQX3NsU2d1RXFWY29vUkhfNkhMRm84NExGUkhfd183al9FbjlvUTYzNk91V2xXeGpoZnFzTXVNemR6NlpldVlsdTNyYjZhS1l6LUVpM05UaGdQS3BITWlOLU03UXlEVmU4TDI0VmdEa2pfRzdtVkN4SGxWSWRIZmdBRGFOXzJpSV9TbFdZcXpyMTBBc1J2bXlndUE?oc=5>
+
+### 美媒爆特朗普拟撤换哥伦比亚特区联邦检察官：他对皮罗“反水”非常不满，整个周末都在生她的气
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 环球网
+- 时间: 2026-08-03 11:49
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE9NelNzdjZFUm9YNFhvMkF0YkRHZGtKWGFXYU1IUnBHdnB4TDlPNmJxOGlzTnJQZUxKZnVvYzNFbmRJd3U0eXUtbWlGb29lZ3l2TkhOQU93TGM?oc=5>
+
+### 特朗普政府被美25州起诉 质疑关税合法性
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-08-04 03:26
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE8tR1B1NjdSbldPSGJsYUVEZ2tQeDlYZmJvdGxYa2U0V3E3RG9EUk9HWjdyRjcycjAtRWtuQUJwZzR0Zmw5VEhoWjkxMXBqdXctZUtwUVJEQ3F5UFZZV1hON2daRXNvUFVmM2lVLS1Ld0U?oc=5>
+
+### 以称内塔尼亚胡通过特朗普社媒得知美叫停对伊打击
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 东方财富
+- 时间: 2026-08-02 20:08
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TMzFnMWxkX0V5Q21pVEE3UFg2QW44U1ZXbnE0OG5YRUJ1MkdrTzNnQnJKT3QzUFZlanhhNTV2MlVNak1YMkhFLUFXbXhaM3MwaUUzWERwMFBIdDl0UDRTeQ?oc=5>
+
+### 特朗普总统：正在进行的谈判是伊朗达成协议的“最后机会”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-08-03 21:13
+- 链接: <https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX2pUUjZBaTVLT2FiV0ZKZGNCLXA5ZTZDVE96ZVNwbkdBX2ZjSUxhRUpBZXFRWkp0ZTNIRjI4OEFwOHdhVFRHSjlYQTdyckt5YTVoMzlwQjJVNnlxel9fMFJTWmljUVVMT29DN2N0MTFWRVluQWtGbFdZRVNwcjBMTFZUU1hhRGVRSUtiZW9Xbnc1b2M2OUJKcWc0MUpXdFQ3NXVfTXBsLTZzN0g1VmVRdlZGOUppUU4xLVVsQnlFdnMzakHSAcMBQVVfeXFMTV9qVFI2QWk1S09hYldGSmRjQi1wOWU2Q1RPemVTcG5HQV9mY0lMYUVKQWVxUVpKdGUzSEYyODhBcDh3YVRUR0o5WEE3cnJLeWE1aDM5cEIyVTZ5cXpfXzBSU1ppY1FVTE9vQzdjdDExVkVZbkFrRmxXWUVTcHIwTExWVFNYYURlUUlLYmVvV253NW9jNjlCSnFnNDFKV3RUNzV1X01wbC02czdINVZlUXZWRjlKaVFOMS1VbEJ5RXZzM2pB?oc=5>
+
+### 特朗普称美伊正在对话 是伊朗的“最后机会”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-08-03 20:40
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9lMFhQTDVoVG16WldMVkloMkFxTnFkR0cwTXE1WlVYeFdhQmR5Nk05d2ZZTThaaGdYX09wZG85UUhnTGdvQ3RDbFFfV1BlbXFXVV9TYjJCejFvaVk3YUFMT0RJVXFvdjFuMVppWGk0Y3J1STRydjZZV2FCSENGOUk?oc=5>
+
+### Eric Trump：ABTC上市11个月快速扩张，成全球第16大上市比特币持有企业
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: TradingView
+- 时间: 2026-08-03 14:17
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5vSFZkamtrMjJxSjdWUkltSk5JRDNUY3FWSHRlYW1nVUFXT0JQNkVjaWFWNTlDTVVHU1hVRlVhS3JlMWNGc2lFazI5d0w1UWo2YXA2eVZXZ053V3JTa3Zzb1hMNnZnUQ?oc=5>
+
+### 特习会后美中再现摩擦　“建设性稳定”能否撑到九月？
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: BBC
+- 时间: 2026-08-04 00:08
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0YWk2MzJxdHlOYVZfT1FyUTJSMFZlM28yU1pSc1FTUjBCcjZfWHRYd1FEbUpFNVBTdWRZMWYxWC13NEgwbFI2ckR1dGFSdW41UzRzZ3NzRWM3UVF3dFowU2lxT0RxUdIBa0FVX3lxTE9TU0tReGJyV2Z6MnhlQnVUNWE4YzdoZXc3RVZ3ZjNCeF9pNElUejloVDJrYlAxNEV4T2U2SURyV1RjZTc5OTBZWVRORFlhYWFTR3Q1NVFiZkNmRGJCMEptSTd6OHVUTFQ4bkVZ?oc=5>
+
+### Trump对埃克森美孚、雪佛龙：“赚得太多，油价该降了”
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 아시아경제
+- 时间: 2026-08-03 21:34
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBZGRhRTExN1E2OXAxaU5LdDJHMGlCQVU1M0tHVkNFR2VpalRJSFJvNm5zUVJyU0ZLdjZhbmNWQ18yV2VXNUZjSVgtU0E4UnBrWmNKRnRuUG5vaHpNVkx3emVpWTE?oc=5>
+
+### 特朗普总统：正在进行的谈判是伊朗达成协议的“最后机会”
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-08-03 21:13
+- 链接: <https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRGlUM01MRHEzQXdJTzdVeFRxaU4ybWRMTWw2RlY0UkRBaFlHeVNjelNQQ29waExFeEc4WDBWSTRVVnhYOXdCaXM3Yjd3b01LSDhNclpsNU42Y0lMdW9mSFVRSnM4VGRXM1VRc0g2RXpVeDlLcTRRdDZsdFZiUlBlVnM5X0Y1MWVCd0VmQi1nM081cXZhV2w3Yl8yQVB2eW96SE5yS2ZnS2tMWkFFUWlGY2RWS0dBeU1TWGxTUFpVN2fSAcMBQVVfeXFMTV9qVFI2QWk1S09hYldGSmRjQi1wOWU2Q1RPemVTcG5HQV9mY0lMYUVKQWVxUVpKdGUzSEYyODhBcDh3YVRUR0o5WEE3cnJLeWE1aDM5cEIyVTZ5cXpfXzBSU1ppY1FVTE9vQzdjdDExVkVZbkFrRmxXWUVTcHIwTExWVFNYYURlUUlLYmVvV253NW9jNjlCSnFnNDFKV3RUNzV1X01wbC02czdINVZlUXZWRjlKaVFOMS1VbEJ5RXZzM2pB?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-04 05:11  (22 条)
+
+- **蔡徐坤** | 为何蔡徐坤澳门演唱会吻手礼刷屏全网？ <https://k.sina.com.cn/article_7002256903_m1a15df60703301kgt8.html>
+- **蔡徐坤** | 蔡徐坤演唱会拿粉丝拍立得自拍，全场沸腾 <https://k.sina.com.cn/article_7323270704_m1b4803e3003301n8qy.html>
+- **蔡徐坤** | 蔡徐坤新专辑《KUN》为何采用全英文创作？ <https://k.sina.com.cn/article_7879776730_1d5abd9da06803pndk.html>
+- **蔡徐坤** | 蔡徐坤演唱会忙成小陀螺，白西装穿梭粉丝区互动 <https://k.sina.com.cn/article_5556631847_m14b33792705302bliu.html>
+- **蔡徐坤** | 蔡徐坤演唱会戴猫耳朵，为粉丝黑胶亲签 <https://k.sina.com.cn/article_5556631847_m14b33792705302blf8.html>
+- **蔡徐坤** | 蔡徐坤把MV搬上演唱会！原来全网爆火的舞蹈挑战就出自这里 <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002oyk8.html>
+- **蔡徐坤** | 蔡徐坤演唱会现场互动比心拍手，带头磕糖甜度超标 <https://k.sina.com.cn/article_5556631847_m14b33792705302blhc.html>
+- **蔡徐坤** | 我再再再再再也不愿见你在深夜里买醉…蔡徐坤澳门演唱会 爱如潮水 <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002oyke.html>
+- **蔡徐坤** | 神来的蔡徐坤演唱会 蔡徐坤 <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002oydo.html>
+- **周杰伦** | 周杰伦为《功夫女足》创作了哪首主题曲？ <https://k.sina.com.cn/article_7879776730_1d5abd9da06803pni4.html>
+- **特朗普** | 伊朗否认与美国谈判后招致特朗普不满 斥责德黑兰“极其虚伪” <https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYTJFUUtqdFdqLS03S1RGTGxQQW5LbkFseDVhNlFDdTVZWXFRdmtXNjFnSTd6cEU2YklTb3hmWnY3cGlPYTd2R1pWRVRSQVJqSHJHRUEzVHNPSk1waFFOeERUdi04R2xWTlctRzY4VW1KM3NWYzloaU1YbzZYRVdpVkdRd0xDRWZwMFlYUjFfUFd4cVRQVWl3SmU4OUIzYUJGMmRMdUc0OE1qZWRtSldtOFNvaHd2dWY1MmJJcGp4YkExZDBTRXhhdTEtS2NJb3lN?oc=5>
+- **特朗普** | 特朗普暗示：美国将在2029年前控制格陵兰岛 <https://news.google.com/rss/articles/CBMiY0FVX3lxTE5tYk9JT25XZEFIX0dNMXNVNjdNb3VmVmRrcVNQMlFyZjdfVTVFT2oxR0VOWFg0LUhrTEZWTExmZHpHblFGa3lGR2lXNWlYUkhaRzFxaW1VNS1PMmY1SVN0ODFfcw?oc=5>
+- **特朗普** | 美国铜进口激增 交易员赶在特朗普关税决定前布局 <https://news.google.com/rss/articles/CBMi0gFBVV95cUxNLUpMQXRiUVpvcnZEbmhvRGhNZ2hBbU9KbTdzMmR5a0FSYlNvZEQxODFZbGR0QVlLSUNJbnpFNEdQX3NsU2d1RXFWY29vUkhfNkhMRm84NExGUkhfd183al9FbjlvUTYzNk91V2xXeGpoZnFzTXVNemR6NlpldVlsdTNyYjZhS1l6LUVpM05UaGdQS3BITWlOLU03UXlEVmU4TDI0VmdEa2pfRzdtVkN4SGxWSWRIZmdBRGFOXzJpSV9TbFdZcXpyMTBBc1J2bXlndUE?oc=5>
+- **特朗普** | 美媒爆特朗普拟撤换哥伦比亚特区联邦检察官：他对皮罗“反水”非常不满，整个周末都在生她的气 <https://news.google.com/rss/articles/CBMiWEFVX3lxTE9NelNzdjZFUm9YNFhvMkF0YkRHZGtKWGFXYU1IUnBHdnB4TDlPNmJxOGlzTnJQZUxKZnVvYzNFbmRJd3U0eXUtbWlGb29lZ3l2TkhOQU93TGM?oc=5>
+- **特朗普** | 特朗普政府被美25州起诉 质疑关税合法性 <https://news.google.com/rss/articles/CBMicEFVX3lxTE8tR1B1NjdSbldPSGJsYUVEZ2tQeDlYZmJvdGxYa2U0V3E3RG9EUk9HWjdyRjcycjAtRWtuQUJwZzR0Zmw5VEhoWjkxMXBqdXctZUtwUVJEQ3F5UFZZV1hON2daRXNvUFVmM2lVLS1Ld0U?oc=5>
+- **特朗普** | 以称内塔尼亚胡通过特朗普社媒得知美叫停对伊打击 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TMzFnMWxkX0V5Q21pVEE3UFg2QW44U1ZXbnE0OG5YRUJ1MkdrTzNnQnJKT3QzUFZlanhhNTV2MlVNak1YMkhFLUFXbXhaM3MwaUUzWERwMFBIdDl0UDRTeQ?oc=5>
+- **特朗普** | 特朗普总统：正在进行的谈判是伊朗达成协议的“最后机会” <https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX2pUUjZBaTVLT2FiV0ZKZGNCLXA5ZTZDVE96ZVNwbkdBX2ZjSUxhRUpBZXFRWkp0ZTNIRjI4OEFwOHdhVFRHSjlYQTdyckt5YTVoMzlwQjJVNnlxel9fMFJTWmljUVVMT29DN2N0MTFWRVluQWtGbFdZRVNwcjBMTFZUU1hhRGVRSUtiZW9Xbnc1b2M2OUJKcWc0MUpXdFQ3NXVfTXBsLTZzN0g1VmVRdlZGOUppUU4xLVVsQnlFdnMzakHSAcMBQVVfeXFMTV9qVFI2QWk1S09hYldGSmRjQi1wOWU2Q1RPemVTcG5HQV9mY0lMYUVKQWVxUVpKdGUzSEYyODhBcDh3YVRUR0o5WEE3cnJLeWE1aDM5cEIyVTZ5cXpfXzBSU1ppY1FVTE9vQzdjdDExVkVZbkFrRmxXWUVTcHIwTExWVFNYYURlUUlLYmVvV253NW9jNjlCSnFnNDFKV3RUNzV1X01wbC02czdINVZlUXZWRjlKaVFOMS1VbEJ5RXZzM2pB?oc=5>
+- **特朗普** | 特朗普称美伊正在对话 是伊朗的“最后机会” <https://news.google.com/rss/articles/CBMif0FVX3lxTE9lMFhQTDVoVG16WldMVkloMkFxTnFkR0cwTXE1WlVYeFdhQmR5Nk05d2ZZTThaaGdYX09wZG85UUhnTGdvQ3RDbFFfV1BlbXFXVV9TYjJCejFvaVk3YUFMT0RJVXFvdjFuMVppWGk0Y3J1STRydjZZV2FCSENGOUk?oc=5>
+- **Trump** | Eric Trump：ABTC上市11个月快速扩张，成全球第16大上市比特币持有企业 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5vSFZkamtrMjJxSjdWUkltSk5JRDNUY3FWSHRlYW1nVUFXT0JQNkVjaWFWNTlDTVVHU1hVRlVhS3JlMWNGc2lFazI5d0w1UWo2YXA2eVZXZ053V3JTa3Zzb1hMNnZnUQ?oc=5>
+- **Trump** | 特习会后美中再现摩擦　“建设性稳定”能否撑到九月？ <https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0YWk2MzJxdHlOYVZfT1FyUTJSMFZlM28yU1pSc1FTUjBCcjZfWHRYd1FEbUpFNVBTdWRZMWYxWC13NEgwbFI2ckR1dGFSdW41UzRzZ3NzRWM3UVF3dFowU2lxT0RxUdIBa0FVX3lxTE9TU0tReGJyV2Z6MnhlQnVUNWE4YzdoZXc3RVZ3ZjNCeF9pNElUejloVDJrYlAxNEV4T2U2SURyV1RjZTc5OTBZWVRORFlhYWFTR3Q1NVFiZkNmRGJCMEptSTd6OHVUTFQ4bkVZ?oc=5>
+- **Trump** | Trump对埃克森美孚、雪佛龙：“赚得太多，油价该降了” <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBZGRhRTExN1E2OXAxaU5LdDJHMGlCQVU1M0tHVkNFR2VpalRJSFJvNm5zUVJyU0ZLdjZhbmNWQ18yV2VXNUZjSVgtU0E4UnBrWmNKRnRuUG5vaHpNVkx3emVpWTE?oc=5>
+- **Trump** | 特朗普总统：正在进行的谈判是伊朗达成协议的“最后机会” <https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRGlUM01MRHEzQXdJTzdVeFRxaU4ybWRMTWw2RlY0UkRBaFlHeVNjelNQQ29waExFeEc4WDBWSTRVVnhYOXdCaXM3Yjd3b01LSDhNclpsNU42Y0lMdW9mSFVRSnM4VGRXM1VRc0g2RXpVeDlLcTRRdDZsdFZiUlBlVnM5X0Y1MWVCd0VmQi1nM081cXZhV2w3Yl8yQVB2eW96SE5yS2ZnS2tMWkFFUWlGY2RWS0dBeU1TWGxTUFpVN2fSAcMBQVVfeXFMTV9qVFI2QWk1S09hYldGSmRjQi1wOWU2Q1RPemVTcG5HQV9mY0lMYUVKQWVxUVpKdGUzSEYyODhBcDh3YVRUR0o5WEE3cnJLeWE1aDM5cEIyVTZ5cXpfXzBSU1ppY1FVTE9vQzdjdDExVkVZbkFrRmxXWUVTcHIwTExWVFNYYURlUUlLYmVvV253NW9jNjlCSnFnNDFKV3RUNzV1X01wbC02czdINVZlUXZWRjlKaVFOMS1VbEJ5RXZzM2pB?oc=5>
 
 ### 2026-08-04 01:55  (15 条)
 
