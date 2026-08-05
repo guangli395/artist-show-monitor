@@ -1,29 +1,47 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-05 10:42**
-- 本轮扫到 8751 条, 新增 **8** 条
+- 最近更新: **2026-08-05 12:48**
+- 本轮扫到 8758 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (7 条)
 
-### 王一博工作室的生日长文是从哪一年开始坚持发布的？
+### 蔡徐坤演唱会靠完整美学体系出圈，亲自把控创意
 
-- 艺人/关键词: **王一博**
+- 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimhawc3604321.html>
+- 链接: <https://www.sina.cn/news/article/nimhicz3586542.html>
 
-### 年轻时这么拽的周杰伦，现在一天天在演唱会上问你们喜欢我的新歌还是老歌
+### 终于等到蔡徐坤澳门演唱会舞台纪录片 完全就是舞台纯享 期待下次相见
 
-- 艺人/关键词: **周杰伦**
+- 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimhawf5236536.html>
+- 链接: <https://www.sina.cn/news/article/nimhiem1366077.html>
+
+### 如果有一个许愿的机会 你最期待谁来河南开演唱会呢
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimhicz3557191.html>
+
+### 蔡徐坤发布演唱会官摄图，期待下一次见面
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimfwqf3659012.html>
 
 ### “周杰伦与刘若雪有私生子”热搜爆了，周杰伦巡回演唱会音乐总监黄雨勋回应：从来没怕过，身正不怕影子斜
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimhawf5212893.html>
+- 链接: <https://www.sina.cn/news/article/nimhiem1350339.html>
+
+### 周杰伦演唱会音乐总监黄雨勋回应，身正不怕影子斜
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimhiec5133116.html>
 
 ### 移民团体报告：特朗普驱逐移民政策推高物价、拖累地方经济
 
@@ -31,44 +49,22 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-08-05 09:51
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPblI5SFJPS3ZnejUybFY3T3hTaVMySHFNREFFbTB0enNFSFpMeEJHOUI1NHMwWGJmOENYXzRmMlV1VWtrTjd0b3FMV05CbnE0QThnMXlCdVpNSVN6Nmc3bEVLTGJVd1VwYVhNNGtLRlBkNUZoQ2JYVlpxSm5nNDA1X0hJdC1xbGJsTVNvVmpDeG5tamdDUHd3WnlEVEljNUpLbHdDRll6UnBzaFEyc1lHRWg1QXF2TE1wRTg4aF9QYm5EMzRVYUtUMko0aUNKNFJuc3o3WndHc2xOMmp0cmpr?oc=5>
-
-### 一名武装男子在特朗普将出席活动的加州球场被捕
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-08-05 01:03
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9rc0ZTa05YRm9peHJvZXhhbV9WaVRiVUJwVm9seEZvUW94b2QyVkpkS21BOUZOR1V2aWtvVEVNR3UwN2sxLU1FNUJpVE1SdHBrQmtpNVdmUnhCcEx3SjNYTTJub0V2TXdLS0w1djQ5UFprWFlEWVF3WjN2RFp0WWs?oc=5>
-
-### 特朗普政府已退还1000亿美元关税，都给谁了？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 第一财经
-- 时间: 2026-08-05 08:33
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE1xWHAxaHdGMXd6QWQ0VmpvMGZ1UTFIa2lnSmkzMEtROHN4ejdyZzBNbWJtTlBROVZ3S1k0QzctVVU3T0NWeTJReEZSUWVHMEFOdy1r?oc=5>
-
-### 如何应对中国开源AI模型？特朗普政府内部争论升级
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-08-05 00:11
-- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxNUzk5Nzc2cGhfQUdfNUtfWFNHeng4Qkc1SWZvN0c2aEs4UFhWVUNyckVLYm9OUXFvMm5vU3FIRVFGSDR4d01OdTNwZ3VKNzRRWHZ3U3dlZ1lsVk5lVzVBZ2NhQThwQlVETG15QjFIbFotMWJlWEdTQno1UzJyLXdnRjd2cw?oc=5>
-
-### 特朗普称这是伊朗签署一项良好协议的“最后机会”
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-08-03 11:24
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxQbTFfYW0tOExOeEpHR0dKbTU4WEVaZWxBczVoY2w1Nk1abU4yZTM1VGdGUmZacHhwLWxSZ1lQQjJIWHhwUGE3UVZwTVlPeE82aV93enRuYXF4NFM0OWR0MEpZRGtwM09kcDRIdFJPWjRVaDRvZ3ZfS2I4aUlVN190bWU4MDlpbEI2alhoUmw2UmYxSDJJVVZibw?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPeDdvMmJiN18yQ01KTm5LRUZwWDNlSGJWdWV5ME9aY2ZDSnlZaGEzLVZKdUhUZjBRYUhsQWxuYlZyMzlQTXV2Z1QzeDN6akVBNzlwdTNlU3c4WTQ2QnpTc1RZR3k1WWJQelVuUEQwVnp5eHppaWdHRjRqN1RWenlwb2poYXZIbW9hWkxWNlozZWV5OU5jcDJESlNHTkFEYi1sckRsc090NllDdFJvd0gtZl9aZXExZVpmSGZGdGFiNDlSSXZfOEVZMzFLQ2dTbFlyTnVGUHpzVHQxc3JrWW5B?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-05 12:48  (7 条)
+
+- **蔡徐坤** | 蔡徐坤演唱会靠完整美学体系出圈，亲自把控创意 <https://www.sina.cn/news/article/nimhicz3586542.html>
+- **蔡徐坤** | 终于等到蔡徐坤澳门演唱会舞台纪录片 完全就是舞台纯享 期待下次相见 <https://www.sina.cn/news/article/nimhiem1366077.html>
+- **蔡徐坤** | 如果有一个许愿的机会 你最期待谁来河南开演唱会呢 <https://www.sina.cn/news/article/nimhicz3557191.html>
+- **蔡徐坤** | 蔡徐坤发布演唱会官摄图，期待下一次见面 <https://www.sina.cn/news/article/nimfwqf3659012.html>
+- **周杰伦** | “周杰伦与刘若雪有私生子”热搜爆了，周杰伦巡回演唱会音乐总监黄雨勋回应：从来没怕过，身正不怕影子斜 <https://www.sina.cn/news/article/nimhiem1350339.html>
+- **周杰伦** | 周杰伦演唱会音乐总监黄雨勋回应，身正不怕影子斜 <https://www.sina.cn/news/article/nimhiec5133116.html>
+- **特朗普** | 移民团体报告：特朗普驱逐移民政策推高物价、拖累地方经济 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPeDdvMmJiN18yQ01KTm5LRUZwWDNlSGJWdWV5ME9aY2ZDSnlZaGEzLVZKdUhUZjBRYUhsQWxuYlZyMzlQTXV2Z1QzeDN6akVBNzlwdTNlU3c4WTQ2QnpTc1RZR3k1WWJQelVuUEQwVnp5eHppaWdHRjRqN1RWenlwb2poYXZIbW9hWkxWNlozZWV5OU5jcDJESlNHTkFEYi1sckRsc090NllDdFJvd0gtZl9aZXExZVpmSGZGdGFiNDlSSXZfOEVZMzFLQ2dTbFlyTnVGUHpzVHQxc3JrWW5B?oc=5>
 
 ### 2026-08-05 10:42  (8 条)
 
