@@ -1,72 +1,110 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-05 01:55**
-- 本轮扫到 8719 条, 新增 **8** 条
+- 最近更新: **2026-08-05 05:09**
+- 本轮扫到 8730 条, 新增 **11** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (11 条)
 
-### 王一博29岁生日当天发布了哪些内容？
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimfmym3641664.html>
-
-### 王一博工作室为何连续七年卡点发布生日祝福？
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimfmyp5214229.html>
-
-### 蔡徐坤演唱会互动，温柔回馈粉丝奔赴心意
+### 蔡徐坤演唱会惊喜献唱nobody cares，粉丝圆梦
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimffsv4829112.html>
+- 链接: <https://www.sina.cn/news/article/nimevcc1744217.html>
 
-### 蔡徐坤演唱会戒断反应来袭，观众直呼后劲太大
+### 周杰伦林俊杰薛之谦陈奕迅谁的演唱会票房号召力最强？
 
-- 艺人/关键词: **蔡徐坤**
+- 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimchzp5806562.html>
+- 链接: <https://www.sina.cn/news/article/nimfshm5230966.html>
 
-### 特朗普被25个州联手起诉！制裁手段最后反噬自己了？
+### 昆凌当年参加周杰伦哪支MV的试镜？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: video.sina.com.cn
-- 时间: 2026-08-05 01:19
-- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxOVHJpTG1oaHlfNDBVNDEwSzR0dU9FZTcxR0RNTHB0YmQxZEFmRXdwYzYyc0N3T1pEZlBHUDdTN0w5WFFPdzVvaC1uZlZpSjEwQ2FVRnpFZE50WVFrWEhvdUJOMlltN0NRMjVSMXdYTGFBTk9PVWZFNzljWGtPcFdqcTd3?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimfmyp5278917.html>
 
-### 特朗普称民调数据创历史新高
+### 周杰伦昆凌2010年MV试镜定情，细节首曝光
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-04 22:00
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1wSm1SbHdsQTVOVEF6cXF3QmJEZ0pUR3VpVkdmUE9INmVUeHhfeU9QNjFVSWFKcWNzRXhGVFZJMnBTMHBqaHhFVXJfZw?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimfmym3674676.html>
 
-### 白宫拟延长琼斯法案豁免期，特朗普寻求压低汽油价格
+### 因凡蒂诺向特朗普寻求支持？国际足联否认
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: finance.ifeng.com
-- 时间: 2026-08-04 23:33
-- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE5EOVlQcXJMcVUzN2FPVFd0N2lTczdYd1ZvTjZRMXBYV2ZJdkxnaHdiM1pvWGo1OFUzTUVqNjZEQktkRGF3WlRpX0FIMzZkNGF6?oc=5>
+- 场馆: news.china.com.cn
+- 时间: 2026-08-05 02:24
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE9KTjVldGlmSXE0OUZkdTNlLW0tZ2V6Ynl2VkhEWHRMa3ZwNFZ1Z3RtRlVXUm8zNTJ5WTdqTTh0N3lEeG5TLTlaQ1YzV2JrS1F0cU1tTWNEUHFYM3VVQVI3ODFRVGVjcHJhV240?oc=5>
 
-### 沃伦要求SEC调查特朗普迷因币 3.8亿美元损失引爆加密立法争议
+### 瞄准两大石油巨头，特朗普施压：你们赚太多 选举策略下的政治博弈
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-08-05 02:30
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9FQ1NkRHJ4ZEMwck1WTF95UUdZa1J3bFBrOERuNUs0QU56Z2UxbHliNEFkQkRJUlJoOVRaWllGLS1nTGhGVzg1ai1KQTdUNi0zc2RISHNReDUzQ01NR0xnaGNBUDZrb2xxVS04LXRBVHU?oc=5>
+
+### 伊朗正将全部筹码押向霍尔木兹海峡
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: FX168财经
-- 时间: 2026-08-05 01:03
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5XQ2RhYUdqVDA0WGNSdjlVUVc3eFBPb080OE1ZdWNlQUFPemdBbG95SkhiVGtySV9yQjNnR2t6X0lBcUVxTDFlWWQ3OVNSWHhrVzdteUxzZzNSSVIzdVdDVGRDSjkzaUNqanIxOVVTZ1VlbXh0NXg2OA?oc=5>
+- 场馆: 华尔街日报中文网
+- 时间: 2026-08-05 03:46
+- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTFB2YzlQUE04TUg2amVBeGxaT19fZDVjWnBMWTNNZXhKQ0p5b3ZySnAxNEVDNE9ad3lFM21zX01PYU03c1pOUk9GUlpIUTdmQy1pM25wSngzRFpUc2xPM3NwQmUxalQ5dkdFT1ZKbVRpUmhpR2JBR01Va3JB?oc=5>
+
+### 泽连斯基解除乌克兰驻美国大使职务
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-08-03 19:59
+- 链接: <https://news.google.com/rss/articles/CBMinwJBVV95cUxPSkJ5T2g3eFZqbnp2dGJudzZYbGJpVGpvbGtLcGFLYmU0V19XUjVrQVcwaVNZSmp0M3RreXBpSFBFVTJKaXlGSG55ZnJfcGtZcUl0ZXpWTFpOSTZCdzdvZEIzZlhvSlZGaFRWS09rQTIzdk4zakZWa0N1ajdIRDJSWHpqWm5ZSzhja0Z4OUlmdWFpT1ZnLWtHVDlKb3MxeFVfbWItTTVFelA1Si1wRnI5bmkyVFZLMFpJVEpic3JGemY4akdHVF9oQXRqdkFLSDByZFg0TGd6UFRISFBOMHNsV2dJZUl5SmMwMDBsMjY5X2hKU1dZYndQdVlOdGFwaUYyVUNaczYwUWhNWmUtbHB3MUhvYXI3T1hwTHNLTEdacw?oc=5>
+
+### 特朗普社交平台推付费数据服务 引发利益冲突质疑
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 8world
+- 时间: 2026-08-05 04:09
+- 链接: <https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTFBEdDh0U1RKekVNZzRQVFpMY19RdmNLZkZYdnMySjNXVU1hdDlDSExZZzlOcmVIdHhlZWdDQnplME4xQ0hGNG5HQ0RaMWpRak1EdnlacFpGUVFreUVRODRtV1RHLVlDMDhXX0lzUFFiM3Q1VEQtdE5yODN3Wi1qTnNfWkFFN0VwYTFKajlCVzNSTWh0Y0R3d2VyYXlUeDA2YVJUXzBsVHJLT2c?oc=5>
+
+### 美议员：有信心认为特朗普总统很快会将140亿美元对台军售案送交国会
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-08-04 21:14
+- 链接: <https://news.google.com/rss/articles/CBMi6wFBVV95cUxQMXlvc1hpNklxQWZULUx3Und1UjFYUVpFN2VlbWFscmphOGQweHZEZjZCc05VTFRWcHZ5NGJ1RDdwbld3REJ2WGJhd25iZE5RMzg1MFJtT3dYUDRqZ1AtNlVkNUJkQ0xZZzlucENIYl9vZlMxVVZuWDlReGtWNG9CQ1R3UHB4MHlJb041elNzT1JUM3c0ellmUm52Y1VaMGdrNHljTmdYSXZxbXdXRGE0b3BrMkF3ekdLZWJabTlrS1E5OTh4UWtXdmhuUlhEeWh5dWg0REQwcGpLNVdETTBTbWpoS28zQTVIZVdB0gHuAUFVX3lxTFBVOXlNU0hySkVuQzRYbDZHa2VoQnQ3VjkxT2tmVGFtNXdVNHNfejJkRmJIOXVsbkstQ0VEdUNfd00yeV94cXJCZWNNOVl6MTU5bG9sUjhwV25pY00yTDBZUm9RQXl4cVhnMjVkeE9KRkpWcUdTY2ZBLXktbE03eFFfbDR4emNQbTNPTGRESExhbjRRZUNZSEtsc1AtYmxfUUpGSFNlZEw4TGl3cUViUkU5c0JuZ084YVRyaEVQT3Y4N2JqbEhudUpHMTR2bGNOYWdKajRDckxEejNjeExyTHJHU2JhZlRFWGNyeF8tSUE?oc=5>
+
+### 特朗普访问前夕 持枪男在洛杉矶高尔夫球场被捕
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 8world
+- 时间: 2026-08-05 02:50
+- 链接: <https://news.google.com/rss/articles/CBMipgFBVV95cUxQRlc5X2NaU1FXWTBoeTl4ekVRVGxmeW5OWFg3V0dCSkUtbUg2emN1Y3VYNXc3eV80dThLMmU0cWRWTDNaS3ZQMjZyOGdrQnU3MG8zNTNjZWJEWEx0d1kwUUhqTGNKa0RLbkFSZjYzNGVRR1Y5RkVGUWJpNVlJRndIdWg0YXNoV2xVWWhsaEVRT3BJYi1Wbll1cXJSc1FZd2RpUS1CMlpB?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-05 05:09  (11 条)
+
+- **蔡徐坤** | 蔡徐坤演唱会惊喜献唱nobody cares，粉丝圆梦 <https://www.sina.cn/news/article/nimevcc1744217.html>
+- **周杰伦** | 周杰伦林俊杰薛之谦陈奕迅谁的演唱会票房号召力最强？ <https://www.sina.cn/news/article/nimfshm5230966.html>
+- **周杰伦** | 昆凌当年参加周杰伦哪支MV的试镜？ <https://www.sina.cn/news/article/nimfmyp5278917.html>
+- **周杰伦** | 周杰伦昆凌2010年MV试镜定情，细节首曝光 <https://www.sina.cn/news/article/nimfmym3674676.html>
+- **特朗普** | 因凡蒂诺向特朗普寻求支持？国际足联否认 <https://news.google.com/rss/articles/CBMia0FVX3lxTE9KTjVldGlmSXE0OUZkdTNlLW0tZ2V6Ynl2VkhEWHRMa3ZwNFZ1Z3RtRlVXUm8zNTJ5WTdqTTh0N3lEeG5TLTlaQ1YzV2JrS1F0cU1tTWNEUHFYM3VVQVI3ODFRVGVjcHJhV240?oc=5>
+- **特朗普** | 瞄准两大石油巨头，特朗普施压：你们赚太多 选举策略下的政治博弈 <https://news.google.com/rss/articles/CBMicEFVX3lxTE9FQ1NkRHJ4ZEMwck1WTF95UUdZa1J3bFBrOERuNUs0QU56Z2UxbHliNEFkQkRJUlJoOVRaWllGLS1nTGhGVzg1ai1KQTdUNi0zc2RISHNReDUzQ01NR0xnaGNBUDZrb2xxVS04LXRBVHU?oc=5>
+- **Trump** | 伊朗正将全部筹码押向霍尔木兹海峡 <https://news.google.com/rss/articles/CBMiekFVX3lxTFB2YzlQUE04TUg2amVBeGxaT19fZDVjWnBMWTNNZXhKQ0p5b3ZySnAxNEVDNE9ad3lFM21zX01PYU03c1pOUk9GUlpIUTdmQy1pM25wSngzRFpUc2xPM3NwQmUxalQ5dkdFT1ZKbVRpUmhpR2JBR01Va3JB?oc=5>
+- **Trump** | 泽连斯基解除乌克兰驻美国大使职务 <https://news.google.com/rss/articles/CBMinwJBVV95cUxPSkJ5T2g3eFZqbnp2dGJudzZYbGJpVGpvbGtLcGFLYmU0V19XUjVrQVcwaVNZSmp0M3RreXBpSFBFVTJKaXlGSG55ZnJfcGtZcUl0ZXpWTFpOSTZCdzdvZEIzZlhvSlZGaFRWS09rQTIzdk4zakZWa0N1ajdIRDJSWHpqWm5ZSzhja0Z4OUlmdWFpT1ZnLWtHVDlKb3MxeFVfbWItTTVFelA1Si1wRnI5bmkyVFZLMFpJVEpic3JGemY4akdHVF9oQXRqdkFLSDByZFg0TGd6UFRISFBOMHNsV2dJZUl5SmMwMDBsMjY5X2hKU1dZYndQdVlOdGFwaUYyVUNaczYwUWhNWmUtbHB3MUhvYXI3T1hwTHNLTEdacw?oc=5>
+- **Trump** | 特朗普社交平台推付费数据服务 引发利益冲突质疑 <https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTFBEdDh0U1RKekVNZzRQVFpMY19RdmNLZkZYdnMySjNXVU1hdDlDSExZZzlOcmVIdHhlZWdDQnplME4xQ0hGNG5HQ0RaMWpRak1EdnlacFpGUVFreUVRODRtV1RHLVlDMDhXX0lzUFFiM3Q1VEQtdE5yODN3Wi1qTnNfWkFFN0VwYTFKajlCVzNSTWh0Y0R3d2VyYXlUeDA2YVJUXzBsVHJLT2c?oc=5>
+- **Trump** | 美议员：有信心认为特朗普总统很快会将140亿美元对台军售案送交国会 <https://news.google.com/rss/articles/CBMi6wFBVV95cUxQMXlvc1hpNklxQWZULUx3Und1UjFYUVpFN2VlbWFscmphOGQweHZEZjZCc05VTFRWcHZ5NGJ1RDdwbld3REJ2WGJhd25iZE5RMzg1MFJtT3dYUDRqZ1AtNlVkNUJkQ0xZZzlucENIYl9vZlMxVVZuWDlReGtWNG9CQ1R3UHB4MHlJb041elNzT1JUM3c0ellmUm52Y1VaMGdrNHljTmdYSXZxbXdXRGE0b3BrMkF3ekdLZWJabTlrS1E5OTh4UWtXdmhuUlhEeWh5dWg0REQwcGpLNVdETTBTbWpoS28zQTVIZVdB0gHuAUFVX3lxTFBVOXlNU0hySkVuQzRYbDZHa2VoQnQ3VjkxT2tmVGFtNXdVNHNfejJkRmJIOXVsbkstQ0VEdUNfd00yeV94cXJCZWNNOVl6MTU5bG9sUjhwV25pY00yTDBZUm9RQXl4cVhnMjVkeE9KRkpWcUdTY2ZBLXktbE03eFFfbDR4emNQbTNPTGRESExhbjRRZUNZSEtsc1AtYmxfUUpGSFNlZEw4TGl3cUViUkU5c0JuZ084YVRyaEVQT3Y4N2JqbEhudUpHMTR2bGNOYWdKajRDckxEejNjeExyTHJHU2JhZlRFWGNyeF8tSUE?oc=5>
+- **Trump** | 特朗普访问前夕 持枪男在洛杉矶高尔夫球场被捕 <https://news.google.com/rss/articles/CBMipgFBVV95cUxQRlc5X2NaU1FXWTBoeTl4ekVRVGxmeW5OWFg3V0dCSkUtbUg2emN1Y3VYNXc3eV80dThLMmU0cWRWTDNaS3ZQMjZyOGdrQnU3MG8zNTNjZWJEWEx0d1kwUUhqTGNKa0RLbkFSZjYzNGVRR1Y5RkVGUWJpNVlJRndIdWg0YXNoV2xVWWhsaEVRT3BJYi1Wbll1cXJSc1FZd2RpUS1CMlpB?oc=5>
 
 ### 2026-08-05 01:55  (8 条)
 
