@@ -1,60 +1,73 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-05 12:48**
-- 本轮扫到 8758 条, 新增 **7** 条
+- 最近更新: **2026-08-05 15:09**
+- 本轮扫到 8764 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (6 条)
 
-### 蔡徐坤演唱会靠完整美学体系出圈，亲自把控创意
+### 特朗普所乘直升机遭遇飞行安全事件
 
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimhicz3586542.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: China Daily
+- 时间: 2026-08-05 12:30
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9tQlNxWWNVaW40cFVKekk0Zk9pTU1hNGN6Q3BQekdzSTYtMFdpUmpoYUdJZjM4Nkxremx3QVhkaDdRQ2VBdU92N0d5elgwTmNVdm1ER3VnYU5DZ3ppZDc0ejFSendRNllQUGE5ZzZaNUplZWJiQWp6MUQyUXREY28?oc=5>
 
-### 终于等到蔡徐坤澳门演唱会舞台纪录片 完全就是舞台纯享 期待下次相见
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimhiem1366077.html>
-
-### 如果有一个许愿的机会 你最期待谁来河南开演唱会呢
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimhicz3557191.html>
-
-### 蔡徐坤发布演唱会官摄图，期待下一次见面
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimfwqf3659012.html>
-
-### “周杰伦与刘若雪有私生子”热搜爆了，周杰伦巡回演唱会音乐总监黄雨勋回应：从来没怕过，身正不怕影子斜
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimhiem1350339.html>
-
-### 周杰伦演唱会音乐总监黄雨勋回应，身正不怕影子斜
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimhiec5133116.html>
-
-### 移民团体报告：特朗普驱逐移民政策推高物价、拖累地方经济
+### 特朗普政府已退还1000亿美元关税，都给谁了？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-08-05 09:51
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPeDdvMmJiN18yQ01KTm5LRUZwWDNlSGJWdWV5ME9aY2ZDSnlZaGEzLVZKdUhUZjBRYUhsQWxuYlZyMzlQTXV2Z1QzeDN6akVBNzlwdTNlU3c4WTQ2QnpTc1RZR3k1WWJQelVuUEQwVnp5eHppaWdHRjRqN1RWenlwb2poYXZIbW9hWkxWNlozZWV5OU5jcDJESlNHTkFEYi1sckRsc090NllDdFJvd0gtZl9aZXExZVpmSGZGdGFiNDlSSXZfOEVZMzFLQ2dTbFlyTnVGUHpzVHQxc3JrWW5B?oc=5>
+- 时间: 2026-08-05 08:33
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxPczZ3NDA1Z25mWGljbl9LRndFVlE4Zkd3UHFXdmZPWnIyY1djYUdzRlhpREgwZEs4QWJ5bzFxaWZDNDRWN3hnMEVRRko0dGYyUFpNR21GWmZzb1VnMlh0MjlsMEdtbG0yV1c0dVdUOEpEbmRuWm1UNkQyRFVwbjZsSEg4Ulg1YTB5S3lhYi1GRFFtQ0JPdGxTT05raVU0Z0Y2OVQ2aW9hb3luOXhrZVd6WXFKWi04UDJkNFhpWlB0TjBCcV9xbXN1ejNQTlRMQUhU?oc=5>
+
+### 美媒爆：美总统“亲密盟友”皮罗拖着“一箱证据”赴白宫，当着特朗普的面质问内政部长
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: world.huanqiu.com
+- 时间: 2026-08-04 21:51
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTFBnd18xbXRJTm9ZZ3pheW5EMkQzbnlDZDNsdTgzZ08tSl8xWHc0cjhITS1TVzN5eHlSaEhzLVRJei10aUFKTmxCV2hvRnRVbjBqMlZ6dDVTYlc?oc=5>
+
+### 新华社消息丨特朗普：霍尔木兹海峡很快开放 否则伊朗将遭打击
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网客户端
+- 时间: 2026-08-05 08:33
+- 链接: <https://news.google.com/rss/articles/CBMimgFBVV95cUxNbUtHMHZMRDZXc1lvdzF1dVpfd0lfMk9TRUlTaWUtZE9tYUZyeGt0QWFZYVJXMnlQV01TZzhhZTZaMmlyX014a0xxeXFBSV9VZW5VR2ZpeWItOF9qUmppNlBSYWNkYy00eGZIVGRBcjd6a0I5aUY3ZDNNbEVpZ2w4d1FFNXVMR3Zvand3SWM4YXBVMWF0WE9rYkNR?oc=5>
+
+### trump现在希望停火的原因
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: moomoo.com
+- 时间: 2026-08-05 01:09
+- 链接: <https://news.google.com/rss/articles/CBMiowFBVV95cUxNSlplSHIyZHlmVmtXbEsyZVJwU0JmN1JWLWFHUC0xb1g3YkZ2ODUyMWZMR0NFd1R1WDlGQXM1TGdDTmZwX3o4V3ZrU2FrWlFMT2Z6X3gwRGxXbS1HNGN0VnUtaDRwcGVtZW5xNEdkaVRMMFlwM3hHenJpTWJ6WkJrX3lRUjMzLWVPclhMeGhWZmVDUjA5cC1jcUcxeXl0Vmd5Um5J?oc=5>
+
+### Trump Blasts Big Oil Companies for 'Making Too Much Money' -- Update
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: moomoo.com
+- 时间: 2026-08-03 20:14
+- 链接: <https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdWtXX0gwbUoxV1F5OWJoWTdNa2dzSXJld3JTeUdXM080cHNvSnpILXd3ekhrcTlRb2YzUmV3a3VRNU9TNHVXbjlRa2xkdXF4ZHRpSW1TMmxxd2IyanJXbEdUVVRIeTM5YVpzWExiVnJWbm9RMjZyUm5zX3VndXpYWVE4X2gyZ0V4NzVpLUtRLS1rNlYxeTdRRkRPaGRUSXVkSWNLTXNEU3ptUXRfelFtbEFiQng1Q0FtYy1wekgxNmZPc1RyaXdrNzktb0ZVYmxBczF6Yg?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-05 15:09  (6 条)
+
+- **特朗普** | 特朗普所乘直升机遭遇飞行安全事件 <https://news.google.com/rss/articles/CBMif0FVX3lxTE9tQlNxWWNVaW40cFVKekk0Zk9pTU1hNGN6Q3BQekdzSTYtMFdpUmpoYUdJZjM4Nkxremx3QVhkaDdRQ2VBdU92N0d5elgwTmNVdm1ER3VnYU5DZ3ppZDc0ejFSendRNllQUGE5ZzZaNUplZWJiQWp6MUQyUXREY28?oc=5>
+- **特朗普** | 特朗普政府已退还1000亿美元关税，都给谁了？ <https://news.google.com/rss/articles/CBMi0AFBVV95cUxPczZ3NDA1Z25mWGljbl9LRndFVlE4Zkd3UHFXdmZPWnIyY1djYUdzRlhpREgwZEs4QWJ5bzFxaWZDNDRWN3hnMEVRRko0dGYyUFpNR21GWmZzb1VnMlh0MjlsMEdtbG0yV1c0dVdUOEpEbmRuWm1UNkQyRFVwbjZsSEg4Ulg1YTB5S3lhYi1GRFFtQ0JPdGxTT05raVU0Z0Y2OVQ2aW9hb3luOXhrZVd6WXFKWi04UDJkNFhpWlB0TjBCcV9xbXN1ejNQTlRMQUhU?oc=5>
+- **特朗普** | 美媒爆：美总统“亲密盟友”皮罗拖着“一箱证据”赴白宫，当着特朗普的面质问内政部长 <https://news.google.com/rss/articles/CBMiWEFVX3lxTFBnd18xbXRJTm9ZZ3pheW5EMkQzbnlDZDNsdTgzZ08tSl8xWHc0cjhITS1TVzN5eHlSaEhzLVRJei10aUFKTmxCV2hvRnRVbjBqMlZ6dDVTYlc?oc=5>
+- **特朗普** | 新华社消息丨特朗普：霍尔木兹海峡很快开放 否则伊朗将遭打击 <https://news.google.com/rss/articles/CBMimgFBVV95cUxNbUtHMHZMRDZXc1lvdzF1dVpfd0lfMk9TRUlTaWUtZE9tYUZyeGt0QWFZYVJXMnlQV01TZzhhZTZaMmlyX014a0xxeXFBSV9VZW5VR2ZpeWItOF9qUmppNlBSYWNkYy00eGZIVGRBcjd6a0I5aUY3ZDNNbEVpZ2w4d1FFNXVMR3Zvand3SWM4YXBVMWF0WE9rYkNR?oc=5>
+- **Trump** | trump现在希望停火的原因 <https://news.google.com/rss/articles/CBMiowFBVV95cUxNSlplSHIyZHlmVmtXbEsyZVJwU0JmN1JWLWFHUC0xb1g3YkZ2ODUyMWZMR0NFd1R1WDlGQXM1TGdDTmZwX3o4V3ZrU2FrWlFMT2Z6X3gwRGxXbS1HNGN0VnUtaDRwcGVtZW5xNEdkaVRMMFlwM3hHenJpTWJ6WkJrX3lRUjMzLWVPclhMeGhWZmVDUjA5cC1jcUcxeXl0Vmd5Um5J?oc=5>
+- **Trump** | Trump Blasts Big Oil Companies for 'Making Too Much Money' -- Update <https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdWtXX0gwbUoxV1F5OWJoWTdNa2dzSXJld3JTeUdXM080cHNvSnpILXd3ekhrcTlRb2YzUmV3a3VRNU9TNHVXbjlRa2xkdXF4ZHRpSW1TMmxxd2IyanJXbEdUVVRIeTM5YVpzWExiVnJWbm9RMjZyUm5zX3VndXpYWVE4X2gyZ0V4NzVpLUtRLS1rNlYxeTdRRkRPaGRUSXVkSWNLTXNEU3ptUXRfelFtbEFiQng1Q0FtYy1wekgxNmZPc1RyaXdrNzktb0ZVYmxBczF6Yg?oc=5>
 
 ### 2026-08-05 12:48  (7 条)
 
