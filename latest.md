@@ -1,14 +1,83 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-04 23:30**
-- 本轮扫到 8711 条, 新增 **0** 条
+- 最近更新: **2026-08-05 01:55**
+- 本轮扫到 8719 条, 新增 **8** 条
 
 ---
 
-## 本轮无新增
+## 本轮新发现 (8 条)
 
-数据库里所有演出/动态都已见过,暂无新增。
+### 王一博29岁生日当天发布了哪些内容？
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimfmym3641664.html>
+
+### 王一博工作室为何连续七年卡点发布生日祝福？
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimfmyp5214229.html>
+
+### 蔡徐坤演唱会互动，温柔回馈粉丝奔赴心意
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimffsv4829112.html>
+
+### 蔡徐坤演唱会戒断反应来袭，观众直呼后劲太大
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimchzp5806562.html>
+
+### 特朗普被25个州联手起诉！制裁手段最后反噬自己了？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: video.sina.com.cn
+- 时间: 2026-08-05 01:19
+- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxOVHJpTG1oaHlfNDBVNDEwSzR0dU9FZTcxR0RNTHB0YmQxZEFmRXdwYzYyc0N3T1pEZlBHUDdTN0w5WFFPdzVvaC1uZlZpSjEwQ2FVRnpFZE50WVFrWEhvdUJOMlltN0NRMjVSMXdYTGFBTk9PVWZFNzljWGtPcFdqcTd3?oc=5>
+
+### 特朗普称民调数据创历史新高
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-04 22:00
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1wSm1SbHdsQTVOVEF6cXF3QmJEZ0pUR3VpVkdmUE9INmVUeHhfeU9QNjFVSWFKcWNzRXhGVFZJMnBTMHBqaHhFVXJfZw?oc=5>
+
+### 白宫拟延长琼斯法案豁免期，特朗普寻求压低汽油价格
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: finance.ifeng.com
+- 时间: 2026-08-04 23:33
+- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE5EOVlQcXJMcVUzN2FPVFd0N2lTczdYd1ZvTjZRMXBYV2ZJdkxnaHdiM1pvWGo1OFUzTUVqNjZEQktkRGF3WlRpX0FIMzZkNGF6?oc=5>
+
+### 沃伦要求SEC调查特朗普迷因币 3.8亿美元损失引爆加密立法争议
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: FX168财经
+- 时间: 2026-08-05 01:03
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5XQ2RhYUdqVDA0WGNSdjlVUVc3eFBPb080OE1ZdWNlQUFPemdBbG95SkhiVGtySV9yQjNnR2t6X0lBcUVxTDFlWWQ3OVNSWHhrVzdteUxzZzNSSVIzdVdDVGRDSjkzaUNqanIxOVVTZ1VlbXh0NXg2OA?oc=5>
+
+
+---
+
 ## 历史发现
+
+### 2026-08-05 01:55  (8 条)
+
+- **王一博** | 王一博29岁生日当天发布了哪些内容？ <https://www.sina.cn/news/article/nimfmym3641664.html>
+- **王一博** | 王一博工作室为何连续七年卡点发布生日祝福？ <https://www.sina.cn/news/article/nimfmyp5214229.html>
+- **蔡徐坤** | 蔡徐坤演唱会互动，温柔回馈粉丝奔赴心意 <https://www.sina.cn/news/article/nimffsv4829112.html>
+- **蔡徐坤** | 蔡徐坤演唱会戒断反应来袭，观众直呼后劲太大 <https://www.sina.cn/news/article/nimchzp5806562.html>
+- **特朗普** | 特朗普被25个州联手起诉！制裁手段最后反噬自己了？ <https://news.google.com/rss/articles/CBMiggFBVV95cUxOVHJpTG1oaHlfNDBVNDEwSzR0dU9FZTcxR0RNTHB0YmQxZEFmRXdwYzYyc0N3T1pEZlBHUDdTN0w5WFFPdzVvaC1uZlZpSjEwQ2FVRnpFZE50WVFrWEhvdUJOMlltN0NRMjVSMXdYTGFBTk9PVWZFNzljWGtPcFdqcTd3?oc=5>
+- **特朗普** | 特朗普称民调数据创历史新高 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1wSm1SbHdsQTVOVEF6cXF3QmJEZ0pUR3VpVkdmUE9INmVUeHhfeU9QNjFVSWFKcWNzRXhGVFZJMnBTMHBqaHhFVXJfZw?oc=5>
+- **特朗普** | 白宫拟延长琼斯法案豁免期，特朗普寻求压低汽油价格 <https://news.google.com/rss/articles/CBMiUEFVX3lxTE5EOVlQcXJMcVUzN2FPVFd0N2lTczdYd1ZvTjZRMXBYV2ZJdkxnaHdiM1pvWGo1OFUzTUVqNjZEQktkRGF3WlRpX0FIMzZkNGF6?oc=5>
+- **Trump** | 沃伦要求SEC调查特朗普迷因币 3.8亿美元损失引爆加密立法争议 <https://news.google.com/rss/articles/CBMieEFVX3lxTE5XQ2RhYUdqVDA0WGNSdjlVUVc3eFBPb080OE1ZdWNlQUFPemdBbG95SkhiVGtySV9yQjNnR2t6X0lBcUVxTDFlWWQ3OVNSWHhrVzdteUxzZzNSSVIzdVdDVGRDSjkzaUNqanIxOVVTZ1VlbXh0NXg2OA?oc=5>
 
 ### 2026-08-04 22:06  (2 条)
 
