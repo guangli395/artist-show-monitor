@@ -1,32 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-05 16:58**
-- 本轮扫到 8766 条, 新增 **2** 条
+- 最近更新: **2026-08-05 18:23**
+- 本轮扫到 8768 条, 新增 **2** 条
 
 ---
 
 ## 本轮新发现 (2 条)
 
-### 时隔28年美日再度携手“拯救日元”的背后：特朗普既救日元更帮自己
+### 移民团体报告：特朗普驱逐移民政策推高物价、拖累地方经济
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-08-04 15:43
-- 链接: <https://news.google.com/rss/articles/CBMirgFBVV95cUxQYXo4elNFU2p5X2ZJM1lSTWhhdjBTTGtOTnp1QVZXMGIzdDNrNFZxNmhzM1pzWDFSNnQzUzNocWtGWXRQaE1fLXZ2a01TeUxvUlM5SHJkVklpSF9ZRHlzMFBxV3RSU1Q4dFJLWlVyNXZrd01fYjVzc2p2U3h2ZE15MkpObWFtd3ZFRGtlUTN0OEFrS3ZUeFdobmhnOW02Y20zRldJSWJXeU1rMXpWRFE?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-05 09:51
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxQV2I5TEtjQ2tEZm9jVVJ6cHdSVTY2TnoyWWZJRGdnRm5jYnJlak1Ia1lsRjhiUHJ0MEVvalh0YlpyelVLUGZXZGhoWkY1c1JoZkh5MkNBTHJjVW5DbjhsRmpfS3FuU2RDdEFHZmYzOFF2SWJwVnhUSzBXOVhZcmlNZkpJVF93SjA?oc=5>
 
-### 特朗普为何罕见出手救日元？友谊是包装，护美债才是第一要务
+### 霍尔木兹马上开放？特朗普多次遭伊朗“打脸”，仍坚称美伊正谈判！
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-05 11:37
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9qcE1fNWxZMFBqcE9BNzBBNE9fYllmSy16b3VLZWs0WmxhXzJid2xCcEZBV3hNckwySGFlRWhndmZXLUZNQTRSN2g5bXc?oc=5>
+- 场馆: 财联社
+- 时间: 2026-08-04 23:37
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE9KeS1kY0lFV0FHQVZFVUFaMElVWXowWlVRYXF1QXl5UTBYUWF1bmlaaDNLZ1lQQjZYU0loZUlaT3ZSR3QyQTc2ZA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-05 18:23  (2 条)
+
+- **特朗普** | 移民团体报告：特朗普驱逐移民政策推高物价、拖累地方经济 <https://news.google.com/rss/articles/CBMihwFBVV95cUxQV2I5TEtjQ2tEZm9jVVJ6cHdSVTY2TnoyWWZJRGdnRm5jYnJlak1Ia1lsRjhiUHJ0MEVvalh0YlpyelVLUGZXZGhoWkY1c1JoZkh5MkNBTHJjVW5DbjhsRmpfS3FuU2RDdEFHZmYzOFF2SWJwVnhUSzBXOVhZcmlNZkpJVF93SjA?oc=5>
+- **特朗普** | 霍尔木兹马上开放？特朗普多次遭伊朗“打脸”，仍坚称美伊正谈判！ <https://news.google.com/rss/articles/CBMiSEFVX3lxTE9KeS1kY0lFV0FHQVZFVUFaMElVWXowWlVRYXF1QXl5UTBYUWF1bmlaaDNLZ1lQQjZYU0loZUlaT3ZSR3QyQTc2ZA?oc=5>
 
 ### 2026-08-05 16:58  (2 条)
 
