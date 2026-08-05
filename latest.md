@@ -1,64 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-05 15:09**
-- 本轮扫到 8764 条, 新增 **6** 条
+- 最近更新: **2026-08-05 16:58**
+- 本轮扫到 8766 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (2 条)
 
-### 特朗普所乘直升机遭遇飞行安全事件
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: China Daily
-- 时间: 2026-08-05 12:30
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9tQlNxWWNVaW40cFVKekk0Zk9pTU1hNGN6Q3BQekdzSTYtMFdpUmpoYUdJZjM4Nkxremx3QVhkaDdRQ2VBdU92N0d5elgwTmNVdm1ER3VnYU5DZ3ppZDc0ejFSendRNllQUGE5ZzZaNUplZWJiQWp6MUQyUXREY28?oc=5>
-
-### 特朗普政府已退还1000亿美元关税，都给谁了？
+### 时隔28年美日再度携手“拯救日元”的背后：特朗普既救日元更帮自己
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-05 08:33
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxPczZ3NDA1Z25mWGljbl9LRndFVlE4Zkd3UHFXdmZPWnIyY1djYUdzRlhpREgwZEs4QWJ5bzFxaWZDNDRWN3hnMEVRRko0dGYyUFpNR21GWmZzb1VnMlh0MjlsMEdtbG0yV1c0dVdUOEpEbmRuWm1UNkQyRFVwbjZsSEg4Ulg1YTB5S3lhYi1GRFFtQ0JPdGxTT05raVU0Z0Y2OVQ2aW9hb3luOXhrZVd6WXFKWi04UDJkNFhpWlB0TjBCcV9xbXN1ejNQTlRMQUhU?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-08-04 15:43
+- 链接: <https://news.google.com/rss/articles/CBMirgFBVV95cUxQYXo4elNFU2p5X2ZJM1lSTWhhdjBTTGtOTnp1QVZXMGIzdDNrNFZxNmhzM1pzWDFSNnQzUzNocWtGWXRQaE1fLXZ2a01TeUxvUlM5SHJkVklpSF9ZRHlzMFBxV3RSU1Q4dFJLWlVyNXZrd01fYjVzc2p2U3h2ZE15MkpObWFtd3ZFRGtlUTN0OEFrS3ZUeFdobmhnOW02Y20zRldJSWJXeU1rMXpWRFE?oc=5>
 
-### 美媒爆：美总统“亲密盟友”皮罗拖着“一箱证据”赴白宫，当着特朗普的面质问内政部长
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: world.huanqiu.com
-- 时间: 2026-08-04 21:51
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTFBnd18xbXRJTm9ZZ3pheW5EMkQzbnlDZDNsdTgzZ08tSl8xWHc0cjhITS1TVzN5eHlSaEhzLVRJei10aUFKTmxCV2hvRnRVbjBqMlZ6dDVTYlc?oc=5>
-
-### 新华社消息丨特朗普：霍尔木兹海峡很快开放 否则伊朗将遭打击
+### 特朗普为何罕见出手救日元？友谊是包装，护美债才是第一要务
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网客户端
-- 时间: 2026-08-05 08:33
-- 链接: <https://news.google.com/rss/articles/CBMimgFBVV95cUxNbUtHMHZMRDZXc1lvdzF1dVpfd0lfMk9TRUlTaWUtZE9tYUZyeGt0QWFZYVJXMnlQV01TZzhhZTZaMmlyX014a0xxeXFBSV9VZW5VR2ZpeWItOF9qUmppNlBSYWNkYy00eGZIVGRBcjd6a0I5aUY3ZDNNbEVpZ2w4d1FFNXVMR3Zvand3SWM4YXBVMWF0WE9rYkNR?oc=5>
-
-### trump现在希望停火的原因
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: moomoo.com
-- 时间: 2026-08-05 01:09
-- 链接: <https://news.google.com/rss/articles/CBMiowFBVV95cUxNSlplSHIyZHlmVmtXbEsyZVJwU0JmN1JWLWFHUC0xb1g3YkZ2ODUyMWZMR0NFd1R1WDlGQXM1TGdDTmZwX3o4V3ZrU2FrWlFMT2Z6X3gwRGxXbS1HNGN0VnUtaDRwcGVtZW5xNEdkaVRMMFlwM3hHenJpTWJ6WkJrX3lRUjMzLWVPclhMeGhWZmVDUjA5cC1jcUcxeXl0Vmd5Um5J?oc=5>
-
-### Trump Blasts Big Oil Companies for 'Making Too Much Money' -- Update
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: moomoo.com
-- 时间: 2026-08-03 20:14
-- 链接: <https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdWtXX0gwbUoxV1F5OWJoWTdNa2dzSXJld3JTeUdXM080cHNvSnpILXd3ekhrcTlRb2YzUmV3a3VRNU9TNHVXbjlRa2xkdXF4ZHRpSW1TMmxxd2IyanJXbEdUVVRIeTM5YVpzWExiVnJWbm9RMjZyUm5zX3VndXpYWVE4X2gyZ0V4NzVpLUtRLS1rNlYxeTdRRkRPaGRUSXVkSWNLTXNEU3ptUXRfelFtbEFiQng1Q0FtYy1wekgxNmZPc1RyaXdrNzktb0ZVYmxBczF6Yg?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-08-05 11:37
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9qcE1fNWxZMFBqcE9BNzBBNE9fYllmSy16b3VLZWs0WmxhXzJid2xCcEZBV3hNckwySGFlRWhndmZXLUZNQTRSN2g5bXc?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-05 16:58  (2 条)
+
+- **特朗普** | 时隔28年美日再度携手“拯救日元”的背后：特朗普既救日元更帮自己 <https://news.google.com/rss/articles/CBMirgFBVV95cUxQYXo4elNFU2p5X2ZJM1lSTWhhdjBTTGtOTnp1QVZXMGIzdDNrNFZxNmhzM1pzWDFSNnQzUzNocWtGWXRQaE1fLXZ2a01TeUxvUlM5SHJkVklpSF9ZRHlzMFBxV3RSU1Q4dFJLWlVyNXZrd01fYjVzc2p2U3h2ZE15MkpObWFtd3ZFRGtlUTN0OEFrS3ZUeFdobmhnOW02Y20zRldJSWJXeU1rMXpWRFE?oc=5>
+- **特朗普** | 特朗普为何罕见出手救日元？友谊是包装，护美债才是第一要务 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9qcE1fNWxZMFBqcE9BNzBBNE9fYllmSy16b3VLZWs0WmxhXzJid2xCcEZBV3hNckwySGFlRWhndmZXLUZNQTRSN2g5bXc?oc=5>
 
 ### 2026-08-05 15:09  (6 条)
 
