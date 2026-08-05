@@ -1,32 +1,60 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-05 18:23**
-- 本轮扫到 8768 条, 新增 **2** 条
+- 最近更新: **2026-08-05 20:04**
+- 本轮扫到 8773 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (5 条)
 
-### 移民团体报告：特朗普驱逐移民政策推高物价、拖累地方经济
+### 王一博工作室为什么每年都要卡点发布千字生日长文？
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimieir3254974.html>
+
+### 周杰伦南京站开票后5分钟回流票怎么抢成功率最高？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimieir3269358.html>
+
+### 特朗普政府已退还1000亿美元关税，都给谁了？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-08-05 09:51
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxQV2I5TEtjQ2tEZm9jVVJ6cHdSVTY2TnoyWWZJRGdnRm5jYnJlak1Ia1lsRjhiUHJ0MEVvalh0YlpyelVLUGZXZGhoWkY1c1JoZkh5MkNBTHJjVW5DbjhsRmpfS3FuU2RDdEFHZmYzOFF2SWJwVnhUSzBXOVhZcmlNZkpJVF93SjA?oc=5>
+- 时间: 2026-08-05 08:33
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaC1DSlBwVVoyV1FiYVBrZHBYa1UzZkFpQmFodkowMWJ0YzVzLWc0UlpGYzBJSlR0bC1zRU1lVzJtd1pMeDVIeC1aYmVkSjRaYlFxY3Y2djNqbDREODdJLXl5WXRIbGhTWExYQlJvc2pwSUJBaGdZSHpCNEhvbnp3YkZGb3BpdkYyM0NfRE0xNHRoWVRaTW8zTzk3cElhTFZzWkF2WDJCRm5vMnJmSVFhZlU0M0xhZllsQ05BZlUzMWZIejRNcDlFWmlfTVg5cGth?oc=5>
 
-### 霍尔木兹马上开放？特朗普多次遭伊朗“打脸”，仍坚称美伊正谈判！
+### 特朗普总统表示与伊朗的会谈取得进展，但警告德黑兰如退出谈判将受到“非常严厉”的军事打击
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-08-04 23:37
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE9KeS1kY0lFV0FHQVZFVUFaMElVWXowWlVRYXF1QXl5UTBYUWF1bmlaaDNLZ1lQQjZYU0loZUlaT3ZSR3QyQTc2ZA?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-08-05 14:28
+- 链接: <https://news.google.com/rss/articles/CBMiggJBVV95cUxOT25CZm93U1hkZDJ2akJfTmxxbGJMX3Ayd0NvN0RvVXRjUVhLbkMzRURDYUJrRHYtUjA5d0NTZS02OGhIY1Bld0l4QWYzRS1RWnNBeGlUNkJGLVdVYmJJcGtrbVRLM2tPLXh1Nk5Gc2p2VEZtbmgwREx0bUVoTHRFQWdRRXJKa1F5YXg0SGtjTS1jUXU2elJSaEVDUDc0ME9WYnNna1czQThCWHVjcncyYlpXZkVJMnBWSV84M2hMRmNuR2t4X0M5aUxiNHBYb2p1M3lfdGNIdnlCVVNTcHRPckRQcjZ2RmlLSGRJdENobDVCcDhuTlhJeXBSMkc3R05MQnfSAYICQVVfeXFMTk9uQmZvd1NYZGQydmpCX05scWxiTF9wMndDbzdEb1V0Y1FYS25DM0VEQ2FCa0R2LVIwOXdDU2UtNjhoSGNQZXdJeEFmM0UtUVpzQXhpVDZCRi1XVWJiSXBra21USzNrTy14dTZORnNqdlRGbW5oMERMdG1FaEx0RUFnUUVySmtReWF4NEhrY00tY1F1NnpSUmhFQ1A3NDBPVmJzZ2tXM0E4Qlh1Y3J3MmJaV2ZFSTJwVklfODNoTEZjbkdreF9DOWlMYjRwWG9qdTN5X3RjSHZ5QlVTU3B0T3JEUHI2dkZpS0hkSXRDaGw1QnA4bk5YSXlwUjJHN0dOTEJ3?oc=5>
+
+### OFFICIAL TRUMP(TRUMP.FTCA)股票股价, 市值, 实时行情, 走势图, 财报
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-08-05 02:38
+- 链接: <https://news.google.com/rss/articles/CBMiXEFVX3lxTE40eDN0cUJlQnRPOGlVc19qNnlsNHl6NmhtYXJHSjZOTGpBUFd3TVlmUFlGT0d2X2UzX3BkOFlQWC1xUzZvTmtIdEFYVmVxU0NXVjlRaV9ZbWM2Sllt?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-05 20:04  (5 条)
+
+- **王一博** | 王一博工作室为什么每年都要卡点发布千字生日长文？ <https://www.sina.cn/news/article/nimieir3254974.html>
+- **周杰伦** | 周杰伦南京站开票后5分钟回流票怎么抢成功率最高？ <https://www.sina.cn/news/article/nimieir3269358.html>
+- **特朗普** | 特朗普政府已退还1000亿美元关税，都给谁了？ <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaC1DSlBwVVoyV1FiYVBrZHBYa1UzZkFpQmFodkowMWJ0YzVzLWc0UlpGYzBJSlR0bC1zRU1lVzJtd1pMeDVIeC1aYmVkSjRaYlFxY3Y2djNqbDREODdJLXl5WXRIbGhTWExYQlJvc2pwSUJBaGdZSHpCNEhvbnp3YkZGb3BpdkYyM0NfRE0xNHRoWVRaTW8zTzk3cElhTFZzWkF2WDJCRm5vMnJmSVFhZlU0M0xhZllsQ05BZlUzMWZIejRNcDlFWmlfTVg5cGth?oc=5>
+- **特朗普** | 特朗普总统表示与伊朗的会谈取得进展，但警告德黑兰如退出谈判将受到“非常严厉”的军事打击 <https://news.google.com/rss/articles/CBMiggJBVV95cUxOT25CZm93U1hkZDJ2akJfTmxxbGJMX3Ayd0NvN0RvVXRjUVhLbkMzRURDYUJrRHYtUjA5d0NTZS02OGhIY1Bld0l4QWYzRS1RWnNBeGlUNkJGLVdVYmJJcGtrbVRLM2tPLXh1Nk5Gc2p2VEZtbmgwREx0bUVoTHRFQWdRRXJKa1F5YXg0SGtjTS1jUXU2elJSaEVDUDc0ME9WYnNna1czQThCWHVjcncyYlpXZkVJMnBWSV84M2hMRmNuR2t4X0M5aUxiNHBYb2p1M3lfdGNIdnlCVVNTcHRPckRQcjZ2RmlLSGRJdENobDVCcDhuTlhJeXBSMkc3R05MQnfSAYICQVVfeXFMTk9uQmZvd1NYZGQydmpCX05scWxiTF9wMndDbzdEb1V0Y1FYS25DM0VEQ2FCa0R2LVIwOXdDU2UtNjhoSGNQZXdJeEFmM0UtUVpzQXhpVDZCRi1XVWJiSXBra21USzNrTy14dTZORnNqdlRGbW5oMERMdG1FaEx0RUFnUUVySmtReWF4NEhrY00tY1F1NnpSUmhFQ1A3NDBPVmJzZ2tXM0E4Qlh1Y3J3MmJaV2ZFSTJwVklfODNoTEZjbkdreF9DOWlMYjRwWG9qdTN5X3RjSHZ5QlVTU3B0T3JEUHI2dkZpS0hkSXRDaGw1QnA4bk5YSXlwUjJHN0dOTEJ3?oc=5>
+- **Trump** | OFFICIAL TRUMP(TRUMP.FTCA)股票股价, 市值, 实时行情, 走势图, 财报 <https://news.google.com/rss/articles/CBMiXEFVX3lxTE40eDN0cUJlQnRPOGlVc19qNnlsNHl6NmhtYXJHSjZOTGpBUFd3TVlmUFlGT0d2X2UzX3BkOFlQWC1xUzZvTmtIdEFYVmVxU0NXVjlRaV9ZbWM2Sllt?oc=5>
 
 ### 2026-08-05 18:23  (2 条)
 
