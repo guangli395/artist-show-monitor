@@ -1,11 +1,11 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-05 21:42**
-- 本轮扫到 8775 条, 新增 **2** 条
+- 最近更新: **2026-08-05 22:52**
+- 本轮扫到 8779 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (4 条)
 
 ### 特朗普政府退还1000亿美元“解放日”关税
 
@@ -13,20 +13,43 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-08-05 20:30
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMFk3a2E4NmI2cDBIREE1aUEtVFh6QVJyeTJzMnhpOWk4S04zZVdHVU1Wa1pDNGlvaS1JLUZ6UUFsRFRDQWhwcUxDRjQ1MGZCTktYM3poYy1aV0JZeGItMFBwVm1ZMzBkTEM3Y3pWS2JvZHI4TWxYTjJBZGZOTDZJUmY2QWRwWGdSQ1g2Y0M5ZjMySndjS2RUaU5IWmtJSGZGNWRNckprQ0FMemFQUlY2Mko2bjhpZW9xeklXbVpHcDlsZE93b2Z3Ym90dmpMOXFvbmkzV21ocF9uWGNuU080?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxORDlRQXB6ZjVwLThYTjhJM2tzNlV6M2VSTnRjZ0U1cUR1OFlPaE1yaHIzQ1FoaHBaNEJSRUFyYzlsQUk0bTVyTjVaTGgzQk4xVEdPUzRpc3pIdERnQm9vQnYyVDF4OFJhWWdoblZBaXJpMy1TLTlsNWpOYVh5c0lBVkhGbWZjSjN2R2lib1NUeEpyQ1FYb2JqTDhVVDFNOC1Td29UVVlQS2ZvNS1RaXU5ZDZyNzR3ZThWbmJSbDE4UVItSnZqbEdDMFZJbHBPWGFuLUIzTnQxNElCNWxWSVEw?oc=5>
 
-### 华盛顿的剧本，失控了
+### 特朗普总统表示与伊朗的会谈取得进展，但警告德黑兰如退出谈判将受到“非常严厉”的军事打击
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-08-05 02:13
-- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTktpTjgwTzk2T2lVNVFTcHVWQUJyOHRaRG00VFhPN2lxWUsyRjFNN2JUcnBHTEhHZnR5NzNMbnMtaUViWFpETDZIS05lNmduRDZXbXpHRm56N0Y5RGZhVkE3b3FiVEw0YXZ2WEMxWUhnTm82a1EzWUdpdVFYN1FQRUdzVDdCbjdISnFj?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-08-05 14:28
+- 链接: <https://news.google.com/rss/articles/CBMi_wFBVV95cUxQaVJWY1ktNC01QjdFUXVFX2lBejhDakZ4X0ZuM1dKLThpdnI5OXFxVFBibi1XX1VrZmVmSUpCV3dSZV83Tnh3cEMwUTVtd0JqRXJKVUxhWFFsSHdjbVd3MjdjRXVncHcyMExvRjZ4LW9Ja0sxalJaZ1pKcE5MdmxTZTltNVJjWmR3WHdEWTY3NGRiOHNNSXluakNBb1pNN2hZak1ZVGNPQnh4ZFh1MmxtUjY1TGNYZFM1M05fbWV2TVc2NjhpMGk3NGRjZzZsTk5pcDJwNVpRaG5INTZNa1pEbVRua3BmVUF1ek9tOWctcFl4a0RxZkJFRUVqWmphVGPSAYICQVVfeXFMTk9uQmZvd1NYZGQydmpCX05scWxiTF9wMndDbzdEb1V0Y1FYS25DM0VEQ2FCa0R2LVIwOXdDU2UtNjhoSGNQZXdJeEFmM0UtUVpzQXhpVDZCRi1XVWJiSXBra21USzNrTy14dTZORnNqdlRGbW5oMERMdG1FaEx0RUFnUUVySmtReWF4NEhrY00tY1F1NnpSUmhFQ1A3NDBPVmJzZ2tXM0E4Qlh1Y3J3MmJaV2ZFSTJwVklfODNoTEZjbkdreF9DOWlMYjRwWG9qdTN5X3RjSHZ5QlVTU3B0T3JEUHI2dkZpS0hkSXRDaGw1QnA4bk5YSXlwUjJHN0dOTEJ3?oc=5>
+
+### 特朗普再上台后中国留学生获签数量大减 美全球学签拒签率达十年最高
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 财新
+- 时间: 2026-08-05 04:10
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5JeERoMFNZdDBhZktOcnY0ckxIbHk5Q2tXeG9Kd2pYOGR2VDEzSTh6VmE2TEh4Y3E2VGkyUmZmX05WTVdKY21ERlg1NVdIUFpLNENlUm92Wnh5Y1UxRzA2MXNRZnNKMFdWYUE?oc=5>
+
+### 特朗普：与伊朗的谈判正在进行 将分两阶段推进
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 东方财富
+- 时间: 2026-08-04 03:00
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE45WUEwQVIxTWRzRDlWdW80MDZwS3Jtdi12SUxxMnZ3RGVBNElTSzZLQ0RFX0xzZUdLNEJtR2xkWnpXODBSWXFxUHpHaElTOGVGamR2UWxSMTc2YjZacUg5bQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-05 22:52  (4 条)
+
+- **特朗普** | 特朗普政府退还1000亿美元“解放日”关税 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxORDlRQXB6ZjVwLThYTjhJM2tzNlV6M2VSTnRjZ0U1cUR1OFlPaE1yaHIzQ1FoaHBaNEJSRUFyYzlsQUk0bTVyTjVaTGgzQk4xVEdPUzRpc3pIdERnQm9vQnYyVDF4OFJhWWdoblZBaXJpMy1TLTlsNWpOYVh5c0lBVkhGbWZjSjN2R2lib1NUeEpyQ1FYb2JqTDhVVDFNOC1Td29UVVlQS2ZvNS1RaXU5ZDZyNzR3ZThWbmJSbDE4UVItSnZqbEdDMFZJbHBPWGFuLUIzTnQxNElCNWxWSVEw?oc=5>
+- **特朗普** | 特朗普总统表示与伊朗的会谈取得进展，但警告德黑兰如退出谈判将受到“非常严厉”的军事打击 <https://news.google.com/rss/articles/CBMi_wFBVV95cUxQaVJWY1ktNC01QjdFUXVFX2lBejhDakZ4X0ZuM1dKLThpdnI5OXFxVFBibi1XX1VrZmVmSUpCV3dSZV83Tnh3cEMwUTVtd0JqRXJKVUxhWFFsSHdjbVd3MjdjRXVncHcyMExvRjZ4LW9Ja0sxalJaZ1pKcE5MdmxTZTltNVJjWmR3WHdEWTY3NGRiOHNNSXluakNBb1pNN2hZak1ZVGNPQnh4ZFh1MmxtUjY1TGNYZFM1M05fbWV2TVc2NjhpMGk3NGRjZzZsTk5pcDJwNVpRaG5INTZNa1pEbVRua3BmVUF1ek9tOWctcFl4a0RxZkJFRUVqWmphVGPSAYICQVVfeXFMTk9uQmZvd1NYZGQydmpCX05scWxiTF9wMndDbzdEb1V0Y1FYS25DM0VEQ2FCa0R2LVIwOXdDU2UtNjhoSGNQZXdJeEFmM0UtUVpzQXhpVDZCRi1XVWJiSXBra21USzNrTy14dTZORnNqdlRGbW5oMERMdG1FaEx0RUFnUUVySmtReWF4NEhrY00tY1F1NnpSUmhFQ1A3NDBPVmJzZ2tXM0E4Qlh1Y3J3MmJaV2ZFSTJwVklfODNoTEZjbkdreF9DOWlMYjRwWG9qdTN5X3RjSHZ5QlVTU3B0T3JEUHI2dkZpS0hkSXRDaGw1QnA4bk5YSXlwUjJHN0dOTEJ3?oc=5>
+- **特朗普** | 特朗普再上台后中国留学生获签数量大减 美全球学签拒签率达十年最高 <https://news.google.com/rss/articles/CBMiakFVX3lxTE5JeERoMFNZdDBhZktOcnY0ckxIbHk5Q2tXeG9Kd2pYOGR2VDEzSTh6VmE2TEh4Y3E2VGkyUmZmX05WTVdKY21ERlg1NVdIUFpLNENlUm92Wnh5Y1UxRzA2MXNRZnNKMFdWYUE?oc=5>
+- **特朗普** | 特朗普：与伊朗的谈判正在进行 将分两阶段推进 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE45WUEwQVIxTWRzRDlWdW80MDZwS3Jtdi12SUxxMnZ3RGVBNElTSzZLQ0RFX0xzZUdLNEJtR2xkWnpXODBSWXFxUHpHaElTOGVGamR2UWxSMTc2YjZacUg5bQ?oc=5>
 
 ### 2026-08-05 21:42  (2 条)
 
