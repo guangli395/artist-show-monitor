@@ -1,108 +1,85 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-05 07:59**
-- 本轮扫到 8743 条, 新增 **13** 条
+- 最近更新: **2026-08-05 10:42**
+- 本轮扫到 8751 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (13 条)
+## 本轮新发现 (8 条)
 
-### 蔡徐坤在澳门演唱会上演唱了哪些原创歌曲？
+### 王一博工作室的生日长文是从哪一年开始坚持发布的？
 
-- 艺人/关键词: **蔡徐坤**
+- 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimhawc3534320.html>
+- 链接: <https://www.sina.cn/news/article/nimhawc3604321.html>
 
-### 演唱会音乐总监力挺周杰伦：从来没怕过，身正不怕影子斜
+### 年轻时这么拽的周杰伦，现在一天天在演唱会上问你们喜欢我的新歌还是老歌
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimhawf5176649.html>
+- 链接: <https://www.sina.cn/news/article/nimhawf5236536.html>
 
 ### “周杰伦与刘若雪有私生子”热搜爆了，周杰伦巡回演唱会音乐总监黄雨勋回应：从来没怕过，身正不怕影子斜
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimhawp1382958.html>
+- 链接: <https://www.sina.cn/news/article/nimhawf5212893.html>
 
-### “周杰伦私生子”热搜爆了，周杰伦演唱会音乐总监回应：从来没怕过，身正不怕影子斜
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimhawc3542312.html>
-
-### 周杰伦2026年新专辑太阳之子诠释家庭羁绊
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimhawc3543892.html>
-
-### “周杰伦 刘若雪”热搜爆了，周杰伦巡回演唱会音乐总监黄雨勋回应：从来没怕过，身正不怕影子斜
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimhawm4592539.html>
-
-### 特朗普：与伊朗的谈判正在进行 将分两阶段推进
+### 移民团体报告：特朗普驱逐移民政策推高物价、拖累地方经济
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-08-03 22:23
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbmVYQ0RycnNtMXhFOEdNSk1RNEZ2eTZzRkJkcTVURUY0aXE2dlBBSkxWc2Frc2hhd3lQNWJiMy1HM0ludmRMQW9FT0c0NzMtNHJJdXlTQmZEanBLYk9aREF3R3h3Q3pzYUwzblpKeG1oMTBZS3BiWFJnd1ZUX2ZSS1lCQ0p1WmdSaHAzLWpWMmI4MlUyZEZMV2FPUkNaMDNnd3dmeHRWVnJGZ1ZfblUxZmdKWThhcUdYdERvd0otUVFacDhwZUIzWWp0S2xtTGRk?oc=5>
+- 时间: 2026-08-05 09:51
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPblI5SFJPS3ZnejUybFY3T3hTaVMySHFNREFFbTB0enNFSFpMeEJHOUI1NHMwWGJmOENYXzRmMlV1VWtrTjd0b3FMV05CbnE0QThnMXlCdVpNSVN6Nmc3bEVLTGJVd1VwYVhNNGtLRlBkNUZoQ2JYVlpxSm5nNDA1X0hJdC1xbGJsTVNvVmpDeG5tamdDUHd3WnlEVEljNUpLbHdDRll6UnBzaFEyc1lHRWg1QXF2TE1wRTg4aF9QYm5EMzRVYUtUMko0aUNKNFJuc3o3WndHc2xOMmp0cmpr?oc=5>
 
-### 携武器踩点特朗普筹款晚宴？美国一男子被捕
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-08-05 01:47
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1HR2RFWHBJNGNaMXFoSmxJRFZHdTh2Rk41SnlCdnF1X0h4Qm1MUUFGWVl0RW80VXZuY0JoQ1dUZlo0RV8zc2pvVUw4RUl0WDNDN0VkdW1HRVBuN0dqUktsU1hLellWRnl5N3c?oc=5>
-
-### 特朗普不满坡度与外观，要求重建白宫停机坪
+### 一名武装男子在特朗普将出席活动的加州球场被捕
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-05 01:56
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBVTG1zQ3VyaGhwTW90VHhReXZ1X25aMXU2RUI4VkJXSjBleVRTVGsxUGh2M1VST2tWRUp3bkFBX2FyWGFIMmhsTE5mUDI?oc=5>
+- 场馆: 新华网
+- 时间: 2026-08-05 01:03
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9rc0ZTa05YRm9peHJvZXhhbV9WaVRiVUJwVm9seEZvUW94b2QyVkpkS21BOUZOR1V2aWtvVEVNR3UwN2sxLU1FNUJpVE1SdHBrQmtpNVdmUnhCcEx3SjNYTTJub0V2TXdLS0w1djQ5UFprWFlEWVF3WjN2RFp0WWs?oc=5>
 
-### “白宫密会AI巨头，要这样赢中国”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-08-05 06:40
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9pSDBEeE5yTU8wb1Ric2VXeERydTFkaV9EclB0WDJmYlZHQllGZ2hSM2tBZG1RV1N2cWxrQlpOODBRVjlDUDhKR0FZSW0zTHQ0ekxkQl90ekxwN0NyT2VYcTB0WG5QblE1UlVRUmRFSE1oZjJzc3RYa0FodVRHOFE?oc=5>
-
-### 美议员麦考尔：特朗普将提140亿美元对台军售案
+### 特朗普政府已退还1000亿美元关税，都给谁了？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: zaobao.com
-- 时间: 2026-08-04 12:35
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBhR0RYOGNQbWE4blhDczh5TW51MThoeFNmdllib1ZZa2xpMlpyUV9PSmhjTGJGTUE4ZWE3bWptc2s1QWRyRWJuUDBGdXZBQlVrNzB2dXdyUTcyRGFUWlRKWUtKOHlQZw?oc=5>
+- 场馆: 第一财经
+- 时间: 2026-08-05 08:33
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE1xWHAxaHdGMXd6QWQ0VmpvMGZ1UTFIa2lnSmkzMEtROHN4ejdyZzBNbWJtTlBROVZ3S1k0QzctVVU3T0NWeTJReEZSUWVHMEFOdy1r?oc=5>
 
-### 深视频| 特朗普：我的真实支持率史上最佳
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 上观新闻
-- 时间: 2026-08-05 05:03
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFa2w3anFaZHFMTzd5aUJHd0xMYlNRSV9icUptRXg2TFZxNW1MSGpOcWZSTXZuc2ViZUhzRHBOWXBiLWhZcHkzNXlldV92TUpHdko5ZXN4S0tLd1lVUEE?oc=5>
-
-### 卡塔尔埃米尔与特朗普就美伊局势通话 呼吁继续对话
+### 如何应对中国开源AI模型？特朗普政府内部争论升级
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 央广网
-- 时间: 2026-08-04 22:54
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE03eElZMXNmY0VJTmdybWR4VWxLb0JySDZwODE5LUpOcWQ4NV9nUk9SaDllN2dlYlZhT2pnajc0VEZlOS1CTUpZZkFQZTZwbHBVcWhmR0ZfbUxGRzFaanZNZFNBaFVfenR1?oc=5>
+- 场馆: 纽约时报中文网
+- 时间: 2026-08-05 00:11
+- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxNUzk5Nzc2cGhfQUdfNUtfWFNHeng4Qkc1SWZvN0c2aEs4UFhWVUNyckVLYm9OUXFvMm5vU3FIRVFGSDR4d01OdTNwZ3VKNzRRWHZ3U3dlZ1lsVk5lVzVBZ2NhQThwQlVETG15QjFIbFotMWJlWEdTQno1UzJyLXdnRjd2cw?oc=5>
+
+### 特朗普称这是伊朗签署一项良好协议的“最后机会”
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-08-03 11:24
+- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxQbTFfYW0tOExOeEpHR0dKbTU4WEVaZWxBczVoY2w1Nk1abU4yZTM1VGdGUmZacHhwLWxSZ1lQQjJIWHhwUGE3UVZwTVlPeE82aV93enRuYXF4NFM0OWR0MEpZRGtwM09kcDRIdFJPWjRVaDRvZ3ZfS2I4aUlVN190bWU4MDlpbEI2alhoUmw2UmYxSDJJVVZibw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-05 10:42  (8 条)
+
+- **王一博** | 王一博工作室的生日长文是从哪一年开始坚持发布的？ <https://www.sina.cn/news/article/nimhawc3604321.html>
+- **周杰伦** | 年轻时这么拽的周杰伦，现在一天天在演唱会上问你们喜欢我的新歌还是老歌 <https://www.sina.cn/news/article/nimhawf5236536.html>
+- **周杰伦** | “周杰伦与刘若雪有私生子”热搜爆了，周杰伦巡回演唱会音乐总监黄雨勋回应：从来没怕过，身正不怕影子斜 <https://www.sina.cn/news/article/nimhawf5212893.html>
+- **特朗普** | 移民团体报告：特朗普驱逐移民政策推高物价、拖累地方经济 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPblI5SFJPS3ZnejUybFY3T3hTaVMySHFNREFFbTB0enNFSFpMeEJHOUI1NHMwWGJmOENYXzRmMlV1VWtrTjd0b3FMV05CbnE0QThnMXlCdVpNSVN6Nmc3bEVLTGJVd1VwYVhNNGtLRlBkNUZoQ2JYVlpxSm5nNDA1X0hJdC1xbGJsTVNvVmpDeG5tamdDUHd3WnlEVEljNUpLbHdDRll6UnBzaFEyc1lHRWg1QXF2TE1wRTg4aF9QYm5EMzRVYUtUMko0aUNKNFJuc3o3WndHc2xOMmp0cmpr?oc=5>
+- **特朗普** | 一名武装男子在特朗普将出席活动的加州球场被捕 <https://news.google.com/rss/articles/CBMif0FVX3lxTE9rc0ZTa05YRm9peHJvZXhhbV9WaVRiVUJwVm9seEZvUW94b2QyVkpkS21BOUZOR1V2aWtvVEVNR3UwN2sxLU1FNUJpVE1SdHBrQmtpNVdmUnhCcEx3SjNYTTJub0V2TXdLS0w1djQ5UFprWFlEWVF3WjN2RFp0WWs?oc=5>
+- **特朗普** | 特朗普政府已退还1000亿美元关税，都给谁了？ <https://news.google.com/rss/articles/CBMiU0FVX3lxTE1xWHAxaHdGMXd6QWQ0VmpvMGZ1UTFIa2lnSmkzMEtROHN4ejdyZzBNbWJtTlBROVZ3S1k0QzctVVU3T0NWeTJReEZSUWVHMEFOdy1r?oc=5>
+- **特朗普** | 如何应对中国开源AI模型？特朗普政府内部争论升级 <https://news.google.com/rss/articles/CBMigwFBVV95cUxNUzk5Nzc2cGhfQUdfNUtfWFNHeng4Qkc1SWZvN0c2aEs4UFhWVUNyckVLYm9OUXFvMm5vU3FIRVFGSDR4d01OdTNwZ3VKNzRRWHZ3U3dlZ1lsVk5lVzVBZ2NhQThwQlVETG15QjFIbFotMWJlWEdTQno1UzJyLXdnRjd2cw?oc=5>
+- **Trump** | 特朗普称这是伊朗签署一项良好协议的“最后机会” <https://news.google.com/rss/articles/CBMimAFBVV95cUxQbTFfYW0tOExOeEpHR0dKbTU4WEVaZWxBczVoY2w1Nk1abU4yZTM1VGdGUmZacHhwLWxSZ1lQQjJIWHhwUGE3UVZwTVlPeE82aV93enRuYXF4NFM0OWR0MEpZRGtwM09kcDRIdFJPWjRVaDRvZ3ZfS2I4aUlVN190bWU4MDlpbEI2alhoUmw2UmYxSDJJVVZibw?oc=5>
 
 ### 2026-08-05 07:59  (13 条)
 
