@@ -1,78 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-06 12:52**
-- 本轮扫到 8839 条, 新增 **8** 条
+- 最近更新: **2026-08-06 15:09**
+- 本轮扫到 8843 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (4 条)
 
-### 蔡徐坤演唱会dancebreak官摄，长段高强度纯舞展示肌肉控制力
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimkskx2959239.html>
-
-### 特朗普“黄金舰队”造价或高达2750亿美元
+### 特朗普把沃什当作“外部顾问” 多次致电询问经济问题
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-08-06 08:38
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE5waTdDR0xXd2NQMHlJN0xjbmFSWEZCeE4zSFZHcmtsS044Y0hFUGc3dVlSVWZtS0JTdTZDMlBONC1nMzRLOVRfcGtaeHFQWHhEakVsajMtTVFJWXRyOWVNbDBPWnhnbUJRUnFqTVFmREZWUzNtOHpQSWFjRHlkNUU?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-06 13:30
+- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE5GQ3hVUEk3d0JUVEt1d2VpajFhRmRpbG1QQ01NU3R2cTctRkRsM3lnUDVZRmdJa0dlajhwWDdIdlhVMFhST3ZTNExwcHo4bkZ0UXFUeW01Z2ZFREFTNm80aU5fMmRhaDFDU2ZfT3JwRVM2TWYtb2JqSUxqUW9LUQ?oc=5>
+
+### 特朗普：愿与伊朗达成协议，我真的不想杀人！霍尔木兹海峡协议曝光：新航道为临时性质，预计可使用2至4个月；伊朗：协议与美国无关
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 每日经济新闻
+- 时间: 2026-08-06 01:45
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5xMnN1SkxrRVQzNzZPTGZ4cXZRQ2dhVTdya3l5R2VGZ1RPVFQydmhlMmhUQXhtV1p2cWRuWDBITjhzSmFnZVdhLUdLV085RTFFNzZKNWNzaGFyWXVqUnIwQlNFVk9Jdw?oc=5>
+
+### “特朗普当面质问赫格塞思”，白宫、五角大楼回应
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-08-06 02:17
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1OdTBvSU9rbm9NUmlpc2ROdWEtZHRaUWI2SWpVSk5EU1B5RmlheGpRMktrbTRCZmdNREFacm1PeGNScXNfNlBjSDVVM3pUR2xvSDBPX1Z0WWt2bUpTX2cxVzdfbTViV0xmajlqOWdmUGgxa1QzQ2p4cg?oc=5>
 
 ### 外媒：卡尼遇提词器故障，不忘调侃特朗普：“我不把它看作阴谋”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中国网新闻中心
-- 时间: 2026-08-06 06:45
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE5pMHFMenI2REFuMkU3WGtqZ0hmQTRVZG9oMjF0MTZMeVlHVFlSamlxNFpwb21Pbjk2ZXBvd3FEaU4yckhiR3ZmRjdCYnF4WTFrcVVOM0swaEdqTVJKanp6MHNpZ1VoSVdKU1NR?oc=5>
-
-### 特朗普所乘直升机遇飞行安全事件
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-08-06 06:51
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE1GeURUVDBWYmFVVTBYRkxudjM5dk1rczFVM1NnOW9aS0wtcFRKY0QxUjhubUZDeHV6VnZnd2hCVDV1WEZrcHpYSjNuVVljSXZGQWhWd0RoZjlFbGkwOUZqV1YzMHZzRmFoMFVwRU1BWXJxWjRvaUE?oc=5>
-
-### 特朗普阻止小男孩跑下舞台，称不想让他像拜登摔跤
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-06 02:07
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYlFTQ1BidFQwZ0RUdU1KTFBmQ21WUXN6QzlEcDYzSHZUU3FZMFBKb045WUZ6alFGaU9XdnEwTTFPNkEyYkZTZjBJREg1SjIzN0lXbm51aUZlUWw2LTJUWVY0NTlxcHY5VGt6X2JlWTJ0cmtFZ2luN2ZSNHJyc2Fpa0NwUFZUcGxERWFOTGp5UmFHVU40RHc4ZkdpQ05rTG1oZzl1c3dmU2RqLVZURzZxTGpMSEliRktTT3hVbVlCQ0x5MkZ2MlBzbjlFMlRuVGZU?oc=5>
-
-### 特朗普否认美国弹药短缺 扬言严惩“爆料者”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-08-06 07:47
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE5EU1V1ODByWlRaOGlXU01VWXFHNmVmTWprdkNiNFBUNDFRU3lHWjZOTmdOS1Z4blA1VnhIV1JsYmRFX3F5c2oxamdYLWRpWEVJUjZ5djN3MzJTS3FVWVhrbmptbGVGRC1xZ3lSaExSUTRUa05MWmI5dmFVOERBcXM?oc=5>
-
-### Trump claims US and Iran held day-long talks
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: idnfinancials.com
-- 时间: 2026-08-05 23:30
-- 链接: <https://news.google.com/rss/articles/CBMikgFBVV95cUxQUGtpZU0xV3N3dUZNbHJ2SmRXeWx3MEpINXhHUFdrcElpMlQtVVFScFNqS1ViRGktajg2SVdFYVZPeVNob1EtOFotZ0V6M2QzZmlWS181NWhNS0dLb3lDX1Z1Qi1jNG5zdHR1SzZTa0VvSnlxd1ZyNXpCTTZyNmxlQ2VTRkJPTEJDY1JwNmhTXzhIUQ?oc=5>
-
-### 特朗普级战舰计划将是美国史上造价最高军舰项目
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-08-06 10:06
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE4yd19SOFlfXzdZRmdrYVRTT3F1bkxKNGQ0OWMtVXhYWi1kRVFEMnNKYW5FYmtjZW9reE4wbGIwUDFvaFdiY0JhMTgtMEQ3S2h5V3VYYVZPNVF6U0hCSG9IMlR6QV9NamxSX1E?oc=5>
+- 时间: 2026-08-06 06:42
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1rNUtNNkVtSlhHeXg0TWZ3eDJNVzV2b2p6MnNXb25MTlRVWFhxZlBWdFMyMFR1ZVJPT1pPNHlHSExQR0FVaXlBaF8yaHFXTDg4bjRxX3NrVkNIRDBscGZoSnVKc3RuZ3Exd1NZZDV3eWhoN29wWHpUcg?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-06 15:09  (4 条)
+
+- **特朗普** | 特朗普把沃什当作“外部顾问” 多次致电询问经济问题 <https://news.google.com/rss/articles/CBMifkFVX3lxTE5GQ3hVUEk3d0JUVEt1d2VpajFhRmRpbG1QQ01NU3R2cTctRkRsM3lnUDVZRmdJa0dlajhwWDdIdlhVMFhST3ZTNExwcHo4bkZ0UXFUeW01Z2ZFREFTNm80aU5fMmRhaDFDU2ZfT3JwRVM2TWYtb2JqSUxqUW9LUQ?oc=5>
+- **特朗普** | 特朗普：愿与伊朗达成协议，我真的不想杀人！霍尔木兹海峡协议曝光：新航道为临时性质，预计可使用2至4个月；伊朗：协议与美国无关 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5xMnN1SkxrRVQzNzZPTGZ4cXZRQ2dhVTdya3l5R2VGZ1RPVFQydmhlMmhUQXhtV1p2cWRuWDBITjhzSmFnZVdhLUdLV085RTFFNzZKNWNzaGFyWXVqUnIwQlNFVk9Jdw?oc=5>
+- **特朗普** | “特朗普当面质问赫格塞思”，白宫、五角大楼回应 <https://news.google.com/rss/articles/CBMieEFVX3lxTE1OdTBvSU9rbm9NUmlpc2ROdWEtZHRaUWI2SWpVSk5EU1B5RmlheGpRMktrbTRCZmdNREFacm1PeGNScXNfNlBjSDVVM3pUR2xvSDBPX1Z0WWt2bUpTX2cxVzdfbTViV0xmajlqOWdmUGgxa1QzQ2p4cg?oc=5>
+- **特朗普** | 外媒：卡尼遇提词器故障，不忘调侃特朗普：“我不把它看作阴谋” <https://news.google.com/rss/articles/CBMieEFVX3lxTE1rNUtNNkVtSlhHeXg0TWZ3eDJNVzV2b2p6MnNXb25MTlRVWFhxZlBWdFMyMFR1ZVJPT1pPNHlHSExQR0FVaXlBaF8yaHFXTDg4bjRxX3NrVkNIRDBscGZoSnVKc3RuZ3Exd1NZZDV3eWhoN29wWHpUcg?oc=5>
 
 ### 2026-08-06 12:52  (8 条)
 
