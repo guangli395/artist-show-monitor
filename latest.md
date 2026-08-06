@@ -1,120 +1,149 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-06 05:20**
-- 本轮扫到 8806 条, 新增 **14** 条
+- 最近更新: **2026-08-06 07:59**
+- 本轮扫到 8822 条, 新增 **16** 条
 
 ---
 
-## 本轮新发现 (14 条)
+## 本轮新发现 (16 条)
 
-### 周杰伦南京站开票秒售罄未受影响周杰伦演唱会想看人数超350万
+### 蔡徐坤演唱会官摄高清片段，Hip-hop舞蹈卡点精准气场全开
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimkfvc3036435.html>
+
+### 蔡徐坤演唱会纯白未来风造型：冰雪机能装束打造冷冽赛博氛围感
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimkfvc2985807.html>
+
+### 周杰伦南京演唱会开票后秒售罄
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimivfi3162961.html>
+- 链接: <https://www.sina.cn/news/article/nimkfvc3080820.html>
 
-### 加价买周杰伦演唱会票被爽约新进展
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimivft0809856.html>
-
-### 杰威尔音乐发布声明：周杰伦相关网络传闻均属不实信息
+### 知名“狗仔”卓伟爆“三字天王私生子”引全网猜谜，周杰伦公司发布声明
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimivft0770576.html>
+- 链接: <https://www.sina.cn/news/article/nimkfvc3044813.html>
 
-### 周杰伦经纪公司发布声明
+### 周杰伦公司发布声明
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimivfi3085720.html>
+- 链接: <https://www.sina.cn/news/article/nimkfvc3020336.html>
 
-### 特朗普拦回跑向舞台幼童，打趣不想让他像拜登一样摔下台
+### 阿Ken说周杰伦大巨蛋演唱会让他串场这件事，是周杰伦临时跟他说的…
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-08-06 05:17
-- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxOalhxQnVXWndVa25CV3BSTV9kcnJ0Z3RfYTRraHRSUXBDRzh3aDN6d0RkRkhleVZEV0J0c0w3X0JaTVNWdGNKR0w1SlQ5UktzTko3aTdCTFFxbDlDRVRDQk1wMXdqRGNXSkotN3dIanJGOGVpeDZaU3BTOVFMd2xYTklNS013TGlTQnMwU3J5cUpqeVIzMHp3SG5QVzhGS3VtQkdTSWxGVzlfZUhiUndFVGhnR0dOQktRUXFmTldGRURlSUZpVHNWWmhndWl5QkNmNVJXdU5hVDRMTXM2cGc?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimkfvp0701328.html>
 
-### “与客机擦肩而过”，特朗普所乘直升机遭遇飞行安全事件
+### 周杰伦方回应“周杰伦与刘若雪有私生子”：相关网络传闻均属不实信息，已委托律师对相关不实信息的发布者及传播者进行证据保全
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-08-06 04:12
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE03bS1YcWYtS0Y2bW5RSTM2UXphM2dtb0VuMlBISGdSVXRUS29sdWhIOXFfM0VaSWwwdDE2Q2JPRy1lcWRYWjhLRlU4aE9WMGdYRlRtODdnbzJ5cFVkdDdTOC1WZFlDRWxZTHc?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimivfi3084134.html>
 
 ### 白宫否认特朗普与赫格塞思因弹药库存短缺发生争执
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 央视网
-- 时间: 2026-08-06 02:44
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9IaTVHXzdSaFRHMk9SODVoY1JrdlRmaG1IdDFpYXVveXAzVjBCZ1ptaUlLcks2Qmt6QlVvM2ZuTDc1aEREOVpFdXg5LWYtaFpscDVRMkZVT0F4Mk9aeGtjSnFnbV82UFgyZF9NQmVERnY2LTQ0QVdfNw?oc=5>
+- 场馆: china.zjol.com.cn
+- 时间: 2026-08-06 06:36
+- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTE1Lc29qUjE4bE94Y0NOemtrdmp1UDVFQWVmZ2FOa2dDSHZkM3V0dHFPWUlOSDNmWDFnU1ZjSE4tLVV1cGpfWHp3SGtDWmJYdldRWXBhWlRIVzdhTHQzTWxGci1sNVNsMllwNXpJR0xB?oc=5>
 
-### 美国国内掀起反AI中心浪潮，特朗普污蔑：中国背后捣鬼
+### 特朗普所乘直升机在华盛顿遭遇飞行安全事件，美国联邦航空局已启动调查
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-05 23:05
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBQQ2xlYmhLTDNfMURVTTlBYVQ0aFJvZEJsTHFtUEZzRWkxbmJxQ0hXeFBSRkwzQ08xbDcydlZxZkZISlY5OHJlMmVIRWM?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-05 15:21
+- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxNN0VSeHVHaWtrMnctWEx6cG16MmNnWkR0bkVCSnJKaU9Xc3JiY1Jia1BSVjZwa0U0VVF1SjJ1OTNrdVVXM1dVLWlsQUxGR2ZybG9wN2ZpMnRxWndRekU3eTZjMWZOaHljY3hTNEUzTEdTWS1vbmN3NjNBSFYxbDhsWVV3bU4ySlM4cUkw?oc=5>
+
+### 不足0.8英里！美媒爆料：因通信失误，特朗普所乘直升机与客机一度“丧失安全间隔”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 环球网
+- 时间: 2026-08-05 16:42
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTFBZbllGejlUOFNvMGdJOExrRTZzS0xGamRpMUpqTUtXVWxQenFYa1d0LUY5MDNhal9rRFNDdjZ0bV9uSng2X2xlSXhNSTAyRjExSUxERkZiSk0?oc=5>
 
 ### 卡尼不点名调侃特朗普
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: world.huanqiu.com
-- 时间: 2026-08-05 12:22
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTFBLdkplYTFMblNWUlg4OFlkM3ZUU3FIOXVxaUhITmhfd1ZYRGFLUkFsMTJ5NllWT2NyYldZZERTeXNVbWtRRjJoSkJ0VGs4T3BVcDhuMjNDLU0?oc=5>
+- 场馆: 中国网新闻中心
+- 时间: 2026-08-06 05:25
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE8zaktCVEFaZDkwNUJyMU1jRlNmOURWMHVTa213a0ZRd3cycFBvV0xvVVV0M2RLb0xfMzEzS2dwcEQtd25sc2RQZmpJNmMtV1FfeE1Pb3BETGYxampBZlJETy1uTzNrOUlNc0Fv?oc=5>
 
-### 加拿大总理卡尼支持度大幅领先对手 民众普遍支持强硬应对特朗普要挟
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-08-05 12:20
-- 链接: <https://news.google.com/rss/articles/CBMi1ANBVV95cUxNSTdZYjVJQlRmVy1HRGdwM2FhOGhOdVN1cUdfaHpPUnBVc3RjT1ljX2YwT2NIckI3N1lIWjJLQWYwQjhQRTJMY2FoVTNnb2pzcWpFNjN6QmdCV2hLaEVNclpXY2k5dXc2bTNXNVJEeHJ3djdIZjJfQnpvTnhZNkRPQzlWWXo1dXdRWnp0WTdDbFMyVngzSEUzeFpqdDBiQnp6WjZRY1lXcVJ3RGk3NzZFOTRUY21iLU9Pam9YQW1yZTcyTUplOFh1cjVwa3VBdUpzOW85bVJqOHVTUDJDM2pMODU5VGY5VndZTTBhaDA3VFdRbFNXb3lsSDYwSkwtaDdHVWVEUUJ0dzlpRGoxVFEzWTA2YjVNVGFPN1B1ejRUQk1lZER3WXZjTVVLR2ZCazBoV21PdURBQjlMTENLM1FKOGprLTVkV1lKV2lQSnE3V2FNTEh0NDRfaVZKVl9kTEp4VjVPdVVBVTdFNGFrSEtaTXVBcUcyYWNLQjFVcFBWRjZWZGZhSWV1LXhZaXo1MUhfTU5qY1BLRkJlTXRBcWcwVVYyNEs4S3FrMlhleVZ2enJCOVNveWlXdmhVMU5DaERBMllPZlJNX2hqOWhJTndVQ1RtYlA?oc=5>
-
-### 华盛顿的剧本，失控了
+### 特朗普政府退还1000亿美元“解放日”关税
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-08-05 02:11
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1FQWdXUzBNOTF5QnFEZ1FLRUhzTE1Fa0xsVXg4TFlvNFN6bHNwRjVjb2hhbndVdGwzUXo3RzdEOEpZRjBrWjZZTWhydS14cFNvZm1kMEtqTS04WjRtRUI2UDdqRXo4NlFDSk1ORkp0REFWOGg0dzlRMA?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-05 20:30
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxOa0lFTndwVkprVmNNUnhmc1NhbWZUejNWWTRCckhZVHJkVWNiWWFGVFVqdjY5WUJ4dTYyUmdILVUydmFBUmdHRFlSWVZkZXNRVTR5czJPQmdYcnUzMGI3VjVyOEo5U1BVWktrMWphOHhSQ2xfVElxTjBvU1k3d3k1RUFXb0ZyZ1ZtdXdSUHpvWTFsV2VwM20xV0F2RUxwQWFDMlkyZmtkMHVZWkxEcUxTSjV3WWxxbHRWLVI1T0IyY09fbUd5LXZOQWtPa0Z3OTktejRPQldkazFaN1IwS1pV?oc=5>
 
-### 一名武装男子在特朗普将出席活动的加州球场被捕
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-08-05 01:03
-- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE1NMjNZbEFRNGVxZGl2ZTA3NUpEUi1sb2VOVlhCZ3R6NE83UzhoSU1UZTNBUWZpczN5MHJkdTJOc3BwdkNncG1fMkd1MEFrQW5Dd2YxNjZvZDJ0a3gwNXhEcTg0YUxjaGNLeGRtM2xMNHlDejZpSk9Od3psQXJPUQ?oc=5>
-
-### 特朗普三天两头找沃什聊，美联储那道“防火墙”还守得住吗？
+### 特朗普政府已退还1000亿美元关税，都给谁了？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-08-06 03:36
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE55dVFpSHRhdUZLaW1Db09uTnFXYlFuRThTQzdjeXZtYmNLc3hlaHhlc0REYWU0UmloOGEzSDVKakZGOGJzZDNMS3VJOWljR05XLWFQNDlTNFVIZEt2S0J3ZFRJZjlWR2szUmc?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-08-05 09:57
+- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pM3hOYlh1M1VEQ25hbTVCdGpVXzd6S2l3YXJUVURuc0xEU3ZrOUE3bjdFNE5LTF9Mc1ZNOWJJWml4dEJKWjBoZ2JPenlsektu?oc=5>
 
-### 特朗普在沃什就任美联储主席后频繁与他通话
+### 特朗普补刀拜登 特朗普称不想让孩子像拜登那样摔下台
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-08-06 07:16
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1lbnhqOXJMc1RLMkxvVWxuNS1YcE9lR2w3R3ctd25HZUlIRkp4cGhhOFVkYmRPRFIxLXlycEZxWjJmcTVrZ2s4YVI4dFB2RkwtdVgtTU5XTWNDZmFwMXZoMGFrT210OUlIalVlRlB2TFU?oc=5>
+
+### 美媒爆料特朗普当面要求美防长解释“弹药库存极度短缺”，白宫、五角大楼迅速否认
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 环球网
+- 时间: 2026-08-05 11:46
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE5BYWhWZ3A2dDMxaWRTY0hPR2kzOTZxTXRCY05tSGNXVmZrbl8yOUZ1N2g2YmxXYm5icU5STzFVZkt3dXk5WWRMNmN5ZXBsamtaaUZIQU5hVGE?oc=5>
+
+### 从舞台边缘牵回幼童 特朗普：不想他像拜登一样摔下去
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-08-06 03:07
-- 链接: <https://news.google.com/rss/articles/CBMivgJBVV95cUxQYndnWnVvdzVYSklqZ1gwS0QwQWptaGFGVFZFVTYzTml4WTNhbndXa055WExOWXdfMDdfT3lvWkY0VEd5akNoVlpMQWJicFFoLV9YYzVkSlh2dXo1aXBVV0Frb3paTlJJSG93eTBPNEJuWU5lRlBVZFV4aWFGQXBkOVNkbFdNQWI5czRSMWpEUFg0ODFOQXZsSWNZR2ZjdXRIbnlTcmFyYjA0cDVEYm5CdlhjSGJjRU92Rlc2LWVlUy1UeEdaQ0t0aEZNZjkwTW9wSEZzWkFWMjRtR2xVZ2JnbVZPaEg4U1RfTmpCdy1veFBKTVZJODNPV01uQWo1bVVQYUNhcmFQdFBHcWZXVWk1TlZpQTNubmNpdFp1VUtCOHJMQXcxT3pLbXRRVEs1YjNORXp5bUNzdThFVXgza3c?oc=5>
+- 场馆: 8world.com
+- 时间: 2026-08-06 06:55
+- 链接: <https://news.google.com/rss/articles/CBMilgFBVV95cUxQaS1KN3pUTXpqV3VNaDZJXzNoVWlkWUViSEo3dWYxa3pFYm9qQnpFM3dPOWVINXBncG1KUFVrRWlMMVhYQkhvZEktSURVVkdDMDNPVFpIVWVMX0tXWmZkcS1EZGFGYnBteTZzMVRIOWVweWpRZ043eTZqdk16UjZRMDJoMm5pY29LSm13RURpWm9ERnRpRVE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-06 07:59  (16 条)
+
+- **蔡徐坤** | 蔡徐坤演唱会官摄高清片段，Hip-hop舞蹈卡点精准气场全开 <https://www.sina.cn/news/article/nimkfvc3036435.html>
+- **蔡徐坤** | 蔡徐坤演唱会纯白未来风造型：冰雪机能装束打造冷冽赛博氛围感 <https://www.sina.cn/news/article/nimkfvc2985807.html>
+- **周杰伦** | 周杰伦南京演唱会开票后秒售罄 <https://www.sina.cn/news/article/nimkfvc3080820.html>
+- **周杰伦** | 知名“狗仔”卓伟爆“三字天王私生子”引全网猜谜，周杰伦公司发布声明 <https://www.sina.cn/news/article/nimkfvc3044813.html>
+- **周杰伦** | 周杰伦公司发布声明 <https://www.sina.cn/news/article/nimkfvc3020336.html>
+- **周杰伦** | 阿Ken说周杰伦大巨蛋演唱会让他串场这件事，是周杰伦临时跟他说的… <https://www.sina.cn/news/article/nimkfvp0701328.html>
+- **周杰伦** | 周杰伦方回应“周杰伦与刘若雪有私生子”：相关网络传闻均属不实信息，已委托律师对相关不实信息的发布者及传播者进行证据保全 <https://www.sina.cn/news/article/nimivfi3084134.html>
+- **特朗普** | 白宫否认特朗普与赫格塞思因弹药库存短缺发生争执 <https://news.google.com/rss/articles/CBMibkFVX3lxTE1Lc29qUjE4bE94Y0NOemtrdmp1UDVFQWVmZ2FOa2dDSHZkM3V0dHFPWUlOSDNmWDFnU1ZjSE4tLVV1cGpfWHp3SGtDWmJYdldRWXBhWlRIVzdhTHQzTWxGci1sNVNsMllwNXpJR0xB?oc=5>
+- **特朗普** | 特朗普所乘直升机在华盛顿遭遇飞行安全事件，美国联邦航空局已启动调查 <https://news.google.com/rss/articles/CBMiiwFBVV95cUxNN0VSeHVHaWtrMnctWEx6cG16MmNnWkR0bkVCSnJKaU9Xc3JiY1Jia1BSVjZwa0U0VVF1SjJ1OTNrdVVXM1dVLWlsQUxGR2ZybG9wN2ZpMnRxWndRekU3eTZjMWZOaHljY3hTNEUzTEdTWS1vbmN3NjNBSFYxbDhsWVV3bU4ySlM4cUkw?oc=5>
+- **特朗普** | 不足0.8英里！美媒爆料：因通信失误，特朗普所乘直升机与客机一度“丧失安全间隔” <https://news.google.com/rss/articles/CBMiWEFVX3lxTFBZbllGejlUOFNvMGdJOExrRTZzS0xGamRpMUpqTUtXVWxQenFYa1d0LUY5MDNhal9rRFNDdjZ0bV9uSng2X2xlSXhNSTAyRjExSUxERkZiSk0?oc=5>
+- **特朗普** | 卡尼不点名调侃特朗普 <https://news.google.com/rss/articles/CBMia0FVX3lxTE8zaktCVEFaZDkwNUJyMU1jRlNmOURWMHVTa213a0ZRd3cycFBvV0xvVVV0M2RLb0xfMzEzS2dwcEQtd25sc2RQZmpJNmMtV1FfeE1Pb3BETGYxampBZlJETy1uTzNrOUlNc0Fv?oc=5>
+- **特朗普** | 特朗普政府退还1000亿美元“解放日”关税 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxOa0lFTndwVkprVmNNUnhmc1NhbWZUejNWWTRCckhZVHJkVWNiWWFGVFVqdjY5WUJ4dTYyUmdILVUydmFBUmdHRFlSWVZkZXNRVTR5czJPQmdYcnUzMGI3VjVyOEo5U1BVWktrMWphOHhSQ2xfVElxTjBvU1k3d3k1RUFXb0ZyZ1ZtdXdSUHpvWTFsV2VwM20xV0F2RUxwQWFDMlkyZmtkMHVZWkxEcUxTSjV3WWxxbHRWLVI1T0IyY09fbUd5LXZOQWtPa0Z3OTktejRPQldkazFaN1IwS1pV?oc=5>
+- **特朗普** | 特朗普政府已退还1000亿美元关税，都给谁了？ <https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pM3hOYlh1M1VEQ25hbTVCdGpVXzd6S2l3YXJUVURuc0xEU3ZrOUE3bjdFNE5LTF9Mc1ZNOWJJWml4dEJKWjBoZ2JPenlsektu?oc=5>
+- **特朗普** | 特朗普补刀拜登 特朗普称不想让孩子像拜登那样摔下台 <https://news.google.com/rss/articles/CBMicEFVX3lxTE1lbnhqOXJMc1RLMkxvVWxuNS1YcE9lR2w3R3ctd25HZUlIRkp4cGhhOFVkYmRPRFIxLXlycEZxWjJmcTVrZ2s4YVI4dFB2RkwtdVgtTU5XTWNDZmFwMXZoMGFrT210OUlIalVlRlB2TFU?oc=5>
+- **特朗普** | 美媒爆料特朗普当面要求美防长解释“弹药库存极度短缺”，白宫、五角大楼迅速否认 <https://news.google.com/rss/articles/CBMiWEFVX3lxTE5BYWhWZ3A2dDMxaWRTY0hPR2kzOTZxTXRCY05tSGNXVmZrbl8yOUZ1N2g2YmxXYm5icU5STzFVZkt3dXk5WWRMNmN5ZXBsamtaaUZIQU5hVGE?oc=5>
+- **Trump** | 从舞台边缘牵回幼童 特朗普：不想他像拜登一样摔下去 <https://news.google.com/rss/articles/CBMilgFBVV95cUxQaS1KN3pUTXpqV3VNaDZJXzNoVWlkWUViSEo3dWYxa3pFYm9qQnpFM3dPOWVINXBncG1KUFVrRWlMMVhYQkhvZEktSURVVkdDMDNPVFpIVWVMX0tXWmZkcS1EZGFGYnBteTZzMVRIOWVweWpRZ043eTZqdk16UjZRMDJoMm5pY29LSm13RURpWm9ERnRpRVE?oc=5>
 
 ### 2026-08-06 05:20  (14 条)
 
