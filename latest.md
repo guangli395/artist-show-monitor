@@ -1,24 +1,115 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-05 23:54**
-- 本轮扫到 8780 条, 新增 **1** 条
+- 最近更新: **2026-08-06 01:58**
+- 本轮扫到 8792 条, 新增 **12** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮新发现 (12 条)
 
-### 特朗普政府退还1000亿美元“解放日”关税
+### 蔡徐坤巡演澳门站全程全开麦口碑大逆转
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimiqxm3123456.html>
+
+### 周杰伦公司发布声明：相关网络传闻均属不实信息，纯属恶意造谣
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimivft0762156.html>
+
+### 周杰伦方回应“周杰伦与刘若雪有私生子”：相关网络传闻均属不实信息，已委托律师对发布者及传播者进行证据保全
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimivfi3051768.html>
+
+### 周杰伦方回应“周杰伦与刘若雪有私生子”：相关网络传闻均属不实信息，已委托律师对相关不实信息的发布者及传播者进行证据保全
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimivfm4649958.html>
+
+### 周杰伦公司发布声明
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimivfm4638870.html>
+
+### “周杰伦与刘若雪有私生子”，周杰伦经纪公司发布声明：相关网络传闻均属不实信息，纯属恶意造谣
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimiqxv0850341.html>
+
+### 美国国内掀起反AI中心浪潮，特朗普污蔑：中国背后捣鬼
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-05 20:30
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxObVBTMkktQXphZGZCNnNJR1BwdVEwUTNBeF9uT2EzTlpfT0Q2NjNIR3R1M0lpcnF3dy16SEJxNGJhRWlPYTJ5SWVsZU9XNHR3VXNVOEh5ODZJazRoNXlZQ1g2SjZuS3Jocm05MW8zNTc4QVBwMjdtaWVmX1REcldpVXUxZ2NhMmM?oc=5>
+- 场馆: 观察者
+- 时间: 2026-08-05 23:05
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBqUjJHN0RyNU5tMFFrelpaaG1kel83ZHpvQmdFTHRkRjZxRDd4Q0Q2TjZWS042anhXNTFXbmRWa0tDSUJubEdxckxBUjhvWDhfUjdMeGV5MEN4MzlYV2trZUk0WFVYdnN6TFE?oc=5>
+
+### 华盛顿的剧本，失控了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-08-04 23:52
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5iMEdKRlNhaFh6NTJwWW5rdm4wUEJaX29ySW1TX3pzUXctZE4yYzBfa2Z3SU1WMVNRM0RfMlhPdDdZeEJwcG11di1YNjd0cU53VDJvcGVBRTRHRk9wMHJQWUtlS040RUtScjhQcDAxbmQ?oc=5>
+
+### 特朗普敦促美参议院通过全年采用夏令时法案
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 央视网
+- 时间: 2026-08-05 06:05
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9qZkRuZy1RaElvcUw4b1BtenVsYkprN0NoSkZoU0dXRHhDNDRKc1QtdW96N3BLRjhLR1RKQVprQW11VlE0eTFMVmVSM00xNGZtOUFBS3lDMjZLdzJfeDl4YUVZcXh4b0tqNXpMSGJ3aGpNZjJKdGFqMA?oc=5>
+
+### 特朗普所乘直升机遭遇飞行安全事件
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-08-05 12:38
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1VYXhXZXQ0eURkV0NSWGdWWlBxMGdFZWh3LTlrYmxUcnN5bzBPdXZrb20wOW5na05feXA1cmxaNGJ3V2RwcndXWmdyeTI?oc=5>
+
+### 特朗普回应多次遇“暗杀企图” 凸显自身重要性
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-08-06 00:41
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9oUDN0eEdMWUMtazlIdnNOaUx1a3VuMS1GSUdWZVpRU2E3VFBkcmNPWjFPS2RaNDRMTERpRW8zdzZ6S3BsaDkya05kV0FjM2JZSlRxQVlPcjRIRndJX2VpREowVE5CUktnU005MXVpd3Q?oc=5>
+
+### 卡尼嘲讽特朗普：我不会把提词器故障当成“阴谋”-观察者网
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-08-05 23:25
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE14LVZ1d0Z3cnVKR0R2Q21rQWpVZUNROFlfTFhCNnhGWVk3TXhmbmN1OVFfLVhVQlFPd0E4SG9JX09jZFh6dm9LOHY0ZEJnb3hxVE1xM0JyS0ZjMUluaUsxYkh2NXZfdnplM3c?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-06 01:58  (12 条)
+
+- **蔡徐坤** | 蔡徐坤巡演澳门站全程全开麦口碑大逆转 <https://www.sina.cn/news/article/nimiqxm3123456.html>
+- **周杰伦** | 周杰伦公司发布声明：相关网络传闻均属不实信息，纯属恶意造谣 <https://www.sina.cn/news/article/nimivft0762156.html>
+- **周杰伦** | 周杰伦方回应“周杰伦与刘若雪有私生子”：相关网络传闻均属不实信息，已委托律师对发布者及传播者进行证据保全 <https://www.sina.cn/news/article/nimivfi3051768.html>
+- **周杰伦** | 周杰伦方回应“周杰伦与刘若雪有私生子”：相关网络传闻均属不实信息，已委托律师对相关不实信息的发布者及传播者进行证据保全 <https://www.sina.cn/news/article/nimivfm4649958.html>
+- **周杰伦** | 周杰伦公司发布声明 <https://www.sina.cn/news/article/nimivfm4638870.html>
+- **周杰伦** | “周杰伦与刘若雪有私生子”，周杰伦经纪公司发布声明：相关网络传闻均属不实信息，纯属恶意造谣 <https://www.sina.cn/news/article/nimiqxv0850341.html>
+- **特朗普** | 美国国内掀起反AI中心浪潮，特朗普污蔑：中国背后捣鬼 <https://news.google.com/rss/articles/CBMiakFVX3lxTFBqUjJHN0RyNU5tMFFrelpaaG1kel83ZHpvQmdFTHRkRjZxRDd4Q0Q2TjZWS042anhXNTFXbmRWa0tDSUJubEdxckxBUjhvWDhfUjdMeGV5MEN4MzlYV2trZUk0WFVYdnN6TFE?oc=5>
+- **特朗普** | 华盛顿的剧本，失控了 <https://news.google.com/rss/articles/CBMicEFVX3lxTE5iMEdKRlNhaFh6NTJwWW5rdm4wUEJaX29ySW1TX3pzUXctZE4yYzBfa2Z3SU1WMVNRM0RfMlhPdDdZeEJwcG11di1YNjd0cU53VDJvcGVBRTRHRk9wMHJQWUtlS040RUtScjhQcDAxbmQ?oc=5>
+- **特朗普** | 特朗普敦促美参议院通过全年采用夏令时法案 <https://news.google.com/rss/articles/CBMieEFVX3lxTE9qZkRuZy1RaElvcUw4b1BtenVsYkprN0NoSkZoU0dXRHhDNDRKc1QtdW96N3BLRjhLR1RKQVprQW11VlE0eTFMVmVSM00xNGZtOUFBS3lDMjZLdzJfeDl4YUVZcXh4b0tqNXpMSGJ3aGpNZjJKdGFqMA?oc=5>
+- **特朗普** | 特朗普所乘直升机遭遇飞行安全事件 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1VYXhXZXQ0eURkV0NSWGdWWlBxMGdFZWh3LTlrYmxUcnN5bzBPdXZrb20wOW5na05feXA1cmxaNGJ3V2RwcndXWmdyeTI?oc=5>
+- **特朗普** | 特朗普回应多次遇“暗杀企图” 凸显自身重要性 <https://news.google.com/rss/articles/CBMicEFVX3lxTE9oUDN0eEdMWUMtazlIdnNOaUx1a3VuMS1GSUdWZVpRU2E3VFBkcmNPWjFPS2RaNDRMTERpRW8zdzZ6S3BsaDkya05kV0FjM2JZSlRxQVlPcjRIRndJX2VpREowVE5CUktnU005MXVpd3Q?oc=5>
+- **特朗普** | 卡尼嘲讽特朗普：我不会把提词器故障当成“阴谋”-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE14LVZ1d0Z3cnVKR0R2Q21rQWpVZUNROFlfTFhCNnhGWVk3TXhmbmN1OVFfLVhVQlFPd0E4SG9JX09jZFh6dm9LOHY0ZEJnb3hxVE1xM0JyS0ZjMUluaUsxYkh2NXZfdnplM3c?oc=5>
 
 ### 2026-08-05 23:54  (1 条)
 
