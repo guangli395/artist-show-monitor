@@ -1,130 +1,96 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-06 07:59**
-- 本轮扫到 8822 条, 新增 **16** 条
+- 最近更新: **2026-08-06 10:43**
+- 本轮扫到 8831 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (16 条)
+## 本轮新发现 (9 条)
 
-### 蔡徐坤演唱会官摄高清片段，Hip-hop舞蹈卡点精准气场全开
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimkfvc3036435.html>
-
-### 蔡徐坤演唱会纯白未来风造型：冰雪机能装束打造冷冽赛博氛围感
+### 蔡徐坤演唱会戴小猫耳朵，与粉丝双向奔赴
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimkfvc2985807.html>
+- 链接: <https://www.sina.cn/news/article/nimkncc4616548.html>
 
-### 周杰伦南京演唱会开票后秒售罄
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimkfvc3080820.html>
-
-### 知名“狗仔”卓伟爆“三字天王私生子”引全网猜谜，周杰伦公司发布声明
+### 广州一大批演唱会即将开唱
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimkfvc3044813.html>
+- 链接: <https://www.sina.cn/news/article/nimknaz3052548.html>
 
-### 周杰伦公司发布声明
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimkfvc3020336.html>
-
-### 阿Ken说周杰伦大巨蛋演唱会让他串场这件事，是周杰伦临时跟他说的…
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimkfvp0701328.html>
-
-### 周杰伦方回应“周杰伦与刘若雪有私生子”：相关网络传闻均属不实信息，已委托律师对相关不实信息的发布者及传播者进行证据保全
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimivfi3084134.html>
-
-### 白宫否认特朗普与赫格塞思因弹药库存短缺发生争执
+### 特朗普“黄金舰队”造价或高达2750亿美元
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: china.zjol.com.cn
-- 时间: 2026-08-06 06:36
-- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTE1Lc29qUjE4bE94Y0NOemtrdmp1UDVFQWVmZ2FOa2dDSHZkM3V0dHFPWUlOSDNmWDFnU1ZjSE4tLVV1cGpfWHp3SGtDWmJYdldRWXBhWlRIVzdhTHQzTWxGci1sNVNsMllwNXpJR0xB?oc=5>
+- 场馆: 央视网
+- 时间: 2026-08-06 09:07
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFB0LVBZTHFZd25KV0N4VGVaYnFMbnJNS3ozaDYtUk1Bcjl2cVNBUlB4Wjc1aENJek5ZVUNuRU9Hdmw3U1hvZTAycm1zR1pWVF9FRlJoSzE1VUhkVkdsNTBHWC1pV0dtVDB4OE52YTBxX050UDJUM3pISA?oc=5>
 
-### 特朗普所乘直升机在华盛顿遭遇飞行安全事件，美国联邦航空局已启动调查
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-05 15:21
-- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxNN0VSeHVHaWtrMnctWEx6cG16MmNnWkR0bkVCSnJKaU9Xc3JiY1Jia1BSVjZwa0U0VVF1SjJ1OTNrdVVXM1dVLWlsQUxGR2ZybG9wN2ZpMnRxWndRekU3eTZjMWZOaHljY3hTNEUzTEdTWS1vbmN3NjNBSFYxbDhsWVV3bU4ySlM4cUkw?oc=5>
-
-### 不足0.8英里！美媒爆料：因通信失误，特朗普所乘直升机与客机一度“丧失安全间隔”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 环球网
-- 时间: 2026-08-05 16:42
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTFBZbllGejlUOFNvMGdJOExrRTZzS0xGamRpMUpqTUtXVWxQenFYa1d0LUY5MDNhal9rRFNDdjZ0bV9uSng2X2xlSXhNSTAyRjExSUxERkZiSk0?oc=5>
-
-### 卡尼不点名调侃特朗普
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中国网新闻中心
-- 时间: 2026-08-06 05:25
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE8zaktCVEFaZDkwNUJyMU1jRlNmOURWMHVTa213a0ZRd3cycFBvV0xvVVV0M2RLb0xfMzEzS2dwcEQtd25sc2RQZmpJNmMtV1FfeE1Pb3BETGYxampBZlJETy1uTzNrOUlNc0Fv?oc=5>
-
-### 特朗普政府退还1000亿美元“解放日”关税
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-05 20:30
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxOa0lFTndwVkprVmNNUnhmc1NhbWZUejNWWTRCckhZVHJkVWNiWWFGVFVqdjY5WUJ4dTYyUmdILVUydmFBUmdHRFlSWVZkZXNRVTR5czJPQmdYcnUzMGI3VjVyOEo5U1BVWktrMWphOHhSQ2xfVElxTjBvU1k3d3k1RUFXb0ZyZ1ZtdXdSUHpvWTFsV2VwM20xV0F2RUxwQWFDMlkyZmtkMHVZWkxEcUxTSjV3WWxxbHRWLVI1T0IyY09fbUd5LXZOQWtPa0Z3OTktejRPQldkazFaN1IwS1pV?oc=5>
-
-### 特朗普政府已退还1000亿美元关税，都给谁了？
+### 特朗普称即将达成霍尔木兹海峡协议，伊朗获更大控制权？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-08-05 09:57
-- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pM3hOYlh1M1VEQ25hbTVCdGpVXzd6S2l3YXJUVURuc0xEU3ZrOUE3bjdFNE5LTF9Mc1ZNOWJJWml4dEJKWjBoZ2JPenlsektu?oc=5>
+- 时间: 2026-08-05 12:52
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFA5WGV5UFZnRDlxT0IwM0E2Y3NFdEJPVGhEYnZtdG9xa2V3ZkN3VU5NaWtXb0p4ZGVZOVpEYkF2Nm9CU3A2YWxuNEJXS0M?oc=5>
 
-### 特朗普补刀拜登 特朗普称不想让孩子像拜登那样摔下台
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-08-06 07:16
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1lbnhqOXJMc1RLMkxvVWxuNS1YcE9lR2w3R3ctd25HZUlIRkp4cGhhOFVkYmRPRFIxLXlycEZxWjJmcTVrZ2s4YVI4dFB2RkwtdVgtTU5XTWNDZmFwMXZoMGFrT210OUlIalVlRlB2TFU?oc=5>
-
-### 美媒爆料特朗普当面要求美防长解释“弹药库存极度短缺”，白宫、五角大楼迅速否认
+### 特朗普与卡塔尔埃米尔通电话 官员对美伊达成临时协议表示乐观
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 环球网
-- 时间: 2026-08-05 11:46
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE5BYWhWZ3A2dDMxaWRTY0hPR2kzOTZxTXRCY05tSGNXVmZrbl8yOUZ1N2g2YmxXYm5icU5STzFVZkt3dXk5WWRMNmN5ZXBsamtaaUZIQU5hVGE?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-04 22:19
+- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE1PRVVrQlBLVHNkOUxoREVwTmRGQUV1MWtJYVFueGZhTF9ZN25OeVlYUkdlb1FGNTFTZXpFV3BOQXA4VkxLUEQ5RHlBSUE0VWcyQXRmQ2Y3TG4tV3NtT2o1SzMyVmt2MlJUcEc0c2VkSkk2NWRjQmNLWWxR?oc=5>
 
-### 从舞台边缘牵回幼童 特朗普：不想他像拜登一样摔下去
+### 卡尼借提词器故障调侃特朗普：我不会把它看作一场阴谋
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 8world.com
-- 时间: 2026-08-06 06:55
-- 链接: <https://news.google.com/rss/articles/CBMilgFBVV95cUxQaS1KN3pUTXpqV3VNaDZJXzNoVWlkWUViSEo3dWYxa3pFYm9qQnpFM3dPOWVINXBncG1KUFVrRWlMMVhYQkhvZEktSURVVkdDMDNPVFpIVWVMX0tXWmZkcS1EZGFGYnBteTZzMVRIOWVweWpRZ043eTZqdk16UjZRMDJoMm5pY29LSm13RURpWm9ERnRpRVE?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-06 03:19
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9FOUh6VWc3a3BMNTJUYUpqMFpzNXlES3Fsdm91MU5QSGFSUXpQN0JhZEpzZWtEMDB3dGpxQlNJa1c4UGpjSFNjSGdJeDh0Slg5a0ZTY1JJWnFiR21oRUxmMXAzRFhnbFd0RkF0Q0NQTU5FUlRkWnpoUg?oc=5>
+
+### 美监管部门调查涉特朗普所乘直升机的飞行安全事件
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-08-06 08:20
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1qMC1wc3JFeEh4bHh3SG9hSkg3b05nRkxjNGlWOHhjY0txR0RlV0hRWEdqRUIwRkhTMTc3MkQxOUdaWXVVLUx1Z2RLcnZwN0RYNDNqSmpDMHhzQ0tlVGZFM20tajd1R0dtRlpWcTJReDNGNnVud0dDUXQyVUJRQjA?oc=5>
+
+### 华盛顿的剧本，失控了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-08-05 00:22
+- 链接: <https://news.google.com/rss/articles/CBMikAJBVV95cUxNQkd3dGhDVWRDbVo3MkFCQmNzdFRFWUJZdzkxMzRLdjVSNG1odEdocDllVWNVcGFrNzd2OFlfZVJMTkFta2ZfMm8xUERJOEpjZFNNUU5yRFB1dXlMUl8xSTFqNndRWGY5N1owZ280Tk14SVBEQVl5UkkzNDJMZktDcjQ1Ymh1MzFWR0k5eFRqakZaZjkwbjc5OE1WcEJTS3BiQ18zcWFCT2pLOVAxRlZ6enpVOV9DUXNNeUNvOHkxUmRPRUEzLTB0WGRZcVBnT1FneDJpVmtBTFJPTGprQXBCeU5kYlF1VGhmbncyMTFoekZ4NXN4eWxBdkUzWmtlS0tsS05ZcHowUmREbzRUTTdKXw?oc=5>
+
+### 涉台问题，特朗普的教训还没吃够
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-08-06 02:59
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9yUWNzVnpkX3Q3T1BjNU1pazlxQmJiRm9xMnZzcjl1ZjBPZTJFUUlUZkhKc3JYNXh4TmhIMmVqMG1uNHhnTmFfNDdGTU8?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-06 10:43  (9 条)
+
+- **蔡徐坤** | 蔡徐坤演唱会戴小猫耳朵，与粉丝双向奔赴 <https://www.sina.cn/news/article/nimkncc4616548.html>
+- **周杰伦** | 广州一大批演唱会即将开唱 <https://www.sina.cn/news/article/nimknaz3052548.html>
+- **特朗普** | 特朗普“黄金舰队”造价或高达2750亿美元 <https://news.google.com/rss/articles/CBMieEFVX3lxTFB0LVBZTHFZd25KV0N4VGVaYnFMbnJNS3ozaDYtUk1Bcjl2cVNBUlB4Wjc1aENJek5ZVUNuRU9Hdmw3U1hvZTAycm1zR1pWVF9FRlJoSzE1VUhkVkdsNTBHWC1pV0dtVDB4OE52YTBxX050UDJUM3pISA?oc=5>
+- **特朗普** | 特朗普称即将达成霍尔木兹海峡协议，伊朗获更大控制权？ <https://news.google.com/rss/articles/CBMiTEFVX3lxTFA5WGV5UFZnRDlxT0IwM0E2Y3NFdEJPVGhEYnZtdG9xa2V3ZkN3VU5NaWtXb0p4ZGVZOVpEYkF2Nm9CU3A2YWxuNEJXS0M?oc=5>
+- **特朗普** | 特朗普与卡塔尔埃米尔通电话 官员对美伊达成临时协议表示乐观 <https://news.google.com/rss/articles/CBMiekFVX3lxTE1PRVVrQlBLVHNkOUxoREVwTmRGQUV1MWtJYVFueGZhTF9ZN25OeVlYUkdlb1FGNTFTZXpFV3BOQXA4VkxLUEQ5RHlBSUE0VWcyQXRmQ2Y3TG4tV3NtT2o1SzMyVmt2MlJUcEc0c2VkSkk2NWRjQmNLWWxR?oc=5>
+- **特朗普** | 卡尼借提词器故障调侃特朗普：我不会把它看作一场阴谋 <https://news.google.com/rss/articles/CBMieEFVX3lxTE9FOUh6VWc3a3BMNTJUYUpqMFpzNXlES3Fsdm91MU5QSGFSUXpQN0JhZEpzZWtEMDB3dGpxQlNJa1c4UGpjSFNjSGdJeDh0Slg5a0ZTY1JJWnFiR21oRUxmMXAzRFhnbFd0RkF0Q0NQTU5FUlRkWnpoUg?oc=5>
+- **特朗普** | 美监管部门调查涉特朗普所乘直升机的飞行安全事件 <https://news.google.com/rss/articles/CBMif0FVX3lxTE1qMC1wc3JFeEh4bHh3SG9hSkg3b05nRkxjNGlWOHhjY0txR0RlV0hRWEdqRUIwRkhTMTc3MkQxOUdaWXVVLUx1Z2RLcnZwN0RYNDNqSmpDMHhzQ0tlVGZFM20tajd1R0dtRlpWcTJReDNGNnVud0dDUXQyVUJRQjA?oc=5>
+- **特朗普** | 华盛顿的剧本，失控了 <https://news.google.com/rss/articles/CBMikAJBVV95cUxNQkd3dGhDVWRDbVo3MkFCQmNzdFRFWUJZdzkxMzRLdjVSNG1odEdocDllVWNVcGFrNzd2OFlfZVJMTkFta2ZfMm8xUERJOEpjZFNNUU5yRFB1dXlMUl8xSTFqNndRWGY5N1owZ280Tk14SVBEQVl5UkkzNDJMZktDcjQ1Ymh1MzFWR0k5eFRqakZaZjkwbjc5OE1WcEJTS3BiQ18zcWFCT2pLOVAxRlZ6enpVOV9DUXNNeUNvOHkxUmRPRUEzLTB0WGRZcVBnT1FneDJpVmtBTFJPTGprQXBCeU5kYlF1VGhmbncyMTFoekZ4NXN4eWxBdkUzWmtlS0tsS05ZcHowUmREbzRUTTdKXw?oc=5>
+- **特朗普** | 涉台问题，特朗普的教训还没吃够 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9yUWNzVnpkX3Q3T1BjNU1pazlxQmJiRm9xMnZzcjl1ZjBPZTJFUUlUZkhKc3JYNXh4TmhIMmVqMG1uNHhnTmFfNDdGTU8?oc=5>
 
 ### 2026-08-06 07:59  (16 条)
 
