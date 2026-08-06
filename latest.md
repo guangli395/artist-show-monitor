@@ -1,100 +1,137 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-06 01:58**
-- 本轮扫到 8792 条, 新增 **12** 条
+- 最近更新: **2026-08-06 05:20**
+- 本轮扫到 8806 条, 新增 **14** 条
 
 ---
 
-## 本轮新发现 (12 条)
+## 本轮新发现 (14 条)
 
-### 蔡徐坤巡演澳门站全程全开麦口碑大逆转
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimiqxm3123456.html>
-
-### 周杰伦公司发布声明：相关网络传闻均属不实信息，纯属恶意造谣
+### 周杰伦南京站开票秒售罄未受影响周杰伦演唱会想看人数超350万
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimivft0762156.html>
+- 链接: <https://www.sina.cn/news/article/nimivfi3162961.html>
 
-### 周杰伦方回应“周杰伦与刘若雪有私生子”：相关网络传闻均属不实信息，已委托律师对发布者及传播者进行证据保全
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimivfi3051768.html>
-
-### 周杰伦方回应“周杰伦与刘若雪有私生子”：相关网络传闻均属不实信息，已委托律师对相关不实信息的发布者及传播者进行证据保全
+### 加价买周杰伦演唱会票被爽约新进展
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimivfm4649958.html>
+- 链接: <https://www.sina.cn/news/article/nimivft0809856.html>
 
-### 周杰伦公司发布声明
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimivfm4638870.html>
-
-### “周杰伦与刘若雪有私生子”，周杰伦经纪公司发布声明：相关网络传闻均属不实信息，纯属恶意造谣
+### 杰威尔音乐发布声明：周杰伦相关网络传闻均属不实信息
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimiqxv0850341.html>
+- 链接: <https://www.sina.cn/news/article/nimivft0770576.html>
+
+### 周杰伦经纪公司发布声明
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimivfi3085720.html>
+
+### 特朗普拦回跑向舞台幼童，打趣不想让他像拜登一样摔下台
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-08-06 05:17
+- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxOalhxQnVXWndVa25CV3BSTV9kcnJ0Z3RfYTRraHRSUXBDRzh3aDN6d0RkRkhleVZEV0J0c0w3X0JaTVNWdGNKR0w1SlQ5UktzTko3aTdCTFFxbDlDRVRDQk1wMXdqRGNXSkotN3dIanJGOGVpeDZaU3BTOVFMd2xYTklNS013TGlTQnMwU3J5cUpqeVIzMHp3SG5QVzhGS3VtQkdTSWxGVzlfZUhiUndFVGhnR0dOQktRUXFmTldGRURlSUZpVHNWWmhndWl5QkNmNVJXdU5hVDRMTXM2cGc?oc=5>
+
+### “与客机擦肩而过”，特朗普所乘直升机遭遇飞行安全事件
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-08-06 04:12
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE03bS1YcWYtS0Y2bW5RSTM2UXphM2dtb0VuMlBISGdSVXRUS29sdWhIOXFfM0VaSWwwdDE2Q2JPRy1lcWRYWjhLRlU4aE9WMGdYRlRtODdnbzJ5cFVkdDdTOC1WZFlDRWxZTHc?oc=5>
+
+### 白宫否认特朗普与赫格塞思因弹药库存短缺发生争执
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 央视网
+- 时间: 2026-08-06 02:44
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9IaTVHXzdSaFRHMk9SODVoY1JrdlRmaG1IdDFpYXVveXAzVjBCZ1ptaUlLcks2Qmt6QlVvM2ZuTDc1aEREOVpFdXg5LWYtaFpscDVRMkZVT0F4Mk9aeGtjSnFnbV82UFgyZF9NQmVERnY2LTQ0QVdfNw?oc=5>
 
 ### 美国国内掀起反AI中心浪潮，特朗普污蔑：中国背后捣鬼
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者
+- 场馆: 凤凰网
 - 时间: 2026-08-05 23:05
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBqUjJHN0RyNU5tMFFrelpaaG1kel83ZHpvQmdFTHRkRjZxRDd4Q0Q2TjZWS042anhXNTFXbmRWa0tDSUJubEdxckxBUjhvWDhfUjdMeGV5MEN4MzlYV2trZUk0WFVYdnN6TFE?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBQQ2xlYmhLTDNfMURVTTlBYVQ0aFJvZEJsTHFtUEZzRWkxbmJxQ0hXeFBSRkwzQ08xbDcydlZxZkZISlY5OHJlMmVIRWM?oc=5>
+
+### 卡尼不点名调侃特朗普
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: world.huanqiu.com
+- 时间: 2026-08-05 12:22
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTFBLdkplYTFMblNWUlg4OFlkM3ZUU3FIOXVxaUhITmhfd1ZYRGFLUkFsMTJ5NllWT2NyYldZZERTeXNVbWtRRjJoSkJ0VGs4T3BVcDhuMjNDLU0?oc=5>
+
+### 加拿大总理卡尼支持度大幅领先对手 民众普遍支持强硬应对特朗普要挟
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-08-05 12:20
+- 链接: <https://news.google.com/rss/articles/CBMi1ANBVV95cUxNSTdZYjVJQlRmVy1HRGdwM2FhOGhOdVN1cUdfaHpPUnBVc3RjT1ljX2YwT2NIckI3N1lIWjJLQWYwQjhQRTJMY2FoVTNnb2pzcWpFNjN6QmdCV2hLaEVNclpXY2k5dXc2bTNXNVJEeHJ3djdIZjJfQnpvTnhZNkRPQzlWWXo1dXdRWnp0WTdDbFMyVngzSEUzeFpqdDBiQnp6WjZRY1lXcVJ3RGk3NzZFOTRUY21iLU9Pam9YQW1yZTcyTUplOFh1cjVwa3VBdUpzOW85bVJqOHVTUDJDM2pMODU5VGY5VndZTTBhaDA3VFdRbFNXb3lsSDYwSkwtaDdHVWVEUUJ0dzlpRGoxVFEzWTA2YjVNVGFPN1B1ejRUQk1lZER3WXZjTVVLR2ZCazBoV21PdURBQjlMTENLM1FKOGprLTVkV1lKV2lQSnE3V2FNTEh0NDRfaVZKVl9kTEp4VjVPdVVBVTdFNGFrSEtaTXVBcUcyYWNLQjFVcFBWRjZWZGZhSWV1LXhZaXo1MUhfTU5qY1BLRkJlTXRBcWcwVVYyNEs4S3FrMlhleVZ2enJCOVNveWlXdmhVMU5DaERBMllPZlJNX2hqOWhJTndVQ1RtYlA?oc=5>
 
 ### 华盛顿的剧本，失控了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-08-04 23:52
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5iMEdKRlNhaFh6NTJwWW5rdm4wUEJaX29ySW1TX3pzUXctZE4yYzBfa2Z3SU1WMVNRM0RfMlhPdDdZeEJwcG11di1YNjd0cU53VDJvcGVBRTRHRk9wMHJQWUtlS040RUtScjhQcDAxbmQ?oc=5>
+- 时间: 2026-08-05 02:11
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1FQWdXUzBNOTF5QnFEZ1FLRUhzTE1Fa0xsVXg4TFlvNFN6bHNwRjVjb2hhbndVdGwzUXo3RzdEOEpZRjBrWjZZTWhydS14cFNvZm1kMEtqTS04WjRtRUI2UDdqRXo4NlFDSk1ORkp0REFWOGg0dzlRMA?oc=5>
 
-### 特朗普敦促美参议院通过全年采用夏令时法案
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 央视网
-- 时间: 2026-08-05 06:05
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9qZkRuZy1RaElvcUw4b1BtenVsYkprN0NoSkZoU0dXRHhDNDRKc1QtdW96N3BLRjhLR1RKQVprQW11VlE0eTFMVmVSM00xNGZtOUFBS3lDMjZLdzJfeDl4YUVZcXh4b0tqNXpMSGJ3aGpNZjJKdGFqMA?oc=5>
-
-### 特朗普所乘直升机遭遇飞行安全事件
+### 一名武装男子在特朗普将出席活动的加州球场被捕
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-05 12:38
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1VYXhXZXQ0eURkV0NSWGdWWlBxMGdFZWh3LTlrYmxUcnN5bzBPdXZrb20wOW5na05feXA1cmxaNGJ3V2RwcndXWmdyeTI?oc=5>
+- 场馆: 新华网
+- 时间: 2026-08-05 01:03
+- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE1NMjNZbEFRNGVxZGl2ZTA3NUpEUi1sb2VOVlhCZ3R6NE83UzhoSU1UZTNBUWZpczN5MHJkdTJOc3BwdkNncG1fMkd1MEFrQW5Dd2YxNjZvZDJ0a3gwNXhEcTg0YUxjaGNLeGRtM2xMNHlDejZpSk9Od3psQXJPUQ?oc=5>
 
-### 特朗普回应多次遇“暗杀企图” 凸显自身重要性
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-08-06 00:41
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9oUDN0eEdMWUMtazlIdnNOaUx1a3VuMS1GSUdWZVpRU2E3VFBkcmNPWjFPS2RaNDRMTERpRW8zdzZ6S3BsaDkya05kV0FjM2JZSlRxQVlPcjRIRndJX2VpREowVE5CUktnU005MXVpd3Q?oc=5>
-
-### 卡尼嘲讽特朗普：我不会把提词器故障当成“阴谋”-观察者网
+### 特朗普三天两头找沃什聊，美联储那道“防火墙”还守得住吗？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 观察者
-- 时间: 2026-08-05 23:25
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE14LVZ1d0Z3cnVKR0R2Q21rQWpVZUNROFlfTFhCNnhGWVk3TXhmbmN1OVFfLVhVQlFPd0E4SG9JX09jZFh6dm9LOHY0ZEJnb3hxVE1xM0JyS0ZjMUluaUsxYkh2NXZfdnplM3c?oc=5>
+- 时间: 2026-08-06 03:36
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE55dVFpSHRhdUZLaW1Db09uTnFXYlFuRThTQzdjeXZtYmNLc3hlaHhlc0REYWU0UmloOGEzSDVKakZGOGJzZDNMS3VJOWljR05XLWFQNDlTNFVIZEt2S0J3ZFRJZjlWR2szUmc?oc=5>
+
+### 特朗普在沃什就任美联储主席后频繁与他通话
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-08-06 03:07
+- 链接: <https://news.google.com/rss/articles/CBMivgJBVV95cUxQYndnWnVvdzVYSklqZ1gwS0QwQWptaGFGVFZFVTYzTml4WTNhbndXa055WExOWXdfMDdfT3lvWkY0VEd5akNoVlpMQWJicFFoLV9YYzVkSlh2dXo1aXBVV0Frb3paTlJJSG93eTBPNEJuWU5lRlBVZFV4aWFGQXBkOVNkbFdNQWI5czRSMWpEUFg0ODFOQXZsSWNZR2ZjdXRIbnlTcmFyYjA0cDVEYm5CdlhjSGJjRU92Rlc2LWVlUy1UeEdaQ0t0aEZNZjkwTW9wSEZzWkFWMjRtR2xVZ2JnbVZPaEg4U1RfTmpCdy1veFBKTVZJODNPV01uQWo1bVVQYUNhcmFQdFBHcWZXVWk1TlZpQTNubmNpdFp1VUtCOHJMQXcxT3pLbXRRVEs1YjNORXp5bUNzdThFVXgza3c?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-06 05:20  (14 条)
+
+- **周杰伦** | 周杰伦南京站开票秒售罄未受影响周杰伦演唱会想看人数超350万 <https://www.sina.cn/news/article/nimivfi3162961.html>
+- **周杰伦** | 加价买周杰伦演唱会票被爽约新进展 <https://www.sina.cn/news/article/nimivft0809856.html>
+- **周杰伦** | 杰威尔音乐发布声明：周杰伦相关网络传闻均属不实信息 <https://www.sina.cn/news/article/nimivft0770576.html>
+- **周杰伦** | 周杰伦经纪公司发布声明 <https://www.sina.cn/news/article/nimivfi3085720.html>
+- **特朗普** | 特朗普拦回跑向舞台幼童，打趣不想让他像拜登一样摔下台 <https://news.google.com/rss/articles/CBMi3gFBVV95cUxOalhxQnVXWndVa25CV3BSTV9kcnJ0Z3RfYTRraHRSUXBDRzh3aDN6d0RkRkhleVZEV0J0c0w3X0JaTVNWdGNKR0w1SlQ5UktzTko3aTdCTFFxbDlDRVRDQk1wMXdqRGNXSkotN3dIanJGOGVpeDZaU3BTOVFMd2xYTklNS013TGlTQnMwU3J5cUpqeVIzMHp3SG5QVzhGS3VtQkdTSWxGVzlfZUhiUndFVGhnR0dOQktRUXFmTldGRURlSUZpVHNWWmhndWl5QkNmNVJXdU5hVDRMTXM2cGc?oc=5>
+- **特朗普** | “与客机擦肩而过”，特朗普所乘直升机遭遇飞行安全事件 <https://news.google.com/rss/articles/CBMiakFVX3lxTE03bS1YcWYtS0Y2bW5RSTM2UXphM2dtb0VuMlBISGdSVXRUS29sdWhIOXFfM0VaSWwwdDE2Q2JPRy1lcWRYWjhLRlU4aE9WMGdYRlRtODdnbzJ5cFVkdDdTOC1WZFlDRWxZTHc?oc=5>
+- **特朗普** | 白宫否认特朗普与赫格塞思因弹药库存短缺发生争执 <https://news.google.com/rss/articles/CBMieEFVX3lxTE9IaTVHXzdSaFRHMk9SODVoY1JrdlRmaG1IdDFpYXVveXAzVjBCZ1ptaUlLcks2Qmt6QlVvM2ZuTDc1aEREOVpFdXg5LWYtaFpscDVRMkZVT0F4Mk9aeGtjSnFnbV82UFgyZF9NQmVERnY2LTQ0QVdfNw?oc=5>
+- **特朗普** | 美国国内掀起反AI中心浪潮，特朗普污蔑：中国背后捣鬼 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBQQ2xlYmhLTDNfMURVTTlBYVQ0aFJvZEJsTHFtUEZzRWkxbmJxQ0hXeFBSRkwzQ08xbDcydlZxZkZISlY5OHJlMmVIRWM?oc=5>
+- **特朗普** | 卡尼不点名调侃特朗普 <https://news.google.com/rss/articles/CBMiWEFVX3lxTFBLdkplYTFMblNWUlg4OFlkM3ZUU3FIOXVxaUhITmhfd1ZYRGFLUkFsMTJ5NllWT2NyYldZZERTeXNVbWtRRjJoSkJ0VGs4T3BVcDhuMjNDLU0?oc=5>
+- **特朗普** | 加拿大总理卡尼支持度大幅领先对手 民众普遍支持强硬应对特朗普要挟 <https://news.google.com/rss/articles/CBMi1ANBVV95cUxNSTdZYjVJQlRmVy1HRGdwM2FhOGhOdVN1cUdfaHpPUnBVc3RjT1ljX2YwT2NIckI3N1lIWjJLQWYwQjhQRTJMY2FoVTNnb2pzcWpFNjN6QmdCV2hLaEVNclpXY2k5dXc2bTNXNVJEeHJ3djdIZjJfQnpvTnhZNkRPQzlWWXo1dXdRWnp0WTdDbFMyVngzSEUzeFpqdDBiQnp6WjZRY1lXcVJ3RGk3NzZFOTRUY21iLU9Pam9YQW1yZTcyTUplOFh1cjVwa3VBdUpzOW85bVJqOHVTUDJDM2pMODU5VGY5VndZTTBhaDA3VFdRbFNXb3lsSDYwSkwtaDdHVWVEUUJ0dzlpRGoxVFEzWTA2YjVNVGFPN1B1ejRUQk1lZER3WXZjTVVLR2ZCazBoV21PdURBQjlMTENLM1FKOGprLTVkV1lKV2lQSnE3V2FNTEh0NDRfaVZKVl9kTEp4VjVPdVVBVTdFNGFrSEtaTXVBcUcyYWNLQjFVcFBWRjZWZGZhSWV1LXhZaXo1MUhfTU5qY1BLRkJlTXRBcWcwVVYyNEs4S3FrMlhleVZ2enJCOVNveWlXdmhVMU5DaERBMllPZlJNX2hqOWhJTndVQ1RtYlA?oc=5>
+- **特朗普** | 华盛顿的剧本，失控了 <https://news.google.com/rss/articles/CBMieEFVX3lxTE1FQWdXUzBNOTF5QnFEZ1FLRUhzTE1Fa0xsVXg4TFlvNFN6bHNwRjVjb2hhbndVdGwzUXo3RzdEOEpZRjBrWjZZTWhydS14cFNvZm1kMEtqTS04WjRtRUI2UDdqRXo4NlFDSk1ORkp0REFWOGg0dzlRMA?oc=5>
+- **特朗普** | 一名武装男子在特朗普将出席活动的加州球场被捕 <https://news.google.com/rss/articles/CBMifkFVX3lxTE1NMjNZbEFRNGVxZGl2ZTA3NUpEUi1sb2VOVlhCZ3R6NE83UzhoSU1UZTNBUWZpczN5MHJkdTJOc3BwdkNncG1fMkd1MEFrQW5Dd2YxNjZvZDJ0a3gwNXhEcTg0YUxjaGNLeGRtM2xMNHlDejZpSk9Od3psQXJPUQ?oc=5>
+- **特朗普** | 特朗普三天两头找沃什聊，美联储那道“防火墙”还守得住吗？ <https://news.google.com/rss/articles/CBMiakFVX3lxTE55dVFpSHRhdUZLaW1Db09uTnFXYlFuRThTQzdjeXZtYmNLc3hlaHhlc0REYWU0UmloOGEzSDVKakZGOGJzZDNMS3VJOWljR05XLWFQNDlTNFVIZEt2S0J3ZFRJZjlWR2szUmc?oc=5>
+- **Trump** | 特朗普在沃什就任美联储主席后频繁与他通话 <https://news.google.com/rss/articles/CBMivgJBVV95cUxQYndnWnVvdzVYSklqZ1gwS0QwQWptaGFGVFZFVTYzTml4WTNhbndXa055WExOWXdfMDdfT3lvWkY0VEd5akNoVlpMQWJicFFoLV9YYzVkSlh2dXo1aXBVV0Frb3paTlJJSG93eTBPNEJuWU5lRlBVZFV4aWFGQXBkOVNkbFdNQWI5czRSMWpEUFg0ODFOQXZsSWNZR2ZjdXRIbnlTcmFyYjA0cDVEYm5CdlhjSGJjRU92Rlc2LWVlUy1UeEdaQ0t0aEZNZjkwTW9wSEZzWkFWMjRtR2xVZ2JnbVZPaEg4U1RfTmpCdy1veFBKTVZJODNPV01uQWo1bVVQYUNhcmFQdFBHcWZXVWk1TlZpQTNubmNpdFp1VUtCOHJMQXcxT3pLbXRRVEs1YjNORXp5bUNzdThFVXgza3c?oc=5>
 
 ### 2026-08-06 01:58  (12 条)
 
