@@ -1,84 +1,89 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-06 10:43**
-- 本轮扫到 8831 条, 新增 **9** 条
+- 最近更新: **2026-08-06 12:52**
+- 本轮扫到 8839 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (9 条)
+## 本轮新发现 (8 条)
 
-### 蔡徐坤演唱会戴小猫耳朵，与粉丝双向奔赴
+### 蔡徐坤演唱会dancebreak官摄，长段高强度纯舞展示肌肉控制力
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimkncc4616548.html>
-
-### 广州一大批演唱会即将开唱
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimknaz3052548.html>
+- 链接: <https://www.sina.cn/news/article/nimkskx2959239.html>
 
 ### 特朗普“黄金舰队”造价或高达2750亿美元
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 央视网
-- 时间: 2026-08-06 09:07
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFB0LVBZTHFZd25KV0N4VGVaYnFMbnJNS3ozaDYtUk1Bcjl2cVNBUlB4Wjc1aENJek5ZVUNuRU9Hdmw3U1hvZTAycm1zR1pWVF9FRlJoSzE1VUhkVkdsNTBHWC1pV0dtVDB4OE52YTBxX050UDJUM3pISA?oc=5>
+- 场馆: 新华网
+- 时间: 2026-08-06 08:38
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE5waTdDR0xXd2NQMHlJN0xjbmFSWEZCeE4zSFZHcmtsS044Y0hFUGc3dVlSVWZtS0JTdTZDMlBONC1nMzRLOVRfcGtaeHFQWHhEakVsajMtTVFJWXRyOWVNbDBPWnhnbUJRUnFqTVFmREZWUzNtOHpQSWFjRHlkNUU?oc=5>
 
-### 特朗普称即将达成霍尔木兹海峡协议，伊朗获更大控制权？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-05 12:52
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFA5WGV5UFZnRDlxT0IwM0E2Y3NFdEJPVGhEYnZtdG9xa2V3ZkN3VU5NaWtXb0p4ZGVZOVpEYkF2Nm9CU3A2YWxuNEJXS0M?oc=5>
-
-### 特朗普与卡塔尔埃米尔通电话 官员对美伊达成临时协议表示乐观
+### 外媒：卡尼遇提词器故障，不忘调侃特朗普：“我不把它看作阴谋”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-04 22:19
-- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE1PRVVrQlBLVHNkOUxoREVwTmRGQUV1MWtJYVFueGZhTF9ZN25OeVlYUkdlb1FGNTFTZXpFV3BOQXA4VkxLUEQ5RHlBSUE0VWcyQXRmQ2Y3TG4tV3NtT2o1SzMyVmt2MlJUcEc0c2VkSkk2NWRjQmNLWWxR?oc=5>
+- 场馆: 中国网新闻中心
+- 时间: 2026-08-06 06:45
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE5pMHFMenI2REFuMkU3WGtqZ0hmQTRVZG9oMjF0MTZMeVlHVFlSamlxNFpwb21Pbjk2ZXBvd3FEaU4yckhiR3ZmRjdCYnF4WTFrcVVOM0swaEdqTVJKanp6MHNpZ1VoSVdKU1NR?oc=5>
 
-### 卡尼借提词器故障调侃特朗普：我不会把它看作一场阴谋
+### 特朗普所乘直升机遇飞行安全事件
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-08-06 03:19
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9FOUh6VWc3a3BMNTJUYUpqMFpzNXlES3Fsdm91MU5QSGFSUXpQN0JhZEpzZWtEMDB3dGpxQlNJa1c4UGpjSFNjSGdJeDh0Slg5a0ZTY1JJWnFiR21oRUxmMXAzRFhnbFd0RkF0Q0NQTU5FUlRkWnpoUg?oc=5>
+- 时间: 2026-08-06 06:51
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE1GeURUVDBWYmFVVTBYRkxudjM5dk1rczFVM1NnOW9aS0wtcFRKY0QxUjhubUZDeHV6VnZnd2hCVDV1WEZrcHpYSjNuVVljSXZGQWhWd0RoZjlFbGkwOUZqV1YzMHZzRmFoMFVwRU1BWXJxWjRvaUE?oc=5>
 
-### 美监管部门调查涉特朗普所乘直升机的飞行安全事件
+### 特朗普阻止小男孩跑下舞台，称不想让他像拜登摔跤
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-06 02:07
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYlFTQ1BidFQwZ0RUdU1KTFBmQ21WUXN6QzlEcDYzSHZUU3FZMFBKb045WUZ6alFGaU9XdnEwTTFPNkEyYkZTZjBJREg1SjIzN0lXbm51aUZlUWw2LTJUWVY0NTlxcHY5VGt6X2JlWTJ0cmtFZ2luN2ZSNHJyc2Fpa0NwUFZUcGxERWFOTGp5UmFHVU40RHc4ZkdpQ05rTG1oZzl1c3dmU2RqLVZURzZxTGpMSEliRktTT3hVbVlCQ0x5MkZ2MlBzbjlFMlRuVGZU?oc=5>
+
+### 特朗普否认美国弹药短缺 扬言严惩“爆料者”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新华网
-- 时间: 2026-08-06 08:20
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1qMC1wc3JFeEh4bHh3SG9hSkg3b05nRkxjNGlWOHhjY0txR0RlV0hRWEdqRUIwRkhTMTc3MkQxOUdaWXVVLUx1Z2RLcnZwN0RYNDNqSmpDMHhzQ0tlVGZFM20tajd1R0dtRlpWcTJReDNGNnVud0dDUXQyVUJRQjA?oc=5>
+- 时间: 2026-08-06 07:47
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE5EU1V1ODByWlRaOGlXU01VWXFHNmVmTWprdkNiNFBUNDFRU3lHWjZOTmdOS1Z4blA1VnhIV1JsYmRFX3F5c2oxamdYLWRpWEVJUjZ5djN3MzJTS3FVWVhrbmptbGVGRC1xZ3lSaExSUTRUa05MWmI5dmFVOERBcXM?oc=5>
 
-### 华盛顿的剧本，失控了
+### Trump claims US and Iran held day-long talks
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-08-05 00:22
-- 链接: <https://news.google.com/rss/articles/CBMikAJBVV95cUxNQkd3dGhDVWRDbVo3MkFCQmNzdFRFWUJZdzkxMzRLdjVSNG1odEdocDllVWNVcGFrNzd2OFlfZVJMTkFta2ZfMm8xUERJOEpjZFNNUU5yRFB1dXlMUl8xSTFqNndRWGY5N1owZ280Tk14SVBEQVl5UkkzNDJMZktDcjQ1Ymh1MzFWR0k5eFRqakZaZjkwbjc5OE1WcEJTS3BiQ18zcWFCT2pLOVAxRlZ6enpVOV9DUXNNeUNvOHkxUmRPRUEzLTB0WGRZcVBnT1FneDJpVmtBTFJPTGprQXBCeU5kYlF1VGhmbncyMTFoekZ4NXN4eWxBdkUzWmtlS0tsS05ZcHowUmREbzRUTTdKXw?oc=5>
+- 场馆: idnfinancials.com
+- 时间: 2026-08-05 23:30
+- 链接: <https://news.google.com/rss/articles/CBMikgFBVV95cUxQUGtpZU0xV3N3dUZNbHJ2SmRXeWx3MEpINXhHUFdrcElpMlQtVVFScFNqS1ViRGktajg2SVdFYVZPeVNob1EtOFotZ0V6M2QzZmlWS181NWhNS0dLb3lDX1Z1Qi1jNG5zdHR1SzZTa0VvSnlxd1ZyNXpCTTZyNmxlQ2VTRkJPTEJDY1JwNmhTXzhIUQ?oc=5>
 
-### 涉台问题，特朗普的教训还没吃够
+### 特朗普级战舰计划将是美国史上造价最高军舰项目
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-06 02:59
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9yUWNzVnpkX3Q3T1BjNU1pazlxQmJiRm9xMnZzcjl1ZjBPZTJFUUlUZkhKc3JYNXh4TmhIMmVqMG1uNHhnTmFfNDdGTU8?oc=5>
+- 场馆: 联合早报
+- 时间: 2026-08-06 10:06
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE4yd19SOFlfXzdZRmdrYVRTT3F1bkxKNGQ0OWMtVXhYWi1kRVFEMnNKYW5FYmtjZW9reE4wbGIwUDFvaFdiY0JhMTgtMEQ3S2h5V3VYYVZPNVF6U0hCSG9IMlR6QV9NamxSX1E?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-06 12:52  (8 条)
+
+- **蔡徐坤** | 蔡徐坤演唱会dancebreak官摄，长段高强度纯舞展示肌肉控制力 <https://www.sina.cn/news/article/nimkskx2959239.html>
+- **特朗普** | 特朗普“黄金舰队”造价或高达2750亿美元 <https://news.google.com/rss/articles/CBMif0FVX3lxTE5waTdDR0xXd2NQMHlJN0xjbmFSWEZCeE4zSFZHcmtsS044Y0hFUGc3dVlSVWZtS0JTdTZDMlBONC1nMzRLOVRfcGtaeHFQWHhEakVsajMtTVFJWXRyOWVNbDBPWnhnbUJRUnFqTVFmREZWUzNtOHpQSWFjRHlkNUU?oc=5>
+- **特朗普** | 外媒：卡尼遇提词器故障，不忘调侃特朗普：“我不把它看作阴谋” <https://news.google.com/rss/articles/CBMia0FVX3lxTE5pMHFMenI2REFuMkU3WGtqZ0hmQTRVZG9oMjF0MTZMeVlHVFlSamlxNFpwb21Pbjk2ZXBvd3FEaU4yckhiR3ZmRjdCYnF4WTFrcVVOM0swaEdqTVJKanp6MHNpZ1VoSVdKU1NR?oc=5>
+- **特朗普** | 特朗普所乘直升机遇飞行安全事件 <https://news.google.com/rss/articles/CBMidkFVX3lxTE1GeURUVDBWYmFVVTBYRkxudjM5dk1rczFVM1NnOW9aS0wtcFRKY0QxUjhubUZDeHV6VnZnd2hCVDV1WEZrcHpYSjNuVVljSXZGQWhWd0RoZjlFbGkwOUZqV1YzMHZzRmFoMFVwRU1BWXJxWjRvaUE?oc=5>
+- **特朗普** | 特朗普阻止小男孩跑下舞台，称不想让他像拜登摔跤 <https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYlFTQ1BidFQwZ0RUdU1KTFBmQ21WUXN6QzlEcDYzSHZUU3FZMFBKb045WUZ6alFGaU9XdnEwTTFPNkEyYkZTZjBJREg1SjIzN0lXbm51aUZlUWw2LTJUWVY0NTlxcHY5VGt6X2JlWTJ0cmtFZ2luN2ZSNHJyc2Fpa0NwUFZUcGxERWFOTGp5UmFHVU40RHc4ZkdpQ05rTG1oZzl1c3dmU2RqLVZURzZxTGpMSEliRktTT3hVbVlCQ0x5MkZ2MlBzbjlFMlRuVGZU?oc=5>
+- **特朗普** | 特朗普否认美国弹药短缺 扬言严惩“爆料者” <https://news.google.com/rss/articles/CBMif0FVX3lxTE5EU1V1ODByWlRaOGlXU01VWXFHNmVmTWprdkNiNFBUNDFRU3lHWjZOTmdOS1Z4blA1VnhIV1JsYmRFX3F5c2oxamdYLWRpWEVJUjZ5djN3MzJTS3FVWVhrbmptbGVGRC1xZ3lSaExSUTRUa05MWmI5dmFVOERBcXM?oc=5>
+- **Trump** | Trump claims US and Iran held day-long talks <https://news.google.com/rss/articles/CBMikgFBVV95cUxQUGtpZU0xV3N3dUZNbHJ2SmRXeWx3MEpINXhHUFdrcElpMlQtVVFScFNqS1ViRGktajg2SVdFYVZPeVNob1EtOFotZ0V6M2QzZmlWS181NWhNS0dLb3lDX1Z1Qi1jNG5zdHR1SzZTa0VvSnlxd1ZyNXpCTTZyNmxlQ2VTRkJPTEJDY1JwNmhTXzhIUQ?oc=5>
+- **Trump** | 特朗普级战舰计划将是美国史上造价最高军舰项目 <https://news.google.com/rss/articles/CBMiakFVX3lxTE4yd19SOFlfXzdZRmdrYVRTT3F1bkxKNGQ0OWMtVXhYWi1kRVFEMnNKYW5FYmtjZW9reE4wbGIwUDFvaFdiY0JhMTgtMEQ3S2h5V3VYYVZPNVF6U0hCSG9IMlR6QV9NamxSX1E?oc=5>
 
 ### 2026-08-06 10:43  (9 条)
 
