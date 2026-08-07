@@ -1,38 +1,79 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-07 12:06**
-- 本轮扫到 8926 条, 新增 **3** 条
+- 最近更新: **2026-08-07 13:47**
+- 本轮扫到 8934 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (8 条)
 
-### 周杰伦新专辑《再见范特西》何时正式发布？
+### 演唱会上突发意外，看明星临场反应
 
-- 艺人/关键词: **周杰伦**
+- 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimnvkp4808591.html>
+- 链接: <https://www.sina.cn/news/article/nimnzsi3152842.html>
 
-### 特朗普宣布对多晶硅及其衍生产品加征关税
+### 蔡徐坤在澳门演唱会分享的成长经历具体讲了什么？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimnzsi3115082.html>
+
+### 蔡徐坤粉丝如何回应演唱会发言被断章取义？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimnzsm4718712.html>
+
+### 蔡徐坤演唱会原话为何被误解为“撕掉爱豆标签”？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimnzsi3114961.html>
+
+### 蔡徐坤提醒你续火花，演唱会发言却被断章取义？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimnzsm4718220.html>
+
+### 蔡徐坤演唱会新加坡站的场馆信息
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimnzsm4708907.html>
+
+### 特朗普称霍尔木兹海峡协议尚未达成 正参与相关谈判
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-08-07 00:52
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE5lVDNsR3Q1ZVJhR2IybXl3alJVU1U0QjJNcEFWWHJoa0lOSGZzMXd1T3c5eDcxZTNfdGxLaU43bDY3ZDNvS2VLUmt3cWRwWnBjbUM3QWtYRmY5ZmsyNTJwVUVKWkxtbGpEY2IySFhuOXhRdDZnQU1GTkYyM2NRRTQ?oc=5>
+- 场馆: 东方财富
+- 时间: 2026-08-07 05:00
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE81NlBxVVZCbjRpc1hKci01VXRjOVIzcXhSRV9GRXVEMDA3VVBDMlJMRE1LcG1OQ0dGbXNFakFWZFdhVlB4XzFFQldXX0o4eXA3RmUtdlg2ZHd4VWtnb3FPYg?oc=5>
 
-### 特朗普政府已退还1000亿美元关税，都给谁了？
+### 不止“爱国者”，1300枚ATACMS也打光了-观察者网
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-05 08:33
-- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxOSzNFQkFiQnhyTXIxMmVyMVBWZG5mLWlWcDlRcUQ3dWNiSmE3SDZ4bVRvX0l1ZGxESFpKWjcyMHNvUldrWGZqR1RhZDZXdVVGQm4xY1hXZUl3a1dJZ0liY3I4ZXprNERVR3ZDVW5UM3NsbXdIUzB1T2c3YVZQelRiU1g5LW9ua2VocER6aXQzY2hFOUxlaHBUSlRJa2gzblN1ZmdZVHd4YlZiVjRIOVgwOU5yX2lsajM0OHJCTHBaMWRKNHdEcjZncTZYTW4wSmc?oc=5>
+- 场馆: guancha.cn
+- 时间: 2026-08-07 11:56
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9iVFNUbFVPQ0hEVWpXT1JRbVEtTWRKNzBHT01DU1VCTFB1elFVZ01FcEV1NlFlZjk3VHQzdnBRZ3oyNzJLTmdGcWtNNmpPSDBDcFN0YWJhZzdrbGQ4YXRTRHF6RkNyUUNha1dLM0NhUXc?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-07 13:47  (8 条)
+
+- **王一博** | 演唱会上突发意外，看明星临场反应 <https://www.sina.cn/news/article/nimnzsi3152842.html>
+- **蔡徐坤** | 蔡徐坤在澳门演唱会分享的成长经历具体讲了什么？ <https://www.sina.cn/news/article/nimnzsi3115082.html>
+- **蔡徐坤** | 蔡徐坤粉丝如何回应演唱会发言被断章取义？ <https://www.sina.cn/news/article/nimnzsm4718712.html>
+- **蔡徐坤** | 蔡徐坤演唱会原话为何被误解为“撕掉爱豆标签”？ <https://www.sina.cn/news/article/nimnzsi3114961.html>
+- **蔡徐坤** | 蔡徐坤提醒你续火花，演唱会发言却被断章取义？ <https://www.sina.cn/news/article/nimnzsm4718220.html>
+- **蔡徐坤** | 蔡徐坤演唱会新加坡站的场馆信息 <https://www.sina.cn/news/article/nimnzsm4708907.html>
+- **特朗普** | 特朗普称霍尔木兹海峡协议尚未达成 正参与相关谈判 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE81NlBxVVZCbjRpc1hKci01VXRjOVIzcXhSRV9GRXVEMDA3VVBDMlJMRE1LcG1OQ0dGbXNFakFWZFdhVlB4XzFFQldXX0o4eXA3RmUtdlg2ZHd4VWtnb3FPYg?oc=5>
+- **特朗普** | 不止“爱国者”，1300枚ATACMS也打光了-观察者网 <https://news.google.com/rss/articles/CBMicEFVX3lxTE9iVFNUbFVPQ0hEVWpXT1JRbVEtTWRKNzBHT01DU1VCTFB1elFVZ01FcEV1NlFlZjk3VHQzdnBRZ3oyNzJLTmdGcWtNNmpPSDBDcFN0YWJhZzdrbGQ4YXRTRHF6RkNyUUNha1dLM0NhUXc?oc=5>
 
 ### 2026-08-07 12:06  (3 条)
 
