@@ -1,40 +1,65 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-07 15:49**
-- 本轮扫到 8940 条, 新增 **3** 条
+- 最近更新: **2026-08-07 16:45**
+- 本轮扫到 8946 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (6 条)
 
-### 特朗普将召集全球部分大型矿业公司高管开会
+### 蔡徐坤澳门演唱会原话是什么？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimpnhc2986163.html>
+
+### 蔡徐坤澳门演唱会发言引争议，粉丝晒原话澄清
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimpnhf4589663.html>
+
+### 限定男团解散七年后，蔡徐坤演唱会刷屏全网，尤长靖专注音乐 蔡徐坤
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimpnhf4567450.html>
+
+### 蔡徐坤海外巡演后续还会增加哪些城市
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimmazf3546378.html>
+
+### 释新闻｜槽点密集的造舰计划：特朗普的“黄金舰队”梦能实现吗？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-08-07 10:32
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE01cE1mOWt1Ui1jQ2twVEFKSEtPQlAwbGtLTmFXZzFaSGYxZTA0T3Z3RHh5R3d0V0ZYVHhRYjZiNkxxSU4xa0xqbzZJeWdqMkpSNFMwd19feXBsWndUZGd1YQ?oc=5>
+- 场馆: 搜狐网
+- 时间: 2026-08-07 13:07
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMFpfbGZVX2pXV3hZeExFTzhFWFV3RHh3dmFDRVVwOGo0ZnRsS1hRaEV3Rk9Fd1RRSXo5TkdzSWRqRlpaekdsYklpZUpLbUJqa1A5QlQ0Zk0yWjhwQTFPdHZ3R1dzUkdLTGFTM3hmVFdoOTF5VGZ5MHhNS2VlZGd4Nmoya2NZUDNG?oc=5>
 
-### 特朗普政府已退还1000亿美元关税，都给谁了？
+### 特朗普总统：重开霍尔木兹海峡的协议可能“很快”达成
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-05 08:33
-- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxNOHZhTTZhLTA5V0dOUThEU1Rodm5adVVJVjgzZTcwTm5WcS1FSm1TN2VnYVFkQTZpS3RodW5TVUYyODFmejl1MDJmYk56ZDR1TGJTeVV6a2YzM1NDQVpPMGZzekpZLWVPdXR1UWlYaTBwMXpJWVRtM21ERUJfbGVUejYwbkFxUXZzVW1XOWxrenhPVklFa3JUYVZyQkFsQ3JfTGloT1oxVkR6MmFjZmdwa1c3TllnSXNOdElzLThGZEFkR2xIOGp4OXNqS1F0eUE?oc=5>
-
-### 特朗普说谈得不错，伊朗反手递了禁航令
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-07 09:56
-- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTFBpUnlBTmlXYkRkSUFFXzJFSFRkekN6VXIyZE9zeHYwM0hRblRjSFZva3BvMVZoVnJzWnlaSGhTYmloLU1JRnR1MUtnQXFrT1ot?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-08-07 14:43
+- 链接: <https://news.google.com/rss/articles/CBMitAFBVV95cUxNS2ozRS1EYjNRRzNZa2EzSGxFV0JxUmhES2xrQ0dvX0x3WEhIVkZqRmdzRE5Vblh2YXlaUUQtUVNOTDdlMnE1QldYR05OZTBlTkF5RURmaDZ6MVRIazhEX2t4ZHNueTNDT21sdDJJYTZwc01sSUFKbWc3OEFaX0NEQ0JsblNxcmxXWm9ZS2tqUVlfWWNSUjBncHE3TzJhbWJobjRkUkQ3a3QyU2VrejNJMG1STWfSAbcBQVVfeXFMUHBrclZ3ZHBNalFSanlncDN6V0d0VTViSWxwZ1AtS2ZSV3VyVUJ5dkp4dzVrZ0NGeDlZaTlyZWdiSHdnZnBhc2Y2WWxVYklNdkgtR293S2RKNThadW80cnVPeldKdHRPQ0JyWDl2ejFTZ0M1ZFVtQlJCM0prdDc3VzZkM3FwN19PNTdoMktmRklQN2hkeU1ic0xmN0NqUFN1QXphOF93MXVFNVpEaDg4U0hITll3TUVF?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-07 16:45  (6 条)
+
+- **蔡徐坤** | 蔡徐坤澳门演唱会原话是什么？ <https://www.sina.cn/news/article/nimpnhc2986163.html>
+- **蔡徐坤** | 蔡徐坤澳门演唱会发言引争议，粉丝晒原话澄清 <https://www.sina.cn/news/article/nimpnhf4589663.html>
+- **蔡徐坤** | 限定男团解散七年后，蔡徐坤演唱会刷屏全网，尤长靖专注音乐 蔡徐坤 <https://www.sina.cn/news/article/nimpnhf4567450.html>
+- **蔡徐坤** | 蔡徐坤海外巡演后续还会增加哪些城市 <https://www.sina.cn/news/article/nimmazf3546378.html>
+- **特朗普** | 释新闻｜槽点密集的造舰计划：特朗普的“黄金舰队”梦能实现吗？ <https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMFpfbGZVX2pXV3hZeExFTzhFWFV3RHh3dmFDRVVwOGo0ZnRsS1hRaEV3Rk9Fd1RRSXo5TkdzSWRqRlpaekdsYklpZUpLbUJqa1A5QlQ0Zk0yWjhwQTFPdHZ3R1dzUkdLTGFTM3hmVFdoOTF5VGZ5MHhNS2VlZGd4Nmoya2NZUDNG?oc=5>
+- **Trump** | 特朗普总统：重开霍尔木兹海峡的协议可能“很快”达成 <https://news.google.com/rss/articles/CBMitAFBVV95cUxNS2ozRS1EYjNRRzNZa2EzSGxFV0JxUmhES2xrQ0dvX0x3WEhIVkZqRmdzRE5Vblh2YXlaUUQtUVNOTDdlMnE1QldYR05OZTBlTkF5RURmaDZ6MVRIazhEX2t4ZHNueTNDT21sdDJJYTZwc01sSUFKbWc3OEFaX0NEQ0JsblNxcmxXWm9ZS2tqUVlfWWNSUjBncHE3TzJhbWJobjRkUkQ3a3QyU2VrejNJMG1STWfSAbcBQVVfeXFMUHBrclZ3ZHBNalFSanlncDN6V0d0VTViSWxwZ1AtS2ZSV3VyVUJ5dkp4dzVrZ0NGeDlZaTlyZWdiSHdnZnBhc2Y2WWxVYklNdkgtR293S2RKNThadW80cnVPeldKdHRPQ0JyWDl2ejFTZ0M1ZFVtQlJCM0prdDc3VzZkM3FwN19PNTdoMktmRklQN2hkeU1ic0xmN0NqUFN1QXphOF93MXVFNVpEaDg4U0hITll3TUVF?oc=5>
 
 ### 2026-08-07 15:49  (3 条)
 
