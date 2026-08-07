@@ -1,93 +1,13 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-07 09:30**
-- 本轮扫到 8918 条, 新增 **11** 条
+- 最近更新: **2026-08-07 10:27**
+- 本轮扫到 8918 条, 新增 **0** 条
 
 ---
 
-## 本轮新发现 (11 条)
+## 本轮无新增
 
-### 粉丝如何回应蔡徐坤演唱会言论被断章取义？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimnrap3208645.html>
-
-### 蔡徐坤在澳门演唱会上说了什么引发争议？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimnrap3208537.html>
-
-### 8月7日，一认证为律师的账号发布刘若雪律师声明…
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimnram0063633.html>
-
-### 刘若雪律师发布声明：非婚生子等言论为不实信息
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimnrac4146654.html>
-
-### 刘若雪律师发布声明：网传所谓与周杰伦存在非婚生子等言论为不实信息，要求立刻停止并删除侵权信息，将对侵权行为取证并依法追责
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimnrac4156717.html>
-
-### 想走“捷径”当美国人？特朗普再签行政令：没门-观察者网
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-08-07 01:01
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9vMV91RTg2U0hiaVFWT01PTWtfRUJPSHdPT2RhNHdPM2phSjJDbzRaVGFkYkpUX19mWlVnUktYUGZYc051NF8tYnp6M2tSTlR1Z01pUG9lLXZab1ZoMHZVc2hmX0JXZ3lsanc?oc=5>
-
-### 连说两个“不”！特朗普回应支持万斯竞选总统
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-08-07 09:28
-- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxOU3dKSi1Hb2s4eXpHaTV1SlMtY2I2bTFNUW9YNVhnaE9IazNyYTRfalpHdDZydUQtZTBRUnQybnRJNlBlZkdhd2lXdzhWWHpKelpfSmJ2NHotR19XY0g0dUx3ZTJFa0RjalNUOHJkRno0UmNHYlRKRHRvQklzUlZlM1c0dGRrUXlfZkR6TkotTEhnb0pvYVk1UUg5bHpBbi1sQWlkTFY3ZmFUcGJTS0pOb3NaNm1Xa21lVHJEVmpseUlsVVc5VF9wTW03S3BIamRLbmpfTTFJMlowNHlVdFE?oc=5>
-
-### 特朗普宣布对多晶硅及其衍生产品加征关税
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: news.sina.cn
-- 时间: 2026-08-07 02:14
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE5fR05ENWJ2aWh6WFBKdWxMOGxZbk1jQzhmamthUXBoTGp1VEstSWhkR1F1bG9PV1RnSG5pY3NneG9Ealc0eFVPVlRfUGVnVnVZcDZuSmRkYVZOOFdLOGloRTh6TUtCYm50cFZ0bTMwb3hCdjB2?oc=5>
-
-### 特朗普“关税大棒”又来了？这次瞄准多晶硅及其衍生产品 12月初生效！
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-08-06 23:59
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DeVN3dHJVcmNXWjNLN2U5ZTVwcGlpbXpXbTB3VE9zTTFjeHNvNDBmRlZCOGpBN2pLSEltck1HQjRYME1RejJuSmZyajB2YVRIaFRIb1FnQ1FRNmw3RnY2Zw?oc=5>
-
-### “特朗普想缓和对华关系，美国年轻人也不想要新冷战”-观察者网
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-08-07 04:49
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE82bUZBb3NkeVNLNjE3LTY3UzFZTHBuTmU5N1I0d0RLdHNiem9PdVMtanViRkFmTEszQ3h6UmQ4bmFuVzB0cDdyd2gtY2FqeG5DTF9jRUFoZlhaLW1Yb3YxZ1pMUkMxUXhqT3c?oc=5>
-
-### 美监管部门调查涉特朗普所乘直升机的飞行安全事件
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: news.cctv.com
-- 时间: 2026-08-06 08:39
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFAwUTNhZHhoTTYzalp1QjZlQUFsQnJWamQ4UTlUZ2NXcUduU1JMTHRXbG1saFUtWmdfeXl6bHJDNlVlRnlDdDhPa3NrT1pxV1V3YU1FVlF2UVMwakxDN0lRRWhlbGdhWE9uM0FvVE1od1Y1WlpzNXZ0eQ?oc=5>
-
-
----
-
+数据库里所有演出/动态都已见过,暂无新增。
 ## 历史发现
 
 ### 2026-08-07 09:30  (11 条)
