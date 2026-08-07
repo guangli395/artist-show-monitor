@@ -1,11 +1,39 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-07 18:44**
-- 本轮扫到 8949 条, 新增 **2** 条
+- 最近更新: **2026-08-07 19:47**
+- 本轮扫到 8955 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (6 条)
+
+### 4K镜头下的蔡徐坤… 最直接最直观最不绕弯子的颜值冲击…蔡徐坤 蔡徐坤澳门演唱会 颜值
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimpspv2941969.html>
+
+### 蔡徐坤澳门演唱会《spotlight》直拍！真的是时听时感动！
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimpspw9714129.html>
+
+### 法学者：明天，中国也许会感谢特朗普！
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: rfi.fr
+- 时间: 2026-08-07 14:56
+- 链接: <https://news.google.com/rss/articles/CBMilAJBVV95cUxNSWpQNFM5RGdVUDNoTzE1eWVaUUtmT1ZxczEwdGtYeXBhX2tLWFVwQ1NWTENEUXRaanVwb2dDT0x0NndNazZQdDdKLWlyNUhJencxOF90X1lCbmV1TjQtN3lNZEpOMk4zSzktSDVlQWdOY3ZpNFZKeEdMM1JLMVdwN0xPdWltb0VBOU5hVFhDRGFGSE9ndXdmUEZwR3A5SWRLaVY5N2ZVdUhWRlh2cXJWaC16NFByRTM5dWdSajZ5QjZqREdpUFZ5Y3o1Q2FyNHNrVnJtRl80OTVadnJvb2FBQVJZaVhSazNqTEdSbVJraVVZNjlpWUIzM1Z4clJwXzNiTnhBc2hZUE5JdnJreWNDcEN4Mmw?oc=5>
+
+### 特朗普想缓和对华关系，美国年轻人也不想陷入新冷战：合作呼声渐高
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-08-07 07:15
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1Bd05EUUF2Q09aaFFDUy1qV3d5OGliWXN1MXRSVl9aRGJPVk5GZFhYQ3hNeU1nM0FNRGQ2dDZWX05BTTUyUnA3V193NUVpaF9ubEVLdzliRV9YakJ2R3NQWkU1ZURRdXVkd3JSUmlCekE?oc=5>
 
 ### 特朗普：伊朗不能撑太久，战争将很快结束，美军有一些弹药稍显紧张！伊朗公布拟议的海峡管理文本
 
@@ -13,20 +41,29 @@
 - 来源: `googlenews`
 - 场馆: 新浪网
 - 时间: 2026-08-07 00:52
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBTajU5ZmE2LTYwQ3VIX1lGVk5yTGU3R1M4aUpneUtMNWZBM1lidWRyTFVsS1dkNjNHcHNKMEZxT01QdHRoV0ZmaGN4TjRqTW44Mk93WnhzY1VwM2Y4N3Z0djZUWE5aTzkxWVM1VzNRQ1B3RXZqX1hkdw?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMiygFBVV95cUxPUGJQQldaR2xVcXVTNkc5c24yMFJyZUFZZ3prWE80YlVYaGlFMXpBX1hMQXRYenI5SkhuanpwTmZZaktpNlk0djZTMFZ6NzZYdFV3VDVpVTZzMVMyS1B3NWxMYTFFQTh2RE4yaEU1SE1SSjhVSVlHVTU2MEkxVzIzMXR1ejdkSGtzcnFnenZzdE9wTHpsa1B4VmpkUkxzOGN3a21DdEtsTkktQm1sQ2Q0TFhZYTVNZVVqRjA4UW1Cbjd4bWhZY1hZMGFB?oc=5>
 
-### trump现在希望停火的原因
+### 特朗普下令对多晶硅开征15%关税 设最低进口价
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: moomoo.com
-- 时间: 2026-08-05 01:09
-- 链接: <https://news.google.com/rss/articles/CBMiogFBVV95cUxOSUxBTllRejBsUUdzdHJTal9Dc1FuekxvS3VMZ0V2OGdJMmtXUWcyclNVTE5sd0pWV2tQU28yckNDMWxfa0prRnktSzJzYnVGUWhka0hKbmctUk9lZUtZVEszc0ttUWZQbWtJbDJ4ZmExTlBZelJneEt0VG1oa0lsMW1tQ0ItOUFUaVl5YzM4dkJSZ2hiVTEzQUdRU0lOTHdoa1E?oc=5>
+- 场馆: 联合早报
+- 时间: 2026-08-07 13:29
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE52SkFvRFI1RFFoRTBfSnphVGkxMHE3V0NKblhEY1FUQndwZWFPVElSNnk1UktjUnYxLVUyX2JBVWxFQ3RqTzdiUHhSY1gxeUxjY2NxSlhMOFh4a0h5QVVfSERGcWFZc2l4SHc?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-07 19:47  (6 条)
+
+- **蔡徐坤** | 4K镜头下的蔡徐坤… 最直接最直观最不绕弯子的颜值冲击…蔡徐坤 蔡徐坤澳门演唱会 颜值 <https://www.sina.cn/news/article/nimpspv2941969.html>
+- **蔡徐坤** | 蔡徐坤澳门演唱会《spotlight》直拍！真的是时听时感动！ <https://www.sina.cn/news/article/nimpspw9714129.html>
+- **特朗普** | 法学者：明天，中国也许会感谢特朗普！ <https://news.google.com/rss/articles/CBMilAJBVV95cUxNSWpQNFM5RGdVUDNoTzE1eWVaUUtmT1ZxczEwdGtYeXBhX2tLWFVwQ1NWTENEUXRaanVwb2dDT0x0NndNazZQdDdKLWlyNUhJencxOF90X1lCbmV1TjQtN3lNZEpOMk4zSzktSDVlQWdOY3ZpNFZKeEdMM1JLMVdwN0xPdWltb0VBOU5hVFhDRGFGSE9ndXdmUEZwR3A5SWRLaVY5N2ZVdUhWRlh2cXJWaC16NFByRTM5dWdSajZ5QjZqREdpUFZ5Y3o1Q2FyNHNrVnJtRl80OTVadnJvb2FBQVJZaVhSazNqTEdSbVJraVVZNjlpWUIzM1Z4clJwXzNiTnhBc2hZUE5JdnJreWNDcEN4Mmw?oc=5>
+- **特朗普** | 特朗普想缓和对华关系，美国年轻人也不想陷入新冷战：合作呼声渐高 <https://news.google.com/rss/articles/CBMicEFVX3lxTE1Bd05EUUF2Q09aaFFDUy1qV3d5OGliWXN1MXRSVl9aRGJPVk5GZFhYQ3hNeU1nM0FNRGQ2dDZWX05BTTUyUnA3V193NUVpaF9ubEVLdzliRV9YakJ2R3NQWkU1ZURRdXVkd3JSUmlCekE?oc=5>
+- **特朗普** | 特朗普：伊朗不能撑太久，战争将很快结束，美军有一些弹药稍显紧张！伊朗公布拟议的海峡管理文本 <https://news.google.com/rss/articles/CBMiygFBVV95cUxPUGJQQldaR2xVcXVTNkc5c24yMFJyZUFZZ3prWE80YlVYaGlFMXpBX1hMQXRYenI5SkhuanpwTmZZaktpNlk0djZTMFZ6NzZYdFV3VDVpVTZzMVMyS1B3NWxMYTFFQTh2RE4yaEU1SE1SSjhVSVlHVTU2MEkxVzIzMXR1ejdkSGtzcnFnenZzdE9wTHpsa1B4VmpkUkxzOGN3a21DdEtsTkktQm1sQ2Q0TFhZYTVNZVVqRjA4UW1Cbjd4bWhZY1hZMGFB?oc=5>
+- **特朗普** | 特朗普下令对多晶硅开征15%关税 设最低进口价 <https://news.google.com/rss/articles/CBMiakFVX3lxTE52SkFvRFI1RFFoRTBfSnphVGkxMHE3V0NKblhEY1FUQndwZWFPVElSNnk1UktjUnYxLVUyX2JBVWxFQ3RqTzdiUHhSY1gxeUxjY2NxSlhMOFh4a0h5QVVfSERGcWFZc2l4SHc?oc=5>
 
 ### 2026-08-07 18:44  (2 条)
 
