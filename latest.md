@@ -1,22 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-07 17:42**
-- 本轮扫到 8947 条, 新增 **1** 条
+- 最近更新: **2026-08-07 18:44**
+- 本轮扫到 8949 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮新发现 (2 条)
 
-### 演唱会提问怎么回复？高情商答案来了
+### 特朗普：伊朗不能撑太久，战争将很快结束，美军有一些弹药稍显紧张！伊朗公布拟议的海峡管理文本
 
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimpnhc3011144.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-08-07 00:52
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBTajU5ZmE2LTYwQ3VIX1lGVk5yTGU3R1M4aUpneUtMNWZBM1lidWRyTFVsS1dkNjNHcHNKMEZxT01QdHRoV0ZmaGN4TjRqTW44Mk93WnhzY1VwM2Y4N3Z0djZUWE5aTzkxWVM1VzNRQ1B3RXZqX1hkdw?oc=5>
+
+### trump现在希望停火的原因
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: moomoo.com
+- 时间: 2026-08-05 01:09
+- 链接: <https://news.google.com/rss/articles/CBMiogFBVV95cUxOSUxBTllRejBsUUdzdHJTal9Dc1FuekxvS3VMZ0V2OGdJMmtXUWcyclNVTE5sd0pWV2tQU28yckNDMWxfa0prRnktSzJzYnVGUWhka0hKbmctUk9lZUtZVEszc0ttUWZQbWtJbDJ4ZmExTlBZelJneEt0VG1oa0lsMW1tQ0ItOUFUaVl5YzM4dkJSZ2hiVTEzQUdRU0lOTHdoa1E?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-07 18:44  (2 条)
+
+- **特朗普** | 特朗普：伊朗不能撑太久，战争将很快结束，美军有一些弹药稍显紧张！伊朗公布拟议的海峡管理文本 <https://news.google.com/rss/articles/CBMieEFVX3lxTFBTajU5ZmE2LTYwQ3VIX1lGVk5yTGU3R1M4aUpneUtMNWZBM1lidWRyTFVsS1dkNjNHcHNKMEZxT01QdHRoV0ZmaGN4TjRqTW44Mk93WnhzY1VwM2Y4N3Z0djZUWE5aTzkxWVM1VzNRQ1B3RXZqX1hkdw?oc=5>
+- **Trump** | trump现在希望停火的原因 <https://news.google.com/rss/articles/CBMiogFBVV95cUxOSUxBTllRejBsUUdzdHJTal9Dc1FuekxvS3VMZ0V2OGdJMmtXUWcyclNVTE5sd0pWV2tQU28yckNDMWxfa0prRnktSzJzYnVGUWhka0hKbmctUk9lZUtZVEszc0ttUWZQbWtJbDJ4ZmExTlBZelJneEt0VG1oa0lsMW1tQ0ItOUFUaVl5YzM4dkJSZ2hiVTEzQUdRU0lOTHdoa1E?oc=5>
 
 ### 2026-08-07 17:42  (1 条)
 
