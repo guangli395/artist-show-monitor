@@ -1,28 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-07 21:32**
-- 本轮扫到 8958 条, 新增 **2** 条
+- 最近更新: **2026-08-07 22:27**
+- 本轮扫到 8959 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (1 条)
 
-### 蔡徐坤演唱会中称歌曲是人生重要转折
+### 特朗普总统会见矿业公司高管以及相关技术与学界代表，加强美国获取关键矿产的努力
 
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimpspw9693324.html>
-
-### 周杰伦断层领跑！2026最想看演唱会榜单揭晓
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimpwvx2823554.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: voachinese.com
+- 时间: 2026-08-07 21:30
+- 链接: <https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUkZDQTc3M1dpVWJtZFRfalU0SllIRUJEdUV6MlpCT0IzSlZQdklqdC1rM25FVV9ta0VmTndIb2gySE9WRWZuQjJpaWxsOElpdUoySGhGZ3REOTh3YW5DQXdBSmFrTXlOdHJ4WGlidklQcHl2U0V0Q2JBZVJsbFEtNDZhOTAwaEQ3aDREMU81TmtGQ2otX1JSNExoMVNrb2Jwd3hiZUdLejdOZU9oeENBd0J5WWV6bUl0MEdqN2FqUFnSAcMBQVVfeXFMUFNydXFlMjdqRmg5SUJRTlFwX3ZGNGlEM3E1NEdsbmZmWnJPaHpJNDRGbXJveGhYczM5eFJha0FXWGF5ekFKWUlDVzY0cnRIZTAwdlBTTzd0dllxUnA4U2hXQXdCNHVIZkdOaEhYVE9xaGxZYzhDZXBKcDNkeVBSNHRMZE1xR0xnTGk5aEMxUmdLaW9UODZyekppRkJzcmZxNEo5OWt5ZUxEZGRMVGZhaGVFSGYxOXhWTUZMY2wwak0zQmx3?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-07 22:27  (1 条)
+
+- **特朗普** | 特朗普总统会见矿业公司高管以及相关技术与学界代表，加强美国获取关键矿产的努力 <https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUkZDQTc3M1dpVWJtZFRfalU0SllIRUJEdUV6MlpCT0IzSlZQdklqdC1rM25FVV9ta0VmTndIb2gySE9WRWZuQjJpaWxsOElpdUoySGhGZ3REOTh3YW5DQXdBSmFrTXlOdHJ4WGlidklQcHl2U0V0Q2JBZVJsbFEtNDZhOTAwaEQ3aDREMU81TmtGQ2otX1JSNExoMVNrb2Jwd3hiZUdLejdOZU9oeENBd0J5WWV6bUl0MEdqN2FqUFnSAcMBQVVfeXFMUFNydXFlMjdqRmg5SUJRTlFwX3ZGNGlEM3E1NEdsbmZmWnJPaHpJNDRGbXJveGhYczM5eFJha0FXWGF5ekFKWUlDVzY0cnRIZTAwdlBTTzd0dllxUnA4U2hXQXdCNHVIZkdOaEhYVE9xaGxZYzhDZXBKcDNkeVBSNHRMZE1xR0xnTGk5aEMxUmdLaW9UODZyekppRkJzcmZxNEo5OWt5ZUxEZGRMVGZhaGVFSGYxOXhWTUZMY2wwak0zQmx3?oc=5>
 
 ### 2026-08-07 21:32  (2 条)
 
