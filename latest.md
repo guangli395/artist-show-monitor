@@ -1,78 +1,60 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-07 05:30**
-- 本轮扫到 8893 条, 新增 **8** 条
+- 最近更新: **2026-08-07 06:49**
+- 本轮扫到 8898 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (5 条)
 
-### 小伙好不容易攒够钱带女朋友去看周杰伦演唱会，没想到是个冒牌货
+### 你心中最想去看谁的演唱会？为什么选他？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimnenr0105059.html>
+- 链接: <https://www.sina.cn/news/article/nimnkur3222371.html>
 
-### 特朗普行政令收紧“出生公民权” 遏止“生育旅游”
+### 周杰伦8月杭州演唱会还有余票吗？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-08-07 01:38
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1LeVcySHRKVzZWbUtGTUNHaUs4cHo4c3p4elkzNC1tS0ItRi0tX2F5LVdUSl9yRnliVUdjekpJNEExQmhKUWExRlV0bThGdWppZDlnUXRacU1ObU9TdWozWEJoY3lzVzMtUE9fUFhGN0E0ZzYyel84TmVqZXpTWHc?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimnkuf4145055.html>
 
-### “向特朗普同志致敬！”美国，超级抹红大赛开始了
+### 特朗普政府已退还1000亿美元关税，都给谁了？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-08-07 01:04
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9KVks4RFkwMUxqZF84eUZhWkpoQkswbjU0d3lNSHk1MGJXRHV3eXZ1WGlDRkdBeExXQTV4RGJ3bzdFZzhOei1wQU96djZpT2p2U2o0aW9IVkd6ckFQeWkxcEdEeEUybG5uUXAxcHRuT0k?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-05 08:33
+- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxNZjU4N2Y4aFVZZGZwcWVTQVJBeHNHSTdqYlZvRWF1a1FFLUR3N0pUYkp5aWlEQnYtX1NPNEY2LTg0R3JGREpPYmxZeW92MjV1SmFTaWd1Y0NkTmZzTUJMMHhhRkxmb3NiOTJFV3ZDS2dHUmVySzNIaWc4SWREUW5kOVFOQlFLdjl3cWMwaWx1SjREZk1VazN2ZVJab3czS0RRVTlLa0d4elNqMjN3MTNsYURPT2hqekxWVUdYbm94R3ZkYjRIV3VfUEZXMkZmeFU?oc=5>
 
-### 特朗普承认：部分弹药供应紧张-观察者网
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-08-06 22:46
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9YS1ZYeVJkUExtLUtvTGlkNHdWYzRyT3hqb3AwOGQ3VFNEXzNMdUVFQmRzOEZqb1owTGxiakY2TGhGdVpkTVpiMG1vTFd5bTMzQW9XSVVMRVRDVWdza2ppOVVrZGFQN2FqdWc?oc=5>
-
-### “特朗普”级战列舰总造价或达2750亿美元，美本土造船厂可能还造不来-观察者网
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-08-06 11:18
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5BbFFGNFFFQkM0ZGRjUnU0aWVibUxkRzlJNnFTbnV4RHVNQlRxZ3UwWFlIdkRpd0lsN3R5N1FQbi10V3RJVV9nMEdBbDFOWVpRR2lzUVlFTmJVNG9LOHNLTkwwRmZ6enFUbWc?oc=5>
-
-### 特朗普级战舰计划将是美国史上造价最高军舰项目
+### 法庭文件：美国已退还约1280亿新元特朗普关税
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 联合早报
-- 时间: 2026-08-06 10:06
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1oNTk1NGFmN1Q3Zl9ISDlsdk1UellFNVpNa3BIY20zSVZGR2d3X2ZKYk1XX2llcllJc3VIR2JQWkNOMzQwTzF2X0s5RGNfN2dBQWlCOGxkeFRHeTk4SEgydGtGWEJnZw?oc=5>
+- 时间: 2026-08-06 01:20
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFXzJtZndTOTBmS2c5QTdwakFoYVE0R3BHakJweWdzRTFMdGh4aW03S1NuRlRSM1c2QWpTMmFCcEdGRG82NEp1S21QSWFrRGJzN1hxekZFMmZTSVgtQWM3NTNaNkpDUQ?oc=5>
 
-### 特朗普宣布对多晶硅及其衍生产品加征关税
+### 美国出生公民权：特朗普签署行政命令 试图重新设限
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-06 22:13
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE0xSWNNbm53OVpsUUt3VWlxQklkeF9CYXE5OHlacW1UVXF6Mnl6akhxREg5MnlpVXRkMWVhM2hUNmc0aVVUelFlZldEdzM?oc=5>
-
-### 国际｜特朗普专机与客机同时从华盛顿起飞，一度“过于接近”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-08-06 09:00
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LSU52R1lxekRwcGtOcGRPeURKdjY0cHhabWZPN0FMbE4zbmZlN0RVczlnU0c4aV9pUl9XaTJrN21rX1p2bFlPOEs4QV9nREw4bjcwSzlNY3p3dzVnVkdBUDdhQnA?oc=5>
+- 场馆: BBC
+- 时间: 2026-08-07 03:19
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE54TTZGVzIzWG1QWjZQeWU5UWFwUnI5cmRlS2Q1VXFwNm1xdFFQVE9vay0taHR6Qzlkdm8tVWI3ekMxWXMwU0p2aWRsd3kxeWR2aGZ0SHU5cTdaN0RDVkh6WkdtR1ZMUdIBa0FVX3lxTE9RYi1UazMxaVNYLVZqTnNLMzZYVHpiYnpQZnkxNlVFZ2VjWUhZeUZxUS1Bc0FNbmhwaVd0a1dkTTdJSWE1c3JEVWU1cFNjZXI3ajcyd0Vvcy13ZmdoLUFXSm5xRUZUc21vc0tv?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-07 06:49  (5 条)
+
+- **周杰伦** | 你心中最想去看谁的演唱会？为什么选他？ <https://www.sina.cn/news/article/nimnkur3222371.html>
+- **周杰伦** | 周杰伦8月杭州演唱会还有余票吗？ <https://www.sina.cn/news/article/nimnkuf4145055.html>
+- **特朗普** | 特朗普政府已退还1000亿美元关税，都给谁了？ <https://news.google.com/rss/articles/CBMizwFBVV95cUxNZjU4N2Y4aFVZZGZwcWVTQVJBeHNHSTdqYlZvRWF1a1FFLUR3N0pUYkp5aWlEQnYtX1NPNEY2LTg0R3JGREpPYmxZeW92MjV1SmFTaWd1Y0NkTmZzTUJMMHhhRkxmb3NiOTJFV3ZDS2dHUmVySzNIaWc4SWREUW5kOVFOQlFLdjl3cWMwaWx1SjREZk1VazN2ZVJab3czS0RRVTlLa0d4elNqMjN3MTNsYURPT2hqekxWVUdYbm94R3ZkYjRIV3VfUEZXMkZmeFU?oc=5>
+- **特朗普** | 法庭文件：美国已退还约1280亿新元特朗普关税 <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFXzJtZndTOTBmS2c5QTdwakFoYVE0R3BHakJweWdzRTFMdGh4aW03S1NuRlRSM1c2QWpTMmFCcEdGRG82NEp1S21QSWFrRGJzN1hxekZFMmZTSVgtQWM3NTNaNkpDUQ?oc=5>
+- **Trump** | 美国出生公民权：特朗普签署行政命令 试图重新设限 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE54TTZGVzIzWG1QWjZQeWU5UWFwUnI5cmRlS2Q1VXFwNm1xdFFQVE9vay0taHR6Qzlkdm8tVWI3ekMxWXMwU0p2aWRsd3kxeWR2aGZ0SHU5cTdaN0RDVkh6WkdtR1ZMUdIBa0FVX3lxTE9RYi1UazMxaVNYLVZqTnNLMzZYVHpiYnpQZnkxNlVFZ2VjWUhZeUZxUS1Bc0FNbmhwaVd0a1dkTTdJSWE1c3JEVWU1cFNjZXI3ajcyd0Vvcy13ZmdoLUFXSm5xRUZUc21vc0tv?oc=5>
 
 ### 2026-08-07 05:30  (8 条)
 
