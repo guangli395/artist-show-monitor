@@ -1,48 +1,234 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-06 15:09**
-- 本轮扫到 8843 条, 新增 **4** 条
+- 最近更新: **2026-08-07 00:37**
+- 本轮扫到 8870 条, 新增 **27** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (27 条)
 
-### 特朗普把沃什当作“外部顾问” 多次致电询问经济问题
+### 蔡徐坤新加坡演唱会还会增加其他亚洲城市吗？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimmpqz3360413.html>
+
+### 蔡徐坤新加坡演唱会官宣！THE DEADMAN海外首站定档
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimmpqz3360351.html>
+
+### 蔡徐坤巡演海外首站为何选在新加坡？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimmpqz3353023.html>
+
+### 蔡徐坤新加坡演唱会门票何时开售？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimmpqz3352911.html>
+
+### 蔡徐坤巡演海外首站定档新加坡，82天暗藏生日彩蛋
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimmpqr4293326.html>
+
+### 蔡徐坤新加坡演唱会为何选择10月24日开唱？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimmiht4369567.html>
+
+### 蔡徐坤新加坡演唱会官宣，粉丝为何落泪？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimmiic3429027.html>
+
+### 蔡徐坤新加坡演唱会门票什么时候开抢
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimmazf3546563.html>
+
+### 蔡徐坤新加坡演唱会票价多少钱一张
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimmazf3546561.html>
+
+### 蔡徐坤新加坡演唱会官宣！海外首站暗藏82天生日彩蛋
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimmayv4486913.html>
+
+### 粉丝如何澄清蔡徐坤演唱会发言被误解？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimmazf3529671.html>
+
+### 蔡徐坤在澳门演唱会具体说了什么原话？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimmazf3529078.html>
+
+### 周杰伦公司发布声明
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimkfvm3901743.html>
+
+### 周杰伦公司发布声明：严厉谴责
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimivfr4043242.html>
+
+### 特朗普称霍尔木兹海峡协议尚未达成 正参与相关谈判
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-06 13:30
-- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE5GQ3hVUEk3d0JUVEt1d2VpajFhRmRpbG1QQ01NU3R2cTctRkRsM3lnUDVZRmdJa0dlajhwWDdIdlhVMFhST3ZTNExwcHo4bkZ0UXFUeW01Z2ZFREFTNm80aU5fMmRhaDFDU2ZfT3JwRVM2TWYtb2JqSUxqUW9LUQ?oc=5>
+- 场馆: 央视网
+- 时间: 2026-08-06 22:24
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9QXzdVTmtBd2hCTDVyYzhXT0pDbWhsa0dXSUViUWRnVW9BMzBneWNJcTc3aVRHSlJTanFLcnZueFFXdEVZZ01BdGRwLXFneDFyUllBSXBIcy1yVGQ4TnFSRWJOckdLeTN0a2tSTHRrSllaVElTUHNGQg?oc=5>
 
-### 特朗普：愿与伊朗达成协议，我真的不想杀人！霍尔木兹海峡协议曝光：新航道为临时性质，预计可使用2至4个月；伊朗：协议与美国无关
+### 伊朗协议重塑原油市场？特朗普态度如何？ 展开
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: video.sina.com.cn
+- 时间: 2026-08-06 23:51
+- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxOS2JQZVdzaHZKVXhjM0Y0bUpHQWVTRTlKUC12RXFGZ25iY0NRR054RXNFVmgxUkdIWE1JQkNOMXI5M3hIc1M2WTFyclM4T2QxV2R6Z2tjZnphV1ozcFJSbnFYMFpQU1RwSlhjNWFNd2M4MDBPNFFyWkZPVEdWN19ZZFBB?oc=5>
+
+### 特朗普总统签署行政令限制出生公民权并打击“生育旅游”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-08-06 23:07
+- 链接: <https://news.google.com/rss/articles/CBMixAFBVV95cUxOa3JuakZxLTBlNW1aXzFKam1RVDBkVUFRM1RjLWN6OFR4Y21hYVpIRWxVZThabWp3X2JTWG04WjBkXzNJb1RyS2FuSnducWVmeXdFcElfZjBDTkNxVTZBQnFrTUwyT3FRbUNhZGI2UEZBTmxIaldsRlJIN0dHMTlaanJpV2hqaC1TZFJaN1o4NGI5SnVRS253YlBHdXU0bURjYWxBSnZsSzh6WUpKS2dTRURvek9ZdXk0VUl2T0tqZVFfWGRG0gHHAUFVX3lxTE1DcG5lczlDVVh0SHF2QkxLRTJXa0ZkbTItc3JkcjV0ZloyMlpSMnd0YklPbF9YTlJzcWV4VjByYlI0S2tBS3ppSFI5bkhkT2Jla004dnRVZGVIREtxTWFKM2dkMmhqbTkzeDBDcGtVekVCUE1INXdQR25NeU8xUHdGR0JoVjRERTlOMElsX2pZUVEzX1dFRHMxSkk3eGxxamhLY3pvUm16Wk1BMUl2MVlkTTQzZ2x0ZGtKVFduTy1iUHlLRzRxQUU?oc=5>
+
+### 特朗普宣布对多晶硅及其衍生产品加征关税
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: China Daily
+- 时间: 2026-08-06 23:20
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE5yYVJTU2FIN0lTTkVueGxnMndMUkdqWXd0cmxFQUtrSzVLeG5VTGRYUlhQdXQ1TWRKbjR0VENseU5HcUxDdWhseE5kY21SZUJYcUNpOGQ4N0U2TmZPcEZGa295cHVzWDVwQlhMdjhheGxlbkxyMndKNjZwaU85Rkk?oc=5>
+
+### 特朗普对多晶硅加征关税
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: finance.sina.com.cn
+- 时间: 2026-08-06 23:30
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBabnNfRmppRG56aHV3Wk1WWDhsYzVHOHlLampteWpQMXEtU1AzUTZMeGZnNC1FZXlpZnpveWo4aGFzLUU3SzdjLTZDWmJWREJ2bFR5Z2tlcVNqOUFVX3N4WVF2YmRERjdSNW9NQjhaaW0xZEtQdktwdA?oc=5>
+
+### 特朗普宣布对多晶硅及其衍生产品加征关税；美股存储芯片股大跌，西部数据跌超13%；宇树科技发行价定了；葛卫东大幅加仓兆易创新丨每经早参
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 每日经济新闻
-- 时间: 2026-08-06 01:45
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5xMnN1SkxrRVQzNzZPTGZ4cXZRQ2dhVTdya3l5R2VGZ1RPVFQydmhlMmhUQXhtV1p2cWRuWDBITjhzSmFnZVdhLUdLV085RTFFNzZKNWNzaGFyWXVqUnIwQlNFVk9Jdw?oc=5>
+- 时间: 2026-08-06 22:08
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE8yaXVyQi1oTjZjanRTOVZPOUxiak44OFU1TEFHX0paUVhqSG05RF9LSDI1QmpZZm9YZEdKeUU3OUtoUF9SMWZzWDRGOURTZnZXZEVGT0VKWXlRWmEtTHJaV0x1SF9kdw?oc=5>
 
-### “特朗普当面质问赫格塞思”，白宫、五角大楼回应
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-08-06 02:17
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1OdTBvSU9rbm9NUmlpc2ROdWEtZHRaUWI2SWpVSk5EU1B5RmlheGpRMktrbTRCZmdNREFacm1PeGNScXNfNlBjSDVVM3pUR2xvSDBPX1Z0WWt2bUpTX2cxVzdfbTViV0xmajlqOWdmUGgxa1QzQ2p4cg?oc=5>
-
-### 外媒：卡尼遇提词器故障，不忘调侃特朗普：“我不把它看作阴谋”
+### 法国报纸摘要 - 回声报：中国如何绕过特朗普的贸易壁垒
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-06 06:42
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1rNUtNNkVtSlhHeXg0TWZ3eDJNVzV2b2p6MnNXb25MTlRVWFhxZlBWdFMyMFR1ZVJPT1pPNHlHSExQR0FVaXlBaF8yaHFXTDg4bjRxX3NrVkNIRDBscGZoSnVKc3RuZ3Exd1NZZDV3eWhoN29wWHpUcg?oc=5>
+- 场馆: RFI
+- 时间: 2026-08-06 14:10
+- 链接: <https://news.google.com/rss/articles/CBMijgNBVV95cUxNN3lmMTlRT19xcjdlSFRQNjBlSFNvNUJOZlNHVzhFZFlmSC1oX2U0RVJpa0FWa25YbnJJZ3dKTW5vd0JaVGprZEZXTENOY1FrWHc0LW5vSUpmcjd1WmQtUVY3WFVoMHJLM28xbEhJTWtZZ2RPOXlsN1RkYUtkd0tKUTNVVU9NNEk1MURpeGlmNDZVNklTRnhLMk9HeEt6QlRRMm5LVDlBbGhkYmJESjViMVdTbG5TY09rMDJXUEZlalBReEVITFN3bDVsUmtVWkphUFBXb1JlQUtMSFVoWkNHV2NUZi1pWkF2WnBEdm5LcGhOUVhoWnBIejJVNUdrekFMVlhXQ3lpTGpETGkyQnV4X2x5UkdabW40R2gzRWx0dF9seTN0MmFBZ0duTXhsZnlyNUNibUV2QzhtTmMxYmw3c2YzaENEcHZKdTZwZDNOazlTSXlUTGJkelI0Y1JEaEMzTmJSeW9CWjBmbnk3c0JiRkJ4dERPY2VhQlQ1VHVfN19YemZNUHRIV0NuVkFPdw?oc=5>
+
+### 特朗普政府已退还1000亿美元关税，都给谁了？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: finance.sina.com.cn
+- 时间: 2026-08-05 08:33
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxPemM5MmROWmw2Z3d0blZVbmJVU2stTEtQTWV0RjUxamZXNHBQbWx2YlVBWktDTG9PaXd2N2FsOWljNV9LbWtLZlBURVYzdkw5d01EY2lNYkFJTjZyS18zaGxnZ21GRUl0SV9hVkI1cnFTNlBBMTUwdzdQVWhIdl80WnhDeUtWWkpxaWdYTHRKUnFwbWplM2R3TE9QOHhmQmVWVUNDeTNOOVNheU9KTjhVTzVrLWtpUTNxOXJ0cXppYzg0Q0lQODJNc3gzSzdtelcy?oc=5>
+
+### 特朗普与沃什“频繁通话”引发关注，白宫：总统既尊重美联储独立性也有权表达看法
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街见闻
+- 时间: 2026-08-06 17:05
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kNXBWeWthMHVZVmlaeWFEZTc2eUsxaXFIZ0doQ2hHZVd2UWJWRmo5dFNST3NnMVNLa0s1Q0Q0T0drSm9NYzB2NmlIaDhaS3huUHNV?oc=5>
+
+### 特朗普总统：在霍尔木兹海峡谈判继续之际，他更倾向于达成和平协议而非军事行动
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-08-06 15:28
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZWRxSzFIZ05aSEF0Z19aRnVkSXJocDdIZXdteFV5cEl0R2VMWjZQUm0tQ1RRVHFDeXFncHp6bEEyS29GN1hMd2lNVFpJOVhjR0VUODh2cXIyQUZYaEtxWkdNVm1CR3poakhRUDg0ak02R1BCcU9aOWdIQ2tzUFgzZzhFYkdkYXJiYlNXLUhPMlU4ejJHSUJFZ2wzVTdzMHBOXzM0ZkphUEU4NWFmN0s0TmVXdmtrSm1rUzJ0aklrTDRzRk9UUlNsZTItcXdwSHdLRVotVEtNTk1KemFyRnZZ0gHfAUFVX3lxTFBlZHFLMUhnTlpIQXRnX1pGdWRJcmhwN0hld214VXlwSXRHZUxaNlBSbS1DVFFUcUN5cWdwenpsQTJLb0Y3WEx3aU1UWkk5WGNHRVQ4OHZxcjJBRlhoS3FaR01WbUJHemhqSFFQODRqTTZHUEJxT1o5Z0hDa3NQWDNnOEViR2RhcmJiU1ctSE8yVTh6MkdJQkVnbDNVN3MwcE5fMzRmSmFQRTg1YWY3SzROZVd2a2tKbWtTMnRqSWtMNHNGT1RSU2xlMi1xd3BId0tFWi1US01OTUp6YXJGdlk?oc=5>
+
+### Trump Has Called Warsh Repeatedly Since He Became Fed Chair
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-08-06 09:26
+- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTTNoS2dORFY0aENtNjNKSnRCbFFWSVVqZzdvSnNhUE93TU9lLWZKQzdGc0dURGJKazVIWlJlY0lnSU5xR0kwR21GRjhibXhuZmcwRnFFUVFwbW9SX3J1SVFtM0hxcU1FTTVIRG1CNXNHbl92N195S0JnVXlHRG1UT1h3dXh0djdFeGhYN1BJeTZ1WWFhNXIzWkxmaFd2ZWJNVlFiWWI5eUJFdw?oc=5>
+
+### 特朗普将对太阳能电池板及组件征收15%关税并设定最低限价
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-08-06 23:24
+- 链接: <https://news.google.com/rss/articles/CBMisgFBVV95cUxPS05IbEl4QllualBGQUZVZlRsdU5aNzZuMzJZQ1hDSl9rWHZ6dnFJalBHRzI1X1E4TzRHX0xhb1JHVXdDcDdKeElpVjcwSVZxVTBwVmRZX1lQVnRfZGstbnhRb21qWlVjbWFCX1ZjMEZYeUNqcnlwZm5Uam9KT0JNcXhQbTVaRmdQeEZQQlhYSUlrQ3JMT053M1hhVnd1aUE0U1NOVkhkS3hucjBnNkt3bHdB?oc=5>
+
+### Trump签署禁止“赴美生育”行政命令，扩大限制出生公民权对象- 阿视亚经济
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 아시아경제
+- 时间: 2026-08-06 22:37
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9LbHUtckdJd205V0dXYzFTbGdmeWxFOVhRSlpmUUc2c3BlS2hJaE1OdnRuQ1JkcGE1by1nQ3J0a2hVUjVOaW9BbEFyVmMzMGM5RDFhUW1BY2w1a2F4WnJzWUk2YXk?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-07 00:37  (27 条)
+
+- **蔡徐坤** | 蔡徐坤新加坡演唱会还会增加其他亚洲城市吗？ <https://www.sina.cn/news/article/nimmpqz3360413.html>
+- **蔡徐坤** | 蔡徐坤新加坡演唱会官宣！THE DEADMAN海外首站定档 <https://www.sina.cn/news/article/nimmpqz3360351.html>
+- **蔡徐坤** | 蔡徐坤巡演海外首站为何选在新加坡？ <https://www.sina.cn/news/article/nimmpqz3353023.html>
+- **蔡徐坤** | 蔡徐坤新加坡演唱会门票何时开售？ <https://www.sina.cn/news/article/nimmpqz3352911.html>
+- **蔡徐坤** | 蔡徐坤巡演海外首站定档新加坡，82天暗藏生日彩蛋 <https://www.sina.cn/news/article/nimmpqr4293326.html>
+- **蔡徐坤** | 蔡徐坤新加坡演唱会为何选择10月24日开唱？ <https://www.sina.cn/news/article/nimmiht4369567.html>
+- **蔡徐坤** | 蔡徐坤新加坡演唱会官宣，粉丝为何落泪？ <https://www.sina.cn/news/article/nimmiic3429027.html>
+- **蔡徐坤** | 蔡徐坤新加坡演唱会门票什么时候开抢 <https://www.sina.cn/news/article/nimmazf3546563.html>
+- **蔡徐坤** | 蔡徐坤新加坡演唱会票价多少钱一张 <https://www.sina.cn/news/article/nimmazf3546561.html>
+- **蔡徐坤** | 蔡徐坤新加坡演唱会官宣！海外首站暗藏82天生日彩蛋 <https://www.sina.cn/news/article/nimmayv4486913.html>
+- **蔡徐坤** | 粉丝如何澄清蔡徐坤演唱会发言被误解？ <https://www.sina.cn/news/article/nimmazf3529671.html>
+- **蔡徐坤** | 蔡徐坤在澳门演唱会具体说了什么原话？ <https://www.sina.cn/news/article/nimmazf3529078.html>
+- **周杰伦** | 周杰伦公司发布声明 <https://www.sina.cn/news/article/nimkfvm3901743.html>
+- **周杰伦** | 周杰伦公司发布声明：严厉谴责 <https://www.sina.cn/news/article/nimivfr4043242.html>
+- **特朗普** | 特朗普称霍尔木兹海峡协议尚未达成 正参与相关谈判 <https://news.google.com/rss/articles/CBMieEFVX3lxTE9QXzdVTmtBd2hCTDVyYzhXT0pDbWhsa0dXSUViUWRnVW9BMzBneWNJcTc3aVRHSlJTanFLcnZueFFXdEVZZ01BdGRwLXFneDFyUllBSXBIcy1yVGQ4TnFSRWJOckdLeTN0a2tSTHRrSllaVElTUHNGQg?oc=5>
+- **特朗普** | 伊朗协议重塑原油市场？特朗普态度如何？ 展开 <https://news.google.com/rss/articles/CBMiggFBVV95cUxOS2JQZVdzaHZKVXhjM0Y0bUpHQWVTRTlKUC12RXFGZ25iY0NRR054RXNFVmgxUkdIWE1JQkNOMXI5M3hIc1M2WTFyclM4T2QxV2R6Z2tjZnphV1ozcFJSbnFYMFpQU1RwSlhjNWFNd2M4MDBPNFFyWkZPVEdWN19ZZFBB?oc=5>
+- **特朗普** | 特朗普总统签署行政令限制出生公民权并打击“生育旅游” <https://news.google.com/rss/articles/CBMixAFBVV95cUxOa3JuakZxLTBlNW1aXzFKam1RVDBkVUFRM1RjLWN6OFR4Y21hYVpIRWxVZThabWp3X2JTWG04WjBkXzNJb1RyS2FuSnducWVmeXdFcElfZjBDTkNxVTZBQnFrTUwyT3FRbUNhZGI2UEZBTmxIaldsRlJIN0dHMTlaanJpV2hqaC1TZFJaN1o4NGI5SnVRS253YlBHdXU0bURjYWxBSnZsSzh6WUpKS2dTRURvek9ZdXk0VUl2T0tqZVFfWGRG0gHHAUFVX3lxTE1DcG5lczlDVVh0SHF2QkxLRTJXa0ZkbTItc3JkcjV0ZloyMlpSMnd0YklPbF9YTlJzcWV4VjByYlI0S2tBS3ppSFI5bkhkT2Jla004dnRVZGVIREtxTWFKM2dkMmhqbTkzeDBDcGtVekVCUE1INXdQR25NeU8xUHdGR0JoVjRERTlOMElsX2pZUVEzX1dFRHMxSkk3eGxxamhLY3pvUm16Wk1BMUl2MVlkTTQzZ2x0ZGtKVFduTy1iUHlLRzRxQUU?oc=5>
+- **特朗普** | 特朗普宣布对多晶硅及其衍生产品加征关税 <https://news.google.com/rss/articles/CBMif0FVX3lxTE5yYVJTU2FIN0lTTkVueGxnMndMUkdqWXd0cmxFQUtrSzVLeG5VTGRYUlhQdXQ1TWRKbjR0VENseU5HcUxDdWhseE5kY21SZUJYcUNpOGQ4N0U2TmZPcEZGa295cHVzWDVwQlhMdjhheGxlbkxyMndKNjZwaU85Rkk?oc=5>
+- **特朗普** | 特朗普对多晶硅加征关税 <https://news.google.com/rss/articles/CBMieEFVX3lxTFBabnNfRmppRG56aHV3Wk1WWDhsYzVHOHlLampteWpQMXEtU1AzUTZMeGZnNC1FZXlpZnpveWo4aGFzLUU3SzdjLTZDWmJWREJ2bFR5Z2tlcVNqOUFVX3N4WVF2YmRERjdSNW9NQjhaaW0xZEtQdktwdA?oc=5>
+- **特朗普** | 特朗普宣布对多晶硅及其衍生产品加征关税；美股存储芯片股大跌，西部数据跌超13%；宇树科技发行价定了；葛卫东大幅加仓兆易创新丨每经早参 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE8yaXVyQi1oTjZjanRTOVZPOUxiak44OFU1TEFHX0paUVhqSG05RF9LSDI1QmpZZm9YZEdKeUU3OUtoUF9SMWZzWDRGOURTZnZXZEVGT0VKWXlRWmEtTHJaV0x1SF9kdw?oc=5>
+- **特朗普** | 法国报纸摘要 - 回声报：中国如何绕过特朗普的贸易壁垒 <https://news.google.com/rss/articles/CBMijgNBVV95cUxNN3lmMTlRT19xcjdlSFRQNjBlSFNvNUJOZlNHVzhFZFlmSC1oX2U0RVJpa0FWa25YbnJJZ3dKTW5vd0JaVGprZEZXTENOY1FrWHc0LW5vSUpmcjd1WmQtUVY3WFVoMHJLM28xbEhJTWtZZ2RPOXlsN1RkYUtkd0tKUTNVVU9NNEk1MURpeGlmNDZVNklTRnhLMk9HeEt6QlRRMm5LVDlBbGhkYmJESjViMVdTbG5TY09rMDJXUEZlalBReEVITFN3bDVsUmtVWkphUFBXb1JlQUtMSFVoWkNHV2NUZi1pWkF2WnBEdm5LcGhOUVhoWnBIejJVNUdrekFMVlhXQ3lpTGpETGkyQnV4X2x5UkdabW40R2gzRWx0dF9seTN0MmFBZ0duTXhsZnlyNUNibUV2QzhtTmMxYmw3c2YzaENEcHZKdTZwZDNOazlTSXlUTGJkelI0Y1JEaEMzTmJSeW9CWjBmbnk3c0JiRkJ4dERPY2VhQlQ1VHVfN19YemZNUHRIV0NuVkFPdw?oc=5>
+- **特朗普** | 特朗普政府已退还1000亿美元关税，都给谁了？ <https://news.google.com/rss/articles/CBMi0AFBVV95cUxPemM5MmROWmw2Z3d0blZVbmJVU2stTEtQTWV0RjUxamZXNHBQbWx2YlVBWktDTG9PaXd2N2FsOWljNV9LbWtLZlBURVYzdkw5d01EY2lNYkFJTjZyS18zaGxnZ21GRUl0SV9hVkI1cnFTNlBBMTUwdzdQVWhIdl80WnhDeUtWWkpxaWdYTHRKUnFwbWplM2R3TE9QOHhmQmVWVUNDeTNOOVNheU9KTjhVTzVrLWtpUTNxOXJ0cXppYzg0Q0lQODJNc3gzSzdtelcy?oc=5>
+- **特朗普** | 特朗普与沃什“频繁通话”引发关注，白宫：总统既尊重美联储独立性也有权表达看法 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kNXBWeWthMHVZVmlaeWFEZTc2eUsxaXFIZ0doQ2hHZVd2UWJWRmo5dFNST3NnMVNLa0s1Q0Q0T0drSm9NYzB2NmlIaDhaS3huUHNV?oc=5>
+- **特朗普** | 特朗普总统：在霍尔木兹海峡谈判继续之际，他更倾向于达成和平协议而非军事行动 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZWRxSzFIZ05aSEF0Z19aRnVkSXJocDdIZXdteFV5cEl0R2VMWjZQUm0tQ1RRVHFDeXFncHp6bEEyS29GN1hMd2lNVFpJOVhjR0VUODh2cXIyQUZYaEtxWkdNVm1CR3poakhRUDg0ak02R1BCcU9aOWdIQ2tzUFgzZzhFYkdkYXJiYlNXLUhPMlU4ejJHSUJFZ2wzVTdzMHBOXzM0ZkphUEU4NWFmN0s0TmVXdmtrSm1rUzJ0aklrTDRzRk9UUlNsZTItcXdwSHdLRVotVEtNTk1KemFyRnZZ0gHfAUFVX3lxTFBlZHFLMUhnTlpIQXRnX1pGdWRJcmhwN0hld214VXlwSXRHZUxaNlBSbS1DVFFUcUN5cWdwenpsQTJLb0Y3WEx3aU1UWkk5WGNHRVQ4OHZxcjJBRlhoS3FaR01WbUJHemhqSFFQODRqTTZHUEJxT1o5Z0hDa3NQWDNnOEViR2RhcmJiU1ctSE8yVTh6MkdJQkVnbDNVN3MwcE5fMzRmSmFQRTg1YWY3SzROZVd2a2tKbWtTMnRqSWtMNHNGT1RSU2xlMi1xd3BId0tFWi1US01OTUp6YXJGdlk?oc=5>
+- **Trump** | Trump Has Called Warsh Repeatedly Since He Became Fed Chair <https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTTNoS2dORFY0aENtNjNKSnRCbFFWSVVqZzdvSnNhUE93TU9lLWZKQzdGc0dURGJKazVIWlJlY0lnSU5xR0kwR21GRjhibXhuZmcwRnFFUVFwbW9SX3J1SVFtM0hxcU1FTTVIRG1CNXNHbl92N195S0JnVXlHRG1UT1h3dXh0djdFeGhYN1BJeTZ1WWFhNXIzWkxmaFd2ZWJNVlFiWWI5eUJFdw?oc=5>
+- **Trump** | 特朗普将对太阳能电池板及组件征收15%关税并设定最低限价 <https://news.google.com/rss/articles/CBMisgFBVV95cUxPS05IbEl4QllualBGQUZVZlRsdU5aNzZuMzJZQ1hDSl9rWHZ6dnFJalBHRzI1X1E4TzRHX0xhb1JHVXdDcDdKeElpVjcwSVZxVTBwVmRZX1lQVnRfZGstbnhRb21qWlVjbWFCX1ZjMEZYeUNqcnlwZm5Uam9KT0JNcXhQbTVaRmdQeEZQQlhYSUlrQ3JMT053M1hhVnd1aUE0U1NOVkhkS3hucjBnNkt3bHdB?oc=5>
+- **Trump** | Trump签署禁止“赴美生育”行政命令，扩大限制出生公民权对象- 阿视亚经济 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9LbHUtckdJd205V0dXYzFTbGdmeWxFOVhRSlpmUUc2c3BlS2hJaE1OdnRuQ1JkcGE1by1nQ3J0a2hVUjVOaW9BbEFyVmMzMGM5RDFhUW1BY2w1a2F4WnJzWUk2YXk?oc=5>
 
 ### 2026-08-06 15:09  (4 条)
 
