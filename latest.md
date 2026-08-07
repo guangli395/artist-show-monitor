@@ -1,68 +1,44 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-07 13:47**
-- 本轮扫到 8934 条, 新增 **8** 条
+- 最近更新: **2026-08-07 14:47**
+- 本轮扫到 8937 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (3 条)
 
-### 演唱会上突发意外，看明星临场反应
+### 《瓦解》多少人循环过这首老歌 周杰伦无与伦比演唱会南拳妈妈
 
-- 艺人/关键词: **王一博**
+- 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimnzsi3152842.html>
+- 链接: <https://www.sina.cn/news/article/nimnvkm3146873.html>
 
-### 蔡徐坤在澳门演唱会分享的成长经历具体讲了什么？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimnzsi3115082.html>
-
-### 蔡徐坤粉丝如何回应演唱会发言被断章取义？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimnzsm4718712.html>
-
-### 蔡徐坤演唱会原话为何被误解为“撕掉爱豆标签”？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimnzsi3114961.html>
-
-### 蔡徐坤提醒你续火花，演唱会发言却被断章取义？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimnzsm4718220.html>
-
-### 蔡徐坤演唱会新加坡站的场馆信息
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimnzsm4708907.html>
-
-### 特朗普称霍尔木兹海峡协议尚未达成 正参与相关谈判
+### 特朗普扬言“猛烈打击”后，伊朗称霍尔木兹海峡不会立即开放
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-08-07 05:00
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE81NlBxVVZCbjRpc1hKci01VXRjOVIzcXhSRV9GRXVEMDA3VVBDMlJMRE1LcG1OQ0dGbXNFakFWZFdhVlB4XzFFQldXX0o4eXA3RmUtdlg2ZHd4VWtnb3FPYg?oc=5>
+- 场馆: 华尔街见闻
+- 时间: 2026-08-05 09:47
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tdUYwZjZxMDFGZ3ZuVGt3WjZLTjVxcUItSmJVVnVwZEg3YUVPMmtsczFXcVlKWHI5LU9YQ29ZWVExa2tCajBrV01XQkRCVUFCX2o4?oc=5>
 
-### 不止“爱国者”，1300枚ATACMS也打光了-观察者网
+### 美国弹药库存已不足？特朗普改口，外媒：还有低水平武器可以使用
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: guancha.cn
-- 时间: 2026-08-07 11:56
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9iVFNUbFVPQ0hEVWpXT1JRbVEtTWRKNzBHT01DU1VCTFB1elFVZ01FcEV1NlFlZjk3VHQzdnBRZ3oyNzJLTmdGcWtNNmpPSDBDcFN0YWJhZzdrbGQ4YXRTRHF6RkNyUUNha1dLM0NhUXc?oc=5>
+- 场馆: mil.ifeng.com
+- 时间: 2026-08-07 02:54
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBqTjhCblhFMUVwUE9nd1FoYXU3ZGVlSFIzYlhJRHFLcDhqMUNfSDBXYlNmRnUtXzBkNEwzR2JTV0FuY2xtNkNzZGRTZw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-07 14:47  (3 条)
+
+- **周杰伦** | 《瓦解》多少人循环过这首老歌 周杰伦无与伦比演唱会南拳妈妈 <https://www.sina.cn/news/article/nimnvkm3146873.html>
+- **特朗普** | 特朗普扬言“猛烈打击”后，伊朗称霍尔木兹海峡不会立即开放 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tdUYwZjZxMDFGZ3ZuVGt3WjZLTjVxcUItSmJVVnVwZEg3YUVPMmtsczFXcVlKWHI5LU9YQ29ZWVExa2tCajBrV01XQkRCVUFCX2o4?oc=5>
+- **特朗普** | 美国弹药库存已不足？特朗普改口，外媒：还有低水平武器可以使用 <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBqTjhCblhFMUVwUE9nd1FoYXU3ZGVlSFIzYlhJRHFLcDhqMUNfSDBXYlNmRnUtXzBkNEwzR2JTV0FuY2xtNkNzZGRTZw?oc=5>
 
 ### 2026-08-07 13:47  (8 条)
 
