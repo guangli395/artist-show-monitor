@@ -1,126 +1,89 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-07 03:45**
-- 本轮扫到 8885 条, 新增 **15** 条
+- 最近更新: **2026-08-07 05:30**
+- 本轮扫到 8893 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (15 条)
+## 本轮新发现 (8 条)
 
-### 早早锁定蔡徐坤澳门生日场演唱会门票
+### 小伙好不容易攒够钱带女朋友去看周杰伦演唱会，没想到是个冒牌货
 
-- 艺人/关键词: **蔡徐坤**
+- 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimnent3233584.html>
+- 链接: <https://www.sina.cn/news/article/nimnenr0105059.html>
 
-### 蔡徐坤新加坡演唱会哭了？现场哽咽与2026巡演场次说明
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimmyev3243369.html>
-
-### 蔡徐坤演唱会新加坡站官宣视频发布：THE DEADMAN海外首站定档10月24日
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimmyem4161045.html>
-
-### 蔡徐坤演唱会新加坡哭了？2023落泪事件与2026巡演新进展
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimmyev3216043.html>
-
-### 蔡徐坤演唱会新加坡站官宣了吗？定档[2026年10月24日]
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimmyem4153253.html>
-
-### 特朗普签署针对出生公民权的行政令 将严厉打击“生育旅游”
+### 特朗普行政令收紧“出生公民权” 遏止“生育旅游”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-08-06 21:06
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE52bVl6NHItREVkcE9RNlhHOTQ0RTRwWGo2emJEOXRCNm9hcTN5dWl3X1A0QXV0Y3p1T1RPVkhEdHhQQWFlQXF2WUotSHVPNUlVeVVR?oc=5>
+- 场馆: 新华网
+- 时间: 2026-08-07 01:38
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1LeVcySHRKVzZWbUtGTUNHaUs4cHo4c3p4elkzNC1tS0ItRi0tX2F5LVdUSl9yRnliVUdjekpJNEExQmhKUWExRlV0bThGdWppZDlnUXRacU1ObU9TdWozWEJoY3lzVzMtUE9fUFhGN0E0ZzYyel84TmVqZXpTWHc?oc=5>
 
-### 新华社消息丨特朗普再签行政令 禁止“生育旅游”收紧“出生公民权”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网客户端
-- 时间: 2026-08-07 02:15
-- 链接: <https://news.google.com/rss/articles/CBMimgFBVV95cUxNWjhnMEJEb2gxZVQ3RlNYUkdOTkU0cDViZ0JWa2tkbmRDeWNIczhyckRRdnYyejNEZVJVcHNGTU83QnNWMm1xWm1nOVNCNk9QQmh1M0RrWWhkSXVkQkRSOFNWazM4SmxORkszZEtWZlFoQ0dJSVNuTG10QVhMcFc1eXJrN2VPc3RYNUFpMmlBVk9EazcxMEdmdjVB?oc=5>
-
-### 特朗普：美国某些弹药供应相对紧张
+### “向特朗普同志致敬！”美国，超级抹红大赛开始了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 央视网
-- 时间: 2026-08-07 01:42
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFA1dHpjT0R5Sl9xczBFZnpSSEREdU50NzhaXzA0WUJCSmlBNmozUlFKcjViNlBmeEtuUGM0MENta1FPUVp3UlNJV0FELU5UMUJ1M1ZNYURzU0Q1Y2JwZDlZSEt2dFFXNzRjMWQ3MVRqWFhoTDlvUzlEeg?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-08-07 01:04
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9KVks4RFkwMUxqZF84eUZhWkpoQkswbjU0d3lNSHk1MGJXRHV3eXZ1WGlDRkdBeExXQTV4RGJ3bzdFZzhOei1wQU96djZpT2p2U2o0aW9IVkd6ckFQeWkxcEdEeEUybG5uUXAxcHRuT0k?oc=5>
 
-### 特朗普承认：美国某些弹药供应相对紧张
+### 特朗普承认：部分弹药供应紧张-观察者网
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-08-07 03:39
-- 链接: <https://news.google.com/rss/articles/CBMijgFBVV95cUxQTjA2T0ZQWF83VlRyNlZDeS04N0VfMVowZUFGZWJBZGxCSUI2cDMtWi1oYmM5aWVHUDdIdEtuMnkxOS1qbDVmYjVxN2hoLWRBcER6dGtpSXJjeVRPQ193UERFOGJDN2JHaTNZRlNKVFVkZVhkajlvQk9najZJX2xpREVpOGREd3BlZEFDVXhn?oc=5>
+- 场馆: 观察者
+- 时间: 2026-08-06 22:46
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9YS1ZYeVJkUExtLUtvTGlkNHdWYzRyT3hqb3AwOGQ3VFNEXzNMdUVFQmRzOEZqb1owTGxiakY2TGhGdVpkTVpiMG1vTFd5bTMzQW9XSVVMRVRDVWdza2ppOVVrZGFQN2FqdWc?oc=5>
 
-### 特朗普：对多晶硅及其衍生产品加征关税
+### “特朗普”级战列舰总造价或达2750亿美元，美本土造船厂可能还造不来-观察者网
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-08-06 11:18
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5BbFFGNFFFQkM0ZGRjUnU0aWVibUxkRzlJNnFTbnV4RHVNQlRxZ3UwWFlIdkRpd0lsN3R5N1FQbi10V3RJVV9nMEdBbDFOWVpRR2lzUVlFTmJVNG9LOHNLTkwwRmZ6enFUbWc?oc=5>
+
+### 特朗普级战舰计划将是美国史上造价最高军舰项目
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-08-06 10:06
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1oNTk1NGFmN1Q3Zl9ISDlsdk1UellFNVpNa3BIY20zSVZGR2d3X2ZKYk1XX2llcllJc3VIR2JQWkNOMzQwTzF2X0s5RGNfN2dBQWlCOGxkeFRHeTk4SEgydGtGWEJnZw?oc=5>
+
+### 特朗普宣布对多晶硅及其衍生产品加征关税
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-08-06 23:22
-- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ldWJwbG5CY2R5TzRIS1ZfMzVaeXZqZlZYYW85RkMyS1JHTk1ocnJRbzRlbHBQVEd3ZVEwOE9CSzhsS0JWWXZhOVVZclBuNnIy?oc=5>
+- 时间: 2026-08-06 22:13
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE0xSWNNbm53OVpsUUt3VWlxQklkeF9CYXE5OHlacW1UVXF6Mnl6akhxREg5MnlpVXRkMWVhM2hUNmc0aVVUelFlZldEdzM?oc=5>
 
-### 特朗普政府退还1000亿美元“解放日”关税
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-05 20:30
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQ21OMHJOaENuRTg2cGVwWS1DdGlla2RtYm4tTElnZ1FpbmFPdm02QUZ4bEo1ZnNKQk9TRkZackJNVzZ2QlZOeDBteWRsNm5LdnJiUzVrWWwzS0JuVXpSdjhlVWhJWkZNeDFQdGFMMkRYUDUwMWFNdE02TV9rMjJxY0NtWDVpcHBmU1lFOS1UZ05fVzNCaElBU19KczRzWTN0b0pTbGw5MGw5cEZHYzRzM2lrZHRuZFV4VEFPX3FWZmxIRFJETGg1TDRJUTlMUWFxUHpxdlNySlBYQUduSHd3?oc=5>
-
-### 特朗普“黄金舰队”造价或高达2750亿美元
+### 国际｜特朗普专机与客机同时从华盛顿起飞，一度“过于接近”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: china.zjol.com.cn
-- 时间: 2026-08-07 00:58
-- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTE5oei1rajRYYjV6Y3VWRUVuYlVhSUtLalhPdXNWaTl6Nm5ZS2FuTUxrYkdTYUhtV2xOdi1JU21rREpoTy1Mb0VvUkxfYks3VUx5eXhWQnpseU9OVFVNMGJCMlY1ZlNIOHduOFI1d0JR?oc=5>
-
-### 泽连斯基要导弹，特朗普最新表态：我们也想要
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 环球网
-- 时间: 2026-08-06 12:37
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Kcm1GNHpMRkp2WTRkNFU4SkluZGQwdjhsY2x0dEhRc1VsOHRXc2tPYXB6NGFTN3k0bndkcElqMXJDUVhVVEhHVTdCNHh6ZUdpNlBMRXdhS00?oc=5>
-
-### 特朗普不满美军弹药库存报道，下令严查泄密事件
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-08-07 02:55
-- 链接: <https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ0JrUENhMHpEb2lZdlNUd1dxMWZEc2plYmJzX2F4UGxPaWNwNVg2ZDB0SFZ0cXZnN1N0SGk3dUI0SlJ5Q2JmcGxCeGNkQ2ItX3RpM2J1ZUVaYmZPS1RIZ1poY1JlUU0tZHFab2FsVHNHakkyemxmdzRrVmFTcm1zeVR1M3ZGU1Z4MmNQeG1LZ213U1Q5a0g0aldfSjFmUGVhTkZqa3pVdG80XzkyZmRqeGkzVHBzVkJpdmc?oc=5>
-
-### 特朗普总统：在霍尔木兹海峡谈判继续之际，他更倾向于达成和平协议而非军事行动
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-08-06 15:28
-- 链接: <https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNUE5blh6ZVp6eUVyQm5nYktjNGE1TmpxYTdFdG1tZVNfWndOTEQ5Tk5GbHpuV3NxQTd6OXcxOFZndTgyRDg4ekdmR2RUd0FNMzl0ZndoUzhCUjVfZ1JJRlZsLVVRYVBXMlNiRG1rNmJ2dU00aUpKR0tlMlRQWXQ4R1ZfbXV0UkRVZE9MWmpIcnZ2T3RRamdzNEZDdTF3T0tCUGF0Wmh2dHllc3pvTlRNV0gyYnZSN0lxMGg2MjBxRk85djJTVVRNQVp5ZTlMWG5kdUQ4ZndMUGZzWS1h0gHfAUFVX3lxTFBlZHFLMUhnTlpIQXRnX1pGdWRJcmhwN0hld214VXlwSXRHZUxaNlBSbS1DVFFUcUN5cWdwenpsQTJLb0Y3WEx3aU1UWkk5WGNHRVQ4OHZxcjJBRlhoS3FaR01WbUJHemhqSFFQODRqTTZHUEJxT1o5Z0hDa3NQWDNnOEViR2RhcmJiU1ctSE8yVTh6MkdJQkVnbDNVN3MwcE5fMzRmSmFQRTg1YWY3SzROZVd2a2tKbWtTMnRqSWtMNHNGT1RSU2xlMi1xd3BId0tFWi1US01OTUp6YXJGdlk?oc=5>
+- 场馆: 新京报
+- 时间: 2026-08-06 09:00
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LSU52R1lxekRwcGtOcGRPeURKdjY0cHhabWZPN0FMbE4zbmZlN0RVczlnU0c4aV9pUl9XaTJrN21rX1p2bFlPOEs4QV9nREw4bjcwSzlNY3p3dzVnVkdBUDdhQnA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-07 05:30  (8 条)
+
+- **周杰伦** | 小伙好不容易攒够钱带女朋友去看周杰伦演唱会，没想到是个冒牌货 <https://www.sina.cn/news/article/nimnenr0105059.html>
+- **特朗普** | 特朗普行政令收紧“出生公民权” 遏止“生育旅游” <https://news.google.com/rss/articles/CBMif0FVX3lxTE1LeVcySHRKVzZWbUtGTUNHaUs4cHo4c3p4elkzNC1tS0ItRi0tX2F5LVdUSl9yRnliVUdjekpJNEExQmhKUWExRlV0bThGdWppZDlnUXRacU1ObU9TdWozWEJoY3lzVzMtUE9fUFhGN0E0ZzYyel84TmVqZXpTWHc?oc=5>
+- **特朗普** | “向特朗普同志致敬！”美国，超级抹红大赛开始了 <https://news.google.com/rss/articles/CBMicEFVX3lxTE9KVks4RFkwMUxqZF84eUZhWkpoQkswbjU0d3lNSHk1MGJXRHV3eXZ1WGlDRkdBeExXQTV4RGJ3bzdFZzhOei1wQU96djZpT2p2U2o0aW9IVkd6ckFQeWkxcEdEeEUybG5uUXAxcHRuT0k?oc=5>
+- **特朗普** | 特朗普承认：部分弹药供应紧张-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE9YS1ZYeVJkUExtLUtvTGlkNHdWYzRyT3hqb3AwOGQ3VFNEXzNMdUVFQmRzOEZqb1owTGxiakY2TGhGdVpkTVpiMG1vTFd5bTMzQW9XSVVMRVRDVWdza2ppOVVrZGFQN2FqdWc?oc=5>
+- **特朗普** | “特朗普”级战列舰总造价或达2750亿美元，美本土造船厂可能还造不来-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE5BbFFGNFFFQkM0ZGRjUnU0aWVibUxkRzlJNnFTbnV4RHVNQlRxZ3UwWFlIdkRpd0lsN3R5N1FQbi10V3RJVV9nMEdBbDFOWVpRR2lzUVlFTmJVNG9LOHNLTkwwRmZ6enFUbWc?oc=5>
+- **特朗普** | 特朗普级战舰计划将是美国史上造价最高军舰项目 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1oNTk1NGFmN1Q3Zl9ISDlsdk1UellFNVpNa3BIY20zSVZGR2d3X2ZKYk1XX2llcllJc3VIR2JQWkNOMzQwTzF2X0s5RGNfN2dBQWlCOGxkeFRHeTk4SEgydGtGWEJnZw?oc=5>
+- **特朗普** | 特朗普宣布对多晶硅及其衍生产品加征关税 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE0xSWNNbm53OVpsUUt3VWlxQklkeF9CYXE5OHlacW1UVXF6Mnl6akhxREg5MnlpVXRkMWVhM2hUNmc0aVVUelFlZldEdzM?oc=5>
+- **特朗普** | 国际｜特朗普专机与客机同时从华盛顿起飞，一度“过于接近” <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LSU52R1lxekRwcGtOcGRPeURKdjY0cHhabWZPN0FMbE4zbmZlN0RVczlnU0c4aV9pUl9XaTJrN21rX1p2bFlPOEs4QV9nREw4bjcwSzlNY3p3dzVnVkdBUDdhQnA?oc=5>
 
 ### 2026-08-07 03:45  (15 条)
 
