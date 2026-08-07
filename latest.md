@@ -1,38 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-07 14:47**
-- 本轮扫到 8937 条, 新增 **3** 条
+- 最近更新: **2026-08-07 15:49**
+- 本轮扫到 8940 条, 新增 **3** 条
 
 ---
 
 ## 本轮新发现 (3 条)
 
-### 《瓦解》多少人循环过这首老歌 周杰伦无与伦比演唱会南拳妈妈
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimnvkm3146873.html>
-
-### 特朗普扬言“猛烈打击”后，伊朗称霍尔木兹海峡不会立即开放
+### 特朗普将召集全球部分大型矿业公司高管开会
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-08-05 09:47
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tdUYwZjZxMDFGZ3ZuVGt3WjZLTjVxcUItSmJVVnVwZEg3YUVPMmtsczFXcVlKWHI5LU9YQ29ZWVExa2tCajBrV01XQkRCVUFCX2o4?oc=5>
+- 场馆: 东方财富
+- 时间: 2026-08-07 10:32
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE01cE1mOWt1Ui1jQ2twVEFKSEtPQlAwbGtLTmFXZzFaSGYxZTA0T3Z3RHh5R3d0V0ZYVHhRYjZiNkxxSU4xa0xqbzZJeWdqMkpSNFMwd19feXBsWndUZGd1YQ?oc=5>
 
-### 美国弹药库存已不足？特朗普改口，外媒：还有低水平武器可以使用
+### 特朗普政府已退还1000亿美元关税，都给谁了？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: mil.ifeng.com
-- 时间: 2026-08-07 02:54
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBqTjhCblhFMUVwUE9nd1FoYXU3ZGVlSFIzYlhJRHFLcDhqMUNfSDBXYlNmRnUtXzBkNEwzR2JTV0FuY2xtNkNzZGRTZw?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-05 08:33
+- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxNOHZhTTZhLTA5V0dOUThEU1Rodm5adVVJVjgzZTcwTm5WcS1FSm1TN2VnYVFkQTZpS3RodW5TVUYyODFmejl1MDJmYk56ZDR1TGJTeVV6a2YzM1NDQVpPMGZzekpZLWVPdXR1UWlYaTBwMXpJWVRtM21ERUJfbGVUejYwbkFxUXZzVW1XOWxrenhPVklFa3JUYVZyQkFsQ3JfTGloT1oxVkR6MmFjZmdwa1c3TllnSXNOdElzLThGZEFkR2xIOGp4OXNqS1F0eUE?oc=5>
+
+### 特朗普说谈得不错，伊朗反手递了禁航令
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-08-07 09:56
+- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTFBpUnlBTmlXYkRkSUFFXzJFSFRkekN6VXIyZE9zeHYwM0hRblRjSFZva3BvMVZoVnJzWnlaSGhTYmloLU1JRnR1MUtnQXFrT1ot?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-07 15:49  (3 条)
+
+- **特朗普** | 特朗普将召集全球部分大型矿业公司高管开会 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE01cE1mOWt1Ui1jQ2twVEFKSEtPQlAwbGtLTmFXZzFaSGYxZTA0T3Z3RHh5R3d0V0ZYVHhRYjZiNkxxSU4xa0xqbzZJeWdqMkpSNFMwd19feXBsWndUZGd1YQ?oc=5>
+- **特朗普** | 特朗普政府已退还1000亿美元关税，都给谁了？ <https://news.google.com/rss/articles/CBMizwFBVV95cUxNOHZhTTZhLTA5V0dOUThEU1Rodm5adVVJVjgzZTcwTm5WcS1FSm1TN2VnYVFkQTZpS3RodW5TVUYyODFmejl1MDJmYk56ZDR1TGJTeVV6a2YzM1NDQVpPMGZzekpZLWVPdXR1UWlYaTBwMXpJWVRtM21ERUJfbGVUejYwbkFxUXZzVW1XOWxrenhPVklFa3JUYVZyQkFsQ3JfTGloT1oxVkR6MmFjZmdwa1c3TllnSXNOdElzLThGZEFkR2xIOGp4OXNqS1F0eUE?oc=5>
+- **特朗普** | 特朗普说谈得不错，伊朗反手递了禁航令 <https://news.google.com/rss/articles/CBMiUEFVX3lxTFBpUnlBTmlXYkRkSUFFXzJFSFRkekN6VXIyZE9zeHYwM0hRblRjSFZva3BvMVZoVnJzWnlaSGhTYmloLU1JRnR1MUtnQXFrT1ot?oc=5>
 
 ### 2026-08-07 14:47  (3 条)
 
