@@ -1,39 +1,13 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-07 23:06**
-- 本轮扫到 8962 条, 新增 **3** 条
+- 最近更新: **2026-08-07 23:56**
+- 本轮扫到 8962 条, 新增 **0** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮无新增
 
-### 特朗普力推30亿美元关键矿产投资项目
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-07 21:25
-- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE1USThjbFZUZmdoa25qM05tQUNQbFoxaldzOEJvVGk2N0tqUEVtUzViMk4tSWNMUDZZVXZQVXRKQTZscXQwVHkzNWltOE1mLXBHQUJZR0E3UnNGWVFnMXNPRVhfX3hRa2hmbGdVZ18xZE5YOW53NUxTVWZn?oc=5>
-
-### 涉台问题，特朗普的教训还没吃够
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-08-06 02:59
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE14NjI3UXFFQVB5dFIwRFYwNlJWTGNieFVxRWNNcUNYdGVFeEd1RWFLSkNURDRlTzZKamF4c1BubzZtM2pLRDA1QUJmYjhjdDMzcWU4U2Z3S3B2ZUZ1VF9xckRRY0JCQlFtaVE?oc=5>
-
-### 特朗普：伊朗不能撑太久，战争将很快结束，美军有一些弹药稍显紧张！伊朗公布拟议的海峡管理文本
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-07 00:52
-- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaFFfNlpiZVhrX2ZWZkdCYXRQZHl3ZVgyUjhMRFZWLUNlR0E0NFBVQV82NG51b3gwS21aOXpqR3R0c2Z3SkpGcFluN2E1bnRPX2tUOHZEbU9JOE4yS19NdzdPY09wQUcwcUxoUTFBaUx1Z05QQnFtYWN2cGlzcTBQTVlmTEl2NzNtWWpB?oc=5>
-
-
----
-
+数据库里所有演出/动态都已见过,暂无新增。
 ## 历史发现
 
 ### 2026-08-07 23:06  (3 条)
