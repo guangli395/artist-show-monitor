@@ -1,23 +1,41 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-07 06:49**
-- 本轮扫到 8898 条, 新增 **5** 条
+- 最近更新: **2026-08-07 08:09**
+- 本轮扫到 8907 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (9 条)
 
-### 你心中最想去看谁的演唱会？为什么选他？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimnkur3222371.html>
-
-### 周杰伦8月杭州演唱会还有余票吗？
+### 刘若雪发布律师声明否认非婚生子传闻
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimnkuf4145055.html>
+- 链接: <https://www.sina.cn/news/article/nimnrac4098945.html>
+
+### 刘若雪方发布律师声明：网传所谓与周杰伦存在非婚生子等言论均为不实信息
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimnrak9988644.html>
+
+### 刘若雪律师发布声明：网传所谓与周杰伦存在非婚生子等言论为不实信息，要求立刻停止并删除侵权信息，将对侵权行为取证并依法追究
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimnrai3229567.html>
+
+### 刘若雪方发布声明 否认与周杰伦“非婚生子”传闻
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimnrai3209581.html>
+
+### 你最想去看谁的演唱会？周杰伦以427.5万想看人数断层领跑
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimnrac4080895.html>
 
 ### 特朗普政府已退还1000亿美元关税，都给谁了？
 
@@ -25,28 +43,48 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-08-05 08:33
-- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxNZjU4N2Y4aFVZZGZwcWVTQVJBeHNHSTdqYlZvRWF1a1FFLUR3N0pUYkp5aWlEQnYtX1NPNEY2LTg0R3JGREpPYmxZeW92MjV1SmFTaWd1Y0NkTmZzTUJMMHhhRkxmb3NiOTJFV3ZDS2dHUmVySzNIaWc4SWREUW5kOVFOQlFLdjl3cWMwaWx1SjREZk1VazN2ZVJab3czS0RRVTlLa0d4elNqMjN3MTNsYURPT2hqekxWVUdYbm94R3ZkYjRIV3VfUEZXMkZmeFU?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVWZtdzVkd1Q4dFhHRVZsVlAwQ0puWk0zNUJKcC03RHBCc05QcGI4aEUtUmNZd1h0WWZhY012Y3V0X3R5VGVMXzU1SFZsMnpvMVlYSE5vdjBHTUczUnBaQ0NSSTU2ellBRkNqeVY4MVRTODVqY3NWeDBqdjhJQUhFQ0NMX2xOWmNhV0xzeGNGZUdnNm5HSENLOEdtT3VONklKWW14MWo0dERrRHN1aUF6enBCZ1M4dlRQRGViY0pFRXFvQVJNZHFRSXotWU5UVkZN?oc=5>
 
-### 法庭文件：美国已退还约1280亿新元特朗普关税
+### 大西洋观察｜特朗普助力金砖合作
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-08-06 01:20
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFXzJtZndTOTBmS2c5QTdwakFoYVE0R3BHakJweWdzRTFMdGh4aW03S1NuRlRSM1c2QWpTMmFCcEdGRG82NEp1S21QSWFrRGJzN1hxekZFMmZTSVgtQWM3NTNaNkpDUQ?oc=5>
+- 场馆: 财新
+- 时间: 2026-08-07 07:07
+- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTFBmNEotYTVNS24tSDZ3bXhmb3NKaUVaY0xGNXJrU3FObno1aFpUeWJOc2dOb0xFVnZ1eWFqY2JEQWRtUGlLR1h6bHdRaTRkTkMyZkNzWEhMdV9OSnNvbkNVYmhB?oc=5>
 
-### 美国出生公民权：特朗普签署行政命令 试图重新设限
+### “特朗普想缓和对华关系，美国年轻人也不想陷入新冷战”
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-08-07 03:19
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE54TTZGVzIzWG1QWjZQeWU5UWFwUnI5cmRlS2Q1VXFwNm1xdFFQVE9vay0taHR6Qzlkdm8tVWI3ekMxWXMwU0p2aWRsd3kxeWR2aGZ0SHU5cTdaN0RDVkh6WkdtR1ZMUdIBa0FVX3lxTE9RYi1UazMxaVNYLVZqTnNLMzZYVHpiYnpQZnkxNlVFZ2VjWUhZeUZxUS1Bc0FNbmhwaVd0a1dkTTdJSWE1c3JEVWU1cFNjZXI3ajcyd0Vvcy13ZmdoLUFXSm5xRUZUc21vc0tv?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-08-07 04:49
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1NaURyekdXY1RHc2pYbTFFSng4UThwbVFLWk0zOFZSR1FxOHZzY2FBc09qNDNaVlVrVUxVazhQdVlpNDhmY3JQS252NW0?oc=5>
+
+### 特朗普承认部分类型弹药供应“相对紧张”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-08-06 23:52
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBuUVg1WGtGWDhiNEZIenVTRjZ2S2dCZFFtSzVIY2pHM0M3VExpOVhzUXBaSlg1dkdjRi1Lb3ZyNEU5VHYyd01scFZ1Snp2QmM2NkpHcHJ5OHViVjJPRzlKODhsQWlPNEN2U250d1hlUDVCM3JCNmZad2N6REJiYW8?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-07 08:09  (9 条)
+
+- **周杰伦** | 刘若雪发布律师声明否认非婚生子传闻 <https://www.sina.cn/news/article/nimnrac4098945.html>
+- **周杰伦** | 刘若雪方发布律师声明：网传所谓与周杰伦存在非婚生子等言论均为不实信息 <https://www.sina.cn/news/article/nimnrak9988644.html>
+- **周杰伦** | 刘若雪律师发布声明：网传所谓与周杰伦存在非婚生子等言论为不实信息，要求立刻停止并删除侵权信息，将对侵权行为取证并依法追究 <https://www.sina.cn/news/article/nimnrai3229567.html>
+- **周杰伦** | 刘若雪方发布声明 否认与周杰伦“非婚生子”传闻 <https://www.sina.cn/news/article/nimnrai3209581.html>
+- **周杰伦** | 你最想去看谁的演唱会？周杰伦以427.5万想看人数断层领跑 <https://www.sina.cn/news/article/nimnrac4080895.html>
+- **特朗普** | 特朗普政府已退还1000亿美元关税，都给谁了？ <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVWZtdzVkd1Q4dFhHRVZsVlAwQ0puWk0zNUJKcC03RHBCc05QcGI4aEUtUmNZd1h0WWZhY012Y3V0X3R5VGVMXzU1SFZsMnpvMVlYSE5vdjBHTUczUnBaQ0NSSTU2ellBRkNqeVY4MVRTODVqY3NWeDBqdjhJQUhFQ0NMX2xOWmNhV0xzeGNGZUdnNm5HSENLOEdtT3VONklKWW14MWo0dERrRHN1aUF6enBCZ1M4dlRQRGViY0pFRXFvQVJNZHFRSXotWU5UVkZN?oc=5>
+- **特朗普** | 大西洋观察｜特朗普助力金砖合作 <https://news.google.com/rss/articles/CBMiYkFVX3lxTFBmNEotYTVNS24tSDZ3bXhmb3NKaUVaY0xGNXJrU3FObno1aFpUeWJOc2dOb0xFVnZ1eWFqY2JEQWRtUGlLR1h6bHdRaTRkTkMyZkNzWEhMdV9OSnNvbkNVYmhB?oc=5>
+- **特朗普** | “特朗普想缓和对华关系，美国年轻人也不想陷入新冷战” <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1NaURyekdXY1RHc2pYbTFFSng4UThwbVFLWk0zOFZSR1FxOHZzY2FBc09qNDNaVlVrVUxVazhQdVlpNDhmY3JQS252NW0?oc=5>
+- **特朗普** | 特朗普承认部分类型弹药供应“相对紧张” <https://news.google.com/rss/articles/CBMif0FVX3lxTFBuUVg1WGtGWDhiNEZIenVTRjZ2S2dCZFFtSzVIY2pHM0M3VExpOVhzUXBaSlg1dkdjRi1Lb3ZyNEU5VHYyd01scFZ1Snp2QmM2NkpHcHJ5OHViVjJPRzlKODhsQWlPNEN2U250d1hlUDVCM3JCNmZad2N6REJiYW8?oc=5>
 
 ### 2026-08-07 06:49  (5 条)
 
