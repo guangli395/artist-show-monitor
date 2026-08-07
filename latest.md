@@ -1,52 +1,44 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-07 11:21**
-- 本轮扫到 8923 条, 新增 **5** 条
+- 最近更新: **2026-08-07 12:06**
+- 本轮扫到 8926 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (3 条)
 
-### 一场演唱会错位风波，筛走流量伪粉，留下陪他扛风浪的ikun
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimmpqr4285688.html>
-
-### 暑期档演出火爆：周杰伦林俊杰演唱会一票难求
+### 周杰伦新专辑《再见范特西》何时正式发布？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimnvkp4789029.html>
+- 链接: <https://www.sina.cn/news/article/nimnvkp4808591.html>
 
-### 特朗普：我的支持率应该是150%
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-07 10:28
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE4yakd5aXY2NTBiWlVSNTNhWnVRYXRhaGVhQUtDTVpWSE84bW40ckE1c1VDTXZRa3VUUXRSd3hhVjRPVWg3MVZUQ1RyNU8?oc=5>
-
-### 美参议员怒斥：特朗普从战争中牟取暴利 外交政策成筹码
+### 特朗普宣布对多晶硅及其衍生产品加征关税
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-08-07 09:54
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBrUDdsWmpoaXdZVDU5RXZUU25tYnYtWnJCQzRKX192amk1OHFjOXUwZ3hfUElmWVJLeDRMWmhENzFQVlYyajdqbkZHSkh2WEk1U3hsUjZnS0sxRDNqZk9uUHZRYUE1Z05lSVk4Nk9oNno?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-08-07 00:52
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE5lVDNsR3Q1ZVJhR2IybXl3alJVU1U0QjJNcEFWWHJoa0lOSGZzMXd1T3c5eDcxZTNfdGxLaU43bDY3ZDNvS2VLUmt3cWRwWnBjbUM3QWtYRmY5ZmsyNTJwVUVKWkxtbGpEY2IySFhuOXhRdDZnQU1GTkYyM2NRRTQ?oc=5>
 
-### 视频丨特朗普再称对伊朗战争将很快结束
+### 特朗普政府已退还1000亿美元关税，都给谁了？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 央广网
-- 时间: 2026-08-07 01:57
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE1jMldyWkRkcHdvVGV6eUVxMldtRnZodFNqdFVCcmJlRF9Oa2J2VEZleTJ6aVhoV2llX1cwRU1ISUhoTTFoSXBEUVlxOVFldFRuNFB0Tkgwc09vNzJ5aUxGNnZzbTNPRFdudkhJTmlFS0R4M3o3cmc?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-05 08:33
+- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxOSzNFQkFiQnhyTXIxMmVyMVBWZG5mLWlWcDlRcUQ3dWNiSmE3SDZ4bVRvX0l1ZGxESFpKWjcyMHNvUldrWGZqR1RhZDZXdVVGQm4xY1hXZUl3a1dJZ0liY3I4ZXprNERVR3ZDVW5UM3NsbXdIUzB1T2c3YVZQelRiU1g5LW9ua2VocER6aXQzY2hFOUxlaHBUSlRJa2gzblN1ZmdZVHd4YlZiVjRIOVgwOU5yX2lsajM0OHJCTHBaMWRKNHdEcjZncTZYTW4wSmc?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-07 12:06  (3 条)
+
+- **周杰伦** | 周杰伦新专辑《再见范特西》何时正式发布？ <https://www.sina.cn/news/article/nimnvkp4808591.html>
+- **特朗普** | 特朗普宣布对多晶硅及其衍生产品加征关税 <https://news.google.com/rss/articles/CBMif0FVX3lxTE5lVDNsR3Q1ZVJhR2IybXl3alJVU1U0QjJNcEFWWHJoa0lOSGZzMXd1T3c5eDcxZTNfdGxLaU43bDY3ZDNvS2VLUmt3cWRwWnBjbUM3QWtYRmY5ZmsyNTJwVUVKWkxtbGpEY2IySFhuOXhRdDZnQU1GTkYyM2NRRTQ?oc=5>
+- **特朗普** | 特朗普政府已退还1000亿美元关税，都给谁了？ <https://news.google.com/rss/articles/CBMizwFBVV95cUxOSzNFQkFiQnhyTXIxMmVyMVBWZG5mLWlWcDlRcUQ3dWNiSmE3SDZ4bVRvX0l1ZGxESFpKWjcyMHNvUldrWGZqR1RhZDZXdVVGQm4xY1hXZUl3a1dJZ0liY3I4ZXprNERVR3ZDVW5UM3NsbXdIUzB1T2c3YVZQelRiU1g5LW9ua2VocER6aXQzY2hFOUxlaHBUSlRJa2gzblN1ZmdZVHd4YlZiVjRIOVgwOU5yX2lsajM0OHJCTHBaMWRKNHdEcjZncTZYTW4wSmc?oc=5>
 
 ### 2026-08-07 11:21  (5 条)
 
