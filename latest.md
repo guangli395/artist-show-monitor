@@ -1,39 +1,13 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-08 04:33**
-- 本轮扫到 8981 条, 新增 **3** 条
+- 最近更新: **2026-08-08 05:37**
+- 本轮扫到 8981 条, 新增 **0** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮无新增
 
-### 中期选举临近，特朗普连续21场败诉
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: guancha.cn
-- 时间: 2026-08-07 14:16
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9mTzQyeGRYSFpqeGljcGdHMXlkdDZGRUFnTExJcXhrTUNtZUpleUFQeFFtblRNbnhUc19tcy1Rc2JmbjR4RkVHektuc2JzdVByelVJZmhYaXN5MXN0TFYybW5GQXFLMXFRbFE?oc=5>
-
-### 特朗普承认部分类型弹药供应“相对紧张”，已下令调查美军弹药库存信息泄露
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-07 19:57
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE53eEczWFdtQUNOT3lCMkpnVmI0c00xQWx0SUlIbTN1eHNJb3diOFUyck11TEhnbl9kcFF0eklWOVJYQlJPOGlWdlhCZnMzdjExRHZkNk5SSTN4OHMzVnVhU0VTTGZkaEN1YzdpeVUzYVo0VGRjMDI2cA?oc=5>
-
-### 耗资4亿美元，特朗普的白宫宴会厅修建项目被叫停
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-07 15:30
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE11dUdQWXVsMEg1a0ZmM1F4REZzaHUtWnRDUVNWVGQwYXZiOTFQMXVLaWRPcW5BWjRoemJod05tYXpfYm5mZUU3R01EX3Q?oc=5>
-
-
----
-
+数据库里所有演出/动态都已见过,暂无新增。
 ## 历史发现
 
 ### 2026-08-08 04:33  (3 条)
