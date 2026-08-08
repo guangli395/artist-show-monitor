@@ -1,14 +1,53 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-07 23:56**
-- 本轮扫到 8962 条, 新增 **0** 条
+- 最近更新: **2026-08-08 01:18**
+- 本轮扫到 8966 条, 新增 **4** 条
 
 ---
 
-## 本轮无新增
+## 本轮新发现 (4 条)
 
-数据库里所有演出/动态都已见过,暂无新增。
+### 小伙好不容易攒够钱带女朋友去看周杰伦演唱会，没想到是个冒牌货
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimnkum3243997.html>
+
+### 特朗普说了5遍“招人讨厌”，加拿大反呛
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-08-08 00:09
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5pWmo5OGJoQ0N4U2FsdmxTdUpENGp2UHFTTUpsMjh3bXZYU1NHRWRubW9iSDJxR2Jaam9MSG1PenoxRjhORzVoNC0wY3J2ZVFoUjlYZnh2Nm5kTXZoM2hMUG9lc0xPQ3pKSmxoZ1dXRGE?oc=5>
+
+### 特朗普称加拿大“招人讨厌”，加总理反呛：这词适合用来形容与美国的贸易谈判
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: world.huanqiu.com
+- 时间: 2026-08-06 17:58
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pU3h3MWVNRXBPQ256Q0F6dFNWVkRmeVVIcnRFOWszQWpfYml4NS1BTjFoLVdabjBFSHZPNFo1a0tiUTR5VjRjSWZqdnRUTExzWEk2T2VhTl8?oc=5>
+
+### 特朗普加密新闻：DJT因市场状况取消Crypto.com合作，CRO代币下跌5%
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: CoinDesk
+- 时间: 2026-08-07 21:13
+- 链接: <https://news.google.com/rss/articles/CBMiugFBVV95cUxPd0VIRXhUVk9qeENEc2NqS0g3dHg3a1dsZGx4RGMxd0hrUzJQNG9ETnpzYTBvUjRYZW5CUG1tNW5UUWV1S2s4alU0Ry1vTFpQSWR6c3ZONlhybmJhV3RqTHdpQmFRZkdFYkNoTU9UZzZaSmpuNGdhM0YyNFdFUVctMFNwUDg2QXE0c2NJWTh4TTZVUGFhSXk0dV9EaUwxT3lCcVEtc0xjeTFhbkJXV3Ixd3dzM2JqbS1JLVE?oc=5>
+
+
+---
+
 ## 历史发现
+
+### 2026-08-08 01:18  (4 条)
+
+- **周杰伦** | 小伙好不容易攒够钱带女朋友去看周杰伦演唱会，没想到是个冒牌货 <https://www.sina.cn/news/article/nimnkum3243997.html>
+- **特朗普** | 特朗普说了5遍“招人讨厌”，加拿大反呛 <https://news.google.com/rss/articles/CBMicEFVX3lxTE5pWmo5OGJoQ0N4U2FsdmxTdUpENGp2UHFTTUpsMjh3bXZYU1NHRWRubW9iSDJxR2Jaam9MSG1PenoxRjhORzVoNC0wY3J2ZVFoUjlYZnh2Nm5kTXZoM2hMUG9lc0xPQ3pKSmxoZ1dXRGE?oc=5>
+- **特朗普** | 特朗普称加拿大“招人讨厌”，加总理反呛：这词适合用来形容与美国的贸易谈判 <https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pU3h3MWVNRXBPQ256Q0F6dFNWVkRmeVVIcnRFOWszQWpfYml4NS1BTjFoLVdabjBFSHZPNFo1a0tiUTR5VjRjSWZqdnRUTExzWEk2T2VhTl8?oc=5>
+- **Trump** | 特朗普加密新闻：DJT因市场状况取消Crypto.com合作，CRO代币下跌5% <https://news.google.com/rss/articles/CBMiugFBVV95cUxPd0VIRXhUVk9qeENEc2NqS0g3dHg3a1dsZGx4RGMxd0hrUzJQNG9ETnpzYTBvUjRYZW5CUG1tNW5UUWV1S2s4alU0Ry1vTFpQSWR6c3ZONlhybmJhV3RqTHdpQmFRZkdFYkNoTU9UZzZaSmpuNGdhM0YyNFdFUVctMFNwUDg2QXE0c2NJWTh4TTZVUGFhSXk0dV9EaUwxT3lCcVEtc0xjeTFhbkJXV3Ixd3dzM2JqbS1JLVE?oc=5>
 
 ### 2026-08-07 23:06  (3 条)
 
