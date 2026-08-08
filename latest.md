@@ -1,56 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-08 06:40**
-- 本轮扫到 8986 条, 新增 **5** 条
+- 最近更新: **2026-08-08 07:42**
+- 本轮扫到 8988 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (2 条)
 
-### 白宫宴会厅改造再遇阻 特朗普斥裁决“不公”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-08-08 05:09
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE5lUHVHWlAzUmp5eHJjRnJJNTVSYWdBWFc1RE0wcmUtNmYwdG1FUE5GeVkxdFJHOHZ5RjVCZHVHcFdXRTROaHp3N2dFMnlLcW5SdGZsTjhNbDVyMEJURTZkZXJ3YXRqZ2R1bmNYOGtMWEtoakphMUJZREVnQzd5OUE?oc=5>
-
-### 特朗普说了5遍“招人讨厌”，加拿大反呛
+### 特朗普解除伊朗制裁，中东格局一夜变天
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-08-08 02:49
-- 链接: <https://news.google.com/rss/articles/CBMilgFBVV95cUxOQlBIcWFlRk8xRHdEWk5pYzh3bkI3SmNCMm1JWGlwaVhlWmVHSnZGZjREMHdMTklPRzNtNlFVRjEzV0R3dUgxQnRLWW80V0FUbDFrMXZWS0tWa0Ztc3I3Y3I1VkxzM0lHVXN2UTVLUkU2X2lqM1BXalNLV2VtZTJOR3Npa0o5N09SOVhxV2FNZHh2OEtGYVE?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-08-08 07:15
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxNWWFNVVdpdGxFS1d2YWt1dDZrY0pldXZUOEpOQVBwbWMzU3laTllCTjktb0RwSENJN2x4SVAtVFFvY04wXzFFNTYxaFMxZkM1U1k0WWtrT091b1RKaWR2cjlsQjFpUHUtUDJubVI4cm90QXdKZ1l2T0ZkY29KbjJsaVR2bUpFTWNyaXhTNkZhQWxaeE5EbnR2MjdBLUVlcUo5ZUduZl9CX2J0RElRam8xZ0Nuak9WamtrOXBjc0diaVpwd1oxSDlzbWVsbjk5NXhFeHdiMnpqMjNUZHQ5OHg0?oc=5>
 
-### 特朗普下令对多晶硅开征15%关税 设最低进口价
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-08-07 13:29
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5UY3BOVXVtb1VZZFhmVXU2alhsQmZ0Zk1TTm43Qy1fZ0FVNUc1MUpZSFk0M184X1doN0RZYkh6c3N5ZjNfU21JbE5VZzRrYVctVmZLMU1lTnZFanBiVHJKV1ZkLUJMdw?oc=5>
-
-### 特朗普称向关键矿产投资30亿美元
+### 特朗普关税“换壳”术还能撑多久 经济账本引发25州联合诉讼
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-08 00:12
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE8tRUlwazh0bmI1T2xYVUphQThHcjVxdDZrZzA4VmVhNllJNVcwQlNnVWMxUVJzN1pxQXY5WGdoRjVUVFR6MnhqMnlOQ1Y?oc=5>
-
-### 美联储独立性再迎挑战，特朗普重启解雇理事库克行动
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网财经
-- 时间: 2026-08-07 18:33
-- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE5mNEo0bkJlT2VuZDlMSlB5cWFKQTd0cURnT0tGVzhmY05fTjZlVnhZTU5mdFM1MTV6dGlCTGJRbGVDaVB2VENyS0hwRWR4V1FL?oc=5>
+- 场馆: 中华军事
+- 时间: 2026-08-08 05:30
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1OYklaUURwYkxxYzVlZl9Lb3BTeHdrdEhWd043T1g5eVZtLXlRdXdIelBHbzcyS0Uxc2JsWEgyRkYwUFZleTNMOThIOFdpMFBMOTBfMXdrTUJKQkw3a2dLenp3SUlqaTAwRnFGblYyTDI?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-08 07:42  (2 条)
+
+- **特朗普** | 特朗普解除伊朗制裁，中东格局一夜变天 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxNWWFNVVdpdGxFS1d2YWt1dDZrY0pldXZUOEpOQVBwbWMzU3laTllCTjktb0RwSENJN2x4SVAtVFFvY04wXzFFNTYxaFMxZkM1U1k0WWtrT091b1RKaWR2cjlsQjFpUHUtUDJubVI4cm90QXdKZ1l2T0ZkY29KbjJsaVR2bUpFTWNyaXhTNkZhQWxaeE5EbnR2MjdBLUVlcUo5ZUduZl9CX2J0RElRam8xZ0Nuak9WamtrOXBjc0diaVpwd1oxSDlzbWVsbjk5NXhFeHdiMnpqMjNUZHQ5OHg0?oc=5>
+- **特朗普** | 特朗普关税“换壳”术还能撑多久 经济账本引发25州联合诉讼 <https://news.google.com/rss/articles/CBMicEFVX3lxTE1OYklaUURwYkxxYzVlZl9Lb3BTeHdrdEhWd043T1g5eVZtLXlRdXdIelBHbzcyS0Uxc2JsWEgyRkYwUFZleTNMOThIOFdpMFBMOTBfMXdrTUJKQkw3a2dLenp3SUlqaTAwRnFGblYyTDI?oc=5>
 
 ### 2026-08-08 06:40  (5 条)
 
