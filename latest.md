@@ -1,98 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-08 03:06**
-- 本轮扫到 8978 条, 新增 **12** 条
+- 最近更新: **2026-08-08 04:33**
+- 本轮扫到 8981 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (12 条)
-
-### 陈情令举办线下演唱会，创国内影视剧先河
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimqimt2752275.html>
-
-### 陈情令成首部开演唱会电视剧，线下万人合唱场面空前
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimqimv4354793.html>
-
-### 陈情令成史上第一部开演唱会的电视剧
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimqimt2753368.html>
-
-### 陈情令成史上首部开演唱会电视剧，开启超前点播模式
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimqimx6629488.html>
-
-### 蔡徐坤续火花引爆全网，演唱会级互动新玩法
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimqimv4306411.html>
-
-### 周杰伦在鸟巢演唱会如何评价昆凌表现？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimqimt2760492.html>
-
-### 歌手排名榜的官方发布渠道有哪些？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimqimv4324035.html>
-
-### “大家说我是最伟大总统之一”“他们没这么说”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-08-08 01:36
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5acjJLYTlfN2x4TE1Vb25jQ0dYcWlYd3ZhNDVsQkdrZmpIVDVzZkVxNVNEcHZ5Q0ZsZ0wzaks5MHBCQzZpRmk5Z0RDTUkyTW9zWEY4azdSNlkyUGZXeG9KTlc2MjV2RWdLaEE?oc=5>
-
-### 特朗普坚称美国防空弹药库存充足 但不会向乌克兰提供更多
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财新
-- 时间: 2026-08-07 11:01
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBwamFrZVlONDlyNjhhdnJmcE5NN0N1ZUdFMTJ1dHVNYURua1pmLU51bmxQU1Q0QUpaWjRDLVZqaUNLcHVnQW9tN01qR2R4M3cxQlRiYnI1c21wVzBPak9Gci1xUUpHOXVNaUE?oc=5>
+## 本轮新发现 (3 条)
 
 ### 中期选举临近，特朗普连续21场败诉
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
+- 场馆: guancha.cn
 - 时间: 2026-08-07 14:16
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE03d1lOQTFCaUU2dnU4c29NcWVPUVkzSFBEUmlfMjNPdjBuOXI2Unh5VHNCUUlTeFZnZ3VSdXJrVGV6el9kajRBRGNscHI?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9mTzQyeGRYSFpqeGljcGdHMXlkdDZGRUFnTExJcXhrTUNtZUpleUFQeFFtblRNbnhUc19tcy1Rc2JmbjR4RkVHektuc2JzdVByelVJZmhYaXN5MXN0TFYybW5GQXFLMXFRbFE?oc=5>
 
-### 大西洋观察｜特朗普助力金砖合作
+### 特朗普承认部分类型弹药供应“相对紧张”，已下令调查美军弹药库存信息泄露
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 财新
-- 时间: 2026-08-07 06:44
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE56YXd6SWtYYW9qekZsQzZOWlNnRHZBUzIzd2hhdDAwSUJ5SU85Qld0THZLc2ExMmxCWTVyX3cyVnB0RUxSYXVSU0xDaVRfSC1LUlJxNjBxTV93Z0dESUducDM5M1FROWZjYmc?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-07 19:57
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE53eEczWFdtQUNOT3lCMkpnVmI0c00xQWx0SUlIbTN1eHNJb3diOFUyck11TEhnbl9kcFF0eklWOVJYQlJPOGlWdlhCZnMzdjExRHZkNk5SSTN4OHMzVnVhU0VTTGZkaEN1YzdpeVUzYVo0VGRjMDI2cA?oc=5>
 
-### 特朗普支持的美国比特币董事会成员增持个人股份190万美元
+### 耗资4亿美元，特朗普的白宫宴会厅修建项目被叫停
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: CoinDesk
-- 时间: 2026-08-07 20:20
-- 链接: <https://news.google.com/rss/articles/CBMi1gFBVV95cUxPU0NWSDVYTGFxSjhOVGgyNmZqaXNBbDRRVFhqTVZ6V2dLWjQ5YnhEX3FMSGQzSllmZmhvSENSTk1qNENzUGxMcnJKQ2pUYTNJM01MaTFMZzVBTVc0Q0VwSUEtRE9vdHh2OWwtTC1naGlETkVTVHZHRWh4a2J0MlVtMmtERzhfWUdRNVJXTFVtMjhhUnNvUEVTT1JmZlU2dm53ZE03cUl2aFViR1VVc3lhRFhZbl9KRS1fanRSaUpNWG1QdThNNjNXUVlKMzFsQ2RDSUlJMUhn?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-08-07 15:30
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE11dUdQWXVsMEg1a0ZmM1F4REZzaHUtWnRDUVNWVGQwYXZiOTFQMXVLaWRPcW5BWjRoemJod05tYXpfYm5mZUU3R01EX3Q?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-08 04:33  (3 条)
+
+- **特朗普** | 中期选举临近，特朗普连续21场败诉 <https://news.google.com/rss/articles/CBMiakFVX3lxTE9mTzQyeGRYSFpqeGljcGdHMXlkdDZGRUFnTExJcXhrTUNtZUpleUFQeFFtblRNbnhUc19tcy1Rc2JmbjR4RkVHektuc2JzdVByelVJZmhYaXN5MXN0TFYybW5GQXFLMXFRbFE?oc=5>
+- **特朗普** | 特朗普承认部分类型弹药供应“相对紧张”，已下令调查美军弹药库存信息泄露 <https://news.google.com/rss/articles/CBMieEFVX3lxTE53eEczWFdtQUNOT3lCMkpnVmI0c00xQWx0SUlIbTN1eHNJb3diOFUyck11TEhnbl9kcFF0eklWOVJYQlJPOGlWdlhCZnMzdjExRHZkNk5SSTN4OHMzVnVhU0VTTGZkaEN1YzdpeVUzYVo0VGRjMDI2cA?oc=5>
+- **特朗普** | 耗资4亿美元，特朗普的白宫宴会厅修建项目被叫停 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE11dUdQWXVsMEg1a0ZmM1F4REZzaHUtWnRDUVNWVGQwYXZiOTFQMXVLaWRPcW5BWjRoemJod05tYXpfYm5mZUU3R01EX3Q?oc=5>
 
 ### 2026-08-08 03:06  (12 条)
 
