@@ -1,48 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-08 14:25**
-- 本轮扫到 9005 条, 新增 **4** 条
+- 最近更新: **2026-08-08 14:57**
+- 本轮扫到 9006 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (1 条)
 
-### 特朗普坐不住：中国每年培养3000人，咱们才170人-观察者网
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-08-08 04:18
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5sR0tFa0h0aDBwbU9QTnBNYl9qeWc0SEkzd3V0U0NlSG1POFFlOG9DZTJQaTdWMDlqMTFrb19UUTRlZFRGdTNnQmhsQl9WdkplcTM1endMc050cWlCRFRVeThEYlFoaEZpT0E?oc=5>
-
-### 特朗普称，将向多个关键矿产和电池项目投资30亿美元，“我们正在夺回美国作为世界矿产超级大国的应有地位”
+### 舒默怒斥特朗普：你在哪个星球 质疑经济表现言论
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-08-08 00:33
-- 链接: <https://news.google.com/rss/articles/CBMihAFBVV95cUxPYXNrSURjOE5tWHl5dEV0dWs4Umk4cVBrQjEtb2h1eERndTJxREVEaTdXT0drZXU1T2dkcTFvQTBWTzJNNDVUWHZ1d2ZlRVJHSzg3aEtoWjcxY0lhRi1yb19iWEctNkJWVWdkMXp1aDlDQUR4M0o5c0JmaE1MX2VRUkhvUG8?oc=5>
-
-### 加息重大变数，美联储大消息，特朗普有新动作
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: finance.ifeng.com
-- 时间: 2026-08-08 07:45
-- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE5NbEVWZnJQaWhfVVo0TEV1dFNvczJ1amRVcFUyRDNUSlNZckxyNENUYS02NGFoeUQwcE1BSmR3Uk1MMFZ3THJJQTFhYnJHODMw?oc=5>
-
-### 美国总统Donald Trump政府退还1000亿美元“解放日”关税
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: TMGM trading
-- 时间: 2026-08-06 02:18
-- 链接: <https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNTljU09oSExzc3NFTUxKajRuZHZPRlVrSHF2TTI2aXZJd0RsT0dSSkdNNE04Q3Bva2RqbGl0RWRDT1gxSVhTOXA1a3NaNE0wSHRQQXhoREdIN2RNNVkyT3hGdUpWWTNZb0pUa3lLVW5Ba2hNX3lUaEdzbmpkRDg5M2JxdE5wd0dSN2ZtUC1Fa3ZTSTRaXzJDd0JiYTk1WjFfd3l4SUtkcC1VUFEwX0FILTdnZGRzdmlKUzYweHJ5SHZOX05idTgtOE1qTU1sRGVzbTZEaFVhR0tkNEtkN2I0UDhkUWt2Z0E?oc=5>
+- 场馆: 中华网新闻
+- 时间: 2026-08-08 14:42
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBKcmViT3pHZUdiNW9hdXJwZzZta19Ub0lVS21ULWlXTXNuSUY2LXYzV1d2RF9Ba2FFQk9kQ3JoeVBYa3AyNDIyMUk1Y3hKM05pNGdtWlh5blpSZENqT3VVc1RiRThIcm5EOTNyNWczWGk?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-08 14:57  (1 条)
+
+- **特朗普** | 舒默怒斥特朗普：你在哪个星球 质疑经济表现言论 <https://news.google.com/rss/articles/CBMicEFVX3lxTFBKcmViT3pHZUdiNW9hdXJwZzZta19Ub0lVS21ULWlXTXNuSUY2LXYzV1d2RF9Ba2FFQk9kQ3JoeVBYa3AyNDIyMUk1Y3hKM05pNGdtWlh5blpSZENqT3VVc1RiRThIcm5EOTNyNWczWGk?oc=5>
 
 ### 2026-08-08 14:25  (4 条)
 
