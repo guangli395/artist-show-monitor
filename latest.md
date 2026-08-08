@@ -1,14 +1,35 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-08 11:32**
-- 本轮扫到 8995 条, 新增 **0** 条
+- 最近更新: **2026-08-08 12:34**
+- 本轮扫到 8997 条, 新增 **2** 条
 
 ---
 
-## 本轮无新增
+## 本轮新发现 (2 条)
 
-数据库里所有演出/动态都已见过,暂无新增。
+### 蔡徐坤感慨走红后机会变少，更新ins秀演唱会舞美
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimqccv2818109.html>
+
+### 特朗普坐不住：中国每年培养3000人，咱们才170人
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-08-08 04:18
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE8xV2lma1oyVm1aMUhMWl9fWk9VbjNwSzFBdFdnM2s2dTJRdm9nX1E4VTRfZjAzR0NKVlRaZHQyazBRQ1pvRG1tdlI1SzI?oc=5>
+
+
+---
+
 ## 历史发现
+
+### 2026-08-08 12:34  (2 条)
+
+- **蔡徐坤** | 蔡徐坤感慨走红后机会变少，更新ins秀演唱会舞美 <https://www.sina.cn/news/article/nimqccv2818109.html>
+- **特朗普** | 特朗普坐不住：中国每年培养3000人，咱们才170人 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE8xV2lma1oyVm1aMUhMWl9fWk9VbjNwSzFBdFdnM2s2dTJRdm9nX1E4VTRfZjAzR0NKVlRaZHQyazBRQ1pvRG1tdlI1SzI?oc=5>
 
 ### 2026-08-08 10:59  (2 条)
 
