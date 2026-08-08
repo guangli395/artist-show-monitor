@@ -1,46 +1,113 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-08 01:18**
-- 本轮扫到 8966 条, 新增 **4** 条
+- 最近更新: **2026-08-08 03:06**
+- 本轮扫到 8978 条, 新增 **12** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (12 条)
 
-### 小伙好不容易攒够钱带女朋友去看周杰伦演唱会，没想到是个冒牌货
+### 陈情令举办线下演唱会，创国内影视剧先河
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimqimt2752275.html>
+
+### 陈情令成首部开演唱会电视剧，线下万人合唱场面空前
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimqimv4354793.html>
+
+### 陈情令成史上第一部开演唱会的电视剧
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimqimt2753368.html>
+
+### 陈情令成史上首部开演唱会电视剧，开启超前点播模式
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimqimx6629488.html>
+
+### 蔡徐坤续火花引爆全网，演唱会级互动新玩法
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimqimv4306411.html>
+
+### 周杰伦在鸟巢演唱会如何评价昆凌表现？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimnkum3243997.html>
+- 链接: <https://www.sina.cn/news/article/nimqimt2760492.html>
 
-### 特朗普说了5遍“招人讨厌”，加拿大反呛
+### 歌手排名榜的官方发布渠道有哪些？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-08-08 00:09
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5pWmo5OGJoQ0N4U2FsdmxTdUpENGp2UHFTTUpsMjh3bXZYU1NHRWRubW9iSDJxR2Jaam9MSG1PenoxRjhORzVoNC0wY3J2ZVFoUjlYZnh2Nm5kTXZoM2hMUG9lc0xPQ3pKSmxoZ1dXRGE?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimqimv4324035.html>
 
-### 特朗普称加拿大“招人讨厌”，加总理反呛：这词适合用来形容与美国的贸易谈判
+### “大家说我是最伟大总统之一”“他们没这么说”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: world.huanqiu.com
-- 时间: 2026-08-06 17:58
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pU3h3MWVNRXBPQ256Q0F6dFNWVkRmeVVIcnRFOWszQWpfYml4NS1BTjFoLVdabjBFSHZPNFo1a0tiUTR5VjRjSWZqdnRUTExzWEk2T2VhTl8?oc=5>
+- 场馆: 观察者
+- 时间: 2026-08-08 01:36
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5acjJLYTlfN2x4TE1Vb25jQ0dYcWlYd3ZhNDVsQkdrZmpIVDVzZkVxNVNEcHZ5Q0ZsZ0wzaks5MHBCQzZpRmk5Z0RDTUkyTW9zWEY4azdSNlkyUGZXeG9KTlc2MjV2RWdLaEE?oc=5>
 
-### 特朗普加密新闻：DJT因市场状况取消Crypto.com合作，CRO代币下跌5%
+### 特朗普坚称美国防空弹药库存充足 但不会向乌克兰提供更多
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 财新
+- 时间: 2026-08-07 11:01
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBwamFrZVlONDlyNjhhdnJmcE5NN0N1ZUdFMTJ1dHVNYURua1pmLU51bmxQU1Q0QUpaWjRDLVZqaUNLcHVnQW9tN01qR2R4M3cxQlRiYnI1c21wVzBPak9Gci1xUUpHOXVNaUE?oc=5>
+
+### 中期选举临近，特朗普连续21场败诉
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-08-07 14:16
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE03d1lOQTFCaUU2dnU4c29NcWVPUVkzSFBEUmlfMjNPdjBuOXI2Unh5VHNCUUlTeFZnZ3VSdXJrVGV6el9kajRBRGNscHI?oc=5>
+
+### 大西洋观察｜特朗普助力金砖合作
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 财新
+- 时间: 2026-08-07 06:44
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE56YXd6SWtYYW9qekZsQzZOWlNnRHZBUzIzd2hhdDAwSUJ5SU85Qld0THZLc2ExMmxCWTVyX3cyVnB0RUxSYXVSU0xDaVRfSC1LUlJxNjBxTV93Z0dESUducDM5M1FROWZjYmc?oc=5>
+
+### 特朗普支持的美国比特币董事会成员增持个人股份190万美元
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: CoinDesk
-- 时间: 2026-08-07 21:13
-- 链接: <https://news.google.com/rss/articles/CBMiugFBVV95cUxPd0VIRXhUVk9qeENEc2NqS0g3dHg3a1dsZGx4RGMxd0hrUzJQNG9ETnpzYTBvUjRYZW5CUG1tNW5UUWV1S2s4alU0Ry1vTFpQSWR6c3ZONlhybmJhV3RqTHdpQmFRZkdFYkNoTU9UZzZaSmpuNGdhM0YyNFdFUVctMFNwUDg2QXE0c2NJWTh4TTZVUGFhSXk0dV9EaUwxT3lCcVEtc0xjeTFhbkJXV3Ixd3dzM2JqbS1JLVE?oc=5>
+- 时间: 2026-08-07 20:20
+- 链接: <https://news.google.com/rss/articles/CBMi1gFBVV95cUxPU0NWSDVYTGFxSjhOVGgyNmZqaXNBbDRRVFhqTVZ6V2dLWjQ5YnhEX3FMSGQzSllmZmhvSENSTk1qNENzUGxMcnJKQ2pUYTNJM01MaTFMZzVBTVc0Q0VwSUEtRE9vdHh2OWwtTC1naGlETkVTVHZHRWh4a2J0MlVtMmtERzhfWUdRNVJXTFVtMjhhUnNvUEVTT1JmZlU2dm53ZE03cUl2aFViR1VVc3lhRFhZbl9KRS1fanRSaUpNWG1QdThNNjNXUVlKMzFsQ2RDSUlJMUhn?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-08 03:06  (12 条)
+
+- **王一博** | 陈情令举办线下演唱会，创国内影视剧先河 <https://www.sina.cn/news/article/nimqimt2752275.html>
+- **王一博** | 陈情令成首部开演唱会电视剧，线下万人合唱场面空前 <https://www.sina.cn/news/article/nimqimv4354793.html>
+- **王一博** | 陈情令成史上第一部开演唱会的电视剧 <https://www.sina.cn/news/article/nimqimt2753368.html>
+- **王一博** | 陈情令成史上首部开演唱会电视剧，开启超前点播模式 <https://www.sina.cn/news/article/nimqimx6629488.html>
+- **蔡徐坤** | 蔡徐坤续火花引爆全网，演唱会级互动新玩法 <https://www.sina.cn/news/article/nimqimv4306411.html>
+- **周杰伦** | 周杰伦在鸟巢演唱会如何评价昆凌表现？ <https://www.sina.cn/news/article/nimqimt2760492.html>
+- **周杰伦** | 歌手排名榜的官方发布渠道有哪些？ <https://www.sina.cn/news/article/nimqimv4324035.html>
+- **特朗普** | “大家说我是最伟大总统之一”“他们没这么说” <https://news.google.com/rss/articles/CBMiakFVX3lxTE5acjJLYTlfN2x4TE1Vb25jQ0dYcWlYd3ZhNDVsQkdrZmpIVDVzZkVxNVNEcHZ5Q0ZsZ0wzaks5MHBCQzZpRmk5Z0RDTUkyTW9zWEY4azdSNlkyUGZXeG9KTlc2MjV2RWdLaEE?oc=5>
+- **特朗普** | 特朗普坚称美国防空弹药库存充足 但不会向乌克兰提供更多 <https://news.google.com/rss/articles/CBMiakFVX3lxTFBwamFrZVlONDlyNjhhdnJmcE5NN0N1ZUdFMTJ1dHVNYURua1pmLU51bmxQU1Q0QUpaWjRDLVZqaUNLcHVnQW9tN01qR2R4M3cxQlRiYnI1c21wVzBPak9Gci1xUUpHOXVNaUE?oc=5>
+- **特朗普** | 中期选举临近，特朗普连续21场败诉 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE03d1lOQTFCaUU2dnU4c29NcWVPUVkzSFBEUmlfMjNPdjBuOXI2Unh5VHNCUUlTeFZnZ3VSdXJrVGV6el9kajRBRGNscHI?oc=5>
+- **特朗普** | 大西洋观察｜特朗普助力金砖合作 <https://news.google.com/rss/articles/CBMiakFVX3lxTE56YXd6SWtYYW9qekZsQzZOWlNnRHZBUzIzd2hhdDAwSUJ5SU85Qld0THZLc2ExMmxCWTVyX3cyVnB0RUxSYXVSU0xDaVRfSC1LUlJxNjBxTV93Z0dESUducDM5M1FROWZjYmc?oc=5>
+- **Trump** | 特朗普支持的美国比特币董事会成员增持个人股份190万美元 <https://news.google.com/rss/articles/CBMi1gFBVV95cUxPU0NWSDVYTGFxSjhOVGgyNmZqaXNBbDRRVFhqTVZ6V2dLWjQ5YnhEX3FMSGQzSllmZmhvSENSTk1qNENzUGxMcnJKQ2pUYTNJM01MaTFMZzVBTVc0Q0VwSUEtRE9vdHh2OWwtTC1naGlETkVTVHZHRWh4a2J0MlVtMmtERzhfWUdRNVJXTFVtMjhhUnNvUEVTT1JmZlU2dm53ZE03cUl2aFViR1VVc3lhRFhZbl9KRS1fanRSaUpNWG1QdThNNjNXUVlKMzFsQ2RDSUlJMUhn?oc=5>
 
 ### 2026-08-08 01:18  (4 条)
 
