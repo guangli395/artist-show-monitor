@@ -1,30 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-08 12:34**
-- 本轮扫到 8997 条, 新增 **2** 条
+- 最近更新: **2026-08-08 13:40**
+- 本轮扫到 9001 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (4 条)
 
-### 蔡徐坤感慨走红后机会变少，更新ins秀演唱会舞美
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimqccv2818109.html>
-
-### 特朗普坐不住：中国每年培养3000人，咱们才170人
+### 美上诉法院叫停白宫宴会厅施工，特朗普怒了：国家耻辱
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-08 04:18
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE8xV2lma1oyVm1aMUhMWl9fWk9VbjNwSzFBdFdnM2s2dTJRdm9nX1E4VTRfZjAzR0NKVlRaZHQyazBRQ1pvRG1tdlI1SzI?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-08-08 12:31
+- 链接: <https://news.google.com/rss/articles/CBMi7wFBVV95cUxOTkFDWTduWVc0aWRHWFpDSW1hXzZ2OXdmdHRRdi1LcW1SNEg5MFNBb1ExSFhOS3YycEZGT3RMZjgwRzl0Q19HeXByNXU5RzJzNlFpSk9qZURyLTF4RzVGbFEwb0RDVDB6Wm0xenFRRV9EeEUwanEwejU3SzBxV296OWxZLTNwQ1JUeVY4MnM1M3ZlaEJTYkc2dHVCbDkyTUk3SGlhTExtZC1EZFROeGJnSDBnZElwdVZDd2VwcnREdGd0TEhXdUE3MnU3djBmYlZnVzFXY2dxd0ZvT195b3VENGJLZTVHeFNJZHRteXd2UQ?oc=5>
+
+### 特朗普将召集全球部分大型矿业公司高管开会
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 东方财富
+- 时间: 2026-08-07 10:32
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJY0lZbnZ1VEJsWU9uSjRQblVOYXdfR1lKUTREeUwtWHBuZUFxRHJGREE5T2M1QXBLbDF0LXUwSkhxaENYaUR3TDZlcHNEM0hORl81MERZWHlRRVV3X180UlpncFYyOW8?oc=5>
+
+### 特朗普再出手！正式重启罢免美联储理事库克程序，美联储独立性再遭冲击
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街见闻
+- 时间: 2026-08-07 20:06
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tWEN6eFZaMWFGYi1meDdjRGczWmlnVjVPQnlZQWY2b1BOYkZnUXMtaTkteTJhdFMxcDFDU19hVWl2c1czbVJNZFlQVHV3cmhjY0RB?oc=5>
+
+### 据报因武器库存产生龃龉 特朗普力挺赫格塞斯
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-08-07 09:22
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFAzQ0szR3ZoakpvcS1SQjVtSUhNOU9LdVNtOHZTYTVnbURHTTU4ZTU2V2lUV09jdXFtWl9EVmRMU0tndE9tYkNoRjVuQktQNEh4dlNYclNMN0xfQkhXdU96SzZKMHNCdw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-08 13:40  (4 条)
+
+- **特朗普** | 美上诉法院叫停白宫宴会厅施工，特朗普怒了：国家耻辱 <https://news.google.com/rss/articles/CBMi7wFBVV95cUxOTkFDWTduWVc0aWRHWFpDSW1hXzZ2OXdmdHRRdi1LcW1SNEg5MFNBb1ExSFhOS3YycEZGT3RMZjgwRzl0Q19HeXByNXU5RzJzNlFpSk9qZURyLTF4RzVGbFEwb0RDVDB6Wm0xenFRRV9EeEUwanEwejU3SzBxV296OWxZLTNwQ1JUeVY4MnM1M3ZlaEJTYkc2dHVCbDkyTUk3SGlhTExtZC1EZFROeGJnSDBnZElwdVZDd2VwcnREdGd0TEhXdUE3MnU3djBmYlZnVzFXY2dxd0ZvT195b3VENGJLZTVHeFNJZHRteXd2UQ?oc=5>
+- **特朗普** | 特朗普将召集全球部分大型矿业公司高管开会 <https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJY0lZbnZ1VEJsWU9uSjRQblVOYXdfR1lKUTREeUwtWHBuZUFxRHJGREE5T2M1QXBLbDF0LXUwSkhxaENYaUR3TDZlcHNEM0hORl81MERZWHlRRVV3X180UlpncFYyOW8?oc=5>
+- **特朗普** | 特朗普再出手！正式重启罢免美联储理事库克程序，美联储独立性再遭冲击 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tWEN6eFZaMWFGYi1meDdjRGczWmlnVjVPQnlZQWY2b1BOYkZnUXMtaTkteTJhdFMxcDFDU19hVWl2c1czbVJNZFlQVHV3cmhjY0RB?oc=5>
+- **特朗普** | 据报因武器库存产生龃龉 特朗普力挺赫格塞斯 <https://news.google.com/rss/articles/CBMiZkFVX3lxTFAzQ0szR3ZoakpvcS1SQjVtSUhNOU9LdVNtOHZTYTVnbURHTTU4ZTU2V2lUV09jdXFtWl9EVmRMU0tndE9tYkNoRjVuQktQNEh4dlNYclNMN0xfQkhXdU96SzZKMHNCdw?oc=5>
 
 ### 2026-08-08 12:34  (2 条)
 
