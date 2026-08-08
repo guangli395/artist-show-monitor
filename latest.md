@@ -1,32 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-08 08:32**
-- 本轮扫到 8990 条, 新增 **2** 条
+- 最近更新: **2026-08-08 09:30**
+- 本轮扫到 8992 条, 新增 **2** 条
 
 ---
 
 ## 本轮新发现 (2 条)
 
-### 美国上诉法院维持对白宫宴会厅改造项目的暂停令，特朗普：将上诉
+### 特朗普称霍尔木兹海峡协议有望敲定，伊朗议长讽刺美国“戏剧化外交”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-08-08 01:31
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE8wVXZpejlTRnJ6QURrVGN5djBTVy1ZTXlVTllVVHBDXzZJNEl2eC1QeGItY2wxSG5xU1RJOFpnYUhsNDA3a3BtNC16ckllMThjVF9Jdm1GU0E5TjVkdDVWTHBtSERCRlY3WEE?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-07 20:02
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE55aUJzSzY2VmV5cF94eDl5WWlxcUN0Nm1rNkN5WUlFUG9TR1NXODlLT0JkRlBpYlNXR21wMlhlTGNfeUVKZm15dEhINGNwaHc5Y210WW4tX2hLNE1hZEowREtCRC1FY0hiZlhSX2pLVFRYeWNYTWl4Rg?oc=5>
 
-### 特朗普：隔着大洋呢，我们没掺和这事
+### Trump Is Increasingly Frustrated With His Homeland Security Secretary -- WSJ
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: news.ifeng.com
-- 时间: 2026-08-07 14:30
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5oOWZKR1owR3U2d1VQZGtrdmxHYzU5ZE5xal92MElqTnZZa0tCcTg1ZFNLLWEtNlZQMm9fWklmejhMMmVDN0tGRGdWMlM?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-08-08 01:10
+- 链接: <https://news.google.com/rss/articles/CBMivAFBVV95cUxOSzg5bDRjWWNXeVhsRWliNUwzZEZHQ1VfclR5NWhDTzlYSDNwQWZFRzZKdC14VTVYVG1fNS0wSjAxWVFpQjV5WDZ2b0ZBNFU4RGs3MXZNVnJPLUpYaWt2LXRJY0dZUXRSZFZvaWJhTjlsSi1PWDJHU29EekJqZmkxQm5tRlh3VVNDOXZlY3hjcVgzMjQ2anNFbU9FYnYzN2RNLVhrbGs3aFZJN0FCZlYxTENBT0NDblpCblU3cQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-08 09:30  (2 条)
+
+- **特朗普** | 特朗普称霍尔木兹海峡协议有望敲定，伊朗议长讽刺美国“戏剧化外交” <https://news.google.com/rss/articles/CBMieEFVX3lxTE55aUJzSzY2VmV5cF94eDl5WWlxcUN0Nm1rNkN5WUlFUG9TR1NXODlLT0JkRlBpYlNXR21wMlhlTGNfeUVKZm15dEhINGNwaHc5Y210WW4tX2hLNE1hZEowREtCRC1FY0hiZlhSX2pLVFRYeWNYTWl4Rg?oc=5>
+- **Trump** | Trump Is Increasingly Frustrated With His Homeland Security Secretary -- WSJ <https://news.google.com/rss/articles/CBMivAFBVV95cUxOSzg5bDRjWWNXeVhsRWliNUwzZEZHQ1VfclR5NWhDTzlYSDNwQWZFRzZKdC14VTVYVG1fNS0wSjAxWVFpQjV5WDZ2b0ZBNFU4RGs3MXZNVnJPLUpYaWt2LXRJY0dZUXRSZFZvaWJhTjlsSi1PWDJHU29EekJqZmkxQm5tRlh3VVNDOXZlY3hjcVgzMjQ2anNFbU9FYnYzN2RNLVhrbGs3aFZJN0FCZlYxTENBT0NDblpCblU3cQ?oc=5>
 
 ### 2026-08-08 08:32  (2 条)
 
