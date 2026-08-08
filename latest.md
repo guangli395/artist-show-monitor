@@ -1,14 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-08 05:37**
-- 本轮扫到 8981 条, 新增 **0** 条
+- 最近更新: **2026-08-08 06:40**
+- 本轮扫到 8986 条, 新增 **5** 条
 
 ---
 
-## 本轮无新增
+## 本轮新发现 (5 条)
 
-数据库里所有演出/动态都已见过,暂无新增。
+### 白宫宴会厅改造再遇阻 特朗普斥裁决“不公”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-08-08 05:09
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE5lUHVHWlAzUmp5eHJjRnJJNTVSYWdBWFc1RE0wcmUtNmYwdG1FUE5GeVkxdFJHOHZ5RjVCZHVHcFdXRTROaHp3N2dFMnlLcW5SdGZsTjhNbDVyMEJURTZkZXJ3YXRqZ2R1bmNYOGtMWEtoakphMUJZREVnQzd5OUE?oc=5>
+
+### 特朗普说了5遍“招人讨厌”，加拿大反呛
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-08-08 02:49
+- 链接: <https://news.google.com/rss/articles/CBMilgFBVV95cUxOQlBIcWFlRk8xRHdEWk5pYzh3bkI3SmNCMm1JWGlwaVhlWmVHSnZGZjREMHdMTklPRzNtNlFVRjEzV0R3dUgxQnRLWW80V0FUbDFrMXZWS0tWa0Ztc3I3Y3I1VkxzM0lHVXN2UTVLUkU2X2lqM1BXalNLV2VtZTJOR3Npa0o5N09SOVhxV2FNZHh2OEtGYVE?oc=5>
+
+### 特朗普下令对多晶硅开征15%关税 设最低进口价
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-08-07 13:29
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5UY3BOVXVtb1VZZFhmVXU2alhsQmZ0Zk1TTm43Qy1fZ0FVNUc1MUpZSFk0M184X1doN0RZYkh6c3N5ZjNfU21JbE5VZzRrYVctVmZLMU1lTnZFanBiVHJKV1ZkLUJMdw?oc=5>
+
+### 特朗普称向关键矿产投资30亿美元
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-08-08 00:12
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE8tRUlwazh0bmI1T2xYVUphQThHcjVxdDZrZzA4VmVhNllJNVcwQlNnVWMxUVJzN1pxQXY5WGdoRjVUVFR6MnhqMnlOQ1Y?oc=5>
+
+### 美联储独立性再迎挑战，特朗普重启解雇理事库克行动
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网财经
+- 时间: 2026-08-07 18:33
+- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE5mNEo0bkJlT2VuZDlMSlB5cWFKQTd0cURnT0tGVzhmY05fTjZlVnhZTU5mdFM1MTV6dGlCTGJRbGVDaVB2VENyS0hwRWR4V1FL?oc=5>
+
+
+---
+
 ## 历史发现
+
+### 2026-08-08 06:40  (5 条)
+
+- **特朗普** | 白宫宴会厅改造再遇阻 特朗普斥裁决“不公” <https://news.google.com/rss/articles/CBMif0FVX3lxTE5lUHVHWlAzUmp5eHJjRnJJNTVSYWdBWFc1RE0wcmUtNmYwdG1FUE5GeVkxdFJHOHZ5RjVCZHVHcFdXRTROaHp3N2dFMnlLcW5SdGZsTjhNbDVyMEJURTZkZXJ3YXRqZ2R1bmNYOGtMWEtoakphMUJZREVnQzd5OUE?oc=5>
+- **特朗普** | 特朗普说了5遍“招人讨厌”，加拿大反呛 <https://news.google.com/rss/articles/CBMilgFBVV95cUxOQlBIcWFlRk8xRHdEWk5pYzh3bkI3SmNCMm1JWGlwaVhlWmVHSnZGZjREMHdMTklPRzNtNlFVRjEzV0R3dUgxQnRLWW80V0FUbDFrMXZWS0tWa0Ztc3I3Y3I1VkxzM0lHVXN2UTVLUkU2X2lqM1BXalNLV2VtZTJOR3Npa0o5N09SOVhxV2FNZHh2OEtGYVE?oc=5>
+- **特朗普** | 特朗普下令对多晶硅开征15%关税 设最低进口价 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5UY3BOVXVtb1VZZFhmVXU2alhsQmZ0Zk1TTm43Qy1fZ0FVNUc1MUpZSFk0M184X1doN0RZYkh6c3N5ZjNfU21JbE5VZzRrYVctVmZLMU1lTnZFanBiVHJKV1ZkLUJMdw?oc=5>
+- **特朗普** | 特朗普称向关键矿产投资30亿美元 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE8tRUlwazh0bmI1T2xYVUphQThHcjVxdDZrZzA4VmVhNllJNVcwQlNnVWMxUVJzN1pxQXY5WGdoRjVUVFR6MnhqMnlOQ1Y?oc=5>
+- **特朗普** | 美联储独立性再迎挑战，特朗普重启解雇理事库克行动 <https://news.google.com/rss/articles/CBMiUEFVX3lxTE5mNEo0bkJlT2VuZDlMSlB5cWFKQTd0cURnT0tGVzhmY05fTjZlVnhZTU5mdFM1MTV6dGlCTGJRbGVDaVB2VENyS0hwRWR4V1FL?oc=5>
 
 ### 2026-08-08 04:33  (3 条)
 
