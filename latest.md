@@ -1,14 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-08 17:02**
-- 本轮扫到 9008 条, 新增 **0** 条
+- 最近更新: **2026-08-08 17:54**
+- 本轮扫到 9009 条, 新增 **1** 条
 
 ---
 
-## 本轮无新增
+## 本轮新发现 (1 条)
 
-数据库里所有演出/动态都已见过,暂无新增。
+### 特朗普宣布对多晶硅及其衍生产品加征关税
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 东方财富
+- 时间: 2026-08-08 00:05
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVaFg4azJkLWpIZHlxVWp6NF9qcjFnOUlrNDkwTHhzNGVwNFVFdlN3QVFKWGk4eGVsZmUyaUlDeXJiRU03Mi0tWHl0S0VNelZGb0RDZV9KRG9uN0F2cmFzOQ?oc=5>
+
+
+---
+
 ## 历史发现
+
+### 2026-08-08 17:54  (1 条)
+
+- **特朗普** | 特朗普宣布对多晶硅及其衍生产品加征关税 <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVaFg4azJkLWpIZHlxVWp6NF9qcjFnOUlrNDkwTHhzNGVwNFVFdlN3QVFKWGk4eGVsZmUyaUlDeXJiRU03Mi0tWHl0S0VNelZGb0RDZV9KRG9uN0F2cmFzOQ?oc=5>
 
 ### 2026-08-08 15:27  (2 条)
 
