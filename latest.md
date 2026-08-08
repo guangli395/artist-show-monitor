@@ -1,14 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-08 23:22**
-- 本轮扫到 9014 条, 新增 **0** 条
+- 最近更新: **2026-08-08 23:53**
+- 本轮扫到 9016 条, 新增 **2** 条
 
 ---
 
-## 本轮无新增
+## 本轮新发现 (2 条)
 
-数据库里所有演出/动态都已见过,暂无新增。
+### 消息人士：若民主党赢得众议院，他们计划对特朗普进行调查而非弹劾
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-08 12:57
+- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxPMjdjRXVEZTdJNnQ4TnU2ZEt3UHZhejFaRUF1WU5LZmdJOG9BeWRWSFgxQ0NXYXRCcXpRSEZ1cHM2WVZvVVlSWGp0SXNmcEd0eWlQWnhxd2FxU1BFYmZscHYzdGc2TzhDejM3UFA4dzhyNm9HcTUyLTBRaHpXMmRIOQ?oc=5>
+
+### 美议员讽刺特朗普对伊政策：他总在股市开盘前说不打了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-08 13:51
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1yVmttRFlzZnVodmxnUV9YcHFLbkY3dnJ0ODVyQ19lc0IyUzYzZ2hxa1BvRTFNeTV6MFl2SkFZU2tPVTVxNEJjYWV5TQ?oc=5>
+
+
+---
+
 ## 历史发现
+
+### 2026-08-08 23:53  (2 条)
+
+- **特朗普** | 消息人士：若民主党赢得众议院，他们计划对特朗普进行调查而非弹劾 <https://news.google.com/rss/articles/CBMigAFBVV95cUxPMjdjRXVEZTdJNnQ4TnU2ZEt3UHZhejFaRUF1WU5LZmdJOG9BeWRWSFgxQ0NXYXRCcXpRSEZ1cHM2WVZvVVlSWGp0SXNmcEd0eWlQWnhxd2FxU1BFYmZscHYzdGc2TzhDejM3UFA4dzhyNm9HcTUyLTBRaHpXMmRIOQ?oc=5>
+- **特朗普** | 美议员讽刺特朗普对伊政策：他总在股市开盘前说不打了 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1yVmttRFlzZnVodmxnUV9YcHFLbkY3dnJ0ODVyQ19lc0IyUzYzZ2hxa1BvRTFNeTV6MFl2SkFZU2tPVTVxNEJjYWV5TQ?oc=5>
 
 ### 2026-08-08 22:55  (1 条)
 
