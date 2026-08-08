@@ -1,14 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-08 21:55**
-- 本轮扫到 9012 条, 新增 **0** 条
+- 最近更新: **2026-08-08 22:21**
+- 本轮扫到 9013 条, 新增 **1** 条
 
 ---
 
-## 本轮无新增
+## 本轮新发现 (1 条)
 
-数据库里所有演出/动态都已见过,暂无新增。
+### 特朗普总统：重开霍尔木兹海峡的协议可能“很快”达成
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-08-07 14:43
+- 链接: <https://news.google.com/rss/articles/CBMitwFBVV95cUxQcGtyVndkcE1qUVJqeWdwM3pXR3RVNWJJbHBnUC1LZlJXdXJVQnl2Snh3NWtnQ0Z4OVlpOXJlZ2JId2dmcGFzZjZZbFViSU12SC1Hb3dLZEo1OFp1bzRydU96V0p0dE9DQnJYOXZ6MVNnQzVkVW1CUkIzSmt0NzdXNmQzcXA3X081N2gyS2ZGSVA3aGR5TWJzTGY3Q2pQU3VBemE4X3cxdUU1WkRoODhTSEhOWXdNRUXSAbcBQVVfeXFMUHBrclZ3ZHBNalFSanlncDN6V0d0VTViSWxwZ1AtS2ZSV3VyVUJ5dkp4dzVrZ0NGeDlZaTlyZWdiSHdnZnBhc2Y2WWxVYklNdkgtR293S2RKNThadW80cnVPeldKdHRPQ0JyWDl2ejFTZ0M1ZFVtQlJCM0prdDc3VzZkM3FwN19PNTdoMktmRklQN2hkeU1ic0xmN0NqUFN1QXphOF93MXVFNVpEaDg4U0hITll3TUVF?oc=5>
+
+
+---
+
 ## 历史发现
+
+### 2026-08-08 22:21  (1 条)
+
+- **特朗普** | 特朗普总统：重开霍尔木兹海峡的协议可能“很快”达成 <https://news.google.com/rss/articles/CBMitwFBVV95cUxQcGtyVndkcE1qUVJqeWdwM3pXR3RVNWJJbHBnUC1LZlJXdXJVQnl2Snh3NWtnQ0Z4OVlpOXJlZ2JId2dmcGFzZjZZbFViSU12SC1Hb3dLZEo1OFp1bzRydU96V0p0dE9DQnJYOXZ6MVNnQzVkVW1CUkIzSmt0NzdXNmQzcXA3X081N2gyS2ZGSVA3aGR5TWJzTGY3Q2pQU3VBemE4X3cxdUU1WkRoODhTSEhOWXdNRUXSAbcBQVVfeXFMUHBrclZ3ZHBNalFSanlncDN6V0d0VTViSWxwZ1AtS2ZSV3VyVUJ5dkp4dzVrZ0NGeDlZaTlyZWdiSHdnZnBhc2Y2WWxVYklNdkgtR293S2RKNThadW80cnVPeldKdHRPQ0JyWDl2ejFTZ0M1ZFVtQlJCM0prdDc3VzZkM3FwN19PNTdoMktmRklQN2hkeU1ic0xmN0NqUFN1QXphOF93MXVFNVpEaDg4U0hITll3TUVF?oc=5>
 
 ### 2026-08-08 19:08  (2 条)
 
