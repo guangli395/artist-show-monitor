@@ -1,48 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-08 13:40**
-- 本轮扫到 9001 条, 新增 **4** 条
+- 最近更新: **2026-08-08 14:25**
+- 本轮扫到 9005 条, 新增 **4** 条
 
 ---
 
 ## 本轮新发现 (4 条)
 
-### 美上诉法院叫停白宫宴会厅施工，特朗普怒了：国家耻辱
+### 特朗普坐不住：中国每年培养3000人，咱们才170人-观察者网
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-08-08 12:31
-- 链接: <https://news.google.com/rss/articles/CBMi7wFBVV95cUxOTkFDWTduWVc0aWRHWFpDSW1hXzZ2OXdmdHRRdi1LcW1SNEg5MFNBb1ExSFhOS3YycEZGT3RMZjgwRzl0Q19HeXByNXU5RzJzNlFpSk9qZURyLTF4RzVGbFEwb0RDVDB6Wm0xenFRRV9EeEUwanEwejU3SzBxV296OWxZLTNwQ1JUeVY4MnM1M3ZlaEJTYkc2dHVCbDkyTUk3SGlhTExtZC1EZFROeGJnSDBnZElwdVZDd2VwcnREdGd0TEhXdUE3MnU3djBmYlZnVzFXY2dxd0ZvT195b3VENGJLZTVHeFNJZHRteXd2UQ?oc=5>
+- 场馆: 观察者
+- 时间: 2026-08-08 04:18
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5sR0tFa0h0aDBwbU9QTnBNYl9qeWc0SEkzd3V0U0NlSG1POFFlOG9DZTJQaTdWMDlqMTFrb19UUTRlZFRGdTNnQmhsQl9WdkplcTM1endMc050cWlCRFRVeThEYlFoaEZpT0E?oc=5>
 
-### 特朗普将召集全球部分大型矿业公司高管开会
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-08-07 10:32
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJY0lZbnZ1VEJsWU9uSjRQblVOYXdfR1lKUTREeUwtWHBuZUFxRHJGREE5T2M1QXBLbDF0LXUwSkhxaENYaUR3TDZlcHNEM0hORl81MERZWHlRRVV3X180UlpncFYyOW8?oc=5>
-
-### 特朗普再出手！正式重启罢免美联储理事库克程序，美联储独立性再遭冲击
+### 特朗普称，将向多个关键矿产和电池项目投资30亿美元，“我们正在夺回美国作为世界矿产超级大国的应有地位”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-08-07 20:06
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tWEN6eFZaMWFGYi1meDdjRGczWmlnVjVPQnlZQWY2b1BOYkZnUXMtaTkteTJhdFMxcDFDU19hVWl2c1czbVJNZFlQVHV3cmhjY0RB?oc=5>
+- 场馆: finance.sina.com.cn
+- 时间: 2026-08-08 00:33
+- 链接: <https://news.google.com/rss/articles/CBMihAFBVV95cUxPYXNrSURjOE5tWHl5dEV0dWs4Umk4cVBrQjEtb2h1eERndTJxREVEaTdXT0drZXU1T2dkcTFvQTBWTzJNNDVUWHZ1d2ZlRVJHSzg3aEtoWjcxY0lhRi1yb19iWEctNkJWVWdkMXp1aDlDQUR4M0o5c0JmaE1MX2VRUkhvUG8?oc=5>
 
-### 据报因武器库存产生龃龉 特朗普力挺赫格塞斯
+### 加息重大变数，美联储大消息，特朗普有新动作
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-08-07 09:22
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFAzQ0szR3ZoakpvcS1SQjVtSUhNOU9LdVNtOHZTYTVnbURHTTU4ZTU2V2lUV09jdXFtWl9EVmRMU0tndE9tYkNoRjVuQktQNEh4dlNYclNMN0xfQkhXdU96SzZKMHNCdw?oc=5>
+- 场馆: finance.ifeng.com
+- 时间: 2026-08-08 07:45
+- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE5NbEVWZnJQaWhfVVo0TEV1dFNvczJ1amRVcFUyRDNUSlNZckxyNENUYS02NGFoeUQwcE1BSmR3Uk1MMFZ3THJJQTFhYnJHODMw?oc=5>
+
+### 美国总统Donald Trump政府退还1000亿美元“解放日”关税
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: TMGM trading
+- 时间: 2026-08-06 02:18
+- 链接: <https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNTljU09oSExzc3NFTUxKajRuZHZPRlVrSHF2TTI2aXZJd0RsT0dSSkdNNE04Q3Bva2RqbGl0RWRDT1gxSVhTOXA1a3NaNE0wSHRQQXhoREdIN2RNNVkyT3hGdUpWWTNZb0pUa3lLVW5Ba2hNX3lUaEdzbmpkRDg5M2JxdE5wd0dSN2ZtUC1Fa3ZTSTRaXzJDd0JiYTk1WjFfd3l4SUtkcC1VUFEwX0FILTdnZGRzdmlKUzYweHJ5SHZOX05idTgtOE1qTU1sRGVzbTZEaFVhR0tkNEtkN2I0UDhkUWt2Z0E?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-08 14:25  (4 条)
+
+- **特朗普** | 特朗普坐不住：中国每年培养3000人，咱们才170人-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE5sR0tFa0h0aDBwbU9QTnBNYl9qeWc0SEkzd3V0U0NlSG1POFFlOG9DZTJQaTdWMDlqMTFrb19UUTRlZFRGdTNnQmhsQl9WdkplcTM1endMc050cWlCRFRVeThEYlFoaEZpT0E?oc=5>
+- **特朗普** | 特朗普称，将向多个关键矿产和电池项目投资30亿美元，“我们正在夺回美国作为世界矿产超级大国的应有地位” <https://news.google.com/rss/articles/CBMihAFBVV95cUxPYXNrSURjOE5tWHl5dEV0dWs4Umk4cVBrQjEtb2h1eERndTJxREVEaTdXT0drZXU1T2dkcTFvQTBWTzJNNDVUWHZ1d2ZlRVJHSzg3aEtoWjcxY0lhRi1yb19iWEctNkJWVWdkMXp1aDlDQUR4M0o5c0JmaE1MX2VRUkhvUG8?oc=5>
+- **特朗普** | 加息重大变数，美联储大消息，特朗普有新动作 <https://news.google.com/rss/articles/CBMiUEFVX3lxTE5NbEVWZnJQaWhfVVo0TEV1dFNvczJ1amRVcFUyRDNUSlNZckxyNENUYS02NGFoeUQwcE1BSmR3Uk1MMFZ3THJJQTFhYnJHODMw?oc=5>
+- **Trump** | 美国总统Donald Trump政府退还1000亿美元“解放日”关税 <https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNTljU09oSExzc3NFTUxKajRuZHZPRlVrSHF2TTI2aXZJd0RsT0dSSkdNNE04Q3Bva2RqbGl0RWRDT1gxSVhTOXA1a3NaNE0wSHRQQXhoREdIN2RNNVkyT3hGdUpWWTNZb0pUa3lLVW5Ba2hNX3lUaEdzbmpkRDg5M2JxdE5wd0dSN2ZtUC1Fa3ZTSTRaXzJDd0JiYTk1WjFfd3l4SUtkcC1VUFEwX0FILTdnZGRzdmlKUzYweHJ5SHZOX05idTgtOE1qTU1sRGVzbTZEaFVhR0tkNEtkN2I0UDhkUWt2Z0E?oc=5>
 
 ### 2026-08-08 13:40  (4 条)
 
