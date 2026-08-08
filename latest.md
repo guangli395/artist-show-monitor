@@ -1,32 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-08 07:42**
-- 本轮扫到 8988 条, 新增 **2** 条
+- 最近更新: **2026-08-08 08:32**
+- 本轮扫到 8990 条, 新增 **2** 条
 
 ---
 
 ## 本轮新发现 (2 条)
 
-### 特朗普解除伊朗制裁，中东格局一夜变天
+### 美国上诉法院维持对白宫宴会厅改造项目的暂停令，特朗普：将上诉
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-08-08 07:15
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxNWWFNVVdpdGxFS1d2YWt1dDZrY0pldXZUOEpOQVBwbWMzU3laTllCTjktb0RwSENJN2x4SVAtVFFvY04wXzFFNTYxaFMxZkM1U1k0WWtrT091b1RKaWR2cjlsQjFpUHUtUDJubVI4cm90QXdKZ1l2T0ZkY29KbjJsaVR2bUpFTWNyaXhTNkZhQWxaeE5EbnR2MjdBLUVlcUo5ZUduZl9CX2J0RElRam8xZ0Nuak9WamtrOXBjc0diaVpwd1oxSDlzbWVsbjk5NXhFeHdiMnpqMjNUZHQ5OHg0?oc=5>
+- 场馆: 观察者
+- 时间: 2026-08-08 01:31
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE8wVXZpejlTRnJ6QURrVGN5djBTVy1ZTXlVTllVVHBDXzZJNEl2eC1QeGItY2wxSG5xU1RJOFpnYUhsNDA3a3BtNC16ckllMThjVF9Jdm1GU0E5TjVkdDVWTHBtSERCRlY3WEE?oc=5>
 
-### 特朗普关税“换壳”术还能撑多久 经济账本引发25州联合诉讼
+### 特朗普：隔着大洋呢，我们没掺和这事
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中华军事
-- 时间: 2026-08-08 05:30
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1OYklaUURwYkxxYzVlZl9Lb3BTeHdrdEhWd043T1g5eVZtLXlRdXdIelBHbzcyS0Uxc2JsWEgyRkYwUFZleTNMOThIOFdpMFBMOTBfMXdrTUJKQkw3a2dLenp3SUlqaTAwRnFGblYyTDI?oc=5>
+- 场馆: news.ifeng.com
+- 时间: 2026-08-07 14:30
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5oOWZKR1owR3U2d1VQZGtrdmxHYzU5ZE5xal92MElqTnZZa0tCcTg1ZFNLLWEtNlZQMm9fWklmejhMMmVDN0tGRGdWMlM?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-08 08:32  (2 条)
+
+- **特朗普** | 美国上诉法院维持对白宫宴会厅改造项目的暂停令，特朗普：将上诉 <https://news.google.com/rss/articles/CBMiakFVX3lxTE8wVXZpejlTRnJ6QURrVGN5djBTVy1ZTXlVTllVVHBDXzZJNEl2eC1QeGItY2wxSG5xU1RJOFpnYUhsNDA3a3BtNC16ckllMThjVF9Jdm1GU0E5TjVkdDVWTHBtSERCRlY3WEE?oc=5>
+- **特朗普** | 特朗普：隔着大洋呢，我们没掺和这事 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5oOWZKR1owR3U2d1VQZGtrdmxHYzU5ZE5xal92MElqTnZZa0tCcTg1ZFNLLWEtNlZQMm9fWklmejhMMmVDN0tGRGdWMlM?oc=5>
 
 ### 2026-08-08 07:42  (2 条)
 
