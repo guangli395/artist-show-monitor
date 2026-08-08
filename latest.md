@@ -1,29 +1,13 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-08 19:08**
-- 本轮扫到 9012 条, 新增 **2** 条
+- 最近更新: **2026-08-08 19:51**
+- 本轮扫到 9012 条, 新增 **0** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮无新增
 
-### 周杰伦演唱会、汽水音乐节、草莓音乐节…… 成都开音乐节必下大雨定律？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimrvpf6081039.html>
-
-### 特朗普：“隔着大洋呢，我们没掺和这事”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: news.sina.cn
-- 时间: 2026-08-08 01:15
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE11WXk0UFdvSjhfVFVPRTlDVXRwd1hlaW1NcmZCNkJFdkJxdUFEN0stOGRZSkN4dXpENWRhN1BPZHA5NGVveExZLUl0Z1kxSWIwYUp3YnhtUlpQQ3JXSllqZjQ4QTgwMzUxSURTWEl2cS1OLXk5?oc=5>
-
-
----
-
+数据库里所有演出/动态都已见过,暂无新增。
 ## 历史发现
 
 ### 2026-08-08 19:08  (2 条)
