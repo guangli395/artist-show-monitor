@@ -1,31 +1,13 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-08 15:27**
-- 本轮扫到 9008 条, 新增 **2** 条
+- 最近更新: **2026-08-08 15:56**
+- 本轮扫到 9008 条, 新增 **0** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮无新增
 
-### 特朗普：谁赢了人工智能，谁就赢了一切，影响力比互联网大很多倍#海外新鲜事##海外编译精选# ​
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: k.sina.com.cn
-- 时间: 2026-08-08 15:09
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE9oR19pU0NEanpxSkxiSnljdnRiSW9fc0dncjhheUNsdHN2NlZIUUJjWkdrMEdmOERPVTd0ZENkUE5KMFFVTEdXSjJtUWwzQTFXRmZGUkpFNWNOSU4wdllGdHlDU2lueWlfUXYwT3VqSkZlZm8?oc=5>
-
-### 特朗普提名托德·布兰奇出任司法部长在参议院惊险过关
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-08-08 15:06
-- 链接: <https://news.google.com/rss/articles/CBMihwNBVV95cUxNMzFIUVBiMDlMaWxFWTdqZGI3Z1VVOGlEa21ibThrYkkxTU5RcXRaR2VPRTJhZVFwSVRadVVBemlMWGp4VlpyWUNKTmRRbjRDRkdzLTZPOG9fanNLeFBKb0ZaOUFoTHNkNWptU2VmU3p5cUQ5VEpyb3dtY011SFVJNENpUTdrWHAtUXhNV0gxQVcxWExVTVE5UE83TEZnUy0yUkNjZncxeVdVdG9FYmM1a2MxLVpfbkxmaW9kbTJuQl9POUJfSjR6ZUJNcUdabGJEX2hVZktYLU9Ub1B4V29tWGRfNFl6S1lVdkh0LVNrZjdaY3JUaGtZVGVsVUxQbWd0aHdNSzRXUm01cGg4RWV0RklteFlidGtjb1owZkpxMVVYa1l5M2YwVEpLVG5ucFBCcTE1S21qVEw3M0Q4WFBIZDcyT2c5TnFHRDI5ZlRIbTgzWmZISVgwQV8xa0JoQ1FDSk11bGpqb2V6YmQ0WVR5MFFrNEhrWUg2WExlaGNIYTVlamxpMWJR?oc=5>
-
-
----
-
+数据库里所有演出/动态都已见过,暂无新增。
 ## 历史发现
 
 ### 2026-08-08 15:27  (2 条)
