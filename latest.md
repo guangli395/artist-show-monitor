@@ -1,24 +1,35 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-08 18:27**
-- 本轮扫到 9010 条, 新增 **1** 条
+- 最近更新: **2026-08-08 19:08**
+- 本轮扫到 9012 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮新发现 (2 条)
 
-### 对峙特朗普：伊朗控制关键海峡的豪赌
+### 周杰伦演唱会、汽水音乐节、草莓音乐节…… 成都开音乐节必下大雨定律？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimrvpf6081039.html>
+
+### 特朗普：“隔着大洋呢，我们没掺和这事”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: DW.com
-- 时间: 2026-08-08 10:54
-- 链接: <https://news.google.com/rss/articles/CBMioAJBVV95cUxOQVl4d2R5MmVpaEVmOHd5Z1E0dG5PNkFSeVV0YVNNeFZULTJvZHJPbG9zY0Y4SGFUWGxuU0E0ZGgxeXc4SWdrSVZDenczMnR0WjRaa3RhVldsSWhOaVdEekE5WnFRRVp5Um11YU04bTVub09lNGRKdUNZWC01MzJ6a0FWcHQyUFROS08zVTc1R29tV2J4TEUxOUlkWW9zZGlhM3plMGhfblBuSTZWbmF3eXVFR1habWczRlY2bU9NajFtX2hoR3lDZzlNVzdwWmI5blFVV1V6cTBXUUoxX0xMNE16QVFYSXQ0eHZhM3lhc0R0cVF1SjU1RXlXMWJ4V2tpNC1TcWtUMUY3NHg4QVNYNXJLVDFOVDV0TWhaUzRMOUvSAaACQVVfeXFMTUhpUl9kT2Z0aFNTWmEtaWhVVkhndkY0enVHMm16ZEIteHBmZWZyWVVCUE9hUDR5cTFLd2pkTzlKRVgyWlJKQ2xpSlFTTUs1OTNSdHVIY2lDSFZxczR4MzJuTE1kXzhvU21Iclc0Y09FRGxJY3ZYS182bEw0N0lVaGxKZDJGSW5QUG1yNV80V3hTSW9MNkNrS0c2XzNFU2pqY09qR3BpMnYxSDVkX1B2WkZWb1RRRmtvUjBxLTFZODV6QWZMVjViTXhwZGdVaC1QQzdpcDFkM0NJWThieHVxX296bGpwX2paUmt2Rl9qdU1QdHZ5RHliSUw3SUktem9SbzAyZkl3cFRRYVJKRG0yZXZEejJKOEQ3RVV0S0VCaURh?oc=5>
+- 场馆: news.sina.cn
+- 时间: 2026-08-08 01:15
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE11WXk0UFdvSjhfVFVPRTlDVXRwd1hlaW1NcmZCNkJFdkJxdUFEN0stOGRZSkN4dXpENWRhN1BPZHA5NGVveExZLUl0Z1kxSWIwYUp3YnhtUlpQQ3JXSllqZjQ4QTgwMzUxSURTWEl2cS1OLXk5?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-08 19:08  (2 条)
+
+- **周杰伦** | 周杰伦演唱会、汽水音乐节、草莓音乐节…… 成都开音乐节必下大雨定律？ <https://www.sina.cn/news/article/nimrvpf6081039.html>
+- **特朗普** | 特朗普：“隔着大洋呢，我们没掺和这事” <https://news.google.com/rss/articles/CBMidEFVX3lxTE11WXk0UFdvSjhfVFVPRTlDVXRwd1hlaW1NcmZCNkJFdkJxdUFEN0stOGRZSkN4dXpENWRhN1BPZHA5NGVveExZLUl0Z1kxSWIwYUp3YnhtUlpQQ3JXSllqZjQ4QTgwMzUxSURTWEl2cS1OLXk5?oc=5>
 
 ### 2026-08-08 18:27  (1 条)
 
