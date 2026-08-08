@@ -1,31 +1,13 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-08 10:59**
-- 本轮扫到 8995 条, 新增 **2** 条
+- 最近更新: **2026-08-08 11:32**
+- 本轮扫到 8995 条, 新增 **0** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮无新增
 
-### 特朗普：将对上诉法院涉白宫宴会厅项目裁决提起上诉
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: news.sina.cn
-- 时间: 2026-08-07 16:52
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE8tZFRGRm9RdU80cTV2R2tUN2JzSVEyOWgyVkNOV3FnakpHUElab0F1bnRoNXZzUlRCbXEwbkxpak5BNU5MQ084NmJubF9OZHo2bHlmX0M0VWhyNVkzWHhMeUhWaGZTZ19iMlA0V0t6WFJ5WXY2VzRWVA?oc=5>
-
-### 特朗普宣布：将向关键矿产和电池项目投资30亿美元
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-08-08 02:18
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE9QX0dTVU9Kcno5dW12RHh0a1NaeGlENGxRUGtyeEJFSlN4Mi1uR094NzVPQzlxQ1RfOUJfVVNHYXdZSTNySF9yRg?oc=5>
-
-
----
-
+数据库里所有演出/动态都已见过,暂无新增。
 ## 历史发现
 
 ### 2026-08-08 10:59  (2 条)
