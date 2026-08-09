@@ -1,24 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-09 11:53**
-- 本轮扫到 9030 条, 新增 **1** 条
+- 最近更新: **2026-08-09 12:36**
+- 本轮扫到 9031 条, 新增 **1** 条
 
 ---
 
 ## 本轮新发现 (1 条)
 
-### 特朗普政府将向电池和材料公司拨款20亿美元，旨在减少对中国的依赖
+### 白宫官员证实特朗普与美联储主席定期通话 强调尊重央行独立性
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-08-08 01:41
-- 链接: <https://news.google.com/rss/articles/CBMizAJBVV95cUxNWXhVVkMxU3ZkVVFjcUVXVGxZZnk3VU1nQ21Cb2o4aGFuSTZYN2psb0FPemRhRzY2cnZ3YWxMRTN2Uy16aDByd1F0SG9IeWZtdXFvdFZORE54WFZySXpWMlpzT1NDRW1ZamVIM0wxT3Qzb2JVQzU3d01nQ0R1a28yVGVCNm01dW5VcnMxeUVDc2lLVnh4VnNtbTlfSm1QQ2t4cGtUbWlqTXlpaXRzQjJac3hjX3pUMllzcTRuQWFTLTNUREhreHc5RGQxVGVDQWZ5d1BRRmRfeGhCTXZWajNqeFlHd1lpUjhFUnhuNXd1SkFVdmE1cERVQ2lURkluWkF4c2ktcFViRVVEdTR6eEZPZEkwWndNLW1jRVBOQ0lTTjVrREpsM25xc21NRm90X2lZUjhwR01EYzE3SlJlYVRiQzdnZzJXT3psSTFINA?oc=5>
+- 场馆: 搜狐网
+- 时间: 2026-08-09 10:43
+- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZFQzb3c2VVNRNFVWZExMNVJsU1NaOWhkMV96ZlRwRFVTQTMzOG8xLVplRDk5VkNCOFlXMFpGQjdhZURSMlFGNGY3dmVhUUJFdnNVSUpwM0R4eERIRHMzeWtIcU5GNEJTX1pTNkczMlhxUnByY1dFMkJFSksyZzdGTDFiZ29jcHRfTkRv?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-09 12:36  (1 条)
+
+- **特朗普** | 白宫官员证实特朗普与美联储主席定期通话 强调尊重央行独立性 <https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZFQzb3c2VVNRNFVWZExMNVJsU1NaOWhkMV96ZlRwRFVTQTMzOG8xLVplRDk5VkNCOFlXMFpGQjdhZURSMlFGNGY3dmVhUUJFdnNVSUpwM0R4eERIRHMzeWtIcU5GNEJTX1pTNkczMlhxUnByY1dFMkJFSksyZzdGTDFiZ29jcHRfTkRv?oc=5>
 
 ### 2026-08-09 11:53  (1 条)
 
