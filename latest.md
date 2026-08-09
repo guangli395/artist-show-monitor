@@ -1,56 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-09 22:26**
-- 本轮扫到 9052 条, 新增 **6** 条
+- 最近更新: **2026-08-09 22:59**
+- 本轮扫到 9055 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (3 条)
 
-### 蔡徐坤澳门演唱会之后还会在哪些城市举办巡演？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimukzx3032765.html>
-
-### 蔡徐坤在澳门演唱会全开麦唱跳了多少首歌曲？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimukzv1429019.html>
-
-### 蔡徐坤澳门演唱会上的吻手礼争议是怎么回事？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimukzv1429003.html>
-
-### 蔡徐坤澳门演唱会玩转无限流，三次重生燃爆全场
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimukzx3032561.html>
-
-### 特朗普的大使任命，被指“违背传统”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: finance.sina.cn
-- 时间: 2026-08-09 22:14
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE14TDVvMEhPZ3pQY0cwWHlINHVUaDU5Vnk2aGRza2hFZ1hvU2Rpa1FnWTBOWWM0Nmd5MUM2bk5INlpUbjFhenV4OUZVVDFFWTBNaHdEemZ6NFI2dHhEMWsxT09UYjBCMXYxZ0xmaTVTWFgwZkYxUFJwQg?oc=5>
-
-### 特朗普谈伊朗：我们正低调处理
+### 8月10日周末要闻：特朗普称正“低调处理”伊朗问题 油价上涨
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-08-09 17:10
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1aNTBkQ3RjYUgxMUlsdE1mRUdvUUdTT2hnMDRVOXFFRThyRnV6YUlfRmlXSG5SNTlZdzZJc243NENUakJMRkF1Wmw3NA?oc=5>
+- 时间: 2026-08-09 22:34
+- 链接: <https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYWFDbWoxSkd2amxUMVRxelFld0gyZmRXRDQzal9LYXgtYUFFOTJBTURGVDU5VWJJSHc1UFo3U2lKV1FHMzFOTUUtc1Q3Ulp5cmphRzBMS0lhVzdoeVdETHBzdFpyX01nbFkxQjhrNVNqU2wtMXo3Z3BDX29ic1dDeURBekNEaGVRZ2Z1QV9CVXdhSTVRU3c4QmRxUjZ0a0FPam8xYTVITzBrMFQ2NUtCbThxTXotSjE5dDk5ZzBkR2E?oc=5>
+
+### 北美防空司令部出动F-16拦截特朗普高尔夫俱乐部附近两架飞机
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: finance.sina.com.cn
+- 时间: 2026-08-09 19:39
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9vODg0U1c4RmpDUExLWVo5QXBhd1ZMcFp2Q0JKX29VZHBOYm54YUVUMVFMdVllQlZOVHFyZXRUTkRBRHVTV2xRcWpXWWRBalZzWWZxc0pwbFQ0TnA5bDRKdVBKU1d5WUtlMnczcE5CVDR1TDZ2WVJ2OQ?oc=5>
+
+### 白宫官员证实特朗普与美联储主席定期通话 强调尊重央行独立性
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新京报
+- 时间: 2026-08-09 10:17
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE80ZGNXU0NBemhRdGZxSFN3ZGs3LTQ4RFVZR2VkQ0o2SzVOc19JaE9hOHVPcGUyRnVEa2ZtMm54WTFFQnZfSVFwRFg3STBXSWMxeXh5bmhLUS03czNZOWpqb2FBUFk?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-09 22:59  (3 条)
+
+- **特朗普** | 8月10日周末要闻：特朗普称正“低调处理”伊朗问题 油价上涨 <https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYWFDbWoxSkd2amxUMVRxelFld0gyZmRXRDQzal9LYXgtYUFFOTJBTURGVDU5VWJJSHc1UFo3U2lKV1FHMzFOTUUtc1Q3Ulp5cmphRzBMS0lhVzdoeVdETHBzdFpyX01nbFkxQjhrNVNqU2wtMXo3Z3BDX29ic1dDeURBekNEaGVRZ2Z1QV9CVXdhSTVRU3c4QmRxUjZ0a0FPam8xYTVITzBrMFQ2NUtCbThxTXotSjE5dDk5ZzBkR2E?oc=5>
+- **特朗普** | 北美防空司令部出动F-16拦截特朗普高尔夫俱乐部附近两架飞机 <https://news.google.com/rss/articles/CBMieEFVX3lxTE9vODg0U1c4RmpDUExLWVo5QXBhd1ZMcFp2Q0JKX29VZHBOYm54YUVUMVFMdVllQlZOVHFyZXRUTkRBRHVTV2xRcWpXWWRBalZzWWZxc0pwbFQ0TnA5bDRKdVBKU1d5WUtlMnczcE5CVDR1TDZ2WVJ2OQ?oc=5>
+- **特朗普** | 白宫官员证实特朗普与美联储主席定期通话 强调尊重央行独立性 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE80ZGNXU0NBemhRdGZxSFN3ZGs3LTQ4RFVZR2VkQ0o2SzVOc19JaE9hOHVPcGUyRnVEa2ZtMm54WTFFQnZfSVFwRFg3STBXSWMxeXh5bmhLUS03czNZOWpqb2FBUFk?oc=5>
 
 ### 2026-08-09 22:26  (6 条)
 
