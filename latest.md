@@ -1,14 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-09 20:29**
-- 本轮扫到 9042 条, 新增 **0** 条
+- 最近更新: **2026-08-09 21:03**
+- 本轮扫到 9043 条, 新增 **1** 条
 
 ---
 
-## 本轮无新增
+## 本轮新发现 (1 条)
 
-数据库里所有演出/动态都已见过,暂无新增。
+### 特朗普重启解雇美联储理事丽莎·库克的行动
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: finance.sina.com.cn
+- 时间: 2026-08-07 22:32
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxPT2JSa2g0TDlwUW1CeVpGUkJoMlBhTTV4bVNtYnk4MUJUYTV1VkdZb1NfODhURGhOSThnT3lsQU1pWTlNYk50QXRTUHNTMzUzQmVfbEhISlFBdDZCczRuRWFOdFdjbnZHNG9xTEpLZW4yRUZrRFd6MnhwOThCUi1qencxZnBlRDhReU84a3pYSW5NNlkwX1RiaVg2bGtGZklrVHJINGR6MUZpd0hwaHUtTGtUQVhKYTd4U1dYOHY0WVBIY3RJUjRDUW1Pbk80SGhl?oc=5>
+
+
+---
+
 ## 历史发现
+
+### 2026-08-09 21:03  (1 条)
+
+- **特朗普** | 特朗普重启解雇美联储理事丽莎·库克的行动 <https://news.google.com/rss/articles/CBMi0AFBVV95cUxPT2JSa2g0TDlwUW1CeVpGUkJoMlBhTTV4bVNtYnk4MUJUYTV1VkdZb1NfODhURGhOSThnT3lsQU1pWTlNYk50QXRTUHNTMzUzQmVfbEhISlFBdDZCczRuRWFOdFdjbnZHNG9xTEpLZW4yRUZrRFd6MnhwOThCUi1qencxZnBlRDhReU84a3pYSW5NNlkwX1RiaVg2bGtGZklrVHJINGR6MUZpd0hwaHUtTGtUQVhKYTd4U1dYOHY0WVBIY3RJUjRDUW1Pbk80SGhl?oc=5>
 
 ### 2026-08-09 19:56  (2 条)
 
