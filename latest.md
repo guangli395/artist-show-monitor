@@ -1,30 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-09 06:43**
-- 本轮扫到 9025 条, 新增 **2** 条
+- 最近更新: **2026-08-09 07:48**
+- 本轮扫到 9027 条, 新增 **2** 条
 
 ---
 
 ## 本轮新发现 (2 条)
-
-### 周杰伦连线刘畊宏，喊话淘汰可当演唱会嘉宾
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimswyr8939774.html>
 
 ### 鲁比奥一句“别回头”，特朗普：这画不错，我要带走
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-08-09 03:33
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTFBEUHlMcTlNelFoSXRsV1Bnd285Yi1tZFRVeFVnVUNVRk5najBDS0VqNUlwa1BaMkFmMV81NkRrQkVTckY0bTdBbjNUTUd6UXJPVUhJSGQ2MFJZSkJRUVpsa3huSndMQVZ1aDNkcDR0ZmJrS0Js?oc=5>
+- 时间: 2026-08-09 02:04
+- 链接: <https://news.google.com/rss/articles/CBMikAFBVV95cUxNYjhTcW9mS1g0YXNTcmFSdHE4X0dOYmNaUmQ4YjJLVHpZa3FmSWMxckEtOGtheHdSbV9PbEZRaGRjdTBzWEstUDBmUE9WNG9HWWZiNWdXSTRGODltT20zcHdRcWk5NnBUV0pNQ0lQTW0wNVhoZGdDVmMtM1FiU1ZHMWI1bFl4NUNmZG9mSHRBaF8?oc=5>
+
+### 特朗普特使和女婿近日或访问俄乌
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-08-09 06:47
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1IMzZzazRaejU0LU5mM01HVXpPUEVVckdzVXRFM0kyVFgydGoxQ0JyODRud2F3Zk1fcUpMM0hUWlkzcmpnWDY0TlVpZHk?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-09 07:48  (2 条)
+
+- **特朗普** | 鲁比奥一句“别回头”，特朗普：这画不错，我要带走 <https://news.google.com/rss/articles/CBMikAFBVV95cUxNYjhTcW9mS1g0YXNTcmFSdHE4X0dOYmNaUmQ4YjJLVHpZa3FmSWMxckEtOGtheHdSbV9PbEZRaGRjdTBzWEstUDBmUE9WNG9HWWZiNWdXSTRGODltT20zcHdRcWk5NnBUV0pNQ0lQTW0wNVhoZGdDVmMtM1FiU1ZHMWI1bFl4NUNmZG9mSHRBaF8?oc=5>
+- **特朗普** | 特朗普特使和女婿近日或访问俄乌 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1IMzZzazRaejU0LU5mM01HVXpPUEVVckdzVXRFM0kyVFgydGoxQ0JyODRud2F3Zk1fcUpMM0hUWlkzcmpnWDY0TlVpZHk?oc=5>
 
 ### 2026-08-09 06:43  (2 条)
 
