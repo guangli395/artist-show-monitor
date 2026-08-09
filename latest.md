@@ -1,40 +1,65 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-09 21:56**
-- 本轮扫到 9046 条, 新增 **3** 条
+- 最近更新: **2026-08-09 22:26**
+- 本轮扫到 9052 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (6 条)
 
-### 特朗普称正在“低调处理”伊朗问题
+### 蔡徐坤澳门演唱会之后还会在哪些城市举办巡演？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimukzx3032765.html>
+
+### 蔡徐坤在澳门演唱会全开麦唱跳了多少首歌曲？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimukzv1429019.html>
+
+### 蔡徐坤澳门演唱会上的吻手礼争议是怎么回事？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimukzv1429003.html>
+
+### 蔡徐坤澳门演唱会玩转无限流，三次重生燃爆全场
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimukzx3032561.html>
+
+### 特朗普的大使任命，被指“违背传统”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 央视网
-- 时间: 2026-08-09 20:35
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE42d0U0UTUzdWN5Vll5c0kyLV9fVl96NWxqeHZycmZ0TVIzUGd3NHowamY2dG1mZms4NTIydGFacW0teGthYTRZcXpsaE90bHJ0MWNJZzVHODNTMXMzbGMtMkM5Y2d2aG85MUFhLTRVbTVhblhTM1pCQw?oc=5>
+- 场馆: finance.sina.cn
+- 时间: 2026-08-09 22:14
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE14TDVvMEhPZ3pQY0cwWHlINHVUaDU5Vnk2aGRza2hFZ1hvU2Rpa1FnWTBOWWM0Nmd5MUM2bk5INlpUbjFhenV4OUZVVDFFWTBNaHdEemZ6NFI2dHhEMWsxT09UYjBCMXYxZ0xmaTVTWFgwZkYxUFJwQg?oc=5>
 
-### 内塔尼亚胡拒特朗普加沙15点方案 美方和平布局再遇阻力
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-08-09 21:40
-- 链接: <https://news.google.com/rss/articles/CBMigwNBVV95cUxPdTQxSFBPV0VKUkhjVURmaU83ellKODVaRGYzZy03YnBPMDF1N1NGOEh4R0tZdUd5OVlHZXg0QjRlV3lWODFuWnlLYWpwRlI1LU1abEVXLU9Yenp2eEwzN3JMVHl1ZWo2YzZtQmN6eHlsY09PU3Y1MXQybkNHSFVCX2Z3MXE4RnBzbUswV3R6NFEwczBheVQ2dmRQaERwWFNxb3VMLXhsZVRJTDg5a1FUeFl2UDRGd2JPVmtyWms3S2VwVS1yd2llWHd4U29NMTE1cFVucnEza0NwT1FyZUlyUm90TmhROVFoNFRyZ1BpT1JkbHpGNTNjOGlBUWwwc3Y4XzI5LWNicVJoanh3QzlHcUk1M0NIeDZMa2ZHN0NuQkxPakdIOGdTbk55dy00SVJ6MHZqOWx6RHZraENqMG9xdXh5NzZuRFJ6RDdNemo1bG9KTExmMXRQSThvUDRueXJSZjBWdVY3eVF4RXBVWGQ0WGhRQnpRcjdVWmN1OTdMLWo3c3M?oc=5>
-
-### 伊朗称美国接受“全部条件”才会重开霍尔木兹海峡 特朗普强调经济施压
+### 特朗普谈伊朗：我们正低调处理
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-08-09 21:32
-- 链接: <https://news.google.com/rss/articles/CBMiywNBVV95cUxQeVJGcDRpWmJMY2NZd28zWVpxcVVMWkp2OWYxaVplQTFtdFBLaldkeDktN1o5QWZHTWd4OEZIVUlPdnoyOF9Hd0lGeGN1UWJpTUFxT3VUNzBsTTdRWnZKOFNZUnE4M05WSFRWVHR4QWhJeTlGQWVQZTZpSXJxREtWdk9tcWJZQ2ZMUnJSenVnaENRSHlVSTlfQkszWGtxNGNxajVtbEUyMmFQNmR4SS1PTzN3VlVjWkZ1ZGNac2p5bWFqU2RaRDhEb0VXRnNsRXBQcFRHTlhDbExaQUdaVGF6b0paVXJ2ajFNSXAtWDZhRVVGdTNXaEw5aExqclBGVDYwWFZqTHdMbEJQTlpTUTBWbVV1VFUyZldZSDItTXRSVjUyWkhkdl8tR1RvdU5objM0RUZQZU5TUUptVFR4d3hNci1QTjRydFVPMVNpZXYyMTkwTnFlNTNsQS0tSzVpWjg3QWxmbk9zcmxlbjVoNEQ0djQtaDM0bTcyd2JmakwwRUtVU2wtcmN3dXJmU0tTRzFKVVFXbEk0NVdNM1p3NnFxZzZRU29vazdSZW0xYjM2VmtJWXY2NDc2d3hPeWlTQUdwY3VPQWpHY2k0UXM?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-09 17:10
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1aNTBkQ3RjYUgxMUlsdE1mRUdvUUdTT2hnMDRVOXFFRThyRnV6YUlfRmlXSG5SNTlZdzZJc243NENUakJMRkF1Wmw3NA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-09 22:26  (6 条)
+
+- **蔡徐坤** | 蔡徐坤澳门演唱会之后还会在哪些城市举办巡演？ <https://www.sina.cn/news/article/nimukzx3032765.html>
+- **蔡徐坤** | 蔡徐坤在澳门演唱会全开麦唱跳了多少首歌曲？ <https://www.sina.cn/news/article/nimukzv1429019.html>
+- **蔡徐坤** | 蔡徐坤澳门演唱会上的吻手礼争议是怎么回事？ <https://www.sina.cn/news/article/nimukzv1429003.html>
+- **蔡徐坤** | 蔡徐坤澳门演唱会玩转无限流，三次重生燃爆全场 <https://www.sina.cn/news/article/nimukzx3032561.html>
+- **特朗普** | 特朗普的大使任命，被指“违背传统” <https://news.google.com/rss/articles/CBMieEFVX3lxTE14TDVvMEhPZ3pQY0cwWHlINHVUaDU5Vnk2aGRza2hFZ1hvU2Rpa1FnWTBOWWM0Nmd5MUM2bk5INlpUbjFhenV4OUZVVDFFWTBNaHdEemZ6NFI2dHhEMWsxT09UYjBCMXYxZ0xmaTVTWFgwZkYxUFJwQg?oc=5>
+- **特朗普** | 特朗普谈伊朗：我们正低调处理 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1aNTBkQ3RjYUgxMUlsdE1mRUdvUUdTT2hnMDRVOXFFRThyRnV6YUlfRmlXSG5SNTlZdzZJc243NENUakJMRkF1Wmw3NA?oc=5>
 
 ### 2026-08-09 21:56  (3 条)
 
