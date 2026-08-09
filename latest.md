@@ -1,24 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-09 18:36**
-- 本轮扫到 9038 条, 新增 **1** 条
+- 最近更新: **2026-08-09 19:27**
+- 本轮扫到 9040 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮新发现 (2 条)
 
-### 川普前私人律师接掌司法部！参院50:49惊险过关
+### 特朗普谈降息：希望利率下调，但这不完全取决于沃什一人
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 文学城
-- 时间: 2026-08-09 16:38
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1IQkZpYnNYQmlyeWlhb180ZUp5THJIa0ZuNzlxZzFQcFJHWERFWUVNRzBKSU85QmJPdU51YUxzQmt3ZUNWUy1kNVlTM0QyQlU3R2JBVXVlWHIzQWgtSl9ReGNLZlhTTHpN?oc=5>
+- 场馆: wallstreetcn.com
+- 时间: 2026-08-07 11:32
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XaVFvUWxya3hhS0h2RWo5VEJfM1o4QjgxV0dBX3RrSG43bTNzOWV0RHZzS3dJY1ZnUGVsQW5Md19wRjFXVUlPN0phWC1vYTdWbmxR?oc=5>
+
+### 特朗普重启解雇美联储理事丽莎·库克的行动
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-07 22:32
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZzdHNmFCbEFVSURSX0lidTFzYzdoQWRQdjBINjVEQm9Ud1BReDJVVlNMQmUxU3FnRHJQbFNEQ3NJV1Y1RlMyLVpwS05la2phclRtRDZXSlpkN3dTbGVCUjNwM244Yk9nYnFad19YUzB6c1FrQUxQb1k3TWtCcGU4NjdGQnVUV3NOdTA0Z0t1YlFSdXg0TGVUSmFjSGluUEZld0R5VDB6Y05EOHlIanBSdTFjN1NQaGdOTkl3V1BITVRtdFRydGdLQUFtd1ZiVEJG?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-09 19:27  (2 条)
+
+- **特朗普** | 特朗普谈降息：希望利率下调，但这不完全取决于沃什一人 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XaVFvUWxya3hhS0h2RWo5VEJfM1o4QjgxV0dBX3RrSG43bTNzOWV0RHZzS3dJY1ZnUGVsQW5Md19wRjFXVUlPN0phWC1vYTdWbmxR?oc=5>
+- **特朗普** | 特朗普重启解雇美联储理事丽莎·库克的行动 <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZzdHNmFCbEFVSURSX0lidTFzYzdoQWRQdjBINjVEQm9Ud1BReDJVVlNMQmUxU3FnRHJQbFNEQ3NJV1Y1RlMyLVpwS05la2phclRtRDZXSlpkN3dTbGVCUjNwM244Yk9nYnFad19YUzB6c1FrQUxQb1k3TWtCcGU4NjdGQnVUV3NOdTA0Z0t1YlFSdXg0TGVUSmFjSGluUEZld0R5VDB6Y05EOHlIanBSdTFjN1NQaGdOTkl3V1BITVRtdFRydGdLQUFtd1ZiVEJG?oc=5>
 
 ### 2026-08-09 18:36  (1 条)
 
