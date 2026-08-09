@@ -1,30 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-09 14:27**
-- 本轮扫到 9033 条, 新增 **2** 条
+- 最近更新: **2026-08-09 15:01**
+- 本轮扫到 9034 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (1 条)
 
-### 蔡徐坤TheDeadman演唱会
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimtuec1636972.html>
-
-### 白宫官员：特朗普与美联储主席定期通话，他尊重美联储独立性，不会施压
+### 特朗普怒了：国家耻辱！
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-08-09 14:15
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE4ybnVUVXZMMjdobnk1bUFVd0cta0M4ZC1MSnIxdVU1MEgzNkJUQkpGM040TmcyRm1hODZVSGpQTHRLdFJuN1czRUJJcGtaTXU4NGU4NHB2LXNxbHl3cGt5RzZVVW1sMmFyZGUzVlZjYWQxYnZydGFFXw?oc=5>
+- 时间: 2026-08-09 04:31
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9YYVRzbHl5aGcxd3Zfb2RDOG81TlM4X0U4bGNKbURWMmlONkdZWEp5UWJUem13bWFnbzhzVVRxcFNobEhxNDJEWW1QaXhYOEJiV1d4em82bEM1NVdEeUc5VzNDMjZ5eldsZHlhWFh3cGZXd1czdVVHeA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-09 15:01  (1 条)
+
+- **特朗普** | 特朗普怒了：国家耻辱！ <https://news.google.com/rss/articles/CBMieEFVX3lxTE9YYVRzbHl5aGcxd3Zfb2RDOG81TlM4X0U4bGNKbURWMmlONkdZWEp5UWJUem13bWFnbzhzVVRxcFNobEhxNDJEWW1QaXhYOEJiV1d4em82bEM1NVdEeUc5VzNDMjZ5eldsZHlhWFh3cGZXd1czdVVHeA?oc=5>
 
 ### 2026-08-09 14:27  (2 条)
 
