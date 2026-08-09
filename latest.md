@@ -1,40 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-09 22:59**
-- 本轮扫到 9055 条, 新增 **3** 条
+- 最近更新: **2026-08-09 23:34**
+- 本轮扫到 9059 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (4 条)
 
-### 8月10日周末要闻：特朗普称正“低调处理”伊朗问题 油价上涨
+### 特朗普称正在“低调处理”伊朗问题
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-08-09 22:34
-- 链接: <https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYWFDbWoxSkd2amxUMVRxelFld0gyZmRXRDQzal9LYXgtYUFFOTJBTURGVDU5VWJJSHc1UFo3U2lKV1FHMzFOTUUtc1Q3Ulp5cmphRzBMS0lhVzdoeVdETHBzdFpyX01nbFkxQjhrNVNqU2wtMXo3Z3BDX29ic1dDeURBekNEaGVRZ2Z1QV9CVXdhSTVRU3c4QmRxUjZ0a0FPam8xYTVITzBrMFQ2NUtCbThxTXotSjE5dDk5ZzBkR2E?oc=5>
+- 时间: 2026-08-09 22:26
+- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxNdGJ0ZnFkeUJTcEx4OFdxaWdGNmtvSUQwM0VBZG82dndRTjZpcERvdmpaSENlZVRJV0pMV0JmdVJZYWxxSkRSamdoYTdpemtwMklRbzJFcGthNnpNLUU0UkptVl9UZnNJY05GUzREMmdQQW5HNS1WTkNTek93UWRtbzV4QWJjSjZvSkJkeldSeUNVVEpiRFBxRg?oc=5>
 
-### 北美防空司令部出动F-16拦截特朗普高尔夫俱乐部附近两架飞机
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-08-09 19:39
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9vODg0U1c4RmpDUExLWVo5QXBhd1ZMcFp2Q0JKX29VZHBOYm54YUVUMVFMdVllQlZOVHFyZXRUTkRBRHVTV2xRcWpXWWRBalZzWWZxc0pwbFQ0TnA5bDRKdVBKU1d5WUtlMnczcE5CVDR1TDZ2WVJ2OQ?oc=5>
-
-### 白宫官员证实特朗普与美联储主席定期通话 强调尊重央行独立性
+### 两架飞机违规靠近特朗普高尔夫俱乐部，北美防空司令部出动F-16拦截
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-08-09 10:17
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE80ZGNXU0NBemhRdGZxSFN3ZGs3LTQ4RFVZR2VkQ0o2SzVOc19JaE9hOHVPcGUyRnVEa2ZtMm54WTFFQnZfSVFwRFg3STBXSWMxeXh5bmhLUS03czNZOWpqb2FBUFk?oc=5>
+- 场馆: 观察者网
+- 时间: 2026-08-09 23:13
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5wZWlEcjJIeVA5WEtRQi0wdmxLSE5ONnlCWURfY1VaVVdFOWdEZW1wYXpNTGowVmNrODFDVkNQdnhRY09YSFhoZEx5NTg0ei13bEhDSVV1VUZSSXJmenpSRG9Mc0hmdXVmN0E?oc=5>
+
+### 鲁比奥一句“别回头”，特朗普：这画不错，我要带走
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-08-08 23:51
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE81V2JjazBtSkNpbzNHRndGVEVlNy1qWHpCZ2lVcWdub3B4ZDZEQTZBY1pUaUJCTEoyVEZlWnhkaEh0WlVLRTUxVkY0dm4?oc=5>
+
+### 特朗普重启解雇美联储理事丽莎·库克的行动
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-07 22:32
+- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxPZl92ZWRhNUl0amF0M0JUa1lRUExHbnVKeVFnbTFrdmtMcDlzaXh3ZjAyeHN0Q0kzNmY3Q0t0al92Z0dmeU4xVlYyTVpqeHJKS1ZqMF9jNVlWVXp3VmN5YUNkUWFqcFg1MHR4MXRZcGJZc2h6UXJIdTVtNWtrNlVZNC0tOTBIQXZ1bmZNVnVKaw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-09 23:34  (4 条)
+
+- **特朗普** | 特朗普称正在“低调处理”伊朗问题 <https://news.google.com/rss/articles/CBMimAFBVV95cUxNdGJ0ZnFkeUJTcEx4OFdxaWdGNmtvSUQwM0VBZG82dndRTjZpcERvdmpaSENlZVRJV0pMV0JmdVJZYWxxSkRSamdoYTdpemtwMklRbzJFcGthNnpNLUU0UkptVl9UZnNJY05GUzREMmdQQW5HNS1WTkNTek93UWRtbzV4QWJjSjZvSkJkeldSeUNVVEpiRFBxRg?oc=5>
+- **特朗普** | 两架飞机违规靠近特朗普高尔夫俱乐部，北美防空司令部出动F-16拦截 <https://news.google.com/rss/articles/CBMiakFVX3lxTE5wZWlEcjJIeVA5WEtRQi0wdmxLSE5ONnlCWURfY1VaVVdFOWdEZW1wYXpNTGowVmNrODFDVkNQdnhRY09YSFhoZEx5NTg0ei13bEhDSVV1VUZSSXJmenpSRG9Mc0hmdXVmN0E?oc=5>
+- **特朗普** | 鲁比奥一句“别回头”，特朗普：这画不错，我要带走 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE81V2JjazBtSkNpbzNHRndGVEVlNy1qWHpCZ2lVcWdub3B4ZDZEQTZBY1pUaUJCTEoyVEZlWnhkaEh0WlVLRTUxVkY0dm4?oc=5>
+- **特朗普** | 特朗普重启解雇美联储理事丽莎·库克的行动 <https://news.google.com/rss/articles/CBMijwFBVV95cUxPZl92ZWRhNUl0amF0M0JUa1lRUExHbnVKeVFnbTFrdmtMcDlzaXh3ZjAyeHN0Q0kzNmY3Q0t0al92Z0dmeU4xVlYyTVpqeHJKS1ZqMF9jNVlWVXp3VmN5YUNkUWFqcFg1MHR4MXRZcGJZc2h6UXJIdTVtNWtrNlVZNC0tOTBIQXZ1bmZNVnVKaw?oc=5>
 
 ### 2026-08-09 22:59  (3 条)
 
