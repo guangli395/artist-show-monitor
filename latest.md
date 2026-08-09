@@ -1,32 +1,26 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-09 07:48**
-- 本轮扫到 9027 条, 新增 **2** 条
+- 最近更新: **2026-08-09 08:34**
+- 本轮扫到 9028 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (1 条)
 
-### 鲁比奥一句“别回头”，特朗普：这画不错，我要带走
+### 刘畊宏称会跳操不等于会跳舞，周杰伦邀其来演唱会
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-08-09 02:04
-- 链接: <https://news.google.com/rss/articles/CBMikAFBVV95cUxNYjhTcW9mS1g0YXNTcmFSdHE4X0dOYmNaUmQ4YjJLVHpZa3FmSWMxckEtOGtheHdSbV9PbEZRaGRjdTBzWEstUDBmUE9WNG9HWWZiNWdXSTRGODltT20zcHdRcWk5NnBUV0pNQ0lQTW0wNVhoZGdDVmMtM1FiU1ZHMWI1bFl4NUNmZG9mSHRBaF8?oc=5>
-
-### 特朗普特使和女婿近日或访问俄乌
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-09 06:47
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1IMzZzazRaejU0LU5mM01HVXpPUEVVckdzVXRFM0kyVFgydGoxQ0JyODRud2F3Zk1fcUpMM0hUWlkzcmpnWDY0TlVpZHk?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimtchp3455968.html>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-09 08:34  (1 条)
+
+- **周杰伦** | 刘畊宏称会跳操不等于会跳舞，周杰伦邀其来演唱会 <https://www.sina.cn/news/article/nimtchp3455968.html>
 
 ### 2026-08-09 07:48  (2 条)
 
