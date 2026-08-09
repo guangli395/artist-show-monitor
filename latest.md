@@ -1,24 +1,44 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-09 03:13**
-- 本轮扫到 9020 条, 新增 **1** 条
+- 最近更新: **2026-08-09 04:44**
+- 本轮扫到 9023 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮新发现 (3 条)
 
-### 特朗普准备30亿美元用于美国战略矿产项目
+### 蔡徐坤thedeadman演唱会与0802生日祝福
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimssst3594573.html>
+
+### 美军高层正寻求退出伊朗，“特朗普的想法无法实现”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: idnfinancials.com
-- 时间: 2026-08-08 23:00
-- 链接: <https://news.google.com/rss/articles/CBMisgJBVV95cUxOQTlHd0FQMnlFREhTVzJMUEw0N3hmS0d4ejIxcHJJTy1NQUVhZUFmdWcyVHNIQ3o2bXhPLThlc1B4Z0hUUGJ4R3pSNk1Na2oydzRZN0gwcm10NFZyNTIyU1NLMGo0OVhOVGtlRTJFNHd2aEdzTGJkZFZ6d0ZPSGhNYVM0N1hwUTdqOVhKbFViQ1llNVJZQ1NxX1FjbncyYlUySl9aU3pKNDZQSmNtTUdNR1BEUTVSNGdvb0RUY1J0czNFTVRERjE1Z3JwaTdjUDRsRHlJeHdqaWl6UV9nWU8wMWJ5Ui1qS2Zoc212VUx4aC1mZWtpV003cExuUDFFcFRlWVM0aHd2NkVQSjI3b0h6SU1wWWxyVWFKZTA0M2swNGtWQk5vcFBKYjlvZ3FNTlFEQnc?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-08 19:32
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9qVHgydEstSDlRb1lpWnVHMnRjX1ZiN2thRENocVlzSnhmbnowUHltb2pQVjFjRkRfR0wwX1JIWHB4YzJVRS1KVEJ0WVpQS2w4a21xTy1xTzNhZVhEcFNYd0N0emUxVjNJSWJUWThsRVBWbGdId1d4NA?oc=5>
+
+### “发量突然变多了？”……Trump判若两人，令人吃惊- 阿视亚经济
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 아시아경제
+- 时间: 2026-08-09 02:32
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1JZFN6U0NoWDVWVUZJNEpsamwtM3pIYmNoWThWeXNVcHRVY1BFVlVTMU9lTTBRQnJ3TzVCS0V2WlpiRTcwTkVSUWZGRW9qNkVzaHo1bzNRVnR4MnRObTNNU1h1c3M?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-09 04:44  (3 条)
+
+- **蔡徐坤** | 蔡徐坤thedeadman演唱会与0802生日祝福 <https://www.sina.cn/news/article/nimssst3594573.html>
+- **特朗普** | 美军高层正寻求退出伊朗，“特朗普的想法无法实现” <https://news.google.com/rss/articles/CBMieEFVX3lxTE9qVHgydEstSDlRb1lpWnVHMnRjX1ZiN2thRENocVlzSnhmbnowUHltb2pQVjFjRkRfR0wwX1JIWHB4YzJVRS1KVEJ0WVpQS2w4a21xTy1xTzNhZVhEcFNYd0N0emUxVjNJSWJUWThsRVBWbGdId1d4NA?oc=5>
+- **Trump** | “发量突然变多了？”……Trump判若两人，令人吃惊- 阿视亚经济 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1JZFN6U0NoWDVWVUZJNEpsamwtM3pIYmNoWThWeXNVcHRVY1BFVlVTMU9lTTBRQnJ3TzVCS0V2WlpiRTcwTkVSUWZGRW9qNkVzaHo1bzNRVnR4MnRObTNNU1h1c3M?oc=5>
 
 ### 2026-08-09 03:13  (1 条)
 
