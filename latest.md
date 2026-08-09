@@ -1,32 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-08 23:53**
-- 本轮扫到 9016 条, 新增 **2** 条
+- 最近更新: **2026-08-09 01:12**
+- 本轮扫到 9019 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (3 条)
 
-### 消息人士：若民主党赢得众议院，他们计划对特朗普进行调查而非弹劾
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-08 12:57
-- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxPMjdjRXVEZTdJNnQ4TnU2ZEt3UHZhejFaRUF1WU5LZmdJOG9BeWRWSFgxQ0NXYXRCcXpRSEZ1cHM2WVZvVVlSWGp0SXNmcEd0eWlQWnhxd2FxU1BFYmZscHYzdGc2TzhDejM3UFA4dzhyNm9HcTUyLTBRaHpXMmRIOQ?oc=5>
-
-### 美议员讽刺特朗普对伊政策：他总在股市开盘前说不打了
+### 鲁比奥一句“别回头”，特朗普：这画不错，我要带走-观察者网
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-08 13:51
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1yVmttRFlzZnVodmxnUV9YcHFLbkY3dnJ0ODVyQ19lc0IyUzYzZ2hxa1BvRTFNeTV6MFl2SkFZU2tPVTVxNEJjYWV5TQ?oc=5>
+- 场馆: guancha.cn
+- 时间: 2026-08-08 23:51
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE44VTF5THJJS0NXSC01ZklneWxZYTdPd25ZdG5sck4xeWpOMUtXZUI0N2Qwd0JUcWhNWksxalVseWdIR3RUN0JpRUh3TTlVQ3R6al9pTkhoeEhOTVFydUVLMTN6am1ESG5zWnc?oc=5>
+
+### Trump Media向CEX存入2,650枚比特币，价值2.0493亿美元- Futubull
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 富途牛牛
+- 时间: 2026-08-08 19:09
+- 链接: <https://news.google.com/rss/articles/CBMiowFBVV95cUxOZlVhblVnb2VxSHBoTTMwV2xNcDAtOTFoeUVUZXBTTEFndUtpWTdaYlJ3T2x4OWVLZXIyVFBBRHlmYmVtdUZ3WWRJUkZTc1R4RzN3dEJubXFpb1ZEeWh5Uy1TazRQR2c2U0tGVlNabEl2eldqalhJS2pyU1NMTEotamFNa1dYd2ROaHhtTWpVXy1Vc1hKUE1GLVpUTmVrZ185cm5V?oc=5>
+
+### 特朗普纪念币发行“团结一致”纪念银条，致敬标志性敬礼场景
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: PANews
+- 时间: 2026-08-09 00:42
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBHeUpaZm1PX0tFNlVvQVhLNXExdFlHemd1ejVjNV9PT2d1UnFqMkthanRxV28xUUlwM1FvUUp1bEJGVmFFd1g5d3Vyd2JERFVleXlZRkt1WkdlT1ByNDZNTnlncGJ6TFlnZXlwZE5HYWxYN1pERGdwSjJpYy0zakU?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-09 01:12  (3 条)
+
+- **特朗普** | 鲁比奥一句“别回头”，特朗普：这画不错，我要带走-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE44VTF5THJJS0NXSC01ZklneWxZYTdPd25ZdG5sck4xeWpOMUtXZUI0N2Qwd0JUcWhNWksxalVseWdIR3RUN0JpRUh3TTlVQ3R6al9pTkhoeEhOTVFydUVLMTN6am1ESG5zWnc?oc=5>
+- **Trump** | Trump Media向CEX存入2,650枚比特币，价值2.0493亿美元- Futubull <https://news.google.com/rss/articles/CBMiowFBVV95cUxOZlVhblVnb2VxSHBoTTMwV2xNcDAtOTFoeUVUZXBTTEFndUtpWTdaYlJ3T2x4OWVLZXIyVFBBRHlmYmVtdUZ3WWRJUkZTc1R4RzN3dEJubXFpb1ZEeWh5Uy1TazRQR2c2U0tGVlNabEl2eldqalhJS2pyU1NMTEotamFNa1dYd2ROaHhtTWpVXy1Vc1hKUE1GLVpUTmVrZ185cm5V?oc=5>
+- **Trump** | 特朗普纪念币发行“团结一致”纪念银条，致敬标志性敬礼场景 <https://news.google.com/rss/articles/CBMif0FVX3lxTFBHeUpaZm1PX0tFNlVvQVhLNXExdFlHemd1ejVjNV9PT2d1UnFqMkthanRxV28xUUlwM1FvUUp1bEJGVmFFd1g5d3Vyd2JERFVleXlZRkt1WkdlT1ByNDZNTnlncGJ6TFlnZXlwZE5HYWxYN1pERGdwSjJpYy0zakU?oc=5>
 
 ### 2026-08-08 23:53  (2 条)
 
