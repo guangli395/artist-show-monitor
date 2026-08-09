@@ -1,24 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-09 16:27**
-- 本轮扫到 9035 条, 新增 **1** 条
+- 最近更新: **2026-08-09 17:04**
+- 本轮扫到 9037 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮新发现 (2 条)
 
-### 白宫官员证实特朗普与美联储主席定期通话 强调尊重央行独立性
+### 倒计时86天，民主党准备“杀手锏”，要全面摊牌，特朗普留了后手
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-08-09 10:08
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE14b3dhVFdVV2NGdGduQ3VWME53UmJkelM5cUN4TUM3RHNYaXY2Z0hsUnQyUWFOdVVVV2RPYnJJOUJVUk5Nb3hSMkgxWmNCbWRFb19aZGZONWtIWWlMWFJQc1hPcURINVUxandCc0swa3dGNTRiYVIwaQ?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-08-09 16:14
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5hdnNlVk1Id2lqNk95a1I4RmNSdkFoa3g1ZjdxenM4eEx0M08wVmZzTk1WMjZzMkxSZklob1RxdFlEN0hHOFNOZVFYWWQ?oc=5>
+
+### 川普前私人律师接掌司法部！参院50:49惊险过关
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 文学城
+- 时间: 2026-08-09 16:38
+- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxQTDc4SzJNX3pKS25JQUJnQ0hvMU9ZcjMzYWNyeGtUTUM5MHBBamM5aFk1a0pYWFR1NUtnYnhqWHJ1QmtreWtFUWpRZFZFYzFxYXZ5aHZuaGJFQ3VhOE5OcmVDUVE2ZXdZRUxuUDNNLS1Na3dWdFhySFp3cnc2ZTI2Xw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-09 17:04  (2 条)
+
+- **特朗普** | 倒计时86天，民主党准备“杀手锏”，要全面摊牌，特朗普留了后手 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5hdnNlVk1Id2lqNk95a1I4RmNSdkFoa3g1ZjdxenM4eEx0M08wVmZzTk1WMjZzMkxSZklob1RxdFlEN0hHOFNOZVFYWWQ?oc=5>
+- **Trump** | 川普前私人律师接掌司法部！参院50:49惊险过关 <https://news.google.com/rss/articles/CBMigAFBVV95cUxQTDc4SzJNX3pKS25JQUJnQ0hvMU9ZcjMzYWNyeGtUTUM5MHBBamM5aFk1a0pYWFR1NUtnYnhqWHJ1QmtreWtFUWpRZFZFYzFxYXZ5aHZuaGJFQ3VhOE5OcmVDUVE2ZXdZRUxuUDNNLS1Na3dWdFhySFp3cnc2ZTI2Xw?oc=5>
 
 ### 2026-08-09 16:27  (1 条)
 
