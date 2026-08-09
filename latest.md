@@ -1,14 +1,35 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-09 13:43**
-- 本轮扫到 9031 条, 新增 **0** 条
+- 最近更新: **2026-08-09 14:27**
+- 本轮扫到 9033 条, 新增 **2** 条
 
 ---
 
-## 本轮无新增
+## 本轮新发现 (2 条)
 
-数据库里所有演出/动态都已见过,暂无新增。
+### 蔡徐坤TheDeadman演唱会
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimtuec1636972.html>
+
+### 白宫官员：特朗普与美联储主席定期通话，他尊重美联储独立性，不会施压
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-09 14:15
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE4ybnVUVXZMMjdobnk1bUFVd0cta0M4ZC1MSnIxdVU1MEgzNkJUQkpGM040TmcyRm1hODZVSGpQTHRLdFJuN1czRUJJcGtaTXU4NGU4NHB2LXNxbHl3cGt5RzZVVW1sMmFyZGUzVlZjYWQxYnZydGFFXw?oc=5>
+
+
+---
+
 ## 历史发现
+
+### 2026-08-09 14:27  (2 条)
+
+- **蔡徐坤** | 蔡徐坤TheDeadman演唱会 <https://www.sina.cn/news/article/nimtuec1636972.html>
+- **特朗普** | 白宫官员：特朗普与美联储主席定期通话，他尊重美联储独立性，不会施压 <https://news.google.com/rss/articles/CBMieEFVX3lxTE4ybnVUVXZMMjdobnk1bUFVd0cta0M4ZC1MSnIxdVU1MEgzNkJUQkpGM040TmcyRm1hODZVSGpQTHRLdFJuN1czRUJJcGtaTXU4NGU4NHB2LXNxbHl3cGt5RzZVVW1sMmFyZGUzVlZjYWQxYnZydGFFXw?oc=5>
 
 ### 2026-08-09 12:36  (1 条)
 
