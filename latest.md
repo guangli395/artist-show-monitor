@@ -1,32 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-09 19:27**
-- 本轮扫到 9040 条, 新增 **2** 条
+- 最近更新: **2026-08-09 19:56**
+- 本轮扫到 9042 条, 新增 **2** 条
 
 ---
 
 ## 本轮新发现 (2 条)
 
-### 特朗普谈降息：希望利率下调，但这不完全取决于沃什一人
+### 特朗普称正在“低调处理”伊朗问题
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: wallstreetcn.com
-- 时间: 2026-08-07 11:32
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XaVFvUWxya3hhS0h2RWo5VEJfM1o4QjgxV0dBX3RrSG43bTNzOWV0RHZzS3dJY1ZnUGVsQW5Md19wRjFXVUlPN0phWC1vYTdWbmxR?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-08-09 19:27
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1FTFY2T1U0ZmJ4WW9jTHNpUUFLLVRHd1IzQ3pOWFdXN2k4UHh0MG9Qd3RKcUJFZXUtXzBRVGRRSkltWDRLd1ZuTmU5Z3A?oc=5>
 
-### 特朗普重启解雇美联储理事丽莎·库克的行动
+### 前美国安全官员警告：特朗普正按“独裁者剧本”行事，美国安全堪忧
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-07 22:32
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZzdHNmFCbEFVSURSX0lidTFzYzdoQWRQdjBINjVEQm9Ud1BReDJVVlNMQmUxU3FnRHJQbFNEQ3NJV1Y1RlMyLVpwS05la2phclRtRDZXSlpkN3dTbGVCUjNwM244Yk9nYnFad19YUzB6c1FrQUxQb1k3TWtCcGU4NjdGQnVUV3NOdTA0Z0t1YlFSdXg0TGVUSmFjSGluUEZld0R5VDB6Y05EOHlIanBSdTFjN1NQaGdOTkl3V1BITVRtdFRydGdLQUFtd1ZiVEJG?oc=5>
+- 场馆: 金融界
+- 时间: 2026-08-09 19:31
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTFBBVDdKSTViUTMydUhQbjRydm9nd2JoeFVTQWdfT1g5aUNKRHZxUl84bXdwRVJIZnZ1SXdxSzJ2MDZaZng5QjVzeTFZeWRFXzljMmpVRkZlejlVN3lDQlpXaVhRQ25jV1lXdDFsMmdvMA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-09 19:56  (2 条)
+
+- **特朗普** | 特朗普称正在“低调处理”伊朗问题 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1FTFY2T1U0ZmJ4WW9jTHNpUUFLLVRHd1IzQ3pOWFdXN2k4UHh0MG9Qd3RKcUJFZXUtXzBRVGRRSkltWDRLd1ZuTmU5Z3A?oc=5>
+- **特朗普** | 前美国安全官员警告：特朗普正按“独裁者剧本”行事，美国安全堪忧 <https://news.google.com/rss/articles/CBMib0FVX3lxTFBBVDdKSTViUTMydUhQbjRydm9nd2JoeFVTQWdfT1g5aUNKRHZxUl84bXdwRVJIZnZ1SXdxSzJ2MDZaZng5QjVzeTFZeWRFXzljMmpVRkZlejlVN3lDQlpXaVhRQ25jV1lXdDFsMmdvMA?oc=5>
 
 ### 2026-08-09 19:27  (2 条)
 
