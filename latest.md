@@ -1,31 +1,13 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-09 19:56**
-- 本轮扫到 9042 条, 新增 **2** 条
+- 最近更新: **2026-08-09 20:29**
+- 本轮扫到 9042 条, 新增 **0** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮无新增
 
-### 特朗普称正在“低调处理”伊朗问题
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-09 19:27
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1FTFY2T1U0ZmJ4WW9jTHNpUUFLLVRHd1IzQ3pOWFdXN2k4UHh0MG9Qd3RKcUJFZXUtXzBRVGRRSkltWDRLd1ZuTmU5Z3A?oc=5>
-
-### 前美国安全官员警告：特朗普正按“独裁者剧本”行事，美国安全堪忧
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 金融界
-- 时间: 2026-08-09 19:31
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTFBBVDdKSTViUTMydUhQbjRydm9nd2JoeFVTQWdfT1g5aUNKRHZxUl84bXdwRVJIZnZ1SXdxSzJ2MDZaZng5QjVzeTFZeWRFXzljMmpVRkZlejlVN3lDQlpXaVhRQ25jV1lXdDFsMmdvMA?oc=5>
-
-
----
-
+数据库里所有演出/动态都已见过,暂无新增。
 ## 历史发现
 
 ### 2026-08-09 19:56  (2 条)
