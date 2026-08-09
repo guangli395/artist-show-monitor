@@ -1,14 +1,35 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-09 05:42**
-- 本轮扫到 9023 条, 新增 **0** 条
+- 最近更新: **2026-08-09 06:43**
+- 本轮扫到 9025 条, 新增 **2** 条
 
 ---
 
-## 本轮无新增
+## 本轮新发现 (2 条)
 
-数据库里所有演出/动态都已见过,暂无新增。
+### 周杰伦连线刘畊宏，喊话淘汰可当演唱会嘉宾
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimswyr8939774.html>
+
+### 鲁比奥一句“别回头”，特朗普：这画不错，我要带走
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-08-09 03:33
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTFBEUHlMcTlNelFoSXRsV1Bnd285Yi1tZFRVeFVnVUNVRk5najBDS0VqNUlwa1BaMkFmMV81NkRrQkVTckY0bTdBbjNUTUd6UXJPVUhJSGQ2MFJZSkJRUVpsa3huSndMQVZ1aDNkcDR0ZmJrS0Js?oc=5>
+
+
+---
+
 ## 历史发现
+
+### 2026-08-09 06:43  (2 条)
+
+- **周杰伦** | 周杰伦连线刘畊宏，喊话淘汰可当演唱会嘉宾 <https://www.sina.cn/news/article/nimswyr8939774.html>
+- **特朗普** | 鲁比奥一句“别回头”，特朗普：这画不错，我要带走 <https://news.google.com/rss/articles/CBMidEFVX3lxTFBEUHlMcTlNelFoSXRsV1Bnd285Yi1tZFRVeFVnVUNVRk5najBDS0VqNUlwa1BaMkFmMV81NkRrQkVTckY0bTdBbjNUTUd6UXJPVUhJSGQ2MFJZSkJRUVpsa3huSndMQVZ1aDNkcDR0ZmJrS0Js?oc=5>
 
 ### 2026-08-09 04:44  (3 条)
 
