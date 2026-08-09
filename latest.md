@@ -1,40 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-09 01:12**
-- 本轮扫到 9019 条, 新增 **3** 条
+- 最近更新: **2026-08-09 03:13**
+- 本轮扫到 9020 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (1 条)
 
-### 鲁比奥一句“别回头”，特朗普：这画不错，我要带走-观察者网
+### 特朗普准备30亿美元用于美国战略矿产项目
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: guancha.cn
-- 时间: 2026-08-08 23:51
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE44VTF5THJJS0NXSC01ZklneWxZYTdPd25ZdG5sck4xeWpOMUtXZUI0N2Qwd0JUcWhNWksxalVseWdIR3RUN0JpRUh3TTlVQ3R6al9pTkhoeEhOTVFydUVLMTN6am1ESG5zWnc?oc=5>
-
-### Trump Media向CEX存入2,650枚比特币，价值2.0493亿美元- Futubull
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 富途牛牛
-- 时间: 2026-08-08 19:09
-- 链接: <https://news.google.com/rss/articles/CBMiowFBVV95cUxOZlVhblVnb2VxSHBoTTMwV2xNcDAtOTFoeUVUZXBTTEFndUtpWTdaYlJ3T2x4OWVLZXIyVFBBRHlmYmVtdUZ3WWRJUkZTc1R4RzN3dEJubXFpb1ZEeWh5Uy1TazRQR2c2U0tGVlNabEl2eldqalhJS2pyU1NMTEotamFNa1dYd2ROaHhtTWpVXy1Vc1hKUE1GLVpUTmVrZ185cm5V?oc=5>
-
-### 特朗普纪念币发行“团结一致”纪念银条，致敬标志性敬礼场景
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: PANews
-- 时间: 2026-08-09 00:42
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBHeUpaZm1PX0tFNlVvQVhLNXExdFlHemd1ejVjNV9PT2d1UnFqMkthanRxV28xUUlwM1FvUUp1bEJGVmFFd1g5d3Vyd2JERFVleXlZRkt1WkdlT1ByNDZNTnlncGJ6TFlnZXlwZE5HYWxYN1pERGdwSjJpYy0zakU?oc=5>
+- 场馆: idnfinancials.com
+- 时间: 2026-08-08 23:00
+- 链接: <https://news.google.com/rss/articles/CBMisgJBVV95cUxOQTlHd0FQMnlFREhTVzJMUEw0N3hmS0d4ejIxcHJJTy1NQUVhZUFmdWcyVHNIQ3o2bXhPLThlc1B4Z0hUUGJ4R3pSNk1Na2oydzRZN0gwcm10NFZyNTIyU1NLMGo0OVhOVGtlRTJFNHd2aEdzTGJkZFZ6d0ZPSGhNYVM0N1hwUTdqOVhKbFViQ1llNVJZQ1NxX1FjbncyYlUySl9aU3pKNDZQSmNtTUdNR1BEUTVSNGdvb0RUY1J0czNFTVRERjE1Z3JwaTdjUDRsRHlJeHdqaWl6UV9nWU8wMWJ5Ui1qS2Zoc212VUx4aC1mZWtpV003cExuUDFFcFRlWVM0aHd2NkVQSjI3b0h6SU1wWWxyVWFKZTA0M2swNGtWQk5vcFBKYjlvZ3FNTlFEQnc?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-09 03:13  (1 条)
+
+- **特朗普** | 特朗普准备30亿美元用于美国战略矿产项目 <https://news.google.com/rss/articles/CBMisgJBVV95cUxOQTlHd0FQMnlFREhTVzJMUEw0N3hmS0d4ejIxcHJJTy1NQUVhZUFmdWcyVHNIQ3o2bXhPLThlc1B4Z0hUUGJ4R3pSNk1Na2oydzRZN0gwcm10NFZyNTIyU1NLMGo0OVhOVGtlRTJFNHd2aEdzTGJkZFZ6d0ZPSGhNYVM0N1hwUTdqOVhKbFViQ1llNVJZQ1NxX1FjbncyYlUySl9aU3pKNDZQSmNtTUdNR1BEUTVSNGdvb0RUY1J0czNFTVRERjE1Z3JwaTdjUDRsRHlJeHdqaWl6UV9nWU8wMWJ5Ui1qS2Zoc212VUx4aC1mZWtpV003cExuUDFFcFRlWVM0aHd2NkVQSjI3b0h6SU1wWWxyVWFKZTA0M2swNGtWQk5vcFBKYjlvZ3FNTlFEQnc?oc=5>
 
 ### 2026-08-09 01:12  (3 条)
 
