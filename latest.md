@@ -1,14 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-09 17:56**
-- 本轮扫到 9037 条, 新增 **0** 条
+- 最近更新: **2026-08-09 18:36**
+- 本轮扫到 9038 条, 新增 **1** 条
 
 ---
 
-## 本轮无新增
+## 本轮新发现 (1 条)
 
-数据库里所有演出/动态都已见过,暂无新增。
+### 川普前私人律师接掌司法部！参院50:49惊险过关
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 文学城
+- 时间: 2026-08-09 16:38
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1IQkZpYnNYQmlyeWlhb180ZUp5THJIa0ZuNzlxZzFQcFJHWERFWUVNRzBKSU85QmJPdU51YUxzQmt3ZUNWUy1kNVlTM0QyQlU3R2JBVXVlWHIzQWgtSl9ReGNLZlhTTHpN?oc=5>
+
+
+---
+
 ## 历史发现
+
+### 2026-08-09 18:36  (1 条)
+
+- **Trump** | 川普前私人律师接掌司法部！参院50:49惊险过关 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1IQkZpYnNYQmlyeWlhb180ZUp5THJIa0ZuNzlxZzFQcFJHWERFWUVNRzBKSU85QmJPdU51YUxzQmt3ZUNWUy1kNVlTM0QyQlU3R2JBVXVlWHIzQWgtSl9ReGNLZlhTTHpN?oc=5>
 
 ### 2026-08-09 17:04  (2 条)
 
