@@ -1,56 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-10 05:04**
-- 本轮扫到 9081 条, 新增 **6** 条
+- 最近更新: **2026-08-10 06:49**
+- 本轮扫到 9083 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (2 条)
 
-### 蔡徐坤澳门演唱会全开麦演唱22首原创曲目实力如何？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimuzxr2926728.html>
-
-### 蔡徐坤在澳门演唱会中如何设计三次死亡与重生？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimuzxr2926714.html>
-
-### 蔡徐坤澳门演唱会无限流舞台讲述了一个什么故事？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimuzxr2926666.html>
-
-### 蔡徐坤澳门演唱会竟设无限流闯关，三次生死涅槃震撼全场
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimuzxr2926431.html>
-
-### 美媒焦虑：特朗普这招伤不了中国，买单的将是盟友和自己
+### 美国将向关键矿产领域投资30亿美元，以增强国防供应链，降低对中国依赖
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-10 02:35
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1RVF8yeWpKb2VmdFNhVXlIZGJGbFlTT25pMkgyU3FYMTNJMFJUcUhOT1BwdWtpR05wYkVEdDlTc183djA2S3dJT2xLRV8?oc=5>
+- 场馆: RFI
+- 时间: 2026-08-08 06:37
+- 链接: <https://news.google.com/rss/articles/CBMi4gNBVV95cUxQLUY5M0I3STEyd3k0SVQ4UHlBd01fcU9UcHN0NUVkc01rQ0hJNFd3TUVaTGYwRXFZTDI4TUJ3M0EyZ1VuZWNoWGRmY0ZiT0J5RTZlUFhPMXVDNVJlV3VCVkxaS1ZSWE5PRzJicHFkbDZ2eExDdXBZVGRoYlVYbXdaUEg0bG1LUGlnRFRYR3d6N3B4TXBGWGNadkRvc1VpZ0l3dzFsc3BMNUVKOUc4RjhhbmNwSFdvOWVXYjJtT1RZV1FoODd4SmtONW9OUVlhazQ4UEJFcjJKNG9uclFvLWtPekEwZURGS1gwdjB1bHdnV0h3U251a0lJUF9hclJmVXJXVXowa2RYZk9rVmQyYi10b3dTSDZSRjJSVVNHMjJDSDFzZTRqVmhIZGZwbGxBcWtIWVlzY1BlemE2UDctNThVc2xZdmNneTVwOWtGM3RkVmo0aHhfallFOEdFMVctVGxJRkVJSG90Z3VZdGcyeUNRQXZEV2xZeDlhUUEzU1AxSm9adkNBLUJEVTRLcTc1SXotRUpjUFBIUmEtT29pNTFpaHlfdGkwc3BRTDFPRFRCZTJXM19zdkZHTzJFNkhSV245Z1JCQjAwVFo2bkd3MTJUb1dMNGZKamhIMlZYV0M5cThiQQ?oc=5>
 
-### 特朗普称正在“低调处理”伊朗问题
+### 不理最高法院裁决 特朗普再威胁开除美联储理事
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 央广网
-- 时间: 2026-08-09 22:36
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CeXNZdHd4NV9pUkFqUU5uOXNXT0tyYzBFbkt6YkpCR3hFSTl0M0I4X081S0JDbW5vdnBqcFo3aG5TdFV3Yk1YZ3ZkSFRNSG51X3JYZHVnRUxNdHFtSGw4UFkwd3FVQWVX?oc=5>
+- 场馆: 联合早报
+- 时间: 2026-08-08 09:50
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9vNzVCcGhVcDZxX3hxMFU3R3pxNDVVY09QSVY5Sy1Ya0ZfMnlXenh6OHd1eHUtQzBlamZpUzNGSE44d0JIWE1PYzEtY1FMUkpNTDB4RzZydUVab1kzYk9XZGFmbDBLZw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-10 06:49  (2 条)
+
+- **特朗普** | 美国将向关键矿产领域投资30亿美元，以增强国防供应链，降低对中国依赖 <https://news.google.com/rss/articles/CBMi4gNBVV95cUxQLUY5M0I3STEyd3k0SVQ4UHlBd01fcU9UcHN0NUVkc01rQ0hJNFd3TUVaTGYwRXFZTDI4TUJ3M0EyZ1VuZWNoWGRmY0ZiT0J5RTZlUFhPMXVDNVJlV3VCVkxaS1ZSWE5PRzJicHFkbDZ2eExDdXBZVGRoYlVYbXdaUEg0bG1LUGlnRFRYR3d6N3B4TXBGWGNadkRvc1VpZ0l3dzFsc3BMNUVKOUc4RjhhbmNwSFdvOWVXYjJtT1RZV1FoODd4SmtONW9OUVlhazQ4UEJFcjJKNG9uclFvLWtPekEwZURGS1gwdjB1bHdnV0h3U251a0lJUF9hclJmVXJXVXowa2RYZk9rVmQyYi10b3dTSDZSRjJSVVNHMjJDSDFzZTRqVmhIZGZwbGxBcWtIWVlzY1BlemE2UDctNThVc2xZdmNneTVwOWtGM3RkVmo0aHhfallFOEdFMVctVGxJRkVJSG90Z3VZdGcyeUNRQXZEV2xZeDlhUUEzU1AxSm9adkNBLUJEVTRLcTc1SXotRUpjUFBIUmEtT29pNTFpaHlfdGkwc3BRTDFPRFRCZTJXM19zdkZHTzJFNkhSV245Z1JCQjAwVFo2bkd3MTJUb1dMNGZKamhIMlZYV0M5cThiQQ?oc=5>
+- **特朗普** | 不理最高法院裁决 特朗普再威胁开除美联储理事 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9vNzVCcGhVcDZxX3hxMFU3R3pxNDVVY09QSVY5Sy1Ya0ZfMnlXenh6OHd1eHUtQzBlamZpUzNGSE44d0JIWE1PYzEtY1FMUkpNTDB4RzZydUVab1kzYk9XZGFmbDBLZw?oc=5>
 
 ### 2026-08-10 05:04  (6 条)
 
