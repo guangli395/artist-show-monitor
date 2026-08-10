@@ -1,92 +1,65 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-10 03:23**
-- 本轮扫到 9075 条, 新增 **10** 条
+- 最近更新: **2026-08-10 05:04**
+- 本轮扫到 9081 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (10 条)
+## 本轮新发现 (6 条)
 
-### 蔡徐坤演唱会高清官摄释出，四面台环绕视角新体验
+### 蔡徐坤澳门演唱会全开麦演唱22首原创曲目实力如何？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimuvrr1368962.html>
+- 链接: <https://www.sina.cn/news/article/nimuzxr2926728.html>
 
-### 周杰伦放话刘畊宏：淘汰就来我演唱会当嘉宾
+### 蔡徐坤在澳门演唱会中如何设计三次死亡与重生？
 
-- 艺人/关键词: **周杰伦**
+- 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimuvrt2959115.html>
+- 链接: <https://www.sina.cn/news/article/nimuzxr2926714.html>
 
-### 特朗普任命新法律顾问，曾力推白宫宴会厅计划-观察者网
+### 蔡徐坤澳门演唱会无限流舞台讲述了一个什么故事？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-08-10 01:48
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1sdHJ6WFNYczZ5bUV0bnJXS3dTXzNFQXZ6eXVWMFhCTEh2c3pqTlRiNU5GbXZMdlpXb2VzTzY2RUE0WXQwZWo5V1ZVaTZpdGtUR0RaeGtCbTBJNVlpVDJRTlNvM1hKV012ZHc?oc=5>
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimuzxr2926666.html>
 
-### 特朗普持有多少加密货币，他是如何避税的？
+### 蔡徐坤澳门演唱会竟设无限流闯关，三次生死涅槃震撼全场
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-10 03:21
-- 链接: <https://news.google.com/rss/articles/CBMipwFBVV95cUxNMWh0dnZYeXlaSnF5TzFvX0lvZXJaRzRkanZZYTQ4QmFaUkhGQkxvY05yTEZsMGxmQW0tS0N6eE1aUDNBVXNjUkRGUEhzZU5sTVJtUlJ4R24tR0dJYmFSSDR6VTBfREdfTGtVMDU4enRfRzRHbnN2UkRCZDY1ZjBzbmx0RVJoUW9kV3pIdy14R3EtZ1ZzTjRrMnpqOXJadUVhXy1oZmtYTQ?oc=5>
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimuzxr2926431.html>
 
-### 两架飞机违规靠近特朗普高尔夫俱乐部，F-16出动拦截
+### 美媒焦虑：特朗普这招伤不了中国，买单的将是盟友和自己
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-08-09 23:13
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5DOFhINWdWMTZEbEUyUkkyLTF4X0g5MzBLTTRjbkpYRV9oZHhnZWZDVnlNZVFGZlRQUVU0WE9zbExGZDNNalFqUnBGc0c?oc=5>
+- 时间: 2026-08-10 02:35
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1RVF8yeWpKb2VmdFNhVXlIZGJGbFlTT25pMkgyU3FYMTNJMFJUcUhOT1BwdWtpR05wYkVEdDlTc183djA2S3dJT2xLRV8?oc=5>
 
-### 特朗普活动现场附近 北美防空司令部出动F-16拦截两架飞机
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中国网新闻中心
-- 时间: 2026-08-10 01:21
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE92d3FRTjZBakVlanB0Wm00Slk0bXdRSzY5VzdHOG54dURlZGc3eGRyMkxRUTVGTHlpc0lsQ05kSjFFSngyblhrNDlqUWkxcEg1MWRWQWh4WjNibnFCQXhtN0JCQ05HSUVFUXl3?oc=5>
-
-### 特朗普这是此地无银三百两吗？
+### 特朗普称正在“低调处理”伊朗问题
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-09 23:46
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1idHdwaEN2T3pkaWtlSXBwY2dET2dTX0dVUndsZDNoREo3enAxSVNlNEQ3OFhYLUpqbUFOOWQ3dFZEdDBfbkdzYThIR20?oc=5>
-
-### 特朗普斥责：裁决“骇人听闻”；白宫改造项目再受阻
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-08-10 01:46
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9vakprWkNIV0dVeHJhZUZRanhId2x4MkRZZjJSUFEyVDE1TDliSER2dHRqNlo2OXRZeVQxMHR5ZVhFOFFvUEpscF9uMjhfaGRUOExHU1g0VjBiWHdOMTBPQ21uMnN6bmE1TGc4Ti04WjY?oc=5>
-
-### 特朗普认为开放霍尔木兹海峡指日可待，伊朗则另有盘算
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-08-10 02:05
-- 链接: <https://news.google.com/rss/articles/CBMijgFBVV95cUxPU2RfNVh2dnNiTFo2QXZZdnJEeVktQ1RZdV8zcy14aXNiaVhTbWY3eTBfVGFPMkRKajVrU0NfWTFtNTRKZHlWNW9DVk9GaXlyM2dyenJ2VE12dEIzMWV0VmhEX0dTUUFTLW1Oa2l3N2luNDJlV1pUbkZCZVByOEktZEd4S2pUb3NqbTA3RzlR?oc=5>
-
-### “蕴藏1万亿美元原油”……格陵兰警告涌向北极的Trump关系密切企业- 阿视亚经济
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 아시아경제
-- 时间: 2026-08-10 00:46
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBmY1ZmTjNUcnlic0hobERWc3gwX1lPMHRScUpjUGpRa1JhUWNLcXdjYkZVdnBZTDltekt5TldIeFJib3RmZ0ZkZjhrY1pFN0MzdFFHQVk5Q3duWkJuRHIwRkxyZHM?oc=5>
+- 场馆: 央广网
+- 时间: 2026-08-09 22:36
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CeXNZdHd4NV9pUkFqUU5uOXNXT0tyYzBFbkt6YkpCR3hFSTl0M0I4X081S0JDbW5vdnBqcFo3aG5TdFV3Yk1YZ3ZkSFRNSG51X3JYZHVnRUxNdHFtSGw4UFkwd3FVQWVX?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-10 05:04  (6 条)
+
+- **蔡徐坤** | 蔡徐坤澳门演唱会全开麦演唱22首原创曲目实力如何？ <https://www.sina.cn/news/article/nimuzxr2926728.html>
+- **蔡徐坤** | 蔡徐坤在澳门演唱会中如何设计三次死亡与重生？ <https://www.sina.cn/news/article/nimuzxr2926714.html>
+- **蔡徐坤** | 蔡徐坤澳门演唱会无限流舞台讲述了一个什么故事？ <https://www.sina.cn/news/article/nimuzxr2926666.html>
+- **蔡徐坤** | 蔡徐坤澳门演唱会竟设无限流闯关，三次生死涅槃震撼全场 <https://www.sina.cn/news/article/nimuzxr2926431.html>
+- **特朗普** | 美媒焦虑：特朗普这招伤不了中国，买单的将是盟友和自己 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1RVF8yeWpKb2VmdFNhVXlIZGJGbFlTT25pMkgyU3FYMTNJMFJUcUhOT1BwdWtpR05wYkVEdDlTc183djA2S3dJT2xLRV8?oc=5>
+- **特朗普** | 特朗普称正在“低调处理”伊朗问题 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CeXNZdHd4NV9pUkFqUU5uOXNXT0tyYzBFbkt6YkpCR3hFSTl0M0I4X081S0JDbW5vdnBqcFo3aG5TdFV3Yk1YZ3ZkSFRNSG51X3JYZHVnRUxNdHFtSGw4UFkwd3FVQWVX?oc=5>
 
 ### 2026-08-10 03:23  (10 条)
 
