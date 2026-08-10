@@ -1,46 +1,35 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-10 08:22**
-- 本轮扫到 9087 条, 新增 **4** 条
+- 最近更新: **2026-08-10 09:55**
+- 本轮扫到 9089 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (2 条)
 
-### 蔡徐坤演唱会也会戒断，呜呜呜毕竟这么幸福的时刻！真的很难戒断
+### 周杰伦喊话刘畊宏：淘汰就来我演唱会当嘉宾
 
-- 艺人/关键词: **蔡徐坤**
+- 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimvhfp8198998.html>
+- 链接: <https://www.sina.cn/news/article/nimvnpi1254447.html>
 
-### 特朗普称正在“低调处理”伊朗问题
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: china.zjol.com.cn
-- 时间: 2026-08-10 06:45
-- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTE1IZ0phMU1iU2JzTUdSMFpDV0hvMDhSS3c5MU5MN1pwUUl4bUEzbEZ0aFQtYklZWjhrMjdzNnpMNzVScEs4UGxqeGgyRDhWd0lvYlJSV3M5cUpBbFowVkNPTm85dEE5OWNreGVrOUNB?oc=5>
-
-### 国际油价上涨，比特币站上65000美元，特朗普称正“低调处理”伊朗问题
+### 特朗普任命威尔・沙夫出任白宫法律顾问
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-08-10 02:15
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxPV2ViY1JxZEVtQmNoaTFTTHdWVVktdE1ESF90dFlQQnluZnoxbEYzVFF6a2FCcUtvaEpObEI4aWVWcmswaktpbEV0ZHdsSy1tOVA4N1h6T3Y0TWpoVFMzSFZ5UDB0S3A3MnFSUG50MEE5WWxfdU9pblk3dmJMV2d3TnNLcm42QTdxRXZ6WDJTR3BUR1c2XzVORQ?oc=5>
-
-### 特朗普重启解雇美联储理事丽莎·库克的行动
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-07 22:32
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcThfVVJ6VVV1SHZ5eGNrZENoOU80Wm95MzF5REo5dzJUY0Rna0hPVThyR1hQYkxrQXp3dVpSSDNOODV3NkpWb0dWNjZaOTlNcUxYUkFLRHo2Rk1kMXN6dmdhTURxb3VyUHlZdzMwWm95cmNZVmRXRHgtWWt4NnNtcFlFRUhLTU1GLWE4RFEtSFltNDNIM1c4VElUd1hkQk1BdDlUQVd4RTYxTVFxN2NlNmJqVXp1WE5GeGlYRDJLNmZmRnlWcnBkczM0OWhmcXo3?oc=5>
+- 时间: 2026-08-10 09:22
+- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYU43akEtcEtncnBpYTF1ZkZiZ3k3bmlKQVUzYUtXWWt3V3haOTZMZzNJSGRLZnk3NEJyMUFyTmJSaWZyejhPTUc1R2gzRVJ2NFAtQWlBYlJFV1U1eGpLNDEzaVNKb3JQX1ZrN0Q3bFc1Vks1S0pMRlBQRXNRVGpUaVlVemZfTTl0RFRXMlpZV2tzdXVINmYtY0ZSMzF4czFOcFREajhJelZIdw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-10 09:55  (2 条)
+
+- **周杰伦** | 周杰伦喊话刘畊宏：淘汰就来我演唱会当嘉宾 <https://www.sina.cn/news/article/nimvnpi1254447.html>
+- **特朗普** | 特朗普任命威尔・沙夫出任白宫法律顾问 <https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYU43akEtcEtncnBpYTF1ZkZiZ3k3bmlKQVUzYUtXWWt3V3haOTZMZzNJSGRLZnk3NEJyMUFyTmJSaWZyejhPTUc1R2gzRVJ2NFAtQWlBYlJFV1U1eGpLNDEzaVNKb3JQX1ZrN0Q3bFc1Vks1S0pMRlBQRXNRVGpUaVlVemZfTTl0RFRXMlpZV2tzdXVINmYtY0ZSMzF4czFOcFREajhJelZIdw?oc=5>
 
 ### 2026-08-10 08:22  (4 条)
 
