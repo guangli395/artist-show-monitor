@@ -1,32 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-10 11:02**
-- 本轮扫到 9091 条, 新增 **2** 条
+- 最近更新: **2026-08-10 12:06**
+- 本轮扫到 9094 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (3 条)
 
-### 特朗普支持率低迷 共和党失去经济安全领域优势
+### 乌克兰想自产“爱国者”，特朗普表态前后不一
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-08-10 09:23
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9YZldwVC1xM2RUUjB0UWdld3h4QmFBd25IN0pyeHNoaTFWc0w0TmlnMGFmelBrY2ZiY2ZkMUVyNC1uOGFTYkx5REdwWUxwN2JmanpIZm4wZnFoOUloazFsZzFOM3lYRllScnc?oc=5>
+- 场馆: news.cn
+- 时间: 2026-08-10 11:49
+- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE12eTR6Ry1pQnEwRkxjcjRVWDYyT0FVM3J6aXF5RV9sSkgxa0hWV21BaFFUR3daZ1NPeTlGLUV2ZWQ2VVlaREJISzN4SXQwcF9HT2ZSVDhLRFhjclo3OC01aFdjdXZkbmlsSVJaODF3ZXhvN1p4Y21QY21WblVodw?oc=5>
 
-### 伊凡卡泡汤辣晒比基尼!结婚17年"公主抱激吻"放闪
+### 海湾开发商重金冠名 特朗普海外品牌授权业务营收飙升至5950万美元
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 文学城
-- 时间: 2026-08-10 10:52
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVQmhuWWV2cFdyRGRTWlQwVnMtOEtSenBoUW1HaDNOSVpoXy1zMi1lYktvNjA3bWZyUGwzejR2eVlxWU9IOVYtdE5JeDRoNk0wa2F3Qm1DdTZpTDNsQ2hhRWYtTlhnRmQ0?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-10 11:14
+- 链接: <https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRWNTREVudFFaTXo0RmhFems1VGkyWDN4c1hqNURES0ttbHhaSWNIRVU2LWJDYm1wX2tsVjE0RkxPLWVnZnlWWFotZkYxTkM5cnN3UDdyMWxWRFpmV3BFWVhWTjE1UkpkcFkxUUFzMUxFcXZJZlRFRklSVml5LUdiemxwUmJkWHlTbnNybUItWm4zTV9vNmNLN3hhQW1JT25VLTZNZnNJRHRJa1NJRWtnYm5yVlh1eDhoLXJSMXBSb0c?oc=5>
+
+### 内塔尼亚胡拒绝特朗普加沙计划，白宫回应：“理解比比的政治需要”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 搜狐网
+- 时间: 2026-08-10 11:54
+- 链接: <https://news.google.com/rss/articles/CBMinwFBVV95cUxPM3JWWUdLeXhDMHRSbld6Wi1qS0tyZzNJSExRX1ZTb1ZOd1ByeDN4RmNxSDNVX0lhMk14c3VZYnVRb0IwU3l6b2g5STV1azdtRXQtMnpDQkxZX2lUZXgwY1VmTFpvU2JCQ2kwdjFSTldNMklvOG9XbGhYSkdUTzdCXzBBVWEtaXBhbjZwclZBQjJFbUN1Q3lOckg1VWQ0eHM?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-10 12:06  (3 条)
+
+- **特朗普** | 乌克兰想自产“爱国者”，特朗普表态前后不一 <https://news.google.com/rss/articles/CBMifkFVX3lxTE12eTR6Ry1pQnEwRkxjcjRVWDYyT0FVM3J6aXF5RV9sSkgxa0hWV21BaFFUR3daZ1NPeTlGLUV2ZWQ2VVlaREJISzN4SXQwcF9HT2ZSVDhLRFhjclo3OC01aFdjdXZkbmlsSVJaODF3ZXhvN1p4Y21QY21WblVodw?oc=5>
+- **特朗普** | 海湾开发商重金冠名 特朗普海外品牌授权业务营收飙升至5950万美元 <https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRWNTREVudFFaTXo0RmhFems1VGkyWDN4c1hqNURES0ttbHhaSWNIRVU2LWJDYm1wX2tsVjE0RkxPLWVnZnlWWFotZkYxTkM5cnN3UDdyMWxWRFpmV3BFWVhWTjE1UkpkcFkxUUFzMUxFcXZJZlRFRklSVml5LUdiemxwUmJkWHlTbnNybUItWm4zTV9vNmNLN3hhQW1JT25VLTZNZnNJRHRJa1NJRWtnYm5yVlh1eDhoLXJSMXBSb0c?oc=5>
+- **特朗普** | 内塔尼亚胡拒绝特朗普加沙计划，白宫回应：“理解比比的政治需要” <https://news.google.com/rss/articles/CBMinwFBVV95cUxPM3JWWUdLeXhDMHRSbld6Wi1qS0tyZzNJSExRX1ZTb1ZOd1ByeDN4RmNxSDNVX0lhMk14c3VZYnVRb0IwU3l6b2g5STV1azdtRXQtMnpDQkxZX2lUZXgwY1VmTFpvU2JCQ2kwdjFSTldNMklvOG9XbGhYSkdUTzdCXzBBVWEtaXBhbjZwclZBQjJFbUN1Q3lOckg1VWQ0eHM?oc=5>
 
 ### 2026-08-10 11:02  (2 条)
 
