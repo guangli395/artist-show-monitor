@@ -1,64 +1,105 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-10 01:14**
-- 本轮扫到 9065 条, 新增 **6** 条
+- 最近更新: **2026-08-10 03:23**
+- 本轮扫到 9075 条, 新增 **10** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (10 条)
 
-### 要闻解说 - 不服最高法裁决，特朗普再签新令限制出生公民权，尤其严打赴美生子
+### 蔡徐坤演唱会高清官摄释出，四面台环绕视角新体验
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimuvrr1368962.html>
+
+### 周杰伦放话刘畊宏：淘汰就来我演唱会当嘉宾
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimuvrt2959115.html>
+
+### 特朗普任命新法律顾问，曾力推白宫宴会厅计划-观察者网
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-08-09 12:14
-- 链接: <https://news.google.com/rss/articles/CBMinARBVV95cUxNZ3dkVE9PUXVBcVdmVXg4MnFBeTltLS00TmVUeUNTUUxvR3pmSzlvbXF4d1JIZGR6cjZUSkJCdTQ4RnNNT0dOYVREaFZlbEhiVjBKZEZPZS1XLVVWbG1jTll2TnNqdm1zOE5lQnQ1TDBoRDVOblk4MGhhNXc1TmxCQmY2b1FtRkNOUDZoVUM5dU5BVU16dXBUSTRCR3lxbWRPUmZKRGdvNTRrOWZPNnNZUEc3bVhfcHRIZjFqd0tpYWNBcHNvdDZGRTVhR1Q5QkRuUjdOMkdhbUd3SGMwYXRtaGl6TzBjMHBET1IwYjhKQWhfRU5YU21QMlJPeW90bWc2V3hQUXJ2eThZcHd1MjNXQjF5cWRwSmZsV0hiallOMk5DZ0tEakpxZFpVLVhvX0M5U1YtUE9jMDNrZURHa3NzNXp0cEYxbUJmdXg2TVg1MVBoYkZtbFZXRExFNVBnQXd1REIwaTlfNkZkcV82Vzdlc19xZUxHLVJIUEFhcFQ3SWVtVHVxZmdCUGZjUHNMcEdRWTBUV3J2VUJZNzkzQjZ5bHQwQnJ4RDJ0dG1ka2F5d3hJWmVIMUQ0NU9QdVUxUDlOS1FfWk5CU1pDRDNJd2ctNXlBVnAtY2dvYkxNQ09qYV94M09ubDVHdFBrakNTckkyMWxnemowa1p2NjVmNktqZ0tpQV84VzdCWDh3SW1HdjBVY1otYkhDM2ZzNnc?oc=5>
+- 场馆: 观察者
+- 时间: 2026-08-10 01:48
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1sdHJ6WFNYczZ5bUV0bnJXS3dTXzNFQXZ6eXVWMFhCTEh2c3pqTlRiNU5GbXZMdlpXb2VzTzY2RUE0WXQwZWo5V1ZVaTZpdGtUR0RaeGtCbTBJNVlpVDJRTlNvM1hKV012ZHc?oc=5>
 
-### 北美防空司令部出动F-16拦截特朗普高尔夫俱乐部附近两架飞机
+### 特朗普持有多少加密货币，他是如何避税的？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-10 03:21
+- 链接: <https://news.google.com/rss/articles/CBMipwFBVV95cUxNMWh0dnZYeXlaSnF5TzFvX0lvZXJaRzRkanZZYTQ4QmFaUkhGQkxvY05yTEZsMGxmQW0tS0N6eE1aUDNBVXNjUkRGUEhzZU5sTVJtUlJ4R24tR0dJYmFSSDR6VTBfREdfTGtVMDU4enRfRzRHbnN2UkRCZDY1ZjBzbmx0RVJoUW9kV3pIdy14R3EtZ1ZzTjRrMnpqOXJadUVhXy1oZmtYTQ?oc=5>
+
+### 两架飞机违规靠近特朗普高尔夫俱乐部，F-16出动拦截
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-08-09 23:13
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5DOFhINWdWMTZEbEUyUkkyLTF4X0g5MzBLTTRjbkpYRV9oZHhnZWZDVnlNZVFGZlRQUVU0WE9zbExGZDNNalFqUnBGc0c?oc=5>
+
+### 特朗普活动现场附近 北美防空司令部出动F-16拦截两架飞机
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 中国网新闻中心
-- 时间: 2026-08-09 23:30
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE1DWkp6SkFXUmEzcGtnejBVdDB0LWZzSHp5VC03dnhBdWtrNWF3YzlZMDQ4Y1dMWUZ5WWN3enJjV3hLYzA1blQ4bzIxNWpHWEtmR3VpOG4zelJDZExsUkViU1JpLWtQQ0hiSlJR?oc=5>
+- 时间: 2026-08-10 01:21
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE92d3FRTjZBakVlanB0Wm00Slk0bXdRSzY5VzdHOG54dURlZGc3eGRyMkxRUTVGTHlpc0lsQ05kSjFFSngyblhrNDlqUWkxcEg1MWRWQWh4WjNibnFCQXhtN0JCQ05HSUVFUXl3?oc=5>
 
-### 内塔尼亚胡：以色列拒绝特朗普的方案
+### 特朗普这是此地无银三百两吗？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: video.sina.com.cn
+- 场馆: 凤凰网
 - 时间: 2026-08-09 23:46
-- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxPMjRkVVBWMWpqSndSR3NNUWdMWGh0Z3RxeDgxNDRZNks2VVlSdk5GT3VWX1RxTFFtcDZoLUhmY0VFbG1EREFLM0tBM2lFTUVLUWxwR2VDdEJUMUNQSkVPRWxFWEp0OVhDZnd3SmdDMkJ5bU51azVLZ3VNTk9xT3lNQUtn?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1idHdwaEN2T3pkaWtlSXBwY2dET2dTX0dVUndsZDNoREo3enAxSVNlNEQ3OFhYLUpqbUFOOWQ3dFZEdDBfbkdzYThIR20?oc=5>
 
-### 以色列拒绝接受特朗普加沙和平计划下一阶段方案
+### 特朗普斥责：裁决“骇人听闻”；白宫改造项目再受阻
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-08-10 01:46
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9vakprWkNIV0dVeHJhZUZRanhId2x4MkRZZjJSUFEyVDE1TDliSER2dHRqNlo2OXRZeVQxMHR5ZVhFOFFvUEpscF9uMjhfaGRUOExHU1g0VjBiWHdOMTBPQ21uMnN6bmE1TGc4Ti04WjY?oc=5>
+
+### 特朗普认为开放霍尔木兹海峡指日可待，伊朗则另有盘算
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: 华尔街日报中文网
-- 时间: 2026-08-09 23:32
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxOOHUtaTNzYm9tOGx0ZFZnR0Vfdk5zb3FkZnVheFBRbFhwNFVWbTlxdzNLS2VqU1BMUTdHUVFKbjBWRDJFY0pfcDBHeXdsSDEzVnkyLVhwOE40Z2FPT1NBX0R3bmZyU1A3c1lHTHEyUGdFdk45dmlxLVNCaWtxNmlXVGUzcW9FUzhoTkpydQ?oc=5>
+- 时间: 2026-08-10 02:05
+- 链接: <https://news.google.com/rss/articles/CBMijgFBVV95cUxPU2RfNVh2dnNiTFo2QXZZdnJEeVktQ1RZdV8zcy14aXNiaVhTbWY3eTBfVGFPMkRKajVrU0NfWTFtNTRKZHlWNW9DVk9GaXlyM2dyenJ2VE12dEIzMWV0VmhEX0dTUUFTLW1Oa2l3N2luNDJlV1pUbkZCZVByOEktZEd4S2pUb3NqbTA3RzlR?oc=5>
 
-### Trump回应伊朗追加要求：“低调应对”……以经济施压代替攻击- 阿视亚经济
+### “蕴藏1万亿美元原油”……格陵兰警告涌向北极的Trump关系密切企业- 阿视亚经济
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: 아시아경제
-- 时间: 2026-08-09 18:51
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pSWVwcGlmNjd4MUJjSzduZUNOa1gwb2UxQ19OODhiV014M1pTQ3ZSSEpXal82aVVwRlVKdldhOVVyTlhqekxkaW1CNF9ETFRReHo2ZGlQMnZ1aVp6M3dGam04eUc?oc=5>
-
-### 特朗普突发重磅表态：“我们正在低调处理”伊朗问题！释放对伊重要信号
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-08-10 00:50
-- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMDluU1RaSW5rLWhubzJ6YUc5YlQySHhQQ1BwWTRNQi1obzFRSXIwSG8yMF9MZXlvMDltdUU5TTVrUlY0TlFFTEhyN0pFM2M1enJaVndCdm1VSndfWVlKMXN4S1R6dEhLaFBmaGJqTnRYWlJPZ0F6LXVzQ2NyUkxXZVpSTHlSTjBL?oc=5>
+- 时间: 2026-08-10 00:46
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBmY1ZmTjNUcnlic0hobERWc3gwX1lPMHRScUpjUGpRa1JhUWNLcXdjYkZVdnBZTDltekt5TldIeFJib3RmZ0ZkZjhrY1pFN0MzdFFHQVk5Q3duWkJuRHIwRkxyZHM?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-10 03:23  (10 条)
+
+- **蔡徐坤** | 蔡徐坤演唱会高清官摄释出，四面台环绕视角新体验 <https://www.sina.cn/news/article/nimuvrr1368962.html>
+- **周杰伦** | 周杰伦放话刘畊宏：淘汰就来我演唱会当嘉宾 <https://www.sina.cn/news/article/nimuvrt2959115.html>
+- **特朗普** | 特朗普任命新法律顾问，曾力推白宫宴会厅计划-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE1sdHJ6WFNYczZ5bUV0bnJXS3dTXzNFQXZ6eXVWMFhCTEh2c3pqTlRiNU5GbXZMdlpXb2VzTzY2RUE0WXQwZWo5V1ZVaTZpdGtUR0RaeGtCbTBJNVlpVDJRTlNvM1hKV012ZHc?oc=5>
+- **特朗普** | 特朗普持有多少加密货币，他是如何避税的？ <https://news.google.com/rss/articles/CBMipwFBVV95cUxNMWh0dnZYeXlaSnF5TzFvX0lvZXJaRzRkanZZYTQ4QmFaUkhGQkxvY05yTEZsMGxmQW0tS0N6eE1aUDNBVXNjUkRGUEhzZU5sTVJtUlJ4R24tR0dJYmFSSDR6VTBfREdfTGtVMDU4enRfRzRHbnN2UkRCZDY1ZjBzbmx0RVJoUW9kV3pIdy14R3EtZ1ZzTjRrMnpqOXJadUVhXy1oZmtYTQ?oc=5>
+- **特朗普** | 两架飞机违规靠近特朗普高尔夫俱乐部，F-16出动拦截 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5DOFhINWdWMTZEbEUyUkkyLTF4X0g5MzBLTTRjbkpYRV9oZHhnZWZDVnlNZVFGZlRQUVU0WE9zbExGZDNNalFqUnBGc0c?oc=5>
+- **特朗普** | 特朗普活动现场附近 北美防空司令部出动F-16拦截两架飞机 <https://news.google.com/rss/articles/CBMia0FVX3lxTE92d3FRTjZBakVlanB0Wm00Slk0bXdRSzY5VzdHOG54dURlZGc3eGRyMkxRUTVGTHlpc0lsQ05kSjFFSngyblhrNDlqUWkxcEg1MWRWQWh4WjNibnFCQXhtN0JCQ05HSUVFUXl3?oc=5>
+- **特朗普** | 特朗普这是此地无银三百两吗？ <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1idHdwaEN2T3pkaWtlSXBwY2dET2dTX0dVUndsZDNoREo3enAxSVNlNEQ3OFhYLUpqbUFOOWQ3dFZEdDBfbkdzYThIR20?oc=5>
+- **特朗普** | 特朗普斥责：裁决“骇人听闻”；白宫改造项目再受阻 <https://news.google.com/rss/articles/CBMicEFVX3lxTE9vakprWkNIV0dVeHJhZUZRanhId2x4MkRZZjJSUFEyVDE1TDliSER2dHRqNlo2OXRZeVQxMHR5ZVhFOFFvUEpscF9uMjhfaGRUOExHU1g0VjBiWHdOMTBPQ21uMnN6bmE1TGc4Ti04WjY?oc=5>
+- **Trump** | 特朗普认为开放霍尔木兹海峡指日可待，伊朗则另有盘算 <https://news.google.com/rss/articles/CBMijgFBVV95cUxPU2RfNVh2dnNiTFo2QXZZdnJEeVktQ1RZdV8zcy14aXNiaVhTbWY3eTBfVGFPMkRKajVrU0NfWTFtNTRKZHlWNW9DVk9GaXlyM2dyenJ2VE12dEIzMWV0VmhEX0dTUUFTLW1Oa2l3N2luNDJlV1pUbkZCZVByOEktZEd4S2pUb3NqbTA3RzlR?oc=5>
+- **Trump** | “蕴藏1万亿美元原油”……格陵兰警告涌向北极的Trump关系密切企业- 阿视亚经济 <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBmY1ZmTjNUcnlic0hobERWc3gwX1lPMHRScUpjUGpRa1JhUWNLcXdjYkZVdnBZTDltekt5TldIeFJib3RmZ0ZkZjhrY1pFN0MzdFFHQVk5Q3duWkJuRHIwRkxyZHM?oc=5>
 
 ### 2026-08-10 01:14  (6 条)
 
