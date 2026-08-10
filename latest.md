@@ -1,40 +1,73 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-10 15:54**
-- 本轮扫到 9105 条, 新增 **3** 条
+- 最近更新: **2026-08-10 16:47**
+- 本轮扫到 9111 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (6 条)
 
-### 内塔尼亚胡拒绝特朗普加沙计划，白宫回应：“理解比比的政治需要”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-08-10 11:54
-- 链接: <https://news.google.com/rss/articles/CBMinwFBVV95cUxOV0VPdFdrVWpGdVRxUkdRQmZCVzFtcEdxZDZHaHRhMHR5M1l6RFRpYl9fSjJ2Zkw2azVVSng4cjg3Y0FoaFVzREpWbnN6N3Bmdk1IZ0c5OE5vbEd1RmVlVkVTc21Ubm5ZOFpRUDFBVFRjZEIxRHhheFdaWkpRYThfbzBfanNwaVVNbVpCQWgtMGVWZVFqSG1MVFN2LUNLSlk?oc=5>
-
-### 特朗普公布新任白宫首席法律顾问
+### 伊朗战场上，美国犯了个大忌-晨枫-观察者网
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-08-10 03:07
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xeERhNXVYSXNxeG9WcVlFLXRMU2x5V0N3UTJKbjZNMGZJRWRXbkdhMFRiTjhfX0cxVWIzZVZtQTM5REtZUHNYU2EwMmhtRGg1ZlV6c1pVUEVOZ3B1c2xrNHJ3LUQyWlJz?oc=5>
+- 场馆: 观察者
+- 时间: 2026-08-10 05:16
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rc08yaHlMdUxtR1NQYmpIWFJZdFIybHVCVXdsN2Jia0YwaEswbFBKMldMNTZtWURsVjk5RVhVMzZTVzJKZ05xYmZtWjFnYnFLZjZNb281Uk92QUF2MEhlb0xyZzgxbDA?oc=5>
 
-### 第454天：降息 +特朗普2.0 第566天
+### 特朗普被曝欲在伊核问题上让步 伊朗高层人事重组强硬派得势
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-08-10 15:01
-- 链接: <https://news.google.com/rss/articles/CBMimgFBVV95cUxPU09ESmlZMnJNbHMxN2dSZ3VvQURseHVxYmMwQjI1SGN2eTlKM2xZdVprS0NBbXRYcHZWckxvajVpUk1VeFR2dEJjeEhaU2Q3T1JaWnl4UGtOaWNQVmNjQUJYeWVabTMwdG5WZ2J4T1pRVXBiX1dIZE1pT3NnS1BqQ0FxdG1TQ1BLUE9qblB1Q1VRbk9zOUI0TkF3?oc=5>
+- 场馆: 财新
+- 时间: 2026-08-10 13:30
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE0wanllal9qRkU0NW5hSERzaDZBaGtLbnBLYmtTMzh1UnhLcTlUeEpsdUFNb25kWVVTeWlYVkgtd21HZXpGelJZWllSVHVSd2c1QXBhODYwaXhRZ0dta3JPSzc4cWdoVWFiVlE?oc=5>
+
+### 特朗普任命亲信沙尔夫为总统助理兼白宫法律顾问
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-08-10 08:49
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBwLWExNmVGcXF3TDZiQzZwT2loX2diR3JjWmZ6R0dfNVFmXzNrOEkwbi1KQU5HSDJkX3JJeGxjbGhYcjlZY1JreVE4eERMX0NiNHd1YnN6dlVKTmx0M1NObXFibnRFTjVMMVE?oc=5>
+
+### 要闻解说 - 回应特朗普“一盘棋”比喻 伊朗自诩为“专业棋手”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-08-10 13:29
+- 链接: <https://news.google.com/rss/articles/CBMikgNBVV95cUxPbnZPNTVDSndybFdOTUpPZWJnOGF5UFhEM0lrNWU2WWhqS0J2Rm1xQXUwZ1hXc0xpWGhDeHlwd2Q4clFTcnBPVmRFNllpSXNxZVk3cHphWFNhUFNyMk9wcmhENkpMZy1meWVTajdReTk1MWxHX2xweGRFdjBtYUkzcS1rTW9md29FUFNQbmhNS2w0YXN6eW5ndGltYWo1VUwyb1dscjZ2ZGJaOW5hU094bWpnQnlNVnVKRUxQUmRJbVZ6VXpvdmhyNTB4eTdXYXFhVjZZN0ViMDhfU2JDRDlxRzF6TEdaWUZTazI3TzFSXzB1MUQzRnZYamJvOE9wQWZrNHVLRTJmQ3BCRy1abnBLbjZvQUlSMnZ0bm9tUXNzWDZmUjV6QTNJREs5dEpLM3ExTGFPSFpfTjZFdl82a3dUeWFweTFabmtKU3ZHd1c3S0pSekdDaERpbWtUQzJiekhqNVJISnE1Z1o4M2NkS3pnYWNZNlE1OHBTVkpVMm43c1Fuei1QN0diQkJIVDZVNHY5dWc?oc=5>
+
+### 还剩85天，特朗普全面收缩，伊朗左冲右突
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-08-10 08:55
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5mdEI4SDNJR1gzOUVaRFBobXN3Q0JWc1g2WnViMVp1U0tsRFpyQWVEbmh3ZWZjMUM1aUhnQTlKSEtzSnJLOVJ6OUNxX1M?oc=5>
+
+### 美媒：特朗普倾向对伊朗经济施压而非军事打击
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-08-10 08:11
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9SVEVlQkF4SlM1NWg2b213cGt4VnpoSnZEekl5LS1xeWFuUVBkQjJ0OVc4cGduQ1hIcDFpd2FlTlAxM2lyeXY3SGtnNnZPd0RLaWdjNjZLeFF1MmswaFpubkhVUUh1b2dmNjN6MUNqbm8?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-10 16:47  (6 条)
+
+- **特朗普** | 伊朗战场上，美国犯了个大忌-晨枫-观察者网 <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rc08yaHlMdUxtR1NQYmpIWFJZdFIybHVCVXdsN2Jia0YwaEswbFBKMldMNTZtWURsVjk5RVhVMzZTVzJKZ05xYmZtWjFnYnFLZjZNb281Uk92QUF2MEhlb0xyZzgxbDA?oc=5>
+- **特朗普** | 特朗普被曝欲在伊核问题上让步 伊朗高层人事重组强硬派得势 <https://news.google.com/rss/articles/CBMiakFVX3lxTE0wanllal9qRkU0NW5hSERzaDZBaGtLbnBLYmtTMzh1UnhLcTlUeEpsdUFNb25kWVVTeWlYVkgtd21HZXpGelJZWllSVHVSd2c1QXBhODYwaXhRZ0dta3JPSzc4cWdoVWFiVlE?oc=5>
+- **特朗普** | 特朗普任命亲信沙尔夫为总统助理兼白宫法律顾问 <https://news.google.com/rss/articles/CBMiakFVX3lxTFBwLWExNmVGcXF3TDZiQzZwT2loX2diR3JjWmZ6R0dfNVFmXzNrOEkwbi1KQU5HSDJkX3JJeGxjbGhYcjlZY1JreVE4eERMX0NiNHd1YnN6dlVKTmx0M1NObXFibnRFTjVMMVE?oc=5>
+- **特朗普** | 要闻解说 - 回应特朗普“一盘棋”比喻 伊朗自诩为“专业棋手” <https://news.google.com/rss/articles/CBMikgNBVV95cUxPbnZPNTVDSndybFdOTUpPZWJnOGF5UFhEM0lrNWU2WWhqS0J2Rm1xQXUwZ1hXc0xpWGhDeHlwd2Q4clFTcnBPVmRFNllpSXNxZVk3cHphWFNhUFNyMk9wcmhENkpMZy1meWVTajdReTk1MWxHX2xweGRFdjBtYUkzcS1rTW9md29FUFNQbmhNS2w0YXN6eW5ndGltYWo1VUwyb1dscjZ2ZGJaOW5hU094bWpnQnlNVnVKRUxQUmRJbVZ6VXpvdmhyNTB4eTdXYXFhVjZZN0ViMDhfU2JDRDlxRzF6TEdaWUZTazI3TzFSXzB1MUQzRnZYamJvOE9wQWZrNHVLRTJmQ3BCRy1abnBLbjZvQUlSMnZ0bm9tUXNzWDZmUjV6QTNJREs5dEpLM3ExTGFPSFpfTjZFdl82a3dUeWFweTFabmtKU3ZHd1c3S0pSekdDaERpbWtUQzJiekhqNVJISnE1Z1o4M2NkS3pnYWNZNlE1OHBTVkpVMm43c1Fuei1QN0diQkJIVDZVNHY5dWc?oc=5>
+- **特朗普** | 还剩85天，特朗普全面收缩，伊朗左冲右突 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5mdEI4SDNJR1gzOUVaRFBobXN3Q0JWc1g2WnViMVp1U0tsRFpyQWVEbmh3ZWZjMUM1aUhnQTlKSEtzSnJLOVJ6OUNxX1M?oc=5>
+- **特朗普** | 美媒：特朗普倾向对伊朗经济施压而非军事打击 <https://news.google.com/rss/articles/CBMicEFVX3lxTE9SVEVlQkF4SlM1NWg2b213cGt4VnpoSnZEekl5LS1xeWFuUVBkQjJ0OVc4cGduQ1hIcDFpd2FlTlAxM2lyeXY3SGtnNnZPd0RLaWdjNjZLeFF1MmswaFpubkhVUUh1b2dmNjN6MUNqbm8?oc=5>
 
 ### 2026-08-10 15:54  (3 条)
 
