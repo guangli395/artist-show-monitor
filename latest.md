@@ -1,72 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-10 21:35**
-- 本轮扫到 9129 条, 新增 **7** 条
+- 最近更新: **2026-08-10 22:30**
+- 本轮扫到 9130 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (1 条)
 
-### 特朗普总统要求伊朗支付赔偿
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-08-10 20:45
-- 链接: <https://news.google.com/rss/articles/CBMingFBVV95cUxOQkxONDE1WTM1VXZNOTNxM0EzaHZaZ2pmSjNUd2lfYVJFdWtoMFdQOFZhWE5jMXZvVWQtRUNLaTVrT05GaGpNN1hyNXluc0lvLVdBamRnS3phNWczR2lIMDFueFhQX2RjZ25XZHRYTXAtdkR1UlFfSFdla3VNSGtlYXJsYm1udnZRY1FLcG5XMnBOQTRIVWFMUDl4bDR6UdIBoAFBVV95cUxQM2pNeUgzWDAwSGZ6TkhSMFE1V2xpcWFFSUJyUFlfbnFZV1FyMDdQTW5RSWdLRDQwenAxYV9DYllPN1pFSjVzckFYSHhteGM1UFJJZDRoc09sOXMybGJrdUVuR3o0bjRKMVVmWTdvcVR5Yk83NzAtRmxfWmFUb0pEejdfSEoxR0xDdVlRTjBhUVlhQ0lXanBzSnVEeFdTTE1q?oc=5>
-
-### 特朗普淡化与沃什接触 美联储独立性再成焦点
+### 美国因违规和犯罪活动吊销17.5万多份签证
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-10 21:10
-- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUXVDLXlrRnFndXV4YmdCVUlUUEJsMzd3UklBM0lOeFhoTjlsNXRUblcxT3JiNzZWR3AtRXBoMDFrNEpLeDBDcm9yVzA2bnAyZTFkbXBSUklvLUNiWmlMMkE0alB4Ui1GZjlRbzlhOV96anhXNlpjRDhIT0twanU1TURGXzNtRnhsc1NtTDdrYlBEWF8zUktVcm1heE5FcTBZa0ZVVjR0Q0NQUQ?oc=5>
-
-### “特朗普关联”油企擅运钻探设备上岛，格陵兰强烈警告-观察者网
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-08-10 15:07
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9aNk4xRERZcTdNaHRqa1dmOXhBc1g2Zll2azZwQkpXczdLOTUydEZPNTFZRGRseW9ta0FkZl9CMTBiM2ROLW9FOXVfczUyZm9iX2pyOWg4SkZhZHJwaHdVMGU0eUV6WGU0b0E?oc=5>
-
-### 内塔尼亚胡拒绝特朗普支持的加沙和平方案
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: DW
-- 时间: 2026-08-10 10:42
-- 链接: <https://news.google.com/rss/articles/CBMirAJBVV95cUxQTGN1bEtoU09jXzJoV3VhV3lSX3VMZzRfVlpNREpoSENTM0FteTZsVTg1T1VPSG5mOHhiQ0xTNzZlYjRHNy1HWV9qSy1pb0pIbUZJNU5KSXhQMjdBVmtSMHZ5NXV4Zllya0VzWlp3V182VGlPZU84ek5xRmFqOTBKYlVnNnFnWUQ5djJtVFBBckItRWFMaDh3QUJ6cTl2a0hPeks3MGpFdkM2dVk0cDN5eUE5UjJISkZSLVJzYlQ2Z0oxbmlFVFB2ZDJLUVdubktFdHI1cHZkc2RXZk1ZaV9TR1I2SWZrdk4xa1pTb05jaWt3UE5WS04zZS1pSFhnNjEyelhDR18wSmhFOW8yQWNCZTJhX3lBOUFGdU9ERDRNMTNfTk1qWXdNdEVzWELSAawCQVVfeXFMTjkwRzEwc0pwbEx5M0RhWkhIVkRkb1BidXVDNi1qaFJ5T0ZkLXh5NkdHMTRQQTJIZUNwdGdjVnFlMXRfemYxQ1JnQmpTam9KU2IycXNhdXpNWnk2Sjd4c05MR0tzV2ZqSE5iRHJERUNhUFhRYy1hZTRjbS03NnhZZWZHUjIyOGxUaVVoZXBWR1dQUzBmZVFvYm9TelRYQzh2VnA4Y1Fpc0xBalY3bGFzVUxJM1FwREV1dFVpZENIdmRjdlU3X2dwcmNzbmtaMFJhM2FlNnZ3YkJKNHpUT0hjZTN2c2ctRDd1bmhhVl9vVkdxYjk5bFRvbTVFdXBPbEtOVXVUZm1TY0JOaWE4NHR5S2V2NHJjcEZDYVYtOGs0dHg1NGFVZkNZQUVpV2Et?oc=5>
-
-### 内塔尼亚胡拒绝特朗普的15点加沙计划，称在哈马斯解除武装之前不会撤军
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-08-10 16:30
-- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxNOWNmYjU2X1Rkd3E1TU5BeWZMODdOQjdEVTNLNUR0T3E2TlNTNzE2aXFKd1hjZjRjMUxxc3Bsd3ROWm51M2VQQnBZSkZBbzhJaHJaMlhwSlpLYnhLQzk0YTdLM0NEcVktNkFfQlE4OTV2SGRuVFpqRmktVGFDQVNNWFhaN240WW96SnhkOG5Jbkp1aVY1aXVtNWtjSENGOHdaS0dIcXk0dElDallvNkdWd1cxYnJ0WmtScXRWTVl2TFJoemZiQWtNZ2s2RDlENTA?oc=5>
-
-### 特朗普媒体公司的比特币持仓缩水，加密货币亏损达$3.61亿
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-08-10 21:18
-- 链接: <https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdWdBODJSam5VejBDWTNBSC1uYWwyaU8yZmFNWEI0d0VlRUxxU25pN0VvbkhRcl9BY0ZDSjg2b3FEaXZibTNkU1IzX2pnNGIzR0dlT195MmJrM3dWNGtoMXprMzV2RUdZYVlzRVJwQlZrb0JTcEg4N2ZhRUhLN3pWRS1UNmtwN3lhSFpvWUVaNTRONXFVX1NHYzU0ZFJJTy03SktHaUJVd2o?oc=5>
-
-### 托德·布兰奇宣誓就任司法部长
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-08-10 21:14
-- 链接: <https://news.google.com/rss/articles/CBMilwFBVV95cUxOUUVTY0d5aUtiTGxQOURlM0tVekFwSURIU3J3aElZWDJWcFRJMnBqUjJ1ZHM4T0VGZmpkSmRFVVVQcE13d0xEM3lveHhRaFEtUXBRa0hBTXFJazFmZFZwY051QUE4RDdsanQzQmEwVlVZbW1kR0RwekJuU19ES180RkJFZUY0eTFHOHZIMnBDR1N3RXhNNWpj0gGaAUFVX3lxTFBvejJNai15bk5GQWxWQTU1RXRoczBWT3A0X3g0bjJuLXZEeE13U2x4eW9wdW96dno5OWMxTFZZWWF2UEUxb3laYndIbTlLMWdNOF9xb0pCWDhhTlVlQjBNT1hZMUZZb29jMnIyZGZyZXRONWgwVGZITm85VHNYMWVPb3RINnZOVlZKVTVDcWM5R1p5Ml9ST3B6eWc?oc=5>
+- 场馆: voachinese.com
+- 时间: 2026-08-10 21:53
+- 链接: <https://news.google.com/rss/articles/CBMitgFBVV95cUxPbmhOVEJ1aTZpT2RlRGJUSUVMZW9vLUFvcVFYTGpqdW0xRm9oODBkRXVWcTFKVDBLbUhjSE9XSThkUnJfanAwR0FRQXBuRFc4YXYxd096XzF4ajBpSVgyUXBma01lMllESGxYN2V2SXcxRURKM0RTbGRzdC13WjdyV19kUGZKem1yZG11R2UyZjN3c19fRk1BRlAyOUg5SVZrUVJsZk1OY0plMnJOdV9VemhuLW9mUdIBuAFBVV95cUxPOXRTTGRSUHVlUGZBc0ViZm5PMHBxOWd6OUJYQmxPTlVrWnI2emFhcEZnUllJbmdpSHBFcWlNR3FEbExnSDd2STZxdHRhS1RQNkxYaWd3TEJLWGtZM0V2TzRCdVJlRDNOSjNod05KR3Vmdzc2X1hmZmlJakVvQmhIS2N6TEhCdUpEUURzcFc1VkVENDRwTl9tMTJZOUVRWnJFbDAta19lYlBCYU1pMXdrdS0tbXE4TlBv?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-10 22:30  (1 条)
+
+- **特朗普** | 美国因违规和犯罪活动吊销17.5万多份签证 <https://news.google.com/rss/articles/CBMitgFBVV95cUxPbmhOVEJ1aTZpT2RlRGJUSUVMZW9vLUFvcVFYTGpqdW0xRm9oODBkRXVWcTFKVDBLbUhjSE9XSThkUnJfanAwR0FRQXBuRFc4YXYxd096XzF4ajBpSVgyUXBma01lMllESGxYN2V2SXcxRURKM0RTbGRzdC13WjdyV19kUGZKem1yZG11R2UyZjN3c19fRk1BRlAyOUg5SVZrUVJsZk1OY0plMnJOdV9VemhuLW9mUdIBuAFBVV95cUxPOXRTTGRSUHVlUGZBc0ViZm5PMHBxOWd6OUJYQmxPTlVrWnI2emFhcEZnUllJbmdpSHBFcWlNR3FEbExnSDd2STZxdHRhS1RQNkxYaWd3TEJLWGtZM0V2TzRCdVJlRDNOSjNod05KR3Vmdzc2X1hmZmlJakVvQmhIS2N6TEhCdUpEUURzcFc1VkVENDRwTl9tMTJZOUVRWnJFbDAta19lYlBCYU1pMXdrdS0tbXE4TlBv?oc=5>
 
 ### 2026-08-10 21:35  (7 条)
 
