@@ -1,14 +1,109 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-10 23:08**
-- 本轮扫到 9130 条, 新增 **0** 条
+- 最近更新: **2026-08-10 23:59**
+- 本轮扫到 9140 条, 新增 **10** 条
 
 ---
 
-## 本轮无新增
+## 本轮新发现 (10 条)
 
-数据库里所有演出/动态都已见过,暂无新增。
+### 拒绝加沙和平方案，争取极右盟友支持，内塔尼亚胡“硬刚”特朗普
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-10 22:38
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9NVDBMcnVpaFZ4bjFKQXctMkJfd2ZfTFE2M3JGb29OWUVqY0wwRzRhNXRPdGwxVVMySGFTbWtBNG1PcFZqRFNXN2JlRVN2cUhuZGRydjZ0RW9WV2tscDdYZURYMjh6NktRMkxrYUdWd1piUGV6UWZCRw?oc=5>
+
+### 特朗普淡化与沃什接触 美联储独立性再成焦点
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-10 21:02
+- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE04Z2tHeWZqM0lWUDlFRlhsVEVqY3k4ektaakNhMW1qcXkyMmlwVDh2cGhxbElUV0MwdWpiaUFDRDV4MWdXT0JHcUhwT0VJX1lrSEUtc1hLcnJOMjg2dUZPZmMzQU03N1ZmRWRoQ2tSSTNpWTAyVFRqUlVB?oc=5>
+
+### 特朗普延长《琼斯法案》豁免90天，确保伊朗战争期间美国石油供应
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: sohu.com
+- 时间: 2026-08-10 22:40
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxPWS1Zb29tR3ZOY1lrZFZHSnR6N0x3U0RoVVRCVmVDdEVsQkJjVjB6cHBiZUNNRHF4M1RrTDB5eDZPaThZODRwSEhZX3NNcUNDdXZiRGpaVGtLRFgtT1VLbGxNRUF0QzJVMndCNlNaSmtmbHI0bVVaU3AwTUp0U1A3Qy1aRE1NcWdrRnBpSw?oc=5>
+
+### 特朗普阵营撤下泰勒·斯威夫特歌曲，曾多次“蹭歌”引争议
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-08-10 06:01
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE11bUhOOE5GTGdVVlg0c1Z2ZkZXYWlUanV0YktGZjJaU2ZmdFZoMXZXakhtejd0M25CT3ExWk5lemxwaTZUMWEwYVQzMXVySUZUTUxBNVRWeV9UV3h1c3BuT0xybmo?oc=5>
+
+### 特朗普称要向伊朗索赔
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: chinanews.com.cn
+- 时间: 2026-08-10 22:32
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9LVnJRd292WTZ0Y180V2FhRHlRclhzdTBJQ2Y2bk5pYS0wOEF1MlJUQjczbWNtOUg1bXdmMVcxc0hnb2dfSDhqaTIwRGlWSmlqMjFDVWhpTFhYeTFBZWhTN1M5bll1ZDIt?oc=5>
+
+### 特朗普表示：他争取让伊朗对冲突做出赔偿
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-08-10 21:15
+- 链接: <https://news.google.com/rss/articles/CBMiuAJBVV95cUxQM3RNVFl3X0hEb01MdVdaN3lKelJkamR1dHVUSkJuVHlOWWhZNFV2U1pVWTBRTXVsbEs0a0x3SllwX0dfNTFNMFhiR0I5QmhIMTBuc19neHFnS29ZOTE2MDJXa2U3YXN6VTZnN1ZNeF85Ykl3YnEyOHRqNDVkWnNaaVdOdk1fRzUxYU5GZHVONEFQbXFYYjBZOTAzZktCYlNSbjkyTE5paHhQemUtVENWaEJLam0wamhUZ1dCX1FERGVTSkhNQkR0RWtoRDVWUjBseGV3RkFLbEZ6b0Fac0VVMTY4OGIyVEczU1BQU1RsSVhOa21pS2s4NlJtUkFzSWhFc3lpNUlpSnlFako4cTdOb2pEVmFleUxEUEN2ZEtXZ2hGQXREMjRPX3lFODZaMEwtZ3N3YzFiU1k?oc=5>
+
+### 特朗普称美军已“100%控制”霍尔木兹海峡
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-10 22:44
+- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxPYmZzdTVIZDQ0Nk9HMk9SZV9hY0FKVVo1ejVwaGthSWtFNkhidFQ4OE5ZUHE1VHc2UU1LNUhHMFc3STQ5VHM3NDBmb0ZVd2RtYk9NQXFQWm15WkNvaHBTUnpJbWJaVVM4Z3lSVUxhbFlFNmJrZFY0dXQ4a3hCQkxrc1RKRHhwV215RDJUMUJRQkpBdjVmQmRVbg?oc=5>
+
+### 特朗普媒体的比特币持仓缩水，加密货币损失达到3.61亿美元
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: CoinDesk
+- 时间: 2026-08-10 21:12
+- 链接: <https://news.google.com/rss/articles/CBMivgFBVV95cUxOb2NKQW9KTkRWQ0tpZGJjR0psYks0V1V6SzRWRWtyRjNpMXhlUmtPbXgxMkUzZlN0Yk81em90YVI2ckhPTEU2LW5Da3k1YnhDMGdVWjBXWlpYWE4xNjUxbWpwb1VBR191d3JhSVJqQVEzYXRTTHFCUnZkNUxycjFHLWpvZXRGUUJvVloxejJuQzNzLUUxUnF4aGd3ZDRaYTd4NVVJQkdOUS1xeER4RGZGdXhfMDV3d1lSWG81R0J3?oc=5>
+
+### Trump：“霍尔木兹由美国控制”……回应伊朗赔偿要求：对等赔偿（综合）
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 아시아경제
+- 时间: 2026-08-10 23:44
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFA1R3Q1TlJfcGFMX1cwbmhSR3c0TjFkaS0tWmV3OE16c2FUZ0VIQl9SeGRGU2ZVa2pRQXhTU04wdXpha1lfeFVOYUxYcUxTQ1JkMGNBYnc4eVZIODFRN0l3a3hhRHk?oc=5>
+
+### 特朗普称美军已“100%控制”霍尔木兹海峡 | 环球市场
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-08-10 23:02
+- 链接: <https://news.google.com/rss/articles/CBMinwFBVV95cUxPU1hCSktjZE4yYnV0QVRvVEtnWWFNN0R3Sy1SWG94SE9uTjNOVDcyaTYwT29EUTlvWC1OS3RnaDczbFExNGc0eXJLNlJQcklLaDI3OUdqa09ndnNrUVU2LVY2bGk0RE5SLWJBU0VGZVByX2RXdmZiVjRtcHhhc0RObDFkLUExMDNmYVNoSlNlanJJVFRMelN1ZUZzUFMxQXc?oc=5>
+
+
+---
+
 ## 历史发现
+
+### 2026-08-10 23:59  (10 条)
+
+- **特朗普** | 拒绝加沙和平方案，争取极右盟友支持，内塔尼亚胡“硬刚”特朗普 <https://news.google.com/rss/articles/CBMieEFVX3lxTE9NVDBMcnVpaFZ4bjFKQXctMkJfd2ZfTFE2M3JGb29OWUVqY0wwRzRhNXRPdGwxVVMySGFTbWtBNG1PcFZqRFNXN2JlRVN2cUhuZGRydjZ0RW9WV2tscDdYZURYMjh6NktRMkxrYUdWd1piUGV6UWZCRw?oc=5>
+- **特朗普** | 特朗普淡化与沃什接触 美联储独立性再成焦点 <https://news.google.com/rss/articles/CBMiekFVX3lxTE04Z2tHeWZqM0lWUDlFRlhsVEVqY3k4ektaakNhMW1qcXkyMmlwVDh2cGhxbElUV0MwdWpiaUFDRDV4MWdXT0JHcUhwT0VJX1lrSEUtc1hLcnJOMjg2dUZPZmMzQU03N1ZmRWRoQ2tSSTNpWTAyVFRqUlVB?oc=5>
+- **特朗普** | 特朗普延长《琼斯法案》豁免90天，确保伊朗战争期间美国石油供应 <https://news.google.com/rss/articles/CBMijAFBVV95cUxPWS1Zb29tR3ZOY1lrZFZHSnR6N0x3U0RoVVRCVmVDdEVsQkJjVjB6cHBiZUNNRHF4M1RrTDB5eDZPaThZODRwSEhZX3NNcUNDdXZiRGpaVGtLRFgtT1VLbGxNRUF0QzJVMndCNlNaSmtmbHI0bVVaU3AwTUp0U1A3Qy1aRE1NcWdrRnBpSw?oc=5>
+- **特朗普** | 特朗普阵营撤下泰勒·斯威夫特歌曲，曾多次“蹭歌”引争议 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE11bUhOOE5GTGdVVlg0c1Z2ZkZXYWlUanV0YktGZjJaU2ZmdFZoMXZXakhtejd0M25CT3ExWk5lemxwaTZUMWEwYVQzMXVySUZUTUxBNVRWeV9UV3h1c3BuT0xybmo?oc=5>
+- **特朗普** | 特朗普称要向伊朗索赔 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9LVnJRd292WTZ0Y180V2FhRHlRclhzdTBJQ2Y2bk5pYS0wOEF1MlJUQjczbWNtOUg1bXdmMVcxc0hnb2dfSDhqaTIwRGlWSmlqMjFDVWhpTFhYeTFBZWhTN1M5bll1ZDIt?oc=5>
+- **特朗普** | 特朗普表示：他争取让伊朗对冲突做出赔偿 <https://news.google.com/rss/articles/CBMiuAJBVV95cUxQM3RNVFl3X0hEb01MdVdaN3lKelJkamR1dHVUSkJuVHlOWWhZNFV2U1pVWTBRTXVsbEs0a0x3SllwX0dfNTFNMFhiR0I5QmhIMTBuc19neHFnS29ZOTE2MDJXa2U3YXN6VTZnN1ZNeF85Ykl3YnEyOHRqNDVkWnNaaVdOdk1fRzUxYU5GZHVONEFQbXFYYjBZOTAzZktCYlNSbjkyTE5paHhQemUtVENWaEJLam0wamhUZ1dCX1FERGVTSkhNQkR0RWtoRDVWUjBseGV3RkFLbEZ6b0Fac0VVMTY4OGIyVEczU1BQU1RsSVhOa21pS2s4NlJtUkFzSWhFc3lpNUlpSnlFako4cTdOb2pEVmFleUxEUEN2ZEtXZ2hGQXREMjRPX3lFODZaMEwtZ3N3YzFiU1k?oc=5>
+- **特朗普** | 特朗普称美军已“100%控制”霍尔木兹海峡 <https://news.google.com/rss/articles/CBMimAFBVV95cUxPYmZzdTVIZDQ0Nk9HMk9SZV9hY0FKVVo1ejVwaGthSWtFNkhidFQ4OE5ZUHE1VHc2UU1LNUhHMFc3STQ5VHM3NDBmb0ZVd2RtYk9NQXFQWm15WkNvaHBTUnpJbWJaVVM4Z3lSVUxhbFlFNmJrZFY0dXQ4a3hCQkxrc1RKRHhwV215RDJUMUJRQkpBdjVmQmRVbg?oc=5>
+- **Trump** | 特朗普媒体的比特币持仓缩水，加密货币损失达到3.61亿美元 <https://news.google.com/rss/articles/CBMivgFBVV95cUxOb2NKQW9KTkRWQ0tpZGJjR0psYks0V1V6SzRWRWtyRjNpMXhlUmtPbXgxMkUzZlN0Yk81em90YVI2ckhPTEU2LW5Da3k1YnhDMGdVWjBXWlpYWE4xNjUxbWpwb1VBR191d3JhSVJqQVEzYXRTTHFCUnZkNUxycjFHLWpvZXRGUUJvVloxejJuQzNzLUUxUnF4aGd3ZDRaYTd4NVVJQkdOUS1xeER4RGZGdXhfMDV3d1lSWG81R0J3?oc=5>
+- **Trump** | Trump：“霍尔木兹由美国控制”……回应伊朗赔偿要求：对等赔偿（综合） <https://news.google.com/rss/articles/CBMiZEFVX3lxTFA1R3Q1TlJfcGFMX1cwbmhSR3c0TjFkaS0tWmV3OE16c2FUZ0VIQl9SeGRGU2ZVa2pRQXhTU04wdXpha1lfeFVOYUxYcUxTQ1JkMGNBYnc4eVZIODFRN0l3a3hhRHk?oc=5>
+- **Trump** | 特朗普称美军已“100%控制”霍尔木兹海峡 | 环球市场 <https://news.google.com/rss/articles/CBMinwFBVV95cUxPU1hCSktjZE4yYnV0QVRvVEtnWWFNN0R3Sy1SWG94SE9uTjNOVDcyaTYwT29EUTlvWC1OS3RnaDczbFExNGc0eXJLNlJQcklLaDI3OUdqa09ndnNrUVU2LVY2bGk0RE5SLWJBU0VGZVByX2RXdmZiVjRtcHhhc0RObDFkLUExMDNmYVNoSlNlanJJVFRMelN1ZUZzUFMxQXc?oc=5>
 
 ### 2026-08-10 22:30  (1 条)
 
