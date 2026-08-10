@@ -1,48 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-10 19:50**
-- 本轮扫到 9119 条, 新增 **4** 条
+- 最近更新: **2026-08-10 20:34**
+- 本轮扫到 9122 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (3 条)
 
-### 90票赞成6反对，特朗普遭21败诉总统位岌岌可危
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机网易网
-- 时间: 2026-08-10 16:54
-- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ZS2dfR1F4UUNFZHFOVmZPR0VwVzgxOWRSNWxuN0taS3ZjQTVGVVNnY3BmSE9tTkJEZjJ4QXUxVzZJeHpYZlQtay1GSGtzUXBPa3R6MXFyYldfX05DTmhZaTl3?oc=5>
-
-### 特朗普谈伊朗：你们很快就会知道了。
+### 特朗普任命亲信沙尔夫为总统助理兼白宫法律顾问
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-10 19:24
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFAwQndhT2l3QjB1VG9XZ0lsR1lLRjFnVThDWENZYXlwazYzcmZGMlJQUUlHVVlWNGdsdDJMOUNYejNlcnhzNTk0QnhCdw?oc=5>
+- 场馆: 联合早报
+- 时间: 2026-08-10 08:49
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5vUDl2bjdNSFQxSFhpQXVQaVFZWWlpWnFjMVJSUUhObGtEa09xTjU1ek9zaWF5c2JtOWtIenhqWW5TWEM2UWFnWDJrYWVQT2JJZDV2cW84Y2dfZk9sVG9ROVd4Vy1PQQ?oc=5>
 
-### 白宫官员：特朗普延长《琼斯法案》豁免并附加部分限制条件。
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-10 17:10
-- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wY2NmWVJwVlBZal9KQ1VIWEx2Wl9jLWJnSHVlQ3EzVUZtTXZxb0VFMFdKMHZidHFZV3M1M1Zia2pwdGs1dGM5VTZETmtoMGs?oc=5>
-
-### 特朗普要求伊朗赔偿
+### 美战机拦截多架闯特朗普高球场禁飞区民机
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-08-10 18:33
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBsTjFETjlUTWcwM1N1Z0JGRWJsZzM1Yk9zdUhZZEsxSkhaNnZXdXUzT3pLNHZIOHJUSGkwUUxyUjlvRmUxQWZpcnAxOVpUVm4tcndHUk0tTUlESUxoWmloWA?oc=5>
+- 场馆: 联合早报
+- 时间: 2026-08-10 05:33
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9CekZrOUNURHIxZ081Rm9EdHNVZmRvWk8zOTByUUNYZnB6cWJWZ244VHFnZUZxQjlhenBaZXNVRmplU0FSb2tUUnBkSGh2YWt4d2RJZEUtZzJvb3RKNUhqYUpqVnFHNTZoalE?oc=5>
+
+### NORAD intercepts 2 planes violating air space near Trump event
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: TVB
+- 时间: 2026-08-10 04:27
+- 链接: <https://news.google.com/rss/articles/CBMijgFBVV95cUxQLWdyaVhMU3FJMWEyZFRBcGJpY2JkVzNzRFpHR3J1aklLRWNnQk1rS1Z0YXpyZXZKSTRXWDBESDVyNFB2b0NOZmVlVGFKUFM0Wlo3WmkwM3I5Vk5FRl95SWUwUk5LMGZ4V0tMZnIyR3V1R19rQ3Q5dzB1VXRoaV9FSnZSMTUtYzgwUkJORzd3?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-10 20:34  (3 条)
+
+- **特朗普** | 特朗普任命亲信沙尔夫为总统助理兼白宫法律顾问 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5vUDl2bjdNSFQxSFhpQXVQaVFZWWlpWnFjMVJSUUhObGtEa09xTjU1ek9zaWF5c2JtOWtIenhqWW5TWEM2UWFnWDJrYWVQT2JJZDV2cW84Y2dfZk9sVG9ROVd4Vy1PQQ?oc=5>
+- **特朗普** | 美战机拦截多架闯特朗普高球场禁飞区民机 <https://news.google.com/rss/articles/CBMiakFVX3lxTE9CekZrOUNURHIxZ081Rm9EdHNVZmRvWk8zOTByUUNYZnB6cWJWZ244VHFnZUZxQjlhenBaZXNVRmplU0FSb2tUUnBkSGh2YWt4d2RJZEUtZzJvb3RKNUhqYUpqVnFHNTZoalE?oc=5>
+- **Trump** | NORAD intercepts 2 planes violating air space near Trump event <https://news.google.com/rss/articles/CBMijgFBVV95cUxQLWdyaVhMU3FJMWEyZFRBcGJpY2JkVzNzRFpHR3J1aklLRWNnQk1rS1Z0YXpyZXZKSTRXWDBESDVyNFB2b0NOZmVlVGFKUFM0Wlo3WmkwM3I5Vk5FRl95SWUwUk5LMGZ4V0tMZnIyR3V1R19rQ3Q5dzB1VXRoaV9FSnZSMTUtYzgwUkJORzd3?oc=5>
 
 ### 2026-08-10 19:50  (4 条)
 
