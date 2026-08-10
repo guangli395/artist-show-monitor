@@ -1,40 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-10 17:45**
-- 本轮扫到 9114 条, 新增 **3** 条
+- 最近更新: **2026-08-10 18:47**
+- 本轮扫到 9115 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (1 条)
 
 ### 特朗普称要向伊朗索赔
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-08-10 17:10
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5YVXhaM2hZZ3hickpkOUNrcTV2V2ZGSzVTdTRwMWMzNThZYlFXZzJHbEF1ZENvNkllRjBEZnkteXBMcVFhWl9vQk1hNEJZeWJVY09NRy1PdmF1NjNNM0JUYjRDRFBTZDZjQThwdXV1cm0?oc=5>
-
-### 震惊世界的披露：特朗普放弃对伊朗的头号要求
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-08-10 16:30
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1JWEt4YzdIVkc5S1A5akdfdnJiR1lZS3F1dFV0UjdlMU9NUFR1a0t4eTd1TlRqSkdHQ0dYbkxkTnM0bG5wakYyalF4OWM?oc=5>
-
-### 特朗普宣布威尔·沙夫将出任总统助理兼白宫法律顾问
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网客户端
-- 时间: 2026-08-10 01:12
-- 链接: <https://news.google.com/rss/articles/CBMimgFBVV95cUxOcHZab1RsT3dHN00zS2ZuMkVWU0Y3QVU5NThROUd6T1VQaDVkZlYtR1o1eWh5aUZyYW5IdndwY0IxWVlWVkdVMGF5UWRBSzBiR2ZXOGlSLVJHZDl1SXdTMlFXaV9xM3gtTkRKSVNJXzF6WG9NRHRyUFp3Wk5tM05yOS1QTlJlejQzV2NPTWJweGxOSmJnLUJISGlB?oc=5>
+- 时间: 2026-08-10 16:35
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5EdWxEdTlweVItRWRPZW9pVmg1X3JzQmhGM3VtVkxnbzhPNzZHNk0zS08zVTkyZ3ZVa3MyX01INFFlS3Ezc0dEMmxEM1E?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-10 18:47  (1 条)
+
+- **特朗普** | 特朗普称要向伊朗索赔 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5EdWxEdTlweVItRWRPZW9pVmg1X3JzQmhGM3VtVkxnbzhPNzZHNk0zS08zVTkyZ3ZVa3MyX01INFFlS3Ezc0dEMmxEM1E?oc=5>
 
 ### 2026-08-10 17:45  (3 条)
 
