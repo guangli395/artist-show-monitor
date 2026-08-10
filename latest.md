@@ -1,64 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-10 16:47**
-- 本轮扫到 9111 条, 新增 **6** 条
+- 最近更新: **2026-08-10 17:45**
+- 本轮扫到 9114 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (3 条)
 
-### 伊朗战场上，美国犯了个大忌-晨枫-观察者网
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-08-10 05:16
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rc08yaHlMdUxtR1NQYmpIWFJZdFIybHVCVXdsN2Jia0YwaEswbFBKMldMNTZtWURsVjk5RVhVMzZTVzJKZ05xYmZtWjFnYnFLZjZNb281Uk92QUF2MEhlb0xyZzgxbDA?oc=5>
-
-### 特朗普被曝欲在伊核问题上让步 伊朗高层人事重组强硬派得势
+### 特朗普称要向伊朗索赔
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 财新
-- 时间: 2026-08-10 13:30
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE0wanllal9qRkU0NW5hSERzaDZBaGtLbnBLYmtTMzh1UnhLcTlUeEpsdUFNb25kWVVTeWlYVkgtd21HZXpGelJZWllSVHVSd2c1QXBhODYwaXhRZ0dta3JPSzc4cWdoVWFiVlE?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-08-10 17:10
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5YVXhaM2hZZ3hickpkOUNrcTV2V2ZGSzVTdTRwMWMzNThZYlFXZzJHbEF1ZENvNkllRjBEZnkteXBMcVFhWl9vQk1hNEJZeWJVY09NRy1PdmF1NjNNM0JUYjRDRFBTZDZjQThwdXV1cm0?oc=5>
 
-### 特朗普任命亲信沙尔夫为总统助理兼白宫法律顾问
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-08-10 08:49
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBwLWExNmVGcXF3TDZiQzZwT2loX2diR3JjWmZ6R0dfNVFmXzNrOEkwbi1KQU5HSDJkX3JJeGxjbGhYcjlZY1JreVE4eERMX0NiNHd1YnN6dlVKTmx0M1NObXFibnRFTjVMMVE?oc=5>
-
-### 要闻解说 - 回应特朗普“一盘棋”比喻 伊朗自诩为“专业棋手”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-08-10 13:29
-- 链接: <https://news.google.com/rss/articles/CBMikgNBVV95cUxPbnZPNTVDSndybFdOTUpPZWJnOGF5UFhEM0lrNWU2WWhqS0J2Rm1xQXUwZ1hXc0xpWGhDeHlwd2Q4clFTcnBPVmRFNllpSXNxZVk3cHphWFNhUFNyMk9wcmhENkpMZy1meWVTajdReTk1MWxHX2xweGRFdjBtYUkzcS1rTW9md29FUFNQbmhNS2w0YXN6eW5ndGltYWo1VUwyb1dscjZ2ZGJaOW5hU094bWpnQnlNVnVKRUxQUmRJbVZ6VXpvdmhyNTB4eTdXYXFhVjZZN0ViMDhfU2JDRDlxRzF6TEdaWUZTazI3TzFSXzB1MUQzRnZYamJvOE9wQWZrNHVLRTJmQ3BCRy1abnBLbjZvQUlSMnZ0bm9tUXNzWDZmUjV6QTNJREs5dEpLM3ExTGFPSFpfTjZFdl82a3dUeWFweTFabmtKU3ZHd1c3S0pSekdDaERpbWtUQzJiekhqNVJISnE1Z1o4M2NkS3pnYWNZNlE1OHBTVkpVMm43c1Fuei1QN0diQkJIVDZVNHY5dWc?oc=5>
-
-### 还剩85天，特朗普全面收缩，伊朗左冲右突
+### 震惊世界的披露：特朗普放弃对伊朗的头号要求
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-08-10 08:55
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5mdEI4SDNJR1gzOUVaRFBobXN3Q0JWc1g2WnViMVp1U0tsRFpyQWVEbmh3ZWZjMUM1aUhnQTlKSEtzSnJLOVJ6OUNxX1M?oc=5>
+- 时间: 2026-08-10 16:30
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1JWEt4YzdIVkc5S1A5akdfdnJiR1lZS3F1dFV0UjdlMU9NUFR1a0t4eTd1TlRqSkdHQ0dYbkxkTnM0bG5wakYyalF4OWM?oc=5>
 
-### 美媒：特朗普倾向对伊朗经济施压而非军事打击
+### 特朗普宣布威尔·沙夫将出任总统助理兼白宫法律顾问
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-08-10 08:11
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9SVEVlQkF4SlM1NWg2b213cGt4VnpoSnZEekl5LS1xeWFuUVBkQjJ0OVc4cGduQ1hIcDFpd2FlTlAxM2lyeXY3SGtnNnZPd0RLaWdjNjZLeFF1MmswaFpubkhVUUh1b2dmNjN6MUNqbm8?oc=5>
+- 场馆: 新华网客户端
+- 时间: 2026-08-10 01:12
+- 链接: <https://news.google.com/rss/articles/CBMimgFBVV95cUxOcHZab1RsT3dHN00zS2ZuMkVWU0Y3QVU5NThROUd6T1VQaDVkZlYtR1o1eWh5aUZyYW5IdndwY0IxWVlWVkdVMGF5UWRBSzBiR2ZXOGlSLVJHZDl1SXdTMlFXaV9xM3gtTkRKSVNJXzF6WG9NRHRyUFp3Wk5tM05yOS1QTlJlejQzV2NPTWJweGxOSmJnLUJISGlB?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-10 17:45  (3 条)
+
+- **特朗普** | 特朗普称要向伊朗索赔 <https://news.google.com/rss/articles/CBMicEFVX3lxTE5YVXhaM2hZZ3hickpkOUNrcTV2V2ZGSzVTdTRwMWMzNThZYlFXZzJHbEF1ZENvNkllRjBEZnkteXBMcVFhWl9vQk1hNEJZeWJVY09NRy1PdmF1NjNNM0JUYjRDRFBTZDZjQThwdXV1cm0?oc=5>
+- **特朗普** | 震惊世界的披露：特朗普放弃对伊朗的头号要求 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1JWEt4YzdIVkc5S1A5akdfdnJiR1lZS3F1dFV0UjdlMU9NUFR1a0t4eTd1TlRqSkdHQ0dYbkxkTnM0bG5wakYyalF4OWM?oc=5>
+- **特朗普** | 特朗普宣布威尔·沙夫将出任总统助理兼白宫法律顾问 <https://news.google.com/rss/articles/CBMimgFBVV95cUxOcHZab1RsT3dHN00zS2ZuMkVWU0Y3QVU5NThROUd6T1VQaDVkZlYtR1o1eWh5aUZyYW5IdndwY0IxWVlWVkdVMGF5UWRBSzBiR2ZXOGlSLVJHZDl1SXdTMlFXaV9xM3gtTkRKSVNJXzF6WG9NRHRyUFp3Wk5tM05yOS1QTlJlejQzV2NPTWJweGxOSmJnLUJISGlB?oc=5>
 
 ### 2026-08-10 16:47  (6 条)
 
