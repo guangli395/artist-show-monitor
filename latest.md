@@ -1,23 +1,13 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-10 22:30**
-- 本轮扫到 9130 条, 新增 **1** 条
+- 最近更新: **2026-08-10 23:08**
+- 本轮扫到 9130 条, 新增 **0** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮无新增
 
-### 美国因违规和犯罪活动吊销17.5万多份签证
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: voachinese.com
-- 时间: 2026-08-10 21:53
-- 链接: <https://news.google.com/rss/articles/CBMitgFBVV95cUxPbmhOVEJ1aTZpT2RlRGJUSUVMZW9vLUFvcVFYTGpqdW0xRm9oODBkRXVWcTFKVDBLbUhjSE9XSThkUnJfanAwR0FRQXBuRFc4YXYxd096XzF4ajBpSVgyUXBma01lMllESGxYN2V2SXcxRURKM0RTbGRzdC13WjdyV19kUGZKem1yZG11R2UyZjN3c19fRk1BRlAyOUg5SVZrUVJsZk1OY0plMnJOdV9VemhuLW9mUdIBuAFBVV95cUxPOXRTTGRSUHVlUGZBc0ViZm5PMHBxOWd6OUJYQmxPTlVrWnI2emFhcEZnUllJbmdpSHBFcWlNR3FEbExnSDd2STZxdHRhS1RQNkxYaWd3TEJLWGtZM0V2TzRCdVJlRDNOSjNod05KR3Vmdzc2X1hmZmlJakVvQmhIS2N6TEhCdUpEUURzcFc1VkVENDRwTl9tMTJZOUVRWnJFbDAta19lYlBCYU1pMXdrdS0tbXE4TlBv?oc=5>
-
-
----
-
+数据库里所有演出/动态都已见过,暂无新增。
 ## 历史发现
 
 ### 2026-08-10 22:30  (1 条)
