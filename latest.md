@@ -1,48 +1,73 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-09 23:34**
-- 本轮扫到 9059 条, 新增 **4** 条
+- 最近更新: **2026-08-10 01:14**
+- 本轮扫到 9065 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (6 条)
 
-### 特朗普称正在“低调处理”伊朗问题
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-09 22:26
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxNdGJ0ZnFkeUJTcEx4OFdxaWdGNmtvSUQwM0VBZG82dndRTjZpcERvdmpaSENlZVRJV0pMV0JmdVJZYWxxSkRSamdoYTdpemtwMklRbzJFcGthNnpNLUU0UkptVl9UZnNJY05GUzREMmdQQW5HNS1WTkNTek93UWRtbzV4QWJjSjZvSkJkeldSeUNVVEpiRFBxRg?oc=5>
-
-### 两架飞机违规靠近特朗普高尔夫俱乐部，北美防空司令部出动F-16拦截
+### 要闻解说 - 不服最高法裁决，特朗普再签新令限制出生公民权，尤其严打赴美生子
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-08-09 23:13
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5wZWlEcjJIeVA5WEtRQi0wdmxLSE5ONnlCWURfY1VaVVdFOWdEZW1wYXpNTGowVmNrODFDVkNQdnhRY09YSFhoZEx5NTg0ei13bEhDSVV1VUZSSXJmenpSRG9Mc0hmdXVmN0E?oc=5>
+- 场馆: RFI
+- 时间: 2026-08-09 12:14
+- 链接: <https://news.google.com/rss/articles/CBMinARBVV95cUxNZ3dkVE9PUXVBcVdmVXg4MnFBeTltLS00TmVUeUNTUUxvR3pmSzlvbXF4d1JIZGR6cjZUSkJCdTQ4RnNNT0dOYVREaFZlbEhiVjBKZEZPZS1XLVVWbG1jTll2TnNqdm1zOE5lQnQ1TDBoRDVOblk4MGhhNXc1TmxCQmY2b1FtRkNOUDZoVUM5dU5BVU16dXBUSTRCR3lxbWRPUmZKRGdvNTRrOWZPNnNZUEc3bVhfcHRIZjFqd0tpYWNBcHNvdDZGRTVhR1Q5QkRuUjdOMkdhbUd3SGMwYXRtaGl6TzBjMHBET1IwYjhKQWhfRU5YU21QMlJPeW90bWc2V3hQUXJ2eThZcHd1MjNXQjF5cWRwSmZsV0hiallOMk5DZ0tEakpxZFpVLVhvX0M5U1YtUE9jMDNrZURHa3NzNXp0cEYxbUJmdXg2TVg1MVBoYkZtbFZXRExFNVBnQXd1REIwaTlfNkZkcV82Vzdlc19xZUxHLVJIUEFhcFQ3SWVtVHVxZmdCUGZjUHNMcEdRWTBUV3J2VUJZNzkzQjZ5bHQwQnJ4RDJ0dG1ka2F5d3hJWmVIMUQ0NU9QdVUxUDlOS1FfWk5CU1pDRDNJd2ctNXlBVnAtY2dvYkxNQ09qYV94M09ubDVHdFBrakNTckkyMWxnemowa1p2NjVmNktqZ0tpQV84VzdCWDh3SW1HdjBVY1otYkhDM2ZzNnc?oc=5>
 
-### 鲁比奥一句“别回头”，特朗普：这画不错，我要带走
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-08 23:51
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE81V2JjazBtSkNpbzNHRndGVEVlNy1qWHpCZ2lVcWdub3B4ZDZEQTZBY1pUaUJCTEoyVEZlWnhkaEh0WlVLRTUxVkY0dm4?oc=5>
-
-### 特朗普重启解雇美联储理事丽莎·库克的行动
+### 北美防空司令部出动F-16拦截特朗普高尔夫俱乐部附近两架飞机
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-07 22:32
-- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxPZl92ZWRhNUl0amF0M0JUa1lRUExHbnVKeVFnbTFrdmtMcDlzaXh3ZjAyeHN0Q0kzNmY3Q0t0al92Z0dmeU4xVlYyTVpqeHJKS1ZqMF9jNVlWVXp3VmN5YUNkUWFqcFg1MHR4MXRZcGJZc2h6UXJIdTVtNWtrNlVZNC0tOTBIQXZ1bmZNVnVKaw?oc=5>
+- 场馆: 中国网新闻中心
+- 时间: 2026-08-09 23:30
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE1DWkp6SkFXUmEzcGtnejBVdDB0LWZzSHp5VC03dnhBdWtrNWF3YzlZMDQ4Y1dMWUZ5WWN3enJjV3hLYzA1blQ4bzIxNWpHWEtmR3VpOG4zelJDZExsUkViU1JpLWtQQ0hiSlJR?oc=5>
+
+### 内塔尼亚胡：以色列拒绝特朗普的方案
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: video.sina.com.cn
+- 时间: 2026-08-09 23:46
+- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxPMjRkVVBWMWpqSndSR3NNUWdMWGh0Z3RxeDgxNDRZNks2VVlSdk5GT3VWX1RxTFFtcDZoLUhmY0VFbG1EREFLM0tBM2lFTUVLUWxwR2VDdEJUMUNQSkVPRWxFWEp0OVhDZnd3SmdDMkJ5bU51azVLZ3VNTk9xT3lNQUtn?oc=5>
+
+### 以色列拒绝接受特朗普加沙和平计划下一阶段方案
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-08-09 23:32
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxOOHUtaTNzYm9tOGx0ZFZnR0Vfdk5zb3FkZnVheFBRbFhwNFVWbTlxdzNLS2VqU1BMUTdHUVFKbjBWRDJFY0pfcDBHeXdsSDEzVnkyLVhwOE40Z2FPT1NBX0R3bmZyU1A3c1lHTHEyUGdFdk45dmlxLVNCaWtxNmlXVGUzcW9FUzhoTkpydQ?oc=5>
+
+### Trump回应伊朗追加要求：“低调应对”……以经济施压代替攻击- 阿视亚经济
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 아시아경제
+- 时间: 2026-08-09 18:51
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pSWVwcGlmNjd4MUJjSzduZUNOa1gwb2UxQ19OODhiV014M1pTQ3ZSSEpXal82aVVwRlVKdldhOVVyTlhqekxkaW1CNF9ETFRReHo2ZGlQMnZ1aVp6M3dGam04eUc?oc=5>
+
+### 特朗普突发重磅表态：“我们正在低调处理”伊朗问题！释放对伊重要信号
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 搜狐网
+- 时间: 2026-08-10 00:50
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMDluU1RaSW5rLWhubzJ6YUc5YlQySHhQQ1BwWTRNQi1obzFRSXIwSG8yMF9MZXlvMDltdUU5TTVrUlY0TlFFTEhyN0pFM2M1enJaVndCdm1VSndfWVlKMXN4S1R6dEhLaFBmaGJqTnRYWlJPZ0F6LXVzQ2NyUkxXZVpSTHlSTjBL?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-10 01:14  (6 条)
+
+- **特朗普** | 要闻解说 - 不服最高法裁决，特朗普再签新令限制出生公民权，尤其严打赴美生子 <https://news.google.com/rss/articles/CBMinARBVV95cUxNZ3dkVE9PUXVBcVdmVXg4MnFBeTltLS00TmVUeUNTUUxvR3pmSzlvbXF4d1JIZGR6cjZUSkJCdTQ4RnNNT0dOYVREaFZlbEhiVjBKZEZPZS1XLVVWbG1jTll2TnNqdm1zOE5lQnQ1TDBoRDVOblk4MGhhNXc1TmxCQmY2b1FtRkNOUDZoVUM5dU5BVU16dXBUSTRCR3lxbWRPUmZKRGdvNTRrOWZPNnNZUEc3bVhfcHRIZjFqd0tpYWNBcHNvdDZGRTVhR1Q5QkRuUjdOMkdhbUd3SGMwYXRtaGl6TzBjMHBET1IwYjhKQWhfRU5YU21QMlJPeW90bWc2V3hQUXJ2eThZcHd1MjNXQjF5cWRwSmZsV0hiallOMk5DZ0tEakpxZFpVLVhvX0M5U1YtUE9jMDNrZURHa3NzNXp0cEYxbUJmdXg2TVg1MVBoYkZtbFZXRExFNVBnQXd1REIwaTlfNkZkcV82Vzdlc19xZUxHLVJIUEFhcFQ3SWVtVHVxZmdCUGZjUHNMcEdRWTBUV3J2VUJZNzkzQjZ5bHQwQnJ4RDJ0dG1ka2F5d3hJWmVIMUQ0NU9QdVUxUDlOS1FfWk5CU1pDRDNJd2ctNXlBVnAtY2dvYkxNQ09qYV94M09ubDVHdFBrakNTckkyMWxnemowa1p2NjVmNktqZ0tpQV84VzdCWDh3SW1HdjBVY1otYkhDM2ZzNnc?oc=5>
+- **特朗普** | 北美防空司令部出动F-16拦截特朗普高尔夫俱乐部附近两架飞机 <https://news.google.com/rss/articles/CBMia0FVX3lxTE1DWkp6SkFXUmEzcGtnejBVdDB0LWZzSHp5VC03dnhBdWtrNWF3YzlZMDQ4Y1dMWUZ5WWN3enJjV3hLYzA1blQ4bzIxNWpHWEtmR3VpOG4zelJDZExsUkViU1JpLWtQQ0hiSlJR?oc=5>
+- **特朗普** | 内塔尼亚胡：以色列拒绝特朗普的方案 <https://news.google.com/rss/articles/CBMiggFBVV95cUxPMjRkVVBWMWpqSndSR3NNUWdMWGh0Z3RxeDgxNDRZNks2VVlSdk5GT3VWX1RxTFFtcDZoLUhmY0VFbG1EREFLM0tBM2lFTUVLUWxwR2VDdEJUMUNQSkVPRWxFWEp0OVhDZnd3SmdDMkJ5bU51azVLZ3VNTk9xT3lNQUtn?oc=5>
+- **Trump** | 以色列拒绝接受特朗普加沙和平计划下一阶段方案 <https://news.google.com/rss/articles/CBMijAFBVV95cUxOOHUtaTNzYm9tOGx0ZFZnR0Vfdk5zb3FkZnVheFBRbFhwNFVWbTlxdzNLS2VqU1BMUTdHUVFKbjBWRDJFY0pfcDBHeXdsSDEzVnkyLVhwOE40Z2FPT1NBX0R3bmZyU1A3c1lHTHEyUGdFdk45dmlxLVNCaWtxNmlXVGUzcW9FUzhoTkpydQ?oc=5>
+- **Trump** | Trump回应伊朗追加要求：“低调应对”……以经济施压代替攻击- 阿视亚经济 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pSWVwcGlmNjd4MUJjSzduZUNOa1gwb2UxQ19OODhiV014M1pTQ3ZSSEpXal82aVVwRlVKdldhOVVyTlhqekxkaW1CNF9ETFRReHo2ZGlQMnZ1aVp6M3dGam04eUc?oc=5>
+- **Trump** | 特朗普突发重磅表态：“我们正在低调处理”伊朗问题！释放对伊重要信号 <https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMDluU1RaSW5rLWhubzJ6YUc5YlQySHhQQ1BwWTRNQi1obzFRSXIwSG8yMF9MZXlvMDltdUU5TTVrUlY0TlFFTEhyN0pFM2M1enJaVndCdm1VSndfWVlKMXN4S1R6dEhLaFBmaGJqTnRYWlJPZ0F6LXVzQ2NyUkxXZVpSTHlSTjBL?oc=5>
 
 ### 2026-08-09 23:34  (4 条)
 
