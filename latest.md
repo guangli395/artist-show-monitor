@@ -1,40 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-10 12:06**
-- 本轮扫到 9094 条, 新增 **3** 条
+- 最近更新: **2026-08-10 13:52**
+- 本轮扫到 9096 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (2 条)
 
 ### 乌克兰想自产“爱国者”，特朗普表态前后不一
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: news.cn
+- 场馆: 新华网
 - 时间: 2026-08-10 11:49
-- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE12eTR6Ry1pQnEwRkxjcjRVWDYyT0FVM3J6aXF5RV9sSkgxa0hWV21BaFFUR3daZ1NPeTlGLUV2ZWQ2VVlaREJISzN4SXQwcF9HT2ZSVDhLRFhjclo3OC01aFdjdXZkbmlsSVJaODF3ZXhvN1p4Y21QY21WblVodw?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE5WOWdjcS13d1dzMmRFWHVsYllvUHVQLXRocXYybjB6RzRGUzlTVjBhR3FuYVBzdWpVRWw3SEJIVmxtV2JiQWZBTVBxei1aMTRFa3VuSWkzaTBYRnNMME9tYXplbzZXOVkwLURVRldfVlhJa0VWaGRyWHowZFI4MGM?oc=5>
 
-### 海湾开发商重金冠名 特朗普海外品牌授权业务营收飙升至5950万美元
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-10 11:14
-- 链接: <https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRWNTREVudFFaTXo0RmhFems1VGkyWDN4c1hqNURES0ttbHhaSWNIRVU2LWJDYm1wX2tsVjE0RkxPLWVnZnlWWFotZkYxTkM5cnN3UDdyMWxWRFpmV3BFWVhWTjE1UkpkcFkxUUFzMUxFcXZJZlRFRklSVml5LUdiemxwUmJkWHlTbnNybUItWm4zTV9vNmNLN3hhQW1JT25VLTZNZnNJRHRJa1NJRWtnYm5yVlh1eDhoLXJSMXBSb0c?oc=5>
-
-### 内塔尼亚胡拒绝特朗普加沙计划，白宫回应：“理解比比的政治需要”
+### 特朗普公布新任总统助理人选
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-08-10 11:54
-- 链接: <https://news.google.com/rss/articles/CBMinwFBVV95cUxPM3JWWUdLeXhDMHRSbld6Wi1qS0tyZzNJSExRX1ZTb1ZOd1ByeDN4RmNxSDNVX0lhMk14c3VZYnVRb0IwU3l6b2g5STV1azdtRXQtMnpDQkxZX2lUZXgwY1VmTFpvU2JCQ2kwdjFSTldNMklvOG9XbGhYSkdUTzdCXzBBVWEtaXBhbjZwclZBQjJFbUN1Q3lOckg1VWQ0eHM?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-08-10 05:17
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE05azRWOXBmbjNkVFNFaUNDcm5pQlMycmQ5S1hwVG5VM2NUUE9JUXJZNVptX2dTcXI3bEd0RjF6bkxURXd5eHd6S3MzTzU?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-10 13:52  (2 条)
+
+- **特朗普** | 乌克兰想自产“爱国者”，特朗普表态前后不一 <https://news.google.com/rss/articles/CBMif0FVX3lxTE5WOWdjcS13d1dzMmRFWHVsYllvUHVQLXRocXYybjB6RzRGUzlTVjBhR3FuYVBzdWpVRWw3SEJIVmxtV2JiQWZBTVBxei1aMTRFa3VuSWkzaTBYRnNMME9tYXplbzZXOVkwLURVRldfVlhJa0VWaGRyWHowZFI4MGM?oc=5>
+- **特朗普** | 特朗普公布新任总统助理人选 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE05azRWOXBmbjNkVFNFaUNDcm5pQlMycmQ5S1hwVG5VM2NUUE9JUXJZNVptX2dTcXI3bEd0RjF6bkxURXd5eHd6S3MzTzU?oc=5>
 
 ### 2026-08-10 12:06  (3 条)
 
