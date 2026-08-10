@@ -1,32 +1,53 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-10 06:49**
-- 本轮扫到 9083 条, 新增 **2** 条
+- 最近更新: **2026-08-10 08:22**
+- 本轮扫到 9087 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (4 条)
 
-### 美国将向关键矿产领域投资30亿美元，以增强国防供应链，降低对中国依赖
+### 蔡徐坤演唱会也会戒断，呜呜呜毕竟这么幸福的时刻！真的很难戒断
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-08-08 06:37
-- 链接: <https://news.google.com/rss/articles/CBMi4gNBVV95cUxQLUY5M0I3STEyd3k0SVQ4UHlBd01fcU9UcHN0NUVkc01rQ0hJNFd3TUVaTGYwRXFZTDI4TUJ3M0EyZ1VuZWNoWGRmY0ZiT0J5RTZlUFhPMXVDNVJlV3VCVkxaS1ZSWE5PRzJicHFkbDZ2eExDdXBZVGRoYlVYbXdaUEg0bG1LUGlnRFRYR3d6N3B4TXBGWGNadkRvc1VpZ0l3dzFsc3BMNUVKOUc4RjhhbmNwSFdvOWVXYjJtT1RZV1FoODd4SmtONW9OUVlhazQ4UEJFcjJKNG9uclFvLWtPekEwZURGS1gwdjB1bHdnV0h3U251a0lJUF9hclJmVXJXVXowa2RYZk9rVmQyYi10b3dTSDZSRjJSVVNHMjJDSDFzZTRqVmhIZGZwbGxBcWtIWVlzY1BlemE2UDctNThVc2xZdmNneTVwOWtGM3RkVmo0aHhfallFOEdFMVctVGxJRkVJSG90Z3VZdGcyeUNRQXZEV2xZeDlhUUEzU1AxSm9adkNBLUJEVTRLcTc1SXotRUpjUFBIUmEtT29pNTFpaHlfdGkwc3BRTDFPRFRCZTJXM19zdkZHTzJFNkhSV245Z1JCQjAwVFo2bkd3MTJUb1dMNGZKamhIMlZYV0M5cThiQQ?oc=5>
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimvhfp8198998.html>
 
-### 不理最高法院裁决 特朗普再威胁开除美联储理事
+### 特朗普称正在“低调处理”伊朗问题
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-08-08 09:50
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9vNzVCcGhVcDZxX3hxMFU3R3pxNDVVY09QSVY5Sy1Ya0ZfMnlXenh6OHd1eHUtQzBlamZpUzNGSE44d0JIWE1PYzEtY1FMUkpNTDB4RzZydUVab1kzYk9XZGFmbDBLZw?oc=5>
+- 场馆: china.zjol.com.cn
+- 时间: 2026-08-10 06:45
+- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTE1IZ0phMU1iU2JzTUdSMFpDV0hvMDhSS3c5MU5MN1pwUUl4bUEzbEZ0aFQtYklZWjhrMjdzNnpMNzVScEs4UGxqeGgyRDhWd0lvYlJSV3M5cUpBbFowVkNPTm85dEE5OWNreGVrOUNB?oc=5>
+
+### 国际油价上涨，比特币站上65000美元，特朗普称正“低调处理”伊朗问题
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-10 02:15
+- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxPV2ViY1JxZEVtQmNoaTFTTHdWVVktdE1ESF90dFlQQnluZnoxbEYzVFF6a2FCcUtvaEpObEI4aWVWcmswaktpbEV0ZHdsSy1tOVA4N1h6T3Y0TWpoVFMzSFZ5UDB0S3A3MnFSUG50MEE5WWxfdU9pblk3dmJMV2d3TnNLcm42QTdxRXZ6WDJTR3BUR1c2XzVORQ?oc=5>
+
+### 特朗普重启解雇美联储理事丽莎·库克的行动
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-07 22:32
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcThfVVJ6VVV1SHZ5eGNrZENoOU80Wm95MzF5REo5dzJUY0Rna0hPVThyR1hQYkxrQXp3dVpSSDNOODV3NkpWb0dWNjZaOTlNcUxYUkFLRHo2Rk1kMXN6dmdhTURxb3VyUHlZdzMwWm95cmNZVmRXRHgtWWt4NnNtcFlFRUhLTU1GLWE4RFEtSFltNDNIM1c4VElUd1hkQk1BdDlUQVd4RTYxTVFxN2NlNmJqVXp1WE5GeGlYRDJLNmZmRnlWcnBkczM0OWhmcXo3?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-10 08:22  (4 条)
+
+- **蔡徐坤** | 蔡徐坤演唱会也会戒断，呜呜呜毕竟这么幸福的时刻！真的很难戒断 <https://www.sina.cn/news/article/nimvhfp8198998.html>
+- **特朗普** | 特朗普称正在“低调处理”伊朗问题 <https://news.google.com/rss/articles/CBMibkFVX3lxTE1IZ0phMU1iU2JzTUdSMFpDV0hvMDhSS3c5MU5MN1pwUUl4bUEzbEZ0aFQtYklZWjhrMjdzNnpMNzVScEs4UGxqeGgyRDhWd0lvYlJSV3M5cUpBbFowVkNPTm85dEE5OWNreGVrOUNB?oc=5>
+- **特朗普** | 国际油价上涨，比特币站上65000美元，特朗普称正“低调处理”伊朗问题 <https://news.google.com/rss/articles/CBMimAFBVV95cUxPV2ViY1JxZEVtQmNoaTFTTHdWVVktdE1ESF90dFlQQnluZnoxbEYzVFF6a2FCcUtvaEpObEI4aWVWcmswaktpbEV0ZHdsSy1tOVA4N1h6T3Y0TWpoVFMzSFZ5UDB0S3A3MnFSUG50MEE5WWxfdU9pblk3dmJMV2d3TnNLcm42QTdxRXZ6WDJTR3BUR1c2XzVORQ?oc=5>
+- **特朗普** | 特朗普重启解雇美联储理事丽莎·库克的行动 <https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcThfVVJ6VVV1SHZ5eGNrZENoOU80Wm95MzF5REo5dzJUY0Rna0hPVThyR1hQYkxrQXp3dVpSSDNOODV3NkpWb0dWNjZaOTlNcUxYUkFLRHo2Rk1kMXN6dmdhTURxb3VyUHlZdzMwWm95cmNZVmRXRHgtWWt4NnNtcFlFRUhLTU1GLWE4RFEtSFltNDNIM1c4VElUd1hkQk1BdDlUQVd4RTYxTVFxN2NlNmJqVXp1WE5GeGlYRDJLNmZmRnlWcnBkczM0OWhmcXo3?oc=5>
 
 ### 2026-08-10 06:49  (2 条)
 
