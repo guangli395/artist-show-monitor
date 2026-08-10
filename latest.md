@@ -1,30 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-10 09:55**
-- 本轮扫到 9089 条, 新增 **2** 条
+- 最近更新: **2026-08-10 11:02**
+- 本轮扫到 9091 条, 新增 **2** 条
 
 ---
 
 ## 本轮新发现 (2 条)
 
-### 周杰伦喊话刘畊宏：淘汰就来我演唱会当嘉宾
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimvnpi1254447.html>
-
-### 特朗普任命威尔・沙夫出任白宫法律顾问
+### 特朗普支持率低迷 共和党失去经济安全领域优势
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-10 09:22
-- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYU43akEtcEtncnBpYTF1ZkZiZ3k3bmlKQVUzYUtXWWt3V3haOTZMZzNJSGRLZnk3NEJyMUFyTmJSaWZyejhPTUc1R2gzRVJ2NFAtQWlBYlJFV1U1eGpLNDEzaVNKb3JQX1ZrN0Q3bFc1Vks1S0pMRlBQRXNRVGpUaVlVemZfTTl0RFRXMlpZV2tzdXVINmYtY0ZSMzF4czFOcFREajhJelZIdw?oc=5>
+- 场馆: 联合早报
+- 时间: 2026-08-10 09:23
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9YZldwVC1xM2RUUjB0UWdld3h4QmFBd25IN0pyeHNoaTFWc0w0TmlnMGFmelBrY2ZiY2ZkMUVyNC1uOGFTYkx5REdwWUxwN2JmanpIZm4wZnFoOUloazFsZzFOM3lYRllScnc?oc=5>
+
+### 伊凡卡泡汤辣晒比基尼!结婚17年"公主抱激吻"放闪
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 文学城
+- 时间: 2026-08-10 10:52
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVQmhuWWV2cFdyRGRTWlQwVnMtOEtSenBoUW1HaDNOSVpoXy1zMi1lYktvNjA3bWZyUGwzejR2eVlxWU9IOVYtdE5JeDRoNk0wa2F3Qm1DdTZpTDNsQ2hhRWYtTlhnRmQ0?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-10 11:02  (2 条)
+
+- **特朗普** | 特朗普支持率低迷 共和党失去经济安全领域优势 <https://news.google.com/rss/articles/CBMiakFVX3lxTE9YZldwVC1xM2RUUjB0UWdld3h4QmFBd25IN0pyeHNoaTFWc0w0TmlnMGFmelBrY2ZiY2ZkMUVyNC1uOGFTYkx5REdwWUxwN2JmanpIZm4wZnFoOUloazFsZzFOM3lYRllScnc?oc=5>
+- **Trump** | 伊凡卡泡汤辣晒比基尼!结婚17年"公主抱激吻"放闪 <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVQmhuWWV2cFdyRGRTWlQwVnMtOEtSenBoUW1HaDNOSVpoXy1zMi1lYktvNjA3bWZyUGwzejR2eVlxWU9IOVYtdE5JeDRoNk0wa2F3Qm1DdTZpTDNsQ2hhRWYtTlhnRmQ0?oc=5>
 
 ### 2026-08-10 09:55  (2 条)
 
