@@ -1,24 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-10 18:47**
-- 本轮扫到 9115 条, 新增 **1** 条
+- 最近更新: **2026-08-10 19:50**
+- 本轮扫到 9119 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮新发现 (4 条)
 
-### 特朗普称要向伊朗索赔
+### 90票赞成6反对，特朗普遭21败诉总统位岌岌可危
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-10 16:35
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5EdWxEdTlweVItRWRPZW9pVmg1X3JzQmhGM3VtVkxnbzhPNzZHNk0zS08zVTkyZ3ZVa3MyX01INFFlS3Ezc0dEMmxEM1E?oc=5>
+- 场馆: 手机网易网
+- 时间: 2026-08-10 16:54
+- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ZS2dfR1F4UUNFZHFOVmZPR0VwVzgxOWRSNWxuN0taS3ZjQTVGVVNnY3BmSE9tTkJEZjJ4QXUxVzZJeHpYZlQtay1GSGtzUXBPa3R6MXFyYldfX05DTmhZaTl3?oc=5>
+
+### 特朗普谈伊朗：你们很快就会知道了。
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-10 19:24
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFAwQndhT2l3QjB1VG9XZ0lsR1lLRjFnVThDWENZYXlwazYzcmZGMlJQUUlHVVlWNGdsdDJMOUNYejNlcnhzNTk0QnhCdw?oc=5>
+
+### 白宫官员：特朗普延长《琼斯法案》豁免并附加部分限制条件。
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-10 17:10
+- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wY2NmWVJwVlBZal9KQ1VIWEx2Wl9jLWJnSHVlQ3EzVUZtTXZxb0VFMFdKMHZidHFZV3M1M1Zia2pwdGs1dGM5VTZETmtoMGs?oc=5>
+
+### 特朗普要求伊朗赔偿
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 东方财富
+- 时间: 2026-08-10 18:33
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBsTjFETjlUTWcwM1N1Z0JGRWJsZzM1Yk9zdUhZZEsxSkhaNnZXdXUzT3pLNHZIOHJUSGkwUUxyUjlvRmUxQWZpcnAxOVpUVm4tcndHUk0tTUlESUxoWmloWA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-10 19:50  (4 条)
+
+- **特朗普** | 90票赞成6反对，特朗普遭21败诉总统位岌岌可危 <https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ZS2dfR1F4UUNFZHFOVmZPR0VwVzgxOWRSNWxuN0taS3ZjQTVGVVNnY3BmSE9tTkJEZjJ4QXUxVzZJeHpYZlQtay1GSGtzUXBPa3R6MXFyYldfX05DTmhZaTl3?oc=5>
+- **特朗普** | 特朗普谈伊朗：你们很快就会知道了。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTFAwQndhT2l3QjB1VG9XZ0lsR1lLRjFnVThDWENZYXlwazYzcmZGMlJQUUlHVVlWNGdsdDJMOUNYejNlcnhzNTk0QnhCdw?oc=5>
+- **特朗普** | 白宫官员：特朗普延长《琼斯法案》豁免并附加部分限制条件。 <https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wY2NmWVJwVlBZal9KQ1VIWEx2Wl9jLWJnSHVlQ3EzVUZtTXZxb0VFMFdKMHZidHFZV3M1M1Zia2pwdGs1dGM5VTZETmtoMGs?oc=5>
+- **特朗普** | 特朗普要求伊朗赔偿 <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBsTjFETjlUTWcwM1N1Z0JGRWJsZzM1Yk9zdUhZZEsxSkhaNnZXdXUzT3pLNHZIOHJUSGkwUUxyUjlvRmUxQWZpcnAxOVpUVm4tcndHUk0tTUlESUxoWmloWA?oc=5>
 
 ### 2026-08-10 18:47  (1 条)
 
