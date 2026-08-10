@@ -1,64 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-10 14:52**
-- 本轮扫到 9102 条, 新增 **6** 条
+- 最近更新: **2026-08-10 15:54**
+- 本轮扫到 9105 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (3 条)
 
-### 特朗普：在和伊朗进行“半谈判”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-08-09 22:57
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9Cc2pMVzIxTUhPdDU0UG5NNjdCQm1GaWpGZFQ1aW5zRzBsTGl5bTZIMjZiS1lIaWlVZTlUWjFuakEzNzRMZGdMUmF1WFo0ZHpfeFBfVFlnend4T0wxSFBicl9HeDhVWDZ2MVE?oc=5>
-
-### 特朗普支持率低迷 共和党失去经济安全领域优势
+### 内塔尼亚胡拒绝特朗普加沙计划，白宫回应：“理解比比的政治需要”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-08-10 09:23
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE83Zno4bUE4X2pWbE05REZjUXNNZnlFcGllbzhxSkRNazExc09VQXE5SzA2NWFvTGlsamJBdkxCVGZEVWg4YWluQVpvbTMteDB5LXkxcTFCZmtRSVZPcDVXWENnZTBqdw?oc=5>
-
-### 内塔尼亚胡对特朗普说“不”，白宫回应
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: QQ News
+- 场馆: 搜狐网
 - 时间: 2026-08-10 11:54
-- 链接: <https://news.google.com/rss/articles/CBMibEFVX3lxTE94OFloMTBReTFQSDhrNWFsN3Qwdk51LXNvbER6NzVYbmoxQjR3WDZQaXZiMXlMckxFU3VYaEpPZmMzVjI3cTc4dnJyd2lvY1hlSlk5TXZIM0w1VlFOUUttbW5BZ2sxWS1rWHdZcA?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMinwFBVV95cUxOV0VPdFdrVWpGdVRxUkdRQmZCVzFtcEdxZDZHaHRhMHR5M1l6RFRpYl9fSjJ2Zkw2azVVSng4cjg3Y0FoaFVzREpWbnN6N3Bmdk1IZ0c5OE5vbEd1RmVlVkVTc21Ubm5ZOFpRUDFBVFRjZEIxRHhheFdaWkpRYThfbzBfanNwaVVNbVpCQWgtMGVWZVFqSG1MVFN2LUNLSlk?oc=5>
 
-### 特朗普经济政策遭遇质疑，选民评价较首任期同期大幅恶化-市场参考
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 金十数据
-- 时间: 2026-08-09 22:50
-- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE9uTk12ZVFqVGZLZGxtazQwU0Jocmxpb3NlY1ZEV1ljb0ZvWERpMTRfOXJkQzdZa0txcksya2lKOWFDWWI4Wl93OGhIR2tPcEU?oc=5>
-
-### 鲁比奥一句"别回头",特朗普:这画不错,我要带走
+### 特朗普公布新任白宫首席法律顾问
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 文学城
-- 时间: 2026-08-09 11:38
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5fWGZwNWdDM2RROEdvb2lDTFVtaGxyYXpnUHFORDdzUDJ6ci1CMTZPZjNoZk1pU1VNeUtNWWQ0NjFrVkNmd05xSk1WanVRQ3BWSGNVMVp4bXhfVFdYbG1vZlVsVjM4c3pQ?oc=5>
+- 场馆: chinanews.com.cn
+- 时间: 2026-08-10 03:07
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xeERhNXVYSXNxeG9WcVlFLXRMU2x5V0N3UTJKbjZNMGZJRWRXbkdhMFRiTjhfX0cxVWIzZVZtQTM5REtZUHNYU2EwMmhtRGg1ZlV6c1pVUEVOZ3B1c2xrNHJ3LUQyWlJz?oc=5>
 
-### 霍尔木兹海峡：伊朗向特朗普列出通航的六项条件
+### 第454天：降息 +特朗普2.0 第566天
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-08-10 06:40
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5tR0JuWFZnVnJpVUFLNExjUWUtV2wzaXVfc05XRy1tWlJ4LTlWRm43ZWlOd0RXeGE4eFVWQWJXSENWOWp4VExXT0xRZWxkSnlWVk1EQVZDREUwX01jeUFiVjF1OFBYZ9IBa0FVX3lxTE9QNGtEQUtvcG9JSnhiN29OUEtZRnpVV0ZTWHRSX1E1d19aTEc3SUlsRDNPRmRmRTd1YWNyYlRzYzBTcnVtOC00M2tHekZmdUwzOTFXMThuYUswNnBoQnNnNDdyOGNGVFc5Y0Vv?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-08-10 15:01
+- 链接: <https://news.google.com/rss/articles/CBMimgFBVV95cUxPU09ESmlZMnJNbHMxN2dSZ3VvQURseHVxYmMwQjI1SGN2eTlKM2xZdVprS0NBbXRYcHZWckxvajVpUk1VeFR2dEJjeEhaU2Q3T1JaWnl4UGtOaWNQVmNjQUJYeWVabTMwdG5WZ2J4T1pRVXBiX1dIZE1pT3NnS1BqQ0FxdG1TQ1BLUE9qblB1Q1VRbk9zOUI0TkF3?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-10 15:54  (3 条)
+
+- **特朗普** | 内塔尼亚胡拒绝特朗普加沙计划，白宫回应：“理解比比的政治需要” <https://news.google.com/rss/articles/CBMinwFBVV95cUxOV0VPdFdrVWpGdVRxUkdRQmZCVzFtcEdxZDZHaHRhMHR5M1l6RFRpYl9fSjJ2Zkw2azVVSng4cjg3Y0FoaFVzREpWbnN6N3Bmdk1IZ0c5OE5vbEd1RmVlVkVTc21Ubm5ZOFpRUDFBVFRjZEIxRHhheFdaWkpRYThfbzBfanNwaVVNbVpCQWgtMGVWZVFqSG1MVFN2LUNLSlk?oc=5>
+- **特朗普** | 特朗普公布新任白宫首席法律顾问 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xeERhNXVYSXNxeG9WcVlFLXRMU2x5V0N3UTJKbjZNMGZJRWRXbkdhMFRiTjhfX0cxVWIzZVZtQTM5REtZUHNYU2EwMmhtRGg1ZlV6c1pVUEVOZ3B1c2xrNHJ3LUQyWlJz?oc=5>
+- **Trump** | 第454天：降息 +特朗普2.0 第566天 <https://news.google.com/rss/articles/CBMimgFBVV95cUxPU09ESmlZMnJNbHMxN2dSZ3VvQURseHVxYmMwQjI1SGN2eTlKM2xZdVprS0NBbXRYcHZWckxvajVpUk1VeFR2dEJjeEhaU2Q3T1JaWnl4UGtOaWNQVmNjQUJYeWVabTMwdG5WZ2J4T1pRVXBiX1dIZE1pT3NnS1BqQ0FxdG1TQ1BLUE9qblB1Q1VRbk9zOUI0TkF3?oc=5>
 
 ### 2026-08-10 14:52  (6 条)
 
