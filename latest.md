@@ -1,40 +1,82 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-10 20:34**
-- 本轮扫到 9122 条, 新增 **3** 条
+- 最近更新: **2026-08-10 21:35**
+- 本轮扫到 9129 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (7 条)
 
-### 特朗普任命亲信沙尔夫为总统助理兼白宫法律顾问
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-08-10 08:49
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5vUDl2bjdNSFQxSFhpQXVQaVFZWWlpWnFjMVJSUUhObGtEa09xTjU1ek9zaWF5c2JtOWtIenhqWW5TWEM2UWFnWDJrYWVQT2JJZDV2cW84Y2dfZk9sVG9ROVd4Vy1PQQ?oc=5>
-
-### 美战机拦截多架闯特朗普高球场禁飞区民机
+### 特朗普总统要求伊朗支付赔偿
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-08-10 05:33
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9CekZrOUNURHIxZ081Rm9EdHNVZmRvWk8zOTByUUNYZnB6cWJWZ244VHFnZUZxQjlhenBaZXNVRmplU0FSb2tUUnBkSGh2YWt4d2RJZEUtZzJvb3RKNUhqYUpqVnFHNTZoalE?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-08-10 20:45
+- 链接: <https://news.google.com/rss/articles/CBMingFBVV95cUxOQkxONDE1WTM1VXZNOTNxM0EzaHZaZ2pmSjNUd2lfYVJFdWtoMFdQOFZhWE5jMXZvVWQtRUNLaTVrT05GaGpNN1hyNXluc0lvLVdBamRnS3phNWczR2lIMDFueFhQX2RjZ25XZHRYTXAtdkR1UlFfSFdla3VNSGtlYXJsYm1udnZRY1FLcG5XMnBOQTRIVWFMUDl4bDR6UdIBoAFBVV95cUxQM2pNeUgzWDAwSGZ6TkhSMFE1V2xpcWFFSUJyUFlfbnFZV1FyMDdQTW5RSWdLRDQwenAxYV9DYllPN1pFSjVzckFYSHhteGM1UFJJZDRoc09sOXMybGJrdUVuR3o0bjRKMVVmWTdvcVR5Yk83NzAtRmxfWmFUb0pEejdfSEoxR0xDdVlRTjBhUVlhQ0lXanBzSnVEeFdTTE1q?oc=5>
 
-### NORAD intercepts 2 planes violating air space near Trump event
+### 特朗普淡化与沃什接触 美联储独立性再成焦点
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-10 21:10
+- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUXVDLXlrRnFndXV4YmdCVUlUUEJsMzd3UklBM0lOeFhoTjlsNXRUblcxT3JiNzZWR3AtRXBoMDFrNEpLeDBDcm9yVzA2bnAyZTFkbXBSUklvLUNiWmlMMkE0alB4Ui1GZjlRbzlhOV96anhXNlpjRDhIT0twanU1TURGXzNtRnhsc1NtTDdrYlBEWF8zUktVcm1heE5FcTBZa0ZVVjR0Q0NQUQ?oc=5>
+
+### “特朗普关联”油企擅运钻探设备上岛，格陵兰强烈警告-观察者网
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-08-10 15:07
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9aNk4xRERZcTdNaHRqa1dmOXhBc1g2Zll2azZwQkpXczdLOTUydEZPNTFZRGRseW9ta0FkZl9CMTBiM2ROLW9FOXVfczUyZm9iX2pyOWg4SkZhZHJwaHdVMGU0eUV6WGU0b0E?oc=5>
+
+### 内塔尼亚胡拒绝特朗普支持的加沙和平方案
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: DW
+- 时间: 2026-08-10 10:42
+- 链接: <https://news.google.com/rss/articles/CBMirAJBVV95cUxQTGN1bEtoU09jXzJoV3VhV3lSX3VMZzRfVlpNREpoSENTM0FteTZsVTg1T1VPSG5mOHhiQ0xTNzZlYjRHNy1HWV9qSy1pb0pIbUZJNU5KSXhQMjdBVmtSMHZ5NXV4Zllya0VzWlp3V182VGlPZU84ek5xRmFqOTBKYlVnNnFnWUQ5djJtVFBBckItRWFMaDh3QUJ6cTl2a0hPeks3MGpFdkM2dVk0cDN5eUE5UjJISkZSLVJzYlQ2Z0oxbmlFVFB2ZDJLUVdubktFdHI1cHZkc2RXZk1ZaV9TR1I2SWZrdk4xa1pTb05jaWt3UE5WS04zZS1pSFhnNjEyelhDR18wSmhFOW8yQWNCZTJhX3lBOUFGdU9ERDRNMTNfTk1qWXdNdEVzWELSAawCQVVfeXFMTjkwRzEwc0pwbEx5M0RhWkhIVkRkb1BidXVDNi1qaFJ5T0ZkLXh5NkdHMTRQQTJIZUNwdGdjVnFlMXRfemYxQ1JnQmpTam9KU2IycXNhdXpNWnk2Sjd4c05MR0tzV2ZqSE5iRHJERUNhUFhRYy1hZTRjbS03NnhZZWZHUjIyOGxUaVVoZXBWR1dQUzBmZVFvYm9TelRYQzh2VnA4Y1Fpc0xBalY3bGFzVUxJM1FwREV1dFVpZENIdmRjdlU3X2dwcmNzbmtaMFJhM2FlNnZ3YkJKNHpUT0hjZTN2c2ctRDd1bmhhVl9vVkdxYjk5bFRvbTVFdXBPbEtOVXVUZm1TY0JOaWE4NHR5S2V2NHJjcEZDYVYtOGs0dHg1NGFVZkNZQUVpV2Et?oc=5>
+
+### 内塔尼亚胡拒绝特朗普的15点加沙计划，称在哈马斯解除武装之前不会撤军
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-08-10 16:30
+- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxNOWNmYjU2X1Rkd3E1TU5BeWZMODdOQjdEVTNLNUR0T3E2TlNTNzE2aXFKd1hjZjRjMUxxc3Bsd3ROWm51M2VQQnBZSkZBbzhJaHJaMlhwSlpLYnhLQzk0YTdLM0NEcVktNkFfQlE4OTV2SGRuVFpqRmktVGFDQVNNWFhaN240WW96SnhkOG5Jbkp1aVY1aXVtNWtjSENGOHdaS0dIcXk0dElDallvNkdWd1cxYnJ0WmtScXRWTVl2TFJoemZiQWtNZ2s2RDlENTA?oc=5>
+
+### 特朗普媒体公司的比特币持仓缩水，加密货币亏损达$3.61亿
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: TVB
-- 时间: 2026-08-10 04:27
-- 链接: <https://news.google.com/rss/articles/CBMijgFBVV95cUxQLWdyaVhMU3FJMWEyZFRBcGJpY2JkVzNzRFpHR3J1aklLRWNnQk1rS1Z0YXpyZXZKSTRXWDBESDVyNFB2b0NOZmVlVGFKUFM0Wlo3WmkwM3I5Vk5FRl95SWUwUk5LMGZ4V0tMZnIyR3V1R19rQ3Q5dzB1VXRoaV9FSnZSMTUtYzgwUkJORzd3?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-08-10 21:18
+- 链接: <https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdWdBODJSam5VejBDWTNBSC1uYWwyaU8yZmFNWEI0d0VlRUxxU25pN0VvbkhRcl9BY0ZDSjg2b3FEaXZibTNkU1IzX2pnNGIzR0dlT195MmJrM3dWNGtoMXprMzV2RUdZYVlzRVJwQlZrb0JTcEg4N2ZhRUhLN3pWRS1UNmtwN3lhSFpvWUVaNTRONXFVX1NHYzU0ZFJJTy03SktHaUJVd2o?oc=5>
+
+### 托德·布兰奇宣誓就任司法部长
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-08-10 21:14
+- 链接: <https://news.google.com/rss/articles/CBMilwFBVV95cUxOUUVTY0d5aUtiTGxQOURlM0tVekFwSURIU3J3aElZWDJWcFRJMnBqUjJ1ZHM4T0VGZmpkSmRFVVVQcE13d0xEM3lveHhRaFEtUXBRa0hBTXFJazFmZFZwY051QUE4RDdsanQzQmEwVlVZbW1kR0RwekJuU19ES180RkJFZUY0eTFHOHZIMnBDR1N3RXhNNWpj0gGaAUFVX3lxTFBvejJNai15bk5GQWxWQTU1RXRoczBWT3A0X3g0bjJuLXZEeE13U2x4eW9wdW96dno5OWMxTFZZWWF2UEUxb3laYndIbTlLMWdNOF9xb0pCWDhhTlVlQjBNT1hZMUZZb29jMnIyZGZyZXRONWgwVGZITm85VHNYMWVPb3RINnZOVlZKVTVDcWM5R1p5Ml9ST3B6eWc?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-10 21:35  (7 条)
+
+- **特朗普** | 特朗普总统要求伊朗支付赔偿 <https://news.google.com/rss/articles/CBMingFBVV95cUxOQkxONDE1WTM1VXZNOTNxM0EzaHZaZ2pmSjNUd2lfYVJFdWtoMFdQOFZhWE5jMXZvVWQtRUNLaTVrT05GaGpNN1hyNXluc0lvLVdBamRnS3phNWczR2lIMDFueFhQX2RjZ25XZHRYTXAtdkR1UlFfSFdla3VNSGtlYXJsYm1udnZRY1FLcG5XMnBOQTRIVWFMUDl4bDR6UdIBoAFBVV95cUxQM2pNeUgzWDAwSGZ6TkhSMFE1V2xpcWFFSUJyUFlfbnFZV1FyMDdQTW5RSWdLRDQwenAxYV9DYllPN1pFSjVzckFYSHhteGM1UFJJZDRoc09sOXMybGJrdUVuR3o0bjRKMVVmWTdvcVR5Yk83NzAtRmxfWmFUb0pEejdfSEoxR0xDdVlRTjBhUVlhQ0lXanBzSnVEeFdTTE1q?oc=5>
+- **特朗普** | 特朗普淡化与沃什接触 美联储独立性再成焦点 <https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUXVDLXlrRnFndXV4YmdCVUlUUEJsMzd3UklBM0lOeFhoTjlsNXRUblcxT3JiNzZWR3AtRXBoMDFrNEpLeDBDcm9yVzA2bnAyZTFkbXBSUklvLUNiWmlMMkE0alB4Ui1GZjlRbzlhOV96anhXNlpjRDhIT0twanU1TURGXzNtRnhsc1NtTDdrYlBEWF8zUktVcm1heE5FcTBZa0ZVVjR0Q0NQUQ?oc=5>
+- **特朗普** | “特朗普关联”油企擅运钻探设备上岛，格陵兰强烈警告-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE9aNk4xRERZcTdNaHRqa1dmOXhBc1g2Zll2azZwQkpXczdLOTUydEZPNTFZRGRseW9ta0FkZl9CMTBiM2ROLW9FOXVfczUyZm9iX2pyOWg4SkZhZHJwaHdVMGU0eUV6WGU0b0E?oc=5>
+- **特朗普** | 内塔尼亚胡拒绝特朗普支持的加沙和平方案 <https://news.google.com/rss/articles/CBMirAJBVV95cUxQTGN1bEtoU09jXzJoV3VhV3lSX3VMZzRfVlpNREpoSENTM0FteTZsVTg1T1VPSG5mOHhiQ0xTNzZlYjRHNy1HWV9qSy1pb0pIbUZJNU5KSXhQMjdBVmtSMHZ5NXV4Zllya0VzWlp3V182VGlPZU84ek5xRmFqOTBKYlVnNnFnWUQ5djJtVFBBckItRWFMaDh3QUJ6cTl2a0hPeks3MGpFdkM2dVk0cDN5eUE5UjJISkZSLVJzYlQ2Z0oxbmlFVFB2ZDJLUVdubktFdHI1cHZkc2RXZk1ZaV9TR1I2SWZrdk4xa1pTb05jaWt3UE5WS04zZS1pSFhnNjEyelhDR18wSmhFOW8yQWNCZTJhX3lBOUFGdU9ERDRNMTNfTk1qWXdNdEVzWELSAawCQVVfeXFMTjkwRzEwc0pwbEx5M0RhWkhIVkRkb1BidXVDNi1qaFJ5T0ZkLXh5NkdHMTRQQTJIZUNwdGdjVnFlMXRfemYxQ1JnQmpTam9KU2IycXNhdXpNWnk2Sjd4c05MR0tzV2ZqSE5iRHJERUNhUFhRYy1hZTRjbS03NnhZZWZHUjIyOGxUaVVoZXBWR1dQUzBmZVFvYm9TelRYQzh2VnA4Y1Fpc0xBalY3bGFzVUxJM1FwREV1dFVpZENIdmRjdlU3X2dwcmNzbmtaMFJhM2FlNnZ3YkJKNHpUT0hjZTN2c2ctRDd1bmhhVl9vVkdxYjk5bFRvbTVFdXBPbEtOVXVUZm1TY0JOaWE4NHR5S2V2NHJjcEZDYVYtOGs0dHg1NGFVZkNZQUVpV2Et?oc=5>
+- **特朗普** | 内塔尼亚胡拒绝特朗普的15点加沙计划，称在哈马斯解除武装之前不会撤军 <https://news.google.com/rss/articles/CBMizwFBVV95cUxNOWNmYjU2X1Rkd3E1TU5BeWZMODdOQjdEVTNLNUR0T3E2TlNTNzE2aXFKd1hjZjRjMUxxc3Bsd3ROWm51M2VQQnBZSkZBbzhJaHJaMlhwSlpLYnhLQzk0YTdLM0NEcVktNkFfQlE4OTV2SGRuVFpqRmktVGFDQVNNWFhaN240WW96SnhkOG5Jbkp1aVY1aXVtNWtjSENGOHdaS0dIcXk0dElDallvNkdWd1cxYnJ0WmtScXRWTVl2TFJoemZiQWtNZ2s2RDlENTA?oc=5>
+- **Trump** | 特朗普媒体公司的比特币持仓缩水，加密货币亏损达$3.61亿 <https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdWdBODJSam5VejBDWTNBSC1uYWwyaU8yZmFNWEI0d0VlRUxxU25pN0VvbkhRcl9BY0ZDSjg2b3FEaXZibTNkU1IzX2pnNGIzR0dlT195MmJrM3dWNGtoMXprMzV2RUdZYVlzRVJwQlZrb0JTcEg4N2ZhRUhLN3pWRS1UNmtwN3lhSFpvWUVaNTRONXFVX1NHYzU0ZFJJTy03SktHaUJVd2o?oc=5>
+- **Trump** | 托德·布兰奇宣誓就任司法部长 <https://news.google.com/rss/articles/CBMilwFBVV95cUxOUUVTY0d5aUtiTGxQOURlM0tVekFwSURIU3J3aElZWDJWcFRJMnBqUjJ1ZHM4T0VGZmpkSmRFVVVQcE13d0xEM3lveHhRaFEtUXBRa0hBTXFJazFmZFZwY051QUE4RDdsanQzQmEwVlVZbW1kR0RwekJuU19ES180RkJFZUY0eTFHOHZIMnBDR1N3RXhNNWpj0gGaAUFVX3lxTFBvejJNai15bk5GQWxWQTU1RXRoczBWT3A0X3g0bjJuLXZEeE13U2x4eW9wdW96dno5OWMxTFZZWWF2UEUxb3laYndIbTlLMWdNOF9xb0pCWDhhTlVlQjBNT1hZMUZZb29jMnIyZGZyZXRONWgwVGZITm85VHNYMWVPb3RINnZOVlZKVTVDcWM5R1p5Ml9ST3B6eWc?oc=5>
 
 ### 2026-08-10 20:34  (3 条)
 
