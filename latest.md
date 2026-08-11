@@ -1,14 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-11 22:35**
-- 本轮扫到 9255 条, 新增 **0** 条
+- 最近更新: **2026-08-11 23:33**
+- 本轮扫到 9259 条, 新增 **4** 条
 
 ---
 
-## 本轮无新增
+## 本轮新发现 (4 条)
 
-数据库里所有演出/动态都已见过,暂无新增。
+### 特朗普在全球足坛掀起反对浪潮之际警告：倘若因凡蒂诺遭罢免，世界杯将再也无法拥有如今这般盈利水平
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-11 23:09
+- 链接: <https://news.google.com/rss/articles/CBMinwJBVV95cUxOTGlvSGRFU0hFa0tQVnZlcjVDUUc5LW85MHpiQ3Vkbm9QX3psdGJlaHBRWFhXdUJseE1lTk5qcGJYd0FRR2ZMMk5ZSXNHaXJrbi1jclE0cWpLZm9JLWFqZzREN185b0prZUMwTU8ySDlYS0VhSXlHV2E2N19UdTRQUFREODh2djFJRkxNQV9iNUprblVub3ZXVkRzQWwxNmRiVTBNNl93TmlPT3FfTThpakcwcTVFeHozQmVBZl9jdGJBWHZwblY4X0ZhWUMtbUFsV0IxU2V2dEVPUko1b0VwRGFCSmhtSnpFc3p5eksxaUNCUm1VTzI0QWJPSUlNazdidFdrcC1vUHFkUHNOVXF2ZnFEZm93ZUd3TFkyTHMtQQ?oc=5>
+
+### 美法官叫停美邮政局执行特朗普涉限制邮寄选票的行政令
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 搜狐网
+- 时间: 2026-08-11 22:02
+- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaDNLMXpXX3hCdnB4bk1EV24zdDgwMHRKajZlR21ZZTBHb2I0YkJCUnpyVWlqaWU4b1oyVEotR3NuWTdiR3FkSG9sT21waU9tRlRSNnM3MTlFWTh3RmhGQmJzU1lXU01OaVhzSmVFNERWdF9EakVmRFFGYXBmUHJqWXpTcWEyOTRCNy04?oc=5>
+
+### “空军一号”曾遭威胁，特朗普秘密换乘军机
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: cn.wsj.com
+- 时间: 2026-08-11 19:11
+- 链接: <https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ3E1ZGc2S3JKSlZPclI1S0dDZWhkSlhHaHI0MEI5cm5lRkdvTUJqTm9EQW9HdWRPN2N3bGloR2ZDM1lnN1gyNTA4UG5henB3SGpoVEkwU0R4Qkp5Z3JXd0FHSFFKbURDLXRwU2g4dHVlbEc1UHU3Q1F2OUEzZmluQXdpN1hncmVxbE0xZUc4ZXFWR1BENXJMNWtyNWFSVGhMQ0FWTmZRMndpNHI4bUVlc09Rcw?oc=5>
+
+### Trump Media Reports More Than 10 Sign-Ups to Real-Time Truth Social Feed -- WSJ
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-08-10 23:30
+- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxNVHhQVXlyZFhFaVAtVEdTMlE4UVRGV0xmMnF2dFVfYTIzbC1NVUpxOGFuLVQwU0taNG9icXg2cFc5U2JhUlhwc21GajBLZHNyZTY4MlZna2lvVWVYWk52VU84Y2xZNmdhUFh3aENmT0JlVW5DS1kwVWpUUy1sdDFIaF9oNE9mMXlOTndCdVVOY1BHQThZYlZ0MEtMb3A?oc=5>
+
+
+---
+
 ## 历史发现
+
+### 2026-08-11 23:33  (4 条)
+
+- **特朗普** | 特朗普在全球足坛掀起反对浪潮之际警告：倘若因凡蒂诺遭罢免，世界杯将再也无法拥有如今这般盈利水平 <https://news.google.com/rss/articles/CBMinwJBVV95cUxOTGlvSGRFU0hFa0tQVnZlcjVDUUc5LW85MHpiQ3Vkbm9QX3psdGJlaHBRWFhXdUJseE1lTk5qcGJYd0FRR2ZMMk5ZSXNHaXJrbi1jclE0cWpLZm9JLWFqZzREN185b0prZUMwTU8ySDlYS0VhSXlHV2E2N19UdTRQUFREODh2djFJRkxNQV9iNUprblVub3ZXVkRzQWwxNmRiVTBNNl93TmlPT3FfTThpakcwcTVFeHozQmVBZl9jdGJBWHZwblY4X0ZhWUMtbUFsV0IxU2V2dEVPUko1b0VwRGFCSmhtSnpFc3p5eksxaUNCUm1VTzI0QWJPSUlNazdidFdrcC1vUHFkUHNOVXF2ZnFEZm93ZUd3TFkyTHMtQQ?oc=5>
+- **特朗普** | 美法官叫停美邮政局执行特朗普涉限制邮寄选票的行政令 <https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaDNLMXpXX3hCdnB4bk1EV24zdDgwMHRKajZlR21ZZTBHb2I0YkJCUnpyVWlqaWU4b1oyVEotR3NuWTdiR3FkSG9sT21waU9tRlRSNnM3MTlFWTh3RmhGQmJzU1lXU01OaVhzSmVFNERWdF9EakVmRFFGYXBmUHJqWXpTcWEyOTRCNy04?oc=5>
+- **Trump** | “空军一号”曾遭威胁，特朗普秘密换乘军机 <https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ3E1ZGc2S3JKSlZPclI1S0dDZWhkSlhHaHI0MEI5cm5lRkdvTUJqTm9EQW9HdWRPN2N3bGloR2ZDM1lnN1gyNTA4UG5henB3SGpoVEkwU0R4Qkp5Z3JXd0FHSFFKbURDLXRwU2g4dHVlbEc1UHU3Q1F2OUEzZmluQXdpN1hncmVxbE0xZUc4ZXFWR1BENXJMNWtyNWFSVGhMQ0FWTmZRMndpNHI4bUVlc09Rcw?oc=5>
+- **Trump** | Trump Media Reports More Than 10 Sign-Ups to Real-Time Truth Social Feed -- WSJ <https://news.google.com/rss/articles/CBMinAFBVV95cUxNVHhQVXlyZFhFaVAtVEdTMlE4UVRGV0xmMnF2dFVfYTIzbC1NVUpxOGFuLVQwU0taNG9icXg2cFc5U2JhUlhwc21GajBLZHNyZTY4MlZna2lvVWVYWk52VU84Y2xZNmdhUFh3aENmT0JlVW5DS1kwVWpUUy1sdDFIaF9oNE9mMXlOTndCdVVOY1BHQThZYlZ0MEtMb3A?oc=5>
 
 ### 2026-08-11 21:39  (3 条)
 
