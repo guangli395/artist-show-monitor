@@ -1,80 +1,107 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-11 01:59**
-- 本轮扫到 9148 条, 新增 **8** 条
+- 最近更新: **2026-08-11 03:48**
+- 本轮扫到 9158 条, 新增 **10** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (10 条)
 
-### 特朗普反过来向伊朗索赔
+### 蔡徐坤thedeadman演唱会 ☕
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimxewu5932515.html>
+
+### 因伊朗提出战争赔偿 特朗普称也要向伊朗索赔
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-08-10 19:31
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBrTlFtZmNuek9SZlItdFNWM2lDNmlQYVBCTDlpd2xJNTlER3JsTXFzc0hqQW1aV2hiRzJ0QndJMEQtS0JwQ0UyNHpvTmROdlVMVW9DQW84N1loaE91cXU5UXVNeWhPTkdHUWlYcEFHc3k1VmZmUFdJX1pOMm9ybFU?oc=5>
+
+### 特朗普力挺因凡蒂诺：更换国际足联主席将是个“重大错误”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 观察者
-- 时间: 2026-08-10 23:02
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5GNG5lMWlHMlNxdngybC1SMVB3WDdmenBaaUM1V3lLNUZCYUp1QmpVVEl4U2tKUHFYSnBxNDYySXlWLVlfWXF3RmlaV29oWVRKOU9ZbEh1Y2dfcEdpWUdGRmJHeG1UbHJOSkE?oc=5>
+- 时间: 2026-08-11 03:22
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE51a3NZU2FydDVPT2U2UGZDSG1JQkNfcV92YWl1d2xWODJQVXdpUHlMaWNhczgtWTBEMzNWeDFwTlJudVJRcHBab1RxZ0FYbGo3eC05cmFvZkItUGRkMWU1cnBuS2g2M2xmX0E?oc=5>
 
-### 巨亏 3.6 亿美元，特朗普媒体削减比特币持仓
+### 特朗普媒体科技：超十家客户订阅“真实社交”实时数据流
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-08-11 01:53
-- 链接: <https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc1ZVZTl0RXk5OV8yUWhmbU9TSE9DT1gyOGxTeXJjU01kZGRjdXp1RFlQV0hFUXY1SUtVZWVleTJESllKYnRaaF9KemxfUU1mZGVQZld6TWd0S3loVGNHS2NyV2t5TUxOaTVCcTRYaS1Bc3pWdVY3b25FdFdaSGxRZmhKdzJ2c1VZLVFINEJ3cUFEUFFzWk8zYVAyWHBSazlSQlZ0ajZ5YTVGOU0tb0tnMS1VWGZNUjhCd2xRYnQ1RXE?oc=5>
+- 时间: 2026-08-11 03:21
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxNU19iQ21NZzJkVDRFdm4tS3ZCRmZCNEc2R3h2ZlFLUnMzMnFMeTU1V2U5SmZ6NS05OHpNaUx5MVVOajc1QTlNeDhtcUFpaHNsMG1ab3cyZmNZbGc4ckNFWVctNWRUV2xaak1jTDlfT0g1SDV5TnNiaU80bW1udHA2OWwzRlRwaUU?oc=5>
 
-### 特朗普对关键芯片材料加征15%关税
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 电子工程专辑
-- 时间: 2026-08-11 00:00
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LeUpiSGVRaFY3d3NkT1dGWFNoVXR0TkplUE03NlZVNVRaMXNkQkpISVlZUG5Fb0xGQXVZdndtT1dYSnNmdHR5RmxKNzJIQ0M0X2lN?oc=5>
-
-### 美以伊最新局势：特朗普称要向伊朗索赔，美国实际控制霍尔木兹海峡，并在该战略石油水道清除了水雷；伊朗称美以是造成中东地区动荡的根源
+### 特朗普否认与沃什频繁通话：自从沃什接任以来，只谈过一次
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-08-11 00:28
-- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxQWWU0MmpnNVRsNTlNQ2hyODlueDRBYXUwWUx2YzJnbHItYzhpRzFDdXNkeTNqRGlmVEZoTkNTbnRMb0NjczFKX1VfakNnX3hXNmhXLTZIYzQ0dmowX2sya0RGY2ZCYjRLN0E3UmlqQ0VNc0VfbUgzM0JXQ0Nnc1pRa211WEhfMmJ0ZFE?oc=5>
+- 场馆: 华尔街见闻
+- 时间: 2026-08-10 21:07
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBTM0tQc2tlWk1WOHlIaFZXLWpEXzFxcHhkMFJ1Z0M3cFEzUFNsX2l3N3JfczlETWdXZlMxVFh3U1JsbFB1QVFDWnRaaHBkNjZvWVlv?oc=5>
 
-### 特朗普称要向伊朗索赔 外媒：美伊谈判陷入僵局
+### 内塔尼亚胡硬刚特朗普 罕见公开分歧
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-08-10 22:50
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5fMFFaNnRLcVRrNGNpaUh1bjdkM1hrdGdJajl0dGJtYUZxcE1iNzBDUHRnbmtOYThzMG5FaS1EZnp1LTl2VHVqamFaTWVmcVVHa3ZQRDhzcTFzVmFtRjU2ZTNZMXAyZVpQ?oc=5>
+- 场馆: 中华网
+- 时间: 2026-08-11 02:54
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1HbUJIUkJiRk1PRWdGNHB6OUpjWDVMdWZ1b01HR1NucHVxdkJLYWpZbjhKdm40ODY0bEowdGpfTmFUZGxseWRSSmJFcjJQdWNYbjhqUVoxT0RwbDRGdTJGWTlmNVFRalBqaTRuMVVjN3c?oc=5>
 
-### Trump envoys arrive in Switzerland for Iran talks planned for Sunday
+### 特朗普称美方“百分百”控制霍尔木兹海峡
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-08-10 22:41
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1pZUZNVmlIcTcyOXh2djBpZUpmZzN2UUlORzhiMTJEQVJGU1YwUUUteFFhejBJTnR2WlFDQ09xMnhQOWJ3dnVNYVlCZHV4a1VhTjlnVDdNcFpOcUpoQXJUYW1uWHpDZTY1OGtSRHFrYVlwR2cxbngwT0VMUWlUUlk?oc=5>
+
+### 特朗普：美方“百分百”控制霍尔木兹海峡
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 川观新闻
+- 时间: 2026-08-11 03:05
+- 链接: <https://news.google.com/rss/articles/CBMiTkFVX3lxTE9MeXE2YzhVSTJwRTV6Y3BzTU8wYlY3a1ZIT05MRWxvdmF2dzQwRTNocFhKc016akdCNi1PZnJXZVVsRjdtVWR3cWtqVjdMZw?oc=5>
+
+### 特朗普的媒体公司Trump Media：Truth Social实时信息流注册客户超过10个
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: TDM
-- 时间: 2026-08-10 19:20
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE1BdG5ua2ZJMm93alpQbjZ0Qmptc0hOWmpiejJEOF91Q3Z2czV0QjhkdzBwRnJOYnBVaEFDRGJyZUh0MnJXS2dQRWNjWjVDZkxFZGhXOC1pVks?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-11 00:32
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9yUDZrVS1UbUVpSUhmOHp3bFBwVkJMUGNjc2hXNVJXM3ptLWZhZlUzMmNXUlc4Qjlpa284OEFxckQ0a3E3bmRCUTZCOA?oc=5>
 
-### 特朗普签署行政令削减儿童疫苗接种，再次抛出无科学依据的自闭症关联论
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-08-11 00:07
-- 链接: <https://news.google.com/rss/articles/CBMiswFBVV95cUxOQVhxYWFQdzdlMFpsMkxKenBRN05WLUJGcC1CM2lrempBY3BqalU3OTlfME1GeG54Vzh1QV9OazZjeV9pZVR6VnF2UUxTNFYwNnNydWladDZaN3lkai1nYjAxdXNlRm13UmZWTTVrWDVUbk82dU5ISG4tQUw4VVh1UXMyUE9ZRDFmekNpSnQ3TGxJVGZFZDlhNDU1Tm0zR0hCZWwzUWZsQUw3OU9zSnZXRjlhVQ?oc=5>
-
-### 更新：特朗普媒体科技集团$特朗普媒体科技集团(DJT.US)$ 比特币$比特币(BTC.CC)$ 持仓降至9,4...
+### 华邮独家报道：Trump上月到土耳其参加北约峰会，回国时不但没坐卡塔尔送的专机（图二）、甚至也没坐原先的空军一号（图三），而是乘地勤的送餐车、秘密登上旁边的C-32A（图四）因为伊朗在实施刺杀计划，他的生命面临真实的威胁华邮向白宫证实，白宫既不承认、也
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-08-11 00:33
-- 链接: <https://news.google.com/rss/articles/CBMiwgFBVV95cUxQckU4UFhqdDU0TkhVY1h3Wk4tT0FLOVR5RDdCT1BOc1FfRXNaUy1rSmJVT05Fb0N5VmEwTjZOdWlJb3JNWWRsOVVUbUtFaEpwcUJwZzF6MktZSWpzS0lRVHFLNU03VnczclR1OExJcDZPU3BGMGxUYjdyYk1meFZzdU10d1hidU42NDlBV25YenRZb3pGeHQ2MGo2MDFkUHhFM2dPS19nRUVkTlNMd2JaUUR5X3YwYTIycTRYbzRwc0M1dw?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-08-11 00:32
+- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ZRDFkVUV1Vk9PaXF4VkV6czNGOUdTTDZ1dHAzcjZTTkdRNjN0NDh6S0gwT0Fjd29ERnBvVERaUFEzcnBPeE53VFE3MGQtakdwZ0hZU2pIQ2E3MnNiUXBQVHpVWQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-11 03:48  (10 条)
+
+- **蔡徐坤** | 蔡徐坤thedeadman演唱会 ☕ <https://www.sina.cn/news/article/nimxewu5932515.html>
+- **特朗普** | 因伊朗提出战争赔偿 特朗普称也要向伊朗索赔 <https://news.google.com/rss/articles/CBMif0FVX3lxTFBrTlFtZmNuek9SZlItdFNWM2lDNmlQYVBCTDlpd2xJNTlER3JsTXFzc0hqQW1aV2hiRzJ0QndJMEQtS0JwQ0UyNHpvTmROdlVMVW9DQW84N1loaE91cXU5UXVNeWhPTkdHUWlYcEFHc3k1VmZmUFdJX1pOMm9ybFU?oc=5>
+- **特朗普** | 特朗普力挺因凡蒂诺：更换国际足联主席将是个“重大错误” <https://news.google.com/rss/articles/CBMiakFVX3lxTE51a3NZU2FydDVPT2U2UGZDSG1JQkNfcV92YWl1d2xWODJQVXdpUHlMaWNhczgtWTBEMzNWeDFwTlJudVJRcHBab1RxZ0FYbGo3eC05cmFvZkItUGRkMWU1cnBuS2g2M2xmX0E?oc=5>
+- **特朗普** | 特朗普媒体科技：超十家客户订阅“真实社交”实时数据流 <https://news.google.com/rss/articles/CBMihwFBVV95cUxNU19iQ21NZzJkVDRFdm4tS3ZCRmZCNEc2R3h2ZlFLUnMzMnFMeTU1V2U5SmZ6NS05OHpNaUx5MVVOajc1QTlNeDhtcUFpaHNsMG1ab3cyZmNZbGc4ckNFWVctNWRUV2xaak1jTDlfT0g1SDV5TnNiaU80bW1udHA2OWwzRlRwaUU?oc=5>
+- **特朗普** | 特朗普否认与沃什频繁通话：自从沃什接任以来，只谈过一次 <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBTM0tQc2tlWk1WOHlIaFZXLWpEXzFxcHhkMFJ1Z0M3cFEzUFNsX2l3N3JfczlETWdXZlMxVFh3U1JsbFB1QVFDWnRaaHBkNjZvWVlv?oc=5>
+- **特朗普** | 内塔尼亚胡硬刚特朗普 罕见公开分歧 <https://news.google.com/rss/articles/CBMicEFVX3lxTE1HbUJIUkJiRk1PRWdGNHB6OUpjWDVMdWZ1b01HR1NucHVxdkJLYWpZbjhKdm40ODY0bEowdGpfTmFUZGxseWRSSmJFcjJQdWNYbjhqUVoxT0RwbDRGdTJGWTlmNVFRalBqaTRuMVVjN3c?oc=5>
+- **特朗普** | 特朗普称美方“百分百”控制霍尔木兹海峡 <https://news.google.com/rss/articles/CBMif0FVX3lxTE1pZUZNVmlIcTcyOXh2djBpZUpmZzN2UUlORzhiMTJEQVJGU1YwUUUteFFhejBJTnR2WlFDQ09xMnhQOWJ3dnVNYVlCZHV4a1VhTjlnVDdNcFpOcUpoQXJUYW1uWHpDZTY1OGtSRHFrYVlwR2cxbngwT0VMUWlUUlk?oc=5>
+- **特朗普** | 特朗普：美方“百分百”控制霍尔木兹海峡 <https://news.google.com/rss/articles/CBMiTkFVX3lxTE9MeXE2YzhVSTJwRTV6Y3BzTU8wYlY3a1ZIT05MRWxvdmF2dzQwRTNocFhKc016akdCNi1PZnJXZVVsRjdtVWR3cWtqVjdMZw?oc=5>
+- **Trump** | 特朗普的媒体公司Trump Media：Truth Social实时信息流注册客户超过10个 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9yUDZrVS1UbUVpSUhmOHp3bFBwVkJMUGNjc2hXNVJXM3ptLWZhZlUzMmNXUlc4Qjlpa284OEFxckQ0a3E3bmRCUTZCOA?oc=5>
+- **Trump** | 华邮独家报道：Trump上月到土耳其参加北约峰会，回国时不但没坐卡塔尔送的专机（图二）、甚至也没坐原先的空军一号（图三），而是乘地勤的送餐车、秘密登上旁边的C-32A（图四）因为伊朗在实施刺杀计划，他的生命面临真实的威胁华邮向白宫证实，白宫既不承认、也 <https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ZRDFkVUV1Vk9PaXF4VkV6czNGOUdTTDZ1dHAzcjZTTkdRNjN0NDh6S0gwT0Fjd29ERnBvVERaUFEzcnBPeE53VFE3MGQtakdwZ0hZU2pIQ2E3MnNiUXBQVHpVWQ?oc=5>
 
 ### 2026-08-11 01:59  (8 条)
 
