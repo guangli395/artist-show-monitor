@@ -1,56 +1,53 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-11 12:49**
-- 本轮扫到 9210 条, 新增 **6** 条
+- 最近更新: **2026-08-11 14:15**
+- 本轮扫到 9214 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (4 条)
 
-### 《红尘客栈》MV拍摄时娜扎和周杰伦有对手戏吗？
+### 王一博VOGUE杂志预热，宣发节奏已发布！小摩托们准备好拼手速了吗？
 
-- 艺人/关键词: **周杰伦**
+- 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimyaac0596491.html>
+- 链接: <https://www.sina.cn/news/article/nimyhkc7329162.html>
 
-### 娜扎出演《红尘客栈》MV后对她的事业有何影响？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimyaac0596476.html>
-
-### 娜扎出演《红尘客栈》MV时是多少岁？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimyaac0596409.html>
-
-### 周杰伦为什么选中娜扎出演《红尘客栈》MV？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimyaak5755057.html>
-
-### 特朗普称美国对伊朗有三种“策略”
+### 巨亏2.38亿美元！特朗普媒体与科技集团：不玩加密货币了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-08-11 07:44
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ib0RJZUROMGdYZl94Y3p5NlhzUjVkeUgxeGRZS1hMYVdLQmlxNGtRY1lVU0FXSzFXSEUtejBiVEo1c2lRbTZXYk1NQ0F4OU10R3otTVNabWJQdjJhVldSTC1GSHA?oc=5>
+- 场馆: 每日经济新闻
+- 时间: 2026-08-11 09:51
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FdHFZSDc5R2VIY19TWktMcmdtUHNsN29WUmlKanZwTGlJODg5U2NnMUpfUnhGcTFjUVYxQXJ5ekc2bFRjUnhubVduUE9VVWNIZWpDZkVtcmlveTJfZXhhbW5vNFhaZw?oc=5>
 
-### Trump将《琼斯法案》豁免延长90天……审批方式由“一律”改为“逐案”
+### 特朗普在全球足坛掀起反对浪潮之际警告：倘若因凡蒂诺遭罢免，世界杯将再也无法拥有如今这般盈利水平
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-11 11:54
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxPME55UTRGQmhKbnRVQ1B0TzhsYXF0aUJSY01MbWJPdTdRNTlCUlhqOGRBa3VfblA0eVhlR0Jfb0RNV0VqWlc2Mm5DMVRVTnNjQWFxMVBneFNrZ00xR0FHU0xnZ2JKZnI4czZtYjliWHFWdnBDOUhXbmw3TjFBZWZyYi1uUlFGV28?oc=5>
+
+### 卖“总统发帖”将年赚千万？特朗普媒体二季度持币浮亏后紧急转向
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 아시아경제
-- 时间: 2026-08-11 01:57
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnOHQ1NVJLb3FmTlcyTUNwamRGZ2pvWlhBQTZVU3p6bGRXVkNzaERpMnI3N0lLTGkxcGRHSVBBNWM4cDh3VWdJMWtCQUx0cFVvb3hJTjFZX3VTaUFGTzEzSkU5c0I?oc=5>
+- 场馆: 财联社
+- 时间: 2026-08-11 07:19
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE5Pd0hYRkpWTlM1TmdmZk9wWGJLTTJVLUlHcEVfYVR3dm5IekRFMi12WjRuem1LYWJYOWw2bDJNU0NxQWZMcVB6Rw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-11 14:15  (4 条)
+
+- **王一博** | 王一博VOGUE杂志预热，宣发节奏已发布！小摩托们准备好拼手速了吗？ <https://www.sina.cn/news/article/nimyhkc7329162.html>
+- **特朗普** | 巨亏2.38亿美元！特朗普媒体与科技集团：不玩加密货币了 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FdHFZSDc5R2VIY19TWktMcmdtUHNsN29WUmlKanZwTGlJODg5U2NnMUpfUnhGcTFjUVYxQXJ5ekc2bFRjUnhubVduUE9VVWNIZWpDZkVtcmlveTJfZXhhbW5vNFhaZw?oc=5>
+- **特朗普** | 特朗普在全球足坛掀起反对浪潮之际警告：倘若因凡蒂诺遭罢免，世界杯将再也无法拥有如今这般盈利水平 <https://news.google.com/rss/articles/CBMihwFBVV95cUxPME55UTRGQmhKbnRVQ1B0TzhsYXF0aUJSY01MbWJPdTdRNTlCUlhqOGRBa3VfblA0eVhlR0Jfb0RNV0VqWlc2Mm5DMVRVTnNjQWFxMVBneFNrZ00xR0FHU0xnZ2JKZnI4czZtYjliWHFWdnBDOUhXbmw3TjFBZWZyYi1uUlFGV28?oc=5>
+- **Trump** | 卖“总统发帖”将年赚千万？特朗普媒体二季度持币浮亏后紧急转向 <https://news.google.com/rss/articles/CBMiSEFVX3lxTE5Pd0hYRkpWTlM1TmdmZk9wWGJLTTJVLUlHcEVfYVR3dm5IekRFMi12WjRuem1LYWJYOWw2bDJNU0NxQWZMcVB6Rw?oc=5>
 
 ### 2026-08-11 12:49  (6 条)
 
