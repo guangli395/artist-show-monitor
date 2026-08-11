@@ -1,44 +1,65 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-11 11:39**
-- 本轮扫到 9204 条, 新增 **4** 条
+- 最近更新: **2026-08-11 12:49**
+- 本轮扫到 9210 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (6 条)
 
-### 娜扎18岁如何被选中出演周杰伦《红尘客栈》MV？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimyaak5752520.html>
-
-### 《红尘客栈》MV当年为何没有公开娜扎身份？
+### 《红尘客栈》MV拍摄时娜扎和周杰伦有对手戏吗？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimyaac0593651.html>
+- 链接: <https://www.sina.cn/news/article/nimyaac0596491.html>
 
-### 特朗普旗下媒体公司披露巨额亏损，公布新一轮转型自救计划
+### 娜扎出演《红尘客栈》MV后对她的事业有何影响？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimyaac0596476.html>
+
+### 娜扎出演《红尘客栈》MV时是多少岁？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimyaac0596409.html>
+
+### 周杰伦为什么选中娜扎出演《红尘客栈》MV？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimyaak5755057.html>
+
+### 特朗普称美国对伊朗有三种“策略”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-11 09:30
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxNVS1pVG1abFc5ek5JTkFQc0l1dTUwNjljbl9uOFFWSUpmMG1QTXFTVHA2YmY0N0JuVU1yTkg3dUFCUzM1VWtQazZreVR6enFtQnNEYU5YUlRycmlOc3Q1eEt3MzlSWkRHeDJrZ2ZqUmZKNGo1VWhWMmVYMFZfNzFWOG9Bd3pLX0k?oc=5>
+- 场馆: 新京报
+- 时间: 2026-08-11 07:44
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ib0RJZUROMGdYZl94Y3p5NlhzUjVkeUgxeGRZS1hMYVdLQmlxNGtRY1lVU0FXSzFXSEUtejBiVEo1c2lRbTZXYk1NQ0F4OU10R3otTVNabWJQdjJhVldSTC1GSHA?oc=5>
 
-### 特朗普称美方“百分百”控制霍尔木兹海峡
+### Trump将《琼斯法案》豁免延长90天……审批方式由“一律”改为“逐案”
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-08-10 22:41
-- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE04eTk0R2hnNDE3M3BEclYtQXo1YWpQbW1OY0lsUGFEMDByRVRBbW5MMS1BQ1hkeGtfbEJ1bEpKOFYwRElNSmxna201UE9ISTYxQzFSZ2ZSd09weXFsdWVFaW5PU0hmTEozbHZOM3N4MVJ3eXhqRGxwX3BDZ2V6Zw?oc=5>
+- 场馆: 아시아경제
+- 时间: 2026-08-11 01:57
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnOHQ1NVJLb3FmTlcyTUNwamRGZ2pvWlhBQTZVU3p6bGRXVkNzaERpMnI3N0lLTGkxcGRHSVBBNWM4cDh3VWdJMWtCQUx0cFVvb3hJTjFZX3VTaUFGTzEzSkU5c0I?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-11 12:49  (6 条)
+
+- **周杰伦** | 《红尘客栈》MV拍摄时娜扎和周杰伦有对手戏吗？ <https://www.sina.cn/news/article/nimyaac0596491.html>
+- **周杰伦** | 娜扎出演《红尘客栈》MV后对她的事业有何影响？ <https://www.sina.cn/news/article/nimyaac0596476.html>
+- **周杰伦** | 娜扎出演《红尘客栈》MV时是多少岁？ <https://www.sina.cn/news/article/nimyaac0596409.html>
+- **周杰伦** | 周杰伦为什么选中娜扎出演《红尘客栈》MV？ <https://www.sina.cn/news/article/nimyaak5755057.html>
+- **特朗普** | 特朗普称美国对伊朗有三种“策略” <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ib0RJZUROMGdYZl94Y3p5NlhzUjVkeUgxeGRZS1hMYVdLQmlxNGtRY1lVU0FXSzFXSEUtejBiVEo1c2lRbTZXYk1NQ0F4OU10R3otTVNabWJQdjJhVldSTC1GSHA?oc=5>
+- **Trump** | Trump将《琼斯法案》豁免延长90天……审批方式由“一律”改为“逐案” <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnOHQ1NVJLb3FmTlcyTUNwamRGZ2pvWlhBQTZVU3p6bGRXVkNzaERpMnI3N0lLTGkxcGRHSVBBNWM4cDh3VWdJMWtCQUx0cFVvb3hJTjFZX3VTaUFGTzEzSkU5c0I?oc=5>
 
 ### 2026-08-11 11:39  (4 条)
 
