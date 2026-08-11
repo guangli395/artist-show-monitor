@@ -1,70 +1,67 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-11 19:33**
-- 本轮扫到 9246 条, 新增 **8** 条
+- 最近更新: **2026-08-11 20:37**
+- 本轮扫到 9252 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (6 条)
 
-### 蔡徐坤澳门演唱会无限流概念具体指什么？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimysya5575705.html>
-
-### 蔡徐坤演唱会战损妆变化有什么寓意？
+### 蔡徐坤后续巡演还会延续无限流概念吗？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimysya5575700.html>
+- 链接: <https://www.sina.cn/news/article/nimyxhc4206091.html>
 
-### 蔡徐坤澳门演唱会为何被称为沉浸式闯关？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimysya5575697.html>
-
-### 蔡徐坤澳门演唱会门票是否已经售罄？
+### 蔡徐坤澳门演唱会三次重生循环是如何呈现的？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimysyf4303065.html>
+- 链接: <https://www.sina.cn/news/article/nimyxfy5478529.html>
 
-### 蔡徐坤澳门演唱会玩转无限流，三次重生震撼全场
+### 蔡徐坤澳门演唱会为何选择四面台舞台设计？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimysya5575489.html>
+- 链接: <https://www.sina.cn/news/article/nimyxhc4205886.html>
 
-### 巨亏超6亿美元！特朗普媒体科技集团放弃加密货币，豪赌核聚变
+### 疑受可信暗杀威胁，特朗普离开土耳其未乘“空军一号”，秘密转移至第三架飞机
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-08-11 19:18
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxNVlBNR3lYaElTb3pDYk1FeDJ2SEFmdnJnWTlBdE1JeERTODUzTERfeVVJUTlxa1hIZnpmWUxxZ0dQZ0h4bDBTVjNCRExJOUZPYXlJVldmeWkzeTJQbzRRbVdtbkpHelhRLTJXRE5hZkpOcGhNTjRTZThZdFJlQW1ocjh5eWpzNThTSk5ENThtUXBjb1NBZ2drWg?oc=5>
+- 时间: 2026-08-11 19:57
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE96aWFnUmhXZ3F2bkV0YUdYLU9XTlE3eDhKTDFQN0ZQUWRpRWdEcXhrZGo1S2l1MDk4TXA2MU55REVlR1FiY3pzeDJrczZZVTFablA2N1NFT2RyeE9oR0k4d3BxRUo1eGREV1diWS1Ga1hBLUU5bUw1aw?oc=5>
 
-### 特朗普制裁国际刑事法院 遭四人权组织起诉违宪
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-08-11 15:18
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFAyLXcyeW8tZmp3WUs0VDNWTzFzR2RXOE5OWlhoVW9BZnRTVGM1SFJoOW9sWUlxZEVfQ25sY3p6VEVHazZwdmhDNTZWWDBoaEVQS21vUnNfUnhyTmF4ZEhmNmlxRGFRcmV5SlE?oc=5>
-
-### 特朗普总统阐述美国应对伊朗的策略
+### 美国退伍军人在被俄罗斯被拘押四年多后获释
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 美国之音
-- 时间: 2026-08-11 17:26
-- 链接: <https://news.google.com/rss/articles/CBMiswFBVV95cUxOa0d5VnJaYnhsR1lvZXNKZTgyT0NhTzd3Vlo5N1Vsa0hfUGdfYXBlamotYTFRSUJwZVdHNFBDU2FNYVViX01FM1ZmeEVlUlhoSE5wazB6Z2M0ZnZQV3pFa00zdGZockxZYnJMd3lRNkNpdkh5MzFOOTVZS0RsMVoyLTB5MjlqRXdGajlfY25rY19iNnRvaTFJRDludFRiSG9ab0dESjFJSjV0NmNWQzFGVS1YZ9IBswFBVV95cUxOa0d5VnJaYnhsR1lvZXNKZTgyT0NhTzd3Vlo5N1Vsa0hfUGdfYXBlamotYTFRSUJwZVdHNFBDU2FNYVViX01FM1ZmeEVlUlhoSE5wazB6Z2M0ZnZQV3pFa00zdGZockxZYnJMd3lRNkNpdkh5MzFOOTVZS0RsMVoyLTB5MjlqRXdGajlfY25rY19iNnRvaTFJRDludFRiSG9ab0dESjFJSjV0NmNWQzFGVS1YZw?oc=5>
+- 时间: 2026-08-11 20:09
+- 链接: <https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWmdWVkhINGtXTnhQQXgyQ01ESzZ5YW1Rb2pNQ3lSbW1XUFNmdndfa0hPLVBUb0t6UmhzTlh1UDFjX284NU12amV1c0tfTW80OTlTZlhiTjdsYW1vOXNfRFhBTnVrd1N2eDJnc2VVZ1QyUTBWZlRKb1ZOSnNqVV9EVHhTNW44RDdITEJhUEFBRWluRTBMRGR3ajRVOERBRmNvOHFodUdRaEN6SmxiSVI1WDVaR0hwMUd50gG7AUFVX3lxTFBXbGxlTTBrZWNkRzZYSllzdUNGTy1WSGlxNVdhSzV1S3FtUGpzTnBubmp5Nkh4WklhWEJISGNzMnJaQWM3MnhoNE11YV9DTnhYc0hzaXd3MUdXY3lSci0ycVRhaGI3bnFMZTlLamY3WENzRnlpZGZiVkFqUHVOR1gtSGcwWXFlQzFqZkxGQ3YtaDctVF9rX21IcTRRcjJlcGJ2anI3OERNMVJsdHNqMWtlXzFfMlUySVZHU2M?oc=5>
+
+### 巨亏2.38亿美元！特朗普媒体与科技集团：不玩加密货币了
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-11 09:45
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1iWThKRHhROWliOWdZYUU4RG1IUkdXRlplZE1sYy1SRlRyUkU1dzJ5T21paEFiai1kODhSZnN2UWN3ckRyd2JDZjRUUjRodzQ2VlZrZDNPQktPUG5MR2tGOFdSODctdDByRTBOTk03c1VjSXRnVTRsYQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-11 20:37  (6 条)
+
+- **蔡徐坤** | 蔡徐坤后续巡演还会延续无限流概念吗？ <https://www.sina.cn/news/article/nimyxhc4206091.html>
+- **蔡徐坤** | 蔡徐坤澳门演唱会三次重生循环是如何呈现的？ <https://www.sina.cn/news/article/nimyxfy5478529.html>
+- **蔡徐坤** | 蔡徐坤澳门演唱会为何选择四面台舞台设计？ <https://www.sina.cn/news/article/nimyxhc4205886.html>
+- **特朗普** | 疑受可信暗杀威胁，特朗普离开土耳其未乘“空军一号”，秘密转移至第三架飞机 <https://news.google.com/rss/articles/CBMieEFVX3lxTE96aWFnUmhXZ3F2bkV0YUdYLU9XTlE3eDhKTDFQN0ZQUWRpRWdEcXhrZGo1S2l1MDk4TXA2MU55REVlR1FiY3pzeDJrczZZVTFablA2N1NFT2RyeE9oR0k4d3BxRUo1eGREV1diWS1Ga1hBLUU5bUw1aw?oc=5>
+- **特朗普** | 美国退伍军人在被俄罗斯被拘押四年多后获释 <https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWmdWVkhINGtXTnhQQXgyQ01ESzZ5YW1Rb2pNQ3lSbW1XUFNmdndfa0hPLVBUb0t6UmhzTlh1UDFjX284NU12amV1c0tfTW80OTlTZlhiTjdsYW1vOXNfRFhBTnVrd1N2eDJnc2VVZ1QyUTBWZlRKb1ZOSnNqVV9EVHhTNW44RDdITEJhUEFBRWluRTBMRGR3ajRVOERBRmNvOHFodUdRaEN6SmxiSVI1WDVaR0hwMUd50gG7AUFVX3lxTFBXbGxlTTBrZWNkRzZYSllzdUNGTy1WSGlxNVdhSzV1S3FtUGpzTnBubmp5Nkh4WklhWEJISGNzMnJaQWM3MnhoNE11YV9DTnhYc0hzaXd3MUdXY3lSci0ycVRhaGI3bnFMZTlLamY3WENzRnlpZGZiVkFqUHVOR1gtSGcwWXFlQzFqZkxGQ3YtaDctVF9rX21IcTRRcjJlcGJ2anI3OERNMVJsdHNqMWtlXzFfMlUySVZHU2M?oc=5>
+- **Trump** | 巨亏2.38亿美元！特朗普媒体与科技集团：不玩加密货币了 <https://news.google.com/rss/articles/CBMieEFVX3lxTE1iWThKRHhROWliOWdZYUU4RG1IUkdXRlplZE1sYy1SRlRyUkU1dzJ5T21paEFiai1kODhSZnN2UWN3ckRyd2JDZjRUUjRodzQ2VlZrZDNPQktPUG5MR2tGOFdSODctdDByRTBOTk03c1VjSXRnVTRsYQ?oc=5>
 
 ### 2026-08-11 19:33  (8 条)
 
