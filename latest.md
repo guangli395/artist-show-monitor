@@ -1,58 +1,100 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-11 05:00**
-- 本轮扫到 9164 条, 新增 **6** 条
+- 最近更新: **2026-08-11 06:12**
+- 本轮扫到 9173 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (9 条)
 
-### 豆！从此你顶天又立地！小黄豆 蔡徐坤演唱会 搞笑 万万没想到 柳州肥姨妈螺蛳粉
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimxmes5870842.html>
-
-### 笑死我了 神来了也绷不住蔡徐坤蔡徐坤演唱会网友神评论大赏 满级评论 搞笑
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimxewt4412066.html>
-
-### 娜扎18岁参演周杰伦执导《红尘客栈》MV
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimxmem0707034.html>
-
-### 特朗普力挺因凡蒂诺：他“非常出色”，警告国际足联不要考虑更换主席，否则将犯下“严重错误”
+### 为配合特朗普的赛车比赛，华盛顿部分航班将暂停-观察者网
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: k.sina.com.cn
-- 时间: 2026-08-11 04:42
-- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxOSUJ3YWRnX20xLTVGWTRHRk43clc3VjdCNG1BM1pqeWNoUDRJVGlIemRQYkNfQkJjVHl3Y1Z2OHRobm5GaF9TSVB1WDV3VnF4N2tCSVdPb0V0QVE5SVdQUXhnNUFmaGtZd1RzV3hvQ2YtaXpOcnVmRldCWVJ3dGZUdE9n?oc=5>
+- 场馆: 观察者
+- 时间: 2026-08-11 05:12
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE91RDNnX1BLRE90bEFGWW9XMnRjMjRkbWFBeVktRldpOGdJZ19vQXVwVm1acWs0TUR2TERqbjVjMDRPWnZnc2xlZU5QTGxOSVFydHlFQmJLMU9aMDlySjZzSXlMS3ExVUFLbXc?oc=5>
 
-### 美国总统特朗普发文表示，国际足联如果因任何原因考虑更换主席因凡蒂诺
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-08-11 02:10
-- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTFBheThPemh0cWRlam5PUFo3QlNpYjItX1ZPZFVQZTNhVU16ejdyR2ZZcmxhaDlMSWU2Ry0tQ2VjYWV4SXhhdzBCcktubHlqMTBPUGFUVjJqZTllMHVOeGRRc2FRZw?oc=5>
-
-### 和平希望又受挫！特朗普称美军已“100%控制”霍尔木兹，并向伊朗索赔
+### 特朗普媒体科技：超十家客户订阅“真实社交”实时数据流
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-08-10 16:25
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE12Tk5sZnJJYkRZQjlXenhHcVB5ZmY3aGh5NlpLRDdhSV9HWWlWblowTFJQZWlDTVFYVURQSTJPN2IyV09tcmllQQ?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-11 05:48
+- 链接: <https://news.google.com/rss/articles/CBMijwJBVV95cUxPSk56RDUzdGNIVGZiZmZYRXpTelpsVmZadVprSUJlNEVSZ3JIblpNS1drMlg0aGd3SXhjSTBnVDR4S3JKZXhVZVFHZmt3V0lJNVlfZ3ZINzZsZEZNeEFYdkFEZDNPREI4TGtKUEd5LVFOdUdVTy1ndGp2RDhDZFFwUFZoZHlPUW51clltMmpoOWVNODlKR0tuLTN2V3NsenkwUlhDTHdxY2RsTTdPUldLdmVRYl9KdjhqZkQ2ODY4Z2ZrMGw1VG0xQkNaOWpMMUhiSTlqRDBwRkRCdm1xOWNXdGdEenJWV1h3cE8xNnY0LVRlbVZkS043amlfT192WVVta2RfeVNTUGFJdm9YckRR?oc=5>
+
+### 美媒爆猛料：特朗普飞离土耳其时，美国设了一个局……
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪军事_手机新浪网
+- 时间: 2026-08-11 05:02
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFBjSkN2d0tFUFJORTZfYWRPd1kxYnRxWGZoRjVkRHlGdmo1UDhBbHZmSGFzYXBxYWFkQXdXa1NyOFFWTzBWVzZaMW1QTDlLTDZMc2F6SVZWQmNwc2RrVG5hQW5YdVBSSlU4N1UtRUU0WGFmemM?oc=5>
+
+### 美媒爆料：精心策划的骗局！特朗普当时被用餐饮车转移到第三架飞机
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: news.ifeng.com
+- 时间: 2026-08-11 03:47
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9XODhUb2hRM1dkeFhuNnFVQXJwa2VRQzhvT3hiS2Q2R29ocC1JcEVKUXpzY3NqOFBnb1FTSDN3aEEzNFBPWE4tb25vbjM?oc=5>
+
+### 美媒：特朗普上月秘密乘运输机回国 因伊朗威胁改变行程
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华军事
+- 时间: 2026-08-11 06:02
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBIOTdpc2VQajFGVUVmbXpHU2l1X0xmeTBiY3NCWkpHLVFBT2V3dzFjNTdSZ0VlR3F4dkJ4ZEJEMlFCQllpbGR3bGp4X3V4Y291TS1uQzZDVjdXbEhRX2hidEhCM2Z4X0hGWUtlbFpmREM?oc=5>
+
+### 特朗普力挺因凡蒂诺 警告国际足联不要考虑更换主席
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 央视网
+- 时间: 2026-08-11 02:45
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFB6NG55M3ZNYklGUFRaUWJVemN3R2lKeWJnRGZKdVZWUk9HVlNLZjV6TzdlQ200Uy1ob2Jkc1hIcVNLdFAwSElwb0pVMUY1YlY5M0NmRDJ4NG5fYjNQZGE0RlpQZU55bS1EWEJwOF9jcnJRaFhKTVhfRw?oc=5>
+
+### 特朗普称因凡蒂诺非常出色，不应该辞职
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-08-11 06:01
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE02bEpkSDE4WHU4dE90VTNRQlFYb0FLTkE3RUt2Z0FlWm40aU1oYmJiNHdISl9vTnNMWXpIS1drSHZyQ192WmxKUQ?oc=5>
+
+### 特朗普打球防空导弹贴身保护 严密安保措施
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华军事
+- 时间: 2026-08-11 05:28
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9mRDFZOWtfbzh4bkpJVFhGcTJnYWtPV21TQTlwVUFJc0lsMV9pQzltOFFoTHcxcG5vUUlwdlZ2ZkJoSEI5RWs3TmZOVXpDdW1HX1NfUG1wMlRKWUNIeTdiMEEyZ1ExZU5YWC1xQVVxMVE?oc=5>
+
+### 金融时报：特朗普现在尝到了“不作不死”的味道
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 加美财经
+- 时间: 2026-08-10 16:48
+- 链接: <https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oUmtkVzBqT3h6czZyTmVIQXpwUHloZ1g3dmdUcVRfMlB5QTFrR3ZwR0NfbmdCNlhyQWVEV2ZhYmctMWl0Sktnc1ZNQ3QxWTMxOUlOOUREYmYtQQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-11 06:12  (9 条)
+
+- **特朗普** | 为配合特朗普的赛车比赛，华盛顿部分航班将暂停-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE91RDNnX1BLRE90bEFGWW9XMnRjMjRkbWFBeVktRldpOGdJZ19vQXVwVm1acWs0TUR2TERqbjVjMDRPWnZnc2xlZU5QTGxOSVFydHlFQmJLMU9aMDlySjZzSXlMS3ExVUFLbXc?oc=5>
+- **特朗普** | 特朗普媒体科技：超十家客户订阅“真实社交”实时数据流 <https://news.google.com/rss/articles/CBMijwJBVV95cUxPSk56RDUzdGNIVGZiZmZYRXpTelpsVmZadVprSUJlNEVSZ3JIblpNS1drMlg0aGd3SXhjSTBnVDR4S3JKZXhVZVFHZmt3V0lJNVlfZ3ZINzZsZEZNeEFYdkFEZDNPREI4TGtKUEd5LVFOdUdVTy1ndGp2RDhDZFFwUFZoZHlPUW51clltMmpoOWVNODlKR0tuLTN2V3NsenkwUlhDTHdxY2RsTTdPUldLdmVRYl9KdjhqZkQ2ODY4Z2ZrMGw1VG0xQkNaOWpMMUhiSTlqRDBwRkRCdm1xOWNXdGdEenJWV1h3cE8xNnY0LVRlbVZkS043amlfT192WVVta2RfeVNTUGFJdm9YckRR?oc=5>
+- **特朗普** | 美媒爆猛料：特朗普飞离土耳其时，美国设了一个局…… <https://news.google.com/rss/articles/CBMic0FVX3lxTFBjSkN2d0tFUFJORTZfYWRPd1kxYnRxWGZoRjVkRHlGdmo1UDhBbHZmSGFzYXBxYWFkQXdXa1NyOFFWTzBWVzZaMW1QTDlLTDZMc2F6SVZWQmNwc2RrVG5hQW5YdVBSSlU4N1UtRUU0WGFmemM?oc=5>
+- **特朗普** | 美媒爆料：精心策划的骗局！特朗普当时被用餐饮车转移到第三架飞机 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9XODhUb2hRM1dkeFhuNnFVQXJwa2VRQzhvT3hiS2Q2R29ocC1JcEVKUXpzY3NqOFBnb1FTSDN3aEEzNFBPWE4tb25vbjM?oc=5>
+- **特朗普** | 美媒：特朗普上月秘密乘运输机回国 因伊朗威胁改变行程 <https://news.google.com/rss/articles/CBMicEFVX3lxTFBIOTdpc2VQajFGVUVmbXpHU2l1X0xmeTBiY3NCWkpHLVFBT2V3dzFjNTdSZ0VlR3F4dkJ4ZEJEMlFCQllpbGR3bGp4X3V4Y291TS1uQzZDVjdXbEhRX2hidEhCM2Z4X0hGWUtlbFpmREM?oc=5>
+- **特朗普** | 特朗普力挺因凡蒂诺 警告国际足联不要考虑更换主席 <https://news.google.com/rss/articles/CBMieEFVX3lxTFB6NG55M3ZNYklGUFRaUWJVemN3R2lKeWJnRGZKdVZWUk9HVlNLZjV6TzdlQ200Uy1ob2Jkc1hIcVNLdFAwSElwb0pVMUY1YlY5M0NmRDJ4NG5fYjNQZGE0RlpQZU55bS1EWEJwOF9jcnJRaFhKTVhfRw?oc=5>
+- **特朗普** | 特朗普称因凡蒂诺非常出色，不应该辞职 <https://news.google.com/rss/articles/CBMiSEFVX3lxTE02bEpkSDE4WHU4dE90VTNRQlFYb0FLTkE3RUt2Z0FlWm40aU1oYmJiNHdISl9vTnNMWXpIS1drSHZyQ192WmxKUQ?oc=5>
+- **特朗普** | 特朗普打球防空导弹贴身保护 严密安保措施 <https://news.google.com/rss/articles/CBMicEFVX3lxTE9mRDFZOWtfbzh4bkpJVFhGcTJnYWtPV21TQTlwVUFJc0lsMV9pQzltOFFoTHcxcG5vUUlwdlZ2ZkJoSEI5RWs3TmZOVXpDdW1HX1NfUG1wMlRKWUNIeTdiMEEyZ1ExZU5YWC1xQVVxMVE?oc=5>
+- **特朗普** | 金融时报：特朗普现在尝到了“不作不死”的味道 <https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oUmtkVzBqT3h6czZyTmVIQXpwUHloZ1g3dmdUcVRfMlB5QTFrR3ZwR0NfbmdCNlhyQWVEV2ZhYmctMWl0Sktnc1ZNQ3QxWTMxOUlOOUREYmYtQQ?oc=5>
 
 ### 2026-08-11 05:00  (6 条)
 
