@@ -1,17 +1,35 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-11 15:27**
-- 本轮扫到 9221 条, 新增 **7** 条
+- 最近更新: **2026-08-11 16:23**
+- 本轮扫到 9230 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (9 条)
 
-### 娜扎18岁出演周杰伦执导《红尘客栈》MV
+### 蔡徐坤未来巡演会延续无限流叙事模式吗？
 
-- 艺人/关键词: **周杰伦**
+- 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimyhkc7349513.html>
+- 链接: <https://www.sina.cn/news/article/nimynse5638418.html>
+
+### 蔡徐坤澳门演唱会为何采用西部废土风格？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimynsi4365753.html>
+
+### 蔡徐坤演唱会三次死亡重生分别代表什么？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimynse5638318.html>
+
+### 蔡徐坤澳门演唱会：三次死亡重生玩转无限流
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimynse5638201.html>
 
 ### 拒绝加沙和平方案，争取极右盟友支持，内塔尼亚胡“硬刚”特朗普
 
@@ -19,52 +37,56 @@
 - 来源: `googlenews`
 - 场馆: 新浪新闻_手机新浪网
 - 时间: 2026-08-10 22:23
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE9VOG94UjhCOXBJZFpQcmpRTndGdU9GRm9HMlJFQjdWMG84YVJ3UjNjbDF3czd0dEI0Unp6UDJIRFJmcG5lXzU5QXhqWlBNUWYyRXRfYzBiR0g0Zk9NN3JPQkdUcVVYNFVYQ3FaYTlUdTBFQUUz?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxQcEozbW9IMGNmR0piNGV0cEVUNzJYamMzUUprMXExWlc1R3RqSzZZTzJadmI5M3NNVVkzelJab0k4VFo1RDc3QThCQ2lpLXNtMkpDdWMzVXk3Um9rZXJEaVg0U0hCRV9uYVlWZkpWaXQ0MjRBektPUDBjMTl5am8xVmtxT3hlNXB3QVVsQlNjLWxqQnVU?oc=5>
 
-### 国际｜特朗普玩障眼法？视频曝光：登机后又进餐饮车 秘密换机
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-08-11 03:47
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5EZmc5QUM1bmVxdExBcFVtVUgtejZsYml6N0tSaXdaNnJqbnhUdXNXQlcxd0ZZQ0Z3eERYdzdaaGkweV85M0dMTmdkSU85RVdNTGYzdG1DZnhwcmhDT1h1RGNfdTE?oc=5>
-
-### 美媒：特朗普离开土耳其未乘“空军一号”
+### 中东局势背后的复杂博弈，内塔尼亚胡与特朗普“心照不宣”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-08-11 06:51
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFA1VDYwbDVlbFAyeDZxaVM3MERjU0ZiRUVITS1wR282ZlJiS3pxVVRkNUhMQkVkQjZTcmVhZk8tV1V4eHdkMDJSc3Q5aFNqTENTUzNiUW9MUTAyblJER2s2c3JpSUVNMEZwYVhzMzFUaTFEb3IxTDVGbEtBbjE3WVk?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-08-11 11:27
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5FU2pnQjVVTVpSQWtOdVB3ZXlJS1lJNm1ZakdodEx0dld3RzZTeWVOZHp3VFlmNlJrRzJKaGFUdWFmYzRtS2l0SkVPNWNfT2lSd1J6OUdGd1lxT2V0Y292VDBjWW54Zk1Ha3BPRkNUNWxyVFpER3NfMw?oc=5>
 
-### 向特朗普加密货币投入1亿美元的华人买家是谁？
+### 特朗普力挺因凡蒂诺 警告国际足联不要考虑更换主席
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-08-11 07:15
+- 链接: <https://news.google.com/rss/articles/CBMivgFBVV95cUxQMXZHaTZnZWtRaks5MnRpb1NubllnWC1XUUV1dS1vSWZ4bGozMldQMjZzblN0SmRmWFFPNDFvZ3ZlSWpjbTBiT1lrel9mWGNfd0VScFBOZ2tzeFZTaWhUZDF4UmtrNEtYR3dWUVoxNWF5Si1ZMERvQVZGMjh2Z3M3alVUT3Y4WG1CSzY1YjhMa3N4TjdoWXNnS2tSUGpmRENyWGVTQWw5cjd6OEZTS0pCbmR0SF9SdnZNenpQV0VB?oc=5>
+
+### 特朗普警告国际足联：更换主席因凡蒂诺，将犯下“严重错误”！英媒爆料：参与世界杯“私有化”的机构创立者是特朗普女儿伊万卡的小叔子
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 每日经济新闻
+- 时间: 2026-08-11 03:09
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1DOVZRVVdaanhkVl9NaXhxX011b0Z6MDF0UDNrR3ZLYTNuZzFzcjVqZFhpajZMMnlabzVQZkZ4S2ZIUDFVYWY4LS1LMWgwX0RfMDIxbU1SdW9RNFFFYXpaS2FqdmdzZw?oc=5>
+
+### 移民改革会是特朗普的“尼克松访华”时刻吗？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 纽约时报中文网
-- 时间: 2026-08-10 17:42
-- 链接: <https://news.google.com/rss/articles/CBMibEFVX3lxTE1yZGFBWGJEUkg4cWVlS3FLY0laTFgyb0EwZThVYkZ6a2hRQnE4VWpwSEQwTF9GbTNQTXNXV2NJeVBldXdhd1czaFQwU0VhY3pzVnZUU04xemFMb2hvY2ZvdmtlXzc0b2MzNlZlTg?oc=5>
-
-### 配合特朗普的赛车比赛 美航管局将暂停部分航班
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: wenxuecity.com
-- 时间: 2026-08-11 13:48
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE80TTk1X0w3Z212RU5RN0ttZXdxTWJNODRTdTE2RGRKSHVXLVhYZDA4R2lWN19ua1pJcEZTQVExZks0aGhPVi13MGRvSlZIaGpuY21BbDhwSmJia3pUUUk1OUw5WmszaDdx?oc=5>
-
-### 伊朗外长：特朗普在战争初期写下一句话——“无条件投降”，但伊朗没有低头，用抵抗打破美国的幻想，战争开始20天后，美国便乞求谈判
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: sohu.com
-- 时间: 2026-08-11 14:28
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxOaUpjVzdsaEZOaGRuQnc0UE9mZURIcXdJXzRwOVJHN2ZkTW9IQzZidUhVZWVjLUZ3amJLUmJfWGdFaVBCSDNUM1hyT1F0U2ZjRTczdTZCR1FMY3BFaWYxeGdwVmlsTFg1RjlKZzVUd2FQbzdiZDBPbXJwdHVScERVTXBQV280cnI0U2d5WA?oc=5>
+- 时间: 2026-08-11 02:30
+- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE5xTkJsLXc4amxCVlFHWGZQT01SeXQ2NHhRRmM3Y19lb2VnY0tWUC1Pb0tpcHZjQ3l2ZkZUMUI0QzgyQVpTT3dTVldXWm9TWUs2dUVoa0FxUTAtaVJfRE0zSTB0UFJpUl9uZHB1cXRlMVhMYXlvZEpDRF9NWW4?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-11 16:23  (9 条)
+
+- **蔡徐坤** | 蔡徐坤未来巡演会延续无限流叙事模式吗？ <https://www.sina.cn/news/article/nimynse5638418.html>
+- **蔡徐坤** | 蔡徐坤澳门演唱会为何采用西部废土风格？ <https://www.sina.cn/news/article/nimynsi4365753.html>
+- **蔡徐坤** | 蔡徐坤演唱会三次死亡重生分别代表什么？ <https://www.sina.cn/news/article/nimynse5638318.html>
+- **蔡徐坤** | 蔡徐坤澳门演唱会：三次死亡重生玩转无限流 <https://www.sina.cn/news/article/nimynse5638201.html>
+- **特朗普** | 拒绝加沙和平方案，争取极右盟友支持，内塔尼亚胡“硬刚”特朗普 <https://news.google.com/rss/articles/CBMilAFBVV95cUxQcEozbW9IMGNmR0piNGV0cEVUNzJYamMzUUprMXExWlc1R3RqSzZZTzJadmI5M3NNVVkzelJab0k4VFo1RDc3QThCQ2lpLXNtMkpDdWMzVXk3Um9rZXJEaVg0U0hCRV9uYVlWZkpWaXQ0MjRBektPUDBjMTl5am8xVmtxT3hlNXB3QVVsQlNjLWxqQnVU?oc=5>
+- **特朗普** | 中东局势背后的复杂博弈，内塔尼亚胡与特朗普“心照不宣” <https://news.google.com/rss/articles/CBMieEFVX3lxTE5FU2pnQjVVTVpSQWtOdVB3ZXlJS1lJNm1ZakdodEx0dld3RzZTeWVOZHp3VFlmNlJrRzJKaGFUdWFmYzRtS2l0SkVPNWNfT2lSd1J6OUdGd1lxT2V0Y292VDBjWW54Zk1Ha3BPRkNUNWxyVFpER3NfMw?oc=5>
+- **特朗普** | 特朗普力挺因凡蒂诺 警告国际足联不要考虑更换主席 <https://news.google.com/rss/articles/CBMivgFBVV95cUxQMXZHaTZnZWtRaks5MnRpb1NubllnWC1XUUV1dS1vSWZ4bGozMldQMjZzblN0SmRmWFFPNDFvZ3ZlSWpjbTBiT1lrel9mWGNfd0VScFBOZ2tzeFZTaWhUZDF4UmtrNEtYR3dWUVoxNWF5Si1ZMERvQVZGMjh2Z3M3alVUT3Y4WG1CSzY1YjhMa3N4TjdoWXNnS2tSUGpmRENyWGVTQWw5cjd6OEZTS0pCbmR0SF9SdnZNenpQV0VB?oc=5>
+- **特朗普** | 特朗普警告国际足联：更换主席因凡蒂诺，将犯下“严重错误”！英媒爆料：参与世界杯“私有化”的机构创立者是特朗普女儿伊万卡的小叔子 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1DOVZRVVdaanhkVl9NaXhxX011b0Z6MDF0UDNrR3ZLYTNuZzFzcjVqZFhpajZMMnlabzVQZkZ4S2ZIUDFVYWY4LS1LMWgwX0RfMDIxbU1SdW9RNFFFYXpaS2FqdmdzZw?oc=5>
+- **特朗普** | 移民改革会是特朗普的“尼克松访华”时刻吗？ <https://news.google.com/rss/articles/CBMifEFVX3lxTE5xTkJsLXc4amxCVlFHWGZQT01SeXQ2NHhRRmM3Y19lb2VnY0tWUC1Pb0tpcHZjQ3l2ZkZUMUI0QzgyQVpTT3dTVldXWm9TWUs2dUVoa0FxUTAtaVJfRE0zSTB0UFJpUl9uZHB1cXRlMVhMYXlvZEpDRF9NWW4?oc=5>
 
 ### 2026-08-11 15:27  (7 条)
 
