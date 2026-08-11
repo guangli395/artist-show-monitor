@@ -1,37 +1,13 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-11 21:39**
-- 本轮扫到 9255 条, 新增 **3** 条
+- 最近更新: **2026-08-11 22:35**
+- 本轮扫到 9255 条, 新增 **0** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮无新增
 
-### 王一博工作室针对滑雪摔懵事件发布过声明吗？
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimyxfy5495582.html>
-
-### 特朗普称与普京交涉成功 俄释放被关押美国前海军陆战队员
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-08-11 21:12
-- 链接: <https://news.google.com/rss/articles/CBMimANBVV95cUxQZUZ1NFd1WXF0UzNHWWE2aVhwVV9lQU9HSEJHbVFkdUMwX3B1ZzJfdmNBOW9WUkRnTVNTb09WRzREdEo5U1A1aEZNVm0tU3k0dUJZOFFublJDOG5Fc0FxdHJVbGJHdXYwbWowMVdoam9GMlJORXNtbFlNS1NRUmNBUU9GSldOUWlCZXZzLVFDdE1mZWptaUhxRm1MYl9pZVdFV0ZHMGxSSF9Mb2pHVnd6ZWphckM0R2NSbHdQdzFIX2NQVExSLVlhUzNuNENZZVpEa3ZvMkRCTXp0S1FEVWhPaDg4LVZPZEQ2NVp4dEV1MWR2VTB6LVBST21nZ3JITVh1TWUweU9USC1xU1lfNlhIdUVEaGFkZTVKTmRITkNsQ19CRUJLMEN0Z0I5dnhqNzJyQWc0RWlkNnZEX2Y5SFdheUdDR3lUcFNpdmhzS04xY1pZYzA1WWN1MTZMTjNSRGhjeWdqQ29ZNUZ6T1NHS3dYSWtnZzdDVWY5Y3RZbTRqNWc1TlpTaS1Ld290dmQxNmI2d0hYajhleEo?oc=5>
-
-### Stocks to Watch Tuesday Recap: Intel, Trump Media, On Holdings, Super Micro -- WSJ
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-08-11 20:58
-- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSURNSHpiQTdwTGxBdllKMVR5ZUtmaDVEdEg0aHhWUHNGZjhZMDhpZzF2U19hRXVqRzhfcGxfcDFTOV83MGlZcm8tSmdDam9KYk1OdXJ2VzBlU2NDeDZxVUNUcENmdmhheHhHQTV6Sk9jTkVVMTFqd0hJUzJQc0Y2ZDlza3dCUjRmRndJYlcwd0MyaDF5dVdYVDhuMnNWWUEtM0RzbFZGNTBnZw?oc=5>
-
-
----
-
+数据库里所有演出/动态都已见过,暂无新增。
 ## 历史发现
 
 ### 2026-08-11 21:39  (3 条)
