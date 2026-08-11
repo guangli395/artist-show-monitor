@@ -1,72 +1,90 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-11 07:44**
-- 本轮扫到 9180 条, 新增 **7** 条
+- 最近更新: **2026-08-11 08:47**
+- 本轮扫到 9189 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (9 条)
 
-### 美媒：特朗普离开土耳其未乘“空军一号”
+### 蔡徐坤澳门演唱会的无限流叙事具体是怎样设计的？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimxrnq5878008.html>
+
+### 蔡徐坤澳门演唱会全开麦唱跳了多少首原创歌曲？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimxrnq5877754.html>
+
+### 蔡徐坤澳门演唱会舞台有哪些视觉亮点和互动细节？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimxrnq5877620.html>
+
+### 蔡徐坤澳门演唱会玩转无限流，三次死亡重生燃爆全场
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimxrni0718661.html>
+
+### 周杰伦2027年福州演唱会获批
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimxrnp4301107.html>
+
+### 美联邦通信委员会出人意料地成为特朗普对华鹰派行动的先锋
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-08-11 06:51
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE4wdzU0ZzhfakVNYUhFcllRNDRVcnUzLVAzVEtZbXN6RE1WMHdUa0U5UTVtMGhoOThMSGlTaDZMQ2ViWTRQZGZuZFZ5UVRWZXIybVdOOGY3aDlQN1ByRF9lRDkyWk03TEY5bThmV0wyZDRQQ0tnbXdEb3hOV1FXUkU?oc=5>
+- 场馆: RFI
+- 时间: 2026-08-11 08:20
+- 链接: <https://news.google.com/rss/articles/CBMiowNBVV95cUxQcUxmMjJxOWJjXzJOUVZzXzdKSU04dHR6ODNsWGFMVEVGak1QZnVLbG5xX1JGemwyd2VEV0RLSGRCSFo5M1FMVzRvN2ViS2NTVV95aDZSQmdURlRHcDcxYW9WZFBGVDdVX2NKZTlXaEE5U1FXU2FoTjB0ZG1xVVhoNzMwLXdMTExrMFZEVjhHSGR6LThEQlg2RVVxRnc2eXp2dV9lV0tCZ2daaW1vdnBPeUtXeUdUSXVsR3lRTTA3YzJIV0NsZlJUMU5ZOTliaFhkM196ODBzeVZUR3dFT1RobDYzUXJYdkdUZV9IUnBOeXVVQ1cxRHBpOXAtMVpPVkQxUDR1UTc1OVZ2U1ZuU3Y2LXVxd0RBMUJMcTNjMVpUSGVVcTJWNWlWX1o5WVNnd3UxRHBnVW5TcUJKZEVvWURyWExxazdLa0JQVVhDXzFoWFpWeTZ5RFdzdlNlc1I0Q3BGdUdIZ3FOa1JWYzUwZ1VHLWJQWS1oQXZDT056bGhPXy1uazE4OXVYaWdHZV96enpwSHJiOWVjdFdCa1N5V0diVEFiVQ?oc=5>
 
-### 特朗普“真实社交”平台今夏流量大幅下滑|唐纳德·特朗普|社交软件|美国总统|机构|交易_手机新浪网
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-11 06:56
-- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxOTU5kVWJmWXhhN0IyQW5lbXpLc1FxMDc2S0h5dnFwdHY5SDhIaFg5emdQQ0p1UUZSdXJicWNfRXhEX18yNXVoV2xBVlVDcUVuaHlWa3BFRXBYUF9hdW9xc19xNUFONXJlOC1fdXB6aVR1SDFXM25ybUNCOG9IYnhzYWlmOG1EclBvcmc?oc=5>
-
-### 特朗普力挺因凡蒂诺
+### 特朗普力挺因凡蒂诺，“换掉他将是严重错误”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-11 07:36
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBhMXQycUJxVWFGd2tKMmwtalVZOEw1b04xUFhicHZ3QW9PMU9VcUtmVUhEVlA2ZTJ3WW9Ma3JSdjlWeFlhVXZsUzVWTGRQbWttYkExNmstRVFCSnhaRmlhN2RYelNQWUIwVnBKV1RkWkJBR3RzQmg3dQ?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-08-11 06:08
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFAtWHc3eFJDTHJZNXJBZ2hsMm16Y0xGdmdkMy1LN0FxNFh4OEJKZENtYjdHa0xjSXlDZE02d2pwYmNmVXRET3h3ODg2S1g?oc=5>
 
 ### 特朗普称美军已“100%控制”霍尔木兹海峡
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中青网
-- 时间: 2026-08-10 23:12
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBmY2RyZ0Nvak10U2dmT04tYndOMjJ1Q1ZNRVpwTjJHTDhEcXpFRkZrS0hHeWUwektDdFFzTC1EeVBMcEZUbklHdGlYRmYyTXdzamNmZlpmTG9kMTJvMHIwWU8yMFA?oc=5>
+- 场馆: eastmoney.com
+- 时间: 2026-08-11 05:58
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5femhJYVY1Um5xLTVGN01ZTGRJRmljdGF1YkxsdmRHdGlkUlB2UkN2cjNTQXFfYXhNc3pibWplb0tPMDFLOTFXWTRScTg0dkhXUHZISE5zZThKZ0x6OE5HYQ?oc=5>
 
-### 为躲暗杀派出“假空军一号”……Trump乘餐饮车转移- 阿视亚经济
+### 伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 아시아경제
-- 时间: 2026-08-11 06:23
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9zVmFiaHNqeHNtWmVqRmhlM0lzVUtTV0drUUVxVTAtaDgwSDJrcll6TkZ6QWY0Tl80OUpQcGdRaEhmX0xtZ2FDZVVQdXR0akhwQ1QySFF3REc1c2JuR1lpVWN3UWc?oc=5>
-
-### 特朗普的媒体公司Trump Media：Truth Social实时信息流注册客户超过10个
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 富途牛牛
-- 时间: 2026-08-11 00:34
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxNVWp0c2tfY05kVE5MOGdmZHBaazJBbkxXTHZ5VW1UeXN0eV9qejhpdjhaWHM5NlFLMFR6c3BncGNVcEU5TzVaa3ZtUnc3LTV5Y08ycGFTRW5yeTZJSnFHanhyOGp3dVo5ankyMDA2WDVTc1pwWG1GZGFsWi0wNmdxamlhdkxoTU5nYWswQlVJcFhhNkN2cm55cA?oc=5>
-
-### 比特币暴跌，特朗普媒体科技集团上半年巨亏超6亿美元：放弃加密货币，豪赌核聚变
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 凤凰网财经
-- 时间: 2026-08-11 06:20
-- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE5jNzhDX2cwdnRDcEZiVHl5RGpJdlJxTzJxWDdVOG5TNHRIVk40d1IwV2pld3JzcUo1WmRVeUVSZlhXa3F2Sy1aOE01elA0bHdG?oc=5>
+- 场馆: 华尔街见闻
+- 时间: 2026-08-11 00:42
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBLZWl0VnNlMFJtYnRVWnRxel8tcjNzUENwRWZzazVqalJaRFZnRUZubEZZQnhuMWZYOFk4SzNiSVNnN2NGbnFHSTRfUDBibG1GUkdF?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-11 08:47  (9 条)
+
+- **蔡徐坤** | 蔡徐坤澳门演唱会的无限流叙事具体是怎样设计的？ <https://www.sina.cn/news/article/nimxrnq5878008.html>
+- **蔡徐坤** | 蔡徐坤澳门演唱会全开麦唱跳了多少首原创歌曲？ <https://www.sina.cn/news/article/nimxrnq5877754.html>
+- **蔡徐坤** | 蔡徐坤澳门演唱会舞台有哪些视觉亮点和互动细节？ <https://www.sina.cn/news/article/nimxrnq5877620.html>
+- **蔡徐坤** | 蔡徐坤澳门演唱会玩转无限流，三次死亡重生燃爆全场 <https://www.sina.cn/news/article/nimxrni0718661.html>
+- **周杰伦** | 周杰伦2027年福州演唱会获批 <https://www.sina.cn/news/article/nimxrnp4301107.html>
+- **特朗普** | 美联邦通信委员会出人意料地成为特朗普对华鹰派行动的先锋 <https://news.google.com/rss/articles/CBMiowNBVV95cUxQcUxmMjJxOWJjXzJOUVZzXzdKSU04dHR6ODNsWGFMVEVGak1QZnVLbG5xX1JGemwyd2VEV0RLSGRCSFo5M1FMVzRvN2ViS2NTVV95aDZSQmdURlRHcDcxYW9WZFBGVDdVX2NKZTlXaEE5U1FXU2FoTjB0ZG1xVVhoNzMwLXdMTExrMFZEVjhHSGR6LThEQlg2RVVxRnc2eXp2dV9lV0tCZ2daaW1vdnBPeUtXeUdUSXVsR3lRTTA3YzJIV0NsZlJUMU5ZOTliaFhkM196ODBzeVZUR3dFT1RobDYzUXJYdkdUZV9IUnBOeXVVQ1cxRHBpOXAtMVpPVkQxUDR1UTc1OVZ2U1ZuU3Y2LXVxd0RBMUJMcTNjMVpUSGVVcTJWNWlWX1o5WVNnd3UxRHBnVW5TcUJKZEVvWURyWExxazdLa0JQVVhDXzFoWFpWeTZ5RFdzdlNlc1I0Q3BGdUdIZ3FOa1JWYzUwZ1VHLWJQWS1oQXZDT056bGhPXy1uazE4OXVYaWdHZV96enpwSHJiOWVjdFdCa1N5V0diVEFiVQ?oc=5>
+- **特朗普** | 特朗普力挺因凡蒂诺，“换掉他将是严重错误” <https://news.google.com/rss/articles/CBMiTEFVX3lxTFAtWHc3eFJDTHJZNXJBZ2hsMm16Y0xGdmdkMy1LN0FxNFh4OEJKZENtYjdHa0xjSXlDZE02d2pwYmNmVXRET3h3ODg2S1g?oc=5>
+- **特朗普** | 特朗普称美军已“100%控制”霍尔木兹海峡 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5femhJYVY1Um5xLTVGN01ZTGRJRmljdGF1YkxsdmRHdGlkUlB2UkN2cjNTQXFfYXhNc3pibWplb0tPMDFLOTFXWTRScTg0dkhXUHZISE5zZThKZ0x6OE5HYQ?oc=5>
+- **特朗普** | 伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？ <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBLZWl0VnNlMFJtYnRVWnRxel8tcjNzUENwRWZzazVqalJaRFZnRUZubEZZQnhuMWZYOFk4SzNiSVNnN2NGbnFHSTRfUDBibG1GUkdF?oc=5>
 
 ### 2026-08-11 07:44  (7 条)
 
