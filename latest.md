@@ -1,94 +1,67 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-11 03:48**
-- 本轮扫到 9158 条, 新增 **10** 条
+- 最近更新: **2026-08-11 05:00**
+- 本轮扫到 9164 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (10 条)
+## 本轮新发现 (6 条)
 
-### 蔡徐坤thedeadman演唱会 ☕
+### 豆！从此你顶天又立地！小黄豆 蔡徐坤演唱会 搞笑 万万没想到 柳州肥姨妈螺蛳粉
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimxewu5932515.html>
+- 链接: <https://www.sina.cn/news/article/nimxmes5870842.html>
 
-### 因伊朗提出战争赔偿 特朗普称也要向伊朗索赔
+### 笑死我了 神来了也绷不住蔡徐坤蔡徐坤演唱会网友神评论大赏 满级评论 搞笑
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-08-10 19:31
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBrTlFtZmNuek9SZlItdFNWM2lDNmlQYVBCTDlpd2xJNTlER3JsTXFzc0hqQW1aV2hiRzJ0QndJMEQtS0JwQ0UyNHpvTmROdlVMVW9DQW84N1loaE91cXU5UXVNeWhPTkdHUWlYcEFHc3k1VmZmUFdJX1pOMm9ybFU?oc=5>
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimxewt4412066.html>
 
-### 特朗普力挺因凡蒂诺：更换国际足联主席将是个“重大错误”
+### 娜扎18岁参演周杰伦执导《红尘客栈》MV
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-08-11 03:22
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE51a3NZU2FydDVPT2U2UGZDSG1JQkNfcV92YWl1d2xWODJQVXdpUHlMaWNhczgtWTBEMzNWeDFwTlJudVJRcHBab1RxZ0FYbGo3eC05cmFvZkItUGRkMWU1cnBuS2g2M2xmX0E?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimxmem0707034.html>
 
-### 特朗普媒体科技：超十家客户订阅“真实社交”实时数据流
+### 特朗普力挺因凡蒂诺：他“非常出色”，警告国际足联不要考虑更换主席，否则将犯下“严重错误”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-11 03:21
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxNU19iQ21NZzJkVDRFdm4tS3ZCRmZCNEc2R3h2ZlFLUnMzMnFMeTU1V2U5SmZ6NS05OHpNaUx5MVVOajc1QTlNeDhtcUFpaHNsMG1ab3cyZmNZbGc4ckNFWVctNWRUV2xaak1jTDlfT0g1SDV5TnNiaU80bW1udHA2OWwzRlRwaUU?oc=5>
+- 场馆: k.sina.com.cn
+- 时间: 2026-08-11 04:42
+- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxOSUJ3YWRnX20xLTVGWTRHRk43clc3VjdCNG1BM1pqeWNoUDRJVGlIemRQYkNfQkJjVHl3Y1Z2OHRobm5GaF9TSVB1WDV3VnF4N2tCSVdPb0V0QVE5SVdQUXhnNUFmaGtZd1RzV3hvQ2YtaXpOcnVmRldCWVJ3dGZUdE9n?oc=5>
 
-### 特朗普否认与沃什频繁通话：自从沃什接任以来，只谈过一次
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-08-10 21:07
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBTM0tQc2tlWk1WOHlIaFZXLWpEXzFxcHhkMFJ1Z0M3cFEzUFNsX2l3N3JfczlETWdXZlMxVFh3U1JsbFB1QVFDWnRaaHBkNjZvWVlv?oc=5>
-
-### 内塔尼亚胡硬刚特朗普 罕见公开分歧
+### 美国总统特朗普发文表示，国际足联如果因任何原因考虑更换主席因凡蒂诺
 
 - 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-08-11 02:54
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1HbUJIUkJiRk1PRWdGNHB6OUpjWDVMdWZ1b01HR1NucHVxdkJLYWpZbjhKdm40ODY0bEowdGpfTmFUZGxseWRSSmJFcjJQdWNYbjhqUVoxT0RwbDRGdTJGWTlmNVFRalBqaTRuMVVjN3c?oc=5>
-
-### 特朗普称美方“百分百”控制霍尔木兹海峡
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-08-10 22:41
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1pZUZNVmlIcTcyOXh2djBpZUpmZzN2UUlORzhiMTJEQVJGU1YwUUUteFFhejBJTnR2WlFDQ09xMnhQOWJ3dnVNYVlCZHV4a1VhTjlnVDdNcFpOcUpoQXJUYW1uWHpDZTY1OGtSRHFrYVlwR2cxbngwT0VMUWlUUlk?oc=5>
-
-### 特朗普：美方“百分百”控制霍尔木兹海峡
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 川观新闻
-- 时间: 2026-08-11 03:05
-- 链接: <https://news.google.com/rss/articles/CBMiTkFVX3lxTE9MeXE2YzhVSTJwRTV6Y3BzTU8wYlY3a1ZIT05MRWxvdmF2dzQwRTNocFhKc016akdCNi1PZnJXZVVsRjdtVWR3cWtqVjdMZw?oc=5>
-
-### 特朗普的媒体公司Trump Media：Truth Social实时信息流注册客户超过10个
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-11 00:32
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9yUDZrVS1UbUVpSUhmOHp3bFBwVkJMUGNjc2hXNVJXM3ptLWZhZlUzMmNXUlc4Qjlpa284OEFxckQ0a3E3bmRCUTZCOA?oc=5>
-
-### 华邮独家报道：Trump上月到土耳其参加北约峰会，回国时不但没坐卡塔尔送的专机（图二）、甚至也没坐原先的空军一号（图三），而是乘地勤的送餐车、秘密登上旁边的C-32A（图四）因为伊朗在实施刺杀计划，他的生命面临真实的威胁华邮向白宫证实，白宫既不承认、也
-
-- 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: 新浪网
-- 时间: 2026-08-11 00:32
-- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ZRDFkVUV1Vk9PaXF4VkV6czNGOUdTTDZ1dHAzcjZTTkdRNjN0NDh6S0gwT0Fjd29ERnBvVERaUFEzcnBPeE53VFE3MGQtakdwZ0hZU2pIQ2E3MnNiUXBQVHpVWQ?oc=5>
+- 时间: 2026-08-11 02:10
+- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTFBheThPemh0cWRlam5PUFo3QlNpYjItX1ZPZFVQZTNhVU16ejdyR2ZZcmxhaDlMSWU2Ry0tQ2VjYWV4SXhhdzBCcktubHlqMTBPUGFUVjJqZTllMHVOeGRRc2FRZw?oc=5>
+
+### 和平希望又受挫！特朗普称美军已“100%控制”霍尔木兹，并向伊朗索赔
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 财联社
+- 时间: 2026-08-10 16:25
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE12Tk5sZnJJYkRZQjlXenhHcVB5ZmY3aGh5NlpLRDdhSV9HWWlWblowTFJQZWlDTVFYVURQSTJPN2IyV09tcmllQQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-11 05:00  (6 条)
+
+- **蔡徐坤** | 豆！从此你顶天又立地！小黄豆 蔡徐坤演唱会 搞笑 万万没想到 柳州肥姨妈螺蛳粉 <https://www.sina.cn/news/article/nimxmes5870842.html>
+- **蔡徐坤** | 笑死我了 神来了也绷不住蔡徐坤蔡徐坤演唱会网友神评论大赏 满级评论 搞笑 <https://www.sina.cn/news/article/nimxewt4412066.html>
+- **周杰伦** | 娜扎18岁参演周杰伦执导《红尘客栈》MV <https://www.sina.cn/news/article/nimxmem0707034.html>
+- **特朗普** | 特朗普力挺因凡蒂诺：他“非常出色”，警告国际足联不要考虑更换主席，否则将犯下“严重错误” <https://news.google.com/rss/articles/CBMiggFBVV95cUxOSUJ3YWRnX20xLTVGWTRHRk43clc3VjdCNG1BM1pqeWNoUDRJVGlIemRQYkNfQkJjVHl3Y1Z2OHRobm5GaF9TSVB1WDV3VnF4N2tCSVdPb0V0QVE5SVdQUXhnNUFmaGtZd1RzV3hvQ2YtaXpOcnVmRldCWVJ3dGZUdE9n?oc=5>
+- **特朗普** | 美国总统特朗普发文表示，国际足联如果因任何原因考虑更换主席因凡蒂诺 <https://news.google.com/rss/articles/CBMiY0FVX3lxTFBheThPemh0cWRlam5PUFo3QlNpYjItX1ZPZFVQZTNhVU16ejdyR2ZZcmxhaDlMSWU2Ry0tQ2VjYWV4SXhhdzBCcktubHlqMTBPUGFUVjJqZTllMHVOeGRRc2FRZw?oc=5>
+- **特朗普** | 和平希望又受挫！特朗普称美军已“100%控制”霍尔木兹，并向伊朗索赔 <https://news.google.com/rss/articles/CBMiSEFVX3lxTE12Tk5sZnJJYkRZQjlXenhHcVB5ZmY3aGh5NlpLRDdhSV9HWWlWblowTFJQZWlDTVFYVURQSTJPN2IyV09tcmllQQ?oc=5>
 
 ### 2026-08-11 03:48  (10 条)
 
