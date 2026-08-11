@@ -1,40 +1,51 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-11 10:44**
-- 本轮扫到 9200 条, 新增 **3** 条
+- 最近更新: **2026-08-11 11:39**
+- 本轮扫到 9204 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (4 条)
 
-### “付费抢先看帖”惹争议：特朗普社媒平台流量下跌，亏损超2亿美元
+### 娜扎18岁如何被选中出演周杰伦《红尘客栈》MV？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-11 06:53
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE12RjVRcFZHeV9ySkhoOThUQmJhZ1ZVUjFKak0taWVGcXA5eVhkLTR4VzkwOHhRVzY5OElxR2VpbjRCdFdWSWptQl9oYnM?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimyaak5752520.html>
 
-### 特朗普媒体科技：超十家客户订阅“真实社交”实时数据流
+### 《红尘客栈》MV当年为何没有公开娜扎身份？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimyaac0593651.html>
+
+### 特朗普旗下媒体公司披露巨额亏损，公布新一轮转型自救计划
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-08-11 03:21
-- 链接: <https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRVpLeWxYUkpPTi1CazhHOFVvTFBJTUZfV1BacElRdmZvUkpLZWdoYWZqMkh5blpSZm14bVdVeUxNb1M1TXUzTkRPeFBMYlV0WTl1M1pRQlN2SXZibDNhNkxadXNfQnJ5VTd6dW9lVFc0Z3dpVG1zQnFabzRycEM2RnNnVTItX3F2blNYbUt6bGdoZmpVVE9zMW9wbGxiLU00aW0wczlRTE5SSUNham9pNGFNMUFtb1J4UFJFQ0ZKMzMtYjZ2NkhCTHJKZkE4Z0hsVmJWMDVMaUNpejdo?oc=5>
+- 时间: 2026-08-11 09:30
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxNVS1pVG1abFc5ek5JTkFQc0l1dTUwNjljbl9uOFFWSUpmMG1QTXFTVHA2YmY0N0JuVU1yTkg3dUFCUzM1VWtQazZreVR6enFtQnNEYU5YUlRycmlOc3Q1eEt3MzlSWkRHeDJrZ2ZqUmZKNGo1VWhWMmVYMFZfNzFWOG9Bd3pLX0k?oc=5>
 
-### Strategy亏本卖币、特朗普媒体割肉、灰度撤回山寨ETF，加密市场一周内急剧退潮
+### 特朗普称美方“百分百”控制霍尔木兹海峡
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: PANews
-- 时间: 2026-08-11 10:07
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9UZXhyVzlHMk5fWDBMa3JlYUJ0RnduS2EwMzRRZXZPYW5YendodkxRU0JfdlRNTjMxWFJEZVZuVExWeG5VVUtuV1VkYU5DbzhVdl9YeDZTSEI0TjhkZkVnUlJJUF8tT0tCY29jN0FHUTZ3NEFtMUNISFJsUFRabDg?oc=5>
+- 场馆: 新华网
+- 时间: 2026-08-10 22:41
+- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE04eTk0R2hnNDE3M3BEclYtQXo1YWpQbW1OY0lsUGFEMDByRVRBbW5MMS1BQ1hkeGtfbEJ1bEpKOFYwRElNSmxna201UE9ISTYxQzFSZ2ZSd09weXFsdWVFaW5PU0hmTEozbHZOM3N4MVJ3eXhqRGxwX3BDZ2V6Zw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-11 11:39  (4 条)
+
+- **周杰伦** | 娜扎18岁如何被选中出演周杰伦《红尘客栈》MV？ <https://www.sina.cn/news/article/nimyaak5752520.html>
+- **周杰伦** | 《红尘客栈》MV当年为何没有公开娜扎身份？ <https://www.sina.cn/news/article/nimyaac0593651.html>
+- **特朗普** | 特朗普旗下媒体公司披露巨额亏损，公布新一轮转型自救计划 <https://news.google.com/rss/articles/CBMihwFBVV95cUxNVS1pVG1abFc5ek5JTkFQc0l1dTUwNjljbl9uOFFWSUpmMG1QTXFTVHA2YmY0N0JuVU1yTkg3dUFCUzM1VWtQazZreVR6enFtQnNEYU5YUlRycmlOc3Q1eEt3MzlSWkRHeDJrZ2ZqUmZKNGo1VWhWMmVYMFZfNzFWOG9Bd3pLX0k?oc=5>
+- **特朗普** | 特朗普称美方“百分百”控制霍尔木兹海峡 <https://news.google.com/rss/articles/CBMifkFVX3lxTE04eTk0R2hnNDE3M3BEclYtQXo1YWpQbW1OY0lsUGFEMDByRVRBbW5MMS1BQ1hkeGtfbEJ1bEpKOFYwRElNSmxna201UE9ISTYxQzFSZ2ZSd09weXFsdWVFaW5PU0hmTEozbHZOM3N4MVJ3eXhqRGxwX3BDZ2V6Zw?oc=5>
 
 ### 2026-08-11 10:44  (3 条)
 
