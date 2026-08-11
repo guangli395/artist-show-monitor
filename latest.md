@@ -1,78 +1,91 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-11 08:47**
-- 本轮扫到 9189 条, 新增 **9** 条
+- 最近更新: **2026-08-11 09:54**
+- 本轮扫到 9197 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (9 条)
+## 本轮新发现 (8 条)
 
-### 蔡徐坤澳门演唱会的无限流叙事具体是怎样设计的？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimxrnq5878008.html>
-
-### 蔡徐坤澳门演唱会全开麦唱跳了多少首原创歌曲？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimxrnq5877754.html>
-
-### 蔡徐坤澳门演唱会舞台有哪些视觉亮点和互动细节？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimxrnq5877620.html>
-
-### 蔡徐坤澳门演唱会玩转无限流，三次死亡重生燃爆全场
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimxrni0718661.html>
-
-### 周杰伦2027年福州演唱会获批
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimxrnp4301107.html>
-
-### 美联邦通信委员会出人意料地成为特朗普对华鹰派行动的先锋
+### 特朗普延长《琼斯法案》豁免期以确保美国能源供应
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-08-11 08:20
-- 链接: <https://news.google.com/rss/articles/CBMiowNBVV95cUxQcUxmMjJxOWJjXzJOUVZzXzdKSU04dHR6ODNsWGFMVEVGak1QZnVLbG5xX1JGemwyd2VEV0RLSGRCSFo5M1FMVzRvN2ViS2NTVV95aDZSQmdURlRHcDcxYW9WZFBGVDdVX2NKZTlXaEE5U1FXU2FoTjB0ZG1xVVhoNzMwLXdMTExrMFZEVjhHSGR6LThEQlg2RVVxRnc2eXp2dV9lV0tCZ2daaW1vdnBPeUtXeUdUSXVsR3lRTTA3YzJIV0NsZlJUMU5ZOTliaFhkM196ODBzeVZUR3dFT1RobDYzUXJYdkdUZV9IUnBOeXVVQ1cxRHBpOXAtMVpPVkQxUDR1UTc1OVZ2U1ZuU3Y2LXVxd0RBMUJMcTNjMVpUSGVVcTJWNWlWX1o5WVNnd3UxRHBnVW5TcUJKZEVvWURyWExxazdLa0JQVVhDXzFoWFpWeTZ5RFdzdlNlc1I0Q3BGdUdIZ3FOa1JWYzUwZ1VHLWJQWS1oQXZDT056bGhPXy1uazE4OXVYaWdHZV96enpwSHJiOWVjdFdCa1N5V0diVEFiVQ?oc=5>
+- 场馆: idnfinancials.com
+- 时间: 2026-08-11 09:00
+- 链接: <https://news.google.com/rss/articles/CBMi0wJBVV95cUxQaGRMcjNfSHFsemV3QVZmWm9uYlo0X25kMGY2Ql82Z1Zud2tVYm9kbmVrWWhweU1Rd29TQUxwMzlxSVl1ckNra3o5MzFTMk1Hby1ORFJWUUVleElDR2xWQUF0OTMxOGgtOEVvX1pPV1RUbkN4c1BWNHFPdjJfdVNPWDE4RTNibDM4em5zZkx5ejhReW5jYzdjQVk1UGg5eFlSSGtuNVk3Q3cxQktHdV83ZXZmVm1ZaXd5LXJmTHoza3kwTE51RXlfZkNkYTFKVlpxXzhxNHh6dmlRVjE1S1lHbGF2dHJlNG43YXBVWkdjWjdTVDg5QVhudXRmanNOOFJxMGV5TWlYcXVZM1ZRRVc4aExmWHQ5X1p4ajlJVHhZbklIc1VjNG9wOWZzZm5kSGdtMWR0dHZ5VnplOUxLYURVQ0pVbE41aF9jSWRmRjZZNWFsQk0?oc=5>
 
-### 特朗普力挺因凡蒂诺，“换掉他将是严重错误”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-11 06:08
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFAtWHc3eFJDTHJZNXJBZ2hsMm16Y0xGdmdkMy1LN0FxNFh4OEJKZENtYjdHa0xjSXlDZE02d2pwYmNmVXRET3h3ODg2S1g?oc=5>
-
-### 特朗普称美军已“100%控制”霍尔木兹海峡
+### “付费抢先看帖”惹争议：特朗普社媒平台流量下跌，亏损超2亿美元
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: eastmoney.com
-- 时间: 2026-08-11 05:58
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5femhJYVY1Um5xLTVGN01ZTGRJRmljdGF1YkxsdmRHdGlkUlB2UkN2cjNTQXFfYXhNc3pibWplb0tPMDFLOTFXWTRScTg0dkhXUHZISE5zZThKZ0x6OE5HYQ?oc=5>
+- 场馆: 海报新闻
+- 时间: 2026-08-11 07:02
+- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE5SZXh2a2tUZ0ZIZFByQnZRTG4tbWJmX2lOZGVpM1gxY2VLWHhNX0s4MDFnRGFDSm9oRU1xSV9HLTFBYXRmaUhwS0hNSnI4OUE3?oc=5>
 
-### 伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？
+### 特朗普媒体科技：超十家客户订阅“真实社交”实时数据流
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-08-11 00:42
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBLZWl0VnNlMFJtYnRVWnRxel8tcjNzUENwRWZzazVqalJaRFZnRUZubEZZQnhuMWZYOFk4SzNiSVNnN2NGbnFHSTRfUDBibG1GUkdF?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-11 05:48
+- 链接: <https://news.google.com/rss/articles/CBMixwJBVV95cUxOdDRmQnE3b2V4SzZ5S3pwbzR0TFo2OEd3NGUxTmVtN2RCZlVOdkprWHpubjNpc0VvbUQwc2ZHeWtrWjZHWTdWMmJKNndsaDdHMzZrYzJhRGZReTlERGRLaW9CWkxJVVpZeGtGdVNSN2lfbkpjWnlqdHZGRDczWWQ4LVRfTGVXaUo1M3ZKVTZLNTAtRG5lVmZaMjFfR3YwMkN0c3NDZW1LQWlRQWZ6NmtzNVpRMGdzUjRfemE1bzNUMWJFVnEySEJ2M042VmdrMXpDSDQ0YmtVbU1uc3MzTU9tdFplRGZZd2hKRUFaTktTU2NuTEFMVUI5MXRmYk9jbHNaZDZvaUIyR1plQzZuLXFCeGtacDY2WVZwcjZHemF1SzhsNHkwYU5KYkF6NHdsS19VODY0clV5WkxrTHhrN1ZjUE1FVVg0Z2s?oc=5>
+
+### 特朗普“真实社交”平台今夏流量大幅下滑
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-11 03:46
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxOV2tYZUhUR1ZsVVFKTDdPa1FIQmY2NFdIYVN5OHd6VjhiWnoxZ2JsVHNCeVZqWkVmT0hLRzgxUW91Vmo4VmVBODI2allyV2p6cDhuQlRwblplVHRiRzdqWTJqbmxleDQwcDVjZmJOUGdXb1k0b1FDaDZxUHRIcnJxQXlHSm5XLVE?oc=5>
+
+### 特朗普：若撤换国际足联主席因凡蒂诺将是“可怕错误”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: zaobao.com.sg
+- 时间: 2026-08-11 03:04
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE11ZnMtcDExQ2puTGl6UTVSQUJKcUVoWFpOek52Rk42YnNpcm54bHo3MExsakRWeG80VGtpbHJJYmNCLUdLakJ4eU5rMFkxVXBrVXJLVktPZXJFZjNCS0Fhb1lXMjRYOXh2d3VR?oc=5>
+
+### 特朗普淡化与沃什接触 美联储独立性再成焦点
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-11 07:23
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFB1N0o3U1VoNU1waGo0clJYRmkyZ3pkT3BNUTVpU2NMTS1keWQwMjFYMkRJbEZhVEM3YjJtdUpCVFJ4YWdMNnR4VmRYUHRud1RFaEthS0NWTzRlVFhadGRIN2xHTnp4MEpRb0VBdGVBSzJIcU13T29vRQ?oc=5>
+
+### 巨亏2.38亿美元！特朗普媒体与科技集团：不玩加密货币了
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: mrjjxw.com
+- 时间: 2026-08-11 09:51
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VOF9iMHdWYzRxT0tGdEpoVjhteUV1elZyUktVQnNIb2o5ZVBFd09hUVVqUVpjQXlqZkY3djBLZDlPZEhIbU1CWjNyU181MGNDVFNmQk5JbWVpSmtHaEozYzBCbHVrUQ?oc=5>
+
+### Trump Media新增购入4661.84枚比特币，总持仓突破1.2万枚
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 富途牛牛
+- 时间: 2026-08-11 09:33
+- 链接: <https://news.google.com/rss/articles/CBMipgFBVV95cUxQWnYyUHZuR2trT1FuMDdjVVhxRHhfVjFmMTNwYjVfS3VnZTJXTjRpMDE0dWhCai10RkcxQkpDUDluZWN5MFVROFRjUjloUEZUaVpremFUamcyeUQ2UDVKQlREbkR0VGJENHRFSDdMVENQSk1TaE9wV2pNa3dZbEhZWFlETkhQY3YzSmt6V3QzekdpUU4xZ293WDlOdzRmVHN5NlJCVVl3?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-11 09:54  (8 条)
+
+- **特朗普** | 特朗普延长《琼斯法案》豁免期以确保美国能源供应 <https://news.google.com/rss/articles/CBMi0wJBVV95cUxQaGRMcjNfSHFsemV3QVZmWm9uYlo0X25kMGY2Ql82Z1Zud2tVYm9kbmVrWWhweU1Rd29TQUxwMzlxSVl1ckNra3o5MzFTMk1Hby1ORFJWUUVleElDR2xWQUF0OTMxOGgtOEVvX1pPV1RUbkN4c1BWNHFPdjJfdVNPWDE4RTNibDM4em5zZkx5ejhReW5jYzdjQVk1UGg5eFlSSGtuNVk3Q3cxQktHdV83ZXZmVm1ZaXd5LXJmTHoza3kwTE51RXlfZkNkYTFKVlpxXzhxNHh6dmlRVjE1S1lHbGF2dHJlNG43YXBVWkdjWjdTVDg5QVhudXRmanNOOFJxMGV5TWlYcXVZM1ZRRVc4aExmWHQ5X1p4ajlJVHhZbklIc1VjNG9wOWZzZm5kSGdtMWR0dHZ5VnplOUxLYURVQ0pVbE41aF9jSWRmRjZZNWFsQk0?oc=5>
+- **特朗普** | “付费抢先看帖”惹争议：特朗普社媒平台流量下跌，亏损超2亿美元 <https://news.google.com/rss/articles/CBMiUEFVX3lxTE5SZXh2a2tUZ0ZIZFByQnZRTG4tbWJmX2lOZGVpM1gxY2VLWHhNX0s4MDFnRGFDSm9oRU1xSV9HLTFBYXRmaUhwS0hNSnI4OUE3?oc=5>
+- **特朗普** | 特朗普媒体科技：超十家客户订阅“真实社交”实时数据流 <https://news.google.com/rss/articles/CBMixwJBVV95cUxOdDRmQnE3b2V4SzZ5S3pwbzR0TFo2OEd3NGUxTmVtN2RCZlVOdkprWHpubjNpc0VvbUQwc2ZHeWtrWjZHWTdWMmJKNndsaDdHMzZrYzJhRGZReTlERGRLaW9CWkxJVVpZeGtGdVNSN2lfbkpjWnlqdHZGRDczWWQ4LVRfTGVXaUo1M3ZKVTZLNTAtRG5lVmZaMjFfR3YwMkN0c3NDZW1LQWlRQWZ6NmtzNVpRMGdzUjRfemE1bzNUMWJFVnEySEJ2M042VmdrMXpDSDQ0YmtVbU1uc3MzTU9tdFplRGZZd2hKRUFaTktTU2NuTEFMVUI5MXRmYk9jbHNaZDZvaUIyR1plQzZuLXFCeGtacDY2WVZwcjZHemF1SzhsNHkwYU5KYkF6NHdsS19VODY0clV5WkxrTHhrN1ZjUE1FVVg0Z2s?oc=5>
+- **特朗普** | 特朗普“真实社交”平台今夏流量大幅下滑 <https://news.google.com/rss/articles/CBMihwFBVV95cUxOV2tYZUhUR1ZsVVFKTDdPa1FIQmY2NFdIYVN5OHd6VjhiWnoxZ2JsVHNCeVZqWkVmT0hLRzgxUW91Vmo4VmVBODI2allyV2p6cDhuQlRwblplVHRiRzdqWTJqbmxleDQwcDVjZmJOUGdXb1k0b1FDaDZxUHRIcnJxQXlHSm5XLVE?oc=5>
+- **特朗普** | 特朗普：若撤换国际足联主席因凡蒂诺将是“可怕错误” <https://news.google.com/rss/articles/CBMia0FVX3lxTE11ZnMtcDExQ2puTGl6UTVSQUJKcUVoWFpOek52Rk42YnNpcm54bHo3MExsakRWeG80VGtpbHJJYmNCLUdLakJ4eU5rMFkxVXBrVXJLVktPZXJFZjNCS0Fhb1lXMjRYOXh2d3VR?oc=5>
+- **特朗普** | 特朗普淡化与沃什接触 美联储独立性再成焦点 <https://news.google.com/rss/articles/CBMieEFVX3lxTFB1N0o3U1VoNU1waGo0clJYRmkyZ3pkT3BNUTVpU2NMTS1keWQwMjFYMkRJbEZhVEM3YjJtdUpCVFJ4YWdMNnR4VmRYUHRud1RFaEthS0NWTzRlVFhadGRIN2xHTnp4MEpRb0VBdGVBSzJIcU13T29vRQ?oc=5>
+- **Trump** | 巨亏2.38亿美元！特朗普媒体与科技集团：不玩加密货币了 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VOF9iMHdWYzRxT0tGdEpoVjhteUV1elZyUktVQnNIb2o5ZVBFd09hUVVqUVpjQXlqZkY3djBLZDlPZEhIbU1CWjNyU181MGNDVFNmQk5JbWVpSmtHaEozYzBCbHVrUQ?oc=5>
+- **Trump** | Trump Media新增购入4661.84枚比特币，总持仓突破1.2万枚 <https://news.google.com/rss/articles/CBMipgFBVV95cUxQWnYyUHZuR2trT1FuMDdjVVhxRHhfVjFmMTNwYjVfS3VnZTJXTjRpMDE0dWhCai10RkcxQkpDUDluZWN5MFVROFRjUjloUEZUaVpremFUamcyeUQ2UDVKQlREbkR0VGJENHRFSDdMVENQSk1TaE9wV2pNa3dZbEhZWFlETkhQY3YzSmt6V3QzekdpUU4xZ293WDlOdzRmVHN5NlJCVVl3?oc=5>
 
 ### 2026-08-11 08:47  (9 条)
 
