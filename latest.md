@@ -1,88 +1,82 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-11 06:12**
-- 本轮扫到 9173 条, 新增 **9** 条
+- 最近更新: **2026-08-11 07:44**
+- 本轮扫到 9180 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (9 条)
+## 本轮新发现 (7 条)
 
-### 为配合特朗普的赛车比赛，华盛顿部分航班将暂停-观察者网
+### 美媒：特朗普离开土耳其未乘“空军一号”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-08-11 05:12
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE91RDNnX1BLRE90bEFGWW9XMnRjMjRkbWFBeVktRldpOGdJZ19vQXVwVm1acWs0TUR2TERqbjVjMDRPWnZnc2xlZU5QTGxOSVFydHlFQmJLMU9aMDlySjZzSXlMS3ExVUFLbXc?oc=5>
+- 场馆: 新华网
+- 时间: 2026-08-11 06:51
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE4wdzU0ZzhfakVNYUhFcllRNDRVcnUzLVAzVEtZbXN6RE1WMHdUa0U5UTVtMGhoOThMSGlTaDZMQ2ViWTRQZGZuZFZ5UVRWZXIybVdOOGY3aDlQN1ByRF9lRDkyWk03TEY5bThmV0wyZDRQQ0tnbXdEb3hOV1FXUkU?oc=5>
 
-### 特朗普媒体科技：超十家客户订阅“真实社交”实时数据流
+### 特朗普“真实社交”平台今夏流量大幅下滑|唐纳德·特朗普|社交软件|美国总统|机构|交易_手机新浪网
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-08-11 05:48
-- 链接: <https://news.google.com/rss/articles/CBMijwJBVV95cUxPSk56RDUzdGNIVGZiZmZYRXpTelpsVmZadVprSUJlNEVSZ3JIblpNS1drMlg0aGd3SXhjSTBnVDR4S3JKZXhVZVFHZmt3V0lJNVlfZ3ZINzZsZEZNeEFYdkFEZDNPREI4TGtKUEd5LVFOdUdVTy1ndGp2RDhDZFFwUFZoZHlPUW51clltMmpoOWVNODlKR0tuLTN2V3NsenkwUlhDTHdxY2RsTTdPUldLdmVRYl9KdjhqZkQ2ODY4Z2ZrMGw1VG0xQkNaOWpMMUhiSTlqRDBwRkRCdm1xOWNXdGdEenJWV1h3cE8xNnY0LVRlbVZkS043amlfT192WVVta2RfeVNTUGFJdm9YckRR?oc=5>
+- 时间: 2026-08-11 06:56
+- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxOTU5kVWJmWXhhN0IyQW5lbXpLc1FxMDc2S0h5dnFwdHY5SDhIaFg5emdQQ0p1UUZSdXJicWNfRXhEX18yNXVoV2xBVlVDcUVuaHlWa3BFRXBYUF9hdW9xc19xNUFONXJlOC1fdXB6aVR1SDFXM25ybUNCOG9IYnhzYWlmOG1EclBvcmc?oc=5>
 
-### 美媒爆猛料：特朗普飞离土耳其时，美国设了一个局……
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪军事_手机新浪网
-- 时间: 2026-08-11 05:02
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFBjSkN2d0tFUFJORTZfYWRPd1kxYnRxWGZoRjVkRHlGdmo1UDhBbHZmSGFzYXBxYWFkQXdXa1NyOFFWTzBWVzZaMW1QTDlLTDZMc2F6SVZWQmNwc2RrVG5hQW5YdVBSSlU4N1UtRUU0WGFmemM?oc=5>
-
-### 美媒爆料：精心策划的骗局！特朗普当时被用餐饮车转移到第三架飞机
+### 特朗普力挺因凡蒂诺
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: news.ifeng.com
-- 时间: 2026-08-11 03:47
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9XODhUb2hRM1dkeFhuNnFVQXJwa2VRQzhvT3hiS2Q2R29ocC1JcEVKUXpzY3NqOFBnb1FTSDN3aEEzNFBPWE4tb25vbjM?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-11 07:36
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBhMXQycUJxVWFGd2tKMmwtalVZOEw1b04xUFhicHZ3QW9PMU9VcUtmVUhEVlA2ZTJ3WW9Ma3JSdjlWeFlhVXZsUzVWTGRQbWttYkExNmstRVFCSnhaRmlhN2RYelNQWUIwVnBKV1RkWkJBR3RzQmg3dQ?oc=5>
 
-### 美媒：特朗普上月秘密乘运输机回国 因伊朗威胁改变行程
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华军事
-- 时间: 2026-08-11 06:02
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBIOTdpc2VQajFGVUVmbXpHU2l1X0xmeTBiY3NCWkpHLVFBT2V3dzFjNTdSZ0VlR3F4dkJ4ZEJEMlFCQllpbGR3bGp4X3V4Y291TS1uQzZDVjdXbEhRX2hidEhCM2Z4X0hGWUtlbFpmREM?oc=5>
-
-### 特朗普力挺因凡蒂诺 警告国际足联不要考虑更换主席
+### 特朗普称美军已“100%控制”霍尔木兹海峡
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 央视网
-- 时间: 2026-08-11 02:45
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFB6NG55M3ZNYklGUFRaUWJVemN3R2lKeWJnRGZKdVZWUk9HVlNLZjV6TzdlQ200Uy1ob2Jkc1hIcVNLdFAwSElwb0pVMUY1YlY5M0NmRDJ4NG5fYjNQZGE0RlpQZU55bS1EWEJwOF9jcnJRaFhKTVhfRw?oc=5>
+- 场馆: 中青网
+- 时间: 2026-08-10 23:12
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBmY2RyZ0Nvak10U2dmT04tYndOMjJ1Q1ZNRVpwTjJHTDhEcXpFRkZrS0hHeWUwektDdFFzTC1EeVBMcEZUbklHdGlYRmYyTXdzamNmZlpmTG9kMTJvMHIwWU8yMFA?oc=5>
 
-### 特朗普称因凡蒂诺非常出色，不应该辞职
+### 为躲暗杀派出“假空军一号”……Trump乘餐饮车转移- 阿视亚经济
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-11 06:01
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE02bEpkSDE4WHU4dE90VTNRQlFYb0FLTkE3RUt2Z0FlWm40aU1oYmJiNHdISl9vTnNMWXpIS1drSHZyQ192WmxKUQ?oc=5>
+- 场馆: 아시아경제
+- 时间: 2026-08-11 06:23
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9zVmFiaHNqeHNtWmVqRmhlM0lzVUtTV0drUUVxVTAtaDgwSDJrcll6TkZ6QWY0Tl80OUpQcGdRaEhmX0xtZ2FDZVVQdXR0akhwQ1QySFF3REc1c2JuR1lpVWN3UWc?oc=5>
 
-### 特朗普打球防空导弹贴身保护 严密安保措施
+### 特朗普的媒体公司Trump Media：Truth Social实时信息流注册客户超过10个
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 中华军事
-- 时间: 2026-08-11 05:28
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9mRDFZOWtfbzh4bkpJVFhGcTJnYWtPV21TQTlwVUFJc0lsMV9pQzltOFFoTHcxcG5vUUlwdlZ2ZkJoSEI5RWs3TmZOVXpDdW1HX1NfUG1wMlRKWUNIeTdiMEEyZ1ExZU5YWC1xQVVxMVE?oc=5>
+- 场馆: 富途牛牛
+- 时间: 2026-08-11 00:34
+- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxNVWp0c2tfY05kVE5MOGdmZHBaazJBbkxXTHZ5VW1UeXN0eV9qejhpdjhaWHM5NlFLMFR6c3BncGNVcEU5TzVaa3ZtUnc3LTV5Y08ycGFTRW5yeTZJSnFHanhyOGp3dVo5ankyMDA2WDVTc1pwWG1GZGFsWi0wNmdxamlhdkxoTU5nYWswQlVJcFhhNkN2cm55cA?oc=5>
 
-### 金融时报：特朗普现在尝到了“不作不死”的味道
+### 比特币暴跌，特朗普媒体科技集团上半年巨亏超6亿美元：放弃加密货币，豪赌核聚变
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 加美财经
-- 时间: 2026-08-10 16:48
-- 链接: <https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oUmtkVzBqT3h6czZyTmVIQXpwUHloZ1g3dmdUcVRfMlB5QTFrR3ZwR0NfbmdCNlhyQWVEV2ZhYmctMWl0Sktnc1ZNQ3QxWTMxOUlOOUREYmYtQQ?oc=5>
+- 场馆: 凤凰网财经
+- 时间: 2026-08-11 06:20
+- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE5jNzhDX2cwdnRDcEZiVHl5RGpJdlJxTzJxWDdVOG5TNHRIVk40d1IwV2pld3JzcUo1WmRVeUVSZlhXa3F2Sy1aOE01elA0bHdG?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-11 07:44  (7 条)
+
+- **特朗普** | 美媒：特朗普离开土耳其未乘“空军一号” <https://news.google.com/rss/articles/CBMif0FVX3lxTE4wdzU0ZzhfakVNYUhFcllRNDRVcnUzLVAzVEtZbXN6RE1WMHdUa0U5UTVtMGhoOThMSGlTaDZMQ2ViWTRQZGZuZFZ5UVRWZXIybVdOOGY3aDlQN1ByRF9lRDkyWk03TEY5bThmV0wyZDRQQ0tnbXdEb3hOV1FXUkU?oc=5>
+- **特朗普** | 特朗普“真实社交”平台今夏流量大幅下滑|唐纳德·特朗普|社交软件|美国总统|机构|交易_手机新浪网 <https://news.google.com/rss/articles/CBMiigFBVV95cUxOTU5kVWJmWXhhN0IyQW5lbXpLc1FxMDc2S0h5dnFwdHY5SDhIaFg5emdQQ0p1UUZSdXJicWNfRXhEX18yNXVoV2xBVlVDcUVuaHlWa3BFRXBYUF9hdW9xc19xNUFONXJlOC1fdXB6aVR1SDFXM25ybUNCOG9IYnhzYWlmOG1EclBvcmc?oc=5>
+- **特朗普** | 特朗普力挺因凡蒂诺 <https://news.google.com/rss/articles/CBMieEFVX3lxTFBhMXQycUJxVWFGd2tKMmwtalVZOEw1b04xUFhicHZ3QW9PMU9VcUtmVUhEVlA2ZTJ3WW9Ma3JSdjlWeFlhVXZsUzVWTGRQbWttYkExNmstRVFCSnhaRmlhN2RYelNQWUIwVnBKV1RkWkJBR3RzQmg3dQ?oc=5>
+- **特朗普** | 特朗普称美军已“100%控制”霍尔木兹海峡 <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBmY2RyZ0Nvak10U2dmT04tYndOMjJ1Q1ZNRVpwTjJHTDhEcXpFRkZrS0hHeWUwektDdFFzTC1EeVBMcEZUbklHdGlYRmYyTXdzamNmZlpmTG9kMTJvMHIwWU8yMFA?oc=5>
+- **Trump** | 为躲暗杀派出“假空军一号”……Trump乘餐饮车转移- 阿视亚经济 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9zVmFiaHNqeHNtWmVqRmhlM0lzVUtTV0drUUVxVTAtaDgwSDJrcll6TkZ6QWY0Tl80OUpQcGdRaEhmX0xtZ2FDZVVQdXR0akhwQ1QySFF3REc1c2JuR1lpVWN3UWc?oc=5>
+- **Trump** | 特朗普的媒体公司Trump Media：Truth Social实时信息流注册客户超过10个 <https://news.google.com/rss/articles/CBMimAFBVV95cUxNVWp0c2tfY05kVE5MOGdmZHBaazJBbkxXTHZ5VW1UeXN0eV9qejhpdjhaWHM5NlFLMFR6c3BncGNVcEU5TzVaa3ZtUnc3LTV5Y08ycGFTRW5yeTZJSnFHanhyOGp3dVo5ankyMDA2WDVTc1pwWG1GZGFsWi0wNmdxamlhdkxoTU5nYWswQlVJcFhhNkN2cm55cA?oc=5>
+- **Trump** | 比特币暴跌，特朗普媒体科技集团上半年巨亏超6亿美元：放弃加密货币，豪赌核聚变 <https://news.google.com/rss/articles/CBMiUEFVX3lxTE5jNzhDX2cwdnRDcEZiVHl5RGpJdlJxTzJxWDdVOG5TNHRIVk40d1IwV2pld3JzcUo1WmRVeUVSZlhXa3F2Sy1aOE01elA0bHdG?oc=5>
 
 ### 2026-08-11 06:12  (9 条)
 
