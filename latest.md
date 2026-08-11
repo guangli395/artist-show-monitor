@@ -1,48 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-11 17:25**
-- 本轮扫到 9234 条, 新增 **4** 条
+- 最近更新: **2026-08-11 18:14**
+- 本轮扫到 9238 条, 新增 **4** 条
 
 ---
 
 ## 本轮新发现 (4 条)
 
-### 美伊博弈“中局”，看谁先眨眼？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-08-11 16:30
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1XaVg1WnZaS25wbERqNGU3WGcyOUxaSV82RkI2WF9wcjNlbHcyVWNOTkFuNllISFhzekFaYWRnd2FRR3U3TzhOMXNPcHhCM3J5NVJNYWNxQWtMdmZZLTRVb0VqSE5HMDh2MnpjVkdfRnk?oc=5>
-
-### 太怕伊朗暗杀，“特朗普登上空军一号后，转头躲进餐饮车换机返程”
+### 特朗普：美国对伊朗有三种“策略”-观察者网
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 观察者
-- 时间: 2026-08-11 13:38
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9JY05sb3pUdUZfemtwM3F2YmItQU5QcmlaSkNjaXg4bHdsdTZwRWVIc2VHc2lrOWkwM2NvdnhCVi00VFUtY0RZNUI0X3pKSnIzQUVjT2ZwaURVVVdoNldiSFNOUDlMdEZQRGc?oc=5>
+- 时间: 2026-08-11 07:48
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1hSzhwUlExUS14MjUxQWtZY0tRSV9hU3J1TE5WcFBsSUVNYTFVaEZINEtaTFd4X0c2VzZUMGwxREgtNDUwa2N0MkR2LU0teWo1SktoOGlfMUF4MDVDOGRzTFEtQlN5X1UzSEE?oc=5>
 
-### 特朗普要求伊朗赔偿
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-08-11 16:29
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PbzlXam5vcTFQLWFrRXZ2aktvcFQ2RnhSV0FmcVNaWXR6LXE2NXRaLVZWYmFOdmR0WC0zYTBSc0NUdHQwRHZMU3RKeEwzSkY2aXhkVHVRNDdMX2JxRlE0MUNfRU94dw?oc=5>
-
-### 美媒：特朗普政府已吊销逾17.5万份非移民签证
+### 特朗普旗下媒体公司披露巨额亏损，公布新一轮转型自救计划
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-08-11 07:36
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5fOTM3LUY5T2I3XzR3bmUzeW5Ham03YWFTZmdUNXZLR1FJblBUQnZZWUdKcVl5Ynoyd3ZMSEhNdWNIWE5nODI4eUQyelJYaHYwMGlPMW9yWHRrNmxTUDdibTRBcjI4U0E4?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-11 17:48
+- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxPOGZUYlFfWmJIb0FHaks0dTNxZWJZdW5DUUNIZGxtOHZWUDNhTWpaX1F6M0NPT2tQbTFEalp2aERSYVJTbl9KaDdxOExyQkxwdVB0SDkwTDZYRWhvQUNMc2l4bkZ3RXEzUWlfZG5sNzNkcWFRRFpIU08zenV1ZzJ6VEoxa2d6bFhKcnc?oc=5>
+
+### 媒体：特朗普从餐饮专车悄悄离开政府专机
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: dw.com
+- 时间: 2026-08-11 10:06
+- 链接: <https://news.google.com/rss/articles/CBMioAJBVV95cUxNRHo5cVJVaXlUdV9TTUxQazc0Y2t1WHcteWc3ZC1MUmU0em04WFpJRnlVT0FLYnZkYy1iYTZSc2w2RlZ4MmdiVGRDRHB1QW9DczhmTHNJMnluRjRWTVFCbWN4Y1psLWRFb0UwRVZ1RWV3ODRDdDhuSld0MGdvdE9rMHE4Z21XUFRacjZlQy1sT1M2RllJUDlqdUVEMjNqWEdBeGU3WDJwWVdRTWY1czF3MVE5R0g3aDE5YlBqSVgxcUNxVDRzeGtHb0pRRnQxOEVUazg5QXIyd19wUVZVVWM3cTVYam1MMmh2bE83U0dFSUt6ejQ0SXFNRXRzT0MzUHd1bmJhc1l4WlZXQVNEakxiZFZsSm9EYU5GQnVjaFZCSVXSAaACQVVfeXFMTU5XRjB3Ukk2TDFNNHhqeERYN0loXzVzbEM2NUtDcUlsLU8wOVV2ZTBwNDI0YmJzLWVrUzlKM3NmMHlWR1lzTE9EbnR1MTJma3RBZUEyc0JPZXJ4Z3A5X0xNS19obUxFbTI5QmNzR0hsU2tycm9KQWZtdmY5bGxEeTZiWk9VdmpEM3hWRXAxa19qZW44U3BrSUdKc1k5eENjSGVDUjI5N1N2X3FwbU1wU2JNOVJNQ1Fzb19aVW5WdXFRX3Y3d2RWeUEwbjlXa0gxclpmdUhqbUxoZVlvWFBQOHdlR2I5cnl0S0ZoaHlVeFF6MzdYbGVrN0doaURaaVJWYl8xQUtBdkNTNk5HQk5PRmVPOElpUmdvRHd2MXg1M1hu?oc=5>
+
+### 特朗普总统阐述美国应对伊朗的策略
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-08-11 17:26
+- 链接: <https://news.google.com/rss/articles/CBMisAFBVV95cUxPOWlXRmpyQTlSaC1yWDBLSURQLVNIaGphWWlsUnJlVFF2c0VNemZUT2VURVhybXJuejRWc1VsSFBPX21qQi1jcTR3bHpYRmxrNkFzbjFnYlhKTTFtb3dBYTVUOEF4LTdGQmxJTUY4M1Rwck9tZDcxblpFY2dOcWpFdjVfVkJZYVpYVV90by1lZnA1OEFpVjdfZ193X3A4MlV4UGlFOHI1bmJGMFhmTl92U9IBswFBVV95cUxOa0d5VnJaYnhsR1lvZXNKZTgyT0NhTzd3Vlo5N1Vsa0hfUGdfYXBlamotYTFRSUJwZVdHNFBDU2FNYVViX01FM1ZmeEVlUlhoSE5wazB6Z2M0ZnZQV3pFa00zdGZockxZYnJMd3lRNkNpdkh5MzFOOTVZS0RsMVoyLTB5MjlqRXdGajlfY25rY19iNnRvaTFJRDludFRiSG9ab0dESjFJSjV0NmNWQzFGVS1YZw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-11 18:14  (4 条)
+
+- **特朗普** | 特朗普：美国对伊朗有三种“策略”-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE1hSzhwUlExUS14MjUxQWtZY0tRSV9hU3J1TE5WcFBsSUVNYTFVaEZINEtaTFd4X0c2VzZUMGwxREgtNDUwa2N0MkR2LU0teWo1SktoOGlfMUF4MDVDOGRzTFEtQlN5X1UzSEE?oc=5>
+- **特朗普** | 特朗普旗下媒体公司披露巨额亏损，公布新一轮转型自救计划 <https://news.google.com/rss/articles/CBMiigFBVV95cUxPOGZUYlFfWmJIb0FHaks0dTNxZWJZdW5DUUNIZGxtOHZWUDNhTWpaX1F6M0NPT2tQbTFEalp2aERSYVJTbl9KaDdxOExyQkxwdVB0SDkwTDZYRWhvQUNMc2l4bkZ3RXEzUWlfZG5sNzNkcWFRRFpIU08zenV1ZzJ6VEoxa2d6bFhKcnc?oc=5>
+- **特朗普** | 媒体：特朗普从餐饮专车悄悄离开政府专机 <https://news.google.com/rss/articles/CBMioAJBVV95cUxNRHo5cVJVaXlUdV9TTUxQazc0Y2t1WHcteWc3ZC1MUmU0em04WFpJRnlVT0FLYnZkYy1iYTZSc2w2RlZ4MmdiVGRDRHB1QW9DczhmTHNJMnluRjRWTVFCbWN4Y1psLWRFb0UwRVZ1RWV3ODRDdDhuSld0MGdvdE9rMHE4Z21XUFRacjZlQy1sT1M2RllJUDlqdUVEMjNqWEdBeGU3WDJwWVdRTWY1czF3MVE5R0g3aDE5YlBqSVgxcUNxVDRzeGtHb0pRRnQxOEVUazg5QXIyd19wUVZVVWM3cTVYam1MMmh2bE83U0dFSUt6ejQ0SXFNRXRzT0MzUHd1bmJhc1l4WlZXQVNEakxiZFZsSm9EYU5GQnVjaFZCSVXSAaACQVVfeXFMTU5XRjB3Ukk2TDFNNHhqeERYN0loXzVzbEM2NUtDcUlsLU8wOVV2ZTBwNDI0YmJzLWVrUzlKM3NmMHlWR1lzTE9EbnR1MTJma3RBZUEyc0JPZXJ4Z3A5X0xNS19obUxFbTI5QmNzR0hsU2tycm9KQWZtdmY5bGxEeTZiWk9VdmpEM3hWRXAxa19qZW44U3BrSUdKc1k5eENjSGVDUjI5N1N2X3FwbU1wU2JNOVJNQ1Fzb19aVW5WdXFRX3Y3d2RWeUEwbjlXa0gxclpmdUhqbUxoZVlvWFBQOHdlR2I5cnl0S0ZoaHlVeFF6MzdYbGVrN0doaURaaVJWYl8xQUtBdkNTNk5HQk5PRmVPOElpUmdvRHd2MXg1M1hu?oc=5>
+- **Trump** | 特朗普总统阐述美国应对伊朗的策略 <https://news.google.com/rss/articles/CBMisAFBVV95cUxPOWlXRmpyQTlSaC1yWDBLSURQLVNIaGphWWlsUnJlVFF2c0VNemZUT2VURVhybXJuejRWc1VsSFBPX21qQi1jcTR3bHpYRmxrNkFzbjFnYlhKTTFtb3dBYTVUOEF4LTdGQmxJTUY4M1Rwck9tZDcxblpFY2dOcWpFdjVfVkJZYVpYVV90by1lZnA1OEFpVjdfZ193X3A4MlV4UGlFOHI1bmJGMFhmTl92U9IBswFBVV95cUxOa0d5VnJaYnhsR1lvZXNKZTgyT0NhTzd3Vlo5N1Vsa0hfUGdfYXBlamotYTFRSUJwZVdHNFBDU2FNYVViX01FM1ZmeEVlUlhoSE5wazB6Z2M0ZnZQV3pFa00zdGZockxZYnJMd3lRNkNpdkh5MzFOOTVZS0RsMVoyLTB5MjlqRXdGajlfY25rY19iNnRvaTFJRDludFRiSG9ab0dESjFJSjV0NmNWQzFGVS1YZw?oc=5>
 
 ### 2026-08-11 17:25  (4 条)
 
