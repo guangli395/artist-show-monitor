@@ -1,48 +1,81 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-11 18:14**
-- 本轮扫到 9238 条, 新增 **4** 条
+- 最近更新: **2026-08-11 19:33**
+- 本轮扫到 9246 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (8 条)
 
-### 特朗普：美国对伊朗有三种“策略”-观察者网
+### 蔡徐坤澳门演唱会无限流概念具体指什么？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-08-11 07:48
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1hSzhwUlExUS14MjUxQWtZY0tRSV9hU3J1TE5WcFBsSUVNYTFVaEZINEtaTFd4X0c2VzZUMGwxREgtNDUwa2N0MkR2LU0teWo1SktoOGlfMUF4MDVDOGRzTFEtQlN5X1UzSEE?oc=5>
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimysya5575705.html>
 
-### 特朗普旗下媒体公司披露巨额亏损，公布新一轮转型自救计划
+### 蔡徐坤演唱会战损妆变化有什么寓意？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimysya5575700.html>
+
+### 蔡徐坤澳门演唱会为何被称为沉浸式闯关？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimysya5575697.html>
+
+### 蔡徐坤澳门演唱会门票是否已经售罄？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimysyf4303065.html>
+
+### 蔡徐坤澳门演唱会玩转无限流，三次重生震撼全场
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimysya5575489.html>
+
+### 巨亏超6亿美元！特朗普媒体科技集团放弃加密货币，豪赌核聚变
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-08-11 17:48
-- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxPOGZUYlFfWmJIb0FHaks0dTNxZWJZdW5DUUNIZGxtOHZWUDNhTWpaX1F6M0NPT2tQbTFEalp2aERSYVJTbl9KaDdxOExyQkxwdVB0SDkwTDZYRWhvQUNMc2l4bkZ3RXEzUWlfZG5sNzNkcWFRRFpIU08zenV1ZzJ6VEoxa2d6bFhKcnc?oc=5>
+- 时间: 2026-08-11 19:18
+- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxNVlBNR3lYaElTb3pDYk1FeDJ2SEFmdnJnWTlBdE1JeERTODUzTERfeVVJUTlxa1hIZnpmWUxxZ0dQZ0h4bDBTVjNCRExJOUZPYXlJVldmeWkzeTJQbzRRbVdtbkpHelhRLTJXRE5hZkpOcGhNTjRTZThZdFJlQW1ocjh5eWpzNThTSk5ENThtUXBjb1NBZ2drWg?oc=5>
 
-### 媒体：特朗普从餐饮专车悄悄离开政府专机
+### 特朗普制裁国际刑事法院 遭四人权组织起诉违宪
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: dw.com
-- 时间: 2026-08-11 10:06
-- 链接: <https://news.google.com/rss/articles/CBMioAJBVV95cUxNRHo5cVJVaXlUdV9TTUxQazc0Y2t1WHcteWc3ZC1MUmU0em04WFpJRnlVT0FLYnZkYy1iYTZSc2w2RlZ4MmdiVGRDRHB1QW9DczhmTHNJMnluRjRWTVFCbWN4Y1psLWRFb0UwRVZ1RWV3ODRDdDhuSld0MGdvdE9rMHE4Z21XUFRacjZlQy1sT1M2RllJUDlqdUVEMjNqWEdBeGU3WDJwWVdRTWY1czF3MVE5R0g3aDE5YlBqSVgxcUNxVDRzeGtHb0pRRnQxOEVUazg5QXIyd19wUVZVVWM3cTVYam1MMmh2bE83U0dFSUt6ejQ0SXFNRXRzT0MzUHd1bmJhc1l4WlZXQVNEakxiZFZsSm9EYU5GQnVjaFZCSVXSAaACQVVfeXFMTU5XRjB3Ukk2TDFNNHhqeERYN0loXzVzbEM2NUtDcUlsLU8wOVV2ZTBwNDI0YmJzLWVrUzlKM3NmMHlWR1lzTE9EbnR1MTJma3RBZUEyc0JPZXJ4Z3A5X0xNS19obUxFbTI5QmNzR0hsU2tycm9KQWZtdmY5bGxEeTZiWk9VdmpEM3hWRXAxa19qZW44U3BrSUdKc1k5eENjSGVDUjI5N1N2X3FwbU1wU2JNOVJNQ1Fzb19aVW5WdXFRX3Y3d2RWeUEwbjlXa0gxclpmdUhqbUxoZVlvWFBQOHdlR2I5cnl0S0ZoaHlVeFF6MzdYbGVrN0doaURaaVJWYl8xQUtBdkNTNk5HQk5PRmVPOElpUmdvRHd2MXg1M1hu?oc=5>
+- 场馆: 联合早报
+- 时间: 2026-08-11 15:18
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFAyLXcyeW8tZmp3WUs0VDNWTzFzR2RXOE5OWlhoVW9BZnRTVGM1SFJoOW9sWUlxZEVfQ25sY3p6VEVHazZwdmhDNTZWWDBoaEVQS21vUnNfUnhyTmF4ZEhmNmlxRGFRcmV5SlE?oc=5>
 
 ### 特朗普总统阐述美国应对伊朗的策略
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 美国之音
 - 时间: 2026-08-11 17:26
-- 链接: <https://news.google.com/rss/articles/CBMisAFBVV95cUxPOWlXRmpyQTlSaC1yWDBLSURQLVNIaGphWWlsUnJlVFF2c0VNemZUT2VURVhybXJuejRWc1VsSFBPX21qQi1jcTR3bHpYRmxrNkFzbjFnYlhKTTFtb3dBYTVUOEF4LTdGQmxJTUY4M1Rwck9tZDcxblpFY2dOcWpFdjVfVkJZYVpYVV90by1lZnA1OEFpVjdfZ193X3A4MlV4UGlFOHI1bmJGMFhmTl92U9IBswFBVV95cUxOa0d5VnJaYnhsR1lvZXNKZTgyT0NhTzd3Vlo5N1Vsa0hfUGdfYXBlamotYTFRSUJwZVdHNFBDU2FNYVViX01FM1ZmeEVlUlhoSE5wazB6Z2M0ZnZQV3pFa00zdGZockxZYnJMd3lRNkNpdkh5MzFOOTVZS0RsMVoyLTB5MjlqRXdGajlfY25rY19iNnRvaTFJRDludFRiSG9ab0dESjFJSjV0NmNWQzFGVS1YZw?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMiswFBVV95cUxOa0d5VnJaYnhsR1lvZXNKZTgyT0NhTzd3Vlo5N1Vsa0hfUGdfYXBlamotYTFRSUJwZVdHNFBDU2FNYVViX01FM1ZmeEVlUlhoSE5wazB6Z2M0ZnZQV3pFa00zdGZockxZYnJMd3lRNkNpdkh5MzFOOTVZS0RsMVoyLTB5MjlqRXdGajlfY25rY19iNnRvaTFJRDludFRiSG9ab0dESjFJSjV0NmNWQzFGVS1YZ9IBswFBVV95cUxOa0d5VnJaYnhsR1lvZXNKZTgyT0NhTzd3Vlo5N1Vsa0hfUGdfYXBlamotYTFRSUJwZVdHNFBDU2FNYVViX01FM1ZmeEVlUlhoSE5wazB6Z2M0ZnZQV3pFa00zdGZockxZYnJMd3lRNkNpdkh5MzFOOTVZS0RsMVoyLTB5MjlqRXdGajlfY25rY19iNnRvaTFJRDludFRiSG9ab0dESjFJSjV0NmNWQzFGVS1YZw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-11 19:33  (8 条)
+
+- **蔡徐坤** | 蔡徐坤澳门演唱会无限流概念具体指什么？ <https://www.sina.cn/news/article/nimysya5575705.html>
+- **蔡徐坤** | 蔡徐坤演唱会战损妆变化有什么寓意？ <https://www.sina.cn/news/article/nimysya5575700.html>
+- **蔡徐坤** | 蔡徐坤澳门演唱会为何被称为沉浸式闯关？ <https://www.sina.cn/news/article/nimysya5575697.html>
+- **蔡徐坤** | 蔡徐坤澳门演唱会门票是否已经售罄？ <https://www.sina.cn/news/article/nimysyf4303065.html>
+- **蔡徐坤** | 蔡徐坤澳门演唱会玩转无限流，三次重生震撼全场 <https://www.sina.cn/news/article/nimysya5575489.html>
+- **特朗普** | 巨亏超6亿美元！特朗普媒体科技集团放弃加密货币，豪赌核聚变 <https://news.google.com/rss/articles/CBMimAFBVV95cUxNVlBNR3lYaElTb3pDYk1FeDJ2SEFmdnJnWTlBdE1JeERTODUzTERfeVVJUTlxa1hIZnpmWUxxZ0dQZ0h4bDBTVjNCRExJOUZPYXlJVldmeWkzeTJQbzRRbVdtbkpHelhRLTJXRE5hZkpOcGhNTjRTZThZdFJlQW1ocjh5eWpzNThTSk5ENThtUXBjb1NBZ2drWg?oc=5>
+- **特朗普** | 特朗普制裁国际刑事法院 遭四人权组织起诉违宪 <https://news.google.com/rss/articles/CBMiakFVX3lxTFAyLXcyeW8tZmp3WUs0VDNWTzFzR2RXOE5OWlhoVW9BZnRTVGM1SFJoOW9sWUlxZEVfQ25sY3p6VEVHazZwdmhDNTZWWDBoaEVQS21vUnNfUnhyTmF4ZEhmNmlxRGFRcmV5SlE?oc=5>
+- **特朗普** | 特朗普总统阐述美国应对伊朗的策略 <https://news.google.com/rss/articles/CBMiswFBVV95cUxOa0d5VnJaYnhsR1lvZXNKZTgyT0NhTzd3Vlo5N1Vsa0hfUGdfYXBlamotYTFRSUJwZVdHNFBDU2FNYVViX01FM1ZmeEVlUlhoSE5wazB6Z2M0ZnZQV3pFa00zdGZockxZYnJMd3lRNkNpdkh5MzFOOTVZS0RsMVoyLTB5MjlqRXdGajlfY25rY19iNnRvaTFJRDludFRiSG9ab0dESjFJSjV0NmNWQzFGVS1YZ9IBswFBVV95cUxOa0d5VnJaYnhsR1lvZXNKZTgyT0NhTzd3Vlo5N1Vsa0hfUGdfYXBlamotYTFRSUJwZVdHNFBDU2FNYVViX01FM1ZmeEVlUlhoSE5wazB6Z2M0ZnZQV3pFa00zdGZockxZYnJMd3lRNkNpdkh5MzFOOTVZS0RsMVoyLTB5MjlqRXdGajlfY25rY19iNnRvaTFJRDludFRiSG9ab0dESjFJSjV0NmNWQzFGVS1YZw?oc=5>
 
 ### 2026-08-11 18:14  (4 条)
 
