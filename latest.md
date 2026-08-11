@@ -1,46 +1,80 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-11 14:15**
-- 本轮扫到 9214 条, 新增 **4** 条
+- 最近更新: **2026-08-11 15:27**
+- 本轮扫到 9221 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (7 条)
 
-### 王一博VOGUE杂志预热，宣发节奏已发布！小摩托们准备好拼手速了吗？
+### 娜扎18岁出演周杰伦执导《红尘客栈》MV
 
-- 艺人/关键词: **王一博**
+- 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimyhkc7329162.html>
+- 链接: <https://www.sina.cn/news/article/nimyhkc7349513.html>
 
-### 巨亏2.38亿美元！特朗普媒体与科技集团：不玩加密货币了
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 每日经济新闻
-- 时间: 2026-08-11 09:51
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FdHFZSDc5R2VIY19TWktMcmdtUHNsN29WUmlKanZwTGlJODg5U2NnMUpfUnhGcTFjUVYxQXJ5ekc2bFRjUnhubVduUE9VVWNIZWpDZkVtcmlveTJfZXhhbW5vNFhaZw?oc=5>
-
-### 特朗普在全球足坛掀起反对浪潮之际警告：倘若因凡蒂诺遭罢免，世界杯将再也无法拥有如今这般盈利水平
+### 拒绝加沙和平方案，争取极右盟友支持，内塔尼亚胡“硬刚”特朗普
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-11 11:54
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxPME55UTRGQmhKbnRVQ1B0TzhsYXF0aUJSY01MbWJPdTdRNTlCUlhqOGRBa3VfblA0eVhlR0Jfb0RNV0VqWlc2Mm5DMVRVTnNjQWFxMVBneFNrZ00xR0FHU0xnZ2JKZnI4czZtYjliWHFWdnBDOUhXbmw3TjFBZWZyYi1uUlFGV28?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-08-10 22:23
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE9VOG94UjhCOXBJZFpQcmpRTndGdU9GRm9HMlJFQjdWMG84YVJ3UjNjbDF3czd0dEI0Unp6UDJIRFJmcG5lXzU5QXhqWlBNUWYyRXRfYzBiR0g0Zk9NN3JPQkdUcVVYNFVYQ3FaYTlUdTBFQUUz?oc=5>
 
-### 卖“总统发帖”将年赚千万？特朗普媒体二季度持币浮亏后紧急转向
+### 国际｜特朗普玩障眼法？视频曝光：登机后又进餐饮车 秘密换机
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-08-11 07:19
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE5Pd0hYRkpWTlM1TmdmZk9wWGJLTTJVLUlHcEVfYVR3dm5IekRFMi12WjRuem1LYWJYOWw2bDJNU0NxQWZMcVB6Rw?oc=5>
+- 场馆: 新京报
+- 时间: 2026-08-11 03:47
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5EZmc5QUM1bmVxdExBcFVtVUgtejZsYml6N0tSaXdaNnJqbnhUdXNXQlcxd0ZZQ0Z3eERYdzdaaGkweV85M0dMTmdkSU85RVdNTGYzdG1DZnhwcmhDT1h1RGNfdTE?oc=5>
+
+### 美媒：特朗普离开土耳其未乘“空军一号”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-08-11 06:51
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFA1VDYwbDVlbFAyeDZxaVM3MERjU0ZiRUVITS1wR282ZlJiS3pxVVRkNUhMQkVkQjZTcmVhZk8tV1V4eHdkMDJSc3Q5aFNqTENTUzNiUW9MUTAyblJER2s2c3JpSUVNMEZwYVhzMzFUaTFEb3IxTDVGbEtBbjE3WVk?oc=5>
+
+### 向特朗普加密货币投入1亿美元的华人买家是谁？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 纽约时报中文网
+- 时间: 2026-08-10 17:42
+- 链接: <https://news.google.com/rss/articles/CBMibEFVX3lxTE1yZGFBWGJEUkg4cWVlS3FLY0laTFgyb0EwZThVYkZ6a2hRQnE4VWpwSEQwTF9GbTNQTXNXV2NJeVBldXdhd1czaFQwU0VhY3pzVnZUU04xemFMb2hvY2ZvdmtlXzc0b2MzNlZlTg?oc=5>
+
+### 配合特朗普的赛车比赛 美航管局将暂停部分航班
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: wenxuecity.com
+- 时间: 2026-08-11 13:48
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE80TTk1X0w3Z212RU5RN0ttZXdxTWJNODRTdTE2RGRKSHVXLVhYZDA4R2lWN19ua1pJcEZTQVExZks0aGhPVi13MGRvSlZIaGpuY21BbDhwSmJia3pUUUk1OUw5WmszaDdx?oc=5>
+
+### 伊朗外长：特朗普在战争初期写下一句话——“无条件投降”，但伊朗没有低头，用抵抗打破美国的幻想，战争开始20天后，美国便乞求谈判
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: sohu.com
+- 时间: 2026-08-11 14:28
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxOaUpjVzdsaEZOaGRuQnc0UE9mZURIcXdJXzRwOVJHN2ZkTW9IQzZidUhVZWVjLUZ3amJLUmJfWGdFaVBCSDNUM1hyT1F0U2ZjRTczdTZCR1FMY3BFaWYxeGdwVmlsTFg1RjlKZzVUd2FQbzdiZDBPbXJwdHVScERVTXBQV280cnI0U2d5WA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-11 15:27  (7 条)
+
+- **周杰伦** | 娜扎18岁出演周杰伦执导《红尘客栈》MV <https://www.sina.cn/news/article/nimyhkc7349513.html>
+- **特朗普** | 拒绝加沙和平方案，争取极右盟友支持，内塔尼亚胡“硬刚”特朗普 <https://news.google.com/rss/articles/CBMidEFVX3lxTE9VOG94UjhCOXBJZFpQcmpRTndGdU9GRm9HMlJFQjdWMG84YVJ3UjNjbDF3czd0dEI0Unp6UDJIRFJmcG5lXzU5QXhqWlBNUWYyRXRfYzBiR0g0Zk9NN3JPQkdUcVVYNFVYQ3FaYTlUdTBFQUUz?oc=5>
+- **特朗普** | 国际｜特朗普玩障眼法？视频曝光：登机后又进餐饮车 秘密换机 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5EZmc5QUM1bmVxdExBcFVtVUgtejZsYml6N0tSaXdaNnJqbnhUdXNXQlcxd0ZZQ0Z3eERYdzdaaGkweV85M0dMTmdkSU85RVdNTGYzdG1DZnhwcmhDT1h1RGNfdTE?oc=5>
+- **特朗普** | 美媒：特朗普离开土耳其未乘“空军一号” <https://news.google.com/rss/articles/CBMif0FVX3lxTFA1VDYwbDVlbFAyeDZxaVM3MERjU0ZiRUVITS1wR282ZlJiS3pxVVRkNUhMQkVkQjZTcmVhZk8tV1V4eHdkMDJSc3Q5aFNqTENTUzNiUW9MUTAyblJER2s2c3JpSUVNMEZwYVhzMzFUaTFEb3IxTDVGbEtBbjE3WVk?oc=5>
+- **特朗普** | 向特朗普加密货币投入1亿美元的华人买家是谁？ <https://news.google.com/rss/articles/CBMibEFVX3lxTE1yZGFBWGJEUkg4cWVlS3FLY0laTFgyb0EwZThVYkZ6a2hRQnE4VWpwSEQwTF9GbTNQTXNXV2NJeVBldXdhd1czaFQwU0VhY3pzVnZUU04xemFMb2hvY2ZvdmtlXzc0b2MzNlZlTg?oc=5>
+- **特朗普** | 配合特朗普的赛车比赛 美航管局将暂停部分航班 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE80TTk1X0w3Z212RU5RN0ttZXdxTWJNODRTdTE2RGRKSHVXLVhYZDA4R2lWN19ua1pJcEZTQVExZks0aGhPVi13MGRvSlZIaGpuY21BbDhwSmJia3pUUUk1OUw5WmszaDdx?oc=5>
+- **特朗普** | 伊朗外长：特朗普在战争初期写下一句话——“无条件投降”，但伊朗没有低头，用抵抗打破美国的幻想，战争开始20天后，美国便乞求谈判 <https://news.google.com/rss/articles/CBMijAFBVV95cUxOaUpjVzdsaEZOaGRuQnc0UE9mZURIcXdJXzRwOVJHN2ZkTW9IQzZidUhVZWVjLUZ3amJLUmJfWGdFaVBCSDNUM1hyT1F0U2ZjRTczdTZCR1FMY3BFaWYxeGdwVmlsTFg1RjlKZzVUd2FQbzdiZDBPbXJwdHVScERVTXBQV280cnI0U2d5WA?oc=5>
 
 ### 2026-08-11 14:15  (4 条)
 
