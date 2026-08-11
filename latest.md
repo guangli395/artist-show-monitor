@@ -1,58 +1,44 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-11 20:37**
-- 本轮扫到 9252 条, 新增 **6** 条
+- 最近更新: **2026-08-11 21:39**
+- 本轮扫到 9255 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (3 条)
 
-### 蔡徐坤后续巡演还会延续无限流概念吗？
+### 王一博工作室针对滑雪摔懵事件发布过声明吗？
 
-- 艺人/关键词: **蔡徐坤**
+- 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimyxhc4206091.html>
+- 链接: <https://www.sina.cn/news/article/nimyxfy5495582.html>
 
-### 蔡徐坤澳门演唱会三次重生循环是如何呈现的？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimyxfy5478529.html>
-
-### 蔡徐坤澳门演唱会为何选择四面台舞台设计？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimyxhc4205886.html>
-
-### 疑受可信暗杀威胁，特朗普离开土耳其未乘“空军一号”，秘密转移至第三架飞机
+### 特朗普称与普京交涉成功 俄释放被关押美国前海军陆战队员
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-11 19:57
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE96aWFnUmhXZ3F2bkV0YUdYLU9XTlE3eDhKTDFQN0ZQUWRpRWdEcXhrZGo1S2l1MDk4TXA2MU55REVlR1FiY3pzeDJrczZZVTFablA2N1NFT2RyeE9oR0k4d3BxRUo1eGREV1diWS1Ga1hBLUU5bUw1aw?oc=5>
+- 场馆: RFI
+- 时间: 2026-08-11 21:12
+- 链接: <https://news.google.com/rss/articles/CBMimANBVV95cUxQZUZ1NFd1WXF0UzNHWWE2aVhwVV9lQU9HSEJHbVFkdUMwX3B1ZzJfdmNBOW9WUkRnTVNTb09WRzREdEo5U1A1aEZNVm0tU3k0dUJZOFFublJDOG5Fc0FxdHJVbGJHdXYwbWowMVdoam9GMlJORXNtbFlNS1NRUmNBUU9GSldOUWlCZXZzLVFDdE1mZWptaUhxRm1MYl9pZVdFV0ZHMGxSSF9Mb2pHVnd6ZWphckM0R2NSbHdQdzFIX2NQVExSLVlhUzNuNENZZVpEa3ZvMkRCTXp0S1FEVWhPaDg4LVZPZEQ2NVp4dEV1MWR2VTB6LVBST21nZ3JITVh1TWUweU9USC1xU1lfNlhIdUVEaGFkZTVKTmRITkNsQ19CRUJLMEN0Z0I5dnhqNzJyQWc0RWlkNnZEX2Y5SFdheUdDR3lUcFNpdmhzS04xY1pZYzA1WWN1MTZMTjNSRGhjeWdqQ29ZNUZ6T1NHS3dYSWtnZzdDVWY5Y3RZbTRqNWc1TlpTaS1Ld290dmQxNmI2d0hYajhleEo?oc=5>
 
-### 美国退伍军人在被俄罗斯被拘押四年多后获释
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-08-11 20:09
-- 链接: <https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWmdWVkhINGtXTnhQQXgyQ01ESzZ5YW1Rb2pNQ3lSbW1XUFNmdndfa0hPLVBUb0t6UmhzTlh1UDFjX284NU12amV1c0tfTW80OTlTZlhiTjdsYW1vOXNfRFhBTnVrd1N2eDJnc2VVZ1QyUTBWZlRKb1ZOSnNqVV9EVHhTNW44RDdITEJhUEFBRWluRTBMRGR3ajRVOERBRmNvOHFodUdRaEN6SmxiSVI1WDVaR0hwMUd50gG7AUFVX3lxTFBXbGxlTTBrZWNkRzZYSllzdUNGTy1WSGlxNVdhSzV1S3FtUGpzTnBubmp5Nkh4WklhWEJISGNzMnJaQWM3MnhoNE11YV9DTnhYc0hzaXd3MUdXY3lSci0ycVRhaGI3bnFMZTlLamY3WENzRnlpZGZiVkFqUHVOR1gtSGcwWXFlQzFqZkxGQ3YtaDctVF9rX21IcTRRcjJlcGJ2anI3OERNMVJsdHNqMWtlXzFfMlUySVZHU2M?oc=5>
-
-### 巨亏2.38亿美元！特朗普媒体与科技集团：不玩加密货币了
+### Stocks to Watch Tuesday Recap: Intel, Trump Media, On Holdings, Super Micro -- WSJ
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-11 09:45
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1iWThKRHhROWliOWdZYUU4RG1IUkdXRlplZE1sYy1SRlRyUkU1dzJ5T21paEFiai1kODhSZnN2UWN3ckRyd2JDZjRUUjRodzQ2VlZrZDNPQktPUG5MR2tGOFdSODctdDByRTBOTk03c1VjSXRnVTRsYQ?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-08-11 20:58
+- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSURNSHpiQTdwTGxBdllKMVR5ZUtmaDVEdEg0aHhWUHNGZjhZMDhpZzF2U19hRXVqRzhfcGxfcDFTOV83MGlZcm8tSmdDam9KYk1OdXJ2VzBlU2NDeDZxVUNUcENmdmhheHhHQTV6Sk9jTkVVMTFqd0hJUzJQc0Y2ZDlza3dCUjRmRndJYlcwd0MyaDF5dVdYVDhuMnNWWUEtM0RzbFZGNTBnZw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-11 21:39  (3 条)
+
+- **王一博** | 王一博工作室针对滑雪摔懵事件发布过声明吗？ <https://www.sina.cn/news/article/nimyxfy5495582.html>
+- **特朗普** | 特朗普称与普京交涉成功 俄释放被关押美国前海军陆战队员 <https://news.google.com/rss/articles/CBMimANBVV95cUxQZUZ1NFd1WXF0UzNHWWE2aVhwVV9lQU9HSEJHbVFkdUMwX3B1ZzJfdmNBOW9WUkRnTVNTb09WRzREdEo5U1A1aEZNVm0tU3k0dUJZOFFublJDOG5Fc0FxdHJVbGJHdXYwbWowMVdoam9GMlJORXNtbFlNS1NRUmNBUU9GSldOUWlCZXZzLVFDdE1mZWptaUhxRm1MYl9pZVdFV0ZHMGxSSF9Mb2pHVnd6ZWphckM0R2NSbHdQdzFIX2NQVExSLVlhUzNuNENZZVpEa3ZvMkRCTXp0S1FEVWhPaDg4LVZPZEQ2NVp4dEV1MWR2VTB6LVBST21nZ3JITVh1TWUweU9USC1xU1lfNlhIdUVEaGFkZTVKTmRITkNsQ19CRUJLMEN0Z0I5dnhqNzJyQWc0RWlkNnZEX2Y5SFdheUdDR3lUcFNpdmhzS04xY1pZYzA1WWN1MTZMTjNSRGhjeWdqQ29ZNUZ6T1NHS3dYSWtnZzdDVWY5Y3RZbTRqNWc1TlpTaS1Ld290dmQxNmI2d0hYajhleEo?oc=5>
+- **Trump** | Stocks to Watch Tuesday Recap: Intel, Trump Media, On Holdings, Super Micro -- WSJ <https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSURNSHpiQTdwTGxBdllKMVR5ZUtmaDVEdEg0aHhWUHNGZjhZMDhpZzF2U19hRXVqRzhfcGxfcDFTOV83MGlZcm8tSmdDam9KYk1OdXJ2VzBlU2NDeDZxVUNUcENmdmhheHhHQTV6Sk9jTkVVMTFqd0hJUzJQc0Y2ZDlza3dCUjRmRndJYlcwd0MyaDF5dVdYVDhuMnNWWUEtM0RzbFZGNTBnZw?oc=5>
 
 ### 2026-08-11 20:37  (6 条)
 
