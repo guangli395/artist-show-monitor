@@ -1,80 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-11 16:23**
-- 本轮扫到 9230 条, 新增 **9** 条
+- 最近更新: **2026-08-11 17:25**
+- 本轮扫到 9234 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (9 条)
+## 本轮新发现 (4 条)
 
-### 蔡徐坤未来巡演会延续无限流叙事模式吗？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimynse5638418.html>
-
-### 蔡徐坤澳门演唱会为何采用西部废土风格？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimynsi4365753.html>
-
-### 蔡徐坤演唱会三次死亡重生分别代表什么？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimynse5638318.html>
-
-### 蔡徐坤澳门演唱会：三次死亡重生玩转无限流
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimynse5638201.html>
-
-### 拒绝加沙和平方案，争取极右盟友支持，内塔尼亚胡“硬刚”特朗普
+### 美伊博弈“中局”，看谁先眨眼？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-08-10 22:23
-- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxQcEozbW9IMGNmR0piNGV0cEVUNzJYamMzUUprMXExWlc1R3RqSzZZTzJadmI5M3NNVVkzelJab0k4VFo1RDc3QThCQ2lpLXNtMkpDdWMzVXk3Um9rZXJEaVg0U0hCRV9uYVlWZkpWaXQ0MjRBektPUDBjMTl5am8xVmtxT3hlNXB3QVVsQlNjLWxqQnVU?oc=5>
+- 时间: 2026-08-11 16:30
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1XaVg1WnZaS25wbERqNGU3WGcyOUxaSV82RkI2WF9wcjNlbHcyVWNOTkFuNllISFhzekFaYWRnd2FRR3U3TzhOMXNPcHhCM3J5NVJNYWNxQWtMdmZZLTRVb0VqSE5HMDh2MnpjVkdfRnk?oc=5>
 
-### 中东局势背后的复杂博弈，内塔尼亚胡与特朗普“心照不宣”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-08-11 11:27
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5FU2pnQjVVTVpSQWtOdVB3ZXlJS1lJNm1ZakdodEx0dld3RzZTeWVOZHp3VFlmNlJrRzJKaGFUdWFmYzRtS2l0SkVPNWNfT2lSd1J6OUdGd1lxT2V0Y292VDBjWW54Zk1Ha3BPRkNUNWxyVFpER3NfMw?oc=5>
-
-### 特朗普力挺因凡蒂诺 警告国际足联不要考虑更换主席
+### 太怕伊朗暗杀，“特朗普登上空军一号后，转头躲进餐饮车换机返程”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-08-11 07:15
-- 链接: <https://news.google.com/rss/articles/CBMivgFBVV95cUxQMXZHaTZnZWtRaks5MnRpb1NubllnWC1XUUV1dS1vSWZ4bGozMldQMjZzblN0SmRmWFFPNDFvZ3ZlSWpjbTBiT1lrel9mWGNfd0VScFBOZ2tzeFZTaWhUZDF4UmtrNEtYR3dWUVoxNWF5Si1ZMERvQVZGMjh2Z3M3alVUT3Y4WG1CSzY1YjhMa3N4TjdoWXNnS2tSUGpmRENyWGVTQWw5cjd6OEZTS0pCbmR0SF9SdnZNenpQV0VB?oc=5>
+- 场馆: 观察者
+- 时间: 2026-08-11 13:38
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9JY05sb3pUdUZfemtwM3F2YmItQU5QcmlaSkNjaXg4bHdsdTZwRWVIc2VHc2lrOWkwM2NvdnhCVi00VFUtY0RZNUI0X3pKSnIzQUVjT2ZwaURVVVdoNldiSFNOUDlMdEZQRGc?oc=5>
 
-### 特朗普警告国际足联：更换主席因凡蒂诺，将犯下“严重错误”！英媒爆料：参与世界杯“私有化”的机构创立者是特朗普女儿伊万卡的小叔子
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 每日经济新闻
-- 时间: 2026-08-11 03:09
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1DOVZRVVdaanhkVl9NaXhxX011b0Z6MDF0UDNrR3ZLYTNuZzFzcjVqZFhpajZMMnlabzVQZkZ4S2ZIUDFVYWY4LS1LMWgwX0RfMDIxbU1SdW9RNFFFYXpaS2FqdmdzZw?oc=5>
-
-### 移民改革会是特朗普的“尼克松访华”时刻吗？
+### 特朗普要求伊朗赔偿
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-08-11 02:30
-- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE5xTkJsLXc4amxCVlFHWGZQT01SeXQ2NHhRRmM3Y19lb2VnY0tWUC1Pb0tpcHZjQ3l2ZkZUMUI0QzgyQVpTT3dTVldXWm9TWUs2dUVoa0FxUTAtaVJfRE0zSTB0UFJpUl9uZHB1cXRlMVhMYXlvZEpDRF9NWW4?oc=5>
+- 场馆: 东方财富
+- 时间: 2026-08-11 16:29
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PbzlXam5vcTFQLWFrRXZ2aktvcFQ2RnhSV0FmcVNaWXR6LXE2NXRaLVZWYmFOdmR0WC0zYTBSc0NUdHQwRHZMU3RKeEwzSkY2aXhkVHVRNDdMX2JxRlE0MUNfRU94dw?oc=5>
+
+### 美媒：特朗普政府已吊销逾17.5万份非移民签证
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: chinanews.com.cn
+- 时间: 2026-08-11 07:36
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5fOTM3LUY5T2I3XzR3bmUzeW5Ham03YWFTZmdUNXZLR1FJblBUQnZZWUdKcVl5Ynoyd3ZMSEhNdWNIWE5nODI4eUQyelJYaHYwMGlPMW9yWHRrNmxTUDdibTRBcjI4U0E4?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-11 17:25  (4 条)
+
+- **特朗普** | 美伊博弈“中局”，看谁先眨眼？ <https://news.google.com/rss/articles/CBMicEFVX3lxTE1XaVg1WnZaS25wbERqNGU3WGcyOUxaSV82RkI2WF9wcjNlbHcyVWNOTkFuNllISFhzekFaYWRnd2FRR3U3TzhOMXNPcHhCM3J5NVJNYWNxQWtMdmZZLTRVb0VqSE5HMDh2MnpjVkdfRnk?oc=5>
+- **特朗普** | 太怕伊朗暗杀，“特朗普登上空军一号后，转头躲进餐饮车换机返程” <https://news.google.com/rss/articles/CBMiakFVX3lxTE9JY05sb3pUdUZfemtwM3F2YmItQU5QcmlaSkNjaXg4bHdsdTZwRWVIc2VHc2lrOWkwM2NvdnhCVi00VFUtY0RZNUI0X3pKSnIzQUVjT2ZwaURVVVdoNldiSFNOUDlMdEZQRGc?oc=5>
+- **特朗普** | 特朗普要求伊朗赔偿 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PbzlXam5vcTFQLWFrRXZ2aktvcFQ2RnhSV0FmcVNaWXR6LXE2NXRaLVZWYmFOdmR0WC0zYTBSc0NUdHQwRHZMU3RKeEwzSkY2aXhkVHVRNDdMX2JxRlE0MUNfRU94dw?oc=5>
+- **特朗普** | 美媒：特朗普政府已吊销逾17.5万份非移民签证 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5fOTM3LUY5T2I3XzR3bmUzeW5Ham03YWFTZmdUNXZLR1FJblBUQnZZWUdKcVl5Ynoyd3ZMSEhNdWNIWE5nODI4eUQyelJYaHYwMGlPMW9yWHRrNmxTUDdibTRBcjI4U0E4?oc=5>
 
 ### 2026-08-11 16:23  (9 条)
 
