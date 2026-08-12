@@ -1,92 +1,99 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-12 08:10**
-- 本轮扫到 9307 条, 新增 **11** 条
+- 最近更新: **2026-08-12 09:38**
+- 本轮扫到 9317 条, 新增 **10** 条
 
 ---
 
-## 本轮新发现 (11 条)
+## 本轮新发现 (10 条)
 
-### 网友如何看待方文山“集邮”MV女演员的传闻？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimzumq5358948.html>
-
-### 周杰伦《天涯过客》MV的女主角程皓如是谁？
+### 周杰伦《天涯过客》MV女主程皓如，方文山选角风波真相待解
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimzumq5358858.html>
+- 链接: <https://www.sina.cn/news/article/nimzytn5317642.html>
 
-### 方文山被曝“集邮”《天涯过客》MV女演员的指控有何依据？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimzumt4086212.html>
-
-### 周杰伦《天涯过客》MV的选角由谁敲定？
+### 周杰伦《天涯过客》MV女主程皓如今晚发声了吗？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimzumq5358689.html>
+- 链接: <https://www.sina.cn/news/article/nimzytn5317508.html>
 
-### 方文山被曝对Y女士八年PUA，集邮周杰伦MV女孩
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimzumq5336590.html>
-
-### 周杰伦称导戏累，无人陪剪辑，回应MV女主疑问
+### 《天涯过客》MV选角流程是谁主导的？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimzytn5245353.html>
+- 链接: <https://www.sina.cn/news/article/nimzytn5317474.html>
 
-### 美媒：特朗普证实此前离开土耳其时未乘“空军一号”
+### 方文山被曝西塘汉服文化周选妃，周杰伦MV女孩被指集邮
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimzytn5303054.html>
+
+### 方文山被曝集邮周杰伦MV女孩，当事人否认：等实锤
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimzytn5273677.html>
+
+### 特朗普回应秘密换机避暗杀威胁：所乘飞机“风险反而更大”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 环球网
-- 时间: 2026-08-11 12:05
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE9NT2ZhdE13UEplVW5UYTE3RlhGbWNKbk5vbGhwRDN6d0Rmell0RkRaS1Vici1ndnN5Ul9hOHJQMFpNbUJ0VVlQdFpZcER5b2dvOW9EUm5IX08?oc=5>
+- 场馆: 观海新闻
+- 时间: 2026-08-12 05:56
+- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTE9odlZNZzhuWno5Zkt4RGpJd2VDNDNKb1Zibkt3Tk9ZbUI3Y0ZkWDZrNVhoQkc2Ylo1ZjNxZFNkU1Q0LXBRSHhWSll5dGNRaUNoYWc?oc=5>
 
-### 特朗普证实北约峰会后秘密换机 改搭军用飞机离开
+### 特朗普承认悄悄换飞机了：其实我坐的那架更危险
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-08-12 05:26
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBGUDcyWldsRzAwLXRmU19LSGVkNU0wTXVtWnRXRDVaaTAtQ2J2M09veVlOTlhTMG1NamxKVDB6MEk5T2RxdUxhcjhwREpjWUNuc1hIckZCZGV2MGxoM1Z3dlI3Tkk3X1JfNGc?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-12 08:27
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9XTmVOblNKbTVGLU95TUc3RC0zS0gtR1U5ZzhqWXRwdlduS0JHaEtFbzhVXzRGTGZMOXZyRWwzQWc2dmVWMTRKMF81d1Y0MnBJTUFNcHROUVRIVVExamY1b1hid1hXeHp6YV9vYkN1bkJId1pwbWZ1cQ?oc=5>
 
-### 封禁3年后，美国政府设备重新允许使用TikTok！特朗普：我在TikTok上长期霸榜第一名
+### 中期选举脚步渐近，特朗普酝酿“大招”：据悉考虑削减资本利得税
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网财经
+- 时间: 2026-08-12 04:00
+- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE1XZmxFRDZna2pXcHNOemg0TGRzX0gxSzlhZlBMUVdYVk1xXzFWa21icVJYbkxBVlNJY3dURDZ6c1VGaUlxcV9JUkRfaWMwQjdV?oc=5>
+
+### 特朗普证实参加北约峰会后曾秘密换乘飞机
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: news.cn
+- 时间: 2026-08-12 04:32
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE5NbTVHandSSFY4dVpuSHdpVzVXQW55OFdDaENqdk5yb1RPck1LeFNYNW9wcXdCRXlBOUJITW91S0g5QS1VQ3ExeXBpck1yYW1XdTR5SVpudnFQRDBaMnNqSDBuRDhoamN6MmM3YkRVU1BkWGNjeDNpbU1KRnhha0k?oc=5>
+
+### 布伦特和WTI期货在盘前上涨，因特朗普声称控制霍尔木兹海峡，巴基斯坦报告红海遇害事件
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Sohu
-- 时间: 2026-08-12 04:11
-- 链接: <https://news.google.com/rss/articles/CBMihgFBVV95cUxPMXJleXd5S2lhOXQtMmZRVE9JbnJ0WGRNcm1LX1RGMDdlWlZqRDMwaWhRTGVSSWRRYzJoNXh3b2Z6aTA3WHlFdlBzeXlHNE9qWXBOSm4wbDRXVGhvX0N2ZGdGczM3ck82V0dwRVV4TnVZSWtkYXdxZHN2WGhvZ1pKTHpKOGJFQQ?oc=5>
-
-### 暗杀威胁下仍要打高尔夫……Trump身边部署“毒刺”导弹
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 아시아경제
-- 时间: 2026-08-12 06:30
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTFBXRlRsdHAzRUU4d1lLVl84eXJMS0s4ZkYzeGxqRG8xYkZtRW43WHA0b0ZTU0k2bHB5VVpyekMwakstcWVfQmVxQUNfVjZPVlpMbVMtNnVIRWp3dnd3eEVESkNaM0VLdWFLMHdMSkk1ekFmMEcy?oc=5>
-
-### Trump：“伊朗通胀率300%，放任不管将崩溃……资金完全受控”
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 아시아경제
-- 时间: 2026-08-12 05:27
-- 链接: <https://news.google.com/rss/articles/CBMid0FVX3lxTE45Ty1MTXMzcTI5Mm5PVGM4eE9qRE1UNmNtcGJBRXN6ZnByeDl1Yk9CTnRld2dqUzQzWDY0OEg0Qmx0UkxCa19DWk9UT0dKOXF5QUFid2FxUExkTDBFUmMzYzlrT0I3SWtRTHZlQ1FFaEN6QnkyZTg4?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-08-12 08:51
+- 链接: <https://news.google.com/rss/articles/CBMipAFBVV95cUxNRVhwVHN1UFl4MVdoVy10NTRsVkpvajFTQzZCNU9NZkwzdlZzV2dPbEwxMWRRVk9hMXFGSUMzNGdZTFpSU080QTFsY0xGOUhUVkVNU1dPWWZ1MFVEYjNwTThkbmVpSTFrTkJYQUlNX2JDUzRMZkRUVDJ2bWRBeGQtU19QSWVNZVlGUnEyclRIWTQ2R2NZa2tVbS1zVmFyRDhqTkJKTw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-12 09:38  (10 条)
+
+- **周杰伦** | 周杰伦《天涯过客》MV女主程皓如，方文山选角风波真相待解 <https://www.sina.cn/news/article/nimzytn5317642.html>
+- **周杰伦** | 周杰伦《天涯过客》MV女主程皓如今晚发声了吗？ <https://www.sina.cn/news/article/nimzytn5317508.html>
+- **周杰伦** | 《天涯过客》MV选角流程是谁主导的？ <https://www.sina.cn/news/article/nimzytn5317474.html>
+- **周杰伦** | 方文山被曝西塘汉服文化周选妃，周杰伦MV女孩被指集邮 <https://www.sina.cn/news/article/nimzytn5303054.html>
+- **周杰伦** | 方文山被曝集邮周杰伦MV女孩，当事人否认：等实锤 <https://www.sina.cn/news/article/nimzytn5273677.html>
+- **特朗普** | 特朗普回应秘密换机避暗杀威胁：所乘飞机“风险反而更大” <https://news.google.com/rss/articles/CBMiUkFVX3lxTE9odlZNZzhuWno5Zkt4RGpJd2VDNDNKb1Zibkt3Tk9ZbUI3Y0ZkWDZrNVhoQkc2Ylo1ZjNxZFNkU1Q0LXBRSHhWSll5dGNRaUNoYWc?oc=5>
+- **特朗普** | 特朗普承认悄悄换飞机了：其实我坐的那架更危险 <https://news.google.com/rss/articles/CBMieEFVX3lxTE9XTmVOblNKbTVGLU95TUc3RC0zS0gtR1U5ZzhqWXRwdlduS0JHaEtFbzhVXzRGTGZMOXZyRWwzQWc2dmVWMTRKMF81d1Y0MnBJTUFNcHROUVRIVVExamY1b1hid1hXeHp6YV9vYkN1bkJId1pwbWZ1cQ?oc=5>
+- **特朗普** | 中期选举脚步渐近，特朗普酝酿“大招”：据悉考虑削减资本利得税 <https://news.google.com/rss/articles/CBMiUEFVX3lxTE1XZmxFRDZna2pXcHNOemg0TGRzX0gxSzlhZlBMUVdYVk1xXzFWa21icVJYbkxBVlNJY3dURDZ6c1VGaUlxcV9JUkRfaWMwQjdV?oc=5>
+- **特朗普** | 特朗普证实参加北约峰会后曾秘密换乘飞机 <https://news.google.com/rss/articles/CBMif0FVX3lxTE5NbTVHandSSFY4dVpuSHdpVzVXQW55OFdDaENqdk5yb1RPck1LeFNYNW9wcXdCRXlBOUJITW91S0g5QS1VQ3ExeXBpck1yYW1XdTR5SVpudnFQRDBaMnNqSDBuRDhoamN6MmM3YkRVU1BkWGNjeDNpbU1KRnhha0k?oc=5>
+- **Trump** | 布伦特和WTI期货在盘前上涨，因特朗普声称控制霍尔木兹海峡，巴基斯坦报告红海遇害事件 <https://news.google.com/rss/articles/CBMipAFBVV95cUxNRVhwVHN1UFl4MVdoVy10NTRsVkpvajFTQzZCNU9NZkwzdlZzV2dPbEwxMWRRVk9hMXFGSUMzNGdZTFpSU080QTFsY0xGOUhUVkVNU1dPWWZ1MFVEYjNwTThkbmVpSTFrTkJYQUlNX2JDUzRMZkRUVDJ2bWRBeGQtU19QSWVNZVlGUnEyclRIWTQ2R2NZa2tVbS1zVmFyRDhqTkJKTw?oc=5>
 
 ### 2026-08-12 08:10  (11 条)
 
