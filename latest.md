@@ -1,68 +1,107 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-12 01:20**
-- 本轮扫到 9266 条, 新增 **7** 条
+- 最近更新: **2026-08-12 03:34**
+- 本轮扫到 9276 条, 新增 **10** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (10 条)
 
-### 蔡徐坤澳门演唱会无限流舞台讲述什么故事？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimzivu5352997.html>
-
-### “曝方文山出轨”冲上热搜，助理回应：这些全都是网传谣言，公司将会发布正式声明
+### 方文山否认出轨后，再被曝集邮周杰伦MV女主
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimzivu5351959.html>
+- 链接: <https://www.sina.cn/news/article/nimzqcv4056381.html>
 
-### 美法官叫停美邮政局执行特朗普涉限制邮寄选票的行政令
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中国网新闻中心
-- 时间: 2026-08-11 23:22
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE1hYkI0ZVRDaW5kbmkzUkJZWHVCVDF1ODRUZmJmUlNmMjlvUWtIaGlYcml6TTNtV3kwdkhjbDJnRk9GbnBDVVQwMzFYUXEweC13MHJiSjRocmVvS1NFRmVaLUhyQ3IyRzQ0NWhV?oc=5>
-
-### 特朗普称美国对伊朗有三种“策略”
+### 特朗普登机后钻入餐车秘密换机，规避伊朗导弹威胁
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-08-11 08:19
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE81ZkVYdkdqd1J1eC12aUdaZWFNaTZtYWxBUGp5QVZkN2VmUGhvTUxrd3M0SHR2Q1J4WjZtM0cycFhjRXJ3NjRNV0s4T0JHbUFZdlJxUEFOd2RmNHZGejRMOXNpMEwtVHMzMDVHaTJvUjQ?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-08-12 02:47
+- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeGJIRVNVcFZGOTRXM0FaWTVtOVc0cHlSYlBsUDdUMEFUN2Z4VXMwNkVGcFhLa256aU9BY2RTR1ZVWTRMU1RrWFJ3Sm9VZ0RkVXZldFRRT01xcDhSa1paUmw2LUFBN1prTGlWZ2tXUDVsLXFiRFdXM01KaWVzRDlRUG9RNG8zdEVUQmRDYUE5eDlYU3lyd3B0UlVxUlg1M0IxWUhPbGwyWlp1TlZUdU1tU0swMlo0NEk2S0tSUGlOaUR4a2lURXBiVXVlQzhRU0RXZ2xmWnZuOE5nTUdyUmc?oc=5>
 
-### 特朗普又昏昏欲睡，伊朗辛辣嘲讽
+### 内塔尼亚胡硬扛特朗普，美以同盟怎么了？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-08-11 05:50
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9aamptU3d0dFFYYVRUMmpiN3IyR19OalAwRnJIR3libkQzSDEtc0pjRUtocF9PVUo0bFlVQmVDdU1mM0pBX2hOUUs2Y18?oc=5>
+- 时间: 2026-08-12 00:05
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBoTkV6NWdKT0o2UWVRMzl2UU1wMWE1MFFwNm1rTlhRbmoxMWw0bUdUY1plX2I0Vm1qTzQybDAxLU83Y0czQXpndFp0UTM?oc=5>
 
-### 特朗普：我要伊朗赔钱，把过去50年的账还了
+### 国际｜特朗普玩障眼法？视频曝光：登机后又进餐饮车 秘密换机
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-08-12 00:51
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1RldsaEY4T1p0dW5KWTFTcmw1QjNxdDJJRGw2U0JDNkJybER6eWtJZHJzLWFycTdGQkcybFVBZE9wdWhrZnBidFYtYm9uNnF1SkxkcTFYa2dNR2o4dzBteg?oc=5>
+- 场馆: 新京报
+- 时间: 2026-08-10 09:00
+- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE9IdVo0NTktNVRtZFYxcEFaZjhBRDItSEUtLUNfQnRoYnNPSUJfRU1hXzNQU1BGeFN5QTczLWRzdXQ3Tm1qSDRKbUpXMmpLTEtsV0ZKYXhSVWstOURmWlpNWDRn?oc=5>
 
-### 特朗普威胁将采取联邦行动，阻止马姆达尼的“第二寓所”税
+### 特朗普再次声称美国已“完全控制”霍尔木兹海峡
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: chinanews.com.cn
+- 时间: 2026-08-12 01:49
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9HaGlJWUtnSDgyYkNsS2xkeUpETzA3a3JYdG9lMzJNcmJaVjBOd3VnTjZNUENBU1BaczQxVFE5UnpFUVpkQllDaDNQdHltVC0tLXJjTUVEd042S3ZHeFp0NDlneFVuZEJ0?oc=5>
+
+### 特朗普回应秘密换机避暗杀威胁：所乘飞机“风险反而更大”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 川观新闻
+- 时间: 2026-08-12 03:26
+- 链接: <https://news.google.com/rss/articles/CBMiTkFVX3lxTFBORkktUDFaWXp4SGpVQ2Z2VVl4Sm1PRFZZLTJlT1p6d1JmYVZ2ZVY5Rjd2S0xYam1wY3Z5UVBRRjRYb3RFYTFoVjM2LS14Zw?oc=5>
+
+### Trump envoys arrive in Switzerland for Iran talks planned for Sunday
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-08-12 00:00
-- 链接: <https://news.google.com/rss/articles/CBMirwFBVV95cUxOeFNzSGIwS2k3VGw5NFFoRzc0b3ZUYVpPOFZhT1RBVmZaVzhpRVJ2VFQxQWRyaFN2d2RJUkRDU1FaRjVWallkSkRqRFdJUjNSNnBqT0tieHRWb09vT2dZM2xBQlpOSnlBell4TElnekQ3dnFHTUN5Mlo5dFdQb3dHd2JMUW03OTREc0FTbVNoY0Zfa1JIRDJ1TndOcC1PdHhLd3B0YlJJRlBZTGVBWFpB?oc=5>
+- 场馆: tdm.com.mo
+- 时间: 2026-08-11 17:13
+- 链接: <https://news.google.com/rss/articles/CBMinwFBVV95cUxPMzhYQkJKYkt6Z3RXcUZQaExzaF9zLW5YVFJtT1NlaE91Q3A4RTQ5eDBKSlZiYjZEV1B2RFVCVWNZRWVLanN4MUt1aERjQnd5ZGd0SXREUWZQOXUwT3V5VkJaM0FWXzR5YWU3dHdoZ0kxSVE5QTFPVV9CMTFlRVV5TDhhdDc4X2Z3alNNYWRMS1RWZWxYQnpoZkJhSVdhRkE?oc=5>
+
+### 配餐车“偷运”总统：特朗普秘密换机细节曝光
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 纽约时报中文网
+- 时间: 2026-08-12 02:31
+- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTE5kSnpSSllZVmV6VnFYWm91SXdiekpJVnc1QlFwanNWdjBhWno5YkpsLTRzLVhMNVNlRDYtRXpWb3Z0SncxYVhNMElaYVp2UTR5Ym5fUnFUeEkxTmNPY3k1QmtRQQ?oc=5>
+
+### 已有逾十家机构 订阅特朗普旗下社媒付费数据服务
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 8world
+- 时间: 2026-08-12 01:52
+- 链接: <https://news.google.com/rss/articles/CBMingFBVV95cUxOaHAzZlZWdS1acVNRMG00Y3hSb2pWS0gtYlRpMlFIZk9vM0EyQmNtODJNb05xc18xRkNKejJKSHRUeWRudGJuYVZNcXdxQ3JRLVlwS3J4U2owVzA5RzlfLTV4bGVyYUk0M0psMUlsRW4wNVItcHMtRmZNWHNfOE1VYm56aGljNnFjeVR1UzZONDN3cWtpb0xPRjlpbnc4dw?oc=5>
+
+### 封禁3年后 美国政府设备重新允许使用TikTok
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: eastmoney.com
+- 时间: 2026-08-11 01:45
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXU2xlSWdYNzRBdFpiQXFTdWNIdEFnNm9QUkJvT2NPcjlOaElZNF9rRzVWQVlmaHFfNXpYWk9RczVhbmp0ckRsVTdONmZCbE91aEhwSTlDU3FFXzJTazJLUw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-12 03:34  (10 条)
+
+- **周杰伦** | 方文山否认出轨后，再被曝集邮周杰伦MV女主 <https://www.sina.cn/news/article/nimzqcv4056381.html>
+- **特朗普** | 特朗普登机后钻入餐车秘密换机，规避伊朗导弹威胁 <https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeGJIRVNVcFZGOTRXM0FaWTVtOVc0cHlSYlBsUDdUMEFUN2Z4VXMwNkVGcFhLa256aU9BY2RTR1ZVWTRMU1RrWFJ3Sm9VZ0RkVXZldFRRT01xcDhSa1paUmw2LUFBN1prTGlWZ2tXUDVsLXFiRFdXM01KaWVzRDlRUG9RNG8zdEVUQmRDYUE5eDlYU3lyd3B0UlVxUlg1M0IxWUhPbGwyWlp1TlZUdU1tU0swMlo0NEk2S0tSUGlOaUR4a2lURXBiVXVlQzhRU0RXZ2xmWnZuOE5nTUdyUmc?oc=5>
+- **特朗普** | 内塔尼亚胡硬扛特朗普，美以同盟怎么了？ <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBoTkV6NWdKT0o2UWVRMzl2UU1wMWE1MFFwNm1rTlhRbmoxMWw0bUdUY1plX2I0Vm1qTzQybDAxLU83Y0czQXpndFp0UTM?oc=5>
+- **特朗普** | 国际｜特朗普玩障眼法？视频曝光：登机后又进餐饮车 秘密换机 <https://news.google.com/rss/articles/CBMiYkFVX3lxTE9IdVo0NTktNVRtZFYxcEFaZjhBRDItSEUtLUNfQnRoYnNPSUJfRU1hXzNQU1BGeFN5QTczLWRzdXQ3Tm1qSDRKbUpXMmpLTEtsV0ZKYXhSVWstOURmWlpNWDRn?oc=5>
+- **特朗普** | 特朗普再次声称美国已“完全控制”霍尔木兹海峡 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9HaGlJWUtnSDgyYkNsS2xkeUpETzA3a3JYdG9lMzJNcmJaVjBOd3VnTjZNUENBU1BaczQxVFE5UnpFUVpkQllDaDNQdHltVC0tLXJjTUVEd042S3ZHeFp0NDlneFVuZEJ0?oc=5>
+- **特朗普** | 特朗普回应秘密换机避暗杀威胁：所乘飞机“风险反而更大” <https://news.google.com/rss/articles/CBMiTkFVX3lxTFBORkktUDFaWXp4SGpVQ2Z2VVl4Sm1PRFZZLTJlT1p6d1JmYVZ2ZVY5Rjd2S0xYam1wY3Z5UVBRRjRYb3RFYTFoVjM2LS14Zw?oc=5>
+- **Trump** | Trump envoys arrive in Switzerland for Iran talks planned for Sunday <https://news.google.com/rss/articles/CBMinwFBVV95cUxPMzhYQkJKYkt6Z3RXcUZQaExzaF9zLW5YVFJtT1NlaE91Q3A4RTQ5eDBKSlZiYjZEV1B2RFVCVWNZRWVLanN4MUt1aERjQnd5ZGd0SXREUWZQOXUwT3V5VkJaM0FWXzR5YWU3dHdoZ0kxSVE5QTFPVV9CMTFlRVV5TDhhdDc4X2Z3alNNYWRMS1RWZWxYQnpoZkJhSVdhRkE?oc=5>
+- **Trump** | 配餐车“偷运”总统：特朗普秘密换机细节曝光 <https://news.google.com/rss/articles/CBMiY0FVX3lxTE5kSnpSSllZVmV6VnFYWm91SXdiekpJVnc1QlFwanNWdjBhWno5YkpsLTRzLVhMNVNlRDYtRXpWb3Z0SncxYVhNMElaYVp2UTR5Ym5fUnFUeEkxTmNPY3k1QmtRQQ?oc=5>
+- **Trump** | 已有逾十家机构 订阅特朗普旗下社媒付费数据服务 <https://news.google.com/rss/articles/CBMingFBVV95cUxOaHAzZlZWdS1acVNRMG00Y3hSb2pWS0gtYlRpMlFIZk9vM0EyQmNtODJNb05xc18xRkNKejJKSHRUeWRudGJuYVZNcXdxQ3JRLVlwS3J4U2owVzA5RzlfLTV4bGVyYUk0M0psMUlsRW4wNVItcHMtRmZNWHNfOE1VYm56aGljNnFjeVR1UzZONDN3cWtpb0xPRjlpbnc4dw?oc=5>
+- **Trump** | 封禁3年后 美国政府设备重新允许使用TikTok <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXU2xlSWdYNzRBdFpiQXFTdWNIdEFnNm9QUkJvT2NPcjlOaElZNF9rRzVWQVlmaHFfNXpYWk9RczVhbmp0ckRsVTdONmZCbE91aEhwSTlDU3FFXzJTazJLUw?oc=5>
 
 ### 2026-08-12 01:20  (7 条)
 
