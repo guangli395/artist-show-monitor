@@ -1,28 +1,80 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-12 16:25**
-- 本轮扫到 9338 条, 新增 **2** 条
+- 最近更新: **2026-08-12 17:26**
+- 本轮扫到 9345 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (7 条)
 
-### 周杰伦MV女孩名誉受损后是否会起诉造谣者？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/ninarre5144161.html>
-
-### 方文山选妃事件对周杰伦MV选角有无影响？
+### 周杰伦MV女孩回应了哪些不实指控？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/ninarre5134320.html>
+- 链接: <https://www.sina.cn/news/article/ninavxa5021397.html>
+
+### 特朗普撤回部分推荐儿童疫苗：BBC核实言论
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: BBC
+- 时间: 2026-08-12 16:07
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9xRHFXYVVOdVdVbVNabzdKZW1sSjR2Wm5EOE9XOUJHUWR6T2M3dy1ibUdQdERzQ2RXVkQydm5nUnhSZDRIblZfcGFhbFdITlk3OE9WNGRmWlV2WlRTclRuaHQyWjNlQdIBa0FVX3lxTE0zOVllY1VkSjFwQ1lNbDFIMXRTQ2JFaEZYZjh6Q1dEUTVrMFRkVEo4b05fV2ZHa2p6Rmd3cXlKdGtXczUzUjRoanJEb3B5NDdpQlZhUnB1azNEaDBzaHVkd1VTN2EySWMwUTFJ?oc=5>
+
+### 法国世界报 - 特朗普秘密撤离：美国安全系统紧张的迹象？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-08-12 16:39
+- 链接: <https://news.google.com/rss/articles/CBMimgNBVV95cUxQNWtkWmVGZTdwblY4dmVQcElZcFB1SGI1MWY2NG5zdHlCRVNXUTRaSU9VUUtQdFc2Y2I3V3dsRjNLVHhOaFVTN3MxdkxLVTdXZ1RYOVNLb01pcHVvc2pLbks5TlRjWFprRHRfU1UybDdwSWNDRXNjeVVRdXh4TnpmM0FfRndMcHNxOEhwNzlJemV0bnJTNUpHTElfdC1wcTNFOU9ZOWtPd0drYlZlUnRfd2JHLVFDSFVyV1VlMFVvN2Q2anBBcUJaV1NxaHZDeHltdjd1cjlvblJHT3FNOG5kMVF5c21aRFJXVUUxRWUyVmtYQ1RJcHJBcFBwR1NodkczT181RG8yYk5XN2N5N0hnT1BMMERJRGR4TUlYQTRuZURNYk9SN3JHb0oxRi1pb3hiMTRnSzUxaEhPZkJCU3p1YWcwZWRHaC1seVFPQjY0alJ5MWdaSk1rQ25TQWx6cWVXZ2hLb1hGMzhTbUF0OXBhY1VBZm5ycHQwdXlRNkNDZ1kxQV81a2s3YjFXOW5XSTBCMUpndG5kZVhjUQ?oc=5>
+
+### 特朗普总统证实他在北约峰会后曾秘密换乘飞机
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-08-12 17:09
+- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTzZWYTFIcFpaTHJYZlZEclBuU2FBZkkyVlAwVkxWVzhad0d0eW9sQnFQR2tybHRPRlA2SDBrQUFNelVXbmVtbHBJSExrZ05Cd2pBUzNRci1GQ1QtcGlmRkZtRHhHVWFqaU13cFZIbldZUkhERVZ4YVVHWERhMXZLNHhrdHRuc1BnYkZhd3dqMTAyTXJabXJaSXBFOGg1MEFkV2xSTXA3TVNZQ1NSenhrSEE4NjNEckg2MURJZGFjbTNUUHNmcDNXZDEzZkVyYnhwVFHSAdQBQVVfeXFMUHg1UnhTNVV1eERFWS1Tb0x2QlJrRGxxVHVkU2FRd2NxOHFLWl9FSUtZUVhZT1dNWGY4ZmZqc1R0S3NUM0ZyWTh5cXN6cGtyTFlZQnJOcjlFOVZFcDhlX3FleEJsNDBaak81Ylg5bjQzZ1pkXzhiQlBoQlhRLVM3d1B3dDBUUV9JRmJzRUh5OExmVWE3V1hCLTZUc1E1MzhvN09NZ2g2aGI5Tk1MVGxiZzRBYWNNSFNMMm1YN1FLYXRnZlBfSWxtOHZTTnd3U05oMDI2WWo?oc=5>
+
+### “这次玩障眼法，拿鲁比奥和记者挡枪，下次呢”-观察者网
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-08-12 09:07
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1Cd2VwbVVpSG1VaFYyYWZiY2NqVzNFWVJyWUJxeERMMkFHN1g4c20tSjI2MG9JbU1CYjFvUFhlUXpFa0N5Z3hkQzNXcDYxdkFCR0U4WWZqc2d5S0Nqc2NiTXMyY2dmS1p5aHc?oc=5>
+
+### 特朗普“暗渡陈仓”转机防伊朗 揭秘特勤局如何玩弄“障眼法”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: BBC
+- 时间: 2026-08-12 15:04
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9HYTRxdUJNbEdrZS1qRkdpTmxnOXhPN0dOa0d2QjdEenl6WWxPYm9mOTNuS2xWY3d4Z1JBQnF2NVRoaUNUTnFRTHdQMVdBMDZuaVdTSWd1YUtDeGd3aEtGODdlX01DUdIBa0FVX3lxTE4wbHd4NDZRaFZwQlJ4LUtjR3FLblc5WmVzNlBuNWRfa29XT1gwV09DSWZjNHdVRkNRNGlTLUlhOXRNWlQtbnk4MldJSEVURUpKV3ZiQV9YYWxmemVQdzRkTWxsbnZaOVlrY2E4?oc=5>
+
+### 特朗普宣称“美国完全控制着霍尔木兹海峡”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 央广网
+- 时间: 2026-08-12 15:49
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE85NkwwdHJrX0VWWk0ycS03eU1Ndm9hR0w5cC1pVXJqRTFFTWxadzBYMk9DZ2RIS3c4QnlyMnozVDVHRXlUZlIzb3ZqeFlJWDdmTUZncnpvT09CWS1PdHk3X1JfZjlUYkd4?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-12 17:26  (7 条)
+
+- **周杰伦** | 周杰伦MV女孩回应了哪些不实指控？ <https://www.sina.cn/news/article/ninavxa5021397.html>
+- **特朗普** | 特朗普撤回部分推荐儿童疫苗：BBC核实言论 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9xRHFXYVVOdVdVbVNabzdKZW1sSjR2Wm5EOE9XOUJHUWR6T2M3dy1ibUdQdERzQ2RXVkQydm5nUnhSZDRIblZfcGFhbFdITlk3OE9WNGRmWlV2WlRTclRuaHQyWjNlQdIBa0FVX3lxTE0zOVllY1VkSjFwQ1lNbDFIMXRTQ2JFaEZYZjh6Q1dEUTVrMFRkVEo4b05fV2ZHa2p6Rmd3cXlKdGtXczUzUjRoanJEb3B5NDdpQlZhUnB1azNEaDBzaHVkd1VTN2EySWMwUTFJ?oc=5>
+- **特朗普** | 法国世界报 - 特朗普秘密撤离：美国安全系统紧张的迹象？ <https://news.google.com/rss/articles/CBMimgNBVV95cUxQNWtkWmVGZTdwblY4dmVQcElZcFB1SGI1MWY2NG5zdHlCRVNXUTRaSU9VUUtQdFc2Y2I3V3dsRjNLVHhOaFVTN3MxdkxLVTdXZ1RYOVNLb01pcHVvc2pLbks5TlRjWFprRHRfU1UybDdwSWNDRXNjeVVRdXh4TnpmM0FfRndMcHNxOEhwNzlJemV0bnJTNUpHTElfdC1wcTNFOU9ZOWtPd0drYlZlUnRfd2JHLVFDSFVyV1VlMFVvN2Q2anBBcUJaV1NxaHZDeHltdjd1cjlvblJHT3FNOG5kMVF5c21aRFJXVUUxRWUyVmtYQ1RJcHJBcFBwR1NodkczT181RG8yYk5XN2N5N0hnT1BMMERJRGR4TUlYQTRuZURNYk9SN3JHb0oxRi1pb3hiMTRnSzUxaEhPZkJCU3p1YWcwZWRHaC1seVFPQjY0alJ5MWdaSk1rQ25TQWx6cWVXZ2hLb1hGMzhTbUF0OXBhY1VBZm5ycHQwdXlRNkNDZ1kxQV81a2s3YjFXOW5XSTBCMUpndG5kZVhjUQ?oc=5>
+- **特朗普** | 特朗普总统证实他在北约峰会后曾秘密换乘飞机 <https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTzZWYTFIcFpaTHJYZlZEclBuU2FBZkkyVlAwVkxWVzhad0d0eW9sQnFQR2tybHRPRlA2SDBrQUFNelVXbmVtbHBJSExrZ05Cd2pBUzNRci1GQ1QtcGlmRkZtRHhHVWFqaU13cFZIbldZUkhERVZ4YVVHWERhMXZLNHhrdHRuc1BnYkZhd3dqMTAyTXJabXJaSXBFOGg1MEFkV2xSTXA3TVNZQ1NSenhrSEE4NjNEckg2MURJZGFjbTNUUHNmcDNXZDEzZkVyYnhwVFHSAdQBQVVfeXFMUHg1UnhTNVV1eERFWS1Tb0x2QlJrRGxxVHVkU2FRd2NxOHFLWl9FSUtZUVhZT1dNWGY4ZmZqc1R0S3NUM0ZyWTh5cXN6cGtyTFlZQnJOcjlFOVZFcDhlX3FleEJsNDBaak81Ylg5bjQzZ1pkXzhiQlBoQlhRLVM3d1B3dDBUUV9JRmJzRUh5OExmVWE3V1hCLTZUc1E1MzhvN09NZ2g2aGI5Tk1MVGxiZzRBYWNNSFNMMm1YN1FLYXRnZlBfSWxtOHZTTnd3U05oMDI2WWo?oc=5>
+- **特朗普** | “这次玩障眼法，拿鲁比奥和记者挡枪，下次呢”-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE1Cd2VwbVVpSG1VaFYyYWZiY2NqVzNFWVJyWUJxeERMMkFHN1g4c20tSjI2MG9JbU1CYjFvUFhlUXpFa0N5Z3hkQzNXcDYxdkFCR0U4WWZqc2d5S0Nqc2NiTXMyY2dmS1p5aHc?oc=5>
+- **特朗普** | 特朗普“暗渡陈仓”转机防伊朗 揭秘特勤局如何玩弄“障眼法” <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9HYTRxdUJNbEdrZS1qRkdpTmxnOXhPN0dOa0d2QjdEenl6WWxPYm9mOTNuS2xWY3d4Z1JBQnF2NVRoaUNUTnFRTHdQMVdBMDZuaVdTSWd1YUtDeGd3aEtGODdlX01DUdIBa0FVX3lxTE4wbHd4NDZRaFZwQlJ4LUtjR3FLblc5WmVzNlBuNWRfa29XT1gwV09DSWZjNHdVRkNRNGlTLUlhOXRNWlQtbnk4MldJSEVURUpKV3ZiQV9YYWxmemVQdzRkTWxsbnZaOVlrY2E4?oc=5>
+- **特朗普** | 特朗普宣称“美国完全控制着霍尔木兹海峡” <https://news.google.com/rss/articles/CBMiaEFVX3lxTE85NkwwdHJrX0VWWk0ycS03eU1Ndm9hR0w5cC1pVXJqRTFFTWxadzBYMk9DZ2RIS3c4QnlyMnozVDVHRXlUZlIzb3ZqeFlJWDdmTUZncnpvT09CWS1PdHk3X1JfZjlUYkd4?oc=5>
 
 ### 2026-08-12 16:25  (2 条)
 
