@@ -1,32 +1,35 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-12 18:24**
-- 本轮扫到 9347 条, 新增 **2** 条
+- 最近更新: **2026-08-12 19:34**
+- 本轮扫到 9349 条, 新增 **2** 条
 
 ---
 
 ## 本轮新发现 (2 条)
 
-### 巴基斯坦对解决美伊冲突表达乐观，但特朗普总统表示他不信任伊朗
+### 蔡徐坤新加坡演唱会官宣 你仿佛一束光照进了我平平无奇的生活里
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nincaey4942102.html>
+
+### 特朗普确认：为躲避伊朗暗杀，北约峰会后曾秘密更换飞机离开土耳其
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-08-12 17:51
-- 链接: <https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWG0xZW5RSmhsUEpkcWlFM3Q1dTFaNWk2eVRLbUJaMnNuMUxqOHF2NFl6UV9vRnZld0toTlpfTkc1RmJJLVVzbzZKWEFPNUhxdXEtdURWR3V3emNoZVVUMF9IM2MzelRNWWhTLW5IOGNmTFEya1QwQ054LU1FaG9JcFUtWDdVWkFDM09HMHJaZ1RxNG10SzY0bEFTc29QWUd5SUJBS0FieVpfM2hSSXdKeDhxT0o0dkUzblpNUU1JOFhjYVdRcFBLNlVjMGg1Umxud0p5X1QxRdIB2gFBVV95cUxPRWFiblNSODR2Z0RWWXFSS0w1QnpoZmd0NXNYenVXcEZZcDB4SmJReVF6YllaeXh3VGRMUV9vWjdjM0hsOEpMdnJuODh4eVBKZXdYNXRZbHUtYjhtSVI3SzVVcjVIdmo5RWdiaWxZTnc5cG5pNlRsRTNvOWRvUmo3V2NmUENId0Y3VFFyNllNZFVFOTVsYjZLYmRXNHhqRGpqVmd4dFE5Zm5tNFJfelZvcEFoRmdlUkN3WEEwcVM2blYwTE44M1NDNDh6QVIzMVdFZzlXVmxPZ3VqUQ?oc=5>
-
-### 特朗普称收到威胁 北约峰会后秘密换机是特勤局和军方安排
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-08-12 10:57
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE96eXdRVWszUS04NjVEb0xyNExZZUhoMDh4bE5Dd0hCQS1LdEhMX0xrZ09ERUJjYTJpbmJkenNHSkFlRmxDWmYyN1F2ZzBWeWY0cnZGcDFsdG9Eamd3OFRJd0VJakFNemxNSGc?oc=5>
+- 场馆: RFI
+- 时间: 2026-08-12 19:03
+- 链接: <https://news.google.com/rss/articles/CBMiyANBVV95cUxPVHVyb1U1aVlvSFJvdkhkY1o0dUxiaGJCUjVhVWdSR2xUQ1RVZnVyM1FZX3BkelpUSlRNVlNLWUJwOEZzaU1RM3hyaTBWeHhsZ2c1Rkc1Qjl1dXlrWENlUDNzQjlYTVM5MTVYalJ2ZGFxazY0a2J1MEU3cktvWHl6eU8xOHZsWmltcVZ3MHdWeFVtX0Z1NkZRblVncVlTSmdyZEx2QnNjT21iNmgxeUhRZG54N0xhSDB3ZEVINmptNVZNZGtkOU9JWWlfdmxGMmxURHZDOGVESDZUQURzXzNuYWxzQ190TDRCbEFzNVpRTDNpVTdwT3VEZFBHcHJwOG9mOUpaUGQwU2F6d1V6SUlWNUZJU19RQVNhM1pibzA5OURnazNQMnFRVjNJNmhOdzdwU3ZjVnNaZXNCdHpkRXcxRWkxV081RkhuRndjZDIxZXNHNC1taVBjUlFxQnl5MkFkd1lia1ptU212NFB6UERCemRjQTZPZG81WU5aeHVPVURDWWxreFpESmE1VkdpOXM0WGxRSTVNbnBFcklWamZ5eUNZU1VMcDM0MUJoUjQxSV9CVTM5RU5oSUlOUGliMkxYclhSa1ZKbkg?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-12 19:34  (2 条)
+
+- **蔡徐坤** | 蔡徐坤新加坡演唱会官宣 你仿佛一束光照进了我平平无奇的生活里 <https://www.sina.cn/news/article/nincaey4942102.html>
+- **特朗普** | 特朗普确认：为躲避伊朗暗杀，北约峰会后曾秘密更换飞机离开土耳其 <https://news.google.com/rss/articles/CBMiyANBVV95cUxPVHVyb1U1aVlvSFJvdkhkY1o0dUxiaGJCUjVhVWdSR2xUQ1RVZnVyM1FZX3BkelpUSlRNVlNLWUJwOEZzaU1RM3hyaTBWeHhsZ2c1Rkc1Qjl1dXlrWENlUDNzQjlYTVM5MTVYalJ2ZGFxazY0a2J1MEU3cktvWHl6eU8xOHZsWmltcVZ3MHdWeFVtX0Z1NkZRblVncVlTSmdyZEx2QnNjT21iNmgxeUhRZG54N0xhSDB3ZEVINmptNVZNZGtkOU9JWWlfdmxGMmxURHZDOGVESDZUQURzXzNuYWxzQ190TDRCbEFzNVpRTDNpVTdwT3VEZFBHcHJwOG9mOUpaUGQwU2F6d1V6SUlWNUZJU19RQVNhM1pibzA5OURnazNQMnFRVjNJNmhOdzdwU3ZjVnNaZXNCdHpkRXcxRWkxV081RkhuRndjZDIxZXNHNC1taVBjUlFxQnl5MkFkd1lia1ptU212NFB6UERCemRjQTZPZG81WU5aeHVPVURDWWxreFpESmE1VkdpOXM0WGxRSTVNbnBFcklWamZ5eUNZU1VMcDM0MUJoUjQxSV9CVTM5RU5oSUlOUGliMkxYclhSa1ZKbkg?oc=5>
 
 ### 2026-08-12 18:24  (2 条)
 
