@@ -1,100 +1,85 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-12 05:26**
-- 本轮扫到 9288 条, 新增 **12** 条
+- 最近更新: **2026-08-12 06:52**
+- 本轮扫到 9296 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (12 条)
+## 本轮新发现 (8 条)
 
-### 蔡徐坤在《What a Day》MV中展现了哪些舞蹈实力？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimzqcv4110089.html>
-
-### 蔡徐坤新歌《What a Day》MV为何能口碑逆转？
+### cxk蔡徐坤蔡徐坤新歌蔡徐坤演唱会 都说萝莉有三好
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimzqcs5382413.html>
+- 链接: <https://www.sina.cn/news/article/nimzqcs5345026.html>
 
-### 蔡徐坤澳门演唱会收官，呼吁别熬夜用丸美小红笔
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimzqcv4102304.html>
-
-### 蔡徐坤演唱会现场还原MV，全场瞬间沸腾
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimzqcr3693356.html>
-
-### 方文山风波升级！被曝每次来内地都找固定地陪，让情人出演周杰伦MV
+### 方文山如何回应“集邮”周杰伦MV女孩的指控？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimzqcs5361254.html>
+- 链接: <https://www.sina.cn/news/article/nimzumt4034678.html>
 
-### 挑战用10欧解决午餐晚餐并且复刻周杰伦告白气球MV？
+### 方文山否认集邮周杰伦MV女孩，称将依法维权
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimzqcr3733945.html>
+- 链接: <https://www.sina.cn/news/article/nimzumt4034239.html>
 
-### 特朗普回应秘密换机避暗杀威胁：所乘飞机“风险反而更大”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 央视网
-- 时间: 2026-08-12 03:29
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5PUmpQb0M5UW1VczgtREpuUGprUGEzN1Awc0JlbUJNMzJIN1YxR2xnTVJRMFlkMHFYZDJLUk1yZ3NzSWlURHpaX1hUbVAzbG1teWVOZFl2VUFpUjZRYVdmU1NhSUFucDFDYjVlSExmWXpWTTYyZWJ4WA?oc=5>
-
-### “听从特勤局和军方建议”特朗普回应秘密换机 伊朗发视频讽刺
+### 特朗普24岁跳舞影像曝光，狼尾发型舞姿似作风
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中国网新闻中心
-- 时间: 2026-08-12 04:24
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE5Wd04zbXNoZUM2YVJBaDlZT3lGYmpGS0NMM2pOa3Jnd1JPeGJfVnY1eElySEJldmpWekdBN1JXbFE0N3dtT0hwRVlSM0Ria2JFdnBEV1RUZlF1M3VkNW9IV2d3UkJHMDQxM0pZ?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-08-12 06:23
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWWw4allOeEhZNnFyMVkzU1hyTC1Fa1NhLVZEdkU3OFBuUHNvMUxiRTRwWF9id0QzN0FmMWRZNDFFbXFnc21MQkpUUHZTRC1DcEoyTXlPdUg2ZmwxY0hGdGw1TUFmRzJsb0dzaUZzdXNzZjlDRGZHRjRRR0Rlc2p6S0FiTXo2a3NwR0x2dE1nYlVjSjNmbEFUa1dUak5scmt1eUpKVk1Pb2ZvYTU0a0NaNDFid1k2VnFPV2JGT3pZdm5hSmxBZTBTYk5Sa0tLOGxQdjlDTjZGOTRVVFFVdWFn?oc=5>
 
-### “才不怕！”特朗普回应“躲餐车换机”，伊朗大使馆火速搓AI视频开嘲
+### 特朗普回应秘密换机避暗杀威胁 后续航班风险更大
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: guancha.cn
-- 时间: 2026-08-12 03:59
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9OQmxJeTNvbVJCUzFHLW9SZEZJR2RKbEZ5cjB4WDhMMldZb093T2J6NTQ2Z2NZNlVRb3FfX3J2cVlaSFdHbUR1X0x3dXNvT19ZNjl5YmVmZ1EyanlSSFIwSmFRRk03MTk3SlE?oc=5>
+- 场馆: 中华网
+- 时间: 2026-08-12 04:20
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9MOXlIclhtUC16N3hRNmRWSFQ4ZXU3TmMwWHZIQlNOOC1UdmVWU2VWdHlrQnk3TGNuNUVuRlBiRVA2WkhkQThHZjBVX1MwOHBFTDZ5RTVCSy0tM0NNclRaT0p6NHFhVGstMFhqS2xaNnk?oc=5>
 
-### Trump斥资66万亿韩元扩大“边境墙”……还将安装摄像头和传感器- 阿视亚经济
+### 特朗普被曝遭到可信暗杀威胁秘密换机未搭乘“空军一号”
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 아시아경제
-- 时间: 2026-08-12 04:50
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9sZUpHM1pNMkxZa0k2OFdXZ21MUWlkc3pWYXZTeWFSLXF0a1NJRFQtUUw1NUUxc3U4bGp0VExPOEVJWWF4R2c2akh6MDF5NVJncEp6VHRjRHloSzU2N2VtMjRyVUU?oc=5>
+- 场馆: 腾讯新闻
+- 时间: 2026-08-12 02:14
+- 链接: <https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xSWlkdnh2MThZU0pOZmRMOFppVDIzdEJoalFwMEdiRGFTZXE2YUh5dlllQWV2b09kVUo3ZENGSERKdlhVRS13b08yLXdRMWRuVTdLMEln?oc=5>
 
-### Strategy 拟恢复增持，Trump Media 披露 Q2 持仓与浮亏
+### 美媒爆猛料：特朗普飞离土耳其时，美国设了一个局……
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: CryptoRank
-- 时间: 2026-08-12 04:47
-- 链接: <https://news.google.com/rss/articles/CBMiXEFVX3lxTE1aeW5PNW4tQllUTWNMLXBtSFdHXzFBOUxUaUJUbjVKWTFCMGpfdXNQd19fTnRiMTM5UTFUaDJOa3FEN3JBV21XSHRNRm9aSWxKaUd1WWtMckxieHh4?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-08-11 04:22
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE12VVZtTi1GV0h6RmEwY3AzWE1FUXppNmJ0LVBLY1pKdXdZaWgxN1A0NzdVMTZ0M1A2QU9lVnhveHZPakE4SUVKa3pTbzliak5XZnA2V2hNWTdTOThPazVGRTRmUmpzN1J0aGEteWU1T2prbWZka2c?oc=5>
 
-### 封禁3年后，美国政府设备重新允许使用TikTok！特朗普：我在TikTok上长期霸榜第一名
+### 特朗普曾遭“未遂政变”，期待新司法部长调查涉事官员？白宫顾问答凤凰
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Sohu
-- 时间: 2026-08-12 04:11
-- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWVBEOVF1SnVGSXhBY0FPN3ZCd3VZRVcwMzVZSUFWcEdiTmg4YnpIQ01MX0lYN00wYS1ROUVUM0d2V3ZmN1ZtbkEtcDlYbnREZWJCMWlZVkZxVUVrVmZ3RXNzRGVKTWtjMHFCc2REYkV5eWRMdTZ6Q3pwcmVEVnR4S2ZVZGNSVG44?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-08-12 04:30
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE93bUFxc0NuZGZJMGhocXZSOXBmbmNEUDNvb3dNcnFUWFRFNk5xZENRZno5M2lFNHM3TnBQeFhwN1hCemVlQjgxVHVMQUw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-12 06:52  (8 条)
+
+- **蔡徐坤** | cxk蔡徐坤蔡徐坤新歌蔡徐坤演唱会 都说萝莉有三好 <https://www.sina.cn/news/article/nimzqcs5345026.html>
+- **周杰伦** | 方文山如何回应“集邮”周杰伦MV女孩的指控？ <https://www.sina.cn/news/article/nimzumt4034678.html>
+- **周杰伦** | 方文山否认集邮周杰伦MV女孩，称将依法维权 <https://www.sina.cn/news/article/nimzumt4034239.html>
+- **特朗普** | 特朗普24岁跳舞影像曝光，狼尾发型舞姿似作风 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWWw4allOeEhZNnFyMVkzU1hyTC1Fa1NhLVZEdkU3OFBuUHNvMUxiRTRwWF9id0QzN0FmMWRZNDFFbXFnc21MQkpUUHZTRC1DcEoyTXlPdUg2ZmwxY0hGdGw1TUFmRzJsb0dzaUZzdXNzZjlDRGZHRjRRR0Rlc2p6S0FiTXo2a3NwR0x2dE1nYlVjSjNmbEFUa1dUak5scmt1eUpKVk1Pb2ZvYTU0a0NaNDFid1k2VnFPV2JGT3pZdm5hSmxBZTBTYk5Sa0tLOGxQdjlDTjZGOTRVVFFVdWFn?oc=5>
+- **特朗普** | 特朗普回应秘密换机避暗杀威胁 后续航班风险更大 <https://news.google.com/rss/articles/CBMicEFVX3lxTE9MOXlIclhtUC16N3hRNmRWSFQ4ZXU3TmMwWHZIQlNOOC1UdmVWU2VWdHlrQnk3TGNuNUVuRlBiRVA2WkhkQThHZjBVX1MwOHBFTDZ5RTVCSy0tM0NNclRaT0p6NHFhVGstMFhqS2xaNnk?oc=5>
+- **特朗普** | 特朗普被曝遭到可信暗杀威胁秘密换机未搭乘“空军一号” <https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xSWlkdnh2MThZU0pOZmRMOFppVDIzdEJoalFwMEdiRGFTZXE2YUh5dlllQWV2b09kVUo3ZENGSERKdlhVRS13b08yLXdRMWRuVTdLMEln?oc=5>
+- **特朗普** | 美媒爆猛料：特朗普飞离土耳其时，美国设了一个局…… <https://news.google.com/rss/articles/CBMidkFVX3lxTE12VVZtTi1GV0h6RmEwY3AzWE1FUXppNmJ0LVBLY1pKdXdZaWgxN1A0NzdVMTZ0M1A2QU9lVnhveHZPakE4SUVKa3pTbzliak5XZnA2V2hNWTdTOThPazVGRTRmUmpzN1J0aGEteWU1T2prbWZka2c?oc=5>
+- **特朗普** | 特朗普曾遭“未遂政变”，期待新司法部长调查涉事官员？白宫顾问答凤凰 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE93bUFxc0NuZGZJMGhocXZSOXBmbmNEUDNvb3dNcnFUWFRFNk5xZENRZno5M2lFNHM3TnBQeFhwN1hCemVlQjgxVHVMQUw?oc=5>
 
 ### 2026-08-12 05:26  (12 条)
 
