@@ -1,52 +1,33 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-12 15:27**
-- 本轮扫到 9336 条, 新增 **5** 条
+- 最近更新: **2026-08-12 16:25**
+- 本轮扫到 9338 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (2 条)
 
-### 周杰伦MV女孩集体回应：拒绝造谣，已留证追责
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/ninarre5117527.html>
-
-### 周杰伦MV女孩否认方文山集邮爆料，称已留存证据将追责
+### 周杰伦MV女孩名誉受损后是否会起诉造谣者？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/ninarre5100879.html>
+- 链接: <https://www.sina.cn/news/article/ninarre5144161.html>
 
-### 美国人吓坏了：伊朗知道特朗普住哪一层，还发现肩扛防空导弹
+### 方文山选妃事件对周杰伦MV选角有无影响？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: news.ifeng.com
-- 时间: 2026-08-12 09:03
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5mWXZnNnd1cXlBNnlySmZ3YjkyZ08yQkpXSGVreHFJNkhGRkU5UV9uS1AtUkNnMU1xZlNhMk1WN25UN3NiUDBjbXZMOE4?oc=5>
-
-### 特朗普宣称“美国完全控制着霍尔木兹海峡”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-08-12 14:53
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jT01BVkZnREdPNHZadWxJZVBXQzJ0QnBVanJNSVFjX3p0Q2Zkenc3UEpRR2Q2cFFwSWdfbVBVV1Z0TU1EanpFb2ZFZ2RZd3I0c1MwdE9aUDlIRmxiZTZTY2JaWGh3bTJX?oc=5>
-
-### 特朗普当上“榜一大哥”，美国解除TikTok禁令丨夜观天下
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 四川在线
-- 时间: 2026-08-12 12:12
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5vd0VOMV9naU5nVXd0M2lmb3puLXY4a0U3cThkUFk1d3BHLXhCUmRvb2YySmRJanRXVVRYMUVWcGtJWWxzNVBMTG9SZlNjLVlJTm5HckY2X0lCYWF3cHY1Zw?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/ninarre5134320.html>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-12 16:25  (2 条)
+
+- **周杰伦** | 周杰伦MV女孩名誉受损后是否会起诉造谣者？ <https://www.sina.cn/news/article/ninarre5144161.html>
+- **周杰伦** | 方文山选妃事件对周杰伦MV选角有无影响？ <https://www.sina.cn/news/article/ninarre5134320.html>
 
 ### 2026-08-12 15:27  (5 条)
 
