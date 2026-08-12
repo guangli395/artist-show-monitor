@@ -1,66 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-12 10:55**
-- 本轮扫到 9324 条, 新增 **7** 条
+- 最近更新: **2026-08-12 11:41**
+- 本轮扫到 9326 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (2 条)
 
-### 蔡徐坤澳门演唱会无限流舞台设计的灵感来源是什么？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/ninaezp3938957.html>
-
-### 蔡徐坤在澳门演唱会中如何通过歌曲展现三次重生循环？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/ninaezk5211428.html>
-
-### 蔡徐坤澳门演唱会全开麦唱跳22首原创曲目难度有多大？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/ninaezp3938614.html>
-
-### 近10年的5个“藏身”时刻：特朗普是这样玩“消失”的
+### 特朗普称美国对伊朗有三种“策略”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: shobserver.cn
-- 时间: 2026-08-12 10:29
-- 链接: <https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BVmZFNFR2bG8xOU1NQ0dvYTZzeFdTV25nUlhfU3ZXYlhCb2lKQW02N3dFS3hqREtGUDhXM0k1S3dHdS1sVzBzR0NTd2RzdTdlS3hZbFpoOF93UHJN?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-08-11 08:19
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxNTWsweHo3ZFpUZlBXc0tnQVg2TWItd2U5QUZGOUMwcTUzeXJfWmhzSHhQQTcwekE0QzhOcFFQYmxFaTNkZEN1ZTdjQnVoMWlSa00wUFUwT3RHNGhBanJaWExiTFNKd25Pc2dJTV9KVjBHbVAwUEo4ck56SHBiTnZjUEpDdGFrSXM?oc=5>
 
-### 美法官叫停美邮政局执行特朗普涉限制邮寄选票的行政令
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-12 09:56
-- 链接: <https://news.google.com/rss/articles/CBMiigJBVV95cUxOMEtDd2RleWlYaF9SeU1Pc2FHUi1kNzBnUUFJT193QWhrdlpyUXZia3NmNmFCN0pfZ1hlbV9RWUxaZ25WUGtQRWlENzZUUkxQM2Q3aEVaYTl0MFZDOVU3LVNLN0taUzdqUzdTMVZ3a29QdGMtNDkyb1BvUWZlOUVsNU5kOFRraFZvbzhLUXpTTGo0OV93OHBfQmxRMlNGMkotaVl2UnpNaWpRZm1fQzhBcEtuRjAybDZsT3lVVkZiRkFXNlAyUXVFM1ZaQ0ljN3ZrQzhlcWRuM1RCbTJ1aFgwS3QxeWF0S2ZzUFZqY0JwcDJ2c2Vzbm85dmJfbl9oekFCTEQyZ0VaaUR0dw?oc=5>
-
-### 特朗普揭秘北约峰会后更换飞机的内幕
+### 视频丨特朗普为何未乘坐“空军一号”？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: idnfinancials.com
-- 时间: 2026-08-12 10:20
-- 链接: <https://news.google.com/rss/articles/CBMiowJBVV95cUxPanNJS3ZWNG12ZjdtYVZDSjZfdmpTVUlBU01zenVLNzRiUGl2OExTTXNRZTROX0drdS1KZTlkcmoxOG9XLWFiTjBpRDVXQ09URkFYOWFXelJITFBvV3ozbFJmYXRlVm0tQTV3VW9VNTFyVVB1UHUwdmRDLVNMcXpXeDBxbGo5Zk9UWVFka3RVel9mNkhGNF9UVzY5eVo5M1NTNUc1X2xpYy1MUHNTU3V0Q3BJbU5VUnplTE9xREl2ZHJaTENEaUtNUnc4VGFsRm05M0pFc3l0VmZTOFdFM0JKVGUtRDBoQm50MS16UkN6aFU2WHBfXzZ3NEZoRWd0cEM1cjlvU1d3R2s5QmN6T20tMVg1TVpvNjFsZ1NSSWl0MjVfQzg?oc=5>
-
-### 美媒披露：特朗普登机后又乘坐餐饮服务车，秘密转移
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 京报网
-- 时间: 2026-08-12 04:38
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3THBMdTN0U21tN3ZwLURudHNIcTRLUVBSNm9MenhPczFic2hDazY5Q3BGeWNMRl9fZ1JwbWl1NlVoZE9XTVJHQmxhbHJXRzljVHRIcGFybTRuWmIzT3c?oc=5>
+- 场馆: 国际在线
+- 时间: 2026-08-12 10:27
+- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE9vVDhSdjdmTWJKMThNaEl1Rlc4SXVTLWo1RVNFSm1Bam1EZ21GMHp1TWpCOEx4RG5jTFkwUXJoV1VPbnV6ZU9vYjFDMFNrSlR5T3I1UTZCZEFNVHlsM1ZERHFvM2R1X2N2ZElHdzVxNkc4WUp0VWo2LWdjLTI?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-12 11:41  (2 条)
+
+- **特朗普** | 特朗普称美国对伊朗有三种“策略” <https://news.google.com/rss/articles/CBMihwFBVV95cUxNTWsweHo3ZFpUZlBXc0tnQVg2TWItd2U5QUZGOUMwcTUzeXJfWmhzSHhQQTcwekE0QzhOcFFQYmxFaTNkZEN1ZTdjQnVoMWlSa00wUFUwT3RHNGhBanJaWExiTFNKd25Pc2dJTV9KVjBHbVAwUEo4ck56SHBiTnZjUEpDdGFrSXM?oc=5>
+- **特朗普** | 视频丨特朗普为何未乘坐“空军一号”？ <https://news.google.com/rss/articles/CBMifEFVX3lxTE9vVDhSdjdmTWJKMThNaEl1Rlc4SXVTLWo1RVNFSm1Bam1EZ21GMHp1TWpCOEx4RG5jTFkwUXJoV1VPbnV6ZU9vYjFDMFNrSlR5T3I1UTZCZEFNVHlsM1ZERHFvM2R1X2N2ZElHdzVxNkc4WUp0VWo2LWdjLTI?oc=5>
 
 ### 2026-08-12 10:55  (7 条)
 
