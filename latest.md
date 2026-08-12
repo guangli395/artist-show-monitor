@@ -1,24 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-12 20:36**
-- 本轮扫到 9350 条, 新增 **1** 条
+- 最近更新: **2026-08-12 21:38**
+- 本轮扫到 9353 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮新发现 (3 条)
 
-### 从餐饮专车悄悄离开空军一号？特朗普称特勤局安排
+### 巨亏2.38亿美元！特朗普媒体与科技集团：不玩加密货币了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: DW.com
-- 时间: 2026-08-12 09:21
-- 链接: <https://news.google.com/rss/articles/CBMi0AJBVV95cUxNalVINjJTYkZHYk1abE1sbkpOMUtFR0N4NEJuNVF5LW83OHRGOGY1Z2xzSkx2T1oyN3Rwelk0TFVqWlo0UHRhejl3WnhFSTlDb05uRnk4TjZtdWVRWHRCcjRyeDZFSU02aF9sM0RPU3dQRG05Q0xUOHV3Wmh3eGpXY2NZcFdiOGhwVDV0RlBKNGprM2FqclFVZkduWnk4M0ZhcllvZEdBWHFsUFRlQjVJV2VzdkpVTEFtVmo3NHV3THloaEk4cjZCcVQ3SnhyZTRJLXNGMlg4WVRiNnZXQ0h0Z1FNYUZRZTJmYWhtNmlrMVhnVS1BcmpHelI5M0V4UUF4QVlYSUt0NDA3dVdJVTYxY3ZkYUZsejFnSlQ3RW5NTFpFRG9NMC1QTW9NRGpCdXM3MzZGVzF5YTdRUW1XZjNfVnBVeXBBYjk1YlpVRGNRNnrSAdACQVVfeXFMTzVqa2txOU9VRkU0dmpJNEZQV1lzTXFReWduaDlrelk4d1RfMkF3QVhlei13Z0NLVDdBRUJuWmJ5RzU2WVZxNmhGQUJ5UEpYRjlUbndYN2ZCd3podUEzRDJORGNVME81SmR0UFNETlVfX0M5Q3lEZzU5a3VjWlNZOFpzMFBhRGUydDFUYW11ZUNpeUZzX2F1T2pSRzdkRGVaTXVzRTBCT1lMUFJIUGpPQl9DcC1Pb2NCUUNaMmpmM3M0dFNqT3RkTm5NWnBnYS1Hd29fY1luMEZZbXNORGxuN2NFTXRlRWZiUkZwZTJPZHk1QW5aUjBVRWwtc2t6SzgxTzI3MEVhUWhlQ1Zod1NoamVkY2pVSWNSV1VmZEJsNFhvZjVfbmFHbzFIOTVoNWZoUVBkUWZuc3RLV01VU3Q3YUtYRUhNemNGVVowcm14UWM4?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-12 05:14
+- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxQVThUS2JrR2RWaGlOU3dnWm9ReVJKeEEwaXlhNzgwWTUxdGUwQm5nZksyMVgteHdJUjVLU2xhWTFQQm10UGVid05yLXk3UWZsbWJ0V0F1dTRYMWdkTTBvS1MwLU55ZnhCVEs0NmNUWW9WNGFpSUZkTDRFS1djRktFSERhVGtWZFl0Yi0tUVdBR0VIYW9OdHlpVg?oc=5>
+
+### 特朗普证实北约峰会后秘密换机 改搭军用飞机离开
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: zaobao.com
+- 时间: 2026-08-12 05:26
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMdEl2eklVN2syRF9pa3Z2Z180dXlvand0RlM4Q0Z1aTJTTFJHaDktVnVwZHUwREUwTVJ3M202Y0JKT1Jsa2szZ3A3azZPYWYtVzBHOUlldVR2SEc5MHpTNFdXVWtBUQ?oc=5>
+
+### 特朗普：白宫新闻秘书莱维特将于本月底离任
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-12 19:41
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE10VURNR2JXMFRoVDE4XzJrQnhYTHhBUHdvOHB3aDBKSFpQVl82cjBJc0tWR3V0UDFqQl9BRU8xMnhlU2kyLWhRWlFfYUZjdlp6TGIyNjBxUUdaZF93Wk5tWFJmQlBqc2xwX1NPb0l0a3R1TVhVVFZtcg?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-12 21:38  (3 条)
+
+- **特朗普** | 巨亏2.38亿美元！特朗普媒体与科技集团：不玩加密货币了 <https://news.google.com/rss/articles/CBMimAFBVV95cUxQVThUS2JrR2RWaGlOU3dnWm9ReVJKeEEwaXlhNzgwWTUxdGUwQm5nZksyMVgteHdJUjVLU2xhWTFQQm10UGVid05yLXk3UWZsbWJ0V0F1dTRYMWdkTTBvS1MwLU55ZnhCVEs0NmNUWW9WNGFpSUZkTDRFS1djRktFSERhVGtWZFl0Yi0tUVdBR0VIYW9OdHlpVg?oc=5>
+- **特朗普** | 特朗普证实北约峰会后秘密换机 改搭军用飞机离开 <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMdEl2eklVN2syRF9pa3Z2Z180dXlvand0RlM4Q0Z1aTJTTFJHaDktVnVwZHUwREUwTVJ3M202Y0JKT1Jsa2szZ3A3azZPYWYtVzBHOUlldVR2SEc5MHpTNFdXVWtBUQ?oc=5>
+- **特朗普** | 特朗普：白宫新闻秘书莱维特将于本月底离任 <https://news.google.com/rss/articles/CBMieEFVX3lxTE10VURNR2JXMFRoVDE4XzJrQnhYTHhBUHdvOHB3aDBKSFpQVl82cjBJc0tWR3V0UDFqQl9BRU8xMnhlU2kyLWhRWlFfYUZjdlp6TGIyNjBxUUdaZF93Wk5tWFJmQlBqc2xwX1NPb0l0a3R1TVhVVFZtcg?oc=5>
 
 ### 2026-08-12 20:36  (1 条)
 
