@@ -1,86 +1,76 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-12 09:38**
-- 本轮扫到 9317 条, 新增 **10** 条
+- 最近更新: **2026-08-12 10:55**
+- 本轮扫到 9324 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (10 条)
+## 本轮新发现 (7 条)
 
-### 周杰伦《天涯过客》MV女主程皓如，方文山选角风波真相待解
+### 蔡徐坤澳门演唱会无限流舞台设计的灵感来源是什么？
 
-- 艺人/关键词: **周杰伦**
+- 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimzytn5317642.html>
+- 链接: <https://www.sina.cn/news/article/ninaezp3938957.html>
 
-### 周杰伦《天涯过客》MV女主程皓如今晚发声了吗？
+### 蔡徐坤在澳门演唱会中如何通过歌曲展现三次重生循环？
 
-- 艺人/关键词: **周杰伦**
+- 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimzytn5317508.html>
+- 链接: <https://www.sina.cn/news/article/ninaezk5211428.html>
 
-### 《天涯过客》MV选角流程是谁主导的？
+### 蔡徐坤澳门演唱会全开麦唱跳22首原创曲目难度有多大？
 
-- 艺人/关键词: **周杰伦**
+- 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimzytn5317474.html>
+- 链接: <https://www.sina.cn/news/article/ninaezp3938614.html>
 
-### 方文山被曝西塘汉服文化周选妃，周杰伦MV女孩被指集邮
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimzytn5303054.html>
-
-### 方文山被曝集邮周杰伦MV女孩，当事人否认：等实锤
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimzytn5273677.html>
-
-### 特朗普回应秘密换机避暗杀威胁：所乘飞机“风险反而更大”
+### 近10年的5个“藏身”时刻：特朗普是这样玩“消失”的
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观海新闻
-- 时间: 2026-08-12 05:56
-- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTE9odlZNZzhuWno5Zkt4RGpJd2VDNDNKb1Zibkt3Tk9ZbUI3Y0ZkWDZrNVhoQkc2Ylo1ZjNxZFNkU1Q0LXBRSHhWSll5dGNRaUNoYWc?oc=5>
+- 场馆: shobserver.cn
+- 时间: 2026-08-12 10:29
+- 链接: <https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BVmZFNFR2bG8xOU1NQ0dvYTZzeFdTV25nUlhfU3ZXYlhCb2lKQW02N3dFS3hqREtGUDhXM0k1S3dHdS1sVzBzR0NTd2RzdTdlS3hZbFpoOF93UHJN?oc=5>
 
-### 特朗普承认悄悄换飞机了：其实我坐的那架更危险
+### 美法官叫停美邮政局执行特朗普涉限制邮寄选票的行政令
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-08-12 08:27
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9XTmVOblNKbTVGLU95TUc3RC0zS0gtR1U5ZzhqWXRwdlduS0JHaEtFbzhVXzRGTGZMOXZyRWwzQWc2dmVWMTRKMF81d1Y0MnBJTUFNcHROUVRIVVExamY1b1hid1hXeHp6YV9vYkN1bkJId1pwbWZ1cQ?oc=5>
+- 时间: 2026-08-12 09:56
+- 链接: <https://news.google.com/rss/articles/CBMiigJBVV95cUxOMEtDd2RleWlYaF9SeU1Pc2FHUi1kNzBnUUFJT193QWhrdlpyUXZia3NmNmFCN0pfZ1hlbV9RWUxaZ25WUGtQRWlENzZUUkxQM2Q3aEVaYTl0MFZDOVU3LVNLN0taUzdqUzdTMVZ3a29QdGMtNDkyb1BvUWZlOUVsNU5kOFRraFZvbzhLUXpTTGo0OV93OHBfQmxRMlNGMkotaVl2UnpNaWpRZm1fQzhBcEtuRjAybDZsT3lVVkZiRkFXNlAyUXVFM1ZaQ0ljN3ZrQzhlcWRuM1RCbTJ1aFgwS3QxeWF0S2ZzUFZqY0JwcDJ2c2Vzbm85dmJfbl9oekFCTEQyZ0VaaUR0dw?oc=5>
 
-### 中期选举脚步渐近，特朗普酝酿“大招”：据悉考虑削减资本利得税
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网财经
-- 时间: 2026-08-12 04:00
-- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE1XZmxFRDZna2pXcHNOemg0TGRzX0gxSzlhZlBMUVdYVk1xXzFWa21icVJYbkxBVlNJY3dURDZ6c1VGaUlxcV9JUkRfaWMwQjdV?oc=5>
-
-### 特朗普证实参加北约峰会后曾秘密换乘飞机
+### 特朗普揭秘北约峰会后更换飞机的内幕
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: news.cn
-- 时间: 2026-08-12 04:32
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE5NbTVHandSSFY4dVpuSHdpVzVXQW55OFdDaENqdk5yb1RPck1LeFNYNW9wcXdCRXlBOUJITW91S0g5QS1VQ3ExeXBpck1yYW1XdTR5SVpudnFQRDBaMnNqSDBuRDhoamN6MmM3YkRVU1BkWGNjeDNpbU1KRnhha0k?oc=5>
+- 场馆: idnfinancials.com
+- 时间: 2026-08-12 10:20
+- 链接: <https://news.google.com/rss/articles/CBMiowJBVV95cUxPanNJS3ZWNG12ZjdtYVZDSjZfdmpTVUlBU01zenVLNzRiUGl2OExTTXNRZTROX0drdS1KZTlkcmoxOG9XLWFiTjBpRDVXQ09URkFYOWFXelJITFBvV3ozbFJmYXRlVm0tQTV3VW9VNTFyVVB1UHUwdmRDLVNMcXpXeDBxbGo5Zk9UWVFka3RVel9mNkhGNF9UVzY5eVo5M1NTNUc1X2xpYy1MUHNTU3V0Q3BJbU5VUnplTE9xREl2ZHJaTENEaUtNUnc4VGFsRm05M0pFc3l0VmZTOFdFM0JKVGUtRDBoQm50MS16UkN6aFU2WHBfXzZ3NEZoRWd0cEM1cjlvU1d3R2s5QmN6T20tMVg1TVpvNjFsZ1NSSWl0MjVfQzg?oc=5>
 
-### 布伦特和WTI期货在盘前上涨，因特朗普声称控制霍尔木兹海峡，巴基斯坦报告红海遇害事件
+### 美媒披露：特朗普登机后又乘坐餐饮服务车，秘密转移
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-08-12 08:51
-- 链接: <https://news.google.com/rss/articles/CBMipAFBVV95cUxNRVhwVHN1UFl4MVdoVy10NTRsVkpvajFTQzZCNU9NZkwzdlZzV2dPbEwxMWRRVk9hMXFGSUMzNGdZTFpSU080QTFsY0xGOUhUVkVNU1dPWWZ1MFVEYjNwTThkbmVpSTFrTkJYQUlNX2JDUzRMZkRUVDJ2bWRBeGQtU19QSWVNZVlGUnEyclRIWTQ2R2NZa2tVbS1zVmFyRDhqTkJKTw?oc=5>
+- 场馆: 京报网
+- 时间: 2026-08-12 04:38
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3THBMdTN0U21tN3ZwLURudHNIcTRLUVBSNm9MenhPczFic2hDazY5Q3BGeWNMRl9fZ1JwbWl1NlVoZE9XTVJHQmxhbHJXRzljVHRIcGFybTRuWmIzT3c?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-12 10:55  (7 条)
+
+- **蔡徐坤** | 蔡徐坤澳门演唱会无限流舞台设计的灵感来源是什么？ <https://www.sina.cn/news/article/ninaezp3938957.html>
+- **蔡徐坤** | 蔡徐坤在澳门演唱会中如何通过歌曲展现三次重生循环？ <https://www.sina.cn/news/article/ninaezk5211428.html>
+- **蔡徐坤** | 蔡徐坤澳门演唱会全开麦唱跳22首原创曲目难度有多大？ <https://www.sina.cn/news/article/ninaezp3938614.html>
+- **特朗普** | 近10年的5个“藏身”时刻：特朗普是这样玩“消失”的 <https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BVmZFNFR2bG8xOU1NQ0dvYTZzeFdTV25nUlhfU3ZXYlhCb2lKQW02N3dFS3hqREtGUDhXM0k1S3dHdS1sVzBzR0NTd2RzdTdlS3hZbFpoOF93UHJN?oc=5>
+- **特朗普** | 美法官叫停美邮政局执行特朗普涉限制邮寄选票的行政令 <https://news.google.com/rss/articles/CBMiigJBVV95cUxOMEtDd2RleWlYaF9SeU1Pc2FHUi1kNzBnUUFJT193QWhrdlpyUXZia3NmNmFCN0pfZ1hlbV9RWUxaZ25WUGtQRWlENzZUUkxQM2Q3aEVaYTl0MFZDOVU3LVNLN0taUzdqUzdTMVZ3a29QdGMtNDkyb1BvUWZlOUVsNU5kOFRraFZvbzhLUXpTTGo0OV93OHBfQmxRMlNGMkotaVl2UnpNaWpRZm1fQzhBcEtuRjAybDZsT3lVVkZiRkFXNlAyUXVFM1ZaQ0ljN3ZrQzhlcWRuM1RCbTJ1aFgwS3QxeWF0S2ZzUFZqY0JwcDJ2c2Vzbm85dmJfbl9oekFCTEQyZ0VaaUR0dw?oc=5>
+- **特朗普** | 特朗普揭秘北约峰会后更换飞机的内幕 <https://news.google.com/rss/articles/CBMiowJBVV95cUxPanNJS3ZWNG12ZjdtYVZDSjZfdmpTVUlBU01zenVLNzRiUGl2OExTTXNRZTROX0drdS1KZTlkcmoxOG9XLWFiTjBpRDVXQ09URkFYOWFXelJITFBvV3ozbFJmYXRlVm0tQTV3VW9VNTFyVVB1UHUwdmRDLVNMcXpXeDBxbGo5Zk9UWVFka3RVel9mNkhGNF9UVzY5eVo5M1NTNUc1X2xpYy1MUHNTU3V0Q3BJbU5VUnplTE9xREl2ZHJaTENEaUtNUnc4VGFsRm05M0pFc3l0VmZTOFdFM0JKVGUtRDBoQm50MS16UkN6aFU2WHBfXzZ3NEZoRWd0cEM1cjlvU1d3R2s5QmN6T20tMVg1TVpvNjFsZ1NSSWl0MjVfQzg?oc=5>
+- **特朗普** | 美媒披露：特朗普登机后又乘坐餐饮服务车，秘密转移 <https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3THBMdTN0U21tN3ZwLURudHNIcTRLUVBSNm9MenhPczFic2hDazY5Q3BGeWNMRl9fZ1JwbWl1NlVoZE9XTVJHQmxhbHJXRzljVHRIcGFybTRuWmIzT3c?oc=5>
 
 ### 2026-08-12 09:38  (10 条)
 
