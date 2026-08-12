@@ -1,32 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-12 22:33**
-- 本轮扫到 9355 条, 新增 **2** 条
+- 最近更新: **2026-08-12 23:34**
+- 本轮扫到 9359 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (4 条)
 
-### 越权制裁国际刑事法院，特朗普被美国多家人权组织共同起诉
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: news.ifeng.com
-- 时间: 2026-08-12 09:43
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1lNkpaYm9DVkNfMXg1bEhnVWtYcGVrREt5LVExSlBoa0dMcmtra0lveVFTM01TZDNmWExFSkJZR2l6UF9XQmlJVG52cHk?oc=5>
-
-### 特朗普宣称“美国完全控制着霍尔木兹海峡”
+### 特朗普“最信任的助手之一”，白宫新闻秘书莱维特将于本月底离任
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 川观新闻
-- 时间: 2026-08-12 15:04
-- 链接: <https://news.google.com/rss/articles/CBMiTkFVX3lxTFBvS2hCUGtuTDNEbjdQZ3dQU1Nram9ldXZIc3F0bExCSFRjV21zQmRZZkZMZThQMDZ1UjlzYWZCOGRDQWtYZkw5T1R1blRyUQ?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-12 22:20
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9SamdLR2F5LXlmRHZGV25vZUttV2IyNG5iNmRuZHh1TEtudnRqdElKNUdYX3drRW05SDEtUFM2dFlBOWg3VHU0eUVEUHNOU2lQN3J2NXZzVnlVS0d0VU41VzZqNW83U3QtT1Y1YzkzUXQ4TTBLam95NA?oc=5>
+
+### 特朗普政府首次承认：153名平民死亡
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-08-12 16:21
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE1SSFFVQ3N1ZTRDd0xIbE9Hdk5zZ1NWaG5CeGRZVkRNY2plbnJ4Z0o0OTV1dXRnYmhUa1B0MWRVX2plMXBWWXo2NU1aS3VVUjJuNnp4aFFPRDR6S2xwZnlWeUZhdElHLVRHTzRNZ3M2NFVTMmJU?oc=5>
+
+### 特朗普“历史性协议”告吹 纸面和平难落实
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-08-12 16:34
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1HQ2FLa2NuSFYwUHpfN3lVWVVQdERxcVAwODdPSXIwU1NSZ3VCRVU3SXR5OTUzYVhZdUlLVzZnb0xrUGZ2ajQxVFdSWmY1ekpnT21sZjZLdjc3b291X1ItMWhoa0trZ3NYaEI4UzVpcjg?oc=5>
+
+### 特朗普总统证实他在北约峰会后曾秘密换乘飞机
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-08-12 17:09
+- 链接: <https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeDVSeFM1VXV4REVZLVNvTHZCUmtEbHFUdWRTYVF3Y3E4cUtaX0VJS1lRWFlPV01YZjhmZmpzVHRLc1QzRnJZOHlxc3pwa3JMWVlCck5yOUU5VkVwOGVfcWV4Qmw0MFpqTzViWDluNDNnWmRfOGJCUGhCWFEtUzd3UHd0MFRRX0lGYnNFSHk4TGZVYTdXWEItNlRzUTUzOG83T01naDZoYjlOTUxUbGJnNEFhY01IU0wybVg3UUthdGdmUF9JbG04dlNOd3dTTmgwMjZZatIB1AFBVV95cUxQeDVSeFM1VXV4REVZLVNvTHZCUmtEbHFUdWRTYVF3Y3E4cUtaX0VJS1lRWFlPV01YZjhmZmpzVHRLc1QzRnJZOHlxc3pwa3JMWVlCck5yOUU5VkVwOGVfcWV4Qmw0MFpqTzViWDluNDNnWmRfOGJCUGhCWFEtUzd3UHd0MFRRX0lGYnNFSHk4TGZVYTdXWEItNlRzUTUzOG83T01naDZoYjlOTUxUbGJnNEFhY01IU0wybVg3UUthdGdmUF9JbG04dlNOd3dTTmgwMjZZag?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-12 23:34  (4 条)
+
+- **特朗普** | 特朗普“最信任的助手之一”，白宫新闻秘书莱维特将于本月底离任 <https://news.google.com/rss/articles/CBMieEFVX3lxTE9SamdLR2F5LXlmRHZGV25vZUttV2IyNG5iNmRuZHh1TEtudnRqdElKNUdYX3drRW05SDEtUFM2dFlBOWg3VHU0eUVEUHNOU2lQN3J2NXZzVnlVS0d0VU41VzZqNW83U3QtT1Y1YzkzUXQ4TTBLam95NA?oc=5>
+- **特朗普** | 特朗普政府首次承认：153名平民死亡 <https://news.google.com/rss/articles/CBMidEFVX3lxTE1SSFFVQ3N1ZTRDd0xIbE9Hdk5zZ1NWaG5CeGRZVkRNY2plbnJ4Z0o0OTV1dXRnYmhUa1B0MWRVX2plMXBWWXo2NU1aS3VVUjJuNnp4aFFPRDR6S2xwZnlWeUZhdElHLVRHTzRNZ3M2NFVTMmJU?oc=5>
+- **特朗普** | 特朗普“历史性协议”告吹 纸面和平难落实 <https://news.google.com/rss/articles/CBMicEFVX3lxTE1HQ2FLa2NuSFYwUHpfN3lVWVVQdERxcVAwODdPSXIwU1NSZ3VCRVU3SXR5OTUzYVhZdUlLVzZnb0xrUGZ2ajQxVFdSWmY1ekpnT21sZjZLdjc3b291X1ItMWhoa0trZ3NYaEI4UzVpcjg?oc=5>
+- **特朗普** | 特朗普总统证实他在北约峰会后曾秘密换乘飞机 <https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeDVSeFM1VXV4REVZLVNvTHZCUmtEbHFUdWRTYVF3Y3E4cUtaX0VJS1lRWFlPV01YZjhmZmpzVHRLc1QzRnJZOHlxc3pwa3JMWVlCck5yOUU5VkVwOGVfcWV4Qmw0MFpqTzViWDluNDNnWmRfOGJCUGhCWFEtUzd3UHd0MFRRX0lGYnNFSHk4TGZVYTdXWEItNlRzUTUzOG83T01naDZoYjlOTUxUbGJnNEFhY01IU0wybVg3UUthdGdmUF9JbG04dlNOd3dTTmgwMjZZatIB1AFBVV95cUxQeDVSeFM1VXV4REVZLVNvTHZCUmtEbHFUdWRTYVF3Y3E4cUtaX0VJS1lRWFlPV01YZjhmZmpzVHRLc1QzRnJZOHlxc3pwa3JMWVlCck5yOUU5VkVwOGVfcWV4Qmw0MFpqTzViWDluNDNnWmRfOGJCUGhCWFEtUzd3UHd0MFRRX0lGYnNFSHk4TGZVYTdXWEItNlRzUTUzOG83T01naDZoYjlOTUxUbGJnNEFhY01IU0wybVg3UUthdGdmUF9JbG04dlNOd3dTTmgwMjZZag?oc=5>
 
 ### 2026-08-12 22:33  (2 条)
 
