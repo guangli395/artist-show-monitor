@@ -1,94 +1,115 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-12 03:34**
-- 本轮扫到 9276 条, 新增 **10** 条
+- 最近更新: **2026-08-12 05:26**
+- 本轮扫到 9288 条, 新增 **12** 条
 
 ---
 
-## 本轮新发现 (10 条)
+## 本轮新发现 (12 条)
 
-### 方文山否认出轨后，再被曝集邮周杰伦MV女主
+### 蔡徐坤在《What a Day》MV中展现了哪些舞蹈实力？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimzqcv4110089.html>
+
+### 蔡徐坤新歌《What a Day》MV为何能口碑逆转？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimzqcs5382413.html>
+
+### 蔡徐坤澳门演唱会收官，呼吁别熬夜用丸美小红笔
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimzqcv4102304.html>
+
+### 蔡徐坤演唱会现场还原MV，全场瞬间沸腾
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimzqcr3693356.html>
+
+### 方文山风波升级！被曝每次来内地都找固定地陪，让情人出演周杰伦MV
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nimzqcv4056381.html>
+- 链接: <https://www.sina.cn/news/article/nimzqcs5361254.html>
 
-### 特朗普登机后钻入餐车秘密换机，规避伊朗导弹威胁
+### 挑战用10欧解决午餐晚餐并且复刻周杰伦告白气球MV？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-08-12 02:47
-- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeGJIRVNVcFZGOTRXM0FaWTVtOVc0cHlSYlBsUDdUMEFUN2Z4VXMwNkVGcFhLa256aU9BY2RTR1ZVWTRMU1RrWFJ3Sm9VZ0RkVXZldFRRT01xcDhSa1paUmw2LUFBN1prTGlWZ2tXUDVsLXFiRFdXM01KaWVzRDlRUG9RNG8zdEVUQmRDYUE5eDlYU3lyd3B0UlVxUlg1M0IxWUhPbGwyWlp1TlZUdU1tU0swMlo0NEk2S0tSUGlOaUR4a2lURXBiVXVlQzhRU0RXZ2xmWnZuOE5nTUdyUmc?oc=5>
-
-### 内塔尼亚胡硬扛特朗普，美以同盟怎么了？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-12 00:05
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBoTkV6NWdKT0o2UWVRMzl2UU1wMWE1MFFwNm1rTlhRbmoxMWw0bUdUY1plX2I0Vm1qTzQybDAxLU83Y0czQXpndFp0UTM?oc=5>
-
-### 国际｜特朗普玩障眼法？视频曝光：登机后又进餐饮车 秘密换机
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-08-10 09:00
-- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE9IdVo0NTktNVRtZFYxcEFaZjhBRDItSEUtLUNfQnRoYnNPSUJfRU1hXzNQU1BGeFN5QTczLWRzdXQ3Tm1qSDRKbUpXMmpLTEtsV0ZKYXhSVWstOURmWlpNWDRn?oc=5>
-
-### 特朗普再次声称美国已“完全控制”霍尔木兹海峡
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-08-12 01:49
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9HaGlJWUtnSDgyYkNsS2xkeUpETzA3a3JYdG9lMzJNcmJaVjBOd3VnTjZNUENBU1BaczQxVFE5UnpFUVpkQllDaDNQdHltVC0tLXJjTUVEd042S3ZHeFp0NDlneFVuZEJ0?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimzqcr3733945.html>
 
 ### 特朗普回应秘密换机避暗杀威胁：所乘飞机“风险反而更大”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 川观新闻
-- 时间: 2026-08-12 03:26
-- 链接: <https://news.google.com/rss/articles/CBMiTkFVX3lxTFBORkktUDFaWXp4SGpVQ2Z2VVl4Sm1PRFZZLTJlT1p6d1JmYVZ2ZVY5Rjd2S0xYam1wY3Z5UVBRRjRYb3RFYTFoVjM2LS14Zw?oc=5>
+- 场馆: 央视网
+- 时间: 2026-08-12 03:29
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5PUmpQb0M5UW1VczgtREpuUGprUGEzN1Awc0JlbUJNMzJIN1YxR2xnTVJRMFlkMHFYZDJLUk1yZ3NzSWlURHpaX1hUbVAzbG1teWVOZFl2VUFpUjZRYVdmU1NhSUFucDFDYjVlSExmWXpWTTYyZWJ4WA?oc=5>
 
-### Trump envoys arrive in Switzerland for Iran talks planned for Sunday
+### “听从特勤局和军方建议”特朗普回应秘密换机 伊朗发视频讽刺
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中国网新闻中心
+- 时间: 2026-08-12 04:24
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE5Wd04zbXNoZUM2YVJBaDlZT3lGYmpGS0NMM2pOa3Jnd1JPeGJfVnY1eElySEJldmpWekdBN1JXbFE0N3dtT0hwRVlSM0Ria2JFdnBEV1RUZlF1M3VkNW9IV2d3UkJHMDQxM0pZ?oc=5>
+
+### “才不怕！”特朗普回应“躲餐车换机”，伊朗大使馆火速搓AI视频开嘲
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: guancha.cn
+- 时间: 2026-08-12 03:59
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9OQmxJeTNvbVJCUzFHLW9SZEZJR2RKbEZ5cjB4WDhMMldZb093T2J6NTQ2Z2NZNlVRb3FfX3J2cVlaSFdHbUR1X0x3dXNvT19ZNjl5YmVmZ1EyanlSSFIwSmFRRk03MTk3SlE?oc=5>
+
+### Trump斥资66万亿韩元扩大“边境墙”……还将安装摄像头和传感器- 阿视亚经济
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: tdm.com.mo
-- 时间: 2026-08-11 17:13
-- 链接: <https://news.google.com/rss/articles/CBMinwFBVV95cUxPMzhYQkJKYkt6Z3RXcUZQaExzaF9zLW5YVFJtT1NlaE91Q3A4RTQ5eDBKSlZiYjZEV1B2RFVCVWNZRWVLanN4MUt1aERjQnd5ZGd0SXREUWZQOXUwT3V5VkJaM0FWXzR5YWU3dHdoZ0kxSVE5QTFPVV9CMTFlRVV5TDhhdDc4X2Z3alNNYWRMS1RWZWxYQnpoZkJhSVdhRkE?oc=5>
+- 场馆: 아시아경제
+- 时间: 2026-08-12 04:50
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9sZUpHM1pNMkxZa0k2OFdXZ21MUWlkc3pWYXZTeWFSLXF0a1NJRFQtUUw1NUUxc3U4bGp0VExPOEVJWWF4R2c2akh6MDF5NVJncEp6VHRjRHloSzU2N2VtMjRyVUU?oc=5>
 
-### 配餐车“偷运”总统：特朗普秘密换机细节曝光
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-08-12 02:31
-- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTE5kSnpSSllZVmV6VnFYWm91SXdiekpJVnc1QlFwanNWdjBhWno5YkpsLTRzLVhMNVNlRDYtRXpWb3Z0SncxYVhNMElaYVp2UTR5Ym5fUnFUeEkxTmNPY3k1QmtRQQ?oc=5>
-
-### 已有逾十家机构 订阅特朗普旗下社媒付费数据服务
+### Strategy 拟恢复增持，Trump Media 披露 Q2 持仓与浮亏
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-08-12 01:52
-- 链接: <https://news.google.com/rss/articles/CBMingFBVV95cUxOaHAzZlZWdS1acVNRMG00Y3hSb2pWS0gtYlRpMlFIZk9vM0EyQmNtODJNb05xc18xRkNKejJKSHRUeWRudGJuYVZNcXdxQ3JRLVlwS3J4U2owVzA5RzlfLTV4bGVyYUk0M0psMUlsRW4wNVItcHMtRmZNWHNfOE1VYm56aGljNnFjeVR1UzZONDN3cWtpb0xPRjlpbnc4dw?oc=5>
+- 场馆: CryptoRank
+- 时间: 2026-08-12 04:47
+- 链接: <https://news.google.com/rss/articles/CBMiXEFVX3lxTE1aeW5PNW4tQllUTWNMLXBtSFdHXzFBOUxUaUJUbjVKWTFCMGpfdXNQd19fTnRiMTM5UTFUaDJOa3FEN3JBV21XSHRNRm9aSWxKaUd1WWtMckxieHh4?oc=5>
 
-### 封禁3年后 美国政府设备重新允许使用TikTok
+### 封禁3年后，美国政府设备重新允许使用TikTok！特朗普：我在TikTok上长期霸榜第一名
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: eastmoney.com
-- 时间: 2026-08-11 01:45
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXU2xlSWdYNzRBdFpiQXFTdWNIdEFnNm9QUkJvT2NPcjlOaElZNF9rRzVWQVlmaHFfNXpYWk9RczVhbmp0ckRsVTdONmZCbE91aEhwSTlDU3FFXzJTazJLUw?oc=5>
+- 场馆: Sohu
+- 时间: 2026-08-12 04:11
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWVBEOVF1SnVGSXhBY0FPN3ZCd3VZRVcwMzVZSUFWcEdiTmg4YnpIQ01MX0lYN00wYS1ROUVUM0d2V3ZmN1ZtbkEtcDlYbnREZWJCMWlZVkZxVUVrVmZ3RXNzRGVKTWtjMHFCc2REYkV5eWRMdTZ6Q3pwcmVEVnR4S2ZVZGNSVG44?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-12 05:26  (12 条)
+
+- **蔡徐坤** | 蔡徐坤在《What a Day》MV中展现了哪些舞蹈实力？ <https://www.sina.cn/news/article/nimzqcv4110089.html>
+- **蔡徐坤** | 蔡徐坤新歌《What a Day》MV为何能口碑逆转？ <https://www.sina.cn/news/article/nimzqcs5382413.html>
+- **蔡徐坤** | 蔡徐坤澳门演唱会收官，呼吁别熬夜用丸美小红笔 <https://www.sina.cn/news/article/nimzqcv4102304.html>
+- **蔡徐坤** | 蔡徐坤演唱会现场还原MV，全场瞬间沸腾 <https://www.sina.cn/news/article/nimzqcr3693356.html>
+- **周杰伦** | 方文山风波升级！被曝每次来内地都找固定地陪，让情人出演周杰伦MV <https://www.sina.cn/news/article/nimzqcs5361254.html>
+- **周杰伦** | 挑战用10欧解决午餐晚餐并且复刻周杰伦告白气球MV？ <https://www.sina.cn/news/article/nimzqcr3733945.html>
+- **特朗普** | 特朗普回应秘密换机避暗杀威胁：所乘飞机“风险反而更大” <https://news.google.com/rss/articles/CBMieEFVX3lxTE5PUmpQb0M5UW1VczgtREpuUGprUGEzN1Awc0JlbUJNMzJIN1YxR2xnTVJRMFlkMHFYZDJLUk1yZ3NzSWlURHpaX1hUbVAzbG1teWVOZFl2VUFpUjZRYVdmU1NhSUFucDFDYjVlSExmWXpWTTYyZWJ4WA?oc=5>
+- **特朗普** | “听从特勤局和军方建议”特朗普回应秘密换机 伊朗发视频讽刺 <https://news.google.com/rss/articles/CBMia0FVX3lxTE5Wd04zbXNoZUM2YVJBaDlZT3lGYmpGS0NMM2pOa3Jnd1JPeGJfVnY1eElySEJldmpWekdBN1JXbFE0N3dtT0hwRVlSM0Ria2JFdnBEV1RUZlF1M3VkNW9IV2d3UkJHMDQxM0pZ?oc=5>
+- **特朗普** | “才不怕！”特朗普回应“躲餐车换机”，伊朗大使馆火速搓AI视频开嘲 <https://news.google.com/rss/articles/CBMiakFVX3lxTE9OQmxJeTNvbVJCUzFHLW9SZEZJR2RKbEZ5cjB4WDhMMldZb093T2J6NTQ2Z2NZNlVRb3FfX3J2cVlaSFdHbUR1X0x3dXNvT19ZNjl5YmVmZ1EyanlSSFIwSmFRRk03MTk3SlE?oc=5>
+- **Trump** | Trump斥资66万亿韩元扩大“边境墙”……还将安装摄像头和传感器- 阿视亚经济 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9sZUpHM1pNMkxZa0k2OFdXZ21MUWlkc3pWYXZTeWFSLXF0a1NJRFQtUUw1NUUxc3U4bGp0VExPOEVJWWF4R2c2akh6MDF5NVJncEp6VHRjRHloSzU2N2VtMjRyVUU?oc=5>
+- **Trump** | Strategy 拟恢复增持，Trump Media 披露 Q2 持仓与浮亏 <https://news.google.com/rss/articles/CBMiXEFVX3lxTE1aeW5PNW4tQllUTWNMLXBtSFdHXzFBOUxUaUJUbjVKWTFCMGpfdXNQd19fTnRiMTM5UTFUaDJOa3FEN3JBV21XSHRNRm9aSWxKaUd1WWtMckxieHh4?oc=5>
+- **Trump** | 封禁3年后，美国政府设备重新允许使用TikTok！特朗普：我在TikTok上长期霸榜第一名 <https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWVBEOVF1SnVGSXhBY0FPN3ZCd3VZRVcwMzVZSUFWcEdiTmg4YnpIQ01MX0lYN00wYS1ROUVUM0d2V3ZmN1ZtbkEtcDlYbnREZWJCMWlZVkZxVUVrVmZ3RXNzRGVKTWtjMHFCc2REYkV5eWRMdTZ6Q3pwcmVEVnR4S2ZVZGNSVG44?oc=5>
 
 ### 2026-08-12 03:34  (10 条)
 
