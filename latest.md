@@ -1,40 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-12 21:38**
-- 本轮扫到 9353 条, 新增 **3** 条
+- 最近更新: **2026-08-12 22:33**
+- 本轮扫到 9355 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (2 条)
 
-### 巨亏2.38亿美元！特朗普媒体与科技集团：不玩加密货币了
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-12 05:14
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxQVThUS2JrR2RWaGlOU3dnWm9ReVJKeEEwaXlhNzgwWTUxdGUwQm5nZksyMVgteHdJUjVLU2xhWTFQQm10UGVid05yLXk3UWZsbWJ0V0F1dTRYMWdkTTBvS1MwLU55ZnhCVEs0NmNUWW9WNGFpSUZkTDRFS1djRktFSERhVGtWZFl0Yi0tUVdBR0VIYW9OdHlpVg?oc=5>
-
-### 特朗普证实北约峰会后秘密换机 改搭军用飞机离开
+### 越权制裁国际刑事法院，特朗普被美国多家人权组织共同起诉
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: zaobao.com
-- 时间: 2026-08-12 05:26
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMdEl2eklVN2syRF9pa3Z2Z180dXlvand0RlM4Q0Z1aTJTTFJHaDktVnVwZHUwREUwTVJ3M202Y0JKT1Jsa2szZ3A3azZPYWYtVzBHOUlldVR2SEc5MHpTNFdXVWtBUQ?oc=5>
+- 场馆: news.ifeng.com
+- 时间: 2026-08-12 09:43
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1lNkpaYm9DVkNfMXg1bEhnVWtYcGVrREt5LVExSlBoa0dMcmtra0lveVFTM01TZDNmWExFSkJZR2l6UF9XQmlJVG52cHk?oc=5>
 
-### 特朗普：白宫新闻秘书莱维特将于本月底离任
+### 特朗普宣称“美国完全控制着霍尔木兹海峡”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-12 19:41
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE10VURNR2JXMFRoVDE4XzJrQnhYTHhBUHdvOHB3aDBKSFpQVl82cjBJc0tWR3V0UDFqQl9BRU8xMnhlU2kyLWhRWlFfYUZjdlp6TGIyNjBxUUdaZF93Wk5tWFJmQlBqc2xwX1NPb0l0a3R1TVhVVFZtcg?oc=5>
+- 场馆: 川观新闻
+- 时间: 2026-08-12 15:04
+- 链接: <https://news.google.com/rss/articles/CBMiTkFVX3lxTFBvS2hCUGtuTDNEbjdQZ3dQU1Nram9ldXZIc3F0bExCSFRjV21zQmRZZkZMZThQMDZ1UjlzYWZCOGRDQWtYZkw5T1R1blRyUQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-12 22:33  (2 条)
+
+- **特朗普** | 越权制裁国际刑事法院，特朗普被美国多家人权组织共同起诉 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1lNkpaYm9DVkNfMXg1bEhnVWtYcGVrREt5LVExSlBoa0dMcmtra0lveVFTM01TZDNmWExFSkJZR2l6UF9XQmlJVG52cHk?oc=5>
+- **特朗普** | 特朗普宣称“美国完全控制着霍尔木兹海峡” <https://news.google.com/rss/articles/CBMiTkFVX3lxTFBvS2hCUGtuTDNEbjdQZ3dQU1Nram9ldXZIc3F0bExCSFRjV21zQmRZZkZMZThQMDZ1UjlzYWZCOGRDQWtYZkw5T1R1blRyUQ?oc=5>
 
 ### 2026-08-12 21:38  (3 条)
 
