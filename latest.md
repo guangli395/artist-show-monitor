@@ -1,48 +1,60 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-12 14:17**
-- 本轮扫到 9331 条, 新增 **4** 条
+- 最近更新: **2026-08-12 15:27**
+- 本轮扫到 9336 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (5 条)
 
-### 特朗普政府首次承认：153名平民死亡
+### 周杰伦MV女孩集体回应：拒绝造谣，已留证追责
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-08-12 08:14
-- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxPOWxteGJYbnByem1DWVk2dzQwTnk0LUtkMFp4S1M3OENDVUVfRExXZVVPNjlIY2JhQVl3WktiaXl4S1RpczNuWE5EQnlaN2x6LTdPSm5QRHoxUjVVdWJqQUpaSi1vUXRva3kzZFFlR0ZZUFRGQkF4TGRmLUlZQ2g4aTdxbGt2SkVtTkhJeGhveG53TGp1?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/ninarre5117527.html>
 
-### 特朗普：向伊朗索赔 谈判陷入僵局
+### 周杰伦MV女孩否认方文山集邮爆料，称已留存证据将追责
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-08-12 07:08
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9HNzdERzEtSXpGUnZtMlNjcFBEODIwZWp0TmxqbVRTUnhOMXpMR29HWVkydm9PT25rZks0WkpkN3R1ZTJvZWdzM0FuTmZNazJ3S2RjTGZsZ2NLYjBCU0V0c2Rqd09CSUhTelRTYVRnZGU?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/ninarre5100879.html>
 
-### 特朗普：我想谋求第三任期，但美国法律太严
+### 美国人吓坏了：伊朗知道特朗普住哪一层，还发现肩扛防空导弹
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-08-12 12:50
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyTGFheWlEa3ppYl9aZGdmdWtpTFYtX3BPYmlCYW5fWDlDN2o3U2J6YkIxbXdNeDMyRWtXWnhFbndRVW5nY2s4TjFMZFFtYkpSejk5NXo1SEotZ0dUckdtOA?oc=5>
+- 场馆: news.ifeng.com
+- 时间: 2026-08-12 09:03
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5mWXZnNnd1cXlBNnlySmZ3YjkyZ08yQkpXSGVreHFJNkhGRkU5UV9uS1AtUkNnMU1xZlNhMk1WN25UN3NiUDBjbXZMOE4?oc=5>
 
-### “乘餐食运输车秘密脱身”……暗杀威胁下Trump连专机也弃用- 阿视亚经济
+### 特朗普宣称“美国完全控制着霍尔木兹海峡”
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 아시아경제
-- 时间: 2026-08-12 04:57
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9aRVJiSG0zNHRnWmpYaUI0Q1N6cHhyRnVlMnJnbXBkOTkwbzd0MUMxRmdSY0xPa1hSMVhsbkJyV2Q3c1p3NGYyRXBKT3lDS0xPYlV6cThIb1FKdV90SWxMNXpsQk4?oc=5>
+- 场馆: chinanews.com.cn
+- 时间: 2026-08-12 14:53
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jT01BVkZnREdPNHZadWxJZVBXQzJ0QnBVanJNSVFjX3p0Q2Zkenc3UEpRR2Q2cFFwSWdfbVBVV1Z0TU1EanpFb2ZFZ2RZd3I0c1MwdE9aUDlIRmxiZTZTY2JaWGh3bTJX?oc=5>
+
+### 特朗普当上“榜一大哥”，美国解除TikTok禁令丨夜观天下
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 四川在线
+- 时间: 2026-08-12 12:12
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5vd0VOMV9naU5nVXd0M2lmb3puLXY4a0U3cThkUFk1d3BHLXhCUmRvb2YySmRJanRXVVRYMUVWcGtJWWxzNVBMTG9SZlNjLVlJTm5HckY2X0lCYWF3cHY1Zw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-12 15:27  (5 条)
+
+- **周杰伦** | 周杰伦MV女孩集体回应：拒绝造谣，已留证追责 <https://www.sina.cn/news/article/ninarre5117527.html>
+- **周杰伦** | 周杰伦MV女孩否认方文山集邮爆料，称已留存证据将追责 <https://www.sina.cn/news/article/ninarre5100879.html>
+- **特朗普** | 美国人吓坏了：伊朗知道特朗普住哪一层，还发现肩扛防空导弹 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5mWXZnNnd1cXlBNnlySmZ3YjkyZ08yQkpXSGVreHFJNkhGRkU5UV9uS1AtUkNnMU1xZlNhMk1WN25UN3NiUDBjbXZMOE4?oc=5>
+- **特朗普** | 特朗普宣称“美国完全控制着霍尔木兹海峡” <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jT01BVkZnREdPNHZadWxJZVBXQzJ0QnBVanJNSVFjX3p0Q2Zkenc3UEpRR2Q2cFFwSWdfbVBVV1Z0TU1EanpFb2ZFZ2RZd3I0c1MwdE9aUDlIRmxiZTZTY2JaWGh3bTJX?oc=5>
+- **特朗普** | 特朗普当上“榜一大哥”，美国解除TikTok禁令丨夜观天下 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5vd0VOMV9naU5nVXd0M2lmb3puLXY4a0U3cThkUFk1d3BHLXhCUmRvb2YySmRJanRXVVRYMUVWcGtJWWxzNVBMTG9SZlNjLVlJTm5HckY2X0lCYWF3cHY1Zw?oc=5>
 
 ### 2026-08-12 14:17  (4 条)
 
