@@ -1,32 +1,26 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-12 11:41**
-- 本轮扫到 9326 条, 新增 **2** 条
+- 最近更新: **2026-08-12 12:54**
+- 本轮扫到 9327 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (1 条)
 
-### 特朗普称美国对伊朗有三种“策略”
+### 周杰伦青岛演唱会最新消息：开票时间公布！
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-08-11 08:19
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxNTWsweHo3ZFpUZlBXc0tnQVg2TWItd2U5QUZGOUMwcTUzeXJfWmhzSHhQQTcwekE0QzhOcFFQYmxFaTNkZEN1ZTdjQnVoMWlSa00wUFUwT3RHNGhBanJaWExiTFNKd25Pc2dJTV9KVjBHbVAwUEo4ck56SHBiTnZjUEpDdGFrSXM?oc=5>
-
-### 视频丨特朗普为何未乘坐“空军一号”？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 国际在线
-- 时间: 2026-08-12 10:27
-- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE9vVDhSdjdmTWJKMThNaEl1Rlc4SXVTLWo1RVNFSm1Bam1EZ21GMHp1TWpCOEx4RG5jTFkwUXJoV1VPbnV6ZU9vYjFDMFNrSlR5T3I1UTZCZEFNVHlsM1ZERHFvM2R1X2N2ZElHdzVxNkc4WUp0VWo2LWdjLTI?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/ninamih5180342.html>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-12 12:54  (1 条)
+
+- **周杰伦** | 周杰伦青岛演唱会最新消息：开票时间公布！ <https://www.sina.cn/news/article/ninamih5180342.html>
 
 ### 2026-08-12 11:41  (2 条)
 
