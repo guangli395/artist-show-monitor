@@ -1,22 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-12 12:54**
-- 本轮扫到 9327 条, 新增 **1** 条
+- 最近更新: **2026-08-12 14:17**
+- 本轮扫到 9331 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮新发现 (4 条)
 
-### 周杰伦青岛演唱会最新消息：开票时间公布！
+### 特朗普政府首次承认：153名平民死亡
 
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/ninamih5180342.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-08-12 08:14
+- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxPOWxteGJYbnByem1DWVk2dzQwTnk0LUtkMFp4S1M3OENDVUVfRExXZVVPNjlIY2JhQVl3WktiaXl4S1RpczNuWE5EQnlaN2x6LTdPSm5QRHoxUjVVdWJqQUpaSi1vUXRva3kzZFFlR0ZZUFRGQkF4TGRmLUlZQ2g4aTdxbGt2SkVtTkhJeGhveG53TGp1?oc=5>
+
+### 特朗普：向伊朗索赔 谈判陷入僵局
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-08-12 07:08
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9HNzdERzEtSXpGUnZtMlNjcFBEODIwZWp0TmxqbVRTUnhOMXpMR29HWVkydm9PT25rZks0WkpkN3R1ZTJvZWdzM0FuTmZNazJ3S2RjTGZsZ2NLYjBCU0V0c2Rqd09CSUhTelRTYVRnZGU?oc=5>
+
+### 特朗普：我想谋求第三任期，但美国法律太严
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-08-12 12:50
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyTGFheWlEa3ppYl9aZGdmdWtpTFYtX3BPYmlCYW5fWDlDN2o3U2J6YkIxbXdNeDMyRWtXWnhFbndRVW5nY2s4TjFMZFFtYkpSejk5NXo1SEotZ0dUckdtOA?oc=5>
+
+### “乘餐食运输车秘密脱身”……暗杀威胁下Trump连专机也弃用- 阿视亚经济
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 아시아경제
+- 时间: 2026-08-12 04:57
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9aRVJiSG0zNHRnWmpYaUI0Q1N6cHhyRnVlMnJnbXBkOTkwbzd0MUMxRmdSY0xPa1hSMVhsbkJyV2Q3c1p3NGYyRXBKT3lDS0xPYlV6cThIb1FKdV90SWxMNXpsQk4?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-12 14:17  (4 条)
+
+- **特朗普** | 特朗普政府首次承认：153名平民死亡 <https://news.google.com/rss/articles/CBMilAFBVV95cUxPOWxteGJYbnByem1DWVk2dzQwTnk0LUtkMFp4S1M3OENDVUVfRExXZVVPNjlIY2JhQVl3WktiaXl4S1RpczNuWE5EQnlaN2x6LTdPSm5QRHoxUjVVdWJqQUpaSi1vUXRva3kzZFFlR0ZZUFRGQkF4TGRmLUlZQ2g4aTdxbGt2SkVtTkhJeGhveG53TGp1?oc=5>
+- **特朗普** | 特朗普：向伊朗索赔 谈判陷入僵局 <https://news.google.com/rss/articles/CBMicEFVX3lxTE9HNzdERzEtSXpGUnZtMlNjcFBEODIwZWp0TmxqbVRTUnhOMXpMR29HWVkydm9PT25rZks0WkpkN3R1ZTJvZWdzM0FuTmZNazJ3S2RjTGZsZ2NLYjBCU0V0c2Rqd09CSUhTelRTYVRnZGU?oc=5>
+- **特朗普** | 特朗普：我想谋求第三任期，但美国法律太严 <https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyTGFheWlEa3ppYl9aZGdmdWtpTFYtX3BPYmlCYW5fWDlDN2o3U2J6YkIxbXdNeDMyRWtXWnhFbndRVW5nY2s4TjFMZFFtYkpSejk5NXo1SEotZ0dUckdtOA?oc=5>
+- **Trump** | “乘餐食运输车秘密脱身”……暗杀威胁下Trump连专机也弃用- 阿视亚经济 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9aRVJiSG0zNHRnWmpYaUI0Q1N6cHhyRnVlMnJnbXBkOTkwbzd0MUMxRmdSY0xPa1hSMVhsbkJyV2Q3c1p3NGYyRXBKT3lDS0xPYlV6cThIb1FKdV90SWxMNXpsQk4?oc=5>
 
 ### 2026-08-12 12:54  (1 条)
 
