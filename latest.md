@@ -1,48 +1,78 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-11 23:33**
-- 本轮扫到 9259 条, 新增 **4** 条
+- 最近更新: **2026-08-12 01:20**
+- 本轮扫到 9266 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (7 条)
 
-### 特朗普在全球足坛掀起反对浪潮之际警告：倘若因凡蒂诺遭罢免，世界杯将再也无法拥有如今这般盈利水平
+### 蔡徐坤澳门演唱会无限流舞台讲述什么故事？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-11 23:09
-- 链接: <https://news.google.com/rss/articles/CBMinwJBVV95cUxOTGlvSGRFU0hFa0tQVnZlcjVDUUc5LW85MHpiQ3Vkbm9QX3psdGJlaHBRWFhXdUJseE1lTk5qcGJYd0FRR2ZMMk5ZSXNHaXJrbi1jclE0cWpLZm9JLWFqZzREN185b0prZUMwTU8ySDlYS0VhSXlHV2E2N19UdTRQUFREODh2djFJRkxNQV9iNUprblVub3ZXVkRzQWwxNmRiVTBNNl93TmlPT3FfTThpakcwcTVFeHozQmVBZl9jdGJBWHZwblY4X0ZhWUMtbUFsV0IxU2V2dEVPUko1b0VwRGFCSmhtSnpFc3p5eksxaUNCUm1VTzI0QWJPSUlNazdidFdrcC1vUHFkUHNOVXF2ZnFEZm93ZUd3TFkyTHMtQQ?oc=5>
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimzivu5352997.html>
+
+### “曝方文山出轨”冲上热搜，助理回应：这些全都是网传谣言，公司将会发布正式声明
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nimzivu5351959.html>
 
 ### 美法官叫停美邮政局执行特朗普涉限制邮寄选票的行政令
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-08-11 22:02
-- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaDNLMXpXX3hCdnB4bk1EV24zdDgwMHRKajZlR21ZZTBHb2I0YkJCUnpyVWlqaWU4b1oyVEotR3NuWTdiR3FkSG9sT21waU9tRlRSNnM3MTlFWTh3RmhGQmJzU1lXU01OaVhzSmVFNERWdF9EakVmRFFGYXBmUHJqWXpTcWEyOTRCNy04?oc=5>
+- 场馆: 中国网新闻中心
+- 时间: 2026-08-11 23:22
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE1hYkI0ZVRDaW5kbmkzUkJZWHVCVDF1ODRUZmJmUlNmMjlvUWtIaGlYcml6TTNtV3kwdkhjbDJnRk9GbnBDVVQwMzFYUXEweC13MHJiSjRocmVvS1NFRmVaLUhyQ3IyRzQ0NWhV?oc=5>
 
-### “空军一号”曾遭威胁，特朗普秘密换乘军机
+### 特朗普称美国对伊朗有三种“策略”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-08-11 08:19
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE81ZkVYdkdqd1J1eC12aUdaZWFNaTZtYWxBUGp5QVZkN2VmUGhvTUxrd3M0SHR2Q1J4WjZtM0cycFhjRXJ3NjRNV0s4T0JHbUFZdlJxUEFOd2RmNHZGejRMOXNpMEwtVHMzMDVHaTJvUjQ?oc=5>
+
+### 特朗普又昏昏欲睡，伊朗辛辣嘲讽
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-08-11 05:50
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9aamptU3d0dFFYYVRUMmpiN3IyR19OalAwRnJIR3libkQzSDEtc0pjRUtocF9PVUo0bFlVQmVDdU1mM0pBX2hOUUs2Y18?oc=5>
+
+### 特朗普：我要伊朗赔钱，把过去50年的账还了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-08-12 00:51
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1RldsaEY4T1p0dW5KWTFTcmw1QjNxdDJJRGw2U0JDNkJybER6eWtJZHJzLWFycTdGQkcybFVBZE9wdWhrZnBidFYtYm9uNnF1SkxkcTFYa2dNR2o4dzBteg?oc=5>
+
+### 特朗普威胁将采取联邦行动，阻止马姆达尼的“第二寓所”税
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: cn.wsj.com
-- 时间: 2026-08-11 19:11
-- 链接: <https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ3E1ZGc2S3JKSlZPclI1S0dDZWhkSlhHaHI0MEI5cm5lRkdvTUJqTm9EQW9HdWRPN2N3bGloR2ZDM1lnN1gyNTA4UG5henB3SGpoVEkwU0R4Qkp5Z3JXd0FHSFFKbURDLXRwU2g4dHVlbEc1UHU3Q1F2OUEzZmluQXdpN1hncmVxbE0xZUc4ZXFWR1BENXJMNWtyNWFSVGhMQ0FWTmZRMndpNHI4bUVlc09Rcw?oc=5>
-
-### Trump Media Reports More Than 10 Sign-Ups to Real-Time Truth Social Feed -- WSJ
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-08-10 23:30
-- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxNVHhQVXlyZFhFaVAtVEdTMlE4UVRGV0xmMnF2dFVfYTIzbC1NVUpxOGFuLVQwU0taNG9icXg2cFc5U2JhUlhwc21GajBLZHNyZTY4MlZna2lvVWVYWk52VU84Y2xZNmdhUFh3aENmT0JlVW5DS1kwVWpUUy1sdDFIaF9oNE9mMXlOTndCdVVOY1BHQThZYlZ0MEtMb3A?oc=5>
+- 场馆: 华尔街日报中文网
+- 时间: 2026-08-12 00:00
+- 链接: <https://news.google.com/rss/articles/CBMirwFBVV95cUxOeFNzSGIwS2k3VGw5NFFoRzc0b3ZUYVpPOFZhT1RBVmZaVzhpRVJ2VFQxQWRyaFN2d2RJUkRDU1FaRjVWallkSkRqRFdJUjNSNnBqT0tieHRWb09vT2dZM2xBQlpOSnlBell4TElnekQ3dnFHTUN5Mlo5dFdQb3dHd2JMUW03OTREc0FTbVNoY0Zfa1JIRDJ1TndOcC1PdHhLd3B0YlJJRlBZTGVBWFpB?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-12 01:20  (7 条)
+
+- **蔡徐坤** | 蔡徐坤澳门演唱会无限流舞台讲述什么故事？ <https://www.sina.cn/news/article/nimzivu5352997.html>
+- **周杰伦** | “曝方文山出轨”冲上热搜，助理回应：这些全都是网传谣言，公司将会发布正式声明 <https://www.sina.cn/news/article/nimzivu5351959.html>
+- **特朗普** | 美法官叫停美邮政局执行特朗普涉限制邮寄选票的行政令 <https://news.google.com/rss/articles/CBMia0FVX3lxTE1hYkI0ZVRDaW5kbmkzUkJZWHVCVDF1ODRUZmJmUlNmMjlvUWtIaGlYcml6TTNtV3kwdkhjbDJnRk9GbnBDVVQwMzFYUXEweC13MHJiSjRocmVvS1NFRmVaLUhyQ3IyRzQ0NWhV?oc=5>
+- **特朗普** | 特朗普称美国对伊朗有三种“策略” <https://news.google.com/rss/articles/CBMicEFVX3lxTE81ZkVYdkdqd1J1eC12aUdaZWFNaTZtYWxBUGp5QVZkN2VmUGhvTUxrd3M0SHR2Q1J4WjZtM0cycFhjRXJ3NjRNV0s4T0JHbUFZdlJxUEFOd2RmNHZGejRMOXNpMEwtVHMzMDVHaTJvUjQ?oc=5>
+- **特朗普** | 特朗普又昏昏欲睡，伊朗辛辣嘲讽 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9aamptU3d0dFFYYVRUMmpiN3IyR19OalAwRnJIR3libkQzSDEtc0pjRUtocF9PVUo0bFlVQmVDdU1mM0pBX2hOUUs2Y18?oc=5>
+- **特朗普** | 特朗普：我要伊朗赔钱，把过去50年的账还了 <https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1RldsaEY4T1p0dW5KWTFTcmw1QjNxdDJJRGw2U0JDNkJybER6eWtJZHJzLWFycTdGQkcybFVBZE9wdWhrZnBidFYtYm9uNnF1SkxkcTFYa2dNR2o4dzBteg?oc=5>
+- **Trump** | 特朗普威胁将采取联邦行动，阻止马姆达尼的“第二寓所”税 <https://news.google.com/rss/articles/CBMirwFBVV95cUxOeFNzSGIwS2k3VGw5NFFoRzc0b3ZUYVpPOFZhT1RBVmZaVzhpRVJ2VFQxQWRyaFN2d2RJUkRDU1FaRjVWallkSkRqRFdJUjNSNnBqT0tieHRWb09vT2dZM2xBQlpOSnlBell4TElnekQ3dnFHTUN5Mlo5dFdQb3dHd2JMUW03OTREc0FTbVNoY0Zfa1JIRDJ1TndOcC1PdHhLd3B0YlJJRlBZTGVBWFpB?oc=5>
 
 ### 2026-08-11 23:33  (4 条)
 
