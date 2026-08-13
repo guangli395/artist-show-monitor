@@ -1,108 +1,787 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-13 01:21**
-- 本轮扫到 9371 条, 新增 **12** 条
+- 最近更新: **2026-08-13 03:37**
+- 本轮扫到 9479 条, 新增 **108** 条
 
 ---
 
-## 本轮新发现 (12 条)
+## 本轮新发现 (108 条)
+
+### 王一博工作室针对滑雪摔懵事件发布过声明吗？
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923373_1d5ae16ad06801evfq.html>
+
+### 王一博VOGUE杂志预热，宣发节奏已发布！小摩托们准备好拼手速了吗？
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7811157903_m1d194cf8f03301rr6s.html>
+
+### 蔡徐坤新加坡演唱会官宣 你仿佛一束光照进了我平平无奇的生活里
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923704_m1d5ae17f803301wgzk.html>
+
+### 蔡徐坤澳门演唱会无限流舞台设计的灵感来源是什么？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776730_1d5abd9da06803qir0.html>
+
+### 蔡徐坤在澳门演唱会中如何通过歌曲展现三次重生循环？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776730_1d5abd9da06803qiqy.html>
+
+### 蔡徐坤澳门演唱会全开麦唱跳22首原创曲目难度有多大？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776730_1d5abd9da06803qiqw.html>
+
+### 蔡徐坤在《What a Day》MV中展现了哪些舞蹈实力？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879849292_1d5acf54c06801dwj0.html>
+
+### 蔡徐坤新歌《What a Day》MV为何能口碑逆转？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879849292_1d5acf54c06801dwiu.html>
+
+### 蔡徐坤澳门演唱会收官，呼吁别熬夜用丸美小红笔
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5628495345_14f7c05f1040027wh2.html>
+
+### 蔡徐坤演唱会现场还原MV，全场瞬间沸腾
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_6179910604_m17059f3cc0330204b0.html>
+
+### cxk蔡徐坤蔡徐坤新歌蔡徐坤演唱会 都说萝莉有三好
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923704_m1d5ae17f803301wfp2.html>
+
+### 蔡徐坤澳门演唱会无限流舞台讲述什么故事？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068014614.html>
+
+### 蔡徐坤后续巡演还会延续无限流概念吗？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879849300_1d5acf554068013j56.html>
+
+### 蔡徐坤澳门演唱会三次重生循环是如何呈现的？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879849300_1d5acf554068013j52.html>
+
+### 蔡徐坤澳门演唱会为何选择四面台舞台设计？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879849300_1d5acf554068013j50.html>
+
+### 蔡徐坤澳门演唱会无限流概念具体指什么？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879849298_1d5acf552068019rvw.html>
+
+### 蔡徐坤演唱会战损妆变化有什么寓意？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879849298_1d5acf552068019rvs.html>
+
+### 蔡徐坤澳门演唱会为何被称为沉浸式闯关？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879849298_1d5acf552068019rvq.html>
+
+### 蔡徐坤澳门演唱会门票是否已经售罄？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879849298_1d5acf552068019rvo.html>
+
+### 蔡徐坤澳门演唱会玩转无限流，三次重生震撼全场
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879849298_1d5acf552068019rvm.html>
+
+### 蔡徐坤未来巡演会延续无限流叙事模式吗？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923379_1d5ae16b306801lsbm.html>
+
+### 蔡徐坤澳门演唱会为何采用西部废土风格？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923379_1d5ae16b306801lsbk.html>
+
+### 蔡徐坤演唱会三次死亡重生分别代表什么？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923379_1d5ae16b306801lsbi.html>
+
+### 蔡徐坤澳门演唱会：三次死亡重生玩转无限流
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923379_1d5ae16b306801lsbg.html>
+
+### 蔡徐坤澳门演唱会的无限流叙事具体是怎样设计的？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879849292_1d5acf54c06801dvn8.html>
+
+### 蔡徐坤澳门演唱会全开麦唱跳了多少首原创歌曲？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879849292_1d5acf54c06801dvn6.html>
+
+### 蔡徐坤澳门演唱会舞台有哪些视觉亮点和互动细节？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879849292_1d5acf54c06801dvn2.html>
+
+### 蔡徐坤澳门演唱会玩转无限流，三次死亡重生燃爆全场
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879849292_1d5acf54c06801dvn0.html>
+
+### 豆！从此你顶天又立地！小黄豆 蔡徐坤演唱会 搞笑 万万没想到 柳州肥姨妈螺蛳粉
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879924027_m1d5ae193b02001myk8.html>
+
+### 笑死我了 神来了也绷不住蔡徐坤蔡徐坤演唱会网友神评论大赏 满级评论 搞笑
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923551_m1d5ae175f02001oooi.html>
+
+### 蔡徐坤thedeadman演唱会 ☕
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923674_m1d5ae17da03301nxi4.html>
+
+### 蔡徐坤演唱会也会戒断，呜呜呜毕竟这么幸福的时刻！真的很难戒断
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5832772172_m15ba90a4c03301ktes.html>
+
+### 蔡徐坤澳门演唱会全开麦演唱22首原创曲目实力如何？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7880068588_1d5b04dec06801phge.html>
+
+### 蔡徐坤在澳门演唱会中如何设计三次死亡与重生？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7880068588_1d5b04dec06801phgc.html>
+
+### 蔡徐坤澳门演唱会无限流舞台讲述了一个什么故事？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7880068588_1d5b04dec06801phga.html>
+
+### 蔡徐坤澳门演唱会竟设无限流闯关，三次生死涅槃震撼全场
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7880068588_1d5b04dec06801phg8.html>
+
+### 蔡徐坤澳门演唱会之后还会在哪些城市举办巡演？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879849300_1d5acf554068013h4e.html>
+
+### 蔡徐坤在澳门演唱会全开麦唱跳了多少首歌曲？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879849300_1d5acf554068013h4c.html>
+
+### 蔡徐坤澳门演唱会上的吻手礼争议是怎么回事？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879849300_1d5acf554068013h4a.html>
+
+### 蔡徐坤澳门演唱会玩转无限流，三次重生燃爆全场
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879849300_1d5acf554068013h46.html>
+
+### 蔡徐坤TheDeadman演唱会
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_6085757482_m16abd4a2a05301n51m.html>
+
+### 蔡徐坤thedeadman演唱会与0802生日祝福
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923551_m1d5ae175f03301ok4e.html>
+
+### 宝宝我还没有找到人生中的角色 所以我们新加坡见！蔡徐坤蔡徐坤澳门演唱会
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923551_m1d5ae175f03301ojsw.html>
+
+### 蔡徐坤演唱会高清官摄释出，四面台环绕视角新体验
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002paw2.html>
+
+### 蔡徐坤续火花引爆全网，演唱会级互动新玩法
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776722_1d5abd9d206801ezqc.html>
+
+### 蔡徐坤感慨走红后机会变少，更新ins秀演唱会舞美
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923674_m1d5ae17da03301nrfe.html>
+
+### 蔡徐坤8.3澳门演唱会，唱迷引全场大合唱
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879924002_m1d5ae192203301hj94.html>
+
+### 蔡徐坤演唱会中称歌曲是人生重要转折
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879924002_m1d5ae192203301hj4k.html>
+
+### 蔡徐坤澳门演唱会原话是什么？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879849291_1d5acf54b06801iduc.html>
+
+### 蔡徐坤澳门演唱会发言引争议，粉丝晒原话澄清
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879849291_1d5acf54b06801idu6.html>
+
+### 限定男团解散七年后，蔡徐坤演唱会刷屏全网，尤长靖专注音乐 蔡徐坤
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301edag.html>
+
+### 蔡徐坤在澳门演唱会分享的成长经历具体讲了什么？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923373_1d5ae16ad06801es62.html>
+
+### 蔡徐坤粉丝如何回应演唱会发言被断章取义？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923373_1d5ae16ad06801es60.html>
+
+### 蔡徐坤演唱会原话为何被误解为“撕掉爱豆标签”？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923373_1d5ae16ad06801es5u.html>
+
+### 蔡徐坤提醒你续火花，演唱会发言却被断章取义？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923373_1d5ae16ad06801es5s.html>
+
+### 蔡徐坤演唱会新加坡站的场馆信息
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879849291_1d5acf54b06801idme.html>
+
+### 粉丝如何回应蔡徐坤演唱会言论被断章取义？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923104_1d5ae15a006801h9jc.html>
+
+### 蔡徐坤在澳门演唱会上说了什么引发争议？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923104_1d5ae15a006801h9jk.html>
+
+### 早早锁定蔡徐坤澳门生日场演唱会门票
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_6042105397_m16823363503301lb3k.html>
+
+### 蔡徐坤新加坡演唱会哭了？现场哽咽与2026巡演场次说明
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923373_1d5ae16ad06801eruo.html>
+
+### 蔡徐坤演唱会新加坡站官宣视频发布：THE DEADMAN海外首站定档10月24日
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879849298_1d5acf552068019mjc.html>
+
+### 蔡徐坤演唱会新加坡哭了？2023落泪事件与2026巡演新进展
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923104_1d5ae15a006801h8rs.html>
+
+### 蔡徐坤演唱会新加坡站官宣了吗？定档[2026年10月24日]
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923118_1d5ae15ae06801oa8m.html>
+
+### 蔡徐坤新加坡演唱会还会增加其他亚洲城市吗？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879849291_1d5acf54b06801icmm.html>
+
+### 蔡徐坤新加坡演唱会官宣！THE DEADMAN海外首站定档
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879849291_1d5acf54b06801icmg.html>
+
+### 蔡徐坤巡演海外首站为何选在新加坡？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879849295_1d5acf54f06801jkpy.html>
 
 ### 狗仔硬刚周杰伦MV女孩：你直接告就行OK？用得着做其他否认的动作
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nincnux3547921.html>
+- 链接: <https://k.sina.com.cn/article_3995444230_ee25a40600101lkge.html>
 
 ### 狗仔硬刚周杰伦MV女孩：你直接告就行OK？用得着你给其他事做否认的动作！
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://www.sina.cn/news/article/nincnuu4835108.html>
+- 链接: <https://k.sina.com.cn/article_7879924010_1d5ae192a020028p4s.html>
 
-### 特朗普“最信任的助手之一”，白宫新闻秘书莱维特将于本月底离任
+### 周杰伦MV女孩回应了哪些不实指控？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-12 22:19
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBaTWg5THNCYXVHU3VHcUg2OFphbUFZR2xnVWVaWVpSd1lhWXZPMktwSFI3c3JVdzNKM2d4R20tZFFrN0tHRW1wRy1xemdaOFNnQlZKTVRFTmR2MUdBblo0bW5hYlUxck1Mdkc4WEpJMS1UaFNaME9EdA?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776724_1d5abd9d406801hoyu.html>
 
-### 特朗普承认悄悄换飞机了：其实我坐的那架更危险 安全威胁促更换
+### 周杰伦MV女孩名誉受损后是否会起诉造谣者？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-08-13 00:38
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBpSFlkSWhmelVWRFBUblliQktOdkpGcWFMR1pBRDJ3MG1oNGxRU2czd3AxbE1PQUFKZDNTUlhaTDg3SERpa1hNUktvaTc1cmQwTmtxUUZHSGlhemlHLTBhTUVac1dDVzVyNDZ0QUZtYUQ?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801javm.html>
 
-### 媒体曝特朗普秘换专机避免伊朗袭击 随行记者被当“诱饵”
+### 方文山选妃事件对周杰伦MV选角有无影响？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财新
-- 时间: 2026-08-12 11:32
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1EMnZjcTh1MHczcFJNZ2QwWmdmdVBzZFBwT0JCSEpMVlJrd2hTTlc1WWhqcFE1RWZ1RmF3bjJBTmdHdFNUTlpuZUFXWFV5Z0lTaFhXYnJQQUdJX0JVaERUelBnMFRRcHN6UXc?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879849291_1d5acf54b06801iktc.html>
+
+### 周杰伦MV女孩集体回应：拒绝造谣，已留证追责
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923111_1d5ae15a706801dkzs.html>
+
+### 周杰伦MV女孩回应纷争，心疼合作被毁经典
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7811154182_m1d194c10603301yajm.html>
+
+### 周杰伦MV女孩否认方文山集邮爆料，称已留存证据将追责
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_2868370350_aaf7dbae04001tryc.html>
+
+### 周杰伦《天涯过客》MV女主程皓如，方文山选角风波真相待解
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879849295_1d5acf54f06801jrye.html>
+
+### 周杰伦《天涯过客》MV女主程皓如今晚发声了吗？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879849295_1d5acf54f06801jry8.html>
+
+### 《天涯过客》MV选角流程是谁主导的？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879849295_1d5acf54f06801jrya.html>
+
+### 方文山被曝西塘汉服文化周选妃，周杰伦MV女孩被指集邮
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301en3o.html>
+
+### 方文山被曝集邮周杰伦MV女孩，当事人否认：等实锤
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879849300_1d5acf554068013jm8.html>
+
+### 网友如何看待方文山“集邮”MV女演员的传闻？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923104_1d5ae15a006801ho1k.html>
+
+### 周杰伦《天涯过客》MV的女主角程皓如是谁？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923104_1d5ae15a006801ho1g.html>
+
+### 方文山被曝“集邮”《天涯过客》MV女演员的指控有何依据？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923104_1d5ae15a006801ho1e.html>
+
+### 周杰伦《天涯过客》MV的选角由谁敲定？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923104_1d5ae15a006801ho1c.html>
+
+### 方文山被曝对Y女士八年PUA，集邮周杰伦MV女孩
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_2155987804_8081c35c04001j2nm.html>
+
+### 周杰伦称导戏累，无人陪剪辑，回应MV女主疑问
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923551_m1d5ae175f03301ords.html>
+
+### 方文山如何回应“集邮”周杰伦MV女孩的指控？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923107_1d5ae15a306803um2e.html>
+
+### 方文山否认集邮周杰伦MV女孩，称将依法维权
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923107_1d5ae15a306803um2c.html>
+
+### 方文山风波升级！被曝每次来内地都找固定地陪，让情人出演周杰伦MV
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1737018574_m6788ccce020018iks.html>
+
+### 方文山否认出轨后，再被曝集邮周杰伦MV女主
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5612278337_14e84924104001jdca.html>
+
+### “曝方文山出轨”冲上热搜，助理回应：这些全都是网传谣言，公司将会发布正式声明
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1926641510_m72d6376603301p0j6.html>
+
+### 《红尘客栈》MV拍摄时娜扎和周杰伦有对手戏吗？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776722_1d5abd9d206801f57u.html>
+
+### 娜扎出演《红尘客栈》MV后对她的事业有何影响？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776722_1d5abd9d206801f57s.html>
+
+### 娜扎出演《红尘客栈》MV时是多少岁？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776722_1d5abd9d206801f57o.html>
+
+### 周杰伦为什么选中娜扎出演《红尘客栈》MV？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776722_1d5abd9d206801f57m.html>
+
+### 娜扎18岁如何被选中出演周杰伦《红尘客栈》MV？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801j8xy.html>
+
+### 《红尘客栈》MV当年为何没有公开娜扎身份？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801j8xu.html>
+
+### 周杰伦2027年福州演唱会获批
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1784392831_m6a5bac7f05301dekq.html>
+
+### 娜扎18岁参演周杰伦执导《红尘客栈》MV
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5538664098_m14a214ea203301ienu.html>
+
+### 娜扎18岁出演周杰伦执导《红尘客栈》MV
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7810739724_m1d18e6e0c03302gp0k.html>
+
+### 周杰伦喊话刘畊宏：淘汰就来我演唱会当嘉宾
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923119_1d5ae15af06801vb2s.html>
+
+### 周杰伦放话刘畊宏：淘汰就来我演唱会当嘉宾
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879849298_1d5acf552068019pzk.html>
+
+### 周杰伦青岛演唱会最新消息：开票时间公布！
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://finance.sina.com.cn/roll/2026-08-12/doc-ininamih5180342.shtml>
 
 ### 特朗普：白宫新闻秘书莱维特将于本月底离任
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-08-12 23:15
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBUTjhMV1hEdEZKQk1pdEhGWGZORU8tb1ZkQlU4TEVIelNuWGQ1VWVNeEZfcnFHb2ItT2k4eW9VcXZQeXB2Yzg5dnlNRjJTZnpGXzYxRTRDSkRSd0Fob3dNQjNiZWg?oc=5>
+- 场馆: 央视网
+- 时间: 2026-08-13 01:30
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFA0R2hSVUtESzQ2SElNTEJYUUFlcm96eUF3dWU0Nk9jTlg0S2VMaWhndkpNRm1mXzVxcVNjSFNqTnhaZEI1d2xyZE5HTXU0dDRhczByQVpqOGdVTlpVb1lpUmZNTDhMN3V6ekxPSW5YbWF5TFVyYTl2SA?oc=5>
 
-### 特朗普因Truth Social向交易员提供高速实时数据流而遭起诉
+### 特朗普披露白宫新闻秘书莱维特离职时间
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-08-12 19:54
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9Ga3RIQnlYU1ZhMG0td094a3FpMm9iY2g4SlFBYVBLc00wN1ZSN3lsYThXQlZxSFBvUFUzOVpTaVljbWYtSGxxazZENzI?oc=5>
+
+### 特朗普:自宫新闻秘书莱维特将于本月底离任 因家庭原因辞职
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-08-13 00:48
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBNRHBDejFRTE50czNPaTBaZ1N5NjRsOFVQSXprWWdQdkxpM1NwRFN5NkYwMUxuODVVZlY5c3R2X3FHMF9jVnRLQVRrdi1aS2Zzd29fbmJRbkZtSS1yazJ5QXhzcWN4Wl9QTWJYTmR1clU?oc=5>
+
+### 特朗普媒体科技：超十家客户订阅“真实社交”实时数据流
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-11 03:21
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRGhhRzJLNUh6T2k0S2E4Y205N1RpYmtjaTJZY3UwQzJ1cGJGdE1DWTJkaFVWSnBoNWtONko0M2hHWDJ4b3A5bTdKY0paNGtlb083UjRjVU1oeGdIazdSNGhGUUFTRl93NXVROGo2OUtKMTk1c0ZZWEFLNkJRSVdNclQ3RHVTeGZZMnhHMi1nWGRNVXdvd1Y5UVlpWW4tUUgzekR3MndnSzBxTkwyZzBSdW1SeGg0Tm1reEphcXh6ZkxySXBkVTdiTGJDWVN0aHFDOEtBaWtoa2haVUNza193?oc=5>
+
+### 不满美国施加高额关税，泰国罕见亮出军事筹码威胁特朗普政府
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-08-12 13:14
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ZX2YxSDVnZ1EtaFhtVTJncWpPTUFCbkNybVYzYzZVbU43WGVqMUhINnNqM0lWVmlFdlRIZmRKbHpaOEtSYlpfb2JMcHo?oc=5>
+
+### Stocks to Watch: Intel, Trump Media, On Holdings, Super Micro -- WSJ
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-08-12 23:55
-- 链接: <https://news.google.com/rss/articles/CBMimgFBVV95cUxObHAtSEd1RzBraVV1Vkd5akJobHZXZGE4N3h6ckRnY2ZtZURacElaeFByYnJUZ1lhbkxQQmsxSXd0cFZQTWE5S0Y3XzNSYThpcUZJd0VIdDlxcy1YakVRcm9ucjVKYWhYTTI3eHBiV1pndV9mdC1HNk9XaWhXSGhzSEt1WlZpQzY0VkdiRWZpcFJ4NDM2MjlkM3NB?oc=5>
-
-### 特朗普：美国全面控制霍尔木兹海峡
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-08-13 00:01
-- 链接: <https://news.google.com/rss/articles/CBMikwFBVV95cUxNM0o1TllURURVb3ltU0hiU3Z4cFV4ZUFSS1NPUGRoMXI0NXdacm5DMGVHLXo1VXpfZWdQTTEyMURKaV9HbDJBUzVwYk9kOTc3M3g2Q1hjaURoYnljZW9OZmxjNC1WcDliRFRia01SbzN2cVQ5Y2VaVk1aMUlZWnNaQXdZM19sRmJaSU5HWGF0alB5MHM?oc=5>
-
-### Trump“代言人”Leavitt新闻秘书卸任……支持11月中期选举- 阿视亚经济
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 아시아경제
-- 时间: 2026-08-12 21:02
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pVHN1Ukktb3daX2VOWFpnREhfMmZCTHA1T3ZXNFM3MWRqWHk2WUUzN3NVN29ZUWlkVXpta0hidFVCSlEzaEdkUGJscGwtODhGRG4tWU1nZkJYeDVMNjNIUnp6UlY?oc=5>
-
-### 伊朗霍尔木兹海峡管理局否认美国对该海峡的控制权主张：你需要了解什么
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Al-Monitor
-- 时间: 2026-08-13 00:05
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE85ZFRPa21XcjFmR1hDWWxocXJzUU8wYmRpeFU5bFN3dW5DQ1k2b0xvejMwbEZxWEdWR2xUN0hTa2tPTnNKTW0xbnlMX2l5SUJFdHEzVVFPc00xRXJ6MTBoUmhxRF80Zw?oc=5>
-
-### 美国总统特朗普称霍尔木兹海峡在美国控制之下，但鲜有船只理会
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-08-12 23:39
-- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxObTRZZmFvakVEdFZyYnp3cHVHTDRZckg3X1ZXMnlTM3o0N1dDQl96SzZsYUZYTFJIY05CUklWMnVpdFJEXy1TemZuYmhyUXZ5RXpyR0diZktrX084Mm10aXROXzh4YjNsbDk5YXk0NEV0ekIyVkNhWjUta1JFSHJsQ1JLQkVMVEdoNGNRZlUwMmhyN2F0cVJvSFZCZU9NSFA1?oc=5>
-
-### Trump称“完全掌控霍尔木兹”……船舶却走伊朗航线- 阿视亚经济
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 아시아경제
-- 时间: 2026-08-12 19:29
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kQXk0cF9FTjVyamhuc182cUFkNlFaSFhybUlGbVZhbDloUXM2OTdycUx3VTA1M2tTWU96VC1xT05rN0VTOFhCYm9WeVotQWxYMEpjdFJ4bzZTclR4TUZSN1N1clk?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-08-11 08:55
+- 链接: <https://news.google.com/rss/articles/CBMipwFBVV95cUxQNlE4bVQwVzAtYUpuVmxodl9jbk1YclFsV2VFc3JrcHI0VEpGb3RjcE8zZ1JJTTJRRHhFOE5lWlJGeDVhX0Y4Z25zR3dJZGRidjRpUXdjMGl2UjFlZFJxR0djbDZENmtreHI3MDVGWXhrQi1mVFhxMktkM3NLdDJEcHRWLUVuOVRyanl6emVaQ1poY0JQVzVSZkJWeDJrX3NsUGNwOHd2Yw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-13 03:37  (108 条)
+
+- **王一博** | 王一博工作室针对滑雪摔懵事件发布过声明吗？ <https://k.sina.com.cn/article_7879923373_1d5ae16ad06801evfq.html>
+- **王一博** | 王一博VOGUE杂志预热，宣发节奏已发布！小摩托们准备好拼手速了吗？ <https://k.sina.com.cn/article_7811157903_m1d194cf8f03301rr6s.html>
+- **蔡徐坤** | 蔡徐坤新加坡演唱会官宣 你仿佛一束光照进了我平平无奇的生活里 <https://k.sina.com.cn/article_7879923704_m1d5ae17f803301wgzk.html>
+- **蔡徐坤** | 蔡徐坤澳门演唱会无限流舞台设计的灵感来源是什么？ <https://k.sina.com.cn/article_7879776730_1d5abd9da06803qir0.html>
+- **蔡徐坤** | 蔡徐坤在澳门演唱会中如何通过歌曲展现三次重生循环？ <https://k.sina.com.cn/article_7879776730_1d5abd9da06803qiqy.html>
+- **蔡徐坤** | 蔡徐坤澳门演唱会全开麦唱跳22首原创曲目难度有多大？ <https://k.sina.com.cn/article_7879776730_1d5abd9da06803qiqw.html>
+- **蔡徐坤** | 蔡徐坤在《What a Day》MV中展现了哪些舞蹈实力？ <https://k.sina.com.cn/article_7879849292_1d5acf54c06801dwj0.html>
+- **蔡徐坤** | 蔡徐坤新歌《What a Day》MV为何能口碑逆转？ <https://k.sina.com.cn/article_7879849292_1d5acf54c06801dwiu.html>
+- **蔡徐坤** | 蔡徐坤澳门演唱会收官，呼吁别熬夜用丸美小红笔 <https://k.sina.com.cn/article_5628495345_14f7c05f1040027wh2.html>
+- **蔡徐坤** | 蔡徐坤演唱会现场还原MV，全场瞬间沸腾 <https://k.sina.com.cn/article_6179910604_m17059f3cc0330204b0.html>
+- **蔡徐坤** | cxk蔡徐坤蔡徐坤新歌蔡徐坤演唱会 都说萝莉有三好 <https://k.sina.com.cn/article_7879923704_m1d5ae17f803301wfp2.html>
+- **蔡徐坤** | 蔡徐坤澳门演唱会无限流舞台讲述什么故事？ <https://k.sina.com.cn/article_7879776356_1d5abd864068014614.html>
+- **蔡徐坤** | 蔡徐坤后续巡演还会延续无限流概念吗？ <https://k.sina.com.cn/article_7879849300_1d5acf554068013j56.html>
+- **蔡徐坤** | 蔡徐坤澳门演唱会三次重生循环是如何呈现的？ <https://k.sina.com.cn/article_7879849300_1d5acf554068013j52.html>
+- **蔡徐坤** | 蔡徐坤澳门演唱会为何选择四面台舞台设计？ <https://k.sina.com.cn/article_7879849300_1d5acf554068013j50.html>
+- **蔡徐坤** | 蔡徐坤澳门演唱会无限流概念具体指什么？ <https://k.sina.com.cn/article_7879849298_1d5acf552068019rvw.html>
+- **蔡徐坤** | 蔡徐坤演唱会战损妆变化有什么寓意？ <https://k.sina.com.cn/article_7879849298_1d5acf552068019rvs.html>
+- **蔡徐坤** | 蔡徐坤澳门演唱会为何被称为沉浸式闯关？ <https://k.sina.com.cn/article_7879849298_1d5acf552068019rvq.html>
+- **蔡徐坤** | 蔡徐坤澳门演唱会门票是否已经售罄？ <https://k.sina.com.cn/article_7879849298_1d5acf552068019rvo.html>
+- **蔡徐坤** | 蔡徐坤澳门演唱会玩转无限流，三次重生震撼全场 <https://k.sina.com.cn/article_7879849298_1d5acf552068019rvm.html>
+- **蔡徐坤** | 蔡徐坤未来巡演会延续无限流叙事模式吗？ <https://k.sina.com.cn/article_7879923379_1d5ae16b306801lsbm.html>
+- **蔡徐坤** | 蔡徐坤澳门演唱会为何采用西部废土风格？ <https://k.sina.com.cn/article_7879923379_1d5ae16b306801lsbk.html>
+- **蔡徐坤** | 蔡徐坤演唱会三次死亡重生分别代表什么？ <https://k.sina.com.cn/article_7879923379_1d5ae16b306801lsbi.html>
+- **蔡徐坤** | 蔡徐坤澳门演唱会：三次死亡重生玩转无限流 <https://k.sina.com.cn/article_7879923379_1d5ae16b306801lsbg.html>
+- **蔡徐坤** | 蔡徐坤澳门演唱会的无限流叙事具体是怎样设计的？ <https://k.sina.com.cn/article_7879849292_1d5acf54c06801dvn8.html>
+- **蔡徐坤** | 蔡徐坤澳门演唱会全开麦唱跳了多少首原创歌曲？ <https://k.sina.com.cn/article_7879849292_1d5acf54c06801dvn6.html>
+- **蔡徐坤** | 蔡徐坤澳门演唱会舞台有哪些视觉亮点和互动细节？ <https://k.sina.com.cn/article_7879849292_1d5acf54c06801dvn2.html>
+- **蔡徐坤** | 蔡徐坤澳门演唱会玩转无限流，三次死亡重生燃爆全场 <https://k.sina.com.cn/article_7879849292_1d5acf54c06801dvn0.html>
+- **蔡徐坤** | 豆！从此你顶天又立地！小黄豆 蔡徐坤演唱会 搞笑 万万没想到 柳州肥姨妈螺蛳粉 <https://k.sina.com.cn/article_7879924027_m1d5ae193b02001myk8.html>
+- **蔡徐坤** | 笑死我了 神来了也绷不住蔡徐坤蔡徐坤演唱会网友神评论大赏 满级评论 搞笑 <https://k.sina.com.cn/article_7879923551_m1d5ae175f02001oooi.html>
+- **蔡徐坤** | 蔡徐坤thedeadman演唱会 ☕ <https://k.sina.com.cn/article_7879923674_m1d5ae17da03301nxi4.html>
+- **蔡徐坤** | 蔡徐坤演唱会也会戒断，呜呜呜毕竟这么幸福的时刻！真的很难戒断 <https://k.sina.com.cn/article_5832772172_m15ba90a4c03301ktes.html>
+- **蔡徐坤** | 蔡徐坤澳门演唱会全开麦演唱22首原创曲目实力如何？ <https://k.sina.com.cn/article_7880068588_1d5b04dec06801phge.html>
+- **蔡徐坤** | 蔡徐坤在澳门演唱会中如何设计三次死亡与重生？ <https://k.sina.com.cn/article_7880068588_1d5b04dec06801phgc.html>
+- **蔡徐坤** | 蔡徐坤澳门演唱会无限流舞台讲述了一个什么故事？ <https://k.sina.com.cn/article_7880068588_1d5b04dec06801phga.html>
+- **蔡徐坤** | 蔡徐坤澳门演唱会竟设无限流闯关，三次生死涅槃震撼全场 <https://k.sina.com.cn/article_7880068588_1d5b04dec06801phg8.html>
+- **蔡徐坤** | 蔡徐坤澳门演唱会之后还会在哪些城市举办巡演？ <https://k.sina.com.cn/article_7879849300_1d5acf554068013h4e.html>
+- **蔡徐坤** | 蔡徐坤在澳门演唱会全开麦唱跳了多少首歌曲？ <https://k.sina.com.cn/article_7879849300_1d5acf554068013h4c.html>
+- **蔡徐坤** | 蔡徐坤澳门演唱会上的吻手礼争议是怎么回事？ <https://k.sina.com.cn/article_7879849300_1d5acf554068013h4a.html>
+- **蔡徐坤** | 蔡徐坤澳门演唱会玩转无限流，三次重生燃爆全场 <https://k.sina.com.cn/article_7879849300_1d5acf554068013h46.html>
+- **蔡徐坤** | 蔡徐坤TheDeadman演唱会 <https://k.sina.com.cn/article_6085757482_m16abd4a2a05301n51m.html>
+- **蔡徐坤** | 蔡徐坤thedeadman演唱会与0802生日祝福 <https://k.sina.com.cn/article_7879923551_m1d5ae175f03301ok4e.html>
+- **蔡徐坤** | 宝宝我还没有找到人生中的角色 所以我们新加坡见！蔡徐坤蔡徐坤澳门演唱会 <https://k.sina.com.cn/article_7879923551_m1d5ae175f03301ojsw.html>
+- **蔡徐坤** | 蔡徐坤演唱会高清官摄释出，四面台环绕视角新体验 <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002paw2.html>
+- **蔡徐坤** | 蔡徐坤续火花引爆全网，演唱会级互动新玩法 <https://k.sina.com.cn/article_7879776722_1d5abd9d206801ezqc.html>
+- **蔡徐坤** | 蔡徐坤感慨走红后机会变少，更新ins秀演唱会舞美 <https://k.sina.com.cn/article_7879923674_m1d5ae17da03301nrfe.html>
+- **蔡徐坤** | 蔡徐坤8.3澳门演唱会，唱迷引全场大合唱 <https://k.sina.com.cn/article_7879924002_m1d5ae192203301hj94.html>
+- **蔡徐坤** | 蔡徐坤演唱会中称歌曲是人生重要转折 <https://k.sina.com.cn/article_7879924002_m1d5ae192203301hj4k.html>
+- **蔡徐坤** | 蔡徐坤澳门演唱会原话是什么？ <https://k.sina.com.cn/article_7879849291_1d5acf54b06801iduc.html>
+- **蔡徐坤** | 蔡徐坤澳门演唱会发言引争议，粉丝晒原话澄清 <https://k.sina.com.cn/article_7879849291_1d5acf54b06801idu6.html>
+- **蔡徐坤** | 限定男团解散七年后，蔡徐坤演唱会刷屏全网，尤长靖专注音乐 蔡徐坤 <https://k.sina.com.cn/article_7879924009_m1d5ae192903301edag.html>
+- **蔡徐坤** | 蔡徐坤在澳门演唱会分享的成长经历具体讲了什么？ <https://k.sina.com.cn/article_7879923373_1d5ae16ad06801es62.html>
+- **蔡徐坤** | 蔡徐坤粉丝如何回应演唱会发言被断章取义？ <https://k.sina.com.cn/article_7879923373_1d5ae16ad06801es60.html>
+- **蔡徐坤** | 蔡徐坤演唱会原话为何被误解为“撕掉爱豆标签”？ <https://k.sina.com.cn/article_7879923373_1d5ae16ad06801es5u.html>
+- **蔡徐坤** | 蔡徐坤提醒你续火花，演唱会发言却被断章取义？ <https://k.sina.com.cn/article_7879923373_1d5ae16ad06801es5s.html>
+- **蔡徐坤** | 蔡徐坤演唱会新加坡站的场馆信息 <https://k.sina.com.cn/article_7879849291_1d5acf54b06801idme.html>
+- **蔡徐坤** | 粉丝如何回应蔡徐坤演唱会言论被断章取义？ <https://k.sina.com.cn/article_7879923104_1d5ae15a006801h9jc.html>
+- **蔡徐坤** | 蔡徐坤在澳门演唱会上说了什么引发争议？ <https://k.sina.com.cn/article_7879923104_1d5ae15a006801h9jk.html>
+- **蔡徐坤** | 早早锁定蔡徐坤澳门生日场演唱会门票 <https://k.sina.com.cn/article_6042105397_m16823363503301lb3k.html>
+- **蔡徐坤** | 蔡徐坤新加坡演唱会哭了？现场哽咽与2026巡演场次说明 <https://k.sina.com.cn/article_7879923373_1d5ae16ad06801eruo.html>
+- **蔡徐坤** | 蔡徐坤演唱会新加坡站官宣视频发布：THE DEADMAN海外首站定档10月24日 <https://k.sina.com.cn/article_7879849298_1d5acf552068019mjc.html>
+- **蔡徐坤** | 蔡徐坤演唱会新加坡哭了？2023落泪事件与2026巡演新进展 <https://k.sina.com.cn/article_7879923104_1d5ae15a006801h8rs.html>
+- **蔡徐坤** | 蔡徐坤演唱会新加坡站官宣了吗？定档[2026年10月24日] <https://k.sina.com.cn/article_7879923118_1d5ae15ae06801oa8m.html>
+- **蔡徐坤** | 蔡徐坤新加坡演唱会还会增加其他亚洲城市吗？ <https://k.sina.com.cn/article_7879849291_1d5acf54b06801icmm.html>
+- **蔡徐坤** | 蔡徐坤新加坡演唱会官宣！THE DEADMAN海外首站定档 <https://k.sina.com.cn/article_7879849291_1d5acf54b06801icmg.html>
+- **蔡徐坤** | 蔡徐坤巡演海外首站为何选在新加坡？ <https://k.sina.com.cn/article_7879849295_1d5acf54f06801jkpy.html>
+- **周杰伦** | 狗仔硬刚周杰伦MV女孩：你直接告就行OK？用得着做其他否认的动作 <https://k.sina.com.cn/article_3995444230_ee25a40600101lkge.html>
+- **周杰伦** | 狗仔硬刚周杰伦MV女孩：你直接告就行OK？用得着你给其他事做否认的动作！ <https://k.sina.com.cn/article_7879924010_1d5ae192a020028p4s.html>
+- **周杰伦** | 周杰伦MV女孩回应了哪些不实指控？ <https://k.sina.com.cn/article_7879776724_1d5abd9d406801hoyu.html>
+- **周杰伦** | 周杰伦MV女孩名誉受损后是否会起诉造谣者？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801javm.html>
+- **周杰伦** | 方文山选妃事件对周杰伦MV选角有无影响？ <https://k.sina.com.cn/article_7879849291_1d5acf54b06801iktc.html>
+- **周杰伦** | 周杰伦MV女孩集体回应：拒绝造谣，已留证追责 <https://k.sina.com.cn/article_7879923111_1d5ae15a706801dkzs.html>
+- **周杰伦** | 周杰伦MV女孩回应纷争，心疼合作被毁经典 <https://k.sina.com.cn/article_7811154182_m1d194c10603301yajm.html>
+- **周杰伦** | 周杰伦MV女孩否认方文山集邮爆料，称已留存证据将追责 <https://k.sina.com.cn/article_2868370350_aaf7dbae04001tryc.html>
+- **周杰伦** | 周杰伦《天涯过客》MV女主程皓如，方文山选角风波真相待解 <https://k.sina.com.cn/article_7879849295_1d5acf54f06801jrye.html>
+- **周杰伦** | 周杰伦《天涯过客》MV女主程皓如今晚发声了吗？ <https://k.sina.com.cn/article_7879849295_1d5acf54f06801jry8.html>
+- **周杰伦** | 《天涯过客》MV选角流程是谁主导的？ <https://k.sina.com.cn/article_7879849295_1d5acf54f06801jrya.html>
+- **周杰伦** | 方文山被曝西塘汉服文化周选妃，周杰伦MV女孩被指集邮 <https://k.sina.com.cn/article_7879924009_m1d5ae192903301en3o.html>
+- **周杰伦** | 方文山被曝集邮周杰伦MV女孩，当事人否认：等实锤 <https://k.sina.com.cn/article_7879849300_1d5acf554068013jm8.html>
+- **周杰伦** | 网友如何看待方文山“集邮”MV女演员的传闻？ <https://k.sina.com.cn/article_7879923104_1d5ae15a006801ho1k.html>
+- **周杰伦** | 周杰伦《天涯过客》MV的女主角程皓如是谁？ <https://k.sina.com.cn/article_7879923104_1d5ae15a006801ho1g.html>
+- **周杰伦** | 方文山被曝“集邮”《天涯过客》MV女演员的指控有何依据？ <https://k.sina.com.cn/article_7879923104_1d5ae15a006801ho1e.html>
+- **周杰伦** | 周杰伦《天涯过客》MV的选角由谁敲定？ <https://k.sina.com.cn/article_7879923104_1d5ae15a006801ho1c.html>
+- **周杰伦** | 方文山被曝对Y女士八年PUA，集邮周杰伦MV女孩 <https://k.sina.com.cn/article_2155987804_8081c35c04001j2nm.html>
+- **周杰伦** | 周杰伦称导戏累，无人陪剪辑，回应MV女主疑问 <https://k.sina.com.cn/article_7879923551_m1d5ae175f03301ords.html>
+- **周杰伦** | 方文山如何回应“集邮”周杰伦MV女孩的指控？ <https://k.sina.com.cn/article_7879923107_1d5ae15a306803um2e.html>
+- **周杰伦** | 方文山否认集邮周杰伦MV女孩，称将依法维权 <https://k.sina.com.cn/article_7879923107_1d5ae15a306803um2c.html>
+- **周杰伦** | 方文山风波升级！被曝每次来内地都找固定地陪，让情人出演周杰伦MV <https://k.sina.com.cn/article_1737018574_m6788ccce020018iks.html>
+- **周杰伦** | 方文山否认出轨后，再被曝集邮周杰伦MV女主 <https://k.sina.com.cn/article_5612278337_14e84924104001jdca.html>
+- **周杰伦** | “曝方文山出轨”冲上热搜，助理回应：这些全都是网传谣言，公司将会发布正式声明 <https://k.sina.com.cn/article_1926641510_m72d6376603301p0j6.html>
+- **周杰伦** | 《红尘客栈》MV拍摄时娜扎和周杰伦有对手戏吗？ <https://k.sina.com.cn/article_7879776722_1d5abd9d206801f57u.html>
+- **周杰伦** | 娜扎出演《红尘客栈》MV后对她的事业有何影响？ <https://k.sina.com.cn/article_7879776722_1d5abd9d206801f57s.html>
+- **周杰伦** | 娜扎出演《红尘客栈》MV时是多少岁？ <https://k.sina.com.cn/article_7879776722_1d5abd9d206801f57o.html>
+- **周杰伦** | 周杰伦为什么选中娜扎出演《红尘客栈》MV？ <https://k.sina.com.cn/article_7879776722_1d5abd9d206801f57m.html>
+- **周杰伦** | 娜扎18岁如何被选中出演周杰伦《红尘客栈》MV？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801j8xy.html>
+- **周杰伦** | 《红尘客栈》MV当年为何没有公开娜扎身份？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801j8xu.html>
+- **周杰伦** | 周杰伦2027年福州演唱会获批 <https://k.sina.com.cn/article_1784392831_m6a5bac7f05301dekq.html>
+- **周杰伦** | 娜扎18岁参演周杰伦执导《红尘客栈》MV <https://k.sina.com.cn/article_5538664098_m14a214ea203301ienu.html>
+- **周杰伦** | 娜扎18岁出演周杰伦执导《红尘客栈》MV <https://k.sina.com.cn/article_7810739724_m1d18e6e0c03302gp0k.html>
+- **周杰伦** | 周杰伦喊话刘畊宏：淘汰就来我演唱会当嘉宾 <https://k.sina.com.cn/article_7879923119_1d5ae15af06801vb2s.html>
+- **周杰伦** | 周杰伦放话刘畊宏：淘汰就来我演唱会当嘉宾 <https://k.sina.com.cn/article_7879849298_1d5acf552068019pzk.html>
+- **周杰伦** | 周杰伦青岛演唱会最新消息：开票时间公布！ <https://finance.sina.com.cn/roll/2026-08-12/doc-ininamih5180342.shtml>
+- **特朗普** | 特朗普：白宫新闻秘书莱维特将于本月底离任 <https://news.google.com/rss/articles/CBMieEFVX3lxTFA0R2hSVUtESzQ2SElNTEJYUUFlcm96eUF3dWU0Nk9jTlg0S2VMaWhndkpNRm1mXzVxcVNjSFNqTnhaZEI1d2xyZE5HTXU0dDRhczByQVpqOGdVTlpVb1lpUmZNTDhMN3V6ekxPSW5YbWF5TFVyYTl2SA?oc=5>
+- **特朗普** | 特朗普披露白宫新闻秘书莱维特离职时间 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9Ga3RIQnlYU1ZhMG0td094a3FpMm9iY2g4SlFBYVBLc00wN1ZSN3lsYThXQlZxSFBvUFUzOVpTaVljbWYtSGxxazZENzI?oc=5>
+- **特朗普** | 特朗普:自宫新闻秘书莱维特将于本月底离任 因家庭原因辞职 <https://news.google.com/rss/articles/CBMicEFVX3lxTFBNRHBDejFRTE50czNPaTBaZ1N5NjRsOFVQSXprWWdQdkxpM1NwRFN5NkYwMUxuODVVZlY5c3R2X3FHMF9jVnRLQVRrdi1aS2Zzd29fbmJRbkZtSS1yazJ5QXhzcWN4Wl9QTWJYTmR1clU?oc=5>
+- **特朗普** | 特朗普媒体科技：超十家客户订阅“真实社交”实时数据流 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRGhhRzJLNUh6T2k0S2E4Y205N1RpYmtjaTJZY3UwQzJ1cGJGdE1DWTJkaFVWSnBoNWtONko0M2hHWDJ4b3A5bTdKY0paNGtlb083UjRjVU1oeGdIazdSNGhGUUFTRl93NXVROGo2OUtKMTk1c0ZZWEFLNkJRSVdNclQ3RHVTeGZZMnhHMi1nWGRNVXdvd1Y5UVlpWW4tUUgzekR3MndnSzBxTkwyZzBSdW1SeGg0Tm1reEphcXh6ZkxySXBkVTdiTGJDWVN0aHFDOEtBaWtoa2haVUNza193?oc=5>
+- **特朗普** | 不满美国施加高额关税，泰国罕见亮出军事筹码威胁特朗普政府 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ZX2YxSDVnZ1EtaFhtVTJncWpPTUFCbkNybVYzYzZVbU43WGVqMUhINnNqM0lWVmlFdlRIZmRKbHpaOEtSYlpfb2JMcHo?oc=5>
+- **Trump** | Stocks to Watch: Intel, Trump Media, On Holdings, Super Micro -- WSJ <https://news.google.com/rss/articles/CBMipwFBVV95cUxQNlE4bVQwVzAtYUpuVmxodl9jbk1YclFsV2VFc3JrcHI0VEpGb3RjcE8zZ1JJTTJRRHhFOE5lWlJGeDVhX0Y4Z25zR3dJZGRidjRpUXdjMGl2UjFlZFJxR0djbDZENmtreHI3MDVGWXhrQi1mVFhxMktkM3NLdDJEcHRWLUVuOVRyanl6emVaQ1poY0JQVzVSZkJWeDJrX3NsUGNwOHd2Yw?oc=5>
 
 ### 2026-08-13 01:21  (12 条)
 
