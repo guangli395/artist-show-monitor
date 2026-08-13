@@ -1,11 +1,11 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-13 17:27**
-- 本轮扫到 9528 条, 新增 **2** 条
+- 最近更新: **2026-08-13 18:26**
+- 本轮扫到 9531 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (3 条)
 
 ### 特朗普称白宫新闻秘书莱维特将离职
 
@@ -13,20 +13,34 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-08-12 20:03
-- 链接: <https://news.google.com/rss/articles/CBMixwJBVV95cUxNTld4ajBFX040UWRIT0wxRUVWUElJc3lYbmt4cjR3MUtfX3U2VVN1Y1dObW5WWDR0elpxdHJnMndlN0tuZHBYVXlUbFluTWtIQ0pSMktHS3UzNmVtdVlPcGxBMEpfUVRKUHZiYUE0eENMVWtVZEhIOEZzbFVzWmd0R0NMQy1tNmFNTkN3WWlGLTRIazV6bEZKQjk0cTVNNTdXQ2Q3MVdTQkJwSVFLdEZGcExna2I3bGRVcURJWDF6eWdDU1lhUzBqNnNoQTNRenBCbmpNU0loRjBCSGdod3RhaUx1NVVadnRTRHFGY2ZlQUJ6dkVhX2pTN3ZPc3hoU0hmMEh5SWttUHNXT3JTckRjVlpDaTFfNGxBWFZYaXY4dEhUbEtJX0Y2WmdQTDNSYndmZUVWVEI2N1c0anBhcVZnUmJNVGllNzg?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMijgJBVV95cUxQUmNfdVVDcV9YY0tBZGhnYUZtVzFhMGN4dHp5ck5ONTBoRHgtUzlMZHlFZ3NiaEFER2pObnI4NEZxRzlyN28yaVRCdmppSlJBTDdGU09BQzZ4WnBncmV4YU5Nc1FBN2E3cC1JX3lSRk5oaTJsMkJWb1RBUkRGSWhMeUdUY3N0eTBLWElBOC1jX3FEUS04V2IzNmJ4VDFTVHQ0N0NfclMwNWZ3anMwZjIyS3ItNFBpQU10RWphMHh4YlFKbUQ3VnNadUZSSGpzS0Y0Z2htT1djUW9nckVFTGlJckpoZV9FSUw1cUxSU21sWnBjcHhaVEplejhjUmlROTl2U0JiQThNencyQXZwUWc?oc=5>
 
-### 特朗普：白宫新闻秘书莱维特将于本月底离任
+### 特朗普政府起诉哈佛大学案遭法官驳回
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-13 16:33
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxNY1owUFFqejNya0JvVl94Ulh2d3dybEVua2pvakpBbDdFQWlIRDlFNFNZZmRMWVV1VU54bGJUYkdFXzAzeVR5UmVSTTYyU2pnNDhXSW5fa2gxMzVBVG9MUlNWVngwS0dLME5Jc2ZycmpkbjVrZGJQckQycDNPeTFNclV1czQxNEY0UURFSTdtVlZMTVliLVBGeA?oc=5>
+- 场馆: RFI
+- 时间: 2026-08-13 18:17
+- 链接: <https://news.google.com/rss/articles/CBMiqwJBVV95cUxORjJhVG43LWttY1hqdmVHaU9hbm1sbXN0UnQ4MllEZ1RVaEdHRUI5VWFMOVZPRnV5NUJ1YlVTNHZLYUQ2UVl0T0JabVc3LVdQTjlwRnUwTEx1VHd5SjVFT1RrbDRGZDYtSU1UNFZueVlQdVdubG5jRUpTU3hUcnRaN3lBNlhQMFNPS1QwZmZNekZxSWNLeTBwbTNJSHloWFcwMHRHNDREeHlQLU5XNFpJQVNDSW5BRWE3WEZ2UUZVX1RXc0lGQ1lkdWtIUzF4Z3pxeXo3ZnNHZWxIYXlfdUVCV2p5SlpPZFVYYWRHVHkwc1poNGFLMjJUcjgxZlM0Z2Z5X1pVNnMyRlNUQ2lwQThLUDNEaUwxcUVXSm52NUtEcEFHYkxURHFYUjQ0QQ?oc=5>
+
+### Brent, WTI Futures Drop Pre-Bell as Trump Seen Gravitating to Iran Economic Squeeze Notion After Claims US Controls Hormuz
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-08-13 10:00
+- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxPbFRLQkZqWWZ6U3paOFliNG9mcXdfOVpDenBmNERCRVJVdC1xWko1UzdWazdUdmsxQ1VmVjFOc3ZhMEZyeVlZT3A2djZJdVlkcTloYk1SV29XLXhlRzFhRzJuY1p0NVlSY01TVlc2Q2FKV1ZqbUQzWk1jNVN4dUJWT2dNX0x0RjFybnd1VWtHNFNxWUs0ckpFZDE1dDdHdVUy?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-13 18:26  (3 条)
+
+- **特朗普** | 特朗普称白宫新闻秘书莱维特将离职 <https://news.google.com/rss/articles/CBMijgJBVV95cUxQUmNfdVVDcV9YY0tBZGhnYUZtVzFhMGN4dHp5ck5ONTBoRHgtUzlMZHlFZ3NiaEFER2pObnI4NEZxRzlyN28yaVRCdmppSlJBTDdGU09BQzZ4WnBncmV4YU5Nc1FBN2E3cC1JX3lSRk5oaTJsMkJWb1RBUkRGSWhMeUdUY3N0eTBLWElBOC1jX3FEUS04V2IzNmJ4VDFTVHQ0N0NfclMwNWZ3anMwZjIyS3ItNFBpQU10RWphMHh4YlFKbUQ3VnNadUZSSGpzS0Y0Z2htT1djUW9nckVFTGlJckpoZV9FSUw1cUxSU21sWnBjcHhaVEplejhjUmlROTl2U0JiQThNencyQXZwUWc?oc=5>
+- **特朗普** | 特朗普政府起诉哈佛大学案遭法官驳回 <https://news.google.com/rss/articles/CBMiqwJBVV95cUxORjJhVG43LWttY1hqdmVHaU9hbm1sbXN0UnQ4MllEZ1RVaEdHRUI5VWFMOVZPRnV5NUJ1YlVTNHZLYUQ2UVl0T0JabVc3LVdQTjlwRnUwTEx1VHd5SjVFT1RrbDRGZDYtSU1UNFZueVlQdVdubG5jRUpTU3hUcnRaN3lBNlhQMFNPS1QwZmZNekZxSWNLeTBwbTNJSHloWFcwMHRHNDREeHlQLU5XNFpJQVNDSW5BRWE3WEZ2UUZVX1RXc0lGQ1lkdWtIUzF4Z3pxeXo3ZnNHZWxIYXlfdUVCV2p5SlpPZFVYYWRHVHkwc1poNGFLMjJUcjgxZlM0Z2Z5X1pVNnMyRlNUQ2lwQThLUDNEaUwxcUVXSm52NUtEcEFHYkxURHFYUjQ0QQ?oc=5>
+- **Trump** | Brent, WTI Futures Drop Pre-Bell as Trump Seen Gravitating to Iran Economic Squeeze Notion After Claims US Controls Hormuz <https://news.google.com/rss/articles/CBMioAFBVV95cUxPbFRLQkZqWWZ6U3paOFliNG9mcXdfOVpDenBmNERCRVJVdC1xWko1UzdWazdUdmsxQ1VmVjFOc3ZhMEZyeVlZT3A2djZJdVlkcTloYk1SV29XLXhlRzFhRzJuY1p0NVlSY01TVlc2Q2FKV1ZqbUQzWk1jNVN4dUJWT2dNX0x0RjFybnd1VWtHNFNxWUs0ckpFZDE1dDdHdVUy?oc=5>
 
 ### 2026-08-13 17:27  (2 条)
 
