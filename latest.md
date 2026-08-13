@@ -1,48 +1,123 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-12 23:34**
-- 本轮扫到 9359 条, 新增 **4** 条
+- 最近更新: **2026-08-13 01:21**
+- 本轮扫到 9371 条, 新增 **12** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (12 条)
+
+### 狗仔硬刚周杰伦MV女孩：你直接告就行OK？用得着做其他否认的动作
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nincnux3547921.html>
+
+### 狗仔硬刚周杰伦MV女孩：你直接告就行OK？用得着你给其他事做否认的动作！
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://www.sina.cn/news/article/nincnuu4835108.html>
 
 ### 特朗普“最信任的助手之一”，白宫新闻秘书莱维特将于本月底离任
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-08-12 22:20
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9SamdLR2F5LXlmRHZGV25vZUttV2IyNG5iNmRuZHh1TEtudnRqdElKNUdYX3drRW05SDEtUFM2dFlBOWg3VHU0eUVEUHNOU2lQN3J2NXZzVnlVS0d0VU41VzZqNW83U3QtT1Y1YzkzUXQ4TTBLam95NA?oc=5>
+- 时间: 2026-08-12 22:19
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBaTWg5THNCYXVHU3VHcUg2OFphbUFZR2xnVWVaWVpSd1lhWXZPMktwSFI3c3JVdzNKM2d4R20tZFFrN0tHRW1wRy1xemdaOFNnQlZKTVRFTmR2MUdBblo0bW5hYlUxck1Mdkc4WEpJMS1UaFNaME9EdA?oc=5>
 
-### 特朗普政府首次承认：153名平民死亡
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-08-12 16:21
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE1SSFFVQ3N1ZTRDd0xIbE9Hdk5zZ1NWaG5CeGRZVkRNY2plbnJ4Z0o0OTV1dXRnYmhUa1B0MWRVX2plMXBWWXo2NU1aS3VVUjJuNnp4aFFPRDR6S2xwZnlWeUZhdElHLVRHTzRNZ3M2NFVTMmJU?oc=5>
-
-### 特朗普“历史性协议”告吹 纸面和平难落实
+### 特朗普承认悄悄换飞机了：其实我坐的那架更危险 安全威胁促更换
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 中华网
-- 时间: 2026-08-12 16:34
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1HQ2FLa2NuSFYwUHpfN3lVWVVQdERxcVAwODdPSXIwU1NSZ3VCRVU3SXR5OTUzYVhZdUlLVzZnb0xrUGZ2ajQxVFdSWmY1ekpnT21sZjZLdjc3b291X1ItMWhoa0trZ3NYaEI4UzVpcjg?oc=5>
+- 时间: 2026-08-13 00:38
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBpSFlkSWhmelVWRFBUblliQktOdkpGcWFMR1pBRDJ3MG1oNGxRU2czd3AxbE1PQUFKZDNTUlhaTDg3SERpa1hNUktvaTc1cmQwTmtxUUZHSGlhemlHLTBhTUVac1dDVzVyNDZ0QUZtYUQ?oc=5>
 
-### 特朗普总统证实他在北约峰会后曾秘密换乘飞机
+### 媒体曝特朗普秘换专机避免伊朗袭击 随行记者被当“诱饵”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-08-12 17:09
-- 链接: <https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeDVSeFM1VXV4REVZLVNvTHZCUmtEbHFUdWRTYVF3Y3E4cUtaX0VJS1lRWFlPV01YZjhmZmpzVHRLc1QzRnJZOHlxc3pwa3JMWVlCck5yOUU5VkVwOGVfcWV4Qmw0MFpqTzViWDluNDNnWmRfOGJCUGhCWFEtUzd3UHd0MFRRX0lGYnNFSHk4TGZVYTdXWEItNlRzUTUzOG83T01naDZoYjlOTUxUbGJnNEFhY01IU0wybVg3UUthdGdmUF9JbG04dlNOd3dTTmgwMjZZatIB1AFBVV95cUxQeDVSeFM1VXV4REVZLVNvTHZCUmtEbHFUdWRTYVF3Y3E4cUtaX0VJS1lRWFlPV01YZjhmZmpzVHRLc1QzRnJZOHlxc3pwa3JMWVlCck5yOUU5VkVwOGVfcWV4Qmw0MFpqTzViWDluNDNnWmRfOGJCUGhCWFEtUzd3UHd0MFRRX0lGYnNFSHk4TGZVYTdXWEItNlRzUTUzOG83T01naDZoYjlOTUxUbGJnNEFhY01IU0wybVg3UUthdGdmUF9JbG04dlNOd3dTTmgwMjZZag?oc=5>
+- 场馆: 财新
+- 时间: 2026-08-12 11:32
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1EMnZjcTh1MHczcFJNZ2QwWmdmdVBzZFBwT0JCSEpMVlJrd2hTTlc1WWhqcFE1RWZ1RmF3bjJBTmdHdFNUTlpuZUFXWFV5Z0lTaFhXYnJQQUdJX0JVaERUelBnMFRRcHN6UXc?oc=5>
+
+### 特朗普：白宫新闻秘书莱维特将于本月底离任
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新京报
+- 时间: 2026-08-12 23:15
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBUTjhMV1hEdEZKQk1pdEhGWGZORU8tb1ZkQlU4TEVIelNuWGQ1VWVNeEZfcnFHb2ItT2k4eW9VcXZQeXB2Yzg5dnlNRjJTZnpGXzYxRTRDSkRSd0Fob3dNQjNiZWg?oc=5>
+
+### 特朗普因Truth Social向交易员提供高速实时数据流而遭起诉
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-08-12 23:55
+- 链接: <https://news.google.com/rss/articles/CBMimgFBVV95cUxObHAtSEd1RzBraVV1Vkd5akJobHZXZGE4N3h6ckRnY2ZtZURacElaeFByYnJUZ1lhbkxQQmsxSXd0cFZQTWE5S0Y3XzNSYThpcUZJd0VIdDlxcy1YakVRcm9ucjVKYWhYTTI3eHBiV1pndV9mdC1HNk9XaWhXSGhzSEt1WlZpQzY0VkdiRWZpcFJ4NDM2MjlkM3NB?oc=5>
+
+### 特朗普：美国全面控制霍尔木兹海峡
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 8world
+- 时间: 2026-08-13 00:01
+- 链接: <https://news.google.com/rss/articles/CBMikwFBVV95cUxNM0o1TllURURVb3ltU0hiU3Z4cFV4ZUFSS1NPUGRoMXI0NXdacm5DMGVHLXo1VXpfZWdQTTEyMURKaV9HbDJBUzVwYk9kOTc3M3g2Q1hjaURoYnljZW9OZmxjNC1WcDliRFRia01SbzN2cVQ5Y2VaVk1aMUlZWnNaQXdZM19sRmJaSU5HWGF0alB5MHM?oc=5>
+
+### Trump“代言人”Leavitt新闻秘书卸任……支持11月中期选举- 阿视亚经济
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 아시아경제
+- 时间: 2026-08-12 21:02
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pVHN1Ukktb3daX2VOWFpnREhfMmZCTHA1T3ZXNFM3MWRqWHk2WUUzN3NVN29ZUWlkVXpta0hidFVCSlEzaEdkUGJscGwtODhGRG4tWU1nZkJYeDVMNjNIUnp6UlY?oc=5>
+
+### 伊朗霍尔木兹海峡管理局否认美国对该海峡的控制权主张：你需要了解什么
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Al-Monitor
+- 时间: 2026-08-13 00:05
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE85ZFRPa21XcjFmR1hDWWxocXJzUU8wYmRpeFU5bFN3dW5DQ1k2b0xvejMwbEZxWEdWR2xUN0hTa2tPTnNKTW0xbnlMX2l5SUJFdHEzVVFPc00xRXJ6MTBoUmhxRF80Zw?oc=5>
+
+### 美国总统特朗普称霍尔木兹海峡在美国控制之下，但鲜有船只理会
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-08-12 23:39
+- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxObTRZZmFvakVEdFZyYnp3cHVHTDRZckg3X1ZXMnlTM3o0N1dDQl96SzZsYUZYTFJIY05CUklWMnVpdFJEXy1TemZuYmhyUXZ5RXpyR0diZktrX084Mm10aXROXzh4YjNsbDk5YXk0NEV0ekIyVkNhWjUta1JFSHJsQ1JLQkVMVEdoNGNRZlUwMmhyN2F0cVJvSFZCZU9NSFA1?oc=5>
+
+### Trump称“完全掌控霍尔木兹”……船舶却走伊朗航线- 阿视亚经济
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 아시아경제
+- 时间: 2026-08-12 19:29
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kQXk0cF9FTjVyamhuc182cUFkNlFaSFhybUlGbVZhbDloUXM2OTdycUx3VTA1M2tTWU96VC1xT05rN0VTOFhCYm9WeVotQWxYMEpjdFJ4bzZTclR4TUZSN1N1clk?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-13 01:21  (12 条)
+
+- **周杰伦** | 狗仔硬刚周杰伦MV女孩：你直接告就行OK？用得着做其他否认的动作 <https://www.sina.cn/news/article/nincnux3547921.html>
+- **周杰伦** | 狗仔硬刚周杰伦MV女孩：你直接告就行OK？用得着你给其他事做否认的动作！ <https://www.sina.cn/news/article/nincnuu4835108.html>
+- **特朗普** | 特朗普“最信任的助手之一”，白宫新闻秘书莱维特将于本月底离任 <https://news.google.com/rss/articles/CBMieEFVX3lxTFBaTWg5THNCYXVHU3VHcUg2OFphbUFZR2xnVWVaWVpSd1lhWXZPMktwSFI3c3JVdzNKM2d4R20tZFFrN0tHRW1wRy1xemdaOFNnQlZKTVRFTmR2MUdBblo0bW5hYlUxck1Mdkc4WEpJMS1UaFNaME9EdA?oc=5>
+- **特朗普** | 特朗普承认悄悄换飞机了：其实我坐的那架更危险 安全威胁促更换 <https://news.google.com/rss/articles/CBMicEFVX3lxTFBpSFlkSWhmelVWRFBUblliQktOdkpGcWFMR1pBRDJ3MG1oNGxRU2czd3AxbE1PQUFKZDNTUlhaTDg3SERpa1hNUktvaTc1cmQwTmtxUUZHSGlhemlHLTBhTUVac1dDVzVyNDZ0QUZtYUQ?oc=5>
+- **特朗普** | 媒体曝特朗普秘换专机避免伊朗袭击 随行记者被当“诱饵” <https://news.google.com/rss/articles/CBMiakFVX3lxTE1EMnZjcTh1MHczcFJNZ2QwWmdmdVBzZFBwT0JCSEpMVlJrd2hTTlc1WWhqcFE1RWZ1RmF3bjJBTmdHdFNUTlpuZUFXWFV5Z0lTaFhXYnJQQUdJX0JVaERUelBnMFRRcHN6UXc?oc=5>
+- **特朗普** | 特朗普：白宫新闻秘书莱维特将于本月底离任 <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBUTjhMV1hEdEZKQk1pdEhGWGZORU8tb1ZkQlU4TEVIelNuWGQ1VWVNeEZfcnFHb2ItT2k4eW9VcXZQeXB2Yzg5dnlNRjJTZnpGXzYxRTRDSkRSd0Fob3dNQjNiZWg?oc=5>
+- **Trump** | 特朗普因Truth Social向交易员提供高速实时数据流而遭起诉 <https://news.google.com/rss/articles/CBMimgFBVV95cUxObHAtSEd1RzBraVV1Vkd5akJobHZXZGE4N3h6ckRnY2ZtZURacElaeFByYnJUZ1lhbkxQQmsxSXd0cFZQTWE5S0Y3XzNSYThpcUZJd0VIdDlxcy1YakVRcm9ucjVKYWhYTTI3eHBiV1pndV9mdC1HNk9XaWhXSGhzSEt1WlZpQzY0VkdiRWZpcFJ4NDM2MjlkM3NB?oc=5>
+- **Trump** | 特朗普：美国全面控制霍尔木兹海峡 <https://news.google.com/rss/articles/CBMikwFBVV95cUxNM0o1TllURURVb3ltU0hiU3Z4cFV4ZUFSS1NPUGRoMXI0NXdacm5DMGVHLXo1VXpfZWdQTTEyMURKaV9HbDJBUzVwYk9kOTc3M3g2Q1hjaURoYnljZW9OZmxjNC1WcDliRFRia01SbzN2cVQ5Y2VaVk1aMUlZWnNaQXdZM19sRmJaSU5HWGF0alB5MHM?oc=5>
+- **Trump** | Trump“代言人”Leavitt新闻秘书卸任……支持11月中期选举- 阿视亚经济 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pVHN1Ukktb3daX2VOWFpnREhfMmZCTHA1T3ZXNFM3MWRqWHk2WUUzN3NVN29ZUWlkVXpta0hidFVCSlEzaEdkUGJscGwtODhGRG4tWU1nZkJYeDVMNjNIUnp6UlY?oc=5>
+- **Trump** | 伊朗霍尔木兹海峡管理局否认美国对该海峡的控制权主张：你需要了解什么 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE85ZFRPa21XcjFmR1hDWWxocXJzUU8wYmRpeFU5bFN3dW5DQ1k2b0xvejMwbEZxWEdWR2xUN0hTa2tPTnNKTW0xbnlMX2l5SUJFdHEzVVFPc00xRXJ6MTBoUmhxRF80Zw?oc=5>
+- **Trump** | 美国总统特朗普称霍尔木兹海峡在美国控制之下，但鲜有船只理会 <https://news.google.com/rss/articles/CBMioAFBVV95cUxObTRZZmFvakVEdFZyYnp3cHVHTDRZckg3X1ZXMnlTM3o0N1dDQl96SzZsYUZYTFJIY05CUklWMnVpdFJEXy1TemZuYmhyUXZ5RXpyR0diZktrX084Mm10aXROXzh4YjNsbDk5YXk0NEV0ekIyVkNhWjUta1JFSHJsQ1JLQkVMVEdoNGNRZlUwMmhyN2F0cVJvSFZCZU9NSFA1?oc=5>
+- **Trump** | Trump称“完全掌控霍尔木兹”……船舶却走伊朗航线- 阿视亚经济 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kQXk0cF9FTjVyamhuc182cUFkNlFaSFhybUlGbVZhbDloUXM2OTdycUx3VTA1M2tTWU96VC1xT05rN0VTOFhCYm9WeVotQWxYMEpjdFJ4bzZTclR4TUZSN1N1clk?oc=5>
 
 ### 2026-08-12 23:34  (4 条)
 
