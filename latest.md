@@ -1,59 +1,25 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-13 08:19**
-- 本轮扫到 9505 条, 新增 **8** 条
+- 最近更新: **2026-08-13 09:38**
+- 本轮扫到 9511 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (6 条)
 
-### “穿着高跟鞋的小特朗普”离职，中期选举关口谁能接棒特朗普的硬核传声筒？
+### 周杰伦青岛演唱会最新消息：开票时间公布！
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: shobserver.cn
-- 时间: 2026-08-13 07:20
-- 链接: <https://news.google.com/rss/articles/CBMiXEFVX3lxTE13enF0LUZ0OUxETWtQZU85TEpjVnhwcUFHbnZPUHd4bTQ1Q2I2NGZIS1QwbUxxTlVsbmZxLVQtOUt3aktBOXJ1UEpmbTRleElxY1V6SGZBbDJQa0M5?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_2042940315_79c4cb9b01901bor8.html>
 
-### 特朗普：最信任的新闻秘书莱维特将于本月底离职
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-08-12 23:31
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDR05SdkdQZDF4Vi1ueVFacndSb3h2Mm44N1Z2S3hOSVNyY2toSlNZRWlvaHpnWDhvYVZrTWJ6NnlrRDVnZklSQ3RDV21mVXdRUVh2YUIzc1RkclRxV3E5alFzZzdpdw?oc=5>
-
-### 美国特勤局如何玩弄“障眼法”，将特朗普在众目睽睽之下隐藏
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-08-12 15:04
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9HYTRxdUJNbEdrZS1qRkdpTmxnOXhPN0dOa0d2QjdEenl6WWxPYm9mOTNuS2xWY3d4Z1JBQnF2NVRoaUNUTnFRTHdQMVdBMDZuaVdTSWd1YUtDeGd3aEtGODdlX01DUQ?oc=5>
-
-### 美媒揭秘特朗普瞒天过海秘密换机全过程
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-08-13 00:40
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1EaFpKd1JyUHZmNUNGQW9zdW1mZW9aN1IzbDNpbnlrZl96c2pEd0dxXzJ3Sk9vR3Rya2cwdnAwYTNUOWp4RVJlUjhOZExrbWVYenJvVGNtclg1bXJ3dVVidHZ6Z1lPWEF0LVhoWWY0YW4xdm42RDZPVA?oc=5>
-
-### “腐败且违宪”！特朗普因月付10万美元“抢先看”服务被起诉
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-08-13 04:05
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1tTy1PVG1UUFdUaWo3ZVY5eTdRTFNjV0ludGNTeGJLZ0h1bkxnWHdvVFdzZzhMc0gwc1BNZW41eDV4ajVvMzAtVUlfV0hlLVhVQ19TNlBsUkhFeS1IdWtyTDBFWVVab0s3UUE?oc=5>
-
-### 部署导弹、调换专机，白宫“加码”保卫特朗普
+### 真实社交付费优先看被指违法 特朗普新服务惹争议
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 中华网
-- 时间: 2026-08-13 02:27
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9XNjRLQ2hJY2hIYVVKa0dPLVNNa3J0eElTUS1WUmNDT3BNdU51MndXRmxPY0xudGdWWWh4ZHVnOThZLWVoSl96STREQUxEQjZhV2s2ZUsyRGhFSjRkMlp1ME11TTE5RWdpTzcxaTRyeHk?oc=5>
+- 时间: 2026-08-13 08:43
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1SYmhMRjNKd1FUUURubFlpSEMxaEF4TkVFT3N4V2FXZmpHdGNCa2NYRkRORUNNa3VWSGl4cWxRTExFTTlSczE4dHBxZGpzY1lUbjdtWDZ3S2NWRTNKcjhuNXV0aFdPTWZ0YVJkX3oxOUs?oc=5>
 
 ### 特朗普媒体科技：超十家客户订阅“真实社交”实时数据流
 
@@ -61,20 +27,45 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-08-11 03:21
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxOM3BLazdfem1MWTUyZ3l0ZC1RVEVyQ0hycFNETWkyR2dOTTNJdF9qc2hsRDlhWHNRZWtqUTZ5NXViY1hISnNaNl9kM2V6YkR0TjVSQTFSLUNOSXVhSDVkUUh3c28tbndJbElTbDNRblJhQ1JjS0t1V19PeXgxZUNwaUxKSFc1X2k5WmVwc0xvMGxVaFVpdXowRUdsVDV4R0FhOG1ETkxfbzNOZ0tuSzIxWXBiWHVOY0NtYjQzM0lGRzlFSlg4bTJuZ0I5eGM0aGYwamhYVVB3YkUtM2Z3VENj?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZV9TVnZzWjdVMHNIeEhtRHQxNnk4eVctZndzaDU4Z0VoZUwtN2NsOHpSZ0h6WFZtNnh2VFBiY3pkZGRvZmNsa0FrdmVneHNEYjJjOXh3V0hfX2ZZQ1c0SnpHQnhCaHg2ZlRFNlhQNjV1V2RPMGRMaUVlRE9vbWlzYzh1cWJtY0lYV0JIZjBPOTdXOXdNSkxQclZqN1M5dnF2Q0gzQzdUSGx5ZWhiRm1iYzFWal9CY3RfWkZ6LUlkUU1YTzJ2dkVUUjlxa0NJeUlYTnhVY2VFTzhVV3A2bmZz?oc=5>
 
-### 面对特朗普和日益加深的全球分歧，G20能否幸存？
+### 特朗普谈“是否谋求第三任期”：我很想参选，但法律太严格，活动上大家都在高喊2028！此前民调
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 每日经济新闻
+- 时间: 2026-08-13 03:04
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFB2VEJUaEdveGp2LWo2bmNhSFBGVHREZnk5Y1BqZGRvbUtpcC1uYV9ZRVk5TzdRaU1TektqLVg1aExfSnNWa0tIR1pmTm1TMWV4YS0xWEx4Tk1uWnZ3YnRJNjBMakt4dw?oc=5>
+
+### 职业外交官为助选金主让路，特朗普政府的大使团队有多业余？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-08-13 04:01
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXMktINUVrS0ZoaTZpeXdqZDVMQkdWS1FxeWN2UHU2UDZMYW0tbUE2Z2doNHlWRmJCRGVqX2NaRmVlclFDcnlwcVlSTnJ3OHI4SWxhT2hXXzBPNXFEYi1KYg?oc=5>
+
+### 特朗普被起诉：“真实社交”允许客户提交每月6万至10万美元费用，以优先获取帖文，美国新闻机构指其“违宪且腐败”
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: The Business Times
-- 时间: 2026-08-12 23:00
-- 链接: <https://news.google.com/rss/articles/CBMirwFBVV95cUxPbE9qTG9NTllMdVptOGhId2VkSHpCOEhtdXExZnZPLU8xMnE1UlZIR3lIUWdfcVNEVzlDVjZwajVQc3V2dlZETzRkMDVMa1dMM0NRaG9jYVRPZDMwRXRzQ3llN3AyVEYyeC1IdnViVGNMcEtOdEhoaEJQd05SZ2kwc3J2dmR4NVVxYTlxNUNNczZ6SnpJeVFKRkJrY2tQQXJjNmQ4VUktNEVYcG1TVzZz?oc=5>
+- 场馆: Sohu
+- 时间: 2026-08-13 02:35
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxPZmZzdDh2SmdlUnlYcUZQc0VYbnhad0JQWExJTzV3UzVQZHozTVZtcTRVSlV0RXdHVzNuZjdaLUpiYjRPamZoYmpzVS0tVTMzWjV3aUtNdUJmUk5fT3A0Rjc4dFBlanNfT2JTQmRVWmQxb3oyN0xIN0M3XzFaR00yY0kwQmkwYk1LOVRuQg?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-13 09:38  (6 条)
+
+- **周杰伦** | 周杰伦青岛演唱会最新消息：开票时间公布！ <https://k.sina.com.cn/article_2042940315_79c4cb9b01901bor8.html>
+- **特朗普** | 真实社交付费优先看被指违法 特朗普新服务惹争议 <https://news.google.com/rss/articles/CBMicEFVX3lxTE1SYmhMRjNKd1FUUURubFlpSEMxaEF4TkVFT3N4V2FXZmpHdGNCa2NYRkRORUNNa3VWSGl4cWxRTExFTTlSczE4dHBxZGpzY1lUbjdtWDZ3S2NWRTNKcjhuNXV0aFdPTWZ0YVJkX3oxOUs?oc=5>
+- **特朗普** | 特朗普媒体科技：超十家客户订阅“真实社交”实时数据流 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZV9TVnZzWjdVMHNIeEhtRHQxNnk4eVctZndzaDU4Z0VoZUwtN2NsOHpSZ0h6WFZtNnh2VFBiY3pkZGRvZmNsa0FrdmVneHNEYjJjOXh3V0hfX2ZZQ1c0SnpHQnhCaHg2ZlRFNlhQNjV1V2RPMGRMaUVlRE9vbWlzYzh1cWJtY0lYV0JIZjBPOTdXOXdNSkxQclZqN1M5dnF2Q0gzQzdUSGx5ZWhiRm1iYzFWal9CY3RfWkZ6LUlkUU1YTzJ2dkVUUjlxa0NJeUlYTnhVY2VFTzhVV3A2bmZz?oc=5>
+- **特朗普** | 特朗普谈“是否谋求第三任期”：我很想参选，但法律太严格，活动上大家都在高喊2028！此前民调 <https://news.google.com/rss/articles/CBMiZkFVX3lxTFB2VEJUaEdveGp2LWo2bmNhSFBGVHREZnk5Y1BqZGRvbUtpcC1uYV9ZRVk5TzdRaU1TektqLVg1aExfSnNWa0tIR1pmTm1TMWV4YS0xWEx4Tk1uWnZ3YnRJNjBMakt4dw?oc=5>
+- **特朗普** | 职业外交官为助选金主让路，特朗普政府的大使团队有多业余？ <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXMktINUVrS0ZoaTZpeXdqZDVMQkdWS1FxeWN2UHU2UDZMYW0tbUE2Z2doNHlWRmJCRGVqX2NaRmVlclFDcnlwcVlSTnJ3OHI4SWxhT2hXXzBPNXFEYi1KYg?oc=5>
+- **Trump** | 特朗普被起诉：“真实社交”允许客户提交每月6万至10万美元费用，以优先获取帖文，美国新闻机构指其“违宪且腐败” <https://news.google.com/rss/articles/CBMijAFBVV95cUxPZmZzdDh2SmdlUnlYcUZQc0VYbnhad0JQWExJTzV3UzVQZHozTVZtcTRVSlV0RXdHVzNuZjdaLUpiYjRPamZoYmpzVS0tVTMzWjV3aUtNdUJmUk5fT3A0Rjc4dFBlanNfT2JTQmRVWmQxb3oyN0xIN0M3XzFaR00yY0kwQmkwYk1LOVRuQg?oc=5>
 
 ### 2026-08-13 08:19  (8 条)
 
