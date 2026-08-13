@@ -1,40 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-13 14:18**
-- 本轮扫到 9522 条, 新增 **3** 条
+- 最近更新: **2026-08-13 15:29**
+- 本轮扫到 9524 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (2 条)
 
-### 以色列情报迫使特朗普换机，中情局质疑
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪军事_手机新浪网
-- 时间: 2026-08-13 13:29
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE55cVEwZ0NobDZzcWZBUzk0SXdvM0xRWXhGY1U5QnYxX3ZwOE5kNmpBRUNGODN0SzFIUHUwTmM3RzZ6UENQRjV5VWVMWVRkM2R6ZVNibHJqc1dXTzhHblhBVU01RExEdmVwQXhkUTdRVTY4QmM?oc=5>
-
-### 特朗普因Truth Social提前访问权交易被起诉
+### 特朗普称白宫新闻秘书莱维特将离职
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-08-12 15:26
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxQakkwc0tjazJTamk2UVBxQXJBelpyeWREMjZlczllOTJFbVRRMThRdzNscDdWYVRSZWtZeWthOFpXc3FkLUJLTEJyQUNaYmtmNHZldjNQbTQ3NG9LdjhJM3NyVGhQaXpCTnZNbXUxOWM1dGwxS015X01WWERtdll6b1d6SDRBUFh4OGNPMVlkYS12dG5JNGVhYktpVW91REFyaENxcmpBREVMSDVuNjRWVk15dFo5b2xJdmY4M2Q3XzlWV3dFZktoSnpXNElfNWh1U1VXTUdkakdLNE5nQ25B?oc=5>
+- 时间: 2026-08-12 20:03
+- 链接: <https://news.google.com/rss/articles/CBMijwJBVV95cUxPWXhMaVZGZ2xsTURNZVJuQW9SbTFPai1RQmI1amFGQUt0a3lOZ1l1ZkJvR18tZnZKMTBQeHhqRUpfUnljcy00REJBNmJVUlAwQWNndTVQa0NuNFNrQTAteUVUYXhtZ1Y1Z3hsSU92RzFacVNqMnRQcnBPZGVLQmpuaTR3LVVfTnlQR3dhTDNZSFVyR3d2WUg3OEN5S2NlYXVwN3hsbnNZa3NxN3VYTTRDOFVkYlhfZ1NEVkFRQ2dHaUNmQnVZTXk4QW96cnpVckpPRE1HU3QzTEYweVY2Ry1TRzc5VllvV2s2bUw3Q19OWnFhVGVuTWJSVTAzWnh4YWYzQldTdFlKVTFEX2Fxbmxn?oc=5>
 
-### 鲁比奥吐槽：特朗普总是先发帖再通知，我都不知道自己要当国务卿
+### 特朗普民调再创新低 仅剩三分之一美国民众认可其表现
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-13 08:59
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9wVjctZmd2UXZibkVXQjVBQnpvWHJOUHdGejZTUGdySXdHUUNSeUZLZ20yVWcwc25xUjBQTUVyOTRXUzJETjRWNXA1d20?oc=5>
+- 场馆: 财联社
+- 时间: 2026-08-13 09:06
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE1JTU9UOXFqSTROWngxM3daUkhJQ1VnN3FwUjBLMmJVbFR4UjRNOENJeHBHTWdlT3RZYmdubGpVZG9fd0tudE9JbQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-13 15:29  (2 条)
+
+- **特朗普** | 特朗普称白宫新闻秘书莱维特将离职 <https://news.google.com/rss/articles/CBMijwJBVV95cUxPWXhMaVZGZ2xsTURNZVJuQW9SbTFPai1RQmI1amFGQUt0a3lOZ1l1ZkJvR18tZnZKMTBQeHhqRUpfUnljcy00REJBNmJVUlAwQWNndTVQa0NuNFNrQTAteUVUYXhtZ1Y1Z3hsSU92RzFacVNqMnRQcnBPZGVLQmpuaTR3LVVfTnlQR3dhTDNZSFVyR3d2WUg3OEN5S2NlYXVwN3hsbnNZa3NxN3VYTTRDOFVkYlhfZ1NEVkFRQ2dHaUNmQnVZTXk4QW96cnpVckpPRE1HU3QzTEYweVY2Ry1TRzc5VllvV2s2bUw3Q19OWnFhVGVuTWJSVTAzWnh4YWYzQldTdFlKVTFEX2Fxbmxn?oc=5>
+- **特朗普** | 特朗普民调再创新低 仅剩三分之一美国民众认可其表现 <https://news.google.com/rss/articles/CBMiSEFVX3lxTE1JTU9UOXFqSTROWngxM3daUkhJQ1VnN3FwUjBLMmJVbFR4UjRNOENJeHBHTWdlT3RZYmdubGpVZG9fd0tudE9JbQ?oc=5>
 
 ### 2026-08-13 14:18  (3 条)
 
