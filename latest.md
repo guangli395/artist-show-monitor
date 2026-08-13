@@ -1,104 +1,73 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-13 05:29**
-- 本轮扫到 9491 条, 新增 **12** 条
+- 最近更新: **2026-08-13 06:57**
+- 本轮扫到 9497 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (12 条)
+## 本轮新发现 (6 条)
 
-### 杰威尔音乐对MV女孩身份发布了什么声明？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923118_1d5ae15ae06801ohpu.html>
-
-### 周杰伦如何回应狗仔关于MV女孩的追问？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923118_1d5ae15ae06801ohps.html>
-
-### 杰威尔音乐对周杰伦MV女孩绯闻发布了什么声明？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923373_1d5ae16ad06801ewb4.html>
-
-### 狗仔硬刚周杰伦MV女主 本尊淡定回应：只是工作伙伴
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923373_1d5ae16ad06801ewb0.html>
-
-### 特朗普：白宫新闻秘书莱维特将于本月底离任
+### 被控涉嫌违宪 特朗普因帖文付费优先访问服务遭起诉
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 中国网新闻中心
-- 时间: 2026-08-13 04:14
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE1zZmxQZDE0djkyQl93Q2JlUXNSUjFIdjB6dTQydW5XeFZfdVZrTEtSVk4yalM4U1BJZFdrdF9hSHFlZUZ2WF85UkF2QVZ0RV85Vk5sUmpVNWpPZXp0YlA4NEVlcXQwUmtiQ0hF?oc=5>
+- 时间: 2026-08-13 05:35
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE5OVWRjUDVEYzMxdVNQOWpRUjJWekxJb0JOOUdua2hHbFJ4aGIxcHV3bkc2MDZ1RzlDc3ZISWNTSDVsdW1uaXdJMlc5R0x2VExLWVhMcUJJbXdMV0ltU09WYXZ3NnF5bkhoWDdj?oc=5>
 
-### “特朗普是销冠！”高油价推动发展中国家电摩市场-观察者网
+### 推出“付费优先看帖”服务，特朗普被告了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Jiemian.com
+- 时间: 2026-08-13 03:18
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE9peWdDWlR1Mi1JUFFKTmY5NWh0N203TDc0ZjBQVWVCQll1SzhQek9fLVplQnJ6T3pXS1k5YWtBMnA2U1VNS3FWSFh6VGJXejZEc3FMYWYyVVE?oc=5>
+
+### 特朗普制裁国际刑事法院 遭四人权组织起诉违宪
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-08-11 15:18
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5BbFpDazlzNWVpN205dWpadERQZ0w5NFhCRi1EWGp4c19PcjM3NEtONlRFU2VSZkV6VW5NR3BXeURWQXhOdUM3ZHkwY2cyN1R3N0hPS250cEtNaElSYmoyNjhZTk5Udw?oc=5>
+
+### 特朗普要求伊朗“为数十年来美军士兵的死亡支付赔偿”，伊朗驻外使馆列举美国19项罪行：究竟该谁赔谁？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-08-13 06:24
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBNUzhDcGRFYndxT2tjV0FiVFM5b0FVN0VmTktTalIzMWlRN0FESmxNcl9rZTFpcFlyS0w1dmx1cU1kY2dOUlNHSjl6cHlXOTNPckpvRlRrM1lsOHduMkVOSHdiY3hXdFh1RWdYV1VYdlo?oc=5>
+
+### 特朗普继续吹牛，彭博社着急：美国应让联合国参与海峡管理-观察者网
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 观察者
-- 时间: 2026-08-13 00:42
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBEU1ZITWY1Rm5sem1lR2FicFdpVXZBQ2ZVRDhwZENiWlJ6c0xVWUVlUVpFY0RyV3FBZUVOQnJIR3RnQnBJSUhUSFJXNGNBMlhkWWJ6WDkyUzZ5VHEwcUxVa0JmMXV6c2F3cVE?oc=5>
-
-### 特朗普媒体科技：超十家客户订阅“真实社交”实时数据流
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-11 03:21
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQzB1MVpVdnU5ZGJTZkJSTnNnMXhVVTJ3STBWTmItTF9TYjZjTFNvMUQtekpmTUpnTlRCNGtCOUhUeHlWdy1lODJrQVlHbXRSOGtfMnp3Tm12N0htckdubFh0bVJKQlhXb0x2Y0VFRnFELXNXZVcxWUFZNUtRRzNkWENaZmxGbml6U3EyNV9HWnFLRHhJR3BuOWtvYXhyZ1V1UDhuNWx2WGhweTZldDd4d2lYNF9zVXhsZHc4MlVUMzRDVVd0OTVQREFUY0NPakZDUy1fMkF6OHVQQlBIT0lF?oc=5>
-
-### 特朗普宣称“美国完全控制着霍尔木兹海峡”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-08-12 23:28
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SQVNoYjdzLWpJNHBnV0FhZXptSFZPWE55TFc2ZDAtNzRvRlJrcm5rVzRsNWxuaC1aQy1tS2JONjF2Q0xDOU40U3hKbmU3WFg2RlpiZWVPVDJGNGxJNzV5VGstaGo?oc=5>
+- 时间: 2026-08-13 05:34
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE4zeE5nSThkSVVQbW5uZUliMDh3RGZPVjF3cTVCM29jWjg3dm9fSU9DZmFwWWNPSy12ODVHdUtIMWRURmNYaVVfU3hkVnlFWm9PakJRcUhfYUJ0T0VFNnJma2dTQVlqTjBlV3c?oc=5>
 
 ### 特朗普：白宫新闻秘书莱维特将于本月底离任
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 湖南红网
-- 时间: 2026-08-13 01:08
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9UMl9HYk1FTTdmOFlMRDY3U0w0al9YNk9YMk5uWnRwWGVXcWdGMDRVSW9EdGVxQ052V09CLWU3ZjMwTGJQNG9oU3V0UE9KQWthVHpfcVdGRlozaVBWTTdnYjRfd3o?oc=5>
-
-### 相比普京，特朗普秘密换机不过是“小儿科”
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-08-13 03:17
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE53SkV5dkxQSTY0YjU4N1ptUndnZkg2QWdLU1ZFdW5sQTkzLXRPa091bGJOaUMwMUNEYlBiLUplMG82a2Q2a2JsckZOY3VKaUVDWEh1bjJoRlVyZ0FuRU1jYjA5ZTdHeFc2bmUtd2Niai1MdVFj?oc=5>
-
-### 我曾是切尼的心脏科医生，特朗普看起来身体不太好
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-08-13 03:27
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZVDkyZ2lEN21vX0M1NkNEZDdIMUxydW9CVUJQSUJpWExPQkhjZlNOS0F4X1NlRGQ4eTUyeVYzQWh6blpHS2tNa0VrM21MWXRxQmI5RGlqZHcwTFdhM1dtNE4xRzR3ZkU3QWQ2VS1KNi0?oc=5>
-
-### 社媒帖文付费可抢先看惹官司 特朗普遭起诉
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-08-13 05:08
-- 链接: <https://news.google.com/rss/articles/CBMirgFBVV95cUxQMjZCdkJwdmNQN3podHdsN1J2UGQ4UWR0MXE4YUVyUDhwUmpSUEh6UW4zLURQc0xnUTJsWXBZWXczNTA1M2E1TExsUUxOQ0tYcmtmdnBYWkltTURFRklKaWl0dUhMZVFGMV9SNk1KUDFVQzh2VnlhVmVuMVFWWFVPazdYTnBqSmdRNVFNSnpqOTJsbkdLTTMtNjFVSWt3dXlaS0UzckVJYmFRb1JmcFE?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-08-12 19:41
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE53Mlpmdm4yc2h4ZVZMcUFiamlwYjVzaXVqQ2o0V240bFZXWHZWRktVb0lmcjY0aHRpYjA0ejRHSEtCS0w5QWZsd0lZWnhnSnUtX1FzODEzeHRjbVRMU3p5RTdnU05qRU9PdXluNGxyc1FZa2tDV1NUTg?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-13 06:57  (6 条)
+
+- **特朗普** | 被控涉嫌违宪 特朗普因帖文付费优先访问服务遭起诉 <https://news.google.com/rss/articles/CBMia0FVX3lxTE5OVWRjUDVEYzMxdVNQOWpRUjJWekxJb0JOOUdua2hHbFJ4aGIxcHV3bkc2MDZ1RzlDc3ZISWNTSDVsdW1uaXdJMlc5R0x2VExLWVhMcUJJbXdMV0ltU09WYXZ3NnF5bkhoWDdj?oc=5>
+- **特朗普** | 推出“付费优先看帖”服务，特朗普被告了 <https://news.google.com/rss/articles/CBMiWEFVX3lxTE9peWdDWlR1Mi1JUFFKTmY5NWh0N203TDc0ZjBQVWVCQll1SzhQek9fLVplQnJ6T3pXS1k5YWtBMnA2U1VNS3FWSFh6VGJXejZEc3FMYWYyVVE?oc=5>
+- **特朗普** | 特朗普制裁国际刑事法院 遭四人权组织起诉违宪 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5BbFpDazlzNWVpN205dWpadERQZ0w5NFhCRi1EWGp4c19PcjM3NEtONlRFU2VSZkV6VW5NR3BXeURWQXhOdUM3ZHkwY2cyN1R3N0hPS250cEtNaElSYmoyNjhZTk5Udw?oc=5>
+- **特朗普** | 特朗普要求伊朗“为数十年来美军士兵的死亡支付赔偿”，伊朗驻外使馆列举美国19项罪行：究竟该谁赔谁？ <https://news.google.com/rss/articles/CBMicEFVX3lxTFBNUzhDcGRFYndxT2tjV0FiVFM5b0FVN0VmTktTalIzMWlRN0FESmxNcl9rZTFpcFlyS0w1dmx1cU1kY2dOUlNHSjl6cHlXOTNPckpvRlRrM1lsOHduMkVOSHdiY3hXdFh1RWdYV1VYdlo?oc=5>
+- **特朗普** | 特朗普继续吹牛，彭博社着急：美国应让联合国参与海峡管理-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE4zeE5nSThkSVVQbW5uZUliMDh3RGZPVjF3cTVCM29jWjg3dm9fSU9DZmFwWWNPSy12ODVHdUtIMWRURmNYaVVfU3hkVnlFWm9PakJRcUhfYUJ0T0VFNnJma2dTQVlqTjBlV3c?oc=5>
+- **特朗普** | 特朗普：白宫新闻秘书莱维特将于本月底离任 <https://news.google.com/rss/articles/CBMieEFVX3lxTE53Mlpmdm4yc2h4ZVZMcUFiamlwYjVzaXVqQ2o0V240bFZXWHZWRktVb0lmcjY0aHRpYjA0ejRHSEtCS0w5QWZsd0lZWnhnSnUtX1FzODEzeHRjbVRMU3p5RTdnU05qRU9PdXluNGxyc1FZa2tDV1NUTg?oc=5>
 
 ### 2026-08-13 05:29  (12 条)
 
