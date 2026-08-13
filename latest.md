@@ -1,56 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-13 19:33**
-- 本轮扫到 9536 条, 新增 **5** 条
+- 最近更新: **2026-08-13 20:34**
+- 本轮扫到 9538 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (2 条)
 
-### “特朗普媒体与科技集团”（TMTG）的付费服务遭起诉
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-08-13 18:35
-- 链接: <https://news.google.com/rss/articles/CBMiiANBVV95cUxPTVBzeU5vRWF4Y2xxZ2lDNzJvTkZUS3o1UnRCd0ppVlJMbDhsVGF4Vm5pLVNta1FuX1Z6WUVsRC05S1BrUWRZc1FDZzJudGt3YjVscmpsYWRUX0w1bzVCSDFURUhOWWJiRS0taG1hMW5ZZFZlZENiek92TlM0Ty1ZdWlzcktWWWEzdlo1OVI5TGNmRGtjQk1GUWM3QUVIOG5JbXN5VU1vT0ZvamFzSGM0d2FGWUlsTG5ibDRhZXZJM3JOVFphZk9uSE1jWkxDZVpzSTJtWjdFUVpjOWxvT1FtS1pzb3QxeVhoQ3BhWTY0d3dPTi1rZHQtN0hPcWUxUF9ubjZUZThGQTBEdUt4Vm1JSVdBT3Jmd1RKdTRDZ0ZMMlFSR3ktZ2JYTmtTTnRKODN0T2JoMWNuOHBacExKZ0RlbWZ5M3pNTnZCakFCS3ZzYWM0Q2ZoNU5jVkQyT1FZWm5IOWZiVjVRNk8xLW50d2hYaVJ1VncxMEY1Wk9fVXQ1Z0xrSG1BZzVkTw?oc=5>
-
-### 特朗普宣称“已完全控制霍尔木兹”，但油轮还是不敢走
+### 特朗普声称掌控霍尔木兹、伊朗坚决否认 海峡通行量跌至三个月最低
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-13 19:17
-- 链接: <https://news.google.com/rss/articles/CBMisAFBVV95cUxOXzIzRFJ5RFRfRVVHX210eE5jQVJSM1loOW5XaEhoNnZOTHVPX3V1N1hHellkYWx3LV9QZVNIYzNPT2xLTk1UdGRlVG1sUkUxV2d1WGdDTUkxVlJTZ0p1QWh5eVI2UEp4RzVXTldMQ1NlT3VoSVdaaWQ1NlpUdUQ1eGFmT2g2ZmZpOWp4Nk1fMkU5LW1Jb1hvV1ByWEM1Z19JbWNDR0lGZ0FvTTA2TjUwUQ?oc=5>
+- 场馆: 东方财富
+- 时间: 2026-08-13 00:34
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PTllrNDd1NHpOTTJha3N0MTU5UV9rVjlUYm5GOWN5YS0wYWhVbUtXbVA3UGs3eHd1ZHFXVkhXZm82ZFFBdE1Gc1lmS29lWEpMQU55bWtqRmVhUVppVjRPag?oc=5>
 
-### 最年轻新闻秘书，“弃特朗普而去”
+### 白宫新报告：40多国通过转运帮助中国逃避美国关税
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-13 12:47
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE42eXkyZ0NkdGRfUmhLckREN2tkRkJEMUpaMzc4WG5hSTlMVGRHelZJSXotV2t4NktmOVVLWDJKVUprbHFSc0JSMjZBU0w?oc=5>
-
-### 下黑手！特朗普政府开发AI工具打击贸易伙伴：让你们帮中国
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-13 12:35
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE43NWotQTFPR2NOVFVzamNmRldoemN4RHNNQ3NTdzZzLVE3aTlJSE1jelROUmJBbDZBUU9fd2ZKcDc0dnlUdWRfOTBmcXo?oc=5>
-
-### 总统唐纳德·J·特朗普Archives - Page 19 of 19 - 美国驻华大使馆和领事馆
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: U.S. Embassy & Consulates in China
-- 时间: 2026-08-13 17:05
-- 链接: <https://news.google.com/rss/articles/CBMi1AFBVV95cUxOX2tKTThoaXR2U3ZGRGp4aElwODh2blI0RGlDNWZBVmxWbEJFSWd4QU9wYlAxWVlMNE5XSUhkcG1oYm1UYWhlRElXczFvYkV2WFJXc2xfb2IxcmlaT201b0EzOEh4N2Z5dWJDMW85bmx5OGZ0T1NRWnFSYkpGSTZBeWN5ZW1NZERURi1PT2hNX2VmRmNZb1VnYi1NTDZZbEJITFNqZEI1aXF4NXdYQ3lma2lDNEdiUDVLZHp1RUdrMmNBVE5rWjRfWklwdlB5elpMb1FOcQ?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-08-13 20:28
+- 链接: <https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWEF2NUpnbWlPZTVVSGRzdzJ3aU1HOGt4azlPLWN3WmVUanVfaW5USzBIY3UtYU9NeVE0TF9hbjZ2OWZ6UzBmNWRGSS1tZXBqVnhIWGFLelVTby0xOXhCR0ktdDB0eHJhcnlIaGZGTFZFa2pZRUxkWEpad3V1MVBDNmp1dU9oUFJNMjFoeFUtY0Y5SGoxVjc2Mk16VWNabThhOTBhSWRXNDlnbUdBaWVTRFRXREstMkFheUdWenRqZml2b1dwSGJLanF1S0xRaXlCRFE0Z9IB1wFBVV95cUxQS3Y5dGt2OXpKeG85eEswVmJHOFBaQ2dTVzUzcWxVeVlDTnplNEs0eThBdkJoSVdQOUlnRWZyZjgtSy0tVFJyYWpfTmVnNmVfYmx5NWdCZFhLYU1Md05vcGdHS3JDWjRFNzU1R0xLb19ZOHZsbEJBY2NodGdnZ0JYMmR3SFJ0TFV0SkQtWlpvdHlSYXJ4a09mRjdQVEJ6VS11dEMwellYOThzQkxYM0FHa0pkWE1haUxEcHRyMkdMdTBURmF1bkR1TFd2R0Y5bUNSTHBCTkphbw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-13 20:34  (2 条)
+
+- **特朗普** | 特朗普声称掌控霍尔木兹、伊朗坚决否认 海峡通行量跌至三个月最低 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PTllrNDd1NHpOTTJha3N0MTU5UV9rVjlUYm5GOWN5YS0wYWhVbUtXbVA3UGs3eHd1ZHFXVkhXZm82ZFFBdE1Gc1lmS29lWEpMQU55bWtqRmVhUVppVjRPag?oc=5>
+- **Trump** | 白宫新报告：40多国通过转运帮助中国逃避美国关税 <https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWEF2NUpnbWlPZTVVSGRzdzJ3aU1HOGt4azlPLWN3WmVUanVfaW5USzBIY3UtYU9NeVE0TF9hbjZ2OWZ6UzBmNWRGSS1tZXBqVnhIWGFLelVTby0xOXhCR0ktdDB0eHJhcnlIaGZGTFZFa2pZRUxkWEpad3V1MVBDNmp1dU9oUFJNMjFoeFUtY0Y5SGoxVjc2Mk16VWNabThhOTBhSWRXNDlnbUdBaWVTRFRXREstMkFheUdWenRqZml2b1dwSGJLanF1S0xRaXlCRFE0Z9IB1wFBVV95cUxQS3Y5dGt2OXpKeG85eEswVmJHOFBaQ2dTVzUzcWxVeVlDTnplNEs0eThBdkJoSVdQOUlnRWZyZjgtSy0tVFJyYWpfTmVnNmVfYmx5NWdCZFhLYU1Md05vcGdHS3JDWjRFNzU1R0xLb19ZOHZsbEJBY2NodGdnZ0JYMmR3SFJ0TFV0SkQtWlpvdHlSYXJ4a09mRjdQVEJ6VS11dEMwellYOThzQkxYM0FHa0pkWE1haUxEcHRyMkdMdTBURmF1bkR1TFd2R0Y5bUNSTHBCTkphbw?oc=5>
 
 ### 2026-08-13 19:33  (5 条)
 
