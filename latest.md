@@ -1,40 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-13 12:55**
-- 本轮扫到 9519 条, 新增 **3** 条
+- 最近更新: **2026-08-13 14:18**
+- 本轮扫到 9522 条, 新增 **3** 条
 
 ---
 
 ## 本轮新发现 (3 条)
 
-### 特朗普民调支持率触及两届以来新低 四成美国民众盼发生“革命性”变化
+### 以色列情报迫使特朗普换机，中情局质疑
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 财新
-- 时间: 2026-08-12 23:59
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE02dm9lVXQ1Y0h5UVh0Zm5SQnMzOXlQalgxZ0t6LTFNUHB2QWtCS3ZiTHFScWlVNlNSakxXYmVOdWtmZlhVemV0LUZ5VWFtelB2SDJrMHFCckgzWjBoVldVTF84d3dkUWw5WHc?oc=5>
+- 场馆: 新浪军事_手机新浪网
+- 时间: 2026-08-13 13:29
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE55cVEwZ0NobDZzcWZBUzk0SXdvM0xRWXhGY1U5QnYxX3ZwOE5kNmpBRUNGODN0SzFIUHUwTmM3RzZ6UENQRjV5VWVMWVRkM2R6ZVNibHJqc1dXTzhHblhBVU01RExEdmVwQXhkUTdRVTY4QmM?oc=5>
 
-### 贴身女助理随特朗普挤进餐车换机？英媒曝光更多细节
+### 特朗普因Truth Social提前访问权交易被起诉
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-12 15:26
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxQakkwc0tjazJTamk2UVBxQXJBelpyeWREMjZlczllOTJFbVRRMThRdzNscDdWYVRSZWtZeWthOFpXc3FkLUJLTEJyQUNaYmtmNHZldjNQbTQ3NG9LdjhJM3NyVGhQaXpCTnZNbXUxOWM1dGwxS015X01WWERtdll6b1d6SDRBUFh4OGNPMVlkYS12dG5JNGVhYktpVW91REFyaENxcmpBREVMSDVuNjRWVk15dFo5b2xJdmY4M2Q3XzlWV3dFZktoSnpXNElfNWh1U1VXTUdkakdLNE5nQ25B?oc=5>
+
+### 鲁比奥吐槽：特朗普总是先发帖再通知，我都不知道自己要当国务卿
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-08-13 10:29
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5XM3FpZXZsZHZUN3kzWlRrQmM3SzhWcDRob19mZUlLMGdPbjdrMFJuWnRYWlI2ZGY1Wi1KM2I0eElrN1hETUFVb085MXc?oc=5>
-
-### 特朗普证实“秘密换专机”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经_金融信息服务商
-- 时间: 2026-08-13 05:55
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE8wV1VERldjemt6UEZVaXNDZFJXcE1wMms5SGdrYlQxYmU3WHhlYXlxQllNeG9MbFpqaURMUkNVNDlPb2JnVzdsenIydXdvZi1vUGNaa1pGZGR0dThXTW51QzVrM1B2N3N6OGxiWTZzQzNsTjgwWTl4cg?oc=5>
+- 时间: 2026-08-13 08:59
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9wVjctZmd2UXZibkVXQjVBQnpvWHJOUHdGejZTUGdySXdHUUNSeUZLZ20yVWcwc25xUjBQTUVyOTRXUzJETjRWNXA1d20?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-13 14:18  (3 条)
+
+- **特朗普** | 以色列情报迫使特朗普换机，中情局质疑 <https://news.google.com/rss/articles/CBMic0FVX3lxTE55cVEwZ0NobDZzcWZBUzk0SXdvM0xRWXhGY1U5QnYxX3ZwOE5kNmpBRUNGODN0SzFIUHUwTmM3RzZ6UENQRjV5VWVMWVRkM2R6ZVNibHJqc1dXTzhHblhBVU01RExEdmVwQXhkUTdRVTY4QmM?oc=5>
+- **特朗普** | 特朗普因Truth Social提前访问权交易被起诉 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxQakkwc0tjazJTamk2UVBxQXJBelpyeWREMjZlczllOTJFbVRRMThRdzNscDdWYVRSZWtZeWthOFpXc3FkLUJLTEJyQUNaYmtmNHZldjNQbTQ3NG9LdjhJM3NyVGhQaXpCTnZNbXUxOWM1dGwxS015X01WWERtdll6b1d6SDRBUFh4OGNPMVlkYS12dG5JNGVhYktpVW91REFyaENxcmpBREVMSDVuNjRWVk15dFo5b2xJdmY4M2Q3XzlWV3dFZktoSnpXNElfNWh1U1VXTUdkakdLNE5nQ25B?oc=5>
+- **特朗普** | 鲁比奥吐槽：特朗普总是先发帖再通知，我都不知道自己要当国务卿 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9wVjctZmd2UXZibkVXQjVBQnpvWHJOUHdGejZTUGdySXdHUUNSeUZLZ20yVWcwc25xUjBQTUVyOTRXUzJETjRWNXA1d20?oc=5>
 
 ### 2026-08-13 12:55  (3 条)
 
