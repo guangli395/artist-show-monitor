@@ -1,32 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-13 20:34**
-- 本轮扫到 9538 条, 新增 **2** 条
+- 最近更新: **2026-08-13 21:37**
+- 本轮扫到 9542 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (4 条)
 
-### 特朗普声称掌控霍尔木兹、伊朗坚决否认 海峡通行量跌至三个月最低
+### 被控涉嫌违宪 特朗普因帖文付费优先访问服务遭起诉
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-08-13 00:34
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PTllrNDd1NHpOTTJha3N0MTU5UV9rVjlUYm5GOWN5YS0wYWhVbUtXbVA3UGs3eHd1ZHFXVkhXZm82ZFFBdE1Gc1lmS29lWEpMQU55bWtqRmVhUVppVjRPag?oc=5>
+- 场馆: finance.sina.cn
+- 时间: 2026-08-13 19:10
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9CZlBiS0NyQ1BNYXA2eVI0US1zaW1Lc3dLX3FwS3RQRzc1OWJaS1l3bGxmSDR5Sk9VbFBENlNkLXZMRkhQMi1MWVU0MEZBcHlrMkVPeXI4R29nMkt3ZllOT0UzQ05UTU1Hb0l4NG9MRngwWlVjNG81VA?oc=5>
 
-### 白宫新报告：40多国通过转运帮助中国逃避美国关税
+### 美法官驳回特朗普政府针对哈佛大学的诉讼
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-08-13 20:28
-- 链接: <https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWEF2NUpnbWlPZTVVSGRzdzJ3aU1HOGt4azlPLWN3WmVUanVfaW5USzBIY3UtYU9NeVE0TF9hbjZ2OWZ6UzBmNWRGSS1tZXBqVnhIWGFLelVTby0xOXhCR0ktdDB0eHJhcnlIaGZGTFZFa2pZRUxkWEpad3V1MVBDNmp1dU9oUFJNMjFoeFUtY0Y5SGoxVjc2Mk16VWNabThhOTBhSWRXNDlnbUdBaWVTRFRXREstMkFheUdWenRqZml2b1dwSGJLanF1S0xRaXlCRFE0Z9IB1wFBVV95cUxQS3Y5dGt2OXpKeG85eEswVmJHOFBaQ2dTVzUzcWxVeVlDTnplNEs0eThBdkJoSVdQOUlnRWZyZjgtSy0tVFJyYWpfTmVnNmVfYmx5NWdCZFhLYU1Md05vcGdHS3JDWjRFNzU1R0xLb19ZOHZsbEJBY2NodGdnZ0JYMmR3SFJ0TFV0SkQtWlpvdHlSYXJ4a09mRjdQVEJ6VS11dEMwellYOThzQkxYM0FHa0pkWE1haUxEcHRyMkdMdTBURmF1bkR1TFd2R0Y5bUNSTHBCTkphbw?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-08-13 21:33
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1McmV1U3hHdW9lZldHcUQ1Q2lseldFQ2xrZDJmS3pCWGRPQzhNOHlfc0x1MTlEczdRTzZfVEF1d2dtTVdxS1ZzQ2NpbEJTRzBLc09LTnBwX2lhdHhZRjBwLU1qVVFQV01fQ2R2YU1MQ08?oc=5>
+
+### 与特朗普存在关联的油气合资企业收到格陵兰政府警告，推迟钻探计划
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: finance.sina.cn
+- 时间: 2026-08-13 21:35
+- 链接: <https://news.google.com/rss/articles/CBMiigJBVV95cUxOQkMzb0oxVzJDTGRmVGhlVnQxNWxWcnVMR0FybUdIT1haaVAyOVMtd095SmdOWm5UbV92MUhjZm5zenJVTjN4MHY3aU4zX1pURVR6QTJDUC16S3pxN3RXd2VQTzZJMjViMDl4dHhYSFF2bnRjRXdyUmR5UlI2dlZYbTU1S1d5enZ6aXlsbm9NLWVJSGZDZG83Q1ViaGxmaGEzc3ZBbmVRbEg1X25WZDJxbjFreHIycmNGMmJTMGM2ZFkyN3d1VU00UlNUUXpOU3BJWVVxUUNRTE92WXpWN09LbGU3N1hGU2o4cEtZT0JRTFQwMkhRT1ZvWkZJTTV6dW1HMHh1LTRkSVdzZw?oc=5>
+
+### “伊朗可能延长与美国的战争，直到特朗普卸任”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-08-12 17:44
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1WcnZ2R013X3dlNGRXV2VjZmtzOGZZVlJVb3FwUzFWUFREU3hubVc3TnVtRU1kUmtYTlNyWjg3cDJBdzFtOVdJYmxmTHY?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-13 21:37  (4 条)
+
+- **特朗普** | 被控涉嫌违宪 特朗普因帖文付费优先访问服务遭起诉 <https://news.google.com/rss/articles/CBMieEFVX3lxTE9CZlBiS0NyQ1BNYXA2eVI0US1zaW1Lc3dLX3FwS3RQRzc1OWJaS1l3bGxmSDR5Sk9VbFBENlNkLXZMRkhQMi1MWVU0MEZBcHlrMkVPeXI4R29nMkt3ZllOT0UzQ05UTU1Hb0l4NG9MRngwWlVjNG81VA?oc=5>
+- **特朗普** | 美法官驳回特朗普政府针对哈佛大学的诉讼 <https://news.google.com/rss/articles/CBMicEFVX3lxTE1McmV1U3hHdW9lZldHcUQ1Q2lseldFQ2xrZDJmS3pCWGRPQzhNOHlfc0x1MTlEczdRTzZfVEF1d2dtTVdxS1ZzQ2NpbEJTRzBLc09LTnBwX2lhdHhZRjBwLU1qVVFQV01fQ2R2YU1MQ08?oc=5>
+- **特朗普** | 与特朗普存在关联的油气合资企业收到格陵兰政府警告，推迟钻探计划 <https://news.google.com/rss/articles/CBMiigJBVV95cUxOQkMzb0oxVzJDTGRmVGhlVnQxNWxWcnVMR0FybUdIT1haaVAyOVMtd095SmdOWm5UbV92MUhjZm5zenJVTjN4MHY3aU4zX1pURVR6QTJDUC16S3pxN3RXd2VQTzZJMjViMDl4dHhYSFF2bnRjRXdyUmR5UlI2dlZYbTU1S1d5enZ6aXlsbm9NLWVJSGZDZG83Q1ViaGxmaGEzc3ZBbmVRbEg1X25WZDJxbjFreHIycmNGMmJTMGM2ZFkyN3d1VU00UlNUUXpOU3BJWVVxUUNRTE92WXpWN09LbGU3N1hGU2o4cEtZT0JRTFQwMkhRT1ZvWkZJTTV6dW1HMHh1LTRkSVdzZw?oc=5>
+- **特朗普** | “伊朗可能延长与美国的战争，直到特朗普卸任” <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1WcnZ2R013X3dlNGRXV2VjZmtzOGZZVlJVb3FwUzFWUFREU3hubVc3TnVtRU1kUmtYTlNyWjg3cDJBdzFtOVdJYmxmTHY?oc=5>
 
 ### 2026-08-13 20:34  (2 条)
 
