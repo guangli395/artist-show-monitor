@@ -1,64 +1,91 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-13 06:57**
-- 本轮扫到 9497 条, 新增 **6** 条
+- 最近更新: **2026-08-13 08:19**
+- 本轮扫到 9505 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (8 条)
 
-### 被控涉嫌违宪 特朗普因帖文付费优先访问服务遭起诉
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中国网新闻中心
-- 时间: 2026-08-13 05:35
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE5OVWRjUDVEYzMxdVNQOWpRUjJWekxJb0JOOUdua2hHbFJ4aGIxcHV3bkc2MDZ1RzlDc3ZISWNTSDVsdW1uaXdJMlc5R0x2VExLWVhMcUJJbXdMV0ltU09WYXZ3NnF5bkhoWDdj?oc=5>
-
-### 推出“付费优先看帖”服务，特朗普被告了
+### “穿着高跟鞋的小特朗普”离职，中期选举关口谁能接棒特朗普的硬核传声筒？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Jiemian.com
-- 时间: 2026-08-13 03:18
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE9peWdDWlR1Mi1JUFFKTmY5NWh0N203TDc0ZjBQVWVCQll1SzhQek9fLVplQnJ6T3pXS1k5YWtBMnA2U1VNS3FWSFh6VGJXejZEc3FMYWYyVVE?oc=5>
+- 场馆: shobserver.cn
+- 时间: 2026-08-13 07:20
+- 链接: <https://news.google.com/rss/articles/CBMiXEFVX3lxTE13enF0LUZ0OUxETWtQZU85TEpjVnhwcUFHbnZPUHd4bTQ1Q2I2NGZIS1QwbUxxTlVsbmZxLVQtOUt3aktBOXJ1UEpmbTRleElxY1V6SGZBbDJQa0M5?oc=5>
 
-### 特朗普制裁国际刑事法院 遭四人权组织起诉违宪
+### 特朗普：最信任的新闻秘书莱维特将于本月底离职
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 联合早报
-- 时间: 2026-08-11 15:18
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5BbFpDazlzNWVpN205dWpadERQZ0w5NFhCRi1EWGp4c19PcjM3NEtONlRFU2VSZkV6VW5NR3BXeURWQXhOdUM3ZHkwY2cyN1R3N0hPS250cEtNaElSYmoyNjhZTk5Udw?oc=5>
+- 时间: 2026-08-12 23:31
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDR05SdkdQZDF4Vi1ueVFacndSb3h2Mm44N1Z2S3hOSVNyY2toSlNZRWlvaHpnWDhvYVZrTWJ6NnlrRDVnZklSQ3RDV21mVXdRUVh2YUIzc1RkclRxV3E5alFzZzdpdw?oc=5>
 
-### 特朗普要求伊朗“为数十年来美军士兵的死亡支付赔偿”，伊朗驻外使馆列举美国19项罪行：究竟该谁赔谁？
+### 美国特勤局如何玩弄“障眼法”，将特朗普在众目睽睽之下隐藏
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: BBC
+- 时间: 2026-08-12 15:04
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9HYTRxdUJNbEdrZS1qRkdpTmxnOXhPN0dOa0d2QjdEenl6WWxPYm9mOTNuS2xWY3d4Z1JBQnF2NVRoaUNUTnFRTHdQMVdBMDZuaVdTSWd1YUtDeGd3aEtGODdlX01DUQ?oc=5>
+
+### 美媒揭秘特朗普瞒天过海秘密换机全过程
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-08-13 06:24
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBNUzhDcGRFYndxT2tjV0FiVFM5b0FVN0VmTktTalIzMWlRN0FESmxNcl9rZTFpcFlyS0w1dmx1cU1kY2dOUlNHSjl6cHlXOTNPckpvRlRrM1lsOHduMkVOSHdiY3hXdFh1RWdYV1VYdlo?oc=5>
+- 时间: 2026-08-13 00:40
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1EaFpKd1JyUHZmNUNGQW9zdW1mZW9aN1IzbDNpbnlrZl96c2pEd0dxXzJ3Sk9vR3Rya2cwdnAwYTNUOWp4RVJlUjhOZExrbWVYenJvVGNtclg1bXJ3dVVidHZ6Z1lPWEF0LVhoWWY0YW4xdm42RDZPVA?oc=5>
 
-### 特朗普继续吹牛，彭博社着急：美国应让联合国参与海峡管理-观察者网
+### “腐败且违宪”！特朗普因月付10万美元“抢先看”服务被起诉
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 观察者
-- 时间: 2026-08-13 05:34
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE4zeE5nSThkSVVQbW5uZUliMDh3RGZPVjF3cTVCM29jWjg3dm9fSU9DZmFwWWNPSy12ODVHdUtIMWRURmNYaVVfU3hkVnlFWm9PakJRcUhfYUJ0T0VFNnJma2dTQVlqTjBlV3c?oc=5>
+- 时间: 2026-08-13 04:05
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1tTy1PVG1UUFdUaWo3ZVY5eTdRTFNjV0ludGNTeGJLZ0h1bkxnWHdvVFdzZzhMc0gwc1BNZW41eDV4ajVvMzAtVUlfV0hlLVhVQ19TNlBsUkhFeS1IdWtyTDBFWVVab0s3UUE?oc=5>
 
-### 特朗普：白宫新闻秘书莱维特将于本月底离任
+### 部署导弹、调换专机，白宫“加码”保卫特朗普
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-08-12 19:41
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE53Mlpmdm4yc2h4ZVZMcUFiamlwYjVzaXVqQ2o0V240bFZXWHZWRktVb0lmcjY0aHRpYjA0ejRHSEtCS0w5QWZsd0lZWnhnSnUtX1FzODEzeHRjbVRMU3p5RTdnU05qRU9PdXluNGxyc1FZa2tDV1NUTg?oc=5>
+- 场馆: 中华网
+- 时间: 2026-08-13 02:27
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9XNjRLQ2hJY2hIYVVKa0dPLVNNa3J0eElTUS1WUmNDT3BNdU51MndXRmxPY0xudGdWWWh4ZHVnOThZLWVoSl96STREQUxEQjZhV2s2ZUsyRGhFSjRkMlp1ME11TTE5RWdpTzcxaTRyeHk?oc=5>
+
+### 特朗普媒体科技：超十家客户订阅“真实社交”实时数据流
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-11 03:21
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxOM3BLazdfem1MWTUyZ3l0ZC1RVEVyQ0hycFNETWkyR2dOTTNJdF9qc2hsRDlhWHNRZWtqUTZ5NXViY1hISnNaNl9kM2V6YkR0TjVSQTFSLUNOSXVhSDVkUUh3c28tbndJbElTbDNRblJhQ1JjS0t1V19PeXgxZUNwaUxKSFc1X2k5WmVwc0xvMGxVaFVpdXowRUdsVDV4R0FhOG1ETkxfbzNOZ0tuSzIxWXBiWHVOY0NtYjQzM0lGRzlFSlg4bTJuZ0I5eGM0aGYwamhYVVB3YkUtM2Z3VENj?oc=5>
+
+### 面对特朗普和日益加深的全球分歧，G20能否幸存？
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: The Business Times
+- 时间: 2026-08-12 23:00
+- 链接: <https://news.google.com/rss/articles/CBMirwFBVV95cUxPbE9qTG9NTllMdVptOGhId2VkSHpCOEhtdXExZnZPLU8xMnE1UlZIR3lIUWdfcVNEVzlDVjZwajVQc3V2dlZETzRkMDVMa1dMM0NRaG9jYVRPZDMwRXRzQ3llN3AyVEYyeC1IdnViVGNMcEtOdEhoaEJQd05SZ2kwc3J2dmR4NVVxYTlxNUNNczZ6SnpJeVFKRkJrY2tQQXJjNmQ4VUktNEVYcG1TVzZz?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-13 08:19  (8 条)
+
+- **特朗普** | “穿着高跟鞋的小特朗普”离职，中期选举关口谁能接棒特朗普的硬核传声筒？ <https://news.google.com/rss/articles/CBMiXEFVX3lxTE13enF0LUZ0OUxETWtQZU85TEpjVnhwcUFHbnZPUHd4bTQ1Q2I2NGZIS1QwbUxxTlVsbmZxLVQtOUt3aktBOXJ1UEpmbTRleElxY1V6SGZBbDJQa0M5?oc=5>
+- **特朗普** | 特朗普：最信任的新闻秘书莱维特将于本月底离职 <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDR05SdkdQZDF4Vi1ueVFacndSb3h2Mm44N1Z2S3hOSVNyY2toSlNZRWlvaHpnWDhvYVZrTWJ6NnlrRDVnZklSQ3RDV21mVXdRUVh2YUIzc1RkclRxV3E5alFzZzdpdw?oc=5>
+- **特朗普** | 美国特勤局如何玩弄“障眼法”，将特朗普在众目睽睽之下隐藏 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9HYTRxdUJNbEdrZS1qRkdpTmxnOXhPN0dOa0d2QjdEenl6WWxPYm9mOTNuS2xWY3d4Z1JBQnF2NVRoaUNUTnFRTHdQMVdBMDZuaVdTSWd1YUtDeGd3aEtGODdlX01DUQ?oc=5>
+- **特朗普** | 美媒揭秘特朗普瞒天过海秘密换机全过程 <https://news.google.com/rss/articles/CBMieEFVX3lxTE1EaFpKd1JyUHZmNUNGQW9zdW1mZW9aN1IzbDNpbnlrZl96c2pEd0dxXzJ3Sk9vR3Rya2cwdnAwYTNUOWp4RVJlUjhOZExrbWVYenJvVGNtclg1bXJ3dVVidHZ6Z1lPWEF0LVhoWWY0YW4xdm42RDZPVA?oc=5>
+- **特朗普** | “腐败且违宪”！特朗普因月付10万美元“抢先看”服务被起诉 <https://news.google.com/rss/articles/CBMiakFVX3lxTE1tTy1PVG1UUFdUaWo3ZVY5eTdRTFNjV0ludGNTeGJLZ0h1bkxnWHdvVFdzZzhMc0gwc1BNZW41eDV4ajVvMzAtVUlfV0hlLVhVQ19TNlBsUkhFeS1IdWtyTDBFWVVab0s3UUE?oc=5>
+- **特朗普** | 部署导弹、调换专机，白宫“加码”保卫特朗普 <https://news.google.com/rss/articles/CBMicEFVX3lxTE9XNjRLQ2hJY2hIYVVKa0dPLVNNa3J0eElTUS1WUmNDT3BNdU51MndXRmxPY0xudGdWWWh4ZHVnOThZLWVoSl96STREQUxEQjZhV2s2ZUsyRGhFSjRkMlp1ME11TTE5RWdpTzcxaTRyeHk?oc=5>
+- **特朗普** | 特朗普媒体科技：超十家客户订阅“真实社交”实时数据流 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxOM3BLazdfem1MWTUyZ3l0ZC1RVEVyQ0hycFNETWkyR2dOTTNJdF9qc2hsRDlhWHNRZWtqUTZ5NXViY1hISnNaNl9kM2V6YkR0TjVSQTFSLUNOSXVhSDVkUUh3c28tbndJbElTbDNRblJhQ1JjS0t1V19PeXgxZUNwaUxKSFc1X2k5WmVwc0xvMGxVaFVpdXowRUdsVDV4R0FhOG1ETkxfbzNOZ0tuSzIxWXBiWHVOY0NtYjQzM0lGRzlFSlg4bTJuZ0I5eGM0aGYwamhYVVB3YkUtM2Z3VENj?oc=5>
+- **Trump** | 面对特朗普和日益加深的全球分歧，G20能否幸存？ <https://news.google.com/rss/articles/CBMirwFBVV95cUxPbE9qTG9NTllMdVptOGhId2VkSHpCOEhtdXExZnZPLU8xMnE1UlZIR3lIUWdfcVNEVzlDVjZwajVQc3V2dlZETzRkMDVMa1dMM0NRaG9jYVRPZDMwRXRzQ3llN3AyVEYyeC1IdnViVGNMcEtOdEhoaEJQd05SZ2kwc3J2dmR4NVVxYTlxNUNNczZ6SnpJeVFKRkJrY2tQQXJjNmQ4VUktNEVYcG1TVzZz?oc=5>
 
 ### 2026-08-13 06:57  (6 条)
 
