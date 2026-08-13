@@ -1,48 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-13 21:37**
-- 本轮扫到 9542 条, 新增 **4** 条
+- 最近更新: **2026-08-13 22:34**
+- 本轮扫到 9544 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (2 条)
 
-### 被控涉嫌违宪 特朗普因帖文付费优先访问服务遭起诉
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: finance.sina.cn
-- 时间: 2026-08-13 19:10
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9CZlBiS0NyQ1BNYXA2eVI0US1zaW1Lc3dLX3FwS3RQRzc1OWJaS1l3bGxmSDR5Sk9VbFBENlNkLXZMRkhQMi1MWVU0MEZBcHlrMkVPeXI4R29nMkt3ZllOT0UzQ05UTU1Hb0l4NG9MRngwWlVjNG81VA?oc=5>
-
-### 美法官驳回特朗普政府针对哈佛大学的诉讼
+### 美国法院裁定：进入美国境内的小额包裹可被征收关税
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-08-13 21:33
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1McmV1U3hHdW9lZldHcUQ1Q2lseldFQ2xrZDJmS3pCWGRPQzhNOHlfc0x1MTlEczdRTzZfVEF1d2dtTVdxS1ZzQ2NpbEJTRzBLc09LTnBwX2lhdHhZRjBwLU1qVVFQV01fQ2R2YU1MQ08?oc=5>
+- 场馆: RFI
+- 时间: 2026-08-13 22:16
+- 链接: <https://news.google.com/rss/articles/CBMi9AJBVV95cUxQb3ktMzlCUV9CZXNFelY0Vlh6YTVKazJhUzRvVkpmVnVfT1dnZjBJeXNTbHh5d0NscFhGTmQ5ZDhCSkd3ZjNXZlR4Z0R1dng3SEtDUDEtei0zelNyaGlBdjVxOFFVRk9Najk0TEVHZEdud2JKbUMzb3hQcGpBeVAzLUctZlVqVnI1b19SLS1qenhNMktfMm92ZTJETkRURnM2cElwOGdKRnlZLTRGaHV1UHF4XzRUVjVVSmJ1a01uMzVFQkVwTVVJZDVOSkpKRmRRNjFZN1luenN6Tmhuc0FaOERiTzdkTGdQc2NDcjh4cl9FVk5yY0FzdExib1RZSG9aNzBWbk92dEtLdXk1MXhMMnN3SXk5Nk1jZXp6U2xOYk81X0s0UnhCS082VHo0Ri1XU0dHdmRibzdVUTZzSi1NaFRNQnpXSUFYTU9mWVdPWGE5Rl9PQTZEME8wcE9yY1luUmpCVUs4cjZ6SG9NMTdiWGJMLXI?oc=5>
 
-### 与特朗普存在关联的油气合资企业收到格陵兰政府警告，推迟钻探计划
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: finance.sina.cn
-- 时间: 2026-08-13 21:35
-- 链接: <https://news.google.com/rss/articles/CBMiigJBVV95cUxOQkMzb0oxVzJDTGRmVGhlVnQxNWxWcnVMR0FybUdIT1haaVAyOVMtd095SmdOWm5UbV92MUhjZm5zenJVTjN4MHY3aU4zX1pURVR6QTJDUC16S3pxN3RXd2VQTzZJMjViMDl4dHhYSFF2bnRjRXdyUmR5UlI2dlZYbTU1S1d5enZ6aXlsbm9NLWVJSGZDZG83Q1ViaGxmaGEzc3ZBbmVRbEg1X25WZDJxbjFreHIycmNGMmJTMGM2ZFkyN3d1VU00UlNUUXpOU3BJWVVxUUNRTE92WXpWN09LbGU3N1hGU2o4cEtZT0JRTFQwMkhRT1ZvWkZJTTV6dW1HMHh1LTRkSVdzZw?oc=5>
-
-### “伊朗可能延长与美国的战争，直到特朗普卸任”
+### 处处留名，特朗普欲再将姓名刻上肯尼迪中心，挑战法院禁令
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-12 17:44
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1WcnZ2R013X3dlNGRXV2VjZmtzOGZZVlJVb3FwUzFWUFREU3hubVc3TnVtRU1kUmtYTlNyWjg3cDJBdzFtOVdJYmxmTHY?oc=5>
+- 场馆: RFI
+- 时间: 2026-08-13 21:49
+- 链接: <https://news.google.com/rss/articles/CBMiowNBVV95cUxPMHFJSTRaVGVHZGhoS1RFdHdCMmRWQkk3bmxlZlktMDY5bXZTNnpjVEh1bVg3UWxYYzNQV1hxTU9KSzV0U2R2MU9SY1FOUmkwSWhNMkZpVDJBb0RIVzNQcVVwQXZ3aG1ISENHYVJLOG5ybjZEa1h3M01TYXZZamxJUlE4Q2FpazRWLWVpLXJ2UmQ2SXZNYkZ6dlZUazNKRkdwbXhwNDA2U0VsaDJMNjg5MWh2RUxMOGJzc2dMaVVnbmFlQ09xM1ozbkhEbU1kRVo2QVU3WHRubGZNSTJENklld29fcUl2eURzT01qZldKTHN1Wk9nLXYyeThPdm9fSVBrMWtzSThjbHp6MlcyWFNQbktuM0FNbGpVemRJMVdMZGhBUzdUTDgxcm5BenZRU29MQ3VUNFZHSVhTSG53VkhPVEIwUnJrREswR2h0WXJoZlNMZ1VtemxpX3JnNnZNdEl3ZmFrdV9pLXVYYkExdlNWQmtkRGJOT2c4c21lOVNreVBrSW1LeUo3X1hMRXVGQzl5N2cycGpoUGhTYVNYVF9Eb3RoTQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-13 22:34  (2 条)
+
+- **特朗普** | 美国法院裁定：进入美国境内的小额包裹可被征收关税 <https://news.google.com/rss/articles/CBMi9AJBVV95cUxQb3ktMzlCUV9CZXNFelY0Vlh6YTVKazJhUzRvVkpmVnVfT1dnZjBJeXNTbHh5d0NscFhGTmQ5ZDhCSkd3ZjNXZlR4Z0R1dng3SEtDUDEtei0zelNyaGlBdjVxOFFVRk9Najk0TEVHZEdud2JKbUMzb3hQcGpBeVAzLUctZlVqVnI1b19SLS1qenhNMktfMm92ZTJETkRURnM2cElwOGdKRnlZLTRGaHV1UHF4XzRUVjVVSmJ1a01uMzVFQkVwTVVJZDVOSkpKRmRRNjFZN1luenN6Tmhuc0FaOERiTzdkTGdQc2NDcjh4cl9FVk5yY0FzdExib1RZSG9aNzBWbk92dEtLdXk1MXhMMnN3SXk5Nk1jZXp6U2xOYk81X0s0UnhCS082VHo0Ri1XU0dHdmRibzdVUTZzSi1NaFRNQnpXSUFYTU9mWVdPWGE5Rl9PQTZEME8wcE9yY1luUmpCVUs4cjZ6SG9NMTdiWGJMLXI?oc=5>
+- **特朗普** | 处处留名，特朗普欲再将姓名刻上肯尼迪中心，挑战法院禁令 <https://news.google.com/rss/articles/CBMiowNBVV95cUxPMHFJSTRaVGVHZGhoS1RFdHdCMmRWQkk3bmxlZlktMDY5bXZTNnpjVEh1bVg3UWxYYzNQV1hxTU9KSzV0U2R2MU9SY1FOUmkwSWhNMkZpVDJBb0RIVzNQcVVwQXZ3aG1ISENHYVJLOG5ybjZEa1h3M01TYXZZamxJUlE4Q2FpazRWLWVpLXJ2UmQ2SXZNYkZ6dlZUazNKRkdwbXhwNDA2U0VsaDJMNjg5MWh2RUxMOGJzc2dMaVVnbmFlQ09xM1ozbkhEbU1kRVo2QVU3WHRubGZNSTJENklld29fcUl2eURzT01qZldKTHN1Wk9nLXYyeThPdm9fSVBrMWtzSThjbHp6MlcyWFNQbktuM0FNbGpVemRJMVdMZGhBUzdUTDgxcm5BenZRU29MQ3VUNFZHSVhTSG53VkhPVEIwUnJrREswR2h0WXJoZlNMZ1VtemxpX3JnNnZNdEl3ZmFrdV9pLXVYYkExdlNWQmtkRGJOT2c4c21lOVNreVBrSW1LeUo3X1hMRXVGQzl5N2cycGpoUGhTYVNYVF9Eb3RoTQ?oc=5>
 
 ### 2026-08-13 21:37  (4 条)
 
