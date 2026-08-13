@@ -1,7 +1,7 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-13 16:25**
-- 本轮扫到 9526 条, 新增 **2** 条
+- 最近更新: **2026-08-13 17:27**
+- 本轮扫到 9528 条, 新增 **2** 条
 
 ---
 
@@ -13,20 +13,25 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-08-12 20:03
-- 链接: <https://news.google.com/rss/articles/CBMikwJBVV95cUxQMWJXdTZHelRRRnNNQXY2RjM1bmE1Q292NUhBZDYxYUFFdkEtNm11R2tHQTFKcHQwc0Q3NHdQUHB2cmRuMnZ4NDNPWTlOVGQ4cW1vOG10ZFFlcG9hYjQ3TnFpN1RKZkpabnVhTlUtOGRaUXc2YnExbnUzMUJVM0dZWWVhY0lZSlRtTDlSaWlzVk1jRkM3Qk9jS3Axc1NqT3dUc3YzNzVoTDNLVmlWcXY5X2tqcTVvMThfcmhPdmFuelpYTGxGZ1ZKNVJFSFV2akkwVFRESkJwS2VVSmlXMjlDQk9vdm1pQzhTUEZRUmhDSFZ3NXBiajVWaktzVkpMOWlQLVQxVFFyLUxfNTlPOWlRZU5SOA?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMixwJBVV95cUxNTld4ajBFX040UWRIT0wxRUVWUElJc3lYbmt4cjR3MUtfX3U2VVN1Y1dObW5WWDR0elpxdHJnMndlN0tuZHBYVXlUbFluTWtIQ0pSMktHS3UzNmVtdVlPcGxBMEpfUVRKUHZiYUE0eENMVWtVZEhIOEZzbFVzWmd0R0NMQy1tNmFNTkN3WWlGLTRIazV6bEZKQjk0cTVNNTdXQ2Q3MVdTQkJwSVFLdEZGcExna2I3bGRVcURJWDF6eWdDU1lhUzBqNnNoQTNRenBCbmpNU0loRjBCSGdod3RhaUx1NVVadnRTRHFGY2ZlQUJ6dkVhX2pTN3ZPc3hoU0hmMEh5SWttUHNXT3JTckRjVlpDaTFfNGxBWFZYaXY4dEhUbEtJX0Y2WmdQTDNSYndmZUVWVEI2N1c0anBhcVZnUmJNVGllNzg?oc=5>
 
-### 川普携4亲信弃坐空军一号 鲁比奥贝森特留在原机…
+### 特朗普：白宫新闻秘书莱维特将于本月底离任
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 文学城
-- 时间: 2026-08-13 16:10
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uelBLS2tUZjFoR2JlWUdyUzZ6TWVLY2VXN3A1dlFJUkNMMWtpbXNyc25VbnNIV3M2UnN6VWJZUTdPc3ZXSWI5cDdPdy1ucTBRNU1Mbzh4VFI0VjlhaklpR3BnMExlaDFS?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-13 16:33
+- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxNY1owUFFqejNya0JvVl94Ulh2d3dybEVua2pvakpBbDdFQWlIRDlFNFNZZmRMWVV1VU54bGJUYkdFXzAzeVR5UmVSTTYyU2pnNDhXSW5fa2gxMzVBVG9MUlNWVngwS0dLME5Jc2ZycmpkbjVrZGJQckQycDNPeTFNclV1czQxNEY0UURFSTdtVlZMTVliLVBGeA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-13 17:27  (2 条)
+
+- **特朗普** | 特朗普称白宫新闻秘书莱维特将离职 <https://news.google.com/rss/articles/CBMixwJBVV95cUxNTld4ajBFX040UWRIT0wxRUVWUElJc3lYbmt4cjR3MUtfX3U2VVN1Y1dObW5WWDR0elpxdHJnMndlN0tuZHBYVXlUbFluTWtIQ0pSMktHS3UzNmVtdVlPcGxBMEpfUVRKUHZiYUE0eENMVWtVZEhIOEZzbFVzWmd0R0NMQy1tNmFNTkN3WWlGLTRIazV6bEZKQjk0cTVNNTdXQ2Q3MVdTQkJwSVFLdEZGcExna2I3bGRVcURJWDF6eWdDU1lhUzBqNnNoQTNRenBCbmpNU0loRjBCSGdod3RhaUx1NVVadnRTRHFGY2ZlQUJ6dkVhX2pTN3ZPc3hoU0hmMEh5SWttUHNXT3JTckRjVlpDaTFfNGxBWFZYaXY4dEhUbEtJX0Y2WmdQTDNSYndmZUVWVEI2N1c0anBhcVZnUmJNVGllNzg?oc=5>
+- **特朗普** | 特朗普：白宫新闻秘书莱维特将于本月底离任 <https://news.google.com/rss/articles/CBMimAFBVV95cUxNY1owUFFqejNya0JvVl94Ulh2d3dybEVua2pvakpBbDdFQWlIRDlFNFNZZmRMWVV1VU54bGJUYkdFXzAzeVR5UmVSTTYyU2pnNDhXSW5fa2gxMzVBVG9MUlNWVngwS0dLME5Jc2ZycmpkbjVrZGJQckQycDNPeTFNclV1czQxNEY0UURFSTdtVlZMTVliLVBGeA?oc=5>
 
 ### 2026-08-13 16:25  (2 条)
 
