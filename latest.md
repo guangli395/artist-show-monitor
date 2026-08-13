@@ -1,7 +1,7 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-13 15:29**
-- 本轮扫到 9524 条, 新增 **2** 条
+- 最近更新: **2026-08-13 16:25**
+- 本轮扫到 9526 条, 新增 **2** 条
 
 ---
 
@@ -13,20 +13,25 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-08-12 20:03
-- 链接: <https://news.google.com/rss/articles/CBMijwJBVV95cUxPWXhMaVZGZ2xsTURNZVJuQW9SbTFPai1RQmI1amFGQUt0a3lOZ1l1ZkJvR18tZnZKMTBQeHhqRUpfUnljcy00REJBNmJVUlAwQWNndTVQa0NuNFNrQTAteUVUYXhtZ1Y1Z3hsSU92RzFacVNqMnRQcnBPZGVLQmpuaTR3LVVfTnlQR3dhTDNZSFVyR3d2WUg3OEN5S2NlYXVwN3hsbnNZa3NxN3VYTTRDOFVkYlhfZ1NEVkFRQ2dHaUNmQnVZTXk4QW96cnpVckpPRE1HU3QzTEYweVY2Ry1TRzc5VllvV2s2bUw3Q19OWnFhVGVuTWJSVTAzWnh4YWYzQldTdFlKVTFEX2Fxbmxn?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMikwJBVV95cUxQMWJXdTZHelRRRnNNQXY2RjM1bmE1Q292NUhBZDYxYUFFdkEtNm11R2tHQTFKcHQwc0Q3NHdQUHB2cmRuMnZ4NDNPWTlOVGQ4cW1vOG10ZFFlcG9hYjQ3TnFpN1RKZkpabnVhTlUtOGRaUXc2YnExbnUzMUJVM0dZWWVhY0lZSlRtTDlSaWlzVk1jRkM3Qk9jS3Axc1NqT3dUc3YzNzVoTDNLVmlWcXY5X2tqcTVvMThfcmhPdmFuelpYTGxGZ1ZKNVJFSFV2akkwVFRESkJwS2VVSmlXMjlDQk9vdm1pQzhTUEZRUmhDSFZ3NXBiajVWaktzVkpMOWlQLVQxVFFyLUxfNTlPOWlRZU5SOA?oc=5>
 
-### 特朗普民调再创新低 仅剩三分之一美国民众认可其表现
+### 川普携4亲信弃坐空军一号 鲁比奥贝森特留在原机…
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-08-13 09:06
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE1JTU9UOXFqSTROWngxM3daUkhJQ1VnN3FwUjBLMmJVbFR4UjRNOENJeHBHTWdlT3RZYmdubGpVZG9fd0tudE9JbQ?oc=5>
+- 场馆: 文学城
+- 时间: 2026-08-13 16:10
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uelBLS2tUZjFoR2JlWUdyUzZ6TWVLY2VXN3A1dlFJUkNMMWtpbXNyc25VbnNIV3M2UnN6VWJZUTdPc3ZXSWI5cDdPdy1ucTBRNU1Mbzh4VFI0VjlhaklpR3BnMExlaDFS?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-13 16:25  (2 条)
+
+- **特朗普** | 特朗普称白宫新闻秘书莱维特将离职 <https://news.google.com/rss/articles/CBMikwJBVV95cUxQMWJXdTZHelRRRnNNQXY2RjM1bmE1Q292NUhBZDYxYUFFdkEtNm11R2tHQTFKcHQwc0Q3NHdQUHB2cmRuMnZ4NDNPWTlOVGQ4cW1vOG10ZFFlcG9hYjQ3TnFpN1RKZkpabnVhTlUtOGRaUXc2YnExbnUzMUJVM0dZWWVhY0lZSlRtTDlSaWlzVk1jRkM3Qk9jS3Axc1NqT3dUc3YzNzVoTDNLVmlWcXY5X2tqcTVvMThfcmhPdmFuelpYTGxGZ1ZKNVJFSFV2akkwVFRESkJwS2VVSmlXMjlDQk9vdm1pQzhTUEZRUmhDSFZ3NXBiajVWaktzVkpMOWlQLVQxVFFyLUxfNTlPOWlRZU5SOA?oc=5>
+- **Trump** | 川普携4亲信弃坐空军一号 鲁比奥贝森特留在原机… <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uelBLS2tUZjFoR2JlWUdyUzZ6TWVLY2VXN3A1dlFJUkNMMWtpbXNyc25VbnNIV3M2UnN6VWJZUTdPc3ZXSWI5cDdPdy1ucTBRNU1Mbzh4VFI0VjlhaklpR3BnMExlaDFS?oc=5>
 
 ### 2026-08-13 15:29  (2 条)
 
