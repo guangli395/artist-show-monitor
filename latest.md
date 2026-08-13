@@ -1,40 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-13 18:26**
-- 本轮扫到 9531 条, 新增 **3** 条
+- 最近更新: **2026-08-13 19:33**
+- 本轮扫到 9536 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (5 条)
 
-### 特朗普称白宫新闻秘书莱维特将离职
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-12 20:03
-- 链接: <https://news.google.com/rss/articles/CBMijgJBVV95cUxQUmNfdVVDcV9YY0tBZGhnYUZtVzFhMGN4dHp5ck5ONTBoRHgtUzlMZHlFZ3NiaEFER2pObnI4NEZxRzlyN28yaVRCdmppSlJBTDdGU09BQzZ4WnBncmV4YU5Nc1FBN2E3cC1JX3lSRk5oaTJsMkJWb1RBUkRGSWhMeUdUY3N0eTBLWElBOC1jX3FEUS04V2IzNmJ4VDFTVHQ0N0NfclMwNWZ3anMwZjIyS3ItNFBpQU10RWphMHh4YlFKbUQ3VnNadUZSSGpzS0Y0Z2htT1djUW9nckVFTGlJckpoZV9FSUw1cUxSU21sWnBjcHhaVEplejhjUmlROTl2U0JiQThNencyQXZwUWc?oc=5>
-
-### 特朗普政府起诉哈佛大学案遭法官驳回
+### “特朗普媒体与科技集团”（TMTG）的付费服务遭起诉
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: RFI
-- 时间: 2026-08-13 18:17
-- 链接: <https://news.google.com/rss/articles/CBMiqwJBVV95cUxORjJhVG43LWttY1hqdmVHaU9hbm1sbXN0UnQ4MllEZ1RVaEdHRUI5VWFMOVZPRnV5NUJ1YlVTNHZLYUQ2UVl0T0JabVc3LVdQTjlwRnUwTEx1VHd5SjVFT1RrbDRGZDYtSU1UNFZueVlQdVdubG5jRUpTU3hUcnRaN3lBNlhQMFNPS1QwZmZNekZxSWNLeTBwbTNJSHloWFcwMHRHNDREeHlQLU5XNFpJQVNDSW5BRWE3WEZ2UUZVX1RXc0lGQ1lkdWtIUzF4Z3pxeXo3ZnNHZWxIYXlfdUVCV2p5SlpPZFVYYWRHVHkwc1poNGFLMjJUcjgxZlM0Z2Z5X1pVNnMyRlNUQ2lwQThLUDNEaUwxcUVXSm52NUtEcEFHYkxURHFYUjQ0QQ?oc=5>
+- 时间: 2026-08-13 18:35
+- 链接: <https://news.google.com/rss/articles/CBMiiANBVV95cUxPTVBzeU5vRWF4Y2xxZ2lDNzJvTkZUS3o1UnRCd0ppVlJMbDhsVGF4Vm5pLVNta1FuX1Z6WUVsRC05S1BrUWRZc1FDZzJudGt3YjVscmpsYWRUX0w1bzVCSDFURUhOWWJiRS0taG1hMW5ZZFZlZENiek92TlM0Ty1ZdWlzcktWWWEzdlo1OVI5TGNmRGtjQk1GUWM3QUVIOG5JbXN5VU1vT0ZvamFzSGM0d2FGWUlsTG5ibDRhZXZJM3JOVFphZk9uSE1jWkxDZVpzSTJtWjdFUVpjOWxvT1FtS1pzb3QxeVhoQ3BhWTY0d3dPTi1rZHQtN0hPcWUxUF9ubjZUZThGQTBEdUt4Vm1JSVdBT3Jmd1RKdTRDZ0ZMMlFSR3ktZ2JYTmtTTnRKODN0T2JoMWNuOHBacExKZ0RlbWZ5M3pNTnZCakFCS3ZzYWM0Q2ZoNU5jVkQyT1FZWm5IOWZiVjVRNk8xLW50d2hYaVJ1VncxMEY1Wk9fVXQ1Z0xrSG1BZzVkTw?oc=5>
 
-### Brent, WTI Futures Drop Pre-Bell as Trump Seen Gravitating to Iran Economic Squeeze Notion After Claims US Controls Hormuz
+### 特朗普宣称“已完全控制霍尔木兹”，但油轮还是不敢走
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-08-13 10:00
-- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxPbFRLQkZqWWZ6U3paOFliNG9mcXdfOVpDenBmNERCRVJVdC1xWko1UzdWazdUdmsxQ1VmVjFOc3ZhMEZyeVlZT3A2djZJdVlkcTloYk1SV29XLXhlRzFhRzJuY1p0NVlSY01TVlc2Q2FKV1ZqbUQzWk1jNVN4dUJWT2dNX0x0RjFybnd1VWtHNFNxWUs0ckpFZDE1dDdHdVUy?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-13 19:17
+- 链接: <https://news.google.com/rss/articles/CBMisAFBVV95cUxOXzIzRFJ5RFRfRVVHX210eE5jQVJSM1loOW5XaEhoNnZOTHVPX3V1N1hHellkYWx3LV9QZVNIYzNPT2xLTk1UdGRlVG1sUkUxV2d1WGdDTUkxVlJTZ0p1QWh5eVI2UEp4RzVXTldMQ1NlT3VoSVdaaWQ1NlpUdUQ1eGFmT2g2ZmZpOWp4Nk1fMkU5LW1Jb1hvV1ByWEM1Z19JbWNDR0lGZ0FvTTA2TjUwUQ?oc=5>
+
+### 最年轻新闻秘书，“弃特朗普而去”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-08-13 12:47
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE42eXkyZ0NkdGRfUmhLckREN2tkRkJEMUpaMzc4WG5hSTlMVGRHelZJSXotV2t4NktmOVVLWDJKVUprbHFSc0JSMjZBU0w?oc=5>
+
+### 下黑手！特朗普政府开发AI工具打击贸易伙伴：让你们帮中国
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-08-13 12:35
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE43NWotQTFPR2NOVFVzamNmRldoemN4RHNNQ3NTdzZzLVE3aTlJSE1jelROUmJBbDZBUU9fd2ZKcDc0dnlUdWRfOTBmcXo?oc=5>
+
+### 总统唐纳德·J·特朗普Archives - Page 19 of 19 - 美国驻华大使馆和领事馆
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: U.S. Embassy & Consulates in China
+- 时间: 2026-08-13 17:05
+- 链接: <https://news.google.com/rss/articles/CBMi1AFBVV95cUxOX2tKTThoaXR2U3ZGRGp4aElwODh2blI0RGlDNWZBVmxWbEJFSWd4QU9wYlAxWVlMNE5XSUhkcG1oYm1UYWhlRElXczFvYkV2WFJXc2xfb2IxcmlaT201b0EzOEh4N2Z5dWJDMW85bmx5OGZ0T1NRWnFSYkpGSTZBeWN5ZW1NZERURi1PT2hNX2VmRmNZb1VnYi1NTDZZbEJITFNqZEI1aXF4NXdYQ3lma2lDNEdiUDVLZHp1RUdrMmNBVE5rWjRfWklwdlB5elpMb1FOcQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-13 19:33  (5 条)
+
+- **特朗普** | “特朗普媒体与科技集团”（TMTG）的付费服务遭起诉 <https://news.google.com/rss/articles/CBMiiANBVV95cUxPTVBzeU5vRWF4Y2xxZ2lDNzJvTkZUS3o1UnRCd0ppVlJMbDhsVGF4Vm5pLVNta1FuX1Z6WUVsRC05S1BrUWRZc1FDZzJudGt3YjVscmpsYWRUX0w1bzVCSDFURUhOWWJiRS0taG1hMW5ZZFZlZENiek92TlM0Ty1ZdWlzcktWWWEzdlo1OVI5TGNmRGtjQk1GUWM3QUVIOG5JbXN5VU1vT0ZvamFzSGM0d2FGWUlsTG5ibDRhZXZJM3JOVFphZk9uSE1jWkxDZVpzSTJtWjdFUVpjOWxvT1FtS1pzb3QxeVhoQ3BhWTY0d3dPTi1rZHQtN0hPcWUxUF9ubjZUZThGQTBEdUt4Vm1JSVdBT3Jmd1RKdTRDZ0ZMMlFSR3ktZ2JYTmtTTnRKODN0T2JoMWNuOHBacExKZ0RlbWZ5M3pNTnZCakFCS3ZzYWM0Q2ZoNU5jVkQyT1FZWm5IOWZiVjVRNk8xLW50d2hYaVJ1VncxMEY1Wk9fVXQ1Z0xrSG1BZzVkTw?oc=5>
+- **特朗普** | 特朗普宣称“已完全控制霍尔木兹”，但油轮还是不敢走 <https://news.google.com/rss/articles/CBMisAFBVV95cUxOXzIzRFJ5RFRfRVVHX210eE5jQVJSM1loOW5XaEhoNnZOTHVPX3V1N1hHellkYWx3LV9QZVNIYzNPT2xLTk1UdGRlVG1sUkUxV2d1WGdDTUkxVlJTZ0p1QWh5eVI2UEp4RzVXTldMQ1NlT3VoSVdaaWQ1NlpUdUQ1eGFmT2g2ZmZpOWp4Nk1fMkU5LW1Jb1hvV1ByWEM1Z19JbWNDR0lGZ0FvTTA2TjUwUQ?oc=5>
+- **特朗普** | 最年轻新闻秘书，“弃特朗普而去” <https://news.google.com/rss/articles/CBMiTEFVX3lxTE42eXkyZ0NkdGRfUmhLckREN2tkRkJEMUpaMzc4WG5hSTlMVGRHelZJSXotV2t4NktmOVVLWDJKVUprbHFSc0JSMjZBU0w?oc=5>
+- **特朗普** | 下黑手！特朗普政府开发AI工具打击贸易伙伴：让你们帮中国 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE43NWotQTFPR2NOVFVzamNmRldoemN4RHNNQ3NTdzZzLVE3aTlJSE1jelROUmJBbDZBUU9fd2ZKcDc0dnlUdWRfOTBmcXo?oc=5>
+- **特朗普** | 总统唐纳德·J·特朗普Archives - Page 19 of 19 - 美国驻华大使馆和领事馆 <https://news.google.com/rss/articles/CBMi1AFBVV95cUxOX2tKTThoaXR2U3ZGRGp4aElwODh2blI0RGlDNWZBVmxWbEJFSWd4QU9wYlAxWVlMNE5XSUhkcG1oYm1UYWhlRElXczFvYkV2WFJXc2xfb2IxcmlaT201b0EzOEh4N2Z5dWJDMW85bmx5OGZ0T1NRWnFSYkpGSTZBeWN5ZW1NZERURi1PT2hNX2VmRmNZb1VnYi1NTDZZbEJITFNqZEI1aXF4NXdYQ3lma2lDNEdiUDVLZHp1RUdrMmNBVE5rWjRfWklwdlB5elpMb1FOcQ?oc=5>
 
 ### 2026-08-13 18:26  (3 条)
 
