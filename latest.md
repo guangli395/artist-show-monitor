@@ -1,32 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-13 22:34**
-- 本轮扫到 9544 条, 新增 **2** 条
+- 最近更新: **2026-08-13 23:34**
+- 本轮扫到 9547 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (3 条)
 
-### 美国法院裁定：进入美国境内的小额包裹可被征收关税
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-08-13 22:16
-- 链接: <https://news.google.com/rss/articles/CBMi9AJBVV95cUxQb3ktMzlCUV9CZXNFelY0Vlh6YTVKazJhUzRvVkpmVnVfT1dnZjBJeXNTbHh5d0NscFhGTmQ5ZDhCSkd3ZjNXZlR4Z0R1dng3SEtDUDEtei0zelNyaGlBdjVxOFFVRk9Najk0TEVHZEdud2JKbUMzb3hQcGpBeVAzLUctZlVqVnI1b19SLS1qenhNMktfMm92ZTJETkRURnM2cElwOGdKRnlZLTRGaHV1UHF4XzRUVjVVSmJ1a01uMzVFQkVwTVVJZDVOSkpKRmRRNjFZN1luenN6Tmhuc0FaOERiTzdkTGdQc2NDcjh4cl9FVk5yY0FzdExib1RZSG9aNzBWbk92dEtLdXk1MXhMMnN3SXk5Nk1jZXp6U2xOYk81X0s0UnhCS082VHo0Ri1XU0dHdmRibzdVUTZzSi1NaFRNQnpXSUFYTU9mWVdPWGE5Rl9PQTZEME8wcE9yY1luUmpCVUs4cjZ6SG9NMTdiWGJMLXI?oc=5>
-
-### 处处留名，特朗普欲再将姓名刻上肯尼迪中心，挑战法院禁令
+### 肯尼迪中心理事会投票决定将特朗普的名字增添至建筑外墙
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-08-13 21:49
-- 链接: <https://news.google.com/rss/articles/CBMiowNBVV95cUxPMHFJSTRaVGVHZGhoS1RFdHdCMmRWQkk3bmxlZlktMDY5bXZTNnpjVEh1bVg3UWxYYzNQV1hxTU9KSzV0U2R2MU9SY1FOUmkwSWhNMkZpVDJBb0RIVzNQcVVwQXZ3aG1ISENHYVJLOG5ybjZEa1h3M01TYXZZamxJUlE4Q2FpazRWLWVpLXJ2UmQ2SXZNYkZ6dlZUazNKRkdwbXhwNDA2U0VsaDJMNjg5MWh2RUxMOGJzc2dMaVVnbmFlQ09xM1ozbkhEbU1kRVo2QVU3WHRubGZNSTJENklld29fcUl2eURzT01qZldKTHN1Wk9nLXYyeThPdm9fSVBrMWtzSThjbHp6MlcyWFNQbktuM0FNbGpVemRJMVdMZGhBUzdUTDgxcm5BenZRU29MQ3VUNFZHSVhTSG53VkhPVEIwUnJrREswR2h0WXJoZlNMZ1VtemxpX3JnNnZNdEl3ZmFrdV9pLXVYYkExdlNWQmtkRGJOT2c4c21lOVNreVBrSW1LeUo3X1hMRXVGQzl5N2cycGpoUGhTYVNYVF9Eb3RoTQ?oc=5>
+- 场馆: 华尔街日报中文网
+- 时间: 2026-08-13 23:24
+- 链接: <https://news.google.com/rss/articles/CBMiowFBVV95cUxPVVFZeUg1LW1keE82Z21XclB0aF9sRWd0ZkZRcktQMWtEMVFzcC1NOWZaLUp3ZmVFenZJV1hZMmNnTk5jQ242bUZ6UzFiV1hZS0pxbzNPN1hwZHlVems0aGF1V3czMDhBWEgwMi1XM0pnREd4Z1dnVFVjMG5CbEZwc3duTGJOMzhBcFdNbG10enFqUmo2UkdpcVRCTnNscHhQTEZv?oc=5>
+
+### 为防伊朗导弹威胁，特朗普秘密“换机”返美，除赫格塞思外的3名亲信都是谁？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-08-13 04:51
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1ldWRvaEdYRlJIQ01nZ2JuV0JyMGVQWWMtQXdoaHhMcWFkVTdmOUZ4OEdHak5mM21qUFpUbXVsNWNtRXlmd3RSZ0xoYzU?oc=5>
+
+### 驳斥特朗普的说法 伊朗称霍尔木兹海峡在伊朗控制和管理之下
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: chinanews.com.cn
+- 时间: 2026-08-13 22:42
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBqMFVQVEd1MGxpOE5iM2Y2am0wRnNaVFM3UUxfb3paT3I2LWNYNFZMTUhtbkpfdFhUSjF1WnJsUzVNSGpKUU9YNlZSRnEyZW9MRWJzTXNvM3h2WWxfSHBROC1KNV9jZlJn?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-13 23:34  (3 条)
+
+- **特朗普** | 肯尼迪中心理事会投票决定将特朗普的名字增添至建筑外墙 <https://news.google.com/rss/articles/CBMiowFBVV95cUxPVVFZeUg1LW1keE82Z21XclB0aF9sRWd0ZkZRcktQMWtEMVFzcC1NOWZaLUp3ZmVFenZJV1hZMmNnTk5jQ242bUZ6UzFiV1hZS0pxbzNPN1hwZHlVems0aGF1V3czMDhBWEgwMi1XM0pnREd4Z1dnVFVjMG5CbEZwc3duTGJOMzhBcFdNbG10enFqUmo2UkdpcVRCTnNscHhQTEZv?oc=5>
+- **特朗普** | 为防伊朗导弹威胁，特朗普秘密“换机”返美，除赫格塞思外的3名亲信都是谁？ <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1ldWRvaEdYRlJIQ01nZ2JuV0JyMGVQWWMtQXdoaHhMcWFkVTdmOUZ4OEdHak5mM21qUFpUbXVsNWNtRXlmd3RSZ0xoYzU?oc=5>
+- **特朗普** | 驳斥特朗普的说法 伊朗称霍尔木兹海峡在伊朗控制和管理之下 <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBqMFVQVEd1MGxpOE5iM2Y2am0wRnNaVFM3UUxfb3paT3I2LWNYNFZMTUhtbkpfdFhUSjF1WnJsUzVNSGpKUU9YNlZSRnEyZW9MRWJzTXNvM3h2WWxfSHBROC1KNV9jZlJn?oc=5>
 
 ### 2026-08-13 22:34  (2 条)
 
