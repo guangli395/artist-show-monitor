@@ -1,62 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-13 09:38**
-- 本轮扫到 9511 条, 新增 **6** 条
+- 最近更新: **2026-08-13 10:56**
+- 本轮扫到 9514 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (3 条)
 
-### 周杰伦青岛演唱会最新消息：开票时间公布！
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2042940315_79c4cb9b01901bor8.html>
-
-### 真实社交付费优先看被指违法 特朗普新服务惹争议
+### 特朗普称白宫新闻秘书莱维特将离职
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-08-13 08:43
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1SYmhMRjNKd1FUUURubFlpSEMxaEF4TkVFT3N4V2FXZmpHdGNCa2NYRkRORUNNa3VWSGl4cWxRTExFTTlSczE4dHBxZGpzY1lUbjdtWDZ3S2NWRTNKcjhuNXV0aFdPTWZ0YVJkX3oxOUs?oc=5>
+- 场馆: finance.sina.com.cn
+- 时间: 2026-08-12 20:03
+- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE16NDJBTFJ6ZlZwbjNoa2oyMVY5MkJodUdjalE0dE04TnpnZ21IejdxMVdZYTVhbUVCTGlZSnBvUEREQWpCTENwbEpqdWR5cVlPV1J6Sl9HLUY5azRXOTRMeXBKT1AzNUFkLTNYQmN6TXM1bEZ0MExFVmRn?oc=5>
 
-### 特朗普媒体科技：超十家客户订阅“真实社交”实时数据流
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-11 03:21
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZV9TVnZzWjdVMHNIeEhtRHQxNnk4eVctZndzaDU4Z0VoZUwtN2NsOHpSZ0h6WFZtNnh2VFBiY3pkZGRvZmNsa0FrdmVneHNEYjJjOXh3V0hfX2ZZQ1c0SnpHQnhCaHg2ZlRFNlhQNjV1V2RPMGRMaUVlRE9vbWlzYzh1cWJtY0lYV0JIZjBPOTdXOXdNSkxQclZqN1M5dnF2Q0gzQzdUSGx5ZWhiRm1iYzFWal9CY3RfWkZ6LUlkUU1YTzJ2dkVUUjlxa0NJeUlYTnhVY2VFTzhVV3A2bmZz?oc=5>
-
-### 特朗普谈“是否谋求第三任期”：我很想参选，但法律太严格，活动上大家都在高喊2028！此前民调
+### 特朗普“真实社交”平台今夏流量大幅下滑
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 每日经济新闻
-- 时间: 2026-08-13 03:04
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFB2VEJUaEdveGp2LWo2bmNhSFBGVHREZnk5Y1BqZGRvbUtpcC1uYV9ZRVk5TzdRaU1TektqLVg1aExfSnNWa0tIR1pmTm1TMWV4YS0xWEx4Tk1uWnZ3YnRJNjBMakt4dw?oc=5>
+- 场馆: finance.sina.com.cn
+- 时间: 2026-08-11 03:46
+- 链接: <https://news.google.com/rss/articles/CBMi3AFBVV95cUxQR3R0ZFdOLWdWc0YtbGYxRW5hWDBHel9xdnRJbzVLRmhnUVFyamtmcEd5OWljbXd0WXlKYVJMRnZZZ2RybWRNVHB0MUEwcG1YSG1EZjRvRHcweVhTbW5UY25PVGpNNVZmX0IyZm1WZ25FME9yR3h4cDZaY1RNZzNJTUsxMmxkcmw1Vng3Q0FMaWRVT085bEF6cWxwcmRsX2ZCM0RNaTJJem1KYWcwYTZSYmJBMkdFbkpBS0dxSTJud1JTWWNQcjZpb3dyNzJvRjVsM3ZrQUUxX2szampP?oc=5>
 
-### 职业外交官为助选金主让路，特朗普政府的大使团队有多业余？
+### 特朗普政府计划至少花费9亿美元翻新白宫
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-08-13 04:01
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXMktINUVrS0ZoaTZpeXdqZDVMQkdWS1FxeWN2UHU2UDZMYW0tbUE2Z2doNHlWRmJCRGVqX2NaRmVlclFDcnlwcVlSTnJ3OHI4SWxhT2hXXzBPNXFEYi1KYg?oc=5>
-
-### 特朗普被起诉：“真实社交”允许客户提交每月6万至10万美元费用，以优先获取帖文，美国新闻机构指其“违宪且腐败”
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Sohu
-- 时间: 2026-08-13 02:35
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxPZmZzdDh2SmdlUnlYcUZQc0VYbnhad0JQWExJTzV3UzVQZHozTVZtcTRVSlV0RXdHVzNuZjdaLUpiYjRPamZoYmpzVS0tVTMzWjV3aUtNdUJmUk5fT3A0Rjc4dFBlanNfT2JTQmRVWmQxb3oyN0xIN0M3XzFaR00yY0kwQmkwYk1LOVRuQg?oc=5>
+- 场馆: 联合早报
+- 时间: 2026-08-12 12:37
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5KMkNWM1h3Y05JTGE3dHNaNm0wbHg3VjRoNjdoNGNOeFotelRiQUtDRElpdEZBOW96MVBGNUFVWDgtbHFCOXJ4MnR4MHlMVGxoNUV1cTEzYWRyTmY0YzYxUHJvTDBDZw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-13 10:56  (3 条)
+
+- **特朗普** | 特朗普称白宫新闻秘书莱维特将离职 <https://news.google.com/rss/articles/CBMiekFVX3lxTE16NDJBTFJ6ZlZwbjNoa2oyMVY5MkJodUdjalE0dE04TnpnZ21IejdxMVdZYTVhbUVCTGlZSnBvUEREQWpCTENwbEpqdWR5cVlPV1J6Sl9HLUY5azRXOTRMeXBKT1AzNUFkLTNYQmN6TXM1bEZ0MExFVmRn?oc=5>
+- **特朗普** | 特朗普“真实社交”平台今夏流量大幅下滑 <https://news.google.com/rss/articles/CBMi3AFBVV95cUxQR3R0ZFdOLWdWc0YtbGYxRW5hWDBHel9xdnRJbzVLRmhnUVFyamtmcEd5OWljbXd0WXlKYVJMRnZZZ2RybWRNVHB0MUEwcG1YSG1EZjRvRHcweVhTbW5UY25PVGpNNVZmX0IyZm1WZ25FME9yR3h4cDZaY1RNZzNJTUsxMmxkcmw1Vng3Q0FMaWRVT085bEF6cWxwcmRsX2ZCM0RNaTJJem1KYWcwYTZSYmJBMkdFbkpBS0dxSTJud1JTWWNQcjZpb3dyNzJvRjVsM3ZrQUUxX2szampP?oc=5>
+- **特朗普** | 特朗普政府计划至少花费9亿美元翻新白宫 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5KMkNWM1h3Y05JTGE3dHNaNm0wbHg3VjRoNjdoNGNOeFotelRiQUtDRElpdEZBOW96MVBGNUFVWDgtbHFCOXJ4MnR4MHlMVGxoNUV1cTEzYWRyTmY0YzYxUHJvTDBDZw?oc=5>
 
 ### 2026-08-13 09:38  (6 条)
 
