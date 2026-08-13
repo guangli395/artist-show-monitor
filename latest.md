@@ -1,40 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-13 10:56**
-- 本轮扫到 9514 条, 新增 **3** 条
+- 最近更新: **2026-08-13 11:41**
+- 本轮扫到 9516 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (2 条)
 
-### 特朗普称白宫新闻秘书莱维特将离职
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-08-12 20:03
-- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE16NDJBTFJ6ZlZwbjNoa2oyMVY5MkJodUdjalE0dE04TnpnZ21IejdxMVdZYTVhbUVCTGlZSnBvUEREQWpCTENwbEpqdWR5cVlPV1J6Sl9HLUY5azRXOTRMeXBKT1AzNUFkLTNYQmN6TXM1bEZ0MExFVmRn?oc=5>
-
-### 特朗普“真实社交”平台今夏流量大幅下滑
+### 风暴眼 | 特朗普政府的关税真相：左手退钱，右手加税
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-08-11 03:46
-- 链接: <https://news.google.com/rss/articles/CBMi3AFBVV95cUxQR3R0ZFdOLWdWc0YtbGYxRW5hWDBHel9xdnRJbzVLRmhnUVFyamtmcEd5OWljbXd0WXlKYVJMRnZZZ2RybWRNVHB0MUEwcG1YSG1EZjRvRHcweVhTbW5UY25PVGpNNVZmX0IyZm1WZ25FME9yR3h4cDZaY1RNZzNJTUsxMmxkcmw1Vng3Q0FMaWRVT085bEF6cWxwcmRsX2ZCM0RNaTJJem1KYWcwYTZSYmJBMkdFbkpBS0dxSTJud1JTWWNQcjZpb3dyNzJvRjVsM3ZrQUUxX2szampP?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-08-13 11:08
+- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE9LY2xqdTBGQ0pCZ3dIRmZ4THdOeVpPQV9yendxcmpPRXZlXzZ0SjB4eTNQaGJISlBsSGRXR2dwUEJRczhuVnBiU05SUmtCTHll?oc=5>
 
-### 特朗普政府计划至少花费9亿美元翻新白宫
+### 职业外交官为助选金主让路，特朗普政府的大使团队有多业余？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-08-12 12:37
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5KMkNWM1h3Y05JTGE3dHNaNm0wbHg3VjRoNjdoNGNOeFotelRiQUtDRElpdEZBOW96MVBGNUFVWDgtbHFCOXJ4MnR4MHlMVGxoNUV1cTEzYWRyTmY0YzYxUHJvTDBDZw?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-13 04:02
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE92VDNrRC1sS19UemVWc1kwckwyVlhFQTZwUEVFakxLS0cyNnZKVjU0cHo4azhWVWtuNmVuM1h2c1VFNC1Sb1hLRE5mWkszSHhJQVJid1ZGVVhLR2FBYUd5cHhpdHhIU0FucUJUTWJ0SVlxaloyblprcA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-13 11:41  (2 条)
+
+- **特朗普** | 风暴眼 | 特朗普政府的关税真相：左手退钱，右手加税 <https://news.google.com/rss/articles/CBMiUEFVX3lxTE9LY2xqdTBGQ0pCZ3dIRmZ4THdOeVpPQV9yendxcmpPRXZlXzZ0SjB4eTNQaGJISlBsSGRXR2dwUEJRczhuVnBiU05SUmtCTHll?oc=5>
+- **特朗普** | 职业外交官为助选金主让路，特朗普政府的大使团队有多业余？ <https://news.google.com/rss/articles/CBMieEFVX3lxTE92VDNrRC1sS19UemVWc1kwckwyVlhFQTZwUEVFakxLS0cyNnZKVjU0cHo4azhWVWtuNmVuM1h2c1VFNC1Sb1hLRE5mWkszSHhJQVJid1ZGVVhLR2FBYUd5cHhpdHhIU0FucUJUTWJ0SVlxaloyblprcA?oc=5>
 
 ### 2026-08-13 10:56  (3 条)
 
