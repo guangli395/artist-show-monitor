@@ -1,32 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-13 11:41**
-- 本轮扫到 9516 条, 新增 **2** 条
+- 最近更新: **2026-08-13 12:55**
+- 本轮扫到 9519 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (3 条)
 
-### 风暴眼 | 特朗普政府的关税真相：左手退钱，右手加税
+### 特朗普民调支持率触及两届以来新低 四成美国民众盼发生“革命性”变化
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 财新
+- 时间: 2026-08-12 23:59
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE02dm9lVXQ1Y0h5UVh0Zm5SQnMzOXlQalgxZ0t6LTFNUHB2QWtCS3ZiTHFScWlVNlNSakxXYmVOdWtmZlhVemV0LUZ5VWFtelB2SDJrMHFCckgzWjBoVldVTF84d3dkUWw5WHc?oc=5>
+
+### 贴身女助理随特朗普挤进餐车换机？英媒曝光更多细节
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-08-13 11:08
-- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE9LY2xqdTBGQ0pCZ3dIRmZ4THdOeVpPQV9yendxcmpPRXZlXzZ0SjB4eTNQaGJISlBsSGRXR2dwUEJRczhuVnBiU05SUmtCTHll?oc=5>
+- 时间: 2026-08-13 10:29
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5XM3FpZXZsZHZUN3kzWlRrQmM3SzhWcDRob19mZUlLMGdPbjdrMFJuWnRYWlI2ZGY1Wi1KM2I0eElrN1hETUFVb085MXc?oc=5>
 
-### 职业外交官为助选金主让路，特朗普政府的大使团队有多业余？
+### 特朗普证实“秘密换专机”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-13 04:02
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE92VDNrRC1sS19UemVWc1kwckwyVlhFQTZwUEVFakxLS0cyNnZKVjU0cHo4azhWVWtuNmVuM1h2c1VFNC1Sb1hLRE5mWkszSHhJQVJid1ZGVVhLR2FBYUd5cHhpdHhIU0FucUJUTWJ0SVlxaloyblprcA?oc=5>
+- 场馆: 新浪财经_金融信息服务商
+- 时间: 2026-08-13 05:55
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE8wV1VERldjemt6UEZVaXNDZFJXcE1wMms5SGdrYlQxYmU3WHhlYXlxQllNeG9MbFpqaURMUkNVNDlPb2JnVzdsenIydXdvZi1vUGNaa1pGZGR0dThXTW51QzVrM1B2N3N6OGxiWTZzQzNsTjgwWTl4cg?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-13 12:55  (3 条)
+
+- **特朗普** | 特朗普民调支持率触及两届以来新低 四成美国民众盼发生“革命性”变化 <https://news.google.com/rss/articles/CBMiakFVX3lxTE02dm9lVXQ1Y0h5UVh0Zm5SQnMzOXlQalgxZ0t6LTFNUHB2QWtCS3ZiTHFScWlVNlNSakxXYmVOdWtmZlhVemV0LUZ5VWFtelB2SDJrMHFCckgzWjBoVldVTF84d3dkUWw5WHc?oc=5>
+- **特朗普** | 贴身女助理随特朗普挤进餐车换机？英媒曝光更多细节 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5XM3FpZXZsZHZUN3kzWlRrQmM3SzhWcDRob19mZUlLMGdPbjdrMFJuWnRYWlI2ZGY1Wi1KM2I0eElrN1hETUFVb085MXc?oc=5>
+- **特朗普** | 特朗普证实“秘密换专机” <https://news.google.com/rss/articles/CBMieEFVX3lxTE8wV1VERldjemt6UEZVaXNDZFJXcE1wMms5SGdrYlQxYmU3WHhlYXlxQllNeG9MbFpqaURMUkNVNDlPb2JnVzdsenIydXdvZi1vUGNaa1pGZGR0dThXTW51QzVrM1B2N3N6OGxiWTZzQzNsTjgwWTl4cg?oc=5>
 
 ### 2026-08-13 11:41  (2 条)
 
