@@ -1,32 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-14 16:13**
-- 本轮扫到 9597 条, 新增 **2** 条
+- 最近更新: **2026-08-14 17:25**
+- 本轮扫到 9599 条, 新增 **2** 条
 
 ---
 
 ## 本轮新发现 (2 条)
 
-### 对欧洲军事存在进行评估期间 特朗普政府向北约盟国发“忠诚度”效益主义问卷
+### 特朗普：福特级的电磁弹射不行，换回蒸汽弹射
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-08-14 16:06
-- 链接: <https://news.google.com/rss/articles/CBMi7wNBVV95cUxOUmVSWlV1UjkxcWRSRDVHNUR2c0t1ckdWbkZVdnV4MDNOMVIwWTVCaG9FY2JXUGtBZU00Z3BoQy1qejNUdXhMa1VkTUxJRFU0SzdkZmlqUE1nYkl6NHZYdGY3Y2FHYndSR1EwSmVLZ1k2cUkwdTNZdHFxWXo1c2VTdEVNVkVWdzE0MUM5MnAteXg2azdMQjk4TW5Ca29GamJuYU1EZHZ5Q0N0dG5NVjRwTGtqd0pzWGdibHpXa1l5X0Y5SDk2cTdzWFpYaUwzQWRvTUpmRFA5bktuQ3dqZXBFSHBsWE9VcWttbi1oenkwMHN4X0pNWEFfWmJuU0lPRlFES3NWMGVmMExVZkRxazduNzdZUVB4NkRmZlFOUm5GLUtOQVk0RFRuVFo0ajNweWR5V3Jfc1lIWjAtaENCb2J5djQyQ3gtN1JXMWJkTHdZbVlySmZPNjRTdmNoWnFNS0hmMUk1REk4SUR6RGxDVHFMbVRDcEFfYl9tLThtTmloQU9nS2E2YlhrdnV3YUdxdHlkZ1IwdXZTQVE0Tk5QblNHY2pibEw3VWJ3MTBHSmo0RWREM2ZyQ01wam5ENUplbnZVNDZrdDdTczVadUFIeVBXZ294UDBVcEZJQUhPdGVQcUFQcUJZUHZTaWVwa0YtU1E?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-08-14 06:56
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE1Vc2ZvZlpWSzN6QkZmMEVmY25xSHp5THdudmR6M1FJZTdXMXI2aGJDMTJ6UlVPUzI1a0xMcy02ZVdFSW0zSzhhUUNGQlJsdWlWeVEwbHJsUHhBWXI4dGlQZmc5UVVuZ1dXYkFhVXVsWjJKMmU4?oc=5>
 
-### 特朗普政府请求最高法院放行白宫宴会厅项目
+### TRUMP在土耳其更换飞机的一点感想 - 永远老李发表于 时事述评 - 论坛 test1
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-08-14 14:11
-- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE1CbVREdXM4aWdsbXdTU2xPc01fM3ZSaC1QeGNRTnpqNHZDM3c5akY5YWJLTGIxX1d6YUUyVUdrRWtocFo3UENzVWs5U3FTV1p0ZC1aeWZ1OXZ0R1dLRTZLaEJVdkRkX0cycmZmSFJ1RWpoT01UODZYUEx3?oc=5>
+- 场馆: 文学城
+- 时间: 2026-08-14 09:02
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBidDFZMDMzWFZleDFIbXZQVGFtdE1mVjZSalVCR251T2lobUJxb0puUWpFRUtOOXM2LVFNbm5Tbk9DMDE2SzFEVVBZUDcxWVNSUnhRSGhkVjYxa0ctSS1tWE9aNzFQVkE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-14 17:25  (2 条)
+
+- **特朗普** | 特朗普：福特级的电磁弹射不行，换回蒸汽弹射 <https://news.google.com/rss/articles/CBMidEFVX3lxTE1Vc2ZvZlpWSzN6QkZmMEVmY25xSHp5THdudmR6M1FJZTdXMXI2aGJDMTJ6UlVPUzI1a0xMcy02ZVdFSW0zSzhhUUNGQlJsdWlWeVEwbHJsUHhBWXI4dGlQZmc5UVVuZ1dXYkFhVXVsWjJKMmU4?oc=5>
+- **Trump** | TRUMP在土耳其更换飞机的一点感想 - 永远老李发表于 时事述评 - 论坛 test1 <https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBidDFZMDMzWFZleDFIbXZQVGFtdE1mVjZSalVCR251T2lobUJxb0puUWpFRUtOOXM2LVFNbm5Tbk9DMDE2SzFEVVBZUDcxWVNSUnhRSGhkVjYxa0ctSS1tWE9aNzFQVkE?oc=5>
 
 ### 2026-08-14 16:13  (2 条)
 
