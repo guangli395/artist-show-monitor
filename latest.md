@@ -1,32 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-14 23:15**
-- 本轮扫到 9618 条, 新增 **2** 条
+- 最近更新: **2026-08-14 23:45**
+- 本轮扫到 9620 条, 新增 **2** 条
 
 ---
 
 ## 本轮新发现 (2 条)
 
-### 特朗普称等击败伊朗后，将“宣布霍尔木兹海峡属于美国领土”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-08-14 23:06
-- 链接: <https://news.google.com/rss/articles/CBMimANBVV95cUxOSW1ZZE5vZV8ycW1SZHBRZjZVUHcyWk4wSVY5SEVSaHMzZTNhellGc1lqcHFISHE4YTZEX3c5N3d6eWhzYnZPV2dGXzZacjdaa0hlbS02UnpUTmRFcmUtcGd3LVJ5QXJiMTZtRm1nR1ZQM2RuRFFFSU8tNVNDeElWSGlQVjFqLVlDSmUyVXJXNGdGVlVZOGMyZVFpV29IWUp5MWdsQVloTWlxOUcwMVd0ZHNfem1zQ0FRRjctM2tPakJWNHExU3JDeGNVYWdoemtKc1REcG5rQ3p3TzJfMVpoSTVEVjNLWHFVN0E2aWx4SHFYVFJydFlRcFNjSnZka0VQRzJ1Wm1oV2J3c1ZoODQ1RXZqZW1jNktuMVBIeEp3cUllYkVNalpibkZmczA3WFRHU18wS2FTS1NTdm1ZVHBpeVluV0FvR0JudlZvWXgxUk9aOWNhRjhtZGZNYmpDMlhSemJFVWJDNDlHZFNZeEF3ZWRyUE40aUxIZ2NseC1CYkZidTlZYkRxcmFweU9KTUJPb1pSSXVQLUw?oc=5>
-
-### 特朗普威胁宣布霍尔木兹为美国领土，美国将对伊朗采取“前所未见”的经济手段
+### 8月15日隔夜要闻：标普500周线三连阳 油价上涨 金价反弹 特朗普称“很快将宣布霍尔木兹海峡为美国领土”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-08-14 22:02
-- 链接: <https://news.google.com/rss/articles/CBMinwJBVV95cUxQdUIwZGxNdjJ2cW9Zd0dIX3h3TUZZR0lHNVlEYTJBU0VhU0gxcXVVSnJMTlJFdjVzdEllQ2VwT1RiYkFuNmEtVFN5UXlzd3FNNmxtRGp0a2pLaHNuWjc1VVlRLUIxWFI1MDI5eURneTZGb0pvZC12R3FTa2pidlVfcG5UeG5iMjdpVXcxZXhIcGlEbmQxN1FrVmdfUDJTcnVaUnptLVktY0RzOVNmVnp1c0V6M1NpcFhCRU5RVzkwNlVQR0d4ZWJqckpFdmxBTDJubVowZlA3eDZXZjI3Sk9mT1A3RUlmTkFhWEx3QkxsbE5nVzlLT1dtLXZRY0t3VmM0M2lwdkxXSjc5aHhlRzJzUkxueFN1X09meEZxRmp0QQ?oc=5>
+- 时间: 2026-08-14 23:15
+- 链接: <https://news.google.com/rss/articles/CBMimwJBVV95cUxOdHhJWFQtUDBmbTNYbGdqRmF2LTg5dks0VENwZmdqeTRjOUxzOU9WV09DQmV3RmE1XzI3bE9kSXVBT0s0ZkhQZG41bFlqTkVpeEZZbjNRdHg2S3ZEN1ZqNUdPMEd4aF9UUHdjeDNKNUlEQlpXUG9nb0Nva2EzdE5wb01KdEI2dm40QnZpRXJMc3IzU3I5VXhTODQ2V1hiVGxBQWVQN09Ia2hRM0tncjc3QS1wcWt3aDRQQ3ludktzTUo2V2VwNVl1ams2LW5FUkp3eFljd3NNX3Iza2lDbWs2cmlER09FOElvYlBnUE40SmlFMFEycFEzb2dOWkJ2QnhzY0x6OVhBZXdqUWZaSU4yRDhTendUbDk2c2RF?oc=5>
+
+### 特朗普称将在经济上对伊朗实施严厉打击
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-14 20:37
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5BZFgyck9WS2ZiVVdncEV4WWVORGdTeFN1TzVrQ2NuNnZ0NFE5YnpMUGJkQUFXbExXUTctdlNaNXl6V015ZTI5ZTRUYw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-14 23:45  (2 条)
+
+- **特朗普** | 8月15日隔夜要闻：标普500周线三连阳 油价上涨 金价反弹 特朗普称“很快将宣布霍尔木兹海峡为美国领土” <https://news.google.com/rss/articles/CBMimwJBVV95cUxOdHhJWFQtUDBmbTNYbGdqRmF2LTg5dks0VENwZmdqeTRjOUxzOU9WV09DQmV3RmE1XzI3bE9kSXVBT0s0ZkhQZG41bFlqTkVpeEZZbjNRdHg2S3ZEN1ZqNUdPMEd4aF9UUHdjeDNKNUlEQlpXUG9nb0Nva2EzdE5wb01KdEI2dm40QnZpRXJMc3IzU3I5VXhTODQ2V1hiVGxBQWVQN09Ia2hRM0tncjc3QS1wcWt3aDRQQ3ludktzTUo2V2VwNVl1ams2LW5FUkp3eFljd3NNX3Iza2lDbWs2cmlER09FOElvYlBnUE40SmlFMFEycFEzb2dOWkJ2QnhzY0x6OVhBZXdqUWZaSU4yRDhTendUbDk2c2RF?oc=5>
+- **特朗普** | 特朗普称将在经济上对伊朗实施严厉打击 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5BZFgyck9WS2ZiVVdncEV4WWVORGdTeFN1TzVrQ2NuNnZ0NFE5YnpMUGJkQUFXbExXUTctdlNaNXl6V015ZTI5ZTRUYw?oc=5>
 
 ### 2026-08-14 23:15  (2 条)
 
