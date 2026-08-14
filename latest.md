@@ -1,32 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-14 22:15**
-- 本轮扫到 9611 条, 新增 **2** 条
+- 最近更新: **2026-08-14 22:47**
+- 本轮扫到 9616 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (5 条)
 
-### 报道：Coinbase、a16z和Kalshi高管将出席白宫会议 特朗普也将与会
+### 特朗普称“很快将宣布霍尔木兹海峡为美国领土”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-08-14 20:44
-- 链接: <https://news.google.com/rss/articles/CBMiqgJBVV95cUxOQ29qbGdIUTNURmhwejJFQXVuWEVxU0ZaYWo3YVQyVzNHWC1TTzdKWHJWWXROa0psb3BMWVI0MFh1WWZ1NHd1UGRRalE2a1A4TWZ2OEZrYVZCaW8ySW9mWW9lQ1RzMVY3Z29LTFUzNTQwQkhGYXdaalJhdzZxcTZiekZ0NGk3eVdSRUhacVZPTnFzMno0VHNua0NrMllqaEJaU2lkV1FDVENMX1RXSWZBT3ZhYUV2VUZmNER2ejA2WGNxNG9UcnFoTTZURjlhY2VtV2lCUjFxUUpDTERwcVRvWlN0WVdFSzRaTURpZTVyWGlSOFp1OFhzdUpna05PRVRJalZ0NnphYWRVS1hubEIzaEZ6MUltS21fanYwNThnZVN3b0JRMC1xSXhB?oc=5>
+- 时间: 2026-08-14 22:32
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5KaVVqbGNhQWJ4R0YxMXlpdUxiNEp1U09lTFNuQTdJX2VIbWcxRFlCNU43SFVSdXFTdGVTOEdjM3oyTTZfcnRoRkRUODRDVDdTZ1JPcTR4ek5HdFBERlc5TXpKOWVhSmg3ZDlTX2NHcUN2aWxqcmoyXw?oc=5>
 
-### 特朗普下令美国新航母弃用电磁弹射系统
+### 特朗普称将在经济上对伊朗实施严厉打击
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-08-14 08:07
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5aZGR3d0FYNFBacUE5YllJa2dpblhaYzAxX2FOdzFxZG9QZVoyOVVPaXpXZDhlSjI2ZTk1NmZIRUVPNmpCNnViY1o0R0Y2SHVXSkZsQnJYWlRzdUFpeVdFOXQ5b2c4Zw?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-14 19:27
+- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxQS2d3X3lLLVhpVnlFNDBUbDVldWh1UjVPMmNtdE5RRGhfSllvb1BHMHc2cjJvUXNhcnRaMUF4UEV1ZmViWTEwVWozM2ZxclAxQXpCczhRa3ZGTVFYQXAwU2ZtdmRKZEtaMldVWWVrUFo3cUxwREZ6cVhfem9mOG1wZWplZ0h6MEpVRWpEVTJXcU9fS3BIYmRBNEVsZUxlR185SXZjdHZrd1RYdzRNejJscEFfaU9GWkhwMjFZeDUwT3FtWk1yZXVFOWZKOU1aZlE?oc=5>
+
+### 特朗普：我永远不会道歉
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-08-14 21:05
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9jV0tzTHdVaGlodmN3S2cyTllOY1pMT1I1M0JCLVZqSEFtY01SMDBrZW1OWEg3OWR0MjNnN1EyYWVjOFFzc2poRVotMlQ?oc=5>
+
+### 特朗普称将在经济上对伊朗实施严厉打击
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-08-14 20:11
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE53YlZQakZtMWtDU0s1alBqRG1JUUxKMm81RFpVVlB2dF9oa1lCZ1JaTkRZMnZ0VENrY3dpblItRndJcW9UZjdDWXBmTi1vREVnT2pYQ21nRVAtZC15S3EzWQ?oc=5>
+
+### 特朗普支持的世界自由银行获得联邦监管机构有条件银行执照
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: CoinDesk
+- 时间: 2026-08-14 21:05
+- 链接: <https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUWtqQzM1UnhUd1VreGplSEJtRVowRndYVm1KQ0g3TWxsaEVpbnNNTU5GT011RmNBVXg2MVp1LWZKZU9nNDRDX3BCQ3pKbU9tUXFNSzNwcTNPX19hTDNrRk1BeXRhalJkcGU2Z0RlakdCRENhU2VYbms3dXJBazRJM3FtTzFVdDFpOXFXQUNQOUVXZWN3elZxeHkzcHF1dURnUDVwS2dOR0xEQi1scmdtM2JRMTY1dWtZYnl6QjhqSlhpNDg?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-14 22:47  (5 条)
+
+- **特朗普** | 特朗普称“很快将宣布霍尔木兹海峡为美国领土” <https://news.google.com/rss/articles/CBMieEFVX3lxTE5KaVVqbGNhQWJ4R0YxMXlpdUxiNEp1U09lTFNuQTdJX2VIbWcxRFlCNU43SFVSdXFTdGVTOEdjM3oyTTZfcnRoRkRUODRDVDdTZ1JPcTR4ek5HdFBERlc5TXpKOWVhSmg3ZDlTX2NHcUN2aWxqcmoyXw?oc=5>
+- **特朗普** | 特朗普称将在经济上对伊朗实施严厉打击 <https://news.google.com/rss/articles/CBMizwFBVV95cUxQS2d3X3lLLVhpVnlFNDBUbDVldWh1UjVPMmNtdE5RRGhfSllvb1BHMHc2cjJvUXNhcnRaMUF4UEV1ZmViWTEwVWozM2ZxclAxQXpCczhRa3ZGTVFYQXAwU2ZtdmRKZEtaMldVWWVrUFo3cUxwREZ6cVhfem9mOG1wZWplZ0h6MEpVRWpEVTJXcU9fS3BIYmRBNEVsZUxlR185SXZjdHZrd1RYdzRNejJscEFfaU9GWkhwMjFZeDUwT3FtWk1yZXVFOWZKOU1aZlE?oc=5>
+- **特朗普** | 特朗普：我永远不会道歉 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9jV0tzTHdVaGlodmN3S2cyTllOY1pMT1I1M0JCLVZqSEFtY01SMDBrZW1OWEg3OWR0MjNnN1EyYWVjOFFzc2poRVotMlQ?oc=5>
+- **特朗普** | 特朗普称将在经济上对伊朗实施严厉打击 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE53YlZQakZtMWtDU0s1alBqRG1JUUxKMm81RFpVVlB2dF9oa1lCZ1JaTkRZMnZ0VENrY3dpblItRndJcW9UZjdDWXBmTi1vREVnT2pYQ21nRVAtZC15S3EzWQ?oc=5>
+- **Trump** | 特朗普支持的世界自由银行获得联邦监管机构有条件银行执照 <https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUWtqQzM1UnhUd1VreGplSEJtRVowRndYVm1KQ0g3TWxsaEVpbnNNTU5GT011RmNBVXg2MVp1LWZKZU9nNDRDX3BCQ3pKbU9tUXFNSzNwcTNPX19hTDNrRk1BeXRhalJkcGU2Z0RlakdCRENhU2VYbms3dXJBazRJM3FtTzFVdDFpOXFXQUNQOUVXZWN3elZxeHkzcHF1dURnUDVwS2dOR0xEQi1scmdtM2JRMTY1dWtZYnl6QjhqSlhpNDg?oc=5>
 
 ### 2026-08-14 22:15  (2 条)
 
