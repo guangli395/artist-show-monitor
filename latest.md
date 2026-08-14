@@ -1,38 +1,82 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-14 09:33**
-- 本轮扫到 9580 条, 新增 **3** 条
+- 最近更新: **2026-08-14 10:52**
+- 本轮扫到 9587 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (7 条)
 
-### 王一博发布VCR致敬禁毒警察，呼吁拒绝毒品
+### 澳总理与特朗普通话谈关税等问题 并指中方导弹试射在太平洋引发极大担忧
 
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7785470890_m1d00cdbaa03301v4ne.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-08-14 10:38
+- 链接: <https://news.google.com/rss/articles/CBMi7ANBVV95cUxNbWxMSDFsS2IxTGFBVXhTRHRCSEt2bTdUX3E5NDRkWkhBUHRqTmhDVk5CVnV0N2hGeU1EN1BYVlVGTkVueGZMMXBTOXRzcnQybDRRYmxBQmJOZnZ5YTB2YVFJbDkxTDZCbUVsQ3pYU1ZMWFV4Vnc1M0k5blJmUWRfZXl1RUE3ZG5IZFdtVGVfNXBBaEtfOE9xbW1LS3M4bUdNQXNrZ3JJbjdGZzlsbXRhMWx5Y3F2aHFCbzl3ZGhxNjFGXzVXTFJPc2NVQ3VuR1gwSnlsTUQwRERZdTJvR0d1UElsU1AtMDVzSWw0Ym5iSkFNZXNKUFB1d1JqZnlqMU05aHV5UDBpU3h5M0J2YlZ1UU4yVi1vZVhtZlRxOU9OM3AtTmVLRjc5Y2h5NFZpeHNFUER5MGdsWXZXRkhHZFZSOGJxUE5fdzIzMlFfSkJLYkNkQ1k0SEEyY21MYUVQbEtkM0RzVGp4bzZOeWJKNFNkZWl1THJlS0dVbnF3RnZkQ1ZCbTZnaEdQR3VLQTM3a1ItUmRvbDZNY015WTBjVVNjZmlkN0pOdm9iNEs0Z0hMUjB1dTBsS2xObWtUc1BRN3kxVUtkeld4Tk5NMW5MNzhNSndxWFlodVg0MUl5WU5Ta0k5SkZLdDlLaE1sZmQ?oc=5>
 
-### 特朗普贴文快速访问权第一批客户签约主要是量化公司
+### 特朗普女婿干了票大的！联手沙特太子，搞定3700亿史上最大杠杆并购
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪网
-- 时间: 2026-08-14 09:17
-- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxNSVhZZzBfczJWWTd6OFlEaWRxZDhzQUtqWVhpX0ZadnVGWk5sNXgyQV9TSmRFbmZjOFR1NzFpaWxjcUFUTm1YYzViVW9aZWVkSDYtazBfWmFDaUt4akpzVUhQSktZSXpXMGhYbndMV0N3MXNycjBRbHZrXzF2NjNKWQ?oc=5>
+- 时间: 2026-08-14 10:13
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFBpbE1ZMTA4QlluZEMyU18yd0poQmFZYU5lT1UxckV3ZVRhRHdJVEtzbEExd1UtYmwtWG4yVUpKNFgzUzF4MENucmRXMmRnZkpLanlIOGY1NllrVkZVV3ZfWTN5OThsZDIxZWhFZEZhUUFsQQ?oc=5>
 
-### 特朗普马斯克“重归于好”？
+### 与特朗普存在关联的油气合资企业收到格陵兰政府警告，推迟钻探计划
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-08-14 08:50
-- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTE9tbHZPN1VSWFBNMUd0dkNUcllLZlJobGJaX3pOdGlzeTQwLU1aM1ZSQ0ljYW14c0hMT2RtbldoUUE4M2FPRWdwSGFZLWJoN09jd0ZfeDE0TU5pT3F3ZUFYc2hTR1UzZFhuaDM2bUJn?oc=5>
+- 时间: 2026-08-14 10:30
+- 链接: <https://news.google.com/rss/articles/CBMimgJBVV95cUxPbi04T24zSHdkLXdXVkdYVjRGQzR0Y3RST2Q2UFY3VTRVb1FTM1hfaWJ4cVVUQTQ4aXM0RWFwaVZpbTJQQjhoaFZCWXpBbGdXUUFoeUJodWIxY3VfM2piQl9OVWl0LUVPY3hhSVRoUzYwLWl3S2l1Q2VNbzBjeHY2alpWMDN4azdrUm1CbURnbHl2ak5YVm9IaGxlQW1UME9IQmxWUWJPczFzZkpHZnJyVkl4cE5oelFGQ3l1UzdJb25Zd2pvbGpiTnM4dFlxdzhJOGNLcmtyXy1Kcnk0OGwtdGhPYlpqMXVHeFFCNHJqY2xTR29ZaU42QVZPUTRYQlBZVm8yV25McGF5eDdKckhlWnhYRTBNM3hENkE?oc=5>
+
+### 事关特朗普与马斯克，美媒最新爆料
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-08-14 07:37
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1pb1U5cWlQLWRFa3dJODNGLUh3eGJ4MS1UQkFLTnpUdnVMYUYzd1phLVlnUm1uTENqRXZuWkl0U2REMEljd21NX0lNU04?oc=5>
+
+### 特朗普要五角大楼重振美国舰船工业
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: hkong.cn
+- 时间: 2026-08-13 17:28
+- 链接: <https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ZYVdUVDlkZjJ0djlYMmlvc0NlYzdMMG40elVMa1RERU1qMmJmQko1ZVZvYjZMcGZjOVBWYTh2by1NdlZVZVZGOVdkTmFxbW1hUVhrSA?oc=5>
+
+### Trump Announces Drone Tariffs to Bolster U.S. Supply Chains and Counter China
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-08-14 09:49
+- 链接: <https://news.google.com/rss/articles/CBMirAFBVV95cUxOV05DZ21EVDdmXy1ZVWpEY25yRUxSUy1wNEZJM0huSnJCWU56U1VybmkwMVJPMTBqTmo5UVVwdTl6aENfZkdaZEt2OWR6SHNHa1czTEhnSXRSUXU0M081alN3R1R0aTBuY0lMSE41cllna1ctTUZCWmcyaFM4MU5RWWc3M2NpWTd0UUhWREw4MVh4NllWVkJjNmF0alBIUHhvakpoTG5LQ3VyMUw0?oc=5>
+
+### How Trump and Musk Rekindled a Relationship That Seemed Beyond Repair
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-08-14 09:51
+- 链接: <https://news.google.com/rss/articles/CBMirgFBVV95cUxPczNsaWNubkwzdG9qN0V6TGQtY0xQZWl5ZTVMS25KZ0E1Tzg5eHhXcVZTTG9IRnNkWjVwLWNPenppNUZWWTE0UkI4dXlsZmNINVNMcy1mNjR5bDZ2NVBES3NSSWNCRTRKVTgyZTltbXItRThwX1U5dW1XN2JZVXlfamlkdmFJQXN6elFJSUtCR0w2SFB4NHRMc1hPQ3ktQ2NHLU5uYzVzQ1I5eVBtQmc?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-14 10:52  (7 条)
+
+- **特朗普** | 澳总理与特朗普通话谈关税等问题 并指中方导弹试射在太平洋引发极大担忧 <https://news.google.com/rss/articles/CBMi7ANBVV95cUxNbWxMSDFsS2IxTGFBVXhTRHRCSEt2bTdUX3E5NDRkWkhBUHRqTmhDVk5CVnV0N2hGeU1EN1BYVlVGTkVueGZMMXBTOXRzcnQybDRRYmxBQmJOZnZ5YTB2YVFJbDkxTDZCbUVsQ3pYU1ZMWFV4Vnc1M0k5blJmUWRfZXl1RUE3ZG5IZFdtVGVfNXBBaEtfOE9xbW1LS3M4bUdNQXNrZ3JJbjdGZzlsbXRhMWx5Y3F2aHFCbzl3ZGhxNjFGXzVXTFJPc2NVQ3VuR1gwSnlsTUQwRERZdTJvR0d1UElsU1AtMDVzSWw0Ym5iSkFNZXNKUFB1d1JqZnlqMU05aHV5UDBpU3h5M0J2YlZ1UU4yVi1vZVhtZlRxOU9OM3AtTmVLRjc5Y2h5NFZpeHNFUER5MGdsWXZXRkhHZFZSOGJxUE5fdzIzMlFfSkJLYkNkQ1k0SEEyY21MYUVQbEtkM0RzVGp4bzZOeWJKNFNkZWl1THJlS0dVbnF3RnZkQ1ZCbTZnaEdQR3VLQTM3a1ItUmRvbDZNY015WTBjVVNjZmlkN0pOdm9iNEs0Z0hMUjB1dTBsS2xObWtUc1BRN3kxVUtkeld4Tk5NMW5MNzhNSndxWFlodVg0MUl5WU5Ta0k5SkZLdDlLaE1sZmQ?oc=5>
+- **特朗普** | 特朗普女婿干了票大的！联手沙特太子，搞定3700亿史上最大杠杆并购 <https://news.google.com/rss/articles/CBMickFVX3lxTFBpbE1ZMTA4QlluZEMyU18yd0poQmFZYU5lT1UxckV3ZVRhRHdJVEtzbEExd1UtYmwtWG4yVUpKNFgzUzF4MENucmRXMmRnZkpLanlIOGY1NllrVkZVV3ZfWTN5OThsZDIxZWhFZEZhUUFsQQ?oc=5>
+- **特朗普** | 与特朗普存在关联的油气合资企业收到格陵兰政府警告，推迟钻探计划 <https://news.google.com/rss/articles/CBMimgJBVV95cUxPbi04T24zSHdkLXdXVkdYVjRGQzR0Y3RST2Q2UFY3VTRVb1FTM1hfaWJ4cVVUQTQ4aXM0RWFwaVZpbTJQQjhoaFZCWXpBbGdXUUFoeUJodWIxY3VfM2piQl9OVWl0LUVPY3hhSVRoUzYwLWl3S2l1Q2VNbzBjeHY2alpWMDN4azdrUm1CbURnbHl2ak5YVm9IaGxlQW1UME9IQmxWUWJPczFzZkpHZnJyVkl4cE5oelFGQ3l1UzdJb25Zd2pvbGpiTnM4dFlxdzhJOGNLcmtyXy1Kcnk0OGwtdGhPYlpqMXVHeFFCNHJqY2xTR29ZaU42QVZPUTRYQlBZVm8yV25McGF5eDdKckhlWnhYRTBNM3hENkE?oc=5>
+- **特朗普** | 事关特朗普与马斯克，美媒最新爆料 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1pb1U5cWlQLWRFa3dJODNGLUh3eGJ4MS1UQkFLTnpUdnVMYUYzd1phLVlnUm1uTENqRXZuWkl0U2REMEljd21NX0lNU04?oc=5>
+- **特朗普** | 特朗普要五角大楼重振美国舰船工业 <https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ZYVdUVDlkZjJ0djlYMmlvc0NlYzdMMG40elVMa1RERU1qMmJmQko1ZVZvYjZMcGZjOVBWYTh2by1NdlZVZVZGOVdkTmFxbW1hUVhrSA?oc=5>
+- **Trump** | Trump Announces Drone Tariffs to Bolster U.S. Supply Chains and Counter China <https://news.google.com/rss/articles/CBMirAFBVV95cUxOV05DZ21EVDdmXy1ZVWpEY25yRUxSUy1wNEZJM0huSnJCWU56U1VybmkwMVJPMTBqTmo5UVVwdTl6aENfZkdaZEt2OWR6SHNHa1czTEhnSXRSUXU0M081alN3R1R0aTBuY0lMSE41cllna1ctTUZCWmcyaFM4MU5RWWc3M2NpWTd0UUhWREw4MVh4NllWVkJjNmF0alBIUHhvakpoTG5LQ3VyMUw0?oc=5>
+- **Trump** | How Trump and Musk Rekindled a Relationship That Seemed Beyond Repair <https://news.google.com/rss/articles/CBMirgFBVV95cUxPczNsaWNubkwzdG9qN0V6TGQtY0xQZWl5ZTVMS25KZ0E1Tzg5eHhXcVZTTG9IRnNkWjVwLWNPenppNUZWWTE0UkI4dXlsZmNINVNMcy1mNjR5bDZ2NVBES3NSSWNCRTRKVTgyZTltbXItRThwX1U5dW1XN2JZVXlfamlkdmFJQXN6elFJSUtCR0w2SFB4NHRMc1hPQ3ktQ2NHLU5uYzVzQ1I5eVBtQmc?oc=5>
 
 ### 2026-08-14 09:33  (3 条)
 
