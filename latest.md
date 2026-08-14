@@ -1,48 +1,82 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-14 01:21**
-- 本轮扫到 9551 条, 新增 **4** 条
+- 最近更新: **2026-08-14 03:35**
+- 本轮扫到 9558 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (7 条)
 
-### 因“真实社交”付费抢先看服务，特朗普被起诉
+### 特朗普允许美海军海外建造舰船 要求弃用电磁弹射系统
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-08-14 00:48
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBuQ0Y2V3lVOEx1QVIzWTlGWHZqZVFMb2h0MEo3amNGRlRnVF9QeHRPbTZ4UkpTcUljQnNtVVpHYUtpUTUxVzlMeDZGYS1Od0M2SjRIS2duRjRCMDJXTGc0NUUxM0poV0lWZVhTMGVVd0l2SkdTdDJSamM2amNKSG8?oc=5>
+- 场馆: 央视网
+- 时间: 2026-08-14 02:11
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBoSGhFSkhFY0tpUS1ZNlcyazhXUEdleEM5dHJrbnY4VkNQWDJjd3Q1dkFGZzFfckUzaUJ2N2FsVUd4clNYVGVaUnFYbjBIMVlYR2FlMUMwSTZ3Z3E3Z2ZfNkU3ZGVXNDRDcEsyOXJGdURRaXNVblFSZQ?oc=5>
 
-### 特朗普下令海军在航母上恢复采用较旧技术，将耗资数十亿美元
+### 特朗普与马斯克如何修复了曾看似无可挽回的关系
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 华尔街日报中文网
-- 时间: 2026-08-13 23:35
-- 链接: <https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ1NPb01tbThPRTAxYWREcUVWVEZ1bHdoU3IzVEduLVA5T19pbFdIeDJCbm4wbnJXek52UXZRSm5ScjJRR3Zza1E3cDRRV2k2UVJ6Y0xueWZHMlYteGQ1azBxa3lhcDlRZ0lxSU04ZlNiNTI4YXVFUk9zRENCcWt3dWhtclNXMlZtOUVQWGNRNm5PVlhKcnRCelZybGtrWUpXN1FDa1dySlN0b1k5M0hrWUFOcnpSbTVvMXc?oc=5>
+- 时间: 2026-08-14 03:25
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFBuWHI4REY2X2ZhZW9rd24wTTFmZ0dnMzZlX3VGR0pEeUQydFNuZzE4SUc1SzVxNFZZc0dpbGdQellUd01JV2dPUktqbVpxdmtiZUFJRzVSaVFGM0V0Z1Y0U1hXOEMtSTdPb0ZMTlE4b2hBS2M?oc=5>
 
-### 发警报迫使特朗普换机 中情局质疑以色列用意
+### 最年轻新闻秘书，“弃特朗普而去”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-08-14 00:46
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE03YnRHbHVlMVU5eWQyOGY0eV9Cbkc3ekd3NnpFc3BqQVRqRm1iRlIyRFNTbldzRFVnMXowMmZhang4T2lNYlhJRThNY3pVRjlOQmpqV0hyR0Y3WWFTcUxNTExMM2hDV2JjWE9NRVczYW8zRGVCVnJneFpkM21lVjQ?oc=5>
+- 场馆: 中国网新闻中心
+- 时间: 2026-08-14 02:36
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTFBvOElHYWpFMDFDdTZMSVlRM1ZqeTFMUTJPdGFmX2phbVdmV3hNS3YzU1EwX0xtM3NKaXVoNFlTQ21ISjdEQlN6dC1kZnJ0ME93TnZkaDZoUDNMMl9mTl9BR2xtTzlZWDdMRU1r?oc=5>
 
-### “谁在替特朗普交易？”民主党盯上总统数万笔股票操作
+### 美媒：莱维特离任后，特朗普的“相扑手”张振熙或接任白宫新闻秘书
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: FX168财经
-- 时间: 2026-08-14 01:17
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5Wb2VUQm9TdHF0NktrTF9hNHlwQV9FNUg5Yk5vbzJwcVhmcjhBZXg5ampNb2tTcjY0NFdWVTA1MXFhenh6Z2dfclU2b3otNG03V00xeTl5bHdzWXFHLVNBdTdPTXNwbTUxSmxUZmZFV0t5N2JQell6TQ?oc=5>
+- 场馆: 观察者
+- 时间: 2026-08-14 01:57
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE4xVEc3UW0zalBUNDRHSExRMkhFdVNJVEtfbjRzOEQ3Tm1OdGtjQndyNEZhaFRuMmtEci1KcElvODRHVE5ORk5LbjcyTmdSWEJrSUMyQnZrZkphUUFIWlpYYnI5bGRYMzF3R1E?oc=5>
+
+### 特朗普最强“嘴替”莱维特辞职，曾将为总统辩护做到极致
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-08-14 02:18
+- 链接: <https://news.google.com/rss/articles/CBMi5gJBVV95cUxNNTk4MDI5VWZ1V3h5cHpWSENScHFvZl9HamNRMktpMlkxOWZvR0dNQWVFaDhkZEFjaUdwcFBSSXlETVA5ZXA5ajVPcXhIS19ma3N5VWMyb2lscGNGWml1NGZ4dV9sQWhtSjRKMVMta3RZVHJsZ0pLRDBUYUZNRVQ2M1N0a0Z2QW5iRnQtTDJxaGJ6MDhOMjNETHRWM2hpMlVOM2tOTGdyUzR0cDJIWVRjYTZmMEpxZG1DSlBFNlpwQVRnV3p6OHB6N29hLWpzZzlES0UwbHdyc3Njd1YteGJpek5JX3o4UkRubW8wUXVWS1B3dl9tcnBMVTlYUjJYV2RtNUJ4MlN1VFhCallmRGhWc01YSExZX0NnUFJWalVFQzYwUFMwZ0M1Z0NDcVlETVlUbWlzSzhJWklNazZXMjRUdjY1cEhoci0tc0ZlRFNlZDlJQTRJcWJOTExOQVRvSWZmZVZtNnNn?oc=5>
+
+### 特朗普：进口无人机及零部件最高征100%关税
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-08-13 23:08
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE11VlFmckZLNkxqOGFmMlN2RG5iRDZ2dGczZnNhdWVtbW5ZOFNwb2wzV0FiS0xwdkNwTEppZTZOMzRRbEVneGZLMF85dm9yX2pTQVh1TE1yMDc2SVFGUlVIRHc0RjBHT3dCanc?oc=5>
+
+### 以色列多次警告伊朗要刺杀特朗普，美情报部门：无法核实
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-08-14 00:35
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBMNUlyRHBxZEpCMlNCd3haMVJxb2lQNDBhNWxrSnhWWUtUX1dZYS04RU9wbnk2RW91TUViOHRTY0lIVXpZeTlrUlRPMTI5MTJiN2Rrb21HRGhSeHBCR2dNbUtrQzNHTXZCY2c?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-14 03:35  (7 条)
+
+- **特朗普** | 特朗普允许美海军海外建造舰船 要求弃用电磁弹射系统 <https://news.google.com/rss/articles/CBMieEFVX3lxTFBoSGhFSkhFY0tpUS1ZNlcyazhXUEdleEM5dHJrbnY4VkNQWDJjd3Q1dkFGZzFfckUzaUJ2N2FsVUd4clNYVGVaUnFYbjBIMVlYR2FlMUMwSTZ3Z3E3Z2ZfNkU3ZGVXNDRDcEsyOXJGdURRaXNVblFSZQ?oc=5>
+- **特朗普** | 特朗普与马斯克如何修复了曾看似无可挽回的关系 <https://news.google.com/rss/articles/CBMic0FVX3lxTFBuWHI4REY2X2ZhZW9rd24wTTFmZ0dnMzZlX3VGR0pEeUQydFNuZzE4SUc1SzVxNFZZc0dpbGdQellUd01JV2dPUktqbVpxdmtiZUFJRzVSaVFGM0V0Z1Y0U1hXOEMtSTdPb0ZMTlE4b2hBS2M?oc=5>
+- **特朗普** | 最年轻新闻秘书，“弃特朗普而去” <https://news.google.com/rss/articles/CBMia0FVX3lxTFBvOElHYWpFMDFDdTZMSVlRM1ZqeTFMUTJPdGFmX2phbVdmV3hNS3YzU1EwX0xtM3NKaXVoNFlTQ21ISjdEQlN6dC1kZnJ0ME93TnZkaDZoUDNMMl9mTl9BR2xtTzlZWDdMRU1r?oc=5>
+- **特朗普** | 美媒：莱维特离任后，特朗普的“相扑手”张振熙或接任白宫新闻秘书 <https://news.google.com/rss/articles/CBMiakFVX3lxTE4xVEc3UW0zalBUNDRHSExRMkhFdVNJVEtfbjRzOEQ3Tm1OdGtjQndyNEZhaFRuMmtEci1KcElvODRHVE5ORk5LbjcyTmdSWEJrSUMyQnZrZkphUUFIWlpYYnI5bGRYMzF3R1E?oc=5>
+- **特朗普** | 特朗普最强“嘴替”莱维特辞职，曾将为总统辩护做到极致 <https://news.google.com/rss/articles/CBMi5gJBVV95cUxNNTk4MDI5VWZ1V3h5cHpWSENScHFvZl9HamNRMktpMlkxOWZvR0dNQWVFaDhkZEFjaUdwcFBSSXlETVA5ZXA5ajVPcXhIS19ma3N5VWMyb2lscGNGWml1NGZ4dV9sQWhtSjRKMVMta3RZVHJsZ0pLRDBUYUZNRVQ2M1N0a0Z2QW5iRnQtTDJxaGJ6MDhOMjNETHRWM2hpMlVOM2tOTGdyUzR0cDJIWVRjYTZmMEpxZG1DSlBFNlpwQVRnV3p6OHB6N29hLWpzZzlES0UwbHdyc3Njd1YteGJpek5JX3o4UkRubW8wUXVWS1B3dl9tcnBMVTlYUjJYV2RtNUJ4MlN1VFhCallmRGhWc01YSExZX0NnUFJWalVFQzYwUFMwZ0M1Z0NDcVlETVlUbWlzSzhJWklNazZXMjRUdjY1cEhoci0tc0ZlRFNlZDlJQTRJcWJOTExOQVRvSWZmZVZtNnNn?oc=5>
+- **特朗普** | 特朗普：进口无人机及零部件最高征100%关税 <https://news.google.com/rss/articles/CBMiakFVX3lxTE11VlFmckZLNkxqOGFmMlN2RG5iRDZ2dGczZnNhdWVtbW5ZOFNwb2wzV0FiS0xwdkNwTEppZTZOMzRRbEVneGZLMF85dm9yX2pTQVh1TE1yMDc2SVFGUlVIRHc0RjBHT3dCanc?oc=5>
+- **特朗普** | 以色列多次警告伊朗要刺杀特朗普，美情报部门：无法核实 <https://news.google.com/rss/articles/CBMiakFVX3lxTFBMNUlyRHBxZEpCMlNCd3haMVJxb2lQNDBhNWxrSnhWWUtUX1dZYS04RU9wbnk2RW91TUViOHRTY0lIVXpZeTlrUlRPMTI5MTJiN2Rrb21HRGhSeHBCR2dNbUtrQzNHTXZCY2c?oc=5>
 
 ### 2026-08-14 01:21  (4 条)
 
