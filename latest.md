@@ -1,48 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-14 15:14**
-- 本轮扫到 9595 条, 新增 **4** 条
+- 最近更新: **2026-08-14 16:13**
+- 本轮扫到 9597 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (2 条)
 
-### 因“真实社交”付费抢先看服务，特朗普被起诉
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-08-14 14:25
-- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxNeDB6V2ItZ3E5bXNra0picWJYYXY4cmd1UEV1VGpNQ29keU1QeXp1bDFVbnFCN3FxMC14MmJLaGpjLURuZ012anVqaEJNR0xBbjNnS0g4dk5qTG1IbHFFODNqUTl5elNzOVNnb2ZsWnRmOWw4M2F5RFhMLU85QkV4SERsbFcwWG1saF9TVk0zUGxKd29ya05tQzFxa0dYeXZJ?oc=5>
-
-### 美国宣布对进口无人机及零部件征收至高100%关税 加速脱钩
+### 对欧洲军事存在进行评估期间 特朗普政府向北约盟国发“忠诚度”效益主义问卷
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: RFI
-- 时间: 2026-08-14 09:53
-- 链接: <https://news.google.com/rss/articles/CBMiqgNBVV95cUxOUzBQdUVsZDJVUUxFN1ZNajFXZTlPUjlXNG1sV3NINWRQQ0JDLXN6SVZZRjBSSlEyclBLR1NUNTkzc3JEeHdCWFVPN2ZVd0pES2F1MFBIZnZ4d3h6YmpqZV9iQTdQRVhGaVM2c3lickhud2h3eEM1cGhtdkNGeGtkZFlkUmJoZGxBUlhBLUVKNGRtN1g3Vmp6TFJpX0QzRGdqOGVTckVlT0pZQjlwVEozSVZVbWk4UVBBOGY0QjNsU3I5b0Y3Y0dGeEEtVzUwc3Jzcko1bHIzYXZVZnlOdVFYZGdzbFlCVXdkbHdNc0pyaFpRcUJfU20tUzBRbXZJRXo5UkRVTW9DcVBwOVR5eF9nNVRveWlxRnZPdkRjNjZNSTRPUnJ4aHFRZlV2T2xqVS1pb0NOWm1BSVM0VVhJTThuLTlTUEJlY2hoVF9JbmJvU1NraGM0dHZGNkpRWVNTdHRWcy04TUZsNFBzb3BSX3dsU3BsVW0tSGkxRzhmQXdzWEhLWVZaYy1SZ0JBWkpyR1NPRXZtUWV1YU8yTVdMVkJ1ZW5DYnoxSzhjUnc?oc=5>
+- 时间: 2026-08-14 16:06
+- 链接: <https://news.google.com/rss/articles/CBMi7wNBVV95cUxOUmVSWlV1UjkxcWRSRDVHNUR2c0t1ckdWbkZVdnV4MDNOMVIwWTVCaG9FY2JXUGtBZU00Z3BoQy1qejNUdXhMa1VkTUxJRFU0SzdkZmlqUE1nYkl6NHZYdGY3Y2FHYndSR1EwSmVLZ1k2cUkwdTNZdHFxWXo1c2VTdEVNVkVWdzE0MUM5MnAteXg2azdMQjk4TW5Ca29GamJuYU1EZHZ5Q0N0dG5NVjRwTGtqd0pzWGdibHpXa1l5X0Y5SDk2cTdzWFpYaUwzQWRvTUpmRFA5bktuQ3dqZXBFSHBsWE9VcWttbi1oenkwMHN4X0pNWEFfWmJuU0lPRlFES3NWMGVmMExVZkRxazduNzdZUVB4NkRmZlFOUm5GLUtOQVk0RFRuVFo0ajNweWR5V3Jfc1lIWjAtaENCb2J5djQyQ3gtN1JXMWJkTHdZbVlySmZPNjRTdmNoWnFNS0hmMUk1REk4SUR6RGxDVHFMbVRDcEFfYl9tLThtTmloQU9nS2E2YlhrdnV3YUdxdHlkZ1IwdXZTQVE0Tk5QblNHY2pibEw3VWJ3MTBHSmo0RWREM2ZyQ01wam5ENUplbnZVNDZrdDdTczVadUFIeVBXZ294UDBVcEZJQUhPdGVQcUFQcUJZUHZTaWVwa0YtU1E?oc=5>
 
-### 特朗普政府对进口无人机征收关税 最高税率达100%
+### 特朗普政府请求最高法院放行白宫宴会厅项目
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-08-14 11:28
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5HcFNMV1gxY01BeWlSbVJ2dTVXcnVLcjR2WGxRNUtQTVRrb3FlQ29FUnZEcDRqVHlyQlBrUWFMelZjM255dkpOTDlta0NyRy03LWktcU1BNEg3b1IzTTNQc2gzbEZJUHM3Y1E?oc=5>
-
-### 特朗普向伊朗发出的强烈信息| Kayleen Pontbriand nzqa发布于币安广场
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Binance
-- 时间: 2026-08-14 13:47
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wNVpJWmhkMmo1LVQ4SGprczFYWTA5NTN2TnNnMkI3cHRsaG9FUklKc2t1MVBwbzYxblVMQTZyR1ZGSG5kQkQ5Zk5wbDNsZ1ZidTZoTVhRTHlSV1EzczMtYk9yb2ZVU093?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-08-14 14:11
+- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE1CbVREdXM4aWdsbXdTU2xPc01fM3ZSaC1QeGNRTnpqNHZDM3c5akY5YWJLTGIxX1d6YUUyVUdrRWtocFo3UENzVWs5U3FTV1p0ZC1aeWZ1OXZ0R1dLRTZLaEJVdkRkX0cycmZmSFJ1RWpoT01UODZYUEx3?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-14 16:13  (2 条)
+
+- **特朗普** | 对欧洲军事存在进行评估期间 特朗普政府向北约盟国发“忠诚度”效益主义问卷 <https://news.google.com/rss/articles/CBMi7wNBVV95cUxOUmVSWlV1UjkxcWRSRDVHNUR2c0t1ckdWbkZVdnV4MDNOMVIwWTVCaG9FY2JXUGtBZU00Z3BoQy1qejNUdXhMa1VkTUxJRFU0SzdkZmlqUE1nYkl6NHZYdGY3Y2FHYndSR1EwSmVLZ1k2cUkwdTNZdHFxWXo1c2VTdEVNVkVWdzE0MUM5MnAteXg2azdMQjk4TW5Ca29GamJuYU1EZHZ5Q0N0dG5NVjRwTGtqd0pzWGdibHpXa1l5X0Y5SDk2cTdzWFpYaUwzQWRvTUpmRFA5bktuQ3dqZXBFSHBsWE9VcWttbi1oenkwMHN4X0pNWEFfWmJuU0lPRlFES3NWMGVmMExVZkRxazduNzdZUVB4NkRmZlFOUm5GLUtOQVk0RFRuVFo0ajNweWR5V3Jfc1lIWjAtaENCb2J5djQyQ3gtN1JXMWJkTHdZbVlySmZPNjRTdmNoWnFNS0hmMUk1REk4SUR6RGxDVHFMbVRDcEFfYl9tLThtTmloQU9nS2E2YlhrdnV3YUdxdHlkZ1IwdXZTQVE0Tk5QblNHY2pibEw3VWJ3MTBHSmo0RWREM2ZyQ01wam5ENUplbnZVNDZrdDdTczVadUFIeVBXZ294UDBVcEZJQUhPdGVQcUFQcUJZUHZTaWVwa0YtU1E?oc=5>
+- **特朗普** | 特朗普政府请求最高法院放行白宫宴会厅项目 <https://news.google.com/rss/articles/CBMiekFVX3lxTE1CbVREdXM4aWdsbXdTU2xPc01fM3ZSaC1QeGNRTnpqNHZDM3c5akY5YWJLTGIxX1d6YUUyVUdrRWtocFo3UENzVWs5U3FTV1p0ZC1aeWZ1OXZ0R1dLRTZLaEJVdkRkX0cycmZmSFJ1RWpoT01UODZYUEx3?oc=5>
 
 ### 2026-08-14 15:14  (4 条)
 
