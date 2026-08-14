@@ -1,46 +1,44 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-14 08:09**
-- 本轮扫到 9577 条, 新增 **4** 条
+- 最近更新: **2026-08-14 09:33**
+- 本轮扫到 9580 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (3 条)
 
-### 我想听樊振东演唱会 @RIMOWA日默瓦 @樊振东 现场版
+### 王一博发布VCR致敬禁毒警察，呼吁拒绝毒品
 
-- 艺人/关键词: **周杰伦**
+- 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923920_m1d5ae18d003301i8gc.html>
+- 链接: <https://k.sina.com.cn/article_7785470890_m1d00cdbaa03301v4ne.html>
 
-### 美国称数十个国家帮助中国规避特朗普关税
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: idnfinancials.com
-- 时间: 2026-08-14 08:00
-- 链接: <https://news.google.com/rss/articles/CBMiuwJBVV95cUxQNFZWalN2STlwUHY4OTBmaDV4dm16X1BfTlBJVUt4S3dVTUJWRkhoa0haZk5hSlQtWGs5X0JBVVNQeUJ3dUl6SXE3U1NVUDJ5bEIwUDV2TF9Od3RfbC1MWWxwdG1mUWZYODdEZUpSRkFoX0p5a2tCcEdPTWp0NDNTSTVEdG1wZWxWc1VfaUx1TklZTWZyb3lmWmhGS2VVQTJHR2kwM25YV2M2UEpYN05xd1FaNWQ1TjhXYjFwR1NFMWhuTERRMFRCblJ4X2NtQk53R2tlRm5mUW04b0l6d1E3UGZ3cHM4VVktcEhkaGlqMG9EY2VPQUpmZnpOd0NZWG1PNmtMeGhyNTdpdmhwQWw3UzJEb2VpaGdaRXBIemJEM0lFTUg2dHQ2bWRjakFseWVkaGVJNUh2bXJrX3M?oc=5>
-
-### 事关特朗普与马斯克，美媒最新爆料
+### 特朗普贴文快速访问权第一批客户签约主要是量化公司
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 环球网
-- 时间: 2026-08-13 16:38
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE81c05LQlJXVHp4NllZM0pUN0xwM09qTjNyaWFJWVFxbUxrYV94WWU5bFlBcFFXZ1lmdkw0UWtfRDlkSTBiX0Zjal8yTVNfMml3YzN3VmV1OHI?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-08-14 09:17
+- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxNSVhZZzBfczJWWTd6OFlEaWRxZDhzQUtqWVhpX0ZadnVGWk5sNXgyQV9TSmRFbmZjOFR1NzFpaWxjcUFUTm1YYzViVW9aZWVkSDYtazBfWmFDaUt4akpzVUhQSktZSXpXMGhYbndMV0N3MXNycjBRbHZrXzF2NjNKWQ?oc=5>
 
-### “肯尼迪中心决定将特朗普的名字加到大楼外墙上”-观察者网
+### 特朗普马斯克“重归于好”？
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-08-14 00:57
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1zakk0aVlCTjhlYjMxS09uRjhxSWM5eVhoTmIwbmREV2pRSGhUUXJ0c3dISk0yMU82ZWNUQko1Y0RHVy1ScHR6TUdGa0xfQ0ZJT1NqZExDV3JwUU13Wld1WVV2YUxZOVllbnc?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-14 08:50
+- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTE9tbHZPN1VSWFBNMUd0dkNUcllLZlJobGJaX3pOdGlzeTQwLU1aM1ZSQ0ljYW14c0hMT2RtbldoUUE4M2FPRWdwSGFZLWJoN09jd0ZfeDE0TU5pT3F3ZUFYc2hTR1UzZFhuaDM2bUJn?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-14 09:33  (3 条)
+
+- **王一博** | 王一博发布VCR致敬禁毒警察，呼吁拒绝毒品 <https://k.sina.com.cn/article_7785470890_m1d00cdbaa03301v4ne.html>
+- **特朗普** | 特朗普贴文快速访问权第一批客户签约主要是量化公司 <https://news.google.com/rss/articles/CBMigAFBVV95cUxNSVhZZzBfczJWWTd6OFlEaWRxZDhzQUtqWVhpX0ZadnVGWk5sNXgyQV9TSmRFbmZjOFR1NzFpaWxjcUFUTm1YYzViVW9aZWVkSDYtazBfWmFDaUt4akpzVUhQSktZSXpXMGhYbndMV0N3MXNycjBRbHZrXzF2NjNKWQ?oc=5>
+- **特朗普** | 特朗普马斯克“重归于好”？ <https://news.google.com/rss/articles/CBMibkFVX3lxTE9tbHZPN1VSWFBNMUd0dkNUcllLZlJobGJaX3pOdGlzeTQwLU1aM1ZSQ0ljYW14c0hMT2RtbldoUUE4M2FPRWdwSGFZLWJoN09jd0ZfeDE0TU5pT3F3ZUFYc2hTR1UzZFhuaDM2bUJn?oc=5>
 
 ### 2026-08-14 08:09  (4 条)
 
