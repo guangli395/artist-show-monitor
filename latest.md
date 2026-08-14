@@ -1,34 +1,125 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-14 05:27**
-- 本轮扫到 9561 条, 新增 **3** 条
+- 最近更新: **2026-08-14 06:53**
+- 本轮扫到 9573 条, 新增 **12** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (12 条)
 
-### 蔡徐坤演唱会全裹出镜，称要走出困住我的盒子
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7811154182_m1d194c10603301ydg4.html>
-
-### 怎么会有如此风骚雅痞的舞步！这段很适合全网模仿啊！ 蔡徐坤澳门演唱会
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923704_m1d5ae17f803301wj18.html>
-
-### 周杰伦认可樊振东唱功，或邀其演唱会做嘉宾
+### 婚内出轨选妃？曝周杰伦MV女主被方文山集邮，更恶心的还在后面
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_3353758160_mc7e649d003301j27c.html>
+- 链接: <https://k.sina.com.cn/article_7067185989_1a53cb34500101f58o.html>
+
+### 蹭歌失败 特朗普竞选账号、白宫视频中的“霉霉”歌曲被静音
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-08-14 06:26
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9vZGZUbi1QcGliRzlrd3ROX2hGTlZQbGRtWk9VeDViVktfbzFxTjRRWXZCUlZFT0thOXBneE9TemhycU9IbExMTUZpTlBxRkNfUldsallXSGRxLXJ0ZkpYQ29wYTdIZG9fdG53eUVuOV8?oc=5>
+
+### 特朗普关税：美国称数十国助中国避税
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: BBC
+- 时间: 2026-08-14 05:15
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDb09EUENxQlZOSzVoTE9Kdkc0cG1EUms4RnVJSTV1TDBOTDVIMnBWX1RTSllRdmNYZktGclJwQzRBbktHMmYtblBQUGVtTzlQeUJWTXk1OTNNLUQxLURUR0poaUNMQdIBa0FVX3lxTE51c2ZSUXJPZ19FZi05QUhya0FCVXA4eEZLNy1XSzNFdUN5bmczZ0RCaXpJaG1RQ1FoaGpQRG9mTGlLX0VOUVFFMEY4Z2JILUNzOXotdVo3cWM5UTF1LUtmcWhjVG5ybklFMEc0?oc=5>
+
+### 特朗普：拆了，换回蒸汽弹射-观察者网
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-08-14 02:47
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5sSFdHRUZ1Zi1ZVzhBRmFUdk1sOWcyLS1uQ2pzd1AwSGNZbVVOUHAteDJnZWhTNGxteHRPX1pDbk5HZC13MDE2WmJ2Y1V6c2JBdzJDOFpOcEY1S05XT01IQjd2a0U0eGRYc3RNX1VFcVk?oc=5>
+
+### 特朗普下令：改回去
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪军事
+- 时间: 2026-08-14 04:04
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE9uSHAwd2dPR2VHMjVjUllCRWp6MmpyVHg1X003a1JicEhSa2xJeDY3dzZBOFJPTjlRTERRdGdKbThNbFVVNGhBaF9GSjFrLUwyREZydl9lSU1TU1dBNkV5MENfemRvTUEwRUx3dWxWNDdkbE0?oc=5>
+
+### 特朗普“耐心耗尽”：弃用电磁弹射，改回蒸汽弹射
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪军事
+- 时间: 2026-08-14 05:28
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE12cmNUNGRCNGozbV9VWkdmTEM3MFI5QmxwRjB3ZGxSQ3hSclZCSi1GSHUtQUxqQk1aWDFWV01GU3d2RGhVdW1BMThyM3VUZWdJQ042ZFRGSlF2UXgwRkl4QVNpdVk0ZHpjSUR2eFg3T0VLVEE?oc=5>
+
+### 特朗普“最信任的助手之一”，白宫新闻秘书莱维特将于本月底离任
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-12 22:19
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxNM05iTnBjNC1FZjFVRVVRZi1tc3FrNF9tN0ZkSVVGM21lSkZObjJTazJ4Rk95WEJQSDJyaDJoZkNDaE5Vbi1GVl9WUmNZdkpRS2lydmF0OGl3Sk5ncnFRTWxrcjFFWEJwNFZVU0xCTmZ0M0REYkp1eUpGanJTOGtBVkdsc0p1T2c?oc=5>
+
+### 美国马萨诸塞州地区法官驳回特朗普政府针对哈佛大学的诉讼
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: china.zjol.com.cn
+- 时间: 2026-08-14 00:31
+- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTFBTREJSWlBSV3M5NmpnRU82Ql90WVJMTEJ5QkllUThGUkMyZVdOLUNNSWhPSlQxTEFaZU9TdjRKbDJZeFF3dHlhTk1wSzUzbzVzRVNpeTZRNFpEQ3hoaEI4aGdOLW9HOVFHRlpVNGRR?oc=5>
+
+### 美法官驳回特朗普政府针对哈佛大学的诉讼
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 央广网
+- 时间: 2026-08-13 23:52
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjazhaQTgtYml1M3d2M1ZValc2ZEpTLTRrc0lVZWwwQldkU0ZZNjJJQV8xSWlWMXVHWlc1OXZHa2R5TmNkNHdjLVlzT1Y1b1NjYmg1U0UtNHJ0MEVxUFZKeHRCdjlJZ3Ji?oc=5>
+
+### 效仿中国？特朗普授权美国企业参与黑客行动
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 纽约时报中文网
+- 时间: 2026-08-14 03:46
+- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxOS2N3YURYZHRmU0pKcUpWOG5maTcxUURMZGVBNlN3NlpWeE1VTHFkTU5qdEd4eXNsVnJBS3dOa1hFUEhwTXZkekNOcm1ZbFhyNXlSRjBoWjNKMzVEWUNacjZzQkJSdWV6bkdVRExOdk16Nm9NYV9ZakRRR1hPd3p2NUFqdDRrT0NMVTFZ?oc=5>
+
+### 特朗普与马斯克重修旧好：私人恩怨退场，政治利益重新把两人绑在一起
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 富途牛牛
+- 时间: 2026-08-14 03:52
+- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxOenpqWUpueUpKS2F1bnA0S2tBT0hVakZfTUJVYm9BRnk2dFFyZGllR0hrQk9RYWJKYzZzTTdORnV5dHpWMU1ybTk0el8wNnFwNlc3NEJ1WmVzdXBka1B0bHlnSnVZUFIzR3E5UFlkT3JfZHUweDc3OWxUTEhsbzlUcWVtLW41U2hrM0ZtR1RHQVNfc0NKV254NVJuRlM?oc=5>
+
+### 特朗普宣布对无人机加征关税，以强化美国供应链并制衡中国
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-08-14 05:28
+- 链接: <https://news.google.com/rss/articles/CBMivgFBVV95cUxNTlU4QVpWa1h4MGNUVkozY3o1d2NkWENNVGhTY2p6R0ZWYjZ6UkNuVjNUNVRHVzRMVllJSzU2djl5VHB4OU1Ib01aVTlWYU5mTGRMMXNlSEt1RVFBTEFvdTBLamZlcVJ0ZVk1eXFGV0VTY3I3bjhmTmFScUV0WHJEZWFRNTNqM1lxd1FWdFBpRXB4RTBBOFhsYTZSX3RRcERLcnNvZG54NU9ISHphemkzYjc3TUtkUnB2ZW5mZnl3?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-14 06:53  (12 条)
+
+- **周杰伦** | 婚内出轨选妃？曝周杰伦MV女主被方文山集邮，更恶心的还在后面 <https://k.sina.com.cn/article_7067185989_1a53cb34500101f58o.html>
+- **特朗普** | 蹭歌失败 特朗普竞选账号、白宫视频中的“霉霉”歌曲被静音 <https://news.google.com/rss/articles/CBMicEFVX3lxTE9vZGZUbi1QcGliRzlrd3ROX2hGTlZQbGRtWk9VeDViVktfbzFxTjRRWXZCUlZFT0thOXBneE9TemhycU9IbExMTUZpTlBxRkNfUldsallXSGRxLXJ0ZkpYQ29wYTdIZG9fdG53eUVuOV8?oc=5>
+- **特朗普** | 特朗普关税：美国称数十国助中国避税 <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDb09EUENxQlZOSzVoTE9Kdkc0cG1EUms4RnVJSTV1TDBOTDVIMnBWX1RTSllRdmNYZktGclJwQzRBbktHMmYtblBQUGVtTzlQeUJWTXk1OTNNLUQxLURUR0poaUNMQdIBa0FVX3lxTE51c2ZSUXJPZ19FZi05QUhya0FCVXA4eEZLNy1XSzNFdUN5bmczZ0RCaXpJaG1RQ1FoaGpQRG9mTGlLX0VOUVFFMEY4Z2JILUNzOXotdVo3cWM5UTF1LUtmcWhjVG5ybklFMEc0?oc=5>
+- **特朗普** | 特朗普：拆了，换回蒸汽弹射-观察者网 <https://news.google.com/rss/articles/CBMicEFVX3lxTE5sSFdHRUZ1Zi1ZVzhBRmFUdk1sOWcyLS1uQ2pzd1AwSGNZbVVOUHAteDJnZWhTNGxteHRPX1pDbk5HZC13MDE2WmJ2Y1V6c2JBdzJDOFpOcEY1S05XT01IQjd2a0U0eGRYc3RNX1VFcVk?oc=5>
+- **特朗普** | 特朗普下令：改回去 <https://news.google.com/rss/articles/CBMic0FVX3lxTE9uSHAwd2dPR2VHMjVjUllCRWp6MmpyVHg1X003a1JicEhSa2xJeDY3dzZBOFJPTjlRTERRdGdKbThNbFVVNGhBaF9GSjFrLUwyREZydl9lSU1TU1dBNkV5MENfemRvTUEwRUx3dWxWNDdkbE0?oc=5>
+- **特朗普** | 特朗普“耐心耗尽”：弃用电磁弹射，改回蒸汽弹射 <https://news.google.com/rss/articles/CBMic0FVX3lxTE12cmNUNGRCNGozbV9VWkdmTEM3MFI5QmxwRjB3ZGxSQ3hSclZCSi1GSHUtQUxqQk1aWDFWV01GU3d2RGhVdW1BMThyM3VUZWdJQ042ZFRGSlF2UXgwRkl4QVNpdVk0ZHpjSUR2eFg3T0VLVEE?oc=5>
+- **特朗普** | 特朗普“最信任的助手之一”，白宫新闻秘书莱维特将于本月底离任 <https://news.google.com/rss/articles/CBMihwFBVV95cUxNM05iTnBjNC1FZjFVRVVRZi1tc3FrNF9tN0ZkSVVGM21lSkZObjJTazJ4Rk95WEJQSDJyaDJoZkNDaE5Vbi1GVl9WUmNZdkpRS2lydmF0OGl3Sk5ncnFRTWxrcjFFWEJwNFZVU0xCTmZ0M0REYkp1eUpGanJTOGtBVkdsc0p1T2c?oc=5>
+- **特朗普** | 美国马萨诸塞州地区法官驳回特朗普政府针对哈佛大学的诉讼 <https://news.google.com/rss/articles/CBMibkFVX3lxTFBTREJSWlBSV3M5NmpnRU82Ql90WVJMTEJ5QkllUThGUkMyZVdOLUNNSWhPSlQxTEFaZU9TdjRKbDJZeFF3dHlhTk1wSzUzbzVzRVNpeTZRNFpEQ3hoaEI4aGdOLW9HOVFHRlpVNGRR?oc=5>
+- **特朗普** | 美法官驳回特朗普政府针对哈佛大学的诉讼 <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjazhaQTgtYml1M3d2M1ZValc2ZEpTLTRrc0lVZWwwQldkU0ZZNjJJQV8xSWlWMXVHWlc1OXZHa2R5TmNkNHdjLVlzT1Y1b1NjYmg1U0UtNHJ0MEVxUFZKeHRCdjlJZ3Ji?oc=5>
+- **Trump** | 效仿中国？特朗普授权美国企业参与黑客行动 <https://news.google.com/rss/articles/CBMiiwFBVV95cUxOS2N3YURYZHRmU0pKcUpWOG5maTcxUURMZGVBNlN3NlpWeE1VTHFkTU5qdEd4eXNsVnJBS3dOa1hFUEhwTXZkekNOcm1ZbFhyNXlSRjBoWjNKMzVEWUNacjZzQkJSdWV6bkdVRExOdk16Nm9NYV9ZakRRR1hPd3p2NUFqdDRrT0NMVTFZ?oc=5>
+- **Trump** | 特朗普与马斯克重修旧好：私人恩怨退场，政治利益重新把两人绑在一起 <https://news.google.com/rss/articles/CBMinAFBVV95cUxOenpqWUpueUpKS2F1bnA0S2tBT0hVakZfTUJVYm9BRnk2dFFyZGllR0hrQk9RYWJKYzZzTTdORnV5dHpWMU1ybTk0el8wNnFwNlc3NEJ1WmVzdXBka1B0bHlnSnVZUFIzR3E5UFlkT3JfZHUweDc3OWxUTEhsbzlUcWVtLW41U2hrM0ZtR1RHQVNfc0NKV254NVJuRlM?oc=5>
+- **Trump** | 特朗普宣布对无人机加征关税，以强化美国供应链并制衡中国 <https://news.google.com/rss/articles/CBMivgFBVV95cUxNTlU4QVpWa1h4MGNUVkozY3o1d2NkWENNVGhTY2p6R0ZWYjZ6UkNuVjNUNVRHVzRMVllJSzU2djl5VHB4OU1Ib01aVTlWYU5mTGRMMXNlSEt1RVFBTEFvdTBLamZlcVJ0ZVk1eXFGV0VTY3I3bjhmTmFScUV0WHJEZWFRNTNqM1lxd1FWdFBpRXB4RTBBOFhsYTZSX3RRcERLcnNvZG54NU9ISHphemkzYjc3TUtkUnB2ZW5mZnl3?oc=5>
 
 ### 2026-08-14 05:27  (3 条)
 
