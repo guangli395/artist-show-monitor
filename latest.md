@@ -1,14 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-14 12:51**
-- 本轮扫到 9590 条, 新增 **0** 条
+- 最近更新: **2026-08-14 14:11**
+- 本轮扫到 9591 条, 新增 **1** 条
 
 ---
 
-## 本轮无新增
+## 本轮新发现 (1 条)
 
-数据库里所有演出/动态都已见过,暂无新增。
+### 电磁弹射改蒸汽！特朗普为啥要走回头路？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-08-14 11:28
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9RZUNCS0R3OWVYeVUwV25GeHR3VEJLendWckc4aTR4UHVVQjhabWJ6b05jaGl0clB5QTVuOXhSY3VuV0ZaQ2VYbmxPNkM?oc=5>
+
+
+---
+
 ## 历史发现
+
+### 2026-08-14 14:11  (1 条)
+
+- **特朗普** | 电磁弹射改蒸汽！特朗普为啥要走回头路？ <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9RZUNCS0R3OWVYeVUwV25GeHR3VEJLendWckc4aTR4UHVVQjhabWJ6b05jaGl0clB5QTVuOXhSY3VuV0ZaQ2VYbmxPNkM?oc=5>
 
 ### 2026-08-14 11:39  (3 条)
 
