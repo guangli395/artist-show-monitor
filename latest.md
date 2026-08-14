@@ -1,40 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-13 23:34**
-- 本轮扫到 9547 条, 新增 **3** 条
+- 最近更新: **2026-08-14 01:21**
+- 本轮扫到 9551 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (4 条)
 
-### 肯尼迪中心理事会投票决定将特朗普的名字增添至建筑外墙
+### 因“真实社交”付费抢先看服务，特朗普被起诉
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-08-14 00:48
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBuQ0Y2V3lVOEx1QVIzWTlGWHZqZVFMb2h0MEo3amNGRlRnVF9QeHRPbTZ4UkpTcUljQnNtVVpHYUtpUTUxVzlMeDZGYS1Od0M2SjRIS2duRjRCMDJXTGc0NUUxM0poV0lWZVhTMGVVd0l2SkdTdDJSamM2amNKSG8?oc=5>
+
+### 特朗普下令海军在航母上恢复采用较旧技术，将耗资数十亿美元
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 华尔街日报中文网
-- 时间: 2026-08-13 23:24
-- 链接: <https://news.google.com/rss/articles/CBMiowFBVV95cUxPVVFZeUg1LW1keE82Z21XclB0aF9sRWd0ZkZRcktQMWtEMVFzcC1NOWZaLUp3ZmVFenZJV1hZMmNnTk5jQ242bUZ6UzFiV1hZS0pxbzNPN1hwZHlVems0aGF1V3czMDhBWEgwMi1XM0pnREd4Z1dnVFVjMG5CbEZwc3duTGJOMzhBcFdNbG10enFqUmo2UkdpcVRCTnNscHhQTEZv?oc=5>
+- 时间: 2026-08-13 23:35
+- 链接: <https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ1NPb01tbThPRTAxYWREcUVWVEZ1bHdoU3IzVEduLVA5T19pbFdIeDJCbm4wbnJXek52UXZRSm5ScjJRR3Zza1E3cDRRV2k2UVJ6Y0xueWZHMlYteGQ1azBxa3lhcDlRZ0lxSU04ZlNiNTI4YXVFUk9zRENCcWt3dWhtclNXMlZtOUVQWGNRNm5PVlhKcnRCelZybGtrWUpXN1FDa1dySlN0b1k5M0hrWUFOcnpSbTVvMXc?oc=5>
 
-### 为防伊朗导弹威胁，特朗普秘密“换机”返美，除赫格塞思外的3名亲信都是谁？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-13 04:51
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1ldWRvaEdYRlJIQ01nZ2JuV0JyMGVQWWMtQXdoaHhMcWFkVTdmOUZ4OEdHak5mM21qUFpUbXVsNWNtRXlmd3RSZ0xoYzU?oc=5>
-
-### 驳斥特朗普的说法 伊朗称霍尔木兹海峡在伊朗控制和管理之下
+### 发警报迫使特朗普换机 中情局质疑以色列用意
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-08-13 22:42
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBqMFVQVEd1MGxpOE5iM2Y2am0wRnNaVFM3UUxfb3paT3I2LWNYNFZMTUhtbkpfdFhUSjF1WnJsUzVNSGpKUU9YNlZSRnEyZW9MRWJzTXNvM3h2WWxfSHBROC1KNV9jZlJn?oc=5>
+- 场馆: 新华网
+- 时间: 2026-08-14 00:46
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE03YnRHbHVlMVU5eWQyOGY0eV9Cbkc3ekd3NnpFc3BqQVRqRm1iRlIyRFNTbldzRFVnMXowMmZhang4T2lNYlhJRThNY3pVRjlOQmpqV0hyR0Y3WWFTcUxNTExMM2hDV2JjWE9NRVczYW8zRGVCVnJneFpkM21lVjQ?oc=5>
+
+### “谁在替特朗普交易？”民主党盯上总统数万笔股票操作
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: FX168财经
+- 时间: 2026-08-14 01:17
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5Wb2VUQm9TdHF0NktrTF9hNHlwQV9FNUg5Yk5vbzJwcVhmcjhBZXg5ampNb2tTcjY0NFdWVTA1MXFhenh6Z2dfclU2b3otNG03V00xeTl5bHdzWXFHLVNBdTdPTXNwbTUxSmxUZmZFV0t5N2JQell6TQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-14 01:21  (4 条)
+
+- **特朗普** | 因“真实社交”付费抢先看服务，特朗普被起诉 <https://news.google.com/rss/articles/CBMif0FVX3lxTFBuQ0Y2V3lVOEx1QVIzWTlGWHZqZVFMb2h0MEo3amNGRlRnVF9QeHRPbTZ4UkpTcUljQnNtVVpHYUtpUTUxVzlMeDZGYS1Od0M2SjRIS2duRjRCMDJXTGc0NUUxM0poV0lWZVhTMGVVd0l2SkdTdDJSamM2amNKSG8?oc=5>
+- **特朗普** | 特朗普下令海军在航母上恢复采用较旧技术，将耗资数十亿美元 <https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ1NPb01tbThPRTAxYWREcUVWVEZ1bHdoU3IzVEduLVA5T19pbFdIeDJCbm4wbnJXek52UXZRSm5ScjJRR3Zza1E3cDRRV2k2UVJ6Y0xueWZHMlYteGQ1azBxa3lhcDlRZ0lxSU04ZlNiNTI4YXVFUk9zRENCcWt3dWhtclNXMlZtOUVQWGNRNm5PVlhKcnRCelZybGtrWUpXN1FDa1dySlN0b1k5M0hrWUFOcnpSbTVvMXc?oc=5>
+- **特朗普** | 发警报迫使特朗普换机 中情局质疑以色列用意 <https://news.google.com/rss/articles/CBMif0FVX3lxTE03YnRHbHVlMVU5eWQyOGY0eV9Cbkc3ekd3NnpFc3BqQVRqRm1iRlIyRFNTbldzRFVnMXowMmZhang4T2lNYlhJRThNY3pVRjlOQmpqV0hyR0Y3WWFTcUxNTExMM2hDV2JjWE9NRVczYW8zRGVCVnJneFpkM21lVjQ?oc=5>
+- **Trump** | “谁在替特朗普交易？”民主党盯上总统数万笔股票操作 <https://news.google.com/rss/articles/CBMieEFVX3lxTE5Wb2VUQm9TdHF0NktrTF9hNHlwQV9FNUg5Yk5vbzJwcVhmcjhBZXg5ampNb2tTcjY0NFdWVTA1MXFhenh6Z2dfclU2b3otNG03V00xeTl5bHdzWXFHLVNBdTdPTXNwbTUxSmxUZmZFV0t5N2JQell6TQ?oc=5>
 
 ### 2026-08-13 23:34  (3 条)
 
