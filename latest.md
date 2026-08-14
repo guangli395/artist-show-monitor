@@ -1,14 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-14 19:26**
-- 本轮扫到 9599 条, 新增 **0** 条
+- 最近更新: **2026-08-14 20:02**
+- 本轮扫到 9602 条, 新增 **3** 条
 
 ---
 
-## 本轮无新增
+## 本轮新发现 (3 条)
 
-数据库里所有演出/动态都已见过,暂无新增。
+### 特朗普政府请求美国最高法院：允许耗资4亿美元的白宫舞厅项目在上诉期间继续施工
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-08-14 19:19
+- 链接: <https://news.google.com/rss/articles/CBMikgRBVV95cUxOaHhKcUxJZWx4OUVWR2xCYnFTQXR0dGNIUURERFBJTUlIanBhSFg2cmtYdGI2SFhQUHE3SzlXVFN6WHBjdDJ2TmJBWGVwUDBXQUluaU85NEZPOEJlR002VXpKMFdCX0VyVDBBWXFVV3BIWGw0cFAtRlEweG9nYjRMekdhSE9GMVZZSlNYSEdHTkZ6UWI2bFE1bFl2eUJnUDE1aFVJdmtzY2hEeDJqWXVzallmc3hSVzVUX0RWM3laMmhVUnNjT3ZDUkpYOU5kSzJ4QzFXWk1EdUk5ZlV6WjFueHQxenduenJYWTJzdHpVS2pERXFqSExBNUFMdE9ONHUwbGNKT3lQRGJpamdrb2NpNlYyYW90N0xiOVVpS1NGOGxsVGlRT1RiMXN3akF6TjEtMk4tRXdTbUdfaXBERmFxcks4dTA3Y2hHbHF2clFwS1JsZFJkaTg3bW1uckZrQzRzNVJJWHo1dS1qN0JBYmFSNkxWRWR5YzB5VGZPWHN4SE0tcHRBVzhVU2FYM21ReWs5djBZaFI0VWM3WGxvakVDcl90cl9MdUVLdmNlYWpZX3U0ckhwMEwyMFdwaHQ2NnZlVXFaY2cxZkVJS0dTZUlyWTR4UTNlZFNERFB0R1luamNoSEo1WEVEb3I5RFE2Mk5DRnNwY2hlR0dQY0pHMmV2Vl91MUEwY1M3d1Y5b3VVQlZ5dw?oc=5>
+
+### 特朗普政府请求最高法院放行白宫宴会厅项目
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-14 18:50
+- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxQWjlFb1o1T2hBRUJ4RkZVazcyTUlISXdzdGw3b3RWZ1JtQm04WXBUN1hCWTZRem1RQ2pVcU5wcDdHQWNhYnhraWVtWDh6cm9QbmtqSFFWTExiTGphUWM3VjFUdVZyeG8tcmN0bkhndDNZckIxcGhDMXBzdUtGS01ENnF3QmZFc3BnMGc?oc=5>
+
+### 因“真实社交”付费抢先看服务，特朗普被起诉
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-08-14 00:48
+- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE1tOWFmSUpYX0NmTUM4dGdBV1JYWWJvOHlfdWlRT2Y2Vm8tVkFSNy1oYVBlTTdFajhpZTd0Z1FTM1VCekJnS2FUQTUwQjYtSXJqSXRZVU9pd2ZaRm1ZQ3NOa3c1Q3ZGQTV1ejFReVNnTDROZUN4U3RLWU1mdloydw?oc=5>
+
+
+---
+
 ## 历史发现
+
+### 2026-08-14 20:02  (3 条)
+
+- **特朗普** | 特朗普政府请求美国最高法院：允许耗资4亿美元的白宫舞厅项目在上诉期间继续施工 <https://news.google.com/rss/articles/CBMikgRBVV95cUxOaHhKcUxJZWx4OUVWR2xCYnFTQXR0dGNIUURERFBJTUlIanBhSFg2cmtYdGI2SFhQUHE3SzlXVFN6WHBjdDJ2TmJBWGVwUDBXQUluaU85NEZPOEJlR002VXpKMFdCX0VyVDBBWXFVV3BIWGw0cFAtRlEweG9nYjRMekdhSE9GMVZZSlNYSEdHTkZ6UWI2bFE1bFl2eUJnUDE1aFVJdmtzY2hEeDJqWXVzallmc3hSVzVUX0RWM3laMmhVUnNjT3ZDUkpYOU5kSzJ4QzFXWk1EdUk5ZlV6WjFueHQxenduenJYWTJzdHpVS2pERXFqSExBNUFMdE9ONHUwbGNKT3lQRGJpamdrb2NpNlYyYW90N0xiOVVpS1NGOGxsVGlRT1RiMXN3akF6TjEtMk4tRXdTbUdfaXBERmFxcks4dTA3Y2hHbHF2clFwS1JsZFJkaTg3bW1uckZrQzRzNVJJWHo1dS1qN0JBYmFSNkxWRWR5YzB5VGZPWHN4SE0tcHRBVzhVU2FYM21ReWs5djBZaFI0VWM3WGxvakVDcl90cl9MdUVLdmNlYWpZX3U0ckhwMEwyMFdwaHQ2NnZlVXFaY2cxZkVJS0dTZUlyWTR4UTNlZFNERFB0R1luamNoSEo1WEVEb3I5RFE2Mk5DRnNwY2hlR0dQY0pHMmV2Vl91MUEwY1M3d1Y5b3VVQlZ5dw?oc=5>
+- **特朗普** | 特朗普政府请求最高法院放行白宫宴会厅项目 <https://news.google.com/rss/articles/CBMiigFBVV95cUxQWjlFb1o1T2hBRUJ4RkZVazcyTUlISXdzdGw3b3RWZ1JtQm04WXBUN1hCWTZRem1RQ2pVcU5wcDdHQWNhYnhraWVtWDh6cm9QbmtqSFFWTExiTGphUWM3VjFUdVZyeG8tcmN0bkhndDNZckIxcGhDMXBzdUtGS01ENnF3QmZFc3BnMGc?oc=5>
+- **特朗普** | 因“真实社交”付费抢先看服务，特朗普被起诉 <https://news.google.com/rss/articles/CBMifkFVX3lxTE1tOWFmSUpYX0NmTUM4dGdBV1JYWWJvOHlfdWlRT2Y2Vm8tVkFSNy1oYVBlTTdFajhpZTd0Z1FTM1VCekJnS2FUQTUwQjYtSXJqSXRZVU9pd2ZaRm1ZQ3NOa3c1Q3ZGQTV1ejFReVNnTDROZUN4U3RLWU1mdloydw?oc=5>
 
 ### 2026-08-14 17:25  (2 条)
 
