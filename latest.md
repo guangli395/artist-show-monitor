@@ -1,39 +1,13 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-14 11:39**
-- 本轮扫到 9590 条, 新增 **3** 条
+- 最近更新: **2026-08-14 12:51**
+- 本轮扫到 9590 条, 新增 **0** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮无新增
 
-### 特朗普对无人机开征最高100%关税 降低对外国依赖
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: dw.com
-- 时间: 2026-08-14 04:33
-- 链接: <https://news.google.com/rss/articles/CBMivgJBVV95cUxNQUpnZEhlbkxXaGpXRTVtdnktSEt4RjBNM3dBX1F2dHctcl96WC1nMkVCWHBiejE5R2MtSWRwOGc3QXF5Q0Q4VFp5V2hfVFhtT1NONDQ4LWhseGxvNzJBNWZQdjdfYVhLY3kxdkg2XzJFbTVDMzNsRDJ6RlVZOXlrUmMyQmVVYVhHYXJrbDdzZjNrOEVjVF9uOEItQi1ZT1F4aVNreU82WHFzYXRXOFMyU25EQjI4aXktTmcxR1NoYmZGRUV0cXg4UmswdDZXSXdFd0hweGFURVQyQ3J5OGUxMm1TWHh3cjRvZFFZR203UTZrb3k1ek5WWXdNTFBudlhTcjFYMFc5ZlktYVRZYlU1VHpqbUIwNUVHSWZiNDFmd016eDRWd1JiYkRTRzh1YUJGcVdMamVsTllGRXRqRHfSAb4CQVVfeXFMUDl4Wkw1ZVh6VHNoTFFyNmNDbE5yWFBNWjV6akEwemJILU4zOTBDdmtrUWw4LW1udFo3aG1WM2djQk5lV0FLNE9iYzNCMVZCbTU1R2JsbS1LTzVMYlZEMmZRM29wNTBRRXJNcEExR0NOZy1RS2t4Z2N1UUJjajRLcW9yYUxfVFlQY2g5cEdVVU9oN0F3aTI2bVB5aE9GaFNIRUhpOTA2eTJRZnV0Xzl4dTFIekl1SS11anRRTE1TakJQcmRvOWRvaTBWbXgwUDhic1Jsbm9kSkpVXzh1dkJvWjJvalk2bmU0OXNEbHhPNlpKcVM0cUFFblVuSm9PR2dwN3c3UWpuMTJRV2s1eTFRUjFWa1k2VV9iVGt4MmxjaTdBZGs5aFIxREFWVi04aXBpaDZrQzlLWDZzNmV0M3BB?oc=5>
-
-### 已有逾十家机构,订阅特朗普旗下社媒付费数据服务
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 文学城
-- 时间: 2026-08-12 07:26
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE90ZThJZ003Q29qWHF4cElSN2ZtRjc1ZDNTeG5iakpjeXlGeHFvUktFZkdiaHdWOFJmZld6Z0ljaG81YlZCLWxtNnlPR2dIeGw0NFRsRmlFVFUtVW1WQmxQZUdMU3Y5V3Zz?oc=5>
-
-### 特朗普家族旗下World Liberty Financial推迟出售马尔代夫度假村代币计划
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: CoinDesk
-- 时间: 2026-08-14 11:07
-- 链接: <https://news.google.com/rss/articles/CBMixwFBVV95cUxORENmRmVVOF9YeUZVWk1BSVA0NkhSY0xNSVAwWGxWQlVYQjVfY1FxNXpacnQ2WGd0bGQ5QTYwZG1BZTBLNnpJUUFyWWlMZWQ1Rkd1VEN2c3o2aEV2NHpMcEtPR2l1SGRtYmVLZUtKZUh1SkxzODhUMTFRdGY2OVVFY2c1ZjNlbmxZZ0thLUxIbktIM09RTGJTSjVkSjYwNno0RXh6cERXTHVNdzdvempxMC1vcXJ2RjltWHJXTThjVGh6aC1JWjNj?oc=5>
-
-
----
-
+数据库里所有演出/动态都已见过,暂无新增。
 ## 历史发现
 
 ### 2026-08-14 11:39  (3 条)
