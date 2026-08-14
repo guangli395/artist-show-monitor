@@ -1,55 +1,13 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-14 20:53**
-- 本轮扫到 9607 条, 新增 **5** 条
+- 最近更新: **2026-08-14 21:19**
+- 本轮扫到 9607 条, 新增 **0** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮无新增
 
-### 特朗普总统签署对进口无人机征收关税公告；台湾：适用相对较低税率有助维持竞争优势
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-08-14 20:31
-- 链接: <https://news.google.com/rss/articles/CBMixAFBVV95cUxPcG5vQTBWczNGVTNaaUdmazN1bHFNM1pmanNsQmJpMmkzUnZSLUhfYWJqMUdyNmhCRExFSFJlcWNUc3VLaVRtbmo3Vy1BQ3hTS3dXTmJUQ3dhbmREZ3lJOWVBeDJNejVqQk8wcURrbC1Fb1Rqel9faTBNTEZlUDY0bUpjV2llaXIxQlBxNFJvRGN3dUswUkxNZjFFTnVKZVFSRXh4YlFtRW5YUHpTSGtjZk00dFVPeXZGQzVFRllOSkdxQmRB0gHHAUFVX3lxTE9mX2tTUG92cDVCR3YxVWxLeFRTbHN0UEdPU1Z6LVg0YVhzSWFTdWg2Z0RUZ2o2ZUxQcGtpNXlVM3RSWnI0NHNKaVpDWDF0NHhrbl9LTHRSN1Zrc0doS01zRjVpOGpiOUw5al9ZTUNYQUUwTS1Ec2NLeTY4b2RTMUxsRTNxazhmZURkOExLNzVPa2V1b2ZwWVJkZGF0V3lSNk11SWJYaEJ3b1Z5X0J4UHZjV0RhOUFWT0dpTDIwVThTclZfUzhqMzQ?oc=5>
-
-### 特朗普总统签署造船业备忘录及无人机关税公告，意在应对中国竞争
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-08-14 19:46
-- 链接: <https://news.google.com/rss/articles/CBMi1AFBVV95cUxQT3BBa3ZLUkRmQWxNUk9RRWhqaU1kYVNPTU5fdDdFVVZtSlEwUzZKbjIwM2l1bmhsZVN1R2JuM216YXBETmp2NVROWXExMjgwTHgyM2FCTFpMWEl6anBQUjZobDNCOE1mQVF2a3pzQ3lybWRyYVBqYkU4cmE2Y2UxQ01KTkxzVVVTTnMtODE4eko3WXFGTlNia2NjdDlKNWhHZWdMdDdEdDRRV3FPMDUtdW1WUWliWUFIeGszTGVQSk9KcDJVVkxnSWEwalNEa19reThvedIB1wFBVV95cUxOak03UmpOY0RZSF9CaERzZTdYYml4Nmw1ZDFUUjJOZS1nSFBoSWwxdXBhX1pCRzR2M1ZrVk5iZnZtbkZsdVlfck8tUzBjanl2NXRKQUNCMnVzbUh5S0ZwQnVkSS1Bd2ZtOVltWUFTMVVmVUNLaE5FTlBPdFVjQVBneUZOY2hiRzFodFJNMjAxOUxVMF9pSHptUmplS2NSYjc3R3d2VUdYdmJub0loajFWdHVGVHlKT1h2a2Ryd1BJM1dlbjYzRjBnbU5yWmJnaEpSR1ZVZ0czOA?oc=5>
-
-### 特朗普大笔一挥，美媒：几十亿又没了
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-14 18:54
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBoZUZoZ1BIMmhoNDRBenA2d1RxQ3VubEFIRmdieXk0WVdLRnE0b1cxa1ZrRkNzWFB6N0dkMWRPbml6Nlk4aVBOcmRlYlhRWFpfZWk5T01YTGhSUUdDN08yRWVZWFFBdVRFQ3drdzhSMmRiR3BndVR0Uw?oc=5>
-
-### 美国总统特朗普：经济表现好得令人难以置信。
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 金融界
-- 时间: 2026-08-14 17:28
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE1VRFVONXZGM1k3dE1sdk9UbTJNR0p4QUF6SWF3TDBfQ3R5eEladlRub1NUeU1zendiemxlNGVmRXFKV1l5Q3U2UnROWkt3VFc5YzA2MlRUd2IyV05tSU15WTV1OEVEN2t5dFhPRHF3Yw?oc=5>
-
-### 一财主播说｜“霉霉”硬刚特朗普 全平台下禁令：禁止使用我的音乐
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 第一财经
-- 时间: 2026-08-14 07:51
-- 链接: <https://news.google.com/rss/articles/CBMiVEFVX3lxTE45RU1JTGpJdHBaaVZlRWdSZEIwODZLR0dlN242Z09rekg3TGQ3MlQ1X2hubkxQUUF6UWU5WnBpemV3bTVXUE1zOENFTFFJYlZJdm1SZw?oc=5>
-
-
----
-
+数据库里所有演出/动态都已见过,暂无新增。
 ## 历史发现
 
 ### 2026-08-14 20:53  (5 条)
