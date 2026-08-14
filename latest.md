@@ -1,31 +1,13 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-14 17:25**
-- 本轮扫到 9599 条, 新增 **2** 条
+- 最近更新: **2026-08-14 18:14**
+- 本轮扫到 9599 条, 新增 **0** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮无新增
 
-### 特朗普：福特级的电磁弹射不行，换回蒸汽弹射
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-08-14 06:56
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE1Vc2ZvZlpWSzN6QkZmMEVmY25xSHp5THdudmR6M1FJZTdXMXI2aGJDMTJ6UlVPUzI1a0xMcy02ZVdFSW0zSzhhUUNGQlJsdWlWeVEwbHJsUHhBWXI4dGlQZmc5UVVuZ1dXYkFhVXVsWjJKMmU4?oc=5>
-
-### TRUMP在土耳其更换飞机的一点感想 - 永远老李发表于 时事述评 - 论坛 test1
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 文学城
-- 时间: 2026-08-14 09:02
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBidDFZMDMzWFZleDFIbXZQVGFtdE1mVjZSalVCR251T2lobUJxb0puUWpFRUtOOXM2LVFNbm5Tbk9DMDE2SzFEVVBZUDcxWVNSUnhRSGhkVjYxa0ctSS1tWE9aNzFQVkE?oc=5>
-
-
----
-
+数据库里所有演出/动态都已见过,暂无新增。
 ## 历史发现
 
 ### 2026-08-14 17:25  (2 条)
