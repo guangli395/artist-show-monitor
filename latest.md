@@ -1,32 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-14 21:47**
-- 本轮扫到 9609 条, 新增 **2** 条
+- 最近更新: **2026-08-14 22:15**
+- 本轮扫到 9611 条, 新增 **2** 条
 
 ---
 
 ## 本轮新发现 (2 条)
 
-### 《观点》周刊：中国发挥“贸易伪装”艺术至极致，特朗普的关税几同虚设
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-08-14 21:03
-- 链接: <https://news.google.com/rss/articles/CBMitANBVV95cUxPWWhwLWxCSzdUZnlQdGFpd1pNaWtiWnphRW1LRHFxTFZDNU1QSEU5MTROVVMzTGw3V3RVaUp6bEpwX3NEUklLcWdJd3ZhZFUxb2tUYmtkOFdQTXpzYzNxMEZqamllXzMzb2FETVpnTkV0Y04xZVhya0RtdzVTSnpjQk1XbTlSRjZ6YXdRb2F6Zk1WVmhfckhoZFBWdENGVm56bFNXeFJWOUNUUFNDNi1LaWdJd2RxUjduS0dTVjFlV1ZwU2FQc2x5LXFEV1JESmRFR2xqeUU2WVYyN3RtdzkyMy1ZVXVZT3FqWV80bDN5aDNTMWV3QkNCMXB3dWRBc3U5aUNmVVpCbUhzWjZYUjN4Q2tCNWJTa0pJODd3TEJmeWdiUDhGQk40NUFRVUdzNGdnOTczenFNcVJFczlVSUhESE0tdXQ3Nkh3YzRTSjBCZHZTaklBODBuNkdYZ0wxbGh5MExoaXhpaUdTRTFOcTFYUGVXSGFTaWs0YWNmOGhiNFBLUHl6ZEhqbWNkZGRWX1VOZU5UU3BNYnNsNFRMTGxJRzhGaWpYejB1VUt5bVVzNTB3eDRM?oc=5>
-
-### 特朗普政府据悉调整古巴策略 淡化军事选项转向经济施压
+### 报道：Coinbase、a16z和Kalshi高管将出席白宫会议 特朗普也将与会
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-08-14 20:59
-- 链接: <https://news.google.com/rss/articles/CBMiqAJBVV95cUxNdGxkWEdfWmVDc25hblp3RWRoSmhBbmNNUS03dFpxZ3NydDhNUnJHN3FwT2FFUDgyU3BpaW5jVW1fQlpzV3ZDMDZNMG9WTkI4RUVnUTZGcVVRMWI5YzU4R2lVUXlnNUFGTlNMZnh0NmFTSlNpY3NyWThWN1ktWmZJQVRmbXMyS0pfTlRqQktuRGxWdXVaWTBHR3BlZHA4YVl5cFF6SEhBZjNxblBnZkJMTzFQcVFxM0RxTlluRjFwel9ER3laOUJEYjY0ZmFxSGEydUVIVXRqN21wWV9aY3dWQzVjMEc0eURPa1BLSmZXcXZ1aDZDWGp5amN5LTZwQTA4XzF0aWdNcFJKRnVubEZKU0lseXZocjJlSmFoVkNEdEdkMFRXcHVKag?oc=5>
+- 时间: 2026-08-14 20:44
+- 链接: <https://news.google.com/rss/articles/CBMiqgJBVV95cUxOQ29qbGdIUTNURmhwejJFQXVuWEVxU0ZaYWo3YVQyVzNHWC1TTzdKWHJWWXROa0psb3BMWVI0MFh1WWZ1NHd1UGRRalE2a1A4TWZ2OEZrYVZCaW8ySW9mWW9lQ1RzMVY3Z29LTFUzNTQwQkhGYXdaalJhdzZxcTZiekZ0NGk3eVdSRUhacVZPTnFzMno0VHNua0NrMllqaEJaU2lkV1FDVENMX1RXSWZBT3ZhYUV2VUZmNER2ejA2WGNxNG9UcnFoTTZURjlhY2VtV2lCUjFxUUpDTERwcVRvWlN0WVdFSzRaTURpZTVyWGlSOFp1OFhzdUpna05PRVRJalZ0NnphYWRVS1hubEIzaEZ6MUltS21fanYwNThnZVN3b0JRMC1xSXhB?oc=5>
+
+### 特朗普下令美国新航母弃用电磁弹射系统
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-08-14 08:07
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5aZGR3d0FYNFBacUE5YllJa2dpblhaYzAxX2FOdzFxZG9QZVoyOVVPaXpXZDhlSjI2ZTk1NmZIRUVPNmpCNnViY1o0R0Y2SHVXSkZsQnJYWlRzdUFpeVdFOXQ5b2c4Zw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-14 22:15  (2 条)
+
+- **特朗普** | 报道：Coinbase、a16z和Kalshi高管将出席白宫会议 特朗普也将与会 <https://news.google.com/rss/articles/CBMiqgJBVV95cUxOQ29qbGdIUTNURmhwejJFQXVuWEVxU0ZaYWo3YVQyVzNHWC1TTzdKWHJWWXROa0psb3BMWVI0MFh1WWZ1NHd1UGRRalE2a1A4TWZ2OEZrYVZCaW8ySW9mWW9lQ1RzMVY3Z29LTFUzNTQwQkhGYXdaalJhdzZxcTZiekZ0NGk3eVdSRUhacVZPTnFzMno0VHNua0NrMllqaEJaU2lkV1FDVENMX1RXSWZBT3ZhYUV2VUZmNER2ejA2WGNxNG9UcnFoTTZURjlhY2VtV2lCUjFxUUpDTERwcVRvWlN0WVdFSzRaTURpZTVyWGlSOFp1OFhzdUpna05PRVRJalZ0NnphYWRVS1hubEIzaEZ6MUltS21fanYwNThnZVN3b0JRMC1xSXhB?oc=5>
+- **特朗普** | 特朗普下令美国新航母弃用电磁弹射系统 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5aZGR3d0FYNFBacUE5YllJa2dpblhaYzAxX2FOdzFxZG9QZVoyOVVPaXpXZDhlSjI2ZTk1NmZIRUVPNmpCNnViY1o0R0Y2SHVXSkZsQnJYWlRzdUFpeVdFOXQ5b2c4Zw?oc=5>
 
 ### 2026-08-14 21:47  (2 条)
 
