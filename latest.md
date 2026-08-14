@@ -1,72 +1,40 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-14 03:35**
-- 本轮扫到 9558 条, 新增 **7** 条
+- 最近更新: **2026-08-14 05:27**
+- 本轮扫到 9561 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (3 条)
 
-### 特朗普允许美海军海外建造舰船 要求弃用电磁弹射系统
+### 蔡徐坤演唱会全裹出镜，称要走出困住我的盒子
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 央视网
-- 时间: 2026-08-14 02:11
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBoSGhFSkhFY0tpUS1ZNlcyazhXUEdleEM5dHJrbnY4VkNQWDJjd3Q1dkFGZzFfckUzaUJ2N2FsVUd4clNYVGVaUnFYbjBIMVlYR2FlMUMwSTZ3Z3E3Z2ZfNkU3ZGVXNDRDcEsyOXJGdURRaXNVblFSZQ?oc=5>
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7811154182_m1d194c10603301ydg4.html>
 
-### 特朗普与马斯克如何修复了曾看似无可挽回的关系
+### 怎么会有如此风骚雅痞的舞步！这段很适合全网模仿啊！ 蔡徐坤澳门演唱会
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-08-14 03:25
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFBuWHI4REY2X2ZhZW9rd24wTTFmZ0dnMzZlX3VGR0pEeUQydFNuZzE4SUc1SzVxNFZZc0dpbGdQellUd01JV2dPUktqbVpxdmtiZUFJRzVSaVFGM0V0Z1Y0U1hXOEMtSTdPb0ZMTlE4b2hBS2M?oc=5>
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923704_m1d5ae17f803301wj18.html>
 
-### 最年轻新闻秘书，“弃特朗普而去”
+### 周杰伦认可樊振东唱功，或邀其演唱会做嘉宾
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中国网新闻中心
-- 时间: 2026-08-14 02:36
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTFBvOElHYWpFMDFDdTZMSVlRM1ZqeTFMUTJPdGFmX2phbVdmV3hNS3YzU1EwX0xtM3NKaXVoNFlTQ21ISjdEQlN6dC1kZnJ0ME93TnZkaDZoUDNMMl9mTl9BR2xtTzlZWDdMRU1r?oc=5>
-
-### 美媒：莱维特离任后，特朗普的“相扑手”张振熙或接任白宫新闻秘书
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-08-14 01:57
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE4xVEc3UW0zalBUNDRHSExRMkhFdVNJVEtfbjRzOEQ3Tm1OdGtjQndyNEZhaFRuMmtEci1KcElvODRHVE5ORk5LbjcyTmdSWEJrSUMyQnZrZkphUUFIWlpYYnI5bGRYMzF3R1E?oc=5>
-
-### 特朗普最强“嘴替”莱维特辞职，曾将为总统辩护做到极致
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-08-14 02:18
-- 链接: <https://news.google.com/rss/articles/CBMi5gJBVV95cUxNNTk4MDI5VWZ1V3h5cHpWSENScHFvZl9HamNRMktpMlkxOWZvR0dNQWVFaDhkZEFjaUdwcFBSSXlETVA5ZXA5ajVPcXhIS19ma3N5VWMyb2lscGNGWml1NGZ4dV9sQWhtSjRKMVMta3RZVHJsZ0pLRDBUYUZNRVQ2M1N0a0Z2QW5iRnQtTDJxaGJ6MDhOMjNETHRWM2hpMlVOM2tOTGdyUzR0cDJIWVRjYTZmMEpxZG1DSlBFNlpwQVRnV3p6OHB6N29hLWpzZzlES0UwbHdyc3Njd1YteGJpek5JX3o4UkRubW8wUXVWS1B3dl9tcnBMVTlYUjJYV2RtNUJ4MlN1VFhCallmRGhWc01YSExZX0NnUFJWalVFQzYwUFMwZ0M1Z0NDcVlETVlUbWlzSzhJWklNazZXMjRUdjY1cEhoci0tc0ZlRFNlZDlJQTRJcWJOTExOQVRvSWZmZVZtNnNn?oc=5>
-
-### 特朗普：进口无人机及零部件最高征100%关税
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-08-13 23:08
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE11VlFmckZLNkxqOGFmMlN2RG5iRDZ2dGczZnNhdWVtbW5ZOFNwb2wzV0FiS0xwdkNwTEppZTZOMzRRbEVneGZLMF85dm9yX2pTQVh1TE1yMDc2SVFGUlVIRHc0RjBHT3dCanc?oc=5>
-
-### 以色列多次警告伊朗要刺杀特朗普，美情报部门：无法核实
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-08-14 00:35
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBMNUlyRHBxZEpCMlNCd3haMVJxb2lQNDBhNWxrSnhWWUtUX1dZYS04RU9wbnk2RW91TUViOHRTY0lIVXpZeTlrUlRPMTI5MTJiN2Rrb21HRGhSeHBCR2dNbUtrQzNHTXZCY2c?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_3353758160_mc7e649d003301j27c.html>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-14 05:27  (3 条)
+
+- **蔡徐坤** | 蔡徐坤演唱会全裹出镜，称要走出困住我的盒子 <https://k.sina.com.cn/article_7811154182_m1d194c10603301ydg4.html>
+- **蔡徐坤** | 怎么会有如此风骚雅痞的舞步！这段很适合全网模仿啊！ 蔡徐坤澳门演唱会 <https://k.sina.com.cn/article_7879923704_m1d5ae17f803301wj18.html>
+- **周杰伦** | 周杰伦认可樊振东唱功，或邀其演唱会做嘉宾 <https://k.sina.com.cn/article_3353758160_mc7e649d003301j27c.html>
 
 ### 2026-08-14 03:35  (7 条)
 
