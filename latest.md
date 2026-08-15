@@ -1,32 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-15 17:14**
-- 本轮扫到 9686 条, 新增 **2** 条
+- 最近更新: **2026-08-15 17:43**
+- 本轮扫到 9688 条, 新增 **2** 条
 
 ---
 
 ## 本轮新发现 (2 条)
 
-### 特朗普称“很快将宣布霍尔木兹海峡为美国领土”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-08-15 04:46
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYWxVMWwzRUVSa1lJRUlhdEt2Q0lmNnVQOEZUa1M5eGk1SVVFejVNOFRYa3Via1NrbWJtTmxGVUgzRVlpaklhd2d4aU9yOWpnZHJvYzdGNXk5SWdUdndJNTNSdnRwbHFRbTdnWTZFU1czYWtLS3FKaWxTbk5QLUVwMlNJVEtzRkRUSWphVV9jemdhOUd6R2daNXVWTE5HQVlkeGZGOWVDNG9WM0ZSTGpuVy0zT0NHTWpRR2lhNkoydzJzbndobk80NE8ydktQbUdQ?oc=5>
-
-### 特朗普一纸命令，美航母退回蒸汽时代，中国却在电磁弹射越跑越远
+### 特朗普大笔一挥，美媒：几十亿又没了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-08-15 16:00
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBwcFB1SFJTQnAwSFFtMUJ0eXBzby1FYzNWa3hrYWR2SEMwSHZzNHhSY05Eal9od3pGS0IzWnVIUE9ZX1I2Y2lLUkRrZDhEUEcxcGdjSlhycm92ZmNURllRcjQ1aE0yTTZqZ0p6amVZYUQ5WXQxM0FPdg?oc=5>
+- 时间: 2026-08-14 06:34
+- 链接: <https://news.google.com/rss/articles/CBMizgFBVV95cUxNZm53U3NKU21ldWg0eFl1aW56TEJNU3dMcHJjeVozdHdjdDgtdmtvU2Z4c2VZdk0wQ0ZMSTY4eUhWemw0bE1uVlBxU2J5ZFRjX2JZRktBdk1lZTlyUU1sRjl0M1pQUWw2dXQwQldxT196eDFrVjM5VTJ1WWlZUVZJQm0ybG0wU2F3ampCVDJTWHNmNkdWTTlJWDFTWkE1a1R0R0plOXJWeXh4QXpkZ0hqZkFReFBtR3lXcEZLNnJQZjk5LVk3SEhkWFhlR2tpdw?oc=5>
+
+### 特朗普政府据悉调整古巴策略 淡化军事选项转向经济施压
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-15 17:26
+- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxOMFhQcGRvUEtIWEhhWTVzMnVJQ2dZVVk3bFdhOGZvX0VNdzhmNTRjRDZwRjJPb3M5ZmVNdmt2TUtScngzUFlSUU9ZSk1UNGp0QUtPX0dCUmdDcldhVWpGYkpTbnJ2MENhOFVjU3k4b19QOTJhV1Y5cFJHWnFXTTdwVTUxdWhvNzgxbVE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-15 17:43  (2 条)
+
+- **特朗普** | 特朗普大笔一挥，美媒：几十亿又没了 <https://news.google.com/rss/articles/CBMizgFBVV95cUxNZm53U3NKU21ldWg0eFl1aW56TEJNU3dMcHJjeVozdHdjdDgtdmtvU2Z4c2VZdk0wQ0ZMSTY4eUhWemw0bE1uVlBxU2J5ZFRjX2JZRktBdk1lZTlyUU1sRjl0M1pQUWw2dXQwQldxT196eDFrVjM5VTJ1WWlZUVZJQm0ybG0wU2F3ampCVDJTWHNmNkdWTTlJWDFTWkE1a1R0R0plOXJWeXh4QXpkZ0hqZkFReFBtR3lXcEZLNnJQZjk5LVk3SEhkWFhlR2tpdw?oc=5>
+- **特朗普** | 特朗普政府据悉调整古巴策略 淡化军事选项转向经济施压 <https://news.google.com/rss/articles/CBMiigFBVV95cUxOMFhQcGRvUEtIWEhhWTVzMnVJQ2dZVVk3bFdhOGZvX0VNdzhmNTRjRDZwRjJPb3M5ZmVNdmt2TUtScngzUFlSUU9ZSk1UNGp0QUtPX0dCUmdDcldhVWpGYkpTbnJ2MENhOFVjU3k4b19QOTJhV1Y5cFJHWnFXTTdwVTUxdWhvNzgxbVE?oc=5>
 
 ### 2026-08-15 17:14  (2 条)
 
