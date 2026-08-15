@@ -1,30 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-15 13:06**
-- 本轮扫到 9675 条, 新增 **2** 条
+- 最近更新: **2026-08-15 13:49**
+- 本轮扫到 9677 条, 新增 **2** 条
 
 ---
 
 ## 本轮新发现 (2 条)
 
-### 刘畊宏今后还会继续发行新专辑吗？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923119_1d5ae15af06801vmlq.html>
-
-### 特朗普和马斯克的友谊修复了吗 关系重燃背后的利益考量
+### 特朗普称“很快将宣布霍尔木兹海峡为美国领土”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中华军事
-- 时间: 2026-08-15 12:17
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9taEg3Y1BpRUp4NTRMUWxtVEV4SkhfNWctcHFzdEpNUlUyTGxnaWlsTUhocWpYWk11bzkxRDNNdExzd2lTR1JVa2xvVFZzN3BoUm05YVJfMVoxSVBkYV9PQWRmN0p6MXhUaWdsYTRiZnA?oc=5>
+- 场馆: 央视网
+- 时间: 2026-08-14 22:32
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1ra29kcFM0MFZKM09VSGNXX3k2NnIwVmU0SjZQVkwwUGNvcllCOEthcTNzYmRnYXRiMzlRcjd5UGQwMG9YUnE0Mnh0dVV5aDViaEdteGRPQWNjMjZHU3dQV0NBdF8tYndTeEVSUEVuYlVrQU42RWJQZA?oc=5>
+
+### 视频丨以色列将举行议会选举 特朗普据称尚未明确支持内塔尼亚胡
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Sohu
+- 时间: 2026-08-15 13:24
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZl9PT1VDd2JUeWNOQ3UzeURDTElpRmtKV3FDWm9qMS0wY1hjNjREeTlBMTcxSEoyLU1QUmZNYkNYb0dzT0xPRjh0YkI1bjJuVXVtS3ZvUThnWXkzSWQwYW9mX1BpOFNWa2VFeHlBS1ZiM0Z1eFVtd0JFSENDZjRIQ0trTGhGVFBs?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-15 13:49  (2 条)
+
+- **特朗普** | 特朗普称“很快将宣布霍尔木兹海峡为美国领土” <https://news.google.com/rss/articles/CBMieEFVX3lxTE1ra29kcFM0MFZKM09VSGNXX3k2NnIwVmU0SjZQVkwwUGNvcllCOEthcTNzYmRnYXRiMzlRcjd5UGQwMG9YUnE0Mnh0dVV5aDViaEdteGRPQWNjMjZHU3dQV0NBdF8tYndTeEVSUEVuYlVrQU42RWJQZA?oc=5>
+- **特朗普** | 视频丨以色列将举行议会选举 特朗普据称尚未明确支持内塔尼亚胡 <https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZl9PT1VDd2JUeWNOQ3UzeURDTElpRmtKV3FDWm9qMS0wY1hjNjREeTlBMTcxSEoyLU1QUmZNYkNYb0dzT0xPRjh0YkI1bjJuVXVtS3ZvUThnWXkzSWQwYW9mX1BpOFNWa2VFeHlBS1ZiM0Z1eFVtd0JFSENDZjRIQ0trTGhGVFBs?oc=5>
 
 ### 2026-08-15 13:06  (2 条)
 
