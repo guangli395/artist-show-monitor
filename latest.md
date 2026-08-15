@@ -1,39 +1,13 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-15 15:43**
-- 本轮扫到 9684 条, 新增 **3** 条
+- 最近更新: **2026-08-15 16:16**
+- 本轮扫到 9684 条, 新增 **0** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮无新增
 
-### 特朗普说会宣布霍尔木兹海峡为美国领土特朗普说伊朗正遭受惨败
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-15 09:38
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE1IVHZUUUkxN0EzdFBsS1RGb1VkU2xXcThYbkZTQmNXc0J5TVVqWkpWQ0o0bW02MGVWZ2tZLW92MkZzcTZpTm5uLWtVVnN5VWJCQ0ZySXpSdVBiWEY3bkJpQlN6clZpeGQwYVZ4QXVzT2VabmpRYkE?oc=5>
-
-### 特朗普：很快将宣布霍尔木兹海峡为美国领土-观察者网
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-08-14 22:45
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1tZTlsTS1LVHFyZ3RLV0sxcDhrdHlJSkRjTXZTZzR4TDRTSnM4OHVYeGR3UDJzVWpfTnA5ZHRyUk42UWNQbUEyc1BUb05xTkhSWjVHSDZqQzhFbWY5RzZfMXR6UnAySE5MeEE?oc=5>
-
-### 特朗普政府请求最高法院放行白宫宴会厅项目
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-14 14:11
-- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVDI0T2ZWRkFTLU9lU0RjbnVDMVRlX09sWEdRN2tnVUhGQWN1aGhOLW83RFREUXlRcGRReFZlTWNfRnE1NXdMV2piOXJaQmtmZ0ptd1NSYnlKTXUyTzEtMmEyQUdDY1J5VlVyaFBQOE5TdHViOUxZaFRPSTd4RGtSenRCZndUVU1rdTFrVEk4em1rVzRFTnpsV29tOURiZXZOTjUzbG5vbWpUSE9FOGZEYWNzWHBSU3pKZm9WZkVZMTdJWUJhcHZ1Z0REUzRIcDczUlE?oc=5>
-
-
----
-
+数据库里所有演出/动态都已见过,暂无新增。
 ## 历史发现
 
 ### 2026-08-15 15:43  (3 条)
