@@ -1,39 +1,13 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-15 10:45**
-- 本轮扫到 9666 条, 新增 **3** 条
+- 最近更新: **2026-08-15 11:13**
+- 本轮扫到 9666 条, 新增 **0** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮无新增
 
-### 特朗普：“很快会宣布霍尔木兹海峡为美国领土”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-08-14 23:09
-- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQ25qd2NNcVFfck43MG1PYXhqX3Q1czdTSWhOUVd2cWxKM2Uzd1NPMHlCWWJTVUV4TVZGVkQ5SjVrYmota1FyejVfZ0FJbjYyRl9BOWdGX3Vib0RCaEI1M240WEpqSUVSYWRicXJfU1dOUmFHMlVpcVpqWmpaR1ZFV19LS2pob0ozRm1FejN2NXFrckFYejlqendhNTVjNVNKWUxjR005Ym5DLTNCQUN1ZFpUZUpXWnI2UTlVVHpBNW1fUWVzV0VGeE1zdGgzTTlYQlE?oc=5>
-
-### 育有二孩后特朗普发言人决定离职 29岁莱维特如何改变白宫政媒生态
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财新
-- 时间: 2026-08-15 03:47
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9STHJMbUhhcVRUNGFhaDR6bmlBbFF4VExkUWYxZTNmaXZWNUZqM0Fab1ozZTNNclJubzdZSUx1aks3QXNEV3Z2R09vUVl1U3BOektLNmlZNno0OF9xMWgzS2hGRmM5MWNWd3c?oc=5>
-
-### 1.410 | TRUMPUSDT U本位永续合约图表 | 币安合约
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Binance
-- 时间: 2026-08-15 10:06
-- 链接: <https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIZVd3anA0VzVhRFRIN1BnN3hDU1RmT0FUeWJ5TW5xTEdPZnNSb19neFdWeF8wS2VzNTlVVEFDSUFQOGh4d2tlSTNldFhNRWxmdnNFQjI1bnVpNVFW?oc=5>
-
-
----
-
+数据库里所有演出/动态都已见过,暂无新增。
 ## 历史发现
 
 ### 2026-08-15 10:45  (3 条)
