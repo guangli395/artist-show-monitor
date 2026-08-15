@@ -1,32 +1,35 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-15 12:24**
-- 本轮扫到 9673 条, 新增 **2** 条
+- 最近更新: **2026-08-15 13:06**
+- 本轮扫到 9675 条, 新增 **2** 条
 
 ---
 
 ## 本轮新发现 (2 条)
 
-### 特朗普称“很快将宣布霍尔木兹海峡为美国领土”
+### 刘畊宏今后还会继续发行新专辑吗？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923119_1d5ae15af06801vmlq.html>
+
+### 特朗普和马斯克的友谊修复了吗 关系重燃背后的利益考量
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-08-15 05:21
-- 链接: <https://news.google.com/rss/articles/CBMipwFBVV95cUxOcm81UmxreHM5eUhFeXByZDg0RTRmRWM1bGlPQm1veUlJSHgwb3c5Y2RCNG9uME91U2NqQkR3b2xtRmxVUFJEMGxWb0U3TUY4QmhVNkZyLVI1Zk50dlpIUW1ZTmxab0NOME5EalROTHphY3RFTElTNzRaWnVYdE1USzVNYi1FenZIMHg0RzRfZkhkdjA4U1kxV0ZRWTdsVi1YTTczN0tUVQ?oc=5>
-
-### 特朗普发布AI视频，带华盛顿参观在建白宫舞厅
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-08-15 12:07
-- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxQa2gzNXRTaTNYYVJGNDFOWTk3UE5MN1JKRThnaXhUcXhZWjZ2eUg0VkdlbEU5a0hKOF9WUjBhbTJ1a3k1TmE2OHZzcnlUWWQxTUU1cGFwWTczRHRGSXk5a0NrSzZ1SFhGQ2JvMzdqamRiX0V2dlhOcTNfRl9JbDlZXw?oc=5>
+- 场馆: 中华军事
+- 时间: 2026-08-15 12:17
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9taEg3Y1BpRUp4NTRMUWxtVEV4SkhfNWctcHFzdEpNUlUyTGxnaWlsTUhocWpYWk11bzkxRDNNdExzd2lTR1JVa2xvVFZzN3BoUm05YVJfMVoxSVBkYV9PQWRmN0p6MXhUaWdsYTRiZnA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-15 13:06  (2 条)
+
+- **周杰伦** | 刘畊宏今后还会继续发行新专辑吗？ <https://k.sina.com.cn/article_7879923119_1d5ae15af06801vmlq.html>
+- **特朗普** | 特朗普和马斯克的友谊修复了吗 关系重燃背后的利益考量 <https://news.google.com/rss/articles/CBMicEFVX3lxTE9taEg3Y1BpRUp4NTRMUWxtVEV4SkhfNWctcHFzdEpNUlUyTGxnaWlsTUhocWpYWk11bzkxRDNNdExzd2lTR1JVa2xvVFZzN3BoUm05YVJfMVoxSVBkYV9PQWRmN0p6MXhUaWdsYTRiZnA?oc=5>
 
 ### 2026-08-15 12:24  (2 条)
 
