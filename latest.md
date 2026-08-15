@@ -1,32 +1,26 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-15 13:49**
-- 本轮扫到 9677 条, 新增 **2** 条
+- 最近更新: **2026-08-15 14:15**
+- 本轮扫到 9678 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (1 条)
 
-### 特朗普称“很快将宣布霍尔木兹海峡为美国领土”
+### 蔡徐坤官宣新加坡演唱会，称想与你见面
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 央视网
-- 时间: 2026-08-14 22:32
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1ra29kcFM0MFZKM09VSGNXX3k2NnIwVmU0SjZQVkwwUGNvcllCOEthcTNzYmRnYXRiMzlRcjd5UGQwMG9YUnE0Mnh0dVV5aDViaEdteGRPQWNjMjZHU3dQV0NBdF8tYndTeEVSUEVuYlVrQU42RWJQZA?oc=5>
-
-### 视频丨以色列将举行议会选举 特朗普据称尚未明确支持内塔尼亚胡
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: Sohu
-- 时间: 2026-08-15 13:24
-- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZl9PT1VDd2JUeWNOQ3UzeURDTElpRmtKV3FDWm9qMS0wY1hjNjREeTlBMTcxSEoyLU1QUmZNYkNYb0dzT0xPRjh0YkI1bjJuVXVtS3ZvUThnWXkzSWQwYW9mX1BpOFNWa2VFeHlBS1ZiM0Z1eFVtd0JFSENDZjRIQ0trTGhGVFBs?oc=5>
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923704_m1d5ae17f803301wlt4.html>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-15 14:15  (1 条)
+
+- **蔡徐坤** | 蔡徐坤官宣新加坡演唱会，称想与你见面 <https://k.sina.com.cn/article_7879923704_m1d5ae17f803301wlt4.html>
 
 ### 2026-08-15 13:49  (2 条)
 
