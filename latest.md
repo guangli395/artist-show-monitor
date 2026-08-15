@@ -1,24 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-15 04:54**
-- 本轮扫到 9639 条, 新增 **1** 条
+- 最近更新: **2026-08-15 05:19**
+- 本轮扫到 9641 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮新发现 (2 条)
 
-### 特朗普政府据悉调整古巴策略 淡化军事选项转向经济施压
+### 特朗普爆粗口：“没有比这更大的侮辱”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-08-15 03:56
-- 链接: <https://news.google.com/rss/articles/CBMimgJBVV95cUxQMXRuY3BaNVJpNng1eVZVX2h4dF9YdW0xcVZUQnBrNk9md0ZiS2JGVFoxLWhNak5sWjVWSnJPT0xoUXBVLUtSMGhoeThacTdINFpzaHRZMkliLTlBVUdaQjcxTU5GblV1M0tLSE5DeHVtV19jZlNiYmJxZjJOX0tLWlZFaEc1dW90cG5ZN0NTOHd2Nll3VHBxdDU3cXcwektuN1dua1k1X1kyRERzUXNiYXdOZU9QZG9PV1phNjdqT2ZaRWlWMkRLbEticTZtYS1OYlRYbDlLR0ZKUjNIMGNPUGs1Z2c1Yk55OHBtNHhGNHM0SzlkTnlQOUpZenFPVEJQcnE2RjFjOGtlbE15WDZtWDJTSUd6aGpXb3c?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-15 05:16
+- 链接: <https://news.google.com/rss/articles/CBMiigJBVV95cUxNZDV2MWFGYWJabG1zVnJEbV91emszMFVtNTk5LXJjbnJSdGh2T2RVVVg5aVRPaHJkYnlfNFpQOGZaaDhBTEJiWVRHYTZaZEtDS1hzTC1kdkFlWnY0bjFSeUw3TnJUNmszRkFpMFNYaU1Dbnl1QWlSWmlZRThyTjBTSDBiYjVmNEJSUFJtTy13c04weHhsVEdFdFQ0U0RHRFhsODdnaHFHM01vVzd5RElQNkZWeG1TTmJ1RjlnU0VOUGkzb1hpWlhoOHVZZ2F1TXlBNHNNS21KVGVVVF9tU1ZjQTNadmk0R3NsbGF6X1pYQmx5V2p3ZTh0YlNNdHZENmNDQ1J0bDc3WkFMUQ?oc=5>
+
+### 美股收盘| 特朗普威胁宣布霍尔木兹为美国领土，三大指数小幅收低；光通信概念走强，AAOI大涨15%，Lumentum涨超5%；无人机股UMAC飙升25%
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 富途牛牛
+- 时间: 2026-08-14 23:11
+- 链接: <https://news.google.com/rss/articles/CBMimgFBVV95cUxQUWN0Q0FLYl9nOHdINzE2M2dYaXhXVjBtNnhJcDV3NkxnVzdLSm1BZUlrMjctMHc4YUJnbXU4RmtEREY4OGNIcEhENm9wLXM2YTUwdWp0YUJySDQzbzZ0OHZkNmc4REswbERJeWx5ZFpYaThkX0NXbWRJWmtmTmxtRF9nUllJZUttX3hWOHhXTkJYckV1NGlFNXRR?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-15 05:19  (2 条)
+
+- **特朗普** | 特朗普爆粗口：“没有比这更大的侮辱” <https://news.google.com/rss/articles/CBMiigJBVV95cUxNZDV2MWFGYWJabG1zVnJEbV91emszMFVtNTk5LXJjbnJSdGh2T2RVVVg5aVRPaHJkYnlfNFpQOGZaaDhBTEJiWVRHYTZaZEtDS1hzTC1kdkFlWnY0bjFSeUw3TnJUNmszRkFpMFNYaU1Dbnl1QWlSWmlZRThyTjBTSDBiYjVmNEJSUFJtTy13c04weHhsVEdFdFQ0U0RHRFhsODdnaHFHM01vVzd5RElQNkZWeG1TTmJ1RjlnU0VOUGkzb1hpWlhoOHVZZ2F1TXlBNHNNS21KVGVVVF9tU1ZjQTNadmk0R3NsbGF6X1pYQmx5V2p3ZTh0YlNNdHZENmNDQ1J0bDc3WkFMUQ?oc=5>
+- **Trump** | 美股收盘| 特朗普威胁宣布霍尔木兹为美国领土，三大指数小幅收低；光通信概念走强，AAOI大涨15%，Lumentum涨超5%；无人机股UMAC飙升25% <https://news.google.com/rss/articles/CBMimgFBVV95cUxQUWN0Q0FLYl9nOHdINzE2M2dYaXhXVjBtNnhJcDV3NkxnVzdLSm1BZUlrMjctMHc4YUJnbXU4RmtEREY4OGNIcEhENm9wLXM2YTUwdWp0YUJySDQzbzZ0OHZkNmc4REswbERJeWx5ZFpYaThkX0NXbWRJWmtmTmxtRF9nUllJZUttX3hWOHhXTkJYckV1NGlFNXRR?oc=5>
 
 ### 2026-08-15 04:54  (1 条)
 
