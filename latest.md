@@ -1,32 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-14 23:45**
-- 本轮扫到 9620 条, 新增 **2** 条
+- 最近更新: **2026-08-15 00:52**
+- 本轮扫到 9625 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (5 条)
 
-### 8月15日隔夜要闻：标普500周线三连阳 油价上涨 金价反弹 特朗普称“很快将宣布霍尔木兹海峡为美国领土”
+### 特朗普：远远不够长-观察者网
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-08-14 23:37
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFA5a0drWk1NV2VUVFF1MTFvd0c4cjV3bHhKSkFhZWIyTFpFUkFfMEpPRi1GMjVPdzZ6U3BaOEhkVU5CRTRwenllblhjdnRjZUFxYW5MVHZpTUcwMFJxUnNrQ19FR19iZE1CVWc?oc=5>
+
+### 美航母船员跳海风波发酵，特朗普首次回应
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-08-14 23:18
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE96dk9jTkJvMmxKUGc1SHZVeXhmSkNycEF3TW9PdklodENSLW1DYkNOYmJHdm9hc0F2bGxsNGtSVDVZdFBPazdLbW9LX2g?oc=5>
+
+### 特朗普总统：“林肯”号航母将被替换；此前有报道称该航母上状况恶劣
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-08-14 21:50
+- 链接: <https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbGc4SWZHRGJzUVB6VUxZTnRkQ3h6bDNxc0J0ZzNNWU4ybWlITzFfRU1LRGZDSWt0eDAwTG8wdXVDdm01V011cl8zVVA1S1YzZzhpYjkxckVWM0NqWlgzYWFIbmdOX0RKYm9razBYVUo4MEhNMTRwTnFfS1dPclN1bW0zWjI1WTZ4TXBlc1BFNnF5UFptbGtMdnlDQXR6a0FJVS1ZaGR3Sm52RjVrOFFFeTdWV3U3ZGlTU2tXdFZmVWdWNnRjbm9sNVFuTnpBLW12VEduMXJuU09rRFNDSkVDZ250Z0tKV1JmNGhPRnJ3TnHSAfMBQVVfeXFMT0FyVHMyd1Y0eDVDUFpBZ2pLZ0xjNVFmMzNqdGstbzRlODBUbDA1dVZMZTYtSGpjSUs5emNpR0VCSTl2RkloYU9FSU5CbkVSdzM3SmlpV1VPZW0tX3dPRHJWQmptalUwSXp6T1pKN1V1SG1oZXNzU0ozLUF5dDdCbkREVU5DTDBSdE5XYy00a01SbEYxUFBPVkluRmtfOWhKb0R6UjB2aFYybXdvTEY3UG04dWU2cFl6ODBtRFVjRVlvS1V3aFlLZEVYOVFHZmZtZVBhNS0yWDl6WDJiRVVoUU9rSzU1bWJhTHlISnlKTXZScWpZ?oc=5>
+
+### 特朗普盟友奈杰尔・法拉奇补选获胜，重返英国议会
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-08-14 23:15
-- 链接: <https://news.google.com/rss/articles/CBMimwJBVV95cUxOdHhJWFQtUDBmbTNYbGdqRmF2LTg5dks0VENwZmdqeTRjOUxzOU9WV09DQmV3RmE1XzI3bE9kSXVBT0s0ZkhQZG41bFlqTkVpeEZZbjNRdHg2S3ZEN1ZqNUdPMEd4aF9UUHdjeDNKNUlEQlpXUG9nb0Nva2EzdE5wb01KdEI2dm40QnZpRXJMc3IzU3I5VXhTODQ2V1hiVGxBQWVQN09Ia2hRM0tncjc3QS1wcWt3aDRQQ3ludktzTUo2V2VwNVl1ams2LW5FUkp3eFljd3NNX3Iza2lDbWs2cmlER09FOElvYlBnUE40SmlFMFEycFEzb2dOWkJ2QnhzY0x6OVhBZXdqUWZaSU4yRDhTendUbDk2c2RF?oc=5>
+- 时间: 2026-08-15 00:33
+- 链接: <https://news.google.com/rss/articles/CBMijwJBVV95cUxPekl1QWRoS2FIUmVocHdvZXVNY0RIS0t5c2UxN1RQdHhRZV9ZdnFtYXI0eE1hbjFXNW1Ra2k2MU1pUUpkUGMwVnI5aU9fcm9DWDZ2Z0pNeXF2NlRObWc2XzAyYjQ4NkFSY09QS0JUXzJOSWdEa2xzLTh2amVoVjVOWEtLRnB3el9GUEJXSXVpWE1jM0RTUm5VVW9sNF81LXRhYmlNeEpEc3RqdGxVS21LMkJrV3ROQ2dNWjJYQnZNSkZWOV9JMU5CLXdLUHpwbElaZEhsaWhJYzFVOVZiTnE1WW0taFdYLTNsMzh1QmxaYlhOc1RobWx0ZkNuOUFQcnpqeVEzeHN4ekVoSGgtMktB?oc=5>
 
-### 特朗普称将在经济上对伊朗实施严厉打击
+### 消息人士称，特朗普预计将出席白宫与加密货币首席执行官的会面
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-14 20:37
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5BZFgyck9WS2ZiVVdncEV4WWVORGdTeFN1TzVrQ2NuNnZ0NFE5YnpMUGJkQUFXbExXUTctdlNaNXl6V015ZTI5ZTRUYw?oc=5>
+- 场馆: CoinDesk
+- 时间: 2026-08-14 23:41
+- 链接: <https://news.google.com/rss/articles/CBMiuwFBVV95cUxPV21iaFcxbWxCMEdoVi1pZnBkd2gxcS1GV1BWUGRJVDREbm9WZFZiTEg1NlI3ZnBkaUJwaDZ5eHd1WVBucHhwVmJTbTRwWlhaY3l1TEVjSkNIWkRUc2Z6WUdPcVltMnpxajhmY2o5N3NWcF84ZVh3SlVwTWlweGJJNW1Yc2xWQ1V5OVVnMjd1dlpENFhGTHVHN3AtOGd0SDlJa25QT05UQ2tsdWNFRlR0SlI3R1ZkNHJhazZN?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-15 00:52  (5 条)
+
+- **特朗普** | 特朗普：远远不够长-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTFA5a0drWk1NV2VUVFF1MTFvd0c4cjV3bHhKSkFhZWIyTFpFUkFfMEpPRi1GMjVPdzZ6U3BaOEhkVU5CRTRwenllblhjdnRjZUFxYW5MVHZpTUcwMFJxUnNrQ19FR19iZE1CVWc?oc=5>
+- **特朗普** | 美航母船员跳海风波发酵，特朗普首次回应 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE96dk9jTkJvMmxKUGc1SHZVeXhmSkNycEF3TW9PdklodENSLW1DYkNOYmJHdm9hc0F2bGxsNGtSVDVZdFBPazdLbW9LX2g?oc=5>
+- **特朗普** | 特朗普总统：“林肯”号航母将被替换；此前有报道称该航母上状况恶劣 <https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbGc4SWZHRGJzUVB6VUxZTnRkQ3h6bDNxc0J0ZzNNWU4ybWlITzFfRU1LRGZDSWt0eDAwTG8wdXVDdm01V011cl8zVVA1S1YzZzhpYjkxckVWM0NqWlgzYWFIbmdOX0RKYm9razBYVUo4MEhNMTRwTnFfS1dPclN1bW0zWjI1WTZ4TXBlc1BFNnF5UFptbGtMdnlDQXR6a0FJVS1ZaGR3Sm52RjVrOFFFeTdWV3U3ZGlTU2tXdFZmVWdWNnRjbm9sNVFuTnpBLW12VEduMXJuU09rRFNDSkVDZ250Z0tKV1JmNGhPRnJ3TnHSAfMBQVVfeXFMT0FyVHMyd1Y0eDVDUFpBZ2pLZ0xjNVFmMzNqdGstbzRlODBUbDA1dVZMZTYtSGpjSUs5emNpR0VCSTl2RkloYU9FSU5CbkVSdzM3SmlpV1VPZW0tX3dPRHJWQmptalUwSXp6T1pKN1V1SG1oZXNzU0ozLUF5dDdCbkREVU5DTDBSdE5XYy00a01SbEYxUFBPVkluRmtfOWhKb0R6UjB2aFYybXdvTEY3UG04dWU2cFl6ODBtRFVjRVlvS1V3aFlLZEVYOVFHZmZtZVBhNS0yWDl6WDJiRVVoUU9rSzU1bWJhTHlISnlKTXZScWpZ?oc=5>
+- **特朗普** | 特朗普盟友奈杰尔・法拉奇补选获胜，重返英国议会 <https://news.google.com/rss/articles/CBMijwJBVV95cUxPekl1QWRoS2FIUmVocHdvZXVNY0RIS0t5c2UxN1RQdHhRZV9ZdnFtYXI0eE1hbjFXNW1Ra2k2MU1pUUpkUGMwVnI5aU9fcm9DWDZ2Z0pNeXF2NlRObWc2XzAyYjQ4NkFSY09QS0JUXzJOSWdEa2xzLTh2amVoVjVOWEtLRnB3el9GUEJXSXVpWE1jM0RTUm5VVW9sNF81LXRhYmlNeEpEc3RqdGxVS21LMkJrV3ROQ2dNWjJYQnZNSkZWOV9JMU5CLXdLUHpwbElaZEhsaWhJYzFVOVZiTnE1WW0taFdYLTNsMzh1QmxaYlhOc1RobWx0ZkNuOUFQcnpqeVEzeHN4ekVoSGgtMktB?oc=5>
+- **Trump** | 消息人士称，特朗普预计将出席白宫与加密货币首席执行官的会面 <https://news.google.com/rss/articles/CBMiuwFBVV95cUxPV21iaFcxbWxCMEdoVi1pZnBkd2gxcS1GV1BWUGRJVDREbm9WZFZiTEg1NlI3ZnBkaUJwaDZ5eHd1WVBucHhwVmJTbTRwWlhaY3l1TEVjSkNIWkRUc2Z6WUdPcVltMnpxajhmY2o5N3NWcF84ZVh3SlVwTWlweGJJNW1Yc2xWQ1V5OVVnMjd1dlpENFhGTHVHN3AtOGd0SDlJa25QT05UQ2tsdWNFRlR0SlI3R1ZkNHJhazZN?oc=5>
 
 ### 2026-08-14 23:45  (2 条)
 
