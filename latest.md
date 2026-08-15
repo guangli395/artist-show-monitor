@@ -1,48 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-15 02:10**
-- 本轮扫到 9629 条, 新增 **4** 条
+- 最近更新: **2026-08-15 03:11**
+- 本轮扫到 9634 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (5 条)
 
-### 法国世界报 - 特朗普宣布：美国航空母舰舰载机起飞将改回老式弹射器； 这对法国可能产生影响
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-08-15 01:10
-- 链接: <https://news.google.com/rss/articles/CBMi3gRBVV95cUxOTVkyWlotd1pjbTlzZ2lwZmJNTml2SkhDRlMyMm02ZVNfM2RKQWJUY3E4aTlMREVIVDNZMkJSSnBucWVzaHFUVFN5eURhSGxTS2ZwakMxbXQ5eldGZmt2aGJRc1BINTBXM1dTc1hxZlhHb2ZXdnVZVW11eS0tRTJaRVZHRU9lVjlxMDBOb0lHUDNtS1B6UmdtejlOTXhKdTQ2eW9lZEVMZFhIUjBsdDhfOFRYSjIza2tPUUNXaFBOWW9jNDRCQ0kzY2RaMmRRRzJWRjloSkU2ZHJIQTF0N2RNdUNOa1pkamt6QmFSNHJwRHRkUzNtckFhZU9RVjhlTngwTS1oZ3MzbVFDZnRSYWNDYjVlcGxVdTFTLUZ0OS1iNE5hYW5zVHVNQ1RqUi1IeTVFLThId1ktcURJUXdPSW1pSFNlTkV0b2pVS0t4bUx2UFZQZUtFX3BMUjY2dWI2RmVBbURXWllGN3lXYlp3YUVZX283UTlCa1pnTDc0SUo3OV9QME01OXJNY2x6OUY1bHNjY2pvamxPUHU1dEY3TkNDcE01MW5jUEVkak82OFlDdkVVZVJSZ3dYN1VWV0Z5NE5ZVnctTE9IbHItOTZPU3pJSGphM1NxVWVaTmxpTzA0ZXRzdnNXX3J1UnVkN1lhMkxicmFZRjRUU1Z4eXdwSTBnT3pjNmttNThpajYwZFVQUlJSU2xiVDdxR3dVa0RkQTNPRDc1d0M3RWk2RDJDYVRac241ZjlNOUQzbDBZNVdYcDZBQWgzTElXT0JVeGZOMkJ6ckJNUUFyRmZYLTY2VWc?oc=5>
-
-### 知情者：肯尼迪董事会决定将特朗普姓名刻在中心外墙
+### 特朗普家族旗下World Liberty Financial获初步批准设立信托银行
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-08-14 05:54
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5OenhkdjVoRXhfYnZUZnpKS1l4QzdNZ0Q0NEZlZUw4RkpiYm1UeVZXNGxQcUNBUjBSZUs2dzdDZkFxSGNwcTZUYzNyNDktX0J1dVpZWXd1djRsOVBGa3Btc19pVkkxUQ?oc=5>
+- 场馆: 华尔街日报中文网
+- 时间: 2026-08-15 02:28
+- 链接: <https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRmFzZ2c3LU9ZY0JjeU1NSHFhM3k3MXNWYzlIcE1oYkN5endqVGtkLXdORnBGSDhWTk80WkVGWVRSU1RmcjlzZTdYUGY0c0VDam1hTGZLb1BmM0liYi1IOVRKYlVLUFZPbW14ZC1XT0xGNE9MR1p4OE9hS3J1dTJZZVBTUDU0cVozSmI0bFRBQ0NIcFRiU3FSYUlMQ19VQ25LM2VlVGFwbmtRRVl3b1l6QkNraFNGNkNS?oc=5>
 
-### 拉黑、揭底、断供威胁：特朗普与马斯克交恶一年的幕后真实博弈曝光
+### 特朗普威胁宣布霍尔木兹为美国领土，美国将对伊朗采取“前所未见”的经济手段
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: QQ News
-- 时间: 2026-08-14 05:50
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9xaThnS1RYZ3BpUDV4eFNLOGV6UERJVGJQQi1PU3dBeG9nenRIeUx4WHNCN21WMGdaUDVXaXU5MGp6QXpwZTNUci0wY0k2WE9QMThmdTJ5emlMY2Z3cERKaWdEYklxd3Y1eE5janliZFJiNjV4NnZEZg?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-14 21:57
+- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE1Ja3FjbFExc21qSWJjODU1elJIOWVIWERZZVNiRU5NS3RmRWJMcHBCRWxxLVhkMmVFbVp3OHpIT2V1NHlIUzdscHV1MWNEbEQzaVUwLWxiay0xYnhmYnU2ODdQb1pIbkUtSGVFZWdyMm93WFJRTkpVaU9B?oc=5>
 
-### 特朗普淡化外界对“林肯”号航母生活条件的担忧
+### 没完没了！中方试射，澳总理跟特朗普“告状”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-08-14 23:12
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFB3S1pzT21uODZsX1k2Q2JEUERNLWd6dUYybDRRc0d1Tm41cEFhQ0JXRkl2TWVIV2FUSmZMcENSdjdwODdYVWtrNGlMcXA?oc=5>
+
+### 特朗普或迎新“纪录”：30年期美债融资成本恐创2001年来最高
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 财联社
+- 时间: 2026-08-13 10:57
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTFBzUk1UeUc4MGFHZkMtZ3plSWJ2dVY3OTVOcFVWdFBNMTZVeTh4RUR0SURvZ3ktSENGLWNCS282MzBRVWhUelF3YQ?oc=5>
+
+### 特朗普政府请求最高法院准许宴会厅施工
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: 华尔街日报中文网
-- 时间: 2026-08-15 00:51
-- 链接: <https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY25xbWszczR6UmZoWkQ5dHAtS1NLdERXUmxJOU5RMGYtNUFBbUFCY2xDOXhQcVVXd0JiU2tuSjM4SkZ4TWwwUGVWZ2xpMWlKWVhZc3BIdnBIT1VIV3JoS2lVbnhqeGVhZXJUSnlqZzJaYThpbVI5WGVlaHRGMmxpal9NeWVfS0NzaHdVOUFDMkhvV2U2ZXVQOE9RNDFvSjR1Q3BFY0VmN20?oc=5>
+- 时间: 2026-08-15 02:13
+- 链接: <https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS0N0dzhTSnB1Wks4Z2s1aTZBbTlkSHlrbXIzNUQ4Q0NtZUNhbGQxcEJza0F3a1A4Y2EwRlduZ0p0aHQtSEZpQ3FHSlhPcVJZRlI3dzM3WUZINkl2bDVuLVk2bDRGdGc5TU4tbFNuaVEzUFFXSFJDamVzY0tPMkYxckc0XzNRb1ZkZDdrUzNUQzhWbE1RcHoxQnF3c0dBQVBETHRwVGQ5MFJVVE0?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-15 03:11  (5 条)
+
+- **特朗普** | 特朗普家族旗下World Liberty Financial获初步批准设立信托银行 <https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRmFzZ2c3LU9ZY0JjeU1NSHFhM3k3MXNWYzlIcE1oYkN5endqVGtkLXdORnBGSDhWTk80WkVGWVRSU1RmcjlzZTdYUGY0c0VDam1hTGZLb1BmM0liYi1IOVRKYlVLUFZPbW14ZC1XT0xGNE9MR1p4OE9hS3J1dTJZZVBTUDU0cVozSmI0bFRBQ0NIcFRiU3FSYUlMQ19VQ25LM2VlVGFwbmtRRVl3b1l6QkNraFNGNkNS?oc=5>
+- **特朗普** | 特朗普威胁宣布霍尔木兹为美国领土，美国将对伊朗采取“前所未见”的经济手段 <https://news.google.com/rss/articles/CBMiekFVX3lxTE1Ja3FjbFExc21qSWJjODU1elJIOWVIWERZZVNiRU5NS3RmRWJMcHBCRWxxLVhkMmVFbVp3OHpIT2V1NHlIUzdscHV1MWNEbEQzaVUwLWxiay0xYnhmYnU2ODdQb1pIbkUtSGVFZWdyMm93WFJRTkpVaU9B?oc=5>
+- **特朗普** | 没完没了！中方试射，澳总理跟特朗普“告状” <https://news.google.com/rss/articles/CBMiTEFVX3lxTFB3S1pzT21uODZsX1k2Q2JEUERNLWd6dUYybDRRc0d1Tm41cEFhQ0JXRkl2TWVIV2FUSmZMcENSdjdwODdYVWtrNGlMcXA?oc=5>
+- **特朗普** | 特朗普或迎新“纪录”：30年期美债融资成本恐创2001年来最高 <https://news.google.com/rss/articles/CBMiSEFVX3lxTFBzUk1UeUc4MGFHZkMtZ3plSWJ2dVY3OTVOcFVWdFBNMTZVeTh4RUR0SURvZ3ktSENGLWNCS282MzBRVWhUelF3YQ?oc=5>
+- **Trump** | 特朗普政府请求最高法院准许宴会厅施工 <https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS0N0dzhTSnB1Wks4Z2s1aTZBbTlkSHlrbXIzNUQ4Q0NtZUNhbGQxcEJza0F3a1A4Y2EwRlduZ0p0aHQtSEZpQ3FHSlhPcVJZRlI3dzM3WUZINkl2bDVuLVk2bDRGdGc5TU4tbFNuaVEzUFFXSFJDamVzY0tPMkYxckc0XzNRb1ZkZDdrUzNUQzhWbE1RcHoxQnF3c0dBQVBETHRwVGQ5MFJVVE0?oc=5>
 
 ### 2026-08-15 02:10  (4 条)
 
