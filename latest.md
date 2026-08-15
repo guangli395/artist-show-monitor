@@ -1,32 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-15 23:13**
-- 本轮扫到 9701 条, 新增 **2** 条
+- 最近更新: **2026-08-15 23:42**
+- 本轮扫到 9704 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (3 条)
 
-### 特朗普释放可能参与2028年大选的信号
+### 特朗普证实林肯号将被替换
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-08-15 23:30
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE91VmQ4bzFJS1BIblZ1R3lfcWZQQ2dNWEFwMHFEWHZQWWlYbFV2OVFuRlVGcGxBak5XZDVtUHFZa1ZfRVlxSm1wUXZ4R09SXzJYdUlJRnBDTTVaQ0hPSzFkR0JPR2IzMENYWTlhOHo0R0t2MUE?oc=5>
+
+### 特朗普发布了一个他带乔治·华盛顿参观新宴会厅的AI视频
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-08-15 23:30
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBtcjB1T2JDdkp5RnFnSHpWN214NHdYTHdsSFRVY0JWSmV1R21FSXBfYU5EekZUYldNQUZCSTVnSG1WOFNPR0pyN3FndG1Qa2ZjR1h3NXQ0OWxjRFNqbWt3VmdaUlRwVHVkd2dSWHFYTmprUHJxSlRmai0xbHpSbDg?oc=5>
+
+### 特朗普大笔一挥，美媒：几十亿又没了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-08-15 23:10
-- 链接: <https://news.google.com/rss/articles/CBMiiAJBVV95cUxQLW5meV9JbkF1aUg0dDdVSXFMTTYxZzFpZkRTSC1wLVVLRXpWNFFtcUM0SjBMN0o5aXhIZDUyc1ZPdWszeFpEVFRRTUNLMUhxTHV3bnBFemZ6VXk3emJ6a3Nzb0p4eXo3TGJlNTM5SWtaeUY1emlxY29Eeno0MmRocEpobEU3bF9rVTdFZUUtMUp4R3M3RnkyMldsQld0UU83NlFuQVdQRWhZbnBPS3gzOTJqMEZsc2drcUpxMEdCcjBMSXBNMnNNNGZtZUgxNF9tMHdzQ2JZTXl2amZZcWpDbmxmNE5FZVhsUkxKMWxyU2R3dENqYW5vZnVUNmRZTUJCeXFyN3R0cDU?oc=5>
-
-### 特朗普威胁宣布霍尔木兹为美国领土，美国将对伊朗采取“前所未见”的经济手段
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-15 19:23
-- 链接: <https://news.google.com/rss/articles/CBMiqAJBVV95cUxNWVlEOG5IVlliN21QWi1zZlU3dG1DQXpMWi0yM0dOdkxmY1l4NE9zeFg4ODlPTVlBYVRLN290X0ZEZmNYWW94ajc0VVlLb2xydFlpcXhQR3pKZjRwTkdnVS1OaVA3T1RGeVJLaWV0Y3BHdlpHcHVDcDFGQjlsNjZ4cmd3SGl4ZVpnbnZHZmdUaERRa1V2Y1BHaXNXTENPcWZJbGRjMEdOaUR1RzNscUJHRGVETHNnalhpTlFBdkVleHpqdmtOV3czZXM3NVBQbTFvVEgwMXJ0bzhHaHVOZDlOMHVoamNQZ1dFaUZkUTZZMXVmVlF1QVdBUzUwTl9WbHRtMzlBYXBpYmdYdHB2M0RxVmktWkZwaV9Rdi1BMEZ2N1BUOV9BRzgyeQ?oc=5>
+- 时间: 2026-08-14 06:34
+- 链接: <https://news.google.com/rss/articles/CBMizgFBVV95cUxOVW51eV9jUnNLQ3ZlQVpCN0tQaFpXY2hqMHlfS3lJNE9ZeTY1ZjJNZkxqRXhQUS11UXBKVUp5TGk4QWpDdlFqT21kY1BVVmRPekpoLXZMXzlzUmltMnJ4VEVlT016NzdxblhSZTBTNV9TcHJmb2MtamRWRHdXVUc0SmJYQ0xLeEo0R2tkT3l5a3o0cmw3S3VDRGVacGdvQWUxbmluN2RxdWlBRW1ZdG5mM3ZwVE1RZndtbEpoQkJEOFMxT1lfay1xWXdfRjJlQQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-15 23:42  (3 条)
+
+- **特朗普** | 特朗普证实林肯号将被替换 <https://news.google.com/rss/articles/CBMic0FVX3lxTE91VmQ4bzFJS1BIblZ1R3lfcWZQQ2dNWEFwMHFEWHZQWWlYbFV2OVFuRlVGcGxBak5XZDVtUHFZa1ZfRVlxSm1wUXZ4R09SXzJYdUlJRnBDTTVaQ0hPSzFkR0JPR2IzMENYWTlhOHo0R0t2MUE?oc=5>
+- **特朗普** | 特朗普发布了一个他带乔治·华盛顿参观新宴会厅的AI视频 <https://news.google.com/rss/articles/CBMif0FVX3lxTFBtcjB1T2JDdkp5RnFnSHpWN214NHdYTHdsSFRVY0JWSmV1R21FSXBfYU5EekZUYldNQUZCSTVnSG1WOFNPR0pyN3FndG1Qa2ZjR1h3NXQ0OWxjRFNqbWt3VmdaUlRwVHVkd2dSWHFYTmprUHJxSlRmai0xbHpSbDg?oc=5>
+- **特朗普** | 特朗普大笔一挥，美媒：几十亿又没了 <https://news.google.com/rss/articles/CBMizgFBVV95cUxOVW51eV9jUnNLQ3ZlQVpCN0tQaFpXY2hqMHlfS3lJNE9ZeTY1ZjJNZkxqRXhQUS11UXBKVUp5TGk4QWpDdlFqT21kY1BVVmRPekpoLXZMXzlzUmltMnJ4VEVlT016NzdxblhSZTBTNV9TcHJmb2MtamRWRHdXVUc0SmJYQ0xLeEo0R2tkT3l5a3o0cmw3S3VDRGVacGdvQWUxbmluN2RxdWlBRW1ZdG5mM3ZwVE1RZndtbEpoQkJEOFMxT1lfay1xWXdfRjJlQQ?oc=5>
 
 ### 2026-08-15 23:13  (2 条)
 
