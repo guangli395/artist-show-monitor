@@ -1,32 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-15 22:45**
-- 本轮扫到 9699 条, 新增 **2** 条
+- 最近更新: **2026-08-15 23:13**
+- 本轮扫到 9701 条, 新增 **2** 条
 
 ---
 
 ## 本轮新发现 (2 条)
 
-### 特朗普：“很快会宣布霍尔木兹海峡为美国领土”
+### 特朗普释放可能参与2028年大选的信号
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-08-15 20:08
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5ETGZER0kwSlBPZW1UMjJWejRSZ19fMGdILURoSkZwYjdLcFVtSzA5S0NoWnhIeXRjcFIyd09fbC1tN2phZUstUkpOeDFxUzJiSzJ3dlM0cGp4SHhJaE82S1RTOXRZalhRakJUeGRCaEtJVGN0cHA5OA?oc=5>
+- 时间: 2026-08-15 23:10
+- 链接: <https://news.google.com/rss/articles/CBMiiAJBVV95cUxQLW5meV9JbkF1aUg0dDdVSXFMTTYxZzFpZkRTSC1wLVVLRXpWNFFtcUM0SjBMN0o5aXhIZDUyc1ZPdWszeFpEVFRRTUNLMUhxTHV3bnBFemZ6VXk3emJ6a3Nzb0p4eXo3TGJlNTM5SWtaeUY1emlxY29Eeno0MmRocEpobEU3bF9rVTdFZUUtMUp4R3M3RnkyMldsQld0UU83NlFuQVdQRWhZbnBPS3gzOTJqMEZsc2drcUpxMEdCcjBMSXBNMnNNNGZtZUgxNF9tMHdzQ2JZTXl2amZZcWpDbmxmNE5FZVhsUkxKMWxyU2R3dENqYW5vZnVUNmRZTUJCeXFyN3R0cDU?oc=5>
 
-### Trump Family's World Liberty Financial Gets Preliminary Approval to Launch a Bank -- Update
+### 特朗普威胁宣布霍尔木兹为美国领土，美国将对伊朗采取“前所未见”的经济手段
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-08-15 21:12
-- 链接: <https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdERZUHBOUEtKVmh5V2M3cnR0cnNJR2RxUndlRFZWOG1NZ3cxX1BpTkVPU2FHdEZMdi1VUG1WQWJ6VmZ3UHRScERoM05IOXpQOGhVSEFKUVBYVncxRi1QZHc3T2wwcmh3UjFLWFgzb09nOHE0NU5ZZ0R2cWJmeFlBQWxEcVZPMkxvRHJoeURDOGU3cmdYa05FVHZQZXNDNEdpbFgzU3dBcHNSZ3lzNGZhMHJrLXA1WEQzZVhlZFJDQWs5Sm5oUUxoR2RBM2Y3b1hqbnBlSnI4QUJ3VXVsQlpFRTZPcw?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-15 19:23
+- 链接: <https://news.google.com/rss/articles/CBMiqAJBVV95cUxNWVlEOG5IVlliN21QWi1zZlU3dG1DQXpMWi0yM0dOdkxmY1l4NE9zeFg4ODlPTVlBYVRLN290X0ZEZmNYWW94ajc0VVlLb2xydFlpcXhQR3pKZjRwTkdnVS1OaVA3T1RGeVJLaWV0Y3BHdlpHcHVDcDFGQjlsNjZ4cmd3SGl4ZVpnbnZHZmdUaERRa1V2Y1BHaXNXTENPcWZJbGRjMEdOaUR1RzNscUJHRGVETHNnalhpTlFBdkVleHpqdmtOV3czZXM3NVBQbTFvVEgwMXJ0bzhHaHVOZDlOMHVoamNQZ1dFaUZkUTZZMXVmVlF1QVdBUzUwTl9WbHRtMzlBYXBpYmdYdHB2M0RxVmktWkZwaV9Rdi1BMEZ2N1BUOV9BRzgyeQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-15 23:13  (2 条)
+
+- **特朗普** | 特朗普释放可能参与2028年大选的信号 <https://news.google.com/rss/articles/CBMiiAJBVV95cUxQLW5meV9JbkF1aUg0dDdVSXFMTTYxZzFpZkRTSC1wLVVLRXpWNFFtcUM0SjBMN0o5aXhIZDUyc1ZPdWszeFpEVFRRTUNLMUhxTHV3bnBFemZ6VXk3emJ6a3Nzb0p4eXo3TGJlNTM5SWtaeUY1emlxY29Eeno0MmRocEpobEU3bF9rVTdFZUUtMUp4R3M3RnkyMldsQld0UU83NlFuQVdQRWhZbnBPS3gzOTJqMEZsc2drcUpxMEdCcjBMSXBNMnNNNGZtZUgxNF9tMHdzQ2JZTXl2amZZcWpDbmxmNE5FZVhsUkxKMWxyU2R3dENqYW5vZnVUNmRZTUJCeXFyN3R0cDU?oc=5>
+- **特朗普** | 特朗普威胁宣布霍尔木兹为美国领土，美国将对伊朗采取“前所未见”的经济手段 <https://news.google.com/rss/articles/CBMiqAJBVV95cUxNWVlEOG5IVlliN21QWi1zZlU3dG1DQXpMWi0yM0dOdkxmY1l4NE9zeFg4ODlPTVlBYVRLN290X0ZEZmNYWW94ajc0VVlLb2xydFlpcXhQR3pKZjRwTkdnVS1OaVA3T1RGeVJLaWV0Y3BHdlpHcHVDcDFGQjlsNjZ4cmd3SGl4ZVpnbnZHZmdUaERRa1V2Y1BHaXNXTENPcWZJbGRjMEdOaUR1RzNscUJHRGVETHNnalhpTlFBdkVleHpqdmtOV3czZXM3NVBQbTFvVEgwMXJ0bzhHaHVOZDlOMHVoamNQZ1dFaUZkUTZZMXVmVlF1QVdBUzUwTl9WbHRtMzlBYXBpYmdYdHB2M0RxVmktWkZwaV9Rdi1BMEZ2N1BUOV9BRzgyeQ?oc=5>
 
 ### 2026-08-15 22:45  (2 条)
 
