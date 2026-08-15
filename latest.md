@@ -1,56 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-15 03:11**
-- 本轮扫到 9634 条, 新增 **5** 条
+- 最近更新: **2026-08-15 04:02**
+- 本轮扫到 9638 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (4 条)
 
-### 特朗普家族旗下World Liberty Financial获初步批准设立信托银行
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-08-15 02:28
-- 链接: <https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRmFzZ2c3LU9ZY0JjeU1NSHFhM3k3MXNWYzlIcE1oYkN5endqVGtkLXdORnBGSDhWTk80WkVGWVRSU1RmcjlzZTdYUGY0c0VDam1hTGZLb1BmM0liYi1IOVRKYlVLUFZPbW14ZC1XT0xGNE9MR1p4OE9hS3J1dTJZZVBTUDU0cVozSmI0bFRBQ0NIcFRiU3FSYUlMQ19VQ25LM2VlVGFwbmtRRVl3b1l6QkNraFNGNkNS?oc=5>
-
-### 特朗普威胁宣布霍尔木兹为美国领土，美国将对伊朗采取“前所未见”的经济手段
+### 报道：Coinbase、a16z和Kalshi高管将出席白宫会议 特朗普也将与会
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-08-14 21:57
-- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE1Ja3FjbFExc21qSWJjODU1elJIOWVIWERZZVNiRU5NS3RmRWJMcHBCRWxxLVhkMmVFbVp3OHpIT2V1NHlIUzdscHV1MWNEbEQzaVUwLWxiay0xYnhmYnU2ODdQb1pIbkUtSGVFZWdyMm93WFJRTkpVaU9B?oc=5>
+- 时间: 2026-08-15 03:11
+- 链接: <https://news.google.com/rss/articles/CBMijwJBVV95cUxQSGplZGNoQVBUVHVYY2lSamdDWVBFOXpxM1ZrZmhuOExKOWk3LTE0UGdNMkFnN2VfZkhGaFpibnp3QzlCTF9hb0RjWFFjdjRzc25OTzJVX0tLVl8yb3djZmdvbnR5dmhtay1EdFVZMXkzZ0ROM0lERHl4R01UY2RhMzFfY09MMC1pSkRNV2tWeG1fX2VaNmNnNGJLNzMyOGNPenpIY2hzUmFGU3Z5dENZQ00xdV92b3drLXlpaTVfbjB0bUcxRERRQ0lXbF9HdkVwdTIwc1NxMEhNU2Y2dUJkRHktblgtVDMwMmxoQzBsbklxSlp4Q0UyUmhpSEllS3VkdWgybHRjaHo2UWJvTHBR?oc=5>
 
-### 没完没了！中方试射，澳总理跟特朗普“告状”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-14 23:12
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFB3S1pzT21uODZsX1k2Q2JEUERNLWd6dUYybDRRc0d1Tm41cEFhQ0JXRkl2TWVIV2FUSmZMcENSdjdwODdYVWtrNGlMcXA?oc=5>
-
-### 特朗普或迎新“纪录”：30年期美债融资成本恐创2001年来最高
+### 特朗普：击败伊朗后会宣布霍尔木兹海峡为美国领土
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-08-13 10:57
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTFBzUk1UeUc4MGFHZkMtZ3plSWJ2dVY3OTVOcFVWdFBNMTZVeTh4RUR0SURvZ3ktSENGLWNCS282MzBRVWhUelF3YQ?oc=5>
+- 场馆: 新华网
+- 时间: 2026-08-14 21:50
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1wM2hZRkV4Tzd1VWtDWlQ2SVBhOEtqNTRpMTJxVi1wZFF1d2RYbi05bG1mUTlvcWxFUVQ5YlZZcnJfcW43VFRsR2pmUDNnUDlOSFhfR0xJMnJwX3h4SXJXY1BDQ093RXNWampMai1DTnF6aTZuc0NscTRJWDFxTjg?oc=5>
 
-### 特朗普政府请求最高法院准许宴会厅施工
+### 特朗普证实部署中东的“林肯”号航母将被替换
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-08-15 02:13
-- 链接: <https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS0N0dzhTSnB1Wks4Z2s1aTZBbTlkSHlrbXIzNUQ4Q0NtZUNhbGQxcEJza0F3a1A4Y2EwRlduZ0p0aHQtSEZpQ3FHSlhPcVJZRlI3dzM3WUZINkl2bDVuLVk2bDRGdGc5TU4tbFNuaVEzUFFXSFJDamVzY0tPMkYxckc0XzNRb1ZkZDdrUzNUQzhWbE1RcHoxQnF3c0dBQVBETHRwVGQ5MFJVVE0?oc=5>
+- 场馆: 新华网
+- 时间: 2026-08-15 00:04
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1FZTg1bE1uZVl3aDZXd3E2ckRFV2g0SjhYek9YcW81dmJ2ZnZTMjFrakJidFR1R0NhdVlXQlBWXy1uVG9BNDE2R1F3eUZIcHVpR2RaUXJUcENLNDhjVWxKd0JkQ0xTVG9MXy1BZ2drdmxsY25kUzhSWHZvLW9BTG8?oc=5>
+
+### 特朗普大笔一挥，美媒：几十亿又没了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-14 06:34
+- 链接: <https://news.google.com/rss/articles/CBMizgFBVV95cUxNYU5nOENpNEtiQk5QMzBCVGFGbWtKYWw3QkpsNFE0NWdrZDBpbU5aMzlOaUNUX0trUTFoU0x4aXE1TWRIbWFLTnh1c2l0UU1Nc3JrdEdzbzc2S1c5MFlfUWM3QS1nVzZOM0ZoUE91cEVybFhxdVRyM0xmRnF5aFM2Rkd5OU9uamNJN1dIaUItcFRKN0ltTGpNMm5VMk4zdmctdmh2UGxKa1Ywc18yYnBZY3FWb3VsVUVyLUVSMnRnUzBuV0pKc0thLVlSc0ZKdw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-15 04:02  (4 条)
+
+- **特朗普** | 报道：Coinbase、a16z和Kalshi高管将出席白宫会议 特朗普也将与会 <https://news.google.com/rss/articles/CBMijwJBVV95cUxQSGplZGNoQVBUVHVYY2lSamdDWVBFOXpxM1ZrZmhuOExKOWk3LTE0UGdNMkFnN2VfZkhGaFpibnp3QzlCTF9hb0RjWFFjdjRzc25OTzJVX0tLVl8yb3djZmdvbnR5dmhtay1EdFVZMXkzZ0ROM0lERHl4R01UY2RhMzFfY09MMC1pSkRNV2tWeG1fX2VaNmNnNGJLNzMyOGNPenpIY2hzUmFGU3Z5dENZQ00xdV92b3drLXlpaTVfbjB0bUcxRERRQ0lXbF9HdkVwdTIwc1NxMEhNU2Y2dUJkRHktblgtVDMwMmxoQzBsbklxSlp4Q0UyUmhpSEllS3VkdWgybHRjaHo2UWJvTHBR?oc=5>
+- **特朗普** | 特朗普：击败伊朗后会宣布霍尔木兹海峡为美国领土 <https://news.google.com/rss/articles/CBMif0FVX3lxTE1wM2hZRkV4Tzd1VWtDWlQ2SVBhOEtqNTRpMTJxVi1wZFF1d2RYbi05bG1mUTlvcWxFUVQ5YlZZcnJfcW43VFRsR2pmUDNnUDlOSFhfR0xJMnJwX3h4SXJXY1BDQ093RXNWampMai1DTnF6aTZuc0NscTRJWDFxTjg?oc=5>
+- **特朗普** | 特朗普证实部署中东的“林肯”号航母将被替换 <https://news.google.com/rss/articles/CBMif0FVX3lxTE1FZTg1bE1uZVl3aDZXd3E2ckRFV2g0SjhYek9YcW81dmJ2ZnZTMjFrakJidFR1R0NhdVlXQlBWXy1uVG9BNDE2R1F3eUZIcHVpR2RaUXJUcENLNDhjVWxKd0JkQ0xTVG9MXy1BZ2drdmxsY25kUzhSWHZvLW9BTG8?oc=5>
+- **特朗普** | 特朗普大笔一挥，美媒：几十亿又没了 <https://news.google.com/rss/articles/CBMizgFBVV95cUxNYU5nOENpNEtiQk5QMzBCVGFGbWtKYWw3QkpsNFE0NWdrZDBpbU5aMzlOaUNUX0trUTFoU0x4aXE1TWRIbWFLTnh1c2l0UU1Nc3JrdEdzbzc2S1c5MFlfUWM3QS1nVzZOM0ZoUE91cEVybFhxdVRyM0xmRnF5aFM2Rkd5OU9uamNJN1dIaUItcFRKN0ltTGpNMm5VMk4zdmctdmh2UGxKa1Ywc18yYnBZY3FWb3VsVUVyLUVSMnRnUzBuV0pKc0thLVlSc0ZKdw?oc=5>
 
 ### 2026-08-15 03:11  (5 条)
 
