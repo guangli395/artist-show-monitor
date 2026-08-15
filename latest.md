@@ -1,31 +1,13 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-15 19:16**
-- 本轮扫到 9693 条, 新增 **2** 条
+- 最近更新: **2026-08-15 19:42**
+- 本轮扫到 9693 条, 新增 **0** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮无新增
 
-### 特朗普：“很快会宣布霍尔木兹海峡为美国领土”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-14 23:09
-- 链接: <https://news.google.com/rss/articles/CBMiywFBVV95cUxPUmJHVzM2SG1ZclVhdGZUUF80RXRfQXd0Q1F4YUt1dk5PWk9oU3hwSTR6ZXpiMnRQck1xdGNURWhPWWdRTWdmU1BHdUcteXV6Vk1aMUlBREhPS1N0a0JlS3hSZDZaVzF0eG80NnFTSlFCM3J2U0owcmpDYllsR3g3Wkt5S1JLQVVvZDduc054XzA2YzBRTlYwQ2laZnBCSGZiWFdleEZZOU5YT2VyWVMyRmxZTTNBRlJiWkc3Rm8tazRlT1pvTVBfcmNzUQ?oc=5>
-
-### 特朗普政府请求最高法院放行白宫宴会厅项目
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-14 14:11
-- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdkM4Z2xEMDdoVUNNMHViNzkzNnpCeDRiM3VfcGExcU5nY0haU1FOT281YnEtQmRZelhWbHdhSFBfaTBPTnBPWm16Ui1XUmxmWFlCNUYxOENSOURCRllMcFF0Z3FncHVwcmZqcG90N2pBME5lbWxreGxTZk5GMHdCamRmSWxPM1VoLWZxblNqV1VQWlgwWEJzenRQaWJicGdjRTI1X2hNQngyWUJqMWVfZW5mWXB4bEM4V0lrUXZvR0NPamkxSnJieFZPNlA0M2tnQ0E?oc=5>
-
-
----
-
+数据库里所有演出/动态都已见过,暂无新增。
 ## 历史发现
 
 ### 2026-08-15 19:16  (2 条)
