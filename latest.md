@@ -1,48 +1,26 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-15 08:20**
-- 本轮扫到 9659 条, 新增 **4** 条
+- 最近更新: **2026-08-15 08:53**
+- 本轮扫到 9660 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (1 条)
 
-### 特朗普：福特级的电磁弹射不行，换回蒸汽弹射
+### 华晨宇也是周杰伦粉丝 清唱中文网主题曲，给网站打广告！
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-08-14 05:18
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9fYnB2UDFUQk04aTNJSXlaRHdaZm9tbTRvd3hubVZPRkNEMjlQUGhYNXdIODg3dEgzNzJOTmRlWU9YOHZkcFphN3NtaXRvNXRmZzR0YlhBRWg3UDE2V05xTVcxbm8ybDRpSDRNVDdJMnBkM2lzT0Zha3RNSjQxclE?oc=5>
-
-### 特朗普政府据悉调整古巴策略 淡化军事选项转向经济施压
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-15 07:11
-- 链接: <https://news.google.com/rss/articles/CBMiqgJBVV95cUxQU05Pejl1NnVMOElHNUt0aEhGdTdVYWRLc0R4d0V0TkxpeHMyRjBPbTVCNUV6ZzlZdTd2c2FxcDRSRlN6SFBrV2IxZHlZa054RTdjUm5EMTlmRXd2NVBWQ1lwZUNtQThPM3ZIbjExTTVOeno2ZUxsM3ZPV0J1c0E2MTJCVmZ0V2ZRaklTakJ3QkNKYnZRRUNGMHF6bk1OUEdmd2t5RjJ1RFVDT3JXVVk4N1pmOUtzYktpRGd5Y1NpaHdNWklrcVdSWTZSSmFWNFk0M2hBSXlhc0wzVHI4bVg4aDJhRTVaOGc1OVhNN2NWQkFEa1hsNlZLS0pkU3RTRHdfM3NEWTJaN050TFA2VTJnSnpZQ0F3cU44ZW5DNFN0REJEZmJUY2lRMVJn?oc=5>
-
-### 特朗普证实部署中东的“林肯”号航母将被替换
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: xinhuanet.com
-- 时间: 2026-08-15 00:04
-- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE5SdGVIczQ4NEp4UWljMHJ1cGVzSDNiVmp1OUVNdUw3ZVVPaDh6aXo4RmtidXZOM0kzQlhySW5xM2doLTNNWDdVWmEzd3ZXN1J1MkRxekFWR0xEUWx5a2QtUzkxb1lUNHJjU1cya0hLem1yaUhscHB0SlJUcnY5Zw?oc=5>
-
-### Drone Stocks Jump After Trump Targets Imports With Tariffs -- WSJ
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-08-14 12:30
-- 链接: <https://news.google.com/rss/articles/CBMirgFBVV95cUxNZXQyUlAyUWdTczVOWHZLeFBwY0RjOUZzMDVmaHRadDM1SlVwenl0R29lMXYtZzdfNXFnRjBYRE02UmxxcGZ0cjBBNUxEcWJNT3JnTWRsTmM1LXB6SEJMRjhTQTZSaDhwbW9uZ0xCaFd6NFhDSXRHeDZoNklKakFRWVBqRTdUeHo5N0ZuMThwWDFIaWQyTlVjRWRUY1VmRWIzS056T1huWF9HWGZYaGc?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_6579479315_m1882ae31303301dhje.html>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-15 08:53  (1 条)
+
+- **周杰伦** | 华晨宇也是周杰伦粉丝 清唱中文网主题曲，给网站打广告！ <https://k.sina.com.cn/article_6579479315_m1882ae31303301dhje.html>
 
 ### 2026-08-15 08:20  (4 条)
 
