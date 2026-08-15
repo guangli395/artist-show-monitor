@@ -1,56 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-15 11:42**
-- 本轮扫到 9671 条, 新增 **5** 条
+- 最近更新: **2026-08-15 12:24**
+- 本轮扫到 9673 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (2 条)
 
-### 特朗普轻描淡写回应林肯号部署，美海军妻子愤怒发声
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-15 10:10
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE4wMTN6UmlSd2RLTzNpeXNHSzlPNVkzODBmaFhLaThWZXVWRGY4RjFLWC16N0k4bGFBNEg3cDRWeXluaXdCc3U3N0NYN2U?oc=5>
-
-### 没完没了！中方试射，澳总理跟特朗普“告状”-观察者网
+### 特朗普称“很快将宣布霍尔木兹海峡为美国领土”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-08-14 23:12
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9TbnpqbXhjV1psWnNaeG9pdVlrRFpNU0RQVFZSNWRUSUFUME5LZ1JvRTh5SlZxa1IxYmR1UzluVUptWnlfSFZnX0RIQU13b0VoUFVfaXI0WGI5TDJCLVdVcWhqeDZLWXRJbGc?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-08-15 05:21
+- 链接: <https://news.google.com/rss/articles/CBMipwFBVV95cUxOcm81UmxreHM5eUhFeXByZDg0RTRmRWM1bGlPQm1veUlJSHgwb3c5Y2RCNG9uME91U2NqQkR3b2xtRmxVUFJEMGxWb0U3TUY4QmhVNkZyLVI1Zk50dlpIUW1ZTmxab0NOME5EalROTHphY3RFTElTNzRaWnVYdE1USzVNYi1FenZIMHg0RzRfZkhkdjA4U1kxV0ZRWTdsVi1YTTczN0tUVQ?oc=5>
 
-### 美国彻底内讧！拜登之子痛批特朗普：你就是全人类最大的威胁！
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: Sohu
-- 时间: 2026-08-15 09:57
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxNUFJTcnlQeS1pNGlxQklnRGVhNmF3UFI0NWFGb0k0Si1qYmx1Z1RlaHd2QU9GQ1JzallrNVhWMHR1TUFvaS1QZE8wSl9zWmoxajMtdGs3eGNaYlVkTmgtaEJZT0JLa3NVMVRWUWlOdFlRempqNVkwV2NLVXJuSVIxS2tUeTUwdUViQ1lSZA?oc=5>
-
-### 最年轻新闻秘书，“弃特朗普而去”
+### 特朗普发布AI视频，带华盛顿参观在建白宫舞厅
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 文学城
-- 时间: 2026-08-14 09:01
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9LQzRNRDlYaW10WDVETEwxdVpKVGxOMjlKT0U2Q3dJVC1GVTRBM0lYSVJVR2VuM1NoV1N6VGJhMU5jd1BQUXplWkNaSnRpMldzdTNMQnpIZ2RVV2FONWFjNkR6Y09yTFFE?oc=5>
-
-### 美国Trump赋予私营企业入侵外国网络犯罪组织权限- 阿视亚经济
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 아시아경제
-- 时间: 2026-08-15 06:13
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CWWZCYV9VR3NucEVBU3JGTF95M0VjM01TYUJELUw4TW5saTNieGZQcmt6c084dS1NdWgwVWkxb3FQaWhzZ1ZKaVUzOXZjd0xNMTZtM2VRYVNydjBpSEtzbUtxcnk?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-08-15 12:07
+- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxQa2gzNXRTaTNYYVJGNDFOWTk3UE5MN1JKRThnaXhUcXhZWjZ2eUg0VkdlbEU5a0hKOF9WUjBhbTJ1a3k1TmE2OHZzcnlUWWQxTUU1cGFwWTczRHRGSXk5a0NrSzZ1SFhGQ2JvMzdqamRiX0V2dlhOcTNfRl9JbDlZXw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-15 12:24  (2 条)
+
+- **特朗普** | 特朗普称“很快将宣布霍尔木兹海峡为美国领土” <https://news.google.com/rss/articles/CBMipwFBVV95cUxOcm81UmxreHM5eUhFeXByZDg0RTRmRWM1bGlPQm1veUlJSHgwb3c5Y2RCNG9uME91U2NqQkR3b2xtRmxVUFJEMGxWb0U3TUY4QmhVNkZyLVI1Zk50dlpIUW1ZTmxab0NOME5EalROTHphY3RFTElTNzRaWnVYdE1USzVNYi1FenZIMHg0RzRfZkhkdjA4U1kxV0ZRWTdsVi1YTTczN0tUVQ?oc=5>
+- **特朗普** | 特朗普发布AI视频，带华盛顿参观在建白宫舞厅 <https://news.google.com/rss/articles/CBMigAFBVV95cUxQa2gzNXRTaTNYYVJGNDFOWTk3UE5MN1JKRThnaXhUcXhZWjZ2eUg0VkdlbEU5a0hKOF9WUjBhbTJ1a3k1TmE2OHZzcnlUWWQxTUU1cGFwWTczRHRGSXk5a0NrSzZ1SFhGQ2JvMzdqamRiX0V2dlhOcTNfRl9JbDlZXw?oc=5>
 
 ### 2026-08-15 11:42  (5 条)
 
