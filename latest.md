@@ -1,48 +1,35 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-15 05:48**
-- 本轮扫到 9645 条, 新增 **4** 条
+- 最近更新: **2026-08-15 06:26**
+- 本轮扫到 9647 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (2 条)
 
-### 特朗普称“很快将宣布霍尔木兹海峡为美国领土”
+### 周杰伦青岛演唱会门票秒没
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-08-14 21:49
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE95X2tjVWlyVHlnV0hEMGprM1F3LURyaG94N20ybWVITUVlLUd4WUJTTUdnUlFpZ0d2dFE5Yk9QWWhrS1FqQmNXN1J1TGN6RnlhVldlV0FEdlhlaUpkSTZVdXZGN0xtTGFSdkl1LWJXSXo?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1931238691_m731c5d2303302gv4y.html>
 
-### 最年轻新闻秘书，“弃特朗普而去”
+### 伊朗回应特朗普：霍尔木兹海峡开放与关闭由伊朗掌控
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-08-14 03:24
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1sMXMtZXpTV2tjeEpvUVBpT2RqeEFJbWJLS2ZyaFpjbzJ0RWhTQVJXUGFscHo3MVBIRkFlRkpIMjg0NldFTlkxNGNMc3plZkpZM2JQaDFtMkctSmJOYldiSUxZXzVtVTNGYV9YQlBBUzFVbXljdURxbg?oc=5>
-
-### 特朗普无视“林肯”号航母恶劣状况，美国航母为何补给困难？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-08-15 05:35
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE9yb2NXNTR5NXBHQnp6bmRNSHVYUFg1RTIxeHFMVlJjT2Fybm5tZTdEaTB4RGN3Rm5WNlBZZHVSNDh3Uk4tdm94anAzQ29WM3ZZZUVHUE5nT2tnbzNYU3c?oc=5>
-
-### 相比普京，特朗普秘密换机不过是“小儿科”
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: cn.nytimes.com
-- 时间: 2026-08-13 03:17
-- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTE1FbmVUcHF0WmFNNzgwNjVlMnFLdDJlTThXeklKSnpwckdrTUtzNFZUM2hnaXpKOUxjU2FZZy10YVhKbDZhWmJLdUJ5NkNVSjVBRmI0YVNRbzE2SWEtOGhKWmcyd2pPZTNneDlTVFBpdEpzNWdETXFBTXh2Zw?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-15 05:58
+- 链接: <https://news.google.com/rss/articles/CBMiiAJBVV95cUxOX2VEa29ISFZDLXJhaGRRejlHX0g0a0xsNjh0eDYwdDhVTEhubWtNdjFMNjVweUVrTDZfQjJqMnRveDBJZ0t6eVJ0X2w4NkVoRmdlRE80V1NFS3VwYnRDZnlaNGNxS0Y0Rksxa3JXSFdhWExwZ2tLQ0ZOWThYazZkeEFYMFJoZlZpc2VGT0ZNOUUzUzNoSGZHVnpCTGFIM3dOdGVTUy1kemdhOUQzVThCM0xuYTJPZ2Z6NnBSMlZhbkoycHg5YXNpVzhqaEJWX2lxenNmc2t4alBYZ2V4QVZpVVdUV0x3YmNCMFdvOS1vaDhuQ1FwY1EwUXBZQnBqdXdObUQ2Z0EyQnk?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-15 06:26  (2 条)
+
+- **周杰伦** | 周杰伦青岛演唱会门票秒没 <https://k.sina.com.cn/article_1931238691_m731c5d2303302gv4y.html>
+- **特朗普** | 伊朗回应特朗普：霍尔木兹海峡开放与关闭由伊朗掌控 <https://news.google.com/rss/articles/CBMiiAJBVV95cUxOX2VEa29ISFZDLXJhaGRRejlHX0g0a0xsNjh0eDYwdDhVTEhubWtNdjFMNjVweUVrTDZfQjJqMnRveDBJZ0t6eVJ0X2w4NkVoRmdlRE80V1NFS3VwYnRDZnlaNGNxS0Y0Rksxa3JXSFdhWExwZ2tLQ0ZOWThYazZkeEFYMFJoZlZpc2VGT0ZNOUUzUzNoSGZHVnpCTGFIM3dOdGVTUy1kemdhOUQzVThCM0xuYTJPZ2Z6NnBSMlZhbkoycHg5YXNpVzhqaEJWX2lxenNmc2t4alBYZ2V4QVZpVVdUV0x3YmNCMFdvOS1vaDhuQ1FwY1EwUXBZQnBqdXdObUQ2Z0EyQnk?oc=5>
 
 ### 2026-08-15 05:48  (4 条)
 
