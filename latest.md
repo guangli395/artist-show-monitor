@@ -1,22 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-15 08:53**
-- 本轮扫到 9660 条, 新增 **1** 条
+- 最近更新: **2026-08-15 09:19**
+- 本轮扫到 9661 条, 新增 **1** 条
 
 ---
 
 ## 本轮新发现 (1 条)
 
-### 华晨宇也是周杰伦粉丝 清唱中文网主题曲，给网站打广告！
+### 特朗普钻餐车逃命被曝光！硬要盖白宫地堡，拿伊朗导弹威胁当借口
 
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6579479315_m1882ae31303301dhje.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: sohu.com
+- 时间: 2026-08-15 07:48
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxQaVEwblotd19VNTIwRHJLSThEU2xUaXdoTlRwbjNZYXl5enVzejlHQ1NLQjNhdXIzaFZYc0lXUEw0NDVweFlkQm55aHluUWl6SXp3SXdnSlBqOGEzTUhsVUZ1eTN6MUN0emh0WGtieDVOZWI2Tnd5T2otbnktZVdhdHJKcWhEbW9kaW1BbQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-15 09:19  (1 条)
+
+- **特朗普** | 特朗普钻餐车逃命被曝光！硬要盖白宫地堡，拿伊朗导弹威胁当借口 <https://news.google.com/rss/articles/CBMijAFBVV95cUxQaVEwblotd19VNTIwRHJLSThEU2xUaXdoTlRwbjNZYXl5enVzejlHQ1NLQjNhdXIzaFZYc0lXUEw0NDVweFlkQm55aHluUWl6SXp3SXdnSlBqOGEzTUhsVUZ1eTN6MUN0emh0WGtieDVOZWI2Tnd5T2otbnktZVdhdHJKcWhEbW9kaW1BbQ?oc=5>
 
 ### 2026-08-15 08:53  (1 条)
 
