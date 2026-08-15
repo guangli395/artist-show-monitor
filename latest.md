@@ -1,31 +1,13 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-15 21:42**
-- 本轮扫到 9697 条, 新增 **2** 条
+- 最近更新: **2026-08-15 22:13**
+- 本轮扫到 9697 条, 新增 **0** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮无新增
 
-### 特朗普大笔一挥，美媒：几十亿又没了
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-14 06:34
-- 链接: <https://news.google.com/rss/articles/CBMizgFBVV95cUxOYmN6TW9GUHlHbXdVUC1pbzE4TmFoRF9CWXhka1ZhaTYwWGZaMGtXV1NQa3F6UTNXVTZmOFFxcjh1VkdOaWVJQ01ycUdncnRaNV9aVkhzSWJfZDdFLS15OS1oczV0cEtEZ3E1b1BZLU4zaW5NOFVWNklCTTZ5c2RuRUFCeFAtQndNQy1Nc2drcENYOUhZYndHNWNrdzBLSjNsMVpNUU12MEVzaWI3OHBJSklIaDhaRm1ZLUJmamxGeXRsM0J5VTgtQ1hnclRqdw?oc=5>
-
-### 特朗普要求福特级4号舰弃电磁弹射改蒸汽弹射
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-08-15 21:21
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5EUWpLeFRWSkQzQklQZTU0QUJEQWc4MnpfRFMzRkdjZS1QcHFKcWdfYXNKVEg5YjVjelhWV2kxS0tDbDBJcndVRHBqLVR6NnpvSGM0R0h4NTFTNmFRWEw3RElDMUQzeUNkcVV1T0FIOFBVVjQ?oc=5>
-
-
----
-
+数据库里所有演出/动态都已见过,暂无新增。
 ## 历史发现
 
 ### 2026-08-15 21:42  (2 条)
