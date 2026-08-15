@@ -1,31 +1,13 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-15 20:14**
-- 本轮扫到 9695 条, 新增 **2** 条
+- 最近更新: **2026-08-15 20:45**
+- 本轮扫到 9695 条, 新增 **0** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮无新增
 
-### 特朗普政府据悉调整古巴策略 淡化军事选项转向经济施压
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-15 18:19
-- 链接: <https://news.google.com/rss/articles/CBMijwJBVV95cUxQWDkyWlN6T29JWnRSV18tZ2ZEUWhnZjJXQUVrSjBPVks2dERPUVlyTmw5M1hXcFRKMEM3TVFldmkxRU0xT3dfb3VLVVdhRGNDX1RzQkVSNE5uMS00SnYwVXg1V1E3Z3kwam8waGhQN1FoZXRKMmYwRmM0aVBCSG52QlJ6VHg3RTAyRXVrSnBqQkVBNjJrc1o4LUVGMF91S2NRbTJJWGN5YUdkTXNMUTdFNmxFZzlHNFBiT3kwSjh3a0VNVGlQRWZWeVFrdmJ3N0Fla3lqVFBzaG5BQnQtU3hpcjJtS0c2Njh1dGFDZ3QyakJYQ0ZuS0tGMlBmcndCcE82LVRBNU1CQ1NJMTNITXpF?oc=5>
-
-### 特朗普政府请求最高法院放行白宫宴会厅项目
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-14 14:11
-- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaDVxbTA3RDcwSmVjS25aWmhMQlBWQ2UwQU9RNEh4bDVHbndDUUhScjN6U1hmRXhIbVB0QTJOeWhmaEp4aVFZR0JyTl9NbndkTnhYekRIa0pWNE1BYmxvWElEVHZnR1VjTmVzVjNaRmZfMWlmUEdHa1RGdS1rcXJSVEhoa1lFRUZVS2xJYTl6OTUtVzJwbjdDWkF5Q1djc2hfVkl5LU5PUEl0QncyMFQxbE9yc3VYYmt1bXZEX2RqWDNtX0lNS3hsSGRaMy1jdW9ISnc?oc=5>
-
-
----
-
+数据库里所有演出/动态都已见过,暂无新增。
 ## 历史发现
 
 ### 2026-08-15 20:14  (2 条)
