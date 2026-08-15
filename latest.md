@@ -1,29 +1,13 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-15 09:48**
-- 本轮扫到 9663 条, 新增 **2** 条
+- 最近更新: **2026-08-15 10:15**
+- 本轮扫到 9663 条, 新增 **0** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮无新增
 
-### 当年刘畊宏街上遇到她，惊为天人，推荐给周董，直接当MV女主角
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7785470890_m1d00cdbaa03301v6d4.html>
-
-### 安全需要？特朗普政府要最高法院“放行”宴会厅改造
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: Sohu
-- 时间: 2026-08-15 09:08
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxObU5NWWJaUTE3U1REcVRidVhaVEhMU1lBSm85MU1sNHVpM1hKVkVCVWFYdWYxT09BWTEyLW5UMUVnc3o2dW5QWTk5b3NEU3czT2paNTNLdUFzR1Y4V0Z2WXJZRHVIa3pxaEhMdS1tTWs3c1dNTHRXemxzaHQ3ejVsUDdvQ2JNTXFuUTJNNg?oc=5>
-
-
----
-
+数据库里所有演出/动态都已见过,暂无新增。
 ## 历史发现
 
 ### 2026-08-15 09:48  (2 条)
