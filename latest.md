@@ -1,40 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-15 07:06**
-- 本轮扫到 9650 条, 新增 **3** 条
+- 最近更新: **2026-08-15 07:50**
+- 本轮扫到 9655 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (5 条)
 
-### 特朗普爆粗口：“没有比这更大的侮辱”
+### 美国监管机构批准特朗普家族加密银行的初步许可
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-15 07:02
-- 链接: <https://news.google.com/rss/articles/CBMiggJBVV95cUxPMy1iV1Fud2lXOThaSGxHeEF1SUVoeFBmcENEeW5VbWFiZzdmcmFPNl9NSE9ybTRDOGZtSzVZczZ3NGFycVlqWDMxZHZpTXVYN1ZiVVhKNjMxZXB0RUJ0WnlIT3VvS08zY2ptOWNCTzEzYnA0WlVYcU8ya3BpX0FoeURJV3RNVlBpbGZ2aEdBSVlGYnA5TlRuajQ4bmFfUGc0Ty1VcV9JZDd4QUExS0Iwd1VZOE1aWGw5Y2JWc29OYk1oWExUTmZvNDdWUV9KTFBoQU52S3JHeEVlY3BlWFBHZDJTM1VFbExMN2t5WXJJSEtVYUxMSHJqU0NlQ0hQd2RiaXc?oc=5>
+- 场馆: idnfinancials.com
+- 时间: 2026-08-15 07:00
+- 链接: <https://news.google.com/rss/articles/CBMi3wJBVV95cUxQR1haZjdzYTZJX2xPX29xdm1JMWFSdzMwcW85VGN0SDZXeldLUW1kWG5sLWlTaVpybmtjbVkwU2JmbW5UdG13VW5oZmVRSjE5dlhOMk9UVVM5UkF2cjJaaDZBQU84bE8yV0FCQUhHM01lUVk1MnI5R1QyUFMwNjduUk1jclVEMWFfd1dwNFA1ZFZ0bVUxNVFrNFpobW1aajNvOExKSHBPeW9Yd0JfUmE2U3NnZzhlMm1zNE93Z1phY0ZCcGVkUTZ1NEpKZGVpaEFNb2FPVHlWQm9PaC1jNUsyM0stWVN5cGJCZVdSZTZUcmRUZW40NlpqX2VwVGlyT3ZpbDN3Ty1RRU1sRVhlbVE3MmJFRUdiUURmaUU1Sk9MeWVqRlhZRDBjNE82NmprR0lVaHV2SE1WR0syM3cxUnlYU0dEV2IwYldvNnVjNFNLUGt1eW4wbTNnR0RtUkpCT1E?oc=5>
 
-### 特朗普下令新航母弃用电磁弹射，换回蒸汽弹射
+### 不可思议的举措：特朗普下令放弃电磁弹射，福特级将恢复蒸汽弹射
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪网
-- 时间: 2026-08-15 06:48
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBMVkYzaXJJQ3ZlV0U3dWZTR3J3eFdrS2UwallhdmFGS2xtMmdueWlQOTI4VjVLRi1fWE4yQ2dyLXlmQTYyVlVva051b0pUWWhoZTFkM3h2cGcxeHJUbWlXbTY0RE0tY0kzYUJjMGdKa1o?oc=5>
+- 时间: 2026-08-15 07:46
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE1zWGNYLTh1VlBLWDdONDhrbWQwcHM3dlhEdUdfZG9lR3FPSllYZ0FoSGdIWlQweXNaYnQ1emhZT2IxSWVHeFI5NFc4bmU1cVY5enREUkN4cFpwb1VmVUN3U2NJdGxPbXFKWTU3NXRKb0Zodw?oc=5>
 
-### 法国世界报 - 特朗普宣布：美国航空母舰舰载机起飞将改回老式弹射器； 这对法国可能产生影响
+### 特朗普证实部署中东的“林肯”号航母将被替换
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-08-15 01:10
-- 链接: <https://news.google.com/rss/articles/CBMizwRBVV95cUxOcEVubHYwcVBrREJXTldFTC1abzlQX0pWYWROR09rZk1CYzNMamNYZ196M0paRUx5SDhyTE9jdm9FX2czVVpDcHZXYi1XSC1UZ2xFNnpWcmg3N1BzS1g0VTAwdVZvSUcxMll6T0VSMWRkVXNXdGhzc1ZfU0pFVU1taHJpVkg0WTJrbVQzZVJaYld1ME5ENE1hUXdCSUlUVGl2bDdycHhCcW9yV1pibWlUNS1adzkwdjd6dHBBakw1YXA5c1NuYVctUnJjUGtaSGZYRmdYdEZTaVlpdmNTRl9UMEhXQXJhVllWSUl4MGpXOVJuTjNlWUhQdWdWczZoZDQtWXluRGVUalpHNDljQ05HeV9XcG0yZWhOZ2l2NEdKQUNkRGpscXh4SUl1WTZ5NlpwRDRUbzRWSXN6TTd3bDZqUF9SX3hWamFPa29SM1ItRmVfYVpOdUZMY0xFcjdWVnBuWUxhVm5qaHNLM1dWRW1RdE0wS0pwb2RpMk81RnRhaW8tNzFiS0IxbTlpWTBtaG04eFBQTl9PNGxwd3Jkdm5LaTljdWZxaWJhX0tvNmF3VmVXc1pzVEVSMVVqOEE1b0kya0VkTDFyYVljVVhWMV9Mb2poX1FON0JzWTloQ2RtNldPUTROM2NiTWJYZkMwOVpjQnJhNlh2b09GQkNzTGpuUVZUQVhBdHQySG5IRWVMc09pQ1gwLUZVZXE0cWZ2QktWdmV2ZTUzclZIU0hzY1oybEU3MGEyTHQ3U3hzUnB6bDBPRWROMlRhVDg4YjZ2bGs?oc=5>
+- 场馆: 新华报业网
+- 时间: 2026-08-15 00:16
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE1CZzd6cjg5dkkycjBFOEJYMTZsMWlaODgxMGstLWc1OTJPVGlQdlJUOWhRMjkwVzg4YU5GZlRmVHNGaUFsSHJPN1N1bEVGSmxwck83YXFWTW5BU3NpVG5aRTRSVlRXdXdnNWRR?oc=5>
+
+### 特朗普称将在经济上对伊朗实施严厉打击
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: intl.ce.cn
+- 时间: 2026-08-14 23:56
+- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTE85Rl8zSHZSV3BaSEpNZ1FDR0pGYjROaWtycFhmSTd4Ulg3Mkk3R1oweDhlZ0lnRWxIZHVFRWtDbFY5OENuOEtnSkt3cHc2WlkyTHN3VVYzQTBHQ1NPSTJWekNnOA?oc=5>
+
+### 特朗普说“很快宣布霍尔木兹海峡为美国领土”，伊朗回应
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪军事
+- 时间: 2026-08-15 04:54
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5DbnFnckxvbXpTZlB3aU0yMm1uSUcxTWd5REd2UTJyYnJuYm1WSzEyYzYyVTE3YkI1VzBma19ScXljdTIwNnNWemxFQld5MWhOcFNiWXlraFBFemVsYVJROWNaM3BJYlNfZXMyV2QxbVRNVkU?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-15 07:50  (5 条)
+
+- **特朗普** | 美国监管机构批准特朗普家族加密银行的初步许可 <https://news.google.com/rss/articles/CBMi3wJBVV95cUxQR1haZjdzYTZJX2xPX29xdm1JMWFSdzMwcW85VGN0SDZXeldLUW1kWG5sLWlTaVpybmtjbVkwU2JmbW5UdG13VW5oZmVRSjE5dlhOMk9UVVM5UkF2cjJaaDZBQU84bE8yV0FCQUhHM01lUVk1MnI5R1QyUFMwNjduUk1jclVEMWFfd1dwNFA1ZFZ0bVUxNVFrNFpobW1aajNvOExKSHBPeW9Yd0JfUmE2U3NnZzhlMm1zNE93Z1phY0ZCcGVkUTZ1NEpKZGVpaEFNb2FPVHlWQm9PaC1jNUsyM0stWVN5cGJCZVdSZTZUcmRUZW40NlpqX2VwVGlyT3ZpbDN3Ty1RRU1sRVhlbVE3MmJFRUdiUURmaUU1Sk9MeWVqRlhZRDBjNE82NmprR0lVaHV2SE1WR0syM3cxUnlYU0dEV2IwYldvNnVjNFNLUGt1eW4wbTNnR0RtUkpCT1E?oc=5>
+- **特朗普** | 不可思议的举措：特朗普下令放弃电磁弹射，福特级将恢复蒸汽弹射 <https://news.google.com/rss/articles/CBMickFVX3lxTE1zWGNYLTh1VlBLWDdONDhrbWQwcHM3dlhEdUdfZG9lR3FPSllYZ0FoSGdIWlQweXNaYnQ1emhZT2IxSWVHeFI5NFc4bmU1cVY5enREUkN4cFpwb1VmVUN3U2NJdGxPbXFKWTU3NXRKb0Zodw?oc=5>
+- **特朗普** | 特朗普证实部署中东的“林肯”号航母将被替换 <https://news.google.com/rss/articles/CBMia0FVX3lxTE1CZzd6cjg5dkkycjBFOEJYMTZsMWlaODgxMGstLWc1OTJPVGlQdlJUOWhRMjkwVzg4YU5GZlRmVHNGaUFsSHJPN1N1bEVGSmxwck83YXFWTW5BU3NpVG5aRTRSVlRXdXdnNWRR?oc=5>
+- **特朗普** | 特朗普称将在经济上对伊朗实施严厉打击 <https://news.google.com/rss/articles/CBMiY0FVX3lxTE85Rl8zSHZSV3BaSEpNZ1FDR0pGYjROaWtycFhmSTd4Ulg3Mkk3R1oweDhlZ0lnRWxIZHVFRWtDbFY5OENuOEtnSkt3cHc2WlkyTHN3VVYzQTBHQ1NPSTJWekNnOA?oc=5>
+- **特朗普** | 特朗普说“很快宣布霍尔木兹海峡为美国领土”，伊朗回应 <https://news.google.com/rss/articles/CBMic0FVX3lxTE5DbnFnckxvbXpTZlB3aU0yMm1uSUcxTWd5REd2UTJyYnJuYm1WSzEyYzYyVTE3YkI1VzBma19ScXljdTIwNnNWemxFQld5MWhOcFNiWXlraFBFemVsYVJROWNaM3BJYlNfZXMyV2QxbVRNVkU?oc=5>
 
 ### 2026-08-15 07:06  (3 条)
 
