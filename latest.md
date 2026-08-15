@@ -1,22 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-15 14:15**
-- 本轮扫到 9678 条, 新增 **1** 条
+- 最近更新: **2026-08-15 14:45**
+- 本轮扫到 9680 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮新发现 (2 条)
 
-### 蔡徐坤官宣新加坡演唱会，称想与你见面
+### 习近平访美前 特朗普政府据报准备无序令中方不安 可交付成果进展甚微
 
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923704_m1d5ae17f803301wlt4.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-08-15 14:34
+- 链接: <https://news.google.com/rss/articles/CBMi1gNBVV95cUxNM1MxVjhDVDZiMlVaOTMyQldfcFlBcldHSXN2eEpZM0dBWXZkVWZMUmlURUVUNTA4aE5BSjJHdFZCc1JYRDFpRDFxam44MDRCMHVyajhzUkcyeFBaMWpPZzdNOWMyT2tGODFBSzB3bjBhRWIzWU5oVE9kZFdOc2ptX1JOVE43S1RHZGlfLTdISjVDX1VqWlJlaUFnR1p2Z2hZSThUeWxBUnQ2UjlKSjFTRE85LXJSZkhiWjJJNThkUDFZSGw1ZlFtYkJJVkpNNHVCelJTOEVTRzZWTk1feXhfSTlKS1QwOXhJcUhYdGxydHdvYk8xNE9NWURhMnpzdWNFenNHeWliOXRaYkZ4VzlOeUk2cHJEa2NseGpCSGltWnBPVUJaT1daeldlVmV4Wml1N3B5VnVJN1E3eXZXWWdtRzJFRS1DUDRNeDI2RDJGMkt5MndPa1ZDM1c4UG9CM2pNX0VjamstOVhBQWNHeHgwNEp1YnBtTnE2QTNwZzVOVHZkNmVzLWloYTJoWDk3YXdsYlBYMjlmQXRwRlNKTEdQTEJ0cURhRlhGXzhBWGFQRUZ5SU9jeDAzUXk2NEE0WTFqRUhoUEQ4blVJME41eDBuZ3dpazZ2QQ?oc=5>
+
+### 伊朗媒体以"胆小鬼"迷因,嘲讽特朗普秘密换机避袭
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 文学城
+- 时间: 2026-08-15 07:53
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GNWpqRkJJTzdfeVJNX3ZDNXhGZTlaYlZEM1duWW1SMXVpaTFtRTgxYlFTbnJhajRkUUppbFRCWHRPbmFUNGJzMkR0MmcxUy1PYy0wTUdHcEV4RVNKU0lIWU5ha3d3Mzl6?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-15 14:45  (2 条)
+
+- **特朗普** | 习近平访美前 特朗普政府据报准备无序令中方不安 可交付成果进展甚微 <https://news.google.com/rss/articles/CBMi1gNBVV95cUxNM1MxVjhDVDZiMlVaOTMyQldfcFlBcldHSXN2eEpZM0dBWXZkVWZMUmlURUVUNTA4aE5BSjJHdFZCc1JYRDFpRDFxam44MDRCMHVyajhzUkcyeFBaMWpPZzdNOWMyT2tGODFBSzB3bjBhRWIzWU5oVE9kZFdOc2ptX1JOVE43S1RHZGlfLTdISjVDX1VqWlJlaUFnR1p2Z2hZSThUeWxBUnQ2UjlKSjFTRE85LXJSZkhiWjJJNThkUDFZSGw1ZlFtYkJJVkpNNHVCelJTOEVTRzZWTk1feXhfSTlKS1QwOXhJcUhYdGxydHdvYk8xNE9NWURhMnpzdWNFenNHeWliOXRaYkZ4VzlOeUk2cHJEa2NseGpCSGltWnBPVUJaT1daeldlVmV4Wml1N3B5VnVJN1E3eXZXWWdtRzJFRS1DUDRNeDI2RDJGMkt5MndPa1ZDM1c4UG9CM2pNX0VjamstOVhBQWNHeHgwNEp1YnBtTnE2QTNwZzVOVHZkNmVzLWloYTJoWDk3YXdsYlBYMjlmQXRwRlNKTEdQTEJ0cURhRlhGXzhBWGFQRUZ5SU9jeDAzUXk2NEE0WTFqRUhoUEQ4blVJME41eDBuZ3dpazZ2QQ?oc=5>
+- **特朗普** | 伊朗媒体以"胆小鬼"迷因,嘲讽特朗普秘密换机避袭 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GNWpqRkJJTzdfeVJNX3ZDNXhGZTlaYlZEM1duWW1SMXVpaTFtRTgxYlFTbnJhajRkUUppbFRCWHRPbmFUNGJzMkR0MmcxUy1PYy0wTUdHcEV4RVNKU0lIWU5ha3d3Mzl6?oc=5>
 
 ### 2026-08-15 14:15  (1 条)
 
