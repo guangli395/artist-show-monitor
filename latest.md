@@ -1,56 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-15 07:50**
-- 本轮扫到 9655 条, 新增 **5** 条
+- 最近更新: **2026-08-15 08:20**
+- 本轮扫到 9659 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (4 条)
 
-### 美国监管机构批准特朗普家族加密银行的初步许可
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: idnfinancials.com
-- 时间: 2026-08-15 07:00
-- 链接: <https://news.google.com/rss/articles/CBMi3wJBVV95cUxQR1haZjdzYTZJX2xPX29xdm1JMWFSdzMwcW85VGN0SDZXeldLUW1kWG5sLWlTaVpybmtjbVkwU2JmbW5UdG13VW5oZmVRSjE5dlhOMk9UVVM5UkF2cjJaaDZBQU84bE8yV0FCQUhHM01lUVk1MnI5R1QyUFMwNjduUk1jclVEMWFfd1dwNFA1ZFZ0bVUxNVFrNFpobW1aajNvOExKSHBPeW9Yd0JfUmE2U3NnZzhlMm1zNE93Z1phY0ZCcGVkUTZ1NEpKZGVpaEFNb2FPVHlWQm9PaC1jNUsyM0stWVN5cGJCZVdSZTZUcmRUZW40NlpqX2VwVGlyT3ZpbDN3Ty1RRU1sRVhlbVE3MmJFRUdiUURmaUU1Sk9MeWVqRlhZRDBjNE82NmprR0lVaHV2SE1WR0syM3cxUnlYU0dEV2IwYldvNnVjNFNLUGt1eW4wbTNnR0RtUkpCT1E?oc=5>
-
-### 不可思议的举措：特朗普下令放弃电磁弹射，福特级将恢复蒸汽弹射
+### 特朗普：福特级的电磁弹射不行，换回蒸汽弹射
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-08-15 07:46
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE1zWGNYLTh1VlBLWDdONDhrbWQwcHM3dlhEdUdfZG9lR3FPSllYZ0FoSGdIWlQweXNaYnQ1emhZT2IxSWVHeFI5NFc4bmU1cVY5enREUkN4cFpwb1VmVUN3U2NJdGxPbXFKWTU3NXRKb0Zodw?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-08-14 05:18
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9fYnB2UDFUQk04aTNJSXlaRHdaZm9tbTRvd3hubVZPRkNEMjlQUGhYNXdIODg3dEgzNzJOTmRlWU9YOHZkcFphN3NtaXRvNXRmZzR0YlhBRWg3UDE2V05xTVcxbm8ybDRpSDRNVDdJMnBkM2lzT0Zha3RNSjQxclE?oc=5>
+
+### 特朗普政府据悉调整古巴策略 淡化军事选项转向经济施压
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-15 07:11
+- 链接: <https://news.google.com/rss/articles/CBMiqgJBVV95cUxQU05Pejl1NnVMOElHNUt0aEhGdTdVYWRLc0R4d0V0TkxpeHMyRjBPbTVCNUV6ZzlZdTd2c2FxcDRSRlN6SFBrV2IxZHlZa054RTdjUm5EMTlmRXd2NVBWQ1lwZUNtQThPM3ZIbjExTTVOeno2ZUxsM3ZPV0J1c0E2MTJCVmZ0V2ZRaklTakJ3QkNKYnZRRUNGMHF6bk1OUEdmd2t5RjJ1RFVDT3JXVVk4N1pmOUtzYktpRGd5Y1NpaHdNWklrcVdSWTZSSmFWNFk0M2hBSXlhc0wzVHI4bVg4aDJhRTVaOGc1OVhNN2NWQkFEa1hsNlZLS0pkU3RTRHdfM3NEWTJaN050TFA2VTJnSnpZQ0F3cU44ZW5DNFN0REJEZmJUY2lRMVJn?oc=5>
 
 ### 特朗普证实部署中东的“林肯”号航母将被替换
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华报业网
-- 时间: 2026-08-15 00:16
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE1CZzd6cjg5dkkycjBFOEJYMTZsMWlaODgxMGstLWc1OTJPVGlQdlJUOWhRMjkwVzg4YU5GZlRmVHNGaUFsSHJPN1N1bEVGSmxwck83YXFWTW5BU3NpVG5aRTRSVlRXdXdnNWRR?oc=5>
+- 场馆: xinhuanet.com
+- 时间: 2026-08-15 00:04
+- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE5SdGVIczQ4NEp4UWljMHJ1cGVzSDNiVmp1OUVNdUw3ZVVPaDh6aXo4RmtidXZOM0kzQlhySW5xM2doLTNNWDdVWmEzd3ZXN1J1MkRxekFWR0xEUWx5a2QtUzkxb1lUNHJjU1cya0hLem1yaUhscHB0SlJUcnY5Zw?oc=5>
 
-### 特朗普称将在经济上对伊朗实施严厉打击
+### Drone Stocks Jump After Trump Targets Imports With Tariffs -- WSJ
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: intl.ce.cn
-- 时间: 2026-08-14 23:56
-- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTE85Rl8zSHZSV3BaSEpNZ1FDR0pGYjROaWtycFhmSTd4Ulg3Mkk3R1oweDhlZ0lnRWxIZHVFRWtDbFY5OENuOEtnSkt3cHc2WlkyTHN3VVYzQTBHQ1NPSTJWekNnOA?oc=5>
-
-### 特朗普说“很快宣布霍尔木兹海峡为美国领土”，伊朗回应
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪军事
-- 时间: 2026-08-15 04:54
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5DbnFnckxvbXpTZlB3aU0yMm1uSUcxTWd5REd2UTJyYnJuYm1WSzEyYzYyVTE3YkI1VzBma19ScXljdTIwNnNWemxFQld5MWhOcFNiWXlraFBFemVsYVJROWNaM3BJYlNfZXMyV2QxbVRNVkU?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-08-14 12:30
+- 链接: <https://news.google.com/rss/articles/CBMirgFBVV95cUxNZXQyUlAyUWdTczVOWHZLeFBwY0RjOUZzMDVmaHRadDM1SlVwenl0R29lMXYtZzdfNXFnRjBYRE02UmxxcGZ0cjBBNUxEcWJNT3JnTWRsTmM1LXB6SEJMRjhTQTZSaDhwbW9uZ0xCaFd6NFhDSXRHeDZoNklKakFRWVBqRTdUeHo5N0ZuMThwWDFIaWQyTlVjRWRUY1VmRWIzS056T1huWF9HWGZYaGc?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-15 08:20  (4 条)
+
+- **特朗普** | 特朗普：福特级的电磁弹射不行，换回蒸汽弹射 <https://news.google.com/rss/articles/CBMif0FVX3lxTE9fYnB2UDFUQk04aTNJSXlaRHdaZm9tbTRvd3hubVZPRkNEMjlQUGhYNXdIODg3dEgzNzJOTmRlWU9YOHZkcFphN3NtaXRvNXRmZzR0YlhBRWg3UDE2V05xTVcxbm8ybDRpSDRNVDdJMnBkM2lzT0Zha3RNSjQxclE?oc=5>
+- **特朗普** | 特朗普政府据悉调整古巴策略 淡化军事选项转向经济施压 <https://news.google.com/rss/articles/CBMiqgJBVV95cUxQU05Pejl1NnVMOElHNUt0aEhGdTdVYWRLc0R4d0V0TkxpeHMyRjBPbTVCNUV6ZzlZdTd2c2FxcDRSRlN6SFBrV2IxZHlZa054RTdjUm5EMTlmRXd2NVBWQ1lwZUNtQThPM3ZIbjExTTVOeno2ZUxsM3ZPV0J1c0E2MTJCVmZ0V2ZRaklTakJ3QkNKYnZRRUNGMHF6bk1OUEdmd2t5RjJ1RFVDT3JXVVk4N1pmOUtzYktpRGd5Y1NpaHdNWklrcVdSWTZSSmFWNFk0M2hBSXlhc0wzVHI4bVg4aDJhRTVaOGc1OVhNN2NWQkFEa1hsNlZLS0pkU3RTRHdfM3NEWTJaN050TFA2VTJnSnpZQ0F3cU44ZW5DNFN0REJEZmJUY2lRMVJn?oc=5>
+- **特朗普** | 特朗普证实部署中东的“林肯”号航母将被替换 <https://news.google.com/rss/articles/CBMifkFVX3lxTE5SdGVIczQ4NEp4UWljMHJ1cGVzSDNiVmp1OUVNdUw3ZVVPaDh6aXo4RmtidXZOM0kzQlhySW5xM2doLTNNWDdVWmEzd3ZXN1J1MkRxekFWR0xEUWx5a2QtUzkxb1lUNHJjU1cya0hLem1yaUhscHB0SlJUcnY5Zw?oc=5>
+- **Trump** | Drone Stocks Jump After Trump Targets Imports With Tariffs -- WSJ <https://news.google.com/rss/articles/CBMirgFBVV95cUxNZXQyUlAyUWdTczVOWHZLeFBwY0RjOUZzMDVmaHRadDM1SlVwenl0R29lMXYtZzdfNXFnRjBYRE02UmxxcGZ0cjBBNUxEcWJNT3JnTWRsTmM1LXB6SEJMRjhTQTZSaDhwbW9uZ0xCaFd6NFhDSXRHeDZoNklKakFRWVBqRTdUeHo5N0ZuMThwWDFIaWQyTlVjRWRUY1VmRWIzS056T1huWF9HWGZYaGc?oc=5>
 
 ### 2026-08-15 07:50  (5 条)
 
