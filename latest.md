@@ -1,14 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-15 22:13**
-- 本轮扫到 9697 条, 新增 **0** 条
+- 最近更新: **2026-08-15 22:45**
+- 本轮扫到 9699 条, 新增 **2** 条
 
 ---
 
-## 本轮无新增
+## 本轮新发现 (2 条)
 
-数据库里所有演出/动态都已见过,暂无新增。
+### 特朗普：“很快会宣布霍尔木兹海峡为美国领土”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-15 20:08
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5ETGZER0kwSlBPZW1UMjJWejRSZ19fMGdILURoSkZwYjdLcFVtSzA5S0NoWnhIeXRjcFIyd09fbC1tN2phZUstUkpOeDFxUzJiSzJ3dlM0cGp4SHhJaE82S1RTOXRZalhRakJUeGRCaEtJVGN0cHA5OA?oc=5>
+
+### Trump Family's World Liberty Financial Gets Preliminary Approval to Launch a Bank -- Update
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-08-15 21:12
+- 链接: <https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdERZUHBOUEtKVmh5V2M3cnR0cnNJR2RxUndlRFZWOG1NZ3cxX1BpTkVPU2FHdEZMdi1VUG1WQWJ6VmZ3UHRScERoM05IOXpQOGhVSEFKUVBYVncxRi1QZHc3T2wwcmh3UjFLWFgzb09nOHE0NU5ZZ0R2cWJmeFlBQWxEcVZPMkxvRHJoeURDOGU3cmdYa05FVHZQZXNDNEdpbFgzU3dBcHNSZ3lzNGZhMHJrLXA1WEQzZVhlZFJDQWs5Sm5oUUxoR2RBM2Y3b1hqbnBlSnI4QUJ3VXVsQlpFRTZPcw?oc=5>
+
+
+---
+
 ## 历史发现
+
+### 2026-08-15 22:45  (2 条)
+
+- **特朗普** | 特朗普：“很快会宣布霍尔木兹海峡为美国领土” <https://news.google.com/rss/articles/CBMieEFVX3lxTE5ETGZER0kwSlBPZW1UMjJWejRSZ19fMGdILURoSkZwYjdLcFVtSzA5S0NoWnhIeXRjcFIyd09fbC1tN2phZUstUkpOeDFxUzJiSzJ3dlM0cGp4SHhJaE82S1RTOXRZalhRakJUeGRCaEtJVGN0cHA5OA?oc=5>
+- **Trump** | Trump Family's World Liberty Financial Gets Preliminary Approval to Launch a Bank -- Update <https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdERZUHBOUEtKVmh5V2M3cnR0cnNJR2RxUndlRFZWOG1NZ3cxX1BpTkVPU2FHdEZMdi1VUG1WQWJ6VmZ3UHRScERoM05IOXpQOGhVSEFKUVBYVncxRi1QZHc3T2wwcmh3UjFLWFgzb09nOHE0NU5ZZ0R2cWJmeFlBQWxEcVZPMkxvRHJoeURDOGU3cmdYa05FVHZQZXNDNEdpbFgzU3dBcHNSZ3lzNGZhMHJrLXA1WEQzZVhlZFJDQWs5Sm5oUUxoR2RBM2Y3b1hqbnBlSnI4QUJ3VXVsQlpFRTZPcw?oc=5>
 
 ### 2026-08-15 21:42  (2 条)
 
