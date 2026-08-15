@@ -1,37 +1,13 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-15 18:18**
-- 本轮扫到 9691 条, 新增 **3** 条
+- 最近更新: **2026-08-15 18:54**
+- 本轮扫到 9691 条, 新增 **0** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮无新增
 
-### 顶着这张脸蹦迪！谁能顶得住！ 如果是这么个返场，我同意
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924002_m1d5ae192203301id6k.html>
-
-### 报道：Coinbase、a16z和Kalshi高管将出席白宫会议 特朗普也将与会
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-15 18:14
-- 链接: <https://news.google.com/rss/articles/CBMixwJBVV95cUxNXzVmblpMdU1qTzhiY2szZTJ0SmRIeUFfY3Fib0ItVDNTWjBnMVYyYmxmYTg2M2hVWGYzQTRVZWFlaGxMVVVIMkFwM21VYkRIaFIwdmtHaXh0WlBMUURTMWFmQkRUVW1JakFWeG9EM0ZTRU9fT0pZXzdGVTNsSFh4WjZndzBON3dtRmNlaDlZSWx6TzhyaWFYRmFrQ0hkZ0dPRU5UZ3k0RURNdkttLVRWUV9Vck5ibzFZMld0Qmh1dUtaT0V2bmVoclJRY1UtZWZodTRBd0hrc1Nic250dk1FaUFTYW14NzExdjhMLWt4MV9MV2NzMERBT0lrb0E3WHpUX091NUlGZUhtam1HUkZNa1c3TjRocjVsOEdPZEpkNEZXVjhmSVFnYVVaeU1xdmoyR2E2TVlfcHVnc245Z3pBeUc2VHZtX2c?oc=5>
-
-### 从决裂到重聚：特朗普如何因九位数承诺 将马斯克重新拉回身边
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-08-15 14:03
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE9uMGxiN3lqUjRqUV9jcFE4Y2tOYzM2UVpZZEFFb3J6VFQwSkltaDFja3RFcE90bXl1Nk5qbGdzalF5cUxRWjBhYVJySVAwOXJ1RUhBTTMxNmcwcTF5R3BVT2pBT0NpRVZpVVNoODNTUWtoQQ?oc=5>
-
-
----
-
+数据库里所有演出/动态都已见过,暂无新增。
 ## 历史发现
 
 ### 2026-08-15 18:18  (3 条)
