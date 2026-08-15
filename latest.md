@@ -1,56 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-15 00:52**
-- 本轮扫到 9625 条, 新增 **5** 条
+- 最近更新: **2026-08-15 02:10**
+- 本轮扫到 9629 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (4 条)
 
-### 特朗普：远远不够长-观察者网
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-08-14 23:37
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFA5a0drWk1NV2VUVFF1MTFvd0c4cjV3bHhKSkFhZWIyTFpFUkFfMEpPRi1GMjVPdzZ6U3BaOEhkVU5CRTRwenllblhjdnRjZUFxYW5MVHZpTUcwMFJxUnNrQ19FR19iZE1CVWc?oc=5>
-
-### 美航母船员跳海风波发酵，特朗普首次回应
+### 法国世界报 - 特朗普宣布：美国航空母舰舰载机起飞将改回老式弹射器； 这对法国可能产生影响
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-14 23:18
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE96dk9jTkJvMmxKUGc1SHZVeXhmSkNycEF3TW9PdklodENSLW1DYkNOYmJHdm9hc0F2bGxsNGtSVDVZdFBPazdLbW9LX2g?oc=5>
+- 场馆: RFI
+- 时间: 2026-08-15 01:10
+- 链接: <https://news.google.com/rss/articles/CBMi3gRBVV95cUxOTVkyWlotd1pjbTlzZ2lwZmJNTml2SkhDRlMyMm02ZVNfM2RKQWJUY3E4aTlMREVIVDNZMkJSSnBucWVzaHFUVFN5eURhSGxTS2ZwakMxbXQ5eldGZmt2aGJRc1BINTBXM1dTc1hxZlhHb2ZXdnVZVW11eS0tRTJaRVZHRU9lVjlxMDBOb0lHUDNtS1B6UmdtejlOTXhKdTQ2eW9lZEVMZFhIUjBsdDhfOFRYSjIza2tPUUNXaFBOWW9jNDRCQ0kzY2RaMmRRRzJWRjloSkU2ZHJIQTF0N2RNdUNOa1pkamt6QmFSNHJwRHRkUzNtckFhZU9RVjhlTngwTS1oZ3MzbVFDZnRSYWNDYjVlcGxVdTFTLUZ0OS1iNE5hYW5zVHVNQ1RqUi1IeTVFLThId1ktcURJUXdPSW1pSFNlTkV0b2pVS0t4bUx2UFZQZUtFX3BMUjY2dWI2RmVBbURXWllGN3lXYlp3YUVZX283UTlCa1pnTDc0SUo3OV9QME01OXJNY2x6OUY1bHNjY2pvamxPUHU1dEY3TkNDcE01MW5jUEVkak82OFlDdkVVZVJSZ3dYN1VWV0Z5NE5ZVnctTE9IbHItOTZPU3pJSGphM1NxVWVaTmxpTzA0ZXRzdnNXX3J1UnVkN1lhMkxicmFZRjRUU1Z4eXdwSTBnT3pjNmttNThpajYwZFVQUlJSU2xiVDdxR3dVa0RkQTNPRDc1d0M3RWk2RDJDYVRac241ZjlNOUQzbDBZNVdYcDZBQWgzTElXT0JVeGZOMkJ6ckJNUUFyRmZYLTY2VWc?oc=5>
 
-### 特朗普总统：“林肯”号航母将被替换；此前有报道称该航母上状况恶劣
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-08-14 21:50
-- 链接: <https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbGc4SWZHRGJzUVB6VUxZTnRkQ3h6bDNxc0J0ZzNNWU4ybWlITzFfRU1LRGZDSWt0eDAwTG8wdXVDdm01V011cl8zVVA1S1YzZzhpYjkxckVWM0NqWlgzYWFIbmdOX0RKYm9razBYVUo4MEhNMTRwTnFfS1dPclN1bW0zWjI1WTZ4TXBlc1BFNnF5UFptbGtMdnlDQXR6a0FJVS1ZaGR3Sm52RjVrOFFFeTdWV3U3ZGlTU2tXdFZmVWdWNnRjbm9sNVFuTnpBLW12VEduMXJuU09rRFNDSkVDZ250Z0tKV1JmNGhPRnJ3TnHSAfMBQVVfeXFMT0FyVHMyd1Y0eDVDUFpBZ2pLZ0xjNVFmMzNqdGstbzRlODBUbDA1dVZMZTYtSGpjSUs5emNpR0VCSTl2RkloYU9FSU5CbkVSdzM3SmlpV1VPZW0tX3dPRHJWQmptalUwSXp6T1pKN1V1SG1oZXNzU0ozLUF5dDdCbkREVU5DTDBSdE5XYy00a01SbEYxUFBPVkluRmtfOWhKb0R6UjB2aFYybXdvTEY3UG04dWU2cFl6ODBtRFVjRVlvS1V3aFlLZEVYOVFHZmZtZVBhNS0yWDl6WDJiRVVoUU9rSzU1bWJhTHlISnlKTXZScWpZ?oc=5>
-
-### 特朗普盟友奈杰尔・法拉奇补选获胜，重返英国议会
+### 知情者：肯尼迪董事会决定将特朗普姓名刻在中心外墙
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-15 00:33
-- 链接: <https://news.google.com/rss/articles/CBMijwJBVV95cUxPekl1QWRoS2FIUmVocHdvZXVNY0RIS0t5c2UxN1RQdHhRZV9ZdnFtYXI0eE1hbjFXNW1Ra2k2MU1pUUpkUGMwVnI5aU9fcm9DWDZ2Z0pNeXF2NlRObWc2XzAyYjQ4NkFSY09QS0JUXzJOSWdEa2xzLTh2amVoVjVOWEtLRnB3el9GUEJXSXVpWE1jM0RTUm5VVW9sNF81LXRhYmlNeEpEc3RqdGxVS21LMkJrV3ROQ2dNWjJYQnZNSkZWOV9JMU5CLXdLUHpwbElaZEhsaWhJYzFVOVZiTnE1WW0taFdYLTNsMzh1QmxaYlhOc1RobWx0ZkNuOUFQcnpqeVEzeHN4ekVoSGgtMktB?oc=5>
+- 场馆: 联合早报
+- 时间: 2026-08-14 05:54
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5OenhkdjVoRXhfYnZUZnpKS1l4QzdNZ0Q0NEZlZUw4RkpiYm1UeVZXNGxQcUNBUjBSZUs2dzdDZkFxSGNwcTZUYzNyNDktX0J1dVpZWXd1djRsOVBGa3Btc19pVkkxUQ?oc=5>
 
-### 消息人士称，特朗普预计将出席白宫与加密货币首席执行官的会面
+### 拉黑、揭底、断供威胁：特朗普与马斯克交恶一年的幕后真实博弈曝光
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: QQ News
+- 时间: 2026-08-14 05:50
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9xaThnS1RYZ3BpUDV4eFNLOGV6UERJVGJQQi1PU3dBeG9nenRIeUx4WHNCN21WMGdaUDVXaXU5MGp6QXpwZTNUci0wY0k2WE9QMThmdTJ5emlMY2Z3cERKaWdEYklxd3Y1eE5janliZFJiNjV4NnZEZg?oc=5>
+
+### 特朗普淡化外界对“林肯”号航母生活条件的担忧
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: CoinDesk
-- 时间: 2026-08-14 23:41
-- 链接: <https://news.google.com/rss/articles/CBMiuwFBVV95cUxPV21iaFcxbWxCMEdoVi1pZnBkd2gxcS1GV1BWUGRJVDREbm9WZFZiTEg1NlI3ZnBkaUJwaDZ5eHd1WVBucHhwVmJTbTRwWlhaY3l1TEVjSkNIWkRUc2Z6WUdPcVltMnpxajhmY2o5N3NWcF84ZVh3SlVwTWlweGJJNW1Yc2xWQ1V5OVVnMjd1dlpENFhGTHVHN3AtOGd0SDlJa25QT05UQ2tsdWNFRlR0SlI3R1ZkNHJhazZN?oc=5>
+- 场馆: 华尔街日报中文网
+- 时间: 2026-08-15 00:51
+- 链接: <https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY25xbWszczR6UmZoWkQ5dHAtS1NLdERXUmxJOU5RMGYtNUFBbUFCY2xDOXhQcVVXd0JiU2tuSjM4SkZ4TWwwUGVWZ2xpMWlKWVhZc3BIdnBIT1VIV3JoS2lVbnhqeGVhZXJUSnlqZzJaYThpbVI5WGVlaHRGMmxpal9NeWVfS0NzaHdVOUFDMkhvV2U2ZXVQOE9RNDFvSjR1Q3BFY0VmN20?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-15 02:10  (4 条)
+
+- **特朗普** | 法国世界报 - 特朗普宣布：美国航空母舰舰载机起飞将改回老式弹射器； 这对法国可能产生影响 <https://news.google.com/rss/articles/CBMi3gRBVV95cUxOTVkyWlotd1pjbTlzZ2lwZmJNTml2SkhDRlMyMm02ZVNfM2RKQWJUY3E4aTlMREVIVDNZMkJSSnBucWVzaHFUVFN5eURhSGxTS2ZwakMxbXQ5eldGZmt2aGJRc1BINTBXM1dTc1hxZlhHb2ZXdnVZVW11eS0tRTJaRVZHRU9lVjlxMDBOb0lHUDNtS1B6UmdtejlOTXhKdTQ2eW9lZEVMZFhIUjBsdDhfOFRYSjIza2tPUUNXaFBOWW9jNDRCQ0kzY2RaMmRRRzJWRjloSkU2ZHJIQTF0N2RNdUNOa1pkamt6QmFSNHJwRHRkUzNtckFhZU9RVjhlTngwTS1oZ3MzbVFDZnRSYWNDYjVlcGxVdTFTLUZ0OS1iNE5hYW5zVHVNQ1RqUi1IeTVFLThId1ktcURJUXdPSW1pSFNlTkV0b2pVS0t4bUx2UFZQZUtFX3BMUjY2dWI2RmVBbURXWllGN3lXYlp3YUVZX283UTlCa1pnTDc0SUo3OV9QME01OXJNY2x6OUY1bHNjY2pvamxPUHU1dEY3TkNDcE01MW5jUEVkak82OFlDdkVVZVJSZ3dYN1VWV0Z5NE5ZVnctTE9IbHItOTZPU3pJSGphM1NxVWVaTmxpTzA0ZXRzdnNXX3J1UnVkN1lhMkxicmFZRjRUU1Z4eXdwSTBnT3pjNmttNThpajYwZFVQUlJSU2xiVDdxR3dVa0RkQTNPRDc1d0M3RWk2RDJDYVRac241ZjlNOUQzbDBZNVdYcDZBQWgzTElXT0JVeGZOMkJ6ckJNUUFyRmZYLTY2VWc?oc=5>
+- **特朗普** | 知情者：肯尼迪董事会决定将特朗普姓名刻在中心外墙 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5OenhkdjVoRXhfYnZUZnpKS1l4QzdNZ0Q0NEZlZUw4RkpiYm1UeVZXNGxQcUNBUjBSZUs2dzdDZkFxSGNwcTZUYzNyNDktX0J1dVpZWXd1djRsOVBGa3Btc19pVkkxUQ?oc=5>
+- **特朗普** | 拉黑、揭底、断供威胁：特朗普与马斯克交恶一年的幕后真实博弈曝光 <https://news.google.com/rss/articles/CBMieEFVX3lxTE9xaThnS1RYZ3BpUDV4eFNLOGV6UERJVGJQQi1PU3dBeG9nenRIeUx4WHNCN21WMGdaUDVXaXU5MGp6QXpwZTNUci0wY0k2WE9QMThmdTJ5emlMY2Z3cERKaWdEYklxd3Y1eE5janliZFJiNjV4NnZEZg?oc=5>
+- **Trump** | 特朗普淡化外界对“林肯”号航母生活条件的担忧 <https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY25xbWszczR6UmZoWkQ5dHAtS1NLdERXUmxJOU5RMGYtNUFBbUFCY2xDOXhQcVVXd0JiU2tuSjM4SkZ4TWwwUGVWZ2xpMWlKWVhZc3BIdnBIT1VIV3JoS2lVbnhqeGVhZXJUSnlqZzJaYThpbVI5WGVlaHRGMmxpal9NeWVfS0NzaHdVOUFDMkhvV2U2ZXVQOE9RNDFvSjR1Q3BFY0VmN20?oc=5>
 
 ### 2026-08-15 00:52  (5 条)
 
