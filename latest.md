@@ -1,30 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-15 06:26**
-- 本轮扫到 9647 条, 新增 **2** 条
+- 最近更新: **2026-08-15 07:06**
+- 本轮扫到 9650 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (3 条)
 
-### 周杰伦青岛演唱会门票秒没
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1931238691_m731c5d2303302gv4y.html>
-
-### 伊朗回应特朗普：霍尔木兹海峡开放与关闭由伊朗掌控
+### 特朗普爆粗口：“没有比这更大的侮辱”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-08-15 05:58
-- 链接: <https://news.google.com/rss/articles/CBMiiAJBVV95cUxOX2VEa29ISFZDLXJhaGRRejlHX0g0a0xsNjh0eDYwdDhVTEhubWtNdjFMNjVweUVrTDZfQjJqMnRveDBJZ0t6eVJ0X2w4NkVoRmdlRE80V1NFS3VwYnRDZnlaNGNxS0Y0Rksxa3JXSFdhWExwZ2tLQ0ZOWThYazZkeEFYMFJoZlZpc2VGT0ZNOUUzUzNoSGZHVnpCTGFIM3dOdGVTUy1kemdhOUQzVThCM0xuYTJPZ2Z6NnBSMlZhbkoycHg5YXNpVzhqaEJWX2lxenNmc2t4alBYZ2V4QVZpVVdUV0x3YmNCMFdvOS1vaDhuQ1FwY1EwUXBZQnBqdXdObUQ2Z0EyQnk?oc=5>
+- 时间: 2026-08-15 07:02
+- 链接: <https://news.google.com/rss/articles/CBMiggJBVV95cUxPMy1iV1Fud2lXOThaSGxHeEF1SUVoeFBmcENEeW5VbWFiZzdmcmFPNl9NSE9ybTRDOGZtSzVZczZ3NGFycVlqWDMxZHZpTXVYN1ZiVVhKNjMxZXB0RUJ0WnlIT3VvS08zY2ptOWNCTzEzYnA0WlVYcU8ya3BpX0FoeURJV3RNVlBpbGZ2aEdBSVlGYnA5TlRuajQ4bmFfUGc0Ty1VcV9JZDd4QUExS0Iwd1VZOE1aWGw5Y2JWc29OYk1oWExUTmZvNDdWUV9KTFBoQU52S3JHeEVlY3BlWFBHZDJTM1VFbExMN2t5WXJJSEtVYUxMSHJqU0NlQ0hQd2RiaXc?oc=5>
+
+### 特朗普下令新航母弃用电磁弹射，换回蒸汽弹射
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-08-15 06:48
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBMVkYzaXJJQ3ZlV0U3dWZTR3J3eFdrS2UwallhdmFGS2xtMmdueWlQOTI4VjVLRi1fWE4yQ2dyLXlmQTYyVlVva051b0pUWWhoZTFkM3h2cGcxeHJUbWlXbTY0RE0tY0kzYUJjMGdKa1o?oc=5>
+
+### 法国世界报 - 特朗普宣布：美国航空母舰舰载机起飞将改回老式弹射器； 这对法国可能产生影响
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-08-15 01:10
+- 链接: <https://news.google.com/rss/articles/CBMizwRBVV95cUxOcEVubHYwcVBrREJXTldFTC1abzlQX0pWYWROR09rZk1CYzNMamNYZ196M0paRUx5SDhyTE9jdm9FX2czVVpDcHZXYi1XSC1UZ2xFNnpWcmg3N1BzS1g0VTAwdVZvSUcxMll6T0VSMWRkVXNXdGhzc1ZfU0pFVU1taHJpVkg0WTJrbVQzZVJaYld1ME5ENE1hUXdCSUlUVGl2bDdycHhCcW9yV1pibWlUNS1adzkwdjd6dHBBakw1YXA5c1NuYVctUnJjUGtaSGZYRmdYdEZTaVlpdmNTRl9UMEhXQXJhVllWSUl4MGpXOVJuTjNlWUhQdWdWczZoZDQtWXluRGVUalpHNDljQ05HeV9XcG0yZWhOZ2l2NEdKQUNkRGpscXh4SUl1WTZ5NlpwRDRUbzRWSXN6TTd3bDZqUF9SX3hWamFPa29SM1ItRmVfYVpOdUZMY0xFcjdWVnBuWUxhVm5qaHNLM1dWRW1RdE0wS0pwb2RpMk81RnRhaW8tNzFiS0IxbTlpWTBtaG04eFBQTl9PNGxwd3Jkdm5LaTljdWZxaWJhX0tvNmF3VmVXc1pzVEVSMVVqOEE1b0kya0VkTDFyYVljVVhWMV9Mb2poX1FON0JzWTloQ2RtNldPUTROM2NiTWJYZkMwOVpjQnJhNlh2b09GQkNzTGpuUVZUQVhBdHQySG5IRWVMc09pQ1gwLUZVZXE0cWZ2QktWdmV2ZTUzclZIU0hzY1oybEU3MGEyTHQ3U3hzUnB6bDBPRWROMlRhVDg4YjZ2bGs?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-15 07:06  (3 条)
+
+- **特朗普** | 特朗普爆粗口：“没有比这更大的侮辱” <https://news.google.com/rss/articles/CBMiggJBVV95cUxPMy1iV1Fud2lXOThaSGxHeEF1SUVoeFBmcENEeW5VbWFiZzdmcmFPNl9NSE9ybTRDOGZtSzVZczZ3NGFycVlqWDMxZHZpTXVYN1ZiVVhKNjMxZXB0RUJ0WnlIT3VvS08zY2ptOWNCTzEzYnA0WlVYcU8ya3BpX0FoeURJV3RNVlBpbGZ2aEdBSVlGYnA5TlRuajQ4bmFfUGc0Ty1VcV9JZDd4QUExS0Iwd1VZOE1aWGw5Y2JWc29OYk1oWExUTmZvNDdWUV9KTFBoQU52S3JHeEVlY3BlWFBHZDJTM1VFbExMN2t5WXJJSEtVYUxMSHJqU0NlQ0hQd2RiaXc?oc=5>
+- **特朗普** | 特朗普下令新航母弃用电磁弹射，换回蒸汽弹射 <https://news.google.com/rss/articles/CBMicEFVX3lxTFBMVkYzaXJJQ3ZlV0U3dWZTR3J3eFdrS2UwallhdmFGS2xtMmdueWlQOTI4VjVLRi1fWE4yQ2dyLXlmQTYyVlVva051b0pUWWhoZTFkM3h2cGcxeHJUbWlXbTY0RE0tY0kzYUJjMGdKa1o?oc=5>
+- **特朗普** | 法国世界报 - 特朗普宣布：美国航空母舰舰载机起飞将改回老式弹射器； 这对法国可能产生影响 <https://news.google.com/rss/articles/CBMizwRBVV95cUxOcEVubHYwcVBrREJXTldFTC1abzlQX0pWYWROR09rZk1CYzNMamNYZ196M0paRUx5SDhyTE9jdm9FX2czVVpDcHZXYi1XSC1UZ2xFNnpWcmg3N1BzS1g0VTAwdVZvSUcxMll6T0VSMWRkVXNXdGhzc1ZfU0pFVU1taHJpVkg0WTJrbVQzZVJaYld1ME5ENE1hUXdCSUlUVGl2bDdycHhCcW9yV1pibWlUNS1adzkwdjd6dHBBakw1YXA5c1NuYVctUnJjUGtaSGZYRmdYdEZTaVlpdmNTRl9UMEhXQXJhVllWSUl4MGpXOVJuTjNlWUhQdWdWczZoZDQtWXluRGVUalpHNDljQ05HeV9XcG0yZWhOZ2l2NEdKQUNkRGpscXh4SUl1WTZ5NlpwRDRUbzRWSXN6TTd3bDZqUF9SX3hWamFPa29SM1ItRmVfYVpOdUZMY0xFcjdWVnBuWUxhVm5qaHNLM1dWRW1RdE0wS0pwb2RpMk81RnRhaW8tNzFiS0IxbTlpWTBtaG04eFBQTl9PNGxwd3Jkdm5LaTljdWZxaWJhX0tvNmF3VmVXc1pzVEVSMVVqOEE1b0kya0VkTDFyYVljVVhWMV9Mb2poX1FON0JzWTloQ2RtNldPUTROM2NiTWJYZkMwOVpjQnJhNlh2b09GQkNzTGpuUVZUQVhBdHQySG5IRWVMc09pQ1gwLUZVZXE0cWZ2QktWdmV2ZTUzclZIU0hzY1oybEU3MGEyTHQ3U3hzUnB6bDBPRWROMlRhVDg4YjZ2bGs?oc=5>
 
 ### 2026-08-15 06:26  (2 条)
 
