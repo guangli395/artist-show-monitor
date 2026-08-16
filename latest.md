@@ -1,31 +1,13 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-16 11:14**
-- 本轮扫到 9754 条, 新增 **2** 条
+- 最近更新: **2026-08-16 11:42**
+- 本轮扫到 9754 条, 新增 **0** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮无新增
 
-### 新华社：特朗普称将宣布霍尔木兹海峡为美领土
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-08-16 08:15
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5xVUJiT0NXb3NjZGI0NVIwVXdVQzcxQ3FXQVhRUTlCWU1vM1JmM1Q0aXlMSS1Pb0V4TDlmYXdfUXZsU3JZS3FTLXYxQmpIQmNHSlRJUXhoZjlMcVVoWVFpWTIzRVBNM0Y0NFpadkpFYzA?oc=5>
-
-### 特朗普发AI视频带华盛顿游白宫
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-08-16 11:12
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1xSTBwR2p3XzhKeW9rWXhVbUFSMmdzRFhHSUJIRDJsNngtT0VzbWpCWUFGQUZNNmFrUE9ncmtXM3VSVjJ5WVl2bmpraXE4dUlyRk1fY0FjQXNtV2Y5cXhfd1pkUnRCTmJ1Q0J3SkV2R0dzejRxSDRGRnpRU1FzZm8?oc=5>
-
-
----
-
+数据库里所有演出/动态都已见过,暂无新增。
 ## 历史发现
 
 ### 2026-08-16 11:14  (2 条)
