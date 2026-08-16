@@ -1,24 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-16 15:14**
-- 本轮扫到 9766 条, 新增 **1** 条
+- 最近更新: **2026-08-16 15:43**
+- 本轮扫到 9768 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮新发现 (2 条)
 
-### 特朗普发AI视频带华盛顿游白宫
+### 特朗普再促参议院通过全年采用夏令时法案
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-08-16 14:46
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9JcEZSeF9kUkloQ3hWTnpxOWQyXzdpOWlYbXRJZEpLTU1BREI4QjJ4eDdLVDdLUU96QTZMWm5aNTZMbnpzY0RhMDI3QnpNXzBIV1ptV2ZKeUliMUFVXzJTeFN3bGQ4bzNrT3FoYWNBN1M4TWF3amhPdk53R0ItX0U?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-16 15:27
+- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxOeHhxdmIyVGkwc0s5Nk9LNlJHUVIyeE1uR09UZ2sxNFZxcmFqVzNfWjBNZzdKUDlMRGVUTmlseklIVE1mLXVhMzVRempHbHBGYVdpX2xaVUNzVGlybFF5WTVWNkdVV1FIUWFCTUJpdmkyaXpkU01rUnJLSDhUbTNoZW5hSE5ubzVhOV9OdFA1V3dIWjBEaDF6dWNsa1R1MGlz?oc=5>
+
+### 特朗普发图
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 搜狐网
+- 时间: 2026-08-16 09:24
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX2d6UU1oZUs2ams3MTBNZVpRNk1EOXRQZXJtMnBXc09rZmRyclFvdGl5eFdra1h5YXg0QklDU0s2QmJJY2l4RzNrMEkteHVFMVUxaGJyZ3ZsYlBCby1Qd1pXYzlNeEVJd0doQmhuWUJQVWNaWmhkb3VDbUo0YVh2WjBRSTJ5OHZH?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-16 15:43  (2 条)
+
+- **特朗普** | 特朗普再促参议院通过全年采用夏令时法案 <https://news.google.com/rss/articles/CBMioAFBVV95cUxOeHhxdmIyVGkwc0s5Nk9LNlJHUVIyeE1uR09UZ2sxNFZxcmFqVzNfWjBNZzdKUDlMRGVUTmlseklIVE1mLXVhMzVRempHbHBGYVdpX2xaVUNzVGlybFF5WTVWNkdVV1FIUWFCTUJpdmkyaXpkU01rUnJLSDhUbTNoZW5hSE5ubzVhOV9OdFA1V3dIWjBEaDF6dWNsa1R1MGlz?oc=5>
+- **特朗普** | 特朗普发图 <https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX2d6UU1oZUs2ams3MTBNZVpRNk1EOXRQZXJtMnBXc09rZmRyclFvdGl5eFdra1h5YXg0QklDU0s2QmJJY2l4RzNrMEkteHVFMVUxaGJyZ3ZsYlBCby1Qd1pXYzlNeEVJd0doQmhuWUJQVWNaWmhkb3VDbUo0YVh2WjBRSTJ5OHZH?oc=5>
 
 ### 2026-08-16 15:14  (1 条)
 
