@@ -1,56 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-16 23:13**
-- 本轮扫到 9795 条, 新增 **5** 条
+- 最近更新: **2026-08-16 23:41**
+- 本轮扫到 9797 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (2 条)
 
-### 特朗普：“很快会宣布霍尔木兹海峡为美国领土”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-08-14 23:09
-- 链接: <https://news.google.com/rss/articles/CBMizgFBVV95cUxONkotYTlmRWhBTVM3UGZWWTRJUEJrTEUwdTlRbGRxWnNCMXJkVFh6dnd2alVQaHh4RzNFUDdSTnZ5VjNJVTRrRnRTNllaQ2F3VXlWVWdhZkFtZTRNQW5DWFFadGQ3WGtBY0ltOXVHeUstdVVrWXZZOHpKSFlSMC1LNGpzdFBraEJTNno1MmtmMUxWOWN1empVQ0UzZHpHT1gtZms1WmdoYUZvemF6aG5qSkVzb0I5MUpoYnAyRHVSUkdiclNDU1FwNkVIUDBhZw?oc=5>
-
-### “把霍尔木兹海峡变成美国领土”，特朗普自己都笑了
+### 特朗普总统命令大幅缩减美韩联合军演规模
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-08-15 10:39
-- 链接: <https://news.google.com/rss/articles/CBMixwFBVV95cUxOb0dVNFJzRjcwa1FjMGZadC00VF9vaXU2dzBscDNvLWdSMXBjcE5zT2oyRHdqSDVqejJWRGRZU2FqcmQzV1pQTVFyUEo1OC14R3Q3WlBRT0dJNDRJX0gzd0tTNXJlRTZiMHNmMnZxNXR0aE9scFg3aUNyaDNMb1hhRlVzazZQY1ZSeVU3U1NxQUpLblZYNDl1UTdNUWg3REZKVFp1ODdxcEdyNmd5YnZhckpjdkVGb0NkRzVBNE9kY2FTVHpiRFhF?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-08-16 23:02
+- 链接: <https://news.google.com/rss/articles/CBMi5AFBVV95cUxQV0kyR1JDaGptSFRhUFctSEZwNDhQbFpvdnRIWjlhUVByczlsSDlPWlFDU184NjRSY1FCMmVSQW9aVkpCdlB1VEVQX1VPdFlWV0duekRncnFLMkdScUdHa1ZjWkRpU1JtMzJBb3VmbDJ1MEVtbEQxdkc5b1hCbTZkRTNKc2tLbzBRU2xTcnpSa0I1OGdJRGsxbzN0OWFUWE02UWRpbHdqTFZSXzNpZ1N4enZER1NaUERhbXVocENwZkFiVFFzN2RlRnVKSEM3X2E5ZkZtbl9LNVRkOWFndHA4Y05wZ0HSAecBQVVfeXFMTUFjdGdTaVI5RWJ2Vnk0Z3lIZ0FPYU5KcmNhdVY4dlhmcTVLUDFxanY2c25XVUJCS0hqcnJ3dnV5QjctdnltYUF0WDRzWlJJOUFTVkc5WGRNX05YZnRpbzdYUGRyZmU5NWdSLTA4YWpDTGk4cjRWbjkxTDRjRkN4WGFXbHRLMkN3N05mMDE0NWEyZTR3NjRDV3k1U2tvelJHS1lVTzZMblFjT2JZSmtUaWZIOGxLOF8xQ3ZDNDlSNzRVU2JCZENTRzJOS0lDai0zbGhmM2hkcVl0blRvc2oyam91MWtGZV9B?oc=5>
 
-### 特朗普：“不满”美国早前同意参加与韩国的联合军演
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-08-16 22:49
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9BeDRNX3N0ZDJhN0RZTXR1ZkxxSktXekpqQ2lRR3ZrLXdZVVBxSXpmQmE1d01PbEViNDF0T0syN2x5Mmp4SzhWU1VUdHBiZmtjYUh4ZHlaUXlyanBIbU9kZ2lUQ1BqOWYyX2c?oc=5>
-
-### 特朗普：欢迎沙土巴三国签署共同防务协议
+### 特朗普欢迎沙土巴签共同防务协议
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-08-16 22:54
-- 链接: <https://news.google.com/rss/articles/CBMiiAJBVV95cUxON3VLMF9HZk9TcnM2TTVYMU9odDdLY1VuSlRwS3ZRUkZrd3ZrOVRnN2FTeFFPeTN4a2xmZENldkdiSDJkMkUtNDkyQlR3aldaVTV1bGJFVTF0NzFoUUg3S05WNlE3LXdmRW16OHZvclZHeGpSaDRUa2VXVko0RTU3ZFpDeUhsT0NCQUxxMl9ObV9BSnJ0VTcyOENyVVVDUnVaLVdFc3hLZ0JiLW1LLXFueFJvMHl0NEQwcGQ3VXRockxHbHl1UzNuazg2ZDNCVlREb2RkaFU5MU4tUHdzS3lJaldFMmJsb2M1UnU1Qmp6Mng5YXc0dlQ0ZEM4Xzd6bXNDeUNINU9NR2k?oc=5>
-
-### 大结局要来？美航母沦为难民营，特朗普低头换防，议员火力全开
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-08-16 20:30
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFB4V2pCVTl0MFBvSjdnV1pibXg5Nno3cGduSVJERGxYTWpoMEJGeWd5eDJscVc3Z2g2czVDbWFJM01odmpseXFxZXE0WHVGYWNxY0lyLXFzaWNGUDRWcWNNOTNvTC1jcDV3VUVXMXJuZ1ptZw?oc=5>
+- 场馆: video.sina.com.cn
+- 时间: 2026-08-16 22:31
+- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxPcFFQOGc4M3paYnRKLTlZZ3BOdjF0TkZRcmFkZklVZFota09ZM0thcmpLNE0zTzVMcHpmVjZic3ctR0x1amdRZHowQnJKRFEyRnpCTmtRMHFnT0V6NzNzOEkyMGhzcmMwdVE1a1R3ZWRpUlBwdVBKUHYwdkdVUWcwOW9R?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-16 23:41  (2 条)
+
+- **特朗普** | 特朗普总统命令大幅缩减美韩联合军演规模 <https://news.google.com/rss/articles/CBMi5AFBVV95cUxQV0kyR1JDaGptSFRhUFctSEZwNDhQbFpvdnRIWjlhUVByczlsSDlPWlFDU184NjRSY1FCMmVSQW9aVkpCdlB1VEVQX1VPdFlWV0duekRncnFLMkdScUdHa1ZjWkRpU1JtMzJBb3VmbDJ1MEVtbEQxdkc5b1hCbTZkRTNKc2tLbzBRU2xTcnpSa0I1OGdJRGsxbzN0OWFUWE02UWRpbHdqTFZSXzNpZ1N4enZER1NaUERhbXVocENwZkFiVFFzN2RlRnVKSEM3X2E5ZkZtbl9LNVRkOWFndHA4Y05wZ0HSAecBQVVfeXFMTUFjdGdTaVI5RWJ2Vnk0Z3lIZ0FPYU5KcmNhdVY4dlhmcTVLUDFxanY2c25XVUJCS0hqcnJ3dnV5QjctdnltYUF0WDRzWlJJOUFTVkc5WGRNX05YZnRpbzdYUGRyZmU5NWdSLTA4YWpDTGk4cjRWbjkxTDRjRkN4WGFXbHRLMkN3N05mMDE0NWEyZTR3NjRDV3k1U2tvelJHS1lVTzZMblFjT2JZSmtUaWZIOGxLOF8xQ3ZDNDlSNzRVU2JCZENTRzJOS0lDai0zbGhmM2hkcVl0blRvc2oyam91MWtGZV9B?oc=5>
+- **特朗普** | 特朗普欢迎沙土巴签共同防务协议 <https://news.google.com/rss/articles/CBMiggFBVV95cUxPcFFQOGc4M3paYnRKLTlZZ3BOdjF0TkZRcmFkZklVZFota09ZM0thcmpLNE0zTzVMcHpmVjZic3ctR0x1amdRZHowQnJKRFEyRnpCTmtRMHFnT0V6NzNzOEkyMGhzcmMwdVE1a1R3ZWRpUlBwdVBKUHYwdkdVUWcwOW9R?oc=5>
 
 ### 2026-08-16 23:13  (5 条)
 
