@@ -1,24 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-16 14:46**
-- 本轮扫到 9765 条, 新增 **1** 条
+- 最近更新: **2026-08-16 15:14**
+- 本轮扫到 9766 条, 新增 **1** 条
 
 ---
 
 ## 本轮新发现 (1 条)
 
-### 特朗普政府警告苹果勿用中国芯片
+### 特朗普发AI视频带华盛顿游白宫
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: dw.com
-- 时间: 2026-08-16 14:26
-- 链接: <https://news.google.com/rss/articles/CBMi_AFBVV95cUxQWDM0b1BBYk5oQllwUDBYSFVpejNIaHoyczUyWWhYWC1iSUl6alZITV9IQkpFTmZWZnMwUUQ4TjVMZG1fSl9kczJGcGNGbkZoazZ4b2pDR2h0NUZQRE9VRnV0TDRlWkZLTlk0OEJXaG14d29BOGxGQ2drZzNYRjAxQTlzWE9iRmU4YmZ1ekxieTM2cWt0UXlrUG1FRVRNXzJBNXFTZ1d4cHZHb0lwSTZHQlJ6dEpkQ2VyYXphU3NXcVYxYUE3ZW5mQzJqOW5uZzZNRXUzMHpsWkUxbTFDLWh2aHl4eWtkUDBSUTA4VEN3UWQ3RXdMODlzbXZiOTPSAfwBQVVfeXFMUDk5WlVSODlGNVhXYmRweFFEb3I4UXBUa2lSbWxVNFlpdGJGWW93elhBSmNydU1ZRzVBajdmME9wRURoMk5taTdWd0pBcVdmYnpJMFE0aldSY3h0LUJRd0E0blMtMERiLWRxRWZlLW5xN2xzUFR0am85X2I4Z1MtcThKVUJTWnlGWTZYVlVJaHNmbGNHcUY4cmU0NEFObkRhQUllR2dIUTZuOWJFazdjTGpqcDBBZWc0UjlOQ1V0SmlTaUx6UDYtb240ZVY4UmtzWnlIZVRmV29hR05PVDlGcVFEY1lUS2NieEpoS0lDN3hoY25rakt0Q21WRllE?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-08-16 14:46
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9JcEZSeF9kUkloQ3hWTnpxOWQyXzdpOWlYbXRJZEpLTU1BREI4QjJ4eDdLVDdLUU96QTZMWm5aNTZMbnpzY0RhMDI3QnpNXzBIV1ptV2ZKeUliMUFVXzJTeFN3bGQ4bzNrT3FoYWNBN1M4TWF3amhPdk53R0ItX0U?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-16 15:14  (1 条)
+
+- **特朗普** | 特朗普发AI视频带华盛顿游白宫 <https://news.google.com/rss/articles/CBMif0FVX3lxTE9JcEZSeF9kUkloQ3hWTnpxOWQyXzdpOWlYbXRJZEpLTU1BREI4QjJ4eDdLVDdLUU96QTZMWm5aNTZMbnpzY0RhMDI3QnpNXzBIV1ptV2ZKeUliMUFVXzJTeFN3bGQ4bzNrT3FoYWNBN1M4TWF3amhPdk53R0ItX0U?oc=5>
 
 ### 2026-08-16 14:46  (1 条)
 
