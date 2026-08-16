@@ -1,24 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-16 09:20**
-- 本轮扫到 9740 条, 新增 **1** 条
+- 最近更新: **2026-08-16 09:49**
+- 本轮扫到 9743 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮新发现 (3 条)
 
-### 特朗普犹太女婿干票大的！联手沙特太子，搞定3700亿史上最大杠杆并购
+### 史无前例：特朗普家族加密企业获银行牌照，可直接发行美元稳定币
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: QQ News
-- 时间: 2026-08-13 22:41
-- 链接: <https://news.google.com/rss/articles/CBMibEFVX3lxTE9NSXNGeUN0VXFYT0dpbmtVa3g4Ui1RUVg3Q2FGdjNoOG5FQ1BSczZFUnI3VkY3REg3ZEtDaGdYbWtHdUlObkN4WWFUVElodmdDRlhITVFfWm85ZkJSZXpvQUFCdmhnRTFNeVR0Ng?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-16 06:38
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcFp2Z05oZHRNbGVYWnM3WC12ME5GMWxjbGRPY09TSVhMbkYtZmdSSFNrMmh0ZGpZTHFweGZKV05pTEpBSWdiLVkwQ3JOb2xmV25GcUEtdXloUFZNU3NoNk5tcXJNMnVhLXlLSV9nQ2IzYVRnZ3NIMm52YnVJR0pOcll4aUpab1FUbUlpR2VFZDBFY25YYjVtQUdKY2Nib0JiOHRkWVlzRmN5UzNhS2pZYnlScHI5MXN3Wm1IZmlwd3dnVG05aTNkWklucUN0N0JBamJHUmliZTdLSFMzYlU0?oc=5>
+
+### 特朗普发图
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-16 09:24
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE9xSDVMeXhhYXpsdEs2bW9nNS16YzRWWnZZWUlZajQyY2xNV21iTVFtQXJYTEd6OERhdHk3RmZfZEQtSnlXSVN6SHJTQVZUYklzOUFVXzJPeEFvd1lwRGtDaWhqRnpRYlptb2pKUXpCMnNTdnZreUE?oc=5>
+
+### 淡化对中期选举影响 特朗普说要重创伊朗经济
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: zaobao.com
+- 时间: 2026-08-15 08:27
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SenAyWnl0UXl5dVVJYlY1aXdMRlhPX2gwaFF6alpzSnJOWjJ6Q3FCTlp1V3BUYkd2TDhsWm9TMk81RFFBdExrZTdGOUhaTld2ZFNuWkJfdFhnaXlvLXJYSW5oczhXZw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-16 09:49  (3 条)
+
+- **特朗普** | 史无前例：特朗普家族加密企业获银行牌照，可直接发行美元稳定币 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcFp2Z05oZHRNbGVYWnM3WC12ME5GMWxjbGRPY09TSVhMbkYtZmdSSFNrMmh0ZGpZTHFweGZKV05pTEpBSWdiLVkwQ3JOb2xmV25GcUEtdXloUFZNU3NoNk5tcXJNMnVhLXlLSV9nQ2IzYVRnZ3NIMm52YnVJR0pOcll4aUpab1FUbUlpR2VFZDBFY25YYjVtQUdKY2Nib0JiOHRkWVlzRmN5UzNhS2pZYnlScHI5MXN3Wm1IZmlwd3dnVG05aTNkWklucUN0N0JBamJHUmliZTdLSFMzYlU0?oc=5>
+- **特朗普** | 特朗普发图 <https://news.google.com/rss/articles/CBMidkFVX3lxTE9xSDVMeXhhYXpsdEs2bW9nNS16YzRWWnZZWUlZajQyY2xNV21iTVFtQXJYTEd6OERhdHk3RmZfZEQtSnlXSVN6SHJTQVZUYklzOUFVXzJPeEFvd1lwRGtDaWhqRnpRYlptb2pKUXpCMnNTdnZreUE?oc=5>
+- **特朗普** | 淡化对中期选举影响 特朗普说要重创伊朗经济 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SenAyWnl0UXl5dVVJYlY1aXdMRlhPX2gwaFF6alpzSnJOWjJ6Q3FCTlp1V3BUYkd2TDhsWm9TMk81RFFBdExrZTdGOUhaTld2ZFNuWkJfdFhnaXlvLXJYSW5oczhXZw?oc=5>
 
 ### 2026-08-16 09:20  (1 条)
 
