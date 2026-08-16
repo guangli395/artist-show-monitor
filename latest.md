@@ -1,40 +1,26 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-15 23:42**
-- 本轮扫到 9704 条, 新增 **3** 条
+- 最近更新: **2026-08-16 00:55**
+- 本轮扫到 9705 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (1 条)
 
-### 特朗普证实林肯号将被替换
+### 青岛故事丨周杰伦歌迷表示演唱会票太难抢了
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-08-15 23:30
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE91VmQ4bzFJS1BIblZ1R3lfcWZQQ2dNWEFwMHFEWHZQWWlYbFV2OVFuRlVGcGxBak5XZDVtUHFZa1ZfRVlxSm1wUXZ4R09SXzJYdUlJRnBDTTVaQ0hPSzFkR0JPR2IzMENYWTlhOHo0R0t2MUE?oc=5>
-
-### 特朗普发布了一个他带乔治·华盛顿参观新宴会厅的AI视频
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-08-15 23:30
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBtcjB1T2JDdkp5RnFnSHpWN214NHdYTHdsSFRVY0JWSmV1R21FSXBfYU5EekZUYldNQUZCSTVnSG1WOFNPR0pyN3FndG1Qa2ZjR1h3NXQ0OWxjRFNqbWt3VmdaUlRwVHVkd2dSWHFYTmprUHJxSlRmai0xbHpSbDg?oc=5>
-
-### 特朗普大笔一挥，美媒：几十亿又没了
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-14 06:34
-- 链接: <https://news.google.com/rss/articles/CBMizgFBVV95cUxOVW51eV9jUnNLQ3ZlQVpCN0tQaFpXY2hqMHlfS3lJNE9ZeTY1ZjJNZkxqRXhQUS11UXBKVUp5TGk4QWpDdlFqT21kY1BVVmRPekpoLXZMXzlzUmltMnJ4VEVlT016NzdxblhSZTBTNV9TcHJmb2MtamRWRHdXVUc0SmJYQ0xLeEo0R2tkT3l5a3o0cmw3S3VDRGVacGdvQWUxbmluN2RxdWlBRW1ZdG5mM3ZwVE1RZndtbEpoQkJEOFMxT1lfay1xWXdfRjJlQQ?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1668589317_m6374a70503301gety.html>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-16 00:55  (1 条)
+
+- **周杰伦** | 青岛故事丨周杰伦歌迷表示演唱会票太难抢了 <https://k.sina.com.cn/article_1668589317_m6374a70503301gety.html>
 
 ### 2026-08-15 23:42  (3 条)
 
