@@ -1,14 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-16 20:14**
-- 本轮扫到 9780 条, 新增 **0** 条
+- 最近更新: **2026-08-16 20:45**
+- 本轮扫到 9781 条, 新增 **1** 条
 
 ---
 
-## 本轮无新增
+## 本轮新发现 (1 条)
 
-数据库里所有演出/动态都已见过,暂无新增。
+### 只是为了家人？白宫新闻秘书宣布月底离职，特朗普挽留也没用
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: QQ News
+- 时间: 2026-08-15 09:43
+- 链接: <https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QMloyR2w2SXlYamJrclJwUGdkTXBkRmlaZllGR0E4d3RLUlFsSTQ0Mi1UOHlMV2hLUUdvc2tRNXhzRVkwQUpxUnBIeHFHanJwVl9mNzlB?oc=5>
+
+
+---
+
 ## 历史发现
+
+### 2026-08-16 20:45  (1 条)
+
+- **特朗普** | 只是为了家人？白宫新闻秘书宣布月底离职，特朗普挽留也没用 <https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QMloyR2w2SXlYamJrclJwUGdkTXBkRmlaZllGR0E4d3RLUlFsSTQ0Mi1UOHlMV2hLUUdvc2tRNXhzRVkwQUpxUnBIeHFHanJwVl9mNzlB?oc=5>
 
 ### 2026-08-16 19:16  (2 条)
 
