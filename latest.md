@@ -1,48 +1,62 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-16 04:06**
-- 本轮扫到 9717 条, 新增 **4** 条
+- 最近更新: **2026-08-16 04:58**
+- 本轮扫到 9722 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (5 条)
 
-### 特朗普：“很快会宣布霍尔木兹海峡为美国领土”
+### 周杰伦樊振东搭档日默瓦广告，三年二班适配MV形象
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7811248606_m1d19631de03301rp5y.html>
+
+### 特朗普苦等一年，马斯克终于回头，首富豪掷1亿美元助力中期选举
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-14 23:09
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9ZVDAzRHpFLUQ2Y3RWbzZ2RFpORlJGb2xjeUZyd0lpNHo2T3VrVjZRTDV5MG40VlhDZjJ6c3Z4YzZrMVVHRG14R2J1M01HVVRCbTlOU3hzREQtcXh0Sm9VY05aQkFHVDQwX1lEdnVOejQ3MmJZR1JzUQ?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-08-16 04:37
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE1ncEFPUENvSDhlbDRLdFBhM21hYWpjS05EWTh6RWxNZHpSbXRmdU5SVmRvYndGSmI3c1AwLXdZN2J6RFZBNkxraXNDS0JYXzF2eEo2aG1WRGYyMENDTGo5UGtTSFRQMnV0TW9lX2RLdXpaZw?oc=5>
+
+### “亚洲盟友心慌：美国都成这样了，还能靠多久？”-观察者网
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-08-16 03:00
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5aVGRzc2pFaFhRRkdvcFQ4aEdYZUg0N1RSUDZPN2RwVWlCaEVONzNZMExXalB3TVlJQlRtRFZaTXpWNmFfVmtLSzZDNU02VVo1R3ZtdnRkc3RMVWhrUEc1em9qSXpzNjNTT3c?oc=5>
 
 ### 特朗普又发旧照，称“与金正恩相处融洽”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
+- 场馆: QQ News
 - 时间: 2026-08-16 00:40
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBJU1Jmc2JzLXJGR3lqc3F1MElsVWZMSFRsS2I3aVpMUm9DcHhwZHp4Q3JxekZoVmtGbWdVWlk0VGRBY1JFc0JmN25tVFQtRFIwUW14MW1pT2k5ZGF1Zm9ZU0RoXzg3RnZObXN0bTU0S3I0N0ZXa1AyTg?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTE5vS1BOTjZuQTdncHNhUVRReUlEaFZsVDQ0RU90Y0YzVFJOdWdaSEMxcGFremlrcFlOLU5WT2NubG82R1Z3QTFjVk95WWZuMVZBVXBzVWFLTEV1X3R5MkhSaXctLWxvbmZCOUhhMnV3?oc=5>
 
-### 强震已致近300人死亡，哥伦比亚总统呼吁特朗普暂停加征关税
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-16 01:57
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9GTHhhTjI4V3hDZkFtNmduTW1yNHZqTWxpNFl5STd2WHQ3X3RRajA5dGpVQnNOVnBGcGFTZlJWTjZqWlFvOVRxTzJYY29SMWdLWWR4WDRadEJUMGdPRUpOUmhRY3hPQ1BPTHNRLWZCWDVPaG9qQVlISw?oc=5>
-
-### 特朗普的发言人，可能坐上一个华裔“相扑手”，父母还是中国移民
+### 特朗普称将“很快”宣布霍尔木兹海峡为美国领土
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-15 16:00
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTFBFODRmMFEzM1JZTk54NUxJd1NxZ2stS0dHaks0dFVFSkxxVk9Rd3cxNmQzR2F6TFRoeWxUcjZfcTNQVHNRWDU4dzh1d2d0VkhsNy1EemtaZjlHY01XSU16Z0dSTEhEWFJIbHF2OU8wUnlEeVZqZ1E?oc=5>
+- 场馆: DW.com
+- 时间: 2026-08-15 15:11
+- 链接: <https://news.google.com/rss/articles/CBMiuAJBVV95cUxONTF6Vndxd0FFeFZTSmtycW5PTzhjcGVQVGRGNVk2ajNXWjdzVWRzXy10bmVPSTdxQk5JMGpxcHBQZU4yd3VIYnNHOGltbFFkNkZ2aUZ6MUZXOHhNRlVZd2ZjeEo2RDczaFFYa3ZybTdqWGs4X29fSUwxZGxfOTlBMUR1and4ZUpzbFVELWh4OGNYVVhGOEFYN2dIdTJqVGV6MmJ1d3F5aWdpdjkwNXQ2NnRTWVllOEs5UEdfWmN6R1UwVDBLRkVhUTJtcEdUYW53MnFJR1JBeEU2NUQxUnZnd2FZaU5aTi0zaXdrQ3NmVXZScDVWdXpaRVVacFR5QWg1UWZEeV9fOU0yM2M1TVJrSlh0Z1AzOUNxTXJfMHJJMkgtUm5hbUwzMDk3VlB0QWVGOTJOSUZpUXPSAbgCQVVfeXFMTjUxelZ3cXdBRXhWU0prcnFuT084Y3BlUFRkRjVZNmozV1o3c1Vkc18tdG5lT0k3cUJOSTBqcXBwUGVOMnd1SGJzRzhpbWxRZDZGdmlGejFGVzh4TUZVWXdmY3hKNkQ3M2hRWGt2cm03alhrOF9vX0lMMWRsXzk5QTFEdWp3eGVKc2xVRC1oeDhjWFVYRjhBWDdnSHUyalRlejJidXdxeWlnaXY5MDV0NjZ0U1lZZThLOVBHX1pjekdVMFQwS0ZFYVEybXBHVGFudzJxSUdSQXhFNjVEMVJ2Z3dhWWlOWk4tM2l3a0NzZlV2UnA1VnV6WkVVWnBUeUFoNVFmRHlfXzlNMjNjNU1Sa0pYdGdQMzlDcU1yXzBySTJILVJuYW1MMzA5N1ZQdEFlRjkyTklGaVFz?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-16 04:58  (5 条)
+
+- **周杰伦** | 周杰伦樊振东搭档日默瓦广告，三年二班适配MV形象 <https://k.sina.com.cn/article_7811248606_m1d19631de03301rp5y.html>
+- **特朗普** | 特朗普苦等一年，马斯克终于回头，首富豪掷1亿美元助力中期选举 <https://news.google.com/rss/articles/CBMickFVX3lxTE1ncEFPUENvSDhlbDRLdFBhM21hYWpjS05EWTh6RWxNZHpSbXRmdU5SVmRvYndGSmI3c1AwLXdZN2J6RFZBNkxraXNDS0JYXzF2eEo2aG1WRGYyMENDTGo5UGtTSFRQMnV0TW9lX2RLdXpaZw?oc=5>
+- **特朗普** | “亚洲盟友心慌：美国都成这样了，还能靠多久？”-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE5aVGRzc2pFaFhRRkdvcFQ4aEdYZUg0N1RSUDZPN2RwVWlCaEVONzNZMExXalB3TVlJQlRtRFZaTXpWNmFfVmtLSzZDNU02VVo1R3ZtdnRkc3RMVWhrUEc1em9qSXpzNjNTT3c?oc=5>
+- **特朗普** | 特朗普又发旧照，称“与金正恩相处融洽” <https://news.google.com/rss/articles/CBMibkFVX3lxTE5vS1BOTjZuQTdncHNhUVRReUlEaFZsVDQ0RU90Y0YzVFJOdWdaSEMxcGFremlrcFlOLU5WT2NubG82R1Z3QTFjVk95WWZuMVZBVXBzVWFLTEV1X3R5MkhSaXctLWxvbmZCOUhhMnV3?oc=5>
+- **特朗普** | 特朗普称将“很快”宣布霍尔木兹海峡为美国领土 <https://news.google.com/rss/articles/CBMiuAJBVV95cUxONTF6Vndxd0FFeFZTSmtycW5PTzhjcGVQVGRGNVk2ajNXWjdzVWRzXy10bmVPSTdxQk5JMGpxcHBQZU4yd3VIYnNHOGltbFFkNkZ2aUZ6MUZXOHhNRlVZd2ZjeEo2RDczaFFYa3ZybTdqWGs4X29fSUwxZGxfOTlBMUR1and4ZUpzbFVELWh4OGNYVVhGOEFYN2dIdTJqVGV6MmJ1d3F5aWdpdjkwNXQ2NnRTWVllOEs5UEdfWmN6R1UwVDBLRkVhUTJtcEdUYW53MnFJR1JBeEU2NUQxUnZnd2FZaU5aTi0zaXdrQ3NmVXZScDVWdXpaRVVacFR5QWg1UWZEeV9fOU0yM2M1TVJrSlh0Z1AzOUNxTXJfMHJJMkgtUm5hbUwzMDk3VlB0QWVGOTJOSUZpUXPSAbgCQVVfeXFMTjUxelZ3cXdBRXhWU0prcnFuT084Y3BlUFRkRjVZNmozV1o3c1Vkc18tdG5lT0k3cUJOSTBqcXBwUGVOMnd1SGJzRzhpbWxRZDZGdmlGejFGVzh4TUZVWXdmY3hKNkQ3M2hRWGt2cm03alhrOF9vX0lMMWRsXzk5QTFEdWp3eGVKc2xVRC1oeDhjWFVYRjhBWDdnSHUyalRlejJidXdxeWlnaXY5MDV0NjZ0U1lZZThLOVBHX1pjekdVMFQwS0ZFYVEybXBHVGFudzJxSUdSQXhFNjVEMVJ2Z3dhWWlOWk4tM2l3a0NzZlV2UnA1VnV6WkVVWnBUeUFoNVFmRHlfXzlNMjNjNU1Sa0pYdGdQMzlDcU1yXzBySTJILVJuYW1MMzA5N1ZQdEFlRjkyTklGaVFz?oc=5>
 
 ### 2026-08-16 04:06  (4 条)
 
