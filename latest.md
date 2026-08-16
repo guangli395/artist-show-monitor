@@ -1,86 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-16 10:46**
-- 本轮扫到 9752 条, 新增 **9** 条
+- 最近更新: **2026-08-16 11:14**
+- 本轮扫到 9754 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (9 条)
+## 本轮新发现 (2 条)
 
-### 蔡徐坤新加坡演唱会官宣，THE DEADMAN荒野竞技场开启
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6363486338_m17b4b188205301ueos.html>
-
-### “把霍尔木兹海峡变成美国领土”，特朗普自己都笑了
+### 新华社：特朗普称将宣布霍尔木兹海峡为美领土
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-08-15 11:50
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE9Vcy1wbk4xOUpOZkRBUi1oV2JhNG5iZU02b1RlcFd1cDNaV0dQbHlreXhKdUV5OXJCMzVCRmt0SHZreE9QcWp1WE4wamVOZFNOQ3ZHc3ZzRjBuOEFOdGRDLWgwazNrNVpOVjBYcjFiV1h2a3JN?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-08-16 08:15
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5xVUJiT0NXb3NjZGI0NVIwVXdVQzcxQ3FXQVhRUTlCWU1vM1JmM1Q0aXlMSS1Pb0V4TDlmYXdfUXZsU3JZS3FTLXYxQmpIQmNHSlRJUXhoZjlMcVVoWVFpWTIzRVBNM0Y0NFpadkpFYzA?oc=5>
 
-### 特朗普：“很快会宣布霍尔木兹海峡为美国领土”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-14 23:09
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZWRQYVUyYi1VTEZsNzQ5NlBWd05xQ2xCVElPSUY5bVBoaHd0V3dvQTR0RlBWRHdVbXk4ZnNlaU05YnN4ZEtWNU1BMUR2WXhONG9EbnZKRGI2SEVtOWFzOGFlTFVpTlRmNllPd183dC1MOE9YcW5ia1hHR0VTSEdpWmQySDVfTjNZeUo1LU5EZTdkQ3dSTjhOWm9jMjA5QXlESFEwNU9oNUl4aWFkNTl4R0J5NXgtOXA2VE03anNFNGJmSHpPSUg0RjZIVEpRQmUx?oc=5>
-
-### 战争将满半年 美伊互撕升级
+### 特朗普发AI视频带华盛顿游白宫
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-16 07:13
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9nWDRlM09aWkZKMmdlQ1N4bzJlUmdBbXFXeHZtVmxoODcyZzFTS3NkZG81WHhMbk5xWmpfN3YwdkxETHcwM2VzVGQ2c1dUTnl3ZF80TXNWSEh3ZDhpV2huY2RUaUNRTjNaX2hHcDJlbUpsbTJnNDdXbg?oc=5>
-
-### 特朗普再促参议院通过全年采用夏令时法案
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 央视网
-- 时间: 2026-08-16 10:16
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1aeTd0ZDl3ODlLMVYyWlNSclBfR2F0aHZDamJXdXduVHlnSjhLZE94YmdGSlFfN0ZIb01vbVl5UV9GMk9KWW1xSzFoLU1VOFVKdWh3bm1SS0ZGNVZpOVhKaEZMeWN2aEc3SkpjbWVCcWVOVWQ0andoMQ?oc=5>
-
-### 特朗普发布与金正恩合影
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-16 09:44
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1uLXViV1R4V1FONHh6Wm44ajM3RlVLTjlrbTZRWEl4eG1LMGVQREdURnpxWGJ3M0w2VlBDSFNTTkpBNWR2VFJpeDBiYjU0T0xzdFVSNzBNTmtZbGM0aGpUSG9WRFdfM29ITzdxS0tHZFFXb2dOaThTcw?oc=5>
-
-### 史无前例：特朗普家族加密企业获银行牌照，可直接发行美元稳定币
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-16 07:26
-- 链接: <https://news.google.com/rss/articles/CBMiigJBVV95cUxObDZKSkZLeWhFWlBiTEUtRExqaUZIdGJIUUFmSHd2NDZhcThpZkZSLVI5UXR3WjZPUkk4QWYyX1BNZXZzRkdJT200QWlVdGt6RTYyX3lXaGVNRElnTlRHTGR4UVBwbldFemdXWHRzeWlyQUU5VWdsSU8teUhyUEdYZ0EydloySU1sNHpQb3FfWDVvMTNOdzdLdGJsRWxnbWlTeFA4UkNoWWJFa2pSV2RuMVEtSW8yQ2JMREJIWmxORVhRWVNaelByb0NZclFqaVY1QnM4UHlzN2pTcHRGdkFWbnkzUHZycThRR2NPX3RLYnB5cVNFTDd6Zlo5X2stMnNCamxJQkRIYnVUdw?oc=5>
-
-### 特朗普要求以“芬兰模式”重振舰船工业
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-15 22:17
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBES2V3aU1qbm5qV0FuYmV6X0NLTVpyTDVFLUtjYTBGUHFScGlvRlVMVUpGaC1VM2swWFdTN3dqVUhjd0tId052eVVJSQ?oc=5>
-
-### 特朗普允许美国企业进行网攻 对付外国黑客犯罪分子
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-08-16 09:37
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE56U1cyNDFRX1R2dTBrY05HVTBWWEZDcUMwUjlEdUtPNEtzOXJORWIyc1k3X2lJZUxxcVFpelpKaHZnT1BCUzRsOUU3TjlWRzg5cDhoZjMwcXhrbDE0RHI3bUt6QzdfcE9YT3c?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-08-16 11:12
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1xSTBwR2p3XzhKeW9rWXhVbUFSMmdzRFhHSUJIRDJsNngtT0VzbWpCWUFGQUZNNmFrUE9ncmtXM3VSVjJ5WVl2bmpraXE4dUlyRk1fY0FjQXNtV2Y5cXhfd1pkUnRCTmJ1Q0J3SkV2R0dzejRxSDRGRnpRU1FzZm8?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-16 11:14  (2 条)
+
+- **特朗普** | 新华社：特朗普称将宣布霍尔木兹海峡为美领土 <https://news.google.com/rss/articles/CBMicEFVX3lxTE5xVUJiT0NXb3NjZGI0NVIwVXdVQzcxQ3FXQVhRUTlCWU1vM1JmM1Q0aXlMSS1Pb0V4TDlmYXdfUXZsU3JZS3FTLXYxQmpIQmNHSlRJUXhoZjlMcVVoWVFpWTIzRVBNM0Y0NFpadkpFYzA?oc=5>
+- **特朗普** | 特朗普发AI视频带华盛顿游白宫 <https://news.google.com/rss/articles/CBMif0FVX3lxTE1xSTBwR2p3XzhKeW9rWXhVbUFSMmdzRFhHSUJIRDJsNngtT0VzbWpCWUFGQUZNNmFrUE9ncmtXM3VSVjJ5WVl2bmpraXE4dUlyRk1fY0FjQXNtV2Y5cXhfd1pkUnRCTmJ1Q0J3SkV2R0dzejRxSDRGRnpRU1FzZm8?oc=5>
 
 ### 2026-08-16 10:46  (9 条)
 
