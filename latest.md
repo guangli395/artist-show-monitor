@@ -1,32 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-16 17:13**
-- 本轮扫到 9773 条, 新增 **2** 条
+- 最近更新: **2026-08-16 17:42**
+- 本轮扫到 9775 条, 新增 **2** 条
 
 ---
 
 ## 本轮新发现 (2 条)
 
-### 史无前例：特朗普家族加密企业获银行牌照，可直接发行美元稳定币
+### 特朗普：击败伊朗后会宣布霍尔木兹海峡为美国领土
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-16 06:38
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYkRSRU5ncDBKemlCNVh4VkZSbmM3RkFZbm4zamhHU0FIYVYzLUZFVTVYemYwcWJuZm1uQVFjektDZ0drZnVuS3dYNXNtMUpnUWktekpNTHpsWlFvNDI0Q01lUXc1V0h1RkRVTDVJb182MWxybG5PU1EtaGFFc29sLTBKSldGampSLXNtR3JSblRENEJDdy1wcnJhVURWaE94YUxJYWpRRXQybFNhMFVyNUtZSW0zazk2NjQ2cGpBMTE1Y0NNakgwZFQtQ3o4V0NqVEszVEtBODFaeEtOZm9Z?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-08-16 00:15
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9CYlRSZGxKdUhORWVQQTBEYjd6dTVvT0NBaUprclA5YzBpN1FTMTBuVVAyOHl0ODlhSTVreDRnWTRnNXRhbFdnaVVqSQ?oc=5>
 
-### 截至2026年8月10日，川普币（TRUMP）价格约为 $1.51，市值约 ...
+### 特朗普民调跌至低点 经济与伊朗战事成共和党期中选举隐忧
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: OKX
-- 时间: 2026-08-16 05:55
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1UdURNX3dpRW4tVEJfZ19XVUVoR0ZPNFVrVlVmVWx6VGdSZ0JqOGNneEhhZHd6SS1OTXczU0t4VWVuQUNNOGxoZy00SkZieFAxWXUyZHVmUXdXRU5qMVpMOA?oc=5>
+- 场馆: RFI
+- 时间: 2026-08-16 17:21
+- 链接: <https://news.google.com/rss/articles/CBMimANBVV95cUxQVEwzVk5iNHZjWkRrYUJySUF5MTBJX0c2UjRFUXJDbnRLd1h5dWJkel9BUlZ5alRQMnpvUzdxWEJfQmZXM1BtemJLcXFYYWtKc3B6Tl9MZmxlNjFxYUdlOGpBaTlKaGFmYWYwLWk0cnBKaXlpUV9hUjEzejBlXzZ0c0g3N1NlUHNaeDN1aktLakkzbGRyczlNdXRxdmoxYThsbnUwNjhrR1VtTW5kcllUXzNfUWV1RWk3SFh5TFJKVmlRTDZsQmpkRGtuek9qT1FUUE1zTVBfSXpuNEh1X1p5Tkk1Rzc2X3hjcThWcmR6VWZYOWd5UlNUQ3JyQkVDUDJLc3ZTbTE5Vk4xQUhkR09MMUg2bFBQX3RlUnlCZHMzOTlIcFZTeHEzbk9RdlFYU05iZmxoN01YZ0pmNGFoMVRnY1hwWU4xdHVQSkdCeTBiN1FyaktjeVZzLTZCMEEtYUdSVFdfSXJ0bzJnV3k0clh2TElpNTZhcnZ6WXk4TUhyYnVJd3lTaHpJbmZtb09teWRFRlhaeE5tVDg?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-16 17:42  (2 条)
+
+- **特朗普** | 特朗普：击败伊朗后会宣布霍尔木兹海峡为美国领土 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9CYlRSZGxKdUhORWVQQTBEYjd6dTVvT0NBaUprclA5YzBpN1FTMTBuVVAyOHl0ODlhSTVreDRnWTRnNXRhbFdnaVVqSQ?oc=5>
+- **Trump** | 特朗普民调跌至低点 经济与伊朗战事成共和党期中选举隐忧 <https://news.google.com/rss/articles/CBMimANBVV95cUxQVEwzVk5iNHZjWkRrYUJySUF5MTBJX0c2UjRFUXJDbnRLd1h5dWJkel9BUlZ5alRQMnpvUzdxWEJfQmZXM1BtemJLcXFYYWtKc3B6Tl9MZmxlNjFxYUdlOGpBaTlKaGFmYWYwLWk0cnBKaXlpUV9hUjEzejBlXzZ0c0g3N1NlUHNaeDN1aktLakkzbGRyczlNdXRxdmoxYThsbnUwNjhrR1VtTW5kcllUXzNfUWV1RWk3SFh5TFJKVmlRTDZsQmpkRGtuek9qT1FUUE1zTVBfSXpuNEh1X1p5Tkk1Rzc2X3hjcThWcmR6VWZYOWd5UlNUQ3JyQkVDUDJLc3ZTbTE5Vk4xQUhkR09MMUg2bFBQX3RlUnlCZHMzOTlIcFZTeHEzbk9RdlFYU05iZmxoN01YZ0pmNGFoMVRnY1hwWU4xdHVQSkdCeTBiN1FyaktjeVZzLTZCMEEtYUdSVFdfSXJ0bzJnV3k0clh2TElpNTZhcnZ6WXk4TUhyYnVJd3lTaHpJbmZtb09teWRFRlhaeE5tVDg?oc=5>
 
 ### 2026-08-16 17:13  (2 条)
 
