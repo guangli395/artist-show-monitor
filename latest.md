@@ -1,32 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-16 17:42**
-- 本轮扫到 9775 条, 新增 **2** 条
+- 最近更新: **2026-08-16 18:18**
+- 本轮扫到 9778 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (3 条)
 
-### 特朗普：击败伊朗后会宣布霍尔木兹海峡为美国领土
+### 特朗普发布与金正恩合影
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-16 00:15
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9CYlRSZGxKdUhORWVQQTBEYjd6dTVvT0NBaUprclA5YzBpN1FTMTBuVVAyOHl0ODlhSTVreDRnWTRnNXRhbFdnaVVqSQ?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-16 08:47
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE00cktteWtYdHhid1I4cUUtYjV1amZCaUIyTmJzMFMxQ3dCQ0RuanFBS2VhLUhZTzJmQUlNNjZ4Wl9LM3dhSF83cWhFVUh2ZG1hRmVzZFRVQW5sSnM3M0Z4eFRta3VkOWZoanBUQVVMZjZmWDVmbFE?oc=5>
 
-### 特朗普民调跌至低点 经济与伊朗战事成共和党期中选举隐忧
+### 特朗普吁美民众接受油价上涨 称阻止伊朗拥核须付代价
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-08-15 08:43
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ETFYxRVRqYzBOc25aT3ZhWUo5UDVNTHBxem01d29nbkt4N00xUWFTZDhGWUtZNGdhNENpNEh6dGtYMFlwRGgzNXFDVFBUTzQwMXZqbVVFbU9ib3RuN0tlQVF4Y0x3Zw?oc=5>
+
+### 川普突晒与金正恩7年前合照 强调“相处非常融洽”
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-08-16 17:21
-- 链接: <https://news.google.com/rss/articles/CBMimANBVV95cUxQVEwzVk5iNHZjWkRrYUJySUF5MTBJX0c2UjRFUXJDbnRLd1h5dWJkel9BUlZ5alRQMnpvUzdxWEJfQmZXM1BtemJLcXFYYWtKc3B6Tl9MZmxlNjFxYUdlOGpBaTlKaGFmYWYwLWk0cnBKaXlpUV9hUjEzejBlXzZ0c0g3N1NlUHNaeDN1aktLakkzbGRyczlNdXRxdmoxYThsbnUwNjhrR1VtTW5kcllUXzNfUWV1RWk3SFh5TFJKVmlRTDZsQmpkRGtuek9qT1FUUE1zTVBfSXpuNEh1X1p5Tkk1Rzc2X3hjcThWcmR6VWZYOWd5UlNUQ3JyQkVDUDJLc3ZTbTE5Vk4xQUhkR09MMUg2bFBQX3RlUnlCZHMzOTlIcFZTeHEzbk9RdlFYU05iZmxoN01YZ0pmNGFoMVRnY1hwWU4xdHVQSkdCeTBiN1FyaktjeVZzLTZCMEEtYUdSVFdfSXJ0bzJnV3k0clh2TElpNTZhcnZ6WXk4TUhyYnVJd3lTaHpJbmZtb09teWRFRlhaeE5tVDg?oc=5>
+- 场馆: 文学城
+- 时间: 2026-08-16 16:17
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBvbGxFOGZRTWpjWmo2RXB5Nm9LekJSVE1EZXZySTl0bFlaTE5iSm1Za3F6VVRZT280aG5LU25Da2gtRFU3YnVlVnlSbVctSGVwSzZrTG51MVp0bFNSY0I1UHZFN2JVU01Y?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-16 18:18  (3 条)
+
+- **特朗普** | 特朗普发布与金正恩合影 <https://news.google.com/rss/articles/CBMidkFVX3lxTE00cktteWtYdHhid1I4cUUtYjV1amZCaUIyTmJzMFMxQ3dCQ0RuanFBS2VhLUhZTzJmQUlNNjZ4Wl9LM3dhSF83cWhFVUh2ZG1hRmVzZFRVQW5sSnM3M0Z4eFRta3VkOWZoanBUQVVMZjZmWDVmbFE?oc=5>
+- **特朗普** | 特朗普吁美民众接受油价上涨 称阻止伊朗拥核须付代价 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ETFYxRVRqYzBOc25aT3ZhWUo5UDVNTHBxem01d29nbkt4N00xUWFTZDhGWUtZNGdhNENpNEh6dGtYMFlwRGgzNXFDVFBUTzQwMXZqbVVFbU9ib3RuN0tlQVF4Y0x3Zw?oc=5>
+- **Trump** | 川普突晒与金正恩7年前合照 强调“相处非常融洽” <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBvbGxFOGZRTWpjWmo2RXB5Nm9LekJSVE1EZXZySTl0bFlaTE5iSm1Za3F6VVRZT280aG5LU25Da2gtRFU3YnVlVnlSbVctSGVwSzZrTG51MVp0bFNSY0I1UHZFN2JVU01Y?oc=5>
 
 ### 2026-08-16 17:42  (2 条)
 
