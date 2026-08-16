@@ -1,32 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-16 16:48**
-- 本轮扫到 9771 条, 新增 **2** 条
+- 最近更新: **2026-08-16 17:13**
+- 本轮扫到 9773 条, 新增 **2** 条
 
 ---
 
 ## 本轮新发现 (2 条)
 
-### 特朗普：“很快会宣布霍尔木兹海峡为美国领土”
+### 史无前例：特朗普家族加密企业获银行牌照，可直接发行美元稳定币
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-08-14 23:09
-- 链接: <https://news.google.com/rss/articles/CBMizgFBVV95cUxNTlNfMkxCa1BCaG5yTWNhdC11dEt3Ukxhb2VDTXN1eUo4SjNfSk15LVdGcVFZemxQQTJYTl9GUTM0VUNwbWUtUGZSQzNpdzNCQ19EeTh6X1dvUjZiaFpnVlNFOFlyblVRWTdwc0VNd3g0Ym9qdWFjMnpRaFdBUTFmQVNYRVZWYklIVjR3VXFFdURfUkJKeVlMdVBLY2RLUzB5aGVqYjYwb2FhRThaNm1vMER0ODdaX2pLMzkxOThoblZqUkI2SmhpUEpJUXp3dw?oc=5>
+- 时间: 2026-08-16 06:38
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYkRSRU5ncDBKemlCNVh4VkZSbmM3RkFZbm4zamhHU0FIYVYzLUZFVTVYemYwcWJuZm1uQVFjektDZ0drZnVuS3dYNXNtMUpnUWktekpNTHpsWlFvNDI0Q01lUXc1V0h1RkRVTDVJb182MWxybG5PU1EtaGFFc29sLTBKSldGampSLXNtR3JSblRENEJDdy1wcnJhVURWaE94YUxJYWpRRXQybFNhMFVyNUtZSW0zazk2NjQ2cGpBMTE1Y0NNakgwZFQtQ3o4V0NqVEszVEtBODFaeEtOZm9Z?oc=5>
 
-### 特朗普释放可能参与2028年大选的信号
+### 截至2026年8月10日，川普币（TRUMP）价格约为 $1.51，市值约 ...
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-16 16:43
-- 链接: <https://news.google.com/rss/articles/CBMinwJBVV95cUxPQTBCd3hIeEpsTEtTdGQtbUtkV3A4T0E4ekJWUkdfdWlPRTdRZlU4Wmpld2hjeEFWc1o1RkhDMlBNbGdmQXc5NTFoSGJyWF9rN3pzYkRzdFJZYVVOYndkLTNTMlVQRkV2S3dyQlBQVnYtb2drWS12NUFOMkx5R1lSZS1aZ21la05uajZpY0ZpbVVzWkpXMHlEVTNOMFZpWm1qMlV5a3RtbzliU3cyQlV0RDkyQTF3NThfaml2TFg4UGUxdlZfMVBXYVJhVEZnNWRhcGM4clBtdlpHTmlPa2NHSHhQd0ZaSW1LRkVwV19pRXJJNXVCYjBfTHpBMDYwaXl3TGhIV2xHZmxNbHZKTC1udV9IRDhxSlp5QXZwelM2MA?oc=5>
+- 场馆: OKX
+- 时间: 2026-08-16 05:55
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1UdURNX3dpRW4tVEJfZ19XVUVoR0ZPNFVrVlVmVWx6VGdSZ0JqOGNneEhhZHd6SS1OTXczU0t4VWVuQUNNOGxoZy00SkZieFAxWXUyZHVmUXdXRU5qMVpMOA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-16 17:13  (2 条)
+
+- **特朗普** | 史无前例：特朗普家族加密企业获银行牌照，可直接发行美元稳定币 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYkRSRU5ncDBKemlCNVh4VkZSbmM3RkFZbm4zamhHU0FIYVYzLUZFVTVYemYwcWJuZm1uQVFjektDZ0drZnVuS3dYNXNtMUpnUWktekpNTHpsWlFvNDI0Q01lUXc1V0h1RkRVTDVJb182MWxybG5PU1EtaGFFc29sLTBKSldGampSLXNtR3JSblRENEJDdy1wcnJhVURWaE94YUxJYWpRRXQybFNhMFVyNUtZSW0zazk2NjQ2cGpBMTE1Y0NNakgwZFQtQ3o4V0NqVEszVEtBODFaeEtOZm9Z?oc=5>
+- **Trump** | 截至2026年8月10日，川普币（TRUMP）价格约为 $1.51，市值约 ... <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1UdURNX3dpRW4tVEJfZ19XVUVoR0ZPNFVrVlVmVWx6VGdSZ0JqOGNneEhhZHd6SS1OTXczU0t4VWVuQUNNOGxoZy00SkZieFAxWXUyZHVmUXdXRU5qMVpMOA?oc=5>
 
 ### 2026-08-16 16:48  (2 条)
 
