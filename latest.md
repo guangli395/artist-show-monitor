@@ -1,27 +1,51 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-16 05:30**
-- 本轮扫到 9725 条, 新增 **3** 条
+- 最近更新: **2026-08-16 06:28**
+- 本轮扫到 9733 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (8 条)
 
-### 安全需要？特朗普政府要最高法院“放行”宴会厅改造
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-15 23:52
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE45R1RoQVNZT0x3OUpLcGNoUllraTVFb2c2RnZIRURmZWgwbHYzUDJOTGwtOTI3UzNwM2NxRVZSb2R2MHprR1lockNBRzFpb2hGc1BpVFFJY0hfYW10TFlObW14VVJZVnNLbWZrOGhPdnVHWDdFdnhRSA?oc=5>
-
-### 特朗普又发旧照，称“与金正恩相处融洽”
+### 华府消息|特朗普称要让霍尔木兹海峡成为美国领土
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: QQ News
-- 时间: 2026-08-16 00:40
-- 链接: <https://news.google.com/rss/articles/CBMibEFVX3lxTFByRWN2U1A2VVgzdDkzMTl6ZUVnakxPYy1tRGlyaEMxMkhvWWZFUC1DYy1vbENJOENmOXFNcGo0VGRBc3UxWnRwZjJoUUpVYU1SRnBiNURtcVJfTXIyYkwwZHVQa2UzNzJsRDhHMg?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-08-16 03:13
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE12V2Rfa0tIczV4TWdWSFkyalpEeTNGLVhkYXlSc1AtZFZ4VnZHMXVZenRrMGNTSGU1UE5jdmZLZnVhOWt1X2k1WEVGTzVxdDdTMU9EZGJSeG9LWkNtMldlQUdmOXNQZkRoT1ZaUDRYU1M5UQ?oc=5>
+
+### 特朗普嫌弃，美国航母要改回二战风格-观察者网
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-08-16 05:14
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1ibW9ERnlkQ293VE9sWDViYlloN2ljTXNXdDRsZFhVbV9DZDF1c3ZlR3FOaHRtZ3FjekMyZTVNbklxbldPOG14eVlQZlkxRmxzdWdCbTRzdXdCRVhSejc3ZWU5QlI5aVZ3SnBrNTdYZ1U?oc=5>
+
+### 美媒称特朗普再次要求修改新航母设计
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: China Daily
+- 时间: 2026-08-16 05:52
+- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxOR1pId3hhWVAwOG0wUXNLWmN1dnJreThxRDhNbXpMZlI4SlBlQjM5NnRTNVFhQy1tYkNqcWVqb1MyUFpZRnIwRlBkeEtHVGV0WkxYV2hqTkVfVC1VOXQ3WmU5bF9WcS1QRDRFVFRyMmh2MlhIdG5Rc1Z5QWQtc3ZsdA?oc=5>
+
+### 特朗普证实部署中东的“林肯”号航母将被替换
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-08-16 05:07
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5iODhWanItUHd1ZFhDazJkMDhrT2RRSU51U3NLUTB3YWdJbUkwT2hTRkdDcjNqcGxVSjNYN3hiTmNkdW0xZVBPdWFmd1ZROFpSY1VrclNTN0xPbEVXOW5vNjcxMVFDTHkzakJpRTdiZHE?oc=5>
+
+### 特朗普与马斯克交恶一年的幕后真实博弈曝光
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 文学城
+- 时间: 2026-08-15 02:30
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuRWNydWRKQ0dWVVJWYWotZnFDSjAyMFhRMHNtLUlCd2w2WTdYS3NxUWp3bjl3bjBYSGFkdlVNbFlWeUxMR2ZzeTIzOTVhQWNwT05FLU01REc1dlRHbmlGaEFjQnJPRjlL?oc=5>
 
 ### 内塔尼亚胡选情告急，特朗普已读不回
 
@@ -29,12 +53,39 @@
 - 来源: `googlenews`
 - 场馆: Sohu
 - 时间: 2026-08-16 04:55
-- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdWlXa3JSZFVGdGJ6U0JJSmxjZDd4NUFjdHRIdmctSG5sdnBaOTgtY21XOENFc0FiRzRHcUZuRjJJSFRvYzVKWVpYWHloalFDTWVZdmtUcHVTc0Z3THBQSzFYSzhtcGU2TVQtVlRVSXZIUlQ4ZGc4YVFwbEcyOE9SR3lMMVRrWk5M?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMihgFBVV95cUxPOUQtczJIbVp4Vm10MDNlSjRHZWFCYTQwaVVMSHVKV0kydDZMVHdjTjZFeG1za051NXVtSlF4X2pGb09sRk95Vm8zckR3MFdscnE3ZUtTT2xXRDlESkk4ZTl3ZGNiUVpscEo4bUVoTXdhb0tINF9HR2VnM19ISnZlMHBHcC1FZw?oc=5>
+
+### 支持率暴跌，Trump终撒“钱袋子”……先投426亿韩元- 阿视亚经济
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 아시아경제
+- 时间: 2026-08-16 05:36
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1oWFRCR0c4WWhpZWozMFNhUURWZEpGZUxUNUY2NHRLZlZKZ2JZM1VIQXBEWlo3ZEctYXdyU1JKTXVkbm5aNVdFbVV4S3RSb3BVV21wUGo1VmVJMWNOVTFTbXV5Tmw?oc=5>
+
+### 再晒与金正恩合照 特朗普：我们相处融洽
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 8world
+- 时间: 2026-08-16 05:49
+- 链接: <https://news.google.com/rss/articles/CBMirAFBVV95cUxNaDRpcEJIT2FwRW1PQjdDbFRHaWpKb0N4UzRaVTFVV3c3WElqWDFwckJNZWVCOEV6ZmpISXRBNXEzcFZmcjEyZEZtV1RpQms0cDMwZFJNaWNWeWJhMzlPSmxpdnVSeFhHQ2otY01SeHZkdm5qeS01WllfNjF5YS1WR3ZuVy13RVd5cmJiTXZMQTJvdTM5bVpnM05xNnZKaS1EQkYtMTFvYXZIWXVO?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-16 06:28  (8 条)
+
+- **特朗普** | 华府消息|特朗普称要让霍尔木兹海峡成为美国领土 <https://news.google.com/rss/articles/CBMickFVX3lxTE12V2Rfa0tIczV4TWdWSFkyalpEeTNGLVhkYXlSc1AtZFZ4VnZHMXVZenRrMGNTSGU1UE5jdmZLZnVhOWt1X2k1WEVGTzVxdDdTMU9EZGJSeG9LWkNtMldlQUdmOXNQZkRoT1ZaUDRYU1M5UQ?oc=5>
+- **特朗普** | 特朗普嫌弃，美国航母要改回二战风格-观察者网 <https://news.google.com/rss/articles/CBMicEFVX3lxTE1ibW9ERnlkQ293VE9sWDViYlloN2ljTXNXdDRsZFhVbV9DZDF1c3ZlR3FOaHRtZ3FjekMyZTVNbklxbldPOG14eVlQZlkxRmxzdWdCbTRzdXdCRVhSejc3ZWU5QlI5aVZ3SnBrNTdYZ1U?oc=5>
+- **特朗普** | 美媒称特朗普再次要求修改新航母设计 <https://news.google.com/rss/articles/CBMigAFBVV95cUxOR1pId3hhWVAwOG0wUXNLWmN1dnJreThxRDhNbXpMZlI4SlBlQjM5NnRTNVFhQy1tYkNqcWVqb1MyUFpZRnIwRlBkeEtHVGV0WkxYV2hqTkVfVC1VOXQ3WmU5bF9WcS1QRDRFVFRyMmh2MlhIdG5Rc1Z5QWQtc3ZsdA?oc=5>
+- **特朗普** | 特朗普证实部署中东的“林肯”号航母将被替换 <https://news.google.com/rss/articles/CBMicEFVX3lxTE5iODhWanItUHd1ZFhDazJkMDhrT2RRSU51U3NLUTB3YWdJbUkwT2hTRkdDcjNqcGxVSjNYN3hiTmNkdW0xZVBPdWFmd1ZROFpSY1VrclNTN0xPbEVXOW5vNjcxMVFDTHkzakJpRTdiZHE?oc=5>
+- **特朗普** | 特朗普与马斯克交恶一年的幕后真实博弈曝光 <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuRWNydWRKQ0dWVVJWYWotZnFDSjAyMFhRMHNtLUlCd2w2WTdYS3NxUWp3bjl3bjBYSGFkdlVNbFlWeUxMR2ZzeTIzOTVhQWNwT05FLU01REc1dlRHbmlGaEFjQnJPRjlL?oc=5>
+- **特朗普** | 内塔尼亚胡选情告急，特朗普已读不回 <https://news.google.com/rss/articles/CBMihgFBVV95cUxPOUQtczJIbVp4Vm10MDNlSjRHZWFCYTQwaVVMSHVKV0kydDZMVHdjTjZFeG1za051NXVtSlF4X2pGb09sRk95Vm8zckR3MFdscnE3ZUtTT2xXRDlESkk4ZTl3ZGNiUVpscEo4bUVoTXdhb0tINF9HR2VnM19ISnZlMHBHcC1FZw?oc=5>
+- **Trump** | 支持率暴跌，Trump终撒“钱袋子”……先投426亿韩元- 阿视亚经济 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1oWFRCR0c4WWhpZWozMFNhUURWZEpGZUxUNUY2NHRLZlZKZ2JZM1VIQXBEWlo3ZEctYXdyU1JKTXVkbm5aNVdFbVV4S3RSb3BVV21wUGo1VmVJMWNOVTFTbXV5Tmw?oc=5>
+- **Trump** | 再晒与金正恩合照 特朗普：我们相处融洽 <https://news.google.com/rss/articles/CBMirAFBVV95cUxNaDRpcEJIT2FwRW1PQjdDbFRHaWpKb0N4UzRaVTFVV3c3WElqWDFwckJNZWVCOEV6ZmpISXRBNXEzcFZmcjEyZEZtV1RpQms0cDMwZFJNaWNWeWJhMzlPSmxpdnVSeFhHQ2otY01SeHZkdm5qeS01WllfNjF5YS1WR3ZuVy13RVd5cmJiTXZMQTJvdTM5bVpnM05xNnZKaS1EQkYtMTFvYXZIWXVO?oc=5>
 
 ### 2026-08-16 05:30  (3 条)
 
