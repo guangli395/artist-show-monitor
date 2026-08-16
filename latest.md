@@ -1,39 +1,13 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-16 09:49**
-- 本轮扫到 9743 条, 新增 **3** 条
+- 最近更新: **2026-08-16 10:16**
+- 本轮扫到 9743 条, 新增 **0** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮无新增
 
-### 史无前例：特朗普家族加密企业获银行牌照，可直接发行美元稳定币
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-16 06:38
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcFp2Z05oZHRNbGVYWnM3WC12ME5GMWxjbGRPY09TSVhMbkYtZmdSSFNrMmh0ZGpZTHFweGZKV05pTEpBSWdiLVkwQ3JOb2xmV25GcUEtdXloUFZNU3NoNk5tcXJNMnVhLXlLSV9nQ2IzYVRnZ3NIMm52YnVJR0pOcll4aUpab1FUbUlpR2VFZDBFY25YYjVtQUdKY2Nib0JiOHRkWVlzRmN5UzNhS2pZYnlScHI5MXN3Wm1IZmlwd3dnVG05aTNkWklucUN0N0JBamJHUmliZTdLSFMzYlU0?oc=5>
-
-### 特朗普发图
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-16 09:24
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE9xSDVMeXhhYXpsdEs2bW9nNS16YzRWWnZZWUlZajQyY2xNV21iTVFtQXJYTEd6OERhdHk3RmZfZEQtSnlXSVN6SHJTQVZUYklzOUFVXzJPeEFvd1lwRGtDaWhqRnpRYlptb2pKUXpCMnNTdnZreUE?oc=5>
-
-### 淡化对中期选举影响 特朗普说要重创伊朗经济
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: zaobao.com
-- 时间: 2026-08-15 08:27
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SenAyWnl0UXl5dVVJYlY1aXdMRlhPX2gwaFF6alpzSnJOWjJ6Q3FCTlp1V3BUYkd2TDhsWm9TMk81RFFBdExrZTdGOUhaTld2ZFNuWkJfdFhnaXlvLXJYSW5oczhXZw?oc=5>
-
-
----
-
+数据库里所有演出/动态都已见过,暂无新增。
 ## 历史发现
 
 ### 2026-08-16 09:49  (3 条)
