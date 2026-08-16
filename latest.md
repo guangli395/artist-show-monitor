@@ -1,11 +1,11 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-16 07:08**
-- 本轮扫到 9736 条, 新增 **3** 条
+- 最近更新: **2026-08-16 07:52**
+- 本轮扫到 9737 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (1 条)
 
 ### 史无前例：特朗普家族加密企业获银行牌照，可直接发行美元稳定币
 
@@ -13,28 +13,16 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-08-16 06:38
-- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxQNjJZMnhwZHFRbzJ4OXFicThJZ2F1NG54dTVheFdzZFRDNGxtNjhrM28xLXJLMEZIV05hMXlkWjNhcVdpNTdxajkyMGhEaFhsUTlJUzh4MFItT0MxVldHbDE3YXlCT2JCUEhpRXJuYWpUTEZEZE5ycjMwYmowTTloWnNYQmpieE5oTm4zei1OcXNFbkt0WnZCWDd1NzM?oc=5>
-
-### 特朗普又发旧照，称“与金正恩相处融洽”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-16 00:40
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBoQTdtLWgzdjd0WUE1cU85WnBGRGxtZXE0YXFsSy1fZXE1NU92d0J0eDJlenkwWkJKemlyendSM0x1akRKQ3k2TTZ4Nmg?oc=5>
-
-### 伊朗回应特朗普
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-08-15 14:58
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE01cTFfRm1MemZRdUNDT0VqQnB2SldpdFlwbEZBZmljbEhVWlh5eWpsYWh4YmlKd1lpTEVQT19HWmFBcE1LRC1DTUhpX2ZpbGtFaElCUUdUVWM0cTZ6QlE?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxOd0M5alJyNUtOeW5zV0FvZXVyNTNWYllfdEo2aWhMX3IyTGFUZ19RMnlkbThvdzdxc3FSbkVJXzlfendMSEdzdS1BVU9HVlBsT002cGFPSEp0b1pwaGVVdFNBUDBmVFlNMjlaalhDWVNJWXAzTjJCUGZRSUJXWXo5YTVsc1N6Qjg?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-16 07:52  (1 条)
+
+- **特朗普** | 史无前例：特朗普家族加密企业获银行牌照，可直接发行美元稳定币 <https://news.google.com/rss/articles/CBMihwFBVV95cUxOd0M5alJyNUtOeW5zV0FvZXVyNTNWYllfdEo2aWhMX3IyTGFUZ19RMnlkbThvdzdxc3FSbkVJXzlfendMSEdzdS1BVU9HVlBsT002cGFPSEp0b1pwaGVVdFNBUDBmVFlNMjlaalhDWVNJWXAzTjJCUGZRSUJXWXo5YTVsc1N6Qjg?oc=5>
 
 ### 2026-08-16 07:08  (3 条)
 
