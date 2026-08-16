@@ -1,24 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-16 16:16**
-- 本轮扫到 9769 条, 新增 **1** 条
+- 最近更新: **2026-08-16 16:48**
+- 本轮扫到 9771 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮新发现 (2 条)
 
-### 特朗普发布与金正恩的合影
+### 特朗普：“很快会宣布霍尔木兹海峡为美国领土”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-08-16 09:00
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTFBMTGFjQk1DWWNBTU9ZM05ubHM4c1hGTVd6Sjh0SXU0eHhNZmk0N1N6WnN2SjBfeFVfSnlWc0d5WEhHalk1R29Demxac0w2cFZyeWE1WENhNmtfUlpLakdjSnBseGhfb2NDeC1UNXVPbkNMUW4z?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-14 23:09
+- 链接: <https://news.google.com/rss/articles/CBMizgFBVV95cUxNTlNfMkxCa1BCaG5yTWNhdC11dEt3Ukxhb2VDTXN1eUo4SjNfSk15LVdGcVFZemxQQTJYTl9GUTM0VUNwbWUtUGZSQzNpdzNCQ19EeTh6X1dvUjZiaFpnVlNFOFlyblVRWTdwc0VNd3g0Ym9qdWFjMnpRaFdBUTFmQVNYRVZWYklIVjR3VXFFdURfUkJKeVlMdVBLY2RLUzB5aGVqYjYwb2FhRThaNm1vMER0ODdaX2pLMzkxOThoblZqUkI2SmhpUEpJUXp3dw?oc=5>
+
+### 特朗普释放可能参与2028年大选的信号
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-16 16:43
+- 链接: <https://news.google.com/rss/articles/CBMinwJBVV95cUxPQTBCd3hIeEpsTEtTdGQtbUtkV3A4T0E4ekJWUkdfdWlPRTdRZlU4Wmpld2hjeEFWc1o1RkhDMlBNbGdmQXc5NTFoSGJyWF9rN3pzYkRzdFJZYVVOYndkLTNTMlVQRkV2S3dyQlBQVnYtb2drWS12NUFOMkx5R1lSZS1aZ21la05uajZpY0ZpbVVzWkpXMHlEVTNOMFZpWm1qMlV5a3RtbzliU3cyQlV0RDkyQTF3NThfaml2TFg4UGUxdlZfMVBXYVJhVEZnNWRhcGM4clBtdlpHTmlPa2NHSHhQd0ZaSW1LRkVwV19pRXJJNXVCYjBfTHpBMDYwaXl3TGhIV2xHZmxNbHZKTC1udV9IRDhxSlp5QXZwelM2MA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-16 16:48  (2 条)
+
+- **特朗普** | 特朗普：“很快会宣布霍尔木兹海峡为美国领土” <https://news.google.com/rss/articles/CBMizgFBVV95cUxNTlNfMkxCa1BCaG5yTWNhdC11dEt3Ukxhb2VDTXN1eUo4SjNfSk15LVdGcVFZemxQQTJYTl9GUTM0VUNwbWUtUGZSQzNpdzNCQ19EeTh6X1dvUjZiaFpnVlNFOFlyblVRWTdwc0VNd3g0Ym9qdWFjMnpRaFdBUTFmQVNYRVZWYklIVjR3VXFFdURfUkJKeVlMdVBLY2RLUzB5aGVqYjYwb2FhRThaNm1vMER0ODdaX2pLMzkxOThoblZqUkI2SmhpUEpJUXp3dw?oc=5>
+- **特朗普** | 特朗普释放可能参与2028年大选的信号 <https://news.google.com/rss/articles/CBMinwJBVV95cUxPQTBCd3hIeEpsTEtTdGQtbUtkV3A4T0E4ekJWUkdfdWlPRTdRZlU4Wmpld2hjeEFWc1o1RkhDMlBNbGdmQXc5NTFoSGJyWF9rN3pzYkRzdFJZYVVOYndkLTNTMlVQRkV2S3dyQlBQVnYtb2drWS12NUFOMkx5R1lSZS1aZ21la05uajZpY0ZpbVVzWkpXMHlEVTNOMFZpWm1qMlV5a3RtbzliU3cyQlV0RDkyQTF3NThfaml2TFg4UGUxdlZfMVBXYVJhVEZnNWRhcGM4clBtdlpHTmlPa2NHSHhQd0ZaSW1LRkVwV19pRXJJNXVCYjBfTHpBMDYwaXl3TGhIV2xHZmxNbHZKTC1udV9IRDhxSlp5QXZwelM2MA?oc=5>
 
 ### 2026-08-16 16:16  (1 条)
 
