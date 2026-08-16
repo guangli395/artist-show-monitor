@@ -1,32 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-16 21:13**
-- 本轮扫到 9783 条, 新增 **2** 条
+- 最近更新: **2026-08-16 21:42**
+- 本轮扫到 9784 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (1 条)
 
-### 打不赢、谈不拢、撤不走！特朗普嘴上要霍尔木兹海峡，内心却很虚
+### 特朗普祝贺沙特、土耳其、巴基斯坦签署《麦加联合防务协议》
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-16 20:19
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBTNTFXXzFEOFFGekZLNFprTVJFSEQ5WDR3RUJEdUpyRFFlZEoyUDhGVDJEdWpKRV9VMThkeGl2ZFFudDF5YmszX2hpLUNsbjZNY0V1WUp3OXUxSm5UVFdGN3VVaHZkYXBmT25oQTczZGoxd2JRWXN0MA?oc=5>
-
-### 新关税将生效 美加谈判仍无突破 加乐观情绪消退
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 文学城
-- 时间: 2026-08-16 20:50
-- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxNWHByZjdTMnl0SElUVUNpajlYNm9aLTFfSHpMY1hCdm5oZko5c29YNVJPb0hVdHNIalVDMFJvN3owaFhVa0dDZGYxN0JZdy01QklXRjlCM3NEU2NDR2J0a2xwbndMZWNGcHZWLXRpVi0tX05KaVdjQzhoT0lFcHE2cA?oc=5>
+- 场馆: video.sina.com.cn
+- 时间: 2026-08-16 21:29
+- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ2EwV3FJdi1wUl8zdFVKYWg2QlBRYnYtOFZ2bDdBamdRZ29DY2xobDR0TER5TXJZYm9TS2lPelVfM3piZDBlRGZrN0lES1oxUE92QkpxeWlNTXYyVUIycFBZcEo2STVGUXpOV1hmWTdwVU9WSm5uU1VJRmhudVEyTkxR?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-16 21:42  (1 条)
+
+- **特朗普** | 特朗普祝贺沙特、土耳其、巴基斯坦签署《麦加联合防务协议》 <https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ2EwV3FJdi1wUl8zdFVKYWg2QlBRYnYtOFZ2bDdBamdRZ29DY2xobDR0TER5TXJZYm9TS2lPelVfM3piZDBlRGZrN0lES1oxUE92QkpxeWlNTXYyVUIycFBZcEo2STVGUXpOV1hmWTdwVU9WSm5uU1VJRmhudVEyTkxR?oc=5>
 
 ### 2026-08-16 21:13  (2 条)
 
