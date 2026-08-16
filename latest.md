@@ -1,39 +1,13 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-16 18:18**
-- 本轮扫到 9778 条, 新增 **3** 条
+- 最近更新: **2026-08-16 18:53**
+- 本轮扫到 9778 条, 新增 **0** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮无新增
 
-### 特朗普发布与金正恩合影
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-16 08:47
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE00cktteWtYdHhid1I4cUUtYjV1amZCaUIyTmJzMFMxQ3dCQ0RuanFBS2VhLUhZTzJmQUlNNjZ4Wl9LM3dhSF83cWhFVUh2ZG1hRmVzZFRVQW5sSnM3M0Z4eFRta3VkOWZoanBUQVVMZjZmWDVmbFE?oc=5>
-
-### 特朗普吁美民众接受油价上涨 称阻止伊朗拥核须付代价
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-08-15 08:43
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ETFYxRVRqYzBOc25aT3ZhWUo5UDVNTHBxem01d29nbkt4N00xUWFTZDhGWUtZNGdhNENpNEh6dGtYMFlwRGgzNXFDVFBUTzQwMXZqbVVFbU9ib3RuN0tlQVF4Y0x3Zw?oc=5>
-
-### 川普突晒与金正恩7年前合照 强调“相处非常融洽”
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 文学城
-- 时间: 2026-08-16 16:17
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBvbGxFOGZRTWpjWmo2RXB5Nm9LekJSVE1EZXZySTl0bFlaTE5iSm1Za3F6VVRZT280aG5LU25Da2gtRFU3YnVlVnlSbVctSGVwSzZrTG51MVp0bFNSY0I1UHZFN2JVU01Y?oc=5>
-
-
----
-
+数据库里所有演出/动态都已见过,暂无新增。
 ## 历史发现
 
 ### 2026-08-16 18:18  (3 条)
