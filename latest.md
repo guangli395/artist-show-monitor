@@ -1,32 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-16 15:43**
-- 本轮扫到 9768 条, 新增 **2** 条
+- 最近更新: **2026-08-16 16:16**
+- 本轮扫到 9769 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (1 条)
 
-### 特朗普再促参议院通过全年采用夏令时法案
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-16 15:27
-- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxOeHhxdmIyVGkwc0s5Nk9LNlJHUVIyeE1uR09UZ2sxNFZxcmFqVzNfWjBNZzdKUDlMRGVUTmlseklIVE1mLXVhMzVRempHbHBGYVdpX2xaVUNzVGlybFF5WTVWNkdVV1FIUWFCTUJpdmkyaXpkU01rUnJLSDhUbTNoZW5hSE5ubzVhOV9OdFA1V3dIWjBEaDF6dWNsa1R1MGlz?oc=5>
-
-### 特朗普发图
+### 特朗普发布与金正恩的合影
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-08-16 09:24
-- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX2d6UU1oZUs2ams3MTBNZVpRNk1EOXRQZXJtMnBXc09rZmRyclFvdGl5eFdra1h5YXg0QklDU0s2QmJJY2l4RzNrMEkteHVFMVUxaGJyZ3ZsYlBCby1Qd1pXYzlNeEVJd0doQmhuWUJQVWNaWmhkb3VDbUo0YVh2WjBRSTJ5OHZH?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-08-16 09:00
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTFBMTGFjQk1DWWNBTU9ZM05ubHM4c1hGTVd6Sjh0SXU0eHhNZmk0N1N6WnN2SjBfeFVfSnlWc0d5WEhHalk1R29Demxac0w2cFZyeWE1WENhNmtfUlpLakdjSnBseGhfb2NDeC1UNXVPbkNMUW4z?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-16 16:16  (1 条)
+
+- **特朗普** | 特朗普发布与金正恩的合影 <https://news.google.com/rss/articles/CBMidEFVX3lxTFBMTGFjQk1DWWNBTU9ZM05ubHM4c1hGTVd6Sjh0SXU0eHhNZmk0N1N6WnN2SjBfeFVfSnlWc0d5WEhHalk1R29Demxac0w2cFZyeWE1WENhNmtfUlpLakdjSnBseGhfb2NDeC1UNXVPbkNMUW4z?oc=5>
 
 ### 2026-08-16 15:43  (2 条)
 
