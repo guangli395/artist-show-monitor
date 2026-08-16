@@ -1,24 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-16 21:42**
-- 本轮扫到 9784 条, 新增 **1** 条
+- 最近更新: **2026-08-16 22:13**
+- 本轮扫到 9786 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮新发现 (2 条)
 
-### 特朗普祝贺沙特、土耳其、巴基斯坦签署《麦加联合防务协议》
+### 特朗普：欢迎沙土巴三国签署共同防务协议
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: video.sina.com.cn
-- 时间: 2026-08-16 21:29
-- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ2EwV3FJdi1wUl8zdFVKYWg2QlBRYnYtOFZ2bDdBamdRZ29DY2xobDR0TER5TXJZYm9TS2lPelVfM3piZDBlRGZrN0lES1oxUE92QkpxeWlNTXYyVUIycFBZcEo2STVGUXpOV1hmWTdwVU9WSm5uU1VJRmhudVEyTkxR?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-08-16 22:08
+- 链接: <https://news.google.com/rss/articles/CBMilwJBVV95cUxPSVFrcXBDTUdWVDZOOWR3UnlYN0JyU3lMelhHOThrZ2hPa2REUjFvMnhpMWtqc1FzRk4tY0NjV2xoVUZRS0FPTDlRTzhDUEp3ZTRicTZhdHg1dDlndzFKNzZnY0pNblZMZjNyQV9mb3lrZWVNbENxUWh2allva2c4dDNuOXhkMUpaQ1ZKd0VBOXhhVnFBMzdVLVQyd0lPdW9hakRVNXBDQzdiNlZiazJ3UTIxb2k1cWhLa19GNlF3d2JVNGd2QWJldEVRTVBuSURzeHRkdUl1UUhKR0R4VHRIZXB1Rk5xMWdiWm9rZnhubVRwY193N1hpZFdsQTJ6d3p1bjY4a3QyWl85TnBKc2R6UzIyN1NZV28?oc=5>
+
+### 特朗普：指示国防部“大幅缩减”与韩国联合军演规模
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-08-16 21:58
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Hc3lBMDhCeU5JdzZrVWEwaXR5LUdGTmJJbDNZYzRhakFfV0Q0WHg1R3J3YkJwOTNKZ1l4UEpkQjVPX01RTnFWRGF2MzRmOU00SHNXMEp2TndSbGNHdjV2Zg?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-16 22:13  (2 条)
+
+- **特朗普** | 特朗普：欢迎沙土巴三国签署共同防务协议 <https://news.google.com/rss/articles/CBMilwJBVV95cUxPSVFrcXBDTUdWVDZOOWR3UnlYN0JyU3lMelhHOThrZ2hPa2REUjFvMnhpMWtqc1FzRk4tY0NjV2xoVUZRS0FPTDlRTzhDUEp3ZTRicTZhdHg1dDlndzFKNzZnY0pNblZMZjNyQV9mb3lrZWVNbENxUWh2allva2c4dDNuOXhkMUpaQ1ZKd0VBOXhhVnFBMzdVLVQyd0lPdW9hakRVNXBDQzdiNlZiazJ3UTIxb2k1cWhLa19GNlF3d2JVNGd2QWJldEVRTVBuSURzeHRkdUl1UUhKR0R4VHRIZXB1Rk5xMWdiWm9rZnhubVRwY193N1hpZFdsQTJ6d3p1bjY4a3QyWl85TnBKc2R6UzIyN1NZV28?oc=5>
+- **特朗普** | 特朗普：指示国防部“大幅缩减”与韩国联合军演规模 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Hc3lBMDhCeU5JdzZrVWEwaXR5LUdGTmJJbDNZYzRhakFfV0Q0WHg1R3J3YkJwOTNKZ1l4UEpkQjVPX01RTnFWRGF2MzRmOU00SHNXMEp2TndSbGNHdjV2Zg?oc=5>
 
 ### 2026-08-16 21:42  (1 条)
 
