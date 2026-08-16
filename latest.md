@@ -1,27 +1,11 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-16 13:08**
-- 本轮扫到 9758 条, 新增 **4** 条
+- 最近更新: **2026-08-16 13:50**
+- 本轮扫到 9762 条, 新增 **4** 条
 
 ---
 
 ## 本轮新发现 (4 条)
-
-### 英伟达5000亿AI融资计划暗藏隐忧，特朗普顾问警示“暗GPU”过剩风险
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-16 12:22
-- 链接: <https://news.google.com/rss/articles/CBMi_gFBVV95cUxPWV9RLXNHckUtUFNqM1FOVWFEVFlnQjlwUlU0cmRlSk0xRExhZ09vLU13ZGhSWE1sbGpfTDhteV9QaHZpYlk2M0hybkctVFFrcUtVUjFTTEh1ZV93UjFBaW5qc0pLalRqR3RmM0JEeUZsUERUT2ZhbER0a2lkc0VkYUJXX1RYbVJoRXByTTFkR2w0Y3JEcUVnM2FqeGRJdHNUbnJ4bHBKYnZJaGZuQkNJTm9jYUF0WXd0QzFJNHFIOV9ad1hqZFhldUdaOFo4YTNPb3hjZVJCcXpFZHZlY0hrVTRaai1uRVh1V3Q4WDRhUE4wRlpMSks1WFh2Z0lPZw?oc=5>
-
-### 特朗普发布与金正恩的合影
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-16 11:16
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5Hdi1pTEh0SUlnRkZjWUVzd25aUGNGbEE0eXMtbXp3MGVyVF9wTjVpd3FRdkJrZk1SbWpjTXh2OUhqRVJCTEpUWWZ4X0ViNHdaNWJsUHA3TGtPY2NTMzNHUU4xektzQVVnMlNKTnpIcXFEaS1yQ1ZTeQ?oc=5>
 
 ### 特朗普上传与金正恩合影 或释放重启朝美会谈信号
 
@@ -29,20 +13,43 @@
 - 来源: `googlenews`
 - 场馆: 联合早报
 - 时间: 2026-08-16 05:41
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE83djFld2xPb0dRdlNtRlBmRFlzUy01VDZvdk5kTXMzQlNHcVc5V3NsYWd4cEtjVHJBTUdXcVEzOERfWnRIalBJM2gzTXo5NzM4ZzdPX2ltZTVSck5Db2dCbHpDN0p3UQ?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE14eW5aSk9VWEZMWnBVcEFTZWh5SExmcklsNEFWbGhvSTBMR0NWZ0NMQmJPd1RWLXlnRW40OGRkeklPXzdZOTBNMEM3ZmtKbTFRWllvbUt4N2pqeVRETTViWkV3LVRiTUlSVkE?oc=5>
 
-### Trump力挺加密立法，公开抨击银行阻挠 GENIUS Act和CLARITY Act
+### 史无前例：特朗普家族加密企业获银行牌照，可直接发行美元稳定币
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 富途牛牛
-- 时间: 2026-08-16 04:27
-- 链接: <https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRlVXRFVxMTlqMUVmX1FWdC1CbWViX1ozV05NczExdkphMUdHMHVfeWk0RHZXX1NvTnVZclprNkcxX1hhb0p4dFlIb0VZaU8xejdPTmdZUV80Rkd0bjJiYkQ0Y1I4eGF1SDYta2hlWmNHYUR0a0F4VlFwQXNjbzFQQkQxU25SM0N5VVJFVDJVMmRHckdmTjRGLVdkU3AzVDJYOXd6TDB3UmJpdUcwMnYtWWVNQXhRYVZLVUtqdkZwaE9xRjQ?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-16 12:50
+- 链接: <https://news.google.com/rss/articles/CBMi_wFBVV95cUxNYlQ4bXFBQ2g5dUNKX0dxZ3hTVDBKeERWMkItZ296alcxbXV4NFhPaFJ4Q1FjNXFHR2pKWFhtaXhpeFFGbDAzT29aemNQR05mQ2dNb0tUMXEybXVOUjJOcU9ja3lpVnc4bkRfdkZ4cUc4QWx6N0V1dlhqWjlqZVFXZXpxQTVvY3VKUFc5WTZkT1c5YnNQam04d3VXeHp1WmZGeHhYV1R2ZFQyNjBaUE1Ydm54b3d6NU9uQmkwaG56MjdKRHpRWHhoRzBId2FmS1hybEFXWEkxZVo2VklzYkN1Z1QxVFczVFBUMDR6Z18xTkJpWmJHZGxQVjBSaEFIajQ?oc=5>
+
+### 特朗普再促参议院通过全年采用夏令时法案
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-08-16 10:02
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE5rSWRrbXhBSWNlNmYtSEVmSVlvY0NZMUhibDdWX3NTUERzSDVtT1VaVERJaGh3QWl1ZnJYRG9aQ2ZnTTM0WGRQSzF5bmExLTk3OW5jc2pLSThIX1J5OUtWWklTMDlyb3k4UHc1WDVQNTE2bVpZY0N2VEhwOF9rbjA?oc=5>
+
+### 特朗普再促参议院通过全年采用夏令时法案
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 搜狐网
+- 时间: 2026-08-16 12:29
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQXhVeWF3MHVNeXRXUDdRVjRIZVVXWUxCNldsNlF5MDNqaldMbjZVX3Z5X1pjY2VLVElTbjR1RHd1b0JLci10MUkzdG04TldmNDA0SGI4N1JCbG9fcWJHbnloY0g2X090X0M0Mzd5cmx2NVhLY0VJV0lWcEkydG5taEw4RkFwcnR1?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-16 13:50  (4 条)
+
+- **特朗普** | 特朗普上传与金正恩合影 或释放重启朝美会谈信号 <https://news.google.com/rss/articles/CBMiakFVX3lxTE14eW5aSk9VWEZMWnBVcEFTZWh5SExmcklsNEFWbGhvSTBMR0NWZ0NMQmJPd1RWLXlnRW40OGRkeklPXzdZOTBNMEM3ZmtKbTFRWllvbUt4N2pqeVRETTViWkV3LVRiTUlSVkE?oc=5>
+- **特朗普** | 史无前例：特朗普家族加密企业获银行牌照，可直接发行美元稳定币 <https://news.google.com/rss/articles/CBMi_wFBVV95cUxNYlQ4bXFBQ2g5dUNKX0dxZ3hTVDBKeERWMkItZ296alcxbXV4NFhPaFJ4Q1FjNXFHR2pKWFhtaXhpeFFGbDAzT29aemNQR05mQ2dNb0tUMXEybXVOUjJOcU9ja3lpVnc4bkRfdkZ4cUc4QWx6N0V1dlhqWjlqZVFXZXpxQTVvY3VKUFc5WTZkT1c5YnNQam04d3VXeHp1WmZGeHhYV1R2ZFQyNjBaUE1Ydm54b3d6NU9uQmkwaG56MjdKRHpRWHhoRzBId2FmS1hybEFXWEkxZVo2VklzYkN1Z1QxVFczVFBUMDR6Z18xTkJpWmJHZGxQVjBSaEFIajQ?oc=5>
+- **特朗普** | 特朗普再促参议院通过全年采用夏令时法案 <https://news.google.com/rss/articles/CBMif0FVX3lxTE5rSWRrbXhBSWNlNmYtSEVmSVlvY0NZMUhibDdWX3NTUERzSDVtT1VaVERJaGh3QWl1ZnJYRG9aQ2ZnTTM0WGRQSzF5bmExLTk3OW5jc2pLSThIX1J5OUtWWklTMDlyb3k4UHc1WDVQNTE2bVpZY0N2VEhwOF9rbjA?oc=5>
+- **特朗普** | 特朗普再促参议院通过全年采用夏令时法案 <https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQXhVeWF3MHVNeXRXUDdRVjRIZVVXWUxCNldsNlF5MDNqaldMbjZVX3Z5X1pjY2VLVElTbjR1RHd1b0JLci10MUkzdG04TldmNDA0SGI4N1JCbG9fcWJHbnloY0g2X090X0M0Mzd5cmx2NVhLY0VJV0lWcEkydG5taEw4RkFwcnR1?oc=5>
 
 ### 2026-08-16 13:08  (4 条)
 
