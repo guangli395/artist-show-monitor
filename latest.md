@@ -1,24 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-16 08:54**
-- 本轮扫到 9739 条, 新增 **1** 条
+- 最近更新: **2026-08-16 09:20**
+- 本轮扫到 9740 条, 新增 **1** 条
 
 ---
 
 ## 本轮新发现 (1 条)
 
-### 伊朗回应特朗普：霍尔木兹海峡开放与关闭由伊朗掌控
+### 特朗普犹太女婿干票大的！联手沙特太子，搞定3700亿史上最大杠杆并购
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-16 01:24
-- 链接: <https://news.google.com/rss/articles/CBMi7gFBVV95cUxNcHFkaUJTVkZ4RHJZMWtEVXBqWEhfX0REeDBxWmNxSkREV0hQWThwTkd2UjFFckkzN3ZkZWVvOUYwcEt1cGpwTzNEWXVVRlBncmVxOEl6ZVUzMi1DdmdUSDNjWk5qZVhnbUpxNkNja2dwTnFwYUpIYkhQUms2LXlmMHphNG1jeF9KZS1zR1hYaFBMOXhPY1FqMFV3TVpScTFzb182dy1fUm0ySzNid2tpNE1tTnIzcTMxZ0pJQ25ldmhFcms1OFJrSGh3dnpwTjdxS25kNG5zaTVfSS1LWUx5X2NXY3B5SUNCY2ZxVXdn?oc=5>
+- 场馆: QQ News
+- 时间: 2026-08-13 22:41
+- 链接: <https://news.google.com/rss/articles/CBMibEFVX3lxTE9NSXNGeUN0VXFYT0dpbmtVa3g4Ui1RUVg3Q2FGdjNoOG5FQ1BSczZFUnI3VkY3REg3ZEtDaGdYbWtHdUlObkN4WWFUVElodmdDRlhITVFfWm85ZkJSZXpvQUFCdmhnRTFNeVR0Ng?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-16 09:20  (1 条)
+
+- **特朗普** | 特朗普犹太女婿干票大的！联手沙特太子，搞定3700亿史上最大杠杆并购 <https://news.google.com/rss/articles/CBMibEFVX3lxTE9NSXNGeUN0VXFYT0dpbmtVa3g4Ui1RUVg3Q2FGdjNoOG5FQ1BSczZFUnI3VkY3REg3ZEtDaGdYbWtHdUlObkN4WWFUVElodmdDRlhITVFfWm85ZkJSZXpvQUFCdmhnRTFNeVR0Ng?oc=5>
 
 ### 2026-08-16 08:54  (1 条)
 
