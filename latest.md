@@ -1,32 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-16 22:13**
-- 本轮扫到 9786 条, 新增 **2** 条
+- 最近更新: **2026-08-16 22:44**
+- 本轮扫到 9790 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (4 条)
+
+### 特朗普：已指示国防部“大幅缩减”与韩国联合军演规模
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-08-16 22:34
+- 链接: <https://news.google.com/rss/articles/CBMiggJBVV95cUxOSTVVR252WFFTZXljU3RBVkxPMGg0UE5oejg0X190bl9Sb0VaX1dQSUl6VWZxemxiWkg5RlAzc1ZSR0x3NDNkbkFtQzhxa3ZHR0h1cGgyWVdjTTBZMEJzQnBmMHhkYTlwRDFfRnNaTl9PVWFNdEhhNlpCenBEeVhQY0JEc3pCTVJBVWVMTVBxdXhESzJvNkQzdGlBSkNUMk9JOTdENHJkWGZWc05UVlhTZUhaNTRUQ1kydFpjWmpXUXFqRG1pcVZWTHU3N1c4aHpkdjNHdUJXOVVWaVY5cnIwQk5WN3FpQ2s5THZ3M2piQmwxNmNCeGhTMkliZHBUVFNwYkE?oc=5>
 
 ### 特朗普：欢迎沙土巴三国签署共同防务协议
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪网
-- 时间: 2026-08-16 22:08
-- 链接: <https://news.google.com/rss/articles/CBMilwJBVV95cUxPSVFrcXBDTUdWVDZOOWR3UnlYN0JyU3lMelhHOThrZ2hPa2REUjFvMnhpMWtqc1FzRk4tY0NjV2xoVUZRS0FPTDlRTzhDUEp3ZTRicTZhdHg1dDlndzFKNzZnY0pNblZMZjNyQV9mb3lrZWVNbENxUWh2allva2c4dDNuOXhkMUpaQ1ZKd0VBOXhhVnFBMzdVLVQyd0lPdW9hakRVNXBDQzdiNlZiazJ3UTIxb2k1cWhLa19GNlF3d2JVNGd2QWJldEVRTVBuSURzeHRkdUl1UUhKR0R4VHRIZXB1Rk5xMWdiWm9rZnhubVRwY193N1hpZFdsQTJ6d3p1bjY4a3QyWl85TnBKc2R6UzIyN1NZV28?oc=5>
+- 时间: 2026-08-16 22:14
+- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxPazdsck45aTlneXlIWGx5X01weXp1SjRiQ3BySkwwYUJ1VG0zSEwxNzlMZFNadkk4NU8wWVpReGtocU1UaHA3MF9aV0wtNE50SDR3eERfREZQSnhWcUVaVERjVGw0QzNkRUdBTEJYSmZhOTFVR2xlY1FzWG1hRW1lOGRrVU45SVQ3dHRQcGZmbk52aTdmTDZDNzBYVGFKNnR5?oc=5>
 
-### 特朗普：指示国防部“大幅缩减”与韩国联合军演规模
+### 特朗普一纸命令，美航母退回蒸汽时代，中国却在电磁弹射越跑越远
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-08-16 21:58
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Hc3lBMDhCeU5JdzZrVWEwaXR5LUdGTmJJbDNZYzRhakFfV0Q0WHg1R3J3YkJwOTNKZ1l4UEpkQjVPX01RTnFWRGF2MzRmOU00SHNXMEp2TndSbGNHdjV2Zg?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-08-16 11:52
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE5sNTFxWldLMjlMbmp5V1JPVFV5dVpKOC1iYV9DcGtkQ1duOHZrMjA4eXJWSEpSZ2UzaDgzeENNU2Y5MUs2R3M1MkNXM251eExTcFhhR1NvLWo4YmU5SWMzWkpVSTlaOUpMamdjdjhzU2s5UQ?oc=5>
+
+### 美国官员称特朗普再次要求修改新航母设计
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 央视网
+- 时间: 2026-08-16 06:13
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5pV3J4WTNtdGRBMVhpZTlUUC1tVmZVZlppVnVvZFRYRHFROXFZMTVFSWRTYzZQUnhOSzc5MzVrWW5EcVBCWlRTelVqRDBfRFR5bkNzVTVOU1NZRHRyZlZxeGNtYnloUEZFeE9zR1k5THdkZWkwelh0LQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-16 22:44  (4 条)
+
+- **特朗普** | 特朗普：已指示国防部“大幅缩减”与韩国联合军演规模 <https://news.google.com/rss/articles/CBMiggJBVV95cUxOSTVVR252WFFTZXljU3RBVkxPMGg0UE5oejg0X190bl9Sb0VaX1dQSUl6VWZxemxiWkg5RlAzc1ZSR0x3NDNkbkFtQzhxa3ZHR0h1cGgyWVdjTTBZMEJzQnBmMHhkYTlwRDFfRnNaTl9PVWFNdEhhNlpCenBEeVhQY0JEc3pCTVJBVWVMTVBxdXhESzJvNkQzdGlBSkNUMk9JOTdENHJkWGZWc05UVlhTZUhaNTRUQ1kydFpjWmpXUXFqRG1pcVZWTHU3N1c4aHpkdjNHdUJXOVVWaVY5cnIwQk5WN3FpQ2s5THZ3M2piQmwxNmNCeGhTMkliZHBUVFNwYkE?oc=5>
+- **特朗普** | 特朗普：欢迎沙土巴三国签署共同防务协议 <https://news.google.com/rss/articles/CBMioAFBVV95cUxPazdsck45aTlneXlIWGx5X01weXp1SjRiQ3BySkwwYUJ1VG0zSEwxNzlMZFNadkk4NU8wWVpReGtocU1UaHA3MF9aV0wtNE50SDR3eERfREZQSnhWcUVaVERjVGw0QzNkRUdBTEJYSmZhOTFVR2xlY1FzWG1hRW1lOGRrVU45SVQ3dHRQcGZmbk52aTdmTDZDNzBYVGFKNnR5?oc=5>
+- **特朗普** | 特朗普一纸命令，美航母退回蒸汽时代，中国却在电磁弹射越跑越远 <https://news.google.com/rss/articles/CBMickFVX3lxTE5sNTFxWldLMjlMbmp5V1JPVFV5dVpKOC1iYV9DcGtkQ1duOHZrMjA4eXJWSEpSZ2UzaDgzeENNU2Y5MUs2R3M1MkNXM251eExTcFhhR1NvLWo4YmU5SWMzWkpVSTlaOUpMamdjdjhzU2s5UQ?oc=5>
+- **特朗普** | 美国官员称特朗普再次要求修改新航母设计 <https://news.google.com/rss/articles/CBMieEFVX3lxTE5pV3J4WTNtdGRBMVhpZTlUUC1tVmZVZlppVnVvZFRYRHFROXFZMTVFSWRTYzZQUnhOSzc5MzVrWW5EcVBCWlRTelVqRDBfRFR5bkNzVTVOU1NZRHRyZlZxeGNtYnloUEZFeE9zR1k5THdkZWkwelh0LQ?oc=5>
 
 ### 2026-08-16 22:13  (2 条)
 
