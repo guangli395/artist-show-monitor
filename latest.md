@@ -1,33 +1,19 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-16 04:58**
-- 本轮扫到 9722 条, 新增 **5** 条
+- 最近更新: **2026-08-16 05:30**
+- 本轮扫到 9725 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (3 条)
 
-### 周杰伦樊振东搭档日默瓦广告，三年二班适配MV形象
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7811248606_m1d19631de03301rp5y.html>
-
-### 特朗普苦等一年，马斯克终于回头，首富豪掷1亿美元助力中期选举
+### 安全需要？特朗普政府要最高法院“放行”宴会厅改造
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-08-16 04:37
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE1ncEFPUENvSDhlbDRLdFBhM21hYWpjS05EWTh6RWxNZHpSbXRmdU5SVmRvYndGSmI3c1AwLXdZN2J6RFZBNkxraXNDS0JYXzF2eEo2aG1WRGYyMENDTGo5UGtTSFRQMnV0TW9lX2RLdXpaZw?oc=5>
-
-### “亚洲盟友心慌：美国都成这样了，还能靠多久？”-观察者网
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-08-16 03:00
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5aVGRzc2pFaFhRRkdvcFQ4aEdYZUg0N1RSUDZPN2RwVWlCaEVONzNZMExXalB3TVlJQlRtRFZaTXpWNmFfVmtLSzZDNU02VVo1R3ZtdnRkc3RMVWhrUEc1em9qSXpzNjNTT3c?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-15 23:52
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE45R1RoQVNZT0x3OUpLcGNoUllraTVFb2c2RnZIRURmZWgwbHYzUDJOTGwtOTI3UzNwM2NxRVZSb2R2MHprR1lockNBRzFpb2hGc1BpVFFJY0hfYW10TFlObW14VVJZVnNLbWZrOGhPdnVHWDdFdnhRSA?oc=5>
 
 ### 特朗普又发旧照，称“与金正恩相处融洽”
 
@@ -35,20 +21,26 @@
 - 来源: `googlenews`
 - 场馆: QQ News
 - 时间: 2026-08-16 00:40
-- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTE5vS1BOTjZuQTdncHNhUVRReUlEaFZsVDQ0RU90Y0YzVFJOdWdaSEMxcGFremlrcFlOLU5WT2NubG82R1Z3QTFjVk95WWZuMVZBVXBzVWFLTEV1X3R5MkhSaXctLWxvbmZCOUhhMnV3?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMibEFVX3lxTFByRWN2U1A2VVgzdDkzMTl6ZUVnakxPYy1tRGlyaEMxMkhvWWZFUC1DYy1vbENJOENmOXFNcGo0VGRBc3UxWnRwZjJoUUpVYU1SRnBiNURtcVJfTXIyYkwwZHVQa2UzNzJsRDhHMg?oc=5>
 
-### 特朗普称将“很快”宣布霍尔木兹海峡为美国领土
+### 内塔尼亚胡选情告急，特朗普已读不回
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: DW.com
-- 时间: 2026-08-15 15:11
-- 链接: <https://news.google.com/rss/articles/CBMiuAJBVV95cUxONTF6Vndxd0FFeFZTSmtycW5PTzhjcGVQVGRGNVk2ajNXWjdzVWRzXy10bmVPSTdxQk5JMGpxcHBQZU4yd3VIYnNHOGltbFFkNkZ2aUZ6MUZXOHhNRlVZd2ZjeEo2RDczaFFYa3ZybTdqWGs4X29fSUwxZGxfOTlBMUR1and4ZUpzbFVELWh4OGNYVVhGOEFYN2dIdTJqVGV6MmJ1d3F5aWdpdjkwNXQ2NnRTWVllOEs5UEdfWmN6R1UwVDBLRkVhUTJtcEdUYW53MnFJR1JBeEU2NUQxUnZnd2FZaU5aTi0zaXdrQ3NmVXZScDVWdXpaRVVacFR5QWg1UWZEeV9fOU0yM2M1TVJrSlh0Z1AzOUNxTXJfMHJJMkgtUm5hbUwzMDk3VlB0QWVGOTJOSUZpUXPSAbgCQVVfeXFMTjUxelZ3cXdBRXhWU0prcnFuT084Y3BlUFRkRjVZNmozV1o3c1Vkc18tdG5lT0k3cUJOSTBqcXBwUGVOMnd1SGJzRzhpbWxRZDZGdmlGejFGVzh4TUZVWXdmY3hKNkQ3M2hRWGt2cm03alhrOF9vX0lMMWRsXzk5QTFEdWp3eGVKc2xVRC1oeDhjWFVYRjhBWDdnSHUyalRlejJidXdxeWlnaXY5MDV0NjZ0U1lZZThLOVBHX1pjekdVMFQwS0ZFYVEybXBHVGFudzJxSUdSQXhFNjVEMVJ2Z3dhWWlOWk4tM2l3a0NzZlV2UnA1VnV6WkVVWnBUeUFoNVFmRHlfXzlNMjNjNU1Sa0pYdGdQMzlDcU1yXzBySTJILVJuYW1MMzA5N1ZQdEFlRjkyTklGaVFz?oc=5>
+- 场馆: Sohu
+- 时间: 2026-08-16 04:55
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdWlXa3JSZFVGdGJ6U0JJSmxjZDd4NUFjdHRIdmctSG5sdnBaOTgtY21XOENFc0FiRzRHcUZuRjJJSFRvYzVKWVpYWHloalFDTWVZdmtUcHVTc0Z3THBQSzFYSzhtcGU2TVQtVlRVSXZIUlQ4ZGc4YVFwbEcyOE9SR3lMMVRrWk5M?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-16 05:30  (3 条)
+
+- **特朗普** | 安全需要？特朗普政府要最高法院“放行”宴会厅改造 <https://news.google.com/rss/articles/CBMieEFVX3lxTE45R1RoQVNZT0x3OUpLcGNoUllraTVFb2c2RnZIRURmZWgwbHYzUDJOTGwtOTI3UzNwM2NxRVZSb2R2MHprR1lockNBRzFpb2hGc1BpVFFJY0hfYW10TFlObW14VVJZVnNLbWZrOGhPdnVHWDdFdnhRSA?oc=5>
+- **特朗普** | 特朗普又发旧照，称“与金正恩相处融洽” <https://news.google.com/rss/articles/CBMibEFVX3lxTFByRWN2U1A2VVgzdDkzMTl6ZUVnakxPYy1tRGlyaEMxMkhvWWZFUC1DYy1vbENJOENmOXFNcGo0VGRBc3UxWnRwZjJoUUpVYU1SRnBiNURtcVJfTXIyYkwwZHVQa2UzNzJsRDhHMg?oc=5>
+- **特朗普** | 内塔尼亚胡选情告急，特朗普已读不回 <https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdWlXa3JSZFVGdGJ6U0JJSmxjZDd4NUFjdHRIdmctSG5sdnBaOTgtY21XOENFc0FiRzRHcUZuRjJJSFRvYzVKWVpYWHloalFDTWVZdmtUcHVTc0Z3THBQSzFYSzhtcGU2TVQtVlRVSXZIUlQ4ZGc4YVFwbEcyOE9SR3lMMVRrWk5M?oc=5>
 
 ### 2026-08-16 04:58  (5 条)
 
