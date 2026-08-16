@@ -1,22 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-16 08:20**
-- 本轮扫到 9738 条, 新增 **1** 条
+- 最近更新: **2026-08-16 08:54**
+- 本轮扫到 9739 条, 新增 **1** 条
 
 ---
 
 ## 本轮新发现 (1 条)
 
-### 王一博关晓彤合作的MV《二次初恋》
+### 伊朗回应特朗普：霍尔木兹海峡开放与关闭由伊朗掌控
 
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923116_1d5ae15ac06801juso.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-16 01:24
+- 链接: <https://news.google.com/rss/articles/CBMi7gFBVV95cUxNcHFkaUJTVkZ4RHJZMWtEVXBqWEhfX0REeDBxWmNxSkREV0hQWThwTkd2UjFFckkzN3ZkZWVvOUYwcEt1cGpwTzNEWXVVRlBncmVxOEl6ZVUzMi1DdmdUSDNjWk5qZVhnbUpxNkNja2dwTnFwYUpIYkhQUms2LXlmMHphNG1jeF9KZS1zR1hYaFBMOXhPY1FqMFV3TVpScTFzb182dy1fUm0ySzNid2tpNE1tTnIzcTMxZ0pJQ25ldmhFcms1OFJrSGh3dnpwTjdxS25kNG5zaTVfSS1LWUx5X2NXY3B5SUNCY2ZxVXdn?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-16 08:54  (1 条)
+
+- **特朗普** | 伊朗回应特朗普：霍尔木兹海峡开放与关闭由伊朗掌控 <https://news.google.com/rss/articles/CBMi7gFBVV95cUxNcHFkaUJTVkZ4RHJZMWtEVXBqWEhfX0REeDBxWmNxSkREV0hQWThwTkd2UjFFckkzN3ZkZWVvOUYwcEt1cGpwTzNEWXVVRlBncmVxOEl6ZVUzMi1DdmdUSDNjWk5qZVhnbUpxNkNja2dwTnFwYUpIYkhQUms2LXlmMHphNG1jeF9KZS1zR1hYaFBMOXhPY1FqMFV3TVpScTFzb182dy1fUm0ySzNid2tpNE1tTnIzcTMxZ0pJQ25ldmhFcms1OFJrSGh3dnpwTjdxS25kNG5zaTVfSS1LWUx5X2NXY3B5SUNCY2ZxVXdn?oc=5>
 
 ### 2026-08-16 08:20  (1 条)
 
