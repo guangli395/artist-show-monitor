@@ -1,14 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-16 12:25**
-- 本轮扫到 9754 条, 新增 **0** 条
+- 最近更新: **2026-08-16 13:08**
+- 本轮扫到 9758 条, 新增 **4** 条
 
 ---
 
-## 本轮无新增
+## 本轮新发现 (4 条)
 
-数据库里所有演出/动态都已见过,暂无新增。
+### 英伟达5000亿AI融资计划暗藏隐忧，特朗普顾问警示“暗GPU”过剩风险
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-16 12:22
+- 链接: <https://news.google.com/rss/articles/CBMi_gFBVV95cUxPWV9RLXNHckUtUFNqM1FOVWFEVFlnQjlwUlU0cmRlSk0xRExhZ09vLU13ZGhSWE1sbGpfTDhteV9QaHZpYlk2M0hybkctVFFrcUtVUjFTTEh1ZV93UjFBaW5qc0pLalRqR3RmM0JEeUZsUERUT2ZhbER0a2lkc0VkYUJXX1RYbVJoRXByTTFkR2w0Y3JEcUVnM2FqeGRJdHNUbnJ4bHBKYnZJaGZuQkNJTm9jYUF0WXd0QzFJNHFIOV9ad1hqZFhldUdaOFo4YTNPb3hjZVJCcXpFZHZlY0hrVTRaai1uRVh1V3Q4WDRhUE4wRlpMSks1WFh2Z0lPZw?oc=5>
+
+### 特朗普发布与金正恩的合影
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-16 11:16
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5Hdi1pTEh0SUlnRkZjWUVzd25aUGNGbEE0eXMtbXp3MGVyVF9wTjVpd3FRdkJrZk1SbWpjTXh2OUhqRVJCTEpUWWZ4X0ViNHdaNWJsUHA3TGtPY2NTMzNHUU4xektzQVVnMlNKTnpIcXFEaS1yQ1ZTeQ?oc=5>
+
+### 特朗普上传与金正恩合影 或释放重启朝美会谈信号
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-08-16 05:41
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE83djFld2xPb0dRdlNtRlBmRFlzUy01VDZvdk5kTXMzQlNHcVc5V3NsYWd4cEtjVHJBTUdXcVEzOERfWnRIalBJM2gzTXo5NzM4ZzdPX2ltZTVSck5Db2dCbHpDN0p3UQ?oc=5>
+
+### Trump力挺加密立法，公开抨击银行阻挠 GENIUS Act和CLARITY Act
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 富途牛牛
+- 时间: 2026-08-16 04:27
+- 链接: <https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRlVXRFVxMTlqMUVmX1FWdC1CbWViX1ozV05NczExdkphMUdHMHVfeWk0RHZXX1NvTnVZclprNkcxX1hhb0p4dFlIb0VZaU8xejdPTmdZUV80Rkd0bjJiYkQ0Y1I4eGF1SDYta2hlWmNHYUR0a0F4VlFwQXNjbzFQQkQxU25SM0N5VVJFVDJVMmRHckdmTjRGLVdkU3AzVDJYOXd6TDB3UmJpdUcwMnYtWWVNQXhRYVZLVUtqdkZwaE9xRjQ?oc=5>
+
+
+---
+
 ## 历史发现
+
+### 2026-08-16 13:08  (4 条)
+
+- **特朗普** | 英伟达5000亿AI融资计划暗藏隐忧，特朗普顾问警示“暗GPU”过剩风险 <https://news.google.com/rss/articles/CBMi_gFBVV95cUxPWV9RLXNHckUtUFNqM1FOVWFEVFlnQjlwUlU0cmRlSk0xRExhZ09vLU13ZGhSWE1sbGpfTDhteV9QaHZpYlk2M0hybkctVFFrcUtVUjFTTEh1ZV93UjFBaW5qc0pLalRqR3RmM0JEeUZsUERUT2ZhbER0a2lkc0VkYUJXX1RYbVJoRXByTTFkR2w0Y3JEcUVnM2FqeGRJdHNUbnJ4bHBKYnZJaGZuQkNJTm9jYUF0WXd0QzFJNHFIOV9ad1hqZFhldUdaOFo4YTNPb3hjZVJCcXpFZHZlY0hrVTRaai1uRVh1V3Q4WDRhUE4wRlpMSks1WFh2Z0lPZw?oc=5>
+- **特朗普** | 特朗普发布与金正恩的合影 <https://news.google.com/rss/articles/CBMieEFVX3lxTE5Hdi1pTEh0SUlnRkZjWUVzd25aUGNGbEE0eXMtbXp3MGVyVF9wTjVpd3FRdkJrZk1SbWpjTXh2OUhqRVJCTEpUWWZ4X0ViNHdaNWJsUHA3TGtPY2NTMzNHUU4xektzQVVnMlNKTnpIcXFEaS1yQ1ZTeQ?oc=5>
+- **特朗普** | 特朗普上传与金正恩合影 或释放重启朝美会谈信号 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE83djFld2xPb0dRdlNtRlBmRFlzUy01VDZvdk5kTXMzQlNHcVc5V3NsYWd4cEtjVHJBTUdXcVEzOERfWnRIalBJM2gzTXo5NzM4ZzdPX2ltZTVSck5Db2dCbHpDN0p3UQ?oc=5>
+- **Trump** | Trump力挺加密立法，公开抨击银行阻挠 GENIUS Act和CLARITY Act <https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRlVXRFVxMTlqMUVmX1FWdC1CbWViX1ozV05NczExdkphMUdHMHVfeWk0RHZXX1NvTnVZclprNkcxX1hhb0p4dFlIb0VZaU8xejdPTmdZUV80Rkd0bjJiYkQ0Y1I4eGF1SDYta2hlWmNHYUR0a0F4VlFwQXNjbzFQQkQxU25SM0N5VVJFVDJVMmRHckdmTjRGLVdkU3AzVDJYOXd6TDB3UmJpdUcwMnYtWWVNQXhRYVZLVUtqdkZwaE9xRjQ?oc=5>
 
 ### 2026-08-16 11:14  (2 条)
 
