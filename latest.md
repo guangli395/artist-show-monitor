@@ -1,14 +1,85 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-16 02:19**
-- 本轮扫到 9705 条, 新增 **0** 条
+- 最近更新: **2026-08-16 03:25**
+- 本轮扫到 9713 条, 新增 **8** 条
 
 ---
 
-## 本轮无新增
+## 本轮新发现 (8 条)
 
-数据库里所有演出/动态都已见过,暂无新增。
+### 蔡徐坤演唱会全裹出镜，说撕掉爱豆标签
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7811142420_m1d194931403301clqy.html>
+
+### 周杰伦歌迷表示演唱会票太难抢了
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5952915705_v162d248f906703lk8s.html>
+
+### 青岛故事丨周杰伦歌迷表示演唱会票太难抢了
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1647210043_m622e6e3b03301pbhm.html>
+
+### "备忘录" 不是命令：特朗普的电磁弹射 "倒车" 只是政治姿态
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-08-15 23:55
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE1BWG15V2M0cGpWUUVQOGtoMDMwdzFySXYtWmRVbzJPbzhHbXZpUHVNWkRnLWsyajFRNzAyUGlkU1dETVpodEdNcTJQMkh4NlZDNmJQMGlvY0hXM1dsckstRW5lSGt6NUJsTXB2RjIwRFZ3QQ?oc=5>
+
+### 特朗普又发旧照，称“与金正恩相处融洽”-观察者网
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-08-16 00:40
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9uNV9iQVVpWnJWam44OTdjeEhnSGJIUTNPTk15SnBINEhoYWI3QkRLVG5XZHBMQUZCbHl6b1FBTUF3UkpEUC1tcmlTYXByZUs3TU1fZjZ6eHQ5TkMxSnQ1VjhZZk84YWk1YUE?oc=5>
+
+### 特朗普的各项要求拖累美国海军推进工作
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-16 02:33
+- 链接: <https://news.google.com/rss/articles/CBMikwJBVV95cUxORFpTcExHNHU1QV9uMXkwYXdKWVVJaVJhWGpqMjNTM1hzbVdxRFBBS1paeGtGY0tmQjRPenFrbTFhZGFzc2ZDX2ctbE1MUFNnZkZya3MyYXlvTkpjRWQxX3Y1OHhzYkRieE9YdjE2QXpmTUFDWUUtcklEQ19vR3VtOHA1WVk5b2hSSWNtdmVaenhqeExkNUhxazJqWlIyNC1tM2pTUDd3a1NnMGZxN3ZObkh5bXhlMUNTVm94RHo3WWxOVzFZVE1lRTY0NEJEY09GYkdENTJhUHNlMkRNZHNnUm96TkY4Y1hLMDZVT0F0LVpjSnJtM3dCVzNwZjdzOHZSb0Z0VHl0V3NTdHpadjhpeWw4Zw?oc=5>
+
+### 安全需要？特朗普政府要最高法院“放行”宴会厅改造
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-16 00:25
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE15bUtBZXVGVFI2WTZMbFZfQUdCR1F4cy1URFp4Z210eXA0NkF2TmZMQ2VzLThFRVFwbjg0R0NNTl9USXR2dXRuNzVwRzdKS2Q5Um5UZjBzYkhNa1NJckxoOHVfLXNHWUdsUmNRd2NTd01NZWdqbUdEWQ?oc=5>
+
+### Trump再晒Kim Jongun照片：“我们关系非常好！”
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 아시아경제
+- 时间: 2026-08-16 00:29
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5NZ1pBeldrcUs5dlhWT2NmT2Q0ZGNleTEtTjZyb21hLVVoRFJGdnZUbFc4dzUwdldvMnIyUWZSejNyVWswZm9rbjNPVEFHdTJBZkJGOHFVdTlkeUJySFpwTWZRajQ?oc=5>
+
+
+---
+
 ## 历史发现
+
+### 2026-08-16 03:25  (8 条)
+
+- **蔡徐坤** | 蔡徐坤演唱会全裹出镜，说撕掉爱豆标签 <https://k.sina.com.cn/article_7811142420_m1d194931403301clqy.html>
+- **周杰伦** | 周杰伦歌迷表示演唱会票太难抢了 <https://k.sina.com.cn/article_5952915705_v162d248f906703lk8s.html>
+- **周杰伦** | 青岛故事丨周杰伦歌迷表示演唱会票太难抢了 <https://k.sina.com.cn/article_1647210043_m622e6e3b03301pbhm.html>
+- **特朗普** | "备忘录" 不是命令：特朗普的电磁弹射 "倒车" 只是政治姿态 <https://news.google.com/rss/articles/CBMickFVX3lxTE1BWG15V2M0cGpWUUVQOGtoMDMwdzFySXYtWmRVbzJPbzhHbXZpUHVNWkRnLWsyajFRNzAyUGlkU1dETVpodEdNcTJQMkh4NlZDNmJQMGlvY0hXM1dsckstRW5lSGt6NUJsTXB2RjIwRFZ3QQ?oc=5>
+- **特朗普** | 特朗普又发旧照，称“与金正恩相处融洽”-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE9uNV9iQVVpWnJWam44OTdjeEhnSGJIUTNPTk15SnBINEhoYWI3QkRLVG5XZHBMQUZCbHl6b1FBTUF3UkpEUC1tcmlTYXByZUs3TU1fZjZ6eHQ5TkMxSnQ1VjhZZk84YWk1YUE?oc=5>
+- **特朗普** | 特朗普的各项要求拖累美国海军推进工作 <https://news.google.com/rss/articles/CBMikwJBVV95cUxORFpTcExHNHU1QV9uMXkwYXdKWVVJaVJhWGpqMjNTM1hzbVdxRFBBS1paeGtGY0tmQjRPenFrbTFhZGFzc2ZDX2ctbE1MUFNnZkZya3MyYXlvTkpjRWQxX3Y1OHhzYkRieE9YdjE2QXpmTUFDWUUtcklEQ19vR3VtOHA1WVk5b2hSSWNtdmVaenhqeExkNUhxazJqWlIyNC1tM2pTUDd3a1NnMGZxN3ZObkh5bXhlMUNTVm94RHo3WWxOVzFZVE1lRTY0NEJEY09GYkdENTJhUHNlMkRNZHNnUm96TkY4Y1hLMDZVT0F0LVpjSnJtM3dCVzNwZjdzOHZSb0Z0VHl0V3NTdHpadjhpeWw4Zw?oc=5>
+- **特朗普** | 安全需要？特朗普政府要最高法院“放行”宴会厅改造 <https://news.google.com/rss/articles/CBMieEFVX3lxTE15bUtBZXVGVFI2WTZMbFZfQUdCR1F4cy1URFp4Z210eXA0NkF2TmZMQ2VzLThFRVFwbjg0R0NNTl9USXR2dXRuNzVwRzdKS2Q5Um5UZjBzYkhNa1NJckxoOHVfLXNHWUdsUmNRd2NTd01NZWdqbUdEWQ?oc=5>
+- **Trump** | Trump再晒Kim Jongun照片：“我们关系非常好！” <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5NZ1pBeldrcUs5dlhWT2NmT2Q0ZGNleTEtTjZyb21hLVVoRFJGdnZUbFc4dzUwdldvMnIyUWZSejNyVWswZm9rbjNPVEFHdTJBZkJGOHFVdTlkeUJySFpwTWZRajQ?oc=5>
 
 ### 2026-08-16 00:55  (1 条)
 
