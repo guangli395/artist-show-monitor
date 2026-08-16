@@ -1,24 +1,26 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-16 07:52**
-- 本轮扫到 9737 条, 新增 **1** 条
+- 最近更新: **2026-08-16 08:20**
+- 本轮扫到 9738 条, 新增 **1** 条
 
 ---
 
 ## 本轮新发现 (1 条)
 
-### 史无前例：特朗普家族加密企业获银行牌照，可直接发行美元稳定币
+### 王一博关晓彤合作的MV《二次初恋》
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-16 06:38
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxOd0M5alJyNUtOeW5zV0FvZXVyNTNWYllfdEo2aWhMX3IyTGFUZ19RMnlkbThvdzdxc3FSbkVJXzlfendMSEdzdS1BVU9HVlBsT002cGFPSEp0b1pwaGVVdFNBUDBmVFlNMjlaalhDWVNJWXAzTjJCUGZRSUJXWXo5YTVsc1N6Qjg?oc=5>
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923116_1d5ae15ac06801juso.html>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-16 08:20  (1 条)
+
+- **王一博** | 王一博关晓彤合作的MV《二次初恋》 <https://k.sina.com.cn/article_7879923116_1d5ae15ac06801juso.html>
 
 ### 2026-08-16 07:52  (1 条)
 
