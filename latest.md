@@ -1,40 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-17 16:53**
-- 本轮扫到 9876 条, 新增 **3** 条
+- 最近更新: **2026-08-17 17:21**
+- 本轮扫到 9877 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (1 条)
 
-### 特朗普总统证实与伊朗军方有非正式谈判，并敦促伊朗政权“投降”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: voachinese.com
-- 时间: 2026-08-17 15:43
-- 链接: <https://news.google.com/rss/articles/CBMi5AFBVV95cUxNS1RwY01yRkFUNUlKdFhSNzJvRXpJTzFLZENhSnBqc2VYSmMtcTI1ejFfT2tsMXR2TF9pMFVJcXFfTWZRa3YxVERNNXZtYkQ2NUxXdVVwd2Z3WFlkQmFLZFFpMmlPWnhzdUtFUHZlVEMtXzgtdjF4akh1NGhPcjNxUm8tLWc3TW9rQndVMzdhdm1Mb0xCS2hNOHhOajZnS0ZJMXhsbTZucHRtZzVIdkZwTTQ1S2FBLU9Vd25rS0JDZ0xrV0tuTk5uWDZOZWxYU09rZm1iUHBCUUlfZmtjMHYxM3lNeVfSAecBQVVfeXFMTnV2cTBmdV9XeGpWSHRvWU56cGtKRnhYT0dadVh5b3JkNWxTVXJuTzZGRFR2czZuaUh2dmt1akdkUE9mWm12RzFPdlJSSzlJcFJNa2xvMmZvWU5xazhSdlRfQ0lWLWZxVEdaVDhNOThjZVZUOFY5MUhleVRoa0xReTZrTzNOSHpJNUlHa3ZqSmJsUmd1bEI3dGVjVlVUTTlFYVVxdFlSOUgzX0toSXA2aHJqZUQ2U1lMTG5leDdmNEFCUVpFV09mUDZ5WHg2eTJpWDd4Y21EbVBWQjFwM1ZLcUl1Yjc3Smg0?oc=5>
-
-### 特朗普称“大幅缩减”美韩军演 盛赞与金正恩关系
+### 美伊和平前景渺茫 据报特朗普称不急于结束战争
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: DW.com
-- 时间: 2026-08-17 10:57
-- 链接: <https://news.google.com/rss/articles/CBMiugJBVV95cUxOSHBNc2Y3Y0p0bWJjZll3cHNtMFJlemZHYk5sQ3JCcXRvLVhuaDMtZVQ2YmRZMmJoNFBRUjB2dGQxelhLTW14VVB0OUZ5T0FmQXo2NV9PZF9WRU1YcG94cXBQbFZkSXJkdnVDZHdZMENoV0tPd2hDYlZIY251LUpuNVc3QkowejJ6bjFsMWxJX2E5UUFHZUYxQ1NRcmlVdHBucGxGSXBFbU83cmtyNE5kTm9HNXBIVHdxNnBDRHBIU0w0QlgzSGR0MFRBUmlBOWR2amJDc0F1dXdTdEZLYk9VLVRnSXJtWFQ5MjRiMGpicG9EYVhMY3JQLWJFQ0ZxQVplMG1CcnRZV1dlRmVYRzU3QmxNak1EMEo0aW9LU2xKVXpiY3paZ0xpc3oxMldZVU9GX0trc21yT0IwUdIBugJBVV95cUxOSHBNc2Y3Y0p0bWJjZll3cHNtMFJlemZHYk5sQ3JCcXRvLVhuaDMtZVQ2YmRZMmJoNFBRUjB2dGQxelhLTW14VVB0OUZ5T0FmQXo2NV9PZF9WRU1YcG94cXBQbFZkSXJkdnVDZHdZMENoV0tPd2hDYlZIY251LUpuNVc3QkowejJ6bjFsMWxJX2E5UUFHZUYxQ1NRcmlVdHBucGxGSXBFbU83cmtyNE5kTm9HNXBIVHdxNnBDRHBIU0w0QlgzSGR0MFRBUmlBOWR2amJDc0F1dXdTdEZLYk9VLVRnSXJtWFQ5MjRiMGpicG9EYVhMY3JQLWJFQ0ZxQVplMG1CcnRZV1dlRmVYRzU3QmxNak1EMEo0aW9LU2xKVXpiY3paZ0xpc3oxMldZVU9GX0trc21yT0IwUQ?oc=5>
-
-### 特朗普加密货币公司支持一家提供来自受限制中国企业AI的企业| New Day Dk007发布于币安广场
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Binance
-- 时间: 2026-08-17 13:49
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3X3VRX2tGeDAtRVBncDNqSm1kQnZ0UnEwcTZlRTdPbTNSTEVndUNyOFpGTlpZRHVYa2ZTQTQxWGpYa2o2MkFDMXpMV3Zpa1hEVzh4cDAwOXpGUE1UazFPbDd2YllpdnRV?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-17 17:15
+- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxPS2lqS21ObjlYODJmOXRfd3JBbUlfQ0pwMXFjOE11ZXJGbXRlc1lkNXZiUWdzeFlKWTVUMlktMVdNb3ZmMmFqRlo1VlAtVkVqa3pxdXJGYThRd29obVRDTkFidG1ad3hHbXFMenZBeUs2X1YxUXpvTnRtRVB1c09QZFdxTzJMM016cXc?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-17 17:21  (1 条)
+
+- **特朗普** | 美伊和平前景渺茫 据报特朗普称不急于结束战争 <https://news.google.com/rss/articles/CBMiigFBVV95cUxPS2lqS21ObjlYODJmOXRfd3JBbUlfQ0pwMXFjOE11ZXJGbXRlc1lkNXZiUWdzeFlKWTVUMlktMVdNb3ZmMmFqRlo1VlAtVkVqa3pxdXJGYThRd29obVRDTkFidG1ad3hHbXFMenZBeUs2X1YxUXpvTnRtRVB1c09QZFdxTzJMM016cXc?oc=5>
 
 ### 2026-08-17 16:53  (3 条)
 
