@@ -1,70 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-17 07:53**
-- 本轮扫到 9840 条, 新增 **7** 条
+- 最近更新: **2026-08-17 08:35**
+- 本轮扫到 9842 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (2 条)
 
-### 这些演唱会都在山东！接下来在山东你能看到凤凰传奇、周杰伦、周华健......
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1893761531_m70e081fb020036g1o.html>
-
-### 特朗普：“不满”美国早前同意参加与韩国的联合军演
+### 民调：过半选民认为特朗普任内生活状况恶化
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: finance.sina.cn
-- 时间: 2026-08-17 07:08
-- 链接: <https://news.google.com/rss/articles/CBMi7gFBVV95cUxPb1E3ZXRmekdzTmxBRXZvT2FVSEt3Qms3MGY1MWxCUHB2YUQwTlNBZmYwX1JSTV96SXZPX3dNcjJHTjRrTnRtbWY0aFJTeXVoM0tIVlNHWk1BdC1iRlV0TlpHSzQzSjFVQVlZSzJxTUtqTTBvd0ZoSUYyT2RZTHhscktBY1RESGhBTDRwTmNpT3JZREdjYlhXMWtqN0VGRFdGSF83SWR5dUU1aUZqV0luUWpLa2tON1I0QnA1YjlUNnI0U1UwUkVGd2tOb21TV3hqMzllVmFQeFhlR0k5SDRUU3dqcTBnU3h2UFpkSm9B?oc=5>
+- 场馆: 联合早报
+- 时间: 2026-08-17 01:11
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5lWVExU3hYajUzNEFaMlRCTW1EVmR4QWxYdV9NZVNQU19NdjFmMlhTSDhQQVlRQ0laaDNkZ3Q4LWFzNlNIbWgzVUNrOExnTl9KUzMtYjAycWEtR3k0aVVORnZBcGt0dw?oc=5>
 
-### 8月17日周末要闻：特朗普“不满”与韩联合军演 原油小幅走高 伊朗禁止美军进入霍尔木兹海峡
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: finance.sina.cn
-- 时间: 2026-08-17 07:32
-- 链接: <https://news.google.com/rss/articles/CBMixwJBVV95cUxQejVVNktSeW9fR0g1b3VXcWhzS05ydXE0YUV3Yk5kT25KQW9zZEVxN1oyS29xbUlCcW5zNHJtM1dRQ2Rnd2w5RWdvQ1F6Y0VWM2J0bU14cE9uWEE4T3BOYmlSVnNCVlcwX1MtTldBMVNDUG9ZVGdqZVpOZjdtR2cxT3hndXZHb3hnc1ZfTTIyc2NpWXRkQ29pa0pvdGRQcVBpcWg3czNYZ0hycEFmNkZIcWU2RW44Y20wNEdCMHJja0NIUUw1QTdYRjFldG1qY2ZTRUpxUUYzazY5ZExkcjZxU3RtTW9DTm84VWlrb1Y1T3Q1UWdPNnhzM2p1YXd3Y3QyNzNCb3RCSnF3aWctb2FUMGxOa2h2NHJnTXlSRW54VDU3ZmtKUi1pdHdkZ2w5bFByUkVCOUxVNWJRYmpNVlFza3ZHdzZxZFU?oc=5>
-
-### 53%美国选民的财务状况在特朗普执政期间恶化
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-17 00:54
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBqV1lCTkwyU280Tlh4WDNPd001cmhwZkdqb3B0RTU4XzAxOUdwVDNkek42cHVxMkJwbF8zeE04Q1lIbVRvTlVQZVNQMnc?oc=5>
-
-### 特朗普缩减美韩军演，外媒：源于韩国对华友好
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-17 05:04
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBTVWZkVkZwUFNYSWRkTnlWZzE1NWxCV0ZTMlA2RE9qdUp2S01QM3NZbTJzQVpBalgwNEI4eDdjYWt3Tm84OGdkZUhYQQ?oc=5>
-
-### 特朗普总统命令大幅缩减美韩联合军演规模
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-08-16 23:02
-- 链接: <https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQWN0Z1NpUjlFYnZWeTRneUhnQU9hTkpyY2F1Vjh2WGZxNUtQMXFqdjZzbldVQkJLSGpycnd2dXlCNy12eW1hQXRYNHNaUkk5QVNWRzlYZE1fTlhmdGlvN1hQZHJmZTk1Z1ItMDhhakNMaThyNFZuOTFMNGNGQ3hYYVdsdEsyQ3c3TmYwMTQ1YTJlNHc2NENXeTVTa296UkdLWVVPNkxuUWNPYllKa1RpZkg4bEs4XzFDdkM0OVI3NFVTYkJkQ1NHMk5LSUNqLTNsaGYzaGRxWXRuVG9zajJqb3Uxa0ZlX0HSAecBQVVfeXFMTUFjdGdTaVI5RWJ2Vnk0Z3lIZ0FPYU5KcmNhdVY4dlhmcTVLUDFxanY2c25XVUJCS0hqcnJ3dnV5QjctdnltYUF0WDRzWlJJOUFTVkc5WGRNX05YZnRpbzdYUGRyZmU5NWdSLTA4YWpDTGk4cjRWbjkxTDRjRkN4WGFXbHRLMkN3N05mMDE0NWEyZTR3NjRDV3k1U2tvelJHS1lVTzZMblFjT2JZSmtUaWZIOGxLOF8xQ3ZDNDlSNzRVU2JCZENTRzJOS0lDai0zbGhmM2hkcVl0blRvc2oyam91MWtGZV9B?oc=5>
-
-### Trump下令缩减韩美军演…青瓦台：“期待朝美领导人友好关系促成对话”
+### 青瓦台就Trump指示缩减韩美军演称“盼促成美朝对话……韩国将发挥推动者作用”(综合)
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: 아시아경제
-- 时间: 2026-08-17 06:11
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE54UmtxcDNRVWNwU2FhQlpyTFVaN1ZrU3NnVVZpbW81MEVWbm1JZTNOeWoxOF9Wc3hHQTRNbkgwbl95RXVYcjFJTm9EUmNHWFEzMk9oQ2NrN3pmQ2R4aVlQb2dIUk8?oc=5>
+- 时间: 2026-08-17 06:20
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GQkRwbzQxMkh1TzR5UE9rbS1HSnQ3Yk53Y0x2UkFmdEJXc0Fvb0pyUVNlUElMQkcyR1gtdS1XeGRZZUstb0hycnR5Tnp1eFdYMDNJazM1emsxOHdIY2h4c0cwWTE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-17 08:35  (2 条)
+
+- **特朗普** | 民调：过半选民认为特朗普任内生活状况恶化 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5lWVExU3hYajUzNEFaMlRCTW1EVmR4QWxYdV9NZVNQU19NdjFmMlhTSDhQQVlRQ0laaDNkZ3Q4LWFzNlNIbWgzVUNrOExnTl9KUzMtYjAycWEtR3k0aVVORnZBcGt0dw?oc=5>
+- **Trump** | 青瓦台就Trump指示缩减韩美军演称“盼促成美朝对话……韩国将发挥推动者作用”(综合) <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GQkRwbzQxMkh1TzR5UE9rbS1HSnQ3Yk53Y0x2UkFmdEJXc0Fvb0pyUVNlUElMQkcyR1gtdS1XeGRZZUstb0hycnR5Tnp1eFdYMDNJazM1emsxOHdIY2h4c0cwWTE?oc=5>
 
 ### 2026-08-17 07:53  (7 条)
 
