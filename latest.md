@@ -1,23 +1,13 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-17 20:51**
-- 本轮扫到 9891 条, 新增 **1** 条
+- 最近更新: **2026-08-17 21:19**
+- 本轮扫到 9891 条, 新增 **0** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮无新增
 
-### 特朗普中东特使与多方会面 推动加沙和平计划
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: zaobao.com
-- 时间: 2026-08-16 14:55
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ZYUZMNXlNemtRMm1WTnlTWWFyNHZoYW9uM1lRSFNORlBNM0JWczV5eHA0UWdJMjlJQ1ZYUmZ5WFBfcVBBUmROa20tMmlWekpYLXhDLXJLX0kwaW9TWmVWSWJYbGx0Zw?oc=5>
-
-
----
-
+数据库里所有演出/动态都已见过,暂无新增。
 ## 历史发现
 
 ### 2026-08-17 20:51  (1 条)
