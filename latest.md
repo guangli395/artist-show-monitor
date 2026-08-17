@@ -1,24 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-17 10:25**
-- 本轮扫到 9850 条, 新增 **1** 条
+- 最近更新: **2026-08-17 10:55**
+- 本轮扫到 9853 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮新发现 (3 条)
 
-### 美加加紧磋商，力争在特朗普50%关税生效前达成协议
+### 特朗普没料到，刚要对中国来硬的，回头一看硅谷巨头集体倒戈？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-17 07:19
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRHZTcjlFb1RIMjJkUTh3RFo3aWhwVm1VX3huRXl4TFQ5S21IRTY2czJxMWp1NVRTUWtCdlVBbFQ5YlBZZGs1M3dJNnotRWs1SFNYWklqd1lmRUdTa2pOQ1NmaVpONExZd3IzV2pDcmJMWG9ZQ3M1M2RKRDd0cVFYM1otaWM2TnhoMmkwaUtRU3Q4SGRFMGZlQVltd3pfTjlZa2NxUE5KclJFOVJRNlExUExHTGtDSVN6R0F4bzVPcnRhN3FueTlLVFkxU3pCTVVrUFZvNnd2MEhINi1iWUNn?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-08-17 09:27
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1MbEhNM19aYXFndkpLYnRRamJLMTAzb3YxT1pFeEZ4Y0Z1Q01CMld0OUdVZWd4cTdsRzVoOGYtZzhEc1hudV9nc1IteVFGSnhnZUZOcWg5V1BfZzRZSnRiakZoUmwzaXhxTkN2MnFmT1g1MWJpalEtMGJ5TnJveVE?oc=5>
+
+### 特朗普为何突然转变对古巴态度 军事选项淡出视线
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华军事
+- 时间: 2026-08-17 07:31
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1jTHpXU2Jpc3BFN2NyLVVWZzJya2FWSkY3VEVQZzdqODhlcDNodUtFVXRQdXl1aVFpRTcxMmFZUDRSeUU2bVZwWUZBaWoyVlNXTWJBaWdWQWZwRFpXUEFFVDQyNXJ0MlFBZVVHdGJlUTA?oc=5>
+
+### 观天下丨特朗普拿美韩军演开刀 美朝对话会重启吗
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-08-17 10:07
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE83aFhaNWsxVUZWeFJzLTVWNmFoaFpsSGhmbU1rZ3ZXSDRvai1ZTWczVXh4TjBENXU5dWU4M3VpZ2J0Tm5zOGZMSHZoYW03ak9LNDFmQWVSQUhOa294YWJ1NXdhRFhFcnY2QjBhamFBQmtkLVQxejM2TS1Dc0hNVWs?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-17 10:55  (3 条)
+
+- **特朗普** | 特朗普没料到，刚要对中国来硬的，回头一看硅谷巨头集体倒戈？ <https://news.google.com/rss/articles/CBMif0FVX3lxTE1MbEhNM19aYXFndkpLYnRRamJLMTAzb3YxT1pFeEZ4Y0Z1Q01CMld0OUdVZWd4cTdsRzVoOGYtZzhEc1hudV9nc1IteVFGSnhnZUZOcWg5V1BfZzRZSnRiakZoUmwzaXhxTkN2MnFmT1g1MWJpalEtMGJ5TnJveVE?oc=5>
+- **特朗普** | 特朗普为何突然转变对古巴态度 军事选项淡出视线 <https://news.google.com/rss/articles/CBMicEFVX3lxTE1jTHpXU2Jpc3BFN2NyLVVWZzJya2FWSkY3VEVQZzdqODhlcDNodUtFVXRQdXl1aVFpRTcxMmFZUDRSeUU2bVZwWUZBaWoyVlNXTWJBaWdWQWZwRFpXUEFFVDQyNXJ0MlFBZVVHdGJlUTA?oc=5>
+- **特朗普** | 观天下丨特朗普拿美韩军演开刀 美朝对话会重启吗 <https://news.google.com/rss/articles/CBMif0FVX3lxTE83aFhaNWsxVUZWeFJzLTVWNmFoaFpsSGhmbU1rZ3ZXSDRvai1ZTWczVXh4TjBENXU5dWU4M3VpZ2J0Tm5zOGZMSHZoYW03ak9LNDFmQWVSQUhOa294YWJ1NXdhRFhFcnY2QjBhamFBQmtkLVQxejM2TS1Dc0hNVWs?oc=5>
 
 ### 2026-08-17 10:25  (1 条)
 
