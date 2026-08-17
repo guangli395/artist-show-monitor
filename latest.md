@@ -1,24 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-17 14:51**
-- 本轮扫到 9870 条, 新增 **1** 条
+- 最近更新: **2026-08-17 15:19**
+- 本轮扫到 9872 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮新发现 (2 条)
 
-### 霍尔木兹海峡，传来大消息！特朗普：如果阿曼不听话，就把他们炸个稀巴烂，伊朗当“举起白旗投降”
+### 特朗普要求伊朗举白旗投降
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-08-17 12:58
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBYXzFHUmFaNEhZdTlSVElzTVVteW95TWs2QVF1TnhPUzFTOUNYSGVtRTFyazVIT3N4MWpmdGw5Zm9LQVQ1Qm9RZGlxZDFPVVIzYnVsblVpU2pJbjVvVHM5N2JkazdFZ0c0Tlh0d0FEb3RQT2tFVTJKSg?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-08-17 12:22
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9nM0FfZnlLeERRUkVPVWs1NXgtNHEzNjhIbmtMd3BFbGlfd2JwR2lDWVptTHVLZGRnUVR1QzlWZVRTenJCY1Z0Ulc2dmo?oc=5>
+
+### 美国一“特朗普周边店”全场5折清仓 顾客减少促关门
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华军事
+- 时间: 2026-08-17 12:09
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1CczlpenF1Qm12ZkU1QlVuTU15VW1YZ1prNnhjMGtSU0N6M1VsbEhvY0FrWnJmaWxKcEp0VkxhUjBTM2E1SEJrbWJDN01SdjJkVGNRbFdkQVJSZjd0TFBOLXk3T1RlX0txQUkxZ1BWZzY?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-17 15:19  (2 条)
+
+- **特朗普** | 特朗普要求伊朗举白旗投降 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9nM0FfZnlLeERRUkVPVWs1NXgtNHEzNjhIbmtMd3BFbGlfd2JwR2lDWVptTHVLZGRnUVR1QzlWZVRTenJCY1Z0Ulc2dmo?oc=5>
+- **特朗普** | 美国一“特朗普周边店”全场5折清仓 顾客减少促关门 <https://news.google.com/rss/articles/CBMicEFVX3lxTE1CczlpenF1Qm12ZkU1QlVuTU15VW1YZ1prNnhjMGtSU0N6M1VsbEhvY0FrWnJmaWxKcEp0VkxhUjBTM2E1SEJrbWJDN01SdjJkVGNRbFdkQVJSZjd0TFBOLXk3T1RlX0txQUkxZ1BWZzY?oc=5>
 
 ### 2026-08-17 14:51  (1 条)
 
