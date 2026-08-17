@@ -1,32 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-17 15:19**
-- 本轮扫到 9872 条, 新增 **2** 条
+- 最近更新: **2026-08-17 15:47**
+- 本轮扫到 9873 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (1 条)
 
-### 特朗普要求伊朗举白旗投降
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-17 12:22
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9nM0FfZnlLeERRUkVPVWs1NXgtNHEzNjhIbmtMd3BFbGlfd2JwR2lDWVptTHVLZGRnUVR1QzlWZVRTenJCY1Z0Ulc2dmo?oc=5>
-
-### 美国一“特朗普周边店”全场5折清仓 顾客减少促关门
+### 美媒称特朗普再次要求修改新航母设计
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中华军事
-- 时间: 2026-08-17 12:09
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1CczlpenF1Qm12ZkU1QlVuTU15VW1YZ1prNnhjMGtSU0N6M1VsbEhvY0FrWnJmaWxKcEp0VkxhUjBTM2E1SEJrbWJDN01SdjJkVGNRbFdkQVJSZjd0TFBOLXk3T1RlX0txQUkxZ1BWZzY?oc=5>
+- 场馆: 新京报
+- 时间: 2026-08-16 05:15
+- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE9sc2xTNTdPdEhWdnZyTjRydDI0OG1zbkk3MTBEZ185U0lhU2VpZzFtYXZxUHN2WF9tcDRPNFlnVV82WHRWb2xtOC01QmxFMUQ5TWhsZlZpNlhoM1RYbTRua3ZR?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-17 15:47  (1 条)
+
+- **特朗普** | 美媒称特朗普再次要求修改新航母设计 <https://news.google.com/rss/articles/CBMiYkFVX3lxTE9sc2xTNTdPdEhWdnZyTjRydDI0OG1zbkk3MTBEZ185U0lhU2VpZzFtYXZxUHN2WF9tcDRPNFlnVV82WHRWb2xtOC01QmxFMUQ5TWhsZlZpNlhoM1RYbTRua3ZR?oc=5>
 
 ### 2026-08-17 15:19  (2 条)
 
