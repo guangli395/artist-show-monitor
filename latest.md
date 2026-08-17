@@ -1,40 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-17 20:18**
-- 本轮扫到 9890 条, 新增 **3** 条
+- 最近更新: **2026-08-17 20:51**
+- 本轮扫到 9891 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (1 条)
 
-### Trump Crypto Meeting Could Shape Policy Signals for Bitcoin and US Stocks
+### 特朗普中东特使与多方会面 推动加沙和平计划
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: CryptoRank
-- 时间: 2026-08-17 12:48
-- 链接: <https://news.google.com/rss/articles/CBMitAFBVV95cUxONEFzRFZuczk4RGd4bDBjSXBIaV93MDRfX1lPOTMzNUNYQzlhS1BNcHk3UDYtZ29mSlhhLTBxYVVibkR1MUhuUUtGVUdYdnFLWUY5N2l0elAwOVZqdDNvX2JodGlpZjY3SUJzLUFtVXVwT2xfb0FZU1h5Nm01NkNyR3o1ODRBMEFkeTJVeFNqbWZkZjB5bl9Xd1FfajBIU3lJaDgxLUZBekhJNTdVSnhkdE1paFA?oc=5>
-
-### 伊朗称“转向全面进攻”……Trump：“举起投降白旗”
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 아시아경제
-- 时间: 2026-08-17 15:32
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE84NHJBRC1QZ3BabG4xcTh3SDdMUm1nUFZEZmFiN2ZSMGpyRlk1U3BqaGRsN1FyeHJaXzJZSjF6ZTVKODRmR3dhYVlyVUljV3NvZWhvam5nNFRxcmVLUWNrZDF5LTM?oc=5>
-
-### Micron Stock Breaks $1,000 After Key Move by Trump Administration -- Barrons.com
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-08-17 14:11
-- 链接: <https://news.google.com/rss/articles/CBMirwFBVV95cUxPTWJPaTFIU3ozaTR4UDlrdzE0MlEwUmVYYXctTEtnQ1ZlUTZzN0JkV0FzSndudUJoclhCSWV1TkhLLVVrRkxuWDl4UURqb2pBS3dBcHJWbW9SVDU5V2g5cERUZS1GUHNuSnJQYkg5Vmh3dWw1N2tUS1pBTkpPTHdFZ2RMT0lDSUVUVzdZN2xxaTd3RVgxY2dDZk94T3RSeFdlYTZuSDV4bkczdXBEREZV?oc=5>
+- 场馆: zaobao.com
+- 时间: 2026-08-16 14:55
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ZYUZMNXlNemtRMm1WTnlTWWFyNHZoYW9uM1lRSFNORlBNM0JWczV5eHA0UWdJMjlJQ1ZYUmZ5WFBfcVBBUmROa20tMmlWekpYLXhDLXJLX0kwaW9TWmVWSWJYbGx0Zw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-17 20:51  (1 条)
+
+- **特朗普** | 特朗普中东特使与多方会面 推动加沙和平计划 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ZYUZMNXlNemtRMm1WTnlTWWFyNHZoYW9uM1lRSFNORlBNM0JWczV5eHA0UWdJMjlJQ1ZYUmZ5WFBfcVBBUmROa20tMmlWekpYLXhDLXJLX0kwaW9TWmVWSWJYbGx0Zw?oc=5>
 
 ### 2026-08-17 20:18  (3 条)
 
