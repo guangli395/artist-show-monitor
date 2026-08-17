@@ -1,24 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-17 17:21**
-- 本轮扫到 9877 条, 新增 **1** 条
+- 最近更新: **2026-08-17 17:52**
+- 本轮扫到 9879 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮新发现 (2 条)
 
-### 美伊和平前景渺茫 据报特朗普称不急于结束战争
+### 美加加紧磋商，力争在特朗普50%关税生效前达成协议
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-17 17:15
-- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxPS2lqS21ObjlYODJmOXRfd3JBbUlfQ0pwMXFjOE11ZXJGbXRlc1lkNXZiUWdzeFlKWTVUMlktMVdNb3ZmMmFqRlo1VlAtVkVqa3pxdXJGYThRd29obVRDTkFidG1ad3hHbXFMenZBeUs2X1YxUXpvTnRtRVB1c09QZFdxTzJMM016cXc?oc=5>
+- 场馆: finance.sina.com.cn
+- 时间: 2026-08-17 07:19
+- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxNT09CV3JUSWxoYkN0T3pVNlMyNFdoaGgtX0hFbkh3TDgtQWFBR0FRVC15NFE1dDRHaG14WGJuZk55cHlyOWJuM2tiR05GZ1JYS3lxXzZ4SEVNNkV0U3NRcTZhU2dzQzhhX1J0a0ZZQ0QwdEpFSlJLb3c5WjM5OHJ4Rl9mdGJlWWNHY2hXSFFFRHlvcE1FUDNtRlhvY2R6U1NwRU50YzBCY2pZWmF2VFBQYzQyWl9ici1FbEI1Mzl2NXU5VGNFTlJkTGFRSjFZYTkzTl9hV2IwSXJ4UEJzVHc?oc=5>
+
+### 特朗普称与伊朗伊斯兰革命卫队存在秘密沟通渠道
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网客户端
+- 时间: 2026-08-17 11:52
+- 链接: <https://news.google.com/rss/articles/CBMimgFBVV95cUxQaG9PeS05dkEzbTlRNkpvb0xPRE03WVg1Wl9VdktGd1lNZkRxbnd1RUxIQWNkYmdnSGd0V2VIT3NwMVVDYndFY2tGRVUySHRrV2h0VFFYaGlZRDY0c1lnUDJNZjd1UnR4YkpDTlhWcUxqUWJNN2NpQzM4M1RmM0lscG9EZXF3bXdMQmxOQ0NXSlpfUHBzMVJYZENR?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-17 17:52  (2 条)
+
+- **特朗普** | 美加加紧磋商，力争在特朗普50%关税生效前达成协议 <https://news.google.com/rss/articles/CBMi3gFBVV95cUxNT09CV3JUSWxoYkN0T3pVNlMyNFdoaGgtX0hFbkh3TDgtQWFBR0FRVC15NFE1dDRHaG14WGJuZk55cHlyOWJuM2tiR05GZ1JYS3lxXzZ4SEVNNkV0U3NRcTZhU2dzQzhhX1J0a0ZZQ0QwdEpFSlJLb3c5WjM5OHJ4Rl9mdGJlWWNHY2hXSFFFRHlvcE1FUDNtRlhvY2R6U1NwRU50YzBCY2pZWmF2VFBQYzQyWl9ici1FbEI1Mzl2NXU5VGNFTlJkTGFRSjFZYTkzTl9hV2IwSXJ4UEJzVHc?oc=5>
+- **特朗普** | 特朗普称与伊朗伊斯兰革命卫队存在秘密沟通渠道 <https://news.google.com/rss/articles/CBMimgFBVV95cUxQaG9PeS05dkEzbTlRNkpvb0xPRE03WVg1Wl9VdktGd1lNZkRxbnd1RUxIQWNkYmdnSGd0V2VIT3NwMVVDYndFY2tGRVUySHRrV2h0VFFYaGlZRDY0c1lnUDJNZjd1UnR4YkpDTlhWcUxqUWJNN2NpQzM4M1RmM0lscG9EZXF3bXdMQmxOQ0NXSlpfUHBzMVJYZENR?oc=5>
 
 ### 2026-08-17 17:21  (1 条)
 
