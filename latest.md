@@ -1,11 +1,19 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-17 12:30**
-- 本轮扫到 9859 条, 新增 **2** 条
+- 最近更新: **2026-08-17 13:34**
+- 本轮扫到 9866 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (7 条)
+
+### “她竟然更爱她的孩子而不是特朗普，我很担心”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-08-17 03:16
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9tTjJxZXBPcjRLTW5RNmlaNFlCZ1RaVW5KUWpYcTJqcG5TaWkxT0Z4WmtENy1BSEctSmQyQ0pCRUFvZTRGWTFtOXd0QUlHRndpeWFhZnlwQi1BLS1ZQXo0N2M0Y3YwSEMtamc?oc=5>
 
 ### 特朗普称与伊朗伊斯兰革命卫队存在秘密沟通渠道
 
@@ -13,20 +21,62 @@
 - 来源: `googlenews`
 - 场馆: 搜狐网
 - 时间: 2026-08-17 11:43
-- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTGZhaklPOVBpOVMweUcyNFFtNjB2aVJVb0d1WmFqVVdCR1MtLV8tZmRlTWVNa2FNVEFfUEVlalZ6bVoxS1o1SllKOHJYQXNTQ0xmNGNDZjhBbDJRcjlfY3Q0cnphOWVubERnQlN2RTBrZzZMYkhyZGZjWTFQUFp3d1VVdjIyckNaNHJr?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMinwFBVV95cUxNSGdudTZIaThuNzRSYjZmQ09Na21zb3hyeXp4aTZCamFMLUlNNDc3cDlZVlJnanY4OUxVaWphYXh1RVZxLV96SWVmYl9Wbld5TmtLZndQSDd5U2dhdjV0M0ItQjNRMmd5dmpfQnl2S0NNSWFIWnpfOC1IdmlpajJlb0J1WTBnaENCdkFSYlJiY21nYm12XzliSWRpbW9nTmc?oc=5>
 
-### 特朗普允许美国企业进行网攻 对付外国黑客犯罪分子
+### 特朗普：美国的“首要目标”是确保伊朗不能拥有核武器
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-08-16 09:37
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXNEpWQ2EtN3owUDVhMzRzdjZLbnRsWUFPWURQeTlxbGFwWkhxQzFXQTdfWExMbGVKYU1HUW5KbnhUb2t4VGFfczZpTDMzYUJPWXpDYnlURFhZX0ctQzdLWmFfU0VvUQ?oc=5>
+- 场馆: chinanews.com.cn
+- 时间: 2026-08-17 10:55
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1MNlFldlllalV5c0tsem5FQ3dnNFFyVXA1RTJPUVZvMHRJUkkwNnp3aWYwd0xIc2J2NURvNWdteHN6S3ZBUms2OUxoOVNJOGRaclJoWk1QenF3VFdtcjB6MGlHV0VpSWxw?oc=5>
+
+### 特朗普要求伊朗“举起白旗投降”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 京报网
+- 时间: 2026-08-17 12:59
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE83V05IVGhVZ090eDRFSjRZREctQ0hVa2tQZHI3Rm11UnU3aUVWTzRTM2JRdnFpLUQ5anVHZWNzNENNbWY2VnliNFU5MFI1a0lFNjlDN1lBaDNXQmJXTHc?oc=5>
+
+### 不堪伊朗战争羞辱，特朗普让韩国买单
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-08-17 11:47
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBGWC1JODVpY1ROSFg0UjJpMGxDTW16eWlXandWME9mSWpBU25NT0JnS2N0SWtqcHdRc1pHZmhRQ1ZlV1J1bHZUQm5SNV8?oc=5>
+
+### USS Donald John Trump （ ​
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: sina.cn
+- 时间: 2026-08-17 09:39
+- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTE5taDZCWnZhQ2VEaTlMT2VDaFBKbXBjWXhEc3lwUks3R0FqNnFsOXV2am9DbTZCaWpOdnEzTFRIRGxQVWdKRU53S2RYTWQ1MTgtSDQxdmNfQVRITHVBSWlfYUtaWQ?oc=5>
+
+### 美国监管机构有条件地批准了特朗普支持的加密货币公司Trump-Backed Crypto Firm的银行牌照申请
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-08-14 22:36
+- 链接: <https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWk5yS1B0Wm5udC1TUHFDR1NuNEtPMVdzQXppaHdYYkM1ZzIzbDVva0xGZXRlbG9LTjRfWlBSc1JIemFFMkRiUHpoTFVWTlNfTG9FNnpOdkxWb2xPOFhHbVJfWDFPcmcwN1lUdTVOUUxGX1RONTJmTmlCZ1NwQkpaeXlBcjVjQ1AwZHZPQjBGT1YtVWluNHJ2Yk5FbjNlWGlMYU5uazItdUhwSEdDUUxQYmVpYmU4Q3E2T3dF?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-17 13:34  (7 条)
+
+- **特朗普** | “她竟然更爱她的孩子而不是特朗普，我很担心” <https://news.google.com/rss/articles/CBMiakFVX3lxTE9tTjJxZXBPcjRLTW5RNmlaNFlCZ1RaVW5KUWpYcTJqcG5TaWkxT0Z4WmtENy1BSEctSmQyQ0pCRUFvZTRGWTFtOXd0QUlHRndpeWFhZnlwQi1BLS1ZQXo0N2M0Y3YwSEMtamc?oc=5>
+- **特朗普** | 特朗普称与伊朗伊斯兰革命卫队存在秘密沟通渠道 <https://news.google.com/rss/articles/CBMinwFBVV95cUxNSGdudTZIaThuNzRSYjZmQ09Na21zb3hyeXp4aTZCamFMLUlNNDc3cDlZVlJnanY4OUxVaWphYXh1RVZxLV96SWVmYl9Wbld5TmtLZndQSDd5U2dhdjV0M0ItQjNRMmd5dmpfQnl2S0NNSWFIWnpfOC1IdmlpajJlb0J1WTBnaENCdkFSYlJiY21nYm12XzliSWRpbW9nTmc?oc=5>
+- **特朗普** | 特朗普：美国的“首要目标”是确保伊朗不能拥有核武器 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1MNlFldlllalV5c0tsem5FQ3dnNFFyVXA1RTJPUVZvMHRJUkkwNnp3aWYwd0xIc2J2NURvNWdteHN6S3ZBUms2OUxoOVNJOGRaclJoWk1QenF3VFdtcjB6MGlHV0VpSWxw?oc=5>
+- **特朗普** | 特朗普要求伊朗“举起白旗投降” <https://news.google.com/rss/articles/CBMiXkFVX3lxTE83V05IVGhVZ090eDRFSjRZREctQ0hVa2tQZHI3Rm11UnU3aUVWTzRTM2JRdnFpLUQ5anVHZWNzNENNbWY2VnliNFU5MFI1a0lFNjlDN1lBaDNXQmJXTHc?oc=5>
+- **特朗普** | 不堪伊朗战争羞辱，特朗普让韩国买单 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBGWC1JODVpY1ROSFg0UjJpMGxDTW16eWlXandWME9mSWpBU25NT0JnS2N0SWtqcHdRc1pHZmhRQ1ZlV1J1bHZUQm5SNV8?oc=5>
+- **Trump** | USS Donald John Trump （ ​ <https://news.google.com/rss/articles/CBMiY0FVX3lxTE5taDZCWnZhQ2VEaTlMT2VDaFBKbXBjWXhEc3lwUks3R0FqNnFsOXV2am9DbTZCaWpOdnEzTFRIRGxQVWdKRU53S2RYTWQ1MTgtSDQxdmNfQVRITHVBSWlfYUtaWQ?oc=5>
+- **Trump** | 美国监管机构有条件地批准了特朗普支持的加密货币公司Trump-Backed Crypto Firm的银行牌照申请 <https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWk5yS1B0Wm5udC1TUHFDR1NuNEtPMVdzQXppaHdYYkM1ZzIzbDVva0xGZXRlbG9LTjRfWlBSc1JIemFFMkRiUHpoTFVWTlNfTG9FNnpOdkxWb2xPOFhHbVJfWDFPcmcwN1lUdTVOUUxGX1RONTJmTmlCZ1NwQkpaeXlBcjVjQ1AwZHZPQjBGT1YtVWluNHJ2Yk5FbjNlWGlMYU5uazItdUhwSEdDUUxQYmVpYmU4Q3E2T3dF?oc=5>
 
 ### 2026-08-17 12:30  (2 条)
 
