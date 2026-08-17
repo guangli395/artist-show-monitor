@@ -1,30 +1,53 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-17 05:58**
-- 本轮扫到 9829 条, 新增 **2** 条
+- 最近更新: **2026-08-17 06:57**
+- 本轮扫到 9833 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (4 条)
 
-### 王一博VOGUE MAN封面为何选择生日月发布？
+### VOGUE王大胆封面发布后网友评价如何？
 
 - 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923377_1d5ae16b106801bpso.html>
+- 链接: <https://k.sina.com.cn/article_7879923377_1d5ae16b106801bptg.html>
 
-### 干预政策、压制批评，特朗普政府将美国签证“武器化”
+### 中东三国签署防务协议 特朗普：意义重大
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-08-17 00:00
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PdGx4LWE0RlU2cVZ0MnZiM3N1cl9yMTY3eW1TTkNMMnlDc21JZ0NxbkhhWnhsV1RiTFlLdE1Sdmt5YkRBc2JnTUltRGdlUnpIdExBYnhGcDBJRkdQbUdxNG9ZcXJnQQ?oc=5>
+
+### 特朗普又要求美国海军对“福特”级航母作重大设计调整：将舰岛向舰体中部移动，此举预计将耗费数十亿美元并延长交付周期
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-08-17 06:45
+- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxPa0V1SVNMWkd4eVBFWE1GT0NNcG43NHpOSmFlYmo0OFlnZVhmWmplM3hPNDFLQnl4YnNhTUsyaEhMdWxXWmowUGJtZWd0VXFtZm92M2hoRlVyeVF2YTN6cWx3Si03dTRzV1ZkbVI1dnZmeXhzZWlIWXRId1VldGdXQ2NkZw?oc=5>
+
+### National Trump Digital Accounts价格
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-08-17 04:46
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NZkIyT3k2NmlTX09KWElybnQxazRyRURiZ3I3R3lDTFJtV1Y3RklLZExmTlZLMWxpQjlnNGRraTF2SGhONk1pNUVDcHlCUG1sR3Q1ZzVwNGdSbnN1YURZUzN0T202Rllp?oc=5>
+- 场馆: OKX
+- 时间: 2026-08-15 20:47
+- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE5UYjdxRnZoNWpjRDRiS3NDaFBMdWhvWmM1Y1BFUjVTaHo2TFRkUkgtQVNDcExSQ3dVSm9HR2VTdFZFaGNRdVBEQmxtVTRLSHpWZUlza0htX2lpMEdnMkJrNVVnS0hBcFI3SFJnV1FYWFVzRW95UElFU3VKSWc5UQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-17 06:57  (4 条)
+
+- **王一博** | VOGUE王大胆封面发布后网友评价如何？ <https://k.sina.com.cn/article_7879923377_1d5ae16b106801bptg.html>
+- **特朗普** | 中东三国签署防务协议 特朗普：意义重大 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PdGx4LWE0RlU2cVZ0MnZiM3N1cl9yMTY3eW1TTkNMMnlDc21JZ0NxbkhhWnhsV1RiTFlLdE1Sdmt5YkRBc2JnTUltRGdlUnpIdExBYnhGcDBJRkdQbUdxNG9ZcXJnQQ?oc=5>
+- **特朗普** | 特朗普又要求美国海军对“福特”级航母作重大设计调整：将舰岛向舰体中部移动，此举预计将耗费数十亿美元并延长交付周期 <https://news.google.com/rss/articles/CBMigwFBVV95cUxPa0V1SVNMWkd4eVBFWE1GT0NNcG43NHpOSmFlYmo0OFlnZVhmWmplM3hPNDFLQnl4YnNhTUsyaEhMdWxXWmowUGJtZWd0VXFtZm92M2hoRlVyeVF2YTN6cWx3Si03dTRzV1ZkbVI1dnZmeXhzZWlIWXRId1VldGdXQ2NkZw?oc=5>
+- **Trump** | National Trump Digital Accounts价格 <https://news.google.com/rss/articles/CBMifkFVX3lxTE5UYjdxRnZoNWpjRDRiS3NDaFBMdWhvWmM1Y1BFUjVTaHo2TFRkUkgtQVNDcExSQ3dVSm9HR2VTdFZFaGNRdVBEQmxtVTRLSHpWZUlza0htX2lpMEdnMkJrNVVnS0hBcFI3SFJnV1FYWFVzRW95UElFU3VKSWc5UQ?oc=5>
 
 ### 2026-08-17 05:58  (2 条)
 
