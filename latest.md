@@ -1,72 +1,98 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-17 00:53**
-- 本轮扫到 9804 条, 新增 **7** 条
+- 最近更新: **2026-08-17 02:16**
+- 本轮扫到 9813 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (9 条)
 
-### 水兵跳海是假的？特朗普回应：林肯号部署“还不够长”
+### 演唱会门票团购怎么买最划算？3大渠道实测+价格真相+避坑指南+FAQ
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-08-17 00:04
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFByN2t4YS1jcGRxaGJVQlJvUUY2NGk2NDllX3RWNS1XM05WLWVDU3FuOXdSU0c5YmVRanY0bmNfS0RKWWJCMmdMdXNsVmVFQm1hdDQ0TzZocXRJX1RDampkUldDZXc4cVRFM0ZnS0hlLXhIWDA?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7880068906_1d5b04f2a06801hszi.html>
 
-### 特朗普宣布鉴于他和金正恩“关系非常好”，美国将大幅减少美韩联合军演
+### 特朗普：已指示国防部“大幅缩减”与韩国联合军演规模
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-08-16 22:47
-- 链接: <https://news.google.com/rss/articles/CBMi1gNBVV95cUxQV3hGU2FuQWFzaG8xN2NtQ0xnLXZjTGFQM1ZXU2YzdU9GNEFEZ2VxZ3FISnlueHVMSFotb2ZHdGJSQmlWM3NxWWV6WWJtT09saWlaT3RyS1NLaW5WMmU4eHhXdS1fT1o1WGducUhOdkozT1NkbjhUczVwelk4R2xublhlNDk4ZXFCOWJycklkQUw1V09xSmxlYldTSWcwdzBLdWNsMFotSTFaUWFSdU1yQ3ZqeVVVNlFkUV9RLUdPYkZrVXBsZE81WWdGTFVnMkpZNC15b3hkLWphQ2JYRzkySi1OUkt1ckQ2NjBrUDgyNTVSVEdTZ05sUk1saVRHQmxmSWRKOExpdkJ5eFR1MFY5NzlZMENiQ2tRSE50QWJnOVhhZm9kUU5qNlBEbjBkX25YX1NPUDNUMDEzTkY1U2tQSkNCOE9XT04wWFN2Qnd5LWk3OFY1Z0VsellRQ0FLYmFOeXYxZFdpUno3XzhiaHB2NVp5UEJxN1MyZlZBRkFnTnhqa28ydUdsMVBEUWM4VFhMNmVnSTRyV0hudmkxbmp1ekVaUGdodW95VFVPMlNVcFNIdGxkSlZBTnh2cW00THZNZ0hLUl9idWxPbk5iNUZ6ajRIZkZwZw?oc=5>
+- 场馆: 央视网
+- 时间: 2026-08-17 01:17
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9yMzhTQktrV0tUeVpoM2lKZ25odEo3eURvOE14T2ZqdlVEUVM0Uk9tdUlsX1hYbXRFRUpXdDVYTEFMSDdSSWVucGRiRGZoLXljdE9NRGJZZ2h5US1leF9vS2gtTkJVLVBzYk8xSlhIenRkbmdabjR4OA?oc=5>
 
-### 强震已致289死，哥伦比亚总统：请特朗普暂停关税纾困震后经济
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-16 23:56
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBkUVMwWjhXSUxXMGhneHJqTkNoajdxMmtzZkRmbnFqV3F6ZldTck40RDR0T3hLS095SWRIVzROYlZ5UURrNVJTV0xGUHBwRjRtU19uaURTbmVEaHNKLWtTWUhfTDJkdEN0bmlpVkR5SFRFeFBfQ3pNOA?oc=5>
-
-### 航母被曝大丑闻，美州长：特朗普的回应让我非常愤怒
+### 最新民调：53%美国选民的财务状况在特朗普执政期间恶化
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-16 23:22
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1ud0lhcHRuQ2RETjhGUE01RkhOU0dyODZHUVhON0VPR2drUGVIa0FlSzdjVnJOYV9ENmNEbDNvX0RzeURUTDRUd3ZXdG0?oc=5>
+- 场馆: guancha.cn
+- 时间: 2026-08-17 00:54
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5kU0Q1MGkyd3Z2azVmb1JvZUlIUFN5UW1nTEhwWG4zWGZrVHRpTVpSMm0yVnllajZSZ2ttZDltN3hva1RzR1FvWXM4QVhoTjRQUEtvNDdVaHdjeWVzTnlsbXJNYWpsUlhQOWc?oc=5>
 
-### 美媒爆料：特朗普对福特级外观不满意，美国海军正考虑大幅调整设计，使其更接近二战时期的美国航母外形
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-08-16 05:06
-- 链接: <https://news.google.com/rss/articles/CBMihAFBVV95cUxNMVkxRkZjYWYtZjBIYzBqS3FuTG04ZVVoRm5jS3p6REtVSERhQW1qTURoTW4xUi1KMGdSR05TbVB4MlJkbWd3VmVEWlV4SjdYdS10RzJYeldMMVgtSUpUTk53eUE0ZHBhNmNPNjZPd3pNY25abmliU2NNdjI2bmE4Z1ZiaDc?oc=5>
-
-### 海湾盟友对美沮丧情绪持续上升 特朗普发文欢迎中东各国“自保”
+### 民调：过半选民认为特朗普任内生活恶化
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 环球网
-- 时间: 2026-08-16 09:18
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE51ZTBhWGNLR2hHamZoV2V2enN4YkNUWkZ1RThFVlZfR1drMzUtTGpXd2UtZGR2UWNIM0VqalVVbTZvaG5ncG43RmVTZ1dUdm41X0tzSU9VeVA?oc=5>
+- 场馆: 联合早报
+- 时间: 2026-08-17 01:11
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5qcmtwRjVOMjN5OGlvM1gxLXZLUlN3d3FoNXdIbGRLemZDUW9OaEFncGFPX0dBUFRHbm1JdHJnelFpZk9aWHNscFg4Xy1mcVQwQ0VMN1JIb3MycnNHdEJVanhfS2tKd0tQVnc?oc=5>
 
-### 国际｜特朗普背影画面引发热议：西装下的“凸起”到底是什么
+### 特朗普下周启动“钢铁之墙” 油价创历史新高
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-08-16 09:00
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5oekV4aUI2ZnVhOGd2Vzd3QzRoaWlCbEtZMTYzQWprZEJDdmJ1R1ppNGlWSWkyS2V2SmFpOVc1X2FHcWt0T3JFeXhyLW9WaVEtVGt1bXU3cFdySzRLYnR6cTU1MlY?oc=5>
+- 场馆: 中华网
+- 时间: 2026-08-17 01:14
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9wRWtTbmR3WmpXYmtUUnRnclRvN3JTN1pJV3RaRXYtNldsTVFoTUFERVI4bjhGQlJSNjFYRmxtMEFhRF84Q2lVc0R6VmQxZUJHMFFfUGZDQlpSOXh0RFgyY3RSd3RWbTJNX005bWk2NGY?oc=5>
+
+### 特朗普：欢迎沙土巴三国签署共同防务协议
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-08-16 21:38
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LdnNSeG1xcDJmbDBfLUI5Q3dLUlNLV284R1p2SHI0QzNLUzdyU1dQWjhLRWZLUVZXMHVIWXpwUXF4VjUwdWJPSTZfYktrTjdOak0xVmJiZk1VOElpOXBycA?oc=5>
+
+### 特朗普要求“大幅缩减”美韩军演规模
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-08-16 22:10
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE5BY0doZ3pJNEtfcnBMSDRyNWw5aFhvZ09nODFGei15alVnSmdOTEN0QmdwLXFmaHZ1bmsxXzk0ckFWMDFsXzM2cnM3bENLYm5Pa0s4X2xxRlUyRWRjQmpRek9TaXAtbGZNbHo2ck5DRXZFQnE4VGo0bDVJbUx6bjg?oc=5>
+
+### 特朗普“送给中国一份大礼”：美国亚洲策略再受质疑
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 纽约时报中文网
+- 时间: 2026-08-17 01:22
+- 链接: <https://news.google.com/rss/articles/CBMid0FVX3lxTE9FM1BJV2Q0TFQwMENQSW4ybG8tOTVHMktiN3BoMDNSRHJwbnZhVWtxTThhaGgyVWxwSTlzUm5rVUZOZWo1bUphME04c2JfRTZrTjRRT3p3M200S0VrVTVQQ0lHWTE2Y0NSZjFSbDFPbERTMTNEdlNZ?oc=5>
+
+### 川普期中选情亮红灯!最新民调曝"逾半美国人喊变穷"
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 文学城
+- 时间: 2026-08-17 01:48
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE91NjdXUVcxOGpVNXJWTkRscExWeS03VDZRX2ZyalVsbWpjakl4bk5hQ3JpT1h1SDRBQ0lfZGFoYTJXLU9hWWQtcDBiZTZzWGVOUURHQ0pBYmdKNGFCYW5QZUEwU2ZVZ05J?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-17 02:16  (9 条)
+
+- **周杰伦** | 演唱会门票团购怎么买最划算？3大渠道实测+价格真相+避坑指南+FAQ <https://k.sina.com.cn/article_7880068906_1d5b04f2a06801hszi.html>
+- **特朗普** | 特朗普：已指示国防部“大幅缩减”与韩国联合军演规模 <https://news.google.com/rss/articles/CBMieEFVX3lxTE9yMzhTQktrV0tUeVpoM2lKZ25odEo3eURvOE14T2ZqdlVEUVM0Uk9tdUlsX1hYbXRFRUpXdDVYTEFMSDdSSWVucGRiRGZoLXljdE9NRGJZZ2h5US1leF9vS2gtTkJVLVBzYk8xSlhIenRkbmdabjR4OA?oc=5>
+- **特朗普** | 最新民调：53%美国选民的财务状况在特朗普执政期间恶化 <https://news.google.com/rss/articles/CBMiakFVX3lxTE5kU0Q1MGkyd3Z2azVmb1JvZUlIUFN5UW1nTEhwWG4zWGZrVHRpTVpSMm0yVnllajZSZ2ttZDltN3hva1RzR1FvWXM4QVhoTjRQUEtvNDdVaHdjeWVzTnlsbXJNYWpsUlhQOWc?oc=5>
+- **特朗普** | 民调：过半选民认为特朗普任内生活恶化 <https://news.google.com/rss/articles/CBMiakFVX3lxTE5qcmtwRjVOMjN5OGlvM1gxLXZLUlN3d3FoNXdIbGRLemZDUW9OaEFncGFPX0dBUFRHbm1JdHJnelFpZk9aWHNscFg4Xy1mcVQwQ0VMN1JIb3MycnNHdEJVanhfS2tKd0tQVnc?oc=5>
+- **特朗普** | 特朗普下周启动“钢铁之墙” 油价创历史新高 <https://news.google.com/rss/articles/CBMicEFVX3lxTE9wRWtTbmR3WmpXYmtUUnRnclRvN3JTN1pJV3RaRXYtNldsTVFoTUFERVI4bjhGQlJSNjFYRmxtMEFhRF84Q2lVc0R6VmQxZUJHMFFfUGZDQlpSOXh0RFgyY3RSd3RWbTJNX005bWk2NGY?oc=5>
+- **特朗普** | 特朗普：欢迎沙土巴三国签署共同防务协议 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LdnNSeG1xcDJmbDBfLUI5Q3dLUlNLV284R1p2SHI0QzNLUzdyU1dQWjhLRWZLUVZXMHVIWXpwUXF4VjUwdWJPSTZfYktrTjdOak0xVmJiZk1VOElpOXBycA?oc=5>
+- **特朗普** | 特朗普要求“大幅缩减”美韩军演规模 <https://news.google.com/rss/articles/CBMif0FVX3lxTE5BY0doZ3pJNEtfcnBMSDRyNWw5aFhvZ09nODFGei15alVnSmdOTEN0QmdwLXFmaHZ1bmsxXzk0ckFWMDFsXzM2cnM3bENLYm5Pa0s4X2xxRlUyRWRjQmpRek9TaXAtbGZNbHo2ck5DRXZFQnE4VGo0bDVJbUx6bjg?oc=5>
+- **Trump** | 特朗普“送给中国一份大礼”：美国亚洲策略再受质疑 <https://news.google.com/rss/articles/CBMid0FVX3lxTE9FM1BJV2Q0TFQwMENQSW4ybG8tOTVHMktiN3BoMDNSRHJwbnZhVWtxTThhaGgyVWxwSTlzUm5rVUZOZWo1bUphME04c2JfRTZrTjRRT3p3M200S0VrVTVQQ0lHWTE2Y0NSZjFSbDFPbERTMTNEdlNZ?oc=5>
+- **Trump** | 川普期中选情亮红灯!最新民调曝"逾半美国人喊变穷" <https://news.google.com/rss/articles/CBMiaEFVX3lxTE91NjdXUVcxOGpVNXJWTkRscExWeS03VDZRX2ZyalVsbWpjakl4bk5hQ3JpT1h1SDRBQ0lfZGFoYTJXLU9hWWQtcDBiZTZzWGVOUURHQ0pBYmdKNGFCYW5QZUEwU2ZVZ05J?oc=5>
 
 ### 2026-08-17 00:53  (7 条)
 
