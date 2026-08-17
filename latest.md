@@ -1,88 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-17 23:16**
-- 本轮扫到 9907 条, 新增 **9** 条
+- 最近更新: **2026-08-17 23:44**
+- 本轮扫到 9912 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (9 条)
+## 本轮新发现 (5 条)
 
-### 特朗普称不寻求延长与伊朗的谅解备忘录
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-08-17 21:37
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxNRDlyUW9hejBDM05vWWtrTDhieUdyNEM4X09yRTFfa05oOXp3YUVjSC14QncxRUM3bU40VVQycTctNU5Wa05ZWENldXpPRXhsUVlRS3dWOFNKY0lfdHBxampLREZYWFpYc2FiMzAyOGFPWlNSdDdvTzE3Vk80QnRlejNSZHctODhTaWRvd196cUpua2JZMjBmOQ?oc=5>
-
-### 8月18日外盘头条：特朗普称不寻求延长与伊朗的谅解备忘录Anthropic年化营收有望突破650亿美元
+### 60天窗口期满 伊朗设“数周”最后期限 特朗普称“我不着急”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-08-17 21:30
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxNbXlES0VDZTZKNk9Pa243eFgyNXQ3SmpiaHRlbjg0b0VMS09GaDIxUWc4dXhEakY1ZWtsZjlKMmJxUG1KZDk1SlVGcjBWejA4Um9fTzZ2c1FJTWJQWHJyWS1kU3pUWEI1aExUY05XY3R6bEpRM3N2ZHlzWjFwN2xXOVNzQkppQWM?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-08-17 23:20
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1QT3NJM3dLc1hPcVhDaDNlT0NCV1Y4RjBFMldpU3pyUDVURHpFejV2ZloyWjF0bVVRaDc3aUhLeXlROXFyLVByd1F0RV84N0NWanpIbktDbVItOFpYeGxjTVZibUg0eHRDZUtuZFZJYmo?oc=5>
 
-### 民调显示特朗普支持率创第二任期内新低
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-08-17 22:46
-- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxOY0RKb3g2djFaS0FxSlVlaWdtb0xSV0w0SkJqMzlURk15c24yNE9WS1F0b0ZfTGVxaU9JN0xIOWRHMExLVVlSdTFBRWFXd0R3X1p4dGx5VUF3QWx4VF94YndLa1hIQWtVTDU5MkRISGFQeHMxQm16VlE0SXlDYVpuXzF5T29nTlBwS1Fv?oc=5>
-
-### 特朗普称金正恩已回应其“对话”请求
+### 特朗普称双方有秘密沟通渠道，伊朗革命卫队回应
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: bjnews.com.cn
-- 时间: 2026-08-17 23:03
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BV042UENJNGxXQV9LbFpmZTVNZHZuWjdEMFF0VXJqYUlxdHhmVlcxX3otcWgxWFp1V3huaWNjUG1kTHBDZ3llZHhHVmpqelJfMHFmNW5lTGE3bThoSzRpMFNib0I?oc=5>
-
-### 特朗普要求“大幅缩减”美韩军演规模
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-08-17 11:59
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9BVTR5UHktbEQyWTJwSGRWblVSTy0yQWRfMFIwNDhUZk45Szl1UC1mVGZvZGd0aVZZM0szWEl0dS1GS01qUmxKNjhkanFmbklacjNOSEVJbUZ2ZHdoc0FLZg?oc=5>
-
-### 特朗普总统命令大幅缩减美韩联合军演规模
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美国之音
+- 场馆: 凤凰网
 - 时间: 2026-08-17 22:45
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxQVGJ4Z2VyZ3BXWWZLSTdDc2RzWTcxLWRPcmxyUTQwbG84aFpMLUZmbEtsVUVoQVFHeWNybzI2MXFDNTV4dkFFV0hNcVpYOGFGRlR6c0k5eGJxQkM5SUd0dUkxaWo2ZGNNdE9rUXlVOXlkS2hsaTJVaEJfWDY1QWhibmxKZXR0NU3SAYoBQVVfeXFMUHpaVGowS3lFTy1MQjh4WmFXOGxzVFJJN0hJYjE2Y1Vvd1U4UUVwNXByNVNUckVEVG9QMmRGWDFPMVNOMWgwMmVuNmZwQ2p6SkxGdXN4UC04M1RhbkYtd3pHY0xuX0dqVDVCVmY4bkVkd2NWUmgwTGtjMEVWZHFTU1dKS1pUaFQwZ1JB?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9WUkRnTGVrb0w4WUVNdllFanBZY3c2djBWb0pOZ2hFa2lrYmNFVFpsaHBfVDhZTTYwN2dYSUY2X3JHZ0xlOHZEZDlfTWU?oc=5>
 
-### [纽约股市]Trump拒绝延长终战谅解备忘录……集体收跌- 阿视亚经济
+### 特朗普：伊朗不会达成我认为必要的那种协议
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 아시아경제
-- 时间: 2026-08-17 20:34
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1JOVQzQ1p4WmVWc3kzQ1hSQTUyYmFNLUE3akxaQThjbWRIdUdmNTUwbDJrNU5obWQ2eUFPc2I3Wm5tc2I2Q1dBZUNnVTdBNy1tREh2WDhjTWJJVllMa1VsYUFudTY?oc=5>
+- 场馆: chinanews.com.cn
+- 时间: 2026-08-17 23:33
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGUGg3NjVwVkF0TUw3LXdYVTFHNFJTc05BVHo2WFY2QmxWNHVrRThHWGVGcnI2eEU0YjByMzlqVDcwNmppLUUydUEyNzIxWmZQTmVITXE5UmF3S2tPSXdVSU9jalpTVnBB?oc=5>
 
-### 特朗普称金正恩已对美朝对话作出回应
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-08-17 23:07
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE9ndmZaU0w2MFdBSlc0c1l0X1l1ajdGNUx2SmJFcXdQZVVXY1ZlcmE1bjNYQVpKVlRnMWVidWRDZlpFd3lJOUx6UmVaWEU0WHpxWVhpcmRPc3ZGbVBDNHg4MHdpN3E3V0pTQlk3SXRGMnBrdw?oc=5>
-
-### Ondas Jumps 6%, AeroVironment, Kratos Rise as Trump Levies Tariffs on Drone Imports
+### 一年前在2025年比特币拉斯维加斯大会上，Altcoin Daily 曾询问Eric Trump、Donald Trum...
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: Moomoo
-- 时间: 2026-08-14 15:32
-- 链接: <https://news.google.com/rss/articles/CBMirwFBVV95cUxQTWVuMXctU21uU3QzR1V0MTN0QUE0MlB3M0wzYjZ3NTNMV1Mtc050YkVZVm5reDRGaGxqamtPd3pZOFhpODhoTlJzQk82TzJRTk03Sy1tUmJJUFhaMUlkV0RINjBCa0pQQllBQnRoYkdKcmU2cVVWdnh5ZURGbHRwSHBYbDByc25DVUxnOUl4WTAta0Z1aWlQdlY0SFRFYTJtenBYU0hmblFRSkdmNU1J?oc=5>
+- 时间: 2026-08-17 23:27
+- 链接: <https://news.google.com/rss/articles/CBMisAFBVV95cUxNN3E3a21iRWlkUXNBaFF4eUgxbzJOT2NyNUxpWXgycVNqbTk3cTJfMFJRN19rOHlvRkNKUXpGMXZGMzhwRW1DOUZpQVY1NkFGb0JkYWFkaTE3bnpkSGkzZmNZQm5wS0N4MlpuUXRrdXlxQkFBZnQyYmFKb3IxdS1mZDA5S0U5NW1IUFA3UU1wT0ZrdjFyZzhVZnUyYzFNak1xUmhJaVZnbkU3eGllZHpQVg?oc=5>
+
+### 特朗普政府拟恢复重罪犯持枪权
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-08-17 23:25
+- 链接: <https://news.google.com/rss/articles/CBMilwFBVV95cUxQOG5FcDZpSjNrYlFneWIyRnN2SGNTWFNKbVZxbGhyZVFGMEtYRTkyV2hUM3d1X1lKWDNpOWpMNTFNVEluRGpLNnhNWXNaS1JLY1N1TEhvd3M3WlBrVW9qcDhQdmxNal94U29CbFk3dW5TMWpSZ2NKNTloaEtNUFdxUEVqemtwYVpLbFpIT0t6aGtfMEdxNlEw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-17 23:44  (5 条)
+
+- **特朗普** | 60天窗口期满 伊朗设“数周”最后期限 特朗普称“我不着急” <https://news.google.com/rss/articles/CBMicEFVX3lxTE1QT3NJM3dLc1hPcVhDaDNlT0NCV1Y4RjBFMldpU3pyUDVURHpFejV2ZloyWjF0bVVRaDc3aUhLeXlROXFyLVByd1F0RV84N0NWanpIbktDbVItOFpYeGxjTVZibUg0eHRDZUtuZFZJYmo?oc=5>
+- **特朗普** | 特朗普称双方有秘密沟通渠道，伊朗革命卫队回应 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9WUkRnTGVrb0w4WUVNdllFanBZY3c2djBWb0pOZ2hFa2lrYmNFVFpsaHBfVDhZTTYwN2dYSUY2X3JHZ0xlOHZEZDlfTWU?oc=5>
+- **特朗普** | 特朗普：伊朗不会达成我认为必要的那种协议 <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGUGg3NjVwVkF0TUw3LXdYVTFHNFJTc05BVHo2WFY2QmxWNHVrRThHWGVGcnI2eEU0YjByMzlqVDcwNmppLUUydUEyNzIxWmZQTmVITXE5UmF3S2tPSXdVSU9jalpTVnBB?oc=5>
+- **Trump** | 一年前在2025年比特币拉斯维加斯大会上，Altcoin Daily 曾询问Eric Trump、Donald Trum... <https://news.google.com/rss/articles/CBMisAFBVV95cUxNN3E3a21iRWlkUXNBaFF4eUgxbzJOT2NyNUxpWXgycVNqbTk3cTJfMFJRN19rOHlvRkNKUXpGMXZGMzhwRW1DOUZpQVY1NkFGb0JkYWFkaTE3bnpkSGkzZmNZQm5wS0N4MlpuUXRrdXlxQkFBZnQyYmFKb3IxdS1mZDA5S0U5NW1IUFA3UU1wT0ZrdjFyZzhVZnUyYzFNak1xUmhJaVZnbkU3eGllZHpQVg?oc=5>
+- **Trump** | 特朗普政府拟恢复重罪犯持枪权 <https://news.google.com/rss/articles/CBMilwFBVV95cUxQOG5FcDZpSjNrYlFneWIyRnN2SGNTWFNKbVZxbGhyZVFGMEtYRTkyV2hUM3d1X1lKWDNpOWpMNTFNVEluRGpLNnhNWXNaS1JLY1N1TEhvd3M3WlBrVW9qcDhQdmxNal94U29CbFk3dW5TMWpSZ2NKNTloaEtNUFdxUEVqemtwYVpLbFpIT0t6aGtfMEdxNlEw?oc=5>
 
 ### 2026-08-17 23:16  (9 条)
 
