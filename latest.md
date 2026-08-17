@@ -1,40 +1,100 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-17 22:48**
-- 本轮扫到 9898 条, 新增 **3** 条
+- 最近更新: **2026-08-17 23:16**
+- 本轮扫到 9907 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (9 条)
 
-### 特朗普放狠话：阿曼敢碍事，就把他们炸个稀巴烂
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-08-17 12:04
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE95aFBJd0lOZGFvLWwySlV4R0J1VkhMaVFTdWdidVlHV1lZNmtHVkt3UWtVamZ0cHFtLU92MDJuS1p3M1dZSXU2Q3ByZ0JMZnlGOF9xT2twZ19Ma3ZnRFE3d3VvaVoxdnBGN2c?oc=5>
-
-### 特朗普女婿称美伊双方尚未达成共识
+### 特朗普称不寻求延长与伊朗的谅解备忘录
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-17 21:35
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBhSkMxRDB4dVVZUnJZLXVvbEZoa3pBbFozcFprRXlzS3hOMEloUTd0ektpNGVWLU5QeG1UekpWVlJia05JR2FnTlppQmo?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-08-17 21:37
+- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxNRDlyUW9hejBDM05vWWtrTDhieUdyNEM4X09yRTFfa05oOXp3YUVjSC14QncxRUM3bU40VVQycTctNU5Wa05ZWENldXpPRXhsUVlRS3dWOFNKY0lfdHBxampLREZYWFpYc2FiMzAyOGFPWlNSdDdvTzE3Vk80QnRlejNSZHctODhTaWRvd196cUpua2JZMjBmOQ?oc=5>
 
-### 和平委员会告诉VOA：哈马斯全面解除武装前，以色列不会撤军
+### 8月18日外盘头条：特朗普称不寻求延长与伊朗的谅解备忘录Anthropic年化营收有望突破650亿美元
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-08-17 21:30
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxNbXlES0VDZTZKNk9Pa243eFgyNXQ3SmpiaHRlbjg0b0VMS09GaDIxUWc4dXhEakY1ZWtsZjlKMmJxUG1KZDk1SlVGcjBWejA4Um9fTzZ2c1FJTWJQWHJyWS1kU3pUWEI1aExUY05XY3R6bEpRM3N2ZHlzWjFwN2xXOVNzQkppQWM?oc=5>
+
+### 民调显示特朗普支持率创第二任期内新低
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 搜狐网
+- 时间: 2026-08-17 22:46
+- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxOY0RKb3g2djFaS0FxSlVlaWdtb0xSV0w0SkJqMzlURk15c24yNE9WS1F0b0ZfTGVxaU9JN0xIOWRHMExLVVlSdTFBRWFXd0R3X1p4dGx5VUF3QWx4VF94YndLa1hIQWtVTDU5MkRISGFQeHMxQm16VlE0SXlDYVpuXzF5T29nTlBwS1Fv?oc=5>
+
+### 特朗普称金正恩已回应其“对话”请求
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: bjnews.com.cn
+- 时间: 2026-08-17 23:03
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BV042UENJNGxXQV9LbFpmZTVNZHZuWjdEMFF0VXJqYUlxdHhmVlcxX3otcWgxWFp1V3huaWNjUG1kTHBDZ3llZHhHVmpqelJfMHFmNW5lTGE3bThoSzRpMFNib0I?oc=5>
+
+### 特朗普要求“大幅缩减”美韩军演规模
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 东方财富
+- 时间: 2026-08-17 11:59
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9BVTR5UHktbEQyWTJwSGRWblVSTy0yQWRfMFIwNDhUZk45Szl1UC1mVGZvZGd0aVZZM0szWEl0dS1GS01qUmxKNjhkanFmbklacjNOSEVJbUZ2ZHdoc0FLZg?oc=5>
+
+### 特朗普总统命令大幅缩减美韩联合军演规模
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: 美国之音
-- 时间: 2026-08-17 22:22
-- 链接: <https://news.google.com/rss/articles/CBMivgFBVV95cUxOYUpKVkhKdDlzWVk1bVNpTkFKdi1hRUM3YWlsZHRsXzF6ODVOUnNHQ3hGbEU1WUx2VWxPbUlTYlpnVk5UcDc2WHdwNWoxS3hGTWUxRFY5R1RIbFpUcUo5RXFRQ1huMW5tUHNMM29RMWY1QXJ6dF82ZTRjNGlDX2Y4YzJRb1A2alVLU0I4N3JNVmpCS1BJQmhObmU3QTFrZnMySm54eGxFYWRHd3UtMzdlc0wzV3pXZTdzeXpDN0lB0gHAAUFVX3lxTE5HRmNkekRtVXZXcmNSb1pWQ1NvXzVrT1FSUmQwR09sUHlhN0d0bHVkMlBmNVF5UnRUaWp4STV1MXYwU0tadGtQNExfZHVTeE8xaWwwOXBqM2RYcWw2TmZScVI2NUlJaUNJYzNReGNHM0ZkNFFuSXFNUlk2STl4Yk1yX0gwblY1RVJnMEJtSlhZWm5kb0p6QmRyT3pWZ2lGMk9icmd2b1YtZk04NlVnd01vMzlIWUlpU3pGb1gwMUFXOQ?oc=5>
+- 时间: 2026-08-17 22:45
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxQVGJ4Z2VyZ3BXWWZLSTdDc2RzWTcxLWRPcmxyUTQwbG84aFpMLUZmbEtsVUVoQVFHeWNybzI2MXFDNTV4dkFFV0hNcVpYOGFGRlR6c0k5eGJxQkM5SUd0dUkxaWo2ZGNNdE9rUXlVOXlkS2hsaTJVaEJfWDY1QWhibmxKZXR0NU3SAYoBQVVfeXFMUHpaVGowS3lFTy1MQjh4WmFXOGxzVFJJN0hJYjE2Y1Vvd1U4UUVwNXByNVNUckVEVG9QMmRGWDFPMVNOMWgwMmVuNmZwQ2p6SkxGdXN4UC04M1RhbkYtd3pHY0xuX0dqVDVCVmY4bkVkd2NWUmgwTGtjMEVWZHFTU1dKS1pUaFQwZ1JB?oc=5>
+
+### [纽约股市]Trump拒绝延长终战谅解备忘录……集体收跌- 阿视亚经济
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 아시아경제
+- 时间: 2026-08-17 20:34
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1JOVQzQ1p4WmVWc3kzQ1hSQTUyYmFNLUE3akxaQThjbWRIdUdmNTUwbDJrNU5obWQ2eUFPc2I3Wm5tc2I2Q1dBZUNnVTdBNy1tREh2WDhjTWJJVllMa1VsYUFudTY?oc=5>
+
+### 特朗普称金正恩已对美朝对话作出回应
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 8world
+- 时间: 2026-08-17 23:07
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE9ndmZaU0w2MFdBSlc0c1l0X1l1ajdGNUx2SmJFcXdQZVVXY1ZlcmE1bjNYQVpKVlRnMWVidWRDZlpFd3lJOUx6UmVaWEU0WHpxWVhpcmRPc3ZGbVBDNHg4MHdpN3E3V0pTQlk3SXRGMnBrdw?oc=5>
+
+### Ondas Jumps 6%, AeroVironment, Kratos Rise as Trump Levies Tariffs on Drone Imports
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-08-14 15:32
+- 链接: <https://news.google.com/rss/articles/CBMirwFBVV95cUxQTWVuMXctU21uU3QzR1V0MTN0QUE0MlB3M0wzYjZ3NTNMV1Mtc050YkVZVm5reDRGaGxqamtPd3pZOFhpODhoTlJzQk82TzJRTk03Sy1tUmJJUFhaMUlkV0RINjBCa0pQQllBQnRoYkdKcmU2cVVWdnh5ZURGbHRwSHBYbDByc25DVUxnOUl4WTAta0Z1aWlQdlY0SFRFYTJtenBYU0hmblFRSkdmNU1J?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-17 23:16  (9 条)
+
+- **特朗普** | 特朗普称不寻求延长与伊朗的谅解备忘录 <https://news.google.com/rss/articles/CBMimAFBVV95cUxNRDlyUW9hejBDM05vWWtrTDhieUdyNEM4X09yRTFfa05oOXp3YUVjSC14QncxRUM3bU40VVQycTctNU5Wa05ZWENldXpPRXhsUVlRS3dWOFNKY0lfdHBxampLREZYWFpYc2FiMzAyOGFPWlNSdDdvTzE3Vk80QnRlejNSZHctODhTaWRvd196cUpua2JZMjBmOQ?oc=5>
+- **特朗普** | 8月18日外盘头条：特朗普称不寻求延长与伊朗的谅解备忘录Anthropic年化营收有望突破650亿美元 <https://news.google.com/rss/articles/CBMihwFBVV95cUxNbXlES0VDZTZKNk9Pa243eFgyNXQ3SmpiaHRlbjg0b0VMS09GaDIxUWc4dXhEakY1ZWtsZjlKMmJxUG1KZDk1SlVGcjBWejA4Um9fTzZ2c1FJTWJQWHJyWS1kU3pUWEI1aExUY05XY3R6bEpRM3N2ZHlzWjFwN2xXOVNzQkppQWM?oc=5>
+- **特朗普** | 民调显示特朗普支持率创第二任期内新低 <https://news.google.com/rss/articles/CBMiiwFBVV95cUxOY0RKb3g2djFaS0FxSlVlaWdtb0xSV0w0SkJqMzlURk15c24yNE9WS1F0b0ZfTGVxaU9JN0xIOWRHMExLVVlSdTFBRWFXd0R3X1p4dGx5VUF3QWx4VF94YndLa1hIQWtVTDU5MkRISGFQeHMxQm16VlE0SXlDYVpuXzF5T29nTlBwS1Fv?oc=5>
+- **特朗普** | 特朗普称金正恩已回应其“对话”请求 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BV042UENJNGxXQV9LbFpmZTVNZHZuWjdEMFF0VXJqYUlxdHhmVlcxX3otcWgxWFp1V3huaWNjUG1kTHBDZ3llZHhHVmpqelJfMHFmNW5lTGE3bThoSzRpMFNib0I?oc=5>
+- **特朗普** | 特朗普要求“大幅缩减”美韩军演规模 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9BVTR5UHktbEQyWTJwSGRWblVSTy0yQWRfMFIwNDhUZk45Szl1UC1mVGZvZGd0aVZZM0szWEl0dS1GS01qUmxKNjhkanFmbklacjNOSEVJbUZ2ZHdoc0FLZg?oc=5>
+- **Trump** | 特朗普总统命令大幅缩减美韩联合军演规模 <https://news.google.com/rss/articles/CBMihwFBVV95cUxQVGJ4Z2VyZ3BXWWZLSTdDc2RzWTcxLWRPcmxyUTQwbG84aFpMLUZmbEtsVUVoQVFHeWNybzI2MXFDNTV4dkFFV0hNcVpYOGFGRlR6c0k5eGJxQkM5SUd0dUkxaWo2ZGNNdE9rUXlVOXlkS2hsaTJVaEJfWDY1QWhibmxKZXR0NU3SAYoBQVVfeXFMUHpaVGowS3lFTy1MQjh4WmFXOGxzVFJJN0hJYjE2Y1Vvd1U4UUVwNXByNVNUckVEVG9QMmRGWDFPMVNOMWgwMmVuNmZwQ2p6SkxGdXN4UC04M1RhbkYtd3pHY0xuX0dqVDVCVmY4bkVkd2NWUmgwTGtjMEVWZHFTU1dKS1pUaFQwZ1JB?oc=5>
+- **Trump** | [纽约股市]Trump拒绝延长终战谅解备忘录……集体收跌- 阿视亚经济 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1JOVQzQ1p4WmVWc3kzQ1hSQTUyYmFNLUE3akxaQThjbWRIdUdmNTUwbDJrNU5obWQ2eUFPc2I3Wm5tc2I2Q1dBZUNnVTdBNy1tREh2WDhjTWJJVllMa1VsYUFudTY?oc=5>
+- **Trump** | 特朗普称金正恩已对美朝对话作出回应 <https://news.google.com/rss/articles/CBMickFVX3lxTE9ndmZaU0w2MFdBSlc0c1l0X1l1ajdGNUx2SmJFcXdQZVVXY1ZlcmE1bjNYQVpKVlRnMWVidWRDZlpFd3lJOUx6UmVaWEU0WHpxWVhpcmRPc3ZGbVBDNHg4MHdpN3E3V0pTQlk3SXRGMnBrdw?oc=5>
+- **Trump** | Ondas Jumps 6%, AeroVironment, Kratos Rise as Trump Levies Tariffs on Drone Imports <https://news.google.com/rss/articles/CBMirwFBVV95cUxQTWVuMXctU21uU3QzR1V0MTN0QUE0MlB3M0wzYjZ3NTNMV1Mtc050YkVZVm5reDRGaGxqamtPd3pZOFhpODhoTlJzQk82TzJRTk03Sy1tUmJJUFhaMUlkV0RINjBCa0pQQllBQnRoYkdKcmU2cVVWdnh5ZURGbHRwSHBYbDByc25DVUxnOUl4WTAta0Z1aWlQdlY0SFRFYTJtenBYU0hmblFRSkdmNU1J?oc=5>
 
 ### 2026-08-17 22:48  (3 条)
 
