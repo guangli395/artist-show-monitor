@@ -1,72 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-17 09:34**
-- 本轮扫到 9849 条, 新增 **7** 条
+- 最近更新: **2026-08-17 10:25**
+- 本轮扫到 9850 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (1 条)
 
-### 韩美联合军演乙支自由护盾：特朗普称将缩减规模
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-08-17 08:10
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFA2NzlBalpRWW80alBGcmVpNjVMa1FWbTVYdHI1bmFpdF85Z2xRWTJvWHhfNG1NQlB2ZF9Wc3VGZ09KMHJfcHZfNGswQmphWGl5T0RuaUNnSFFfeXVWWmpFc2p0cW9qZ9IBa0FVX3lxTE1GNzIyR3BMem4yYWs1TXpHZmtjRHRqZ3V5R2dIanZWaThwTFNEMkptUUlDbDlnU2gxYlQzT2ZfTmlKb3pUZWplcDNrQzZsMEl3ZHUyTUlTXzU1NFA4UXZMMDA5UXFJYllkQ3Ew?oc=5>
-
-### “海湾盟友对美沮丧情绪持续上升”
+### 美加加紧磋商，力争在特朗普50%关税生效前达成协议
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-08-17 08:54
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5WaXpFeVZPM0NKdUVZQ2xmbFNUT0N5OHg1Y3NUX1NfUmg3bVo2cUNYSTgwdGxjc3Bzd1hQeUtSNmd5MmlWS3p6MUFnUDdscU04VlhDNk1lT2oxSnlUUW9TZnp1YUp2RjhfVm1fQjFDZ1F4UHFvVThILQ?oc=5>
-
-### 特朗普女婿库什纳赴耶路撒冷会晤以色列总理以期推进加沙和平方案
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-08-17 08:54
-- 链接: <https://news.google.com/rss/articles/CBMixwNBVV95cUxNTm4zcmN2Wl9QQURBYVBGUnkzVzhFX1V5ajBYNHpLTkxGVHo1QWV0a1c1dGRnR3FfOVNjZFpodk1VT25DOGowYUpUZG1jVjR0WXFEZ2VlQ2Y5REZLUlVnTHR0TVJkTmRxWl83eEZDSkY2dFhtNDdaa1lsVkJiRVBkdUkxMFpUX3dlTEVTbmVGR2wxd2VUeHNfM1M0Y1RpSlF4STlOd0hRRk1HbXZrenlaSFRjaUo1dmFaenRRSkNOcW15czk3WEk1aVRBbXdZSnRqbkIxelZqNm01LVk2d0hkV0JsWlZxN1Zma010X2liSURXV05UNEd2OHN3SURKazd6VGZiV1dCRlJkUFh2OHNYQ0d4eURsbEpCc2paZE1kMVhvRGMybElSWFlZNnkxYVhUM19rMzVSTTI2YnZhZFFYSXhtMXNqZl9Uc1RWR0FuRU5OVGxOOTdLOHV2NWFTZ0d3dDJVbTQ5UmZjNUdNV09kSGhWZTNXMXU0d0paR2FXRjJUc2hoTlB4NUpUUTVOenZobkRkZzRJVmg2dzRfZnVXSXk0NEY0MTYyUG1xcUJsdzdHWHlKNlJhX3l0T1BULTZDMU85Y29sVQ?oc=5>
-
-### 牛弹琴：一觉醒来，特朗普向朝韩发出强烈信号，信息量很大
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-08-16 23:33
-- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTFBJaDFzbi1zcnRrWm5xV1hJakJRTF9GLWNYNm1qckVIN2N2cm9jZVVENjF4TXhVb1lubTVtdG91MkpELTRsUms2MGp6c2Joc2x0RHQ0TllveXZraTJCeFlTV0VzQmR2QzZ0d012bzlrelZ3VjJFUE1UM01R?oc=5>
-
-### 特朗普发声后 韩国防部称韩美军演正按计划进行
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 央广网
-- 时间: 2026-08-17 02:15
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1PTnlScnJ5SEl0aTVBQXpoUnJZVk5PaEc2T2lqOExpNlVMSXlzck54eDQ2Mnpmb3o3NVhxaGNhMmwyRjJMWDRfaVQwNFlaOVZONjhrci1rV2RMWVVzTG1aLWYtdUFUcF9J?oc=5>
-
-### 特朗普：“不满”美国早前同意参加与韩国的联合军演
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-08-16 22:28
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzLXdRX2c0TkVzZjB2emI4WUE1Wllnem1DSmdZbWdWaUN5Sm1SWmVfV0pyWjRnbUk0bTZSWjVjcjUxRFFmUkZhNHVDTy1PTy1reG5ieGdnVEtibk1fN0R4T1E3aG1KRmZO?oc=5>
-
-### $TRUMP - 看跌供应测试（期货）做空。 🎯 TP1：1.39900 🎯 TP2：1.39400 � | Crypto_Titan70发布于币安广场
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Binance
-- 时间: 2026-08-17 09:05
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rT0NNYWdNcHZLeTBkM1ZpekJFUll6V2NhZklESFRaOUt6RzV1NTN2T3ZxZ0RSXzRHOXBpYjN3VWE2YmNzU1g5cmotYjM2M1FXMW5Ob21rakVkbVF5RGtLcG9NUGxaOUIx?oc=5>
+- 时间: 2026-08-17 07:19
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRHZTcjlFb1RIMjJkUTh3RFo3aWhwVm1VX3huRXl4TFQ5S21IRTY2czJxMWp1NVRTUWtCdlVBbFQ5YlBZZGs1M3dJNnotRWs1SFNYWklqd1lmRUdTa2pOQ1NmaVpONExZd3IzV2pDcmJMWG9ZQ3M1M2RKRDd0cVFYM1otaWM2TnhoMmkwaUtRU3Q4SGRFMGZlQVltd3pfTjlZa2NxUE5KclJFOVJRNlExUExHTGtDSVN6R0F4bzVPcnRhN3FueTlLVFkxU3pCTVVrUFZvNnd2MEhINi1iWUNn?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-17 10:25  (1 条)
+
+- **特朗普** | 美加加紧磋商，力争在特朗普50%关税生效前达成协议 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRHZTcjlFb1RIMjJkUTh3RFo3aWhwVm1VX3huRXl4TFQ5S21IRTY2czJxMWp1NVRTUWtCdlVBbFQ5YlBZZGs1M3dJNnotRWs1SFNYWklqd1lmRUdTa2pOQ1NmaVpONExZd3IzV2pDcmJMWG9ZQ3M1M2RKRDd0cVFYM1otaWM2TnhoMmkwaUtRU3Q4SGRFMGZlQVltd3pfTjlZa2NxUE5KclJFOVJRNlExUExHTGtDSVN6R0F4bzVPcnRhN3FueTlLVFkxU3pCTVVrUFZvNnd2MEhINi1iWUNn?oc=5>
 
 ### 2026-08-17 09:34  (7 条)
 
