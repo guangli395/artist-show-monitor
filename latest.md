@@ -1,40 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-17 10:55**
-- 本轮扫到 9853 条, 新增 **3** 条
+- 最近更新: **2026-08-17 11:19**
+- 本轮扫到 9855 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (2 条)
 
-### 特朗普没料到，刚要对中国来硬的，回头一看硅谷巨头集体倒戈？
+### 8月17日周末要闻：特朗普“不满”与韩联合军演 原油小幅走高 伊朗禁止美军进入霍尔木兹海峡
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪网
-- 时间: 2026-08-17 09:27
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1MbEhNM19aYXFndkpLYnRRamJLMTAzb3YxT1pFeEZ4Y0Z1Q01CMld0OUdVZWd4cTdsRzVoOGYtZzhEc1hudV9nc1IteVFGSnhnZUZOcWg5V1BfZzRZSnRiakZoUmwzaXhxTkN2MnFmT1g1MWJpalEtMGJ5TnJveVE?oc=5>
+- 时间: 2026-08-16 22:33
+- 链接: <https://news.google.com/rss/articles/CBMingFBVV95cUxPS0F6TmVJdEllQjJrRlc5dGl1NjlNYkZKaEVlQTYzVC1saElOVzBsbFAxcTNMVnpNOUhFX0RYb2hDMnZNYml3YTVMZFVVZTk4Q0s5aC0temxkTGFTR2tORVBZbWVkQWIzZEYzRVZpRm43S2UwZmhNck1RazdRSmlnMW1GbzFyU1phYUNOQ3ZqWkd0SWpzYmRVaUp1bkkxdw?oc=5>
 
-### 特朗普为何突然转变对古巴态度 军事选项淡出视线
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华军事
-- 时间: 2026-08-17 07:31
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1jTHpXU2Jpc3BFN2NyLVVWZzJya2FWSkY3VEVQZzdqODhlcDNodUtFVXRQdXl1aVFpRTcxMmFZUDRSeUU2bVZwWUZBaWoyVlNXTWJBaWdWQWZwRFpXUEFFVDQyNXJ0MlFBZVVHdGJlUTA?oc=5>
-
-### 观天下丨特朗普拿美韩军演开刀 美朝对话会重启吗
+### 特朗普称美“首要目标”是确保伊朗不能拥有核武器
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-08-17 10:07
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE83aFhaNWsxVUZWeFJzLTVWNmFoaFpsSGhmbU1rZ3ZXSDRvai1ZTWczVXh4TjBENXU5dWU4M3VpZ2J0Tm5zOGZMSHZoYW03ak9LNDFmQWVSQUhOa294YWJ1NXdhRFhFcnY2QjBhamFBQmtkLVQxejM2TS1Dc0hNVWs?oc=5>
+- 场馆: 搜狐网
+- 时间: 2026-08-17 10:53
+- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSFY0ZUZSLWNfbVo5ZmRSSVdhRWFFaHhNZ1JDXzlWakxYV3ZXemM1MTNWUjVRLXcwWElfVUhxLUc3MHBmLWZ2T3pOcGNDTUI1ODR0WXpyQ2lTUjh2WlF2X1JLVjRvWU1oOXJZMEI4MWRXanVvUEJHX0tuc1FIaHlFYXF0LUJnWGp0UFFF?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-17 11:19  (2 条)
+
+- **特朗普** | 8月17日周末要闻：特朗普“不满”与韩联合军演 原油小幅走高 伊朗禁止美军进入霍尔木兹海峡 <https://news.google.com/rss/articles/CBMingFBVV95cUxPS0F6TmVJdEllQjJrRlc5dGl1NjlNYkZKaEVlQTYzVC1saElOVzBsbFAxcTNMVnpNOUhFX0RYb2hDMnZNYml3YTVMZFVVZTk4Q0s5aC0temxkTGFTR2tORVBZbWVkQWIzZEYzRVZpRm43S2UwZmhNck1RazdRSmlnMW1GbzFyU1phYUNOQ3ZqWkd0SWpzYmRVaUp1bkkxdw?oc=5>
+- **特朗普** | 特朗普称美“首要目标”是确保伊朗不能拥有核武器 <https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSFY0ZUZSLWNfbVo5ZmRSSVdhRWFFaHhNZ1JDXzlWakxYV3ZXemM1MTNWUjVRLXcwWElfVUhxLUc3MHBmLWZ2T3pOcGNDTUI1ODR0WXpyQ2lTUjh2WlF2X1JLVjRvWU1oOXJZMEI4MWRXanVvUEJHX0tuc1FIaHlFYXF0LUJnWGp0UFFF?oc=5>
 
 ### 2026-08-17 10:55  (3 条)
 
