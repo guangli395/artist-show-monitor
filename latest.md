@@ -1,23 +1,13 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-17 15:47**
-- 本轮扫到 9873 条, 新增 **1** 条
+- 最近更新: **2026-08-17 16:19**
+- 本轮扫到 9873 条, 新增 **0** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮无新增
 
-### 美媒称特朗普再次要求修改新航母设计
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-08-16 05:15
-- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE9sc2xTNTdPdEhWdnZyTjRydDI0OG1zbkk3MTBEZ185U0lhU2VpZzFtYXZxUHN2WF9tcDRPNFlnVV82WHRWb2xtOC01QmxFMUQ5TWhsZlZpNlhoM1RYbTRua3ZR?oc=5>
-
-
----
-
+数据库里所有演出/动态都已见过,暂无新增。
 ## 历史发现
 
 ### 2026-08-17 15:47  (1 条)
