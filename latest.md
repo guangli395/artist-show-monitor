@@ -1,32 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-17 17:52**
-- 本轮扫到 9879 条, 新增 **2** 条
+- 最近更新: **2026-08-17 18:28**
+- 本轮扫到 9883 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (4 条)
+
+### 特朗普总统特使在与哈马斯领导人会晤后，与以色列方面举行了会谈
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-08-17 18:22
+- 链接: <https://news.google.com/rss/articles/CBMixgFBVV95cUxNQVBiT2tBQnBNWmNEZ1Nxb0w3Tzd0NUxRNUtZQS1fb2ZtYnMtQUdnMUFTNGw2SXpBUVQ4TDlyX2pWVjRfT3JqbUcwVHFtNV9wdEQ3Z2dOdkhyakFTWFBpbWcxTENSVElzeERxSWhlOWgycXVXOXlHR0VZQUdDemRDS0JMTGJEN0VMeF9uU1VJeTRvSk5VWk5fRUh1MG5YXzdNSkFTMU9rbXpkUlF5YmdNcHo1NEc4ZFRaVXREQUgwOFBqQ0VxM2fSAcgBQVVfeXFMT004NWhpZWQ3bFFsUkxIcmV3dUwzRWE4bXJEdndLRG53U3IwcWxNU09zV0R0WmN1ZFJWM1RkZ2lTUXptVTZ6SWRGNTJVMXpka3UyQU9sYVRaZXhNUnY4cEpsaG1RaS12ZE02c2RXcEJMVjFTbXFrQzNFMk01Y1VUdHBVMFlWdFBiLXpSRl9nSnlQbWdhNzRCYU1lLVVkdUEtMVFZY0dXX0VZMWhzX0hpMTFxa3dMemRrU2Y4UkpKcFItOWdtOC05UkY?oc=5>
 
 ### 美加加紧磋商，力争在特朗普50%关税生效前达成协议
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: finance.sina.com.cn
+- 场馆: 新浪财经
 - 时间: 2026-08-17 07:19
-- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxNT09CV3JUSWxoYkN0T3pVNlMyNFdoaGgtX0hFbkh3TDgtQWFBR0FRVC15NFE1dDRHaG14WGJuZk55cHlyOWJuM2tiR05GZ1JYS3lxXzZ4SEVNNkV0U3NRcTZhU2dzQzhhX1J0a0ZZQ0QwdEpFSlJLb3c5WjM5OHJ4Rl9mdGJlWWNHY2hXSFFFRHlvcE1FUDNtRlhvY2R6U1NwRU50YzBCY2pZWmF2VFBQYzQyWl9ici1FbEI1Mzl2NXU5VGNFTlJkTGFRSjFZYTkzTl9hV2IwSXJ4UEJzVHc?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVkVoWmljckIydjZxUEhfbUIxQXRqdlRSR2pEaHduWDlxV2p2ZC0tZkFibXIzSFAzVlBLdk04QWpiQkphRTZ5QV9zTHhMYThyQ0d0RW9YU0l2ODhaZGpneEY0WXVHVFBaa3lLenhwOGNvSjdkWEN0TXVQeVBHQVRQZWxiYmYwTWp0VUgwR0VPMTczMjloaWlHcGg5T1k4TUo0Qm9PQkdEdV9nZ2NqSFlVYjNjZHFmbmNkaXpkSkcyUnd3TXROaW5lMC1xZ3lwWmRzdDFZWVpuMzkyMWN1MWc?oc=5>
 
 ### 特朗普称与伊朗伊斯兰革命卫队存在秘密沟通渠道
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网客户端
-- 时间: 2026-08-17 11:52
-- 链接: <https://news.google.com/rss/articles/CBMimgFBVV95cUxQaG9PeS05dkEzbTlRNkpvb0xPRE03WVg1Wl9VdktGd1lNZkRxbnd1RUxIQWNkYmdnSGd0V2VIT3NwMVVDYndFY2tGRVUySHRrV2h0VFFYaGlZRDY0c1lnUDJNZjd1UnR4YkpDTlhWcUxqUWJNN2NpQzM4M1RmM0lscG9EZXF3bXdMQmxOQ0NXSlpfUHBzMVJYZENR?oc=5>
+- 场馆: 新京报
+- 时间: 2026-08-17 11:33
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXZlpTamk0UWdWbEVUelc3ZFRIMDV5S0pyU0J4blRfcnJnQUF2V1Fmam1UU1QxRkgzSXBDWmZxQVBEaDZuQ2RwZmZGRV9odmxMZ2YzcHc4UjJpRlgzTXlKb244cWY?oc=5>
+
+### 特朗普称美“首要目标”是确保伊朗不能拥有核武器
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: news.cctv.cn
+- 时间: 2026-08-17 13:08
+- 链接: <https://news.google.com/rss/articles/CBMid0FVX3lxTE1qdjZFcGR4VjA0QWtXb1p2T0JuM1J4Q2dDNmd3SVpoMUVNSnZZMW0wR2N6UndPdHNhZ2tySWZ5T0sweEJnTkdxZ0o0eExoZWxSZWhJTmxqdU9oaHpxUUREY21feklSTWpBY3J1ajZzUFBTMXM5cDJR?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-17 18:28  (4 条)
+
+- **特朗普** | 特朗普总统特使在与哈马斯领导人会晤后，与以色列方面举行了会谈 <https://news.google.com/rss/articles/CBMixgFBVV95cUxNQVBiT2tBQnBNWmNEZ1Nxb0w3Tzd0NUxRNUtZQS1fb2ZtYnMtQUdnMUFTNGw2SXpBUVQ4TDlyX2pWVjRfT3JqbUcwVHFtNV9wdEQ3Z2dOdkhyakFTWFBpbWcxTENSVElzeERxSWhlOWgycXVXOXlHR0VZQUdDemRDS0JMTGJEN0VMeF9uU1VJeTRvSk5VWk5fRUh1MG5YXzdNSkFTMU9rbXpkUlF5YmdNcHo1NEc4ZFRaVXREQUgwOFBqQ0VxM2fSAcgBQVVfeXFMT004NWhpZWQ3bFFsUkxIcmV3dUwzRWE4bXJEdndLRG53U3IwcWxNU09zV0R0WmN1ZFJWM1RkZ2lTUXptVTZ6SWRGNTJVMXpka3UyQU9sYVRaZXhNUnY4cEpsaG1RaS12ZE02c2RXcEJMVjFTbXFrQzNFMk01Y1VUdHBVMFlWdFBiLXpSRl9nSnlQbWdhNzRCYU1lLVVkdUEtMVFZY0dXX0VZMWhzX0hpMTFxa3dMemRrU2Y4UkpKcFItOWdtOC05UkY?oc=5>
+- **特朗普** | 美加加紧磋商，力争在特朗普50%关税生效前达成协议 <https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVkVoWmljckIydjZxUEhfbUIxQXRqdlRSR2pEaHduWDlxV2p2ZC0tZkFibXIzSFAzVlBLdk04QWpiQkphRTZ5QV9zTHhMYThyQ0d0RW9YU0l2ODhaZGpneEY0WXVHVFBaa3lLenhwOGNvSjdkWEN0TXVQeVBHQVRQZWxiYmYwTWp0VUgwR0VPMTczMjloaWlHcGg5T1k4TUo0Qm9PQkdEdV9nZ2NqSFlVYjNjZHFmbmNkaXpkSkcyUnd3TXROaW5lMC1xZ3lwWmRzdDFZWVpuMzkyMWN1MWc?oc=5>
+- **特朗普** | 特朗普称与伊朗伊斯兰革命卫队存在秘密沟通渠道 <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXZlpTamk0UWdWbEVUelc3ZFRIMDV5S0pyU0J4blRfcnJnQUF2V1Fmam1UU1QxRkgzSXBDWmZxQVBEaDZuQ2RwZmZGRV9odmxMZ2YzcHc4UjJpRlgzTXlKb244cWY?oc=5>
+- **特朗普** | 特朗普称美“首要目标”是确保伊朗不能拥有核武器 <https://news.google.com/rss/articles/CBMid0FVX3lxTE1qdjZFcGR4VjA0QWtXb1p2T0JuM1J4Q2dDNmd3SVpoMUVNSnZZMW0wR2N6UndPdHNhZ2tySWZ5T0sweEJnTkdxZ0o0eExoZWxSZWhJTmxqdU9oaHpxUUREY21feklSTWpBY3J1ajZzUFBTMXM5cDJR?oc=5>
 
 ### 2026-08-17 17:52  (2 条)
 
