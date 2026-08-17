@@ -1,14 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-17 22:17**
-- 本轮扫到 9895 条, 新增 **0** 条
+- 最近更新: **2026-08-17 22:48**
+- 本轮扫到 9898 条, 新增 **3** 条
 
 ---
 
-## 本轮无新增
+## 本轮新发现 (3 条)
 
-数据库里所有演出/动态都已见过,暂无新增。
+### 特朗普放狠话：阿曼敢碍事，就把他们炸个稀巴烂
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-08-17 12:04
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE95aFBJd0lOZGFvLWwySlV4R0J1VkhMaVFTdWdidVlHV1lZNmtHVkt3UWtVamZ0cHFtLU92MDJuS1p3M1dZSXU2Q3ByZ0JMZnlGOF9xT2twZ19Ma3ZnRFE3d3VvaVoxdnBGN2c?oc=5>
+
+### 特朗普女婿称美伊双方尚未达成共识
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-08-17 21:35
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBhSkMxRDB4dVVZUnJZLXVvbEZoa3pBbFozcFprRXlzS3hOMEloUTd0ektpNGVWLU5QeG1UekpWVlJia05JR2FnTlppQmo?oc=5>
+
+### 和平委员会告诉VOA：哈马斯全面解除武装前，以色列不会撤军
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-08-17 22:22
+- 链接: <https://news.google.com/rss/articles/CBMivgFBVV95cUxOYUpKVkhKdDlzWVk1bVNpTkFKdi1hRUM3YWlsZHRsXzF6ODVOUnNHQ3hGbEU1WUx2VWxPbUlTYlpnVk5UcDc2WHdwNWoxS3hGTWUxRFY5R1RIbFpUcUo5RXFRQ1huMW5tUHNMM29RMWY1QXJ6dF82ZTRjNGlDX2Y4YzJRb1A2alVLU0I4N3JNVmpCS1BJQmhObmU3QTFrZnMySm54eGxFYWRHd3UtMzdlc0wzV3pXZTdzeXpDN0lB0gHAAUFVX3lxTE5HRmNkekRtVXZXcmNSb1pWQ1NvXzVrT1FSUmQwR09sUHlhN0d0bHVkMlBmNVF5UnRUaWp4STV1MXYwU0tadGtQNExfZHVTeE8xaWwwOXBqM2RYcWw2TmZScVI2NUlJaUNJYzNReGNHM0ZkNFFuSXFNUlk2STl4Yk1yX0gwblY1RVJnMEJtSlhZWm5kb0p6QmRyT3pWZ2lGMk9icmd2b1YtZk04NlVnd01vMzlIWUlpU3pGb1gwMUFXOQ?oc=5>
+
+
+---
+
 ## 历史发现
+
+### 2026-08-17 22:48  (3 条)
+
+- **特朗普** | 特朗普放狠话：阿曼敢碍事，就把他们炸个稀巴烂 <https://news.google.com/rss/articles/CBMiakFVX3lxTE95aFBJd0lOZGFvLWwySlV4R0J1VkhMaVFTdWdidVlHV1lZNmtHVkt3UWtVamZ0cHFtLU92MDJuS1p3M1dZSXU2Q3ByZ0JMZnlGOF9xT2twZ19Ma3ZnRFE3d3VvaVoxdnBGN2c?oc=5>
+- **特朗普** | 特朗普女婿称美伊双方尚未达成共识 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBhSkMxRDB4dVVZUnJZLXVvbEZoa3pBbFozcFprRXlzS3hOMEloUTd0ektpNGVWLU5QeG1UekpWVlJia05JR2FnTlppQmo?oc=5>
+- **Trump** | 和平委员会告诉VOA：哈马斯全面解除武装前，以色列不会撤军 <https://news.google.com/rss/articles/CBMivgFBVV95cUxOYUpKVkhKdDlzWVk1bVNpTkFKdi1hRUM3YWlsZHRsXzF6ODVOUnNHQ3hGbEU1WUx2VWxPbUlTYlpnVk5UcDc2WHdwNWoxS3hGTWUxRFY5R1RIbFpUcUo5RXFRQ1huMW5tUHNMM29RMWY1QXJ6dF82ZTRjNGlDX2Y4YzJRb1A2alVLU0I4N3JNVmpCS1BJQmhObmU3QTFrZnMySm54eGxFYWRHd3UtMzdlc0wzV3pXZTdzeXpDN0lB0gHAAUFVX3lxTE5HRmNkekRtVXZXcmNSb1pWQ1NvXzVrT1FSUmQwR09sUHlhN0d0bHVkMlBmNVF5UnRUaWp4STV1MXYwU0tadGtQNExfZHVTeE8xaWwwOXBqM2RYcWw2TmZScVI2NUlJaUNJYzNReGNHM0ZkNFFuSXFNUlk2STl4Yk1yX0gwblY1RVJnMEJtSlhZWm5kb0p6QmRyT3pWZ2lGMk9icmd2b1YtZk04NlVnd01vMzlIWUlpU3pGb1gwMUFXOQ?oc=5>
 
 ### 2026-08-17 21:48  (4 条)
 
