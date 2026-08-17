@@ -1,14 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-17 19:07**
-- 本轮扫到 9883 条, 新增 **0** 条
+- 最近更新: **2026-08-17 19:49**
+- 本轮扫到 9887 条, 新增 **4** 条
 
 ---
 
-## 本轮无新增
+## 本轮新发现 (4 条)
 
-数据库里所有演出/动态都已见过,暂无新增。
+### 美伊和平前景渺茫 据报特朗普称不急于结束战争
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-17 17:38
+- 链接: <https://news.google.com/rss/articles/CBMijgJBVV95cUxPbFhKdkgzVmR1ZkI1TjJIMjBBMmZVWFhIM1BubDRPN2ZWY25MeE5SUEJLX1B6U0dPaE11ZEZ3WWk5WU1XamwzVjVidFphN1gxMDRTbWRkbzdVV290dVdKaTIxdGZMMHBaenZ2bzNWN1RuWXhOMl95UU5vRUhSekdjR0ZkR0NMeFp6bXV0Rkl5YnBkTlJiVWs3alc2NDZwX3FhM1VwazRCZ3ZLSWl3MWdMejkxa09XYUtadHA1ZmN2R2lPaTRQOVpvQ3B1UEs4X0w4ZzFLZ0lQOWMyeGU1dmxwQzZPTjZXTnJOUDVFWkUyQ29QLTI5RTlFNUdWTzBSY1FXNzFDSWttQkxMQ3JsMXc?oc=5>
+
+### 美加加紧磋商，力争在特朗普50%关税生效前达成协议
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-17 07:19
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbmp6eXNfbGl0bG5kSFYyMmhCNVhGdTFCYU05b1FvSmlGcXJGb1lyLTlIX042UUZLVjdQU2xwM1YyM2pJOTNBSjJrZDU1MVhmQ1dqNnZJei1PU21xWm9KOWpPLXFoN1F2UGx5ODQyeU9feGJyT0xzcU40YUNXc1k3UUFxaU80Q1czRzBhRFlIVHBUWXVrV1dCMy1vRG1OV0xicmFhMTEtQkFWNGQ1VE5GMlEyUEMwankzRVBJTFJBVjAwOVRmM0t0d01obWVKdHQxbmsweTRlVlFoLTlCQXZV?oc=5>
+
+### 特朗普称不寻求延长与伊朗的谅解备忘录
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 搜狐网
+- 时间: 2026-08-17 18:55
+- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSWVLYldtSWhNbjkxc0JycWNWdmRJWWkwZ0ZyUGNqYTBnY2tJaWNJLXNjcGhhN2J5a2xudlZCYlhFQUVLUGdVLWNDN1E4cENXdzdXN1AzUHJDMUFocXdhYW1ESlVyTnNYNWliYVZVVFIzUU5CVHFaYUs0UmI1bjdjek1hVFdBbG5Hc2Zz?oc=5>
+
+### 华邮预测总统人选 共和党2强竞逐 民主党局势未明
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 文学城
+- 时间: 2026-08-17 15:58
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9TMVhFYkhQcFNZaTBUUTBGQl9SM1RPOF9YQUVnUzZWTmRaVFVDbkJpem41ZTZsc0JNNWxQcURudGFxS2puT0VCQjBxTWtrU1M5aXBoOW9RN3Z5TFkwTTJDNDVISXhlZ290?oc=5>
+
+
+---
+
 ## 历史发现
+
+### 2026-08-17 19:49  (4 条)
+
+- **特朗普** | 美伊和平前景渺茫 据报特朗普称不急于结束战争 <https://news.google.com/rss/articles/CBMijgJBVV95cUxPbFhKdkgzVmR1ZkI1TjJIMjBBMmZVWFhIM1BubDRPN2ZWY25MeE5SUEJLX1B6U0dPaE11ZEZ3WWk5WU1XamwzVjVidFphN1gxMDRTbWRkbzdVV290dVdKaTIxdGZMMHBaenZ2bzNWN1RuWXhOMl95UU5vRUhSekdjR0ZkR0NMeFp6bXV0Rkl5YnBkTlJiVWs3alc2NDZwX3FhM1VwazRCZ3ZLSWl3MWdMejkxa09XYUtadHA1ZmN2R2lPaTRQOVpvQ3B1UEs4X0w4ZzFLZ0lQOWMyeGU1dmxwQzZPTjZXTnJOUDVFWkUyQ29QLTI5RTlFNUdWTzBSY1FXNzFDSWttQkxMQ3JsMXc?oc=5>
+- **特朗普** | 美加加紧磋商，力争在特朗普50%关税生效前达成协议 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbmp6eXNfbGl0bG5kSFYyMmhCNVhGdTFCYU05b1FvSmlGcXJGb1lyLTlIX042UUZLVjdQU2xwM1YyM2pJOTNBSjJrZDU1MVhmQ1dqNnZJei1PU21xWm9KOWpPLXFoN1F2UGx5ODQyeU9feGJyT0xzcU40YUNXc1k3UUFxaU80Q1czRzBhRFlIVHBUWXVrV1dCMy1vRG1OV0xicmFhMTEtQkFWNGQ1VE5GMlEyUEMwankzRVBJTFJBVjAwOVRmM0t0d01obWVKdHQxbmsweTRlVlFoLTlCQXZV?oc=5>
+- **特朗普** | 特朗普称不寻求延长与伊朗的谅解备忘录 <https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSWVLYldtSWhNbjkxc0JycWNWdmRJWWkwZ0ZyUGNqYTBnY2tJaWNJLXNjcGhhN2J5a2xudlZCYlhFQUVLUGdVLWNDN1E4cENXdzdXN1AzUHJDMUFocXdhYW1ESlVyTnNYNWliYVZVVFIzUU5CVHFaYUs0UmI1bjdjek1hVFdBbG5Hc2Zz?oc=5>
+- **Trump** | 华邮预测总统人选 共和党2强竞逐 民主党局势未明 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9TMVhFYkhQcFNZaTBUUTBGQl9SM1RPOF9YQUVnUzZWTmRaVFVDbkJpem41ZTZsc0JNNWxQcURudGFxS2puT0VCQjBxTWtrU1M5aXBoOW9RN3Z5TFkwTTJDNDVISXhlZ290?oc=5>
 
 ### 2026-08-17 18:28  (4 条)
 
