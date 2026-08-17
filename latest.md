@@ -1,80 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-17 03:26**
-- 本轮扫到 9821 条, 新增 **8** 条
+- 最近更新: **2026-08-17 04:10**
+- 本轮扫到 9825 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (4 条)
 
-### 美媒：马斯克豪掷1亿美元恢复关系，特朗普称两人再不会那样亲密
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-08-17 03:01
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE5HQzUxWEd1RExleEtoN2dsNmZmN2U4NjljVnV3c21BQXFDTFlsQjlIN19sUV9fZzZvcm1GR1oyRWxyR3ZhQU13N1YwVldiSzNKNzZJVjE3aGFvVGFFNmprOUdoRHVHczNuTmlLUzJsMW9Edw?oc=5>
-
-### 特朗普称战胜伊朗需多付汽油钱，不为高油价道歉
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-08-17 03:09
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFBOMlJNSWQydTFjY2wxY0EzUHd5V1VWX0hSVm4xQXdiMEdPSzFiYjB3NDQyQ0h4NUFCQkNzb28xOGoxeDdxdFJkTHJWUzY3cElCYmZFTEpvNlJweXdqRHVmVUJsZVdGX3hFUWxtM20zWHBFVzA?oc=5>
-
-### 特朗普：考虑到与金正恩的“良好关系”，已指示“大幅缩减”美韩联合军演规模
+### 8月17日周末要闻：特朗普“不满”与韩联合军演 原油小幅走高 伊朗禁止美军进入霍尔木兹海峡
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-08-16 23:42
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1hOTNOcVJMMFQzaTVwUlh6Z1B3aXFvQ0ZUMHNySF9IUkR4NUUzWWdibGwwZ3VSV0NYajJCYUEwb3BndVVlTldRbnJwN2lBd2hNSU5kT2liYjJBLUt6YkdLaDRtWGRtVDhzU3EwV0JLSHNXdGdEVWs4RQ?oc=5>
+- 时间: 2026-08-16 22:33
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxOUVdfZU9GbC11MjRrWVFfbk1GUUU0d3NoRllNQWN4Umx6Zk1GbW9NRWJvaWxBczd3YVV3UVVkazNpYkdseTQwOHZMZjBodmpmXzVtQV9kc3haSi02RFR6QWtSanFFM3NTZHJuV0YzYzJ6ckpfbldWWE1kcmJxNDBncVNkTHBXWlE?oc=5>
 
-### 美州长：特朗普的回应让我很生气
+### 最新民调：53%美国选民的财务状况在特朗普执政期间恶化；民众信心下滑
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: guancha.cn
+- 场馆: 中华网
 - 时间: 2026-08-17 02:36
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5RTUJuVVNHZVlXelhXVFdXZ2c0eDhJZkQ2SmhSUDJhYmR3VXBDWmpXN2hxcUl6V1p3UFNBeEpmSk9HOVpBbXZuUUM0SjlrN1JNN09oNmxud1hkd3NGVWlvdktfU3lwYVBLaEE?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1hOWJBRDB3MjlQNXBUbDBiYXNIUnZQVmhEZHc1blJLcWpteWxYc1EwWTNSbGtsenEwSEZVdGk5SWVFTEk5cDB2OTZ0R1hkZTJzN3lUQ290cy1LU094Mnp3VXFIRlJBbnlaazZ0enVQdTY?oc=5>
 
-### “林肯号”人员崩溃，特朗普不以为然：海上停留时间“远远不够”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-08-17 01:33
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE41N2g2X2xwajVnY2gwdF9ma0gxVWNqQkNFZmcwNkd2UGdBZ3NsY1FnSkNxUHJ0S1l2YzRXUDl4eFhaWmZFTWNJZWhDN0xMbGxKUTJoV2pMN29tOEEyQ3ZpLUUxV2hXbFVVUk5yRVNsdG92dw?oc=5>
-
-### 沙土巴3国签署共同防务协议，特朗普发声
+### 特朗普在社交平台发布与金正恩昔日合影
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-16 21:12
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1Xak1ieUNJMkxxVVl0NnIyc0U0QUhqVFptcUlXTnJ1ejFNZV9yR3BJNlpRaGxZNVNaU05ibWJWNzJBT2ZVc0UxejJiX00?oc=5>
+- 场馆: 中华网
+- 时间: 2026-08-17 03:53
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBNMUhqaXJiYy02eTFobE5LZ0lxMy1mcjNDY0dCZXJFNUg1ZndHX0VKZWs4bWZoOHJSQ09YSEs5Rk1IQm9UXy1vVENYWnBUcHl6NmtQTHExVEdtOGJzUU1wb3J3TzNZWUt5US1JTzF1VDI?oc=5>
 
-### 特朗普：欢迎沙土巴三国签署共同防务协议
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: china.zjol.com.cn
-- 时间: 2026-08-17 00:47
-- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTFBnVTN2ZG5LZHlJb3dneGc2anlvRWNPVnlLZmRJcVk4dXZreWl5RV9JWEM0SG1MeVNwU3E0b1pKSTZ4cFlkVndiRnFJTWF1aHZkX0twelpBT0hNQVlwUWI2aGRZbXlqcjFpbFZjYUZB?oc=5>
-
-### 新关税将生效 美加谈判仍无突破 加乐观情绪消退
+### Trump指示大幅缩减韩美联合军演……向朝鲜示意对话- 阿视亚经济
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 文学城
-- 时间: 2026-08-16 20:50
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RYTV1dDlnajgtc0pEUFNBMTdoUkp2VDdvbUIyR3pGZXV2S1hSVkVhX2dva25oclMxajlZYXhLQXNjREMzOWxwZ2dqaDZnQ0g2YUJJVzF2ck44WHFPNFhKMHYwWVpaQ1dK?oc=5>
+- 场馆: 아시아경제
+- 时间: 2026-08-17 00:41
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5NMmljSVdURzROdXl4LXJoYjU4NjVWaW5BZFV1elhYQlRWSUhhR2Qxc0RLdkNrYzdwazVlbTczbFF4WmhPZDlYNFd2UGtfLU1wR0lDQjk4dzRWUmlodExWb05KVmU?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-17 04:10  (4 条)
+
+- **特朗普** | 8月17日周末要闻：特朗普“不满”与韩联合军演 原油小幅走高 伊朗禁止美军进入霍尔木兹海峡 <https://news.google.com/rss/articles/CBMihwFBVV95cUxOUVdfZU9GbC11MjRrWVFfbk1GUUU0d3NoRllNQWN4Umx6Zk1GbW9NRWJvaWxBczd3YVV3UVVkazNpYkdseTQwOHZMZjBodmpmXzVtQV9kc3haSi02RFR6QWtSanFFM3NTZHJuV0YzYzJ6ckpfbldWWE1kcmJxNDBncVNkTHBXWlE?oc=5>
+- **特朗普** | 最新民调：53%美国选民的财务状况在特朗普执政期间恶化；民众信心下滑 <https://news.google.com/rss/articles/CBMicEFVX3lxTE1hOWJBRDB3MjlQNXBUbDBiYXNIUnZQVmhEZHc1blJLcWpteWxYc1EwWTNSbGtsenEwSEZVdGk5SWVFTEk5cDB2OTZ0R1hkZTJzN3lUQ290cy1LU094Mnp3VXFIRlJBbnlaazZ0enVQdTY?oc=5>
+- **特朗普** | 特朗普在社交平台发布与金正恩昔日合影 <https://news.google.com/rss/articles/CBMicEFVX3lxTFBNMUhqaXJiYy02eTFobE5LZ0lxMy1mcjNDY0dCZXJFNUg1ZndHX0VKZWs4bWZoOHJSQ09YSEs5Rk1IQm9UXy1vVENYWnBUcHl6NmtQTHExVEdtOGJzUU1wb3J3TzNZWUt5US1JTzF1VDI?oc=5>
+- **Trump** | Trump指示大幅缩减韩美联合军演……向朝鲜示意对话- 阿视亚经济 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5NMmljSVdURzROdXl4LXJoYjU4NjVWaW5BZFV1elhYQlRWSUhhR2Qxc0RLdkNrYzdwazVlbTczbFF4WmhPZDlYNFd2UGtfLU1wR0lDQjk4dzRWUmlodExWb05KVmU?oc=5>
 
 ### 2026-08-17 03:26  (8 条)
 
