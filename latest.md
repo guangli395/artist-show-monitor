@@ -1,48 +1,35 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-17 04:10**
-- 本轮扫到 9825 条, 新增 **4** 条
+- 最近更新: **2026-08-17 05:05**
+- 本轮扫到 9827 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (2 条)
 
-### 8月17日周末要闻：特朗普“不满”与韩联合军演 原油小幅走高 伊朗禁止美军进入霍尔木兹海峡
+### 王一博VOGUE MAN八月刊花絮视频发布
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-16 22:33
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxOUVdfZU9GbC11MjRrWVFfbk1GUUU0d3NoRllNQWN4Umx6Zk1GbW9NRWJvaWxBczd3YVV3UVVkazNpYkdseTQwOHZMZjBodmpmXzVtQV9kc3haSi02RFR6QWtSanFFM3NTZHJuV0YzYzJ6ckpfbldWWE1kcmJxNDBncVNkTHBXWlE?oc=5>
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_6144301079_m16e3a981703301ij6q.html>
 
-### 最新民调：53%美国选民的财务状况在特朗普执政期间恶化；民众信心下滑
+### 美国考虑应特朗普喜好重新设计航母：电磁改回蒸汽弹射+舰岛迁移
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-08-17 02:36
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1hOWJBRDB3MjlQNXBUbDBiYXNIUnZQVmhEZHc1blJLcWpteWxYc1EwWTNSbGtsenEwSEZVdGk5SWVFTEk5cDB2OTZ0R1hkZTJzN3lUQ290cy1LU094Mnp3VXFIRlJBbnlaazZ0enVQdTY?oc=5>
-
-### 特朗普在社交平台发布与金正恩昔日合影
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-08-17 03:53
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBNMUhqaXJiYy02eTFobE5LZ0lxMy1mcjNDY0dCZXJFNUg1ZndHX0VKZWs4bWZoOHJSQ09YSEs5Rk1IQm9UXy1vVENYWnBUcHl6NmtQTHExVEdtOGJzUU1wb3J3TzNZWUt5US1JTzF1VDI?oc=5>
-
-### Trump指示大幅缩减韩美联合军演……向朝鲜示意对话- 阿视亚经济
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 아시아경제
-- 时间: 2026-08-17 00:41
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5NMmljSVdURzROdXl4LXJoYjU4NjVWaW5BZFV1elhYQlRWSUhhR2Qxc0RLdkNrYzdwazVlbTczbFF4WmhPZDlYNFd2UGtfLU1wR0lDQjk4dzRWUmlodExWb05KVmU?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-08-17 04:32
+- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE9mNnFxRGJ1Z3JIZUt1b1JrMDJQQi1TZ0dweUN3N25UTWV2eTVGMGp1VnQwSENEVk5ZQ0dNRHdMMVNGLVZJaHhScVNyRTJfTVZCVXF3WmxWWUdyWFVsS0VUcWVvTG4tamJuRXdEdWJxVDZwel9FcmdKYlpiVmxjUQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-17 05:05  (2 条)
+
+- **王一博** | 王一博VOGUE MAN八月刊花絮视频发布 <https://k.sina.com.cn/article_6144301079_m16e3a981703301ij6q.html>
+- **特朗普** | 美国考虑应特朗普喜好重新设计航母：电磁改回蒸汽弹射+舰岛迁移 <https://news.google.com/rss/articles/CBMifkFVX3lxTE9mNnFxRGJ1Z3JIZUt1b1JrMDJQQi1TZ0dweUN3N25UTWV2eTVGMGp1VnQwSENEVk5ZQ0dNRHdMMVNGLVZJaHhScVNyRTJfTVZCVXF3WmxWWUdyWFVsS0VUcWVvTG4tamJuRXdEdWJxVDZwel9FcmdKYlpiVmxjUQ?oc=5>
 
 ### 2026-08-17 04:10  (4 条)
 
