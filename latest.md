@@ -1,32 +1,82 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-16 23:41**
-- 本轮扫到 9797 条, 新增 **2** 条
+- 最近更新: **2026-08-17 00:53**
+- 本轮扫到 9804 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (7 条)
 
-### 特朗普总统命令大幅缩减美韩联合军演规模
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-08-16 23:02
-- 链接: <https://news.google.com/rss/articles/CBMi5AFBVV95cUxQV0kyR1JDaGptSFRhUFctSEZwNDhQbFpvdnRIWjlhUVByczlsSDlPWlFDU184NjRSY1FCMmVSQW9aVkpCdlB1VEVQX1VPdFlWV0duekRncnFLMkdScUdHa1ZjWkRpU1JtMzJBb3VmbDJ1MEVtbEQxdkc5b1hCbTZkRTNKc2tLbzBRU2xTcnpSa0I1OGdJRGsxbzN0OWFUWE02UWRpbHdqTFZSXzNpZ1N4enZER1NaUERhbXVocENwZkFiVFFzN2RlRnVKSEM3X2E5ZkZtbl9LNVRkOWFndHA4Y05wZ0HSAecBQVVfeXFMTUFjdGdTaVI5RWJ2Vnk0Z3lIZ0FPYU5KcmNhdVY4dlhmcTVLUDFxanY2c25XVUJCS0hqcnJ3dnV5QjctdnltYUF0WDRzWlJJOUFTVkc5WGRNX05YZnRpbzdYUGRyZmU5NWdSLTA4YWpDTGk4cjRWbjkxTDRjRkN4WGFXbHRLMkN3N05mMDE0NWEyZTR3NjRDV3k1U2tvelJHS1lVTzZMblFjT2JZSmtUaWZIOGxLOF8xQ3ZDNDlSNzRVU2JCZENTRzJOS0lDai0zbGhmM2hkcVl0blRvc2oyam91MWtGZV9B?oc=5>
-
-### 特朗普欢迎沙土巴签共同防务协议
+### 水兵跳海是假的？特朗普回应：林肯号部署“还不够长”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: video.sina.com.cn
-- 时间: 2026-08-16 22:31
-- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxPcFFQOGc4M3paYnRKLTlZZ3BOdjF0TkZRcmFkZklVZFota09ZM0thcmpLNE0zTzVMcHpmVjZic3ctR0x1amdRZHowQnJKRFEyRnpCTmtRMHFnT0V6NzNzOEkyMGhzcmMwdVE1a1R3ZWRpUlBwdVBKUHYwdkdVUWcwOW9R?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-08-17 00:04
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFByN2t4YS1jcGRxaGJVQlJvUUY2NGk2NDllX3RWNS1XM05WLWVDU3FuOXdSU0c5YmVRanY0bmNfS0RKWWJCMmdMdXNsVmVFQm1hdDQ0TzZocXRJX1RDampkUldDZXc4cVRFM0ZnS0hlLXhIWDA?oc=5>
+
+### 特朗普宣布鉴于他和金正恩“关系非常好”，美国将大幅减少美韩联合军演
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-08-16 22:47
+- 链接: <https://news.google.com/rss/articles/CBMi1gNBVV95cUxQV3hGU2FuQWFzaG8xN2NtQ0xnLXZjTGFQM1ZXU2YzdU9GNEFEZ2VxZ3FISnlueHVMSFotb2ZHdGJSQmlWM3NxWWV6WWJtT09saWlaT3RyS1NLaW5WMmU4eHhXdS1fT1o1WGducUhOdkozT1NkbjhUczVwelk4R2xublhlNDk4ZXFCOWJycklkQUw1V09xSmxlYldTSWcwdzBLdWNsMFotSTFaUWFSdU1yQ3ZqeVVVNlFkUV9RLUdPYkZrVXBsZE81WWdGTFVnMkpZNC15b3hkLWphQ2JYRzkySi1OUkt1ckQ2NjBrUDgyNTVSVEdTZ05sUk1saVRHQmxmSWRKOExpdkJ5eFR1MFY5NzlZMENiQ2tRSE50QWJnOVhhZm9kUU5qNlBEbjBkX25YX1NPUDNUMDEzTkY1U2tQSkNCOE9XT04wWFN2Qnd5LWk3OFY1Z0VsellRQ0FLYmFOeXYxZFdpUno3XzhiaHB2NVp5UEJxN1MyZlZBRkFnTnhqa28ydUdsMVBEUWM4VFhMNmVnSTRyV0hudmkxbmp1ekVaUGdodW95VFVPMlNVcFNIdGxkSlZBTnh2cW00THZNZ0hLUl9idWxPbk5iNUZ6ajRIZkZwZw?oc=5>
+
+### 强震已致289死，哥伦比亚总统：请特朗普暂停关税纾困震后经济
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-16 23:56
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBkUVMwWjhXSUxXMGhneHJqTkNoajdxMmtzZkRmbnFqV3F6ZldTck40RDR0T3hLS095SWRIVzROYlZ5UURrNVJTV0xGUHBwRjRtU19uaURTbmVEaHNKLWtTWUhfTDJkdEN0bmlpVkR5SFRFeFBfQ3pNOA?oc=5>
+
+### 航母被曝大丑闻，美州长：特朗普的回应让我非常愤怒
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-08-16 23:22
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1ud0lhcHRuQ2RETjhGUE01RkhOU0dyODZHUVhON0VPR2drUGVIa0FlSzdjVnJOYV9ENmNEbDNvX0RzeURUTDRUd3ZXdG0?oc=5>
+
+### 美媒爆料：特朗普对福特级外观不满意，美国海军正考虑大幅调整设计，使其更接近二战时期的美国航母外形
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-08-16 05:06
+- 链接: <https://news.google.com/rss/articles/CBMihAFBVV95cUxNMVkxRkZjYWYtZjBIYzBqS3FuTG04ZVVoRm5jS3p6REtVSERhQW1qTURoTW4xUi1KMGdSR05TbVB4MlJkbWd3VmVEWlV4SjdYdS10RzJYeldMMVgtSUpUTk53eUE0ZHBhNmNPNjZPd3pNY25abmliU2NNdjI2bmE4Z1ZiaDc?oc=5>
+
+### 海湾盟友对美沮丧情绪持续上升 特朗普发文欢迎中东各国“自保”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 环球网
+- 时间: 2026-08-16 09:18
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE51ZTBhWGNLR2hHamZoV2V2enN4YkNUWkZ1RThFVlZfR1drMzUtTGpXd2UtZGR2UWNIM0VqalVVbTZvaG5ncG43RmVTZ1dUdm41X0tzSU9VeVA?oc=5>
+
+### 国际｜特朗普背影画面引发热议：西装下的“凸起”到底是什么
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新京报
+- 时间: 2026-08-16 09:00
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5oekV4aUI2ZnVhOGd2Vzd3QzRoaWlCbEtZMTYzQWprZEJDdmJ1R1ppNGlWSWkyS2V2SmFpOVc1X2FHcWt0T3JFeXhyLW9WaVEtVGt1bXU3cFdySzRLYnR6cTU1MlY?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-17 00:53  (7 条)
+
+- **特朗普** | 水兵跳海是假的？特朗普回应：林肯号部署“还不够长” <https://news.google.com/rss/articles/CBMic0FVX3lxTFByN2t4YS1jcGRxaGJVQlJvUUY2NGk2NDllX3RWNS1XM05WLWVDU3FuOXdSU0c5YmVRanY0bmNfS0RKWWJCMmdMdXNsVmVFQm1hdDQ0TzZocXRJX1RDampkUldDZXc4cVRFM0ZnS0hlLXhIWDA?oc=5>
+- **特朗普** | 特朗普宣布鉴于他和金正恩“关系非常好”，美国将大幅减少美韩联合军演 <https://news.google.com/rss/articles/CBMi1gNBVV95cUxQV3hGU2FuQWFzaG8xN2NtQ0xnLXZjTGFQM1ZXU2YzdU9GNEFEZ2VxZ3FISnlueHVMSFotb2ZHdGJSQmlWM3NxWWV6WWJtT09saWlaT3RyS1NLaW5WMmU4eHhXdS1fT1o1WGducUhOdkozT1NkbjhUczVwelk4R2xublhlNDk4ZXFCOWJycklkQUw1V09xSmxlYldTSWcwdzBLdWNsMFotSTFaUWFSdU1yQ3ZqeVVVNlFkUV9RLUdPYkZrVXBsZE81WWdGTFVnMkpZNC15b3hkLWphQ2JYRzkySi1OUkt1ckQ2NjBrUDgyNTVSVEdTZ05sUk1saVRHQmxmSWRKOExpdkJ5eFR1MFY5NzlZMENiQ2tRSE50QWJnOVhhZm9kUU5qNlBEbjBkX25YX1NPUDNUMDEzTkY1U2tQSkNCOE9XT04wWFN2Qnd5LWk3OFY1Z0VsellRQ0FLYmFOeXYxZFdpUno3XzhiaHB2NVp5UEJxN1MyZlZBRkFnTnhqa28ydUdsMVBEUWM4VFhMNmVnSTRyV0hudmkxbmp1ekVaUGdodW95VFVPMlNVcFNIdGxkSlZBTnh2cW00THZNZ0hLUl9idWxPbk5iNUZ6ajRIZkZwZw?oc=5>
+- **特朗普** | 强震已致289死，哥伦比亚总统：请特朗普暂停关税纾困震后经济 <https://news.google.com/rss/articles/CBMieEFVX3lxTFBkUVMwWjhXSUxXMGhneHJqTkNoajdxMmtzZkRmbnFqV3F6ZldTck40RDR0T3hLS095SWRIVzROYlZ5UURrNVJTV0xGUHBwRjRtU19uaURTbmVEaHNKLWtTWUhfTDJkdEN0bmlpVkR5SFRFeFBfQ3pNOA?oc=5>
+- **特朗普** | 航母被曝大丑闻，美州长：特朗普的回应让我非常愤怒 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1ud0lhcHRuQ2RETjhGUE01RkhOU0dyODZHUVhON0VPR2drUGVIa0FlSzdjVnJOYV9ENmNEbDNvX0RzeURUTDRUd3ZXdG0?oc=5>
+- **特朗普** | 美媒爆料：特朗普对福特级外观不满意，美国海军正考虑大幅调整设计，使其更接近二战时期的美国航母外形 <https://news.google.com/rss/articles/CBMihAFBVV95cUxNMVkxRkZjYWYtZjBIYzBqS3FuTG04ZVVoRm5jS3p6REtVSERhQW1qTURoTW4xUi1KMGdSR05TbVB4MlJkbWd3VmVEWlV4SjdYdS10RzJYeldMMVgtSUpUTk53eUE0ZHBhNmNPNjZPd3pNY25abmliU2NNdjI2bmE4Z1ZiaDc?oc=5>
+- **特朗普** | 海湾盟友对美沮丧情绪持续上升 特朗普发文欢迎中东各国“自保” <https://news.google.com/rss/articles/CBMiWEFVX3lxTE51ZTBhWGNLR2hHamZoV2V2enN4YkNUWkZ1RThFVlZfR1drMzUtTGpXd2UtZGR2UWNIM0VqalVVbTZvaG5ncG43RmVTZ1dUdm41X0tzSU9VeVA?oc=5>
+- **特朗普** | 国际｜特朗普背影画面引发热议：西装下的“凸起”到底是什么 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5oekV4aUI2ZnVhOGd2Vzd3QzRoaWlCbEtZMTYzQWprZEJDdmJ1R1ppNGlWSWkyS2V2SmFpOVc1X2FHcWt0T3JFeXhyLW9WaVEtVGt1bXU3cFdySzRLYnR6cTU1MlY?oc=5>
 
 ### 2026-08-16 23:41  (2 条)
 
