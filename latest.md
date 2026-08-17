@@ -1,47 +1,13 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-17 21:48**
-- 本轮扫到 9895 条, 新增 **4** 条
+- 最近更新: **2026-08-17 22:17**
+- 本轮扫到 9895 条, 新增 **0** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮无新增
 
-### 特朗普称不寻求延长与伊朗的谅解备忘录
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: news.sina.com.cn
-- 时间: 2026-08-17 21:28
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1fd3daZUxNRmk0Qm1aeXR4MHp2S0hIMnF0ckVsX1VpbkFmWGdNc25QaURWbGktVWhHWDJ4bXZ0WDVKSGVpVktXanlobjhzb3BQRnlsRzdyRjY5OWFpSkIxRGliWkdtSkI1Qm5xX0dNQ04?oc=5>
-
-### 8月18日外盘头条：特朗普称不寻求延长与伊朗的谅解备忘录 Anthropic年化营收有望突破650亿美元
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-08-17 21:43
-- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS2NtQzBPSkR6bnltd2ExdnBzTl9tOWpCVDF6Y2NrdWUzNTBTSlF1a3BoZWtWdkFzWmNOTkJKQjRkeHpXcE9xZGpTeE5VU2gzRUwyQ1lkd2FCZ3hDQWNXNFVRX0lGcTdqVGNDNnRNV2N0ZURRZEJqbjZEemg4Vlg5dEJJR1cxUU52d3FoTnl1NUd4RnFJMG5iVHpQLVZDWWVaQ2FESm5melVTUQ?oc=5>
-
-### 伊朗警告将升级对美行动 特朗普要求德黑兰让步
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-08-17 21:29
-- 链接: <https://news.google.com/rss/articles/CBMi3AJBVV95cUxQd0ZnZnl6QU5pLU5zT21XODFpYkdWZkdWOTRWV3NzZkxaLUxFR3pXak5rTkFrQy1vWFZJY1BWUUFGMDRhQzBheEUzMl9UQy1aVTZkdGQ4TXhkbjdFV190ZzVGZERuMVZad1RrOUdmcjRBVExfVUVkclJiUjV0NWJtcUhSajk1MDdQdnNFWDhtRnRudlVnSUFSLTZlVDEwb05hcTh5YWswcXBzSnkxZ1cydWxhWVdBYU5QQlRnY2dwQ284ell3YThrYmFfQ3VMVDRna1NQT3R4VUJVczZBVmRId0xvSHBLOG9jb0J5X0V5YklwLUg0Z0ZrSHJKM3dZYkNEc2JLYWZCSFJSRjdrSUtkLWVDUG1YXzFPSTIxY1V3SW02Zkd5TjJYWnB2N0NSS0NMaFoyWEFtdnV6M05PZVVIR0t5SWxxMGZIZFk1Tnl3dDBuaEdRNWxQVHhEdEU?oc=5>
-
-### 特朗普：不着急结束伊朗战争，若阿曼阻碍谈判、将“狠狠轰炸”，伊朗警告转向全面进攻
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-08-17 19:44
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE92eXpORmo0NlRPNVY5Zl9MX2tUVmpoWFZtVXc1bzZqbkZPYWpjMFBQclFXNER6MjNEdzhwLXFzTWZCcm10TXBpRnJCcnRldl9RYmhJ?oc=5>
-
-
----
-
+数据库里所有演出/动态都已见过,暂无新增。
 ## 历史发现
 
 ### 2026-08-17 21:48  (4 条)
