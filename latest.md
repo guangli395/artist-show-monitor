@@ -1,47 +1,13 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-17 18:28**
-- 本轮扫到 9883 条, 新增 **4** 条
+- 最近更新: **2026-08-17 19:07**
+- 本轮扫到 9883 条, 新增 **0** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮无新增
 
-### 特朗普总统特使在与哈马斯领导人会晤后，与以色列方面举行了会谈
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-08-17 18:22
-- 链接: <https://news.google.com/rss/articles/CBMixgFBVV95cUxNQVBiT2tBQnBNWmNEZ1Nxb0w3Tzd0NUxRNUtZQS1fb2ZtYnMtQUdnMUFTNGw2SXpBUVQ4TDlyX2pWVjRfT3JqbUcwVHFtNV9wdEQ3Z2dOdkhyakFTWFBpbWcxTENSVElzeERxSWhlOWgycXVXOXlHR0VZQUdDemRDS0JMTGJEN0VMeF9uU1VJeTRvSk5VWk5fRUh1MG5YXzdNSkFTMU9rbXpkUlF5YmdNcHo1NEc4ZFRaVXREQUgwOFBqQ0VxM2fSAcgBQVVfeXFMT004NWhpZWQ3bFFsUkxIcmV3dUwzRWE4bXJEdndLRG53U3IwcWxNU09zV0R0WmN1ZFJWM1RkZ2lTUXptVTZ6SWRGNTJVMXpka3UyQU9sYVRaZXhNUnY4cEpsaG1RaS12ZE02c2RXcEJMVjFTbXFrQzNFMk01Y1VUdHBVMFlWdFBiLXpSRl9nSnlQbWdhNzRCYU1lLVVkdUEtMVFZY0dXX0VZMWhzX0hpMTFxa3dMemRrU2Y4UkpKcFItOWdtOC05UkY?oc=5>
-
-### 美加加紧磋商，力争在特朗普50%关税生效前达成协议
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-17 07:19
-- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVkVoWmljckIydjZxUEhfbUIxQXRqdlRSR2pEaHduWDlxV2p2ZC0tZkFibXIzSFAzVlBLdk04QWpiQkphRTZ5QV9zTHhMYThyQ0d0RW9YU0l2ODhaZGpneEY0WXVHVFBaa3lLenhwOGNvSjdkWEN0TXVQeVBHQVRQZWxiYmYwTWp0VUgwR0VPMTczMjloaWlHcGg5T1k4TUo0Qm9PQkdEdV9nZ2NqSFlVYjNjZHFmbmNkaXpkSkcyUnd3TXROaW5lMC1xZ3lwWmRzdDFZWVpuMzkyMWN1MWc?oc=5>
-
-### 特朗普称与伊朗伊斯兰革命卫队存在秘密沟通渠道
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-08-17 11:33
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXZlpTamk0UWdWbEVUelc3ZFRIMDV5S0pyU0J4blRfcnJnQUF2V1Fmam1UU1QxRkgzSXBDWmZxQVBEaDZuQ2RwZmZGRV9odmxMZ2YzcHc4UjJpRlgzTXlKb244cWY?oc=5>
-
-### 特朗普称美“首要目标”是确保伊朗不能拥有核武器
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: news.cctv.cn
-- 时间: 2026-08-17 13:08
-- 链接: <https://news.google.com/rss/articles/CBMid0FVX3lxTE1qdjZFcGR4VjA0QWtXb1p2T0JuM1J4Q2dDNmd3SVpoMUVNSnZZMW0wR2N6UndPdHNhZ2tySWZ5T0sweEJnTkdxZ0o0eExoZWxSZWhJTmxqdU9oaHpxUUREY21feklSTWpBY3J1ajZzUFBTMXM5cDJR?oc=5>
-
-
----
-
+数据库里所有演出/动态都已见过,暂无新增。
 ## 历史发现
 
 ### 2026-08-17 18:28  (4 条)
