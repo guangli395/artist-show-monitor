@@ -1,48 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-17 19:49**
-- 本轮扫到 9887 条, 新增 **4** 条
+- 最近更新: **2026-08-17 20:18**
+- 本轮扫到 9890 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (3 条)
 
-### 美伊和平前景渺茫 据报特朗普称不急于结束战争
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-17 17:38
-- 链接: <https://news.google.com/rss/articles/CBMijgJBVV95cUxPbFhKdkgzVmR1ZkI1TjJIMjBBMmZVWFhIM1BubDRPN2ZWY25MeE5SUEJLX1B6U0dPaE11ZEZ3WWk5WU1XamwzVjVidFphN1gxMDRTbWRkbzdVV290dVdKaTIxdGZMMHBaenZ2bzNWN1RuWXhOMl95UU5vRUhSekdjR0ZkR0NMeFp6bXV0Rkl5YnBkTlJiVWs3alc2NDZwX3FhM1VwazRCZ3ZLSWl3MWdMejkxa09XYUtadHA1ZmN2R2lPaTRQOVpvQ3B1UEs4X0w4ZzFLZ0lQOWMyeGU1dmxwQzZPTjZXTnJOUDVFWkUyQ29QLTI5RTlFNUdWTzBSY1FXNzFDSWttQkxMQ3JsMXc?oc=5>
-
-### 美加加紧磋商，力争在特朗普50%关税生效前达成协议
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-17 07:19
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbmp6eXNfbGl0bG5kSFYyMmhCNVhGdTFCYU05b1FvSmlGcXJGb1lyLTlIX042UUZLVjdQU2xwM1YyM2pJOTNBSjJrZDU1MVhmQ1dqNnZJei1PU21xWm9KOWpPLXFoN1F2UGx5ODQyeU9feGJyT0xzcU40YUNXc1k3UUFxaU80Q1czRzBhRFlIVHBUWXVrV1dCMy1vRG1OV0xicmFhMTEtQkFWNGQ1VE5GMlEyUEMwankzRVBJTFJBVjAwOVRmM0t0d01obWVKdHQxbmsweTRlVlFoLTlCQXZV?oc=5>
-
-### 特朗普称不寻求延长与伊朗的谅解备忘录
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-08-17 18:55
-- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSWVLYldtSWhNbjkxc0JycWNWdmRJWWkwZ0ZyUGNqYTBnY2tJaWNJLXNjcGhhN2J5a2xudlZCYlhFQUVLUGdVLWNDN1E4cENXdzdXN1AzUHJDMUFocXdhYW1ESlVyTnNYNWliYVZVVFIzUU5CVHFaYUs0UmI1bjdjek1hVFdBbG5Hc2Zz?oc=5>
-
-### 华邮预测总统人选 共和党2强竞逐 民主党局势未明
+### Trump Crypto Meeting Could Shape Policy Signals for Bitcoin and US Stocks
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 文学城
-- 时间: 2026-08-17 15:58
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9TMVhFYkhQcFNZaTBUUTBGQl9SM1RPOF9YQUVnUzZWTmRaVFVDbkJpem41ZTZsc0JNNWxQcURudGFxS2puT0VCQjBxTWtrU1M5aXBoOW9RN3Z5TFkwTTJDNDVISXhlZ290?oc=5>
+- 场馆: CryptoRank
+- 时间: 2026-08-17 12:48
+- 链接: <https://news.google.com/rss/articles/CBMitAFBVV95cUxONEFzRFZuczk4RGd4bDBjSXBIaV93MDRfX1lPOTMzNUNYQzlhS1BNcHk3UDYtZ29mSlhhLTBxYVVibkR1MUhuUUtGVUdYdnFLWUY5N2l0elAwOVZqdDNvX2JodGlpZjY3SUJzLUFtVXVwT2xfb0FZU1h5Nm01NkNyR3o1ODRBMEFkeTJVeFNqbWZkZjB5bl9Xd1FfajBIU3lJaDgxLUZBekhJNTdVSnhkdE1paFA?oc=5>
+
+### 伊朗称“转向全面进攻”……Trump：“举起投降白旗”
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 아시아경제
+- 时间: 2026-08-17 15:32
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE84NHJBRC1QZ3BabG4xcTh3SDdMUm1nUFZEZmFiN2ZSMGpyRlk1U3BqaGRsN1FyeHJaXzJZSjF6ZTVKODRmR3dhYVlyVUljV3NvZWhvam5nNFRxcmVLUWNrZDF5LTM?oc=5>
+
+### Micron Stock Breaks $1,000 After Key Move by Trump Administration -- Barrons.com
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-08-17 14:11
+- 链接: <https://news.google.com/rss/articles/CBMirwFBVV95cUxPTWJPaTFIU3ozaTR4UDlrdzE0MlEwUmVYYXctTEtnQ1ZlUTZzN0JkV0FzSndudUJoclhCSWV1TkhLLVVrRkxuWDl4UURqb2pBS3dBcHJWbW9SVDU5V2g5cERUZS1GUHNuSnJQYkg5Vmh3dWw1N2tUS1pBTkpPTHdFZ2RMT0lDSUVUVzdZN2xxaTd3RVgxY2dDZk94T3RSeFdlYTZuSDV4bkczdXBEREZV?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-17 20:18  (3 条)
+
+- **Trump** | Trump Crypto Meeting Could Shape Policy Signals for Bitcoin and US Stocks <https://news.google.com/rss/articles/CBMitAFBVV95cUxONEFzRFZuczk4RGd4bDBjSXBIaV93MDRfX1lPOTMzNUNYQzlhS1BNcHk3UDYtZ29mSlhhLTBxYVVibkR1MUhuUUtGVUdYdnFLWUY5N2l0elAwOVZqdDNvX2JodGlpZjY3SUJzLUFtVXVwT2xfb0FZU1h5Nm01NkNyR3o1ODRBMEFkeTJVeFNqbWZkZjB5bl9Xd1FfajBIU3lJaDgxLUZBekhJNTdVSnhkdE1paFA?oc=5>
+- **Trump** | 伊朗称“转向全面进攻”……Trump：“举起投降白旗” <https://news.google.com/rss/articles/CBMiZEFVX3lxTE84NHJBRC1QZ3BabG4xcTh3SDdMUm1nUFZEZmFiN2ZSMGpyRlk1U3BqaGRsN1FyeHJaXzJZSjF6ZTVKODRmR3dhYVlyVUljV3NvZWhvam5nNFRxcmVLUWNrZDF5LTM?oc=5>
+- **Trump** | Micron Stock Breaks $1,000 After Key Move by Trump Administration -- Barrons.com <https://news.google.com/rss/articles/CBMirwFBVV95cUxPTWJPaTFIU3ozaTR4UDlrdzE0MlEwUmVYYXctTEtnQ1ZlUTZzN0JkV0FzSndudUJoclhCSWV1TkhLLVVrRkxuWDl4UURqb2pBS3dBcHJWbW9SVDU5V2g5cERUZS1GUHNuSnJQYkg5Vmh3dWw1N2tUS1pBTkpPTHdFZ2RMT0lDSUVUVzdZN2xxaTd3RVgxY2dDZk94T3RSeFdlYTZuSDV4bkczdXBEREZV?oc=5>
 
 ### 2026-08-17 19:49  (4 条)
 
