@@ -1,30 +1,35 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-17 05:05**
-- 本轮扫到 9827 条, 新增 **2** 条
+- 最近更新: **2026-08-17 05:58**
+- 本轮扫到 9829 条, 新增 **2** 条
 
 ---
 
 ## 本轮新发现 (2 条)
 
-### 王一博VOGUE MAN八月刊花絮视频发布
+### 王一博VOGUE MAN封面为何选择生日月发布？
 
 - 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6144301079_m16e3a981703301ij6q.html>
+- 链接: <https://k.sina.com.cn/article_7879923377_1d5ae16b106801bpso.html>
 
-### 美国考虑应特朗普喜好重新设计航母：电磁改回蒸汽弹射+舰岛迁移
+### 干预政策、压制批评，特朗普政府将美国签证“武器化”
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-08-17 04:32
-- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE9mNnFxRGJ1Z3JIZUt1b1JrMDJQQi1TZ0dweUN3N25UTWV2eTVGMGp1VnQwSENEVk5ZQ0dNRHdMMVNGLVZJaHhScVNyRTJfTVZCVXF3WmxWWUdyWFVsS0VUcWVvTG4tamJuRXdEdWJxVDZwel9FcmdKYlpiVmxjUQ?oc=5>
+- 场馆: 纽约时报中文网
+- 时间: 2026-08-17 04:46
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NZkIyT3k2NmlTX09KWElybnQxazRyRURiZ3I3R3lDTFJtV1Y3RklLZExmTlZLMWxpQjlnNGRraTF2SGhONk1pNUVDcHlCUG1sR3Q1ZzVwNGdSbnN1YURZUzN0T202Rllp?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-17 05:58  (2 条)
+
+- **王一博** | 王一博VOGUE MAN封面为何选择生日月发布？ <https://k.sina.com.cn/article_7879923377_1d5ae16b106801bpso.html>
+- **Trump** | 干预政策、压制批评，特朗普政府将美国签证“武器化” <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NZkIyT3k2NmlTX09KWElybnQxazRyRURiZ3I3R3lDTFJtV1Y3RklLZExmTlZLMWxpQjlnNGRraTF2SGhONk1pNUVDcHlCUG1sR3Q1ZzVwNGdSbnN1YURZUzN0T202Rllp?oc=5>
 
 ### 2026-08-17 05:05  (2 条)
 
