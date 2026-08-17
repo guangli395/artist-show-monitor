@@ -1,40 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-17 14:20**
-- 本轮扫到 9869 条, 新增 **3** 条
+- 最近更新: **2026-08-17 14:51**
+- 本轮扫到 9870 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (1 条)
 
-### 特朗普扬言若阿曼阻碍美伊协议 将轰炸阿曼
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-08-17 12:31
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9qcjFyaFctSDhLQWNha29QOWEzcXVScmtnQmxYQmU1aTdLNXdLeTIydWJhTDB1TEhicVN2QmUxNlV0aEp2ZXEzTzJXYllnWXBvbHdWbDZuRGRQUHJ0LUxoUUM0bXFKcUZOTUE?oc=5>
-
-### 特朗普：美国的“首要目标”是确保伊朗不能拥有核武器
+### 霍尔木兹海峡，传来大消息！特朗普：如果阿曼不听话，就把他们炸个稀巴烂，伊朗当“举起白旗投降”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Shangbao Indonesia
-- 时间: 2026-08-17 11:17
-- 链接: <https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ1dvT0pFb09LQ0FTZkwtQnRBQWY4UFUxUHVBVktKNUNlVjhUc0p1djIwbFdEeWRBWXhmOFE5dXVfY3pxVTZPbXE0NlBDQlVfN0haa3ZuMEpXZFZLY2xPeFV6clZabGMyN1VIN1NnVnZmNTQ1ZEZSMGRXQ1FUcGRGcHpXa18?oc=5>
-
-### 特朗普称若阿曼阻碍美方重开霍尔木兹海峡 将对其实施轰炸
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: news.cnr.cn
-- 时间: 2026-08-17 13:37
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ESThwekxoWlZfaWhOaEZsM2s2dTRNT3pHUlJFQkRic3ZPYlg1aVF2dk5PTFY3dnltV1laR1dablY0dlZSMUJyT3hmNVY3a2JNM3ZwZTJrMi1QWDhMS0ZJMkE3c3NMbnJT?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-08-17 12:58
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBYXzFHUmFaNEhZdTlSVElzTVVteW95TWs2QVF1TnhPUzFTOUNYSGVtRTFyazVIT3N4MWpmdGw5Zm9LQVQ1Qm9RZGlxZDFPVVIzYnVsblVpU2pJbjVvVHM5N2JkazdFZ0c0Tlh0d0FEb3RQT2tFVTJKSg?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-17 14:51  (1 条)
+
+- **特朗普** | 霍尔木兹海峡，传来大消息！特朗普：如果阿曼不听话，就把他们炸个稀巴烂，伊朗当“举起白旗投降” <https://news.google.com/rss/articles/CBMieEFVX3lxTFBYXzFHUmFaNEhZdTlSVElzTVVteW95TWs2QVF1TnhPUzFTOUNYSGVtRTFyazVIT3N4MWpmdGw5Zm9LQVQ1Qm9RZGlxZDFPVVIzYnVsblVpU2pJbjVvVHM5N2JkazdFZ0c0Tlh0d0FEb3RQT2tFVTJKSg?oc=5>
 
 ### 2026-08-17 14:20  (3 条)
 
