@@ -1,14 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-18 22:15**
-- 本轮扫到 10010 条, 新增 **0** 条
+- 最近更新: **2026-08-18 22:48**
+- 本轮扫到 10012 条, 新增 **2** 条
 
 ---
 
-## 本轮无新增
+## 本轮新发现 (2 条)
 
-数据库里所有演出/动态都已见过,暂无新增。
+### 特朗普发布地图，将霍尔木兹海峡划为“美国新领土”，伊媒：“妄想”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-08-18 12:43
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1uYTR3eTRNMG0za04zODdWY1ZiRzhGSGpYQVhfU0VlUTNJMzR3MWItSVBPNG5IaVNUa1FKRk54UlB3aVFWWWVRa2hwWWc?oc=5>
+
+### 美加关税谈判进入最后关头 特朗普政府淡化达成协议预期
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 手机网易网
+- 时间: 2026-08-18 19:33
+- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTFBDNE5IOHRtaEJsaW5TYk5QM2Z1UkJIVUxmSElzdnBxYlU3TDFhSkU1VXVkeUFaQVUyR1VnRWVkOGdRWkRxeWdLQnpzSVktcDI5Tmx6OUJCY2tLeUxUdzV1UHVn?oc=5>
+
+
+---
+
 ## 历史发现
+
+### 2026-08-18 22:48  (2 条)
+
+- **特朗普** | 特朗普发布地图，将霍尔木兹海峡划为“美国新领土”，伊媒：“妄想” <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1uYTR3eTRNMG0za04zODdWY1ZiRzhGSGpYQVhfU0VlUTNJMzR3MWItSVBPNG5IaVNUa1FKRk54UlB3aVFWWWVRa2hwWWc?oc=5>
+- **特朗普** | 美加关税谈判进入最后关头 特朗普政府淡化达成协议预期 <https://news.google.com/rss/articles/CBMiYkFVX3lxTFBDNE5IOHRtaEJsaW5TYk5QM2Z1UkJIVUxmSElzdnBxYlU3TDFhSkU1VXVkeUFaQVUyR1VnRWVkOGdRWkRxeWdLQnpzSVktcDI5Tmx6OUJCY2tLeUxUdzV1UHVn?oc=5>
 
 ### 2026-08-18 21:45  (2 条)
 
