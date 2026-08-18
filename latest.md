@@ -1,32 +1,35 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-18 17:52**
-- 本轮扫到 9996 条, 新增 **2** 条
+- 最近更新: **2026-08-18 18:27**
+- 本轮扫到 9998 条, 新增 **2** 条
 
 ---
 
 ## 本轮新发现 (2 条)
 
-### 美伊和平前景渺茫 据报特朗普称不急于结束战争
+### 王一博此次VOGUEMAN封面内容何时正式发布？
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776731_1d5abd9db06801dtzi.html>
+
+### 更新：股市下跌，油价上涨，因特朗普称美国未与伊朗进行谈判
+
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-18 17:18
-- 链接: <https://news.google.com/rss/articles/CBMi_wFBVV95cUxOS3M1alVSVVJKTDhxdjdHcHhBTW1mbWxSNWRQcjh0VzhPSUF2Tm0xZ1Y0X0FXdUR1U1c0SzRmdGFfTEZoR2pOWk1fYUxFOFhrdTNTWTFvZThfTTNPM1JveUJ3MHZYMV8tX2pCTC1SVl9la21neDdMN2lXcUZHMFhQbTgtczdJaGZsQ3hvQWU0eWNUaWNvUDRYUHZscFJvM0M4TEQzcl9PejJPVXN3YWtWTENnU0hwUTdEUWFJM0xXeFVXQ0M2TElQNFpQTFpac2VzT2ZLOHp2UTg2Mm0wV19WaTk0NUlkR21QSlVTMUpGN0NESGRmcHo5bmJyVE0yV3c?oc=5>
-
-### 特朗普称金正恩已回应其对话请求
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-08-17 22:46
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9VOWRjTmc5RFJtbVJuLW1mdUdhQmdTdFdjNGZNLVJrREdaTW5qZGVjekplOGgwaG5keXNFTjkxU0hNN2R4VVpWYnJsQ2tEbE16dk54Mlk5RHlNVzNJXzByeE9XODJ6V21LV2c?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-08-18 18:16
+- 链接: <https://news.google.com/rss/articles/CBMinwFBVV95cUxNVExCSnhwR0hiTks0RlhGRENqS2dwQVV6djkyaGE5TU1HTFFKeTV4RHpaWDlDLWZwRmUwTUw5RVJyeUh4V1VPQXJJZWZwZ203MGxpdmRXekhCZDMwdW56SHJQVVRJTEFfVW44S0FWOWFGNzZmSzR3Y3pMT3JfM0ZRTzdvak50WENJeVotN1loeE1SLVllQlhHQm5mb3FfOFE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-18 18:27  (2 条)
+
+- **王一博** | 王一博此次VOGUEMAN封面内容何时正式发布？ <https://k.sina.com.cn/article_7879776731_1d5abd9db06801dtzi.html>
+- **Trump** | 更新：股市下跌，油价上涨，因特朗普称美国未与伊朗进行谈判 <https://news.google.com/rss/articles/CBMinwFBVV95cUxNVExCSnhwR0hiTks0RlhGRENqS2dwQVV6djkyaGE5TU1HTFFKeTV4RHpaWDlDLWZwRmUwTUw5RVJyeUh4V1VPQXJJZWZwZ203MGxpdmRXekhCZDMwdW56SHJQVVRJTEFfVW44S0FWOWFGNzZmSzR3Y3pMT3JfM0ZRTzdvak50WENJeVotN1loeE1SLVllQlhHQm5mb3FfOFE?oc=5>
 
 ### 2026-08-18 17:52  (2 条)
 
