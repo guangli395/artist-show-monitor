@@ -1,35 +1,11 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-18 15:55**
-- 本轮扫到 9991 条, 新增 **4** 条
+- 最近更新: **2026-08-18 16:23**
+- 本轮扫到 9992 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (4 条)
-
-### 特朗普：未与伊朗进行任何会谈 未来也无相关计划
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 央视网
-- 时间: 2026-08-18 13:44
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFA0NHJseHczNGlvLVcxSkh5NVVlTFNiekJPVHY4MjFKR3VLSmRjQnBQZUFzVU5oVm1VRGh0bGpyZHM0SW83Q3R3eTItaFBrWjdZMi1XY0ZoUFVsR19NWHR0Tm83M1BHVjUxSTRJdlJZY29qMzV2NTBSRQ?oc=5>
-
-### 特朗普：目前并未与伊朗进行任何会谈或对话，未来也无相关计划，霍尔木兹海峡保持开放并正常通行，所有水雷均已清除或引爆
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-18 13:55
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE5rdWR3T2ZiT2NydTE5TTcweEpRa0VjTTJmcVYxYkpqa0NTWGQ2ZWlYSFVtYVl4MHFrd2FOSVUzNzY3a004RFpmZVp3Skd6TlBKaXI4clozUTZMMTF1Nk1TWjVtek5sWWZPWEFVWEl4TENnaVFranc?oc=5>
-
-### 特朗普总统：金正恩回应了会谈提议；韩国官员：希望特朗普能促成美朝间有意义的对话
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-08-18 15:23
-- 链接: <https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc0c0cjE4Nk1DMFktV2YyRk41UVk2VWFhcWp5OFducjhIYVdnOTlFT3YxS2dJUkZIQTFnbDM5WWhVdTZkZzRSUi1jQmRfRTNrY2ZObklBbXhReVMxMl9aQjdtWTNpTkxtdUxUT3pQeUZtUUhBNDdDUF9RQnhmR0lSUXg1WWtsU01NNUFlZGdiQkxFZEtDUDhIMC16Wm8waXozNEN1N2dlOHktdm9tLXZldlZsX2pIMTNfZlNmQUpsa1TSAcMBQVVfeXFMUE81WXBUQzFmTFNHTFMwbjFDSmpQQ2pyUFdjUGloclk5LTFjdDF2VFYxZThoMm9BWUhObUdYYlhOMlEwUmMwRVBlY2wtQkF5aEN0ZUNsOWpuM1RvZkQ2enVocjlHWk9xaXljT3pXeVEzclRNcE9xLUVXUDNKV1RwNW5CUk05aEJzYWo1NGVlZUVrdmV6SURiaktkS3hCbG1xXzNIZk8zeUdJRElzRVltUWNvSmxzUEFicFlvQ3RlWlRxb0lV?oc=5>
+## 本轮新发现 (1 条)
 
 ### 特朗普女婿劝了4小时，内塔尼亚胡拒绝
 
@@ -37,12 +13,16 @@
 - 来源: `googlenews`
 - 场馆: QQ News
 - 时间: 2026-08-18 09:32
-- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTE94QXdNWUMzQjczU2o4aTJ4UElFMVNHNUtkQ0RSa0pNTDU5aGVtbGJGTUxqUDZDTnhYbEFkeW10cnhieGZXRWhaMktVRlZOcVJxdjFpeDU4R0t4eXRkWWNDUXY5bzVYbTdfN2hGcTRn?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMibEFVX3lxTFBwd21jaWRnRmJ1UGh2MGx3WkUwcDZjcE8wR0hHU2lyMTg4dGprUEVPa3ViSy1YX1Mtb1hEc1FGcjljUlpRV3J5UnI2NFQzcXk3MTNUOE9IN1YyNnN5UVpnSDlEc0lCS0FQemNmLQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-18 16:23  (1 条)
+
+- **特朗普** | 特朗普女婿劝了4小时，内塔尼亚胡拒绝 <https://news.google.com/rss/articles/CBMibEFVX3lxTFBwd21jaWRnRmJ1UGh2MGx3WkUwcDZjcE8wR0hHU2lyMTg4dGprUEVPa3ViSy1YX1Mtb1hEc1FGcjljUlpRV3J5UnI2NFQzcXk3MTNUOE9IN1YyNnN5UVpnSDlEc0lCS0FQemNmLQ?oc=5>
 
 ### 2026-08-18 15:55  (4 条)
 
