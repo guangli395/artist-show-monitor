@@ -1,64 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-18 13:36**
-- 本轮扫到 9984 条, 新增 **6** 条
+- 最近更新: **2026-08-18 14:26**
+- 本轮扫到 9985 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (1 条)
 
-### 特朗普称霍尔木兹海峡为“美国新领土” 伊方称其为“妄想”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-18 12:45
-- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE9TSWgwQW5SQkxOYXZZZG9ING1wMVVRT2F3dlEwcjNmc2IxdDF4RHlld2ZNdXV4R3NXanNyRU5zV2RWNmdhVndzLWVGSWZJZ2R6NGlkYUNlSjUtcjg2ZEJackY0VFljSXZGcUE1SGJtYy1XMVhzNTQ2LUFJZ1ctdw?oc=5>
-
-### 特朗普发图称霍尔木兹海峡是“美国新增领土”，伊媒回应：妄想
+### 特朗普"送给中国一份大礼":美国亚洲策略再受质疑
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-08-18 12:23
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFAyS01YZjRCUUI4dzh5TVhaeGt2SHJ4OWRJblhQNnNoVmNfUUdNNUJXMGt5dVFab2FxSndQQWxyUHJhZktzU0REaVJOMkJMUXBMQk5ka0puUjNGTUNqX1VnRDNyTlBrSkJod2c?oc=5>
-
-### 罗四鸰：特朗普的白宫生意
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-08-17 11:00
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4tMVVOMW5vMHhMZ3E2T0NMRmZYMUJFSHRqd3NvbnVZcXdjREhMaVBYT0s3X21Db2RneHFCcF84WFU5RUNLYThicWdvRm5oS1QyYUQ1T1p1djV3Ny1jcDBBTl9Qb3dBU3M?oc=5>
-
-### 特朗普称霍尔木兹海峡为“美国新领土” 伊方称其为“妄想”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-08-18 12:30
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9oVkp1eXhlTmota1ZmLW1Nc0JLQ2JldzM1R1M5WlRZa1dCT0NfODl2RUY5UFozeDBQRmk4Nmp6dG5OVzlrdjEyU3Zhd0ctZk9wSkVTaHFaa1htOUZFZ0ZqcWNIdk0?oc=5>
-
-### 特朗普“不续期”，美伊战事会升级吗？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: Shangbao Indonesia
-- 时间: 2026-08-18 10:51
-- 链接: <https://news.google.com/rss/articles/CBMihAFBVV95cUxPMXdJMm5YUjJGNWpZUVBoc0RVck9zN1A5QWpSSnBmc2Y0TWYySHlYVmNGUjlOZW90UEVFOVJRTnA4NHNON2JUUG12b09vaHNyT0FYUzMyYjRaX3pKUTI5LUNBT2ZnZ1FPOGVHaWN2Unp2X1B0cjcxSGVYRmtHQjZkM2Y5b1A?oc=5>
-
-### 缩减军演换和平？特朗普称金正恩已回应
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: DW.com
-- 时间: 2026-08-18 13:16
-- 链接: <https://news.google.com/rss/articles/CBMilgJBVV95cUxQQ3FVNWtGdmdCSFY1bDBXUDZ3a3NKSkdmS3Y1eUE4R2J4QWhvbnBfdzNBVXRULWZ3QVBBNUNHTWNiZTRQci05M0hhRGhoTjlhZjJxVS12NTdIclBXQ0VfT0xlNF9abUExdmVIYVBqNW9KYW5lbGNEdlBKM08yZjdoQkdsN3Y0SkRrX0xMZ0R0U25HSDloSklRT1ZqR2E5RW9maGFLeENSa2Y3dWhnZHFJYzN4Wmk3b1MzN0VzZU0ybHltRDRpeGZWUGZXbS1PN1ZweFdzQkFJUnNibUZNVFVfMzNXZHBoVm1qRUhnaG84eGxvUXhGcjAxdDNpaXBuWXZhYTV0eWpyVE4tdXhYSHBIOWx6VGpzUdIBlgJBVV95cUxPM1lzeHhWRnl3WmhFQTczbGtqajVOMF9pTllLZkhHWElnRGFlamdkdDVLWjI2Z1BGWHZEb05aWFFVSE5MN1RkSEc1SFlnYW5pelZlOFlBOUk0bGpCX0dYY05PWUFYbjVCbmFwaFd2NG5ZTENNS3FEVFh4Z1h2VFlra3U1ZFd2dUQ2WnQyRWYzVDdna2FiSTJsUVYtb0phSXhkWkVpU1JXbGg3MFF1eURuWERCa192dWE3VDN0RHVmUHRNRUpnSnR0Wl9ydmZseGEtNWl5M0Mxa0RnWHZhODBvVWlfQ1VoYmlDLU9EdVpOemtFSnJ6bUswbmF6MlFQVW1oRHZsLUp3Z3A1aDlBaG9QNmRnUmpMdw?oc=5>
+- 场馆: 文学城
+- 时间: 2026-08-17 02:19
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoelNFQmJMOEh0QWltU3ZTS1NjTTkzV3Ria28zNTYxSEZOUTZPbmFpT1RzSHhhckdPcUs3NUxwVlU2SmpIVVRCUnUxUkdLb08zWk1uUGg1dFRKbENjWWhlbmtQZ3EtNDBC?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-18 14:26  (1 条)
+
+- **特朗普** | 特朗普"送给中国一份大礼":美国亚洲策略再受质疑 <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoelNFQmJMOEh0QWltU3ZTS1NjTTkzV3Ria28zNTYxSEZOUTZPbmFpT1RzSHhhckdPcUs3NUxwVlU2SmpIVVRCUnUxUkdLb08zWk1uUGg1dFRKbENjWWhlbmtQZ3EtNDBC?oc=5>
 
 ### 2026-08-18 13:36  (6 条)
 
