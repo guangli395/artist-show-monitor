@@ -1,32 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-18 08:27**
-- 本轮扫到 9956 条, 新增 **2** 条
+- 最近更新: **2026-08-18 09:02**
+- 本轮扫到 9961 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (5 条)
 
-### 特朗普：那是CNN的假新闻
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-08-17 23:49
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBzSGYzd3duZ0E4QnJ5Z2dmWlg5UXNtNVBSR0M1MHdUSkJTQ192bk1Kck1XanpRZms4UXh4aXJTS2Fva0R0YWZhajdkMXllNzVfWlJsQlJuQkFBODBMbGYzUkhabE5vRUFab3c?oc=5>
-
-### 时隔十年迷你特朗普想和特朗普重聚
+### 民调：特朗普支持率创第二任期内新低
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-08-18 08:05
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5oamFIT3I0Q19NbDZRdHpobEMxRWtUUVc0NnNCbF9kQ3U3YTFUeDZWMktTMGJ6QnRRSi1ZNkZ2LVM5YjRpODVURTFSbkxJeHlTcmNLeFIwWWE2OFp5dWExaVBnY3dPbHdnbWR4YnZicS0?oc=5>
+- 场馆: hkong.cn
+- 时间: 2026-08-18 06:58
+- 链接: <https://news.google.com/rss/articles/CBMiVEFVX3lxTE95NVhHWUsyRnJaa29ha0hZY2NPcnhaQTZMdko2T3ZnQ0dGMThKVXF4RkJpT2pQTlA0UHJQMTdHWWdqT0RfcmVBX0JIMDA3SDhxSFVfZQ?oc=5>
+
+### 特朗普被沙特鄙视，王储直接把话说脸上，对伊朗心服口服
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-08-18 08:32
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE91TkdmOEdiOU9vNXItZlJVNHVtM1FpYlItNFo4ay04eWJMSVF6NGZCZXd0MVBMTGlyRGhuSGhFYl85U1MwbmdrS19sUkFldnA4TVRpa2VSb3hGU28yRGhEWm9fOE5jNklkRGJRcVl3azl0QQ?oc=5>
+
+### 特朗普炮轰CNN记者“假新闻” 当场连说8次“安静点”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: hkong.cn
+- 时间: 2026-08-17 16:04
+- 链接: <https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXUFdraXJkT2pJdWJlRFFueU5TYzNvZFlncWhUUzVtdzVGcm5oUTVHRi1sbHFwUVhBUmFLMEJzQUpwSWlma1FJdlJUb2twQi1KdFVpQw?oc=5>
+
+### 特朗普怒了，20秒内连说8次“别说了”；CNN谴责“特朗普怼记者”：有权质疑不认同报道，但不应人身攻击；白宫官方账号迅速“加入战场”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 搜狐网
+- 时间: 2026-08-18 06:22
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxNNHBZeVhrY1gweDdQdl9ZZTE2NkY1bGJ6RjhiaXJpdks0WV9pVWFCS0dVYUVqT3EtZ0xrM0RxVVQ5UVZPVzJ0OUNUSzQ5aDZkd0I2TUJGTTVWZlBjVmpvbHlfUUNyTEVYbDZKYmo4UWREclJweGlIZmZ3RWhSeTEyNHg5UzgwVzJYSGNhUw?oc=5>
+
+### 特朗普：伊朗“不会达成我认为必要的那种协议”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 东方财富
+- 时间: 2026-08-17 21:41
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBHTWl5TVJZRkR2X3pYbDFKMzVBbjk2S3R2akNDcVpIeWRmM05EbDdRZFA0MkZFOENCUVJoZDhHZXJ0QlZpUVhGYTdYc1hLYnVXZEtXdFNmS3AzdUZBWG1Wdw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-18 09:02  (5 条)
+
+- **特朗普** | 民调：特朗普支持率创第二任期内新低 <https://news.google.com/rss/articles/CBMiVEFVX3lxTE95NVhHWUsyRnJaa29ha0hZY2NPcnhaQTZMdko2T3ZnQ0dGMThKVXF4RkJpT2pQTlA0UHJQMTdHWWdqT0RfcmVBX0JIMDA3SDhxSFVfZQ?oc=5>
+- **特朗普** | 特朗普被沙特鄙视，王储直接把话说脸上，对伊朗心服口服 <https://news.google.com/rss/articles/CBMickFVX3lxTE91TkdmOEdiOU9vNXItZlJVNHVtM1FpYlItNFo4ay04eWJMSVF6NGZCZXd0MVBMTGlyRGhuSGhFYl85U1MwbmdrS19sUkFldnA4TVRpa2VSb3hGU28yRGhEWm9fOE5jNklkRGJRcVl3azl0QQ?oc=5>
+- **特朗普** | 特朗普炮轰CNN记者“假新闻” 当场连说8次“安静点” <https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXUFdraXJkT2pJdWJlRFFueU5TYzNvZFlncWhUUzVtdzVGcm5oUTVHRi1sbHFwUVhBUmFLMEJzQUpwSWlma1FJdlJUb2twQi1KdFVpQw?oc=5>
+- **特朗普** | 特朗普怒了，20秒内连说8次“别说了”；CNN谴责“特朗普怼记者”：有权质疑不认同报道，但不应人身攻击；白宫官方账号迅速“加入战场” <https://news.google.com/rss/articles/CBMijAFBVV95cUxNNHBZeVhrY1gweDdQdl9ZZTE2NkY1bGJ6RjhiaXJpdks0WV9pVWFCS0dVYUVqT3EtZ0xrM0RxVVQ5UVZPVzJ0OUNUSzQ5aDZkd0I2TUJGTTVWZlBjVmpvbHlfUUNyTEVYbDZKYmo4UWREclJweGlIZmZ3RWhSeTEyNHg5UzgwVzJYSGNhUw?oc=5>
+- **特朗普** | 特朗普：伊朗“不会达成我认为必要的那种协议” <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBHTWl5TVJZRkR2X3pYbDFKMzVBbjk2S3R2akNDcVpIeWRmM05EbDdRZFA0MkZFOENCUVJoZDhHZXJ0QlZpUVhGYTdYc1hLYnVXZEtXdFNmS3AzdUZBWG1Wdw?oc=5>
 
 ### 2026-08-18 08:27  (2 条)
 
