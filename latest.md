@@ -1,94 +1,71 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-18 03:21**
-- 本轮扫到 9934 条, 新增 **10** 条
+- 最近更新: **2026-08-18 04:05**
+- 本轮扫到 9940 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (10 条)
+## 本轮新发现 (6 条)
 
-### 多少人带着偏见入场！蔡徐坤演唱会过后，不少路人彻底改观
+### 王一博VOGUEMAN八月刊，脑洞剧场正式开戏，充满故事力量王一博新刊发布
 
-- 艺人/关键词: **蔡徐坤**
+- 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924004_m1d5ae1924033028bls.html>
+- 链接: <https://k.sina.com.cn/article_7810739724_m1d18e6e0c03302h5ta.html>
 
-### 创新低，特朗普最新支持率公布
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪军事
-- 时间: 2026-08-18 03:20
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE9yTlVJY01YZlpoS2trenBUM2pMSDFwbldCSUFQWVNnTG9EcGRzYUNhN3llcURzMjM3c1poYW5keS0xbHpZVzduWTBEbUVJQmNrbkF5U0JUWUV3bHlGekVUTGFUTzVnLWxkZFdzbWtfT2ItVzQ?oc=5>
-
-### 特朗普拿韩国出气：不帮忙打伊朗，还拖着3500亿美元投资
+### 美国金融史上最明目张胆的一次？特朗普家族持股加密公司获批银行牌照
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-08-18 01:51
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9VbVl1ZDJfdE1yNGw5aXNUdmkzdDhVMi1MaDBlY0ZTU2x2ZVZLMmZFQzFEbzNza2J0TTIyS0FndzJUcXNqaHk0b0VweFIybUpKc3dFclpHMGxJaGtuWks5anczWHlnQ3VpRVE?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-18 03:35
+- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxNbkgzRFNBSkstM0tqTmNMNkVkT2VjSVp2MGVmbWFVaDF6SEhyT0hZWUF2SXVYWGtPZEFGYTVhU2ZqcXZNUUVCU0JCTlZKeVlkV3hoVzFoVG1qYkNWcUdMWk5mclF3UXRrQnZ5Rk00WVFNTFFTNF9KQXpnSGN1VFFMekhzc1JVWms3OWJ2STF2cVdCS3QxVFVJSg?oc=5>
 
-### 一觉醒来，特朗普向朝韩发出强烈信号，信息量很大
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: QQ News
-- 时间: 2026-08-16 23:40
-- 链接: <https://news.google.com/rss/articles/CBMibEFVX3lxTFBWMjQ2aHNmTTlUSHFnVTNpT0pGWVJhajBJdjJxUjNPSnM1aU1MczNoZ2tROE1SbVROMEJWQXJLNU1nRzJhckVlbWxkS3JVSHlFU1E3SHFpankxUkctWkwtWGpOV0pjZDhKU0xVag?oc=5>
-
-### 美国考虑应特朗普喜好重新设计航母：后者曾高喊重回蒸汽
+### 特朗普要求记者闭嘴
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 驱动之家
-- 时间: 2026-08-15 15:56
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE5UODVJbWtrZHpGWmV1U1g2VUFGVXBiekpYWERGRXNCVG5XY3hSTzVLeGsxeTl3ejVDZUZSWGFEU3JyVjVBVWhTcUQ4ZzVYLXZpaVpsNVFDVHM?oc=5>
+- 场馆: video.sina.com.cn
+- 时间: 2026-08-18 03:23
+- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxPcmpRc1FsaUxUdGxtSzM2SmRSWnNEUlRKdDM2M2lRRjlaVlF0VDk3Ml80YWtya1pCMGE0ei1XbV9pSXkzZVFFQkRYTjV6Z1NCeVVVd0Nod1FXZXB0WXEwMHVfTko0dW1wM3dwZGF0Z1ZzQ0JlOG81YkxfWWtfTFBCbGln?oc=5>
 
-### $英特尔 (INTC.US)$ 油价上升,Trump 又乱乱说话
+### 白宫宴会厅曾是特朗普的美学和空间之梦，如今却成了“军事综合体”
 
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: moomoo.com
-- 时间: 2026-08-18 02:17
-- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWWhUUEI4Z01kQWRmZkluWUpoQ3pMR2gydVZGU21vRXdSNE93bUV5UXlwd3VkUzFkTDlzbUE2NzFlaGR6YnctUTY1SXJOYkFYZVJKUGY3S2dXV19BaExxdGlwX2RyWmFFNVdTRWVxS1RzS1FMNm9IZUEzZENHVFZkbjg2aVlVaHpLT1NwalZBV2t5N3lFYnIyb3FDU1JmU0hLTEFmZ285NWF4QQ?oc=5>
-
-### 特朗普为何再次威胁轰炸阿曼？
-
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 华尔街日报中文网
-- 时间: 2026-08-18 01:57
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE03UVVGa2haZFVISFpnUl9PTFNBcnBYZW5Bb09SS0p4QXFXSTg3U0VlWHpFYVJNbUVWRkxVb0YzZ19YZUZQNlQyQjRBZFl3TVpibVZHRnRibGxTYmJqa1JzbW05TnhWLW5LbjMw?oc=5>
+- 时间: 2026-08-17 05:54
+- 链接: <https://news.google.com/rss/articles/CBMiswFBVV95cUxQMWJvLXU3dmpRb2JpTUU3dnQxdloxSGZuSkxjakdBU2Riemx2LWRkQVBOb1VOSWhLaVpYTFJKS0k4alpYeVg2aXBhcDBHdXNXNHhsNDU4Z25NN201b212NzdreTU0YWVSWGVXTWh4anEwTEJ0QzJRUXpVXzk5ZmdIbXlkOXQ1Ry1RMjVtaEpwd3dNMTdnOFZoQWI2akdTZVAzMTdnWklHcWk0b1hxY3JNdjh0Yw?oc=5>
 
-### Trump：“韩美联合军演是战争演习”……美国专家：“削弱同盟信任”
+### 特朗普总统命令大幅缩减美韩联合军演规模
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-08-17 22:45
+- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxQelpUajBLeUVPLUxCOHhaYVc4bHNUUkk3SEliMTZjVW93VThRRXA1cHI1U1RyRURUb1AyZEZYMU8xU04xaDAyZW42ZnBDanpKTEZ1c3hQLTgzVGFuRi13ekdjTG5fR2pUNUJWZjhuRWR3Y1ZSaDBMa2MwRVZkcVNTV0pLWlRoVDBnUkHSAYoBQVVfeXFMUHpaVGowS3lFTy1MQjh4WmFXOGxzVFJJN0hJYjE2Y1Vvd1U4UUVwNXByNVNUckVEVG9QMmRGWDFPMVNOMWgwMmVuNmZwQ2p6SkxGdXN4UC04M1RhbkYtd3pHY0xuX0dqVDVCVmY4bkVkd2NWUmgwTGtjMEVWZHFTU1dKS1pUaFQwZ1JB?oc=5>
+
+### 就像trump一样，绝不投降
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 아시아경제
-- 时间: 2026-08-18 02:22
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JN2UzQjhDU3VWZTBxN25NcnYwamxxLS1hRTNhR1I4d2tBTmQwWUhDSUdSUWFuTlhoMTdlblJ5UnJNRnAxSVhKRVVKLWhZZUJKMG91MVVfS0hhTlBmOVBEVXc5Y1U?oc=5>
-
-### 一年前在2025年比特币拉斯维加斯大会上，Altcoin Daily 曾询问Eric Trump、Donald Trum...
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: moomoo.com
-- 时间: 2026-08-17 23:27
-- 链接: <https://news.google.com/rss/articles/CBMirwFBVV95cUxQbzg1bmd0emRQNkxpaWdmS0Q1dWZIcV81c3A3Y3pzR1VhSXRxOHYxQVJ0NmxSVUdPZGp1eTRwTE95TXlLTVJtS2dnQlhTd1U4QnlLUXQ3eE9GRld6NXJNSEJJTlFkbFF2TTJnMi1BVFFtSXRZZXpfdmxEYm9hbC1iQXRPTTJpOU02TjNITFVWa055c1liN18tdWxSVi1zUU9KMFdRVlYtMU5oYWFGdHJv?oc=5>
-
-### 美媒：习近平下月访美与特朗普会谈 不出席联合国大会
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-08-18 01:53
-- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTE9QMXkyajhUMjY2eFNnNG9iYzg1NWotODY1d19GbmFxT0NycDBGTnh3eDNHell3SGVmQU1LQklzWjgzZExGTzUxM3ZUdDg3LVFkbjJ2bjc3LWFBeWxhcGtyUF9nUU1MR1dRdEVWb3dmbFNrdlpWanllT0dfNA?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-08-17 12:57
+- 链接: <https://news.google.com/rss/articles/CBMikAFBVV95cUxOR3pBVHNTUy1QbVJYQk9rbVAwWHAtRi1FY1gyQjZQWWJ5aXBlSzR4YUNaR1Awb2Y0VXpoU3k5elBrTkQ4WGlJMVMydWRLcHJEaUNkdUcxUURyUGFFY0FGWHpiNU45Y0dyeTF1OGd5MHVqTUZIMExnd1VjZ2V2aHhpMlN0TFAtV2JIX2kxdFNyR1A?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-18 04:05  (6 条)
+
+- **王一博** | 王一博VOGUEMAN八月刊，脑洞剧场正式开戏，充满故事力量王一博新刊发布 <https://k.sina.com.cn/article_7810739724_m1d18e6e0c03302h5ta.html>
+- **特朗普** | 美国金融史上最明目张胆的一次？特朗普家族持股加密公司获批银行牌照 <https://news.google.com/rss/articles/CBMimAFBVV95cUxNbkgzRFNBSkstM0tqTmNMNkVkT2VjSVp2MGVmbWFVaDF6SEhyT0hZWUF2SXVYWGtPZEFGYTVhU2ZqcXZNUUVCU0JCTlZKeVlkV3hoVzFoVG1qYkNWcUdMWk5mclF3UXRrQnZ5Rk00WVFNTFFTNF9KQXpnSGN1VFFMekhzc1JVWms3OWJ2STF2cVdCS3QxVFVJSg?oc=5>
+- **特朗普** | 特朗普要求记者闭嘴 <https://news.google.com/rss/articles/CBMiggFBVV95cUxPcmpRc1FsaUxUdGxtSzM2SmRSWnNEUlRKdDM2M2lRRjlaVlF0VDk3Ml80YWtya1pCMGE0ei1XbV9pSXkzZVFFQkRYTjV6Z1NCeVVVd0Nod1FXZXB0WXEwMHVfTko0dW1wM3dwZGF0Z1ZzQ0JlOG81YkxfWWtfTFBCbGln?oc=5>
+- **特朗普** | 白宫宴会厅曾是特朗普的美学和空间之梦，如今却成了“军事综合体” <https://news.google.com/rss/articles/CBMiswFBVV95cUxQMWJvLXU3dmpRb2JpTUU3dnQxdloxSGZuSkxjakdBU2Riemx2LWRkQVBOb1VOSWhLaVpYTFJKS0k4alpYeVg2aXBhcDBHdXNXNHhsNDU4Z25NN201b212NzdreTU0YWVSWGVXTWh4anEwTEJ0QzJRUXpVXzk5ZmdIbXlkOXQ1Ry1RMjVtaEpwd3dNMTdnOFZoQWI2akdTZVAzMTdnWklHcWk0b1hxY3JNdjh0Yw?oc=5>
+- **特朗普** | 特朗普总统命令大幅缩减美韩联合军演规模 <https://news.google.com/rss/articles/CBMiigFBVV95cUxQelpUajBLeUVPLUxCOHhaYVc4bHNUUkk3SEliMTZjVW93VThRRXA1cHI1U1RyRURUb1AyZEZYMU8xU04xaDAyZW42ZnBDanpKTEZ1c3hQLTgzVGFuRi13ekdjTG5fR2pUNUJWZjhuRWR3Y1ZSaDBMa2MwRVZkcVNTV0pLWlRoVDBnUkHSAYoBQVVfeXFMUHpaVGowS3lFTy1MQjh4WmFXOGxzVFJJN0hJYjE2Y1Vvd1U4UUVwNXByNVNUckVEVG9QMmRGWDFPMVNOMWgwMmVuNmZwQ2p6SkxGdXN4UC04M1RhbkYtd3pHY0xuX0dqVDVCVmY4bkVkd2NWUmgwTGtjMEVWZHFTU1dKS1pUaFQwZ1JB?oc=5>
+- **Trump** | 就像trump一样，绝不投降 <https://news.google.com/rss/articles/CBMikAFBVV95cUxOR3pBVHNTUy1QbVJYQk9rbVAwWHAtRi1FY1gyQjZQWWJ5aXBlSzR4YUNaR1Awb2Y0VXpoU3k5elBrTkQ4WGlJMVMydWRLcHJEaUNkdUcxUURyUGFFY0FGWHpiNU45Y0dyeTF1OGd5MHVqTUZIMExnd1VjZ2V2aHhpMlN0TFAtV2JIX2kxdFNyR1A?oc=5>
 
 ### 2026-08-18 03:21  (10 条)
 
