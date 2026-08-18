@@ -1,24 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-18 14:26**
-- 本轮扫到 9985 条, 新增 **1** 条
+- 最近更新: **2026-08-18 15:00**
+- 本轮扫到 9987 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮新发现 (2 条)
 
-### 特朗普"送给中国一份大礼":美国亚洲策略再受质疑
+### 干预政策、压制批评，特朗普政府将美签证"武器化"
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 文学城
-- 时间: 2026-08-17 02:19
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoelNFQmJMOEh0QWltU3ZTS1NjTTkzV3Ria28zNTYxSEZOUTZPbmFpT1RzSHhhckdPcUs3NUxwVlU2SmpIVVRCUnUxUkdLb08zWk1uUGg1dFRKbENjWWhlbmtQZ3EtNDBC?oc=5>
+- 时间: 2026-08-17 07:40
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VWEJvdFhTUTM2Q3BtbXRQY2p4Zm9fUWY1ak8tbTRNaUpIVGp2UjhsNE53eUR5ZVhENnZkMWNjVkk2bWF1OGdCcmhBdWdnTzlyNlhVNEVpZGFzUkM4QXRlSHYzcWdrZ0VN?oc=5>
+
+### 特朗普：目前和未来不会与伊朗进行任何会谈或对话
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: chinanews.com.cn
+- 时间: 2026-08-18 13:52
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TNWl0UWV0djY2WUZ5Y04wQ1RRQWh4eGliTnlIWndYWVFUdG5KTzQwMVg3UlZuOUIwekt4Z09ZbVNjOTZDejdwM0pUYnZTYjZCeVpXVEN2eVl6djRFVi0zOXZhNkUxbWdF?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-18 15:00  (2 条)
+
+- **特朗普** | 干预政策、压制批评，特朗普政府将美签证"武器化" <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VWEJvdFhTUTM2Q3BtbXRQY2p4Zm9fUWY1ak8tbTRNaUpIVGp2UjhsNE53eUR5ZVhENnZkMWNjVkk2bWF1OGdCcmhBdWdnTzlyNlhVNEVpZGFzUkM4QXRlSHYzcWdrZ0VN?oc=5>
+- **特朗普** | 特朗普：目前和未来不会与伊朗进行任何会谈或对话 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TNWl0UWV0djY2WUZ5Y04wQ1RRQWh4eGliTnlIWndYWVFUdG5KTzQwMVg3UlZuOUIwekt4Z09ZbVNjOTZDejdwM0pUYnZTYjZCeVpXVEN2eVl6djRFVi0zOXZhNkUxbWdF?oc=5>
 
 ### 2026-08-18 14:26  (1 条)
 
