@@ -1,32 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-18 22:48**
-- 本轮扫到 10012 条, 新增 **2** 条
+- 最近更新: **2026-08-18 23:15**
+- 本轮扫到 10014 条, 新增 **2** 条
 
 ---
 
 ## 本轮新发现 (2 条)
 
-### 特朗普发布地图，将霍尔木兹海峡划为“美国新领土”，伊媒：“妄想”
+### 美官员：特朗普要求谈判团队暂停与伊朗接触
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-18 12:43
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1uYTR3eTRNMG0za04zODdWY1ZiRzhGSGpYQVhfU0VlUTNJMzR3MWItSVBPNG5IaVNUa1FKRk54UlB3aVFWWWVRa2hwWWc?oc=5>
+- 场馆: 新蓝网
+- 时间: 2026-08-18 22:47
+- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTFA3d2pQQ3E3c2lZQTRLSGZIZFVabE1xOWlzaEEycDQtcmFTSnZvcGJESzNlZHlwVzdNM0NUWWdvc1JLOTJVaFM4SlgzRkx2NDg?oc=5>
 
-### 美加关税谈判进入最后关头 特朗普政府淡化达成协议预期
+### 特朗普称美方目前未同伊朗进行任何会谈
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 手机网易网
-- 时间: 2026-08-18 19:33
-- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTFBDNE5IOHRtaEJsaW5TYk5QM2Z1UkJIVUxmSElzdnBxYlU3TDFhSkU1VXVkeUFaQVUyR1VnRWVkOGdRWkRxeWdLQnpzSVktcDI5Tmx6OUJCY2tLeUxUdzV1UHVn?oc=5>
+- 场馆: 8world
+- 时间: 2026-08-18 22:48
+- 链接: <https://news.google.com/rss/articles/CBMiogFBVV95cUxNMW1qUERFeVdqbU5IV1hKdVdLOU0xSi1iMU0yNVNOT0lZQ054Z2hZakRTNmN3NjRVVjdBV3N0MS14akxQU0I1UEQ4N0pyUHJfeDAyV2R3aDlEY3NUTG9xUlhoUzR6N1c3Ti1ybWhxMk1HYmp1NEw4Um44YW5IcnhzVEc2OFBjR09kUmZZQzZWR3ljYXM4cWFlZVl0VHpYaXVJekE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-18 23:15  (2 条)
+
+- **特朗普** | 美官员：特朗普要求谈判团队暂停与伊朗接触 <https://news.google.com/rss/articles/CBMiT0FVX3lxTFA3d2pQQ3E3c2lZQTRLSGZIZFVabE1xOWlzaEEycDQtcmFTSnZvcGJESzNlZHlwVzdNM0NUWWdvc1JLOTJVaFM4SlgzRkx2NDg?oc=5>
+- **Trump** | 特朗普称美方目前未同伊朗进行任何会谈 <https://news.google.com/rss/articles/CBMiogFBVV95cUxNMW1qUERFeVdqbU5IV1hKdVdLOU0xSi1iMU0yNVNOT0lZQ054Z2hZakRTNmN3NjRVVjdBV3N0MS14akxQU0I1UEQ4N0pyUHJfeDAyV2R3aDlEY3NUTG9xUlhoUzR6N1c3Ti1ybWhxMk1HYmp1NEw4Um44YW5IcnhzVEc2OFBjR09kUmZZQzZWR3ljYXM4cWFlZVl0VHpYaXVJekE?oc=5>
 
 ### 2026-08-18 22:48  (2 条)
 
