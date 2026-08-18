@@ -1,47 +1,13 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-18 20:15**
-- 本轮扫到 10006 条, 新增 **4** 条
+- 最近更新: **2026-08-18 20:47**
+- 本轮扫到 10006 条, 新增 **0** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮无新增
 
-### 美加关税谈判进入最后关头 特朗普政府淡化达成协议预期
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-18 20:02
-- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxQbEZlb2dsUzVDM0liYUNtaWh5ZkJscDR4ZUVFMzJOcVFOVkNRdWhVYi13bGNrMVF4VGx1dzNhRGZQRE05cHRpdnhESWQxWWdIOUVNUXFPR2taVWkxQzRZMUJEb05lZlI1SDg4ekhzMUEyTWdxdTNaR3N2S0lCTTVfSC1VTmNLX1dONnc?oc=5>
-
-### 创新低，特朗普最新支持率公布
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-08-18 01:53
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1UYnNRQUhoR29aXzR0V0JqSno3MTQ5VGlfZ1lOU3FBSWZwdWlHMmxrUVN0RXNXSmJVblJMd1JDX0JON1kydXFFQkhjRWl0SFFyc204YWNJZ21VTjhPSWtXczRUZFk1ck5VYzRjNGlTNUw?oc=5>
-
-### 特朗普中东开战引爆“通胀炸弹”重创民意，美股与中期选举恐告急
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-18 06:55
-- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYlE3ekY4QUdfeGF4U2xFQXYwd3ctSjc1OEU4NVptdktneFNOdWlRbTVYS3hwSTFlSTVrTEg0OE45bTVqZkd0LWF2NFc2NV9seHRvSlAzeGxodE9zVnZNVW83NnFQdGpoLV84bXQzVHB2N2ZTU1E3ZEVoUGJuUU8xWHEwX0RFM09FWUU3dEZXYmVlSVlvZm1XRjlpLUNKdWdVMVV4QU1PZzFSUQ?oc=5>
-
-### 特朗普：未与伊朗进行任何会谈 未来也无相关计划
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: news.cnr.cn
-- 时间: 2026-08-18 14:06
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SNU85VDlBUUZFMnFha0tkdlFhaEtHSW5FSUpCZ2tiQXY1dU9ESmtvbmhneU0zdUVvQVM5aFZWMmhKa05LLURWeXdNTXgwVklDN2RNUjVKV2N1bGdjaXBmbnpyY2ZLNDZl?oc=5>
-
-
----
-
+数据库里所有演出/动态都已见过,暂无新增。
 ## 历史发现
 
 ### 2026-08-18 20:15  (4 条)
