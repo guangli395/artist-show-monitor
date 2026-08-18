@@ -1,56 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-18 09:56**
-- 本轮扫到 9966 条, 新增 **5** 条
+- 最近更新: **2026-08-18 10:23**
+- 本轮扫到 9968 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (2 条)
 
-### 这样的“玩笑”，特朗普说真的吗？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-08-18 03:20
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1sdkNYM1p5VUt1R3M2RW9MRGlxU2hWOUlYSHlpeE9DVmI4S01jSW1wenJTZmZNenRXOFItb0R2dm5xQ3FEUDRNM09ZU2dfWGpJYWlwcWRwbnNfdkgxOV83TTdkR09neUtjYk9MaFEtUUU?oc=5>
-
-### 特朗普女婿兼特使库什纳结束中东行程，加沙和平方案进展有限
+### 特朗普：金发碧人，为何离我而去？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-08-18 09:15
-- 链接: <https://news.google.com/rss/articles/CBMirwNBVV95cUxOQkwxREZxOFYxYkhaMlFHMllkOWxBajlhZHVOVnVqZVV6bmRKSG5jb3Nnc0N0ZDRHYi1RVmNncEdoSmVKNW5oWlhsaThMdm83eVlfQjZGd0FObEE4ZEk2cHptWm92a2ZxelV6SHFBSzhaQUtGUnJvUnhGd1B4MXNneVVLNmpySktNTzJhVV84MnJ4QWFka2pCMWRaYTZEdkN2eEVhZVQ3ZDBTcmE1WTVzcGlUc05xT0dnQTEzLWVTamtMQi1sMXNWNERDRlRxWEZVOW0xcDVKaU1sREwyYW52Vm1XSEd0TkZsR1ZaaDJEZGFjUWJkM0wycU5ISU1UR1pKVXZPbmxqODBscURqT3lEQkRlbjItMkJVRlpVTkZOeFktT2VRb0JqUFJUZXBxX0ZNb3VwZ3VxaWwzUlZCckd6X0xYNkNuZVVsU0lFZU1Fa3hUTExwZHR1b2Y0b0lZQ1BvWm00b040UjRHN21teEsxU0wxQXR2TWsyT0Qxa2Q2VDFTRzFmSXhDWERFRlBuYjBaVlJDejNSYi04aDNvTTQwbkY4OTdOT0I5aGRSUnl6SQ?oc=5>
+- 场馆: 观察者
+- 时间: 2026-08-18 10:03
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5DSFhqREZmaFBaWkdKelZJSE5Bai02RlIweTlOX0pqTTJVa052SDlvWXpwTHBBSTkwdUo1TkxBeWpDbW5jUFo3Zk91NXlNbmYySHhIMXJoaUtxZGNhOC1YTzRwZkZSWDNKWlE?oc=5>
 
-### 特朗普称金正恩已回应其“对话”请求
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-08-17 21:37
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE45TVI4Y3BaeXZPejRWR214X0Q3ZWhYeGF5dnpwQUxiaGVINFM0YjY4QlFSeUxlOXUwcDlsdWVvdlJibFNIbVdYZHJGRk9tNmVhdl9xbElfUFFQUDFKQ2xUejdWcTVOU252UDF1OEtDTkJ3WnlkaWRGcmYxOWV3YW8?oc=5>
-
-### 特朗普中东开战引爆“通胀炸弹”重创民意，美股与中期选举恐告急
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-18 06:55
-- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxObEFBZ0RvRDlmVEk2SHFHdW1Nd0VlbFRLMmZZME9EZ1c5M19uV3dwT3EtdHpLZnJpQzBjSVlUV2dPdHFJZXhMZld1WWVKVWVteEl4YUFqVEdxM0VNN05NeEl5ZWU5MzJhSEFVeDdFU3dVbW10dklUZ2RIMUJ1cXNwOFlOejhJTC16X2FxR3AxZkI3X09qc2JSY2tBbDJjSjJYX1NVc2VQSGNlUQ?oc=5>
-
-### [快讯] Brunson在Trump下令缩减韩美军演之际访问国防部- 阿视亚经济
+### 靠中国AI吸金？特朗普家族加密项目曝光
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 아시아경제
-- 时间: 2026-08-18 06:53
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Bcy1LSTZrZ3haS05FMkFCd1VyVG0yTDB1ZWI2VmE1akwtWVB0d3lUR0tWdDFYcWxvZV9UaGtWMlVvelptVThfeTNBcGNmRlZyRmNOUzRubXlYWlZBa1lNaUVoalA?oc=5>
+- 场馆: dw.com
+- 时间: 2026-08-18 10:15
+- 链接: <https://news.google.com/rss/articles/CBMixgJBVV95cUxNSkE2bnR6T3dhQnpxSW9yOC1LSGZTdUNRanR0RnNkeDFzQk5OTEpDdEpEYnhSSDI1SEdoVkZ6N0lEUlhPYVJMVnVLTUNxNldrYk0xRWNZYXEyQ2dHbFNSZW85U18wWGQyeXo3c0RZRGpfMGdLTFk0Z21GUDUyV0VISk1IWG9tYmxjdGktdl81c1F0bDNMaG84bE5WakxpSlFSSHdlVmtPNDN2a2hTY3RQakFkNjdHbUp6MWlacXR1aW9KMGV5TWRhc05TN3pncE9WU1FoWFh5eHg1ZjNnbzdBbzJCNG82aklzVGdKSEw3Rmt6WjJXdzZQaVBGRkl1THlhTWxxUF9ST21DNG1WN3hYcmJzeDZhTEI2dlJ0V1ptTzNncnd5RFNSQ1FyUkFta2xHLWp1ZWxySzdpeFhtcTJ3U3JOMUNMUdIBxgJBVV95cUxQcGN3WXNMek93dFdGcl94TTMzdnlJSjhueFlHbmpsRlZINEhnaVhpWDE2TWR4S0s3TzBIMmVsaHdkZEdCVExEbEwzU1lFOFRWTmk5NmMzczdUR2d4NDB3VDlxOFh0Z2R0LTJZVllfeE9od0NxckQ5bXhyYnY2SDk3MGpPV0RHbmZoVVdSNFJadEdCaEFCY2NJX0dFd3NzWDl6YnVxb2REbzJmcGotZk5VQXd4OTNrWmVLZzhDWEw5TVJseE5fSHFjTDMwRzNpU1VVQ05TZnMwSEx4YTZtUl8wdjgzNVItTE5qNW1raElvM2k5eFVpQWY2VmEzV0xGRm04Y1lvYWRiYzNuc0xLRU4tWW40RnV1SmRsckpLa0pEcHV1bklkYU1oMkJJMXpiamRZNE1TdDhTMHg2TWxtYWxEQmFFdHpnQQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-18 10:23  (2 条)
+
+- **特朗普** | 特朗普：金发碧人，为何离我而去？ <https://news.google.com/rss/articles/CBMiakFVX3lxTE5DSFhqREZmaFBaWkdKelZJSE5Bai02RlIweTlOX0pqTTJVa052SDlvWXpwTHBBSTkwdUo1TkxBeWpDbW5jUFo3Zk91NXlNbmYySHhIMXJoaUtxZGNhOC1YTzRwZkZSWDNKWlE?oc=5>
+- **Trump** | 靠中国AI吸金？特朗普家族加密项目曝光 <https://news.google.com/rss/articles/CBMixgJBVV95cUxNSkE2bnR6T3dhQnpxSW9yOC1LSGZTdUNRanR0RnNkeDFzQk5OTEpDdEpEYnhSSDI1SEdoVkZ6N0lEUlhPYVJMVnVLTUNxNldrYk0xRWNZYXEyQ2dHbFNSZW85U18wWGQyeXo3c0RZRGpfMGdLTFk0Z21GUDUyV0VISk1IWG9tYmxjdGktdl81c1F0bDNMaG84bE5WakxpSlFSSHdlVmtPNDN2a2hTY3RQakFkNjdHbUp6MWlacXR1aW9KMGV5TWRhc05TN3pncE9WU1FoWFh5eHg1ZjNnbzdBbzJCNG82aklzVGdKSEw3Rmt6WjJXdzZQaVBGRkl1THlhTWxxUF9ST21DNG1WN3hYcmJzeDZhTEI2dlJ0V1ptTzNncnd5RFNSQ1FyUkFta2xHLWp1ZWxySzdpeFhtcTJ3U3JOMUNMUdIBxgJBVV95cUxQcGN3WXNMek93dFdGcl94TTMzdnlJSjhueFlHbmpsRlZINEhnaVhpWDE2TWR4S0s3TzBIMmVsaHdkZEdCVExEbEwzU1lFOFRWTmk5NmMzczdUR2d4NDB3VDlxOFh0Z2R0LTJZVllfeE9od0NxckQ5bXhyYnY2SDk3MGpPV0RHbmZoVVdSNFJadEdCaEFCY2NJX0dFd3NzWDl6YnVxb2REbzJmcGotZk5VQXd4OTNrWmVLZzhDWEw5TVJseE5fSHFjTDMwRzNpU1VVQ05TZnMwSEx4YTZtUl8wdjgzNVItTE5qNW1raElvM2k5eFVpQWY2VmEzV0xGRm04Y1lvYWRiYzNuc0xLRU4tWW40RnV1SmRsckpLa0pEcHV1bklkYU1oMkJJMXpiamRZNE1TdDhTMHg2TWxtYWxEQmFFdHpnQQ?oc=5>
 
 ### 2026-08-18 09:56  (5 条)
 
