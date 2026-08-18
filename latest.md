@@ -1,54 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-18 05:52**
-- 本轮扫到 9949 条, 新增 **5** 条
+- 最近更新: **2026-08-18 06:31**
+- 本轮扫到 9953 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (4 条)
 
-### 蔡徐坤红底生日大片发布，随性穿搭定格时尚瞬间
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7811157903_m1d194cf8f03301ryzm.html>
-
-### 足球场上的权力游戏：特朗普为何力挺国际足联主席？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-18 03:55
-- 链接: <https://news.google.com/rss/articles/CBMi0wFBVV95cUxPazFfYjJmdXpuUW9JUERZaEJESXJwQ0lIMU5ybmNNdUlscEtCdk82TjR6RWdnc1dyaDZUc1RoajdDSlVIcWNLaUFnTjY3cnpSZUJuQ1d5NUNUUGhrTkdUZlJMLXBhSXBSOXBrMnFidjJpdHRKbTdOMFd0VGlHR2RoWWg0QV9aTURRcWkxd3VfRGh2ei1hckl6cVRVMlJwX3VTX1JXa1FwOTNWOUQxZ3hLQ1FLaGh5TFZjV19PZVBzOXJ1QlgwTG1oaDhObl8yeE43UzZr?oc=5>
-
-### “大限”已至，美伊各放狠话
+### 虚伪！“一边封堵中国AI，一边从中赚钱”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 观察者
-- 时间: 2026-08-17 23:14
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9UNnpMUXk3emM1eUJmSy11RzhFeWdDQm9DYTBKSHJEWmx4X0ZNRTVmUlJTaVMtdVkxN3kydWwySllYakZna2kxRmVBZUkzT25FcTNIeDRwc1dibUR1VnRydC11WWw5LUhFVXc?oc=5>
+- 时间: 2026-08-18 05:37
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9lcXdZeFdxUkp5UkI5bTR1djlWNl9Hd0FWd2pGaUkyNW8wdGFVNXBoQVRnNFZjTU9DTTlwMG4wNXFrS3llTnpnZ1lyS3p6bHo0NzRZa09PakJITzJkNGtHWmplSDItcGZnQ1E?oc=5>
 
-### 路透民调：特朗普支持率降至33% 创任内新低
+### 美媒爆料特朗普政府拟放宽枪支限制：重罪犯可申请恢复持枪权
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观点网
-- 时间: 2026-08-18 04:51
-- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTFBBWFQ5bjROeFZEaWdURzZtOFdib2RDMzNRV0ZnMEpQMWdtUzhUeG91RGh5YkxKX2tNbnZ3aWZwNzhTQzZVRUM5blNvR1VSSEs0YUJfeUg4TzdQbW1QdXN3UW5n?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-08-18 06:04
+- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxQaXdJckRRWEZYVjl1NlNxRlpfdjc5Z3BlUFNSX0d4ZEc5OGxGZVgtbFZ4SUtCSXNCVF9zNW9YWE1CeEhwa0VXNk5wMHFUOGpnNnhDRVJBZ3VtR2VZc2xBRWh1cmdmckF5aEM5ZW42UVFSMHRCZU9EMHhkVFVTWUpENWV6QV9LTHgwSzJaWExqMA?oc=5>
 
-### 特朗普：不着急结束伊朗战争，若阿曼阻碍谈判、将“狠狠轰炸”，伊朗警告转向全面进攻
+### 特朗普最新支持率公布
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 富途牛牛
-- 时间: 2026-08-18 04:47
-- 链接: <https://news.google.com/rss/articles/CBMikAFBVV95cUxOYW5rcXVlVDM2UmtZdm1DSXBLc2ZPZ2E5U2Jpb0NXX2oyT290dVV6RTBMTHREdHdkTmlwdnlBQlNXNXFLd2pLQU85cGVabjl0cTRQRTdrTWZUMTNRRXFEMkhBT0FId3pyNUM1RVN0c2ZDdU1KdU1PU0hobm15Z0FIX09SUWtqbXljUnhFaDZUb0s?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-08-17 23:40
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1idzNXVklsLXBLWVNRNkJvZGZGcm5TajViMzl0SFJXVkExZ3l1cF92UE8tUE9Ydzl3SUd2YTlhRjlKd3l1eTlXb2JvWlI?oc=5>
+
+### 特朗普支持率降至任内新低 八成美国人料美伊战事长期持续
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 东方财富
+- 时间: 2026-08-18 03:33
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zQlZNMHpVVkF3LUp5WC0xR0dXcGp6aVBJZWVFdC1KaGZHU084SUY0T0NEVVF6TDY3YUVZZFhEMmhidnNlTXQ4SjlldHdVNDAtajBUU0NkejhqQ2hVRzlGRw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-18 06:31  (4 条)
+
+- **特朗普** | 虚伪！“一边封堵中国AI，一边从中赚钱” <https://news.google.com/rss/articles/CBMiakFVX3lxTE9lcXdZeFdxUkp5UkI5bTR1djlWNl9Hd0FWd2pGaUkyNW8wdGFVNXBoQVRnNFZjTU9DTTlwMG4wNXFrS3llTnpnZ1lyS3p6bHo0NzRZa09PakJITzJkNGtHWmplSDItcGZnQ1E?oc=5>
+- **特朗普** | 美媒爆料特朗普政府拟放宽枪支限制：重罪犯可申请恢复持枪权 <https://news.google.com/rss/articles/CBMijwFBVV95cUxQaXdJckRRWEZYVjl1NlNxRlpfdjc5Z3BlUFNSX0d4ZEc5OGxGZVgtbFZ4SUtCSXNCVF9zNW9YWE1CeEhwa0VXNk5wMHFUOGpnNnhDRVJBZ3VtR2VZc2xBRWh1cmdmckF5aEM5ZW42UVFSMHRCZU9EMHhkVFVTWUpENWV6QV9LTHgwSzJaWExqMA?oc=5>
+- **特朗普** | 特朗普最新支持率公布 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1idzNXVklsLXBLWVNRNkJvZGZGcm5TajViMzl0SFJXVkExZ3l1cF92UE8tUE9Ydzl3SUd2YTlhRjlKd3l1eTlXb2JvWlI?oc=5>
+- **特朗普** | 特朗普支持率降至任内新低 八成美国人料美伊战事长期持续 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zQlZNMHpVVkF3LUp5WC0xR0dXcGp6aVBJZWVFdC1KaGZHU084SUY0T0NEVVF6TDY3YUVZZFhEMmhidnNlTXQ4SjlldHdVNDAtajBUU0NkejhqQ2hVRzlGRw?oc=5>
 
 ### 2026-08-18 05:52  (5 条)
 
