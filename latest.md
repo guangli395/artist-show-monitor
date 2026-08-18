@@ -1,56 +1,73 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-18 12:32**
-- 本轮扫到 9978 条, 新增 **5** 条
+- 最近更新: **2026-08-18 13:36**
+- 本轮扫到 9984 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (6 条)
 
-### 特朗普威胁轰炸阿曼: 如果该国阻碍达成霍尔木兹海峡协议
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-08-18 11:56
-- 链接: <https://news.google.com/rss/articles/CBMijANBVV95cUxPNXpDeGNaN3JmV0ltUGIzN1c2S1VPSTY0Q3Jqd1lES05HM0hVZ1BVT3lWVGlnNHUzLVdDc1ZLc3Rxc2lpa3VVVU1xZ0dRdjJhLS03UzV1UWsyNnNpWDJZZlEzejR5cUJPSW9kUEwwMUw2R0RtV0dpNGVnQVpfTi1hd1V5VkowRnB4NzdWRktlSE9aNXRMcC1FUlZKZkJ0MENpOEJ5OXlpNVhheWE3MG9uZ0FvXzctc1dLcVBFenFKYWlwaE44VmJRRmFMQjViVHQwbThLNmVmUy1JRS1SNmc4ckQySnk3LWVnTGdGdHlPX0RxMDJ3b19SdFJwd2dkU0lpTGlCQXRGRUVnMVNpYzh4dEpoUWFqUGltZUFTRi1QSWtXdi1IbWlRREIyS1ZIQjZlQ2pOS1NvZHM3Q21KTE0xLUFQVHlsbWJzcU90NHJHdnhzU0lsMU5lbUdqb0NmSXZTeDBwMlhBUnQyb3RWcS04RDVQUlhLWGs5WmhQMC10MGZYNmdxbGVHR2lueVA?oc=5>
-
-### 特朗普的“相扑手”，会走上白宫讲台吗？
+### 特朗普称霍尔木兹海峡为“美国新领土” 伊方称其为“妄想”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-18 11:53
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1aUzA2U1V3LTFZTXJNM1pBS2gwc0Y5bS00cURMYjdEcUdqNnAwYUxiLVhVZE5KSHlESGVVVlIwZGs0S3lNRTUyeVdaYmU?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-18 12:45
+- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE9TSWgwQW5SQkxOYXZZZG9ING1wMVVRT2F3dlEwcjNmc2IxdDF4RHlld2ZNdXV4R3NXanNyRU5zV2RWNmdhVndzLWVGSWZJZ2R6NGlkYUNlSjUtcjg2ZEJackY0VFljSXZGcUE1SGJtYy1XMVhzNTQ2LUFJZ1ctdw?oc=5>
 
-### 特朗普再回应白宫新闻秘书离职
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-08-18 11:56
-- 链接: <https://news.google.com/rss/articles/CBMi2gFBVV95cUxNa0JvSTc4SkNkbGEyYzBhNDFsMEhsaHFIdEtud3k0a1NUSGxyb0wwZFN4RFB0aDVfNTVzdjVVNFhac2JEN0IwcWo4aGZIMnJBOEZRLW1iUFE4NkRaQ3pRYTBfWHBjb19ia1NiUUdFWXpkZlFEa2ExMlpWdkNNejVJQ21hWGZuakFadU1ZV1hTaXM2bUdGT09odzJMdmxHaDJNRUNlak92a1J1b09EMVhfMV9JMXBES3pJd3gzRzI3dlRJS1JLUmJuOFRDZW12Sk5DbXVacEhkOUFxdw?oc=5>
-
-### 面对伊朗暗杀威胁，特朗普扔下鲁比奥做饵，带着金发女秘躲进餐车
+### 特朗普发图称霍尔木兹海峡是“美国新增领土”，伊媒回应：妄想
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 手机网易网
-- 时间: 2026-08-18 05:27
-- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE1vTXdnbWJpWWZCSG5UZnJaTXhhUjg4Szl3YVBjU3NfUFRBcXhNaENzZ1dzQkJnZW9BQnBtQXU2TWVJa20xVnQxUjhxTDZGc0tEbGRwWERoalo1TmJNQTVfb25n?oc=5>
+- 场馆: 观察者
+- 时间: 2026-08-18 12:23
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFAyS01YZjRCUUI4dzh5TVhaeGt2SHJ4OWRJblhQNnNoVmNfUUdNNUJXMGt5dVFab2FxSndQQWxyUHJhZktzU0REaVJOMkJMUXBMQk5ka0puUjNGTUNqX1VnRDNyTlBrSkJod2c?oc=5>
 
-### 美国总统Donald Trump表示，不寻求延长伊朗谅解备忘录。
+### 罗四鸰：特朗普的白宫生意
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-08-17 11:00
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4tMVVOMW5vMHhMZ3E2T0NMRmZYMUJFSHRqd3NvbnVZcXdjREhMaVBYT0s3X21Db2RneHFCcF84WFU5RUNLYThicWdvRm5oS1QyYUQ1T1p1djV3Ny1jcDBBTl9Qb3dBU3M?oc=5>
+
+### 特朗普称霍尔木兹海峡为“美国新领土” 伊方称其为“妄想”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新京报
+- 时间: 2026-08-18 12:30
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9oVkp1eXhlTmota1ZmLW1Nc0JLQ2JldzM1R1M5WlRZa1dCT0NfODl2RUY5UFozeDBQRmk4Nmp6dG5OVzlrdjEyU3Zhd0ctZk9wSkVTaHFaa1htOUZFZ0ZqcWNIdk0?oc=5>
+
+### 特朗普“不续期”，美伊战事会升级吗？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Shangbao Indonesia
+- 时间: 2026-08-18 10:51
+- 链接: <https://news.google.com/rss/articles/CBMihAFBVV95cUxPMXdJMm5YUjJGNWpZUVBoc0RVck9zN1A5QWpSSnBmc2Y0TWYySHlYVmNGUjlOZW90UEVFOVJRTnA4NHNON2JUUG12b09vaHNyT0FYUzMyYjRaX3pKUTI5LUNBT2ZnZ1FPOGVHaWN2Unp2X1B0cjcxSGVYRmtHQjZkM2Y5b1A?oc=5>
+
+### 缩减军演换和平？特朗普称金正恩已回应
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: tmgm.com
-- 时间: 2026-08-18 00:12
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxQX19RTEZGNjhxbkhraGZWT3ZmMkY1T1ZxSy0tcjFvWWMwcHVnQUpxekMwS2p2cTNFcWo0T3I5MzBDWGF3cWoxQXRwUG1MTXo0ZnNlczVWQWhiOU1zOEVRbzVBYmxtRWVDM3RXLU1vX0FVMlBLZlJqUlFlb0pjWlFrYmE5TUNQWE1keDM4WEp3SlNNWFBCV3hnamt6bURoRFRtTC1sQlg0RWVfbC1obFBnbWI1NGp0OWp4RVJ2NnN0RnNEVlF3dHNyMXNFYW1rMlFP?oc=5>
+- 场馆: DW.com
+- 时间: 2026-08-18 13:16
+- 链接: <https://news.google.com/rss/articles/CBMilgJBVV95cUxQQ3FVNWtGdmdCSFY1bDBXUDZ3a3NKSkdmS3Y1eUE4R2J4QWhvbnBfdzNBVXRULWZ3QVBBNUNHTWNiZTRQci05M0hhRGhoTjlhZjJxVS12NTdIclBXQ0VfT0xlNF9abUExdmVIYVBqNW9KYW5lbGNEdlBKM08yZjdoQkdsN3Y0SkRrX0xMZ0R0U25HSDloSklRT1ZqR2E5RW9maGFLeENSa2Y3dWhnZHFJYzN4Wmk3b1MzN0VzZU0ybHltRDRpeGZWUGZXbS1PN1ZweFdzQkFJUnNibUZNVFVfMzNXZHBoVm1qRUhnaG84eGxvUXhGcjAxdDNpaXBuWXZhYTV0eWpyVE4tdXhYSHBIOWx6VGpzUdIBlgJBVV95cUxPM1lzeHhWRnl3WmhFQTczbGtqajVOMF9pTllLZkhHWElnRGFlamdkdDVLWjI2Z1BGWHZEb05aWFFVSE5MN1RkSEc1SFlnYW5pelZlOFlBOUk0bGpCX0dYY05PWUFYbjVCbmFwaFd2NG5ZTENNS3FEVFh4Z1h2VFlra3U1ZFd2dUQ2WnQyRWYzVDdna2FiSTJsUVYtb0phSXhkWkVpU1JXbGg3MFF1eURuWERCa192dWE3VDN0RHVmUHRNRUpnSnR0Wl9ydmZseGEtNWl5M0Mxa0RnWHZhODBvVWlfQ1VoYmlDLU9EdVpOemtFSnJ6bUswbmF6MlFQVW1oRHZsLUp3Z3A1aDlBaG9QNmRnUmpMdw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-18 13:36  (6 条)
+
+- **特朗普** | 特朗普称霍尔木兹海峡为“美国新领土” 伊方称其为“妄想” <https://news.google.com/rss/articles/CBMifkFVX3lxTE9TSWgwQW5SQkxOYXZZZG9ING1wMVVRT2F3dlEwcjNmc2IxdDF4RHlld2ZNdXV4R3NXanNyRU5zV2RWNmdhVndzLWVGSWZJZ2R6NGlkYUNlSjUtcjg2ZEJackY0VFljSXZGcUE1SGJtYy1XMVhzNTQ2LUFJZ1ctdw?oc=5>
+- **特朗普** | 特朗普发图称霍尔木兹海峡是“美国新增领土”，伊媒回应：妄想 <https://news.google.com/rss/articles/CBMiakFVX3lxTFAyS01YZjRCUUI4dzh5TVhaeGt2SHJ4OWRJblhQNnNoVmNfUUdNNUJXMGt5dVFab2FxSndQQWxyUHJhZktzU0REaVJOMkJMUXBMQk5ka0puUjNGTUNqX1VnRDNyTlBrSkJod2c?oc=5>
+- **特朗普** | 罗四鸰：特朗普的白宫生意 <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4tMVVOMW5vMHhMZ3E2T0NMRmZYMUJFSHRqd3NvbnVZcXdjREhMaVBYT0s3X21Db2RneHFCcF84WFU5RUNLYThicWdvRm5oS1QyYUQ1T1p1djV3Ny1jcDBBTl9Qb3dBU3M?oc=5>
+- **特朗普** | 特朗普称霍尔木兹海峡为“美国新领土” 伊方称其为“妄想” <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9oVkp1eXhlTmota1ZmLW1Nc0JLQ2JldzM1R1M5WlRZa1dCT0NfODl2RUY5UFozeDBQRmk4Nmp6dG5OVzlrdjEyU3Zhd0ctZk9wSkVTaHFaa1htOUZFZ0ZqcWNIdk0?oc=5>
+- **特朗普** | 特朗普“不续期”，美伊战事会升级吗？ <https://news.google.com/rss/articles/CBMihAFBVV95cUxPMXdJMm5YUjJGNWpZUVBoc0RVck9zN1A5QWpSSnBmc2Y0TWYySHlYVmNGUjlOZW90UEVFOVJRTnA4NHNON2JUUG12b09vaHNyT0FYUzMyYjRaX3pKUTI5LUNBT2ZnZ1FPOGVHaWN2Unp2X1B0cjcxSGVYRmtHQjZkM2Y5b1A?oc=5>
+- **Trump** | 缩减军演换和平？特朗普称金正恩已回应 <https://news.google.com/rss/articles/CBMilgJBVV95cUxQQ3FVNWtGdmdCSFY1bDBXUDZ3a3NKSkdmS3Y1eUE4R2J4QWhvbnBfdzNBVXRULWZ3QVBBNUNHTWNiZTRQci05M0hhRGhoTjlhZjJxVS12NTdIclBXQ0VfT0xlNF9abUExdmVIYVBqNW9KYW5lbGNEdlBKM08yZjdoQkdsN3Y0SkRrX0xMZ0R0U25HSDloSklRT1ZqR2E5RW9maGFLeENSa2Y3dWhnZHFJYzN4Wmk3b1MzN0VzZU0ybHltRDRpeGZWUGZXbS1PN1ZweFdzQkFJUnNibUZNVFVfMzNXZHBoVm1qRUhnaG84eGxvUXhGcjAxdDNpaXBuWXZhYTV0eWpyVE4tdXhYSHBIOWx6VGpzUdIBlgJBVV95cUxPM1lzeHhWRnl3WmhFQTczbGtqajVOMF9pTllLZkhHWElnRGFlamdkdDVLWjI2Z1BGWHZEb05aWFFVSE5MN1RkSEc1SFlnYW5pelZlOFlBOUk0bGpCX0dYY05PWUFYbjVCbmFwaFd2NG5ZTENNS3FEVFh4Z1h2VFlra3U1ZFd2dUQ2WnQyRWYzVDdna2FiSTJsUVYtb0phSXhkWkVpU1JXbGg3MFF1eURuWERCa192dWE3VDN0RHVmUHRNRUpnSnR0Wl9ydmZseGEtNWl5M0Mxa0RnWHZhODBvVWlfQ1VoYmlDLU9EdVpOemtFSnJ6bUswbmF6MlFQVW1oRHZsLUp3Z3A1aDlBaG9QNmRnUmpMdw?oc=5>
 
 ### 2026-08-18 12:32  (5 条)
 
