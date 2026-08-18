@@ -1,29 +1,13 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-18 18:27**
-- 本轮扫到 9998 条, 新增 **2** 条
+- 最近更新: **2026-08-18 19:06**
+- 本轮扫到 9998 条, 新增 **0** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮无新增
 
-### 王一博此次VOGUEMAN封面内容何时正式发布？
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776731_1d5abd9db06801dtzi.html>
-
-### 更新：股市下跌，油价上涨，因特朗普称美国未与伊朗进行谈判
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-08-18 18:16
-- 链接: <https://news.google.com/rss/articles/CBMinwFBVV95cUxNVExCSnhwR0hiTks0RlhGRENqS2dwQVV6djkyaGE5TU1HTFFKeTV4RHpaWDlDLWZwRmUwTUw5RVJyeUh4V1VPQXJJZWZwZ203MGxpdmRXekhCZDMwdW56SHJQVVRJTEFfVW44S0FWOWFGNzZmSzR3Y3pMT3JfM0ZRTzdvak50WENJeVotN1loeE1SLVllQlhHQm5mb3FfOFE?oc=5>
-
-
----
-
+数据库里所有演出/动态都已见过,暂无新增。
 ## 历史发现
 
 ### 2026-08-18 18:27  (2 条)
