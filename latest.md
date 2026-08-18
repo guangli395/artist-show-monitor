@@ -1,109 +1,13 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-18 00:51**
-- 本轮扫到 9924 条, 新增 **12** 条
+- 最近更新: **2026-08-18 02:12**
+- 本轮扫到 9924 条, 新增 **0** 条
 
 ---
 
-## 本轮新发现 (12 条)
+## 本轮无新增
 
-### 周杰伦三亚演唱会，七里香引回忆
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2280012127_m87e6395f03301568c.html>
-
-### 美伊谈判窗口期满 特朗普：达不成美方期许的协议
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网客户端
-- 时间: 2026-08-18 00:33
-- 链接: <https://news.google.com/rss/articles/CBMimgFBVV95cUxOdGdvekpCRjV0U2NZejlNeDZMRE9hM1NaY0dSaUg2eGZBZ3RvalVqLXFiYjIybHZVNmkySzVkX0V5Yjk1UW40di0zcWhqYjBvVzU2eHg5LUlEc0ExeVctWkkxeXVoRURuRUZWN3ZhczAyV1lHXzhmZ1BiZVdXNUE4ZUNOYkNxYTJCNHpmQ1JpZnhwZW12SnZYVWRn?oc=5>
-
-### 民调显示特朗普支持率创第二任期内新低
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中国网
-- 时间: 2026-08-17 23:38
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE9MX3BFSy1YTEJURk02Y1FpZ1pLRTZaT1lLdzE2X01Fd3hwa3RWSENVODZ1cm9wWVNsU2M3ZlE0QmVYZ1B5NXhSNHFnRVpPLXVza01CY3JLSlF1TXI4UHBkODhnQ2tzVW9CMUdHaEZZbw?oc=5>
-
-### 民调显示特朗普支持率跌至33%，为其本届总统任期内最低水平
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-08-17 23:51
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBVZWk3emI3QUY3bVpMQmw1M2lFcWZUVktTZldNTzE0b0Q0WGRWaDZXNmhhVjZwakk1ZnpnTXRXam1sbjNTd2JpU3hMOHlmV29WX285czEzYmVBODhHTzBaYlRJelo?oc=5>
-
-### 美股存储、光通信巨头，逆势大涨
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: finance.sina.cn
-- 时间: 2026-08-18 00:26
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxPODNORGprZ21CRHMzR25mVldwQzVqd1FkNzNseVItenFCR0RIM1pfV29rYTk5ekRNWWs3WlphUDRVSmttTXZmcU5HSl9NelhpN2hmSlllRUhTQzlYcUFrUWZFc0E1Rk9xbmpOX2hEbThOa0gzbmNmNDNBOUY3OHdjcnhfd1ZtWXRfbG5lamZMNjlyYW9hbFZaTA?oc=5>
-
-### 特朗普要求伊朗举白旗投降：结束战争“没有时间表” 决策与中期选举无关
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: video.sina.com.cn
-- 时间: 2026-08-17 23:51
-- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxOcVZBek5GaXhFazQyX2FBU19RWmFPckEwbXAxbl9IaUFuZ3ZZaWE1bGt2M09TVTl5Q1RoMkdtY2YxRk9YZjNRZk9RVWVpMGJ2Q2k5Q25kb01Gb2psZnpyaE40anZ5M2VMYTdVdWlnUkl5VVBmN3VDV0h4VmxOT050TjdR?oc=5>
-
-### 60天期限已到，特朗普威胁阿曼，伊朗称将“全面进攻”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-17 23:14
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBPX0YtNm10dGtDRnBSQ0V6dm9qNTVLZUxxQ0ZTVDQ5UF9CWG0xU09lbVZtMkhXNVhhMlY3aWpNdDBpN2ZDUGtfTVlIeE4?oc=5>
-
-### 美伊秘密外交：特朗普如何绕开谈判桌直接找上革命卫队 白宫寻找“后门渠道”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-08-17 23:55
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE4yR2U2MEMwMUJIazdEWG9OeVlsWUJRS0I3RlpqeENyY0gwSzByTDZmak1icGlQNlgydmVsam1Ca1Q5bGJKbUMwbE5mSlQ1VDlNVkt6NHpJWjExR3o0VFVTenZfc0wtTnBmdkc2YWltekM?oc=5>
-
-### 美伊谈判窗口期满 特朗普：达不成美方期许的协议
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-08-18 00:26
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFAtcWUwWGc2X21hNTE4NjJxam1VODl4dmpzaFZ4Y2FRQ3FZdl9ibXZ0bjkzNFAtNWNGSGt5U1VVRVNQdDNaYU1CYk8yUGNmZnhQTlJSQ2hobXJ5RXE1WmhOUk1HZXYzU2pVODNoOFNKTjFMOEp6TjgxczJWeGtXTFk?oc=5>
-
-### 美媒：习近平9月访美与特朗普会谈 “无意参加联合国大会”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: rfi.fr
-- 时间: 2026-08-17 21:21
-- 链接: <https://news.google.com/rss/articles/CBMi9wJBVV95cUxQUDdnUkUxeXJYNzJGS3h5aTdrSnBveVdQalRBaVdjSzF1Z0VqQ05vQ1AwTmNKQWFZTHQ1RC1rbjdOVlJwZkdtN2VGaDJtQlRCeGFaRzAyODQzTWdmU2N4Rk5xNTliUnBBREZmdTNUSjcxVTdYNTZyVC1DV0J3ek5TVkFOcklnMzRteTdqN1hjeGtUZkJIVjVLd3dRNklDb3E4YWlvbGpYX1RQSk5ETUQtSmtIT2JYdDBwdk1JU01zemdaMkNDcm9Vb2ZmTXd0X0VUdlpQM0dEU0c0TDN0Rk1KTzgtc1ZESWY3NkVTWFY2TWRoQ2RFMXludlZld3RHcVZWeXBjcTJuY0FlYVQtZkJ1MzAzcXNFWW5PUnNmVlczV3NqWkFmdEVKWHdCcl9rNExDcDdIZUpkVmhSVk10MWhEZHRWaVNYQ2cweDM3Q0RKYnBaU1JPYXRsaUtWQ1dkb3VtdEZTQTFiUzlLQXI5LVhBNHVPRXFPdG8?oc=5>
-
-### 特朗普总统命令大幅缩减美韩联合军演规模
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-08-17 22:45
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxQVGJ4Z2VyZ3BXWWZLSTdDc2RzWTcxLWRPcmxyUTQwbG84aFpMLUZmbEtsVUVoQVFHeWNybzI2MXFDNTV4dkFFV0hNcVpYOGFGRlR6c0k5eGJxQkM5SUd0dUkxaWo2ZGNNdE9rUXlVOXlkS2hsaTJVaEJfWDY1QWhibmxKZXR0NU0?oc=5>
-
-### 特朗普支持率跌至33% 创任期内新低
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-08-17 23:49
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTFBGTC1BVlhkQTFRaWs3N3lDUHJFX05HLVBpc29RaWVNUFVQTEk0SlNic0lrc2FxU3BxWjRVNWNxR1Zrb3ZpcV8tQkczekRycjMwT2hidE1sak12Rk5QMWkxU0JqLUxMOXB2UlpLQkxzRnhPWXV0?oc=5>
-
-
----
-
+数据库里所有演出/动态都已见过,暂无新增。
 ## 历史发现
 
 ### 2026-08-18 00:51  (12 条)
