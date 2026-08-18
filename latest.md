@@ -1,24 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-18 07:32**
-- 本轮扫到 9954 条, 新增 **1** 条
+- 最近更新: **2026-08-18 08:27**
+- 本轮扫到 9956 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮新发现 (2 条)
 
-### 川普入股企业引进"黑名单中国AI"家族狂捞14亿元
+### 特朗普：那是CNN的假新闻
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 文学城
-- 时间: 2026-08-18 07:15
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuZHFDci1QLXZUdGJaNDBhVGNOVU56TEVBNGkzRGN4Ykl4WE5BemZoVHdZbk5UM1IwcmZyeWMxRlhzeGhySnRHRURrd0s4OEZQc2dqeFozNU52NTFnODRmeUFnd2tuZDl0?oc=5>
+- 场馆: 观察者
+- 时间: 2026-08-17 23:49
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBzSGYzd3duZ0E4QnJ5Z2dmWlg5UXNtNVBSR0M1MHdUSkJTQ192bk1Kck1XanpRZms4UXh4aXJTS2Fva0R0YWZhajdkMXllNzVfWlJsQlJuQkFBODBMbGYzUkhabE5vRUFab3c?oc=5>
+
+### 时隔十年迷你特朗普想和特朗普重聚
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-08-18 08:05
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5oamFIT3I0Q19NbDZRdHpobEMxRWtUUVc0NnNCbF9kQ3U3YTFUeDZWMktTMGJ6QnRRSi1ZNkZ2LVM5YjRpODVURTFSbkxJeHlTcmNLeFIwWWE2OFp5dWExaVBnY3dPbHdnbWR4YnZicS0?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-18 08:27  (2 条)
+
+- **特朗普** | 特朗普：那是CNN的假新闻 <https://news.google.com/rss/articles/CBMiakFVX3lxTFBzSGYzd3duZ0E4QnJ5Z2dmWlg5UXNtNVBSR0M1MHdUSkJTQ192bk1Kck1XanpRZms4UXh4aXJTS2Fva0R0YWZhajdkMXllNzVfWlJsQlJuQkFBODBMbGYzUkhabE5vRUFab3c?oc=5>
+- **特朗普** | 时隔十年迷你特朗普想和特朗普重聚 <https://news.google.com/rss/articles/CBMicEFVX3lxTE5oamFIT3I0Q19NbDZRdHpobEMxRWtUUVc0NnNCbF9kQ3U3YTFUeDZWMktTMGJ6QnRRSi1ZNkZ2LVM5YjRpODVURTFSbkxJeHlTcmNLeFIwWWE2OFp5dWExaVBnY3dPbHdnbWR4YnZicS0?oc=5>
 
 ### 2026-08-18 07:32  (1 条)
 
