@@ -1,14 +1,35 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-18 20:47**
-- 本轮扫到 10006 条, 新增 **0** 条
+- 最近更新: **2026-08-18 21:17**
+- 本轮扫到 10008 条, 新增 **2** 条
 
 ---
 
-## 本轮无新增
+## 本轮新发现 (2 条)
 
-数据库里所有演出/动态都已见过,暂无新增。
+### 王一博的VOGUEMAN八月刊封面何时发布？
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7880068588_1d5b04dec06801q52g.html>
+
+### 特朗普称吞并霍尔木兹海峡主意不错
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 东方财富
+- 时间: 2026-08-18 20:10
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PdVF6clRJWndLVW8xX3JLNWZXQjdEU0tKQmFsdGxJUndsNDM3cnhuM0tJcWlfLUt5TlNDakJMelVuV244X2U2THM5RTBuSV8xXzRnVnFBOWJ6Zkc4T3UwTw?oc=5>
+
+
+---
+
 ## 历史发现
+
+### 2026-08-18 21:17  (2 条)
+
+- **王一博** | 王一博的VOGUEMAN八月刊封面何时发布？ <https://k.sina.com.cn/article_7880068588_1d5b04dec06801q52g.html>
+- **特朗普** | 特朗普称吞并霍尔木兹海峡主意不错 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PdVF6clRJWndLVW8xX3JLNWZXQjdEU0tKQmFsdGxJUndsNDM3cnhuM0tJcWlfLUt5TlNDakJMelVuV244X2U2THM5RTBuSV8xXzRnVnFBOWJ6Zkc4T3UwTw?oc=5>
 
 ### 2026-08-18 20:15  (4 条)
 
