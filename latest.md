@@ -1,56 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-18 09:02**
-- 本轮扫到 9961 条, 新增 **5** 条
+- 最近更新: **2026-08-18 09:56**
+- 本轮扫到 9966 条, 新增 **5** 条
 
 ---
 
 ## 本轮新发现 (5 条)
 
-### 民调：特朗普支持率创第二任期内新低
+### 这样的“玩笑”，特朗普说真的吗？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: hkong.cn
-- 时间: 2026-08-18 06:58
-- 链接: <https://news.google.com/rss/articles/CBMiVEFVX3lxTE95NVhHWUsyRnJaa29ha0hZY2NPcnhaQTZMdko2T3ZnQ0dGMThKVXF4RkJpT2pQTlA0UHJQMTdHWWdqT0RfcmVBX0JIMDA3SDhxSFVfZQ?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-08-18 03:20
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1sdkNYM1p5VUt1R3M2RW9MRGlxU2hWOUlYSHlpeE9DVmI4S01jSW1wenJTZmZNenRXOFItb0R2dm5xQ3FEUDRNM09ZU2dfWGpJYWlwcWRwbnNfdkgxOV83TTdkR09neUtjYk9MaFEtUUU?oc=5>
 
-### 特朗普被沙特鄙视，王储直接把话说脸上，对伊朗心服口服
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-08-18 08:32
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE91TkdmOEdiOU9vNXItZlJVNHVtM1FpYlItNFo4ay04eWJMSVF6NGZCZXd0MVBMTGlyRGhuSGhFYl85U1MwbmdrS19sUkFldnA4TVRpa2VSb3hGU28yRGhEWm9fOE5jNklkRGJRcVl3azl0QQ?oc=5>
-
-### 特朗普炮轰CNN记者“假新闻” 当场连说8次“安静点”
+### 特朗普女婿兼特使库什纳结束中东行程，加沙和平方案进展有限
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: hkong.cn
-- 时间: 2026-08-17 16:04
-- 链接: <https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXUFdraXJkT2pJdWJlRFFueU5TYzNvZFlncWhUUzVtdzVGcm5oUTVHRi1sbHFwUVhBUmFLMEJzQUpwSWlma1FJdlJUb2twQi1KdFVpQw?oc=5>
+- 场馆: RFI
+- 时间: 2026-08-18 09:15
+- 链接: <https://news.google.com/rss/articles/CBMirwNBVV95cUxOQkwxREZxOFYxYkhaMlFHMllkOWxBajlhZHVOVnVqZVV6bmRKSG5jb3Nnc0N0ZDRHYi1RVmNncEdoSmVKNW5oWlhsaThMdm83eVlfQjZGd0FObEE4ZEk2cHptWm92a2ZxelV6SHFBSzhaQUtGUnJvUnhGd1B4MXNneVVLNmpySktNTzJhVV84MnJ4QWFka2pCMWRaYTZEdkN2eEVhZVQ3ZDBTcmE1WTVzcGlUc05xT0dnQTEzLWVTamtMQi1sMXNWNERDRlRxWEZVOW0xcDVKaU1sREwyYW52Vm1XSEd0TkZsR1ZaaDJEZGFjUWJkM0wycU5ISU1UR1pKVXZPbmxqODBscURqT3lEQkRlbjItMkJVRlpVTkZOeFktT2VRb0JqUFJUZXBxX0ZNb3VwZ3VxaWwzUlZCckd6X0xYNkNuZVVsU0lFZU1Fa3hUTExwZHR1b2Y0b0lZQ1BvWm00b040UjRHN21teEsxU0wxQXR2TWsyT0Qxa2Q2VDFTRzFmSXhDWERFRlBuYjBaVlJDejNSYi04aDNvTTQwbkY4OTdOT0I5aGRSUnl6SQ?oc=5>
 
-### 特朗普怒了，20秒内连说8次“别说了”；CNN谴责“特朗普怼记者”：有权质疑不认同报道，但不应人身攻击；白宫官方账号迅速“加入战场”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-08-18 06:22
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxNNHBZeVhrY1gweDdQdl9ZZTE2NkY1bGJ6RjhiaXJpdks0WV9pVWFCS0dVYUVqT3EtZ0xrM0RxVVQ5UVZPVzJ0OUNUSzQ5aDZkd0I2TUJGTTVWZlBjVmpvbHlfUUNyTEVYbDZKYmo4UWREclJweGlIZmZ3RWhSeTEyNHg5UzgwVzJYSGNhUw?oc=5>
-
-### 特朗普：伊朗“不会达成我认为必要的那种协议”
+### 特朗普称金正恩已回应其“对话”请求
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-08-17 21:41
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBHTWl5TVJZRkR2X3pYbDFKMzVBbjk2S3R2akNDcVpIeWRmM05EbDdRZFA0MkZFOENCUVJoZDhHZXJ0QlZpUVhGYTdYc1hLYnVXZEtXdFNmS3AzdUZBWG1Wdw?oc=5>
+- 场馆: 新华网
+- 时间: 2026-08-17 21:37
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE45TVI4Y3BaeXZPejRWR214X0Q3ZWhYeGF5dnpwQUxiaGVINFM0YjY4QlFSeUxlOXUwcDlsdWVvdlJibFNIbVdYZHJGRk9tNmVhdl9xbElfUFFQUDFKQ2xUejdWcTVOU252UDF1OEtDTkJ3WnlkaWRGcmYxOWV3YW8?oc=5>
+
+### 特朗普中东开战引爆“通胀炸弹”重创民意，美股与中期选举恐告急
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-18 06:55
+- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxObEFBZ0RvRDlmVEk2SHFHdW1Nd0VlbFRLMmZZME9EZ1c5M19uV3dwT3EtdHpLZnJpQzBjSVlUV2dPdHFJZXhMZld1WWVKVWVteEl4YUFqVEdxM0VNN05NeEl5ZWU5MzJhSEFVeDdFU3dVbW10dklUZ2RIMUJ1cXNwOFlOejhJTC16X2FxR3AxZkI3X09qc2JSY2tBbDJjSjJYX1NVc2VQSGNlUQ?oc=5>
+
+### [快讯] Brunson在Trump下令缩减韩美军演之际访问国防部- 阿视亚经济
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 아시아경제
+- 时间: 2026-08-18 06:53
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Bcy1LSTZrZ3haS05FMkFCd1VyVG0yTDB1ZWI2VmE1akwtWVB0d3lUR0tWdDFYcWxvZV9UaGtWMlVvelptVThfeTNBcGNmRlZyRmNOUzRubXlYWlZBa1lNaUVoalA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-18 09:56  (5 条)
+
+- **特朗普** | 这样的“玩笑”，特朗普说真的吗？ <https://news.google.com/rss/articles/CBMicEFVX3lxTE1sdkNYM1p5VUt1R3M2RW9MRGlxU2hWOUlYSHlpeE9DVmI4S01jSW1wenJTZmZNenRXOFItb0R2dm5xQ3FEUDRNM09ZU2dfWGpJYWlwcWRwbnNfdkgxOV83TTdkR09neUtjYk9MaFEtUUU?oc=5>
+- **特朗普** | 特朗普女婿兼特使库什纳结束中东行程，加沙和平方案进展有限 <https://news.google.com/rss/articles/CBMirwNBVV95cUxOQkwxREZxOFYxYkhaMlFHMllkOWxBajlhZHVOVnVqZVV6bmRKSG5jb3Nnc0N0ZDRHYi1RVmNncEdoSmVKNW5oWlhsaThMdm83eVlfQjZGd0FObEE4ZEk2cHptWm92a2ZxelV6SHFBSzhaQUtGUnJvUnhGd1B4MXNneVVLNmpySktNTzJhVV84MnJ4QWFka2pCMWRaYTZEdkN2eEVhZVQ3ZDBTcmE1WTVzcGlUc05xT0dnQTEzLWVTamtMQi1sMXNWNERDRlRxWEZVOW0xcDVKaU1sREwyYW52Vm1XSEd0TkZsR1ZaaDJEZGFjUWJkM0wycU5ISU1UR1pKVXZPbmxqODBscURqT3lEQkRlbjItMkJVRlpVTkZOeFktT2VRb0JqUFJUZXBxX0ZNb3VwZ3VxaWwzUlZCckd6X0xYNkNuZVVsU0lFZU1Fa3hUTExwZHR1b2Y0b0lZQ1BvWm00b040UjRHN21teEsxU0wxQXR2TWsyT0Qxa2Q2VDFTRzFmSXhDWERFRlBuYjBaVlJDejNSYi04aDNvTTQwbkY4OTdOT0I5aGRSUnl6SQ?oc=5>
+- **特朗普** | 特朗普称金正恩已回应其“对话”请求 <https://news.google.com/rss/articles/CBMif0FVX3lxTE45TVI4Y3BaeXZPejRWR214X0Q3ZWhYeGF5dnpwQUxiaGVINFM0YjY4QlFSeUxlOXUwcDlsdWVvdlJibFNIbVdYZHJGRk9tNmVhdl9xbElfUFFQUDFKQ2xUejdWcTVOU252UDF1OEtDTkJ3WnlkaWRGcmYxOWV3YW8?oc=5>
+- **特朗普** | 特朗普中东开战引爆“通胀炸弹”重创民意，美股与中期选举恐告急 <https://news.google.com/rss/articles/CBMiqgFBVV95cUxObEFBZ0RvRDlmVEk2SHFHdW1Nd0VlbFRLMmZZME9EZ1c5M19uV3dwT3EtdHpLZnJpQzBjSVlUV2dPdHFJZXhMZld1WWVKVWVteEl4YUFqVEdxM0VNN05NeEl5ZWU5MzJhSEFVeDdFU3dVbW10dklUZ2RIMUJ1cXNwOFlOejhJTC16X2FxR3AxZkI3X09qc2JSY2tBbDJjSjJYX1NVc2VQSGNlUQ?oc=5>
+- **Trump** | [快讯] Brunson在Trump下令缩减韩美军演之际访问国防部- 阿视亚经济 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Bcy1LSTZrZ3haS05FMkFCd1VyVG0yTDB1ZWI2VmE1akwtWVB0d3lUR0tWdDFYcWxvZV9UaGtWMlVvelptVThfeTNBcGNmRlZyRmNOUzRubXlYWlZBa1lNaUVoalA?oc=5>
 
 ### 2026-08-18 09:02  (5 条)
 
