@@ -1,31 +1,13 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-18 11:19**
-- 本轮扫到 9973 条, 新增 **2** 条
+- 最近更新: **2026-08-18 11:49**
+- 本轮扫到 9973 条, 新增 **0** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮无新增
 
-### 邮寄选票本质上就是腐败？特朗普：真香
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-08-18 00:05
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1MZ0tEY1pQN1pxUG5YOGtaMVlyUTgtOEU1R190dXRVbjVxOHRWeXgwd2d6R3FwaTAzRVF1dGNyVmVSZ292M3Q0RTBBWjdRenA3MU1XSXF3UDdYMTBLQnFrU2xxcVlZMHh6T0E?oc=5>
-
-### 特朗普称美“首要目标”是确保伊朗不能拥有核武器
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 央视网
-- 时间: 2026-08-17 13:08
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE14bHFjVjc2T0w3bGFpT1R4VWI5UGM5VlJXYXdQTVljNF96TVphMFRoRlNoeGhiSTB5MHlCMlBkb0kyUWFaTlU0MHBYRTNXN2NTU3NSczNpWTdfM2VuYkZOdDZ3Y3VqeE9DQk96bTRqbGcwNXU0eG1RZw?oc=5>
-
-
----
-
+数据库里所有演出/动态都已见过,暂无新增。
 ## 历史发现
 
 ### 2026-08-18 11:19  (2 条)
