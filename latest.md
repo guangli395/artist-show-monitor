@@ -1,48 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-18 06:31**
-- 本轮扫到 9953 条, 新增 **4** 条
+- 最近更新: **2026-08-18 07:32**
+- 本轮扫到 9954 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (1 条)
 
-### 虚伪！“一边封堵中国AI，一边从中赚钱”
+### 川普入股企业引进"黑名单中国AI"家族狂捞14亿元
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-08-18 05:37
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9lcXdZeFdxUkp5UkI5bTR1djlWNl9Hd0FWd2pGaUkyNW8wdGFVNXBoQVRnNFZjTU9DTTlwMG4wNXFrS3llTnpnZ1lyS3p6bHo0NzRZa09PakJITzJkNGtHWmplSDItcGZnQ1E?oc=5>
-
-### 美媒爆料特朗普政府拟放宽枪支限制：重罪犯可申请恢复持枪权
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-08-18 06:04
-- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxQaXdJckRRWEZYVjl1NlNxRlpfdjc5Z3BlUFNSX0d4ZEc5OGxGZVgtbFZ4SUtCSXNCVF9zNW9YWE1CeEhwa0VXNk5wMHFUOGpnNnhDRVJBZ3VtR2VZc2xBRWh1cmdmckF5aEM5ZW42UVFSMHRCZU9EMHhkVFVTWUpENWV6QV9LTHgwSzJaWExqMA?oc=5>
-
-### 特朗普最新支持率公布
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-17 23:40
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1idzNXVklsLXBLWVNRNkJvZGZGcm5TajViMzl0SFJXVkExZ3l1cF92UE8tUE9Ydzl3SUd2YTlhRjlKd3l1eTlXb2JvWlI?oc=5>
-
-### 特朗普支持率降至任内新低 八成美国人料美伊战事长期持续
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-08-18 03:33
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zQlZNMHpVVkF3LUp5WC0xR0dXcGp6aVBJZWVFdC1KaGZHU084SUY0T0NEVVF6TDY3YUVZZFhEMmhidnNlTXQ4SjlldHdVNDAtajBUU0NkejhqQ2hVRzlGRw?oc=5>
+- 场馆: 文学城
+- 时间: 2026-08-18 07:15
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuZHFDci1QLXZUdGJaNDBhVGNOVU56TEVBNGkzRGN4Ykl4WE5BemZoVHdZbk5UM1IwcmZyeWMxRlhzeGhySnRHRURrd0s4OEZQc2dqeFozNU52NTFnODRmeUFnd2tuZDl0?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-18 07:32  (1 条)
+
+- **Trump** | 川普入股企业引进"黑名单中国AI"家族狂捞14亿元 <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuZHFDci1QLXZUdGJaNDBhVGNOVU56TEVBNGkzRGN4Ykl4WE5BemZoVHdZbk5UM1IwcmZyeWMxRlhzeGhySnRHRURrd0s4OEZQc2dqeFozNU52NTFnODRmeUFnd2tuZDl0?oc=5>
 
 ### 2026-08-18 06:31  (4 条)
 
