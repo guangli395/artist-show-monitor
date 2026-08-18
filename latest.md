@@ -1,14 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-18 11:49**
-- 本轮扫到 9973 条, 新增 **0** 条
+- 最近更新: **2026-08-18 12:32**
+- 本轮扫到 9978 条, 新增 **5** 条
 
 ---
 
-## 本轮无新增
+## 本轮新发现 (5 条)
 
-数据库里所有演出/动态都已见过,暂无新增。
+### 特朗普威胁轰炸阿曼: 如果该国阻碍达成霍尔木兹海峡协议
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-08-18 11:56
+- 链接: <https://news.google.com/rss/articles/CBMijANBVV95cUxPNXpDeGNaN3JmV0ltUGIzN1c2S1VPSTY0Q3Jqd1lES05HM0hVZ1BVT3lWVGlnNHUzLVdDc1ZLc3Rxc2lpa3VVVU1xZ0dRdjJhLS03UzV1UWsyNnNpWDJZZlEzejR5cUJPSW9kUEwwMUw2R0RtV0dpNGVnQVpfTi1hd1V5VkowRnB4NzdWRktlSE9aNXRMcC1FUlZKZkJ0MENpOEJ5OXlpNVhheWE3MG9uZ0FvXzctc1dLcVBFenFKYWlwaE44VmJRRmFMQjViVHQwbThLNmVmUy1JRS1SNmc4ckQySnk3LWVnTGdGdHlPX0RxMDJ3b19SdFJwd2dkU0lpTGlCQXRGRUVnMVNpYzh4dEpoUWFqUGltZUFTRi1QSWtXdi1IbWlRREIyS1ZIQjZlQ2pOS1NvZHM3Q21KTE0xLUFQVHlsbWJzcU90NHJHdnhzU0lsMU5lbUdqb0NmSXZTeDBwMlhBUnQyb3RWcS04RDVQUlhLWGs5WmhQMC10MGZYNmdxbGVHR2lueVA?oc=5>
+
+### 特朗普的“相扑手”，会走上白宫讲台吗？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-08-18 11:53
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1aUzA2U1V3LTFZTXJNM1pBS2gwc0Y5bS00cURMYjdEcUdqNnAwYUxiLVhVZE5KSHlESGVVVlIwZGs0S3lNRTUyeVdaYmU?oc=5>
+
+### 特朗普再回应白宫新闻秘书离职
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 手机新浪网
+- 时间: 2026-08-18 11:56
+- 链接: <https://news.google.com/rss/articles/CBMi2gFBVV95cUxNa0JvSTc4SkNkbGEyYzBhNDFsMEhsaHFIdEtud3k0a1NUSGxyb0wwZFN4RFB0aDVfNTVzdjVVNFhac2JEN0IwcWo4aGZIMnJBOEZRLW1iUFE4NkRaQ3pRYTBfWHBjb19ia1NiUUdFWXpkZlFEa2ExMlpWdkNNejVJQ21hWGZuakFadU1ZV1hTaXM2bUdGT09odzJMdmxHaDJNRUNlak92a1J1b09EMVhfMV9JMXBES3pJd3gzRzI3dlRJS1JLUmJuOFRDZW12Sk5DbXVacEhkOUFxdw?oc=5>
+
+### 面对伊朗暗杀威胁，特朗普扔下鲁比奥做饵，带着金发女秘躲进餐车
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 手机网易网
+- 时间: 2026-08-18 05:27
+- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE1vTXdnbWJpWWZCSG5UZnJaTXhhUjg4Szl3YVBjU3NfUFRBcXhNaENzZ1dzQkJnZW9BQnBtQXU2TWVJa20xVnQxUjhxTDZGc0tEbGRwWERoalo1TmJNQTVfb25n?oc=5>
+
+### 美国总统Donald Trump表示，不寻求延长伊朗谅解备忘录。
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: tmgm.com
+- 时间: 2026-08-18 00:12
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxQX19RTEZGNjhxbkhraGZWT3ZmMkY1T1ZxSy0tcjFvWWMwcHVnQUpxekMwS2p2cTNFcWo0T3I5MzBDWGF3cWoxQXRwUG1MTXo0ZnNlczVWQWhiOU1zOEVRbzVBYmxtRWVDM3RXLU1vX0FVMlBLZlJqUlFlb0pjWlFrYmE5TUNQWE1keDM4WEp3SlNNWFBCV3hnamt6bURoRFRtTC1sQlg0RWVfbC1obFBnbWI1NGp0OWp4RVJ2NnN0RnNEVlF3dHNyMXNFYW1rMlFP?oc=5>
+
+
+---
+
 ## 历史发现
+
+### 2026-08-18 12:32  (5 条)
+
+- **特朗普** | 特朗普威胁轰炸阿曼: 如果该国阻碍达成霍尔木兹海峡协议 <https://news.google.com/rss/articles/CBMijANBVV95cUxPNXpDeGNaN3JmV0ltUGIzN1c2S1VPSTY0Q3Jqd1lES05HM0hVZ1BVT3lWVGlnNHUzLVdDc1ZLc3Rxc2lpa3VVVU1xZ0dRdjJhLS03UzV1UWsyNnNpWDJZZlEzejR5cUJPSW9kUEwwMUw2R0RtV0dpNGVnQVpfTi1hd1V5VkowRnB4NzdWRktlSE9aNXRMcC1FUlZKZkJ0MENpOEJ5OXlpNVhheWE3MG9uZ0FvXzctc1dLcVBFenFKYWlwaE44VmJRRmFMQjViVHQwbThLNmVmUy1JRS1SNmc4ckQySnk3LWVnTGdGdHlPX0RxMDJ3b19SdFJwd2dkU0lpTGlCQXRGRUVnMVNpYzh4dEpoUWFqUGltZUFTRi1QSWtXdi1IbWlRREIyS1ZIQjZlQ2pOS1NvZHM3Q21KTE0xLUFQVHlsbWJzcU90NHJHdnhzU0lsMU5lbUdqb0NmSXZTeDBwMlhBUnQyb3RWcS04RDVQUlhLWGs5WmhQMC10MGZYNmdxbGVHR2lueVA?oc=5>
+- **特朗普** | 特朗普的“相扑手”，会走上白宫讲台吗？ <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1aUzA2U1V3LTFZTXJNM1pBS2gwc0Y5bS00cURMYjdEcUdqNnAwYUxiLVhVZE5KSHlESGVVVlIwZGs0S3lNRTUyeVdaYmU?oc=5>
+- **特朗普** | 特朗普再回应白宫新闻秘书离职 <https://news.google.com/rss/articles/CBMi2gFBVV95cUxNa0JvSTc4SkNkbGEyYzBhNDFsMEhsaHFIdEtud3k0a1NUSGxyb0wwZFN4RFB0aDVfNTVzdjVVNFhac2JEN0IwcWo4aGZIMnJBOEZRLW1iUFE4NkRaQ3pRYTBfWHBjb19ia1NiUUdFWXpkZlFEa2ExMlpWdkNNejVJQ21hWGZuakFadU1ZV1hTaXM2bUdGT09odzJMdmxHaDJNRUNlak92a1J1b09EMVhfMV9JMXBES3pJd3gzRzI3dlRJS1JLUmJuOFRDZW12Sk5DbXVacEhkOUFxdw?oc=5>
+- **特朗普** | 面对伊朗暗杀威胁，特朗普扔下鲁比奥做饵，带着金发女秘躲进餐车 <https://news.google.com/rss/articles/CBMiYkFVX3lxTE1vTXdnbWJpWWZCSG5UZnJaTXhhUjg4Szl3YVBjU3NfUFRBcXhNaENzZ1dzQkJnZW9BQnBtQXU2TWVJa20xVnQxUjhxTDZGc0tEbGRwWERoalo1TmJNQTVfb25n?oc=5>
+- **Trump** | 美国总统Donald Trump表示，不寻求延长伊朗谅解备忘录。 <https://news.google.com/rss/articles/CBMi0AFBVV95cUxQX19RTEZGNjhxbkhraGZWT3ZmMkY1T1ZxSy0tcjFvWWMwcHVnQUpxekMwS2p2cTNFcWo0T3I5MzBDWGF3cWoxQXRwUG1MTXo0ZnNlczVWQWhiOU1zOEVRbzVBYmxtRWVDM3RXLU1vX0FVMlBLZlJqUlFlb0pjWlFrYmE5TUNQWE1keDM4WEp3SlNNWFBCV3hnamt6bURoRFRtTC1sQlg0RWVfbC1obFBnbWI1NGp0OWp4RVJ2NnN0RnNEVlF3dHNyMXNFYW1rMlFP?oc=5>
 
 ### 2026-08-18 11:19  (2 条)
 
