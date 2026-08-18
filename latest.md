@@ -1,24 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-18 17:23**
-- 本轮扫到 9994 条, 新增 **1** 条
+- 最近更新: **2026-08-18 17:52**
+- 本轮扫到 9996 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮新发现 (2 条)
 
-### 罕见公开说“不”！内塔尼亚胡为何硬刚特朗普？
+### 美伊和平前景渺茫 据报特朗普称不急于结束战争
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-18 11:04
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5CQWZEMDRSU25WaWxwRDN0WXBieThHRzBQZUhkcXhRTVQ3MUo4YjN3dTdsQnBfSzVkdFB5STNXR0lJa1lvQWFvc1l4NXM?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-18 17:18
+- 链接: <https://news.google.com/rss/articles/CBMi_wFBVV95cUxOS3M1alVSVVJKTDhxdjdHcHhBTW1mbWxSNWRQcjh0VzhPSUF2Tm0xZ1Y0X0FXdUR1U1c0SzRmdGFfTEZoR2pOWk1fYUxFOFhrdTNTWTFvZThfTTNPM1JveUJ3MHZYMV8tX2pCTC1SVl9la21neDdMN2lXcUZHMFhQbTgtczdJaGZsQ3hvQWU0eWNUaWNvUDRYUHZscFJvM0M4TEQzcl9PejJPVXN3YWtWTENnU0hwUTdEUWFJM0xXeFVXQ0M2TElQNFpQTFpac2VzT2ZLOHp2UTg2Mm0wV19WaTk0NUlkR21QSlVTMUpGN0NESGRmcHo5bmJyVE0yV3c?oc=5>
+
+### 特朗普称金正恩已回应其对话请求
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-08-17 22:46
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9VOWRjTmc5RFJtbVJuLW1mdUdhQmdTdFdjNGZNLVJrREdaTW5qZGVjekplOGgwaG5keXNFTjkxU0hNN2R4VVpWYnJsQ2tEbE16dk54Mlk5RHlNVzNJXzByeE9XODJ6V21LV2c?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-18 17:52  (2 条)
+
+- **特朗普** | 美伊和平前景渺茫 据报特朗普称不急于结束战争 <https://news.google.com/rss/articles/CBMi_wFBVV95cUxOS3M1alVSVVJKTDhxdjdHcHhBTW1mbWxSNWRQcjh0VzhPSUF2Tm0xZ1Y0X0FXdUR1U1c0SzRmdGFfTEZoR2pOWk1fYUxFOFhrdTNTWTFvZThfTTNPM1JveUJ3MHZYMV8tX2pCTC1SVl9la21neDdMN2lXcUZHMFhQbTgtczdJaGZsQ3hvQWU0eWNUaWNvUDRYUHZscFJvM0M4TEQzcl9PejJPVXN3YWtWTENnU0hwUTdEUWFJM0xXeFVXQ0M2TElQNFpQTFpac2VzT2ZLOHp2UTg2Mm0wV19WaTk0NUlkR21QSlVTMUpGN0NESGRmcHo5bmJyVE0yV3c?oc=5>
+- **特朗普** | 特朗普称金正恩已回应其对话请求 <https://news.google.com/rss/articles/CBMiakFVX3lxTE9VOWRjTmc5RFJtbVJuLW1mdUdhQmdTdFdjNGZNLVJrREdaTW5qZGVjekplOGgwaG5keXNFTjkxU0hNN2R4VVpWYnJsQ2tEbE16dk54Mlk5RHlNVzNJXzByeE9XODJ6V21LV2c?oc=5>
 
 ### 2026-08-18 17:23  (1 条)
 
