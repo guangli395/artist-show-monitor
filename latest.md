@@ -1,32 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-18 10:23**
-- 本轮扫到 9968 条, 新增 **2** 条
+- 最近更新: **2026-08-18 10:54**
+- 本轮扫到 9971 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (3 条)
 
-### 特朗普：金发碧人，为何离我而去？
+### 特朗普女婿：别搞事啊！ 内塔尼亚胡：有点困难啊！
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-08-18 10:03
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5DSFhqREZmaFBaWkdKelZJSE5Bai02RlIweTlOX0pqTTJVa052SDlvWXpwTHBBSTkwdUo1TkxBeWpDbW5jUFo3Zk91NXlNbmYySHhIMXJoaUtxZGNhOC1YTzRwZkZSWDNKWlE?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-08-18 00:18
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFB3bUlMcHNRQ0ljdlJEOHBzaUlRRzk5WTBpZ1VyT0RITlB5OFdwY2h2U0tHbDdnOTV4ZDdNdC1TaDRDTmZGQTlURlVRSXY?oc=5>
 
-### 靠中国AI吸金？特朗普家族加密项目曝光
+### “林肯”号航母家属痛斥特朗普，称其说话根本不过脑子
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: dw.com
-- 时间: 2026-08-18 10:15
-- 链接: <https://news.google.com/rss/articles/CBMixgJBVV95cUxNSkE2bnR6T3dhQnpxSW9yOC1LSGZTdUNRanR0RnNkeDFzQk5OTEpDdEpEYnhSSDI1SEdoVkZ6N0lEUlhPYVJMVnVLTUNxNldrYk0xRWNZYXEyQ2dHbFNSZW85U18wWGQyeXo3c0RZRGpfMGdLTFk0Z21GUDUyV0VISk1IWG9tYmxjdGktdl81c1F0bDNMaG84bE5WakxpSlFSSHdlVmtPNDN2a2hTY3RQakFkNjdHbUp6MWlacXR1aW9KMGV5TWRhc05TN3pncE9WU1FoWFh5eHg1ZjNnbzdBbzJCNG82aklzVGdKSEw3Rmt6WjJXdzZQaVBGRkl1THlhTWxxUF9ST21DNG1WN3hYcmJzeDZhTEI2dlJ0V1ptTzNncnd5RFNSQ1FyUkFta2xHLWp1ZWxySzdpeFhtcTJ3U3JOMUNMUdIBxgJBVV95cUxQcGN3WXNMek93dFdGcl94TTMzdnlJSjhueFlHbmpsRlZINEhnaVhpWDE2TWR4S0s3TzBIMmVsaHdkZEdCVExEbEwzU1lFOFRWTmk5NmMzczdUR2d4NDB3VDlxOFh0Z2R0LTJZVllfeE9od0NxckQ5bXhyYnY2SDk3MGpPV0RHbmZoVVdSNFJadEdCaEFCY2NJX0dFd3NzWDl6YnVxb2REbzJmcGotZk5VQXd4OTNrWmVLZzhDWEw5TVJseE5fSHFjTDMwRzNpU1VVQ05TZnMwSEx4YTZtUl8wdjgzNVItTE5qNW1raElvM2k5eFVpQWY2VmEzV0xGRm04Y1lvYWRiYzNuc0xLRU4tWW40RnV1SmRsckpLa0pEcHV1bklkYU1oMkJJMXpiamRZNE1TdDhTMHg2TWxtYWxEQmFFdHpnQQ?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-08-18 10:48
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5VdmhoV1dwbGczZFVNOFFjTlBLV3dsVVNuS2VNYUZVY3VkM0RoVzhHcWJCSEhPaEZJYl96VjFlekx5NF9DaGpqM19BaldwcWZOQ2pKeTBpd2l0NUtUMllYdjFzWTNMdXdkZ0JOSVVZa2FxZ3M?oc=5>
+
+### 创新低，特朗普最新支持率公布
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: news.sina.cn
+- 时间: 2026-08-18 01:53
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9ZSF9PY0pmWmlENlM4TXVoOW91c1V1X20zR1NOZ1FabEVmMlZ1MGYycFpYRDVoTTZmZW9aVUw2TWFDS1FmNEFtSnZVWndhbUw0OGdsaXh3VnNPZDdHWWdlRkNrODFid3BfOHBOMWhOeTlCTlo4SDV1Mw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-18 10:54  (3 条)
+
+- **特朗普** | 特朗普女婿：别搞事啊！ 内塔尼亚胡：有点困难啊！ <https://news.google.com/rss/articles/CBMiTEFVX3lxTFB3bUlMcHNRQ0ljdlJEOHBzaUlRRzk5WTBpZ1VyT0RITlB5OFdwY2h2U0tHbDdnOTV4ZDdNdC1TaDRDTmZGQTlURlVRSXY?oc=5>
+- **特朗普** | “林肯”号航母家属痛斥特朗普，称其说话根本不过脑子 <https://news.google.com/rss/articles/CBMic0FVX3lxTE5VdmhoV1dwbGczZFVNOFFjTlBLV3dsVVNuS2VNYUZVY3VkM0RoVzhHcWJCSEhPaEZJYl96VjFlekx5NF9DaGpqM19BaldwcWZOQ2pKeTBpd2l0NUtUMllYdjFzWTNMdXdkZ0JOSVVZa2FxZ3M?oc=5>
+- **特朗普** | 创新低，特朗普最新支持率公布 <https://news.google.com/rss/articles/CBMieEFVX3lxTE9ZSF9PY0pmWmlENlM4TXVoOW91c1V1X20zR1NOZ1FabEVmMlZ1MGYycFpYRDVoTTZmZW9aVUw2TWFDS1FmNEFtSnZVWndhbUw0OGdsaXh3VnNPZDdHWWdlRkNrODFid3BfOHBOMWhOeTlCTlo4SDV1Mw?oc=5>
 
 ### 2026-08-18 10:23  (2 条)
 
