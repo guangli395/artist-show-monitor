@@ -1,7 +1,7 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-18 19:47**
-- 本轮扫到 10002 条, 新增 **4** 条
+- 最近更新: **2026-08-18 20:15**
+- 本轮扫到 10006 条, 新增 **4** 条
 
 ---
 
@@ -11,38 +11,45 @@
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 手机网易网
-- 时间: 2026-08-18 19:33
-- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTFBKZXNoTU1nTlczUXlqRTdCbjVlSDVsSXl5enk1RjFMOG1pWWJrTlBKWlQtS2FzU3dYUktsUGtUaUFsNERFcVJ0eVAtekFfbjRVZEJCeGx3bjhhX0hWNjhaRld3?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-18 20:02
+- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxQbEZlb2dsUzVDM0liYUNtaWh5ZkJscDR4ZUVFMzJOcVFOVkNRdWhVYi13bGNrMVF4VGx1dzNhRGZQRE05cHRpdnhESWQxWWdIOUVNUXFPR2taVWkxQzRZMUJEb05lZlI1SDg4ekhzMUEyTWdxdTNaR3N2S0lCTTVfSC1VTmNLX1dONnc?oc=5>
+
+### 创新低，特朗普最新支持率公布
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-08-18 01:53
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1UYnNRQUhoR29aXzR0V0JqSno3MTQ5VGlfZ1lOU3FBSWZwdWlHMmxrUVN0RXNXSmJVblJMd1JDX0JON1kydXFFQkhjRWl0SFFyc204YWNJZ21VTjhPSWtXczRUZFk1ck5VYzRjNGlTNUw?oc=5>
+
+### 特朗普中东开战引爆“通胀炸弹”重创民意，美股与中期选举恐告急
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-18 06:55
+- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYlE3ekY4QUdfeGF4U2xFQXYwd3ctSjc1OEU4NVptdktneFNOdWlRbTVYS3hwSTFlSTVrTEg0OE45bTVqZkd0LWF2NFc2NV9seHRvSlAzeGxodE9zVnZNVW83NnFQdGpoLV84bXQzVHB2N2ZTU1E3ZEVoUGJuUU8xWHEwX0RFM09FWUU3dEZXYmVlSVlvZm1XRjlpLUNKdWdVMVV4QU1PZzFSUQ?oc=5>
 
 ### 特朗普：未与伊朗进行任何会谈 未来也无相关计划
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-08-18 15:03
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE44Tk44TFVGWXdyOXpULXFZR00ya182MHJkeFJhYXppNEViSC1DM25NT1pQVEtwV3ZBRUd0Q1Fob3kwQ2hDRC1TRGhGdVZTYl84NWczQ3VlR2MwUlZOM2RDdnBJalZiLVRM?oc=5>
-
-### 卡塔尔暗示霍尔木兹海峡协议或有助于美伊谈判后，特朗普总统表示暂无与伊朗举行会谈的安排
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-08-18 19:32
-- 链接: <https://news.google.com/rss/articles/CBMi-AFBVV95cUxOejYzdmpTMjRDZmU5bWdhZGNWU25HWGF3SWI4aWYwSXR2bjVIMDdZaWY1cGtQMDlwX0cwcDlDUFhLblZCQzFhckw1dFZ6ZDJCMFZqbUFldWNUbl9IVmY5a1VDVWFPby1XeHkwQW14SWFzVGw1N1dDZEF3bXp5TlRlLXBvSnpJOTQwRE85dE91azF2WUJsN1JaQi1ranhWSF94Rk9oRTRlY0FmdnZQazE2Z0ZzNGpSbjlGLXZldjExOXVvUEVOcFFtb3NFNEt4RVM3MTVIY3MxN09wWUNMTUtHNkN1X3NGM1p4MFBGNGNhdDN6eDVudG9qaNIB-wFBVV95cUxOd0xLemxiYzBHSTlYQnlabG92Y081UUNfWHV4TEY2N0dCOWxXQkNEajNudm9QY3kxNTZuNmZJeFdnNHpGdFctS21IdW41WEpQeVlsV1ZZSE8zbW1BX0gyMXZkcTFtQ3NQOV9GeFE1NWVqYmljMGNnN0hJdnhRZmtVTldtSWJ5RHlHY0drR29DV3cxVHU1ZlpKNERiaDN0SVBUdmI0M05UVlJIeDgwSldpMjMzMHdOMnJmeFhzMXY0RzBiQzM0VUFaTG16aHVISy1SYnNzVGt6SXU0WEVXLThfeTVQck9JSlFFY1NCeS04ZEVSTGVNaGQwMFVZMA?oc=5>
-
-### 特朗普下令削减与韩国联合军演的规模 专家：这是与朝鲜重启谈判的信号
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-08-18 19:01
-- 链接: <https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZk8zLS1XeVN2ZEFOaWc3blJLVU93SEV4cXNZeTdHTzJjTjhEaVV3RGM1em56MDVGdjZTTWJkaVpsSEpCTndhdmZBTG9qQko3eE1QVGl3b3QwUTgySGw1eWFUdS0zQXE5cDNPQWY1OHNkZWxNMW5HZEJJUnJ2TUFadmFBcG9tMGhWOTJGR21xM0lRSXFHZXVDR09HU0RvdzE4Z1FxeHhPc21lYlRkcmFWRzZCeHNybU1faG9UcWtqMWEtblN5cUE1QUQxYThpTUJTMWpuYUduOU1UX2ktLU1XOWJTY2R3dE400gHrAUFVX3lxTE9lWUh5c3pteXhETEhDUDMtSTVGTXhhNG03b3MyeFdkeHkzRWQ0V1BUaXNEQnRwaUxTa1ctVFZ0VGdWSW1GMVk0YmhPdFZLTkF5bUtCLTNOLWxRQ29YZ0h0SlVqblZlNUJmdXkzcUNvX3hUQkJjb1lIWjJicTY4SjVxT29qSjVqcjBCV2ZiSC1GVWVieUJoX0lTa2pHR0tNM283eXdWcFZYUmRkak1GQXBoRlpOQXB6VVZqNkV5TGNNMkZWTHZjT2p4QlNBdVFGTGlSTzYyaG5Xdmg5NmpYVnVkTEJ1Z1Z1YTRZSE0?oc=5>
+- 场馆: news.cnr.cn
+- 时间: 2026-08-18 14:06
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SNU85VDlBUUZFMnFha0tkdlFhaEtHSW5FSUpCZ2tiQXY1dU9ESmtvbmhneU0zdUVvQVM5aFZWMmhKa05LLURWeXdNTXgwVklDN2RNUjVKV2N1bGdjaXBmbnpyY2ZLNDZl?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-18 20:15  (4 条)
+
+- **特朗普** | 美加关税谈判进入最后关头 特朗普政府淡化达成协议预期 <https://news.google.com/rss/articles/CBMiigFBVV95cUxQbEZlb2dsUzVDM0liYUNtaWh5ZkJscDR4ZUVFMzJOcVFOVkNRdWhVYi13bGNrMVF4VGx1dzNhRGZQRE05cHRpdnhESWQxWWdIOUVNUXFPR2taVWkxQzRZMUJEb05lZlI1SDg4ekhzMUEyTWdxdTNaR3N2S0lCTTVfSC1VTmNLX1dONnc?oc=5>
+- **特朗普** | 创新低，特朗普最新支持率公布 <https://news.google.com/rss/articles/CBMicEFVX3lxTE1UYnNRQUhoR29aXzR0V0JqSno3MTQ5VGlfZ1lOU3FBSWZwdWlHMmxrUVN0RXNXSmJVblJMd1JDX0JON1kydXFFQkhjRWl0SFFyc204YWNJZ21VTjhPSWtXczRUZFk1ck5VYzRjNGlTNUw?oc=5>
+- **特朗普** | 特朗普中东开战引爆“通胀炸弹”重创民意，美股与中期选举恐告急 <https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYlE3ekY4QUdfeGF4U2xFQXYwd3ctSjc1OEU4NVptdktneFNOdWlRbTVYS3hwSTFlSTVrTEg0OE45bTVqZkd0LWF2NFc2NV9seHRvSlAzeGxodE9zVnZNVW83NnFQdGpoLV84bXQzVHB2N2ZTU1E3ZEVoUGJuUU8xWHEwX0RFM09FWUU3dEZXYmVlSVlvZm1XRjlpLUNKdWdVMVV4QU1PZzFSUQ?oc=5>
+- **特朗普** | 特朗普：未与伊朗进行任何会谈 未来也无相关计划 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SNU85VDlBUUZFMnFha0tkdlFhaEtHSW5FSUpCZ2tiQXY1dU9ESmtvbmhneU0zdUVvQVM5aFZWMmhKa05LLURWeXdNTXgwVklDN2RNUjVKV2N1bGdjaXBmbnpyY2ZLNDZl?oc=5>
 
 ### 2026-08-18 19:47  (4 条)
 
