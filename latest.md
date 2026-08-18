@@ -1,31 +1,13 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-18 21:45**
-- 本轮扫到 10010 条, 新增 **2** 条
+- 最近更新: **2026-08-18 22:15**
+- 本轮扫到 10010 条, 新增 **0** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮无新增
 
-### 美伊对话陷入停摆 阿联酋指责伊朗再射导弹
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-08-18 21:31
-- 链接: <https://news.google.com/rss/articles/CBMixAJBVV95cUxORXFrQlE2YjBVUEdzdlM0R2ZEOGtEcjRtYlltNnpWUjdnRTFKOE95YWZDWG9OY2FwbWVHdXplb3BMNDRTLU0yWEZrX2xKc1ZDR2ZFTEVYXzlSelFWNmZaQWJYcFI0V1dqbHJUczNkMTFNVDZha3hlWmZadkJYMlhQcW9qUkFRWlBMcEVRTkMzVEJCOXhyWTFzR21sSDBYUHpvR1ByQnU4UnpqbjVEdnRRTTBEQTYtYTE4Yk5Lc3ZRcllfZ3N5SUNOYzZhMkEyeUxwUklEdzRqRGN5T1VIM2FyRU0zal9LdE1BTWRYTVVsN0ExeW5DTFRoNG1MWUZkRDM3a3p5SzFRaTNzaWM2d3BidEcyal9mWnBPWTdUYndpNUVsYjFtUnNaclNUQ3ZWVnJhbVBxbUtXeGVQQjFHYUtuUWxQajg?oc=5>
-
-### 美国对加拿大新关税生效在即 特朗普与卡尼磋商寻求协议
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-08-18 21:27
-- 链接: <https://news.google.com/rss/articles/CBMijANBVV95cUxPOVlZd0dGdHo0SndaSXBLcXV6TnVDR1JJZlBGZ1NWSnVpeUFVQVZvYTNYeVBSOHhhS0JEZDl0dW9xaU1BZkY1UDdDNTJFeGkyWWhyeFJvaVdPRmpMRklXeThqODREdlczZlpuU1I3d2k0X2swdzJUaFoyTlVpeXVHTloyNGhxaC1NeWJEaVFZWkszOUUtZEcxNDBCWTByWEdXN3dJMUZMbk01LVBUTUNxNVc3MFFEUEZBczNpWG13RXk2ck4xTmh1Zk91UG1tRlRQWGZMWWd5ejZvQXMySWdEU1ZYSUxXMi0wbkVSNG04OUw0TU5GWnJSaUNRelBkREtrSjVpTGpqT2x2ZmZ2a091MVFrMlNKRU9YdFQ3c1RYN05OSTNUUVFYTWF4RWdXOERrc2R2aFRyQ252ZUtsWXB5NkhPS2dUZTBlanUtQkFwb2M3UnFleTdPRm50U2xESGNlbHBJV3BpV01PUnRwazNLaUdpaE16QzJRYUNLbjlKRDhGU2g1VnVyOUlJUE4?oc=5>
-
-
----
-
+数据库里所有演出/动态都已见过,暂无新增。
 ## 历史发现
 
 ### 2026-08-18 21:45  (2 条)
