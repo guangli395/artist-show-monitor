@@ -1,40 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-18 10:54**
-- 本轮扫到 9971 条, 新增 **3** 条
+- 最近更新: **2026-08-18 11:19**
+- 本轮扫到 9973 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (2 条)
 
-### 特朗普女婿：别搞事啊！ 内塔尼亚胡：有点困难啊！
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-18 00:18
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFB3bUlMcHNRQ0ljdlJEOHBzaUlRRzk5WTBpZ1VyT0RITlB5OFdwY2h2U0tHbDdnOTV4ZDdNdC1TaDRDTmZGQTlURlVRSXY?oc=5>
-
-### “林肯”号航母家属痛斥特朗普，称其说话根本不过脑子
+### 邮寄选票本质上就是腐败？特朗普：真香
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-08-18 10:48
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5VdmhoV1dwbGczZFVNOFFjTlBLV3dsVVNuS2VNYUZVY3VkM0RoVzhHcWJCSEhPaEZJYl96VjFlekx5NF9DaGpqM19BaldwcWZOQ2pKeTBpd2l0NUtUMllYdjFzWTNMdXdkZ0JOSVVZa2FxZ3M?oc=5>
+- 场馆: 观察者
+- 时间: 2026-08-18 00:05
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1MZ0tEY1pQN1pxUG5YOGtaMVlyUTgtOEU1R190dXRVbjVxOHRWeXgwd2d6R3FwaTAzRVF1dGNyVmVSZ292M3Q0RTBBWjdRenA3MU1XSXF3UDdYMTBLQnFrU2xxcVlZMHh6T0E?oc=5>
 
-### 创新低，特朗普最新支持率公布
+### 特朗普称美“首要目标”是确保伊朗不能拥有核武器
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: news.sina.cn
-- 时间: 2026-08-18 01:53
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9ZSF9PY0pmWmlENlM4TXVoOW91c1V1X20zR1NOZ1FabEVmMlZ1MGYycFpYRDVoTTZmZW9aVUw2TWFDS1FmNEFtSnZVWndhbUw0OGdsaXh3VnNPZDdHWWdlRkNrODFid3BfOHBOMWhOeTlCTlo4SDV1Mw?oc=5>
+- 场馆: 央视网
+- 时间: 2026-08-17 13:08
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE14bHFjVjc2T0w3bGFpT1R4VWI5UGM5VlJXYXdQTVljNF96TVphMFRoRlNoeGhiSTB5MHlCMlBkb0kyUWFaTlU0MHBYRTNXN2NTU3NSczNpWTdfM2VuYkZOdDZ3Y3VqeE9DQk96bTRqbGcwNXU0eG1RZw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-18 11:19  (2 条)
+
+- **特朗普** | 邮寄选票本质上就是腐败？特朗普：真香 <https://news.google.com/rss/articles/CBMiakFVX3lxTE1MZ0tEY1pQN1pxUG5YOGtaMVlyUTgtOEU1R190dXRVbjVxOHRWeXgwd2d6R3FwaTAzRVF1dGNyVmVSZ292M3Q0RTBBWjdRenA3MU1XSXF3UDdYMTBLQnFrU2xxcVlZMHh6T0E?oc=5>
+- **特朗普** | 特朗普称美“首要目标”是确保伊朗不能拥有核武器 <https://news.google.com/rss/articles/CBMieEFVX3lxTE14bHFjVjc2T0w3bGFpT1R4VWI5UGM5VlJXYXdQTVljNF96TVphMFRoRlNoeGhiSTB5MHlCMlBkb0kyUWFaTlU0MHBYRTNXN2NTU3NSczNpWTdfM2VuYkZOdDZ3Y3VqeE9DQk96bTRqbGcwNXU0eG1RZw?oc=5>
 
 ### 2026-08-18 10:54  (3 条)
 
