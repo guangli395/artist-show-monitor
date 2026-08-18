@@ -1,32 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-18 23:15**
-- 本轮扫到 10014 条, 新增 **2** 条
+- 最近更新: **2026-08-18 23:44**
+- 本轮扫到 10016 条, 新增 **2** 条
 
 ---
 
 ## 本轮新发现 (2 条)
 
-### 美官员：特朗普要求谈判团队暂停与伊朗接触
+### 特朗普：伊朗“不会达成我认为必要的那种协议”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新蓝网
-- 时间: 2026-08-18 22:47
-- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTFA3d2pQQ3E3c2lZQTRLSGZIZFVabE1xOWlzaEEycDQtcmFTSnZvcGJESzNlZHlwVzdNM0NUWWdvc1JLOTJVaFM4SlgzRkx2NDg?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-18 22:29
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBtRlU1REhJSVh1MHZaOEo5cHpaRTlFaV92MjZzUTMtOTh0MVRoeGtUZVNMVHNpQnp3eFdhNTNYa1BKRkMycEx4ZG5Vd25mcjRfYlYwd0FyOXBESUw1dG0zdTNDODdzTXVoaW5qMHJHR1BGLUIzck4zeQ?oc=5>
 
-### 特朗普称美方目前未同伊朗进行任何会谈
+### 热点问答丨特朗普威胁轰炸阿曼为哪般
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-08-18 22:48
-- 链接: <https://news.google.com/rss/articles/CBMiogFBVV95cUxNMW1qUERFeVdqbU5IV1hKdVdLOU0xSi1iMU0yNVNOT0lZQ054Z2hZakRTNmN3NjRVVjdBV3N0MS14akxQU0I1UEQ4N0pyUHJfeDAyV2R3aDlEY3NUTG9xUlhoUzR6N1c3Ti1ybWhxMk1HYmp1NEw4Um44YW5IcnhzVEc2OFBjR09kUmZZQzZWR3ljYXM4cWFlZVl0VHpYaXVJekE?oc=5>
+- 场馆: thepaper.cn
+- 时间: 2026-08-18 19:54
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE95emZNWkg0NWJLdEs0a1BKbGFxNy00SUVHNjNzdVNPcUVBVjQwbUNRa0ZJY2J3dEtjQXBGQmJ2X0RBZS1OQkZ5dGFweWQ2WXhfMkdTMnZZYXdEUkUxbU4yVw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-18 23:44  (2 条)
+
+- **特朗普** | 特朗普：伊朗“不会达成我认为必要的那种协议” <https://news.google.com/rss/articles/CBMieEFVX3lxTFBtRlU1REhJSVh1MHZaOEo5cHpaRTlFaV92MjZzUTMtOTh0MVRoeGtUZVNMVHNpQnp3eFdhNTNYa1BKRkMycEx4ZG5Vd25mcjRfYlYwd0FyOXBESUw1dG0zdTNDODdzTXVoaW5qMHJHR1BGLUIzck4zeQ?oc=5>
+- **特朗普** | 热点问答丨特朗普威胁轰炸阿曼为哪般 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE95emZNWkg0NWJLdEs0a1BKbGFxNy00SUVHNjNzdVNPcUVBVjQwbUNRa0ZJY2J3dEtjQXBGQmJ2X0RBZS1OQkZ5dGFweWQ2WXhfMkdTMnZZYXdEUkUxbU4yVw?oc=5>
 
 ### 2026-08-18 23:15  (2 条)
 
