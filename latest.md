@@ -1,48 +1,62 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-18 05:00**
-- 本轮扫到 9944 条, 新增 **4** 条
+- 最近更新: **2026-08-18 05:52**
+- 本轮扫到 9949 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (5 条)
 
-### 民调显示特朗普支持率创第二任期内新低
+### 蔡徐坤红底生日大片发布，随性穿搭定格时尚瞬间
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: china.zjol.com.cn
-- 时间: 2026-08-17 23:59
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFU1JwTkFON0xvNjI4bjlCdUw2U3NtY2ZodDNhTUM3X2I5Sk1tb21SbGFGOTUydG1GR2tOdHlHeFMyVEMzV0pla1JlZng3dXEwQ3Q3MndMUGZQSENzWmYxa3BTbnhCa28?oc=5>
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7811157903_m1d194cf8f03301ryzm.html>
 
-### 美以伊最新局势：美伊尚未达成共识，特朗普称不寻求延长谅解备忘录，美正完全控制霍尔木兹海峡
+### 足球场上的权力游戏：特朗普为何力挺国际足联主席？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-08-18 04:07
-- 链接: <https://news.google.com/rss/articles/CBMiigJBVV95cUxOWkg5OW9TRHIzMXA4YkNtRUh6Rm1KbFVRSTlRNkpObzZRT2FzRTRfRW5uUjV0U2tEX2JmY1haeXFSQWpuT3JZZnJFOEZ0NGVDR1FRbzdfSklGWkVONmYtOWJoeUdFR2dfUGRWV3dRcDNyRWFmVnY2aDQwelY4R2dvZE40R0dHVG1CVVk3WGtZZUhSbG1sVE5qcjNsNlIxa3NOWVpfMDkxOXVMaVJqRUEzd01ZaExTcDFFUmZfQU9fV3JFbUVUOWFmaWtySUtPRDRLTTdRRWhOLXFPa0Y2UEtMX2N0clQ1VWg5U0FDUEcxbXhncnNaTmRqMFdBMzU5aVplYTQwUGl1ZUF3QQ?oc=5>
+- 时间: 2026-08-18 03:55
+- 链接: <https://news.google.com/rss/articles/CBMi0wFBVV95cUxPazFfYjJmdXpuUW9JUERZaEJESXJwQ0lIMU5ybmNNdUlscEtCdk82TjR6RWdnc1dyaDZUc1RoajdDSlVIcWNLaUFnTjY3cnpSZUJuQ1d5NUNUUGhrTkdUZlJMLXBhSXBSOXBrMnFidjJpdHRKbTdOMFd0VGlHR2RoWWg0QV9aTURRcWkxd3VfRGh2ei1hckl6cVRVMlJwX3VTX1JXa1FwOTNWOUQxZ3hLQ1FLaGh5TFZjV19PZVBzOXJ1QlgwTG1oaDhObl8yeE43UzZr?oc=5>
 
-### 英首相遇“政治骗子” 与冒牌特朗普幕僚长互发信息
+### “大限”已至，美伊各放狠话
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 财新
-- 时间: 2026-08-17 23:27
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1POGRwS3BYQ1JqN0dReHF0ZURXbjFDaWJuYU9OMU9GVGtzVWdHUzA5ZV8xbnBaMnJxdHN4bHg2RlV6Qk9GY01CNFh6Y1AxQ3JLZDIxREVMTmpzU3ZIZ1U5VjA2azdLWWxMdGc?oc=5>
+- 场馆: 观察者
+- 时间: 2026-08-17 23:14
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9UNnpMUXk3emM1eUJmSy11RzhFeWdDQm9DYTBKSHJEWmx4X0ZNRTVmUlJTaVMtdVkxN3kydWwySllYakZna2kxRmVBZUkzT25FcTNIeDRwc1dibUR1VnRydC11WWw5LUhFVXc?oc=5>
 
-### 在伊朗陷入困局后，特朗普再次将目光转向金正恩
+### 路透民调：特朗普支持率降至33% 创任内新低
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观点网
+- 时间: 2026-08-18 04:51
+- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTFBBWFQ5bjROeFZEaWdURzZtOFdib2RDMzNRV0ZnMEpQMWdtUzhUeG91RGh5YkxKX2tNbnZ3aWZwNzhTQzZVRUM5blNvR1VSSEs0YUJfeUg4TzdQbW1QdXN3UW5n?oc=5>
+
+### 特朗普：不着急结束伊朗战争，若阿曼阻碍谈判、将“狠狠轰炸”，伊朗警告转向全面进攻
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-08-18 02:47
-- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTE5yYnFNRTFNNGtJb00xaUlFa0k0cmF2d3NTZnZnbUlPSGxJM2FYUFlZdWdVWFZzQjU4R0dtZ0tYZXBNMThHdjd4NlZPcEszZ2syYjVSbXNGc1g0ZDhqanhMd2pPUi1EelpULXFGVnZOeHBHNkxVV0t4TXNjZw?oc=5>
+- 场馆: 富途牛牛
+- 时间: 2026-08-18 04:47
+- 链接: <https://news.google.com/rss/articles/CBMikAFBVV95cUxOYW5rcXVlVDM2UmtZdm1DSXBLc2ZPZ2E5U2Jpb0NXX2oyT290dVV6RTBMTHREdHdkTmlwdnlBQlNXNXFLd2pLQU85cGVabjl0cTRQRTdrTWZUMTNRRXFEMkhBT0FId3pyNUM1RVN0c2ZDdU1KdU1PU0hobm15Z0FIX09SUWtqbXljUnhFaDZUb0s?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-18 05:52  (5 条)
+
+- **蔡徐坤** | 蔡徐坤红底生日大片发布，随性穿搭定格时尚瞬间 <https://k.sina.com.cn/article_7811157903_m1d194cf8f03301ryzm.html>
+- **特朗普** | 足球场上的权力游戏：特朗普为何力挺国际足联主席？ <https://news.google.com/rss/articles/CBMi0wFBVV95cUxPazFfYjJmdXpuUW9JUERZaEJESXJwQ0lIMU5ybmNNdUlscEtCdk82TjR6RWdnc1dyaDZUc1RoajdDSlVIcWNLaUFnTjY3cnpSZUJuQ1d5NUNUUGhrTkdUZlJMLXBhSXBSOXBrMnFidjJpdHRKbTdOMFd0VGlHR2RoWWg0QV9aTURRcWkxd3VfRGh2ei1hckl6cVRVMlJwX3VTX1JXa1FwOTNWOUQxZ3hLQ1FLaGh5TFZjV19PZVBzOXJ1QlgwTG1oaDhObl8yeE43UzZr?oc=5>
+- **特朗普** | “大限”已至，美伊各放狠话 <https://news.google.com/rss/articles/CBMiakFVX3lxTE9UNnpMUXk3emM1eUJmSy11RzhFeWdDQm9DYTBKSHJEWmx4X0ZNRTVmUlJTaVMtdVkxN3kydWwySllYakZna2kxRmVBZUkzT25FcTNIeDRwc1dibUR1VnRydC11WWw5LUhFVXc?oc=5>
+- **特朗普** | 路透民调：特朗普支持率降至33% 创任内新低 <https://news.google.com/rss/articles/CBMiYkFVX3lxTFBBWFQ5bjROeFZEaWdURzZtOFdib2RDMzNRV0ZnMEpQMWdtUzhUeG91RGh5YkxKX2tNbnZ3aWZwNzhTQzZVRUM5blNvR1VSSEs0YUJfeUg4TzdQbW1QdXN3UW5n?oc=5>
+- **Trump** | 特朗普：不着急结束伊朗战争，若阿曼阻碍谈判、将“狠狠轰炸”，伊朗警告转向全面进攻 <https://news.google.com/rss/articles/CBMikAFBVV95cUxOYW5rcXVlVDM2UmtZdm1DSXBLc2ZPZ2E5U2Jpb0NXX2oyT290dVV6RTBMTHREdHdkTmlwdnlBQlNXNXFLd2pLQU85cGVabjl0cTRQRTdrTWZUMTNRRXFEMkhBT0FId3pyNUM1RVN0c2ZDdU1KdU1PU0hobm15Z0FIX09SUWtqbXljUnhFaDZUb0s?oc=5>
 
 ### 2026-08-18 05:00  (4 条)
 
