@@ -1,62 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-18 04:05**
-- 本轮扫到 9940 条, 新增 **6** 条
+- 最近更新: **2026-08-18 05:00**
+- 本轮扫到 9944 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (4 条)
 
-### 王一博VOGUEMAN八月刊，脑洞剧场正式开戏，充满故事力量王一博新刊发布
+### 民调显示特朗普支持率创第二任期内新低
 
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7810739724_m1d18e6e0c03302h5ta.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: china.zjol.com.cn
+- 时间: 2026-08-17 23:59
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFU1JwTkFON0xvNjI4bjlCdUw2U3NtY2ZodDNhTUM3X2I5Sk1tb21SbGFGOTUydG1GR2tOdHlHeFMyVEMzV0pla1JlZng3dXEwQ3Q3MndMUGZQSENzWmYxa3BTbnhCa28?oc=5>
 
-### 美国金融史上最明目张胆的一次？特朗普家族持股加密公司获批银行牌照
+### 美以伊最新局势：美伊尚未达成共识，特朗普称不寻求延长谅解备忘录，美正完全控制霍尔木兹海峡
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-08-18 03:35
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxNbkgzRFNBSkstM0tqTmNMNkVkT2VjSVp2MGVmbWFVaDF6SEhyT0hZWUF2SXVYWGtPZEFGYTVhU2ZqcXZNUUVCU0JCTlZKeVlkV3hoVzFoVG1qYkNWcUdMWk5mclF3UXRrQnZ5Rk00WVFNTFFTNF9KQXpnSGN1VFFMekhzc1JVWms3OWJ2STF2cVdCS3QxVFVJSg?oc=5>
+- 时间: 2026-08-18 04:07
+- 链接: <https://news.google.com/rss/articles/CBMiigJBVV95cUxOWkg5OW9TRHIzMXA4YkNtRUh6Rm1KbFVRSTlRNkpObzZRT2FzRTRfRW5uUjV0U2tEX2JmY1haeXFSQWpuT3JZZnJFOEZ0NGVDR1FRbzdfSklGWkVONmYtOWJoeUdFR2dfUGRWV3dRcDNyRWFmVnY2aDQwelY4R2dvZE40R0dHVG1CVVk3WGtZZUhSbG1sVE5qcjNsNlIxa3NOWVpfMDkxOXVMaVJqRUEzd01ZaExTcDFFUmZfQU9fV3JFbUVUOWFmaWtySUtPRDRLTTdRRWhOLXFPa0Y2UEtMX2N0clQ1VWg5U0FDUEcxbXhncnNaTmRqMFdBMzU5aVplYTQwUGl1ZUF3QQ?oc=5>
 
-### 特朗普要求记者闭嘴
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: video.sina.com.cn
-- 时间: 2026-08-18 03:23
-- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxPcmpRc1FsaUxUdGxtSzM2SmRSWnNEUlRKdDM2M2lRRjlaVlF0VDk3Ml80YWtya1pCMGE0ei1XbV9pSXkzZVFFQkRYTjV6Z1NCeVVVd0Nod1FXZXB0WXEwMHVfTko0dW1wM3dwZGF0Z1ZzQ0JlOG81YkxfWWtfTFBCbGln?oc=5>
-
-### 白宫宴会厅曾是特朗普的美学和空间之梦，如今却成了“军事综合体”
+### 英首相遇“政治骗子” 与冒牌特朗普幕僚长互发信息
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-08-17 05:54
-- 链接: <https://news.google.com/rss/articles/CBMiswFBVV95cUxQMWJvLXU3dmpRb2JpTUU3dnQxdloxSGZuSkxjakdBU2Riemx2LWRkQVBOb1VOSWhLaVpYTFJKS0k4alpYeVg2aXBhcDBHdXNXNHhsNDU4Z25NN201b212NzdreTU0YWVSWGVXTWh4anEwTEJ0QzJRUXpVXzk5ZmdIbXlkOXQ1Ry1RMjVtaEpwd3dNMTdnOFZoQWI2akdTZVAzMTdnWklHcWk0b1hxY3JNdjh0Yw?oc=5>
+- 场馆: 财新
+- 时间: 2026-08-17 23:27
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1POGRwS3BYQ1JqN0dReHF0ZURXbjFDaWJuYU9OMU9GVGtzVWdHUzA5ZV8xbnBaMnJxdHN4bHg2RlV6Qk9GY01CNFh6Y1AxQ3JLZDIxREVMTmpzU3ZIZ1U5VjA2azdLWWxMdGc?oc=5>
 
-### 特朗普总统命令大幅缩减美韩联合军演规模
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-08-17 22:45
-- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxQelpUajBLeUVPLUxCOHhaYVc4bHNUUkk3SEliMTZjVW93VThRRXA1cHI1U1RyRURUb1AyZEZYMU8xU04xaDAyZW42ZnBDanpKTEZ1c3hQLTgzVGFuRi13ekdjTG5fR2pUNUJWZjhuRWR3Y1ZSaDBMa2MwRVZkcVNTV0pLWlRoVDBnUkHSAYoBQVVfeXFMUHpaVGowS3lFTy1MQjh4WmFXOGxzVFJJN0hJYjE2Y1Vvd1U4UUVwNXByNVNUckVEVG9QMmRGWDFPMVNOMWgwMmVuNmZwQ2p6SkxGdXN4UC04M1RhbkYtd3pHY0xuX0dqVDVCVmY4bkVkd2NWUmgwTGtjMEVWZHFTU1dKS1pUaFQwZ1JB?oc=5>
-
-### 就像trump一样，绝不投降
+### 在伊朗陷入困局后，特朗普再次将目光转向金正恩
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-08-17 12:57
-- 链接: <https://news.google.com/rss/articles/CBMikAFBVV95cUxOR3pBVHNTUy1QbVJYQk9rbVAwWHAtRi1FY1gyQjZQWWJ5aXBlSzR4YUNaR1Awb2Y0VXpoU3k5elBrTkQ4WGlJMVMydWRLcHJEaUNkdUcxUURyUGFFY0FGWHpiNU45Y0dyeTF1OGd5MHVqTUZIMExnd1VjZ2V2aHhpMlN0TFAtV2JIX2kxdFNyR1A?oc=5>
+- 场馆: 纽约时报中文网
+- 时间: 2026-08-18 02:47
+- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTE5yYnFNRTFNNGtJb00xaUlFa0k0cmF2d3NTZnZnbUlPSGxJM2FYUFlZdWdVWFZzQjU4R0dtZ0tYZXBNMThHdjd4NlZPcEszZ2syYjVSbXNGc1g0ZDhqanhMd2pPUi1EelpULXFGVnZOeHBHNkxVV0t4TXNjZw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-18 05:00  (4 条)
+
+- **特朗普** | 民调显示特朗普支持率创第二任期内新低 <https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFU1JwTkFON0xvNjI4bjlCdUw2U3NtY2ZodDNhTUM3X2I5Sk1tb21SbGFGOTUydG1GR2tOdHlHeFMyVEMzV0pla1JlZng3dXEwQ3Q3MndMUGZQSENzWmYxa3BTbnhCa28?oc=5>
+- **特朗普** | 美以伊最新局势：美伊尚未达成共识，特朗普称不寻求延长谅解备忘录，美正完全控制霍尔木兹海峡 <https://news.google.com/rss/articles/CBMiigJBVV95cUxOWkg5OW9TRHIzMXA4YkNtRUh6Rm1KbFVRSTlRNkpObzZRT2FzRTRfRW5uUjV0U2tEX2JmY1haeXFSQWpuT3JZZnJFOEZ0NGVDR1FRbzdfSklGWkVONmYtOWJoeUdFR2dfUGRWV3dRcDNyRWFmVnY2aDQwelY4R2dvZE40R0dHVG1CVVk3WGtZZUhSbG1sVE5qcjNsNlIxa3NOWVpfMDkxOXVMaVJqRUEzd01ZaExTcDFFUmZfQU9fV3JFbUVUOWFmaWtySUtPRDRLTTdRRWhOLXFPa0Y2UEtMX2N0clQ1VWg5U0FDUEcxbXhncnNaTmRqMFdBMzU5aVplYTQwUGl1ZUF3QQ?oc=5>
+- **特朗普** | 英首相遇“政治骗子” 与冒牌特朗普幕僚长互发信息 <https://news.google.com/rss/articles/CBMiakFVX3lxTE1POGRwS3BYQ1JqN0dReHF0ZURXbjFDaWJuYU9OMU9GVGtzVWdHUzA5ZV8xbnBaMnJxdHN4bHg2RlV6Qk9GY01CNFh6Y1AxQ3JLZDIxREVMTmpzU3ZIZ1U5VjA2azdLWWxMdGc?oc=5>
+- **Trump** | 在伊朗陷入困局后，特朗普再次将目光转向金正恩 <https://news.google.com/rss/articles/CBMie0FVX3lxTE5yYnFNRTFNNGtJb00xaUlFa0k0cmF2d3NTZnZnbUlPSGxJM2FYUFlZdWdVWFZzQjU4R0dtZ0tYZXBNMThHdjd4NlZPcEszZ2syYjVSbXNGc1g0ZDhqanhMd2pPUi1EelpULXFGVnZOeHBHNkxVV0t4TXNjZw?oc=5>
 
 ### 2026-08-18 04:05  (6 条)
 
