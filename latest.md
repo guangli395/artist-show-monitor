@@ -1,27 +1,11 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-19 08:28**
-- 本轮扫到 10057 条, 新增 **5** 条
+- 最近更新: **2026-08-19 09:04**
+- 本轮扫到 10059 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (5 条)
-
-### 美伊谈判，最新消息！
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-19 07:04
-- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxQT21iS2lrXzhtcVhWZ1Rta2RhYlV3S3R4UzZnRTVrWExmWHQzVEl2NEtGZDdYQzg2ZlIwQ3BhZHo0RGFSbXBwTnB5WER2OUhWdW4wd25tRFcxLWFObndOVXhxazZpSnpjRXNwd01kZ2pRVW5SbUI4MGt3RzZzNE53ZzAtNA?oc=5>
-
-### 特朗普宣布推迟三天对加拿大加征50%关税
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: china.zjol.com.cn
-- 时间: 2026-08-19 06:49
-- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTE9fMGQzZ0FQXzdoSkFPWHJvdE11eDQyV0E5YUk0NzFTSmJKVEU1VWYzRnJKRzRhbE1MMDVHaHJPbVg3QW9OZ0NuZ05GWWFOc2ZkQ1BUdG1EaHliYldkaUJaTDdma3ZqQTIxX1l6UWtn?oc=5>
+## 本轮新发现 (2 条)
 
 ### 延后三天，特朗普为何紧急叫停对加拿大加征50%关税
 
@@ -29,28 +13,25 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-08-19 07:08
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUGFndDhNTVFnOVRjMjFpZmx5OXlhZkxTRTUtQkwtQ1RfellNcFpUY19vQ3E3VHZvVjJHenVzeG9PQjdJN3M1MjM2SzVnT3N5S1VNQW10ZkF5b1lGaTB0cGdNRmxaSUE0bDNJdVl6Nnl4VGhYUlBMNzU4UDVSQVFaODZ6c1I2U1poZGRON0FtbXpESUZZUWR2RFZHNGZHbjBHam92U2FENU8yc1BNeWVIRUhrRElTTHFSUVRObGJjSmU1RXYxVTJhX2hhdXJ3T3Bq?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNR1dIVU9zQ0Z4VjVDTHFrdFpYNXZGNGF2M0dVYW1tam1uQ1JlS0FYcUx2NzB1N0NYVmE4aHU2R1ZpUlpHeGhzazYwTnFFNzMxb3h1MUFFNi1VWlF0dW1ubUJaaWg0ZkRrbFBaemMyaWloSHF6eW5pSjE4UHZGLUEwaktlQldNazl1dmNFTi1GcjlLcW1NemRoSXNtUlpWNENlTDEyX3NVcTczVG42WGVzMVM0T21vSnpnTG9OekJpdFZyM3ZoTmVlbXhaeDhBOF9k?oc=5>
 
-### 攻击朋友、讨好敌人：特朗普“黑白颠倒”的世界观
+### 特朗普的“相扑手”，会走上白宫讲台吗？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-08-19 03:04
-- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTE93SW1hTVhhRTU5dC10WVdyNHlLdThvWHZOTldFRnFDMXdRbjhLM24tSmNQUjEzeXRKOC1fa2ZiRmYtV21JcUxzcWlxZUUzS0xEWnZxdjhuckVNcGh6YVROTm96Q3d1aG5IWmp6NjhR?oc=5>
-
-### “又开始了”——Trump令盟国不安，日本担忧“韩国之后的下一个目标”
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 아시아경제
-- 时间: 2026-08-19 02:35
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9haDlmMC1DdXpyWHpwRk9kbUc3Y3dWQV9vdUhuakgtVkI0dVZMTHdUUFZiZkVmbkYxY2RJZ3pndG5qa2xucTkzRHBVTzdYVXB2TUZjTTlDeTdJdTN0Z0xMaUFsUkE?oc=5>
+- 场馆: 搜狐网
+- 时间: 2026-08-19 05:11
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxPQk5mUHRCZnVnZDh2UDQ1UXJiOGhNZ1NBUU5vY0k3UFhkQVo3bHoxYm50ZFRaM3NhSmR5NWZqSXFLZnowQ1lQV2QxZUNJN19GSkM4UlRYM3c1dXQ0Tld3MGJRbGNobGdHZjlsMTZ6X2M2cTRhZ3JKazBIMW1YT2FYdUdqZFJlM0JkdnJ4Rg?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-19 09:04  (2 条)
+
+- **特朗普** | 延后三天，特朗普为何紧急叫停对加拿大加征50%关税 <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNR1dIVU9zQ0Z4VjVDTHFrdFpYNXZGNGF2M0dVYW1tam1uQ1JlS0FYcUx2NzB1N0NYVmE4aHU2R1ZpUlpHeGhzazYwTnFFNzMxb3h1MUFFNi1VWlF0dW1ubUJaaWg0ZkRrbFBaemMyaWloSHF6eW5pSjE4UHZGLUEwaktlQldNazl1dmNFTi1GcjlLcW1NemRoSXNtUlpWNENlTDEyX3NVcTczVG42WGVzMVM0T21vSnpnTG9OekJpdFZyM3ZoTmVlbXhaeDhBOF9k?oc=5>
+- **特朗普** | 特朗普的“相扑手”，会走上白宫讲台吗？ <https://news.google.com/rss/articles/CBMijAFBVV95cUxPQk5mUHRCZnVnZDh2UDQ1UXJiOGhNZ1NBUU5vY0k3UFhkQVo3bHoxYm50ZFRaM3NhSmR5NWZqSXFLZnowQ1lQV2QxZUNJN19GSkM4UlRYM3c1dXQ0Tld3MGJRbGNobGdHZjlsMTZ6X2M2cTRhZ3JKazBIMW1YT2FYdUdqZFJlM0JkdnJ4Rg?oc=5>
 
 ### 2026-08-19 08:28  (5 条)
 
