@@ -1,40 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-19 22:48**
-- 本轮扫到 10119 条, 新增 **3** 条
+- 最近更新: **2026-08-19 23:16**
+- 本轮扫到 10121 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (2 条)
 
-### 特朗普抱怨美联储利率政策，称美国应支付低得多的利率
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-19 22:41
-- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT0dmTU5NOE04M3pFUldwSWZmVFNNOV9vSEphcE5PNndtZmRYbG9GaHlHeE1FblViOWNEbWJYZWxScWhZZWJBMUZQX0VoZlJfaVdseFNXY3RJX3pSQ2V3MUxPaXJmalNtMk9LWHRWV0Q4ZXo0NGFGQlZyUUNiT2dnS0htc2JMS3FBS3lwMldveUt6VmZ2RmdVQ2w3VUo4OGZGU1c0REZaMnJadw?oc=5>
-
-### 特朗普政府开展历史上规模最大的驱逐行动，数千人员被驱逐至第三国
+### 特朗普宣布将与金正恩会面 并称朝鲜拥有57枚核弹
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-08-19 20:05
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxPeWRrbmNSZV91TVVXeGtjTGQxaUxSMzdGQlNsbWx4UkZpUW5kRWtaLU9aaXlHZTJtdUh4c2JVTkxkUTktNWhnSmVvRjZBWWN0SURIT0haZ0JoRkxVVE9ZbFlvNDdNYWpqc2JHZGVyVDVTR0tYTmUxMVdYSVFFRWt1Qll2WERSelF0ZUdoYg?oc=5>
+- 场馆: RFI
+- 时间: 2026-08-19 21:15
+- 链接: <https://news.google.com/rss/articles/CBMi3wJBVV95cUxNTFZfRFE2a2RmTFhhUk5sOXlkbFFRMnpGYXJuZy1jVjRQb1JWX3pJNG50Y1g5YklkeVJyWXpmbm5icllsY1phTkYwdWkwckt2X2xoNUtkVDFXaVdCem9VOVBwbEFHVWFreTZ5T0ZhaVJhYXdsdWFpN2FXTUs4WjVGRzJzcUlPZXdlNTZTdUpURldwM0VZdmo4b1V4SVFoUkZnTWJkUzV6bm5ROS15cXJJOEtKY3JHNHVXQzJCalgxcnFCcFhRTEhqdVVDNE5xOXZvNFg4Umg1VEtkbGE1Sjh3OTBtNzZRaVl2UE9rWEFDLURDYTNkVS1XM21QbWRkM1FDcDZaRTE4MXVJWkUyM3gzRWVWZFBnaGFxeHBHRVpSRDVia05Uc1pPak5MZklTQ3hLcklXYy1PdEhNbUViVjhfNWU1MkdiWVNWWFFGOTRrNlB0eUloNTRPdElMOW0wYUk?oc=5>
 
-### 特朗普政府推动恢复重罪犯的持枪权利
+### 特朗普称可能在“某个时候”恢复与伊朗谈判
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-08-19 00:06
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9HNFR6WFFtMWdOajA0N3lCaFdCbkFYWEF0RGZmaDFWYUZGb3dVei04eXJnTWpXUG44ZFRhOTBDVDBuX2VKVDJReGNaU3NzSnAxenBBY05RZFNCR1Z6aU55cEdkRXA3d3M2cEE?oc=5>
+- 场馆: 新京报
+- 时间: 2026-08-19 23:10
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE0teVFtMzQ4VUFMWG1Hd0pZdmhfUEFCTUF1Zy1Yd3JGYmZkM0tlX1AtaTZMWk5lVjFhT2RybmlsN1ZfUVNJanFKdjNuU1FaNm9fV2RmLWcwTkhjSkVfNHFIRzAzb3o?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-19 23:16  (2 条)
+
+- **特朗普** | 特朗普宣布将与金正恩会面 并称朝鲜拥有57枚核弹 <https://news.google.com/rss/articles/CBMi3wJBVV95cUxNTFZfRFE2a2RmTFhhUk5sOXlkbFFRMnpGYXJuZy1jVjRQb1JWX3pJNG50Y1g5YklkeVJyWXpmbm5icllsY1phTkYwdWkwckt2X2xoNUtkVDFXaVdCem9VOVBwbEFHVWFreTZ5T0ZhaVJhYXdsdWFpN2FXTUs4WjVGRzJzcUlPZXdlNTZTdUpURldwM0VZdmo4b1V4SVFoUkZnTWJkUzV6bm5ROS15cXJJOEtKY3JHNHVXQzJCalgxcnFCcFhRTEhqdVVDNE5xOXZvNFg4Umg1VEtkbGE1Sjh3OTBtNzZRaVl2UE9rWEFDLURDYTNkVS1XM21QbWRkM1FDcDZaRTE4MXVJWkUyM3gzRWVWZFBnaGFxeHBHRVpSRDVia05Uc1pPak5MZklTQ3hLcklXYy1PdEhNbUViVjhfNWU1MkdiWVNWWFFGOTRrNlB0eUloNTRPdElMOW0wYUk?oc=5>
+- **特朗普** | 特朗普称可能在“某个时候”恢复与伊朗谈判 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE0teVFtMzQ4VUFMWG1Hd0pZdmhfUEFCTUF1Zy1Yd3JGYmZkM0tlX1AtaTZMWk5lVjFhT2RybmlsN1ZfUVNJanFKdjNuU1FaNm9fV2RmLWcwTkhjSkVfNHFIRzAzb3o?oc=5>
 
 ### 2026-08-19 22:48  (3 条)
 
