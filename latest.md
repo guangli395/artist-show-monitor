@@ -1,32 +1,73 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-18 23:44**
-- 本轮扫到 10016 条, 新增 **2** 条
+- 最近更新: **2026-08-19 00:52**
+- 本轮扫到 10022 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (6 条)
 
-### 特朗普：伊朗“不会达成我认为必要的那种协议”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-18 22:29
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBtRlU1REhJSVh1MHZaOEo5cHpaRTlFaV92MjZzUTMtOTh0MVRoeGtUZVNMVHNpQnp3eFdhNTNYa1BKRkMycEx4ZG5Vd25mcjRfYlYwd0FyOXBESUw1dG0zdTNDODdzTXVoaW5qMHJHR1BGLUIzck4zeQ?oc=5>
-
-### 热点问答丨特朗普威胁轰炸阿曼为哪般
+### 美官员：特朗普要求谈判团队暂停与伊朗接触
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-08-18 19:54
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE95emZNWkg0NWJLdEs0a1BKbGFxNy00SUVHNjNzdVNPcUVBVjQwbUNRa0ZJY2J3dEtjQXBGQmJ2X0RBZS1OQkZ5dGFweWQ2WXhfMkdTMnZZYXdEUkUxbU4yVw?oc=5>
+- 场馆: finance.sina.com.cn
+- 时间: 2026-08-18 22:26
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE4wV3c4UHNUdXZpRXRwdUNwczRzWWFTODZIeW94RHQyYUMtNHd5NXJvdkF4cG9kdU9JdGFwMjhtaFZyc05jRE5fRnJzQVVadXpPUWFaT2xnaHluR2x5c0hMTUxTLVgwQzVWeVRSWF9QQlRYVnFzRno4WA?oc=5>
+
+### 特朗普下令福特级改回蒸汽弹射! 中国电磁弹射: 航母用还将发射卫星
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 手机新浪网
+- 时间: 2026-08-19 00:17
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE1ma3FyU19WbUR0R3B5OEw2Q050dXh0NW91ekgxdENjekVndDhmejZyakNiYzljZDEwNHFVZl9qMDJvVW9RNEhJZVZuMjhveVlJZzNneVZsVTN5c0FwMnZrb1dBdlM0YUZ3cU5vWVBsclc4Zw?oc=5>
+
+### 特朗普对人民大会堂念念不忘：“它很宏伟漂亮，美国也得有！”忆访华赞叹不已
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华军事
+- 时间: 2026-08-19 00:17
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9Kc3RRNVBiel9LQm1FdWMzQ1RWdFhtQzFaX29ubHJGQ3dleFRsZ2hfcWFWNHh0UWZvMmN6djd5R290dzhDUkZzYTUzV3F1REJEOTRTdWRBTDZIeFpKMWxRaWhBMEdPeVFFTWRreGtLWTI?oc=5>
+
+### 美国防部：正在落实特朗普缩减美韩军演指令
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-08-18 23:42
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5RMlNtd1lWLTZ5ak9adU5qVUZqU1htYWlFNF9fRHJ6WTRnVHZCcU05RW9aNVlOazV4TmdYbWkwQTByNnRTRUNaSTdXVQ?oc=5>
+
+### 57:60，特朗普迎来生死之战，共和党底牌打空，首富出钱“参战”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 手机新浪网
+- 时间: 2026-08-19 00:37
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFBibVlJUk80c1JEMkRqeEh0X3pOdXBBSzZvTVFIWTRDMlQzb3J0Q3ZsM24zN3RSeUJObFByVmFfUmpZWG9fOFBsN195OXI1TkdVZWZ1SjJkdUVxMVIyZ21WRDdfYzhFZWpIOEpCLUVWOXZvdw?oc=5>
+
+### Trump“换乘专机”……撇下部长却带上“这名女子”
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 아시아경제
+- 时间: 2026-08-18 23:40
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE02YlJHdWYxZzI0dUlrZzQydXhWVEJGRmlSUG1GRE9GSW05Y2s2VFFYaDYtWURYN2VXdmJUa3JOa2NiQVZwbm4zbWZxQ0x2ckVGbjdpWTFJMHFFYzh4THhMYzBrRXU?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-19 00:52  (6 条)
+
+- **特朗普** | 美官员：特朗普要求谈判团队暂停与伊朗接触 <https://news.google.com/rss/articles/CBMieEFVX3lxTE4wV3c4UHNUdXZpRXRwdUNwczRzWWFTODZIeW94RHQyYUMtNHd5NXJvdkF4cG9kdU9JdGFwMjhtaFZyc05jRE5fRnJzQVVadXpPUWFaT2xnaHluR2x5c0hMTUxTLVgwQzVWeVRSWF9QQlRYVnFzRno4WA?oc=5>
+- **特朗普** | 特朗普下令福特级改回蒸汽弹射! 中国电磁弹射: 航母用还将发射卫星 <https://news.google.com/rss/articles/CBMickFVX3lxTE1ma3FyU19WbUR0R3B5OEw2Q050dXh0NW91ekgxdENjekVndDhmejZyakNiYzljZDEwNHFVZl9qMDJvVW9RNEhJZVZuMjhveVlJZzNneVZsVTN5c0FwMnZrb1dBdlM0YUZ3cU5vWVBsclc4Zw?oc=5>
+- **特朗普** | 特朗普对人民大会堂念念不忘：“它很宏伟漂亮，美国也得有！”忆访华赞叹不已 <https://news.google.com/rss/articles/CBMicEFVX3lxTE9Kc3RRNVBiel9LQm1FdWMzQ1RWdFhtQzFaX29ubHJGQ3dleFRsZ2hfcWFWNHh0UWZvMmN6djd5R290dzhDUkZzYTUzV3F1REJEOTRTdWRBTDZIeFpKMWxRaWhBMEdPeVFFTWRreGtLWTI?oc=5>
+- **特朗普** | 美国防部：正在落实特朗普缩减美韩军演指令 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5RMlNtd1lWLTZ5ak9adU5qVUZqU1htYWlFNF9fRHJ6WTRnVHZCcU05RW9aNVlOazV4TmdYbWkwQTByNnRTRUNaSTdXVQ?oc=5>
+- **特朗普** | 57:60，特朗普迎来生死之战，共和党底牌打空，首富出钱“参战” <https://news.google.com/rss/articles/CBMickFVX3lxTFBibVlJUk80c1JEMkRqeEh0X3pOdXBBSzZvTVFIWTRDMlQzb3J0Q3ZsM24zN3RSeUJObFByVmFfUmpZWG9fOFBsN195OXI1TkdVZWZ1SjJkdUVxMVIyZ21WRDdfYzhFZWpIOEpCLUVWOXZvdw?oc=5>
+- **Trump** | Trump“换乘专机”……撇下部长却带上“这名女子” <https://news.google.com/rss/articles/CBMiZEFVX3lxTE02YlJHdWYxZzI0dUlrZzQydXhWVEJGRmlSUG1GRE9GSW05Y2s2VFFYaDYtWURYN2VXdmJUa3JOa2NiQVZwbm4zbWZxQ0x2ckVGbjdpWTFJMHFFYzh4THhMYzBrRXU?oc=5>
 
 ### 2026-08-18 23:44  (2 条)
 
