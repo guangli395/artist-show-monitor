@@ -1,80 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-19 03:23**
-- 本轮扫到 10035 条, 新增 **8** 条
+- 最近更新: **2026-08-19 04:05**
+- 本轮扫到 10040 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (5 条)
 
-### 英首相被骗！特朗普发声
+### 美韩联合军演日程减半 特朗普被曝想今秋会金正恩
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-08-19 03:38
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1jZEFWTzlzT2FSeGNob0dpLXZ4Ni11a25POC1VWHZSNV8yVmxheEl1aUN3R1J3bm9fRDQ2NHNIdnlyOTZuU3dacDlacktQNG1vVHZsZmU5RzUwNDlpVFhtYWVCNXdnQ2sxV1J3MjZCYkFkMndJLVhDbXlyTmtVNHc?oc=5>
+
+### 特朗普和平计划陷信任危机：访以次日，以色列空袭加沙
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-08-19 02:32
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBkR1I3dlN0bE1SNzdXUjdGV3FyelRaV3hkMU0yRHVfXzFFX1I5TE1VUVllQWlVeHVBanZPeXVTc1AwaTM0REJOdUlwUXl4X01iUXlXdHdQSHB5cUhBM2xjM0JoTTNEUmJUX3c?oc=5>
+
+### 特朗普宣布推迟对加拿大加征50%关税
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: finance.sina.com.cn
-- 时间: 2026-08-19 02:11
-- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxOckpKRUp3bGt5WTlrbk8xbTdUQmxOV3BFU3ZyQUh2a1oxZEkxQTdydDRvYzA1YmFrdXZESGxXdlJ6U1BpZ3RNS2twNmE2bDlTYW5VMUEwOVN1MkZGWUIzYXFOVE5VbHlGQkhCdHEwSk1EODRyYjl0QTJmTTRXR0NzME9YM21aek4zOHNR?oc=5>
+- 时间: 2026-08-19 03:55
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1qc0NGOTdmd2pfZzFBaWNWdllFZ1ZpcXBkcU5mQmdPVE9Fdl9lX1o5WDVINmZMYUFMM25pN3FwaGFCUXJRbU1VSjV3WTd4WnZRNnVScENNRlVVcXhEejdWbFRCU2Y2OVhycUJIbVpDZGdodG5aMHBFRg?oc=5>
 
-### 骗子假冒白宫幕僚长，还成功骗过了英首相，特朗普回应
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-17 23:26
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9JOUp4QVdtelA5UVlkWTh2UDRfVEYyT2xBNXJkQjB5bmt5dEI0MS1lLXZfSklyU2toSXUzaXJnUEhsNkR2ZFlnN2tlVVo?oc=5>
-
-### 特朗普宣布推迟三天对加拿大加征50%关税
+### 【环球财经】特朗普宣布推迟对加拿大加征50%关税
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-08-19 02:30
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE11SjBBU05Wa3VhWEpyZmpsNFFWc3ZmUl9DcFB3Q0F3eHNOYi1YdF8xZWp0R1pkQkNCM2NfSklEUWg1NDVOWTdkVERsNC1NZEZ0cHJ2ZEpjODlKRnZxUncxOXJZckg?oc=5>
+- 场馆: finance.sina.com.cn
+- 时间: 2026-08-19 03:38
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFA3ZzUtQXY4WEdKdEd5X0tLd24yWU5aZVN2V3ItVTMtRUhUUjg3cDFmVHR6RzF2TGZIRHpuNkZjM1hObXNGbUVFMXA0WXJpWHVFNDY2Wi1lVW9vMXM5UWVHYUlQQ014NlNScWtLbldIeXlXWjFJLWNGRA?oc=5>
 
-### 美股三连跌，存储巨头重挫9%！特朗普要求谈判团队暂停与伊朗接触
+### 特朗普：金发璧人，为何离我而去？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 同花顺
-- 时间: 2026-08-19 01:06
-- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE5yeUZNYjc0VnRDQU1OTjN1VlQyOFh6bTN5aFZxS2I3S0NYUURsN3lTYVBabzRENWc4WWlmT2Q0NFdnRUtmRXdva2JGZFRkUUgyUUhMNVF4RGZqeVhjYlBKcGhR?oc=5>
-
-### 特朗普高强度赶工白宫宴会厅，力求“跑赢司法审查”
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-08-19 02:17
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE12dHBzTjM0V3R3S3RoUVBpYVlac2lnb3lUMUxhX0dkRi03eURVSTZUMVJGQ005MVhRUktwNWZBenhEN3psNTdEQXpWa1VXNXBqbGxia1BscmdVOUVXU1VBVHhJaXVGSDdWNHZiZ21fTEs4Zw?oc=5>
-
-### 特朗普对伊朗采取强硬立场，霍尔木兹海峡控制权悬而未决
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-08-19 02:15
-- 链接: <https://news.google.com/rss/articles/CBMiogFBVV95cUxPc1gyS1VfaGhIeXN6eFB5dzlsV1dMNXFHQ2hJSXNhTGF6aDBlQ3R0Sjh5WWlBWEZQa0FvMThubjluZmNTR0xudkR4cWtSWGx1N3Q5LUh3eExHbXZZSXpnOTNwWjUwZ0JqWWNFa0tVWHhiTEJ3SVJSWjNCQmJGemRlbV9na19IXzlveVpzLVlxazJ0eE9iVVN4endGcWZPRlFCMXc?oc=5>
-
-### 特朗普暂停对部分加拿大产品加征50%关税
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-08-19 02:59
-- 链接: <https://news.google.com/rss/articles/CBMijgFBVV95cUxQeXhYem9iRTZ2SWFtWEZ4Sy1DbXlBbmNrdDNKbF9DQ0xFeS1xcFhQN1NxLVMzbzAxcjRLVVA2cXdrYUNENjhQZWpIbUhyZGRNbUZjRHg4bFBYZGNHVVctZTNDVDdVT2RtV2hZalVaU2pMaVFWTkZyS0RTdUpuQVhhdlVVTzJCTDVzdC1kbnhR?oc=5>
-
-### 韩国政府持谨慎态度之际，Trump力推“朝美对话”…关注11月中国亚太经合组织会议- 阿视亚经济
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 아시아경제
-- 时间: 2026-08-19 02:06
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JLVF3QWJ1d09yT0Z0aHFKU1J1WUl5MHpDSE9NbVJFcVc3cWRHSWcwWUZZVkFqVUl6ZkxPSzd4czdSX04yMUFDT09UazlheWI4bXZVS0V0a2U1dWRpVTBFbEN1Z3E?oc=5>
+- 场馆: 中华网
+- 时间: 2026-08-19 02:25
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE8tQmxEQWl2cjJFOHYyYThld2FLTi03Y3Y3MS1jRjJCWF9uLWlRYmkydWRFLVdhRVlneU1ZZ2JXZmFacjZiVVRKdHBvdUpJOVdhWlZUS1I3Y2EyN0JzZUNTcFgzUmxsSk82QU10eGNpQlM?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-19 04:05  (5 条)
+
+- **特朗普** | 美韩联合军演日程减半 特朗普被曝想今秋会金正恩 <https://news.google.com/rss/articles/CBMif0FVX3lxTE1jZEFWTzlzT2FSeGNob0dpLXZ4Ni11a25POC1VWHZSNV8yVmxheEl1aUN3R1J3bm9fRDQ2NHNIdnlyOTZuU3dacDlacktQNG1vVHZsZmU5RzUwNDlpVFhtYWVCNXdnQ2sxV1J3MjZCYkFkMndJLVhDbXlyTmtVNHc?oc=5>
+- **特朗普** | 特朗普和平计划陷信任危机：访以次日，以色列空袭加沙 <https://news.google.com/rss/articles/CBMiakFVX3lxTFBkR1I3dlN0bE1SNzdXUjdGV3FyelRaV3hkMU0yRHVfXzFFX1I5TE1VUVllQWlVeHVBanZPeXVTc1AwaTM0REJOdUlwUXl4X01iUXlXdHdQSHB5cUhBM2xjM0JoTTNEUmJUX3c?oc=5>
+- **特朗普** | 特朗普宣布推迟对加拿大加征50%关税 <https://news.google.com/rss/articles/CBMieEFVX3lxTE1qc0NGOTdmd2pfZzFBaWNWdllFZ1ZpcXBkcU5mQmdPVE9Fdl9lX1o5WDVINmZMYUFMM25pN3FwaGFCUXJRbU1VSjV3WTd4WnZRNnVScENNRlVVcXhEejdWbFRCU2Y2OVhycUJIbVpDZGdodG5aMHBFRg?oc=5>
+- **特朗普** | 【环球财经】特朗普宣布推迟对加拿大加征50%关税 <https://news.google.com/rss/articles/CBMieEFVX3lxTFA3ZzUtQXY4WEdKdEd5X0tLd24yWU5aZVN2V3ItVTMtRUhUUjg3cDFmVHR6RzF2TGZIRHpuNkZjM1hObXNGbUVFMXA0WXJpWHVFNDY2Wi1lVW9vMXM5UWVHYUlQQ014NlNScWtLbldIeXlXWjFJLWNGRA?oc=5>
+- **特朗普** | 特朗普：金发璧人，为何离我而去？ <https://news.google.com/rss/articles/CBMicEFVX3lxTE8tQmxEQWl2cjJFOHYyYThld2FLTi03Y3Y3MS1jRjJCWF9uLWlRYmkydWRFLVdhRVlneU1ZZ2JXZmFacjZiVVRKdHBvdUpJOVdhWlZUS1I3Y2EyN0JzZUNTcFgzUmxsSk82QU10eGNpQlM?oc=5>
 
 ### 2026-08-19 03:23  (8 条)
 
