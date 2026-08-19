@@ -1,38 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-19 22:17**
-- 本轮扫到 10116 条, 新增 **3** 条
+- 最近更新: **2026-08-19 22:48**
+- 本轮扫到 10119 条, 新增 **3** 条
 
 ---
 
 ## 本轮新发现 (3 条)
-
-### 蔡徐坤为什么在演唱会上致敬old school？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923107_1d5ae15a306803vilo.html>
 
 ### 特朗普抱怨美联储利率政策，称美国应支付低得多的利率
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-08-19 22:12
-- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWFhLSHJ5cVc2c2NGTmpJbXhrZDdxamtzY3FVRG5PRWQzNWJFYVN4aUVWRV9aSWExanhvdGNJVU93ZUR0WHpyTVNBeXROeWI3R0dnVnBIZ0RqXy1ZdWc5Z1NFbUdQNHUtNXVlVlBwYW51QjE0LTEwNXNfQkVESDk5eEV1WjlZd3psQ0UzYmRuODdqbnN2cFN4NTVvZTdtRDZYQXNXSmZiaHpTZw?oc=5>
+- 时间: 2026-08-19 22:41
+- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT0dmTU5NOE04M3pFUldwSWZmVFNNOV9vSEphcE5PNndtZmRYbG9GaHlHeE1FblViOWNEbWJYZWxScWhZZWJBMUZQX0VoZlJfaVdseFNXY3RJX3pSQ2V3MUxPaXJmalNtMk9LWHRWV0Q4ZXo0NGFGQlZyUUNiT2dnS0htc2JMS3FBS3lwMldveUt6VmZ2RmdVQ2w3VUo4OGZGU1c0REZaMnJadw?oc=5>
 
-### 美国参议院两党议员敦促特朗普总统撤回削减美韩联合军事演习规模的决定
+### 特朗普政府开展历史上规模最大的驱逐行动，数千人员被驱逐至第三国
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-08-19 20:34
-- 链接: <https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcTN6TU83Y2hqR2J1TVJrYjNENG4zWk1NWmFxR2F1azl3THQzNjF1Sk83SGxiSkxENS1kR2xzZVFxQTNPRi1BVVlQQktSTnp4cUg1T1lDX0I2QnhqU0VZQ0VnQ2hsa1dDVl9EZUVibTZpX1VoamRnRUhBc1VtRnRnVmROZk03d2tUVzViSnBjRnNYbTlRVDdRWTV1dFVXbVg0cVZja2szTGVuT1lJQ3JhdEFFN3ZET1VvVWlSbkFYMENLUdIBxAFBVV95cUxNdHJCR0xtNDhFNHBGLTBkMDJMRWZ3UDE5RTlobWFwanlpeGZ6dDFNdkVkcy1OWDdDbVhmZTBMcER1RHBaT2ZwZzFJakpBelpoWWFSNFdFdDc2SWIxNmRmX3JoTk5fQXdQRERoRHJXRWVUM2VBTU9ydTQ3U0EtNFlqX1lkSHRlajZVdThMZlVER1VFd0k0dVdxbXoycHRydlVfbTIyTDN1X05lX0VrOENnTG9yR3hyU1NJWkZibUNBLVZteEFO?oc=5>
+- 场馆: 搜狐网
+- 时间: 2026-08-19 20:05
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxPeWRrbmNSZV91TVVXeGtjTGQxaUxSMzdGQlNsbWx4UkZpUW5kRWtaLU9aaXlHZTJtdUh4c2JVTkxkUTktNWhnSmVvRjZBWWN0SURIT0haZ0JoRkxVVE9ZbFlvNDdNYWpqc2JHZGVyVDVTR0tYTmUxMVdYSVFFRWt1Qll2WERSelF0ZUdoYg?oc=5>
+
+### 特朗普政府推动恢复重罪犯的持枪权利
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-08-19 00:06
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9HNFR6WFFtMWdOajA0N3lCaFdCbkFYWEF0RGZmaDFWYUZGb3dVei04eXJnTWpXUG44ZFRhOTBDVDBuX2VKVDJReGNaU3NzSnAxenBBY05RZFNCR1Z6aU55cEdkRXA3d3M2cEE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-19 22:48  (3 条)
+
+- **特朗普** | 特朗普抱怨美联储利率政策，称美国应支付低得多的利率 <https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT0dmTU5NOE04M3pFUldwSWZmVFNNOV9vSEphcE5PNndtZmRYbG9GaHlHeE1FblViOWNEbWJYZWxScWhZZWJBMUZQX0VoZlJfaVdseFNXY3RJX3pSQ2V3MUxPaXJmalNtMk9LWHRWV0Q4ZXo0NGFGQlZyUUNiT2dnS0htc2JMS3FBS3lwMldveUt6VmZ2RmdVQ2w3VUo4OGZGU1c0REZaMnJadw?oc=5>
+- **特朗普** | 特朗普政府开展历史上规模最大的驱逐行动，数千人员被驱逐至第三国 <https://news.google.com/rss/articles/CBMijAFBVV95cUxPeWRrbmNSZV91TVVXeGtjTGQxaUxSMzdGQlNsbWx4UkZpUW5kRWtaLU9aaXlHZTJtdUh4c2JVTkxkUTktNWhnSmVvRjZBWWN0SURIT0haZ0JoRkxVVE9ZbFlvNDdNYWpqc2JHZGVyVDVTR0tYTmUxMVdYSVFFRWt1Qll2WERSelF0ZUdoYg?oc=5>
+- **特朗普** | 特朗普政府推动恢复重罪犯的持枪权利 <https://news.google.com/rss/articles/CBMiakFVX3lxTE9HNFR6WFFtMWdOajA0N3lCaFdCbkFYWEF0RGZmaDFWYUZGb3dVei04eXJnTWpXUG44ZFRhOTBDVDBuX2VKVDJReGNaU3NzSnAxenBBY05RZFNCR1Z6aU55cEdkRXA3d3M2cEE?oc=5>
 
 ### 2026-08-19 22:17  (3 条)
 
