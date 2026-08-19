@@ -1,32 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-19 09:04**
-- 本轮扫到 10059 条, 新增 **2** 条
+- 最近更新: **2026-08-19 09:56**
+- 本轮扫到 10063 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (4 条)
 
-### 延后三天，特朗普为何紧急叫停对加拿大加征50%关税
+### 特朗普宣布推迟对加拿大加征50%关税
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-08-19 03:23
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1tUy0zb0NIXzdVcGtoaHRtVTBLbTJaa19rN0ttVWstVmV0ZFlsQzktUEt1LW1TT1VyUnM4WmRMZUZnem01ZmpPZUUyQURZUFM0ZTFMam81X3VwLVJRblNOU21talRUM2haUVhKTjctbDl4bHJZbG8wdnk1QUphSWs?oc=5>
+
+### 特朗普将原定对加拿大实施的50%关税暂停三天，宣布与渥太华达成“协议”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-08-19 07:08
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNR1dIVU9zQ0Z4VjVDTHFrdFpYNXZGNGF2M0dVYW1tam1uQ1JlS0FYcUx2NzB1N0NYVmE4aHU2R1ZpUlpHeGhzazYwTnFFNzMxb3h1MUFFNi1VWlF0dW1ubUJaaWg0ZkRrbFBaemMyaWloSHF6eW5pSjE4UHZGLUEwaktlQldNazl1dmNFTi1GcjlLcW1NemRoSXNtUlpWNENlTDEyX3NVcTczVG42WGVzMVM0T21vSnpnTG9OekJpdFZyM3ZoTmVlbXhaeDhBOF9k?oc=5>
+- 时间: 2026-08-19 09:00
+- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxOaVVzY0Q0LWJ3TE41U21MaDNQSmZCRTZKXzZiLVlCdEFhYkg3X2pYOHhFbHRWNGh0RWk2Zk56U3lvdl84NGJPRjgxQXhvenhiTUY0dS1uNjZVdF96dVJtQkFITzZ4VnE2eHlMdjdIOGMyYU8wUjljYlB4U2hoYV93eXMxREU0Nms4Um01ZHBlX1k4NjhWRHo4S2hzWmpCN1dQS2lvbW5yVzhwUnZ5UjljRTFwLXJHSUY0ZVAzWHpGTlpTNDFjMVpEeHkzVWc1VWdNMXFTdklJOXJMVjFDdFE?oc=5>
 
-### 特朗普的“相扑手”，会走上白宫讲台吗？
+### 特朗普这位年轻女助理被推到风口浪尖，“她的手机号码比总统的还珍贵”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-08-19 05:11
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxPQk5mUHRCZnVnZDh2UDQ1UXJiOGhNZ1NBUU5vY0k3UFhkQVo3bHoxYm50ZFRaM3NhSmR5NWZqSXFLZnowQ1lQV2QxZUNJN19GSkM4UlRYM3c1dXQ0Tld3MGJRbGNobGdHZjlsMTZ6X2M2cTRhZ3JKazBIMW1YT2FYdUdqZFJlM0JkdnJ4Rg?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-08-19 06:31
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5hMU5Yc2ZnbUs4S25yREtWV2FYTk41eDBodUtpbl9hRWcyczh4VDZiOUQ4UDdET1dsakhlRUtvdHZaZ3gtNDl4WENyZEI?oc=5>
+
+### 特朗普支持率跌至33% 与上届任期最低水平持平
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-08-18 03:38
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5FbzE5OEdORmk5c0pWd1FtbElCcWhBYl9fWndOVlk1b05mZEYtS3Q5UlAxaUctMjk1ci0xVzFtWEdtQU43b19zZnMtbFE4THFhRUlaLUd1ak9NZVF3cERMLTJJLUVQUQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-19 09:56  (4 条)
+
+- **特朗普** | 特朗普宣布推迟对加拿大加征50%关税 <https://news.google.com/rss/articles/CBMif0FVX3lxTE1tUy0zb0NIXzdVcGtoaHRtVTBLbTJaa19rN0ttVWstVmV0ZFlsQzktUEt1LW1TT1VyUnM4WmRMZUZnem01ZmpPZUUyQURZUFM0ZTFMam81X3VwLVJRblNOU21talRUM2haUVhKTjctbDl4bHJZbG8wdnk1QUphSWs?oc=5>
+- **特朗普** | 特朗普将原定对加拿大实施的50%关税暂停三天，宣布与渥太华达成“协议” <https://news.google.com/rss/articles/CBMi3gFBVV95cUxOaVVzY0Q0LWJ3TE41U21MaDNQSmZCRTZKXzZiLVlCdEFhYkg3X2pYOHhFbHRWNGh0RWk2Zk56U3lvdl84NGJPRjgxQXhvenhiTUY0dS1uNjZVdF96dVJtQkFITzZ4VnE2eHlMdjdIOGMyYU8wUjljYlB4U2hoYV93eXMxREU0Nms4Um01ZHBlX1k4NjhWRHo4S2hzWmpCN1dQS2lvbW5yVzhwUnZ5UjljRTFwLXJHSUY0ZVAzWHpGTlpTNDFjMVpEeHkzVWc1VWdNMXFTdklJOXJMVjFDdFE?oc=5>
+- **特朗普** | 特朗普这位年轻女助理被推到风口浪尖，“她的手机号码比总统的还珍贵” <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5hMU5Yc2ZnbUs4S25yREtWV2FYTk41eDBodUtpbl9hRWcyczh4VDZiOUQ4UDdET1dsakhlRUtvdHZaZ3gtNDl4WENyZEI?oc=5>
+- **特朗普** | 特朗普支持率跌至33% 与上届任期最低水平持平 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5FbzE5OEdORmk5c0pWd1FtbElCcWhBYl9fWndOVlk1b05mZEYtS3Q5UlAxaUctMjk1ci0xVzFtWEdtQU43b19zZnMtbFE4THFhRUlaLUd1ak9NZVF3cERMLTJJLUVQUQ?oc=5>
 
 ### 2026-08-19 09:04  (2 条)
 
