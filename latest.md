@@ -1,48 +1,51 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-19 09:56**
-- 本轮扫到 10063 条, 新增 **4** 条
+- 最近更新: **2026-08-19 10:25**
+- 本轮扫到 10067 条, 新增 **4** 条
 
 ---
 
 ## 本轮新发现 (4 条)
 
-### 特朗普宣布推迟对加拿大加征50%关税
+### 蔡徐坤的old school和新歌有什么关系？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801jm36.html>
+
+### old school在蔡徐坤演唱会上是如何呈现的？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801jm34.html>
+
+### 特朗普延长对加拿大加关税期限 重提美加输油管项目
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-08-19 03:23
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1tUy0zb0NIXzdVcGtoaHRtVTBLbTJaa19rN0ttVWstVmV0ZFlsQzktUEt1LW1TT1VyUnM4WmRMZUZnem01ZmpPZUUyQURZUFM0ZTFMam81X3VwLVJRblNOU21talRUM2haUVhKTjctbDl4bHJZbG8wdnk1QUphSWs?oc=5>
+- 场馆: RFI
+- 时间: 2026-08-19 09:55
+- 链接: <https://news.google.com/rss/articles/CBMi9AJBVV95cUxNNkJDQU9rTXJ2M2g1akdRYmpvY0l2bWpDTzYzQy1yQ3dLdDF4QW5zNkNZall6Wm5SaXVsNFNrR1hTRUpVZXZ6TGRmU1lFWThyVjBicGlmd1R2NjNnTnpKTEN1QVotR3NfRDNpYXVXY0xEdDQwMzBZcmlEdnJFdlJHT0JYNUY4ZVZrSkZHSjZmMlFyVTBTaG9YVmlmRm9oVkNnaktabVRWRkkyMzFnaWw3ajlJQlVnYlMxRWFLSVpVNjVvcnlZUURCZ2ZRQ25GUU85SXdINjd4NE1hZGp2TGhJZE4waXVRczRqQTRTek9IUXdLNkMtbTY4Q2RVclhYaWI1dkQ4QnphaW5Zc0xTQzZiZE1pNTAxbkMxUFNUTmcyb2xwLVBxU29Yb2ZHUTM1REtwdk1sOEhoMWNmSzFQQVpWd25NdF9kdDFrckNwakc2RG81aUpzWklUOTVGVkFHTzcxXzVVU0pJQXVFbDZfd2xWV3Fua3I?oc=5>
 
-### 特朗普将原定对加拿大实施的50%关税暂停三天，宣布与渥太华达成“协议”
+### 延后三天，特朗普为何紧急叫停对加拿大加征50%关税
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-08-19 09:00
-- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxOaVVzY0Q0LWJ3TE41U21MaDNQSmZCRTZKXzZiLVlCdEFhYkg3X2pYOHhFbHRWNGh0RWk2Zk56U3lvdl84NGJPRjgxQXhvenhiTUY0dS1uNjZVdF96dVJtQkFITzZ4VnE2eHlMdjdIOGMyYU8wUjljYlB4U2hoYV93eXMxREU0Nms4Um01ZHBlX1k4NjhWRHo4S2hzWmpCN1dQS2lvbW5yVzhwUnZ5UjljRTFwLXJHSUY0ZVAzWHpGTlpTNDFjMVpEeHkzVWc1VWdNMXFTdklJOXJMVjFDdFE?oc=5>
-
-### 特朗普这位年轻女助理被推到风口浪尖，“她的手机号码比总统的还珍贵”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-19 06:31
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5hMU5Yc2ZnbUs4S25yREtWV2FYTk41eDBodUtpbl9hRWcyczh4VDZiOUQ4UDdET1dsakhlRUtvdHZaZ3gtNDl4WENyZEI?oc=5>
-
-### 特朗普支持率跌至33% 与上届任期最低水平持平
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-08-18 03:38
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5FbzE5OEdORmk5c0pWd1FtbElCcWhBYl9fWndOVlk1b05mZEYtS3Q5UlAxaUctMjk1ci0xVzFtWEdtQU43b19zZnMtbFE4THFhRUlaLUd1ak9NZVF3cERMLTJJLUVQUQ?oc=5>
+- 时间: 2026-08-19 09:45
+- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZGdpa0NSOXZCR2hwOTFqZTBBZzZtbmRxTlFQLS10YVk5TXM4T3VQYTJVckVvX1JUU3lzMTBaU1ZJa0V4M3A1S01mYUtrLW5sWnBwRUpxZHdYOUtDOURISXBiYlF4UzBPU2o0Q0N4cHVnR3RjY3hBSENGZ2laX3BvSUhvQ3ROV0x3VlZJ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-19 10:25  (4 条)
+
+- **蔡徐坤** | 蔡徐坤的old school和新歌有什么关系？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801jm36.html>
+- **蔡徐坤** | old school在蔡徐坤演唱会上是如何呈现的？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801jm34.html>
+- **特朗普** | 特朗普延长对加拿大加关税期限 重提美加输油管项目 <https://news.google.com/rss/articles/CBMi9AJBVV95cUxNNkJDQU9rTXJ2M2g1akdRYmpvY0l2bWpDTzYzQy1yQ3dLdDF4QW5zNkNZall6Wm5SaXVsNFNrR1hTRUpVZXZ6TGRmU1lFWThyVjBicGlmd1R2NjNnTnpKTEN1QVotR3NfRDNpYXVXY0xEdDQwMzBZcmlEdnJFdlJHT0JYNUY4ZVZrSkZHSjZmMlFyVTBTaG9YVmlmRm9oVkNnaktabVRWRkkyMzFnaWw3ajlJQlVnYlMxRWFLSVpVNjVvcnlZUURCZ2ZRQ25GUU85SXdINjd4NE1hZGp2TGhJZE4waXVRczRqQTRTek9IUXdLNkMtbTY4Q2RVclhYaWI1dkQ4QnphaW5Zc0xTQzZiZE1pNTAxbkMxUFNUTmcyb2xwLVBxU29Yb2ZHUTM1REtwdk1sOEhoMWNmSzFQQVpWd25NdF9kdDFrckNwakc2RG81aUpzWklUOTVGVkFHTzcxXzVVU0pJQXVFbDZfd2xWV3Fua3I?oc=5>
+- **特朗普** | 延后三天，特朗普为何紧急叫停对加拿大加征50%关税 <https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZGdpa0NSOXZCR2hwOTFqZTBBZzZtbmRxTlFQLS10YVk5TXM4T3VQYTJVckVvX1JUU3lzMTBaU1ZJa0V4M3A1S01mYUtrLW5sWnBwRUpxZHdYOUtDOURISXBiYlF4UzBPU2o0Q0N4cHVnR3RjY3hBSENGZ2laX3BvSUhvQ3ROV0x3VlZJ?oc=5>
 
 ### 2026-08-19 09:56  (4 条)
 
