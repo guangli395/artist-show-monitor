@@ -1,32 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-19 20:52**
-- 本轮扫到 10107 条, 新增 **2** 条
+- 最近更新: **2026-08-19 21:19**
+- 本轮扫到 10109 条, 新增 **2** 条
 
 ---
 
 ## 本轮新发现 (2 条)
 
-### 紧跟特朗普躲“暗杀”，钻后备箱随行：白宫女助理搅动美国舆论
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-08-19 17:42
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBzSWN1UDhNdUNvQkpRakJvd1lreEdwOW9feXEwWXdBcmd3VndleDZVb1dvMlppd0RUb3FDcU13ajI4WFBQd0c4Vm9LTmlxM2tINGQyMnQzTXNSMDBpTzdaNkZUYUJtTFR4R0pFMGV6QVY?oc=5>
-
-### 特朗普要霍尔木兹，台湾下一个？
+### 靠中国AI吸金？特朗普家族加密项目曝光
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: wenxuecity.com
-- 时间: 2026-08-18 21:01
-- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTFBUcmhfemJpODA2WnJHcThtZE9wQjVteW01RkxyRTBPbDhzU1hoQ3NqOThfUV9GLTQyUWNPVWh1WEhGVjJWeFRvMXZKdE4xOU1GRWUtU3JmSG5iNVNhbEVrZjhYNA?oc=5>
+- 时间: 2026-08-18 16:43
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPb2U1OVYyUF8xelo1MHFIb0JabkRyRDdLcGt4czRGUzJSb21sbFFfZUhDczhEUmNJNkptVVFwa2RydEtXLTZFa2VnenFMalpSSk5Hck1aLTdOVl9LbG1aRUlRbWdpTFgx?oc=5>
+
+### 美加贸易协议接近敲定 特朗普称或下调部分关税
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-08-19 21:14
+- 链接: <https://news.google.com/rss/articles/CBMi3AJBVV95cUxPVjJDMVl1RXgtMDVKYThhTkNkWmVnUXhicnE4OURKZHpWdENwOVQ0R2cxZEFvXy1NUlZ5WjFZQ2ZueF9mckEyR0FXQnozTkQtTEx5QnJEMkJtYjdQcU5MR0liWHUzLU1rLU1nWlVSczhqRV9CbmI5U1BYbnBKcGhfTnNuOWZOQ0JYeV8wWk51ZEdmd25Cdk01TGNVbF9scWVxMmoyYzA4bjJna3FQcHp5QmN1MDJpelY4dF9CdkswajNzOUtEalJfdEZMRVZSdWRYR3NuRzVOQlJnWFVTdEVWRTNQTzVpV3ZHM19rcEFOM3ZpY3JIVm4tRVpHc3lQUGlFVzd1MV9rM2JibkJUd2ZyS0RRbENfTW43MlZtUV8wMWtOSUg4c1dQR29BX0c5NnB4emR6aXpSUGJUQjdaYVV3dzhkRnBFMjlqTDgwQTN3bkNPOUlSOHZmTHBtMW8?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-19 21:19  (2 条)
+
+- **特朗普** | 靠中国AI吸金？特朗普家族加密项目曝光 <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPb2U1OVYyUF8xelo1MHFIb0JabkRyRDdLcGt4czRGUzJSb21sbFFfZUhDczhEUmNJNkptVVFwa2RydEtXLTZFa2VnenFMalpSSk5Hck1aLTdOVl9LbG1aRUlRbWdpTFgx?oc=5>
+- **Trump** | 美加贸易协议接近敲定 特朗普称或下调部分关税 <https://news.google.com/rss/articles/CBMi3AJBVV95cUxPVjJDMVl1RXgtMDVKYThhTkNkWmVnUXhicnE4OURKZHpWdENwOVQ0R2cxZEFvXy1NUlZ5WjFZQ2ZueF9mckEyR0FXQnozTkQtTEx5QnJEMkJtYjdQcU5MR0liWHUzLU1rLU1nWlVSczhqRV9CbmI5U1BYbnBKcGhfTnNuOWZOQ0JYeV8wWk51ZEdmd25Cdk01TGNVbF9scWVxMmoyYzA4bjJna3FQcHp5QmN1MDJpelY4dF9CdkswajNzOUtEalJfdEZMRVZSdWRYR3NuRzVOQlJnWFVTdEVWRTNQTzVpV3ZHM19rcEFOM3ZpY3JIVm4tRVpHc3lQUGlFVzd1MV9rM2JibkJUd2ZyS0RRbENfTW43MlZtUV8wMWtOSUg4c1dQR29BX0c5NnB4emR6aXpSUGJUQjdaYVV3dzhkRnBFMjlqTDgwQTN3bkNPOUlSOHZmTHBtMW8?oc=5>
 
 ### 2026-08-19 20:52  (2 条)
 
