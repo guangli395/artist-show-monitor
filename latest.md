@@ -1,32 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-19 11:19**
-- 本轮扫到 10071 条, 新增 **2** 条
+- 最近更新: **2026-08-19 11:48**
+- 本轮扫到 10072 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (1 条)
 
-### 特朗普“相扑手”会走上白宫讲台吗 继任人选引猜测
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华军事
-- 时间: 2026-08-19 06:43
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9KUkllZmFzNG9VdzloaUNTVTZIekt2Q3ExeUdiNmNyTHYza0JiVm1fMldidlN3OFZvUzV0SnAyUmx4V1dacGlzSjJHWVQtOThsMzBSWEhuSTRDTnVzVFhvRmI5SVp1R3lUYlBJcGdMUmo?oc=5>
-
-### 民调显示特朗普千禧一代支持率下滑，前盟友：已不记得上次有人戴MAGA帽是何时
+### 特朗普要求记者闭嘴
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-08-19 10:05
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9OSkpmMTZ4czVZOXRRZHIwc3R0Rm9FcnJkM2FvUGhlZXJMdzg3RGRveE04dE9UUF9VWUlZYy1Wblkza2JUUHJiS3p2aV9qTEZ5UkRvLTlpMVFILWRyNFJKdnN1dU9YTy03QVZyckQ0M0Y?oc=5>
+- 场馆: 手机新浪网
+- 时间: 2026-08-19 11:20
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1fUUZZQS1BSTFnM09qa3VWUktqVEpDRDU3Tk5jdS1iTjhxdmQ0Rzd3cklwalhldDlqbE1nNjUzTWw3YzlYRUhpYmlmS2JRYmY1TWl5Umx6RlhVczZOdFJES3NNRWVRWXA2SmJvWDdYcndjOXc?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-19 11:48  (1 条)
+
+- **特朗普** | 特朗普要求记者闭嘴 <https://news.google.com/rss/articles/CBMic0FVX3lxTE1fUUZZQS1BSTFnM09qa3VWUktqVEpDRDU3Tk5jdS1iTjhxdmQ0Rzd3cklwalhldDlqbE1nNjUzTWw3YzlYRUhpYmlmS2JRYmY1TWl5Umx6RlhVczZOdFJES3NNRWVRWXA2SmJvWDdYcndjOXc?oc=5>
 
 ### 2026-08-19 11:19  (2 条)
 
