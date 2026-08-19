@@ -1,56 +1,44 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-19 04:05**
-- 本轮扫到 10040 条, 新增 **5** 条
+- 最近更新: **2026-08-19 05:00**
+- 本轮扫到 10043 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (3 条)
 
-### 美韩联合军演日程减半 特朗普被曝想今秋会金正恩
+### 蔡徐坤演唱会现场说了什么？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-08-19 03:38
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1jZEFWTzlzT2FSeGNob0dpLXZ4Ni11a25POC1VWHZSNV8yVmxheEl1aUN3R1J3bm9fRDQ2NHNIdnlyOTZuU3dacDlacktQNG1vVHZsZmU5RzUwNDlpVFhtYWVCNXdnQ2sxV1J3MjZCYkFkMndJLVhDbXlyTmtVNHc?oc=5>
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923111_1d5ae15a706801dusc.html>
 
-### 特朗普和平计划陷信任危机：访以次日，以色列空袭加沙
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-08-19 02:32
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBkR1I3dlN0bE1SNzdXUjdGV3FyelRaV3hkMU0yRHVfXzFFX1I5TE1VUVllQWlVeHVBanZPeXVTc1AwaTM0REJOdUlwUXl4X01iUXlXdHdQSHB5cUhBM2xjM0JoTTNEUmJUX3c?oc=5>
-
-### 特朗普宣布推迟对加拿大加征50%关税
+### 8月19日外盘头条：特朗普称未与伊朗进行任何会谈 苹果调整欧盟应用商店收费 多国长期主权债收益率升至高位
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: finance.sina.com.cn
-- 时间: 2026-08-19 03:55
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1qc0NGOTdmd2pfZzFBaWNWdllFZ1ZpcXBkcU5mQmdPVE9Fdl9lX1o5WDVINmZMYUFMM25pN3FwaGFCUXJRbU1VSjV3WTd4WnZRNnVScENNRlVVcXhEejdWbFRCU2Y2OVhycUJIbVpDZGdodG5aMHBFRg?oc=5>
+- 时间: 2026-08-19 02:37
+- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaVdXQnc3ZGR1SzJDbUJkM2lMRWtOel9hejZab3ZmYk03T0M2WXppZWhDMEQteXRzWkxjMFNNOTFMS2g4X2VRS29kakNPZzZFcThNN3RBSFp2STI5QTQ4TWF2STJmc09Qd1g5Y09Ec05zMTJwVjlwQkxfUzNzdXFPYmRwRGd0MWp0TGpxOXo1NGk4MU05aEZwTXhFVG01d1VuZXppWkhHSVJ2dw?oc=5>
 
-### 【环球财经】特朗普宣布推迟对加拿大加征50%关税
+### Dollar Recovers Slightly as Trump Dampens Hopes For U.S.-Iran Peace -- Market Talk
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-08-19 03:38
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFA3ZzUtQXY4WEdKdEd5X0tLd24yWU5aZVN2V3ItVTMtRUhUUjg3cDFmVHR6RzF2TGZIRHpuNkZjM1hObXNGbUVFMXA0WXJpWHVFNDY2Wi1lVW9vMXM5UWVHYUlQQ014NlNScWtLbldIeXlXWjFJLWNGRA?oc=5>
-
-### 特朗普：金发璧人，为何离我而去？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-08-19 02:25
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE8tQmxEQWl2cjJFOHYyYThld2FLTi03Y3Y3MS1jRjJCWF9uLWlRYmkydWRFLVdhRVlneU1ZZ2JXZmFacjZiVVRKdHBvdUpJOVdhWlZUS1I3Y2EyN0JzZUNTcFgzUmxsSk82QU10eGNpQlM?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-08-18 18:39
+- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMk5aX2N3aUxaOV8yNEdueGdBcEpURXlLTmE5eDdNSWNIT1AxSEJYcmw5Y0k1cW1RRmNWR2JEM0xKS3locFYyUnhXbG94SVlsZVNLZFFUR3haM1dTb01ON21ySGVYbzRsNHFfcVk3RWhJVkJsVHlWZzN5TERRUWRiZHhhTmhyWi1BVWpDZHg5Ukw2TnZpT3llR0NMQWtmT0t6Q2YzQUN1ZnJEUQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-19 05:00  (3 条)
+
+- **蔡徐坤** | 蔡徐坤演唱会现场说了什么？ <https://k.sina.com.cn/article_7879923111_1d5ae15a706801dusc.html>
+- **特朗普** | 8月19日外盘头条：特朗普称未与伊朗进行任何会谈 苹果调整欧盟应用商店收费 多国长期主权债收益率升至高位 <https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaVdXQnc3ZGR1SzJDbUJkM2lMRWtOel9hejZab3ZmYk03T0M2WXppZWhDMEQteXRzWkxjMFNNOTFMS2g4X2VRS29kakNPZzZFcThNN3RBSFp2STI5QTQ4TWF2STJmc09Qd1g5Y09Ec05zMTJwVjlwQkxfUzNzdXFPYmRwRGd0MWp0TGpxOXo1NGk4MU05aEZwTXhFVG01d1VuZXppWkhHSVJ2dw?oc=5>
+- **Trump** | Dollar Recovers Slightly as Trump Dampens Hopes For U.S.-Iran Peace -- Market Talk <https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMk5aX2N3aUxaOV8yNEdueGdBcEpURXlLTmE5eDdNSWNIT1AxSEJYcmw5Y0k1cW1RRmNWR2JEM0xKS3locFYyUnhXbG94SVlsZVNLZFFUR3haM1dTb01ON21ySGVYbzRsNHFfcVk3RWhJVkJsVHlWZzN5TERRUWRiZHhhTmhyWi1BVWpDZHg5Ukw2TnZpT3llR0NMQWtmT0t6Q2YzQUN1ZnJEUQ?oc=5>
 
 ### 2026-08-19 04:05  (5 条)
 
