@@ -1,48 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-19 19:47**
-- 本轮扫到 10103 条, 新增 **4** 条
+- 最近更新: **2026-08-19 20:19**
+- 本轮扫到 10105 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (2 条)
 
-### 播客 | 特朗普“调包计”留下三条线索
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 上观新闻
-- 时间: 2026-08-19 19:02
-- 链接: <https://news.google.com/rss/articles/CBMiXEFVX3lxTE1nMlp4a0pGWExrZ1ZXcFZkMDNEZlE3dHlDOUJtTFFCcC1veHZJRkdVT21LclJXSUNXaXZHOUViWjNfMHdGZEJLU0VwMFZGaXhYeU00TlprcEoyNlJP?oc=5>
-
-### 特朗普女助理在更衣室过夜？几乎寸步不离特朗普，夜间也不例外
+### 民调：多数美国人认为特朗普重新掌权后不当获利
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 163.com
-- 时间: 2026-08-19 01:00
-- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE5pdGJLSVA3VVBHY3NIVFY5d2p3RTdNQnNFN1pFdk84d19zMlNwdkZfMlctYkItY3Q3ZTY1OUVpUDhoUC1tWld6dExINkRPYTNzT0I5OFItcGZBRy1qUmZmMUh3?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-08-19 19:22
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5mRWFRUHZlUGdCYTZyTGRsUV9Yd0JKeDlSZWtpNk1wbUpWU3lwZ2lTd2VoOUhCMUc4YmVrRTNBWUk1eTc5VE9MVzhWYzY?oc=5>
 
-### 特朗普称可能在“某个时候”恢复与伊朗的谈判
+### 特朗普再度敦促降息
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-08-19 15:48
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE4tb2I1U0h5dEVwMlBhejJSaENFcVZPelVnWkloVXN6dG1EU1ppSU9YaEYyUDZpNFlrelhXR0RyUDg1T0otZHh2QUR6d3puV0ZFSnRYenBYSlhRTTdMNGdOZA?oc=5>
-
-### 白宫加密峰会今日举行：特朗普会见SEC、CFTC，CLARITY法案仍卡住| New Day Dk007发布于币安广场
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Binance
-- 时间: 2026-08-19 17:07
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSR3FYc1NMOVEyWGZWeTVLakw4YVJkU1UzTi1DSEpSTnZ4SE95NThFeDNDQTBQRHQ0WURSM3JZdjJTVjlWUDJoLVExd2l6NVI0bno3NDNIZmV3RDE3empaNDFKTzRlb29a?oc=5>
+- 场馆: 金融界
+- 时间: 2026-08-19 19:53
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE9LMVprdFJsdjk1MXRaT1FNN2FXZllrZ2RSTXNIeW5hdUNHLUE2anlENUk1RC1ZcXc2a0dmZEhBWWZYQVZzOVRPYTh4NjdzUHJUTjhDUDVfTlIyTTJZZ2FPVnAwVy1DOWNPT0p6RS1LMA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-19 20:19  (2 条)
+
+- **特朗普** | 民调：多数美国人认为特朗普重新掌权后不当获利 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5mRWFRUHZlUGdCYTZyTGRsUV9Yd0JKeDlSZWtpNk1wbUpWU3lwZ2lTd2VoOUhCMUc4YmVrRTNBWUk1eTc5VE9MVzhWYzY?oc=5>
+- **特朗普** | 特朗普再度敦促降息 <https://news.google.com/rss/articles/CBMib0FVX3lxTE9LMVprdFJsdjk1MXRaT1FNN2FXZllrZ2RSTXNIeW5hdUNHLUE2anlENUk1RC1ZcXc2a0dmZEhBWWZYQVZzOVRPYTh4NjdzUHJUTjhDUDVfTlIyTTJZZ2FPVnAwVy1DOWNPT0p6RS1LMA?oc=5>
 
 ### 2026-08-19 19:47  (4 条)
 
