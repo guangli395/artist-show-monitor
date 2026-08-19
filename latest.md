@@ -1,44 +1,35 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-19 10:25**
-- 本轮扫到 10067 条, 新增 **4** 条
+- 最近更新: **2026-08-19 10:53**
+- 本轮扫到 10069 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (2 条)
 
-### 蔡徐坤的old school和新歌有什么关系？
+### 许嵩“安泊猜想”青岛演唱会8月19日开票 汪峰、周杰伦等也将来青岛献唱
 
-- 艺人/关键词: **蔡徐坤**
+- 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801jm36.html>
+- 链接: <https://k.sina.com.cn/article_5281491251_13acd2933020028gac.html>
 
-### old school在蔡徐坤演唱会上是如何呈现的？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801jm34.html>
-
-### 特朗普延长对加拿大加关税期限 重提美加输油管项目
+### 1亿美元买来的“复合”：特朗普与马斯克，全美最贵的政治联姻
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-08-19 09:55
-- 链接: <https://news.google.com/rss/articles/CBMi9AJBVV95cUxNNkJDQU9rTXJ2M2g1akdRYmpvY0l2bWpDTzYzQy1yQ3dLdDF4QW5zNkNZall6Wm5SaXVsNFNrR1hTRUpVZXZ6TGRmU1lFWThyVjBicGlmd1R2NjNnTnpKTEN1QVotR3NfRDNpYXVXY0xEdDQwMzBZcmlEdnJFdlJHT0JYNUY4ZVZrSkZHSjZmMlFyVTBTaG9YVmlmRm9oVkNnaktabVRWRkkyMzFnaWw3ajlJQlVnYlMxRWFLSVpVNjVvcnlZUURCZ2ZRQ25GUU85SXdINjd4NE1hZGp2TGhJZE4waXVRczRqQTRTek9IUXdLNkMtbTY4Q2RVclhYaWI1dkQ4QnphaW5Zc0xTQzZiZE1pNTAxbkMxUFNUTmcyb2xwLVBxU29Yb2ZHUTM1REtwdk1sOEhoMWNmSzFQQVpWd25NdF9kdDFrckNwakc2RG81aUpzWklUOTVGVkFHTzcxXzVVU0pJQXVFbDZfd2xWV3Fua3I?oc=5>
-
-### 延后三天，特朗普为何紧急叫停对加拿大加征50%关税
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-19 09:45
-- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZGdpa0NSOXZCR2hwOTFqZTBBZzZtbmRxTlFQLS10YVk5TXM4T3VQYTJVckVvX1JUU3lzMTBaU1ZJa0V4M3A1S01mYUtrLW5sWnBwRUpxZHdYOUtDOURISXBiYlF4UzBPU2o0Q0N4cHVnR3RjY3hBSENGZ2laX3BvSUhvQ3ROV0x3VlZJ?oc=5>
+- 场馆: 手机新浪网
+- 时间: 2026-08-19 10:39
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE83TVJsNjluQWxyZGQwZXZoS25pUnFQQnJkc1BIbUF4TUFBWk5zY1QwSGRudmlGVDRKVk5iY2FkTWVaZTVOeWhBV18yY1Q4c05zVWdWTC1xYXkzWGRtTWpTcXdnazV6RnA2eFdCQV9kc1JOUQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-19 10:53  (2 条)
+
+- **周杰伦** | 许嵩“安泊猜想”青岛演唱会8月19日开票 汪峰、周杰伦等也将来青岛献唱 <https://k.sina.com.cn/article_5281491251_13acd2933020028gac.html>
+- **特朗普** | 1亿美元买来的“复合”：特朗普与马斯克，全美最贵的政治联姻 <https://news.google.com/rss/articles/CBMickFVX3lxTE83TVJsNjluQWxyZGQwZXZoS25pUnFQQnJkc1BIbUF4TUFBWk5zY1QwSGRudmlGVDRKVk5iY2FkTWVaZTVOeWhBV18yY1Q4c05zVWdWTC1xYXkzWGRtTWpTcXdnazV6RnA2eFdCQV9kc1JOUQ?oc=5>
 
 ### 2026-08-19 10:25  (4 条)
 
