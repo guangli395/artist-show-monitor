@@ -1,46 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-19 16:23**
-- 本轮扫到 10091 条, 新增 **4** 条
+- 最近更新: **2026-08-19 16:54**
+- 本轮扫到 10092 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (1 条)
 
-### 蔡徐坤在演唱会上如何演绎old school风格？
+### Trump Announces Pause on 50% Tariffs Against Canada
 
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849295_1d5acf54f06801jzda.html>
-
-### 紧跟特朗普躲“暗杀”，钻后备箱随行：白宫女助理搅动美国舆论
-
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-19 14:34
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9MLTVlbzdneWpzWk9pZ2ppbVpPeDNRb1VyZUlmUzhqZ0xQT013Nm5NSEowRklwQzN0YUFfeThfd1ZjNHJ4MUpoR2hIRm1IREgwZFZRblk4cTFCcmxFbXowUHEzWGltQUZXRUF1YV9aY2E3M19pUjF1Xw?oc=5>
-
-### 美加关税谈判进入最后关头 特朗普政府淡化达成协议预期
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-18 19:47
-- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTVMyekdrUExSb2tPSXk4ZFEtenBmTEhudjZCWHdRd01UdFNFLXRDZTJ0aEFwNms4V0ZQRDdRNlpUODR5alVYcXFwWmR1RDNqdjFYSmt3YWZON1pqRlNYUjJRWnAycjlMbDhIakJZaDN5bkp3b3dva0lCRGhfUTRqTUl4YTRFLURKeENPdUdyVlRaX0ROQ2EyUFV2YkpsRFNXYWhSbEZrSms3Qm1QSm9vYk1ZNFpFTHBhQnFsUWw2TlhGQlJtX2NPLWVVa3p0T0xpN0E?oc=5>
-
-### 延后三天，特朗普为何紧急叫停对加拿大加征50%关税
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 第一财经
-- 时间: 2026-08-19 07:09
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5lQk1aUWo4alZ3bkZJMnBqRDFPRzBTTVdhbVZ0ZWZGZUVlZUI4cVhLMGMwYnI3bjZVWmdRTlRVWVRGUXRfT0hiTmJUMnA4aWZoa1hr?oc=5>
+- 场馆: CryptoRank
+- 时间: 2026-08-19 06:32
+- 链接: <https://news.google.com/rss/articles/CBMid0FVX3lxTFBHenlyZ1dpX1dYUEFQc2hPcUxwZFlpdWNfSWZuUTJEVzl5aXk4QjhiYndobEhlSndxNFgtUFd0OWdLbFVxaFBVdm9EdlFqZjl1S1RSZ0EyX0RrUzlJVVR3VHpXdlphNXV2U0FiRkJJTmFta0FSbEZV?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-19 16:54  (1 条)
+
+- **Trump** | Trump Announces Pause on 50% Tariffs Against Canada <https://news.google.com/rss/articles/CBMid0FVX3lxTFBHenlyZ1dpX1dYUEFQc2hPcUxwZFlpdWNfSWZuUTJEVzl5aXk4QjhiYndobEhlSndxNFgtUFd0OWdLbFVxaFBVdm9EdlFqZjl1S1RSZ0EyX0RrUzlJVVR3VHpXdlphNXV2U0FiRkJJTmFta0FSbEZV?oc=5>
 
 ### 2026-08-19 16:23  (4 条)
 
