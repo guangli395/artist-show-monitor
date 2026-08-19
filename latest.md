@@ -1,48 +1,44 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-19 21:48**
-- 本轮扫到 10113 条, 新增 **4** 条
+- 最近更新: **2026-08-19 22:17**
+- 本轮扫到 10116 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (3 条)
 
-### 美官员：特朗普要求谈判团队暂停与伊朗接触
+### 蔡徐坤为什么在演唱会上致敬old school？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923107_1d5ae15a306803vilo.html>
+
+### 特朗普抱怨美联储利率政策，称美国应支付低得多的利率
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-08-18 22:26
-- 链接: <https://news.google.com/rss/articles/CBMi3wRBVV95cUxPSTY5Y2FvT2FKWFNQbGFMay1ieGRxaVhvcEpkOXlWVnVxdjI0QkYxN1RQRG45ZkZHNXZoeE1aNElBY3dYcThsbDlfd1JfSEtoa1JCc1ByZ0Z4VEJmbk9SYm56ZWNnMGZXbWRYbUZ3U3BMZ20xOTNPaHlBcEJ5T1hCUThUazc4MV84V01tY3FuZlFQMzkxVGZSVllDUGxpNXRNMG9iMmRvcWgwZktQWFRreXJqRkp5ZU5qTjVXTjh0cFhzZDJ2UEtlVy03dTlPNVBpXzRSajBjQW5pbFppNGx1RTdOLU8wVGhDQjZZbU1NMWp0TnJUTnZISHFGNmlwOGRiOEx2MXB5NWtnY0RTbWU2S1E5UGxlMFloVzlTTjN3eUl5UWZpV2t5RXB4YnBVNlh3M3ZoaHo1bkFKbjkyUzZMeS15TkF6SVdDMUxqbkNlMjlxSHlTcGpUZVA3c21nTUlhTmNIQzhVNzlyZG9RWmxqRzdkSl9hck10cE9ReUxCcVkyLUsxbFh4a25iSXZ3aWF1Z3NpUzZZQWMwaWdMQTh2OHVWdE1kQ05uUU44c1ZHeHpLSTBZd1ctRDFkSm9lY0ZBOTVXR1ZvRzFzV0N1VHdkMThPOXR3NzBla2I1SHBUY3dUZ1VzOGhHU0FGaEZ5aUFTZTJDRG44UGVYZW9ITldEZ2JoNEVjOHFGbjgwQWdBN1dDUTV4OTVsMmZiQksxSjNRdHVlRXpFUVduQTVIRkd1ZjRzM2lDSzR5NmdSMWlucmtDdDY2RUxhWXJ5SlJ4US1wMXBVNHZoVGZpdzhJbl9B?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-19 22:12
+- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWFhLSHJ5cVc2c2NGTmpJbXhrZDdxamtzY3FVRG5PRWQzNWJFYVN4aUVWRV9aSWExanhvdGNJVU93ZUR0WHpyTVNBeXROeWI3R0dnVnBIZ0RqXy1ZdWc5Z1NFbUdQNHUtNXVlVlBwYW51QjE0LTEwNXNfQkVESDk5eEV1WjlZd3psQ0UzYmRuODdqbnN2cFN4NTVvZTdtRDZYQXNXSmZiaHpTZw?oc=5>
 
-### 美官员告诉VOA：特朗普总统倾向外交，但若伊朗拒绝协议并继续恐怖主义活动，他保留所有选项
+### 美国参议院两党议员敦促特朗普总统撤回削减美韩联合军事演习规模的决定
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 美国之音
-- 时间: 2026-08-19 21:33
-- 链接: <https://news.google.com/rss/articles/CBMi4gFBVV95cUxPU0RjYnptTGZOQVFIWFRlSlVQMllnOFZObmJ2bEttWnNBOXI2azQzUVJBY3dINGlBQWdTd0hUNm9OQWV1dHdVSmdRclJwNGRCQ3lYcExMdVV4RHFQM0VjRGhWLUdNZFNwMFBSMmhlOTJzNThTT2ZETlJwaDNaN2xsaVU4ekF0d0E1OWo2bzFBckkxT2l5Wk0zbk9OMFFHZnlSSndmSVhlS1V3bGZvUWN1SFdiQVlNelU4WjM3QzlWSmNQTTl2T2lZQnFkMElNU3lTd2ZlUE1VMmk0RXFzX2JaTXR30gHkAUFVX3lxTFA4MUh4d1Y1YnhGblJhZXAyUlNlMkpjbUR2bnJ2M0daaVpDZWRaRHI4MkhsdVQwMGhleG1hNmd5RHdHeUtPckY3OXRCNlJJSUpMOUhveHA3TG9pRkpVNHBlYWxRc20yc1VuVTRNRWI2emRkaHMtSHcyT3p3UUxNNWw5eFI3N3NZZTRFZVVhcldYbloxdF91YlBTRFplMWxGTUc1UEZrbW50aHRTejNtck5Gc2t1TVFuWENDODNYemlxWms0TEtVdmhLZEhIMEhvcldMRzF2UWpKc3NpMmQ0bTFzZUdwcQ?oc=5>
-
-### 特朗普：一年前的这个夏天，我签署了一项具有里程碑意义的立法，被称为《天才法案》，我以自己的名字命名
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: QQ News
-- 时间: 2026-08-19 20:42
-- 链接: <https://news.google.com/rss/articles/CBMiVkFVX3lxTE90NzAtcXM3dE96S1pnX3VGNThxdVZUM3JVNGV3R3VRV1pqaURTbFR2d0dVX0dCWG8waksyeGlFZEhTMUJEOS1xRnctcjBuZlFsV1g4UGZn?oc=5>
-
-### 特朗普在白宫加密货币活动中敦促国会推动《明确法案》
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: CoinDesk
-- 时间: 2026-08-19 19:48
-- 链接: <https://news.google.com/rss/articles/CBMivwFBVV95cUxOU2FwX0VSX1dGNXM3Y3NCRkY0TmlhaDJXYXB3WjVsOTk1ZFlvVmJQbE1mUWJGT2pJbmo3SHh4Q2p1U0hEUXk4aDhwUGxhbXMyMVdQZkE4NDlaa0FPQlFSWFp5aE5fUHFPZFUtQWJ4TWFCREt3UkQ1YVlQQkIyRTlmcXFKMWlmYzJobzdQLXFMN1hNQU9kb0FiVUdtMkRheVBLcmRZZUV2VXRNUjVjdlNhMFg5WmlHbVdxemtVWU9EQQ?oc=5>
+- 时间: 2026-08-19 20:34
+- 链接: <https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcTN6TU83Y2hqR2J1TVJrYjNENG4zWk1NWmFxR2F1azl3THQzNjF1Sk83SGxiSkxENS1kR2xzZVFxQTNPRi1BVVlQQktSTnp4cUg1T1lDX0I2QnhqU0VZQ0VnQ2hsa1dDVl9EZUVibTZpX1VoamRnRUhBc1VtRnRnVmROZk03d2tUVzViSnBjRnNYbTlRVDdRWTV1dFVXbVg0cVZja2szTGVuT1lJQ3JhdEFFN3ZET1VvVWlSbkFYMENLUdIBxAFBVV95cUxNdHJCR0xtNDhFNHBGLTBkMDJMRWZ3UDE5RTlobWFwanlpeGZ6dDFNdkVkcy1OWDdDbVhmZTBMcER1RHBaT2ZwZzFJakpBelpoWWFSNFdFdDc2SWIxNmRmX3JoTk5fQXdQRERoRHJXRWVUM2VBTU9ydTQ3U0EtNFlqX1lkSHRlajZVdThMZlVER1VFd0k0dVdxbXoycHRydlVfbTIyTDN1X05lX0VrOENnTG9yR3hyU1NJWkZibUNBLVZteEFO?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-19 22:17  (3 条)
+
+- **蔡徐坤** | 蔡徐坤为什么在演唱会上致敬old school？ <https://k.sina.com.cn/article_7879923107_1d5ae15a306803vilo.html>
+- **特朗普** | 特朗普抱怨美联储利率政策，称美国应支付低得多的利率 <https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWFhLSHJ5cVc2c2NGTmpJbXhrZDdxamtzY3FVRG5PRWQzNWJFYVN4aUVWRV9aSWExanhvdGNJVU93ZUR0WHpyTVNBeXROeWI3R0dnVnBIZ0RqXy1ZdWc5Z1NFbUdQNHUtNXVlVlBwYW51QjE0LTEwNXNfQkVESDk5eEV1WjlZd3psQ0UzYmRuODdqbnN2cFN4NTVvZTdtRDZYQXNXSmZiaHpTZw?oc=5>
+- **特朗普** | 美国参议院两党议员敦促特朗普总统撤回削减美韩联合军事演习规模的决定 <https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcTN6TU83Y2hqR2J1TVJrYjNENG4zWk1NWmFxR2F1azl3THQzNjF1Sk83SGxiSkxENS1kR2xzZVFxQTNPRi1BVVlQQktSTnp4cUg1T1lDX0I2QnhqU0VZQ0VnQ2hsa1dDVl9EZUVibTZpX1VoamRnRUhBc1VtRnRnVmROZk03d2tUVzViSnBjRnNYbTlRVDdRWTV1dFVXbVg0cVZja2szTGVuT1lJQ3JhdEFFN3ZET1VvVWlSbkFYMENLUdIBxAFBVV95cUxNdHJCR0xtNDhFNHBGLTBkMDJMRWZ3UDE5RTlobWFwanlpeGZ6dDFNdkVkcy1OWDdDbVhmZTBMcER1RHBaT2ZwZzFJakpBelpoWWFSNFdFdDc2SWIxNmRmX3JoTk5fQXdQRERoRHJXRWVUM2VBTU9ydTQ3U0EtNFlqX1lkSHRlajZVdThMZlVER1VFd0k0dVdxbXoycHRydlVfbTIyTDN1X05lX0VrOENnTG9yR3hyU1NJWkZibUNBLVZteEFO?oc=5>
 
 ### 2026-08-19 21:48  (4 条)
 
