@@ -1,30 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-19 10:53**
-- 本轮扫到 10069 条, 新增 **2** 条
+- 最近更新: **2026-08-19 11:19**
+- 本轮扫到 10071 条, 新增 **2** 条
 
 ---
 
 ## 本轮新发现 (2 条)
 
-### 许嵩“安泊猜想”青岛演唱会8月19日开票 汪峰、周杰伦等也将来青岛献唱
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5281491251_13acd2933020028gac.html>
-
-### 1亿美元买来的“复合”：特朗普与马斯克，全美最贵的政治联姻
+### 特朗普“相扑手”会走上白宫讲台吗 继任人选引猜测
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-08-19 10:39
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE83TVJsNjluQWxyZGQwZXZoS25pUnFQQnJkc1BIbUF4TUFBWk5zY1QwSGRudmlGVDRKVk5iY2FkTWVaZTVOeWhBV18yY1Q4c05zVWdWTC1xYXkzWGRtTWpTcXdnazV6RnA2eFdCQV9kc1JOUQ?oc=5>
+- 场馆: 中华军事
+- 时间: 2026-08-19 06:43
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9KUkllZmFzNG9VdzloaUNTVTZIekt2Q3ExeUdiNmNyTHYza0JiVm1fMldidlN3OFZvUzV0SnAyUmx4V1dacGlzSjJHWVQtOThsMzBSWEhuSTRDTnVzVFhvRmI5SVp1R3lUYlBJcGdMUmo?oc=5>
+
+### 民调显示特朗普千禧一代支持率下滑，前盟友：已不记得上次有人戴MAGA帽是何时
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-08-19 10:05
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9OSkpmMTZ4czVZOXRRZHIwc3R0Rm9FcnJkM2FvUGhlZXJMdzg3RGRveE04dE9UUF9VWUlZYy1Wblkza2JUUHJiS3p2aV9qTEZ5UkRvLTlpMVFILWRyNFJKdnN1dU9YTy03QVZyckQ0M0Y?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-19 11:19  (2 条)
+
+- **特朗普** | 特朗普“相扑手”会走上白宫讲台吗 继任人选引猜测 <https://news.google.com/rss/articles/CBMicEFVX3lxTE9KUkllZmFzNG9VdzloaUNTVTZIekt2Q3ExeUdiNmNyTHYza0JiVm1fMldidlN3OFZvUzV0SnAyUmx4V1dacGlzSjJHWVQtOThsMzBSWEhuSTRDTnVzVFhvRmI5SVp1R3lUYlBJcGdMUmo?oc=5>
+- **特朗普** | 民调显示特朗普千禧一代支持率下滑，前盟友：已不记得上次有人戴MAGA帽是何时 <https://news.google.com/rss/articles/CBMicEFVX3lxTE9OSkpmMTZ4czVZOXRRZHIwc3R0Rm9FcnJkM2FvUGhlZXJMdzg3RGRveE04dE9UUF9VWUlZYy1Wblkza2JUUHJiS3p2aV9qTEZ5UkRvLTlpMVFILWRyNFJKdnN1dU9YTy03QVZyckQ0M0Y?oc=5>
 
 ### 2026-08-19 10:53  (2 条)
 
