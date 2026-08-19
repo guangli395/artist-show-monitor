@@ -1,56 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-19 15:00**
-- 本轮扫到 10086 条, 新增 **5** 条
+- 最近更新: **2026-08-19 15:55**
+- 本轮扫到 10087 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (1 条)
 
-### 要闻解说 - 特朗普下令缩短美韩联合军演 为和金正恩会面？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-08-19 13:54
-- 链接: <https://news.google.com/rss/articles/CBMimgNBVV95cUxNdTlOaGdYcTR6UC1TNktVUDY1MDNBTVBXb1hqbkhTTnFHT19FZ2Jlcjg0ck81MHFNbV94MWVMZ1BLMVBMUW42eUhMYWwxYVpjcjQ0XzJzd0VhTEZPM0ZQUEMyVDN0UkdpQzJCRXhoNDd3M1hkMWdtcXFPcmZDRDRwTF9pM1JiM25USlIzaDJvbjc5UEdoNmpKcXY0RDkwX1lObjE5SGNkMldSekExYm83cTFqV1lja2M4UTFQZnB2NzBuMlQyRlZQbndfbFR0MmRBZ09aNUl5c2tsWG5BbjZrSnR5SmFtQlVDdHFjeDVJd0lNVnJpWERQakFsd0RGNFY0ZU1WeDA0NFVkaHhJY0RtZDhnaG1UR21IMHlwNF9YR0hPbkRGSFoxcVByNmJvZ0FJQ29nUmhpSlh5cUpQYUZGczFjR0F6X0NNNXNqaVp2YnNfTzZLUTFKMElCVTNCSG1oSTBLTkFlN1EyeDNFZ0tINUZSTDJZNkI3Q2J2MnhyT2kzSmZUZ0pqbFQweVMtcTZtOENLaDg5WW9GQQ?oc=5>
-
-### 延后三天，特朗普为何紧急叫停对加拿大加征50%关税
+### 尽管特朗普政府试图打压可再生能源，清洁能源依旧蓬勃发展
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-08-19 07:08
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE0teUczcUtGQmpQQlM2Z09MRHg1Ykh5SmJHeVJ1b3V5Zk82TE5hWlR4a2YyY2pDSUdBcmYwTUtqa1ltZGZqWFRKVFg4TnBUWU9UVlNxWGhYczI2UWtuZmNnWHVtb1FnX0pTUnBzZzNVSEI?oc=5>
-
-### 紧跟特朗普躲“暗杀”，钻后备箱随行：白宫女助理搅动美国舆论
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 环球网
-- 时间: 2026-08-18 23:34
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE9xM0VMX050ZFJSWVgyTGtPdGJzQ1RVaUowcnRhZnJCZXpuRk1RYlRMbUpPMWNEZzVoNXRhbldhUHhMUDc5WE04ak93am5HSjBhTXFFOU1JNzU?oc=5>
-
-### 特朗普的这张牌，拿破仑也打过
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华军事
-- 时间: 2026-08-19 08:10
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZRmRHd1dtWWF4Z0kxQU03MXpSREpmb2phY0pzT2NzZ3gwN3FNM0t3VXJIVVk1bk14ZEI2T0hJZ2xpNFdMUHdyRW9BbVExUGN2bzl5My1vNWQ0VzROUERrMHlzTjhydXhSY2RWVTBSZEg?oc=5>
-
-### 特朗普总统下令后，美韩缩减联合军演规模
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-08-19 14:31
-- 链接: <https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMzk5UE1iWTlBNS1FcFcxcTJ3cmJCQVA2S2tEalhLYmFWajhSdWV4bnpmem1UX2lCMVhyZHBHV1JvMHVmMUx3Z21qeEdwdHZ6UGFpR085NjhFMEVKLXVDUkFVSy1pbUtxM3lSdWNYdEczSDhkVzI1WkVaSFBwRWFnZk9vLUVWTUZuNTJpTWFBNDRjRDZDZmpRTEhBTGpPOTQ2dWNYSVhnYU5KT3lDV0NuVVp0OVB3dkJ3OGJjMU1sQlp4Vk9idmZyT9IBywFBVV95cUxQT0psY0VwVHF3TXNtczlnTTF0cWxUbmh2dG02YUdYYllkVHJEN21NUEYxT1laQmxGRUMyVEowUGFpSURyTDU3Rk9VRC13b1NQYk53WEVZM0hfOTVMaktjSVdpZ3Yxd1hlYldtbE5HeEVDa1kwR3I4TEdfaUc1UU5NYzdnTDM2UnhxNy05cm9UX1Vtc0VWbTRVWWs2aUdrOGtYc3FEVHZCRXJadFNWMG9yc2xGay04VVFZOVBCSHVZR0tMTlhheEl5eVlvWQ?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-19 15:47
+- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT0p1WmxodzBnUGZxcXo1a0dpajFiekg5U3ZtSFZPM3VaSXBpWWtRc2dEbXpGOElSWllEUWt3SXhOaHF1QXcxblpWdkpzLU45THZHMm1mdGp0d21hT0Zta18tOFUtaUhYeVhRcFFkMng1Z19TQkhiYzkzLWlGUlluYWJ6aHRnNVhxZGVPS2Rkb0IyLWFzVjJMLTVRbk5NNFd1Nnc1NmpidW9jUQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-19 15:55  (1 条)
+
+- **特朗普** | 尽管特朗普政府试图打压可再生能源，清洁能源依旧蓬勃发展 <https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT0p1WmxodzBnUGZxcXo1a0dpajFiekg5U3ZtSFZPM3VaSXBpWWtRc2dEbXpGOElSWllEUWt3SXhOaHF1QXcxblpWdkpzLU45THZHMm1mdGp0d21hT0Zta18tOFUtaUhYeVhRcFFkMng1Z19TQkhiYzkzLWlGUlluYWJ6aHRnNVhxZGVPS2Rkb0IyLWFzVjJMLTVRbk5NNFd1Nnc1NmpidW9jUQ?oc=5>
 
 ### 2026-08-19 15:00  (5 条)
 
