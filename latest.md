@@ -1,32 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-19 13:38**
-- 本轮扫到 10080 条, 新增 **2** 条
+- 最近更新: **2026-08-19 14:25**
+- 本轮扫到 10081 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (1 条)
 
-### 内部人士：若特朗普升级战事 伊朗拟打击欧洲境内军事目标
+### 特朗普将出席共和党全国委员会为肯·帕克斯顿举办的筹款活动。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-19 13:06
-- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxPdGI0b25DcHlFTlktd2hUSG5BLUYzQjJsSG5aNktuelVMb0EtOUd0b1JKazhUZjI4R0JKVjBYdDBTQnE4UmtyazUwb2Y3dnNFS3lBNXlZai03UFFhYzBObW1PSFJwUTBLX3MwQTYycE5VMTE2WEVYc1RURUhqMENOUEZYRnB4dGYwd2lXdUE0cEFjNFly?oc=5>
-
-### 特朗普叫停对加拿大征收50%关税：三天或将决定下一章经贸篇章| KOKIM 4758发布于币安广场
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Binance
-- 时间: 2026-08-19 11:44
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ELUQ2X3N6TThjZTBOYV9Pclp1a0hKZkt0Y1RaNk5nejlSV0Uyb0taZURaUEhyRW1Ed2ZkQWpHRTY4c25rc0V1TzJuU0RqS2o1SjRjSG1yelhwemd2TE5CdWhmamxwTUVI?oc=5>
+- 场馆: finance.sina.com.cn
+- 时间: 2026-08-18 21:13
+- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE8wbXRjZVUwVUh5dWp3U01qZU40UzVEWjdYQU44SzJVSUZvTm4zOUdpVFNQMnpLUU9GSXRMNTBPZ3dYVmc2QlNNZ21Ib2Y0ek9UTTUtVUVoSUV4OUc2dU5lS1JOUEVoVnBDQWtRb1FQU3VPSWZUS1ZOMWNaUXMwUQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-19 14:25  (1 条)
+
+- **特朗普** | 特朗普将出席共和党全国委员会为肯·帕克斯顿举办的筹款活动。 <https://news.google.com/rss/articles/CBMifkFVX3lxTE8wbXRjZVUwVUh5dWp3U01qZU40UzVEWjdYQU44SzJVSUZvTm4zOUdpVFNQMnpLUU9GSXRMNTBPZ3dYVmc2QlNNZ21Ib2Y0ek9UTTUtVUVoSUV4OUc2dU5lS1JOUEVoVnBDQWtRb1FQU3VPSWZUS1ZOMWNaUXMwUQ?oc=5>
 
 ### 2026-08-19 13:38  (2 条)
 
