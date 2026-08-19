@@ -1,56 +1,91 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-19 02:14**
-- 本轮扫到 10027 条, 新增 **5** 条
+- 最近更新: **2026-08-19 03:23**
+- 本轮扫到 10035 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (5 条)
-
-### 美官员：特朗普要求谈判团队暂停与伊朗接触
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: china.zjol.com.cn
-- 时间: 2026-08-19 00:36
-- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTE01S082YlA1elhuQ3h0WEJ2NDR1eXA3SHRaS0JWU1VuZDl3Qmh2VEUxV0t0dkpfbXZMTllKY1dsMnMwYnJDMTlmNGFDaUtTWXk3TVZaWEVpZ0FleV8yWFdLZjFoeUJ2UUFwVlUtbzR3?oc=5>
-
-### 美加关税谈判进入最后关头 特朗普政府淡化达成协议预期
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-19 01:59
-- 链接: <https://news.google.com/rss/articles/CBMiqAJBVV95cUxOUkRvTWdpU1MxdHZMQTU2eG0wSmNXZUZ6RHpEUDhXREVFVWhVSVZ3T1N4R2R6QXZqMUljcENBbkdZR1RKMmhUN0VWTklJUExWMkt1d0p0QWl0b2JkQjgtTkZWc09CNlJGN0tSWWpDSi1tMTJ4Q2RNc1RRdmRWa2RkMHZDbkdoNlRYQktLZ0ZTaWl6b0RHTExjM2Q5SldEZndSNTZwbDJMV0VWYjI4YU80bHcxUzgyN01SdWxZNVROLVJ2Y1EzVWFSZkVKNElSVHh1cGNKQ21rdkJZeDRDcVE2Zm1WV1hGalJ1MmdtVHFldVZFWkE1cjAxTE1hck9QUFIwTWdVYTV6M3ktQ1VTM3hkdm5xeUNrUnRiWEs3YUpsM3p5WTVSUVg0Sw?oc=5>
+## 本轮新发现 (8 条)
 
 ### 英首相被骗！特朗普发声
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-19 02:07
-- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxPRHlkMXk1Z0JRNWhKM00tR05qYURSdUdyZ3lwUnJTSHh5czA5OE9iMHg2OXBTU2psOXBlcEJnWG9HZnpVOXQ2Y1hGdW4ydjZ4WGlwd25TcV80X210UUVXMlZqQjZGQk8wYjhPRUxNelMtYjRyYkZjLXAzc3pSeVhzSkZrZw?oc=5>
+- 场馆: finance.sina.com.cn
+- 时间: 2026-08-19 02:11
+- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxOckpKRUp3bGt5WTlrbk8xbTdUQmxOV3BFU3ZyQUh2a1oxZEkxQTdydDRvYzA1YmFrdXZESGxXdlJ6U1BpZ3RNS2twNmE2bDlTYW5VMUEwOVN1MkZGWUIzYXFOVE5VbHlGQkhCdHEwSk1EODRyYjl0QTJmTTRXR0NzME9YM21aek4zOHNR?oc=5>
 
-### 美媒：特朗普寻求今年秋季与金正恩会晤
+### 骗子假冒白宫幕僚长，还成功骗过了英首相，特朗普回应
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-08-19 01:44
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE8zQTBsWllwZlFHZDJhQTZ2eml0OUg1TTVrbUZZeE54alRCYnZmM3VadlpuTVBMQ0FKRG9ZRUpHNEdoUUVlOU9Pa1NHMjVLakpsdHlfOVJPMjEzRGZzeWxyS3N4YUJMVXJl?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-08-17 23:26
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9JOUp4QVdtelA5UVlkWTh2UDRfVEYyT2xBNXJkQjB5bmt5dEI0MS1lLXZfSklyU2toSXUzaXJnUEhsNkR2ZFlnN2tlVVo?oc=5>
 
-### 特朗普正推动年内与金正恩会晤
+### 特朗普宣布推迟三天对加拿大加征50%关税
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新京报
+- 时间: 2026-08-19 02:30
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE11SjBBU05Wa3VhWEpyZmpsNFFWc3ZmUl9DcFB3Q0F3eHNOYi1YdF8xZWp0R1pkQkNCM2NfSklEUWg1NDVOWTdkVERsNC1NZEZ0cHJ2ZEpjODlKRnZxUncxOXJZckg?oc=5>
+
+### 美股三连跌，存储巨头重挫9%！特朗普要求谈判团队暂停与伊朗接触
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 同花顺
+- 时间: 2026-08-19 01:06
+- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE5yeUZNYjc0VnRDQU1OTjN1VlQyOFh6bTN5aFZxS2I3S0NYUURsN3lTYVBabzRENWc4WWlmT2Q0NFdnRUtmRXdva2JGZFRkUUgyUUhMNVF4RGZqeVhjYlBKcGhR?oc=5>
+
+### 特朗普高强度赶工白宫宴会厅，力求“跑赢司法审查”
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 纽约时报中文网
+- 时间: 2026-08-19 02:17
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE12dHBzTjM0V3R3S3RoUVBpYVlac2lnb3lUMUxhX0dkRi03eURVSTZUMVJGQ005MVhRUktwNWZBenhEN3psNTdEQXpWa1VXNXBqbGxia1BscmdVOUVXU1VBVHhJaXVGSDdWNHZiZ21fTEs4Zw?oc=5>
+
+### 特朗普对伊朗采取强硬立场，霍尔木兹海峡控制权悬而未决
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-08-19 02:15
+- 链接: <https://news.google.com/rss/articles/CBMiogFBVV95cUxPc1gyS1VfaGhIeXN6eFB5dzlsV1dMNXFHQ2hJSXNhTGF6aDBlQ3R0Sjh5WWlBWEZQa0FvMThubjluZmNTR0xudkR4cWtSWGx1N3Q5LUh3eExHbXZZSXpnOTNwWjUwZ0JqWWNFa0tVWHhiTEJ3SVJSWjNCQmJGemRlbV9na19IXzlveVpzLVlxazJ0eE9iVVN4endGcWZPRlFCMXc?oc=5>
+
+### 特朗普暂停对部分加拿大产品加征50%关税
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: 华尔街日报中文网
-- 时间: 2026-08-19 00:58
-- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTS1uNF9CZl9OVGdpWmhtTW9yeE5EY3hydlZxYmlncXVaZjVITDEwN3J5bjZkZUlsTlVQb1ZBT0JiZV9LbzFRYlNIWkwweEJTa2l2RHk0QVZXS2w1Mm40RTNSWExLS2RxTWkteEYxUHVjLTlSdEs4aVR5c0hWRzVhZnNRVENjSjh4YWpJ?oc=5>
+- 时间: 2026-08-19 02:59
+- 链接: <https://news.google.com/rss/articles/CBMijgFBVV95cUxQeXhYem9iRTZ2SWFtWEZ4Sy1DbXlBbmNrdDNKbF9DQ0xFeS1xcFhQN1NxLVMzbzAxcjRLVVA2cXdrYUNENjhQZWpIbUhyZGRNbUZjRHg4bFBYZGNHVVctZTNDVDdVT2RtV2hZalVaU2pMaVFWTkZyS0RTdUpuQVhhdlVVTzJCTDVzdC1kbnhR?oc=5>
+
+### 韩国政府持谨慎态度之际，Trump力推“朝美对话”…关注11月中国亚太经合组织会议- 阿视亚经济
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 아시아경제
+- 时间: 2026-08-19 02:06
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JLVF3QWJ1d09yT0Z0aHFKU1J1WUl5MHpDSE9NbVJFcVc3cWRHSWcwWUZZVkFqVUl6ZkxPSzd4czdSX04yMUFDT09UazlheWI4bXZVS0V0a2U1dWRpVTBFbEN1Z3E?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-19 03:23  (8 条)
+
+- **特朗普** | 英首相被骗！特朗普发声 <https://news.google.com/rss/articles/CBMiiwFBVV95cUxOckpKRUp3bGt5WTlrbk8xbTdUQmxOV3BFU3ZyQUh2a1oxZEkxQTdydDRvYzA1YmFrdXZESGxXdlJ6U1BpZ3RNS2twNmE2bDlTYW5VMUEwOVN1MkZGWUIzYXFOVE5VbHlGQkhCdHEwSk1EODRyYjl0QTJmTTRXR0NzME9YM21aek4zOHNR?oc=5>
+- **特朗普** | 骗子假冒白宫幕僚长，还成功骗过了英首相，特朗普回应 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9JOUp4QVdtelA5UVlkWTh2UDRfVEYyT2xBNXJkQjB5bmt5dEI0MS1lLXZfSklyU2toSXUzaXJnUEhsNkR2ZFlnN2tlVVo?oc=5>
+- **特朗普** | 特朗普宣布推迟三天对加拿大加征50%关税 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE11SjBBU05Wa3VhWEpyZmpsNFFWc3ZmUl9DcFB3Q0F3eHNOYi1YdF8xZWp0R1pkQkNCM2NfSklEUWg1NDVOWTdkVERsNC1NZEZ0cHJ2ZEpjODlKRnZxUncxOXJZckg?oc=5>
+- **特朗普** | 美股三连跌，存储巨头重挫9%！特朗普要求谈判团队暂停与伊朗接触 <https://news.google.com/rss/articles/CBMiYkFVX3lxTE5yeUZNYjc0VnRDQU1OTjN1VlQyOFh6bTN5aFZxS2I3S0NYUURsN3lTYVBabzRENWc4WWlmT2Q0NFdnRUtmRXdva2JGZFRkUUgyUUhMNVF4RGZqeVhjYlBKcGhR?oc=5>
+- **Trump** | 特朗普高强度赶工白宫宴会厅，力求“跑赢司法审查” <https://news.google.com/rss/articles/CBMickFVX3lxTE12dHBzTjM0V3R3S3RoUVBpYVlac2lnb3lUMUxhX0dkRi03eURVSTZUMVJGQ005MVhRUktwNWZBenhEN3psNTdEQXpWa1VXNXBqbGxia1BscmdVOUVXU1VBVHhJaXVGSDdWNHZiZ21fTEs4Zw?oc=5>
+- **Trump** | 特朗普对伊朗采取强硬立场，霍尔木兹海峡控制权悬而未决 <https://news.google.com/rss/articles/CBMiogFBVV95cUxPc1gyS1VfaGhIeXN6eFB5dzlsV1dMNXFHQ2hJSXNhTGF6aDBlQ3R0Sjh5WWlBWEZQa0FvMThubjluZmNTR0xudkR4cWtSWGx1N3Q5LUh3eExHbXZZSXpnOTNwWjUwZ0JqWWNFa0tVWHhiTEJ3SVJSWjNCQmJGemRlbV9na19IXzlveVpzLVlxazJ0eE9iVVN4endGcWZPRlFCMXc?oc=5>
+- **Trump** | 特朗普暂停对部分加拿大产品加征50%关税 <https://news.google.com/rss/articles/CBMijgFBVV95cUxQeXhYem9iRTZ2SWFtWEZ4Sy1DbXlBbmNrdDNKbF9DQ0xFeS1xcFhQN1NxLVMzbzAxcjRLVVA2cXdrYUNENjhQZWpIbUhyZGRNbUZjRHg4bFBYZGNHVVctZTNDVDdVT2RtV2hZalVaU2pMaVFWTkZyS0RTdUpuQVhhdlVVTzJCTDVzdC1kbnhR?oc=5>
+- **Trump** | 韩国政府持谨慎态度之际，Trump力推“朝美对话”…关注11月中国亚太经合组织会议- 阿视亚经济 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JLVF3QWJ1d09yT0Z0aHFKU1J1WUl5MHpDSE9NbVJFcVc3cWRHSWcwWUZZVkFqVUl6ZkxPSzd4czdSX04yMUFDT09UazlheWI4bXZVS0V0a2U1dWRpVTBFbEN1Z3E?oc=5>
 
 ### 2026-08-19 02:14  (5 条)
 
