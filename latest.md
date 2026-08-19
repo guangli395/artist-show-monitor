@@ -1,62 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-19 06:32**
-- 本轮扫到 10050 条, 新增 **6** 条
+- 最近更新: **2026-08-19 07:32**
+- 本轮扫到 10052 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (2 条)
 
-### 蔡徐坤演唱会现场说了什么引发热议
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849300_1d5acf554068013pog.html>
-
-### 特朗普支持率暴跌至33% 伊朗战火正在“点燃”黄金？
+### 总统审美凌驾战斗力，特朗普嫌航母太丑下令改设计，拿打仗当选美
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-19 05:58
-- 链接: <https://news.google.com/rss/articles/CBMisgFBVV95cUxQd2lJbG5PZlRYdmxKazVTVjllZjFENjQ0QzlDMGwyS1VRaE0xVGZGVVdrZWQ1RVFEaE5GM0tXNEZ1VnVodmxtWVRDUXMzdGhzX1JCMnNSelhvYW5tUmVHOTVBSTc4SjdJMEdlZGNLcjAydWoxcjRwOTUtVHQzRTFEdHp0X2wwSGo3TF94SnpUMnlfTEQ2Y0VJajhxOFRRTlRHY3JkMFB4d0xrY3YzdHdiTnV3?oc=5>
+- 场馆: k.sina.com.cn
+- 时间: 2026-08-19 07:25
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE5hZ0YzdTlQRkprOHN2czRGeDg3a3AzTnJiOGlPOFB1NzI4UE03TVBfZXV6QURqMmw1ZEUwcmxKUnVLZnpCblotd0pYLXZEWVRFMnJ6aDlxRnJpNlFVMXJkMUVlNHdfY2VjRnpPYjJlRjlKUQ?oc=5>
 
-### “你散布假新闻，闭嘴！”特朗普被问“林肯”号航母物资问题驳斥记者！ ​
+### Trump Pauses 50% Tariff On Some Canadian Products
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-08-19 06:20
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1oQ01kWUhYdGlILUkzYmphWTVzMmdXM3lwZXR4TUxkbHJ6cnhhcXl2NzhkZFZ3NDgwc21BYnNhR3lCdk1mS21oNVN2Tl9VbXlDOWNBRlJPR3F1UXhEa1JsX2g5OU9rdGYyTjB3QjlISVZvZFU?oc=5>
-
-### 8月19日外盘头条：特朗普称未与伊朗进行任何会谈 苹果调整欧盟应用商店收费 多国长期主权债收益率升至高位
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-19 06:22
-- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxOcUoyQnUwQ2lvUzNxb2I3MFdBNHp0eU54aTdTV0tPM2dtdHB0ZkRYay03QnhMZHZ1d2JPclVNeVUxYU9fU3hTdU1acGV5YkpXaDNiYTdIeUZiWS05VWI0OFQ3RGt0eHdXYWJqaEpBUTZOWGtLb2RBblZ3YVBlNWItaFRrRjNVSTBPWWc?oc=5>
-
-### 特朗普宣布推迟3天对加拿大加征50%关税
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-19 05:09
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFA5QmhzSWoyeVRMcUdaNXFFNFhkVTN2cldiLXcyeHhFZFVaY2xmY1Q1WkZ2Z2E3b2xfRVQ4Ry11Ty16c3c1MWU4ZlJYMWo?oc=5>
-
-### 中东和平前景黯淡！美官员：特朗普要求谈判团队暂停与伊朗接触
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-08-19 01:00
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE81a1hNZkNNMlJyNmJyeEZpa1RfX2hXdkxRUlhiM3ZiWmp2SHJRRXhfR3EydkcwLTFJZjBsY0FaanQ5QVR3U2xYRUlIblVxbU5JaEEwUzZaWUVFVXFHeWpySg?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-08-19 07:01
+- 链接: <https://news.google.com/rss/articles/CBMimwFBVV95cUxPUG9vRzk3MDNrb0hQUWZSMFRrYzR6NUZYOUNzcXNBWmNjTmg3LXNXSnVTcnV2Y2FiS2hXLTdZN2lDUnM0WjRoNm5YYlM4OFMxZkZiczJRQlAySV9kQTdONURCU0hmQWFxTDZ0aUpFYm52VUpILTRjRUhBRXlRTmVua21HMDNoMS1KVE5FVjVhTW5pS1R6dHBmVHlQNA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-19 07:32  (2 条)
+
+- **特朗普** | 总统审美凌驾战斗力，特朗普嫌航母太丑下令改设计，拿打仗当选美 <https://news.google.com/rss/articles/CBMickFVX3lxTE5hZ0YzdTlQRkprOHN2czRGeDg3a3AzTnJiOGlPOFB1NzI4UE03TVBfZXV6QURqMmw1ZEUwcmxKUnVLZnpCblotd0pYLXZEWVRFMnJ6aDlxRnJpNlFVMXJkMUVlNHdfY2VjRnpPYjJlRjlKUQ?oc=5>
+- **Trump** | Trump Pauses 50% Tariff On Some Canadian Products <https://news.google.com/rss/articles/CBMimwFBVV95cUxPUG9vRzk3MDNrb0hQUWZSMFRrYzR6NUZYOUNzcXNBWmNjTmg3LXNXSnVTcnV2Y2FiS2hXLTdZN2lDUnM0WjRoNm5YYlM4OFMxZkZiczJRQlAySV9kQTdONURCU0hmQWFxTDZ0aUpFYm52VUpILTRjRUhBRXlRTmVua21HMDNoMS1KVE5FVjVhTW5pS1R6dHBmVHlQNA?oc=5>
 
 ### 2026-08-19 06:32  (6 条)
 
