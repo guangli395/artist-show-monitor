@@ -1,38 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-19 05:00**
-- 本轮扫到 10043 条, 新增 **3** 条
+- 最近更新: **2026-08-19 05:54**
+- 本轮扫到 10044 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (1 条)
 
-### 蔡徐坤演唱会现场说了什么？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923111_1d5ae15a706801dusc.html>
-
-### 8月19日外盘头条：特朗普称未与伊朗进行任何会谈 苹果调整欧盟应用商店收费 多国长期主权债收益率升至高位
+### 美官员：特朗普要求谈判团队暂停与伊朗接触
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-08-19 02:37
-- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaVdXQnc3ZGR1SzJDbUJkM2lMRWtOel9hejZab3ZmYk03T0M2WXppZWhDMEQteXRzWkxjMFNNOTFMS2g4X2VRS29kakNPZzZFcThNN3RBSFp2STI5QTQ4TWF2STJmc09Qd1g5Y09Ec05zMTJwVjlwQkxfUzNzdXFPYmRwRGd0MWp0TGpxOXo1NGk4MU05aEZwTXhFVG01d1VuZXppWkhHSVJ2dw?oc=5>
-
-### Dollar Recovers Slightly as Trump Dampens Hopes For U.S.-Iran Peace -- Market Talk
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-08-18 18:39
-- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMk5aX2N3aUxaOV8yNEdueGdBcEpURXlLTmE5eDdNSWNIT1AxSEJYcmw5Y0k1cW1RRmNWR2JEM0xKS3locFYyUnhXbG94SVlsZVNLZFFUR3haM1dTb01ON21ySGVYbzRsNHFfcVk3RWhJVkJsVHlWZzN5TERRUWRiZHhhTmhyWi1BVWpDZHg5Ukw2TnZpT3llR0NMQWtmT0t6Q2YzQUN1ZnJEUQ?oc=5>
+- 场馆: 新浪财经_金融信息服务商
+- 时间: 2026-08-18 23:31
+- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxNTzMtWGVjWjJvUkJPNFhUTXh6VlhJRTRGc2huUTRLNnJzMHE0d2REdUUtaUFaMFlBeW5wU3ZibnJlczdhdllIOFozeEJTMWJZQW5JMC1zb0JOMzVzamhTaVloT0hvM2RMRUU2YmFpY0NpS3ZjcTM3ZUVRWFFCS2xnYlZQVW13UkpOdGtZeVJaWjBPRHlUY25mdg?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-19 05:54  (1 条)
+
+- **特朗普** | 美官员：特朗普要求谈判团队暂停与伊朗接触 <https://news.google.com/rss/articles/CBMimAFBVV95cUxNTzMtWGVjWjJvUkJPNFhUTXh6VlhJRTRGc2huUTRLNnJzMHE0d2REdUUtaUFaMFlBeW5wU3ZibnJlczdhdllIOFozeEJTMWJZQW5JMC1zb0JOMzVzamhTaVloT0hvM2RMRUU2YmFpY0NpS3ZjcTM3ZUVRWFFCS2xnYlZQVW13UkpOdGtZeVJaWjBPRHlUY25mdg?oc=5>
 
 ### 2026-08-19 05:00  (3 条)
 
