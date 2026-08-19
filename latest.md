@@ -1,23 +1,13 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-19 16:54**
-- 本轮扫到 10092 条, 新增 **1** 条
+- 最近更新: **2026-08-19 17:20**
+- 本轮扫到 10092 条, 新增 **0** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮无新增
 
-### Trump Announces Pause on 50% Tariffs Against Canada
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: CryptoRank
-- 时间: 2026-08-19 06:32
-- 链接: <https://news.google.com/rss/articles/CBMid0FVX3lxTFBHenlyZ1dpX1dYUEFQc2hPcUxwZFlpdWNfSWZuUTJEVzl5aXk4QjhiYndobEhlSndxNFgtUFd0OWdLbFVxaFBVdm9EdlFqZjl1S1RSZ0EyX0RrUzlJVVR3VHpXdlphNXV2U0FiRkJJTmFta0FSbEZV?oc=5>
-
-
----
-
+数据库里所有演出/动态都已见过,暂无新增。
 ## 历史发现
 
 ### 2026-08-19 16:54  (1 条)
