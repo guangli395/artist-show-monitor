@@ -1,64 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-19 12:33**
-- 本轮扫到 10078 条, 新增 **6** 条
+- 最近更新: **2026-08-19 13:38**
+- 本轮扫到 10080 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (2 条)
 
-### 特朗普还对人民大会堂念念不忘
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-08-19 11:20
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9QUW5Mc2hYVGRycFBucGdnYnBFLXBfdW42SllVOHBnSnAtQVdlem9ZNUI1YUx1TDg3UndhSzVncVRka3J2RGc4UlVZUTJ1dFBUQTZPM3NuNDQyZVRWVE1JNmRXcDlXRElvUWZiWGViSkU?oc=5>
-
-### 特朗普称“林肯”号部署时间“远远不够长”，谢寒冰：你住一个月
+### 内部人士：若特朗普升级战事 伊朗拟打击欧洲境内军事目标
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-08-19 12:14
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE00WnlYQ3FObFloSXJqRjVxOGhia2J3MjhtOHQ1bzh6N0NwTVZDeWlZQjFrLUVuODBhb1RiclUwVXQ1NEVjcHJzSU1KSFkzTkFDdkFyQ2lSeUIxNy1LVkFudEdySFVZejF3elRKSWk5a2ExOWs?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-19 13:06
+- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxPdGI0b25DcHlFTlktd2hUSG5BLUYzQjJsSG5aNktuelVMb0EtOUd0b1JKazhUZjI4R0JKVjBYdDBTQnE4UmtyazUwb2Y3dnNFS3lBNXlZai03UFFhYzBObW1PSFJwUTBLX3MwQTYycE5VMTE2WEVYc1RURUhqMENOUEZYRnB4dGYwd2lXdUE0cEFjNFly?oc=5>
 
-### 特朗普一心想见金正恩？
+### 特朗普叫停对加拿大征收50%关税：三天或将决定下一章经贸篇章| KOKIM 4758发布于币安广场
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-08-19 08:03
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBBakFWSlB1NklzT1BTLWowbjJ5dzVYQnMwb0h0X2FTc0dJazV1Z2xVbUlBRUNLMXlVNGZJTjBBeVIwNXpabTExcGYxeFQ3VEtzdlBfZ2dOUjUwMjF4QXcyMUxSbE90SnE0Snc?oc=5>
-
-### 特朗普宣布推迟三天对加拿大加征50%关税
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 央广网
-- 时间: 2026-08-19 02:39
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Xam1JaG9vaUdVSWlSSVhJZFl4YzB0VVZFR3ZfMHJHcGRDZ0RPckJHaE1obS01S1ZDZk81OXJkSHBpSkRVazRpb2Z0cVlHQlIyTDFmcTg0TW5SNFlzY0I5SEhsTFVTSllK?oc=5>
-
-### 特朗普宣布：推迟3天对加拿大加征50%关税
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-08-19 03:19
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9NRVg0STdiRkNFMnFDcUNENDViUHdqWXFDcDJib2JNaU14Z253UlJKQnoySnpQMzJHVTk2N1NWbzU5amJfV2dBTmtRZEtBd2tEQXo4MzNJcFQ2dDdNMHdiSmdHOHZQNWN4?oc=5>
-
-### 深视频 | 目前和未来不会有！特朗普叫停美伊谈判
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 上观新闻
-- 时间: 2026-08-19 08:19
-- 链接: <https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Nb2F5YWJvTFMyTHg2SXNlRjJsb1hpUk8xQ3lHaUVzSW1vOEdsOGZRajZTOTZQSTRMckFFX1JUODZNSzNBa180SUZEV0ZPdTY5WUdnSWNZaUo1Zw?oc=5>
+- 场馆: Binance
+- 时间: 2026-08-19 11:44
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ELUQ2X3N6TThjZTBOYV9Pclp1a0hKZkt0Y1RaNk5nejlSV0Uyb0taZURaUEhyRW1Ed2ZkQWpHRTY4c25rc0V1TzJuU0RqS2o1SjRjSG1yelhwemd2TE5CdWhmamxwTUVI?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-19 13:38  (2 条)
+
+- **特朗普** | 内部人士：若特朗普升级战事 伊朗拟打击欧洲境内军事目标 <https://news.google.com/rss/articles/CBMilAFBVV95cUxPdGI0b25DcHlFTlktd2hUSG5BLUYzQjJsSG5aNktuelVMb0EtOUd0b1JKazhUZjI4R0JKVjBYdDBTQnE4UmtyazUwb2Y3dnNFS3lBNXlZai03UFFhYzBObW1PSFJwUTBLX3MwQTYycE5VMTE2WEVYc1RURUhqMENOUEZYRnB4dGYwd2lXdUE0cEFjNFly?oc=5>
+- **Trump** | 特朗普叫停对加拿大征收50%关税：三天或将决定下一章经贸篇章| KOKIM 4758发布于币安广场 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ELUQ2X3N6TThjZTBOYV9Pclp1a0hKZkt0Y1RaNk5nejlSV0Uyb0taZURaUEhyRW1Ed2ZkQWpHRTY4c25rc0V1TzJuU0RqS2o1SjRjSG1yelhwemd2TE5CdWhmamxwTUVI?oc=5>
 
 ### 2026-08-19 12:33  (6 条)
 
