@@ -1,32 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-19 07:32**
-- 本轮扫到 10052 条, 新增 **2** 条
+- 最近更新: **2026-08-19 08:28**
+- 本轮扫到 10057 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (5 条)
 
-### 总统审美凌驾战斗力，特朗普嫌航母太丑下令改设计，拿打仗当选美
+### 美伊谈判，最新消息！
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: k.sina.com.cn
-- 时间: 2026-08-19 07:25
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE5hZ0YzdTlQRkprOHN2czRGeDg3a3AzTnJiOGlPOFB1NzI4UE03TVBfZXV6QURqMmw1ZEUwcmxKUnVLZnpCblotd0pYLXZEWVRFMnJ6aDlxRnJpNlFVMXJkMUVlNHdfY2VjRnpPYjJlRjlKUQ?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-19 07:04
+- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxQT21iS2lrXzhtcVhWZ1Rta2RhYlV3S3R4UzZnRTVrWExmWHQzVEl2NEtGZDdYQzg2ZlIwQ3BhZHo0RGFSbXBwTnB5WER2OUhWdW4wd25tRFcxLWFObndOVXhxazZpSnpjRXNwd01kZ2pRVW5SbUI4MGt3RzZzNE53ZzAtNA?oc=5>
 
-### Trump Pauses 50% Tariff On Some Canadian Products
+### 特朗普宣布推迟三天对加拿大加征50%关税
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: china.zjol.com.cn
+- 时间: 2026-08-19 06:49
+- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTE9fMGQzZ0FQXzdoSkFPWHJvdE11eDQyV0E5YUk0NzFTSmJKVEU1VWYzRnJKRzRhbE1MMDVHaHJPbVg3QW9OZ0NuZ05GWWFOc2ZkQ1BUdG1EaHliYldkaUJaTDdma3ZqQTIxX1l6UWtn?oc=5>
+
+### 延后三天，特朗普为何紧急叫停对加拿大加征50%关税
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-19 07:08
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUGFndDhNTVFnOVRjMjFpZmx5OXlhZkxTRTUtQkwtQ1RfellNcFpUY19vQ3E3VHZvVjJHenVzeG9PQjdJN3M1MjM2SzVnT3N5S1VNQW10ZkF5b1lGaTB0cGdNRmxaSUE0bDNJdVl6Nnl4VGhYUlBMNzU4UDVSQVFaODZ6c1I2U1poZGRON0FtbXpESUZZUWR2RFZHNGZHbjBHam92U2FENU8yc1BNeWVIRUhrRElTTHFSUVRObGJjSmU1RXYxVTJhX2hhdXJ3T3Bq?oc=5>
+
+### 攻击朋友、讨好敌人：特朗普“黑白颠倒”的世界观
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 纽约时报中文网
+- 时间: 2026-08-19 03:04
+- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTE93SW1hTVhhRTU5dC10WVdyNHlLdThvWHZOTldFRnFDMXdRbjhLM24tSmNQUjEzeXRKOC1fa2ZiRmYtV21JcUxzcWlxZUUzS0xEWnZxdjhuckVNcGh6YVROTm96Q3d1aG5IWmp6NjhR?oc=5>
+
+### “又开始了”——Trump令盟国不安，日本担忧“韩国之后的下一个目标”
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-08-19 07:01
-- 链接: <https://news.google.com/rss/articles/CBMimwFBVV95cUxPUG9vRzk3MDNrb0hQUWZSMFRrYzR6NUZYOUNzcXNBWmNjTmg3LXNXSnVTcnV2Y2FiS2hXLTdZN2lDUnM0WjRoNm5YYlM4OFMxZkZiczJRQlAySV9kQTdONURCU0hmQWFxTDZ0aUpFYm52VUpILTRjRUhBRXlRTmVua21HMDNoMS1KVE5FVjVhTW5pS1R6dHBmVHlQNA?oc=5>
+- 场馆: 아시아경제
+- 时间: 2026-08-19 02:35
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9haDlmMC1DdXpyWHpwRk9kbUc3Y3dWQV9vdUhuakgtVkI0dVZMTHdUUFZiZkVmbkYxY2RJZ3pndG5qa2xucTkzRHBVTzdYVXB2TUZjTTlDeTdJdTN0Z0xMaUFsUkE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-19 08:28  (5 条)
+
+- **特朗普** | 美伊谈判，最新消息！ <https://news.google.com/rss/articles/CBMigwFBVV95cUxQT21iS2lrXzhtcVhWZ1Rta2RhYlV3S3R4UzZnRTVrWExmWHQzVEl2NEtGZDdYQzg2ZlIwQ3BhZHo0RGFSbXBwTnB5WER2OUhWdW4wd25tRFcxLWFObndOVXhxazZpSnpjRXNwd01kZ2pRVW5SbUI4MGt3RzZzNE53ZzAtNA?oc=5>
+- **特朗普** | 特朗普宣布推迟三天对加拿大加征50%关税 <https://news.google.com/rss/articles/CBMibkFVX3lxTE9fMGQzZ0FQXzdoSkFPWHJvdE11eDQyV0E5YUk0NzFTSmJKVEU1VWYzRnJKRzRhbE1MMDVHaHJPbVg3QW9OZ0NuZ05GWWFOc2ZkQ1BUdG1EaHliYldkaUJaTDdma3ZqQTIxX1l6UWtn?oc=5>
+- **特朗普** | 延后三天，特朗普为何紧急叫停对加拿大加征50%关税 <https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUGFndDhNTVFnOVRjMjFpZmx5OXlhZkxTRTUtQkwtQ1RfellNcFpUY19vQ3E3VHZvVjJHenVzeG9PQjdJN3M1MjM2SzVnT3N5S1VNQW10ZkF5b1lGaTB0cGdNRmxaSUE0bDNJdVl6Nnl4VGhYUlBMNzU4UDVSQVFaODZ6c1I2U1poZGRON0FtbXpESUZZUWR2RFZHNGZHbjBHam92U2FENU8yc1BNeWVIRUhrRElTTHFSUVRObGJjSmU1RXYxVTJhX2hhdXJ3T3Bq?oc=5>
+- **特朗普** | 攻击朋友、讨好敌人：特朗普“黑白颠倒”的世界观 <https://news.google.com/rss/articles/CBMibkFVX3lxTE93SW1hTVhhRTU5dC10WVdyNHlLdThvWHZOTldFRnFDMXdRbjhLM24tSmNQUjEzeXRKOC1fa2ZiRmYtV21JcUxzcWlxZUUzS0xEWnZxdjhuckVNcGh6YVROTm96Q3d1aG5IWmp6NjhR?oc=5>
+- **Trump** | “又开始了”——Trump令盟国不安，日本担忧“韩国之后的下一个目标” <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9haDlmMC1DdXpyWHpwRk9kbUc3Y3dWQV9vdUhuakgtVkI0dVZMTHdUUFZiZkVmbkYxY2RJZ3pndG5qa2xucTkzRHBVTzdYVXB2TUZjTTlDeTdJdTN0Z0xMaUFsUkE?oc=5>
 
 ### 2026-08-19 07:32  (2 条)
 
