@@ -1,46 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-19 18:24**
-- 本轮扫到 10098 条, 新增 **4** 条
+- 最近更新: **2026-08-19 19:01**
+- 本轮扫到 10099 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (1 条)
 
-### 蔡徐坤演唱会现场如何呈现old school元素？
+### Strategy, Coinbase Stocks Rising as Trump Meets With Crypto Execs -- Barrons.com
 
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776731_1d5abd9db06801dvgu.html>
-
-### 特朗普称未与伊朗安排任何谈判，再次暗示将霍尔木兹海峡据为美国领土
-
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-19 16:41
-- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbGRBdEF2U25scS1GOGN3aDJFMlVrVDFrbm14UjdETTBrSExOTGhqdWV3QmRVRWlYQmhFQnNNb05DZXByV3BjamRybUxjZC13UWtpQWlYWlBleEg1Wk9XaWo3UXVPYXdZNGJMeW93RElGRkpHU19zMzctc2lnNTJJZ1BKZHVkVVJZU1pIVlRJeU0yX3RneGhPTFdSUnpyZHotcUE2X2piWUNmUQ?oc=5>
-
-### 特朗普总统将对加拿大商品征收50%关税的计划推迟三天执行
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-08-19 17:40
-- 链接: <https://news.google.com/rss/articles/CBMipAFBVV95cUxPTTB0UXNOODVoSHZJVWlacTU1X2JKRU9jOWVfdDBIZ29RakdFN1o2d05XczZyZ1BCUmJZUzBiclJSeUUwanEtc0JaVjRqOHhYTi1KNjFmbngxR1UtbXk2NHdOYVQyMDJEeFFtSXhWd08tSi1obFlJV0RObDdxVTRsNUU5YnYtSVczUTBWQWU2ZVhQYUtrNUdXWUlWeFowS1NmZlU3dNIBpwFBVV95cUxOQlU3c2pjUWJxZFRuQjJ5U3lMeGtTdmVzdkhRQ3ZkS0tEWEFlbVlRZ0NqdFFFQW1SOXlucml0TkFFeWVUWnNLeGJKREtJR29DMWVON2EwTFkzSEtseUc4ay1iOTZfeFJRSUZPb0pKZG9pd3R5M2lBblVFSVJzMlZ2R1lfVzY4M1RZY2tUaExNemNyRS11QU43M3FyUEdNd2dSYnpHNDQxaw?oc=5>
-
-### “意料之外”，特朗普政府被曝希望让美国美术委员会主席帮助解决乌克兰问题
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-17 15:23
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZaWx6RkM0ZkdGcGJZaWw2NUo0Z0p1WDAtaHNZdHE0QlJyb0lQbm9LZkhwM3dPLTVnWGszZ3pFVGJFbXczdXY0eTB2VUdLdlRsbGFIM3pjMHR4MjZZeFJ5YkotYVE2Wm5PZGpIa042U3dVTThQUUxsNQ?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-08-19 18:52
+- 链接: <https://news.google.com/rss/articles/CBMisAFBVV95cUxPa21mcUVqb1lvemlkRFdocHJ1LWxDclpydUdpQU9nc21yd010TFhQZlY3RGd3YUpEbTN5WVU0NHR3eExnZlEzRG1Fb2VRXzMzYnptNzdCZW5CWGFFZVlpZFkwbkx4TE5STlZrckZUU1BzeUJmeFk1LUR1YXR4RmRvWDludTBteFd5Ukx2amZxd0w2N3ZPM3lIR1MyR3VvSjZnUUhQZmVfekFBUkZNUmRndw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-19 19:01  (1 条)
+
+- **Trump** | Strategy, Coinbase Stocks Rising as Trump Meets With Crypto Execs -- Barrons.com <https://news.google.com/rss/articles/CBMisAFBVV95cUxPa21mcUVqb1lvemlkRFdocHJ1LWxDclpydUdpQU9nc21yd010TFhQZlY3RGd3YUpEbTN5WVU0NHR3eExnZlEzRG1Fb2VRXzMzYnptNzdCZW5CWGFFZVlpZFkwbkx4TE5STlZrckZUU1BzeUJmeFk1LUR1YXR4RmRvWDludTBteFd5Ukx2amZxd0w2N3ZPM3lIR1MyR3VvSjZnUUhQZmVfekFBUkZNUmRndw?oc=5>
 
 ### 2026-08-19 18:24  (4 条)
 
