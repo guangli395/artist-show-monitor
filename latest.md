@@ -1,14 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-19 17:20**
-- 本轮扫到 10092 条, 新增 **0** 条
+- 最近更新: **2026-08-19 17:48**
+- 本轮扫到 10094 条, 新增 **2** 条
 
 ---
 
-## 本轮无新增
+## 本轮新发现 (2 条)
 
-数据库里所有演出/动态都已见过,暂无新增。
+### 美加关税谈判进入最后关头 特朗普政府淡化达成协议预期
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-19 17:35
+- 链接: <https://news.google.com/rss/articles/CBMi_wFBVV95cUxNQ2hJeEI1ZHhtOFF3TFpJSEl3c25pcXpXeFUyM1BIM3BxVkR5QnlvUnJtdTFTd0dONE16YzV6TTFOQnQ5MmRPQ0FERGQ3dFVRWmVBczQ0RjlUSzl0MG9GZ0NGa1piSEtCRzFHeF9IMG9OdHJuclIzUnhfbWhiWnBhU2NsWWFCbGhfcUVxUUhTdEdLbjE0NHJrZWh4UEJiMmpJRjVjNU9GaEFYcmdFLVYxaVVKcHVORzdvM0w0MXpZNnJORXZ2ZWtzdEp6TXl3djItVmM5c3NSQ0xLNWh4V2tkbzJlczBoZWFoNXdPVHg2cVNoUXJkNEU5OW01c1hTRDQ?oc=5>
+
+### 特朗普：与伊朗谈判或适时进行
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 央广网
+- 时间: 2026-08-19 15:47
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nT1VoeDFyQnZMUDZObHE1aXA5RnA4V1djRXhjUlVkcFVtX1NWcEllRkFvaHI0X2NJZjU2VWtoaDhzR1lnb0J1QklaNDZySVJvelhCNllwaEZBMVpIdE1OSDFJemZjN1JC?oc=5>
+
+
+---
+
 ## 历史发现
+
+### 2026-08-19 17:48  (2 条)
+
+- **特朗普** | 美加关税谈判进入最后关头 特朗普政府淡化达成协议预期 <https://news.google.com/rss/articles/CBMi_wFBVV95cUxNQ2hJeEI1ZHhtOFF3TFpJSEl3c25pcXpXeFUyM1BIM3BxVkR5QnlvUnJtdTFTd0dONE16YzV6TTFOQnQ5MmRPQ0FERGQ3dFVRWmVBczQ0RjlUSzl0MG9GZ0NGa1piSEtCRzFHeF9IMG9OdHJuclIzUnhfbWhiWnBhU2NsWWFCbGhfcUVxUUhTdEdLbjE0NHJrZWh4UEJiMmpJRjVjNU9GaEFYcmdFLVYxaVVKcHVORzdvM0w0MXpZNnJORXZ2ZWtzdEp6TXl3djItVmM5c3NSQ0xLNWh4V2tkbzJlczBoZWFoNXdPVHg2cVNoUXJkNEU5OW01c1hTRDQ?oc=5>
+- **特朗普** | 特朗普：与伊朗谈判或适时进行 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nT1VoeDFyQnZMUDZObHE1aXA5RnA4V1djRXhjUlVkcFVtX1NWcEllRkFvaHI0X2NJZjU2VWtoaDhzR1lnb0J1QklaNDZySVJvelhCNllwaEZBMVpIdE1OSDFJemZjN1JC?oc=5>
 
 ### 2026-08-19 16:54  (1 条)
 
