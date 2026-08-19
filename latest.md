@@ -1,32 +1,53 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-19 17:48**
-- 本轮扫到 10094 条, 新增 **2** 条
+- 最近更新: **2026-08-19 18:24**
+- 本轮扫到 10098 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (4 条)
 
-### 美加关税谈判进入最后关头 特朗普政府淡化达成协议预期
+### 蔡徐坤演唱会现场如何呈现old school元素？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776731_1d5abd9db06801dvgu.html>
+
+### 特朗普称未与伊朗安排任何谈判，再次暗示将霍尔木兹海峡据为美国领土
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-08-19 17:35
-- 链接: <https://news.google.com/rss/articles/CBMi_wFBVV95cUxNQ2hJeEI1ZHhtOFF3TFpJSEl3c25pcXpXeFUyM1BIM3BxVkR5QnlvUnJtdTFTd0dONE16YzV6TTFOQnQ5MmRPQ0FERGQ3dFVRWmVBczQ0RjlUSzl0MG9GZ0NGa1piSEtCRzFHeF9IMG9OdHJuclIzUnhfbWhiWnBhU2NsWWFCbGhfcUVxUUhTdEdLbjE0NHJrZWh4UEJiMmpJRjVjNU9GaEFYcmdFLVYxaVVKcHVORzdvM0w0MXpZNnJORXZ2ZWtzdEp6TXl3djItVmM5c3NSQ0xLNWh4V2tkbzJlczBoZWFoNXdPVHg2cVNoUXJkNEU5OW01c1hTRDQ?oc=5>
+- 时间: 2026-08-19 16:41
+- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbGRBdEF2U25scS1GOGN3aDJFMlVrVDFrbm14UjdETTBrSExOTGhqdWV3QmRVRWlYQmhFQnNNb05DZXByV3BjamRybUxjZC13UWtpQWlYWlBleEg1Wk9XaWo3UXVPYXdZNGJMeW93RElGRkpHU19zMzctc2lnNTJJZ1BKZHVkVVJZU1pIVlRJeU0yX3RneGhPTFdSUnpyZHotcUE2X2piWUNmUQ?oc=5>
 
-### 特朗普：与伊朗谈判或适时进行
+### 特朗普总统将对加拿大商品征收50%关税的计划推迟三天执行
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 央广网
-- 时间: 2026-08-19 15:47
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nT1VoeDFyQnZMUDZObHE1aXA5RnA4V1djRXhjUlVkcFVtX1NWcEllRkFvaHI0X2NJZjU2VWtoaDhzR1lnb0J1QklaNDZySVJvelhCNllwaEZBMVpIdE1OSDFJemZjN1JC?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-08-19 17:40
+- 链接: <https://news.google.com/rss/articles/CBMipAFBVV95cUxPTTB0UXNOODVoSHZJVWlacTU1X2JKRU9jOWVfdDBIZ29RakdFN1o2d05XczZyZ1BCUmJZUzBiclJSeUUwanEtc0JaVjRqOHhYTi1KNjFmbngxR1UtbXk2NHdOYVQyMDJEeFFtSXhWd08tSi1obFlJV0RObDdxVTRsNUU5YnYtSVczUTBWQWU2ZVhQYUtrNUdXWUlWeFowS1NmZlU3dNIBpwFBVV95cUxOQlU3c2pjUWJxZFRuQjJ5U3lMeGtTdmVzdkhRQ3ZkS0tEWEFlbVlRZ0NqdFFFQW1SOXlucml0TkFFeWVUWnNLeGJKREtJR29DMWVON2EwTFkzSEtseUc4ay1iOTZfeFJRSUZPb0pKZG9pd3R5M2lBblVFSVJzMlZ2R1lfVzY4M1RZY2tUaExNemNyRS11QU43M3FyUEdNd2dSYnpHNDQxaw?oc=5>
+
+### “意料之外”，特朗普政府被曝希望让美国美术委员会主席帮助解决乌克兰问题
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-17 15:23
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZaWx6RkM0ZkdGcGJZaWw2NUo0Z0p1WDAtaHNZdHE0QlJyb0lQbm9LZkhwM3dPLTVnWGszZ3pFVGJFbXczdXY0eTB2VUdLdlRsbGFIM3pjMHR4MjZZeFJ5YkotYVE2Wm5PZGpIa042U3dVTThQUUxsNQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-19 18:24  (4 条)
+
+- **蔡徐坤** | 蔡徐坤演唱会现场如何呈现old school元素？ <https://k.sina.com.cn/article_7879776731_1d5abd9db06801dvgu.html>
+- **特朗普** | 特朗普称未与伊朗安排任何谈判，再次暗示将霍尔木兹海峡据为美国领土 <https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbGRBdEF2U25scS1GOGN3aDJFMlVrVDFrbm14UjdETTBrSExOTGhqdWV3QmRVRWlYQmhFQnNNb05DZXByV3BjamRybUxjZC13UWtpQWlYWlBleEg1Wk9XaWo3UXVPYXdZNGJMeW93RElGRkpHU19zMzctc2lnNTJJZ1BKZHVkVVJZU1pIVlRJeU0yX3RneGhPTFdSUnpyZHotcUE2X2piWUNmUQ?oc=5>
+- **特朗普** | 特朗普总统将对加拿大商品征收50%关税的计划推迟三天执行 <https://news.google.com/rss/articles/CBMipAFBVV95cUxPTTB0UXNOODVoSHZJVWlacTU1X2JKRU9jOWVfdDBIZ29RakdFN1o2d05XczZyZ1BCUmJZUzBiclJSeUUwanEtc0JaVjRqOHhYTi1KNjFmbngxR1UtbXk2NHdOYVQyMDJEeFFtSXhWd08tSi1obFlJV0RObDdxVTRsNUU5YnYtSVczUTBWQWU2ZVhQYUtrNUdXWUlWeFowS1NmZlU3dNIBpwFBVV95cUxOQlU3c2pjUWJxZFRuQjJ5U3lMeGtTdmVzdkhRQ3ZkS0tEWEFlbVlRZ0NqdFFFQW1SOXlucml0TkFFeWVUWnNLeGJKREtJR29DMWVON2EwTFkzSEtseUc4ay1iOTZfeFJRSUZPb0pKZG9pd3R5M2lBblVFSVJzMlZ2R1lfVzY4M1RZY2tUaExNemNyRS11QU43M3FyUEdNd2dSYnpHNDQxaw?oc=5>
+- **特朗普** | “意料之外”，特朗普政府被曝希望让美国美术委员会主席帮助解决乌克兰问题 <https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZaWx6RkM0ZkdGcGJZaWw2NUo0Z0p1WDAtaHNZdHE0QlJyb0lQbm9LZkhwM3dPLTVnWGszZ3pFVGJFbXczdXY0eTB2VUdLdlRsbGFIM3pjMHR4MjZZeFJ5YkotYVE2Wm5PZGpIa042U3dVTThQUUxsNQ?oc=5>
 
 ### 2026-08-19 17:48  (2 条)
 
