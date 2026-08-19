@@ -1,64 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-19 00:52**
-- 本轮扫到 10022 条, 新增 **6** 条
+- 最近更新: **2026-08-19 02:14**
+- 本轮扫到 10027 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (5 条)
 
 ### 美官员：特朗普要求谈判团队暂停与伊朗接触
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-08-18 22:26
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE4wV3c4UHNUdXZpRXRwdUNwczRzWWFTODZIeW94RHQyYUMtNHd5NXJvdkF4cG9kdU9JdGFwMjhtaFZyc05jRE5fRnJzQVVadXpPUWFaT2xnaHluR2x5c0hMTUxTLVgwQzVWeVRSWF9QQlRYVnFzRno4WA?oc=5>
+- 场馆: china.zjol.com.cn
+- 时间: 2026-08-19 00:36
+- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTE01S082YlA1elhuQ3h0WEJ2NDR1eXA3SHRaS0JWU1VuZDl3Qmh2VEUxV0t0dkpfbXZMTllKY1dsMnMwYnJDMTlmNGFDaUtTWXk3TVZaWEVpZ0FleV8yWFdLZjFoeUJ2UUFwVlUtbzR3?oc=5>
 
-### 特朗普下令福特级改回蒸汽弹射! 中国电磁弹射: 航母用还将发射卫星
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-08-19 00:17
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE1ma3FyU19WbUR0R3B5OEw2Q050dXh0NW91ekgxdENjekVndDhmejZyakNiYzljZDEwNHFVZl9qMDJvVW9RNEhJZVZuMjhveVlJZzNneVZsVTN5c0FwMnZrb1dBdlM0YUZ3cU5vWVBsclc4Zw?oc=5>
-
-### 特朗普对人民大会堂念念不忘：“它很宏伟漂亮，美国也得有！”忆访华赞叹不已
+### 美加关税谈判进入最后关头 特朗普政府淡化达成协议预期
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中华军事
-- 时间: 2026-08-19 00:17
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9Kc3RRNVBiel9LQm1FdWMzQ1RWdFhtQzFaX29ubHJGQ3dleFRsZ2hfcWFWNHh0UWZvMmN6djd5R290dzhDUkZzYTUzV3F1REJEOTRTdWRBTDZIeFpKMWxRaWhBMEdPeVFFTWRreGtLWTI?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-19 01:59
+- 链接: <https://news.google.com/rss/articles/CBMiqAJBVV95cUxOUkRvTWdpU1MxdHZMQTU2eG0wSmNXZUZ6RHpEUDhXREVFVWhVSVZ3T1N4R2R6QXZqMUljcENBbkdZR1RKMmhUN0VWTklJUExWMkt1d0p0QWl0b2JkQjgtTkZWc09CNlJGN0tSWWpDSi1tMTJ4Q2RNc1RRdmRWa2RkMHZDbkdoNlRYQktLZ0ZTaWl6b0RHTExjM2Q5SldEZndSNTZwbDJMV0VWYjI4YU80bHcxUzgyN01SdWxZNVROLVJ2Y1EzVWFSZkVKNElSVHh1cGNKQ21rdkJZeDRDcVE2Zm1WV1hGalJ1MmdtVHFldVZFWkE1cjAxTE1hck9QUFIwTWdVYTV6M3ktQ1VTM3hkdm5xeUNrUnRiWEs3YUpsM3p5WTVSUVg0Sw?oc=5>
 
-### 美国防部：正在落实特朗普缩减美韩军演指令
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-18 23:42
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5RMlNtd1lWLTZ5ak9adU5qVUZqU1htYWlFNF9fRHJ6WTRnVHZCcU05RW9aNVlOazV4TmdYbWkwQTByNnRTRUNaSTdXVQ?oc=5>
-
-### 57:60，特朗普迎来生死之战，共和党底牌打空，首富出钱“参战”
+### 英首相被骗！特朗普发声
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-08-19 00:37
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFBibVlJUk80c1JEMkRqeEh0X3pOdXBBSzZvTVFIWTRDMlQzb3J0Q3ZsM24zN3RSeUJObFByVmFfUmpZWG9fOFBsN195OXI1TkdVZWZ1SjJkdUVxMVIyZ21WRDdfYzhFZWpIOEpCLUVWOXZvdw?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-19 02:07
+- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxPRHlkMXk1Z0JRNWhKM00tR05qYURSdUdyZ3lwUnJTSHh5czA5OE9iMHg2OXBTU2psOXBlcEJnWG9HZnpVOXQ2Y1hGdW4ydjZ4WGlwd25TcV80X210UUVXMlZqQjZGQk8wYjhPRUxNelMtYjRyYkZjLXAzc3pSeVhzSkZrZw?oc=5>
 
-### Trump“换乘专机”……撇下部长却带上“这名女子”
+### 美媒：特朗普寻求今年秋季与金正恩会晤
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: chinanews.com.cn
+- 时间: 2026-08-19 01:44
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE8zQTBsWllwZlFHZDJhQTZ2eml0OUg1TTVrbUZZeE54alRCYnZmM3VadlpuTVBMQ0FKRG9ZRUpHNEdoUUVlOU9Pa1NHMjVLakpsdHlfOVJPMjEzRGZzeWxyS3N4YUJMVXJl?oc=5>
+
+### 特朗普正推动年内与金正恩会晤
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 아시아경제
-- 时间: 2026-08-18 23:40
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE02YlJHdWYxZzI0dUlrZzQydXhWVEJGRmlSUG1GRE9GSW05Y2s2VFFYaDYtWURYN2VXdmJUa3JOa2NiQVZwbm4zbWZxQ0x2ckVGbjdpWTFJMHFFYzh4THhMYzBrRXU?oc=5>
+- 场馆: 华尔街日报中文网
+- 时间: 2026-08-19 00:58
+- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTS1uNF9CZl9OVGdpWmhtTW9yeE5EY3hydlZxYmlncXVaZjVITDEwN3J5bjZkZUlsTlVQb1ZBT0JiZV9LbzFRYlNIWkwweEJTa2l2RHk0QVZXS2w1Mm40RTNSWExLS2RxTWkteEYxUHVjLTlSdEs4aVR5c0hWRzVhZnNRVENjSjh4YWpJ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-19 02:14  (5 条)
+
+- **特朗普** | 美官员：特朗普要求谈判团队暂停与伊朗接触 <https://news.google.com/rss/articles/CBMibkFVX3lxTE01S082YlA1elhuQ3h0WEJ2NDR1eXA3SHRaS0JWU1VuZDl3Qmh2VEUxV0t0dkpfbXZMTllKY1dsMnMwYnJDMTlmNGFDaUtTWXk3TVZaWEVpZ0FleV8yWFdLZjFoeUJ2UUFwVlUtbzR3?oc=5>
+- **特朗普** | 美加关税谈判进入最后关头 特朗普政府淡化达成协议预期 <https://news.google.com/rss/articles/CBMiqAJBVV95cUxOUkRvTWdpU1MxdHZMQTU2eG0wSmNXZUZ6RHpEUDhXREVFVWhVSVZ3T1N4R2R6QXZqMUljcENBbkdZR1RKMmhUN0VWTklJUExWMkt1d0p0QWl0b2JkQjgtTkZWc09CNlJGN0tSWWpDSi1tMTJ4Q2RNc1RRdmRWa2RkMHZDbkdoNlRYQktLZ0ZTaWl6b0RHTExjM2Q5SldEZndSNTZwbDJMV0VWYjI4YU80bHcxUzgyN01SdWxZNVROLVJ2Y1EzVWFSZkVKNElSVHh1cGNKQ21rdkJZeDRDcVE2Zm1WV1hGalJ1MmdtVHFldVZFWkE1cjAxTE1hck9QUFIwTWdVYTV6M3ktQ1VTM3hkdm5xeUNrUnRiWEs3YUpsM3p5WTVSUVg0Sw?oc=5>
+- **特朗普** | 英首相被骗！特朗普发声 <https://news.google.com/rss/articles/CBMigwFBVV95cUxPRHlkMXk1Z0JRNWhKM00tR05qYURSdUdyZ3lwUnJTSHh5czA5OE9iMHg2OXBTU2psOXBlcEJnWG9HZnpVOXQ2Y1hGdW4ydjZ4WGlwd25TcV80X210UUVXMlZqQjZGQk8wYjhPRUxNelMtYjRyYkZjLXAzc3pSeVhzSkZrZw?oc=5>
+- **特朗普** | 美媒：特朗普寻求今年秋季与金正恩会晤 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE8zQTBsWllwZlFHZDJhQTZ2eml0OUg1TTVrbUZZeE54alRCYnZmM3VadlpuTVBMQ0FKRG9ZRUpHNEdoUUVlOU9Pa1NHMjVLakpsdHlfOVJPMjEzRGZzeWxyS3N4YUJMVXJl?oc=5>
+- **Trump** | 特朗普正推动年内与金正恩会晤 <https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTS1uNF9CZl9OVGdpWmhtTW9yeE5EY3hydlZxYmlncXVaZjVITDEwN3J5bjZkZUlsTlVQb1ZBT0JiZV9LbzFRYlNIWkwweEJTa2l2RHk0QVZXS2w1Mm40RTNSWExLS2RxTWkteEYxUHVjLTlSdEs4aVR5c0hWRzVhZnNRVENjSjh4YWpJ?oc=5>
 
 ### 2026-08-19 00:52  (6 条)
 
