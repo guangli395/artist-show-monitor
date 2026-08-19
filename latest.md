@@ -1,32 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-19 20:19**
-- 本轮扫到 10105 条, 新增 **2** 条
+- 最近更新: **2026-08-19 20:52**
+- 本轮扫到 10107 条, 新增 **2** 条
 
 ---
 
 ## 本轮新发现 (2 条)
 
-### 民调：多数美国人认为特朗普重新掌权后不当获利
+### 紧跟特朗普躲“暗杀”，钻后备箱随行：白宫女助理搅动美国舆论
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-19 19:22
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5mRWFRUHZlUGdCYTZyTGRsUV9Yd0JKeDlSZWtpNk1wbUpWU3lwZ2lTd2VoOUhCMUc4YmVrRTNBWUk1eTc5VE9MVzhWYzY?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-08-19 17:42
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBzSWN1UDhNdUNvQkpRakJvd1lreEdwOW9feXEwWXdBcmd3VndleDZVb1dvMlppd0RUb3FDcU13ajI4WFBQd0c4Vm9LTmlxM2tINGQyMnQzTXNSMDBpTzdaNkZUYUJtTFR4R0pFMGV6QVY?oc=5>
 
-### 特朗普再度敦促降息
+### 特朗普要霍尔木兹，台湾下一个？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 金融界
-- 时间: 2026-08-19 19:53
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE9LMVprdFJsdjk1MXRaT1FNN2FXZllrZ2RSTXNIeW5hdUNHLUE2anlENUk1RC1ZcXc2a0dmZEhBWWZYQVZzOVRPYTh4NjdzUHJUTjhDUDVfTlIyTTJZZ2FPVnAwVy1DOWNPT0p6RS1LMA?oc=5>
+- 场馆: wenxuecity.com
+- 时间: 2026-08-18 21:01
+- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTFBUcmhfemJpODA2WnJHcThtZE9wQjVteW01RkxyRTBPbDhzU1hoQ3NqOThfUV9GLTQyUWNPVWh1WEhGVjJWeFRvMXZKdE4xOU1GRWUtU3JmSG5iNVNhbEVrZjhYNA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-19 20:52  (2 条)
+
+- **特朗普** | 紧跟特朗普躲“暗杀”，钻后备箱随行：白宫女助理搅动美国舆论 <https://news.google.com/rss/articles/CBMicEFVX3lxTFBzSWN1UDhNdUNvQkpRakJvd1lreEdwOW9feXEwWXdBcmd3VndleDZVb1dvMlppd0RUb3FDcU13ajI4WFBQd0c4Vm9LTmlxM2tINGQyMnQzTXNSMDBpTzdaNkZUYUJtTFR4R0pFMGV6QVY?oc=5>
+- **特朗普** | 特朗普要霍尔木兹，台湾下一个？ <https://news.google.com/rss/articles/CBMiY0FVX3lxTFBUcmhfemJpODA2WnJHcThtZE9wQjVteW01RkxyRTBPbDhzU1hoQ3NqOThfUV9GLTQyUWNPVWh1WEhGVjJWeFRvMXZKdE4xOU1GRWUtU3JmSG5iNVNhbEVrZjhYNA?oc=5>
 
 ### 2026-08-19 20:19  (2 条)
 
