@@ -1,14 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-20 22:19**
-- 本轮扫到 10221 条, 新增 **0** 条
+- 最近更新: **2026-08-20 22:53**
+- 本轮扫到 10223 条, 新增 **2** 条
 
 ---
 
-## 本轮无新增
+## 本轮新发现 (2 条)
 
-数据库里所有演出/动态都已见过,暂无新增。
+### 特朗普预计今年晚些时候会见金正恩
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-08-19 17:00
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE44cGpqdEgxVUJid3RhalVENnZ1MDhNVHRyc0daUjJjVERNVjFkUTZzRzBKRTMtZy1TYWFraHBrU09rV2EwVU9yMVFDdTA1bTdYdlEzNEFHYTRZSG53NVJoVWNtX05ZbHhDTzZXOGZVejJqUGthT3RPZ0I2SXh0RTQ?oc=5>
+
+### 特朗普自豪展示白宫改造“政绩”：花岗岩车道、停机坪重铺-观察者网
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-08-20 06:15
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9zZ0IxeEdNUmtOMmFOT2tad2pTTlUzU2gxSU5FQTk1WDV5NXptNExBQ1lGUVBHSmUtVGx3MUt5LTRnamNURjVadF96U1lNcnRsXy1UT0dZdFZMMWhDY1VZSnZtWi0tYWlBS0E?oc=5>
+
+
+---
+
 ## 历史发现
+
+### 2026-08-20 22:53  (2 条)
+
+- **特朗普** | 特朗普预计今年晚些时候会见金正恩 <https://news.google.com/rss/articles/CBMif0FVX3lxTE44cGpqdEgxVUJid3RhalVENnZ1MDhNVHRyc0daUjJjVERNVjFkUTZzRzBKRTMtZy1TYWFraHBrU09rV2EwVU9yMVFDdTA1bTdYdlEzNEFHYTRZSG53NVJoVWNtX05ZbHhDTzZXOGZVejJqUGthT3RPZ0I2SXh0RTQ?oc=5>
+- **特朗普** | 特朗普自豪展示白宫改造“政绩”：花岗岩车道、停机坪重铺-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE9zZ0IxeEdNUmtOMmFOT2tad2pTTlUzU2gxSU5FQTk1WDV5NXptNExBQ1lGUVBHSmUtVGx3MUt5LTRnamNURjVadF96U1lNcnRsXy1UT0dZdFZMMWhDY1VZSnZtWi0tYWlBS0E?oc=5>
 
 ### 2026-08-20 21:52  (1 条)
 
