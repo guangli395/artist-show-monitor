@@ -1,40 +1,67 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-20 19:10**
-- 本轮扫到 10210 条, 新增 **3** 条
+- 最近更新: **2026-08-20 19:53**
+- 本轮扫到 10216 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (6 条)
 
-### 特朗普政府推进加密货币新规，关键法案在国会受阻
+### 蔡徐坤新歌发布后网友评价如何？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923116_1d5ae15ac06801k0y4.html>
+
+### 蔡徐坤新歌《Old School》的舞蹈难度高吗？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923116_1d5ae15ac06801k0y0.html>
+
+### 蔡徐坤新歌《Old School》的曲风有哪些特点？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923116_1d5ae15ac06801k0xw.html>
+
+### 延后三天，特朗普为何紧急叫停对加拿大加征50%关税
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-20 18:10
-- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeEZrLUhLc0JBWlV1ZmNISHk5a1ZPbmFFRFhGOTdFRzRMdGN1Q0VSYm81LXNTTThDamROTFdLMzlVXzVubW5aSDNQTXBKR3IwU2dWQnA0aVkwSUhwZHlqRThXZDYwakhkMnRSR3JMZEVfZ09MWGp5dUNvdXBmT0c3VVpoclBUcklYS1I5WERWbFA0VnJtcGpJcWJKSjJlLWgxSWtSV29HOUxUV09HU1FMQ1BvTDlEZjlNMk5MYW12M3FkWFUwMGZ2dXlXN2lzcThGSWc?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-08-19 07:08
+- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE5ESTVaOXNkeWttdGllcVlxM1J6S01NdmxtcGtTdWJsWDNGUU9BbTl1cUw5U3BnVnZRXzN4MEUtMDMwMm45TWxfNVhGMGdZRklxU3U2Rzc4d0drVExwd1A1YzJOZTdMVnQyMEd3TG8zTXUtczJmcTdGT1hR?oc=5>
 
-### 特朗普力挺AI 数据中心：反对建设的州和社区将被甩在后面|唐纳德·特朗普|加密货币|美国总统|税收|税收收入_手机新浪网
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-19 23:14
-- 链接: <https://news.google.com/rss/articles/CBMinwFBVV95cUxQWDVObktVN3ZyRGRxcGdiWjFuaVhLMjluWnFIT2FJOWVDWXk5bUlsUUpUODFNSmF6Uks2NTl0WTAtM2ptV3A2WXcyWmNOVC15UXNRNU8zQkhka2lnRjlLZVFoanR2MFhWMlZLX09nNVI4ZU9rRzVjMWV1T1NXZ1oxT0ZhS2MzZHQ2YzFUU0d2Smk2TnZNTTBXOVNESTJIY2M?oc=5>
-
-### 美国陷入战略困境，特朗普又出昏招！
+### 英首相被骗！特朗普发声
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-08-20 13:09
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1IUVpHd2p2TG9YZS1KWWZLQlVQRnRSRGhaY0pHc0x5cGFIZkc3TEY2UzJqVnppaWEyMHVNSnlGVDJ6RDZudlBTdTBIemlqU19XTVpSVnFyUkNYelVQSzFId2hobXdiZlBIS2c?oc=5>
+- 场馆: QQ News
+- 时间: 2026-08-18 13:21
+- 链接: <https://news.google.com/rss/articles/CBMiVkFVX3lxTFBkbVlTVUxMWm5iaDgxTnhwZ2MxWWVqMTlMTWo1SElBenFvMDVsY1hGWGx1Qk5xMy1ud1BXUTc0LXRxS1ZUNzBKdUQ4MFlrcnlYR0FuNkRn?oc=5>
+
+### 特朗普总统宣布对伊朗发起“毁灭性”经济攻势，威胁向德黑兰提供生命线的国家
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-08-20 17:09
+- 链接: <https://news.google.com/rss/articles/CBMi-wFBVV95cUxQVU9tRUdCTVdLVE1ZUnRyZnhpQTdXSldLNTB3UFk5bGotbW1UNXQ0RHhua3hCdEZhU29sR0luWjBaVl9BOXVyMHVjaGVIa1R4aGY4VS1JRW1XUVVFZjJhakxXVVoyZ19KN1NrYmRNNWxhWTdmUmRzaFk4NnhlZnJHVk4xZjZ5d0ZEV2RNeHVXZXA5OVc5WUIteXlJUTl0QTVhMFdYcy1FSFFVOHZ2dUxDZmhQTTlxLUdBY2daUnMxLS1qWlJBa0MzUzJuQmtCdmxUdmdnT0l5M2VzQnNMUWF3OU9iS2VOVUs0TlNudGpzbERYTWNKeVFScHNyY9IB-wFBVV95cUxQVU9tRUdCTVdLVE1ZUnRyZnhpQTdXSldLNTB3UFk5bGotbW1UNXQ0RHhua3hCdEZhU29sR0luWjBaVl9BOXVyMHVjaGVIa1R4aGY4VS1JRW1XUVVFZjJhakxXVVoyZ19KN1NrYmRNNWxhWTdmUmRzaFk4NnhlZnJHVk4xZjZ5d0ZEV2RNeHVXZXA5OVc5WUIteXlJUTl0QTVhMFdYcy1FSFFVOHZ2dUxDZmhQTTlxLUdBY2daUnMxLS1qWlJBa0MzUzJuQmtCdmxUdmdnT0l5M2VzQnNMUWF3OU9iS2VOVUs0TlNudGpzbERYTWNKeVFScHNyYw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-20 19:53  (6 条)
+
+- **蔡徐坤** | 蔡徐坤新歌发布后网友评价如何？ <https://k.sina.com.cn/article_7879923116_1d5ae15ac06801k0y4.html>
+- **蔡徐坤** | 蔡徐坤新歌《Old School》的舞蹈难度高吗？ <https://k.sina.com.cn/article_7879923116_1d5ae15ac06801k0y0.html>
+- **蔡徐坤** | 蔡徐坤新歌《Old School》的曲风有哪些特点？ <https://k.sina.com.cn/article_7879923116_1d5ae15ac06801k0xw.html>
+- **特朗普** | 延后三天，特朗普为何紧急叫停对加拿大加征50%关税 <https://news.google.com/rss/articles/CBMiekFVX3lxTE5ESTVaOXNkeWttdGllcVlxM1J6S01NdmxtcGtTdWJsWDNGUU9BbTl1cUw5U3BnVnZRXzN4MEUtMDMwMm45TWxfNVhGMGdZRklxU3U2Rzc4d0drVExwd1A1YzJOZTdMVnQyMEd3TG8zTXUtczJmcTdGT1hR?oc=5>
+- **特朗普** | 英首相被骗！特朗普发声 <https://news.google.com/rss/articles/CBMiVkFVX3lxTFBkbVlTVUxMWm5iaDgxTnhwZ2MxWWVqMTlMTWo1SElBenFvMDVsY1hGWGx1Qk5xMy1ud1BXUTc0LXRxS1ZUNzBKdUQ4MFlrcnlYR0FuNkRn?oc=5>
+- **特朗普** | 特朗普总统宣布对伊朗发起“毁灭性”经济攻势，威胁向德黑兰提供生命线的国家 <https://news.google.com/rss/articles/CBMi-wFBVV95cUxQVU9tRUdCTVdLVE1ZUnRyZnhpQTdXSldLNTB3UFk5bGotbW1UNXQ0RHhua3hCdEZhU29sR0luWjBaVl9BOXVyMHVjaGVIa1R4aGY4VS1JRW1XUVVFZjJhakxXVVoyZ19KN1NrYmRNNWxhWTdmUmRzaFk4NnhlZnJHVk4xZjZ5d0ZEV2RNeHVXZXA5OVc5WUIteXlJUTl0QTVhMFdYcy1FSFFVOHZ2dUxDZmhQTTlxLUdBY2daUnMxLS1qWlJBa0MzUzJuQmtCdmxUdmdnT0l5M2VzQnNMUWF3OU9iS2VOVUs0TlNudGpzbERYTWNKeVFScHNyY9IB-wFBVV95cUxQVU9tRUdCTVdLVE1ZUnRyZnhpQTdXSldLNTB3UFk5bGotbW1UNXQ0RHhua3hCdEZhU29sR0luWjBaVl9BOXVyMHVjaGVIa1R4aGY4VS1JRW1XUVVFZjJhakxXVVoyZ19KN1NrYmRNNWxhWTdmUmRzaFk4NnhlZnJHVk4xZjZ5d0ZEV2RNeHVXZXA5OVc5WUIteXlJUTl0QTVhMFdYcy1FSFFVOHZ2dUxDZmhQTTlxLUdBY2daUnMxLS1qWlJBa0MzUzJuQmtCdmxUdmdnT0l5M2VzQnNMUWF3OU9iS2VOVUs0TlNudGpzbERYTWNKeVFScHNyYw?oc=5>
 
 ### 2026-08-20 19:10  (3 条)
 
