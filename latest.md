@@ -1,64 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-20 08:29**
-- 本轮扫到 10165 条, 新增 **6** 条
+- 最近更新: **2026-08-20 09:06**
+- 本轮扫到 10168 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (3 条)
 
-### 特朗普宣布：对伊朗采取“史上最严厉经济行动”
+### 比特币和以太币飙升，特朗普敦促国会通过加密货币法案
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: idnfinancials.com
+- 时间: 2026-08-20 08:40
+- 链接: <https://news.google.com/rss/articles/CBMi9wJBVV95cUxPbXZSbTBYd3pWOUVMUjhZSXlidURrZ2hKMUNuV0ttSmY0MjlTcFlJWHVCSUMxanI5MURick1FZXJqeGxBai1BSF83RVRZNk1TZzNwOW0xcEZxekhVeExabl91UUZsVEpwb2hsUzVxTWNJd2hCcWRWTy1mSW8ydG9LTlc0d0lQYU9EOEx5a3pZeEkzYTA0VDhHT0ljNW90ZEJFOVpiQ0FncUFLR3I0dnF1dHFVSmVKY1ZsVTcwQXhNdGluMDh0bXlYZmtTVk9mQ2NMTWJVWmpiWEtMN2xFcVA2akJJeUt1bHJKSkwzLUszNFhxdldwWkxfRFRra2FxUEx0UVBvR2luVV9Nc2hCNTQyM1BxUHhHMDZ2WHJvS2c0RzV4WTJkWDRfNWpYUG4ycDl6V0hTZzhiZHRLaklEZVk0dVEydnFlM2tkeVhId1k0R29ocmstbmt6QWhzbE5hZGkwQWtBX1NhdFJXM3B1c2VEaVlVeXF2cEk?oc=5>
+
+### 马斯克砸亿级资金挺共和党！却难进特朗普核心圈，你看懂了吗？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-08-20 08:44
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE04VG1QZUYxb2ZRdlBuODVFVndzSFBUaDI5bUJBaGtybThpM0JYa1gwaHdJMzM0SzM5ZmhBUE1JbkdhNFRpNmxkM3MtZmRsM24yVHZIVm9hQkVaSWwzV29WM0xuRk5PTXJJTWVOUDRvTld5dw?oc=5>
+
+### 特朗普：预计今年晚些时候会见金正恩
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪军事_手机新浪网
 - 时间: 2026-08-20 06:11
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFBzc3l4Q1NMNXRCQklIT1RUTW1WX2IwUXdKcUs1SVI0RXhfcTk3ZURGZDQ4c2lFTUk5ZUpvUDlxMm44LUxlODN4eDhFS204S1VSSXl0RWFXRmEzUWwwYXZPeFpndVBrUnNjYjctS2V6Qm9VWkk?oc=5>
-
-### 特朗普提名助手担任食品和药物管理局局长
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-08-20 07:48
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBGZU5OSWE2eGo0OG1jY2JIYmJ2MFFjX0RSMjQtTFgxWFJVS2dyZThSZlZCT1VrbEFJZzBhTmdrN1lwc2p2YjNibzNfZTJCS1dfRGhDLWNYYjNLUUtEdE0xVGZYSUdIWU9HaHRJMlhTRzY5WmZabXN3YnNfUkhaM3M?oc=5>
-
-### 人物｜35岁的她突然成华盛顿顶流，特朗普为何对其青睐有加？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-20 01:31
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBaMFVlTDBaYTIzSWhyNVpDTUI0RmowT0ZrNnlMWjNDRlZqMmxydElPM1MzYWloOEhOSDBLNTdkOHBFZEF6LWhwRDRJb2E?oc=5>
-
-### 媒体报道称，特朗普考虑借11月在深圳举办的APEC峰会同金正恩会晤，外交部：不做评论
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 每日经济新闻
-- 时间: 2026-08-20 08:08
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9oZWhMMDhzVS12bnowd1gyc2w0UGNXUTU5S3FjRWQybktnYndxeTlMVXdBUFhqZDIwOFU3bmZsNGVlUGxnNGhLcmowU3hVQ1FmT05ucmItakw0ZmVmeHdZeThNR2NtUQ?oc=5>
-
-### 特朗普：将与金正恩会晤！美军公布最新伤亡人数！霍尔木兹海峡，新消息
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 金融界
-- 时间: 2026-08-20 08:03
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTFBRUzhLb0QxVEZuM1JqU3lUUXl0aThudmZEWXZ1blo1aGk2UDJyaHowX2lhM0F1dmZteGo3TlpWYmwxWWo2WkNIWUxVbXZPUGxua2ptVXFyUDYyaEdicUdTRUVaVUZ4SFJSNlNpYWxyZlJCZUFv?oc=5>
-
-### Oil Gains Further as Trump Threatens to Launch Major Economic Campaign Against Iran -- Market Talk
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-08-20 07:59
-- 链接: <https://news.google.com/rss/articles/CBMirAFBVV95cUxQbEE1SUhpQmptWndHTWxBS2NsUG1zT0ZPejVBMVNWYnpSRUhPRTJwSnd5YVZ6cU8xbGMta1dyYzY0VHpJQWVTS215WHVsZWVqRnRoYmpvUXh0RG9rb0ZPNkFQVmZNazU0cEh5Z2w1U0UtNjlSU1dWUXZrMFozX09aWUtWME9HUlMtSVNtZXlidmN4bGZ6NVFPVzhZZUt4WVhYclVYVXJrVVRwVjdj?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE0wRzdYbENRWnlMdFMxcEhicng1ME9kZ09FQl9oRU5QWUx1akx2dWhqbDZWc00yc2lNR185SGtPTnRDX2g0WDlIOFRQOS1GZHBIRUFfaTNvZE9SUFpfWVBnTXhTaEkyUU85LVJJM0s4MUdwWDA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-20 09:06  (3 条)
+
+- **特朗普** | 比特币和以太币飙升，特朗普敦促国会通过加密货币法案 <https://news.google.com/rss/articles/CBMi9wJBVV95cUxPbXZSbTBYd3pWOUVMUjhZSXlidURrZ2hKMUNuV0ttSmY0MjlTcFlJWHVCSUMxanI5MURick1FZXJqeGxBai1BSF83RVRZNk1TZzNwOW0xcEZxekhVeExabl91UUZsVEpwb2hsUzVxTWNJd2hCcWRWTy1mSW8ydG9LTlc0d0lQYU9EOEx5a3pZeEkzYTA0VDhHT0ljNW90ZEJFOVpiQ0FncUFLR3I0dnF1dHFVSmVKY1ZsVTcwQXhNdGluMDh0bXlYZmtTVk9mQ2NMTWJVWmpiWEtMN2xFcVA2akJJeUt1bHJKSkwzLUszNFhxdldwWkxfRFRra2FxUEx0UVBvR2luVV9Nc2hCNTQyM1BxUHhHMDZ2WHJvS2c0RzV4WTJkWDRfNWpYUG4ycDl6V0hTZzhiZHRLaklEZVk0dVEydnFlM2tkeVhId1k0R29ocmstbmt6QWhzbE5hZGkwQWtBX1NhdFJXM3B1c2VEaVlVeXF2cEk?oc=5>
+- **特朗普** | 马斯克砸亿级资金挺共和党！却难进特朗普核心圈，你看懂了吗？ <https://news.google.com/rss/articles/CBMickFVX3lxTE04VG1QZUYxb2ZRdlBuODVFVndzSFBUaDI5bUJBaGtybThpM0JYa1gwaHdJMzM0SzM5ZmhBUE1JbkdhNFRpNmxkM3MtZmRsM24yVHZIVm9hQkVaSWwzV29WM0xuRk5PTXJJTWVOUDRvTld5dw?oc=5>
+- **特朗普** | 特朗普：预计今年晚些时候会见金正恩 <https://news.google.com/rss/articles/CBMic0FVX3lxTE0wRzdYbENRWnlMdFMxcEhicng1ME9kZ09FQl9oRU5QWUx1akx2dWhqbDZWc00yc2lNR185SGtPTnRDX2g0WDlIOFRQOS1GZHBIRUFfaTNvZE9SUFpfWVBnTXhTaEkyUU85LVJJM0s4MUdwWDA?oc=5>
 
 ### 2026-08-20 08:29  (6 条)
 
