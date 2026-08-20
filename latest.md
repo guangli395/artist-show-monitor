@@ -1,23 +1,13 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-20 21:52**
-- 本轮扫到 10221 条, 新增 **1** 条
+- 最近更新: **2026-08-20 22:19**
+- 本轮扫到 10221 条, 新增 **0** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮无新增
 
-### 特朗普：白宫立法事务主任布雷德将离职；此前特朗普宣布白宫新闻秘书卡罗琳·莱维特将于8月底辞职，以腾出更多时间陪伴家人
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-08-20 15:58
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxOMEQ5ZnlzQVZ1TXRoTm0wRHlQTUJIZUxDQmJUSHprdnRjbzhfdG9TYk55QzFmbEtsQWhwRFFkZXljLXV4NndTV2U3YVBJZm5wU0kxWHZ1STU3S05kanhvb25VYy05a0NHVlhFeTNHYWRtZzNtT0VtY1RrcmRGWkVBQ2VHU3lic1ZhS2tBbA?oc=5>
-
-
----
-
+数据库里所有演出/动态都已见过,暂无新增。
 ## 历史发现
 
 ### 2026-08-20 21:52  (1 条)
