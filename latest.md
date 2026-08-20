@@ -1,14 +1,35 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-20 20:20**
-- 本轮扫到 10216 条, 新增 **0** 条
+- 最近更新: **2026-08-20 20:54**
+- 本轮扫到 10218 条, 新增 **2** 条
 
 ---
 
-## 本轮无新增
+## 本轮新发现 (2 条)
 
-数据库里所有演出/动态都已见过,暂无新增。
+### 原来周董喜欢放空档，周杰伦：演唱会的时候会稍微穿一下
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923704_m1d5ae17f803301wvos.html>
+
+### 特朗普称白宫立法事务主任布雷德将离职
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 搜狐网
+- 时间: 2026-08-20 16:03
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxPckVNMkxsZnYwbzhvVFpoMUZmSUJrREpBUVU5QnVFY1ZCQW8tdkd6NmlSQzh1cjR4cFludFJYOFlVY0UwbE5XblJjQmoyS1N3ZFIxZVZaem8tbUZjcWotWTFyTkkyazFtOURkTjI5elJudlFESmF0QU9hbGdOTU9haWRaV0t0bURY?oc=5>
+
+
+---
+
 ## 历史发现
+
+### 2026-08-20 20:54  (2 条)
+
+- **周杰伦** | 原来周董喜欢放空档，周杰伦：演唱会的时候会稍微穿一下 <https://k.sina.com.cn/article_7879923704_m1d5ae17f803301wvos.html>
+- **特朗普** | 特朗普称白宫立法事务主任布雷德将离职 <https://news.google.com/rss/articles/CBMiiAFBVV95cUxPckVNMkxsZnYwbzhvVFpoMUZmSUJrREpBUVU5QnVFY1ZCQW8tdkd6NmlSQzh1cjR4cFludFJYOFlVY0UwbE5XblJjQmoyS1N3ZFIxZVZaem8tbUZjcWotWTFyTkkyazFtOURkTjI5elJudlFESmF0QU9hbGdOTU9haWRaV0t0bURY?oc=5>
 
 ### 2026-08-20 19:53  (6 条)
 
