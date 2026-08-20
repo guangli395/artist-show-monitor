@@ -1,46 +1,73 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-20 05:02**
-- 本轮扫到 10151 条, 新增 **4** 条
+- 最近更新: **2026-08-20 05:54**
+- 本轮扫到 10157 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (6 条)
 
-### 蔡徐坤演唱会如何演绎old school主题？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776722_1d5abd9d206801fj3k.html>
-
-### 盘前Plus+｜今日重点关注：期指、燃料油 特朗普宣布对伊朗采取“史上最严厉经济行动”
+### 马斯克砸钱力挺特朗普！看似冰释前嫌，实则只是利益交易的过客？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-20 03:50
-- 链接: <https://news.google.com/rss/articles/CBMisAFBVV95cUxOSnB1eWRpbGlIZjBvbDJUWllJS2R1SEZDZ1FQSG1GTDk3OTEyYWNESVNXalVuaXNRVno5U2p6Yk1fTUVzaHFtYllOUnpQeWxCejM3cVJhRzVBdXczazZ4YnBQOUpwODV2WTBSa3ctZGN5QXdZSTRYeW9IMTAzdk1yMmFEanhHMURGU2x5MURIR09WLUJCeU8xVlQ4MkpJOTFIeDVOVHYwV3QxalE5LXhxRg?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-08-20 05:38
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE1FcjNHWHpqSkY4QllTVm1TVlFHX2tfa1dCeS1LcUdWbFFPVDBLMkNKZ3lPc3BVcDNvUzlob3RIaGhxU3BTZUh2WWZQeXV4UnFKTWhEZTZ3SEhCS2RVM1lETElPNnhLZkx6RzVVUnNOcUNWUQ?oc=5>
 
-### 美国民主党议员敦促美联储主席沃什披露与特朗普的通话情况
+### 特朗普“教”美军造航母：废掉电弹还不够，舰岛也得往前移！
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-20 04:32
-- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxNenRaQjYtVFFUT0xSMm5XNnlCUDNhcmVOQndOOGR5M0NpNDE2YTNNX1BVMVV3RzlpOE5JM2Q4M2FPczVYaDVWaXd6a0swQ1lIamVtaDdLZkYyQXhNWWdBRzAwZmFNbjFaSGhxV1o0cVZCdV9xZDlPTzEyWDZoQ0VRUFRBY2lPTXIyMFE?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-08-20 05:50
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE5RbzMxdXRJOUNOb0ptQm1vUlZtX05yRWtxTjdTbjNucjhDSVVyTmdIN0RCME5jdDJKNklnUGdBelhmeE5fU3VMa2tIMUYzS2E3OTlZa24yaUhvRmMxSThIbzhyQ0VSdHNINWs4eGpqcExYUQ?oc=5>
 
-### President Trump To Host Crypto Execs at White House
+### 美州长与特朗普对着干，有人破防：你在“长中国志气”-观察者网
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: CryptoRank
-- 时间: 2026-08-19 19:10
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE9rTGVva1hYbDhTRVN0VmtFa1YzMmZNanlkbjZCNnZVRmlhcGR0UEs1MXA4N1ZMdUtKdkFmVXJTWFF5elJmRTBQRzFyQUtVcU12akZxN25CQW9RVmdBQWZQczJNeW0wZE04WmNJb3JSRzJTanZ1ZFE?oc=5>
+- 场馆: 观察者
+- 时间: 2026-08-19 23:08
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9DQXExUzNNWWIzNl9JZURNRTZjSjEzNDlxZk8wQ1dhTi1MR1oycGZYaG1VNzlSRk04eWhNMi1xei1UWUV6Z1ZaQWpRaHdfMXZUa3RPVXFzd21CWHk0d1VzMXN4c3h4Z1djY0E?oc=5>
+
+### 特朗普：我签署了《天才法案》，法案名字取自本人
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-08-20 05:15
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE4xelNIV1dwZzc0UmUzS3gxNUdTYzR2S05QdjRFYlRwQUVkZDdOVGh1WXNGaXV5dW9PZDJ2LW1SNjEtcTU3RVJaSF9lc3FrYWdKZ2FkcWs0ZnZ4cVJ3MHRmeW95cWFsSDBXbkQybEtvOGU?oc=5>
+
+### 特朗普称预计今年晚些时候会见金正恩
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新京报
+- 时间: 2026-08-19 23:06
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE05SEJVZWhDaFV3VmtKMEJCWG9UZDFIZU9IODdmOEthOUZFMU0yTnlETXJJcVk5Qm10QjVRVzIzeDFKQ1VLVThoZUxSNm9rbHhtTFJnSS1CUjA3d1ZFWjB0MWsxcHk?oc=5>
+
+### 特朗普宣布对伊朗实施“毁灭性经济行动”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-08-20 00:17
+- 链接: <https://news.google.com/rss/articles/CBMid0FVX3lxTFBWMnFJeFZtU0o3OUhUYlVtYlUtVWo3M2tHNXhXVHc4N3B3RG5qMkNrczZrUzZDSEJIOXRwaWdhNGtXUzU0LVFyUlJkWXg3WTRBUmstc19sU2QzaTJrdVQyMnZNT0lPMEo2YjBsRWdhWUtBX2diRU1r?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-20 05:54  (6 条)
+
+- **特朗普** | 马斯克砸钱力挺特朗普！看似冰释前嫌，实则只是利益交易的过客？ <https://news.google.com/rss/articles/CBMickFVX3lxTE1FcjNHWHpqSkY4QllTVm1TVlFHX2tfa1dCeS1LcUdWbFFPVDBLMkNKZ3lPc3BVcDNvUzlob3RIaGhxU3BTZUh2WWZQeXV4UnFKTWhEZTZ3SEhCS2RVM1lETElPNnhLZkx6RzVVUnNOcUNWUQ?oc=5>
+- **特朗普** | 特朗普“教”美军造航母：废掉电弹还不够，舰岛也得往前移！ <https://news.google.com/rss/articles/CBMickFVX3lxTE5RbzMxdXRJOUNOb0ptQm1vUlZtX05yRWtxTjdTbjNucjhDSVVyTmdIN0RCME5jdDJKNklnUGdBelhmeE5fU3VMa2tIMUYzS2E3OTlZa24yaUhvRmMxSThIbzhyQ0VSdHNINWs4eGpqcExYUQ?oc=5>
+- **特朗普** | 美州长与特朗普对着干，有人破防：你在“长中国志气”-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE9DQXExUzNNWWIzNl9JZURNRTZjSjEzNDlxZk8wQ1dhTi1MR1oycGZYaG1VNzlSRk04eWhNMi1xei1UWUV6Z1ZaQWpRaHdfMXZUa3RPVXFzd21CWHk0d1VzMXN4c3h4Z1djY0E?oc=5>
+- **特朗普** | 特朗普：我签署了《天才法案》，法案名字取自本人 <https://news.google.com/rss/articles/CBMicEFVX3lxTE4xelNIV1dwZzc0UmUzS3gxNUdTYzR2S05QdjRFYlRwQUVkZDdOVGh1WXNGaXV5dW9PZDJ2LW1SNjEtcTU3RVJaSF9lc3FrYWdKZ2FkcWs0ZnZ4cVJ3MHRmeW95cWFsSDBXbkQybEtvOGU?oc=5>
+- **特朗普** | 特朗普称预计今年晚些时候会见金正恩 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE05SEJVZWhDaFV3VmtKMEJCWG9UZDFIZU9IODdmOEthOUZFMU0yTnlETXJJcVk5Qm10QjVRVzIzeDFKQ1VLVThoZUxSNm9rbHhtTFJnSS1CUjA3d1ZFWjB0MWsxcHk?oc=5>
+- **特朗普** | 特朗普宣布对伊朗实施“毁灭性经济行动” <https://news.google.com/rss/articles/CBMid0FVX3lxTFBWMnFJeFZtU0o3OUhUYlVtYlUtVWo3M2tHNXhXVHc4N3B3RG5qMkNrczZrUzZDSEJIOXRwaWdhNGtXUzU0LVFyUlJkWXg3WTRBUmstc19sU2QzaTJrdVQyMnZNT0lPMEo2YjBsRWdhWUtBX2diRU1r?oc=5>
 
 ### 2026-08-20 05:02  (4 条)
 
