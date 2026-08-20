@@ -1,48 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-20 15:05**
-- 本轮扫到 10194 条, 新增 **4** 条
+- 最近更新: **2026-08-20 15:57**
+- 本轮扫到 10197 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (3 条)
 
-### 比特币两日暴涨11%，特朗普与加密行业高管为推动《清晰法案》展开最后冲刺
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-20 13:16
-- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVTBEOW5qTnRmWk1fWWNmMWVLcmNzWHRnNWo5VE54QklSeDJYU0gxU2JLeDB5WWRxcVlyTWNJSU03RFpjTFQ5bG1UZnE3dThuaTRYY21kWGdWR3g5dE96OEtuUE9uX3R3NmZacFBNUjBkTGg2RUVSVzBGaXYtbzJqbVprc1gwbjRLYnlaVi1HVGlhdE96dndfeDVXZlJlaTIybHFndDZVVkQ1a0RyWnBRbDRTMGVPMTB3UDJZc1hGYUlaSmdRMUY5eUNidTVjU1dBNHRJN0NLekd5V243b0E?oc=5>
-
-### 刚刚，特朗普出手，比特币涨超11%
+### 特朗普对伊威胁可能会对中国产生影响？外交部回应
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网财经
-- 时间: 2026-08-20 10:05
-- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE9KY2VRQlczTmVsZUpMSHV1el9aX1FWNGNuV1d0V3dUOUNiajEwNFlERmU3TU9LbzNyMW5INmN0LUxSUm9kY2NGYmN1NUZrYTE5?oc=5>
+- 场馆: 新浪军事
+- 时间: 2026-08-20 15:27
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5oRjNKSF9WV0cwWTZQbUEwbjF0eWdkbHZVeUJvNmMtcTd4d2FidTFwMnJtWG10RHVxR2tDNkFXTlJCUS01QVlvUU1MUWhWZ1hQMDVEcmxKOU4yWWF6TWVSa1htdndFbzlGVExvRjV1dHJZSEU?oc=5>
 
-### 特朗普提名助手担任食品和药物管理局局长
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-08-20 07:48
-- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE53TnNmb25rbkRmcE5saGliOVhNcWZyMDFDSnNGcTBwN3BpNl9NRlRCc2hpNVZNaGdiUWtTdzIyLUpMQmhWc2piV05LZ1F5c1dRRjBDTHZ2SDVtRHJFWVk2S2dLZWQyMU1SV1YxWmNydnA5QU01QWhmWm0xc0E2UQ?oc=5>
-
-### 延后三天，特朗普为何紧急叫停对加拿大加征50%关税
+### 特朗普说白宫立法事务主任布雷德将离职
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-08-19 07:08
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTFBaTVFRMFFvV1VtWWFhTU5Bb1Q5UENlYWhFdTcyMkVfMkk5SnZZWUJBNTdhbzBGbExXU2VuZVJkX3hDYlRFUzJHMFdxNHRKMG9KUWRkQ2hTbzRVRWdISVpVTXhBU1F4RXREN2tnNVVwOUcteEM3?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-08-20 15:14
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1wSEh0WWJvVWZSWnc4bnpJY05Hc0I5enAySGRfMU1zR2NObkVZY3pjdDNHOVVKZjdOemN0MUxrMUdpMk11dVZRc0ZlRGk?oc=5>
+
+### Dow Jones Top Markets Headlines at 11 AM ET: Trump Threatens Iran With 'Economic D-Day' | Stocks ...
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-08-20 15:08
+- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxNUmloZlg3aGF0ZkhPcWhJQmhUMFJxeHNWTnBtVmJmWGNMSzdaYmxHdjB1TDNKNVFWOFdfc2F1MGpnbV96cER5cEZHTXNNRmxURUJTMDJhZU83a0VhS3VjY21LdWJBblU4S3VzdkVxX3NDMXZVUWdTSFNiNEpxcmVhRG9uWV9OeW00SEpfVVJXUjJFeHBndm4zS0VXTWQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-20 15:57  (3 条)
+
+- **特朗普** | 特朗普对伊威胁可能会对中国产生影响？外交部回应 <https://news.google.com/rss/articles/CBMic0FVX3lxTE5oRjNKSF9WV0cwWTZQbUEwbjF0eWdkbHZVeUJvNmMtcTd4d2FidTFwMnJtWG10RHVxR2tDNkFXTlJCUS01QVlvUU1MUWhWZ1hQMDVEcmxKOU4yWWF6TWVSa1htdndFbzlGVExvRjV1dHJZSEU?oc=5>
+- **特朗普** | 特朗普说白宫立法事务主任布雷德将离职 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1wSEh0WWJvVWZSWnc4bnpJY05Hc0I5enAySGRfMU1zR2NObkVZY3pjdDNHOVVKZjdOemN0MUxrMUdpMk11dVZRc0ZlRGk?oc=5>
+- **Trump** | Dow Jones Top Markets Headlines at 11 AM ET: Trump Threatens Iran With 'Economic D-Day' | Stocks ... <https://news.google.com/rss/articles/CBMinAFBVV95cUxNUmloZlg3aGF0ZkhPcWhJQmhUMFJxeHNWTnBtVmJmWGNMSzdaYmxHdjB1TDNKNVFWOFdfc2F1MGpnbV96cER5cEZHTXNNRmxURUJTMDJhZU83a0VhS3VjY21LdWJBblU4S3VzdkVxX3NDMXZVUWdTSFNiNEpxcmVhRG9uWV9OeW00SEpfVVJXUjJFeHBndm4zS0VXTWQ?oc=5>
 
 ### 2026-08-20 15:05  (4 条)
 
