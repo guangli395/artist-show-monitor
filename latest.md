@@ -1,56 +1,53 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-20 04:05**
-- 本轮扫到 10147 条, 新增 **5** 条
+- 最近更新: **2026-08-20 05:02**
+- 本轮扫到 10151 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (4 条)
 
-### 特朗普斥14亿部署国民警卫队“打击犯罪”，执法成效微弱-观察者网
+### 蔡徐坤演唱会如何演绎old school主题？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-08-20 02:40
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1LdW1CNFpDNGkxMy1uN1BBTTh5LXJta1BRZXpERy1sZXdTRzJ1cWVDaEpsS1NyWE1lajZLZzR5aVBLbWowS2p6LWVNQmduMnRlUENsZGRQYmRlZF84aDFSTU5OMEMtR3Rmb1E?oc=5>
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776722_1d5abd9d206801fj3k.html>
 
-### 民调显示特朗普千禧一代支持率下滑，前盟友：已不记得上次有人戴MAGA帽是何时
+### 盘前Plus+｜今日重点关注：期指、燃料油 特朗普宣布对伊朗采取“史上最严厉经济行动”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-08-20 03:59
-- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTFByTGtYMzRXS3d1NDFwMm9WRnRnbU9YX29CX202REh6N3NZb0JrRlh0WXlPUVIzcm5zRFdrRnRkT0dCdmtnVjNtTDg5bXJnZURDOWVUd0xoT3pWdklKUXBNbnRab2thY3F4YlRnVFROTHFYSmtRV2wwT3NvZHhSZw?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-20 03:50
+- 链接: <https://news.google.com/rss/articles/CBMisAFBVV95cUxOSnB1eWRpbGlIZjBvbDJUWllJS2R1SEZDZ1FQSG1GTDk3OTEyYWNESVNXalVuaXNRVno5U2p6Yk1fTUVzaHFtYllOUnpQeWxCejM3cVJhRzVBdXczazZ4YnBQOUpwODV2WTBSa3ctZGN5QXdZSTRYeW9IMTAzdk1yMmFEanhHMURGU2x5MURIR09WLUJCeU8xVlQ4MkpJOTFIeDVOVHYwV3QxalE5LXhxRg?oc=5>
 
-### 特朗普：下周将与“AI领军人物”会面
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: finance.ifeng.com
-- 时间: 2026-08-20 02:35
-- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTFByejNRM2Vqb0pjUHd3aElYbEp5cTlyX05xc0RKdF83azlkendRZFhUNTd2UlJudTlYQ3Y0c0JTaTNoOVBBOEQ3SFJ5dWNiZ3NL?oc=5>
-
-### 特朗普向记者展示白宫新建直升机停机坪：从任何角度看都叹为观止，它将用于诸多庆祝活动与大型会议；预估费用最高约600万美元
+### 美国民主党议员敦促美联储主席沃什披露与特朗普的通话情况
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: news.china.com
-- 时间: 2026-08-20 03:55
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBKc1VLNGY2NHZhZ3JXTDRfejE5anFBVHF6bVhlYmZNMVVyclM5d1FXenBmZi0wZHlpSllrTThmV19Mb3JqSHZnNWl4Tk1LUjg1eGNoZ1VJZmRudzY5Wm5IMVQ2a2k4aEhKX09YUFYwV2s?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-20 04:32
+- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxNenRaQjYtVFFUT0xSMm5XNnlCUDNhcmVOQndOOGR5M0NpNDE2YTNNX1BVMVV3RzlpOE5JM2Q4M2FPczVYaDVWaXd6a0swQ1lIamVtaDdLZkYyQXhNWWdBRzAwZmFNbjFaSGhxV1o0cVZCdV9xZDlPTzEyWDZoQ0VRUFRBY2lPTXIyMFE?oc=5>
 
-### 特朗普提名助手奥弗顿出任美国食品和药物管理局局长：她会助推我的“美国优先”政策；奥弗顿对堕胎药持批评态度，或改变相关政策
+### President Trump To Host Crypto Execs at White House
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-08-20 03:14
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxQYklvTDBPQUc5Q0xuc3IwdlJBQy1QMlBYWVJWbTBSWFUxcUgzRUVjbDFGZkFaNDVRbUpMaXJEUGFpMUw1dVJ4QkNBY1RTTGF0THVCcTgtSG5EaURqcGVJdVZSR05vNzBNeDdkQW9ZZGd1eFYyb2NjckxKdDduQ0p5ZWROREp3XzNNd3ZBSQ?oc=5>
+- 场馆: CryptoRank
+- 时间: 2026-08-19 19:10
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE9rTGVva1hYbDhTRVN0VmtFa1YzMmZNanlkbjZCNnZVRmlhcGR0UEs1MXA4N1ZMdUtKdkFmVXJTWFF5elJmRTBQRzFyQUtVcU12akZxN25CQW9RVmdBQWZQczJNeW0wZE04WmNJb3JSRzJTanZ1ZFE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-20 05:02  (4 条)
+
+- **蔡徐坤** | 蔡徐坤演唱会如何演绎old school主题？ <https://k.sina.com.cn/article_7879776722_1d5abd9d206801fj3k.html>
+- **特朗普** | 盘前Plus+｜今日重点关注：期指、燃料油 特朗普宣布对伊朗采取“史上最严厉经济行动” <https://news.google.com/rss/articles/CBMisAFBVV95cUxOSnB1eWRpbGlIZjBvbDJUWllJS2R1SEZDZ1FQSG1GTDk3OTEyYWNESVNXalVuaXNRVno5U2p6Yk1fTUVzaHFtYllOUnpQeWxCejM3cVJhRzVBdXczazZ4YnBQOUpwODV2WTBSa3ctZGN5QXdZSTRYeW9IMTAzdk1yMmFEanhHMURGU2x5MURIR09WLUJCeU8xVlQ4MkpJOTFIeDVOVHYwV3QxalE5LXhxRg?oc=5>
+- **特朗普** | 美国民主党议员敦促美联储主席沃什披露与特朗普的通话情况 <https://news.google.com/rss/articles/CBMiigFBVV95cUxNenRaQjYtVFFUT0xSMm5XNnlCUDNhcmVOQndOOGR5M0NpNDE2YTNNX1BVMVV3RzlpOE5JM2Q4M2FPczVYaDVWaXd6a0swQ1lIamVtaDdLZkYyQXhNWWdBRzAwZmFNbjFaSGhxV1o0cVZCdV9xZDlPTzEyWDZoQ0VRUFRBY2lPTXIyMFE?oc=5>
+- **Trump** | President Trump To Host Crypto Execs at White House <https://news.google.com/rss/articles/CBMidkFVX3lxTE9rTGVva1hYbDhTRVN0VmtFa1YzMmZNanlkbjZCNnZVRmlhcGR0UEs1MXA4N1ZMdUtKdkFmVXJTWFF5elJmRTBQRzFyQUtVcU12akZxN25CQW9RVmdBQWZQczJNeW0wZE04WmNJb3JSRzJTanZ1ZFE?oc=5>
 
 ### 2026-08-20 04:05  (5 条)
 
