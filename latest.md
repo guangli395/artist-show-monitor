@@ -1,40 +1,35 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-20 09:59**
-- 本轮扫到 10171 条, 新增 **3** 条
+- 最近更新: **2026-08-20 10:34**
+- 本轮扫到 10173 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (2 条)
 
-### 紧跟特朗普躲“暗杀”，钻后备箱随行：白宫女助理搅动美国舆论
+### 蔡徐坤为什么在演唱会上强调old school？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-08-19 14:17
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9ZclBPZk1fanFxQmduOG93WjRYQ3pmMjVpdlQxcTN4Y01LeTBnVkFpcHNmcVM1c0x3Yzl3Q3FtenNpY2pmY0JYTWVTRzF6aUU5VklQbkFyZEJfVl9UdWs5eFEwZkU4QmtmVzNncm9LblhuSklRSWxNZQ?oc=5>
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801jp04.html>
 
-### 特朗普签令弃电磁弹射改蒸汽，中美航母竞赛走向如何？
+### 就因不好看就对航母下刀！特朗普这通折腾，反倒给中国提了个大醒
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪网
-- 时间: 2026-08-20 09:55
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE1uMERZZXNhNzltb1h1ZnE5aEIwcDZBSjlYMmRhNjZQT3JsaU5adE9WRVRFOUFBQl8wM3NuVkZ5ck9SRHdfLXoycWNMYUhfNzI1NklnZ3NCOGMtZk1JNFVDSkNTX1JWaWdySWRqellPN0o0dw?oc=5>
-
-### Trump对伊朗启动“史无前例的经济孤立”行动……施压第三国- 阿视亚经济
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 아시아경제
-- 时间: 2026-08-20 08:55
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE04MHRRMno4bkotbzlaQzFiZDNtVzM4NUZfZlRXZDFQYnZrOGdfOVVSZHN2dkZzOGJ3YXBGTXphR1g2TTJDYlpyMHRJNjNncl9PMms0TThOb1lEZGdsR19FRTZNV1o?oc=5>
+- 时间: 2026-08-20 10:33
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE54UWU4QnB1Q0J3LXVLQWhGdU9aRXJYZ1c1S0laYTRuMVJBNlV0M29aU3dpTHRSMDFFQXRvS1lEeUJadFpGd0g5UDVlWG1MOHBvSHZUNkpVd09NMlYxTHF3dDlhVW9GejdiTkptVjVzMzFaOWM?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-20 10:34  (2 条)
+
+- **蔡徐坤** | 蔡徐坤为什么在演唱会上强调old school？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801jp04.html>
+- **特朗普** | 就因不好看就对航母下刀！特朗普这通折腾，反倒给中国提了个大醒 <https://news.google.com/rss/articles/CBMic0FVX3lxTE54UWU4QnB1Q0J3LXVLQWhGdU9aRXJYZ1c1S0laYTRuMVJBNlV0M29aU3dpTHRSMDFFQXRvS1lEeUJadFpGd0g5UDVlWG1MOHBvSHZUNkpVd09NMlYxTHF3dDlhVW9GejdiTkptVjVzMzFaOWM?oc=5>
 
 ### 2026-08-20 09:59  (3 条)
 
