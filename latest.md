@@ -1,24 +1,35 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-20 23:19**
-- 本轮扫到 10224 条, 新增 **1** 条
+- 最近更新: **2026-08-20 23:48**
+- 本轮扫到 10226 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮新发现 (2 条)
 
-### 特朗普签署备忘录以促进美航天发射 探索商业机器人登陆火星
+### 周杰伦南京站演唱会门票多少钱？350万人抢10秒售罄，想买只能这样+FAQ
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879777066_1d5abdb2a06801x0lw.html>
+
+### 特朗普砸30亿美元能复兴美国矿产业吗 一场必败的豪赌
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-08-20 23:10
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFA4MUczYzZMTmhia0EzV2RQdlZHTnNmcnBqczZsVTVZQjlzVkpOZTBqLTNiWWtVcEtNeG03RnhCd1E4YU8wY3JVR3NIWEVKYlRmMXZzZldQRGZjOXlTWmRWbWZOcTdmMmJwNE5JMHBfdWs?oc=5>
+- 场馆: 中华军事
+- 时间: 2026-08-20 23:23
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBsR0pSVFA5UWhQNHl2LWFjRy1lMDVReEtuN3BrRlpwcDlLdkxIYWcyaHpnUjlFVWNkTkNUbmo1d1ozUXZWQmlzdnBtSmJXYm0yb3cteG5YVm5sbTNuaFBjQ05sQU1qTWRwcnRPYmRvZGg?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-20 23:48  (2 条)
+
+- **周杰伦** | 周杰伦南京站演唱会门票多少钱？350万人抢10秒售罄，想买只能这样+FAQ <https://k.sina.com.cn/article_7879777066_1d5abdb2a06801x0lw.html>
+- **特朗普** | 特朗普砸30亿美元能复兴美国矿产业吗 一场必败的豪赌 <https://news.google.com/rss/articles/CBMicEFVX3lxTFBsR0pSVFA5UWhQNHl2LWFjRy1lMDVReEtuN3BrRlpwcDlLdkxIYWcyaHpnUjlFVWNkTkNUbmo1d1ozUXZWQmlzdnBtSmJXYm0yb3cteG5YVm5sbTNuaFBjQ05sQU1qTWRwcnRPYmRvZGg?oc=5>
 
 ### 2026-08-20 23:19  (1 条)
 
