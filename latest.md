@@ -1,40 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-20 14:28**
-- 本轮扫到 10190 条, 新增 **3** 条
+- 最近更新: **2026-08-20 15:05**
+- 本轮扫到 10194 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (4 条)
 
-### 特朗普威胁对伊朗实施经济行动 国际油价上涨超2%
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 央视网
-- 时间: 2026-08-20 12:41
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBDRzJQRHJuYnEwQmhiUXlyQndDNUJhRC15VTQzU3FYVDRWUzZtN1NfQldWMm51Ukc4UHd2TXpPdDdfWjBHMk5WLVRvZVJ1NTQxb2RwWG5DR2VfMFFRNjNwR2twQVRHX1VKZ1AzekJsVkhpVE9xZmp5dw?oc=5>
-
-### 特朗普力挺AI数据中心：反对建设的州和社区将被甩在后面
+### 比特币两日暴涨11%，特朗普与加密行业高管为推动《清晰法案》展开最后冲刺
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-08-20 12:45
-- 链接: <https://news.google.com/rss/articles/CBMisgFBVV95cUxQcmRUNXJYc0tadDJmYlN2NVlhal8yUHpJM3NXREI4VVlMWDZZcTFNMXhmU3dDMnBLbXhucmtldUEzRUF5NjBLY0dmT3RDQ0xUX1VsQWdxeE05alRlVUh3QlNHLW1hZzR4NFJLNEI0bmthVkdTUlQ2TzR2Z1paREFiclhuNnV0dnh5Z3NuNVNSSndMQUhhc3R2NWtmX0ZRTHB0UUpXOExsM0ZtSi1sTEl5WGVn?oc=5>
+- 时间: 2026-08-20 13:16
+- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVTBEOW5qTnRmWk1fWWNmMWVLcmNzWHRnNWo5VE54QklSeDJYU0gxU2JLeDB5WWRxcVlyTWNJSU03RFpjTFQ5bG1UZnE3dThuaTRYY21kWGdWR3g5dE96OEtuUE9uX3R3NmZacFBNUjBkTGg2RUVSVzBGaXYtbzJqbVprc1gwbjRLYnlaVi1HVGlhdE96dndfeDVXZlJlaTIybHFndDZVVkQ1a0RyWnBRbDRTMGVPMTB3UDJZc1hGYUlaSmdRMUY5eUNidTVjU1dBNHRJN0NLekd5V243b0E?oc=5>
 
-### 特朗普称将会见金正恩 外交部回应
+### 刚刚，特朗普出手，比特币涨超11%
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-08-20 06:18
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Rdkl0SDVkUERCeUVubEVhc3JoZWRWTDFtWDkwMmQtdjNJaVgxaklRajhmWXFyTExUZHo0QTB2bFRMc2R3bERYSFpNSmZQMEZsNXUzRGVpckd1ck5ZZkhOeg?oc=5>
+- 场馆: 凤凰网财经
+- 时间: 2026-08-20 10:05
+- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE9KY2VRQlczTmVsZUpMSHV1el9aX1FWNGNuV1d0V3dUOUNiajEwNFlERmU3TU9LbzNyMW5INmN0LUxSUm9kY2NGYmN1NUZrYTE5?oc=5>
+
+### 特朗普提名助手担任食品和药物管理局局长
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-08-20 07:48
+- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE53TnNmb25rbkRmcE5saGliOVhNcWZyMDFDSnNGcTBwN3BpNl9NRlRCc2hpNVZNaGdiUWtTdzIyLUpMQmhWc2piV05LZ1F5c1dRRjBDTHZ2SDVtRHJFWVk2S2dLZWQyMU1SV1YxWmNydnA5QU01QWhmWm0xc0E2UQ?oc=5>
+
+### 延后三天，特朗普为何紧急叫停对加拿大加征50%关税
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-08-19 07:08
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTFBaTVFRMFFvV1VtWWFhTU5Bb1Q5UENlYWhFdTcyMkVfMkk5SnZZWUJBNTdhbzBGbExXU2VuZVJkX3hDYlRFUzJHMFdxNHRKMG9KUWRkQ2hTbzRVRWdISVpVTXhBU1F4RXREN2tnNVVwOUcteEM3?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-20 15:05  (4 条)
+
+- **特朗普** | 比特币两日暴涨11%，特朗普与加密行业高管为推动《清晰法案》展开最后冲刺 <https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVTBEOW5qTnRmWk1fWWNmMWVLcmNzWHRnNWo5VE54QklSeDJYU0gxU2JLeDB5WWRxcVlyTWNJSU03RFpjTFQ5bG1UZnE3dThuaTRYY21kWGdWR3g5dE96OEtuUE9uX3R3NmZacFBNUjBkTGg2RUVSVzBGaXYtbzJqbVprc1gwbjRLYnlaVi1HVGlhdE96dndfeDVXZlJlaTIybHFndDZVVkQ1a0RyWnBRbDRTMGVPMTB3UDJZc1hGYUlaSmdRMUY5eUNidTVjU1dBNHRJN0NLekd5V243b0E?oc=5>
+- **特朗普** | 刚刚，特朗普出手，比特币涨超11% <https://news.google.com/rss/articles/CBMiUEFVX3lxTE9KY2VRQlczTmVsZUpMSHV1el9aX1FWNGNuV1d0V3dUOUNiajEwNFlERmU3TU9LbzNyMW5INmN0LUxSUm9kY2NGYmN1NUZrYTE5?oc=5>
+- **特朗普** | 特朗普提名助手担任食品和药物管理局局长 <https://news.google.com/rss/articles/CBMifkFVX3lxTE53TnNmb25rbkRmcE5saGliOVhNcWZyMDFDSnNGcTBwN3BpNl9NRlRCc2hpNVZNaGdiUWtTdzIyLUpMQmhWc2piV05LZ1F5c1dRRjBDTHZ2SDVtRHJFWVk2S2dLZWQyMU1SV1YxWmNydnA5QU01QWhmWm0xc0E2UQ?oc=5>
+- **特朗普** | 延后三天，特朗普为何紧急叫停对加拿大加征50%关税 <https://news.google.com/rss/articles/CBMidEFVX3lxTFBaTVFRMFFvV1VtWWFhTU5Bb1Q5UENlYWhFdTcyMkVfMkk5SnZZWUJBNTdhbzBGbExXU2VuZVJkX3hDYlRFUzJHMFdxNHRKMG9KUWRkQ2hTbzRVRWdISVpVTXhBU1F4RXREN2tnNVVwOUcteEM3?oc=5>
 
 ### 2026-08-20 14:28  (3 条)
 
