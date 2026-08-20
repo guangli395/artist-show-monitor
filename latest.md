@@ -1,14 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-20 18:28**
-- 本轮扫到 10207 条, 新增 **0** 条
+- 最近更新: **2026-08-20 19:10**
+- 本轮扫到 10210 条, 新增 **3** 条
 
 ---
 
-## 本轮无新增
+## 本轮新发现 (3 条)
 
-数据库里所有演出/动态都已见过,暂无新增。
+### 特朗普政府推进加密货币新规，关键法案在国会受阻
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-20 18:10
+- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeEZrLUhLc0JBWlV1ZmNISHk5a1ZPbmFFRFhGOTdFRzRMdGN1Q0VSYm81LXNTTThDamROTFdLMzlVXzVubW5aSDNQTXBKR3IwU2dWQnA0aVkwSUhwZHlqRThXZDYwakhkMnRSR3JMZEVfZ09MWGp5dUNvdXBmT0c3VVpoclBUcklYS1I5WERWbFA0VnJtcGpJcWJKSjJlLWgxSWtSV29HOUxUV09HU1FMQ1BvTDlEZjlNMk5MYW12M3FkWFUwMGZ2dXlXN2lzcThGSWc?oc=5>
+
+### 特朗普力挺AI 数据中心：反对建设的州和社区将被甩在后面|唐纳德·特朗普|加密货币|美国总统|税收|税收收入_手机新浪网
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-19 23:14
+- 链接: <https://news.google.com/rss/articles/CBMinwFBVV95cUxQWDVObktVN3ZyRGRxcGdiWjFuaVhLMjluWnFIT2FJOWVDWXk5bUlsUUpUODFNSmF6Uks2NTl0WTAtM2ptV3A2WXcyWmNOVC15UXNRNU8zQkhka2lnRjlLZVFoanR2MFhWMlZLX09nNVI4ZU9rRzVjMWV1T1NXZ1oxT0ZhS2MzZHQ2YzFUU0d2Smk2TnZNTTBXOVNESTJIY2M?oc=5>
+
+### 美国陷入战略困境，特朗普又出昏招！
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-08-20 13:09
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1IUVpHd2p2TG9YZS1KWWZLQlVQRnRSRGhaY0pHc0x5cGFIZkc3TEY2UzJqVnppaWEyMHVNSnlGVDJ6RDZudlBTdTBIemlqU19XTVpSVnFyUkNYelVQSzFId2hobXdiZlBIS2c?oc=5>
+
+
+---
+
 ## 历史发现
+
+### 2026-08-20 19:10  (3 条)
+
+- **特朗普** | 特朗普政府推进加密货币新规，关键法案在国会受阻 <https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeEZrLUhLc0JBWlV1ZmNISHk5a1ZPbmFFRFhGOTdFRzRMdGN1Q0VSYm81LXNTTThDamROTFdLMzlVXzVubW5aSDNQTXBKR3IwU2dWQnA0aVkwSUhwZHlqRThXZDYwakhkMnRSR3JMZEVfZ09MWGp5dUNvdXBmT0c3VVpoclBUcklYS1I5WERWbFA0VnJtcGpJcWJKSjJlLWgxSWtSV29HOUxUV09HU1FMQ1BvTDlEZjlNMk5MYW12M3FkWFUwMGZ2dXlXN2lzcThGSWc?oc=5>
+- **特朗普** | 特朗普力挺AI 数据中心：反对建设的州和社区将被甩在后面|唐纳德·特朗普|加密货币|美国总统|税收|税收收入_手机新浪网 <https://news.google.com/rss/articles/CBMinwFBVV95cUxQWDVObktVN3ZyRGRxcGdiWjFuaVhLMjluWnFIT2FJOWVDWXk5bUlsUUpUODFNSmF6Uks2NTl0WTAtM2ptV3A2WXcyWmNOVC15UXNRNU8zQkhka2lnRjlLZVFoanR2MFhWMlZLX09nNVI4ZU9rRzVjMWV1T1NXZ1oxT0ZhS2MzZHQ2YzFUU0d2Smk2TnZNTTBXOVNESTJIY2M?oc=5>
+- **特朗普** | 美国陷入战略困境，特朗普又出昏招！ <https://news.google.com/rss/articles/CBMiakFVX3lxTE1IUVpHd2p2TG9YZS1KWWZLQlVQRnRSRGhaY0pHc0x5cGFIZkc3TEY2UzJqVnppaWEyMHVNSnlGVDJ6RDZudlBTdTBIemlqU19XTVpSVnFyUkNYelVQSzFId2hobXdiZlBIS2c?oc=5>
 
 ### 2026-08-20 17:54  (2 条)
 
