@@ -1,48 +1,60 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-20 00:52**
-- 本轮扫到 10130 条, 新增 **4** 条
+- 最近更新: **2026-08-20 02:13**
+- 本轮扫到 10135 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (5 条)
 
-### 特朗普宣布对伊朗采取“史上最严厉经济行动”
+### 蔡徐坤为什么选择在演唱会上致敬old school文化？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 央视网
-- 时间: 2026-08-19 23:25
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZM0RLN2RsNkZlX0RrbDBCYjBPOTV3alEyUVpaX2t5bnJwMW0xRnVOYmd5dEJwa0tnaGRRWW1MVHU4cTRqWHRtMlFfYnlFMFdybXRuRVprclUwUzlwd0RnT0JWRU1peVd6dEp2Yk1lTjJKbHZ6b2lzbQ?oc=5>
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879849291_1d5acf54b06801isiy.html>
 
-### 特朗普宣布：对伊朗采取有史以来最具破坏性的经济行动
+### 于文文边界世界巡回演唱会，走出自己的路不随波逐流
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-19 23:09
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE81QWJaS1htQkNIVUVBODhrSEZHaXJEN2cyYzMxbFRIVTdpM0Y2QnE5NUFjdEdPODBtM1B5UGJFcGdVcXNhYzkxd08zZ04?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923704_m1d5ae17f803301wvbu.html>
 
-### 特朗普施压伊朗经济的计划成败系于迪拜
+### 特朗普被曝对伊战略发生转变 放弃军事行动改打经济战
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-08-19 23:53
-- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxPTEJzc28xaHhUVGdzc3FnbEJQSGNDRF91VW9nYnVmdEJHY09QZGVyeWJsWUpvc2FiS1RZTmpjUTdGVFVzbXJnaFFKNWlVLXVhT1JyQUNzcklDQWlZRkdsVFRWaS1iZUN0S2I5NkZ4Wk40OUljSUJ1aF9QMzlMR3FsMDBIQm5vQVczeXBITDZSeXF5aUtDTm12QjdHNmp4OUZ5?oc=5>
+- 场馆: 财新
+- 时间: 2026-08-19 10:29
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5hVjdpYUEwamY0cEtta2NmYTlNZF9DdGZERjd0SW5ycFowajZPSnlTY0xQTU80OGoyaFRlU1NPMmxtWmZOZnNDTXM2VXhnVlJ0U1luOENEYlJlY1p3N0FXUElZc19LQXVLOGc?oc=5>
 
-### 美国观点：债券市场崩盘，特朗普彻底慌了
+### 特朗普：预计今年晚些时候会见金正恩，“我们关系很融洽”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: video.sina.com.cn
-- 时间: 2026-08-20 00:00
-- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxNRHpRZk1VeUVCTm1GTWNxdTM2YmJpT1JtNlNrcTZqU2ZHTVRyVWszWVVBZzNpcVgwUFg3dnJOdXBEMjZHNzFvUmhHOVI5Z1lPdGQ4NWQ5TExoMExiQ0JmQXRFQ1Q1S2pKRkNEX2J5empLZGZRTEkzN3ltN1IzX0gtZlZR?oc=5>
+- 场馆: guancha.cn
+- 时间: 2026-08-19 23:46
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1XOVNyM2RKTDcwMm5jcDVfT1JVLWpzczM1WEpZdXNZSl9LMHlCREM1cWV5QzBSQ2s2NGQ1bTBjQk1CMVNjdllkQ0VXY1FEc2xSeGZTNXY3MzhDZmVXM242OVpwRTFXSVNHbkE?oc=5>
+
+### 特朗普和平计划陷信任危机：访以次日，以色列空袭加沙
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 手机网易网
+- 时间: 2026-08-19 03:33
+- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE9sQkkxYmc4OXlCTXBWRm1KQlZnUzVTYVNNeXZSdnJzRW1wOUJ4UXJTeElsbVIzNXlRWTNyakFtb09RUFZnZFZtSy01NlJtMXEwZWhOZW5LbHFVTGxrbFRkS0J3?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-20 02:13  (5 条)
+
+- **蔡徐坤** | 蔡徐坤为什么选择在演唱会上致敬old school文化？ <https://k.sina.com.cn/article_7879849291_1d5acf54b06801isiy.html>
+- **周杰伦** | 于文文边界世界巡回演唱会，走出自己的路不随波逐流 <https://k.sina.com.cn/article_7879923704_m1d5ae17f803301wvbu.html>
+- **特朗普** | 特朗普被曝对伊战略发生转变 放弃军事行动改打经济战 <https://news.google.com/rss/articles/CBMiakFVX3lxTE5hVjdpYUEwamY0cEtta2NmYTlNZF9DdGZERjd0SW5ycFowajZPSnlTY0xQTU80OGoyaFRlU1NPMmxtWmZOZnNDTXM2VXhnVlJ0U1luOENEYlJlY1p3N0FXUElZc19LQXVLOGc?oc=5>
+- **特朗普** | 特朗普：预计今年晚些时候会见金正恩，“我们关系很融洽” <https://news.google.com/rss/articles/CBMiakFVX3lxTE1XOVNyM2RKTDcwMm5jcDVfT1JVLWpzczM1WEpZdXNZSl9LMHlCREM1cWV5QzBSQ2s2NGQ1bTBjQk1CMVNjdllkQ0VXY1FEc2xSeGZTNXY3MzhDZmVXM242OVpwRTFXSVNHbkE?oc=5>
+- **特朗普** | 特朗普和平计划陷信任危机：访以次日，以色列空袭加沙 <https://news.google.com/rss/articles/CBMiYkFVX3lxTE9sQkkxYmc4OXlCTXBWRm1KQlZnUzVTYVNNeXZSdnJzRW1wOUJ4UXJTeElsbVIzNXlRWTNyakFtb09RUFZnZFZtSy01NlJtMXEwZWhOZW5LbHFVTGxrbFRkS0J3?oc=5>
 
 ### 2026-08-20 00:52  (4 条)
 
