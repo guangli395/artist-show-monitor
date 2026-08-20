@@ -1,52 +1,82 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-20 02:13**
-- 本轮扫到 10135 条, 新增 **5** 条
+- 最近更新: **2026-08-20 03:23**
+- 本轮扫到 10142 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (7 条)
 
-### 蔡徐坤为什么选择在演唱会上致敬old school文化？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849291_1d5acf54b06801isiy.html>
-
-### 于文文边界世界巡回演唱会，走出自己的路不随波逐流
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923704_m1d5ae17f803301wvbu.html>
-
-### 特朗普被曝对伊战略发生转变 放弃军事行动改打经济战
+### 特朗普宣布对伊朗采取“史上最严厉经济行动”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 财新
-- 时间: 2026-08-19 10:29
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5hVjdpYUEwamY0cEtta2NmYTlNZF9DdGZERjd0SW5ycFowajZPSnlTY0xQTU80OGoyaFRlU1NPMmxtWmZOZnNDTXM2VXhnVlJ0U1luOENEYlJlY1p3N0FXUElZc19LQXVLOGc?oc=5>
+- 场馆: 东方财富
+- 时间: 2026-08-20 02:37
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1BdXhiUjE0bTBrUXZSNmFYRUFCc0xNeF9RcGRfeW9BdG9Db2tRRWQ4WkNTT0U5djkwZ2RBb2c1SE8yNTZIOWhHXzFtRjFVcmlVVWhXdXJYeUNZbzJfY19Jcw?oc=5>
 
-### 特朗普：预计今年晚些时候会见金正恩，“我们关系很融洽”
+### 特朗普宣布对伊朗实施“毁灭性经济行动”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-08-20 00:17
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE5jODhXRTR4ZWhkUWltb1FOTndOUWR4a3E4aDcxMHBTTFNsbldFelMya1U4Um5PYThuWmhYN2pxMmRWYnduNjhqLWZ1WG9nam5wdVNoNWJLTmZyWEtYbmV6NlFUZUtMbVJhaWhBVUlhZXZsN3dWU3A2VUg1TThETk0?oc=5>
+
+### 特朗普：宣布对伊朗实施最严厉的经济行动
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-20 02:26
+- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxPMkh2bDhXOENuUVhYb2lVZzJ2QVpsRkJOYi1faUpDa1BkRGlVbDhjcVYtQ2tTMGI1VHo0a2llT0VFeEdySW9ZZkY3VDA0NVJya05Eelpva3FqdGQtaWx0c0s2UDJZOXpvRjRoWEtwOERiSW5NVVFma1JPdkptMjlxUmxJUXlHaUZ6WUE?oc=5>
+
+### 特朗普政府再升级对ICC制裁：联合国关切，日本“遗憾”-观察者网
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: guancha.cn
-- 时间: 2026-08-19 23:46
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1XOVNyM2RKTDcwMm5jcDVfT1JVLWpzczM1WEpZdXNZSl9LMHlCREM1cWV5QzBSQ2s2NGQ1bTBjQk1CMVNjdllkQ0VXY1FEc2xSeGZTNXY3MzhDZmVXM242OVpwRTFXSVNHbkE?oc=5>
+- 时间: 2026-08-20 01:02
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE40UGpJaFdlMmRtUDNweUpYY3NfNUtfMVNYcFJLZGhwQm94M2gyaEV0ekxZMjl2dHNjdHJtcVZleDNUM2NDYk9qRmxHYzdBNnB1Rk5UVU5GRWQ1ZnN2TjVseUE1SUdac1pYenc?oc=5>
 
-### 特朗普和平计划陷信任危机：访以次日，以色列空袭加沙
+### 美媒说特朗普政府拟放宽枪支限制 新规引发争议
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 手机网易网
-- 时间: 2026-08-19 03:33
-- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE9sQkkxYmc4OXlCTXBWRm1KQlZnUzVTYVNNeXZSdnJzRW1wOUJ4UXJTeElsbVIzNXlRWTNyakFtb09RUFZnZFZtSy01NlJtMXEwZWhOZW5LbHFVTGxrbFRkS0J3?oc=5>
+- 场馆: 中华军事
+- 时间: 2026-08-20 02:06
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZMy1sOXYyY3NjUXpJbUtqNC1JQURESXZhVVFUS29OTjJVMU1OYjJLRHBEVUx2TktCbzQtb2tMMWtFRFBRSFczMlg4eWVueWlNMTQ4eFhlRDFjVzdwRDFpaEFwUkozXzJ4S01wNzFmYkE?oc=5>
+
+### 特朗普提名助手执掌食品和药物管理局
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 搜狐网
+- 时间: 2026-08-20 03:15
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbHA2WENBN1VyMGk0OTJEbWludjJLbTdzYnpMOWtVZHpCbG9ILUxJc2JFanI0MjF1TFhmb2ZPck9pU3U0RkxiMWlnSGwxY0hGSTVJNHc1Ykdma0htVzYtTDExOTQ2eGZSbWVOcHQtRVRfTnA3ZnBEQmRnVmZTZzQxVnVoQlBRUHl2?oc=5>
+
+### 朝鲜回应特朗普缩减美韩军演规模：“对我们毫无吸引力”
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 纽约时报中文网
+- 时间: 2026-08-20 01:08
+- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE5HZFMtMjNYNGtNUFJuZ2F6Vm1YdmZIVTJfSGRGeWkzS25nRm9WNnc3aml5SVVLbEthRHRmNV9mU050b0t1LWRKS090cmdqbkhUS0lTVXFEZTNVWVlOWDYwQXdDVnlJRWNwTjhIUUVuZjY0d0E5MXV4LVBPN2M?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-20 03:23  (7 条)
+
+- **特朗普** | 特朗普宣布对伊朗采取“史上最严厉经济行动” <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1BdXhiUjE0bTBrUXZSNmFYRUFCc0xNeF9RcGRfeW9BdG9Db2tRRWQ4WkNTT0U5djkwZ2RBb2c1SE8yNTZIOWhHXzFtRjFVcmlVVWhXdXJYeUNZbzJfY19Jcw?oc=5>
+- **特朗普** | 特朗普宣布对伊朗实施“毁灭性经济行动” <https://news.google.com/rss/articles/CBMif0FVX3lxTE5jODhXRTR4ZWhkUWltb1FOTndOUWR4a3E4aDcxMHBTTFNsbldFelMya1U4Um5PYThuWmhYN2pxMmRWYnduNjhqLWZ1WG9nam5wdVNoNWJLTmZyWEtYbmV6NlFUZUtMbVJhaWhBVUlhZXZsN3dWU3A2VUg1TThETk0?oc=5>
+- **特朗普** | 特朗普：宣布对伊朗实施最严厉的经济行动 <https://news.google.com/rss/articles/CBMiigFBVV95cUxPMkh2bDhXOENuUVhYb2lVZzJ2QVpsRkJOYi1faUpDa1BkRGlVbDhjcVYtQ2tTMGI1VHo0a2llT0VFeEdySW9ZZkY3VDA0NVJya05Eelpva3FqdGQtaWx0c0s2UDJZOXpvRjRoWEtwOERiSW5NVVFma1JPdkptMjlxUmxJUXlHaUZ6WUE?oc=5>
+- **特朗普** | 特朗普政府再升级对ICC制裁：联合国关切，日本“遗憾”-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE40UGpJaFdlMmRtUDNweUpYY3NfNUtfMVNYcFJLZGhwQm94M2gyaEV0ekxZMjl2dHNjdHJtcVZleDNUM2NDYk9qRmxHYzdBNnB1Rk5UVU5GRWQ1ZnN2TjVseUE1SUdac1pYenc?oc=5>
+- **特朗普** | 美媒说特朗普政府拟放宽枪支限制 新规引发争议 <https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZMy1sOXYyY3NjUXpJbUtqNC1JQURESXZhVVFUS29OTjJVMU1OYjJLRHBEVUx2TktCbzQtb2tMMWtFRFBRSFczMlg4eWVueWlNMTQ4eFhlRDFjVzdwRDFpaEFwUkozXzJ4S01wNzFmYkE?oc=5>
+- **特朗普** | 特朗普提名助手执掌食品和药物管理局 <https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbHA2WENBN1VyMGk0OTJEbWludjJLbTdzYnpMOWtVZHpCbG9ILUxJc2JFanI0MjF1TFhmb2ZPck9pU3U0RkxiMWlnSGwxY0hGSTVJNHc1Ykdma0htVzYtTDExOTQ2eGZSbWVOcHQtRVRfTnA3ZnBEQmRnVmZTZzQxVnVoQlBRUHl2?oc=5>
+- **Trump** | 朝鲜回应特朗普缩减美韩军演规模：“对我们毫无吸引力” <https://news.google.com/rss/articles/CBMifEFVX3lxTE5HZFMtMjNYNGtNUFJuZ2F6Vm1YdmZIVTJfSGRGeWkzS25nRm9WNnc3aml5SVVLbEthRHRmNV9mU050b0t1LWRKS090cmdqbkhUS0lTVXFEZTNVWVlOWDYwQXdDVnlJRWNwTjhIUUVuZjY0d0E5MXV4LVBPN2M?oc=5>
 
 ### 2026-08-20 02:13  (5 条)
 
