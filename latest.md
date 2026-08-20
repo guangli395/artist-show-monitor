@@ -1,24 +1,58 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-20 11:50**
-- 本轮扫到 10178 条, 新增 **1** 条
+- 最近更新: **2026-08-20 12:34**
+- 本轮扫到 10183 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮新发现 (5 条)
 
-### 特朗普称年内欲见金正恩 金与正回应朝美互动
+### 什么时候能盼来王一博的演唱会啊
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_6060658738_m1693e5032033018jly.html>
+
+### 蔡徐坤新歌《Old School》有哪些复古嘻哈元素？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801jpb6.html>
+
+### 蔡徐坤新歌《Old School》的创作灵感来自哪里？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801jpb0.html>
+
+### 特朗普威胁对伊朗实施经济行动 国际油价上涨超2%
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 财新
-- 时间: 2026-08-20 03:52
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE53UTFrb3YzRlYwNkVFWjFEb1FvejNHYU5jTm1BanlmNnF5eUI4X0NocktvUUt6MmZMakJvS1NVZEQtZDNyQUVQczJNV1ZEVnQ2WGFkMmtYY3VfeWJUenpZeF9vMmhEOHpHR1E?oc=5>
+- 场馆: 中青网
+- 时间: 2026-08-20 11:53
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBSMzhaSEF0bXJ0ZVFTbGN2QjNoYmx2bmUyUXphT29Fd0Vxd1c3UmpKdnk3LTFDNFlsSEUzYU1GR0JjUzk3SnNNVFR3MnZKUVVpeGhPTzFOdXppeTlQRVNoMU5Ec2c?oc=5>
+
+### 特朗普：CFTC 主席正推动 Hyperliquid 合规进入美国 8 月 20 日，美国总统 Donald Trump 在白宫与科技行业领袖举行的活动上表示，CFTC 主席 Michael S. Selig 正努力推动 Hyperliquid 以完全合法合规的方式进入美国，并提到 Selig 于今年 5 月批准在一家 CFTC 注
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Binance
+- 时间: 2026-08-20 11:02
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9HMzRPVVZYYTI5N2pMd1lrc1hIdUNPdTVxY2U3UFR6R2xHcklWMEhJNzVkeTBJejdkWFFaSnlHUnpLNExlTjNRVnhWWnhnR1pxVTZ2czRCdXpEQjdxMzVhZVJ3UDgyT1pG?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-20 12:34  (5 条)
+
+- **王一博** | 什么时候能盼来王一博的演唱会啊 <https://k.sina.com.cn/article_6060658738_m1693e5032033018jly.html>
+- **蔡徐坤** | 蔡徐坤新歌《Old School》有哪些复古嘻哈元素？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801jpb6.html>
+- **蔡徐坤** | 蔡徐坤新歌《Old School》的创作灵感来自哪里？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801jpb0.html>
+- **特朗普** | 特朗普威胁对伊朗实施经济行动 国际油价上涨超2% <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBSMzhaSEF0bXJ0ZVFTbGN2QjNoYmx2bmUyUXphT29Fd0Vxd1c3UmpKdnk3LTFDNFlsSEUzYU1GR0JjUzk3SnNNVFR3MnZKUVVpeGhPTzFOdXppeTlQRVNoMU5Ec2c?oc=5>
+- **Trump** | 特朗普：CFTC 主席正推动 Hyperliquid 合规进入美国 8 月 20 日，美国总统 Donald Trump 在白宫与科技行业领袖举行的活动上表示，CFTC 主席 Michael S. Selig 正努力推动 Hyperliquid 以完全合法合规的方式进入美国，并提到 Selig 于今年 5 月批准在一家 CFTC 注 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9HMzRPVVZYYTI5N2pMd1lrc1hIdUNPdTVxY2U3UFR6R2xHcklWMEhJNzVkeTBJejdkWFFaSnlHUnpLNExlTjNRVnhWWnhnR1pxVTZ2czRCdXpEQjdxMzVhZVJ3UDgyT1pG?oc=5>
 
 ### 2026-08-20 11:50  (1 条)
 
