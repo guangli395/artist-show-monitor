@@ -1,24 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-20 06:34**
-- 本轮扫到 10158 条, 新增 **1** 条
+- 最近更新: **2026-08-20 07:35**
+- 本轮扫到 10159 条, 新增 **1** 条
 
 ---
 
 ## 本轮新发现 (1 条)
 
-### 弃电弹改蒸汽后，特朗普又要求把舰岛挪到航母中部！要学二战航母
+### 特朗普：AI的重要性比互联网更大 AI公司应自建发电厂为数据中心供电
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-08-20 06:11
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE0tT0JXUzRxZlRrU3JTb3pfemZxWlprY2gxUmsyeDJXZ05MMXpYSHNGSWtINHZUc3NjRGlOMlk5dEZ1TkJVbzNKa1ItRW5KN0daT3dvVlgzTHVzUEkwTTFVeS1TUEw2OF9hNmJOWWJvOUZUdw?oc=5>
+- 场馆: video.sina.com.cn
+- 时间: 2026-08-20 05:51
+- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxNbmpNQWp5UFg0Y3JnMGVJWUMzOXpkbzc4WlZUQmNWQkI3WmFZZ1VkVGVjcTA0aDl1MWNYNGdORzRyVUdsNnpscVlaLThCLXU1bDYzdWVwaDBFUGJSVUxQdnBBQ0tQNXdBNVpaWDVrWkdtMEY5S2g0S2NhZUtOS2tnUmdn?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-20 07:35  (1 条)
+
+- **特朗普** | 特朗普：AI的重要性比互联网更大 AI公司应自建发电厂为数据中心供电 <https://news.google.com/rss/articles/CBMiggFBVV95cUxNbmpNQWp5UFg0Y3JnMGVJWUMzOXpkbzc4WlZUQmNWQkI3WmFZZ1VkVGVjcTA0aDl1MWNYNGdORzRyVUdsNnpscVlaLThCLXU1bDYzdWVwaDBFUGJSVUxQdnBBQ0tQNXdBNVpaWDVrWkdtMEY5S2g0S2NhZUtOS2tnUmdn?oc=5>
 
 ### 2026-08-20 06:34  (1 条)
 
