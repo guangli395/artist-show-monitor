@@ -1,32 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-20 21:21**
-- 本轮扫到 10220 条, 新增 **2** 条
+- 最近更新: **2026-08-20 21:52**
+- 本轮扫到 10221 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (1 条)
 
-### 李在明感谢上了……
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-20 21:16
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1hb0xOSjBnUXFsaTBrVkVlU3NKcDMzeWRENzJCUjViYXlPTDhiQTVheW4xdWN2VjVzenVrZ3k3VlhGM3RQbG9lejB3di1yWEdsS0hJMkZtUEhoQ3RoWUgwN2tfZjFvOXN6UHROVUx4S2FBcEt5MVVlcw?oc=5>
-
-### 特朗普宣布对伊朗实施“毁灭性经济行动”
+### 特朗普：白宫立法事务主任布雷德将离职；此前特朗普宣布白宫新闻秘书卡罗琳·莱维特将于8月底辞职，以腾出更多时间陪伴家人
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-08-20 20:56
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0OUR4R1R2RzJWcUc4cFkzVW41WlNXTVVxSW9lbTVuNlVMTXJzem1JamJnd2ltV09zcUQ0aDFDRW1MZFJEVTRFdGZDODc1aV85eXktQ2dtdFJHYURicElnSnhYSTBtZw?oc=5>
+- 场馆: 搜狐网
+- 时间: 2026-08-20 15:58
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxOMEQ5ZnlzQVZ1TXRoTm0wRHlQTUJIZUxDQmJUSHprdnRjbzhfdG9TYk55QzFmbEtsQWhwRFFkZXljLXV4NndTV2U3YVBJZm5wU0kxWHZ1STU3S05kanhvb25VYy05a0NHVlhFeTNHYWRtZzNtT0VtY1RrcmRGWkVBQ2VHU3lic1ZhS2tBbA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-20 21:52  (1 条)
+
+- **特朗普** | 特朗普：白宫立法事务主任布雷德将离职；此前特朗普宣布白宫新闻秘书卡罗琳·莱维特将于8月底辞职，以腾出更多时间陪伴家人 <https://news.google.com/rss/articles/CBMijAFBVV95cUxOMEQ5ZnlzQVZ1TXRoTm0wRHlQTUJIZUxDQmJUSHprdnRjbzhfdG9TYk55QzFmbEtsQWhwRFFkZXljLXV4NndTV2U3YVBJZm5wU0kxWHZ1STU3S05kanhvb25VYy05a0NHVlhFeTNHYWRtZzNtT0VtY1RrcmRGWkVBQ2VHU3lic1ZhS2tBbA?oc=5>
 
 ### 2026-08-20 21:21  (2 条)
 
