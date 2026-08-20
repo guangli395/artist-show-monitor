@@ -1,30 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-20 20:54**
-- 本轮扫到 10218 条, 新增 **2** 条
+- 最近更新: **2026-08-20 21:21**
+- 本轮扫到 10220 条, 新增 **2** 条
 
 ---
 
 ## 本轮新发现 (2 条)
 
-### 原来周董喜欢放空档，周杰伦：演唱会的时候会稍微穿一下
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923704_m1d5ae17f803301wvos.html>
-
-### 特朗普称白宫立法事务主任布雷德将离职
+### 李在明感谢上了……
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-08-20 16:03
-- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxPckVNMkxsZnYwbzhvVFpoMUZmSUJrREpBUVU5QnVFY1ZCQW8tdkd6NmlSQzh1cjR4cFludFJYOFlVY0UwbE5XblJjQmoyS1N3ZFIxZVZaem8tbUZjcWotWTFyTkkyazFtOURkTjI5elJudlFESmF0QU9hbGdOTU9haWRaV0t0bURY?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-20 21:16
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1hb0xOSjBnUXFsaTBrVkVlU3NKcDMzeWRENzJCUjViYXlPTDhiQTVheW4xdWN2VjVzenVrZ3k3VlhGM3RQbG9lejB3di1yWEdsS0hJMkZtUEhoQ3RoWUgwN2tfZjFvOXN6UHROVUx4S2FBcEt5MVVlcw?oc=5>
+
+### 特朗普宣布对伊朗实施“毁灭性经济行动”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 东方财富
+- 时间: 2026-08-20 20:56
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0OUR4R1R2RzJWcUc4cFkzVW41WlNXTVVxSW9lbTVuNlVMTXJzem1JamJnd2ltV09zcUQ0aDFDRW1MZFJEVTRFdGZDODc1aV85eXktQ2dtdFJHYURicElnSnhYSTBtZw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-20 21:21  (2 条)
+
+- **特朗普** | 李在明感谢上了…… <https://news.google.com/rss/articles/CBMieEFVX3lxTE1hb0xOSjBnUXFsaTBrVkVlU3NKcDMzeWRENzJCUjViYXlPTDhiQTVheW4xdWN2VjVzenVrZ3k3VlhGM3RQbG9lejB3di1yWEdsS0hJMkZtUEhoQ3RoWUgwN2tfZjFvOXN6UHROVUx4S2FBcEt5MVVlcw?oc=5>
+- **特朗普** | 特朗普宣布对伊朗实施“毁灭性经济行动” <https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0OUR4R1R2RzJWcUc4cFkzVW41WlNXTVVxSW9lbTVuNlVMTXJzem1JamJnd2ltV09zcUQ0aDFDRW1MZFJEVTRFdGZDODc1aV85eXktQ2dtdFJHYURicElnSnhYSTBtZw?oc=5>
 
 ### 2026-08-20 20:54  (2 条)
 
