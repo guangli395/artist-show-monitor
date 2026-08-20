@@ -1,48 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-20 13:40**
-- 本轮扫到 10187 条, 新增 **4** 条
+- 最近更新: **2026-08-20 14:28**
+- 本轮扫到 10190 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (3 条)
 
-### 加密市场牛来！白宫召集行业高管，特朗普高调唱多
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-08-20 13:18
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ2lMeXJwUjNzaUVPZUhlaGpkM19DRmtwY2hYbUFkQmRlUmRnQlhlQUtWSWpOUWFpWmFsRjlEWHVDWjBGQ1FjbWZFWTVGSGtnQ010MnpwbVg3YUdncmJ0UXhWMDhlTTVxb2drWlpOMk5ENXk3M0tWbjVueE9JX2FwaFRGVUFicFlCSzBFNGZUdEhZdktjaDRTaA?oc=5>
-
-### 特朗普宣布今年将与金正恩会面后 朝鲜发射了10来枚短程导弹
+### 特朗普威胁对伊朗实施经济行动 国际油价上涨超2%
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-08-20 11:57
-- 链接: <https://news.google.com/rss/articles/CBMimwNBVV95cUxPZFJFM2tvRzlReHM5cWtHVVhvUE5Gd1NaRXJwTjZWUjJmdnRrOS1QdzdfR1lHMkpDOVUxSGFlWndkRUxDbTRqN0xmWTFNQWxiTks1dU42dkFCUUNLWEZzNGVjYmRxUXQ2eXNuZUlHWlpSMG5lSzRZb0E3Yks0ZzB3UURBdUdjd2hDUVlLMDdmRldxelJiWnp1dkhUdU5MRzIyVDIwOGVfQUFncDdPeEExQjctcmJfcXhFX21PaUlpWXNVODh4Qy1vNHNrdkp2alNMS0U4YmlEYU9idzlhWVBQbk9PbnFxRFViWlpWaHhWQzc1RmRzMHM5R2dMY1BqNUlLaS1URWFjQ1otV25TdzdFTHFXQUxqeW9iN05zeUY3MFZnNmd1am5pYWF6eVhMTE4wR1hsUTZGVFpNaHpoRzZac1dSR3RVZVJwUUJOdnEzUjZjeTZwX001YTM3d1E5NVQ5M2xUWmR1bFRDeXR3VU1qVmg1ZWpnc0RnZWp2cXB0eUt0R0JnUV8yWlljVERTbW5kc19lZS1MZjFFUVE?oc=5>
+- 场馆: 央视网
+- 时间: 2026-08-20 12:41
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBDRzJQRHJuYnEwQmhiUXlyQndDNUJhRC15VTQzU3FYVDRWUzZtN1NfQldWMm51Ukc4UHd2TXpPdDdfWjBHMk5WLVRvZVJ1NTQxb2RwWG5DR2VfMFFRNjNwR2twQVRHX1VKZ1AzekJsVkhpVE9xZmp5dw?oc=5>
 
-### 最后一刻“达成协议”！特朗普宣布推迟对加拿大加征50%关税
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-08-19 05:41
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE56R0NEcGFtd3BfVVk2bFg4dmQ0WGkzelhuUXhYQnFpZFRoMmxLc19DYnlyQUpaNEtWTHBCY2ZaMjNxNThpVzgyMWdLNHhnc3ZRZUJr?oc=5>
-
-### 特朗普开启经济战，美国对伊黔驴技穷？丨夜观天下
+### 特朗普力挺AI数据中心：反对建设的州和社区将被甩在后面
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 四川在线
-- 时间: 2026-08-20 11:47
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwejFESTdySmQ1amVPc3pSMURsZ1ExTDE2MGtyd1ZKTmxNTTZKVTQwRU9aS2NxLXl1cmxGeVJGYkY3NkJnZUQwTHQtRHRxZDZyblVtVm9GODBjbHhTcGVDSw?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-20 12:45
+- 链接: <https://news.google.com/rss/articles/CBMisgFBVV95cUxQcmRUNXJYc0tadDJmYlN2NVlhal8yUHpJM3NXREI4VVlMWDZZcTFNMXhmU3dDMnBLbXhucmtldUEzRUF5NjBLY0dmT3RDQ0xUX1VsQWdxeE05alRlVUh3QlNHLW1hZzR4NFJLNEI0bmthVkdTUlQ2TzR2Z1paREFiclhuNnV0dnh5Z3NuNVNSSndMQUhhc3R2NWtmX0ZRTHB0UUpXOExsM0ZtSi1sTEl5WGVn?oc=5>
+
+### 特朗普称将会见金正恩 外交部回应
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 东方财富
+- 时间: 2026-08-20 06:18
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Rdkl0SDVkUERCeUVubEVhc3JoZWRWTDFtWDkwMmQtdjNJaVgxaklRajhmWXFyTExUZHo0QTB2bFRMc2R3bERYSFpNSmZQMEZsNXUzRGVpckd1ck5ZZkhOeg?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-20 14:28  (3 条)
+
+- **特朗普** | 特朗普威胁对伊朗实施经济行动 国际油价上涨超2% <https://news.google.com/rss/articles/CBMieEFVX3lxTFBDRzJQRHJuYnEwQmhiUXlyQndDNUJhRC15VTQzU3FYVDRWUzZtN1NfQldWMm51Ukc4UHd2TXpPdDdfWjBHMk5WLVRvZVJ1NTQxb2RwWG5DR2VfMFFRNjNwR2twQVRHX1VKZ1AzekJsVkhpVE9xZmp5dw?oc=5>
+- **特朗普** | 特朗普力挺AI数据中心：反对建设的州和社区将被甩在后面 <https://news.google.com/rss/articles/CBMisgFBVV95cUxQcmRUNXJYc0tadDJmYlN2NVlhal8yUHpJM3NXREI4VVlMWDZZcTFNMXhmU3dDMnBLbXhucmtldUEzRUF5NjBLY0dmT3RDQ0xUX1VsQWdxeE05alRlVUh3QlNHLW1hZzR4NFJLNEI0bmthVkdTUlQ2TzR2Z1paREFiclhuNnV0dnh5Z3NuNVNSSndMQUhhc3R2NWtmX0ZRTHB0UUpXOExsM0ZtSi1sTEl5WGVn?oc=5>
+- **特朗普** | 特朗普称将会见金正恩 外交部回应 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Rdkl0SDVkUERCeUVubEVhc3JoZWRWTDFtWDkwMmQtdjNJaVgxaklRajhmWXFyTExUZHo0QTB2bFRMc2R3bERYSFpNSmZQMEZsNXUzRGVpckd1ck5ZZkhOeg?oc=5>
 
 ### 2026-08-20 13:40  (4 条)
 
