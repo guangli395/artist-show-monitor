@@ -1,48 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-20 11:20**
-- 本轮扫到 10177 条, 新增 **4** 条
+- 最近更新: **2026-08-20 11:50**
+- 本轮扫到 10178 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (1 条)
 
-### 特朗普警告 任何支持伊朗的国家都将面临经济后果
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-08-20 09:55
-- 链接: <https://news.google.com/rss/articles/CBMi6AJBVV95cUxOZ3lSeWRpaXE5YlNEeGRTczFjbU8yUGR0Vm14Sk16bGVGRkx2VlVKSFdHQmxGR2kyaEF2RWVGeTVsRXB3Z2NlMThWRVkxZkVGUTdqejFqbFBHSm01d3RlNk9wSXZ2MS1JM2h6REdqRkZmWVFqZnR2Y2Nxa0E5ZFgzQk5keXVNM2g0TnplQUgxQk9heHNKM2RKV3NDOVItaktPMnNscUN3YVdMM3g2WXN4czdCVDkydVl4ZHNNSEhpa0pYRzRKR2MxUG9fVHp4RUJYa1dCbUgyR3I2bjJKcjNvQjQ0T042d1Jvem1zVlRRcjhMZ3FMdnkweWNXNmVFSGNxRl9FYlpVcXB4ZGd3Y3Q5c0hBeWJrNFVXdVBFam1VRU1HWGNJQVl2dVBLRjA3bDdxejNTdTlzMjl6dlVEOU8yYTcyaHZudzdJblMyc2dlV1AzYTdPb2x5QW5UaEs2aXVtMnZnb0tMclI?oc=5>
-
-### 特朗普称将于11月同金正恩会晤，外交部回应
+### 特朗普称年内欲见金正恩 金与正回应朝美互动
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-20 07:15
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE8yd2psYnhWSjVWb0ZnbmIwSU9faDBkQmE4d25BNlN2ZWI2SWx0V2RERVgwb18wOGZBN2pXcGR3QnZZTGVVTG1DTDBXbkw?oc=5>
-
-### 特朗普称将会见金正恩 外交部回应
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-08-20 08:55
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE8xa2hMUlBqbHYyMXViMTlzM01udnhVcVFON2duYmFnNGM3bGI5TEVPa28wdDAzM1BWS3pmOUFqM3lIdlFmMElOMnB5SV9uZ1VNckZLYS1meDdUazdRQTZ2MkVfV0tCQW9rT0FuVzZYMmU?oc=5>
-
-### Oil Prices Jump After Trump Declares Economic War on Iran
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-08-20 11:06
-- 链接: <https://news.google.com/rss/articles/CBMipwFBVV95cUxOVzBiN0h1Yi0zdWpGVVFKSUs0TDV2aUppYmM3NzI3ck4xdjJ6bVd2bnJUU19KWXFHRGNVanR1ejVEd2tCVFdCeXlUeFc0a3piQ2owS2xtSE9qTHo3T2Fab01WZmJMSmFzeDJkZkJBWUtlVHVranZNNDVOMDV2aXp6Ti10bHBoMGZLWVhQdE03dXlmblRQOEkwUWJTXzItb0tMNXdkTHJlcw?oc=5>
+- 场馆: 财新
+- 时间: 2026-08-20 03:52
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE53UTFrb3YzRlYwNkVFWjFEb1FvejNHYU5jTm1BanlmNnF5eUI4X0NocktvUUt6MmZMakJvS1NVZEQtZDNyQUVQczJNV1ZEVnQ2WGFkMmtYY3VfeWJUenpZeF9vMmhEOHpHR1E?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-20 11:50  (1 条)
+
+- **特朗普** | 特朗普称年内欲见金正恩 金与正回应朝美互动 <https://news.google.com/rss/articles/CBMiakFVX3lxTE53UTFrb3YzRlYwNkVFWjFEb1FvejNHYU5jTm1BanlmNnF5eUI4X0NocktvUUt6MmZMakJvS1NVZEQtZDNyQUVQczJNV1ZEVnQ2WGFkMmtYY3VfeWJUenpZeF9vMmhEOHpHR1E?oc=5>
 
 ### 2026-08-20 11:20  (4 条)
 
