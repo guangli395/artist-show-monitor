@@ -1,50 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-20 12:34**
-- 本轮扫到 10183 条, 新增 **5** 条
+- 最近更新: **2026-08-20 13:40**
+- 本轮扫到 10187 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (4 条)
 
-### 什么时候能盼来王一博的演唱会啊
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6060658738_m1693e5032033018jly.html>
-
-### 蔡徐坤新歌《Old School》有哪些复古嘻哈元素？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801jpb6.html>
-
-### 蔡徐坤新歌《Old School》的创作灵感来自哪里？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801jpb0.html>
-
-### 特朗普威胁对伊朗实施经济行动 国际油价上涨超2%
+### 加密市场牛来！白宫召集行业高管，特朗普高调唱多
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中青网
-- 时间: 2026-08-20 11:53
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBSMzhaSEF0bXJ0ZVFTbGN2QjNoYmx2bmUyUXphT29Fd0Vxd1c3UmpKdnk3LTFDNFlsSEUzYU1GR0JjUzk3SnNNVFR3MnZKUVVpeGhPTzFOdXppeTlQRVNoMU5Ec2c?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-08-20 13:18
+- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ2lMeXJwUjNzaUVPZUhlaGpkM19DRmtwY2hYbUFkQmRlUmRnQlhlQUtWSWpOUWFpWmFsRjlEWHVDWjBGQ1FjbWZFWTVGSGtnQ010MnpwbVg3YUdncmJ0UXhWMDhlTTVxb2drWlpOMk5ENXk3M0tWbjVueE9JX2FwaFRGVUFicFlCSzBFNGZUdEhZdktjaDRTaA?oc=5>
 
-### 特朗普：CFTC 主席正推动 Hyperliquid 合规进入美国 8 月 20 日，美国总统 Donald Trump 在白宫与科技行业领袖举行的活动上表示，CFTC 主席 Michael S. Selig 正努力推动 Hyperliquid 以完全合法合规的方式进入美国，并提到 Selig 于今年 5 月批准在一家 CFTC 注
+### 特朗普宣布今年将与金正恩会面后 朝鲜发射了10来枚短程导弹
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Binance
-- 时间: 2026-08-20 11:02
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9HMzRPVVZYYTI5N2pMd1lrc1hIdUNPdTVxY2U3UFR6R2xHcklWMEhJNzVkeTBJejdkWFFaSnlHUnpLNExlTjNRVnhWWnhnR1pxVTZ2czRCdXpEQjdxMzVhZVJ3UDgyT1pG?oc=5>
+- 场馆: RFI
+- 时间: 2026-08-20 11:57
+- 链接: <https://news.google.com/rss/articles/CBMimwNBVV95cUxPZFJFM2tvRzlReHM5cWtHVVhvUE5Gd1NaRXJwTjZWUjJmdnRrOS1QdzdfR1lHMkpDOVUxSGFlWndkRUxDbTRqN0xmWTFNQWxiTks1dU42dkFCUUNLWEZzNGVjYmRxUXQ2eXNuZUlHWlpSMG5lSzRZb0E3Yks0ZzB3UURBdUdjd2hDUVlLMDdmRldxelJiWnp1dkhUdU5MRzIyVDIwOGVfQUFncDdPeEExQjctcmJfcXhFX21PaUlpWXNVODh4Qy1vNHNrdkp2alNMS0U4YmlEYU9idzlhWVBQbk9PbnFxRFViWlpWaHhWQzc1RmRzMHM5R2dMY1BqNUlLaS1URWFjQ1otV25TdzdFTHFXQUxqeW9iN05zeUY3MFZnNmd1am5pYWF6eVhMTE4wR1hsUTZGVFpNaHpoRzZac1dSR3RVZVJwUUJOdnEzUjZjeTZwX001YTM3d1E5NVQ5M2xUWmR1bFRDeXR3VU1qVmg1ZWpnc0RnZWp2cXB0eUt0R0JnUV8yWlljVERTbW5kc19lZS1MZjFFUVE?oc=5>
+
+### 最后一刻“达成协议”！特朗普宣布推迟对加拿大加征50%关税
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街见闻
+- 时间: 2026-08-19 05:41
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE56R0NEcGFtd3BfVVk2bFg4dmQ0WGkzelhuUXhYQnFpZFRoMmxLc19DYnlyQUpaNEtWTHBCY2ZaMjNxNThpVzgyMWdLNHhnc3ZRZUJr?oc=5>
+
+### 特朗普开启经济战，美国对伊黔驴技穷？丨夜观天下
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 四川在线
+- 时间: 2026-08-20 11:47
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwejFESTdySmQ1amVPc3pSMURsZ1ExTDE2MGtyd1ZKTmxNTTZKVTQwRU9aS2NxLXl1cmxGeVJGYkY3NkJnZUQwTHQtRHRxZDZyblVtVm9GODBjbHhTcGVDSw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-20 13:40  (4 条)
+
+- **特朗普** | 加密市场牛来！白宫召集行业高管，特朗普高调唱多 <https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ2lMeXJwUjNzaUVPZUhlaGpkM19DRmtwY2hYbUFkQmRlUmRnQlhlQUtWSWpOUWFpWmFsRjlEWHVDWjBGQ1FjbWZFWTVGSGtnQ010MnpwbVg3YUdncmJ0UXhWMDhlTTVxb2drWlpOMk5ENXk3M0tWbjVueE9JX2FwaFRGVUFicFlCSzBFNGZUdEhZdktjaDRTaA?oc=5>
+- **特朗普** | 特朗普宣布今年将与金正恩会面后 朝鲜发射了10来枚短程导弹 <https://news.google.com/rss/articles/CBMimwNBVV95cUxPZFJFM2tvRzlReHM5cWtHVVhvUE5Gd1NaRXJwTjZWUjJmdnRrOS1QdzdfR1lHMkpDOVUxSGFlWndkRUxDbTRqN0xmWTFNQWxiTks1dU42dkFCUUNLWEZzNGVjYmRxUXQ2eXNuZUlHWlpSMG5lSzRZb0E3Yks0ZzB3UURBdUdjd2hDUVlLMDdmRldxelJiWnp1dkhUdU5MRzIyVDIwOGVfQUFncDdPeEExQjctcmJfcXhFX21PaUlpWXNVODh4Qy1vNHNrdkp2alNMS0U4YmlEYU9idzlhWVBQbk9PbnFxRFViWlpWaHhWQzc1RmRzMHM5R2dMY1BqNUlLaS1URWFjQ1otV25TdzdFTHFXQUxqeW9iN05zeUY3MFZnNmd1am5pYWF6eVhMTE4wR1hsUTZGVFpNaHpoRzZac1dSR3RVZVJwUUJOdnEzUjZjeTZwX001YTM3d1E5NVQ5M2xUWmR1bFRDeXR3VU1qVmg1ZWpnc0RnZWp2cXB0eUt0R0JnUV8yWlljVERTbW5kc19lZS1MZjFFUVE?oc=5>
+- **特朗普** | 最后一刻“达成协议”！特朗普宣布推迟对加拿大加征50%关税 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE56R0NEcGFtd3BfVVk2bFg4dmQ0WGkzelhuUXhYQnFpZFRoMmxLc19DYnlyQUpaNEtWTHBCY2ZaMjNxNThpVzgyMWdLNHhnc3ZRZUJr?oc=5>
+- **特朗普** | 特朗普开启经济战，美国对伊黔驴技穷？丨夜观天下 <https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwejFESTdySmQ1amVPc3pSMURsZ1ExTDE2MGtyd1ZKTmxNTTZKVTQwRU9aS2NxLXl1cmxGeVJGYkY3NkJnZUQwTHQtRHRxZDZyblVtVm9GODBjbHhTcGVDSw?oc=5>
 
 ### 2026-08-20 12:34  (5 条)
 
