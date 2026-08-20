@@ -1,72 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-20 03:23**
-- 本轮扫到 10142 条, 新增 **7** 条
+- 最近更新: **2026-08-20 04:05**
+- 本轮扫到 10147 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (5 条)
 
-### 特朗普宣布对伊朗采取“史上最严厉经济行动”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-08-20 02:37
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1BdXhiUjE0bTBrUXZSNmFYRUFCc0xNeF9RcGRfeW9BdG9Db2tRRWQ4WkNTT0U5djkwZ2RBb2c1SE8yNTZIOWhHXzFtRjFVcmlVVWhXdXJYeUNZbzJfY19Jcw?oc=5>
-
-### 特朗普宣布对伊朗实施“毁灭性经济行动”
+### 特朗普斥14亿部署国民警卫队“打击犯罪”，执法成效微弱-观察者网
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-08-20 00:17
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE5jODhXRTR4ZWhkUWltb1FOTndOUWR4a3E4aDcxMHBTTFNsbldFelMya1U4Um5PYThuWmhYN2pxMmRWYnduNjhqLWZ1WG9nam5wdVNoNWJLTmZyWEtYbmV6NlFUZUtMbVJhaWhBVUlhZXZsN3dWU3A2VUg1TThETk0?oc=5>
+- 场馆: 观察者
+- 时间: 2026-08-20 02:40
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1LdW1CNFpDNGkxMy1uN1BBTTh5LXJta1BRZXpERy1sZXdTRzJ1cWVDaEpsS1NyWE1lajZLZzR5aVBLbWowS2p6LWVNQmduMnRlUENsZGRQYmRlZF84aDFSTU5OMEMtR3Rmb1E?oc=5>
 
-### 特朗普：宣布对伊朗实施最严厉的经济行动
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-20 02:26
-- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxPMkh2bDhXOENuUVhYb2lVZzJ2QVpsRkJOYi1faUpDa1BkRGlVbDhjcVYtQ2tTMGI1VHo0a2llT0VFeEdySW9ZZkY3VDA0NVJya05Eelpva3FqdGQtaWx0c0s2UDJZOXpvRjRoWEtwOERiSW5NVVFma1JPdkptMjlxUmxJUXlHaUZ6WUE?oc=5>
-
-### 特朗普政府再升级对ICC制裁：联合国关切，日本“遗憾”-观察者网
+### 民调显示特朗普千禧一代支持率下滑，前盟友：已不记得上次有人戴MAGA帽是何时
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: guancha.cn
-- 时间: 2026-08-20 01:02
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE40UGpJaFdlMmRtUDNweUpYY3NfNUtfMVNYcFJLZGhwQm94M2gyaEV0ekxZMjl2dHNjdHJtcVZleDNUM2NDYk9qRmxHYzdBNnB1Rk5UVU5GRWQ1ZnN2TjVseUE1SUdac1pYenc?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-08-20 03:59
+- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTFByTGtYMzRXS3d1NDFwMm9WRnRnbU9YX29CX202REh6N3NZb0JrRlh0WXlPUVIzcm5zRFdrRnRkT0dCdmtnVjNtTDg5bXJnZURDOWVUd0xoT3pWdklKUXBNbnRab2thY3F4YlRnVFROTHFYSmtRV2wwT3NvZHhSZw?oc=5>
 
-### 美媒说特朗普政府拟放宽枪支限制 新规引发争议
+### 特朗普：下周将与“AI领军人物”会面
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中华军事
-- 时间: 2026-08-20 02:06
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZMy1sOXYyY3NjUXpJbUtqNC1JQURESXZhVVFUS29OTjJVMU1OYjJLRHBEVUx2TktCbzQtb2tMMWtFRFBRSFczMlg4eWVueWlNMTQ4eFhlRDFjVzdwRDFpaEFwUkozXzJ4S01wNzFmYkE?oc=5>
+- 场馆: finance.ifeng.com
+- 时间: 2026-08-20 02:35
+- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTFByejNRM2Vqb0pjUHd3aElYbEp5cTlyX05xc0RKdF83azlkendRZFhUNTd2UlJudTlYQ3Y0c0JTaTNoOVBBOEQ3SFJ5dWNiZ3NL?oc=5>
 
-### 特朗普提名助手执掌食品和药物管理局
+### 特朗普向记者展示白宫新建直升机停机坪：从任何角度看都叹为观止，它将用于诸多庆祝活动与大型会议；预估费用最高约600万美元
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: news.china.com
+- 时间: 2026-08-20 03:55
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBKc1VLNGY2NHZhZ3JXTDRfejE5anFBVHF6bVhlYmZNMVVyclM5d1FXenBmZi0wZHlpSllrTThmV19Mb3JqSHZnNWl4Tk1LUjg1eGNoZ1VJZmRudzY5Wm5IMVQ2a2k4aEhKX09YUFYwV2s?oc=5>
+
+### 特朗普提名助手奥弗顿出任美国食品和药物管理局局长：她会助推我的“美国优先”政策；奥弗顿对堕胎药持批评态度，或改变相关政策
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 搜狐网
-- 时间: 2026-08-20 03:15
-- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbHA2WENBN1VyMGk0OTJEbWludjJLbTdzYnpMOWtVZHpCbG9ILUxJc2JFanI0MjF1TFhmb2ZPck9pU3U0RkxiMWlnSGwxY0hGSTVJNHc1Ykdma0htVzYtTDExOTQ2eGZSbWVOcHQtRVRfTnA3ZnBEQmRnVmZTZzQxVnVoQlBRUHl2?oc=5>
-
-### 朝鲜回应特朗普缩减美韩军演规模：“对我们毫无吸引力”
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-08-20 01:08
-- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE5HZFMtMjNYNGtNUFJuZ2F6Vm1YdmZIVTJfSGRGeWkzS25nRm9WNnc3aml5SVVLbEthRHRmNV9mU050b0t1LWRKS090cmdqbkhUS0lTVXFEZTNVWVlOWDYwQXdDVnlJRWNwTjhIUUVuZjY0d0E5MXV4LVBPN2M?oc=5>
+- 时间: 2026-08-20 03:14
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxQYklvTDBPQUc5Q0xuc3IwdlJBQy1QMlBYWVJWbTBSWFUxcUgzRUVjbDFGZkFaNDVRbUpMaXJEUGFpMUw1dVJ4QkNBY1RTTGF0THVCcTgtSG5EaURqcGVJdVZSR05vNzBNeDdkQW9ZZGd1eFYyb2NjckxKdDduQ0p5ZWROREp3XzNNd3ZBSQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-20 04:05  (5 条)
+
+- **特朗普** | 特朗普斥14亿部署国民警卫队“打击犯罪”，执法成效微弱-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE1LdW1CNFpDNGkxMy1uN1BBTTh5LXJta1BRZXpERy1sZXdTRzJ1cWVDaEpsS1NyWE1lajZLZzR5aVBLbWowS2p6LWVNQmduMnRlUENsZGRQYmRlZF84aDFSTU5OMEMtR3Rmb1E?oc=5>
+- **特朗普** | 民调显示特朗普千禧一代支持率下滑，前盟友：已不记得上次有人戴MAGA帽是何时 <https://news.google.com/rss/articles/CBMifkFVX3lxTFByTGtYMzRXS3d1NDFwMm9WRnRnbU9YX29CX202REh6N3NZb0JrRlh0WXlPUVIzcm5zRFdrRnRkT0dCdmtnVjNtTDg5bXJnZURDOWVUd0xoT3pWdklKUXBNbnRab2thY3F4YlRnVFROTHFYSmtRV2wwT3NvZHhSZw?oc=5>
+- **特朗普** | 特朗普：下周将与“AI领军人物”会面 <https://news.google.com/rss/articles/CBMiUEFVX3lxTFByejNRM2Vqb0pjUHd3aElYbEp5cTlyX05xc0RKdF83azlkendRZFhUNTd2UlJudTlYQ3Y0c0JTaTNoOVBBOEQ3SFJ5dWNiZ3NL?oc=5>
+- **特朗普** | 特朗普向记者展示白宫新建直升机停机坪：从任何角度看都叹为观止，它将用于诸多庆祝活动与大型会议；预估费用最高约600万美元 <https://news.google.com/rss/articles/CBMicEFVX3lxTFBKc1VLNGY2NHZhZ3JXTDRfejE5anFBVHF6bVhlYmZNMVVyclM5d1FXenBmZi0wZHlpSllrTThmV19Mb3JqSHZnNWl4Tk1LUjg1eGNoZ1VJZmRudzY5Wm5IMVQ2a2k4aEhKX09YUFYwV2s?oc=5>
+- **特朗普** | 特朗普提名助手奥弗顿出任美国食品和药物管理局局长：她会助推我的“美国优先”政策；奥弗顿对堕胎药持批评态度，或改变相关政策 <https://news.google.com/rss/articles/CBMijAFBVV95cUxQYklvTDBPQUc5Q0xuc3IwdlJBQy1QMlBYWVJWbTBSWFUxcUgzRUVjbDFGZkFaNDVRbUpMaXJEUGFpMUw1dVJ4QkNBY1RTTGF0THVCcTgtSG5EaURqcGVJdVZSR05vNzBNeDdkQW9ZZGd1eFYyb2NjckxKdDduQ0p5ZWROREp3XzNNd3ZBSQ?oc=5>
 
 ### 2026-08-20 03:23  (7 条)
 
