@@ -1,57 +1,13 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-20 19:53**
-- 本轮扫到 10216 条, 新增 **6** 条
+- 最近更新: **2026-08-20 20:20**
+- 本轮扫到 10216 条, 新增 **0** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮无新增
 
-### 蔡徐坤新歌发布后网友评价如何？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923116_1d5ae15ac06801k0y4.html>
-
-### 蔡徐坤新歌《Old School》的舞蹈难度高吗？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923116_1d5ae15ac06801k0y0.html>
-
-### 蔡徐坤新歌《Old School》的曲风有哪些特点？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923116_1d5ae15ac06801k0xw.html>
-
-### 延后三天，特朗普为何紧急叫停对加拿大加征50%关税
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-08-19 07:08
-- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE5ESTVaOXNkeWttdGllcVlxM1J6S01NdmxtcGtTdWJsWDNGUU9BbTl1cUw5U3BnVnZRXzN4MEUtMDMwMm45TWxfNVhGMGdZRklxU3U2Rzc4d0drVExwd1A1YzJOZTdMVnQyMEd3TG8zTXUtczJmcTdGT1hR?oc=5>
-
-### 英首相被骗！特朗普发声
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: QQ News
-- 时间: 2026-08-18 13:21
-- 链接: <https://news.google.com/rss/articles/CBMiVkFVX3lxTFBkbVlTVUxMWm5iaDgxTnhwZ2MxWWVqMTlMTWo1SElBenFvMDVsY1hGWGx1Qk5xMy1ud1BXUTc0LXRxS1ZUNzBKdUQ4MFlrcnlYR0FuNkRn?oc=5>
-
-### 特朗普总统宣布对伊朗发起“毁灭性”经济攻势，威胁向德黑兰提供生命线的国家
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-08-20 17:09
-- 链接: <https://news.google.com/rss/articles/CBMi-wFBVV95cUxQVU9tRUdCTVdLVE1ZUnRyZnhpQTdXSldLNTB3UFk5bGotbW1UNXQ0RHhua3hCdEZhU29sR0luWjBaVl9BOXVyMHVjaGVIa1R4aGY4VS1JRW1XUVVFZjJhakxXVVoyZ19KN1NrYmRNNWxhWTdmUmRzaFk4NnhlZnJHVk4xZjZ5d0ZEV2RNeHVXZXA5OVc5WUIteXlJUTl0QTVhMFdYcy1FSFFVOHZ2dUxDZmhQTTlxLUdBY2daUnMxLS1qWlJBa0MzUzJuQmtCdmxUdmdnT0l5M2VzQnNMUWF3OU9iS2VOVUs0TlNudGpzbERYTWNKeVFScHNyY9IB-wFBVV95cUxQVU9tRUdCTVdLVE1ZUnRyZnhpQTdXSldLNTB3UFk5bGotbW1UNXQ0RHhua3hCdEZhU29sR0luWjBaVl9BOXVyMHVjaGVIa1R4aGY4VS1JRW1XUVVFZjJhakxXVVoyZ19KN1NrYmRNNWxhWTdmUmRzaFk4NnhlZnJHVk4xZjZ5d0ZEV2RNeHVXZXA5OVc5WUIteXlJUTl0QTVhMFdYcy1FSFFVOHZ2dUxDZmhQTTlxLUdBY2daUnMxLS1qWlJBa0MzUzJuQmtCdmxUdmdnT0l5M2VzQnNMUWF3OU9iS2VOVUs0TlNudGpzbERYTWNKeVFScHNyYw?oc=5>
-
-
----
-
+数据库里所有演出/动态都已见过,暂无新增。
 ## 历史发现
 
 ### 2026-08-20 19:53  (6 条)
