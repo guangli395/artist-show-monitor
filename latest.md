@@ -1,56 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-19 23:44**
-- 本轮扫到 10126 条, 新增 **5** 条
+- 最近更新: **2026-08-20 00:52**
+- 本轮扫到 10130 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (4 条)
 
-### 特朗普盟友唐纳兹赢得佛罗里达州共和党州长初选
+### 特朗普宣布对伊朗采取“史上最严厉经济行动”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 央视网
+- 时间: 2026-08-19 23:25
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZM0RLN2RsNkZlX0RrbDBCYjBPOTV3alEyUVpaX2t5bnJwMW0xRnVOYmd5dEJwa0tnaGRRWW1MVHU4cTRqWHRtMlFfYnlFMFdybXRuRVprclUwUzlwd0RnT0JWRU1peVd6dEp2Yk1lTjJKbHZ6b2lzbQ?oc=5>
+
+### 特朗普宣布：对伊朗采取有史以来最具破坏性的经济行动
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-08-19 23:09
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE81QWJaS1htQkNIVUVBODhrSEZHaXJEN2cyYzMxbFRIVTdpM0Y2QnE5NUFjdEdPODBtM1B5UGJFcGdVcXNhYzkxd08zZ04?oc=5>
+
+### 特朗普施压伊朗经济的计划成败系于迪拜
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 华尔街日报中文网
-- 时间: 2026-08-19 02:18
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5VazJlRW92VGtmMzZuSDlVaUJ4S2I1d3NaVUF0alBQRHdpVzdqRW84M0paWk9xd0ZQUl9ELWktNTVEZlZWZi0xVmpOTXVlTU1ZMmliZFJxMm5lYmdDZGRIOGdBcTlxa2w3N2JtRm1LbXNjMDRmSEhieg?oc=5>
+- 时间: 2026-08-19 23:53
+- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxPTEJzc28xaHhUVGdzc3FnbEJQSGNDRF91VW9nYnVmdEJHY09QZGVyeWJsWUpvc2FiS1RZTmpjUTdGVFVzbXJnaFFKNWlVLXVhT1JyQUNzcklDQWlZRkdsVFRWaS1iZUN0S2I5NkZ4Wk40OUljSUJ1aF9QMzlMR3FsMDBIQm5vQVczeXBITDZSeXF5aUtDTm12QjdHNmp4OUZ5?oc=5>
 
-### 特朗普力挺AI数据中心：反对建设的州和社区将被甩在后面
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-08-19 23:39
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9SNHhUbDZGWUVEay10MjV6S1o3Wll0TTlNdVFDZGdXeHZsclJhOGFxV2FERXc3bjlnY29sTlpJSC1kQXcyenNCQVo0Z0JmOTY2VjZ0YWFuWXhIWVc3bktCaGNCQzFNaXJaNTEtdk02R1hlZkdOSWZ5VW0zVm54N2s?oc=5>
-
-### 美官员：特朗普要求谈判团队暂停与伊朗接触
+### 美国观点：债券市场崩盘，特朗普彻底慌了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-08-18 22:26
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBKYjFNX0g4OEtOamgzbVZHLTJkNGhaN1dLYlI0aXBibkhxV2JUU25ydnZqUnN1Vk9UM0pyTzVZVlJoRnhyMFFzTnc4b21sbmNIRGNEeVNNYTc2bU5ZVUxYVUZVWVpwazBhRlRmeXAzVDg?oc=5>
-
-### 美官员告诉VOA：特朗普总统倾向外交，但若伊朗拒绝协议并继续恐怖主义活动，他保留所有选项
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-08-19 21:33
-- 链接: <https://news.google.com/rss/articles/CBMi5AFBVV95cUxQODFIeHdWNWJ4Rm5SYWVwMlJTZTJKY21Edm5ydjNHWmlaQ2VkWkRyODJIbHVUMDBoZXhtYTZneUR3R3lLT3JGNzl0QjZSSUlKTDlIb3hwN0xvaUZKVTRwZWFsUXNtMnNVblU0TUViNnpkZGhzLUh3Mk96d1FMTTVsOXhSNzdzWWU0RWVVYXJXWG5aMXRfdWJQU0RaZTFsRk1HNVBGa21udGh0U3ozbXJORnNrdU1RblhDQzgzWHppcVprNExLVXZoS2RISDBIb3JXTEcxdlFqSnNzaTJkNG0xc2VHcHHSAeQBQVVfeXFMUDgxSHh3VjVieEZuUmFlcDJSU2UySmNtRHZucnYzR1ppWkNlZFpEcjgySGx1VDAwaGV4bWE2Z3lEd0d5S09yRjc5dEI2UklJSkw5SG94cDdMb2lGSlU0cGVhbFFzbTJzVW5VNE1FYjZ6ZGRocy1IdzJPendRTE01bDl4Ujc3c1llNEVlVWFyV1huWjF0X3ViUFNEWmUxbEZNRzVQRmttbnRodFN6M21yTkZza3VNUW5YQ0M4M1h6aXFaazRMS1V2aEtkSEgwSG9yV0xHMXZRakpzc2kyZDRtMXNlR3Bx?oc=5>
-
-### 特朗普承认朝鲜拥核……韩朝美下一张牌是什么[Yang Nakgyu的Defence Club]
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 아시아경제
-- 时间: 2026-08-19 23:33
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE50SF9Db09VYllyY21tWGxNRzZCU2MxY0xYWGVwV3FIZkFaTXB3ZjNnNGJpOURIeVBnRG5yOUxscGJzOTJEdVZncTM5RHlYN1Z4bV9sU1EyX3U2TGViV0lFUWNnalQ?oc=5>
+- 场馆: video.sina.com.cn
+- 时间: 2026-08-20 00:00
+- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxNRHpRZk1VeUVCTm1GTWNxdTM2YmJpT1JtNlNrcTZqU2ZHTVRyVWszWVVBZzNpcVgwUFg3dnJOdXBEMjZHNzFvUmhHOVI5Z1lPdGQ4NWQ5TExoMExiQ0JmQXRFQ1Q1S2pKRkNEX2J5empLZGZRTEkzN3ltN1IzX0gtZlZR?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-20 00:52  (4 条)
+
+- **特朗普** | 特朗普宣布对伊朗采取“史上最严厉经济行动” <https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZM0RLN2RsNkZlX0RrbDBCYjBPOTV3alEyUVpaX2t5bnJwMW0xRnVOYmd5dEJwa0tnaGRRWW1MVHU4cTRqWHRtMlFfYnlFMFdybXRuRVprclUwUzlwd0RnT0JWRU1peVd6dEp2Yk1lTjJKbHZ6b2lzbQ?oc=5>
+- **特朗普** | 特朗普宣布：对伊朗采取有史以来最具破坏性的经济行动 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE81QWJaS1htQkNIVUVBODhrSEZHaXJEN2cyYzMxbFRIVTdpM0Y2QnE5NUFjdEdPODBtM1B5UGJFcGdVcXNhYzkxd08zZ04?oc=5>
+- **特朗普** | 特朗普施压伊朗经济的计划成败系于迪拜 <https://news.google.com/rss/articles/CBMioAFBVV95cUxPTEJzc28xaHhUVGdzc3FnbEJQSGNDRF91VW9nYnVmdEJHY09QZGVyeWJsWUpvc2FiS1RZTmpjUTdGVFVzbXJnaFFKNWlVLXVhT1JyQUNzcklDQWlZRkdsVFRWaS1iZUN0S2I5NkZ4Wk40OUljSUJ1aF9QMzlMR3FsMDBIQm5vQVczeXBITDZSeXF5aUtDTm12QjdHNmp4OUZ5?oc=5>
+- **特朗普** | 美国观点：债券市场崩盘，特朗普彻底慌了 <https://news.google.com/rss/articles/CBMiggFBVV95cUxNRHpRZk1VeUVCTm1GTWNxdTM2YmJpT1JtNlNrcTZqU2ZHTVRyVWszWVVBZzNpcVgwUFg3dnJOdXBEMjZHNzFvUmhHOVI5Z1lPdGQ4NWQ5TExoMExiQ0JmQXRFQ1Q1S2pKRkNEX2J5empLZGZRTEkzN3ltN1IzX0gtZlZR?oc=5>
 
 ### 2026-08-19 23:44  (5 条)
 
