@@ -1,40 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-20 09:06**
-- 本轮扫到 10168 条, 新增 **3** 条
+- 最近更新: **2026-08-20 09:59**
+- 本轮扫到 10171 条, 新增 **3** 条
 
 ---
 
 ## 本轮新发现 (3 条)
 
-### 比特币和以太币飙升，特朗普敦促国会通过加密货币法案
+### 紧跟特朗普躲“暗杀”，钻后备箱随行：白宫女助理搅动美国舆论
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: idnfinancials.com
-- 时间: 2026-08-20 08:40
-- 链接: <https://news.google.com/rss/articles/CBMi9wJBVV95cUxPbXZSbTBYd3pWOUVMUjhZSXlidURrZ2hKMUNuV0ttSmY0MjlTcFlJWHVCSUMxanI5MURick1FZXJqeGxBai1BSF83RVRZNk1TZzNwOW0xcEZxekhVeExabl91UUZsVEpwb2hsUzVxTWNJd2hCcWRWTy1mSW8ydG9LTlc0d0lQYU9EOEx5a3pZeEkzYTA0VDhHT0ljNW90ZEJFOVpiQ0FncUFLR3I0dnF1dHFVSmVKY1ZsVTcwQXhNdGluMDh0bXlYZmtTVk9mQ2NMTWJVWmpiWEtMN2xFcVA2akJJeUt1bHJKSkwzLUszNFhxdldwWkxfRFRra2FxUEx0UVBvR2luVV9Nc2hCNTQyM1BxUHhHMDZ2WHJvS2c0RzV4WTJkWDRfNWpYUG4ycDl6V0hTZzhiZHRLaklEZVk0dVEydnFlM2tkeVhId1k0R29ocmstbmt6QWhzbE5hZGkwQWtBX1NhdFJXM3B1c2VEaVlVeXF2cEk?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-08-19 14:17
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9ZclBPZk1fanFxQmduOG93WjRYQ3pmMjVpdlQxcTN4Y01LeTBnVkFpcHNmcVM1c0x3Yzl3Q3FtenNpY2pmY0JYTWVTRzF6aUU5VklQbkFyZEJfVl9UdWs5eFEwZkU4QmtmVzNncm9LblhuSklRSWxNZQ?oc=5>
 
-### 马斯克砸亿级资金挺共和党！却难进特朗普核心圈，你看懂了吗？
+### 特朗普签令弃电磁弹射改蒸汽，中美航母竞赛走向如何？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪网
-- 时间: 2026-08-20 08:44
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE04VG1QZUYxb2ZRdlBuODVFVndzSFBUaDI5bUJBaGtybThpM0JYa1gwaHdJMzM0SzM5ZmhBUE1JbkdhNFRpNmxkM3MtZmRsM24yVHZIVm9hQkVaSWwzV29WM0xuRk5PTXJJTWVOUDRvTld5dw?oc=5>
+- 时间: 2026-08-20 09:55
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE1uMERZZXNhNzltb1h1ZnE5aEIwcDZBSjlYMmRhNjZQT3JsaU5adE9WRVRFOUFBQl8wM3NuVkZ5ck9SRHdfLXoycWNMYUhfNzI1NklnZ3NCOGMtZk1JNFVDSkNTX1JWaWdySWRqellPN0o0dw?oc=5>
 
-### 特朗普：预计今年晚些时候会见金正恩
+### Trump对伊朗启动“史无前例的经济孤立”行动……施压第三国- 阿视亚经济
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 新浪军事_手机新浪网
-- 时间: 2026-08-20 06:11
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE0wRzdYbENRWnlMdFMxcEhicng1ME9kZ09FQl9oRU5QWUx1akx2dWhqbDZWc00yc2lNR185SGtPTnRDX2g0WDlIOFRQOS1GZHBIRUFfaTNvZE9SUFpfWVBnTXhTaEkyUU85LVJJM0s4MUdwWDA?oc=5>
+- 场馆: 아시아경제
+- 时间: 2026-08-20 08:55
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE04MHRRMno4bkotbzlaQzFiZDNtVzM4NUZfZlRXZDFQYnZrOGdfOVVSZHN2dkZzOGJ3YXBGTXphR1g2TTJDYlpyMHRJNjNncl9PMms0TThOb1lEZGdsR19FRTZNV1o?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-20 09:59  (3 条)
+
+- **特朗普** | 紧跟特朗普躲“暗杀”，钻后备箱随行：白宫女助理搅动美国舆论 <https://news.google.com/rss/articles/CBMieEFVX3lxTE9ZclBPZk1fanFxQmduOG93WjRYQ3pmMjVpdlQxcTN4Y01LeTBnVkFpcHNmcVM1c0x3Yzl3Q3FtenNpY2pmY0JYTWVTRzF6aUU5VklQbkFyZEJfVl9UdWs5eFEwZkU4QmtmVzNncm9LblhuSklRSWxNZQ?oc=5>
+- **特朗普** | 特朗普签令弃电磁弹射改蒸汽，中美航母竞赛走向如何？ <https://news.google.com/rss/articles/CBMickFVX3lxTE1uMERZZXNhNzltb1h1ZnE5aEIwcDZBSjlYMmRhNjZQT3JsaU5adE9WRVRFOUFBQl8wM3NuVkZ5ck9SRHdfLXoycWNMYUhfNzI1NklnZ3NCOGMtZk1JNFVDSkNTX1JWaWdySWRqellPN0o0dw?oc=5>
+- **Trump** | Trump对伊朗启动“史无前例的经济孤立”行动……施压第三国- 阿视亚经济 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE04MHRRMno4bkotbzlaQzFiZDNtVzM4NUZfZlRXZDFQYnZrOGdfOVVSZHN2dkZzOGJ3YXBGTXphR1g2TTJDYlpyMHRJNjNncl9PMms0TThOb1lEZGdsR19FRTZNV1o?oc=5>
 
 ### 2026-08-20 09:06  (3 条)
 
