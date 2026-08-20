@@ -1,31 +1,13 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-20 17:54**
-- 本轮扫到 10207 条, 新增 **2** 条
+- 最近更新: **2026-08-20 18:28**
+- 本轮扫到 10207 条, 新增 **0** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮无新增
 
-### 特朗普总统宣布对伊朗发起“毁灭性”经济攻势，威胁向德黑兰提供生命线的国家
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-08-20 17:09
-- 链接: <https://news.google.com/rss/articles/CBMi-AFBVV95cUxNdWthdFlNd29JU3J3cGhmZE9IbVNCeEJYdWlyS2h5NUF2RDRFaTNpcl9ZYTl2ZUczMnBPY1ZHT2s4RTFlWUhTaUh1QTRxU1RJX2Y3Z0YzdVd0TW5KVmNjQjFwTzZwV2NjY3QxRk9ZdWNGSDZpM0F5MG1wbVlkU1V2SEZ3cUVTdElVNTU3SmNtQnVpRnNvUmo2LWNja2QxWTlBdmtPZURSVDdxQTREMjFza1dpYlNYWC13OFlUTEJUWVFqdmF2Tm1UNjQ1QU9RLUd4Rk81SVhjYlo3ZFNqZnozMkVmYk1XRVZEWEQ1YzBCeTdRSktxUGEzVtIB-wFBVV95cUxQVU9tRUdCTVdLVE1ZUnRyZnhpQTdXSldLNTB3UFk5bGotbW1UNXQ0RHhua3hCdEZhU29sR0luWjBaVl9BOXVyMHVjaGVIa1R4aGY4VS1JRW1XUVVFZjJhakxXVVoyZ19KN1NrYmRNNWxhWTdmUmRzaFk4NnhlZnJHVk4xZjZ5d0ZEV2RNeHVXZXA5OVc5WUIteXlJUTl0QTVhMFdYcy1FSFFVOHZ2dUxDZmhQTTlxLUdBY2daUnMxLS1qWlJBa0MzUzJuQmtCdmxUdmdnT0l5M2VzQnNMUWF3OU9iS2VOVUs0TlNudGpzbERYTWNKeVFScHNyYw?oc=5>
-
-### Bitcoin Breaks Above $72,000 as Trump, Regulators Urge Congress to Pass Clarity Act
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-08-20 17:42
-- 链接: <https://news.google.com/rss/articles/CBMirwFBVV95cUxPTjNDTFVHT3AwREo3ajEzRUFSSnBWSnpoVnpjYTkxY1BnU0x2Tzg3ZjQwSWhvVTZrNThjNHNSZXpsMzg0dzQ3dlU2T242b2VwNi00bjNPdTJGSFBoM2FLakJlcUJXWkZDSXNUemc2YWppNFZsN2EwNGdOOUVsYkR2eXk4WjZDa25YeWxscjJXWVQ0M3R0Z2Y3aEE5T2tiZ2ZKLUgxZlpnYUJaOG9hcGtv?oc=5>
-
-
----
-
+数据库里所有演出/动态都已见过,暂无新增。
 ## 历史发现
 
 ### 2026-08-20 17:54  (2 条)
