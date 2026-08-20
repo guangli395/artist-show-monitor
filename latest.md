@@ -1,40 +1,60 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-20 15:57**
-- 本轮扫到 10197 条, 新增 **3** 条
+- 最近更新: **2026-08-20 16:33**
+- 本轮扫到 10202 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (5 条)
 
-### 特朗普对伊威胁可能会对中国产生影响？外交部回应
+### 蔡徐坤的新歌《Old School》是什么风格？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪军事
-- 时间: 2026-08-20 15:27
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5oRjNKSF9WV0cwWTZQbUEwbjF0eWdkbHZVeUJvNmMtcTd4d2FidTFwMnJtWG10RHVxR2tDNkFXTlJCUS01QVlvUU1MUWhWZ1hQMDVEcmxKOU4yWWF6TWVSa1htdndFbzlGVExvRjV1dHJZSEU?oc=5>
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776722_1d5abd9d206801fjgg.html>
 
-### 特朗普说白宫立法事务主任布雷德将离职
+### 蔡徐坤新歌《Old School》可以在哪些平台收听？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776722_1d5abd9d206801fjgi.html>
+
+### 美媒：特朗普指示谈判团队停止与伊朗接触
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-08-20 15:14
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1wSEh0WWJvVWZSWnc4bnpJY05Hc0I5enAySGRfMU1zR2NObkVZY3pjdDNHOVVKZjdOemN0MUxrMUdpMk11dVZRc0ZlRGk?oc=5>
+- 时间: 2026-08-19 23:43
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5fNVd3dzV5TlJwUVhLWFRuaWRpWVBqWmdvS1B5VE9ZV05Qb3h5T1l0QnlXNmJtTkg5VFBwMmtTUEdiREVwTGZ1TE1iMA?oc=5>
 
-### Dow Jones Top Markets Headlines at 11 AM ET: Trump Threatens Iran With 'Economic D-Day' | Stocks ...
+### 特朗普公布白宫直升机停机坪设计
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-08-20 03:27
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5CY0tUNnhTMGdLZVdLMU9wWndYMTBNckZlNkNuUzlWUEhfMTdOcHFmY0xhb2ZNNVdtM3FZVXBseGw3OVc0Y2xHbGZnbGd0dTJOajBYOHNJRDBmLUxLQ2VEXzZneGItUQ?oc=5>
+
+### Bitcoin Price Surges 11%-and It's More Than Just Trump Boosting Cryptos -- Barrons.com
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: Moomoo
-- 时间: 2026-08-20 15:08
-- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxNUmloZlg3aGF0ZkhPcWhJQmhUMFJxeHNWTnBtVmJmWGNMSzdaYmxHdjB1TDNKNVFWOFdfc2F1MGpnbV96cER5cEZHTXNNRmxURUJTMDJhZU83a0VhS3VjY21LdWJBblU4S3VzdkVxX3NDMXZVUWdTSFNiNEpxcmVhRG9uWV9OeW00SEpfVVJXUjJFeHBndm4zS0VXTWQ?oc=5>
+- 时间: 2026-08-20 11:34
+- 链接: <https://news.google.com/rss/articles/CBMimgFBVV95cUxQVDVVT25RTWdEVktsRXNHd2xGM1NaTHUwaHBQbW1wdk1fN2dxNmhtOWdHOE04Q0JEdlB1RnR1Z1V3R1p6T1pVRUU3NWpJNnFPUjd0WFNtZ0FfSXJhb1NrYnBjZWJHLWhRYTBTb1ZMMy1vbWxhb1NSaEFvUkZzQk9iMUNCMk9sMmtidHZUYnExUjF5SlRLbHFHbk1B?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-20 16:33  (5 条)
+
+- **蔡徐坤** | 蔡徐坤的新歌《Old School》是什么风格？ <https://k.sina.com.cn/article_7879776722_1d5abd9d206801fjgg.html>
+- **蔡徐坤** | 蔡徐坤新歌《Old School》可以在哪些平台收听？ <https://k.sina.com.cn/article_7879776722_1d5abd9d206801fjgi.html>
+- **特朗普** | 美媒：特朗普指示谈判团队停止与伊朗接触 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5fNVd3dzV5TlJwUVhLWFRuaWRpWVBqWmdvS1B5VE9ZV05Qb3h5T1l0QnlXNmJtTkg5VFBwMmtTUEdiREVwTGZ1TE1iMA?oc=5>
+- **特朗普** | 特朗普公布白宫直升机停机坪设计 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5CY0tUNnhTMGdLZVdLMU9wWndYMTBNckZlNkNuUzlWUEhfMTdOcHFmY0xhb2ZNNVdtM3FZVXBseGw3OVc0Y2xHbGZnbGd0dTJOajBYOHNJRDBmLUxLQ2VEXzZneGItUQ?oc=5>
+- **Trump** | Bitcoin Price Surges 11%-and It's More Than Just Trump Boosting Cryptos -- Barrons.com <https://news.google.com/rss/articles/CBMimgFBVV95cUxQVDVVT25RTWdEVktsRXNHd2xGM1NaTHUwaHBQbW1wdk1fN2dxNmhtOWdHOE04Q0JEdlB1RnR1Z1V3R1p6T1pVRUU3NWpJNnFPUjd0WFNtZ0FfSXJhb1NrYnBjZWJHLWhRYTBTb1ZMMy1vbWxhb1NSaEFvUkZzQk9iMUNCMk9sMmtidHZUYnExUjF5SlRLbHFHbk1B?oc=5>
 
 ### 2026-08-20 15:57  (3 条)
 
