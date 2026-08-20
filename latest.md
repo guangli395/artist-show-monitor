@@ -1,32 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-20 22:53**
-- 本轮扫到 10223 条, 新增 **2** 条
+- 最近更新: **2026-08-20 23:19**
+- 本轮扫到 10224 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (1 条)
 
-### 特朗普预计今年晚些时候会见金正恩
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-08-19 17:00
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE44cGpqdEgxVUJid3RhalVENnZ1MDhNVHRyc0daUjJjVERNVjFkUTZzRzBKRTMtZy1TYWFraHBrU09rV2EwVU9yMVFDdTA1bTdYdlEzNEFHYTRZSG53NVJoVWNtX05ZbHhDTzZXOGZVejJqUGthT3RPZ0I2SXh0RTQ?oc=5>
-
-### 特朗普自豪展示白宫改造“政绩”：花岗岩车道、停机坪重铺-观察者网
+### 特朗普签署备忘录以促进美航天发射 探索商业机器人登陆火星
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-08-20 06:15
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9zZ0IxeEdNUmtOMmFOT2tad2pTTlUzU2gxSU5FQTk1WDV5NXptNExBQ1lGUVBHSmUtVGx3MUt5LTRnamNURjVadF96U1lNcnRsXy1UT0dZdFZMMWhDY1VZSnZtWi0tYWlBS0E?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-08-20 23:10
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFA4MUczYzZMTmhia0EzV2RQdlZHTnNmcnBqczZsVTVZQjlzVkpOZTBqLTNiWWtVcEtNeG03RnhCd1E4YU8wY3JVR3NIWEVKYlRmMXZzZldQRGZjOXlTWmRWbWZOcTdmMmJwNE5JMHBfdWs?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-20 23:19  (1 条)
+
+- **特朗普** | 特朗普签署备忘录以促进美航天发射 探索商业机器人登陆火星 <https://news.google.com/rss/articles/CBMicEFVX3lxTFA4MUczYzZMTmhia0EzV2RQdlZHTnNmcnBqczZsVTVZQjlzVkpOZTBqLTNiWWtVcEtNeG03RnhCd1E4YU8wY3JVR3NIWEVKYlRmMXZzZldQRGZjOXlTWmRWbWZOcTdmMmJwNE5JMHBfdWs?oc=5>
 
 ### 2026-08-20 22:53  (2 条)
 
