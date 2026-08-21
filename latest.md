@@ -1,24 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-21 17:02**
-- 本轮扫到 10309 条, 新增 **1** 条
+- 最近更新: **2026-08-21 17:54**
+- 本轮扫到 10314 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮新发现 (5 条)
 
-### Bitcoin Heads for Best Week Since 2024 Amid Trump-Fueled Crypto Rally -- Barrons.com
+### 特朗普宣布90天内对最多30万吨绞肉用牛肉免征配额外关税，并称将按低于市价25%销售，活牛期货下跌
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-21 17:49
+- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbklDYzNSakZOZHpXaTVkbHpid0x0c2tJWHB6dGtpVkQyalpmQVVPVFYwajJMc0V6SWRFRGJYTGNFUHpILVJrLUdCZURTUWtBMEl6VFl0WWxibDQ1YVQyeU9vOUg4RmhJaC1CUGdZaGtIc1laZ0Q1Rl9SRmd1MDdFOVNIZGVPVUloT0hiVEN2SlY0T0ZxMTlnblIwS1NiMVJ1ZE9KRjdTU0pQZw?oc=5>
+
+### 中期选举迫近，特朗普豁免碎牛肉进口关税
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Jiemian.com
+- 时间: 2026-08-21 15:37
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTFBoeUk1QndVV25zZWxFYnNQY3Q0ZVdmVUxBQ3FWS0RQSXRtdnJmMUYyVFhCU0NLUzlxU0RKanRFWGR3allhRElKZUtyMDVPNzY5aWFmdGxIZ2o?oc=5>
+
+### 特朗普政府推进加密货币新规，关键法案在国会受阻
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-20 18:10
+- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxQblZVMjlZSzVBN01BNEludTFFWUhYTXlfQ01PVlR3WDEwdEhFRmJRYkpFRDZ6X0JrQmxDRF9LR3B4RVRpVG1uQWZvRTE5WmZqb0dyWlc2SUZKaEsxNFl2dFA4OFdSQzhQbkZ5bG45My1WS2JKMFd0NWVkS2ZKeFdtaDk3REo3SXJLdDZRaUpVQzJzdFROY21JZDZZc0Z6N0txc240cEQ2X3pqRklRLVpUbzBBTlhPWUZZT1RaVnRoamVJOE83SENZcGh2QUJXWDA2SFE?oc=5>
+
+### 特朗普表示美中两国领导人将讨论人工智能相关议题，外交部：愿在人工智能领域落实好中美元首重要共识
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 每日经济新闻
+- 时间: 2026-08-21 15:43
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9yUXR0TWNvb0ZRR0p5czVvYXNqSXhjZFluS01HVWVZaFgzOWk5QzJKOXU4dWVObVRFQy0weGQ0Ym84YlpRMVVGaWVXbG5JdmJqa1M3NlMyTmZCekVoZGwtSVRqdUpBQQ?oc=5>
+
+### 特朗普总统：伊朗领导人丧生使达成协议变得困难
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-08-21 16:55
-- 链接: <https://news.google.com/rss/articles/CBMipgFBVV95cUxNNDJuMGVsUFo5OFpTa2EtVGdxZ0VtaWhhWlNERXhmdE9SOUtkdkNkSC1NNkY2cFZQYWVMT0h2M0NoeTUyakpxYXNIRGJtMVBGSkVJYmYwajVHdXExRUpXOW1jdC1NNVhZNmsyZ1kxdDN5ZHY1anNPakxiRWdwOW0xZHRkZVlrVjNXX1I4akJLN0h4d1VILVI3V3FveHVPSHpxYjdLMHNR?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-08-21 17:09
+- 链接: <https://news.google.com/rss/articles/CBMivAFBVV95cUxOSDdkX1c2MWZQblFjbVlmSDBUMHRpR3JXX1BfaTFxSnBQR0l2UGh6TlNqSHdUOEd1QkZKdUxzOUxiLUwwbmxSNVh6WXhjM0ZkYmZGOVRidlIwVm02aFV3WlZvV0plUHJsS1g3U0prQTJNU0k0RUpmTDc5RE5CcXZmRldLaFpEeHdLa0xISFgzQnFtcHVWTXA3dWxUNFctekoxX0dKbDVVNVhFd0FkM09hcm5HZ25sR1c0cXlBONIBvwFBVV95cUxNcW53NmxoM25OcnlMZXctZlR0ZmV1eHRLZm4zeldJQ2ZzbFJJVFY3eTVGemhMUUstN3JUMjFkZWJzQVBLX1N1Y1FQcndnTzN0Rmd0SFhoUUxkNllGMHBteTJOYnpnQlZKM2ZJT0tUOGIydDhMRXNFZ0o3SUhEOWFTMGtWeTFyTlFmaUJqSzdkendEZTdERmxuMGw1WEhOdUNpOXlGdzZZTEVwT3BOaFlsV2xGcFJOTjlneWNnNW1tSQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-21 17:54  (5 条)
+
+- **特朗普** | 特朗普宣布90天内对最多30万吨绞肉用牛肉免征配额外关税，并称将按低于市价25%销售，活牛期货下跌 <https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbklDYzNSakZOZHpXaTVkbHpid0x0c2tJWHB6dGtpVkQyalpmQVVPVFYwajJMc0V6SWRFRGJYTGNFUHpILVJrLUdCZURTUWtBMEl6VFl0WWxibDQ1YVQyeU9vOUg4RmhJaC1CUGdZaGtIc1laZ0Q1Rl9SRmd1MDdFOVNIZGVPVUloT0hiVEN2SlY0T0ZxMTlnblIwS1NiMVJ1ZE9KRjdTU0pQZw?oc=5>
+- **特朗普** | 中期选举迫近，特朗普豁免碎牛肉进口关税 <https://news.google.com/rss/articles/CBMiWEFVX3lxTFBoeUk1QndVV25zZWxFYnNQY3Q0ZVdmVUxBQ3FWS0RQSXRtdnJmMUYyVFhCU0NLUzlxU0RKanRFWGR3allhRElKZUtyMDVPNzY5aWFmdGxIZ2o?oc=5>
+- **特朗普** | 特朗普政府推进加密货币新规，关键法案在国会受阻 <https://news.google.com/rss/articles/CBMi0gFBVV95cUxQblZVMjlZSzVBN01BNEludTFFWUhYTXlfQ01PVlR3WDEwdEhFRmJRYkpFRDZ6X0JrQmxDRF9LR3B4RVRpVG1uQWZvRTE5WmZqb0dyWlc2SUZKaEsxNFl2dFA4OFdSQzhQbkZ5bG45My1WS2JKMFd0NWVkS2ZKeFdtaDk3REo3SXJLdDZRaUpVQzJzdFROY21JZDZZc0Z6N0txc240cEQ2X3pqRklRLVpUbzBBTlhPWUZZT1RaVnRoamVJOE83SENZcGh2QUJXWDA2SFE?oc=5>
+- **特朗普** | 特朗普表示美中两国领导人将讨论人工智能相关议题，外交部：愿在人工智能领域落实好中美元首重要共识 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9yUXR0TWNvb0ZRR0p5czVvYXNqSXhjZFluS01HVWVZaFgzOWk5QzJKOXU4dWVObVRFQy0weGQ0Ym84YlpRMVVGaWVXbG5JdmJqa1M3NlMyTmZCekVoZGwtSVRqdUpBQQ?oc=5>
+- **Trump** | 特朗普总统：伊朗领导人丧生使达成协议变得困难 <https://news.google.com/rss/articles/CBMivAFBVV95cUxOSDdkX1c2MWZQblFjbVlmSDBUMHRpR3JXX1BfaTFxSnBQR0l2UGh6TlNqSHdUOEd1QkZKdUxzOUxiLUwwbmxSNVh6WXhjM0ZkYmZGOVRidlIwVm02aFV3WlZvV0plUHJsS1g3U0prQTJNU0k0RUpmTDc5RE5CcXZmRldLaFpEeHdLa0xISFgzQnFtcHVWTXA3dWxUNFctekoxX0dKbDVVNVhFd0FkM09hcm5HZ25sR1c0cXlBONIBvwFBVV95cUxNcW53NmxoM25OcnlMZXctZlR0ZmV1eHRLZm4zeldJQ2ZzbFJJVFY3eTVGemhMUUstN3JUMjFkZWJzQVBLX1N1Y1FQcndnTzN0Rmd0SFhoUUxkNllGMHBteTJOYnpnQlZKM2ZJT0tUOGIydDhMRXNFZ0o3SUhEOWFTMGtWeTFyTlFmaUJqSzdkendEZTdERmxuMGw1WEhOdUNpOXlGdzZZTEVwT3BOaFlsV2xGcFJOTjlneWNnNW1tSQ?oc=5>
 
 ### 2026-08-21 17:02  (1 条)
 
