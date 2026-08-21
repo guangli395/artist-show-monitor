@@ -1,48 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-21 11:50**
-- 本轮扫到 10287 条, 新增 **4** 条
+- 最近更新: **2026-08-21 12:33**
+- 本轮扫到 10290 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (3 条)
 
-### 美媒称美军考虑将一在建航母改以特朗普命名
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-08-21 06:01
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9UVFoxeENmVDcyRjdOOTU5X0RkX3Qtd0tiM3UtdU1WamtKS3JYcGpIdFN0cHFBMGpRQWtTNk95M1EydkQ5cjUzaGFvVmNkX01nbjN5dGhtWUN4YUlFNkcyYzlwMGtJTWRjTmZzbkVQQjZmcDZSWmZxbTY1WWY4bmc?oc=5>
-
-### 特朗普令改福特级航母舰岛，海军认真考虑
+### 特朗普希望会见金正恩，朝鲜提出条件
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-08-21 11:16
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5lUEg4MzcyTktDblozWm1QQlJ5VUk1c0hjODA5N1NNRFFvZzEydzlGZUUxMmJIUVA5bEtCdWE2MWp4QWpNcjBRV3JwVElLLXFhVGxWWUpyQ202VGE1a1RhMUYtZzFwY2NMMFFINkJ2LWJXeVU?oc=5>
+- 场馆: idnfinancials.com
+- 时间: 2026-08-21 12:00
+- 链接: <https://news.google.com/rss/articles/CBMilwJBVV95cUxPU09EXzI2T0Z4UUtBSGNieTY1dDdUVUZFZHhQLV92cUdqZnU0bHRzTUYxckZtTmJMRFBWS1ZzWDlnNzR4S011MU9OUnlqb0R1d21LaWR0SzhsdlkzWllFbWtJUHJqUlBSN0FxQmVLTkVBQVNVRDd4VHhBX1Y4ektndUN5Sk9xTGtaVXpTN21Yc3I1eVFGZ2pndEFBTWZrZHZjZ1ZhUDFYd2ZyaktDV05VWEFmUHNlSlZTUm5XMVRvLUtubzV5UGVLOXQ5RnFxbXA4Q1NBM1JZOC1jTExLUjRFY21sSVh2TnZjcFFMUTM1VDVUYlNmamxzX3JFZm1fYlM3Q1JQWnBTY25wWlZiSjd3cjR2cFpON2c?oc=5>
 
-### 特朗普支持率告急，马斯克砸一亿美元回场救火，共和党能撑住吗？
+### 特朗普宣布对伊朗采取“史上最严厉经济行动”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-08-21 11:41
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE9yMkUxZkR2NWVrMVBMVW5hQkNMX3RqVXNjNXNVak5CVUhETnVEMFVyUldnMjVZVTdXTGpzNlR0X2ZaUUxCczJTVTRUUVZtdEFfTTY1Yjg1bW91QnZ6QnpxVmxSQVhscnFWWjZhYVdLcnZpdw?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-08-19 07:00
+- 链接: <https://news.google.com/rss/articles/CBMivgFBVV95cUxNQUlic0psYXU0UEhGemdodFdfNXQ5UjZqVXdDNTNaQjlIclA1S25mZWZXSEFrUDl0TXJDTnctSTlIdjNBb3J4VENSdXFQTW10T0w1eFBLY0F6SEZ3bHBiTVJSNUNSYlRfTmdTNkoyeFVibVZMTkVJSmluZ2NEQjI1NEJQUWp0ZHpkalcxQ0tWMmZldExMdHdhRzJVNDk5VkdOcjhVS0MyMEUxZzV1TGMtb0FUQjljeWVHS3FFeF9B?oc=5>
 
-### Bitcoin Nears $80,000 on Trump Support, Weaker Dollar -- WSJ
+### Oil Extends Rise After Trump Shifts Iran Strategy to Economic Strangling -- WSJ
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: Moomoo
-- 时间: 2026-08-21 11:44
-- 链接: <https://news.google.com/rss/articles/CBMiowFBVV95cUxNNDVRV3JnejlnbEtDMFYtMks4YV9EeFlDNW9mLUd6cVNZbVlzOURlT1QtWWhEUE5oY0ZHTFJ5TnlUUmk3X0lSdDZ0d0lIUm1JdFNkblk4clpWVVZhakRtT1I4MTNPZGpzblhwZWhUa2xVV2JrbVdXM0QxaTZSVFdGOXZtTTJfUmpzY0ZTamt0LVdUby03d29Wc2Z3SzBDa3ktXzVF?oc=5>
+- 时间: 2026-08-21 11:45
+- 链接: <https://news.google.com/rss/articles/CBMirAFBVV95cUxQWVRCQko3bnBmajRhZ293ejlJZWV6X0JTNlhDcWQwRW9nMzVHTE1FdUdwM0M5TXZycFRKUnFyOXZuNHhfRHRNN0V4SHpnU21PRXFmekhOU0VOMmNlVzlNNU9YOHRnekVYdlBYWWxxRFBlNVpwQWxvZjUtY01JdWhqVWJPblNZbngtVW5KVmRyMy1MLUduWGcwZ05wQXFwTXp0N2hIblc0T1BzOHpy?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-21 12:33  (3 条)
+
+- **特朗普** | 特朗普希望会见金正恩，朝鲜提出条件 <https://news.google.com/rss/articles/CBMilwJBVV95cUxPU09EXzI2T0Z4UUtBSGNieTY1dDdUVUZFZHhQLV92cUdqZnU0bHRzTUYxckZtTmJMRFBWS1ZzWDlnNzR4S011MU9OUnlqb0R1d21LaWR0SzhsdlkzWllFbWtJUHJqUlBSN0FxQmVLTkVBQVNVRDd4VHhBX1Y4ektndUN5Sk9xTGtaVXpTN21Yc3I1eVFGZ2pndEFBTWZrZHZjZ1ZhUDFYd2ZyaktDV05VWEFmUHNlSlZTUm5XMVRvLUtubzV5UGVLOXQ5RnFxbXA4Q1NBM1JZOC1jTExLUjRFY21sSVh2TnZjcFFMUTM1VDVUYlNmamxzX3JFZm1fYlM3Q1JQWnBTY25wWlZiSjd3cjR2cFpON2c?oc=5>
+- **特朗普** | 特朗普宣布对伊朗采取“史上最严厉经济行动” <https://news.google.com/rss/articles/CBMivgFBVV95cUxNQUlic0psYXU0UEhGemdodFdfNXQ5UjZqVXdDNTNaQjlIclA1S25mZWZXSEFrUDl0TXJDTnctSTlIdjNBb3J4VENSdXFQTW10T0w1eFBLY0F6SEZ3bHBiTVJSNUNSYlRfTmdTNkoyeFVibVZMTkVJSmluZ2NEQjI1NEJQUWp0ZHpkalcxQ0tWMmZldExMdHdhRzJVNDk5VkdOcjhVS0MyMEUxZzV1TGMtb0FUQjljeWVHS3FFeF9B?oc=5>
+- **Trump** | Oil Extends Rise After Trump Shifts Iran Strategy to Economic Strangling -- WSJ <https://news.google.com/rss/articles/CBMirAFBVV95cUxQWVRCQko3bnBmajRhZ293ejlJZWV6X0JTNlhDcWQwRW9nMzVHTE1FdUdwM0M5TXZycFRKUnFyOXZuNHhfRHRNN0V4SHpnU21PRXFmekhOU0VOMmNlVzlNNU9YOHRnekVYdlBYWWxxRFBlNVpwQWxvZjUtY01JdWhqVWJPblNZbngtVW5KVmRyMy1MLUduWGcwZ05wQXFwTXp0N2hIblc0T1BzOHpy?oc=5>
 
 ### 2026-08-21 11:50  (4 条)
 
