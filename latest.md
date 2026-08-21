@@ -1,56 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-21 10:55**
-- 本轮扫到 10281 条, 新增 **5** 条
+- 最近更新: **2026-08-21 11:19**
+- 本轮扫到 10283 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (2 条)
 
-### 特朗普政府推进加密货币新规，关键法案在国会受阻
+### 美国举措加剧人工智能竞争
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-08-21 10:54
-- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWktzcmxheHlNYkZkVXNLbWFKWXdRYzY2LTloWWRzT2Zpd3MwTlM5dVo2WmNFbnY0Wk5HRXBtcmdZMlZzQ3I0dG9teFl5b3VDemVmcG8wTzVRSFlVVWZZNUhQNThBS3pvZHplRDNtWTlCZkFsaUlIdnQxeDBKQ1BVNG5QR1NTSnl4el93a0ZGdW9xZ1VNQ0pwdU5iSk5XVGVKS3F3SGNhWnBqdw?oc=5>
+- 时间: 2026-08-21 11:18
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5fNmRoYmdwdnNVR1dFRDIzRDByQlpLVGJTVXU4aW1zQzU0QXlYcDRYeHNYeHVWbzFwS2NPMVFuUEY0Y2xmUHZPRG9sNHlJSFhFX0hrMllFOXV4Sm1WT2g3M0JjMnNNTW82UkRnRzhnWXZjTVhnb1lpVw?oc=5>
 
-### 特朗普调走西太航母，看似走了一步险棋，实则对中国有了清醒反思
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-08-21 09:34
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE9EdUdwYkp3TEdWeUE4ZHo5bXZmLUdrNXRJZ1VJcGNud1Z0TDNXSno1d1JEd19wT3hTclZxMmMxVlhSTUlXVGVoTmxLRFlCeFoyM3NfVFY0aGswbi1IN0ViXzhfanM4eEc4LWlhTHlVUkE5UQ?oc=5>
-
-### 特朗普签备忘录：2030年实现每年发射超千次
+### 特朗普宣布对伊朗实施“毁灭性经济行动”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-08-21 07:46
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZSUt1di14M1NBaFU0bVRwNTdsWFlXbktHX1BpZ2RfYjJYdTVjbkNIQnJ0U1g2UHB5Y3h6RExyU0lOMnZZbmYwbExoUXBxWlBtSzV1MWZDVWpTWGtnc1NiVg?oc=5>
-
-### 美媒：特朗普寻求今秋与金正恩会晤
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-19 02:48
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9pbkcyNFBGTXNnRWI2cmNNY2tQN3QxZl9ER2dZRDIxa0thcVJxRjl0QkZTQWdkTTdfbnFzVnZtSGhzanhjR2ZDLUxhWXU?oc=5>
-
-### Bitcoin Heads for Best Week Since 2024 as Trump-Fueled Crypto Rally Rages On -- Barrons.com
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-08-21 10:16
-- 链接: <https://news.google.com/rss/articles/CBMiowFBVV95cUxOYm1BNzAtUnFvcWlDeFd2aG9xOW4yLUJMXy1sWkUtWmwwRnhEVkNtZEtnZ01JUmttVWc3RGRuYXJjaGJaazNiZkZSMy13N3NxZVlzbXVfVWJqWGtLNG96NW9LQUFibU9WZlRxTXA2LW0zSERxSFY1dTZub244MUVVU0l1c19mY0hFRXB3ckRZTnp6SklEYjBOTHJ3VUFLdExyX3M0?oc=5>
+- 场馆: 东方财富
+- 时间: 2026-08-21 05:56
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE12ME1qMVJzSEdqcEQtLXUtQk5TeEUyQ2UzY3J2S2ZZZGM0ZW0ycGxVRUpuSXBFd3djZG1laWtWYW9vOEFsbkdFRlJpS0FzN3h6NUdfWVBKS29VNXZza2dvRw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-21 11:19  (2 条)
+
+- **特朗普** | 美国举措加剧人工智能竞争 <https://news.google.com/rss/articles/CBMieEFVX3lxTE5fNmRoYmdwdnNVR1dFRDIzRDByQlpLVGJTVXU4aW1zQzU0QXlYcDRYeHNYeHVWbzFwS2NPMVFuUEY0Y2xmUHZPRG9sNHlJSFhFX0hrMllFOXV4Sm1WT2g3M0JjMnNNTW82UkRnRzhnWXZjTVhnb1lpVw?oc=5>
+- **特朗普** | 特朗普宣布对伊朗实施“毁灭性经济行动” <https://news.google.com/rss/articles/CBMiYEFVX3lxTE12ME1qMVJzSEdqcEQtLXUtQk5TeEUyQ2UzY3J2S2ZZZGM0ZW0ycGxVRUpuSXBFd3djZG1laWtWYW9vOEFsbkdFRlJpS0FzN3h6NUdfWVBKS29VNXZza2dvRw?oc=5>
 
 ### 2026-08-21 10:55  (5 条)
 
