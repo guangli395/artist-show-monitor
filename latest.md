@@ -1,70 +1,53 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-21 02:20**
-- 本轮扫到 10241 条, 新增 **7** 条
+- 最近更新: **2026-08-21 03:28**
+- 本轮扫到 10245 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (4 条)
 
-### 蔡徐坤新歌《old school》的舞台有哪些亮点？
+### 忘不了周杰伦我落泪情绪零碎 周杰伦嘉年华世界巡回演唱会 周同學的精选
 
-- 艺人/关键词: **蔡徐坤**
+- 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923104_1d5ae15a006801ic2u.html>
+- 链接: <https://k.sina.com.cn/article_7879923955_m1d5ae18f302001lc7a.html>
 
-### 特朗普称白宫立法事务主任布雷德将离职
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 紫牛新闻
-- 时间: 2026-08-20 23:51
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE92V0Y1c1ZPVjgtaC1XOC1rSDR2UFBtOFluOVpvRlpGYXk0a2p5RFpUc0pkSEVoU3BKbVhySVdrbWNoeV9fTGpvY0NXUkVCaDlMcks4RUpMalVKT09SVExBX1M2ZUQ0bkdscnc?oc=5>
-
-### 特朗普签署备忘录以促进美航天发射 探索商业机器人登陆火星
+### 美伊冲突难休？特朗普政府批准提前开售冬季汽油，全力压低油价！
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 央视网
-- 时间: 2026-08-21 01:15
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5QQzlqUzNNQjNqNUdhbXlhUHV3ME45cFRwdHJsOXRoWWFhMHFCQ1laUy1CV0tCazRncXBPelVqTnMzSzdNWGlmeTBuVThZVFEwYmx1T1daLS1IcEk2WTVkUVFhaDN4WXVOS09QcFhUVTZuLTBBR3pSUA?oc=5>
+- 场馆: finance.sina.com.cn
+- 时间: 2026-08-21 02:24
+- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxQcGhkZDNsbzdvcHlIS3VRMnhZaWFVdWRhS19EcHo2eG4zeHE4MHZYeWItRE8zQ3U2aUliN0lIb0lFZVJoMHRDMnpMeDctV2NJRk9aZlVvbHJlS1ZYTHlXSkRsSXRIWmxCTG1WNE5neHlOcGFYQjdMaWp4Y3p3bC1wY2h0alBPVkI3X2thYzJEY1JZOTZWb1pPT1pIelZwdllmV0EtYXV5WlZFWDlmZFd5MktFRS1LaEZ4RTlRNGNHVmhFYi1wckVuQUdPZGg3VnM?oc=5>
 
-### 乔恩·奥索夫连批特朗普数月，是否意在2028年大选？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-08-21 02:05
-- 链接: <https://news.google.com/rss/articles/CBMiugJBVV95cUxOVkoxd3hUTlRhYmhhdmx4cDJBdUF1WHRoWm4zMU91Z05scFpOWEpaalBvOVB1bE5ldWhhRzNvU3RHODlOZHowWVB6TDIwVjNFMWNQeGpjaklzdTRaMkRKVHp0ZzF5b1FhT0RMWC1XV1BPeGpUQ3dHczhiODRpYlFJZ2RZVk5VLUYxbmdzUXdDaV9sTmZaV3BnQl9zSmtubFBXQnJLZE80TF9tWGF0dzdTMWtrb2t2Q21tXzVNblcyNTNaNkhZcHRrdzZqNDl5aGQ4WF9oNFpaT19GUm9iaVlvOVV3cVdoLTVaaERZS2R1elZYbDg1OEhZbXBTTnBEcGluNlM5NXA4NWcxSFNEYjdMWjdFWmdjMXlGWnBfZGJEM0pFb3pHc3k0cHJUS3oySTFsU1lKTTBOaXRZZw?oc=5>
-
-### 特朗普为何威胁要“轰炸阿曼” 霍尔木兹海峡协议僵局引发
+### 更衣室、打印机、发送键：她控制了特朗普的每一天
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中华军事
-- 时间: 2026-08-21 01:19
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBIeXJHX0EyMjFpN2gzUW02djk4S2hqR3dURTk1NkRXcUVERXE1RnJJT05NVk1oS2wyOU1YQUxFNlR2T0s0Y0thRE9ZX09ma2NFbG9yUHhDM25RRkp1S3VrODlCd0tSOHBKTklXTTY4Tnk?oc=5>
+- 场馆: 文学城
+- 时间: 2026-08-21 02:53
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFAySFF6cDFKYWFxMDl1cFl6Z3Vmb0xsbGI5SllSU09tb2hxelUtbmxFUlJIZHZQXzQyOUFKTGVnSjJBOUk1RVdVR1RSNmdTX0xYVjVBS3NPZkE5ZE9mbG9FZUc1bktIU29p?oc=5>
 
-### 小特朗普支持的MAGA电商平台崩盘内幕
+### 特朗普威胁惩罚伊朗贸易伙伴，对中国影响几何？
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-08-21 01:46
-- 链接: <https://news.google.com/rss/articles/CBMingFBVV95cUxQWlkxa0lCem5YOHMyT2JjaUg2V3lPc21neS00LVFWVGs1bjcxbmp2bThsZUpUS0k3WDRBcHpiNmdZd2NGc0h6SW1tc1RKR2lzTFdJUjEzOTNhdHJNYTlkZ0xuSkNRVUxIMi1pSkY0SG4yTGQ3UmQxNHotTXpPUGVQdlNIdFlaU1hnb2lSOXZaRGJBT1VKOHBMeHBmcVF3QQ?oc=5>
-
-### 比特币飙升突破$70,000，因收益率下滑，特朗普引发乐观情绪
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-08-21 01:41
-- 链接: <https://news.google.com/rss/articles/CBMirgFBVV95cUxQMk91UnMwQWpidi1pSk9LZjR6NVBYdVlUYkc4UWx2bmVBYU91Y3JqTE5kLWFVQ0JuWlcyWEViTVh4VFJTcmNGVmVMZ0VHa3pxMG5Nd29icWhYaVg4OFB6NTN6LVk2VVllNFpNeTVNMTZnejZpT1RiMjRVQUVuM0JITWpiOHJiTlNfVTZST3VvZnVRVHc4Y3prNzRyX2lmaEJRNUdLSktBMHBHZzVhbHc?oc=5>
+- 场馆: 纽约时报中文网
+- 时间: 2026-08-21 02:07
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTFAtWWgzR2hyVGJLQUpQLThQSS1FaUFxdTM0RjV2NXc1bVpadDlNdEpzMWZaQzJfa0U1V0RWdWl3WEp1Y0FUUjRPT3h3RUtFdlI3MENJa0lqeFphaGVFMjhtTnB5VkVXeV9BRzVaaS1TbHoyRFZN?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-21 03:28  (4 条)
+
+- **周杰伦** | 忘不了周杰伦我落泪情绪零碎 周杰伦嘉年华世界巡回演唱会 周同學的精选 <https://k.sina.com.cn/article_7879923955_m1d5ae18f302001lc7a.html>
+- **特朗普** | 美伊冲突难休？特朗普政府批准提前开售冬季汽油，全力压低油价！ <https://news.google.com/rss/articles/CBMizwFBVV95cUxQcGhkZDNsbzdvcHlIS3VRMnhZaWFVdWRhS19EcHo2eG4zeHE4MHZYeWItRE8zQ3U2aUliN0lIb0lFZVJoMHRDMnpMeDctV2NJRk9aZlVvbHJlS1ZYTHlXSkRsSXRIWmxCTG1WNE5neHlOcGFYQjdMaWp4Y3p3bC1wY2h0alBPVkI3X2thYzJEY1JZOTZWb1pPT1pIelZwdllmV0EtYXV5WlZFWDlmZFd5MktFRS1LaEZ4RTlRNGNHVmhFYi1wckVuQUdPZGg3VnM?oc=5>
+- **特朗普** | 更衣室、打印机、发送键：她控制了特朗普的每一天 <https://news.google.com/rss/articles/CBMiaEFVX3lxTFAySFF6cDFKYWFxMDl1cFl6Z3Vmb0xsbGI5SllSU09tb2hxelUtbmxFUlJIZHZQXzQyOUFKTGVnSjJBOUk1RVdVR1RSNmdTX0xYVjVBS3NPZkE5ZE9mbG9FZUc1bktIU29p?oc=5>
+- **Trump** | 特朗普威胁惩罚伊朗贸易伙伴，对中国影响几何？ <https://news.google.com/rss/articles/CBMidEFVX3lxTFAtWWgzR2hyVGJLQUpQLThQSS1FaUFxdTM0RjV2NXc1bVpadDlNdEpzMWZaQzJfa0U1V0RWdWl3WEp1Y0FUUjRPT3h3RUtFdlI3MENJa0lqeFphaGVFMjhtTnB5VkVXeV9BRzVaaS1TbHoyRFZN?oc=5>
 
 ### 2026-08-21 02:20  (7 条)
 
