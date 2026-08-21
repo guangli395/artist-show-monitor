@@ -1,32 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-21 15:03**
-- 本轮扫到 10303 条, 新增 **2** 条
+- 最近更新: **2026-08-21 15:56**
+- 本轮扫到 10307 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (4 条)
 
-### 特朗普将允许30万吨碎牛肉免配额外关税进口
+### 美加贸易协议接近收官，特朗普关税大限步步逼近
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-08-21 14:07
-- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxNMXZIVTNDWUJlTnE3dE1hbU5tV2d2T3prYmc0V0oxc01kWUNIQzdBMXhYM1FFVGpPLTI2SU9PYnZ1TG5CenZXdTg5d2pwY2I4bllsVHV1eURjMkI5QU9scW9vVGIzLXkwZXlmbG13LTVYSmZIOFRxTFctaTNuaXFseVh3NDRFRnd6LTRyemJXWkdXdlp2SjdGcm0tRXc?oc=5>
+- 时间: 2026-08-21 13:03
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPS3Zfd21pVmdpaHNmWEwtUG50Wno4VUN0VXpHNVRKbk5VakgyZWtFamRhMHFqQS0wRXFNTHZUV09QRFl3bHFjODVRQ0Npa0xyaVdpYU8xVGRmTjl3UEhOTjc1YTRrd1p5UEJJc1BleTRlUWl2RHNoNXpGNXR5dlowSDd2TDBmLV9fTGJqbTBWMUdJNGRGZ2FNVVpYcUFnbkJqenhPWHVtV28yM3pQMlNmbUVfTGQ3cXE2dngxd09INkwyQ0p3aGdvdXM5dklaRHJIN0ZVcUxPTFhwM2I1R2kw?oc=5>
 
-### 特朗普扬言“经济版D-Day”摧毁伊朗 北京首当其衝？
+### 特朗普签署备忘录：探索商业机器人登陆火星，2030年实现每年至少1000次发射与再入任务
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: DW.com
-- 时间: 2026-08-20 19:00
-- 链接: <https://news.google.com/rss/articles/CBMiqAJBVV95cUxQUlpFQkw2SUkxT2JMVFpVTTF4REdGNEJuSGpUbWk4RTFnbzJ0NGNnZzN6cXpkNjFfTWxwaEFJREVOZnpscWRYSVB4T253S2s3Zl82bjFJUURKSm1JVFVXdXp3cGN3Um9vZFNEUEk4RWxFV3ZXOHhseXphVkd1RWg2ZE9pSmNKSVhEVUJhYlRuTjVnY0VXeE5vOXpxblBlYVRlMnB0dWRzX1ZEeW1zNWQtLWNqOUZpYnNOTWh5SS1QbUFwVERBLTFUVnFKazFkWlZhX25jSEZMX1RMcHBlbGdGcVlpTEZTalcyMkpxbHZveDdLNHBNNkE5ZzcyNjFSZmI0RndNdk5lSGMxN05ONmRJQlFDYzlERS1ya1pUUFlhWWRLeWtkWjNJUdIBqAJBVV95cUxQeWtIaDNfUTlwVWpMc2VvdVNRQ180Z29MYWtfTGVsNkRJcHI0ME81dEZOOWpMZFFoUGotSmV1d2RNQWJRRjZFZ1hCZ3NQUnZJZ2lFcE5aT2F0X2VxRktIdEc0WDFTbVNXS1lqcW1ObW85Tnlzak1TZ1RaTEI2MDM2alAwT2RxS3FtZ1dlc0NoakRMU09oMlhTN2JSc1pWVk1tek56QzVwUFpGQnoyRFR5c3V3RUdReWlSVGRCOGFvSndsZkY3RVo0aDNueU8xMzlpRzNwUFduNmUwZXBURGxjWWhxcE5rbUl6NFdvN09oVW10TW9OOEpMTFNvYmhFdUZ2TEZwZ2NvWVR5ODFMaFExR3IzME5wc2ptSmFkQnZFemYzWHNTUkNQaA?oc=5>
+- 场馆: finance.sina.com.cn
+- 时间: 2026-08-21 09:08
+- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTFBtTGwzMHpDZ1QyYVZPclVOdXVGdURSckhPNUg1SnJSNkI0ZWY3blJXTWFPdG1RVnNNVjM5ejRQWU5mX2JvU1pIX2pRT3hsQWxqWUtaY1VsR3FWcC16WEdaa0lwajhvckdQX2lHa3F3?oc=5>
+
+### 特朗普宣布暂时豁免碎牛肉进口关税
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新京报
+- 时间: 2026-08-21 13:56
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE54S3VJLXFIam1oczBxajhQSm5FZFpwUFI4Wkl5cGx4aFdNZFlDNmVtRmdlZXNBcEllbnZfT1h6WDN5WUJSNjZfdk9pNk5ySEJpSWo3RjVkUTcyOElKTWxIV2RoVDA?oc=5>
+
+### 王毅访韩展开魅力攻势 北京能否在美韩之间成功插入楔子？
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-08-21 14:20
+- 链接: <https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa3NyaFItUG9tT3RxWUR3Y3ZYRXF5SHV1Y19iQ05vc3g2OXRfd1VoUm0yU3VoOWNEOHVrelc4cnI5cUNlZGZ0cUh2N2xuNUl3RUdSTTM0dFh2SkQwelFWVFRtZUlHRmFsSldQM3ZxandKN2M4V0ZMRTlscnlXZXpOVjY4OXJINlBlV2NVLVU4dTAxQUgwcW52US1hbElvV0tMNTF1blR4TEszODBZOVFQbGpyajE3cko1ZE9j0gG-AUFVX3lxTE10UnQwWmRxTlZYaV9HRUd4YnpURTdvR3AtcGhCcmxhQUVsQmFEMVdVbWw4WVBMdFRCRGMzczNQQlNuOGEwdnVZbkFhMDNDSGd1U2tIV3lWWHMwcTBsZnNtdVFmX3daU185RTRmSkwzXzROT3JULWlpU2lISlBNMGFoVHNraTk3SC0tYnhtOEt2bkZ6RDZQeTdVQ0h5MHNYWmtGSU1QUHZqMVJEa1dSMG1jUGRvWjNQMkc2WFZ3OVE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-21 15:56  (4 条)
+
+- **特朗普** | 美加贸易协议接近收官，特朗普关税大限步步逼近 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPS3Zfd21pVmdpaHNmWEwtUG50Wno4VUN0VXpHNVRKbk5VakgyZWtFamRhMHFqQS0wRXFNTHZUV09QRFl3bHFjODVRQ0Npa0xyaVdpYU8xVGRmTjl3UEhOTjc1YTRrd1p5UEJJc1BleTRlUWl2RHNoNXpGNXR5dlowSDd2TDBmLV9fTGJqbTBWMUdJNGRGZ2FNVVpYcUFnbkJqenhPWHVtV28yM3pQMlNmbUVfTGQ3cXE2dngxd09INkwyQ0p3aGdvdXM5dklaRHJIN0ZVcUxPTFhwM2I1R2kw?oc=5>
+- **特朗普** | 特朗普签署备忘录：探索商业机器人登陆火星，2030年实现每年至少1000次发射与再入任务 <https://news.google.com/rss/articles/CBMibkFVX3lxTFBtTGwzMHpDZ1QyYVZPclVOdXVGdURSckhPNUg1SnJSNkI0ZWY3blJXTWFPdG1RVnNNVjM5ejRQWU5mX2JvU1pIX2pRT3hsQWxqWUtaY1VsR3FWcC16WEdaa0lwajhvckdQX2lHa3F3?oc=5>
+- **特朗普** | 特朗普宣布暂时豁免碎牛肉进口关税 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE54S3VJLXFIam1oczBxajhQSm5FZFpwUFI4Wkl5cGx4aFdNZFlDNmVtRmdlZXNBcEllbnZfT1h6WDN5WUJSNjZfdk9pNk5ySEJpSWo3RjVkUTcyOElKTWxIV2RoVDA?oc=5>
+- **Trump** | 王毅访韩展开魅力攻势 北京能否在美韩之间成功插入楔子？ <https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa3NyaFItUG9tT3RxWUR3Y3ZYRXF5SHV1Y19iQ05vc3g2OXRfd1VoUm0yU3VoOWNEOHVrelc4cnI5cUNlZGZ0cUh2N2xuNUl3RUdSTTM0dFh2SkQwelFWVFRtZUlHRmFsSldQM3ZxandKN2M4V0ZMRTlscnlXZXpOVjY4OXJINlBlV2NVLVU4dTAxQUgwcW52US1hbElvV0tMNTF1blR4TEszODBZOVFQbGpyajE3cko1ZE9j0gG-AUFVX3lxTE10UnQwWmRxTlZYaV9HRUd4YnpURTdvR3AtcGhCcmxhQUVsQmFEMVdVbWw4WVBMdFRCRGMzczNQQlNuOGEwdnVZbkFhMDNDSGd1U2tIV3lWWHMwcTBsZnNtdVFmX3daU185RTRmSkwzXzROT3JULWlpU2lISlBNMGFoVHNraTk3SC0tYnhtOEt2bkZ6RDZQeTdVQ0h5MHNYWmtGSU1QUHZqMVJEa1dSMG1jUGRvWjNQMkc2WFZ3OVE?oc=5>
 
 ### 2026-08-21 15:03  (2 条)
 
