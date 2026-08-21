@@ -1,30 +1,53 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-21 23:17**
-- 本轮扫到 10334 条, 新增 **2** 条
+- 最近更新: **2026-08-21 23:46**
+- 本轮扫到 10338 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (4 条)
 
-### 限定男团解散七年后，蔡徐坤演唱会刷屏全网，尤长靖专注音乐 ，范丞丞
+### 谁懂每天都听演唱会的救赎感
 
-- 艺人/关键词: **蔡徐坤**
+- 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7811142420_m1d194931403301cvae.html>
+- 链接: <https://k.sina.com.cn/article_7879996608_m1d5af34c003301os2w.html>
 
-### 特朗普政府又被起诉！行业组织抗议留学生签证收紧
+### 特朗普签备忘录：2030年实现每年发射超千次
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 第一财经
-- 时间: 2026-08-20 23:12
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlOXZqdHZfbVExaEVrMm0tcWpYVEx6Um1oSzQwdjZ4SWRwSXZ0Vk1LVE56WjJMeXh5RmszZm45bmt4Q3E4VG5lY3pYeGxYSEhGX2xF?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-21 23:28
+- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxQVmlmREJBM2NiSmZ3YlVBNFBPX2JFVXdXWDZrYjI2ZW5KajBRcFhVSzZVUDlFRkdTb0ptYTNreWpjNjRJVTRWWjNGZFp2SWM5WjRsU1RxaWJXTFRwQnViSk9pdFRvTUtzVVN5WU9ZQTZXekVXeTFFZ2JlSmF4Ui1ubGRqUk5zTFFrMGdJTnlNRERGYXJoR1lQWTVZNm8xOF9S?oc=5>
+
+### 顶不住了？特朗普宣布暂时豁免碎牛肉进口关税
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-08-21 22:59
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBwbWRvTDFBZE8tc3l2TURTNlkxWV9mNWxkQi1CcEs0N3JNQ0lmaEozY1hBM1pGYUZUUFh1ajBPekVxRE5HU2V6NEV1MWZtdEdRdlNZMy1CZjRET2JQamJPWFN4Rzd2YUo1WGc?oc=5>
+
+### 伊朗称美经济战“注定失败” 特朗普否认军事选项受限
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: chinanews.com.cn
+- 时间: 2026-08-21 22:46
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE54SEtaLUxsNnBSR0ZNZDZYUGJrSk1EUjU2NG9VOFpwUXdCRjJNWXJ5X2xoMzVIOUVkVHpDOW5jZF9jQ3FSZW5HX09qV1ZOY2dzbGF3RG5hLVFOMHQza3VJU0VmZEN6NXZ1?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-21 23:46  (4 条)
+
+- **周杰伦** | 谁懂每天都听演唱会的救赎感 <https://k.sina.com.cn/article_7879996608_m1d5af34c003301os2w.html>
+- **特朗普** | 特朗普签备忘录：2030年实现每年发射超千次 <https://news.google.com/rss/articles/CBMioAFBVV95cUxQVmlmREJBM2NiSmZ3YlVBNFBPX2JFVXdXWDZrYjI2ZW5KajBRcFhVSzZVUDlFRkdTb0ptYTNreWpjNjRJVTRWWjNGZFp2SWM5WjRsU1RxaWJXTFRwQnViSk9pdFRvTUtzVVN5WU9ZQTZXekVXeTFFZ2JlSmF4Ui1ubGRqUk5zTFFrMGdJTnlNRERGYXJoR1lQWTVZNm8xOF9S?oc=5>
+- **特朗普** | 顶不住了？特朗普宣布暂时豁免碎牛肉进口关税 <https://news.google.com/rss/articles/CBMiakFVX3lxTFBwbWRvTDFBZE8tc3l2TURTNlkxWV9mNWxkQi1CcEs0N3JNQ0lmaEozY1hBM1pGYUZUUFh1ajBPekVxRE5HU2V6NEV1MWZtdEdRdlNZMy1CZjRET2JQamJPWFN4Rzd2YUo1WGc?oc=5>
+- **特朗普** | 伊朗称美经济战“注定失败” 特朗普否认军事选项受限 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE54SEtaLUxsNnBSR0ZNZDZYUGJrSk1EUjU2NG9VOFpwUXdCRjJNWXJ5X2xoMzVIOUVkVHpDOW5jZF9jQ3FSZW5HX09qV1ZOY2dzbGF3RG5hLVFOMHQza3VJU0VmZEN6NXZ1?oc=5>
 
 ### 2026-08-21 23:17  (2 条)
 
