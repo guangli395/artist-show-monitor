@@ -1,32 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-21 21:17**
-- 本轮扫到 10326 条, 新增 **2** 条
+- 最近更新: **2026-08-21 21:46**
+- 本轮扫到 10328 条, 新增 **2** 条
 
 ---
 
 ## 本轮新发现 (2 条)
 
-### 特朗普推出新关税宽减措施 旨在压低牛绞肉价格
+### 应特朗普总统的命令，美韩提前六天结束“乙支自由盾”演习
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-21 19:59
-- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcXltamFCOEI0cHN1c3hKTXZYNnVPd2h4RkRvb0hCbDN0ci1tVm10RkhXTk5sbzBNS1lJZ1lubFhkR19LUzFoalozZEF2eDUwSi1TRVNCa1BQdng4Z29mdTdfRUhQNDFWcDduVnYxUkhXV0VTQTlsRUtrU2xhNTk5bWZ2WGZZSU9YbmFQRktqT0pPNmc1Y000YWJvc0Zici1mdlRwckFtcTRDemQ2NDlOWW15cUxpbmRteDk3amRIWEI3OV85Vll6bXYwc3dlVHVONkE?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-08-21 21:24
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMWhQMTJZNkE1UTZoRXBicThDZGh4cnFLLXl1RzljMUFmQms5R21EZlFEcUFlZjdTeWdVSjJ4LUZ2SkRSVHg2TFVLbzN5NVRiWm1vU3dsZklZT242RXJud0NWZkFMUHJvRDVxN3V0TEptempRa05tUEh1OTNMcXVJWExFNWFlRUk0ZnZOclVfUEpaUWhQcWZYNkZqV2hPaUZ4TG8zSHpPYzhqakZhbzFrdk05T3FIRFJVS3pMa05vdWdsQnNEd3VobHVPTHBCMncx0gHTAUFVX3lxTE9MYko0Wkp1VWswZV9kdEtER09JSjJHUzNxR25ycXBjMGNkZUJ5RGRKM1dJeEdMRjFodXZhRTFWUFEtRVBuNEVmcnNVSkxVWkNCMXZILXU3V051TW1PSGtBc1FnNGo5bjBwMkdtZUVnRGF2RVlsTG5nX3RJODAyMHM1SDh3cGlnYS1SUHRlQzR0aWJ6bmRxV3pBcWNUTTVJSFJEczB5b1ZXemxHaGZobjU5cUgzcGNYVEFOY2JYLW91X0xkSUNmZDgybi1scGNkYjEzT2s?oc=5>
 
-### 美加贸易协议接近收官，特朗普关税大限步步逼近
+### “特朗普拿伊朗施压，恰恰说明他没招了”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-21 13:03
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWlp1NGFoNGt3LXFEVFFBTHp2Z2R5MjliaHJWdDZXR05GYnUxajBOOGZtYjlPOFNyZ05qaExlWm9ZTmhCV3BvRnlNQUIyM29GQkYxZWRkYTN4TElPSGpNcldieUdjbHVCZ2J2Z0Q4OTQ5d2h2UE4tZVpBSjhsNWZtWGs1YkNwbWJiVmE1QzU5N1RNczhWd2lqbUNkYkRZT0VhLUFKVTFBdGxvTXZhNlluY1VDVExUT24wemRMV1otYlh2SEZEN21XSVc4eDlCOXNQbFlPRXh5WFY4NUYyMTQ0?oc=5>
+- 场馆: 观察者
+- 时间: 2026-08-21 14:37
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE00cGxfV05qZmR0TmlxbHI2a28wRzFuRXEyQ0tkLXpSTzJLUDVGc21tWEJsTUY1S2VHMkVTajRxaF94TW5HTzFNOXpYdEdpSlNwa3AwLVh4QTBBc2ZMdEJBTURjbFVyeDYxSlE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-21 21:46  (2 条)
+
+- **特朗普** | 应特朗普总统的命令，美韩提前六天结束“乙支自由盾”演习 <https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMWhQMTJZNkE1UTZoRXBicThDZGh4cnFLLXl1RzljMUFmQms5R21EZlFEcUFlZjdTeWdVSjJ4LUZ2SkRSVHg2TFVLbzN5NVRiWm1vU3dsZklZT242RXJud0NWZkFMUHJvRDVxN3V0TEptempRa05tUEh1OTNMcXVJWExFNWFlRUk0ZnZOclVfUEpaUWhQcWZYNkZqV2hPaUZ4TG8zSHpPYzhqakZhbzFrdk05T3FIRFJVS3pMa05vdWdsQnNEd3VobHVPTHBCMncx0gHTAUFVX3lxTE9MYko0Wkp1VWswZV9kdEtER09JSjJHUzNxR25ycXBjMGNkZUJ5RGRKM1dJeEdMRjFodXZhRTFWUFEtRVBuNEVmcnNVSkxVWkNCMXZILXU3V051TW1PSGtBc1FnNGo5bjBwMkdtZUVnRGF2RVlsTG5nX3RJODAyMHM1SDh3cGlnYS1SUHRlQzR0aWJ6bmRxV3pBcWNUTTVJSFJEczB5b1ZXemxHaGZobjU5cUgzcGNYVEFOY2JYLW91X0xkSUNmZDgybi1scGNkYjEzT2s?oc=5>
+- **特朗普** | “特朗普拿伊朗施压，恰恰说明他没招了” <https://news.google.com/rss/articles/CBMiakFVX3lxTE00cGxfV05qZmR0TmlxbHI2a28wRzFuRXEyQ0tkLXpSTzJLUDVGc21tWEJsTUY1S2VHMkVTajRxaF94TW5HTzFNOXpYdEdpSlNwa3AwLVh4QTBBc2ZMdEJBTURjbFVyeDYxSlE?oc=5>
 
 ### 2026-08-21 21:17  (2 条)
 
