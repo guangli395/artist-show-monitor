@@ -1,48 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-21 10:01**
-- 本轮扫到 10276 条, 新增 **4** 条
+- 最近更新: **2026-08-21 10:55**
+- 本轮扫到 10281 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (5 条)
 
-### 深度 | 发动“毁灭性”经济战、“慢慢扼杀”伊朗，特朗普为何突然变招？
+### 特朗普政府推进加密货币新规，关键法案在国会受阻
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: finance.sina.com.cn
+- 场馆: 新浪财经
+- 时间: 2026-08-21 10:54
+- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWktzcmxheHlNYkZkVXNLbWFKWXdRYzY2LTloWWRzT2Zpd3MwTlM5dVo2WmNFbnY0Wk5HRXBtcmdZMlZzQ3I0dG9teFl5b3VDemVmcG8wTzVRSFlVVWZZNUhQNThBS3pvZHplRDNtWTlCZkFsaUlIdnQxeDBKQ1BVNG5QR1NTSnl4el93a0ZGdW9xZ1VNQ0pwdU5iSk5XVGVKS3F3SGNhWnBqdw?oc=5>
+
+### 特朗普调走西太航母，看似走了一步险棋，实则对中国有了清醒反思
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 手机新浪网
 - 时间: 2026-08-21 09:34
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBCZVFOdVNwakxDNUYtRFJNdlc0RlpKbGVpWEs1cTJBR2t2UVY0V25ZX3M5OG9LQ0RCTjV5VHRSQV8teUtWWEFjSjNYeFVMaGEwTENJRjFqNFg3T25ibEdaLXVoLW9wWnNLWTJfQmd5LXljRDJWbmxzWA?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE9EdUdwYkp3TEdWeUE4ZHo5bXZmLUdrNXRJZ1VJcGNud1Z0TDNXSno1d1JEd19wT3hTclZxMmMxVlhSTUlXVGVoTmxLRFlCeFoyM3NfVFY0aGswbi1IN0ViXzhfanM4eEc4LWlhTHlVUkE5UQ?oc=5>
 
-### 美批准45亿美元对卡军售，此前卡塔尔赠特朗普“空中白宫”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: guancha.cn
-- 时间: 2026-08-21 07:51
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE42VlE1c01jZDRXbHhkaEhwNTF4bEJ4YktBSnR2V1FFNGx1RGx6TDh2UUdTMmVzNUpCWVAxWWE4OXZOQ18tenp2NldSY3U3ZHRxRXZXRkZtSGpFd1d2SlhKMWt3VkpJbmVwY0E?oc=5>
-
-### 特朗普签署备忘录以促进美航天发射 探索商业机器人登陆火星
+### 特朗普签备忘录：2030年实现每年发射超千次
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: china.zjol.com.cn
-- 时间: 2026-08-21 00:40
-- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTFB2UnBUQjhVMzJNZ1NmbXQ0VEtHc0RCYl90eEZtVXRGU0FZOXNsNFVlcFliN2FKRzFHTGtsaHFtRDUxSzEyclJuOE9rLXZ3ZWd2M2pDQ0h3RHI2X3FET3BhOFdPS0V1bUo3bzI4d05n?oc=5>
+- 场馆: thepaper.cn
+- 时间: 2026-08-21 07:46
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZSUt1di14M1NBaFU0bVRwNTdsWFlXbktHX1BpZ2RfYjJYdTVjbkNIQnJ0U1g2UHB5Y3h6RExyU0lOMnZZbmYwbExoUXBxWlBtSzV1MWZDVWpTWGtnc1NiVg?oc=5>
 
-### 施压韩国，示好朝鲜，特朗普想干啥？
+### 美媒：特朗普寻求今秋与金正恩会晤
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-08-18 23:46
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBkYTNXMktPbk1UQ0tBcnNoSjRvTm9WR01KQVpWSU9IOTI3alVoNmdZOWpxMnRmcmNUcDRJeWpGdmR5Mlo5QUVEN0xMQUY?oc=5>
+- 时间: 2026-08-19 02:48
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9pbkcyNFBGTXNnRWI2cmNNY2tQN3QxZl9ER2dZRDIxa0thcVJxRjl0QkZTQWdkTTdfbnFzVnZtSGhzanhjR2ZDLUxhWXU?oc=5>
+
+### Bitcoin Heads for Best Week Since 2024 as Trump-Fueled Crypto Rally Rages On -- Barrons.com
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-08-21 10:16
+- 链接: <https://news.google.com/rss/articles/CBMiowFBVV95cUxOYm1BNzAtUnFvcWlDeFd2aG9xOW4yLUJMXy1sWkUtWmwwRnhEVkNtZEtnZ01JUmttVWc3RGRuYXJjaGJaazNiZkZSMy13N3NxZVlzbXVfVWJqWGtLNG96NW9LQUFibU9WZlRxTXA2LW0zSERxSFY1dTZub244MUVVU0l1c19mY0hFRXB3ckRZTnp6SklEYjBOTHJ3VUFLdExyX3M0?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-21 10:55  (5 条)
+
+- **特朗普** | 特朗普政府推进加密货币新规，关键法案在国会受阻 <https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWktzcmxheHlNYkZkVXNLbWFKWXdRYzY2LTloWWRzT2Zpd3MwTlM5dVo2WmNFbnY0Wk5HRXBtcmdZMlZzQ3I0dG9teFl5b3VDemVmcG8wTzVRSFlVVWZZNUhQNThBS3pvZHplRDNtWTlCZkFsaUlIdnQxeDBKQ1BVNG5QR1NTSnl4el93a0ZGdW9xZ1VNQ0pwdU5iSk5XVGVKS3F3SGNhWnBqdw?oc=5>
+- **特朗普** | 特朗普调走西太航母，看似走了一步险棋，实则对中国有了清醒反思 <https://news.google.com/rss/articles/CBMickFVX3lxTE9EdUdwYkp3TEdWeUE4ZHo5bXZmLUdrNXRJZ1VJcGNud1Z0TDNXSno1d1JEd19wT3hTclZxMmMxVlhSTUlXVGVoTmxLRFlCeFoyM3NfVFY0aGswbi1IN0ViXzhfanM4eEc4LWlhTHlVUkE5UQ?oc=5>
+- **特朗普** | 特朗普签备忘录：2030年实现每年发射超千次 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZSUt1di14M1NBaFU0bVRwNTdsWFlXbktHX1BpZ2RfYjJYdTVjbkNIQnJ0U1g2UHB5Y3h6RExyU0lOMnZZbmYwbExoUXBxWlBtSzV1MWZDVWpTWGtnc1NiVg?oc=5>
+- **特朗普** | 美媒：特朗普寻求今秋与金正恩会晤 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9pbkcyNFBGTXNnRWI2cmNNY2tQN3QxZl9ER2dZRDIxa0thcVJxRjl0QkZTQWdkTTdfbnFzVnZtSGhzanhjR2ZDLUxhWXU?oc=5>
+- **Trump** | Bitcoin Heads for Best Week Since 2024 as Trump-Fueled Crypto Rally Rages On -- Barrons.com <https://news.google.com/rss/articles/CBMiowFBVV95cUxOYm1BNzAtUnFvcWlDeFd2aG9xOW4yLUJMXy1sWkUtWmwwRnhEVkNtZEtnZ01JUmttVWc3RGRuYXJjaGJaazNiZkZSMy13N3NxZVlzbXVfVWJqWGtLNG96NW9LQUFibU9WZlRxTXA2LW0zSERxSFY1dTZub244MUVVU0l1c19mY0hFRXB3ckRZTnp6SklEYjBOTHJ3VUFLdExyX3M0?oc=5>
 
 ### 2026-08-21 10:01  (4 条)
 
