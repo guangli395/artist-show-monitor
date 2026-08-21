@@ -1,22 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-21 16:30**
-- 本轮扫到 10308 条, 新增 **1** 条
+- 最近更新: **2026-08-21 17:02**
+- 本轮扫到 10309 条, 新增 **1** 条
 
 ---
 
 ## 本轮新发现 (1 条)
 
-### 周杰伦杭州站演唱会想看人数为何高达427万？
+### Bitcoin Heads for Best Week Since 2024 Amid Trump-Fueled Crypto Rally -- Barrons.com
 
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923377_1d5ae16b106801bta2.html>
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-08-21 16:55
+- 链接: <https://news.google.com/rss/articles/CBMipgFBVV95cUxNNDJuMGVsUFo5OFpTa2EtVGdxZ0VtaWhhWlNERXhmdE9SOUtkdkNkSC1NNkY2cFZQYWVMT0h2M0NoeTUyakpxYXNIRGJtMVBGSkVJYmYwajVHdXExRUpXOW1jdC1NNVhZNmsyZ1kxdDN5ZHY1anNPakxiRWdwOW0xZHRkZVlrVjNXX1I4akJLN0h4d1VILVI3V3FveHVPSHpxYjdLMHNR?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-21 17:02  (1 条)
+
+- **Trump** | Bitcoin Heads for Best Week Since 2024 Amid Trump-Fueled Crypto Rally -- Barrons.com <https://news.google.com/rss/articles/CBMipgFBVV95cUxNNDJuMGVsUFo5OFpTa2EtVGdxZ0VtaWhhWlNERXhmdE9SOUtkdkNkSC1NNkY2cFZQYWVMT0h2M0NoeTUyakpxYXNIRGJtMVBGSkVJYmYwajVHdXExRUpXOW1jdC1NNVhZNmsyZ1kxdDN5ZHY1anNPakxiRWdwOW0xZHRkZVlrVjNXX1I4akJLN0h4d1VILVI3V3FveHVPSHpxYjdLMHNR?oc=5>
 
 ### 2026-08-21 16:30  (1 条)
 
