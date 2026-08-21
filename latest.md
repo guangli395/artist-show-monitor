@@ -1,40 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-21 05:55**
-- 本轮扫到 10264 条, 新增 **3** 条
+- 最近更新: **2026-08-21 06:37**
+- 本轮扫到 10266 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (2 条)
 
-### 美债收益率下滑、特朗普会见行业高管提振市场情绪！加密货币全线大涨 比特币逼近7.2万美元
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-08-21 05:27
-- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQ3NmeFl1R24tZlJ2ZUI0Q0g5TXVTeXZvbklQeXRfNnZnbnVLTzZ4Vi1IWnRvRXJlS0h4RG13bGZUeVp3NlJ5dTNxVlpIMURhNTVEUmRtQUlTVTktVWtIamtuSkV1UmFLNTFaemhHRG4wX0llM2xQNmhnUTRaNThrX3g2LTBKbWVwMjBFWnh4aFpQZWtubjlTNm80QnVHZTNGYWRYTTBiRU1wdw?oc=5>
-
-### 特朗普出手，比特币、加密货币股票大涨
+### 新闻蒸馏器｜特朗普“守门人”惹争议：了解机密却未办理安全许可，已工作一年
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-08-21 05:27
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxQVGU4TVhUejI0ZjA0OUhSY245TmJiVGhOMHBwd202TWkzcHRRSENuR0FtZndsYkIzZVVMaFVtYU81Y1RIOERQNjBqLTBSRlFSSzNVUkVfUkVObmtOa09KVmNIRFJEek05RmZPTUc4a1VuUlNFMF9xbjR1VE9JX0lCVlpQNlFhUnNLM3R5dWJ2cXJaa2xBUzRPSQ?oc=5>
+- 场馆: thepaper.cn
+- 时间: 2026-08-21 05:43
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1MEJ2YVRIVGNQTW80c0xLMllCWWgtOWtyRE5TeFpyZkZfZmJYTnNzTjE4YzJ0RDRnYlJKcnprZFlqZkZhU2d4RTdTZ2dHSmNVLVRFTEZJWUlFT08yZjZFNg?oc=5>
 
-### 李在明表态赞同特朗普缩减美韩军演
+### 特朗普被曝对伊战略发生转变 放弃军事行动改打经济战
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-08-21 05:03
-- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTFBjZGxIUTR3Q1l6ZGNlVTk1Mi1DNjc5TDIxdXhXdTM2YWlxSy1zRmdYVVo0R0ZVbzhvQ3MtVXA4aEpIV3gwMHZrNVg2SnMzbzVieWVtZmUwcjYtLWRMU3J6aEVnY3cwUjV5Tkk2eUwxSGxUV2VMdkVXLW55eWRvUQ?oc=5>
+- 场馆: 财新
+- 时间: 2026-08-19 10:29
+- 链接: <https://news.google.com/rss/articles/CBMibEFVX3lxTFBlWWJSWEZWS1VqbDlaQnBpVExZWFBsU05qQzY4OV9Pa3hHeGhFSzRsdkNrUHBMWlZXcTkxaXFjSUN2bk5YeHM1UkwyQklOVHdWeTNPRW1yQjhoZE14RUc5TEFfcXZsTC1zbFp0SQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-21 06:37  (2 条)
+
+- **特朗普** | 新闻蒸馏器｜特朗普“守门人”惹争议：了解机密却未办理安全许可，已工作一年 <https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1MEJ2YVRIVGNQTW80c0xLMllCWWgtOWtyRE5TeFpyZkZfZmJYTnNzTjE4YzJ0RDRnYlJKcnprZFlqZkZhU2d4RTdTZ2dHSmNVLVRFTEZJWUlFT08yZjZFNg?oc=5>
+- **特朗普** | 特朗普被曝对伊战略发生转变 放弃军事行动改打经济战 <https://news.google.com/rss/articles/CBMibEFVX3lxTFBlWWJSWEZWS1VqbDlaQnBpVExZWFBsU05qQzY4OV9Pa3hHeGhFSzRsdkNrUHBMWlZXcTkxaXFjSUN2bk5YeHM1UkwyQklOVHdWeTNPRW1yQjhoZE14RUc5TEFfcXZsTC1zbFp0SQ?oc=5>
 
 ### 2026-08-21 05:55  (3 条)
 
