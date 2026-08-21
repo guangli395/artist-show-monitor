@@ -1,40 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-21 12:33**
-- 本轮扫到 10290 条, 新增 **3** 条
+- 最近更新: **2026-08-21 13:39**
+- 本轮扫到 10295 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (5 条)
 
-### 特朗普希望会见金正恩，朝鲜提出条件
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: idnfinancials.com
-- 时间: 2026-08-21 12:00
-- 链接: <https://news.google.com/rss/articles/CBMilwJBVV95cUxPU09EXzI2T0Z4UUtBSGNieTY1dDdUVUZFZHhQLV92cUdqZnU0bHRzTUYxckZtTmJMRFBWS1ZzWDlnNzR4S011MU9OUnlqb0R1d21LaWR0SzhsdlkzWllFbWtJUHJqUlBSN0FxQmVLTkVBQVNVRDd4VHhBX1Y4ektndUN5Sk9xTGtaVXpTN21Yc3I1eVFGZ2pndEFBTWZrZHZjZ1ZhUDFYd2ZyaktDV05VWEFmUHNlSlZTUm5XMVRvLUtubzV5UGVLOXQ5RnFxbXA4Q1NBM1JZOC1jTExLUjRFY21sSVh2TnZjcFFMUTM1VDVUYlNmamxzX3JFZm1fYlM3Q1JQWnBTY25wWlZiSjd3cjR2cFpON2c?oc=5>
-
-### 特朗普宣布对伊朗采取“史上最严厉经济行动”
+### 美加贸易协议接近收官，特朗普关税大限步步逼近
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-08-19 07:00
-- 链接: <https://news.google.com/rss/articles/CBMivgFBVV95cUxNQUlic0psYXU0UEhGemdodFdfNXQ5UjZqVXdDNTNaQjlIclA1S25mZWZXSEFrUDl0TXJDTnctSTlIdjNBb3J4VENSdXFQTW10T0w1eFBLY0F6SEZ3bHBiTVJSNUNSYlRfTmdTNkoyeFVibVZMTkVJSmluZ2NEQjI1NEJQUWp0ZHpkalcxQ0tWMmZldExMdHdhRzJVNDk5VkdOcjhVS0MyMEUxZzV1TGMtb0FUQjljeWVHS3FFeF9B?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-21 13:03
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxOd2VtM09pMllJNV94M3pYZWplal9XdW5fUnlhTlkxUG42UE1Vb2JLT2c4TGlpcEhPY3doRmZaQ3U3M2xIUVY3elMzcFlhQTZUQmQyWjROcHVmVXJLYkNIV1kyYkNsV2R6OWk0Tk5rM0R3UF9PcW9ENkxqb3JBbEI3bnhZd3hxRDJ6X3hGOWo0Qy1reWlXUC1lT281ck5nZjNGSzlCdzNjTUFHaDBsWGVLZGdETnN5VmxHVDNVTFRhSHZPdHBtZC0xck8zVVVKeTNBWjdZcGNUUlpPclFIX2Fz?oc=5>
 
-### Oil Extends Rise After Trump Shifts Iran Strategy to Economic Strangling -- WSJ
+### 美国对华关上的大门，该打开了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: guancha.cn
+- 时间: 2026-08-21 12:41
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE13MVpwR0ZHdWxHVXFmejh0c181M1Nnd2JNN0F4bGRRNVUxX1B2QjZXRmp6TzRpc3NsTGUyek9xMk1Qa2I0MHd2eFZNUW1Dd2lqOS1PZ015VlpjaUdRdThJcG5XaDVoN2RrNkE?oc=5>
+
+### 让总统离开“靶心”，解读特朗普秘密换机
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-08-21 12:55
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE95eHJQcERGTVhJbDF2czY5RXlOMnNqQlBERE1MdnF5c1VPNHpBUXNMT1VJUjdLNmdMbnYwRzdJZ3ozTGV3QXg4YnFVaUw5QzZyamFBek8wakxXWlJtV19MamRLdXJtMWJoTDVKTC1vVE4?oc=5>
+
+### 美国专栏 - 特朗普祭“经济D日” 能否逼伊朗结束战争
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-08-21 13:17
+- 链接: <https://news.google.com/rss/articles/CBMi7AJBVV95cUxQT0poNlhVTWpRMnJtVGVIbG5LUmwxTEZxVFRYdzdmRXF3ZmlKZ2ZxeHhEX3RHLW1USGZaLVFERU5fV1pDVXVOSlFuT3hCUGcyV3lETjZWNVFMaGJOa3JhMkRVNGpCN0plcW12UFJrcm8zV2xQMC1KTUJOUHVYV3BxSXlrSE1HS0J4TzJROXpoTlliY09zUzRBZTIyMkh6S0xEWGIxWWkyaDZ0a2dnSjkxM09zLVNNc0Z2TVlOZ3g2cTNqdHFrY29iS0FzejJidWZpS0ZsNGtTamttYjROYkpGbEhKWGg3U1k5YlpZbXhkNUF0d1pPVTRkaW1nSGlaNGFLNmNhUXA0WFM5VjhGMUNQVldZZ2dWLTJoajNQSk1aTlZzcE1VRXBsOXd1RjI3SXh1R1cwci1SRVI2d1QzTlZxU0VFbkFNN1YtRXVMODQ3RDh5R2VGQXhUa0JtbXE5QW9yNG02LTkwMmNuclpV?oc=5>
+
+### U.S. to Boost Beef Imports to Address High Prices, Trump Says
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: Moomoo
-- 时间: 2026-08-21 11:45
-- 链接: <https://news.google.com/rss/articles/CBMirAFBVV95cUxQWVRCQko3bnBmajRhZ293ejlJZWV6X0JTNlhDcWQwRW9nMzVHTE1FdUdwM0M5TXZycFRKUnFyOXZuNHhfRHRNN0V4SHpnU21PRXFmekhOU0VOMmNlVzlNNU9YOHRnekVYdlBYWWxxRFBlNVpwQWxvZjUtY01JdWhqVWJPblNZbngtVW5KVmRyMy1MLUduWGcwZ05wQXFwTXp0N2hIblc0T1BzOHpy?oc=5>
+- 时间: 2026-08-21 12:45
+- 链接: <https://news.google.com/rss/articles/CBMiogFBVV95cUxQYnBYTkM4Sl9na0lIWEZNSThLRDUyNFdTTlEyMVpkOUgyeVhFa1ByN0dnQ1g5VTV5TnZFbUpaeFNwOXJrMGdJenRiLW93clY2dHdNVXR5SzQ5XzB4dlRSMFdpRmd3VFFLbVp1S1ctMmFRc0l3VUxkOHJyU1h3M3N4Tk1yN3lTalZHZDdJZy14bTNCWExUSmhqYm9yV1pLM2ZqV1E?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-21 13:39  (5 条)
+
+- **特朗普** | 美加贸易协议接近收官，特朗普关税大限步步逼近 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxOd2VtM09pMllJNV94M3pYZWplal9XdW5fUnlhTlkxUG42UE1Vb2JLT2c4TGlpcEhPY3doRmZaQ3U3M2xIUVY3elMzcFlhQTZUQmQyWjROcHVmVXJLYkNIV1kyYkNsV2R6OWk0Tk5rM0R3UF9PcW9ENkxqb3JBbEI3bnhZd3hxRDJ6X3hGOWo0Qy1reWlXUC1lT281ck5nZjNGSzlCdzNjTUFHaDBsWGVLZGdETnN5VmxHVDNVTFRhSHZPdHBtZC0xck8zVVVKeTNBWjdZcGNUUlpPclFIX2Fz?oc=5>
+- **特朗普** | 美国对华关上的大门，该打开了 <https://news.google.com/rss/articles/CBMiakFVX3lxTE13MVpwR0ZHdWxHVXFmejh0c181M1Nnd2JNN0F4bGRRNVUxX1B2QjZXRmp6TzRpc3NsTGUyek9xMk1Qa2I0MHd2eFZNUW1Dd2lqOS1PZ015VlpjaUdRdThJcG5XaDVoN2RrNkE?oc=5>
+- **特朗普** | 让总统离开“靶心”，解读特朗普秘密换机 <https://news.google.com/rss/articles/CBMicEFVX3lxTE95eHJQcERGTVhJbDF2czY5RXlOMnNqQlBERE1MdnF5c1VPNHpBUXNMT1VJUjdLNmdMbnYwRzdJZ3ozTGV3QXg4YnFVaUw5QzZyamFBek8wakxXWlJtV19MamRLdXJtMWJoTDVKTC1vVE4?oc=5>
+- **Trump** | 美国专栏 - 特朗普祭“经济D日” 能否逼伊朗结束战争 <https://news.google.com/rss/articles/CBMi7AJBVV95cUxQT0poNlhVTWpRMnJtVGVIbG5LUmwxTEZxVFRYdzdmRXF3ZmlKZ2ZxeHhEX3RHLW1USGZaLVFERU5fV1pDVXVOSlFuT3hCUGcyV3lETjZWNVFMaGJOa3JhMkRVNGpCN0plcW12UFJrcm8zV2xQMC1KTUJOUHVYV3BxSXlrSE1HS0J4TzJROXpoTlliY09zUzRBZTIyMkh6S0xEWGIxWWkyaDZ0a2dnSjkxM09zLVNNc0Z2TVlOZ3g2cTNqdHFrY29iS0FzejJidWZpS0ZsNGtTamttYjROYkpGbEhKWGg3U1k5YlpZbXhkNUF0d1pPVTRkaW1nSGlaNGFLNmNhUXA0WFM5VjhGMUNQVldZZ2dWLTJoajNQSk1aTlZzcE1VRXBsOXd1RjI3SXh1R1cwci1SRVI2d1QzTlZxU0VFbkFNN1YtRXVMODQ3RDh5R2VGQXhUa0JtbXE5QW9yNG02LTkwMmNuclpV?oc=5>
+- **Trump** | U.S. to Boost Beef Imports to Address High Prices, Trump Says <https://news.google.com/rss/articles/CBMiogFBVV95cUxQYnBYTkM4Sl9na0lIWEZNSThLRDUyNFdTTlEyMVpkOUgyeVhFa1ByN0dnQ1g5VTV5TnZFbUpaeFNwOXJrMGdJenRiLW93clY2dHdNVXR5SzQ5XzB4dlRSMFdpRmd3VFFLbVp1S1ctMmFRc0l3VUxkOHJyU1h3M3N4Tk1yN3lTalZHZDdJZy14bTNCWExUSmhqYm9yV1pLM2ZqV1E?oc=5>
 
 ### 2026-08-21 12:33  (3 条)
 
