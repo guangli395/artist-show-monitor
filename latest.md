@@ -1,32 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-21 11:19**
-- 本轮扫到 10283 条, 新增 **2** 条
+- 最近更新: **2026-08-21 11:50**
+- 本轮扫到 10287 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (4 条)
 
-### 美国举措加剧人工智能竞争
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-21 11:18
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5fNmRoYmdwdnNVR1dFRDIzRDByQlpLVGJTVXU4aW1zQzU0QXlYcDRYeHNYeHVWbzFwS2NPMVFuUEY0Y2xmUHZPRG9sNHlJSFhFX0hrMllFOXV4Sm1WT2g3M0JjMnNNTW82UkRnRzhnWXZjTVhnb1lpVw?oc=5>
-
-### 特朗普宣布对伊朗实施“毁灭性经济行动”
+### 美媒称美军考虑将一在建航母改以特朗普命名
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-08-21 05:56
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE12ME1qMVJzSEdqcEQtLXUtQk5TeEUyQ2UzY3J2S2ZZZGM0ZW0ycGxVRUpuSXBFd3djZG1laWtWYW9vOEFsbkdFRlJpS0FzN3h6NUdfWVBKS29VNXZza2dvRw?oc=5>
+- 场馆: 新华网
+- 时间: 2026-08-21 06:01
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9UVFoxeENmVDcyRjdOOTU5X0RkX3Qtd0tiM3UtdU1WamtKS3JYcGpIdFN0cHFBMGpRQWtTNk95M1EydkQ5cjUzaGFvVmNkX01nbjN5dGhtWUN4YUlFNkcyYzlwMGtJTWRjTmZzbkVQQjZmcDZSWmZxbTY1WWY4bmc?oc=5>
+
+### 特朗普令改福特级航母舰岛，海军认真考虑
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 手机新浪网
+- 时间: 2026-08-21 11:16
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5lUEg4MzcyTktDblozWm1QQlJ5VUk1c0hjODA5N1NNRFFvZzEydzlGZUUxMmJIUVA5bEtCdWE2MWp4QWpNcjBRV3JwVElLLXFhVGxWWUpyQ202VGE1a1RhMUYtZzFwY2NMMFFINkJ2LWJXeVU?oc=5>
+
+### 特朗普支持率告急，马斯克砸一亿美元回场救火，共和党能撑住吗？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 手机新浪网
+- 时间: 2026-08-21 11:41
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE9yMkUxZkR2NWVrMVBMVW5hQkNMX3RqVXNjNXNVak5CVUhETnVEMFVyUldnMjVZVTdXTGpzNlR0X2ZaUUxCczJTVTRUUVZtdEFfTTY1Yjg1bW91QnZ6QnpxVmxSQVhscnFWWjZhYVdLcnZpdw?oc=5>
+
+### Bitcoin Nears $80,000 on Trump Support, Weaker Dollar -- WSJ
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-08-21 11:44
+- 链接: <https://news.google.com/rss/articles/CBMiowFBVV95cUxNNDVRV3JnejlnbEtDMFYtMks4YV9EeFlDNW9mLUd6cVNZbVlzOURlT1QtWWhEUE5oY0ZHTFJ5TnlUUmk3X0lSdDZ0d0lIUm1JdFNkblk4clpWVVZhakRtT1I4MTNPZGpzblhwZWhUa2xVV2JrbVdXM0QxaTZSVFdGOXZtTTJfUmpzY0ZTamt0LVdUby03d29Wc2Z3SzBDa3ktXzVF?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-21 11:50  (4 条)
+
+- **特朗普** | 美媒称美军考虑将一在建航母改以特朗普命名 <https://news.google.com/rss/articles/CBMif0FVX3lxTE9UVFoxeENmVDcyRjdOOTU5X0RkX3Qtd0tiM3UtdU1WamtKS3JYcGpIdFN0cHFBMGpRQWtTNk95M1EydkQ5cjUzaGFvVmNkX01nbjN5dGhtWUN4YUlFNkcyYzlwMGtJTWRjTmZzbkVQQjZmcDZSWmZxbTY1WWY4bmc?oc=5>
+- **特朗普** | 特朗普令改福特级航母舰岛，海军认真考虑 <https://news.google.com/rss/articles/CBMic0FVX3lxTE5lUEg4MzcyTktDblozWm1QQlJ5VUk1c0hjODA5N1NNRFFvZzEydzlGZUUxMmJIUVA5bEtCdWE2MWp4QWpNcjBRV3JwVElLLXFhVGxWWUpyQ202VGE1a1RhMUYtZzFwY2NMMFFINkJ2LWJXeVU?oc=5>
+- **特朗普** | 特朗普支持率告急，马斯克砸一亿美元回场救火，共和党能撑住吗？ <https://news.google.com/rss/articles/CBMickFVX3lxTE9yMkUxZkR2NWVrMVBMVW5hQkNMX3RqVXNjNXNVak5CVUhETnVEMFVyUldnMjVZVTdXTGpzNlR0X2ZaUUxCczJTVTRUUVZtdEFfTTY1Yjg1bW91QnZ6QnpxVmxSQVhscnFWWjZhYVdLcnZpdw?oc=5>
+- **Trump** | Bitcoin Nears $80,000 on Trump Support, Weaker Dollar -- WSJ <https://news.google.com/rss/articles/CBMiowFBVV95cUxNNDVRV3JnejlnbEtDMFYtMks4YV9EeFlDNW9mLUd6cVNZbVlzOURlT1QtWWhEUE5oY0ZHTFJ5TnlUUmk3X0lSdDZ0d0lIUm1JdFNkblk4clpWVVZhakRtT1I4MTNPZGpzblhwZWhUa2xVV2JrbVdXM0QxaTZSVFdGOXZtTTJfUmpzY0ZTamt0LVdUby03d29Wc2Z3SzBDa3ktXzVF?oc=5>
 
 ### 2026-08-21 11:19  (2 条)
 
