@@ -1,32 +1,35 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-21 22:48**
-- 本轮扫到 10332 条, 新增 **2** 条
+- 最近更新: **2026-08-21 23:17**
+- 本轮扫到 10334 条, 新增 **2** 条
 
 ---
 
 ## 本轮新发现 (2 条)
 
-### 8月22日外盘头条：比特币单周飙升逾22% 特朗普宣布暂时豁免碎牛肉进口关税 桥水基金创始人警告美债危机
+### 限定男团解散七年后，蔡徐坤演唱会刷屏全网，尤长靖专注音乐 ，范丞丞
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7811142420_m1d194931403301cvae.html>
+
+### 特朗普政府又被起诉！行业组织抗议留学生签证收紧
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-21 22:34
-- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVUx3eHpvN3lXT2dXOVpfVXhLc3RWZjVGQWFMenZYeVZselBuTnBJZHJ1M3JRa25XOVVmT3VMemdPU2ZNVUUxZFpjcy1KQnVaalJkR19lOUFxUUNGVjJGU3FHWHI2cGU2WlJ1aVdGTFRMS1l1aU5hRkE0Qy1wYlphT0RCbi1uU0hFdDQxczhBS0tUanRaV29mVzR6ajF3ck01cDA0cUZCbE9vQQ?oc=5>
-
-### 特朗普称对伊转向“经济战”不意味着美军事选项受限
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-08-21 22:36
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zeC04MVZoVmZtWldLUnpyMGllM1VaVnpaWmp5RUVJMFc4b0tmWkwzQnlfZVh6d2FRU3FPUWNFUFBDVk5MZnpQOFZDWmtCaGJsUVItSVVQc2V0bGxBNk95Zm1aUzFCakFi?oc=5>
+- 场馆: 第一财经
+- 时间: 2026-08-20 23:12
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlOXZqdHZfbVExaEVrMm0tcWpYVEx6Um1oSzQwdjZ4SWRwSXZ0Vk1LVE56WjJMeXh5RmszZm45bmt4Q3E4VG5lY3pYeGxYSEhGX2xF?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-21 23:17  (2 条)
+
+- **蔡徐坤** | 限定男团解散七年后，蔡徐坤演唱会刷屏全网，尤长靖专注音乐 ，范丞丞 <https://k.sina.com.cn/article_7811142420_m1d194931403301cvae.html>
+- **特朗普** | 特朗普政府又被起诉！行业组织抗议留学生签证收紧 <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlOXZqdHZfbVExaEVrMm0tcWpYVEx6Um1oSzQwdjZ4SWRwSXZ0Vk1LVE56WjJMeXh5RmszZm45bmt4Q3E4VG5lY3pYeGxYSEhGX2xF?oc=5>
 
 ### 2026-08-21 22:48  (2 条)
 
