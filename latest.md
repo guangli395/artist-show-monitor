@@ -1,25 +1,23 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-21 04:09**
-- 本轮扫到 10254 条, 新增 **9** 条
+- 最近更新: **2026-08-21 05:02**
+- 本轮扫到 10261 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (9 条)
+## 本轮新发现 (7 条)
 
-### 周杰伦杭州站演唱会何时售票？
+### 蔡徐坤的巡回演唱会有哪些后续安排？
 
-- 艺人/关键词: **周杰伦**
+- 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849298_1d5acf55206801a124.html>
+- 链接: <https://k.sina.com.cn/article_7879923116_1d5ae15ac06801k1i4.html>
 
-### 特朗普宣称签署以其命名的《天才法案》
+### 蔡徐坤近期有哪些新歌或演唱会计划？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-08-21 03:41
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5NOFM2bVdsbm9mbjFMME9jSGh5NFJHcXJ2c2VZRG9qa2xHMkpMZmxDUU5iaFAzSFNLbDF2NTB0ZUJaUUUxYnRmMVZVN2VoRjhTd2hFaGNfN2s3N25xUm84dTZCaVlpSjZSTnFReXFqS21wS0E?oc=5>
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923119_1d5ae15af06801w024.html>
 
 ### 美伊冲突难休？特朗普政府批准提前开售冬季汽油，全力压低油价！
 
@@ -27,60 +25,54 @@
 - 来源: `googlenews`
 - 场馆: finance.sina.com.cn
 - 时间: 2026-08-21 02:24
-- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxPY1lYWEdNV05lZ2lzdVZmWmRqWW10aGJESm9oNjRHeUJlMGptaldHazJaYkxGWFQ1cTRualpydC1lbXRhaC1iQmVrbTR1bjNBMkZkZG1Jb01kZ0lLNWdsanpPQlpWR1JYVHVFczdDa3E2TkRrWGJIZjVFeWx2QUtyM2ZkdkZQUHpYNmVyMjl5SWxLMWd4NXI0LUJMTDVEWTR2TEZtU19pcl9LUkwweTBrMFktT0JKbzdGWWVaTkp3WW5EdFc4MXBFZ05mcU1rX3M?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTVBMTmNacXFRWW9WOUE1SXhvX3hubWhaT2FNbzAxTWJ1dUtUc1JONnp3YWRTS3ZCU0lqazhscy1SN1NTMGs3TVpPMS1VRDBpZjR1TDZ6dXVkRkJtTXBKS2Vqb1Nna0RHV0k1bklpd1dHWlRCTkhIVEVEa2J5d21YMG1CdUtTYU9IemFFUHZKaXhOVTNXZ0VVaDRySWhfSmVKV3dJcFQ2bm1LcmUtdHZvaFZYUXlBTE9Yalp3c0Y3dV8yZWFRT3ZTMlRGTE9MSlZ0?oc=5>
 
-### 特朗普称将会见金正恩 外交部回应
+### 特朗普：布雷德将离职
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: finance.sina.com.cn
-- 时间: 2026-08-20 21:41
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5iaC1DYmZUT1JGS210Rkk3QkI3a3dLVUJoR1cyYk4zZmhNc1lZVnB1V0NyWWlXRF9SdnBtWlRTWGpTX0ZWOU1RMWxmVWwtSDdFS3A4WHBxMTI4Mmlqd1FaN0YzSzZidUVtY2lDTGU4ZXlCOUZLbG51Zw?oc=5>
+- 时间: 2026-08-21 04:29
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTFBqbm5sTnlGNFV4cnpZNEFEUDBuZXllTlJqUGNZZk4xYS1jUVJIWGhFejc2aVI5TTdDR3NQUk9iQ1RCU3Y2UVZRYVViZ2tVTW1QZ05kQkNhTHBRZXIxLWVCQUdXMkl6dWVWU0txaG0yMG5wOUctTVE?oc=5>
 
-### 特朗普召集高官开会，白宫宣布砸钱30亿，挑战中国王牌，美媒先出来泼冷水
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-08-21 03:06
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxQV2gzRWMwY1g5Vml0TTN5QXlPYUtJRXppSTFRV2FuemozdkdtZk8wTXNrZ2lETG9OMGwyMFNKcHNLRF9xMmxpWFY5M0xzVDEweTdxcVVHdW5RZDE1T0VZY2RzYW14eVp5ang5dHZKbGdRZ2xZV1hEODl5d0dSQkRmN0N3SDNPcXJuUnl1YQ?oc=5>
-
-### 特朗普称可能在“某个时候”恢复与伊朗谈判
+### 特朗普签备忘录：探索商业机器人登陆火星 2030年实现每年超千次发射与再入任务
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-08-19 17:30
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1VYzl0WjQta1JIcE53a1BZalc4TG1uTTlndHRtaDFPRWtzbkFkbG81OW91bFVEdkIwNnI2bkJWX0lXSWtPUGpidUtWc3ZMSG5iNnN4UTJ6OGFNeFZfWmJ6d3d4aDh1UHdyYkZNV29xMDg3TFVBVU5oVXhSeExIVlU?oc=5>
+- 场馆: 财联社
+- 时间: 2026-08-21 00:58
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE1ranJOam12WnJjNDVKSW9TWWdmT255V1U0dDljMHBJNEFTWkI2bm5BUjB3Nm82ZUo2cU5FbjVOM2U3bU9FTGkzeA?oc=5>
 
-### 特朗普称白宫立法事务主任布雷德将离职
+### 特朗普签署涉航天发射备忘录
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-08-20 16:52
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tTlZHMkk0STAxVGVOTUJaX09RTzZJWE9yTXVnSTlzMF8wOTJiMk1KMkIxd0dlSk5TTzJONGNnODV4ZWhIMTdfNHJTd3k5VE40YnJzcjJJb1htc1RXY0hCOXpQT0RZRjhX?oc=5>
+- 场馆: finance.sina.com.cn
+- 时间: 2026-08-20 23:43
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1zUEZ4eHJGTXV3aVlhUkxJYnc4bi1aZ2hfaUV0akRNbGNiUk9fOEFfYXlYWGNwTDRnN1A0SjZMSlBQMVEtQXAyUGFjcTdBbHpESGR4UXZpNVpJVF9va0RkU0F6T3RoUEM2RlkyUTZpZTJsV01XYlFzaA?oc=5>
 
-### Bitcoin Roars Past $70,000 as Yields Sink, Trump Sparks Optimism
+### 头条：美国敦促盟友和中国加入最新“摧毁”伊朗的经济攻势
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-08-21 01:57
-- 链接: <https://news.google.com/rss/articles/CBMipwFBVV95cUxQRFhBVUk0TFlad1VVWXluOVpUYkNMeWNjdjM1VWFrWlZZRk93bnBBUEZuYV9IUGJzNEd1YmlhMU9rd1V3UEphQkN6R1pCZXdwcmI3bEw0emF3eUJ0VmFfdzJFQmR3UThJVmRfM2ROaHB4SkpXMWxEUkR1OTJBYUZCLVRqUHE4bkg5eW93bFdYYVlfeW16SWRkR3NYVnhyWUV4RkdxUDBucw?oc=5>
-
-### Oil Prices Jump After Trump Declares Economic War on Iran
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-08-20 10:46
-- 链接: <https://news.google.com/rss/articles/CBMipwFBVV95cUxNVjZCVHhDNWZjVVlEV2VUVEtlSFRlQzIwY3c0S3BJSFZ4UzVzS3NQOWo3Yjd0MEI3Zzd0akxoajMtX2ltQmF6UzFMYWFxLVNEakdiWGVISEtZYWdXWUpudTV2alFiZmxUMFZiVHdSLUVMbnNqZnlCUEVSQkV1OFhmVXUyd3VqaGtRNUZJZVZ2QllHTllzMk9KejB5RTE4TnBZcWRPOUl3SQ?oc=5>
+- 场馆: ABC News & Headlines – Australian Broadcasting Corporation
+- 时间: 2026-08-21 00:23
+- 链接: <https://news.google.com/rss/articles/CBMikwFBVV95cUxNNWlrcHZxXzJIdTZtOUQxZTN0RzhBNW1KN1FtS1hWWHlEazIzcVF1LWZKQzVxUExmTFhMUENCSEgxbk1xUENIU0FTVlp0bzdZeUUxNWNkYVUxMG1MdVhnYVB0UmlJOGVwMTVraVJYY2dralhkdzhWUWQ3WFQyNzNEWU84VkdmQXNtd2VxZUJxcnIzSlE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-21 05:02  (7 条)
+
+- **蔡徐坤** | 蔡徐坤的巡回演唱会有哪些后续安排？ <https://k.sina.com.cn/article_7879923116_1d5ae15ac06801k1i4.html>
+- **蔡徐坤** | 蔡徐坤近期有哪些新歌或演唱会计划？ <https://k.sina.com.cn/article_7879923119_1d5ae15af06801w024.html>
+- **特朗普** | 美伊冲突难休？特朗普政府批准提前开售冬季汽油，全力压低油价！ <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTVBMTmNacXFRWW9WOUE1SXhvX3hubWhaT2FNbzAxTWJ1dUtUc1JONnp3YWRTS3ZCU0lqazhscy1SN1NTMGs3TVpPMS1VRDBpZjR1TDZ6dXVkRkJtTXBKS2Vqb1Nna0RHV0k1bklpd1dHWlRCTkhIVEVEa2J5d21YMG1CdUtTYU9IemFFUHZKaXhOVTNXZ0VVaDRySWhfSmVKV3dJcFQ2bm1LcmUtdHZvaFZYUXlBTE9Yalp3c0Y3dV8yZWFRT3ZTMlRGTE9MSlZ0?oc=5>
+- **特朗普** | 特朗普：布雷德将离职 <https://news.google.com/rss/articles/CBMidkFVX3lxTFBqbm5sTnlGNFV4cnpZNEFEUDBuZXllTlJqUGNZZk4xYS1jUVJIWGhFejc2aVI5TTdDR3NQUk9iQ1RCU3Y2UVZRYVViZ2tVTW1QZ05kQkNhTHBRZXIxLWVCQUdXMkl6dWVWU0txaG0yMG5wOUctTVE?oc=5>
+- **特朗普** | 特朗普签备忘录：探索商业机器人登陆火星 2030年实现每年超千次发射与再入任务 <https://news.google.com/rss/articles/CBMiSEFVX3lxTE1ranJOam12WnJjNDVKSW9TWWdmT255V1U0dDljMHBJNEFTWkI2bm5BUjB3Nm82ZUo2cU5FbjVOM2U3bU9FTGkzeA?oc=5>
+- **特朗普** | 特朗普签署涉航天发射备忘录 <https://news.google.com/rss/articles/CBMieEFVX3lxTE1zUEZ4eHJGTXV3aVlhUkxJYnc4bi1aZ2hfaUV0akRNbGNiUk9fOEFfYXlYWGNwTDRnN1A0SjZMSlBQMVEtQXAyUGFjcTdBbHpESGR4UXZpNVpJVF9va0RkU0F6T3RoUEM2RlkyUTZpZTJsV01XYlFzaA?oc=5>
+- **Trump** | 头条：美国敦促盟友和中国加入最新“摧毁”伊朗的经济攻势 <https://news.google.com/rss/articles/CBMikwFBVV95cUxNNWlrcHZxXzJIdTZtOUQxZTN0RzhBNW1KN1FtS1hWWHlEazIzcVF1LWZKQzVxUExmTFhMUENCSEgxbk1xUENIU0FTVlp0bzdZeUUxNWNkYVUxMG1MdVhnYVB0UmlJOGVwMTVraVJYY2dralhkdzhWUWQ3WFQyNzNEWU84VkdmQXNtd2VxZUJxcnIzSlE?oc=5>
 
 ### 2026-08-21 04:09  (9 条)
 
