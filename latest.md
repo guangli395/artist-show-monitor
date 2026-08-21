@@ -1,28 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-21 19:06**
-- 本轮扫到 10317 条, 新增 **2** 条
+- 最近更新: **2026-08-21 19:45**
+- 本轮扫到 10318 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (1 条)
 
-### 周杰伦巡演中哪些热门歌曲被改编成了国风版？
+### 极为罕见！特朗普如此具体地公开朝鲜核武器数量：57枚
 
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849298_1d5acf55206801a1dk.html>
-
-### 丁禹兮厦门演唱会歌单曝光！周杰伦七里香国风版引热议
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849298_1d5acf55206801a1dg.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-21 13:57
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE40T0tTQVdseE84RHJlUWdqZjV2RkdfOUNmamgtaE1McjY5alBoeWNqVnJqVy1jQXpLYjZzTWR3ZDdHVUlWenVHcWQ3bTBZVWtTZzhCQ2V2MGNkYWNBNGhHWjQ2LTc5Y0pRRzA1UkEzUnVYQzRXZVE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-21 19:45  (1 条)
+
+- **特朗普** | 极为罕见！特朗普如此具体地公开朝鲜核武器数量：57枚 <https://news.google.com/rss/articles/CBMidkFVX3lxTE40T0tTQVdseE84RHJlUWdqZjV2RkdfOUNmamgtaE1McjY5alBoeWNqVnJqVy1jQXpLYjZzTWR3ZDdHVUlWenVHcWQ3bTBZVWtTZzhCQ2V2MGNkYWNBNGhHWjQ2LTc5Y0pRRzA1UkEzUnVYQzRXZVE?oc=5>
 
 ### 2026-08-21 19:06  (2 条)
 
