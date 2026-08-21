@@ -1,32 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-21 09:29**
-- 本轮扫到 10272 条, 新增 **2** 条
+- 最近更新: **2026-08-21 10:01**
+- 本轮扫到 10276 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (4 条)
 
-### 美韩军演提前散场 特朗普为何按下“暂停键”？
+### 深度 | 发动“毁灭性”经济战、“慢慢扼杀”伊朗，特朗普为何突然变招？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新蓝网
-- 时间: 2026-08-21 06:57
-- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE1KaXBWNmNGYmtBRkpqcGZOSVB5NWVKVXRrMXpYUWpxbngxSXNYbGdONktYSlhtdG9YQy1fS3plZzBIOW1TdWtZenFGTjUzaXM?oc=5>
+- 场馆: finance.sina.com.cn
+- 时间: 2026-08-21 09:34
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBCZVFOdVNwakxDNUYtRFJNdlc0RlpKbGVpWEs1cTJBR2t2UVY0V25ZX3M5OG9LQ0RCTjV5VHRSQV8teUtWWEFjSjNYeFVMaGEwTENJRjFqNFg3T25ibEdaLXVoLW9wWnNLWTJfQmd5LXljRDJWbmxzWA?oc=5>
 
-### 重磅信件完整公开！特朗普年轻女助理：你是我的一切
+### 美批准45亿美元对卡军售，此前卡塔尔赠特朗普“空中白宫”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: guancha.cn
+- 时间: 2026-08-21 07:51
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE42VlE1c01jZDRXbHhkaEhwNTF4bEJ4YktBSnR2V1FFNGx1RGx6TDh2UUdTMmVzNUpCWVAxWWE4OXZOQ18tenp2NldSY3U3ZHRxRXZXRkZtSGpFd1d2SlhKMWt3VkpJbmVwY0E?oc=5>
+
+### 特朗普签署备忘录以促进美航天发射 探索商业机器人登陆火星
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: china.zjol.com.cn
+- 时间: 2026-08-21 00:40
+- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTFB2UnBUQjhVMzJNZ1NmbXQ0VEtHc0RCYl90eEZtVXRGU0FZOXNsNFVlcFliN2FKRzFHTGtsaHFtRDUxSzEyclJuOE9rLXZ3ZWd2M2pDQ0h3RHI2X3FET3BhOFdPS0V1bUo3bzI4d05n?oc=5>
+
+### 施压韩国，示好朝鲜，特朗普想干啥？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-08-21 06:46
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1zU05WV2M4Wnp0bExCcGY2MXRvUUNKVmktTUpubFlBRHBJNm5FUXoxRzNVS1lINzZRVzBVeUZra3BBbURxM01reWcxRjM?oc=5>
+- 时间: 2026-08-18 23:46
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBkYTNXMktPbk1UQ0tBcnNoSjRvTm9WR01KQVpWSU9IOTI3alVoNmdZOWpxMnRmcmNUcDRJeWpGdmR5Mlo5QUVEN0xMQUY?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-21 10:01  (4 条)
+
+- **特朗普** | 深度 | 发动“毁灭性”经济战、“慢慢扼杀”伊朗，特朗普为何突然变招？ <https://news.google.com/rss/articles/CBMieEFVX3lxTFBCZVFOdVNwakxDNUYtRFJNdlc0RlpKbGVpWEs1cTJBR2t2UVY0V25ZX3M5OG9LQ0RCTjV5VHRSQV8teUtWWEFjSjNYeFVMaGEwTENJRjFqNFg3T25ibEdaLXVoLW9wWnNLWTJfQmd5LXljRDJWbmxzWA?oc=5>
+- **特朗普** | 美批准45亿美元对卡军售，此前卡塔尔赠特朗普“空中白宫” <https://news.google.com/rss/articles/CBMiakFVX3lxTE42VlE1c01jZDRXbHhkaEhwNTF4bEJ4YktBSnR2V1FFNGx1RGx6TDh2UUdTMmVzNUpCWVAxWWE4OXZOQ18tenp2NldSY3U3ZHRxRXZXRkZtSGpFd1d2SlhKMWt3VkpJbmVwY0E?oc=5>
+- **特朗普** | 特朗普签署备忘录以促进美航天发射 探索商业机器人登陆火星 <https://news.google.com/rss/articles/CBMibkFVX3lxTFB2UnBUQjhVMzJNZ1NmbXQ0VEtHc0RCYl90eEZtVXRGU0FZOXNsNFVlcFliN2FKRzFHTGtsaHFtRDUxSzEyclJuOE9rLXZ3ZWd2M2pDQ0h3RHI2X3FET3BhOFdPS0V1bUo3bzI4d05n?oc=5>
+- **特朗普** | 施压韩国，示好朝鲜，特朗普想干啥？ <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBkYTNXMktPbk1UQ0tBcnNoSjRvTm9WR01KQVpWSU9IOTI3alVoNmdZOWpxMnRmcmNUcDRJeWpGdmR5Mlo5QUVEN0xMQUY?oc=5>
 
 ### 2026-08-21 09:29  (2 条)
 
