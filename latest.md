@@ -1,56 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-21 17:54**
-- 本轮扫到 10314 条, 新增 **5** 条
+- 最近更新: **2026-08-21 18:27**
+- 本轮扫到 10315 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (1 条)
 
-### 特朗普宣布90天内对最多30万吨绞肉用牛肉免征配额外关税，并称将按低于市价25%销售，活牛期货下跌
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-21 17:49
-- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbklDYzNSakZOZHpXaTVkbHpid0x0c2tJWHB6dGtpVkQyalpmQVVPVFYwajJMc0V6SWRFRGJYTGNFUHpILVJrLUdCZURTUWtBMEl6VFl0WWxibDQ1YVQyeU9vOUg4RmhJaC1CUGdZaGtIc1laZ0Q1Rl9SRmd1MDdFOVNIZGVPVUloT0hiVEN2SlY0T0ZxMTlnblIwS1NiMVJ1ZE9KRjdTU0pQZw?oc=5>
-
-### 中期选举迫近，特朗普豁免碎牛肉进口关税
+### 特朗普称年内会金正恩 罕见评估朝鲜核武
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Jiemian.com
-- 时间: 2026-08-21 15:37
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTFBoeUk1QndVV25zZWxFYnNQY3Q0ZVdmVUxBQ3FWS0RQSXRtdnJmMUYyVFhCU0NLUzlxU0RKanRFWGR3allhRElKZUtyMDVPNzY5aWFmdGxIZ2o?oc=5>
-
-### 特朗普政府推进加密货币新规，关键法案在国会受阻
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-20 18:10
-- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxQblZVMjlZSzVBN01BNEludTFFWUhYTXlfQ01PVlR3WDEwdEhFRmJRYkpFRDZ6X0JrQmxDRF9LR3B4RVRpVG1uQWZvRTE5WmZqb0dyWlc2SUZKaEsxNFl2dFA4OFdSQzhQbkZ5bG45My1WS2JKMFd0NWVkS2ZKeFdtaDk3REo3SXJLdDZRaUpVQzJzdFROY21JZDZZc0Z6N0txc240cEQ2X3pqRklRLVpUbzBBTlhPWUZZT1RaVnRoamVJOE83SENZcGh2QUJXWDA2SFE?oc=5>
-
-### 特朗普表示美中两国领导人将讨论人工智能相关议题，外交部：愿在人工智能领域落实好中美元首重要共识
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 每日经济新闻
-- 时间: 2026-08-21 15:43
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9yUXR0TWNvb0ZRR0p5czVvYXNqSXhjZFluS01HVWVZaFgzOWk5QzJKOXU4dWVObVRFQy0weGQ0Ym84YlpRMVVGaWVXbG5JdmJqa1M3NlMyTmZCekVoZGwtSVRqdUpBQQ?oc=5>
-
-### 特朗普总统：伊朗领导人丧生使达成协议变得困难
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-08-21 17:09
-- 链接: <https://news.google.com/rss/articles/CBMivAFBVV95cUxOSDdkX1c2MWZQblFjbVlmSDBUMHRpR3JXX1BfaTFxSnBQR0l2UGh6TlNqSHdUOEd1QkZKdUxzOUxiLUwwbmxSNVh6WXhjM0ZkYmZGOVRidlIwVm02aFV3WlZvV0plUHJsS1g3U0prQTJNU0k0RUpmTDc5RE5CcXZmRldLaFpEeHdLa0xISFgzQnFtcHVWTXA3dWxUNFctekoxX0dKbDVVNVhFd0FkM09hcm5HZ25sR1c0cXlBONIBvwFBVV95cUxNcW53NmxoM25OcnlMZXctZlR0ZmV1eHRLZm4zeldJQ2ZzbFJJVFY3eTVGemhMUUstN3JUMjFkZWJzQVBLX1N1Y1FQcndnTzN0Rmd0SFhoUUxkNllGMHBteTJOYnpnQlZKM2ZJT0tUOGIydDhMRXNFZ0o3SUhEOWFTMGtWeTFyTlFmaUJqSzdkendEZTdERmxuMGw1WEhOdUNpOXlGdzZZTEVwT3BOaFlsV2xGcFJOTjlneWNnNW1tSQ?oc=5>
+- 场馆: DW.com
+- 时间: 2026-08-20 23:49
+- 链接: <https://news.google.com/rss/articles/CBMiogJBVV95cUxNdFFMWTMxUEJ3LXptb3puMl82SS1uTEhsZUJELWpSdWtCbS05Z0p4RGdMNTIwemZDcEh1TWRKNGJQUlJNZ0JtQ0lZTkV4bVM5N3M0YnBxckJQS0hKeGtBWU1MMEk2RWdJMEh2M2xfVFhHWWRCZnVYVmdkZk1ZVFBJaVVZalIxNnRxWk8xc2EwUzczbHFnOUtOaXpXOXA1SUpxbkthSUFwam9BbWFkWDMzX29lb3JMVmNEcG9jNEZuYkd1TVlrZjRrNjZlV3RIVTNxbEx4bmd1VHltOEdvMm81Vlp1VU9RRm5fanhzSjFrUlh3cHYtaHlfTXZ4Z1ZSWF9MWVhnV3RmelI2Tk5RNkdOMy1ZS1lZOGNiY0xRWVR4Rzh3d9IBogJBVV95cUxPYWduZ2txVkZKZVpKTTBQWnRzVjQtUTBnZ1dKMzVmYVpvTDdncktVMzhHWS13Ym9zZjNBa2lTN25OV3ZhVDNZY0ltakd5aGhjZnB2SmI2YzNMdzVhN2o3dHgxNmk2RlZpdG1qc01mQl9LUDN4MjV0WDFCeXQwQ2tiOGdFSU5TVW5MdDVsRlFEbGtjdzhJZnVCZTJVQVdwdE9KYXNRLW4tWjZpd25zQ0w0M2ZQbjRiYWMtV2diTlhUVy1OV3h1LWxLQk9Dd2JmbFgzckJUZUZjNEIzZW9uU1ZKOHZFM3czS2MzTGRwRjMxMUtaSGpvZGVOV2FsTm9jelg0c3N5SzBNRmUzS2d2dFF0ZHpiSGpsU3ptUGFSa1pmSFp6QQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-21 18:27  (1 条)
+
+- **特朗普** | 特朗普称年内会金正恩 罕见评估朝鲜核武 <https://news.google.com/rss/articles/CBMiogJBVV95cUxNdFFMWTMxUEJ3LXptb3puMl82SS1uTEhsZUJELWpSdWtCbS05Z0p4RGdMNTIwemZDcEh1TWRKNGJQUlJNZ0JtQ0lZTkV4bVM5N3M0YnBxckJQS0hKeGtBWU1MMEk2RWdJMEh2M2xfVFhHWWRCZnVYVmdkZk1ZVFBJaVVZalIxNnRxWk8xc2EwUzczbHFnOUtOaXpXOXA1SUpxbkthSUFwam9BbWFkWDMzX29lb3JMVmNEcG9jNEZuYkd1TVlrZjRrNjZlV3RIVTNxbEx4bmd1VHltOEdvMm81Vlp1VU9RRm5fanhzSjFrUlh3cHYtaHlfTXZ4Z1ZSWF9MWVhnV3RmelI2Tk5RNkdOMy1ZS1lZOGNiY0xRWVR4Rzh3d9IBogJBVV95cUxPYWduZ2txVkZKZVpKTTBQWnRzVjQtUTBnZ1dKMzVmYVpvTDdncktVMzhHWS13Ym9zZjNBa2lTN25OV3ZhVDNZY0ltakd5aGhjZnB2SmI2YzNMdzVhN2o3dHgxNmk2RlZpdG1qc01mQl9LUDN4MjV0WDFCeXQwQ2tiOGdFSU5TVW5MdDVsRlFEbGtjdzhJZnVCZTJVQVdwdE9KYXNRLW4tWjZpd25zQ0w0M2ZQbjRiYWMtV2diTlhUVy1OV3h1LWxLQk9Dd2JmbFgzckJUZUZjNEIzZW9uU1ZKOHZFM3czS2MzTGRwRjMxMUtaSGpvZGVOV2FsTm9jelg0c3N5SzBNRmUzS2d2dFF0ZHpiSGpsU3ptUGFSa1pmSFp6QQ?oc=5>
 
 ### 2026-08-21 17:54  (5 条)
 
