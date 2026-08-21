@@ -1,56 +1,71 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-21 13:39**
-- 本轮扫到 10295 条, 新增 **5** 条
+- 最近更新: **2026-08-21 14:27**
+- 本轮扫到 10301 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (6 条)
 
-### 美加贸易协议接近收官，特朗普关税大限步步逼近
+### 中国游客大本钟前模仿周杰伦MV拍落地签照
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-21 13:03
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxOd2VtM09pMllJNV94M3pYZWplal9XdW5fUnlhTlkxUG42UE1Vb2JLT2c4TGlpcEhPY3doRmZaQ3U3M2xIUVY3elMzcFlhQTZUQmQyWjROcHVmVXJLYkNIV1kyYkNsV2R6OWk0Tk5rM0R3UF9PcW9ENkxqb3JBbEI3bnhZd3hxRDJ6X3hGOWo0Qy1reWlXUC1lT281ck5nZjNGSzlCdzNjTUFHaDBsWGVLZGdETnN5VmxHVDNVTFRhSHZPdHBtZC0xck8zVVVKeTNBWjdZcGNUUlpPclFIX2Fz?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7811193998_m1d1955c8e033028n4o.html>
 
-### 美国对华关上的大门，该打开了
+### 特朗普想与金正恩做朋友，韩国恐要为此付出代价
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: guancha.cn
-- 时间: 2026-08-21 12:41
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE13MVpwR0ZHdWxHVXFmejh0c181M1Nnd2JNN0F4bGRRNVUxX1B2QjZXRmp6TzRpc3NsTGUyek9xMk1Qa2I0MHd2eFZNUW1Dd2lqOS1PZ015VlpjaUdRdThJcG5XaDVoN2RrNkE?oc=5>
+- 场馆: BBC
+- 时间: 2026-08-21 09:45
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9FY28zcmZ3MW80VkUyeDRQOTVyLTZJaGVVa1dGZjhZQlEzRHROaWJWYTFlMEZBZG40NUFmenR0N2IzU2c5VkZQUHY1SHRJSWE0aDhmbV9fRk9QUzJKQzNuV2VmVktiQdIBa0FVX3lxTFBfZ0x0WDlBS2JiOGN6NWp6QTUxOVpzYXdvVVdDOHlPMTFBbWM1NkdrRmFQUldzWkVGdUM3QndOcmE2cklBaVdEVTI0aFJGTThrd2pGMFd4NUF5cGZWd1Q4RG5hckd1UDdMQ0Q4?oc=5>
 
-### 让总统离开“靶心”，解读特朗普秘密换机
+### 法国报纸摘要 - 专家担心特朗普与金正恩再次会晤会是又一次外交挫败
 
 - 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-08-21 12:55
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE95eHJQcERGTVhJbDF2czY5RXlOMnNqQlBERE1MdnF5c1VPNHpBUXNMT1VJUjdLNmdMbnYwRzdJZ3ozTGV3QXg4YnFVaUw5QzZyamFBek8wakxXWlJtV19MamRLdXJtMWJoTDVKTC1vVE4?oc=5>
-
-### 美国专栏 - 特朗普祭“经济D日” 能否逼伊朗结束战争
-
-- 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: RFI
-- 时间: 2026-08-21 13:17
-- 链接: <https://news.google.com/rss/articles/CBMi7AJBVV95cUxQT0poNlhVTWpRMnJtVGVIbG5LUmwxTEZxVFRYdzdmRXF3ZmlKZ2ZxeHhEX3RHLW1USGZaLVFERU5fV1pDVXVOSlFuT3hCUGcyV3lETjZWNVFMaGJOa3JhMkRVNGpCN0plcW12UFJrcm8zV2xQMC1KTUJOUHVYV3BxSXlrSE1HS0J4TzJROXpoTlliY09zUzRBZTIyMkh6S0xEWGIxWWkyaDZ0a2dnSjkxM09zLVNNc0Z2TVlOZ3g2cTNqdHFrY29iS0FzejJidWZpS0ZsNGtTamttYjROYkpGbEhKWGg3U1k5YlpZbXhkNUF0d1pPVTRkaW1nSGlaNGFLNmNhUXA0WFM5VjhGMUNQVldZZ2dWLTJoajNQSk1aTlZzcE1VRXBsOXd1RjI3SXh1R1cwci1SRVI2d1QzTlZxU0VFbkFNN1YtRXVMODQ3RDh5R2VGQXhUa0JtbXE5QW9yNG02LTkwMmNuclpV?oc=5>
+- 时间: 2026-08-21 14:12
+- 链接: <https://news.google.com/rss/articles/CBMi4ANBVV95cUxPVUhEN1lhbjdNMGlsbTMtcHN6NC1melNDQ3pyamVDcDVKeTZCVEN6bmlTNmhzQ0V4eU9JVi1iWWdsQU43T3lXSmxqdFlQd3U5NHBkVk5zSXRqbFFOT1pQR2tLMjRUUXRLcVM2STd5UW56dDFHcDlJQ29PU0x4R0FFRzFXQURmUU80UG5GNWRUNElIMVFHNVYxRDVWYlpMWDFjeDhrVS05UTdVMHVXOGd4RDVyRldJTk5VV3o2UkNaMV80NDBINnJtWG44T1hDSUR3N3lQby1kSlJNRG5zSTA2bWRUZ251aTZ6ZEN1dEljaVJoS3EzSERYWG84SUI4SlBtalRjMXN1VUJNMGJ6ejhXTTFENGllNThwczlRUlVMdHJNOTNDM1FfcEFXLXI1ajlvOUpfVm9JYzRtUnllbFNOeUY0MTM3N3dWb3YyQTlUOEt0dnNIQnNVMzVBTV9rODNoa0hIX3ZrN2x0ZnV2SlpvOGhIOXVJeDVTeVFIOTBaX0kycWxSdmNCMVNVR21hQm1WQTZpdDZzSEo5dGZfYnE4MjhqWER5LWJqc2xDX1BQRGJodE1TVW5aN2JaNHVPR0RrX3l2Wi1xeWUtdkdGSnZaSmFza2ctSl9VZDRCZk9XM28?oc=5>
 
-### U.S. to Boost Beef Imports to Address High Prices, Trump Says
+### 特朗普将允许30万吨碎牛肉免配额外关税进口
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-08-21 12:45
-- 链接: <https://news.google.com/rss/articles/CBMiogFBVV95cUxQYnBYTkM4Sl9na0lIWEZNSThLRDUyNFdTTlEyMVpkOUgyeVhFa1ByN0dnQ1g5VTV5TnZFbUpaeFNwOXJrMGdJenRiLW93clY2dHdNVXR5SzQ5XzB4dlRSMFdpRmd3VFFLbVp1S1ctMmFRc0l3VUxkOHJyU1h3M3N4Tk1yN3lTalZHZDdJZy14bTNCWExUSmhqYm9yV1pLM2ZqV1E?oc=5>
+- 场馆: finance.sina.com.cn
+- 时间: 2026-08-21 14:07
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxQR0pyWDZQMlVOa0FYRU54bmYyZ2luTjYxYkE1S3BzbFNDbmVmRDZPMUxMWlR6eVJKZnM0eVJRY3BERjA4c1gwcDZhTFYwanBHak9iN044RWotZndzRy1vYWk3OVdwalZCc2dzYlVpQ2ZfZl9VWTJCWXkwQkphSWtzNlA5UEJHbGpiRVZLTmpFSmd5R1luQ1ZjS3l1Q3dCQnFNaVpoWjNHOFhQSWlxcmxzM0tMY181aEZydDBsZm9vSnhRc0JKQVNNcE1saFpFem10UGotbl9hVzRkbEdPNHBz?oc=5>
+
+### 珍珠港英雄“让位”？美海军或将以特朗普命名新建航母
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-08-21 06:28
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwZUxlRldwX2hXZUR3SmxWbWtMa24wRzVlNldCdFBBUGlYclFYcHhHTWFfQmg1RnJVNVhuNFJxcEY3X2pMYWUtcjFKRnl6enIzRWE0Unk0ZnVBbjAwSy1lVEdqc3U?oc=5>
+
+### 美媒批特朗普老年痴呆，竟向自己海军“宣战”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-08-21 13:42
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1mUXI5YmFiWEF6bWlwOFlyRWxPT044Wnh5bFJlc01HY3pIWGdiRkZqYjRHTFRhVXNyWUd3R0RwbWphb2RUOUtOa0Nuemw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-21 14:27  (6 条)
+
+- **周杰伦** | 中国游客大本钟前模仿周杰伦MV拍落地签照 <https://k.sina.com.cn/article_7811193998_m1d1955c8e033028n4o.html>
+- **特朗普** | 特朗普想与金正恩做朋友，韩国恐要为此付出代价 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9FY28zcmZ3MW80VkUyeDRQOTVyLTZJaGVVa1dGZjhZQlEzRHROaWJWYTFlMEZBZG40NUFmenR0N2IzU2c5VkZQUHY1SHRJSWE0aDhmbV9fRk9QUzJKQzNuV2VmVktiQdIBa0FVX3lxTFBfZ0x0WDlBS2JiOGN6NWp6QTUxOVpzYXdvVVdDOHlPMTFBbWM1NkdrRmFQUldzWkVGdUM3QndOcmE2cklBaVdEVTI0aFJGTThrd2pGMFd4NUF5cGZWd1Q4RG5hckd1UDdMQ0Q4?oc=5>
+- **特朗普** | 法国报纸摘要 - 专家担心特朗普与金正恩再次会晤会是又一次外交挫败 <https://news.google.com/rss/articles/CBMi4ANBVV95cUxPVUhEN1lhbjdNMGlsbTMtcHN6NC1melNDQ3pyamVDcDVKeTZCVEN6bmlTNmhzQ0V4eU9JVi1iWWdsQU43T3lXSmxqdFlQd3U5NHBkVk5zSXRqbFFOT1pQR2tLMjRUUXRLcVM2STd5UW56dDFHcDlJQ29PU0x4R0FFRzFXQURmUU80UG5GNWRUNElIMVFHNVYxRDVWYlpMWDFjeDhrVS05UTdVMHVXOGd4RDVyRldJTk5VV3o2UkNaMV80NDBINnJtWG44T1hDSUR3N3lQby1kSlJNRG5zSTA2bWRUZ251aTZ6ZEN1dEljaVJoS3EzSERYWG84SUI4SlBtalRjMXN1VUJNMGJ6ejhXTTFENGllNThwczlRUlVMdHJNOTNDM1FfcEFXLXI1ajlvOUpfVm9JYzRtUnllbFNOeUY0MTM3N3dWb3YyQTlUOEt0dnNIQnNVMzVBTV9rODNoa0hIX3ZrN2x0ZnV2SlpvOGhIOXVJeDVTeVFIOTBaX0kycWxSdmNCMVNVR21hQm1WQTZpdDZzSEo5dGZfYnE4MjhqWER5LWJqc2xDX1BQRGJodE1TVW5aN2JaNHVPR0RrX3l2Wi1xeWUtdkdGSnZaSmFza2ctSl9VZDRCZk9XM28?oc=5>
+- **特朗普** | 特朗普将允许30万吨碎牛肉免配额外关税进口 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxQR0pyWDZQMlVOa0FYRU54bmYyZ2luTjYxYkE1S3BzbFNDbmVmRDZPMUxMWlR6eVJKZnM0eVJRY3BERjA4c1gwcDZhTFYwanBHak9iN044RWotZndzRy1vYWk3OVdwalZCc2dzYlVpQ2ZfZl9VWTJCWXkwQkphSWtzNlA5UEJHbGpiRVZLTmpFSmd5R1luQ1ZjS3l1Q3dCQnFNaVpoWjNHOFhQSWlxcmxzM0tMY181aEZydDBsZm9vSnhRc0JKQVNNcE1saFpFem10UGotbl9hVzRkbEdPNHBz?oc=5>
+- **特朗普** | 珍珠港英雄“让位”？美海军或将以特朗普命名新建航母 <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwZUxlRldwX2hXZUR3SmxWbWtMa24wRzVlNldCdFBBUGlYclFYcHhHTWFfQmg1RnJVNVhuNFJxcEY3X2pMYWUtcjFKRnl6enIzRWE0Unk0ZnVBbjAwSy1lVEdqc3U?oc=5>
+- **特朗普** | 美媒批特朗普老年痴呆，竟向自己海军“宣战” <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1mUXI5YmFiWEF6bWlwOFlyRWxPT044Wnh5bFJlc01HY3pIWGdiRkZqYjRHTFRhVXNyWUd3R0RwbWphb2RUOUtOa0Nuemw?oc=5>
 
 ### 2026-08-21 13:39  (5 条)
 
