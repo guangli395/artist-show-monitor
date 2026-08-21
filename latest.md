@@ -1,24 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-21 19:45**
-- 本轮扫到 10318 条, 新增 **1** 条
+- 最近更新: **2026-08-21 20:18**
+- 本轮扫到 10320 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮新发现 (2 条)
 
-### 极为罕见！特朗普如此具体地公开朝鲜核武器数量：57枚
+### 特朗普：布雷德将离职
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-08-21 13:57
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE40T0tTQVdseE84RHJlUWdqZjV2RkdfOUNmamgtaE1McjY5alBoeWNqVnJqVy1jQXpLYjZzTWR3ZDdHVUlWenVHcWQ3bTBZVWtTZzhCQ2V2MGNkYWNBNGhHWjQ2LTc5Y0pRRzA1UkEzUnVYQzRXZVE?oc=5>
+- 时间: 2026-08-20 23:13
+- 链接: <https://news.google.com/rss/articles/CBMihAFBVV95cUxOcXA4Y1BBUDVrRVEyUmZhUlZObDVieko5enp6QkVQcWZDUTBySWVqT2gyT3Y4TFctamdDNEF5MGNPaVMwSWhwZ1VSQzItRVpQdHJLZTdiX0pXRWNJWU1udTNUNmhlM3FBbGk5ZVFKSWF1dWlxQV9UVEc4amlnclh3c0VhNGw?oc=5>
+
+### Oil Prices Jump After Trump Declares Economic War on Iran
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-08-20 10:46
+- 链接: <https://news.google.com/rss/articles/CBMi1gFBVV95cUxPaHgzeHpQR0NVdHlWUUpJaVJYajg4ZG40NWRfdmlkbFQ3LVNhMjdjeTZacW02Q3A0aDJxeDJlMm51ZnpxU1RXeXgyZGxtT0lJU0ZHWHlKSTQ4NDJ0b1VTUlhRSTRHdWJOSjR1QmZmRWp1QXZTcEwteDB6YVJqd005dWktRHpYdUpwWWozV0VpQlpvX3hWSHRmb1RLMmg5MXozcy1vVHVnbE1sMmtjbXU5VVkydjVsUG56ekhGMkMwUDRDRlVMb0tzNkc4QWlCaEozblo3c2p3?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-21 20:18  (2 条)
+
+- **特朗普** | 特朗普：布雷德将离职 <https://news.google.com/rss/articles/CBMihAFBVV95cUxOcXA4Y1BBUDVrRVEyUmZhUlZObDVieko5enp6QkVQcWZDUTBySWVqT2gyT3Y4TFctamdDNEF5MGNPaVMwSWhwZ1VSQzItRVpQdHJLZTdiX0pXRWNJWU1udTNUNmhlM3FBbGk5ZVFKSWF1dWlxQV9UVEc4amlnclh3c0VhNGw?oc=5>
+- **Trump** | Oil Prices Jump After Trump Declares Economic War on Iran <https://news.google.com/rss/articles/CBMi1gFBVV95cUxPaHgzeHpQR0NVdHlWUUpJaVJYajg4ZG40NWRfdmlkbFQ3LVNhMjdjeTZacW02Q3A0aDJxeDJlMm51ZnpxU1RXeXgyZGxtT0lJU0ZHWHlKSTQ4NDJ0b1VTUlhRSTRHdWJOSjR1QmZmRWp1QXZTcEwteDB6YVJqd005dWktRHpYdUpwWWozV0VpQlpvX3hWSHRmb1RLMmg5MXozcy1vVHVnbE1sMmtjbXU5VVkydjVsUG56ekhGMkMwUDRDRlVMb0tzNkc4QWlCaEozblo3c2p3?oc=5>
 
 ### 2026-08-21 19:45  (1 条)
 
