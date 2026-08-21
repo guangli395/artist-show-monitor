@@ -1,32 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-21 22:16**
-- 本轮扫到 10330 条, 新增 **2** 条
+- 最近更新: **2026-08-21 22:48**
+- 本轮扫到 10332 条, 新增 **2** 条
 
 ---
 
 ## 本轮新发现 (2 条)
 
-### 特朗普称干预债市是贝森特自己拿的主意
+### 8月22日外盘头条：比特币单周飙升逾22% 特朗普宣布暂时豁免碎牛肉进口关税 桥水基金创始人警告美债危机
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-08-21 22:09
-- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTFBuLVRYWlNOSF8waVRQTUNGSi0wYTk3cDlseUpSNXlIRzVqaXVlYzZNTEJCX2VnazVLQkpVV0huODVkTjRVTHBMbjRLaTVpT1l4cUJVSnJuZklaMGFOZE5xYjhRbWVIQWtTQmpZTllURm9KVm10bnpTVDhR?oc=5>
+- 时间: 2026-08-21 22:34
+- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVUx3eHpvN3lXT2dXOVpfVXhLc3RWZjVGQWFMenZYeVZselBuTnBJZHJ1M3JRa25XOVVmT3VMemdPU2ZNVUUxZFpjcy1KQnVaalJkR19lOUFxUUNGVjJGU3FHWHI2cGU2WlJ1aVdGTFRMS1l1aU5hRkE0Qy1wYlphT0RCbi1uU0hFdDQxczhBS0tUanRaV29mVzR6ajF3ck01cDA0cUZCbE9vQQ?oc=5>
 
-### 特朗普推迟对加拿大加征50%关税，是为保全面子还是另有顾虑？
+### 特朗普称对伊转向“经济战”不意味着美军事选项受限
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-08-21 19:10
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FN1E3RDZjb244TkhsVzh5NkJocktEVW5IdjZOcE1STXJkam1DNUFJeFI3VlhES2ttMmFGZHZyaGZhMGVVaXZSSkRlVHZMT0hVaGd5ZzNBbU9UZzY1QmJseA?oc=5>
+- 场馆: chinanews.com.cn
+- 时间: 2026-08-21 22:36
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zeC04MVZoVmZtWldLUnpyMGllM1VaVnpaWmp5RUVJMFc4b0tmWkwzQnlfZVh6d2FRU3FPUWNFUFBDVk5MZnpQOFZDWmtCaGJsUVItSVVQc2V0bGxBNk95Zm1aUzFCakFi?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-21 22:48  (2 条)
+
+- **特朗普** | 8月22日外盘头条：比特币单周飙升逾22% 特朗普宣布暂时豁免碎牛肉进口关税 桥水基金创始人警告美债危机 <https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVUx3eHpvN3lXT2dXOVpfVXhLc3RWZjVGQWFMenZYeVZselBuTnBJZHJ1M3JRa25XOVVmT3VMemdPU2ZNVUUxZFpjcy1KQnVaalJkR19lOUFxUUNGVjJGU3FHWHI2cGU2WlJ1aVdGTFRMS1l1aU5hRkE0Qy1wYlphT0RCbi1uU0hFdDQxczhBS0tUanRaV29mVzR6ajF3ck01cDA0cUZCbE9vQQ?oc=5>
+- **特朗普** | 特朗普称对伊转向“经济战”不意味着美军事选项受限 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zeC04MVZoVmZtWldLUnpyMGllM1VaVnpaWmp5RUVJMFc4b0tmWkwzQnlfZVh6d2FRU3FPUWNFUFBDVk5MZnpQOFZDWmtCaGJsUVItSVVQc2V0bGxBNk95Zm1aUzFCakFi?oc=5>
 
 ### 2026-08-21 22:16  (2 条)
 
