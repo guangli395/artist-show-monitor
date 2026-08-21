@@ -1,32 +1,53 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-21 20:18**
-- 本轮扫到 10320 条, 新增 **2** 条
+- 最近更新: **2026-08-21 20:47**
+- 本轮扫到 10324 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (4 条)
 
-### 特朗普：布雷德将离职
+### 周杰伦2026年演唱会还有加场计划吗？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923104_1d5ae15a006801iec2.html>
+
+### 受中期选举压力 特朗普暂免除碎牛肉配额外关税
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-20 23:13
-- 链接: <https://news.google.com/rss/articles/CBMihAFBVV95cUxOcXA4Y1BBUDVrRVEyUmZhUlZObDVieko5enp6QkVQcWZDUTBySWVqT2gyT3Y4TFctamdDNEF5MGNPaVMwSWhwZ1VSQzItRVpQdHJLZTdiX0pXRWNJWU1udTNUNmhlM3FBbGk5ZVFKSWF1dWlxQV9UVEc4amlnclh3c0VhNGw?oc=5>
+- 场馆: RFI
+- 时间: 2026-08-21 20:28
+- 链接: <https://news.google.com/rss/articles/CBMi3AJBVV95cUxNZVRKWkxtendhTVBpR3B2dHJOd2F0bTYteERWbkkwaWE2YzdXUlNfUXY0S3hmUjB1YVVYMnpBX1M2VjZfV3NiYnd5ZmZhaTNKaEMwTDBRN2hLT01nY2ZtQzBmUTk4aUZTU1NXWWFDQ3FmRTRFZlpreTZRbFFVNlMtYlRQTnU1VXllUFhVbXVYNU55c0tvNnhLOXQ0QUZjaDNqRkhFQVlEZEdXX0NnSHo2QUc5dU9YTEdRekFRcVpscGlJUlRCT0RSeXZvZlFJMkV1V1NQbXo0cEQyZ0Ffdk8yZVkwLTUzNGUwT0dzUjRmUFAxTHRPVGxCekpidmdPT3dSQVhodlRLamgyaklQb1JjWDFES20tYWxZQVJhRkVnMmRWai1ZUEkxOGJKZi1LZ085SC1ncmJnZ1pMUkwzcGxpSEtNZTdVYmUxOU5lVG16V2JOVFNjemthRFlPUG0?oc=5>
 
-### Oil Prices Jump After Trump Declares Economic War on Iran
+### 卢拉与特朗普就关税通电话
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-08-21 20:24
+- 链接: <https://news.google.com/rss/articles/CBMi7wFBVV95cUxQSGdfaEtyODZOMGN3UTBteVlwTEJJQTFzREFKQWN1V1Q2dWtRT0dsalA1RTB5TXdkZ0trSTM5dDgxdFNuUHN1UGFDY20zZDQxcTBzWWZYZHlkSVlRVXg3ODVZUXdSUFVDc094c1dUdFNodTB4Tlp5ekl4XzlOaGN2RjlGYTR2ZFlmdWpWVkZsREFQeDRWY3FiRWlHal94NHZZd3gtUjZmX0MyNEJGbm5IRmZpbmVVWmtJRmNEcU9uN3RBQUxIa0V2VTRIVEdqR3dNeHZwNFJ1VTU1ZHRHTWtscm9id0Z4NE9tLVNjNmY0TQ?oc=5>
+
+### Cattle Futures Drop After Trump Calls for More Beef Imports -- Market Talk
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: Moomoo
-- 时间: 2026-08-20 10:46
-- 链接: <https://news.google.com/rss/articles/CBMi1gFBVV95cUxPaHgzeHpQR0NVdHlWUUpJaVJYajg4ZG40NWRfdmlkbFQ3LVNhMjdjeTZacW02Q3A0aDJxeDJlMm51ZnpxU1RXeXgyZGxtT0lJU0ZHWHlKSTQ4NDJ0b1VTUlhRSTRHdWJOSjR1QmZmRWp1QXZTcEwteDB6YVJqd005dWktRHpYdUpwWWozV0VpQlpvX3hWSHRmb1RLMmg5MXozcy1vVHVnbE1sMmtjbXU5VVkydjVsUG56ekhGMkMwUDRDRlVMb0tzNkc4QWlCaEozblo3c2p3?oc=5>
+- 时间: 2026-08-21 16:17
+- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcFBGMTR4dG14ZUtjcmltZU5EalVxaDBVOEdNMmdYSUlSeTlCME1ZdzBhS09TaGtqTzBXQVNzdHpJeDlybTlhWGl5d3V2dV82QTB3TzBkZTlFRU5KN2JEQnNYSGszekhLWTYxVHk4T1d1RGYwVmJqLWhlQzhQWUY0M1BUMnBDVWZrWVF4QWp4VXV0UDgyTUdwYzFudEwtUTRBbUNIQjN6SVJ0UQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-21 20:47  (4 条)
+
+- **周杰伦** | 周杰伦2026年演唱会还有加场计划吗？ <https://k.sina.com.cn/article_7879923104_1d5ae15a006801iec2.html>
+- **特朗普** | 受中期选举压力 特朗普暂免除碎牛肉配额外关税 <https://news.google.com/rss/articles/CBMi3AJBVV95cUxNZVRKWkxtendhTVBpR3B2dHJOd2F0bTYteERWbkkwaWE2YzdXUlNfUXY0S3hmUjB1YVVYMnpBX1M2VjZfV3NiYnd5ZmZhaTNKaEMwTDBRN2hLT01nY2ZtQzBmUTk4aUZTU1NXWWFDQ3FmRTRFZlpreTZRbFFVNlMtYlRQTnU1VXllUFhVbXVYNU55c0tvNnhLOXQ0QUZjaDNqRkhFQVlEZEdXX0NnSHo2QUc5dU9YTEdRekFRcVpscGlJUlRCT0RSeXZvZlFJMkV1V1NQbXo0cEQyZ0Ffdk8yZVkwLTUzNGUwT0dzUjRmUFAxTHRPVGxCekpidmdPT3dSQVhodlRLamgyaklQb1JjWDFES20tYWxZQVJhRkVnMmRWai1ZUEkxOGJKZi1LZ085SC1ncmJnZ1pMUkwzcGxpSEtNZTdVYmUxOU5lVG16V2JOVFNjemthRFlPUG0?oc=5>
+- **特朗普** | 卢拉与特朗普就关税通电话 <https://news.google.com/rss/articles/CBMi7wFBVV95cUxQSGdfaEtyODZOMGN3UTBteVlwTEJJQTFzREFKQWN1V1Q2dWtRT0dsalA1RTB5TXdkZ0trSTM5dDgxdFNuUHN1UGFDY20zZDQxcTBzWWZYZHlkSVlRVXg3ODVZUXdSUFVDc094c1dUdFNodTB4Tlp5ekl4XzlOaGN2RjlGYTR2ZFlmdWpWVkZsREFQeDRWY3FiRWlHal94NHZZd3gtUjZmX0MyNEJGbm5IRmZpbmVVWmtJRmNEcU9uN3RBQUxIa0V2VTRIVEdqR3dNeHZwNFJ1VTU1ZHRHTWtscm9id0Z4NE9tLVNjNmY0TQ?oc=5>
+- **Trump** | Cattle Futures Drop After Trump Calls for More Beef Imports -- Market Talk <https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcFBGMTR4dG14ZUtjcmltZU5EalVxaDBVOEdNMmdYSUlSeTlCME1ZdzBhS09TaGtqTzBXQVNzdHpJeDlybTlhWGl5d3V2dV82QTB3TzBkZTlFRU5KN2JEQnNYSGszekhLWTYxVHk4T1d1RGYwVmJqLWhlQzhQWUY0M1BUMnBDVWZrWVF4QWp4VXV0UDgyTUdwYzFudEwtUTRBbUNIQjN6SVJ0UQ?oc=5>
 
 ### 2026-08-21 20:18  (2 条)
 
