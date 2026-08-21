@@ -1,74 +1,80 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-21 00:55**
-- 本轮扫到 10234 条, 新增 **8** 条
+- 最近更新: **2026-08-21 02:20**
+- 本轮扫到 10241 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (7 条)
 
-### 蔡徐坤新歌《Old School》在哪些平台引发翻跳热潮？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923111_1d5ae15a706801dxbs.html>
-
-### 蔡徐坤的新歌《Old School》是什么时候发布的？
+### 蔡徐坤新歌《old school》的舞台有哪些亮点？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923111_1d5ae15a706801dxbo.html>
+- 链接: <https://k.sina.com.cn/article_7879923104_1d5ae15a006801ic2u.html>
 
-### 蔡徐坤和蒲熠星在演唱会上如何演绎这句歌词？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879848901_1d5acf3c506801vntk.html>
-
-### 特朗普谋求“特金会”，金正恩却并不需要
+### 特朗普称白宫立法事务主任布雷德将离职
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-08-20 23:16
-- 链接: <https://news.google.com/rss/articles/CBMikAJBVV95cUxOMFFjbjVISktBY3BPSmQzZkkwZVBsQV9XN3lTRGJaa1g3eG9nTXRLOF81NnRfWHlrTFh5NUpadlNlWU5mYXZSYWNnVUFVTXpUN0h0SXRiSm5vZ19ZRUd0TnV1SnAyVm14RFdSczdHa2s2WFlhRGJEQmhmaTFyTWpvX1FrcEJzZVhRUDJmVHVwUzlKWjRtV0lwejNiQXQ2NUFVRl93UEx6UTlRRWVtZXdCNWpBNk9GV3JaX3g2d1YxLTBhOXNrT2hZNGl1eEVySWsySmF3a3c3by1keEd3dU1DYUNNWTZrWUViQzYtSDRMOHNSeUtuUHNRSUwzNXNPb01tX3ZBVUpTVnRPZjZoUFFFcA?oc=5>
+- 场馆: 紫牛新闻
+- 时间: 2026-08-20 23:51
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE92V0Y1c1ZPVjgtaC1XOC1rSDR2UFBtOFluOVpvRlpGYXk0a2p5RFpUc0pkSEVoU3BKbVhySVdrbWNoeV9fTGpvY0NXUkVCaDlMcks4RUpMalVKT09SVExBX1M2ZUQ0bkdscnc?oc=5>
 
 ### 特朗普签署备忘录以促进美航天发射 探索商业机器人登陆火星
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-08-20 23:16
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pd3lFNXBKWmlVMG1KV290X3BCS3hOTGg1WXRqNkJJT0dGS3k1ZXlJWEc2N2dETGJ0STZpT0w5RG5JTmhyLUtIZEdKWnhLTkM0UnhyNnZxRTIxM2xtS3M5TFJwY0s?oc=5>
+- 场馆: 央视网
+- 时间: 2026-08-21 01:15
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5QQzlqUzNNQjNqNUdhbXlhUHV3ME45cFRwdHJsOXRoWWFhMHFCQ1laUy1CV0tCazRncXBPelVqTnMzSzdNWGlmeTBuVThZVFEwYmx1T1daLS1IcEk2WTVkUVFhaDN4WXVOS09QcFhUVTZuLTBBR3pSUA?oc=5>
 
-### 美国从未用在任总统命名过航母，特朗普要做第一个？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-20 23:31
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE4xc3hpaWRucWFMUzFhcUxUclZpZTlPblo3VEEzLW4tVDNxSGRNbEdNcWNySjZpUS1OZTNIZUxVX0NkcHVMbTc3MUtVWm0?oc=5>
-
-### 被称为“人体打印机” 特朗普随行美女助手引关注
+### 乔恩·奥索夫连批特朗普数月，是否意在2028年大选？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-08-20 07:26
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BY3Zvb01YbVhpOW1MTk5ranZKcVdXNHpPS1duZ2NyMS1ZN1dVU3RZNjhJei1hM1NSZ2t1alpHTkl6bnNxMEc5eExwRGFpNmlNQmVYcF9QeEJmNHlibTdDenowZkR2dw?oc=5>
+- 场馆: 华尔街日报中文网
+- 时间: 2026-08-21 02:05
+- 链接: <https://news.google.com/rss/articles/CBMiugJBVV95cUxOVkoxd3hUTlRhYmhhdmx4cDJBdUF1WHRoWm4zMU91Z05scFpOWEpaalBvOVB1bE5ldWhhRzNvU3RHODlOZHowWVB6TDIwVjNFMWNQeGpjaklzdTRaMkRKVHp0ZzF5b1FhT0RMWC1XV1BPeGpUQ3dHczhiODRpYlFJZ2RZVk5VLUYxbmdzUXdDaV9sTmZaV3BnQl9zSmtubFBXQnJLZE80TF9tWGF0dzdTMWtrb2t2Q21tXzVNblcyNTNaNkhZcHRrdzZqNDl5aGQ4WF9oNFpaT19GUm9iaVlvOVV3cVdoLTVaaERZS2R1elZYbDg1OEhZbXBTTnBEcGluNlM5NXA4NWcxSFNEYjdMWjdFWmdjMXlGWnBfZGJEM0pFb3pHc3k0cHJUS3oySTFsU1lKTTBOaXRZZw?oc=5>
 
-### 特朗普：布雷德将离职
+### 特朗普为何威胁要“轰炸阿曼” 霍尔木兹海峡协议僵局引发
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: QQ News
-- 时间: 2026-08-20 23:13
-- 链接: <https://news.google.com/rss/articles/CBMibEFVX3lxTFBYb0g0ZFBHbUNWcmxGdU9VdGVud2hmSk93Mmxub1BSeWF5VzlYYTRKRTN5bnFtRFd1Z0FyOFhwWmlCTGpkSjE1cEZGU05nZG5OOXd5YWZEeFFZYkF4eHA1dGhRU1VaQW16ZUtlYg?oc=5>
+- 场馆: 中华军事
+- 时间: 2026-08-21 01:19
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBIeXJHX0EyMjFpN2gzUW02djk4S2hqR3dURTk1NkRXcUVERXE1RnJJT05NVk1oS2wyOU1YQUxFNlR2T0s0Y0thRE9ZX09ma2NFbG9yUHhDM25RRkp1S3VrODlCd0tSOHBKTklXTTY4Tnk?oc=5>
+
+### 小特朗普支持的MAGA电商平台崩盘内幕
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-08-21 01:46
+- 链接: <https://news.google.com/rss/articles/CBMingFBVV95cUxQWlkxa0lCem5YOHMyT2JjaUg2V3lPc21neS00LVFWVGs1bjcxbmp2bThsZUpUS0k3WDRBcHpiNmdZd2NGc0h6SW1tc1RKR2lzTFdJUjEzOTNhdHJNYTlkZ0xuSkNRVUxIMi1pSkY0SG4yTGQ3UmQxNHotTXpPUGVQdlNIdFlaU1hnb2lSOXZaRGJBT1VKOHBMeHBmcVF3QQ?oc=5>
+
+### 比特币飙升突破$70,000，因收益率下滑，特朗普引发乐观情绪
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-08-21 01:41
+- 链接: <https://news.google.com/rss/articles/CBMirgFBVV95cUxQMk91UnMwQWpidi1pSk9LZjR6NVBYdVlUYkc4UWx2bmVBYU91Y3JqTE5kLWFVQ0JuWlcyWEViTVh4VFJTcmNGVmVMZ0VHa3pxMG5Nd29icWhYaVg4OFB6NTN6LVk2VVllNFpNeTVNMTZnejZpT1RiMjRVQUVuM0JITWpiOHJiTlNfVTZST3VvZnVRVHc4Y3prNzRyX2lmaEJRNUdLSktBMHBHZzVhbHc?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-21 02:20  (7 条)
+
+- **蔡徐坤** | 蔡徐坤新歌《old school》的舞台有哪些亮点？ <https://k.sina.com.cn/article_7879923104_1d5ae15a006801ic2u.html>
+- **特朗普** | 特朗普称白宫立法事务主任布雷德将离职 <https://news.google.com/rss/articles/CBMiakFVX3lxTE92V0Y1c1ZPVjgtaC1XOC1rSDR2UFBtOFluOVpvRlpGYXk0a2p5RFpUc0pkSEVoU3BKbVhySVdrbWNoeV9fTGpvY0NXUkVCaDlMcks4RUpMalVKT09SVExBX1M2ZUQ0bkdscnc?oc=5>
+- **特朗普** | 特朗普签署备忘录以促进美航天发射 探索商业机器人登陆火星 <https://news.google.com/rss/articles/CBMieEFVX3lxTE5QQzlqUzNNQjNqNUdhbXlhUHV3ME45cFRwdHJsOXRoWWFhMHFCQ1laUy1CV0tCazRncXBPelVqTnMzSzdNWGlmeTBuVThZVFEwYmx1T1daLS1IcEk2WTVkUVFhaDN4WXVOS09QcFhUVTZuLTBBR3pSUA?oc=5>
+- **特朗普** | 乔恩·奥索夫连批特朗普数月，是否意在2028年大选？ <https://news.google.com/rss/articles/CBMiugJBVV95cUxOVkoxd3hUTlRhYmhhdmx4cDJBdUF1WHRoWm4zMU91Z05scFpOWEpaalBvOVB1bE5ldWhhRzNvU3RHODlOZHowWVB6TDIwVjNFMWNQeGpjaklzdTRaMkRKVHp0ZzF5b1FhT0RMWC1XV1BPeGpUQ3dHczhiODRpYlFJZ2RZVk5VLUYxbmdzUXdDaV9sTmZaV3BnQl9zSmtubFBXQnJLZE80TF9tWGF0dzdTMWtrb2t2Q21tXzVNblcyNTNaNkhZcHRrdzZqNDl5aGQ4WF9oNFpaT19GUm9iaVlvOVV3cVdoLTVaaERZS2R1elZYbDg1OEhZbXBTTnBEcGluNlM5NXA4NWcxSFNEYjdMWjdFWmdjMXlGWnBfZGJEM0pFb3pHc3k0cHJUS3oySTFsU1lKTTBOaXRZZw?oc=5>
+- **特朗普** | 特朗普为何威胁要“轰炸阿曼” 霍尔木兹海峡协议僵局引发 <https://news.google.com/rss/articles/CBMicEFVX3lxTFBIeXJHX0EyMjFpN2gzUW02djk4S2hqR3dURTk1NkRXcUVERXE1RnJJT05NVk1oS2wyOU1YQUxFNlR2T0s0Y0thRE9ZX09ma2NFbG9yUHhDM25RRkp1S3VrODlCd0tSOHBKTklXTTY4Tnk?oc=5>
+- **Trump** | 小特朗普支持的MAGA电商平台崩盘内幕 <https://news.google.com/rss/articles/CBMingFBVV95cUxQWlkxa0lCem5YOHMyT2JjaUg2V3lPc21neS00LVFWVGs1bjcxbmp2bThsZUpUS0k3WDRBcHpiNmdZd2NGc0h6SW1tc1RKR2lzTFdJUjEzOTNhdHJNYTlkZ0xuSkNRVUxIMi1pSkY0SG4yTGQ3UmQxNHotTXpPUGVQdlNIdFlaU1hnb2lSOXZaRGJBT1VKOHBMeHBmcVF3QQ?oc=5>
+- **Trump** | 比特币飙升突破$70,000，因收益率下滑，特朗普引发乐观情绪 <https://news.google.com/rss/articles/CBMirgFBVV95cUxQMk91UnMwQWpidi1pSk9LZjR6NVBYdVlUYkc4UWx2bmVBYU91Y3JqTE5kLWFVQ0JuWlcyWEViTVh4VFJTcmNGVmVMZ0VHa3pxMG5Nd29icWhYaVg4OFB6NTN6LVk2VVllNFpNeTVNMTZnejZpT1RiMjRVQUVuM0JITWpiOHJiTlNfVTZST3VvZnVRVHc4Y3prNzRyX2lmaEJRNUdLSktBMHBHZzVhbHc?oc=5>
 
 ### 2026-08-21 00:55  (8 条)
 
