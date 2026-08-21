@@ -1,32 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-21 21:46**
-- 本轮扫到 10328 条, 新增 **2** 条
+- 最近更新: **2026-08-21 22:16**
+- 本轮扫到 10330 条, 新增 **2** 条
 
 ---
 
 ## 本轮新发现 (2 条)
 
-### 应特朗普总统的命令，美韩提前六天结束“乙支自由盾”演习
+### 特朗普称干预债市是贝森特自己拿的主意
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-08-21 21:24
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMWhQMTJZNkE1UTZoRXBicThDZGh4cnFLLXl1RzljMUFmQms5R21EZlFEcUFlZjdTeWdVSjJ4LUZ2SkRSVHg2TFVLbzN5NVRiWm1vU3dsZklZT242RXJud0NWZkFMUHJvRDVxN3V0TEptempRa05tUEh1OTNMcXVJWExFNWFlRUk0ZnZOclVfUEpaUWhQcWZYNkZqV2hPaUZ4TG8zSHpPYzhqakZhbzFrdk05T3FIRFJVS3pMa05vdWdsQnNEd3VobHVPTHBCMncx0gHTAUFVX3lxTE9MYko0Wkp1VWswZV9kdEtER09JSjJHUzNxR25ycXBjMGNkZUJ5RGRKM1dJeEdMRjFodXZhRTFWUFEtRVBuNEVmcnNVSkxVWkNCMXZILXU3V051TW1PSGtBc1FnNGo5bjBwMkdtZUVnRGF2RVlsTG5nX3RJODAyMHM1SDh3cGlnYS1SUHRlQzR0aWJ6bmRxV3pBcWNUTTVJSFJEczB5b1ZXemxHaGZobjU5cUgzcGNYVEFOY2JYLW91X0xkSUNmZDgybi1scGNkYjEzT2s?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-21 22:09
+- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTFBuLVRYWlNOSF8waVRQTUNGSi0wYTk3cDlseUpSNXlIRzVqaXVlYzZNTEJCX2VnazVLQkpVV0huODVkTjRVTHBMbjRLaTVpT1l4cUJVSnJuZklaMGFOZE5xYjhRbWVIQWtTQmpZTllURm9KVm10bnpTVDhR?oc=5>
 
-### “特朗普拿伊朗施压，恰恰说明他没招了”
+### 特朗普推迟对加拿大加征50%关税，是为保全面子还是另有顾虑？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-08-21 14:37
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE00cGxfV05qZmR0TmlxbHI2a28wRzFuRXEyQ0tkLXpSTzJLUDVGc21tWEJsTUY1S2VHMkVTajRxaF94TW5HTzFNOXpYdEdpSlNwa3AwLVh4QTBBc2ZMdEJBTURjbFVyeDYxSlE?oc=5>
+- 场馆: 东方财富
+- 时间: 2026-08-21 19:10
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FN1E3RDZjb244TkhsVzh5NkJocktEVW5IdjZOcE1STXJkam1DNUFJeFI3VlhES2ttMmFGZHZyaGZhMGVVaXZSSkRlVHZMT0hVaGd5ZzNBbU9UZzY1QmJseA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-21 22:16  (2 条)
+
+- **特朗普** | 特朗普称干预债市是贝森特自己拿的主意 <https://news.google.com/rss/articles/CBMiekFVX3lxTFBuLVRYWlNOSF8waVRQTUNGSi0wYTk3cDlseUpSNXlIRzVqaXVlYzZNTEJCX2VnazVLQkpVV0huODVkTjRVTHBMbjRLaTVpT1l4cUJVSnJuZklaMGFOZE5xYjhRbWVIQWtTQmpZTllURm9KVm10bnpTVDhR?oc=5>
+- **特朗普** | 特朗普推迟对加拿大加征50%关税，是为保全面子还是另有顾虑？ <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FN1E3RDZjb244TkhsVzh5NkJocktEVW5IdjZOcE1STXJkam1DNUFJeFI3VlhES2ttMmFGZHZyaGZhMGVVaXZSSkRlVHZMT0hVaGd5ZzNBbU9UZzY1QmJseA?oc=5>
 
 ### 2026-08-21 21:46  (2 条)
 
