@@ -1,24 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-21 08:31**
-- 本轮扫到 10270 条, 新增 **1** 条
+- 最近更新: **2026-08-21 09:29**
+- 本轮扫到 10272 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮新发现 (2 条)
 
-### 美伊冲突难休？特朗普政府批准提前开售冬季汽油，全力压低油价！
+### 美韩军演提前散场 特朗普为何按下“暂停键”？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-08-21 08:15
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxQR203VlN3b2tKTjlURktRaTVRSVdFdnFDbHEydThGbDhvSldGektaY3VrckdwMGxaeEtURF9WRHI4YjdvQXhpSmdLTlRiMW05MUNsanY0VlMyM1plTTNpR2FzRUxaSDV4aWxmaFRxQXBpcmxSZXprd0Fxc0hZQ29nLTcxUnB2aElHYndHWHNIQXNMeHpTSllueQ?oc=5>
+- 场馆: 新蓝网
+- 时间: 2026-08-21 06:57
+- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE1KaXBWNmNGYmtBRkpqcGZOSVB5NWVKVXRrMXpYUWpxbngxSXNYbGdONktYSlhtdG9YQy1fS3plZzBIOW1TdWtZenFGTjUzaXM?oc=5>
+
+### 重磅信件完整公开！特朗普年轻女助理：你是我的一切
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-08-21 06:46
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1zU05WV2M4Wnp0bExCcGY2MXRvUUNKVmktTUpubFlBRHBJNm5FUXoxRzNVS1lINzZRVzBVeUZra3BBbURxM01reWcxRjM?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-21 09:29  (2 条)
+
+- **特朗普** | 美韩军演提前散场 特朗普为何按下“暂停键”？ <https://news.google.com/rss/articles/CBMiT0FVX3lxTE1KaXBWNmNGYmtBRkpqcGZOSVB5NWVKVXRrMXpYUWpxbngxSXNYbGdONktYSlhtdG9YQy1fS3plZzBIOW1TdWtZenFGTjUzaXM?oc=5>
+- **特朗普** | 重磅信件完整公开！特朗普年轻女助理：你是我的一切 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1zU05WV2M4Wnp0bExCcGY2MXRvUUNKVmktTUpubFlBRHBJNm5FUXoxRzNVS1lINzZRVzBVeUZra3BBbURxM01reWcxRjM?oc=5>
 
 ### 2026-08-21 08:31  (1 条)
 
