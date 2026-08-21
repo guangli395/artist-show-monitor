@@ -1,68 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-21 05:02**
-- 本轮扫到 10261 条, 新增 **7** 条
+- 最近更新: **2026-08-21 05:55**
+- 本轮扫到 10264 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (3 条)
 
-### 蔡徐坤的巡回演唱会有哪些后续安排？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923116_1d5ae15ac06801k1i4.html>
-
-### 蔡徐坤近期有哪些新歌或演唱会计划？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923119_1d5ae15af06801w024.html>
-
-### 美伊冲突难休？特朗普政府批准提前开售冬季汽油，全力压低油价！
+### 美债收益率下滑、特朗普会见行业高管提振市场情绪！加密货币全线大涨 比特币逼近7.2万美元
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: finance.sina.com.cn
-- 时间: 2026-08-21 02:24
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTVBMTmNacXFRWW9WOUE1SXhvX3hubWhaT2FNbzAxTWJ1dUtUc1JONnp3YWRTS3ZCU0lqazhscy1SN1NTMGs3TVpPMS1VRDBpZjR1TDZ6dXVkRkJtTXBKS2Vqb1Nna0RHV0k1bklpd1dHWlRCTkhIVEVEa2J5d21YMG1CdUtTYU9IemFFUHZKaXhOVTNXZ0VVaDRySWhfSmVKV3dJcFQ2bm1LcmUtdHZvaFZYUXlBTE9Yalp3c0Y3dV8yZWFRT3ZTMlRGTE9MSlZ0?oc=5>
+- 时间: 2026-08-21 05:27
+- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQ3NmeFl1R24tZlJ2ZUI0Q0g5TXVTeXZvbklQeXRfNnZnbnVLTzZ4Vi1IWnRvRXJlS0h4RG13bGZUeVp3NlJ5dTNxVlpIMURhNTVEUmRtQUlTVTktVWtIamtuSkV1UmFLNTFaemhHRG4wX0llM2xQNmhnUTRaNThrX3g2LTBKbWVwMjBFWnh4aFpQZWtubjlTNm80QnVHZTNGYWRYTTBiRU1wdw?oc=5>
 
-### 特朗普：布雷德将离职
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-08-21 04:29
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTFBqbm5sTnlGNFV4cnpZNEFEUDBuZXllTlJqUGNZZk4xYS1jUVJIWGhFejc2aVI5TTdDR3NQUk9iQ1RCU3Y2UVZRYVViZ2tVTW1QZ05kQkNhTHBRZXIxLWVCQUdXMkl6dWVWU0txaG0yMG5wOUctTVE?oc=5>
-
-### 特朗普签备忘录：探索商业机器人登陆火星 2030年实现每年超千次发射与再入任务
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-08-21 00:58
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE1ranJOam12WnJjNDVKSW9TWWdmT255V1U0dDljMHBJNEFTWkI2bm5BUjB3Nm82ZUo2cU5FbjVOM2U3bU9FTGkzeA?oc=5>
-
-### 特朗普签署涉航天发射备忘录
+### 特朗普出手，比特币、加密货币股票大涨
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: finance.sina.com.cn
-- 时间: 2026-08-20 23:43
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1zUEZ4eHJGTXV3aVlhUkxJYnc4bi1aZ2hfaUV0akRNbGNiUk9fOEFfYXlYWGNwTDRnN1A0SjZMSlBQMVEtQXAyUGFjcTdBbHpESGR4UXZpNVpJVF9va0RkU0F6T3RoUEM2RlkyUTZpZTJsV01XYlFzaA?oc=5>
+- 时间: 2026-08-21 05:27
+- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxQVGU4TVhUejI0ZjA0OUhSY245TmJiVGhOMHBwd202TWkzcHRRSENuR0FtZndsYkIzZVVMaFVtYU81Y1RIOERQNjBqLTBSRlFSSzNVUkVfUkVObmtOa09KVmNIRFJEek05RmZPTUc4a1VuUlNFMF9xbjR1VE9JX0lCVlpQNlFhUnNLM3R5dWJ2cXJaa2xBUzRPSQ?oc=5>
 
-### 头条：美国敦促盟友和中国加入最新“摧毁”伊朗的经济攻势
+### 李在明表态赞同特朗普缩减美韩军演
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: ABC News & Headlines – Australian Broadcasting Corporation
-- 时间: 2026-08-21 00:23
-- 链接: <https://news.google.com/rss/articles/CBMikwFBVV95cUxNNWlrcHZxXzJIdTZtOUQxZTN0RzhBNW1KN1FtS1hWWHlEazIzcVF1LWZKQzVxUExmTFhMUENCSEgxbk1xUENIU0FTVlp0bzdZeUUxNWNkYVUxMG1MdVhnYVB0UmlJOGVwMTVraVJYY2dralhkdzhWUWQ3WFQyNzNEWU84VkdmQXNtd2VxZUJxcnIzSlE?oc=5>
+- 场馆: finance.sina.com.cn
+- 时间: 2026-08-21 05:03
+- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTFBjZGxIUTR3Q1l6ZGNlVTk1Mi1DNjc5TDIxdXhXdTM2YWlxSy1zRmdYVVo0R0ZVbzhvQ3MtVXA4aEpIV3gwMHZrNVg2SnMzbzVieWVtZmUwcjYtLWRMU3J6aEVnY3cwUjV5Tkk2eUwxSGxUV2VMdkVXLW55eWRvUQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-21 05:55  (3 条)
+
+- **特朗普** | 美债收益率下滑、特朗普会见行业高管提振市场情绪！加密货币全线大涨 比特币逼近7.2万美元 <https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQ3NmeFl1R24tZlJ2ZUI0Q0g5TXVTeXZvbklQeXRfNnZnbnVLTzZ4Vi1IWnRvRXJlS0h4RG13bGZUeVp3NlJ5dTNxVlpIMURhNTVEUmRtQUlTVTktVWtIamtuSkV1UmFLNTFaemhHRG4wX0llM2xQNmhnUTRaNThrX3g2LTBKbWVwMjBFWnh4aFpQZWtubjlTNm80QnVHZTNGYWRYTTBiRU1wdw?oc=5>
+- **特朗普** | 特朗普出手，比特币、加密货币股票大涨 <https://news.google.com/rss/articles/CBMimAFBVV95cUxQVGU4TVhUejI0ZjA0OUhSY245TmJiVGhOMHBwd202TWkzcHRRSENuR0FtZndsYkIzZVVMaFVtYU81Y1RIOERQNjBqLTBSRlFSSzNVUkVfUkVObmtOa09KVmNIRFJEek05RmZPTUc4a1VuUlNFMF9xbjR1VE9JX0lCVlpQNlFhUnNLM3R5dWJ2cXJaa2xBUzRPSQ?oc=5>
+- **特朗普** | 李在明表态赞同特朗普缩减美韩军演 <https://news.google.com/rss/articles/CBMifkFVX3lxTFBjZGxIUTR3Q1l6ZGNlVTk1Mi1DNjc5TDIxdXhXdTM2YWlxSy1zRmdYVVo0R0ZVbzhvQ3MtVXA4aEpIV3gwMHZrNVg2SnMzbzVieWVtZmUwcjYtLWRMU3J6aEVnY3cwUjV5Tkk2eUwxSGxUV2VMdkVXLW55eWRvUQ?oc=5>
 
 ### 2026-08-21 05:02  (7 条)
 
