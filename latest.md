@@ -1,32 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-21 06:37**
-- 本轮扫到 10266 条, 新增 **2** 条
+- 最近更新: **2026-08-21 07:37**
+- 本轮扫到 10269 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (3 条)
 
-### 新闻蒸馏器｜特朗普“守门人”惹争议：了解机密却未办理安全许可，已工作一年
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-08-21 05:43
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1MEJ2YVRIVGNQTW80c0xLMllCWWgtOWtyRE5TeFpyZkZfZmJYTnNzTjE4YzJ0RDRnYlJKcnprZFlqZkZhU2d4RTdTZ2dHSmNVLVRFTEZJWUlFT08yZjZFNg?oc=5>
-
-### 特朗普被曝对伊战略发生转变 放弃军事行动改打经济战
+### 特朗普推动《清晰法案》，加密货币股飙升达10%
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 财新
-- 时间: 2026-08-19 10:29
-- 链接: <https://news.google.com/rss/articles/CBMibEFVX3lxTFBlWWJSWEZWS1VqbDlaQnBpVExZWFBsU05qQzY4OV9Pa3hHeGhFSzRsdkNrUHBMWlZXcTkxaXFjSUN2bk5YeHM1UkwyQklOVHdWeTNPRW1yQjhoZE14RUc5TEFfcXZsTC1zbFp0SQ?oc=5>
+- 场馆: idnfinancials.com
+- 时间: 2026-08-21 07:00
+- 链接: <https://news.google.com/rss/articles/CBMipgJBVV95cUxNXzZfLXNLaXp4azVJbmMxMjdLRThtbHN5b1ZaU0l0VTFGZVlzV0hvM2FweHRkZ2RyWjNSakxEZklTSkdfTXVPNG9lY210SGItOTEzcWdyeUwybDdXWnFfZHVEVnFsa1NlOTJrMFpGZ0FjQVRCWGVaOEtVVTNPYzJ6QnZYUWc0WDhCTWFRSEx2Q1BEVDZidXZxNjAyUXNSNDlpZ1ZNdXBqbTgwd20xdXBqMWItX2FUZ0JGMGhPb0hfNFhRYVQ4TUhjUmFJMl9Vd3VpZEYyRTl1Y085RnFtcWViSlk4U19MNVozTkF6SWJYYzZDSTNYeXBmSi1oWG5Va1Roay1PR0w4enFmYkt0VFJaZ3gzRHljcV9ENmtNdm9IbFJ6a0JYU3c?oc=5>
+
+### 快看视频 | 特朗普再向金正恩示好第二天，韩国称朝鲜发射10多枚导弹
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 上观新闻
+- 时间: 2026-08-21 06:18
+- 链接: <https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ndzlteXBFa2J1NWdkQ3pENjB0NHRFeUIwN2k2NVJXRXgzRzBQTjNQUkM3WHUxM3UtbG9Gd1FHZTBUMjd1WEUyRG1pMkZOQ0tFVnUxY3hubFZXMVQ3?oc=5>
+
+### 特朗普希望美国航天每年至少发射1000次
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-08-21 02:02
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5sVDZXblpaWTJyQkdXWW9Rb2tHbWRCa3ZDWUt2MHN5ZmFUOXVhOUJyYmRLSkdIc3BKM0dpaTg3aDdIVE1zVmpuWFRtSTE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-21 07:37  (3 条)
+
+- **特朗普** | 特朗普推动《清晰法案》，加密货币股飙升达10% <https://news.google.com/rss/articles/CBMipgJBVV95cUxNXzZfLXNLaXp4azVJbmMxMjdLRThtbHN5b1ZaU0l0VTFGZVlzV0hvM2FweHRkZ2RyWjNSakxEZklTSkdfTXVPNG9lY210SGItOTEzcWdyeUwybDdXWnFfZHVEVnFsa1NlOTJrMFpGZ0FjQVRCWGVaOEtVVTNPYzJ6QnZYUWc0WDhCTWFRSEx2Q1BEVDZidXZxNjAyUXNSNDlpZ1ZNdXBqbTgwd20xdXBqMWItX2FUZ0JGMGhPb0hfNFhRYVQ4TUhjUmFJMl9Vd3VpZEYyRTl1Y085RnFtcWViSlk4U19MNVozTkF6SWJYYzZDSTNYeXBmSi1oWG5Va1Roay1PR0w4enFmYkt0VFJaZ3gzRHljcV9ENmtNdm9IbFJ6a0JYU3c?oc=5>
+- **特朗普** | 快看视频 | 特朗普再向金正恩示好第二天，韩国称朝鲜发射10多枚导弹 <https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ndzlteXBFa2J1NWdkQ3pENjB0NHRFeUIwN2k2NVJXRXgzRzBQTjNQUkM3WHUxM3UtbG9Gd1FHZTBUMjd1WEUyRG1pMkZOQ0tFVnUxY3hubFZXMVQ3?oc=5>
+- **特朗普** | 特朗普希望美国航天每年至少发射1000次 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5sVDZXblpaWTJyQkdXWW9Rb2tHbWRCa3ZDWUt2MHN5ZmFUOXVhOUJyYmRLSkdIc3BKM0dpaTg3aDdIVE1zVmpuWFRtSTE?oc=5>
 
 ### 2026-08-21 06:37  (2 条)
 
