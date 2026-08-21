@@ -1,24 +1,33 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-21 18:27**
-- 本轮扫到 10315 条, 新增 **1** 条
+- 最近更新: **2026-08-21 19:06**
+- 本轮扫到 10317 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮新发现 (2 条)
 
-### 特朗普称年内会金正恩 罕见评估朝鲜核武
+### 周杰伦巡演中哪些热门歌曲被改编成了国风版？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: DW.com
-- 时间: 2026-08-20 23:49
-- 链接: <https://news.google.com/rss/articles/CBMiogJBVV95cUxNdFFMWTMxUEJ3LXptb3puMl82SS1uTEhsZUJELWpSdWtCbS05Z0p4RGdMNTIwemZDcEh1TWRKNGJQUlJNZ0JtQ0lZTkV4bVM5N3M0YnBxckJQS0hKeGtBWU1MMEk2RWdJMEh2M2xfVFhHWWRCZnVYVmdkZk1ZVFBJaVVZalIxNnRxWk8xc2EwUzczbHFnOUtOaXpXOXA1SUpxbkthSUFwam9BbWFkWDMzX29lb3JMVmNEcG9jNEZuYkd1TVlrZjRrNjZlV3RIVTNxbEx4bmd1VHltOEdvMm81Vlp1VU9RRm5fanhzSjFrUlh3cHYtaHlfTXZ4Z1ZSWF9MWVhnV3RmelI2Tk5RNkdOMy1ZS1lZOGNiY0xRWVR4Rzh3d9IBogJBVV95cUxPYWduZ2txVkZKZVpKTTBQWnRzVjQtUTBnZ1dKMzVmYVpvTDdncktVMzhHWS13Ym9zZjNBa2lTN25OV3ZhVDNZY0ltakd5aGhjZnB2SmI2YzNMdzVhN2o3dHgxNmk2RlZpdG1qc01mQl9LUDN4MjV0WDFCeXQwQ2tiOGdFSU5TVW5MdDVsRlFEbGtjdzhJZnVCZTJVQVdwdE9KYXNRLW4tWjZpd25zQ0w0M2ZQbjRiYWMtV2diTlhUVy1OV3h1LWxLQk9Dd2JmbFgzckJUZUZjNEIzZW9uU1ZKOHZFM3czS2MzTGRwRjMxMUtaSGpvZGVOV2FsTm9jelg0c3N5SzBNRmUzS2d2dFF0ZHpiSGpsU3ptUGFSa1pmSFp6QQ?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879849298_1d5acf55206801a1dk.html>
+
+### 丁禹兮厦门演唱会歌单曝光！周杰伦七里香国风版引热议
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879849298_1d5acf55206801a1dg.html>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-21 19:06  (2 条)
+
+- **周杰伦** | 周杰伦巡演中哪些热门歌曲被改编成了国风版？ <https://k.sina.com.cn/article_7879849298_1d5acf55206801a1dk.html>
+- **周杰伦** | 丁禹兮厦门演唱会歌单曝光！周杰伦七里香国风版引热议 <https://k.sina.com.cn/article_7879849298_1d5acf55206801a1dg.html>
 
 ### 2026-08-21 18:27  (1 条)
 
