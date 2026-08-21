@@ -1,48 +1,26 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-21 15:56**
-- 本轮扫到 10307 条, 新增 **4** 条
+- 最近更新: **2026-08-21 16:30**
+- 本轮扫到 10308 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (1 条)
 
-### 美加贸易协议接近收官，特朗普关税大限步步逼近
+### 周杰伦杭州站演唱会想看人数为何高达427万？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-21 13:03
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPS3Zfd21pVmdpaHNmWEwtUG50Wno4VUN0VXpHNVRKbk5VakgyZWtFamRhMHFqQS0wRXFNTHZUV09QRFl3bHFjODVRQ0Npa0xyaVdpYU8xVGRmTjl3UEhOTjc1YTRrd1p5UEJJc1BleTRlUWl2RHNoNXpGNXR5dlowSDd2TDBmLV9fTGJqbTBWMUdJNGRGZ2FNVVpYcUFnbkJqenhPWHVtV28yM3pQMlNmbUVfTGQ3cXE2dngxd09INkwyQ0p3aGdvdXM5dklaRHJIN0ZVcUxPTFhwM2I1R2kw?oc=5>
-
-### 特朗普签署备忘录：探索商业机器人登陆火星，2030年实现每年至少1000次发射与再入任务
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-08-21 09:08
-- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTFBtTGwzMHpDZ1QyYVZPclVOdXVGdURSckhPNUg1SnJSNkI0ZWY3blJXTWFPdG1RVnNNVjM5ejRQWU5mX2JvU1pIX2pRT3hsQWxqWUtaY1VsR3FWcC16WEdaa0lwajhvckdQX2lHa3F3?oc=5>
-
-### 特朗普宣布暂时豁免碎牛肉进口关税
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-08-21 13:56
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE54S3VJLXFIam1oczBxajhQSm5FZFpwUFI4Wkl5cGx4aFdNZFlDNmVtRmdlZXNBcEllbnZfT1h6WDN5WUJSNjZfdk9pNk5ySEJpSWo3RjVkUTcyOElKTWxIV2RoVDA?oc=5>
-
-### 王毅访韩展开魅力攻势 北京能否在美韩之间成功插入楔子？
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-08-21 14:20
-- 链接: <https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa3NyaFItUG9tT3RxWUR3Y3ZYRXF5SHV1Y19iQ05vc3g2OXRfd1VoUm0yU3VoOWNEOHVrelc4cnI5cUNlZGZ0cUh2N2xuNUl3RUdSTTM0dFh2SkQwelFWVFRtZUlHRmFsSldQM3ZxandKN2M4V0ZMRTlscnlXZXpOVjY4OXJINlBlV2NVLVU4dTAxQUgwcW52US1hbElvV0tMNTF1blR4TEszODBZOVFQbGpyajE3cko1ZE9j0gG-AUFVX3lxTE10UnQwWmRxTlZYaV9HRUd4YnpURTdvR3AtcGhCcmxhQUVsQmFEMVdVbWw4WVBMdFRCRGMzczNQQlNuOGEwdnVZbkFhMDNDSGd1U2tIV3lWWHMwcTBsZnNtdVFmX3daU185RTRmSkwzXzROT3JULWlpU2lISlBNMGFoVHNraTk3SC0tYnhtOEt2bkZ6RDZQeTdVQ0h5MHNYWmtGSU1QUHZqMVJEa1dSMG1jUGRvWjNQMkc2WFZ3OVE?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923377_1d5ae16b106801bta2.html>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-21 16:30  (1 条)
+
+- **周杰伦** | 周杰伦杭州站演唱会想看人数为何高达427万？ <https://k.sina.com.cn/article_7879923377_1d5ae16b106801bta2.html>
 
 ### 2026-08-21 15:56  (4 条)
 
