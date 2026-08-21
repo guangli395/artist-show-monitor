@@ -1,30 +1,85 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-20 23:48**
-- 本轮扫到 10226 条, 新增 **2** 条
+- 最近更新: **2026-08-21 00:55**
+- 本轮扫到 10234 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (8 条)
 
-### 周杰伦南京站演唱会门票多少钱？350万人抢10秒售罄，想买只能这样+FAQ
+### 蔡徐坤新歌《Old School》在哪些平台引发翻跳热潮？
 
-- 艺人/关键词: **周杰伦**
+- 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879777066_1d5abdb2a06801x0lw.html>
+- 链接: <https://k.sina.com.cn/article_7879923111_1d5ae15a706801dxbs.html>
 
-### 特朗普砸30亿美元能复兴美国矿产业吗 一场必败的豪赌
+### 蔡徐坤的新歌《Old School》是什么时候发布的？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923111_1d5ae15a706801dxbo.html>
+
+### 蔡徐坤和蒲熠星在演唱会上如何演绎这句歌词？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879848901_1d5acf3c506801vntk.html>
+
+### 特朗普谋求“特金会”，金正恩却并不需要
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中华军事
-- 时间: 2026-08-20 23:23
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBsR0pSVFA5UWhQNHl2LWFjRy1lMDVReEtuN3BrRlpwcDlLdkxIYWcyaHpnUjlFVWNkTkNUbmo1d1ozUXZWQmlzdnBtSmJXYm0yb3cteG5YVm5sbTNuaFBjQ05sQU1qTWRwcnRPYmRvZGg?oc=5>
+- 场馆: 华尔街日报中文网
+- 时间: 2026-08-20 23:16
+- 链接: <https://news.google.com/rss/articles/CBMikAJBVV95cUxOMFFjbjVISktBY3BPSmQzZkkwZVBsQV9XN3lTRGJaa1g3eG9nTXRLOF81NnRfWHlrTFh5NUpadlNlWU5mYXZSYWNnVUFVTXpUN0h0SXRiSm5vZ19ZRUd0TnV1SnAyVm14RFdSczdHa2s2WFlhRGJEQmhmaTFyTWpvX1FrcEJzZVhRUDJmVHVwUzlKWjRtV0lwejNiQXQ2NUFVRl93UEx6UTlRRWVtZXdCNWpBNk9GV3JaX3g2d1YxLTBhOXNrT2hZNGl1eEVySWsySmF3a3c3by1keEd3dU1DYUNNWTZrWUViQzYtSDRMOHNSeUtuUHNRSUwzNXNPb01tX3ZBVUpTVnRPZjZoUFFFcA?oc=5>
+
+### 特朗普签署备忘录以促进美航天发射 探索商业机器人登陆火星
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新京报
+- 时间: 2026-08-20 23:16
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pd3lFNXBKWmlVMG1KV290X3BCS3hOTGg1WXRqNkJJT0dGS3k1ZXlJWEc2N2dETGJ0STZpT0w5RG5JTmhyLUtIZEdKWnhLTkM0UnhyNnZxRTIxM2xtS3M5TFJwY0s?oc=5>
+
+### 美国从未用在任总统命名过航母，特朗普要做第一个？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-08-20 23:31
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE4xc3hpaWRucWFMUzFhcUxUclZpZTlPblo3VEEzLW4tVDNxSGRNbEdNcWNySjZpUS1OZTNIZUxVX0NkcHVMbTc3MUtVWm0?oc=5>
+
+### 被称为“人体打印机” 特朗普随行美女助手引关注
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-08-20 07:26
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BY3Zvb01YbVhpOW1MTk5ranZKcVdXNHpPS1duZ2NyMS1ZN1dVU3RZNjhJei1hM1NSZ2t1alpHTkl6bnNxMEc5eExwRGFpNmlNQmVYcF9QeEJmNHlibTdDenowZkR2dw?oc=5>
+
+### 特朗普：布雷德将离职
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: QQ News
+- 时间: 2026-08-20 23:13
+- 链接: <https://news.google.com/rss/articles/CBMibEFVX3lxTFBYb0g0ZFBHbUNWcmxGdU9VdGVud2hmSk93Mmxub1BSeWF5VzlYYTRKRTN5bnFtRFd1Z0FyOFhwWmlCTGpkSjE1cEZGU05nZG5OOXd5YWZEeFFZYkF4eHA1dGhRU1VaQW16ZUtlYg?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-21 00:55  (8 条)
+
+- **蔡徐坤** | 蔡徐坤新歌《Old School》在哪些平台引发翻跳热潮？ <https://k.sina.com.cn/article_7879923111_1d5ae15a706801dxbs.html>
+- **蔡徐坤** | 蔡徐坤的新歌《Old School》是什么时候发布的？ <https://k.sina.com.cn/article_7879923111_1d5ae15a706801dxbo.html>
+- **蔡徐坤** | 蔡徐坤和蒲熠星在演唱会上如何演绎这句歌词？ <https://k.sina.com.cn/article_7879848901_1d5acf3c506801vntk.html>
+- **特朗普** | 特朗普谋求“特金会”，金正恩却并不需要 <https://news.google.com/rss/articles/CBMikAJBVV95cUxOMFFjbjVISktBY3BPSmQzZkkwZVBsQV9XN3lTRGJaa1g3eG9nTXRLOF81NnRfWHlrTFh5NUpadlNlWU5mYXZSYWNnVUFVTXpUN0h0SXRiSm5vZ19ZRUd0TnV1SnAyVm14RFdSczdHa2s2WFlhRGJEQmhmaTFyTWpvX1FrcEJzZVhRUDJmVHVwUzlKWjRtV0lwejNiQXQ2NUFVRl93UEx6UTlRRWVtZXdCNWpBNk9GV3JaX3g2d1YxLTBhOXNrT2hZNGl1eEVySWsySmF3a3c3by1keEd3dU1DYUNNWTZrWUViQzYtSDRMOHNSeUtuUHNRSUwzNXNPb01tX3ZBVUpTVnRPZjZoUFFFcA?oc=5>
+- **特朗普** | 特朗普签署备忘录以促进美航天发射 探索商业机器人登陆火星 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pd3lFNXBKWmlVMG1KV290X3BCS3hOTGg1WXRqNkJJT0dGS3k1ZXlJWEc2N2dETGJ0STZpT0w5RG5JTmhyLUtIZEdKWnhLTkM0UnhyNnZxRTIxM2xtS3M5TFJwY0s?oc=5>
+- **特朗普** | 美国从未用在任总统命名过航母，特朗普要做第一个？ <https://news.google.com/rss/articles/CBMiTEFVX3lxTE4xc3hpaWRucWFMUzFhcUxUclZpZTlPblo3VEEzLW4tVDNxSGRNbEdNcWNySjZpUS1OZTNIZUxVX0NkcHVMbTc3MUtVWm0?oc=5>
+- **特朗普** | 被称为“人体打印机” 特朗普随行美女助手引关注 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BY3Zvb01YbVhpOW1MTk5ranZKcVdXNHpPS1duZ2NyMS1ZN1dVU3RZNjhJei1hM1NSZ2t1alpHTkl6bnNxMEc5eExwRGFpNmlNQmVYcF9QeEJmNHlibTdDenowZkR2dw?oc=5>
+- **特朗普** | 特朗普：布雷德将离职 <https://news.google.com/rss/articles/CBMibEFVX3lxTFBYb0g0ZFBHbUNWcmxGdU9VdGVud2hmSk93Mmxub1BSeWF5VzlYYTRKRTN5bnFtRFd1Z0FyOFhwWmlCTGpkSjE1cEZGU05nZG5OOXd5YWZEeFFZYkF4eHA1dGhRU1VaQW16ZUtlYg?oc=5>
 
 ### 2026-08-20 23:48  (2 条)
 
