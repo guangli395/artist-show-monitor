@@ -1,24 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-22 18:19**
-- 本轮扫到 10409 条, 新增 **1** 条
+- 最近更新: **2026-08-22 18:55**
+- 本轮扫到 10410 条, 新增 **1** 条
 
 ---
 
 ## 本轮新发现 (1 条)
 
-### “可出动美军干预债市”-观察者网
+### 特朗普：可出动美军干预债市
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-08-22 09:41
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFB0N0RCSktRcXZ5bldHQzZhQjRhVTFwWHpweHNlampOUWVDOU51X2s5eURtNmw2Zk1CeG1vVVFKTWpSOFVEWF9xSVlOYzZOdWEwMk9BdVlVMWxucV8zNFpXZFlKaHkyeGQzTUE?oc=5>
+- 场馆: 东方财富
+- 时间: 2026-08-22 07:45
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE53RVRRUTlPV2lfakVHcU8tM0g4ak40bFN3bTRVUWlfRzM2djRKbXpzR0tqdXJHUTROV0JrbFRuYUY4UzMwMTY3Q1VWYk9wdzI2a3lXcC1ZQWdtMmdyV1hzbg?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-22 18:55  (1 条)
+
+- **特朗普** | 特朗普：可出动美军干预债市 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE53RVRRUTlPV2lfakVHcU8tM0g4ak40bFN3bTRVUWlfRzM2djRKbXpzR0tqdXJHUTROV0JrbFRuYUY4UzMwMTY3Q1VWYk9wdzI2a3lXcC1ZQWdtMmdyV1hzbg?oc=5>
 
 ### 2026-08-22 18:19  (1 条)
 
