@@ -1,46 +1,73 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-21 23:46**
-- 本轮扫到 10338 条, 新增 **4** 条
+- 最近更新: **2026-08-22 00:52**
+- 本轮扫到 10344 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (6 条)
 
-### 谁懂每天都听演唱会的救赎感
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879996608_m1d5af34c003301os2w.html>
-
-### 特朗普签备忘录：2030年实现每年发射超千次
+### 特朗普称干预债市是贝森特自己拿的主意
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-21 23:28
-- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxQVmlmREJBM2NiSmZ3YlVBNFBPX2JFVXdXWDZrYjI2ZW5KajBRcFhVSzZVUDlFRkdTb0ptYTNreWpjNjRJVTRWWjNGZFp2SWM5WjRsU1RxaWJXTFRwQnViSk9pdFRvTUtzVVN5WU9ZQTZXekVXeTFFZ2JlSmF4Ui1ubGRqUk5zTFFrMGdJTnlNRERGYXJoR1lQWTVZNm8xOF9S?oc=5>
+- 场馆: 新浪财经_金融信息服务商
+- 时间: 2026-08-21 22:09
+- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdEt1UEg0aGZBMml6dXdscTBLbW5EWGVKeFY4UkxUcFFhRll0VWlnSzc0Q3F2Zi1GU0xjSmRoSWNMbUJnRG14RVZtdi1tQVo0X25vSlNMRUswT3A2UWw5WXplUjNmUHdveU5ibmNwZTUxNEg2NW93VjM3U1FfT09tMFZkS0tuSTRqclA5U2tsT1Z6eG12QThha3lUeElmbFg1bDFOb3Z1Nm15eWJ0UEhoeTYyNjRJeEZNd25kVmVBWmUxNnVkTXFENmUxdkxGa0k5ZHc?oc=5>
 
-### 顶不住了？特朗普宣布暂时豁免碎牛肉进口关税
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-08-21 22:59
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBwbWRvTDFBZE8tc3l2TURTNlkxWV9mNWxkQi1CcEs0N3JNQ0lmaEozY1hBM1pGYUZUUFh1ajBPekVxRE5HU2V6NEV1MWZtdEdRdlNZMy1CZjRET2JQamJPWFN4Rzd2YUo1WGc?oc=5>
-
-### 伊朗称美经济战“注定失败” 特朗普否认军事选项受限
+### 白宫新闻秘书莱维特即将离职，特朗普最新回应：收到很多求职申请
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-08-21 22:46
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE54SEtaLUxsNnBSR0ZNZDZYUGJrSk1EUjU2NG9VOFpwUXdCRjJNWXJ5X2xoMzVIOUVkVHpDOW5jZF9jQ3FSZW5HX09qV1ZOY2dzbGF3RG5hLVFOMHQza3VJU0VmZEN6NXZ1?oc=5>
+- 场馆: 环球网
+- 时间: 2026-08-21 09:06
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE0ydUZON0gzdW5pWTcxZERoaUtnNlY5b0lTWDc3WHlURmNXb1ZWcG96VzF5N056QnYxNTMtVkZueDZHTW5kSVlyWEFQbHpQZVdiZEtFbDhTWjU?oc=5>
+
+### 特朗普称若输掉中期选举他将被弹劾
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新京报
+- 时间: 2026-08-22 00:42
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Kb2xncmxQbWlSSHE5bFJQbGQ5U1pvcTNaZmktRGhFQzJYcEh6NXJiaThtQVZLNzBrb2RGMmQ5WEdCZ0ZORjEtNXlERGk4UEM4WG1yZm1oVUI0LW9TS3RUTzdGMm0?oc=5>
+
+### 特朗普：未指示贝森特干预美国债市 经济增长将自行化解债务问题
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 金融界
+- 时间: 2026-08-22 00:40
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTFBfM0tPVWZDRUtrMGxWTnZPR2tNbkg3Sk14bnpZYWRSNEJ6bVpXWE1TQV83TVR2QnN5TmpsNHEzT05yN2tYOXVrR1VIaUdvTjlBLXJlMDlGeVpDS3BUckUxMGU4ZXdmS3JjeXFBaTUtbw?oc=5>
+
+### 特朗普称对伊转向“经济战”不意味着美军事选项受限
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街见闻
+- 时间: 2026-08-21 22:05
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XSDdMSXRtVHppNzZqZUxrRTY0cVJJdTRYWkw0dGtIRGY1dVFMYTVEc3hPS3BLakpmZVZ6ZGV1VWNZTEJoWWJnbjE4SXllZXNoWVpF?oc=5>
+
+### Cattle Futures Drop After Trump Calls for More Beef Imports -- Market Talk
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-08-21 14:48
+- 链接: <https://news.google.com/rss/articles/CBMi2AFBVV95cUxNckJfQ3BWSTFJSF9ZV2Y2TjJhMmMweEVNcjE1bmdfNFMwaUhCTzVpdjRiRXhodGFqVWw3aG50Y2VVcnhTMUlLUnVOYzc2OEQ2b3lhbnRzeXBGWW9UUXZFeno4eE1sMTc2aUpUZHp6ZVJGYUdQNjlUaGd5OC0xVEt2YTlhcmw2Q2Q4dVJ0NmhwSDE2ZlJaZGN0VDhySi1pVVBTZHVKdW96ekdqZHpreXlITkkzaWtHLXpncVc4R0JXbUpyQVE2UXdqR0ZsWW5Xdm9kOVUzWVVkRk8?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-22 00:52  (6 条)
+
+- **特朗普** | 特朗普称干预债市是贝森特自己拿的主意 <https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdEt1UEg0aGZBMml6dXdscTBLbW5EWGVKeFY4UkxUcFFhRll0VWlnSzc0Q3F2Zi1GU0xjSmRoSWNMbUJnRG14RVZtdi1tQVo0X25vSlNMRUswT3A2UWw5WXplUjNmUHdveU5ibmNwZTUxNEg2NW93VjM3U1FfT09tMFZkS0tuSTRqclA5U2tsT1Z6eG12QThha3lUeElmbFg1bDFOb3Z1Nm15eWJ0UEhoeTYyNjRJeEZNd25kVmVBWmUxNnVkTXFENmUxdkxGa0k5ZHc?oc=5>
+- **特朗普** | 白宫新闻秘书莱维特即将离职，特朗普最新回应：收到很多求职申请 <https://news.google.com/rss/articles/CBMiWEFVX3lxTE0ydUZON0gzdW5pWTcxZERoaUtnNlY5b0lTWDc3WHlURmNXb1ZWcG96VzF5N056QnYxNTMtVkZueDZHTW5kSVlyWEFQbHpQZVdiZEtFbDhTWjU?oc=5>
+- **特朗普** | 特朗普称若输掉中期选举他将被弹劾 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Kb2xncmxQbWlSSHE5bFJQbGQ5U1pvcTNaZmktRGhFQzJYcEh6NXJiaThtQVZLNzBrb2RGMmQ5WEdCZ0ZORjEtNXlERGk4UEM4WG1yZm1oVUI0LW9TS3RUTzdGMm0?oc=5>
+- **特朗普** | 特朗普：未指示贝森特干预美国债市 经济增长将自行化解债务问题 <https://news.google.com/rss/articles/CBMib0FVX3lxTFBfM0tPVWZDRUtrMGxWTnZPR2tNbkg3Sk14bnpZYWRSNEJ6bVpXWE1TQV83TVR2QnN5TmpsNHEzT05yN2tYOXVrR1VIaUdvTjlBLXJlMDlGeVpDS3BUckUxMGU4ZXdmS3JjeXFBaTUtbw?oc=5>
+- **特朗普** | 特朗普称对伊转向“经济战”不意味着美军事选项受限 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XSDdMSXRtVHppNzZqZUxrRTY0cVJJdTRYWkw0dGtIRGY1dVFMYTVEc3hPS3BLakpmZVZ6ZGV1VWNZTEJoWWJnbjE4SXllZXNoWVpF?oc=5>
+- **Trump** | Cattle Futures Drop After Trump Calls for More Beef Imports -- Market Talk <https://news.google.com/rss/articles/CBMi2AFBVV95cUxNckJfQ3BWSTFJSF9ZV2Y2TjJhMmMweEVNcjE1bmdfNFMwaUhCTzVpdjRiRXhodGFqVWw3aG50Y2VVcnhTMUlLUnVOYzc2OEQ2b3lhbnRzeXBGWW9UUXZFeno4eE1sMTc2aUpUZHp6ZVJGYUdQNjlUaGd5OC0xVEt2YTlhcmw2Q2Q4dVJ0NmhwSDE2ZlJaZGN0VDhySi1pVVBTZHVKdW96ekdqZHpreXlITkkzaWtHLXpncVc4R0JXbUpyQVE2UXdqR0ZsWW5Xdm9kOVUzWVVkRk8?oc=5>
 
 ### 2026-08-21 23:46  (4 条)
 
