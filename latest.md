@@ -1,56 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-22 06:28**
-- 本轮扫到 10366 条, 新增 **5** 条
+- 最近更新: **2026-08-22 07:09**
+- 本轮扫到 10369 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (3 条)
 
-### 特朗普再称霍尔木兹海峡为美国领土
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 央广网
-- 时间: 2026-08-21 23:55
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Pc3NqN3FfVGRsSktyU0ZuNklTNjczZnRPNkN0ZTNWc1dDR0NBUTVKYjdrdzJ6SkJsOHp5VURNQ0JLTzdkUXQ3S19rNHBmN1dKTk5jdWo5a3NtdFFWa2RRUGtxak0tNjNk?oc=5>
-
-### 特朗普再称霍尔木兹海峡为美国领土
+### 特朗普宣布暂时豁免碎牛肉进口关税
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 紫牛新闻
-- 时间: 2026-08-21 23:53
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9HYVJkQmlJbkVsMk1EQWE3M1cyUElPT2toaWREZ0lNalJuNGhVd3dsNlpOdnZYRHl4SkFtTUxaNjFJc0otMTdnbWRLWnRMM3lFenQxQS02ai1zU09lWXMtZDU3dEd6em5BX0E?oc=5>
+- 场馆: 手机新浪网
+- 时间: 2026-08-22 05:01
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1ndE1seEhJelRNQ1lkNnlBbG9RODVDdUQyQ2RKMHlCejh1T0hrV3c3V0RUVXZwblJYMHA1T1kyZWxqeldiOWdUdWxCclBCcmwySjlmbEpSbERSMnJfVFFHM2xwY3RRT0RGT3VHS2k4cVJ6VGVUR0hZS3ZkNms0dGM?oc=5>
 
-### 特朗普回应“莱维特继任者”
+### 特朗普：若输掉中期选举，将被弹劾
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 京报网
-- 时间: 2026-08-22 02:54
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE1wV29NaFlOM2R3SUFRanJ6S0c5aGJtaUROMjBmRUEyaHlfcTV6ZloxZGVuSFFfWk5YbHFKcmhUV2FPZ1Z6ZjdlaElSM1k1MDU5S05fMUFoUFdGaHRlekE?oc=5>
+- 场馆: QQ News
+- 时间: 2026-08-22 01:09
+- 链接: <https://news.google.com/rss/articles/CBMibEFVX3lxTFBMUDlOdFZnRzdQMXZfQmI0blVfaDN2WGVuNm0yOVF4ODhoOVQycU4zc3JmZnFrNi1TbW1BVE01bDFoUFhuZXNhS1FFd2lwQjNVbk5TWTZKZGJOUDNubFJwcF9TbUMwcTMwNHZNag?oc=5>
 
-### 星期天-77 (@Square-Creator-562283076)的见解
+### 80岁特朗普兜不住了？西装内大包凸起，网友嘲讽：是超大纸尿裤
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Binance
-- 时间: 2026-08-22 04:24
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zZ2ZCQ3YzZXhjTmQ2NDkwanoyZ05pU3hXd0RVcXhtZ3I2NENNb0NoMk01WUVKMXg0NnZIXzU4TDVXR2VKWEFLVENCeFJVcTA3UXVURkhJSEVkLVVyaFdkRDUySUxtODVo?oc=5>
-
-### 特朗普总统：伊朗领导人丧生使达成协议变得困难
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-08-21 17:09
-- 链接: <https://news.google.com/rss/articles/CBMivAFBVV95cUxOSDdkX1c2MWZQblFjbVlmSDBUMHRpR3JXX1BfaTFxSnBQR0l2UGh6TlNqSHdUOEd1QkZKdUxzOUxiLUwwbmxSNVh6WXhjM0ZkYmZGOVRidlIwVm02aFV3WlZvV0plUHJsS1g3U0prQTJNU0k0RUpmTDc5RE5CcXZmRldLaFpEeHdLa0xISFgzQnFtcHVWTXA3dWxUNFctekoxX0dKbDVVNVhFd0FkM09hcm5HZ25sR1c0cXlBOA?oc=5>
+- 场馆: 搜狐网
+- 时间: 2026-08-22 06:01
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxQSGRNNTJQVTFzeFVJZkNxTnlBUmdRWFp4QUVGYVBYeGJNZEZ3ekxUcDlBNFZMeUFEYU83bmF1ZExMN1VERV9ZTlVMakhtRkZ6Zm1CbWJITWc5STlnV1BoMThkTU9IeFNvT3diVDk5a19WTGRvcFJGOUFBWXFEWVROVnpyaWs4RlhRcDU2Sw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-22 07:09  (3 条)
+
+- **特朗普** | 特朗普宣布暂时豁免碎牛肉进口关税 <https://news.google.com/rss/articles/CBMif0FVX3lxTE1ndE1seEhJelRNQ1lkNnlBbG9RODVDdUQyQ2RKMHlCejh1T0hrV3c3V0RUVXZwblJYMHA1T1kyZWxqeldiOWdUdWxCclBCcmwySjlmbEpSbERSMnJfVFFHM2xwY3RRT0RGT3VHS2k4cVJ6VGVUR0hZS3ZkNms0dGM?oc=5>
+- **特朗普** | 特朗普：若输掉中期选举，将被弹劾 <https://news.google.com/rss/articles/CBMibEFVX3lxTFBMUDlOdFZnRzdQMXZfQmI0blVfaDN2WGVuNm0yOVF4ODhoOVQycU4zc3JmZnFrNi1TbW1BVE01bDFoUFhuZXNhS1FFd2lwQjNVbk5TWTZKZGJOUDNubFJwcF9TbUMwcTMwNHZNag?oc=5>
+- **特朗普** | 80岁特朗普兜不住了？西装内大包凸起，网友嘲讽：是超大纸尿裤 <https://news.google.com/rss/articles/CBMijAFBVV95cUxQSGRNNTJQVTFzeFVJZkNxTnlBUmdRWFp4QUVGYVBYeGJNZEZ3ekxUcDlBNFZMeUFEYU83bmF1ZExMN1VERV9ZTlVMakhtRkZ6Zm1CbWJITWc5STlnV1BoMThkTU9IeFNvT3diVDk5a19WTGRvcFJGOUFBWXFEWVROVnpyaWs4RlhRcDU2Sw?oc=5>
 
 ### 2026-08-22 06:28  (5 条)
 
