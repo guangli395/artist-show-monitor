@@ -1,40 +1,51 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-22 13:50**
-- 本轮扫到 10391 条, 新增 **3** 条
+- 最近更新: **2026-08-22 14:14**
+- 本轮扫到 10395 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (4 条)
 
-### 乌媒“琢磨”：特朗普拒了泽连斯基
+### 周杰伦和汪苏泷的演唱会风格有什么不同？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-22 11:20
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFAtbkF4ZUs3YndHNUMxSGJVNERVTHgtRjV6T1NIdnVqb203SEZkZWN3WTQwdnZPZUpHaFliUDBCdWM3c3VUV0g2V1ZYUy0zVDBmcW5PeUVfd0NJc1l1LVZRY3lBSHdIOEt2ZzJVNUozVlhRaHotN21nNw?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801jv46.html>
 
-### 特朗普的一条帖子，为什么有人愿花10万美元？
+### 周杰伦演唱会忘词即兴改编，哪些经典名场面最受欢迎？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中国青年网
-- 时间: 2026-08-22 06:35
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wZ1VSRlhNMXdwOEpQckdVTkJlYVBPdjZXNnNfSVZOU3MtbTFfanBTUnFDaDdDMG1vNXpkMFYtQWpLLWtPY3R5OW5sNTFRRUZnNXVJYmRZWUtrdDVaSUVFRGhqdzJ0b2s?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801jv48.html>
 
-### 白宫新闻秘书透露离职后去向：加入“让美国再次伟大”委员会；特朗普：非常生气，她爱孩子胜过爱我
+### 特朗普：布雷德将离职
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-08-22 12:31
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSd01iOE83QXVZdVU0YkFxcXFHeXkwVUJkdVZvbWtWYXpaSko5aFpqbDJ3QXRGNkpfa3Q5cmpQemFSZWZZNzhnVHBFN29BaXFYSHROelNLUjBQSWk5Snc?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-08-22 08:55
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE54WVdLZC1VNmNFSkw5Nk1GOEhiV2FXMWtaWHFGUmYteEt4ekZwTkIzRmozd19CdnE2NkZoTnlpRV9wSUxVc2hQVV9rVEcyS0FYY180dzZ6YlowQ0laTW1VV2dyejN2Y2ZkQ2REa3l4ajk?oc=5>
+
+### “这次对华让步，特朗普该羞得没脸见人”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-08-22 05:53
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBaam5wVnBGRVRMcUZma3QxVE5ZcHVSR2NSN1phblhjMEIzWnpnNXIwR09oR2stTVRnLU1zMDB2Q0Q1U1p5TnRVYXJaUUw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-22 14:14  (4 条)
+
+- **周杰伦** | 周杰伦和汪苏泷的演唱会风格有什么不同？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801jv46.html>
+- **周杰伦** | 周杰伦演唱会忘词即兴改编，哪些经典名场面最受欢迎？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801jv48.html>
+- **特朗普** | 特朗普：布雷德将离职 <https://news.google.com/rss/articles/CBMicEFVX3lxTE54WVdLZC1VNmNFSkw5Nk1GOEhiV2FXMWtaWHFGUmYteEt4ekZwTkIzRmozd19CdnE2NkZoTnlpRV9wSUxVc2hQVV9rVEcyS0FYY180dzZ6YlowQ0laTW1VV2dyejN2Y2ZkQ2REa3l4ajk?oc=5>
+- **特朗普** | “这次对华让步，特朗普该羞得没脸见人” <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBaam5wVnBGRVRMcUZma3QxVE5ZcHVSR2NSN1phblhjMEIzWnpnNXIwR09oR2stTVRnLU1zMDB2Q0Q1U1p5TnRVYXJaUUw?oc=5>
 
 ### 2026-08-22 13:50  (3 条)
 
