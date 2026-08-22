@@ -1,14 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-22 19:44**
-- 本轮扫到 10411 条, 新增 **0** 条
+- 最近更新: **2026-08-22 20:15**
+- 本轮扫到 10412 条, 新增 **1** 条
 
 ---
 
-## 本轮无新增
+## 本轮新发现 (1 条)
 
-数据库里所有演出/动态都已见过,暂无新增。
+### 特朗普预言“如果输了，自己就将被弹劾”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-22 19:48
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE0xc2tHVVMxb09MLTlCd21zeU54R1NGUENRM0NtQ2o3TVA4T0U5dkV6NW03LUF3MzhIS1ktM1FPaHdRYk5sZnYwN1RDT3VpWDRhY1BuUlBaR0tWWnVhOEllLXhUc0dSaS1nQkIwQWdFVHlMX1lUTHFsag?oc=5>
+
+
+---
+
 ## 历史发现
+
+### 2026-08-22 20:15  (1 条)
+
+- **特朗普** | 特朗普预言“如果输了，自己就将被弹劾” <https://news.google.com/rss/articles/CBMieEFVX3lxTE0xc2tHVVMxb09MLTlCd21zeU54R1NGUENRM0NtQ2o3TVA4T0U5dkV6NW03LUF3MzhIS1ktM1FPaHdRYk5sZnYwN1RDT3VpWDRhY1BuUlBaR0tWWnVhOEllLXhUc0dSaS1nQkIwQWdFVHlMX1lUTHFsag?oc=5>
 
 ### 2026-08-22 19:19  (1 条)
 
