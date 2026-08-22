@@ -1,24 +1,26 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-22 15:13**
-- 本轮扫到 10397 条, 新增 **1** 条
+- 最近更新: **2026-08-22 15:43**
+- 本轮扫到 10398 条, 新增 **1** 条
 
 ---
 
 ## 本轮新发现 (1 条)
 
-### 美加贸易谈判进入倒计时，特朗普50%关税大限逼近
+### 推荐一些本周演唱会热门推荐歌曲的视频
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-21 22:13
-- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxNLUE3cUY2LXdLajNRNGthc0Z1V1cwODB2RWZaTzNHaEdjcUV1Vld1STZSeGtMNWtQUzFJYnpnQjJOQ21RUVRiYnRuN05OUzN6MzZxTjNXS19YTjhwS0kzQThlNm1qR3A1RlpNOE5IVlgzX1p5N296U3JSWmY1SEJJZXc4RlJjcjE3aW1JcnlUNTBiT0FWTkE4Ql85YUZMNUxOcUN1TFRhQ1QxOGlHSjhIRUFmVE1nOGtWdWJXVktheXRBLXJsMkFrOUlfUkdMUjVvX3c?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068014l82.html>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-22 15:43  (1 条)
+
+- **周杰伦** | 推荐一些本周演唱会热门推荐歌曲的视频 <https://k.sina.com.cn/article_7879776356_1d5abd864068014l82.html>
 
 ### 2026-08-22 15:13  (1 条)
 
