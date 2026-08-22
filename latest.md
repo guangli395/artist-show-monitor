@@ -1,64 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-22 00:52**
-- 本轮扫到 10344 条, 新增 **6** 条
+- 最近更新: **2026-08-22 02:12**
+- 本轮扫到 10347 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (3 条)
 
-### 特朗普称干预债市是贝森特自己拿的主意
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经_金融信息服务商
-- 时间: 2026-08-21 22:09
-- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdEt1UEg0aGZBMml6dXdscTBLbW5EWGVKeFY4UkxUcFFhRll0VWlnSzc0Q3F2Zi1GU0xjSmRoSWNMbUJnRG14RVZtdi1tQVo0X25vSlNMRUswT3A2UWw5WXplUjNmUHdveU5ibmNwZTUxNEg2NW93VjM3U1FfT09tMFZkS0tuSTRqclA5U2tsT1Z6eG12QThha3lUeElmbFg1bDFOb3Z1Nm15eWJ0UEhoeTYyNjRJeEZNd25kVmVBWmUxNnVkTXFENmUxdkxGa0k5ZHc?oc=5>
-
-### 白宫新闻秘书莱维特即将离职，特朗普最新回应：收到很多求职申请
+### 美国总统特朗普21日在南卡罗来纳州一场竞选集会上表示，如果共和党输掉中期选举，他将被弹劾。 （新华社）
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 环球网
-- 时间: 2026-08-21 09:06
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE0ydUZON0gzdW5pWTcxZERoaUtnNlY5b0lTWDc3WHlURmNXb1ZWcG96VzF5N056QnYxNTMtVkZueDZHTW5kSVlyWEFQbHpQZVdiZEtFbDhTWjU?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-22 00:00
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XcU94eTBSRUZLUEVxV0xHNkhJS1I0NF9Pck5BUm5HYkgycmNsOXhPMDdERHNrcGhXZ1BMOW9SemxLRVNzYUR4dENtNA?oc=5>
 
-### 特朗普称若输掉中期选举他将被弹劾
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-08-22 00:42
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Kb2xncmxQbWlSSHE5bFJQbGQ5U1pvcTNaZmktRGhFQzJYcEh6NXJiaThtQVZLNzBrb2RGMmQ5WEdCZ0ZORjEtNXlERGk4UEM4WG1yZm1oVUI0LW9TS3RUTzdGMm0?oc=5>
-
-### 特朗普：未指示贝森特干预美国债市 经济增长将自行化解债务问题
+### 美加贸易谈判进入倒计时，特朗普50%关税大限逼近
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 金融界
-- 时间: 2026-08-22 00:40
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTFBfM0tPVWZDRUtrMGxWTnZPR2tNbkg3Sk14bnpZYWRSNEJ6bVpXWE1TQV83TVR2QnN5TmpsNHEzT05yN2tYOXVrR1VIaUdvTjlBLXJlMDlGeVpDS3BUckUxMGU4ZXdmS3JjeXFBaTUtbw?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-21 22:13
+- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxQVUVjU2I0dnVuc1g1X3VRNTl6NG5McHlXUDNXby1TcnhRRVpzb0Q4WW5OTDFXU2ptbjJpcTY0RzFVUGR1bFRSQi1hckEtMV9nZkppOVY0cWoxSXE2Q3pTRnRoSDhfZWUyX0xBXzhQeDJheHJiVUk1OTd5LUlSdmdob09JX3BqdVBLVUFBSnpmVQ?oc=5>
 
-### 特朗普称对伊转向“经济战”不意味着美军事选项受限
+### 视频｜特朗普称或与加拿大达成贸易协议
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-08-21 22:05
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XSDdMSXRtVHppNzZqZUxrRTY0cVJJdTRYWkw0dGtIRGY1dVFMYTVEc3hPS3BLakpmZVZ6ZGV1VWNZTEJoWWJnbjE4SXllZXNoWVpF?oc=5>
-
-### Cattle Futures Drop After Trump Calls for More Beef Imports -- Market Talk
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-08-21 14:48
-- 链接: <https://news.google.com/rss/articles/CBMi2AFBVV95cUxNckJfQ3BWSTFJSF9ZV2Y2TjJhMmMweEVNcjE1bmdfNFMwaUhCTzVpdjRiRXhodGFqVWw3aG50Y2VVcnhTMUlLUnVOYzc2OEQ2b3lhbnRzeXBGWW9UUXZFeno4eE1sMTc2aUpUZHp6ZVJGYUdQNjlUaGd5OC0xVEt2YTlhcmw2Q2Q4dVJ0NmhwSDE2ZlJaZGN0VDhySi1pVVBTZHVKdW96ekdqZHpreXlITkkzaWtHLXpncVc4R0JXbUpyQVE2UXdqR0ZsWW5Xdm9kOVUzWVVkRk8?oc=5>
+- 场馆: 搜狐网
+- 时间: 2026-08-22 01:39
+- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWnJncWVQRHpYQXhPbDZLOHFFV25oRUYxTFpNRzJPWXgxb3pfaXhKSmdZVTVtQzB3ZnhnVUJQOVJudnVyeVRvWG5EUlJVaGl2ano4UXpZZkxKdmoyWl9qaXJoS09DNlVRam5RcEVpWTI4VXgxVlMwX29VLWFkOVpxLVZYRWtaSldLbHFn?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-22 02:12  (3 条)
+
+- **特朗普** | 美国总统特朗普21日在南卡罗来纳州一场竞选集会上表示，如果共和党输掉中期选举，他将被弹劾。 （新华社） <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XcU94eTBSRUZLUEVxV0xHNkhJS1I0NF9Pck5BUm5HYkgycmNsOXhPMDdERHNrcGhXZ1BMOW9SemxLRVNzYUR4dENtNA?oc=5>
+- **特朗普** | 美加贸易谈判进入倒计时，特朗普50%关税大限逼近 <https://news.google.com/rss/articles/CBMijwFBVV95cUxQVUVjU2I0dnVuc1g1X3VRNTl6NG5McHlXUDNXby1TcnhRRVpzb0Q4WW5OTDFXU2ptbjJpcTY0RzFVUGR1bFRSQi1hckEtMV9nZkppOVY0cWoxSXE2Q3pTRnRoSDhfZWUyX0xBXzhQeDJheHJiVUk1OTd5LUlSdmdob09JX3BqdVBLVUFBSnpmVQ?oc=5>
+- **特朗普** | 视频｜特朗普称或与加拿大达成贸易协议 <https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWnJncWVQRHpYQXhPbDZLOHFFV25oRUYxTFpNRzJPWXgxb3pfaXhKSmdZVTVtQzB3ZnhnVUJQOVJudnVyeVRvWG5EUlJVaGl2ano4UXpZZkxKdmoyWl9qaXJoS09DNlVRam5RcEVpWTI4VXgxVlMwX29VLWFkOVpxLVZYRWtaSldLbHFn?oc=5>
 
 ### 2026-08-22 00:52  (6 条)
 
