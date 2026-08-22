@@ -1,40 +1,35 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-22 05:27**
-- 本轮扫到 10359 条, 新增 **3** 条
+- 最近更新: **2026-08-22 05:53**
+- 本轮扫到 10361 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (2 条)
 
-### 伊朗称美经济战“注定失败” 特朗普否认军事选项受限
+### 丁禹兮厦门演唱会热门推荐歌单曝光，周杰伦点歌环节成亮点
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: china.zjol.com.cn
-- 时间: 2026-08-22 01:17
-- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTE9GY3ZCQTVnZERPUXd3b1VKWnlSNEdpSFdURmVNTmh1b2tNSENsUzgzZDk1eGhKbVd1MkFQamRidmR2STJ6aHNRZlBaUFJPTzFILV91aUkyQ0R3YVJiSl9aZGxEMmZLUDNod2dDVE53?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068014jco.html>
 
-### 美加贸易谈判进入倒计时，特朗普50%关税大限逼近
+### 特朗普称若输掉中期选举他将被弹劾
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-21 22:13
-- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxONTdGS3BfM1JKdFJ5ZkJBUEFSQlVDNjI4UFBWWm9xdC1GeWphQ1NRelJUQnNHYUhwS1pmT2RqM0VYUFhfT2taOXJiaW83eXVRU09yTTQwc2R6aGxZN1NpREd4RFVISG90LXJCa3NfWjQ0alFHNXoyRHZNMnlZRm02blphMTU4WWJ1TGNWaHZlYXYtbUtKRF9JemhnTjk4azc1YnBESVJGeUl6UktpV0FZR3dtREVUV29VUExpVGtPSzJnRFc0T285cUVwLWhoQjZZbFE?oc=5>
-
-### 美加贸易谈判破裂 特朗普政府将对部分加拿大商品征收50%关税
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-22 04:24
-- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRk9PX2poR01SQWRBUEJqSm1nekV2S0d2aklYc3FkTF81ZWxwRVcxY1JCR3N0bzNWSDRvSy1KMzgyZlBFanYzSmNuTUpuWG5Ib25rSFdHR213UU52UUVMTGxtUnZURFI0ZEZKSmFFdXVLNnJLUnZ4TmJvd1liYzNJWkR3X0JDZ0ZaZWRNWkhaU2pab1hocmhMdkxTbDFBdFJjNEV0OC1wMlFpQQ?oc=5>
+- 场馆: chinanews.com.cn
+- 时间: 2026-08-22 04:12
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BclFORmNTZ1pERm1weHh3YUdjMlVCMndiZzMyaFVUM3hyb21UTkdzTWZNRzc3WHZBWFIxUV9hcVY5ZjlJOXhpLUlBSGQ4SmZEU3RNTW5lNVZnUmM1OVhXN2dYbmNsU1pw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-22 05:53  (2 条)
+
+- **周杰伦** | 丁禹兮厦门演唱会热门推荐歌单曝光，周杰伦点歌环节成亮点 <https://k.sina.com.cn/article_7879776356_1d5abd864068014jco.html>
+- **特朗普** | 特朗普称若输掉中期选举他将被弹劾 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BclFORmNTZ1pERm1weHh3YUdjMlVCMndiZzMyaFVUM3hyb21UTkdzTWZNRzc3WHZBWFIxUV9hcVY5ZjlJOXhpLUlBSGQ4SmZEU3RNTW5lNVZnUmM1OVhXN2dYbmNsU1pw?oc=5>
 
 ### 2026-08-22 05:27  (3 条)
 
