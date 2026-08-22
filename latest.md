@@ -1,48 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-22 17:43**
-- 本轮扫到 10408 条, 新增 **4** 条
+- 最近更新: **2026-08-22 18:19**
+- 本轮扫到 10409 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (1 条)
 
-### 特朗普：布雷德将离职
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-08-22 08:55
-- 链接: <https://news.google.com/rss/articles/CBMi2gFBVV95cUxPM29BUGNGcXI0b2JjdkI4MndSb0xBempEZzU5ai1ncDFSX0NjRHVpQWlMR0ZUQzYwblpjRmw4bExBbXhKekoxV2JtTl9WSlBXWDJWZl9hN29WUTBrNXBYSG0yOG9RUVpKNUpFRUFIOTFxY1VtR3RrdFlXLVNfQnhRYnM5ajREVGJzSHVsSlVNYTgxUk1LN3QwaHdmNlpCLXA1aUlQRWlFT1F6MmlraFV2NU9FclVLR1JGUkdtRTZETXFQZVlXbkVyY0dtSnc0d0pYa09qcWdhTWM2QQ?oc=5>
-
-### “救市”无果，特朗普宣布：可出动美军干预美债市场！美债遭大规模抛售
+### “可出动美军干预债市”-观察者网
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-08-22 12:04
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1tYUtjRDBCcDNmbkdtdVJVNXJDSVhKbm90R3JjSERYUEVBcHphNkE1WWtJcndUV2xraUhMMGtzT0JzbHhTU1N2LXNfRmRhMlZLQTUwUjFlSDU1MXFfQmNkck40RkdQY3ZCYjVOelo0c1FEYWZXZmtFVnFNWDlMa00?oc=5>
-
-### 特朗普暗示：可出动美军干预债市
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
+- 场馆: 观察者
 - 时间: 2026-08-22 09:41
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nNTBNV1FPQWF6RDFKOFZPMzhPWXNPTHdxbDZER3J1VzhXc01vbXFJd253RXhVZExJSkN1S3pqbzNWaVdnUnlHRmxGMHM?oc=5>
-
-### 特朗普：可出动美军干预债市
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-08-22 07:29
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE1WZWpYQmVRYURaTTZpcW1KTDRBUVJHVnpGS21PT2JLQVZQemFaT09ISllWc1VmRzVkcHE4WWZMd0M4MmVfRnlDdw?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFB0N0RCSktRcXZ5bldHQzZhQjRhVTFwWHpweHNlampOUWVDOU51X2s5eURtNmw2Zk1CeG1vVVFKTWpSOFVEWF9xSVlOYzZOdWEwMk9BdVlVMWxucV8zNFpXZFlKaHkyeGQzTUE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-22 18:19  (1 条)
+
+- **特朗普** | “可出动美军干预债市”-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTFB0N0RCSktRcXZ5bldHQzZhQjRhVTFwWHpweHNlampOUWVDOU51X2s5eURtNmw2Zk1CeG1vVVFKTWpSOFVEWF9xSVlOYzZOdWEwMk9BdVlVMWxucV8zNFpXZFlKaHkyeGQzTUE?oc=5>
 
 ### 2026-08-22 17:43  (4 条)
 
