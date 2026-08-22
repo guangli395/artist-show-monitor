@@ -1,40 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-22 02:12**
-- 本轮扫到 10347 条, 新增 **3** 条
+- 最近更新: **2026-08-22 03:13**
+- 本轮扫到 10349 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (2 条)
 
-### 美国总统特朗普21日在南卡罗来纳州一场竞选集会上表示，如果共和党输掉中期选举，他将被弹劾。 （新华社）
+### 特朗普“凡尔赛”：好难，这辈子没见过这么多求职申请-观察者网
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-08-22 01:53
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBvdHZoaEdjelZaamZRVkdOaTVMaUNMcUlVbGM5NGkxRWxObmVIcUhlTjFuZ3o5WTBJcTNHTFpGdklKQXFRS1dKSTUwX0pFX1NaeFpYZWFGN3ZOcFA3VElaTnY1N1VWYmRoU3c?oc=5>
+
+### 美法官推翻特朗普政府暂停向75国发放移民签证的政策
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-08-22 00:00
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XcU94eTBSRUZLUEVxV0xHNkhJS1I0NF9Pck5BUm5HYkgycmNsOXhPMDdERHNrcGhXZ1BMOW9SemxLRVNzYUR4dENtNA?oc=5>
-
-### 美加贸易谈判进入倒计时，特朗普50%关税大限逼近
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-21 22:13
-- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxQVUVjU2I0dnVuc1g1X3VRNTl6NG5McHlXUDNXby1TcnhRRVpzb0Q4WW5OTDFXU2ptbjJpcTY0RzFVUGR1bFRSQi1hckEtMV9nZkppOVY0cWoxSXE2Q3pTRnRoSDhfZWUyX0xBXzhQeDJheHJiVUk1OTd5LUlSdmdob09JX3BqdVBLVUFBSnpmVQ?oc=5>
-
-### 视频｜特朗普称或与加拿大达成贸易协议
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-08-22 01:39
-- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWnJncWVQRHpYQXhPbDZLOHFFV25oRUYxTFpNRzJPWXgxb3pfaXhKSmdZVTVtQzB3ZnhnVUJQOVJudnVyeVRvWG5EUlJVaGl2ano4UXpZZkxKdmoyWl9qaXJoS09DNlVRam5RcEVpWTI4VXgxVlMwX29VLWFkOVpxLVZYRWtaSldLbHFn?oc=5>
+- 时间: 2026-08-22 01:28
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNd1UyV0ZJeVdMZ2t5M1poa0tmLWM2MHRGaURVQ3JoaExsb1VpQ2dzQ1JoY0o1NW9FeGhoYnlxT3lmN3UzUlFhWl9mX1NONXdtVlVZRU9YOS1uYUpzMzdqSTl1ZWRkdGpRcTEwd3FEaWJ2bkpfNkZzeEpzM0V5RXRPOENlQ0hvWXRORFBfb2tPakJzdXN2d0ZGblZhZWlMRkNyS1N0SExwYWdtNXVYWlNiazY3SzlWWlFYY1E3ZDV0MUhaT0Qta0M0UUt1eTMwcmdR?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-22 03:13  (2 条)
+
+- **特朗普** | 特朗普“凡尔赛”：好难，这辈子没见过这么多求职申请-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTFBvdHZoaEdjelZaamZRVkdOaTVMaUNMcUlVbGM5NGkxRWxObmVIcUhlTjFuZ3o5WTBJcTNHTFpGdklKQXFRS1dKSTUwX0pFX1NaeFpYZWFGN3ZOcFA3VElaTnY1N1VWYmRoU3c?oc=5>
+- **特朗普** | 美法官推翻特朗普政府暂停向75国发放移民签证的政策 <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNd1UyV0ZJeVdMZ2t5M1poa0tmLWM2MHRGaURVQ3JoaExsb1VpQ2dzQ1JoY0o1NW9FeGhoYnlxT3lmN3UzUlFhWl9mX1NONXdtVlVZRU9YOS1uYUpzMzdqSTl1ZWRkdGpRcTEwd3FEaWJ2bkpfNkZzeEpzM0V5RXRPOENlQ0hvWXRORFBfb2tPakJzdXN2d0ZGblZhZWlMRkNyS1N0SExwYWdtNXVYWlNiazY3SzlWWlFYY1E3ZDV0MUhaT0Qta0M0UUt1eTMwcmdR?oc=5>
 
 ### 2026-08-22 02:12  (3 条)
 
