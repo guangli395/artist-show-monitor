@@ -1,48 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-22 23:14**
-- 本轮扫到 10421 条, 新增 **4** 条
+- 最近更新: **2026-08-22 23:43**
+- 本轮扫到 10424 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (3 条)
 
-### 特朗普发布霍尔木兹海峡的地图并配文：美国的新领土
+### 与特朗普立场一致的邮寄选票新规等待最高法院裁决
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-08-22 21:49
-- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxNclVKNzViaGdIWG9ad19EcVZUWERKTnFRajloc3ctTW5kY0g1dG9KTnFvNng5SnowOG9pVHU1TENOSldQQWhmTW80MEFxVklzWW9vOHJnRkNveGE0clBCU0g4NU5weEpxdy1KRFduVlI4d3gxT3FUR2ZBX3h4S0hqVQ?oc=5>
+- 时间: 2026-08-22 23:18
+- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxQSWNXM0xESWF3M0ljR1RxSWdGaGY1cUZJcHgyM3ZzZHVWT2JyTTNUNWxGejJGMXpvaDBFcmtET3hKQkJ3VzVpU1RqWTdKTzYyd2lXdEtBQk1US05WU09JT3VfN1NPYV93elJMMHQ0dkZNa3R3QUFGZ0JmWG5GS0dxeEVwa1djTjJVc2JSSlVZWGZkSnpCVjgwMVB4V00zTEhq?oc=5>
 
-### 为平息特朗普，北约东欧盟友提议削减美军驻军费用
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: idnfinancials.com
-- 时间: 2026-08-22 23:00
-- 链接: <https://news.google.com/rss/articles/CBMi3wJBVV95cUxOYmVnNkM1eWZ2MklLQTRhOUVxajVXa01EX1JPWlcxUFNHOEhvdk91c2dkNnVPVTB1aVFSTWhEekgyekhnVlRnZzc5aXY4OFVNWWMxM2tIVTlmNDdRYjhGaVRvUDkwdy1mMF9WYUE4ZlJJV2trRG9FbGxxR2J5M0xPYXhscjNKNTVFazY5M2s4eWliTThJRk1pbzRZOUk5QkpEVWVmSjhvZ1JnUEdzWTlJN05kMlZuY05QM2FJeW9UYWNEQzFORE5IWGVXSFNhUDFsVGd6NWZJX2x5bnlxR1VTR3VWUXRhSUgxWkNXS0pDMkluZ1Y1MzVoSFd3eFJ0cjZrajlvOXFYODBwM0RfekN5UmFmMWJDd2JSaXFlVWkwRER2blNQQUl1anNkNFpCY3QyZXRSRVNqQ1V2bkdCRnEyQ1lYanAxV0ZWeFdJb3dnVkVEZEpYTUdFOHFITzZZVW8?oc=5>
-
-### 美国最高法院暂准白宫宴会厅继续施工 特朗普暂获胜利
+### 卡尼：特朗普误判，加拿大与美国“开战”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-08-22 15:03
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5JQlhxQjFza3pfUmpKMUxrdGZHZGduYXMtNnFPNEZRdFV2UU40N09iWlNYM3lBc3NpSHExUm9XWUFqY0RUSXYxUmt4bWpEZ2I2M3BHVnVrRy1SSjNxRi1vdl9jYkNWUQ?oc=5>
+- 场馆: 观察者
+- 时间: 2026-08-22 23:04
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5VR2tZRzM4bzRIMGI5cmItUEt5dkQyS0RFWHctODVZdnlCd3NsNjdsUVZLbjBHaFVXaFZBS1dmMm1hM1FhVnUxVkhrTWdCTlJXWWdvQlEwWndWZTE5VEFRYmlxaUEwTUZaQ1E?oc=5>
 
-### “救市”无果，特朗普宣布：可出动美军干预美债市场！美债遭大规模抛售
+### 美媒：特朗普正在输掉贸易战
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-08-22 09:04
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE9oUHR5c3BSODJ2LTQzYmEwZ0EwSnBnRGdHaGdtc1lwODIxeU1Fdk1FNENwNkw3dGdXcDJnUTNTU0ZzbERhcjgtcDY1Y0k0cmx3d01rZ0VhTFlIQy1DQWp0V0t4a0s1dFEtTlQzUzRqVk95S0Ff?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-08-22 23:13
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9HZHFoV0oxRG15RjdReHk5S0lDU3FfUWhXSHBfQjBpU3pPZmJtZjVTUmU3TlRiRFk0UkNCSHI4NTdfYTMzZldibEl6Vko?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-22 23:43  (3 条)
+
+- **特朗普** | 与特朗普立场一致的邮寄选票新规等待最高法院裁决 <https://news.google.com/rss/articles/CBMioAFBVV95cUxQSWNXM0xESWF3M0ljR1RxSWdGaGY1cUZJcHgyM3ZzZHVWT2JyTTNUNWxGejJGMXpvaDBFcmtET3hKQkJ3VzVpU1RqWTdKTzYyd2lXdEtBQk1US05WU09JT3VfN1NPYV93elJMMHQ0dkZNa3R3QUFGZ0JmWG5GS0dxeEVwa1djTjJVc2JSSlVZWGZkSnpCVjgwMVB4V00zTEhq?oc=5>
+- **特朗普** | 卡尼：特朗普误判，加拿大与美国“开战” <https://news.google.com/rss/articles/CBMiakFVX3lxTE5VR2tZRzM4bzRIMGI5cmItUEt5dkQyS0RFWHctODVZdnlCd3NsNjdsUVZLbjBHaFVXaFZBS1dmMm1hM1FhVnUxVkhrTWdCTlJXWWdvQlEwWndWZTE5VEFRYmlxaUEwTUZaQ1E?oc=5>
+- **特朗普** | 美媒：特朗普正在输掉贸易战 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9HZHFoV0oxRG15RjdReHk5S0lDU3FfUWhXSHBfQjBpU3pPZmJtZjVTUmU3TlRiRFk0UkNCSHI4NTdfYTMzZldibEl6Vko?oc=5>
 
 ### 2026-08-22 23:14  (4 条)
 
