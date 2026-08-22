@@ -1,14 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-22 21:43**
-- 本轮扫到 10413 条, 新增 **0** 条
+- 最近更新: **2026-08-22 22:14**
+- 本轮扫到 10416 条, 新增 **3** 条
 
 ---
 
-## 本轮无新增
+## 本轮新发现 (3 条)
 
-数据库里所有演出/动态都已见过,暂无新增。
+### 特朗普“吃醋”了：我非常生气！
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-22 16:35
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxQM1BDcUMwcUp1eEFqNkZWOUdoV3k4Y3RpeUViVmpRV1JjQ2pzZElSMUZjdHN5c2NraXJES2h0U1dCNEM2bEtVemd2UkN0Nm5nQ3ZldWEwTjMwZmxVQkxHU0NLbEdibloyVTRuQnBuUGVaTXFJNDBlRnFhcHFUcmhybUlkTjN6cWs?oc=5>
+
+### 特朗普拟放宽牛肉进口降价 美国牧场主强烈反对
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-08-22 03:07
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE12X1ZuYkJhalRyRUZ1N0JyWUJBVVZRcHJveEoxUm1XMjhTZzE5cUY1eHdyVnVHZGV4MldmSGhPTmZONEZsbzctdHp0SDRrZE84QTZ6akdFbm90OEtneXJyNVZOZ29RZw?oc=5>
+
+### TRUMP爆仓笔数追平比特币，金额只有五分之一| 数据分析大师发布于币安广场
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Binance
+- 时间: 2026-08-22 11:34
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE8zVnc2NVJnQkdmcWV1QUFqbk5pcTdpeWZ4X1FvazNHNERFT1lfR0ktaUlwZi1nV3lPWGMwUWhxMUVSUnhQWXQwUG4yTC1QMTNoOHFPczhkZnlrNzYyNXkxRVVxSWp5SGdh?oc=5>
+
+
+---
+
 ## 历史发现
+
+### 2026-08-22 22:14  (3 条)
+
+- **特朗普** | 特朗普“吃醋”了：我非常生气！ <https://news.google.com/rss/articles/CBMihwFBVV95cUxQM1BDcUMwcUp1eEFqNkZWOUdoV3k4Y3RpeUViVmpRV1JjQ2pzZElSMUZjdHN5c2NraXJES2h0U1dCNEM2bEtVemd2UkN0Nm5nQ3ZldWEwTjMwZmxVQkxHU0NLbEdibloyVTRuQnBuUGVaTXFJNDBlRnFhcHFUcmhybUlkTjN6cWs?oc=5>
+- **特朗普** | 特朗普拟放宽牛肉进口降价 美国牧场主强烈反对 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE12X1ZuYkJhalRyRUZ1N0JyWUJBVVZRcHJveEoxUm1XMjhTZzE5cUY1eHdyVnVHZGV4MldmSGhPTmZONEZsbzctdHp0SDRrZE84QTZ6akdFbm90OEtneXJyNVZOZ29RZw?oc=5>
+- **Trump** | TRUMP爆仓笔数追平比特币，金额只有五分之一| 数据分析大师发布于币安广场 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE8zVnc2NVJnQkdmcWV1QUFqbk5pcTdpeWZ4X1FvazNHNERFT1lfR0ktaUlwZi1nV3lPWGMwUWhxMUVSUnhQWXQwUG4yTC1QMTNoOHFPczhkZnlrNzYyNXkxRVVxSWp5SGdh?oc=5>
 
 ### 2026-08-22 21:15  (1 条)
 
