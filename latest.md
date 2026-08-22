@@ -1,32 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-22 07:52**
-- 本轮扫到 10371 条, 新增 **2** 条
+- 最近更新: **2026-08-22 08:20**
+- 本轮扫到 10374 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (3 条)
 
-### 特朗普：若输掉中期选举，将被弹劾
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: QQ News
-- 时间: 2026-08-22 01:09
-- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTE0xVzJvWkN0TVoza1FITXlfdG0ydm5lX0EzbldXbUdKZHV1RWp0YXBIcUFSMXF2RXlMVG9vUFJIb1ZKSUVZZmRrdnhDODdpcjlGc1NYanVZQ0VhbGwxYmg2X09ROWVqTkgwSFlkRURn?oc=5>
-
-### 献身信曝光！特朗普女助手彻底火了，美参议员一句话引爆白宫
+### 特朗普：可出动美军干预债市
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-08-22 06:53
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxQNXR4eTB0ZEJOMzJUSG16UXhOZ3BFMmduSjhzbWREdlZPMW42WTNsd1l6Ri1nWk1yOVZtbDNudERUbUVRM1B0cDBTcHNLN213cTUzUFFiWl9lQ3JGTEdWODBDVGZTUmcxLTl0V1RFelV1Mk1ua2w4amdVc1BNQlliVXJpUUdMWC14NC10Mg?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-22 07:42
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9XeVVPd1ZzMXphUlJhMVJJbXBaWl9QeEhabzhUdmtNU3A1VE90RzU0SlBBVmo3WUNMQmZJTTlZTHlqenlNbDRHMXJJRVhjcTNPbUlhMU5UWGc4a1lUUUhCd19xVWlnUFBXc1BjQ201SDJSTHhPVVh0MQ?oc=5>
+
+### 卢拉和特朗普进行“友好而融洽”的通话后，巴西与美国恢复关税谈判
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-08-22 08:08
+- 链接: <https://news.google.com/rss/articles/CBMivgNBVV95cUxNVlJlZEFnb3B5OC1WNm1SNmhlZDdMQkN0akpkOWdfdGRSRXRNMU1DY24welF0MGE5UXdNeWlFM1dtTE5UNW1uLVpJN0VkdjM3NGs0QzZsb0FCVnpyWl84TnNQOXNqQXVKamIyNkVUTHhPUm10ZHliX09qRWVZeFZQdFlHWVZrYVNaUkxxdEw3a0N6cTN0MXRrN0xNX2t4Y2U1NU9XZm9vTUdidmFTSkZLX0UwaEc4dFAtdGxLUUd1dHB6NVRoc3BRSXJIbnVvUzQwM2hjQjFNWVRHc3lkeU11TjFUcWxEWnd3Ni1LajdUdmlGVEh1b2MxMFlkdUtHY043dmtvb1dVbFc0UHhuZDdncml6aWZwUWJ4QmlsMUN3OWJZUWptOEwxZmVEc3dDSlBkMVBTU3FUdjFDWmh4RXRRcjRkUHpPOXpjZ3lVeVp2R2hHUHNYNG96ZVQ4SmtERGo0SXUtc0lrdU5nM1U2NDY1TjZsZ0E5am04R1dnT2dHT3U2d29UWFIxRm1rWU1hZG8wQXp2Q19xcHZkYzJQQXgwalJ5M1B6S1dfODBxN210cGI5YVd2VDJlYUg3V0tqdw?oc=5>
+
+### 特朗普：未指示贝森特干预美国债市，经济增长将自行化解债务问题
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街见闻
+- 时间: 2026-08-21 21:29
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBWUzhwaklLZUx5RWJHWmtSdnpFa3d5QWxkZ3FEcFFZY0liNUxtR0hPVG5iWHhBLXNfS1J3enh3MkVEQjhsNHUtUjM4cUZGVWU2cnd3?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-22 08:20  (3 条)
+
+- **特朗普** | 特朗普：可出动美军干预债市 <https://news.google.com/rss/articles/CBMieEFVX3lxTE9XeVVPd1ZzMXphUlJhMVJJbXBaWl9QeEhabzhUdmtNU3A1VE90RzU0SlBBVmo3WUNMQmZJTTlZTHlqenlNbDRHMXJJRVhjcTNPbUlhMU5UWGc4a1lUUUhCd19xVWlnUFBXc1BjQ201SDJSTHhPVVh0MQ?oc=5>
+- **特朗普** | 卢拉和特朗普进行“友好而融洽”的通话后，巴西与美国恢复关税谈判 <https://news.google.com/rss/articles/CBMivgNBVV95cUxNVlJlZEFnb3B5OC1WNm1SNmhlZDdMQkN0akpkOWdfdGRSRXRNMU1DY24welF0MGE5UXdNeWlFM1dtTE5UNW1uLVpJN0VkdjM3NGs0QzZsb0FCVnpyWl84TnNQOXNqQXVKamIyNkVUTHhPUm10ZHliX09qRWVZeFZQdFlHWVZrYVNaUkxxdEw3a0N6cTN0MXRrN0xNX2t4Y2U1NU9XZm9vTUdidmFTSkZLX0UwaEc4dFAtdGxLUUd1dHB6NVRoc3BRSXJIbnVvUzQwM2hjQjFNWVRHc3lkeU11TjFUcWxEWnd3Ni1LajdUdmlGVEh1b2MxMFlkdUtHY043dmtvb1dVbFc0UHhuZDdncml6aWZwUWJ4QmlsMUN3OWJZUWptOEwxZmVEc3dDSlBkMVBTU3FUdjFDWmh4RXRRcjRkUHpPOXpjZ3lVeVp2R2hHUHNYNG96ZVQ4SmtERGo0SXUtc0lrdU5nM1U2NDY1TjZsZ0E5am04R1dnT2dHT3U2d29UWFIxRm1rWU1hZG8wQXp2Q19xcHZkYzJQQXgwalJ5M1B6S1dfODBxN210cGI5YVd2VDJlYUg3V0tqdw?oc=5>
+- **特朗普** | 特朗普：未指示贝森特干预美国债市，经济增长将自行化解债务问题 <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBWUzhwaklLZUx5RWJHWmtSdnpFa3d5QWxkZ3FEcFFZY0liNUxtR0hPVG5iWHhBLXNfS1J3enh3MkVEQjhsNHUtUjM4cUZGVWU2cnd3?oc=5>
 
 ### 2026-08-22 07:52  (2 条)
 
