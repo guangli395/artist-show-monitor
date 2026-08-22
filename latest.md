@@ -1,40 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-22 16:16**
-- 本轮扫到 10401 条, 新增 **3** 条
+- 最近更新: **2026-08-22 16:48**
+- 本轮扫到 10402 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (1 条)
 
-### 美债救市升级？特朗普放狠话：必要时动用军队
+### TRUMP一度突破3.6美元，24小时涨幅达79.4%
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 同花顺
-- 时间: 2026-08-22 15:58
-- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE1IV2NDZ0djTjNZUDdsOVJLRE1jOEdjblFPMnpUMlR4Wnl6dlNrMXNRT0dJYXd6bTY4UHlwbndwN05jdU1VSXFQRzlUQXJQdFg5WHM0LXJ4NjhVYzVkVUNlYzhB?oc=5>
-
-### 事关关税，“特朗普向卢拉提议，尽快谈”-观察者网
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-08-21 23:43
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE95QktLSUtzcDU1MjhhZy1IR0JCNXJodkxqdkY0WmFvOWxXUEdZemRWMG5MeGtiSE5kVGZoeDFRalV6bnlzZDFVcnhub01DQ2NjQU1rend6WlQ2Y3ljQ3I2blJYWkoydDFwVWc?oc=5>
-
-### 美加贸易谈判进入倒计时，特朗普50%关税大限逼近
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-21 22:13
-- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxOS21JNHpTNFdEeGVtS2lIUV9qU3pKWE9aZ3dYcDdVTnFzc0s0ZHpndTZIR1BXMzJYekhpSHFENUViZlYxaU1XXzNyVWVCR3ZNSUhzMXZJVHkzLXQxY2NkWUhfcHp3OEFieW5XRkZpTEJZUUFWc2VqSUNIbGp4X0RlU3A0XzFQcDUwVTNPLXRKN0hpZjhCTWcwczIyVWwxYUdyMlQ3M29vcXdITC16RHNRWE1OdTd1aHphRFlidEJwdHdJS29UQ29pQXFlaUFmR3I1Z2c?oc=5>
+- 场馆: TradingView
+- 时间: 2026-08-22 05:13
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00YlFmRmVtei1xQ3daY1VRWHZwTnpzaEszWlBLY2pPeHpBR2c2V2hfZi13VjlERDJNUW9fSC1JRjRmTzNJdGZLZ2F3azFyN0J4RkRQRmUya1AxbWw0MDJXZFlBX0t3dHM?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-22 16:48  (1 条)
+
+- **Trump** | TRUMP一度突破3.6美元，24小时涨幅达79.4% <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00YlFmRmVtei1xQ3daY1VRWHZwTnpzaEszWlBLY2pPeHpBR2c2V2hfZi13VjlERDJNUW9fSC1JRjRmTzNJdGZLZ2F3azFyN0J4RkRQRmUya1AxbWw0MDJXZFlBX0t3dHM?oc=5>
 
 ### 2026-08-22 16:16  (3 条)
 
