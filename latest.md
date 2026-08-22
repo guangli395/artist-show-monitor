@@ -1,14 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-22 09:20**
-- 本轮扫到 10376 条, 新增 **0** 条
+- 最近更新: **2026-08-22 09:49**
+- 本轮扫到 10377 条, 新增 **1** 条
 
 ---
 
-## 本轮无新增
+## 本轮新发现 (1 条)
 
-数据库里所有演出/动态都已见过,暂无新增。
+### 8月22日外盘头条：比特币单周飙升逾22% 特朗普宣布暂时豁免碎牛肉进口关税 桥水基金创始人警告美债危机
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-22 09:11
+- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxPN3VROWdnZmdSV09hU2pPc3hYVERrMWVIci0tSGcwVjVIbWhUdC02Vks3ZmhPbzVseTgtS0ZGeWxoMGhFaktBbWtaN3pTdmdRcWRMTnJnVnZjVnBkbjVfSktuY0VWU3l5R3VkT200QnBMX1NOaGdSaExiUjYwWm1BME5wUkZwUzZPbGc?oc=5>
+
+
+---
+
 ## 历史发现
+
+### 2026-08-22 09:49  (1 条)
+
+- **特朗普** | 8月22日外盘头条：比特币单周飙升逾22% 特朗普宣布暂时豁免碎牛肉进口关税 桥水基金创始人警告美债危机 <https://news.google.com/rss/articles/CBMiigFBVV95cUxPN3VROWdnZmdSV09hU2pPc3hYVERrMWVIci0tSGcwVjVIbWhUdC02Vks3ZmhPbzVseTgtS0ZGeWxoMGhFaktBbWtaN3pTdmdRcWRMTnJnVnZjVnBkbjVfSktuY0VWU3l5R3VkT200QnBMX1NOaGdSaExiUjYwWm1BME5wUkZwUzZPbGc?oc=5>
 
 ### 2026-08-22 08:55  (2 条)
 
