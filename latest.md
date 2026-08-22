@@ -1,44 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-22 14:14**
-- 本轮扫到 10395 条, 新增 **4** 条
+- 最近更新: **2026-08-22 14:45**
+- 本轮扫到 10396 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (1 条)
 
-### 周杰伦和汪苏泷的演唱会风格有什么不同？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801jv46.html>
-
-### 周杰伦演唱会忘词即兴改编，哪些经典名场面最受欢迎？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801jv48.html>
-
-### 特朗普：布雷德将离职
+### “特金会”近期举行？专家：手握更多筹码的朝鲜并不着急谈
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-08-22 08:55
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE54WVdLZC1VNmNFSkw5Nk1GOEhiV2FXMWtaWHFGUmYteEt4ekZwTkIzRmozd19CdnE2NkZoTnlpRV9wSUxVc2hQVV9rVEcyS0FYY180dzZ6YlowQ0laTW1VV2dyejN2Y2ZkQ2REa3l4ajk?oc=5>
-
-### “这次对华让步，特朗普该羞得没脸见人”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-22 05:53
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBaam5wVnBGRVRMcUZma3QxVE5ZcHVSR2NSN1phblhjMEIzWnpnNXIwR09oR2stTVRnLU1zMDB2Q0Q1U1p5TnRVYXJaUUw?oc=5>
+- 场馆: DW.com
+- 时间: 2026-08-22 14:09
+- 链接: <https://news.google.com/rss/articles/CBMi3AJBVV95cUxNaDdMZUd2Z2QwSlZibjkxS0UxT2F0R0FHWHpQTGJTMDR3eXhxelVvTmlOYmhjbjk0TzNmOGNyZVN6dTZiT1QxZzN3RXRXNEFpRGtIYU9DYU8wZjBicVJSR19UZTN5QnZoSUMzMUVpaTJEZ2FWUzVnNlJJT3VxT3JhT3ZKQWlKbHBBWW1YaS14cGpqS1lJYmE1MWZxWVRmenJWek1mbFRjWTViWXhORm96bEdVaWhVblRuWWtNN0IxeE9RLUhXRXk3aUgtNkdONThVd2k4RnNodlNMRVlrc2FZY1dCX1FRQUl5UENUSkZQWm9ENnFyelNQWEJ2NFc0ajAwS21aXzNtLTR3MVpxeDB2aER5YnVOd0N0VkZvLTU0SXdMbzdkOW9ySnZvWUFLQlI1enJiLUxLWTI4bmZZRlctUGhzVmJUa3RDcy1YTG5mT1R3U3E5VzJ3SVk3YTHSAdwCQVVfeXFMTVNGekJFS1MyM2ZEYnp4Z2czUHEyTkJEZWVsRnIyYlUtbUc2TjlTMU5JTHIwT1RES0NOaDVudlJMTzE1QlVuOV9wYzVsdXdrWG85NThWbl9pajlVLVVvVFduV2J4VlRCd3hkb1JXVTBmeE5DM0xXdEdkbGlNSTJjUEJTQ1loRVhwRUFJS1VtTlpTb1ZJVXBVY0RWLTNXRXNfTE9FZDc0VG9NQ25ISEhTOGpLUVFLT002NkxLX0VDNkc5Z21QQlRNR0RqdUJtVTByWEhZQlhNZ0JvV1kwNDJqTWtFNm9pbjZWTElMSWlzVmNvWEZKNDRkbWNLN3p4VUZGeUFKa1dHVllCUks1SzkxUV9WbnV3ZndRZnlMQXhCSFI3elAxS2Q2aFhpaG0tcWtCR2k0dFRLdl9oVkh3cHpTWldWX2NyckRIWGhhYVlOb2lZaWU0eVpmMkhIa3ZO?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-22 14:45  (1 条)
+
+- **特朗普** | “特金会”近期举行？专家：手握更多筹码的朝鲜并不着急谈 <https://news.google.com/rss/articles/CBMi3AJBVV95cUxNaDdMZUd2Z2QwSlZibjkxS0UxT2F0R0FHWHpQTGJTMDR3eXhxelVvTmlOYmhjbjk0TzNmOGNyZVN6dTZiT1QxZzN3RXRXNEFpRGtIYU9DYU8wZjBicVJSR19UZTN5QnZoSUMzMUVpaTJEZ2FWUzVnNlJJT3VxT3JhT3ZKQWlKbHBBWW1YaS14cGpqS1lJYmE1MWZxWVRmenJWek1mbFRjWTViWXhORm96bEdVaWhVblRuWWtNN0IxeE9RLUhXRXk3aUgtNkdONThVd2k4RnNodlNMRVlrc2FZY1dCX1FRQUl5UENUSkZQWm9ENnFyelNQWEJ2NFc0ajAwS21aXzNtLTR3MVpxeDB2aER5YnVOd0N0VkZvLTU0SXdMbzdkOW9ySnZvWUFLQlI1enJiLUxLWTI4bmZZRlctUGhzVmJUa3RDcy1YTG5mT1R3U3E5VzJ3SVk3YTHSAdwCQVVfeXFMTVNGekJFS1MyM2ZEYnp4Z2czUHEyTkJEZWVsRnIyYlUtbUc2TjlTMU5JTHIwT1RES0NOaDVudlJMTzE1QlVuOV9wYzVsdXdrWG85NThWbl9pajlVLVVvVFduV2J4VlRCd3hkb1JXVTBmeE5DM0xXdEdkbGlNSTJjUEJTQ1loRVhwRUFJS1VtTlpTb1ZJVXBVY0RWLTNXRXNfTE9FZDc0VG9NQ25ISEhTOGpLUVFLT002NkxLX0VDNkc5Z21QQlRNR0RqdUJtVTByWEhZQlhNZ0JvV1kwNDJqTWtFNm9pbjZWTElMSWlzVmNvWEZKNDRkbWNLN3p4VUZGeUFKa1dHVllCUks1SzkxUV9WbnV3ZndRZnlMQXhCSFI3elAxS2Q2aFhpaG0tcWtCR2k0dFRLdl9oVkh3cHpTWldWX2NyckRIWGhhYVlOb2lZaWU0eVpmMkhIa3ZO?oc=5>
 
 ### 2026-08-22 14:14  (4 条)
 
