@@ -1,24 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-22 09:49**
-- 本轮扫到 10377 条, 新增 **1** 条
+- 最近更新: **2026-08-22 10:16**
+- 本轮扫到 10379 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮新发现 (2 条)
 
-### 8月22日外盘头条：比特币单周飙升逾22% 特朗普宣布暂时豁免碎牛肉进口关税 桥水基金创始人警告美债危机
+### “特朗普号航母”，没有在开玩笑
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-08-22 10:04
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5PLU5HNk9iVVdSLXVIbjdWMFpJVk1Cc2Y2MlQxZHB3cDlka3hUc0FPY1k4a3VnZHYzazVhdHJGNFlOa21nb3lYbHBXLTg2eTFtYmhTdGlGTjBmaFZWN3NxMi1OZ2tpYTA3azc0am9xcU4?oc=5>
+
+### 特朗普：如有需要将出动美军干预债市
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-08-22 09:11
-- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxPN3VROWdnZmdSV09hU2pPc3hYVERrMWVIci0tSGcwVjVIbWhUdC02Vks3ZmhPbzVseTgtS0ZGeWxoMGhFaktBbWtaN3pTdmdRcWRMTnJnVnZjVnBkbjVfSktuY0VWU3l5R3VkT200QnBMX1NOaGdSaExiUjYwWm1BME5wUkZwUzZPbGc?oc=5>
+- 时间: 2026-08-22 08:20
+- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxNMnBoTlhRN1VmZ1RfNmFoLVBYdzQyM3l6cWNwQ1lIbmo3VjkxN19nMVEzMkNrU0ZYZk5Ra2pHM1laTmVEX0luXzJTc0d5WG5xYk50MTdPcUItNnJIU3JhTndXN25Xc1hhN0ZXNkdqVjhlWDJmbWF0X1NVbEJYeE5nUnZNTU9nLXE2bGJUYVU3NUQxdkVncl9sRg?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-22 10:16  (2 条)
+
+- **特朗普** | “特朗普号航母”，没有在开玩笑 <https://news.google.com/rss/articles/CBMicEFVX3lxTE5PLU5HNk9iVVdSLXVIbjdWMFpJVk1Cc2Y2MlQxZHB3cDlka3hUc0FPY1k4a3VnZHYzazVhdHJGNFlOa21nb3lYbHBXLTg2eTFtYmhTdGlGTjBmaFZWN3NxMi1OZ2tpYTA3azc0am9xcU4?oc=5>
+- **特朗普** | 特朗普：如有需要将出动美军干预债市 <https://news.google.com/rss/articles/CBMimAFBVV95cUxNMnBoTlhRN1VmZ1RfNmFoLVBYdzQyM3l6cWNwQ1lIbmo3VjkxN19nMVEzMkNrU0ZYZk5Ra2pHM1laTmVEX0luXzJTc0d5WG5xYk50MTdPcUItNnJIU3JhTndXN25Xc1hhN0ZXNkdqVjhlWDJmbWF0X1NVbEJYeE5nUnZNTU9nLXE2bGJUYVU3NUQxdkVncl9sRg?oc=5>
 
 ### 2026-08-22 09:49  (1 条)
 
