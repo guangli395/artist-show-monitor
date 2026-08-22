@@ -1,32 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-22 03:13**
-- 本轮扫到 10349 条, 新增 **2** 条
+- 最近更新: **2026-08-22 04:03**
+- 本轮扫到 10352 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (3 条)
 
-### 特朗普“凡尔赛”：好难，这辈子没见过这么多求职申请-观察者网
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-08-22 01:53
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBvdHZoaEdjelZaamZRVkdOaTVMaUNMcUlVbGM5NGkxRWxObmVIcUhlTjFuZ3o5WTBJcTNHTFpGdklKQXFRS1dKSTUwX0pFX1NaeFpYZWFGN3ZOcFA3VElaTnY1N1VWYmRoU3c?oc=5>
-
-### 美法官推翻特朗普政府暂停向75国发放移民签证的政策
+### 特朗普宣布暂时豁免碎牛肉进口关税
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-22 01:28
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNd1UyV0ZJeVdMZ2t5M1poa0tmLWM2MHRGaURVQ3JoaExsb1VpQ2dzQ1JoY0o1NW9FeGhoYnlxT3lmN3UzUlFhWl9mX1NONXdtVlVZRU9YOS1uYUpzMzdqSTl1ZWRkdGpRcTEwd3FEaWJ2bkpfNkZzeEpzM0V5RXRPOENlQ0hvWXRORFBfb2tPakJzdXN2d0ZGblZhZWlMRkNyS1N0SExwYWdtNXVYWlNiazY3SzlWWlFYY1E3ZDV0MUhaT0Qta0M0UUt1eTMwcmdR?oc=5>
+- 场馆: 新浪财经_金融信息服务商
+- 时间: 2026-08-22 03:46
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1LNUVQMmJtS1NjUXFLMWRSZ0ZvWmYyV2tJLUxsT1Z6N2MwRllrWkN1Ml9zampBNlVySDlXb3hQNTRXb0RDVGNPUjRpNmlFT1Q3RDNuM2xneGZsQml6UEhiT3BnRGJMN3ZEcmRVenVLNXVYMzl4S0hyRg?oc=5>
+
+### 特朗普宣布暂时豁免碎牛肉进口关税
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-08-21 13:50
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1VZDZmRzBQZGJ6YVhNUDlvMlk5aTItamV2aXNYbHhsR3Y5ZG4teHI2VDk0SnNMY1gweGtOanJYTGl4ZTdHM3JWY2VRTlBIWExQaXZRMG85VXBMV1ZIZ3pScG81Z25xR2xFVmtZWm5lTXpuRUZ3NjlReWJOMUdoMm8?oc=5>
+
+### 特朗普再称霍尔木兹海峡为美国领土
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: chinanews.com.cn
+- 时间: 2026-08-22 00:44
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VbXRjUnU4UVpRdXN0UzFpY1NJN1o3SWZKZW1fYmxzT3lkWV9Bc0ZRUVg0bGhfZXZaQjJycEt4cktiYTFtYWx2YXp5ZHZjdmFiUVk5eUtON0x3ZEd0NnoxWmFieFFIVkd2?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-22 04:03  (3 条)
+
+- **特朗普** | 特朗普宣布暂时豁免碎牛肉进口关税 <https://news.google.com/rss/articles/CBMieEFVX3lxTE1LNUVQMmJtS1NjUXFLMWRSZ0ZvWmYyV2tJLUxsT1Z6N2MwRllrWkN1Ml9zampBNlVySDlXb3hQNTRXb0RDVGNPUjRpNmlFT1Q3RDNuM2xneGZsQml6UEhiT3BnRGJMN3ZEcmRVenVLNXVYMzl4S0hyRg?oc=5>
+- **特朗普** | 特朗普宣布暂时豁免碎牛肉进口关税 <https://news.google.com/rss/articles/CBMif0FVX3lxTE1VZDZmRzBQZGJ6YVhNUDlvMlk5aTItamV2aXNYbHhsR3Y5ZG4teHI2VDk0SnNMY1gweGtOanJYTGl4ZTdHM3JWY2VRTlBIWExQaXZRMG85VXBMV1ZIZ3pScG81Z25xR2xFVmtZWm5lTXpuRUZ3NjlReWJOMUdoMm8?oc=5>
+- **特朗普** | 特朗普再称霍尔木兹海峡为美国领土 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VbXRjUnU4UVpRdXN0UzFpY1NJN1o3SWZKZW1fYmxzT3lkWV9Bc0ZRUVg0bGhfZXZaQjJycEt4cktiYTFtYWx2YXp5ZHZjdmFiUVk5eUtON0x3ZEd0NnoxWmFieFFIVkd2?oc=5>
 
 ### 2026-08-22 03:13  (2 条)
 
