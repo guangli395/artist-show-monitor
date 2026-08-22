@@ -1,24 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-22 16:48**
-- 本轮扫到 10402 条, 新增 **1** 条
+- 最近更新: **2026-08-22 17:14**
+- 本轮扫到 10404 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮新发现 (2 条)
 
-### TRUMP一度突破3.6美元，24小时涨幅达79.4%
+### 美债救市升级？特朗普放狠话：必要时动用军队
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: TradingView
-- 时间: 2026-08-22 05:13
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00YlFmRmVtei1xQ3daY1VRWHZwTnpzaEszWlBLY2pPeHpBR2c2V2hfZi13VjlERDJNUW9fSC1JRjRmTzNJdGZLZ2F3azFyN0J4RkRQRmUya1AxbWw0MDJXZFlBX0t3dHM?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-22 15:50
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFB3WkU2YkRLZ3ZyZWxwNGozSEhCbUhpQXJsWFo3QVZfdE4wZ0NWY2o0SEZydUpBZEhvQ1owNTRhUDJUZE5FYTRnODJLQlE1WVJoUkRuMURBdHJvbW4tVWJRSFhaNUIxYzN1WFVBVEx2QlFtYVVRNzhxUQ?oc=5>
+
+### 特朗普“吃醋”了：我非常生气！
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-22 16:35
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBfRFptdEpUUWNTVGdsTHNtRVo0NjVtTnFDUW1taDhIRXYwTGRqNjJ5TVY5cG14Y2RQUUM2M3RjU1RSdE1wUDBCTVFpTzFad3h3Umg2UzNySDdQT0h4UEw2T0wzLXNYMlZWM0kweXVWM2t4MHpLSkJ2Xw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-22 17:14  (2 条)
+
+- **特朗普** | 美债救市升级？特朗普放狠话：必要时动用军队 <https://news.google.com/rss/articles/CBMieEFVX3lxTFB3WkU2YkRLZ3ZyZWxwNGozSEhCbUhpQXJsWFo3QVZfdE4wZ0NWY2o0SEZydUpBZEhvQ1owNTRhUDJUZE5FYTRnODJLQlE1WVJoUkRuMURBdHJvbW4tVWJRSFhaNUIxYzN1WFVBVEx2QlFtYVVRNzhxUQ?oc=5>
+- **特朗普** | 特朗普“吃醋”了：我非常生气！ <https://news.google.com/rss/articles/CBMieEFVX3lxTFBfRFptdEpUUWNTVGdsTHNtRVo0NjVtTnFDUW1taDhIRXYwTGRqNjJ5TVY5cG14Y2RQUUM2M3RjU1RSdE1wUDBCTVFpTzFad3h3Umg2UzNySDdQT0h4UEw2T0wzLXNYMlZWM0kweXVWM2t4MHpLSkJ2Xw?oc=5>
 
 ### 2026-08-22 16:48  (1 条)
 
