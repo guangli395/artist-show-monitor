@@ -1,32 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-22 10:47**
-- 本轮扫到 10381 条, 新增 **2** 条
+- 最近更新: **2026-08-22 11:14**
+- 本轮扫到 10383 条, 新增 **2** 条
 
 ---
 
 ## 本轮新发现 (2 条)
 
-### 特朗普称不会放弃对伊朗的军事选项
+### 特朗普暗示：可出动美军干预债市
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中国日报网
-- 时间: 2026-08-22 10:23
-- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTFBVbWZpU28tTDZ6ZDBDcFdMLWc2RWJfSXl3WmY1R1RDR2VRRFV2c2JSY0xfNG1IQ2pHenA1b2NHNGJLMnVQWjhuMmZjYnNwWTR4WDJZTl9fa0xrcHE5UjFyaElVdEh6b1RxemVCTjFKczUxWXdaZW1XeGo3ek0?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-22 09:41
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE0tZjlyd1Vvb3VVX0FOOFkwdWVpSGlsSUNCczA3UmRVTU1KLTJ5X19MR3R3SkhqajZCTEdfcnFiaHE0dWxmY250bmhCN3ZOYzhXVXFNeC1yVVIwVElMV2FTVU1yaHp4dnNYdkFrN253ZENNeGJRVnZfLQ?oc=5>
 
-### 特朗普女助理引关注 久未露面的梅拉尼娅：听说你们想我
+### 特朗普敲打韩国，李在明为何反而叫好？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-08-21 06:28
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9iQ0c3T3ZKWnBfRVhjclMxREZ6M1EwUVlndGszSGNfd1BETE15Ql93ZmprYktGN21Zc3FSbmc5WHpCSGxtZTN4MG5WOThjRGVTYWNzT1VtckduQmxwZDFvV3pGRnFFdw?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-08-21 23:15
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1fRFpTMjRpd2NtMkluSDdmOXppYXF2UmFPS0NHR25DbHVzOXBDSk9jWG9tUUFXYXhPaHgxZ21qOUw4bC1wTy01YzZmcVg?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-22 11:14  (2 条)
+
+- **特朗普** | 特朗普暗示：可出动美军干预债市 <https://news.google.com/rss/articles/CBMieEFVX3lxTE0tZjlyd1Vvb3VVX0FOOFkwdWVpSGlsSUNCczA3UmRVTU1KLTJ5X19MR3R3SkhqajZCTEdfcnFiaHE0dWxmY250bmhCN3ZOYzhXVXFNeC1yVVIwVElMV2FTVU1yaHp4dnNYdkFrN253ZENNeGJRVnZfLQ?oc=5>
+- **特朗普** | 特朗普敲打韩国，李在明为何反而叫好？ <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1fRFpTMjRpd2NtMkluSDdmOXppYXF2UmFPS0NHR25DbHVzOXBDSk9jWG9tUUFXYXhPaHgxZ21qOUw4bC1wTy01YzZmcVg?oc=5>
 
 ### 2026-08-22 10:47  (2 条)
 
