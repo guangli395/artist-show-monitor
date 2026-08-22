@@ -1,32 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-22 11:14**
-- 本轮扫到 10383 条, 新增 **2** 条
+- 最近更新: **2026-08-22 11:43**
+- 本轮扫到 10384 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (1 条)
 
-### 特朗普暗示：可出动美军干预债市
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-22 09:41
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE0tZjlyd1Vvb3VVX0FOOFkwdWVpSGlsSUNCczA3UmRVTU1KLTJ5X19MR3R3SkhqajZCTEdfcnFiaHE0dWxmY250bmhCN3ZOYzhXVXFNeC1yVVIwVElMV2FTVU1yaHp4dnNYdkFrN253ZENNeGJRVnZfLQ?oc=5>
-
-### 特朗普敲打韩国，李在明为何反而叫好？
+### 特朗普下令后 韩美联合军演提前结束
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-21 23:15
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1fRFpTMjRpd2NtMkluSDdmOXppYXF2UmFPS0NHR25DbHVzOXBDSk9jWG9tUUFXYXhPaHgxZ21qOUw4bC1wTy01YzZmcVg?oc=5>
+- 场馆: 联合早报
+- 时间: 2026-08-21 16:10
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDVWk2Ym1vZXdrUzZjT3lzamRJV3dCWTdCdGh4RG5GZ3JvY0ZXWU1VX3poMTFBVTFMRWRZWVZIVTY1UnUxbll4SWpWT2xHclVwYUJVY0NpTlRsVjFuT2NySHZxQW9wUQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-22 11:43  (1 条)
+
+- **特朗普** | 特朗普下令后 韩美联合军演提前结束 <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDVWk2Ym1vZXdrUzZjT3lzamRJV3dCWTdCdGh4RG5GZ3JvY0ZXWU1VX3poMTFBVTFMRWRZWVZIVTY1UnUxbll4SWpWT2xHclVwYUJVY0NpTlRsVjFuT2NySHZxQW9wUQ?oc=5>
 
 ### 2026-08-22 11:14  (2 条)
 
