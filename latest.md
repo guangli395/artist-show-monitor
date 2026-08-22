@@ -1,48 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-22 04:58**
-- 本轮扫到 10356 条, 新增 **4** 条
+- 最近更新: **2026-08-22 05:27**
+- 本轮扫到 10359 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (3 条)
 
-### 特朗普称未指示美财长干预债券市场
+### 伊朗称美经济战“注定失败” 特朗普否认军事选项受限
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: china.zjol.com.cn
+- 时间: 2026-08-22 01:17
+- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTE9GY3ZCQTVnZERPUXd3b1VKWnlSNEdpSFdURmVNTmh1b2tNSENsUzgzZDk1eGhKbVd1MkFQamRidmR2STJ6aHNRZlBaUFJPTzFILV91aUkyQ0R3YVJiSl9aZGxEMmZLUDNod2dDVE53?oc=5>
+
+### 美加贸易谈判进入倒计时，特朗普50%关税大限逼近
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-08-22 04:25
-- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxPdWZzbW9yRjZwOW9nVkcwelYwUEZBcHlEODJrY0JMRnB0aGpqZjNPeXgtOUc3NTgyMTBHbm5WWWtDcDhQSEc5RUZ2WFd4RWxmelVfSklXYmRmUGc5eTk3TmM2a0xoeGJkMEd0UkNkR3ZnXzVPZlhpWVZmMExYM29Yc2k1Z19RSFdxdTVzOWFwMFJ5dTQtZFpPMTFEZGFwOE1Q?oc=5>
+- 时间: 2026-08-21 22:13
+- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxONTdGS3BfM1JKdFJ5ZkJBUEFSQlVDNjI4UFBWWm9xdC1GeWphQ1NRelJUQnNHYUhwS1pmT2RqM0VYUFhfT2taOXJiaW83eXVRU09yTTQwc2R6aGxZN1NpREd4RFVISG90LXJCa3NfWjQ0alFHNXoyRHZNMnlZRm02blphMTU4WWJ1TGNWaHZlYXYtbUtKRF9JemhnTjk4azc1YnBESVJGeUl6UktpV0FZR3dtREVUV29VUExpVGtPSzJnRFc0T285cUVwLWhoQjZZbFE?oc=5>
 
-### 特朗普下令弃电磁弹射：中美航母技术路线，为何出现大反转？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-08-22 04:11
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE1zanVkWDM2dFlpRUN0YS0zdjRMR0NxNmdOZjdIaXZyRVNrQnRnRmx0Zjd1cVhjekFHOHV1Q19ZZkJNNlZ2NmR0Q1IzMTd2emFQTmV2cFEyVHRvX2ZkNUlsQUtBZFdpNmhXZ0VKR19DVGZWUQ?oc=5>
-
-### 美最高法院暂时允许白宫继续建造宴会厅，特朗普：好事-观察者网
+### 美加贸易谈判破裂 特朗普政府将对部分加拿大商品征收50%关税
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-08-22 02:41
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5HV1VpbmVTdDdhTEN6aXZOV3FPT2x3QzlQdDJMSFZrNDlWajhrTGpaMlZtZnUxMVhoX0owUHlLZjFQT2N0dkdmT1ltN0FrNUJQTkRiZ1ZDcWN5NE9veVhIVlE5ak9JNHc4SUE?oc=5>
-
-### 特朗普“敲打”韩国，李在明为何反而叫好？-观察者网
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-08-21 23:15
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1SLXJfVW5qVWZLcUJSenduNkN1YVNEVHYxR2s1aGhtQXNJNzNYS3hlcVZWTHdMcENrNF9YeUw3WXRoUlhHcV82djFmaUQtc013LTk2U3ZubzZhR0NmMG1GcFIwNVkwWE00VVE?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-22 04:24
+- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRk9PX2poR01SQWRBUEJqSm1nekV2S0d2aklYc3FkTF81ZWxwRVcxY1JCR3N0bzNWSDRvSy1KMzgyZlBFanYzSmNuTUpuWG5Ib25rSFdHR213UU52UUVMTGxtUnZURFI0ZEZKSmFFdXVLNnJLUnZ4TmJvd1liYzNJWkR3X0JDZ0ZaZWRNWkhaU2pab1hocmhMdkxTbDFBdFJjNEV0OC1wMlFpQQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-22 05:27  (3 条)
+
+- **特朗普** | 伊朗称美经济战“注定失败” 特朗普否认军事选项受限 <https://news.google.com/rss/articles/CBMibkFVX3lxTE9GY3ZCQTVnZERPUXd3b1VKWnlSNEdpSFdURmVNTmh1b2tNSENsUzgzZDk1eGhKbVd1MkFQamRidmR2STJ6aHNRZlBaUFJPTzFILV91aUkyQ0R3YVJiSl9aZGxEMmZLUDNod2dDVE53?oc=5>
+- **特朗普** | 美加贸易谈判进入倒计时，特朗普50%关税大限逼近 <https://news.google.com/rss/articles/CBMi0gFBVV95cUxONTdGS3BfM1JKdFJ5ZkJBUEFSQlVDNjI4UFBWWm9xdC1GeWphQ1NRelJUQnNHYUhwS1pmT2RqM0VYUFhfT2taOXJiaW83eXVRU09yTTQwc2R6aGxZN1NpREd4RFVISG90LXJCa3NfWjQ0alFHNXoyRHZNMnlZRm02blphMTU4WWJ1TGNWaHZlYXYtbUtKRF9JemhnTjk4azc1YnBESVJGeUl6UktpV0FZR3dtREVUV29VUExpVGtPSzJnRFc0T285cUVwLWhoQjZZbFE?oc=5>
+- **特朗普** | 美加贸易谈判破裂 特朗普政府将对部分加拿大商品征收50%关税 <https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRk9PX2poR01SQWRBUEJqSm1nekV2S0d2aklYc3FkTF81ZWxwRVcxY1JCR3N0bzNWSDRvSy1KMzgyZlBFanYzSmNuTUpuWG5Ib25rSFdHR213UU52UUVMTGxtUnZURFI0ZEZKSmFFdXVLNnJLUnZ4TmJvd1liYzNJWkR3X0JDZ0ZaZWRNWkhaU2pab1hocmhMdkxTbDFBdFJjNEV0OC1wMlFpQQ?oc=5>
 
 ### 2026-08-22 04:58  (4 条)
 
