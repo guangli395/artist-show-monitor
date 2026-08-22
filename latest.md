@@ -1,30 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-22 05:53**
-- 本轮扫到 10361 条, 新增 **2** 条
+- 最近更新: **2026-08-22 06:28**
+- 本轮扫到 10366 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (5 条)
 
-### 丁禹兮厦门演唱会热门推荐歌单曝光，周杰伦点歌环节成亮点
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068014jco.html>
-
-### 特朗普称若输掉中期选举他将被弹劾
+### 特朗普再称霍尔木兹海峡为美国领土
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-08-22 04:12
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BclFORmNTZ1pERm1weHh3YUdjMlVCMndiZzMyaFVUM3hyb21UTkdzTWZNRzc3WHZBWFIxUV9hcVY5ZjlJOXhpLUlBSGQ4SmZEU3RNTW5lNVZnUmM1OVhXN2dYbmNsU1pw?oc=5>
+- 场馆: 央广网
+- 时间: 2026-08-21 23:55
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Pc3NqN3FfVGRsSktyU0ZuNklTNjczZnRPNkN0ZTNWc1dDR0NBUTVKYjdrdzJ6SkJsOHp5VURNQ0JLTzdkUXQ3S19rNHBmN1dKTk5jdWo5a3NtdFFWa2RRUGtxak0tNjNk?oc=5>
+
+### 特朗普再称霍尔木兹海峡为美国领土
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 紫牛新闻
+- 时间: 2026-08-21 23:53
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9HYVJkQmlJbkVsMk1EQWE3M1cyUElPT2toaWREZ0lNalJuNGhVd3dsNlpOdnZYRHl4SkFtTUxaNjFJc0otMTdnbWRLWnRMM3lFenQxQS02ai1zU09lWXMtZDU3dEd6em5BX0E?oc=5>
+
+### 特朗普回应“莱维特继任者”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 京报网
+- 时间: 2026-08-22 02:54
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE1wV29NaFlOM2R3SUFRanJ6S0c5aGJtaUROMjBmRUEyaHlfcTV6ZloxZGVuSFFfWk5YbHFKcmhUV2FPZ1Z6ZjdlaElSM1k1MDU5S05fMUFoUFdGaHRlekE?oc=5>
+
+### 星期天-77 (@Square-Creator-562283076)的见解
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Binance
+- 时间: 2026-08-22 04:24
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zZ2ZCQ3YzZXhjTmQ2NDkwanoyZ05pU3hXd0RVcXhtZ3I2NENNb0NoMk01WUVKMXg0NnZIXzU4TDVXR2VKWEFLVENCeFJVcTA3UXVURkhJSEVkLVVyaFdkRDUySUxtODVo?oc=5>
+
+### 特朗普总统：伊朗领导人丧生使达成协议变得困难
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-08-21 17:09
+- 链接: <https://news.google.com/rss/articles/CBMivAFBVV95cUxOSDdkX1c2MWZQblFjbVlmSDBUMHRpR3JXX1BfaTFxSnBQR0l2UGh6TlNqSHdUOEd1QkZKdUxzOUxiLUwwbmxSNVh6WXhjM0ZkYmZGOVRidlIwVm02aFV3WlZvV0plUHJsS1g3U0prQTJNU0k0RUpmTDc5RE5CcXZmRldLaFpEeHdLa0xISFgzQnFtcHVWTXA3dWxUNFctekoxX0dKbDVVNVhFd0FkM09hcm5HZ25sR1c0cXlBOA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-22 06:28  (5 条)
+
+- **特朗普** | 特朗普再称霍尔木兹海峡为美国领土 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Pc3NqN3FfVGRsSktyU0ZuNklTNjczZnRPNkN0ZTNWc1dDR0NBUTVKYjdrdzJ6SkJsOHp5VURNQ0JLTzdkUXQ3S19rNHBmN1dKTk5jdWo5a3NtdFFWa2RRUGtxak0tNjNk?oc=5>
+- **特朗普** | 特朗普再称霍尔木兹海峡为美国领土 <https://news.google.com/rss/articles/CBMiakFVX3lxTE9HYVJkQmlJbkVsMk1EQWE3M1cyUElPT2toaWREZ0lNalJuNGhVd3dsNlpOdnZYRHl4SkFtTUxaNjFJc0otMTdnbWRLWnRMM3lFenQxQS02ai1zU09lWXMtZDU3dEd6em5BX0E?oc=5>
+- **特朗普** | 特朗普回应“莱维特继任者” <https://news.google.com/rss/articles/CBMiXkFVX3lxTE1wV29NaFlOM2R3SUFRanJ6S0c5aGJtaUROMjBmRUEyaHlfcTV6ZloxZGVuSFFfWk5YbHFKcmhUV2FPZ1Z6ZjdlaElSM1k1MDU5S05fMUFoUFdGaHRlekE?oc=5>
+- **Trump** | 星期天-77 (@Square-Creator-562283076)的见解 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zZ2ZCQ3YzZXhjTmQ2NDkwanoyZ05pU3hXd0RVcXhtZ3I2NENNb0NoMk01WUVKMXg0NnZIXzU4TDVXR2VKWEFLVENCeFJVcTA3UXVURkhJSEVkLVVyaFdkRDUySUxtODVo?oc=5>
+- **Trump** | 特朗普总统：伊朗领导人丧生使达成协议变得困难 <https://news.google.com/rss/articles/CBMivAFBVV95cUxOSDdkX1c2MWZQblFjbVlmSDBUMHRpR3JXX1BfaTFxSnBQR0l2UGh6TlNqSHdUOEd1QkZKdUxzOUxiLUwwbmxSNVh6WXhjM0ZkYmZGOVRidlIwVm02aFV3WlZvV0plUHJsS1g3U0prQTJNU0k0RUpmTDc5RE5CcXZmRldLaFpEeHdLa0xISFgzQnFtcHVWTXA3dWxUNFctekoxX0dKbDVVNVhFd0FkM09hcm5HZ25sR1c0cXlBOA?oc=5>
 
 ### 2026-08-22 05:53  (2 条)
 
