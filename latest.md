@@ -1,23 +1,13 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-22 11:43**
-- 本轮扫到 10384 条, 新增 **1** 条
+- 最近更新: **2026-08-22 12:25**
+- 本轮扫到 10384 条, 新增 **0** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮无新增
 
-### 特朗普下令后 韩美联合军演提前结束
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-08-21 16:10
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDVWk2Ym1vZXdrUzZjT3lzamRJV3dCWTdCdGh4RG5GZ3JvY0ZXWU1VX3poMTFBVTFMRWRZWVZIVTY1UnUxbll4SWpWT2xHclVwYUJVY0NpTlRsVjFuT2NySHZxQW9wUQ?oc=5>
-
-
----
-
+数据库里所有演出/动态都已见过,暂无新增。
 ## 历史发现
 
 ### 2026-08-22 11:43  (1 条)
