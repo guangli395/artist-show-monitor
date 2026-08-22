@@ -1,23 +1,13 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-22 21:15**
-- 本轮扫到 10413 条, 新增 **1** 条
+- 最近更新: **2026-08-22 21:43**
+- 本轮扫到 10413 条, 新增 **0** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮无新增
 
-### 特朗普再遭一击 法官推翻政府停发75国移民签证政策
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-08-22 20:56
-- 链接: <https://news.google.com/rss/articles/CBMi6wJBVV95cUxOTWFfWHR0a1RNVi1nWHVvb05jWmIzQTltb1oxbUNLdXRuVVJxRnpld0ZqblJzbHdQamtvUmFwbFE4SGJRdWlfV3d3c0d3Unp1bGFWVjhURXFsTVFqenl1ZzZXRmdFNlc3SmJNMGRibW1NZWlkZENnbjFCTDB6aHM4aXBKNHAzQlNKNmRHcV9mQTA4aDlRWEdnRUtmX1NMd0VLYjdnN1JvN1RIelhfU2VfbTBrX2l6Z1c5dXgwaEJXMWZyUWdqTDBxSG9EcWVtR0k3ZW5OSDNHQl9Fd2RTSkcxRWNPWkZGWUdnZ0tPcTM4R05LaC0tbTdYcmY0RXVyd0pMWUpaNHBUSWdIeUJqZHFKbHJoSFFmMHhiS0RudHRPZHE3UlhHN1o4eUMzeUhjZFQ5X0ZrMWpQMW5jaGpwNG81dWQzaEpKY2hDN0NRQVVETjRxNUxsMjJpb1lHV25qWElyc3gzR1V0STM0RHM?oc=5>
-
-
----
-
+数据库里所有演出/动态都已见过,暂无新增。
 ## 历史发现
 
 ### 2026-08-22 21:15  (1 条)
