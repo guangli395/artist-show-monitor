@@ -1,31 +1,13 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-22 08:55**
-- 本轮扫到 10376 条, 新增 **2** 条
+- 最近更新: **2026-08-22 09:20**
+- 本轮扫到 10376 条, 新增 **0** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮无新增
 
-### 特朗普推出新关税宽减措施 旨在压低牛绞肉价格
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-22 08:48
-- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxQVHRkVUxSdWE1RU1VVmFnUEZJMTZxLVY2YVAwVWJPc0xSUmxub0w0OG1sVWR1LUY4WjhSOXhlTklTckJLQ1ZLUjNsQ2tLSVdWX1pCQkhDNW9rSU00OG5UdHhVTkx5ZENNbm1KNzE5ZFhGNVZ2VS03ZkVGMWhzWGdWd0tBZkpISlAzeGc?oc=5>
-
-### 特朗普敲打韩国却被李在明反将一军 同盟裂缝显现
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-08-22 04:09
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBtcFBfa1BBWktGNVpkNUxpM1BpbU9ES3Q5VjMweGl6cjB2ZVBJc2h3OVhYWU5nY2tnX3Nab1J2MEdpM2VROXVIUmp0UmJBa2gyVzE2eDVJUWV3ZVVNQWJidDc1WHZ6dWxrRVRQM3o0SnQ?oc=5>
-
-
----
-
+数据库里所有演出/动态都已见过,暂无新增。
 ## 历史发现
 
 ### 2026-08-22 08:55  (2 条)
