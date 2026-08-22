@@ -1,48 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-22 13:08**
-- 本轮扫到 10388 条, 新增 **4** 条
+- 最近更新: **2026-08-22 13:50**
+- 本轮扫到 10391 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (3 条)
 
-### 梅洛尼谈特朗普：错付了-观察者网
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-08-22 12:19
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1KYTdyc1BFN3J2RF80cmtQQUlRR3dmSDJyajVFTDZYZGF5enNwZXVqZk1GRmRmdFJpMDFPSjdmYU91cDltN1owSXdHak5xYlpBSVBjWkZudUlrZGFRV0hYRHFGU21fQzluaUE?oc=5>
-
-### 特朗普关税加码 加拿大力图降低对美依赖
+### 乌媒“琢磨”：特朗普拒了泽连斯基
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: DW.com
-- 时间: 2026-08-22 12:54
-- 链接: <https://news.google.com/rss/articles/CBMiogJBVV95cUxNVDczTE9WbkVfYVVSYlZzcDZ1NjZkdlVqYzdBZXdvcmVEOVBIb2NhMFhZYmZ6TnZMSFg1a1VkaVVaOWFDWmM0MWRwTFhiRTNnWl92RWI5MW5KYWgyNFhzS3h3RUZ4OHdpX2oxZUdlRFNhVFN2TUVlZC1TU1dKdDZ4cTV2blE4LVVjR3MxOHlrME1OY3lQbmNjc2lVZUloWFZrbnJIaHN2alRPWGxsUWlvajZLUUFIT3ZLREZMWmlqelhjM1NzaHN3RlQ3VzJDOW1HSHZqTFlNdThWX0Z2aDZYWWVCWG9TWURTY0RmTFRHRnVGZ2FCMlJkTV9UMnVhVVNWcGZaMzIya0NzaGtRNm9lVl9FVVRobUZUdndyZC1UclFFQdIBogJBVV95cUxQQ0FsMk1ueW45M2wxbjFqUW45cVExU0tCQkY4QWdZRW11OE5ObldWOHFveXJtckhUODBoaVZ0Qzlhb3dFTl9DSm90OWVweEhMeGdkYXFhVXNOVFJyWFY1YnpRb0dVTXRaQnJ2M096VDhoM1g3NW40REYyaFVsdVBMX0UxT0xNNlpYQUZ5SWVLQTVTbnQ2cnNFUlROaU13Yi1jaTRDa1JVSnFHdTF2X0lYSWVOSUwtRXpWbHZuaFJOemhLMUdPcllwdFBqQWMxQWRQN0wtY0VsTm0yb0tKTkw0eUpBSWsyRzFwajVtVVdZYlVnOWd1eFpYNk9JVWtmeWVCSDFzX3VHdlp5UlgzOFNENFVRSnRReVZkR3FFbVU2XzFDUQ?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-22 11:20
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFAtbkF4ZUs3YndHNUMxSGJVNERVTHgtRjV6T1NIdnVqb203SEZkZWN3WTQwdnZPZUpHaFliUDBCdWM3c3VUV0g2V1ZYUy0zVDBmcW5PeUVfd0NJc1l1LVZRY3lBSHdIOEt2ZzJVNUozVlhRaHotN21nNw?oc=5>
 
-### 特朗普再称：霍尔木兹海峡是美国的领土！他还称伊朗非常渴望达成协议
+### 特朗普的一条帖子，为什么有人愿花10万美元？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-08-22 00:36
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LWWZlUkI2M0UtOFJvT29aLVp2QkxSMG5uQzBQRWFGVHU4b2hBQmxOOEgzb2NldTFLelhETE13NGJmTkxzV2laUmpId3ltcUhHNGs0cWtxQUctWV9VZ3RqTQ?oc=5>
+- 场馆: 中国青年网
+- 时间: 2026-08-22 06:35
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wZ1VSRlhNMXdwOEpQckdVTkJlYVBPdjZXNnNfSVZOU3MtbTFfanBTUnFDaDdDMG1vNXpkMFYtQWpLLWtPY3R5OW5sNTFRRUZnNXVJYmRZWUtrdDVaSUVFRGhqdzJ0b2s?oc=5>
 
-### 要闻解说 - 50%关税上路：加拿大要如何减少对美国的经济依赖，法新社怎么说... ...
+### 白宫新闻秘书透露离职后去向：加入“让美国再次伟大”委员会；特朗普：非常生气，她爱孩子胜过爱我
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-08-22 12:10
-- 链接: <https://news.google.com/rss/articles/CBMi8gNBVV95cUxOdGhCQWpWZ09MUE5IQVFvYm56cTA3bGxHOHphc2VSYU5iZVFDTVlEcElfSF9EdlliZVFlN1ZDSEFlTHc4bjJOVVZ0VmI0V2dsYUI2Y3lwMXp4dWoydUFSVm5PbVpfZTlmM3BhbWZ1akdTTE9qRXlIejUyRUZvNUQ3SzVQMHZRTEhEaGNoSm1ub3dsWEdVMm9FY2VBcFhtWFQydlFRMjNEa21HOFRqUzRaUFhqTW1Sb1FKYjVyMFBLdXVELTM5LUM2ekFTdFJpa210RmI0RTd5SDlGWTBGTnV6cnhFa3NmWWJpbVQ5RkZlQVBlckltZ1VyRm1nTWtnLThTd0lPcUJOZWk2RjBKbkZzVjNrV2lsMk05LXY2ODdEdjFwUkJjRFFfOHRjOUlDbG11dmIxR1VzVEFzVWJiNEtnQWUyeUM2aDFFQkZEX2NfTm9wQjRSMF9fRkJLamhVU01rbnRiVENLQjZuV0MxWUhYbDN4TFpqU2dPdjU2d0lPcFJNeFpzUlZQRExsazk4dnc4RGJ2R2E0LTl2SGs4ZmlGSnhwcjdqaVktbW5fVGgtVVdoQzJXcWxZSFhrZ084ODYyajlueUZTbXhJY3k5RXFWbXpzcnIza3dtNDFTSXNpM1lCWjcySm1xejJxNzRHZlZsN0E?oc=5>
+- 场馆: thepaper.cn
+- 时间: 2026-08-22 12:31
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSd01iOE83QXVZdVU0YkFxcXFHeXkwVUJkdVZvbWtWYXpaSko5aFpqbDJ3QXRGNkpfa3Q5cmpQemFSZWZZNzhnVHBFN29BaXFYSHROelNLUjBQSWk5Snc?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-22 13:50  (3 条)
+
+- **特朗普** | 乌媒“琢磨”：特朗普拒了泽连斯基 <https://news.google.com/rss/articles/CBMieEFVX3lxTFAtbkF4ZUs3YndHNUMxSGJVNERVTHgtRjV6T1NIdnVqb203SEZkZWN3WTQwdnZPZUpHaFliUDBCdWM3c3VUV0g2V1ZYUy0zVDBmcW5PeUVfd0NJc1l1LVZRY3lBSHdIOEt2ZzJVNUozVlhRaHotN21nNw?oc=5>
+- **特朗普** | 特朗普的一条帖子，为什么有人愿花10万美元？ <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wZ1VSRlhNMXdwOEpQckdVTkJlYVBPdjZXNnNfSVZOU3MtbTFfanBTUnFDaDdDMG1vNXpkMFYtQWpLLWtPY3R5OW5sNTFRRUZnNXVJYmRZWUtrdDVaSUVFRGhqdzJ0b2s?oc=5>
+- **特朗普** | 白宫新闻秘书透露离职后去向：加入“让美国再次伟大”委员会；特朗普：非常生气，她爱孩子胜过爱我 <https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSd01iOE83QXVZdVU0YkFxcXFHeXkwVUJkdVZvbWtWYXpaSko5aFpqbDJ3QXRGNkpfa3Q5cmpQemFSZWZZNzhnVHBFN29BaXFYSHROelNLUjBQSWk5Snc?oc=5>
 
 ### 2026-08-22 13:08  (4 条)
 
