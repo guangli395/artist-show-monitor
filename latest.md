@@ -1,24 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-22 22:45**
-- 本轮扫到 10417 条, 新增 **1** 条
+- 最近更新: **2026-08-22 23:14**
+- 本轮扫到 10421 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮新发现 (4 条)
 
-### 顶不住了？特朗普宣布暂时豁免碎牛肉进口关税
+### 特朗普发布霍尔木兹海峡的地图并配文：美国的新领土
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-21 22:59
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5BemFuc2lCV0E4Z1o3Z0d5X1hLdWpGckVUcXE4M1otYzZXX2x3cFhzeTdoblFOZFRCb09LTUx1MVo5UmdjaFNFWG5vOUQ?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-22 21:49
+- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxNclVKNzViaGdIWG9ad19EcVZUWERKTnFRajloc3ctTW5kY0g1dG9KTnFvNng5SnowOG9pVHU1TENOSldQQWhmTW80MEFxVklzWW9vOHJnRkNveGE0clBCU0g4NU5weEpxdy1KRFduVlI4d3gxT3FUR2ZBX3h4S0hqVQ?oc=5>
+
+### 为平息特朗普，北约东欧盟友提议削减美军驻军费用
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: idnfinancials.com
+- 时间: 2026-08-22 23:00
+- 链接: <https://news.google.com/rss/articles/CBMi3wJBVV95cUxOYmVnNkM1eWZ2MklLQTRhOUVxajVXa01EX1JPWlcxUFNHOEhvdk91c2dkNnVPVTB1aVFSTWhEekgyekhnVlRnZzc5aXY4OFVNWWMxM2tIVTlmNDdRYjhGaVRvUDkwdy1mMF9WYUE4ZlJJV2trRG9FbGxxR2J5M0xPYXhscjNKNTVFazY5M2s4eWliTThJRk1pbzRZOUk5QkpEVWVmSjhvZ1JnUEdzWTlJN05kMlZuY05QM2FJeW9UYWNEQzFORE5IWGVXSFNhUDFsVGd6NWZJX2x5bnlxR1VTR3VWUXRhSUgxWkNXS0pDMkluZ1Y1MzVoSFd3eFJ0cjZrajlvOXFYODBwM0RfekN5UmFmMWJDd2JSaXFlVWkwRER2blNQQUl1anNkNFpCY3QyZXRSRVNqQ1V2bkdCRnEyQ1lYanAxV0ZWeFdJb3dnVkVEZEpYTUdFOHFITzZZVW8?oc=5>
+
+### 美国最高法院暂准白宫宴会厅继续施工 特朗普暂获胜利
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-08-22 15:03
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5JQlhxQjFza3pfUmpKMUxrdGZHZGduYXMtNnFPNEZRdFV2UU40N09iWlNYM3lBc3NpSHExUm9XWUFqY0RUSXYxUmt4bWpEZ2I2M3BHVnVrRy1SSjNxRi1vdl9jYkNWUQ?oc=5>
+
+### “救市”无果，特朗普宣布：可出动美军干预美债市场！美债遭大规模抛售
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-08-22 09:04
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE9oUHR5c3BSODJ2LTQzYmEwZ0EwSnBnRGdHaGdtc1lwODIxeU1Fdk1FNENwNkw3dGdXcDJnUTNTU0ZzbERhcjgtcDY1Y0k0cmx3d01rZ0VhTFlIQy1DQWp0V0t4a0s1dFEtTlQzUzRqVk95S0Ff?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-22 23:14  (4 条)
+
+- **特朗普** | 特朗普发布霍尔木兹海峡的地图并配文：美国的新领土 <https://news.google.com/rss/articles/CBMigAFBVV95cUxNclVKNzViaGdIWG9ad19EcVZUWERKTnFRajloc3ctTW5kY0g1dG9KTnFvNng5SnowOG9pVHU1TENOSldQQWhmTW80MEFxVklzWW9vOHJnRkNveGE0clBCU0g4NU5weEpxdy1KRFduVlI4d3gxT3FUR2ZBX3h4S0hqVQ?oc=5>
+- **特朗普** | 为平息特朗普，北约东欧盟友提议削减美军驻军费用 <https://news.google.com/rss/articles/CBMi3wJBVV95cUxOYmVnNkM1eWZ2MklLQTRhOUVxajVXa01EX1JPWlcxUFNHOEhvdk91c2dkNnVPVTB1aVFSTWhEekgyekhnVlRnZzc5aXY4OFVNWWMxM2tIVTlmNDdRYjhGaVRvUDkwdy1mMF9WYUE4ZlJJV2trRG9FbGxxR2J5M0xPYXhscjNKNTVFazY5M2s4eWliTThJRk1pbzRZOUk5QkpEVWVmSjhvZ1JnUEdzWTlJN05kMlZuY05QM2FJeW9UYWNEQzFORE5IWGVXSFNhUDFsVGd6NWZJX2x5bnlxR1VTR3VWUXRhSUgxWkNXS0pDMkluZ1Y1MzVoSFd3eFJ0cjZrajlvOXFYODBwM0RfekN5UmFmMWJDd2JSaXFlVWkwRER2blNQQUl1anNkNFpCY3QyZXRSRVNqQ1V2bkdCRnEyQ1lYanAxV0ZWeFdJb3dnVkVEZEpYTUdFOHFITzZZVW8?oc=5>
+- **特朗普** | 美国最高法院暂准白宫宴会厅继续施工 特朗普暂获胜利 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5JQlhxQjFza3pfUmpKMUxrdGZHZGduYXMtNnFPNEZRdFV2UU40N09iWlNYM3lBc3NpSHExUm9XWUFqY0RUSXYxUmt4bWpEZ2I2M3BHVnVrRy1SSjNxRi1vdl9jYkNWUQ?oc=5>
+- **特朗普** | “救市”无果，特朗普宣布：可出动美军干预美债市场！美债遭大规模抛售 <https://news.google.com/rss/articles/CBMidEFVX3lxTE9oUHR5c3BSODJ2LTQzYmEwZ0EwSnBnRGdHaGdtc1lwODIxeU1Fdk1FNENwNkw3dGdXcDJnUTNTU0ZzbERhcjgtcDY1Y0k0cmx3d01rZ0VhTFlIQy1DQWp0V0t4a0s1dFEtTlQzUzRqVk95S0Ff?oc=5>
 
 ### 2026-08-22 22:45  (1 条)
 
