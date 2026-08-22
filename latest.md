@@ -1,19 +1,11 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-22 07:09**
-- 本轮扫到 10369 条, 新增 **3** 条
+- 最近更新: **2026-08-22 07:52**
+- 本轮扫到 10371 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (3 条)
-
-### 特朗普宣布暂时豁免碎牛肉进口关税
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-08-22 05:01
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1ndE1seEhJelRNQ1lkNnlBbG9RODVDdUQyQ2RKMHlCejh1T0hrV3c3V0RUVXZwblJYMHA1T1kyZWxqeldiOWdUdWxCclBCcmwySjlmbEpSbERSMnJfVFFHM2xwY3RRT0RGT3VHS2k4cVJ6VGVUR0hZS3ZkNms0dGM?oc=5>
+## 本轮新发现 (2 条)
 
 ### 特朗普：若输掉中期选举，将被弹劾
 
@@ -21,20 +13,25 @@
 - 来源: `googlenews`
 - 场馆: QQ News
 - 时间: 2026-08-22 01:09
-- 链接: <https://news.google.com/rss/articles/CBMibEFVX3lxTFBMUDlOdFZnRzdQMXZfQmI0blVfaDN2WGVuNm0yOVF4ODhoOVQycU4zc3JmZnFrNi1TbW1BVE01bDFoUFhuZXNhS1FFd2lwQjNVbk5TWTZKZGJOUDNubFJwcF9TbUMwcTMwNHZNag?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTE0xVzJvWkN0TVoza1FITXlfdG0ydm5lX0EzbldXbUdKZHV1RWp0YXBIcUFSMXF2RXlMVG9vUFJIb1ZKSUVZZmRrdnhDODdpcjlGc1NYanVZQ0VhbGwxYmg2X09ROWVqTkgwSFlkRURn?oc=5>
 
-### 80岁特朗普兜不住了？西装内大包凸起，网友嘲讽：是超大纸尿裤
+### 献身信曝光！特朗普女助手彻底火了，美参议员一句话引爆白宫
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 搜狐网
-- 时间: 2026-08-22 06:01
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxQSGRNNTJQVTFzeFVJZkNxTnlBUmdRWFp4QUVGYVBYeGJNZEZ3ekxUcDlBNFZMeUFEYU83bmF1ZExMN1VERV9ZTlVMakhtRkZ6Zm1CbWJITWc5STlnV1BoMThkTU9IeFNvT3diVDk5a19WTGRvcFJGOUFBWXFEWVROVnpyaWs4RlhRcDU2Sw?oc=5>
+- 时间: 2026-08-22 06:53
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxQNXR4eTB0ZEJOMzJUSG16UXhOZ3BFMmduSjhzbWREdlZPMW42WTNsd1l6Ri1nWk1yOVZtbDNudERUbUVRM1B0cDBTcHNLN213cTUzUFFiWl9lQ3JGTEdWODBDVGZTUmcxLTl0V1RFelV1Mk1ua2w4amdVc1BNQlliVXJpUUdMWC14NC10Mg?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-22 07:52  (2 条)
+
+- **特朗普** | 特朗普：若输掉中期选举，将被弹劾 <https://news.google.com/rss/articles/CBMibkFVX3lxTE0xVzJvWkN0TVoza1FITXlfdG0ydm5lX0EzbldXbUdKZHV1RWp0YXBIcUFSMXF2RXlMVG9vUFJIb1ZKSUVZZmRrdnhDODdpcjlGc1NYanVZQ0VhbGwxYmg2X09ROWVqTkgwSFlkRURn?oc=5>
+- **特朗普** | 献身信曝光！特朗普女助手彻底火了，美参议员一句话引爆白宫 <https://news.google.com/rss/articles/CBMijAFBVV95cUxQNXR4eTB0ZEJOMzJUSG16UXhOZ3BFMmduSjhzbWREdlZPMW42WTNsd1l6Ri1nWk1yOVZtbDNudERUbUVRM1B0cDBTcHNLN213cTUzUFFiWl9lQ3JGTEdWODBDVGZTUmcxLTl0V1RFelV1Mk1ua2w4amdVc1BNQlliVXJpUUdMWC14NC10Mg?oc=5>
 
 ### 2026-08-22 07:09  (3 条)
 
