@@ -1,23 +1,13 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-23 10:47**
-- 本轮扫到 10457 条, 新增 **1** 条
+- 最近更新: **2026-08-23 11:15**
+- 本轮扫到 10457 条, 新增 **0** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮无新增
 
-### 特朗普：如有需要将出动美军干预债市
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-22 04:11
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZ2hFLXVoM2pSSENaaW9id0lWckhBNDlrVU1FS3ZjV2JIU2xuSnZCNGFoeVdOY3NRTnZucjJhcnlBM29GcGx0UkFIRjNwUU9RaVZJd0tYU2dQT19vMUNSNUd4V1AzNzdwbHBuSk9IT19sM2p2ZGFXTmJTamNCdnlKazJxVXVldkhXdWJqNUo1am8xSWJEaHhsSUNreklUdldxaDJzcGdqbzdKb0dQekZBRTV6djNuczYxNTdaUnhYNXYxdHU4eDRqM2Vnc0tXYl9v?oc=5>
-
-
----
-
+数据库里所有演出/动态都已见过,暂无新增。
 ## 历史发现
 
 ### 2026-08-23 10:47  (1 条)
