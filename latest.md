@@ -1,14 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-23 00:56**
-- 本轮扫到 10424 条, 新增 **0** 条
+- 最近更新: **2026-08-23 02:22**
+- 本轮扫到 10429 条, 新增 **5** 条
 
 ---
 
-## 本轮无新增
+## 本轮新发现 (5 条)
 
-数据库里所有演出/动态都已见过,暂无新增。
+### 特朗普最新调仓曝光
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-23 02:17
+- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxNSWN1RFE0QkN6cGR1UXZRRDM1aThyUnRRNS1kZHZoQXlGWGxWUlVGQmRvdzZoaVdwRUdjdXBPQjhvX2pha3VyWUNxelQySU5aWmVJeXY3dDA3VTBTc2ZieThBalVDZThObXNfYVNEVFVlODNXVmRJYWtDVjBXemNVRGYxUmNNckFVTkxFVEJpbFBhd0E4Ry05cjZNV2NDbVMx?oc=5>
+
+### 特朗普的“大麻烦”：40万亿美元债务，6.5%按揭利率与5美元柴油价格
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-23 01:44
+- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE9KRUxrcTl6MTA3OVRxTVUyY1R4Y3RvYjRNVV80OHYzRmdwR1RMVUNZWWJreXZqVXZfanduZ1VCOV9oMXFXa1M5a2llU0FHdUNwWWVjRmdjeEFjcWxGb3Z3YzRDMmJ4RmhDS3owZHl1TmVkN2E1eXVnb0xn?oc=5>
+
+### 美加贸易谈判进入倒计时，特朗普50%关税大限逼近
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-21 22:13
+- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNmQzWkFkaUs3dktLQUN1X1BKSnN3QlU5MW5LOXZNMlNYcE9HVjVMM1ljd1h3SEY3R2lQbGotU1RIQ3JwaEhDdDlSd0tVV0ZXOUE0Rk9pa21IU3BPOHNLVUZpbHgwWGJ0TW9vTkRUSmZPa3hmTGFuUzBXSlAwX3JSdHpzck1mWlZVQTIyMWdfbnJncWd4Wi1pWVZ1SXE3NTd6M0dnZEE4SlFDWFJzdkh1eDVZLVZhSnNiWnZGS2pRbzBvUldRbUJMMDlBNXpPaUcyNVE?oc=5>
+
+### 梅洛尼谈特朗普：错付了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-08-21 07:00
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9hdGRuZ2lSTmpCVm9mUkVFQkpKS1V3ZDU5c25xYUE2ekdvdk9OSEJfWUZiMnhzaThoWHdmWEhDcUstaXc2NktDSG40SWo?oc=5>
+
+### 特朗普推出新关税宽减措施 旨在压低牛绞肉价格
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-21 19:59
+- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxNenJadXhqMGluTUkxQzVRVVZfT1VZN3RJVEVGYjdkbVhUV3g2SFVHcTNEMFhBemFLaldtRDl4bjEzMXJvb3BQU3VZemlVcTRCNEdQSXQyWXRfRUVzY2pWaWh1blo1UDMxTk1oeWFEZWZ4R2xhY3p1NkVnOTg3VlVpRDVreE9ycXNBc3FsMDZBejcteURId3ZrUW10MzlCSThwNEk0OWs2OWFvZHVrMk5mYzZYVm1ZZFVvUW12VHpuUTgwYmd6RzBsTHV5NXJMTXRONWc?oc=5>
+
+
+---
+
 ## 历史发现
+
+### 2026-08-23 02:22  (5 条)
+
+- **特朗普** | 特朗普最新调仓曝光 <https://news.google.com/rss/articles/CBMioAFBVV95cUxNSWN1RFE0QkN6cGR1UXZRRDM1aThyUnRRNS1kZHZoQXlGWGxWUlVGQmRvdzZoaVdwRUdjdXBPQjhvX2pha3VyWUNxelQySU5aWmVJeXY3dDA3VTBTc2ZieThBalVDZThObXNfYVNEVFVlODNXVmRJYWtDVjBXemNVRGYxUmNNckFVTkxFVEJpbFBhd0E4Ry05cjZNV2NDbVMx?oc=5>
+- **特朗普** | 特朗普的“大麻烦”：40万亿美元债务，6.5%按揭利率与5美元柴油价格 <https://news.google.com/rss/articles/CBMiekFVX3lxTE9KRUxrcTl6MTA3OVRxTVUyY1R4Y3RvYjRNVV80OHYzRmdwR1RMVUNZWWJreXZqVXZfanduZ1VCOV9oMXFXa1M5a2llU0FHdUNwWWVjRmdjeEFjcWxGb3Z3YzRDMmJ4RmhDS3owZHl1TmVkN2E1eXVnb0xn?oc=5>
+- **特朗普** | 美加贸易谈判进入倒计时，特朗普50%关税大限逼近 <https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNmQzWkFkaUs3dktLQUN1X1BKSnN3QlU5MW5LOXZNMlNYcE9HVjVMM1ljd1h3SEY3R2lQbGotU1RIQ3JwaEhDdDlSd0tVV0ZXOUE0Rk9pa21IU3BPOHNLVUZpbHgwWGJ0TW9vTkRUSmZPa3hmTGFuUzBXSlAwX3JSdHpzck1mWlZVQTIyMWdfbnJncWd4Wi1pWVZ1SXE3NTd6M0dnZEE4SlFDWFJzdkh1eDVZLVZhSnNiWnZGS2pRbzBvUldRbUJMMDlBNXpPaUcyNVE?oc=5>
+- **特朗普** | 梅洛尼谈特朗普：错付了 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9hdGRuZ2lSTmpCVm9mUkVFQkpKS1V3ZDU5c25xYUE2ekdvdk9OSEJfWUZiMnhzaThoWHdmWEhDcUstaXc2NktDSG40SWo?oc=5>
+- **特朗普** | 特朗普推出新关税宽减措施 旨在压低牛绞肉价格 <https://news.google.com/rss/articles/CBMi0gFBVV95cUxNenJadXhqMGluTUkxQzVRVVZfT1VZN3RJVEVGYjdkbVhUV3g2SFVHcTNEMFhBemFLaldtRDl4bjEzMXJvb3BQU3VZemlVcTRCNEdQSXQyWXRfRUVzY2pWaWh1blo1UDMxTk1oeWFEZWZ4R2xhY3p1NkVnOTg3VlVpRDVreE9ycXNBc3FsMDZBejcteURId3ZrUW10MzlCSThwNEk0OWs2OWFvZHVrMk5mYzZYVm1ZZFVvUW12VHpuUTgwYmd6RzBsTHV5NXJMTXRONWc?oc=5>
 
 ### 2026-08-22 23:43  (3 条)
 
