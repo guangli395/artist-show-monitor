@@ -1,23 +1,13 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-23 16:17**
-- 本轮扫到 10467 条, 新增 **1** 条
+- 最近更新: **2026-08-23 16:49**
+- 本轮扫到 10467 条, 新增 **0** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮无新增
 
-### 川普美女助理卷争议 传1年未申请安全许可 疑接触机密
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 文学城
-- 时间: 2026-08-23 15:27
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE11eUR2ZWYtc0k2aGN2Y0lhc2xiMldTSHNVRk5LTzBNb3dZb0JlemhMbVE2WU9ZTlpycTNaNGt2R1RYbE5QV09qY2dWc3dfTC1YWVRQY1dYNGZZQ3p4U0pmYWFiVHNXaUFB?oc=5>
-
-
----
-
+数据库里所有演出/动态都已见过,暂无新增。
 ## 历史发现
 
 ### 2026-08-23 16:17  (1 条)
