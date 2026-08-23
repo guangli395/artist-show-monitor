@@ -1,39 +1,13 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-23 21:15**
-- 本轮扫到 10482 条, 新增 **3** 条
+- 最近更新: **2026-08-23 21:43**
+- 本轮扫到 10482 条, 新增 **0** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮无新增
 
-### 华盛顿举办首场印地赛车比赛
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-08-23 20:21
-- 链接: <https://news.google.com/rss/articles/CBMi-wFBVV95cUxQV3A4WF9oSFljMjhZeVF6aWY0VlUwTWw4MDk5aXU5bHg2QlFiMkNBRzRGNlBuZ0E1RmVyUzRoaGg5QlQ1M3FoNzE3UldDWnlMcTlBSjY1RWxuQTlOb0tRN1FEbm9RQXI2YkpmZnVtNlRaNlB2TVIwaExfS3N3c2V6SUlrZHVIaFpTRFNCcEdOWGpwN01ybGwwU0lsZm1lN2NJRjVJUFEwV0tIaUVSZjlKazJuYVpkZXFWNFRtZjlvWlRzWjQydWpPendkT1p6bjZ5dVBtLVpCYXBvclhXWEdEaFU0Y1FnLU8tRDVSZzl4RlNjTTRZR1hPWWFQWQ?oc=5>
-
-### 特朗普总统夫妇观看在华盛顿举办的首场街头赛车比赛，庆祝美国建国250周年
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-08-23 20:52
-- 链接: <https://news.google.com/rss/articles/CBMingFBVV95cUxOQ0RUb2NYa25rM3pjWHpUWVZnNmVJamptZ3hIMGk2U0pVeWRjU0Jic0E1VHk5WjRlYjZDNGxTRTlURkQ1S3BfVHpzUXFkRjBxU1NfLVRzUnFieFJPQWtnLXk3bFNmREJkaGZkOWRoYkdwRzUxMWYxUGg1YU1zZkk4QlN6SnpVcVhBc1NHd0dlYm9odW9hVXB4dUhuSEItd9IBoAFBVV95cUxQdlEyTzM4WVVod1RSaWlCc0Fib3hTMk9hYVF4R1JjUkIwc0lZODRSUzFRR0pXTE5NaFRCUXF5NzBlUzc2SU1mUUEtbTFXWmtOOUJvUjZfODJSUG1DRXVyV29OQWRhT3lqalN6aG1fSElOR1hraEpCUlo4aWxQbXRIYldaUlJzM29uMkpzb21XdGIweEdLTl9pNTdOSHVxcjRL?oc=5>
-
-### TRUMP日内上涨超10%，创今年4月份以来新高
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: TradingView
-- 时间: 2026-08-23 12:59
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9uWFdIdFFzR2RKMnEwVktPYXN4S012UkV6cnVHUmFFLWVqcTNKcWd0bTRrU2tTQ1ZHeFlFS2lncDQyWWo0Z0szVGl0bU9MTEhJdkN0c0hNMGZISEZ0Rk9tQWpFdDJLeWc?oc=5>
-
-
----
-
+数据库里所有演出/动态都已见过,暂无新增。
 ## 历史发现
 
 ### 2026-08-23 21:15  (3 条)
