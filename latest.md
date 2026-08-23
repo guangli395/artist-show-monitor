@@ -1,24 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-23 14:46**
-- 本轮扫到 10463 条, 新增 **1** 条
+- 最近更新: **2026-08-23 15:15**
+- 本轮扫到 10465 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮新发现 (2 条)
 
-### 最后关头，白宫撤回威胁，特朗普罕见屈辱退让，换中国放美国一马
+### 一个月交易1051笔，特朗普最新调仓曝光
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-08-23 13:10
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxPSm1GQ0JJYU5GV0JRazZJNUNiY0sydmhaaGZ4aW1TVU8zZnVWejBOUGVoSGlEbF9kMUNtX2JSNlZkbGt5dGdPS09zU3N0Q0xxdWo2OUxRTEV2Y090VFlSQmt5WnVBMm55cjRnSURyTkptRHhVX0cwVmZVT2t2LXJZUV9qWkNBbmZWMVE4RQ?oc=5>
+- 场馆: 凤凰网财经
+- 时间: 2026-08-23 05:08
+- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE5meTRBdi1Ub0hEdzVQdERYTldtVmpKVUx5YW1Jb3lvSUwzS0xFQnNTd1NGS29EdzVDXzkwS25MQ0E1WTZ3NGVfX3EwZzB0SC1h?oc=5>
+
+### TRUMP代币团队地址转出383.7万枚至OKX，价值约933万美元
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: TradingView
+- 时间: 2026-08-23 00:43
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBVzZXMi1oOGZMNVVHb3dEcnIyZE1ZZFFHdjZLbG1ZOW1EYjlLS3l5cDlDMmFJODhsX09uTDB0X2xvVURiNmUyRnFnNHZ3bWZUeW9MRnphaFNVMTVPRVlJeHVOQ09HQWM?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-23 15:15  (2 条)
+
+- **特朗普** | 一个月交易1051笔，特朗普最新调仓曝光 <https://news.google.com/rss/articles/CBMiUEFVX3lxTE5meTRBdi1Ub0hEdzVQdERYTldtVmpKVUx5YW1Jb3lvSUwzS0xFQnNTd1NGS29EdzVDXzkwS25MQ0E1WTZ3NGVfX3EwZzB0SC1h?oc=5>
+- **Trump** | TRUMP代币团队地址转出383.7万枚至OKX，价值约933万美元 <https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBVzZXMi1oOGZMNVVHb3dEcnIyZE1ZZFFHdjZLbG1ZOW1EYjlLS3l5cDlDMmFJODhsX09uTDB0X2xvVURiNmUyRnFnNHZ3bWZUeW9MRnphaFNVMTVPRVlJeHVOQ09HQWM?oc=5>
 
 ### 2026-08-23 14:46  (1 条)
 
