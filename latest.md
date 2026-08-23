@@ -1,32 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-23 12:26**
-- 本轮扫到 10459 条, 新增 **2** 条
+- 最近更新: **2026-08-23 13:09**
+- 本轮扫到 10460 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (1 条)
 
-### 美国加拿大贸易协议谈判破裂 卡尼面临关键考验
+### 特朗普战略大翻车，伊朗没垮沙特先急眼，两海峡被堵石油出口悬了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-08-23 11:48
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE84NmszVzc5djZCWlRGN1RXTW9QeGFodk5Vbk9jbDZHY0pOSnpWVlhBNVlqQkFHaU9DTjB1cXo2VTRuWjI1MTJteW5tN1l6dHlNWU1nZV8zUDh2eWdQVlBkYVlIanFiQdIBa0FVX3lxTE1iLWRmYS1CZDUydU9PNWpMX3ZYWXpDc0lLNE9VLU1mVFN5NThNRG1YdDI3ZkhGSHFDb3JERWVoUXV3TkU5d1AxOWFJV2ZTdE9ROTU3eVpPYk1QSS14WHZ2Y2hTc0FWR29oeklJ?oc=5>
-
-### Trump Discloses 1,000 Stock Trades in June -- WSJ
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-08-23 01:43
-- 链接: <https://news.google.com/rss/articles/CBMilwFBVV95cUxNUDZPSnNSWks2NW9yOGZMY2xsOFN4NmRac2xFQjdwY204N3MyaEp0blpHZHlwNEpNWVdRVl9rUXpBcHRya1FoWXUyRUtWQ2NHZkROVm9OVDZfcVFTUm13MlpSMWVmUExWcmtDZ0I0QkdsT21FOC1pSFdETFNMeWM4WWF2YkJjS3JBTW1Oa2ZwSzNPN1ZvOUtV?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-08-23 12:32
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFBvYllZOWo3UlZMNDhNWkpjcllZZTRFaS1OVTlPTWxsQ05CLUxyMVlRMVpYRE5QS0NweWY2eE9Xd3FkT055RmQyUWdKUDZzTXVRQkl5bjF3djFKb2RVdjJtYUhZUGVUa09mcnpLS2JNeU9NUQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-23 13:09  (1 条)
+
+- **特朗普** | 特朗普战略大翻车，伊朗没垮沙特先急眼，两海峡被堵石油出口悬了 <https://news.google.com/rss/articles/CBMickFVX3lxTFBvYllZOWo3UlZMNDhNWkpjcllZZTRFaS1OVTlPTWxsQ05CLUxyMVlRMVpYRE5QS0NweWY2eE9Xd3FkT055RmQyUWdKUDZzTXVRQkl5bjF3djFKb2RVdjJtYUhZUGVUa09mcnpLS2JNeU9NUQ?oc=5>
 
 ### 2026-08-23 12:26  (2 条)
 
