@@ -1,23 +1,13 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-23 09:51**
-- 本轮扫到 10456 条, 新增 **1** 条
+- 最近更新: **2026-08-23 10:16**
+- 本轮扫到 10456 条, 新增 **0** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮无新增
 
-### 莱维特要离职，特朗普“很生气”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-08-23 04:53
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxQcnlLLTI3M24tcHpyQVFRR0pldk56VGdZb2IwelRvNzJrbGhoTHl2X1V6SmZwRVJMaGNQR3lBeG9GdGQxdFFUbnJjMzRXUndmZktSQmpvQ1RwOW9pLVRoR2dQRTY3UGpyVmdUTDdTcFJ1clBIQTBKaWItNVEzRUtyeDVzSGthSWpuUExhTw?oc=5>
-
-
----
-
+数据库里所有演出/动态都已见过,暂无新增。
 ## 历史发现
 
 ### 2026-08-23 09:51  (1 条)
