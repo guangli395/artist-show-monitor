@@ -1,24 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-23 15:44**
-- 本轮扫到 10466 条, 新增 **1** 条
+- 最近更新: **2026-08-23 16:17**
+- 本轮扫到 10467 条, 新增 **1** 条
 
 ---
 
 ## 本轮新发现 (1 条)
 
-### 特朗普投资账户6月交易上千笔，金融股成重仓方向
+### 川普美女助理卷争议 传1年未申请安全许可 疑接触机密
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-08-23 06:10
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTFB5T2QwS283bl9ZZlIyM2RoY2V5bU1jYWJSSVBuT3dxZzhrUjZ1WkQ4QkIwSGRwcjd2NXhod1lWcHQ0TmlxWEtTQUI0b3k3WDhmWmxN?oc=5>
+- 场馆: 文学城
+- 时间: 2026-08-23 15:27
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE11eUR2ZWYtc0k2aGN2Y0lhc2xiMldTSHNVRk5LTzBNb3dZb0JlemhMbVE2WU9ZTlpycTNaNGt2R1RYbE5QV09qY2dWc3dfTC1YWVRQY1dYNGZZQ3p4U0pmYWFiVHNXaUFB?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-23 16:17  (1 条)
+
+- **Trump** | 川普美女助理卷争议 传1年未申请安全许可 疑接触机密 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE11eUR2ZWYtc0k2aGN2Y0lhc2xiMldTSHNVRk5LTzBNb3dZb0JlemhMbVE2WU9ZTlpycTNaNGt2R1RYbE5QV09qY2dWc3dfTC1YWVRQY1dYNGZZQ3p4U0pmYWFiVHNXaUFB?oc=5>
 
 ### 2026-08-23 15:44  (1 条)
 
