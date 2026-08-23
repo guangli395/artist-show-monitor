@@ -1,32 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-23 22:14**
-- 本轮扫到 10484 条, 新增 **2** 条
+- 最近更新: **2026-08-23 22:45**
+- 本轮扫到 10486 条, 新增 **2** 条
 
 ---
 
 ## 本轮新发现 (2 条)
 
-### 莱维特要离职，特朗普“很生气”
+### 伊朗称参与美对伊“经济战”的周边国家将被视为敌人
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-08-23 06:29
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE9NWGZRNXkyRnBSV1RIMmVBeExHd0gwb0pTV0d1cGxlT1NMYk5nMXdxTGtiUVZXU2x2YS1yVjlWRk1pYXBSd0xCYw?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-22 07:00
+- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxPSkFzOVNHUHFfdE15cGZyRkJLNVMwN1o3MmRZMGVuOHhWdmd2Tm05LThSSFVBZEEtbFpUZWNrWkg2X240ZW55T1lzMFc5TGdQSTJnTlFLRUlhNjE3d05ISUhDZ1pQcERWNG9qaEdWc1JlQXJSZ203U3I5LW1oYjQwdU9fZ0Vib0hUbnhKMGs1ZjFzRGpZM1dhOW5RN3BzT2pH?oc=5>
 
-### 接班人风向变了？鲁比奥民调开始反超“储君”万斯
+### TRUMP日内上涨超10%，创今年4月份以来新高
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 文学城
-- 时间: 2026-08-23 21:39
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9SMkt6Qnl1UlVhUDVPdW5EaG0ydUpBbTA0RW5IRnJ1MGJHa05USkRZc1FaQnZFZ0FzQjZOZURTX2t0aTNfMm03OVhqRExTVzdsNzJuU19qSUJlRUs2LWp2VmhaVmNNX2po?oc=5>
+- 场馆: TradingView
+- 时间: 2026-08-23 12:59
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE50TEJoX3luT1BYeGdGdkxqRDVuSjdJZnNJOGRLRk1NYVFkR2JqRERndnpCaEV1Z0IwN1FsejBEQXdtYUpRSERRS1dlUmpDOWNvR1ByZlhvOENkdTZaWTBOU3Buek9QQQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-23 22:45  (2 条)
+
+- **特朗普** | 伊朗称参与美对伊“经济战”的周边国家将被视为敌人 <https://news.google.com/rss/articles/CBMioAFBVV95cUxPSkFzOVNHUHFfdE15cGZyRkJLNVMwN1o3MmRZMGVuOHhWdmd2Tm05LThSSFVBZEEtbFpUZWNrWkg2X240ZW55T1lzMFc5TGdQSTJnTlFLRUlhNjE3d05ISUhDZ1pQcERWNG9qaEdWc1JlQXJSZ203U3I5LW1oYjQwdU9fZ0Vib0hUbnhKMGs1ZjFzRGpZM1dhOW5RN3BzT2pH?oc=5>
+- **Trump** | TRUMP日内上涨超10%，创今年4月份以来新高 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE50TEJoX3luT1BYeGdGdkxqRDVuSjdJZnNJOGRLRk1NYVFkR2JqRERndnpCaEV1Z0IwN1FsejBEQXdtYUpRSERRS1dlUmpDOWNvR1ByZlhvOENkdTZaWTBOU3Buek9QQQ?oc=5>
 
 ### 2026-08-23 22:14  (2 条)
 
