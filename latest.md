@@ -1,40 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-23 05:00**
-- 本轮扫到 10435 条, 新增 **3** 条
+- 最近更新: **2026-08-23 05:35**
+- 本轮扫到 10439 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (4 条)
 
-### 莱维特要离职，特朗普“很生气”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-08-23 04:51
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBzX0NxUGc0NmNRM1hpRXBCQkRkcTdGc0trWm5CVFdSdGtGVHVrV0tuQmZOT0NrVnB0VFhmM2Q5bXpwRTdtTkpNRzVfUGlKLTcyWXBDTU5XQWtBamxHRWdzbWxIVWFDbXRxSWg1MjFNb1NsSWhicHVRWg?oc=5>
-
-### 特朗普：如有需要将出动美军干预债市
+### 对伊朗搞“史上最强经济封锁”？特朗普至少算漏了三件事
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-08-22 04:11
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMExaUDhEcUl5LXFyZE84UThqbWc4X3V3QXg5TThDdXlQRUxaa3V2T19XSmI0bk4xTDBQZlpxSVhpMlVMRmpQcHVCOGlxMURubXRsT2V0QU1wLXRaWXJDTnBTaFhxSXB0TjJmdXFPdGlJXy1tc0NWTkFTcXMtX3dmZ0hrTU1idDQ0N3c5UFVyUlBGRjlzZ2ZyY24tN0x1cnJBaUhQcm5yTDVtRjZ2bEszN2FzUTd0MEEzRHE2NnNDb2gxbFBzVUZmUUZOazdiQVN5?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-22 16:00
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFB5V1BYLUZSd0FxWFNDbEN2TFJDVWtHRnJMVDJfbXMwYWR2SC0zdng1Q2NnLU5INTBNZFM5OFYzbDJSS0NIMXdKaVNIdGF0dGRBUjhDdzBmbXZid3FsYTA1VGE3akhUMGdDZERiejRmb1QtQUpfWmI5MQ?oc=5>
 
-### Trump，6月股票交易逾千笔……和平协议次日卖出- 阿视亚经济
+### 特朗普披露6月投资组合“大换血”：减持Meta 买入伯克希尔等股票
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 아시아경제
-- 时间: 2026-08-23 03:21
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wc0d3VktLTmRRZU9kNEhmUkRXcG1JakxkdWlZUmlmTVJWbmRkdzJyYlR2TE90b2pQcE96MDZKQk1GU2ZhR3V5NjJyQWtNZzRoSzZEcFh0ZjNBUko4NWdyelByeVU?oc=5>
+- 场馆: 财联社
+- 时间: 2026-08-23 00:59
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE1BZDlpRnlKYUtyamFka0llVmNvdzhYRDhnVDNXdnZqQUViZDhEaXMzd0Q5M2oxUjNXYzlfTHBMN3NOQ3pZMVNJTw?oc=5>
+
+### 特朗普6月进行上千笔证券交易 最高达2.6亿美元
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-08-23 01:58
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5UdWJZTmkzNmRsdF9rLUFaY3pZZWdYUXNNWXo5QWhVWUk2VDJzcnZja1JJQ3VDeWNaWjc4MXVoZW5XVXN2TTdNUHBERHUxdGExVVdVVmdoUDhEbzFJbnNsWVMtaFZtQ1FJNFE?oc=5>
+
+### 特朗普6月交易曝光，规模达数千万至上亿美元，投资组合“大换血”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 搜狐网
+- 时间: 2026-08-23 05:17
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd3NCNEVkZXI5X0ZSbG1NcVN6ZVJqMmVhWnNnVHU5R0RyRUVyQ095WUFZSGN3ZFVNaHpmNVBySGMyV0RoQ1hxOGFTQkJJRF9CS294STJEOUpUYWE5d1RpeEJwR1cxRFY1SUdzemhHWG9XOTRaZEVxQnppQXVXMmhNYmJuRmN6Yi01?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-23 05:35  (4 条)
+
+- **特朗普** | 对伊朗搞“史上最强经济封锁”？特朗普至少算漏了三件事 <https://news.google.com/rss/articles/CBMieEFVX3lxTFB5V1BYLUZSd0FxWFNDbEN2TFJDVWtHRnJMVDJfbXMwYWR2SC0zdng1Q2NnLU5INTBNZFM5OFYzbDJSS0NIMXdKaVNIdGF0dGRBUjhDdzBmbXZid3FsYTA1VGE3akhUMGdDZERiejRmb1QtQUpfWmI5MQ?oc=5>
+- **特朗普** | 特朗普披露6月投资组合“大换血”：减持Meta 买入伯克希尔等股票 <https://news.google.com/rss/articles/CBMiSEFVX3lxTE1BZDlpRnlKYUtyamFka0llVmNvdzhYRDhnVDNXdnZqQUViZDhEaXMzd0Q5M2oxUjNXYzlfTHBMN3NOQ3pZMVNJTw?oc=5>
+- **特朗普** | 特朗普6月进行上千笔证券交易 最高达2.6亿美元 <https://news.google.com/rss/articles/CBMiakFVX3lxTE5UdWJZTmkzNmRsdF9rLUFaY3pZZWdYUXNNWXo5QWhVWUk2VDJzcnZja1JJQ3VDeWNaWjc4MXVoZW5XVXN2TTdNUHBERHUxdGExVVdVVmdoUDhEbzFJbnNsWVMtaFZtQ1FJNFE?oc=5>
+- **特朗普** | 特朗普6月交易曝光，规模达数千万至上亿美元，投资组合“大换血” <https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd3NCNEVkZXI5X0ZSbG1NcVN6ZVJqMmVhWnNnVHU5R0RyRUVyQ095WUFZSGN3ZFVNaHpmNVBySGMyV0RoQ1hxOGFTQkJJRF9CS294STJEOUpUYWE5d1RpeEJwR1cxRFY1SUdzemhHWG9XOTRaZEVxQnppQXVXMmhNYmJuRmN6Yi01?oc=5>
 
 ### 2026-08-23 05:00  (3 条)
 
