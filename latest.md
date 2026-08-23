@@ -1,14 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-23 21:43**
-- 本轮扫到 10482 条, 新增 **0** 条
+- 最近更新: **2026-08-23 22:14**
+- 本轮扫到 10484 条, 新增 **2** 条
 
 ---
 
-## 本轮无新增
+## 本轮新发现 (2 条)
 
-数据库里所有演出/动态都已见过,暂无新增。
+### 莱维特要离职，特朗普“很生气”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 财联社
+- 时间: 2026-08-23 06:29
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE9NWGZRNXkyRnBSV1RIMmVBeExHd0gwb0pTV0d1cGxlT1NMYk5nMXdxTGtiUVZXU2x2YS1yVjlWRk1pYXBSd0xCYw?oc=5>
+
+### 接班人风向变了？鲁比奥民调开始反超“储君”万斯
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 文学城
+- 时间: 2026-08-23 21:39
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9SMkt6Qnl1UlVhUDVPdW5EaG0ydUpBbTA0RW5IRnJ1MGJHa05USkRZc1FaQnZFZ0FzQjZOZURTX2t0aTNfMm03OVhqRExTVzdsNzJuU19qSUJlRUs2LWp2VmhaVmNNX2po?oc=5>
+
+
+---
+
 ## 历史发现
+
+### 2026-08-23 22:14  (2 条)
+
+- **特朗普** | 莱维特要离职，特朗普“很生气” <https://news.google.com/rss/articles/CBMiSEFVX3lxTE9NWGZRNXkyRnBSV1RIMmVBeExHd0gwb0pTV0d1cGxlT1NMYk5nMXdxTGtiUVZXU2x2YS1yVjlWRk1pYXBSd0xCYw?oc=5>
+- **Trump** | 接班人风向变了？鲁比奥民调开始反超“储君”万斯 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9SMkt6Qnl1UlVhUDVPdW5EaG0ydUpBbTA0RW5IRnJ1MGJHa05USkRZc1FaQnZFZ0FzQjZOZURTX2t0aTNfMm03OVhqRExTVzdsNzJuU19qSUJlRUs2LWp2VmhaVmNNX2po?oc=5>
 
 ### 2026-08-23 21:15  (3 条)
 
