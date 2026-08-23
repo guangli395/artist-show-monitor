@@ -1,39 +1,13 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-22 23:43**
-- 本轮扫到 10424 条, 新增 **3** 条
+- 最近更新: **2026-08-23 00:56**
+- 本轮扫到 10424 条, 新增 **0** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮无新增
 
-### 与特朗普立场一致的邮寄选票新规等待最高法院裁决
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-22 23:18
-- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxQSWNXM0xESWF3M0ljR1RxSWdGaGY1cUZJcHgyM3ZzZHVWT2JyTTNUNWxGejJGMXpvaDBFcmtET3hKQkJ3VzVpU1RqWTdKTzYyd2lXdEtBQk1US05WU09JT3VfN1NPYV93elJMMHQ0dkZNa3R3QUFGZ0JmWG5GS0dxeEVwa1djTjJVc2JSSlVZWGZkSnpCVjgwMVB4V00zTEhq?oc=5>
-
-### 卡尼：特朗普误判，加拿大与美国“开战”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-08-22 23:04
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5VR2tZRzM4bzRIMGI5cmItUEt5dkQyS0RFWHctODVZdnlCd3NsNjdsUVZLbjBHaFVXaFZBS1dmMm1hM1FhVnUxVkhrTWdCTlJXWWdvQlEwWndWZTE5VEFRYmlxaUEwTUZaQ1E?oc=5>
-
-### 美媒：特朗普正在输掉贸易战
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-22 23:13
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9HZHFoV0oxRG15RjdReHk5S0lDU3FfUWhXSHBfQjBpU3pPZmJtZjVTUmU3TlRiRFk0UkNCSHI4NTdfYTMzZldibEl6Vko?oc=5>
-
-
----
-
+数据库里所有演出/动态都已见过,暂无新增。
 ## 历史发现
 
 ### 2026-08-22 23:43  (3 条)
