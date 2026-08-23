@@ -1,23 +1,13 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-23 07:11**
-- 本轮扫到 10448 条, 新增 **1** 条
+- 最近更新: **2026-08-23 07:55**
+- 本轮扫到 10448 条, 新增 **0** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮无新增
 
-### 特朗普再称：霍尔木兹海峡是美国的领土！他还称伊朗非常渴望达成协议
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-08-21 00:36
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9WalR4b0s5a1BKUlRZenVsX19wbW0tUVppU0NHLUliY1BaM2NyeEdsby1tQ2VmSmhVanQySldaOHhLTm8weG5jY0NjYzVCSk5Od2NqTGRSSEJKTW05MkdtUFFFMUtCQQ?oc=5>
-
-
----
-
+数据库里所有演出/动态都已见过,暂无新增。
 ## 历史发现
 
 ### 2026-08-23 07:11  (1 条)
