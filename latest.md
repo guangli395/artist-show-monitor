@@ -1,14 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-23 16:49**
-- 本轮扫到 10467 条, 新增 **0** 条
+- 最近更新: **2026-08-23 17:14**
+- 本轮扫到 10469 条, 新增 **2** 条
 
 ---
 
-## 本轮无新增
+## 本轮新发现 (2 条)
 
-数据库里所有演出/动态都已见过,暂无新增。
+### 川普身边这位美女：娜塔莉·哈普与特朗普的“拟父女”政治神话
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 文学城
+- 时间: 2026-08-22 15:04
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5tb1BKZERaYVFhUl9EbUZlTnA2M2NnQjFxVFdrNlNGS3FhWVREYVdzVERhMnU2bTZFOXIzWmlmYlBhMG5zYjliUWcxdEJGMzVZYmxwRkFyYzQ3N2VNV0gtcVZRck5WZw?oc=5>
+
+### 特朗普宣布进口牛肉，承诺“售价比当前市场价格低25%”，共和党议员不干了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-08-23 07:40
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ3IxTzNtVjlnamM3bmNzYjZmX0JuTXBicVRTRnRJZlVra0dzaXRIZmJ3cXNJemZxbkpEWTlkYU9xNmk4U1gtY1BNZk9oMDRzUmFxR2hoTXhDVHh2a0J5TWQzTnF6b0xNUWRHRVhjcmRGOVNzc0dMT3ZUZXR2c2tHRXJ0MGNyRG8?oc=5>
+
+
+---
+
 ## 历史发现
+
+### 2026-08-23 17:14  (2 条)
+
+- **特朗普** | 川普身边这位美女：娜塔莉·哈普与特朗普的“拟父女”政治神话 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5tb1BKZERaYVFhUl9EbUZlTnA2M2NnQjFxVFdrNlNGS3FhWVREYVdzVERhMnU2bTZFOXIzWmlmYlBhMG5zYjliUWcxdEJGMzVZYmxwRkFyYzQ3N2VNV0gtcVZRck5WZw?oc=5>
+- **特朗普** | 特朗普宣布进口牛肉，承诺“售价比当前市场价格低25%”，共和党议员不干了 <https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ3IxTzNtVjlnamM3bmNzYjZmX0JuTXBicVRTRnRJZlVra0dzaXRIZmJ3cXNJemZxbkpEWTlkYU9xNmk4U1gtY1BNZk9oMDRzUmFxR2hoTXhDVHh2a0J5TWQzTnF6b0xNUWRHRVhjcmRGOVNzc0dMT3ZUZXR2c2tHRXJ0MGNyRG8?oc=5>
 
 ### 2026-08-23 16:17  (1 条)
 
