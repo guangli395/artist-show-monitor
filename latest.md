@@ -1,24 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-23 13:09**
-- 本轮扫到 10460 条, 新增 **1** 条
+- 最近更新: **2026-08-23 13:52**
+- 本轮扫到 10462 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮新发现 (2 条)
 
-### 特朗普战略大翻车，伊朗没垮沙特先急眼，两海峡被堵石油出口悬了
+### 要闻解说 - 特朗普外交不得分 中期选举时钟不等人 中俄伊与美“慢慢耗”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-08-23 12:32
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFBvYllZOWo3UlZMNDhNWkpjcllZZTRFaS1OVTlPTWxsQ05CLUxyMVlRMVpYRE5QS0NweWY2eE9Xd3FkT055RmQyUWdKUDZzTXVRQkl5bjF3djFKb2RVdjJtYUhZUGVUa09mcnpLS2JNeU9NUQ?oc=5>
+- 场馆: RFI
+- 时间: 2026-08-23 13:16
+- 链接: <https://news.google.com/rss/articles/CBMi2ANBVV95cUxQYTdZdUhIMFRIZjhHbi0xUkRuRnBPWkZJaDdvQlRvaEFzSVZua0ZvMFNoZDQ0X2NZYUJEcHFKVjZfYW80SGJxTWh4Rm5qWGJxQjFiT2hDN0N2NE9XODFmSm5ZMno5b1d5cGttUHluM3dHUEhEUGhzN2ZSN25pNFZkYWkxdTd0TXJPbl90Uzhtd0VVUElVOEk3SXoxcW9WZWFjU3VURHlGTTI2a2tPYVNRZHhYeFVYbUdXX2toRHBVUWhyTy1SWkMwMzNxSG1Uemd3c1NDNWlsNFJKTGVkNWpaUDMwY1FsSmNqTFh1NkVLbW03VlBaeGNQU3hTeUU1N19XUllSS0JNd2plekkyS0RfQVQ1Q0txNXRXYUZyTGlvSU9KVm9BWFFyQWhsSG5KMXlOcEtQY3NzWGpWbklNY3ZQXzZpeGc5LWF2ZDFwOVQ0T1Q3Ym9lT19DZHRIYV9BM0MycmdSaVNaODJVM2ZLQkY1ejUtb0JqVUV1SG1BMHAtblROZlVlVnpLUlIxRE9XeVhrMGd3YW5hUW9vOElMWVp6MWhFV0RpUlpkRl9KMUZiQzgweVpxR3JVM0RaWlQta0dnUmw1a2J2ajBhWWMzWS1fOW1iNFE4Y2x6?oc=5>
+
+### 达利欧：美债危机将爆发！特朗普：可出动美军干预债市！科技巨头争夺资金，美财政部砸
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-23 02:44
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE42WjlOUlp1dkJvNFRjTmFvYkxldFlvNmFNa1N2TVpMbmtvQ1JVM21kUjNVSVNYNWNxWmNLclRKQXZrUFVVZTZXVUhwQUk4Tmx4OEZoYVJRY1pzME1uS1hYYWpxejUyNGZHNjUtMEcxbTQ2dE9mREhWRg?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-23 13:52  (2 条)
+
+- **特朗普** | 要闻解说 - 特朗普外交不得分 中期选举时钟不等人 中俄伊与美“慢慢耗” <https://news.google.com/rss/articles/CBMi2ANBVV95cUxQYTdZdUhIMFRIZjhHbi0xUkRuRnBPWkZJaDdvQlRvaEFzSVZua0ZvMFNoZDQ0X2NZYUJEcHFKVjZfYW80SGJxTWh4Rm5qWGJxQjFiT2hDN0N2NE9XODFmSm5ZMno5b1d5cGttUHluM3dHUEhEUGhzN2ZSN25pNFZkYWkxdTd0TXJPbl90Uzhtd0VVUElVOEk3SXoxcW9WZWFjU3VURHlGTTI2a2tPYVNRZHhYeFVYbUdXX2toRHBVUWhyTy1SWkMwMzNxSG1Uemd3c1NDNWlsNFJKTGVkNWpaUDMwY1FsSmNqTFh1NkVLbW03VlBaeGNQU3hTeUU1N19XUllSS0JNd2plekkyS0RfQVQ1Q0txNXRXYUZyTGlvSU9KVm9BWFFyQWhsSG5KMXlOcEtQY3NzWGpWbklNY3ZQXzZpeGc5LWF2ZDFwOVQ0T1Q3Ym9lT19DZHRIYV9BM0MycmdSaVNaODJVM2ZLQkY1ejUtb0JqVUV1SG1BMHAtblROZlVlVnpLUlIxRE9XeVhrMGd3YW5hUW9vOElMWVp6MWhFV0RpUlpkRl9KMUZiQzgweVpxR3JVM0RaWlQta0dnUmw1a2J2ajBhWWMzWS1fOW1iNFE4Y2x6?oc=5>
+- **特朗普** | 达利欧：美债危机将爆发！特朗普：可出动美军干预债市！科技巨头争夺资金，美财政部砸 <https://news.google.com/rss/articles/CBMieEFVX3lxTE42WjlOUlp1dkJvNFRjTmFvYkxldFlvNmFNa1N2TVpMbmtvQ1JVM21kUjNVSVNYNWNxWmNLclRKQXZrUFVVZTZXVUhwQUk4Tmx4OEZoYVJRY1pzME1uS1hYYWpxejUyNGZHNjUtMEcxbTQ2dE9mREhWRg?oc=5>
 
 ### 2026-08-23 13:09  (1 条)
 
