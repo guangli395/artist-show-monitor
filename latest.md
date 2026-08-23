@@ -1,32 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-23 17:43**
-- 本轮扫到 10471 条, 新增 **2** 条
+- 最近更新: **2026-08-23 18:19**
+- 本轮扫到 10472 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (1 条)
 
-### 对伊朗搞“史上最强经济封锁”？特朗普至少算漏了三件事
+### 美国陷入战略困境，特朗普又出昏招！
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-08-23 16:24
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1LcDJGV1hyUWt6azB5cU9pTGktdHpmdVAtaFZIMG5ONm51dVZwdmxQUWhvaUhsbmpTaTZOV2NkTkx1T1M2M21PTUJRVEVUcElndDluZFVLVHlucFRrME82UWstOXZmUVI0RG1nQVpBTGZTRTRNOVV3ZEtvWm1mZHc?oc=5>
-
-### Trump Begins State Visit to China to Strengthen US-China Ties
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 华人头条
-- 时间: 2026-08-21 04:47
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxPdTJma3Vtemtya3VFeHE5R0FRRFhrOEl1M2UxSUpEYlJvdTRYengteXZVTDJ1YV80amJWSHJhX0kxVEt2bk95ckVuUW16bW9ydkJxZDAzUDc1NzBTaVFNUmJENkNINndkaGFfcXE5MnAyLWVJcGVKTUQ3Q0hiaVo0WV9VeDdiSEU?oc=5>
+- 场馆: 观察者
+- 时间: 2026-08-20 05:03
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xaWFIWk00aGxHbV9McWRYcXlQRXFfQl8tcHE4aENJUXNTR2xSQ3NNZElyUV9yOERVZTFrWFJVX3RoWVBMV0wwT2NzMzdPYjRFYllIMlFEdDNrTHQtbmJncmdrMnBPQXM?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-23 18:19  (1 条)
+
+- **特朗普** | 美国陷入战略困境，特朗普又出昏招！ <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xaWFIWk00aGxHbV9McWRYcXlQRXFfQl8tcHE4aENJUXNTR2xSQ3NNZElyUV9yOERVZTFrWFJVX3RoWVBMV0wwT2NzMzdPYjRFYllIMlFEdDNrTHQtbmJncmdrMnBPQXM?oc=5>
 
 ### 2026-08-23 17:43  (2 条)
 
