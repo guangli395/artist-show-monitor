@@ -1,40 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-23 08:21**
-- 本轮扫到 10451 条, 新增 **3** 条
+- 最近更新: **2026-08-23 08:56**
+- 本轮扫到 10452 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (1 条)
 
-### 美债救市升级？特朗普放狠话：必要时动用军队
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-08-22 05:31
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rV2tONGh2UGJJNzVsTG1iVWpzT096MXZiSmVSVDhrUTZxb0pCeUFvQnhtNjFmWGF3a0pGRnVKVzBCamFRd0FHTnNlQ19McTRIU1RqYS1UM0F6VFFKY1p6Sw?oc=5>
-
-### 人均“十万加”，特朗普考虑出兵干预
+### 美加贸易谈判进入倒计时，特朗普50%关税大限逼近
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-22 10:00
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5jTTFlYkxXUFM1WUZvV1NFSk9SQkczU0IzMmhyS0J4dmZ4MnRITlY2cTAxcE5SVEJTam5GVVZncnVtd3Bfb0JNSGNJdDI?oc=5>
-
-### Eric Trump否认特朗普将推出新代币
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: TradingView
-- 时间: 2026-08-23 00:40
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE4yU1kzVms2NlhoeFc4WXJOb0tKT0tfQnU2Tk9XeXNxV09vWjd4R3JxWWlCOTRxSlBqQ21YMkR6d3ExUFdmWldraEI3VlZqekIxY3RCV1Y1WEt6UGMtOU01Zi10OFBMZw?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-21 22:13
+- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSWlRckYwMUV6cElJNWJyWGpEMFUtVFlMVnF5VlVjQUUxc0FmeXZ6Mi1uRUFTcmhac3hmSXRoZ2MxMXhEblRlUUNmc3NkVjNFa1c0RE5lTXd4eWkxVWhveG5GVy00VzVBN09SQ09tZVlYZDc4TFEzU0tIN01ib2lqQ0IwcTZhdmtDZG1uSWxfZHVvTU9HVVFLcTVabnlXdFNpT3d3TUhEdHlKeU1nUEJ4M1IxU3lFWmtna214NnlVMlBZTkdSR3JvN0NIZnhlWGVUOVE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-23 08:56  (1 条)
+
+- **特朗普** | 美加贸易谈判进入倒计时，特朗普50%关税大限逼近 <https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSWlRckYwMUV6cElJNWJyWGpEMFUtVFlMVnF5VlVjQUUxc0FmeXZ6Mi1uRUFTcmhac3hmSXRoZ2MxMXhEblRlUUNmc3NkVjNFa1c0RE5lTXd4eWkxVWhveG5GVy00VzVBN09SQ09tZVlYZDc4TFEzU0tIN01ib2lqQ0IwcTZhdmtDZG1uSWxfZHVvTU9HVVFLcTVabnlXdFNpT3d3TUhEdHlKeU1nUEJ4M1IxU3lFWmtna214NnlVMlBZTkdSR3JvN0NIZnhlWGVUOVE?oc=5>
 
 ### 2026-08-23 08:21  (3 条)
 
