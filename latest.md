@@ -1,40 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-23 09:23**
-- 本轮扫到 10455 条, 新增 **3** 条
+- 最近更新: **2026-08-23 09:51**
+- 本轮扫到 10456 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (1 条)
 
-### 特朗普宣布进口牛肉，承诺“售价比当前市场价格低25%”，共和党议员不干了
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-08-23 08:55
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9vS1ZmbVlUNWQtcFRCMS0tdnc4Ujh6Q0JsZTh6eXFJV3lTS0p1TlJBOUdmVHVwUkYycElnbnNETkQ1N0lZXy1FcDhlZjY4cHRva2hhQzFOekpQSDBINmhaaVluamh4dlBZZDluZU1ZRkg?oc=5>
-
-### 美加关税战：特朗普抨击加拿大享受好处"却又不愿成为美国的一部分"
+### 莱维特要离职，特朗普“很生气”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-08-23 08:25
-- 链接: <https://news.google.com/rss/articles/CBMivgNBVV95cUxQcEJJdkVrUm9sRGVNaENIa0ZmWUZVeVRKeExaUW1iMjBEVGFWVmpHUFVmMk9OWE5zc3lCNlNTUVJUQ2VrQ09LeXdvdFgyS0pFUUNFRnNHOXJjT09VN3c3Y3NrOGRUak1WekxlT2lMa29vY0NKVTJabXRsb3lVa3JydV9NRTdpX1NXb2dUYU40eW5OcWMwTHFpMTVweEpNY0Q5bmM1eTBXQWFoWVhjd282N0ljeHdVYkxJLUMwS1N0VmVWRi1ubFNYVUE2MERWYWVCdnpoQkpSMWtjSUhqamFyaC04Y1EzWUNLMHo5VVpHY0ZDN3RkMWJhQXpTOUE1RzdFc3UwSTFyWTZuWW9UZTgyYTRYT2VIckxTMWtaR3A5WDF0RkR3N25SZ0xzSkgybUxQYktzRjZRc1Ffc3Z1eWV4ZElwMFNPd0dpdFBqZjJoM2lOUzlWMDRzOWVIbXBmWG1uWmNic0NiZ3Rxb3V5cUhwalc3bWpybVpTWFZjYUVDZVNXQmhweGc1aEV6NDF0NEZrMTZTckQxYU5JZjFKWDFkX0NpYTF6VnV5NDJpa0hoQ0U4eTFKMXk1a01MeFZCdw?oc=5>
-
-### 刚刚，特朗普最新调仓曝光！
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-23 06:52
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE5XeE1nMDFtZzJUemZ6bDlucTFfRkhLbDdqX2FQTlAxUlVQcFRfcXQ4ODBJbXl0cWU3bGlwNEwxU0RoV2tXNTlQczFKSC1iamRnVm10ak5jMU1KYXhvZmlLNWFkOHAxem5YRVoxMHRLYw?oc=5>
+- 场馆: 搜狐网
+- 时间: 2026-08-23 04:53
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxQcnlLLTI3M24tcHpyQVFRR0pldk56VGdZb2IwelRvNzJrbGhoTHl2X1V6SmZwRVJMaGNQR3lBeG9GdGQxdFFUbnJjMzRXUndmZktSQmpvQ1RwOW9pLVRoR2dQRTY3UGpyVmdUTDdTcFJ1clBIQTBKaWItNVEzRUtyeDVzSGthSWpuUExhTw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-23 09:51  (1 条)
+
+- **特朗普** | 莱维特要离职，特朗普“很生气” <https://news.google.com/rss/articles/CBMijAFBVV95cUxQcnlLLTI3M24tcHpyQVFRR0pldk56VGdZb2IwelRvNzJrbGhoTHl2X1V6SmZwRVJMaGNQR3lBeG9GdGQxdFFUbnJjMzRXUndmZktSQmpvQ1RwOW9pLVRoR2dQRTY3UGpyVmdUTDdTcFJ1clBIQTBKaWItNVEzRUtyeDVzSGthSWpuUExhTw?oc=5>
 
 ### 2026-08-23 09:23  (3 条)
 
