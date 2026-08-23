@@ -1,24 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-23 04:08**
-- 本轮扫到 10432 条, 新增 **1** 条
+- 最近更新: **2026-08-23 05:00**
+- 本轮扫到 10435 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮新发现 (3 条)
 
-### 特朗普的“大麻烦”：40万亿美元债务，6.5%按揭利率与5美元柴油价格
+### 莱维特要离职，特朗普“很生气”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-08-23 01:39
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE53M3FRU2YxUVF0ZXdqVGV2M3VFVXVoc2Q1ZExKUXFkNXh2eWJSMk9PVUI3bWlHenJLY0VDN3RocWpCaDV1dl9jcTczeGVpbk5BS3kw?oc=5>
+- 场馆: finance.sina.com.cn
+- 时间: 2026-08-23 04:51
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBzX0NxUGc0NmNRM1hpRXBCQkRkcTdGc0trWm5CVFdSdGtGVHVrV0tuQmZOT0NrVnB0VFhmM2Q5bXpwRTdtTkpNRzVfUGlKLTcyWXBDTU5XQWtBamxHRWdzbWxIVWFDbXRxSWg1MjFNb1NsSWhicHVRWg?oc=5>
+
+### 特朗普：如有需要将出动美军干预债市
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: finance.sina.com.cn
+- 时间: 2026-08-22 04:11
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMExaUDhEcUl5LXFyZE84UThqbWc4X3V3QXg5TThDdXlQRUxaa3V2T19XSmI0bk4xTDBQZlpxSVhpMlVMRmpQcHVCOGlxMURubXRsT2V0QU1wLXRaWXJDTnBTaFhxSXB0TjJmdXFPdGlJXy1tc0NWTkFTcXMtX3dmZ0hrTU1idDQ0N3c5UFVyUlBGRjlzZ2ZyY24tN0x1cnJBaUhQcm5yTDVtRjZ2bEszN2FzUTd0MEEzRHE2NnNDb2gxbFBzVUZmUUZOazdiQVN5?oc=5>
+
+### Trump，6月股票交易逾千笔……和平协议次日卖出- 阿视亚经济
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 아시아경제
+- 时间: 2026-08-23 03:21
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wc0d3VktLTmRRZU9kNEhmUkRXcG1JakxkdWlZUmlmTVJWbmRkdzJyYlR2TE90b2pQcE96MDZKQk1GU2ZhR3V5NjJyQWtNZzRoSzZEcFh0ZjNBUko4NWdyelByeVU?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-23 05:00  (3 条)
+
+- **特朗普** | 莱维特要离职，特朗普“很生气” <https://news.google.com/rss/articles/CBMieEFVX3lxTFBzX0NxUGc0NmNRM1hpRXBCQkRkcTdGc0trWm5CVFdSdGtGVHVrV0tuQmZOT0NrVnB0VFhmM2Q5bXpwRTdtTkpNRzVfUGlKLTcyWXBDTU5XQWtBamxHRWdzbWxIVWFDbXRxSWg1MjFNb1NsSWhicHVRWg?oc=5>
+- **特朗普** | 特朗普：如有需要将出动美军干预债市 <https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMExaUDhEcUl5LXFyZE84UThqbWc4X3V3QXg5TThDdXlQRUxaa3V2T19XSmI0bk4xTDBQZlpxSVhpMlVMRmpQcHVCOGlxMURubXRsT2V0QU1wLXRaWXJDTnBTaFhxSXB0TjJmdXFPdGlJXy1tc0NWTkFTcXMtX3dmZ0hrTU1idDQ0N3c5UFVyUlBGRjlzZ2ZyY24tN0x1cnJBaUhQcm5yTDVtRjZ2bEszN2FzUTd0MEEzRHE2NnNDb2gxbFBzVUZmUUZOazdiQVN5?oc=5>
+- **Trump** | Trump，6月股票交易逾千笔……和平协议次日卖出- 阿视亚经济 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wc0d3VktLTmRRZU9kNEhmUkRXcG1JakxkdWlZUmlmTVJWbmRkdzJyYlR2TE90b2pQcE96MDZKQk1GU2ZhR3V5NjJyQWtNZzRoSzZEcFh0ZjNBUko4NWdyelByeVU?oc=5>
 
 ### 2026-08-23 04:08  (1 条)
 
