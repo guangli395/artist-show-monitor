@@ -1,23 +1,13 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-23 20:14**
-- 本轮扫到 10479 条, 新增 **1** 条
+- 最近更新: **2026-08-23 20:46**
+- 本轮扫到 10479 条, 新增 **0** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮无新增
 
-### TRUMP代币团队地址转出383.7万枚至OKX，价值约933万美元
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: TradingView
-- 时间: 2026-08-23 00:43
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE04MlV4ajZXX0w3NU44YmgtSHRtMENIRVFPSU14MW1rN0FqYklXN05vWE9QTVg5R3ozZmJsUk8zUXNITnFlX3l5Z3l4UWlhQ3F3MEx3UGdjQ2t4aG45TDJJV28yMVFWUQ?oc=5>
-
-
----
-
+数据库里所有演出/动态都已见过,暂无新增。
 ## 历史发现
 
 ### 2026-08-23 20:14  (1 条)
