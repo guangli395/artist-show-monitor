@@ -1,32 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-23 15:15**
-- 本轮扫到 10465 条, 新增 **2** 条
+- 最近更新: **2026-08-23 15:44**
+- 本轮扫到 10466 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (1 条)
 
-### 一个月交易1051笔，特朗普最新调仓曝光
+### 特朗普投资账户6月交易上千笔，金融股成重仓方向
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网财经
-- 时间: 2026-08-23 05:08
-- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE5meTRBdi1Ub0hEdzVQdERYTldtVmpKVUx5YW1Jb3lvSUwzS0xFQnNTd1NGS29EdzVDXzkwS25MQ0E1WTZ3NGVfX3EwZzB0SC1h?oc=5>
-
-### TRUMP代币团队地址转出383.7万枚至OKX，价值约933万美元
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: TradingView
-- 时间: 2026-08-23 00:43
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBVzZXMi1oOGZMNVVHb3dEcnIyZE1ZZFFHdjZLbG1ZOW1EYjlLS3l5cDlDMmFJODhsX09uTDB0X2xvVURiNmUyRnFnNHZ3bWZUeW9MRnphaFNVMTVPRVlJeHVOQ09HQWM?oc=5>
+- 场馆: 华尔街见闻
+- 时间: 2026-08-23 06:10
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTFB5T2QwS283bl9ZZlIyM2RoY2V5bU1jYWJSSVBuT3dxZzhrUjZ1WkQ4QkIwSGRwcjd2NXhod1lWcHQ0TmlxWEtTQUI0b3k3WDhmWmxN?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-23 15:44  (1 条)
+
+- **特朗普** | 特朗普投资账户6月交易上千笔，金融股成重仓方向 <https://news.google.com/rss/articles/CBMiU0FVX3lxTFB5T2QwS283bl9ZZlIyM2RoY2V5bU1jYWJSSVBuT3dxZzhrUjZ1WkQ4QkIwSGRwcjd2NXhod1lWcHQ0TmlxWEtTQUI0b3k3WDhmWmxN?oc=5>
 
 ### 2026-08-23 15:15  (2 条)
 
