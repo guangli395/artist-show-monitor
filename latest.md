@@ -1,14 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-23 14:16**
-- 本轮扫到 10462 条, 新增 **0** 条
+- 最近更新: **2026-08-23 14:46**
+- 本轮扫到 10463 条, 新增 **1** 条
 
 ---
 
-## 本轮无新增
+## 本轮新发现 (1 条)
 
-数据库里所有演出/动态都已见过,暂无新增。
+### 最后关头，白宫撤回威胁，特朗普罕见屈辱退让，换中国放美国一马
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 搜狐网
+- 时间: 2026-08-23 13:10
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxPSm1GQ0JJYU5GV0JRazZJNUNiY0sydmhaaGZ4aW1TVU8zZnVWejBOUGVoSGlEbF9kMUNtX2JSNlZkbGt5dGdPS09zU3N0Q0xxdWo2OUxRTEV2Y090VFlSQmt5WnVBMm55cjRnSURyTkptRHhVX0cwVmZVT2t2LXJZUV9qWkNBbmZWMVE4RQ?oc=5>
+
+
+---
+
 ## 历史发现
+
+### 2026-08-23 14:46  (1 条)
+
+- **特朗普** | 最后关头，白宫撤回威胁，特朗普罕见屈辱退让，换中国放美国一马 <https://news.google.com/rss/articles/CBMijAFBVV95cUxPSm1GQ0JJYU5GV0JRazZJNUNiY0sydmhaaGZ4aW1TVU8zZnVWejBOUGVoSGlEbF9kMUNtX2JSNlZkbGt5dGdPS09zU3N0Q0xxdWo2OUxRTEV2Y090VFlSQmt5WnVBMm55cjRnSURyTkptRHhVX0cwVmZVT2t2LXJZUV9qWkNBbmZWMVE4RQ?oc=5>
 
 ### 2026-08-23 13:52  (2 条)
 
