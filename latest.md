@@ -1,40 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-23 18:55**
-- 本轮扫到 10475 条, 新增 **3** 条
+- 最近更新: **2026-08-23 19:18**
+- 本轮扫到 10478 条, 新增 **3** 条
 
 ---
 
 ## 本轮新发现 (3 条)
 
-### 特朗普宣布进口牛肉，承诺“售价比当前市场价格低25%”，共和党议员不干了
+### 特朗普6月进行上千笔证券交易 总金额最高逾2.6亿美元
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-08-23 07:40
-- 链接: <https://news.google.com/rss/articles/CBMirAFBVV95cUxNT1ZqTVYxd0o2N2poaktMdXdkeTZNbGt3cEpkLUluQkJzVXdsOXBJcC0tUFNESlltUnd2UHFGMHJ6WVVla3NtTTZUeW5RaTVILWRkaS0wa0NVMXJreWlRekRXdnVJTlRrUGNGenExQWprSWN1LVlMWGxieXR3bEdZcDIwOXU2Ql9kNFZvd2hMbzVRaDJhZFNyS3lIdFBBNjliZGFvVFA1b29UMlJu?oc=5>
+- 场馆: 联合早报
+- 时间: 2026-08-23 01:58
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SWWhWVXJsOWRmRV90T19oaGl2N3dLWjRrbzg4OEd0M2lYYVh0aEQ0bGFpc3l4RWRHSFlHRjV1Q3dxYlZYMDlELXpBbjVJSkdzQTkyVGlYY3lnNkpkeHRUNVQzSVlXdw?oc=5>
 
-### 特朗普“守门人”再出争议：为传播“选举舞弊”发超百条帖子
+### 特朗普，打光了弹药？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-23 10:37
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFB6Z1REbjRHV2c5eHhwQXZUejZQOGxjYVhrTVo3Q2VQNDUwdkpBVHJxQ2lVcGdoZ29Pa3RHVGx0Zm8wUGhtX0V0THVjZjQ?oc=5>
+- 场馆: QQ News
+- 时间: 2026-08-21 16:00
+- 链接: <https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TQ09IRHY3TmZTWHRLUDctYnc3LTZKMC1NdU1oazZYSHBYZkxqTFVpS0xTd1NPblhNd0dFSTNSWWVNWkRwbno2NUdtc3FmaEQ4RmJWYmVB?oc=5>
 
-### 梅洛尼谈与特朗普的关系：原以为事情会更容易一些
+### 川普女助理引关注 梅拉尼娅露面：听说你们想我
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: 文学城
-- 时间: 2026-08-22 13:56
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ieUQtRE1XNVE5bVF4R21kQy1vOXI0UDhENGd3Q2w5Q1RNRDNXVnRsS3NQcFJoZTM2RFAyNXBnaWpBbURhX04zU19xcnhabDJzbU1oRktyamg2Y2dXWVp3Q0NvQWY1Qjl3?oc=5>
+- 时间: 2026-08-23 16:07
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE52aU0tdzRWcFJQd015ekZQYXFiekdld3JicDVhUFkxbzVDLTdJb2c0dko2LWVfbVNVRmltN2NIbHlrYlg3XzJWSy1CdTVVYy1ycTNvbmUybGF0V3RuWi1WWWNreXBRTVRQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-23 19:18  (3 条)
+
+- **特朗普** | 特朗普6月进行上千笔证券交易 总金额最高逾2.6亿美元 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SWWhWVXJsOWRmRV90T19oaGl2N3dLWjRrbzg4OEd0M2lYYVh0aEQ0bGFpc3l4RWRHSFlHRjV1Q3dxYlZYMDlELXpBbjVJSkdzQTkyVGlYY3lnNkpkeHRUNVQzSVlXdw?oc=5>
+- **特朗普** | 特朗普，打光了弹药？ <https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TQ09IRHY3TmZTWHRLUDctYnc3LTZKMC1NdU1oazZYSHBYZkxqTFVpS0xTd1NPblhNd0dFSTNSWWVNWkRwbno2NUdtc3FmaEQ4RmJWYmVB?oc=5>
+- **Trump** | 川普女助理引关注 梅拉尼娅露面：听说你们想我 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE52aU0tdzRWcFJQd015ekZQYXFiekdld3JicDVhUFkxbzVDLTdJb2c0dko2LWVfbVNVRmltN2NIbHlrYlg3XzJWSy1CdTVVYy1ycTNvbmUybGF0V3RuWi1WWWNreXBRTVRQ?oc=5>
 
 ### 2026-08-23 18:55  (3 条)
 
