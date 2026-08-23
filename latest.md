@@ -1,31 +1,13 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-23 22:45**
-- 本轮扫到 10486 条, 新增 **2** 条
+- 最近更新: **2026-08-23 23:14**
+- 本轮扫到 10486 条, 新增 **0** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮无新增
 
-### 伊朗称参与美对伊“经济战”的周边国家将被视为敌人
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-22 07:00
-- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxPSkFzOVNHUHFfdE15cGZyRkJLNVMwN1o3MmRZMGVuOHhWdmd2Tm05LThSSFVBZEEtbFpUZWNrWkg2X240ZW55T1lzMFc5TGdQSTJnTlFLRUlhNjE3d05ISUhDZ1pQcERWNG9qaEdWc1JlQXJSZ203U3I5LW1oYjQwdU9fZ0Vib0hUbnhKMGs1ZjFzRGpZM1dhOW5RN3BzT2pH?oc=5>
-
-### TRUMP日内上涨超10%，创今年4月份以来新高
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: TradingView
-- 时间: 2026-08-23 12:59
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE50TEJoX3luT1BYeGdGdkxqRDVuSjdJZnNJOGRLRk1NYVFkR2JqRERndnpCaEV1Z0IwN1FsejBEQXdtYUpRSERRS1dlUmpDOWNvR1ByZlhvOENkdTZaWTBOU3Buek9QQQ?oc=5>
-
-
----
-
+数据库里所有演出/动态都已见过,暂无新增。
 ## 历史发现
 
 ### 2026-08-23 22:45  (2 条)
