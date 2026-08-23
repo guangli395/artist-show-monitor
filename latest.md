@@ -1,48 +1,85 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-23 05:35**
-- 本轮扫到 10439 条, 新增 **4** 条
+- 最近更新: **2026-08-23 06:29**
+- 本轮扫到 10447 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (8 条)
 
-### 对伊朗搞“史上最强经济封锁”？特朗普至少算漏了三件事
+### 周杰伦后续场次开票时间怎么查？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068014m6m.html>
+
+### 周杰伦演唱会代抢和黄牛票风险有多大？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068014m6g.html>
+
+### 周杰伦演唱会实名制下如何提高抢票效率？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068014m6k.html>
+
+### 美国总统特朗普在社交媒体发文：加拿大多年来也向美国农民征收了巨额关税
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-08-22 16:00
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFB5V1BYLUZSd0FxWFNDbEN2TFJDVWtHRnJMVDJfbXMwYWR2SC0zdng1Q2NnLU5INTBNZFM5OFYzbDJSS0NIMXdKaVNIdGF0dGRBUjhDdzBmbXZid3FsYTA1VGE3akhUMGdDZERiejRmb1QtQUpfWmI5MQ?oc=5>
+- 时间: 2026-08-23 05:10
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1vaFZ3RVNOaFBWSkZ2S1NJX2U0Y1F5QmpyMVQ3dTJ0YjVkOWFWS21tbWFjWjRLR2RnS2hLaWx1RlhpQmd2RkdaMEdaSGI1WjJfS3c0cHRCZDRxcVRaMjBvUVpTSlNkTmZoaE1FYjRPbkIteFE2NEN5aA?oc=5>
 
-### 特朗普披露6月投资组合“大换血”：减持Meta 买入伯克希尔等股票
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-08-23 00:59
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE1BZDlpRnlKYUtyamFka0llVmNvdzhYRDhnVDNXdnZqQUViZDhEaXMzd0Q5M2oxUjNXYzlfTHBMN3NOQ3pZMVNJTw?oc=5>
-
-### 特朗普6月进行上千笔证券交易 最高达2.6亿美元
+### 特朗普：布雷德将离职
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-08-23 01:58
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5UdWJZTmkzNmRsdF9rLUFaY3pZZWdYUXNNWXo5QWhVWUk2VDJzcnZja1JJQ3VDeWNaWjc4MXVoZW5XVXN2TTdNUHBERHUxdGExVVdVVmdoUDhEbzFJbnNsWVMtaFZtQ1FJNFE?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-08-22 08:55
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTFBBRGI3RkpLZDRLYnprRnRBNnIyTGlCQjd6bzJvT1NmWDRScGxyYVpGc3N2OVVxUEhYQkJiVE05S0NYZVN1WnBSMllJcVZPMWpTSEdvV0RrajU4WGRTUXZUaUxld3oyMng3aFFEN09ySTdyMVc5?oc=5>
 
-### 特朗普6月交易曝光，规模达数千万至上亿美元，投资组合“大换血”
+### 特朗普最新调仓曝光：抛售Meta等股票、买入伯克希尔
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-08-23 05:17
-- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd3NCNEVkZXI5X0ZSbG1NcVN6ZVJqMmVhWnNnVHU5R0RyRUVyQ095WUFZSGN3ZFVNaHpmNVBySGMyV0RoQ1hxOGFTQkJJRF9CS294STJEOUpUYWE5d1RpeEJwR1cxRFY1SUdzemhHWG9XOTRaZEVxQnppQXVXMmhNYmJuRmN6Yi01?oc=5>
+- 场馆: 凤凰网财经
+- 时间: 2026-08-23 00:35
+- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE9zbGo0MzRWc1dzUDEzNUN1bUpFM0lSTXAycERfc3dKYWtJOTZLY01RcGFrcmQ3bHBsblROYm0tRzEwSmZYTVd1NWJTMkRtYTF5?oc=5>
+
+### 总额最高达2.6亿美元！特朗普股票交易，6月份超1000笔
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-23 00:04
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1tbTNZeHprTTVTN2NJbF9ieS1Wa19tNGV0dUtzLWhMOU9MTUJtZUVnUXp4NkxyU2RDM290MHEyS2JTYkFtQk9oOUpNS0h3NUdnNkhUOEdJNUJJdVlqVVRpbUlvQWk1UDZzTlBhWjVzYWVMLW1LZ1lXUQ?oc=5>
+
+### 混沌科技 (@Jcy22719)的见解
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Binance
+- 时间: 2026-08-23 04:28
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE05U1VnTWEyZmxNRlZhZC1vNWZPQ2ZJcm8tUTVITW9EN3NUalkyZ2poRFJCamU0S084TEtNcjdCaHFCRDNvTWh5a3pZUWFnakVoMnVCUlFFRmFPZExWWXlENndyX0JLLU1x?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-23 06:29  (8 条)
+
+- **周杰伦** | 周杰伦后续场次开票时间怎么查？ <https://k.sina.com.cn/article_7879776356_1d5abd864068014m6m.html>
+- **周杰伦** | 周杰伦演唱会代抢和黄牛票风险有多大？ <https://k.sina.com.cn/article_7879776356_1d5abd864068014m6g.html>
+- **周杰伦** | 周杰伦演唱会实名制下如何提高抢票效率？ <https://k.sina.com.cn/article_7879776356_1d5abd864068014m6k.html>
+- **特朗普** | 美国总统特朗普在社交媒体发文：加拿大多年来也向美国农民征收了巨额关税 <https://news.google.com/rss/articles/CBMieEFVX3lxTE1vaFZ3RVNOaFBWSkZ2S1NJX2U0Y1F5QmpyMVQ3dTJ0YjVkOWFWS21tbWFjWjRLR2RnS2hLaWx1RlhpQmd2RkdaMEdaSGI1WjJfS3c0cHRCZDRxcVRaMjBvUVpTSlNkTmZoaE1FYjRPbkIteFE2NEN5aA?oc=5>
+- **特朗普** | 特朗普：布雷德将离职 <https://news.google.com/rss/articles/CBMidEFVX3lxTFBBRGI3RkpLZDRLYnprRnRBNnIyTGlCQjd6bzJvT1NmWDRScGxyYVpGc3N2OVVxUEhYQkJiVE05S0NYZVN1WnBSMllJcVZPMWpTSEdvV0RrajU4WGRTUXZUaUxld3oyMng3aFFEN09ySTdyMVc5?oc=5>
+- **特朗普** | 特朗普最新调仓曝光：抛售Meta等股票、买入伯克希尔 <https://news.google.com/rss/articles/CBMiUEFVX3lxTE9zbGo0MzRWc1dzUDEzNUN1bUpFM0lSTXAycERfc3dKYWtJOTZLY01RcGFrcmQ3bHBsblROYm0tRzEwSmZYTVd1NWJTMkRtYTF5?oc=5>
+- **特朗普** | 总额最高达2.6亿美元！特朗普股票交易，6月份超1000笔 <https://news.google.com/rss/articles/CBMieEFVX3lxTE1tbTNZeHprTTVTN2NJbF9ieS1Wa19tNGV0dUtzLWhMOU9MTUJtZUVnUXp4NkxyU2RDM290MHEyS2JTYkFtQk9oOUpNS0h3NUdnNkhUOEdJNUJJdVlqVVRpbUlvQWk1UDZzTlBhWjVzYWVMLW1LZ1lXUQ?oc=5>
+- **Trump** | 混沌科技 (@Jcy22719)的见解 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE05U1VnTWEyZmxNRlZhZC1vNWZPQ2ZJcm8tUTVITW9EN3NUalkyZ2poRFJCamU0S084TEtNcjdCaHFCRDNvTWh5a3pZUWFnakVoMnVCUlFFRmFPZExWWXlENndyX0JLLU1x?oc=5>
 
 ### 2026-08-23 05:35  (4 条)
 
