@@ -1,32 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-23 03:28**
-- 本轮扫到 10431 条, 新增 **2** 条
+- 最近更新: **2026-08-23 04:08**
+- 本轮扫到 10432 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (2 条)
-
-### 莱维特透露离职后去向
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-08-23 01:21
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE5OY09Tano0STVReHhBTFJuQm1McFBZWW1tRDNRMl90SVd4d3hlQUFJdlZEZHQyb1c2SnlORTNRazJTX3Ftd0xhMUxiWmlCeWI3QWdIbFg2V19raXE5NEtlekFxWDN2aFRpMWVaY0Itd2hFMVZXVVFlOWZLM0hJTDA?oc=5>
+## 本轮新发现 (1 条)
 
 ### 特朗普的“大麻烦”：40万亿美元债务，6.5%按揭利率与5美元柴油价格
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-23 01:51
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxPWGhLQl9xLVJ1TzhIWEFVSFBFMjQtZlZyZEJOcFVCd2VnR2lTelV6anZQSXUwaXV2MEMxQzhTMmp4bWdVVEZHLXFOd2RYemVTdnhhcUF5aHQ4eWJqaXZJeExKS1VfTERuZ1hBMk0wLXJpX29ndzlYTkgxLWdXcU5Pa0hYU0prdWM?oc=5>
+- 场馆: 华尔街见闻
+- 时间: 2026-08-23 01:39
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE53M3FRU2YxUVF0ZXdqVGV2M3VFVXVoc2Q1ZExKUXFkNXh2eWJSMk9PVUI3bWlHenJLY0VDN3RocWpCaDV1dl9jcTczeGVpbk5BS3kw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-23 04:08  (1 条)
+
+- **特朗普** | 特朗普的“大麻烦”：40万亿美元债务，6.5%按揭利率与5美元柴油价格 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE53M3FRU2YxUVF0ZXdqVGV2M3VFVXVoc2Q1ZExKUXFkNXh2eWJSMk9PVUI3bWlHenJLY0VDN3RocWpCaDV1dl9jcTczeGVpbk5BS3kw?oc=5>
 
 ### 2026-08-23 03:28  (2 条)
 
