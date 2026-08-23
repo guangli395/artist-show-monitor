@@ -1,39 +1,13 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-23 19:18**
-- 本轮扫到 10478 条, 新增 **3** 条
+- 最近更新: **2026-08-23 19:43**
+- 本轮扫到 10478 条, 新增 **0** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮无新增
 
-### 特朗普6月进行上千笔证券交易 总金额最高逾2.6亿美元
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-08-23 01:58
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SWWhWVXJsOWRmRV90T19oaGl2N3dLWjRrbzg4OEd0M2lYYVh0aEQ0bGFpc3l4RWRHSFlHRjV1Q3dxYlZYMDlELXpBbjVJSkdzQTkyVGlYY3lnNkpkeHRUNVQzSVlXdw?oc=5>
-
-### 特朗普，打光了弹药？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: QQ News
-- 时间: 2026-08-21 16:00
-- 链接: <https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TQ09IRHY3TmZTWHRLUDctYnc3LTZKMC1NdU1oazZYSHBYZkxqTFVpS0xTd1NPblhNd0dFSTNSWWVNWkRwbno2NUdtc3FmaEQ4RmJWYmVB?oc=5>
-
-### 川普女助理引关注 梅拉尼娅露面：听说你们想我
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 文学城
-- 时间: 2026-08-23 16:07
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE52aU0tdzRWcFJQd015ekZQYXFiekdld3JicDVhUFkxbzVDLTdJb2c0dko2LWVfbVNVRmltN2NIbHlrYlg3XzJWSy1CdTVVYy1ycTNvbmUybGF0V3RuWi1WWWNreXBRTVRQ?oc=5>
-
-
----
-
+数据库里所有演出/动态都已见过,暂无新增。
 ## 历史发现
 
 ### 2026-08-23 19:18  (3 条)
