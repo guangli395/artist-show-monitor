@@ -1,74 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-23 06:29**
-- 本轮扫到 10447 条, 新增 **8** 条
+- 最近更新: **2026-08-23 07:11**
+- 本轮扫到 10448 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (1 条)
 
-### 周杰伦后续场次开票时间怎么查？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068014m6m.html>
-
-### 周杰伦演唱会代抢和黄牛票风险有多大？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068014m6g.html>
-
-### 周杰伦演唱会实名制下如何提高抢票效率？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068014m6k.html>
-
-### 美国总统特朗普在社交媒体发文：加拿大多年来也向美国农民征收了巨额关税
+### 特朗普再称：霍尔木兹海峡是美国的领土！他还称伊朗非常渴望达成协议
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-23 05:10
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1vaFZ3RVNOaFBWSkZ2S1NJX2U0Y1F5QmpyMVQ3dTJ0YjVkOWFWS21tbWFjWjRLR2RnS2hLaWx1RlhpQmd2RkdaMEdaSGI1WjJfS3c0cHRCZDRxcVRaMjBvUVpTSlNkTmZoaE1FYjRPbkIteFE2NEN5aA?oc=5>
-
-### 特朗普：布雷德将离职
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-08-22 08:55
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTFBBRGI3RkpLZDRLYnprRnRBNnIyTGlCQjd6bzJvT1NmWDRScGxyYVpGc3N2OVVxUEhYQkJiVE05S0NYZVN1WnBSMllJcVZPMWpTSEdvV0RrajU4WGRTUXZUaUxld3oyMng3aFFEN09ySTdyMVc5?oc=5>
-
-### 特朗普最新调仓曝光：抛售Meta等股票、买入伯克希尔
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网财经
-- 时间: 2026-08-23 00:35
-- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE9zbGo0MzRWc1dzUDEzNUN1bUpFM0lSTXAycERfc3dKYWtJOTZLY01RcGFrcmQ3bHBsblROYm0tRzEwSmZYTVd1NWJTMkRtYTF5?oc=5>
-
-### 总额最高达2.6亿美元！特朗普股票交易，6月份超1000笔
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-23 00:04
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1tbTNZeHprTTVTN2NJbF9ieS1Wa19tNGV0dUtzLWhMOU9MTUJtZUVnUXp4NkxyU2RDM290MHEyS2JTYkFtQk9oOUpNS0h3NUdnNkhUOEdJNUJJdVlqVVRpbUlvQWk1UDZzTlBhWjVzYWVMLW1LZ1lXUQ?oc=5>
-
-### 混沌科技 (@Jcy22719)的见解
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Binance
-- 时间: 2026-08-23 04:28
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE05U1VnTWEyZmxNRlZhZC1vNWZPQ2ZJcm8tUTVITW9EN3NUalkyZ2poRFJCamU0S084TEtNcjdCaHFCRDNvTWh5a3pZUWFnakVoMnVCUlFFRmFPZExWWXlENndyX0JLLU1x?oc=5>
+- 场馆: 东方财富
+- 时间: 2026-08-21 00:36
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9WalR4b0s5a1BKUlRZenVsX19wbW0tUVppU0NHLUliY1BaM2NyeEdsby1tQ2VmSmhVanQySldaOHhLTm8weG5jY0NjYzVCSk5Od2NqTGRSSEJKTW05MkdtUFFFMUtCQQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-23 07:11  (1 条)
+
+- **特朗普** | 特朗普再称：霍尔木兹海峡是美国的领土！他还称伊朗非常渴望达成协议 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9WalR4b0s5a1BKUlRZenVsX19wbW0tUVppU0NHLUliY1BaM2NyeEdsby1tQ2VmSmhVanQySldaOHhLTm8weG5jY0NjYzVCSk5Od2NqTGRSSEJKTW05MkdtUFFFMUtCQQ?oc=5>
 
 ### 2026-08-23 06:29  (8 条)
 
