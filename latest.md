@@ -1,40 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-24 07:35**
-- 本轮扫到 10510 条, 新增 **3** 条
+- 最近更新: **2026-08-24 08:39**
+- 本轮扫到 10511 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (1 条)
 
-### 人均“十万加”，特朗普考虑出兵干预
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-08-22 22:27
-- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxNR0UwYWhtdXpRcWtZYmlYXzhTU0tnOEkyVmJWSTV6eldqRWhvbjFlYUVnY2tPSk9OaVR5cXBUN3RucENMbnM1T19qck40R3JtNTN0VHB1VzdtM2R3VGJlZlpsdVJIN1g1U2Z3ajhZUzNLMlJhemY3cWpQZmFWdk5pb3hVWQ?oc=5>
-
-### 白宫前上演时速300公里的“飙车”，特朗普挥旗后，赛场发生连环撞车
+### 特朗普：若输掉中期选举将被弹劾，曝特朗普女婿已秘密接触，民主党高层 为选举失利做准备，特朗普曾称对方为“低智商”人士
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 搜狐网
-- 时间: 2026-08-24 07:08
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ1dLbkEzMTlnenRyRVFnXzJLR3JtR2UtLUpyVW1wdGg4b2l2QnFBcVJfeHdhaFEwZzNzYXhBdmQxaTFqcUlVS3dMTGtXUUM5MEp0cm41ak1RMlUxczZYSGxDdEJrTnhGVG1rMWEycXlkQXRDeVJhN2dWMUxfbDRmd3JoUktIcXVFYlQxVw?oc=5>
-
-### 特朗普面临重大健康风险
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-08-24 05:57
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1IaVN3RlRRdmtkd0NXMFBnQ29LV0hfRjZWLVZsV0gtUGFWRjdfc3d2bV9rN1Q0SGtUdVRuZWY1WG15eE1MLVpUQy1mNXpjZzFnbkNxc0RFaWp6OGV6SkJ6dlQ3cWtDZzdmVkE?oc=5>
+- 时间: 2026-08-24 07:47
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaFFIWGhLaUkzaWo3U0daUTVZR05LZkZQMUlLcGVqcE41cDZoeko5M3Jrd3BBT0dMWlBBZjVFWVNXdmt1bGRGYU4td3E2Vy1oVk96dHdXNkhab29kZGpCbHE5cUNvb1lDTmdNMS1mVzNlbjVOdXFITHNkSnlUR1NJeUpybE1zT0ND?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-24 08:39  (1 条)
+
+- **特朗普** | 特朗普：若输掉中期选举将被弹劾，曝特朗普女婿已秘密接触，民主党高层 为选举失利做准备，特朗普曾称对方为“低智商”人士 <https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaFFIWGhLaUkzaWo3U0daUTVZR05LZkZQMUlLcGVqcE41cDZoeko5M3Jrd3BBT0dMWlBBZjVFWVNXdmt1bGRGYU4td3E2Vy1oVk96dHdXNkhab29kZGpCbHE5cUNvb1lDTmdNMS1mVzNlbjVOdXFITHNkSnlUR1NJeUpybE1zT0ND?oc=5>
 
 ### 2026-08-24 07:35  (3 条)
 
