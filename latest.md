@@ -1,56 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-24 03:29**
-- 本轮扫到 10499 条, 新增 **5** 条
+- 最近更新: **2026-08-24 04:22**
+- 本轮扫到 10502 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (3 条)
 
-### 欧媒：特朗普把石头运到意大利，雕刻白宫宴会厅的立柱
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: QQ News
-- 时间: 2026-08-24 00:41
-- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTE9BaEo3UDVRemhDRFpFSUs3Wm4tUmRobkItUXJXZmJBSmltUHFfbGlLNHZ3OExKYUJseHlibld3RjlkbXpIdEtXT0s1Vm8yellDZXZVMURKQlNjSG01cW9mSDMzOW5IbDFnSWF4dDV3?oc=5>
-
-### 特朗普的至暗周末：盟友掀桌、法官打脸、敌人叫板、对手破纪录
+### 特朗普把石头运到意大利，雕刻白宫宴会厅的立柱
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-08-24 00:09
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9fZmV5Zzk1TjlPLXc5Ykh6d2thZzVmRHdvcnNHN1JpNUpNckx4eW9FZGRmT19FMF9GQlFTRllIUXJUdlNMOFJsU2lEM0tvSVRvcnBhUjF6UEdVelA1M3lERGVRZUtXLXJ6X3c?oc=5>
+- 场馆: 文学城
+- 时间: 2026-08-24 03:09
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xQ004eHVINmR5cFhGX0JRNkE5cnZnTTQxVDJPVUx0UVloamZqZ2V4dGN6Q3ZXencyb3M0OGpiNmtGN0JmQVQ0Z3hfS25fczh3Vk5BNjhTVVp2MERodEp1RENJZi1SQjdy?oc=5>
 
-### 特朗普回应“莱维特继任者”
+### 特朗普美女助手私密信曝光：我配不上你
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 京报网
-- 时间: 2026-08-24 01:15
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XMkYxcTZFdHE0R0d6eVAzamhTQ0pKMFE5bHNhaC1DWWhNS0ZvVlI2TV9QWEpWN2p2ZGh3dXF1S0RsaTdLVTJRWkR0MnYtWWRGYmg4UFJteDVqcXA5aVE?oc=5>
+- 场馆: 搜狐网
+- 时间: 2026-08-24 03:23
+- 链接: <https://news.google.com/rss/articles/CBMihgFBVV95cUxQSW12Y3kwcFNES1djXzUwUU9oWV90TG9mYmd5TWVoUXFnck5IUFo3STUzYUVYZkhYdnFFNGVGRmtQRjRuVnVRNnFtYWR6UU9tVDE5bmNodmhYc2Z4RjNsek1aaE05WkZZZ1Boa09nODVMM2ZRZUplTlhKVGxTOEFqMkhuM05HUQ?oc=5>
 
-### 继Taylor Swift，Ariana Grande也警告Donald Trump勿用她的音乐！
+### 特朗普的干预如何让司法部放过了Live Nation
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: vibes by 8world
-- 时间: 2026-08-24 03:05
-- 链接: <https://news.google.com/rss/articles/CBMirgFBVV95cUxQRWQ0bExXZV9SUjUtZVV0R3FReWgyOFFjYnhOV1RmYWdqVE5yVTRWQVV0LXRqdGV6Tl8wN1VPb1A5VWF6ZkIwQ2dESkp3VC15VkZtYkQ2NkV1eDZMWlJaZnZuMFdoaEFpYmNsMVNTVm9nRk84c2ZyQXp3emkzNU1jSTFpTUNfZzFXV3RZLUNSXzdXNGctX19Vd1F1bjNKUkY1dnNaU0NDRk1EVmNxMUE?oc=5>
-
-### 详解美加贸易战：北美传统盟友关系因何破裂
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-08-24 02:37
-- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTE9KUWozenNJQ25wMndUcHRjaXNJcnFkSjdKTGpNYjVFX0ctTkJFSGV4Y3R1OC1vSEFveUZZSG1TSVNyQXlkRGV1ZTBLMDdQOVlwZzBOX2RMUU9YUEExalh3dFVCQUVqWW5tY2NvdENwTUhDZXZ5dnV4SndqSQ?oc=5>
+- 场馆: 华尔街日报中文网
+- 时间: 2026-08-24 03:58
+- 链接: <https://news.google.com/rss/articles/CBMid0FVX3lxTE5OeU1TY2FOX18zcTB3MDZqd1ZxOFg1QlQ3NEtuc2NMVXNGcXk1Qm51Yy1sOEh6aS1CRHZ3THBSaHRFVkV1VURxM2NFU25Wemd1UEJOZVhzZ01BMDAyYXR5ZVhuTTAtRm5HMEVlWUFGMG1MOGkxR0xZ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-24 04:22  (3 条)
+
+- **特朗普** | 特朗普把石头运到意大利，雕刻白宫宴会厅的立柱 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xQ004eHVINmR5cFhGX0JRNkE5cnZnTTQxVDJPVUx0UVloamZqZ2V4dGN6Q3ZXencyb3M0OGpiNmtGN0JmQVQ0Z3hfS25fczh3Vk5BNjhTVVp2MERodEp1RENJZi1SQjdy?oc=5>
+- **特朗普** | 特朗普美女助手私密信曝光：我配不上你 <https://news.google.com/rss/articles/CBMihgFBVV95cUxQSW12Y3kwcFNES1djXzUwUU9oWV90TG9mYmd5TWVoUXFnck5IUFo3STUzYUVYZkhYdnFFNGVGRmtQRjRuVnVRNnFtYWR6UU9tVDE5bmNodmhYc2Z4RjNsek1aaE05WkZZZ1Boa09nODVMM2ZRZUplTlhKVGxTOEFqMkhuM05HUQ?oc=5>
+- **Trump** | 特朗普的干预如何让司法部放过了Live Nation <https://news.google.com/rss/articles/CBMid0FVX3lxTE5OeU1TY2FOX18zcTB3MDZqd1ZxOFg1QlQ3NEtuc2NMVXNGcXk1Qm51Yy1sOEh6aS1CRHZ3THBSaHRFVkV1VURxM2NFU25Wemd1UEJOZVhzZ01BMDAyYXR5ZVhuTTAtRm5HMEVlWUFGMG1MOGkxR0xZ?oc=5>
 
 ### 2026-08-24 03:29  (5 条)
 
