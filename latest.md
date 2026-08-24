@@ -1,32 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-24 18:33**
-- 本轮扫到 10538 条, 新增 **2** 条
+- 最近更新: **2026-08-24 19:23**
+- 本轮扫到 10539 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (1 条)
 
-### 特朗普的安全谎言，被彻底戳穿了
+### 特朗普政府提议对H-1B签证申请收取10.3万美元费用
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-24 13:22
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE81SGU5WnV3bl9lUjlUSFpZTGFUZk9lSkFfeHVBS2s2YTY2d0x3NXZiRFZvajJIQXZqNnVRckhaSHBoWWM2MXRqUEpHbzI?oc=5>
-
-### 特朗普誓言明年1月提高对加拿大汽车与钢铁的关税
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-08-24 18:17
-- 链接: <https://news.google.com/rss/articles/CBMivAFBVV95cUxNZlBhWXIweWVDOXNaNWR6SWlmSUY2VndJN21Md3d3YmtjbTZJVW4wZUNFcjRzZmhORGVyeFJvNFU0X3RzN0FmdEMtbWFWQ24yRWhzM2RiQlFFZC05WVMtTEVtSTlWdk56ZkZxbldSSk1nN1RSb28yOFdmR3FaNGZlUW5kaEdxYlF2UlE2Z09XRlRzNk13YkpMQm1fcXJ3aHJWM0h3NjYyVE8yTU03Q0tuT0hCLTIxT1N5UnpTX9IBvwFBVV95cUxOOXIyR2ptQ0lSSFhBdkU5WEQxenZZSkhrZ3RaUnVCTVBrTms0UGxSbGNUa3huMkh3MENqYk1yWUI4NF9fX1FHZFpZdngzWC1vN2duTW4zMUpNa1lQT3BlQ00wLVFaTkFqUWNQUjlsMzBlM0FXX09NZGFacnNWM0ZZQ05MX3V1RU5kU25JbHh0OFdaTEgtYmYzWGpaLXp1Y0Fqbl8zRjI5SUs5eEcyYjZvRlRjSDJqTVd1QUFtc3ZOYw?oc=5>
+- 场馆: RFI
+- 时间: 2026-08-24 18:49
+- 链接: <https://news.google.com/rss/articles/CBMizgJBVV95cUxQeGNmaWtBYXhsSUdJZkpkZng1dGRrN1R3aHNhS3B2TGNJa3FnVGRFbUlOb09VQXVMSWphOFExUm1tQzhncjQwa0YxR2hwS3RPMGVfUWZxWWF1bUk3a3FVd3dLeGpucjh3cjRsZ0diS003WnBKM0ptOVJMLVJHd25PZTNmc2RSZnRYQUtKR2lHaDlHT1VxR1YxUE5pdmNpOVJhZ3lqMW11MlBXaXU2Z2pQM0FTSnRKQTFXYkNQV21IbF9xSXBkZzMwRkNpZW5XRGhyR3M1VVJ0ejhlVGpZa3hUTWdxWUJpWGNKc0gzeWdjeXZtMmU4elpic3pHSHpjQ1hNazIzSFFaSm0wOTk0TUdVcTE0UHI2V1FUSjRScG9zSW5JR0U0eEY1dnVLWF9vd1dTa1AxUjl2QWlwdEtTWENaNVNPVTg0bEZKZHJ5eW93?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-24 19:23  (1 条)
+
+- **特朗普** | 特朗普政府提议对H-1B签证申请收取10.3万美元费用 <https://news.google.com/rss/articles/CBMizgJBVV95cUxQeGNmaWtBYXhsSUdJZkpkZng1dGRrN1R3aHNhS3B2TGNJa3FnVGRFbUlOb09VQXVMSWphOFExUm1tQzhncjQwa0YxR2hwS3RPMGVfUWZxWWF1bUk3a3FVd3dLeGpucjh3cjRsZ0diS003WnBKM0ptOVJMLVJHd25PZTNmc2RSZnRYQUtKR2lHaDlHT1VxR1YxUE5pdmNpOVJhZ3lqMW11MlBXaXU2Z2pQM0FTSnRKQTFXYkNQV21IbF9xSXBkZzMwRkNpZW5XRGhyR3M1VVJ0ejhlVGpZa3hUTWdxWUJpWGNKc0gzeWdjeXZtMmU4elpic3pHSHpjQ1hNazIzSFFaSm0wOTk0TUdVcTE0UHI2V1FUSjRScG9zSW5JR0U0eEY1dnVLWF9vd1dTa1AxUjl2QWlwdEtTWENaNVNPVTg0bEZKZHJ5eW93?oc=5>
 
 ### 2026-08-24 18:33  (2 条)
 
