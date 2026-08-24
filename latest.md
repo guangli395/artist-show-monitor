@@ -1,40 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-24 16:28**
-- 本轮扫到 10533 条, 新增 **3** 条
+- 最近更新: **2026-08-24 17:04**
+- 本轮扫到 10536 条, 新增 **3** 条
 
 ---
 
 ## 本轮新发现 (3 条)
 
-### 泽连斯基首谈与前防长“闹掰”，称国防部错误信息让他在特朗普面前“下不来台”
+### 金与正，没接特朗普的话
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-08-24 15:55
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE4tUFctY0V1SS1vWFMyQ29Na3VLaEVSLW52VkFNdmJWWmNEUnpRY2NVRG5mbkpwZVpGYjM0YkRDTjU4ZFZOa1l0V1hjNldaM1pkS3hfenJNek5yeVhEbXpONDlUQndhemp5SEc5amVUQ053UQ?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-08-24 08:16
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE51cFBpaFJzbzZSNUZ4ZmlSRi1qSnFkbmIzcWY5NGxISExGZEh3UFBFZldBNFBnc2M4ZEdaZnpYbmprckR2VEw1MzM2bmc?oc=5>
 
-### 人均“十万加”，特朗普考虑出兵干预
+### 特朗普：美对加拿大汽车和钢铁进口关税将提高至50%
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-08-22 22:27
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5PQWJ0dlZDd21JLXZhWkhucXBMOWQ1emJRejhjODRrVVE1WlI2RmVlbkR6cXpKcTBhenF5LWU2aTRmcVhFYmRxVTB5RjlsLXpYdnlUU3NMQlowQjRXT2E1WGZiZG9wME9udHRtRjNsalotYXhjUkk5SA?oc=5>
+- 场馆: 新华网
+- 时间: 2026-08-24 14:00
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBmbXRIZFpMdGl2VFY0WVNxbzNIN01VMzcwbm5Wb2M1Y1h1S2RuandONmpvSllrY3B4M2F0YTBZS3RHd1FVQ1NRZEdUUjlTMXg3U2VFZXFzbDZOWEFXXzZmb1dLbmdubUlkS3h5STJCamhCSmdRX3E4TkpkX0ZaNmc?oc=5>
 
-### 伊朗媒体播视频威胁特朗普幼子 传悬赏逾千万新元取其性命
+### 美国将在47年后解除对叙利亚的恐怖主义认定。
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-08-24 15:59
-- 链接: <https://news.google.com/rss/articles/CBMingFBVV95cUxQMVFuMEpUU1dWc1RhMjgwekpobVZ5Z3FuWHA5Z0VGYzNJajVycm5Scm0xWnNfVXlIbGF2eDN6VDl5SWtmWFBfTm43MEsyRXJLLXRPVXZyeGhJMmNHbk9hY2NKTlJtR3loRWpLQ2N0YXNpUTV3bmJNTGNtWV9MMzI1VVZaV2U4c2MxUkVaSGpROFJsVUM1NmtndjZ6SVVBdw?oc=5>
+- 场馆: Al-Monitor
+- 时间: 2026-08-24 16:19
+- 链接: <https://news.google.com/rss/articles/CBMisAFBVV95cUxOajZFVW8yN0F5ZEhlaTlhUWFwb014ZS0zUnlYdF9OT3VhRHVSMm4xVWlRcHVRV2w0VGxPMW1JSThrZnRvaEVmZzFGa3N0WjQySW5WU3d4Vkh2QVA3TEhzMFRZcHdQV2FNS0VjLVlxd3pWNnNRcEwwUUd3OHlHVlJWeGdTVWxJQVV3dU1TVVRsMVdYeEpHTHZJQWdMekRWSVNKQTlOZUJ4Q1pUWlpHa1hsbg?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-24 17:04  (3 条)
+
+- **特朗普** | 金与正，没接特朗普的话 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE51cFBpaFJzbzZSNUZ4ZmlSRi1qSnFkbmIzcWY5NGxISExGZEh3UFBFZldBNFBnc2M4ZEdaZnpYbmprckR2VEw1MzM2bmc?oc=5>
+- **特朗普** | 特朗普：美对加拿大汽车和钢铁进口关税将提高至50% <https://news.google.com/rss/articles/CBMif0FVX3lxTFBmbXRIZFpMdGl2VFY0WVNxbzNIN01VMzcwbm5Wb2M1Y1h1S2RuandONmpvSllrY3B4M2F0YTBZS3RHd1FVQ1NRZEdUUjlTMXg3U2VFZXFzbDZOWEFXXzZmb1dLbmdubUlkS3h5STJCamhCSmdRX3E4TkpkX0ZaNmc?oc=5>
+- **Trump** | 美国将在47年后解除对叙利亚的恐怖主义认定。 <https://news.google.com/rss/articles/CBMisAFBVV95cUxOajZFVW8yN0F5ZEhlaTlhUWFwb014ZS0zUnlYdF9OT3VhRHVSMm4xVWlRcHVRV2w0VGxPMW1JSThrZnRvaEVmZzFGa3N0WjQySW5WU3d4Vkh2QVA3TEhzMFRZcHdQV2FNS0VjLVlxd3pWNnNRcEwwUUd3OHlHVlJWeGdTVWxJQVV3dU1TVVRsMVdYeEpHTHZJQWdMekRWSVNKQTlOZUJ4Q1pUWlpHa1hsbg?oc=5>
 
 ### 2026-08-24 16:28  (3 条)
 
