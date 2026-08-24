@@ -1,40 +1,62 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-24 00:54**
-- 本轮扫到 10489 条, 新增 **3** 条
+- 最近更新: **2026-08-24 02:19**
+- 本轮扫到 10494 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (5 条)
 
-### 欧媒：特朗普把石头运到意大利，雕刻白宫宴会厅的立柱
+### 《Colder》这支MV，藏着一个关于善意最令人心疼的反转！
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002q7yi.html>
+
+### 特朗普称若输掉中期选举他将被弹劾 民调支持率创新低
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-08-24 00:41
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE0yQjFfT3dPVU00aXFpTmhMZGRITklLXzhxMWtuWnBFdWtjXzk3aUNBWmtKVVlabFdsdHc4VTJ5bW94dC1DVnBYVVdRXzRGak9GaUx0Ti1BRWNDVzFEUFlTTGJqc01OVGVRYnc?oc=5>
+- 场馆: 中华军事
+- 时间: 2026-08-24 00:51
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBFRDk4MGtuaWZpUl91YlFVR1FYOG9KN2JFRzE5aDVFbHRqU3ZHbTZIS2N4MTg2LTU4dHhaUVpFWGs5Y1lBLVNQcnNCNWRvRzZ5U1d4VW1oX1dTNHNrYkxLY1FTRTVNbkpRZ2JVbXNNSzE?oc=5>
 
-### TRUMP日内上涨超10%，创今年4月份以来新高
+### 特朗普对华让步，被英媒骂屈辱，真正好戏还没开场，11月才是决战
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 搜狐网
+- 时间: 2026-08-24 00:39
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxOSHBHZ3pLLWdBSTQySFZrdExWaDRSLTFIUU91Nk9YSTRaZ3M1aWZRRWlQNlV1QndFRWE2ajlnNVFIbUxqYXR0aFRuUVZOelF6bFJ5OHhnZDR4S25UNEEzM0ZWTkVUSFVrY2FUMnNlS1FPYURmYVdONW4xYlhjVzV0NVktejM5UDBxYXR2Rg?oc=5>
+
+### 加密早报：Eric Trump 否认特朗普将发行新代币，桥水达利欧警告美国债务危机最快三年内到来
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: TradingView
-- 时间: 2026-08-23 12:59
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1NRG5BRTBnM1ptbFJJaXNCVmNnTVhSTmdDYzVGNTZFN3d0YVc3cDBRUEJicHpLTnRTakFfOEo1dTZGN0poYnlRS2JhSlFlOWlWYlhjZVdYbkI0d1I1MkozMTExcnBxUQ?oc=5>
+- 场馆: 深潮TechFlow
+- 时间: 2026-08-24 01:24
+- 链接: <https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Ib1IwLV9kX3JMc1hVdHZtb3NWVGpuczZ0QjR2UUVES0l3ODI3RFQwNFBJTElHT3RPQzJyQUxsN1NfLXdBbmVYU1VaRGJ1QmxzT0lwTQ?oc=5>
 
-### 特朗普投资账户6月进行逾千笔股票交易
+### 特朗普威胁制裁伊朗盟友，中国为何不为所动
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-08-24 00:11
-- 链接: <https://news.google.com/rss/articles/CBMimwJBVV95cUxPSjBpSjduNk50YU1XelRLX18za0VIVzJScVBYWGVPQWl6akN3RTVvX2tLS3JpOGtFVmxvd0hoNTF6RGk3THJaSjlOUTQ2bldJd2gwTlZFN0JaNEVKbnp6V2thMnF6M2RuRnlNSGt0c0hQUVpQcVc5Z0s2YkdUY1Ntd2V4YXpCOVdlUmU1RHctQmhPNHE2WDVLNVBkb3pybnFPNldtZ291N185RHVoWEFTaEpWQ0hzOTR4V2NfeUZlTXpMazE3NWU2SmlRYmRVNmxYT3dVNjkybHRFNTBFcjZRdGJmbUxWaVdYbnozWVpDTGZsaEhkcy1PSHpVVDkwLVl2LW84em9NZjg2anlnczZSZ3hWWGtVWVJFanBN?oc=5>
+- 场馆: 纽约时报中文网
+- 时间: 2026-08-24 00:58
+- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTFBfeU9jZGFfQ2hJRUtTaC1QbW5ldXpjaFlKMXNhQXRsdXdUQ0hKWlgyUHFIN3dVSmJVak1NQnBycWV3OWVpcEtYbS1nbk9LRGxVSmJNb0hDYjUtSXQyNXZLejhNcjl4QWozZEJONmh5RExUY0t4aFc4M3l3anU?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-24 02:19  (5 条)
+
+- **蔡徐坤** | 《Colder》这支MV，藏着一个关于善意最令人心疼的反转！ <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002q7yi.html>
+- **特朗普** | 特朗普称若输掉中期选举他将被弹劾 民调支持率创新低 <https://news.google.com/rss/articles/CBMicEFVX3lxTFBFRDk4MGtuaWZpUl91YlFVR1FYOG9KN2JFRzE5aDVFbHRqU3ZHbTZIS2N4MTg2LTU4dHhaUVpFWGs5Y1lBLVNQcnNCNWRvRzZ5U1d4VW1oX1dTNHNrYkxLY1FTRTVNbkpRZ2JVbXNNSzE?oc=5>
+- **特朗普** | 特朗普对华让步，被英媒骂屈辱，真正好戏还没开场，11月才是决战 <https://news.google.com/rss/articles/CBMijAFBVV95cUxOSHBHZ3pLLWdBSTQySFZrdExWaDRSLTFIUU91Nk9YSTRaZ3M1aWZRRWlQNlV1QndFRWE2ajlnNVFIbUxqYXR0aFRuUVZOelF6bFJ5OHhnZDR4S25UNEEzM0ZWTkVUSFVrY2FUMnNlS1FPYURmYVdONW4xYlhjVzV0NVktejM5UDBxYXR2Rg?oc=5>
+- **Trump** | 加密早报：Eric Trump 否认特朗普将发行新代币，桥水达利欧警告美国债务危机最快三年内到来 <https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Ib1IwLV9kX3JMc1hVdHZtb3NWVGpuczZ0QjR2UUVES0l3ODI3RFQwNFBJTElHT3RPQzJyQUxsN1NfLXdBbmVYU1VaRGJ1QmxzT0lwTQ?oc=5>
+- **Trump** | 特朗普威胁制裁伊朗盟友，中国为何不为所动 <https://news.google.com/rss/articles/CBMifEFVX3lxTFBfeU9jZGFfQ2hJRUtTaC1QbW5ldXpjaFlKMXNhQXRsdXdUQ0hKWlgyUHFIN3dVSmJVak1NQnBycWV3OWVpcEtYbS1nbk9LRGxVSmJNb0hDYjUtSXQyNXZLejhNcjl4QWozZEJONmh5RExUY0t4aFc4M3l3anU?oc=5>
 
 ### 2026-08-24 00:54  (3 条)
 
