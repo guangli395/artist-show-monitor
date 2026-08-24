@@ -1,14 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-23 23:43**
-- 本轮扫到 10486 条, 新增 **0** 条
+- 最近更新: **2026-08-24 00:54**
+- 本轮扫到 10489 条, 新增 **3** 条
 
 ---
 
-## 本轮无新增
+## 本轮新发现 (3 条)
 
-数据库里所有演出/动态都已见过,暂无新增。
+### 欧媒：特朗普把石头运到意大利，雕刻白宫宴会厅的立柱
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-08-24 00:41
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE0yQjFfT3dPVU00aXFpTmhMZGRITklLXzhxMWtuWnBFdWtjXzk3aUNBWmtKVVlabFdsdHc4VTJ5bW94dC1DVnBYVVdRXzRGak9GaUx0Ti1BRWNDVzFEUFlTTGJqc01OVGVRYnc?oc=5>
+
+### TRUMP日内上涨超10%，创今年4月份以来新高
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: TradingView
+- 时间: 2026-08-23 12:59
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1NRG5BRTBnM1ptbFJJaXNCVmNnTVhSTmdDYzVGNTZFN3d0YVc3cDBRUEJicHpLTnRTakFfOEo1dTZGN0poYnlRS2JhSlFlOWlWYlhjZVdYbkI0d1I1MkozMTExcnBxUQ?oc=5>
+
+### 特朗普投资账户6月进行逾千笔股票交易
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-08-24 00:11
+- 链接: <https://news.google.com/rss/articles/CBMimwJBVV95cUxPSjBpSjduNk50YU1XelRLX18za0VIVzJScVBYWGVPQWl6akN3RTVvX2tLS3JpOGtFVmxvd0hoNTF6RGk3THJaSjlOUTQ2bldJd2gwTlZFN0JaNEVKbnp6V2thMnF6M2RuRnlNSGt0c0hQUVpQcVc5Z0s2YkdUY1Ntd2V4YXpCOVdlUmU1RHctQmhPNHE2WDVLNVBkb3pybnFPNldtZ291N185RHVoWEFTaEpWQ0hzOTR4V2NfeUZlTXpMazE3NWU2SmlRYmRVNmxYT3dVNjkybHRFNTBFcjZRdGJmbUxWaVdYbnozWVpDTGZsaEhkcy1PSHpVVDkwLVl2LW84em9NZjg2anlnczZSZ3hWWGtVWVJFanBN?oc=5>
+
+
+---
+
 ## 历史发现
+
+### 2026-08-24 00:54  (3 条)
+
+- **特朗普** | 欧媒：特朗普把石头运到意大利，雕刻白宫宴会厅的立柱 <https://news.google.com/rss/articles/CBMiakFVX3lxTE0yQjFfT3dPVU00aXFpTmhMZGRITklLXzhxMWtuWnBFdWtjXzk3aUNBWmtKVVlabFdsdHc4VTJ5bW94dC1DVnBYVVdRXzRGak9GaUx0Ti1BRWNDVzFEUFlTTGJqc01OVGVRYnc?oc=5>
+- **Trump** | TRUMP日内上涨超10%，创今年4月份以来新高 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1NRG5BRTBnM1ptbFJJaXNCVmNnTVhSTmdDYzVGNTZFN3d0YVc3cDBRUEJicHpLTnRTakFfOEo1dTZGN0poYnlRS2JhSlFlOWlWYlhjZVdYbkI0d1I1MkozMTExcnBxUQ?oc=5>
+- **Trump** | 特朗普投资账户6月进行逾千笔股票交易 <https://news.google.com/rss/articles/CBMimwJBVV95cUxPSjBpSjduNk50YU1XelRLX18za0VIVzJScVBYWGVPQWl6akN3RTVvX2tLS3JpOGtFVmxvd0hoNTF6RGk3THJaSjlOUTQ2bldJd2gwTlZFN0JaNEVKbnp6V2thMnF6M2RuRnlNSGt0c0hQUVpQcVc5Z0s2YkdUY1Ntd2V4YXpCOVdlUmU1RHctQmhPNHE2WDVLNVBkb3pybnFPNldtZ291N185RHVoWEFTaEpWQ0hzOTR4V2NfeUZlTXpMazE3NWU2SmlRYmRVNmxYT3dVNjkybHRFNTBFcjZRdGJmbUxWaVdYbnozWVpDTGZsaEhkcy1PSHpVVDkwLVl2LW84em9NZjg2anlnczZSZ3hWWGtVWVJFanBN?oc=5>
 
 ### 2026-08-23 22:45  (2 条)
 
