@@ -1,32 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-24 06:01**
-- 本轮扫到 10507 条, 新增 **2** 条
+- 最近更新: **2026-08-24 07:35**
+- 本轮扫到 10510 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (3 条)
 
-### 特朗普：救不了美债，就派美军!
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-08-24 05:43
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE1VRERwX1lnc0FQTVVVZ2lMTXh6OGIyV3d5QVc3S1FIelM4dnVaMUVhYVplbVFYQ0I5aGJwakZmU3ZBRzBKMnBPVUVnT0xiRWNzclpqbjhaMHpDNDlKX2plNWdQTXk5YUFyeFdXOGNsV3pzQQ?oc=5>
-
-### 特朗普披露6月投资组合“大换血”：减持Meta 买入伯克希尔等股票
+### 人均“十万加”，特朗普考虑出兵干预
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-08-23 19:45
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BWUdTbjdRUmhoM3F4THl4Q2JPYi1xVUlSbTV5SUNpaFlSUFdCdlA2VUw0MVBDTmJ6Z0FuU3M0NjRzVmJZd3Q2X212SXFDX0dRb1JkdUU4a244VU5aSGxRcw?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-08-22 22:27
+- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxNR0UwYWhtdXpRcWtZYmlYXzhTU0tnOEkyVmJWSTV6eldqRWhvbjFlYUVnY2tPSk9OaVR5cXBUN3RucENMbnM1T19qck40R3JtNTN0VHB1VzdtM2R3VGJlZlpsdVJIN1g1U2Z3ajhZUzNLMlJhemY3cWpQZmFWdk5pb3hVWQ?oc=5>
+
+### 白宫前上演时速300公里的“飙车”，特朗普挥旗后，赛场发生连环撞车
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 搜狐网
+- 时间: 2026-08-24 07:08
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ1dLbkEzMTlnenRyRVFnXzJLR3JtR2UtLUpyVW1wdGg4b2l2QnFBcVJfeHdhaFEwZzNzYXhBdmQxaTFqcUlVS3dMTGtXUUM5MEp0cm41ak1RMlUxczZYSGxDdEJrTnhGVG1rMWEycXlkQXRDeVJhN2dWMUxfbDRmd3JoUktIcXVFYlQxVw?oc=5>
+
+### 特朗普面临重大健康风险
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-08-24 05:57
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1IaVN3RlRRdmtkd0NXMFBnQ29LV0hfRjZWLVZsV0gtUGFWRjdfc3d2bV9rN1Q0SGtUdVRuZWY1WG15eE1MLVpUQy1mNXpjZzFnbkNxc0RFaWp6OGV6SkJ6dlQ3cWtDZzdmVkE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-24 07:35  (3 条)
+
+- **特朗普** | 人均“十万加”，特朗普考虑出兵干预 <https://news.google.com/rss/articles/CBMigwFBVV95cUxNR0UwYWhtdXpRcWtZYmlYXzhTU0tnOEkyVmJWSTV6eldqRWhvbjFlYUVnY2tPSk9OaVR5cXBUN3RucENMbnM1T19qck40R3JtNTN0VHB1VzdtM2R3VGJlZlpsdVJIN1g1U2Z3ajhZUzNLMlJhemY3cWpQZmFWdk5pb3hVWQ?oc=5>
+- **特朗普** | 白宫前上演时速300公里的“飙车”，特朗普挥旗后，赛场发生连环撞车 <https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ1dLbkEzMTlnenRyRVFnXzJLR3JtR2UtLUpyVW1wdGg4b2l2QnFBcVJfeHdhaFEwZzNzYXhBdmQxaTFqcUlVS3dMTGtXUUM5MEp0cm41ak1RMlUxczZYSGxDdEJrTnhGVG1rMWEycXlkQXRDeVJhN2dWMUxfbDRmd3JoUktIcXVFYlQxVw?oc=5>
+- **特朗普** | 特朗普面临重大健康风险 <https://news.google.com/rss/articles/CBMiakFVX3lxTE1IaVN3RlRRdmtkd0NXMFBnQ29LV0hfRjZWLVZsV0gtUGFWRjdfc3d2bV9rN1Q0SGtUdVRuZWY1WG15eE1MLVpUQy1mNXpjZzFnbkNxc0RFaWp6OGV6SkJ6dlQ3cWtDZzdmVkE?oc=5>
 
 ### 2026-08-24 06:01  (2 条)
 
