@@ -1,24 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-24 21:52**
-- 本轮扫到 10545 条, 新增 **1** 条
+- 最近更新: **2026-08-24 22:18**
+- 本轮扫到 10547 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮新发现 (2 条)
 
-### 美加贸易战进一步升级！特朗普：明年将加拿大汽车、钢铁等品类关税提高至50%
+### 莱维特把白宫新闻秘书做得“光鲜亮丽”，特朗普物色接班人：这辈子没收过这么多求职申请
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-08-24 21:11
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TZG5POFN4WExQRV9CbWVDcy1iSk55M0ZtRWpDVVpHczZmYlllSTlXT05Cdml3U21DZTJEdHN0MWJqTUlwa3J2dGVsVHk5RXJ0WFc3OVhQbHptODU0cVVQSA?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-24 21:55
+- 链接: <https://news.google.com/rss/articles/CBMikwJBVV95cUxNVl9wekdEandEWnZzc0oyVGVNanRkWmVvdHJjNGxEYnh0Uk5QZExOZUhNYVdRVmgzNHBzZTROQjdBYmtoSzJYSnpySGJDX1A0ckIzWW1NTVVUOGY0aUk0UEF4TGI4aWJhUUJTbG9Fd3Eta0F5a2Yxa3FYa2N6QU1PVmxYQzdzbEs3Vk5DMUdmYU1YWDM1bFdmVkJPTXF0T3ZXUVYzS1pVdkhaX240aml6cE1LMW1neUhibDVoZ1ZOZDRHQTdFRzdMUk9qQXZpbVgyQzFRdzMzY3Ffc2JUOWF2anhpY1hZYjZIOXZvckhPemZDY1BmbVN1ZE1uVER3T0ZRY2h4N0VOQ19rQnd0QVBzLXFrbw?oc=5>
+
+### 财务披露：特朗普6月购买了埃隆·马斯克旗下SpaceX的股份
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-24 21:23
+- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcFFhVGtfMzF3aU1rWmR1MGI4cDZ4bVRhOF9GLWV2bUdwbF91eXlZSVJkV2Jsck5YS2pmVFQzakt2T1pwYWZYVTRNdDFnYlphV0tJQWZQZTB2YVNFZ2hlUURwMm5XZEU3X2JrM01FRXBKNGhHcVNoZ1MxOE8xSjZkZXNMSDYzeVN5aENJTEdGVTBQa2FLUGh1WUM1ZWNTYWVaY1dTM2ExRGJaYU4wRldKbWNOcUREb3Z1ZmdMX0Y2bXF2alJoaUp1WmZfNUtVY3JvaUE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-24 22:18  (2 条)
+
+- **特朗普** | 莱维特把白宫新闻秘书做得“光鲜亮丽”，特朗普物色接班人：这辈子没收过这么多求职申请 <https://news.google.com/rss/articles/CBMikwJBVV95cUxNVl9wekdEandEWnZzc0oyVGVNanRkWmVvdHJjNGxEYnh0Uk5QZExOZUhNYVdRVmgzNHBzZTROQjdBYmtoSzJYSnpySGJDX1A0ckIzWW1NTVVUOGY0aUk0UEF4TGI4aWJhUUJTbG9Fd3Eta0F5a2Yxa3FYa2N6QU1PVmxYQzdzbEs3Vk5DMUdmYU1YWDM1bFdmVkJPTXF0T3ZXUVYzS1pVdkhaX240aml6cE1LMW1neUhibDVoZ1ZOZDRHQTdFRzdMUk9qQXZpbVgyQzFRdzMzY3Ffc2JUOWF2anhpY1hZYjZIOXZvckhPemZDY1BmbVN1ZE1uVER3T0ZRY2h4N0VOQ19rQnd0QVBzLXFrbw?oc=5>
+- **特朗普** | 财务披露：特朗普6月购买了埃隆·马斯克旗下SpaceX的股份 <https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcFFhVGtfMzF3aU1rWmR1MGI4cDZ4bVRhOF9GLWV2bUdwbF91eXlZSVJkV2Jsck5YS2pmVFQzakt2T1pwYWZYVTRNdDFnYlphV0tJQWZQZTB2YVNFZ2hlUURwMm5XZEU3X2JrM01FRXBKNGhHcVNoZ1MxOE8xSjZkZXNMSDYzeVN5aENJTEdGVTBQa2FLUGh1WUM1ZWNTYWVaY1dTM2ExRGJaYU4wRldKbWNOcUREb3Z1ZmdMX0Y2bXF2alJoaUp1WmZfNUtVY3JvaUE?oc=5>
 
 ### 2026-08-24 21:52  (1 条)
 
