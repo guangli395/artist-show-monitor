@@ -1,40 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-24 05:09**
-- 本轮扫到 10505 条, 新增 **3** 条
+- 最近更新: **2026-08-24 06:01**
+- 本轮扫到 10507 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (2 条)
 
-### 今天我从TRUMP那里得到了一些好消息，多头们……🫣🫣🫣😃😃😃😃💰💰💰🍀🍀🍀
+### 特朗普：救不了美债，就派美军!
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-08-24 00:29
-- 链接: <https://news.google.com/rss/articles/CBMiowFBVV95cUxNT1lLM0NGSWZYNHpQbXJOekYxWG5EOFllWGRZZzhkdkRNODh1MWFJVTJqRThGazFOOXg1eDloaUJUSVFjOFFMQmN6b3VleHhLSWMxLXpWRUI0TzAxRVAtc0N3X3lJNlV4NzhXQTBtU09GX05XUFYyLXF2ZWl2RnBLZnRYNmxqR19xY2dIWFplMXRMbnJIQ2MwcVI4dE5WSEZwRF80?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-08-24 05:43
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE1VRERwX1lnc0FQTVVVZ2lMTXh6OGIyV3d5QVc3S1FIelM4dnVaMUVhYVplbVFYQ0I5aGJwakZmU3ZBRzBKMnBPVUVnT0xiRWNzclpqbjhaMHpDNDlKX2plNWdQTXk5YUFyeFdXOGNsV3pzQQ?oc=5>
 
-### TRUMP日内上涨约20%，过去一周涨幅约104%
+### 特朗普披露6月投资组合“大换血”：减持Meta 买入伯克希尔等股票
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: TradingView
-- 时间: 2026-08-23 14:23
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9obnRocnlESkJSV0dZaktIcW9BNUw0WE00Rm9GdTJ4UjBFaEEzYTZ6U1pHd05yd25RVVM0NURQcDVhelltY19zX2JOYi0wN1hEMXdCMFFseUc2Ti1KeXpHX0ZrTHJIdw?oc=5>
-
-### 数据：特朗普团队转出 262 万枚 TRUMP 并存入 OKX，价值 621 万美元
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: CryptoRank
-- 时间: 2026-08-24 03:07
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTFBHMndMM25DdW5mWmlFSmlfeFpvN3BMZ1Itc2JLc09uVXdVMUphX0s5QVpZTjNjLTZnck1NRzR1Wnc0dDRqak01WjRYY1JnalBEZXMyQm1VVDg?oc=5>
+- 场馆: 东方财富
+- 时间: 2026-08-23 19:45
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BWUdTbjdRUmhoM3F4THl4Q2JPYi1xVUlSbTV5SUNpaFlSUFdCdlA2VUw0MVBDTmJ6Z0FuU3M0NjRzVmJZd3Q2X212SXFDX0dRb1JkdUU4a244VU5aSGxRcw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-24 06:01  (2 条)
+
+- **特朗普** | 特朗普：救不了美债，就派美军! <https://news.google.com/rss/articles/CBMickFVX3lxTE1VRERwX1lnc0FQTVVVZ2lMTXh6OGIyV3d5QVc3S1FIelM4dnVaMUVhYVplbVFYQ0I5aGJwakZmU3ZBRzBKMnBPVUVnT0xiRWNzclpqbjhaMHpDNDlKX2plNWdQTXk5YUFyeFdXOGNsV3pzQQ?oc=5>
+- **特朗普** | 特朗普披露6月投资组合“大换血”：减持Meta 买入伯克希尔等股票 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BWUdTbjdRUmhoM3F4THl4Q2JPYi1xVUlSbTV5SUNpaFlSUFdCdlA2VUw0MVBDTmJ6Z0FuU3M0NjRzVmJZd3Q2X212SXFDX0dRb1JkdUU4a244VU5aSGxRcw?oc=5>
 
 ### 2026-08-24 05:09  (3 条)
 
