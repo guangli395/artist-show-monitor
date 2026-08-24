@@ -1,14 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-24 19:52**
-- 本轮扫到 10539 条, 新增 **0** 条
+- 最近更新: **2026-08-24 20:22**
+- 本轮扫到 10540 条, 新增 **1** 条
 
 ---
 
-## 本轮无新增
+## 本轮新发现 (1 条)
 
-数据库里所有演出/动态都已见过,暂无新增。
+### Trump Threatens 50% Tariff on Automobiles and Parts From Canada
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-08-24 14:47
+- 链接: <https://news.google.com/rss/articles/CBMirgFBVV95cUxQS0E5a0ZVQ2Q2RUJRRDhUZHFQaGNlSDhkR1dySmJFU3h3OW81SVhmVFdQaENzTHBXNXFLUzVEcXBBWnpPYk85QklWMjdtMmJBRTVudnV6S0xiVWhzQms4UEdSZEFkbmVaaU1qZFpRYldOUmVFRFlfTm9nRWNxam9TVXQ1VlQ2TlFHSHZabVV3VHpzSU5FYkFDeE9hUGZnMEwwYS1EeFZzbjRjNU1lNkE?oc=5>
+
+
+---
+
 ## 历史发现
+
+### 2026-08-24 20:22  (1 条)
+
+- **Trump** | Trump Threatens 50% Tariff on Automobiles and Parts From Canada <https://news.google.com/rss/articles/CBMirgFBVV95cUxQS0E5a0ZVQ2Q2RUJRRDhUZHFQaGNlSDhkR1dySmJFU3h3OW81SVhmVFdQaENzTHBXNXFLUzVEcXBBWnpPYk85QklWMjdtMmJBRTVudnV6S0xiVWhzQms4UEdSZEFkbmVaaU1qZFpRYldOUmVFRFlfTm9nRWNxam9TVXQ1VlQ2TlFHSHZabVV3VHpzSU5FYkFDeE9hUGZnMEwwYS1EeFZzbjRjNU1lNkE?oc=5>
 
 ### 2026-08-24 19:23  (1 条)
 
