@@ -1,23 +1,13 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-24 12:35**
-- 本轮扫到 10526 条, 新增 **1** 条
+- 最近更新: **2026-08-24 13:44**
+- 本轮扫到 10526 条, 新增 **0** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮无新增
 
-### 特朗普回应“美国是否会大量增持比特币” 8 月 20 日，美国总统 Donald Trump 在白宫与科技行业领袖举行的活动上回应美国政府是否计划大量增持比特币或其他加密货币时表示，此事确实已经讨论过，他可能会听取 SEC 主席 Paul Atkins 及其团队的判断和建议。特朗
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Binance
-- 时间: 2026-08-24 09:33
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE16U3ZJSGhmbWF2blNLQklIWEttNnh5aUZOV1llUkhMVnNMQ191QTdfRjdRUVJuYjdFUkF1Q0RaX2NtbjF0WF8yVlRNajRrSlVBQjhYU1NxVFZBUk80MDlac2xXeWgtajdp?oc=5>
-
-
----
-
+数据库里所有演出/动态都已见过,暂无新增。
 ## 历史发现
 
 ### 2026-08-24 12:35  (1 条)
