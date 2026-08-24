@@ -1,24 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-24 14:34**
-- 本轮扫到 10527 条, 新增 **1** 条
+- 最近更新: **2026-08-24 15:32**
+- 本轮扫到 10530 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮新发现 (3 条)
 
-### 伊朗货币跌至历史新低，特朗普称“伊朗正在彻底崩溃”
+### 美媒：胖了快21斤，特朗普体重构成重大健康风险
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-08-24 13:51
-- 链接: <https://news.google.com/rss/articles/CBMi9AJBVV95cUxPZ3JYNy1TLVNadFJHZEhkWlFtellWLWRnREVfQnpDYml3ZGpMWVdvVDhzcGlCMEVCcldSSlg1QWlUbnFpSXYwaEEzRGhBeEJ0ZzBHYXluQVN3NGlZWEs2RXQzS2M0SWdHSzJQR2x6NmVYX2JzWVhaQVVnLWlUWlBxOVpCenBidXdTT3FBSi1LUHJucTdfTTFJV3QyYVRJRVVSTEhWU0VKNkN2Q0o1V1BEMmEzOXJKZlpwZUhjSFVwT0VBTFpQc1oxUnFBX0RUTzE1aWdRVWVIUEM5UDBXVHhOMjBIb0dYSk54XzFhRUM0WGxCdFZOT0pzMDlfajFWcnFZTm0xc25JUGc3ei1aX254djg5MnJYTHlhTU1OUWlhZDNTSWFYTnh5enZyQVVPS2laQ014T3Fwb0pNS0h5RkhfZFVsc0w1cmI1MnRWaXlTODJZb1U1TWg5RXlOVFZOTjA5NV9jZEJFdEppb0tXeklwT0tBZjU?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-24 15:00
+- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE1raGk1WVRoUWktbFgxcWZKZnpFRXpobEZfYjBzYjdVaGgzbDBCczhScDBMNWZzbzQ1Q3BlaFB6Y3FvUWNDZTdvVkpMNmpHS21UcmN1UVdsSEFxZW5HTEl4OG04SDJMSkFqM1JzVG5SRHBDazhsZVVkVXM5dlloUQ?oc=5>
+
+### 美媒痛批特朗普心智衰退，硬刚本国海军，强行废掉电磁弹射
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 手机网易网
+- 时间: 2026-08-24 11:09
+- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE5iX1ZNYWh4cklSR2NZNGZSS2E1ZUMzQnI3XzFCQ2E4X2l1UV8wdVhjTmg4SUZfcnhWck1WckU4V254RjF1Smw4SkNGbXVJTHN5OUt1MVhvVVNVZXcyeUhJaTR3?oc=5>
+
+### 财政部长贝森特称美国正发动全面经济攻势并进入伊朗冲突“终局”
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-08-24 14:28
+- 链接: <https://news.google.com/rss/articles/CBMi1wFBVV95cUxON2MzcHpzcHl2Rnl1SFotdXVfazY0eURUeGE0SVNvUnJVZi1kSmVPOXl3OEptN3dFdWU2a0VULVZ5WGdhUVVUWW1kWFVjVHFzdEZOLWZTS2h4ZEphVU8tclIzSlk5NWExcmVsaEdpSE9iVjJKcVFCY1VQekgyeUlvd2lCSUZTWkdYQzk4clZ1c2hXanZKeWFsbnNRdzhCMFRjZ3hvVE9LYTBkVHUtWEZxcmpvNldOQmgzYy05cUxSLTI0RGZwQ1ZjRmhrSkNtaktHdUNnbXV3NNIB2gFBVV95cUxQZ1d6TXptNHdrZVZabDhrbjJiVmw3VDVEWjZCenNxMHkzTzdYZngwU01uTF9aaWh2VXhBVG1ZWVZNeU5KWk5BWlFHblB6dXV0c2lvQV9qVTJFUTlvOHpLWEFyU09CaDR2TU5Wd0ZUR0E0UWNMOHZXcTBUaDRSQlJhQnZybGZ0UTJYeHhtYk13OHdJMVdSTjF1d0pyb0dBWWxuNHNIZ25vUFpndnRTamNuRGlfZGtLN1pDbWgxQlNpLVNVTEgzMHF6cDJuV3VlbmUxOF8waU0yaHBGZw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-24 15:32  (3 条)
+
+- **特朗普** | 美媒：胖了快21斤，特朗普体重构成重大健康风险 <https://news.google.com/rss/articles/CBMifkFVX3lxTE1raGk1WVRoUWktbFgxcWZKZnpFRXpobEZfYjBzYjdVaGgzbDBCczhScDBMNWZzbzQ1Q3BlaFB6Y3FvUWNDZTdvVkpMNmpHS21UcmN1UVdsSEFxZW5HTEl4OG04SDJMSkFqM1JzVG5SRHBDazhsZVVkVXM5dlloUQ?oc=5>
+- **特朗普** | 美媒痛批特朗普心智衰退，硬刚本国海军，强行废掉电磁弹射 <https://news.google.com/rss/articles/CBMiYkFVX3lxTE5iX1ZNYWh4cklSR2NZNGZSS2E1ZUMzQnI3XzFCQ2E4X2l1UV8wdVhjTmg4SUZfcnhWck1WckU4V254RjF1Smw4SkNGbXVJTHN5OUt1MVhvVVNVZXcyeUhJaTR3?oc=5>
+- **Trump** | 财政部长贝森特称美国正发动全面经济攻势并进入伊朗冲突“终局” <https://news.google.com/rss/articles/CBMi1wFBVV95cUxON2MzcHpzcHl2Rnl1SFotdXVfazY0eURUeGE0SVNvUnJVZi1kSmVPOXl3OEptN3dFdWU2a0VULVZ5WGdhUVVUWW1kWFVjVHFzdEZOLWZTS2h4ZEphVU8tclIzSlk5NWExcmVsaEdpSE9iVjJKcVFCY1VQekgyeUlvd2lCSUZTWkdYQzk4clZ1c2hXanZKeWFsbnNRdzhCMFRjZ3hvVE9LYTBkVHUtWEZxcmpvNldOQmgzYy05cUxSLTI0RGZwQ1ZjRmhrSkNtaktHdUNnbXV3NNIB2gFBVV95cUxQZ1d6TXptNHdrZVZabDhrbjJiVmw3VDVEWjZCenNxMHkzTzdYZngwU01uTF9aaWh2VXhBVG1ZWVZNeU5KWk5BWlFHblB6dXV0c2lvQV9qVTJFUTlvOHpLWEFyU09CaDR2TU5Wd0ZUR0E0UWNMOHZXcTBUaDRSQlJhQnZybGZ0UTJYeHhtYk13OHdJMVdSTjF1d0pyb0dBWWxuNHNIZ25vUFpndnRTamNuRGlfZGtLN1pDbWgxQlNpLVNVTEgzMHF6cDJuV3VlbmUxOF8waU0yaHBGZw?oc=5>
 
 ### 2026-08-24 14:34  (1 条)
 
