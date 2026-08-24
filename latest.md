@@ -1,24 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-24 08:39**
-- 本轮扫到 10511 条, 新增 **1** 条
+- 最近更新: **2026-08-24 09:39**
+- 本轮扫到 10516 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮新发现 (5 条)
 
-### 特朗普：若输掉中期选举将被弹劾，曝特朗普女婿已秘密接触，民主党高层 为选举失利做准备，特朗普曾称对方为“低智商”人士
+### 伊朗官员：特朗普 “说太多”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-08-24 07:47
-- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaFFIWGhLaUkzaWo3U0daUTVZR05LZkZQMUlLcGVqcE41cDZoeko5M3Jrd3BBT0dMWlBBZjVFWVNXdmt1bGRGYU4td3E2Vy1oVk96dHdXNkhab29kZGpCbHE5cUNvb1lDTmdNMS1mVzNlbjVOdXFITHNkSnlUR1NJeUpybE1zT0ND?oc=5>
+- 场馆: 观察者
+- 时间: 2026-08-23 23:24
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE45UVQyektsUkhLcThWMFdTby1yeXBqbHNRQmZBN3FRREtXSXNsSVZBT3BKdTQ1ZWNLbFBsdDBWbEMwRkdLQUsyLWM0VkdLQUd1Uk8zYTYxV1I1RVdsZHhDaC0xMDlrM05QSnc?oc=5>
+
+### 曾痛批特朗普气候政策倒退，欧洲如今也在回撤绿色目标
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-08-24 05:22
+- 链接: <https://news.google.com/rss/articles/CBMitAFBVV95cUxOV3I0VlNfZnhpcDBKa2JGSTh0ZkRDYWxBamdYaGIwcU00SzRlQ2V5U0RTeTl6N0VYWjAyZE5rMGtOQUVzazNPaFQwMk1PRFlLMWxlVTVhZ0NsbzdyOEphS19VTmRuYlhQRVlhRmVjUGlqakxKdVV2TklLSENSMFNqZzZab3Z1QmZJMFVaU0xmUkpmOFhLZGZOWHFBLTctVXVpS28yckVSNkdaMlZMWC1xSVJ4Zmk?oc=5>
+
+### 特朗普下令缩短美韩联合军演 遭共和党议员质疑
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-08-23 01:13
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jNldZZ2FXMzJQSjVibHpoNlA3QTRLWVhIY1doMzlHQVhrdnBiOXNROEE3bUQ2c1dpNDRsWlphUWxpbW81Q0hUb0l3ekFmRk45TTRpLTZ0cHg4R3RKQkZObG41ZXNidw?oc=5>
+
+### 美媒：特朗普胖了21斤，构成重大健康风险，他有可乐按钮，“空军一号”全是汉堡；特朗普：我从不称任何人是“胖子”，防弹背心有点显胖
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 手机网易网
+- 时间: 2026-08-24 04:38
+- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Db0pxTVY1alVQNmF6WFJvY3d6MmFsSF81NzFPN1U4UzhwOGhWV1Z4NjU3SW9xY0x0b1U5UXBmbzBzbzV0U3A4SDZmOFVVZjl5V1FhU2xlcWpnZmNTT0F4RjR3?oc=5>
+
+### 埃里克·特朗普否认筹备新代币发行传闻 三只“特朗普币”远离高位
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Yellow.com
+- 时间: 2026-08-24 08:41
+- 链接: <https://news.google.com/rss/articles/CBMipgNBVV95cUxOTk9XOFdfM2hGRll1cmRxbmk3OVJVS0NzMlhPdk43NTRGQ2gtR3VLVXZTYU1aZFZldFpIQXBwQUxSbjR1cjJid0VEV3ZnQmxYRE9OenpLUjVrWU5uWTNHR29IRjQyTTItc3kyT3lVd2RYX25fVmN5RmtRZkVfbnNJR1Bqbkw3SkpmWnpkaXJiQUNSeElyMHdjY3NnYnB0ZURWUkw2MzY5eXBEMjlqQkx2TktUaEZRRTYxX3dYOE5DRVRkUURrX0REX3l3dDFyTEJxbWJJZkJUcUxpSlJvSVgxckptVjN3OC1EcXFaMlVxZUtobE5yQUlGWTNrZFQ4NzZyRVI4WjYyRUJmWHpNa0hQNWpka0hzSTdoUnJUMUF2a3o3REJKSGNsTHR5ZjBpVW1GbE5ob1FiTDczRnRhYzBnaUdFdEFpWWxHTFVHZUtRTlV0SDhxV1EwZTc1TkpjZHRmRGpOWURZV0ktSmRLNUJidVJDSTVmdkZVa1Vwck5pMmlzejRrWU16NHNoX3oyY3U4eVdodFVSUWtLQkNmaW1TOFp0cVVuZw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-24 09:39  (5 条)
+
+- **特朗普** | 伊朗官员：特朗普 “说太多” <https://news.google.com/rss/articles/CBMiakFVX3lxTE45UVQyektsUkhLcThWMFdTby1yeXBqbHNRQmZBN3FRREtXSXNsSVZBT3BKdTQ1ZWNLbFBsdDBWbEMwRkdLQUsyLWM0VkdLQUd1Uk8zYTYxV1I1RVdsZHhDaC0xMDlrM05QSnc?oc=5>
+- **特朗普** | 曾痛批特朗普气候政策倒退，欧洲如今也在回撤绿色目标 <https://news.google.com/rss/articles/CBMitAFBVV95cUxOV3I0VlNfZnhpcDBKa2JGSTh0ZkRDYWxBamdYaGIwcU00SzRlQ2V5U0RTeTl6N0VYWjAyZE5rMGtOQUVzazNPaFQwMk1PRFlLMWxlVTVhZ0NsbzdyOEphS19VTmRuYlhQRVlhRmVjUGlqakxKdVV2TklLSENSMFNqZzZab3Z1QmZJMFVaU0xmUkpmOFhLZGZOWHFBLTctVXVpS28yckVSNkdaMlZMWC1xSVJ4Zmk?oc=5>
+- **特朗普** | 特朗普下令缩短美韩联合军演 遭共和党议员质疑 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jNldZZ2FXMzJQSjVibHpoNlA3QTRLWVhIY1doMzlHQVhrdnBiOXNROEE3bUQ2c1dpNDRsWlphUWxpbW81Q0hUb0l3ekFmRk45TTRpLTZ0cHg4R3RKQkZObG41ZXNidw?oc=5>
+- **特朗普** | 美媒：特朗普胖了21斤，构成重大健康风险，他有可乐按钮，“空军一号”全是汉堡；特朗普：我从不称任何人是“胖子”，防弹背心有点显胖 <https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Db0pxTVY1alVQNmF6WFJvY3d6MmFsSF81NzFPN1U4UzhwOGhWV1Z4NjU3SW9xY0x0b1U5UXBmbzBzbzV0U3A4SDZmOFVVZjl5V1FhU2xlcWpnZmNTT0F4RjR3?oc=5>
+- **Trump** | 埃里克·特朗普否认筹备新代币发行传闻 三只“特朗普币”远离高位 <https://news.google.com/rss/articles/CBMipgNBVV95cUxOTk9XOFdfM2hGRll1cmRxbmk3OVJVS0NzMlhPdk43NTRGQ2gtR3VLVXZTYU1aZFZldFpIQXBwQUxSbjR1cjJid0VEV3ZnQmxYRE9OenpLUjVrWU5uWTNHR29IRjQyTTItc3kyT3lVd2RYX25fVmN5RmtRZkVfbnNJR1Bqbkw3SkpmWnpkaXJiQUNSeElyMHdjY3NnYnB0ZURWUkw2MzY5eXBEMjlqQkx2TktUaEZRRTYxX3dYOE5DRVRkUURrX0REX3l3dDFyTEJxbWJJZkJUcUxpSlJvSVgxckptVjN3OC1EcXFaMlVxZUtobE5yQUlGWTNrZFQ4NzZyRVI4WjYyRUJmWHpNa0hQNWpka0hzSTdoUnJUMUF2a3o3REJKSGNsTHR5ZjBpVW1GbE5ob1FiTDczRnRhYzBnaUdFdEFpWWxHTFVHZUtRTlV0SDhxV1EwZTc1TkpjZHRmRGpOWURZV0ktSmRLNUJidVJDSTVmdkZVa1Vwck5pMmlzejRrWU16NHNoX3oyY3U4eVdodFVSUWtLQkNmaW1TOFp0cVVuZw?oc=5>
 
 ### 2026-08-24 08:39  (1 条)
 
