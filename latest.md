@@ -1,32 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-24 21:25**
-- 本轮扫到 10544 条, 新增 **2** 条
+- 最近更新: **2026-08-24 21:52**
+- 本轮扫到 10545 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (1 条)
 
-### 贝森特：美对伊朗正发动全面经济攻势
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-08-24 20:55
-- 链接: <https://news.google.com/rss/articles/CBMioAJBVV95cUxOQWZNWXFJMEFRaWNzLU9NR1p3VUoxbGRIZGtYNTZCTlNRVFpJVS0wSlpVS2VxelhkZkdPTnF1RFZIclVhX3I4YWdHWGJYbTNBd3hDZzhud1NxamRCNldXbjRGdHo2TlhPdjFlekl1NXBEdW1oa1pIcVY4UE1QRjUzOWRFeFduUmRsVmJSNnphUm01T3Jpc1VKTW5OQUFLNlYyY29rZEZDQnFRbUgyeU5FM25WVjVuZE9ONXFEaWR1V3ZnT0dHZDVDS3RlMjFTZlE4VXhKWjBsM3N5dWRWV3pqRDlXSW82S3ROUGo0Z3pXM1RrS0pXZVA4WDBMWUNVRzlNYTdzcW9rRkZvSkFnY2doSjZzOGxKcTVqMk9DYU5EOFI?oc=5>
-
-### 凌晨一点，特朗普发飙了！美国向加拿大提出13条
+### 美加贸易战进一步升级！特朗普：明年将加拿大汽车、钢铁等品类关税提高至50%
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-08-24 03:42
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFAwbTNuZFFPU2JkVERlTUV5T1RlV29ObzhWalRvS3J4MmNQQXR5aDd3NGxabGJqSTJBbTdweFV3Qjd6RTFvV09LNDA4TDJVU1VKZ1g2UjB3cTk3MXNmVUJpVGdja1pQTENiX25qZGx3cHI?oc=5>
+- 场馆: 东方财富
+- 时间: 2026-08-24 21:11
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TZG5POFN4WExQRV9CbWVDcy1iSk55M0ZtRWpDVVpHczZmYlllSTlXT05Cdml3U21DZTJEdHN0MWJqTUlwa3J2dGVsVHk5RXJ0WFc3OVhQbHptODU0cVVQSA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-24 21:52  (1 条)
+
+- **特朗普** | 美加贸易战进一步升级！特朗普：明年将加拿大汽车、钢铁等品类关税提高至50% <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TZG5POFN4WExQRV9CbWVDcy1iSk55M0ZtRWpDVVpHczZmYlllSTlXT05Cdml3U21DZTJEdHN0MWJqTUlwa3J2dGVsVHk5RXJ0WFc3OVhQbHptODU0cVVQSA?oc=5>
 
 ### 2026-08-24 21:25  (2 条)
 
