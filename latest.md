@@ -1,32 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-24 11:51**
-- 本轮扫到 10525 条, 新增 **2** 条
+- 最近更新: **2026-08-24 12:35**
+- 本轮扫到 10526 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (1 条)
 
-### 特朗普一再压缩美韩军演 他的亚太盟友怎么想？
+### 特朗普回应“美国是否会大量增持比特币” 8 月 20 日，美国总统 Donald Trump 在白宫与科技行业领袖举行的活动上回应美国政府是否计划大量增持比特币或其他加密货币时表示，此事确实已经讨论过，他可能会听取 SEC 主席 Paul Atkins 及其团队的判断和建议。特朗
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: DW.com
-- 时间: 2026-08-24 11:18
-- 链接: <https://news.google.com/rss/articles/CBMiugJBVV95cUxPaFplYi1KbWszVHRMdWZVbGxOVHY2Y3RrREw2NWtkRW1mY0pKVHMwMFdtbmdBZVIyaDBwMVJ3YmlnNU0tVEhCU2RmR09jMVVYRDZoZjFtYnJHRGowaEJld3hYN2kxT3l1ZVJRT0s2Qk9VaEVXX0QxMjdfN3Jrdzl0WUFpVTc1Z2FlQkg4YVBJREJVTDBDREVuSXNlVXFzSGVoTTBDWlAwTFRuUUhpXzBfdENQUUlablRGUjdXMXRCVGNuU2t3dmd0OWJPSm5WUG9mbFZZV09uZ1hOLTRaTDNLamNNR2IwcUJWZTFOUVEyTXBJNGY2S3BYT0YwS3poLUM2cUdNM3NpTXZTY2tLVzV3dk5HRDZPQTJYLVVRY3F1WGMxTFNzUjZTRXNrYklNRlNlRk1KWC1oeDZ0QdIBugJBVV95cUxPTGY5cDFTWFd0bmozUldTTURYbThzajZ6X1VpU1h4RGEtUWlSekVDZG1qMFZnYlRwbGVGQ3NwVmN5RnlPYzZvc1VVVGY0SUdyb0FfMzJjRUpEemQ0cVQ4dFBxQW9OODgwcXlQc1drRUsxaWFmMm42WENpZF9fT0xlcEZsWFdPbTFkUjVFWElmY0ZJYkVnVjl1VlVVUVExZ05lMHpaRnphMU1tRXB0dzNHV18yaVhpd0diNGlRUmlySkdmY1NNMXQ4a01CWVhMZ2ZwTE16U0lEcVhmT1d3ZWNLRVZkY1hBUkRJTDlENUdxdjdBVE4wVEhmU1dFdjZkVTZadzg4R0U0dG8wTGNKVnBhRTN1dmRCLXFEMmdIamRnMUJuZHIxRmlvbW9BQXBhMlNSMW1DaE9tRlRnQQ?oc=5>
-
-### 莱维特把白宫新闻秘书做得“光鲜亮丽”，特朗普物色接班人：这辈子没收过这么多求职申请
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-08-24 10:34
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxOdnU2SXZ2NHk0NUJ5VkQwR0s0RGozYVhBZ0NBRGluWXROalR0NTAxSXhUcjJ3UDBNc2l5c0k4OXlld25VV3RlLUg0aGpMSmp2OFROeEhEQVg2X0l2WUc1Z2Vhc3R4dG9XRFh2N0FzZG1jcGNvTkxLMzVKaWVTZnJBNERTLWEyVVJGek5hTw?oc=5>
+- 场馆: Binance
+- 时间: 2026-08-24 09:33
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE16U3ZJSGhmbWF2blNLQklIWEttNnh5aUZOV1llUkhMVnNMQ191QTdfRjdRUVJuYjdFUkF1Q0RaX2NtbjF0WF8yVlRNajRrSlVBQjhYU1NxVFZBUk80MDlac2xXeWgtajdp?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-24 12:35  (1 条)
+
+- **Trump** | 特朗普回应“美国是否会大量增持比特币” 8 月 20 日，美国总统 Donald Trump 在白宫与科技行业领袖举行的活动上回应美国政府是否计划大量增持比特币或其他加密货币时表示，此事确实已经讨论过，他可能会听取 SEC 主席 Paul Atkins 及其团队的判断和建议。特朗 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE16U3ZJSGhmbWF2blNLQklIWEttNnh5aUZOV1llUkhMVnNMQ191QTdfRjdRUVJuYjdFUkF1Q0RaX2NtbjF0WF8yVlRNajRrSlVBQjhYU1NxVFZBUk80MDlac2xXeWgtajdp?oc=5>
 
 ### 2026-08-24 11:51  (2 条)
 
