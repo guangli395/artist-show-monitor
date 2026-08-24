@@ -1,40 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-24 15:32**
-- 本轮扫到 10530 条, 新增 **3** 条
+- 最近更新: **2026-08-24 16:28**
+- 本轮扫到 10533 条, 新增 **3** 条
 
 ---
 
 ## 本轮新发现 (3 条)
 
-### 美媒：胖了快21斤，特朗普体重构成重大健康风险
+### 泽连斯基首谈与前防长“闹掰”，称国防部错误信息让他在特朗普面前“下不来台”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-24 15:00
-- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE1raGk1WVRoUWktbFgxcWZKZnpFRXpobEZfYjBzYjdVaGgzbDBCczhScDBMNWZzbzQ1Q3BlaFB6Y3FvUWNDZTdvVkpMNmpHS21UcmN1UVdsSEFxZW5HTEl4OG04SDJMSkFqM1JzVG5SRHBDazhsZVVkVXM5dlloUQ?oc=5>
+- 场馆: 手机新浪网
+- 时间: 2026-08-24 15:55
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE4tUFctY0V1SS1vWFMyQ29Na3VLaEVSLW52VkFNdmJWWmNEUnpRY2NVRG5mbkpwZVpGYjM0YkRDTjU4ZFZOa1l0V1hjNldaM1pkS3hfenJNek5yeVhEbXpONDlUQndhemp5SEc5amVUQ053UQ?oc=5>
 
-### 美媒痛批特朗普心智衰退，硬刚本国海军，强行废掉电磁弹射
+### 人均“十万加”，特朗普考虑出兵干预
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 手机网易网
-- 时间: 2026-08-24 11:09
-- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE5iX1ZNYWh4cklSR2NZNGZSS2E1ZUMzQnI3XzFCQ2E4X2l1UV8wdVhjTmg4SUZfcnhWck1WckU4V254RjF1Smw4SkNGbXVJTHN5OUt1MVhvVVNVZXcyeUhJaTR3?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-08-22 22:27
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5PQWJ0dlZDd21JLXZhWkhucXBMOWQ1emJRejhjODRrVVE1WlI2RmVlbkR6cXpKcTBhenF5LWU2aTRmcVhFYmRxVTB5RjlsLXpYdnlUU3NMQlowQjRXT2E1WGZiZG9wME9udHRtRjNsalotYXhjUkk5SA?oc=5>
 
-### 财政部长贝森特称美国正发动全面经济攻势并进入伊朗冲突“终局”
+### 伊朗媒体播视频威胁特朗普幼子 传悬赏逾千万新元取其性命
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-08-24 14:28
-- 链接: <https://news.google.com/rss/articles/CBMi1wFBVV95cUxON2MzcHpzcHl2Rnl1SFotdXVfazY0eURUeGE0SVNvUnJVZi1kSmVPOXl3OEptN3dFdWU2a0VULVZ5WGdhUVVUWW1kWFVjVHFzdEZOLWZTS2h4ZEphVU8tclIzSlk5NWExcmVsaEdpSE9iVjJKcVFCY1VQekgyeUlvd2lCSUZTWkdYQzk4clZ1c2hXanZKeWFsbnNRdzhCMFRjZ3hvVE9LYTBkVHUtWEZxcmpvNldOQmgzYy05cUxSLTI0RGZwQ1ZjRmhrSkNtaktHdUNnbXV3NNIB2gFBVV95cUxQZ1d6TXptNHdrZVZabDhrbjJiVmw3VDVEWjZCenNxMHkzTzdYZngwU01uTF9aaWh2VXhBVG1ZWVZNeU5KWk5BWlFHblB6dXV0c2lvQV9qVTJFUTlvOHpLWEFyU09CaDR2TU5Wd0ZUR0E0UWNMOHZXcTBUaDRSQlJhQnZybGZ0UTJYeHhtYk13OHdJMVdSTjF1d0pyb0dBWWxuNHNIZ25vUFpndnRTamNuRGlfZGtLN1pDbWgxQlNpLVNVTEgzMHF6cDJuV3VlbmUxOF8waU0yaHBGZw?oc=5>
+- 场馆: 8world
+- 时间: 2026-08-24 15:59
+- 链接: <https://news.google.com/rss/articles/CBMingFBVV95cUxQMVFuMEpUU1dWc1RhMjgwekpobVZ5Z3FuWHA5Z0VGYzNJajVycm5Scm0xWnNfVXlIbGF2eDN6VDl5SWtmWFBfTm43MEsyRXJLLXRPVXZyeGhJMmNHbk9hY2NKTlJtR3loRWpLQ2N0YXNpUTV3bmJNTGNtWV9MMzI1VVZaV2U4c2MxUkVaSGpROFJsVUM1NmtndjZ6SVVBdw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-24 16:28  (3 条)
+
+- **特朗普** | 泽连斯基首谈与前防长“闹掰”，称国防部错误信息让他在特朗普面前“下不来台” <https://news.google.com/rss/articles/CBMickFVX3lxTE4tUFctY0V1SS1vWFMyQ29Na3VLaEVSLW52VkFNdmJWWmNEUnpRY2NVRG5mbkpwZVpGYjM0YkRDTjU4ZFZOa1l0V1hjNldaM1pkS3hfenJNek5yeVhEbXpONDlUQndhemp5SEc5amVUQ053UQ?oc=5>
+- **特朗普** | 人均“十万加”，特朗普考虑出兵干预 <https://news.google.com/rss/articles/CBMieEFVX3lxTE5PQWJ0dlZDd21JLXZhWkhucXBMOWQ1emJRejhjODRrVVE1WlI2RmVlbkR6cXpKcTBhenF5LWU2aTRmcVhFYmRxVTB5RjlsLXpYdnlUU3NMQlowQjRXT2E1WGZiZG9wME9udHRtRjNsalotYXhjUkk5SA?oc=5>
+- **Trump** | 伊朗媒体播视频威胁特朗普幼子 传悬赏逾千万新元取其性命 <https://news.google.com/rss/articles/CBMingFBVV95cUxQMVFuMEpUU1dWc1RhMjgwekpobVZ5Z3FuWHA5Z0VGYzNJajVycm5Scm0xWnNfVXlIbGF2eDN6VDl5SWtmWFBfTm43MEsyRXJLLXRPVXZyeGhJMmNHbk9hY2NKTlJtR3loRWpLQ2N0YXNpUTV3bmJNTGNtWV9MMzI1VVZaV2U4c2MxUkVaSGpROFJsVUM1NmtndjZ6SVVBdw?oc=5>
 
 ### 2026-08-24 15:32  (3 条)
 
