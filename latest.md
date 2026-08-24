@@ -1,38 +1,53 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-24 10:31**
-- 本轮扫到 10519 条, 新增 **3** 条
+- 最近更新: **2026-08-24 11:21**
+- 本轮扫到 10523 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (4 条)
 
-### 蔡徐坤发布牛仔Coldy前传第一集
+### “在大自然和前段时间的演唱会中获取到了非常多的能量～”
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7811142420_m1d194931403301d1dc.html>
+- 链接: <https://k.sina.com.cn/article_7811057114_m1d19345da03301v6t6.html>
 
-### 特朗普对伊史上最严制裁，中国成关键一票
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网财经
-- 时间: 2026-08-23 23:03
-- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTFAtSFBMYWdHa3RoMzFKengyUFQ0Y01EV1V4a210TDR3UEhwd0xxbWk3WUdxeHVzaW9xSTI4VjBzX01YckdQYXVlQVZ2dmh5UkJX?oc=5>
-
-### 特朗普南卡演讲表达了哪些担忧 伊朗核问题与中东局势
+### 特朗普力推加密货币，与贝森特的国债管理举措有何关联
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-08-24 07:20
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9CZTR4aWtjVzVacnlyM1A2cWVoRE9QUHdPZU54WVM4QVlENHVyR3EtdWE1SkVGazA4MGRhanB6eWJnUDcwc1R0RTdkaVg4NlN1Y2ZHV2MxRm9kMzN3Y2dRUXRWdUZQSVZETVJvSUtHbE0?oc=5>
+- 场馆: 华尔街日报中文网
+- 时间: 2026-08-24 11:05
+- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxOWHRlQVdWUG5FSlE1eXk1SmIzMnpMdnNMTUNhRHNFYWE5UzZHNzRaaHp0NTR3WUxIOTJPNFZ2YmNYdjRlRW1ER0RJcE1ZMGtJVUFzV2FmM0pqd1RTOHpFVzMyNHE2M1lxRWE5QUlHZHNJNFg2VWhScHppVTk2S3hKSklEbVQwekx1emM0ejJRU21zbDV0cmdDVHl4SGI?oc=5>
+
+### 特朗普75国签证禁令案幕后：拜登埋的雷炸了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-08-24 03:01
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBpcVYwTG0xb3BZV2pZTGVHd1ZIdlZwWGNtejBkSUFmNHh1N1JDNHRESnNQLXFBNUF3S1ZHTzlRMWZkTC1qTnRQUTRZN3Q?oc=5>
+
+### 金与正，没接特朗普的话
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: QQ News
+- 时间: 2026-08-24 08:23
+- 链接: <https://news.google.com/rss/articles/CBMibEFVX3lxTE9BQXItTEMzNjNvYmo3M0ZJTGRxV280Zks1TVlKRmZoaF80U0ZiT0swalFmN3c2Xy1RaVE4NXI0eWxacGJVa3BsUkJqZGE1cVlzaTZhWTBFYjR3TC1XN3EtZzNBUjgyN09UYVBnOQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-24 11:21  (4 条)
+
+- **蔡徐坤** | “在大自然和前段时间的演唱会中获取到了非常多的能量～” <https://k.sina.com.cn/article_7811057114_m1d19345da03301v6t6.html>
+- **特朗普** | 特朗普力推加密货币，与贝森特的国债管理举措有何关联 <https://news.google.com/rss/articles/CBMinAFBVV95cUxOWHRlQVdWUG5FSlE1eXk1SmIzMnpMdnNMTUNhRHNFYWE5UzZHNzRaaHp0NTR3WUxIOTJPNFZ2YmNYdjRlRW1ER0RJcE1ZMGtJVUFzV2FmM0pqd1RTOHpFVzMyNHE2M1lxRWE5QUlHZHNJNFg2VWhScHppVTk2S3hKSklEbVQwekx1emM0ejJRU21zbDV0cmdDVHl4SGI?oc=5>
+- **特朗普** | 特朗普75国签证禁令案幕后：拜登埋的雷炸了 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBpcVYwTG0xb3BZV2pZTGVHd1ZIdlZwWGNtejBkSUFmNHh1N1JDNHRESnNQLXFBNUF3S1ZHTzlRMWZkTC1qTnRQUTRZN3Q?oc=5>
+- **特朗普** | 金与正，没接特朗普的话 <https://news.google.com/rss/articles/CBMibEFVX3lxTE9BQXItTEMzNjNvYmo3M0ZJTGRxV280Zks1TVlKRmZoaF80U0ZiT0swalFmN3c2Xy1RaVE4NXI0eWxacGJVa3BsUkJqZGE1cVlzaTZhWTBFYjR3TC1XN3EtZzNBUjgyN09UYVBnOQ?oc=5>
 
 ### 2026-08-24 10:31  (3 条)
 
