@@ -1,39 +1,13 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-24 17:04**
-- 本轮扫到 10536 条, 新增 **3** 条
+- 最近更新: **2026-08-24 17:56**
+- 本轮扫到 10536 条, 新增 **0** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮无新增
 
-### 金与正，没接特朗普的话
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-24 08:16
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE51cFBpaFJzbzZSNUZ4ZmlSRi1qSnFkbmIzcWY5NGxISExGZEh3UFBFZldBNFBnc2M4ZEdaZnpYbmprckR2VEw1MzM2bmc?oc=5>
-
-### 特朗普：美对加拿大汽车和钢铁进口关税将提高至50%
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-08-24 14:00
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBmbXRIZFpMdGl2VFY0WVNxbzNIN01VMzcwbm5Wb2M1Y1h1S2RuandONmpvSllrY3B4M2F0YTBZS3RHd1FVQ1NRZEdUUjlTMXg3U2VFZXFzbDZOWEFXXzZmb1dLbmdubUlkS3h5STJCamhCSmdRX3E4TkpkX0ZaNmc?oc=5>
-
-### 美国将在47年后解除对叙利亚的恐怖主义认定。
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Al-Monitor
-- 时间: 2026-08-24 16:19
-- 链接: <https://news.google.com/rss/articles/CBMisAFBVV95cUxOajZFVW8yN0F5ZEhlaTlhUWFwb014ZS0zUnlYdF9OT3VhRHVSMm4xVWlRcHVRV2w0VGxPMW1JSThrZnRvaEVmZzFGa3N0WjQySW5WU3d4Vkh2QVA3TEhzMFRZcHdQV2FNS0VjLVlxd3pWNnNRcEwwUUd3OHlHVlJWeGdTVWxJQVV3dU1TVVRsMVdYeEpHTHZJQWdMekRWSVNKQTlOZUJ4Q1pUWlpHa1hsbg?oc=5>
-
-
----
-
+数据库里所有演出/动态都已见过,暂无新增。
 ## 历史发现
 
 ### 2026-08-24 17:04  (3 条)
