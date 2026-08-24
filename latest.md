@@ -1,11 +1,11 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-24 23:16**
-- 本轮扫到 10548 条, 新增 **1** 条
+- 最近更新: **2026-08-24 23:44**
+- 本轮扫到 10550 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮新发现 (2 条)
 
 ### 财务披露：特朗普6月购买了埃隆·马斯克旗下SpaceX的股份
 
@@ -13,12 +13,25 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-08-24 21:23
-- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxPLTh6eGY1SkFrNU4tWWZRajFqWVpCWkRCT1JvUnVBamhINEN4NmxSeHhKWFVqSjdwSEVEZkhBNENwMDE0OElZQ2RldUEybHFVbGZ2TmFzT1FCOHNpdXZJS095X2hrcF9FNGJxby1PQVdyMThrQkMxZ1FpaVp2WWIyYTRCQ2RUUGNkeTdQLW5uTVZOTHI5R0xhRjJJa0FYLUxoVHNMckVNMnQ3dDZLS1NhZGE4aEk0TVRVMTU5U0VDVlFYZ2NRenVaOFRFaHZ2R0pOeXc?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaDR4N01xMUllUmhwWkpPckdGUS1QV3JtNGd5a3BVX0JWUUpUTFJ3YjNmMkNhMG5QalRQVzVMS1lZbUJQOUdoTVRsU0I4bnJZZGFsRU81dnpnbGVSNGpVOFB6dndtVjhtdHJZamp6Rk9hcVdTd2VaSjF5a2lpSjZNNHl4MWJhbjZaZHlXdUN2NzNxQkx1WHRFekdoRHljR0NkdzRUaV9EWjBPM1dwWW5sdl9oMzBzc1prbG9rQUpYeXM1SnhLaWl6Q29fWGpXTk9DZnc?oc=5>
+
+### 极星称特朗普政府在美国禁令出台前一直对其敷衍拖延
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-08-24 23:28
+- 链接: <https://news.google.com/rss/articles/CBMisAFBVV95cUxQeHpxekFTOWxLZUpkSEROOWZVeFd1c3B6eDdSaVhDTlFNeFRnalhKRGRMUFJKOGtzbkNCaWtLMnRraEpxYVBOLXdLZENPRWxCWW9TRXNlZVE2QlJndEQ3cHZ1S1RXNEVZS2huTWx4WVN6T3diWEg1YW1FMU5QZzVsaXJrTXhVQWFwS2I0dURYSlFBYVluMEt4bUc0MllINUljRVR4d0JYN2plRW1DdTlGbA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-24 23:44  (2 条)
+
+- **特朗普** | 财务披露：特朗普6月购买了埃隆·马斯克旗下SpaceX的股份 <https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaDR4N01xMUllUmhwWkpPckdGUS1QV3JtNGd5a3BVX0JWUUpUTFJ3YjNmMkNhMG5QalRQVzVMS1lZbUJQOUdoTVRsU0I4bnJZZGFsRU81dnpnbGVSNGpVOFB6dndtVjhtdHJZamp6Rk9hcVdTd2VaSjF5a2lpSjZNNHl4MWJhbjZaZHlXdUN2NzNxQkx1WHRFekdoRHljR0NkdzRUaV9EWjBPM1dwWW5sdl9oMzBzc1prbG9rQUpYeXM1SnhLaWl6Q29fWGpXTk9DZnc?oc=5>
+- **Trump** | 极星称特朗普政府在美国禁令出台前一直对其敷衍拖延 <https://news.google.com/rss/articles/CBMisAFBVV95cUxQeHpxekFTOWxLZUpkSEROOWZVeFd1c3B6eDdSaVhDTlFNeFRnalhKRGRMUFJKOGtzbkNCaWtLMnRraEpxYVBOLXdLZENPRWxCWW9TRXNlZVE2QlJndEQ3cHZ1S1RXNEVZS2huTWx4WVN6T3diWEg1YW1FMU5QZzVsaXJrTXhVQWFwS2I0dURYSlFBYVluMEt4bUc0MllINUljRVR4d0JYN2plRW1DdTlGbA?oc=5>
 
 ### 2026-08-24 23:16  (1 条)
 
