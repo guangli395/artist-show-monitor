@@ -1,32 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-24 20:56**
-- 本轮扫到 10542 条, 新增 **2** 条
+- 最近更新: **2026-08-24 21:25**
+- 本轮扫到 10544 条, 新增 **2** 条
 
 ---
 
 ## 本轮新发现 (2 条)
 
-### 美加谈判破裂，暴露特朗普激进贸易策略存在局限
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-24 20:51
-- 链接: <https://news.google.com/rss/articles/CBMijgJBVV95cUxPeGU1dFRDbTg1SmhhUVA4WVpuT0daRV92SmxYbjFBQTJNMFY4ZC1lb3hYYU42cnFsc2szOGxLYkJBRU9vc2VHbVktajZHY0ZaQ1hSa0MxbzBuYjhSaEE0MGxDbG1zWXFoSUVBZFkzWmxROWdOWUdDZ0dCdlc5ekdFazZKSmVZbnVxRVZpdFZobzVZVG5mcWVaLURBaUVXRkZDNUFNQ0ZZTWFMUWhNa0pfWTRSU1luUzFuRnpTMzFkQWNHQTQxWGY4VjYtb2dROEYxZ0tLLW1OQ0thWXhyenM5QlhnVDdfaFhyMks3bERJZE8xLU1IXzNTTFZSWWlXVFh1aGZoLWs1WXYyc1RPNkE?oc=5>
-
-### 伊朗：美国威胁德黑兰的盟友
+### 贝森特：美对伊朗正发动全面经济攻势
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: RFI
-- 时间: 2026-08-24 20:49
-- 链接: <https://news.google.com/rss/articles/CBMi8AFBVV95cUxQRjJZLVRzQnJMcEl5N2dyNTdELU1qLVYzaGt6LTJ0M2VEbXM4M3pwT3pzcUxWX0c0NDhRNHdLV0tPTlNJeFVkdllXdmk3MlVLaXFPTU13UW5fUHQzSTF2MTJzZHJFMkJWRmc4MHZpczk3MlQ3MFlaRHBmbzF2ZGVUVTRIendfdmtSNG5OdlpkUDBPT2k2QmxNM2hsT2JMdzhSR0V6WUdpcEdSeXQyUF9rQ2hXLWNxQ2dzZW9IV0VDa2NSaGh3MnJGQm1HeG9vVGlKbjU2b0tFc3lHbkNuOE4weHVTdnAzWjl1NzFfaTQxNUQ?oc=5>
+- 时间: 2026-08-24 20:55
+- 链接: <https://news.google.com/rss/articles/CBMioAJBVV95cUxOQWZNWXFJMEFRaWNzLU9NR1p3VUoxbGRIZGtYNTZCTlNRVFpJVS0wSlpVS2VxelhkZkdPTnF1RFZIclVhX3I4YWdHWGJYbTNBd3hDZzhud1NxamRCNldXbjRGdHo2TlhPdjFlekl1NXBEdW1oa1pIcVY4UE1QRjUzOWRFeFduUmRsVmJSNnphUm01T3Jpc1VKTW5OQUFLNlYyY29rZEZDQnFRbUgyeU5FM25WVjVuZE9ONXFEaWR1V3ZnT0dHZDVDS3RlMjFTZlE4VXhKWjBsM3N5dWRWV3pqRDlXSW82S3ROUGo0Z3pXM1RrS0pXZVA4WDBMWUNVRzlNYTdzcW9rRkZvSkFnY2doSjZzOGxKcTVqMk9DYU5EOFI?oc=5>
+
+### 凌晨一点，特朗普发飙了！美国向加拿大提出13条
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-08-24 03:42
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFAwbTNuZFFPU2JkVERlTUV5T1RlV29ObzhWalRvS3J4MmNQQXR5aDd3NGxabGJqSTJBbTdweFV3Qjd6RTFvV09LNDA4TDJVU1VKZ1g2UjB3cTk3MXNmVUJpVGdja1pQTENiX25qZGx3cHI?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-24 21:25  (2 条)
+
+- **特朗普** | 贝森特：美对伊朗正发动全面经济攻势 <https://news.google.com/rss/articles/CBMioAJBVV95cUxOQWZNWXFJMEFRaWNzLU9NR1p3VUoxbGRIZGtYNTZCTlNRVFpJVS0wSlpVS2VxelhkZkdPTnF1RFZIclVhX3I4YWdHWGJYbTNBd3hDZzhud1NxamRCNldXbjRGdHo2TlhPdjFlekl1NXBEdW1oa1pIcVY4UE1QRjUzOWRFeFduUmRsVmJSNnphUm01T3Jpc1VKTW5OQUFLNlYyY29rZEZDQnFRbUgyeU5FM25WVjVuZE9ONXFEaWR1V3ZnT0dHZDVDS3RlMjFTZlE4VXhKWjBsM3N5dWRWV3pqRDlXSW82S3ROUGo0Z3pXM1RrS0pXZVA4WDBMWUNVRzlNYTdzcW9rRkZvSkFnY2doSjZzOGxKcTVqMk9DYU5EOFI?oc=5>
+- **特朗普** | 凌晨一点，特朗普发飙了！美国向加拿大提出13条 <https://news.google.com/rss/articles/CBMicEFVX3lxTFAwbTNuZFFPU2JkVERlTUV5T1RlV29ObzhWalRvS3J4MmNQQXR5aDd3NGxabGJqSTJBbTdweFV3Qjd6RTFvV09LNDA4TDJVU1VKZ1g2UjB3cTk3MXNmVUJpVGdja1pQTENiX25qZGx3cHI?oc=5>
 
 ### 2026-08-24 20:56  (2 条)
 
