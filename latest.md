@@ -1,46 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-24 11:21**
-- 本轮扫到 10523 条, 新增 **4** 条
+- 最近更新: **2026-08-24 11:51**
+- 本轮扫到 10525 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (2 条)
 
-### “在大自然和前段时间的演唱会中获取到了非常多的能量～”
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7811057114_m1d19345da03301v6t6.html>
-
-### 特朗普力推加密货币，与贝森特的国债管理举措有何关联
+### 特朗普一再压缩美韩军演 他的亚太盟友怎么想？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-08-24 11:05
-- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxOWHRlQVdWUG5FSlE1eXk1SmIzMnpMdnNMTUNhRHNFYWE5UzZHNzRaaHp0NTR3WUxIOTJPNFZ2YmNYdjRlRW1ER0RJcE1ZMGtJVUFzV2FmM0pqd1RTOHpFVzMyNHE2M1lxRWE5QUlHZHNJNFg2VWhScHppVTk2S3hKSklEbVQwekx1emM0ejJRU21zbDV0cmdDVHl4SGI?oc=5>
+- 场馆: DW.com
+- 时间: 2026-08-24 11:18
+- 链接: <https://news.google.com/rss/articles/CBMiugJBVV95cUxPaFplYi1KbWszVHRMdWZVbGxOVHY2Y3RrREw2NWtkRW1mY0pKVHMwMFdtbmdBZVIyaDBwMVJ3YmlnNU0tVEhCU2RmR09jMVVYRDZoZjFtYnJHRGowaEJld3hYN2kxT3l1ZVJRT0s2Qk9VaEVXX0QxMjdfN3Jrdzl0WUFpVTc1Z2FlQkg4YVBJREJVTDBDREVuSXNlVXFzSGVoTTBDWlAwTFRuUUhpXzBfdENQUUlablRGUjdXMXRCVGNuU2t3dmd0OWJPSm5WUG9mbFZZV09uZ1hOLTRaTDNLamNNR2IwcUJWZTFOUVEyTXBJNGY2S3BYT0YwS3poLUM2cUdNM3NpTXZTY2tLVzV3dk5HRDZPQTJYLVVRY3F1WGMxTFNzUjZTRXNrYklNRlNlRk1KWC1oeDZ0QdIBugJBVV95cUxPTGY5cDFTWFd0bmozUldTTURYbThzajZ6X1VpU1h4RGEtUWlSekVDZG1qMFZnYlRwbGVGQ3NwVmN5RnlPYzZvc1VVVGY0SUdyb0FfMzJjRUpEemQ0cVQ4dFBxQW9OODgwcXlQc1drRUsxaWFmMm42WENpZF9fT0xlcEZsWFdPbTFkUjVFWElmY0ZJYkVnVjl1VlVVUVExZ05lMHpaRnphMU1tRXB0dzNHV18yaVhpd0diNGlRUmlySkdmY1NNMXQ4a01CWVhMZ2ZwTE16U0lEcVhmT1d3ZWNLRVZkY1hBUkRJTDlENUdxdjdBVE4wVEhmU1dFdjZkVTZadzg4R0U0dG8wTGNKVnBhRTN1dmRCLXFEMmdIamRnMUJuZHIxRmlvbW9BQXBhMlNSMW1DaE9tRlRnQQ?oc=5>
 
-### 特朗普75国签证禁令案幕后：拜登埋的雷炸了
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-24 03:01
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBpcVYwTG0xb3BZV2pZTGVHd1ZIdlZwWGNtejBkSUFmNHh1N1JDNHRESnNQLXFBNUF3S1ZHTzlRMWZkTC1qTnRQUTRZN3Q?oc=5>
-
-### 金与正，没接特朗普的话
+### 莱维特把白宫新闻秘书做得“光鲜亮丽”，特朗普物色接班人：这辈子没收过这么多求职申请
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: QQ News
-- 时间: 2026-08-24 08:23
-- 链接: <https://news.google.com/rss/articles/CBMibEFVX3lxTE9BQXItTEMzNjNvYmo3M0ZJTGRxV280Zks1TVlKRmZoaF80U0ZiT0swalFmN3c2Xy1RaVE4NXI0eWxacGJVa3BsUkJqZGE1cVlzaTZhWTBFYjR3TC1XN3EtZzNBUjgyN09UYVBnOQ?oc=5>
+- 场馆: 搜狐网
+- 时间: 2026-08-24 10:34
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxOdnU2SXZ2NHk0NUJ5VkQwR0s0RGozYVhBZ0NBRGluWXROalR0NTAxSXhUcjJ3UDBNc2l5c0k4OXlld25VV3RlLUg0aGpMSmp2OFROeEhEQVg2X0l2WUc1Z2Vhc3R4dG9XRFh2N0FzZG1jcGNvTkxLMzVKaWVTZnJBNERTLWEyVVJGek5hTw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-24 11:51  (2 条)
+
+- **特朗普** | 特朗普一再压缩美韩军演 他的亚太盟友怎么想？ <https://news.google.com/rss/articles/CBMiugJBVV95cUxPaFplYi1KbWszVHRMdWZVbGxOVHY2Y3RrREw2NWtkRW1mY0pKVHMwMFdtbmdBZVIyaDBwMVJ3YmlnNU0tVEhCU2RmR09jMVVYRDZoZjFtYnJHRGowaEJld3hYN2kxT3l1ZVJRT0s2Qk9VaEVXX0QxMjdfN3Jrdzl0WUFpVTc1Z2FlQkg4YVBJREJVTDBDREVuSXNlVXFzSGVoTTBDWlAwTFRuUUhpXzBfdENQUUlablRGUjdXMXRCVGNuU2t3dmd0OWJPSm5WUG9mbFZZV09uZ1hOLTRaTDNLamNNR2IwcUJWZTFOUVEyTXBJNGY2S3BYT0YwS3poLUM2cUdNM3NpTXZTY2tLVzV3dk5HRDZPQTJYLVVRY3F1WGMxTFNzUjZTRXNrYklNRlNlRk1KWC1oeDZ0QdIBugJBVV95cUxPTGY5cDFTWFd0bmozUldTTURYbThzajZ6X1VpU1h4RGEtUWlSekVDZG1qMFZnYlRwbGVGQ3NwVmN5RnlPYzZvc1VVVGY0SUdyb0FfMzJjRUpEemQ0cVQ4dFBxQW9OODgwcXlQc1drRUsxaWFmMm42WENpZF9fT0xlcEZsWFdPbTFkUjVFWElmY0ZJYkVnVjl1VlVVUVExZ05lMHpaRnphMU1tRXB0dzNHV18yaVhpd0diNGlRUmlySkdmY1NNMXQ4a01CWVhMZ2ZwTE16U0lEcVhmT1d3ZWNLRVZkY1hBUkRJTDlENUdxdjdBVE4wVEhmU1dFdjZkVTZadzg4R0U0dG8wTGNKVnBhRTN1dmRCLXFEMmdIamRnMUJuZHIxRmlvbW9BQXBhMlNSMW1DaE9tRlRnQQ?oc=5>
+- **特朗普** | 莱维特把白宫新闻秘书做得“光鲜亮丽”，特朗普物色接班人：这辈子没收过这么多求职申请 <https://news.google.com/rss/articles/CBMijAFBVV95cUxOdnU2SXZ2NHk0NUJ5VkQwR0s0RGozYVhBZ0NBRGluWXROalR0NTAxSXhUcjJ3UDBNc2l5c0k4OXlld25VV3RlLUg0aGpMSmp2OFROeEhEQVg2X0l2WUc1Z2Vhc3R4dG9XRFh2N0FzZG1jcGNvTkxLMzVKaWVTZnJBNERTLWEyVVJGek5hTw?oc=5>
 
 ### 2026-08-24 11:21  (4 条)
 
