@@ -1,24 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-24 20:22**
-- 本轮扫到 10540 条, 新增 **1** 条
+- 最近更新: **2026-08-24 20:56**
+- 本轮扫到 10542 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮新发现 (2 条)
 
-### Trump Threatens 50% Tariff on Automobiles and Parts From Canada
+### 美加谈判破裂，暴露特朗普激进贸易策略存在局限
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-08-24 14:47
-- 链接: <https://news.google.com/rss/articles/CBMirgFBVV95cUxQS0E5a0ZVQ2Q2RUJRRDhUZHFQaGNlSDhkR1dySmJFU3h3OW81SVhmVFdQaENzTHBXNXFLUzVEcXBBWnpPYk85QklWMjdtMmJBRTVudnV6S0xiVWhzQms4UEdSZEFkbmVaaU1qZFpRYldOUmVFRFlfTm9nRWNxam9TVXQ1VlQ2TlFHSHZabVV3VHpzSU5FYkFDeE9hUGZnMEwwYS1EeFZzbjRjNU1lNkE?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-24 20:51
+- 链接: <https://news.google.com/rss/articles/CBMijgJBVV95cUxPeGU1dFRDbTg1SmhhUVA4WVpuT0daRV92SmxYbjFBQTJNMFY4ZC1lb3hYYU42cnFsc2szOGxLYkJBRU9vc2VHbVktajZHY0ZaQ1hSa0MxbzBuYjhSaEE0MGxDbG1zWXFoSUVBZFkzWmxROWdOWUdDZ0dCdlc5ekdFazZKSmVZbnVxRVZpdFZobzVZVG5mcWVaLURBaUVXRkZDNUFNQ0ZZTWFMUWhNa0pfWTRSU1luUzFuRnpTMzFkQWNHQTQxWGY4VjYtb2dROEYxZ0tLLW1OQ0thWXhyenM5QlhnVDdfaFhyMks3bERJZE8xLU1IXzNTTFZSWWlXVFh1aGZoLWs1WXYyc1RPNkE?oc=5>
+
+### 伊朗：美国威胁德黑兰的盟友
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-08-24 20:49
+- 链接: <https://news.google.com/rss/articles/CBMi8AFBVV95cUxQRjJZLVRzQnJMcEl5N2dyNTdELU1qLVYzaGt6LTJ0M2VEbXM4M3pwT3pzcUxWX0c0NDhRNHdLV0tPTlNJeFVkdllXdmk3MlVLaXFPTU13UW5fUHQzSTF2MTJzZHJFMkJWRmc4MHZpczk3MlQ3MFlaRHBmbzF2ZGVUVTRIendfdmtSNG5OdlpkUDBPT2k2QmxNM2hsT2JMdzhSR0V6WUdpcEdSeXQyUF9rQ2hXLWNxQ2dzZW9IV0VDa2NSaGh3MnJGQm1HeG9vVGlKbjU2b0tFc3lHbkNuOE4weHVTdnAzWjl1NzFfaTQxNUQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-24 20:56  (2 条)
+
+- **特朗普** | 美加谈判破裂，暴露特朗普激进贸易策略存在局限 <https://news.google.com/rss/articles/CBMijgJBVV95cUxPeGU1dFRDbTg1SmhhUVA4WVpuT0daRV92SmxYbjFBQTJNMFY4ZC1lb3hYYU42cnFsc2szOGxLYkJBRU9vc2VHbVktajZHY0ZaQ1hSa0MxbzBuYjhSaEE0MGxDbG1zWXFoSUVBZFkzWmxROWdOWUdDZ0dCdlc5ekdFazZKSmVZbnVxRVZpdFZobzVZVG5mcWVaLURBaUVXRkZDNUFNQ0ZZTWFMUWhNa0pfWTRSU1luUzFuRnpTMzFkQWNHQTQxWGY4VjYtb2dROEYxZ0tLLW1OQ0thWXhyenM5QlhnVDdfaFhyMks3bERJZE8xLU1IXzNTTFZSWWlXVFh1aGZoLWs1WXYyc1RPNkE?oc=5>
+- **特朗普** | 伊朗：美国威胁德黑兰的盟友 <https://news.google.com/rss/articles/CBMi8AFBVV95cUxQRjJZLVRzQnJMcEl5N2dyNTdELU1qLVYzaGt6LTJ0M2VEbXM4M3pwT3pzcUxWX0c0NDhRNHdLV0tPTlNJeFVkdllXdmk3MlVLaXFPTU13UW5fUHQzSTF2MTJzZHJFMkJWRmc4MHZpczk3MlQ3MFlaRHBmbzF2ZGVUVTRIendfdmtSNG5OdlpkUDBPT2k2QmxNM2hsT2JMdzhSR0V6WUdpcEdSeXQyUF9rQ2hXLWNxQ2dzZW9IV0VDa2NSaGh3MnJGQm1HeG9vVGlKbjU2b0tFc3lHbkNuOE4weHVTdnAzWjl1NzFfaTQxNUQ?oc=5>
 
 ### 2026-08-24 20:22  (1 条)
 
