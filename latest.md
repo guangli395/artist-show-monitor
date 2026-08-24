@@ -1,14 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-24 22:51**
-- 本轮扫到 10547 条, 新增 **0** 条
+- 最近更新: **2026-08-24 23:16**
+- 本轮扫到 10548 条, 新增 **1** 条
 
 ---
 
-## 本轮无新增
+## 本轮新发现 (1 条)
 
-数据库里所有演出/动态都已见过,暂无新增。
+### 财务披露：特朗普6月购买了埃隆·马斯克旗下SpaceX的股份
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-24 21:23
+- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxPLTh6eGY1SkFrNU4tWWZRajFqWVpCWkRCT1JvUnVBamhINEN4NmxSeHhKWFVqSjdwSEVEZkhBNENwMDE0OElZQ2RldUEybHFVbGZ2TmFzT1FCOHNpdXZJS095X2hrcF9FNGJxby1PQVdyMThrQkMxZ1FpaVp2WWIyYTRCQ2RUUGNkeTdQLW5uTVZOTHI5R0xhRjJJa0FYLUxoVHNMckVNMnQ3dDZLS1NhZGE4aEk0TVRVMTU5U0VDVlFYZ2NRenVaOFRFaHZ2R0pOeXc?oc=5>
+
+
+---
+
 ## 历史发现
+
+### 2026-08-24 23:16  (1 条)
+
+- **特朗普** | 财务披露：特朗普6月购买了埃隆·马斯克旗下SpaceX的股份 <https://news.google.com/rss/articles/CBMi0gFBVV95cUxPLTh6eGY1SkFrNU4tWWZRajFqWVpCWkRCT1JvUnVBamhINEN4NmxSeHhKWFVqSjdwSEVEZkhBNENwMDE0OElZQ2RldUEybHFVbGZ2TmFzT1FCOHNpdXZJS095X2hrcF9FNGJxby1PQVdyMThrQkMxZ1FpaVp2WWIyYTRCQ2RUUGNkeTdQLW5uTVZOTHI5R0xhRjJJa0FYLUxoVHNMckVNMnQ3dDZLS1NhZGE4aEk0TVRVMTU5U0VDVlFYZ2NRenVaOFRFaHZ2R0pOeXc?oc=5>
 
 ### 2026-08-24 22:18  (2 条)
 
