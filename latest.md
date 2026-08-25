@@ -1,56 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-25 04:06**
-- 本轮扫到 10573 条, 新增 **5** 条
+- 最近更新: **2026-08-25 05:02**
+- 本轮扫到 10575 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (2 条)
 
-### 特朗普政府启动“经济孤立行动” 公布多项针对伊朗的经济制裁举措
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-08-24 19:21
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE5qaUFBNWxRVGlqZHAwVlhrWGNzUTlpQkh1TU1RSnZUTG5ZRkg0Y1hRWTV5d2MwVVZ2MHJXSFpoRWpNSWlpVDdIQg?oc=5>
-
-### 特朗普公众形象持续恶化 最新民调支持率公布
+### 泽连斯基承认：欺骗了特朗普
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-08-25 03:56
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9hUFJjdnRnenRnMnY2ZjRQeVFJaE0xc1Jnb2pIeDdXbHZSOHhEMDI1TEgzaFQ1REFPWUFtbHM4enhLblZIelExS3lLaGpNWnpEMV9BbHgyNDVfM0gxRDh3TWJPbDR4aWNkN0c4ZERmZGQ?oc=5>
+- 场馆: 手机新浪网
+- 时间: 2026-08-25 04:07
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFBpLXVFUzY4NnktUThQZ3FwYS1DX3FNTWg0bHlDNG9FemxfVmZZLU9zOVh0OGt4bC05Z2JfMkNCU1ZERW84TzhibTEwNkplMVIzRV9mblEycFNEbWwtNjRfTmVLeWdWRnVTQnh6YzFKMXFTQQ?oc=5>
 
-### 财务披露：特朗普6月购买了埃隆·马斯克旗下SpaceX的股份
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-24 21:23
-- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE1CSFRLalRFeFk1Y29MRHBhU3A4OHpQUldYZVlwbHBHWE5GVVROUjVpcU43LXBQeFE2Mi11RUdHcGt3Vlk4Rl9MR0JRNVNNc2FpSEZNNGJYX2s4Qm5PMjgxQ1JqVUNrMWdEaC1JUjdveElKalRBc0p5UTRB?oc=5>
-
-### 特朗普最新披露：6月股票交易超千笔 曾买入马斯克SpaceX股份
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-25 00:09
-- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTE1sZGl1SjJsNGE2blRiWTZRTnJGZnpWQjhxVGZtenlZakZRdFlWbDVwcV82TEpzdDFQVUM1UmtUTEM0MDhYZEtWNU5EXzFyMDR6TU5la2VuMkJPeFVXNWJlc3VSQ282bXJ1TDJlZ3Jn?oc=5>
-
-### Trump Raises Tariffs on Canadian Cars and Steel to 50% on Jan. 1
+### 特朗普将于1月1日将加拿大汽车和钢铁的关税提高至50%。
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: Moomoo
-- 时间: 2026-08-24 15:28
-- 链接: <https://news.google.com/rss/articles/CBMimwFBVV95cUxQM25vNUJzN00tejNIMmZRQ1pUa3hlQW4wbzZEMURRZUdldEY4dm5ZM3ZYbW1mcXJNY1p3bWR4YnotUzNNcjZzUWNraHgzZUF1WkZEWUd1b2JFbjRsY0VsRGVDVEJ6UXRPQ0lDTDUxWFd6aUhEV283UzU2Ty11anBtOFZNUVNPWGtOQm1Edll5eWVvSk1kcGpfZEdRZw?oc=5>
+- 时间: 2026-08-24 14:03
+- 链接: <https://news.google.com/rss/articles/CBMiogFBVV95cUxPVHNXdnJBSFB6emxZR3B6R2V3aTNUYXhIWU03a1l4S3dwR2x5VE11bVhUTUZhTkZhR3NoV3pDeFRYdTBXcXN2Vk8zUktIM0tMMkl0ckVueThleXJiY04tNklYTkRNVWUtQUxnLVA3OFhudlBILTlOQUUxOHJLalR5VXZDNElNME9BRGF0ckJTbWR1MlVkbzFGeFFmZm5hN3g1cWc?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-25 05:02  (2 条)
+
+- **特朗普** | 泽连斯基承认：欺骗了特朗普 <https://news.google.com/rss/articles/CBMickFVX3lxTFBpLXVFUzY4NnktUThQZ3FwYS1DX3FNTWg0bHlDNG9FemxfVmZZLU9zOVh0OGt4bC05Z2JfMkNCU1ZERW84TzhibTEwNkplMVIzRV9mblEycFNEbWwtNjRfTmVLeWdWRnVTQnh6YzFKMXFTQQ?oc=5>
+- **Trump** | 特朗普将于1月1日将加拿大汽车和钢铁的关税提高至50%。 <https://news.google.com/rss/articles/CBMiogFBVV95cUxPVHNXdnJBSFB6emxZR3B6R2V3aTNUYXhIWU03a1l4S3dwR2x5VE11bVhUTUZhTkZhR3NoV3pDeFRYdTBXcXN2Vk8zUktIM0tMMkl0ckVueThleXJiY04tNklYTkRNVWUtQUxnLVA3OFhudlBILTlOQUUxOHJLalR5VXZDNElNME9BRGF0ckJTbWR1MlVkbzFGeFFmZm5hN3g1cWc?oc=5>
 
 ### 2026-08-25 04:06  (5 条)
 
