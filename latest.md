@@ -1,70 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-25 03:24**
-- 本轮扫到 10568 条, 新增 **7** 条
+- 最近更新: **2026-08-25 04:06**
+- 本轮扫到 10573 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (5 条)
 
-### 周杰伦为何否认新专辑耗时三四年？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923118_1d5ae15ae06801ou50.html>
-
-### 泽连斯基承认：我骗了特朗普
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-08-25 03:15
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE9zSk42NXJaQm5NRHhnU004NDJfZUZHckRNeUtuX2xKN28yeko4ZlVtMGRmdGZQc1R0VExBLUxHdUlqOUtaT2tLLU1YWnN1dEt6cElFVWRvVWZWNGRLNlV2OHlsa3NxbVJPcm0zd3Braldsdw?oc=5>
-
-### “伊朗悬赏1000万美金暗杀巴伦·特朗普”，美特勤局回应
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-08-25 03:07
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE05eDVaU2pMdGJscm9TYmw5Smw5YW1XanlSblVudjU5X2Rydmw2UGxsQnJBX0lhY1hNWXZBN2s2ZTBSeUZJdWtIX0hYZ0hYRzJkRFlqVGVJVE1lOFhrOHdsVndwU1pNblVkZ1E?oc=5>
-
-### 偏好快餐不爱运动，特朗普胖了20多斤，自称“垃圾食品是好的”，专家：肥胖可能导致过早失能和死亡
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-08-25 02:59
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE14NnNNZmVGaEVRSWtoLUF2a1FJUGQzRUd4M0Q2dnhTZWZpS1hUMXQ1c1Y3V2tXT2dFUkE1Nzc0dDE2cWdYREt3c29XQ1pFNHFJVnN6Z1ltVWtzaEk3NmdCWlN5aWNONnF2a0liWUN0WTBTcUV5Y0JzeUQwLTdELXc?oc=5>
-
-### 最新民调：受美伊战事影响 特朗普支持率维持历史低位
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-08-24 23:26
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE52NTluNnJlMmllVEl3SzJ6Z0JwOThPcW9EQXVWQl9iQ01WREtlMGRTQU9QQmZ0dmdzblVha3FTUmU4Rnkzb2VBUGtTTHNYNkFjR2cxeUFhQzJacjRCekZRY0tUYnBaMWJa?oc=5>
-
-### 美伊拉锯战消磨民众信心 特朗普支持率跌至任期谷底
+### 特朗普政府启动“经济孤立行动” 公布多项针对伊朗的经济制裁举措
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 财联社
-- 时间: 2026-08-25 02:13
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE9PR3RDY2hYTXNMdEFWbTFwS01sMGg1V1NfWmZZX1FKZ0NsS3JueDNpX2tRMmZ2czgyZEFmTFFZUXVpV0MybHdhbw?oc=5>
+- 时间: 2026-08-24 19:21
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE5qaUFBNWxRVGlqZHAwVlhrWGNzUTlpQkh1TU1RSnZUTG5ZRkg0Y1hRWTV5d2MwVVZ2MHJXSFpoRWpNSWlpVDdIQg?oc=5>
 
-### 特朗普试图扼杀伊朗经济，而这取决于中国是否合作
+### 特朗普公众形象持续恶化 最新民调支持率公布
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-08-25 03:56
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9hUFJjdnRnenRnMnY2ZjRQeVFJaE0xc1Jnb2pIeDdXbHZSOHhEMDI1TEgzaFQ1REFPWUFtbHM4enhLblZIelExS3lLaGpNWnpEMV9BbHgyNDVfM0gxRDh3TWJPbDR4aWNkN0c4ZERmZGQ?oc=5>
+
+### 财务披露：特朗普6月购买了埃隆·马斯克旗下SpaceX的股份
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-24 21:23
+- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE1CSFRLalRFeFk1Y29MRHBhU3A4OHpQUldYZVlwbHBHWE5GVVROUjVpcU43LXBQeFE2Mi11RUdHcGt3Vlk4Rl9MR0JRNVNNc2FpSEZNNGJYX2s4Qm5PMjgxQ1JqVUNrMWdEaC1JUjdveElKalRBc0p5UTRB?oc=5>
+
+### 特朗普最新披露：6月股票交易超千笔 曾买入马斯克SpaceX股份
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-25 00:09
+- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTE1sZGl1SjJsNGE2blRiWTZRTnJGZnpWQjhxVGZtenlZakZRdFlWbDVwcV82TEpzdDFQVUM1UmtUTEM0MDhYZEtWNU5EXzFyMDR6TU5la2VuMkJPeFVXNWJlc3VSQ282bXJ1TDJlZ3Jn?oc=5>
+
+### Trump Raises Tariffs on Canadian Cars and Steel to 50% on Jan. 1
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-08-25 01:44
-- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE83OWgta0tuOWhsV1R6akE4RzN5VTVQQlhRTnNHVzVBMHo2QjlNNUt0Y1hfT0lKTFdDXzE3TlowWU9kRWNOcVF0MzVqVkcxS2d3NEdncGNROGdBMFdsYkZ0ZEFoQlJhMFdudDNacFJuYmZWUlQ5VU1ZY0pjTC0?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-08-24 15:28
+- 链接: <https://news.google.com/rss/articles/CBMimwFBVV95cUxQM25vNUJzN00tejNIMmZRQ1pUa3hlQW4wbzZEMURRZUdldEY4dm5ZM3ZYbW1mcXJNY1p3bWR4YnotUzNNcjZzUWNraHgzZUF1WkZEWUd1b2JFbjRsY0VsRGVDVEJ6UXRPQ0lDTDUxWFd6aUhEV283UzU2Ty11anBtOFZNUVNPWGtOQm1Edll5eWVvSk1kcGpfZEdRZw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-25 04:06  (5 条)
+
+- **特朗普** | 特朗普政府启动“经济孤立行动” 公布多项针对伊朗的经济制裁举措 <https://news.google.com/rss/articles/CBMiSEFVX3lxTE5qaUFBNWxRVGlqZHAwVlhrWGNzUTlpQkh1TU1RSnZUTG5ZRkg0Y1hRWTV5d2MwVVZ2MHJXSFpoRWpNSWlpVDdIQg?oc=5>
+- **特朗普** | 特朗普公众形象持续恶化 最新民调支持率公布 <https://news.google.com/rss/articles/CBMicEFVX3lxTE9hUFJjdnRnenRnMnY2ZjRQeVFJaE0xc1Jnb2pIeDdXbHZSOHhEMDI1TEgzaFQ1REFPWUFtbHM4enhLblZIelExS3lLaGpNWnpEMV9BbHgyNDVfM0gxRDh3TWJPbDR4aWNkN0c4ZERmZGQ?oc=5>
+- **特朗普** | 财务披露：特朗普6月购买了埃隆·马斯克旗下SpaceX的股份 <https://news.google.com/rss/articles/CBMiekFVX3lxTE1CSFRLalRFeFk1Y29MRHBhU3A4OHpQUldYZVlwbHBHWE5GVVROUjVpcU43LXBQeFE2Mi11RUdHcGt3Vlk4Rl9MR0JRNVNNc2FpSEZNNGJYX2s4Qm5PMjgxQ1JqVUNrMWdEaC1JUjdveElKalRBc0p5UTRB?oc=5>
+- **特朗普** | 特朗普最新披露：6月股票交易超千笔 曾买入马斯克SpaceX股份 <https://news.google.com/rss/articles/CBMibkFVX3lxTE1sZGl1SjJsNGE2blRiWTZRTnJGZnpWQjhxVGZtenlZakZRdFlWbDVwcV82TEpzdDFQVUM1UmtUTEM0MDhYZEtWNU5EXzFyMDR6TU5la2VuMkJPeFVXNWJlc3VSQ282bXJ1TDJlZ3Jn?oc=5>
+- **Trump** | Trump Raises Tariffs on Canadian Cars and Steel to 50% on Jan. 1 <https://news.google.com/rss/articles/CBMimwFBVV95cUxQM25vNUJzN00tejNIMmZRQ1pUa3hlQW4wbzZEMURRZUdldEY4dm5ZM3ZYbW1mcXJNY1p3bWR4YnotUzNNcjZzUWNraHgzZUF1WkZEWUd1b2JFbjRsY0VsRGVDVEJ6UXRPQ0lDTDUxWFd6aUhEV283UzU2Ty11anBtOFZNUVNPWGtOQm1Edll5eWVvSk1kcGpfZEdRZw?oc=5>
 
 ### 2026-08-25 03:24  (7 条)
 
