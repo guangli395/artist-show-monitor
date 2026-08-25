@@ -1,24 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-25 22:19**
-- 本轮扫到 10646 条, 新增 **1** 条
+- 最近更新: **2026-08-25 22:52**
+- 本轮扫到 10648 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮新发现 (2 条)
 
-### 希拉里疯狂吐槽：特朗普一通骚操作 把美国的家底都败光了 华盛顿要是还活着都得摇头
+### 民调：特朗普的支持率为33%，达历史最低
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-08-25 22:09
-- 链接: <https://news.google.com/rss/articles/CBMi4AFBVV95cUxQelBkQ1ZrSkdFUFFvR1Izem00MXRpeDdwVWwyMExYMEdmZ3B0NUdEZTNnS193RXdYNzFhQnRjbklDaVVZZWJDMnc0TlQ2MV83WUtfWmFIYmZob2owLXoxUV96X2tac0lEOW15NENQSEpqeVlPY1FEQkxHSGZ0YmtkTFdibHdxMlUxUTAxQmN0SHROalVKNlBjQlVDbm9EcXpFaU45eFhibFZRTS1zRUxHWTIwUmpZVVM5eldEbWdrUUJJUVZONUlXN0hSb3pLbVJQamM1cTlTZnBQWDc1MHp5Tg?oc=5>
+- 场馆: 观察者
+- 时间: 2026-08-25 22:37
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5wNTF6S3JhZ3dzMEJ5R29tVi1RemJPYl8wTFRBTjkybHpva1pFZmYzNDJMRmpKTjBfRWVYVXpVU0NBWXNVMGJsRktDZWxMMnlMNUVER05qMDgyakh1ai1JSUVkUHhMY0hZZWc?oc=5>
+
+### 特朗普称霍尔木兹海峡国际水域内水雷均已被清除
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-25 14:34
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdjl0OHlXYVQyb2tpM3FQRHVVUmdkajhRejZEcml3ekZLSWRVT0FUanBsZy10SW1HejVUY2VrM1hVMklXckVWTXlQQ09aWF9ReG9NRTBQSXlmYmM3dVl4Y3QzblM2Nk1xU01ZMUFpRm9uTENTdkg0TXNoazMtdFBOSjJGRVpoZk5PZmh1Um5pdmdqeEhWTG4xZmF4VXh3Zy14LU5VdjJlczMybjE1Zmx1UUhZNkNrUjNCWHp3V2NLeUtMYmZMX2xnSWxoRTRfSGY4?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-25 22:52  (2 条)
+
+- **特朗普** | 民调：特朗普的支持率为33%，达历史最低 <https://news.google.com/rss/articles/CBMiakFVX3lxTE5wNTF6S3JhZ3dzMEJ5R29tVi1RemJPYl8wTFRBTjkybHpva1pFZmYzNDJMRmpKTjBfRWVYVXpVU0NBWXNVMGJsRktDZWxMMnlMNUVER05qMDgyakh1ai1JSUVkUHhMY0hZZWc?oc=5>
+- **特朗普** | 特朗普称霍尔木兹海峡国际水域内水雷均已被清除 <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdjl0OHlXYVQyb2tpM3FQRHVVUmdkajhRejZEcml3ekZLSWRVT0FUanBsZy10SW1HejVUY2VrM1hVMklXckVWTXlQQ09aWF9ReG9NRTBQSXlmYmM3dVl4Y3QzblM2Nk1xU01ZMUFpRm9uTENTdkg0TXNoazMtdFBOSjJGRVpoZk5PZmh1Um5pdmdqeEhWTG4xZmF4VXh3Zy14LU5VdjJlczMybjE1Zmx1UUhZNkNrUjNCWHp3V2NLeUtMYmZMX2xnSWxoRTRfSGY4?oc=5>
 
 ### 2026-08-25 22:19  (1 条)
 
