@@ -1,48 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-25 12:35**
-- 本轮扫到 10604 条, 新增 **4** 条
+- 最近更新: **2026-08-25 13:43**
+- 本轮扫到 10607 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (3 条)
+
+### 安省电力成最大王牌，福特喊话特朗普：轻敌代价就是全美钱包痛！
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 手机新浪网
+- 时间: 2026-08-25 13:11
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE1hUWRrUk1GM2I0Sl9ueThPVXZLcjFZTGhlQUJlcW5lYkJPTUo1VXNfT0RyOVRUakVKNGU5MFkzQ29SUk1MM0lad3QxcUZEMDVXQ1R1LVhiNkExbHMxRXRaWTFrLU41QnlGX3RhcUhuUllPdw?oc=5>
 
 ### 特朗普称考虑将安大略湖更名为“美国湖”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中国日报网
+- 场馆: 搜狐网
+- 时间: 2026-08-25 12:46
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxORGJGc2tEMnNfYW8tdEJvZGhJdm5kU3lxM2xBUlpzcmxROGktQzFSTHBhTlI3clFmNnNtV1NnZWdZNVAxVDBjeXhvMzFqX3N6QnBQUVZNek44NXVIc2ZWc2FWcEVYSDJnemRNdWxtd2gxdERuZVVnMUhkQkx0SDk3blREb0ZDR25Q?oc=5>
+
+### 特朗普发布与金正恩合影
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
 - 时间: 2026-08-25 12:27
-- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE13WUNWdjVSVmxseGJVa2x6Y1FxREpFSmlwVEtfYi1WUEZBanR1bnZhbVJZQkprOU1uMGhYVFQ1M1VvWVdCbTZvWWcyMmtsRXpiWF80MXl5TkRMcXdxNVdWSFZKU1ZJNHh1SkN6dkIxU2NNLXRFNHRfME9GZFU?oc=5>
-
-### 特朗普将H-1B签证永久费用定为103,265美元
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: idnfinancials.com
-- 时间: 2026-08-25 12:00
-- 链接: <https://news.google.com/rss/articles/CBMijgJBVV95cUxOV3hhN1l2M0ZDbkdkSW5xdnRtQmtMdi0xVkNRNlViTWJMNnhPUFV0SWwybWhtaVlKTWpsaWctSnhtb2VHRWhPZkh0b0NXR0FCTWh5QUM5LTFxTGxCdXRHOWFySldpX2tlYlNUV29iUkxyWVQ3Rm5NaFVGZnNncUJIR1JvRjBxbjdJdHktQjJQUW92VW9lcFN6eFktcGNfcU9qQ1hLc1FKRWhSQVBDcTdfZDdnajNBZzRtSXZSUXMyVDdGNklfd0dmT1FxenI3WmdEZ2pPRG9WSGJiREdnbmhpZ0xlTHpoWF9ySTE3clhtbF9ZeUhEem1RaXpIZ0g1bXlabmp5TFV1TDhGbnotSVE?oc=5>
-
-### 特朗普政府拟对H-1B签证征收逾10万美元费用
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-08-25 02:37
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE9FOC1lSzFHcHhxakZobDdFRmNyMDFYQTVDMkxwUmVnR0ZsaUx6cmhEa3loVTRZaEtNVVhKMWMxZlJaRklKdXlPSExnTUlMdE5DZTl1UEtWdUx4QzhVVTMtd1lMQWJ3dVl5cGVabmcydW1qclJO?oc=5>
-
-### 民调：伊朗战事拖累特朗普支持率
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 京报网
-- 时间: 2026-08-25 09:45
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iWTBiMTNKSEl2M09tLWlpLW9xTHNaWVptejcwSkJYTzVQOXBoVjdhX0JnTGhkRnU5R1FxZjRjLUFrMm1sSDNxRG9kRjdKTWdPNWNxTDBlcEVJZF90VVE?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE94RDZHU3ZRT2RQVjhEOGtGNmpJOEo5d21OUUpxS3k0RmpIYmdTaTZidkl3anF0TXdsSzJSckxjUFFlNXhCSzk4a2hrNDB4cnpreVNkd3hlNU5kcE1vWXF1djhDNzU5SHQtVjBFSFdxUWpxcVFZeVE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-25 13:43  (3 条)
+
+- **特朗普** | 安省电力成最大王牌，福特喊话特朗普：轻敌代价就是全美钱包痛！ <https://news.google.com/rss/articles/CBMickFVX3lxTE1hUWRrUk1GM2I0Sl9ueThPVXZLcjFZTGhlQUJlcW5lYkJPTUo1VXNfT0RyOVRUakVKNGU5MFkzQ29SUk1MM0lad3QxcUZEMDVXQ1R1LVhiNkExbHMxRXRaWTFrLU41QnlGX3RhcUhuUllPdw?oc=5>
+- **特朗普** | 特朗普称考虑将安大略湖更名为“美国湖” <https://news.google.com/rss/articles/CBMiiAFBVV95cUxORGJGc2tEMnNfYW8tdEJvZGhJdm5kU3lxM2xBUlpzcmxROGktQzFSTHBhTlI3clFmNnNtV1NnZWdZNVAxVDBjeXhvMzFqX3N6QnBQUVZNek44NXVIc2ZWc2FWcEVYSDJnemRNdWxtd2gxdERuZVVnMUhkQkx0SDk3blREb0ZDR25Q?oc=5>
+- **特朗普** | 特朗普发布与金正恩合影 <https://news.google.com/rss/articles/CBMidkFVX3lxTE94RDZHU3ZRT2RQVjhEOGtGNmpJOEo5d21OUUpxS3k0RmpIYmdTaTZidkl3anF0TXdsSzJSckxjUFFlNXhCSzk4a2hrNDB4cnpreVNkd3hlNU5kcE1vWXF1djhDNzU5SHQtVjBFSFdxUWpxcVFZeVE?oc=5>
 
 ### 2026-08-25 12:35  (4 条)
 
