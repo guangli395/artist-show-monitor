@@ -1,32 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-25 08:34**
-- 本轮扫到 10586 条, 新增 **2** 条
+- 最近更新: **2026-08-25 09:28**
+- 本轮扫到 10590 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (4 条)
 
-### 奥斯卡演员杠上特朗普金主，12州总检察长反合并，两党议员审查
+### 朝方反应冷淡，特朗普连晒三张与金正恩合照
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-08-25 08:10
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE9IUE9rYVJ5dk9VVC02cnlEdTVPQ2d0LW1FcEprZTBGaGhIU1QySGFyckkzajYyOWZhRWd1YWNMVzA3cGVUSnMzVl9lYm45cW5QZFhzclBiR0JvMC1uczZhdjg0SmZocjNMUFZPb1VzV0hVdw?oc=5>
+- 场馆: 观察者
+- 时间: 2026-08-25 07:57
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5qNG1hdktuRFRjUEx3RU5EOHJSOUVZTjJrOXU4YUhBOEh5NU5fVThudUNMd2llM0tsZjljZ0stX2FMeHZoVzNrMFBWdTdfQ0pIbEtVekFVV01kNzRiOE1tUVVZZHNZakVtZmc?oc=5>
 
-### 川普下重手！美拟砍"20万人签证"创史上最大规模
+### 特朗普在社媒连发三张与金正恩合影，分析指或急于和朝鲜恢复对话以抵消伊朗战争的压力
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-08-25 08:57
+- 链接: <https://news.google.com/rss/articles/CBMivwRBVV95cUxNU2wtLWc3em1JX0h0OVcxVU9iQTctUzhydF94LWxvOHZrbkxGeHlmemJUMmVLNU1FSWlmaC1mOEVUNXdoYjM0R3BzakV1TFczUTNYVzNLVTBRM1RWb0tPZlpXSi1UUDBLVnVwSjRBd2dzbDRKcV9sY0N2M3Vmc3dVR0hlYTJwUmxieGtveF9CLTB2cDNfSUZEdWJUdkRKWHBwZHZOSDFFbG51UVdPSFNBZTNqMHlwMTBiQVRyeVFOOUZ4Rk1TRGJ3RHNRaDFQMFBvcmRzdTZ2RWNjSGFOR1NfUkpHeW5YU29DYnBpSWJOTUhQZVlBODMyb3BqelZNOEd1QTR5NG4yTV9XWXFvdExNa2tWQVdjck5WcC1RbVJUelI3X0VHRk1odWtVMUlBSkRTU2Y4VDRRdi1yZ3pRTGRuWWpXUDltLS04R3JaanlUQUNxazR4aVJUbUFRbVg4UVBzazh6ZWVHTHUxWTNnRE1LOFpTOTlZckd0ZWFsYjFmZ3lHVGRHWUVzWjU3UEhSY1piWElFcGN3S2ZKUF9CMUdJMjJtZFdHVVVsdm0zT1lpSXVyMWtMbGtMNm1kYThiWDBwZ1J2Nmg5XzF1VTY3Z2Rkb09jZHh2bEpOdC16SGJBOEt6alBvT2ZYTzBvSFgzZk5OTTB2SjRLZE1RQ0FtbXFZWndJc2RmTldYMEkySkNUUWJJcXV4dTF6VlJKUXNVTFpnNXhOX0c1cVAtOVNXeU9TMEdBZEs2MkljU04yMVVJdw?oc=5>
+
+### 凌晨一点，特朗普发飙了！美国向加拿大提出13条
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-08-24 04:41
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTFBvOWcyZ1JEeXZoRVRzT0h5dXNhLWJxRmowZ1ZKbGdWM2Vxd05JWUoxWHo3RkQxdWEyU3FRVDBFUmg4c2p5M0NhVncxZC1sUjR4bHFkZGZNMTFQM2gtX2ozXzVXYXhQN0lveXVJbFlTenFadTFs?oc=5>
+
+### Trump Threatens 50% Tariff on Automobiles and Parts From Canada
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 文学城
-- 时间: 2026-08-25 06:15
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsTDJhM3RqbjRLc1llTW9HWjYtemJEM3hYT0FpbTRzOEFPTWZjay01WmFtd1Z3QWxIZ3QzYmxMWGFVYUVLZ3BSSTFoc2duS1F1REZ3VE9pUXRybWdWLTg0WXZZTFBRX2Q4?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-08-25 09:09
+- 链接: <https://news.google.com/rss/articles/CBMirgFBVV95cUxOaElSNHdRRTZQbFNMWVdyR3R5R2lKdnhBNXpkd3ROMmZYLXA3eHFDLWFuazZJTGQ2Q1lXWV9JY0dWT2E2dnpWVVJyanhZcXp6MGliSGtCNVg0d2xhcVVudHRvR2NGR1JWeWVDNnZaWDNIanBkYVp3VFQ2U3E3VkhJSkV5OTg3aS13UzlKN0JSTWRMaHMyOTdHRVd3X0x0YlJLdElWNTVKQ05yalU3SGc?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-25 09:28  (4 条)
+
+- **特朗普** | 朝方反应冷淡，特朗普连晒三张与金正恩合照 <https://news.google.com/rss/articles/CBMiakFVX3lxTE5qNG1hdktuRFRjUEx3RU5EOHJSOUVZTjJrOXU4YUhBOEh5NU5fVThudUNMd2llM0tsZjljZ0stX2FMeHZoVzNrMFBWdTdfQ0pIbEtVekFVV01kNzRiOE1tUVVZZHNZakVtZmc?oc=5>
+- **特朗普** | 特朗普在社媒连发三张与金正恩合影，分析指或急于和朝鲜恢复对话以抵消伊朗战争的压力 <https://news.google.com/rss/articles/CBMivwRBVV95cUxNU2wtLWc3em1JX0h0OVcxVU9iQTctUzhydF94LWxvOHZrbkxGeHlmemJUMmVLNU1FSWlmaC1mOEVUNXdoYjM0R3BzakV1TFczUTNYVzNLVTBRM1RWb0tPZlpXSi1UUDBLVnVwSjRBd2dzbDRKcV9sY0N2M3Vmc3dVR0hlYTJwUmxieGtveF9CLTB2cDNfSUZEdWJUdkRKWHBwZHZOSDFFbG51UVdPSFNBZTNqMHlwMTBiQVRyeVFOOUZ4Rk1TRGJ3RHNRaDFQMFBvcmRzdTZ2RWNjSGFOR1NfUkpHeW5YU29DYnBpSWJOTUhQZVlBODMyb3BqelZNOEd1QTR5NG4yTV9XWXFvdExNa2tWQVdjck5WcC1RbVJUelI3X0VHRk1odWtVMUlBSkRTU2Y4VDRRdi1yZ3pRTGRuWWpXUDltLS04R3JaanlUQUNxazR4aVJUbUFRbVg4UVBzazh6ZWVHTHUxWTNnRE1LOFpTOTlZckd0ZWFsYjFmZ3lHVGRHWUVzWjU3UEhSY1piWElFcGN3S2ZKUF9CMUdJMjJtZFdHVVVsdm0zT1lpSXVyMWtMbGtMNm1kYThiWDBwZ1J2Nmg5XzF1VTY3Z2Rkb09jZHh2bEpOdC16SGJBOEt6alBvT2ZYTzBvSFgzZk5OTTB2SjRLZE1RQ0FtbXFZWndJc2RmTldYMEkySkNUUWJJcXV4dTF6VlJKUXNVTFpnNXhOX0c1cVAtOVNXeU9TMEdBZEs2MkljU04yMVVJdw?oc=5>
+- **特朗普** | 凌晨一点，特朗普发飙了！美国向加拿大提出13条 <https://news.google.com/rss/articles/CBMidEFVX3lxTFBvOWcyZ1JEeXZoRVRzT0h5dXNhLWJxRmowZ1ZKbGdWM2Vxd05JWUoxWHo3RkQxdWEyU3FRVDBFUmg4c2p5M0NhVncxZC1sUjR4bHFkZGZNMTFQM2gtX2ozXzVXYXhQN0lveXVJbFlTenFadTFs?oc=5>
+- **Trump** | Trump Threatens 50% Tariff on Automobiles and Parts From Canada <https://news.google.com/rss/articles/CBMirgFBVV95cUxOaElSNHdRRTZQbFNMWVdyR3R5R2lKdnhBNXpkd3ROMmZYLXA3eHFDLWFuazZJTGQ2Q1lXWV9JY0dWT2E2dnpWVVJyanhZcXp6MGliSGtCNVg0d2xhcVVudHRvR2NGR1JWeWVDNnZaWDNIanBkYVp3VFQ2U3E3VkhJSkV5OTg3aS13UzlKN0JSTWRMaHMyOTdHRVd3X0x0YlJLdElWNTVKQ05yalU3SGc?oc=5>
 
 ### 2026-08-25 08:34  (2 条)
 
