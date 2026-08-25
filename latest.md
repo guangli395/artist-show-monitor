@@ -1,56 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-25 10:01**
-- 本轮扫到 10595 条, 新增 **5** 条
+- 最近更新: **2026-08-25 10:57**
+- 本轮扫到 10598 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (3 条)
 
-### 消息人士透露：特朗普拟以工业产能过剩为由，对中国加征7.5%新关税，但美方称不会影响9月特习会
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-08-25 09:13
-- 链接: <https://news.google.com/rss/articles/CBMi0wRBVV95cUxNNUUyWUtZZnhWTGRDYUl2eDAyNE9ZN0tFWWZSU3Z0YkUzX0plNE9ZWHhTSHhGN1dyMzA0Qm5yd1ZPT1l2bU1YRmFpM0lLakF3SmY0a3Y1eHJ6bFVEbDRVWFhLOGVxSUxHSFZseHVLWTRwZmNObzlXVkFZM2xES0VUal8wVERvQWYxaFdZQWlLanVHMDdDbzhvZEpTbWFYb0lSM0hSY0s5UE1aQzZOcDhDWHZPNjRjT0ZqUUQzYTFJd3pCSGxUVTdHbEdnUEltZXRQZG80V1Itc3psakVYVEY5S3Zkd2FVaUIxMmNkRGQ0eTVKSVRFWXlId0c1X3c5d1pyd0l0eEZFVy1vME5DaWhXU3FQRTByV2M0aFF2MTBpUVhqNEo4a3lFT3RQeVl3MlZFNFlzdElJTldvSG1LcUFvSUh0OU13ampuSTg4YlRlRzdXdUpFWV9oWVdWVDladk5vUk5FZi1kMERPbGV3bUlkNlNNM0FlN2dBX1dQZUlNN05oWEg0ZXh0am52dXdwT0FjSVdHcnhiT3gxWGlPd25rSi01N3dIYmJMZlRadmYxSnF1eHN3VTVPU0NzdHFVMHRPcG5VbXg5UEdna2I1TE54bXVyOHR3cW13VEF1RjBYaEdLQ3labWZqZEtJbkYyc2xMZVN4UGJsRmRRQ0NGZGx2WGQ1RWQyM0lHUXphX1h0bHJMVVNMZHk5OUJoQktOYmdRMnYtVHM2U1B4LVRSSEpqN2o1aktOZ1NxVUpxMUw4Q2cwQ1Vhc25QMkx4aWlwZmtzdnY4?oc=5>
-
-### 泽连斯基承认曾欺骗特朗普，称被军方误导星链使用
+### 美国最高法院为特朗普政府限制邮寄选票留余地
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-08-25 09:30
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5yRHlObjk1VEc3TmV3ajFwbUtVZHVkTW4wUWprWGQ0TmhpSFBoQ2VaWjhZbHhuYWRrc3FyYnVjZUpWS0t1X0lJWEJQYU5tN0dpT2hjZ1luMUppZE1mSE05UW1hNndwdHA5czdSWXZ5VXY?oc=5>
+- 场馆: 新华网
+- 时间: 2026-08-25 10:17
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9KUEJaTU9sT2pLMnFUcTBORnVxSTNsbEdDU1YwQ19tTkZpeGVsOG1sRHFCVlpUZmppZ3hrb0txX3pTQnZmOGlXS1RKOHZmRkotRWdrQkdSQTJhVl9Dd1k0a2hqOXVfM3pvN0ZYTENobTN3bWFXQ1poS3N2U0Jyb1E?oc=5>
 
-### “伊朗悬赏1000万美金暗杀巴伦·特朗普”，美特勤局回应
+### 美国民调：伊朗战事拖累特朗普支持率创新低
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-08-25 03:07
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBPdmJ3UnY2UC1ScUpsbVRIejg1X3dnNVNFc29MZWc4ZDZJOEk0ei1VOV9GcTlTcFloR2V6SVZwZ21TUGg2bzA2b056TDk?oc=5>
+- 时间: 2026-08-25 06:43
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE12R0xYdFpZbkVtd1p5Um5NTUVxa3p0QS1hVG1Cc0ZjSFlWNGFMbHU0anE2b19OZll3ejIxbTBxMFRwVkdYZk8tSl95VQ?oc=5>
 
-### 特朗普最新披露：6月股票交易超千笔 曾买入马斯克SpaceX股份
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-08-25 00:12
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE1TMUg3czVVbi1ZQUNINGFjYWg2NEpOYnM2Sms5bWV1RkRzeTBwUUhPVGVweVR2NzdscW5fdno0dnZaMm4taVlVYQ?oc=5>
-
-### 媒体：特朗普拟对中加征7.5%产能过剩关税
+### 美国宣布发起经济“猛攻”，特朗普致电多方领导人，伊朗回应
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: DW.com
-- 时间: 2026-08-25 05:46
-- 链接: <https://news.google.com/rss/articles/CBMiiwJBVV95cUxNdlhXdGJ4S0ZkaThRLTBsTmRtb3lyUWZCQzNLNm5hNDE5YW1HWnBwMUZhRHg2RUVIWU0zR0hFdjJJX0NFOFJmS2xlM3U5NnBwXzdUZUlJbjFwNFo5QjlxTzlKRTdibkVjZFlZemQwZ2k4Mkhfb0V1S05sb3ZreHV1RzQ4ekFQWEZmVnlXZXFIdUdFZm9CVU1ZcU9ubFMycVJUUmkzSnlFOHlhNlpQVGtUNG52M3Y3czBRcnhQa0owR1R5ejlYa1ZkQmFpaGo0Tml6ZEdwblJuRVpMalo3eUh6cWU5emk2QXZDR2NZblNRX2JsWkEtbzZPQ0xtOS1ldGxBVk95MFBkTHhBaTjSAYsCQVVfeXFMT1g1eVJDcWpVU1Zpa2FhZUhBQVdmTl96OXJkM3BVbmI4aVpXTmNxTlU4S0huSnl1dUlDdFVSMlJvZEI2dnFxZ1c0TzUwXzA1YkptaTNkcmFlcExnLWVpMVhQUXFhTjd2MTFxcVUtYk1zRTA5VTBlY0hvVk90ckl0WnQxaFlIbTZYR1h0UnBVVEhoS214TXFYU2lQbmlUbjAydnlZZjgwcWlpX2lGMGlIbEpwV0lpemhKUXBOVVpVRlBiczhNQnhHZDFKMkRhc0RBU1Q3VEtJVk9RdVZVcUx6cTV1bTJfR2RvMUx2b204VzlvYlppV0tzczlDUTQtRFM0cGVoSEZOaGROYjV3?oc=5>
+- 场馆: 新浪军事
+- 时间: 2026-08-25 06:26
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFBSQXNMR0FJRHozMUMtN2RuNXpXRnJlVUZGNlVDaHpUNWcyV3FibU0tT1ZJOWJNUDlwTDQzTVhHWjJtMnBQN3BMYVRoYWdabHZpcGowVUEzcE5hUW8wRE51dkZKUWU1aHRVNnJWLW0zUlJfQWc?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-25 10:57  (3 条)
+
+- **特朗普** | 美国最高法院为特朗普政府限制邮寄选票留余地 <https://news.google.com/rss/articles/CBMif0FVX3lxTE9KUEJaTU9sT2pLMnFUcTBORnVxSTNsbEdDU1YwQ19tTkZpeGVsOG1sRHFCVlpUZmppZ3hrb0txX3pTQnZmOGlXS1RKOHZmRkotRWdrQkdSQTJhVl9Dd1k0a2hqOXVfM3pvN0ZYTENobTN3bWFXQ1poS3N2U0Jyb1E?oc=5>
+- **特朗普** | 美国民调：伊朗战事拖累特朗普支持率创新低 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE12R0xYdFpZbkVtd1p5Um5NTUVxa3p0QS1hVG1Cc0ZjSFlWNGFMbHU0anE2b19OZll3ejIxbTBxMFRwVkdYZk8tSl95VQ?oc=5>
+- **特朗普** | 美国宣布发起经济“猛攻”，特朗普致电多方领导人，伊朗回应 <https://news.google.com/rss/articles/CBMic0FVX3lxTFBSQXNMR0FJRHozMUMtN2RuNXpXRnJlVUZGNlVDaHpUNWcyV3FibU0tT1ZJOWJNUDlwTDQzTVhHWjJtMnBQN3BMYVRoYWdabHZpcGowVUEzcE5hUW8wRE51dkZKUWU1aHRVNnJWLW0zUlJfQWc?oc=5>
 
 ### 2026-08-25 10:01  (5 条)
 
