@@ -1,40 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-25 07:38**
-- 本轮扫到 10584 条, 新增 **3** 条
+- 最近更新: **2026-08-25 08:34**
+- 本轮扫到 10586 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (2 条)
 
-### 民调：伊朗战事拖累特朗普支持率创新低
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-08-25 06:43
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1fUy1scGJGaWtFdGw5dzloblVIT1RUT0xiODVIUzQ0SkxMUjBDdjhFaTlzVEUxbzVtLUhBRFEyUEQ3eHh6SWZNaExIYzJrUXVReHNCQWpkZ1RuZUtxTURURGlpNzVidF96b1FyZmhwNmtyY3lsNVJ4akN4N1dSbzA?oc=5>
-
-### 特朗普最新披露：6月股票交易超千笔 曾买入马斯克SpaceX股份
+### 奥斯卡演员杠上特朗普金主，12州总检察长反合并，两党议员审查
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-08-24 02:25
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jWm1RV0pSbFo2WlZ5M3QzcEV2cXd5NldoYTRhTi1WdmUtMXctTmF0a05FTk5EN3pzV1p5eGpud19kS3NTbGtFTVRvQjdKdEl0ZldNcmxqbXVfQUt3eW8xVw?oc=5>
+- 场馆: 手机新浪网
+- 时间: 2026-08-25 08:10
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE9IUE9rYVJ5dk9VVC02cnlEdTVPQ2d0LW1FcEprZTBGaGhIU1QySGFyckkzajYyOWZhRWd1YWNMVzA3cGVUSnMzVl9lYm45cW5QZFhzclBiR0JvMC1uczZhdjg0SmZocjNMUFZPb1VzV0hVdw?oc=5>
 
-### 在习特会前,特朗普拟对中加征7.5%产能过剩关税
+### 川普下重手！美拟砍"20万人签证"创史上最大规模
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: 文学城
-- 时间: 2026-08-25 06:35
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ETEZmQjM1azV0OHV2R3pSQWpQQm8zS2EwNDFHMFlVYmVwYWRGYVZpekExZW9kTndFX3lHRTlUWDBPOTROMHBGT0pyYXYyS1lDNk9nR1FOemVrQW5DbVVuNEhEUHlWQTV5?oc=5>
+- 时间: 2026-08-25 06:15
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsTDJhM3RqbjRLc1llTW9HWjYtemJEM3hYT0FpbTRzOEFPTWZjay01WmFtd1Z3QWxIZ3QzYmxMWGFVYUVLZ3BSSTFoc2duS1F1REZ3VE9pUXRybWdWLTg0WXZZTFBRX2Q4?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-25 08:34  (2 条)
+
+- **特朗普** | 奥斯卡演员杠上特朗普金主，12州总检察长反合并，两党议员审查 <https://news.google.com/rss/articles/CBMickFVX3lxTE9IUE9rYVJ5dk9VVC02cnlEdTVPQ2d0LW1FcEprZTBGaGhIU1QySGFyckkzajYyOWZhRWd1YWNMVzA3cGVUSnMzVl9lYm45cW5QZFhzclBiR0JvMC1uczZhdjg0SmZocjNMUFZPb1VzV0hVdw?oc=5>
+- **Trump** | 川普下重手！美拟砍"20万人签证"创史上最大规模 <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsTDJhM3RqbjRLc1llTW9HWjYtemJEM3hYT0FpbTRzOEFPTWZjay01WmFtd1Z3QWxIZ3QzYmxMWGFVYUVLZ3BSSTFoc2duS1F1REZ3VE9pUXRybWdWLTg0WXZZTFBRX2Q4?oc=5>
 
 ### 2026-08-25 07:38  (3 条)
 
