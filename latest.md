@@ -1,56 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-25 14:37**
-- 本轮扫到 10612 条, 新增 **5** 条
+- 最近更新: **2026-08-25 15:36**
+- 本轮扫到 10616 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (4 条)
 
-### 特朗普在2026年6月购买了价值高达5万美元的SpaceX股票
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: idnfinancials.com
-- 时间: 2026-08-25 14:00
-- 链接: <https://news.google.com/rss/articles/CBMiywJBVV95cUxQME5tdXZSMXFfZ25sdXEwaVYyT09fZERuM3Nnc2ZSY0VQTU9CSlVvUUlXMWozQTgyVTdIZUQzYjR2OFNldVpvS3p0SFh5YkhHMUJzVTZHRG4zb2tOTDJJR1JDdFFsbWs3dThLbFVxWUlUTlRpc29oOVpqaDI4N0g3aFhmZUxZRlljM21GWFBCSkJoNWZXN0RodUdLbEt6TVVYcFg0ZF8weG9FaGo4OHdQcEJBNjRsSVBsc3ZVU2dOLWxIV1BBbkxzZEFTZ0gxRW5zTUZSRm1aTU01MHNmRlc4QVhPNUxkbVJPLUd3YTd5N1o2VjM3RDF6djBjWnUzQ0hXWkV3ZjRFUDFkbE9iQlVlZ19iMk5OTmZsNVM5eUtoQkM4YW8wSi1ud2cyVUZoT1UyS2YyNjJDS3pnLXpIS19WejM0cTJQNnhEdEhj?oc=5>
-
-### 民调：伊朗战事拖累特朗普支持率创新低
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-25 08:36
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1kbDMwblJOUC16aWgwS3dwVm5mdG1ockJNRnpZQ1NJeEowb1pMYkxURUlnV0k3NWZBUE9fOUt6eTgyR2ZENFFiVWRIcmpSSWRoQTdXdU5vQzZHZ3ozQXoycEowM1FtLW9qVzFURDZReGNmYjFRVlF2VA?oc=5>
-
-### 民调：伊朗战事拖累特朗普支持率
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-08-25 09:20
-- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQmhSVXhXUG83Zk5GZ0pENm1DU1NIUTFJTDNRVEVDNVNSSmxTb0xhdFZ4dDMzZzdvWFlsWllpMm5Hb296bWJabWpveXJjMjZmbjUxVlhaWlVIZ0hpeEdpeWVnNkpCU0NDeEVtcHJScE5RY2w4SWtBbjJEOEk4Y0hob2F1Zmt0NE0t?oc=5>
-
-### 特朗普三线极限施压，同时对准中国、加拿大、伊朗
+### 特朗普称考虑将安大略湖更名为“美国湖”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-08-25 10:39
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1mS0FVQzJ4Vm5FNjVNUktrZ0N6QVU5a2FUOVZpTU13N2RTbHU5TVNtc2haZGlJc3BHTTI1Q0JXMnJVVHM0NkNYUEtEVnNtZVlzZzUwamlZMVhXMFdaWGNOMUZ1VXVtOWZyZHRyM1h3T0lYdHpjUnRZLQ?oc=5>
+- 时间: 2026-08-25 11:41
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE1IVU5tQzRvb0cwenpsWkJVSURJWTJnOXRDbl9YR0VVdnc1Z3hBWHBrclJVMzVQTkZNaTBkeFdpeUVaYWF4UXZhZDhEbnpZVlV5Wjl4Z0lra0hjWlZCN19HbVk1TVl0WGxqQUlsQUJyeHBwbkpR?oc=5>
 
-### 特朗普发布与金正恩合影
+### 特朗普：正考虑将安大略湖更名为“美国湖”，过去几十年美国一直养着加拿大，今后不会了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-08-25 11:26
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE8wN2c3S2tmNFliUzRJdEJrbXNUUVZwQWxsa2hFbUp6MjFCbXVUcDZtaHZQb255WXZPTlJsbU00c0wwVEpyYXFQdExKb19jNGtNSVlyaWNsaGdhelpad0s4VG5HVk5uR3BROHdiQk1tQ29KU0FwVTc2Zw?oc=5>
+- 时间: 2026-08-25 14:37
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZNzdvNkVWckNReXZrdjFBZ0E0ZkJBY1NqOGlRQ2lVMEo2b3Z5amJhbDgwTm44RHJhcmpFdlVFMlZlX3RTUWxJUEhOaWlfTE5GZ2JCZXVvcWw4bjdDUXRqV1RxNXNoNVhLcS1hN182V1dHNE9aMDFjRw?oc=5>
+
+### 为中期选举失败做准备？特朗普女婿被曝秘密接触民主党高层
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-08-24 03:41
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBaWWhfSHRkNHkyd0FYc1dMNHpidGU4TE9heV8wNGxkTDRsNGtHNk02OXY1LUk0OG9tZzlDbnBHWEVjVXRKc3p3ekhabGc?oc=5>
+
+### 受美伊战争拖累 特朗普支持率持续低迷
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-08-25 12:34
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXV2ZFTVBhbXAtcThLMC05WXNPVFZ6Zl9EenVpQUlfSjFRSDV6WTduMVJDVnMwUTZiYXVFVjB0RXVtaFdSSGNsZEhZWXlzU205Z0pNa0llRjFuY0dmbEhGY0VjWTd6dw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-25 15:36  (4 条)
+
+- **特朗普** | 特朗普称考虑将安大略湖更名为“美国湖” <https://news.google.com/rss/articles/CBMidEFVX3lxTE1IVU5tQzRvb0cwenpsWkJVSURJWTJnOXRDbl9YR0VVdnc1Z3hBWHBrclJVMzVQTkZNaTBkeFdpeUVaYWF4UXZhZDhEbnpZVlV5Wjl4Z0lra0hjWlZCN19HbVk1TVl0WGxqQUlsQUJyeHBwbkpR?oc=5>
+- **特朗普** | 特朗普：正考虑将安大略湖更名为“美国湖”，过去几十年美国一直养着加拿大，今后不会了 <https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZNzdvNkVWckNReXZrdjFBZ0E0ZkJBY1NqOGlRQ2lVMEo2b3Z5amJhbDgwTm44RHJhcmpFdlVFMlZlX3RTUWxJUEhOaWlfTE5GZ2JCZXVvcWw4bjdDUXRqV1RxNXNoNVhLcS1hN182V1dHNE9aMDFjRw?oc=5>
+- **特朗普** | 为中期选举失败做准备？特朗普女婿被曝秘密接触民主党高层 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBaWWhfSHRkNHkyd0FYc1dMNHpidGU4TE9heV8wNGxkTDRsNGtHNk02OXY1LUk0OG9tZzlDbnBHWEVjVXRKc3p3ekhabGc?oc=5>
+- **特朗普** | 受美伊战争拖累 特朗普支持率持续低迷 <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXV2ZFTVBhbXAtcThLMC05WXNPVFZ6Zl9EenVpQUlfSjFRSDV6WTduMVJDVnMwUTZiYXVFVjB0RXVtaFdSSGNsZEhZWXlzU205Z0pNa0llRjFuY0dmbEhGY0VjWTd6dw?oc=5>
 
 ### 2026-08-25 14:37  (5 条)
 
