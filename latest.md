@@ -1,40 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-25 18:30**
-- 本轮扫到 10633 条, 新增 **3** 条
+- 最近更新: **2026-08-25 19:09**
+- 本轮扫到 10635 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (2 条)
 
-### 特朗普：考虑改称“美国湖”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-08-25 13:13
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE04VVV5VE9GYzUtdm1YRVRMZHFXN3BmcHB1b1NiNWNpMWpPcnVuVGVPaDh3QllWUU5UNjctSHVVV2hZQmFHU1RCSTdwRFRtd050ckhWb2o4eE5wa0FGVVdZZzFwd1hvRG4wYmc?oc=5>
-
-### 特朗普：正认真考虑“美国湖”
+### 特朗普总统：霍尔木兹海峡所有水雷都被清除，伊朗布雷船只将被击毁
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-08-25 12:25
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTFBYQ2stRERfRkNCc3E5bFVaR0Qwc1lUT3ctTk9vQ2c5T0ZKSTU3NVg1S254ZTJ6UUdKVWNRU2dPd0JTTFF5ZFZnV0xYN3hTNjByOERyVHJWVFlJWmc2blNWR1J0TlRwOEhXbXNBY25RUzlJQXpneVE?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-08-25 18:26
+- 链接: <https://news.google.com/rss/articles/CBMi4gFBVV95cUxObzVmck9MYWJvdDlNV21DVnFZc0x2RVFYTlZwdjB3dGtRTlU0Y0IzWXdKLVJaR2NoNEhzS3BYdVNTV0ppd1EyR3VBMnFmaWRub0xvRURtelZaTlllQWN1dTNBQk5kTjFWMkJ2TGwzUXR4QW5iVUNPS3RJS1BaTlVfOW96YzNHY1hUTW85WVRDSGtVUmZsanVEeG9CUmh3Q2NMRElYNWQ0V2dqRzVpQlFpUmZoMnFiMVN4RWh4bGVIeTN4Uk90UHVHcGpYc3o0MTRCLVRhY2QzdC1kMlM4MlhzTnF30gHkAUFVX3lxTE8yOXZvSDYwNGItWDZHMlE4VmhuYkViZXdTVDFHWm5mSEZRNzVJNENzOTFEc0hmZGpNZ3JUTUxHdm5yNF90NW5Dc0ZiLVhNNE5HYlVGa18xQTZ5X1ZaNTU1Y1phU1RpTHlaQ0NpbmRkT3JwckZicEd2dF9wb0FkUDA4MDNkV05RSFFlNmE0TTd0bjhCbXdYWmdERjQ4TW5yVUprQVhvUTVOMnBZYkxCamthT3RScGh4MGdfRjI2SFYyNXJ0bU5seHZtQkl1S3Z6eDFwdU0zYXRCSU56X2ZwWkhBU2FCcg?oc=5>
 
-### Threat Posed By Trump to Canada's Auto Sector 'Is Real' -- Market Talk
+### 川普赢下一局！最高法院撤销邮寄投票禁制令
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-08-25 17:46
-- 链接: <https://news.google.com/rss/articles/CBMimwFBVV95cUxPdzdhdUY2cGhMODFST00xcHQzd2MxQWhJLUNoZDBZd3VSX05sVlZnZ0ZGZDVOSjlJTUxsQXp2UjNYNXN5LVdRMUFIVFhKWFdrVGdrTFBqSWdXcXd4b284ZWJZdkQ5TzFydFUzY0twT1NWeUpuemxic1lQUTBnaWM1NDJWNTBwOXk2M09xZVMxaTM0YVEtdnktejE3aw?oc=5>
+- 场馆: 文学城
+- 时间: 2026-08-25 16:04
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1GeENxd3V1T1ZBNlJTSG1QVmgxWlJrZDBLNDJ2cXE3bFJ4OGJ6UlJ5akhsNHFQNjVnR3E1NDFyOUZmYUhscVZpekY1UGxTTHBqRkI1c2t3M0ZFSHNXQ1VFczBwaktkV0Uz?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-25 19:09  (2 条)
+
+- **特朗普** | 特朗普总统：霍尔木兹海峡所有水雷都被清除，伊朗布雷船只将被击毁 <https://news.google.com/rss/articles/CBMi4gFBVV95cUxObzVmck9MYWJvdDlNV21DVnFZc0x2RVFYTlZwdjB3dGtRTlU0Y0IzWXdKLVJaR2NoNEhzS3BYdVNTV0ppd1EyR3VBMnFmaWRub0xvRURtelZaTlllQWN1dTNBQk5kTjFWMkJ2TGwzUXR4QW5iVUNPS3RJS1BaTlVfOW96YzNHY1hUTW85WVRDSGtVUmZsanVEeG9CUmh3Q2NMRElYNWQ0V2dqRzVpQlFpUmZoMnFiMVN4RWh4bGVIeTN4Uk90UHVHcGpYc3o0MTRCLVRhY2QzdC1kMlM4MlhzTnF30gHkAUFVX3lxTE8yOXZvSDYwNGItWDZHMlE4VmhuYkViZXdTVDFHWm5mSEZRNzVJNENzOTFEc0hmZGpNZ3JUTUxHdm5yNF90NW5Dc0ZiLVhNNE5HYlVGa18xQTZ5X1ZaNTU1Y1phU1RpTHlaQ0NpbmRkT3JwckZicEd2dF9wb0FkUDA4MDNkV05RSFFlNmE0TTd0bjhCbXdYWmdERjQ4TW5yVUprQVhvUTVOMnBZYkxCamthT3RScGh4MGdfRjI2SFYyNXJ0bU5seHZtQkl1S3Z6eDFwdU0zYXRCSU56X2ZwWkhBU2FCcg?oc=5>
+- **Trump** | 川普赢下一局！最高法院撤销邮寄投票禁制令 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1GeENxd3V1T1ZBNlJTSG1QVmgxWlJrZDBLNDJ2cXE3bFJ4OGJ6UlJ5akhsNHFQNjVnR3E1NDFyOUZmYUhscVZpekY1UGxTTHBqRkI1c2t3M0ZFSHNXQ1VFczBwaktkV0Uz?oc=5>
 
 ### 2026-08-25 18:30  (3 条)
 
