@@ -1,32 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-24 23:44**
-- 本轮扫到 10550 条, 新增 **2** 条
+- 最近更新: **2026-08-25 00:54**
+- 本轮扫到 10554 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (4 条)
 
-### 财务披露：特朗普6月购买了埃隆·马斯克旗下SpaceX的股份
+### 赛车驶入华盛顿街頭 特朗普观赛 20万民众共庆美国250周年
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-24 21:23
-- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaDR4N01xMUllUmhwWkpPckdGUS1QV3JtNGd5a3BVX0JWUUpUTFJ3YjNmMkNhMG5QalRQVzVMS1lZbUJQOUdoTVRsU0I4bnJZZGFsRU81dnpnbGVSNGpVOFB6dndtVjhtdHJZamp6Rk9hcVdTd2VaSjF5a2lpSjZNNHl4MWJhbjZaZHlXdUN2NzNxQkx1WHRFekdoRHljR0NkdzRUaV9EWjBPM1dwWW5sdl9oMzBzc1prbG9rQUpYeXM1SnhLaWl6Q29fWGpXTk9DZnc?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-08-24 22:39
+- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE1pOWJGZEd3RV9oZDQ0T283cVprSENQeFF2YmUxWnBndnRlVTBONjdYWFkxRWFlZ2dCQ0lGR1JHb2RIblFXS05fY3lROVNzVkRCT1VjN05tOFBKRm11ZXp4RHZaS2hOSE4tbUU3NUxVdFNnc1doMjFXS1p30gF8QVVfeXFMUGJrdnFta1pmVlk3T09IZThJazY1bzJDMzNaSXVhQzJwdDB6SnpmYUU5UEJka2ZCNWRsUVpJQTNNb0JNS1owNFRPblhwaDljS2VudHVWbGxuTElwLVVobU1RRmtDZVMzWnhDSXdjUHhxZEY1R3lhbDZFNERMMg?oc=5>
 
-### 极星称特朗普政府在美国禁令出台前一直对其敷衍拖延
+### 美公布多项针对伊朗制裁，特朗普致电各国领导人要求停止与伊往来；伊朗回应：没人相信美国胡言乱语；美股存储、光通信板块下挫丨每经早参
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 每日经济新闻
+- 时间: 2026-08-24 22:51
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE40ZDI5SnNOWmlxQ3ljRmxDc1NqR3I2TFYwUFI4MVN6VE91V2VVR3hiemc4TktiRGVPUF84WE01bklpZG53X29CaFg4N3BzbVZpV0ZNVktyRDY5bmlkZHhSQy1HdzhUQQ?oc=5>
+
+### Canadian Dollar Slides as Trump Escalates Trade War with Canada
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: CryptoRank
+- 时间: 2026-08-24 18:46
+- 链接: <https://news.google.com/rss/articles/CBMihgFBVV95cUxOUi1GVUg2MUUyczZHTnNOSmx2QVRxSWk2LXgwSVlNY0gta3dwbjFoLXUyUGluUXBvTXJlY0NPV01Ud0xnWVlkUWJ5eFhZV1BiUXJad1ZWMFJBekRBbFgyWTlDVXhuM0c3dVdWcmNoQ0lQQmU1N2djSlpoUl9OU3pKdG5maGNZQQ?oc=5>
+
+### 最高法院为特朗普有关邮寄选票的指令扫除障碍
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: 华尔街日报中文网
-- 时间: 2026-08-24 23:28
-- 链接: <https://news.google.com/rss/articles/CBMisAFBVV95cUxQeHpxekFTOWxLZUpkSEROOWZVeFd1c3B6eDdSaVhDTlFNeFRnalhKRGRMUFJKOGtzbkNCaWtLMnRraEpxYVBOLXdLZENPRWxCWW9TRXNlZVE2QlJndEQ3cHZ1S1RXNEVZS2huTWx4WVN6T3diWEg1YW1FMU5QZzVsaXJrTXhVQWFwS2I0dURYSlFBYVluMEt4bUc0MllINUljRVR4d0JYN2plRW1DdTlGbA?oc=5>
+- 时间: 2026-08-24 23:42
+- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxNMHRaVzczc2M4Ukc3bllHcEtWNlU5NmREWFkxQWFJd0NTcXZSa3RfNjZ0WkgtOWNlMVI2YXdGcnZfQWxzbXE1d2RTVjdBWWFWaEQxVVo3TVpsOG5XREpVQ2tqdTFETF9UVTBrcmVvTWZyMHpsUHBOZlJoVU8zTXRpdGlydnFKMHEyOTNkbHFqQm9FSGoxem1RdFRFcXpOMFlD?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-25 00:54  (4 条)
+
+- **特朗普** | 赛车驶入华盛顿街頭 特朗普观赛 20万民众共庆美国250周年 <https://news.google.com/rss/articles/CBMiekFVX3lxTE1pOWJGZEd3RV9oZDQ0T283cVprSENQeFF2YmUxWnBndnRlVTBONjdYWFkxRWFlZ2dCQ0lGR1JHb2RIblFXS05fY3lROVNzVkRCT1VjN05tOFBKRm11ZXp4RHZaS2hOSE4tbUU3NUxVdFNnc1doMjFXS1p30gF8QVVfeXFMUGJrdnFta1pmVlk3T09IZThJazY1bzJDMzNaSXVhQzJwdDB6SnpmYUU5UEJka2ZCNWRsUVpJQTNNb0JNS1owNFRPblhwaDljS2VudHVWbGxuTElwLVVobU1RRmtDZVMzWnhDSXdjUHhxZEY1R3lhbDZFNERMMg?oc=5>
+- **特朗普** | 美公布多项针对伊朗制裁，特朗普致电各国领导人要求停止与伊往来；伊朗回应：没人相信美国胡言乱语；美股存储、光通信板块下挫丨每经早参 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE40ZDI5SnNOWmlxQ3ljRmxDc1NqR3I2TFYwUFI4MVN6VE91V2VVR3hiemc4TktiRGVPUF84WE01bklpZG53X29CaFg4N3BzbVZpV0ZNVktyRDY5bmlkZHhSQy1HdzhUQQ?oc=5>
+- **Trump** | Canadian Dollar Slides as Trump Escalates Trade War with Canada <https://news.google.com/rss/articles/CBMihgFBVV95cUxOUi1GVUg2MUUyczZHTnNOSmx2QVRxSWk2LXgwSVlNY0gta3dwbjFoLXUyUGluUXBvTXJlY0NPV01Ud0xnWVlkUWJ5eFhZV1BiUXJad1ZWMFJBekRBbFgyWTlDVXhuM0c3dVdWcmNoQ0lQQmU1N2djSlpoUl9OU3pKdG5maGNZQQ?oc=5>
+- **Trump** | 最高法院为特朗普有关邮寄选票的指令扫除障碍 <https://news.google.com/rss/articles/CBMioAFBVV95cUxNMHRaVzczc2M4Ukc3bllHcEtWNlU5NmREWFkxQWFJd0NTcXZSa3RfNjZ0WkgtOWNlMVI2YXdGcnZfQWxzbXE1d2RTVjdBWWFWaEQxVVo3TVpsOG5XREpVQ2tqdTFETF9UVTBrcmVvTWZyMHpsUHBOZlJoVU8zTXRpdGlydnFKMHEyOTNkbHFqQm9FSGoxem1RdFRFcXpOMFlD?oc=5>
 
 ### 2026-08-24 23:44  (2 条)
 
