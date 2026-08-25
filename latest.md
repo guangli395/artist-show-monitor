@@ -1,24 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-25 20:20**
-- 本轮扫到 10637 条, 新增 **1** 条
+- 最近更新: **2026-08-25 20:53**
+- 本轮扫到 10639 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮新发现 (2 条)
 
-### 特朗普：对伊朗在霍尔木兹海峡布雷“零容忍”
+### 加拿大决定对美国“出手”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: finance.sina.com.cn
-- 时间: 2026-08-25 14:55
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5BZlVKVUJTaXkyMThjbzBVTDc2emJxMURMWWhUYmp3cGRoVWp6clptdGpkc3BKaE91eWJkYlU4QzZvTEdfUVJXcmlYZw?oc=5>
+- 时间: 2026-08-25 20:36
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE95Z2hzT0JEQmQ0aFZvQ0JmUmJyZVctM05vUjZteHhJVTNfRzZmMTRzV2dQUndET2NOdk1RcHd6NDAySjhqcnNzRkEzU0JobmtTYzdUQTdLMEoyYmt5eWNmU3VBZXl5RERsX2J1cW1MWTR6WmNwVWN4UA?oc=5>
+
+### 美加口水战升级：特朗普威胁将安大略湖更名“美利坚湖”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街见闻
+- 时间: 2026-08-25 18:47
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kUUxra1pCcW9BZ2x3cGtfZnV4M2JPMnA5TTQxM3NWaTZvZ2hmT0tHQ21iRURYWGh3U2Uzb3g3V1JBdEtwZjdCby1Ydi1SMGRSemxV?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-25 20:53  (2 条)
+
+- **特朗普** | 加拿大决定对美国“出手” <https://news.google.com/rss/articles/CBMieEFVX3lxTE95Z2hzT0JEQmQ0aFZvQ0JmUmJyZVctM05vUjZteHhJVTNfRzZmMTRzV2dQUndET2NOdk1RcHd6NDAySjhqcnNzRkEzU0JobmtTYzdUQTdLMEoyYmt5eWNmU3VBZXl5RERsX2J1cW1MWTR6WmNwVWN4UA?oc=5>
+- **特朗普** | 美加口水战升级：特朗普威胁将安大略湖更名“美利坚湖” <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kUUxra1pCcW9BZ2x3cGtfZnV4M2JPMnA5TTQxM3NWaTZvZ2hmT0tHQ21iRURYWGh3U2Uzb3g3V1JBdEtwZjdCby1Ydi1SMGRSemxV?oc=5>
 
 ### 2026-08-25 20:20  (1 条)
 
