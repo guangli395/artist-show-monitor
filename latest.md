@@ -1,48 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-25 09:28**
-- 本轮扫到 10590 条, 新增 **4** 条
+- 最近更新: **2026-08-25 10:01**
+- 本轮扫到 10595 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (5 条)
 
-### 朝方反应冷淡，特朗普连晒三张与金正恩合照
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-08-25 07:57
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5qNG1hdktuRFRjUEx3RU5EOHJSOUVZTjJrOXU4YUhBOEh5NU5fVThudUNMd2llM0tsZjljZ0stX2FMeHZoVzNrMFBWdTdfQ0pIbEtVekFVV01kNzRiOE1tUVVZZHNZakVtZmc?oc=5>
-
-### 特朗普在社媒连发三张与金正恩合影，分析指或急于和朝鲜恢复对话以抵消伊朗战争的压力
+### 消息人士透露：特朗普拟以工业产能过剩为由，对中国加征7.5%新关税，但美方称不会影响9月特习会
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: RFI
-- 时间: 2026-08-25 08:57
-- 链接: <https://news.google.com/rss/articles/CBMivwRBVV95cUxNU2wtLWc3em1JX0h0OVcxVU9iQTctUzhydF94LWxvOHZrbkxGeHlmemJUMmVLNU1FSWlmaC1mOEVUNXdoYjM0R3BzakV1TFczUTNYVzNLVTBRM1RWb0tPZlpXSi1UUDBLVnVwSjRBd2dzbDRKcV9sY0N2M3Vmc3dVR0hlYTJwUmxieGtveF9CLTB2cDNfSUZEdWJUdkRKWHBwZHZOSDFFbG51UVdPSFNBZTNqMHlwMTBiQVRyeVFOOUZ4Rk1TRGJ3RHNRaDFQMFBvcmRzdTZ2RWNjSGFOR1NfUkpHeW5YU29DYnBpSWJOTUhQZVlBODMyb3BqelZNOEd1QTR5NG4yTV9XWXFvdExNa2tWQVdjck5WcC1RbVJUelI3X0VHRk1odWtVMUlBSkRTU2Y4VDRRdi1yZ3pRTGRuWWpXUDltLS04R3JaanlUQUNxazR4aVJUbUFRbVg4UVBzazh6ZWVHTHUxWTNnRE1LOFpTOTlZckd0ZWFsYjFmZ3lHVGRHWUVzWjU3UEhSY1piWElFcGN3S2ZKUF9CMUdJMjJtZFdHVVVsdm0zT1lpSXVyMWtMbGtMNm1kYThiWDBwZ1J2Nmg5XzF1VTY3Z2Rkb09jZHh2bEpOdC16SGJBOEt6alBvT2ZYTzBvSFgzZk5OTTB2SjRLZE1RQ0FtbXFZWndJc2RmTldYMEkySkNUUWJJcXV4dTF6VlJKUXNVTFpnNXhOX0c1cVAtOVNXeU9TMEdBZEs2MkljU04yMVVJdw?oc=5>
+- 时间: 2026-08-25 09:13
+- 链接: <https://news.google.com/rss/articles/CBMi0wRBVV95cUxNNUUyWUtZZnhWTGRDYUl2eDAyNE9ZN0tFWWZSU3Z0YkUzX0plNE9ZWHhTSHhGN1dyMzA0Qm5yd1ZPT1l2bU1YRmFpM0lLakF3SmY0a3Y1eHJ6bFVEbDRVWFhLOGVxSUxHSFZseHVLWTRwZmNObzlXVkFZM2xES0VUal8wVERvQWYxaFdZQWlLanVHMDdDbzhvZEpTbWFYb0lSM0hSY0s5UE1aQzZOcDhDWHZPNjRjT0ZqUUQzYTFJd3pCSGxUVTdHbEdnUEltZXRQZG80V1Itc3psakVYVEY5S3Zkd2FVaUIxMmNkRGQ0eTVKSVRFWXlId0c1X3c5d1pyd0l0eEZFVy1vME5DaWhXU3FQRTByV2M0aFF2MTBpUVhqNEo4a3lFT3RQeVl3MlZFNFlzdElJTldvSG1LcUFvSUh0OU13ampuSTg4YlRlRzdXdUpFWV9oWVdWVDladk5vUk5FZi1kMERPbGV3bUlkNlNNM0FlN2dBX1dQZUlNN05oWEg0ZXh0am52dXdwT0FjSVdHcnhiT3gxWGlPd25rSi01N3dIYmJMZlRadmYxSnF1eHN3VTVPU0NzdHFVMHRPcG5VbXg5UEdna2I1TE54bXVyOHR3cW13VEF1RjBYaEdLQ3labWZqZEtJbkYyc2xMZVN4UGJsRmRRQ0NGZGx2WGQ1RWQyM0lHUXphX1h0bHJMVVNMZHk5OUJoQktOYmdRMnYtVHM2U1B4LVRSSEpqN2o1aktOZ1NxVUpxMUw4Q2cwQ1Vhc25QMkx4aWlwZmtzdnY4?oc=5>
 
-### 凌晨一点，特朗普发飙了！美国向加拿大提出13条
+### 泽连斯基承认曾欺骗特朗普，称被军方误导星链使用
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-08-24 04:41
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTFBvOWcyZ1JEeXZoRVRzT0h5dXNhLWJxRmowZ1ZKbGdWM2Vxd05JWUoxWHo3RkQxdWEyU3FRVDBFUmg4c2p5M0NhVncxZC1sUjR4bHFkZGZNMTFQM2gtX2ozXzVXYXhQN0lveXVJbFlTenFadTFs?oc=5>
+- 场馆: 手机新浪网
+- 时间: 2026-08-25 09:30
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5yRHlObjk1VEc3TmV3ajFwbUtVZHVkTW4wUWprWGQ0TmhpSFBoQ2VaWjhZbHhuYWRrc3FyYnVjZUpWS0t1X0lJWEJQYU5tN0dpT2hjZ1luMUppZE1mSE05UW1hNndwdHA5czdSWXZ5VXY?oc=5>
 
-### Trump Threatens 50% Tariff on Automobiles and Parts From Canada
+### “伊朗悬赏1000万美金暗杀巴伦·特朗普”，美特勤局回应
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-08-25 09:09
-- 链接: <https://news.google.com/rss/articles/CBMirgFBVV95cUxOaElSNHdRRTZQbFNMWVdyR3R5R2lKdnhBNXpkd3ROMmZYLXA3eHFDLWFuazZJTGQ2Q1lXWV9JY0dWT2E2dnpWVVJyanhZcXp6MGliSGtCNVg0d2xhcVVudHRvR2NGR1JWeWVDNnZaWDNIanBkYVp3VFQ2U3E3VkhJSkV5OTg3aS13UzlKN0JSTWRMaHMyOTdHRVd3X0x0YlJLdElWNTVKQ05yalU3SGc?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-08-25 03:07
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBPdmJ3UnY2UC1ScUpsbVRIejg1X3dnNVNFc29MZWc4ZDZJOEk0ei1VOV9GcTlTcFloR2V6SVZwZ21TUGg2bzA2b056TDk?oc=5>
+
+### 特朗普最新披露：6月股票交易超千笔 曾买入马斯克SpaceX股份
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 财联社
+- 时间: 2026-08-25 00:12
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE1TMUg3czVVbi1ZQUNINGFjYWg2NEpOYnM2Sms5bWV1RkRzeTBwUUhPVGVweVR2NzdscW5fdno0dnZaMm4taVlVYQ?oc=5>
+
+### 媒体：特朗普拟对中加征7.5%产能过剩关税
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: DW.com
+- 时间: 2026-08-25 05:46
+- 链接: <https://news.google.com/rss/articles/CBMiiwJBVV95cUxNdlhXdGJ4S0ZkaThRLTBsTmRtb3lyUWZCQzNLNm5hNDE5YW1HWnBwMUZhRHg2RUVIWU0zR0hFdjJJX0NFOFJmS2xlM3U5NnBwXzdUZUlJbjFwNFo5QjlxTzlKRTdibkVjZFlZemQwZ2k4Mkhfb0V1S05sb3ZreHV1RzQ4ekFQWEZmVnlXZXFIdUdFZm9CVU1ZcU9ubFMycVJUUmkzSnlFOHlhNlpQVGtUNG52M3Y3czBRcnhQa0owR1R5ejlYa1ZkQmFpaGo0Tml6ZEdwblJuRVpMalo3eUh6cWU5emk2QXZDR2NZblNRX2JsWkEtbzZPQ0xtOS1ldGxBVk95MFBkTHhBaTjSAYsCQVVfeXFMT1g1eVJDcWpVU1Zpa2FhZUhBQVdmTl96OXJkM3BVbmI4aVpXTmNxTlU4S0huSnl1dUlDdFVSMlJvZEI2dnFxZ1c0TzUwXzA1YkptaTNkcmFlcExnLWVpMVhQUXFhTjd2MTFxcVUtYk1zRTA5VTBlY0hvVk90ckl0WnQxaFlIbTZYR1h0UnBVVEhoS214TXFYU2lQbmlUbjAydnlZZjgwcWlpX2lGMGlIbEpwV0lpemhKUXBOVVpVRlBiczhNQnhHZDFKMkRhc0RBU1Q3VEtJVk9RdVZVcUx6cTV1bTJfR2RvMUx2b204VzlvYlppV0tzczlDUTQtRFM0cGVoSEZOaGROYjV3?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-25 10:01  (5 条)
+
+- **特朗普** | 消息人士透露：特朗普拟以工业产能过剩为由，对中国加征7.5%新关税，但美方称不会影响9月特习会 <https://news.google.com/rss/articles/CBMi0wRBVV95cUxNNUUyWUtZZnhWTGRDYUl2eDAyNE9ZN0tFWWZSU3Z0YkUzX0plNE9ZWHhTSHhGN1dyMzA0Qm5yd1ZPT1l2bU1YRmFpM0lLakF3SmY0a3Y1eHJ6bFVEbDRVWFhLOGVxSUxHSFZseHVLWTRwZmNObzlXVkFZM2xES0VUal8wVERvQWYxaFdZQWlLanVHMDdDbzhvZEpTbWFYb0lSM0hSY0s5UE1aQzZOcDhDWHZPNjRjT0ZqUUQzYTFJd3pCSGxUVTdHbEdnUEltZXRQZG80V1Itc3psakVYVEY5S3Zkd2FVaUIxMmNkRGQ0eTVKSVRFWXlId0c1X3c5d1pyd0l0eEZFVy1vME5DaWhXU3FQRTByV2M0aFF2MTBpUVhqNEo4a3lFT3RQeVl3MlZFNFlzdElJTldvSG1LcUFvSUh0OU13ampuSTg4YlRlRzdXdUpFWV9oWVdWVDladk5vUk5FZi1kMERPbGV3bUlkNlNNM0FlN2dBX1dQZUlNN05oWEg0ZXh0am52dXdwT0FjSVdHcnhiT3gxWGlPd25rSi01N3dIYmJMZlRadmYxSnF1eHN3VTVPU0NzdHFVMHRPcG5VbXg5UEdna2I1TE54bXVyOHR3cW13VEF1RjBYaEdLQ3labWZqZEtJbkYyc2xMZVN4UGJsRmRRQ0NGZGx2WGQ1RWQyM0lHUXphX1h0bHJMVVNMZHk5OUJoQktOYmdRMnYtVHM2U1B4LVRSSEpqN2o1aktOZ1NxVUpxMUw4Q2cwQ1Vhc25QMkx4aWlwZmtzdnY4?oc=5>
+- **特朗普** | 泽连斯基承认曾欺骗特朗普，称被军方误导星链使用 <https://news.google.com/rss/articles/CBMicEFVX3lxTE5yRHlObjk1VEc3TmV3ajFwbUtVZHVkTW4wUWprWGQ0TmhpSFBoQ2VaWjhZbHhuYWRrc3FyYnVjZUpWS0t1X0lJWEJQYU5tN0dpT2hjZ1luMUppZE1mSE05UW1hNndwdHA5czdSWXZ5VXY?oc=5>
+- **特朗普** | “伊朗悬赏1000万美金暗杀巴伦·特朗普”，美特勤局回应 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBPdmJ3UnY2UC1ScUpsbVRIejg1X3dnNVNFc29MZWc4ZDZJOEk0ei1VOV9GcTlTcFloR2V6SVZwZ21TUGg2bzA2b056TDk?oc=5>
+- **特朗普** | 特朗普最新披露：6月股票交易超千笔 曾买入马斯克SpaceX股份 <https://news.google.com/rss/articles/CBMiSEFVX3lxTE1TMUg3czVVbi1ZQUNINGFjYWg2NEpOYnM2Sms5bWV1RkRzeTBwUUhPVGVweVR2NzdscW5fdno0dnZaMm4taVlVYQ?oc=5>
+- **特朗普** | 媒体：特朗普拟对中加征7.5%产能过剩关税 <https://news.google.com/rss/articles/CBMiiwJBVV95cUxNdlhXdGJ4S0ZkaThRLTBsTmRtb3lyUWZCQzNLNm5hNDE5YW1HWnBwMUZhRHg2RUVIWU0zR0hFdjJJX0NFOFJmS2xlM3U5NnBwXzdUZUlJbjFwNFo5QjlxTzlKRTdibkVjZFlZemQwZ2k4Mkhfb0V1S05sb3ZreHV1RzQ4ekFQWEZmVnlXZXFIdUdFZm9CVU1ZcU9ubFMycVJUUmkzSnlFOHlhNlpQVGtUNG52M3Y3czBRcnhQa0owR1R5ejlYa1ZkQmFpaGo0Tml6ZEdwblJuRVpMalo3eUh6cWU5emk2QXZDR2NZblNRX2JsWkEtbzZPQ0xtOS1ldGxBVk95MFBkTHhBaTjSAYsCQVVfeXFMT1g1eVJDcWpVU1Zpa2FhZUhBQVdmTl96OXJkM3BVbmI4aVpXTmNxTlU4S0huSnl1dUlDdFVSMlJvZEI2dnFxZ1c0TzUwXzA1YkptaTNkcmFlcExnLWVpMVhQUXFhTjd2MTFxcVUtYk1zRTA5VTBlY0hvVk90ckl0WnQxaFlIbTZYR1h0UnBVVEhoS214TXFYU2lQbmlUbjAydnlZZjgwcWlpX2lGMGlIbEpwV0lpemhKUXBOVVpVRlBiczhNQnhHZDFKMkRhc0RBU1Q3VEtJVk9RdVZVcUx6cTV1bTJfR2RvMUx2b204VzlvYlppV0tzczlDUTQtRFM0cGVoSEZOaGROYjV3?oc=5>
 
 ### 2026-08-25 09:28  (4 条)
 
