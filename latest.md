@@ -1,40 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-25 21:51**
-- 本轮扫到 10645 条, 新增 **3** 条
+- 最近更新: **2026-08-25 22:19**
+- 本轮扫到 10646 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (1 条)
 
-### 特朗普要更名安大略湖（Lake Ontario）
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-08-25 21:24
-- 链接: <https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWFE3eU9Cd2VSbUpzNmVHZDR1bTFDVEJJZmRfZjQxTE9UdEhTVEUtMFBDUjJDUll3bnh2ZXh2MVA5Y2QwY3ZYVzlUenp5ektVbHVLaW1RNHhrVkFyRUxvWm53bE96OE45VGdfYi1GWllsTFdfOGRSTjlmbkdXZzVlakdMWXRUME1HaWNzMXhOekR3S0VyaFBjZHVvMW9jdU1MYXQxWXdVT1BxUmVocTRFRzBDZzZfRGkwYnlBTUJJNm1SZWl5cV80WURpUUxxZUtYS2ZYTGtnRXZUNzlNV0dEazRuSzVldk41?oc=5>
-
-### VOA今日焦点 (2026年8月26日) 特朗普总统晒与金正恩合照 释放会晤信号？
+### 希拉里疯狂吐槽：特朗普一通骚操作 把美国的家底都败光了 华盛顿要是还活着都得摇头
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-08-25 21:32
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE1qbUpkNTd0ODFoTjFlVjlwSzNGcE5tUWt1QkFONXQzV1ZNTlZndl9iUzBEWmtKWWZuOXdkcnJ3Q0VEeGJIdnNuaGhqSEtYTFlQZ0p0MjZnOEpyek1fb0YzRTRTeGVyZktJYW9J0gFuQVVfeXFMT0FUbjQyMFhzSXRpNTJHaXBCMk1BbnpHZE9NSmFkQk54QzhpYnNzSVpIV0ZWWW8yRVpBemtGLS1vd2w1Z3dvWEQyZTM5OXFPX0xBMXVYMmo2ejBDUWQ1TFZXNDgtSlZQOFV0RjVjWUE?oc=5>
-
-### 悬赏千万美金暗杀巴伦 伊朗播出长达3分钟影片
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 万维读者网
-- 时间: 2026-08-24 20:36
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5IX3VRUi1yYmRVNWVFcWRjZ01Vc2pGbVZ5VVFtOXh3RnF0a0t4ak9uUXpmT2Fid1l3M0g3TXdqNGs1aW05MTEzYzlXUHdHcFMtZ1QxLXJFX2J1eVlMT2lKMmZGbGVZUQ?oc=5>
+- 场馆: 手机新浪网
+- 时间: 2026-08-25 22:09
+- 链接: <https://news.google.com/rss/articles/CBMi4AFBVV95cUxQelBkQ1ZrSkdFUFFvR1Izem00MXRpeDdwVWwyMExYMEdmZ3B0NUdEZTNnS193RXdYNzFhQnRjbklDaVVZZWJDMnc0TlQ2MV83WUtfWmFIYmZob2owLXoxUV96X2tac0lEOW15NENQSEpqeVlPY1FEQkxHSGZ0YmtkTFdibHdxMlUxUTAxQmN0SHROalVKNlBjQlVDbm9EcXpFaU45eFhibFZRTS1zRUxHWTIwUmpZVVM5eldEbWdrUUJJUVZONUlXN0hSb3pLbVJQamM1cTlTZnBQWDc1MHp5Tg?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-25 22:19  (1 条)
+
+- **特朗普** | 希拉里疯狂吐槽：特朗普一通骚操作 把美国的家底都败光了 华盛顿要是还活着都得摇头 <https://news.google.com/rss/articles/CBMi4AFBVV95cUxQelBkQ1ZrSkdFUFFvR1Izem00MXRpeDdwVWwyMExYMEdmZ3B0NUdEZTNnS193RXdYNzFhQnRjbklDaVVZZWJDMnc0TlQ2MV83WUtfWmFIYmZob2owLXoxUV96X2tac0lEOW15NENQSEpqeVlPY1FEQkxHSGZ0YmtkTFdibHdxMlUxUTAxQmN0SHROalVKNlBjQlVDbm9EcXpFaU45eFhibFZRTS1zRUxHWTIwUmpZVVM5eldEbWdrUUJJUVZONUlXN0hSb3pLbVJQamM1cTlTZnBQWDc1MHp5Tg?oc=5>
 
 ### 2026-08-25 21:51  (3 条)
 
