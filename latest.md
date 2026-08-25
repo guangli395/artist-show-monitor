@@ -1,31 +1,13 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-25 11:27**
-- 本轮扫到 10600 条, 新增 **2** 条
+- 最近更新: **2026-08-25 11:54**
+- 本轮扫到 10600 条, 新增 **0** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮无新增
 
-### 英国首相伯纳姆9月将与特朗普举行首次面对面会谈
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-08-25 10:46
-- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE1JaXZlZko5Rkh3Qm45N2ZFUFFhbHE4Mm5Pc29lcUlGVmZiTkg2ZFozUzFJS3NyUVZFY25WeWtVSW5icWJ1ZS1DTk9qeTdQVkZOVFFTcVZlVl9zRVpXRVMtMXJtY0ZBQzhzV3ZiVVFweVhJWmFyMDJhNEJ3?oc=5>
-
-### 受美伊战争拖累 特朗普支持率持续低迷
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-08-25 10:05
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1wZEV2VGhMOG1TVHE4RFZlLUtyUmpxQnpaTU5ROWZvcWF2d3FWSHIybVltZWJQOUcxZjdvOTFzSElQV2h4Yzhab0NlSXFMNFlOaTRCbjByQndDS1ltY2FWUGFlTTB4ZjAwM1E?oc=5>
-
-
----
-
+数据库里所有演出/动态都已见过,暂无新增。
 ## 历史发现
 
 ### 2026-08-25 11:27  (2 条)
