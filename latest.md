@@ -1,56 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-25 06:39**
-- 本轮扫到 10581 条, 新增 **5** 条
+- 最近更新: **2026-08-25 07:38**
+- 本轮扫到 10584 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (3 条)
 
-### 特朗普竟向美海军宣战？航母造一半换心脏，美媒：他老年痴呆了！
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-08-25 06:14
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE96VFY3dy04RExZdXh4Wmt6N1VPYlFTUjJRcXBWXzItcDBMeGJwbERiZjUzdHZFWjBKMzVON2xTQlJ2eU5fX1VrdUJxTDRNbk91Zm1aajZ5UXMzYkZsUVJ3OTJyWW10bTRYQWtRU3k5YXdjZw?oc=5>
-
-### 特朗普最新调仓披露
+### 民调：伊朗战事拖累特朗普支持率创新低
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-08-25 01:08
-- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTE16ejBwdkFpdkpQNUg2UWRvUzZpN1JCekplVWdJUFFXYWRpc1lLZWk1RXJPV29WMUVVXzNGbkx6LWV4Y21UdlBOVXFCX3JjbnZWdGwyZDQ4cGEtYTVXeTJ0VFRIMVhCN2FYY29vdkV3?oc=5>
+- 场馆: 新华网
+- 时间: 2026-08-25 06:43
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1fUy1scGJGaWtFdGw5dzloblVIT1RUT0xiODVIUzQ0SkxMUjBDdjhFaTlzVEUxbzVtLUhBRFEyUEQ3eHh6SWZNaExIYzJrUXVReHNCQWpkZ1RuZUtxTURURGlpNzVidF96b1FyZmhwNmtyY3lsNVJ4akN4N1dSbzA?oc=5>
 
-### 美国“自由250”大奖赛现场：特朗普和第一夫人乘“野兽”专车赛道上兜风 总统挥旗启动赛事
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-08-25 00:58
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE8wWmJJZEpUU2dYWGM1R0diSkVSV29fT1o0ZG85c1h5TDZPTnBMaHJUa1N1YjN5Wm9Hd1J4VkFBSktlbWxZMzVreEF5Z0Q3aFBObEdPS3d2Rl9tbzFmRTZYS0pJczJ2VDBka0R5V2wwclc?oc=5>
-
-### “大势已明”：中期选举的动荡到来前，特朗普幕僚开始纷纷离职
+### 特朗普最新披露：6月股票交易超千笔 曾买入马斯克SpaceX股份
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 加美财经
-- 时间: 2026-08-25 01:33
-- 链接: <https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrYzFVUXBLTWZUSFV5bmNBUUJvVDIyWGFWbFpMVTQwcU9pdDVqVGpnMVFzZzlPbTd3S00zSmFBNE14UmxETzB0MzZ0YXRQYldXQ0hnRVFfSS0wZw?oc=5>
+- 场馆: 东方财富
+- 时间: 2026-08-24 02:25
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jWm1RV0pSbFo2WlZ5M3QzcEV2cXd5NldoYTRhTi1WdmUtMXctTmF0a05FTk5EN3pzV1p5eGpud19kS3NTbGtFTVRvQjdKdEl0ZldNcmxqbXVfQUt3eW8xVw?oc=5>
 
-### 特朗普签署行政令要求拆分MMR疫苗并改回蒸汽弹射，引发争议
+### 在习特会前,特朗普拟对中加征7.5%产能过剩关税
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 虎嗅
-- 时间: 2026-08-25 02:00
-- 链接: <https://news.google.com/rss/articles/CBMiVEFVX3lxTE0wT0xPOHMwQWdxWFNTSm5CNnpjZ2tnc1k1NXN2NWQtV2VpOHFPXzloVzhYWG9jMWM0TVFHUHZ1eV9lWWVGR0F4M2Y2WWZ3RU91aXBOUA?oc=5>
+- 场馆: 文学城
+- 时间: 2026-08-25 06:35
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ETEZmQjM1azV0OHV2R3pSQWpQQm8zS2EwNDFHMFlVYmVwYWRGYVZpekExZW9kTndFX3lHRTlUWDBPOTROMHBGT0pyYXYyS1lDNk9nR1FOemVrQW5DbVVuNEhEUHlWQTV5?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-25 07:38  (3 条)
+
+- **特朗普** | 民调：伊朗战事拖累特朗普支持率创新低 <https://news.google.com/rss/articles/CBMif0FVX3lxTE1fUy1scGJGaWtFdGw5dzloblVIT1RUT0xiODVIUzQ0SkxMUjBDdjhFaTlzVEUxbzVtLUhBRFEyUEQ3eHh6SWZNaExIYzJrUXVReHNCQWpkZ1RuZUtxTURURGlpNzVidF96b1FyZmhwNmtyY3lsNVJ4akN4N1dSbzA?oc=5>
+- **特朗普** | 特朗普最新披露：6月股票交易超千笔 曾买入马斯克SpaceX股份 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jWm1RV0pSbFo2WlZ5M3QzcEV2cXd5NldoYTRhTi1WdmUtMXctTmF0a05FTk5EN3pzV1p5eGpud19kS3NTbGtFTVRvQjdKdEl0ZldNcmxqbXVfQUt3eW8xVw?oc=5>
+- **特朗普** | 在习特会前,特朗普拟对中加征7.5%产能过剩关税 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ETEZmQjM1azV0OHV2R3pSQWpQQm8zS2EwNDFHMFlVYmVwYWRGYVZpekExZW9kTndFX3lHRTlUWDBPOTROMHBGT0pyYXYyS1lDNk9nR1FOemVrQW5DbVVuNEhEUHlWQTV5?oc=5>
 
 ### 2026-08-25 06:39  (5 条)
 
