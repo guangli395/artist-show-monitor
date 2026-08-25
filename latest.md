@@ -1,40 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-25 10:57**
-- 本轮扫到 10598 条, 新增 **3** 条
+- 最近更新: **2026-08-25 11:27**
+- 本轮扫到 10600 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (2 条)
 
-### 美国最高法院为特朗普政府限制邮寄选票留余地
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-08-25 10:17
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9KUEJaTU9sT2pLMnFUcTBORnVxSTNsbEdDU1YwQ19tTkZpeGVsOG1sRHFCVlpUZmppZ3hrb0txX3pTQnZmOGlXS1RKOHZmRkotRWdrQkdSQTJhVl9Dd1k0a2hqOXVfM3pvN0ZYTENobTN3bWFXQ1poS3N2U0Jyb1E?oc=5>
-
-### 美国民调：伊朗战事拖累特朗普支持率创新低
+### 英国首相伯纳姆9月将与特朗普举行首次面对面会谈
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-25 06:43
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE12R0xYdFpZbkVtd1p5Um5NTUVxa3p0QS1hVG1Cc0ZjSFlWNGFMbHU0anE2b19OZll3ejIxbTBxMFRwVkdYZk8tSl95VQ?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-08-25 10:46
+- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE1JaXZlZko5Rkh3Qm45N2ZFUFFhbHE4Mm5Pc29lcUlGVmZiTkg2ZFozUzFJS3NyUVZFY25WeWtVSW5icWJ1ZS1DTk9qeTdQVkZOVFFTcVZlVl9zRVpXRVMtMXJtY0ZBQzhzV3ZiVVFweVhJWmFyMDJhNEJ3?oc=5>
 
-### 美国宣布发起经济“猛攻”，特朗普致电多方领导人，伊朗回应
+### 受美伊战争拖累 特朗普支持率持续低迷
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪军事
-- 时间: 2026-08-25 06:26
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFBSQXNMR0FJRHozMUMtN2RuNXpXRnJlVUZGNlVDaHpUNWcyV3FibU0tT1ZJOWJNUDlwTDQzTVhHWjJtMnBQN3BMYVRoYWdabHZpcGowVUEzcE5hUW8wRE51dkZKUWU1aHRVNnJWLW0zUlJfQWc?oc=5>
+- 场馆: 联合早报
+- 时间: 2026-08-25 10:05
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1wZEV2VGhMOG1TVHE4RFZlLUtyUmpxQnpaTU5ROWZvcWF2d3FWSHIybVltZWJQOUcxZjdvOTFzSElQV2h4Yzhab0NlSXFMNFlOaTRCbjByQndDS1ltY2FWUGFlTTB4ZjAwM1E?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-25 11:27  (2 条)
+
+- **特朗普** | 英国首相伯纳姆9月将与特朗普举行首次面对面会谈 <https://news.google.com/rss/articles/CBMiekFVX3lxTE1JaXZlZko5Rkh3Qm45N2ZFUFFhbHE4Mm5Pc29lcUlGVmZiTkg2ZFozUzFJS3NyUVZFY25WeWtVSW5icWJ1ZS1DTk9qeTdQVkZOVFFTcVZlVl9zRVpXRVMtMXJtY0ZBQzhzV3ZiVVFweVhJWmFyMDJhNEJ3?oc=5>
+- **特朗普** | 受美伊战争拖累 特朗普支持率持续低迷 <https://news.google.com/rss/articles/CBMiakFVX3lxTE1wZEV2VGhMOG1TVHE4RFZlLUtyUmpxQnpaTU5ROWZvcWF2d3FWSHIybVltZWJQOUcxZjdvOTFzSElQV2h4Yzhab0NlSXFMNFlOaTRCbjByQndDS1ltY2FWUGFlTTB4ZjAwM1E?oc=5>
 
 ### 2026-08-25 10:57  (3 条)
 
