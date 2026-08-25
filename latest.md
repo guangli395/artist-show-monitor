@@ -1,24 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-25 05:56**
-- 本轮扫到 10576 条, 新增 **1** 条
+- 最近更新: **2026-08-25 06:39**
+- 本轮扫到 10581 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮新发现 (5 条)
 
-### 美债的底牌是美军吗 特朗普惊人之语引发热议
+### 特朗普竟向美海军宣战？航母造一半换心脏，美媒：他老年痴呆了！
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中华军事
-- 时间: 2026-08-25 04:55
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9xRXFKVGpfcEJfUWZBQ1lPUDNPZG0xdjR5R1kwUk9pMkxEYm9kRENwQ1V5d0t5ZHFGcWc2NUVrNnpORVduVllWUlJYdmFQMjBuUXdTX01wSDhPMFJVQlY3TG9NOXBWZDZOblZLUnZFcDU?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-08-25 06:14
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE96VFY3dy04RExZdXh4Wmt6N1VPYlFTUjJRcXBWXzItcDBMeGJwbERiZjUzdHZFWjBKMzVON2xTQlJ2eU5fX1VrdUJxTDRNbk91Zm1aajZ5UXMzYkZsUVJ3OTJyWW10bTRYQWtRU3k5YXdjZw?oc=5>
+
+### 特朗普最新调仓披露
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: finance.sina.com.cn
+- 时间: 2026-08-25 01:08
+- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTE16ejBwdkFpdkpQNUg2UWRvUzZpN1JCekplVWdJUFFXYWRpc1lLZWk1RXJPV29WMUVVXzNGbkx6LWV4Y21UdlBOVXFCX3JjbnZWdGwyZDQ4cGEtYTVXeTJ0VFRIMVhCN2FYY29vdkV3?oc=5>
+
+### 美国“自由250”大奖赛现场：特朗普和第一夫人乘“野兽”专车赛道上兜风 总统挥旗启动赛事
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-08-25 00:58
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE8wWmJJZEpUU2dYWGM1R0diSkVSV29fT1o0ZG85c1h5TDZPTnBMaHJUa1N1YjN5Wm9Hd1J4VkFBSktlbWxZMzVreEF5Z0Q3aFBObEdPS3d2Rl9tbzFmRTZYS0pJczJ2VDBka0R5V2wwclc?oc=5>
+
+### “大势已明”：中期选举的动荡到来前，特朗普幕僚开始纷纷离职
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 加美财经
+- 时间: 2026-08-25 01:33
+- 链接: <https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrYzFVUXBLTWZUSFV5bmNBUUJvVDIyWGFWbFpMVTQwcU9pdDVqVGpnMVFzZzlPbTd3S00zSmFBNE14UmxETzB0MzZ0YXRQYldXQ0hnRVFfSS0wZw?oc=5>
+
+### 特朗普签署行政令要求拆分MMR疫苗并改回蒸汽弹射，引发争议
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 虎嗅
+- 时间: 2026-08-25 02:00
+- 链接: <https://news.google.com/rss/articles/CBMiVEFVX3lxTE0wT0xPOHMwQWdxWFNTSm5CNnpjZ2tnc1k1NXN2NWQtV2VpOHFPXzloVzhYWG9jMWM0TVFHUHZ1eV9lWWVGR0F4M2Y2WWZ3RU91aXBOUA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-25 06:39  (5 条)
+
+- **特朗普** | 特朗普竟向美海军宣战？航母造一半换心脏，美媒：他老年痴呆了！ <https://news.google.com/rss/articles/CBMickFVX3lxTE96VFY3dy04RExZdXh4Wmt6N1VPYlFTUjJRcXBWXzItcDBMeGJwbERiZjUzdHZFWjBKMzVON2xTQlJ2eU5fX1VrdUJxTDRNbk91Zm1aajZ5UXMzYkZsUVJ3OTJyWW10bTRYQWtRU3k5YXdjZw?oc=5>
+- **特朗普** | 特朗普最新调仓披露 <https://news.google.com/rss/articles/CBMibkFVX3lxTE16ejBwdkFpdkpQNUg2UWRvUzZpN1JCekplVWdJUFFXYWRpc1lLZWk1RXJPV29WMUVVXzNGbkx6LWV4Y21UdlBOVXFCX3JjbnZWdGwyZDQ4cGEtYTVXeTJ0VFRIMVhCN2FYY29vdkV3?oc=5>
+- **特朗普** | 美国“自由250”大奖赛现场：特朗普和第一夫人乘“野兽”专车赛道上兜风 总统挥旗启动赛事 <https://news.google.com/rss/articles/CBMicEFVX3lxTE8wWmJJZEpUU2dYWGM1R0diSkVSV29fT1o0ZG85c1h5TDZPTnBMaHJUa1N1YjN5Wm9Hd1J4VkFBSktlbWxZMzVreEF5Z0Q3aFBObEdPS3d2Rl9tbzFmRTZYS0pJczJ2VDBka0R5V2wwclc?oc=5>
+- **特朗普** | “大势已明”：中期选举的动荡到来前，特朗普幕僚开始纷纷离职 <https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrYzFVUXBLTWZUSFV5bmNBUUJvVDIyWGFWbFpMVTQwcU9pdDVqVGpnMVFzZzlPbTd3S00zSmFBNE14UmxETzB0MzZ0YXRQYldXQ0hnRVFfSS0wZw?oc=5>
+- **特朗普** | 特朗普签署行政令要求拆分MMR疫苗并改回蒸汽弹射，引发争议 <https://news.google.com/rss/articles/CBMiVEFVX3lxTE0wT0xPOHMwQWdxWFNTSm5CNnpjZ2tnc1k1NXN2NWQtV2VpOHFPXzloVzhYWG9jMWM0TVFHUHZ1eV9lWWVGR0F4M2Y2WWZ3RU91aXBOUA?oc=5>
 
 ### 2026-08-25 05:56  (1 条)
 
