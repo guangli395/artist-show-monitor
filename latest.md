@@ -1,32 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-25 05:02**
-- 本轮扫到 10575 条, 新增 **2** 条
+- 最近更新: **2026-08-25 05:56**
+- 本轮扫到 10576 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (1 条)
 
-### 泽连斯基承认：欺骗了特朗普
+### 美债的底牌是美军吗 特朗普惊人之语引发热议
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-08-25 04:07
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFBpLXVFUzY4NnktUThQZ3FwYS1DX3FNTWg0bHlDNG9FemxfVmZZLU9zOVh0OGt4bC05Z2JfMkNCU1ZERW84TzhibTEwNkplMVIzRV9mblEycFNEbWwtNjRfTmVLeWdWRnVTQnh6YzFKMXFTQQ?oc=5>
-
-### 特朗普将于1月1日将加拿大汽车和钢铁的关税提高至50%。
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-08-24 14:03
-- 链接: <https://news.google.com/rss/articles/CBMiogFBVV95cUxPVHNXdnJBSFB6emxZR3B6R2V3aTNUYXhIWU03a1l4S3dwR2x5VE11bVhUTUZhTkZhR3NoV3pDeFRYdTBXcXN2Vk8zUktIM0tMMkl0ckVueThleXJiY04tNklYTkRNVWUtQUxnLVA3OFhudlBILTlOQUUxOHJLalR5VXZDNElNME9BRGF0ckJTbWR1MlVkbzFGeFFmZm5hN3g1cWc?oc=5>
+- 场馆: 中华军事
+- 时间: 2026-08-25 04:55
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9xRXFKVGpfcEJfUWZBQ1lPUDNPZG0xdjR5R1kwUk9pMkxEYm9kRENwQ1V5d0t5ZHFGcWc2NUVrNnpORVduVllWUlJYdmFQMjBuUXdTX01wSDhPMFJVQlY3TG9NOXBWZDZOblZLUnZFcDU?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-25 05:56  (1 条)
+
+- **特朗普** | 美债的底牌是美军吗 特朗普惊人之语引发热议 <https://news.google.com/rss/articles/CBMicEFVX3lxTE9xRXFKVGpfcEJfUWZBQ1lPUDNPZG0xdjR5R1kwUk9pMkxEYm9kRENwQ1V5d0t5ZHFGcWc2NUVrNnpORVduVllWUlJYdmFQMjBuUXdTX01wSDhPMFJVQlY3TG9NOXBWZDZOblZLUnZFcDU?oc=5>
 
 ### 2026-08-25 05:02  (2 条)
 
