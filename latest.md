@@ -1,48 +1,82 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-25 15:36**
-- 本轮扫到 10616 条, 新增 **4** 条
+- 最近更新: **2026-08-25 16:28**
+- 本轮扫到 10623 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (7 条)
 
-### 特朗普称考虑将安大略湖更名为“美国湖”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-08-25 11:41
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE1IVU5tQzRvb0cwenpsWkJVSURJWTJnOXRDbl9YR0VVdnc1Z3hBWHBrclJVMzVQTkZNaTBkeFdpeUVaYWF4UXZhZDhEbnpZVlV5Wjl4Z0lra0hjWlZCN19HbVk1TVl0WGxqQUlsQUJyeHBwbkpR?oc=5>
-
-### 特朗普：正考虑将安大略湖更名为“美国湖”，过去几十年美国一直养着加拿大，今后不会了
+### 特朗普：霍尔木兹海峡国际水域内所有水雷已被移除和/或引爆
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-08-25 14:37
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZNzdvNkVWckNReXZrdjFBZ0E0ZkJBY1NqOGlRQ2lVMEo2b3Z5amJhbDgwTm44RHJhcmpFdlVFMlZlX3RTUWxJUEhOaWlfTE5GZ2JCZXVvcWw4bjdDUXRqV1RxNXNoNVhLcS1hN182V1dHNE9aMDFjRw?oc=5>
+- 时间: 2026-08-25 14:31
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBDcFdJV2tsbnVVRmJGWElJOGFwemFDZkhmMFBNd2dTeXVSa3RobktMTnVnVk0xMzJiMDNiZ0tzRDlXd1FKX2t0VVhNZ1FPUk5kZ3cyYkpsNTVDWmhNa0poR0JZRDVqSF9TbEhtUHZFNW9nWno1RW5pLQ?oc=5>
 
-### 为中期选举失败做准备？特朗普女婿被曝秘密接触民主党高层
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-24 03:41
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBaWWhfSHRkNHkyd0FYc1dMNHpidGU4TE9heV8wNGxkTDRsNGtHNk02OXY1LUk0OG9tZzlDbnBHWEVjVXRKc3p3ekhabGc?oc=5>
-
-### 受美伊战争拖累 特朗普支持率持续低迷
+### 美高院解除限制邮寄选票禁令 特朗普取得暂时胜利
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 联合早报
-- 时间: 2026-08-25 12:34
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXV2ZFTVBhbXAtcThLMC05WXNPVFZ6Zl9EenVpQUlfSjFRSDV6WTduMVJDVnMwUTZiYXVFVjB0RXVtaFdSSGNsZEhZWXlzU205Z0pNa0llRjFuY0dmbEhGY0VjWTd6dw?oc=5>
+- 时间: 2026-08-25 12:00
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE03Nzg0Mkl6VUYxUXNpTVBfZzNfbXJ4QWxCOUh3ZXB1UlhxUUtlTFVGYk1TaFV1dWNmRFQyRnI5SUVwYXBoTGo2RHItOWRjVzJwVmlFRy1VUi13ZnY5OVViYjFCcy1oODhESHc?oc=5>
+
+### 特朗普：正认真考虑“美国湖”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 搜狐网
+- 时间: 2026-08-25 12:25
+- 链接: <https://news.google.com/rss/articles/CBMihgFBVV95cUxPNTVMcjNoSFVtY050TjNuSG9hekQ1UWVGMDI5dlg3eGF5OTdyMzdUcklscFRyZVFfVi1aUTlXc2JLMzNsNVV3ZXJnWjJzRGt4UlpsMlNrbkRSamFyQlp2cFdCdmZJaEF3N0NtNmRQT2ZGdVB3SFJITzNzSFNoU0JYYndEM0Vhdw?oc=5>
+
+### 特朗普政府拟启动大规模签证撤销行动 规模或超20万
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 财新
+- 时间: 2026-08-25 15:02
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBka1VhdkUwZUtnYmU4WjZ5Y29QcndzMTdkaXlYb2xOa1RJczJaRzRrb0tPd2ZDY1RNV2RFbnhLMmtrWEQxMXFhbkhHd3gwZFp1YW5Zd2hKazV4cmpNb0R2UjB4NHlQUDlYYXc?oc=5>
+
+### 快观察 | 一天出两大招，特朗普政府为何连挥签证重拳
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-25 11:08
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE4tZDZnYm9vVWZrTjN2c3ZCVVEwZmpWWG1WQThVSlNfbzZEZ0ZvR2xxM1AzdGlIRFVSa082Q01uZWVnYnBMRWViMXdvTFdtOGNTUWFKeXRhYm9nYXhSV1AySUlQb2RRMG5ibWRnaTY0bC1SaFZFZjk0LQ?oc=5>
+
+### 特朗普三线极限施压，同时对准中国、加拿大、伊朗
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-08-25 10:00
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1TZktrY3NKaDk0TThsOWNHUm15eEhZNDktNC1pVUpQMWtTSXdfOTRxUUdocG5RSFhkMjU1Q0twVmJubGpwSmc5VE0teVY?oc=5>
+
+### Trump Media & Technology Group Tokenized bStocks 价格的历史记录和历史数据
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: CoinMarketCap
+- 时间: 2026-08-25 06:04
+- 链接: <https://news.google.com/rss/articles/CBMipgFBVV95cUxPLUwyb0VSWjNJOWFIbHhmallLbGRWaEl2cHNSRnRXZE1QXzZ4Ymo3ekxjMnJ1T2hqQUpXWnlfVU80WEpjS2lid0I1VDRPTERkQm5Cb3M0cWFZUi13ZXBlTDNCbks0TFBXZUUyd2tKdVN0aHc2ZDlISUVvNjVzZjE3SEFmbWpfZHBmanRjbG1kN3lsVF83V1pOTUY4aFVoa0tBZUc3WFpB?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-25 16:28  (7 条)
+
+- **特朗普** | 特朗普：霍尔木兹海峡国际水域内所有水雷已被移除和/或引爆 <https://news.google.com/rss/articles/CBMieEFVX3lxTFBDcFdJV2tsbnVVRmJGWElJOGFwemFDZkhmMFBNd2dTeXVSa3RobktMTnVnVk0xMzJiMDNiZ0tzRDlXd1FKX2t0VVhNZ1FPUk5kZ3cyYkpsNTVDWmhNa0poR0JZRDVqSF9TbEhtUHZFNW9nWno1RW5pLQ?oc=5>
+- **特朗普** | 美高院解除限制邮寄选票禁令 特朗普取得暂时胜利 <https://news.google.com/rss/articles/CBMiakFVX3lxTE03Nzg0Mkl6VUYxUXNpTVBfZzNfbXJ4QWxCOUh3ZXB1UlhxUUtlTFVGYk1TaFV1dWNmRFQyRnI5SUVwYXBoTGo2RHItOWRjVzJwVmlFRy1VUi13ZnY5OVViYjFCcy1oODhESHc?oc=5>
+- **特朗普** | 特朗普：正认真考虑“美国湖” <https://news.google.com/rss/articles/CBMihgFBVV95cUxPNTVMcjNoSFVtY050TjNuSG9hekQ1UWVGMDI5dlg3eGF5OTdyMzdUcklscFRyZVFfVi1aUTlXc2JLMzNsNVV3ZXJnWjJzRGt4UlpsMlNrbkRSamFyQlp2cFdCdmZJaEF3N0NtNmRQT2ZGdVB3SFJITzNzSFNoU0JYYndEM0Vhdw?oc=5>
+- **特朗普** | 特朗普政府拟启动大规模签证撤销行动 规模或超20万 <https://news.google.com/rss/articles/CBMiakFVX3lxTFBka1VhdkUwZUtnYmU4WjZ5Y29QcndzMTdkaXlYb2xOa1RJczJaRzRrb0tPd2ZDY1RNV2RFbnhLMmtrWEQxMXFhbkhHd3gwZFp1YW5Zd2hKazV4cmpNb0R2UjB4NHlQUDlYYXc?oc=5>
+- **特朗普** | 快观察 | 一天出两大招，特朗普政府为何连挥签证重拳 <https://news.google.com/rss/articles/CBMieEFVX3lxTE4tZDZnYm9vVWZrTjN2c3ZCVVEwZmpWWG1WQThVSlNfbzZEZ0ZvR2xxM1AzdGlIRFVSa082Q01uZWVnYnBMRWViMXdvTFdtOGNTUWFKeXRhYm9nYXhSV1AySUlQb2RRMG5ibWRnaTY0bC1SaFZFZjk0LQ?oc=5>
+- **特朗普** | 特朗普三线极限施压，同时对准中国、加拿大、伊朗 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1TZktrY3NKaDk0TThsOWNHUm15eEhZNDktNC1pVUpQMWtTSXdfOTRxUUdocG5RSFhkMjU1Q0twVmJubGpwSmc5VE0teVY?oc=5>
+- **Trump** | Trump Media & Technology Group Tokenized bStocks 价格的历史记录和历史数据 <https://news.google.com/rss/articles/CBMipgFBVV95cUxPLUwyb0VSWjNJOWFIbHhmallLbGRWaEl2cHNSRnRXZE1QXzZ4Ymo3ekxjMnJ1T2hqQUpXWnlfVU80WEpjS2lid0I1VDRPTERkQm5Cb3M0cWFZUi13ZXBlTDNCbks0TFBXZUUyd2tKdVN0aHc2ZDlISUVvNjVzZjE3SEFmbWpfZHBmanRjbG1kN3lsVF83V1pOTUY4aFVoa0tBZUc3WFpB?oc=5>
 
 ### 2026-08-25 15:36  (4 条)
 
