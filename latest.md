@@ -1,24 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-25 17:53**
-- 本轮扫到 10630 条, 新增 **1** 条
+- 最近更新: **2026-08-25 18:30**
+- 本轮扫到 10633 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮新发现 (3 条)
 
-### 美国务院：准备撤销20万人签证 锁定申请政庇者
+### 特朗普：考虑改称“美国湖”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-08-25 17:36
-- 链接: <https://news.google.com/rss/articles/CBMiyAJBVV95cUxNbWw2WnJTcjYwMkVKTnJldWdYajZaQl9HeHRqMWN6ZGhKSDc3d1FCN2dDZEtYaDdQUEg1a1k2a21nNmhIZWFGRU11alN1cnpwUzZXaTZINi1yb09kN3d2WjhfalNlLUYzU0dNb0hXTHhGRkp6cG5acm94d3czbV9Jd0J2c2pORV95aFVIWktQdHBkNmE4ZDhMQXU5bGZwbUpDTFc3Y1BwWHpzN015ODVza0JMTmt2Zm9XX3poWkNISnNxOWV2azN5VG9sYVZiQ0JLMGN6WjZCd3FxTXNuVzd2N3N1Q18yMTJ3M0d2RUpDem52a3daMW15UlhXMUdTaFdfUHlMbnBlSUtMNElaTzFVM2FMZ25VVVRIdTh1LUpZTHZjNktFaTFFUGdUY0d2NGtzYmJLR3A2dk5iU1dkV3RVcUFIb3JId2RO?oc=5>
+- 场馆: 观察者
+- 时间: 2026-08-25 13:13
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE04VVV5VE9GYzUtdm1YRVRMZHFXN3BmcHB1b1NiNWNpMWpPcnVuVGVPaDh3QllWUU5UNjctSHVVV2hZQmFHU1RCSTdwRFRtd050ckhWb2o4eE5wa0FGVVdZZzFwd1hvRG4wYmc?oc=5>
+
+### 特朗普：正认真考虑“美国湖”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: finance.sina.com.cn
+- 时间: 2026-08-25 12:25
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTFBYQ2stRERfRkNCc3E5bFVaR0Qwc1lUT3ctTk9vQ2c5T0ZKSTU3NVg1S254ZTJ6UUdKVWNRU2dPd0JTTFF5ZFZnV0xYN3hTNjByOERyVHJWVFlJWmc2blNWR1J0TlRwOEhXbXNBY25RUzlJQXpneVE?oc=5>
+
+### Threat Posed By Trump to Canada's Auto Sector 'Is Real' -- Market Talk
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-08-25 17:46
+- 链接: <https://news.google.com/rss/articles/CBMimwFBVV95cUxPdzdhdUY2cGhMODFST00xcHQzd2MxQWhJLUNoZDBZd3VSX05sVlZnZ0ZGZDVOSjlJTUxsQXp2UjNYNXN5LVdRMUFIVFhKWFdrVGdrTFBqSWdXcXd4b284ZWJZdkQ5TzFydFUzY0twT1NWeUpuemxic1lQUTBnaWM1NDJWNTBwOXk2M09xZVMxaTM0YVEtdnktejE3aw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-25 18:30  (3 条)
+
+- **特朗普** | 特朗普：考虑改称“美国湖” <https://news.google.com/rss/articles/CBMiakFVX3lxTE04VVV5VE9GYzUtdm1YRVRMZHFXN3BmcHB1b1NiNWNpMWpPcnVuVGVPaDh3QllWUU5UNjctSHVVV2hZQmFHU1RCSTdwRFRtd050ckhWb2o4eE5wa0FGVVdZZzFwd1hvRG4wYmc?oc=5>
+- **特朗普** | 特朗普：正认真考虑“美国湖” <https://news.google.com/rss/articles/CBMidkFVX3lxTFBYQ2stRERfRkNCc3E5bFVaR0Qwc1lUT3ctTk9vQ2c5T0ZKSTU3NVg1S254ZTJ6UUdKVWNRU2dPd0JTTFF5ZFZnV0xYN3hTNjByOERyVHJWVFlJWmc2blNWR1J0TlRwOEhXbXNBY25RUzlJQXpneVE?oc=5>
+- **Trump** | Threat Posed By Trump to Canada's Auto Sector 'Is Real' -- Market Talk <https://news.google.com/rss/articles/CBMimwFBVV95cUxPdzdhdUY2cGhMODFST00xcHQzd2MxQWhJLUNoZDBZd3VSX05sVlZnZ0ZGZDVOSjlJTUxsQXp2UjNYNXN5LVdRMUFIVFhKWFdrVGdrTFBqSWdXcXd4b284ZWJZdkQ5TzFydFUzY0twT1NWeUpuemxic1lQUTBnaWM1NDJWNTBwOXk2M09xZVMxaTM0YVEtdnktejE3aw?oc=5>
 
 ### 2026-08-25 17:53  (1 条)
 
