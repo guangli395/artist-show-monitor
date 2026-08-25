@@ -1,72 +1,80 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-25 02:15**
-- 本轮扫到 10561 条, 新增 **7** 条
+- 最近更新: **2026-08-25 03:24**
+- 本轮扫到 10568 条, 新增 **7** 条
 
 ---
 
 ## 本轮新发现 (7 条)
 
-### 特朗普：明年将加拿大汽车、钢铁等品类关税提至50%
+### 周杰伦为何否认新专辑耗时三四年？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923118_1d5ae15ae06801ou50.html>
+
+### 泽连斯基承认：我骗了特朗普
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 央视网
-- 时间: 2026-08-24 15:51
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1hRU5iMGROdFA5MTYwYVJ1eDljb1FuRFFOTW9kMFQtZHJxM2txcjdLZWRtWG4tdHg2c3NtVFJ6aFh0cm1VZnIwd2dSWU1YNkFHakdUVHJJcnBud25qbF9YS1kxOUtmQlBwQnVTWVUtM1h1c3lzVGZQYg?oc=5>
+- 场馆: 手机新浪网
+- 时间: 2026-08-25 03:15
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE9zSk42NXJaQm5NRHhnU004NDJfZUZHckRNeUtuX2xKN28yeko4ZlVtMGRmdGZQc1R0VExBLUxHdUlqOUtaT2tLLU1YWnN1dEt6cElFVWRvVWZWNGRLNlV2OHlsa3NxbVJPcm0zd3Braldsdw?oc=5>
 
-### 赛车驶入华盛顿街头 特朗普观赛 20万民众共庆美国250周年
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-08-24 23:59
-- 链接: <https://news.google.com/rss/articles/CBMipAFBVV95cUxQbVg4NmVCbEZCU25VdWxqRjhIX29zQ0FWdnpmR3ROZjU0ZkxnSlpxaTRwSlNveld6T0RyVWpBRGFoZGZYYmVnRUdidFh3ZEFrOHdBeHk2ckRpcjVuZm50MnMzTno3YkN4bEpGVXVrdkxJY3VnQXJIdjViRmx0SUVxVVh6MnhvVnN5dlVGV25rZWVfbXJ0SERyQVp0SDBqRXUxMzRTV9IBpwFBVV95cUxPaGtUdU42d2xIUTBUUURibkNhWmREOS10alRVeENQQVNuQVBHQ2FGdmw1eTNCaENqZ2pWcVJvanV3SzhYckJ1d1ZaV2xneU9QcTNwMUtIN29yUTNyRk5jaEtucF8zX0hqaGVFQXVvUzlfa0VLUFFzSlFDZFN0WTlZYjhTZDRldUFuSkxGelpYOWlBTEZQRUk2Skl3UzdDWHpVMENEeXdVZw?oc=5>
-
-### 美媒：法庭遭遇挫败后，特朗普政府再提对H-1B工作签收取10.3万美元费用
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 环球网
-- 时间: 2026-08-24 11:00
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Dem00ZENTRlZ3SC1zN2ZxeDdWc29yazg4NWRsWlVzWDQwd0pEUm8wUG9FVTNfbWRxS1AwOXhORFVFQjQwRlhQRWE1MWhETmt0Qk1rOU5kbzg?oc=5>
-
-### 特朗普向巴基斯坦求助：还是想和伊朗谈
+### “伊朗悬赏1000万美金暗杀巴伦·特朗普”，美特勤局回应
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 观察者
-- 时间: 2026-08-24 11:29
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBCZ3lYS0w4dEVFMElYOTBhVHlmN2VfNGQzS1Y3Zm16MDgtZ2kzSEllVVI1dWVSV19RNDdwUUx4bG9xOWtqLXZNYzVpUXAyTmp4OFY2SnRETG9vc1hWVzc1VTRJcWpGUnVBUmc?oc=5>
+- 时间: 2026-08-25 03:07
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE05eDVaU2pMdGJscm9TYmw5Smw5YW1XanlSblVudjU5X2Rydmw2UGxsQnJBX0lhY1hNWXZBN2s2ZTBSeUZJdWtIX0hYZ0hYRzJkRFlqVGVJVE1lOFhrOHdsVndwU1pNblVkZ1E?oc=5>
 
-### “特朗普正就制裁伊朗致电各国领导人”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-24 17:07
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1QZ0QyQjVOVjhxZ0N3amRlQ1N1QWlGYkdhZWFuUDVKTmZLejlSaHI5YWZMekVvR0JHT2xZczF5RW9vQjBzWk5wSDlELXU?oc=5>
-
-### 特朗普说美对加汽车和钢铁进口关税将提高至50%
+### 偏好快餐不爱运动，特朗普胖了20多斤，自称“垃圾食品是好的”，专家：肥胖可能导致过早失能和死亡
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-08-24 16:07
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE04c3pscmZMVTA3X3FFVHFOUWs5cmJibUNXRnpFc3N0Y0RjWlRKNWdkTEJwa19yUndaNlY4RzlkZktHUk5taVlvcjFHeFJWQ3JlZm9vZ3pGbDZCdHFERFJENHhYMkUyejBfbXdhYWNCbW9leldxcWpBR3pITjlaSDA?oc=5>
+- 场馆: 手机新浪网
+- 时间: 2026-08-25 02:59
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE14NnNNZmVGaEVRSWtoLUF2a1FJUGQzRUd4M0Q2dnhTZWZpS1hUMXQ1c1Y3V2tXT2dFUkE1Nzc0dDE2cWdYREt3c29XQ1pFNHFJVnN6Z1ltVWtzaEk3NmdCWlN5aWNONnF2a0liWUN0WTBTcUV5Y0JzeUQwLTdELXc?oc=5>
 
-### 特朗普政府准备撤销至多20万名庇护申请者的签证
+### 最新民调：受美伊战事影响 特朗普支持率维持历史低位
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: chinanews.com.cn
+- 时间: 2026-08-24 23:26
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE52NTluNnJlMmllVEl3SzJ6Z0JwOThPcW9EQXVWQl9iQ01WREtlMGRTQU9QQmZ0dmdzblVha3FTUmU4Rnkzb2VBUGtTTHNYNkFjR2cxeUFhQzJacjRCekZRY0tUYnBaMWJa?oc=5>
+
+### 美伊拉锯战消磨民众信心 特朗普支持率跌至任期谷底
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 财联社
+- 时间: 2026-08-25 02:13
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE9PR3RDY2hYTXNMdEFWbTFwS01sMGg1V1NfWmZZX1FKZ0NsS3JueDNpX2tRMmZ2czgyZEFmTFFZUXVpV0MybHdhbw?oc=5>
+
+### 特朗普试图扼杀伊朗经济，而这取决于中国是否合作
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-08-25 01:01
-- 链接: <https://news.google.com/rss/articles/CBMitwFBVV95cUxNYUk4Z2doRVctSy1YQldwOTBMNGFWa0tPNFNQUVltbk5neWVKRmswZTRlck5MNlZ2UVRrNklFOTBoLXR6YThVV0daVUhKbXYxOXlaODhsODY4WmIxV0FKU0RNb1JxVzlzN1RFR0hKLVV5MzNQMi1BVEo3RnVPaEVBNldkMGl5TldfM29IajJ6dExzNmlfVjE3eEwweGgwR2wyMGNPSmhKR1JoRC1HQ2hSQm5JSmU1Qkk?oc=5>
+- 场馆: 纽约时报中文网
+- 时间: 2026-08-25 01:44
+- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE83OWgta0tuOWhsV1R6akE4RzN5VTVQQlhRTnNHVzVBMHo2QjlNNUt0Y1hfT0lKTFdDXzE3TlowWU9kRWNOcVF0MzVqVkcxS2d3NEdncGNROGdBMFdsYkZ0ZEFoQlJhMFdudDNacFJuYmZWUlQ5VU1ZY0pjTC0?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-25 03:24  (7 条)
+
+- **周杰伦** | 周杰伦为何否认新专辑耗时三四年？ <https://k.sina.com.cn/article_7879923118_1d5ae15ae06801ou50.html>
+- **特朗普** | 泽连斯基承认：我骗了特朗普 <https://news.google.com/rss/articles/CBMickFVX3lxTE9zSk42NXJaQm5NRHhnU004NDJfZUZHckRNeUtuX2xKN28yeko4ZlVtMGRmdGZQc1R0VExBLUxHdUlqOUtaT2tLLU1YWnN1dEt6cElFVWRvVWZWNGRLNlV2OHlsa3NxbVJPcm0zd3Braldsdw?oc=5>
+- **特朗普** | “伊朗悬赏1000万美金暗杀巴伦·特朗普”，美特勤局回应 <https://news.google.com/rss/articles/CBMiakFVX3lxTE05eDVaU2pMdGJscm9TYmw5Smw5YW1XanlSblVudjU5X2Rydmw2UGxsQnJBX0lhY1hNWXZBN2s2ZTBSeUZJdWtIX0hYZ0hYRzJkRFlqVGVJVE1lOFhrOHdsVndwU1pNblVkZ1E?oc=5>
+- **特朗普** | 偏好快餐不爱运动，特朗普胖了20多斤，自称“垃圾食品是好的”，专家：肥胖可能导致过早失能和死亡 <https://news.google.com/rss/articles/CBMif0FVX3lxTE14NnNNZmVGaEVRSWtoLUF2a1FJUGQzRUd4M0Q2dnhTZWZpS1hUMXQ1c1Y3V2tXT2dFUkE1Nzc0dDE2cWdYREt3c29XQ1pFNHFJVnN6Z1ltVWtzaEk3NmdCWlN5aWNONnF2a0liWUN0WTBTcUV5Y0JzeUQwLTdELXc?oc=5>
+- **特朗普** | 最新民调：受美伊战事影响 特朗普支持率维持历史低位 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE52NTluNnJlMmllVEl3SzJ6Z0JwOThPcW9EQXVWQl9iQ01WREtlMGRTQU9QQmZ0dmdzblVha3FTUmU4Rnkzb2VBUGtTTHNYNkFjR2cxeUFhQzJacjRCekZRY0tUYnBaMWJa?oc=5>
+- **特朗普** | 美伊拉锯战消磨民众信心 特朗普支持率跌至任期谷底 <https://news.google.com/rss/articles/CBMiSEFVX3lxTE9PR3RDY2hYTXNMdEFWbTFwS01sMGg1V1NfWmZZX1FKZ0NsS3JueDNpX2tRMmZ2czgyZEFmTFFZUXVpV0MybHdhbw?oc=5>
+- **Trump** | 特朗普试图扼杀伊朗经济，而这取决于中国是否合作 <https://news.google.com/rss/articles/CBMifEFVX3lxTE83OWgta0tuOWhsV1R6akE4RzN5VTVQQlhRTnNHVzVBMHo2QjlNNUt0Y1hfT0lKTFdDXzE3TlowWU9kRWNOcVF0MzVqVkcxS2d3NEdncGNROGdBMFdsYkZ0ZEFoQlJhMFdudDNacFJuYmZWUlQ5VU1ZY0pjTC0?oc=5>
 
 ### 2026-08-25 02:15  (7 条)
 
