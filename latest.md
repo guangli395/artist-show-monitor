@@ -1,14 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-25 11:54**
-- 本轮扫到 10600 条, 新增 **0** 条
+- 最近更新: **2026-08-25 12:35**
+- 本轮扫到 10604 条, 新增 **4** 条
 
 ---
 
-## 本轮无新增
+## 本轮新发现 (4 条)
 
-数据库里所有演出/动态都已见过,暂无新增。
+### 特朗普称考虑将安大略湖更名为“美国湖”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中国日报网
+- 时间: 2026-08-25 12:27
+- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE13WUNWdjVSVmxseGJVa2x6Y1FxREpFSmlwVEtfYi1WUEZBanR1bnZhbVJZQkprOU1uMGhYVFQ1M1VvWVdCbTZvWWcyMmtsRXpiWF80MXl5TkRMcXdxNVdWSFZKU1ZJNHh1SkN6dkIxU2NNLXRFNHRfME9GZFU?oc=5>
+
+### 特朗普将H-1B签证永久费用定为103,265美元
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: idnfinancials.com
+- 时间: 2026-08-25 12:00
+- 链接: <https://news.google.com/rss/articles/CBMijgJBVV95cUxOV3hhN1l2M0ZDbkdkSW5xdnRtQmtMdi0xVkNRNlViTWJMNnhPUFV0SWwybWhtaVlKTWpsaWctSnhtb2VHRWhPZkh0b0NXR0FCTWh5QUM5LTFxTGxCdXRHOWFySldpX2tlYlNUV29iUkxyWVQ3Rm5NaFVGZnNncUJIR1JvRjBxbjdJdHktQjJQUW92VW9lcFN6eFktcGNfcU9qQ1hLc1FKRWhSQVBDcTdfZDdnajNBZzRtSXZSUXMyVDdGNklfd0dmT1FxenI3WmdEZ2pPRG9WSGJiREdnbmhpZ0xlTHpoWF9ySTE3clhtbF9ZeUhEem1RaXpIZ0g1bXlabmp5TFV1TDhGbnotSVE?oc=5>
+
+### 特朗普政府拟对H-1B签证征收逾10万美元费用
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 纽约时报中文网
+- 时间: 2026-08-25 02:37
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE9FOC1lSzFHcHhxakZobDdFRmNyMDFYQTVDMkxwUmVnR0ZsaUx6cmhEa3loVTRZaEtNVVhKMWMxZlJaRklKdXlPSExnTUlMdE5DZTl1UEtWdUx4QzhVVTMtd1lMQWJ3dVl5cGVabmcydW1qclJO?oc=5>
+
+### 民调：伊朗战事拖累特朗普支持率
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 京报网
+- 时间: 2026-08-25 09:45
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iWTBiMTNKSEl2M09tLWlpLW9xTHNaWVptejcwSkJYTzVQOXBoVjdhX0JnTGhkRnU5R1FxZjRjLUFrMm1sSDNxRG9kRjdKTWdPNWNxTDBlcEVJZF90VVE?oc=5>
+
+
+---
+
 ## 历史发现
+
+### 2026-08-25 12:35  (4 条)
+
+- **特朗普** | 特朗普称考虑将安大略湖更名为“美国湖” <https://news.google.com/rss/articles/CBMifEFVX3lxTE13WUNWdjVSVmxseGJVa2x6Y1FxREpFSmlwVEtfYi1WUEZBanR1bnZhbVJZQkprOU1uMGhYVFQ1M1VvWVdCbTZvWWcyMmtsRXpiWF80MXl5TkRMcXdxNVdWSFZKU1ZJNHh1SkN6dkIxU2NNLXRFNHRfME9GZFU?oc=5>
+- **特朗普** | 特朗普将H-1B签证永久费用定为103,265美元 <https://news.google.com/rss/articles/CBMijgJBVV95cUxOV3hhN1l2M0ZDbkdkSW5xdnRtQmtMdi0xVkNRNlViTWJMNnhPUFV0SWwybWhtaVlKTWpsaWctSnhtb2VHRWhPZkh0b0NXR0FCTWh5QUM5LTFxTGxCdXRHOWFySldpX2tlYlNUV29iUkxyWVQ3Rm5NaFVGZnNncUJIR1JvRjBxbjdJdHktQjJQUW92VW9lcFN6eFktcGNfcU9qQ1hLc1FKRWhSQVBDcTdfZDdnajNBZzRtSXZSUXMyVDdGNklfd0dmT1FxenI3WmdEZ2pPRG9WSGJiREdnbmhpZ0xlTHpoWF9ySTE3clhtbF9ZeUhEem1RaXpIZ0g1bXlabmp5TFV1TDhGbnotSVE?oc=5>
+- **特朗普** | 特朗普政府拟对H-1B签证征收逾10万美元费用 <https://news.google.com/rss/articles/CBMidEFVX3lxTE9FOC1lSzFHcHhxakZobDdFRmNyMDFYQTVDMkxwUmVnR0ZsaUx6cmhEa3loVTRZaEtNVVhKMWMxZlJaRklKdXlPSExnTUlMdE5DZTl1UEtWdUx4QzhVVTMtd1lMQWJ3dVl5cGVabmcydW1qclJO?oc=5>
+- **特朗普** | 民调：伊朗战事拖累特朗普支持率 <https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iWTBiMTNKSEl2M09tLWlpLW9xTHNaWVptejcwSkJYTzVQOXBoVjdhX0JnTGhkRnU5R1FxZjRjLUFrMm1sSDNxRG9kRjdKTWdPNWNxTDBlcEVJZF90VVE?oc=5>
 
 ### 2026-08-25 11:27  (2 条)
 
