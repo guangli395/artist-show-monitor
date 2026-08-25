@@ -1,40 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-25 21:20**
-- 本轮扫到 10642 条, 新增 **3** 条
+- 最近更新: **2026-08-25 21:51**
+- 本轮扫到 10645 条, 新增 **3** 条
 
 ---
 
 ## 本轮新发现 (3 条)
 
-### 要闻分析 - 从特朗普要把安大略湖改名为美国湖说起
+### 特朗普要更名安大略湖（Lake Ontario）
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: RFI
-- 时间: 2026-08-25 20:52
-- 链接: <https://news.google.com/rss/articles/CBMigANBVV95cUxNTG93ZmtGam96TkhjUW5zZFRPUlQ4YWV6V1Qyc3hsVS1WRlFXQ3lfM1FGVjZnRzQxT0JRQXhIcVBHR0pPZHJjVUtidHJ6MG5ORmFCa1ZvV2JzSTVoZVRwQVRZczBlZWJTNmRRdGhsWWozOXZBcDJscU1QVlB3VlNHSEtKWDRrUkNxem8yaGJab0pxUXE2Y2dmWVE5SHhUUE5YT2lvU2xsWHdGSmRDNWZibXJMU2hIbGZqQWxicHh3WG1rSmRqTldWbWxzRGg1Y2dNbGxaOV9sWnd5dVA1b1JxN3g2QVVQYnNoRnBJa1hPZ0ZsTEo0cmd1Z0ZtUWhjOTF3NjFKeExjX1FTUGhFMjQtSEJaSVRCLS1rMWVUdmVQVFN3Nmt2UmRsMUtKYWQ2X3pLSXNZYTJsdDBzcWR3NnIzMDRBWndtMmxHWFRYUi0wMWxDYmRZV21sRF9TcmhjUDVOMTZJYmN2OWtWdUdNU09lbTcyLWhCQzJIN2ZSM2tZcmY?oc=5>
+- 时间: 2026-08-25 21:24
+- 链接: <https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWFE3eU9Cd2VSbUpzNmVHZDR1bTFDVEJJZmRfZjQxTE9UdEhTVEUtMFBDUjJDUll3bnh2ZXh2MVA5Y2QwY3ZYVzlUenp5ektVbHVLaW1RNHhrVkFyRUxvWm53bE96OE45VGdfYi1GWllsTFdfOGRSTjlmbkdXZzVlakdMWXRUME1HaWNzMXhOekR3S0VyaFBjZHVvMW9jdU1MYXQxWXdVT1BxUmVocTRFRzBDZzZfRGkwYnlBTUJJNm1SZWl5cV80WURpUUxxZUtYS2ZYTGtnRXZUNzlNV0dEazRuSzVldk41?oc=5>
 
-### 特朗普在伊朗的战争推动德国债券收益率达到3.79%
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: idnfinancials.com
-- 时间: 2026-08-25 19:00
-- 链接: <https://news.google.com/rss/articles/CBMizAJBVV95cUxOVU1CZ2dJTkQxODNZbktjZjh4OFN3YkdJUDBkbHJjSTIzTGF2UFJtbFNEMHJnRnI5UV9aYy03NG1BMXEtRlFEdG1tX2xnaERXbjNtTXNzU09wRTczWDA5NnVpdUNWWmFQeUEzaDlGNDUyQ1d6UUlTTk5PbnpLcVlGZFN4VTQ0MFVEY0NkN2dTcGh5dTFWakV1WXdtZ25wNVVULVBvVEZJZTY0NHJvU3VHaU9zTko4d2lSc0N2d0xHV3lzM0MzYnBVRzFieXRyNWpxaFpVMkdHU1FZZ3lHaTRMSWxxc1hWMjU4YnV5bl9GSUhEN0c3a0hLR2xOeEtNM21SdGJPVHhScjlqSXExTm9XbFA4cVJ0UVRIYk1fOWFpYTRMS09YbFFfcVhTZVVmQmc4RFNRaG1sQk9Qdm9tMFhuazBUMnh2Y2M0Z1NLYQ?oc=5>
-
-### 特朗普称霍尔木兹海峡国际水域内水雷均已被清除
+### VOA今日焦点 (2026年8月26日) 特朗普总统晒与金正恩合照 释放会晤信号？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-25 14:34
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcFJLZTdSN1N4TE5UeEtiZVdvS0V0QmxyaF9HeE5oaXZ1VDM2NWV0R01fUXpIQjFhODdHbklOYzhpZTZxMmd1Vk90a2V0MU9pNWo0N3dPR1p3U2tkRF91MFBaZ0oxMlNpdDlpbFNKVzRKWHhOS0N4LU9JczJKb3JXZWkwSHQxVDRkUVNmOTBZQzBUZUFIcmVaMFlnbGtCTFF1OXAzcXBfRlZaTmoxczZlTW1LRVF0MVFmaTlSaG9LTHdYZ1gzWGs3cGhNZXREeUtR?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-08-25 21:32
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE1qbUpkNTd0ODFoTjFlVjlwSzNGcE5tUWt1QkFONXQzV1ZNTlZndl9iUzBEWmtKWWZuOXdkcnJ3Q0VEeGJIdnNuaGhqSEtYTFlQZ0p0MjZnOEpyek1fb0YzRTRTeGVyZktJYW9J0gFuQVVfeXFMT0FUbjQyMFhzSXRpNTJHaXBCMk1BbnpHZE9NSmFkQk54QzhpYnNzSVpIV0ZWWW8yRVpBemtGLS1vd2w1Z3dvWEQyZTM5OXFPX0xBMXVYMmo2ejBDUWQ1TFZXNDgtSlZQOFV0RjVjWUE?oc=5>
+
+### 悬赏千万美金暗杀巴伦 伊朗播出长达3分钟影片
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 万维读者网
+- 时间: 2026-08-24 20:36
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5IX3VRUi1yYmRVNWVFcWRjZ01Vc2pGbVZ5VVFtOXh3RnF0a0t4ak9uUXpmT2Fid1l3M0g3TXdqNGs1aW05MTEzYzlXUHdHcFMtZ1QxLXJFX2J1eVlMT2lKMmZGbGVZUQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-25 21:51  (3 条)
+
+- **特朗普** | 特朗普要更名安大略湖（Lake Ontario） <https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWFE3eU9Cd2VSbUpzNmVHZDR1bTFDVEJJZmRfZjQxTE9UdEhTVEUtMFBDUjJDUll3bnh2ZXh2MVA5Y2QwY3ZYVzlUenp5ektVbHVLaW1RNHhrVkFyRUxvWm53bE96OE45VGdfYi1GWllsTFdfOGRSTjlmbkdXZzVlakdMWXRUME1HaWNzMXhOekR3S0VyaFBjZHVvMW9jdU1MYXQxWXdVT1BxUmVocTRFRzBDZzZfRGkwYnlBTUJJNm1SZWl5cV80WURpUUxxZUtYS2ZYTGtnRXZUNzlNV0dEazRuSzVldk41?oc=5>
+- **特朗普** | VOA今日焦点 (2026年8月26日) 特朗普总统晒与金正恩合照 释放会晤信号？ <https://news.google.com/rss/articles/CBMia0FVX3lxTE1qbUpkNTd0ODFoTjFlVjlwSzNGcE5tUWt1QkFONXQzV1ZNTlZndl9iUzBEWmtKWWZuOXdkcnJ3Q0VEeGJIdnNuaGhqSEtYTFlQZ0p0MjZnOEpyek1fb0YzRTRTeGVyZktJYW9J0gFuQVVfeXFMT0FUbjQyMFhzSXRpNTJHaXBCMk1BbnpHZE9NSmFkQk54QzhpYnNzSVpIV0ZWWW8yRVpBemtGLS1vd2w1Z3dvWEQyZTM5OXFPX0xBMXVYMmo2ejBDUWQ1TFZXNDgtSlZQOFV0RjVjWUE?oc=5>
+- **Trump** | 悬赏千万美金暗杀巴伦 伊朗播出长达3分钟影片 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5IX3VRUi1yYmRVNWVFcWRjZ01Vc2pGbVZ5VVFtOXh3RnF0a0t4ak9uUXpmT2Fid1l3M0g3TXdqNGs1aW05MTEzYzlXUHdHcFMtZ1QxLXJFX2J1eVlMT2lKMmZGbGVZUQ?oc=5>
 
 ### 2026-08-25 21:20  (3 条)
 
