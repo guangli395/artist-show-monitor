@@ -1,19 +1,27 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-25 22:52**
-- 本轮扫到 10648 条, 新增 **2** 条
+- 最近更新: **2026-08-25 23:19**
+- 本轮扫到 10651 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (3 条)
+
+### 美国两党两院议员敦促特朗普政府禁止美国公民为中国和俄罗斯安全机构工作
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-08-25 22:47
+- 链接: <https://news.google.com/rss/articles/CBMi2AFBVV95cUxPLXU2cmI5bzh6QklTcnJBRWFZVTBCdzVWR0hfYkF3MnlPMzBNQXlBMEJGN2NWLURMbzhTdF9GMW51MF9ZZDhaRVpzbUNGdGtFbUpTREZ6bnNVcm9OMVBUOW9FVFotS1pLd04wOEFxRVVpNWxyRnI1WnZ6MUR4MmYzTHp4NERrNzJzOUVyREtjYm1aT0hsOEk1cVIxa1BpOW5xV0ZUQXh0bzQwY2FTMkVPYXlqaGNQQ2hGcVdXLU9FMC1PV3dPdHM5bmF3WVdfWXZNNUJmSjdwNlHSAdsBQVVfeXFMUFZoalNIYU1pS3M1c2ZTMWgwNEp5UXYwNk9kSm5oWWtMVGVyOUNDb2JCcjYxWTFjNURDcE1mWTVMS1hTVnJwZjBXdEdJZUx0QmVxNFdXQ0EzQ2pCYTZQVUpVZUJHa1EycF8yTnVsY3E5WXJCaXlFOVJ5U21BTUNDY0hUX0Z0QUdpZ0VVNzIyb20tc1pZQzZjaVlkaTZEcTc4a0JoM3pJQkhWYmhkVDJYYmNRZnpnZEZUd0lnVXhOU1VJazU4UGZmVFZuTFFudG81UE1uTW9QNXhYSmc0?oc=5>
 
 ### 民调：特朗普的支持率为33%，达历史最低
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-08-25 22:37
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5wNTF6S3JhZ3dzMEJ5R29tVi1RemJPYl8wTFRBTjkybHpva1pFZmYzNDJMRmpKTjBfRWVYVXpVU0NBWXNVMGJsRktDZWxMMnlMNUVER05qMDgyakh1ai1JSUVkUHhMY0hZZWc?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-25 22:39
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE03aUFzZlpoLU5oSThMbUFuOWJJX2xBa3R0cm96bEc4cFBhUl9LVk9jXzFTS2Z1dGtMMi1mM29CNlN4azF4bTBsN2d4YUJrMjVzVlpmenkxc1lLa05peWk2STR2eTRvSXNRTS1WY1dMVkUtNEp0Z2EySg?oc=5>
 
 ### 特朗普称霍尔木兹海峡国际水域内水雷均已被清除
 
@@ -21,12 +29,18 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-08-25 14:34
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdjl0OHlXYVQyb2tpM3FQRHVVUmdkajhRejZEcml3ekZLSWRVT0FUanBsZy10SW1HejVUY2VrM1hVMklXckVWTXlQQ09aWF9ReG9NRTBQSXlmYmM3dVl4Y3QzblM2Nk1xU01ZMUFpRm9uTENTdkg0TXNoazMtdFBOSjJGRVpoZk5PZmh1Um5pdmdqeEhWTG4xZmF4VXh3Zy14LU5VdjJlczMybjE1Zmx1UUhZNkNrUjNCWHp3V2NLeUtMYmZMX2xnSWxoRTRfSGY4?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxOcVY0VzF0Q3BrbHBqTHoyVlBQWFRlT1AxSV9TWTU1RVlfMnhHRG1aWERJbFNYRlM2NTJrTGw4cXhzTXRtZ3M0LXlraFRHUnl3WWVFNG5sclA4cXc5MmIwS1FIbkt2amNQeGlaVjZBMUhiaGx0bXBUR21iZlc2aE1GRDJCOUUyNU84MWFOSkpwdVRHanpLMWdNdTl4SDhPMEJBcDJoT0UwQWdfdUlHVDJCRW4yRzZhdDhuaXVrdlhaQzBqXzUyUDFjbzZROC02SGs?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-25 23:19  (3 条)
+
+- **特朗普** | 美国两党两院议员敦促特朗普政府禁止美国公民为中国和俄罗斯安全机构工作 <https://news.google.com/rss/articles/CBMi2AFBVV95cUxPLXU2cmI5bzh6QklTcnJBRWFZVTBCdzVWR0hfYkF3MnlPMzBNQXlBMEJGN2NWLURMbzhTdF9GMW51MF9ZZDhaRVpzbUNGdGtFbUpTREZ6bnNVcm9OMVBUOW9FVFotS1pLd04wOEFxRVVpNWxyRnI1WnZ6MUR4MmYzTHp4NERrNzJzOUVyREtjYm1aT0hsOEk1cVIxa1BpOW5xV0ZUQXh0bzQwY2FTMkVPYXlqaGNQQ2hGcVdXLU9FMC1PV3dPdHM5bmF3WVdfWXZNNUJmSjdwNlHSAdsBQVVfeXFMUFZoalNIYU1pS3M1c2ZTMWgwNEp5UXYwNk9kSm5oWWtMVGVyOUNDb2JCcjYxWTFjNURDcE1mWTVMS1hTVnJwZjBXdEdJZUx0QmVxNFdXQ0EzQ2pCYTZQVUpVZUJHa1EycF8yTnVsY3E5WXJCaXlFOVJ5U21BTUNDY0hUX0Z0QUdpZ0VVNzIyb20tc1pZQzZjaVlkaTZEcTc4a0JoM3pJQkhWYmhkVDJYYmNRZnpnZEZUd0lnVXhOU1VJazU4UGZmVFZuTFFudG81UE1uTW9QNXhYSmc0?oc=5>
+- **特朗普** | 民调：特朗普的支持率为33%，达历史最低 <https://news.google.com/rss/articles/CBMieEFVX3lxTE03aUFzZlpoLU5oSThMbUFuOWJJX2xBa3R0cm96bEc4cFBhUl9LVk9jXzFTS2Z1dGtMMi1mM29CNlN4azF4bTBsN2d4YUJrMjVzVlpmenkxc1lLa05peWk2STR2eTRvSXNRTS1WY1dMVkUtNEp0Z2EySg?oc=5>
+- **特朗普** | 特朗普称霍尔木兹海峡国际水域内水雷均已被清除 <https://news.google.com/rss/articles/CBMizwFBVV95cUxOcVY0VzF0Q3BrbHBqTHoyVlBQWFRlT1AxSV9TWTU1RVlfMnhHRG1aWERJbFNYRlM2NTJrTGw4cXhzTXRtZ3M0LXlraFRHUnl3WWVFNG5sclA4cXc5MmIwS1FIbkt2amNQeGlaVjZBMUhiaGx0bXBUR21iZlc2aE1GRDJCOUUyNU84MWFOSkpwdVRHanpLMWdNdTl4SDhPMEJBcDJoT0UwQWdfdUlHVDJCRW4yRzZhdDhuaXVrdlhaQzBqXzUyUDFjbzZROC02SGs?oc=5>
 
 ### 2026-08-25 22:52  (2 条)
 
