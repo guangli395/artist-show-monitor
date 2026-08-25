@@ -1,64 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-25 17:05**
-- 本轮扫到 10629 条, 新增 **6** 条
+- 最近更新: **2026-08-25 17:53**
+- 本轮扫到 10630 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (1 条)
 
-### 特朗普称考虑将安大略湖更名为“美国湖”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 央视网
-- 时间: 2026-08-25 16:27
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5ybzVnQ3B4ZWhBdVFMOG5zRmJHS29NU3ozU1ZFT2FvdnQxbk4tSlVYNzBUem5qWXIzZ0ZiTlRLSEJhd2RKRXk2Mnk4SjM0bnF1cUhEY3BfR3hBWnJlWVVLUmZ6aFhVLUNIYXdsRzM5cndIVC1YQVNhbQ?oc=5>
-
-### 特朗普总统：伊朗无力支付军饷，在制裁加剧之际杀害抗议者
+### 美国务院：准备撤销20万人签证 锁定申请政庇者
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-08-25 16:20
-- 链接: <https://news.google.com/rss/articles/CBMi3AFBVV95cUxPS1pkc2hOYmRzVFRLRTZVVWhhakhpOWdCaFk0M2xFV3djRWFJb2c4cW1NWmNxXzNFSHFxZC05OWZveFlCT0d5NEVEaTNuRHF6dmVWZWxoMENqNHZIRUJFNEc0WWhvTFFmUlZTTW5taVRrcXFXd29rbnA4WVVDeExrVXNvZHJNdFpUVkpIRXRUSXdtX0VBNkEwY011UGpkSFZPQVJzUGoxQ0VNQnRTNUlUOE1razFYdm1pNnhnR1l4MVVKZ0EtNHE5aTcybVlwZTdTQl91dlpWMzJQR2Y10gHfAUFVX3lxTE1DUzRLbFQySmRrSk8wdWFiZTVXVVBOYXQ1c3hCVHBrN2xCaGY2X0hVbjVoY1RLVVlOQUtXOVU0SG0wZTF0ZTVqSG5BTjVRY0hhNnJucU0xNm5XSU1VWXZqMTdBc2tFSktEdXMyRUxoSXp0dHV1VnFRc1diZU9BNFd4U0R1ODNzVzZMeVR0Z0xXN09ONUM0QjlYN2h6LWgzUXlmMVlCY3llbWNpa29nN1A1VkF6aGoxc1prZVhJQmlnQ1dDN3BBZF9qMjFxMXJTY3ByUk90SVQ5bmlCZVJraG8?oc=5>
-
-### 特朗普称美国正在密切关注伊朗的“镐山”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-25 15:24
-- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxNMXZfdU0yOHBULVZDMWlocnVXSXZpUTBGZmhXZkE5TEdJS3U0a1ozQldCREkyS2VlSjBwTnRfcGJGQTMyOXhjRzhvXzMxQ1FGclRDLXdBQXR1YVlpTUJfSkxOMEVNUlJCLVNSejJydmtlNFhYVkFUUnZ2a2xsMzdGWWkwUXBDS1BHd19pZk9BQQ?oc=5>
-
-### 涉霍尔木兹海峡，特朗普：水雷已被清除
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-25 16:28
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE94djR5NFowbzNsdnlHR2FLa3gyNnVLRXFjMFRHRHF3Q3NIRWtMX0tiQnNsV2xIYkptempnS3AxbU1pWkxxY0xabEJ4VUQ?oc=5>
-
-### 美加贸易争端之际，特朗普总统提议为安大略湖更名
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-08-25 16:36
-- 链接: <https://news.google.com/rss/articles/CBMiswFBVV95cUxQX1U0TWVMbGZWZDF5NmEwNFc1TUl3QVJjU0dRRnVTX0RxU1lzUllNSWFLTGJUN25RcFNIWkNKRnF0RlhFa1cwX1ROUFpKaXJQdzk1VHlKWHVFVXdaQWdObTFYX25maHd0dDd4Zk5feEl5cFNkUUtNT2JaOEpHVE5aVlhFenlrR0hfNHJKZDMzRU85T3NvQ3NVa253QnhnbmtuOXRkbWJXY3VrY1gxOTRVOXBiTdIBtgFBVV95cUxQNXdCd1NPSjhfRFR1UnYtS1Rvc2NFOW9tTkZFUEdsbEhpWVptelFUMkx0Nm1SLVpqVWtNbXU1OWh2dEd2YW8xVVpjOGYwb3BSalN1d2FOSjAwdTFkaWJ5LUFPNDAyWjdKb1h2bXlLTXJPSFJ0UW9JZm1hNlBSbTJrZlM3NkxVZ1UzbkQteVp5SDlsd2ZubUpvTUtOY2dMQ3FwdU45R1ROMWd3NEdFcGJWU19UUDJQQQ?oc=5>
-
-### 🇺🇸 TRUMP JUST PUT BITCOIN BACK IN THE SPOTLIGHT
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: OKX
-- 时间: 2026-08-25 17:01
-- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxQMlhNc0h1TENXVlFkU2hRQ3F4RTlxd0xFaVlTUnRBZ05BbU5QZ3pvN2ktcDA5SmZCTDJqOThxRVEtVjBEZW1QNExGRWhuMUxSNDdHb3JhbGJsWnRlcmxfR3F6dlYyQVl6THdNRVFyR3Q5MnljSjNRczB5aHQ5emRkSnhmNVNKSFVwd0hDV1lUMFc5MnphMzk1Q1NuWUg5dF8y?oc=5>
+- 场馆: RFI
+- 时间: 2026-08-25 17:36
+- 链接: <https://news.google.com/rss/articles/CBMiyAJBVV95cUxNbWw2WnJTcjYwMkVKTnJldWdYajZaQl9HeHRqMWN6ZGhKSDc3d1FCN2dDZEtYaDdQUEg1a1k2a21nNmhIZWFGRU11alN1cnpwUzZXaTZINi1yb09kN3d2WjhfalNlLUYzU0dNb0hXTHhGRkp6cG5acm94d3czbV9Jd0J2c2pORV95aFVIWktQdHBkNmE4ZDhMQXU5bGZwbUpDTFc3Y1BwWHpzN015ODVza0JMTmt2Zm9XX3poWkNISnNxOWV2azN5VG9sYVZiQ0JLMGN6WjZCd3FxTXNuVzd2N3N1Q18yMTJ3M0d2RUpDem52a3daMW15UlhXMUdTaFdfUHlMbnBlSUtMNElaTzFVM2FMZ25VVVRIdTh1LUpZTHZjNktFaTFFUGdUY0d2NGtzYmJLR3A2dk5iU1dkV3RVcUFIb3JId2RO?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-25 17:53  (1 条)
+
+- **特朗普** | 美国务院：准备撤销20万人签证 锁定申请政庇者 <https://news.google.com/rss/articles/CBMiyAJBVV95cUxNbWw2WnJTcjYwMkVKTnJldWdYajZaQl9HeHRqMWN6ZGhKSDc3d1FCN2dDZEtYaDdQUEg1a1k2a21nNmhIZWFGRU11alN1cnpwUzZXaTZINi1yb09kN3d2WjhfalNlLUYzU0dNb0hXTHhGRkp6cG5acm94d3czbV9Jd0J2c2pORV95aFVIWktQdHBkNmE4ZDhMQXU5bGZwbUpDTFc3Y1BwWHpzN015ODVza0JMTmt2Zm9XX3poWkNISnNxOWV2azN5VG9sYVZiQ0JLMGN6WjZCd3FxTXNuVzd2N3N1Q18yMTJ3M0d2RUpDem52a3daMW15UlhXMUdTaFdfUHlMbnBlSUtMNElaTzFVM2FMZ25VVVRIdTh1LUpZTHZjNktFaTFFUGdUY0d2NGtzYmJLR3A2dk5iU1dkV3RVcUFIb3JId2RO?oc=5>
 
 ### 2026-08-25 17:05  (6 条)
 
