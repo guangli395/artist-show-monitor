@@ -1,48 +1,82 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-25 00:54**
-- 本轮扫到 10554 条, 新增 **4** 条
+- 最近更新: **2026-08-25 02:15**
+- 本轮扫到 10561 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (7 条)
 
-### 赛车驶入华盛顿街頭 特朗普观赛 20万民众共庆美国250周年
+### 特朗普：明年将加拿大汽车、钢铁等品类关税提至50%
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 央视网
+- 时间: 2026-08-24 15:51
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1hRU5iMGROdFA5MTYwYVJ1eDljb1FuRFFOTW9kMFQtZHJxM2txcjdLZWRtWG4tdHg2c3NtVFJ6aFh0cm1VZnIwd2dSWU1YNkFHakdUVHJJcnBud25qbF9YS1kxOUtmQlBwQnVTWVUtM1h1c3lzVGZQYg?oc=5>
+
+### 赛车驶入华盛顿街头 特朗普观赛 20万民众共庆美国250周年
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 美国之音
-- 时间: 2026-08-24 22:39
-- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE1pOWJGZEd3RV9oZDQ0T283cVprSENQeFF2YmUxWnBndnRlVTBONjdYWFkxRWFlZ2dCQ0lGR1JHb2RIblFXS05fY3lROVNzVkRCT1VjN05tOFBKRm11ZXp4RHZaS2hOSE4tbUU3NUxVdFNnc1doMjFXS1p30gF8QVVfeXFMUGJrdnFta1pmVlk3T09IZThJazY1bzJDMzNaSXVhQzJwdDB6SnpmYUU5UEJka2ZCNWRsUVpJQTNNb0JNS1owNFRPblhwaDljS2VudHVWbGxuTElwLVVobU1RRmtDZVMzWnhDSXdjUHhxZEY1R3lhbDZFNERMMg?oc=5>
+- 时间: 2026-08-24 23:59
+- 链接: <https://news.google.com/rss/articles/CBMipAFBVV95cUxQbVg4NmVCbEZCU25VdWxqRjhIX29zQ0FWdnpmR3ROZjU0ZkxnSlpxaTRwSlNveld6T0RyVWpBRGFoZGZYYmVnRUdidFh3ZEFrOHdBeHk2ckRpcjVuZm50MnMzTno3YkN4bEpGVXVrdkxJY3VnQXJIdjViRmx0SUVxVVh6MnhvVnN5dlVGV25rZWVfbXJ0SERyQVp0SDBqRXUxMzRTV9IBpwFBVV95cUxPaGtUdU42d2xIUTBUUURibkNhWmREOS10alRVeENQQVNuQVBHQ2FGdmw1eTNCaENqZ2pWcVJvanV3SzhYckJ1d1ZaV2xneU9QcTNwMUtIN29yUTNyRk5jaEtucF8zX0hqaGVFQXVvUzlfa0VLUFFzSlFDZFN0WTlZYjhTZDRldUFuSkxGelpYOWlBTEZQRUk2Skl3UzdDWHpVMENEeXdVZw?oc=5>
 
-### 美公布多项针对伊朗制裁，特朗普致电各国领导人要求停止与伊往来；伊朗回应：没人相信美国胡言乱语；美股存储、光通信板块下挫丨每经早参
+### 美媒：法庭遭遇挫败后，特朗普政府再提对H-1B工作签收取10.3万美元费用
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 每日经济新闻
-- 时间: 2026-08-24 22:51
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE40ZDI5SnNOWmlxQ3ljRmxDc1NqR3I2TFYwUFI4MVN6VE91V2VVR3hiemc4TktiRGVPUF84WE01bklpZG53X29CaFg4N3BzbVZpV0ZNVktyRDY5bmlkZHhSQy1HdzhUQQ?oc=5>
+- 场馆: 环球网
+- 时间: 2026-08-24 11:00
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Dem00ZENTRlZ3SC1zN2ZxeDdWc29yazg4NWRsWlVzWDQwd0pEUm8wUG9FVTNfbWRxS1AwOXhORFVFQjQwRlhQRWE1MWhETmt0Qk1rOU5kbzg?oc=5>
 
-### Canadian Dollar Slides as Trump Escalates Trade War with Canada
+### 特朗普向巴基斯坦求助：还是想和伊朗谈
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: CryptoRank
-- 时间: 2026-08-24 18:46
-- 链接: <https://news.google.com/rss/articles/CBMihgFBVV95cUxOUi1GVUg2MUUyczZHTnNOSmx2QVRxSWk2LXgwSVlNY0gta3dwbjFoLXUyUGluUXBvTXJlY0NPV01Ud0xnWVlkUWJ5eFhZV1BiUXJad1ZWMFJBekRBbFgyWTlDVXhuM0c3dVdWcmNoQ0lQQmU1N2djSlpoUl9OU3pKdG5maGNZQQ?oc=5>
+- 场馆: 观察者
+- 时间: 2026-08-24 11:29
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBCZ3lYS0w4dEVFMElYOTBhVHlmN2VfNGQzS1Y3Zm16MDgtZ2kzSEllVVI1dWVSV19RNDdwUUx4bG9xOWtqLXZNYzVpUXAyTmp4OFY2SnRETG9vc1hWVzc1VTRJcWpGUnVBUmc?oc=5>
 
-### 最高法院为特朗普有关邮寄选票的指令扫除障碍
+### “特朗普正就制裁伊朗致电各国领导人”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-08-24 17:07
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1QZ0QyQjVOVjhxZ0N3amRlQ1N1QWlGYkdhZWFuUDVKTmZLejlSaHI5YWZMekVvR0JHT2xZczF5RW9vQjBzWk5wSDlELXU?oc=5>
+
+### 特朗普说美对加汽车和钢铁进口关税将提高至50%
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-08-24 16:07
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE04c3pscmZMVTA3X3FFVHFOUWs5cmJibUNXRnpFc3N0Y0RjWlRKNWdkTEJwa19yUndaNlY4RzlkZktHUk5taVlvcjFHeFJWQ3JlZm9vZ3pGbDZCdHFERFJENHhYMkUyejBfbXdhYWNCbW9leldxcWpBR3pITjlaSDA?oc=5>
+
+### 特朗普政府准备撤销至多20万名庇护申请者的签证
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: 华尔街日报中文网
-- 时间: 2026-08-24 23:42
-- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxNMHRaVzczc2M4Ukc3bllHcEtWNlU5NmREWFkxQWFJd0NTcXZSa3RfNjZ0WkgtOWNlMVI2YXdGcnZfQWxzbXE1d2RTVjdBWWFWaEQxVVo3TVpsOG5XREpVQ2tqdTFETF9UVTBrcmVvTWZyMHpsUHBOZlJoVU8zTXRpdGlydnFKMHEyOTNkbHFqQm9FSGoxem1RdFRFcXpOMFlD?oc=5>
+- 时间: 2026-08-25 01:01
+- 链接: <https://news.google.com/rss/articles/CBMitwFBVV95cUxNYUk4Z2doRVctSy1YQldwOTBMNGFWa0tPNFNQUVltbk5neWVKRmswZTRlck5MNlZ2UVRrNklFOTBoLXR6YThVV0daVUhKbXYxOXlaODhsODY4WmIxV0FKU0RNb1JxVzlzN1RFR0hKLVV5MzNQMi1BVEo3RnVPaEVBNldkMGl5TldfM29IajJ6dExzNmlfVjE3eEwweGgwR2wyMGNPSmhKR1JoRC1HQ2hSQm5JSmU1Qkk?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-25 02:15  (7 条)
+
+- **特朗普** | 特朗普：明年将加拿大汽车、钢铁等品类关税提至50% <https://news.google.com/rss/articles/CBMieEFVX3lxTE1hRU5iMGROdFA5MTYwYVJ1eDljb1FuRFFOTW9kMFQtZHJxM2txcjdLZWRtWG4tdHg2c3NtVFJ6aFh0cm1VZnIwd2dSWU1YNkFHakdUVHJJcnBud25qbF9YS1kxOUtmQlBwQnVTWVUtM1h1c3lzVGZQYg?oc=5>
+- **特朗普** | 赛车驶入华盛顿街头 特朗普观赛 20万民众共庆美国250周年 <https://news.google.com/rss/articles/CBMipAFBVV95cUxQbVg4NmVCbEZCU25VdWxqRjhIX29zQ0FWdnpmR3ROZjU0ZkxnSlpxaTRwSlNveld6T0RyVWpBRGFoZGZYYmVnRUdidFh3ZEFrOHdBeHk2ckRpcjVuZm50MnMzTno3YkN4bEpGVXVrdkxJY3VnQXJIdjViRmx0SUVxVVh6MnhvVnN5dlVGV25rZWVfbXJ0SERyQVp0SDBqRXUxMzRTV9IBpwFBVV95cUxPaGtUdU42d2xIUTBUUURibkNhWmREOS10alRVeENQQVNuQVBHQ2FGdmw1eTNCaENqZ2pWcVJvanV3SzhYckJ1d1ZaV2xneU9QcTNwMUtIN29yUTNyRk5jaEtucF8zX0hqaGVFQXVvUzlfa0VLUFFzSlFDZFN0WTlZYjhTZDRldUFuSkxGelpYOWlBTEZQRUk2Skl3UzdDWHpVMENEeXdVZw?oc=5>
+- **特朗普** | 美媒：法庭遭遇挫败后，特朗普政府再提对H-1B工作签收取10.3万美元费用 <https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Dem00ZENTRlZ3SC1zN2ZxeDdWc29yazg4NWRsWlVzWDQwd0pEUm8wUG9FVTNfbWRxS1AwOXhORFVFQjQwRlhQRWE1MWhETmt0Qk1rOU5kbzg?oc=5>
+- **特朗普** | 特朗普向巴基斯坦求助：还是想和伊朗谈 <https://news.google.com/rss/articles/CBMiakFVX3lxTFBCZ3lYS0w4dEVFMElYOTBhVHlmN2VfNGQzS1Y3Zm16MDgtZ2kzSEllVVI1dWVSV19RNDdwUUx4bG9xOWtqLXZNYzVpUXAyTmp4OFY2SnRETG9vc1hWVzc1VTRJcWpGUnVBUmc?oc=5>
+- **特朗普** | “特朗普正就制裁伊朗致电各国领导人” <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1QZ0QyQjVOVjhxZ0N3amRlQ1N1QWlGYkdhZWFuUDVKTmZLejlSaHI5YWZMekVvR0JHT2xZczF5RW9vQjBzWk5wSDlELXU?oc=5>
+- **特朗普** | 特朗普说美对加汽车和钢铁进口关税将提高至50% <https://news.google.com/rss/articles/CBMif0FVX3lxTE04c3pscmZMVTA3X3FFVHFOUWs5cmJibUNXRnpFc3N0Y0RjWlRKNWdkTEJwa19yUndaNlY4RzlkZktHUk5taVlvcjFHeFJWQ3JlZm9vZ3pGbDZCdHFERFJENHhYMkUyejBfbXdhYWNCbW9leldxcWpBR3pITjlaSDA?oc=5>
+- **Trump** | 特朗普政府准备撤销至多20万名庇护申请者的签证 <https://news.google.com/rss/articles/CBMitwFBVV95cUxNYUk4Z2doRVctSy1YQldwOTBMNGFWa0tPNFNQUVltbk5neWVKRmswZTRlck5MNlZ2UVRrNklFOTBoLXR6YThVV0daVUhKbXYxOXlaODhsODY4WmIxV0FKU0RNb1JxVzlzN1RFR0hKLVV5MzNQMi1BVEo3RnVPaEVBNldkMGl5TldfM29IajJ6dExzNmlfVjE3eEwweGgwR2wyMGNPSmhKR1JoRC1HQ2hSQm5JSmU1Qkk?oc=5>
 
 ### 2026-08-25 00:54  (4 条)
 
