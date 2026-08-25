@@ -1,24 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-25 19:54**
-- 本轮扫到 10636 条, 新增 **1** 条
+- 最近更新: **2026-08-25 20:20**
+- 本轮扫到 10637 条, 新增 **1** 条
 
 ---
 
 ## 本轮新发现 (1 条)
 
-### “伊朗1000万美元悬赏特朗普小儿子”，伊媒还放出其大学位置、护卫车辆等行踪信息，美国特勤局回应
+### 特朗普：对伊朗在霍尔木兹海峡布雷“零容忍”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 每日经济新闻
-- 时间: 2026-08-25 10:11
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBBSHpwX0VjdTZkb3BLMjd0LUJfWS11blNZN0VYZVNjN1hIVy1mUm9lNERwZ2VFN3BwdUhqdFZpUlhYRWNlbzBRRnVoX2VFQkVrcnAxdnpqRWt2ZG5sUWdFc0dJcXg1QQ?oc=5>
+- 场馆: finance.sina.com.cn
+- 时间: 2026-08-25 14:55
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5BZlVKVUJTaXkyMThjbzBVTDc2emJxMURMWWhUYmp3cGRoVWp6clptdGpkc3BKaE91eWJkYlU4QzZvTEdfUVJXcmlYZw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-25 20:20  (1 条)
+
+- **特朗普** | 特朗普：对伊朗在霍尔木兹海峡布雷“零容忍” <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5BZlVKVUJTaXkyMThjbzBVTDc2emJxMURMWWhUYmp3cGRoVWp6clptdGpkc3BKaE91eWJkYlU4QzZvTEdfUVJXcmlYZw?oc=5>
 
 ### 2026-08-25 19:54  (1 条)
 
