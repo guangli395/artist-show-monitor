@@ -1,72 +1,73 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-25 16:28**
-- 本轮扫到 10623 条, 新增 **7** 条
+- 最近更新: **2026-08-25 17:05**
+- 本轮扫到 10629 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (6 条)
 
-### 特朗普：霍尔木兹海峡国际水域内所有水雷已被移除和/或引爆
+### 特朗普称考虑将安大略湖更名为“美国湖”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 央视网
+- 时间: 2026-08-25 16:27
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5ybzVnQ3B4ZWhBdVFMOG5zRmJHS29NU3ozU1ZFT2FvdnQxbk4tSlVYNzBUem5qWXIzZ0ZiTlRLSEJhd2RKRXk2Mnk4SjM0bnF1cUhEY3BfR3hBWnJlWVVLUmZ6aFhVLUNIYXdsRzM5cndIVC1YQVNhbQ?oc=5>
+
+### 特朗普总统：伊朗无力支付军饷，在制裁加剧之际杀害抗议者
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-08-25 16:20
+- 链接: <https://news.google.com/rss/articles/CBMi3AFBVV95cUxPS1pkc2hOYmRzVFRLRTZVVWhhakhpOWdCaFk0M2xFV3djRWFJb2c4cW1NWmNxXzNFSHFxZC05OWZveFlCT0d5NEVEaTNuRHF6dmVWZWxoMENqNHZIRUJFNEc0WWhvTFFmUlZTTW5taVRrcXFXd29rbnA4WVVDeExrVXNvZHJNdFpUVkpIRXRUSXdtX0VBNkEwY011UGpkSFZPQVJzUGoxQ0VNQnRTNUlUOE1razFYdm1pNnhnR1l4MVVKZ0EtNHE5aTcybVlwZTdTQl91dlpWMzJQR2Y10gHfAUFVX3lxTE1DUzRLbFQySmRrSk8wdWFiZTVXVVBOYXQ1c3hCVHBrN2xCaGY2X0hVbjVoY1RLVVlOQUtXOVU0SG0wZTF0ZTVqSG5BTjVRY0hhNnJucU0xNm5XSU1VWXZqMTdBc2tFSktEdXMyRUxoSXp0dHV1VnFRc1diZU9BNFd4U0R1ODNzVzZMeVR0Z0xXN09ONUM0QjlYN2h6LWgzUXlmMVlCY3llbWNpa29nN1A1VkF6aGoxc1prZVhJQmlnQ1dDN3BBZF9qMjFxMXJTY3ByUk90SVQ5bmlCZVJraG8?oc=5>
+
+### 特朗普称美国正在密切关注伊朗的“镐山”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-08-25 14:31
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBDcFdJV2tsbnVVRmJGWElJOGFwemFDZkhmMFBNd2dTeXVSa3RobktMTnVnVk0xMzJiMDNiZ0tzRDlXd1FKX2t0VVhNZ1FPUk5kZ3cyYkpsNTVDWmhNa0poR0JZRDVqSF9TbEhtUHZFNW9nWno1RW5pLQ?oc=5>
+- 时间: 2026-08-25 15:24
+- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxNMXZfdU0yOHBULVZDMWlocnVXSXZpUTBGZmhXZkE5TEdJS3U0a1ozQldCREkyS2VlSjBwTnRfcGJGQTMyOXhjRzhvXzMxQ1FGclRDLXdBQXR1YVlpTUJfSkxOMEVNUlJCLVNSejJydmtlNFhYVkFUUnZ2a2xsMzdGWWkwUXBDS1BHd19pZk9BQQ?oc=5>
 
-### 美高院解除限制邮寄选票禁令 特朗普取得暂时胜利
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-08-25 12:00
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE03Nzg0Mkl6VUYxUXNpTVBfZzNfbXJ4QWxCOUh3ZXB1UlhxUUtlTFVGYk1TaFV1dWNmRFQyRnI5SUVwYXBoTGo2RHItOWRjVzJwVmlFRy1VUi13ZnY5OVViYjFCcy1oODhESHc?oc=5>
-
-### 特朗普：正认真考虑“美国湖”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-08-25 12:25
-- 链接: <https://news.google.com/rss/articles/CBMihgFBVV95cUxPNTVMcjNoSFVtY050TjNuSG9hekQ1UWVGMDI5dlg3eGF5OTdyMzdUcklscFRyZVFfVi1aUTlXc2JLMzNsNVV3ZXJnWjJzRGt4UlpsMlNrbkRSamFyQlp2cFdCdmZJaEF3N0NtNmRQT2ZGdVB3SFJITzNzSFNoU0JYYndEM0Vhdw?oc=5>
-
-### 特朗普政府拟启动大规模签证撤销行动 规模或超20万
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财新
-- 时间: 2026-08-25 15:02
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBka1VhdkUwZUtnYmU4WjZ5Y29QcndzMTdkaXlYb2xOa1RJczJaRzRrb0tPd2ZDY1RNV2RFbnhLMmtrWEQxMXFhbkhHd3gwZFp1YW5Zd2hKazV4cmpNb0R2UjB4NHlQUDlYYXc?oc=5>
-
-### 快观察 | 一天出两大招，特朗普政府为何连挥签证重拳
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-25 11:08
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE4tZDZnYm9vVWZrTjN2c3ZCVVEwZmpWWG1WQThVSlNfbzZEZ0ZvR2xxM1AzdGlIRFVSa082Q01uZWVnYnBMRWViMXdvTFdtOGNTUWFKeXRhYm9nYXhSV1AySUlQb2RRMG5ibWRnaTY0bC1SaFZFZjk0LQ?oc=5>
-
-### 特朗普三线极限施压，同时对准中国、加拿大、伊朗
+### 涉霍尔木兹海峡，特朗普：水雷已被清除
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-08-25 10:00
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1TZktrY3NKaDk0TThsOWNHUm15eEhZNDktNC1pVUpQMWtTSXdfOTRxUUdocG5RSFhkMjU1Q0twVmJubGpwSmc5VE0teVY?oc=5>
+- 时间: 2026-08-25 16:28
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE94djR5NFowbzNsdnlHR2FLa3gyNnVLRXFjMFRHRHF3Q3NIRWtMX0tiQnNsV2xIYkptempnS3AxbU1pWkxxY0xabEJ4VUQ?oc=5>
 
-### Trump Media & Technology Group Tokenized bStocks 价格的历史记录和历史数据
+### 美加贸易争端之际，特朗普总统提议为安大略湖更名
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: CoinMarketCap
-- 时间: 2026-08-25 06:04
-- 链接: <https://news.google.com/rss/articles/CBMipgFBVV95cUxPLUwyb0VSWjNJOWFIbHhmallLbGRWaEl2cHNSRnRXZE1QXzZ4Ymo3ekxjMnJ1T2hqQUpXWnlfVU80WEpjS2lid0I1VDRPTERkQm5Cb3M0cWFZUi13ZXBlTDNCbks0TFBXZUUyd2tKdVN0aHc2ZDlISUVvNjVzZjE3SEFmbWpfZHBmanRjbG1kN3lsVF83V1pOTUY4aFVoa0tBZUc3WFpB?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-08-25 16:36
+- 链接: <https://news.google.com/rss/articles/CBMiswFBVV95cUxQX1U0TWVMbGZWZDF5NmEwNFc1TUl3QVJjU0dRRnVTX0RxU1lzUllNSWFLTGJUN25RcFNIWkNKRnF0RlhFa1cwX1ROUFpKaXJQdzk1VHlKWHVFVXdaQWdObTFYX25maHd0dDd4Zk5feEl5cFNkUUtNT2JaOEpHVE5aVlhFenlrR0hfNHJKZDMzRU85T3NvQ3NVa253QnhnbmtuOXRkbWJXY3VrY1gxOTRVOXBiTdIBtgFBVV95cUxQNXdCd1NPSjhfRFR1UnYtS1Rvc2NFOW9tTkZFUEdsbEhpWVptelFUMkx0Nm1SLVpqVWtNbXU1OWh2dEd2YW8xVVpjOGYwb3BSalN1d2FOSjAwdTFkaWJ5LUFPNDAyWjdKb1h2bXlLTXJPSFJ0UW9JZm1hNlBSbTJrZlM3NkxVZ1UzbkQteVp5SDlsd2ZubUpvTUtOY2dMQ3FwdU45R1ROMWd3NEdFcGJWU19UUDJQQQ?oc=5>
+
+### 🇺🇸 TRUMP JUST PUT BITCOIN BACK IN THE SPOTLIGHT
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: OKX
+- 时间: 2026-08-25 17:01
+- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxQMlhNc0h1TENXVlFkU2hRQ3F4RTlxd0xFaVlTUnRBZ05BbU5QZ3pvN2ktcDA5SmZCTDJqOThxRVEtVjBEZW1QNExGRWhuMUxSNDdHb3JhbGJsWnRlcmxfR3F6dlYyQVl6THdNRVFyR3Q5MnljSjNRczB5aHQ5emRkSnhmNVNKSFVwd0hDV1lUMFc5MnphMzk1Q1NuWUg5dF8y?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-25 17:05  (6 条)
+
+- **特朗普** | 特朗普称考虑将安大略湖更名为“美国湖” <https://news.google.com/rss/articles/CBMieEFVX3lxTE5ybzVnQ3B4ZWhBdVFMOG5zRmJHS29NU3ozU1ZFT2FvdnQxbk4tSlVYNzBUem5qWXIzZ0ZiTlRLSEJhd2RKRXk2Mnk4SjM0bnF1cUhEY3BfR3hBWnJlWVVLUmZ6aFhVLUNIYXdsRzM5cndIVC1YQVNhbQ?oc=5>
+- **特朗普** | 特朗普总统：伊朗无力支付军饷，在制裁加剧之际杀害抗议者 <https://news.google.com/rss/articles/CBMi3AFBVV95cUxPS1pkc2hOYmRzVFRLRTZVVWhhakhpOWdCaFk0M2xFV3djRWFJb2c4cW1NWmNxXzNFSHFxZC05OWZveFlCT0d5NEVEaTNuRHF6dmVWZWxoMENqNHZIRUJFNEc0WWhvTFFmUlZTTW5taVRrcXFXd29rbnA4WVVDeExrVXNvZHJNdFpUVkpIRXRUSXdtX0VBNkEwY011UGpkSFZPQVJzUGoxQ0VNQnRTNUlUOE1razFYdm1pNnhnR1l4MVVKZ0EtNHE5aTcybVlwZTdTQl91dlpWMzJQR2Y10gHfAUFVX3lxTE1DUzRLbFQySmRrSk8wdWFiZTVXVVBOYXQ1c3hCVHBrN2xCaGY2X0hVbjVoY1RLVVlOQUtXOVU0SG0wZTF0ZTVqSG5BTjVRY0hhNnJucU0xNm5XSU1VWXZqMTdBc2tFSktEdXMyRUxoSXp0dHV1VnFRc1diZU9BNFd4U0R1ODNzVzZMeVR0Z0xXN09ONUM0QjlYN2h6LWgzUXlmMVlCY3llbWNpa29nN1A1VkF6aGoxc1prZVhJQmlnQ1dDN3BBZF9qMjFxMXJTY3ByUk90SVQ5bmlCZVJraG8?oc=5>
+- **特朗普** | 特朗普称美国正在密切关注伊朗的“镐山” <https://news.google.com/rss/articles/CBMijwFBVV95cUxNMXZfdU0yOHBULVZDMWlocnVXSXZpUTBGZmhXZkE5TEdJS3U0a1ozQldCREkyS2VlSjBwTnRfcGJGQTMyOXhjRzhvXzMxQ1FGclRDLXdBQXR1YVlpTUJfSkxOMEVNUlJCLVNSejJydmtlNFhYVkFUUnZ2a2xsMzdGWWkwUXBDS1BHd19pZk9BQQ?oc=5>
+- **特朗普** | 涉霍尔木兹海峡，特朗普：水雷已被清除 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE94djR5NFowbzNsdnlHR2FLa3gyNnVLRXFjMFRHRHF3Q3NIRWtMX0tiQnNsV2xIYkptempnS3AxbU1pWkxxY0xabEJ4VUQ?oc=5>
+- **Trump** | 美加贸易争端之际，特朗普总统提议为安大略湖更名 <https://news.google.com/rss/articles/CBMiswFBVV95cUxQX1U0TWVMbGZWZDF5NmEwNFc1TUl3QVJjU0dRRnVTX0RxU1lzUllNSWFLTGJUN25RcFNIWkNKRnF0RlhFa1cwX1ROUFpKaXJQdzk1VHlKWHVFVXdaQWdObTFYX25maHd0dDd4Zk5feEl5cFNkUUtNT2JaOEpHVE5aVlhFenlrR0hfNHJKZDMzRU85T3NvQ3NVa253QnhnbmtuOXRkbWJXY3VrY1gxOTRVOXBiTdIBtgFBVV95cUxQNXdCd1NPSjhfRFR1UnYtS1Rvc2NFOW9tTkZFUEdsbEhpWVptelFUMkx0Nm1SLVpqVWtNbXU1OWh2dEd2YW8xVVpjOGYwb3BSalN1d2FOSjAwdTFkaWJ5LUFPNDAyWjdKb1h2bXlLTXJPSFJ0UW9JZm1hNlBSbTJrZlM3NkxVZ1UzbkQteVp5SDlsd2ZubUpvTUtOY2dMQ3FwdU45R1ROMWd3NEdFcGJWU19UUDJQQQ?oc=5>
+- **Trump** | 🇺🇸 TRUMP JUST PUT BITCOIN BACK IN THE SPOTLIGHT <https://news.google.com/rss/articles/CBMioAFBVV95cUxQMlhNc0h1TENXVlFkU2hRQ3F4RTlxd0xFaVlTUnRBZ05BbU5QZ3pvN2ktcDA5SmZCTDJqOThxRVEtVjBEZW1QNExGRWhuMUxSNDdHb3JhbGJsWnRlcmxfR3F6dlYyQVl6THdNRVFyR3Q5MnljSjNRczB5aHQ5emRkSnhmNVNKSFVwd0hDV1lUMFc5MnphMzk1Q1NuWUg5dF8y?oc=5>
 
 ### 2026-08-25 16:28  (7 条)
 
