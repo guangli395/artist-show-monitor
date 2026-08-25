@@ -1,40 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-25 13:43**
-- 本轮扫到 10607 条, 新增 **3** 条
+- 最近更新: **2026-08-25 14:37**
+- 本轮扫到 10612 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (5 条)
 
-### 安省电力成最大王牌，福特喊话特朗普：轻敌代价就是全美钱包痛！
+### 特朗普在2026年6月购买了价值高达5万美元的SpaceX股票
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-08-25 13:11
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE1hUWRrUk1GM2I0Sl9ueThPVXZLcjFZTGhlQUJlcW5lYkJPTUo1VXNfT0RyOVRUakVKNGU5MFkzQ29SUk1MM0lad3QxcUZEMDVXQ1R1LVhiNkExbHMxRXRaWTFrLU41QnlGX3RhcUhuUllPdw?oc=5>
+- 场馆: idnfinancials.com
+- 时间: 2026-08-25 14:00
+- 链接: <https://news.google.com/rss/articles/CBMiywJBVV95cUxQME5tdXZSMXFfZ25sdXEwaVYyT09fZERuM3Nnc2ZSY0VQTU9CSlVvUUlXMWozQTgyVTdIZUQzYjR2OFNldVpvS3p0SFh5YkhHMUJzVTZHRG4zb2tOTDJJR1JDdFFsbWs3dThLbFVxWUlUTlRpc29oOVpqaDI4N0g3aFhmZUxZRlljM21GWFBCSkJoNWZXN0RodUdLbEt6TVVYcFg0ZF8weG9FaGo4OHdQcEJBNjRsSVBsc3ZVU2dOLWxIV1BBbkxzZEFTZ0gxRW5zTUZSRm1aTU01MHNmRlc4QVhPNUxkbVJPLUd3YTd5N1o2VjM3RDF6djBjWnUzQ0hXWkV3ZjRFUDFkbE9iQlVlZ19iMk5OTmZsNVM5eUtoQkM4YW8wSi1ud2cyVUZoT1UyS2YyNjJDS3pnLXpIS19WejM0cTJQNnhEdEhj?oc=5>
 
-### 特朗普称考虑将安大略湖更名为“美国湖”
+### 民调：伊朗战事拖累特朗普支持率创新低
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-25 08:36
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1kbDMwblJOUC16aWgwS3dwVm5mdG1ockJNRnpZQ1NJeEowb1pMYkxURUlnV0k3NWZBUE9fOUt6eTgyR2ZENFFiVWRIcmpSSWRoQTdXdU5vQzZHZ3ozQXoycEowM1FtLW9qVzFURDZReGNmYjFRVlF2VA?oc=5>
+
+### 民调：伊朗战事拖累特朗普支持率
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 搜狐网
-- 时间: 2026-08-25 12:46
-- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxORGJGc2tEMnNfYW8tdEJvZGhJdm5kU3lxM2xBUlpzcmxROGktQzFSTHBhTlI3clFmNnNtV1NnZWdZNVAxVDBjeXhvMzFqX3N6QnBQUVZNek44NXVIc2ZWc2FWcEVYSDJnemRNdWxtd2gxdERuZVVnMUhkQkx0SDk3blREb0ZDR25Q?oc=5>
+- 时间: 2026-08-25 09:20
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQmhSVXhXUG83Zk5GZ0pENm1DU1NIUTFJTDNRVEVDNVNSSmxTb0xhdFZ4dDMzZzdvWFlsWllpMm5Hb296bWJabWpveXJjMjZmbjUxVlhaWlVIZ0hpeEdpeWVnNkpCU0NDeEVtcHJScE5RY2w4SWtBbjJEOEk4Y0hob2F1Zmt0NE0t?oc=5>
+
+### 特朗普三线极限施压，同时对准中国、加拿大、伊朗
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-08-25 10:39
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1mS0FVQzJ4Vm5FNjVNUktrZ0N6QVU5a2FUOVZpTU13N2RTbHU5TVNtc2haZGlJc3BHTTI1Q0JXMnJVVHM0NkNYUEtEVnNtZVlzZzUwamlZMVhXMFdaWGNOMUZ1VXVtOWZyZHRyM1h3T0lYdHpjUnRZLQ?oc=5>
 
 ### 特朗普发布与金正恩合影
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-08-25 12:27
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE94RDZHU3ZRT2RQVjhEOGtGNmpJOEo5d21OUUpxS3k0RmpIYmdTaTZidkl3anF0TXdsSzJSckxjUFFlNXhCSzk4a2hrNDB4cnpreVNkd3hlNU5kcE1vWXF1djhDNzU5SHQtVjBFSFdxUWpxcVFZeVE?oc=5>
+- 时间: 2026-08-25 11:26
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE8wN2c3S2tmNFliUzRJdEJrbXNUUVZwQWxsa2hFbUp6MjFCbXVUcDZtaHZQb255WXZPTlJsbU00c0wwVEpyYXFQdExKb19jNGtNSVlyaWNsaGdhelpad0s4VG5HVk5uR3BROHdiQk1tQ29KU0FwVTc2Zw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-25 14:37  (5 条)
+
+- **特朗普** | 特朗普在2026年6月购买了价值高达5万美元的SpaceX股票 <https://news.google.com/rss/articles/CBMiywJBVV95cUxQME5tdXZSMXFfZ25sdXEwaVYyT09fZERuM3Nnc2ZSY0VQTU9CSlVvUUlXMWozQTgyVTdIZUQzYjR2OFNldVpvS3p0SFh5YkhHMUJzVTZHRG4zb2tOTDJJR1JDdFFsbWs3dThLbFVxWUlUTlRpc29oOVpqaDI4N0g3aFhmZUxZRlljM21GWFBCSkJoNWZXN0RodUdLbEt6TVVYcFg0ZF8weG9FaGo4OHdQcEJBNjRsSVBsc3ZVU2dOLWxIV1BBbkxzZEFTZ0gxRW5zTUZSRm1aTU01MHNmRlc4QVhPNUxkbVJPLUd3YTd5N1o2VjM3RDF6djBjWnUzQ0hXWkV3ZjRFUDFkbE9iQlVlZ19iMk5OTmZsNVM5eUtoQkM4YW8wSi1ud2cyVUZoT1UyS2YyNjJDS3pnLXpIS19WejM0cTJQNnhEdEhj?oc=5>
+- **特朗普** | 民调：伊朗战事拖累特朗普支持率创新低 <https://news.google.com/rss/articles/CBMieEFVX3lxTE1kbDMwblJOUC16aWgwS3dwVm5mdG1ockJNRnpZQ1NJeEowb1pMYkxURUlnV0k3NWZBUE9fOUt6eTgyR2ZENFFiVWRIcmpSSWRoQTdXdU5vQzZHZ3ozQXoycEowM1FtLW9qVzFURDZReGNmYjFRVlF2VA?oc=5>
+- **特朗普** | 民调：伊朗战事拖累特朗普支持率 <https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQmhSVXhXUG83Zk5GZ0pENm1DU1NIUTFJTDNRVEVDNVNSSmxTb0xhdFZ4dDMzZzdvWFlsWllpMm5Hb296bWJabWpveXJjMjZmbjUxVlhaWlVIZ0hpeEdpeWVnNkpCU0NDeEVtcHJScE5RY2w4SWtBbjJEOEk4Y0hob2F1Zmt0NE0t?oc=5>
+- **特朗普** | 特朗普三线极限施压，同时对准中国、加拿大、伊朗 <https://news.google.com/rss/articles/CBMieEFVX3lxTE1mS0FVQzJ4Vm5FNjVNUktrZ0N6QVU5a2FUOVZpTU13N2RTbHU5TVNtc2haZGlJc3BHTTI1Q0JXMnJVVHM0NkNYUEtEVnNtZVlzZzUwamlZMVhXMFdaWGNOMUZ1VXVtOWZyZHRyM1h3T0lYdHpjUnRZLQ?oc=5>
+- **特朗普** | 特朗普发布与金正恩合影 <https://news.google.com/rss/articles/CBMieEFVX3lxTE8wN2c3S2tmNFliUzRJdEJrbXNUUVZwQWxsa2hFbUp6MjFCbXVUcDZtaHZQb255WXZPTlJsbU00c0wwVEpyYXFQdExKb19jNGtNSVlyaWNsaGdhelpad0s4VG5HVk5uR3BROHdiQk1tQ29KU0FwVTc2Zw?oc=5>
 
 ### 2026-08-25 13:43  (3 条)
 
