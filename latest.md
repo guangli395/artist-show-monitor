@@ -1,24 +1,73 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-26 05:59**
-- 本轮扫到 10679 条, 新增 **1** 条
+- 最近更新: **2026-08-26 06:56**
+- 本轮扫到 10685 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮新发现 (6 条)
 
-### 特朗普下令全美降半旗纪念多莉帕顿 乡村音乐传奇陨落
+### 关税谈崩 加拿大硬刚美国有什么牌？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-08-26 05:22
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5pTmJmcjlqdEgwdFdlV1lnQy1nVUZ3LWV2SUFYWkhLT0NMVVh5MnViVXJrZlIxY0NRYlFFSDZVLXhFc3VpcWZTRTVLMkxyRFptU3BkYjVTenBvV2FDMWxMRy1Ma0w0Vmt5TTBfc2J4V1Y?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-26 06:39
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1NeDRVamFCNERNNC0zRkJHa2VqcHdJRE9iUHM3clg3eE5sMFdTWlRfdk9NLUNhNzAxaHFkd0tHNnl2ZHUtQ3ZJelRGWGFldzRjY2R2cHVuaGRNdEpiZElxN1d1QUlMUmttanhZS1JMeV9VTUJ4XzR1OQ?oc=5>
+
+### 加拿大宣布200亿对美关税报复措施，特朗普放话将安大略湖改名“美国湖”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-26 06:36
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE8tY3pFYi1vTUpZa3haTDVMN3dRbmRkbFN0WGlQcm9jM1ppSmVWajYzMEFqeXYtclIzc3JQa0I2T3hETWpUTGhuNnBxZE5VZGw5djVRMkhQbk1NanRjZDZsWFFRNFAtUFhsdVhkYno5ZEJ0SmdGZ2RndA?oc=5>
+
+### 特朗普欲为安大略湖改名 加拿大表不满
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-08-26 04:27
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE4wd0k3eW5vRnRLZU9YYlZDc3dpT2NaQ3BkdWFtbHBXT3pxTU5fSTVoRk5IcjhRNVdPN0NZWTFac1hEX0k5ZmRvRm1McUJyUGJqamQ2VXlIR3RDdklFTGNSVFVKNHduV01tcEpMU1Q2bGJuMXM3SDhvaDNDa0lhRm8?oc=5>
+
+### 特朗普称考虑将安大略湖更名为“美国湖”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-08-25 11:25
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBqRjlZd244YWxzY3otOTNsRkdvUUI3dmRlU21TSGZCY1dUSkwxVlA4QjFkeFN4Y05qeVRFMm1tUlFBdlFYeTRRNGVQZEI?oc=5>
+
+### 特朗普欲为安大略湖改名 加拿大表不满
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 搜狐网
+- 时间: 2026-08-26 05:46
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZmcwZGJpQjhMNXY1QzJDenI4aGlHeW1Xc3dHb1dDLWpjTEl2SHVVWG1mdzVYclRUaGYtMUEtb0l3Rm85Qk51cW50WlA2TjhRZmJubEVDcmo1b01IZVEweC1fYXVLeGpROXdhdlRsUnVpS01YNjdXNW14eEw5TTJJbDBuUEVidEU1?oc=5>
+
+### 80岁美国乡村天后离世，特朗普下令降半旗，生前两次婉拒总统示好
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-08-25 23:38
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1uWTZMeXA2V1BmUS1Sc0NUckdBTzBzWnVhWHVIVXBicFU1amN2S0t4YUlSaWdhWld2aFRNYTNXcV9jT0xJYUFhUGY5b08?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-26 06:56  (6 条)
+
+- **特朗普** | 关税谈崩 加拿大硬刚美国有什么牌？ <https://news.google.com/rss/articles/CBMieEFVX3lxTE1NeDRVamFCNERNNC0zRkJHa2VqcHdJRE9iUHM3clg3eE5sMFdTWlRfdk9NLUNhNzAxaHFkd0tHNnl2ZHUtQ3ZJelRGWGFldzRjY2R2cHVuaGRNdEpiZElxN1d1QUlMUmttanhZS1JMeV9VTUJ4XzR1OQ?oc=5>
+- **特朗普** | 加拿大宣布200亿对美关税报复措施，特朗普放话将安大略湖改名“美国湖” <https://news.google.com/rss/articles/CBMieEFVX3lxTE8tY3pFYi1vTUpZa3haTDVMN3dRbmRkbFN0WGlQcm9jM1ppSmVWajYzMEFqeXYtclIzc3JQa0I2T3hETWpUTGhuNnBxZE5VZGw5djVRMkhQbk1NanRjZDZsWFFRNFAtUFhsdVhkYno5ZEJ0SmdGZ2RndA?oc=5>
+- **特朗普** | 特朗普欲为安大略湖改名 加拿大表不满 <https://news.google.com/rss/articles/CBMif0FVX3lxTE4wd0k3eW5vRnRLZU9YYlZDc3dpT2NaQ3BkdWFtbHBXT3pxTU5fSTVoRk5IcjhRNVdPN0NZWTFac1hEX0k5ZmRvRm1McUJyUGJqamQ2VXlIR3RDdklFTGNSVFVKNHduV01tcEpMU1Q2bGJuMXM3SDhvaDNDa0lhRm8?oc=5>
+- **特朗普** | 特朗普称考虑将安大略湖更名为“美国湖” <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBqRjlZd244YWxzY3otOTNsRkdvUUI3dmRlU21TSGZCY1dUSkwxVlA4QjFkeFN4Y05qeVRFMm1tUlFBdlFYeTRRNGVQZEI?oc=5>
+- **特朗普** | 特朗普欲为安大略湖改名 加拿大表不满 <https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZmcwZGJpQjhMNXY1QzJDenI4aGlHeW1Xc3dHb1dDLWpjTEl2SHVVWG1mdzVYclRUaGYtMUEtb0l3Rm85Qk51cW50WlA2TjhRZmJubEVDcmo1b01IZVEweC1fYXVLeGpROXdhdlRsUnVpS01YNjdXNW14eEw5TTJJbDBuUEVidEU1?oc=5>
+- **特朗普** | 80岁美国乡村天后离世，特朗普下令降半旗，生前两次婉拒总统示好 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1uWTZMeXA2V1BmUS1Sc0NUckdBTzBzWnVhWHVIVXBicFU1amN2S0t4YUlSaWdhWld2aFRNYTNXcV9jT0xJYUFhUGY5b08?oc=5>
 
 ### 2026-08-26 05:59  (1 条)
 
