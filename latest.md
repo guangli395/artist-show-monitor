@@ -1,64 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-26 05:27**
-- 本轮扫到 10678 条, 新增 **6** 条
+- 最近更新: **2026-08-26 05:59**
+- 本轮扫到 10679 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (1 条)
 
-### 美国音乐传奇去世，特朗普：全美降半旗一周
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-26 04:23
-- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxOZHpiRS13SGFnUmExSGlZbXl0RC15aE5sd0NfUEhnZ0ZSd1BkMjJRNzQ2RmZvZXJKa1VmUldBejM4dTJqYngxMXZuaXBnVm44bzdmcFBuRW50UzVfMkZubTh6cUlYMG9BLWRHMklvT0owbWVycnVWSG5WXzQwUkdWd2c3SQ?oc=5>
-
-### 特朗普被曝买入马斯克SpaceX股票，6月投资交易超千笔，白宫：系第三方独立管理
+### 特朗普下令全美降半旗纪念多莉帕顿 乡村音乐传奇陨落
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-08-26 04:18
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE83VlZhLXFmZS1qWDNHR2s4VDVaZWJpTE5EaXFYYVVVNHRTY2NZSzJRamtmZ0V2d3llYnRuaHpqd2NQMEtZeHE4ZnJKNzlrYTF2d3pjY3FmOEhLTU5RX2k0UGlxV3VEMGE5LXVoUUZyNm10QQ?oc=5>
-
-### 特朗普连晒三张与金正恩合影 韩媒：再释放重启朝美对话信号
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-26 04:04
-- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxQaVlxT0dJWXh0cTljM1JSQXJWYW1meFlKUUtDNWRfdWRDOERVVzdOSU5sVjdfM3UzVTV3cllfOXBjc3pLdC0xeEhFV1Q5Mzh1MWluUlEzQ0YtUWs2aF9aS1JPVEdUZFZsOUhtQXFaNkZfRmpqRGYxVzBnS1RobHZFVUR4dFQyendobjRvZmE3U2hRUGxIaUJ1Qm9Dbl9VeW9R?oc=5>
-
-### 民调：特朗普的支持率为33%，达历史最低
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-25 22:37
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9mN3B6UnBEdGdfamVTT0hpMm9TaFNGeVlNcDl0c1RseC1yajVzMHN5VlZzeTM4VTJhbHN4UlhuWHRVWG9VVzQ1RVFLTzM?oc=5>
-
-### 特朗普最新支持率公布
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪军事
-- 时间: 2026-08-25 22:24
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5XU1JOLVBkbXh2emZUU3QwTDh2Uk9ZbjlRWnpUSTgxLWhVQlo4OTZPWXJIVkNDSHZPclVQbWo3REtjekZIUjRzRFk5NHhtSkNtSkVDRHRkLWdvaDNGdnhOc21hU0xObUxCWFQtTWxET05UYXM?oc=5>
-
-### 加拿大回应特朗普安大略湖改名言论：没什么好商量的
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-08-26 04:26
-- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxNd0Foamt4TFJxRkFxNHJDUy1YVmhURWMzazFlUEw3ZWdzZ0hVQ2hMb01sbzI0b0FyeDNZN19tTnpuQTZpcHk2dFU1VnhpUEUzU3JZQU5CbUpjUFNqMFRqeG1rSC1VbHZ3UGFCLU1NdUNFSUhkMDZSMDlXVjZ1bXpMRkxFd3hIWDJhbmVTZDJnb2pYM0IycXFTZ2dUM1R4QXJHOGNNZERpWU9PNG1lQTlIM1JuckJqVm4wdXBOZW01YU0tcFRXRVFXMkhaUy1aZGhCRVVWUzVRVWZHR0dIaGc?oc=5>
+- 场馆: 中华网
+- 时间: 2026-08-26 05:22
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5pTmJmcjlqdEgwdFdlV1lnQy1nVUZ3LWV2SUFYWkhLT0NMVVh5MnViVXJrZlIxY0NRYlFFSDZVLXhFc3VpcWZTRTVLMkxyRFptU3BkYjVTenBvV2FDMWxMRy1Ma0w0Vmt5TTBfc2J4V1Y?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-26 05:59  (1 条)
+
+- **特朗普** | 特朗普下令全美降半旗纪念多莉帕顿 乡村音乐传奇陨落 <https://news.google.com/rss/articles/CBMicEFVX3lxTE5pTmJmcjlqdEgwdFdlV1lnQy1nVUZ3LWV2SUFYWkhLT0NMVVh5MnViVXJrZlIxY0NRYlFFSDZVLXhFc3VpcWZTRTVLMkxyRFptU3BkYjVTenBvV2FDMWxMRy1Ma0w0Vmt5TTBfc2J4V1Y?oc=5>
 
 ### 2026-08-26 05:27  (6 条)
 
