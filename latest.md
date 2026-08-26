@@ -1,47 +1,13 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-26 03:31**
-- 本轮扫到 10672 条, 新增 **4** 条
+- 最近更新: **2026-08-26 04:33**
+- 本轮扫到 10672 条, 新增 **0** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮无新增
 
-### 特朗普签令也没用！联邦机构互相推诿，造房子贷款利率逼近两位数
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-08-26 01:48
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE1tRzFlalQ0MllDdlNoeFpYVDlFNDZ3djZtbHBFVzROUkFvWTB3dVhaYWtJWlFKem5Bd1kzZjN5TjdVSjNhT2thVEhFcDhEN1JDQi1xSUhzRlY0M0pzY2xEU2J0WHE4OUFDS1BYMnZ5ZV9VZw?oc=5>
-
-### 伊朗电视台教人刺杀特朗普儿子！公开悬赏特朗普幼子 行踪被全面监控
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-08-26 02:32
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5FVXdDbF9hTUNKb3J2UHo1Q0xlTnQzTEs2MFNWSC1rZDRUYlU1YVRMOFZJRTBVZDdJUW9pOTRJT25yMUVZR1hvNU1pUTEta1A5bzBEaHFqY2xBM1dZVEU1TktNRHB1ZGRwTmt4azFmOVA?oc=5>
-
-### 特朗普加码“报复”！李在明没想到拒绝这么痛，但美国也没落到好
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-26 02:06
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9PQWNtNmFtTmprZjZ4UE1DRkVEXzgtMlJTZWl6cTB3UExjaVp2bnJyaVcwRzJiM0pBOHdRQVo3N2hkSUZKZHdlRGxxTQ?oc=5>
-
-### 特朗普：霍尔木兹海峡国际水域内所有水雷已被清除或引爆
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-25 23:39
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9welVrclNqWHFvRWFjQjUwT0xETGt5enZ3Qjk3cTFpbXdkLUhkOXhJNEVoTktUN0ZtVGVTaDlDNVFaeUlTa2ozbEpoSlQtOXhWWUNFMTV0WmdzdEZjb1FRWGdXVVNRblJsVDdkOFZXdGdabTFDUmo1ZQ?oc=5>
-
-
----
-
+数据库里所有演出/动态都已见过,暂无新增。
 ## 历史发现
 
 ### 2026-08-26 03:31  (4 条)
