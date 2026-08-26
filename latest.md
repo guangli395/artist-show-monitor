@@ -1,54 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-26 12:38**
-- 本轮扫到 10709 条, 新增 **5** 条
+- 最近更新: **2026-08-26 13:48**
+- 本轮扫到 10713 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (4 条)
 
-### 周杰伦最美的中国风MV《东风破》4K修复版
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923704_m1d5ae17f803301xa5m.html>
-
-### 加拿大安大略省长放话！切断电力和关键矿产，特朗普贸易战升级
+### 要闻解说 - 中国是特朗普对伊朗新一轮经济制裁面临的挑战？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-08-26 11:41
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE1OMEx1S25fUE1NNDIxRUJVaUxZazFHSmVjSzF6N2NPVEZKanRCUGEzT1QwZENuVEtJRzdjSUctZ3A3dmRDRGhKdzBmc2tHS2VzeHllRk9LbEJ0eWIzaTJsVC1MQWstQWF1bUd2WmY2SDc3dw?oc=5>
+- 场馆: RFI
+- 时间: 2026-08-26 13:17
+- 链接: <https://news.google.com/rss/articles/CBMipANBVV95cUxPTVVHQkFWYkZyNms5RnJlTlBzeWlLcGtwcjV2SGU5VGprOXVCMkRiRUxobElhd0gwdExRT19rRDNWSmFiWEowYzNFNGlrZ2pXMV9zQkdVdEhWS05tSkIzM2dkSGZaWHVjcnJBVGpFQVI1WVpZd3lxeVFjTEFqdDBscVdsZTR4NEdWWlNtbk9PRUJEaEVJNDNQdUc0SV9kZlQyZmZfbzRZTjFYODhWemNCblp3VEFyZVNTY2c5b3hVMzhTUnFVSTVaYUJnOVdYaVN0TExBRUxRelEtTjN6bnpjM3JJRlJZWldZRlhFYnNMM3o1SnFqUjNPV2NtTFZ6N0d0aE1mcF9md3JlcmU3MnZyR3dvWmFTWlFrVDg0UnBoeV9EcDdMTXJmdTR6S25PTlN3Y1FIeVBFbmFIRHJST2FLVlVGblBBZm9lV2NyQ0lhSllmZmpkUnFCVTZhUVFKd1ItdUJfRFZkRk9WZHJiWWZ3Mms0YVRGN3RtVFQ0cHlTVkRaVVYtRmhOdzdtVUNSSkFLX1JDU3V4WFlxMmpZZDU4a0M3UG4?oc=5>
 
-### 特朗普签备忘录：2030年实现每年发射超千次_手机新浪网
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-08-26 11:48
-- 链接: <https://news.google.com/rss/articles/CBMi9AFBVV95cUxOTENTYjRzT09qc1I2NjNOUkRpaENWTEp6MDJmSXNVZVBXMDFsV0Ytb20xcTMyYVhmOHRJN0t1OUgzeFA3RGV5MnJVczdMX0dGdWd4bzE5SGJ0cElzTlBuaFhCSDRweEtFNXZpc0hDNFJUSXpWUUlaZjNDNWplTk5ubC1jcWV3RmlEX2hCdDdnN0dBeUNmM2o5NnFQTjNfbUx0S0FEYVdla2htaFBmdTVYdnJfRnJLeEp3VDVzLVlZZWpiSmNSMHZYQzc3S1JoSkIzNm9iMko3WGRQLVlZRzJHRjFIV3h6ZGtvZkNvblNxSmN6Ujc5?oc=5>
-
-### 特朗普想降息，沃什不吭声，债市却先动手了：今晚PCE前必须看懂的三角杀
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-26 11:34
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxORk1XNUVyaFVQSmRGZXZUd182aGIzb2tMYXZSWFJNWlhacW9PWXZVengxbnlRNERaTW9Ndk9oOVpNaG9Xbkg0YzJuYlcxNnpCdU1qM3YwaG1ndy02ZnhYU28xczNZaFFUVDZzWVM1bjdRY3piM2lEbWJvVGZGT3RnbmVoNTVvSjBSUVpxZkViWkVySl80TS1SMVZqdkhQbUdPRVMwX2tKR25mTUNxT0d3RWlTUmtjdndncTh3aG5FdmthVjRXLTN2cUhaZDhEa2tn?oc=5>
-
-### 金正恩主持劳动党政治局扩大会议，未回应特朗普对话提议
+### 特朗普摇人经济围剿伊朗，谁会响应？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-08-26 05:20
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1WZF92d2xqUExxazJDdUFGU3pmUnZnY241MWtLcnMzWWY5ekNxMkRFTVpfRDV1eV9pZ1dxQ1JpQ2FUSFhtWXRLZ2xmbjc?oc=5>
+- 时间: 2026-08-26 11:46
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFB3MlZvX2lpbW01RWhoWjdEbXF2RG5PSmNESFFiczVxdk9jdjRNZGpaRGtXWjRTeXIwa3ZVdEU3SVRlSTZYc0FLQi1rWlI?oc=5>
+
+### 特朗普宣布：全美降半旗一周
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-08-26 09:18
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTFBOOWE2bzBvNWtxbzBaUWptcWJLQjhQZlFYbTkwWHQ0OFI1dG5NNHNsZ1ZkXzh5NzFwRE9JZ0dyTFB6a2Vabi1DQWNKWDktQlNDamNJMTVVbzFXMlZDRzEyMzZSanpKTmZnOHhfWHlaMnJ3LWJ1?oc=5>
+
+### Netanyahu：“不可能与伊朗野蛮人达成协议”……敦促Trump加强施压- 阿视亚经济
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 아시아경제
+- 时间: 2026-08-26 12:55
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZR0pnZFEySDdVOUo0ODJFNXFtTWFVM1dwQ0FNNWhBTU1zaTllX2NQNzBQdFNobzNQQTJLOXJGa2dFeVB0RVRVR3Q0RXczZGczMHE0aXZLZ2g3N1pKallQZHB2WGs?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-26 13:48  (4 条)
+
+- **特朗普** | 要闻解说 - 中国是特朗普对伊朗新一轮经济制裁面临的挑战？ <https://news.google.com/rss/articles/CBMipANBVV95cUxPTVVHQkFWYkZyNms5RnJlTlBzeWlLcGtwcjV2SGU5VGprOXVCMkRiRUxobElhd0gwdExRT19rRDNWSmFiWEowYzNFNGlrZ2pXMV9zQkdVdEhWS05tSkIzM2dkSGZaWHVjcnJBVGpFQVI1WVpZd3lxeVFjTEFqdDBscVdsZTR4NEdWWlNtbk9PRUJEaEVJNDNQdUc0SV9kZlQyZmZfbzRZTjFYODhWemNCblp3VEFyZVNTY2c5b3hVMzhTUnFVSTVaYUJnOVdYaVN0TExBRUxRelEtTjN6bnpjM3JJRlJZWldZRlhFYnNMM3o1SnFqUjNPV2NtTFZ6N0d0aE1mcF9md3JlcmU3MnZyR3dvWmFTWlFrVDg0UnBoeV9EcDdMTXJmdTR6S25PTlN3Y1FIeVBFbmFIRHJST2FLVlVGblBBZm9lV2NyQ0lhSllmZmpkUnFCVTZhUVFKd1ItdUJfRFZkRk9WZHJiWWZ3Mms0YVRGN3RtVFQ0cHlTVkRaVVYtRmhOdzdtVUNSSkFLX1JDU3V4WFlxMmpZZDU4a0M3UG4?oc=5>
+- **特朗普** | 特朗普摇人经济围剿伊朗，谁会响应？ <https://news.google.com/rss/articles/CBMiTEFVX3lxTFB3MlZvX2lpbW01RWhoWjdEbXF2RG5PSmNESFFiczVxdk9jdjRNZGpaRGtXWjRTeXIwa3ZVdEU3SVRlSTZYc0FLQi1rWlI?oc=5>
+- **特朗普** | 特朗普宣布：全美降半旗一周 <https://news.google.com/rss/articles/CBMidEFVX3lxTFBOOWE2bzBvNWtxbzBaUWptcWJLQjhQZlFYbTkwWHQ0OFI1dG5NNHNsZ1ZkXzh5NzFwRE9JZ0dyTFB6a2Vabi1DQWNKWDktQlNDamNJMTVVbzFXMlZDRzEyMzZSanpKTmZnOHhfWHlaMnJ3LWJ1?oc=5>
+- **Trump** | Netanyahu：“不可能与伊朗野蛮人达成协议”……敦促Trump加强施压- 阿视亚经济 <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZR0pnZFEySDdVOUo0ODJFNXFtTWFVM1dwQ0FNNWhBTU1zaTllX2NQNzBQdFNobzNQQTJLOXJGa2dFeVB0RVRVR3Q0RXczZGczMHE0aXZLZ2g3N1pKallQZHB2WGs?oc=5>
 
 ### 2026-08-26 12:38  (5 条)
 
