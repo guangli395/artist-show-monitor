@@ -1,24 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-26 11:01**
-- 本轮扫到 10701 条, 新增 **1** 条
+- 最近更新: **2026-08-26 11:54**
+- 本轮扫到 10704 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮新发现 (3 条)
 
-### 美海军上将与特朗普“打擂台”：电磁弹射效率明显高于蒸弹
+### 三种对伊方案曝光，内塔尼亚胡自曝与特朗普决策过程
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-08-26 10:41
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9JcFBGbC15dk01a3F2QkpUSnJVbldhRXI1UHcxVEVTekYxcnpUUWZkdjdlZjBJSWJkMzU5NDVuSVM0c0RnUDgzQUlTS2JBLTViTTVYMXpWLVZWMzZiTDRKRVloMEtORHZaekI3YjJQM2s?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-08-26 10:54
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE51M3IyWG5hRDRXMTMtNXp5RDFGOF84RzNDZmtEa0pFWkJ3d3pjaEdPXzlCdXZ4UlBkVVBiMlM5UlhfdU11YjV1SnMxYjU?oc=5>
+
+### 美高院解除限制邮寄选票禁令 特朗普取得暂时胜利
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-08-25 12:00
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE43dFlIeE5vV1pwSU0wLTdXRXdSaW5fa1E5VVdZZVBVbFZfNTZPVThTenVSTGdTY05VZmdmRGRFWl9pSGJDRWUxa0hVRUpFSzZPaGxJUE1WSTJQSGVhcWNENmJJUTRjQQ?oc=5>
+
+### 特朗普警告将安大略湖更名“美国湖”，加拿大：闹剧
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-08-26 03:06
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE51MU9MT2lYMlRKV1JLcm95WHc2a0dGZUtTT3pOcDN3SVpyQlZ3ZFJIbWxZUW9LWGJiSXNmZmpSN1BXdFAyelFVbjRKQ3E?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-26 11:54  (3 条)
+
+- **特朗普** | 三种对伊方案曝光，内塔尼亚胡自曝与特朗普决策过程 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE51M3IyWG5hRDRXMTMtNXp5RDFGOF84RzNDZmtEa0pFWkJ3d3pjaEdPXzlCdXZ4UlBkVVBiMlM5UlhfdU11YjV1SnMxYjU?oc=5>
+- **特朗普** | 美高院解除限制邮寄选票禁令 特朗普取得暂时胜利 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE43dFlIeE5vV1pwSU0wLTdXRXdSaW5fa1E5VVdZZVBVbFZfNTZPVThTenVSTGdTY05VZmdmRGRFWl9pSGJDRWUxa0hVRUpFSzZPaGxJUE1WSTJQSGVhcWNENmJJUTRjQQ?oc=5>
+- **特朗普** | 特朗普警告将安大略湖更名“美国湖”，加拿大：闹剧 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE51MU9MT2lYMlRKV1JLcm95WHc2a0dGZUtTT3pOcDN3SVpyQlZ3ZFJIbWxZUW9LWGJiSXNmZmpSN1BXdFAyelFVbjRKQ3E?oc=5>
 
 ### 2026-08-26 11:01  (1 条)
 
