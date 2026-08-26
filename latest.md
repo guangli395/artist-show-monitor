@@ -1,32 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-25 23:46**
-- 本轮扫到 10653 条, 新增 **2** 条
+- 最近更新: **2026-08-26 00:55**
+- 本轮扫到 10658 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (5 条)
 
-### 英国首相伯纳姆9月将与特朗普举行首次面对面会谈
+### 美官员称特朗普已将美沙核协议提交国会审议
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 紫牛新闻
+- 时间: 2026-08-26 00:30
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE4tNkJacXNrSWFEOWY0d1pydDY0dFhRRzY5RjB0dEM0ekFhMTllaUVxbUdqYkh2cXZLQTV1cE9CNElLR2k5MV9DQnNxdnJidU9JWHhFVFZrcWhGT25DNThtSmtXNS1YSEV1eWc?oc=5>
+
+### 被曝秘密会晤特朗普女婿，民主党高层回应：没人能逃脱惩罚
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-08-26 00:07
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFA0MFF4bkI0Z2pzVmRoanNIbE43RU5fMnNqTzJJVTFmOVZWa1JKTXdtZEFiUHg3b3ZBQnhsRHhCT1dRMG96TkNfTG1Dazk?oc=5>
+
+### 特朗普三线极限施压，同时对准中国、加拿大、伊朗
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-08-25 21:26
-- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQlRESDBvYUNiY05NQ0xlc0JfSlI3Mmk3U1dlSVJ1NTUxZlc3T0tGODE3NGhSQVg3NV8wSG55RkJoWTJEYTFYd3NMelZGMDR0dDkxU3JpRkd1a2xjcXBMWUtrNVZpZXJVZzVKX2RTc29ZVU9hWGFWZktzR2ZfR3RQdm5ETlE3NEtKMzlzWGZYczdQU1Mzb2lxSWxQWGdUX1lnd0hwV2toVzhrUQ?oc=5>
+- 时间: 2026-08-25 10:00
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTnl6VFZjOHRaZ1JJVnlhZ3NjZDFYdFpNby1IR1N6bDFCenRtN3A3cm5OUzAtSk5uNlJUVW9zT3Z3eUprb0VqYjluVjAybi1hSmNPemtEV1k3UXVtUWYxS2Fsc2EtQzYwNEU3akcyUmNENC1mU09lRmFudGlUeDJ4QWVpcEVwQy1VWXZJX281WU5qX2N4NzNxcWtGY2tLTkJrcmpuWFhZQ2VvZWJDZkt5Y3VDZkNTUS0tRFJUYXA1UE1DYnlTekdYeEc0dTlNa2VP?oc=5>
 
-### 伊朗电视台播涉暗杀巴伦视频 美国特勤局称已知情
+### 特朗普称霍尔木兹海峡“国际水域”水雷均已清除
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新京报
+- 时间: 2026-08-25 23:06
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpTGFQb3p1d01GMEpzYzNud05HMDloWEVkTW5rR3VYS0wwYkNRY1diY2dnejQ5dzFkVmVwV3VQazNmemZoeHJpZWdnN2h0YldMQjd3SUd3THlwcDJGWERNQmREODc?oc=5>
+
+### Trump Threatens to Rename Lake Ontario as Spat With Canada Escalates -- WSJ
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-08-25 23:30
-- 链接: <https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQ2ExNGxvSE5Cb3JNSE1nazZVYkx4ZDJHT0JYYWxZNnNKazV1SFhIYnpQZkVXUkwtU3d1QmpPQVNic2V3Rmp0cmhyVkd1UXJMM0NjRUN3R1U1RFBzY2o3eFJfWVlyUC0tekRHQ1JNc0JCeGFmQWtFMUpERWxhSV9Db0I4ai1zTVlWVExLaFJYZUJoQ0dzVzVGMlg5cjZwTlZQaDdSV1lRRnY?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-08-25 23:46
+- 链接: <https://news.google.com/rss/articles/CBMiqAFBVV95cUxObDFzX1k2VzZBYXBOUlpRWmgxVTJkb291czl0akFBMjRxMEdRT1FRY01BUk9aVk0wX0VpV3ZPNGJSbHVEUURyVk5sVkJWcW8ydDZsanRfUHpPWW02NjFPakZaRHhvOV8yMnFqWGVQVHU5Q3hqNjd1YV9uY0htdWdNWlBnZDZnaVVpc2JyZlhkMXNObmotY1g3OHlYb3ZWNXdkYXZYaFZoUng?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-26 00:55  (5 条)
+
+- **特朗普** | 美官员称特朗普已将美沙核协议提交国会审议 <https://news.google.com/rss/articles/CBMiakFVX3lxTE4tNkJacXNrSWFEOWY0d1pydDY0dFhRRzY5RjB0dEM0ekFhMTllaUVxbUdqYkh2cXZLQTV1cE9CNElLR2k5MV9DQnNxdnJidU9JWHhFVFZrcWhGT25DNThtSmtXNS1YSEV1eWc?oc=5>
+- **特朗普** | 被曝秘密会晤特朗普女婿，民主党高层回应：没人能逃脱惩罚 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFA0MFF4bkI0Z2pzVmRoanNIbE43RU5fMnNqTzJJVTFmOVZWa1JKTXdtZEFiUHg3b3ZBQnhsRHhCT1dRMG96TkNfTG1Dazk?oc=5>
+- **特朗普** | 特朗普三线极限施压，同时对准中国、加拿大、伊朗 <https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTnl6VFZjOHRaZ1JJVnlhZ3NjZDFYdFpNby1IR1N6bDFCenRtN3A3cm5OUzAtSk5uNlJUVW9zT3Z3eUprb0VqYjluVjAybi1hSmNPemtEV1k3UXVtUWYxS2Fsc2EtQzYwNEU3akcyUmNENC1mU09lRmFudGlUeDJ4QWVpcEVwQy1VWXZJX281WU5qX2N4NzNxcWtGY2tLTkJrcmpuWFhZQ2VvZWJDZkt5Y3VDZkNTUS0tRFJUYXA1UE1DYnlTekdYeEc0dTlNa2VP?oc=5>
+- **特朗普** | 特朗普称霍尔木兹海峡“国际水域”水雷均已清除 <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpTGFQb3p1d01GMEpzYzNud05HMDloWEVkTW5rR3VYS0wwYkNRY1diY2dnejQ5dzFkVmVwV3VQazNmemZoeHJpZWdnN2h0YldMQjd3SUd3THlwcDJGWERNQmREODc?oc=5>
+- **Trump** | Trump Threatens to Rename Lake Ontario as Spat With Canada Escalates -- WSJ <https://news.google.com/rss/articles/CBMiqAFBVV95cUxObDFzX1k2VzZBYXBOUlpRWmgxVTJkb291czl0akFBMjRxMEdRT1FRY01BUk9aVk0wX0VpV3ZPNGJSbHVEUURyVk5sVkJWcW8ydDZsanRfUHpPWW02NjFPakZaRHhvOV8yMnFqWGVQVHU5Q3hqNjd1YV9uY0htdWdNWlBnZDZnaVVpc2JyZlhkMXNObmotY1g3OHlYb3ZWNXdkYXZYaFZoUng?oc=5>
 
 ### 2026-08-25 23:46  (2 条)
 
