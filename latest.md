@@ -1,40 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-26 09:34**
-- 本轮扫到 10695 条, 新增 **3** 条
+- 最近更新: **2026-08-26 10:28**
+- 本轮扫到 10700 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (5 条)
 
-### 特朗普称霍尔木兹海峡国际水域内水雷均已被清除
+### 对加拿大态度强硬，特朗普底气何来？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-08-26 03:00
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE42WVpIX0xwOG1wclc0MWZMNEQ5cC1Gd2hNS0FBWjNrNjhhbEJxekg2UWt2d1VqRGdkbEdPeGRXNnNFdjhCWTJhSUo5SWo?oc=5>
+
+### 去你的！福特怒怼特朗普：敢动安大略试试，150万户美国家庭断电
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪网
-- 时间: 2026-08-26 08:37
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5xV0Z2YTJtNVZ2c0VEZ2VtTW9vYVk4Q01wQmw1YXhwbmdmUWpoLURuQUNxM1lKSzBIY1o3azk4TWdqWDV0aEEwd2E4ZFNhbktJZUlCU0FyYWtLLTI5eHA1Vk5ybkNmOFBiZkEtd09CSnB0Sl9Qa3VTcg?oc=5>
+- 时间: 2026-08-26 10:20
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFBockdWWHFZc05YYTFIY1ZKMGtDSGUxVnkxQzlJWW84UUVEMl9DelFGQVF5Y1F0VjJ1T0stUVFTeHBMdVFGeVRNN2hZSng3cG9hZjZlUGNxLXJSZ2RiY0FhMEdOc1lQaVoySUNFWnZQaUg1UQ?oc=5>
 
-### “伊朗悬赏千万美元追杀巴伦·特朗普”，美特勤局回应
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-08-26 07:49
-- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxNSjBGV0ZIbWNJSklWM3JvRy01Wnk2b21DUGI3ZFQwQU9KWUV1THJqYXhyazRNQjctVVZDRnNfd1F4dXRYWDNFbm0tb2cxR0JwQjNUb0ZSbDVXY1lFWmp0V3pPa3FXbkFiOEd2LUdFdXVsNWxocVFQLVF5R1ItZi1SN1p5bmtzbGVneFRYZ21EVzV2c29mWGRxc0ktLThTZERP?oc=5>
-
-### 特朗普连续发帖示好朝鲜 朝方回应显对美韩态度迥异
+### 福特骂完特朗普后上五大美国电视台紧急服软
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Caixin Global
-- 时间: 2026-08-26 09:06
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE44M0g2WlBvcFhablJpTE1Lb1RjOTVzUmlvNkEzdFptTzdIcUdZSEtCX1NXZ2xoWjNVYmtZUDgwd3BtTzJGU1NLcFZ1QXZJM1pXak1HcGUwS3dLeGhjQm16ZmxLZXBkUUNHNlE?oc=5>
+- 场馆: 凤凰网财经
+- 时间: 2026-08-26 05:37
+- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE1xb1RLd21iekdJWTJzdG82TTNvX2x2U1p2Q3ROSnJoS2V2aGpfbnVCcFU3cHJ6RXpmZE80cXhSSFM1MFI2d2hpcWZVQ013aG1T?oc=5>
+
+### 美国音乐传奇去世，特朗普：全美降半旗一周
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中国网新闻中心
+- 时间: 2026-08-26 04:19
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE5kNUM3YUVEVW1jRWNOQkFLd1JFM3J3ajVQQ2tlMHRrejJkYUVsSm96bE8zRTB0WWhnYkR1d3N6Q3pQY3dmamRSX09WRjBmSWJQY251Ynd6UmhLdmFPLTdBNUZlQTAxLUw1VjJv?oc=5>
+
+### “伊朗悬赏1000万美元追杀特朗普小儿子” 美国特勤局回应
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新京报
+- 时间: 2026-08-25 17:00
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9EYnJpUkpNMnJLSmJBR2xXSTdtdklwNTZHUHdPdXhDYzJtcE5QZVNOSUxxYUR2TzJQMXVrMWhHd1lPcFhWTTVQUjNhbjVOWFlhMjNtZ0U4aDc5YTdrbER1NDhHaFY?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-26 10:28  (5 条)
+
+- **特朗普** | 对加拿大态度强硬，特朗普底气何来？ <https://news.google.com/rss/articles/CBMiTEFVX3lxTE42WVpIX0xwOG1wclc0MWZMNEQ5cC1Gd2hNS0FBWjNrNjhhbEJxekg2UWt2d1VqRGdkbEdPeGRXNnNFdjhCWTJhSUo5SWo?oc=5>
+- **特朗普** | 去你的！福特怒怼特朗普：敢动安大略试试，150万户美国家庭断电 <https://news.google.com/rss/articles/CBMickFVX3lxTFBockdWWHFZc05YYTFIY1ZKMGtDSGUxVnkxQzlJWW84UUVEMl9DelFGQVF5Y1F0VjJ1T0stUVFTeHBMdVFGeVRNN2hZSng3cG9hZjZlUGNxLXJSZ2RiY0FhMEdOc1lQaVoySUNFWnZQaUg1UQ?oc=5>
+- **特朗普** | 福特骂完特朗普后上五大美国电视台紧急服软 <https://news.google.com/rss/articles/CBMiUEFVX3lxTE1xb1RLd21iekdJWTJzdG82TTNvX2x2U1p2Q3ROSnJoS2V2aGpfbnVCcFU3cHJ6RXpmZE80cXhSSFM1MFI2d2hpcWZVQ013aG1T?oc=5>
+- **特朗普** | 美国音乐传奇去世，特朗普：全美降半旗一周 <https://news.google.com/rss/articles/CBMia0FVX3lxTE5kNUM3YUVEVW1jRWNOQkFLd1JFM3J3ajVQQ2tlMHRrejJkYUVsSm96bE8zRTB0WWhnYkR1d3N6Q3pQY3dmamRSX09WRjBmSWJQY251Ynd6UmhLdmFPLTdBNUZlQTAxLUw1VjJv?oc=5>
+- **特朗普** | “伊朗悬赏1000万美元追杀特朗普小儿子” 美国特勤局回应 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9EYnJpUkpNMnJLSmJBR2xXSTdtdklwNTZHUHdPdXhDYzJtcE5QZVNOSUxxYUR2TzJQMXVrMWhHd1lPcFhWTTVQUjNhbjVOWFlhMjNtZ0U4aDc5YTdrbER1NDhHaFY?oc=5>
 
 ### 2026-08-26 09:34  (3 条)
 
