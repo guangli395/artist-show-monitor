@@ -1,56 +1,109 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-26 00:55**
-- 本轮扫到 10658 条, 新增 **5** 条
+- 最近更新: **2026-08-26 02:22**
+- 本轮扫到 10668 条, 新增 **10** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (10 条)
 
-### 美官员称特朗普已将美沙核协议提交国会审议
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 紫牛新闻
-- 时间: 2026-08-26 00:30
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE4tNkJacXNrSWFEOWY0d1pydDY0dFhRRzY5RjB0dEM0ekFhMTllaUVxbUdqYkh2cXZLQTV1cE9CNElLR2k5MV9DQnNxdnJidU9JWHhFVFZrcWhGT25DNThtSmtXNS1YSEV1eWc?oc=5>
-
-### 被曝秘密会晤特朗普女婿，民主党高层回应：没人能逃脱惩罚
+### 特朗普下令：全美降半旗一周
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-26 00:07
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFA0MFF4bkI0Z2pzVmRoanNIbE43RU5fMnNqTzJJVTFmOVZWa1JKTXdtZEFiUHg3b3ZBQnhsRHhCT1dRMG96TkNfTG1Dazk?oc=5>
+- 场馆: 新浪军事
+- 时间: 2026-08-26 01:16
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1jSTZqekdYbXJYYXNXbjdiTEdjcXhHdWF1djZBeHdxOUIxbWV6T3ZocFlnNTRMR1RzVXBNZnBkVjZocGZ0Yk9IaHFadGR0UFpHeXRNTHdNZVhVY2s0N1BJZDJraVlMNFB0a0ZrLW9kMlBhY1U?oc=5>
 
-### 特朗普三线极限施压，同时对准中国、加拿大、伊朗
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-25 10:00
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTnl6VFZjOHRaZ1JJVnlhZ3NjZDFYdFpNby1IR1N6bDFCenRtN3A3cm5OUzAtSk5uNlJUVW9zT3Z3eUprb0VqYjluVjAybi1hSmNPemtEV1k3UXVtUWYxS2Fsc2EtQzYwNEU3akcyUmNENC1mU09lRmFudGlUeDJ4QWVpcEVwQy1VWXZJX281WU5qX2N4NzNxcWtGY2tLTkJrcmpuWFhZQ2VvZWJDZkt5Y3VDZkNTUS0tRFJUYXA1UE1DYnlTekdYeEc0dTlNa2VP?oc=5>
-
-### 特朗普称霍尔木兹海峡“国际水域”水雷均已清除
+### 特朗普悼念多莉帕顿 传奇巨星陨落
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-08-25 23:06
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpTGFQb3p1d01GMEpzYzNud05HMDloWEVkTW5rR3VYS0wwYkNRY1diY2dnejQ5dzFkVmVwV3VQazNmemZoeHJpZWdnN2h0YldMQjd3SUd3THlwcDJGWERNQmREODc?oc=5>
+- 场馆: 中华网
+- 时间: 2026-08-26 01:35
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE95M1FKelBWNUNEZTkzQ0pNUm1tU05CaHhKVjhaR3kycHQwaVE2dXpVMDFlZ25fMGstUTFZaUVvd0lOekx3V2xOYTlTeEZaQTA5S2U2bFI0di01UGdpVk1Bajg5cTByU29Pd1ZMNmoxTmw?oc=5>
 
-### Trump Threatens to Rename Lake Ontario as Spat With Canada Escalates -- WSJ
+### 美国乡村音乐歌手多莉·帕顿去世 特朗普宣布降半旗一周
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 搜狐网
+- 时间: 2026-08-26 01:57
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxOR1RGZlZNX1NiLVQxVDRETFBrUG10VDZ3ZTFwQmkyemNoQmtSSDVjb2xDNUxZcWNFcVNnQ1MwaG1hQVN3Z0RDX2JnVUdBYjBZTW5tdDkzWGFJUWpsNDhfU3ltRGVXdFJBbjdjZXlIVjNoc2d6QmdFVnROOVVnR1R6R3V6cG4xcndJYm1kVQ?oc=5>
+
+### 民调：伊朗战事拖累特朗普支持率创新低--国际
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 人民网
+- 时间: 2026-08-26 00:51
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE5kcXVHS1pkMTJ0bEduY3Z2MHpOZVpvekd1UW5pSXFnV3ZyODdVRnVtYjFjbjM5X3hVSmJvS2lKY3hLekxGejI4YlFQMkZCU1lzSGl1U3F0TVR4M3BJMnNjc2dHWlNyaFlQZzVj?oc=5>
+
+### 安大略省长回击特朗普 坚决反击不屈服
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-08-26 00:52
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE53NlNVdDZfdkZkMms0UE5jVksyYnEtS1JlbG45M1hHRm1ORzIwb25XaUVJaGFtTG8tUDVvc25qaDV5OE5QcUV6bEQtLWQzQjJzU0Q0ZnA1SnViVTlpd05EUlVtUUxsaS1hQWxwVEVnal8?oc=5>
+
+### 1亿美元之谜 失信人周谷人如何成为特朗普家族代币最大金主
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Caixin Global
+- 时间: 2026-08-25 15:06
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XMGw2cExuVVF6bFdQdHl2dFlua1VIT1lmMHc0RXZPNmdjOXk2UzlETE9kN2paZmRJMkljNWRiV3V3b3lzeks5RHlwRDBFT0JBbEZ5am1MaVBYOHhPcVJINQ?oc=5>
+
+### 美国最高法院为特朗普政府限制邮寄选票留余地
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-08-25 10:17
+- 链接: <https://news.google.com/rss/articles/CBMid0FVX3lxTFBGX2JUNm9Mbkg2T0ZrMlQzcHRieTVDVHhJYTlnSVFFT1Q1RUpwbzZEUkFsdVpsOVh4bU41bjh2YlJza1JVemJnY0hENm5EdVoweGh6c0NTR2ZVUnlpUTREOXFLb2tkQ243U2xTMnZOY1pfWlMzSWF3?oc=5>
+
+### 币安交易平台新增 Trump Media & Technology Group (DJTB) bStocks 交易对 - 2026-08-26
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-08-25 23:46
-- 链接: <https://news.google.com/rss/articles/CBMiqAFBVV95cUxObDFzX1k2VzZBYXBOUlpRWmgxVTJkb291czl0akFBMjRxMEdRT1FRY01BUk9aVk0wX0VpV3ZPNGJSbHVEUURyVk5sVkJWcW8ydDZsanRfUHpPWW02NjFPakZaRHhvOV8yMnFqWGVQVHU5Q3hqNjd1YV9uY0htdWdNWlBnZDZnaVVpc2JyZlhkMXNObmotY1g3OHlYb3ZWNXdkYXZYaFZoUng?oc=5>
+- 场馆: Binance
+- 时间: 2026-08-25 10:00
+- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdjJ2TEZneV8xNmdMTE5JRFAzSlloM2xZbkhYMk1oN2JhWEk5Y1ZYdkMySGFvaDdkU19tUHY3WWRkeG1INUk5bmhYeDVEQ24tYkk4UFdteTBDdzk2N0ZxOVlqYXF3TUlKeGFYeEpVdXRKd01rQzNtY1g3dU1vUmNZcnFIaVJ4dWs4VTVN?oc=5>
+
+### 特朗普称认真考虑将安大略湖改名为“美国湖”
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 8world
+- 时间: 2026-08-26 00:59
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE5XRG4xV3AxWGE0bThEZmswaXRSbnJ3S3I0VTFyU1BGckpLeVZVeUszSlpkR3k2cXFpYXlpUEFiaURIUm05aHhKQ0ZsbHRNY3VzbjVhbTMtclFnUEktSkFTMmEwNU1PcDlXUlhKdVY5UXpyQQ?oc=5>
+
+### 面对Trump对话示意“连续10天沉默”……Kim Jongeun在政治局会议上聚焦内政- 阿视亚经济
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 아시아경제
+- 时间: 2026-08-26 01:15
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1uMWY0Y2VPd1pKc1NQeVRDR2UtNnlZZER6emhGVHJyOVhkbHBZZTZJZHpKa0YyajgwbldGRE9TNk0zVkNWeW1CNXpHX3NYTzhNS2c2R0dRV043T3lyNVpfVVVXcFM?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-26 02:22  (10 条)
+
+- **特朗普** | 特朗普下令：全美降半旗一周 <https://news.google.com/rss/articles/CBMic0FVX3lxTE1jSTZqekdYbXJYYXNXbjdiTEdjcXhHdWF1djZBeHdxOUIxbWV6T3ZocFlnNTRMR1RzVXBNZnBkVjZocGZ0Yk9IaHFadGR0UFpHeXRNTHdNZVhVY2s0N1BJZDJraVlMNFB0a0ZrLW9kMlBhY1U?oc=5>
+- **特朗普** | 特朗普悼念多莉帕顿 传奇巨星陨落 <https://news.google.com/rss/articles/CBMicEFVX3lxTE95M1FKelBWNUNEZTkzQ0pNUm1tU05CaHhKVjhaR3kycHQwaVE2dXpVMDFlZ25fMGstUTFZaUVvd0lOekx3V2xOYTlTeEZaQTA5S2U2bFI0di01UGdpVk1Bajg5cTByU29Pd1ZMNmoxTmw?oc=5>
+- **特朗普** | 美国乡村音乐歌手多莉·帕顿去世 特朗普宣布降半旗一周 <https://news.google.com/rss/articles/CBMijAFBVV95cUxOR1RGZlZNX1NiLVQxVDRETFBrUG10VDZ3ZTFwQmkyemNoQmtSSDVjb2xDNUxZcWNFcVNnQ1MwaG1hQVN3Z0RDX2JnVUdBYjBZTW5tdDkzWGFJUWpsNDhfU3ltRGVXdFJBbjdjZXlIVjNoc2d6QmdFVnROOVVnR1R6R3V6cG4xcndJYm1kVQ?oc=5>
+- **特朗普** | 民调：伊朗战事拖累特朗普支持率创新低--国际 <https://news.google.com/rss/articles/CBMia0FVX3lxTE5kcXVHS1pkMTJ0bEduY3Z2MHpOZVpvekd1UW5pSXFnV3ZyODdVRnVtYjFjbjM5X3hVSmJvS2lKY3hLekxGejI4YlFQMkZCU1lzSGl1U3F0TVR4M3BJMnNjc2dHWlNyaFlQZzVj?oc=5>
+- **特朗普** | 安大略省长回击特朗普 坚决反击不屈服 <https://news.google.com/rss/articles/CBMicEFVX3lxTE53NlNVdDZfdkZkMms0UE5jVksyYnEtS1JlbG45M1hHRm1ORzIwb25XaUVJaGFtTG8tUDVvc25qaDV5OE5QcUV6bEQtLWQzQjJzU0Q0ZnA1SnViVTlpd05EUlVtUUxsaS1hQWxwVEVnal8?oc=5>
+- **特朗普** | 1亿美元之谜 失信人周谷人如何成为特朗普家族代币最大金主 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XMGw2cExuVVF6bFdQdHl2dFlua1VIT1lmMHc0RXZPNmdjOXk2UzlETE9kN2paZmRJMkljNWRiV3V3b3lzeks5RHlwRDBFT0JBbEZ5am1MaVBYOHhPcVJINQ?oc=5>
+- **特朗普** | 美国最高法院为特朗普政府限制邮寄选票留余地 <https://news.google.com/rss/articles/CBMid0FVX3lxTFBGX2JUNm9Mbkg2T0ZrMlQzcHRieTVDVHhJYTlnSVFFT1Q1RUpwbzZEUkFsdVpsOVh4bU41bjh2YlJza1JVemJnY0hENm5EdVoweGh6c0NTR2ZVUnlpUTREOXFLb2tkQ243U2xTMnZOY1pfWlMzSWF3?oc=5>
+- **Trump** | 币安交易平台新增 Trump Media & Technology Group (DJTB) bStocks 交易对 - 2026-08-26 <https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdjJ2TEZneV8xNmdMTE5JRFAzSlloM2xZbkhYMk1oN2JhWEk5Y1ZYdkMySGFvaDdkU19tUHY3WWRkeG1INUk5bmhYeDVEQ24tYkk4UFdteTBDdzk2N0ZxOVlqYXF3TUlKeGFYeEpVdXRKd01rQzNtY1g3dU1vUmNZcnFIaVJ4dWs4VTVN?oc=5>
+- **Trump** | 特朗普称认真考虑将安大略湖改名为“美国湖” <https://news.google.com/rss/articles/CBMickFVX3lxTE5XRG4xV3AxWGE0bThEZmswaXRSbnJ3S3I0VTFyU1BGckpLeVZVeUszSlpkR3k2cXFpYXlpUEFiaURIUm05aHhKQ0ZsbHRNY3VzbjVhbTMtclFnUEktSkFTMmEwNU1PcDlXUlhKdVY5UXpyQQ?oc=5>
+- **Trump** | 面对Trump对话示意“连续10天沉默”……Kim Jongeun在政治局会议上聚焦内政- 阿视亚经济 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1uMWY0Y2VPd1pKc1NQeVRDR2UtNnlZZER6emhGVHJyOVhkbHBZZTZJZHpKa0YyajgwbldGRE9TNk0zVkNWeW1CNXpHX3NYTzhNS2c2R0dRV043T3lyNVpfVVVXcFM?oc=5>
 
 ### 2026-08-26 00:55  (5 条)
 
