@@ -1,40 +1,87 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-26 18:12**
-- 本轮扫到 10722 条, 新增 **3** 条
+- 最近更新: **2026-08-26 20:27**
+- 本轮扫到 10730 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (8 条)
 
-### 特朗普总统：伊朗最高领袖受重伤但并未死亡
+### 梁静茹给沙溢的勇气吗？ 竟想霸占歌手的演唱会自己上去唱，周深：给你美的
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_3622273694_md7e7829e03301k4b8.html>
+
+### 2024年周杰伦演唱会门票购买渠道
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879996581_1d5af34a506801i2t4.html>
+
+### 卡尼：绝不接受“附属国协议”，特朗普：乖乖听话
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-08-26 17:05
-- 链接: <https://news.google.com/rss/articles/CBMitwFBVV95cUxNc3FBYmdUMmpUUWhMM3lhNnNaZThJUWlmUzgyRXN0aThrTW5aTkRIMDRIcHBURVhwWmNYUm9NcDFGZEQ4OTVNUFJ0VExxckNBckpnNEFYTHdNcHRETi1fMnFHMl9GdGpqT1U4d01jWkN0U0FMdmdpZXN6akdGLXhTZjdVMjBUTUh2ZlRoaEtneFdlVDVJam9TMnN4cTJlTVdXT3JhZ3lqNmFEX0xrMGI0UFI0c2dGQWvSAboBQVVfeXFMT2xaN0Y1SjNaVXVuTzVQWmlKMnY2WExXRTAyTmVyUUJ5dW1DcW5Ja0Rka2hEclhyMWFGejlTZ1FGVUc1Mjh3MDdsMW5lMEZ0bVM2dW8tanYyNG5BV2ljdENvc2N1LUpkQ2ZyNDR0OFhoLUdJa2FwZFJSYVpGbExrQ19BVkNwV2JFM0UxZlFNUngzVnotNmQ0VGlRZE5oUTZvdThHYmpZaWxLMmJ3Nms2eHlFbU1Lem5hUUhR?oc=5>
+- 场馆: 观察者
+- 时间: 2026-08-24 23:06
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE80RlJpOTEwQUgySnhBRGRCUEdRUnhFTGExdFNQWHlTUk9nRXk5b0h1c0M1YXNIMzBCVXNzX1VaU1dtVGFadF9rRklhQ3puVVQtUW14QnU0UTNWV3lfMEdlSHJvcUlHS2FneHc?oc=5>
 
-### 加拿大回应特朗普安大略湖改名言论：没什么好商量的
+### 特朗普宣布：全美降半旗一周
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-08-26 16:07
-- 链接: <https://news.google.com/rss/articles/CBMiiANBVV95cUxQanZQcXVlcEljQWxRRnV0bXpwdFZkVXdBWEdnakJUa2VhVmhyWXlOYVg1Z0hWT0kwMXZtNW5QR2h4NzQ1MWJxTm9HUEUwMXIwckF3cEFud2FCQTdjNjhmSWZzdDFMVVpHQzl0UW1lVzJPRG1yZWZvRWMwT19hVjlKRXNaX1FnUkNzZGhGb3JIWEgxaDF4UW1nNnJ0TTFvblB4QnJFa0Vxb1V6dTBsenkxU3M0NWxjRTloV2pmb0NYT19FWGN1UTR3M1Zqb2cyTUZhRlFjTmoybGFaUmowUXEyclZnSzhmaFZBMVY4UkY4WWotT3ZUQzJ6UjRjSnZSWUlQYkxYWGlfaF9ESkNyckRZMUx6QmU4el9SbFNXVDBOZF9OTWR6b05uUXhWQXhvQUNOMExyTGxxeHBLRDJwRWdVNWdvRW9MRXhXNjBTbWNNOWZOYXV4ZnZrdUo1QWZNckkycmdsbEdXazRjODVBdVhabW41QlZsM245ZDY2QTdoVGRScVpFbkZBRg?oc=5>
+- 时间: 2026-08-26 09:09
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE1hNjNWbVptcGpFa3VjMzZmSEgwQ0QtV0FUR200c2lGeUt5SmpzOFFDblVidElYeFpNOXBrbk9FOTFoZnhUT0dEVHAxeG9TOHJjMFNXOTctWEpfdWxwTDVXV1Z2bnhISnZGQndmbWlQS3ZlbDlC?oc=5>
 
-### “伊朗悬赏1000万美元追杀特朗普小儿子”，美国特勤局回应
+### 特朗普下令：全美降半旗一周
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-08-26 12:45
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE41a3V2OUk2TUJDMllCb0s2ZU9qQngxTkp5TDJ1TXNpX3FmdkM2cXpLeXYzUkhFSWZUbTVaR1Jxak5ja1ZkWlhRNk9HYkpaUFpGMzRINEY1ODNNZHlnQm54MktIdUtraTMyRkFNWUYtQWw1bmdk?oc=5>
+- 场馆: 手机新浪网
+- 时间: 2026-08-26 18:46
+- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxPWHNLNE1CaVo3Rzl6VGNsb3Y0cXFpZW9JV21QTjA5VTNnZEN2WEZtZV9DY2hJZlczWXd4SmxYdGtXekVwMHhJQnlVUU5YNGRxZ29IcDJDU25ZeEU0QzNZQVV5Uk4zWGtINUdZbFhvVmswUGtkN2YzV1RoalloRGk2U1pB?oc=5>
+
+### 特朗普的贸易行动冲击关键州 共和党中期选举面临更大压力
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-26 18:56
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxNRk5LVWRoVjFPVWxWM1d1SHNqQzhtNmRaTjkxSk14eEx0Q3FDeTJzaDIzb1BfMlpXX1pPek9YbE40azdYV21XejdrZVcxb1V5TXllXzdLZzV2R1Z6UzA1TVZMTElzemtqR3c1V2NmendQVWR4dlNnZUFrdjlhcGlLbDFHb090b00?oc=5>
+
+### 美国盟友质疑特朗普关于霍尔木兹海峡已无水雷的说法
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-26 19:34
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxPN0xuZTVNMkt4eU5IRXlUWnFiemVMZzAxOFlQanBaYVRSWXB5ekRZYjMxOW9iTGhqM0xWY2hpeVdjMFZNcWdkdFRwbFYyNGczdWxRRzc2WTVZV0xBdFZBTEJxNDVUdjhzLS00eElIbVlPVWFHZHhGYzQtS0NBQ2lYdnN5ZVl4UGNPYW8xUEFvZkFOQ2V4d1FWTXN4X0hVb21waTk0RlMwTDhVcFgtYVdpZVkyc3hTc005UW4xYzFzSnZvcHA5X3FzNDlfY05lcHgx?oc=5>
+
+### 今日 Trump Media & Technology Group Tokenized bStocks 价格｜DJTB 的实时价格、图表和市场数据
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Binance
+- 时间: 2026-08-26 14:21
+- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxPRXBzLUFvdHdKUy1NVDFVaExpY3dlMUhXaEZQT0FQUXRmQ3Z3XzB2NmxaQjAzd3JQNGNRUGlGaWJVMG9jMVk5Mmp3WjctRElsQi1qNVNyOWhiaWd2S3JCLVdVWlVXaVd0RmJlQnlaYWQ0ODZxVnJGVTRXdkJNSDdtSjJNelFIbzk4SEE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-26 20:27  (8 条)
+
+- **蔡徐坤** | 梁静茹给沙溢的勇气吗？ 竟想霸占歌手的演唱会自己上去唱，周深：给你美的 <https://k.sina.com.cn/article_3622273694_md7e7829e03301k4b8.html>
+- **周杰伦** | 2024年周杰伦演唱会门票购买渠道 <https://k.sina.com.cn/article_7879996581_1d5af34a506801i2t4.html>
+- **特朗普** | 卡尼：绝不接受“附属国协议”，特朗普：乖乖听话 <https://news.google.com/rss/articles/CBMiakFVX3lxTE80RlJpOTEwQUgySnhBRGRCUEdRUnhFTGExdFNQWHlTUk9nRXk5b0h1c0M1YXNIMzBCVXNzX1VaU1dtVGFadF9rRklhQ3puVVQtUW14QnU0UTNWV3lfMEdlSHJvcUlHS2FneHc?oc=5>
+- **特朗普** | 特朗普宣布：全美降半旗一周 <https://news.google.com/rss/articles/CBMidEFVX3lxTE1hNjNWbVptcGpFa3VjMzZmSEgwQ0QtV0FUR200c2lGeUt5SmpzOFFDblVidElYeFpNOXBrbk9FOTFoZnhUT0dEVHAxeG9TOHJjMFNXOTctWEpfdWxwTDVXV1Z2bnhISnZGQndmbWlQS3ZlbDlC?oc=5>
+- **特朗普** | 特朗普下令：全美降半旗一周 <https://news.google.com/rss/articles/CBMiggFBVV95cUxPWHNLNE1CaVo3Rzl6VGNsb3Y0cXFpZW9JV21QTjA5VTNnZEN2WEZtZV9DY2hJZlczWXd4SmxYdGtXekVwMHhJQnlVUU5YNGRxZ29IcDJDU25ZeEU0QzNZQVV5Uk4zWGtINUdZbFhvVmswUGtkN2YzV1RoalloRGk2U1pB?oc=5>
+- **特朗普** | 特朗普的贸易行动冲击关键州 共和党中期选举面临更大压力 <https://news.google.com/rss/articles/CBMihwFBVV95cUxNRk5LVWRoVjFPVWxWM1d1SHNqQzhtNmRaTjkxSk14eEx0Q3FDeTJzaDIzb1BfMlpXX1pPek9YbE40azdYV21XejdrZVcxb1V5TXllXzdLZzV2R1Z6UzA1TVZMTElzemtqR3c1V2NmendQVWR4dlNnZUFrdjlhcGlLbDFHb090b00?oc=5>
+- **特朗普** | 美国盟友质疑特朗普关于霍尔木兹海峡已无水雷的说法 <https://news.google.com/rss/articles/CBMi0AFBVV95cUxPN0xuZTVNMkt4eU5IRXlUWnFiemVMZzAxOFlQanBaYVRSWXB5ekRZYjMxOW9iTGhqM0xWY2hpeVdjMFZNcWdkdFRwbFYyNGczdWxRRzc2WTVZV0xBdFZBTEJxNDVUdjhzLS00eElIbVlPVWFHZHhGYzQtS0NBQ2lYdnN5ZVl4UGNPYW8xUEFvZkFOQ2V4d1FWTXN4X0hVb21waTk0RlMwTDhVcFgtYVdpZVkyc3hTc005UW4xYzFzSnZvcHA5X3FzNDlfY05lcHgx?oc=5>
+- **Trump** | 今日 Trump Media & Technology Group Tokenized bStocks 价格｜DJTB 的实时价格、图表和市场数据 <https://news.google.com/rss/articles/CBMiigFBVV95cUxPRXBzLUFvdHdKUy1NVDFVaExpY3dlMUhXaEZQT0FQUXRmQ3Z3XzB2NmxaQjAzd3JQNGNRUGlGaWJVMG9jMVk5Mmp3WjctRElsQi1qNVNyOWhiaWd2S3JCLVdVWlVXaVd0RmJlQnlaYWQ0ODZxVnJGVTRXdkJNSDdtSjJNelFIbzk4SEE?oc=5>
 
 ### 2026-08-26 18:12  (3 条)
 
