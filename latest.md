@@ -1,96 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-26 02:22**
-- 本轮扫到 10668 条, 新增 **10** 条
+- 最近更新: **2026-08-26 03:31**
+- 本轮扫到 10672 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (10 条)
+## 本轮新发现 (4 条)
 
-### 特朗普下令：全美降半旗一周
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪军事
-- 时间: 2026-08-26 01:16
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1jSTZqekdYbXJYYXNXbjdiTEdjcXhHdWF1djZBeHdxOUIxbWV6T3ZocFlnNTRMR1RzVXBNZnBkVjZocGZ0Yk9IaHFadGR0UFpHeXRNTHdNZVhVY2s0N1BJZDJraVlMNFB0a0ZrLW9kMlBhY1U?oc=5>
-
-### 特朗普悼念多莉帕顿 传奇巨星陨落
+### 特朗普签令也没用！联邦机构互相推诿，造房子贷款利率逼近两位数
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-08-26 01:35
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE95M1FKelBWNUNEZTkzQ0pNUm1tU05CaHhKVjhaR3kycHQwaVE2dXpVMDFlZ25fMGstUTFZaUVvd0lOekx3V2xOYTlTeEZaQTA5S2U2bFI0di01UGdpVk1Bajg5cTByU29Pd1ZMNmoxTmw?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-08-26 01:48
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE1tRzFlalQ0MllDdlNoeFpYVDlFNDZ3djZtbHBFVzROUkFvWTB3dVhaYWtJWlFKem5Bd1kzZjN5TjdVSjNhT2thVEhFcDhEN1JDQi1xSUhzRlY0M0pzY2xEU2J0WHE4OUFDS1BYMnZ5ZV9VZw?oc=5>
 
-### 美国乡村音乐歌手多莉·帕顿去世 特朗普宣布降半旗一周
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-08-26 01:57
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxOR1RGZlZNX1NiLVQxVDRETFBrUG10VDZ3ZTFwQmkyemNoQmtSSDVjb2xDNUxZcWNFcVNnQ1MwaG1hQVN3Z0RDX2JnVUdBYjBZTW5tdDkzWGFJUWpsNDhfU3ltRGVXdFJBbjdjZXlIVjNoc2d6QmdFVnROOVVnR1R6R3V6cG4xcndJYm1kVQ?oc=5>
-
-### 民调：伊朗战事拖累特朗普支持率创新低--国际
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 人民网
-- 时间: 2026-08-26 00:51
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE5kcXVHS1pkMTJ0bEduY3Z2MHpOZVpvekd1UW5pSXFnV3ZyODdVRnVtYjFjbjM5X3hVSmJvS2lKY3hLekxGejI4YlFQMkZCU1lzSGl1U3F0TVR4M3BJMnNjc2dHWlNyaFlQZzVj?oc=5>
-
-### 安大略省长回击特朗普 坚决反击不屈服
+### 伊朗电视台教人刺杀特朗普儿子！公开悬赏特朗普幼子 行踪被全面监控
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 中华网
-- 时间: 2026-08-26 00:52
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE53NlNVdDZfdkZkMms0UE5jVksyYnEtS1JlbG45M1hHRm1ORzIwb25XaUVJaGFtTG8tUDVvc25qaDV5OE5QcUV6bEQtLWQzQjJzU0Q0ZnA1SnViVTlpd05EUlVtUUxsaS1hQWxwVEVnal8?oc=5>
+- 时间: 2026-08-26 02:32
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5FVXdDbF9hTUNKb3J2UHo1Q0xlTnQzTEs2MFNWSC1rZDRUYlU1YVRMOFZJRTBVZDdJUW9pOTRJT25yMUVZR1hvNU1pUTEta1A5bzBEaHFqY2xBM1dZVEU1TktNRHB1ZGRwTmt4azFmOVA?oc=5>
 
-### 1亿美元之谜 失信人周谷人如何成为特朗普家族代币最大金主
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: Caixin Global
-- 时间: 2026-08-25 15:06
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XMGw2cExuVVF6bFdQdHl2dFlua1VIT1lmMHc0RXZPNmdjOXk2UzlETE9kN2paZmRJMkljNWRiV3V3b3lzeks5RHlwRDBFT0JBbEZ5am1MaVBYOHhPcVJINQ?oc=5>
-
-### 美国最高法院为特朗普政府限制邮寄选票留余地
+### 特朗普加码“报复”！李在明没想到拒绝这么痛，但美国也没落到好
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-08-25 10:17
-- 链接: <https://news.google.com/rss/articles/CBMid0FVX3lxTFBGX2JUNm9Mbkg2T0ZrMlQzcHRieTVDVHhJYTlnSVFFT1Q1RUpwbzZEUkFsdVpsOVh4bU41bjh2YlJza1JVemJnY0hENm5EdVoweGh6c0NTR2ZVUnlpUTREOXFLb2tkQ243U2xTMnZOY1pfWlMzSWF3?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-08-26 02:06
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9PQWNtNmFtTmprZjZ4UE1DRkVEXzgtMlJTZWl6cTB3UExjaVp2bnJyaVcwRzJiM0pBOHdRQVo3N2hkSUZKZHdlRGxxTQ?oc=5>
 
-### 币安交易平台新增 Trump Media & Technology Group (DJTB) bStocks 交易对 - 2026-08-26
+### 特朗普：霍尔木兹海峡国际水域内所有水雷已被清除或引爆
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Binance
-- 时间: 2026-08-25 10:00
-- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdjJ2TEZneV8xNmdMTE5JRFAzSlloM2xZbkhYMk1oN2JhWEk5Y1ZYdkMySGFvaDdkU19tUHY3WWRkeG1INUk5bmhYeDVEQ24tYkk4UFdteTBDdzk2N0ZxOVlqYXF3TUlKeGFYeEpVdXRKd01rQzNtY1g3dU1vUmNZcnFIaVJ4dWs4VTVN?oc=5>
-
-### 特朗普称认真考虑将安大略湖改名为“美国湖”
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-08-26 00:59
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE5XRG4xV3AxWGE0bThEZmswaXRSbnJ3S3I0VTFyU1BGckpLeVZVeUszSlpkR3k2cXFpYXlpUEFiaURIUm05aHhKQ0ZsbHRNY3VzbjVhbTMtclFnUEktSkFTMmEwNU1PcDlXUlhKdVY5UXpyQQ?oc=5>
-
-### 面对Trump对话示意“连续10天沉默”……Kim Jongeun在政治局会议上聚焦内政- 阿视亚经济
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 아시아경제
-- 时间: 2026-08-26 01:15
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1uMWY0Y2VPd1pKc1NQeVRDR2UtNnlZZER6emhGVHJyOVhkbHBZZTZJZHpKa0YyajgwbldGRE9TNk0zVkNWeW1CNXpHX3NYTzhNS2c2R0dRV043T3lyNVpfVVVXcFM?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-25 23:39
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9welVrclNqWHFvRWFjQjUwT0xETGt5enZ3Qjk3cTFpbXdkLUhkOXhJNEVoTktUN0ZtVGVTaDlDNVFaeUlTa2ozbEpoSlQtOXhWWUNFMTV0WmdzdEZjb1FRWGdXVVNRblJsVDdkOFZXdGdabTFDUmo1ZQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-26 03:31  (4 条)
+
+- **特朗普** | 特朗普签令也没用！联邦机构互相推诿，造房子贷款利率逼近两位数 <https://news.google.com/rss/articles/CBMickFVX3lxTE1tRzFlalQ0MllDdlNoeFpYVDlFNDZ3djZtbHBFVzROUkFvWTB3dVhaYWtJWlFKem5Bd1kzZjN5TjdVSjNhT2thVEhFcDhEN1JDQi1xSUhzRlY0M0pzY2xEU2J0WHE4OUFDS1BYMnZ5ZV9VZw?oc=5>
+- **特朗普** | 伊朗电视台教人刺杀特朗普儿子！公开悬赏特朗普幼子 行踪被全面监控 <https://news.google.com/rss/articles/CBMicEFVX3lxTE5FVXdDbF9hTUNKb3J2UHo1Q0xlTnQzTEs2MFNWSC1rZDRUYlU1YVRMOFZJRTBVZDdJUW9pOTRJT25yMUVZR1hvNU1pUTEta1A5bzBEaHFqY2xBM1dZVEU1TktNRHB1ZGRwTmt4azFmOVA?oc=5>
+- **特朗普** | 特朗普加码“报复”！李在明没想到拒绝这么痛，但美国也没落到好 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9PQWNtNmFtTmprZjZ4UE1DRkVEXzgtMlJTZWl6cTB3UExjaVp2bnJyaVcwRzJiM0pBOHdRQVo3N2hkSUZKZHdlRGxxTQ?oc=5>
+- **特朗普** | 特朗普：霍尔木兹海峡国际水域内所有水雷已被清除或引爆 <https://news.google.com/rss/articles/CBMieEFVX3lxTE9welVrclNqWHFvRWFjQjUwT0xETGt5enZ3Qjk3cTFpbXdkLUhkOXhJNEVoTktUN0ZtVGVTaDlDNVFaeUlTa2ozbEpoSlQtOXhWWUNFMTV0WmdzdEZjb1FRWGdXVVNRblJsVDdkOFZXdGdabTFDUmo1ZQ?oc=5>
 
 ### 2026-08-26 02:22  (10 条)
 
