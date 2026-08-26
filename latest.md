@@ -1,76 +1,82 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-26 20:27**
-- 本轮扫到 10730 条, 新增 **8** 条
+- 最近更新: **2026-08-26 23:57**
+- 本轮扫到 10737 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (7 条)
 
-### 梁静茹给沙溢的勇气吗？ 竟想霸占歌手的演唱会自己上去唱，周深：给你美的
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_3622273694_md7e7829e03301k4b8.html>
-
-### 2024年周杰伦演唱会门票购买渠道
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879996581_1d5af34a506801i2t4.html>
-
-### 卡尼：绝不接受“附属国协议”，特朗普：乖乖听话
+### 特朗普：对于伊朗何时重返谈判“没有时间表”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-08-24 23:06
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE80RlJpOTEwQUgySnhBRGRCUEdRUnhFTGExdFNQWHlTUk9nRXk5b0h1c0M1YXNIMzBCVXNzX1VaU1dtVGFadF9rRklhQ3puVVQtUW14QnU0UTNWV3lfMEdlSHJvcUlHS2FneHc?oc=5>
+- 场馆: 央视网
+- 时间: 2026-08-26 22:03
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9pRWNZcTZaUHNMNndMOTJFNlJaZHkxaWpxY0pBMmdpY1hIdVRCSjlTOV9TeUlZVEhnNTFYWXF1SVV3Z1VsbTU0ekZGejYxYTd4cW5BRmlJNTVaTTdHYnA0V3Fqc1k5V29vRzUtRGRKWWxJT3U1N2hJRA?oc=5>
 
-### 特朗普宣布：全美降半旗一周
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-08-26 09:09
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE1hNjNWbVptcGpFa3VjMzZmSEgwQ0QtV0FUR200c2lGeUt5SmpzOFFDblVidElYeFpNOXBrbk9FOTFoZnhUT0dEVHAxeG9TOHJjMFNXOTctWEpfdWxwTDVXV1Z2bnhISnZGQndmbWlQS3ZlbDlC?oc=5>
-
-### 特朗普下令：全美降半旗一周
+### 要闻解说 - 伊朗和阿曼就霍尔木兹海峡扫雷作业展开谈判， 特朗普以轰炸威胁阿曼
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-08-26 18:46
-- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxPWHNLNE1CaVo3Rzl6VGNsb3Y0cXFpZW9JV21QTjA5VTNnZEN2WEZtZV9DY2hJZlczWXd4SmxYdGtXekVwMHhJQnlVUU5YNGRxZ29IcDJDU25ZeEU0QzNZQVV5Uk4zWGtINUdZbFhvVmswUGtkN2YzV1RoalloRGk2U1pB?oc=5>
+- 场馆: RFI
+- 时间: 2026-08-26 23:36
+- 链接: <https://news.google.com/rss/articles/CBMingRBVV95cUxPeDNNUElqY0xOR0J5VWRwb0lYZE0zbTVneFQ5SXh6V25GVVRta2ZnRU5TQzI4dmd4RDl3U3B2alFXQk1JOThUb1czcXJaWmxVdFdBRG1JZ0tyUE5EbDlrM0RQdW5QY2hqd1l4NFZEMjkyamlwdElkcVY3UlZGaXhxdVNFZ09RaVhVbjdwTzFVVFFfdWtubjlSV2ZwNFNEYm9Wc0hsN1V4U3dtNksybi1OZmtPZzNabGFtb1lBZndBbGcxcmlUWDN2bmFzV0tsQVZ1ZTJndmRGdmdEUnJXSGVzVnJzYVg1QWRITlBzQS0wWXFBSEQ5QjdvYXQzUnlSQmtCQ29fS2hoRjJBNFFkMHh3YnRtUDBLcTRNN2cwOE11U1phazZkRi1relNHUlFKelU3OEpiWDJYWDB6dndzc01xck5LazgyczhvZWVOZC05WGdRcTVJVlc4N0FNcXBoSGZ6Qm5DNk10OWVDU0V4M2w2T2ROaUxrOXFJN0p3Ym9FTmUzcnpLWlVhX0ZwQmJ3VW92WTFzZno1ZEVZNFNoQUxvQnZHeFR2bjU1bDRYbnNzb3FZeWJ0SG5zdWdtU3NSR1hTYmtMVWVTdXA3X2tqdmEtR0dmYXI0ZzhkcXYtNTVUU3hyT2ZmT2swOXFvZHhLZ184b3RjaWlCY1ExT2ZLbWQxUHFMUDBmUmdsTEd6alczU2t4SXZseVB3cDZ6bkJKQQ?oc=5>
 
-### 特朗普的贸易行动冲击关键州 共和党中期选举面临更大压力
+### 美方“换打法” 伊朗“不妥协” 双方对峙进入僵持阶段
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: China Daily
+- 时间: 2026-08-26 23:00
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1haUFFYWdBVmZKbHlJV3NtcXBrV2R6aWxXTFhqMzgwQ0REczMxNFEteDBGeDduZ3lFRFgtRDg5ZVBiVDZuamVOOGh5ZzByby1GbDk1V0hoSW5KaTY3NHhUNThEb1dpcjNHUzRiNHFubVBsQ2FldVVJX2ZkWGVXTk0?oc=5>
+
+### 特朗普再次宣称：“没有我，就没有以色列”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-08-26 18:56
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxNRk5LVWRoVjFPVWxWM1d1SHNqQzhtNmRaTjkxSk14eEx0Q3FDeTJzaDIzb1BfMlpXX1pPek9YbE40azdYV21XejdrZVcxb1V5TXllXzdLZzV2R1Z6UzA1TVZMTElzemtqR3c1V2NmendQVWR4dlNnZUFrdjlhcGlLbDFHb090b00?oc=5>
+- 时间: 2026-08-26 23:21
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFAzUWFRLUlScF9KYmd1Y2p0cnJIeUlvZUxid1VFU0dQZWVnYkQ1NE5GVDJyYXJ6SEFUSHJhQ0RId2dmLWRFam1wVm9QWVd4bjZQUUdmOEQ0SU1fUEgya0JWRldyVU9wSXhlT3RtMHcxLXRUZS1PNklLeg?oc=5>
 
-### 美国盟友质疑特朗普关于霍尔木兹海峡已无水雷的说法
+### 美国音乐传奇去世，特朗普：全美降半旗一周
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-26 19:34
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxPN0xuZTVNMkt4eU5IRXlUWnFiemVMZzAxOFlQanBaYVRSWXB5ekRZYjMxOW9iTGhqM0xWY2hpeVdjMFZNcWdkdFRwbFYyNGczdWxRRzc2WTVZV0xBdFZBTEJxNDVUdjhzLS00eElIbVlPVWFHZHhGYzQtS0NBQ2lYdnN5ZVl4UGNPYW8xUEFvZkFOQ2V4d1FWTXN4X0hVb21waTk0RlMwTDhVcFgtYVdpZVkyc3hTc005UW4xYzFzSnZvcHA5X3FzNDlfY05lcHgx?oc=5>
+- 场馆: finance.sina.com.cn
+- 时间: 2026-08-26 04:23
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBYb3ZLcTA1NXdRNVRrQ0RPREpBM1NFNUpnLXJRMElhekJ6UEVXUzZnc0xwd3oxX1JWbWZlNVlpTDhNWTFGXzZTU1B6YklNdW1DU1JraEZCSEoybzc1eC1DMFdyUV9wcDVQMmdzd2l3TjhTQTBSajZIWA?oc=5>
 
-### 今日 Trump Media & Technology Group Tokenized bStocks 价格｜DJTB 的实时价格、图表和市场数据
+### 特朗普欲为安大略湖改名 加拿大表不满
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中国网新闻中心
+- 时间: 2026-08-26 08:26
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE9Hd1dNODJYR2F4dWpLWXduRmtuV0tkSmtPenhwVUJ0ZDllWXU3YUxaWEQ5dGQ5ODRrdTdvX1pyYXNGanlNSEZSYzJNV0pLYUwwMk1jODhWeURWUS1NU0lqdWwtbDI4aTdLejdZ?oc=5>
+
+### 特朗普总统说中情局局长访俄“可能会有结果”
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Binance
-- 时间: 2026-08-26 14:21
-- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxPRXBzLUFvdHdKUy1NVDFVaExpY3dlMUhXaEZQT0FQUXRmQ3Z3XzB2NmxaQjAzd3JQNGNRUGlGaWJVMG9jMVk5Mmp3WjctRElsQi1qNVNyOWhiaWd2S3JCLVdVWlVXaVd0RmJlQnlaYWQ0ODZxVnJGVTRXdkJNSDdtSjJNelFIbzk4SEE?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-08-26 21:54
+- 链接: <https://news.google.com/rss/articles/CBMitgFBVV95cUxOTXN3YzFObzFzanVYc0RhclpCUEpReldEdGhLN3hjakhFMGtBbEYwLWd2bkZJUTcxUXBkZkZvOWJWUU0tUEpxRERROXZHdVNJQWwyX29oS2xfSDZBN1NldTJZZ2JrSHlZMTBiNFFaVEw3NkZmMW5nckFISms1blllWFpiMVdrUzR3TEdSTTlmZTVqRFdwWWp3UHJtaVZ2cVBGM1VoQWx0WFdPT2lNaDVoWXh0QlNKQdIBuAFBVV95cUxPUjJubGFmUkl5cEVBZ3dNT1JDSGJTV1FGRjJJMEEtV2FVQ1V2Njc2ZTl4akR2M19KZEwxTG5yV0hhOFNmbU5Sd1FabVFUZjA5VnhFakVMc09kbkpBSmVoWFFOS1ZUemk0QlZmamllZXlyaFdxZlZ5WFkxOVVlRmhWaVB5bmdia3pfWlBsZUtGQmdwbzFwbXVFcjJ5NXNNS3lKckpOWVFCVFZnaDVoSXNpZWtuOF9HNzdt?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-26 23:57  (7 条)
+
+- **特朗普** | 特朗普：对于伊朗何时重返谈判“没有时间表” <https://news.google.com/rss/articles/CBMieEFVX3lxTE9pRWNZcTZaUHNMNndMOTJFNlJaZHkxaWpxY0pBMmdpY1hIdVRCSjlTOV9TeUlZVEhnNTFYWXF1SVV3Z1VsbTU0ekZGejYxYTd4cW5BRmlJNTVaTTdHYnA0V3Fqc1k5V29vRzUtRGRKWWxJT3U1N2hJRA?oc=5>
+- **特朗普** | 要闻解说 - 伊朗和阿曼就霍尔木兹海峡扫雷作业展开谈判， 特朗普以轰炸威胁阿曼 <https://news.google.com/rss/articles/CBMingRBVV95cUxPeDNNUElqY0xOR0J5VWRwb0lYZE0zbTVneFQ5SXh6V25GVVRta2ZnRU5TQzI4dmd4RDl3U3B2alFXQk1JOThUb1czcXJaWmxVdFdBRG1JZ0tyUE5EbDlrM0RQdW5QY2hqd1l4NFZEMjkyamlwdElkcVY3UlZGaXhxdVNFZ09RaVhVbjdwTzFVVFFfdWtubjlSV2ZwNFNEYm9Wc0hsN1V4U3dtNksybi1OZmtPZzNabGFtb1lBZndBbGcxcmlUWDN2bmFzV0tsQVZ1ZTJndmRGdmdEUnJXSGVzVnJzYVg1QWRITlBzQS0wWXFBSEQ5QjdvYXQzUnlSQmtCQ29fS2hoRjJBNFFkMHh3YnRtUDBLcTRNN2cwOE11U1phazZkRi1relNHUlFKelU3OEpiWDJYWDB6dndzc01xck5LazgyczhvZWVOZC05WGdRcTVJVlc4N0FNcXBoSGZ6Qm5DNk10OWVDU0V4M2w2T2ROaUxrOXFJN0p3Ym9FTmUzcnpLWlVhX0ZwQmJ3VW92WTFzZno1ZEVZNFNoQUxvQnZHeFR2bjU1bDRYbnNzb3FZeWJ0SG5zdWdtU3NSR1hTYmtMVWVTdXA3X2tqdmEtR0dmYXI0ZzhkcXYtNTVUU3hyT2ZmT2swOXFvZHhLZ184b3RjaWlCY1ExT2ZLbWQxUHFMUDBmUmdsTEd6alczU2t4SXZseVB3cDZ6bkJKQQ?oc=5>
+- **特朗普** | 美方“换打法” 伊朗“不妥协” 双方对峙进入僵持阶段 <https://news.google.com/rss/articles/CBMif0FVX3lxTE1haUFFYWdBVmZKbHlJV3NtcXBrV2R6aWxXTFhqMzgwQ0REczMxNFEteDBGeDduZ3lFRFgtRDg5ZVBiVDZuamVOOGh5ZzByby1GbDk1V0hoSW5KaTY3NHhUNThEb1dpcjNHUzRiNHFubVBsQ2FldVVJX2ZkWGVXTk0?oc=5>
+- **特朗普** | 特朗普再次宣称：“没有我，就没有以色列” <https://news.google.com/rss/articles/CBMieEFVX3lxTFAzUWFRLUlScF9KYmd1Y2p0cnJIeUlvZUxid1VFU0dQZWVnYkQ1NE5GVDJyYXJ6SEFUSHJhQ0RId2dmLWRFam1wVm9QWVd4bjZQUUdmOEQ0SU1fUEgya0JWRldyVU9wSXhlT3RtMHcxLXRUZS1PNklLeg?oc=5>
+- **特朗普** | 美国音乐传奇去世，特朗普：全美降半旗一周 <https://news.google.com/rss/articles/CBMieEFVX3lxTFBYb3ZLcTA1NXdRNVRrQ0RPREpBM1NFNUpnLXJRMElhekJ6UEVXUzZnc0xwd3oxX1JWbWZlNVlpTDhNWTFGXzZTU1B6YklNdW1DU1JraEZCSEoybzc1eC1DMFdyUV9wcDVQMmdzd2l3TjhTQTBSajZIWA?oc=5>
+- **特朗普** | 特朗普欲为安大略湖改名 加拿大表不满 <https://news.google.com/rss/articles/CBMia0FVX3lxTE9Hd1dNODJYR2F4dWpLWXduRmtuV0tkSmtPenhwVUJ0ZDllWXU3YUxaWEQ5dGQ5ODRrdTdvX1pyYXNGanlNSEZSYzJNV0pLYUwwMk1jODhWeURWUS1NU0lqdWwtbDI4aTdLejdZ?oc=5>
+- **Trump** | 特朗普总统说中情局局长访俄“可能会有结果” <https://news.google.com/rss/articles/CBMitgFBVV95cUxOTXN3YzFObzFzanVYc0RhclpCUEpReldEdGhLN3hjakhFMGtBbEYwLWd2bkZJUTcxUXBkZkZvOWJWUU0tUEpxRERROXZHdVNJQWwyX29oS2xfSDZBN1NldTJZZ2JrSHlZMTBiNFFaVEw3NkZmMW5nckFISms1blllWFpiMVdrUzR3TEdSTTlmZTVqRFdwWWp3UHJtaVZ2cVBGM1VoQWx0WFdPT2lNaDVoWXh0QlNKQdIBuAFBVV95cUxPUjJubGFmUkl5cEVBZ3dNT1JDSGJTV1FGRjJJMEEtV2FVQ1V2Njc2ZTl4akR2M19KZEwxTG5yV0hhOFNmbU5Sd1FabVFUZjA5VnhFakVMc09kbkpBSmVoWFFOS1ZUemk0QlZmamllZXlyaFdxZlZ5WFkxOVVlRmhWaVB5bmdia3pfWlBsZUtGQmdwbzFwbXVFcjJ5NXNNS3lKckpOWVFCVFZnaDVoSXNpZWtuOF9HNzdt?oc=5>
 
 ### 2026-08-26 20:27  (8 条)
 
