@@ -1,56 +1,28 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-26 10:28**
-- 本轮扫到 10700 条, 新增 **5** 条
+- 最近更新: **2026-08-26 11:01**
+- 本轮扫到 10701 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (1 条)
 
-### 对加拿大态度强硬，特朗普底气何来？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-26 03:00
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE42WVpIX0xwOG1wclc0MWZMNEQ5cC1Gd2hNS0FBWjNrNjhhbEJxekg2UWt2d1VqRGdkbEdPeGRXNnNFdjhCWTJhSUo5SWo?oc=5>
-
-### 去你的！福特怒怼特朗普：敢动安大略试试，150万户美国家庭断电
+### 美海军上将与特朗普“打擂台”：电磁弹射效率明显高于蒸弹
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-08-26 10:20
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFBockdWWHFZc05YYTFIY1ZKMGtDSGUxVnkxQzlJWW84UUVEMl9DelFGQVF5Y1F0VjJ1T0stUVFTeHBMdVFGeVRNN2hZSng3cG9hZjZlUGNxLXJSZ2RiY0FhMEdOc1lQaVoySUNFWnZQaUg1UQ?oc=5>
-
-### 福特骂完特朗普后上五大美国电视台紧急服软
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网财经
-- 时间: 2026-08-26 05:37
-- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE1xb1RLd21iekdJWTJzdG82TTNvX2x2U1p2Q3ROSnJoS2V2aGpfbnVCcFU3cHJ6RXpmZE80cXhSSFM1MFI2d2hpcWZVQ013aG1T?oc=5>
-
-### 美国音乐传奇去世，特朗普：全美降半旗一周
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中国网新闻中心
-- 时间: 2026-08-26 04:19
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE5kNUM3YUVEVW1jRWNOQkFLd1JFM3J3ajVQQ2tlMHRrejJkYUVsSm96bE8zRTB0WWhnYkR1d3N6Q3pQY3dmamRSX09WRjBmSWJQY251Ynd6UmhLdmFPLTdBNUZlQTAxLUw1VjJv?oc=5>
-
-### “伊朗悬赏1000万美元追杀特朗普小儿子” 美国特勤局回应
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-08-25 17:00
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9EYnJpUkpNMnJLSmJBR2xXSTdtdklwNTZHUHdPdXhDYzJtcE5QZVNOSUxxYUR2TzJQMXVrMWhHd1lPcFhWTTVQUjNhbjVOWFlhMjNtZ0U4aDc5YTdrbER1NDhHaFY?oc=5>
+- 场馆: 手机新浪网
+- 时间: 2026-08-26 10:41
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9JcFBGbC15dk01a3F2QkpUSnJVbldhRXI1UHcxVEVTekYxcnpUUWZkdjdlZjBJSWJkMzU5NDVuSVM0c0RnUDgzQUlTS2JBLTViTTVYMXpWLVZWMzZiTDRKRVloMEtORHZaekI3YjJQM2s?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-26 11:01  (1 条)
+
+- **特朗普** | 美海军上将与特朗普“打擂台”：电磁弹射效率明显高于蒸弹 <https://news.google.com/rss/articles/CBMicEFVX3lxTE9JcFBGbC15dk01a3F2QkpUSnJVbldhRXI1UHcxVEVTekYxcnpUUWZkdjdlZjBJSWJkMzU5NDVuSVM0c0RnUDgzQUlTS2JBLTViTTVYMXpWLVZWMzZiTDRKRVloMEtORHZaekI3YjJQM2s?oc=5>
 
 ### 2026-08-26 10:28  (5 条)
 
