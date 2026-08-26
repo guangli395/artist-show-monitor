@@ -1,56 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-26 08:35**
-- 本轮扫到 10692 条, 新增 **5** 条
+- 最近更新: **2026-08-26 09:34**
+- 本轮扫到 10695 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (3 条)
 
-### 特朗普签备忘录：2030年实现每年发射超千次_手机新浪网
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-26 08:16
-- 链接: <https://news.google.com/rss/articles/CBMihAJBVV95cUxQUGZpNXN2bDhiSkVRQXh5aVRpY1lWckV4ZWgweW0yY05fbl9RcTNkTzBwLVEyZEtOaXRydGgwaHk2aGxHQktGM0UzQ0kzaVh2WGR3eEZNaHdaX0FFMW0zZjI3eWtNemZ3U1JHUTV6TlZBN3E3a2k0UmZzVEh2bDRxTDVOd05fUkw2ZWNKNGp3N1lUUzBnTjVpOG9maGNpV3JMR3JzZHFrSjdXOWlpdG14WFVNTU91UDZnSWVfV3ZQdVZQeUVsUHRjU09scll3S0hQTjlkZWZDdFF2T3VwSXhXWTVNQ2xWN0ZrbVlGLUpfcHBCZ1JLbG9JbzBtbDFzb3VVSW52eA?oc=5>
-
-### 特朗普声称美国已清除霍尔木兹海峡所有水雷，伊朗受到威胁
+### 特朗普称霍尔木兹海峡国际水域内水雷均已被清除
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: idnfinancials.com
-- 时间: 2026-08-26 08:00
-- 链接: <https://news.google.com/rss/articles/CBMijwNBVV95cUxNM3J4YWFEVEpfSGNmUnc1SUNFanlHUHRMWUJzWjQtT3h5Z0xhTUNVdFNvMHFqWW5PYlFzQVZsa1V1UE5mLWlpTjZab1lmZDhyNmZRdlM5TG9qWGpzeE9GRW93c2VvMktMLU00a2JNYkN2MGZkVnUzOW1Cdk9UT2cwci1xYWliTFQwekt5QXJVRmdtVWRYS3VPVFZVdThnNTBTYVJueURwb0hfSVdCaURLVlBHcE5Bdkh1OGE4RVF6b3pfUUQwVnlCMDU4TE1vRWxGYWR0TVN2R0tOSklSTmlQRXBoRXNQNEwtZzVtSW8xUjM5OWpocjZadnY1eTRJSHZxODFuX2VMQjlabDEwdFU1TFZ4b0FvVGtQc1BjR25xRG1ueFA2eWNSc040d3JBa3RCalJsSDd6R2Q0WlFMcEppZGFLZi1JUUEydU5rRDRNQzdKZHd3c1BkNUNCTzFONHE1cGl5X1k4UGFlekVkaW5LQ0ptdWJkMnpEcFVSODJ5TktrODVKLXUyMFVXeURqc3M?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-08-26 08:37
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5xV0Z2YTJtNVZ2c0VEZ2VtTW9vYVk4Q01wQmw1YXhwbmdmUWpoLURuQUNxM1lKSzBIY1o3azk4TWdqWDV0aEEwd2E4ZFNhbktJZUlCU0FyYWtLLTI5eHA1Vk5ybkNmOFBiZkEtd09CSnB0Sl9Qa3VTcg?oc=5>
 
-### 特朗普重发缩减美韩军演贴文 再向金正恩释放友好信号
+### “伊朗悬赏千万美元追杀巴伦·特朗普”，美特勤局回应
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-08-26 06:43
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9fRzlWSXZsOTR2WDZfaWVmcWZmMkg5a1NjY2ZqZkpyVTdKdlVNTGVsVmRFNjZWOVBwWEhxb3R0TXgyMnBSODJpcHBRTS1TY2lNRmp6R19tbWV4T3pBRGE4cml6TVlQU2JLZ1E?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-08-26 07:49
+- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxNSjBGV0ZIbWNJSklWM3JvRy01Wnk2b21DUGI3ZFQwQU9KWUV1THJqYXhyazRNQjctVVZDRnNfd1F4dXRYWDNFbm0tb2cxR0JwQjNUb0ZSbDVXY1lFWmp0V3pPa3FXbkFiOEd2LUdFdXVsNWxocVFQLVF5R1ItZi1SN1p5bmtzbGVneFRYZ21EVzV2c29mWGRxc0ktLThTZERP?oc=5>
 
-### 美加口水战升级：特朗普威胁将安大略湖更名“美利坚湖”
+### 特朗普连续发帖示好朝鲜 朝方回应显对美韩态度迥异
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 富途牛牛
-- 时间: 2026-08-25 19:46
-- 链接: <https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaktjOHZJLXJpYnlBdGl2VkJYX0lqU0o5M1BkV0VIa2szUTU1N0hwVHJVbllXRW9pa21DcDJLalk5ajJ6amhFN25TRVpqTUlnMXNZX3BEb0hrSjVBMWZtZk1aUElkSnpyeVNqN1I0aXNTcmpfSkNkZ19KM3g4UmRiTllvUFZCcjlYbFV5ZERFZFRDNDFxd3lwTTktMmp3MTJhMTd1UmszVzE?oc=5>
-
-### 开战前早被警告!川普"执意打伊朗"拖半年收不了场
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 文学城
-- 时间: 2026-08-26 07:27
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE56bzRCaXpSSjQ5bG9mZTc1VzRaMzhEZUtnWjNkTjM5bW9Dd0hJQWVZMnB6Q2pLdW5FN1VnUWpuZ1dRcnV6LV81WEk3alpTaVh2amczdGgzTkpEbEdHUW9RS0hCc1NVMzNU?oc=5>
+- 场馆: Caixin Global
+- 时间: 2026-08-26 09:06
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE44M0g2WlBvcFhablJpTE1Lb1RjOTVzUmlvNkEzdFptTzdIcUdZSEtCX1NXZ2xoWjNVYmtZUDgwd3BtTzJGU1NLcFZ1QXZJM1pXak1HcGUwS3dLeGhjQm16ZmxLZXBkUUNHNlE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-26 09:34  (3 条)
+
+- **特朗普** | 特朗普称霍尔木兹海峡国际水域内水雷均已被清除 <https://news.google.com/rss/articles/CBMieEFVX3lxTE5xV0Z2YTJtNVZ2c0VEZ2VtTW9vYVk4Q01wQmw1YXhwbmdmUWpoLURuQUNxM1lKSzBIY1o3azk4TWdqWDV0aEEwd2E4ZFNhbktJZUlCU0FyYWtLLTI5eHA1Vk5ybkNmOFBiZkEtd09CSnB0Sl9Qa3VTcg?oc=5>
+- **特朗普** | “伊朗悬赏千万美元追杀巴伦·特朗普”，美特勤局回应 <https://news.google.com/rss/articles/CBMioAFBVV95cUxNSjBGV0ZIbWNJSklWM3JvRy01Wnk2b21DUGI3ZFQwQU9KWUV1THJqYXhyazRNQjctVVZDRnNfd1F4dXRYWDNFbm0tb2cxR0JwQjNUb0ZSbDVXY1lFWmp0V3pPa3FXbkFiOEd2LUdFdXVsNWxocVFQLVF5R1ItZi1SN1p5bmtzbGVneFRYZ21EVzV2c29mWGRxc0ktLThTZERP?oc=5>
+- **特朗普** | 特朗普连续发帖示好朝鲜 朝方回应显对美韩态度迥异 <https://news.google.com/rss/articles/CBMiakFVX3lxTE44M0g2WlBvcFhablJpTE1Lb1RjOTVzUmlvNkEzdFptTzdIcUdZSEtCX1NXZ2xoWjNVYmtZUDgwd3BtTzJGU1NLcFZ1QXZJM1pXak1HcGUwS3dLeGhjQm16ZmxLZXBkUUNHNlE?oc=5>
 
 ### 2026-08-26 08:35  (5 条)
 
