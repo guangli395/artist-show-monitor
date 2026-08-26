@@ -1,40 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-26 16:12**
-- 本轮扫到 10719 条, 新增 **3** 条
+- 最近更新: **2026-08-26 18:12**
+- 本轮扫到 10722 条, 新增 **3** 条
 
 ---
 
 ## 本轮新发现 (3 条)
 
-### 多数韩国人对美国持负面评价
+### 特朗普总统：伊朗最高领袖受重伤但并未死亡
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-08-26 14:58
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9hOUZ5WWRjWXpndGtwbUJaa1pXQ0VRZnlCbjA0cVhuUklRcDRzMHhzTWhxOVhuMEw4VEhHcFNUUGdRM1dXNjJYSlUtNDM0dHJoTGlfbkNGTlZiT2RITGcteWhPTXVmYWgtTGliWUk1UHluQnI0NDJOVg?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-08-26 17:05
+- 链接: <https://news.google.com/rss/articles/CBMitwFBVV95cUxNc3FBYmdUMmpUUWhMM3lhNnNaZThJUWlmUzgyRXN0aThrTW5aTkRIMDRIcHBURVhwWmNYUm9NcDFGZEQ4OTVNUFJ0VExxckNBckpnNEFYTHdNcHRETi1fMnFHMl9GdGpqT1U4d01jWkN0U0FMdmdpZXN6akdGLXhTZjdVMjBUTUh2ZlRoaEtneFdlVDVJam9TMnN4cTJlTVdXT3JhZ3lqNmFEX0xrMGI0UFI0c2dGQWvSAboBQVVfeXFMT2xaN0Y1SjNaVXVuTzVQWmlKMnY2WExXRTAyTmVyUUJ5dW1DcW5Ja0Rka2hEclhyMWFGejlTZ1FGVUc1Mjh3MDdsMW5lMEZ0bVM2dW8tanYyNG5BV2ljdENvc2N1LUpkQ2ZyNDR0OFhoLUdJa2FwZFJSYVpGbExrQ19BVkNwV2JFM0UxZlFNUngzVnotNmQ0VGlRZE5oUTZvdThHYmpZaWxLMmJ3Nms2eHlFbU1Lem5hUUhR?oc=5>
 
-### 中情局局长访俄，特朗普发声
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-08-26 15:33
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFB6MVJLZWh2eHhWNTlRWXhyclNrVHNFQVIzOU9fTC1hV3dweHp6eW9jM29rUmNEYmp4T1RqeFloUTBnNUtPbWo3MTM4YnZvRHg3dXVMcTFTUjFDaVROdEVrNXNEMC1jRlFGa0ZtdjF4anpaNVg3RklYOQ?oc=5>
-
-### 特朗普近期操作令日本“无法安心入睡”，日媒：必须做好最坏准备
+### 加拿大回应特朗普安大略湖改名言论：没什么好商量的
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-26 06:50
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5meW5KdXdUcFZtUExyNFFiN2lZaVYweC1ac3dSODdXbnhMbW5UM0I2ZUM0Si1GZDBvbF96dlkxLWRmT0JJeHdLYjhwSQ?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-08-26 16:07
+- 链接: <https://news.google.com/rss/articles/CBMiiANBVV95cUxQanZQcXVlcEljQWxRRnV0bXpwdFZkVXdBWEdnakJUa2VhVmhyWXlOYVg1Z0hWT0kwMXZtNW5QR2h4NzQ1MWJxTm9HUEUwMXIwckF3cEFud2FCQTdjNjhmSWZzdDFMVVpHQzl0UW1lVzJPRG1yZWZvRWMwT19hVjlKRXNaX1FnUkNzZGhGb3JIWEgxaDF4UW1nNnJ0TTFvblB4QnJFa0Vxb1V6dTBsenkxU3M0NWxjRTloV2pmb0NYT19FWGN1UTR3M1Zqb2cyTUZhRlFjTmoybGFaUmowUXEyclZnSzhmaFZBMVY4UkY4WWotT3ZUQzJ6UjRjSnZSWUlQYkxYWGlfaF9ESkNyckRZMUx6QmU4el9SbFNXVDBOZF9OTWR6b05uUXhWQXhvQUNOMExyTGxxeHBLRDJwRWdVNWdvRW9MRXhXNjBTbWNNOWZOYXV4ZnZrdUo1QWZNckkycmdsbEdXazRjODVBdVhabW41QlZsM245ZDY2QTdoVGRScVpFbkZBRg?oc=5>
+
+### “伊朗悬赏1000万美元追杀特朗普小儿子”，美国特勤局回应
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-08-26 12:45
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE41a3V2OUk2TUJDMllCb0s2ZU9qQngxTkp5TDJ1TXNpX3FmdkM2cXpLeXYzUkhFSWZUbTVaR1Jxak5ja1ZkWlhRNk9HYkpaUFpGMzRINEY1ODNNZHlnQm54MktIdUtraTMyRkFNWUYtQWw1bmdk?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-26 18:12  (3 条)
+
+- **特朗普** | 特朗普总统：伊朗最高领袖受重伤但并未死亡 <https://news.google.com/rss/articles/CBMitwFBVV95cUxNc3FBYmdUMmpUUWhMM3lhNnNaZThJUWlmUzgyRXN0aThrTW5aTkRIMDRIcHBURVhwWmNYUm9NcDFGZEQ4OTVNUFJ0VExxckNBckpnNEFYTHdNcHRETi1fMnFHMl9GdGpqT1U4d01jWkN0U0FMdmdpZXN6akdGLXhTZjdVMjBUTUh2ZlRoaEtneFdlVDVJam9TMnN4cTJlTVdXT3JhZ3lqNmFEX0xrMGI0UFI0c2dGQWvSAboBQVVfeXFMT2xaN0Y1SjNaVXVuTzVQWmlKMnY2WExXRTAyTmVyUUJ5dW1DcW5Ja0Rka2hEclhyMWFGejlTZ1FGVUc1Mjh3MDdsMW5lMEZ0bVM2dW8tanYyNG5BV2ljdENvc2N1LUpkQ2ZyNDR0OFhoLUdJa2FwZFJSYVpGbExrQ19BVkNwV2JFM0UxZlFNUngzVnotNmQ0VGlRZE5oUTZvdThHYmpZaWxLMmJ3Nms2eHlFbU1Lem5hUUhR?oc=5>
+- **特朗普** | 加拿大回应特朗普安大略湖改名言论：没什么好商量的 <https://news.google.com/rss/articles/CBMiiANBVV95cUxQanZQcXVlcEljQWxRRnV0bXpwdFZkVXdBWEdnakJUa2VhVmhyWXlOYVg1Z0hWT0kwMXZtNW5QR2h4NzQ1MWJxTm9HUEUwMXIwckF3cEFud2FCQTdjNjhmSWZzdDFMVVpHQzl0UW1lVzJPRG1yZWZvRWMwT19hVjlKRXNaX1FnUkNzZGhGb3JIWEgxaDF4UW1nNnJ0TTFvblB4QnJFa0Vxb1V6dTBsenkxU3M0NWxjRTloV2pmb0NYT19FWGN1UTR3M1Zqb2cyTUZhRlFjTmoybGFaUmowUXEyclZnSzhmaFZBMVY4UkY4WWotT3ZUQzJ6UjRjSnZSWUlQYkxYWGlfaF9ESkNyckRZMUx6QmU4el9SbFNXVDBOZF9OTWR6b05uUXhWQXhvQUNOMExyTGxxeHBLRDJwRWdVNWdvRW9MRXhXNjBTbWNNOWZOYXV4ZnZrdUo1QWZNckkycmdsbEdXazRjODVBdVhabW41QlZsM245ZDY2QTdoVGRScVpFbkZBRg?oc=5>
+- **特朗普** | “伊朗悬赏1000万美元追杀特朗普小儿子”，美国特勤局回应 <https://news.google.com/rss/articles/CBMidEFVX3lxTE41a3V2OUk2TUJDMllCb0s2ZU9qQngxTkp5TDJ1TXNpX3FmdkM2cXpLeXYzUkhFSWZUbTVaR1Jxak5ja1ZkWlhRNk9HYkpaUFpGMzRINEY1ODNNZHlnQm54MktIdUtraTMyRkFNWUYtQWw1bmdk?oc=5>
 
 ### 2026-08-26 16:12  (3 条)
 
