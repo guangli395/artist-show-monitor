@@ -1,40 +1,62 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-26 11:54**
-- 本轮扫到 10704 条, 新增 **3** 条
+- 最近更新: **2026-08-26 12:38**
+- 本轮扫到 10709 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (5 条)
 
-### 三种对伊方案曝光，内塔尼亚胡自曝与特朗普决策过程
+### 周杰伦最美的中国风MV《东风破》4K修复版
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923704_m1d5ae17f803301xa5m.html>
+
+### 加拿大安大略省长放话！切断电力和关键矿产，特朗普贸易战升级
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-08-26 11:41
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE1OMEx1S25fUE1NNDIxRUJVaUxZazFHSmVjSzF6N2NPVEZKanRCUGEzT1QwZENuVEtJRzdjSUctZ3A3dmRDRGhKdzBmc2tHS2VzeHllRk9LbEJ0eWIzaTJsVC1MQWstQWF1bUd2WmY2SDc3dw?oc=5>
+
+### 特朗普签备忘录：2030年实现每年发射超千次_手机新浪网
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-08-26 11:48
+- 链接: <https://news.google.com/rss/articles/CBMi9AFBVV95cUxOTENTYjRzT09qc1I2NjNOUkRpaENWTEp6MDJmSXNVZVBXMDFsV0Ytb20xcTMyYVhmOHRJN0t1OUgzeFA3RGV5MnJVczdMX0dGdWd4bzE5SGJ0cElzTlBuaFhCSDRweEtFNXZpc0hDNFJUSXpWUUlaZjNDNWplTk5ubC1jcWV3RmlEX2hCdDdnN0dBeUNmM2o5NnFQTjNfbUx0S0FEYVdla2htaFBmdTVYdnJfRnJLeEp3VDVzLVlZZWpiSmNSMHZYQzc3S1JoSkIzNm9iMko3WGRQLVlZRzJHRjFIV3h6ZGtvZkNvblNxSmN6Ujc5?oc=5>
+
+### 特朗普想降息，沃什不吭声，债市却先动手了：今晚PCE前必须看懂的三角杀
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-26 11:34
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxORk1XNUVyaFVQSmRGZXZUd182aGIzb2tMYXZSWFJNWlhacW9PWXZVengxbnlRNERaTW9Ndk9oOVpNaG9Xbkg0YzJuYlcxNnpCdU1qM3YwaG1ndy02ZnhYU28xczNZaFFUVDZzWVM1bjdRY3piM2lEbWJvVGZGT3RnbmVoNTVvSjBSUVpxZkViWkVySl80TS1SMVZqdkhQbUdPRVMwX2tKR25mTUNxT0d3RWlTUmtjdndncTh3aG5FdmthVjRXLTN2cUhaZDhEa2tn?oc=5>
+
+### 金正恩主持劳动党政治局扩大会议，未回应特朗普对话提议
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-08-26 10:54
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE51M3IyWG5hRDRXMTMtNXp5RDFGOF84RzNDZmtEa0pFWkJ3d3pjaEdPXzlCdXZ4UlBkVVBiMlM5UlhfdU11YjV1SnMxYjU?oc=5>
-
-### 美高院解除限制邮寄选票禁令 特朗普取得暂时胜利
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-08-25 12:00
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE43dFlIeE5vV1pwSU0wLTdXRXdSaW5fa1E5VVdZZVBVbFZfNTZPVThTenVSTGdTY05VZmdmRGRFWl9pSGJDRWUxa0hVRUpFSzZPaGxJUE1WSTJQSGVhcWNENmJJUTRjQQ?oc=5>
-
-### 特朗普警告将安大略湖更名“美国湖”，加拿大：闹剧
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-26 03:06
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE51MU9MT2lYMlRKV1JLcm95WHc2a0dGZUtTT3pOcDN3SVpyQlZ3ZFJIbWxZUW9LWGJiSXNmZmpSN1BXdFAyelFVbjRKQ3E?oc=5>
+- 时间: 2026-08-26 05:20
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1WZF92d2xqUExxazJDdUFGU3pmUnZnY241MWtLcnMzWWY5ekNxMkRFTVpfRDV1eV9pZ1dxQ1JpQ2FUSFhtWXRLZ2xmbjc?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-26 12:38  (5 条)
+
+- **周杰伦** | 周杰伦最美的中国风MV《东风破》4K修复版 <https://k.sina.com.cn/article_7879923704_m1d5ae17f803301xa5m.html>
+- **特朗普** | 加拿大安大略省长放话！切断电力和关键矿产，特朗普贸易战升级 <https://news.google.com/rss/articles/CBMickFVX3lxTE1OMEx1S25fUE1NNDIxRUJVaUxZazFHSmVjSzF6N2NPVEZKanRCUGEzT1QwZENuVEtJRzdjSUctZ3A3dmRDRGhKdzBmc2tHS2VzeHllRk9LbEJ0eWIzaTJsVC1MQWstQWF1bUd2WmY2SDc3dw?oc=5>
+- **特朗普** | 特朗普签备忘录：2030年实现每年发射超千次_手机新浪网 <https://news.google.com/rss/articles/CBMi9AFBVV95cUxOTENTYjRzT09qc1I2NjNOUkRpaENWTEp6MDJmSXNVZVBXMDFsV0Ytb20xcTMyYVhmOHRJN0t1OUgzeFA3RGV5MnJVczdMX0dGdWd4bzE5SGJ0cElzTlBuaFhCSDRweEtFNXZpc0hDNFJUSXpWUUlaZjNDNWplTk5ubC1jcWV3RmlEX2hCdDdnN0dBeUNmM2o5NnFQTjNfbUx0S0FEYVdla2htaFBmdTVYdnJfRnJLeEp3VDVzLVlZZWpiSmNSMHZYQzc3S1JoSkIzNm9iMko3WGRQLVlZRzJHRjFIV3h6ZGtvZkNvblNxSmN6Ujc5?oc=5>
+- **特朗普** | 特朗普想降息，沃什不吭声，债市却先动手了：今晚PCE前必须看懂的三角杀 <https://news.google.com/rss/articles/CBMi0AFBVV95cUxORk1XNUVyaFVQSmRGZXZUd182aGIzb2tMYXZSWFJNWlhacW9PWXZVengxbnlRNERaTW9Ndk9oOVpNaG9Xbkg0YzJuYlcxNnpCdU1qM3YwaG1ndy02ZnhYU28xczNZaFFUVDZzWVM1bjdRY3piM2lEbWJvVGZGT3RnbmVoNTVvSjBSUVpxZkViWkVySl80TS1SMVZqdkhQbUdPRVMwX2tKR25mTUNxT0d3RWlTUmtjdndncTh3aG5FdmthVjRXLTN2cUhaZDhEa2tn?oc=5>
+- **特朗普** | 金正恩主持劳动党政治局扩大会议，未回应特朗普对话提议 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1WZF92d2xqUExxazJDdUFGU3pmUnZnY241MWtLcnMzWWY5ekNxMkRFTVpfRDV1eV9pZ1dxQ1JpQ2FUSFhtWXRLZ2xmbjc?oc=5>
 
 ### 2026-08-26 11:54  (3 条)
 
