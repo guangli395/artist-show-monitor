@@ -1,72 +1,155 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-26 23:57**
-- 本轮扫到 10737 条, 新增 **7** 条
+- 最近更新: **2026-08-27 07:24**
+- 本轮扫到 10753 条, 新增 **16** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (16 条)
+
+### 韩国品牌MOEV发布海海韩国品牌活动相关 白色这套好帅
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7785517961_m1d00d9389033015sr4.html>
+
+### 周杰伦墨尔本演唱会门票价格
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801k8gk.html>
+
+### 周杰伦打球尴尬集锦完整盘点：林书豪掉球、演唱会转球翻车等名场面（2026年更新）
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068014vmw.html>
+
+### 演唱会门票怎么买？3个渠道实测+避坑指南+FAQ
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7880068914_1d5b04f3206801h4l6.html>
+
+### 特朗普证实中情局局长访俄
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-08-26 15:24
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9XS2Y1WTJLUFNRSndiRmJUTVZVbHZmaEZ5Z2Q2N0R1TXJadElZMjRId1pJNmE3emVVYlJ0S0tlbnhyTmRLcU9LdGxOSnJvSHRyMFBGVngxOVl5dkw3RlBzMmtTX2JWcGtTN240U1FQOXhGc0hsQjN5eGMzUjNVdG8?oc=5>
+
+### 特朗普证实美国中情局局长访俄
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-26 22:35
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBYa0FFWjFCT0ZFS3VJUkJmLWdxcEY1SURyZmROajhnbEllNUdTY0RmVU5tUmVEalNuRU56RWlFamV6VUZlY1FhclhmYWluRHIzVzVCbHRLeGYxenRSWDVZTGRCVmpFTjNaM212WDJhYUZ5X1hNcERKVA?oc=5>
+
+### 特朗普签令，宣布禁止使用部分外国电力系统设备！A股龙头大跌12%，公司最新回应
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-27 06:23
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9tbHRGVDljT1gxRUFQZzBSV2RUUGxROVl5M3FYN2R2dVFsZzV2eGthNy1nMllCbGtNQ3NCYkMwb2FsV19aZlp1eGxCRnBaWDNiYnR5OFBEYlFtbTNLNmlTRDdrX3hMc1VBN1FyR1YzbHY4QkJKRVhkcw?oc=5>
+
+### 特朗普恼火之际，加拿大两省对美酒的最后一击
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-08-26 23:34
+- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE5KQlN5NmphQUNxbVI0VTlPTEJTN3ZfcDZwenZOZUVMUGJiLV9ZY0o5RmFYLVpzTGVTNmxKTnNNY0FJZ3I2TXB5cGlLbHdRU21p?oc=5>
+
+### “伊朗悬赏1000万美元追杀特朗普小儿子”，美国特勤局回应
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-08-26 06:20
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBoeHBHd25TT2wyNU5hV2JJSHpMZzJkZUd5N2xRTEUxaW0yYTg3U0Z4SVczRlNuRTNnYlZEbURJX3lkSF93YzQ1bFBETHJjM0dCWnpvS1RFdTdNS1ZkeVlTc0pDb0swdWtFc083Yml0Vnk?oc=5>
+
+### 悬赏6700万，伊朗要刺杀特朗普小儿子？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-27 05:52
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWTBvWmY5ajdCMXFLV3ZkYm9DSW5oVE9pMF83MG5YVWNtWUxSTjN5ZWpucUZwaXQtVXdWa1JjcHZvYmFuWm11VzBsUTdwSTgzTUxfZUlqQTBxV19zY3B4S1lJYWlQRXowWFVSaGJHZ0JMZWpNalNpUzhOeHRwLU5lNWl5SlFmMlZocHVDZzZfYjdqem5vWV93VXdySHNzSzk0cFVQQWMwbmc3cG5XRkNRZUpHTEJsNXRCeTg3ZkdFNVpmbXNHMC1rTWVNY2lNVmJt?oc=5>
+
+### 特朗普敢对中国主要银行下手？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-08-27 02:53
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5JVURBdnhuajloQk5nREoxM0N4ZWI5WWMyeXMtUWdfZHRmZkhQQ0pFMlFJLWt0N3IyR0dKUFdzM3dHQ3F6ZG15M0RrNjMxMTRVNUtGdURsRUxjb1VNNWdhX1o0SHZocm5LUEE?oc=5>
 
 ### 特朗普：对于伊朗何时重返谈判“没有时间表”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 央视网
-- 时间: 2026-08-26 22:03
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9pRWNZcTZaUHNMNndMOTJFNlJaZHkxaWpxY0pBMmdpY1hIdVRCSjlTOV9TeUlZVEhnNTFYWXF1SVV3Z1VsbTU0ekZGejYxYTd4cW5BRmlJNTVaTTdHYnA0V3Fqc1k5V29vRzUtRGRKWWxJT3U1N2hJRA?oc=5>
+- 场馆: 新华网
+- 时间: 2026-08-26 21:08
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE5LcWt0Z0VCWngzSDUxRWhHZ0Q1c3FkY0pSODhRVXpZajhOY09HdjFuOXZpcDJzU2NMSHZEck1jQkdPdlp3N0VqRXZYVmxLaVFYcDRqRUJ0WEY1U1JWbGlBemtrRmZzWEFjWU1uN2xRNDRTQkVHbmRUR0MtYngyUWc?oc=5>
 
-### 要闻解说 - 伊朗和阿曼就霍尔木兹海峡扫雷作业展开谈判， 特朗普以轰炸威胁阿曼
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-08-26 23:36
-- 链接: <https://news.google.com/rss/articles/CBMingRBVV95cUxPeDNNUElqY0xOR0J5VWRwb0lYZE0zbTVneFQ5SXh6V25GVVRta2ZnRU5TQzI4dmd4RDl3U3B2alFXQk1JOThUb1czcXJaWmxVdFdBRG1JZ0tyUE5EbDlrM0RQdW5QY2hqd1l4NFZEMjkyamlwdElkcVY3UlZGaXhxdVNFZ09RaVhVbjdwTzFVVFFfdWtubjlSV2ZwNFNEYm9Wc0hsN1V4U3dtNksybi1OZmtPZzNabGFtb1lBZndBbGcxcmlUWDN2bmFzV0tsQVZ1ZTJndmRGdmdEUnJXSGVzVnJzYVg1QWRITlBzQS0wWXFBSEQ5QjdvYXQzUnlSQmtCQ29fS2hoRjJBNFFkMHh3YnRtUDBLcTRNN2cwOE11U1phazZkRi1relNHUlFKelU3OEpiWDJYWDB6dndzc01xck5LazgyczhvZWVOZC05WGdRcTVJVlc4N0FNcXBoSGZ6Qm5DNk10OWVDU0V4M2w2T2ROaUxrOXFJN0p3Ym9FTmUzcnpLWlVhX0ZwQmJ3VW92WTFzZno1ZEVZNFNoQUxvQnZHeFR2bjU1bDRYbnNzb3FZeWJ0SG5zdWdtU3NSR1hTYmtMVWVTdXA3X2tqdmEtR0dmYXI0ZzhkcXYtNTVUU3hyT2ZmT2swOXFvZHhLZ184b3RjaWlCY1ExT2ZLbWQxUHFMUDBmUmdsTEd6alczU2t4SXZseVB3cDZ6bkJKQQ?oc=5>
-
-### 美方“换打法” 伊朗“不妥协” 双方对峙进入僵持阶段
+### 特朗普称“谈判没有时间表”，伊朗开出“重开海峡条件”，航运巨头评价“市场低估了长期僵局风险”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: China Daily
-- 时间: 2026-08-26 23:00
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1haUFFYWdBVmZKbHlJV3NtcXBrV2R6aWxXTFhqMzgwQ0REczMxNFEteDBGeDduZ3lFRFgtRDg5ZVBiVDZuamVOOGh5ZzByby1GbDk1V0hoSW5KaTY3NHhUNThEb1dpcjNHUzRiNHFubVBsQ2FldVVJX2ZkWGVXTk0?oc=5>
+- 场馆: 华尔街见闻
+- 时间: 2026-08-27 00:21
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5YNnFpdEpCMmxjQWw5M3ZjeDZaZlp0bElJTVpkdEttMDR0LXp0czU4d2xoT0tYQ2gzLVphMjl5NGFhUXBGNlg4aVNqb1hpS085U204?oc=5>
 
-### 特朗普再次宣称：“没有我，就没有以色列”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-26 23:21
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFAzUWFRLUlScF9KYmd1Y2p0cnJIeUlvZUxid1VFU0dQZWVnYkQ1NE5GVDJyYXJ6SEFUSHJhQ0RId2dmLWRFam1wVm9QWVd4bjZQUUdmOEQ0SU1fUEgya0JWRldyVU9wSXhlT3RtMHcxLXRUZS1PNklLeg?oc=5>
-
-### 美国音乐传奇去世，特朗普：全美降半旗一周
+### 特朗普连晒3张与金正恩合照，“再次释放对话信号”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-08-26 04:23
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBYb3ZLcTA1NXdRNVRrQ0RPREpBM1NFNUpnLXJRMElhekJ6UEVXUzZnc0xwd3oxX1JWbWZlNVlpTDhNWTFGXzZTU1B6YklNdW1DU1JraEZCSEoybzc1eC1DMFdyUV9wcDVQMmdzd2l3TjhTQTBSajZIWA?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-08-25 07:57
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBCN293RllPUF9lN21VS25BZG9ocjZjUy1yanJXSXlMV2s2eExtM3k2ZVhJenBNcmNqZDVjbGJvSGN2eC1pMl9fMlZqZWQ?oc=5>
 
-### 特朗普欲为安大略湖改名 加拿大表不满
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中国网新闻中心
-- 时间: 2026-08-26 08:26
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE9Hd1dNODJYR2F4dWpLWXduRmtuV0tkSmtPenhwVUJ0ZDllWXU3YUxaWEQ5dGQ5ODRrdTdvX1pyYXNGanlNSEZSYzJNV0pLYUwwMk1jODhWeURWUS1NU0lqdWwtbDI4aTdLejdZ?oc=5>
-
-### 特朗普总统说中情局局长访俄“可能会有结果”
+### $TRUMP TRUMP站上2.48，一周暴涨75%！ 过去一周，TRUMP从底部... | 欧易
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-08-26 21:54
-- 链接: <https://news.google.com/rss/articles/CBMitgFBVV95cUxOTXN3YzFObzFzanVYc0RhclpCUEpReldEdGhLN3hjakhFMGtBbEYwLWd2bkZJUTcxUXBkZkZvOWJWUU0tUEpxRERROXZHdVNJQWwyX29oS2xfSDZBN1NldTJZZ2JrSHlZMTBiNFFaVEw3NkZmMW5nckFISms1blllWFpiMVdrUzR3TEdSTTlmZTVqRFdwWWp3UHJtaVZ2cVBGM1VoQWx0WFdPT2lNaDVoWXh0QlNKQdIBuAFBVV95cUxPUjJubGFmUkl5cEVBZ3dNT1JDSGJTV1FGRjJJMEEtV2FVQ1V2Njc2ZTl4akR2M19KZEwxTG5yV0hhOFNmbU5Sd1FabVFUZjA5VnhFakVMc09kbkpBSmVoWFFOS1ZUemk0QlZmamllZXlyaFdxZlZ5WFkxOVVlRmhWaVB5bmdia3pfWlBsZUtGQmdwbzFwbXVFcjJ5NXNNS3lKckpOWVFCVFZnaDVoSXNpZWtuOF9HNzdt?oc=5>
+- 场馆: OKX
+- 时间: 2026-08-24 14:53
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE5adTEyYjA4Zk84eEJfTFVwVGdtR0JBclBxaGY5TFlVMmgtSm1ia0c5ZzhTcDU2VV9zNzJXYlVCSzRCdzYtSmx0MEdLbllMTXViY1hYUDJCcjhQNm5nS3Z0Z0t4V1lvcEUxRDg4?oc=5>
+
+### “捐赠者、观众和艺术家全都离开”……冠名“Trump”的肯尼迪中心预计亏损319亿韩元- 阿视亚经济
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 아시아경제
+- 时间: 2026-08-26 23:43
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1pbUNHMUVBV2xCa1prUkprR3A1TkdkU2FlT25xQXZFZ3doRmJkV0ZLd3pFZUkySmE2SmZ5b1VhRVd6LTRhcE9ER0ZOcTRNdVRnendqbVBXVk1hc1pkenZibXA5R2U?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-27 07:24  (16 条)
+
+- **王一博** | 韩国品牌MOEV发布海海韩国品牌活动相关 白色这套好帅 <https://k.sina.com.cn/article_7785517961_m1d00d9389033015sr4.html>
+- **周杰伦** | 周杰伦墨尔本演唱会门票价格 <https://k.sina.com.cn/article_7879923021_1d5ae154d06801k8gk.html>
+- **周杰伦** | 周杰伦打球尴尬集锦完整盘点：林书豪掉球、演唱会转球翻车等名场面（2026年更新） <https://k.sina.com.cn/article_7879776356_1d5abd864068014vmw.html>
+- **周杰伦** | 演唱会门票怎么买？3个渠道实测+避坑指南+FAQ <https://k.sina.com.cn/article_7880068914_1d5b04f3206801h4l6.html>
+- **特朗普** | 特朗普证实中情局局长访俄 <https://news.google.com/rss/articles/CBMif0FVX3lxTE9XS2Y1WTJLUFNRSndiRmJUTVZVbHZmaEZ5Z2Q2N0R1TXJadElZMjRId1pJNmE3emVVYlJ0S0tlbnhyTmRLcU9LdGxOSnJvSHRyMFBGVngxOVl5dkw3RlBzMmtTX2JWcGtTN240U1FQOXhGc0hsQjN5eGMzUjNVdG8?oc=5>
+- **特朗普** | 特朗普证实美国中情局局长访俄 <https://news.google.com/rss/articles/CBMieEFVX3lxTFBYa0FFWjFCT0ZFS3VJUkJmLWdxcEY1SURyZmROajhnbEllNUdTY0RmVU5tUmVEalNuRU56RWlFamV6VUZlY1FhclhmYWluRHIzVzVCbHRLeGYxenRSWDVZTGRCVmpFTjNaM212WDJhYUZ5X1hNcERKVA?oc=5>
+- **特朗普** | 特朗普签令，宣布禁止使用部分外国电力系统设备！A股龙头大跌12%，公司最新回应 <https://news.google.com/rss/articles/CBMieEFVX3lxTE9tbHRGVDljT1gxRUFQZzBSV2RUUGxROVl5M3FYN2R2dVFsZzV2eGthNy1nMllCbGtNQ3NCYkMwb2FsV19aZlp1eGxCRnBaWDNiYnR5OFBEYlFtbTNLNmlTRDdrX3hMc1VBN1FyR1YzbHY4QkJKRVhkcw?oc=5>
+- **特朗普** | 特朗普恼火之际，加拿大两省对美酒的最后一击 <https://news.google.com/rss/articles/CBMiUEFVX3lxTE5KQlN5NmphQUNxbVI0VTlPTEJTN3ZfcDZwenZOZUVMUGJiLV9ZY0o5RmFYLVpzTGVTNmxKTnNNY0FJZ3I2TXB5cGlLbHdRU21p?oc=5>
+- **特朗普** | “伊朗悬赏1000万美元追杀特朗普小儿子”，美国特勤局回应 <https://news.google.com/rss/articles/CBMicEFVX3lxTFBoeHBHd25TT2wyNU5hV2JJSHpMZzJkZUd5N2xRTEUxaW0yYTg3U0Z4SVczRlNuRTNnYlZEbURJX3lkSF93YzQ1bFBETHJjM0dCWnpvS1RFdTdNS1ZkeVlTc0pDb0swdWtFc083Yml0Vnk?oc=5>
+- **特朗普** | 悬赏6700万，伊朗要刺杀特朗普小儿子？ <https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWTBvWmY5ajdCMXFLV3ZkYm9DSW5oVE9pMF83MG5YVWNtWUxSTjN5ZWpucUZwaXQtVXdWa1JjcHZvYmFuWm11VzBsUTdwSTgzTUxfZUlqQTBxV19zY3B4S1lJYWlQRXowWFVSaGJHZ0JMZWpNalNpUzhOeHRwLU5lNWl5SlFmMlZocHVDZzZfYjdqem5vWV93VXdySHNzSzk0cFVQQWMwbmc3cG5XRkNRZUpHTEJsNXRCeTg3ZkdFNVpmbXNHMC1rTWVNY2lNVmJt?oc=5>
+- **特朗普** | 特朗普敢对中国主要银行下手？ <https://news.google.com/rss/articles/CBMiakFVX3lxTE5JVURBdnhuajloQk5nREoxM0N4ZWI5WWMyeXMtUWdfZHRmZkhQQ0pFMlFJLWt0N3IyR0dKUFdzM3dHQ3F6ZG15M0RrNjMxMTRVNUtGdURsRUxjb1VNNWdhX1o0SHZocm5LUEE?oc=5>
+- **特朗普** | 特朗普：对于伊朗何时重返谈判“没有时间表” <https://news.google.com/rss/articles/CBMif0FVX3lxTE5LcWt0Z0VCWngzSDUxRWhHZ0Q1c3FkY0pSODhRVXpZajhOY09HdjFuOXZpcDJzU2NMSHZEck1jQkdPdlp3N0VqRXZYVmxLaVFYcDRqRUJ0WEY1U1JWbGlBemtrRmZzWEFjWU1uN2xRNDRTQkVHbmRUR0MtYngyUWc?oc=5>
+- **特朗普** | 特朗普称“谈判没有时间表”，伊朗开出“重开海峡条件”，航运巨头评价“市场低估了长期僵局风险” <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5YNnFpdEpCMmxjQWw5M3ZjeDZaZlp0bElJTVpkdEttMDR0LXp0czU4d2xoT0tYQ2gzLVphMjl5NGFhUXBGNlg4aVNqb1hpS085U204?oc=5>
+- **特朗普** | 特朗普连晒3张与金正恩合照，“再次释放对话信号” <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBCN293RllPUF9lN21VS25BZG9ocjZjUy1yanJXSXlMV2s2eExtM3k2ZVhJenBNcmNqZDVjbGJvSGN2eC1pMl9fMlZqZWQ?oc=5>
+- **Trump** | $TRUMP TRUMP站上2.48，一周暴涨75%！ 过去一周，TRUMP从底部... | 欧易 <https://news.google.com/rss/articles/CBMia0FVX3lxTE5adTEyYjA4Zk84eEJfTFVwVGdtR0JBclBxaGY5TFlVMmgtSm1ia0c5ZzhTcDU2VV9zNzJXYlVCSzRCdzYtSmx0MEdLbllMTXViY1hYUDJCcjhQNm5nS3Z0Z0t4V1lvcEUxRDg4?oc=5>
+- **Trump** | “捐赠者、观众和艺术家全都离开”……冠名“Trump”的肯尼迪中心预计亏损319亿韩元- 阿视亚经济 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1pbUNHMUVBV2xCa1prUkprR3A1TkdkU2FlT25xQXZFZ3doRmJkV0ZLd3pFZUkySmE2SmZ5b1VhRVd6LTRhcE9ER0ZOcTRNdVRnendqbVBXVk1hc1pkenZibXA5R2U?oc=5>
 
 ### 2026-08-26 23:57  (7 条)
 
