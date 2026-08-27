@@ -1,136 +1,148 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-27 07:24**
-- 本轮扫到 10753 条, 新增 **16** 条
+- 最近更新: **2026-08-27 18:21**
+- 本轮扫到 10768 条, 新增 **15** 条
 
 ---
 
-## 本轮新发现 (16 条)
+## 本轮新发现 (15 条)
 
-### 韩国品牌MOEV发布海海韩国品牌活动相关 白色这套好帅
+### 全套抢技巧！来看看，都是干货，好好学，希望我能抢到肖战王一博演唱会！
 
 - 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7785517961_m1d00d9389033015sr4.html>
+- 链接: <https://k.sina.com.cn/article_7811154182_m1d194c10603301zgci.html>
 
-### 周杰伦墨尔本演唱会门票价格
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801k8gk.html>
-
-### 周杰伦打球尴尬集锦完整盘点：林书豪掉球、演唱会转球翻车等名场面（2026年更新）
+### 演唱会欢呼声与球场雨声之间，明星的私人空间还剩几分贝？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068014vmw.html>
+- 链接: <https://news.sina.cn/bignews/insight/2026-08-27/detail-inipucsr5316181.d.html>
 
-### 演唱会门票怎么买？3个渠道实测+避坑指南+FAQ
+### vivo X500系列上线抢先体验活动 发布大致敲定
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068914_1d5b04f3206801h4l6.html>
-
-### 特朗普证实中情局局长访俄
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-08-26 15:24
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9XS2Y1WTJLUFNRSndiRmJUTVZVbHZmaEZ5Z2Q2N0R1TXJadElZMjRId1pJNmE3emVVYlJ0S0tlbnhyTmRLcU9LdGxOSnJvSHRyMFBGVngxOVl5dkw3RlBzMmtTX2JWcGtTN240U1FQOXhGc0hsQjN5eGMzUjNVdG8?oc=5>
+- 链接: <https://finance.sina.com.cn/tech/roll/2026-08-27/doc-inipucsr9040559.shtml>
 
 ### 特朗普证实美国中情局局长访俄
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-08-26 22:35
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBYa0FFWjFCT0ZFS3VJUkJmLWdxcEY1SURyZmROajhnbEllNUdTY0RmVU5tUmVEalNuRU56RWlFamV6VUZlY1FhclhmYWluRHIzVzVCbHRLeGYxenRSWDVZTGRCVmpFTjNaM212WDJhYUZ5X1hNcERKVA?oc=5>
+- 时间: 2026-08-27 18:07
+- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxQdjNVdHRDdzB6Ukw5WExBZkVkaDZvMUdpUVdRbDREMUotd053cjN2RFZneXNYNWU5V2hPT3VuZFF1M0Q4Y2NoM2hQSmxacUFLRDNjdER2Y2E3QS1SNUlmSnVhM2d1UFN1N0hNSlhvOGk4RFdNSzlOenVIb2gzYVJzV2U3TVhBMXJFOTZGVFhkNDZmalpLLXcwTmstTkE0eThF?oc=5>
 
-### 特朗普签令，宣布禁止使用部分外国电力系统设备！A股龙头大跌12%，公司最新回应
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-27 06:23
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9tbHRGVDljT1gxRUFQZzBSV2RUUGxROVl5M3FYN2R2dVFsZzV2eGthNy1nMllCbGtNQ3NCYkMwb2FsV19aZlp1eGxCRnBaWDNiYnR5OFBEYlFtbTNLNmlTRDdrX3hMc1VBN1FyR1YzbHY4QkJKRVhkcw?oc=5>
-
-### 特朗普恼火之际，加拿大两省对美酒的最后一击
+### CIA局长为何突访莫斯科？特朗普回应
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-08-26 23:34
-- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE5KQlN5NmphQUNxbVI0VTlPTEJTN3ZfcDZwenZOZUVMUGJiLV9ZY0o5RmFYLVpzTGVTNmxKTnNNY0FJZ3I2TXB5cGlLbHdRU21p?oc=5>
+- 时间: 2026-08-26 13:57
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFB4VjZ0LUtnd09CWkhXSXlVeXIwbWNjU1BDRkFDVWcwLWdkLXY2TDBQcHFLZG5pOFFYdXlDV1ZtVUFZODF1TzBjd3lmaHA?oc=5>
 
-### “伊朗悬赏1000万美元追杀特朗普小儿子”，美国特勤局回应
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-08-26 06:20
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBoeHBHd25TT2wyNU5hV2JJSHpMZzJkZUd5N2xRTEUxaW0yYTg3U0Z4SVczRlNuRTNnYlZEbURJX3lkSF93YzQ1bFBETHJjM0dCWnpvS1RFdTdNS1ZkeVlTc0pDb0swdWtFc083Yml0Vnk?oc=5>
-
-### 悬赏6700万，伊朗要刺杀特朗普小儿子？
+### 加上特朗普的名字后，肯尼迪中心营收“垂直跳水”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-08-27 05:52
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWTBvWmY5ajdCMXFLV3ZkYm9DSW5oVE9pMF83MG5YVWNtWUxSTjN5ZWpucUZwaXQtVXdWa1JjcHZvYmFuWm11VzBsUTdwSTgzTUxfZUlqQTBxV19zY3B4S1lJYWlQRXowWFVSaGJHZ0JMZWpNalNpUzhOeHRwLU5lNWl5SlFmMlZocHVDZzZfYjdqem5vWV93VXdySHNzSzk0cFVQQWMwbmc3cG5XRkNRZUpHTEJsNXRCeTg3ZkdFNVpmbXNHMC1rTWVNY2lNVmJt?oc=5>
+- 时间: 2026-08-27 15:59
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE9fdVhhT25VQmt2aWlLai1vZ3ZLaXcyS2FxV0VUYWxqRjBKcXFhcUZoZ3NQQ0Zzc3NYY0FJS0pyMklPbXVGWEk0TmRCV2pqSHZSVzBUcHhXTVhYNEtkOGo3MXJnMktxcVpiMVV6LVpIYXZNajFzZVE?oc=5>
 
-### 特朗普敢对中国主要银行下手？
+### 特朗普的贸易行动冲击关键州 共和党中期选举面临更大压力
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-27 16:58
+- 链接: <https://news.google.com/rss/articles/CBMiowJBVV95cUxNMGFuMGNzbzhRVFI3U1ZtdDYyMDNlZ3dyNHhOMzFtcURpMXk5NXRKRjhsZ08yUnhBaXhUTGNCN1JjWVNGZ2hUNGVyQktxUlR4NkNMNEQxcE45bEdkMFdMR3JJXzZ6amdoRnQ3Sk82enNNLUM1MG52VDVJMGFja000TDE2MklqdUQzSG9NbWhYWERjcGV0TWNTa3NoMkNRNEtCdG1FYlh1MWs4NU92Qm5mQzhKemROb3NpMHhJZFhIRGVhYW5la3k3QkZrUGx4QWNWclNkRi1DQ0RHdWtxaFQ2NE9VSW55djFIRGJKU21aMkNhRDRqcldpRjVNdEdZT3ZEeE1fN2RKbmRBTmEtdl90RG1qREgxUzg2OEdZUjNacHNtVGM?oc=5>
+
+### 特朗普向美国会提交沙特核协议，但坚持利雅得必须先承认以色列
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-08-27 16:20
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFA1TG1YdGFLSUw0bzRQU0xnTC10Uzk1MEZwbGs0c25xRFNLak1lZ0Y4SmVqWHYwcExpWHFZdjE2OUtqZFRpSWdXOEc0YWpRdE5fcXlJcFEzbTVFMGxZY2t5LURXeWpHczlvZF9ScnVhM0pJZw?oc=5>
+
+### 特朗普就美国电力电网中的外国制造设备宣布“国家紧急状态” 外交部回应
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 东方财富
+- 时间: 2026-08-27 08:15
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ITk1CZ0tXT0Z4cXlnV1QybllCbFJHdENOLWtwel9zYy1xQklnc09Ja1pUMUJTUjdSZy11azFXY1NBSjdCTVhHMkxoV1diWjlGVWN1bVhFQ29vazRmYkp5cw?oc=5>
+
+### 特朗普总统宣布国家紧急状态，授权限制高风险外国电网设备
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-08-27 15:18
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcm5vandKck1yOXNBRllKSUY4TlpsUGhQdzk1aGZYZDhkYjNIYXhxMUtidmVidW9GSk43WHp5dC1pSVAtd05BMDVmeExUVXg0WWpzMzZ4Ql83U3hyeUtsTUxzSVNzaWJxNHVSenQyQm5Qa2JaakpFR0s4Zl9OM2xpMzFvZjVLeERDc1BxUmF4OW03UHQ3d01QQndfR0pqN0wwSEhPaEU3VFYtSHlHcEJkUGlmT2s0OFd3TnlSZWYzTFRjbHhmXzBVSU1qM1llWDJjdzZDVE12VEIzQWJsM3Z30gHiAUFVX3lxTFBkNklYLVIzclNDa0ZKMUdzOTNEeUhZQnJseVpzRlAxT1Zxd3V5S2FuT1J0a0pfbnhxMUVNOFpvaTJOc0dIVWxxZlJlVjd4ZnlMdkZFcDNrQ3gydGoyM2FOVGZQSHRhWEpKaUViX3JuVk1ZUEY3RkdOMmtCX3lXU19RLW9hazd5Tmx5d0d1ZC1OOThRckpiSnhqN0dWT056eXZWeG1tYTdabzQtNGRsTHdNZDIwclk2dGJDNDN5b3Y1cktqOHFNRzJKc3dZVzhNVFBoVF85NUNDNjlxWjVGT21Gb3c?oc=5>
+
+### 特朗普就美国电网中的外国制造设备宣布“国家紧急状态”，中方表态
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中国青年网
+- 时间: 2026-08-27 09:40
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43X1VZaS1JcHk4NFlxU2JVS1RoM1NITFd0RVFYYlRWRHdVNUNDMUNVcUxsblhxYjJOeEZOUDh1THh6aFdqRmVSbVA5NnFzNVI1N2VWR24tNm8tX21CRUVjNnFJWlp3QTA?oc=5>
+
+### 特朗普突然对朝鲜示好，真正想“敲打”的是什么？-高志凯、赖岳谦
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 观察者
-- 时间: 2026-08-27 02:53
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5JVURBdnhuajloQk5nREoxM0N4ZWI5WWMyeXMtUWdfZHRmZkhQQ0pFMlFJLWt0N3IyR0dKUFdzM3dHQ3F6ZG15M0RrNjMxMTRVNUtGdURsRUxjb1VNNWdhX1o0SHZocm5LUEE?oc=5>
+- 时间: 2026-08-27 02:07
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmNmNDbHV2bDBpcGVtMmJqaExTMDE0bFc2T3o1bEdOZUFteC1wdUZEZnhPanI1NnRRVmFXR0YxbkNhblUtNFNhaF9wTTE5R0N4VmhmM3JTSURxWFBvczhmU0lpcUdhQ0k?oc=5>
 
-### 特朗普：对于伊朗何时重返谈判“没有时间表”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-08-26 21:08
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE5LcWt0Z0VCWngzSDUxRWhHZ0Q1c3FkY0pSODhRVXpZajhOY09HdjFuOXZpcDJzU2NMSHZEck1jQkdPdlp3N0VqRXZYVmxLaVFYcDRqRUJ0WEY1U1JWbGlBemtrRmZzWEFjWU1uN2xRNDRTQkVHbmRUR0MtYngyUWc?oc=5>
-
-### 特朗普称“谈判没有时间表”，伊朗开出“重开海峡条件”，航运巨头评价“市场低估了长期僵局风险”
+### 特朗普颁行政令 禁部分外国电网设备
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-08-27 00:21
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5YNnFpdEpCMmxjQWw5M3ZjeDZaZlp0bElJTVpkdEttMDR0LXp0czU4d2xoT0tYQ2gzLVphMjl5NGFhUXBGNlg4aVNqb1hpS085U204?oc=5>
+- 场馆: dw.com
+- 时间: 2026-08-27 12:41
+- 链接: <https://news.google.com/rss/articles/CBMiigJBVV95cUxOLTBhZ21YeFVodHZVdUJIMDBScVpDRzZfZWdPSFZFR1p5Um1UajNMTmo5aDAtNVFLVkF0UnQ5eWVzcmhfU01VcGNScUllN3IwZmYxdnk0b2hoaVJKSjNkaVpTN2t5b185SS1RQXNXWV91bGdhUTIwWi0ydmlqXzR3NEd0bWVPOWtzZ0FFUE51WGhwei1yaF8xWEs5dllJSWV2N28zd2J0V1p4V19NTFViU0Z6aU9TX1laUG93NmdSRU1JeFp4eEFXSVFjY0YwbDhDWlE1SnJMYlNXeTM1bnNPZTYyT1lrdjBZZUNfR3psd3RDWWY1ZXNqcFBQbXFPaE9NSExHM21RVmFQZ9IBigJBVV95cUxOb1VDY1lDdGt6NUg0RXhPUFp1TzczbFVmU0poWG5sT1RFS29vTC05UWFsaEFDN09lNUwzdW5XcTdRWEYzcjZpcmNoU3Z2NDg1Q0twZG4waC0tdkJZT0ZYYWR3NWw4QWJnTGRSR1o2RHl2WmVjQkxHZm5sV0lJWTA4d3huZ0djVkRhelZGV0J6aktxUk5kNWVPdDJtdHdacGxUSVppb29YV0pGelBPV29lQUs0ZWdwMEJrYVVONk1USVhzWC1CUE56MlVxNEw1Tmc4a2pFOXJjZDB6SENmOE9YRWxWb2doMV95Q1psQ2ZSVlR4MHRRMDl6V2RsZThzV1JBWXFYT0dlQmd3Zw?oc=5>
 
-### 特朗普连晒3张与金正恩合照，“再次释放对话信号”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-25 07:57
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBCN293RllPUF9lN21VS25BZG9ocjZjUy1yanJXSXlMV2s2eExtM3k2ZVhJenBNcmNqZDVjbGJvSGN2eC1pMl9fMlZqZWQ?oc=5>
-
-### $TRUMP TRUMP站上2.48，一周暴涨75%！ 过去一周，TRUMP从底部... | 欧易
+### $TRUMP 单纯看这些指标，确实像个拉升前的蓄势。但TRUMP这个...
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: OKX
-- 时间: 2026-08-24 14:53
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE5adTEyYjA4Zk84eEJfTFVwVGdtR0JBclBxaGY5TFlVMmgtSm1ia0c5ZzhTcDU2VV9zNzJXYlVCSzRCdzYtSmx0MEdLbllMTXViY1hYUDJCcjhQNm5nS3Z0Z0t4V1lvcEUxRDg4?oc=5>
+- 时间: 2026-08-26 06:57
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jYXRDRkhUNXdkTHFaSHBKd0VQQ1VDWDdsWXVob3RVTEppVWVIa2RrbjdhaVVUWV8tSnowQ2FsN0xpWWRfWmNvTlZJTkFkNEJrQVlIc3dKQ1hPc08zeUhQUA?oc=5>
 
-### “捐赠者、观众和艺术家全都离开”……冠名“Trump”的肯尼迪中心预计亏损319亿韩元- 阿视亚经济
+### Trump Media & Technology Group Corp (Derivatives)(DJT) 币价，图表，市值以及其他指标
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 아시아경제
-- 时间: 2026-08-26 23:43
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1pbUNHMUVBV2xCa1prUkprR3A1TkdkU2FlT25xQXZFZ3doRmJkV0ZLd3pFZUkySmE2SmZ5b1VhRVd6LTRhcE9ER0ZOcTRNdVRnendqbVBXVk1hc1pkenZibXA5R2U?oc=5>
+- 场馆: CoinMarketCap
+- 时间: 2026-08-26 17:09
+- 链接: <https://news.google.com/rss/articles/CBMijgFBVV95cUxNSEQyd2UybFdhd0lCeUNuRUx1d2NUVlhCbTRTOWtReE8zdEoyNzQ4S0RoclJiYk0yUWpkcmhEMDJ3dDZsb3c1aUk2bFI5am5WWENyS3RQUFZXZWRkRS1tS09vRF9TVHNkRTQ2bWl1ajFyTWpWeVB3cmJDR0FwYTFzMFIzX1VLT1IzWUFQd3dn?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-27 18:21  (15 条)
+
+- **王一博** | 全套抢技巧！来看看，都是干货，好好学，希望我能抢到肖战王一博演唱会！ <https://k.sina.com.cn/article_7811154182_m1d194c10603301zgci.html>
+- **周杰伦** | 演唱会欢呼声与球场雨声之间，明星的私人空间还剩几分贝？ <https://news.sina.cn/bignews/insight/2026-08-27/detail-inipucsr5316181.d.html>
+- **周杰伦** | vivo X500系列上线抢先体验活动 发布大致敲定 <https://finance.sina.com.cn/tech/roll/2026-08-27/doc-inipucsr9040559.shtml>
+- **特朗普** | 特朗普证实美国中情局局长访俄 <https://news.google.com/rss/articles/CBMioAFBVV95cUxQdjNVdHRDdzB6Ukw5WExBZkVkaDZvMUdpUVdRbDREMUotd053cjN2RFZneXNYNWU5V2hPT3VuZFF1M0Q4Y2NoM2hQSmxacUFLRDNjdER2Y2E3QS1SNUlmSnVhM2d1UFN1N0hNSlhvOGk4RFdNSzlOenVIb2gzYVJzV2U3TVhBMXJFOTZGVFhkNDZmalpLLXcwTmstTkE0eThF?oc=5>
+- **特朗普** | CIA局长为何突访莫斯科？特朗普回应 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFB4VjZ0LUtnd09CWkhXSXlVeXIwbWNjU1BDRkFDVWcwLWdkLXY2TDBQcHFLZG5pOFFYdXlDV1ZtVUFZODF1TzBjd3lmaHA?oc=5>
+- **特朗普** | 加上特朗普的名字后，肯尼迪中心营收“垂直跳水” <https://news.google.com/rss/articles/CBMidkFVX3lxTE9fdVhhT25VQmt2aWlLai1vZ3ZLaXcyS2FxV0VUYWxqRjBKcXFhcUZoZ3NQQ0Zzc3NYY0FJS0pyMklPbXVGWEk0TmRCV2pqSHZSVzBUcHhXTVhYNEtkOGo3MXJnMktxcVpiMVV6LVpIYXZNajFzZVE?oc=5>
+- **特朗普** | 特朗普的贸易行动冲击关键州 共和党中期选举面临更大压力 <https://news.google.com/rss/articles/CBMiowJBVV95cUxNMGFuMGNzbzhRVFI3U1ZtdDYyMDNlZ3dyNHhOMzFtcURpMXk5NXRKRjhsZ08yUnhBaXhUTGNCN1JjWVNGZ2hUNGVyQktxUlR4NkNMNEQxcE45bEdkMFdMR3JJXzZ6amdoRnQ3Sk82enNNLUM1MG52VDVJMGFja000TDE2MklqdUQzSG9NbWhYWERjcGV0TWNTa3NoMkNRNEtCdG1FYlh1MWs4NU92Qm5mQzhKemROb3NpMHhJZFhIRGVhYW5la3k3QkZrUGx4QWNWclNkRi1DQ0RHdWtxaFQ2NE9VSW55djFIRGJKU21aMkNhRDRqcldpRjVNdEdZT3ZEeE1fN2RKbmRBTmEtdl90RG1qREgxUzg2OEdZUjNacHNtVGM?oc=5>
+- **特朗普** | 特朗普向美国会提交沙特核协议，但坚持利雅得必须先承认以色列 <https://news.google.com/rss/articles/CBMickFVX3lxTFA1TG1YdGFLSUw0bzRQU0xnTC10Uzk1MEZwbGs0c25xRFNLak1lZ0Y4SmVqWHYwcExpWHFZdjE2OUtqZFRpSWdXOEc0YWpRdE5fcXlJcFEzbTVFMGxZY2t5LURXeWpHczlvZF9ScnVhM0pJZw?oc=5>
+- **特朗普** | 特朗普就美国电力电网中的外国制造设备宣布“国家紧急状态” 外交部回应 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ITk1CZ0tXT0Z4cXlnV1QybllCbFJHdENOLWtwel9zYy1xQklnc09Ja1pUMUJTUjdSZy11azFXY1NBSjdCTVhHMkxoV1diWjlGVWN1bVhFQ29vazRmYkp5cw?oc=5>
+- **特朗普** | 特朗普总统宣布国家紧急状态，授权限制高风险外国电网设备 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcm5vandKck1yOXNBRllKSUY4TlpsUGhQdzk1aGZYZDhkYjNIYXhxMUtidmVidW9GSk43WHp5dC1pSVAtd05BMDVmeExUVXg0WWpzMzZ4Ql83U3hyeUtsTUxzSVNzaWJxNHVSenQyQm5Qa2JaakpFR0s4Zl9OM2xpMzFvZjVLeERDc1BxUmF4OW03UHQ3d01QQndfR0pqN0wwSEhPaEU3VFYtSHlHcEJkUGlmT2s0OFd3TnlSZWYzTFRjbHhmXzBVSU1qM1llWDJjdzZDVE12VEIzQWJsM3Z30gHiAUFVX3lxTFBkNklYLVIzclNDa0ZKMUdzOTNEeUhZQnJseVpzRlAxT1Zxd3V5S2FuT1J0a0pfbnhxMUVNOFpvaTJOc0dIVWxxZlJlVjd4ZnlMdkZFcDNrQ3gydGoyM2FOVGZQSHRhWEpKaUViX3JuVk1ZUEY3RkdOMmtCX3lXU19RLW9hazd5Tmx5d0d1ZC1OOThRckpiSnhqN0dWT056eXZWeG1tYTdabzQtNGRsTHdNZDIwclk2dGJDNDN5b3Y1cktqOHFNRzJKc3dZVzhNVFBoVF85NUNDNjlxWjVGT21Gb3c?oc=5>
+- **特朗普** | 特朗普就美国电网中的外国制造设备宣布“国家紧急状态”，中方表态 <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43X1VZaS1JcHk4NFlxU2JVS1RoM1NITFd0RVFYYlRWRHdVNUNDMUNVcUxsblhxYjJOeEZOUDh1THh6aFdqRmVSbVA5NnFzNVI1N2VWR24tNm8tX21CRUVjNnFJWlp3QTA?oc=5>
+- **特朗普** | 特朗普突然对朝鲜示好，真正想“敲打”的是什么？-高志凯、赖岳谦 <https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmNmNDbHV2bDBpcGVtMmJqaExTMDE0bFc2T3o1bEdOZUFteC1wdUZEZnhPanI1NnRRVmFXR0YxbkNhblUtNFNhaF9wTTE5R0N4VmhmM3JTSURxWFBvczhmU0lpcUdhQ0k?oc=5>
+- **特朗普** | 特朗普颁行政令 禁部分外国电网设备 <https://news.google.com/rss/articles/CBMiigJBVV95cUxOLTBhZ21YeFVodHZVdUJIMDBScVpDRzZfZWdPSFZFR1p5Um1UajNMTmo5aDAtNVFLVkF0UnQ5eWVzcmhfU01VcGNScUllN3IwZmYxdnk0b2hoaVJKSjNkaVpTN2t5b185SS1RQXNXWV91bGdhUTIwWi0ydmlqXzR3NEd0bWVPOWtzZ0FFUE51WGhwei1yaF8xWEs5dllJSWV2N28zd2J0V1p4V19NTFViU0Z6aU9TX1laUG93NmdSRU1JeFp4eEFXSVFjY0YwbDhDWlE1SnJMYlNXeTM1bnNPZTYyT1lrdjBZZUNfR3psd3RDWWY1ZXNqcFBQbXFPaE9NSExHM21RVmFQZ9IBigJBVV95cUxOb1VDY1lDdGt6NUg0RXhPUFp1TzczbFVmU0poWG5sT1RFS29vTC05UWFsaEFDN09lNUwzdW5XcTdRWEYzcjZpcmNoU3Z2NDg1Q0twZG4waC0tdkJZT0ZYYWR3NWw4QWJnTGRSR1o2RHl2WmVjQkxHZm5sV0lJWTA4d3huZ0djVkRhelZGV0J6aktxUk5kNWVPdDJtdHdacGxUSVppb29YV0pGelBPV29lQUs0ZWdwMEJrYVVONk1USVhzWC1CUE56MlVxNEw1Tmc4a2pFOXJjZDB6SENmOE9YRWxWb2doMV95Q1psQ2ZSVlR4MHRRMDl6V2RsZThzV1JBWXFYT0dlQmd3Zw?oc=5>
+- **Trump** | $TRUMP 单纯看这些指标，确实像个拉升前的蓄势。但TRUMP这个... <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jYXRDRkhUNXdkTHFaSHBKd0VQQ1VDWDdsWXVob3RVTEppVWVIa2RrbjdhaVVUWV8tSnowQ2FsN0xpWWRfWmNvTlZJTkFkNEJrQVlIc3dKQ1hPc08zeUhQUA?oc=5>
+- **Trump** | Trump Media & Technology Group Corp (Derivatives)(DJT) 币价，图表，市值以及其他指标 <https://news.google.com/rss/articles/CBMijgFBVV95cUxNSEQyd2UybFdhd0lCeUNuRUx1d2NUVlhCbTRTOWtReE8zdEoyNzQ4S0RoclJiYk0yUWpkcmhEMDJ3dDZsb3c1aUk2bFI5am5WWENyS3RQUFZXZWRkRS1tS09vRF9TVHNkRTQ2bWl1ajFyTWpWeVB3cmJDR0FwYTFzMFIzX1VLT1IzWUFQd3dn?oc=5>
 
 ### 2026-08-27 07:24  (16 条)
 
