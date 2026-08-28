@@ -1,130 +1,193 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-27 18:21**
-- 本轮扫到 10768 条, 新增 **15** 条
+- 最近更新: **2026-08-28 02:15**
+- 本轮扫到 10788 条, 新增 **20** 条
 
 ---
 
-## 本轮新发现 (15 条)
+## 本轮新发现 (20 条)
 
-### 全套抢技巧！来看看，都是干货，好好学，希望我能抢到肖战王一博演唱会！
+### 王一博在泰国见面会现场的其他表现如何？
 
 - 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7811154182_m1d194c10603301zgci.html>
+- 链接: <https://k.sina.com.cn/article_7879849295_1d5acf54f06801k57m.html>
 
-### 演唱会欢呼声与球场雨声之间，明星的私人空间还剩几分贝？
+### 王一博在《陈情令》泰国见面会的表现对他的事业有什么影响？
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923107_1d5ae15a306803wlpk.html>
+
+### 2026下半年演唱会购票攻略：周杰伦277万人想看，抢票前必看这3点+FAQ
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://news.sina.cn/bignews/insight/2026-08-27/detail-inipucsr5316181.d.html>
+- 链接: <https://k.sina.com.cn/article_7880068908_1d5b04f2c06801myoa.html>
 
-### vivo X500系列上线抢先体验活动 发布大致敲定
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://finance.sina.com.cn/tech/roll/2026-08-27/doc-inipucsr9040559.shtml>
-
-### 特朗普证实美国中情局局长访俄
+### 特朗普对中国储能、逆变器下重手，会反被卡脖子吗？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-08-27 18:07
-- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxQdjNVdHRDdzB6Ukw5WExBZkVkaDZvMUdpUVdRbDREMUotd053cjN2RFZneXNYNWU5V2hPT3VuZFF1M0Q4Y2NoM2hQSmxacUFLRDNjdER2Y2E3QS1SNUlmSnVhM2d1UFN1N0hNSlhvOGk4RFdNSzlOenVIb2gzYVJzV2U3TVhBMXJFOTZGVFhkNDZmalpLLXcwTmstTkE0eThF?oc=5>
+- 时间: 2026-08-28 01:54
+- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxNVnRta0lIUTJGMzRIX1NLdW96T0VFZkFkeHJkVnk0SEktandfTG9HY1JHYTVXMHZLbnVnNzZjX2hoMkFhR3JIWHVXWFYzZld5STJGV3B0bkh0VFJoNWZFd01YRF8wTkhlTGppa1UwODhwV0p5YS1RbHJ5Z05RUnZjTVQ5Yk9QRVo4WTFPRFQ3NjZzWE15YmRoTUR3YkhleFRv?oc=5>
 
-### CIA局长为何突访莫斯科？特朗普回应
+### 特朗普称与普京进行“良好对话” 相信俄罗斯不会攻击北约领土
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-27 20:34
+- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQ1NkS3U2NjB6Rlh0Y3dxQXRUMkotM2NGNWctUkdJTDRVT2hGWW9Ncl9NSGtKZS1OenE0MWxGdjJwYmhMWlVLWmgwa0xCRU95R0VmWGozdWpaNDBFenZHTm9NbzNlcE14b1RCNFBZOU40b194UGtvY2JHVjVCcWZPY0U5T3RGTm4xZTNOaE4taHFjb0xHU1hoZVVETmpyd0xMVm1KQWRrREdYZw?oc=5>
+
+### 特朗普称俄罗斯不会攻击北约
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-08-26 13:57
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFB4VjZ0LUtnd09CWkhXSXlVeXIwbWNjU1BDRkFDVWcwLWdkLXY2TDBQcHFLZG5pOFFYdXlDV1ZtVUFZODF1TzBjd3lmaHA?oc=5>
+- 时间: 2026-08-27 21:38
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9UclpZWWZ6OU05YWd1MnR6Z3IxZDJleTY4YWJBbUtWb0hsQ0RMOFZLUXVqYWlOc29tNGtTbG9SOXpiNXZMZUxrUVMwMEs?oc=5>
 
-### 加上特朗普的名字后，肯尼迪中心营收“垂直跳水”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-27 15:59
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE9fdVhhT25VQmt2aWlLai1vZ3ZLaXcyS2FxV0VUYWxqRjBKcXFhcUZoZ3NQQ0Zzc3NYY0FJS0pyMklPbXVGWEk0TmRCV2pqSHZSVzBUcHhXTVhYNEtkOGo3MXJnMktxcVpiMVV6LVpIYXZNajFzZVE?oc=5>
-
-### 特朗普的贸易行动冲击关键州 共和党中期选举面临更大压力
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-27 16:58
-- 链接: <https://news.google.com/rss/articles/CBMiowJBVV95cUxNMGFuMGNzbzhRVFI3U1ZtdDYyMDNlZ3dyNHhOMzFtcURpMXk5NXRKRjhsZ08yUnhBaXhUTGNCN1JjWVNGZ2hUNGVyQktxUlR4NkNMNEQxcE45bEdkMFdMR3JJXzZ6amdoRnQ3Sk82enNNLUM1MG52VDVJMGFja000TDE2MklqdUQzSG9NbWhYWERjcGV0TWNTa3NoMkNRNEtCdG1FYlh1MWs4NU92Qm5mQzhKemROb3NpMHhJZFhIRGVhYW5la3k3QkZrUGx4QWNWclNkRi1DQ0RHdWtxaFQ2NE9VSW55djFIRGJKU21aMkNhRDRqcldpRjVNdEdZT3ZEeE1fN2RKbmRBTmEtdl90RG1qREgxUzg2OEdZUjNacHNtVGM?oc=5>
-
-### 特朗普向美国会提交沙特核协议，但坚持利雅得必须先承认以色列
+### 播客 | 美航母重回“蒸汽”时代？不如先用特朗普来命名……
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪网
-- 时间: 2026-08-27 16:20
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFA1TG1YdGFLSUw0bzRQU0xnTC10Uzk1MEZwbGs0c25xRFNLak1lZ0Y4SmVqWHYwcExpWHFZdjE2OUtqZFRpSWdXOEc0YWpRdE5fcXlJcFEzbTVFMGxZY2t5LURXeWpHczlvZF9ScnVhM0pJZw?oc=5>
+- 时间: 2026-08-28 00:10
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE81Ti1SSHpMT0EwZ1BtSC1WUEw5dHc2eDZDWXk0S09VRk5LVG5OTE1WYkpkZ2F2aks2el9ramp4MkNsTmNha1dJYUpaSVVXUncwakxQLXluYlFZQXJpUkF6ekV4cUVkV2FJN0RpTXhHTHZxdw?oc=5>
 
-### 特朗普就美国电力电网中的外国制造设备宣布“国家紧急状态” 外交部回应
+### 特朗普签署行政令将安大略湖更名为“美国湖”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-08-27 08:15
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ITk1CZ0tXT0Z4cXlnV1QybllCbFJHdENOLWtwel9zYy1xQklnc09Ja1pUMUJTUjdSZy11azFXY1NBSjdCTVhHMkxoV1diWjlGVWN1bVhFQ29vazRmYkp5cw?oc=5>
+- 场馆: china.zjol.com.cn
+- 时间: 2026-08-28 00:45
+- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTE13T3E0aW1FbVZfSVRqRjI5VVRYNHgzdXdZZFhkOEh0WXZaUXAwdl9Cb2V1SGNnRDZDUUwzOU1jSS1oa0JkMElJdzY1LUVjbTE5Qjd5bDdmcHEtcEVqd1p4c3pVOFFWc2cwYWF0andR?oc=5>
 
-### 特朗普总统宣布国家紧急状态，授权限制高风险外国电网设备
+### 特朗普签署行政令 将安大略湖更名为“美国湖” 美加贸易战持续升温
 
 - 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-27 19:26
+- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxPM1BUMm1hSFI2bUxyNHBhOFJXbUNKNU1pbXhkeF8zUXBVQS1nS1VUNE9xQVd6Q0RTbHZCMUhNbmRqUkZuN3gxWlNlR3VXWldhVVdhOVhHWFBua1VFTE9IRGQwczNITWNPcWloVkhCWDZHOUhyNWVTd090bTJ4WmwyZGFHV00zdnlsT1BNQlQ0SERoOE5OR3hDUldwb1N1N1FRclZMcE44REVqZVlIN3FrNjJLcjJ5SjZ2MGdPN3JUZDg1WFZ5Z3Q4WEN5RXBWd3V1RWc?oc=5>
+
+### 特朗普签署行政令把安大略湖改名“美国湖”，加拿大：永远都是安大略湖
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-28 00:39
+- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxOVDRMMlUxeURIUURQeHVMNHNWTjRRb3FjbEo0LUx1Mk9fMEh5VzdzNmE4ZUU5emF1alYtWk5lejJNZVdDZE13U2JXelJRX3VSajVoRU5RbWpBZ0pJQzRSYVd4OTktNzk1LTRkakZNR0ZkSzUxWFRuVkVfYVZwdXpVSkNKWVA4dENKY0ppTWVkdjB3aktwUU40cg?oc=5>
+
+### 特朗普任命本·莫斯为白宫幕僚秘书
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 紫牛新闻
+- 时间: 2026-08-27 23:19
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBhajZYOXlYUm50QnpRb2RvVC11Z19DemZ4bGcwMU5hMi12cjd2dVJuVHhFczloREhhcUpxZkxiRk5iQVgwRDdEdTJGdXdPVC1xY0ZzMWNuSTdMdUgyMWN5cndyZTU1aFhYZlE?oc=5>
+
+### 特朗普任命本·莫斯为白宫幕僚秘书
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-27 22:18
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBENFVDS2s0Tmdka1g1QkNKeVNQdVJLZ3MxYnJfcTQ2b3B2Qkt2am1UU1hfVHZoWEw4a0JlZGtrSEtoSFZuV3E5RnRTM2xUUjRoTEsxcVNLM3JvYVJMZnNCWVltVE1hX2EwSlJ1dGQxNXFKNGlfRmlmSg?oc=5>
+
+### 特朗普任命本·莫斯为总统助理兼白宫秘书
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新京报
+- 时间: 2026-08-27 23:27
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5aV3RLbTljalVkd0VVNlN4SkxzVTlhVzJmUEtsYnhlaG1mM3I5eWxwSzhuV2VJRHFnTGdDbFQ4dk9fNDNJa1daSWJONE1ZRmFhcHJFMVlleE1OUzVvLWlGU3J4OUY?oc=5>
+
+### 特朗普又干了两件事，全世界目瞪口呆
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-08-27 23:52
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1BWFRSZ2Z6S2NmR2xUUDhtNjNudFhDMjVINThqMGt6UzVPeFNzUmJydHBmUGZUMFl0N056azJORlBfd0VleUZhQVZ4bUQ?oc=5>
+
+### 特朗普拒绝说明是否制裁中国银行 美对华金融施压引发猜测
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-08-27 21:35
+- 链接: <https://news.google.com/rss/articles/CBMimANBVV95cUxQN0R2YXBlbURTYy1XZWZ1Zkg3aDlkWU9vajRjeFV6ZS1IV3J1QVNZQ1ItdmJHWDhnWDRyTGZTZ0NWVjlyb25hU1N5YVRtNGI3REhJN25oXzJ1dlFqbUtMUUZBdjNDUTlTaDlsTlFrRjJOM2dYV0VtN3hjRkJwbUxKdzFtMElYRU9kTDJrZnh5QTVyRlpJcDFLay1CODV3ajB0eVlFQ3l0UmdnTk14ZDFmMkZENXRfOFNHQ1c2MHNydUtpWjY4VHBkakY1ZlpGM2ZRWk1GUUdKMDhMdC1XcmZpTnFVdWtJd2JJY050WjdhNVhqZm5NTkpmaGhYMU01SEFaWFRrYlV4ZnhGS01tMjQ3RVBVaHFkNXBtdUtKOTNGZER1SFhsQV9mUFdsTWpWZlhRVk1WbkZZUWxpc09UTzBtTU15dHVHZmVIekRtZTJvR2YxWnlVTk8zOFhNV25Fb2tWRngxOFFuZ3lXTDctS3M1Y21aLUNtZkpHc3RhcXUzSkR4VDdCd0ZiUHFISENZejdSX1MxVHVNQlA?oc=5>
+
+### 美加贸易战升温 特朗普签行政令将安大略湖更名为“美国湖”
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-08-27 21:42
+- 链接: <https://news.google.com/rss/articles/CBMimgNBVV95cUxPUTU2bllCNGlabUZzaFB5UXVyc0xIaF9TQ1ZzbFh5U0NRUmx3bmFzOTVtVkxQR1Zzb1VHWkpHZGpEV0lONFZzSHhXbm1ua1E2Y3JnUzBjOXhXZWNEZFFXU0RHS09TbWh1Uk44NDlmSWpHZG1pbWVxTW81TXc3c1c3SUhraDNIUzRYdGRUdWdWeUVGUEZzcURnTlc4VTRJU2s0NnEzZ2dQcTRtNHZEamltRk5vRkRXSnJ0c2FHWmlKQXREbGxDLWZiS0JoaUh1TlFpV0JNOVNQd0tPUFBSeTRSMTdHUkxkYWFOZzNfajJPWlpaUDlRTk1lQWVOUDctblNVZEJyQ2s3cmxqOU1za2NQR244NFdsRFlyZjFrWW90ZGdOazIxdDN1NEFrN0k0SWNTSUs4aHljOWZJMEpYdmpPdnl1UzdHeElXSGJ0djZYUmxiWktQTWJyWEZEaENyRXJsSFJwN3pxRVdaUms2N3lueE1CVlZVRW1DRVhEcVFaZ21FdUQ5Smo3NDU2UVVTeGdIV3BjS19EUzJqUQ?oc=5>
+
+### Trump Signs Executive Order to Rename Lake Ontario 'Lake America'
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-08-28 01:02
+- 链接: <https://news.google.com/rss/articles/CBMirwFBVV95cUxPS0NFUFBYRlozMFphd0lfUFhxVkoybVdOR19PM01QYWxTODdURXVpRnVnUDY5c0RXRnlzYXZnN1NSRjhqMldSUVJfR0xXY2hYSVFzT3otR1g3YVFMc0FJN1BBajdaY0ZPNGVkWk1DWjY0eEhuSmZ2SF9PTXRRVnNvbUc1YTVoSTlQRmdMMHpZcFNKOXQycjQ4a3dac0s4a2dNTXg2VXA4anpYYkNVdy1J?oc=5>
+
+### 特朗普家族新加密银行获阿布扎比酋长的支持
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-08-28 00:05
+- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxNSHJxWTRPZUZ6MG1xMngxVnduYkJJaXV2UXNiSF9pM3BGVGJFUTZwSF8wTXhOak1nZnNmTEpjeUxBZERxVUhFbnh0WkhuNGVPWFpuQmZtZnZTN3FnbTdjTlFrS3lLRFNmUW5ra2lXaTZBWmwzSEFRdU5XcW5fYnNRaXBEb1RETno3V2NCQUI3MFloYWZmV3p2Tkc2dDg?oc=5>
+
+### $美光科技 (MU.US)$ Donald trump公然内幕交易美光科技，笑死。
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-08-27 07:00
+- 链接: <https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaVNsNjNmYWpZLVM4R2RDdFpDLUduZ0ZlOFNaTE1SdHR6RUk5TEdKWHFGcllEQ2JuTHE3V29YT1JvVUhjb21xLTgzclhLekxFVzlnOU1oRUozZDNfWkFOTVpGLUUzanItWC1lQjg4QXBqWU4zSkYwQWpGbnBVUjZkekpsVDdXdlFIVnJSc1p0RVVJTl9tNVhyRWpzRjRhaWJEWlZSVmxhT3E0cDk2QUhzaXItSTlmX1V0V1ZBYy1KRDJUNXM?oc=5>
+
+### 和平委员会官员批评以色列袭击，警告称替代方案将导致“下一场战争”
+
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: 美国之音
-- 时间: 2026-08-27 15:18
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcm5vandKck1yOXNBRllKSUY4TlpsUGhQdzk1aGZYZDhkYjNIYXhxMUtidmVidW9GSk43WHp5dC1pSVAtd05BMDVmeExUVXg0WWpzMzZ4Ql83U3hyeUtsTUxzSVNzaWJxNHVSenQyQm5Qa2JaakpFR0s4Zl9OM2xpMzFvZjVLeERDc1BxUmF4OW03UHQ3d01QQndfR0pqN0wwSEhPaEU3VFYtSHlHcEJkUGlmT2s0OFd3TnlSZWYzTFRjbHhmXzBVSU1qM1llWDJjdzZDVE12VEIzQWJsM3Z30gHiAUFVX3lxTFBkNklYLVIzclNDa0ZKMUdzOTNEeUhZQnJseVpzRlAxT1Zxd3V5S2FuT1J0a0pfbnhxMUVNOFpvaTJOc0dIVWxxZlJlVjd4ZnlMdkZFcDNrQ3gydGoyM2FOVGZQSHRhWEpKaUViX3JuVk1ZUEY3RkdOMmtCX3lXU19RLW9hazd5Tmx5d0d1ZC1OOThRckpiSnhqN0dWT056eXZWeG1tYTdabzQtNGRsTHdNZDIwclk2dGJDNDN5b3Y1cktqOHFNRzJKc3dZVzhNVFBoVF85NUNDNjlxWjVGT21Gb3c?oc=5>
-
-### 特朗普就美国电网中的外国制造设备宣布“国家紧急状态”，中方表态
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中国青年网
-- 时间: 2026-08-27 09:40
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43X1VZaS1JcHk4NFlxU2JVS1RoM1NITFd0RVFYYlRWRHdVNUNDMUNVcUxsblhxYjJOeEZOUDh1THh6aFdqRmVSbVA5NnFzNVI1N2VWR24tNm8tX21CRUVjNnFJWlp3QTA?oc=5>
-
-### 特朗普突然对朝鲜示好，真正想“敲打”的是什么？-高志凯、赖岳谦
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-08-27 02:07
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmNmNDbHV2bDBpcGVtMmJqaExTMDE0bFc2T3o1bEdOZUFteC1wdUZEZnhPanI1NnRRVmFXR0YxbkNhblUtNFNhaF9wTTE5R0N4VmhmM3JTSURxWFBvczhmU0lpcUdhQ0k?oc=5>
-
-### 特朗普颁行政令 禁部分外国电网设备
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: dw.com
-- 时间: 2026-08-27 12:41
-- 链接: <https://news.google.com/rss/articles/CBMiigJBVV95cUxOLTBhZ21YeFVodHZVdUJIMDBScVpDRzZfZWdPSFZFR1p5Um1UajNMTmo5aDAtNVFLVkF0UnQ5eWVzcmhfU01VcGNScUllN3IwZmYxdnk0b2hoaVJKSjNkaVpTN2t5b185SS1RQXNXWV91bGdhUTIwWi0ydmlqXzR3NEd0bWVPOWtzZ0FFUE51WGhwei1yaF8xWEs5dllJSWV2N28zd2J0V1p4V19NTFViU0Z6aU9TX1laUG93NmdSRU1JeFp4eEFXSVFjY0YwbDhDWlE1SnJMYlNXeTM1bnNPZTYyT1lrdjBZZUNfR3psd3RDWWY1ZXNqcFBQbXFPaE9NSExHM21RVmFQZ9IBigJBVV95cUxOb1VDY1lDdGt6NUg0RXhPUFp1TzczbFVmU0poWG5sT1RFS29vTC05UWFsaEFDN09lNUwzdW5XcTdRWEYzcjZpcmNoU3Z2NDg1Q0twZG4waC0tdkJZT0ZYYWR3NWw4QWJnTGRSR1o2RHl2WmVjQkxHZm5sV0lJWTA4d3huZ0djVkRhelZGV0J6aktxUk5kNWVPdDJtdHdacGxUSVppb29YV0pGelBPV29lQUs0ZWdwMEJrYVVONk1USVhzWC1CUE56MlVxNEw1Tmc4a2pFOXJjZDB6SENmOE9YRWxWb2doMV95Q1psQ2ZSVlR4MHRRMDl6V2RsZThzV1JBWXFYT0dlQmd3Zw?oc=5>
-
-### $TRUMP 单纯看这些指标，确实像个拉升前的蓄势。但TRUMP这个...
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: OKX
-- 时间: 2026-08-26 06:57
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jYXRDRkhUNXdkTHFaSHBKd0VQQ1VDWDdsWXVob3RVTEppVWVIa2RrbjdhaVVUWV8tSnowQ2FsN0xpWWRfWmNvTlZJTkFkNEJrQVlIc3dKQ1hPc08zeUhQUA?oc=5>
-
-### Trump Media & Technology Group Corp (Derivatives)(DJT) 币价，图表，市值以及其他指标
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: CoinMarketCap
-- 时间: 2026-08-26 17:09
-- 链接: <https://news.google.com/rss/articles/CBMijgFBVV95cUxNSEQyd2UybFdhd0lCeUNuRUx1d2NUVlhCbTRTOWtReE8zdEoyNzQ4S0RoclJiYk0yUWpkcmhEMDJ3dDZsb3c1aUk2bFI5am5WWENyS3RQUFZXZWRkRS1tS09vRF9TVHNkRTQ2bWl1ajFyTWpWeVB3cmJDR0FwYTFzMFIzX1VLT1IzWUFQd3dn?oc=5>
+- 时间: 2026-08-27 20:06
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVU9ETXZPcW1SXzRsTHUwd0QwUC03SHVmNDNjckpLMVR5U1EwUXhoaThwVXd4dERLYTY0V3h3b2VxX0FGaTBQTkpiYVZySk5OYmdpTXM5ZFEtMlZ0QU1qYUlaTVlid2NHNkhuM0p3am1tSWxBeHRYT291MXlsZDJ3U01fVW9fVmRwTUZEcnF6VVB1S3dXc0MxckxIeFA0SFdUTnJpZy1rTXBXbFRDMEZkeHBQM1dvR1lSUnBhMG14dnktV0ZhTzVrTHNZYVlXbE1H0gHTAUFVX3lxTE8zQnYxTjhkYnY2M01DN3hNQXh6YjI2cVBnRlBwSl9JLW82SnU2UGs2S2VHWjZDa3VwS2htVDRsMVBFWUoyTDNEaDlkMEVES215UEZQalZZbW96UFlsT2tLRmlNZ2ZHcEJ1YkttTl9ja094MVBVU2F6SXNacF9VZS1rQWxJM3NlV0ZSZXlGU19LRVBlREFPR2NjWXdYeHp5Sy1BY2IzY1lvSmppVkNYVHhFZ3p5bHY2LU42NVJGaHBHd2pwY0h6WTI0emJzNDJFNkdfSGs?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-28 02:15  (20 条)
+
+- **王一博** | 王一博在泰国见面会现场的其他表现如何？ <https://k.sina.com.cn/article_7879849295_1d5acf54f06801k57m.html>
+- **王一博** | 王一博在《陈情令》泰国见面会的表现对他的事业有什么影响？ <https://k.sina.com.cn/article_7879923107_1d5ae15a306803wlpk.html>
+- **周杰伦** | 2026下半年演唱会购票攻略：周杰伦277万人想看，抢票前必看这3点+FAQ <https://k.sina.com.cn/article_7880068908_1d5b04f2c06801myoa.html>
+- **特朗普** | 特朗普对中国储能、逆变器下重手，会反被卡脖子吗？ <https://news.google.com/rss/articles/CBMioAFBVV95cUxNVnRta0lIUTJGMzRIX1NLdW96T0VFZkFkeHJkVnk0SEktandfTG9HY1JHYTVXMHZLbnVnNzZjX2hoMkFhR3JIWHVXWFYzZld5STJGV3B0bkh0VFJoNWZFd01YRF8wTkhlTGppa1UwODhwV0p5YS1RbHJ5Z05RUnZjTVQ5Yk9QRVo4WTFPRFQ3NjZzWE15YmRoTUR3YkhleFRv?oc=5>
+- **特朗普** | 特朗普称与普京进行“良好对话” 相信俄罗斯不会攻击北约领土 <https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQ1NkS3U2NjB6Rlh0Y3dxQXRUMkotM2NGNWctUkdJTDRVT2hGWW9Ncl9NSGtKZS1OenE0MWxGdjJwYmhMWlVLWmgwa0xCRU95R0VmWGozdWpaNDBFenZHTm9NbzNlcE14b1RCNFBZOU40b194UGtvY2JHVjVCcWZPY0U5T3RGTm4xZTNOaE4taHFjb0xHU1hoZVVETmpyd0xMVm1KQWRrREdYZw?oc=5>
+- **特朗普** | 特朗普称俄罗斯不会攻击北约 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9UclpZWWZ6OU05YWd1MnR6Z3IxZDJleTY4YWJBbUtWb0hsQ0RMOFZLUXVqYWlOc29tNGtTbG9SOXpiNXZMZUxrUVMwMEs?oc=5>
+- **特朗普** | 播客 | 美航母重回“蒸汽”时代？不如先用特朗普来命名…… <https://news.google.com/rss/articles/CBMickFVX3lxTE81Ti1SSHpMT0EwZ1BtSC1WUEw5dHc2eDZDWXk0S09VRk5LVG5OTE1WYkpkZ2F2aks2el9ramp4MkNsTmNha1dJYUpaSVVXUncwakxQLXluYlFZQXJpUkF6ekV4cUVkV2FJN0RpTXhHTHZxdw?oc=5>
+- **特朗普** | 特朗普签署行政令将安大略湖更名为“美国湖” <https://news.google.com/rss/articles/CBMibkFVX3lxTE13T3E0aW1FbVZfSVRqRjI5VVRYNHgzdXdZZFhkOEh0WXZaUXAwdl9Cb2V1SGNnRDZDUUwzOU1jSS1oa0JkMElJdzY1LUVjbTE5Qjd5bDdmcHEtcEVqd1p4c3pVOFFWc2cwYWF0andR?oc=5>
+- **特朗普** | 特朗普签署行政令 将安大略湖更名为“美国湖” 美加贸易战持续升温 <https://news.google.com/rss/articles/CBMi0gFBVV95cUxPM1BUMm1hSFI2bUxyNHBhOFJXbUNKNU1pbXhkeF8zUXBVQS1nS1VUNE9xQVd6Q0RTbHZCMUhNbmRqUkZuN3gxWlNlR3VXWldhVVdhOVhHWFBua1VFTE9IRGQwczNITWNPcWloVkhCWDZHOUhyNWVTd090bTJ4WmwyZGFHV00zdnlsT1BNQlQ0SERoOE5OR3hDUldwb1N1N1FRclZMcE44REVqZVlIN3FrNjJLcjJ5SjZ2MGdPN3JUZDg1WFZ5Z3Q4WEN5RXBWd3V1RWc?oc=5>
+- **特朗普** | 特朗普签署行政令把安大略湖改名“美国湖”，加拿大：永远都是安大略湖 <https://news.google.com/rss/articles/CBMimAFBVV95cUxOVDRMMlUxeURIUURQeHVMNHNWTjRRb3FjbEo0LUx1Mk9fMEh5VzdzNmE4ZUU5emF1alYtWk5lejJNZVdDZE13U2JXelJRX3VSajVoRU5RbWpBZ0pJQzRSYVd4OTktNzk1LTRkakZNR0ZkSzUxWFRuVkVfYVZwdXpVSkNKWVA4dENKY0ppTWVkdjB3aktwUU40cg?oc=5>
+- **特朗普** | 特朗普任命本·莫斯为白宫幕僚秘书 <https://news.google.com/rss/articles/CBMiakFVX3lxTFBhajZYOXlYUm50QnpRb2RvVC11Z19DemZ4bGcwMU5hMi12cjd2dVJuVHhFczloREhhcUpxZkxiRk5iQVgwRDdEdTJGdXdPVC1xY0ZzMWNuSTdMdUgyMWN5cndyZTU1aFhYZlE?oc=5>
+- **特朗普** | 特朗普任命本·莫斯为白宫幕僚秘书 <https://news.google.com/rss/articles/CBMieEFVX3lxTFBENFVDS2s0Tmdka1g1QkNKeVNQdVJLZ3MxYnJfcTQ2b3B2Qkt2am1UU1hfVHZoWEw4a0JlZGtrSEtoSFZuV3E5RnRTM2xUUjRoTEsxcVNLM3JvYVJMZnNCWVltVE1hX2EwSlJ1dGQxNXFKNGlfRmlmSg?oc=5>
+- **特朗普** | 特朗普任命本·莫斯为总统助理兼白宫秘书 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5aV3RLbTljalVkd0VVNlN4SkxzVTlhVzJmUEtsYnhlaG1mM3I5eWxwSzhuV2VJRHFnTGdDbFQ4dk9fNDNJa1daSWJONE1ZRmFhcHJFMVlleE1OUzVvLWlGU3J4OUY?oc=5>
+- **特朗普** | 特朗普又干了两件事，全世界目瞪口呆 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1BWFRSZ2Z6S2NmR2xUUDhtNjNudFhDMjVINThqMGt6UzVPeFNzUmJydHBmUGZUMFl0N056azJORlBfd0VleUZhQVZ4bUQ?oc=5>
+- **Trump** | 特朗普拒绝说明是否制裁中国银行 美对华金融施压引发猜测 <https://news.google.com/rss/articles/CBMimANBVV95cUxQN0R2YXBlbURTYy1XZWZ1Zkg3aDlkWU9vajRjeFV6ZS1IV3J1QVNZQ1ItdmJHWDhnWDRyTGZTZ0NWVjlyb25hU1N5YVRtNGI3REhJN25oXzJ1dlFqbUtMUUZBdjNDUTlTaDlsTlFrRjJOM2dYV0VtN3hjRkJwbUxKdzFtMElYRU9kTDJrZnh5QTVyRlpJcDFLay1CODV3ajB0eVlFQ3l0UmdnTk14ZDFmMkZENXRfOFNHQ1c2MHNydUtpWjY4VHBkakY1ZlpGM2ZRWk1GUUdKMDhMdC1XcmZpTnFVdWtJd2JJY050WjdhNVhqZm5NTkpmaGhYMU01SEFaWFRrYlV4ZnhGS01tMjQ3RVBVaHFkNXBtdUtKOTNGZER1SFhsQV9mUFdsTWpWZlhRVk1WbkZZUWxpc09UTzBtTU15dHVHZmVIekRtZTJvR2YxWnlVTk8zOFhNV25Fb2tWRngxOFFuZ3lXTDctS3M1Y21aLUNtZkpHc3RhcXUzSkR4VDdCd0ZiUHFISENZejdSX1MxVHVNQlA?oc=5>
+- **Trump** | 美加贸易战升温 特朗普签行政令将安大略湖更名为“美国湖” <https://news.google.com/rss/articles/CBMimgNBVV95cUxPUTU2bllCNGlabUZzaFB5UXVyc0xIaF9TQ1ZzbFh5U0NRUmx3bmFzOTVtVkxQR1Zzb1VHWkpHZGpEV0lONFZzSHhXbm1ua1E2Y3JnUzBjOXhXZWNEZFFXU0RHS09TbWh1Uk44NDlmSWpHZG1pbWVxTW81TXc3c1c3SUhraDNIUzRYdGRUdWdWeUVGUEZzcURnTlc4VTRJU2s0NnEzZ2dQcTRtNHZEamltRk5vRkRXSnJ0c2FHWmlKQXREbGxDLWZiS0JoaUh1TlFpV0JNOVNQd0tPUFBSeTRSMTdHUkxkYWFOZzNfajJPWlpaUDlRTk1lQWVOUDctblNVZEJyQ2s3cmxqOU1za2NQR244NFdsRFlyZjFrWW90ZGdOazIxdDN1NEFrN0k0SWNTSUs4aHljOWZJMEpYdmpPdnl1UzdHeElXSGJ0djZYUmxiWktQTWJyWEZEaENyRXJsSFJwN3pxRVdaUms2N3lueE1CVlZVRW1DRVhEcVFaZ21FdUQ5Smo3NDU2UVVTeGdIV3BjS19EUzJqUQ?oc=5>
+- **Trump** | Trump Signs Executive Order to Rename Lake Ontario 'Lake America' <https://news.google.com/rss/articles/CBMirwFBVV95cUxPS0NFUFBYRlozMFphd0lfUFhxVkoybVdOR19PM01QYWxTODdURXVpRnVnUDY5c0RXRnlzYXZnN1NSRjhqMldSUVJfR0xXY2hYSVFzT3otR1g3YVFMc0FJN1BBajdaY0ZPNGVkWk1DWjY0eEhuSmZ2SF9PTXRRVnNvbUc1YTVoSTlQRmdMMHpZcFNKOXQycjQ4a3dac0s4a2dNTXg2VXA4anpYYkNVdy1J?oc=5>
+- **Trump** | 特朗普家族新加密银行获阿布扎比酋长的支持 <https://news.google.com/rss/articles/CBMinAFBVV95cUxNSHJxWTRPZUZ6MG1xMngxVnduYkJJaXV2UXNiSF9pM3BGVGJFUTZwSF8wTXhOak1nZnNmTEpjeUxBZERxVUhFbnh0WkhuNGVPWFpuQmZtZnZTN3FnbTdjTlFrS3lLRFNmUW5ra2lXaTZBWmwzSEFRdU5XcW5fYnNRaXBEb1RETno3V2NCQUI3MFloYWZmV3p2Tkc2dDg?oc=5>
+- **Trump** | $美光科技 (MU.US)$ Donald trump公然内幕交易美光科技，笑死。 <https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaVNsNjNmYWpZLVM4R2RDdFpDLUduZ0ZlOFNaTE1SdHR6RUk5TEdKWHFGcllEQ2JuTHE3V29YT1JvVUhjb21xLTgzclhLekxFVzlnOU1oRUozZDNfWkFOTVpGLUUzanItWC1lQjg4QXBqWU4zSkYwQWpGbnBVUjZkekpsVDdXdlFIVnJSc1p0RVVJTl9tNVhyRWpzRjRhaWJEWlZSVmxhT3E0cDk2QUhzaXItSTlmX1V0V1ZBYy1KRDJUNXM?oc=5>
+- **Trump** | 和平委员会官员批评以色列袭击，警告称替代方案将导致“下一场战争” <https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVU9ETXZPcW1SXzRsTHUwd0QwUC03SHVmNDNjckpLMVR5U1EwUXhoaThwVXd4dERLYTY0V3h3b2VxX0FGaTBQTkpiYVZySk5OYmdpTXM5ZFEtMlZ0QU1qYUlaTVlid2NHNkhuM0p3am1tSWxBeHRYT291MXlsZDJ3U01fVW9fVmRwTUZEcnF6VVB1S3dXc0MxckxIeFA0SFdUTnJpZy1rTXBXbFRDMEZkeHBQM1dvR1lSUnBhMG14dnktV0ZhTzVrTHNZYVlXbE1H0gHTAUFVX3lxTE8zQnYxTjhkYnY2M01DN3hNQXh6YjI2cVBnRlBwSl9JLW82SnU2UGs2S2VHWjZDa3VwS2htVDRsMVBFWUoyTDNEaDlkMEVES215UEZQalZZbW96UFlsT2tLRmlNZ2ZHcEJ1YkttTl9ja094MVBVU2F6SXNacF9VZS1rQWxJM3NlV0ZSZXlGU19LRVBlREFPR2NjWXdYeHp5Sy1BY2IzY1lvSmppVkNYVHhFZ3p5bHY2LU42NVJGaHBHd2pwY0h6WTI0emJzNDJFNkdfSGs?oc=5>
 
 ### 2026-08-27 18:21  (15 条)
 
