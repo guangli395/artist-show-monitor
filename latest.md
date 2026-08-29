@@ -1,54 +1,62 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-29 16:02**
-- 本轮扫到 10855 条, 新增 **5** 条
+- 最近更新: **2026-08-29 19:27**
+- 本轮扫到 10860 条, 新增 **5** 条
 
 ---
 
 ## 本轮新发现 (5 条)
 
-### alo高层集体打卡85赛车并发布合照
+### 王一博为什么选择在ins发布这组素颜照片？
 
 - 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7811249616_m1d19635d0033027mqc.html>
+- 链接: <https://k.sina.com.cn/article_7879923101_1d5ae159d06801obzw.html>
 
-### 特朗普签署行政令 将安大略湖更名为“美国湖” 美加贸易战持续升温
+### 特朗普：美获逾650亿桶委石油储量“多数控制权”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-08-28 23:54
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE5xckxSWWNMeFQtZW42REc0d3hGWHlKOFp5d2ltSlc1US12aGItRFpxYzZ2TjBwam1GYnY2UDhZY2pjQlhad3YwLTNuTjFMcFFpV3pxMEhFejhYTnkwbEFFX080dzdTb0oyRWpHdXVYdE9xYURpYnJZV3ZILXg1anc?oc=5>
+
+### 伊朗最高国家安全委员会秘书雷扎伊：“伊朗打算刺杀特朗普幼子”的报道是谎言，伊朗将采取反制措施，打击美国在该地区的经济利益
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-08-28 12:26
+- 链接: <https://news.google.com/rss/articles/CBMisglBVV95cUxOdmFFWmVSUFVBNjZqdXNyanQ5WlFhWlNCNHEwUERtMnJ5dnh1MDFacXBISXBtWjVWcGNxcEtoeDAyNHg5akM0aXVQajVyU2hGNFpWbExuZlBDSDJiclotQVlycF9UME42WmFlaUE1amI3Vzk1SXVlVkJhZGJXLVZCUXdfX1FSS1NWbERsUjlMb3Y5NTFtdFVVdENkSm5OLXdsYndMRkdxeDg2Y0ZBVUNjNktzX3RTWFpkWGJaSFYyaHhJZ0NISnpFRktqVXZiY1FEZFI3NFg3SkJZZGdzOGxhOXhDT3RRZkxCUUlIUmEzLWRwdzRnWW5BYi1FUzlrMk0xbkZ0Ql9pbTByWWs4QjBYTVpiSnd0YUlUY3FjWXlhWW84ZkFkcUFkMzZnYU9nOUt2NVdqZUlyYVpUM043QV8yblEtdHhlVlFwMDdIMzBERVNmZmduaXRDcVpFcGkzVFFCZE5ocTdQZXBHSWhWbGxxdi0tR0VobGhkN1FNZElDa0V4eVRlZHlVN2lqMUltQUhPZXA4enFNZi1vUDZSazlRb2RXMUNhT3h1S0NnMUFRTWI5WGJkQ010bzZSZ1VlaWI1Q2VXTWFERlZRM0tjSmNIVmpIU2hNdkdPMkt4cXR5aU5VVXU5Y3BRQzFjQ1loQTYyUUJlSkJJblVJNFB4SVBwVXVJWko2THgxSklDVnNONFVVSDBkRXBOalg0aXlUSUhaQVFSX1RSdk4yNW5MVkQxSTJNOU5mVUdQaVJiV2V2WkFCRzBLTnRIeDMxMEtOemltOTNsX2NSVGN0cnFxcGNJd3dUOFdnTWhZLUptel9ZcXpaY0FsaEFfS0RtX0dXd0lEQ0Z1cWJud0c3UktjNm9Dd2RrcWdIcUZ0eGlNaFJSWFpGTlh4NTg5dUlPdzlmM1ZhRm93WG1BUktrWTlTX3ZVY29XNURYX1dydnRtQ3NVOUlLeVFhZlpoandYUk16VlRWMklMbWVQX3IxSmdWdXlDaHE1ZktBYVBSQVpIX0NqbmFJYjI5cEdVOVA4eWpXZWllcl9UV21QUG1iemJpWThYS3dkYy1kd291ZS1WQWI4VEpLSkQ4Q1NWa2oxOFlOWUNGVk9ETEt1Sk9LQTJCNlRyWlR0LTR1LW5NVzZnM1A3VWhTMlBHQmF1VkE4MmtLYkpuLTBkTm5sbi0wa3NvcHRmSC1sQU55MVlmMTlUMnhhN1BOdVlCUFpOV1RfZ0JSMEFnRnF5Sk9sS3gwcm41cmsyMlZnNEkyYjRYV2JHVUcxMzhrZWEzS01BZ0U5ZS1NN2JORG4xODdWTmRMZFllZzlwbW9vZXMyMlNMcE0yZmVXekJCM3VtTDJCQUFJbncyTmpFb2lxUVBtQWJqbkdvU3JEanpyRl9tSXkwWVpBNk8wVUZMRlc1N0VaWXZKNU5jVjg0VzVVUGw5N00wN2tVXzB0QmFGRUsxYzRmcEFoaGRQODV6bm1EQW5iNUlzSkVoYVQwNXlRSzFkYXBybEF6NFBCTFZZMnNFNDFSZE1oU2YwSW1XWGVVVWdrY2ZQNUIzdjUzamJ0TkhlYmlvN3ZRb2tWS2RSZ29TMjI2MWZtZnZVUHpMdw?oc=5>
+
+### 特朗普小儿子遭千万美元悬赏追杀，知情人：他不怎么出门，相当孤僻
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-08-29 04:55
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE4tSDZDWFBkM2RpYlEyaVUwWEJNZS1NU1l3dWpETzlxR1liTGVvejM0ZjB4Tm9oN3JvZ25nUGhacnFkc0wyZTNBUUU1d04?oc=5>
+
+### 伊朗：内塔尼亚胡吓唬特朗普！
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-08-27 19:26
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNU3NCQWZOSlZpRTY0YWthWDhsNWczY2o5cXdVQm5ZVVJiS1FjX01OdnpUd2Rjc2kyNmhuek05S2YtdFN1cUxyc3Z2ck15My0zODQzbHpfWXIzakpUWTdubE1EUnBqaDc4SXFrTWE2R2NkSGJ1dFZyYlEtRHZWNnJ2ZFlBNHpnSUxJRGpneE5ZTFlUdUQxamc2NF9ZVW1KT0t6S09WUDVlUEs2Y3AwNjBJbVhFOU4zQVJaejFQV0p5Y0ZxaHpaRkpuR1EtU1h2NVhp?oc=5>
-
-### 特朗普：和普京谈得好，俄罗斯不会攻击北约
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中国网新闻中心
-- 时间: 2026-08-28 19:52
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE9LR1cxVXRkZ3dGWDVBazUzdkxvUlhMS3RuTXlUYmhuakdMN05jdnlvWFplM0RJOTZzeUJXWDNKRnJIcDhtVG5rbHpzQVhBS0NKZ2ttaWJSVFRDdnJpbkJoT0w0ajVMZmFONWdV?oc=5>
-
-### 特朗普暗示美国可能制裁仍与伊朗保持业务往来的中资银行，以进一步孤立伊朗，外交部：中方反对非法单边制裁的立场是一贯的明确的
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-08-29 12:57
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE55RDJ5TmYyZ0stNjdMQkF6SDZUY3BxRVNaaTZEbzZ3cmJMMDR6UjVlN0k4b1RJMjVxTDgyWUN6M2ZjQ3VjTGZVM1ZmZDc2cGhqN3JNVlAtS1NLb1hlOFpPT2JvSi15T1lUOE9oOXZTUVJTUHJaMzJKTTF2Z1R4ZEU?oc=5>
-
-### 要闻分析 - 伊朗战争打了半年仍看不到尽头，中国或成关键变量?
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-08-28 22:20
-- 链接: <https://news.google.com/rss/articles/CBMivANBVV95cUxQNE1DbmgzY2hZdVZWeVZuMDVCZnFrWS1aZ2VfTnBYckpKMS1HenpicUlLbmZscGVienA4N3VjZTRyblRaMHBGamozdUJLcGpRdFhTTUVtRFRuUDdVWjl2TlNybUxjTGlhbG1BOUVSWks0ZGlybnJwY0c1UHNHNlZNUnhwbmY1SVA3T3RMeFlBRDgtVkZPak1WMHlPRnBqVmZKSHJMV0VsdU1EdFY5VjRNTnUxUTMyTDNJZ3lORXR3U2tFMWJOSE95SnhCQzlja0sxVzJEclRmcHhhSHJSd0hMZ3dSd1lkbW9mNEREV3k3WjVOejB6aW5LRjdlVFJERUdLUl91ck9BR0g3SzFXLUxZbS1icmYzMXE5UlE3ajZoeU52V2M0MENJOWoxdGJ6UFRiazZYd2pTZmRucGFsdTc5azVuQzZOdHdFZ0RMcnNrLTI1YWxHNTVKZzh5bmJ6VUo4cFpwOHF4ZXdINWkyUFI5OEtQSXpKUm5fRlZmWkdRb0NTMklzMDNNam4xOEZOb3dJQmxBYzJHQkhLUjVBOFFLX0xkMEFuY0dyVnVpcVNuYTEwT1R3S0UtclJOYVY?oc=5>
+- 时间: 2026-08-29 17:04
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTFBxR0taVE5XSDBQUjRzczlZMVZuZWFsR3BqWTdMZmhkRk9jdFhLejJ0OWVQOFpVQzlNUFNxNjI5Q1AwbVpMVzRVRnRjR0tfdl9McmFzaE1sMkNwdzZ6NXF1Ml9BaWV2dVRPREFSSUlSQVY5eFZoMEE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-29 19:27  (5 条)
+
+- **王一博** | 王一博为什么选择在ins发布这组素颜照片？ <https://k.sina.com.cn/article_7879923101_1d5ae159d06801obzw.html>
+- **特朗普** | 特朗普：美获逾650亿桶委石油储量“多数控制权” <https://news.google.com/rss/articles/CBMif0FVX3lxTE5xckxSWWNMeFQtZW42REc0d3hGWHlKOFp5d2ltSlc1US12aGItRFpxYzZ2TjBwam1GYnY2UDhZY2pjQlhad3YwLTNuTjFMcFFpV3pxMEhFejhYTnkwbEFFX080dzdTb0oyRWpHdXVYdE9xYURpYnJZV3ZILXg1anc?oc=5>
+- **特朗普** | 伊朗最高国家安全委员会秘书雷扎伊：“伊朗打算刺杀特朗普幼子”的报道是谎言，伊朗将采取反制措施，打击美国在该地区的经济利益 <https://news.google.com/rss/articles/CBMisglBVV95cUxOdmFFWmVSUFVBNjZqdXNyanQ5WlFhWlNCNHEwUERtMnJ5dnh1MDFacXBISXBtWjVWcGNxcEtoeDAyNHg5akM0aXVQajVyU2hGNFpWbExuZlBDSDJiclotQVlycF9UME42WmFlaUE1amI3Vzk1SXVlVkJhZGJXLVZCUXdfX1FSS1NWbERsUjlMb3Y5NTFtdFVVdENkSm5OLXdsYndMRkdxeDg2Y0ZBVUNjNktzX3RTWFpkWGJaSFYyaHhJZ0NISnpFRktqVXZiY1FEZFI3NFg3SkJZZGdzOGxhOXhDT3RRZkxCUUlIUmEzLWRwdzRnWW5BYi1FUzlrMk0xbkZ0Ql9pbTByWWs4QjBYTVpiSnd0YUlUY3FjWXlhWW84ZkFkcUFkMzZnYU9nOUt2NVdqZUlyYVpUM043QV8yblEtdHhlVlFwMDdIMzBERVNmZmduaXRDcVpFcGkzVFFCZE5ocTdQZXBHSWhWbGxxdi0tR0VobGhkN1FNZElDa0V4eVRlZHlVN2lqMUltQUhPZXA4enFNZi1vUDZSazlRb2RXMUNhT3h1S0NnMUFRTWI5WGJkQ010bzZSZ1VlaWI1Q2VXTWFERlZRM0tjSmNIVmpIU2hNdkdPMkt4cXR5aU5VVXU5Y3BRQzFjQ1loQTYyUUJlSkJJblVJNFB4SVBwVXVJWko2THgxSklDVnNONFVVSDBkRXBOalg0aXlUSUhaQVFSX1RSdk4yNW5MVkQxSTJNOU5mVUdQaVJiV2V2WkFCRzBLTnRIeDMxMEtOemltOTNsX2NSVGN0cnFxcGNJd3dUOFdnTWhZLUptel9ZcXpaY0FsaEFfS0RtX0dXd0lEQ0Z1cWJud0c3UktjNm9Dd2RrcWdIcUZ0eGlNaFJSWFpGTlh4NTg5dUlPdzlmM1ZhRm93WG1BUktrWTlTX3ZVY29XNURYX1dydnRtQ3NVOUlLeVFhZlpoandYUk16VlRWMklMbWVQX3IxSmdWdXlDaHE1ZktBYVBSQVpIX0NqbmFJYjI5cEdVOVA4eWpXZWllcl9UV21QUG1iemJpWThYS3dkYy1kd291ZS1WQWI4VEpLSkQ4Q1NWa2oxOFlOWUNGVk9ETEt1Sk9LQTJCNlRyWlR0LTR1LW5NVzZnM1A3VWhTMlBHQmF1VkE4MmtLYkpuLTBkTm5sbi0wa3NvcHRmSC1sQU55MVlmMTlUMnhhN1BOdVlCUFpOV1RfZ0JSMEFnRnF5Sk9sS3gwcm41cmsyMlZnNEkyYjRYV2JHVUcxMzhrZWEzS01BZ0U5ZS1NN2JORG4xODdWTmRMZFllZzlwbW9vZXMyMlNMcE0yZmVXekJCM3VtTDJCQUFJbncyTmpFb2lxUVBtQWJqbkdvU3JEanpyRl9tSXkwWVpBNk8wVUZMRlc1N0VaWXZKNU5jVjg0VzVVUGw5N00wN2tVXzB0QmFGRUsxYzRmcEFoaGRQODV6bm1EQW5iNUlzSkVoYVQwNXlRSzFkYXBybEF6NFBCTFZZMnNFNDFSZE1oU2YwSW1XWGVVVWdrY2ZQNUIzdjUzamJ0TkhlYmlvN3ZRb2tWS2RSZ29TMjI2MWZtZnZVUHpMdw?oc=5>
+- **特朗普** | 特朗普小儿子遭千万美元悬赏追杀，知情人：他不怎么出门，相当孤僻 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE4tSDZDWFBkM2RpYlEyaVUwWEJNZS1NU1l3dWpETzlxR1liTGVvejM0ZjB4Tm9oN3JvZ25nUGhacnFkc0wyZTNBUUU1d04?oc=5>
+- **特朗普** | 伊朗：内塔尼亚胡吓唬特朗普！ <https://news.google.com/rss/articles/CBMidkFVX3lxTFBxR0taVE5XSDBQUjRzczlZMVZuZWFsR3BqWTdMZmhkRk9jdFhLejJ0OWVQOFpVQzlNUFNxNjI5Q1AwbVpMVzRVRnRjR0tfdl9McmFzaE1sMkNwdzZ6NXF1Ml9BaWV2dVRPREFSSUlSQVY5eFZoMEE?oc=5>
 
 ### 2026-08-29 16:02  (5 条)
 
