@@ -1,108 +1,136 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-29 05:10**
-- 本轮扫到 10837 条, 新增 **12** 条
+- 最近更新: **2026-08-29 11:43**
+- 本轮扫到 10850 条, 新增 **13** 条
 
 ---
 
-## 本轮新发现 (12 条)
+## 本轮新发现 (13 条)
 
-### 疫情原因，主题曲要延后录制，导师们着手云录制！
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6579089032_m18824ee8803308lcl2.html>
-
-### 为什么周杰伦演唱会门票依旧难抢？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068014z7k.html>
-
-### 特朗普表彰宇航员 宣布成立美国太空军学院
+### “一个月两次”，美媒：特朗普专用直升机与空管之间通信又出问题
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-08-29 01:19
-- 链接: <https://news.google.com/rss/articles/CBMi1AFBVV95cUxPc3dyVG5NQ3pPNXZsTUUycUxTLVVtbHhpeVhwNW1neDhaWGppOUUxRnQzLXhCWXVmS1pHeTU1cWdyX3RCSk5feVM2NFdaYW1ManBSQnBDdm1Naksxd0lNSWtrNmtxTEJOZFJ4bHc2WFpvODlDQUYxSV9wVmRXaHFqU3JZVkxmTjFjOVpCM3Q5ZE80bDBSc1lYcWRnXzVMczNtMHJHYmF4VnJMUHVSbkVGbkZtSno3QXlNYzAxTUVkaXNDS1d4ZXVRVXp2c0RGcHFSYnJUWtIB1wFBVV95cUxNT1ZUUnZpZTNmTDV0clZjbE1hWUg4WHFqVUZvcWhZNEg0MjBXcTVIS1lJYXEwdnd6S0g4QkdNS1RGYlFMdkRyaHQ3dDZSNVJITlZLem1DZG1xTDNabW4zMEk2anlzMVhqalZldzNsR3ozV0RmajlLcllMaFpNSUhySzJON2FNYV9naDRNem9VWXBxNXk2QlVzTTJsYk5NRUxzOTJVNmt4ZGQ3dDdSXzhCdWFwV0o0OTVkRU4zMWRZZ3Iwd2cxQ2g5Yzg3YWVFUnYtakZOSzJnMA?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-08-29 11:26
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1zTWdCMy1pOHFHNFFXeU5iRWdSN2J1TkJWRUZYRWx2REpyYllHVGRicW1zOHF4RlJFQnJQWGpSMkwxX1NqWEVJMnlhSkh0dm4zSUxLeVlhdWpQN21yZDRweWRucUhnYmpkbGdSWkp5V0Y?oc=5>
 
-### 特朗普签署行政令 启动筹建“美国太空学院”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中国经济网
-- 时间: 2026-08-29 01:45
-- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTE1SdjZOUV9NNDktb2FLY1R0ZTlNbFhoblBJY1MtX1EtYi1meGEtV0tTa3JBcWlzcEI3WjFvRVVVWS1DdzVLUzhqbkVDN2Vpb1hCbklsVkNvZUtYTTVtRURTSWZWWQ?oc=5>
-
-### 曾向特朗普豪掷政治献金的美企高管，如今担忧即将收到国会传票|唐纳德·特朗普|民主党|共和党|捐款|众议院_手机新浪网
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-29 03:18
-- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR0tNU3pnMjNPV0JUYVM1bWxMU2w3X2pjWlhnQnVOdGFMSE9xLWVCbmFzbWt1ODB4cUxVZ1lBRXBlY0ZQRE92VERfMmpQS3VURl81bzdKeGV1Y3VEb2hpaDYtX05jSzJlWXozSGFBYXgtRW41RUl2MnRiUnNQOWZDd0E3Z0RqTWJnZHhpRHBCT3FVeWF1YkhIX2s5OTAyQ0VZT0hHS1BMblAtZw?oc=5>
-
-### 特朗普宣布与委内瑞拉达成石油协议，称获逾650亿桶储量"多数控制权"
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-08-29 02:28
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1FTXEydXFsN0FDVUNLQU9PMVdzTVh1NDBjNmE1TU96Zkc2NWI5enZuOVdraHVoZWUybXpaRkQ5VVVUVGFZZHA3YUxYTzRydWNOaHNNT09USDRMYS1sTUloY0RmZFJnWGVnNU5qa1JhR2d6SkJONTZWaFdROWlmU1U?oc=5>
-
-### 特朗普：和普京谈得好，俄罗斯不会攻击北约
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-08-28 09:47
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9vbWxCV2dPWVFYemp5RnRMNHB0bDFlcGk3cldmQ2RremUtN0JMODZSc21xdGQ5UGZYTnZvbVN1Y0Zlc1dCTDVmaUs1WTVxNWZPd0RmcVJXQ0tMcURObXRuRjZ3TUxZbnpvVWVlQl9WaWVhWFBvTFpRaDdQRUtIZnc?oc=5>
-
-### 特朗普：俄罗斯“不会攻击北约国家领土”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-28 22:44
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE4zRk5XRUNXeHp3ck5KWGpzMXJhbUxtTTRkUnFLZmZLMkpxa2V6dW5lV0pzeEM4MEd4c3Fram5DcXhNcnZfWDNlUw?oc=5>
-
-### 伊朗战事满半年 美国陷入新泥淖
+### 要闻解说 - 美中太空竞赛差距缩小：特朗普绝不当“老二”筹建太空学院，谁先“驻月”或揭胜负
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: RFI
-- 时间: 2026-08-28 16:39
-- 链接: <https://news.google.com/rss/articles/CBMiiAJBVV95cUxPN3VSYjFQZV9Qc3ZJZWlsU2hCOU9uMEI0ZXM2UnlKZ2ZHeTB5RlJFT3E5aGE2bFpILTVucXp5NElJVTlBZnAtLWZQQmx5QVEyUmp3MWRrdHh1bHZVOTZQbkhSV0NzWFpUYVBfNGpleWUtQWNOMkRBZ3N0WUFkVjhobFFGLXNlbzdQYnNkWUZJb3U5VXNwczN6SFRMMURyVGdEeHh2ZkRfN0UwOUh5RE9tU2ZGQ0pGUEVwNkY5M2dMMVQxWjNodldCVUlDNUY0OGFOZ0YxbEl1dHpmT3p1OEpDYnAxNy1yZEJ0UzJxNzB6R001TllRem1YUjhUX1V5eWVpeEk3LV9sMUQ?oc=5>
+- 时间: 2026-08-29 10:46
+- 链接: <https://news.google.com/rss/articles/CBMiuwRBVV95cUxNTXZMUEJUUzhsNHRvclMtdUJKbkNrUFhwcExJMzBESTlQZURmU2hPQjlXTWZpQjlhTUNxVXRjYVpnN2hnN0c3UkVhVldJS09HS19pbDlFc3RTRzBaQmR2MVVDMUREcVpqdnU4YnpBSjVnX3I0MlZTS1dEOGl1bW1BSGJxek5xcGhvaElSUjBydmhZZkRlMGhjX3pfbmcwdmdhbkpVbHZ1YXZpb2c4ZkVUb0xMYkZBcENwNWdPMmdKZ29OMWw1Y1lneVhrdkJfOG1Kby1JN0E3WWFkeEp5Z2FYZEREMXNCbFZHcG9nN0NYNzlfQTRqSXQ2dTBhUHd4TVA2d1hWdGdnMjRETm9kQzNQYlVxRWR6eEtVX3ItRXg4a0xEd0w2S0kxOXkxMnFSRV9LdTQwVUVwdDVZVHo0ZlhWYmJwWllKRGZ5SXE5b3JSWkNxS19jY3BZM2FPLUtfNFlJMmFzQVJZbzdLYmk4SnU0aEF4SENDNjB2TFRJeGREaWxPUnNyLXdRVGVlR3dkRDdmU2hzeEVSSXdlMUR3bjBpMEZWaWk2dG5icHBqRVhIMHBQSUVUUnlvZzJMVlY0MzlnNnJUWndDTVhzY1ZTbHI3OVRNWHd0WUdoZmhHcXR2dFRrSXNKRVlLVUdWMU5qaWRRa081bE9PY011cjNCQUpjV2dDeDBHMXJxaUt6cFUtQVBZdUNWbkw3Yi1Cc082dDNuNWlYVUxsSWE4blVvbDB0UHY0cl9jTVh6U3dF?oc=5>
 
-### 美加掐起来了
+### 特朗普宣布将创建“美国太空学院”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-29 04:18
-- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxQT1piZUdiclVDMnpWdmM0YXE3Z2NXZjdVTS1aMVNqX3l0ZnY0YVRYQmRBSTV6bUxSRUNlaTdVRl9NLVpEb1Fnbjg4QkJJdlRVaWdXSTc4T0tBQ2cxOW1OVVdXQndOa0hLR1FERHBobnh4MWhUMDRvekw0N0hqVlNackwwbw?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-08-28 21:47
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE1RcnVVZHF1eXJWcmVYMnlCUWY2MlRMWnlyd3VaTUgtMDBJeldlYkxscUc5SDZOSmFzN2duZmZlY21JQ29taHktY1djV2RpVkNHLUZXTlJsQ2VsSFZEaVQ5aU9PR3UzcEVhS0JLcVYteWY4dVhD?oc=5>
 
-### Dow Jones Top Energy Headlines at 12 AM ET: Trump Administration in Advanced Talks for Stake in Venezuelan Oil Fields | U.S. ...
+### 特朗普：美获逾650亿桶委石油储量“多数控制权”-观察者网
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-08-29 00:06
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE8tZjFfRU1wTWQwdWtNTldQd19vVTFldnpFeVNzbmpCdXE5cGFrSGNkRzVUaklTLU9qLVc5SnpUcDJ2WXJaTjVUQkRfVmU0QTYweGUxRHNtbnJZb2otWUlER2ROZmctdEFsb1E?oc=5>
+
+### 特朗普宣布与委内瑞拉达成石油协议
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: DW.com
+- 时间: 2026-08-29 09:40
+- 链接: <https://news.google.com/rss/articles/CBMiiAJBVV95cUxOSnNqLUZ4dlNCYkxNS2pQc05va2o1alB5eXd1bHNvcXBKc1J3bHloTHlHT0NvUUZFaEFXR0NWMllKb2xfZ2lXU0ZXX0Fqdk05S2JDMXpHNXQxWTBPM0JxVEU0Y1BDQlJIaTNTR3o4SUpIRS13bHdCZkVwU1o0N1Y3aFhNS0hlQ0s4SWVIdl9oejQ4YVNsQk9ud3NJVjJoTFFlNnlLVkxEX1NTa0dneVVKUFhIbzVlSXNmeWZ5TE5vRHdOdm9WUF9NR19DVHpuOWJqZzJYNmkxM2pqM1lhb3JSX2k3VEFYVkFubmZkSld5RjVPY0xlMXB4bmxOTGpSMF9qT0lOdkhzSlbSAYgCQVVfeXFMUHNpLTQ1WmtjeEVtaFh0ZmFQcG85SmI1N2lvbnozeFRXbEItMjlSNS1GUEcwYnp2MG5tS2ZZYk1mUHNISjRrV1BUNms4Y0Z0aGQyNEd4akZLbDJfcDlHeFNNMnA1czBaSGxlOC1SSXJjX1ZEbkxOUHh4Qnd3Q01ReW1odjlSYzJXaWFienA4ZWtrX21OdXVhZ3lDTjNPRG1Bb2pqUmRZVUFYX0ZwOGZaTTB1QWJnVGx3RFFvRWFOTllwNmFFV3Zkdm1nVjFMN0hMdnVzNm9PdGN4NzZoa0hIRkQ0SU5wQnhzQ1VhOGFZNnRnakZOaVdQTDR4WE5rRXd0aGxwbTBvLTMy?oc=5>
+
+### 特朗普宣布：美委达成"世界史上最大石油协议"
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中国经济网
+- 时间: 2026-08-29 01:08
+- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Jdy1rbVBQVHM1LUxBTjFvR3NKeS1RQjJ1dG9lOXpQaWdpdkxyU0FnQmVRZ1JuRGFkeXA1V1VpV2N3Vi12UVduTXQxaVlWZU5Kal81MGZYd0xzNmRKX0lPMzZUMA?oc=5>
+
+### 特朗普打压高校，加拿大趁机挖走48名美国学者
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: finance.sina.com.cn
+- 时间: 2026-08-29 08:15
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE8xcW9zejFJYWF2WFQxUUdpdUFXYnVkWVJJaFhQUU9QbTlhdVpBdEZvNVBKRm5WbV9MYlI0VVhoV3lMTDd2b0V0NXpFeWZjLVZlbk9Gek1yaXpLQmtiaUQxQTJTTEpscC13VVRvdEdfY1VTZllMeHlCdA?oc=5>
+
+### 特朗普与普京通话后表示：俄罗斯不会攻击北约
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-08-29 00:40
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5tSmlPaGl0TDZKVm5TUC1LM1BOMDRJQ1puempYMUdhQ3U0N2tFNzVQbV9aX3Vob1JQdmxOUmpwcmppbU95R1l3THBoZw?oc=5>
+
+### 特朗普总统称美国已与委内瑞拉达成协议，掌控该国650亿桶石油储备
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 富途牛牛
-- 时间: 2026-08-28 19:01
-- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxPY282SkRIRkxyNDNITmh3REdIMXFYYVE3WDNyT3pubXh5S0dhSnZxVEJRSTNnZVlpTzJxejhKNEljdkx0TU9xS0hnNEQ0cTJrWTIzQ25xa2VKRXg0a0RZUkxpdDdhanh6TGJOdG12TFgzbE93MmNzTmJxN1ZoMllrSzM2S2NDdUxnU0pqMEtvYw?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-08-29 05:51
+- 链接: <https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZlVkekpGZTU2TEhCSzlZSTRLS3NXYlZXcEZZeGJLY0tabjU3ZmZMYm9lZ2FHQjFaRVZLVDhRSUdXd05Nd3dYTENFTmJnam1aVkJmbXE1T3NITUxvUWVUM0Rra0EwTDBjeVVEMEE3TTQ5VW01LWR3Z0dlR0tWY29HdGhmSlNjdmVid2pETFcxekJJNUJTTUdoS1JCR2Y5aldkMHF0N2lIdVM1MjZwdXVtY3c1STFWYmN3eTRXeGVObjlhSmU0RUhjNjBWeWxIWTNQVG1EdGxEdFR6RHQ2MnU2a2JYbHrSAecBQVVfeXFMTlZCaElmMXY2ZXpFTFN0VWlMeExGWXdycmxYeVFUWFV5X2w3TnMxU3JMclJLYzZkc05MR3BHQ0dEOE9UMm5TNmVuZlN2Y0QzMUxZTmFEcHJTOFFTeFZzVFlONUZyclRoUlMtWGp2YlJkM3lDek9UdzZjOE82SmhTYzAtdVRwX0JBMDNQS1N4a1QtcTlmRks3d0tJUm0weF9nUlM5XzNYSnFkNDNhLWhLa3dHcl9LZ2xOY25GQmRhREhsQ0dfdGJiVjRIYTR3VmNkYnliY0VUYzhJRWk4cU1VOWZIYjVMaVY0?oc=5>
 
-### “Trump或与Kim Jong-un讨论默认朝鲜拥核、终战及停止韩美联合军演”
+### “太空第一，地球才能第一”……Trump将建太空军官学校- 阿视亚经济
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: 아시아경제
-- 时间: 2026-08-29 00:44
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ST3NfeUJHV1lNXzRsYmk1aEpsY2JTejNHNWxTY0RCYXl0Vld2c19yLWZ3ZUpZYWs5Tm5ZR2FicjBLWlprRnFqX2ZTMXJkbERiVTl4QzctVFd1OXBSR0IxQjFZc1E?oc=5>
+- 时间: 2026-08-29 05:34
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyclZxLXhDTTJUM2R6MkxVUXQwR08tUXdpYXczRVpETnk4M0lqeUVBeURHT0lwU2ZpSkFxUEpTaUg4YktGaDl3d3hMekc5aGd2c1MzR2FZZVJFcGx5WmFuM2praFY?oc=5>
+
+### Trump宣布“国家紧急状态”……有望借此赚钱的股票？[周末理财]
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 아시아경제
+- 时间: 2026-08-29 06:47
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1vUlVXclpuY0V4Y1RCRHZXVFBBOHItVjJmV0VVSDRxZU4yS3E0QXFHYlNoWWM4ZjdpNkdKeF9RQ01feFU2Ni1aQmtxQjh2OGVGcjNUSVk1Vmd1VWhtd0tMUWNOOGs?oc=5>
+
+### Trump试图变更“成人电影演员封口费”案管辖法院再度失败- 阿视亚经济
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 아시아경제
+- 时间: 2026-08-29 06:31
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBTZ085eXk0T09oVTY2VkZIT0pfa0dRNjU4NllqRl81a2hFS1NEUnNXU1EweS13UjlkRnZmbThGQ0RDQzFHWXAyMFVBX05KR0hYMm5GNTllamJYdnU2bU5faVZ4N1Y?oc=5>
+
+### 美委达成石油协议……Trump称“获得650亿桶控制权”（更新）
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 아시아경제
+- 时间: 2026-08-29 05:08
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9QSXJxVEVSMTFJaUUtZnlOcWRoQWN5dFFwdEZ1cTJ6ZUhpS0JRLTN5NGV5T1o2ZWVHSm13b1JnWElYbWNwSzEwRVpFZGEtc3BCbXAtU05IRjlhb2dtUVgwcXZhbEc?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-29 11:43  (13 条)
+
+- **特朗普** | “一个月两次”，美媒：特朗普专用直升机与空管之间通信又出问题 <https://news.google.com/rss/articles/CBMicEFVX3lxTE1zTWdCMy1pOHFHNFFXeU5iRWdSN2J1TkJWRUZYRWx2REpyYllHVGRicW1zOHF4RlJFQnJQWGpSMkwxX1NqWEVJMnlhSkh0dm4zSUxLeVlhdWpQN21yZDRweWRucUhnYmpkbGdSWkp5V0Y?oc=5>
+- **特朗普** | 要闻解说 - 美中太空竞赛差距缩小：特朗普绝不当“老二”筹建太空学院，谁先“驻月”或揭胜负 <https://news.google.com/rss/articles/CBMiuwRBVV95cUxNTXZMUEJUUzhsNHRvclMtdUJKbkNrUFhwcExJMzBESTlQZURmU2hPQjlXTWZpQjlhTUNxVXRjYVpnN2hnN0c3UkVhVldJS09HS19pbDlFc3RTRzBaQmR2MVVDMUREcVpqdnU4YnpBSjVnX3I0MlZTS1dEOGl1bW1BSGJxek5xcGhvaElSUjBydmhZZkRlMGhjX3pfbmcwdmdhbkpVbHZ1YXZpb2c4ZkVUb0xMYkZBcENwNWdPMmdKZ29OMWw1Y1lneVhrdkJfOG1Kby1JN0E3WWFkeEp5Z2FYZEREMXNCbFZHcG9nN0NYNzlfQTRqSXQ2dTBhUHd4TVA2d1hWdGdnMjRETm9kQzNQYlVxRWR6eEtVX3ItRXg4a0xEd0w2S0kxOXkxMnFSRV9LdTQwVUVwdDVZVHo0ZlhWYmJwWllKRGZ5SXE5b3JSWkNxS19jY3BZM2FPLUtfNFlJMmFzQVJZbzdLYmk4SnU0aEF4SENDNjB2TFRJeGREaWxPUnNyLXdRVGVlR3dkRDdmU2hzeEVSSXdlMUR3bjBpMEZWaWk2dG5icHBqRVhIMHBQSUVUUnlvZzJMVlY0MzlnNnJUWndDTVhzY1ZTbHI3OVRNWHd0WUdoZmhHcXR2dFRrSXNKRVlLVUdWMU5qaWRRa081bE9PY011cjNCQUpjV2dDeDBHMXJxaUt6cFUtQVBZdUNWbkw3Yi1Cc082dDNuNWlYVUxsSWE4blVvbDB0UHY0cl9jTVh6U3dF?oc=5>
+- **特朗普** | 特朗普宣布将创建“美国太空学院” <https://news.google.com/rss/articles/CBMidEFVX3lxTE1RcnVVZHF1eXJWcmVYMnlCUWY2MlRMWnlyd3VaTUgtMDBJeldlYkxscUc5SDZOSmFzN2duZmZlY21JQ29taHktY1djV2RpVkNHLUZXTlJsQ2VsSFZEaVQ5aU9PR3UzcEVhS0JLcVYteWY4dVhD?oc=5>
+- **特朗普** | 特朗普：美获逾650亿桶委石油储量“多数控制权”-观察者网 <https://news.google.com/rss/articles/CBMiakFVX3lxTE8tZjFfRU1wTWQwdWtNTldQd19vVTFldnpFeVNzbmpCdXE5cGFrSGNkRzVUaklTLU9qLVc5SnpUcDJ2WXJaTjVUQkRfVmU0QTYweGUxRHNtbnJZb2otWUlER2ROZmctdEFsb1E?oc=5>
+- **特朗普** | 特朗普宣布与委内瑞拉达成石油协议 <https://news.google.com/rss/articles/CBMiiAJBVV95cUxOSnNqLUZ4dlNCYkxNS2pQc05va2o1alB5eXd1bHNvcXBKc1J3bHloTHlHT0NvUUZFaEFXR0NWMllKb2xfZ2lXU0ZXX0Fqdk05S2JDMXpHNXQxWTBPM0JxVEU0Y1BDQlJIaTNTR3o4SUpIRS13bHdCZkVwU1o0N1Y3aFhNS0hlQ0s4SWVIdl9oejQ4YVNsQk9ud3NJVjJoTFFlNnlLVkxEX1NTa0dneVVKUFhIbzVlSXNmeWZ5TE5vRHdOdm9WUF9NR19DVHpuOWJqZzJYNmkxM2pqM1lhb3JSX2k3VEFYVkFubmZkSld5RjVPY0xlMXB4bmxOTGpSMF9qT0lOdkhzSlbSAYgCQVVfeXFMUHNpLTQ1WmtjeEVtaFh0ZmFQcG85SmI1N2lvbnozeFRXbEItMjlSNS1GUEcwYnp2MG5tS2ZZYk1mUHNISjRrV1BUNms4Y0Z0aGQyNEd4akZLbDJfcDlHeFNNMnA1czBaSGxlOC1SSXJjX1ZEbkxOUHh4Qnd3Q01ReW1odjlSYzJXaWFienA4ZWtrX21OdXVhZ3lDTjNPRG1Bb2pqUmRZVUFYX0ZwOGZaTTB1QWJnVGx3RFFvRWFOTllwNmFFV3Zkdm1nVjFMN0hMdnVzNm9PdGN4NzZoa0hIRkQ0SU5wQnhzQ1VhOGFZNnRnakZOaVdQTDR4WE5rRXd0aGxwbTBvLTMy?oc=5>
+- **特朗普** | 特朗普宣布：美委达成"世界史上最大石油协议" <https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Jdy1rbVBQVHM1LUxBTjFvR3NKeS1RQjJ1dG9lOXpQaWdpdkxyU0FnQmVRZ1JuRGFkeXA1V1VpV2N3Vi12UVduTXQxaVlWZU5Kal81MGZYd0xzNmRKX0lPMzZUMA?oc=5>
+- **特朗普** | 特朗普打压高校，加拿大趁机挖走48名美国学者 <https://news.google.com/rss/articles/CBMieEFVX3lxTE8xcW9zejFJYWF2WFQxUUdpdUFXYnVkWVJJaFhQUU9QbTlhdVpBdEZvNVBKRm5WbV9MYlI0VVhoV3lMTDd2b0V0NXpFeWZjLVZlbk9Gek1yaXpLQmtiaUQxQTJTTEpscC13VVRvdEdfY1VTZllMeHlCdA?oc=5>
+- **特朗普** | 特朗普与普京通话后表示：俄罗斯不会攻击北约 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5tSmlPaGl0TDZKVm5TUC1LM1BOMDRJQ1puempYMUdhQ3U0N2tFNzVQbV9aX3Vob1JQdmxOUmpwcmppbU95R1l3THBoZw?oc=5>
+- **Trump** | 特朗普总统称美国已与委内瑞拉达成协议，掌控该国650亿桶石油储备 <https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZlVkekpGZTU2TEhCSzlZSTRLS3NXYlZXcEZZeGJLY0tabjU3ZmZMYm9lZ2FHQjFaRVZLVDhRSUdXd05Nd3dYTENFTmJnam1aVkJmbXE1T3NITUxvUWVUM0Rra0EwTDBjeVVEMEE3TTQ5VW01LWR3Z0dlR0tWY29HdGhmSlNjdmVid2pETFcxekJJNUJTTUdoS1JCR2Y5aldkMHF0N2lIdVM1MjZwdXVtY3c1STFWYmN3eTRXeGVObjlhSmU0RUhjNjBWeWxIWTNQVG1EdGxEdFR6RHQ2MnU2a2JYbHrSAecBQVVfeXFMTlZCaElmMXY2ZXpFTFN0VWlMeExGWXdycmxYeVFUWFV5X2w3TnMxU3JMclJLYzZkc05MR3BHQ0dEOE9UMm5TNmVuZlN2Y0QzMUxZTmFEcHJTOFFTeFZzVFlONUZyclRoUlMtWGp2YlJkM3lDek9UdzZjOE82SmhTYzAtdVRwX0JBMDNQS1N4a1QtcTlmRks3d0tJUm0weF9nUlM5XzNYSnFkNDNhLWhLa3dHcl9LZ2xOY25GQmRhREhsQ0dfdGJiVjRIYTR3VmNkYnliY0VUYzhJRWk4cU1VOWZIYjVMaVY0?oc=5>
+- **Trump** | “太空第一，地球才能第一”……Trump将建太空军官学校- 阿视亚经济 <https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyclZxLXhDTTJUM2R6MkxVUXQwR08tUXdpYXczRVpETnk4M0lqeUVBeURHT0lwU2ZpSkFxUEpTaUg4YktGaDl3d3hMekc5aGd2c1MzR2FZZVJFcGx5WmFuM2praFY?oc=5>
+- **Trump** | Trump宣布“国家紧急状态”……有望借此赚钱的股票？[周末理财] <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1vUlVXclpuY0V4Y1RCRHZXVFBBOHItVjJmV0VVSDRxZU4yS3E0QXFHYlNoWWM4ZjdpNkdKeF9RQ01feFU2Ni1aQmtxQjh2OGVGcjNUSVk1Vmd1VWhtd0tMUWNOOGs?oc=5>
+- **Trump** | Trump试图变更“成人电影演员封口费”案管辖法院再度失败- 阿视亚经济 <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBTZ085eXk0T09oVTY2VkZIT0pfa0dRNjU4NllqRl81a2hFS1NEUnNXU1EweS13UjlkRnZmbThGQ0RDQzFHWXAyMFVBX05KR0hYMm5GNTllamJYdnU2bU5faVZ4N1Y?oc=5>
+- **Trump** | 美委达成石油协议……Trump称“获得650亿桶控制权”（更新） <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9QSXJxVEVSMTFJaUUtZnlOcWRoQWN5dFFwdEZ1cTJ6ZUhpS0JRLTN5NGV5T1o2ZWVHSm13b1JnWElYbWNwSzEwRVpFZGEtc3BCbXAtU05IRjlhb2dtUVgwcXZhbEc?oc=5>
 
 ### 2026-08-29 05:10  (12 条)
 
