@@ -1,54 +1,73 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-29 19:27**
-- 本轮扫到 10860 条, 新增 **5** 条
+- 最近更新: **2026-08-29 21:52**
+- 本轮扫到 10866 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (6 条)
 
-### 王一博为什么选择在ins发布这组素颜照片？
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923101_1d5ae159d06801obzw.html>
-
-### 特朗普：美获逾650亿桶委石油储量“多数控制权”
+### 美获逾650亿桶委石油储量“多数控制权”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-08-28 23:54
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE5xckxSWWNMeFQtZW42REc0d3hGWHlKOFp5d2ltSlc1US12aGItRFpxYzZ2TjBwam1GYnY2UDhZY2pjQlhad3YwLTNuTjFMcFFpV3pxMEhFejhYTnkwbEFFX080dzdTb0oyRWpHdXVYdE9xYURpYnJZV3ZILXg1anc?oc=5>
+- 场馆: finance.sina.com.cn
+- 时间: 2026-08-29 21:33
+- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxNV1A2SVJTYncwOU9sU0VfZnphbF9TSE9JbFJoVjl0cnIzMnZzVnY4MWRCNUxyNTc1NmlnMHctX3JQdHZycGxZOUZSS25VMGdiMV9rMzk5aU5JTDhjWm5QRG1pTmdhMzhNMDZlSXBDcExNZ1Q4dUNhRkpzN3MwaVJxOGV2MUlkVEMwMzNUZkhhQVVTRS15UVJvMWg2MWc4QzZ4?oc=5>
 
 ### 伊朗最高国家安全委员会秘书雷扎伊：“伊朗打算刺杀特朗普幼子”的报道是谎言，伊朗将采取反制措施，打击美国在该地区的经济利益
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-08-28 12:26
-- 链接: <https://news.google.com/rss/articles/CBMisglBVV95cUxOdmFFWmVSUFVBNjZqdXNyanQ5WlFhWlNCNHEwUERtMnJ5dnh1MDFacXBISXBtWjVWcGNxcEtoeDAyNHg5akM0aXVQajVyU2hGNFpWbExuZlBDSDJiclotQVlycF9UME42WmFlaUE1amI3Vzk1SXVlVkJhZGJXLVZCUXdfX1FSS1NWbERsUjlMb3Y5NTFtdFVVdENkSm5OLXdsYndMRkdxeDg2Y0ZBVUNjNktzX3RTWFpkWGJaSFYyaHhJZ0NISnpFRktqVXZiY1FEZFI3NFg3SkJZZGdzOGxhOXhDT3RRZkxCUUlIUmEzLWRwdzRnWW5BYi1FUzlrMk0xbkZ0Ql9pbTByWWs4QjBYTVpiSnd0YUlUY3FjWXlhWW84ZkFkcUFkMzZnYU9nOUt2NVdqZUlyYVpUM043QV8yblEtdHhlVlFwMDdIMzBERVNmZmduaXRDcVpFcGkzVFFCZE5ocTdQZXBHSWhWbGxxdi0tR0VobGhkN1FNZElDa0V4eVRlZHlVN2lqMUltQUhPZXA4enFNZi1vUDZSazlRb2RXMUNhT3h1S0NnMUFRTWI5WGJkQ010bzZSZ1VlaWI1Q2VXTWFERlZRM0tjSmNIVmpIU2hNdkdPMkt4cXR5aU5VVXU5Y3BRQzFjQ1loQTYyUUJlSkJJblVJNFB4SVBwVXVJWko2THgxSklDVnNONFVVSDBkRXBOalg0aXlUSUhaQVFSX1RSdk4yNW5MVkQxSTJNOU5mVUdQaVJiV2V2WkFCRzBLTnRIeDMxMEtOemltOTNsX2NSVGN0cnFxcGNJd3dUOFdnTWhZLUptel9ZcXpaY0FsaEFfS0RtX0dXd0lEQ0Z1cWJud0c3UktjNm9Dd2RrcWdIcUZ0eGlNaFJSWFpGTlh4NTg5dUlPdzlmM1ZhRm93WG1BUktrWTlTX3ZVY29XNURYX1dydnRtQ3NVOUlLeVFhZlpoandYUk16VlRWMklMbWVQX3IxSmdWdXlDaHE1ZktBYVBSQVpIX0NqbmFJYjI5cEdVOVA4eWpXZWllcl9UV21QUG1iemJpWThYS3dkYy1kd291ZS1WQWI4VEpLSkQ4Q1NWa2oxOFlOWUNGVk9ETEt1Sk9LQTJCNlRyWlR0LTR1LW5NVzZnM1A3VWhTMlBHQmF1VkE4MmtLYkpuLTBkTm5sbi0wa3NvcHRmSC1sQU55MVlmMTlUMnhhN1BOdVlCUFpOV1RfZ0JSMEFnRnF5Sk9sS3gwcm41cmsyMlZnNEkyYjRYV2JHVUcxMzhrZWEzS01BZ0U5ZS1NN2JORG4xODdWTmRMZFllZzlwbW9vZXMyMlNMcE0yZmVXekJCM3VtTDJCQUFJbncyTmpFb2lxUVBtQWJqbkdvU3JEanpyRl9tSXkwWVpBNk8wVUZMRlc1N0VaWXZKNU5jVjg0VzVVUGw5N00wN2tVXzB0QmFGRUsxYzRmcEFoaGRQODV6bm1EQW5iNUlzSkVoYVQwNXlRSzFkYXBybEF6NFBCTFZZMnNFNDFSZE1oU2YwSW1XWGVVVWdrY2ZQNUIzdjUzamJ0TkhlYmlvN3ZRb2tWS2RSZ29TMjI2MWZtZnZVUHpMdw?oc=5>
+- 时间: 2026-08-29 08:03
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUVFzaHlHak81ZllKV0lpZm8yYTM4azNVNXhZNjJla19MQkpvYktwcVRaOU5sUzdqbGFHR3YyeUFvaVZLWlJ5ZGhqU0ItMXpHWHFkQlJ3RTUtZVcxU1JzUUFRMU1OOGpnZ1RGNWFyMVIzRzNLRWVUb1V6WTZHVnhpMW5MY25xYUx5eWI0ZGFIX29QWWZ3QnUxRUx5ZGhSUEpvTzlBWTVZWS1vLVdlV2FaZ2hRTGNaYm5GS2FmclNCeVlKbE1qZ3hrb09NSWh0WkQt?oc=5>
 
-### 特朗普小儿子遭千万美元悬赏追杀，知情人：他不怎么出门，相当孤僻
+### “史诗狂怒行动”：从军事行动到对伊朗的经济施压
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-29 04:55
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE4tSDZDWFBkM2RpYlEyaVUwWEJNZS1NU1l3dWpETzlxR1liTGVvejM0ZjB4Tm9oN3JvZ25nUGhacnFkc0wyZTNBUUU1d04?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-08-28 19:21
+- 链接: <https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVkNzaDd2cVEybEdOY0dnUTRIbmJmTGZaTWdiU094bjY2VGxkSTZCYjNkUWlhVTZZaGtCc2lycTgtT0xlSWpTQVNLdEl4dHVMdFI5OEhtaTMtTzZYbncwYlZaWUxVVGNhVUpZYXM2d3NJaWt2ZUI3M1NsM2FuYjNxZDQwdlBNTW5xZWFyM2VmRjdhcGJBbkhjSFJCUTBYV1pFSnpWem5lMjdDbHo5SEtMdW1iZktDT0hjS0FkWExGU07SAcMBQVVfeXFMT1BUNmpMR0JyVjg4SS1sc1BxZVBzbjktTEN0VWFOV3hZZW1GVnU2QTRmZVY0M3hMZ0tDTGplNzN2TzlyVFUtQ2Q3OGNXLWd5Szg5a3dVaVlYNzdUR3UySHVvNnE5dGc1Sk5KS0ZEUDJrWDlxRURadFh3clRtQTgzWnM1dURFNVZOZ1h4QkVPRTZveHR4bzhwQjVCS2xiZ3dHWFhjME1kblB0N0VWYlR6YmE1QUpTdHJTQXdRN1ROM19GbHN3?oc=5>
 
-### 伊朗：内塔尼亚胡吓唬特朗普！
+### 特朗普将安大略湖更名为“美国湖”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: finance.sina.com.cn
+- 时间: 2026-08-29 07:53
+- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxPRkRoREViVjNRdVNFYkRJZXFVOWo0Q3hZdXdPXzNVd0x2VWczelRRNUZGTDJ5STNjdFZNekl3UEhQOXlnejN2MEtwQndWdkpZMld3czEzZU9yQ2JzbUd2MTJaRkpjZ2Q0Ym9iOHgzYXFaYzVmTjZ1RVFPOHBaeFQ3bUhjUmlLNWgtajVKdXF6R2ZLNFdLZWluZ0stQjVCQmh2?oc=5>
+
+### 特朗普签署行政令 将安大略湖更名为“美国湖” 美加贸易战持续升温
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-08-29 17:04
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTFBxR0taVE5XSDBQUjRzczlZMVZuZWFsR3BqWTdMZmhkRk9jdFhLejJ0OWVQOFpVQzlNUFNxNjI5Q1AwbVpMVzRVRnRjR0tfdl9McmFzaE1sMkNwdzZ6NXF1Ml9BaWV2dVRPREFSSUlSQVY5eFZoMEE?oc=5>
+- 时间: 2026-08-27 19:26
+- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxPdmlkazBUTEY4V0lkdnJTQ3E2QmJZazJZT0tCN1ZYek9nSmZuLVlkczM2WFRGRnYxbnZZaEhjeXFFMTQ2YnhQb0ZtWEtlVjlQU0llTGRWRlYxNnR6QzJ5bU1GRzhPUWJDSUtMMUg2ejd6b3g0TE0xbU5ZWlBJczNnR09YdG5hejR3a2ZfTWU2N1RHbDF1Y29uZkxWSzM0cWtlX19MTG1EZ2xETFRlcVZ6LTVZbG1rQVdRNG5nMGRrSGNvVWgxa0RENDI1bk5sb2M?oc=5>
+
+### 曾向特朗普豪掷政治献金的美企高管，如今担忧即将收到国会传票
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-08-29 02:42
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxOR0gtR1NfUUN1NDFPZThJUmFBWkJyVlB5cXhtYmJXX2Zpd0NHSXprZ2RCR2xFRHJPSWJ5WDBubWRybHVnV3gySWdjcW01b0NwT0Rsd2Rja240bFpOanJwUnQxUmZrb2dpNkxDamtJemd0XzF5MF9CMUk2dURma0t0UFZGNVhzVjhVUkZtU2lHSmYycGdtTEdoT2toNHZFUkRiSEtKQ01CcElXTDhQNXo3MEt3WlB6QTRxcU9YYThpZGJZc0JEbDhDaWgtbWhHYURSSUt2elctZ2FHbUZkOHRv?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-29 21:52  (6 条)
+
+- **特朗普** | 美获逾650亿桶委石油储量“多数控制权” <https://news.google.com/rss/articles/CBMioAFBVV95cUxNV1A2SVJTYncwOU9sU0VfZnphbF9TSE9JbFJoVjl0cnIzMnZzVnY4MWRCNUxyNTc1NmlnMHctX3JQdHZycGxZOUZSS25VMGdiMV9rMzk5aU5JTDhjWm5QRG1pTmdhMzhNMDZlSXBDcExNZ1Q4dUNhRkpzN3MwaVJxOGV2MUlkVEMwMzNUZkhhQVVTRS15UVJvMWg2MWc4QzZ4?oc=5>
+- **特朗普** | 伊朗最高国家安全委员会秘书雷扎伊：“伊朗打算刺杀特朗普幼子”的报道是谎言，伊朗将采取反制措施，打击美国在该地区的经济利益 <https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUVFzaHlHak81ZllKV0lpZm8yYTM4azNVNXhZNjJla19MQkpvYktwcVRaOU5sUzdqbGFHR3YyeUFvaVZLWlJ5ZGhqU0ItMXpHWHFkQlJ3RTUtZVcxU1JzUUFRMU1OOGpnZ1RGNWFyMVIzRzNLRWVUb1V6WTZHVnhpMW5MY25xYUx5eWI0ZGFIX29QWWZ3QnUxRUx5ZGhSUEpvTzlBWTVZWS1vLVdlV2FaZ2hRTGNaYm5GS2FmclNCeVlKbE1qZ3hrb09NSWh0WkQt?oc=5>
+- **特朗普** | “史诗狂怒行动”：从军事行动到对伊朗的经济施压 <https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVkNzaDd2cVEybEdOY0dnUTRIbmJmTGZaTWdiU094bjY2VGxkSTZCYjNkUWlhVTZZaGtCc2lycTgtT0xlSWpTQVNLdEl4dHVMdFI5OEhtaTMtTzZYbncwYlZaWUxVVGNhVUpZYXM2d3NJaWt2ZUI3M1NsM2FuYjNxZDQwdlBNTW5xZWFyM2VmRjdhcGJBbkhjSFJCUTBYV1pFSnpWem5lMjdDbHo5SEtMdW1iZktDT0hjS0FkWExGU07SAcMBQVVfeXFMT1BUNmpMR0JyVjg4SS1sc1BxZVBzbjktTEN0VWFOV3hZZW1GVnU2QTRmZVY0M3hMZ0tDTGplNzN2TzlyVFUtQ2Q3OGNXLWd5Szg5a3dVaVlYNzdUR3UySHVvNnE5dGc1Sk5KS0ZEUDJrWDlxRURadFh3clRtQTgzWnM1dURFNVZOZ1h4QkVPRTZveHR4bzhwQjVCS2xiZ3dHWFhjME1kblB0N0VWYlR6YmE1QUpTdHJTQXdRN1ROM19GbHN3?oc=5>
+- **特朗普** | 特朗普将安大略湖更名为“美国湖” <https://news.google.com/rss/articles/CBMioAFBVV95cUxPRkRoREViVjNRdVNFYkRJZXFVOWo0Q3hZdXdPXzNVd0x2VWczelRRNUZGTDJ5STNjdFZNekl3UEhQOXlnejN2MEtwQndWdkpZMld3czEzZU9yQ2JzbUd2MTJaRkpjZ2Q0Ym9iOHgzYXFaYzVmTjZ1RVFPOHBaeFQ3bUhjUmlLNWgtajVKdXF6R2ZLNFdLZWluZ0stQjVCQmh2?oc=5>
+- **特朗普** | 特朗普签署行政令 将安大略湖更名为“美国湖” 美加贸易战持续升温 <https://news.google.com/rss/articles/CBMizwFBVV95cUxPdmlkazBUTEY4V0lkdnJTQ3E2QmJZazJZT0tCN1ZYek9nSmZuLVlkczM2WFRGRnYxbnZZaEhjeXFFMTQ2YnhQb0ZtWEtlVjlQU0llTGRWRlYxNnR6QzJ5bU1GRzhPUWJDSUtMMUg2ejd6b3g0TE0xbU5ZWlBJczNnR09YdG5hejR3a2ZfTWU2N1RHbDF1Y29uZkxWSzM0cWtlX19MTG1EZ2xETFRlcVZ6LTVZbG1rQVdRNG5nMGRrSGNvVWgxa0RENDI1bk5sb2M?oc=5>
+- **特朗普** | 曾向特朗普豪掷政治献金的美企高管，如今担忧即将收到国会传票 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxOR0gtR1NfUUN1NDFPZThJUmFBWkJyVlB5cXhtYmJXX2Zpd0NHSXprZ2RCR2xFRHJPSWJ5WDBubWRybHVnV3gySWdjcW01b0NwT0Rsd2Rja240bFpOanJwUnQxUmZrb2dpNkxDamtJemd0XzF5MF9CMUk2dURma0t0UFZGNVhzVjhVUkZtU2lHSmYycGdtTEdoT2toNHZFUkRiSEtKQ01CcElXTDhQNXo3MEt3WlB6QTRxcU9YYThpZGJZc0JEbDhDaWgtbWhHYURSSUt2elctZ2FHbUZkOHRv?oc=5>
 
 ### 2026-08-29 19:27  (5 条)
 
