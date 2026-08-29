@@ -1,43 +1,43 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-29 21:52**
-- 本轮扫到 10866 条, 新增 **6** 条
+- 最近更新: **2026-08-29 23:49**
+- 本轮扫到 10871 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (5 条)
 
-### 美获逾650亿桶委石油储量“多数控制权”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-08-29 21:33
-- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxNV1A2SVJTYncwOU9sU0VfZnphbF9TSE9JbFJoVjl0cnIzMnZzVnY4MWRCNUxyNTc1NmlnMHctX3JQdHZycGxZOUZSS25VMGdiMV9rMzk5aU5JTDhjWm5QRG1pTmdhMzhNMDZlSXBDcExNZ1Q4dUNhRkpzN3MwaVJxOGV2MUlkVEMwMzNUZkhhQVVTRS15UVJvMWg2MWc4QzZ4?oc=5>
-
-### 伊朗最高国家安全委员会秘书雷扎伊：“伊朗打算刺杀特朗普幼子”的报道是谎言，伊朗将采取反制措施，打击美国在该地区的经济利益
+### 特朗普：美国与委内瑞拉达成一项石油协议
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-08-29 08:03
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUVFzaHlHak81ZllKV0lpZm8yYTM4azNVNXhZNjJla19MQkpvYktwcVRaOU5sUzdqbGFHR3YyeUFvaVZLWlJ5ZGhqU0ItMXpHWHFkQlJ3RTUtZVcxU1JzUUFRMU1OOGpnZ1RGNWFyMVIzRzNLRWVUb1V6WTZHVnhpMW5MY25xYUx5eWI0ZGFIX29QWWZ3QnUxRUx5ZGhSUEpvTzlBWTVZWS1vLVdlV2FaZ2hRTGNaYm5GS2FmclNCeVlKbE1qZ3hrb09NSWh0WkQt?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-08-28 23:43
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5OT25BMURoZkpFaHhSbW1odHV2eHMzdHdWLS1XbVJLd2FKOWFHYUxfcDllaVpkNXRtZkd0OUhVMXB4cnNqZk5zZnFzRTA?oc=5>
 
-### “史诗狂怒行动”：从军事行动到对伊朗的经济施压
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-08-28 19:21
-- 链接: <https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVkNzaDd2cVEybEdOY0dnUTRIbmJmTGZaTWdiU094bjY2VGxkSTZCYjNkUWlhVTZZaGtCc2lycTgtT0xlSWpTQVNLdEl4dHVMdFI5OEhtaTMtTzZYbncwYlZaWUxVVGNhVUpZYXM2d3NJaWt2ZUI3M1NsM2FuYjNxZDQwdlBNTW5xZWFyM2VmRjdhcGJBbkhjSFJCUTBYV1pFSnpWem5lMjdDbHo5SEtMdW1iZktDT0hjS0FkWExGU07SAcMBQVVfeXFMT1BUNmpMR0JyVjg4SS1sc1BxZVBzbjktTEN0VWFOV3hZZW1GVnU2QTRmZVY0M3hMZ0tDTGplNzN2TzlyVFUtQ2Q3OGNXLWd5Szg5a3dVaVlYNzdUR3UySHVvNnE5dGc1Sk5KS0ZEUDJrWDlxRURadFh3clRtQTgzWnM1dURFNVZOZ1h4QkVPRTZveHR4bzhwQjVCS2xiZ3dHWFhjME1kblB0N0VWYlR6YmE1QUpTdHJTQXdRN1ROM19GbHN3?oc=5>
-
-### 特朗普将安大略湖更名为“美国湖”
+### 特朗普猝不及防，加拿大决然反击，运用资源筹码牵制华盛顿
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-08-29 07:53
-- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxPRkRoREViVjNRdVNFYkRJZXFVOWo0Q3hZdXdPXzNVd0x2VWczelRRNUZGTDJ5STNjdFZNekl3UEhQOXlnejN2MEtwQndWdkpZMld3czEzZU9yQ2JzbUd2MTJaRkpjZ2Q0Ym9iOHgzYXFaYzVmTjZ1RVFPOHBaeFQ3bUhjUmlLNWgtajVKdXF6R2ZLNFdLZWluZ0stQjVCQmh2?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-08-29 22:15
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFBVekh5eVp3LU0xWXhNVmo4RUh1Ym9IOExGeEZOU2Z0VjF4MU9qajB3TDB4TlFLdFBZY1ZRR2pWaFd3aVhoZndrbk9IQ3p2Um1XTE9vNDhrYUhCdmZSWERLQ3J3YkNSVVVMb0hBRy1kbG1xQQ?oc=5>
+
+### 美加贸易战开打 特朗普想要什么 贸易谈判破裂背后
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-08-29 15:02
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5wTmd1azhHb19EUXV0bmlFcU1kYUFPc0dEWmFZUzU2RG5JZ0JYRjNYLWRGT0d1Ukp3Q19UX0YyZENKYzA2RDl5M0ZCMy03dVNpb2xUZ29BNTM2TXhxSnRtcTZuZmdoUzVKMEN6Ry1kYlk?oc=5>
+
+### 美以伊战事，半年五问
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-08-29 22:29
+- 链接: <https://news.google.com/rss/articles/CBMijgFBVV95cUxNbnpuZnFQMFBmR2VMVkU4WWxUODVtWF84X0lLNUhFQnpnSVVVY1h0QVM2WEVlaGVKbGdEWjFaRDlKSEE3a2s5UUZXUlowVEcwQmh5Q1RCbGRyUTFpMnNJS0tJb19QTkR2SVp2bVZkbGFkWGFOWWdwdmZES3Z4Z3JkdDhrTU9JN0UyYWw3Zy1n?oc=5>
 
 ### 特朗普签署行政令 将安大略湖更名为“美国湖” 美加贸易战持续升温
 
@@ -45,20 +45,20 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-08-27 19:26
-- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxPdmlkazBUTEY4V0lkdnJTQ3E2QmJZazJZT0tCN1ZYek9nSmZuLVlkczM2WFRGRnYxbnZZaEhjeXFFMTQ2YnhQb0ZtWEtlVjlQU0llTGRWRlYxNnR6QzJ5bU1GRzhPUWJDSUtMMUg2ejd6b3g0TE0xbU5ZWlBJczNnR09YdG5hejR3a2ZfTWU2N1RHbDF1Y29uZkxWSzM0cWtlX19MTG1EZ2xETFRlcVZ6LTVZbG1rQVdRNG5nMGRrSGNvVWgxa0RENDI1bk5sb2M?oc=5>
-
-### 曾向特朗普豪掷政治献金的美企高管，如今担忧即将收到国会传票
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-29 02:42
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxOR0gtR1NfUUN1NDFPZThJUmFBWkJyVlB5cXhtYmJXX2Zpd0NHSXprZ2RCR2xFRHJPSWJ5WDBubWRybHVnV3gySWdjcW01b0NwT0Rsd2Rja240bFpOanJwUnQxUmZrb2dpNkxDamtJemd0XzF5MF9CMUk2dURma0t0UFZGNVhzVjhVUkZtU2lHSmYycGdtTEdoT2toNHZFUkRiSEtKQ01CcElXTDhQNXo3MEt3WlB6QTRxcU9YYThpZGJZc0JEbDhDaWgtbWhHYURSSUt2elctZ2FHbUZkOHRv?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxNYmhfdHBONGNDNjItdS1tUmxVXzNrb0l6VHljOFphcV9TRGRIWER2eC1XSXNyRElVN0tzLS1QYUZpa3QtdFVqeVdQbkRRREt1eWdHSjFMUjJUZVlpVlhsOFQzb0xDZ1lTQXlvUkFydllkOU1HakZ6RlpoWjlsYWNyblNWLUtnakFSa3pLX3Bha3JiUURyaUxCMVRMRUY1R0Y1Z0tGNV94NkYxdjdwa0xBV1h6VU93RFJTMXJSMUltZlVhdUNzcUNwSjVpMDhockU?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-29 23:49  (5 条)
+
+- **特朗普** | 特朗普：美国与委内瑞拉达成一项石油协议 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5OT25BMURoZkpFaHhSbW1odHV2eHMzdHdWLS1XbVJLd2FKOWFHYUxfcDllaVpkNXRtZkd0OUhVMXB4cnNqZk5zZnFzRTA?oc=5>
+- **特朗普** | 特朗普猝不及防，加拿大决然反击，运用资源筹码牵制华盛顿 <https://news.google.com/rss/articles/CBMickFVX3lxTFBVekh5eVp3LU0xWXhNVmo4RUh1Ym9IOExGeEZOU2Z0VjF4MU9qajB3TDB4TlFLdFBZY1ZRR2pWaFd3aVhoZndrbk9IQ3p2Um1XTE9vNDhrYUhCdmZSWERLQ3J3YkNSVVVMb0hBRy1kbG1xQQ?oc=5>
+- **特朗普** | 美加贸易战开打 特朗普想要什么 贸易谈判破裂背后 <https://news.google.com/rss/articles/CBMicEFVX3lxTE5wTmd1azhHb19EUXV0bmlFcU1kYUFPc0dEWmFZUzU2RG5JZ0JYRjNYLWRGT0d1Ukp3Q19UX0YyZENKYzA2RDl5M0ZCMy03dVNpb2xUZ29BNTM2TXhxSnRtcTZuZmdoUzVKMEN6Ry1kYlk?oc=5>
+- **特朗普** | 美以伊战事，半年五问 <https://news.google.com/rss/articles/CBMijgFBVV95cUxNbnpuZnFQMFBmR2VMVkU4WWxUODVtWF84X0lLNUhFQnpnSVVVY1h0QVM2WEVlaGVKbGdEWjFaRDlKSEE3a2s5UUZXUlowVEcwQmh5Q1RCbGRyUTFpMnNJS0tJb19QTkR2SVp2bVZkbGFkWGFOWWdwdmZES3Z4Z3JkdDhrTU9JN0UyYWw3Zy1n?oc=5>
+- **特朗普** | 特朗普签署行政令 将安大略湖更名为“美国湖” 美加贸易战持续升温 <https://news.google.com/rss/articles/CBMizwFBVV95cUxNYmhfdHBONGNDNjItdS1tUmxVXzNrb0l6VHljOFphcV9TRGRIWER2eC1XSXNyRElVN0tzLS1QYUZpa3QtdFVqeVdQbkRRREt1eWdHSjFMUjJUZVlpVlhsOFQzb0xDZ1lTQXlvUkFydllkOU1HakZ6RlpoWjlsYWNyblNWLUtnakFSa3pLX3Bha3JiUURyaUxCMVRMRUY1R0Y1Z0tGNV94NkYxdjdwa0xBV1h6VU93RFJTMXJSMUltZlVhdUNzcUNwSjVpMDhockU?oc=5>
 
 ### 2026-08-29 21:52  (6 条)
 
