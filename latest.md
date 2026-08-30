@@ -1,56 +1,100 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-29 23:49**
-- 本轮扫到 10871 条, 新增 **5** 条
+- 最近更新: **2026-08-30 03:00**
+- 本轮扫到 10880 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (9 条)
 
-### 特朗普：美国与委内瑞拉达成一项石油协议
+### 中选之后，“特朗普交易”要反噬了？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-28 23:43
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5OT25BMURoZkpFaHhSbW1odHV2eHMzdHdWLS1XbVJLd2FKOWFHYUxfcDllaVpkNXRtZkd0OUhVMXB4cnNqZk5zZnFzRTA?oc=5>
+- 场馆: finance.sina.com.cn
+- 时间: 2026-08-30 02:37
+- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxPTlJPU196ckpVVEJHR0EtNVJjTnh1TVMwWE5qRURkSmZOR01VeFV2TlZRM1YyX0hvWndqSlpRdHcxVDM0Vk0yTWxObzg0TmhUbm1RR3gxX1N0cnRLTjNyZGtYbTNnaHlLczJHa0lQa3FtNUFkbWt2X1pLQ1dVTjJSenV0Q0t3R1hFQjRLYUdhdndDb1hEaGl1eA?oc=5>
 
-### 特朗普猝不及防，加拿大决然反击，运用资源筹码牵制华盛顿
+### 特朗普说1.45万非公民投票，国安部自己都心虚，宾州致信要数据
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪网
-- 时间: 2026-08-29 22:15
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFBVekh5eVp3LU0xWXhNVmo4RUh1Ym9IOExGeEZOU2Z0VjF4MU9qajB3TDB4TlFLdFBZY1ZRR2pWaFd3aVhoZndrbk9IQ3p2Um1XTE9vNDhrYUhCdmZSWERLQ3J3YkNSVVVMb0hBRy1kbG1xQQ?oc=5>
+- 时间: 2026-08-30 01:16
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE9ubzVJbWlyRUd4ODhZU29PMEszNUhCTEU2dGduX0xZU0ZKbXBObElLVHFGcHlFdkVna1B4MkNMVld5eGx0eWkwaGxNNURNVzhBT2M2NDVzT3MzdG5sQmswbGhncENua3oyTThqbjZHX0Mydw?oc=5>
 
-### 美加贸易战开打 特朗普想要什么 贸易谈判破裂背后
+### 特朗普签署行政令将安大略湖更名为“美国湖”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-08-28 09:55
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE9WbkhBMU9GZXNUQVZqRDBnNjVYSEUyUUhyWXVDSWtzY1Iwc1d3S19mRmlmVXlqZk42U3R4X25LSnBWbGpLVnZ2WElXQlJpOVJnUDdzZmJVRVRuMnpsdUVNeEdFT19JcEF0UFJMbmotcXNSc2pP?oc=5>
+
+### 特朗普签署行政命令将安大略湖改名为“美国湖”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-08-30 01:18
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFA5dkFYeVZzTzBfTm85aEd1dGFlbWJ4Rm4yQjgzTGlONW0xY1lhc3dkQWNyTW02RTlzRzlQdFNOYmNfd083WGQ5Vm5sUGRtWXVaakJGZF9vQ0xXZ0c4dUhrZkZyWEZRVkVlY3U1M1kzQ0RNUQ?oc=5>
+
+### 特朗普暗示或制裁与伊朗交易往来的中国银行
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-08-27 23:05
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ObmxvdFpvaGVkVU1uQlEwaDlkSS0zZHcyREFjRXg2RlE5eDh4R0VEbmhuajlVZ0xDdzFWeHdFTl9jUlJzZGhiMm9PR3BYYVhaaldWRkp6MEpmeEdlU1ZtYkZyY2Rldw?oc=5>
+
+### 知情人称特朗普小儿子不怎么出门 隐居避世保安全
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 中华网
-- 时间: 2026-08-29 15:02
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5wTmd1azhHb19EUXV0bmlFcU1kYUFPc0dEWmFZUzU2RG5JZ0JYRjNYLWRGT0d1Ukp3Q19UX0YyZENKYzA2RDl5M0ZCMy03dVNpb2xUZ29BNTM2TXhxSnRtcTZuZmdoUzVKMEN6Ry1kYlk?oc=5>
+- 时间: 2026-08-29 15:10
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9OVWtrUjZiU1Y2VmdmdUFJTlc1MURRZHlpeWk3YmxFOW5ob0NnVzRIS1RYMXhFRXNMZnYwM2ZRajEtYXp2eTU2emJ3c0dGVm9vaThSMjJIWWRYcktuamd2blJRZmlfNlRuY1RKamxIc3U?oc=5>
 
-### 美以伊战事，半年五问
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-08-29 22:29
-- 链接: <https://news.google.com/rss/articles/CBMijgFBVV95cUxNbnpuZnFQMFBmR2VMVkU4WWxUODVtWF84X0lLNUhFQnpnSVVVY1h0QVM2WEVlaGVKbGdEWjFaRDlKSEE3a2s5UUZXUlowVEcwQmh5Q1RCbGRyUTFpMnNJS0tJb19QTkR2SVp2bVZkbGFkWGFOWWdwdmZES3Z4Z3JkdDhrTU9JN0UyYWw3Zy1n?oc=5>
-
-### 特朗普签署行政令 将安大略湖更名为“美国湖” 美加贸易战持续升温
+### 美国动向 - 特朗普收紧签证政策 中国人的“美国梦”还在吗？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-27 19:26
-- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxNYmhfdHBONGNDNjItdS1tUmxVXzNrb0l6VHljOFphcV9TRGRIWER2eC1XSXNyRElVN0tzLS1QYUZpa3QtdFVqeVdQbkRRREt1eWdHSjFMUjJUZVlpVlhsOFQzb0xDZ1lTQXlvUkFydllkOU1HakZ6RlpoWjlsYWNyblNWLUtnakFSa3pLX3Bha3JiUURyaUxCMVRMRUY1R0Y1Z0tGNV94NkYxdjdwa0xBV1h6VU93RFJTMXJSMUltZlVhdUNzcUNwSjVpMDhockU?oc=5>
+- 场馆: RFI
+- 时间: 2026-08-28 14:27
+- 链接: <https://news.google.com/rss/articles/CBMikANBVV95cUxNQm1RempnMndPTGZPVVFhWHZMeUtGRFJwbGFsYjI4NU8wVGJfOHdYZzZmRV9oS3UzcVBQR3I5VHdwVUdsd1Z5a1R4ZXVyV0h6OFA0ekxYSjVyU3ZKOW5ZQUc1a3lHa2ZuTHB6UDBKalJjYUtvSjBJYmRfcGFDNmo2QWYzOXFjUGtEVVd4SzNESk1od3hOdlFQZ3VydUI0VndIUjdqcnZEcWswU09GdzMtdDNyY1kzcmotTmgyT1YzUDRkQ21QT05UU193VndnZlpiN1lrcGowSjg4QzVjbS1JMFNZaGFLZU5RNFB3MHJUanJ5S1lEa1F3U0pXNzZXQ25KQnlPSkp4X1FYUTFBRGJ4WmdJTU9iQlpFZ09FNTNkeUZIazBGUUM1QTNJcGRKeVp2Z3lrc1JPeDZaXzM2aTV2aVJOamhsNVVwVDFRa0N3a0I1aVRUZjVveVduSXZib1Z1SG5lb2dsaHY5T0o4aUEzNmJCSk41ajBWdmRXRWNXckZuZ09kUlFWTXU4VHZ5aTJz?oc=5>
+
+### $TRUMP 持仓持续缩减施压反弹，资金转向基建赛道分化加剧| 欧易
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: OKX
+- 时间: 2026-08-28 01:28
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTFBrR1JEWmx5Nks2MjMteENVUjBIQ0Z5TWpBX0ZkbXdIdFdTWkwyS0NBTXhvR1cycTZZZjhMUXN6RlVxVGlnMlZaeWJnYXRLcGIwaTR0UUU4MEk2eTVISnNkQnJRQUdPNk5oaF81TEdXaw?oc=5>
+
+### $美光科技 (MU.US)$ Donald trump公然内幕交易美光科技，笑死。
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-08-27 19:34
+- 链接: <https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOXVydWJzRUJCWUZpZmZxbVZvS3BVMXJadTg3bGFFeWxHNUdKdGQ0MThDakJ1LXAyUFNHc3ktZ0JwSmszN2RGY251bURhanVNenFBNDJTQkMxeHdMS05VQ1I5YldVMjV2T2U2WS1NWkFuR1lhcUZRMFloSmliQ0hlbkhCVmRTT0sybEtFa2lITGg3TkNfMndzaUQ1bVpPbElOcmZSbzZldzJSTmlUMVZobklxdzI5Q0dhTVZkM3RGdEhXdw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-30 03:00  (9 条)
+
+- **特朗普** | 中选之后，“特朗普交易”要反噬了？ <https://news.google.com/rss/articles/CBMimAFBVV95cUxPTlJPU196ckpVVEJHR0EtNVJjTnh1TVMwWE5qRURkSmZOR01VeFV2TlZRM1YyX0hvWndqSlpRdHcxVDM0Vk0yTWxObzg0TmhUbm1RR3gxX1N0cnRLTjNyZGtYbTNnaHlLczJHa0lQa3FtNUFkbWt2X1pLQ1dVTjJSenV0Q0t3R1hFQjRLYUdhdndDb1hEaGl1eA?oc=5>
+- **特朗普** | 特朗普说1.45万非公民投票，国安部自己都心虚，宾州致信要数据 <https://news.google.com/rss/articles/CBMickFVX3lxTE9ubzVJbWlyRUd4ODhZU29PMEszNUhCTEU2dGduX0xZU0ZKbXBObElLVHFGcHlFdkVna1B4MkNMVld5eGx0eWkwaGxNNURNVzhBT2M2NDVzT3MzdG5sQmswbGhncENua3oyTThqbjZHX0Mydw?oc=5>
+- **特朗普** | 特朗普签署行政令将安大略湖更名为“美国湖” <https://news.google.com/rss/articles/CBMidEFVX3lxTE9WbkhBMU9GZXNUQVZqRDBnNjVYSEUyUUhyWXVDSWtzY1Iwc1d3S19mRmlmVXlqZk42U3R4X25LSnBWbGpLVnZ2WElXQlJpOVJnUDdzZmJVRVRuMnpsdUVNeEdFT19JcEF0UFJMbmotcXNSc2pP?oc=5>
+- **特朗普** | 特朗普签署行政命令将安大略湖改名为“美国湖” <https://news.google.com/rss/articles/CBMickFVX3lxTFA5dkFYeVZzTzBfTm85aEd1dGFlbWJ4Rm4yQjgzTGlONW0xY1lhc3dkQWNyTW02RTlzRzlQdFNOYmNfd083WGQ5Vm5sUGRtWXVaakJGZF9vQ0xXZ0c4dUhrZkZyWEZRVkVlY3U1M1kzQ0RNUQ?oc=5>
+- **特朗普** | 特朗普暗示或制裁与伊朗交易往来的中国银行 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ObmxvdFpvaGVkVU1uQlEwaDlkSS0zZHcyREFjRXg2RlE5eDh4R0VEbmhuajlVZ0xDdzFWeHdFTl9jUlJzZGhiMm9PR3BYYVhaaldWRkp6MEpmeEdlU1ZtYkZyY2Rldw?oc=5>
+- **特朗普** | 知情人称特朗普小儿子不怎么出门 隐居避世保安全 <https://news.google.com/rss/articles/CBMicEFVX3lxTE9OVWtrUjZiU1Y2VmdmdUFJTlc1MURRZHlpeWk3YmxFOW5ob0NnVzRIS1RYMXhFRXNMZnYwM2ZRajEtYXp2eTU2emJ3c0dGVm9vaThSMjJIWWRYcktuamd2blJRZmlfNlRuY1RKamxIc3U?oc=5>
+- **特朗普** | 美国动向 - 特朗普收紧签证政策 中国人的“美国梦”还在吗？ <https://news.google.com/rss/articles/CBMikANBVV95cUxNQm1RempnMndPTGZPVVFhWHZMeUtGRFJwbGFsYjI4NU8wVGJfOHdYZzZmRV9oS3UzcVBQR3I5VHdwVUdsd1Z5a1R4ZXVyV0h6OFA0ekxYSjVyU3ZKOW5ZQUc1a3lHa2ZuTHB6UDBKalJjYUtvSjBJYmRfcGFDNmo2QWYzOXFjUGtEVVd4SzNESk1od3hOdlFQZ3VydUI0VndIUjdqcnZEcWswU09GdzMtdDNyY1kzcmotTmgyT1YzUDRkQ21QT05UU193VndnZlpiN1lrcGowSjg4QzVjbS1JMFNZaGFLZU5RNFB3MHJUanJ5S1lEa1F3U0pXNzZXQ25KQnlPSkp4X1FYUTFBRGJ4WmdJTU9iQlpFZ09FNTNkeUZIazBGUUM1QTNJcGRKeVp2Z3lrc1JPeDZaXzM2aTV2aVJOamhsNVVwVDFRa0N3a0I1aVRUZjVveVduSXZib1Z1SG5lb2dsaHY5T0o4aUEzNmJCSk41ajBWdmRXRWNXckZuZ09kUlFWTXU4VHZ5aTJz?oc=5>
+- **Trump** | $TRUMP 持仓持续缩减施压反弹，资金转向基建赛道分化加剧| 欧易 <https://news.google.com/rss/articles/CBMib0FVX3lxTFBrR1JEWmx5Nks2MjMteENVUjBIQ0Z5TWpBX0ZkbXdIdFdTWkwyS0NBTXhvR1cycTZZZjhMUXN6RlVxVGlnMlZaeWJnYXRLcGIwaTR0UUU4MEk2eTVISnNkQnJRQUdPNk5oaF81TEdXaw?oc=5>
+- **Trump** | $美光科技 (MU.US)$ Donald trump公然内幕交易美光科技，笑死。 <https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOXVydWJzRUJCWUZpZmZxbVZvS3BVMXJadTg3bGFFeWxHNUdKdGQ0MThDakJ1LXAyUFNHc3ktZ0JwSmszN2RGY251bURhanVNenFBNDJTQkMxeHdMS05VQ1I5YldVMjV2T2U2WS1NWkFuR1lhcUZRMFloSmliQ0hlbkhCVmRTT0sybEtFa2lITGg3TkNfMndzaUQ1bVpPbElOcmZSbzZldzJSTmlUMVZobklxdzI5Q0dhTVZkM3RGdEhXdw?oc=5>
 
 ### 2026-08-29 23:49  (5 条)
 
