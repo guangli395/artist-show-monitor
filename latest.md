@@ -1,102 +1,53 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-30 09:22**
-- 本轮扫到 10891 条, 新增 **11** 条
+- 最近更新: **2026-08-30 14:28**
+- 本轮扫到 10895 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (11 条)
+## 本轮新发现 (4 条)
 
-### 王一博ins发布素颜怼脸自拍，晒伤脱皮状态引热议
+### 王一博为什么选择在Instagram发布素颜自拍？
 
 - 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923116_1d5ae15ac06801kde4.html>
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd8640680152io.html>
 
-### 特朗普称美国与委内瑞拉达成“大规模石油协议”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-08-30 03:42
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9HSGs0WnRjcnQ5czdmSkdFWVBaSllzME1NTU5DSjhaZUYtdWNUTEZwUE9rMUVhN1JDOTdHY1J0cGdsSER6Y2d5NXZUSkR5bkZBYWpXbmVWWkxpbFVLNWduMWJMaGs4VmhGWlFpOE4xaUw5MVJWVmhYR2lDNjhXeVk?oc=5>
-
-### 【今日特朗普要闻】 ......_7x24快讯_新浪财经
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-08-30 07:13
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBEc003NkttQWhzSEx2RGljdmhhMDdTUWN3WTdZV09hcU43S3dpMF9WTWt5QllHNmZWTFlqbTJOTTUxZjFSc2daOHlZQQ?oc=5>
-
-### 川普曾怒喷球爹：不领我情？早知让二球坐牢！竟称偷窃没啥大不了
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: Sina Sports
-- 时间: 2026-08-30 07:27
-- 链接: <https://news.google.com/rss/articles/CBMihAFBVV95cUxQckxZcHZEdm1GcHZJc3gxYkt5eUIyZWw3V3FibEpuSG1LS2d3QWgyc0M1OVR1M3BLZjdvSWZjZlZJOUs3Q08xYnM1S2tYN3RFd2JibmpDU2puZE9aMlRtb3ltRW9aVk1BSmFYMVRjUUUzZVctc1ZhUFVWTzAtV3JDd2FwdWo?oc=5>
-
-### 你改我也改，加拿大首都计划改掉“特朗普大道”街名
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-08-30 08:28
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE93ck9rd0hzak5YaWFWREZDU3l2M1JORmlnR3h6YjFSUU8zdXFQR3AwSGUzdGtZOHhKSzllYTlmMFk2NVF0ZXJyMEg1WUJTRmc0SmE5X2NWMTI3NXFoME02bkN2WU16d1F0UHc?oc=5>
-
-### 特朗普发布AI视频将加拿大鹅改名Donald's Duck
+### 乌给马斯克颁自由勋章：不找特朗普帮忙，打的什么算盘？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪网
-- 时间: 2026-08-30 09:07
-- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxNX1F4YWViLVk5cVJrTmQzTkNRX1hSVTZDaWE1akdtMXRVcGgzbEp4Zjh3MDBtUXZoR21reUpZRjI5c3N0ZDVDWHRSUWZ3WnppN3doRTViVmh1eHhOWVZGOHE3U19BZjRDTUFrdDdFRDdPR3RTTUU1d19VTTBscmdKUg?oc=5>
+- 时间: 2026-08-30 14:20
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFBvMFM0dGsyWE5uZ1BJUV9uSVVhSDY0Z0xONkZfTnU2TzFsZzBQWFNBYzdOUURsRngtclM5dGdkbWV3MHlYbkVHQ1hpSlZTSzFxalUzd0d1N3RORmptbnNwbmQ1RUM3d21yM1RmNlp0X01kdw?oc=5>
 
-### 美国如何失去加拿大稳定而平价的原油供应
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-08-29 13:31
-- 链接: <https://news.google.com/rss/articles/CBMiwwJBVV95cUxOUC1mR0RXbTlYOUxrRFRudjdQc0JSVWlmbnBCUVZXZkVmS2JOQl82VnR2cUM3eHJPVV9KNS1hc3JfSzd5bURCSHpUb2xpeHJISmtzalBKaGpnVzJWTjRBWG1HaGhTUWR0M0JvRTZmTzB4MksxQUZaUVJZMjZ1SENqUEJRdXNwaDBYekpnQk5Nb1pqV3Bsd2JkM2Y0SDNYVG9hVGg3Vjk2c3VsZU9lNF9USlJDWmlDeFc5eUtxXzV1cktKSzIzRk1HYUQ2SjAwbFpWXzc0d203d01pNWlsNDMwUWJMNmlEZUxTcHdvcDJOQzhjbGtFeXp5Y3Zla2s3ZUhBZWpSZzVkSDA2eEx5SEl6aURNb3UtaEthel9iUTFIT2VKYTdQTno2RVRsbWlOMXdHUHJEeWJyWVVXa1JGeEg1c1BIRQ?oc=5>
-
-### 特朗普政府钨废料出口禁令正式生效！美国钨矿股本月暴涨
+### 特朗普想从加拿大拿走什么 北美盟友掀桌反击
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-08-30 05:12
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTFBPRHkwSUtpeDVxRkd2TE1maEpPQU0tbFV0U1VsSkNQN2t1all6NkdhTGZXYmNqUGQ0ODNMd00zSFRMTnFrUkZ0Wg?oc=5>
+- 场馆: 中华军事
+- 时间: 2026-08-30 10:59
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5MQUJtd0lLbWlSSDQ2ZGtvUTg0NmZiTXlTakpTYjYyZFBLeDJzcHFyQmREcFB5Z0I3NUtpckdjYXlPakktSWhoZ3ZzNTIxeFJIU2UyWU9JbGp4TTRYTWN4Y2cyeTl6QVUwRmhfQjc1U1o?oc=5>
 
-### 在美加关税对峙之际，特朗普总统下令将安大略湖更名
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-08-28 19:32
-- 链接: <https://news.google.com/rss/articles/CBMitwFBVV95cUxONnZFNFh2eGh1eHozSk9uQ085cXhLUFM1V1ktZGlvMnlrTHFPU3ZVSVNISnpPejQtLUtDZDhieVJqa05uT2hzZ2dfNndXZlJzc3N2ZURWM3QtVnRrd3pOX2FWUGtHOVI2b19TU0lMNDZZUTYyZDVwUUc4b2hHY091amJTalVmYXk3VjM4amZOUlYwaGh3OURIWjBFU1pWLXZSVjJ1VFBfY0xLa25NQmhhSWpfbXlZOWfSAbcBQVVfeXFMTjZ2RTRYdnhodXh6M0pPbkNPOXF4S1BTNVdZLWRpbzJ5a0xxT1N2VUlTSEp6T3o0LS1LQ2Q4YnlSamtObk9oc2dnXzZ3V2ZSc3NzdmVEVjN0LVZ0a3d6Tl9hVlBrRzlSNm9fU1NJTDQ2WVE2MmQ1cFFHOG9oR2NPdWpiU2pVZmF5N1YzOGpmTlJWMGhodzlESFowRVNaVi12UlYydVRQX2NMS2tuTUJoYUlqX215WTln?oc=5>
-
-### $TRUMP 从高点追涨到腰斩割肉，中间各种“利好拉盘”的假动作全...
+### $TRUMP 币：冲3美元易，站稳难 最新行情：8月28日TRUMP单日暴... | 欧易
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: OKX
-- 时间: 2026-08-30 04:33
-- 链接: <https://news.google.com/rss/articles/CBMiXEFVX3lxTFAzOEMxWktiZXNEV0ZNMVE5cHAtVmtyNHlzcFEzR3JrbzgwOFhaaW1nNWxkY1ZwblB0cFZJdV8wWVk0TUdjYXIxSVY5Mko1a2NvU093TXJnX1RyRkNV?oc=5>
-
-### 中选之后，“特朗普交易”要反噬了？
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 富途牛牛
-- 时间: 2026-08-30 02:18
-- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxNcWdvQjhlaWkyR0Rnci1tRnFBQkVwd3pyWGNJaGJfTFpORXFhVGdzQjdWTnJYdC10NTRRQW9aYzRibVRmTDVRWUZUYVJvdXF2RnpUd2FyV21sblNxNFNnNzJLVEpDYWRyNGptQjhLazN3VkFyVzdsSm5TcFNvc3hHaEc4Qll1WTR5M1RsVzFQYw?oc=5>
+- 时间: 2026-08-29 20:10
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE56LXU2aGljam9yMnlmUE5sSFpYSU83WTUydVg3Qk9vVmhBWHhMaUdFaHhqa2JQS3U2SkYxVXE5ZThxcGVWSmh3RjIzOHJDQ1dtXzZ6c1ZiXzc5NnVlZXN5ZGJSY01aRnBFa2VZ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-30 14:28  (4 条)
+
+- **王一博** | 王一博为什么选择在Instagram发布素颜自拍？ <https://k.sina.com.cn/article_7879776356_1d5abd8640680152io.html>
+- **特朗普** | 乌给马斯克颁自由勋章：不找特朗普帮忙，打的什么算盘？ <https://news.google.com/rss/articles/CBMickFVX3lxTFBvMFM0dGsyWE5uZ1BJUV9uSVVhSDY0Z0xONkZfTnU2TzFsZzBQWFNBYzdOUURsRngtclM5dGdkbWV3MHlYbkVHQ1hpSlZTSzFxalUzd0d1N3RORmptbnNwbmQ1RUM3d21yM1RmNlp0X01kdw?oc=5>
+- **特朗普** | 特朗普想从加拿大拿走什么 北美盟友掀桌反击 <https://news.google.com/rss/articles/CBMicEFVX3lxTE5MQUJtd0lLbWlSSDQ2ZGtvUTg0NmZiTXlTakpTYjYyZFBLeDJzcHFyQmREcFB5Z0I3NUtpckdjYXlPakktSWhoZ3ZzNTIxeFJIU2UyWU9JbGp4TTRYTWN4Y2cyeTl6QVUwRmhfQjc1U1o?oc=5>
+- **Trump** | $TRUMP 币：冲3美元易，站稳难 最新行情：8月28日TRUMP单日暴... | 欧易 <https://news.google.com/rss/articles/CBMia0FVX3lxTE56LXU2aGljam9yMnlmUE5sSFpYSU83WTUydVg3Qk9vVmhBWHhMaUdFaHhqa2JQS3U2SkYxVXE5ZThxcGVWSmh3RjIzOHJDQ1dtXzZ6c1ZiXzc5NnVlZXN5ZGJSY01aRnBFa2VZ?oc=5>
 
 ### 2026-08-30 09:22  (11 条)
 
