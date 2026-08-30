@@ -1,56 +1,73 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-30 21:19**
-- 本轮扫到 10904 条, 新增 **5** 条
+- 最近更新: **2026-08-30 23:40**
+- 本轮扫到 10910 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (5 条)
-
-### 加拿大安大略省立标牌回击特朗普，安大略湖现在和永远
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-08-30 21:09
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE4weXpfbUpORHEtb3FXU2RDYjhRQnMtTEVObU9oanJZZTZHYUZqeU01ZjdKajNiblF0eWFBRmJsZGF3U0FTaWhBVGxiOV8tVXBNMmlCNlZtT2tJZjEwTFNJRGdobnA3UkV0Yl82Sk9qT0pGRUU?oc=5>
+## 本轮新发现 (6 条)
 
 ### 最新民调：特朗普铁杆支持者半年缩水14%
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-08-30 18:45
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxPdVZDWnV3T1Z1bjZuX2ZuZWkyZmhBenBkVm5sRjZXQkdPN29nUEswZVRIc1E2dXRrZi1xbE9lR2p1U3RnVzZIS2pxWjdQd285a2RnVmlZMXNGbUZxR3dtTTZKSjZ5cnoyLWh5ejVQT0gzZWJkUTdUM25BWFJYeXFMUGV6TkZlQWhDcDlyZg?oc=5>
+- 场馆: finance.sina.com.cn
+- 时间: 2026-08-30 22:15
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9wMkptdThreTJxRlQtalBfLVJxQTFwLTVTaWZmQzIySTJ3a1JQa0VCUWpfOUYweTRBck5sdFpPeDQxQmxpbHpDTFZERld4VkNfbjZTYUt1SjZydF9DcHR4UUJLaEUtWFBfUEpjMGxZekxFZ29KM09YcA?oc=5>
 
-### 美特朗普政府再次玩弄半导体关税牌…“短期作茧自缚，长期构成威胁”
+### 加拿大设置“安大略湖”标志牌以讽刺唐纳德·特朗普
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 朝鮮日報中文版
-- 时间: 2026-08-29 02:39
-- 链接: <https://news.google.com/rss/articles/CBMikgFBVV95cUxOXzFFWVhmZEVyalNKbFdHb1NrUm44bTZjSjBvQV9WRDVJV2NGcUswY1ZGY0t5dzBSSnhFa2x2dVYwY25DVnhUT284ZGQ4TnNDckllM2RIUDRHbERYZWJGYkJPNXh4N21iakhrUWswLU5nZFZOY09LcEE1YUZjWkJ1bU5Ud054NnVGa0ltM0M5N3JMdw?oc=5>
+- 场馆: idnfinancials.com
+- 时间: 2026-08-30 23:00
+- 链接: <https://news.google.com/rss/articles/CBMi0wJBVV95cUxQaS1NS0VzR0lKY3lLcjNYeUlwMkpJb3BRZERVNnBHZzJrcEt4QlFPVElWVnJDMWIxZ2ZJbGtWOFN5N3pqODZISnRORVZqREhQTUY2QnRWUGNEMFE1eEkzbTJyNk9odGtBQmdUQmVXbUgxWTZDeWdjRUJzZFhhcnBFb3FTclBXWVZ1UjBNSVNsWWpFUWhOX2daeVVsOGRFaG9IZFJCbV9Tc1FYcmZyTWxPWHU2Z19iOW03ek1KWFdhTEhYVGtWUjlFdlFvdmtKZXE0ZXBEVDhKcHdTNVlWclVEMk5VYXVQSnl2Zy1YeGlhMDY1eFFLVjV6ZDh2U1VoU3I3aWZOZTNGTnZqb1dLTjZpRzB1WVFLWDBVY05UemNadXFKUWdreHN0Um8tTTRQaTF5ekkxRlJkRGFQSXhGdnI0YldLQndRS3hVeklUNkhfcXZldlk?oc=5>
 
-### “Trump或先会见Kim Jong-un，中期选举后或举行第二次会谈”
+### 特朗普20岁小儿子巴伦担心自己成为暗杀目标，选择隐居避世，此前伊朗被曝1000万美元悬赏巴伦，知情人：他不出门，相当孤僻
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 每日经济新闻
+- 时间: 2026-08-30 15:58
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5wSGFoWmpOdG9FTm1YX2taclBhQWVlWm1kZlpxY2tIOWhMdTdTa1VjOXNPR21mSF93N1dHcTdhbEoxYkVncTNhTG1HeDFWMnU3VUhkY293VGwtRlZHblNqOFZrSy00dw?oc=5>
+
+### 为修高尔夫球场，特朗普把日本送的樱花树砍了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-08-30 09:01
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFB6V2dHYko1ZGMxWFZtdWR1Ym9Xem9SNFo3WjhtZTRlaDU3bDlNa2YwX0pSelp6WWg3WVNnODV0bEhWY2o5RC1aaWl4OTE?oc=5>
+
+### 德语媒体：“声调高、棍子小”的特朗普亚太政策
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: DW.com
+- 时间: 2026-08-28 13:57
+- 链接: <https://news.google.com/rss/articles/CBMioAJBVV95cUxOOER0R29BM0E3YUVfU3gwbTczX2NkNUtxSnBPQ0tRcmptdmt3Q2xnNm1OdzFzaWpubHNoU2Z0YktqOHlDODUxTWtGNERyQXgxYXk4N2VYZTdiTHpUTTZFeThaNHYxalEtMGRxVndsUXNDNjRDM3UyZTZrRlBJZl9WNUJBS0VDWFhDTHdoRURPOEU0REY2WEhhV1QwcEQ0cnJHWGx4T0I1SktqelA3ZzdlMWtPOTJ4d1p1R2NETHlUejhLQldsSEt1OHMzLVB1UUppTFpJU2dKZ0xvRmlpeWlXaTV4VUpUX293ZGtZQmM4akJRMDRLUUZkNzE2Ulpoa1pZXzdMUkdZTnhnOElOMHpmVG05XzZudWczUnJNd3c1eDXSAaACQVVfeXFMTzBlOGxHbndyZkw1MUdBejlNdVliRFhZeXdJWWY4SFMzX1N6ZUU2NE9iMlVmd0g4cS1pak9RbFBFa205aG1Ua21HOVhhZ1ZmMTRoVDZ0UG9LTGUtQ2RBeEVVOHNNVkw2a1FURl9BSnBJSFlvWGpCYWlEdkh1QUhyMnlWOHpTMlFNTF83eEdYanpacXlsN0JkNF9FQlZmMGEwclRJY2U2cHhjWE1ZMkd4aHM2b1VmS1VPeHRDRG9OZERONEhoeWpPTWZmWmxhZTlRSFBrX0N6b2g3SWtTaEdjSm5leDlvOThrUEFHekxqU25uSVotRVphbXFIY2huNVlMaG9tWkF0NzVMSFdMOEZvRjE3ZENBUmE3ZGhOSHVVRUdl?oc=5>
+
+### 格里芬院长 (@Square-Creator-446e63a9fd9ef)的见解
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 아시아경제
-- 时间: 2026-08-30 15:24
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wVzV5RmhzMDF4MTA3T21XWnFVcDJjampqMFBDRzZGOXdVZFRCV21mUVFMa0dkSGJsN2VFdW02TDlEVDRtUkxiMXVnbF9GcW1wbzF5Q3hCMkNsUTVjejRxdFJPZEk?oc=5>
-
-### 财通策略徐近峰团队 Trump TACO or GAMBLE 指数-2026年08月25日
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 发现报告
-- 时间: 2026-08-27 07:00
-- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE5xNDFhYU5PV3dnNWVvTElOUUV2V2o5dGVtbmM4bFh6bVNuTURhSlZXTmI2ZHpaWjdBcHVMQ0F5WVp4eVAtdVRnTjhpZlotRUNy?oc=5>
+- 场馆: Binance
+- 时间: 2026-08-29 05:22
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1EOVl6N3VhcmNCa1ZoSVJJUVBUSnlsVTM0T1ZDN1BNekY4MG9IRjRQaUhOYmdzdzFnSWxLd3VRS0NVN29VVWU5bkNfQnVSYUZsWVJfd0dScVJXZTY4UUJ5ZXJQR1pWVGlR?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-30 23:40  (6 条)
+
+- **特朗普** | 最新民调：特朗普铁杆支持者半年缩水14% <https://news.google.com/rss/articles/CBMieEFVX3lxTE9wMkptdThreTJxRlQtalBfLVJxQTFwLTVTaWZmQzIySTJ3a1JQa0VCUWpfOUYweTRBck5sdFpPeDQxQmxpbHpDTFZERld4VkNfbjZTYUt1SjZydF9DcHR4UUJLaEUtWFBfUEpjMGxZekxFZ29KM09YcA?oc=5>
+- **特朗普** | 加拿大设置“安大略湖”标志牌以讽刺唐纳德·特朗普 <https://news.google.com/rss/articles/CBMi0wJBVV95cUxQaS1NS0VzR0lKY3lLcjNYeUlwMkpJb3BRZERVNnBHZzJrcEt4QlFPVElWVnJDMWIxZ2ZJbGtWOFN5N3pqODZISnRORVZqREhQTUY2QnRWUGNEMFE1eEkzbTJyNk9odGtBQmdUQmVXbUgxWTZDeWdjRUJzZFhhcnBFb3FTclBXWVZ1UjBNSVNsWWpFUWhOX2daeVVsOGRFaG9IZFJCbV9Tc1FYcmZyTWxPWHU2Z19iOW03ek1KWFdhTEhYVGtWUjlFdlFvdmtKZXE0ZXBEVDhKcHdTNVlWclVEMk5VYXVQSnl2Zy1YeGlhMDY1eFFLVjV6ZDh2U1VoU3I3aWZOZTNGTnZqb1dLTjZpRzB1WVFLWDBVY05UemNadXFKUWdreHN0Um8tTTRQaTF5ekkxRlJkRGFQSXhGdnI0YldLQndRS3hVeklUNkhfcXZldlk?oc=5>
+- **特朗普** | 特朗普20岁小儿子巴伦担心自己成为暗杀目标，选择隐居避世，此前伊朗被曝1000万美元悬赏巴伦，知情人：他不出门，相当孤僻 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5wSGFoWmpOdG9FTm1YX2taclBhQWVlWm1kZlpxY2tIOWhMdTdTa1VjOXNPR21mSF93N1dHcTdhbEoxYkVncTNhTG1HeDFWMnU3VUhkY293VGwtRlZHblNqOFZrSy00dw?oc=5>
+- **特朗普** | 为修高尔夫球场，特朗普把日本送的樱花树砍了 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFB6V2dHYko1ZGMxWFZtdWR1Ym9Xem9SNFo3WjhtZTRlaDU3bDlNa2YwX0pSelp6WWg3WVNnODV0bEhWY2o5RC1aaWl4OTE?oc=5>
+- **特朗普** | 德语媒体：“声调高、棍子小”的特朗普亚太政策 <https://news.google.com/rss/articles/CBMioAJBVV95cUxOOER0R29BM0E3YUVfU3gwbTczX2NkNUtxSnBPQ0tRcmptdmt3Q2xnNm1OdzFzaWpubHNoU2Z0YktqOHlDODUxTWtGNERyQXgxYXk4N2VYZTdiTHpUTTZFeThaNHYxalEtMGRxVndsUXNDNjRDM3UyZTZrRlBJZl9WNUJBS0VDWFhDTHdoRURPOEU0REY2WEhhV1QwcEQ0cnJHWGx4T0I1SktqelA3ZzdlMWtPOTJ4d1p1R2NETHlUejhLQldsSEt1OHMzLVB1UUppTFpJU2dKZ0xvRmlpeWlXaTV4VUpUX293ZGtZQmM4akJRMDRLUUZkNzE2Ulpoa1pZXzdMUkdZTnhnOElOMHpmVG05XzZudWczUnJNd3c1eDXSAaACQVVfeXFMTzBlOGxHbndyZkw1MUdBejlNdVliRFhZeXdJWWY4SFMzX1N6ZUU2NE9iMlVmd0g4cS1pak9RbFBFa205aG1Ua21HOVhhZ1ZmMTRoVDZ0UG9LTGUtQ2RBeEVVOHNNVkw2a1FURl9BSnBJSFlvWGpCYWlEdkh1QUhyMnlWOHpTMlFNTF83eEdYanpacXlsN0JkNF9FQlZmMGEwclRJY2U2cHhjWE1ZMkd4aHM2b1VmS1VPeHRDRG9OZERONEhoeWpPTWZmWmxhZTlRSFBrX0N6b2g3SWtTaEdjSm5leDlvOThrUEFHekxqU25uSVotRVphbXFIY2huNVlMaG9tWkF0NzVMSFdMOEZvRjE3ZENBUmE3ZGhOSHVVRUdl?oc=5>
+- **Trump** | 格里芬院长 (@Square-Creator-446e63a9fd9ef)的见解 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1EOVl6N3VhcmNCa1ZoSVJJUVBUSnlsVTM0T1ZDN1BNekY4MG9IRjRQaUhOYmdzdzFnSWxLd3VRS0NVN29VVWU5bkNfQnVSYUZsWVJfd0dScVJXZTY4UUJ5ZXJQR1pWVGlR?oc=5>
 
 ### 2026-08-30 21:19  (5 条)
 
