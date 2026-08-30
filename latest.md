@@ -1,88 +1,116 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-30 03:00**
-- 本轮扫到 10880 条, 新增 **9** 条
+- 最近更新: **2026-08-30 09:22**
+- 本轮扫到 10891 条, 新增 **11** 条
 
 ---
 
-## 本轮新发现 (9 条)
+## 本轮新发现 (11 条)
 
-### 中选之后，“特朗普交易”要反噬了？
+### 王一博ins发布素颜怼脸自拍，晒伤脱皮状态引热议
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-08-30 02:37
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxPTlJPU196ckpVVEJHR0EtNVJjTnh1TVMwWE5qRURkSmZOR01VeFV2TlZRM1YyX0hvWndqSlpRdHcxVDM0Vk0yTWxObzg0TmhUbm1RR3gxX1N0cnRLTjNyZGtYbTNnaHlLczJHa0lQa3FtNUFkbWt2X1pLQ1dVTjJSenV0Q0t3R1hFQjRLYUdhdndDb1hEaGl1eA?oc=5>
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923116_1d5ae15ac06801kde4.html>
 
-### 特朗普说1.45万非公民投票，国安部自己都心虚，宾州致信要数据
+### 特朗普称美国与委内瑞拉达成“大规模石油协议”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪网
-- 时间: 2026-08-30 01:16
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE9ubzVJbWlyRUd4ODhZU29PMEszNUhCTEU2dGduX0xZU0ZKbXBObElLVHFGcHlFdkVna1B4MkNMVld5eGx0eWkwaGxNNURNVzhBT2M2NDVzT3MzdG5sQmswbGhncENua3oyTThqbjZHX0Mydw?oc=5>
+- 时间: 2026-08-30 03:42
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9HSGs0WnRjcnQ5czdmSkdFWVBaSllzME1NTU5DSjhaZUYtdWNUTEZwUE9rMUVhN1JDOTdHY1J0cGdsSER6Y2d5NXZUSkR5bkZBYWpXbmVWWkxpbFVLNWduMWJMaGs4VmhGWlFpOE4xaUw5MVJWVmhYR2lDNjhXeVk?oc=5>
 
-### 特朗普签署行政令将安大略湖更名为“美国湖”
+### 【今日特朗普要闻】 ......_7x24快讯_新浪财经
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-08-28 09:55
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE9WbkhBMU9GZXNUQVZqRDBnNjVYSEUyUUhyWXVDSWtzY1Iwc1d3S19mRmlmVXlqZk42U3R4X25LSnBWbGpLVnZ2WElXQlJpOVJnUDdzZmJVRVRuMnpsdUVNeEdFT19JcEF0UFJMbmotcXNSc2pP?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-30 07:13
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBEc003NkttQWhzSEx2RGljdmhhMDdTUWN3WTdZV09hcU43S3dpMF9WTWt5QllHNmZWTFlqbTJOTTUxZjFSc2daOHlZQQ?oc=5>
 
-### 特朗普签署行政命令将安大略湖改名为“美国湖”
+### 川普曾怒喷球爹：不领我情？早知让二球坐牢！竟称偷窃没啥大不了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Sina Sports
+- 时间: 2026-08-30 07:27
+- 链接: <https://news.google.com/rss/articles/CBMihAFBVV95cUxQckxZcHZEdm1GcHZJc3gxYkt5eUIyZWw3V3FibEpuSG1LS2d3QWgyc0M1OVR1M3BLZjdvSWZjZlZJOUs3Q08xYnM1S2tYN3RFd2JibmpDU2puZE9aMlRtb3ltRW9aVk1BSmFYMVRjUUUzZVctc1ZhUFVWTzAtV3JDd2FwdWo?oc=5>
+
+### 你改我也改，加拿大首都计划改掉“特朗普大道”街名
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-08-30 08:28
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE93ck9rd0hzak5YaWFWREZDU3l2M1JORmlnR3h6YjFSUU8zdXFQR3AwSGUzdGtZOHhKSzllYTlmMFk2NVF0ZXJyMEg1WUJTRmc0SmE5X2NWMTI3NXFoME02bkN2WU16d1F0UHc?oc=5>
+
+### 特朗普发布AI视频将加拿大鹅改名Donald's Duck
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪网
-- 时间: 2026-08-30 01:18
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFA5dkFYeVZzTzBfTm85aEd1dGFlbWJ4Rm4yQjgzTGlONW0xY1lhc3dkQWNyTW02RTlzRzlQdFNOYmNfd083WGQ5Vm5sUGRtWXVaakJGZF9vQ0xXZ0c4dUhrZkZyWEZRVkVlY3U1M1kzQ0RNUQ?oc=5>
+- 时间: 2026-08-30 09:07
+- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxNX1F4YWViLVk5cVJrTmQzTkNRX1hSVTZDaWE1akdtMXRVcGgzbEp4Zjh3MDBtUXZoR21reUpZRjI5c3N0ZDVDWHRSUWZ3WnppN3doRTViVmh1eHhOWVZGOHE3U19BZjRDTUFrdDdFRDdPR3RTTUU1d19VTTBscmdKUg?oc=5>
 
-### 特朗普暗示或制裁与伊朗交易往来的中国银行
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-08-27 23:05
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ObmxvdFpvaGVkVU1uQlEwaDlkSS0zZHcyREFjRXg2RlE5eDh4R0VEbmhuajlVZ0xDdzFWeHdFTl9jUlJzZGhiMm9PR3BYYVhaaldWRkp6MEpmeEdlU1ZtYkZyY2Rldw?oc=5>
-
-### 知情人称特朗普小儿子不怎么出门 隐居避世保安全
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-08-29 15:10
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9OVWtrUjZiU1Y2VmdmdUFJTlc1MURRZHlpeWk3YmxFOW5ob0NnVzRIS1RYMXhFRXNMZnYwM2ZRajEtYXp2eTU2emJ3c0dGVm9vaThSMjJIWWRYcktuamd2blJRZmlfNlRuY1RKamxIc3U?oc=5>
-
-### 美国动向 - 特朗普收紧签证政策 中国人的“美国梦”还在吗？
+### 美国如何失去加拿大稳定而平价的原油供应
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: RFI
-- 时间: 2026-08-28 14:27
-- 链接: <https://news.google.com/rss/articles/CBMikANBVV95cUxNQm1RempnMndPTGZPVVFhWHZMeUtGRFJwbGFsYjI4NU8wVGJfOHdYZzZmRV9oS3UzcVBQR3I5VHdwVUdsd1Z5a1R4ZXVyV0h6OFA0ekxYSjVyU3ZKOW5ZQUc1a3lHa2ZuTHB6UDBKalJjYUtvSjBJYmRfcGFDNmo2QWYzOXFjUGtEVVd4SzNESk1od3hOdlFQZ3VydUI0VndIUjdqcnZEcWswU09GdzMtdDNyY1kzcmotTmgyT1YzUDRkQ21QT05UU193VndnZlpiN1lrcGowSjg4QzVjbS1JMFNZaGFLZU5RNFB3MHJUanJ5S1lEa1F3U0pXNzZXQ25KQnlPSkp4X1FYUTFBRGJ4WmdJTU9iQlpFZ09FNTNkeUZIazBGUUM1QTNJcGRKeVp2Z3lrc1JPeDZaXzM2aTV2aVJOamhsNVVwVDFRa0N3a0I1aVRUZjVveVduSXZib1Z1SG5lb2dsaHY5T0o4aUEzNmJCSk41ajBWdmRXRWNXckZuZ09kUlFWTXU4VHZ5aTJz?oc=5>
+- 时间: 2026-08-29 13:31
+- 链接: <https://news.google.com/rss/articles/CBMiwwJBVV95cUxOUC1mR0RXbTlYOUxrRFRudjdQc0JSVWlmbnBCUVZXZkVmS2JOQl82VnR2cUM3eHJPVV9KNS1hc3JfSzd5bURCSHpUb2xpeHJISmtzalBKaGpnVzJWTjRBWG1HaGhTUWR0M0JvRTZmTzB4MksxQUZaUVJZMjZ1SENqUEJRdXNwaDBYekpnQk5Nb1pqV3Bsd2JkM2Y0SDNYVG9hVGg3Vjk2c3VsZU9lNF9USlJDWmlDeFc5eUtxXzV1cktKSzIzRk1HYUQ2SjAwbFpWXzc0d203d01pNWlsNDMwUWJMNmlEZUxTcHdvcDJOQzhjbGtFeXp5Y3Zla2s3ZUhBZWpSZzVkSDA2eEx5SEl6aURNb3UtaEthel9iUTFIT2VKYTdQTno2RVRsbWlOMXdHUHJEeWJyWVVXa1JGeEg1c1BIRQ?oc=5>
 
-### $TRUMP 持仓持续缩减施压反弹，资金转向基建赛道分化加剧| 欧易
+### 特朗普政府钨废料出口禁令正式生效！美国钨矿股本月暴涨
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 财联社
+- 时间: 2026-08-30 05:12
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTFBPRHkwSUtpeDVxRkd2TE1maEpPQU0tbFV0U1VsSkNQN2t1all6NkdhTGZXYmNqUGQ0ODNMd00zSFRMTnFrUkZ0Wg?oc=5>
+
+### 在美加关税对峙之际，特朗普总统下令将安大略湖更名
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-08-28 19:32
+- 链接: <https://news.google.com/rss/articles/CBMitwFBVV95cUxONnZFNFh2eGh1eHozSk9uQ085cXhLUFM1V1ktZGlvMnlrTHFPU3ZVSVNISnpPejQtLUtDZDhieVJqa05uT2hzZ2dfNndXZlJzc3N2ZURWM3QtVnRrd3pOX2FWUGtHOVI2b19TU0lMNDZZUTYyZDVwUUc4b2hHY091amJTalVmYXk3VjM4amZOUlYwaGh3OURIWjBFU1pWLXZSVjJ1VFBfY0xLa25NQmhhSWpfbXlZOWfSAbcBQVVfeXFMTjZ2RTRYdnhodXh6M0pPbkNPOXF4S1BTNVdZLWRpbzJ5a0xxT1N2VUlTSEp6T3o0LS1LQ2Q4YnlSamtObk9oc2dnXzZ3V2ZSc3NzdmVEVjN0LVZ0a3d6Tl9hVlBrRzlSNm9fU1NJTDQ2WVE2MmQ1cFFHOG9oR2NPdWpiU2pVZmF5N1YzOGpmTlJWMGhodzlESFowRVNaVi12UlYydVRQX2NMS2tuTUJoYUlqX215WTln?oc=5>
+
+### $TRUMP 从高点追涨到腰斩割肉，中间各种“利好拉盘”的假动作全...
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: OKX
-- 时间: 2026-08-28 01:28
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTFBrR1JEWmx5Nks2MjMteENVUjBIQ0Z5TWpBX0ZkbXdIdFdTWkwyS0NBTXhvR1cycTZZZjhMUXN6RlVxVGlnMlZaeWJnYXRLcGIwaTR0UUU4MEk2eTVISnNkQnJRQUdPNk5oaF81TEdXaw?oc=5>
+- 时间: 2026-08-30 04:33
+- 链接: <https://news.google.com/rss/articles/CBMiXEFVX3lxTFAzOEMxWktiZXNEV0ZNMVE5cHAtVmtyNHlzcFEzR3JrbzgwOFhaaW1nNWxkY1ZwblB0cFZJdV8wWVk0TUdjYXIxSVY5Mko1a2NvU093TXJnX1RyRkNV?oc=5>
 
-### $美光科技 (MU.US)$ Donald trump公然内幕交易美光科技，笑死。
+### 中选之后，“特朗普交易”要反噬了？
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-08-27 19:34
-- 链接: <https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOXVydWJzRUJCWUZpZmZxbVZvS3BVMXJadTg3bGFFeWxHNUdKdGQ0MThDakJ1LXAyUFNHc3ktZ0JwSmszN2RGY251bURhanVNenFBNDJTQkMxeHdMS05VQ1I5YldVMjV2T2U2WS1NWkFuR1lhcUZRMFloSmliQ0hlbkhCVmRTT0sybEtFa2lITGg3TkNfMndzaUQ1bVpPbElOcmZSbzZldzJSTmlUMVZobklxdzI5Q0dhTVZkM3RGdEhXdw?oc=5>
+- 场馆: 富途牛牛
+- 时间: 2026-08-30 02:18
+- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxNcWdvQjhlaWkyR0Rnci1tRnFBQkVwd3pyWGNJaGJfTFpORXFhVGdzQjdWTnJYdC10NTRRQW9aYzRibVRmTDVRWUZUYVJvdXF2RnpUd2FyV21sblNxNFNnNzJLVEpDYWRyNGptQjhLazN3VkFyVzdsSm5TcFNvc3hHaEc4Qll1WTR5M1RsVzFQYw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-30 09:22  (11 条)
+
+- **王一博** | 王一博ins发布素颜怼脸自拍，晒伤脱皮状态引热议 <https://k.sina.com.cn/article_7879923116_1d5ae15ac06801kde4.html>
+- **特朗普** | 特朗普称美国与委内瑞拉达成“大规模石油协议” <https://news.google.com/rss/articles/CBMif0FVX3lxTE9HSGs0WnRjcnQ5czdmSkdFWVBaSllzME1NTU5DSjhaZUYtdWNUTEZwUE9rMUVhN1JDOTdHY1J0cGdsSER6Y2d5NXZUSkR5bkZBYWpXbmVWWkxpbFVLNWduMWJMaGs4VmhGWlFpOE4xaUw5MVJWVmhYR2lDNjhXeVk?oc=5>
+- **特朗普** | 【今日特朗普要闻】 ......_7x24快讯_新浪财经 <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBEc003NkttQWhzSEx2RGljdmhhMDdTUWN3WTdZV09hcU43S3dpMF9WTWt5QllHNmZWTFlqbTJOTTUxZjFSc2daOHlZQQ?oc=5>
+- **特朗普** | 川普曾怒喷球爹：不领我情？早知让二球坐牢！竟称偷窃没啥大不了 <https://news.google.com/rss/articles/CBMihAFBVV95cUxQckxZcHZEdm1GcHZJc3gxYkt5eUIyZWw3V3FibEpuSG1LS2d3QWgyc0M1OVR1M3BLZjdvSWZjZlZJOUs3Q08xYnM1S2tYN3RFd2JibmpDU2puZE9aMlRtb3ltRW9aVk1BSmFYMVRjUUUzZVctc1ZhUFVWTzAtV3JDd2FwdWo?oc=5>
+- **特朗普** | 你改我也改，加拿大首都计划改掉“特朗普大道”街名 <https://news.google.com/rss/articles/CBMiakFVX3lxTE93ck9rd0hzak5YaWFWREZDU3l2M1JORmlnR3h6YjFSUU8zdXFQR3AwSGUzdGtZOHhKSzllYTlmMFk2NVF0ZXJyMEg1WUJTRmc0SmE5X2NWMTI3NXFoME02bkN2WU16d1F0UHc?oc=5>
+- **特朗普** | 特朗普发布AI视频将加拿大鹅改名Donald's Duck <https://news.google.com/rss/articles/CBMigAFBVV95cUxNX1F4YWViLVk5cVJrTmQzTkNRX1hSVTZDaWE1akdtMXRVcGgzbEp4Zjh3MDBtUXZoR21reUpZRjI5c3N0ZDVDWHRSUWZ3WnppN3doRTViVmh1eHhOWVZGOHE3U19BZjRDTUFrdDdFRDdPR3RTTUU1d19VTTBscmdKUg?oc=5>
+- **特朗普** | 美国如何失去加拿大稳定而平价的原油供应 <https://news.google.com/rss/articles/CBMiwwJBVV95cUxOUC1mR0RXbTlYOUxrRFRudjdQc0JSVWlmbnBCUVZXZkVmS2JOQl82VnR2cUM3eHJPVV9KNS1hc3JfSzd5bURCSHpUb2xpeHJISmtzalBKaGpnVzJWTjRBWG1HaGhTUWR0M0JvRTZmTzB4MksxQUZaUVJZMjZ1SENqUEJRdXNwaDBYekpnQk5Nb1pqV3Bsd2JkM2Y0SDNYVG9hVGg3Vjk2c3VsZU9lNF9USlJDWmlDeFc5eUtxXzV1cktKSzIzRk1HYUQ2SjAwbFpWXzc0d203d01pNWlsNDMwUWJMNmlEZUxTcHdvcDJOQzhjbGtFeXp5Y3Zla2s3ZUhBZWpSZzVkSDA2eEx5SEl6aURNb3UtaEthel9iUTFIT2VKYTdQTno2RVRsbWlOMXdHUHJEeWJyWVVXa1JGeEg1c1BIRQ?oc=5>
+- **特朗普** | 特朗普政府钨废料出口禁令正式生效！美国钨矿股本月暴涨 <https://news.google.com/rss/articles/CBMiSEFVX3lxTFBPRHkwSUtpeDVxRkd2TE1maEpPQU0tbFV0U1VsSkNQN2t1all6NkdhTGZXYmNqUGQ0ODNMd00zSFRMTnFrUkZ0Wg?oc=5>
+- **特朗普** | 在美加关税对峙之际，特朗普总统下令将安大略湖更名 <https://news.google.com/rss/articles/CBMitwFBVV95cUxONnZFNFh2eGh1eHozSk9uQ085cXhLUFM1V1ktZGlvMnlrTHFPU3ZVSVNISnpPejQtLUtDZDhieVJqa05uT2hzZ2dfNndXZlJzc3N2ZURWM3QtVnRrd3pOX2FWUGtHOVI2b19TU0lMNDZZUTYyZDVwUUc4b2hHY091amJTalVmYXk3VjM4amZOUlYwaGh3OURIWjBFU1pWLXZSVjJ1VFBfY0xLa25NQmhhSWpfbXlZOWfSAbcBQVVfeXFMTjZ2RTRYdnhodXh6M0pPbkNPOXF4S1BTNVdZLWRpbzJ5a0xxT1N2VUlTSEp6T3o0LS1LQ2Q4YnlSamtObk9oc2dnXzZ3V2ZSc3NzdmVEVjN0LVZ0a3d6Tl9hVlBrRzlSNm9fU1NJTDQ2WVE2MmQ1cFFHOG9oR2NPdWpiU2pVZmF5N1YzOGpmTlJWMGhodzlESFowRVNaVi12UlYydVRQX2NMS2tuTUJoYUlqX215WTln?oc=5>
+- **Trump** | $TRUMP 从高点追涨到腰斩割肉，中间各种“利好拉盘”的假动作全... <https://news.google.com/rss/articles/CBMiXEFVX3lxTFAzOEMxWktiZXNEV0ZNMVE5cHAtVmtyNHlzcFEzR3JrbzgwOFhaaW1nNWxkY1ZwblB0cFZJdV8wWVk0TUdjYXIxSVY5Mko1a2NvU093TXJnX1RyRkNV?oc=5>
+- **Trump** | 中选之后，“特朗普交易”要反噬了？ <https://news.google.com/rss/articles/CBMijwFBVV95cUxNcWdvQjhlaWkyR0Rnci1tRnFBQkVwd3pyWGNJaGJfTFpORXFhVGdzQjdWTnJYdC10NTRRQW9aYzRibVRmTDVRWUZUYVJvdXF2RnpUd2FyV21sblNxNFNnNzJLVEpDYWRyNGptQjhLazN3VkFyVzdsSm5TcFNvc3hHaEc4Qll1WTR5M1RsVzFQYw?oc=5>
 
 ### 2026-08-30 03:00  (9 条)
 
