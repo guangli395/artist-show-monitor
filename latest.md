@@ -1,46 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-30 14:28**
-- 本轮扫到 10895 条, 新增 **4** 条
+- 最近更新: **2026-08-30 18:08**
+- 本轮扫到 10899 条, 新增 **4** 条
 
 ---
 
 ## 本轮新发现 (4 条)
 
-### 王一博为什么选择在Instagram发布素颜自拍？
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd8640680152io.html>
-
-### 乌给马斯克颁自由勋章：不找特朗普帮忙，打的什么算盘？
+### 普京不会动手的！特朗普这句口头担保，恐怕是北约最危险的信号
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-08-30 14:20
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFBvMFM0dGsyWE5uZ1BJUV9uSVVhSDY0Z0xONkZfTnU2TzFsZzBQWFNBYzdOUURsRngtclM5dGdkbWV3MHlYbkVHQ1hpSlZTSzFxalUzd0d1N3RORmptbnNwbmQ1RUM3d21yM1RmNlp0X01kdw?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-30 16:00
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1XbDVhc3d3SGt6cGxBN2x1MlpWbmg3T0YxRDBJZmFHY2FCelZHWWs1Q0RUUGp1Vmt0QTd3a3ZXeE9kdEhqbmtpeE1jdl9SYm1heEZRai1RU2ZCVk5QdTJXeXJCVmlWaDhfQnJRemRubWk2dW1VSnpReg?oc=5>
 
-### 特朗普想从加拿大拿走什么 北美盟友掀桌反击
+### 川普小儿子“几乎不出门” 身价1.5亿 为何活成“隐居富豪”？
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 中华军事
-- 时间: 2026-08-30 10:59
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5MQUJtd0lLbWlSSDQ2ZGtvUTg0NmZiTXlTakpTYjYyZFBLeDJzcHFyQmREcFB5Z0I3NUtpckdjYXlPakktSWhoZ3ZzNTIxeFJIU2UyWU9JbGp4TTRYTWN4Y2cyeTl6QVUwRmhfQjc1U1o?oc=5>
+- 场馆: 文学城
+- 时间: 2026-08-30 15:14
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5aWRHQk1CcEt1QlNJaVp1SHdlRWd4UnpiT29BR1Etcnk2SEt1QURaMjBPRUQ5czZtTFM5dkdNT09ZRFFtTFdjZUE2ZW5QeHh3TWs4MjFFUThlZERRdUZMWHJ0Qm1LdXc1?oc=5>
 
-### $TRUMP 币：冲3美元易，站稳难 最新行情：8月28日TRUMP单日暴... | 欧易
+### 散户哥哥 (@btc188888)的见解
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Binance
+- 时间: 2026-08-30 14:27
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rTGZTamhWSDBvUkVrTmNoZklaTkVhWS12NXRRVjhOSzBmSW9BX2xXRnFidlo0dnZPanZmNDE1ZFJzZldhQVcyaGtwLWVLWnA2azZ5dkxnN2UtdUpWZlBVdy1zeFFvcnRo?oc=5>
+
+### $TRUMP 谁都知道，特朗普币的庄是特朗普本人。链上数据摆在那...
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: OKX
-- 时间: 2026-08-29 20:10
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE56LXU2aGljam9yMnlmUE5sSFpYSU83WTUydVg3Qk9vVmhBWHhMaUdFaHhqa2JQS3U2SkYxVXE5ZThxcGVWSmh3RjIzOHJDQ1dtXzZ6c1ZiXzc5NnVlZXN5ZGJSY01aRnBFa2VZ?oc=5>
+- 时间: 2026-08-30 04:03
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFA1amM0cnBVdHF3d1VTNDZvZWk5VDkzMHJ6NVpGeVlrU0NQNWVuS0dFZHBUMHhSQ0NfdEVSSjlkZno0V2F6MnJwc3JkeEtDR2NQcnFKeHNJNEc4UDdzMkh0c2s1Vmc?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-30 18:08  (4 条)
+
+- **特朗普** | 普京不会动手的！特朗普这句口头担保，恐怕是北约最危险的信号 <https://news.google.com/rss/articles/CBMieEFVX3lxTE1XbDVhc3d3SGt6cGxBN2x1MlpWbmg3T0YxRDBJZmFHY2FCelZHWWs1Q0RUUGp1Vmt0QTd3a3ZXeE9kdEhqbmtpeE1jdl9SYm1heEZRai1RU2ZCVk5QdTJXeXJCVmlWaDhfQnJRemRubWk2dW1VSnpReg?oc=5>
+- **Trump** | 川普小儿子“几乎不出门” 身价1.5亿 为何活成“隐居富豪”？ <https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5aWRHQk1CcEt1QlNJaVp1SHdlRWd4UnpiT29BR1Etcnk2SEt1QURaMjBPRUQ5czZtTFM5dkdNT09ZRFFtTFdjZUE2ZW5QeHh3TWs4MjFFUThlZERRdUZMWHJ0Qm1LdXc1?oc=5>
+- **Trump** | 散户哥哥 (@btc188888)的见解 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rTGZTamhWSDBvUkVrTmNoZklaTkVhWS12NXRRVjhOSzBmSW9BX2xXRnFidlo0dnZPanZmNDE1ZFJzZldhQVcyaGtwLWVLWnA2azZ5dkxnN2UtdUpWZlBVdy1zeFFvcnRo?oc=5>
+- **Trump** | $TRUMP 谁都知道，特朗普币的庄是特朗普本人。链上数据摆在那... <https://news.google.com/rss/articles/CBMiZEFVX3lxTFA1amM0cnBVdHF3d1VTNDZvZWk5VDkzMHJ6NVpGeVlrU0NQNWVuS0dFZHBUMHhSQ0NfdEVSSjlkZno0V2F6MnJwc3JkeEtDR2NQcnFKeHNJNEc4UDdzMkh0c2s1Vmc?oc=5>
 
 ### 2026-08-30 14:28  (4 条)
 
