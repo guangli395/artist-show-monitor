@@ -1,134 +1,163 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-31 09:12**
-- 本轮扫到 10925 条, 新增 **15** 条
+- 最近更新: **2026-08-31 17:10**
+- 本轮扫到 10941 条, 新增 **16** 条
 
 ---
 
-## 本轮新发现 (15 条)
+## 本轮新发现 (16 条)
 
-### 周杰伦发新专辑MV，强调我是歌手不是网球运动员
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301fkvo.html>
-
-### 特朗普宣布后，“美委协议在委内瑞拉国内外引发大量负面评价”
+### 特朗普与委内瑞拉“史无前例”石油协议的许多问号
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪军事
-- 时间: 2026-08-31 01:29
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE9va1d6MVJFSFgtS2hOdnZxR1RoMy16c09qOFFuM3pGS2lINml4bHpfWEFGZFZHU3RoSUxoc0pZV3haVEM1RTNKM242a2tqRG1kMzdkUXJFM0pCSkxfSFZZTkpFenE2Z215azFkVUotelRuQXc?oc=5>
+- 场馆: DW.com
+- 时间: 2026-08-31 14:31
+- 链接: <https://news.google.com/rss/articles/CBMixAJBVV95cUxPMmQxX1NMNjExaml4NXdlQUlmNEVQVTZnXy1xdE9mVVVRUkd5M3RoYkpKX0lLeUNodWZ6cjdfMURiY2RCQV9XUWdDQnZyVDhDckp2ZGpaNmlzZmlyTS1MRl9nMDZLamc3b1NWVFhuN0Y4ZFplR1pxRkpSNWhHSndaSlhDQUQ1bFBCNzR4bGFuWWtiVFQzRy1aLTZEcE9uVEtZcTRQTnczbl9tLWR6OWxpTWdLM0Jpc0dHR2hWbUlsV1l0dFJmQVh4b2FmM3ZYNE5IUW9hdWotSUgzZUlHLW1CMF9XRjJsMy1rbWlCOHBWZVFwT1JJY3JBYjJ0dXhQSG9HR1BVYjE3emJNSk9HZWF1MTRQekRISTh6YkVvY3lkZEpUdjRpOVNCTjIxdTlYd1QwUTJIQVdLUlpZWTJlNHJhUkl1OW_SAcQCQVVfeXFMTmYtU3ZfMjJTdXpHVllNTGpKM3RPbnJ3MGFnQnY0UXR4QnJmS0FLTjBtazl6MXVtcGV6cTNOdkJCakdPeXBLM3lCQWhjNmF3MlE3Wjc4ZklCWFZHdjdXaC1NeXFjbG5ERTRMTWxnRk1tSFp0MFVaSV9QeDFOOEtXSHZoU1hZRVZNWkVTVGZfYlpRdkJEQzdOS1NWOHlBT3V2aG1BaGpXWnotWkcxdEVmTXgxR0VSc09rb052cVpXUUVsUjdjblFfSURFTTdpWXFNYVV6VmhzbUhMNnFuS2RadjBkdVV2VXJiSHd4cHloWnpIMTkxTFNQMkdBR0FRRTlqazBvNmFpVGZKUzAzeEdiWndiOXVWMGVBZmVDdC1Jemx3V0JpQjZmYUJRZEtoS0dLbDBMYWJVTkNaT2JWVXZhdlpMMVIy?oc=5>
 
-### 美国将获得650亿桶“石油大礼”？特朗普面前还有三座大山|唐纳德·特朗普|美国总统|委内瑞拉|原油|库存
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-08-31 05:31
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxOaVBpb0h4OTNQSUhqaUFaaktQOG1aWXRPelZjZ2ZBQ294N2l2ckxiWDMyTHZLcmIteFA1dVFhVFRtclpGb2dFNVZsRi0ycGVWRm5JR2J5dUJxc0J5TWRITEx2bkVVZnBjWWlCZVFVeUpJcGg1R2s3VDE5M2ZVeGFlNVMzZmowSmFUZTFIUjFrb1lhZk50SkNQRg?oc=5>
-
-### 美称与委内瑞拉达成石油协议 被批“公然盗窃”
+### 特朗普宣布与委内瑞拉达成“历史性交易” 将获其石油储量的多数控制权
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-08-29 21:41
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE8tbzVTbEJDZGp6eHJKN1BzZ18xeUdfVFVnNW1OMGhVN2pKQ3VvR2pnaDdsMUV3dFFqOXhiR0M0NGRWU0owUldrWVNvTGg3UW0xenRhUUtxelJwNm16X3ZPdQ?oc=5>
+- 场馆: 财新
+- 时间: 2026-08-31 13:26
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9NYlpMcDNDQ2VPVktfQ2VoUkFQd3hkUVotSHdCRFQ3WDB5QXdBOGREc2RWUEIzQS1VT1pGb2pkaWlHcGtxZW1DeE5tbjcxb1VYeENJcmp5NU9Wc0o2NWZibEZLNnpMUWVrWXc?oc=5>
 
-### 特朗普：谷歌地图已经改了
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-08-31 08:31
-- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE1HLXVBSFp4YVI2dUFJUDZmcG0zTHY3SVpZQjRSMjRkS2tTWWUxZjZsaEN0VndUZUtWS1RjRmJ0QVN1RkNPTTc4SEhpLUlua0t4U0NSV0ZnX3ZpWEgwcExWRnFfTTZ5czRrT0lTSnhPNy1QQ2M3TDNOTkZsNWNVZw?oc=5>
-
-### 特朗普一纸命令改湖名，谷歌连夜更新地图，加拿大网站全标错了
+### 特朗普宣布达成历史性协议掌控委内瑞拉石油储备，打的什么算盘？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: t.cj.sina.cn
-- 时间: 2026-08-31 08:24
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE1CdXpaWkVvNF9hZF9ldkdQWWhVNktaUkMwX29ER1oySXRXaXdyaFFzVWt0Unp4amdUM1NuZmItbF9xQnJBWVhmUU43cHdZTFlxTW40TXdRSjNxN0pQVlRXRFdvQWNQTk9YZWtaSU56T2x3dw?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-31 16:34
+- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxOc1Yyb3JwZGhkS0JWWS1yd1B2ZS15cmFVcGNKSXhpNEZ3aldPdXhMeUVQMWZVX3FJYktqWWxycXYxQUFScGdZRHE2SC1vT1pqNjhTMVl3NS1Ca1pqT1kwZUJRVHVPNzJwNXVsSF9VcG91NG5sanZuNHFtcVNaQnN3cGhIbnBLVjNYb3pRdnhBLUV0T2Q4MGlheVpJZE8wSkRT?oc=5>
 
-### 特朗普再批加拿大：又不是美国的一个州，凭什么享受美国补贴
+### 白宫提词器操作员提前得知特朗普演讲稿下注，43份赌注39份获利，被罚6.5万美元
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-08-31 06:35
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnbzBWWG1QU2VSQ1Qtc2hhOUpNbWlKMUFkSGp4V1gtMEFNcVdEbWxNNUVwRFd4djh6NUNlZXNEaWZVcGs0VVJlbjNOcEFDSGhBbTgyeEpNN0dCclpXUXc?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-08-31 16:08
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE5iNlpfNm9fbF9selZfSG5JTV9md2dkMjh1cnFrc0diTFdaUmpBNk0ySHJUWk5PYUVoRzViSEl3bTJPNHQyMVlwc2VaSk5VZTJGNU1hRGx1N0h3R3lpdjJuOHpmN0NFSDBGQWRiaGZaTEowdE1kR1E?oc=5>
 
-### 特朗普发布AI合成视频，威胁“炸毁”伊朗石油出口枢纽
+### 伊朗回应特朗普：可笑
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 观察者
-- 时间: 2026-08-31 06:30
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBkZG9oSWhnQmU5U2RzSk14NTZ0T204alRyaElXSTZiajVJV2h3MXUzYXhkQ3E1RGFxZGZvZHdhaEVvSzgtQ3dTUEt4aUs3cnY1NXhzNDdUSFhOdTdDZmdNZ1BxcDYySTdIVXc?oc=5>
+- 时间: 2026-08-31 10:32
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE45bGZmWEJIMmtXWXBiTWFDQWxUUFp3eE1neENXTFUwOVc4Y2JFMjB1QlJhTm1ZeTR0VFpXa2cwcjRHWkhyYUFMd0pDVmw2ZnB3bXI5MWNoQlI3OWNlclFhWEVpaU9nX05pNHc?oc=5>
 
-### 特朗普发AI视频，威胁轰炸伊朗哈尔克岛
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-31 02:31
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFAtcVc0WUlJdHo3NFcwMzVDOXhXLWh6a1BnT2Q5QnVqay1hLV92NC0tdjhDaE9uWVk0aUUyOGFFWVFudjFLQTJod0FucXQ?oc=5>
-
-### 特朗普用AI视频力挺新湖名 引发美加命名争议
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-08-31 02:34
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9pNVpQUl9XdEpWSEhJWU1GWUJQODRHQTZtTG1YVE9NTWIyYjQtQ1VYTUlRR0tWNGRfemFEanRrclNZdHlDVG5Ra2hySVBydGVtWVljeGJ0bU13bzFKSnRQZWlHSko5Y2Z6NEVGY3FfNGk?oc=5>
-
-### 中选之后，“特朗普交易”要反噬了？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-08-30 01:27
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTFA2c09nZnJLMldtWktHUVFrX1BZQ2I0S0xIb3A0VmJEOVZPd1NkY2lyWGdrdXJ0X0hLQnRDT2VkSTd3cUhxWWZlaVdia3YtWktfYnlv?oc=5>
-
-### 被指为候选人背书结果好坏参半 特朗普威胁“惩罚”记者
+### 特朗普削减科研经费 “让人变聪明”研究中途喊停
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 联合早报
-- 时间: 2026-08-31 00:30
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iaVlacWFhYTlxcVdjcm4yLU1ueUFqWHZ0WjNVTmk4NUpBcUdQRk1EMlFhVzFVX01PbHRtZnFXYTFJcGs0RTZLMFNuVlpldkt4UDhuemdDVEZYbVdjYTAzRHVKSDAwUQ?oc=5>
+- 时间: 2026-08-31 15:14
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9BcjRvOHBFRng0eUoyMzdKQk9sX2N2T1lCYzY1X3BwN0ZhUTVjU1p3UkRqS2s2eWRiemNGN3dWVVRlU0lnSGpnSGE1NDZFajFpbUJJR3JZWk4xcUFic0QzYXhYODNNNnB5UFE?oc=5>
 
-### 渥太华Trump Avenue要改名
+### 特朗普净支持率深陷负区间，但真正决定共和党命运的是这群摇摆选民-市场参考
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 金十数据
+- 时间: 2026-08-31 14:59
+- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE9qSEpFZnFOZlRmdUVZeEYxdy1JbW1heTVGMHdBR0V3NDVVamI2VVBsSmo3QVFYc0pGRm5rNUUxUy1PRmN4UDh1OWxuQ2FRUEk?oc=5>
+
+### 朝鲜：美国最近对朝对抗立场日益显现，特朗普政府对朝敌对政策始终不变，朝鲜将为捍卫国家安全最高利益而更加坚决、明确地行使主权
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 网易新闻客户端
+- 时间: 2026-08-31 16:24
+- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxQU2c5RmFNM1pULWJTOVQtTTlkbEc5Q0NmNHBjTzdXRktaS0VBM2lJd0RhQU1hUXRNQk4yR1plUmdDWGEzekFtZWNrMjhXQkVKQW1PUWV1QnBGVFBSc3RWZDRjSkZyRFBKbmZKSEt0cUdRQWdJMjNBbzVoSGhjTkI0bWNn?oc=5>
+
+### 特朗普称将“狠狠打击”伊朗
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 东方财富
+- 时间: 2026-08-31 13:09
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wUVoyUUNuQUJZNkktYlZtVnNwZVhZdjRtT3lMdC1xNDdtUk0taU9aMl9sWlhFR2tNaUk1dkxZY2QxWGdocGxvajNxaU9acjdLQnpPUk9tZ2pseUxMd1huTw?oc=5>
+
+### 特朗普称“伊朗已死”，又发AI视频宣称炸毁哈尔克岛，伊朗官员：可笑
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: chinanews.com.cn
+- 时间: 2026-08-31 12:54
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSdkNhbDZtaEVaM0g2R2JCZHhiTWhCWXNqbmM4bmxkczBINmZFV2hkbl9MWkg4NG9XWDlMQk91bzZkTEpyS3BrcnNrdlY5QldEaE9VSDNDSlFlelNVRzZDRWlOZVV5SDh0?oc=5>
+
+### 特朗普再度“点名”韩国未在伊朗问题上帮助美国：这件事，我记下了！
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-08-31 10:27
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE95czlodXVhRGFRUWRleHVEY2tnM2NhVW56aUcwRVZfT3dwcHJTU1BweTlXS0hzQi1Fd0NmaW9tNFRZRldoTXlvbDBDYkYwN0c5TUtrd2ZoNFpXTzg3ZFVmN3ZWM2FHOUZMSVhHMWZZWGo?oc=5>
+
+### 特朗普总统表示美国将对伊朗的导弹袭击做出回应
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 风闻
-- 时间: 2026-08-30 20:03
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE1TOV91ODhoM3I2OXdSNEYyd3ZQZWc4MGg4YVFJSEZ3bHhXYVZ0TTJfdHNfRzZhMExEbDh2MDVLbnNqVDBUZnFGNTBiNnlxdUpNNjZjRnJ3X1FuMHlJZ2ZwX1NOT21Ba0p0MWZMaWYwX2p4UHhC?oc=5>
+- 场馆: voachinese.com
+- 时间: 2026-08-31 15:47
+- 链接: <https://news.google.com/rss/articles/CBMiswFBVV95cUxNMFdYLVgzb3dwYUNkRWhPajdfLVllS1c1R0VhYjYxcFQ3Q1JvSmxsNE05Rkg2Wkp1NHNrb3g2OHFYR2xtUmd2MnYxVzR1am1oOHBsM2JkdU5xZHB1VFBJUzYxOE1oM2J4dGRmRTRZR3h0NW1EVjc5LURUZlBWc3p0eUU2UWN1N1V4N1FHaTBXd0NiUlo3azBMdVVnSnMycGU0RmtMcmN5eDdTaWNrb2p5cDN4ONIBtgFBVV95cUxQQTE0dGxxSXozdlpWbUJHRjB6S2kzalctbTBXWGVMWjIxY2doTVk5blVEek9XdjlXNGYyM1NKeF9jRUgwRnRKTVRmWFdQSkNkcjd3QjlvNDlnTTMyaGFHeTg2MDNxUGFhQ0N3SDd3c0k4Qk8xUmVvU1dNc1ZlY3NJOTBGbl9kSG9UUHh2NUd3NzYxeDN6alI4dF9vZjNpN01fMXh0NGpsTzZWUEFma3RmVV9EZ1I0Zw?oc=5>
 
-### 渥太华Trump Avenue要改名
+### 谷歌地图在美国将“安大略湖”改称“美国湖”
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 风闻
-- 时间: 2026-08-30 19:20
-- 链接: <https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zbFhJZzh5Q2JlaldXWTdJRGVmNFk2bndwa1hoVmE2cGoxMkM4b3FYbUkwZ0JWVTdEeExvSEVGLTFDYldBN0tLSzBhcDc1LTdDSGhfNVA3NTN5Wkk?oc=5>
+- 场馆: RFI
+- 时间: 2026-08-30 21:37
+- 链接: <https://news.google.com/rss/articles/CBMirwJBVV95cUxNMGpLYllyY0dZT1I2LXRHSkJHVThrMGFfNlhEMDRtVGhKX1lEbzU0ZkJZUWhtaHhWcTlaUXdiamw3NC1kUXNQZlVzWnV5QUFXWHFGMkJTUFZUM244YnFVb1U2SUxaMkh4clQ5Q1BKMDJScU9tRDBmcXFQYlY4X2trUWY3aE0teVg3SVk5MF9tSEdCVUJqSWhQY2dxOUhhY0ZmeHZJbDNSREMxVHg3MnBzT1BSYmd4UGtuWGpQRElVVEJoMTV3bnRJMTg1VEhEdFhycFdFSTRuWUNtQkNEbERYZjE3b0lmQ1djcGZyQWQya2gzZmVCaFFoeS1tQ0V3T3dyYXBMMmppX2xRYzlteER0MVdZRFQwVHJoOWlPRWIwY2Raams5TGtNenRSNEhhYWc?oc=5>
 
-### 朝鲜：尽管特朗普示意对话，“美国对朝政策未变，将最强硬应对”
+### 川普：将用委内瑞拉石油补充美国战略储备
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 文学城
+- 时间: 2026-08-31 15:50
+- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxQeDNaZTRYWnNQUjRfd0JvbkRBLWduR005TUtCUDlHOTUyUXBfdDlJckpsOGJqVzI1TE45UWNfVzRuc0RYd21iREd4b0FMVVhYT2RsNXI0YngzTWlQSmVxSGpKTUVxSE1BTnRBTlEyQ2VTOW1vZ0MzenFuTzR1SUJGRg?oc=5>
+
+### 杰克逊霍尔暴露“美欧信任危机”：特朗普想干什么就干什么！
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 富途牛牛
+- 时间: 2026-08-31 10:05
+- 链接: <https://news.google.com/rss/articles/CBMiowFBVV95cUxPZnl5XzZSOS11UU0yU3R0ZE1mQUNkVlVLN20xSHlCVkZQVzdGSHE1WTF6b0Y2R3FpNHZBX3BrYmFYS2FyZWQ0ajVQaDFxdUJRMTVLRFNNQjVLRGg1TXZ4RkdRLURWOF90V01wSmJHRW56V0J1bHhZRklKSl9BZnFlV3M2MC1Ealg4SG1DMk5yNE5qR2x0WW5QZU5GWWJjbzdrQ0g4?oc=5>
+
+### 美国电力设备紧急状态……“影响将大于Trump首个任期” [一键看个股]
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: 아시아경제
-- 时间: 2026-08-31 06:13
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE0yaFptVk15bFFfR2o5UTJQLTFVMnNjbUZpQUxsUEVnc05JVFQ1WGZJaEVUQk11TTVIUmx6RDl4cFRhc0tYT1U2U2NFeHZuQmVtSDNrcWp0NnRweGNuZFVoUkxaYko?oc=5>
+- 时间: 2026-08-31 09:30
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE54WkF5WGpYQVVvYkhhOUFGX3RiekhnTGwxZGdhbnRjbDdKTUF3UkhTZmhRdzBFTG1UZTN5ZzhybWFVdWJIM0VLYVJtZ2djT19OZlYzODNndGtMVFE4QlFnemFITEs?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-08-31 17:10  (16 条)
+
+- **特朗普** | 特朗普与委内瑞拉“史无前例”石油协议的许多问号 <https://news.google.com/rss/articles/CBMixAJBVV95cUxPMmQxX1NMNjExaml4NXdlQUlmNEVQVTZnXy1xdE9mVVVRUkd5M3RoYkpKX0lLeUNodWZ6cjdfMURiY2RCQV9XUWdDQnZyVDhDckp2ZGpaNmlzZmlyTS1MRl9nMDZLamc3b1NWVFhuN0Y4ZFplR1pxRkpSNWhHSndaSlhDQUQ1bFBCNzR4bGFuWWtiVFQzRy1aLTZEcE9uVEtZcTRQTnczbl9tLWR6OWxpTWdLM0Jpc0dHR2hWbUlsV1l0dFJmQVh4b2FmM3ZYNE5IUW9hdWotSUgzZUlHLW1CMF9XRjJsMy1rbWlCOHBWZVFwT1JJY3JBYjJ0dXhQSG9HR1BVYjE3emJNSk9HZWF1MTRQekRISTh6YkVvY3lkZEpUdjRpOVNCTjIxdTlYd1QwUTJIQVdLUlpZWTJlNHJhUkl1OW_SAcQCQVVfeXFMTmYtU3ZfMjJTdXpHVllNTGpKM3RPbnJ3MGFnQnY0UXR4QnJmS0FLTjBtazl6MXVtcGV6cTNOdkJCakdPeXBLM3lCQWhjNmF3MlE3Wjc4ZklCWFZHdjdXaC1NeXFjbG5ERTRMTWxnRk1tSFp0MFVaSV9QeDFOOEtXSHZoU1hZRVZNWkVTVGZfYlpRdkJEQzdOS1NWOHlBT3V2aG1BaGpXWnotWkcxdEVmTXgxR0VSc09rb052cVpXUUVsUjdjblFfSURFTTdpWXFNYVV6VmhzbUhMNnFuS2RadjBkdVV2VXJiSHd4cHloWnpIMTkxTFNQMkdBR0FRRTlqazBvNmFpVGZKUzAzeEdiWndiOXVWMGVBZmVDdC1Jemx3V0JpQjZmYUJRZEtoS0dLbDBMYWJVTkNaT2JWVXZhdlpMMVIy?oc=5>
+- **特朗普** | 特朗普宣布与委内瑞拉达成“历史性交易” 将获其石油储量的多数控制权 <https://news.google.com/rss/articles/CBMiakFVX3lxTE9NYlpMcDNDQ2VPVktfQ2VoUkFQd3hkUVotSHdCRFQ3WDB5QXdBOGREc2RWUEIzQS1VT1pGb2pkaWlHcGtxZW1DeE5tbjcxb1VYeENJcmp5NU9Wc0o2NWZibEZLNnpMUWVrWXc?oc=5>
+- **特朗普** | 特朗普宣布达成历史性协议掌控委内瑞拉石油储备，打的什么算盘？ <https://news.google.com/rss/articles/CBMioAFBVV95cUxOc1Yyb3JwZGhkS0JWWS1yd1B2ZS15cmFVcGNKSXhpNEZ3aldPdXhMeUVQMWZVX3FJYktqWWxycXYxQUFScGdZRHE2SC1vT1pqNjhTMVl3NS1Ca1pqT1kwZUJRVHVPNzJwNXVsSF9VcG91NG5sanZuNHFtcVNaQnN3cGhIbnBLVjNYb3pRdnhBLUV0T2Q4MGlheVpJZE8wSkRT?oc=5>
+- **特朗普** | 白宫提词器操作员提前得知特朗普演讲稿下注，43份赌注39份获利，被罚6.5万美元 <https://news.google.com/rss/articles/CBMidkFVX3lxTE5iNlpfNm9fbF9selZfSG5JTV9md2dkMjh1cnFrc0diTFdaUmpBNk0ySHJUWk5PYUVoRzViSEl3bTJPNHQyMVlwc2VaSk5VZTJGNU1hRGx1N0h3R3lpdjJuOHpmN0NFSDBGQWRiaGZaTEowdE1kR1E?oc=5>
+- **特朗普** | 伊朗回应特朗普：可笑 <https://news.google.com/rss/articles/CBMiakFVX3lxTE45bGZmWEJIMmtXWXBiTWFDQWxUUFp3eE1neENXTFUwOVc4Y2JFMjB1QlJhTm1ZeTR0VFpXa2cwcjRHWkhyYUFMd0pDVmw2ZnB3bXI5MWNoQlI3OWNlclFhWEVpaU9nX05pNHc?oc=5>
+- **特朗普** | 特朗普削减科研经费 “让人变聪明”研究中途喊停 <https://news.google.com/rss/articles/CBMiakFVX3lxTE9BcjRvOHBFRng0eUoyMzdKQk9sX2N2T1lCYzY1X3BwN0ZhUTVjU1p3UkRqS2s2eWRiemNGN3dWVVRlU0lnSGpnSGE1NDZFajFpbUJJR3JZWk4xcUFic0QzYXhYODNNNnB5UFE?oc=5>
+- **特朗普** | 特朗普净支持率深陷负区间，但真正决定共和党命运的是这群摇摆选民-市场参考 <https://news.google.com/rss/articles/CBMiT0FVX3lxTE9qSEpFZnFOZlRmdUVZeEYxdy1JbW1heTVGMHdBR0V3NDVVamI2VVBsSmo3QVFYc0pGRm5rNUUxUy1PRmN4UDh1OWxuQ2FRUEk?oc=5>
+- **特朗普** | 朝鲜：美国最近对朝对抗立场日益显现，特朗普政府对朝敌对政策始终不变，朝鲜将为捍卫国家安全最高利益而更加坚决、明确地行使主权 <https://news.google.com/rss/articles/CBMiggFBVV95cUxQU2c5RmFNM1pULWJTOVQtTTlkbEc5Q0NmNHBjTzdXRktaS0VBM2lJd0RhQU1hUXRNQk4yR1plUmdDWGEzekFtZWNrMjhXQkVKQW1PUWV1QnBGVFBSc3RWZDRjSkZyRFBKbmZKSEt0cUdRQWdJMjNBbzVoSGhjTkI0bWNn?oc=5>
+- **特朗普** | 特朗普称将“狠狠打击”伊朗 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wUVoyUUNuQUJZNkktYlZtVnNwZVhZdjRtT3lMdC1xNDdtUk0taU9aMl9sWlhFR2tNaUk1dkxZY2QxWGdocGxvajNxaU9acjdLQnpPUk9tZ2pseUxMd1huTw?oc=5>
+- **特朗普** | 特朗普称“伊朗已死”，又发AI视频宣称炸毁哈尔克岛，伊朗官员：可笑 <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSdkNhbDZtaEVaM0g2R2JCZHhiTWhCWXNqbmM4bmxkczBINmZFV2hkbl9MWkg4NG9XWDlMQk91bzZkTEpyS3BrcnNrdlY5QldEaE9VSDNDSlFlelNVRzZDRWlOZVV5SDh0?oc=5>
+- **特朗普** | 特朗普再度“点名”韩国未在伊朗问题上帮助美国：这件事，我记下了！ <https://news.google.com/rss/articles/CBMicEFVX3lxTE95czlodXVhRGFRUWRleHVEY2tnM2NhVW56aUcwRVZfT3dwcHJTU1BweTlXS0hzQi1Fd0NmaW9tNFRZRldoTXlvbDBDYkYwN0c5TUtrd2ZoNFpXTzg3ZFVmN3ZWM2FHOUZMSVhHMWZZWGo?oc=5>
+- **Trump** | 特朗普总统表示美国将对伊朗的导弹袭击做出回应 <https://news.google.com/rss/articles/CBMiswFBVV95cUxNMFdYLVgzb3dwYUNkRWhPajdfLVllS1c1R0VhYjYxcFQ3Q1JvSmxsNE05Rkg2Wkp1NHNrb3g2OHFYR2xtUmd2MnYxVzR1am1oOHBsM2JkdU5xZHB1VFBJUzYxOE1oM2J4dGRmRTRZR3h0NW1EVjc5LURUZlBWc3p0eUU2UWN1N1V4N1FHaTBXd0NiUlo3azBMdVVnSnMycGU0RmtMcmN5eDdTaWNrb2p5cDN4ONIBtgFBVV95cUxQQTE0dGxxSXozdlpWbUJHRjB6S2kzalctbTBXWGVMWjIxY2doTVk5blVEek9XdjlXNGYyM1NKeF9jRUgwRnRKTVRmWFdQSkNkcjd3QjlvNDlnTTMyaGFHeTg2MDNxUGFhQ0N3SDd3c0k4Qk8xUmVvU1dNc1ZlY3NJOTBGbl9kSG9UUHh2NUd3NzYxeDN6alI4dF9vZjNpN01fMXh0NGpsTzZWUEFma3RmVV9EZ1I0Zw?oc=5>
+- **Trump** | 谷歌地图在美国将“安大略湖”改称“美国湖” <https://news.google.com/rss/articles/CBMirwJBVV95cUxNMGpLYllyY0dZT1I2LXRHSkJHVThrMGFfNlhEMDRtVGhKX1lEbzU0ZkJZUWhtaHhWcTlaUXdiamw3NC1kUXNQZlVzWnV5QUFXWHFGMkJTUFZUM244YnFVb1U2SUxaMkh4clQ5Q1BKMDJScU9tRDBmcXFQYlY4X2trUWY3aE0teVg3SVk5MF9tSEdCVUJqSWhQY2dxOUhhY0ZmeHZJbDNSREMxVHg3MnBzT1BSYmd4UGtuWGpQRElVVEJoMTV3bnRJMTg1VEhEdFhycFdFSTRuWUNtQkNEbERYZjE3b0lmQ1djcGZyQWQya2gzZmVCaFFoeS1tQ0V3T3dyYXBMMmppX2xRYzlteER0MVdZRFQwVHJoOWlPRWIwY2Raams5TGtNenRSNEhhYWc?oc=5>
+- **Trump** | 川普：将用委内瑞拉石油补充美国战略储备 <https://news.google.com/rss/articles/CBMigAFBVV95cUxQeDNaZTRYWnNQUjRfd0JvbkRBLWduR005TUtCUDlHOTUyUXBfdDlJckpsOGJqVzI1TE45UWNfVzRuc0RYd21iREd4b0FMVVhYT2RsNXI0YngzTWlQSmVxSGpKTUVxSE1BTnRBTlEyQ2VTOW1vZ0MzenFuTzR1SUJGRg?oc=5>
+- **Trump** | 杰克逊霍尔暴露“美欧信任危机”：特朗普想干什么就干什么！ <https://news.google.com/rss/articles/CBMiowFBVV95cUxPZnl5XzZSOS11UU0yU3R0ZE1mQUNkVlVLN20xSHlCVkZQVzdGSHE1WTF6b0Y2R3FpNHZBX3BrYmFYS2FyZWQ0ajVQaDFxdUJRMTVLRFNNQjVLRGg1TXZ4RkdRLURWOF90V01wSmJHRW56V0J1bHhZRklKSl9BZnFlV3M2MC1Ealg4SG1DMk5yNE5qR2x0WW5QZU5GWWJjbzdrQ0g4?oc=5>
+- **Trump** | 美国电力设备紧急状态……“影响将大于Trump首个任期” [一键看个股] <https://news.google.com/rss/articles/CBMiZEFVX3lxTE54WkF5WGpYQVVvYkhhOUFGX3RiekhnTGwxZGdhbnRjbDdKTUF3UkhTZmhRdzBFTG1UZTN5ZzhybWFVdWJIM0VLYVJtZ2djT19OZlYzODNndGtMVFE4QlFnemFITEs?oc=5>
 
 ### 2026-08-31 09:12  (15 条)
 
