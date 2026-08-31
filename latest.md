@@ -1,63 +1,13 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-30 23:40**
-- 本轮扫到 10910 条, 新增 **6** 条
+- 最近更新: **2026-08-31 02:55**
+- 本轮扫到 10910 条, 新增 **0** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮无新增
 
-### 最新民调：特朗普铁杆支持者半年缩水14%
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-08-30 22:15
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9wMkptdThreTJxRlQtalBfLVJxQTFwLTVTaWZmQzIySTJ3a1JQa0VCUWpfOUYweTRBck5sdFpPeDQxQmxpbHpDTFZERld4VkNfbjZTYUt1SjZydF9DcHR4UUJLaEUtWFBfUEpjMGxZekxFZ29KM09YcA?oc=5>
-
-### 加拿大设置“安大略湖”标志牌以讽刺唐纳德·特朗普
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: idnfinancials.com
-- 时间: 2026-08-30 23:00
-- 链接: <https://news.google.com/rss/articles/CBMi0wJBVV95cUxQaS1NS0VzR0lKY3lLcjNYeUlwMkpJb3BRZERVNnBHZzJrcEt4QlFPVElWVnJDMWIxZ2ZJbGtWOFN5N3pqODZISnRORVZqREhQTUY2QnRWUGNEMFE1eEkzbTJyNk9odGtBQmdUQmVXbUgxWTZDeWdjRUJzZFhhcnBFb3FTclBXWVZ1UjBNSVNsWWpFUWhOX2daeVVsOGRFaG9IZFJCbV9Tc1FYcmZyTWxPWHU2Z19iOW03ek1KWFdhTEhYVGtWUjlFdlFvdmtKZXE0ZXBEVDhKcHdTNVlWclVEMk5VYXVQSnl2Zy1YeGlhMDY1eFFLVjV6ZDh2U1VoU3I3aWZOZTNGTnZqb1dLTjZpRzB1WVFLWDBVY05UemNadXFKUWdreHN0Um8tTTRQaTF5ekkxRlJkRGFQSXhGdnI0YldLQndRS3hVeklUNkhfcXZldlk?oc=5>
-
-### 特朗普20岁小儿子巴伦担心自己成为暗杀目标，选择隐居避世，此前伊朗被曝1000万美元悬赏巴伦，知情人：他不出门，相当孤僻
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 每日经济新闻
-- 时间: 2026-08-30 15:58
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5wSGFoWmpOdG9FTm1YX2taclBhQWVlWm1kZlpxY2tIOWhMdTdTa1VjOXNPR21mSF93N1dHcTdhbEoxYkVncTNhTG1HeDFWMnU3VUhkY293VGwtRlZHblNqOFZrSy00dw?oc=5>
-
-### 为修高尔夫球场，特朗普把日本送的樱花树砍了
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-30 09:01
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFB6V2dHYko1ZGMxWFZtdWR1Ym9Xem9SNFo3WjhtZTRlaDU3bDlNa2YwX0pSelp6WWg3WVNnODV0bEhWY2o5RC1aaWl4OTE?oc=5>
-
-### 德语媒体：“声调高、棍子小”的特朗普亚太政策
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: DW.com
-- 时间: 2026-08-28 13:57
-- 链接: <https://news.google.com/rss/articles/CBMioAJBVV95cUxOOER0R29BM0E3YUVfU3gwbTczX2NkNUtxSnBPQ0tRcmptdmt3Q2xnNm1OdzFzaWpubHNoU2Z0YktqOHlDODUxTWtGNERyQXgxYXk4N2VYZTdiTHpUTTZFeThaNHYxalEtMGRxVndsUXNDNjRDM3UyZTZrRlBJZl9WNUJBS0VDWFhDTHdoRURPOEU0REY2WEhhV1QwcEQ0cnJHWGx4T0I1SktqelA3ZzdlMWtPOTJ4d1p1R2NETHlUejhLQldsSEt1OHMzLVB1UUppTFpJU2dKZ0xvRmlpeWlXaTV4VUpUX293ZGtZQmM4akJRMDRLUUZkNzE2Ulpoa1pZXzdMUkdZTnhnOElOMHpmVG05XzZudWczUnJNd3c1eDXSAaACQVVfeXFMTzBlOGxHbndyZkw1MUdBejlNdVliRFhZeXdJWWY4SFMzX1N6ZUU2NE9iMlVmd0g4cS1pak9RbFBFa205aG1Ua21HOVhhZ1ZmMTRoVDZ0UG9LTGUtQ2RBeEVVOHNNVkw2a1FURl9BSnBJSFlvWGpCYWlEdkh1QUhyMnlWOHpTMlFNTF83eEdYanpacXlsN0JkNF9FQlZmMGEwclRJY2U2cHhjWE1ZMkd4aHM2b1VmS1VPeHRDRG9OZERONEhoeWpPTWZmWmxhZTlRSFBrX0N6b2g3SWtTaEdjSm5leDlvOThrUEFHekxqU25uSVotRVphbXFIY2huNVlMaG9tWkF0NzVMSFdMOEZvRjE3ZENBUmE3ZGhOSHVVRUdl?oc=5>
-
-### 格里芬院长 (@Square-Creator-446e63a9fd9ef)的见解
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Binance
-- 时间: 2026-08-29 05:22
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1EOVl6N3VhcmNCa1ZoSVJJUVBUSnlsVTM0T1ZDN1BNekY4MG9IRjRQaUhOYmdzdzFnSWxLd3VRS0NVN29VVWU5bkNfQnVSYUZsWVJfd0dScVJXZTY4UUJ5ZXJQR1pWVGlR?oc=5>
-
-
----
-
+数据库里所有演出/动态都已见过,暂无新增。
 ## 历史发现
 
 ### 2026-08-30 23:40  (6 条)
