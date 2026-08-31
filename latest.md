@@ -1,14 +1,152 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-31 02:55**
-- 本轮扫到 10910 条, 新增 **0** 条
+- 最近更新: **2026-08-31 09:12**
+- 本轮扫到 10925 条, 新增 **15** 条
 
 ---
 
-## 本轮无新增
+## 本轮新发现 (15 条)
 
-数据库里所有演出/动态都已见过,暂无新增。
+### 周杰伦发新专辑MV，强调我是歌手不是网球运动员
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301fkvo.html>
+
+### 特朗普宣布后，“美委协议在委内瑞拉国内外引发大量负面评价”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪军事
+- 时间: 2026-08-31 01:29
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE9va1d6MVJFSFgtS2hOdnZxR1RoMy16c09qOFFuM3pGS2lINml4bHpfWEFGZFZHU3RoSUxoc0pZV3haVEM1RTNKM242a2tqRG1kMzdkUXJFM0pCSkxfSFZZTkpFenE2Z215azFkVUotelRuQXc?oc=5>
+
+### 美国将获得650亿桶“石油大礼”？特朗普面前还有三座大山|唐纳德·特朗普|美国总统|委内瑞拉|原油|库存
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: finance.sina.com.cn
+- 时间: 2026-08-31 05:31
+- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxOaVBpb0h4OTNQSUhqaUFaaktQOG1aWXRPelZjZ2ZBQ294N2l2ckxiWDMyTHZLcmIteFA1dVFhVFRtclpGb2dFNVZsRi0ycGVWRm5JR2J5dUJxc0J5TWRITEx2bkVVZnBjWWlCZVFVeUpJcGg1R2s3VDE5M2ZVeGFlNVMzZmowSmFUZTFIUjFrb1lhZk50SkNQRg?oc=5>
+
+### 美称与委内瑞拉达成石油协议 被批“公然盗窃”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 东方财富
+- 时间: 2026-08-29 21:41
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE8tbzVTbEJDZGp6eHJKN1BzZ18xeUdfVFVnNW1OMGhVN2pKQ3VvR2pnaDdsMUV3dFFqOXhiR0M0NGRWU0owUldrWVNvTGg3UW0xenRhUUtxelJwNm16X3ZPdQ?oc=5>
+
+### 特朗普：谷歌地图已经改了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-08-31 08:31
+- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE1HLXVBSFp4YVI2dUFJUDZmcG0zTHY3SVpZQjRSMjRkS2tTWWUxZjZsaEN0VndUZUtWS1RjRmJ0QVN1RkNPTTc4SEhpLUlua0t4U0NSV0ZnX3ZpWEgwcExWRnFfTTZ5czRrT0lTSnhPNy1QQ2M3TDNOTkZsNWNVZw?oc=5>
+
+### 特朗普一纸命令改湖名，谷歌连夜更新地图，加拿大网站全标错了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: t.cj.sina.cn
+- 时间: 2026-08-31 08:24
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE1CdXpaWkVvNF9hZF9ldkdQWWhVNktaUkMwX29ER1oySXRXaXdyaFFzVWt0Unp4amdUM1NuZmItbF9xQnJBWVhmUU43cHdZTFlxTW40TXdRSjNxN0pQVlRXRFdvQWNQTk9YZWtaSU56T2x3dw?oc=5>
+
+### 特朗普再批加拿大：又不是美国的一个州，凭什么享受美国补贴
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-08-31 06:35
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnbzBWWG1QU2VSQ1Qtc2hhOUpNbWlKMUFkSGp4V1gtMEFNcVdEbWxNNUVwRFd4djh6NUNlZXNEaWZVcGs0VVJlbjNOcEFDSGhBbTgyeEpNN0dCclpXUXc?oc=5>
+
+### 特朗普发布AI合成视频，威胁“炸毁”伊朗石油出口枢纽
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-08-31 06:30
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBkZG9oSWhnQmU5U2RzSk14NTZ0T204alRyaElXSTZiajVJV2h3MXUzYXhkQ3E1RGFxZGZvZHdhaEVvSzgtQ3dTUEt4aUs3cnY1NXhzNDdUSFhOdTdDZmdNZ1BxcDYySTdIVXc?oc=5>
+
+### 特朗普发AI视频，威胁轰炸伊朗哈尔克岛
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-08-31 02:31
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFAtcVc0WUlJdHo3NFcwMzVDOXhXLWh6a1BnT2Q5QnVqay1hLV92NC0tdjhDaE9uWVk0aUUyOGFFWVFudjFLQTJod0FucXQ?oc=5>
+
+### 特朗普用AI视频力挺新湖名 引发美加命名争议
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-08-31 02:34
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9pNVpQUl9XdEpWSEhJWU1GWUJQODRHQTZtTG1YVE9NTWIyYjQtQ1VYTUlRR0tWNGRfemFEanRrclNZdHlDVG5Ra2hySVBydGVtWVljeGJ0bU13bzFKSnRQZWlHSko5Y2Z6NEVGY3FfNGk?oc=5>
+
+### 中选之后，“特朗普交易”要反噬了？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街见闻
+- 时间: 2026-08-30 01:27
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTFA2c09nZnJLMldtWktHUVFrX1BZQ2I0S0xIb3A0VmJEOVZPd1NkY2lyWGdrdXJ0X0hLQnRDT2VkSTd3cUhxWWZlaVdia3YtWktfYnlv?oc=5>
+
+### 被指为候选人背书结果好坏参半 特朗普威胁“惩罚”记者
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-08-31 00:30
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iaVlacWFhYTlxcVdjcm4yLU1ueUFqWHZ0WjNVTmk4NUpBcUdQRk1EMlFhVzFVX01PbHRtZnFXYTFJcGs0RTZLMFNuVlpldkt4UDhuemdDVEZYbVdjYTAzRHVKSDAwUQ?oc=5>
+
+### 渥太华Trump Avenue要改名
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 风闻
+- 时间: 2026-08-30 20:03
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE1TOV91ODhoM3I2OXdSNEYyd3ZQZWc4MGg4YVFJSEZ3bHhXYVZ0TTJfdHNfRzZhMExEbDh2MDVLbnNqVDBUZnFGNTBiNnlxdUpNNjZjRnJ3X1FuMHlJZ2ZwX1NOT21Ba0p0MWZMaWYwX2p4UHhC?oc=5>
+
+### 渥太华Trump Avenue要改名
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 风闻
+- 时间: 2026-08-30 19:20
+- 链接: <https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zbFhJZzh5Q2JlaldXWTdJRGVmNFk2bndwa1hoVmE2cGoxMkM4b3FYbUkwZ0JWVTdEeExvSEVGLTFDYldBN0tLSzBhcDc1LTdDSGhfNVA3NTN5Wkk?oc=5>
+
+### 朝鲜：尽管特朗普示意对话，“美国对朝政策未变，将最强硬应对”
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 아시아경제
+- 时间: 2026-08-31 06:13
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE0yaFptVk15bFFfR2o5UTJQLTFVMnNjbUZpQUxsUEVnc05JVFQ1WGZJaEVUQk11TTVIUmx6RDl4cFRhc0tYT1U2U2NFeHZuQmVtSDNrcWp0NnRweGNuZFVoUkxaYko?oc=5>
+
+
+---
+
 ## 历史发现
+
+### 2026-08-31 09:12  (15 条)
+
+- **周杰伦** | 周杰伦发新专辑MV，强调我是歌手不是网球运动员 <https://k.sina.com.cn/article_7879924009_m1d5ae192903301fkvo.html>
+- **特朗普** | 特朗普宣布后，“美委协议在委内瑞拉国内外引发大量负面评价” <https://news.google.com/rss/articles/CBMic0FVX3lxTE9va1d6MVJFSFgtS2hOdnZxR1RoMy16c09qOFFuM3pGS2lINml4bHpfWEFGZFZHU3RoSUxoc0pZV3haVEM1RTNKM242a2tqRG1kMzdkUXJFM0pCSkxfSFZZTkpFenE2Z215azFkVUotelRuQXc?oc=5>
+- **特朗普** | 美国将获得650亿桶“石油大礼”？特朗普面前还有三座大山|唐纳德·特朗普|美国总统|委内瑞拉|原油|库存 <https://news.google.com/rss/articles/CBMimAFBVV95cUxOaVBpb0h4OTNQSUhqaUFaaktQOG1aWXRPelZjZ2ZBQ294N2l2ckxiWDMyTHZLcmIteFA1dVFhVFRtclpGb2dFNVZsRi0ycGVWRm5JR2J5dUJxc0J5TWRITEx2bkVVZnBjWWlCZVFVeUpJcGg1R2s3VDE5M2ZVeGFlNVMzZmowSmFUZTFIUjFrb1lhZk50SkNQRg?oc=5>
+- **特朗普** | 美称与委内瑞拉达成石油协议 被批“公然盗窃” <https://news.google.com/rss/articles/CBMiYEFVX3lxTE8tbzVTbEJDZGp6eHJKN1BzZ18xeUdfVFVnNW1OMGhVN2pKQ3VvR2pnaDdsMUV3dFFqOXhiR0M0NGRWU0owUldrWVNvTGg3UW0xenRhUUtxelJwNm16X3ZPdQ?oc=5>
+- **特朗普** | 特朗普：谷歌地图已经改了 <https://news.google.com/rss/articles/CBMifkFVX3lxTE1HLXVBSFp4YVI2dUFJUDZmcG0zTHY3SVpZQjRSMjRkS2tTWWUxZjZsaEN0VndUZUtWS1RjRmJ0QVN1RkNPTTc4SEhpLUlua0t4U0NSV0ZnX3ZpWEgwcExWRnFfTTZ5czRrT0lTSnhPNy1QQ2M3TDNOTkZsNWNVZw?oc=5>
+- **特朗普** | 特朗普一纸命令改湖名，谷歌连夜更新地图，加拿大网站全标错了 <https://news.google.com/rss/articles/CBMickFVX3lxTE1CdXpaWkVvNF9hZF9ldkdQWWhVNktaUkMwX29ER1oySXRXaXdyaFFzVWt0Unp4amdUM1NuZmItbF9xQnJBWVhmUU43cHdZTFlxTW40TXdRSjNxN0pQVlRXRFdvQWNQTk9YZWtaSU56T2x3dw?oc=5>
+- **特朗普** | 特朗普再批加拿大：又不是美国的一个州，凭什么享受美国补贴 <https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnbzBWWG1QU2VSQ1Qtc2hhOUpNbWlKMUFkSGp4V1gtMEFNcVdEbWxNNUVwRFd4djh6NUNlZXNEaWZVcGs0VVJlbjNOcEFDSGhBbTgyeEpNN0dCclpXUXc?oc=5>
+- **特朗普** | 特朗普发布AI合成视频，威胁“炸毁”伊朗石油出口枢纽 <https://news.google.com/rss/articles/CBMiakFVX3lxTFBkZG9oSWhnQmU5U2RzSk14NTZ0T204alRyaElXSTZiajVJV2h3MXUzYXhkQ3E1RGFxZGZvZHdhaEVvSzgtQ3dTUEt4aUs3cnY1NXhzNDdUSFhOdTdDZmdNZ1BxcDYySTdIVXc?oc=5>
+- **特朗普** | 特朗普发AI视频，威胁轰炸伊朗哈尔克岛 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFAtcVc0WUlJdHo3NFcwMzVDOXhXLWh6a1BnT2Q5QnVqay1hLV92NC0tdjhDaE9uWVk0aUUyOGFFWVFudjFLQTJod0FucXQ?oc=5>
+- **特朗普** | 特朗普用AI视频力挺新湖名 引发美加命名争议 <https://news.google.com/rss/articles/CBMicEFVX3lxTE9pNVpQUl9XdEpWSEhJWU1GWUJQODRHQTZtTG1YVE9NTWIyYjQtQ1VYTUlRR0tWNGRfemFEanRrclNZdHlDVG5Ra2hySVBydGVtWVljeGJ0bU13bzFKSnRQZWlHSko5Y2Z6NEVGY3FfNGk?oc=5>
+- **特朗普** | 中选之后，“特朗普交易”要反噬了？ <https://news.google.com/rss/articles/CBMiU0FVX3lxTFA2c09nZnJLMldtWktHUVFrX1BZQ2I0S0xIb3A0VmJEOVZPd1NkY2lyWGdrdXJ0X0hLQnRDT2VkSTd3cUhxWWZlaVdia3YtWktfYnlv?oc=5>
+- **特朗普** | 被指为候选人背书结果好坏参半 特朗普威胁“惩罚”记者 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iaVlacWFhYTlxcVdjcm4yLU1ueUFqWHZ0WjNVTmk4NUpBcUdQRk1EMlFhVzFVX01PbHRtZnFXYTFJcGs0RTZLMFNuVlpldkt4UDhuemdDVEZYbVdjYTAzRHVKSDAwUQ?oc=5>
+- **Trump** | 渥太华Trump Avenue要改名 <https://news.google.com/rss/articles/CBMidEFVX3lxTE1TOV91ODhoM3I2OXdSNEYyd3ZQZWc4MGg4YVFJSEZ3bHhXYVZ0TTJfdHNfRzZhMExEbDh2MDVLbnNqVDBUZnFGNTBiNnlxdUpNNjZjRnJ3X1FuMHlJZ2ZwX1NOT21Ba0p0MWZMaWYwX2p4UHhC?oc=5>
+- **Trump** | 渥太华Trump Avenue要改名 <https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zbFhJZzh5Q2JlaldXWTdJRGVmNFk2bndwa1hoVmE2cGoxMkM4b3FYbUkwZ0JWVTdEeExvSEVGLTFDYldBN0tLSzBhcDc1LTdDSGhfNVA3NTN5Wkk?oc=5>
+- **Trump** | 朝鲜：尽管特朗普示意对话，“美国对朝政策未变，将最强硬应对” <https://news.google.com/rss/articles/CBMiZEFVX3lxTE0yaFptVk15bFFfR2o5UTJQLTFVMnNjbUZpQUxsUEVnc05JVFQ1WGZJaEVUQk11TTVIUmx6RDl4cFRhc0tYT1U2U2NFeHZuQmVtSDNrcWp0NnRweGNuZFVoUkxaYko?oc=5>
 
 ### 2026-08-30 23:40  (6 条)
 
