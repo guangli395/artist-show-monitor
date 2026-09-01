@@ -1,80 +1,118 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-01 01:03**
-- 本轮扫到 10961 条, 新增 **8** 条
+- 最近更新: **2026-09-01 06:26**
+- 本轮扫到 10972 条, 新增 **11** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (11 条)
 
-### 美陆军部长被曝已向特朗普递交辞呈
+### 是否排除对伊朗使用核武器？特朗普：真是个愚蠢的问题
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中国日报网
-- 时间: 2026-08-31 23:58
-- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTE5FOGpZajZxRGQ2TS1hc3h2NHVPRUFwZ1Z3SDMwZGg3djF6b1JxQy12RV95NjExcThyS0h4TGI1TVpSczQ1elZuNFRNSExqVzNtNGt2ZV9IS19UekV6QzZxeFd2S3duM3Y5MmFtNnRaT1lnZWw5Z0VjRHdjNA?oc=5>
+- 场馆: mil.ifeng.com
+- 时间: 2026-09-01 01:44
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE02R3VKbzY1TlMyYmFzWnFTbGtRaGJHTlJ3bmdULU5hOHM5Ym81ZW1OcHNYdHc0d2Q1eDBoVzZMQ21QSE9KWTQyNnVOMA?oc=5>
 
-### 特朗普回应“赫格塞思或参选总统”
+### 特朗普表示埃克森美孚准备重返委内瑞拉石油业务
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: idnfinancials.com
+- 时间: 2026-09-01 05:20
+- 链接: <https://news.google.com/rss/articles/CBMi3wJBVV95cUxNbGxoc0g0SEpscFcxcFBEYU1SVlZlcU1QdTc2ZDZyY1RXa3FySGdzTVhaSHAzdzBfS05PU3FNQ3QtV0FfMUU5ZkMzZnRGVEliRGtyNHFiNWhudUZ0cks4bnR4M0EyajJCeUdTNWNZd210ZWFMdTQteDFNRk1lZzBPTmI2bWhpVlBKT096UnJ6Z29vUkRXYmQzUHBKcG53SDBBWWhLb3FobGRWVlpXamVvZElmWi10aWZIT1ZnQWxEWGUtakM1dVZOUVhEdWlSNnBETm5OZ1IzV1ByRmsyUzhrY3U5amRvakpFNmFUcklwb2ppVllwa3Z0ajRzQnJodmJBY1gyaTk5a2g5cmRxWmJ2Ym03Y3kycWVkRnFsZzIxWndsa2Y3WUJoNXJGVUh2Q0M1dXppS2ZGcFM1YkRma0JqcER2Tk1laXVxMTZKWC1zZXdlZFBQTm9uZHYtRDBxdVk?oc=5>
+
+### 特朗普称美国正在审查对福克兰群岛的立场
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: idnfinancials.com
+- 时间: 2026-09-01 06:00
+- 链接: <https://news.google.com/rss/articles/CBMiuwJBVV95cUxPQzZTWTl3YnBtNmhySkQzV01ubXIxUGVjTWtfTUdCX2V5ZnYxbHozTEMzSkpnS2FPdTdPTmRKaWhiNWxTWkd0TjlPaTc4RXRJYzZDeFdENVBONDd4YnVQeXhQX1JLTzBPZko4WjBfMWM5M251b3VxdE1VNFBmUU01Q3BTdi16TFpkd2lFTFAtQUJ0bC1wWGFjeTljTFlpcjdueHR3dDJZOWJoNTZXZTc2VGYzZ3kwMm8xdHBWRDVjVWpUZklSU3NPTkZueGxndkJKSU1xYnlfUHFmWmYyWUpPaDEtM0xPLTZGMFBXcGIyUElxSlpEaHVFaFdQT0NQYnBoWUs5NVRZaGZTUWJNcXVOUjI0dXpFSFBxaGF6SVRrVDZJQnBpMHFkMy1PMVpCcUNIWHhhUWxzRzRyVTg?oc=5>
+
+### 特朗普也急了：你们这么干，中国要高兴死了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 观察者网
-- 时间: 2026-08-31 22:44
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5aZHFiSTdfUEJSc3l4OU03VEZEWXNCY0tVWjR0anEtMzZpWFhHNXQ0MEpTeU1UcUcxZ1FTNVJ5Yi1aMTlpUXVoempWUTFWNndCT0RIYWc5aWZMVkVlZ3pkQ3FQTUxVdFZTQWc?oc=5>
+- 时间: 2026-09-01 02:58
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5qMkh2LWpfMHV3dGdQX29zQVpSTW9mcGdMbl9ocFlYRjFoSVFlSDhwLTQ5aHdOQVlSS1hQd3lZbmROeDVVT05pdzdFYTZBcmlCLWN6bzhxcHFyOEVuX2ozc3RsNHJTMVNVcUE?oc=5>
 
-### 俄罗斯财长重返线下G20 特朗普未排除邀普京出席G20领导人峰会
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: Caixin Global
-- 时间: 2026-08-31 23:29
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFB0M3RXM0Z1MzFsYXlraVRZeW1GY2Q4YzhqanpmbkJtU3VQb1R0NG1ZZVNOb3p1cUdqcGNjUHR1alloOTBWajV4MnJUdU1PRGlPVEQ2SDVvSUhLQWRzdG81eWJUdUx6YjJ0WXc?oc=5>
-
-### 特朗普在加拿大的实名认证地标要没了 加美关税战升级
+### 美媒：美国陆军部长向特朗普递交辞呈
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中华军事
-- 时间: 2026-08-31 23:25
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBlakl5RHI5WUVRY2VGVGhtTWhvTVBKTndrRmxwZU5kLWRNTHl2ODdHTzIzbVFJWHJTQll5bWpzdXk1VFRqY3N3RkxyZzRRRjc0cXNNQWFfR1VRN2U3NndxcXFreFRGNTYzWXhKSXNwTTU?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-09-01 04:27
+- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxNUGNQTDZ5RVBGMjJKcElyNG0xNGxuZVpUdkd0bnBoc09VNnd3Mkc2WU0zX2VISWRuY0Z5aFhhdEhmZ2d4WW9pM1pBSzZyXzNMNWw1RmdqVWZ1RnZDUlR5TWhrM3Mxa3gyYTdBc09JZWlYVHFQeldBY1hhX2lKX1pMSktjSjFieklqeFk1cG8xQW5PSzd0bDY1M2lGR1d0SVU0?oc=5>
 
-### 特朗普承诺对加拿大公司免征关税,但有一个前提
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 文学城
-- 时间: 2026-08-31 02:54
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYNXU5WHdFRlBhTTE4a2thS0tTaTlNdUFyNlVDU1ZUeW9VQmJxV3pGNjBkbm8wUi1SZXFVVkRLRTRVLTRjbzZJNVBmd3U5dzA2S3M3b1NrUnNKaXk1cHhzMWk2dEJGNFhU?oc=5>
-
-### 美防长被爆考虑参加2028年总统竞选 特朗普最新回应
+### 美媒：美国陆军部长向特朗普递交辞呈
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-08-31 22:45
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pa1BCUzZjYkVodTJZUWdVUDRYc2FjQldhZUVJTzlpZ1prUEVjS0JUZHFjRXB5MUp6eG54NUpTeXFNQ0I5MEMyLVE3M0M2MDN3VGRxbVktMnM2Y0I1NmpMVVN4eGdydjVB?oc=5>
+- 场馆: 新京报
+- 时间: 2026-08-31 23:39
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VRmlBOTFtUEFVSDRZUlk4OXZ4a1ltV0ttd1gxM2xOdVlVMFNkUWo2U2xBTkJlM1UwZWkyZ3ItNGRwOFVBSEtVYmNOZ0F4MGlFNS1NVk9DcGdieUFFZjFTWHZxS3Q?oc=5>
 
-### Trump紧急召集炼油业界……施压下调汽油价格- 阿视亚经济
+### 特朗普改名“美国湖”，安大略省省长举牌抗议：他当总统前就这样
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-09-01 02:54
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE50Vkl1MV81dTlubHhibnZRN1djN1V2cHBSVlE5WlFOSmNOQ0N4c3VPZzRTWHJMcXNGTEU2SXpUTEt6QlVsb2U0alV3U2N4c2oxOWlkOE5vVlB6VTlpaHpZY2luTEl2MWVZdmxURV8xTDFYUQ?oc=5>
+
+### 回应数据中心“仇恨潮”，特朗普：反对的美国人“最终会落后贫穷”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街见闻
+- 时间: 2026-09-01 00:06
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5idE5iLUdtRENFQ05KdzJVeVEtUHlYVUQ1THB2N0tyc0JmdGd0VEVlLTUxZ3VwYVZXeUYxTGdCMDA3ajdDQkVaTXduMWVvUXM4VWxB?oc=5>
+
+### At a White House dinner hosted by Trump on Tuesday, CEOs of major refining companies walked on eggshells.
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 아시아경제
-- 时间: 2026-08-31 21:31
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RYVBpOWl0WTBJQ3d4cG96TmVWa2RxYXhEVFoydmpHakxMMHBXb2JRV0xoY1JyczRCa0pvazVhOXoxTGFMSnhzR0w0YnJjNnpEZ3hueWl6dW5OTUpETlhEdTNVQjQ?oc=5>
+- 场馆: 富途牛牛
+- 时间: 2026-08-31 12:45
+- 链接: <https://news.google.com/rss/articles/CBMilgFBVV95cUxQRl9oVHVCLWJnNlNqbUlyY0xzbXEzRFRiTmhvVDFiRkRXT2h1TDVmcEZXbUlUWnBWUWlUODFpSFdIbS1NclZYLWlPd1AwZVg4WEEyVXNhRDl1X0haRGg1TDlBYmZOV3lOc2d1UUJCQ0dVb3hEbURfLTdBaktZcW95WEdMQnRlRWhXY0l0WmZaOWVpa2w1aVE?oc=5>
 
-### Trump：“反对数据中心就会变穷”……美国人工智能业投入5000万美元打舆论战- 阿视亚经济
+### 共和党正为中期选举焦虑，特朗普却在致力打造“政治遗产”
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 아시아경제
-- 时间: 2026-08-31 18:42
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1qdEtfck9aR1czeG81Qm5vMGMwWENGZ005T3FjVjFaQTBCb29hc3BOY3ZnbDR5WVFOSVEtcnFvQVpGemNiX25nYzhieDg3X0ROQXRDQXRNb2d6anRFdEtweXR1bFY?oc=5>
+- 场馆: 华尔街日报中文网
+- 时间: 2026-09-01 04:57
+- 链接: <https://news.google.com/rss/articles/CBMirgFBVV95cUxPMWtiRFBwOG94R1ZobGtPSUNBSzBYSWhsNkZzNDdwSzNyUVdPVHpoV2hHblFnOWc3OFFycU5Fd0VUQ0FsZkxvVng4TUppcEF5NThLSEFSUVJIS2R4VlNoZDg4WFprTzM0bEdLR2hsandFUnJyQjRMR0ltcEJ2VmMxclRTUE5DTF82LWJsXzRhX1M2TzdHTjZKbkxTZDREZV9oWDdxY29kNVJEUjlDQ0E?oc=5>
+
+### 【聚焦美国】特朗普宣布近期暂停对30万吨进口牛肉征收关税
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: SBS
+- 时间: 2026-09-01 03:56
+- 链接: <https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdlpLZGN3U1hWRi10cXBBZk5XalBxMkhVYkIwN01sdVMyTVVoeVdPZWRBMlMweDRQTlhGd0RWakg0Ny1IdFhxYUhWYU1SWHJvejUtdG1yTmtXMzEwRWo1X2tSTlZ0YkV6dE1PcGJDQkJtOHhJYnRVdzB3aXNBOXlLb0l2d0FEMlQ0bDhKcE9tcjZ3TXRNNE03MDd1NGhiZFZINUp2SlhNSGFGNW1EUVYxbW1KeXpZM2VlRTNKV1JoT3ozZ3NhLVR5cFpMOS1iYUN1ZnVQMVZVdUhhZHRTUzQ2dWh2cEliczl2cU11Qg?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-01 06:26  (11 条)
+
+- **特朗普** | 是否排除对伊朗使用核武器？特朗普：真是个愚蠢的问题 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE02R3VKbzY1TlMyYmFzWnFTbGtRaGJHTlJ3bmdULU5hOHM5Ym81ZW1OcHNYdHc0d2Q1eDBoVzZMQ21QSE9KWTQyNnVOMA?oc=5>
+- **特朗普** | 特朗普表示埃克森美孚准备重返委内瑞拉石油业务 <https://news.google.com/rss/articles/CBMi3wJBVV95cUxNbGxoc0g0SEpscFcxcFBEYU1SVlZlcU1QdTc2ZDZyY1RXa3FySGdzTVhaSHAzdzBfS05PU3FNQ3QtV0FfMUU5ZkMzZnRGVEliRGtyNHFiNWhudUZ0cks4bnR4M0EyajJCeUdTNWNZd210ZWFMdTQteDFNRk1lZzBPTmI2bWhpVlBKT096UnJ6Z29vUkRXYmQzUHBKcG53SDBBWWhLb3FobGRWVlpXamVvZElmWi10aWZIT1ZnQWxEWGUtakM1dVZOUVhEdWlSNnBETm5OZ1IzV1ByRmsyUzhrY3U5amRvakpFNmFUcklwb2ppVllwa3Z0ajRzQnJodmJBY1gyaTk5a2g5cmRxWmJ2Ym03Y3kycWVkRnFsZzIxWndsa2Y3WUJoNXJGVUh2Q0M1dXppS2ZGcFM1YkRma0JqcER2Tk1laXVxMTZKWC1zZXdlZFBQTm9uZHYtRDBxdVk?oc=5>
+- **特朗普** | 特朗普称美国正在审查对福克兰群岛的立场 <https://news.google.com/rss/articles/CBMiuwJBVV95cUxPQzZTWTl3YnBtNmhySkQzV01ubXIxUGVjTWtfTUdCX2V5ZnYxbHozTEMzSkpnS2FPdTdPTmRKaWhiNWxTWkd0TjlPaTc4RXRJYzZDeFdENVBONDd4YnVQeXhQX1JLTzBPZko4WjBfMWM5M251b3VxdE1VNFBmUU01Q3BTdi16TFpkd2lFTFAtQUJ0bC1wWGFjeTljTFlpcjdueHR3dDJZOWJoNTZXZTc2VGYzZ3kwMm8xdHBWRDVjVWpUZklSU3NPTkZueGxndkJKSU1xYnlfUHFmWmYyWUpPaDEtM0xPLTZGMFBXcGIyUElxSlpEaHVFaFdQT0NQYnBoWUs5NVRZaGZTUWJNcXVOUjI0dXpFSFBxaGF6SVRrVDZJQnBpMHFkMy1PMVpCcUNIWHhhUWxzRzRyVTg?oc=5>
+- **特朗普** | 特朗普也急了：你们这么干，中国要高兴死了 <https://news.google.com/rss/articles/CBMiakFVX3lxTE5qMkh2LWpfMHV3dGdQX29zQVpSTW9mcGdMbl9ocFlYRjFoSVFlSDhwLTQ5aHdOQVlSS1hQd3lZbmROeDVVT05pdzdFYTZBcmlCLWN6bzhxcHFyOEVuX2ozc3RsNHJTMVNVcUE?oc=5>
+- **特朗普** | 美媒：美国陆军部长向特朗普递交辞呈 <https://news.google.com/rss/articles/CBMioAFBVV95cUxNUGNQTDZ5RVBGMjJKcElyNG0xNGxuZVpUdkd0bnBoc09VNnd3Mkc2WU0zX2VISWRuY0Z5aFhhdEhmZ2d4WW9pM1pBSzZyXzNMNWw1RmdqVWZ1RnZDUlR5TWhrM3Mxa3gyYTdBc09JZWlYVHFQeldBY1hhX2lKX1pMSktjSjFieklqeFk1cG8xQW5PSzd0bDY1M2lGR1d0SVU0?oc=5>
+- **特朗普** | 美媒：美国陆军部长向特朗普递交辞呈 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VRmlBOTFtUEFVSDRZUlk4OXZ4a1ltV0ttd1gxM2xOdVlVMFNkUWo2U2xBTkJlM1UwZWkyZ3ItNGRwOFVBSEtVYmNOZ0F4MGlFNS1NVk9DcGdieUFFZjFTWHZxS3Q?oc=5>
+- **特朗普** | 特朗普改名“美国湖”，安大略省省长举牌抗议：他当总统前就这样 <https://news.google.com/rss/articles/CBMickFVX3lxTE50Vkl1MV81dTlubHhibnZRN1djN1V2cHBSVlE5WlFOSmNOQ0N4c3VPZzRTWHJMcXNGTEU2SXpUTEt6QlVsb2U0alV3U2N4c2oxOWlkOE5vVlB6VTlpaHpZY2luTEl2MWVZdmxURV8xTDFYUQ?oc=5>
+- **特朗普** | 回应数据中心“仇恨潮”，特朗普：反对的美国人“最终会落后贫穷” <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5idE5iLUdtRENFQ05KdzJVeVEtUHlYVUQ1THB2N0tyc0JmdGd0VEVlLTUxZ3VwYVZXeUYxTGdCMDA3ajdDQkVaTXduMWVvUXM4VWxB?oc=5>
+- **Trump** | At a White House dinner hosted by Trump on Tuesday, CEOs of major refining companies walked on eggshells. <https://news.google.com/rss/articles/CBMilgFBVV95cUxQRl9oVHVCLWJnNlNqbUlyY0xzbXEzRFRiTmhvVDFiRkRXT2h1TDVmcEZXbUlUWnBWUWlUODFpSFdIbS1NclZYLWlPd1AwZVg4WEEyVXNhRDl1X0haRGg1TDlBYmZOV3lOc2d1UUJCQ0dVb3hEbURfLTdBaktZcW95WEdMQnRlRWhXY0l0WmZaOWVpa2w1aVE?oc=5>
+- **Trump** | 共和党正为中期选举焦虑，特朗普却在致力打造“政治遗产” <https://news.google.com/rss/articles/CBMirgFBVV95cUxPMWtiRFBwOG94R1ZobGtPSUNBSzBYSWhsNkZzNDdwSzNyUVdPVHpoV2hHblFnOWc3OFFycU5Fd0VUQ0FsZkxvVng4TUppcEF5NThLSEFSUVJIS2R4VlNoZDg4WFprTzM0bEdLR2hsandFUnJyQjRMR0ltcEJ2VmMxclRTUE5DTF82LWJsXzRhX1M2TzdHTjZKbkxTZDREZV9oWDdxY29kNVJEUjlDQ0E?oc=5>
+- **Trump** | 【聚焦美国】特朗普宣布近期暂停对30万吨进口牛肉征收关税 <https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdlpLZGN3U1hWRi10cXBBZk5XalBxMkhVYkIwN01sdVMyTVVoeVdPZWRBMlMweDRQTlhGd0RWakg0Ny1IdFhxYUhWYU1SWHJvejUtdG1yTmtXMzEwRWo1X2tSTlZ0YkV6dE1PcGJDQkJtOHhJYnRVdzB3aXNBOXlLb0l2d0FEMlQ0bDhKcE9tcjZ3TXRNNE03MDd1NGhiZFZINUp2SlhNSGFGNW1EUVYxbW1KeXpZM2VlRTNKV1JoT3ozZ3NhLVR5cFpMOS1iYUN1ZnVQMVZVdUhhZHRTUzQ2dWh2cEliczl2cU11Qg?oc=5>
 
 ### 2026-09-01 01:03  (8 条)
 
