@@ -1,72 +1,62 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-01 15:55**
-- 本轮扫到 10992 条, 新增 **7** 条
+- 最近更新: **2026-09-01 19:08**
+- 本轮扫到 10997 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (5 条)
 
-### 美国最高法院准许特朗普继续修建白宫宴会厅
+### 周杰伦演唱会3小时仅唱90分钟？观众吐槽与粉丝反驳两极分化
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-09-01 02:20
-- 链接: <https://news.google.com/rss/articles/CBMivgJBVV95cUxNNmVKbkZnZ2M5endUdUJTOUtwTTJTUkZIZnV0NlFIT2lsM0VqMEVBTjM2NVhEbUZhN2FHU09vX1JYcHBZbEY0V2kzSmxqN0VQWFA3Vm1PZVk3SlR5Z19NUjQ4UTcxU0pTWHY2VXJmSXo5aDBoeXdYSUhDN3pHTTFmbXJGM2tZRDY5cGJfTFhBcU9iSFFDSW9mVmh5X3BKYXQ5dDh3dlBHUjFOV3VvdmRYeWVVbWhDRl9HNGJ0YnN2VjRrSFNaUUN0N29ESVJhU1FUZ2h0THdIQmhUZXZxOVJLZEpoWjFfMEFYZWVlQ3R5cmFlZTVHRDUwMndnbC05REN3NDJqS3IzMDFfZHBuUkYweDNnSEREbWhnRlNCcFZvU1YxanNsTFJ2SkZGQWNyNFJIak91bTRBZHJwVy1lWVE?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923107_1d5ae15a306803x70m.html>
 
-### 美陆军部长被曝已向特朗普递交辞呈
+### 特朗普又盯上霍尔木兹，这次想“定期动手”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: news.sina.cn
-- 时间: 2026-08-31 22:04
-- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxPTUQyTkg2OXBOcENRaU04OFdWTHNjOFpOakhacWk4LUxYY1dhQW85Q0hlQkZaOHN5UXhGV3pkR0ktVEF4WWR1SFhyOVBwU1dJcGh5RTRtaE9QNnBENnk5R1g5cVFVNnpQZHJNTl92elNTNTRsenpidmJhdG1vUlRXSTQ5cWpHNWIyZnpIVGxVZ3Y1ZVJf?oc=5>
+- 场馆: 观察者网
+- 时间: 2026-08-31 23:21
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBISnpHTDFnbzRjU01fY2VsVndkSk1hXzdIb3dpNzB0WFgyS1VPTnNEZl9YNzItWGhqLXhmLXBCWlpENFBkcW43REhCeXhVTGJTeWJPd0pwcFdudFgwWWhKckJmckdSQjBaMnc?oc=5>
 
-### 特朗普“密友”戴安斯再度访华
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-09-01 13:26
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE85MWhNYlYtZFhMTHBBRkQ2Rzl0ZHFhMzk2Q2k4SDlQQVFqUDAzVEZpUWEzSXV6cFNiNHlPY0JDR2hHb2pZNHU3b3EyLWM?oc=5>
-
-### 长平观察：“应邀”而来的“间谍”——习近平访美之前，已为特朗普备好“礼物”
+### 特朗普称美国利率过高，美联储理事巴尔：若通胀降温不足，应果断加息
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: DW.com
-- 时间: 2026-08-31 20:00
-- 链接: <https://news.google.com/rss/articles/CBMijANBVV95cUxNTEdZVGo3bDZ2Zmp1U3AtVDFBbVZMY1pJZlpfUjBCb0N0cUxqX1FfR0RzdEplOGpxeE1lanE3OGE2RV92Y0xZeERaWUpaZkFDNjFNbFNEZlB2ZnVWNE82a19NcGVicmtZV2p5MzYwZ0pxbkE0eVppVmVYbHBlUFVpbVdobHJwSURpeUVMQnpZVTlERU0yZEhYaGZac1JhYVhyYkRYZ0lXSjh6MFFQRGppaHBpVXNVMFFoYzlEaE9rSTB5QzFpRWJiS2Y3SEZ1R1N2VlU3X3lqdTFUUHNvUTF3c0FtcFFsWWQ3ZVEwZjA1d2RwNVpoYWF1cFN0U0pMZ0d4NGJLWnEtWWlIZHF4MWZ4YkY3bnBIcHRsUEVnLTJFcGJCVnlsMEFVUTFWTDJEdWdhRWNwZGJNQmpGNmkyb0ZNU3ZYZW9pRndmT1NyMC16WEhSRy00RTY4OE9QU2p4VkhxYktrSXhZNlo1b1ZGNWoxQkpKYkRZMHZ3MVd4RW1OTDBXZnY3QVk0OFdETG_SAYwDQVVfeXFMUEs2QUltVTNGVnVnS1RHTUx3NExLclZyUVZTT2ZVdFFEdnE4QWllSjJieWdIOXN2OGpadzRLdkE4OEJsd05xWVZucmdINzFJSGtfM0dIaVJRWE1OREhpV2pmQ01GSkxZcXREMjRUWTVFTzQxZzhZb2hBRlc3TzR6SHJIZ1hVOW1za3hUOHFZOTBFOVJvcm5RaVU1MWNwbk5hYzRCM3cwalJQQW1uNTNhMHRmZUttOTVoem9UZ3VNa2p4bzdnblZoU1diM1hLa3dYTDNBRWVucjU2NEZ4YTZjdWxSUjZWRmhHNTg5VUtZWENUVk9SVjFnUndKS2J5b253QVpjMUc1aEpXa0FmR1hacW5BQkFXZ2JwbTMwQnh4bldOUm9yZ3BYTlpPMnVGU3czQW9GakxPS1ZJNUk2eEVlcFZ1cHdOZXlvWGdYYWRKbkEzblJqR1pUTGg3QWZZRjVBanA2OUFIRlpicnczTzhrMTA5dmtPdUNQOVNRN09ockphQ1lFOXpxdDV3YW9K?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-09-01 17:37
+- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxQaThjTXhsOWpkbWllLXZxRy16UngzV1VNUEQzNEpUWDhnYk1nc0NaeUpiNmVMMGdFMUhQa0RUOGxaY3A4OWdxZ2o3ZXVxS19kRFBfM1N3R3VJcDU5cWpfSGJUczdITTZ1aTJxaWlONFUzVGhyYms4YzNyc1lXR21GcmdGQVFhQmFpMEdVZjk1WmhfZ3NuczJ4MQ?oc=5>
 
-### 特朗普对加拿大加关税还“揩油”，大多数美国人反对
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-09-01 13:45
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE44OFUxTHE3VUZBOVpjemVjNkNyYi1FQUdWbkplbWZSVHdrUmpLbUM2c0NkMlkxbnZZcUxDTjlnUzlHZ0xQZ1huRlRKTWYtNEN1UjMwUGdPQmFzZmxmdFlYVVBKYk96aERsb1E?oc=5>
-
-### 德语媒体：面对中国冲击 欧洲应效仿特朗普的关税政策？
+### 特朗普首次公开表态：美国正重新审视马岛主权立场
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: DW.com
-- 时间: 2026-09-01 14:15
-- 链接: <https://news.google.com/rss/articles/CBMi3gJBVV95cUxOa1JBcWdmNXNtMFNlYk1tMnBra0hTZ0lPMkhhc2xBb2pmZDJaS3V5TEVGQzRzcS1rM3pMdHRUVFRFVG1fS3dSVUN4bko0S3BVVkJWMzNacGNldlZWMnZKVlowQnhPTmdxTHVjbGZKZ1k1MWg2LUJzdGxEbmRxNlV2Sm9aLUNKOFk0ZHN4V1FETW1EMVFkTk1ERTU4d29lcmR6RVJNQlZ4OUNodG5iR2hPeW1NeEJWclNKR29WQW5JZ090ZXA3MFZqblgzNEN3MURWZExJWUxCX1ZaeXNDTWxidnh0RjRZN3JvX2Rsa0RIY29ZXzVEdEJKTFJoZTNpRTd5UW9UWG1oaWp3cDlfNnhRYUhPSG9NTDU4WW80dDc2QXV4V29fOXJKYVA4cnVmUzFrR1l3dXRsOHZLU2NoakFpUkJwREZ6a2xpN25Sb1RfWkd1SkZEWkdaZlQzVmZiZ9IB3gJBVV95cUxOdmRrVnVDWno1cl9sRERJT2JjX3ZkdWRBMGY4SHBTOFRvclphdXl3Z0lQOVYwTjlTMXE5SzVobDRIX0U0em8xYVBheWFhcHU5OUpfcF9oU1Z5Y1dWTDJkejB2MUJmTTF1bWFCTjEyTkJwZE84THowSl9WX2w2NzVHUktSU3JRYkRNX3I3b3g5UGxyRXY2WURTbWRBZVFfRlJrQ0ZsOWgxcmFSMmtUSzFzWTNyd21VZFhwdnhlb0N4bFB3SWpuTWVRWmhELXE3amxnTXFEU0J5N1ZlQk5MU1ktTzVUUmhmcVNXQ3VZY1NJd3d4a2pfbEo1Z3JXRGJ4bU9UTUlDUTBNa2VjRTVPcFE1MkhEY3hNdFNKN1ZSTkF3cVg2b21HSlU3SkY2cXF6cmlaWlh3Sl9WNHJIbEYxMnE4WWoyWHhNTV9yck9OUFdQeXhkdkJxTHNESC1Walo4Zw?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-09-01 11:45
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBmVk1NWk14djFJX0g1TGRQbXNYR2RjZlBPeEtodjRTRm9rUkptZk8xZEpTSWxRSk9Ta3hPTE04TXg2OVd5RGF5S3pUbjZ3RWlWZFUtZ0F3TWU1MFdpeHhJS2hhMjhRbDg5NGc4eEd4UUVENDRpdlZpYg?oc=5>
 
-### TRUMP团队2小时前再次转出2665万美元的TRUMP代币
+### 特朗普“直接联系苹果”：得改！
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: TradingView
-- 时间: 2026-09-01 03:21
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TbDA3QlZkLWpFNE40ME5idklRbVlqYTNDUnFTY0tjNlRpeThNTTdleUJYVHBvU1NhWHZyOTAybjVSZlZxQlltVUJnU2xxdXFWRmswMUdRdXZQcmlKYklhdkVadGVtMkE?oc=5>
+- 场馆: thepaper.cn
+- 时间: 2026-09-01 16:14
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTFBTbmlGYUJVaWNvUXlhOC12Z0hlNWU4QVJFZ3dnWHpTa19lcWhoS1dSblNRR2pKSnJmQ2xhbTZtZmJqanB5MGVpSk04Sk13M1E0Mkl4WmtydVZJclJ0dmc?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-01 19:08  (5 条)
+
+- **周杰伦** | 周杰伦演唱会3小时仅唱90分钟？观众吐槽与粉丝反驳两极分化 <https://k.sina.com.cn/article_7879923107_1d5ae15a306803x70m.html>
+- **特朗普** | 特朗普又盯上霍尔木兹，这次想“定期动手” <https://news.google.com/rss/articles/CBMiakFVX3lxTFBISnpHTDFnbzRjU01fY2VsVndkSk1hXzdIb3dpNzB0WFgyS1VPTnNEZl9YNzItWGhqLXhmLXBCWlpENFBkcW43REhCeXhVTGJTeWJPd0pwcFdudFgwWWhKckJmckdSQjBaMnc?oc=5>
+- **特朗普** | 特朗普称美国利率过高，美联储理事巴尔：若通胀降温不足，应果断加息 <https://news.google.com/rss/articles/CBMimAFBVV95cUxQaThjTXhsOWpkbWllLXZxRy16UngzV1VNUEQzNEpUWDhnYk1nc0NaeUpiNmVMMGdFMUhQa0RUOGxaY3A4OWdxZ2o3ZXVxS19kRFBfM1N3R3VJcDU5cWpfSGJUczdITTZ1aTJxaWlONFUzVGhyYms4YzNyc1lXR21GcmdGQVFhQmFpMEdVZjk1WmhfZ3NuczJ4MQ?oc=5>
+- **特朗普** | 特朗普首次公开表态：美国正重新审视马岛主权立场 <https://news.google.com/rss/articles/CBMieEFVX3lxTFBmVk1NWk14djFJX0g1TGRQbXNYR2RjZlBPeEtodjRTRm9rUkptZk8xZEpTSWxRSk9Ta3hPTE04TXg2OVd5RGF5S3pUbjZ3RWlWZFUtZ0F3TWU1MFdpeHhJS2hhMjhRbDg5NGc4eEd4UUVENDRpdlZpYg?oc=5>
+- **特朗普** | 特朗普“直接联系苹果”：得改！ <https://news.google.com/rss/articles/CBMiXkFVX3lxTFBTbmlGYUJVaWNvUXlhOC12Z0hlNWU4QVJFZ3dnWHpTa19lcWhoS1dSblNRR2pKSnJmQ2xhbTZtZmJqanB5MGVpSk04Sk13M1E0Mkl4WmtydVZJclJ0dmc?oc=5>
 
 ### 2026-09-01 15:55  (7 条)
 
