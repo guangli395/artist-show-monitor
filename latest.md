@@ -1,104 +1,130 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-01 06:26**
-- 本轮扫到 10972 条, 新增 **11** 条
+- 最近更新: **2026-09-01 11:53**
+- 本轮扫到 10985 条, 新增 **13** 条
 
 ---
 
-## 本轮新发现 (11 条)
+## 本轮新发现 (13 条)
 
-### 是否排除对伊朗使用核武器？特朗普：真是个愚蠢的问题
+### 多年后再看大哥的女儿，沈佳润新歌质感太惊喜，黄多多深耕话剧
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: mil.ifeng.com
-- 时间: 2026-09-01 01:44
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE02R3VKbzY1TlMyYmFzWnFTbGtRaGJHTlJ3bmdULU5hOHM5Ym81ZW1OcHNYdHc0d2Q1eDBoVzZMQ21QSE9KWTQyNnVOMA?oc=5>
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7002256903_m1a15df60703301lili.html>
 
-### 特朗普表示埃克森美孚准备重返委内瑞拉石油业务
+### 蔡徐坤《Colder》入围WMA微博音乐盛典MV榜单
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: idnfinancials.com
-- 时间: 2026-09-01 05:20
-- 链接: <https://news.google.com/rss/articles/CBMi3wJBVV95cUxNbGxoc0g0SEpscFcxcFBEYU1SVlZlcU1QdTc2ZDZyY1RXa3FySGdzTVhaSHAzdzBfS05PU3FNQ3QtV0FfMUU5ZkMzZnRGVEliRGtyNHFiNWhudUZ0cks4bnR4M0EyajJCeUdTNWNZd210ZWFMdTQteDFNRk1lZzBPTmI2bWhpVlBKT096UnJ6Z29vUkRXYmQzUHBKcG53SDBBWWhLb3FobGRWVlpXamVvZElmWi10aWZIT1ZnQWxEWGUtakM1dVZOUVhEdWlSNnBETm5OZ1IzV1ByRmsyUzhrY3U5amRvakpFNmFUcklwb2ppVllwa3Z0ajRzQnJodmJBY1gyaTk5a2g5cmRxWmJ2Ym03Y3kycWVkRnFsZzIxWndsa2Y3WUJoNXJGVUh2Q0M1dXppS2ZGcFM1YkRma0JqcER2Tk1laXVxMTZKWC1zZXdlZFBQTm9uZHYtRDBxdVk?oc=5>
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923973_m1d5ae1905033029fb4.html>
 
-### 特朗普称美国正在审查对福克兰群岛的立场
+### 蔡徐坤新专辑KUN
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: idnfinancials.com
-- 时间: 2026-09-01 06:00
-- 链接: <https://news.google.com/rss/articles/CBMiuwJBVV95cUxPQzZTWTl3YnBtNmhySkQzV01ubXIxUGVjTWtfTUdCX2V5ZnYxbHozTEMzSkpnS2FPdTdPTmRKaWhiNWxTWkd0TjlPaTc4RXRJYzZDeFdENVBONDd4YnVQeXhQX1JLTzBPZko4WjBfMWM5M251b3VxdE1VNFBmUU01Q3BTdi16TFpkd2lFTFAtQUJ0bC1wWGFjeTljTFlpcjdueHR3dDJZOWJoNTZXZTc2VGYzZ3kwMm8xdHBWRDVjVWpUZklSU3NPTkZueGxndkJKSU1xYnlfUHFmWmYyWUpPaDEtM0xPLTZGMFBXcGIyUElxSlpEaHVFaFdQT0NQYnBoWUs5NVRZaGZTUWJNcXVOUjI0dXpFSFBxaGF6SVRrVDZJQnBpMHFkMy1PMVpCcUNIWHhhUWxzRzRyVTg?oc=5>
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5556631847_m14b33792705302cj5a.html>
 
-### 特朗普也急了：你们这么干，中国要高兴死了
+### 美国官员：特朗普考虑对伊朗进行有限打击
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-09-01 02:58
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5qMkh2LWpfMHV3dGdQX29zQVpSTW9mcGdMbl9ocFlYRjFoSVFlSDhwLTQ5aHdOQVlSS1hQd3lZbmROeDVVT05pdzdFYTZBcmlCLWN6bzhxcHFyOEVuX2ozc3RsNHJTMVNVcUE?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-09-01 04:00
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5zbUtBbkQ1cVhJWmZyYXNEZWxqOVVTb08yV292bGpFaHRxUUN2MTJmR1FlMlMyaTh5RHlOSVZvMFBHNXFKbzJaNlc1VQ?oc=5>
 
-### 美媒：美国陆军部长向特朗普递交辞呈
+### 特朗普否认打伊朗会削弱美国
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: finance.sina.com.cn
+- 时间: 2026-09-01 11:51
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9MUmFUcy1YblBTYXJvTk9zTFpfblg0UTUxZmM5S21fLUo3QjRzR0hVeE1QSm92X21PV3U5QmNHclVtaUh5am1Ka0l0Y05veFI0Vy1xVmJrcTZXVjZmQmlSVU5CMXFCZTc5SmZiN3MxZE5IMklNMUFsWQ?oc=5>
+
+### 特朗普政府将再砍油耗标准：短期松绑换不来底特律复兴
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪汽车
+- 时间: 2026-09-01 10:41
+- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTE9XdUNGWHBTVHZpQVhuQXVVR2IyVUV0aWEwa2JqdEtjdzQ2Z2JybmJ1LWVfNFFESlNHVUxjZFB2cy1nRDJuWWJuc1hjVGMtUWVOc1ZXNFhMRDJmem5kZWQwTW55R3RZbmN1ZlIzZkNn?oc=5>
+
+### 美国最高法院允许特朗普继续修建白宫宴会厅
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: finance.sina.com.cn
+- 时间: 2026-09-01 11:53
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9SRFIycF84VjhFS0NDUGFWd3Fra0U4RE84MENjZDJkQTFhYkluQTJzQVRzYl81ZzZLSjlheWM3LWRnNmpISWsxdERVZkZhYVVhRmZyN21ITWJ2RnNCQlJ0YzQwOGhjTW8xdWRCMjZtWjRSdGN1cW5PbQ?oc=5>
+
+### “重大胜利”，特朗普：真开心
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-09-01 02:02
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1EWk1qb0V1dWNRcThLb0ZNbWJMekZacG5tLW9Fa0p0dFk0dnQtc0VMRHg2NFpuby1MMmYtOF9vOVhvaTV2bTFOSkk4MGwyYjJxMEx3UVNGMUR4MWNzdjV1ejNvOXRicmVNSnc?oc=5>
+
+### 美股最高法院裁定：特朗普可在诉讼进行期间继续建造白宫宴会厅
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-09-01 04:27
-- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxNUGNQTDZ5RVBGMjJKcElyNG0xNGxuZVpUdkd0bnBoc09VNnd3Mkc2WU0zX2VISWRuY0Z5aFhhdEhmZ2d4WW9pM1pBSzZyXzNMNWw1RmdqVWZ1RnZDUlR5TWhrM3Mxa3gyYTdBc09JZWlYVHFQeldBY1hhX2lKX1pMSktjSjFieklqeFk1cG8xQW5PSzd0bDY1M2lGR1d0SVU0?oc=5>
+- 时间: 2026-08-31 21:01
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxPOXBlZmxqZHpuTl9HSWxWaWo0cFFmWGRVTGF6dHFXOGd2QWFQR0F0ekwzdGt1Y3RScGttbDliSnFlejQzUTc3ejAxVXY2OWZGWVdxd2dLOVRNWFJRSDVCY1hCMnIzNXBiRlJPbUxkZ3FTZmtHTFhUMENJNE03dFRLRzg2MENVZ28?oc=5>
 
-### 美媒：美国陆军部长向特朗普递交辞呈
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-08-31 23:39
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VRmlBOTFtUEFVSDRZUlk4OXZ4a1ltV0ttd1gxM2xOdVlVMFNkUWo2U2xBTkJlM1UwZWkyZ3ItNGRwOFVBSEtVYmNOZ0F4MGlFNS1NVk9DcGdieUFFZjFTWHZxS3Q?oc=5>
-
-### 特朗普改名“美国湖”，安大略省省长举牌抗议：他当总统前就这样
+### 特朗普要求苹果地图标注“美国湖”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-09-01 02:54
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE50Vkl1MV81dTlubHhibnZRN1djN1V2cHBSVlE5WlFOSmNOQ0N4c3VPZzRTWHJMcXNGTEU2SXpUTEt6QlVsb2U0alV3U2N4c2oxOWlkOE5vVlB6VTlpaHpZY2luTEl2MWVZdmxURV8xTDFYUQ?oc=5>
+- 场馆: 凤凰网科技
+- 时间: 2026-09-01 04:38
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9GRi1KaHF0eVd5ZkJIS0RIV29sd1AtU1hBckxHTHg5UzcwRkw4MmVucURqUGpzaU56Qno5MF8yenh3WDd4dE9PRWVEbE0?oc=5>
 
-### 回应数据中心“仇恨潮”，特朗普：反对的美国人“最终会落后贫穷”
+### 大外交丨特朗普“密友”戴安斯再度访华，中美近期各领域互动频密
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-09-01 00:06
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5idE5iLUdtRENFQ05KdzJVeVEtUHlYVUQ1THB2N0tyc0JmdGd0VEVlLTUxZ3VwYVZXeUYxTGdCMDA3ajdDQkVaTXduMWVvUXM4VWxB?oc=5>
+- 场馆: thepaper.cn
+- 时间: 2026-09-01 11:08
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zQWRPWXJTTGc2MlJwbUEzWUlpQzNOVXd2VE4wbUY0bEJMTmFaMlFablliTnNNWFE1NGtYSGpiYy1vYWlQcnRPYmhUTVZRQ2VKVDRWN3RiclFYUWJuSmx4NA?oc=5>
 
-### At a White House dinner hosted by Trump on Tuesday, CEOs of major refining companies walked on eggshells.
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 富途牛牛
-- 时间: 2026-08-31 12:45
-- 链接: <https://news.google.com/rss/articles/CBMilgFBVV95cUxQRl9oVHVCLWJnNlNqbUlyY0xzbXEzRFRiTmhvVDFiRkRXT2h1TDVmcEZXbUlUWnBWUWlUODFpSFdIbS1NclZYLWlPd1AwZVg4WEEyVXNhRDl1X0haRGg1TDlBYmZOV3lOc2d1UUJCQ0dVb3hEbURfLTdBaktZcW95WEdMQnRlRWhXY0l0WmZaOWVpa2w1aVE?oc=5>
-
-### 共和党正为中期选举焦虑，特朗普却在致力打造“政治遗产”
+### 市场传闻：ExxonMobil将进军委内瑞拉业务，特朗普表示
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-09-01 04:57
-- 链接: <https://news.google.com/rss/articles/CBMirgFBVV95cUxPMWtiRFBwOG94R1ZobGtPSUNBSzBYSWhsNkZzNDdwSzNyUVdPVHpoV2hHblFnOWc3OFFycU5Fd0VUQ0FsZkxvVng4TUppcEF5NThLSEFSUVJIS2R4VlNoZDg4WFprTzM0bEdLR2hsandFUnJyQjRMR0ltcEJ2VmMxclRTUE5DTF82LWJsXzRhX1M2TzdHTjZKbkxTZDREZV9oWDdxY29kNVJEUjlDQ0E?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-09-01 10:31
+- 链接: <https://news.google.com/rss/articles/CBMitwFBVV95cUxOOEVBNkl0M0hDWlJUaVc5TGNfZlRHR0VzVEZxUS1LX085TU13d090WUNSZWxmYmJSckZQeFp3SXJOZHdNZE53cU5CZk9vbnRzU0VFSFRkdnh1RVB6dHppTXFDZmVaYzNpLTJ1MXNtaWhVRFU5bmcxb2RwM1UxSU9WSVJZM3NLVU1RemUwU0haXzMwUkZ3cUVQNmRuenl0VmZSUFFDNGdJSUxCcTV5SFNxQVlGeFh1alE?oc=5>
 
-### 【聚焦美国】特朗普宣布近期暂停对30万吨进口牛肉征收关税
+### 据报道，特朗普 Jr 旗下公司领投 Polymarket 10亿美元融资，估值达210亿美元
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: SBS
-- 时间: 2026-09-01 03:56
-- 链接: <https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdlpLZGN3U1hWRi10cXBBZk5XalBxMkhVYkIwN01sdVMyTVVoeVdPZWRBMlMweDRQTlhGd0RWakg0Ny1IdFhxYUhWYU1SWHJvejUtdG1yTmtXMzEwRWo1X2tSTlZ0YkV6dE1PcGJDQkJtOHhJYnRVdzB3aXNBOXlLb0l2d0FEMlQ0bDhKcE9tcjZ3TXRNNE03MDd1NGhiZFZINUp2SlhNSGFGNW1EUVYxbW1KeXpZM2VlRTNKV1JoT3ozZ3NhLVR5cFpMOS1iYUN1ZnVQMVZVdUhhZHRTUzQ2dWh2cEliczl2cU11Qg?oc=5>
+- 场馆: CoinDesk
+- 时间: 2026-09-01 04:19
+- 链接: <https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcmVlbml1dmRqdU1DNzRXQkhTYUNNcWpTQmNxWjJ6REFEb3hWWkVCQTBic0kya090YnVyNjRVMFVGTk1wVkNjTWp4Rjg5ZHd6MFh0ZWkxRDA0THNTWGQzSllub01UeHNKT0Iwd0ZRU1hScWpyVU91TmJ6NFpHLWhBd3pRVm40M3RPZ0JZZUF4OHNPc2Ita1FnRUIzRFAxU0l4UEU0eVVsQjhaaFlZekNVZTRBbkZIWFpuNUs2OVdlNFRoRkcyNWdmZA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-01 11:53  (13 条)
+
+- **王一博** | 多年后再看大哥的女儿，沈佳润新歌质感太惊喜，黄多多深耕话剧 <https://k.sina.com.cn/article_7002256903_m1a15df60703301lili.html>
+- **蔡徐坤** | 蔡徐坤《Colder》入围WMA微博音乐盛典MV榜单 <https://k.sina.com.cn/article_7879923973_m1d5ae1905033029fb4.html>
+- **蔡徐坤** | 蔡徐坤新专辑KUN <https://k.sina.com.cn/article_5556631847_m14b33792705302cj5a.html>
+- **特朗普** | 美国官员：特朗普考虑对伊朗进行有限打击 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5zbUtBbkQ1cVhJWmZyYXNEZWxqOVVTb08yV292bGpFaHRxUUN2MTJmR1FlMlMyaTh5RHlOSVZvMFBHNXFKbzJaNlc1VQ?oc=5>
+- **特朗普** | 特朗普否认打伊朗会削弱美国 <https://news.google.com/rss/articles/CBMieEFVX3lxTE9MUmFUcy1YblBTYXJvTk9zTFpfblg0UTUxZmM5S21fLUo3QjRzR0hVeE1QSm92X21PV3U5QmNHclVtaUh5am1Ka0l0Y05veFI0Vy1xVmJrcTZXVjZmQmlSVU5CMXFCZTc5SmZiN3MxZE5IMklNMUFsWQ?oc=5>
+- **特朗普** | 特朗普政府将再砍油耗标准：短期松绑换不来底特律复兴 <https://news.google.com/rss/articles/CBMibkFVX3lxTE9XdUNGWHBTVHZpQVhuQXVVR2IyVUV0aWEwa2JqdEtjdzQ2Z2JybmJ1LWVfNFFESlNHVUxjZFB2cy1nRDJuWWJuc1hjVGMtUWVOc1ZXNFhMRDJmem5kZWQwTW55R3RZbmN1ZlIzZkNn?oc=5>
+- **特朗普** | 美国最高法院允许特朗普继续修建白宫宴会厅 <https://news.google.com/rss/articles/CBMieEFVX3lxTE9SRFIycF84VjhFS0NDUGFWd3Fra0U4RE84MENjZDJkQTFhYkluQTJzQVRzYl81ZzZLSjlheWM3LWRnNmpISWsxdERVZkZhYVVhRmZyN21ITWJ2RnNCQlJ0YzQwOGhjTW8xdWRCMjZtWjRSdGN1cW5PbQ?oc=5>
+- **特朗普** | “重大胜利”，特朗普：真开心 <https://news.google.com/rss/articles/CBMiakFVX3lxTE1EWk1qb0V1dWNRcThLb0ZNbWJMekZacG5tLW9Fa0p0dFk0dnQtc0VMRHg2NFpuby1MMmYtOF9vOVhvaTV2bTFOSkk4MGwyYjJxMEx3UVNGMUR4MWNzdjV1ejNvOXRicmVNSnc?oc=5>
+- **特朗普** | 美股最高法院裁定：特朗普可在诉讼进行期间继续建造白宫宴会厅 <https://news.google.com/rss/articles/CBMihwFBVV95cUxPOXBlZmxqZHpuTl9HSWxWaWo0cFFmWGRVTGF6dHFXOGd2QWFQR0F0ekwzdGt1Y3RScGttbDliSnFlejQzUTc3ejAxVXY2OWZGWVdxd2dLOVRNWFJRSDVCY1hCMnIzNXBiRlJPbUxkZ3FTZmtHTFhUMENJNE03dFRLRzg2MENVZ28?oc=5>
+- **特朗普** | 特朗普要求苹果地图标注“美国湖” <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9GRi1KaHF0eVd5ZkJIS0RIV29sd1AtU1hBckxHTHg5UzcwRkw4MmVucURqUGpzaU56Qno5MF8yenh3WDd4dE9PRWVEbE0?oc=5>
+- **特朗普** | 大外交丨特朗普“密友”戴安斯再度访华，中美近期各领域互动频密 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zQWRPWXJTTGc2MlJwbUEzWUlpQzNOVXd2VE4wbUY0bEJMTmFaMlFablliTnNNWFE1NGtYSGpiYy1vYWlQcnRPYmhUTVZRQ2VKVDRWN3RiclFYUWJuSmx4NA?oc=5>
+- **Trump** | 市场传闻：ExxonMobil将进军委内瑞拉业务，特朗普表示 <https://news.google.com/rss/articles/CBMitwFBVV95cUxOOEVBNkl0M0hDWlJUaVc5TGNfZlRHR0VzVEZxUS1LX085TU13d090WUNSZWxmYmJSckZQeFp3SXJOZHdNZE53cU5CZk9vbnRzU0VFSFRkdnh1RVB6dHppTXFDZmVaYzNpLTJ1MXNtaWhVRFU5bmcxb2RwM1UxSU9WSVJZM3NLVU1RemUwU0haXzMwUkZ3cUVQNmRuenl0VmZSUFFDNGdJSUxCcTV5SFNxQVlGeFh1alE?oc=5>
+- **Trump** | 据报道，特朗普 Jr 旗下公司领投 Polymarket 10亿美元融资，估值达210亿美元 <https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcmVlbml1dmRqdU1DNzRXQkhTYUNNcWpTQmNxWjJ6REFEb3hWWkVCQTBic0kya090YnVyNjRVMFVGTk1wVkNjTWp4Rjg5ZHd6MFh0ZWkxRDA0THNTWGQzSllub01UeHNKT0Iwd0ZRU1hScWpyVU91TmJ6NFpHLWhBd3pRVm40M3RPZ0JZZUF4OHNPc2Ita1FnRUIzRFAxU0l4UEU0eVVsQjhaaFlZekNVZTRBbkZIWFpuNUs2OVdlNFRoRkcyNWdmZA?oc=5>
 
 ### 2026-09-01 06:26  (11 条)
 
