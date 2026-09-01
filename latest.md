@@ -1,112 +1,91 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-08-31 21:58**
-- 本轮扫到 10953 条, 新增 **12** 条
+- 最近更新: **2026-09-01 01:03**
+- 本轮扫到 10961 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (12 条)
+## 本轮新发现 (8 条)
 
-### 为中期选举过关 特朗普将会见石油公司高管
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-08-31 20:30
-- 链接: <https://news.google.com/rss/articles/CBMixAJBVV95cUxPTjF3ZDBwUEJJd3lvWkd4TE1HdTgwR0trRnJMRHl1V2FVeWc5d1BWMGRTMUZaV2JwcGdUS3EyaEV0VnhJX2dheWsydDcxdE5TYWVMYjZXZll2dG1rYmRZczJDX3FCOHBqOHRSY1J3a3ozNTN4TmgxZHcyanlFeGNEc3Jqc0wxQnNpMVFuSzctaUpocVFVTGNzOXQ2NlRoOW9qUUgxb2JLS2M2Z0hYay1LU2x6eXNTOFlwaVY1UFJDYUVkcjRvZWpjd1dCQldaeENOWTk1YkdhWktMV05XLVZkdHJWYlk4X1YtbnVaeVdaa0VvcUtEbUhIQ1E5dXNldmlsVlFITk54Z2FxZTY4V2JJcV90R1lwLWsyeTdhS2U4NTl0Tl9WeUJrUXZKeUxGWDRtdS1fTDlaT3FTZ3RwcDlLRGZxM3g?oc=5>
-
-### 特朗普净支持率深陷负区间，但真正决定共和党命运的是这群摇摆选民
+### 美陆军部长被曝已向特朗普递交辞呈
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-08-31 10:50
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9BenFkMXZ3djU1eDlyN0ZXWkpINkxFeWRjQXNGYVBJUVMxYUtudGo5Mk1BQi1WX2lUVUdHV2RNNko0M2lLTlBJMi02R1MtSDJTbThaLXg4a1hsbnN0MjlrS3pzbEV3UXN2RGFVa3F2V2tWbU1zTDdnRQ?oc=5>
+- 场馆: 中国日报网
+- 时间: 2026-08-31 23:58
+- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTE5FOGpZajZxRGQ2TS1hc3h2NHVPRUFwZ1Z3SDMwZGg3djF6b1JxQy12RV95NjExcThyS0h4TGI1TVpSczQ1elZuNFRNSExqVzNtNGt2ZV9IS19UekV6QzZxeFd2S3duM3Y5MmFtNnRaT1lnZWw5Z0VjRHdjNA?oc=5>
 
-### 美股最高法院裁定：特朗普可在诉讼进行期间继续建造白宫宴会厅
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-08-31 21:01
-- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxQLUpha3JQRU9waUdNbWdHb3RxNmw0VTVkQm1vaHpILWlHd2xzWUxsVGd4a1p0WEw4cXJybHhlYzNpNU1ZVVQ1SkJZcUNfZVFYNGE2QXozVi16WW4zdkhnT0Z3dVJGQzlGQmJSN0ROaWowTFlrbVpjUTVFbmdURzN2Ulk0R1hNYkRfY3BTcHZ1TzJ6ME9BaHFQeUNVejc?oc=5>
-
-### 特朗普与九家中型制药商达成新药品定价协议
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-08-31 21:06
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxQS0JTWjlBU0p1Q0l6VkZrTXh5bVpPRU4yd2pSbUVKbHRPQVVJcGcyTFFZV0JTc2VWazMwcVA0N1VfTDJUY1paSFljTEdOM215a0ZBcWdRY2tzOVNfNklkbFdsSDFvVUluM0F6WFhWSmxLSy1DZFJxWmxuUy1NSFBmbUU1aVRqQlk?oc=5>
-
-### 特朗普狂言：伊朗已死
+### 特朗普回应“赫格塞思或参选总统”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 观察者网
-- 时间: 2026-08-31 12:53
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1UV2pMR2JmYVFodFJOazJmYTBrOURieDR1NzJpb2tWbzVOdDNZUDJCQW5uUmlsV2RHeUdiNWtPaEFIT1RyU2Uwa3k1UWJBQVVuY0EzMVBxNTdLVXA4aFhPVFBOZTBJYmJBYXc?oc=5>
+- 时间: 2026-08-31 22:44
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5aZHFiSTdfUEJSc3l4OU03VEZEWXNCY0tVWjR0anEtMzZpWFhHNXQ0MEpTeU1UcUcxZ1FTNVJ5Yi1aMTlpUXVoempWUTFWNndCT0RIYWc5aWZMVkVlZ3pkQ3FQTUxVdFZTQWc?oc=5>
 
-### 特朗普再度公开点名韩国，称会记住韩国在伊朗问题上没帮美国
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-08-31 10:58
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE5qZFVoRzEwdFBzbkwweUtDckxMcHNQT0ppQzFBaUNiTDBHRGFqalFmbGR3VXAxQzBZRTJraUlzT1JmWjBVOXBTVE1HZ2UxRldtSlFhX2Nla1pFWW15MmtzamNFSHNESTRuMzhsQ0p5dkNSeEtPaFE?oc=5>
-
-### 你改我也改，加拿大首都计划改掉“特朗普大道”街名
+### 俄罗斯财长重返线下G20 特朗普未排除邀普京出席G20领导人峰会
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-08-30 15:56
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE1oZVI2Z3RDSU9KTmRLM0JsdjRXd0REUmlzX0xlZENrZVpIcGt1eFBtRDFnMjlWRnZuNTI0SXE2dDlTVkgyYlZNaFluVWhZazhmclF3YXN1SVVEOGdBNUYwenpTOFowcWFMeXUwVHVjUXJvOHBn?oc=5>
+- 场馆: Caixin Global
+- 时间: 2026-08-31 23:29
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFB0M3RXM0Z1MzFsYXlraVRZeW1GY2Q4YzhqanpmbkJtU3VQb1R0NG1ZZVNOb3p1cUdqcGNjUHR1alloOTBWajV4MnJUdU1PRGlPVEQ2SDVvSUhLQWRzdG81eWJUdUx6YjJ0WXc?oc=5>
 
-### 特朗普攻击媒体“不实报道” 要求通信委员会调查
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-08-31 12:46
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5mLTdmRlU5RkFVbkdqeFlURFZtU3VWZTVPWFpUV1RBOEtuMGM0ZDJZanI2YVlQNkNtaVJVMWV6NjhUajZkMGw2Q0cyTm1NaWFkejdROGtuanpLbWdlVUZBTkpaNUVjUQ?oc=5>
-
-### 特朗普暗示可能制裁与伊朗保持业务往来的中资银行 外交部回应
+### 特朗普在加拿大的实名认证地标要没了 加美关税战升级
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-08-28 07:41
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6TDJYZGJuTUFvUXdZT1pndnVEYlZnOWVCTzhmWGpMNm8tRG15N3N3ZE9xTXcyRkM0c1FSdk9nQU9lelVjd0pzbmRQcFcxWFc4TXRXc210OXdoVC0wOEdrNg?oc=5>
+- 场馆: 中华军事
+- 时间: 2026-08-31 23:25
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBlakl5RHI5WUVRY2VGVGhtTWhvTVBKTndrRmxwZU5kLWRNTHl2ODdHTzIzbVFJWHJTQll5bWpzdXk1VFRqY3N3RkxyZzRRRjc0cXNNQWFfR1VRN2U3NndxcXFreFRGNTYzWXhKSXNwTTU?oc=5>
 
-### 美国拟建首所太空学院 培养人才维持太空领先地位
+### 特朗普承诺对加拿大公司免征关税,但有一个前提
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-08-29 00:38
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9HcEJ2X3lMLVdmSVJJLUhhamJ4M0RsZ2VQSV9JRkVNVnAzRV84MnZrQUJtdnNFYWtUQVpaUC1maUctZnNHakUycnQtT1pvQzJ5N1laOTkwbzhYM1Z5eElIZFhEUkhtdw?oc=5>
+- 场馆: 文学城
+- 时间: 2026-08-31 02:54
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYNXU5WHdFRlBhTTE4a2thS0tTaTlNdUFyNlVDU1ZUeW9VQmJxV3pGNjBkbm8wUi1SZXFVVkRLRTRVLTRjbzZJNVBmd3U5dzA2S3M3b1NrUnNKaXk1cHhzMWk2dEJGNFhU?oc=5>
 
-### 要闻分析 - 霍尔木兹海峡：美国军事金融双施压逼伊朗重回谈判桌
+### 美防长被爆考虑参加2028年总统竞选 特朗普最新回应
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: chinanews.com.cn
+- 时间: 2026-08-31 22:45
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pa1BCUzZjYkVodTJZUWdVUDRYc2FjQldhZUVJTzlpZ1prUEVjS0JUZHFjRXB5MUp6eG54NUpTeXFNQ0I5MEMyLVE3M0M2MDN3VGRxbVktMnM2Y0I1NmpMVVN4eGdydjVB?oc=5>
+
+### Trump紧急召集炼油业界……施压下调汽油价格- 阿视亚经济
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-08-31 20:24
-- 链接: <https://news.google.com/rss/articles/CBMivgNBVV95cUxPT3lROHFmYVNhdkFlUG9HelpzSWdGY01HY3pnM1hWWV94SlY3S1F2SWU0aktBejNjM3NIYVJlVHdjZXpMUzBla2ZyQzVNd0QzQkVZY1lBLUg0Y1JiZFhYWUxESHpUeTk1WWJWT3lZcWh5V3ZHWXdUbmtHOEJxYndwaGFxQzNRVDRBWUlPSFdsSVcweGxnakpqYmYzZWF3SEFZYmtHcWxBYzBxdHY3MWxoMms2R05XLWZOVmk3V3B1aW9vLXpYUHVZQzY1R19udVplOFFsdHF1a1Rwb1RnV2FjUkVYRzQ2dW52b1ZWUTdwRDRlcElnbk16bW92TDNwNU5QZ3pMc3pWbGt4cl9jZklhRThTbGhhNS1kODlPdV9LNUIwckQ0M0ttbnotckI3NFo5WU1yOGJZX1dNR0FiWllUTVNzWEdXLXJzemFtWmx2MWRZM0szVkhIaUZoTkZ6aFdfVHpGZUlHeXYxbVFNNnE5VzJ4UWdsSnFRTDhKSXgxejM0ZFBDVkVRMTZwajRFMmR5dU1TQmI1Mjh6QUdGTWotLUVzZ3JiQnZQSDlFYU1QZWIybGV6R3hlR3c0aEp5dw?oc=5>
+- 场馆: 아시아경제
+- 时间: 2026-08-31 21:31
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RYVBpOWl0WTBJQ3d4cG96TmVWa2RxYXhEVFoydmpHakxMMHBXb2JRV0xoY1JyczRCa0pvazVhOXoxTGFMSnhzR0w0YnJjNnpEZ3hueWl6dW5OTUpETlhEdTNVQjQ?oc=5>
 
-### 特朗普称美国反对数据中心“中国会很高兴”
+### Trump：“反对数据中心就会变穷”……美国人工智能业投入5000万美元打舆论战- 阿视亚经济
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-08-31 19:14
-- 链接: <https://news.google.com/rss/articles/CBMiuAJBVV95cUxNaVd3T0w5UFVPTTQ5LUVFMl9WcVNHVnI0SVROeG9VVEl2UUx4cFF1WXJYTDJIM1MwUmtmR2N1MWQwd2UyOG9oQWVQcGUycGxyWmZFVzRselotbjFXaUZObVYwNFo5YXJ4NVFpUjZtZkhSVjJfM1lWenN4NmFIbEFxdURCcVl1UFUxODJtM0U3X1NnZzIzTWdEOHVCOU9GRkxKazNScE45bUUtUkVZbkFYRldtM09qQ2RFZnBKTzdNczN1RExnNHJvTGhvLVpkWURpY0ViY092Y19WNWZEV3hVd0RZdnc0STN4TEp6OEZ5SWhhY1lsdUhlUW1iNVZ3S1FKQVQwM3paUENlOEl0X0hMQ1poYk1DbFctc0pZLW00U0pGcHBpTDZNSGFhbkpSdEc1RVRzdGxEMDQ?oc=5>
+- 场馆: 아시아경제
+- 时间: 2026-08-31 18:42
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1qdEtfck9aR1czeG81Qm5vMGMwWENGZ005T3FjVjFaQTBCb29hc3BOY3ZnbDR5WVFOSVEtcnFvQVpGemNiX25nYzhieDg3X0ROQXRDQXRNb2d6anRFdEtweXR1bFY?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-01 01:03  (8 条)
+
+- **特朗普** | 美陆军部长被曝已向特朗普递交辞呈 <https://news.google.com/rss/articles/CBMie0FVX3lxTE5FOGpZajZxRGQ2TS1hc3h2NHVPRUFwZ1Z3SDMwZGg3djF6b1JxQy12RV95NjExcThyS0h4TGI1TVpSczQ1elZuNFRNSExqVzNtNGt2ZV9IS19UekV6QzZxeFd2S3duM3Y5MmFtNnRaT1lnZWw5Z0VjRHdjNA?oc=5>
+- **特朗普** | 特朗普回应“赫格塞思或参选总统” <https://news.google.com/rss/articles/CBMiakFVX3lxTE5aZHFiSTdfUEJSc3l4OU03VEZEWXNCY0tVWjR0anEtMzZpWFhHNXQ0MEpTeU1UcUcxZ1FTNVJ5Yi1aMTlpUXVoempWUTFWNndCT0RIYWc5aWZMVkVlZ3pkQ3FQTUxVdFZTQWc?oc=5>
+- **特朗普** | 俄罗斯财长重返线下G20 特朗普未排除邀普京出席G20领导人峰会 <https://news.google.com/rss/articles/CBMiakFVX3lxTFB0M3RXM0Z1MzFsYXlraVRZeW1GY2Q4YzhqanpmbkJtU3VQb1R0NG1ZZVNOb3p1cUdqcGNjUHR1alloOTBWajV4MnJUdU1PRGlPVEQ2SDVvSUhLQWRzdG81eWJUdUx6YjJ0WXc?oc=5>
+- **特朗普** | 特朗普在加拿大的实名认证地标要没了 加美关税战升级 <https://news.google.com/rss/articles/CBMicEFVX3lxTFBlakl5RHI5WUVRY2VGVGhtTWhvTVBKTndrRmxwZU5kLWRNTHl2ODdHTzIzbVFJWHJTQll5bWpzdXk1VFRqY3N3RkxyZzRRRjc0cXNNQWFfR1VRN2U3NndxcXFreFRGNTYzWXhKSXNwTTU?oc=5>
+- **特朗普** | 特朗普承诺对加拿大公司免征关税,但有一个前提 <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYNXU5WHdFRlBhTTE4a2thS0tTaTlNdUFyNlVDU1ZUeW9VQmJxV3pGNjBkbm8wUi1SZXFVVkRLRTRVLTRjbzZJNVBmd3U5dzA2S3M3b1NrUnNKaXk1cHhzMWk2dEJGNFhU?oc=5>
+- **特朗普** | 美防长被爆考虑参加2028年总统竞选 特朗普最新回应 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pa1BCUzZjYkVodTJZUWdVUDRYc2FjQldhZUVJTzlpZ1prUEVjS0JUZHFjRXB5MUp6eG54NUpTeXFNQ0I5MEMyLVE3M0M2MDN3VGRxbVktMnM2Y0I1NmpMVVN4eGdydjVB?oc=5>
+- **Trump** | Trump紧急召集炼油业界……施压下调汽油价格- 阿视亚经济 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RYVBpOWl0WTBJQ3d4cG96TmVWa2RxYXhEVFoydmpHakxMMHBXb2JRV0xoY1JyczRCa0pvazVhOXoxTGFMSnhzR0w0YnJjNnpEZ3hueWl6dW5OTUpETlhEdTNVQjQ?oc=5>
+- **Trump** | Trump：“反对数据中心就会变穷”……美国人工智能业投入5000万美元打舆论战- 阿视亚经济 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1qdEtfck9aR1czeG81Qm5vMGMwWENGZ005T3FjVjFaQTBCb29hc3BOY3ZnbDR5WVFOSVEtcnFvQVpGemNiX25nYzhieDg3X0ROQXRDQXRNb2d6anRFdEtweXR1bFY?oc=5>
 
 ### 2026-08-31 21:58  (12 条)
 
