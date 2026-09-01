@@ -1,64 +1,82 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-01 21:53**
-- 本轮扫到 11003 条, 新增 **6** 条
+- 最近更新: **2026-09-01 23:43**
+- 本轮扫到 11010 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (7 条)
 
-### 白宫公布委内瑞拉石油协议细节
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-09-01 20:53
-- 链接: <https://news.google.com/rss/articles/CBMikwFBVV95cUxQaW5BWEgyY1U0bUpNUTRSdEtVRzRGYWlrNlFleGVBWFR5ZkxjVjZySVN0cnBMb2RzdVhzOElTbDdpbmNwcFN3ZlZ5T2ZROFV6WW5jWFp4dTV3QWhZdEhUNF96eGhVYXIxMFBzdUlSRDBhTGxxeHJkRmFSMVVUV203XzhZR1pMZTVrejN5eDdKYlNnNG_SAZYBQVVfeXFMTm5OMHlKOGI4VTVDMW1MTFcxekRtREpLZkRnOWxKa2R4V2NnUGdQd2VMcDMzVmhveGVXVFZHVVVkc2NzWnN5YzRUYVdJMnBIM0xRbHlQVVZPOXhTb0JRa3o4bkdWNWhhS0ZQb25iLUIzZWRJSGo5N19sQlJqMDRqT0hWRmpnNXpvQzJxd09MYURzYktHX1ln?oc=5>
-
-### 特朗普“密友”戴安斯再度访华，中美近期各领域互动频密
+### 美国人都看傻眼了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-09-01 12:51
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5CMC1ybndoVTNlVWs1OXpKaUtiZDFnQ1hTcDN0YlNaWmtFMk5ncVkySElQTzZMeGM5d0xCVEZHOGhNeDR5dzBVVGd6eWk0Y3BsWXBVWndHM2JjcTRDUk5uenBSdGZHd0o0bkU2eFRvNlZUUXMwckJ5RQ?oc=5>
+- 时间: 2026-09-01 02:57
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1OWEt4NUtfSTlkekxfWnBkZXNpZXVmM3VYZHNpODhpdWRBZk5HdWprcVY5NGtLRzFhRzdLSFhsTklUUDlfOW1lemRuR3U4NmtYbVVhaTBSWmRoZllMbFl4c3llUFpWYVp2ekt6LVJKQmViNDlMcjZBVA?oc=5>
 
-### “如果艾森豪威尔泉下有知，看到特朗普的对伊政策，恐怕棺材板都压不住了”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-09-01 12:52
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1TUWhWX3JfMkV5YTA4VkdMb1g4Vzdiam9sZUp2cmNlTHBBUDhBZ0JSMjhYWk5vR0xrTjZiaTR6SzJVWGZIcW1sQUtXMTdYWTljb1YzeGNmeGt6ZUJSNjRESzlGWkJWalpFUkE?oc=5>
-
-### 事关马岛，特朗普首次公开表态
+### 裁决出炉，白宫宴会厅改造项目获准继续推进，特朗普公开叫好
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-09-01 09:59
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9UeFZDVVF0cGpwT1dRdDJlLTZhYV9tZDFaUmQ5NENHV1NDR1lYRS1lSzYzcEVHdm1KSW92SWZIYVFmaWgxOFBBem01bzA?oc=5>
+- 场馆: 环球网
+- 时间: 2026-09-01 07:55
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vT0tMRmRObkN6c2gtQ2gyUjVMYnQxc2hBX3NBNmdiMDFqY1A3OXk3OUo3cHZVT1Raakd4T09HNW93aVNLc2RZV09KSERfWlJRT1ZuMl9JN2s?oc=5>
 
-### 特朗普首次公开表态：美国正重新审视马岛主权立场
+### 特朗普提名高雄出任下一任美国海军部长
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-09-01 11:28
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1xSHB4TWpPZHVCQ18wVVVWQ0ZPNlJrYkI4U1owVHRZMV93d0dwb0VDUURNSzNCenZHQVVsQlFJdVhpT2hpQ01PWlY2T1VENHFWN0pXbDh0czhueXRSNzRaTUtBNjVQT3Bj?oc=5>
+- 场馆: news.sina.com.cn
+- 时间: 2026-09-01 23:41
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9SNkViVVZqQjhKRkRwMTZ1ZGlYVkhHSnJKUFdIS0IyVTd2SWdaWTlLa0RGY1NMdHBpMzBnSWt0aFY0aVpyMV9WRFNRQkJLTG44TjB6MVBwSDV5bF90eTlSRngtaE80Z0ZHMUZGWUJCYVU?oc=5>
 
-### 分析：特朗普的支持率已经下滑到了临界点，主要原因还是伊朗战争
+### 特朗普支持率维持在33%，民主党对中期选举更加热情
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 加美财经
+- 场馆: IDNFinancials
+- 时间: 2026-09-01 23:00
+- 链接: <https://news.google.com/rss/articles/CBMi1gJBVV95cUxQVFp6aTZGb0l6U3VDUDdGUjhoXzZxUHhxRHh1YkVPcHVSZFdNenRvdXN3cGRBS1BzUFMyc3lwZTRGY3F6TEw0MUVGQThCQXRsNE5CdlMxYUlSUktLdHp5QlVkclJXODFDMFJhLVNKZXN1ZldvVHhWNV95UzNKbTRCWGV1M0dHOEI4MlFHZ1lDUEN3TDYzN1I1UG4tdG1FVFl4bGdPNnhYdWQxLTRLZ1I5Y2ptSjA4U1RZamJLNUJfT05YcG1feU1YT3BIMGVfWWNWcnlZQUtaMkVtNFpLUTBBYVoxeXFyYmxZVzlqb2NMcldmRzFuT0tOX3dxRkN0T3FkVFhPMV96ZTZoNFRpSTNWeXdLTDFYNFYzdmVvVU94OFBkY1lCWW95bmVhNFZEUlhhUFhHOFQ1ZG5ad1FBRTZwT1lvSXdPRGZJdzdRRkpIOXA4LWFQZGc?oc=5>
+
+### 普京向习近平提议：11月举行有特朗普参加的三方会晤
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-09-01 21:13
+- 链接: <https://news.google.com/rss/articles/CBMi6wJBVV95cUxQQ1U3ejdnUkFjdGtuU0lmSG41b1M3Rk1rOUZaZUd6Vm94T1Q1ejZiNFVXRnFsR21JVjhKc2VQMVNxWF8zSzM2NEtrVFBWUmx0aUlkWVhLanR4QlFNSktfTkFndXZZSnlSSFo1RTdLYmh5TmxZZnNqMlNsRGN6c2p4bVlpS3JOMzhDQ2ZwVE1kVDREc25TWFYzajM3U2dvZUlIQXZHcVB6R0hLejZPOXpYSjlOM0RzZWUyUVVUWE9FNmlDQVR1MUJ4cWdYQ1N6X25pSE1hcUNHaWctVXE5WVdycWVqdTcxTUZRV0V5eTVmTVJ5bEJTYU5ic25GX1FZek40Z0tjNUUwQ2xONFluYzNWMU5wUEZNM2ZPZzg0dzBrblhTeXlWdEVGTi1Jem91V0UyNzFnenlzWW01Wl8ydm1kQURKVWpmWW5RYkdvX004ai1zdkljYUdKSDhBNXhjVlljdE5PNTBVT2J2YUk?oc=5>
+
+### VOA今日焦点 (2026年9月2日) 美军对伊朗发动新打击 特朗普总统警告伊朗勿报复
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
 - 时间: 2026-09-01 21:48
-- 链接: <https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqUW9kRVh0TnQ1OXVVX2lXZ1FQdEVlM3VpaDhvM3NDX25EV0JZQTZOSEFmcGdaVVF4MWtiVG1pVTR6RGNhOE1OZnNYR2lRY0FNRXY0U3BoQUpqUQ?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTFBQY3FSSTFKRUhVVVlXZ0VwcGt5UXhRY3VLVWRJWjU4eVJmeHBPTFl5OTVMakg1RkJ6bVNuV0owcDFLUUdxTE8wanhSTHVULXdCbkpCSnBQamQxX1VHQ0IwSTRuUjhXbE5PRHZr0gFuQVVfeXFMTW5GWjJ6Uk5kREcyWjZaaEhCVUxKcUxyNkVzSmlqS3NKVjgwTmxYWi1VYlNZaGlOZXZCLWpMbDd4RGMwN1ZqWFh0Qk16MGRPS1QzS0xEZkRWVll6aC1jTFQtdXpOZnltc2FwSEd4OXc?oc=5>
+
+### 三天内第二轮袭击 特朗普威胁伊朗终极打击蓄势待发 伊方誓言报复
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 环球网
+- 时间: 2026-09-01 08:13
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE16ZFJuSDZrazhfV1lXZXhBbWJIVF9BZUlwNXJwSnkxYWhCTHVadk52SGVqMEhicTJQYk5WSlN2d08wejBsS1ZxdTVJRmlIeDQ0emJuZTNqeEw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-01 23:43  (7 条)
+
+- **特朗普** | 美国人都看傻眼了 <https://news.google.com/rss/articles/CBMieEFVX3lxTE1OWEt4NUtfSTlkekxfWnBkZXNpZXVmM3VYZHNpODhpdWRBZk5HdWprcVY5NGtLRzFhRzdLSFhsTklUUDlfOW1lemRuR3U4NmtYbVVhaTBSWmRoZllMbFl4c3llUFpWYVp2ekt6LVJKQmViNDlMcjZBVA?oc=5>
+- **特朗普** | 裁决出炉，白宫宴会厅改造项目获准继续推进，特朗普公开叫好 <https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vT0tMRmRObkN6c2gtQ2gyUjVMYnQxc2hBX3NBNmdiMDFqY1A3OXk3OUo3cHZVT1Raakd4T09HNW93aVNLc2RZV09KSERfWlJRT1ZuMl9JN2s?oc=5>
+- **特朗普** | 特朗普提名高雄出任下一任美国海军部长 <https://news.google.com/rss/articles/CBMicEFVX3lxTE9SNkViVVZqQjhKRkRwMTZ1ZGlYVkhHSnJKUFdIS0IyVTd2SWdaWTlLa0RGY1NMdHBpMzBnSWt0aFY0aVpyMV9WRFNRQkJLTG44TjB6MVBwSDV5bF90eTlSRngtaE80Z0ZHMUZGWUJCYVU?oc=5>
+- **特朗普** | 特朗普支持率维持在33%，民主党对中期选举更加热情 <https://news.google.com/rss/articles/CBMi1gJBVV95cUxQVFp6aTZGb0l6U3VDUDdGUjhoXzZxUHhxRHh1YkVPcHVSZFdNenRvdXN3cGRBS1BzUFMyc3lwZTRGY3F6TEw0MUVGQThCQXRsNE5CdlMxYUlSUktLdHp5QlVkclJXODFDMFJhLVNKZXN1ZldvVHhWNV95UzNKbTRCWGV1M0dHOEI4MlFHZ1lDUEN3TDYzN1I1UG4tdG1FVFl4bGdPNnhYdWQxLTRLZ1I5Y2ptSjA4U1RZamJLNUJfT05YcG1feU1YT3BIMGVfWWNWcnlZQUtaMkVtNFpLUTBBYVoxeXFyYmxZVzlqb2NMcldmRzFuT0tOX3dxRkN0T3FkVFhPMV96ZTZoNFRpSTNWeXdLTDFYNFYzdmVvVU94OFBkY1lCWW95bmVhNFZEUlhhUFhHOFQ1ZG5ad1FBRTZwT1lvSXdPRGZJdzdRRkpIOXA4LWFQZGc?oc=5>
+- **特朗普** | 普京向习近平提议：11月举行有特朗普参加的三方会晤 <https://news.google.com/rss/articles/CBMi6wJBVV95cUxQQ1U3ejdnUkFjdGtuU0lmSG41b1M3Rk1rOUZaZUd6Vm94T1Q1ejZiNFVXRnFsR21JVjhKc2VQMVNxWF8zSzM2NEtrVFBWUmx0aUlkWVhLanR4QlFNSktfTkFndXZZSnlSSFo1RTdLYmh5TmxZZnNqMlNsRGN6c2p4bVlpS3JOMzhDQ2ZwVE1kVDREc25TWFYzajM3U2dvZUlIQXZHcVB6R0hLejZPOXpYSjlOM0RzZWUyUVVUWE9FNmlDQVR1MUJ4cWdYQ1N6X25pSE1hcUNHaWctVXE5WVdycWVqdTcxTUZRV0V5eTVmTVJ5bEJTYU5ic25GX1FZek40Z0tjNUUwQ2xONFluYzNWMU5wUEZNM2ZPZzg0dzBrblhTeXlWdEVGTi1Jem91V0UyNzFnenlzWW01Wl8ydm1kQURKVWpmWW5RYkdvX004ai1zdkljYUdKSDhBNXhjVlljdE5PNTBVT2J2YUk?oc=5>
+- **特朗普** | VOA今日焦点 (2026年9月2日) 美军对伊朗发动新打击 特朗普总统警告伊朗勿报复 <https://news.google.com/rss/articles/CBMia0FVX3lxTFBQY3FSSTFKRUhVVVlXZ0VwcGt5UXhRY3VLVWRJWjU4eVJmeHBPTFl5OTVMakg1RkJ6bVNuV0owcDFLUUdxTE8wanhSTHVULXdCbkpCSnBQamQxX1VHQ0IwSTRuUjhXbE5PRHZr0gFuQVVfeXFMTW5GWjJ6Uk5kREcyWjZaaEhCVUxKcUxyNkVzSmlqS3NKVjgwTmxYWi1VYlNZaGlOZXZCLWpMbDd4RGMwN1ZqWFh0Qk16MGRPS1QzS0xEZkRWVll6aC1jTFQtdXpOZnltc2FwSEd4OXc?oc=5>
+- **特朗普** | 三天内第二轮袭击 特朗普威胁伊朗终极打击蓄势待发 伊方誓言报复 <https://news.google.com/rss/articles/CBMiWEFVX3lxTE16ZFJuSDZrazhfV1lXZXhBbWJIVF9BZUlwNXJwSnkxYWhCTHVadk52SGVqMEhicTJQYk5WSlN2d08wejBsS1ZxdTVJRmlIeDQ0emJuZTNqeEw?oc=5>
 
 ### 2026-09-01 21:53  (6 条)
 
