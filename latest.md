@@ -1,54 +1,73 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-01 19:08**
-- 本轮扫到 10997 条, 新增 **5** 条
+- 最近更新: **2026-09-01 21:53**
+- 本轮扫到 11003 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (6 条)
 
-### 周杰伦演唱会3小时仅唱90分钟？观众吐槽与粉丝反驳两极分化
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923107_1d5ae15a306803x70m.html>
-
-### 特朗普又盯上霍尔木兹，这次想“定期动手”
+### 白宫公布委内瑞拉石油协议细节
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-08-31 23:21
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBISnpHTDFnbzRjU01fY2VsVndkSk1hXzdIb3dpNzB0WFgyS1VPTnNEZl9YNzItWGhqLXhmLXBCWlpENFBkcW43REhCeXhVTGJTeWJPd0pwcFdudFgwWWhKckJmckdSQjBaMnc?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-09-01 20:53
+- 链接: <https://news.google.com/rss/articles/CBMikwFBVV95cUxQaW5BWEgyY1U0bUpNUTRSdEtVRzRGYWlrNlFleGVBWFR5ZkxjVjZySVN0cnBMb2RzdVhzOElTbDdpbmNwcFN3ZlZ5T2ZROFV6WW5jWFp4dTV3QWhZdEhUNF96eGhVYXIxMFBzdUlSRDBhTGxxeHJkRmFSMVVUV203XzhZR1pMZTVrejN5eDdKYlNnNG_SAZYBQVVfeXFMTm5OMHlKOGI4VTVDMW1MTFcxekRtREpLZkRnOWxKa2R4V2NnUGdQd2VMcDMzVmhveGVXVFZHVVVkc2NzWnN5YzRUYVdJMnBIM0xRbHlQVVZPOXhTb0JRa3o4bkdWNWhhS0ZQb25iLUIzZWRJSGo5N19sQlJqMDRqT0hWRmpnNXpvQzJxd09MYURzYktHX1ln?oc=5>
 
-### 特朗普称美国利率过高，美联储理事巴尔：若通胀降温不足，应果断加息
+### 特朗普“密友”戴安斯再度访华，中美近期各领域互动频密
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-01 17:37
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxQaThjTXhsOWpkbWllLXZxRy16UngzV1VNUEQzNEpUWDhnYk1nc0NaeUpiNmVMMGdFMUhQa0RUOGxaY3A4OWdxZ2o3ZXVxS19kRFBfM1N3R3VJcDU5cWpfSGJUczdITTZ1aTJxaWlONFUzVGhyYms4YzNyc1lXR21GcmdGQVFhQmFpMEdVZjk1WmhfZ3NuczJ4MQ?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-09-01 12:51
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5CMC1ybndoVTNlVWs1OXpKaUtiZDFnQ1hTcDN0YlNaWmtFMk5ncVkySElQTzZMeGM5d0xCVEZHOGhNeDR5dzBVVGd6eWk0Y3BsWXBVWndHM2JjcTRDUk5uenBSdGZHd0o0bkU2eFRvNlZUUXMwckJ5RQ?oc=5>
+
+### “如果艾森豪威尔泉下有知，看到特朗普的对伊政策，恐怕棺材板都压不住了”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-09-01 12:52
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1TUWhWX3JfMkV5YTA4VkdMb1g4Vzdiam9sZUp2cmNlTHBBUDhBZ0JSMjhYWk5vR0xrTjZiaTR6SzJVWGZIcW1sQUtXMTdYWTljb1YzeGNmeGt6ZUJSNjRESzlGWkJWalpFUkE?oc=5>
+
+### 事关马岛，特朗普首次公开表态
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-09-01 09:59
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9UeFZDVVF0cGpwT1dRdDJlLTZhYV9tZDFaUmQ5NENHV1NDR1lYRS1lSzYzcEVHdm1KSW92SWZIYVFmaWgxOFBBem01bzA?oc=5>
 
 ### 特朗普首次公开表态：美国正重新审视马岛主权立场
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-01 11:45
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBmVk1NWk14djFJX0g1TGRQbXNYR2RjZlBPeEtodjRTRm9rUkptZk8xZEpTSWxRSk9Ta3hPTE04TXg2OVd5RGF5S3pUbjZ3RWlWZFUtZ0F3TWU1MFdpeHhJS2hhMjhRbDg5NGc4eEd4UUVENDRpdlZpYg?oc=5>
+- 场馆: chinanews.com.cn
+- 时间: 2026-09-01 11:28
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1xSHB4TWpPZHVCQ18wVVVWQ0ZPNlJrYkI4U1owVHRZMV93d0dwb0VDUURNSzNCenZHQVVsQlFJdVhpT2hpQ01PWlY2T1VENHFWN0pXbDh0czhueXRSNzRaTUtBNjVQT3Bj?oc=5>
 
-### 特朗普“直接联系苹果”：得改！
+### 分析：特朗普的支持率已经下滑到了临界点，主要原因还是伊朗战争
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-09-01 16:14
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTFBTbmlGYUJVaWNvUXlhOC12Z0hlNWU4QVJFZ3dnWHpTa19lcWhoS1dSblNRR2pKSnJmQ2xhbTZtZmJqanB5MGVpSk04Sk13M1E0Mkl4WmtydVZJclJ0dmc?oc=5>
+- 场馆: 加美财经
+- 时间: 2026-09-01 21:48
+- 链接: <https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqUW9kRVh0TnQ1OXVVX2lXZ1FQdEVlM3VpaDhvM3NDX25EV0JZQTZOSEFmcGdaVVF4MWtiVG1pVTR6RGNhOE1OZnNYR2lRY0FNRXY0U3BoQUpqUQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-01 21:53  (6 条)
+
+- **特朗普** | 白宫公布委内瑞拉石油协议细节 <https://news.google.com/rss/articles/CBMikwFBVV95cUxQaW5BWEgyY1U0bUpNUTRSdEtVRzRGYWlrNlFleGVBWFR5ZkxjVjZySVN0cnBMb2RzdVhzOElTbDdpbmNwcFN3ZlZ5T2ZROFV6WW5jWFp4dTV3QWhZdEhUNF96eGhVYXIxMFBzdUlSRDBhTGxxeHJkRmFSMVVUV203XzhZR1pMZTVrejN5eDdKYlNnNG_SAZYBQVVfeXFMTm5OMHlKOGI4VTVDMW1MTFcxekRtREpLZkRnOWxKa2R4V2NnUGdQd2VMcDMzVmhveGVXVFZHVVVkc2NzWnN5YzRUYVdJMnBIM0xRbHlQVVZPOXhTb0JRa3o4bkdWNWhhS0ZQb25iLUIzZWRJSGo5N19sQlJqMDRqT0hWRmpnNXpvQzJxd09MYURzYktHX1ln?oc=5>
+- **特朗普** | 特朗普“密友”戴安斯再度访华，中美近期各领域互动频密 <https://news.google.com/rss/articles/CBMieEFVX3lxTE5CMC1ybndoVTNlVWs1OXpKaUtiZDFnQ1hTcDN0YlNaWmtFMk5ncVkySElQTzZMeGM5d0xCVEZHOGhNeDR5dzBVVGd6eWk0Y3BsWXBVWndHM2JjcTRDUk5uenBSdGZHd0o0bkU2eFRvNlZUUXMwckJ5RQ?oc=5>
+- **特朗普** | “如果艾森豪威尔泉下有知，看到特朗普的对伊政策，恐怕棺材板都压不住了” <https://news.google.com/rss/articles/CBMiakFVX3lxTE1TUWhWX3JfMkV5YTA4VkdMb1g4Vzdiam9sZUp2cmNlTHBBUDhBZ0JSMjhYWk5vR0xrTjZiaTR6SzJVWGZIcW1sQUtXMTdYWTljb1YzeGNmeGt6ZUJSNjRESzlGWkJWalpFUkE?oc=5>
+- **特朗普** | 事关马岛，特朗普首次公开表态 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9UeFZDVVF0cGpwT1dRdDJlLTZhYV9tZDFaUmQ5NENHV1NDR1lYRS1lSzYzcEVHdm1KSW92SWZIYVFmaWgxOFBBem01bzA?oc=5>
+- **特朗普** | 特朗普首次公开表态：美国正重新审视马岛主权立场 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1xSHB4TWpPZHVCQ18wVVVWQ0ZPNlJrYkI4U1owVHRZMV93d0dwb0VDUURNSzNCenZHQVVsQlFJdVhpT2hpQ01PWlY2T1VENHFWN0pXbDh0czhueXRSNzRaTUtBNjVQT3Bj?oc=5>
+- **Trump** | 分析：特朗普的支持率已经下滑到了临界点，主要原因还是伊朗战争 <https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqUW9kRVh0TnQ1OXVVX2lXZ1FQdEVlM3VpaDhvM3NDX25EV0JZQTZOSEFmcGdaVVF4MWtiVG1pVTR6RGNhOE1OZnNYR2lRY0FNRXY0U3BoQUpqUQ?oc=5>
 
 ### 2026-09-01 19:08  (5 条)
 
