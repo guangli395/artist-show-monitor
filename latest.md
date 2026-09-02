@@ -1,56 +1,107 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-02 02:23**
-- 本轮扫到 11015 条, 新增 **5** 条
+- 最近更新: **2026-09-02 07:13**
+- 本轮扫到 11025 条, 新增 **10** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (10 条)
 
-### 美最高法院允许特朗普推进白宫宴会厅改造项目
+### 青岛演唱会扎堆来了
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-09-01 02:33
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5WU3BZcFZSZVdyQXBxVUpHa0lzWXhTUzVyWHE3c1NITmtLQnJjZFZGckhNdzZ5RVQ3MmduRWcxejFYS3NVUGYzZl9XX3JOeW9JdFl1LUFFZ09qMk95ZVVBLWVxRDlWZw?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1899227237_m7133e86503308lvbe.html>
 
-### 特朗普提名高雄出任下一任美国海军部长，其为越南裔美国海军退伍军官，现任美国代理海军部长
+### 特朗普提名海军部长曾是“越南难民” 从难民到海军部长的传奇旅程
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-02 00:55
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE5qLUJNN1Y0NXhiNl9mSV82VVEzZUlhdzUzaUdtVWY3Qk5jejZaTHphOVhaM0tyRzVkdWhla3JNYnloS0p1NzF5bXVHLWRwSGxZS1JHQkJlR050WWVzZjVXLU5KRTZtT3FyTkpkbUZObkgySUl5REE?oc=5>
+- 场馆: 中华军事
+- 时间: 2026-09-02 05:03
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBLWnlvNUVlWlpXeUtFaGlDUEhlTzFCbzlkbUcyd1d2anFid2puNV9TWm1GRWZiXzlDQ1JsVDR4Yll2Nko0bzlheFBaUk4zSmh4NUNoUEswN0c0QjNlV0todmlHOVNRTXh4Ti1RUEV6ZlQ?oc=5>
 
-### 法国世界报 - 特朗普向美国科学开战，恐将科技领导地位让给中国
+### 白宫宴会厅改造项目获准继续推进，特朗普公开叫好
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-09-01 23:50
-- 链接: <https://news.google.com/rss/articles/CBMi7wNBVV95cUxOVGd1dFFSeWVmMlZ0RW1ZRlo2b1doWGtobGFiYWFEUVB3Rm5KVmxHZDZvS2JEQjdoeERMOXJLMEJZUEhnaTFBRk9lb3R3Vm1OTUxWeDUyaENFRVNWUnN0Qk8tamFISkhmcnZxREI0WFJEVk5jaFhNbnk2a1pkYVhua05hMmhJWE5zM19fOGVzemJEQ1p6N2Q4cnVxbjB5SVItYkxId04tSzZ5TFEtWDJ2TFJ6RlRZMWU2ZXZfWUM2V3BiRXA4eWxTcTZFR1hJZHpDUUxyRXBIVXBmMzFJdXlpOFVONHJ5Z0dKajJiYTJDTzJoRWZ1d0pySzV2ZFBlOGhqZFlQSXFHQTBnZnNMdUhqLTB5WE1xc1JpRU13Y0pOckoxTVNhM2diSlVTWXJMN1pfbjNYdDFDbWJITndNYml5UHVoQkVpUWY0UDZLRUV2ODlBOGNfWDduU0VmbjE3N2lFRUFmeE9OUVlBenJhNmI3bFVvbjZEbUZKNVRyOFlMeWdfdlJ5X2NPU3d3QkZIODhReUFseExNdmppYUdVYUhtdHRFbWxPQ1NvNnlBMmNwbG9hanpxN0ZHT3MyVFZpLURLTWpxcVRfdEtYWkY1bzRNYWl3TEdBYzA1SmxrclFDNVluMExIaWxjU3B0WkZmMDQ?oc=5>
+- 场馆: 中华网
+- 时间: 2026-09-02 01:04
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE55SzR4S1hQYzdWbVBieG13aHVmektSWFg4UnZRUlN5TmZ1SWhQemszYUFzX2w5em40eDE1YUlsR2dEVnRROGFQMGc1UFRTZ3pzY3dqendrekVqTmQ4VXZWNmxyRUVra294S3FUNS1yMkJXUQ?oc=5>
 
-### 特朗普宣布与制药公司达成九项新的药品定价协议
+### 特朗普突传重磅！路透爆料：特朗普政府酝酿美国护照重大新规
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 金融界
+- 时间: 2026-09-02 01:06
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE9YaC1VWDRZTFlfTDJvMGNRcngzLUxzUGl1Q3FxbjZkTDByNlRrVldBRGVWZ3EtaDhrRWNHendhNWI3QlNUeWhRSTYtNVF1ckJKd0xKTGdxVi0zcUxkeU1XM0gxVGpFV25lcndIU1d4WmlfZlFO?oc=5>
+
+### “许多政府对特朗普的关税方案做出了反应”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: clacso.org
+- 时间: 2026-08-31 19:51
+- 链接: <https://news.google.com/rss/articles/CBMilgFBVV95cUxPQW96MGpwdXdUanlqVHpSR3dpUHdxYVdNVE5sd2M4WGo5azdhamU0QWVCMTFqNnlzRGFuUDN2MFRPUzVlci1OaDdSN0lTUVRob0NmZGlfX2ZZNjhaTFZWQjZQSlk4d3ByNzl0Q0dJX0pQTU5oNkpYb2tlU1M3TTQwbXZXeWFjOTRHY09rTFJmRjVad1Fhd0E?oc=5>
+
+### 特朗普否认试图迫使伊朗重返谈判桌
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观海新闻
+- 时间: 2026-09-02 03:59
+- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJSklTRzNac3lXdk84cC1RZnVFSnZBVmtqLU1zSENEVEFiRm5vZ1pMUEpsaVU1RE1vVXpZNFhMZlZUQWZDTmRrb1ZPMmM3a2R6MVE?oc=5>
+
+### 美军对伊朗军队发动新的袭击，特朗普总统警告伊朗政权不要报复
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-09-01 12:59
-- 链接: <https://news.google.com/rss/articles/CBMivAFBVV95cUxNX0FUVm9nTFVpTEt6S3F1S2dmbzVQbjdZU0hoTjJkMWdmREtsbi1Gb0Y1OHVaZVk4MEV5QzlTQloxbzdITkhzdmJrZFdKQ3BIR3JLRmQ3V2diRkVPa1BBczBQVTgtYzI3NnBsM1dCbEtpcHR2aTg1bEkwaGZWQVZ1dXBmenpfc2NQd3JsQVVORXpINnR6aHYtM2JCeDVodEktTlZ1VDA3WkVGX3JaS3F6YmRoWmh0OXo4b1pfMQ?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-09-01 21:20
+- 链接: <https://news.google.com/rss/articles/CBMi8gFBVV95cUxOY3p4akNrb2hTRlZMOVlhWGVfQWVXLURnakZpTld6ZjNDMm9fb3lybXdObXJzNENmZDBNY0Eyd2l1SS10UmxCd3lJMmdaWGdyNXdhbUhTdWYtX2ZUTG53Sm55ZktkUmZRQ2ZfTHl0azdvdzh2a2VHMlNnbFozOUFCdU5HREVOTXdCVmlDTWh5WUhjaW1LU1NJQlhBQkRydjZUcm1rR19EU3RKSFh5YWsxMG1oQ3Y2V3FTLVJPd2pLLTZ3c1NlaHBwY090ZTM1NlljUFFzcVd0RHJVX2hVNlozcTBzY2FMZmVRZGxDcDJDMWhiZ9IB9AFBVV95cUxQR1NYbmlTQl82b1hfNE5pdDhOT01GYXVfbklidjV2OHJIMnZ6SHQ5czlvYTJnaHBfdkdhUFpVR1BJdUtZb3Rra1FEclNkNzhnYl9aUU9yOFBRTmtOZ2I0U2hVa0l2TlNBUFhuVGVPam5lQ1JyV2wzU1h3Z1MzaFYtRzhONjVSZWpVTFZIR1FCS1N0RnlpdFJKYWVtTkRyV3pTVkRmRTdBTkY3ZHM1TkREaU8xUGktZk0zLW0yRm5TVnQzT1RoX3lFNjVkMnFLb1Y2NXdZZXVvNEdyWm13c3FsajZKa2Z0U3E2MGFvdHM3amZZdk5H?oc=5>
 
-### 从73刀跌到1.6刀，$TRUMP 这币到底是谁还在炒？ 曾经炒到73刀...
+### 伊攻击中东地区的美国目标后 美军再次还击
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-09-01 20:42
+- 链接: <https://news.google.com/rss/articles/CBMixAJBVV95cUxObXR3d2Ewb25pMnhpMFdsS3J2R0kxVEVMb1pGSHVXdUdxR09hSjZZalVTSTc4MzJBbzJkb1N6TWxHZE1fLTF1emxldXJqRXRLRUJvWlVfczhVbHlIVnA1YlI4MXB1ZW81OW5zTWpUbTNYTVZaTjZkbEVURTZnSkJHMExOS1Z6YmI1TkRaempVLXBXY1pqaGwwMUh0OURTd1pCbGo5U1ZlZ2xZV0k2Q2htbGlrVm04eU8yQmFLbEVqWE80ZE9ma05kQzZ2UE1QbmwzTTZOZVdHSXhkRlBUV3FUS01DVkxlWEEyanBVOWQtMkJmVWdTelhHbWU4SjIwV185cEprNHhVbzJabXVLYUc5WU93eGJPWV9icHVWRk1HeEdsai1GZ2xLNkVXRWsyS0lYT1A5aWpxVzdGWm9ORldKVDdyODE?oc=5>
+
+### Bolton：“Trump若举行美朝峰会将赴平壤……目的在于宣传效果”
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 아시아경제
+- 时间: 2026-09-01 22:38
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9haHphLWgtMU81SVhaMkhhclI2RVlyQkdMVDVrbkcxdFBUX1p4aHNXNG5WWUZZQW5CYmxTMHk0VXEzUWZOdHhKM0RnS016bmtDR19Jc1FzbExLM1VlQUx6cl9FdEM?oc=5>
+
+### $TRUMP $TRUMP2.5750，10分钟前巨鲸1x8jK...VkP9n刚转出120万...
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: OKX
-- 时间: 2026-09-01 07:36
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE4zY3dnODBodTJpdmRmVVVsYzFjRDBpa0JoYkRDUXFwUDYxY1J1MnZvRmV4LXl4bjYzOXZTTjB0bDRPMDVlbk02OHZpUDk4TUxMRzQ1N1BHYUxWTUlBOEJxZmNNY0o?oc=5>
+- 时间: 2026-08-31 13:20
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzWDlhUmEwWThGZW90V2tqdFBuSm0zaHNZQkJnRXREMTh5cEpDOXhmekVjTktSM3lsTmJrdVpJdUN6SWdPN2ZURDd4LW5pYkZ0NjhhZG5WSU1hRDhCVEZQYU42SGE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-02 07:13  (10 条)
+
+- **周杰伦** | 青岛演唱会扎堆来了 <https://k.sina.com.cn/article_1899227237_m7133e86503308lvbe.html>
+- **特朗普** | 特朗普提名海军部长曾是“越南难民” 从难民到海军部长的传奇旅程 <https://news.google.com/rss/articles/CBMicEFVX3lxTFBLWnlvNUVlWlpXeUtFaGlDUEhlTzFCbzlkbUcyd1d2anFid2puNV9TWm1GRWZiXzlDQ1JsVDR4Yll2Nko0bzlheFBaUk4zSmh4NUNoUEswN0c0QjNlV0todmlHOVNRTXh4Ti1RUEV6ZlQ?oc=5>
+- **特朗普** | 白宫宴会厅改造项目获准继续推进，特朗普公开叫好 <https://news.google.com/rss/articles/CBMickFVX3lxTE55SzR4S1hQYzdWbVBieG13aHVmektSWFg4UnZRUlN5TmZ1SWhQemszYUFzX2w5em40eDE1YUlsR2dEVnRROGFQMGc1UFRTZ3pzY3dqendrekVqTmQ4VXZWNmxyRUVra294S3FUNS1yMkJXUQ?oc=5>
+- **特朗普** | 特朗普突传重磅！路透爆料：特朗普政府酝酿美国护照重大新规 <https://news.google.com/rss/articles/CBMidEFVX3lxTE9YaC1VWDRZTFlfTDJvMGNRcngzLUxzUGl1Q3FxbjZkTDByNlRrVldBRGVWZ3EtaDhrRWNHendhNWI3QlNUeWhRSTYtNVF1ckJKd0xKTGdxVi0zcUxkeU1XM0gxVGpFV25lcndIU1d4WmlfZlFO?oc=5>
+- **特朗普** | “许多政府对特朗普的关税方案做出了反应” <https://news.google.com/rss/articles/CBMilgFBVV95cUxPQW96MGpwdXdUanlqVHpSR3dpUHdxYVdNVE5sd2M4WGo5azdhamU0QWVCMTFqNnlzRGFuUDN2MFRPUzVlci1OaDdSN0lTUVRob0NmZGlfX2ZZNjhaTFZWQjZQSlk4d3ByNzl0Q0dJX0pQTU5oNkpYb2tlU1M3TTQwbXZXeWFjOTRHY09rTFJmRjVad1Fhd0E?oc=5>
+- **特朗普** | 特朗普否认试图迫使伊朗重返谈判桌 <https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJSklTRzNac3lXdk84cC1RZnVFSnZBVmtqLU1zSENEVEFiRm5vZ1pMUEpsaVU1RE1vVXpZNFhMZlZUQWZDTmRrb1ZPMmM3a2R6MVE?oc=5>
+- **Trump** | 美军对伊朗军队发动新的袭击，特朗普总统警告伊朗政权不要报复 <https://news.google.com/rss/articles/CBMi8gFBVV95cUxOY3p4akNrb2hTRlZMOVlhWGVfQWVXLURnakZpTld6ZjNDMm9fb3lybXdObXJzNENmZDBNY0Eyd2l1SS10UmxCd3lJMmdaWGdyNXdhbUhTdWYtX2ZUTG53Sm55ZktkUmZRQ2ZfTHl0azdvdzh2a2VHMlNnbFozOUFCdU5HREVOTXdCVmlDTWh5WUhjaW1LU1NJQlhBQkRydjZUcm1rR19EU3RKSFh5YWsxMG1oQ3Y2V3FTLVJPd2pLLTZ3c1NlaHBwY090ZTM1NlljUFFzcVd0RHJVX2hVNlozcTBzY2FMZmVRZGxDcDJDMWhiZ9IB9AFBVV95cUxQR1NYbmlTQl82b1hfNE5pdDhOT01GYXVfbklidjV2OHJIMnZ6SHQ5czlvYTJnaHBfdkdhUFpVR1BJdUtZb3Rra1FEclNkNzhnYl9aUU9yOFBRTmtOZ2I0U2hVa0l2TlNBUFhuVGVPam5lQ1JyV2wzU1h3Z1MzaFYtRzhONjVSZWpVTFZIR1FCS1N0RnlpdFJKYWVtTkRyV3pTVkRmRTdBTkY3ZHM1TkREaU8xUGktZk0zLW0yRm5TVnQzT1RoX3lFNjVkMnFLb1Y2NXdZZXVvNEdyWm13c3FsajZKa2Z0U3E2MGFvdHM3amZZdk5H?oc=5>
+- **Trump** | 伊攻击中东地区的美国目标后 美军再次还击 <https://news.google.com/rss/articles/CBMixAJBVV95cUxObXR3d2Ewb25pMnhpMFdsS3J2R0kxVEVMb1pGSHVXdUdxR09hSjZZalVTSTc4MzJBbzJkb1N6TWxHZE1fLTF1emxldXJqRXRLRUJvWlVfczhVbHlIVnA1YlI4MXB1ZW81OW5zTWpUbTNYTVZaTjZkbEVURTZnSkJHMExOS1Z6YmI1TkRaempVLXBXY1pqaGwwMUh0OURTd1pCbGo5U1ZlZ2xZV0k2Q2htbGlrVm04eU8yQmFLbEVqWE80ZE9ma05kQzZ2UE1QbmwzTTZOZVdHSXhkRlBUV3FUS01DVkxlWEEyanBVOWQtMkJmVWdTelhHbWU4SjIwV185cEprNHhVbzJabXVLYUc5WU93eGJPWV9icHVWRk1HeEdsai1GZ2xLNkVXRWsyS0lYT1A5aWpxVzdGWm9ORldKVDdyODE?oc=5>
+- **Trump** | Bolton：“Trump若举行美朝峰会将赴平壤……目的在于宣传效果” <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9haHphLWgtMU81SVhaMkhhclI2RVlyQkdMVDVrbkcxdFBUX1p4aHNXNG5WWUZZQW5CYmxTMHk0VXEzUWZOdHhKM0RnS016bmtDR19Jc1FzbExLM1VlQUx6cl9FdEM?oc=5>
+- **Trump** | $TRUMP $TRUMP2.5750，10分钟前巨鲸1x8jK...VkP9n刚转出120万... <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzWDlhUmEwWThGZW90V2tqdFBuSm0zaHNZQkJnRXREMTh5cEpDOXhmekVjTktSM3lsTmJrdVpJdUN6SWdPN2ZURDd4LW5pYkZ0NjhhZG5WSU1hRDhCVEZQYU42SGE?oc=5>
 
 ### 2026-09-02 02:23  (5 条)
 
