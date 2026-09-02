@@ -1,72 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-01 23:43**
-- 本轮扫到 11010 条, 新增 **7** 条
+- 最近更新: **2026-09-02 02:23**
+- 本轮扫到 11015 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (5 条)
 
-### 美国人都看傻眼了
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-09-01 02:57
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1OWEt4NUtfSTlkekxfWnBkZXNpZXVmM3VYZHNpODhpdWRBZk5HdWprcVY5NGtLRzFhRzdLSFhsTklUUDlfOW1lemRuR3U4NmtYbVVhaTBSWmRoZllMbFl4c3llUFpWYVp2ekt6LVJKQmViNDlMcjZBVA?oc=5>
-
-### 裁决出炉，白宫宴会厅改造项目获准继续推进，特朗普公开叫好
+### 美最高法院允许特朗普推进白宫宴会厅改造项目
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 环球网
-- 时间: 2026-09-01 07:55
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vT0tMRmRObkN6c2gtQ2gyUjVMYnQxc2hBX3NBNmdiMDFqY1A3OXk3OUo3cHZVT1Raakd4T09HNW93aVNLc2RZV09KSERfWlJRT1ZuMl9JN2s?oc=5>
+- 场馆: 联合早报
+- 时间: 2026-09-01 02:33
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5WU3BZcFZSZVdyQXBxVUpHa0lzWXhTUzVyWHE3c1NITmtLQnJjZFZGckhNdzZ5RVQ3MmduRWcxejFYS3NVUGYzZl9XX3JOeW9JdFl1LUFFZ09qMk95ZVVBLWVxRDlWZw?oc=5>
 
-### 特朗普提名高雄出任下一任美国海军部长
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: news.sina.com.cn
-- 时间: 2026-09-01 23:41
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9SNkViVVZqQjhKRkRwMTZ1ZGlYVkhHSnJKUFdIS0IyVTd2SWdaWTlLa0RGY1NMdHBpMzBnSWt0aFY0aVpyMV9WRFNRQkJLTG44TjB6MVBwSDV5bF90eTlSRngtaE80Z0ZHMUZGWUJCYVU?oc=5>
-
-### 特朗普支持率维持在33%，民主党对中期选举更加热情
+### 特朗普提名高雄出任下一任美国海军部长，其为越南裔美国海军退伍军官，现任美国代理海军部长
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: IDNFinancials
-- 时间: 2026-09-01 23:00
-- 链接: <https://news.google.com/rss/articles/CBMi1gJBVV95cUxQVFp6aTZGb0l6U3VDUDdGUjhoXzZxUHhxRHh1YkVPcHVSZFdNenRvdXN3cGRBS1BzUFMyc3lwZTRGY3F6TEw0MUVGQThCQXRsNE5CdlMxYUlSUktLdHp5QlVkclJXODFDMFJhLVNKZXN1ZldvVHhWNV95UzNKbTRCWGV1M0dHOEI4MlFHZ1lDUEN3TDYzN1I1UG4tdG1FVFl4bGdPNnhYdWQxLTRLZ1I5Y2ptSjA4U1RZamJLNUJfT05YcG1feU1YT3BIMGVfWWNWcnlZQUtaMkVtNFpLUTBBYVoxeXFyYmxZVzlqb2NMcldmRzFuT0tOX3dxRkN0T3FkVFhPMV96ZTZoNFRpSTNWeXdLTDFYNFYzdmVvVU94OFBkY1lCWW95bmVhNFZEUlhhUFhHOFQ1ZG5ad1FBRTZwT1lvSXdPRGZJdzdRRkpIOXA4LWFQZGc?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-09-02 00:55
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE5qLUJNN1Y0NXhiNl9mSV82VVEzZUlhdzUzaUdtVWY3Qk5jejZaTHphOVhaM0tyRzVkdWhla3JNYnloS0p1NzF5bXVHLWRwSGxZS1JHQkJlR050WWVzZjVXLU5KRTZtT3FyTkpkbUZObkgySUl5REE?oc=5>
 
-### 普京向习近平提议：11月举行有特朗普参加的三方会晤
+### 法国世界报 - 特朗普向美国科学开战，恐将科技领导地位让给中国
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: RFI
-- 时间: 2026-09-01 21:13
-- 链接: <https://news.google.com/rss/articles/CBMi6wJBVV95cUxQQ1U3ejdnUkFjdGtuU0lmSG41b1M3Rk1rOUZaZUd6Vm94T1Q1ejZiNFVXRnFsR21JVjhKc2VQMVNxWF8zSzM2NEtrVFBWUmx0aUlkWVhLanR4QlFNSktfTkFndXZZSnlSSFo1RTdLYmh5TmxZZnNqMlNsRGN6c2p4bVlpS3JOMzhDQ2ZwVE1kVDREc25TWFYzajM3U2dvZUlIQXZHcVB6R0hLejZPOXpYSjlOM0RzZWUyUVVUWE9FNmlDQVR1MUJ4cWdYQ1N6X25pSE1hcUNHaWctVXE5WVdycWVqdTcxTUZRV0V5eTVmTVJ5bEJTYU5ic25GX1FZek40Z0tjNUUwQ2xONFluYzNWMU5wUEZNM2ZPZzg0dzBrblhTeXlWdEVGTi1Jem91V0UyNzFnenlzWW01Wl8ydm1kQURKVWpmWW5RYkdvX004ai1zdkljYUdKSDhBNXhjVlljdE5PNTBVT2J2YUk?oc=5>
+- 时间: 2026-09-01 23:50
+- 链接: <https://news.google.com/rss/articles/CBMi7wNBVV95cUxOVGd1dFFSeWVmMlZ0RW1ZRlo2b1doWGtobGFiYWFEUVB3Rm5KVmxHZDZvS2JEQjdoeERMOXJLMEJZUEhnaTFBRk9lb3R3Vm1OTUxWeDUyaENFRVNWUnN0Qk8tamFISkhmcnZxREI0WFJEVk5jaFhNbnk2a1pkYVhua05hMmhJWE5zM19fOGVzemJEQ1p6N2Q4cnVxbjB5SVItYkxId04tSzZ5TFEtWDJ2TFJ6RlRZMWU2ZXZfWUM2V3BiRXA4eWxTcTZFR1hJZHpDUUxyRXBIVXBmMzFJdXlpOFVONHJ5Z0dKajJiYTJDTzJoRWZ1d0pySzV2ZFBlOGhqZFlQSXFHQTBnZnNMdUhqLTB5WE1xc1JpRU13Y0pOckoxTVNhM2diSlVTWXJMN1pfbjNYdDFDbWJITndNYml5UHVoQkVpUWY0UDZLRUV2ODlBOGNfWDduU0VmbjE3N2lFRUFmeE9OUVlBenJhNmI3bFVvbjZEbUZKNVRyOFlMeWdfdlJ5X2NPU3d3QkZIODhReUFseExNdmppYUdVYUhtdHRFbWxPQ1NvNnlBMmNwbG9hanpxN0ZHT3MyVFZpLURLTWpxcVRfdEtYWkY1bzRNYWl3TEdBYzA1SmxrclFDNVluMExIaWxjU3B0WkZmMDQ?oc=5>
 
-### VOA今日焦点 (2026年9月2日) 美军对伊朗发动新打击 特朗普总统警告伊朗勿报复
+### 特朗普宣布与制药公司达成九项新的药品定价协议
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-09-01 21:48
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTFBQY3FSSTFKRUhVVVlXZ0VwcGt5UXhRY3VLVWRJWjU4eVJmeHBPTFl5OTVMakg1RkJ6bVNuV0owcDFLUUdxTE8wanhSTHVULXdCbkpCSnBQamQxX1VHQ0IwSTRuUjhXbE5PRHZr0gFuQVVfeXFMTW5GWjJ6Uk5kREcyWjZaaEhCVUxKcUxyNkVzSmlqS3NKVjgwTmxYWi1VYlNZaGlOZXZCLWpMbDd4RGMwN1ZqWFh0Qk16MGRPS1QzS0xEZkRWVll6aC1jTFQtdXpOZnltc2FwSEd4OXc?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-09-01 12:59
+- 链接: <https://news.google.com/rss/articles/CBMivAFBVV95cUxNX0FUVm9nTFVpTEt6S3F1S2dmbzVQbjdZU0hoTjJkMWdmREtsbi1Gb0Y1OHVaZVk4MEV5QzlTQloxbzdITkhzdmJrZFdKQ3BIR3JLRmQ3V2diRkVPa1BBczBQVTgtYzI3NnBsM1dCbEtpcHR2aTg1bEkwaGZWQVZ1dXBmenpfc2NQd3JsQVVORXpINnR6aHYtM2JCeDVodEktTlZ1VDA3WkVGX3JaS3F6YmRoWmh0OXo4b1pfMQ?oc=5>
 
-### 三天内第二轮袭击 特朗普威胁伊朗终极打击蓄势待发 伊方誓言报复
+### 从73刀跌到1.6刀，$TRUMP 这币到底是谁还在炒？ 曾经炒到73刀...
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 环球网
-- 时间: 2026-09-01 08:13
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE16ZFJuSDZrazhfV1lXZXhBbWJIVF9BZUlwNXJwSnkxYWhCTHVadk52SGVqMEhicTJQYk5WSlN2d08wejBsS1ZxdTVJRmlIeDQ0emJuZTNqeEw?oc=5>
+- 场馆: OKX
+- 时间: 2026-09-01 07:36
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE4zY3dnODBodTJpdmRmVVVsYzFjRDBpa0JoYkRDUXFwUDYxY1J1MnZvRmV4LXl4bjYzOXZTTjB0bDRPMDVlbk02OHZpUDk4TUxMRzQ1N1BHYUxWTUlBOEJxZmNNY0o?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-02 02:23  (5 条)
+
+- **特朗普** | 美最高法院允许特朗普推进白宫宴会厅改造项目 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5WU3BZcFZSZVdyQXBxVUpHa0lzWXhTUzVyWHE3c1NITmtLQnJjZFZGckhNdzZ5RVQ3MmduRWcxejFYS3NVUGYzZl9XX3JOeW9JdFl1LUFFZ09qMk95ZVVBLWVxRDlWZw?oc=5>
+- **特朗普** | 特朗普提名高雄出任下一任美国海军部长，其为越南裔美国海军退伍军官，现任美国代理海军部长 <https://news.google.com/rss/articles/CBMidkFVX3lxTE5qLUJNN1Y0NXhiNl9mSV82VVEzZUlhdzUzaUdtVWY3Qk5jejZaTHphOVhaM0tyRzVkdWhla3JNYnloS0p1NzF5bXVHLWRwSGxZS1JHQkJlR050WWVzZjVXLU5KRTZtT3FyTkpkbUZObkgySUl5REE?oc=5>
+- **特朗普** | 法国世界报 - 特朗普向美国科学开战，恐将科技领导地位让给中国 <https://news.google.com/rss/articles/CBMi7wNBVV95cUxOVGd1dFFSeWVmMlZ0RW1ZRlo2b1doWGtobGFiYWFEUVB3Rm5KVmxHZDZvS2JEQjdoeERMOXJLMEJZUEhnaTFBRk9lb3R3Vm1OTUxWeDUyaENFRVNWUnN0Qk8tamFISkhmcnZxREI0WFJEVk5jaFhNbnk2a1pkYVhua05hMmhJWE5zM19fOGVzemJEQ1p6N2Q4cnVxbjB5SVItYkxId04tSzZ5TFEtWDJ2TFJ6RlRZMWU2ZXZfWUM2V3BiRXA4eWxTcTZFR1hJZHpDUUxyRXBIVXBmMzFJdXlpOFVONHJ5Z0dKajJiYTJDTzJoRWZ1d0pySzV2ZFBlOGhqZFlQSXFHQTBnZnNMdUhqLTB5WE1xc1JpRU13Y0pOckoxTVNhM2diSlVTWXJMN1pfbjNYdDFDbWJITndNYml5UHVoQkVpUWY0UDZLRUV2ODlBOGNfWDduU0VmbjE3N2lFRUFmeE9OUVlBenJhNmI3bFVvbjZEbUZKNVRyOFlMeWdfdlJ5X2NPU3d3QkZIODhReUFseExNdmppYUdVYUhtdHRFbWxPQ1NvNnlBMmNwbG9hanpxN0ZHT3MyVFZpLURLTWpxcVRfdEtYWkY1bzRNYWl3TEdBYzA1SmxrclFDNVluMExIaWxjU3B0WkZmMDQ?oc=5>
+- **Trump** | 特朗普宣布与制药公司达成九项新的药品定价协议 <https://news.google.com/rss/articles/CBMivAFBVV95cUxNX0FUVm9nTFVpTEt6S3F1S2dmbzVQbjdZU0hoTjJkMWdmREtsbi1Gb0Y1OHVaZVk4MEV5QzlTQloxbzdITkhzdmJrZFdKQ3BIR3JLRmQ3V2diRkVPa1BBczBQVTgtYzI3NnBsM1dCbEtpcHR2aTg1bEkwaGZWQVZ1dXBmenpfc2NQd3JsQVVORXpINnR6aHYtM2JCeDVodEktTlZ1VDA3WkVGX3JaS3F6YmRoWmh0OXo4b1pfMQ?oc=5>
+- **Trump** | 从73刀跌到1.6刀，$TRUMP 这币到底是谁还在炒？ 曾经炒到73刀... <https://news.google.com/rss/articles/CBMiZEFVX3lxTE4zY3dnODBodTJpdmRmVVVsYzFjRDBpa0JoYkRDUXFwUDYxY1J1MnZvRmV4LXl4bjYzOXZTTjB0bDRPMDVlbk02OHZpUDk4TUxMRzQ1N1BHYUxWTUlBOEJxZmNNY0o?oc=5>
 
 ### 2026-09-01 23:43  (7 条)
 
