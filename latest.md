@@ -1,7 +1,7 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-02 07:13**
-- 本轮扫到 11025 条, 新增 **10** 条
+- 最近更新: **2026-09-02 12:12**
+- 本轮扫到 11035 条, 新增 **10** 条
 
 ---
 
@@ -11,84 +11,97 @@
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1899227237_m7133e86503308lvbe.html>
+- 链接: <https://k.sina.com.cn/article_5449334139_m144ce3d7b03301e8hs.html>
 
-### 特朗普提名海军部长曾是“越南难民” 从难民到海军部长的传奇旅程
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华军事
-- 时间: 2026-09-02 05:03
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBLWnlvNUVlWlpXeUtFaGlDUEhlTzFCbzlkbUcyd1d2anFid2puNV9TWm1GRWZiXzlDQ1JsVDR4Yll2Nko0bzlheFBaUk4zSmh4NUNoUEswN0c0QjNlV0todmlHOVNRTXh4Ti1RUEV6ZlQ?oc=5>
-
-### 白宫宴会厅改造项目获准继续推进，特朗普公开叫好
+### 特朗普敦促大型石油企业新建炼油厂 但此事推行阻力重重
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-09-02 01:04
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE55SzR4S1hQYzdWbVBieG13aHVmektSWFg4UnZRUlN5TmZ1SWhQemszYUFzX2w5em40eDE1YUlsR2dEVnRROGFQMGc1UFRTZ3pzY3dqendrekVqTmQ4VXZWNmxyRUVra294S3FUNS1yMkJXUQ?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-09-02 10:44
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxQMVpZcFB0TnBRRTVGVjQzLTR1bG5LM2lwUjN5U1d5dkdzajR6Z1p0YmJOdFZJMUlVUVNFa2g3cURGVmhIUUJrRDMyZnB2b2hjTVdKY1BzeEcwcE92dGl2NU85MncxX3NGLWpxNUVQWkM4MEVudGJXVFRCekk5YTFDdzg2SWhFOVk?oc=5>
 
-### 特朗普突传重磅！路透爆料：特朗普政府酝酿美国护照重大新规
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 金融界
-- 时间: 2026-09-02 01:06
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE9YaC1VWDRZTFlfTDJvMGNRcngzLUxzUGl1Q3FxbjZkTDByNlRrVldBRGVWZ3EtaDhrRWNHendhNWI3QlNUeWhRSTYtNVF1ckJKd0xKTGdxVi0zcUxkeU1XM0gxVGpFV25lcndIU1d4WmlfZlFO?oc=5>
-
-### “许多政府对特朗普的关税方案做出了反应”
+### 特朗普提名高雄出任下一任美国海军部长
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: clacso.org
-- 时间: 2026-08-31 19:51
-- 链接: <https://news.google.com/rss/articles/CBMilgFBVV95cUxPQW96MGpwdXdUanlqVHpSR3dpUHdxYVdNVE5sd2M4WGo5azdhamU0QWVCMTFqNnlzRGFuUDN2MFRPUzVlci1OaDdSN0lTUVRob0NmZGlfX2ZZNjhaTFZWQjZQSlk4d3ByNzl0Q0dJX0pQTU5oNkpYb2tlU1M3TTQwbXZXeWFjOTRHY09rTFJmRjVad1Fhd0E?oc=5>
+- 场馆: 新浪新闻
+- 时间: 2026-09-02 02:24
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE5lVkNBaFc2N1laaUsyU1l1TGVPdFdxM2hQellYUmlSaG1GX3FxZzVRdjVpbEQxVW1XNXZNbVlDWlR4RENzXy1PMTI3SzhiNXlTc2JTR1hRV2ZkMUxoeURVTzdablVxSXVvTVQ2MldZY2FUcHhN?oc=5>
 
-### 特朗普否认试图迫使伊朗重返谈判桌
+### 特朗普提名高雄出任美国海军部长，系越南裔老兵，有25年海军服役和五角大楼工作经历
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观海新闻
-- 时间: 2026-09-02 03:59
-- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJSklTRzNac3lXdk84cC1RZnVFSnZBVmtqLU1zSENEVEFiRm5vZ1pMUEpsaVU1RE1vVXpZNFhMZlZUQWZDTmRrb1ZPMmM3a2R6MVE?oc=5>
+- 场馆: 新浪新闻
+- 时间: 2026-09-02 00:25
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE44MG9URUFxcTlBTFFLN0ZNNlp6TEZFS3pXdEI3TjRRZGR1TFN5NU05VHFKbU5wMnJXUEVuX0RUdElHUDBsWnhIRUFHdlVrRU1ES0ctZG4ySUN2VWxId3U5REE2YzVrVGQyMjhjYzBZR1BqU043azRiOA?oc=5>
 
-### 美军对伊朗军队发动新的袭击，特朗普总统警告伊朗政权不要报复
+### 刚刚，伊朗打击三国美军基地，“大量美军死伤”！特朗普：最终打击正在酝酿之中！油价大涨
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-01 23:23
+- 链接: <https://news.google.com/rss/articles/CBMi5gFBVV95cUxQREpMSGhOWThoWFF1TWFkZUV4UWVTeVhBZnQ4Q0tQN1ZLclJDcFVMdUxTUDBZRno4eFFDN0ZrS2x1dEs5R3NlTTB3b1VnTUZCNmRNUmtaM0JLbHJubzBRbEcweGlxS2RBZFZybWhsd1U4MDBqazRGNkpCcC1HamNNcmo3b19Ldnc3QldLNERxcU1vZDUzYVlUb0R0bU1VVmJ4Q005RndqblRaREZXOVJiTWtBREhyTlg3SV9nLVJIM1lNZFk1bGdta2VvM2liUkxyYU9MbWE2c1g1SUR5NEdjek05R00tQQ?oc=5>
+
+### 特朗普：你们再反对建数据中心，中国要高兴死了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-09-01 02:58
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9JR1BrYmtMd0V4dDRtaUNXUUktSTFxMXpaNHJNanhlNkd0Z20yQzNYbEZmem42X1lsREY5QkFhVVk5b1gyNkpzWXZYSGs?oc=5>
+
+### 特朗普支持率走不出谷底 民主党对投票更有激情
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-09-01 06:01
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJd2RWMnJiVm9WNDl5OW42MU9xVklzaXc2RGlvY2lzQ3ZXSGNER05mMTFSVUxOTXhVWjVKYVVoNHFoeGk2dHdyaHlwUGNnRDFqMzhJcHBYWHNWUDEycFdPZThBTjB6QQ?oc=5>
+
+### TRUMP代币团队地址昨日转出1101万枚TRUMP，其中200万枚已转入币安
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-09-01 21:20
-- 链接: <https://news.google.com/rss/articles/CBMi8gFBVV95cUxOY3p4akNrb2hTRlZMOVlhWGVfQWVXLURnakZpTld6ZjNDMm9fb3lybXdObXJzNENmZDBNY0Eyd2l1SS10UmxCd3lJMmdaWGdyNXdhbUhTdWYtX2ZUTG53Sm55ZktkUmZRQ2ZfTHl0azdvdzh2a2VHMlNnbFozOUFCdU5HREVOTXdCVmlDTWh5WUhjaW1LU1NJQlhBQkRydjZUcm1rR19EU3RKSFh5YWsxMG1oQ3Y2V3FTLVJPd2pLLTZ3c1NlaHBwY090ZTM1NlljUFFzcVd0RHJVX2hVNlozcTBzY2FMZmVRZGxDcDJDMWhiZ9IB9AFBVV95cUxQR1NYbmlTQl82b1hfNE5pdDhOT01GYXVfbklidjV2OHJIMnZ6SHQ5czlvYTJnaHBfdkdhUFpVR1BJdUtZb3Rra1FEclNkNzhnYl9aUU9yOFBRTmtOZ2I0U2hVa0l2TlNBUFhuVGVPam5lQ1JyV2wzU1h3Z1MzaFYtRzhONjVSZWpVTFZIR1FCS1N0RnlpdFJKYWVtTkRyV3pTVkRmRTdBTkY3ZHM1TkREaU8xUGktZk0zLW0yRm5TVnQzT1RoX3lFNjVkMnFLb1Y2NXdZZXVvNEdyWm13c3FsajZKa2Z0U3E2MGFvdHM3amZZdk5H?oc=5>
+- 场馆: TradingView
+- 时间: 2026-09-02 01:33
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFA5cmhqTmVNSmVXR0gzOHZwMTh2YXFWRTJVUlduM1N3ZjJOdTFCQmxuTndxWGEtYjVKbUVYSE1iTTZKdzFrUHBfaXN5T1kwUTktTjBySE1jWENpTXVkY1hYY1BjTnFHQQ?oc=5>
 
-### 伊攻击中东地区的美国目标后 美军再次还击
+### 委内瑞拉石油产量要翻倍，特朗普却发现：美国“有油”不等于“有便宜汽油”
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-09-01 20:42
-- 链接: <https://news.google.com/rss/articles/CBMixAJBVV95cUxObXR3d2Ewb25pMnhpMFdsS3J2R0kxVEVMb1pGSHVXdUdxR09hSjZZalVTSTc4MzJBbzJkb1N6TWxHZE1fLTF1emxldXJqRXRLRUJvWlVfczhVbHlIVnA1YlI4MXB1ZW81OW5zTWpUbTNYTVZaTjZkbEVURTZnSkJHMExOS1Z6YmI1TkRaempVLXBXY1pqaGwwMUh0OURTd1pCbGo5U1ZlZ2xZV0k2Q2htbGlrVm04eU8yQmFLbEVqWE80ZE9ma05kQzZ2UE1QbmwzTTZOZVdHSXhkRlBUV3FUS01DVkxlWEEyanBVOWQtMkJmVWdTelhHbWU4SjIwV185cEprNHhVbzJabXVLYUc5WU93eGJPWV9icHVWRk1HeEdsai1GZ2xLNkVXRWsyS0lYT1A5aWpxVzdGWm9ORldKVDdyODE?oc=5>
+- 场馆: 富途牛牛
+- 时间: 2026-09-02 05:38
+- 链接: <https://news.google.com/rss/articles/CBMikAFBVV95cUxNYV9YVmVXSi02am96QUl3MzRqMUF4VXdJM3BPZHFaOFQxdWxPbHBValU3eHFhNk9BdUozRU56ZUR2OFpJRUFsaVltVS1scHF1dU1HWm5WZmpMalVzWEtOeGhweUNiTW5iLVkxSEdnM082QS1KN0kxZEpyeTVZalN4R1JsRnFPTmhQdEFnQjNBZ2Y?oc=5>
 
-### Bolton：“Trump若举行美朝峰会将赴平壤……目的在于宣传效果”
+### 俄称“11月亚太经合组织会议或举行Trump、习近平、Putin三方会谈”
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: 아시아경제
-- 时间: 2026-09-01 22:38
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9haHphLWgtMU81SVhaMkhhclI2RVlyQkdMVDVrbkcxdFBUX1p4aHNXNG5WWUZZQW5CYmxTMHk0VXEzUWZOdHhKM0RnS016bmtDR19Jc1FzbExLM1VlQUx6cl9FdEM?oc=5>
-
-### $TRUMP $TRUMP2.5750，10分钟前巨鲸1x8jK...VkP9n刚转出120万...
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: OKX
-- 时间: 2026-08-31 13:20
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzWDlhUmEwWThGZW90V2tqdFBuSm0zaHNZQkJnRXREMTh5cEpDOXhmekVjTktSM3lsTmJrdVpJdUN6SWdPN2ZURDd4LW5pYkZ0NjhhZG5WSU1hRDhCVEZQYU42SGE?oc=5>
+- 时间: 2026-09-02 00:05
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tdWJfM28wQ2RqLWNUMkRqYXZXd1gwOGxOVzBRYnYwSlZiUkl4WllhaFh2VXJxQ2ZGNElVLUlCNC1qQ0syU2toZ0FvdGRzN2pUSDdHZGdMZ1JkVXU3NmJuNGtJZjc?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-02 12:12  (10 条)
+
+- **周杰伦** | 青岛演唱会扎堆来了 <https://k.sina.com.cn/article_5449334139_m144ce3d7b03301e8hs.html>
+- **特朗普** | 特朗普敦促大型石油企业新建炼油厂 但此事推行阻力重重 <https://news.google.com/rss/articles/CBMihwFBVV95cUxQMVpZcFB0TnBRRTVGVjQzLTR1bG5LM2lwUjN5U1d5dkdzajR6Z1p0YmJOdFZJMUlVUVNFa2g3cURGVmhIUUJrRDMyZnB2b2hjTVdKY1BzeEcwcE92dGl2NU85MncxX3NGLWpxNUVQWkM4MEVudGJXVFRCekk5YTFDdzg2SWhFOVk?oc=5>
+- **特朗普** | 特朗普提名高雄出任下一任美国海军部长 <https://news.google.com/rss/articles/CBMidEFVX3lxTE5lVkNBaFc2N1laaUsyU1l1TGVPdFdxM2hQellYUmlSaG1GX3FxZzVRdjVpbEQxVW1XNXZNbVlDWlR4RENzXy1PMTI3SzhiNXlTc2JTR1hRV2ZkMUxoeURVTzdablVxSXVvTVQ2MldZY2FUcHhN?oc=5>
+- **特朗普** | 特朗普提名高雄出任美国海军部长，系越南裔老兵，有25年海军服役和五角大楼工作经历 <https://news.google.com/rss/articles/CBMieEFVX3lxTE44MG9URUFxcTlBTFFLN0ZNNlp6TEZFS3pXdEI3TjRRZGR1TFN5NU05VHFKbU5wMnJXUEVuX0RUdElHUDBsWnhIRUFHdlVrRU1ES0ctZG4ySUN2VWxId3U5REE2YzVrVGQyMjhjYzBZR1BqU043azRiOA?oc=5>
+- **特朗普** | 刚刚，伊朗打击三国美军基地，“大量美军死伤”！特朗普：最终打击正在酝酿之中！油价大涨 <https://news.google.com/rss/articles/CBMi5gFBVV95cUxQREpMSGhOWThoWFF1TWFkZUV4UWVTeVhBZnQ4Q0tQN1ZLclJDcFVMdUxTUDBZRno4eFFDN0ZrS2x1dEs5R3NlTTB3b1VnTUZCNmRNUmtaM0JLbHJubzBRbEcweGlxS2RBZFZybWhsd1U4MDBqazRGNkpCcC1HamNNcmo3b19Ldnc3QldLNERxcU1vZDUzYVlUb0R0bU1VVmJ4Q005RndqblRaREZXOVJiTWtBREhyTlg3SV9nLVJIM1lNZFk1bGdta2VvM2liUkxyYU9MbWE2c1g1SUR5NEdjek05R00tQQ?oc=5>
+- **特朗普** | 特朗普：你们再反对建数据中心，中国要高兴死了 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9JR1BrYmtMd0V4dDRtaUNXUUktSTFxMXpaNHJNanhlNkd0Z20yQzNYbEZmem42X1lsREY5QkFhVVk5b1gyNkpzWXZYSGs?oc=5>
+- **特朗普** | 特朗普支持率走不出谷底 民主党对投票更有激情 <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJd2RWMnJiVm9WNDl5OW42MU9xVklzaXc2RGlvY2lzQ3ZXSGNER05mMTFSVUxOTXhVWjVKYVVoNHFoeGk2dHdyaHlwUGNnRDFqMzhJcHBYWHNWUDEycFdPZThBTjB6QQ?oc=5>
+- **Trump** | TRUMP代币团队地址昨日转出1101万枚TRUMP，其中200万枚已转入币安 <https://news.google.com/rss/articles/CBMiZkFVX3lxTFA5cmhqTmVNSmVXR0gzOHZwMTh2YXFWRTJVUlduM1N3ZjJOdTFCQmxuTndxWGEtYjVKbUVYSE1iTTZKdzFrUHBfaXN5T1kwUTktTjBySE1jWENpTXVkY1hYY1BjTnFHQQ?oc=5>
+- **Trump** | 委内瑞拉石油产量要翻倍，特朗普却发现：美国“有油”不等于“有便宜汽油” <https://news.google.com/rss/articles/CBMikAFBVV95cUxNYV9YVmVXSi02am96QUl3MzRqMUF4VXdJM3BPZHFaOFQxdWxPbHBValU3eHFhNk9BdUozRU56ZUR2OFpJRUFsaVltVS1scHF1dU1HWm5WZmpMalVzWEtOeGhweUNiTW5iLVkxSEdnM082QS1KN0kxZEpyeTVZalN4R1JsRnFPTmhQdEFnQjNBZ2Y?oc=5>
+- **Trump** | 俄称“11月亚太经合组织会议或举行Trump、习近平、Putin三方会谈” <https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tdWJfM28wQ2RqLWNUMkRqYXZXd1gwOGxOVzBRYnYwSlZiUkl4WllhaFh2VXJxQ2ZGNElVLUlCNC1qQ0syU2toZ0FvdGRzN2pUSDdHZGdMZ1JkVXU3NmJuNGtJZjc?oc=5>
 
 ### 2026-09-02 07:13  (10 条)
 
