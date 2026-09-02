@@ -1,80 +1,110 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-02 16:45**
-- 本轮扫到 11043 条, 新增 **8** 条
+- 最近更新: **2026-09-02 19:35**
+- 本轮扫到 11054 条, 新增 **11** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (11 条)
 
-### 法国世界报 - 特朗普向美国科学开战，恐将科技领导地位让给中国
+### 周杰伦广州场正式开票时间确定了吗？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-09-01 23:50
-- 链接: <https://news.google.com/rss/articles/CBMi4ANBVV95cUxPQml2eVFSRG1ZeFhaaHp6UDJCYTZTN3BaSVd5Z1E2d19pSGxid3kwUnk2OHR5VnNSanFWeHlQRlk2R1RhU0UzdUxra0phVmg1OW92dHB4ZThpVm5iYzYzdHpnVm5ld1QwZnVGM205eXgxOGhFYVg5VHd4VnJyVDJMN3hGZWhNN0pXSmw1aFZvZVY4eU1zSUt3S2hYYXhaRW92UVZVUW5tWXgxNUV1V0hpLWwzdzJoRk1TYWg4bVlYalc3cl9ZV0xlQ2lXQmlZWHE1azdQSTViRmlRN1MtZHdqaERiTFJhaU11UkxOeUZMdDNWSjFhbnVPeUdLS3ZtNmliYnhienptMkRZMHRhcGVLb3RZdjktZWhqd3ozcW1GeUxkZ0l3b05pRmNYOFhZRndGeF9HUHdEUW5ZUVJjXzh4bnVrOFFiU1BCZ3Fua28tWnZ4RVBRTjBEekdkUS1NNnpsNVhoRjB4Q3duaW1pdUJRVkpBOUpDZURwMTJRNEJZd2hOdkdTVXZwNHZPTXVrSk0tR3F2LVlYOHZMZkNfOEs2TXpqbnhwaWhZMU92WmJ3djd3NWJ2S2dlWDlOVUJjTy1ibk52SWRsQmdqZy0xLXpFZnhZM1ZSQ1NOd3doaHllSnI?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776731_1d5abd9db06801eda0.html>
 
-### 特朗普首次公开表态：美国正重新审视马岛主权立场
+### 周杰伦广州场抢票攻略：先填信息再开抢
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: finance.sina.cn
-- 时间: 2026-09-01 07:00
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5yYTN6OE4zVkd5VHZCZWo5VU5BNndNcElRWm9WTmRaWFhTZjk0bUEzWGx2dmNLZ0x3Q1A5ejctZGV5dDZWRTItd2NlYWN2eTdPYlE4c2FNbWZjSF9Od044TU1QMTliOTJkS2lWRXFqZnlIQWpoQ0o1Mw?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776731_1d5abd9db06801ed9w.html>
 
-### 加拿大总理：美方应停止玩幼稚烂梗 否则免谈
+### 周杰伦广州场演唱会票价有哪些档位？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-09-02 08:37
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE0tTmlIVzhFVXE1eG9BY3JVX2VadzdsVTVKTGI2VkFuSGxTczlzaUJWSzZZd241cUlrRFQwNTgwQ0JZWDQzelcyeXVCdXltaE9XMkhoNzJPdE5CTGRiQUFtUFowa1RNY1hNWnc?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923116_1d5ae15ac06801ki88.html>
 
-### 特朗普否认“试图迫使伊朗重返谈判桌”
+### 周杰伦广州场演唱会退票要手续费吗？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-09-02 05:00
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBYOVl4LUVuVTdMMnlia01PYlhGT2tZdm03WXVpeDhLZ1NJRWRKeldNY0pRRnlZaDdiMXItcS1BNWJ0UFVQcXlpVHp2dmF3cldUcnItUlh0czdxeUV6NVR6bTlMckQ?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923116_1d5ae15ac06801ki82.html>
 
-### 特朗普之子的风投，成为Polymarket主要股东
+### 中国未来最大敌人：不是特朗普，而是手握杀招、重构科技规则的他
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 电子工程专辑
-- 时间: 2026-09-02 08:22
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBZUWl6cWoxdDBzeThqVWdaS2o3UVZqN05yMFNybjNqaFA1VEhFMW84dHNtcDN1NWh1ZVNIbXp0TnRXRkphaDZLekxkRkZ3dk85Z1cw?oc=5>
+- 场馆: t.cj.sina.cn
+- 时间: 2026-09-02 11:27
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFAtZDlXVDBiY1N6NFNUS04yYnNZUjR3R0NhN05qam9zTXgzbXY2UXJDczNraHEzVGlFSlV3V1Z0NUZKMzFVc1Q1TjRwR2dVM2VoUDJIS2pDakQ1QnJvSm9MR2VJX2ZmUldlMXAwQjhhZWNzQQ?oc=5>
 
-### 特朗普总统表示美国将对伊朗的导弹袭击做出回应
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-08-31 15:47
-- 链接: <https://news.google.com/rss/articles/CBMitgFBVV95cUxQQTE0dGxxSXozdlpWbUJHRjB6S2kzalctbTBXWGVMWjIxY2doTVk5blVEek9XdjlXNGYyM1NKeF9jRUgwRnRKTVRmWFdQSkNkcjd3QjlvNDlnTTMyaGFHeTg2MDNxUGFhQ0N3SDd3c0k4Qk8xUmVvU1dNc1ZlY3NJOTBGbl9kSG9UUHh2NUd3NzYxeDN6alI4dF9vZjNpN01fMXh0NGpsTzZWUEFma3RmVV9EZ1I0Z9IBtgFBVV95cUxQQTE0dGxxSXozdlpWbUJHRjB6S2kzalctbTBXWGVMWjIxY2doTVk5blVEek9XdjlXNGYyM1NKeF9jRUgwRnRKTVRmWFdQSkNkcjd3QjlvNDlnTTMyaGFHeTg2MDNxUGFhQ0N3SDd3c0k4Qk8xUmVvU1dNc1ZlY3NJOTBGbl9kSG9UUHh2NUd3NzYxeDN6alI4dF9vZjNpN01fMXh0NGpsTzZWUEFma3RmVV9EZ1I0Zw?oc=5>
-
-### 特朗普发出强硬威胁：若伊朗实施报复，将遭美方更猛烈打击
+### 为降低汽油价格、利好中期选举，特朗普敦促石油企业扩大炼油能力
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-09-01 23:12
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5LYThPdUZHbDA3SmcwOWtQVFdNYzg0Y04tM1pjTHNLZzNCb2tlellTMmg5bTlnMlk1N3NuWE5aRmlDNktvZmpKdzdmd1BHT1hvQ3FYQjFUOXZMTmRLTjl0MllFNFk5YVdG?oc=5>
+- 场馆: finance.sina.com.cn
+- 时间: 2026-09-02 19:18
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5MVnk5YVZGdEY2RnFyOXYteVk3Uk1jZUpfWXBqYWhNRXBKc3BVQUtUNnZlY20wRDFGMUhDV2NVVjJqby1BSTBkT2xtUEN2UjR4M1RpdlZQaFkxYWhTbHdCeEIwSUpkWEV1di0zX0pVdHFCVm1uTEw2Ng?oc=5>
 
-### TRUMP 8.31 行情分析：高位回落，迷因币的狂欢暂歇 今日TRUMP... | 欧易
+### 视频丨美国油价上涨加重民众负担 特朗普敦促能源企业增产
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: OKX
-- 时间: 2026-08-31 14:58
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTFBPNHpYVlUzZHB0Q3VuRmx3UHliQ3VIS29mdFBaWkZuT1EtRlV5QUpnYS1UekpBOGU2Tko0QjFHUUZDOEJlSi1ydlNzTUZvTzJfWHBmSFh4cnFyWF9NcWwtWkNNbDAtOXQ0clhz?oc=5>
+- 场馆: finance.sina.com.cn
+- 时间: 2026-09-02 16:49
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5vUHdaYmxjSG5KVURYaWNPaDNVOGRsVzBsdUNwVzZ0LThQWmJyeHNnWFJaVjRsUVJEZVJtMnZmTldnbjlqdXFiazFYak5qUkJVam4wWWNxMmUxTW9IOHFGaHZEZHA4YV84em5qWFdkdDQ2OUgyMUxPOQ?oc=5>
+
+### 特朗普提名高雄出任下一任美国海军部长
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 央视网
+- 时间: 2026-09-02 04:17
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9tcC0yWHcwVHN4UXcxZHRjV1FTX2FhYzBDTE5tSlVXdFJZSzhzb0JLZU1DMmxid240RThTZUdTZE1weXpsNlU5bGE3TEVsLU1VcGZHMHpvdzY2R3NDbmw5XzAyZzZoZ3pMMlpwTTlDR1RUcGRtdnAwNQ?oc=5>
+
+### 美邮局吹哨人：特朗普新邮寄选票系统或干扰中期选举
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-09-01 15:54
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ibmk4Q0o0MjJpS3R1R2NUbEgyMFFneno3SnRBdEJvVmtpcU1TbnU3eVhlaGYyOGJROUloTVNIRnljbVd0bjB0Mk1sbTBhclVjclAzSXdBWVFPSkx4VHpoYlhLd1F2Zw?oc=5>
+
+### 美军开始打击伊朗境内目标，特朗普称若伊报复将遭更猛烈打击，伊开始反击，美油盘中涨近6%
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街见闻
+- 时间: 2026-09-01 18:24
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE1uTmtoYVFHLXdqdVV2aUl5Z1NldlpOQkhQd2tPU0NqLWRlZHJGaHV6ZU5VOWQ1alhfM2ZvSFpJb0tIUExaN3JwWUdtZzJzcEN2VURF?oc=5>
+
+### 特朗普又要改名：霍尔木兹海峡应改为“特朗普海峡”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 东方财富
+- 时间: 2026-09-02 17:11
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ocFp5TVlCUUlsSjlQZXJDemhWSUpJVFltZkFMa3U4M3BVTllmLXg2MGJvSXkxekpoakNxREc5WTJrWndGRXpUd250WE5oWEJaLUpPX0FuWUduRmVXSmF2bA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-02 19:35  (11 条)
+
+- **周杰伦** | 周杰伦广州场正式开票时间确定了吗？ <https://k.sina.com.cn/article_7879776731_1d5abd9db06801eda0.html>
+- **周杰伦** | 周杰伦广州场抢票攻略：先填信息再开抢 <https://k.sina.com.cn/article_7879776731_1d5abd9db06801ed9w.html>
+- **周杰伦** | 周杰伦广州场演唱会票价有哪些档位？ <https://k.sina.com.cn/article_7879923116_1d5ae15ac06801ki88.html>
+- **周杰伦** | 周杰伦广州场演唱会退票要手续费吗？ <https://k.sina.com.cn/article_7879923116_1d5ae15ac06801ki82.html>
+- **特朗普** | 中国未来最大敌人：不是特朗普，而是手握杀招、重构科技规则的他 <https://news.google.com/rss/articles/CBMickFVX3lxTFAtZDlXVDBiY1N6NFNUS04yYnNZUjR3R0NhN05qam9zTXgzbXY2UXJDczNraHEzVGlFSlV3V1Z0NUZKMzFVc1Q1TjRwR2dVM2VoUDJIS2pDakQ1QnJvSm9MR2VJX2ZmUldlMXAwQjhhZWNzQQ?oc=5>
+- **特朗普** | 为降低汽油价格、利好中期选举，特朗普敦促石油企业扩大炼油能力 <https://news.google.com/rss/articles/CBMieEFVX3lxTE5MVnk5YVZGdEY2RnFyOXYteVk3Uk1jZUpfWXBqYWhNRXBKc3BVQUtUNnZlY20wRDFGMUhDV2NVVjJqby1BSTBkT2xtUEN2UjR4M1RpdlZQaFkxYWhTbHdCeEIwSUpkWEV1di0zX0pVdHFCVm1uTEw2Ng?oc=5>
+- **特朗普** | 视频丨美国油价上涨加重民众负担 特朗普敦促能源企业增产 <https://news.google.com/rss/articles/CBMieEFVX3lxTE5vUHdaYmxjSG5KVURYaWNPaDNVOGRsVzBsdUNwVzZ0LThQWmJyeHNnWFJaVjRsUVJEZVJtMnZmTldnbjlqdXFiazFYak5qUkJVam4wWWNxMmUxTW9IOHFGaHZEZHA4YV84em5qWFdkdDQ2OUgyMUxPOQ?oc=5>
+- **特朗普** | 特朗普提名高雄出任下一任美国海军部长 <https://news.google.com/rss/articles/CBMieEFVX3lxTE9tcC0yWHcwVHN4UXcxZHRjV1FTX2FhYzBDTE5tSlVXdFJZSzhzb0JLZU1DMmxid240RThTZUdTZE1weXpsNlU5bGE3TEVsLU1VcGZHMHpvdzY2R3NDbmw5XzAyZzZoZ3pMMlpwTTlDR1RUcGRtdnAwNQ?oc=5>
+- **特朗普** | 美邮局吹哨人：特朗普新邮寄选票系统或干扰中期选举 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ibmk4Q0o0MjJpS3R1R2NUbEgyMFFneno3SnRBdEJvVmtpcU1TbnU3eVhlaGYyOGJROUloTVNIRnljbVd0bjB0Mk1sbTBhclVjclAzSXdBWVFPSkx4VHpoYlhLd1F2Zw?oc=5>
+- **特朗普** | 美军开始打击伊朗境内目标，特朗普称若伊报复将遭更猛烈打击，伊开始反击，美油盘中涨近6% <https://news.google.com/rss/articles/CBMiU0FVX3lxTE1uTmtoYVFHLXdqdVV2aUl5Z1NldlpOQkhQd2tPU0NqLWRlZHJGaHV6ZU5VOWQ1alhfM2ZvSFpJb0tIUExaN3JwWUdtZzJzcEN2VURF?oc=5>
+- **特朗普** | 特朗普又要改名：霍尔木兹海峡应改为“特朗普海峡” <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ocFp5TVlCUUlsSjlQZXJDemhWSUpJVFltZkFMa3U4M3BVTllmLXg2MGJvSXkxekpoakNxREc5WTJrWndGRXpUd250WE5oWEJaLUpPX0FuWUduRmVXSmF2bA?oc=5>
 
 ### 2026-09-02 16:45  (8 条)
 
