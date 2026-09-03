@@ -1,78 +1,73 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-03 20:00**
-- 本轮扫到 11116 条, 新增 **8** 条
+- 最近更新: **2026-09-03 22:41**
+- 本轮扫到 11122 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (6 条)
 
-### 新加坡演唱会主办单位说目前没收到蔡徐坤演唱会取消的信息，所以将会如期举行
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301fpuo.html>
-
-### 美法官叫停川普最新出生公民權限制令
+### 特朗普要对偏袒某些“种族”的私立学校征税
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 大纪元
-- 时间: 2026-09-03 03:43
-- 链接: <https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGTDhWdnZCTXpCS3pwUDNCbGhtdXVzUkNHQm9SVWhoWTBJbTU1bXdueUdxajM0MTB4QW5aTWFHN0lvcVVsVW5mczBvR0RJUm9YN3g0X2RCcndDR3U5aW1F0gFkQVVfeXFMTmFPc1VHMG1KRGdRYWkxUzlfaUlVZWp0T0pteWlVRlg1MjJpdDUtTTdGOXUtVi1uSnd5cVkxX2lMY2lyY0VKM1JMaTQxZGlRQ3dXUThkMHREN0M3UUlUV2djN1hvRA?oc=5>
+- 场馆: RFI
+- 时间: 2026-09-03 20:28
+- 链接: <https://news.google.com/rss/articles/CBMiugJBVV95cUxPOVp5clRfZV96emZBTWVNdFFBbmFKNXpFTkxDbkItbHUyU01jbmE5VGRMbi1sOE9aQS1GYmFmQTlid0drSEFXWWZmUlNwLUhaZC1yQmxpd0VjVWpEMmMzLUJydWJnM2haYWdvSFBJS1U4UmYwY0R6OEhyMUNmZmNrWktKQ216cDZKNFN2ZlB0UVFYblE2OXl6YkZVaVNYTks5dTBYVU5xUXhITXkwQ2tTS3lRNUsxRDdBZjhDdGkySEtPbnItbTNXcnRVcS1GZU1ZWGtBR254ZDVaTWJGT1hjVWF6Q3lRRHcwRk5YYURhMDY4SFpBRFJyT3p3YmZJTElFeE1lTk1YUlI5ODAySE5Rb2k0Umh1WlVBVndFUmJzcjNsMnZybFNORFdobjQtMy1QS3RCNkUtR2VhQQ?oc=5>
 
-### 印有特朗普肖像的1美元硬币开始流通
+### 美国总统特朗普：像卡......_7x24快讯_新浪财经
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-09-03 14:58
-- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbm1Jem5oOVlGVWxnN2JOUDRIaDVNb1hON1VCcV9YbGQ4TEF6V09BRG5EcVZKckJpZFBlb1EwSlp5LVFLM2hRLURRUHYxQ2xyMDFUTDg5bzRuWHdYc0FDSE1SM08tcXcza2ZaWGVIZmljWUk5bDhocnJDMEp0d3JmV3RZUXBObklKUXYtTkNRcl9USldUTFJMNHlWOGx4blRVWkxvSUFzdDhQdw?oc=5>
+- 时间: 2026-09-03 15:41
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wRUEyUFVpcnYta3E1VDYycFVtYzN1SHVyanlqVnZlX21YRkxIcjNJYzNOYmVibjNRWXJNOWM3eS1Sdl9FOEt3TzE0Zw?oc=5>
 
-### 9月3日外盘头条：特朗普称对伊朗打击不会持续太久 Meta发布更强大AI模型 微软将开始按季度披露Azure营收
+### 特朗普谈对加拿大关税威胁：朋友买飞机受阻了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-09-03 11:01
-- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbGI0bV9BcUVhVmIwUmdjLUFUaGhPVlQtVnlzSE5XRVlWa09YM1hXVEFXSmxfbWR6NThYN1psbFhTdXhEMkM1akJyR0trZWVORS00TVVXVndZem9wMTFKaGhQc2JzMGhzNzV5VVJyRWFrdjR6NGtYZG5FdFdWSDJOaWVTYjhaSFo5RUhwQzBRbzNlWFB2MHRNUENsSGFGRDNkLTVZeVNlN2JCUQ?oc=5>
+- 时间: 2026-09-03 08:10
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxNY183YW1fdlY3d2k1d1FmWGIwNGdMbFp3YVp2RzZFWDYtd2pXU3k0enRXRUZhMmhlUHBzR2plQktqdXFzX3RUdWdHN0E5WWtLSkVzRVpmRjk1aDNVdUdIS0RpVDdvR1E3WUFRVFN5dl8xeW94MkNOWjhvQW5wUEVBdzRPMGVaQ2txdkRaN3d0NTdybDJmdk8yWG0tdWJ4NHFlblpUNFpqeHo1dnoyM0FXTXlVX1lCbkZhNjFySjZ2M0psLTBWY0c3cFZYTUxpN1dpSmIwd0ZQVWtIY2FzbjNr?oc=5>
 
-### 特朗普要给霍尔木兹改名“特朗普海峡”，美政客：疯狂的国王
+### 特朗普拟对芯片加征关税以提振制造业
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: news.ifeng.com
-- 时间: 2026-09-03 11:39
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5EQ0RhdjZFLUZsYTFKVWJ3TlE1endya0wzaU45VWp1b3g2bmRtMy1yTzY5OXFBNUUxSGROWmtsWHRfbUFjb3M0V3E1OFk?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-09-03 14:42
+- 链接: <https://news.google.com/rss/articles/CBMipAFBVV95cUxQSHp0bGVaeGZZem4taEE5a3NRb2ZWRjJvNG43cmd2OXdzMU9HMm0tbk9pVlVTX3Nrdm9zZkllTHc5QWhReHpBOWl5TE1JTGc1ZTJZeWdHS0lScTZEVTd6VXpVV3RaeXNVbXZ4MW5HaFRLV0hkLXVoTlhaZ3hLbWpiV3pUdzZ6NHB0alFRRHRBcERMdzFtYkhVMzE4dW5uRjRJRy1vUg?oc=5>
 
-### 事实简报：唐纳德·J·特朗普总统宣布达成历史性石油协议，以确保美国能源主导地位并推动委内瑞拉经济复苏
+### 中期选举临近 特朗普誓为共和党人全力助选
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: U.S. Embassy & Consulates in China
-- 时间: 2026-09-02 06:32
-- 链接: <https://news.google.com/rss/articles/CBMikgJBVV95cUxQQlpSeEFxU0lzMExzaEZsRWpJSjdpOGZrakxLaWctZHJKVXlXcDVuYVBRYTViZnRMa1dXalA1QWZPZnpNQy03RjM5RjhUM3JEZWQyMEt3MTc5ZnJUYzBxa211SjVqR1V0R0pNZ1o2bDBPWVd6NWsyM1BqbjdnV3ZEZ0c0NmpqQVVYdmVTbGFhV0FRYjdxSFI5YUJ3Sk5vWXVnamVielRTQk9SMWpQNDl1Ylc3Vm51SjJNSTgza1VmWl9mbkdkWEF3cnp3QXhqcmpNRGxEdXdpQjZoZEhyUnlDMEUycnZaMU5rcF9lRjR4Si00YWp6MjAwbWY2QWhmLW5yejlTaVRSOTlRSDF2dlpvaVBB?oc=5>
+- 场馆: 联合早报
+- 时间: 2026-09-03 02:27
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1JcElyUkkwalZQeWRDTDVMV1FJX0VyMkcxRE40QzBJN28yQnd3cWplQzBjemRueWI2RFZldExITlZGQWNGVUV3VmRxM0dhMEtnQnZPczFJUUQ5VnNYUzk4aUl3YWo4UQ?oc=5>
 
-### TRUMP空头突然加速：1小时占比冲到91%，全天仅64%
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Binance
-- 时间: 2026-09-03 12:12
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hakZaV3hsY3I5cUxNWVQtVXdPMHI5aE5tWElsdW9LZjZydk9FVUprT3pXZTF0NVBXMnFEUzVoTjdwOEtDRHVyZHhIQV9BZjB0elFoZFg2TzVoUVpmaXN1ekNxREtaRFpU?oc=5>
-
-### TRUMP团队2小时前再次转出2665万美元的TRUMP代币
+### TRUMP代币团队前天转出的1101万枚TRUMP又有80万枚转入币安
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: TradingView
-- 时间: 2026-09-01 03:21
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8yek9lTkxUNEd3U2NvZzc1Z2dPVGt5d19qdl9sNnpFYTBTUEN4eVBib251cjc4dks5Ui1lOEFUZURaX09yOTEwM2tFcnl4bC1jUzBPRW5BMTlhdTRxY3dfMlhmaFBMTm8?oc=5>
+- 时间: 2026-09-03 01:21
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9NSVFfX0FXU2l3VUhMdjMwdTFZMU5uRmh5MWtMbmhSREFtWC0wbEJndGR6dkIyV0Flc1pXUlpmU2NzTTJDYXNJV1A5X3l3UF9ESF9qQ1ItVk94OEM2SXp4Q2NyMVdsM0E?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-03 22:41  (6 条)
+
+- **特朗普** | 特朗普要对偏袒某些“种族”的私立学校征税 <https://news.google.com/rss/articles/CBMiugJBVV95cUxPOVp5clRfZV96emZBTWVNdFFBbmFKNXpFTkxDbkItbHUyU01jbmE5VGRMbi1sOE9aQS1GYmFmQTlid0drSEFXWWZmUlNwLUhaZC1yQmxpd0VjVWpEMmMzLUJydWJnM2haYWdvSFBJS1U4UmYwY0R6OEhyMUNmZmNrWktKQ216cDZKNFN2ZlB0UVFYblE2OXl6YkZVaVNYTks5dTBYVU5xUXhITXkwQ2tTS3lRNUsxRDdBZjhDdGkySEtPbnItbTNXcnRVcS1GZU1ZWGtBR254ZDVaTWJGT1hjVWF6Q3lRRHcwRk5YYURhMDY4SFpBRFJyT3p3YmZJTElFeE1lTk1YUlI5ODAySE5Rb2k0Umh1WlVBVndFUmJzcjNsMnZybFNORFdobjQtMy1QS3RCNkUtR2VhQQ?oc=5>
+- **特朗普** | 美国总统特朗普：像卡......_7x24快讯_新浪财经 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wRUEyUFVpcnYta3E1VDYycFVtYzN1SHVyanlqVnZlX21YRkxIcjNJYzNOYmVibjNRWXJNOWM3eS1Sdl9FOEt3TzE0Zw?oc=5>
+- **特朗普** | 特朗普谈对加拿大关税威胁：朋友买飞机受阻了 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxNY183YW1fdlY3d2k1d1FmWGIwNGdMbFp3YVp2RzZFWDYtd2pXU3k0enRXRUZhMmhlUHBzR2plQktqdXFzX3RUdWdHN0E5WWtLSkVzRVpmRjk1aDNVdUdIS0RpVDdvR1E3WUFRVFN5dl8xeW94MkNOWjhvQW5wUEVBdzRPMGVaQ2txdkRaN3d0NTdybDJmdk8yWG0tdWJ4NHFlblpUNFpqeHo1dnoyM0FXTXlVX1lCbkZhNjFySjZ2M0psLTBWY0c3cFZYTUxpN1dpSmIwd0ZQVWtIY2FzbjNr?oc=5>
+- **特朗普** | 特朗普拟对芯片加征关税以提振制造业 <https://news.google.com/rss/articles/CBMipAFBVV95cUxQSHp0bGVaeGZZem4taEE5a3NRb2ZWRjJvNG43cmd2OXdzMU9HMm0tbk9pVlVTX3Nrdm9zZkllTHc5QWhReHpBOWl5TE1JTGc1ZTJZeWdHS0lScTZEVTd6VXpVV3RaeXNVbXZ4MW5HaFRLV0hkLXVoTlhaZ3hLbWpiV3pUdzZ6NHB0alFRRHRBcERMdzFtYkhVMzE4dW5uRjRJRy1vUg?oc=5>
+- **特朗普** | 中期选举临近 特朗普誓为共和党人全力助选 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1JcElyUkkwalZQeWRDTDVMV1FJX0VyMkcxRE40QzBJN28yQnd3cWplQzBjemRueWI2RFZldExITlZGQWNGVUV3VmRxM0dhMEtnQnZPczFJUUQ5VnNYUzk4aUl3YWo4UQ?oc=5>
+- **Trump** | TRUMP代币团队前天转出的1101万枚TRUMP又有80万枚转入币安 <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9NSVFfX0FXU2l3VUhMdjMwdTFZMU5uRmh5MWtMbmhSREFtWC0wbEJndGR6dkIyV0Flc1pXUlpmU2NzTTJDYXNJV1A5X3l3UF9ESF9qQ1ItVk94OEM2SXp4Q2NyMVdsM0E?oc=5>
 
 ### 2026-09-03 20:00  (8 条)
 
