@@ -1,96 +1,136 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-03 00:27**
-- 本轮扫到 11074 条, 新增 **10** 条
+- 最近更新: **2026-09-03 04:51**
+- 本轮扫到 11087 条, 新增 **13** 条
 
 ---
 
-## 本轮新发现 (10 条)
+## 本轮新发现 (13 条)
 
-### 提议霍尔木兹海峡更名为“特朗普海峡”；伊朗称已击落50架美军MQ9无人机；美股集体收涨，国际金价拉升丨每经早参
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 每日经济新闻
-- 时间: 2026-09-02 22:54
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Ccm9NVS1nbExRWGViR0hZNWlmRk1UWXAtenAySDQtYUhfeFRYdzByTEItRmFSazRLX2RMaWJtR1J1ZlFSQjFkcktfSWM3Q1R3b2hwWlZpSEZHcVZXVFJ5YjBFcGY4Zw?oc=5>
-
-### 视频丨特朗普称对伊朗的新一轮打击不会“持续太久”
+### 特朗普提议将霍尔木兹海峡更名为“特朗普海峡”，是真的吗？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-09-02 22:03
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE1NQ3VENV9PRzlmY2xNVDlGbEp6MjZoU3liSkhKRkJFdEoxSDFwdDl0WXNtRFhFM0wwZ1c1X0RUaGVrSVJSNFAzLTlOMm1tVlczRFl0cmRwY2lCcXZwZnc?oc=5>
+- 场馆: IDNFinancials
+- 时间: 2026-09-03 03:40
+- 链接: <https://news.google.com/rss/articles/CBMi9wJBVV95cUxQQ1RyQ19SdUMxQ3BjQXZIbGc3Ty1aVUNHdzVNWENBSDNCQWUtRTIxLVVhYnRyRnBkcTNxcXhkeGVCbklpSm5CakZZajBrbU0wVUh4d3JVNkNZajdRMGV0WEQwTElfODdqeGpMbmFsN2kyMzZBWlB0V1ptOFoxcWFHNmtWLV80S0g0dG0tblVvTEl4UEcyQnZwTXdTbXF3bGVGeFhDT0poVVpwdEZWVm9BaHRMVjRSaGE2eS1ydkFLM2k2Njhoc2FBaVRaSzhrLVhtbmVGNWUyWjJnaHBtamQ0a3ZZOFoxNWVJc0RfTnVGUm56STlvOE1WQ2VUWjZ5WldaelZWb1VMM0w5N1dfRDQ0dEd2c1JsRXNJX1NDcmY1VWU5QUlNeml1ME1HdUpqWFlja1ZGeWdjYjVoaVNNMkc0ODdhWE1Wb3FWYUJqbGxYbHVuNHNUX0VxMGRtblo3RW9DcmhlWnFvaTlIUXdOdVFveFhNdlRWS00?oc=5>
 
-### 美国和委内瑞拉签署石油项目协议，此前特朗普称获得对委已探明石油储量中逾650亿桶的“多数控制权”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-02 22:37
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBFTi14bWFHY2JibWdGckxsUW1SSGthbVN3d0JoeUNicDdMSDFXRi1JT3NVVUlQMmVzODk1bEdvcTBXTWNkSklEWmwxMlE0ckY1YlJldDRUeUx0RFNWTm5sZ2diNF9JM0dBa2xqa3h1R09lbDhsZUxleQ?oc=5>
-
-### 哈利和梅根离开美国 特朗普高兴
+### 美伊战火再起？特朗普直言不会持续太久，“戏称”要给霍尔木兹改名！
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-09-02 21:15
-- 链接: <https://news.google.com/rss/articles/CBMiiAJBVV95cUxPc015b1phS29wMk9kcXl5YjJuQVdoMzlHejBQYk5rRFNSSHBrWWM1YW0zdGNEdUpVQVd6aV9oQkNSYVhPbFhkLXE5VE9xaHE4Q2ZqTWYtQ0x3amJYV0VVZHQwZm5NZnFybVVsaG1XQlRFMWZjemRuamRKN252cGlleF90ZFdleFdpNkhfLXBTNV9MdUkyRkhGeTVVQml5bWxacDZocTFiSW1jcGNnN3l2b0hVOGhoMVVnNjlwaTJ1bW1DWGxLZlVEcDJrNUoySTBGeWtMemQ5RFI5bzU3OWQ0U1FsLUkyb1ZBWGdvNTFTWTBJTEFoTzZUZi1GenQ4S2xuUnpWWU9UcHY?oc=5>
+- 场馆: 财联社
+- 时间: 2026-09-02 23:46
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE5tRmdBQWtXQkwtaUtKUlEyakQwdGMxVkhPTGI3VW5Cd1Fma0hrMzc0VGlfQ0J2eTNhNjFGY3Z0b2RISHhGMFhQdA?oc=5>
 
-### 特朗普又要改名：霍尔木兹海峡应改为“特朗普海峡”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网财经
-- 时间: 2026-09-02 23:55
-- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE5lN2QxSG9tSURDd1dLcHRUV21JSG1JYmNGYXhSUU9HVjBTRkdjb2tHOGhsRkFrc09GVGdOUjNlSjVXS0xMOTBPYTRWN2JJR1M5?oc=5>
-
-### 特朗普：对伊朗新一轮行动不会持续太久
+### 特朗普限制“出生公民权”的最新行政令，被法官拦下
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-09-02 23:03
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1lZGNhQi1COEktdXhpOEY5eHpEdzI5MWlQZm04eldBWWlaZkl4MEtqc2xFRTZPTVBTMVdFTUtaV1YzbHpsLTlwWGYtOVdUMXZwZ05MVVRYTFlXRFVaM0JMSFZQZXZtSjVkU0E?oc=5>
+- 场馆: 观察者
+- 时间: 2026-09-03 00:09
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5kbmpwb0Vud3MwS28xNEFPS2c2TVhfcDA2UGVlSGs1dHhsWHI4SFZmdHhOZ2YtUWFKZ2k4OFV0dDB5bWx2RHRnMmgxMWZxWmgzZWMtV0RkZVE5eHpNZVhwMFZhZEFYR3JxYVE?oc=5>
 
-### 美柴油裂解价差突破106美元创历史新高，特朗普面临“中选冲击”
+### 1美元特朗普硬币推出
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-09-03 01:15
+- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE5aVU5wQjJ6LWpsYUxRZVN1MXNmZzJYTHlhNHFCQWhrbmlqZkhFSTRPVkpDWU1nYmtaOFZIUXV3Ti1WaWhvQ0FXM2FqclFjSFVp?oc=5>
+
+### 特朗普称对伊朗新一轮打击不会“持续太久”，油价涨势暂歇
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 华尔街见闻
-- 时间: 2026-09-02 03:06
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VcWFnTE5LQ2lvWWdxUF9wbE9rYmtpclBsTzA4MWxWUXo0RC11cGdRZmoyekQ1dWhMWWpNbVk4YzAya21TemxrZEExd1JfZ1VaMmM0?oc=5>
+- 时间: 2026-09-03 00:26
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE85ZFBIUmFLUmxtSVRfR3NQd3FsbGJkMktOdV90Z09XdnJFSElkMmd5N0xvZmQwQm9MVG4wTWd3QzVHcDNLS0htblBaSGVEVG1WYVk0?oc=5>
 
-### 美国一名空军飞行员因称特朗普“叛徒和懦夫”，面临重大军事指控
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: QQ News
-- 时间: 2026-09-02 03:30
-- 链接: <https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0TUZHdURCZHBoRHhZcDRFNTZzUTYxdVNWOU9LenhGQXpkR1NpMG5zemQyTG5nMWxWX1VnZnBCT2d1M2Jhb3M4RFc1ZzI3Y2llREl2bTBR?oc=5>
-
-### 特朗普将会见旅游行业CEO，白宫力推世界杯旅游增长效应
+### 二季度经济数据下降，美国一众企业高管对特朗普马屁照拍不误
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-02 16:36
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxQall1SVV6dVpQbUo5c181ODh2M3UtTnZDblkxZmpEelNGM195OVhKSm9FSmVLRGFXR2dLUEdzRnhRNXBCR05NRnJ3em01QU4xZUc5cWROeW9sTUNGbXpmZDZLbnByd2xaRzZ3SXJtVXNGYTlVbWN0c1VfcmdBejNjWk0yVk5mOXc?oc=5>
+- 场馆: thepaper.cn
+- 时间: 2026-09-03 03:36
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DX2ZGXzJXMFhab0pVWTMtZl9PYWVEWXRxeWo4TWFDU1NmNFdBYjJRd2JPOFlCQ3p6Y1NOZkxrNU9wWDVLdWFNXy1EZjc3alRKOGFuZUl0ejJYbk44UXlpVA?oc=5>
 
-### 特朗普提议将霍尔木兹海峡更名为“特朗普海峡”
+### 特朗普威胁：“随时”准备对伊朗再次发动打击
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: chinanews.com.cn
-- 时间: 2026-09-02 23:00
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBueHV2akZ4YkxlQVJRdHdXM3Bia3RpY3hRX1hnM2tqblR3REY4QkdUVFVtMkJLSWVzUW1odnBhVXhSQUVZTWlyUzU2eEJjMDZldmp5bDdZQ2JFLTQwMDNuaWx2andXNzd1?oc=5>
+- 时间: 2026-09-02 22:43
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3WWZMdDRmZ1RBQ3JtS3BQRXZfQnFrd3V1MXZlelRQZlhWSGFCMWJyS1V4ek96TUpvZ2tKOXJHY2Y4Y2pfTDlyZG9LejZjdXdnQjA1Y1RGWjFiMS1TNmdFdkdwaUxoVzVY?oc=5>
+
+### 特朗普总统重申：非常欢迎习近平来访
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-09-02 23:21
+- 链接: <https://news.google.com/rss/articles/CBMid0FVX3lxTE9mYW9IcW1qMG5qVkdXR2NCN015N3lsQ09Yb2FVU3BTN3ljd1dVQU04OGowMWozMG5sbWhFbkJUZXlhM2x3czVSTUY5a3k5dEt0YWZfTDR4bTAtYkNzRjBGcDJWQmd0WjczQ2dNTk81b3pUMnBCTmRv0gF6QVVfeXFMTXhSckhFQmhVQkNYaXVXYUNpRnFtaXFZYWZrd3dyMkpBVk9wNnJwMWVqSEg2MkNFMXJqMGVBYktqb1ZYY1JrWVp4SXUyM3RDNU9uZzBjMm1oWXlZZ0JFTDZ6UGN1TmVxZHVDbnVMM0dSb0V6cDVJcHVtMlE?oc=5>
+
+### 要把霍尔木兹海峡改名“特朗普海峡”？特朗普：就随口一说
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-09-03 01:37
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1MT2htN2FudVV6NUQzZ3hvR1o5WUcwdHdXbEluZzY4cEV5VmtQXzBfa281a3ZqanNKenVRcjhuUXMxSlZwcGVaUDBHSGRFTTQwTWlKQVVQbm9ZRWlENERlSw?oc=5>
+
+### 特朗普：要不要把霍尔木兹海峡改名为“特朗普海峡”？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Sohu
+- 时间: 2026-09-03 01:39
+- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxNR1ZEVmNZQWhFa2x0NUhMcnl1R3FKbGIwdUU2NGJ0dEZTUU5tOGZ3M0libHhyNTBhNmNieGRjY1Nmd0g1REg1RmpNQ0o4cDNpMUxhVVhEeGRfS19RWmEyU3VwazlTenM1SlZ1MmpXNlltckJVM1hsUXB1LVJoampiRG5QVk42X0lSaHhj?oc=5>
+
+### TRUMP代币的走势，再次印证了市场叙事与筹码分布之间的微妙错...
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: OKX
+- 时间: 2026-09-03 00:27
+- 链接: <https://news.google.com/rss/articles/CBMiXEFVX3lxTE50V2tZcjNRUENJYXdmUnEzVkRrM1NidVY2NkNZeGF4cEZDQndwelNyUXYxQXV4SUdTdE5ibUN5TE5NZHJ3dmE5bW5sNktRYkdzRi1KMGxuMzNNdTU0?oc=5>
+
+### TRUMP代币团队地址昨日转出1101万枚TRUMP，其中200万枚已转入币安
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: TradingView
+- 时间: 2026-09-02 01:33
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Ec2N6alZuVjlmVkt2OTBuMXNmclk4Vm9leHE0WHJmWnVFRWhrdEdjYUtHdVJVQUoyR0tjZDl1VWU0NzJrSVF2MElTTU1mUkNSOFU3ZXp4TG15WW9BaE1fVWlIaWI0cGc?oc=5>
+
+### 深入剖析特朗普第二任期：谁应对他最成功？
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 纽约时报中文网
+- 时间: 2026-09-03 02:14
+- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTE9jVU9YTUkxZl95dzhiTFA4dU5mMENMNVFCOGRKVFpsa0lCaGU2MnVqRXRNbkhTeE5tU1NxR2dPbDlZZ29BbkxrNjAzMllGV05Md2JzSEhNcWhQUm1fX1ZTQWFKamFLS1NDd2VnWURVSVJSRFBobHRyQ1R3cw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-03 04:51  (13 条)
+
+- **特朗普** | 特朗普提议将霍尔木兹海峡更名为“特朗普海峡”，是真的吗？ <https://news.google.com/rss/articles/CBMi9wJBVV95cUxQQ1RyQ19SdUMxQ3BjQXZIbGc3Ty1aVUNHdzVNWENBSDNCQWUtRTIxLVVhYnRyRnBkcTNxcXhkeGVCbklpSm5CakZZajBrbU0wVUh4d3JVNkNZajdRMGV0WEQwTElfODdqeGpMbmFsN2kyMzZBWlB0V1ptOFoxcWFHNmtWLV80S0g0dG0tblVvTEl4UEcyQnZwTXdTbXF3bGVGeFhDT0poVVpwdEZWVm9BaHRMVjRSaGE2eS1ydkFLM2k2Njhoc2FBaVRaSzhrLVhtbmVGNWUyWjJnaHBtamQ0a3ZZOFoxNWVJc0RfTnVGUm56STlvOE1WQ2VUWjZ5WldaelZWb1VMM0w5N1dfRDQ0dEd2c1JsRXNJX1NDcmY1VWU5QUlNeml1ME1HdUpqWFlja1ZGeWdjYjVoaVNNMkc0ODdhWE1Wb3FWYUJqbGxYbHVuNHNUX0VxMGRtblo3RW9DcmhlWnFvaTlIUXdOdVFveFhNdlRWS00?oc=5>
+- **特朗普** | 美伊战火再起？特朗普直言不会持续太久，“戏称”要给霍尔木兹改名！ <https://news.google.com/rss/articles/CBMiSEFVX3lxTE5tRmdBQWtXQkwtaUtKUlEyakQwdGMxVkhPTGI3VW5Cd1Fma0hrMzc0VGlfQ0J2eTNhNjFGY3Z0b2RISHhGMFhQdA?oc=5>
+- **特朗普** | 特朗普限制“出生公民权”的最新行政令，被法官拦下 <https://news.google.com/rss/articles/CBMiakFVX3lxTE5kbmpwb0Vud3MwS28xNEFPS2c2TVhfcDA2UGVlSGs1dHhsWHI4SFZmdHhOZ2YtUWFKZ2k4OFV0dDB5bWx2RHRnMmgxMWZxWmgzZWMtV0RkZVE5eHpNZVhwMFZhZEFYR3JxYVE?oc=5>
+- **特朗普** | 1美元特朗普硬币推出 <https://news.google.com/rss/articles/CBMiUEFVX3lxTE5aVU5wQjJ6LWpsYUxRZVN1MXNmZzJYTHlhNHFCQWhrbmlqZkhFSTRPVkpDWU1nYmtaOFZIUXV3Ti1WaWhvQ0FXM2FqclFjSFVp?oc=5>
+- **特朗普** | 特朗普称对伊朗新一轮打击不会“持续太久”，油价涨势暂歇 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE85ZFBIUmFLUmxtSVRfR3NQd3FsbGJkMktOdV90Z09XdnJFSElkMmd5N0xvZmQwQm9MVG4wTWd3QzVHcDNLS0htblBaSGVEVG1WYVk0?oc=5>
+- **特朗普** | 二季度经济数据下降，美国一众企业高管对特朗普马屁照拍不误 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DX2ZGXzJXMFhab0pVWTMtZl9PYWVEWXRxeWo4TWFDU1NmNFdBYjJRd2JPOFlCQ3p6Y1NOZkxrNU9wWDVLdWFNXy1EZjc3alRKOGFuZUl0ejJYbk44UXlpVA?oc=5>
+- **特朗普** | 特朗普威胁：“随时”准备对伊朗再次发动打击 <https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3WWZMdDRmZ1RBQ3JtS3BQRXZfQnFrd3V1MXZlelRQZlhWSGFCMWJyS1V4ek96TUpvZ2tKOXJHY2Y4Y2pfTDlyZG9LejZjdXdnQjA1Y1RGWjFiMS1TNmdFdkdwaUxoVzVY?oc=5>
+- **特朗普** | 特朗普总统重申：非常欢迎习近平来访 <https://news.google.com/rss/articles/CBMid0FVX3lxTE9mYW9IcW1qMG5qVkdXR2NCN015N3lsQ09Yb2FVU3BTN3ljd1dVQU04OGowMWozMG5sbWhFbkJUZXlhM2x3czVSTUY5a3k5dEt0YWZfTDR4bTAtYkNzRjBGcDJWQmd0WjczQ2dNTk81b3pUMnBCTmRv0gF6QVVfeXFMTXhSckhFQmhVQkNYaXVXYUNpRnFtaXFZYWZrd3dyMkpBVk9wNnJwMWVqSEg2MkNFMXJqMGVBYktqb1ZYY1JrWVp4SXUyM3RDNU9uZzBjMm1oWXlZZ0JFTDZ6UGN1TmVxZHVDbnVMM0dSb0V6cDVJcHVtMlE?oc=5>
+- **特朗普** | 要把霍尔木兹海峡改名“特朗普海峡”？特朗普：就随口一说 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1MT2htN2FudVV6NUQzZ3hvR1o5WUcwdHdXbEluZzY4cEV5VmtQXzBfa281a3ZqanNKenVRcjhuUXMxSlZwcGVaUDBHSGRFTTQwTWlKQVVQbm9ZRWlENERlSw?oc=5>
+- **特朗普** | 特朗普：要不要把霍尔木兹海峡改名为“特朗普海峡”？ <https://news.google.com/rss/articles/CBMiiwFBVV95cUxNR1ZEVmNZQWhFa2x0NUhMcnl1R3FKbGIwdUU2NGJ0dEZTUU5tOGZ3M0libHhyNTBhNmNieGRjY1Nmd0g1REg1RmpNQ0o4cDNpMUxhVVhEeGRfS19RWmEyU3VwazlTenM1SlZ1MmpXNlltckJVM1hsUXB1LVJoampiRG5QVk42X0lSaHhj?oc=5>
+- **Trump** | TRUMP代币的走势，再次印证了市场叙事与筹码分布之间的微妙错... <https://news.google.com/rss/articles/CBMiXEFVX3lxTE50V2tZcjNRUENJYXdmUnEzVkRrM1NidVY2NkNZeGF4cEZDQndwelNyUXYxQXV4SUdTdE5ibUN5TE5NZHJ3dmE5bW5sNktRYkdzRi1KMGxuMzNNdTU0?oc=5>
+- **Trump** | TRUMP代币团队地址昨日转出1101万枚TRUMP，其中200万枚已转入币安 <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Ec2N6alZuVjlmVkt2OTBuMXNmclk4Vm9leHE0WHJmWnVFRWhrdEdjYUtHdVJVQUoyR0tjZDl1VWU0NzJrSVF2MElTTU1mUkNSOFU3ZXp4TG15WW9BaE1fVWlIaWI0cGc?oc=5>
+- **Trump** | 深入剖析特朗普第二任期：谁应对他最成功？ <https://news.google.com/rss/articles/CBMie0FVX3lxTE9jVU9YTUkxZl95dzhiTFA4dU5mMENMNVFCOGRKVFpsa0lCaGU2MnVqRXRNbkhTeE5tU1NxR2dPbDlZZ29BbkxrNjAzMllGV05Md2JzSEhNcWhQUm1fX1ZTQWFKamFLS1NDd2VnWURVSVJSRFBobHRyQ1R3cw?oc=5>
 
 ### 2026-09-03 00:27  (10 条)
 
