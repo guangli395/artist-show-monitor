@@ -1,14 +1,89 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-03 17:26**
-- 本轮扫到 11108 条, 新增 **0** 条
+- 最近更新: **2026-09-03 20:00**
+- 本轮扫到 11116 条, 新增 **8** 条
 
 ---
 
-## 本轮无新增
+## 本轮新发现 (8 条)
 
-数据库里所有演出/动态都已见过,暂无新增。
+### 新加坡演唱会主办单位说目前没收到蔡徐坤演唱会取消的信息，所以将会如期举行
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301fpuo.html>
+
+### 美法官叫停川普最新出生公民權限制令
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 大纪元
+- 时间: 2026-09-03 03:43
+- 链接: <https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGTDhWdnZCTXpCS3pwUDNCbGhtdXVzUkNHQm9SVWhoWTBJbTU1bXdueUdxajM0MTB4QW5aTWFHN0lvcVVsVW5mczBvR0RJUm9YN3g0X2RCcndDR3U5aW1F0gFkQVVfeXFMTmFPc1VHMG1KRGdRYWkxUzlfaUlVZWp0T0pteWlVRlg1MjJpdDUtTTdGOXUtVi1uSnd5cVkxX2lMY2lyY0VKM1JMaTQxZGlRQ3dXUThkMHREN0M3UUlUV2djN1hvRA?oc=5>
+
+### 印有特朗普肖像的1美元硬币开始流通
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-03 14:58
+- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbm1Jem5oOVlGVWxnN2JOUDRIaDVNb1hON1VCcV9YbGQ4TEF6V09BRG5EcVZKckJpZFBlb1EwSlp5LVFLM2hRLURRUHYxQ2xyMDFUTDg5bzRuWHdYc0FDSE1SM08tcXcza2ZaWGVIZmljWUk5bDhocnJDMEp0d3JmV3RZUXBObklKUXYtTkNRcl9USldUTFJMNHlWOGx4blRVWkxvSUFzdDhQdw?oc=5>
+
+### 9月3日外盘头条：特朗普称对伊朗打击不会持续太久 Meta发布更强大AI模型 微软将开始按季度披露Azure营收
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-03 11:01
+- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbGI0bV9BcUVhVmIwUmdjLUFUaGhPVlQtVnlzSE5XRVlWa09YM1hXVEFXSmxfbWR6NThYN1psbFhTdXhEMkM1akJyR0trZWVORS00TVVXVndZem9wMTFKaGhQc2JzMGhzNzV5VVJyRWFrdjR6NGtYZG5FdFdWSDJOaWVTYjhaSFo5RUhwQzBRbzNlWFB2MHRNUENsSGFGRDNkLTVZeVNlN2JCUQ?oc=5>
+
+### 特朗普要给霍尔木兹改名“特朗普海峡”，美政客：疯狂的国王
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: news.ifeng.com
+- 时间: 2026-09-03 11:39
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5EQ0RhdjZFLUZsYTFKVWJ3TlE1endya0wzaU45VWp1b3g2bmRtMy1yTzY5OXFBNUUxSGROWmtsWHRfbUFjb3M0V3E1OFk?oc=5>
+
+### 事实简报：唐纳德·J·特朗普总统宣布达成历史性石油协议，以确保美国能源主导地位并推动委内瑞拉经济复苏
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: U.S. Embassy & Consulates in China
+- 时间: 2026-09-02 06:32
+- 链接: <https://news.google.com/rss/articles/CBMikgJBVV95cUxQQlpSeEFxU0lzMExzaEZsRWpJSjdpOGZrakxLaWctZHJKVXlXcDVuYVBRYTViZnRMa1dXalA1QWZPZnpNQy03RjM5RjhUM3JEZWQyMEt3MTc5ZnJUYzBxa211SjVqR1V0R0pNZ1o2bDBPWVd6NWsyM1BqbjdnV3ZEZ0c0NmpqQVVYdmVTbGFhV0FRYjdxSFI5YUJ3Sk5vWXVnamVielRTQk9SMWpQNDl1Ylc3Vm51SjJNSTgza1VmWl9mbkdkWEF3cnp3QXhqcmpNRGxEdXdpQjZoZEhyUnlDMEUycnZaMU5rcF9lRjR4Si00YWp6MjAwbWY2QWhmLW5yejlTaVRSOTlRSDF2dlpvaVBB?oc=5>
+
+### TRUMP空头突然加速：1小时占比冲到91%，全天仅64%
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Binance
+- 时间: 2026-09-03 12:12
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hakZaV3hsY3I5cUxNWVQtVXdPMHI5aE5tWElsdW9LZjZydk9FVUprT3pXZTF0NVBXMnFEUzVoTjdwOEtDRHVyZHhIQV9BZjB0elFoZFg2TzVoUVpmaXN1ekNxREtaRFpU?oc=5>
+
+### TRUMP团队2小时前再次转出2665万美元的TRUMP代币
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: TradingView
+- 时间: 2026-09-01 03:21
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8yek9lTkxUNEd3U2NvZzc1Z2dPVGt5d19qdl9sNnpFYTBTUEN4eVBib251cjc4dks5Ui1lOEFUZURaX09yOTEwM2tFcnl4bC1jUzBPRW5BMTlhdTRxY3dfMlhmaFBMTm8?oc=5>
+
+
+---
+
 ## 历史发现
+
+### 2026-09-03 20:00  (8 条)
+
+- **蔡徐坤** | 新加坡演唱会主办单位说目前没收到蔡徐坤演唱会取消的信息，所以将会如期举行 <https://k.sina.com.cn/article_7879924009_m1d5ae192903301fpuo.html>
+- **特朗普** | 美法官叫停川普最新出生公民權限制令 <https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGTDhWdnZCTXpCS3pwUDNCbGhtdXVzUkNHQm9SVWhoWTBJbTU1bXdueUdxajM0MTB4QW5aTWFHN0lvcVVsVW5mczBvR0RJUm9YN3g0X2RCcndDR3U5aW1F0gFkQVVfeXFMTmFPc1VHMG1KRGdRYWkxUzlfaUlVZWp0T0pteWlVRlg1MjJpdDUtTTdGOXUtVi1uSnd5cVkxX2lMY2lyY0VKM1JMaTQxZGlRQ3dXUThkMHREN0M3UUlUV2djN1hvRA?oc=5>
+- **特朗普** | 印有特朗普肖像的1美元硬币开始流通 <https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbm1Jem5oOVlGVWxnN2JOUDRIaDVNb1hON1VCcV9YbGQ4TEF6V09BRG5EcVZKckJpZFBlb1EwSlp5LVFLM2hRLURRUHYxQ2xyMDFUTDg5bzRuWHdYc0FDSE1SM08tcXcza2ZaWGVIZmljWUk5bDhocnJDMEp0d3JmV3RZUXBObklKUXYtTkNRcl9USldUTFJMNHlWOGx4blRVWkxvSUFzdDhQdw?oc=5>
+- **特朗普** | 9月3日外盘头条：特朗普称对伊朗打击不会持续太久 Meta发布更强大AI模型 微软将开始按季度披露Azure营收 <https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbGI0bV9BcUVhVmIwUmdjLUFUaGhPVlQtVnlzSE5XRVlWa09YM1hXVEFXSmxfbWR6NThYN1psbFhTdXhEMkM1akJyR0trZWVORS00TVVXVndZem9wMTFKaGhQc2JzMGhzNzV5VVJyRWFrdjR6NGtYZG5FdFdWSDJOaWVTYjhaSFo5RUhwQzBRbzNlWFB2MHRNUENsSGFGRDNkLTVZeVNlN2JCUQ?oc=5>
+- **特朗普** | 特朗普要给霍尔木兹改名“特朗普海峡”，美政客：疯狂的国王 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5EQ0RhdjZFLUZsYTFKVWJ3TlE1endya0wzaU45VWp1b3g2bmRtMy1yTzY5OXFBNUUxSGROWmtsWHRfbUFjb3M0V3E1OFk?oc=5>
+- **Trump** | 事实简报：唐纳德·J·特朗普总统宣布达成历史性石油协议，以确保美国能源主导地位并推动委内瑞拉经济复苏 <https://news.google.com/rss/articles/CBMikgJBVV95cUxQQlpSeEFxU0lzMExzaEZsRWpJSjdpOGZrakxLaWctZHJKVXlXcDVuYVBRYTViZnRMa1dXalA1QWZPZnpNQy03RjM5RjhUM3JEZWQyMEt3MTc5ZnJUYzBxa211SjVqR1V0R0pNZ1o2bDBPWVd6NWsyM1BqbjdnV3ZEZ0c0NmpqQVVYdmVTbGFhV0FRYjdxSFI5YUJ3Sk5vWXVnamVielRTQk9SMWpQNDl1Ylc3Vm51SjJNSTgza1VmWl9mbkdkWEF3cnp3QXhqcmpNRGxEdXdpQjZoZEhyUnlDMEUycnZaMU5rcF9lRjR4Si00YWp6MjAwbWY2QWhmLW5yejlTaVRSOTlRSDF2dlpvaVBB?oc=5>
+- **Trump** | TRUMP空头突然加速：1小时占比冲到91%，全天仅64% <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hakZaV3hsY3I5cUxNWVQtVXdPMHI5aE5tWElsdW9LZjZydk9FVUprT3pXZTF0NVBXMnFEUzVoTjdwOEtDRHVyZHhIQV9BZjB0elFoZFg2TzVoUVpmaXN1ekNxREtaRFpU?oc=5>
+- **Trump** | TRUMP团队2小时前再次转出2665万美元的TRUMP代币 <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8yek9lTkxUNEd3U2NvZzc1Z2dPVGt5d19qdl9sNnpFYTBTUEN4eVBib251cjc4dks5Ui1lOEFUZURaX09yOTEwM2tFcnl4bC1jUzBPRW5BMTlhdTRxY3dfMlhmaFBMTm8?oc=5>
 
 ### 2026-09-03 13:43  (10 条)
 
