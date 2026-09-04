@@ -1,110 +1,80 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-04 05:20**
-- 本轮扫到 11142 条, 新增 **12** 条
+- 最近更新: **2026-09-04 09:48**
+- 本轮扫到 11149 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (12 条)
+## 本轮新发现 (7 条)
 
-### 神秘感拉满！蔡徐坤空降洛杉矶音乐节，全新单曲《deadman》震撼上线
+### 又一波演唱会定档南京
 
-- 艺人/关键词: **蔡徐坤**
+- 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6085757482_m16abd4a2a05301nngs.html>
+- 链接: <https://finance.sina.com.cn/wm/2026-09-04/doc-iniqryeu0846783.shtml>
 
-### 石油巨头为何对特朗普介入委内瑞拉石油业心存戒备
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-09-04 04:43
-- 链接: <https://news.google.com/rss/articles/CBMi4gJBVV95cUxORWVZNVN6VWwxMzMxMmRIZzdaS1dQMWFrbVladjVJWUdWU251Z0llUmhNM1JWSUNRSWJNelNzVWh3NzMteEZtZFM3YmtVYW9oY21EYVdKODVZM3FWbnhTU3ByU3lCZFhaRXhidEdrTHh3LXQ1TjVpTFhxS0FGeEM2Q1Ffbng3Z0RFd19KczdjTmZ4T0lFSzZaSHhncHBiVnkwUkZrSkZGMWh3MEs2SEZwc2ZXTGphZnloMnRQM0NZZ1dRNkUtRk5xU0VVQUhRZ1ZndXNzdFJxamplcHJMaUs2ck00cHhjSGcwcEk0TVd2V0ZSRTJLbkJ0MDdNVVNobWxTYTBSb2ZNY0k1ZEpXZnBfR2NiLUZhSk5mZlFNX0xSd0VPT2RMWmx4UWc0Mk53RF9peHVrOUQ4aTNkYkJpN185by0xWjQyb2lrb29lLXVEcF9ndEh0LXd4TS0wRVp1NVg0ZHc?oc=5>
-
-### 林肯号水兵家属：特朗普的话令人沮丧，也让美国显得软弱愚蠢
+### 特朗普严正声明：我没戴假发
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 观察者
-- 时间: 2026-09-03 10:21
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFAyLWc2ZENoa3NPbThYRkxzaE5XMGl2UXEtcFNkWGFuT3pRS1BLR0tNUXY0WW4waUcxeVg3RXBOTVJJcDV0R1ViWHBueHc5anVuZzk3cXUwNmNsa2VDYll5WFRvSzVMazRlRlE?oc=5>
+- 时间: 2026-09-04 08:34
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBSckxRS2FFSHpZS3c1QUFmLV82UEhiS012Q0QwZmZHM0pNcGZWR2h1YkVEdXV2QmZTZi1vUGRreUowRVhnLXNINU82RjNkSGFNeUg1dEkwRUZ4MFp4WDAxUWpsckswekdScmc?oc=5>
 
-### 特朗普宣布亚当·特勒将出任美代理陆军部长
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: china.zjol.com.cn
-- 时间: 2026-09-04 00:39
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE1IbnJsVklsSE1mR21wOUJRM1U5YXdrS0pkVzdrbjZFUHg0Y25iYUQtdUdkMENBV1VpVnZZOTBQTjNsbWtBNUxFdERya1JDYV9JTEVUSTlyZ0xiNTl4RUNNR0QxRVh5WnpIalVPVWJZVQ?oc=5>
-
-### 特朗普宣布亚当·特勒将出任美代理陆军部长；美国白宫此前证实，陆军部长丹尼尔·德里斯科尔在任职约18个月后辞职
+### 扎克伯格在与特朗普的谈话中拒绝美国人工智能监管机构的计划
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Sohu
-- 时间: 2026-09-03 23:47
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxQTXRQQ1hNejcwei1XTF92TXlfS29XWEZVZDcyank0WHMtNnZ0Q3l4VEpIdDBPd0U2QlhIVGVmczFaZmRsSFhOay1vVDZfODlJeEpBUmxacG5EeGFueUtRNWRaYlpERlExYk9pTjB0cWlYOTltZXA4Q1k3RDk2bUlObzh3TVZZQm9pYzQ5OA?oc=5>
+- 场馆: IDNFinancials
+- 时间: 2026-09-04 06:20
+- 链接: <https://news.google.com/rss/articles/CBMipwNBVV95cUxPaXNxMHIwTWZPV0JBRHFsTkpmeWNSM2hIU25CNnRGQmJPU2NWUk5KRDJ5akxfZnNEQ3FzOTgzNmtwM3ZzMnNiUFlxZi1pZkM2dTgtYVBFVUJ4eEtoay15RmdzRnppUk4yb1ppWHkyTUo2QUxoWmJiTGVVYkRPb2RHVFF5ZnBndHlkd3ZBYW4wYTI4TGFVMTJkZG9PRm55bV9ndEpqS3VURHFHT0ZhMFV4dmY1cm56Q0ZjOUdIX2w2YWNZRm5TYkVaamFaNTdwNW8xMmZuUy1NNzZXVEg2Mk1hTXdNdHlfM2p2QVZSTHdTVnVGYmtjSTZ1TG4yR2FJckotTGpVcG9WQl8tSkJnZ19ib3lXMjhmSTBsNlc1S0VQZi1BOUsteUlZLUItSk4tWU5vZG5ncnBkdk1TMzdMSW1KRTliNXBFWHhvc3FFVGtYSm5USERHLUVLLWFyYS16T083R0dsQWhPd3BXVHhqZ040dDktVm84bFRkYlc0VVpSOHpvYkJpOFMxUmp3QWlGVzNNakoydjUwV2FMbzV6WDRUNUtuMzlESmM?oc=5>
 
-### 特朗普又要改名：霍尔木兹海峡应改为“特朗普海峡”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-09-02 17:00
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTFB5YmRyOG1TS1J1UUtyTlFpTmY3MXo4ZmF4TFc0QmRTVlNUTzlmVnk2MDF0aXN3eFR6UWNaQzFXM04wU3VEUzkzNkFLVmhWVFdLNG5lUGppR3h3V2tReVNQSnpCcXloNDc2WGxiRGdEX1Q3MDRz?oc=5>
-
-### 特朗普海峡 你听说过没
+### 特朗普：美国将要求欧洲偿还援乌巨额资金
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-03 16:10
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxQSG1BMUtWeERjLXBMTUJfSzR6aXQ1UUZ6ZjJNazhaNlVxSnFSM3hhekRNSjRmYkpoZTVhWlF0eEJ6by1jWDZ4WS1wUldnM2NyS2pPX2V1a1ZoTVFsRTVhZGc0YTR2SEtVc2ZndmlEWXJrck9HTE5tV181WlE2QzNOZVctaXRYVEU?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-09-04 02:38
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ncVFSeWdwZW10TFBxYndERVkxb3lOSjl1U3I2WGVNZmJhOEZnWk1BTWw0OTh2RUFnbFFyaElzVnY0ZnhaUUh1WDlYTQ?oc=5>
 
-### 特朗普谈哈里王子和梅根离开美国
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: news.ifeng.com
-- 时间: 2026-09-04 02:05
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1qOU50TmplTHZZaW81NjlROTZrOFhNb3RlT2tzeE1YT3F1S1dkUjRoSVF2N1gySjBqZlZURVZqenJRQ3V0VmJ6Q1VNLW0?oc=5>
-
-### 特朗普公开威胁随时发动袭击，私下讨论是否结束战争，美对伊作战出现“矛盾信号”
+### 美媒：美国陆军部长向特朗普递交辞呈
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-09-04 00:08
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Iem1hSk5wMmZSY3NKSjNIZ21HbE1RWXRqUGRBQ2xvZVZ6T3VPLWNjb3VGQkx0UnVxQTNTNUxfVzlONVdPRDk3YXBxMnBUTTVhZmxB?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-08-31 23:45
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1RazI1RDN2akhvWjMydWg3NnhUT1NFeC1DNXF1aTBUMWh1MUY1Qng4aGZwNC1NRVRVeXF4Qi05cUlKOTV4OHF6ZF9waw?oc=5>
 
-### 上合组织峰会与G20折射中美全球秩序博弈
+### 特朗普被网传突发！白宫预告万斯登台致辞贴流量飙涨
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 金融界
+- 时间: 2026-09-04 07:50
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE81RzItU2puSjFMcmlkTWtSOERhRkc1SHlUNklCQm1FY3RtUVBVaXdiVGo2T0pYTlUtdXh5RlpkQmZlWkJWcVZ2RkMzNDJ3V3VvR1kzVGhaWVBqVGw3OGJDNWd5VHAxQ3p1VnBuVlU5bi1DZw?oc=5>
+
+### #特朗普怎么了# 虽说特朗普去世的新闻时不时有，但是这次是真的有视频出来，等一个辟谣 #特朗普# ​
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-09-01 17:44
-- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxOb3hmTHFCdU9MTlJXLUFXRFptdVQ3bGozVGxOcFN2UWoteUNIeENRQjYxRzdnMjhmWG05WmdXcTlxUlFjajAxbnllaE9iRkhQcnlieTFtU3lpQTNSUi15Vi12a3IxdGdxYkdsOG41TTVPVmFkV3k0V1Y1MFAwNUlMNF9ZRQ?oc=5>
-
-### 特朗普总统达成史上最大石油协议
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: VOA - Voice of America English News
-- 时间: 2026-09-03 16:43
-- 链接: <https://news.google.com/rss/articles/CBMixAFBVV95cUxNOENJNGFERkFUdkx2RjFYOGNhSzR1WUpKQ28teHBIM2RRU3lRbHdESG9HZF9GaWo2Z212aWI3eUZkTU9oeF9SN0IwZmpyVXctblZxM0NjZ3FjMHhmTFl6VEp3cE83N3JJcGVzeldrR0JLMWdZTmJnQ2hXckZRQXBYcGFZa0RTUHBJbTA0QWtjOFBxc1BRMHNFSUZJSTlUSGM0Nk1xSi0yNWd2RFdCLXoxQnFRTVkxbm5TYk1NMmw3RlljOHlE0gHEAUFVX3lxTE04Q0k0YURGQVR2THZGMVg4Y2FLNHVZSkpDby14cEgzZFFTeVFsd0RIb0dkX0ZpajZnbXZpYjd5RmRNT2h4X1I3QjBmanJVdy1uVnEzQ2NncWMweGZMWXpUSndwTzc3cklwZXN6V2tHQksxZ1lOYmdDaFdyRlFBcFhwYVlrRFNQcEltMDRBa2M4UHFzUFEwc0VJRklJOVRIYzQ2TXFKLTI1Z3ZEV0ItejFCcVFNWTFublNiTU0ybDdGWWM4eUQ?oc=5>
-
-### “特习会”前香港多名政治犯宣判 专家吁美中峰会聚焦人权促释放黎智英和黄之锋
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-09-04 05:06
-- 链接: <https://news.google.com/rss/articles/CBMiwAFBVV95cUxNR2RmWHNYUkZpQ2xqdk00R0hJenJIRXNMcjNEQUdfNk5VaDhQOHh1VmMzeHVPUEs1Vi12bkFKZ3hKcHlTdGxVRHpDVVFmMmlvdzJvdjVsMFhkMF9oWjAtcV95Tno4amJneW1MSE9idGlPWXR5dFZNenltM25VQVJxRWZJT1BBaElUaTBLdmlELTlldDFkWlR0WW9RMnF1a0pjVExLWC1FTE1MYXkta1hQZ1AzcTBrd0d2NFZFaG1iOHHSAcMBQVVfeXFMTXd1UXdGTzN1M3hYWHJpYWw5akF6NldUUk9UQ1ZSaVBLdm1ndHVFZm53VC1nLWFtdlVZVjlHdUkyRUMtNGdnQTlDYWx5RzdXaXUwLXRtZHAyVEcxdzRrT212MUJkUC1kemZXZ3E5OVFkbmtlNlpoWmpVemlhWk1PZUpzcFJHQWpERVBua1RVOWMwTFVxSXVGNmVfemxOUkh0cjlZNDFTSS1Gck95SU9qWVZNZ1NaQ0JXWTE2VTg3dl9KdFMw?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-09-04 06:00
+- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTFBmVDcwdlpGVnlRWENIWUk3UFZUekpxNUFrYmJzenBhb29PVFB4VkM2US1RS3k0UnNaeDJVeDdQLTlYUjJVQ2F3bzU0REU3X0ZwV3c5REM0dGZGWGVwNWlqcHVlaw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-04 09:48  (7 条)
+
+- **周杰伦** | 又一波演唱会定档南京 <https://finance.sina.com.cn/wm/2026-09-04/doc-iniqryeu0846783.shtml>
+- **特朗普** | 特朗普严正声明：我没戴假发 <https://news.google.com/rss/articles/CBMiakFVX3lxTFBSckxRS2FFSHpZS3c1QUFmLV82UEhiS012Q0QwZmZHM0pNcGZWR2h1YkVEdXV2QmZTZi1vUGRreUowRVhnLXNINU82RjNkSGFNeUg1dEkwRUZ4MFp4WDAxUWpsckswekdScmc?oc=5>
+- **特朗普** | 扎克伯格在与特朗普的谈话中拒绝美国人工智能监管机构的计划 <https://news.google.com/rss/articles/CBMipwNBVV95cUxPaXNxMHIwTWZPV0JBRHFsTkpmeWNSM2hIU25CNnRGQmJPU2NWUk5KRDJ5akxfZnNEQ3FzOTgzNmtwM3ZzMnNiUFlxZi1pZkM2dTgtYVBFVUJ4eEtoay15RmdzRnppUk4yb1ppWHkyTUo2QUxoWmJiTGVVYkRPb2RHVFF5ZnBndHlkd3ZBYW4wYTI4TGFVMTJkZG9PRm55bV9ndEpqS3VURHFHT0ZhMFV4dmY1cm56Q0ZjOUdIX2w2YWNZRm5TYkVaamFaNTdwNW8xMmZuUy1NNzZXVEg2Mk1hTXdNdHlfM2p2QVZSTHdTVnVGYmtjSTZ1TG4yR2FJckotTGpVcG9WQl8tSkJnZ19ib3lXMjhmSTBsNlc1S0VQZi1BOUsteUlZLUItSk4tWU5vZG5ncnBkdk1TMzdMSW1KRTliNXBFWHhvc3FFVGtYSm5USERHLUVLLWFyYS16T083R0dsQWhPd3BXVHhqZ040dDktVm84bFRkYlc0VVpSOHpvYkJpOFMxUmp3QWlGVzNNakoydjUwV2FMbzV6WDRUNUtuMzlESmM?oc=5>
+- **特朗普** | 特朗普：美国将要求欧洲偿还援乌巨额资金 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ncVFSeWdwZW10TFBxYndERVkxb3lOSjl1U3I2WGVNZmJhOEZnWk1BTWw0OTh2RUFnbFFyaElzVnY0ZnhaUUh1WDlYTQ?oc=5>
+- **特朗普** | 美媒：美国陆军部长向特朗普递交辞呈 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1RazI1RDN2akhvWjMydWg3NnhUT1NFeC1DNXF1aTBUMWh1MUY1Qng4aGZwNC1NRVRVeXF4Qi05cUlKOTV4OHF6ZF9waw?oc=5>
+- **特朗普** | 特朗普被网传突发！白宫预告万斯登台致辞贴流量飙涨 <https://news.google.com/rss/articles/CBMickFVX3lxTE81RzItU2puSjFMcmlkTWtSOERhRkc1SHlUNklCQm1FY3RtUVBVaXdiVGo2T0pYTlUtdXh5RlpkQmZlWkJWcVZ2RkMzNDJ3V3VvR1kzVGhaWVBqVGw3OGJDNWd5VHAxQ3p1VnBuVlU5bi1DZw?oc=5>
+- **Trump** | #特朗普怎么了# 虽说特朗普去世的新闻时不时有，但是这次是真的有视频出来，等一个辟谣 #特朗普# ​ <https://news.google.com/rss/articles/CBMiY0FVX3lxTFBmVDcwdlpGVnlRWENIWUk3UFZUekpxNUFrYmJzenBhb29PVFB4VkM2US1RS3k0UnNaeDJVeDdQLTlYUjJVQ2F3bzU0REU3X0ZwV3c5REM0dGZGWGVwNWlqcHVlaw?oc=5>
 
 ### 2026-09-04 05:20  (12 条)
 
