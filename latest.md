@@ -1,94 +1,107 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-04 13:55**
-- 本轮扫到 11159 条, 新增 **10** 条
+- 最近更新: **2026-09-04 17:19**
+- 本轮扫到 11169 条, 新增 **10** 条
 
 ---
 
 ## 本轮新发现 (10 条)
 
-### 周杰伦演唱会都迟到一个多小时？！同事送的票就这么不珍惜？
+### 蔡徐坤新加坡演唱会座位图曝光，四面台场馆布局清晰
 
-- 艺人/关键词: **周杰伦**
+- 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002quy2.html>
+- 链接: <https://k.sina.com.cn/article_2653906910_m9e2f67de033024zm6.html>
 
-### 特朗普发帖：数千亿美元都白白地给了乌克兰和北约，我们将要回那笔钱！
+### 美国总统特朗普：增长不会导致通胀
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-09-04 12:11
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE8xNjRqc2U3dTQySzVMMXl3RjRkdi1qTXliR1phXzRMck5LQ0ROd3ZhTDdad2d4anRGX1dPT1A1eVNVQ1V2ZWo2NU10QXhVdVdQTEFrWl9ial9Sb0kzVDNpX2xrVUZaU3ZaX1g5T2xmQUhXYWpjclE?oc=5>
+- 时间: 2026-09-04 16:35
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9QQ3NMOUtYdGZrU2xGaXJMZW5iODcxdWhfUlp0aWVRTHE1MXdOTl9ETkVOXzVVUkpZUmcxeW9HVm1wbGZucXRZckZTZHdVb1dXMDdOSGZPc2NjUUd1YXhSUThpTFU1dDMxeUJHaDhSb2RTaFpuclFsTw?oc=5>
 
-### 要闻解说 - 万斯称与伊朗的冲突不算“战争”：中期选举前，特朗普政府如何重塑伊朗战争叙事？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-09-04 12:11
-- 链接: <https://news.google.com/rss/articles/CBMiwwRBVV95cUxOMmx5TmotSDNPYzI5YjNGc01Jd0dmc1g1aUNZSmIzUzhZTF9vVERIak91WHJVUHNIQnJwRjRtNHVZczJ6WWRmVTdPdGIwWUdpS0wwZ0dVT0kwcjdLSFhEdmgxdjFnY0VEeFM3dHBTaXZ0QzhhaTA4VzlsYmlpVVQzSzRXeHZhV3lIWlUyTlhIU09DVTZDckVRR2MxVmk0VlJfUTZ6NVVTOFJZMHg0TkM0aG5TZHVVMEdIUzRNMEhBU3hKekRfWEVsUU91U0RuMkZ5M0l2X0FYNjZ0eF9ZazZ5QzZVVEtYSlZNRF9VMUNUa2xkdDkzeTViTGFUaldpVWl5bmM2dF9MYzRDUVVtNXE4NmptU1dDdnRzUnplVF9kUkw3UGk5dTd0eHp0c2QwcjUwZV9DajNKMEVRT2V2aXBoM1AyMUlPUEhtODAtRDZjWXk5RnRWS195eHJBd3ZkLXNiMGFuT0wtTGI0RGlua2duYmhNa29JNUIzYXpLS2h5Ym9ZSDZRaEhRd3MzU19TTlNheEcteGdDc3dnOHlsbWFpVk90TERFZk1KXzJjVEl5Z0tfUTVCMEdKendhdk5oSzllbEk3SENHWVRDZklfbElyN1FUVk9QM2xkWnNjZ3RhVkZRVEZlQURTOVRSb2hNeFRYRzBBd1N4TEVVa0ZnUVhUZ1pRcGNEZ0xma1pxUEtRUEwwTDFFS2NORzVXV2hzMVNwUFliODh5WXA5X1NIX2k0em1zZk5zNFpFelZpRWVfYUJEUDQ?oc=5>
-
-### 福克兰群岛争议升温：阿根廷宣布制裁附近油企，特朗普暗示未必协助英国
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-09-04 07:48
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE13dGF3OVZuVV9TWGd0NDVoS3ZFcWVEdjJCelFmbjhnU3pzamVtSW11NC1qNzNBREctSUx5YW1hWlZIS1pZbWpQamhVZF85ZVduV3Y5V3p4Tm9EbVFOYzQ0VGRTNHNoQdIBa0FVX3lxTE51UnB4SGNWRzhvWG00OTFXdjF5cktFMzUyNFpHV2FmY2ZXUXpOaUd6bF9PaS11dFpUUWZzY1R1NnRYRjcydWpoc1NUbGhaS0VqYWUzX01BSFo2eDA5TkN1bWFoa3pyc0c1clgw?oc=5>
-
-### “福克斯新闻主播因向白宫打小报告被解雇”，特朗普：震惊
+### 特朗普到处砍援助，为何舍得给这儿掏钱？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 观察者
-- 时间: 2026-09-04 11:10
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBRMUNIVVMxaGZMaE1hWUI2eDRaSFQtbVRmSTVGN0wzakxsQW1XQTlYcWoyRlJYeVJJZ1pnZFV3aGY3TElPdG5hMS03MFlqNE96ZmR5a0ljLWF3UmlnY1NPMnRoMWtCanhBRFE?oc=5>
+- 时间: 2026-09-04 13:52
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE40UjlkS1pOZUo0NGRWcmxRdktkWHU4aDNpWmFjNWlZaVZDNjRvTGEyUW1YSWFPUzFILWMxdENEbnVoZlItdzRuSXI3elhoZy1VMmNKZWlpVjNzU1FUSUpIcEREUWZhV3lub1E?oc=5>
 
-### 国际｜特朗普谈及西班牙移民危机，称“这就是对国家的入侵”
+### 美媒：特朗普亲密盟友、福克斯主播“因向白宫打小报告”被解雇，特朗普不满
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-09-03 21:00
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5FZXRsUmF1Ykg4V29LMjlPcXdfUjduQnU4di1yNzNKT0RLcndCdDhJbUlQMUM4Ym1IY3BuNXBzaVBjamFub3RTYUxaUWgxOWJ3djRUTUgzSXR4RjI3OHVodXd1X2M?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-09-04 08:06
+- 链接: <https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWHZ5RjJOUlhPSWdDNnprLUJ5cXdBdFhyQ0s0WkkyRG9wMXpTb0JvZzVDNmkxNWgwVTB3WXlBNDJmZTBHQlpHVVY3MTFsSjdwQl9RS1pVNDVJMFhZR0N1TVpidFk5SVJrZmswYS13eDlfeGZ3X3ViSmYwM3JjWmtGQXIyTjF6clVZR184WjhrN0g4ZVhPRlJJRU92dnlhZXBzcHBHV3VlaVVnUGFsWWxpMngtLUV3TDUyXzNJcW5BS2pid2gxXzdjVlBydHdWcm5RSkdn?oc=5>
 
-### 特朗普严正声明：我根本没戴假发 多年忍受假发谣言
+### 特朗普以政策施压，能推动美国加密货币立法吗？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网财经
+- 时间: 2026-09-04 14:20
+- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTFBpakZkZFFBSlhDbHVNOTVHRGhMSm1xOXVmSmF3SzZNMU1kRVk1OTBSZTh6TWpJTWQ3WGprb2RWamlkbWI0U1NEXzJRdy1adVJj?oc=5>
+
+### 特朗普高调宣称弹药根本用不完 驳斥短缺报道
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 中华网
-- 时间: 2026-09-04 06:41
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFA1UENQODV5SHQ4WTR1Z3p0QjBId3poSHZWalNyRE5jT1pFQmZWYk84RzZfdnlKd2t6TlBqX0gzNUF5ZWl3Q3ZiQkY2YjdKV281NEt1RHU4LVVESmhoTUsxYmdhOVRYZ3VFQmR0NmRyRjc?oc=5>
+- 时间: 2026-09-04 14:51
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9HSHBaWlN3VTJUcXVJQnZRWGMyWVpYS3lOeXRXVTVvUVZTM1EzN0FvTFBfMHlfUFhBdUpGRTF4RUYxaVNNWkM3eGhKRU5qSHREWHJiaVU0WW1QM1BRYTlPZ1gzZjViRTBoYzhscVhwc1o?oc=5>
 
-### 特朗普发帖澄清
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-09-04 08:06
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFB2WEpmMWNlb2ktNzlIM29mS29GSERMVi1kVmplRFNsSVZ6N2NBYlV6UWxoRFRURW9lTmsxR3VZUTJiTTdkQ2pGQWZjQ0M?oc=5>
-
-### 特朗普威胁称“随时”准备再袭伊朗
+### 美国 45 任总统重排座次：特朗普当第 1 名，华盛顿林肯排第几？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-09-02 21:34
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1jdlRkaGQ5Q3N4TDJ6YldVVmVwSnRIOVJoajRPR3RfWVZOQ3NuMnZfSjg3RGhjMV9xTDZXaG1qUDZBSncyQTVjRE1tekpzR0dLY18yQ0FRLXZPUndERE1wQjNPOE5fUVJLMmxnLU42ODZmbWNQVld5elpjRGs0TW8?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-09-04 11:13
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFBrMUFDck1Fa2lOVUFRbW1FTEUwcXNwYUFLOTlwcmJPVVd5Uld3MUpvQW1uR2doZXVEeUhLal93ZGtoN1pzMlFUMk5mVExxbG5jRktwQ0NLTzRtbHg3Tk9HWll0VmozMWRmOEdjenhBd0NnQQ?oc=5>
 
-### 闪评 | 特朗普为何要向欧洲追讨援乌资金？
+### 地球版图够特朗普“造”吗？地名自恋暴露美国霸权焦虑
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: news.cri.cn
-- 时间: 2026-09-04 13:51
-- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE5vMWREampIZl82TldQaVdIYjliaUt2S29zUUJ2cEdVbHBJbVllSzU5dEtGd3VTaC1ETHRPTldoZXFDMFRnSExGRFVVNEZHcGl1YjI0TGZtQmZxYXo2S1hsQXFHbm9OZG9BY0YxVTlDcFpWSTByMldDck13?oc=5>
+- 场馆: 观察者
+- 时间: 2026-09-04 09:07
+- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WNFhGNVNmTEd6Ymxfdy1ZaFJuREJyWEhCNDNxMzNqVVBxMWFwQUh4WC1ia1g3a2I5Z2RIczFiZnMtcFlXZlVlVU5IbFNRMzdNZ01DSDUzWEZWakdfVEg3Qnh3?oc=5>
+
+### Jobs and Iran Add to Trump's Midterm Headaches. Why That's Good for Bonds and Bad for Energy Stocks.
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-09-04 15:48
+- 链接: <https://news.google.com/rss/articles/CBMingFBVV95cUxQN1B6blZmUHkwNDBfenQtbDNEMzFMMWhGS1FRSlIzdEJ0WmFrbWR1ZUl1RG1pb2QxYWdMZEQzdE1yRHcxSmZJcldPRDRnLXJ3R05wcDY5ZnRxdEZDd0pvRm5IaUxrTDFST0RUUTlRLXZyNFR2MXpOOXRIS05GaGpyNi1rcVZMaFI5NE5PcDlZY3hDazd3VUZ3UjJBWUV6dw?oc=5>
+
+### TRUMP还能不能拿？说点实在的 8月下旬那波拉升，说白了就炒两... | OKX Orbit
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: okx.com
+- 时间: 2026-09-03 01:57
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE95UHphY0UxbjRad1BmV3pHMVpEMlRTMzBnaVAwVkJWWVZhWXZDSkgxYU5oN1NMb3M4M2NINk1ERjFYSUdUa2hUb0JMR0RCbEI5MTdESVlLZ0hNanByVGo4MA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-04 17:19  (10 条)
+
+- **蔡徐坤** | 蔡徐坤新加坡演唱会座位图曝光，四面台场馆布局清晰 <https://k.sina.com.cn/article_2653906910_m9e2f67de033024zm6.html>
+- **特朗普** | 美国总统特朗普：增长不会导致通胀 <https://news.google.com/rss/articles/CBMieEFVX3lxTE9QQ3NMOUtYdGZrU2xGaXJMZW5iODcxdWhfUlp0aWVRTHE1MXdOTl9ETkVOXzVVUkpZUmcxeW9HVm1wbGZucXRZckZTZHdVb1dXMDdOSGZPc2NjUUd1YXhSUThpTFU1dDMxeUJHaDhSb2RTaFpuclFsTw?oc=5>
+- **特朗普** | 特朗普到处砍援助，为何舍得给这儿掏钱？ <https://news.google.com/rss/articles/CBMiakFVX3lxTE40UjlkS1pOZUo0NGRWcmxRdktkWHU4aDNpWmFjNWlZaVZDNjRvTGEyUW1YSWFPUzFILWMxdENEbnVoZlItdzRuSXI3elhoZy1VMmNKZWlpVjNzU1FUSUpIcEREUWZhV3lub1E?oc=5>
+- **特朗普** | 美媒：特朗普亲密盟友、福克斯主播“因向白宫打小报告”被解雇，特朗普不满 <https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWHZ5RjJOUlhPSWdDNnprLUJ5cXdBdFhyQ0s0WkkyRG9wMXpTb0JvZzVDNmkxNWgwVTB3WXlBNDJmZTBHQlpHVVY3MTFsSjdwQl9RS1pVNDVJMFhZR0N1TVpidFk5SVJrZmswYS13eDlfeGZ3X3ViSmYwM3JjWmtGQXIyTjF6clVZR184WjhrN0g4ZVhPRlJJRU92dnlhZXBzcHBHV3VlaVVnUGFsWWxpMngtLUV3TDUyXzNJcW5BS2pid2gxXzdjVlBydHdWcm5RSkdn?oc=5>
+- **特朗普** | 特朗普以政策施压，能推动美国加密货币立法吗？ <https://news.google.com/rss/articles/CBMiUEFVX3lxTFBpakZkZFFBSlhDbHVNOTVHRGhMSm1xOXVmSmF3SzZNMU1kRVk1OTBSZTh6TWpJTWQ3WGprb2RWamlkbWI0U1NEXzJRdy1adVJj?oc=5>
+- **特朗普** | 特朗普高调宣称弹药根本用不完 驳斥短缺报道 <https://news.google.com/rss/articles/CBMicEFVX3lxTE9HSHBaWlN3VTJUcXVJQnZRWGMyWVpYS3lOeXRXVTVvUVZTM1EzN0FvTFBfMHlfUFhBdUpGRTF4RUYxaVNNWkM3eGhKRU5qSHREWHJiaVU0WW1QM1BRYTlPZ1gzZjViRTBoYzhscVhwc1o?oc=5>
+- **特朗普** | 美国 45 任总统重排座次：特朗普当第 1 名，华盛顿林肯排第几？ <https://news.google.com/rss/articles/CBMickFVX3lxTFBrMUFDck1Fa2lOVUFRbW1FTEUwcXNwYUFLOTlwcmJPVVd5Uld3MUpvQW1uR2doZXVEeUhLal93ZGtoN1pzMlFUMk5mVExxbG5jRktwQ0NLTzRtbHg3Tk9HWll0VmozMWRmOEdjenhBd0NnQQ?oc=5>
+- **特朗普** | 地球版图够特朗普“造”吗？地名自恋暴露美国霸权焦虑 <https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WNFhGNVNmTEd6Ymxfdy1ZaFJuREJyWEhCNDNxMzNqVVBxMWFwQUh4WC1ia1g3a2I5Z2RIczFiZnMtcFlXZlVlVU5IbFNRMzdNZ01DSDUzWEZWakdfVEg3Qnh3?oc=5>
+- **Trump** | Jobs and Iran Add to Trump's Midterm Headaches. Why That's Good for Bonds and Bad for Energy Stocks. <https://news.google.com/rss/articles/CBMingFBVV95cUxQN1B6blZmUHkwNDBfenQtbDNEMzFMMWhGS1FRSlIzdEJ0WmFrbWR1ZUl1RG1pb2QxYWdMZEQzdE1yRHcxSmZJcldPRDRnLXJ3R05wcDY5ZnRxdEZDd0pvRm5IaUxrTDFST0RUUTlRLXZyNFR2MXpOOXRIS05GaGpyNi1rcVZMaFI5NE5PcDlZY3hDazd3VUZ3UjJBWUV6dw?oc=5>
+- **Trump** | TRUMP还能不能拿？说点实在的 8月下旬那波拉升，说白了就炒两... | OKX Orbit <https://news.google.com/rss/articles/CBMiYEFVX3lxTE95UHphY0UxbjRad1BmV3pHMVpEMlRTMzBnaVAwVkJWWVZhWXZDSkgxYU5oN1NMb3M4M2NINk1ERjFYSUdUa2hUb0JMR0RCbEI5MTdESVlLZ0hNanByVGo4MA?oc=5>
 
 ### 2026-09-04 13:55  (10 条)
 
