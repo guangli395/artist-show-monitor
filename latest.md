@@ -1,94 +1,73 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-04 17:19**
-- 本轮扫到 11169 条, 新增 **10** 条
+- 最近更新: **2026-09-04 19:45**
+- 本轮扫到 11175 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (10 条)
+## 本轮新发现 (6 条)
 
-### 蔡徐坤新加坡演唱会座位图曝光，四面台场馆布局清晰
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2653906910_m9e2f67de033024zm6.html>
-
-### 美国总统特朗普：增长不会导致通胀
+### 特朗普拟允许牧场主绕开大型肉类加工商 直接向消费者销售牛肉
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-09-04 16:35
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9QQ3NMOUtYdGZrU2xGaXJMZW5iODcxdWhfUlp0aWVRTHE1MXdOTl9ETkVOXzVVUkpZUmcxeW9HVm1wbGZucXRZckZTZHdVb1dXMDdOSGZPc2NjUUd1YXhSUThpTFU1dDMxeUJHaDhSb2RTaFpuclFsTw?oc=5>
+- 时间: 2026-09-04 18:46
+- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE4tWXJ0SC1yckVIS0NxaE1RRkNKNkhKWUxtcENXNThSazdObW5PZldocUNyM0hoQVdHVlJfTXBlQUtSN3FpdHVFZ2RBdFFiLXJKVW5UNC1ZTFhfdHhPNjlIZ0ZaX3NscnhGbGgxRi1SaEJ2c3R6bnd4cml3?oc=5>
 
-### 特朗普到处砍援助，为何舍得给这儿掏钱？
+### 马岛若爆发冲突美国是否会援助英国？特朗普：英国并没有来帮我
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-09-04 13:52
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE40UjlkS1pOZUo0NGRWcmxRdktkWHU4aDNpWmFjNWlZaVZDNjRvTGEyUW1YSWFPUzFILWMxdENEbnVoZlItdzRuSXI3elhoZy1VMmNKZWlpVjNzU1FUSUpIcEREUWZhV3lub1E?oc=5>
+- 场馆: 新浪军事_手机新浪网
+- 时间: 2026-09-04 17:58
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE9faXZWYmFhSEkxcVJYTEpCX0J0NHpFUmV0NjlpMWVvbDZ0WHFSYi1UaHROdFdEMWY0Uk1vcXpXNDUyVEpwdmo5NGc0Z0ttYjNSRy1fbDI4TDVHaFYwTnBjWDhmS1FaZVVWWDNTS3FWVF9UeGM?oc=5>
 
-### 美媒：特朗普亲密盟友、福克斯主播“因向白宫打小报告”被解雇，特朗普不满
+### 特朗普发帖：数千亿美元都白白地给了乌克兰和北约，我们将要回那笔钱！
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-09-04 08:06
-- 链接: <https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWHZ5RjJOUlhPSWdDNnprLUJ5cXdBdFhyQ0s0WkkyRG9wMXpTb0JvZzVDNmkxNWgwVTB3WXlBNDJmZTBHQlpHVVY3MTFsSjdwQl9RS1pVNDVJMFhZR0N1TVpidFk5SVJrZmswYS13eDlfeGZ3X3ViSmYwM3JjWmtGQXIyTjF6clVZR184WjhrN0g4ZVhPRlJJRU92dnlhZXBzcHBHV3VlaVVnUGFsWWxpMngtLUV3TDUyXzNJcW5BS2pid2gxXzdjVlBydHdWcm5RSkdn?oc=5>
+- 时间: 2026-09-04 14:37
+- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbXhaYVlOYlVhMVZzS1NLRWVxUmZRSUpLWW41b3hqVUlmU2hySjFBdmt1MHA1a1k5d2REQTlyMkh0d05FdVRFRmRKWkZxS3A4akhMbElqQ3RLc2pab1Y4b18wTThIYU5HT1JmczBGMDFvdTQ4cEgzcUxjWWxiS0NYQURPeWhPMG95T1FaMHlkSzNQVVhMUk5PMmdzd1hhNzRfY0FVNnV0dlVQNnFVVi0ybE55Vlh1SFQzYTZZVXhkR0RBVDMzYkR5ZW16OFJYZW1iV1J1UjhSQXd6dS1XQXc?oc=5>
 
-### 特朗普以政策施压，能推动美国加密货币立法吗？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网财经
-- 时间: 2026-09-04 14:20
-- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTFBpakZkZFFBSlhDbHVNOTVHRGhMSm1xOXVmSmF3SzZNMU1kRVk1OTBSZTh6TWpJTWQ3WGprb2RWamlkbWI0U1NEXzJRdy1adVJj?oc=5>
-
-### 特朗普高调宣称弹药根本用不完 驳斥短缺报道
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-09-04 14:51
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9HSHBaWlN3VTJUcXVJQnZRWGMyWVpYS3lOeXRXVTVvUVZTM1EzN0FvTFBfMHlfUFhBdUpGRTF4RUYxaVNNWkM3eGhKRU5qSHREWHJiaVU0WW1QM1BRYTlPZ1gzZjViRTBoYzhscVhwc1o?oc=5>
-
-### 美国 45 任总统重排座次：特朗普当第 1 名，华盛顿林肯排第几？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-09-04 11:13
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFBrMUFDck1Fa2lOVUFRbW1FTEUwcXNwYUFLOTlwcmJPVVd5Uld3MUpvQW1uR2doZXVEeUhLal93ZGtoN1pzMlFUMk5mVExxbG5jRktwQ0NLTzRtbHg3Tk9HWll0VmozMWRmOEdjenhBd0NnQQ?oc=5>
-
-### 地球版图够特朗普“造”吗？地名自恋暴露美国霸权焦虑
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-09-04 09:07
-- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WNFhGNVNmTEd6Ymxfdy1ZaFJuREJyWEhCNDNxMzNqVVBxMWFwQUh4WC1ia1g3a2I5Z2RIczFiZnMtcFlXZlVlVU5IbFNRMzdNZ01DSDUzWEZWakdfVEg3Qnh3?oc=5>
-
-### Jobs and Iran Add to Trump's Midterm Headaches. Why That's Good for Bonds and Bad for Energy Stocks.
+### TRUMP代币团队前天转出的1101万枚TRUMP又有80万枚转入币安
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-09-04 15:48
-- 链接: <https://news.google.com/rss/articles/CBMingFBVV95cUxQN1B6blZmUHkwNDBfenQtbDNEMzFMMWhGS1FRSlIzdEJ0WmFrbWR1ZUl1RG1pb2QxYWdMZEQzdE1yRHcxSmZJcldPRDRnLXJ3R05wcDY5ZnRxdEZDd0pvRm5IaUxrTDFST0RUUTlRLXZyNFR2MXpOOXRIS05GaGpyNi1rcVZMaFI5NE5PcDlZY3hDazd3VUZ3UjJBWUV6dw?oc=5>
+- 场馆: TradingView
+- 时间: 2026-09-03 01:21
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE80Y2NocjA4Q3RjaDBxM3ZsRGJ6bHRUbUJSVS1HaThBeWhkWVROWmhrRko0R2trSDFyaE80Ql9SWVF2Y3k0X2lGVEM2Qm1vQndPSzhJWjJ5MFM4aENoOG8ta09UdEtNZw?oc=5>
 
-### TRUMP还能不能拿？说点实在的 8月下旬那波拉升，说白了就炒两... | OKX Orbit
+### TRUMP跌7%，12小时97%的爆仓都是多头| 币老板coinboss发布于币安广场
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: okx.com
-- 时间: 2026-09-03 01:57
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE95UHphY0UxbjRad1BmV3pHMVpEMlRTMzBnaVAwVkJWWVZhWXZDSkgxYU5oN1NMb3M4M2NINk1ERjFYSUdUa2hUb0JMR0RCbEI5MTdESVlLZ0hNanByVGo4MA?oc=5>
+- 场馆: Binance
+- 时间: 2026-09-04 16:43
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfNWIyRG9JVFFQa2NVSFVpaHJmSHhVQllqWlpYbVVJcTJ4TlI1MElEOHpNM0czR1RaYTNfRmV3OExqWk5qZmoyR1NiYkFpSm4yZGwwb3ZHcEducmg2MGtOcEp5Yk5KWnhK?oc=5>
+
+### 特朗普施压沃什降息：高利率令美国陷入“不公平劣势”，否则停止与逆差国贸易
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 富途牛牛
+- 时间: 2026-09-04 17:05
+- 链接: <https://news.google.com/rss/articles/CBMinwFBVV95cUxPMEpfMVdGeU5VOGt3alRPcGVZbDdoX3pYaktfTjRuUVRIb2NTdTJWRHFPQlkyQ0Z2R09lVkkySlhvTHZYLWQ1Ri16eWJvTEFRazVESExKZmxWRUVyeFNKUGNKeG44ZG1BbHFjY3pXaUtiTFhXek9TdTlsOFlMV1JuRmk4b1JGUWphU0lpUDd2S2pOVGY1a0g1WU9ZY1huQ28?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-04 19:45  (6 条)
+
+- **特朗普** | 特朗普拟允许牧场主绕开大型肉类加工商 直接向消费者销售牛肉 <https://news.google.com/rss/articles/CBMiekFVX3lxTE4tWXJ0SC1yckVIS0NxaE1RRkNKNkhKWUxtcENXNThSazdObW5PZldocUNyM0hoQVdHVlJfTXBlQUtSN3FpdHVFZ2RBdFFiLXJKVW5UNC1ZTFhfdHhPNjlIZ0ZaX3NscnhGbGgxRi1SaEJ2c3R6bnd4cml3?oc=5>
+- **特朗普** | 马岛若爆发冲突美国是否会援助英国？特朗普：英国并没有来帮我 <https://news.google.com/rss/articles/CBMic0FVX3lxTE9faXZWYmFhSEkxcVJYTEpCX0J0NHpFUmV0NjlpMWVvbDZ0WHFSYi1UaHROdFdEMWY0Uk1vcXpXNDUyVEpwdmo5NGc0Z0ttYjNSRy1fbDI4TDVHaFYwTnBjWDhmS1FaZVVWWDNTS3FWVF9UeGM?oc=5>
+- **特朗普** | 特朗普发帖：数千亿美元都白白地给了乌克兰和北约，我们将要回那笔钱！ <https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbXhaYVlOYlVhMVZzS1NLRWVxUmZRSUpLWW41b3hqVUlmU2hySjFBdmt1MHA1a1k5d2REQTlyMkh0d05FdVRFRmRKWkZxS3A4akhMbElqQ3RLc2pab1Y4b18wTThIYU5HT1JmczBGMDFvdTQ4cEgzcUxjWWxiS0NYQURPeWhPMG95T1FaMHlkSzNQVVhMUk5PMmdzd1hhNzRfY0FVNnV0dlVQNnFVVi0ybE55Vlh1SFQzYTZZVXhkR0RBVDMzYkR5ZW16OFJYZW1iV1J1UjhSQXd6dS1XQXc?oc=5>
+- **Trump** | TRUMP代币团队前天转出的1101万枚TRUMP又有80万枚转入币安 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE80Y2NocjA4Q3RjaDBxM3ZsRGJ6bHRUbUJSVS1HaThBeWhkWVROWmhrRko0R2trSDFyaE80Ql9SWVF2Y3k0X2lGVEM2Qm1vQndPSzhJWjJ5MFM4aENoOG8ta09UdEtNZw?oc=5>
+- **Trump** | TRUMP跌7%，12小时97%的爆仓都是多头| 币老板coinboss发布于币安广场 <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfNWIyRG9JVFFQa2NVSFVpaHJmSHhVQllqWlpYbVVJcTJ4TlI1MElEOHpNM0czR1RaYTNfRmV3OExqWk5qZmoyR1NiYkFpSm4yZGwwb3ZHcEducmg2MGtOcEp5Yk5KWnhK?oc=5>
+- **Trump** | 特朗普施压沃什降息：高利率令美国陷入“不公平劣势”，否则停止与逆差国贸易 <https://news.google.com/rss/articles/CBMinwFBVV95cUxPMEpfMVdGeU5VOGt3alRPcGVZbDdoX3pYaktfTjRuUVRIb2NTdTJWRHFPQlkyQ0Z2R09lVkkySlhvTHZYLWQ1Ri16eWJvTEFRazVESExKZmxWRUVyeFNKUGNKeG44ZG1BbHFjY3pXaUtiTFhXek9TdTlsOFlMV1JuRmk4b1JGUWphU0lpUDd2S2pOVGY1a0g1WU9ZY1huQ28?oc=5>
 
 ### 2026-09-04 17:19  (10 条)
 
