@@ -1,64 +1,89 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-03 22:41**
-- 本轮扫到 11122 条, 新增 **6** 条
+- 最近更新: **2026-09-04 00:37**
+- 本轮扫到 11130 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (8 条)
 
-### 特朗普要对偏袒某些“种族”的私立学校征税
+### 王一博珠海站纪录片发布，呼吁车迷文明观赛
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-09-03 20:28
-- 链接: <https://news.google.com/rss/articles/CBMiugJBVV95cUxPOVp5clRfZV96emZBTWVNdFFBbmFKNXpFTkxDbkItbHUyU01jbmE5VGRMbi1sOE9aQS1GYmFmQTlid0drSEFXWWZmUlNwLUhaZC1yQmxpd0VjVWpEMmMzLUJydWJnM2haYWdvSFBJS1U4UmYwY0R6OEhyMUNmZmNrWktKQ216cDZKNFN2ZlB0UVFYblE2OXl6YkZVaVNYTks5dTBYVU5xUXhITXkwQ2tTS3lRNUsxRDdBZjhDdGkySEtPbnItbTNXcnRVcS1GZU1ZWGtBR254ZDVaTWJGT1hjVWF6Q3lRRHcwRk5YYURhMDY4SFpBRFJyT3p3YmZJTElFeE1lTk1YUlI5ODAySE5Rb2k0Umh1WlVBVndFUmJzcjNsMnZybFNORFdobjQtMy1QS3RCNkUtR2VhQQ?oc=5>
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923946_m1d5ae18ea03303swlq.html>
 
-### 美国总统特朗普：像卡......_7x24快讯_新浪财经
+### 白宫“宫斗”：美陆军部长卸任，特朗普任命亚当·特勒
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-03 15:41
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wRUEyUFVpcnYta3E1VDYycFVtYzN1SHVyanlqVnZlX21YRkxIcjNJYzNOYmVibjNRWXJNOWM3eS1Sdl9FOEt3TzE0Zw?oc=5>
+- 场馆: 观察者
+- 时间: 2026-09-04 00:08
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBiOFVhdGlGSXgxbklYck9ieHd5WEl6S2xoUldVMTlucmJKRV9IZ1BVVTBRdUtJS21OeWYxQzdxam51VlRmZ01RR3JESUd5UW8zWVhDeWxEMnFHeWFRb3FGdXM3bU1ydUd0bGc?oc=5>
 
-### 特朗普谈对加拿大关税威胁：朋友买飞机受阻了
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-03 08:10
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxNY183YW1fdlY3d2k1d1FmWGIwNGdMbFp3YVp2RzZFWDYtd2pXU3k0enRXRUZhMmhlUHBzR2plQktqdXFzX3RUdWdHN0E5WWtLSkVzRVpmRjk1aDNVdUdIS0RpVDdvR1E3WUFRVFN5dl8xeW94MkNOWjhvQW5wUEVBdzRPMGVaQ2txdkRaN3d0NTdybDJmdk8yWG0tdWJ4NHFlblpUNFpqeHo1dnoyM0FXTXlVX1lCbkZhNjFySjZ2M0psLTBWY0c3cFZYTUxpN1dpSmIwd0ZQVWtIY2FzbjNr?oc=5>
-
-### 特朗普拟对芯片加征关税以提振制造业
+### 特朗普宣布亚当·特勒将出任美代理陆军部长
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-09-03 14:42
-- 链接: <https://news.google.com/rss/articles/CBMipAFBVV95cUxQSHp0bGVaeGZZem4taEE5a3NRb2ZWRjJvNG43cmd2OXdzMU9HMm0tbk9pVlVTX3Nrdm9zZkllTHc5QWhReHpBOWl5TE1JTGc1ZTJZeWdHS0lScTZEVTd6VXpVV3RaeXNVbXZ4MW5HaFRLV0hkLXVoTlhaZ3hLbWpiV3pUdzZ6NHB0alFRRHRBcERMdzFtYkhVMzE4dW5uRjRJRy1vUg?oc=5>
+- 场馆: thepaper.cn
+- 时间: 2026-09-03 23:23
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9sdVFNYmFHZEJtTkcySmVHaVh0YkZWN3QtbFZZaW5RRzRPaG52ekZnQ3NDc3NLX2I0Q3RlREFXUkVqczJqWFNuRTBDWDMtRjBfRmNMb1FZYjNNcmFxeTdxRQ?oc=5>
 
-### 中期选举临近 特朗普誓为共和党人全力助选
+### 美陆军部长被曝已向特朗普递交辞呈
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-09-03 02:27
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1JcElyUkkwalZQeWRDTDVMV1FJX0VyMkcxRE40QzBJN28yQnd3cWplQzBjemRueWI2RFZldExITlZGQWNGVUV3VmRxM0dhMEtnQnZPczFJUUQ5VnNYUzk4aUl3YWo4UQ?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-08-31 22:04
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE5nN1o0VVJTZlg3SElDMFJYclE4X1d5ZVZKaDFSNE5BSmxaOGNkMFV3aHRTR2xSMmN4blk5TE1lalIxeDFKd21fWmlCU3RSOGJORFhTTEkwWDNsS1NidTdPdU9MUkxmbWdLb0pYVTZHdERmS0xp?oc=5>
 
-### TRUMP代币团队前天转出的1101万枚TRUMP又有80万枚转入币安
+### “特朗普疲劳症”开始令共和党人感到不安
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: cn.wsj.com
+- 时间: 2026-09-04 00:00
+- 链接: <https://news.google.com/rss/articles/CBMimwJBVV95cUxPazFtY1lQazV0MXkxMFBOdWF2RldxRWI5V0l6QkJrdHZOUTlzY2hOTnJUbzA3N2kzdnpnSXJndG5MYThTOG1SZ3FZdlAxNVVkMnZOMHN1cTRmMDVOM3ZlRlpUSHZfdXRuSmhkLVR4dTBOZGFqTkJXeTJKZENvZ0paMU5GVXFyampQV2NzeUtab3liUTNjeVJ6eVdOWERDMU5Ia3A4OEtSamZpMHNGR0pPeUFNb3o0TWVmTzB1eHhpOUtqb2NiNFhUOVgxZ2lQMUI4bkFzQm03dEF0Mmg5c0QwOHJJbjFtVHpaWG9aYlhMdlBxQ1hIcGdkY1l3UDFhVlJPR3JJSFQycGlTUFRDUEFXQWJxZ2YyWU00SHNz?oc=5>
+
+### “如果特朗普下令攻击加拿大，你是否会照做？”美海军将领回应
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-09-03 08:21
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBqRlVmQkpvNFdHVHRIU0xnQjRGNHkxbE92ZzQ1czhrZ2xZUU9jaExEUEtLRGpINDJYTk9uNE1FTEJWUVdxTGtQakNZQVdfWVEzWkhMZUsxU0trRDdJWWk0dVJZRzc5YmFpYnhKekptRFRuNlU5LXBYQg?oc=5>
+
+### 特朗普和万斯，被共和党“明码标价” 筹款活动标价曝光
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华军事
+- 时间: 2026-09-04 00:09
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE85ZWdzMVhZeVAxSllBSXhuUTJiNzFMdmlUb2R0cVI5c25ia1RmdTJEemwybWhhNkVWWDNDRVkya01OYlRmODhmc21BaElYbUx5ZGdoN09ZZ2IwUkg2NzNRRjBxeU9jOXFKYWRBMXhtdjg?oc=5>
+
+### Trump：“将追回提供给乌克兰和北大西洋公约组织的数千亿美元”
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: TradingView
-- 时间: 2026-09-03 01:21
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9NSVFfX0FXU2l3VUhMdjMwdTFZMU5uRmh5MWtMbmhSREFtWC0wbEJndGR6dkIyV0Flc1pXUlpmU2NzTTJDYXNJV1A5X3l3UF9ESF9qQ1ItVk94OEM2SXp4Q2NyMVdsM0E?oc=5>
+- 场馆: 아시아경제
+- 时间: 2026-09-03 22:24
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1UNnczczltTklzbHk3cGJHRFh6SlNCYVRCc2I3QTEzcnNSV3UxMGl3SFJESWNBdE9FaEg1NjFsaG1QSnBneHJ2UXlWUXRqRnNhV3ZrUy1VUXBESjRvcmpjX200ZnY?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-04 00:37  (8 条)
+
+- **王一博** | 王一博珠海站纪录片发布，呼吁车迷文明观赛 <https://k.sina.com.cn/article_7879923946_m1d5ae18ea03303swlq.html>
+- **特朗普** | 白宫“宫斗”：美陆军部长卸任，特朗普任命亚当·特勒 <https://news.google.com/rss/articles/CBMiakFVX3lxTFBiOFVhdGlGSXgxbklYck9ieHd5WEl6S2xoUldVMTlucmJKRV9IZ1BVVTBRdUtJS21OeWYxQzdxam51VlRmZ01RR3JESUd5UW8zWVhDeWxEMnFHeWFRb3FGdXM3bU1ydUd0bGc?oc=5>
+- **特朗普** | 特朗普宣布亚当·特勒将出任美代理陆军部长 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9sdVFNYmFHZEJtTkcySmVHaVh0YkZWN3QtbFZZaW5RRzRPaG52ekZnQ3NDc3NLX2I0Q3RlREFXUkVqczJqWFNuRTBDWDMtRjBfRmNMb1FZYjNNcmFxeTdxRQ?oc=5>
+- **特朗普** | 美陆军部长被曝已向特朗普递交辞呈 <https://news.google.com/rss/articles/CBMidEFVX3lxTE5nN1o0VVJTZlg3SElDMFJYclE4X1d5ZVZKaDFSNE5BSmxaOGNkMFV3aHRTR2xSMmN4blk5TE1lalIxeDFKd21fWmlCU3RSOGJORFhTTEkwWDNsS1NidTdPdU9MUkxmbWdLb0pYVTZHdERmS0xp?oc=5>
+- **特朗普** | “特朗普疲劳症”开始令共和党人感到不安 <https://news.google.com/rss/articles/CBMimwJBVV95cUxPazFtY1lQazV0MXkxMFBOdWF2RldxRWI5V0l6QkJrdHZOUTlzY2hOTnJUbzA3N2kzdnpnSXJndG5MYThTOG1SZ3FZdlAxNVVkMnZOMHN1cTRmMDVOM3ZlRlpUSHZfdXRuSmhkLVR4dTBOZGFqTkJXeTJKZENvZ0paMU5GVXFyampQV2NzeUtab3liUTNjeVJ6eVdOWERDMU5Ia3A4OEtSamZpMHNGR0pPeUFNb3o0TWVmTzB1eHhpOUtqb2NiNFhUOVgxZ2lQMUI4bkFzQm03dEF0Mmg5c0QwOHJJbjFtVHpaWG9aYlhMdlBxQ1hIcGdkY1l3UDFhVlJPR3JJSFQycGlTUFRDUEFXQWJxZ2YyWU00SHNz?oc=5>
+- **特朗普** | “如果特朗普下令攻击加拿大，你是否会照做？”美海军将领回应 <https://news.google.com/rss/articles/CBMieEFVX3lxTFBqRlVmQkpvNFdHVHRIU0xnQjRGNHkxbE92ZzQ1czhrZ2xZUU9jaExEUEtLRGpINDJYTk9uNE1FTEJWUVdxTGtQakNZQVdfWVEzWkhMZUsxU0trRDdJWWk0dVJZRzc5YmFpYnhKekptRFRuNlU5LXBYQg?oc=5>
+- **特朗普** | 特朗普和万斯，被共和党“明码标价” 筹款活动标价曝光 <https://news.google.com/rss/articles/CBMicEFVX3lxTE85ZWdzMVhZeVAxSllBSXhuUTJiNzFMdmlUb2R0cVI5c25ia1RmdTJEemwybWhhNkVWWDNDRVkya01OYlRmODhmc21BaElYbUx5ZGdoN09ZZ2IwUkg2NzNRRjBxeU9jOXFKYWRBMXhtdjg?oc=5>
+- **Trump** | Trump：“将追回提供给乌克兰和北大西洋公约组织的数千亿美元” <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1UNnczczltTklzbHk3cGJHRFh6SlNCYVRCc2I3QTEzcnNSV3UxMGl3SFJESWNBdE9FaEg1NjFsaG1QSnBneHJ2UXlWUXRqRnNhV3ZrUy1VUXBESjRvcmpjX200ZnY?oc=5>
 
 ### 2026-09-03 22:41  (6 条)
 
