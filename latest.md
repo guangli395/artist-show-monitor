@@ -1,70 +1,107 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-04 09:48**
-- 本轮扫到 11149 条, 新增 **7** 条
+- 最近更新: **2026-09-04 13:55**
+- 本轮扫到 11159 条, 新增 **10** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (10 条)
 
-### 又一波演唱会定档南京
+### 周杰伦演唱会都迟到一个多小时？！同事送的票就这么不珍惜？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://finance.sina.com.cn/wm/2026-09-04/doc-iniqryeu0846783.shtml>
+- 链接: <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002quy2.html>
 
-### 特朗普严正声明：我没戴假发
+### 特朗普发帖：数千亿美元都白白地给了乌克兰和北约，我们将要回那笔钱！
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-04 12:11
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE8xNjRqc2U3dTQySzVMMXl3RjRkdi1qTXliR1phXzRMck5LQ0ROd3ZhTDdad2d4anRGX1dPT1A1eVNVQ1V2ZWo2NU10QXhVdVdQTEFrWl9ial9Sb0kzVDNpX2xrVUZaU3ZaX1g5T2xmQUhXYWpjclE?oc=5>
+
+### 要闻解说 - 万斯称与伊朗的冲突不算“战争”：中期选举前，特朗普政府如何重塑伊朗战争叙事？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-09-04 12:11
+- 链接: <https://news.google.com/rss/articles/CBMiwwRBVV95cUxOMmx5TmotSDNPYzI5YjNGc01Jd0dmc1g1aUNZSmIzUzhZTF9vVERIak91WHJVUHNIQnJwRjRtNHVZczJ6WWRmVTdPdGIwWUdpS0wwZ0dVT0kwcjdLSFhEdmgxdjFnY0VEeFM3dHBTaXZ0QzhhaTA4VzlsYmlpVVQzSzRXeHZhV3lIWlUyTlhIU09DVTZDckVRR2MxVmk0VlJfUTZ6NVVTOFJZMHg0TkM0aG5TZHVVMEdIUzRNMEhBU3hKekRfWEVsUU91U0RuMkZ5M0l2X0FYNjZ0eF9ZazZ5QzZVVEtYSlZNRF9VMUNUa2xkdDkzeTViTGFUaldpVWl5bmM2dF9MYzRDUVVtNXE4NmptU1dDdnRzUnplVF9kUkw3UGk5dTd0eHp0c2QwcjUwZV9DajNKMEVRT2V2aXBoM1AyMUlPUEhtODAtRDZjWXk5RnRWS195eHJBd3ZkLXNiMGFuT0wtTGI0RGlua2duYmhNa29JNUIzYXpLS2h5Ym9ZSDZRaEhRd3MzU19TTlNheEcteGdDc3dnOHlsbWFpVk90TERFZk1KXzJjVEl5Z0tfUTVCMEdKendhdk5oSzllbEk3SENHWVRDZklfbElyN1FUVk9QM2xkWnNjZ3RhVkZRVEZlQURTOVRSb2hNeFRYRzBBd1N4TEVVa0ZnUVhUZ1pRcGNEZ0xma1pxUEtRUEwwTDFFS2NORzVXV2hzMVNwUFliODh5WXA5X1NIX2k0em1zZk5zNFpFelZpRWVfYUJEUDQ?oc=5>
+
+### 福克兰群岛争议升温：阿根廷宣布制裁附近油企，特朗普暗示未必协助英国
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: BBC
+- 时间: 2026-09-04 07:48
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE13dGF3OVZuVV9TWGd0NDVoS3ZFcWVEdjJCelFmbjhnU3pzamVtSW11NC1qNzNBREctSUx5YW1hWlZIS1pZbWpQamhVZF85ZVduV3Y5V3p4Tm9EbVFOYzQ0VGRTNHNoQdIBa0FVX3lxTE51UnB4SGNWRzhvWG00OTFXdjF5cktFMzUyNFpHV2FmY2ZXUXpOaUd6bF9PaS11dFpUUWZzY1R1NnRYRjcydWpoc1NUbGhaS0VqYWUzX01BSFo2eDA5TkN1bWFoa3pyc0c1clgw?oc=5>
+
+### “福克斯新闻主播因向白宫打小报告被解雇”，特朗普：震惊
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 观察者
-- 时间: 2026-09-04 08:34
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBSckxRS2FFSHpZS3c1QUFmLV82UEhiS012Q0QwZmZHM0pNcGZWR2h1YkVEdXV2QmZTZi1vUGRreUowRVhnLXNINU82RjNkSGFNeUg1dEkwRUZ4MFp4WDAxUWpsckswekdScmc?oc=5>
+- 时间: 2026-09-04 11:10
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBRMUNIVVMxaGZMaE1hWUI2eDRaSFQtbVRmSTVGN0wzakxsQW1XQTlYcWoyRlJYeVJJZ1pnZFV3aGY3TElPdG5hMS03MFlqNE96ZmR5a0ljLWF3UmlnY1NPMnRoMWtCanhBRFE?oc=5>
 
-### 扎克伯格在与特朗普的谈话中拒绝美国人工智能监管机构的计划
+### 国际｜特朗普谈及西班牙移民危机，称“这就是对国家的入侵”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: IDNFinancials
-- 时间: 2026-09-04 06:20
-- 链接: <https://news.google.com/rss/articles/CBMipwNBVV95cUxPaXNxMHIwTWZPV0JBRHFsTkpmeWNSM2hIU25CNnRGQmJPU2NWUk5KRDJ5akxfZnNEQ3FzOTgzNmtwM3ZzMnNiUFlxZi1pZkM2dTgtYVBFVUJ4eEtoay15RmdzRnppUk4yb1ppWHkyTUo2QUxoWmJiTGVVYkRPb2RHVFF5ZnBndHlkd3ZBYW4wYTI4TGFVMTJkZG9PRm55bV9ndEpqS3VURHFHT0ZhMFV4dmY1cm56Q0ZjOUdIX2w2YWNZRm5TYkVaamFaNTdwNW8xMmZuUy1NNzZXVEg2Mk1hTXdNdHlfM2p2QVZSTHdTVnVGYmtjSTZ1TG4yR2FJckotTGpVcG9WQl8tSkJnZ19ib3lXMjhmSTBsNlc1S0VQZi1BOUsteUlZLUItSk4tWU5vZG5ncnBkdk1TMzdMSW1KRTliNXBFWHhvc3FFVGtYSm5USERHLUVLLWFyYS16T083R0dsQWhPd3BXVHhqZ040dDktVm84bFRkYlc0VVpSOHpvYkJpOFMxUmp3QWlGVzNNakoydjUwV2FMbzV6WDRUNUtuMzlESmM?oc=5>
+- 场馆: 新京报
+- 时间: 2026-09-03 21:00
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5FZXRsUmF1Ykg4V29LMjlPcXdfUjduQnU4di1yNzNKT0RLcndCdDhJbUlQMUM4Ym1IY3BuNXBzaVBjamFub3RTYUxaUWgxOWJ3djRUTUgzSXR4RjI3OHVodXd1X2M?oc=5>
 
-### 特朗普：美国将要求欧洲偿还援乌巨额资金
+### 特朗普严正声明：我根本没戴假发 多年忍受假发谣言
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-09-04 06:41
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFA1UENQODV5SHQ4WTR1Z3p0QjBId3poSHZWalNyRE5jT1pFQmZWYk84RzZfdnlKd2t6TlBqX0gzNUF5ZWl3Q3ZiQkY2YjdKV281NEt1RHU4LVVESmhoTUsxYmdhOVRYZ3VFQmR0NmRyRjc?oc=5>
+
+### 特朗普发帖澄清
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-09-04 02:38
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ncVFSeWdwZW10TFBxYndERVkxb3lOSjl1U3I2WGVNZmJhOEZnWk1BTWw0OTh2RUFnbFFyaElzVnY0ZnhaUUh1WDlYTQ?oc=5>
+- 时间: 2026-09-04 08:06
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFB2WEpmMWNlb2ktNzlIM29mS29GSERMVi1kVmplRFNsSVZ6N2NBYlV6UWxoRFRURW9lTmsxR3VZUTJiTTdkQ2pGQWZjQ0M?oc=5>
 
-### 美媒：美国陆军部长向特朗普递交辞呈
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-08-31 23:45
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1RazI1RDN2akhvWjMydWg3NnhUT1NFeC1DNXF1aTBUMWh1MUY1Qng4aGZwNC1NRVRVeXF4Qi05cUlKOTV4OHF6ZF9waw?oc=5>
-
-### 特朗普被网传突发！白宫预告万斯登台致辞贴流量飙涨
+### 特朗普威胁称“随时”准备再袭伊朗
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 金融界
-- 时间: 2026-09-04 07:50
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE81RzItU2puSjFMcmlkTWtSOERhRkc1SHlUNklCQm1FY3RtUVBVaXdiVGo2T0pYTlUtdXh5RlpkQmZlWkJWcVZ2RkMzNDJ3V3VvR1kzVGhaWVBqVGw3OGJDNWd5VHAxQ3p1VnBuVlU5bi1DZw?oc=5>
+- 场馆: 新华网
+- 时间: 2026-09-02 21:34
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1jdlRkaGQ5Q3N4TDJ6YldVVmVwSnRIOVJoajRPR3RfWVZOQ3NuMnZfSjg3RGhjMV9xTDZXaG1qUDZBSncyQTVjRE1tekpzR0dLY18yQ0FRLXZPUndERE1wQjNPOE5fUVJLMmxnLU42ODZmbWNQVld5elpjRGs0TW8?oc=5>
 
-### #特朗普怎么了# 虽说特朗普去世的新闻时不时有，但是这次是真的有视频出来，等一个辟谣 #特朗普# ​
+### 闪评 | 特朗普为何要向欧洲追讨援乌资金？
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-09-04 06:00
-- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTFBmVDcwdlpGVnlRWENIWUk3UFZUekpxNUFrYmJzenBhb29PVFB4VkM2US1RS3k0UnNaeDJVeDdQLTlYUjJVQ2F3bzU0REU3X0ZwV3c5REM0dGZGWGVwNWlqcHVlaw?oc=5>
+- 场馆: news.cri.cn
+- 时间: 2026-09-04 13:51
+- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE5vMWREampIZl82TldQaVdIYjliaUt2S29zUUJ2cEdVbHBJbVllSzU5dEtGd3VTaC1ETHRPTldoZXFDMFRnSExGRFVVNEZHcGl1YjI0TGZtQmZxYXo2S1hsQXFHbm9OZG9BY0YxVTlDcFpWSTByMldDck13?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-04 13:55  (10 条)
+
+- **周杰伦** | 周杰伦演唱会都迟到一个多小时？！同事送的票就这么不珍惜？ <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002quy2.html>
+- **特朗普** | 特朗普发帖：数千亿美元都白白地给了乌克兰和北约，我们将要回那笔钱！ <https://news.google.com/rss/articles/CBMidkFVX3lxTE8xNjRqc2U3dTQySzVMMXl3RjRkdi1qTXliR1phXzRMck5LQ0ROd3ZhTDdad2d4anRGX1dPT1A1eVNVQ1V2ZWo2NU10QXhVdVdQTEFrWl9ial9Sb0kzVDNpX2xrVUZaU3ZaX1g5T2xmQUhXYWpjclE?oc=5>
+- **特朗普** | 要闻解说 - 万斯称与伊朗的冲突不算“战争”：中期选举前，特朗普政府如何重塑伊朗战争叙事？ <https://news.google.com/rss/articles/CBMiwwRBVV95cUxOMmx5TmotSDNPYzI5YjNGc01Jd0dmc1g1aUNZSmIzUzhZTF9vVERIak91WHJVUHNIQnJwRjRtNHVZczJ6WWRmVTdPdGIwWUdpS0wwZ0dVT0kwcjdLSFhEdmgxdjFnY0VEeFM3dHBTaXZ0QzhhaTA4VzlsYmlpVVQzSzRXeHZhV3lIWlUyTlhIU09DVTZDckVRR2MxVmk0VlJfUTZ6NVVTOFJZMHg0TkM0aG5TZHVVMEdIUzRNMEhBU3hKekRfWEVsUU91U0RuMkZ5M0l2X0FYNjZ0eF9ZazZ5QzZVVEtYSlZNRF9VMUNUa2xkdDkzeTViTGFUaldpVWl5bmM2dF9MYzRDUVVtNXE4NmptU1dDdnRzUnplVF9kUkw3UGk5dTd0eHp0c2QwcjUwZV9DajNKMEVRT2V2aXBoM1AyMUlPUEhtODAtRDZjWXk5RnRWS195eHJBd3ZkLXNiMGFuT0wtTGI0RGlua2duYmhNa29JNUIzYXpLS2h5Ym9ZSDZRaEhRd3MzU19TTlNheEcteGdDc3dnOHlsbWFpVk90TERFZk1KXzJjVEl5Z0tfUTVCMEdKendhdk5oSzllbEk3SENHWVRDZklfbElyN1FUVk9QM2xkWnNjZ3RhVkZRVEZlQURTOVRSb2hNeFRYRzBBd1N4TEVVa0ZnUVhUZ1pRcGNEZ0xma1pxUEtRUEwwTDFFS2NORzVXV2hzMVNwUFliODh5WXA5X1NIX2k0em1zZk5zNFpFelZpRWVfYUJEUDQ?oc=5>
+- **特朗普** | 福克兰群岛争议升温：阿根廷宣布制裁附近油企，特朗普暗示未必协助英国 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE13dGF3OVZuVV9TWGd0NDVoS3ZFcWVEdjJCelFmbjhnU3pzamVtSW11NC1qNzNBREctSUx5YW1hWlZIS1pZbWpQamhVZF85ZVduV3Y5V3p4Tm9EbVFOYzQ0VGRTNHNoQdIBa0FVX3lxTE51UnB4SGNWRzhvWG00OTFXdjF5cktFMzUyNFpHV2FmY2ZXUXpOaUd6bF9PaS11dFpUUWZzY1R1NnRYRjcydWpoc1NUbGhaS0VqYWUzX01BSFo2eDA5TkN1bWFoa3pyc0c1clgw?oc=5>
+- **特朗普** | “福克斯新闻主播因向白宫打小报告被解雇”，特朗普：震惊 <https://news.google.com/rss/articles/CBMiakFVX3lxTFBRMUNIVVMxaGZMaE1hWUI2eDRaSFQtbVRmSTVGN0wzakxsQW1XQTlYcWoyRlJYeVJJZ1pnZFV3aGY3TElPdG5hMS03MFlqNE96ZmR5a0ljLWF3UmlnY1NPMnRoMWtCanhBRFE?oc=5>
+- **特朗普** | 国际｜特朗普谈及西班牙移民危机，称“这就是对国家的入侵” <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5FZXRsUmF1Ykg4V29LMjlPcXdfUjduQnU4di1yNzNKT0RLcndCdDhJbUlQMUM4Ym1IY3BuNXBzaVBjamFub3RTYUxaUWgxOWJ3djRUTUgzSXR4RjI3OHVodXd1X2M?oc=5>
+- **特朗普** | 特朗普严正声明：我根本没戴假发 多年忍受假发谣言 <https://news.google.com/rss/articles/CBMicEFVX3lxTFA1UENQODV5SHQ4WTR1Z3p0QjBId3poSHZWalNyRE5jT1pFQmZWYk84RzZfdnlKd2t6TlBqX0gzNUF5ZWl3Q3ZiQkY2YjdKV281NEt1RHU4LVVESmhoTUsxYmdhOVRYZ3VFQmR0NmRyRjc?oc=5>
+- **特朗普** | 特朗普发帖澄清 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFB2WEpmMWNlb2ktNzlIM29mS29GSERMVi1kVmplRFNsSVZ6N2NBYlV6UWxoRFRURW9lTmsxR3VZUTJiTTdkQ2pGQWZjQ0M?oc=5>
+- **特朗普** | 特朗普威胁称“随时”准备再袭伊朗 <https://news.google.com/rss/articles/CBMif0FVX3lxTE1jdlRkaGQ5Q3N4TDJ6YldVVmVwSnRIOVJoajRPR3RfWVZOQ3NuMnZfSjg3RGhjMV9xTDZXaG1qUDZBSncyQTVjRE1tekpzR0dLY18yQ0FRLXZPUndERE1wQjNPOE5fUVJLMmxnLU42ODZmbWNQVld5elpjRGs0TW8?oc=5>
+- **特朗普** | 闪评 | 特朗普为何要向欧洲追讨援乌资金？ <https://news.google.com/rss/articles/CBMiekFVX3lxTE5vMWREampIZl82TldQaVdIYjliaUt2S29zUUJ2cEdVbHBJbVllSzU5dEtGd3VTaC1ETHRPTldoZXFDMFRnSExGRFVVNEZHcGl1YjI0TGZtQmZxYXo2S1hsQXFHbm9OZG9BY0YxVTlDcFpWSTByMldDck13?oc=5>
 
 ### 2026-09-04 09:48  (7 条)
 
