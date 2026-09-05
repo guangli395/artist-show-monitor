@@ -1,88 +1,96 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-05 12:16**
-- 本轮扫到 11215 条, 新增 **9** 条
+- 最近更新: **2026-09-05 15:23**
+- 本轮扫到 11224 条, 新增 **9** 条
 
 ---
 
 ## 本轮新发现 (9 条)
 
-### 闪评｜特朗普再提打击“镐山” 美伊冲突会否升级？
+### 一场没看就出事！ GAI唱周杰伦《回到过去》上海站体育场演唱会
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_2251236920_m862f263803301430a.html>
+
+### 太爽了！GAI在今晚的演唱会上唱了周杰伦的《回到过去》！好听啊！
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5886158017_m15ed7a4c103301ot8w.html>
+
+### 特朗普下令，“猎杀狼群”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 国际在线
-- 时间: 2026-09-05 09:24
-- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE9qMEZ5VnV6UUJYYUp3TUdOMThFd2ZKZ3NrZFRhQk4wUEdiUTlEdHRFYm9tTWRCNnJMU09kdGZpT2NLdGtTOGc2akF4b0Qzbl9WTTAyRkJYdUczVnhCV1dCeFI2b01ja3Y2amtWek5pZG9rY2FzLUlveTlR?oc=5>
+- 场馆: 观察者
+- 时间: 2026-09-05 14:22
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE8wMTNpbHlCVHk5SXdpOExDQ3kzV083SGQ5QTl1OFhVdDBMN3QtRkdMYmU3XzE0dVp1eEhhdHN2cHE3dEJQbTE3R2dFY2NxaHJENzQ0U1F0Yi00cl9TdmZNOTBvcEJwRXlFckE?oc=5>
 
-### 美总统称可能很快会打击伊朗“镐山”核设施
+### 特朗普：特使赴俄带去“结束冲突的方案” 基辅：关注俄方回应
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-09-05 11:57
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9FWDJDMnlqaHV6Mmg4RmpydUxNVlN1bGM5cjZaWnM2VkZvUzN1UUJTN1lteTJ6UndBN3RVWFFnZ2JhQXJ0c3RMV09jU1VneEpKWS0tQWtiVTJsb1czd25vM2RkaTRHQmpYNC1LUERKcmZVQzRlNnkwaA?oc=5>
+- 时间: 2026-09-05 13:57
+- 链接: <https://news.google.com/rss/articles/CBMinwFBVV95cUxPc0FjRjMtOHNRVEZmVGxaeFpHa3o2UUpWUHlqaEZwTEZBQWhtdUVVUUEtMUg1Mk96WWlMX0NWZlNNZWxnRkpsWTcyY19TZ2ZTRWpIaEMyNEl6dTFieXJHZTk3Qll5aUpGTDFweHNDcFFzZ1FJS3JMRlltNWFpUjRTNHZfY1B1VV9vb2JpdUdiUUNzYzdmamFpeVN6VWxRR1E?oc=5>
+
+### 特朗普要求美联储大幅降息，否则将终止与对美贸易顺差国的贸易往来
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-04 14:48
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcUxGNnpuQ0lCQURXSTdPMGJLaXh3WWFlZzl3dGh4S3prSk83WkxKNzZxZVlvd3d0bzBpQktGVXdabk9sZ3dVdTd0WXhNNkNGNWhhbnlMQ3NhanRkaFlCZHY0SEtaVDNtTDRCQ0U4X2w3REIzcFY1Wlk1RG1MR1hMUnNLd0V3LXZCYld6MjUweFBSVjQweTZOS3RJV1ZmWXV6elc2SkQ5VGJDSEhMX1hJWTNJMnk4eFA3NDBQZkdhZnk0RTB6Vm5walhNdVVNMERFaHprRWE4TmVGMFNsNE5z?oc=5>
+
+### 非农爆了！9月加息预期升温 特朗普喊话：降息！降息！美联储必须“聪明”起来
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: eastmoney.com
+- 时间: 2026-09-04 06:08
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE4wbTNuVngtb29TQ2ZMeTRGTUdNMm9yeHVESzBwbmtfLTRYY3lidTAyd19tX0pydllWeWNBSTJIVXgxWjBFUk5tc2oyeS1DV0tWeGx3QVRnanZYLVZxS29IYg?oc=5>
 
 ### 泄密事件惹怒特朗普！美媒爆：五角大楼“史无前例”对美军高官启动大规模测谎测试
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-09-05 08:43
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxPMWg4cnljeDBXMFN6TzRQZ2pzX1BkNXliQ3puNjMxT1RXZzhSLTFNeXNCSzFkd3hwUzg2LXBQd0h2XzdrV09oeDc0MVFRV2YtMVNPSGlRSlh4VE1rNjV0SWVXNWNhOE9RQkhyTnpyVmN6WHVwWEtqMEJMeDJzeDRORGptRkdJTlE?oc=5>
+- 场馆: 环球网
+- 时间: 2026-09-04 17:43
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE8ydGIwdlFoemtLS0l6WXFMRzFKYnloMWlvTXE4bFB1SUowZmk1N3N5S1NlTUNiMVFfYUlFRGEzUG0xS2l0ekJJYlpIeGtpNDZlclgwNkNtYXY?oc=5>
 
-### 特朗普：美特使将向俄罗斯提交结束俄乌冲突的方案
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-05 10:07
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1BTXZuOThXdXR6MXFoaVQtRmxJZ0tZYUlzNm83bjBvQkxtdGVOOW9nZFljQ29GeWhqLWpfVzhEVzhLOU5seGswMDRVUk1QNkhNQm5KLUhGdVVidl85cjBIbE91cXlMRThoN214aG1TdFhUd1J1UVczOA?oc=5>
-
-### 特朗普施压沃什降息：高利率令美国陷入“不公平劣势”，否则停止与逆差国贸易
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-09-04 16:08
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE9uT0NNRHhwd2lldVRUVzkya0FnOXF1NnRtRkVnNndYeXVDMnBHZ0NFLUg5aVF2TV9kX1doN2l4MVJUUHFUQlNWVTlMNl9ScGZMbHBr?oc=5>
-
-### 为何说特朗普为选举“急了” 中期选举压力山大
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-09-05 11:28
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE50T0ZkSWozT1BVNkdnVjFjV083azFNOVh3SFdvMzU0b2lOQzBUVC1vSERKYU83N1FrdXVOaWdsQTVPeGR6WmxTdEpOM05UYi1WNkRsSTV1TVlSQnAtRUlJTjE1b2dSVHVEYTVOQmVab3E?oc=5>
-
-### 特朗普：美特使将向俄罗斯提交结束俄乌冲突的方案
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: cnr.cn
-- 时间: 2026-09-05 01:43
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5wdk4tMnNCUDVESHEwUVJzVGY2OE5yY05mY3JvLVZ4RU8tT2RqMG1teUptSGhWSzhjMUw2ai10MjJRWm1pUndYQjZuUnpDY082N1RDLV9PNS1yY2xPS1lnb0huOVBiRkk4Z0N6YjRlRXZ4Wkk?oc=5>
-
-### 外媒：特朗普试图淡化美伊冲突，并称“可能很快”打击镐山
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-09-05 01:07
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBia2h4eFluOXkxS2pIWmhMZ0JwQ05ZdEpGT1VFQktoVmdvUTNTUXBiSExobEwxR09SZ2RDVU9BSW9PeFFqQXJQUWNrNEU5Y3BlbjNtU0pKNnU3b29TYVoyZVNyMXAtaXU3?oc=5>
-
-### Trump $1 Coin 价格 | $1 价格指数、实时图表和市值
+### Trump Denies Running TRUMP Coin as Token Price Falls 5%
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: OKX
-- 时间: 2026-09-05 07:57
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WTWd3MmZOMlYybFFuZTFLZE01ZTcxWWRFd2g3Q3hfRElYRDNUa2UteU90ZGFZMnI5dWd0Z0k5S1EwbGFKblRiaGs4elVoalQ1b1NadUY1Sm9TQkg4dEZpaTVOZjhNYW5i?oc=5>
+- 场馆: CryptoRank
+- 时间: 2026-09-05 11:56
+- 链接: <https://news.google.com/rss/articles/CBMimwFBVV95cUxNd1ZDa09tbVA4NEt6SlpwT2RKdTlQR1NLM3hYOHpPN0t6OUdKWDJhOE4tdXg3MjM5WnRFYTUyTGwzVlNoYWRpbjJmNTlmakQzdVZhU0NzMHNhT0JXSVdNS1Y1MGlJeFlmU1lNc2ZCdk9fcEJ6c2xlc2poOGdSQkw5SHNBck9oSkd6RHp3QUVmTy0yZG1iUW1USHVsdw?oc=5>
+
+### TRUMP价格纹丝不动，82%爆仓却砸向多头| 币老板coinboss发布于币安广场
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Binance
+- 时间: 2026-09-05 10:53
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vaHRmWlpZS2s5VkRFcjRHcm9lWnRHSEUyd1lGNGlrcDB2MGNYdkRfS0s2UnhpZ25GTDUyVlB6bTNwbkZTUGtVNWlBYjREdDNSTGZVb2ZvVDlTLW5MVjBDVDEyRUtHV2p4?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-05 15:23  (9 条)
+
+- **周杰伦** | 一场没看就出事！ GAI唱周杰伦《回到过去》上海站体育场演唱会 <https://k.sina.com.cn/article_2251236920_m862f263803301430a.html>
+- **周杰伦** | 太爽了！GAI在今晚的演唱会上唱了周杰伦的《回到过去》！好听啊！ <https://k.sina.com.cn/article_5886158017_m15ed7a4c103301ot8w.html>
+- **特朗普** | 特朗普下令，“猎杀狼群” <https://news.google.com/rss/articles/CBMiakFVX3lxTE8wMTNpbHlCVHk5SXdpOExDQ3kzV083SGQ5QTl1OFhVdDBMN3QtRkdMYmU3XzE0dVp1eEhhdHN2cHE3dEJQbTE3R2dFY2NxaHJENzQ0U1F0Yi00cl9TdmZNOTBvcEJwRXlFckE?oc=5>
+- **特朗普** | 特朗普：特使赴俄带去“结束冲突的方案” 基辅：关注俄方回应 <https://news.google.com/rss/articles/CBMinwFBVV95cUxPc0FjRjMtOHNRVEZmVGxaeFpHa3o2UUpWUHlqaEZwTEZBQWhtdUVVUUEtMUg1Mk96WWlMX0NWZlNNZWxnRkpsWTcyY19TZ2ZTRWpIaEMyNEl6dTFieXJHZTk3Qll5aUpGTDFweHNDcFFzZ1FJS3JMRlltNWFpUjRTNHZfY1B1VV9vb2JpdUdiUUNzYzdmamFpeVN6VWxRR1E?oc=5>
+- **特朗普** | 特朗普要求美联储大幅降息，否则将终止与对美贸易顺差国的贸易往来 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcUxGNnpuQ0lCQURXSTdPMGJLaXh3WWFlZzl3dGh4S3prSk83WkxKNzZxZVlvd3d0bzBpQktGVXdabk9sZ3dVdTd0WXhNNkNGNWhhbnlMQ3NhanRkaFlCZHY0SEtaVDNtTDRCQ0U4X2w3REIzcFY1Wlk1RG1MR1hMUnNLd0V3LXZCYld6MjUweFBSVjQweTZOS3RJV1ZmWXV6elc2SkQ5VGJDSEhMX1hJWTNJMnk4eFA3NDBQZkdhZnk0RTB6Vm5walhNdVVNMERFaHprRWE4TmVGMFNsNE5z?oc=5>
+- **特朗普** | 非农爆了！9月加息预期升温 特朗普喊话：降息！降息！美联储必须“聪明”起来 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE4wbTNuVngtb29TQ2ZMeTRGTUdNMm9yeHVESzBwbmtfLTRYY3lidTAyd19tX0pydllWeWNBSTJIVXgxWjBFUk5tc2oyeS1DV0tWeGx3QVRnanZYLVZxS29IYg?oc=5>
+- **特朗普** | 泄密事件惹怒特朗普！美媒爆：五角大楼“史无前例”对美军高官启动大规模测谎测试 <https://news.google.com/rss/articles/CBMiWEFVX3lxTE8ydGIwdlFoemtLS0l6WXFMRzFKYnloMWlvTXE4bFB1SUowZmk1N3N5S1NlTUNiMVFfYUlFRGEzUG0xS2l0ekJJYlpIeGtpNDZlclgwNkNtYXY?oc=5>
+- **Trump** | Trump Denies Running TRUMP Coin as Token Price Falls 5% <https://news.google.com/rss/articles/CBMimwFBVV95cUxNd1ZDa09tbVA4NEt6SlpwT2RKdTlQR1NLM3hYOHpPN0t6OUdKWDJhOE4tdXg3MjM5WnRFYTUyTGwzVlNoYWRpbjJmNTlmakQzdVZhU0NzMHNhT0JXSVdNS1Y1MGlJeFlmU1lNc2ZCdk9fcEJ6c2xlc2poOGdSQkw5SHNBck9oSkd6RHp3QUVmTy0yZG1iUW1USHVsdw?oc=5>
+- **Trump** | TRUMP价格纹丝不动，82%爆仓却砸向多头| 币老板coinboss发布于币安广场 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vaHRmWlpZS2s5VkRFcjRHcm9lWnRHSEUyd1lGNGlrcDB2MGNYdkRfS0s2UnhpZ25GTDUyVlB6bTNwbkZTUGtVNWlBYjREdDNSTGZVb2ZvVDlTLW5MVjBDVDEyRUtHV2p4?oc=5>
 
 ### 2026-09-05 12:16  (9 条)
 
