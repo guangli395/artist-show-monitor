@@ -1,14 +1,125 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-05 00:14**
-- 本轮扫到 11183 条, 新增 **0** 条
+- 最近更新: **2026-09-05 04:44**
+- 本轮扫到 11195 条, 新增 **12** 条
 
 ---
 
-## 本轮无新增
+## 本轮新发现 (12 条)
 
-数据库里所有演出/动态都已见过,暂无新增。
+### 王一博呼吁车迷文明观赛，珠海站纪录片发布
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879996653_m1d5af34ed03301m5ms.html>
+
+### 中期选举在即，创纪录油价给特朗普带来新挑战
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-09-05 01:37
+- 链接: <https://news.google.com/rss/articles/CBMivwJBVV95cUxQVEp5NW5vTmhSQ1JyUi1sNGdpVE9WcTZ5Z0lYZVdCdk5kVVQzczRyQ21hdEYyYUE4UnFKQTRYOW9rcmJiTGpNT0VDWFNMM2hreGJ1X2NJQXhGQWxncW5ZTEUxNU9kNzFsZHFNRGViTTNqaTl4cE83LU1qSHYtSFhJVWZ6cUYxQ05nbGpERDFuMjE5cWpVaUkweXhjeHdScjZhWXJIRkpEdFRrb1ZuZjBneElnTXZDUTh4ZGhhb1lYc1lFQnYyNnNWLXpkeXczM0Q0Q3NVbE05WXVBcklxcFpQUFhZWmhaZF9YcnEwczFQS25aR2ExRkVfWEtLV1pkRG03WlVUcDBlMklnWWtYaGNjNjdQZUs0dkpSc3l5T2d3UE41OHoxdjZadmZRYjVKcTlUTi1PUDRTckprbkpJbVVR?oc=5>
+
+### 特朗普：美特使将向俄罗斯提交结束俄乌冲突的方案
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 央视网
+- 时间: 2026-09-04 22:27
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBqSlB5S0ZveWtYbHZvekMxbzZfVlZIM0VQdHVRRmpYQ05VUE9jWjhtVXhaSWZMWWxkc1V0cGNKTUNKRVZaT25Ibks4bVAzS2tSYWhTWm9jdUNtNWtuOUQteDBZUjRpMHhhenRvbE9vb2w0U2RVSVdBZQ?oc=5>
+
+### 特朗普感到沮丧，因为原本认为俄罗斯可以击败乌克兰
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-09-05 04:05
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9STVRYc0I5VzVEM2x0NVJJc1YxU1FwNDdYSGlDT2lTR3daYkhBUjI4aFYtMGJidHVZN1VQQmhTOGYxUFFTT2RyNXNSc280dTVGZ2N2WkdNd0ZJQUtlR21CWkRZelpQTzloM1E?oc=5>
+
+### 特朗普亲信竞相入场，瓜分委内瑞拉石油“大蛋糕”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-05 04:08
+- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxOVm13Z1FRWHZ4ZzhYdjFwX21OYW1WTGpERVBFSktpS1VSRUhiN0Q0MHFMQkZoWHlGMkFvVlNfdFYteUlfLTVMck1VcmFmWmpuUEptWVptV185d1pWbDdoUnkybG5UaXlDSlk2YzFJbXVMTDdpTGxwNVZnR3E2Y0I4b2U2OTJCMDVsVHFIY1VKSnBaSHR4MDVmTzZLaHN1OWc3?oc=5>
+
+### 特朗普总统确认在白宫设国宴招待习近平；据报中国大型企业家代表团将随行
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-09-04 21:48
+- 链接: <https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUmEtTVc4NjdnY0oxd3QzV0ZrWF9GazF4b2d5RFFuY2tjcXdNMXhMaWpWRVZwd2VUVkVTNjZGa0VfdHVSWlA4aUhrM2M5TkprdkJ2QVptcFZFSXkwQV9qaEVldGVpWUxPV0VyZTdqSEsxdnRTTGN1UDZJRGQ5S1pHTElWakwydnN3enVWcnVFTGQ4QzlvUmxnMEhXMHhQRW9fdFAzcFVUZmdmYzZFRlNjSjBkdmRWdTNjS2VIMmNmc25YUFprMTVxeEVYTExNV0Y3dExmVXV4X1FIWDE0X2gyOUdnWG3SAecBQVVfeXFMT05lTHJIX3ByZkZvNXVaOHlwQVNoenNDM3Q1QVN6Snp1VmdtMFk0TkttU1RuQzQ1M2FNZFJUbkdIZWkyNC1iX2QxblZGMnF4LWl0RlZLblRieVNlNFlXdG1XRDhSVEhzUHZnYm1McHp4OTZRZ0YzUGlDaThveFZONzJVSGt0WTUzZU5GVEVPLWRjdGRXOGlwd2JwM1pMZDFWYnBvTEtmWEhvZEV2UkxXY2tMYWdUeFZ5cDlrRjFGZllKOUJxd2cwYURhUEpCNU1wZ2szY1MwU2lya1BlMTJLMWM5ZFdKMGpv?oc=5>
+
+### 特朗普再度施压美联储：如果不降息，就切断与部分国家的贸易往来
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: cls.cn
+- 时间: 2026-09-04 16:52
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTFBZbjdCRk9zMHp0UTRBQnV1Slo0bGllbnJLQVJkMHQ4clItdmh3Q0g4VVF4YzYwSF8ySVNRS3Utc1NVYnhKYkVoNg?oc=5>
+
+### 特朗普：与伊朗的冲突是微不足道的小事
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-09-04 22:51
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1nZkN3RVgtNXVtLVkzeXN5bUZ0M0ZITmhVS25EMDhlaTNUTzdISmlYc1lrMWFPcjFnUmN5UkN2YnBwdlgzMEktYXAzZ0JIY3Z4U1Q5cERfVGVWNjhxS3N3R1hIcWFfbkIycVE?oc=5>
+
+### 特朗普盯上伊朗“镐山”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-04 23:18
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE9mbDZLcG45ZXRUZzQ1U3RjRC1UVUFXYWxiWVI2aDBQME84cHAtR2J4LXFZNHlaYzhTMTRhQk1KcG5JRWlzaWR1OFNhVHBKLXl0QTdhS2V4R3U5dzhBNkNWeHI2SXF0NVZVby04ZW4wWVZwR21Ua1E?oc=5>
+
+### 特朗普称同伊朗冲突只是小菜一碟
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-05 02:22
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE51M3gzTkVmRUFpV05ISmZzQlpvS0ctYXpPOFJBZDZVbm5ZMHpQaVNOLW5BMEpySjl5czUwcS1NSkhIRThHUDlsSWV4QQ?oc=5>
+
+### 特朗普淡化美伊战事：“这只是小事一桩”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-09-05 02:44
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1GaUlOcks3MFRIWThDR1dZVng5QWw2VVhoazByQ1hvU2hRVC0tdEpFcFJMb2ZtaVM2ODMzdTQwT3JfMjNyWi1nZEN2dGxONEVhTGdZNlpGTDJQY1JnRU0yOQ?oc=5>
+
+### 特朗普总统谈及$OFFICIAL TRUMP (TRUMP.CC)$ MEMECOIN： “我听说它表现非常好。” ... - moomoo 社区
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-09-05 01:12
+- 链接: <https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYlZQaTBIelZQR2I2ZzFBT3hrQnl0Tm1VcTBDSXpOY1dxMmNvMl9RalRVY1RQc3BkOTNMbktkcG5zMWd1a2JIcTlId2Y1YkVBenlONndMdUtKelR2NURMYXBCOEVSOUp3NUhrNEVTeXN0R0Q5RUJpRDFzX1piVHdhYTRNZmJuYklpMUhfcFotbi1jSXVRUmxLSk9ZZlJZZWdsQUJpY1JZZXg1VTE4MkVMWGZ4RllmTFFH?oc=5>
+
+
+---
+
 ## 历史发现
+
+### 2026-09-05 04:44  (12 条)
+
+- **王一博** | 王一博呼吁车迷文明观赛，珠海站纪录片发布 <https://k.sina.com.cn/article_7879996653_m1d5af34ed03301m5ms.html>
+- **特朗普** | 中期选举在即，创纪录油价给特朗普带来新挑战 <https://news.google.com/rss/articles/CBMivwJBVV95cUxQVEp5NW5vTmhSQ1JyUi1sNGdpVE9WcTZ5Z0lYZVdCdk5kVVQzczRyQ21hdEYyYUE4UnFKQTRYOW9rcmJiTGpNT0VDWFNMM2hreGJ1X2NJQXhGQWxncW5ZTEUxNU9kNzFsZHFNRGViTTNqaTl4cE83LU1qSHYtSFhJVWZ6cUYxQ05nbGpERDFuMjE5cWpVaUkweXhjeHdScjZhWXJIRkpEdFRrb1ZuZjBneElnTXZDUTh4ZGhhb1lYc1lFQnYyNnNWLXpkeXczM0Q0Q3NVbE05WXVBcklxcFpQUFhZWmhaZF9YcnEwczFQS25aR2ExRkVfWEtLV1pkRG03WlVUcDBlMklnWWtYaGNjNjdQZUs0dkpSc3l5T2d3UE41OHoxdjZadmZRYjVKcTlUTi1PUDRTckprbkpJbVVR?oc=5>
+- **特朗普** | 特朗普：美特使将向俄罗斯提交结束俄乌冲突的方案 <https://news.google.com/rss/articles/CBMieEFVX3lxTFBqSlB5S0ZveWtYbHZvekMxbzZfVlZIM0VQdHVRRmpYQ05VUE9jWjhtVXhaSWZMWWxkc1V0cGNKTUNKRVZaT25Ibks4bVAzS2tSYWhTWm9jdUNtNWtuOUQteDBZUjRpMHhhenRvbE9vb2w0U2RVSVdBZQ?oc=5>
+- **特朗普** | 特朗普感到沮丧，因为原本认为俄罗斯可以击败乌克兰 <https://news.google.com/rss/articles/CBMiakFVX3lxTE9STVRYc0I5VzVEM2x0NVJJc1YxU1FwNDdYSGlDT2lTR3daYkhBUjI4aFYtMGJidHVZN1VQQmhTOGYxUFFTT2RyNXNSc280dTVGZ2N2WkdNd0ZJQUtlR21CWkRZelpQTzloM1E?oc=5>
+- **特朗普** | 特朗普亲信竞相入场，瓜分委内瑞拉石油“大蛋糕” <https://news.google.com/rss/articles/CBMioAFBVV95cUxOVm13Z1FRWHZ4ZzhYdjFwX21OYW1WTGpERVBFSktpS1VSRUhiN0Q0MHFMQkZoWHlGMkFvVlNfdFYteUlfLTVMck1VcmFmWmpuUEptWVptV185d1pWbDdoUnkybG5UaXlDSlk2YzFJbXVMTDdpTGxwNVZnR3E2Y0I4b2U2OTJCMDVsVHFIY1VKSnBaSHR4MDVmTzZLaHN1OWc3?oc=5>
+- **特朗普** | 特朗普总统确认在白宫设国宴招待习近平；据报中国大型企业家代表团将随行 <https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUmEtTVc4NjdnY0oxd3QzV0ZrWF9GazF4b2d5RFFuY2tjcXdNMXhMaWpWRVZwd2VUVkVTNjZGa0VfdHVSWlA4aUhrM2M5TkprdkJ2QVptcFZFSXkwQV9qaEVldGVpWUxPV0VyZTdqSEsxdnRTTGN1UDZJRGQ5S1pHTElWakwydnN3enVWcnVFTGQ4QzlvUmxnMEhXMHhQRW9fdFAzcFVUZmdmYzZFRlNjSjBkdmRWdTNjS2VIMmNmc25YUFprMTVxeEVYTExNV0Y3dExmVXV4X1FIWDE0X2gyOUdnWG3SAecBQVVfeXFMT05lTHJIX3ByZkZvNXVaOHlwQVNoenNDM3Q1QVN6Snp1VmdtMFk0TkttU1RuQzQ1M2FNZFJUbkdIZWkyNC1iX2QxblZGMnF4LWl0RlZLblRieVNlNFlXdG1XRDhSVEhzUHZnYm1McHp4OTZRZ0YzUGlDaThveFZONzJVSGt0WTUzZU5GVEVPLWRjdGRXOGlwd2JwM1pMZDFWYnBvTEtmWEhvZEV2UkxXY2tMYWdUeFZ5cDlrRjFGZllKOUJxd2cwYURhUEpCNU1wZ2szY1MwU2lya1BlMTJLMWM5ZFdKMGpv?oc=5>
+- **特朗普** | 特朗普再度施压美联储：如果不降息，就切断与部分国家的贸易往来 <https://news.google.com/rss/articles/CBMiSEFVX3lxTFBZbjdCRk9zMHp0UTRBQnV1Slo0bGllbnJLQVJkMHQ4clItdmh3Q0g4VVF4YzYwSF8ySVNRS3Utc1NVYnhKYkVoNg?oc=5>
+- **特朗普** | 特朗普：与伊朗的冲突是微不足道的小事 <https://news.google.com/rss/articles/CBMiakFVX3lxTE1nZkN3RVgtNXVtLVkzeXN5bUZ0M0ZITmhVS25EMDhlaTNUTzdISmlYc1lrMWFPcjFnUmN5UkN2YnBwdlgzMEktYXAzZ0JIY3Z4U1Q5cERfVGVWNjhxS3N3R1hIcWFfbkIycVE?oc=5>
+- **特朗普** | 特朗普盯上伊朗“镐山” <https://news.google.com/rss/articles/CBMidkFVX3lxTE9mbDZLcG45ZXRUZzQ1U3RjRC1UVUFXYWxiWVI2aDBQME84cHAtR2J4LXFZNHlaYzhTMTRhQk1KcG5JRWlzaWR1OFNhVHBKLXl0QTdhS2V4R3U5dzhBNkNWeHI2SXF0NVZVby04ZW4wWVZwR21Ua1E?oc=5>
+- **特朗普** | 特朗普称同伊朗冲突只是小菜一碟 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE51M3gzTkVmRUFpV05ISmZzQlpvS0ctYXpPOFJBZDZVbm5ZMHpQaVNOLW5BMEpySjl5czUwcS1NSkhIRThHUDlsSWV4QQ?oc=5>
+- **特朗普** | 特朗普淡化美伊战事：“这只是小事一桩” <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1GaUlOcks3MFRIWThDR1dZVng5QWw2VVhoazByQ1hvU2hRVC0tdEpFcFJMb2ZtaVM2ODMzdTQwT3JfMjNyWi1nZEN2dGxONEVhTGdZNlpGTDJQY1JnRU0yOQ?oc=5>
+- **Trump** | 特朗普总统谈及$OFFICIAL TRUMP (TRUMP.CC)$ MEMECOIN： “我听说它表现非常好。” ... - moomoo 社区 <https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYlZQaTBIelZQR2I2ZzFBT3hrQnl0Tm1VcTBDSXpOY1dxMmNvMl9RalRVY1RQc3BkOTNMbktkcG5zMWd1a2JIcTlId2Y1YkVBenlONndMdUtKelR2NURMYXBCOEVSOUp3NUhrNEVTeXN0R0Q5RUJpRDFzX1piVHdhYTRNZmJuYklpMUhfcFotbi1jSXVRUmxLSk9ZZlJZZWdsQUJpY1JZZXg1VTE4MkVMWGZ4RllmTFFH?oc=5>
 
 ### 2026-09-04 22:00  (8 条)
 
