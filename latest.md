@@ -1,102 +1,100 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-05 08:44**
-- 本轮扫到 11206 条, 新增 **11** 条
+- 最近更新: **2026-09-05 12:16**
+- 本轮扫到 11215 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (11 条)
+## 本轮新发现 (9 条)
 
-### 爽了！GAI今晚演唱会彩排居然唱了周杰伦的《回到过去》！
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5886158017_m15ed7a4c103301oste.html>
-
-### 特朗普气坏了，上测谎！
+### 闪评｜特朗普再提打击“镐山” 美伊冲突会否升级？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-09-05 04:06
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1tbG9HLVBsaUJfZG5Pd0VPc0h2V3VUSlFhUEZrVnlBYkRUYVVSdldsQWFaQ2tDcF9pU3F1YzkxcllXVFFvNnRmOHdxdXU0bzBBdnJZTFRpZEdKbFk2Vk1wSUU1Tl9lNmI4TXc?oc=5>
+- 场馆: 国际在线
+- 时间: 2026-09-05 09:24
+- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE9qMEZ5VnV6UUJYYUp3TUdOMThFd2ZKZ3NrZFRhQk4wUEdiUTlEdHRFYm9tTWRCNnJMU09kdGZpT2NLdGtTOGc2akF4b0Qzbl9WTTAyRkJYdUczVnhCV1dCeFI2b01ja3Y2amtWek5pZG9rY2FzLUlveTlR?oc=5>
 
-### 美媒：特朗普亲密盟友、福克斯主播“因向白宫打小报告”被解雇，特朗普不满
+### 美总统称可能很快会打击伊朗“镐山”核设施
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-05 11:57
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9FWDJDMnlqaHV6Mmg4RmpydUxNVlN1bGM5cjZaWnM2VkZvUzN1UUJTN1lteTJ6UndBN3RVWFFnZ2JhQXJ0c3RMV09jU1VneEpKWS0tQWtiVTJsb1czd25vM2RkaTRHQmpYNC1LUERKcmZVQzRlNnkwaA?oc=5>
+
+### 泄密事件惹怒特朗普！美媒爆：五角大楼“史无前例”对美军高官启动大规模测谎测试
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-09-04 08:06
-- 链接: <https://news.google.com/rss/articles/CBMiswFBVV95cUxNVTEwRDNHcExpRF9QUHE2Nk9JMEktRmU0TkhiSnZKZjJfUmpnYTFiUkRjUzN4T2hGejNJbVppdFcyVFpyS1RQUTM4MGxoampMalJTT2dicTZiUUJJOTd6VnJMbzY5R3NkekNBY0pqd2JQZkF2MWpTY0YtSmdQdWZnYUwwSUZGRks3MjVlY2htOGJmaWpqdzhkclFOU3VDRVdfUVVOQmZvc01kZ1c4Z1JoODM5UQ?oc=5>
+- 时间: 2026-09-05 08:43
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxPMWg4cnljeDBXMFN6TzRQZ2pzX1BkNXliQ3puNjMxT1RXZzhSLTFNeXNCSzFkd3hwUzg2LXBQd0h2XzdrV09oeDc0MVFRV2YtMVNPSGlRSlh4VE1rNjV0SWVXNWNhOE9RQkhyTnpyVmN6WHVwWEtqMEJMeDJzeDRORGptRkdJTlE?oc=5>
 
-### 美国海军快哭了！特朗普一声令下，福特级航母准备"开膛破肚"
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-09-05 05:11
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFBDamUxS2ktRm9UQWxtWnVpYjgyWGd2RmpMZE90eDlfbmR5TF81Q1hUMnAwbXJYYVRJbWNsdEVMRUc1U1ZLc0UxZ0pFNWNScS00TUhCa1lVNjc4SGJqTnl5ZEtjOXVrMFdUUy01MGw5ZDJtZw?oc=5>
-
-### 特朗普：美军“可能很快”对伊朗镐山发动打击
+### 特朗普：美特使将向俄罗斯提交结束俄乌冲突的方案
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-09-04 21:39
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE8takF5V0JkVGdJbEM0X3E2QzFFQTRTN3VDaGlQdDc0dUJNX2UyWW1EV1hFNXROTU9SUXloSDNQSjNuRUk1dzZMXzlrRQ?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-09-05 10:07
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1BTXZuOThXdXR6MXFoaVQtRmxJZ0tZYUlzNm83bjBvQkxtdGVOOW9nZFljQ29GeWhqLWpfVzhEVzhLOU5seGswMDRVUk1QNkhNQm5KLUhGdVVidl85cjBIbE91cXlMRThoN214aG1TdFhUd1J1UVczOA?oc=5>
 
-### 国际新闻早知道丨特朗普称可能很快打击伊朗“镐山”核设施 尼泊尔泥石流遇难人数升至1325人
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-09-04 22:27
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBabFAyLXpmcmZ2MHNHdGo0UnYwdkxXaVd5ZEtIWFN5Slh1aVV4dmdxQTk5Y1VwWnNDMDhubmxFRGZibFZzZVVKQjZZNUVudUprbHVjdW1iY2lrMUp0dGs2ajNReHNTM2V4NndGZlhmWnN4V3MyWXFCSw?oc=5>
-
-### 特朗普称“可能很快”打击伊朗镐山
+### 特朗普施压沃什降息：高利率令美国陷入“不公平劣势”，否则停止与逆差国贸易
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-09-04 21:39
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9YSEdrQldDdXVnYnVFdC1hRDF6TC1SeVVOVXJDU3dVYk5hLS1NZGE4dTVSaXF3eXF0c0pRN2pMYjFPTV9hanRtb090NUJ0ZDV2a2xvUWJzbGRkbjJBYkxwNEgteGFqZWpUVDZaem03Z0t4R2lNamdkVG9zaHgtWDg?oc=5>
+- 场馆: 华尔街见闻
+- 时间: 2026-09-04 16:08
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE9uT0NNRHhwd2lldVRUVzkya0FnOXF1NnRtRkVnNndYeXVDMnBHZ0NFLUg5aVF2TV9kX1doN2l4MVJUUHFUQlNWVTlMNl9ScGZMbHBr?oc=5>
 
-### Trump: U.S. Special Envoy to Present "End-of-War Plan" for Russia-Ukraine Conflict to Russia
+### 为何说特朗普为选举“急了” 中期选举压力山大
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-09-05 11:28
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE50T0ZkSWozT1BVNkdnVjFjV083azFNOVh3SFdvMzU0b2lOQzBUVC1vSERKYU83N1FrdXVOaWdsQTVPeGR6WmxTdEpOM05UYi1WNkRsSTV1TVlSQnAtRUlJTjE1b2dSVHVEYTVOQmVab3E?oc=5>
+
+### 特朗普：美特使将向俄罗斯提交结束俄乌冲突的方案
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: cnr.cn
+- 时间: 2026-09-05 01:43
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5wdk4tMnNCUDVESHEwUVJzVGY2OE5yY05mY3JvLVZ4RU8tT2RqMG1teUptSGhWSzhjMUw2ai10MjJRWm1pUndYQjZuUnpDY082N1RDLV9PNS1yY2xPS1lnb0huOVBiRkk4Z0N6YjRlRXZ4Wkk?oc=5>
+
+### 外媒：特朗普试图淡化美伊冲突，并称“可能很快”打击镐山
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: chinanews.com.cn
+- 时间: 2026-09-05 01:07
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBia2h4eFluOXkxS2pIWmhMZ0JwQ05ZdEpGT1VFQktoVmdvUTNTUXBiSExobEwxR09SZ2RDVU9BSW9PeFFqQXJQUWNrNEU5Y3BlbjNtU0pKNnU3b29TYVoyZVNyMXAtaXU3?oc=5>
+
+### Trump $1 Coin 价格 | $1 价格指数、实时图表和市值
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 富途牛牛
-- 时间: 2026-09-05 07:25
-- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxQNFl2UmVnVlRMWGt5enYtRTdkdFFTb2JwUHBiYVZhaHB2emp6NnZFZ1RYMldKeVhtNXItNE5LQUFEbVhCVGNBR0hRRDNwWjJxcDhwZVBjUnUwTW41YmlWMmtNVkUxUTNQaW92UkZwdk16ejgxQU11aC1melpLNGtqTmFJZjF2ZlJ4Xy16d0ZodmlCWjN4?oc=5>
-
-### 9月18日临近，$TRUMP 的持仓者正屏息等待一个关键节点。这天...
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: okx.com
-- 时间: 2026-09-05 08:15
-- 链接: <https://news.google.com/rss/articles/CBMiXEFVX3lxTE85ZnRlMHdSZWJqcmVqU2ZseHdqSzJETXA0T203U2Q5UFpoTWxEX013c00zMWlheno4Z1c4TkhuWTY4SGs4V0hBclhFYkw4U1JhRlVfZGZsT1ZhbFJX?oc=5>
-
-### TRUMP这一天反转三次，最近1小时97%都是空头| CoinBoss_com发布于币安广场
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Binance
-- 时间: 2026-09-05 06:52
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE91Z0t4M0MzWWp2NXNvOEgzZktnbWtCZEVocWRYNWNLTlJvbldCcFBKVG11ckNQcTg1XzI3VVlxS25RSkZDdjJkWnJUd0lIOTM5MEtnR2pNYVJ5MXgxWHQ5M001ajZobEpS?oc=5>
-
-### “向白宫转达内部指示”……美国Fox News解雇Trump亲信主播- 阿视亚经济
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: asiae.co.kr
-- 时间: 2026-09-05 05:28
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1dlZFeWZCM0VRYml1MGNWZVAyRDc0N29xbkJxRFNWOTRqcld4NkV3dGtVNmJrU2JjUEk4MnplaUwwRTR2VEx4SXJvMVpOYi1jSW9zM2QwYk1uWmlNcDVBM1RhVDM?oc=5>
+- 场馆: OKX
+- 时间: 2026-09-05 07:57
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WTWd3MmZOMlYybFFuZTFLZE01ZTcxWWRFd2g3Q3hfRElYRDNUa2UteU90ZGFZMnI5dWd0Z0k5S1EwbGFKblRiaGs4elVoalQ1b1NadUY1Sm9TQkg4dEZpaTVOZjhNYW5i?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-05 12:16  (9 条)
+
+- **特朗普** | 闪评｜特朗普再提打击“镐山” 美伊冲突会否升级？ <https://news.google.com/rss/articles/CBMiekFVX3lxTE9qMEZ5VnV6UUJYYUp3TUdOMThFd2ZKZ3NrZFRhQk4wUEdiUTlEdHRFYm9tTWRCNnJMU09kdGZpT2NLdGtTOGc2akF4b0Qzbl9WTTAyRkJYdUczVnhCV1dCeFI2b01ja3Y2amtWek5pZG9rY2FzLUlveTlR?oc=5>
+- **特朗普** | 美总统称可能很快会打击伊朗“镐山”核设施 <https://news.google.com/rss/articles/CBMieEFVX3lxTE9FWDJDMnlqaHV6Mmg4RmpydUxNVlN1bGM5cjZaWnM2VkZvUzN1UUJTN1lteTJ6UndBN3RVWFFnZ2JhQXJ0c3RMV09jU1VneEpKWS0tQWtiVTJsb1czd25vM2RkaTRHQmpYNC1LUERKcmZVQzRlNnkwaA?oc=5>
+- **特朗普** | 泄密事件惹怒特朗普！美媒爆：五角大楼“史无前例”对美军高官启动大规模测谎测试 <https://news.google.com/rss/articles/CBMihwFBVV95cUxPMWg4cnljeDBXMFN6TzRQZ2pzX1BkNXliQ3puNjMxT1RXZzhSLTFNeXNCSzFkd3hwUzg2LXBQd0h2XzdrV09oeDc0MVFRV2YtMVNPSGlRSlh4VE1rNjV0SWVXNWNhOE9RQkhyTnpyVmN6WHVwWEtqMEJMeDJzeDRORGptRkdJTlE?oc=5>
+- **特朗普** | 特朗普：美特使将向俄罗斯提交结束俄乌冲突的方案 <https://news.google.com/rss/articles/CBMieEFVX3lxTE1BTXZuOThXdXR6MXFoaVQtRmxJZ0tZYUlzNm83bjBvQkxtdGVOOW9nZFljQ29GeWhqLWpfVzhEVzhLOU5seGswMDRVUk1QNkhNQm5KLUhGdVVidl85cjBIbE91cXlMRThoN214aG1TdFhUd1J1UVczOA?oc=5>
+- **特朗普** | 特朗普施压沃什降息：高利率令美国陷入“不公平劣势”，否则停止与逆差国贸易 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE9uT0NNRHhwd2lldVRUVzkya0FnOXF1NnRtRkVnNndYeXVDMnBHZ0NFLUg5aVF2TV9kX1doN2l4MVJUUHFUQlNWVTlMNl9ScGZMbHBr?oc=5>
+- **特朗普** | 为何说特朗普为选举“急了” 中期选举压力山大 <https://news.google.com/rss/articles/CBMicEFVX3lxTE50T0ZkSWozT1BVNkdnVjFjV083azFNOVh3SFdvMzU0b2lOQzBUVC1vSERKYU83N1FrdXVOaWdsQTVPeGR6WmxTdEpOM05UYi1WNkRsSTV1TVlSQnAtRUlJTjE1b2dSVHVEYTVOQmVab3E?oc=5>
+- **特朗普** | 特朗普：美特使将向俄罗斯提交结束俄乌冲突的方案 <https://news.google.com/rss/articles/CBMic0FVX3lxTE5wdk4tMnNCUDVESHEwUVJzVGY2OE5yY05mY3JvLVZ4RU8tT2RqMG1teUptSGhWSzhjMUw2ai10MjJRWm1pUndYQjZuUnpDY082N1RDLV9PNS1yY2xPS1lnb0huOVBiRkk4Z0N6YjRlRXZ4Wkk?oc=5>
+- **特朗普** | 外媒：特朗普试图淡化美伊冲突，并称“可能很快”打击镐山 <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBia2h4eFluOXkxS2pIWmhMZ0JwQ05ZdEpGT1VFQktoVmdvUTNTUXBiSExobEwxR09SZ2RDVU9BSW9PeFFqQXJQUWNrNEU5Y3BlbjNtU0pKNnU3b29TYVoyZVNyMXAtaXU3?oc=5>
+- **Trump** | Trump $1 Coin 价格 | $1 价格指数、实时图表和市值 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WTWd3MmZOMlYybFFuZTFLZE01ZTcxWWRFd2g3Q3hfRElYRDNUa2UteU90ZGFZMnI5dWd0Z0k5S1EwbGFKblRiaGs4elVoalQ1b1NadUY1Sm9TQkg4dEZpaTVOZjhNYW5i?oc=5>
 
 ### 2026-09-05 08:44  (11 条)
 
