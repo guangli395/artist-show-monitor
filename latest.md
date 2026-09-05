@@ -1,79 +1,13 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-04 22:00**
-- 本轮扫到 11183 条, 新增 **8** 条
+- 最近更新: **2026-09-05 00:14**
+- 本轮扫到 11183 条, 新增 **0** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮无新增
 
-### VOA今日焦点 (2026年9月5日) 特朗普总统说将设国宴招待习近平，赞扬彭丽媛是“美女”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-09-04 21:23
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTFB4dld6eVRZWHc5SGZyT3U1ekJ5QWNwR1dNYUNvQlRhdTVJa2hLQUFmVlI5SFlaYWJJdTVTYTNDTTJzVXh2cXJZTU9HX3JMckU3T0ZXTGhJVVR1OXFKS0c5cGFPM2VIcWN5c1Vn0gFuQVVfeXFMTUpGNEZoR3ZHbTdZU2hzY3ppVlJNZ2Zid1ZhX3lEaW45amlLMDVQRFpEZkpmVE0tazVqbE56VUNMUWJDYkU4bGJHa3NZV2plY1k1WVgwNTEyZlRRMXhSM0RCWjhybjdQeXFtRGJtNXc?oc=5>
-
-### 特朗普派特使赴莫斯科和基辅 推动结束俄乌战争方案
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-09-04 21:42
-- 链接: <https://news.google.com/rss/articles/CBMi9AJBVV95cUxPZnB3ZHhvYVpWLVVOdG9XLWtMTHpRdnJKNlpMeWd2bjNTUXpHWWRKU3JDR1RNVmR3djRWTy1zUmNjcldpaExncjlHOVBUQTV3a1NBUjllb2VmM0pjUTdZeHh6SWJfYzN0Z2JadUYxLUpuV0hPTjZleFFCc2h5TmRqRGp6czU0VGFpMGhoZ0dvTnJzcVQ1Mkt0V0dKRTJfRnZxekpSb2xwT3FaTFFpYUttZEt1TWVLSlF1SDliSV9MR1oxbXFkZ25lcnhZQlRZMTdLWTBiNE1yUVpFOWRqQVJ0dm9JckQ0MmhOSHhubWRWeU1KUjhLOU01a0NuazRDWGNKRGo2NlFmak04a2NBY0pjLS1DYzRwZmd2VmhtcGI2eEVwQjByNmlXVGxySUNkaEhfTWdSV2YwcjNtVzlsZXhqM1pMQ19OWGZydTR1NjRIb3lNZUctaXphMFNnMm0tbWNHTFVELVR3V2RXaVpxWmQyQXRxbTk?oc=5>
-
-### 特朗普：美特使将向俄罗斯提交结束俄乌冲突的方案
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-04 18:54
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdHZXMDUybTBBWnYxVjlkdXp5UXFzdHd5QzNTU1Z5RmlteHN2TUZhekU0TTJ4WTZ2eDlSXzJyWXZWcEZaaWlyT2hBODdvb1p6SFAxQ19Bd1JRYVNielh5VC01WDVMdnA1bTlxMmRZTzc0UzJmNXNzTmxRWUNGVVVYVnAteEFiSWpOX2NmTHFheThmUkU1VHVrUkNjR05UekxyQ2FVaWhGc1JZMXhGd3R2LUNhTzBVRElaSzNhSS1iX1Vkd1p1dGFaWHBNeE1uNVZC?oc=5>
-
-### 要闻分析 - 特朗普派库什纳和威特科夫带结束战争的提议去莫斯科和基辅
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-09-04 21:13
-- 链接: <https://news.google.com/rss/articles/CBMi7ANBVV95cUxNdWMxQUF3dDlYUGdoZTYzeldVeXI1SnZFR3h5UGNmdzN3d1V1SFZMV1FwNkRsY0hRY1NRdHZWT3dIc2VNeXljYkdfYUQ2dkxFV29DSUU4ZU5TWmhZNFlWd0tyZGNOZHpSNkU3Ym0yWjdLckc4MjVLRmwyZHkyVjlxdXU4STZxSm5QOU1FYW1rZmt0d084YTZ1X3FKb0FDUzlTU2pCODFyMlJvZm1TZ094V0F2SlRIVzlhTUcycVdPQ0Rra1g1SVd3OXB4YlhEM0pNaG40bGtpYk04RHBZeXN3QW9Jd2Nmb2REZEVMeG4zTlhrTmFMcXdIN1NBamJiM21hQWVBZ3FuUkxJSHUwNGZtRExZcHNTLUZBdXljaFlzZVkwUndtTkFmV25wQWF5ak15MzlmM05ONndvMEk3UURrSlZJMmtKNU52U0FzdklBNjJ1WFNWR2dUMkwxQ2s1OGJySkJOSGhUNkpmR0p3UWVEb09JQTZ2ZnA1MzNHN3pWak9rSFVTM1dhY3hWRnFOdWxLSUk3Z1BUb3hPWTFwTDV1SUtzd2tnbzdKNzdVQ19PMEgtNmFqM0p1U2FyNVMyWXRIX3A5Q0c2ZC1SSlJJY2NQNklhaDQ0R1p3bGpPMExkcHhSay0zbFVBd2pyRjA?oc=5>
-
-### 特朗普称可能很快会打击伊朗核设施
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-09-04 21:25
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9fbWJqU2hRRXd3T09vbXRxYW1DR3hTWjhqUDEwaXZSelhiV0JtWnhtNHlEVzdyc0ZYbUM1OTJvNVdvbmh1eWN5T3o2dGM?oc=5>
-
-### 特朗普发帖：数千亿美元都白白地给了乌克兰和北约，我们将要回那笔钱！
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-09-04 16:48
-- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxPalNIelV5R0F2bFNWSndDdWFPYVFDMjgtbnVKX2VBdUNZNVhjSHRiaExWREFBMk54MzlIOEFGQWZ6RHFjQWxZMDZuMFdkVEVVTEx6UEQ3OVl3MDJvcElBcmF5UXFuUzdBWGZpTjJBS1FiLXE0MVJscE1nRDFWWjFxMzU3QkxrejBpdFhfOTQ5NVJUMUoyM3lkRmFOWUlzX193MzRpOXJlOEJza25JVVlIdWFtSlB3S0xWU2JRSEFpX2hxamtNbnBSZ2Fnb2lUVnc?oc=5>
-
-### 特朗普：美特使将向俄罗斯提交俄乌冲突“终战方案”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-09-04 20:55
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KU2VpMTJvQUFEZWoyTnRSSXJlZXNVd3d5dUFhUG82YWRvaDFfdGNUanRZSThUVXlGdzhQRDFQdk5za0VQUGp1bDdORXYxdFo2M0R2RXlHMXhhTVZsNmJrbA?oc=5>
-
-### 特朗普宣布将设国宴款待习近平 中方拟组织大型企业家代表团随访
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-09-04 21:32
-- 链接: <https://news.google.com/rss/articles/CBMivANBVV95cUxPT0J1a1ZCdVVnNVFGdFhLcVk5ZlQ2bFBMSVFGUkkzbjVVRjhyTk1NanJjRUFtVTQwM1NhS3FNc0ZadzYzRkFBaVFBRUlUaldsSFpqYnU3Sm5lZ2NHUG5VcVo1TDk3TVY0REoyejRiY0RJZW8weFNiQ3EyUFlNOGdqNFlQNGRNRVpmZ2pySHJYT2o1U2NSaFlZOEhuSUxmbEJXWkZHcTdNd29HU0tvTjB4WnM3aFBlVnY1MWR4YkZWN1piX1AyVldmS0NsaWJTV184Um1ONWY4SXZYTU1ScHp1dU04RWFNbDVDaU5rai1HYTJFZlFKY2FnYjR3WmpyZUZmbXd2ZFJNckUzbEh6QVZreDBWcHhDU1RJSjc2WHQwcXVtWGtJcWYtSFR1ZzJRVkpyYUpVRVpKdm5FTjNMbHl2emJac3N2TkJTcndhM0EtdHBES2pEMFpWM2VPM3dhUXlmTGh3bWFNV2dRLUI1UzlxaDhLbHFyTGZpOXZIQUdBSGg3VUxsRHpUN3RnTDBZaUdlaTMwN1FvQng4dzVUNkdhZGZCbTMyaGhpUVBjbVprRVE2T1JMU2RyQTJTT0k?oc=5>
-
-
----
-
+数据库里所有演出/动态都已见过,暂无新增。
 ## 历史发现
 
 ### 2026-09-04 22:00  (8 条)
