@@ -1,64 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-05 21:26**
-- 本轮扫到 11241 条, 新增 **6** 条
+- 最近更新: **2026-09-05 23:05**
+- 本轮扫到 11243 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (2 条)
 
-### 特朗普的特使和女婿抵达莫斯科
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: finance.sina.cn
-- 时间: 2026-09-05 20:58
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBnYXhDbFFwbGR2dzV6by1RN19MM2FzM1JtTkFPX2F6cWxvZE1tTmpPR0dwRzFRZlBSVzBVbXJSSWpKQ0NoaVdHSXJ0RWVqRkFvdExBZmhxWGdpeUtZd3dvZ2xIMzlIUW02SHRCT3hVR2YyTTl1WXVjeg?oc=5>
-
-### 特朗普：与伊朗的冲突是微不足道的小事
+### 外媒：特朗普试图淡化美伊冲突，并称“可能很快”打击镐山
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-09-04 22:51
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE8tTndRSDNVYkFUX2RhSXIzbExHX0VMd3Q3S0dYNTMxdGxzU1BLNV81c0NHTWZRbG1GengweUVGSmZrYmlVVjIwYUNtQ0E?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-09-05 22:05
+- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxNX2pDNV90X0JBMUJSbUl4VWM2QV81Wkt0Nld5VTZPUWZtZWtFX3kxdWN0LXROZ29pZGVZUDJpQWtydTNzSG1kTHU0T2hsMXlnb0JhLU5VY01HdWlVWlFVb1F5U2tzc3JvSVpMOERtQllxWlNzYWhTSVkwc3k4Ny1oQlF0cGtvZGdwYU9ldjZzdXZtN0JSV2M0YlRtemM5a0hP?oc=5>
 
-### 特朗普：我走后不会有人为我立碑，所以现在得大建特建
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-09-05 09:46
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1NSmF6MEdORkNGa0pSRGh1Wm81UFh6TWU5M1pCQlJkUnFDZG14MEFzdnItS2M1Z1FpY3JvZVp6ZnpOYXNUTXdHQ01VZVY?oc=5>
-
-### 特朗普承诺从MAGA筹款拨6亿新元为共和党助选
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: zaobao.com
-- 时间: 2026-09-05 03:34
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sQ1ZqbmdCMW5KUm5VWHVzalpOakY3cTZ1dzFoRUVOd3FDTkphRnZCYzU5bm9WN3E2SWJZVWNPLXJBMC0tTXBPZC0teHV5eUI0Nm1tQjVBcnJhYkw0anZyV1F4TG80QQ?oc=5>
-
-### 每顶售价55美元。Trump Store目前上架的“Lake America Hat”提供红色和藏蓝色两种款式，产品标注​|川普集团
+### 普京会见美国特使，就乌克兰问题展开新一轮和平会谈
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-09-05 00:38
-- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTE1zTlJrRUc3NUJoTEdwdXlRQmdwd1oweENrM095bVJhWjRSaTlBdml3blBlbF9jdHdPeWg2RnBLbmFRY1h2VzdtZnNrZjZPbm5yclpyV2dQLUVneDJEX1hGNWNKOA?oc=5>
-
-### 特朗普总统达成史上最大石油协议
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: VOA - Voice of America English News
-- 时间: 2026-09-03 16:43
-- 链接: <https://news.google.com/rss/articles/CBMiwgFBVV95cUxONmNPUXJvQnVBY0dJRThKRUxnaXFmNjd1MFlUdlMzd1ZNSERxUVhFUFBweVBvaVlNT1JoX0txbzFaRjBqQVkzdHB0THV5R0IyRzBHaHBLUkZKelBxZmtCczVNMW5kVmpnYlIyeFNFSnIyQmdLUm5fUms0UlY4SkFQNHk4bXRJMmh0ang4NWNZeHNkMGZQUkxEUUc4VG5tS1lnWlJPU1d1MENkRlluYUpOMEFZQXRSaWZqcHVSNzhfRG1Jd9IBxAFBVV95cUxNOENJNGFERkFUdkx2RjFYOGNhSzR1WUpKQ28teHBIM2RRU3lRbHdESG9HZF9GaWo2Z212aWI3eUZkTU9oeF9SN0IwZmpyVXctblZxM0NjZ3FjMHhmTFl6VEp3cE83N3JJcGVzeldrR0JLMWdZTmJnQ2hXckZRQXBYcGFZa0RTUHBJbTA0QWtjOFBxc1BRMHNFSUZJSTlUSGM0Nk1xSi0yNWd2RFdCLXoxQnFRTVkxbm5TYk1NMmw3RlljOHlE?oc=5>
+- 场馆: voachinese.com
+- 时间: 2026-09-05 20:50
+- 链接: <https://news.google.com/rss/articles/CBMipwFBVV95cUxQX0ZUajBjeXIyWkVMdHgteDRNRlpPZ09UVVdTTGxCSzZQdDYzdzg3bzgtaHdjOXB1czllZzNZZHBGaG1ncHhYSndOQ2xMQm54cmdRRzVEVXBocGlnTXZHb1p3X0lMNkFrWURuVHZHWmptemdYcnRDeGlhdTUwSzFpT2o2ZV9KUjZHallMc0FTRlJXZ0luNnhnVWFfcEZEZ0cxc2I3TFB3RdIBqgFBVV95cUxPRkhJT2I3cWZSeGxlUVYtR3pvZWIwRTZxSDhsbVZhMU1PLWxMM1hPeTI0VS1ueVdOTXNNRU93VWxyWWZRMGQtQXBsXzd6TEEtSlByQkJlMVRyRWxzR3hsS3pkd1V0TG05eF82OWU0dmtHenJrZEpqN2podEYyUjdFV3otcWxhUkI3bW9iUGtYcE1IUjdVWFRHdnh6NzFjSlQwVkVNTG1CYXVVUQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-05 23:05  (2 条)
+
+- **特朗普** | 外媒：特朗普试图淡化美伊冲突，并称“可能很快”打击镐山 <https://news.google.com/rss/articles/CBMioAFBVV95cUxNX2pDNV90X0JBMUJSbUl4VWM2QV81Wkt0Nld5VTZPUWZtZWtFX3kxdWN0LXROZ29pZGVZUDJpQWtydTNzSG1kTHU0T2hsMXlnb0JhLU5VY01HdWlVWlFVb1F5U2tzc3JvSVpMOERtQllxWlNzYWhTSVkwc3k4Ny1oQlF0cGtvZGdwYU9ldjZzdXZtN0JSV2M0YlRtemM5a0hP?oc=5>
+- **Trump** | 普京会见美国特使，就乌克兰问题展开新一轮和平会谈 <https://news.google.com/rss/articles/CBMipwFBVV95cUxQX0ZUajBjeXIyWkVMdHgteDRNRlpPZ09UVVdTTGxCSzZQdDYzdzg3bzgtaHdjOXB1czllZzNZZHBGaG1ncHhYSndOQ2xMQm54cmdRRzVEVXBocGlnTXZHb1p3X0lMNkFrWURuVHZHWmptemdYcnRDeGlhdTUwSzFpT2o2ZV9KUjZHallMc0FTRlJXZ0luNnhnVWFfcEZEZ0cxc2I3TFB3RdIBqgFBVV95cUxPRkhJT2I3cWZSeGxlUVYtR3pvZWIwRTZxSDhsbVZhMU1PLWxMM1hPeTI0VS1ueVdOTXNNRU93VWxyWWZRMGQtQXBsXzd6TEEtSlByQkJlMVRyRWxzR3hsS3pkd1V0TG05eF82OWU0dmtHenJrZEpqN2podEYyUjdFV3otcWxhUkI3bW9iUGtYcE1IUjdVWFRHdnh6NzFjSlQwVkVNTG1CYXVVUQ?oc=5>
 
 ### 2026-09-05 21:26  (6 条)
 
