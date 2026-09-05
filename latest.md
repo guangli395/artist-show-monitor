@@ -1,84 +1,89 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-05 15:23**
-- 本轮扫到 11224 条, 新增 **9** 条
+- 最近更新: **2026-09-05 17:25**
+- 本轮扫到 11232 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (9 条)
+## 本轮新发现 (8 条)
 
-### 一场没看就出事！ GAI唱周杰伦《回到过去》上海站体育场演唱会
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2251236920_m862f263803301430a.html>
-
-### 太爽了！GAI在今晚的演唱会上唱了周杰伦的《回到过去》！好听啊！
+### 周杰伦2004「无与伦比」演唱会台北站《搁浅》下
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5886158017_m15ed7a4c103301ot8w.html>
+- 链接: <https://k.sina.com.cn/article_7879923942_m1d5ae18e6033022p1y.html>
 
-### 特朗普下令，“猎杀狼群”
+### 消息人士：习近平拟率“CEO天团”访美
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-09-05 14:22
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE8wMTNpbHlCVHk5SXdpOExDQ3kzV083SGQ5QTl1OFhVdDBMN3QtRkdMYmU3XzE0dVp1eEhhdHN2cHE3dEJQbTE3R2dFY2NxaHJENzQ0U1F0Yi00cl9TdmZNOTBvcEJwRXlFckE?oc=5>
+- 场馆: DW.com
+- 时间: 2026-09-05 10:33
+- 链接: <https://news.google.com/rss/articles/CBMirAJBVV95cUxPN251bks3dVA1QnV6M1VYLUw5QzhjYjdQZGh2ZGxGUmgxcDJpMUFsYnI0LTFJdXpNMGR1ZFdMdDlrWWJFRmdsTFE1VmxjeXB5QWRNcGVYTzZaOXRCa1hsbXYxck5jcWxubGVDeUY0R014d3lSdkFibjljODBUek5ieUtnRkNISFlZdTV6YWhQTUlRUEFwc1FoQkREdnZuSXppSXZGX3NpVHJabC1wRzBIVFRDTExQNE15dDAzS2M4NjNrVThtdVloX3h3REVhT0o0TTVxSnc0WENWcUY0djVZUGZtLTZNTWhjS3Fib2JnbVlHVHMyVHVjZFpZbHFpUFhLZmh5VmlaLV8yZFliWF83VUVpR2pMdDlLTlZtMF9ydDZQekFMSW5pQjFmWGLSAawCQVVfeXFMT0x5MTZsT2VWYUY1VXhacnA4bXVuMlZPS1V1b2U1RkU2NmZwcWZIREdlNmhkMU1NRjItbTRkeEl6WEJFYnB6cDZmMk8zcG1veWV2RDVGSF9oWlp2a1Z4YW1iNTFZOXFVSVlTLXp4RXpudVhSLV8yckJqeTljeWlEOGljNmdfNjJ2dWJBbDFyRlhHYnRCTm91WkhuUkxRZzczZU53aVNkbHROU2hwcXB0YzJ5YnZraEdGd0VFZkt0bXBqWkdjcXB4OFV4VVNaWW5SQ2NTcVg4cDFJMl9YZ09zcG1DU0Z4TmF0eEJPTTRRTzhQOEFzUld5T3A5UXNWbDRKUi1PS1dGM055NmFwZzk2LS1FRlFXQmtIVmY0UFQ2MElUVFZiQnhJUHczTmp4?oc=5>
 
-### 特朗普：特使赴俄带去“结束冲突的方案” 基辅：关注俄方回应
+### 特朗普的国家资本主义延伸至石油行业：与委内瑞拉达成史无前例的交易
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-09-05 13:57
-- 链接: <https://news.google.com/rss/articles/CBMinwFBVV95cUxPc0FjRjMtOHNRVEZmVGxaeFpHa3o2UUpWUHlqaEZwTEZBQWhtdUVVUUEtMUg1Mk96WWlMX0NWZlNNZWxnRkpsWTcyY19TZ2ZTRWpIaEMyNEl6dTFieXJHZTk3Qll5aUpGTDFweHNDcFFzZ1FJS3JMRlltNWFpUjRTNHZfY1B1VV9vb2JpdUdiUUNzYzdmamFpeVN6VWxRR1E?oc=5>
+- 时间: 2026-09-05 17:15
+- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxNRDNKaUdlVHBJZ3A1S3Q1a3l5RHhUWGdrU2N0TzhyclNhWS1qTF9VcjNZaGtnRGFLVmYtdFdwWjZUYlRCbWJJTU5fWjA1R2h0bVhyOGpHYm5ocExCaklZMnBHOWVpcmtMNjRQNXUzOG5EXzRjUUl6aDRSdU1OZlAwQUJiYlQ3ZTdteWc?oc=5>
 
-### 特朗普要求美联储大幅降息，否则将终止与对美贸易顺差国的贸易往来
+### 特朗普说海峡在他手里，伊朗反手一句：一滴油别想运
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-09-04 14:48
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcUxGNnpuQ0lCQURXSTdPMGJLaXh3WWFlZzl3dGh4S3prSk83WkxKNzZxZVlvd3d0bzBpQktGVXdabk9sZ3dVdTd0WXhNNkNGNWhhbnlMQ3NhanRkaFlCZHY0SEtaVDNtTDRCQ0U4X2w3REIzcFY1Wlk1RG1MR1hMUnNLd0V3LXZCYld6MjUweFBSVjQweTZOS3RJV1ZmWXV6elc2SkQ5VGJDSEhMX1hJWTNJMnk4eFA3NDBQZkdhZnk0RTB6Vm5walhNdVVNMERFaHprRWE4TmVGMFNsNE5z?oc=5>
+- 时间: 2026-09-05 16:00
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE8wTFQ3cEwwQm9Pam9DMFBiVm9ISTJpMFlERE1aeVRyWklvTDFTSkFBVUlXTVk0bndiOThmUmxsay1CU1hrZHpRU1BnVEoyN0o4S2hNenlCdFJhUWIxcG5hNVA3cV9UdnhJbVhCZ01rRHVKU2YwZFE?oc=5>
 
-### 非农爆了！9月加息预期升温 特朗普喊话：降息！降息！美联储必须“聪明”起来
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: eastmoney.com
-- 时间: 2026-09-04 06:08
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE4wbTNuVngtb29TQ2ZMeTRGTUdNMm9yeHVESzBwbmtfLTRYY3lidTAyd19tX0pydllWeWNBSTJIVXgxWjBFUk5tc2oyeS1DV0tWeGx3QVRnanZYLVZxS29IYg?oc=5>
-
-### 泄密事件惹怒特朗普！美媒爆：五角大楼“史无前例”对美军高官启动大规模测谎测试
+### 特朗普特使抵达莫斯科
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 环球网
-- 时间: 2026-09-04 17:43
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE8ydGIwdlFoemtLS0l6WXFMRzFKYnloMWlvTXE4bFB1SUowZmk1N3N5S1NlTUNiMVFfYUlFRGEzUG0xS2l0ekJJYlpIeGtpNDZlclgwNkNtYXY?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-09-05 10:47
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTFBGcF84SVEzQmxCNzV2T2V0WEJCbEE4aFFnMzFSX3NYb0ZON0lYbms4bXdZaWg2aE1wdzJhMndtV0hXRTZwU0xUempLVUZyVzZNcjhpSV9MYV96dHU2S2swZjhlQ3ZPUFgzS09QSWJXWlM4Z1NfRFE?oc=5>
 
-### Trump Denies Running TRUMP Coin as Token Price Falls 5%
+### 普京下令：三天内不打基辅
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: CryptoRank
-- 时间: 2026-09-05 11:56
-- 链接: <https://news.google.com/rss/articles/CBMimwFBVV95cUxNd1ZDa09tbVA4NEt6SlpwT2RKdTlQR1NLM3hYOHpPN0t6OUdKWDJhOE4tdXg3MjM5WnRFYTUyTGwzVlNoYWRpbjJmNTlmakQzdVZhU0NzMHNhT0JXSVdNS1Y1MGlJeFlmU1lNc2ZCdk9fcEJ6c2xlc2poOGdSQkw5SHNBck9oSkd6RHp3QUVmTy0yZG1iUW1USHVsdw?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-09-05 16:38
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBYWDRUcE5HOUNnR0FuM0dfNVhjeDB6dDliaDYzWTNBb05pZzlkcWVUV0h6NTd2QkV4aXZLTVo0RWJBaG51NFJxV3M2THJxd0VHaExyb3hSODc1dWVEcmhyeGd0S0gxakRLQXgyekhJTWdGS2FRdkYyRg?oc=5>
 
-### TRUMP价格纹丝不动，82%爆仓却砸向多头| 币老板coinboss发布于币安广场
+### 9月5日外盘头条：特朗普称可能很快打击镐山大众汽车力图重振美国业务花旗推后预期的美联储降息时间
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Binance
-- 时间: 2026-09-05 10:53
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vaHRmWlpZS2s5VkRFcjRHcm9lWnRHSEUyd1lGNGlrcDB2MGNYdkRfS0s2UnhpZ25GTDUyVlB6bTNwbkZTUGtVNWlBYjREdDNSTGZVb2ZvVDlTLW5MVjBDVDEyRUtHV2p4?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-09-04 19:47
+- 链接: <https://news.google.com/rss/articles/CBMingFBVV95cUxOR3phVHZWQlB4WDhseGNCU0JRd3paT0N5QkozYTg0clpwbzBHTWJuUVBYcTRadnZuNFV2c0dQOHRfSS04c0huZnQ5TElBa3NjMXc4djNNZEcwTlNldzlUX3JDYldfYzdHMEF3T213bDZEbFNZV0I0R1VLUDh2blJHdEJvbU5HQVM2Zk12ZWRndG9UQXFMaVBBbkhoa25Tdw?oc=5>
+
+### 悬念又来了！特朗普彻底坐不住了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-09-05 00:32
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1MNmpEM2dPZnhOZXpDMDNfRXZwZXR3ek92RllST1lTekdRc0QxZ0JUQWZCVWdUblJFU0VpN2J0bF8xY1RBelJ3Mmd2eEY?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-05 17:25  (8 条)
+
+- **周杰伦** | 周杰伦2004「无与伦比」演唱会台北站《搁浅》下 <https://k.sina.com.cn/article_7879923942_m1d5ae18e6033022p1y.html>
+- **特朗普** | 消息人士：习近平拟率“CEO天团”访美 <https://news.google.com/rss/articles/CBMirAJBVV95cUxPN251bks3dVA1QnV6M1VYLUw5QzhjYjdQZGh2ZGxGUmgxcDJpMUFsYnI0LTFJdXpNMGR1ZFdMdDlrWWJFRmdsTFE1VmxjeXB5QWRNcGVYTzZaOXRCa1hsbXYxck5jcWxubGVDeUY0R014d3lSdkFibjljODBUek5ieUtnRkNISFlZdTV6YWhQTUlRUEFwc1FoQkREdnZuSXppSXZGX3NpVHJabC1wRzBIVFRDTExQNE15dDAzS2M4NjNrVThtdVloX3h3REVhT0o0TTVxSnc0WENWcUY0djVZUGZtLTZNTWhjS3Fib2JnbVlHVHMyVHVjZFpZbHFpUFhLZmh5VmlaLV8yZFliWF83VUVpR2pMdDlLTlZtMF9ydDZQekFMSW5pQjFmWGLSAawCQVVfeXFMT0x5MTZsT2VWYUY1VXhacnA4bXVuMlZPS1V1b2U1RkU2NmZwcWZIREdlNmhkMU1NRjItbTRkeEl6WEJFYnB6cDZmMk8zcG1veWV2RDVGSF9oWlp2a1Z4YW1iNTFZOXFVSVlTLXp4RXpudVhSLV8yckJqeTljeWlEOGljNmdfNjJ2dWJBbDFyRlhHYnRCTm91WkhuUkxRZzczZU53aVNkbHROU2hwcXB0YzJ5YnZraEdGd0VFZkt0bXBqWkdjcXB4OFV4VVNaWW5SQ2NTcVg4cDFJMl9YZ09zcG1DU0Z4TmF0eEJPTTRRTzhQOEFzUld5T3A5UXNWbDRKUi1PS1dGM055NmFwZzk2LS1FRlFXQmtIVmY0UFQ2MElUVFZiQnhJUHczTmp4?oc=5>
+- **特朗普** | 特朗普的国家资本主义延伸至石油行业：与委内瑞拉达成史无前例的交易 <https://news.google.com/rss/articles/CBMiigFBVV95cUxNRDNKaUdlVHBJZ3A1S3Q1a3l5RHhUWGdrU2N0TzhyclNhWS1qTF9VcjNZaGtnRGFLVmYtdFdwWjZUYlRCbWJJTU5fWjA1R2h0bVhyOGpHYm5ocExCaklZMnBHOWVpcmtMNjRQNXUzOG5EXzRjUUl6aDRSdU1OZlAwQUJiYlQ3ZTdteWc?oc=5>
+- **特朗普** | 特朗普说海峡在他手里，伊朗反手一句：一滴油别想运 <https://news.google.com/rss/articles/CBMidkFVX3lxTE8wTFQ3cEwwQm9Pam9DMFBiVm9ISTJpMFlERE1aeVRyWklvTDFTSkFBVUlXTVk0bndiOThmUmxsay1CU1hrZHpRU1BnVEoyN0o4S2hNenlCdFJhUWIxcG5hNVA3cV9UdnhJbVhCZ01rRHVKU2YwZFE?oc=5>
+- **特朗普** | 特朗普特使抵达莫斯科 <https://news.google.com/rss/articles/CBMidkFVX3lxTFBGcF84SVEzQmxCNzV2T2V0WEJCbEE4aFFnMzFSX3NYb0ZON0lYbms4bXdZaWg2aE1wdzJhMndtV0hXRTZwU0xUempLVUZyVzZNcjhpSV9MYV96dHU2S2swZjhlQ3ZPUFgzS09QSWJXWlM4Z1NfRFE?oc=5>
+- **特朗普** | 普京下令：三天内不打基辅 <https://news.google.com/rss/articles/CBMieEFVX3lxTFBYWDRUcE5HOUNnR0FuM0dfNVhjeDB6dDliaDYzWTNBb05pZzlkcWVUV0h6NTd2QkV4aXZLTVo0RWJBaG51NFJxV3M2THJxd0VHaExyb3hSODc1dWVEcmhyeGd0S0gxakRLQXgyekhJTWdGS2FRdkYyRg?oc=5>
+- **特朗普** | 9月5日外盘头条：特朗普称可能很快打击镐山大众汽车力图重振美国业务花旗推后预期的美联储降息时间 <https://news.google.com/rss/articles/CBMingFBVV95cUxOR3phVHZWQlB4WDhseGNCU0JRd3paT0N5QkozYTg0clpwbzBHTWJuUVBYcTRadnZuNFV2c0dQOHRfSS04c0huZnQ5TElBa3NjMXc4djNNZEcwTlNldzlUX3JDYldfYzdHMEF3T213bDZEbFNZV0I0R1VLUDh2blJHdEJvbU5HQVM2Zk12ZWRndG9UQXFMaVBBbkhoa25Tdw?oc=5>
+- **特朗普** | 悬念又来了！特朗普彻底坐不住了 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1MNmpEM2dPZnhOZXpDMDNfRXZwZXR3ek92RllST1lTekdRc0QxZ0JUQWZCVWdUblJFU0VpN2J0bF8xY1RBelJ3Mmd2eEY?oc=5>
 
 ### 2026-09-05 15:23  (9 条)
 
