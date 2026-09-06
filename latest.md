@@ -1,14 +1,96 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-06 01:09**
-- 本轮扫到 11243 条, 新增 **0** 条
+- 最近更新: **2026-09-06 06:12**
+- 本轮扫到 11252 条, 新增 **9** 条
 
 ---
 
-## 本轮无新增
+## 本轮新发现 (9 条)
 
-数据库里所有演出/动态都已见过,暂无新增。
+### 蔡徐坤新加坡演唱会加场，10月24日25日连开两天
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_3252743925_mc1e0eef503301hvyu.html>
+
+### GAI唱周杰伦《回到过去》上海站体育场演唱会
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5798351208_m1599bd168020026t5y.html>
+
+### 倒计时开启！特朗普两头堵，“核大礼”摆面前，把沙特逼进死胡同 ！
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-09-06 03:51
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE94YzY1S0xVZ0ItcjQzUzhxYlRCdXZjUE9Dd0lKNEtkR19UWElRams5M0hmQWVneHp0ZlZ0SmRuLVlNOV9sVWRXcVhTNmJIVUxCeThYNWVOc21BdnBvckRCa3h0ZjJmalJkMm5zaUZxNWlWY1U?oc=5>
+
+### 普京会见特朗普特使，3小时闭门谈完双方均未发声明
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-09-05 23:43
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE16UDFlejRSV0lMcVZjX1JBaERvc0dFbGNkMzhwenJScUw2RGE0dEQtZW9XdGtnNFR3bmVHNkRJc0o2VHk3aUl2REFVZlBNVVgtR292SXN5My10bjRlOXV2TTlxVlB0dWxjaGc?oc=5>
+
+### 特朗普为何要将安大略湖改名美国湖 两大政治考量
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-09-06 05:45
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFAwaXBEVlc1VXJlcVdMa19wUWlUNlR6YXNOa3A4Zk5QZ3V3clp3SGZ3VHZhTWRCWi1LRmRCUDlVN1ZkUWdXYnpUdXlMRjA3ak83TEJxN0NnVkJUWThQWWZBbmh2am1JNVVQV0xfS2NiZE4?oc=5>
+
+### 特朗普力挺AI数据中心 加剧共和党中期选举落败风险
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-09-06 01:35
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE15Q2pKTldKa0FRMkpLWmNMdFhWSWVLYUtVblQ5dV9XZkREbGl3QkVmV0ZkVmh5Qk5OMkt3SktxQVJLZzBtS210emJEcmtoeFY1ODQ2LWNTaU1RU0xYMHMzOURjeklET180UXc?oc=5>
+
+### Trump reiterates good relations with China ahead of Xi’s visit
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: TVB
+- 时间: 2026-09-05 12:53
+- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxOYjlfTDdKVlBMYk5YTkxBZEU4OHlKTU9ObTdnRFBaMzJlU2s2OFpXbGszeDlBNjdSeGwwcy1aQXBNZVFOY3FFREd2YTM4NV80QmhiNFBtM1A1Ung5NnJVSHVBOHJhejNsQXhPZ0MtNUFTbW93Q2VvVEduVXNHazFYZGc1RjVyQWV0S0ZKNEswQk5fdTFmSVpsNA?oc=5>
+
+### 特朗普总统谈及$OFFICIAL TRUMP (TRUMP.CC)$ MEMECOIN： “我听说它表现非常好。” ... - moomoo 社区
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-09-05 01:12
+- 链接: <https://news.google.com/rss/articles/CBMitwFBVV95cUxQbkt6NTUwRlZSQnBuajYtT3hqZjNUOEZ1NXVwWWxyd2xBNVh3T0ZnaFNBUzZMbFByclItV1hsdHVjVkRvQWZuSkpDQV8xeERsZlVlNURHOVRWVXp2U1VGTWFHc3pNeF90RlhOZUFTN2c2TzM5T1A2UzVidm1lTGNvUnRKR1l5TnZDdlo2c0NXYUpDY0FKTkFZSm4zUXA4MGxzMFlCXzRaREQ2V1N6ZUt6eEhoMXQwMGs?oc=5>
+
+### 特朗普总统的计划是解决加沙问题的唯一前行道路
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: VOA - Voice of America English News
+- 时间: 2026-09-01 16:14
+- 链接: <https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYXB3dm51bGFmMUtoYXNGWEhDNFB0bmQwZ3dZa2s4NERXZ25jeW1qN21KUk85M1hkZEhJT0kzWVFIN3FQMWZaSHpNWnkyMHdiNTR5bnAySFJtMmR0M3U3dUZ2akUySFdGQXZQREY1VDB2VS03ajdnR0x2bXpQS0N0UGhjaTRPd3g0OEcyajVob0Fhdll1RUNqOEJXTkJfR2lId2hlaWJQRl9MV3hXSUJMajFyYUtrTDFPMG90RE5Nc0I5QdIBxAFBVV95cUxPQkNqRHpfeHhNUkt1U3lfNmNGTHVISzZTMlpPOGx5YkxGOERaNWtYeGRCOGctTVhJSlJVQlFmZlVpMHRoeFB4ZFRpajl0aVdpMmtHMmpDWmRiNmp6Z2lUVzI4VlFaeW5iT0J4Vi1hN3lBcVd4XzZyMmo2QjR2Q1VlXzNaTmctY3g1Ukl0TnZoMGlzZTdNRTBNQjdEcDFWX1VQTFZIRWtRVzR2VGpKQkxuaXBqSWlKREVTa0dTTjVPUFVTRmJ2?oc=5>
+
+
+---
+
 ## 历史发现
+
+### 2026-09-06 06:12  (9 条)
+
+- **蔡徐坤** | 蔡徐坤新加坡演唱会加场，10月24日25日连开两天 <https://k.sina.com.cn/article_3252743925_mc1e0eef503301hvyu.html>
+- **周杰伦** | GAI唱周杰伦《回到过去》上海站体育场演唱会 <https://k.sina.com.cn/article_5798351208_m1599bd168020026t5y.html>
+- **特朗普** | 倒计时开启！特朗普两头堵，“核大礼”摆面前，把沙特逼进死胡同 ！ <https://news.google.com/rss/articles/CBMic0FVX3lxTE94YzY1S0xVZ0ItcjQzUzhxYlRCdXZjUE9Dd0lKNEtkR19UWElRams5M0hmQWVneHp0ZlZ0SmRuLVlNOV9sVWRXcVhTNmJIVUxCeThYNWVOc21BdnBvckRCa3h0ZjJmalJkMm5zaUZxNWlWY1U?oc=5>
+- **特朗普** | 普京会见特朗普特使，3小时闭门谈完双方均未发声明 <https://news.google.com/rss/articles/CBMiakFVX3lxTE16UDFlejRSV0lMcVZjX1JBaERvc0dFbGNkMzhwenJScUw2RGE0dEQtZW9XdGtnNFR3bmVHNkRJc0o2VHk3aUl2REFVZlBNVVgtR292SXN5My10bjRlOXV2TTlxVlB0dWxjaGc?oc=5>
+- **特朗普** | 特朗普为何要将安大略湖改名美国湖 两大政治考量 <https://news.google.com/rss/articles/CBMicEFVX3lxTFAwaXBEVlc1VXJlcVdMa19wUWlUNlR6YXNOa3A4Zk5QZ3V3clp3SGZ3VHZhTWRCWi1LRmRCUDlVN1ZkUWdXYnpUdXlMRjA3ak83TEJxN0NnVkJUWThQWWZBbmh2am1JNVVQV0xfS2NiZE4?oc=5>
+- **特朗普** | 特朗普力挺AI数据中心 加剧共和党中期选举落败风险 <https://news.google.com/rss/articles/CBMiakFVX3lxTE15Q2pKTldKa0FRMkpLWmNMdFhWSWVLYUtVblQ5dV9XZkREbGl3QkVmV0ZkVmh5Qk5OMkt3SktxQVJLZzBtS210emJEcmtoeFY1ODQ2LWNTaU1RU0xYMHMzOURjeklET180UXc?oc=5>
+- **Trump** | Trump reiterates good relations with China ahead of Xi’s visit <https://news.google.com/rss/articles/CBMimAFBVV95cUxOYjlfTDdKVlBMYk5YTkxBZEU4OHlKTU9ObTdnRFBaMzJlU2s2OFpXbGszeDlBNjdSeGwwcy1aQXBNZVFOY3FFREd2YTM4NV80QmhiNFBtM1A1Ung5NnJVSHVBOHJhejNsQXhPZ0MtNUFTbW93Q2VvVEduVXNHazFYZGc1RjVyQWV0S0ZKNEswQk5fdTFmSVpsNA?oc=5>
+- **Trump** | 特朗普总统谈及$OFFICIAL TRUMP (TRUMP.CC)$ MEMECOIN： “我听说它表现非常好。” ... - moomoo 社区 <https://news.google.com/rss/articles/CBMitwFBVV95cUxQbkt6NTUwRlZSQnBuajYtT3hqZjNUOEZ1NXVwWWxyd2xBNVh3T0ZnaFNBUzZMbFByclItV1hsdHVjVkRvQWZuSkpDQV8xeERsZlVlNURHOVRWVXp2U1VGTWFHc3pNeF90RlhOZUFTN2c2TzM5T1A2UzVidm1lTGNvUnRKR1l5TnZDdlo2c0NXYUpDY0FKTkFZSm4zUXA4MGxzMFlCXzRaREQ2V1N6ZUt6eEhoMXQwMGs?oc=5>
+- **Trump** | 特朗普总统的计划是解决加沙问题的唯一前行道路 <https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYXB3dm51bGFmMUtoYXNGWEhDNFB0bmQwZ3dZa2s4NERXZ25jeW1qN21KUk85M1hkZEhJT0kzWVFIN3FQMWZaSHpNWnkyMHdiNTR5bnAySFJtMmR0M3U3dUZ2akUySFdGQXZQREY1VDB2VS03ajdnR0x2bXpQS0N0UGhjaTRPd3g0OEcyajVob0Fhdll1RUNqOEJXTkJfR2lId2hlaWJQRl9MV3hXSUJMajFyYUtrTDFPMG90RE5Nc0I5QdIBxAFBVV95cUxPQkNqRHpfeHhNUkt1U3lfNmNGTHVISzZTMlpPOGx5YkxGOERaNWtYeGRCOGctTVhJSlJVQlFmZlVpMHRoeFB4ZFRpajl0aVdpMmtHMmpDWmRiNmp6Z2lUVzI4VlFaeW5iT0J4Vi1hN3lBcVd4XzZyMmo2QjR2Q1VlXzNaTmctY3g1Ukl0TnZoMGlzZTdNRTBNQjdEcDFWX1VQTFZIRWtRVzR2VGpKQkxuaXBqSWlKREVTa0dTTjVPUFVTRmJ2?oc=5>
 
 ### 2026-09-05 23:05  (2 条)
 
