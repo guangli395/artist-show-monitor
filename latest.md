@@ -1,31 +1,13 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-05 23:05**
-- 本轮扫到 11243 条, 新增 **2** 条
+- 最近更新: **2026-09-06 01:09**
+- 本轮扫到 11243 条, 新增 **0** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮无新增
 
-### 外媒：特朗普试图淡化美伊冲突，并称“可能很快”打击镐山
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-05 22:05
-- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxNX2pDNV90X0JBMUJSbUl4VWM2QV81Wkt0Nld5VTZPUWZtZWtFX3kxdWN0LXROZ29pZGVZUDJpQWtydTNzSG1kTHU0T2hsMXlnb0JhLU5VY01HdWlVWlFVb1F5U2tzc3JvSVpMOERtQllxWlNzYWhTSVkwc3k4Ny1oQlF0cGtvZGdwYU9ldjZzdXZtN0JSV2M0YlRtemM5a0hP?oc=5>
-
-### 普京会见美国特使，就乌克兰问题展开新一轮和平会谈
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: voachinese.com
-- 时间: 2026-09-05 20:50
-- 链接: <https://news.google.com/rss/articles/CBMipwFBVV95cUxQX0ZUajBjeXIyWkVMdHgteDRNRlpPZ09UVVdTTGxCSzZQdDYzdzg3bzgtaHdjOXB1czllZzNZZHBGaG1ncHhYSndOQ2xMQm54cmdRRzVEVXBocGlnTXZHb1p3X0lMNkFrWURuVHZHWmptemdYcnRDeGlhdTUwSzFpT2o2ZV9KUjZHallMc0FTRlJXZ0luNnhnVWFfcEZEZ0cxc2I3TFB3RdIBqgFBVV95cUxPRkhJT2I3cWZSeGxlUVYtR3pvZWIwRTZxSDhsbVZhMU1PLWxMM1hPeTI0VS1ueVdOTXNNRU93VWxyWWZRMGQtQXBsXzd6TEEtSlByQkJlMVRyRWxzR3hsS3pkd1V0TG05eF82OWU0dmtHenJrZEpqN2podEYyUjdFV3otcWxhUkI3bW9iUGtYcE1IUjdVWFRHdnh6NzFjSlQwVkVNTG1CYXVVUQ?oc=5>
-
-
----
-
+数据库里所有演出/动态都已见过,暂无新增。
 ## 历史发现
 
 ### 2026-09-05 23:05  (2 条)
