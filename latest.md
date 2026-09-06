@@ -1,48 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-06 19:21**
-- 本轮扫到 11274 条, 新增 **4** 条
+- 最近更新: **2026-09-06 21:29**
+- 本轮扫到 11278 条, 新增 **4** 条
 
 ---
 
 ## 本轮新发现 (4 条)
 
-### 特朗普发布一张地图，将新墨西哥州标注为“新美国”。
+### 特朗普在社交媒体上发布三张图片显示，石油通过霍尔木兹海峡的流量已恢复到冲突前的水平。冲突前，每天有2000万桶石油通过该海峡，现在这一数字已达到每天1800万桶。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-09-06 17:53
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1kRGpDRDV2SEZMQXE2UlJ1b2ZwcDlVb0hBZzgwU0pFLW16c3VUNlFjYWlfRHhaNVg1ZGp4WnNLa0htZlN0Wk1FQVUyQm5IUzZNLWZEbWVIUG53aVRJU2FWbnhVY0lSSXJucUs3amhGeFZRX21CaFZYVw?oc=5>
+- 时间: 2026-09-06 20:09
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE05SXg4Zm9ibGM2Z2Z4UmJnNVJyWTRWMkVpZFRUZ0lQUDJVUjJOM2pKZzJrZG9ZT0M1dU40NXpPekZ5UzNGRlNMRUcxdmtBXzBtQ1c2aDVqV1Z0Wk1XbUY3dDRrX0lwYmZNRHlNTjZrN0o0c25GZzhiQQ?oc=5>
 
-### 美抛出终战方案，俄乌和平会到来吗
+### 特朗普怒了：“叛国败类！”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-09-05 04:41
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9Fb1pVM25MRHBxVkRlT2tqZkw2V3VXQkR4LWh1aHVTX0NncnlBU1MyenFqVWwtbHdQQ0hXZkdJdkdVbVVzd2hMWnlUaG40UUtwWUt3akFQMEkzbWoyaDF0YV9sREQ0OVlEdHdzYzRVYncyY0luRVk3SA?oc=5>
+
+### 特朗普在社交账号发布图片渲染哈尔克岛遭袭，聚焦伊朗经济恶化现状
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-09-06 19:08
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBJVUhaYmtKUThoRFloeGk4d1V0di1hNHd1b2g3WFFpbVBEdzZZYXN1cWxTS2FPQnZtdWpxMDd5V1M2ODFnek1FdHZyTURFeC1NV0NHdEo5bTJjU3pJVHBoMklKQVg4cHhXUkNyQXhvb1VyUjM3U1JHSQ?oc=5>
+- 时间: 2026-09-06 19:10
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9rMEZNSmNkbEJGZy1wWW9SYnU0VDZaY091VTJDbE5GNXp1UDhYSHdZNmV5RldBaWhEV29qNy1sNEc2TW9lQkw2NnpyVWdJZEdXY21sQThwNE03UjIzNUhtSktkNnZPajMzZG5XNmtneUFMcTNzNVRHNg?oc=5>
 
-### “很凶猛”！特朗普签令，这次盯上了它们
+### 特朗普对沃什施压，美联储加息在即
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-09-06 15:19
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5lcmxyZDVYdGphQTdpYkg1THE1eGRnOFVPZ1JLMXBhUVlpVnQwaE9WUmQ0QkhMc015NDRVR3pqVzV6ZUpBZk1TMFgxLXo3Rlc1U2I0NmRSYTlMUzFWUlQydnpERjNYNFVQaERKT3dicFRTMFU5SlFmZA?oc=5>
-
-### 特朗普的“黄金舰队”，要黄了？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-09-05 23:31
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9wb2RzWHo1di03bm9oaGFzcXRDVjlLclVkN1FQWERxR042ZTlnXzlpd3pyeWxDcG5ndWNoYVgzWmdWMnFlaHVCeFRKR3M?oc=5>
+- 时间: 2026-09-06 14:13
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxOd0xjc1ZEZm9aWGRDbWNRaXpxRVVXaGZPa0xTUTAzYURaWjJyU3FTVmk4amxpMjcxaVRIdC1saFg4amVsTTJyMjRuUEk0RE0wNFNiS0tBUnhJV0ZjSDJ5enRPYzJtZW9idnRZeFozSEdnT1J4R2dPVDJpYjIyVlpsOFFDam5yZTA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-06 21:29  (4 条)
+
+- **特朗普** | 特朗普在社交媒体上发布三张图片显示，石油通过霍尔木兹海峡的流量已恢复到冲突前的水平。冲突前，每天有2000万桶石油通过该海峡，现在这一数字已达到每天1800万桶。 <https://news.google.com/rss/articles/CBMieEFVX3lxTE05SXg4Zm9ibGM2Z2Z4UmJnNVJyWTRWMkVpZFRUZ0lQUDJVUjJOM2pKZzJrZG9ZT0M1dU40NXpPekZ5UzNGRlNMRUcxdmtBXzBtQ1c2aDVqV1Z0Wk1XbUY3dDRrX0lwYmZNRHlNTjZrN0o0c25GZzhiQQ?oc=5>
+- **特朗普** | 特朗普怒了：“叛国败类！” <https://news.google.com/rss/articles/CBMieEFVX3lxTE9Fb1pVM25MRHBxVkRlT2tqZkw2V3VXQkR4LWh1aHVTX0NncnlBU1MyenFqVWwtbHdQQ0hXZkdJdkdVbVVzd2hMWnlUaG40UUtwWUt3akFQMEkzbWoyaDF0YV9sREQ0OVlEdHdzYzRVYncyY0luRVk3SA?oc=5>
+- **特朗普** | 特朗普在社交账号发布图片渲染哈尔克岛遭袭，聚焦伊朗经济恶化现状 <https://news.google.com/rss/articles/CBMieEFVX3lxTE9rMEZNSmNkbEJGZy1wWW9SYnU0VDZaY091VTJDbE5GNXp1UDhYSHdZNmV5RldBaWhEV29qNy1sNEc2TW9lQkw2NnpyVWdJZEdXY21sQThwNE03UjIzNUhtSktkNnZPajMzZG5XNmtneUFMcTNzNVRHNg?oc=5>
+- **特朗普** | 特朗普对沃什施压，美联储加息在即 <https://news.google.com/rss/articles/CBMihwFBVV95cUxOd0xjc1ZEZm9aWGRDbWNRaXpxRVVXaGZPa0xTUTAzYURaWjJyU3FTVmk4amxpMjcxaVRIdC1saFg4amVsTTJyMjRuUEk0RE0wNFNiS0tBUnhJV0ZjSDJ5enRPYzJtZW9idnRZeFozSEdnT1J4R2dPVDJpYjIyVlpsOFFDam5yZTA?oc=5>
 
 ### 2026-09-06 19:21  (4 条)
 
