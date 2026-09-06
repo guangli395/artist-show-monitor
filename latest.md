@@ -1,80 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-06 14:17**
-- 本轮扫到 11268 条, 新增 **8** 条
+- 最近更新: **2026-09-06 17:12**
+- 本轮扫到 11270 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (2 条)
 
-### 特朗普将乘坐新“空军一号”出访
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-09-06 13:05
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTFB2NlNWbi1iUHk5LWNMOEpRaVNOcmszY3RNRzR2SWNQeGpYSFNVODJOeHRIeFpOT1RGLS1pZXRtcW1qYmpLNUJnYnBLVzZ0Uk95MzlBWFRXdDJNYXUxMW9fUUFPeHI3RnpkcHdCa29kVjZMODBhREE?oc=5>
-
-### 特朗普： 加拿大货币兑美元的失衡局面不可接受。
+### “很凶猛”！特朗普签令，这次盯上了狼
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-09-06 13:10
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE42Ym5zYldNSk85elVpMjFnbXd3WFRKV1VJTlFuel90b1prWFNHM0FLRXdIbmF2azBiZnRKXzN4enh4T0dJcDRXN2dhMWY3RHE3Ri1PSERKTHhiN01fMm9rWG1oYzdYTXVnX1ZPdjh4ZjNkeUpxdW9sNQ?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-09-06 16:11
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5FMGUzMmF3M2FaeE5aNkJTYkc3RGVxZXlBWk5KOWZ4MnlVNzR0dVFuei1ZRzdRVVl3ZFZtd0w1X1pJUEZDVWZsdURTVDlpckdncFA2N1hSSTVfamNLWEF0XzJYdHp4REszamNDVU9WcmJXM2M?oc=5>
 
-### 福克兰群岛：特朗普取态何以左右英阿主权争议
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: bbc.com
-- 时间: 2026-09-06 07:49
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFB4Z2xCcVZUdjdoaXdQVmFZS2p0N2Jha3V2TVVMTUhFTVh4Ti1uLUZsRng3OEpOOWd2R3RheUlEZ0oxOWZqRmhrcTlfbFRkMm15RWZ1NW1ZWGNwVWt2WmtXdE1RRmpQZ9IBa0FVX3lxTE1yQWFiUEZGQ1J0V0h5emNFYXJpTjJTSkJ5SzVMZnIwbXNqM0ZqXzFBSUx1bnBuR01LT1RReVRuTWR6THJkYmJnLUdsemRCdDRrN2tSTnNQM0d6UExPNXliNGphSFhaeVdQZFR3?oc=5>
-
-### “特朗普走廊”修到俄罗斯“后院”，亚美尼亚站在十字路口
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-09-06 11:46
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE0zVGx3enRWXzR3bEt0UnBmeDYycU1PYzIxdnY2d0d5QUlNcTlBYmlOa1I1QXpaOXptbXBsWE9NMVBNSWtmQUt6Y2stZUR1T2g2eXgzLUgyelFhdWYyUEx4Qmp3ZW9WQ2wxakE?oc=5>
-
-### 美国总统特使抵达乌克兰首都基辅
+### 特朗普称加拿大货币对美国的“失衡”不可接受
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-09-06 11:42
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1zN1Q0TlpXTVlCWjVobzVXeVVyc0NMejJaMU1HTmpCLU5PUTQ5TloxcjI3UU5jY3FUZ2VzNzBKai1pMEE3bkhJMzcxUGh2R2NkajZ0V25VSEI3Smx4WjdpTG92b0tKRHJFT2dYSHBJa29sRWs1MkZwQg?oc=5>
-
-### 特朗普过去24小时都忙了什么？（2026-09-06）
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-06 11:15
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxPY2EyMk1iS29HakluOU43WXpZQXlVUVgwZ25HX0lwZlhCWnhJdFE3bkRmcmlRZGZIZDdzMHdGUDdVSEFvejRBNVZZVGtpbFQwNktjX0JOaHRDSHBBYlI1aWxpSTMxOXo1NzJBLTEwQ3FQaGVQUXQ5bkFSZmZlRF9EUTJTU0ZwdlE?oc=5>
-
-### 民意探底仍要站C位 共和党被绑上特朗普战车
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-09-06 12:03
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE4wcG5jLTVFVXI5cTdRc0ZsY3VOS0dtWWtOc29TRUg2aTJ2ay1HNVVZNjRLaWg1eHZueG1oUjlOeHlxTllsR2xfT2tDZE15UkZqYndUa3F5NjJnbG9GVW9GTHF5emtKdW9qU3c?oc=5>
-
-### 市场热议：特朗普在8月就业增长后呼吁降息
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-09-04 15:48
-- 链接: <https://news.google.com/rss/articles/CBMisAFBVV95cUxNSGoyM2JhQkZ0b2tDcnFnTDJ0SGgtOThFTGo3cXNiYjBuQU5UcUMyRXBUeXdwZVZXZnhkZTM1dDFoV1J2bTlWOUV0ZTJwOHlvbHRWX1JYMDBCc0U5dHFfbjJDZzBISFJwamxtd09BNnNfY1Z5NXpRbzVaTjN4UWhaOHQ5a1k1TGhQNUlneGo4dE1qTk5wZGRJRmljbm1kbkJUMTczdXp6S19saWZmb0ozMw?oc=5>
+- 时间: 2026-09-06 16:11
+- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxNd3F3eWJvaWVDc3FGa3psN1JRSW5XUGJ0R19ieVNudGtObEl6YThIcFcydUFXSWdPZXBTMnN3cHpnaW1OMzFYSzFoN1pwWHo0OEl1S2o5Q19US0JrMnBSTnZXV0x2T0xQbkJ2RDg5Yzg4X2NmTmVjTEFNZnpiMHdNM1cyd2RtRnFFWXc?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-06 17:12  (2 条)
+
+- **特朗普** | “很凶猛”！特朗普签令，这次盯上了狼 <https://news.google.com/rss/articles/CBMic0FVX3lxTE5FMGUzMmF3M2FaeE5aNkJTYkc3RGVxZXlBWk5KOWZ4MnlVNzR0dVFuei1ZRzdRVVl3ZFZtd0w1X1pJUEZDVWZsdURTVDlpckdncFA2N1hSSTVfamNLWEF0XzJYdHp4REszamNDVU9WcmJXM2M?oc=5>
+- **特朗普** | 特朗普称加拿大货币对美国的“失衡”不可接受 <https://news.google.com/rss/articles/CBMiigFBVV95cUxNd3F3eWJvaWVDc3FGa3psN1JRSW5XUGJ0R19ieVNudGtObEl6YThIcFcydUFXSWdPZXBTMnN3cHpnaW1OMzFYSzFoN1pwWHo0OEl1S2o5Q19US0JrMnBSTnZXV0x2T0xQbkJ2RDg5Yzg4X2NmTmVjTEFNZnpiMHdNM1cyd2RtRnFFWXc?oc=5>
 
 ### 2026-09-06 14:17  (8 条)
 
