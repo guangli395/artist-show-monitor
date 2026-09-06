@@ -1,84 +1,89 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-06 06:12**
-- 本轮扫到 11252 条, 新增 **9** 条
+- 最近更新: **2026-09-06 11:10**
+- 本轮扫到 11260 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (9 条)
+## 本轮新发现 (8 条)
 
-### 蔡徐坤新加坡演唱会加场，10月24日25日连开两天
+### ChinaGT就比赛碰撞起火发布致歉ChinaGT向第一时间救援车手致敬
 
-- 艺人/关键词: **蔡徐坤**
+- 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_3252743925_mc1e0eef503301hvyu.html>
+- 链接: <https://k.sina.com.cn/article_6294758863_m1773265cf03301c48y.html>
 
-### GAI唱周杰伦《回到过去》上海站体育场演唱会
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5798351208_m1599bd168020026t5y.html>
-
-### 倒计时开启！特朗普两头堵，“核大礼”摆面前，把沙特逼进死胡同 ！
+### 特朗普嫌“林肯”号生锈丢脸，追问为什么20年都还没解决？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪网
-- 时间: 2026-09-06 03:51
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE94YzY1S0xVZ0ItcjQzUzhxYlRCdXZjUE9Dd0lKNEtkR19UWElRams5M0hmQWVneHp0ZlZ0SmRuLVlNOV9sVWRXcVhTNmJIVUxCeThYNWVOc21BdnBvckRCa3h0ZjJmalJkMm5zaUZxNWlWY1U?oc=5>
+- 时间: 2026-09-06 09:59
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE55enI5aVNBUDBzZl9PUHNLZXBla1ZfY2lRSkpiMXVRMTU5b3dwNm90RllMYURMZHMxYWx2aVp4cHc2Y25tRTJ2dXR0R3Ywc0tXcmhicWM4SHhiOXYyeTZ0NUtwejc3UFVZZVZSR2I4MkZaYlk?oc=5>
 
-### 普京会见特朗普特使，3小时闭门谈完双方均未发声明
+### 泄密事件惹怒特朗普！美媒爆：五角大楼“史无前例”对美军高官启动大规模测谎测试
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-05 18:28
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE8zX09YdW5yWV9FTDJ5ZnlITm41amo1M01oeWl5ZUF3bHRRVzlVWkhOVVV4LVQ3b2NuSmt1TUQyWEtNeU93V0tFbVpEUW1wbWFPVDlEY04xOUlpeGlsc3dGcEpZWmRMcE05b3hycGhUVHRIUU9SMlB4cA?oc=5>
+
+### 特朗普震怒，数十名美军将领“罕见”接受测谎
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 观察者
-- 时间: 2026-09-05 23:43
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE16UDFlejRSV0lMcVZjX1JBaERvc0dFbGNkMzhwenJScUw2RGE0dEQtZW9XdGtnNFR3bmVHNkRJc0o2VHk3aUl2REFVZlBNVVgtR292SXN5My10bjRlOXV2TTlxVlB0dWxjaGc?oc=5>
+- 时间: 2026-09-06 02:42
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBvR3FmLWxSZzduUVRITGZLUnBIU0hfQWdONC1kUFpmOWtpbmZETUdaa2VQTDBuTkVqZDJqQklYRGhRZ1dTS2F2M2VYWjVSLUhDUE03TGxzaGwtQVlKckpoSEdXbFVGWVdHdlE?oc=5>
 
-### 特朗普为何要将安大略湖改名美国湖 两大政治考量
+### 普京会见特朗普特使超3小时
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中华网
+- 场馆: news.sina.com.cn
+- 时间: 2026-09-06 01:04
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBKdVdNelZCaHZVdUw5MFpFUjlSalcxeXRkNXZ1a0F6aVluWTVWRkJBMnZUNW4zTkpxRzZTT05WWjdKanRSeDdHMlJTRGp5bDJnZ1N3T1E3aTV3SnFWMUI0ekV1QTloLVgtWHcwWm1YRW4?oc=5>
+
+### 美伊冲突再升级，特朗普陷入“进退两难”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-06 04:36
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9hTV9qNnBXX3FMR2dsS0lzcVhjNW9zUk51SW9uQktNdVYzQk5BN1JFc2wtb0NfVlZIYkc0c1BxaDk5V09FVnBCWmp1NGJvRXdRM2NtQVFUY2d0ekVaV2ZmeEdZSVA5R1Y5YlloWGdveWtkVE1nWHExWg?oc=5>
+
+### 案件引发全美关注！特朗普首次就“女子杀害三子案”公开发声
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: news.ifeng.com
+- 时间: 2026-09-06 05:38
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE4xeWg2bmhib1ZvdU5aNnJOMFJrdklEejhpcFRLM1dJeFNZLUpNemVqLVpuMDI0UU5FbTJvUWVzWlNiNmEyTTBvNEpqa1Y?oc=5>
+
+### “心腹”在大本营动摇……Trump向激战州得克萨斯投入13.5亿韩元- 阿视亚经济
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 아시아경제
 - 时间: 2026-09-06 05:45
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFAwaXBEVlc1VXJlcVdMa19wUWlUNlR6YXNOa3A4Zk5QZ3V3clp3SGZ3VHZhTWRCWi1LRmRCUDlVN1ZkUWdXYnpUdXlMRjA3ak83TEJxN0NnVkJUWThQWWZBbmh2am1JNVVQV0xfS2NiZE4?oc=5>
-
-### 特朗普力挺AI数据中心 加剧共和党中期选举落败风险
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-09-06 01:35
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE15Q2pKTldKa0FRMkpLWmNMdFhWSWVLYUtVblQ5dV9XZkREbGl3QkVmV0ZkVmh5Qk5OMkt3SktxQVJLZzBtS210emJEcmtoeFY1ODQ2LWNTaU1RU0xYMHMzOURjeklET180UXc?oc=5>
-
-### Trump reiterates good relations with China ahead of Xi’s visit
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: TVB
-- 时间: 2026-09-05 12:53
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxOYjlfTDdKVlBMYk5YTkxBZEU4OHlKTU9ObTdnRFBaMzJlU2s2OFpXbGszeDlBNjdSeGwwcy1aQXBNZVFOY3FFREd2YTM4NV80QmhiNFBtM1A1Ung5NnJVSHVBOHJhejNsQXhPZ0MtNUFTbW93Q2VvVEduVXNHazFYZGc1RjVyQWV0S0ZKNEswQk5fdTFmSVpsNA?oc=5>
-
-### 特朗普总统谈及$OFFICIAL TRUMP (TRUMP.CC)$ MEMECOIN： “我听说它表现非常好。” ... - moomoo 社区
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-09-05 01:12
-- 链接: <https://news.google.com/rss/articles/CBMitwFBVV95cUxQbkt6NTUwRlZSQnBuajYtT3hqZjNUOEZ1NXVwWWxyd2xBNVh3T0ZnaFNBUzZMbFByclItV1hsdHVjVkRvQWZuSkpDQV8xeERsZlVlNURHOVRWVXp2U1VGTWFHc3pNeF90RlhOZUFTN2c2TzM5T1A2UzVidm1lTGNvUnRKR1l5TnZDdlo2c0NXYUpDY0FKTkFZSm4zUXA4MGxzMFlCXzRaREQ2V1N6ZUt6eEhoMXQwMGs?oc=5>
-
-### 特朗普总统的计划是解决加沙问题的唯一前行道路
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: VOA - Voice of America English News
-- 时间: 2026-09-01 16:14
-- 链接: <https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYXB3dm51bGFmMUtoYXNGWEhDNFB0bmQwZ3dZa2s4NERXZ25jeW1qN21KUk85M1hkZEhJT0kzWVFIN3FQMWZaSHpNWnkyMHdiNTR5bnAySFJtMmR0M3U3dUZ2akUySFdGQXZQREY1VDB2VS03ajdnR0x2bXpQS0N0UGhjaTRPd3g0OEcyajVob0Fhdll1RUNqOEJXTkJfR2lId2hlaWJQRl9MV3hXSUJMajFyYUtrTDFPMG90RE5Nc0I5QdIBxAFBVV95cUxPQkNqRHpfeHhNUkt1U3lfNmNGTHVISzZTMlpPOGx5YkxGOERaNWtYeGRCOGctTVhJSlJVQlFmZlVpMHRoeFB4ZFRpajl0aVdpMmtHMmpDWmRiNmp6Z2lUVzI4VlFaeW5iT0J4Vi1hN3lBcVd4XzZyMmo2QjR2Q1VlXzNaTmctY3g1Ukl0TnZoMGlzZTdNRTBNQjdEcDFWX1VQTFZIRWtRVzR2VGpKQkxuaXBqSWlKREVTa0dTTjVPUFVTRmJ2?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5jOWRGTlRCTEM0SWxmVXlwMmVFUl9JenVwS3JyWDRLRzJpNU1lbFhIemFzX2R6OUJKdG5XQmllS0pXNU8xTVRHdDJIaVNZV090U05WNUZZMDZIcFl6MXdZa05TaXo?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-06 11:10  (8 条)
+
+- **王一博** | ChinaGT就比赛碰撞起火发布致歉ChinaGT向第一时间救援车手致敬 <https://k.sina.com.cn/article_6294758863_m1773265cf03301c48y.html>
+- **特朗普** | 特朗普嫌“林肯”号生锈丢脸，追问为什么20年都还没解决？ <https://news.google.com/rss/articles/CBMic0FVX3lxTE55enI5aVNBUDBzZl9PUHNLZXBla1ZfY2lRSkpiMXVRMTU5b3dwNm90RllMYURMZHMxYWx2aVp4cHc2Y25tRTJ2dXR0R3Ywc0tXcmhicWM4SHhiOXYyeTZ0NUtwejc3UFVZZVZSR2I4MkZaYlk?oc=5>
+- **特朗普** | 泄密事件惹怒特朗普！美媒爆：五角大楼“史无前例”对美军高官启动大规模测谎测试 <https://news.google.com/rss/articles/CBMieEFVX3lxTE8zX09YdW5yWV9FTDJ5ZnlITm41amo1M01oeWl5ZUF3bHRRVzlVWkhOVVV4LVQ3b2NuSmt1TUQyWEtNeU93V0tFbVpEUW1wbWFPVDlEY04xOUlpeGlsc3dGcEpZWmRMcE05b3hycGhUVHRIUU9SMlB4cA?oc=5>
+- **特朗普** | 特朗普震怒，数十名美军将领“罕见”接受测谎 <https://news.google.com/rss/articles/CBMiakFVX3lxTFBvR3FmLWxSZzduUVRITGZLUnBIU0hfQWdONC1kUFpmOWtpbmZETUdaa2VQTDBuTkVqZDJqQklYRGhRZ1dTS2F2M2VYWjVSLUhDUE03TGxzaGwtQVlKckpoSEdXbFVGWVdHdlE?oc=5>
+- **特朗普** | 普京会见特朗普特使超3小时 <https://news.google.com/rss/articles/CBMicEFVX3lxTFBKdVdNelZCaHZVdUw5MFpFUjlSalcxeXRkNXZ1a0F6aVluWTVWRkJBMnZUNW4zTkpxRzZTT05WWjdKanRSeDdHMlJTRGp5bDJnZ1N3T1E3aTV3SnFWMUI0ekV1QTloLVgtWHcwWm1YRW4?oc=5>
+- **特朗普** | 美伊冲突再升级，特朗普陷入“进退两难” <https://news.google.com/rss/articles/CBMieEFVX3lxTE9hTV9qNnBXX3FMR2dsS0lzcVhjNW9zUk51SW9uQktNdVYzQk5BN1JFc2wtb0NfVlZIYkc0c1BxaDk5V09FVnBCWmp1NGJvRXdRM2NtQVFUY2d0ekVaV2ZmeEdZSVA5R1Y5YlloWGdveWtkVE1nWHExWg?oc=5>
+- **特朗普** | 案件引发全美关注！特朗普首次就“女子杀害三子案”公开发声 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE4xeWg2bmhib1ZvdU5aNnJOMFJrdklEejhpcFRLM1dJeFNZLUpNemVqLVpuMDI0UU5FbTJvUWVzWlNiNmEyTTBvNEpqa1Y?oc=5>
+- **Trump** | “心腹”在大本营动摇……Trump向激战州得克萨斯投入13.5亿韩元- 阿视亚经济 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5jOWRGTlRCTEM0SWxmVXlwMmVFUl9JenVwS3JyWDRLRzJpNU1lbFhIemFzX2R6OUJKdG5XQmllS0pXNU8xTVRHdDJIaVNZV090U05WNUZZMDZIcFl6MXdZa05TaXo?oc=5>
 
 ### 2026-09-06 06:12  (9 条)
 
