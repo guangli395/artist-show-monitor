@@ -1,48 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-06 21:29**
-- 本轮扫到 11278 条, 新增 **4** 条
+- 最近更新: **2026-09-06 23:02**
+- 本轮扫到 11281 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (3 条)
 
-### 特朗普在社交媒体上发布三张图片显示，石油通过霍尔木兹海峡的流量已恢复到冲突前的水平。冲突前，每天有2000万桶石油通过该海峡，现在这一数字已达到每天1800万桶。
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-06 20:09
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE05SXg4Zm9ibGM2Z2Z4UmJnNVJyWTRWMkVpZFRUZ0lQUDJVUjJOM2pKZzJrZG9ZT0M1dU40NXpPekZ5UzNGRlNMRUcxdmtBXzBtQ1c2aDVqV1Z0Wk1XbUY3dDRrX0lwYmZNRHlNTjZrN0o0c25GZzhiQQ?oc=5>
-
-### 特朗普怒了：“叛国败类！”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-09-05 04:41
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9Fb1pVM25MRHBxVkRlT2tqZkw2V3VXQkR4LWh1aHVTX0NncnlBU1MyenFqVWwtbHdQQ0hXZkdJdkdVbVVzd2hMWnlUaG40UUtwWUt3akFQMEkzbWoyaDF0YV9sREQ0OVlEdHdzYzRVYncyY0luRVk3SA?oc=5>
-
-### 特朗普在社交账号发布图片渲染哈尔克岛遭袭，聚焦伊朗经济恶化现状
+### 9月5日外盘头条：特朗普称可能很快打击镐山大众汽车力图重振美国业务花旗推后预期的美联储降息时间
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-09-06 19:10
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9rMEZNSmNkbEJGZy1wWW9SYnU0VDZaY091VTJDbE5GNXp1UDhYSHdZNmV5RldBaWhEV29qNy1sNEc2TW9lQkw2NnpyVWdJZEdXY21sQThwNE03UjIzNUhtSktkNnZPajMzZG5XNmtneUFMcTNzNVRHNg?oc=5>
+- 时间: 2026-09-04 19:47
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxPQzR6bEFrSWlYMzlQRTFaU3FNek0xZXZPX053N09qdkVKVHowemtRbUZMQVVXYTkySjJtZUdmdnF6dVhHTFRRT0Z4UlRnd3AxUkQ3NTd3TDVhYlI0R0xJejhqUlVkWFRwVWM0ZHdXS3NvaEh5SFdScTZiRk1yNTh6Rm5HV3FiTTA?oc=5>
 
-### 特朗普对沃什施压，美联储加息在即
+### A股：大家坐稳扶好，特朗普施压美联储降息！下周要大变盘了！
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-06 14:13
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxOd0xjc1ZEZm9aWGRDbWNRaXpxRVVXaGZPa0xTUTAzYURaWjJyU3FTVmk4amxpMjcxaVRIdC1saFg4amVsTTJyMjRuUEk0RE0wNFNiS0tBUnhJV0ZjSDJ5enRPYzJtZW9idnRZeFozSEdnT1J4R2dPVDJpYjIyVlpsOFFDam5yZTA?oc=5>
+- 场馆: k.sina.com.cn
+- 时间: 2026-09-06 22:44
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE1XMnZsbFJBRE5EQmpDSkxSaTR5d2VEMGF5NlVEaFNLaEVFN0daNGhvbW84R09leGlySUtZU2owNG41S3BoRGIwYTNjX2s5UlhnQWdfeTlKRmdWZHdBdTFoN0NRVkUwajVsQzh5OFZwTjZmUQ?oc=5>
+
+### 民意探底仍要站C位 共和党被绑上特朗普战车
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-09-06 12:03
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBmR3VlaE92d2JQLUJibDZXdHh5eWFZenlxdk9nOVdNWGpBZEtLMDN3cmxsUE4xZUxLR1o1SWgwMDRDaUp3Sl9yVnN0SHZ0WlY2MU1DWE45SVhBUGN2QW9JZ081QllmQQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-06 23:02  (3 条)
+
+- **特朗普** | 9月5日外盘头条：特朗普称可能很快打击镐山大众汽车力图重振美国业务花旗推后预期的美联储降息时间 <https://news.google.com/rss/articles/CBMihwFBVV95cUxPQzR6bEFrSWlYMzlQRTFaU3FNek0xZXZPX053N09qdkVKVHowemtRbUZMQVVXYTkySjJtZUdmdnF6dVhHTFRRT0Z4UlRnd3AxUkQ3NTd3TDVhYlI0R0xJejhqUlVkWFRwVWM0ZHdXS3NvaEh5SFdScTZiRk1yNTh6Rm5HV3FiTTA?oc=5>
+- **特朗普** | A股：大家坐稳扶好，特朗普施压美联储降息！下周要大变盘了！ <https://news.google.com/rss/articles/CBMickFVX3lxTE1XMnZsbFJBRE5EQmpDSkxSaTR5d2VEMGF5NlVEaFNLaEVFN0daNGhvbW84R09leGlySUtZU2owNG41S3BoRGIwYTNjX2s5UlhnQWdfeTlKRmdWZHdBdTFoN0NRVkUwajVsQzh5OFZwTjZmUQ?oc=5>
+- **特朗普** | 民意探底仍要站C位 共和党被绑上特朗普战车 <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBmR3VlaE92d2JQLUJibDZXdHh5eWFZenlxdk9nOVdNWGpBZEtLMDN3cmxsUE4xZUxLR1o1SWgwMDRDaUp3Sl9yVnN0SHZ0WlY2MU1DWE45SVhBUGN2QW9JZ081QllmQQ?oc=5>
 
 ### 2026-09-06 21:29  (4 条)
 
