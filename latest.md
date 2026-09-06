@@ -1,32 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-06 17:12**
-- 本轮扫到 11270 条, 新增 **2** 条
+- 最近更新: **2026-09-06 19:21**
+- 本轮扫到 11274 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (4 条)
 
-### “很凶猛”！特朗普签令，这次盯上了狼
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-09-06 16:11
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5FMGUzMmF3M2FaeE5aNkJTYkc3RGVxZXlBWk5KOWZ4MnlVNzR0dVFuei1ZRzdRVVl3ZFZtd0w1X1pJUEZDVWZsdURTVDlpckdncFA2N1hSSTVfamNLWEF0XzJYdHp4REszamNDVU9WcmJXM2M?oc=5>
-
-### 特朗普称加拿大货币对美国的“失衡”不可接受
+### 特朗普发布一张地图，将新墨西哥州标注为“新美国”。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-09-06 16:11
-- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxNd3F3eWJvaWVDc3FGa3psN1JRSW5XUGJ0R19ieVNudGtObEl6YThIcFcydUFXSWdPZXBTMnN3cHpnaW1OMzFYSzFoN1pwWHo0OEl1S2o5Q19US0JrMnBSTnZXV0x2T0xQbkJ2RDg5Yzg4X2NmTmVjTEFNZnpiMHdNM1cyd2RtRnFFWXc?oc=5>
+- 时间: 2026-09-06 17:53
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1kRGpDRDV2SEZMQXE2UlJ1b2ZwcDlVb0hBZzgwU0pFLW16c3VUNlFjYWlfRHhaNVg1ZGp4WnNLa0htZlN0Wk1FQVUyQm5IUzZNLWZEbWVIUG53aVRJU2FWbnhVY0lSSXJucUs3amhGeFZRX21CaFZYVw?oc=5>
+
+### 美抛出终战方案，俄乌和平会到来吗
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-06 19:08
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBJVUhaYmtKUThoRFloeGk4d1V0di1hNHd1b2g3WFFpbVBEdzZZYXN1cWxTS2FPQnZtdWpxMDd5V1M2ODFnek1FdHZyTURFeC1NV0NHdEo5bTJjU3pJVHBoMklKQVg4cHhXUkNyQXhvb1VyUjM3U1JHSQ?oc=5>
+
+### “很凶猛”！特朗普签令，这次盯上了它们
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-06 15:19
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5lcmxyZDVYdGphQTdpYkg1THE1eGRnOFVPZ1JLMXBhUVlpVnQwaE9WUmQ0QkhMc015NDRVR3pqVzV6ZUpBZk1TMFgxLXo3Rlc1U2I0NmRSYTlMUzFWUlQydnpERjNYNFVQaERKT3dicFRTMFU5SlFmZA?oc=5>
+
+### 特朗普的“黄金舰队”，要黄了？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-09-05 23:31
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9wb2RzWHo1di03bm9oaGFzcXRDVjlLclVkN1FQWERxR042ZTlnXzlpd3pyeWxDcG5ndWNoYVgzWmdWMnFlaHVCeFRKR3M?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-06 19:21  (4 条)
+
+- **特朗普** | 特朗普发布一张地图，将新墨西哥州标注为“新美国”。 <https://news.google.com/rss/articles/CBMieEFVX3lxTE1kRGpDRDV2SEZMQXE2UlJ1b2ZwcDlVb0hBZzgwU0pFLW16c3VUNlFjYWlfRHhaNVg1ZGp4WnNLa0htZlN0Wk1FQVUyQm5IUzZNLWZEbWVIUG53aVRJU2FWbnhVY0lSSXJucUs3amhGeFZRX21CaFZYVw?oc=5>
+- **特朗普** | 美抛出终战方案，俄乌和平会到来吗 <https://news.google.com/rss/articles/CBMieEFVX3lxTFBJVUhaYmtKUThoRFloeGk4d1V0di1hNHd1b2g3WFFpbVBEdzZZYXN1cWxTS2FPQnZtdWpxMDd5V1M2ODFnek1FdHZyTURFeC1NV0NHdEo5bTJjU3pJVHBoMklKQVg4cHhXUkNyQXhvb1VyUjM3U1JHSQ?oc=5>
+- **特朗普** | “很凶猛”！特朗普签令，这次盯上了它们 <https://news.google.com/rss/articles/CBMieEFVX3lxTE5lcmxyZDVYdGphQTdpYkg1THE1eGRnOFVPZ1JLMXBhUVlpVnQwaE9WUmQ0QkhMc015NDRVR3pqVzV6ZUpBZk1TMFgxLXo3Rlc1U2I0NmRSYTlMUzFWUlQydnpERjNYNFVQaERKT3dicFRTMFU5SlFmZA?oc=5>
+- **特朗普** | 特朗普的“黄金舰队”，要黄了？ <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9wb2RzWHo1di03bm9oaGFzcXRDVjlLclVkN1FQWERxR042ZTlnXzlpd3pyeWxDcG5ndWNoYVgzWmdWMnFlaHVCeFRKR3M?oc=5>
 
 ### 2026-09-06 17:12  (2 条)
 
