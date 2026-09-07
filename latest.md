@@ -1,40 +1,100 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-06 23:02**
-- 本轮扫到 11281 条, 新增 **3** 条
+- 最近更新: **2026-09-07 01:10**
+- 本轮扫到 11290 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (9 条)
 
-### 9月5日外盘头条：特朗普称可能很快打击镐山大众汽车力图重振美国业务花旗推后预期的美联储降息时间
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-04 19:47
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxPQzR6bEFrSWlYMzlQRTFaU3FNek0xZXZPX053N09qdkVKVHowemtRbUZMQVVXYTkySjJtZUdmdnF6dVhHTFRRT0Z4UlRnd3AxUkQ3NTd3TDVhYlI0R0xJejhqUlVkWFRwVWM0ZHdXS3NvaEh5SFdScTZiRk1yNTh6Rm5HV3FiTTA?oc=5>
-
-### A股：大家坐稳扶好，特朗普施压美联储降息！下周要大变盘了！
+### 特朗普再次施压美联储降息
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: k.sina.com.cn
-- 时间: 2026-09-06 22:44
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE1XMnZsbFJBRE5EQmpDSkxSaTR5d2VEMGF5NlVEaFNLaEVFN0daNGhvbW84R09leGlySUtZU2owNG41S3BoRGIwYTNjX2s5UlhnQWdfeTlKRmdWZHdBdTFoN0NRVkUwajVsQzh5OFZwTjZmUQ?oc=5>
+- 场馆: IDNFinancials
+- 时间: 2026-09-06 23:00
+- 链接: <https://news.google.com/rss/articles/CBMi5wFBVV95cUxOYmNYU0JVQnRmRmdtaEhqUmtoaUpaR0ppSS1SdzNRQWhuN1U2YU1PSjdrbDNMWEl3SmMxQVZ3R2dDakdSWkJuQ19CWTgxVE1nU0FoU2RVajZKcGlCR2lZX25EekJkQXk3SGFsQWoxUXBYT3ZVS2FoZGliYXRVVHZCNGdaX0ZGRTl5aWl2Rl93MXNneVpiTDd0VUY0ajlhMnNKWUZVRlMwQjlHa2NVWkdhcFFMZlh5eXBXY0Qxa09hMl9JZ25fdm53ZmphVGVRbHY3VFE4dXNFMTRETEZpYmYtaWt2RWVjZVE?oc=5>
 
-### 民意探底仍要站C位 共和党被绑上特朗普战车
+### 特朗普发图宣布月球为美国领土
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-09-05 07:00
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1pM3pvajVadkRObG5STXlBLTIwdE1RcXVtSW5sYXVUYjRpNjBJQTVxdzk0ZDM5Z3dxbE5HQ1Aza0NiWEV6UWtLUkIzZGE?oc=5>
+
+### 特朗普力挺AI数据中心 加剧共和党中期选举落败风险
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 联合早报
-- 时间: 2026-09-06 12:03
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBmR3VlaE92d2JQLUJibDZXdHh5eWFZenlxdk9nOVdNWGpBZEtLMDN3cmxsUE4xZUxLR1o1SWgwMDRDaUp3Sl9yVnN0SHZ0WlY2MU1DWE45SVhBUGN2QW9JZ081QllmQQ?oc=5>
+- 时间: 2026-09-06 01:35
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE93RzhudnJLa3ZSYXNtalNNblI5LVNuekk5SzYtZ05INDk4eFJNWkxnZFQtbC1VeXctX01YelN0cGxkYWFaQVNRd1NXTmdEWld0OURXeFFVa2Y1RDRZRVY4WVZLby1jdw?oc=5>
+
+### “很凶猛”！特朗普签令，这次盯上了它们
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-09-06 16:11
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1FcktmVTY3SU1zTldzbmRuVlFQUGgwNEd3b2dJVW9tVGJiMnlOUUlFcGF4TkhJY25ncW5WbTAzZVRkTlYwTWZiazZIdllwX01BTGRqbHlGT2ZHWHFDel9VLTA0ZUZmc3dpSWNsOVRBOUVnbnM?oc=5>
+
+### 美国推动重启俄乌和谈之际，普京会见特朗普特使
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-09-06 23:58
+- 链接: <https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd0s2VG9aUTV2VDV3UGY4dkRsVkdGSXV5WXBETERuVG1lNWFkVk80TzNlYlZ5aFZiY0hIakpSbEhuVmNuMS1iUFFCdzVNd2p0aGpOaFhCV1hRLUVIODdyWDdDWHowMDlmeHhubWVTZUZzSU9SM2tYTDNoU3RVaXAxS3RxS2h0enhZZnVQdEgzeDQ2eDNyMHlyMENpLU12ZElpbURfckhVd09qRFk?oc=5>
+
+### Trump特使团接连会晤Putin与Zelenskyy “讨论新的结束战争构想”
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 아시아경제
+- 时间: 2026-09-06 21:53
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBYSFItd2lJb08yTG5iNDRWWjhiald1NWJvRklVVW1QcDNzd282Mkdta2p5OGlYNnZ3amFucGpRcWI5TV9xOXFYbHZzY0ZOejdRM0lrRlg5ZzZGbUhncWJMTkh3OU4?oc=5>
+
+### 特朗普特使访问乌克兰，试图重启俄乌和谈
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-09-06 23:35
+- 链接: <https://news.google.com/rss/articles/CBMilgFBVV95cUxNWEJoWlpKTlNTWDN3SU9rN2RudElTNWQyRmxtUTdBSFBCWDhpY294VGhPaW9TTVNyZjhIeDBod2c1Q2RCRU1fVGc4RnlSNGdUUUZQVjBINWtJc2lQV2VjRUlfS21vUmhFQWhYLTRhS3J5R1p4OEVlNS00N3lwSUw1dG51WWpsd1ctZ3JFb0lsRndUUnRSUXc?oc=5>
+
+### 美国再推俄乌停战方案 乌方称会谈更具成效但仍忧战火延续
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: rfi.fr
+- 时间: 2026-09-06 21:20
+- 链接: <https://news.google.com/rss/articles/CBMimANBVV95cUxNWXFFVUxVU1J5djN5Q1pEamZHSlNTSGpuYUVZT2M4RlVCNUNZTkxTdDVwMk1pWjRkNnFWRFVsVG9ZSkFfcnloQWR4bWxabG9kalI3cUlDanBOVFJESHU2d3NTQzQ2eTdteldGVGtxUjBzaWRTSEg0VWIyanV0bzlBbS1CM0l5ZnFtUS1qcXJfLVZkTS0yWVhHNG9rcTRUWERXNi1xd085a19nMm5sTEN5UEJVMXR3LTVadlh4WkNnQk1rTldISTM2TGVBS1ZjM0t6Ql9JclFMMGh3OEJCa3RoeUR3R2M1ZEdPU2xxTnJLWFpjNUFLZkNWYzRZNXhVN09EM1NkMUhFV1FHcmNqQWRNVzY1QlJOdVlIcEFWc0E1VHRROGpUTWdreFpYZkxPUUJrV0psdnFjRFZVYTh3eXVDMXBQaWNPUUxUQWtOOTVWRW9qSmNxU0tKM2w2VU90MHM5X2tZOEJGU2V6SDJydXY1MTAxbGoxd1FzNWRQN0x1ZzlDTm9ZdG9hOTZlS1hoWXFPNkdmS0J5M3A?oc=5>
+
+### Trump：“美加美元失衡……不能再继续下去”
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 아시아경제
+- 时间: 2026-09-06 18:54
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFA5V2lSZzZLbEJIWU1CZXJwMXZZWmc5ZzZQS0pDQlhzRkU5TmVzUTNLNXljYTJ4bm85aGlqREdRU2VxZE9mcGp2ZWQzb3hrYXVPWXZRODBsY0xZMVRyLWl3Ty1UeEY?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-07 01:10  (9 条)
+
+- **特朗普** | 特朗普再次施压美联储降息 <https://news.google.com/rss/articles/CBMi5wFBVV95cUxOYmNYU0JVQnRmRmdtaEhqUmtoaUpaR0ppSS1SdzNRQWhuN1U2YU1PSjdrbDNMWEl3SmMxQVZ3R2dDakdSWkJuQ19CWTgxVE1nU0FoU2RVajZKcGlCR2lZX25EekJkQXk3SGFsQWoxUXBYT3ZVS2FoZGliYXRVVHZCNGdaX0ZGRTl5aWl2Rl93MXNneVpiTDd0VUY0ajlhMnNKWUZVRlMwQjlHa2NVWkdhcFFMZlh5eXBXY0Qxa09hMl9JZ25fdm53ZmphVGVRbHY3VFE4dXNFMTRETEZpYmYtaWt2RWVjZVE?oc=5>
+- **特朗普** | 特朗普发图宣布月球为美国领土 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1pM3pvajVadkRObG5STXlBLTIwdE1RcXVtSW5sYXVUYjRpNjBJQTVxdzk0ZDM5Z3dxbE5HQ1Aza0NiWEV6UWtLUkIzZGE?oc=5>
+- **特朗普** | 特朗普力挺AI数据中心 加剧共和党中期选举落败风险 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE93RzhudnJLa3ZSYXNtalNNblI5LVNuekk5SzYtZ05INDk4eFJNWkxnZFQtbC1VeXctX01YelN0cGxkYWFaQVNRd1NXTmdEWld0OURXeFFVa2Y1RDRZRVY4WVZLby1jdw?oc=5>
+- **特朗普** | “很凶猛”！特朗普签令，这次盯上了它们 <https://news.google.com/rss/articles/CBMic0FVX3lxTE1FcktmVTY3SU1zTldzbmRuVlFQUGgwNEd3b2dJVW9tVGJiMnlOUUlFcGF4TkhJY25ncW5WbTAzZVRkTlYwTWZiazZIdllwX01BTGRqbHlGT2ZHWHFDel9VLTA0ZUZmc3dpSWNsOVRBOUVnbnM?oc=5>
+- **Trump** | 美国推动重启俄乌和谈之际，普京会见特朗普特使 <https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd0s2VG9aUTV2VDV3UGY4dkRsVkdGSXV5WXBETERuVG1lNWFkVk80TzNlYlZ5aFZiY0hIakpSbEhuVmNuMS1iUFFCdzVNd2p0aGpOaFhCV1hRLUVIODdyWDdDWHowMDlmeHhubWVTZUZzSU9SM2tYTDNoU3RVaXAxS3RxS2h0enhZZnVQdEgzeDQ2eDNyMHlyMENpLU12ZElpbURfckhVd09qRFk?oc=5>
+- **Trump** | Trump特使团接连会晤Putin与Zelenskyy “讨论新的结束战争构想” <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBYSFItd2lJb08yTG5iNDRWWjhiald1NWJvRklVVW1QcDNzd282Mkdta2p5OGlYNnZ3amFucGpRcWI5TV9xOXFYbHZzY0ZOejdRM0lrRlg5ZzZGbUhncWJMTkh3OU4?oc=5>
+- **Trump** | 特朗普特使访问乌克兰，试图重启俄乌和谈 <https://news.google.com/rss/articles/CBMilgFBVV95cUxNWEJoWlpKTlNTWDN3SU9rN2RudElTNWQyRmxtUTdBSFBCWDhpY294VGhPaW9TTVNyZjhIeDBod2c1Q2RCRU1fVGc4RnlSNGdUUUZQVjBINWtJc2lQV2VjRUlfS21vUmhFQWhYLTRhS3J5R1p4OEVlNS00N3lwSUw1dG51WWpsd1ctZ3JFb0lsRndUUnRSUXc?oc=5>
+- **Trump** | 美国再推俄乌停战方案 乌方称会谈更具成效但仍忧战火延续 <https://news.google.com/rss/articles/CBMimANBVV95cUxNWXFFVUxVU1J5djN5Q1pEamZHSlNTSGpuYUVZT2M4RlVCNUNZTkxTdDVwMk1pWjRkNnFWRFVsVG9ZSkFfcnloQWR4bWxabG9kalI3cUlDanBOVFJESHU2d3NTQzQ2eTdteldGVGtxUjBzaWRTSEg0VWIyanV0bzlBbS1CM0l5ZnFtUS1qcXJfLVZkTS0yWVhHNG9rcTRUWERXNi1xd085a19nMm5sTEN5UEJVMXR3LTVadlh4WkNnQk1rTldISTM2TGVBS1ZjM0t6Ql9JclFMMGh3OEJCa3RoeUR3R2M1ZEdPU2xxTnJLWFpjNUFLZkNWYzRZNXhVN09EM1NkMUhFV1FHcmNqQWRNVzY1QlJOdVlIcEFWc0E1VHRROGpUTWdreFpYZkxPUUJrV0psdnFjRFZVYTh3eXVDMXBQaWNPUUxUQWtOOTVWRW9qSmNxU0tKM2w2VU90MHM5X2tZOEJGU2V6SDJydXY1MTAxbGoxd1FzNWRQN0x1ZzlDTm9ZdG9hOTZlS1hoWXFPNkdmS0J5M3A?oc=5>
+- **Trump** | Trump：“美加美元失衡……不能再继续下去” <https://news.google.com/rss/articles/CBMiZEFVX3lxTFA5V2lSZzZLbEJIWU1CZXJwMXZZWmc5ZzZQS0pDQlhzRkU5TmVzUTNLNXljYTJ4bm85aGlqREdRU2VxZE9mcGp2ZWQzb3hrYXVPWXZRODBsY0xZMVRyLWl3Ty1UeEY?oc=5>
 
 ### 2026-09-06 23:02  (3 条)
 
