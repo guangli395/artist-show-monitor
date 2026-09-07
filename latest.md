@@ -1,64 +1,91 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-07 21:38**
-- 本轮扫到 11329 条, 新增 **6** 条
+- 最近更新: **2026-09-07 23:53**
+- 本轮扫到 11337 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (8 条)
 
-### 美加贸易争端升级 特朗普威胁封杀庞巴迪飞机在美销售
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-09-07 21:24
-- 链接: <https://news.google.com/rss/articles/CBMigANBVV95cUxQdE43aU5VU0ZUOW11emx6ZkViUmpfSzdTaE8zN1BOLUU1Mzc1dWFiZGdnYkJHRTBqaEVlZjE3eFNDSTBLR3RTWEpvRmtrV2hWams2TGx0RGxKX0F5a3Q1NWpjTE9iMnN4MHJpSWVOaTZTaFZHd3NGTGZsTUVzNWJfR2N1WHZqVW03OXpkU1h6T0tVMGU2MV81OGhyTkNZdW1odzl3OXN5X3ZBYl9ieTlWRUN6NTA5Uzcyb0loVzdZUFNzZkFialBIN0JuSWIyV3BsQ0hVQzA5aWdsNm1xdVBrb2pZSC1pYzFFMmxHMjF0N2RFbkpFMHlvZFBrQjRNVm1NX19qM0lydDdHSmM0OTZCV1ljcUQwak5TWVEwQ0wtbS14UV9OdDBwR1pIRk1kRXhIVHFsVU9EeXJYVkJZWTlCcnhja3cyX3ZIbGJuRmViOU9tbVBaelpzRVNuRkFrQ2ZCcjhfMEhLU2xVYkRXNktodEkxQjBrS1pnWHpINEdXRHk?oc=5>
-
-### 美加贸易战恐升级 特朗普威胁要禁售庞巴迪飞机
+### 特朗普威胁在美禁售加拿大庞巴迪产品
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-07 20:40
-- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE5leHljWjh1M1BYT1BrQjZZTGJ6NTdOeHVxZlJGc1BkcG9RYnVoLUlCVEtZY2RyWTlHN2ozMVZOTTRuZkhid3EzSHNLT3ItR2FxSE4zbkxiYjR0V19HRmQxaDlmZTRDbUxVU1Etck9DcTJrdllpdVhGSjd3?oc=5>
+- 场馆: 中国青年网
+- 时间: 2026-09-07 22:24
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBTTGcwTUdMbGh5bnBLQno2amZpcEZUOF9YTEVFNkp3TlJ0UmtMekNnT0JlTnBNa1BjRmVISDVMek9MWHdFNjVvdmpzeWw0UVFTYWRyMGFHRkVMSWNkVUZqdHZIdGc?oc=5>
 
-### 🚨最新消息：🇺🇸 特朗普总统表示，总部位于加拿大的飞机制造商庞巴迪将不再被允许在美国销售产品。
+### 特朗普威胁在美禁售加拿大庞巴迪产品
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者网
+- 时间: 2026-09-07 22:52
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9XZmlHeDU0OElvd3l5eEw5Vl8tMVZoaU55TkRJalhWenZhVDlfS0NFSDEtdEt4SEtZNDRIMS10VjZRRDRuYVlOX1JUZHF6czE3XzYtWlVBV2hVcGlCWFkweG56T3VzdXVJd1E?oc=5>
+
+### 9月8日外盘头条：特朗普威胁要禁售庞巴迪飞机加拿大拟对数百种美国商品征收关税伦敦期铜创出新高
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: Moomoo
-- 时间: 2026-09-07 08:11
-- 链接: <https://news.google.com/rss/articles/CBMixAFBVV95cUxOMVpxWHNlUDVJSWJuVFY1RDlVSEUzSm9IMm15c3hhaXY0N1BETl95UUY2MkxpZGl1YTlsZ0lEUVhIeXpFeWpBV3BfaUNVZ1NQMTZZZWgxZzdJSmo2SnJrS1N1MVcyLXVLYVphaDh4V2kxUGpKZWNqd2JRU0hlTjN1OWxzM21KTjlDekk0RjdZWlZqbUpvN3lVUTlHNGtDdU95a01ValByR3FmU3lWUVdnZTRpcXlEa25XSXJRMkNMMnpKMlF5?oc=5>
+- 时间: 2026-09-07 21:57
+- 链接: <https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJdHJ0YUFBZTdrWWp1cXVuemg3UnlVUk9rbEo4U29Tcm9KWkdPdi1FTDY1TmgzZVl4SUY4aUcwbHoySGh1cHlIc0dJLXdDbjNfZmNTOFlFeWgwQQ?oc=5>
 
-### 美加贸易战恐愈打愈烈 卡尼组合拳蓄势待发而特朗普又抛新威胁
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-07 20:20
-- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE9HdjFKMmFNT3JUOFpmMDNxNGQyUlNuTmNKN3dNbnh5bzdmd2FSNzhTbmo1RzZwQV9iTmYwMGo3UXR5SDZSSk5MYmRSM1YyeFpyY3o0czBkMnRVOUxUSDc2Y1RadHJxMmw1WE0xblpRckpPOGRUY1hqV3V3?oc=5>
-
-### 特朗普要给新墨西哥州改名“新美国州”？
+### 特朗普在AI帖子狂潮中声称，他已为美国“在股市赚了数千亿美元”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-07 15:43
-- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE9CZUNQLWdSVEctUmV5UmtVSjJVSERXeU9TOExsRGNGV2F4VEhTZmVsN3ZYWUdudzRyMHI0WEJjdzBNUU9DeDhac3JPR1h1VWdCalhkOFl6RFNQVWQzTVJrMVhHaVpUQXNjRVVsb3EzQ21qQnhXNWpCYjl2dzU?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-09-07 22:33
+- 链接: <https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PMzRYUThEQ01ZYV9uV3FNaDZQc1BFYWFpejRCcW1rTVQ2ZGJ1bVAweTlkVVR2Z28tNTE2ZTFCd2RabVFWbjc1eFdGZE84aGZSdmhuN1RvNDVGQQ?oc=5>
 
-### 川普突然判若两人引爆网络！新造型竟被赞“像007”
+### 全世界都大开眼界，啧啧称奇
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 文学城
-- 时间: 2026-09-07 20:17
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE84LXpXZmRoUUZYV21ieGdXOV9TZ2Rsb05VV0JyNUl0OFRzZ2NsbmdCQnRUT0JlWG1QRDYtMEtlWFNZc29zcXZBSXUxRUtHYmhRUHFVVDF2eDlHbHFoZFFpRGFVT3QtYllr?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-09-07 23:50
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE4yV18xVHp1b1BhaWxKWGtRaGsyUWpFSU9NT0ZsZlV0aGExX1BrblZkLW9PdUNiaUl2TjBJUWl5c1hzLTJxRWc4cnBwWkk2NnAxaEhBdXVKb20wb3k2eVB3U3YtMDd4ZjFIQlBvbHVHZEJkbVRSVnZreQ?oc=5>
+
+### 特朗普：新墨西哥州不好，改新美洲州
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者网
+- 时间: 2026-09-07 23:17
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5SekhXRTRtMVVSVFpHdndyNzBDQnN0Z0pBWWJaYzVxdVV6cHIxMlNjY08tUTBNVHBxSWtOSTBtaUN2MnoybXRwekpsM2VxNHg4cEQ1UElmeTRwSi0zb3ktTVI2dFBlNTM5Tmc?oc=5>
+
+### 金灿荣：特朗普急于送俄罗斯一份大礼，普京却接不住
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 风闻
+- 时间: 2026-09-05 07:00
+- 链接: <https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Pa0dMdGI1clF6bVhfbEZENmlLMXQ0MUZERno4UHh4dnFzdmpvZDB1eEZaaEpGOWtydmVQLXBNelo5QXlpTXR4RTJnemVoREdEQTJILUcxU0kzdWM?oc=5>
+
+### 泽连斯基：美国正探索俄乌冬季降级措施
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-09-07 22:30
+- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVXc1RGxDdzUxTkZtMDhsSW1OWmk3ZlliY21jbWZsN2Rhd1J5bVRIMnBQNmRaN19vOXk5NFVMWDdzYnc5Z2dkOEhvNXRUZW9XOVBnR245VmZSeDNjcF82WUZJODlWclhLNFYwbFBwSWZKNWZSWmdMRlBiTXhSdUc3QS1hVnh0Ym1GeHBOTjNTTlRreEFvWE1wUmNqYlZhYjNjZ3NtNFFYdXh0Zw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-07 23:53  (8 条)
+
+- **特朗普** | 特朗普威胁在美禁售加拿大庞巴迪产品 <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBTTGcwTUdMbGh5bnBLQno2amZpcEZUOF9YTEVFNkp3TlJ0UmtMekNnT0JlTnBNa1BjRmVISDVMek9MWHdFNjVvdmpzeWw0UVFTYWRyMGFHRkVMSWNkVUZqdHZIdGc?oc=5>
+- **特朗普** | 特朗普威胁在美禁售加拿大庞巴迪产品 <https://news.google.com/rss/articles/CBMiakFVX3lxTE9XZmlHeDU0OElvd3l5eEw5Vl8tMVZoaU55TkRJalhWenZhVDlfS0NFSDEtdEt4SEtZNDRIMS10VjZRRDRuYVlOX1JUZHF6czE3XzYtWlVBV2hVcGlCWFkweG56T3VzdXVJd1E?oc=5>
+- **特朗普** | 9月8日外盘头条：特朗普威胁要禁售庞巴迪飞机加拿大拟对数百种美国商品征收关税伦敦期铜创出新高 <https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJdHJ0YUFBZTdrWWp1cXVuemg3UnlVUk9rbEo4U29Tcm9KWkdPdi1FTDY1TmgzZVl4SUY4aUcwbHoySGh1cHlIc0dJLXdDbjNfZmNTOFlFeWgwQQ?oc=5>
+- **特朗普** | 特朗普在AI帖子狂潮中声称，他已为美国“在股市赚了数千亿美元” <https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PMzRYUThEQ01ZYV9uV3FNaDZQc1BFYWFpejRCcW1rTVQ2ZGJ1bVAweTlkVVR2Z28tNTE2ZTFCd2RabVFWbjc1eFdGZE84aGZSdmhuN1RvNDVGQQ?oc=5>
+- **特朗普** | 全世界都大开眼界，啧啧称奇 <https://news.google.com/rss/articles/CBMieEFVX3lxTE4yV18xVHp1b1BhaWxKWGtRaGsyUWpFSU9NT0ZsZlV0aGExX1BrblZkLW9PdUNiaUl2TjBJUWl5c1hzLTJxRWc4cnBwWkk2NnAxaEhBdXVKb20wb3k2eVB3U3YtMDd4ZjFIQlBvbHVHZEJkbVRSVnZreQ?oc=5>
+- **特朗普** | 特朗普：新墨西哥州不好，改新美洲州 <https://news.google.com/rss/articles/CBMiakFVX3lxTE5SekhXRTRtMVVSVFpHdndyNzBDQnN0Z0pBWWJaYzVxdVV6cHIxMlNjY08tUTBNVHBxSWtOSTBtaUN2MnoybXRwekpsM2VxNHg4cEQ1UElmeTRwSi0zb3ktTVI2dFBlNTM5Tmc?oc=5>
+- **特朗普** | 金灿荣：特朗普急于送俄罗斯一份大礼，普京却接不住 <https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Pa0dMdGI1clF6bVhfbEZENmlLMXQ0MUZERno4UHh4dnFzdmpvZDB1eEZaaEpGOWtydmVQLXBNelo5QXlpTXR4RTJnemVoREdEQTJILUcxU0kzdWM?oc=5>
+- **特朗普** | 泽连斯基：美国正探索俄乌冬季降级措施 <https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVXc1RGxDdzUxTkZtMDhsSW1OWmk3ZlliY21jbWZsN2Rhd1J5bVRIMnBQNmRaN19vOXk5NFVMWDdzYnc5Z2dkOEhvNXRUZW9XOVBnR245VmZSeDNjcF82WUZJODlWclhLNFYwbFBwSWZKNWZSWmdMRlBiTXhSdUc3QS1hVnh0Ym1GeHBOTjNTTlRreEFvWE1wUmNqYlZhYjNjZ3NtNFFYdXh0Zw?oc=5>
 
 ### 2026-09-07 21:38  (6 条)
 
