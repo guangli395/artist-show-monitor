@@ -1,88 +1,123 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-07 01:10**
-- 本轮扫到 11290 条, 新增 **9** 条
+- 最近更新: **2026-09-07 06:20**
+- 本轮扫到 11302 条, 新增 **12** 条
 
 ---
 
-## 本轮新发现 (9 条)
+## 本轮新发现 (12 条)
 
-### 特朗普再次施压美联储降息
+### 陈情令国风演唱会重温
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: IDNFinancials
-- 时间: 2026-09-06 23:00
-- 链接: <https://news.google.com/rss/articles/CBMi5wFBVV95cUxOYmNYU0JVQnRmRmdtaEhqUmtoaUpaR0ppSS1SdzNRQWhuN1U2YU1PSjdrbDNMWEl3SmMxQVZ3R2dDakdSWkJuQ19CWTgxVE1nU0FoU2RVajZKcGlCR2lZX25EekJkQXk3SGFsQWoxUXBYT3ZVS2FoZGliYXRVVHZCNGdaX0ZGRTl5aWl2Rl93MXNneVpiTDd0VUY0ajlhMnNKWUZVRlMwQjlHa2NVWkdhcFFMZlh5eXBXY0Qxa09hMl9JZ25fdm53ZmphVGVRbHY3VFE4dXNFMTRETEZpYmYtaWt2RWVjZVE?oc=5>
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7811092777_m1d193d12903302hxlq.html>
 
-### 特朗普发图宣布月球为美国领土
+### 我以为周杰伦昆凌追星只会是演唱会，直到看 郑钦文
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-09-05 07:00
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1pM3pvajVadkRObG5STXlBLTIwdE1RcXVtSW5sYXVUYjRpNjBJQTVxdzk0ZDM5Z3dxbE5HQ1Aza0NiWEV6UWtLUkIzZGE?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923909_m1d5ae18c503301mbh0.html>
 
-### 特朗普力挺AI数据中心 加剧共和党中期选举落败风险
+### 🚨突发消息：🇺🇸特朗普总统表示 我为美国在股票和其他许多类型的资产上赚了数千亿美元，不是为我自己
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-09-06 01:35
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE93RzhudnJLa3ZSYXNtalNNblI5LVNuekk5SzYtZ05INDk4eFJNWkxnZFQtbC1VeXctX01YelN0cGxkYWFaQVNRd1NXTmdEWld0OURXeFFVa2Y1RDRZRVY4WVZLby1jdw?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-09-07 05:38
+- 链接: <https://news.google.com/rss/articles/CBMiswFBVV95cUxNSTd5VENXdTZTRUVhYWdkOVZXbVVJeldWejJjYnNLTEV3SHpaTE9YX1ZCUDhrdTk4TmdsNGp2YlNQYjBrMnFrbEpDdzQ5Y1BmTFVXeUdIUDBjZDhFa3AzT0NtQW5WNERDX3FEbERwVXExN2lWX29aaU5jVkFKc2dHdy1BdWdLU1lNUGlfZDdpSHBTRGxXSEJxYktabkkwOHRwUklHV3ZwYkxWMEJlRkNDbEFpMA?oc=5>
 
-### “很凶猛”！特朗普签令，这次盯上了它们
+### 新墨西哥州州长回应特朗普：美国成立前，我们就叫这个名字了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-09-06 16:11
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1FcktmVTY3SU1zTldzbmRuVlFQUGgwNEd3b2dJVW9tVGJiMnlOUUlFcGF4TkhJY25ncW5WbTAzZVRkTlYwTWZiazZIdllwX01BTGRqbHlGT2ZHWHFDel9VLTA0ZUZmc3dpSWNsOVRBOUVnbnM?oc=5>
+- 场馆: 观察者网
+- 时间: 2026-09-07 04:33
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFA3cDRKYlk2UWVEVHFqMlIzSWNrclAzNTc3ZndHaF9uNFBNbEdLMUF5QzVUb2pKLXJEY0xmamdIc0ZJc0lDdnFhQnJTcW1OQlBlallwZlQxWHZGNElPazRiRDRuMGxlY0Uxd1E?oc=5>
 
-### 美国推动重启俄乌和谈之际，普京会见特朗普特使
+### 特朗普发布新版“美国总统排名图”：自己排第一，拜登、奥巴马在“失败区”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-07 04:39
+- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxNUl9IUzc3MUJsMktMM01ORHBnWkFzSHhnc25RazM5OVJHV0dfSk41U0lUM3VQRUNFRnJyaklCYjBFb2V4cEJDeVhhMnRra1JXNF9KYWxKby1LUkhQeXg0dVpaTXpYTkFjby1KUjZaTDBwZVpOSEJqeGxSWmQ1V2l0cw?oc=5>
+
+### 对数据中心不满？科技巨头和特朗普认为你已被社会主义洗脑
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: cn.wsj.com
+- 时间: 2026-09-07 04:01
+- 链接: <https://news.google.com/rss/articles/CBMirgFBVV95cUxOcDNWNzlzWnJpVzMwM0hQSDVZb0RpM0REeTlPRTlmLUpiQXotblJBQ0sxSnhxZ09JLVdtUFJsVzdzTG55V0RFNjVvRHVCdkY2WEszcEVQVDJMRGFtYW9wM2JpSFhiNDB3VjBXQTJwc2YxWkhZZ19lejhvMU1hTjBhRGkzREVfQTR6VUh1LUdpWjF1UHlKMDBzYzlRTDc0RDZwTFpYcmZGMS1WUjFtZ0E?oc=5>
+
+### 普京公开夸特朗普：他明知自己困难，却仍想着…
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者网
+- 时间: 2026-09-05 23:44
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE8tb3lMc1BMV3ZzQkFFVThrZ1FpcXNabkp6Ml9EM0ZKT0tYdVRpRzZ4MmFYclRpcTZvVkRLTGl5U290VzVyR1hNWEVnbmtNeFZsZ2JGcXpMdDZPUlR5MHRQRW5vdlBoUGxjWXc?oc=5>
+
+### 从金色到深褐，特朗普发色突变再引猜测
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: news.ifeng.com
+- 时间: 2026-09-07 02:18
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFAxdzBBellxSGJac1c1SWF5TzQ1emdLZ0ZtYVprbFpQX3RhdkdMR09DbEI0RmM5MnY3TUZ0c1pXdGU5cmI0WUFoQjk2OC0?oc=5>
+
+### 特朗普陷入进退两难 重启谈判成唯一出路
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: news.china.com
+- 时间: 2026-09-07 05:35
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBDUng2a0dNekVUdmMzWmdFMVIyUnJ6a1JvY0pOUHZkcVE0RVJMUGhGNVVrZ18xMjJ4N2FvdllycHNTRHZDZ0pFeElMdUlpZFdkRkcwS0dtS0RUbXNoZjAwbmh5c2dpUEg4S01BUDZ2dno?oc=5>
+
+### 特朗普在中期选举前为共和党助选
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-09-06 23:58
-- 链接: <https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd0s2VG9aUTV2VDV3UGY4dkRsVkdGSXV5WXBETERuVG1lNWFkVk80TzNlYlZ5aFZiY0hIakpSbEhuVmNuMS1iUFFCdzVNd2p0aGpOaFhCV1hRLUVIODdyWDdDWHowMDlmeHhubWVTZUZzSU9SM2tYTDNoU3RVaXAxS3RxS2h0enhZZnVQdEgzeDQ2eDNyMHlyMENpLU12ZElpbURfckhVd09qRFk?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-09-07 01:11
+- 链接: <https://news.google.com/rss/articles/CBMilwFBVV95cUxPVy1tc0l2QUZkN1VSSk9EaGVMYmtiZVZBazd3LWRwb3JvLThYbkRkV2dQVHVxSU03SWhmTG5FeEJFb3NadmlXZS1lMVZnNGV1dkNTbnU1VkZBekFuUm9iM01LN01OMzBRMVZHQ3NpRldOanM0a0ZEaDExc21Gd0FiVHYwdkgxUDcyQjRraXJkMENQNlRpOFE0?oc=5>
 
-### Trump特使团接连会晤Putin与Zelenskyy “讨论新的结束战争构想”
+### 继安大略湖后 特朗普建议将新墨西哥州改名新美国州
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 8world
+- 时间: 2026-09-07 03:37
+- 链接: <https://news.google.com/rss/articles/CBMilwFBVV95cUxQZTVSa01HY0JONGNndktldXdxaGtaWWo0c0QwRHEtMXVYdGdkZXdMQXpNZUkxajByWmJ6WDRNa3p1R25ETHdzay1jamxvVFhQUDhzWmZTZml5VWFvblkwYWpkTlJGb0xvNXdVTWpZVV96UWlvQktQUGhhVUYzNUs2bkY3SHVxSzBHaThEbFdXX0JJRnRWSkdj?oc=5>
+
+### Trump默默分享德国选举结果：极右翼德国选择党以44%大胜- 阿视亚经济
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: 아시아경제
-- 时间: 2026-09-06 21:53
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBYSFItd2lJb08yTG5iNDRWWjhiald1NWJvRklVVW1QcDNzd282Mkdta2p5OGlYNnZ3amFucGpRcWI5TV9xOXFYbHZzY0ZOejdRM0lrRlg5ZzZGbUhncWJMTkh3OU4?oc=5>
-
-### 特朗普特使访问乌克兰，试图重启俄乌和谈
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-09-06 23:35
-- 链接: <https://news.google.com/rss/articles/CBMilgFBVV95cUxNWEJoWlpKTlNTWDN3SU9rN2RudElTNWQyRmxtUTdBSFBCWDhpY294VGhPaW9TTVNyZjhIeDBod2c1Q2RCRU1fVGc4RnlSNGdUUUZQVjBINWtJc2lQV2VjRUlfS21vUmhFQWhYLTRhS3J5R1p4OEVlNS00N3lwSUw1dG51WWpsd1ctZ3JFb0lsRndUUnRSUXc?oc=5>
-
-### 美国再推俄乌停战方案 乌方称会谈更具成效但仍忧战火延续
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: rfi.fr
-- 时间: 2026-09-06 21:20
-- 链接: <https://news.google.com/rss/articles/CBMimANBVV95cUxNWXFFVUxVU1J5djN5Q1pEamZHSlNTSGpuYUVZT2M4RlVCNUNZTkxTdDVwMk1pWjRkNnFWRFVsVG9ZSkFfcnloQWR4bWxabG9kalI3cUlDanBOVFJESHU2d3NTQzQ2eTdteldGVGtxUjBzaWRTSEg0VWIyanV0bzlBbS1CM0l5ZnFtUS1qcXJfLVZkTS0yWVhHNG9rcTRUWERXNi1xd085a19nMm5sTEN5UEJVMXR3LTVadlh4WkNnQk1rTldISTM2TGVBS1ZjM0t6Ql9JclFMMGh3OEJCa3RoeUR3R2M1ZEdPU2xxTnJLWFpjNUFLZkNWYzRZNXhVN09EM1NkMUhFV1FHcmNqQWRNVzY1QlJOdVlIcEFWc0E1VHRROGpUTWdreFpYZkxPUUJrV0psdnFjRFZVYTh3eXVDMXBQaWNPUUxUQWtOOTVWRW9qSmNxU0tKM2w2VU90MHM5X2tZOEJGU2V6SDJydXY1MTAxbGoxd1FzNWRQN0x1ZzlDTm9ZdG9hOTZlS1hoWXFPNkdmS0J5M3A?oc=5>
-
-### Trump：“美加美元失衡……不能再继续下去”
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 아시아경제
-- 时间: 2026-09-06 18:54
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFA5V2lSZzZLbEJIWU1CZXJwMXZZWmc5ZzZQS0pDQlhzRkU5TmVzUTNLNXljYTJ4bm85aGlqREdRU2VxZE9mcGp2ZWQzb3hrYXVPWXZRODBsY0xZMVRyLWl3Ty1UeEY?oc=5>
+- 时间: 2026-09-07 00:23
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyYmgxU0t3UjhOdjJ1NzVoaF9TVGxWNDl1Y0RDakRpNVdHN1RiLWNNMVBmeXE4bUdaS3lpZXNkX081bzBnZkFBSTQyeHd2NVNyRjZfV1RZOUdFUG9yenhJdThaaDY?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-07 06:20  (12 条)
+
+- **王一博** | 陈情令国风演唱会重温 <https://k.sina.com.cn/article_7811092777_m1d193d12903302hxlq.html>
+- **周杰伦** | 我以为周杰伦昆凌追星只会是演唱会，直到看 郑钦文 <https://k.sina.com.cn/article_7879923909_m1d5ae18c503301mbh0.html>
+- **特朗普** | 🚨突发消息：🇺🇸特朗普总统表示 我为美国在股票和其他许多类型的资产上赚了数千亿美元，不是为我自己 <https://news.google.com/rss/articles/CBMiswFBVV95cUxNSTd5VENXdTZTRUVhYWdkOVZXbVVJeldWejJjYnNLTEV3SHpaTE9YX1ZCUDhrdTk4TmdsNGp2YlNQYjBrMnFrbEpDdzQ5Y1BmTFVXeUdIUDBjZDhFa3AzT0NtQW5WNERDX3FEbERwVXExN2lWX29aaU5jVkFKc2dHdy1BdWdLU1lNUGlfZDdpSHBTRGxXSEJxYktabkkwOHRwUklHV3ZwYkxWMEJlRkNDbEFpMA?oc=5>
+- **特朗普** | 新墨西哥州州长回应特朗普：美国成立前，我们就叫这个名字了 <https://news.google.com/rss/articles/CBMiakFVX3lxTFA3cDRKYlk2UWVEVHFqMlIzSWNrclAzNTc3ZndHaF9uNFBNbEdLMUF5QzVUb2pKLXJEY0xmamdIc0ZJc0lDdnFhQnJTcW1OQlBlallwZlQxWHZGNElPazRiRDRuMGxlY0Uxd1E?oc=5>
+- **特朗普** | 特朗普发布新版“美国总统排名图”：自己排第一，拜登、奥巴马在“失败区” <https://news.google.com/rss/articles/CBMigAFBVV95cUxNUl9IUzc3MUJsMktMM01ORHBnWkFzSHhnc25RazM5OVJHV0dfSk41U0lUM3VQRUNFRnJyaklCYjBFb2V4cEJDeVhhMnRra1JXNF9KYWxKby1LUkhQeXg0dVpaTXpYTkFjby1KUjZaTDBwZVpOSEJqeGxSWmQ1V2l0cw?oc=5>
+- **特朗普** | 对数据中心不满？科技巨头和特朗普认为你已被社会主义洗脑 <https://news.google.com/rss/articles/CBMirgFBVV95cUxOcDNWNzlzWnJpVzMwM0hQSDVZb0RpM0REeTlPRTlmLUpiQXotblJBQ0sxSnhxZ09JLVdtUFJsVzdzTG55V0RFNjVvRHVCdkY2WEszcEVQVDJMRGFtYW9wM2JpSFhiNDB3VjBXQTJwc2YxWkhZZ19lejhvMU1hTjBhRGkzREVfQTR6VUh1LUdpWjF1UHlKMDBzYzlRTDc0RDZwTFpYcmZGMS1WUjFtZ0E?oc=5>
+- **特朗普** | 普京公开夸特朗普：他明知自己困难，却仍想着… <https://news.google.com/rss/articles/CBMiakFVX3lxTE8tb3lMc1BMV3ZzQkFFVThrZ1FpcXNabkp6Ml9EM0ZKT0tYdVRpRzZ4MmFYclRpcTZvVkRLTGl5U290VzVyR1hNWEVnbmtNeFZsZ2JGcXpMdDZPUlR5MHRQRW5vdlBoUGxjWXc?oc=5>
+- **特朗普** | 从金色到深褐，特朗普发色突变再引猜测 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFAxdzBBellxSGJac1c1SWF5TzQ1emdLZ0ZtYVprbFpQX3RhdkdMR09DbEI0RmM5MnY3TUZ0c1pXdGU5cmI0WUFoQjk2OC0?oc=5>
+- **特朗普** | 特朗普陷入进退两难 重启谈判成唯一出路 <https://news.google.com/rss/articles/CBMicEFVX3lxTFBDUng2a0dNekVUdmMzWmdFMVIyUnJ6a1JvY0pOUHZkcVE0RVJMUGhGNVVrZ18xMjJ4N2FvdllycHNTRHZDZ0pFeElMdUlpZFdkRkcwS0dtS0RUbXNoZjAwbmh5c2dpUEg4S01BUDZ2dno?oc=5>
+- **Trump** | 特朗普在中期选举前为共和党助选 <https://news.google.com/rss/articles/CBMilwFBVV95cUxPVy1tc0l2QUZkN1VSSk9EaGVMYmtiZVZBazd3LWRwb3JvLThYbkRkV2dQVHVxSU03SWhmTG5FeEJFb3NadmlXZS1lMVZnNGV1dkNTbnU1VkZBekFuUm9iM01LN01OMzBRMVZHQ3NpRldOanM0a0ZEaDExc21Gd0FiVHYwdkgxUDcyQjRraXJkMENQNlRpOFE0?oc=5>
+- **Trump** | 继安大略湖后 特朗普建议将新墨西哥州改名新美国州 <https://news.google.com/rss/articles/CBMilwFBVV95cUxQZTVSa01HY0JONGNndktldXdxaGtaWWo0c0QwRHEtMXVYdGdkZXdMQXpNZUkxajByWmJ6WDRNa3p1R25ETHdzay1jamxvVFhQUDhzWmZTZml5VWFvblkwYWpkTlJGb0xvNXdVTWpZVV96UWlvQktQUGhhVUYzNUs2bkY3SHVxSzBHaThEbFdXX0JJRnRWSkdj?oc=5>
+- **Trump** | Trump默默分享德国选举结果：极右翼德国选择党以44%大胜- 阿视亚经济 <https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyYmgxU0t3UjhOdjJ1NzVoaF9TVGxWNDl1Y0RDakRpNVdHN1RiLWNNMVBmeXE4bUdaS3lpZXNkX081bzBnZkFBSTQyeHd2NVNyRjZfV1RZOUdFUG9yenhJdThaaDY?oc=5>
 
 ### 2026-09-07 01:10  (9 条)
 
