@@ -1,102 +1,73 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-07 18:01**
-- 本轮扫到 11323 条, 新增 **11** 条
+- 最近更新: **2026-09-07 21:38**
+- 本轮扫到 11329 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (11 条)
+## 本轮新发现 (6 条)
 
-### 王一博出席百雀羚95周年线下见面会，笑容灿烂心情快乐
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7811192899_m1d195584303301g2v2.html>
-
-### 德语媒体：伊朗战争 – 特朗普献给习近平的大礼
+### 美加贸易争端升级 特朗普威胁封杀庞巴迪飞机在美销售
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: dw.com
-- 时间: 2026-09-07 14:06
-- 链接: <https://news.google.com/rss/articles/CBMirgJBVV95cUxPdWdsRnFnekdGaEZkQjVQMjZncVB5X09JaTNJRWRlM21YYmdQdXAxOHFmQjIycUkwLTdCWnlKa3dreC1VY0J2THFtQVRBeEI4RHM1MVY2ZnZCNW1kQjRYb3o1ZDBBUDNRQ3pMWEhIV1VZMkI1VTFnLTVRTzVQRW9mS1h5bWN1QV9MbU01Zi1WWjZoY3lWVUR5bi01VkdncDBNVjlEQ0puS3ZyTHFqLUEzRFVyWFJ5SGdmV3FRSElzTGd5YmMxaFNjMUREWGttU29yRFpqQ1l3MEFIN1JCODVkM0FvbVE4azE2NFJLeW1ISjF5TC1ibEU4NGFvM1NKYTNVbkhqc3pvMmZBTGdqLWNVRkdobklPNjZlX19YMlhoMGwzYndFOVgxWk1HSTB6UdIBrgJBVV95cUxOTS1FWkxXZld6VjJJVW4xWVU3QXZmOVlOVWhYWEpDdE9nN1FlNEE0VnB2TjBCRlhDcUphYlMydy1tcjZUVGluMFJEeEFtUjRZaVZrcEk0SWtVTFhKdTY4aU4zVjg3ZGJzSzVsQnM4Q0NFTGZsQWJUOG16dW1kQ1ViUXJ3SlRlZEV1dDhneVh4ZHpOZU9LUGVBdU54Y0pkUmgxSnVUcDNYd2VNaDhyQmVNeG1GY1VvVlM0Y1RhNUtxYVJ6ZnRmSTNEOUozc0tFOEpsTGFZY0FYYkZlT1Z0dEZMNnBPdkI3R3VwSnpqNE13eEx5ZTFmNDV1UUVUMURoMC14LUZDTExrWUF5STBVMVhadmdxS2lWLTYtdmtxdzY2WmdndXczWDJBUHlrclE2QQ?oc=5>
+- 场馆: RFI
+- 时间: 2026-09-07 21:24
+- 链接: <https://news.google.com/rss/articles/CBMigANBVV95cUxQdE43aU5VU0ZUOW11emx6ZkViUmpfSzdTaE8zN1BOLUU1Mzc1dWFiZGdnYkJHRTBqaEVlZjE3eFNDSTBLR3RTWEpvRmtrV2hWams2TGx0RGxKX0F5a3Q1NWpjTE9iMnN4MHJpSWVOaTZTaFZHd3NGTGZsTUVzNWJfR2N1WHZqVW03OXpkU1h6T0tVMGU2MV81OGhyTkNZdW1odzl3OXN5X3ZBYl9ieTlWRUN6NTA5Uzcyb0loVzdZUFNzZkFialBIN0JuSWIyV3BsQ0hVQzA5aWdsNm1xdVBrb2pZSC1pYzFFMmxHMjF0N2RFbkpFMHlvZFBrQjRNVm1NX19qM0lydDdHSmM0OTZCV1ljcUQwak5TWVEwQ0wtbS14UV9OdDBwR1pIRk1kRXhIVHFsVU9EeXJYVkJZWTlCcnhja3cyX3ZIbGJuRmViOU9tbVBaelpzRVNuRkFrQ2ZCcjhfMEhLU2xVYkRXNktodEkxQjBrS1pnWHpINEdXRHk?oc=5>
 
-### 泽连斯基与美国特使会谈后表示正筹备后续谈判
+### 美加贸易战恐升级 特朗普威胁要禁售庞巴迪飞机
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: rfi.fr
-- 时间: 2026-09-07 17:44
-- 链接: <https://news.google.com/rss/articles/CBMi2wJBVV95cUxQN1ZKbWdjbl9ZU2o2RExHbGNobEJzX0hvQklWZ3pwU0JpWlU4WEx2OS1YeWZuYnMzX0czXzNhN0pfVTdQUWZCa0R4NXprUG5JTHhGSUltc0lINWp2Y0FrYW9aU2JQUDVkM1FqY3FlTndsVHJ1MFpOQ1IzcUVMMEJ2ejFiS05OTFFxekF3SlVETnNjb2dNOUR5NWdnTTl6WE85QWgyc3B4QVlkTEdTanpMdDNWeG9xNHB6eXZ4d1R0SHdwRG5hc2ZvT1kxb0ZENEdFdllWWWVqUUMxUm1OcVZmM1pCazVmY21QZUJLMjN3T0tGVmNPRWNwQmZld2F5U2dWbGxobFlIME5JcWxlODM3V2FFS25RNTVORmFiZDBnMGZlVlN2bmxnZDB3dklGMHlNWUVvZjktNXN6QjJrcnZoSUJoamZzeUVLQTVSUXpGbkYyOERCd2lhVnBMaw?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-09-07 20:40
+- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE5leHljWjh1M1BYT1BrQjZZTGJ6NTdOeHVxZlJGc1BkcG9RYnVoLUlCVEtZY2RyWTlHN2ozMVZOTTRuZkhid3EzSHNLT3ItR2FxSE4zbkxiYjR0V19HRmQxaDlmZTRDbUxVU1Etck9DcTJrdllpdVhGSjd3?oc=5>
+
+### 🚨最新消息：🇺🇸 特朗普总统表示，总部位于加拿大的飞机制造商庞巴迪将不再被允许在美国销售产品。
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-09-07 08:11
+- 链接: <https://news.google.com/rss/articles/CBMixAFBVV95cUxOMVpxWHNlUDVJSWJuVFY1RDlVSEUzSm9IMm15c3hhaXY0N1BETl95UUY2MkxpZGl1YTlsZ0lEUVhIeXpFeWpBV3BfaUNVZ1NQMTZZZWgxZzdJSmo2SnJrS1N1MVcyLXVLYVphaDh4V2kxUGpKZWNqd2JRU0hlTjN1OWxzM21KTjlDekk0RjdZWlZqbUpvN3lVUTlHNGtDdU95a01ValByR3FmU3lWUVdnZTRpcXlEa25XSXJRMkNMMnpKMlF5?oc=5>
+
+### 美加贸易战恐愈打愈烈 卡尼组合拳蓄势待发而特朗普又抛新威胁
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-07 20:20
+- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE9HdjFKMmFNT3JUOFpmMDNxNGQyUlNuTmNKN3dNbnh5bzdmd2FSNzhTbmo1RzZwQV9iTmYwMGo3UXR5SDZSSk5MYmRSM1YyeFpyY3o0czBkMnRVOUxUSDc2Y1RadHJxMmw1WE0xblpRckpPOGRUY1hqV3V3?oc=5>
 
 ### 特朗普要给新墨西哥州改名“新美国州”？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-09-07 13:52
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBzWnAtVFN6MDA4amRmbVBNRnhWdzQya2FWQm13aHp4MUQ1Mzc1OHRkRDFOVnJUOU91bE9FN0c1MFJQb0I4cU5mX0l2YkdYYzhXWXphQmhrNExvc2VwTnk4U29aRHowNEVBd3AteUJBOGpFeDJoNnRwRUVwWHVCZ0U?oc=5>
-
-### 特朗普发布一张地图，将新墨西哥州标注为“新美国”。
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-09-06 17:53
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxQZzlkUWJaUG1xakpydkFTNHRXdEJncUNoLVJ2OXVUS0VRNERLUWQ2Y2ZsUlN4STRsaHY4M1phNmh5X1pwOXE0cjRtSjhIZlFwM3BOcEp6MmFOTmcxRC1sci1ndnFIVS0ybXExRXRlT3JfSDRTZW9GWlhEQVU4eDUxRWZDeFZ2bTQ?oc=5>
+- 时间: 2026-09-07 15:43
+- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE9CZUNQLWdSVEctUmV5UmtVSjJVSERXeU9TOExsRGNGV2F4VEhTZmVsN3ZYWUdudzRyMHI0WEJjdzBNUU9DeDhac3JPR1h1VWdCalhkOFl6RFNQVWQzTVJrMVhHaVpUQXNjRVVsb3EzQ21qQnhXNWpCYjl2dzU?oc=5>
 
-### 加拿大对美报复性关税将生效，特朗普继续挑衅：起来，州长
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-09-07 13:12
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9wbTlmOU5NRER4VU1SNzlEWTdWTkxIWWhiSHJYODNNcHN3b1p2RGh3RVMtQzNvNmJYLTJ2c21NY2JVZVJKUGdvREI3eTdzaklRUjdWSjdIaW5QR2Vna2xYWXpkTWxOQjVwclE?oc=5>
-
-### 特朗普晒AI图谈炒股：“我已为美国赚取数千亿美元”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-09-07 13:55
-- 链接: <https://news.google.com/rss/articles/CBMisAFBVV95cUxNUHEyMzc5X3p3My0xQ056OFdGTGxJdjJwSHZpaFFuOXhxWVc2RThRWFd0bzRwUVRQckxzWFNVVm5yblZyeTVWUGhNSnFDYWg1SzAxWnpibGx0bUNDT2Z3UVRFam9neUNCSkpuOUozN19LOUxLeC1MYTYwa2NPbWlzYmVMZUFfNFNzeVhJeHdMNHViMW82akx4UC1oRWNXNko4VWNMRk8yTUpvZ3dybWgyQw?oc=5>
-
-### 亨特·拜登推出针对特朗普支持者的“LAPTOP”模因币
+### 川普突然判若两人引爆网络！新造型竟被赞“像007”
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: CoinDesk
-- 时间: 2026-09-07 15:44
-- 链接: <https://news.google.com/rss/articles/CBMiqwFBVV95cUxORGhfQ2FLS055amYxT2FrMTg4TWptYnZFdmpzdTJwMDltVTRLbFFpXzBSS0EtSXo1R1daMk9tcUR0VHB6Q1k5WXhmVUo3N04tVFhSQlprMzBpYVp3cXNxY2g0X1R4MV8taXBsRGxrcjJ3SDh6SHdabE5pbGg3RWh1ZEEzdUxSYS0zcEJOdmt2QVpiQ2ZLRkxET0hQbURGenhtdHhmZkdPS3hmVWc?oc=5>
-
-### Trump shares AI-generated image while discussing stock trading: “I have already earned hundreds of billions of dollars for the United States”
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-09-07 14:13
-- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVXFrcmJvYjNHQWprcHpIZ3hVbVVEeERza3FYeThiRzMxOVBvM0hsUng1X3NSWVBWMWcxZFJmWnZjQmZiRWxGZURUZldXd0tPZlZ1eXhwWVctM05Ncl9aa3BSOVBCOTZFRDVJNC12SXRFanhudlVJckFIMDZlSnpWTnJDdWd1VWF1MEVUMUNDNTRWTTVjYnA2a1E2SUV5M3BjVkhZRjJMSDFIZw?oc=5>
-
-### 美国特使在俄乌间穿梭外交：双方分歧未解 泽连斯基预计战事将持续到冬季
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-09-07 07:14
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFAwejFPOUpQM1E0Q3otUGN0d3hxRThxckIyT0RoT0RSYUNUTDJHd2M4cWtQby1ndlNYWncycFVoR29LSzg0eF9aQ2lidl9zdXlvUGpyekJlNGZBRFc0WlhvWElOblZTQdIBa0FVX3lxTE54WHExVVRMTFRwOEJHd2xiaFYyYmZ2TU1RSjlDc25SeUZESkZDaV9lOHU2YTRjNEFKQ3JyLWJBcnlaT1gwcUdrcXUtTjJpWEZFdEFHMDBzUjdzQ2pPa29YYU5BSnZnUUZKSUVZ?oc=5>
-
-### 拆解美国前总统之子Hunter Biden 发币$LAPTOP：一场针对特朗普的“链上政治复仇”与流动性收割
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 深潮TechFlow
-- 时间: 2026-09-07 16:21
-- 链接: <https://news.google.com/rss/articles/CBMiVEFVX3lxTFByMHNRTm1OQzRPWHE3dnFXeS1nZXRoOURTWjdEOE1qcG5OMFgyUGstam8wRU9BZnRnV3c2eXR5NEtteXFDZ2pVTkctVF8wel9PZjUwMA?oc=5>
+- 场馆: 文学城
+- 时间: 2026-09-07 20:17
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE84LXpXZmRoUUZYV21ieGdXOV9TZ2Rsb05VV0JyNUl0OFRzZ2NsbmdCQnRUT0JlWG1QRDYtMEtlWFNZc29zcXZBSXUxRUtHYmhRUHFVVDF2eDlHbHFoZFFpRGFVT3QtYllr?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-07 21:38  (6 条)
+
+- **特朗普** | 美加贸易争端升级 特朗普威胁封杀庞巴迪飞机在美销售 <https://news.google.com/rss/articles/CBMigANBVV95cUxQdE43aU5VU0ZUOW11emx6ZkViUmpfSzdTaE8zN1BOLUU1Mzc1dWFiZGdnYkJHRTBqaEVlZjE3eFNDSTBLR3RTWEpvRmtrV2hWams2TGx0RGxKX0F5a3Q1NWpjTE9iMnN4MHJpSWVOaTZTaFZHd3NGTGZsTUVzNWJfR2N1WHZqVW03OXpkU1h6T0tVMGU2MV81OGhyTkNZdW1odzl3OXN5X3ZBYl9ieTlWRUN6NTA5Uzcyb0loVzdZUFNzZkFialBIN0JuSWIyV3BsQ0hVQzA5aWdsNm1xdVBrb2pZSC1pYzFFMmxHMjF0N2RFbkpFMHlvZFBrQjRNVm1NX19qM0lydDdHSmM0OTZCV1ljcUQwak5TWVEwQ0wtbS14UV9OdDBwR1pIRk1kRXhIVHFsVU9EeXJYVkJZWTlCcnhja3cyX3ZIbGJuRmViOU9tbVBaelpzRVNuRkFrQ2ZCcjhfMEhLU2xVYkRXNktodEkxQjBrS1pnWHpINEdXRHk?oc=5>
+- **特朗普** | 美加贸易战恐升级 特朗普威胁要禁售庞巴迪飞机 <https://news.google.com/rss/articles/CBMiekFVX3lxTE5leHljWjh1M1BYT1BrQjZZTGJ6NTdOeHVxZlJGc1BkcG9RYnVoLUlCVEtZY2RyWTlHN2ozMVZOTTRuZkhid3EzSHNLT3ItR2FxSE4zbkxiYjR0V19HRmQxaDlmZTRDbUxVU1Etck9DcTJrdllpdVhGSjd3?oc=5>
+- **特朗普** | 🚨最新消息：🇺🇸 特朗普总统表示，总部位于加拿大的飞机制造商庞巴迪将不再被允许在美国销售产品。 <https://news.google.com/rss/articles/CBMixAFBVV95cUxOMVpxWHNlUDVJSWJuVFY1RDlVSEUzSm9IMm15c3hhaXY0N1BETl95UUY2MkxpZGl1YTlsZ0lEUVhIeXpFeWpBV3BfaUNVZ1NQMTZZZWgxZzdJSmo2SnJrS1N1MVcyLXVLYVphaDh4V2kxUGpKZWNqd2JRU0hlTjN1OWxzM21KTjlDekk0RjdZWlZqbUpvN3lVUTlHNGtDdU95a01ValByR3FmU3lWUVdnZTRpcXlEa25XSXJRMkNMMnpKMlF5?oc=5>
+- **特朗普** | 美加贸易战恐愈打愈烈 卡尼组合拳蓄势待发而特朗普又抛新威胁 <https://news.google.com/rss/articles/CBMiekFVX3lxTE9HdjFKMmFNT3JUOFpmMDNxNGQyUlNuTmNKN3dNbnh5bzdmd2FSNzhTbmo1RzZwQV9iTmYwMGo3UXR5SDZSSk5MYmRSM1YyeFpyY3o0czBkMnRVOUxUSDc2Y1RadHJxMmw1WE0xblpRckpPOGRUY1hqV3V3?oc=5>
+- **特朗普** | 特朗普要给新墨西哥州改名“新美国州”？ <https://news.google.com/rss/articles/CBMifEFVX3lxTE9CZUNQLWdSVEctUmV5UmtVSjJVSERXeU9TOExsRGNGV2F4VEhTZmVsN3ZYWUdudzRyMHI0WEJjdzBNUU9DeDhac3JPR1h1VWdCalhkOFl6RFNQVWQzTVJrMVhHaVpUQXNjRVVsb3EzQ21qQnhXNWpCYjl2dzU?oc=5>
+- **Trump** | 川普突然判若两人引爆网络！新造型竟被赞“像007” <https://news.google.com/rss/articles/CBMiaEFVX3lxTE84LXpXZmRoUUZYV21ieGdXOV9TZ2Rsb05VV0JyNUl0OFRzZ2NsbmdCQnRUT0JlWG1QRDYtMEtlWFNZc29zcXZBSXUxRUtHYmhRUHFVVDF2eDlHbHFoZFFpRGFVT3QtYllr?oc=5>
 
 ### 2026-09-07 18:01  (11 条)
 
