@@ -1,128 +1,107 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-08 02:33**
-- 本轮扫到 11351 条, 新增 **14** 条
+- 最近更新: **2026-09-08 07:41**
+- 本轮扫到 11361 条, 新增 **10** 条
 
 ---
 
-## 本轮新发现 (14 条)
+## 本轮新发现 (10 条)
 
-### 面对特朗普接管威胁，格陵兰寻求将危机转化为机遇
+### 温润如玉王一博百雀羚见面会
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-09-08 01:12
-- 链接: <https://news.google.com/rss/articles/CBMitAFBVV95cUxOWTJhejRIekN2WU5kbVJWR19qVFZCVGZpQjhYYkhHVm9GeDB2Y09xTWFLYjBpZFdBMlNlTTN3bHVEbDZNWXNUaFMtUjlUTjh2anhpWnI0ZVY1U0pDVjBSTFNJVktjRi1wR2paMEZFbENwYWVManh0S2Z5TGpUQ2NacktKR2Fha0QtU1FOOGc4UlBVd1U3VmZTZWZ0Zk51QVNqTFpUenpxLXpDZEpOXy1QUENTTjU?oc=5>
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7811192899_m1d195584303301g3n0.html>
 
-### 特朗普发地图，将墨西哥等“纳入”美国
+### 让特朗普再次伟大！
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-09-08 02:16
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE01Q0J5WkhlVFdxMVNDVmd3TEtJV1hya3hDQkpNUHduWDJrMDduTWRpTGIxMHZqcnVmdkR2NVVDUmRFWnhzYVJJWjdqZm8wOFJteWhBTmFNMzVCT2JQbkJYSUpkUUtMaUdKUXc?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-09-08 06:24
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQ0w0MlVSYUpXYm1wMWdQNnpRc0puVGpUM3pVbjFhaWdOQTZuQjdWN3U3R2JGRlZuMzB2OGtlWkRoOFVldWtyQ3g5U24tcE9zbWVVSFFqcDRHZ2ZiZnV4azVJMU5CeFNJQzIxMW1vT1BsUHJRVFBQZG9uTk1jOGZGd2lFNDN5QnhF?oc=5>
+
+### 全美汽油价格劳工节历史新高之际，特朗普高调安抚民意：战后油价将“暴跌破2美元”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-09-08 07:18
+- 链接: <https://news.google.com/rss/articles/CBMimgFBVV95cUxQMENVQ1NaZVpjRmFadHA3aUpVaVlnNHU0dkZfVDVXRjk2ZmtOemYzanRyRktBMmFvUlk1dzVnX0dBc1pSdmpObUFXbFJkX3pxcmRzWXNHXzUtczh0aFJXMDdUNXB5OVFVLXp0Q25meTlvbUZxVEk1TTEzNDR1Z1ZYODY0X3NzZzB5OFo5aXMybndhdjgyTkl1Wlp3?oc=5>
 
 ### 特朗普威胁在美禁售加拿大庞巴迪产品
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 央视网
-- 时间: 2026-09-07 23:02
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1hOTAtVFJiT2lrSW5UTGp1LVN3QmprT3FnaGlvZWlzTkdFTnhRQTdaVTBBU1JfV2FORVM1bDJMcmFLMVM5UGFxeUpmMmhJZlFQcDh2bTctZkljOXZQdEZ1djk5S0dMYzZqN2lBT0tjTGx3LXdzeDJqRQ?oc=5>
+- 场馆: 新华网
+- 时间: 2026-09-07 20:36
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9oWWt4S3BtSkRZSDVBOUlDUExhV21pWEI4QWdHVUhwcVRNRmU3b1RuMzZieTdVbnFQRmRRQTN4aXpOYzdiT3dZNUVQZUhhUEpvNHJpSnBBNEEyYzFTR1hrZFhObzlpZ2xOWEQwWURXRW1Kak11cGpOUTJHZTFxMkU?oc=5>
 
-### 特朗普发布AI图片自诩“为国赚数千亿”股票收益，未提供任何证据
+### 9月8日外盘头条：特朗普威胁要禁售庞巴迪飞机 加拿大拟对数百种美国商品征收关税 伦敦期铜创出新高
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-09-08 00:04
-- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxQb2h0bXhkRWNrXzdqTkxPTUlTWnVzcGZ4Q21VVUdYZUo3TFdwc3RXWVMtYnNPVUwzUVN4V0dKWHJTYTlKbHJBNTdwdGM0Zl9HZGNHWWtvSV9PSEhrT0ZlRFRXYkVGNWlnVTlTX2dmcFBBcXQyemFPM0llWUx4X1FESHFhRmIwZkR6a2tVRHN1eHlyT0RlZFgyb1pJdlhVaGw5UEVjRUpIVzlpUQ?oc=5>
+- 时间: 2026-09-07 22:07
+- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcUJvdndUMVp3WGV4elZZblFSZTZHOHBmWXZMT0V0WDlpMm02RFJnSENRQ3ZiX0MxMEh5SEVRWEVlWW5yZkFtSTF1WDJmU2xPMG9lcFpkZWl4R1l5a3E1TzlfdnNEa3Ywc2JkUWtJVUZWaHAwRFU4bjE0ZU8wdThVS2VvYlBsMVpYVFY3aGJqX0JxODBEeFVxbXFDWllZQjRnUnpRNHFaRE5LQQ?oc=5>
+
+### 特朗普发图，“新美国州”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-09-06 07:00
+- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQnBRTmJib1Q2Y3NCY295blRvMTJ4VjVHT0J0VHUyMlZibG5SUVFUbDBfU1QtQVRvNHc3RHhfTWxXZDRGMWg2NWdzQm9VX2JpSmx6QXo5MWY2dHRrdzN3cnBDdU1OZS03NGFoQXdSemk0ZU5tQllkTnltbVRPbVFHUHo0aXZyUlZkU3J4SldEZ09ueko2VkM0N0Nja1A3eGNFRURCanZuZXM3NWFyQnZ3YXdFdG5fNGVVTWlrMnpLdTF0RUE1TUpFZlZTRFc0WnhZaUE?oc=5>
 
 ### 特朗普在AI帖子狂潮中声称，他已为美国“在股市赚了数千亿美元”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
+- 场馆: 新浪网
 - 时间: 2026-09-07 14:21
-- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMHpYRWcxcmNxVE1hbEhCNTVuYjEydmlNbkxnYU1pV1dzeksyRFpjX21DTXFWYWJGQzljUnNwVkpqOUVIdk1YamxhNkw2Qng5bGpVVG5QMlNycXdTNF9wTHZPZHZZdjZrWWstMjMxbDBYbXo0dVJXTm5VVDk4aEJTRW45bDFoV2ZDUmhlLXItd2pJa3h5eW1nOVB6Ml9JSEFqc251REV1cnRyanhTa0pvT0h2VTZFWDFtSzVVcWJocHBmR19DU1ZWTWNjWUx4Zkl2WU5IdFVpUlppUkIwT2c?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRXd1amZxM0d5c2Z3VVpYZ3RKanRsM0JFRzhScnE0eXNrZnNuem1CNEdEdjJyb0RUekRhaUNobURDQmFFMUZWa254cGNHQ2RDWWFwRkt3OEZVQUp1MVIzbjJZV1JfdzE2aGVtckQwUmpvUDJvVmFiOTlYNk41LUstQWNBSnRYZVFYSkFLTXJ0N05fak4wOW03cFhRdm1MYUJyMkFrU0Q2NERmekNBQnV6WmpaUndUdGRiaGN3NjRtQ2VyVno1VjNPejBCalB1VmRaMEFSUGNPOXdqLVpZay16ag?oc=5>
 
-### 特朗普倡议将新墨西哥州更名为“新美国州”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-09-08 01:40
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5hbUJyX3RsQ0JybnhqankzM0tSZF9oNDgxc0pWbk1pcDZBNkcxeXVLeWtGOUVhOTZ2LVRxZHRsaktGVFRTTmhiSHF1OWRURzRYdENheVJZdUJfWDc5c3RWZ2xWd3VmVm05Mmc?oc=5>
-
-### 特朗普连发7张“新美国州”地图给新墨西哥州改名，州长议员硬刚
+### 特朗普继续“炮轰”加拿大，再次称加总理为“州长”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Sohu
-- 时间: 2026-09-08 01:01
-- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVFk2aDhXVXNETFVhWGVSWmhualozeDF2aTlzVzlSdFdKMDc4Vkc3VGh5RjZnN1N3ZF81dnVwT0xfeGRYVUZUZV9VSnZDNWlMUmJTcEkxVGg2ZG14dC1SN0hLZ2ZENHJiNE11QkFvR3ZSYjhMdzJBdVN6WTkzVkpKUzBDdEc1NUF4?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-09-07 23:47
+- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxNSjZUd1BLTmIyVGlhQjUzZ1VodUVGQlpEVmQxVlRIam94NlIwd1J3eF83aHJXWTFrMlF2aGtLVk40QVJTVkpTVFY0ZFhCbVdzVGtKTUs5R2d1N3QwZGpNY00tZ29hbmNQNXd5anJiTVlQSEhUek5EVmw1a3YyWE5YUEpCenRMczVRU1JsY3o4RVNVeTl0LVQyaW5JNWE?oc=5>
 
-### 各种推文密集轰炸，特朗普彻底玩嗨了
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-09-07 23:45
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1qX09FcVREanRKMnZ3MEJKajJqaXNaMDJzX3lZLWh2MDhmSHE2U2x1amxuZUdmRWo3ZkMyalYtZzl1TmFVcWM4TGE4Yjk?oc=5>
-
-### 从金发到深褐：特朗普发色突变再引“假发”猜测
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-09-07 01:39
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE1yUXBqQWZwb0RZOUZOc1puMmI0SUp4QkdZaUFBTjgwWkotZGxtOS1xRjc4ZWhBczFqNVlDcEdyYTZTOFk4YVhsNXdFemZzNmktTXl4ZXpoY2ctTGV2dXc?oc=5>
-
-### 拜登之子发币LAPTOP：不仅硬刚特朗普，还要给TRUMP玩家空投
+### 美国特使乘“和平快车”抵达基辅，但战争依然看不到终点
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: PANews
-- 时间: 2026-09-08 02:29
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFA1MlNTVk5KSFgySjRuV2hNeE9ZSlJIOWFLcnJXZTdrMkd4bklYRC1saTk1eHp6RnptQk9ScTZleFVrSDFGN3RFY25nMnZfMUJnNzJucTdFVjcybjl1bGtodHRJVUtBam10MkhDUGVqZGpEQWhwN1RvRjVBbzJaYjA?oc=5>
+- 场馆: 纽约时报中文网
+- 时间: 2026-09-08 02:20
+- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxPRWJ3emJocE1iallsNEZJdEZ5NURFMF9vM2dNcXgtZmU3SFJQN1pZaXNXb2tJeFlxRWdJeDFYQnBmZHF5eUZoSzNaaVAxVWRJMGVXcjNndGhlUWRhUU5FM0N2Y1VRZ1pBSHhaRkpzeFNQQVFFLUlHNDl4UVhDRHVFdw?oc=5>
 
-### 拜登之子宣战TRUMP币，即将发行10亿枚 LAPTOP迷因币
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: TradingKey
-- 时间: 2026-09-07 10:29
-- 链接: <https://news.google.com/rss/articles/CBMixwFBVV95cUxNakt4WEpVUDEtaENsMTVEQ1pIV1FRemwybXhENVFfb2FUem5lSUNuaEE2MjIyNDlmcjVSQVRhOVRPUjIxZC1rbnBIQVJCdVE1TExJaUEwWEhuUlJvSnpYYzJHb0w2cE9fR2NnOHdqb1ozSU1IQy1DUzJsYVBDeXZxYVRHak4xY0RhWGthYXJ2cUswcVMwVFpEU194THlrZVlWOTVHQlMzdW9Id3Y3Z3l5ZXZOUDlXc1dYYS1sS0owTnBWMFR1bS00?oc=5>
-
-### 加拿大拟对美征收最高50%报复性关税…Trump称“禁止庞巴迪销售”(更新)
+### 拜登之子官宣发币 LAPTOP，丑闻变现还是复制 TRUMP 剧本？
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 아시아경제
-- 时间: 2026-09-07 22:47
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5KSl9mZTNYZ0M5b2pQdmsyQzl1N1JXNHEzTkxab25GRnFYWGJKTm96aFNNdEZxUTU3SDdFQ192N2ZsXzBkRTh2a2IyRU5wcmRyNFhVNUsyZ0xXRTc2T2VNWFJScUc?oc=5>
-
-### 亨特·拜登将推出以其臭名昭著的笔记本电脑命名的模因币
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-09-08 01:24
-- 链接: <https://news.google.com/rss/articles/CBMi-wJBVV95cUxNaGxCcm9CUGRDeXZGbW5uUFNaSUl5b1VneVotR0l0QkFuSXA1blF4NGczZnduYVpuOS1CVEk2RWM0cWRXelloQVRZMUdDRk8tUXFiQjlGd3ZaSlVxMFVVX0h6THlxMVdwekpnT05lTkhQd29FbkRlMmlHRFFRd0FvZEVNY054WnhfSjZEN3ItOWYxM1BJd0kyMjI2YWxxQ21RcnlGZ3FRLV96SU9wYnhlcjh0dW5FY0FFZmxCa0lBdzhWRW81MlpkbFNPQ1BDTDZSRmt1LUUxaXRGMjJWSVd4eTNXdHpCbzZfRDdoZXVyblN5RFNCbE9zYTBlNjRET1NiUkhHVXhQbEkwaHZiU2ZhR01zYnpzTjRaaF9lTGQxMmRKdzh4ODhSSjdzenFpT19YVC1KV2gwaVBwUzFYUl85MW1TVXZmdGR6MzVSWTd6UUlQZnhHc200SEZVOG1QN1NhOUlMVWJNeTZvVDRHb0l3SWN1NTA0d2dSVVdR?oc=5>
-
-### 特朗普晒AI图谈炒股：“我已为美国赚取数千亿美元”
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: news.futunn.com
-- 时间: 2026-09-07 14:04
-- 链接: <https://news.google.com/rss/articles/CBMipAFBVV95cUxNR0FLLWFmeHVJM0I2VmRBYlNfMXNiS3FBa3VQUFdpdnItNGdvT0YyTTNfTEFzTVBKU1MtYzJZc3NMN1BjT2U3bG5QbFpmZHhzVFFGam9UWXdUMHhaaVozUFBBZjRxdkZPZlRSVHVkSGNPYkJYWkVmOGhmNElkbGhiUFVqenhrM1lkcVNiYW1hdUQ4Y3gtRDRVVFNNdXNhaXRiMGpPbg?oc=5>
+- 场馆: 链捕手ChainCatcher
+- 时间: 2026-09-08 07:17
+- 链接: <https://news.google.com/rss/articles/CBMiV0FVX3lxTFBGd2R4X0FIeDNFM1R2aDdidTlvbTY3WUx3elBkMzQ3ZkhKQWxOTUtlT3ZDRi1KU1ZjVlRJNlp0ck44cUxKbW5uNGhpMkxDWU1IejdHT1UtOA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-08 07:41  (10 条)
+
+- **王一博** | 温润如玉王一博百雀羚见面会 <https://k.sina.com.cn/article_7811192899_m1d195584303301g3n0.html>
+- **特朗普** | 让特朗普再次伟大！ <https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQ0w0MlVSYUpXYm1wMWdQNnpRc0puVGpUM3pVbjFhaWdOQTZuQjdWN3U3R2JGRlZuMzB2OGtlWkRoOFVldWtyQ3g5U24tcE9zbWVVSFFqcDRHZ2ZiZnV4azVJMU5CeFNJQzIxMW1vT1BsUHJRVFBQZG9uTk1jOGZGd2lFNDN5QnhF?oc=5>
+- **特朗普** | 全美汽油价格劳工节历史新高之际，特朗普高调安抚民意：战后油价将“暴跌破2美元” <https://news.google.com/rss/articles/CBMimgFBVV95cUxQMENVQ1NaZVpjRmFadHA3aUpVaVlnNHU0dkZfVDVXRjk2ZmtOemYzanRyRktBMmFvUlk1dzVnX0dBc1pSdmpObUFXbFJkX3pxcmRzWXNHXzUtczh0aFJXMDdUNXB5OVFVLXp0Q25meTlvbUZxVEk1TTEzNDR1Z1ZYODY0X3NzZzB5OFo5aXMybndhdjgyTkl1Wlp3?oc=5>
+- **特朗普** | 特朗普威胁在美禁售加拿大庞巴迪产品 <https://news.google.com/rss/articles/CBMif0FVX3lxTE9oWWt4S3BtSkRZSDVBOUlDUExhV21pWEI4QWdHVUhwcVRNRmU3b1RuMzZieTdVbnFQRmRRQTN4aXpOYzdiT3dZNUVQZUhhUEpvNHJpSnBBNEEyYzFTR1hrZFhObzlpZ2xOWEQwWURXRW1Kak11cGpOUTJHZTFxMkU?oc=5>
+- **特朗普** | 9月8日外盘头条：特朗普威胁要禁售庞巴迪飞机 加拿大拟对数百种美国商品征收关税 伦敦期铜创出新高 <https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcUJvdndUMVp3WGV4elZZblFSZTZHOHBmWXZMT0V0WDlpMm02RFJnSENRQ3ZiX0MxMEh5SEVRWEVlWW5yZkFtSTF1WDJmU2xPMG9lcFpkZWl4R1l5a3E1TzlfdnNEa3Ywc2JkUWtJVUZWaHAwRFU4bjE0ZU8wdThVS2VvYlBsMVpYVFY3aGJqX0JxODBEeFVxbXFDWllZQjRnUnpRNHFaRE5LQQ?oc=5>
+- **特朗普** | 特朗普发图，“新美国州” <https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQnBRTmJib1Q2Y3NCY295blRvMTJ4VjVHT0J0VHUyMlZibG5SUVFUbDBfU1QtQVRvNHc3RHhfTWxXZDRGMWg2NWdzQm9VX2JpSmx6QXo5MWY2dHRrdzN3cnBDdU1OZS03NGFoQXdSemk0ZU5tQllkTnltbVRPbVFHUHo0aXZyUlZkU3J4SldEZ09ueko2VkM0N0Nja1A3eGNFRURCanZuZXM3NWFyQnZ3YXdFdG5fNGVVTWlrMnpLdTF0RUE1TUpFZlZTRFc0WnhZaUE?oc=5>
+- **特朗普** | 特朗普在AI帖子狂潮中声称，他已为美国“在股市赚了数千亿美元” <https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRXd1amZxM0d5c2Z3VVpYZ3RKanRsM0JFRzhScnE0eXNrZnNuem1CNEdEdjJyb0RUekRhaUNobURDQmFFMUZWa254cGNHQ2RDWWFwRkt3OEZVQUp1MVIzbjJZV1JfdzE2aGVtckQwUmpvUDJvVmFiOTlYNk41LUstQWNBSnRYZVFYSkFLTXJ0N05fak4wOW03cFhRdm1MYUJyMkFrU0Q2NERmekNBQnV6WmpaUndUdGRiaGN3NjRtQ2VyVno1VjNPejBCalB1VmRaMEFSUGNPOXdqLVpZay16ag?oc=5>
+- **特朗普** | 特朗普继续“炮轰”加拿大，再次称加总理为“州长” <https://news.google.com/rss/articles/CBMinAFBVV95cUxNSjZUd1BLTmIyVGlhQjUzZ1VodUVGQlpEVmQxVlRIam94NlIwd1J3eF83aHJXWTFrMlF2aGtLVk40QVJTVkpTVFY0ZFhCbVdzVGtKTUs5R2d1N3QwZGpNY00tZ29hbmNQNXd5anJiTVlQSEhUek5EVmw1a3YyWE5YUEpCenRMczVRU1JsY3o4RVNVeTl0LVQyaW5JNWE?oc=5>
+- **Trump** | 美国特使乘“和平快车”抵达基辅，但战争依然看不到终点 <https://news.google.com/rss/articles/CBMigAFBVV95cUxPRWJ3emJocE1iallsNEZJdEZ5NURFMF9vM2dNcXgtZmU3SFJQN1pZaXNXb2tJeFlxRWdJeDFYQnBmZHF5eUZoSzNaaVAxVWRJMGVXcjNndGhlUWRhUU5FM0N2Y1VRZ1pBSHhaRkpzeFNQQVFFLUlHNDl4UVhDRHVFdw?oc=5>
+- **Trump** | 拜登之子官宣发币 LAPTOP，丑闻变现还是复制 TRUMP 剧本？ <https://news.google.com/rss/articles/CBMiV0FVX3lxTFBGd2R4X0FIeDNFM1R2aDdidTlvbTY3WUx3elBkMzQ3ZkhKQWxOTUtlT3ZDRi1KU1ZjVlRJNlp0ck44cUxKbW5uNGhpMkxDWU1IejdHT1UtOA?oc=5>
 
 ### 2026-09-08 02:33  (14 条)
 
