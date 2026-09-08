@@ -1,102 +1,125 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-08 12:30**
-- 本轮扫到 11372 条, 新增 **11** 条
+- 最近更新: **2026-09-08 16:59**
+- 本轮扫到 11384 条, 新增 **12** 条
 
 ---
 
-## 本轮新发现 (11 条)
+## 本轮新发现 (12 条)
 
-### 【福利】看“苏超”领福利丨周杰伦、那英演唱会门票持续在线！
+### 为何时代少年团演唱会只喝“裸妆水”？
 
-- 艺人/关键词: **周杰伦**
+- 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://finance.sina.com.cn/money/bank/bank_hydt/2026-09-08/doc-inircewu6068804.shtml>
+- 链接: <https://k.sina.com.cn/article_7785470890_m1d00cdbaa03301wcmw.html>
 
-### 火药味十足！“就是和美国对着干”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: guancha.cn
-- 时间: 2026-09-08 10:04
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE41a3A0eDJBZ29FZlpYWXBuS2ZkQ2gyaUhDalgzTFUxMXJiTkpzV0loa0tOTjZKcVdBN1NoQ2FhT0lxTlRhRXBKOU9jMkhLVzRTdF9zYlJoaWVsR1FvZXNIU1JiemUzbWdXZXc?oc=5>
-
-### 特朗普发图，“新美国州”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-09-07 19:10
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE53ZE41TzdybmhFTVJCTnJzUjV5dVNlNzRKTnRIQ3o1aXRXVll0VlFxZWEzT0NzREk2MlRIQ3pZR0U4Z0lYU3BGUWZjTVpIYUZIbVJyVmM4OURIVF9WRUdUTjdxbWRDaDhWazBETDBSdDdrWnIw?oc=5>
-
-### 特朗普声称通过股票为美国赚取了数千亿美元
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: IDNFinancials
-- 时间: 2026-09-08 10:40
-- 链接: <https://news.google.com/rss/articles/CBMixwJBVV95cUxOUE1zeXJLWFQ4UGlMbW15NTI1c3BxYTlPM09ZS2tiWVMxSWRqUzloUGdHbGFDakRKNnVEcGpLc2Ewd2tVWWRrTGFVU3JIM3M3TDZRMXk5azJ3Q3NDUnptajhSMmVtbklKVXhEbkN3Zm01S2lhQVJ4VU53WGVtdzg2aDVvNDU2elhQNFF3QW1rYTJvQ1AzQTczWnp5UHN4YXk2N0pyS0Q5ZkpDSFBhR2JGbTJ2OGxWS0dSTERIb3hybGFHVVppdmp6eFdIblhacXBvYmhRV1VUTzFoSlRqanYwTFRvTEJ2UWgwUVBpZkdGZmh1TXFMRVdxT2VpRDhiY0F2RHVuR2J1QmlueEFmM0RkTGRZU0RTTm95bFFib0ZjUDR5UWZ2LU1DYTQ4TmJPQU8zTTVHSko2YXZfVmQyRjBrSkJFeVR4MDQ?oc=5>
-
-### 用美国国旗覆盖多国，特朗普又双叒叕“地图开疆”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中国青年网
-- 时间: 2026-09-08 06:09
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ZRHRlYkt4OHNWRzBRalR1SklFTXdGdUdHYnlULW1Pb2c0WG0tS01GZVNpUTdjZzJVTUVkd2VnaW1KeG5MYXlKTzh4MmtKUjBVY1Jhc004Z3h3SHJaSlJROUJFMjd2bVE?oc=5>
-
-### 高市寻求借联大之机与特朗普接触 因警惕美中接近
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: china.kyodonews.net
-- 时间: 2026-09-08 02:38
-- 链接: <https://news.google.com/rss/articles/CBMiV0FVX3lxTFBjZ1VZZmV0djNDc08zOWZfMGhCQUpSUjVtZ25DeEdiMkJMMFhFejF6RDJFQ3RuRmNxdVVlVE56d29ET3A1dkJJMUlPaEFkMlNVLXFnQlZLOA?oc=5>
-
-### 美国劳工节汽油价格创新高，特朗普再画饼：一旦冲突结束后会很快跌破2美元
+### 普京与特朗普，通话一小时
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-09-08 05:17
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxNX04yN3FXSlZHMWtkelpBRmNQN0hUZTlwWjhkV3pQd3lSZEF5LV9LOEFrQkZfcUx0WEpwdHZaNzlLREZwV0FaLUxZYVc4NnBTVEVGUFlCM0NTVXUzdy13NExlaU9aMjNSZkZLeWVGSjN2bzdtSTF5bGZuZXpXR2ttbk8yMDlCVUE?oc=5>
+- 时间: 2026-09-08 14:53
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE14RklBYm9Qcm9fM3BORWZUeVctVW9ScUpHdXNJRGlrZlpRbk1LRWdydzBST3JMUlV3enBqd2s5Z0dWU3hJV2ZsQTJHR0hKNTd0elJjZFdXbWdkck9OdnI0d3JUVjRZRTgwemlCREJmTElORWtGWEFPYQ?oc=5>
 
-### 泽连斯基预计9月中下旬与特朗普会面
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-09-08 08:55
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE02QUdKNDJSOEM5X2dTeE1rc3R4WV9XZUZtcU9kT3E4OEJHaGIzR2ZGRG1DOEdRZEJ3LUl2d2p0bC0zR25IYXZnX3RtMVY?oc=5>
-
-### 泽连斯基预计9月中下旬与特朗普会面
+### 特朗普与普京通话约一小时 克里姆林宫称两人的交流相当坦率
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 央广网
-- 时间: 2026-09-08 09:48
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MLWxyREJoamF4VDl3UTM1WlFZZFpZbUJwclo5bUhxUGp0RUhHWXQycE9TV1VvTUZ6b0pmRDMySjZ2TC1sSFVlM09GT3poeUMxY2JnVmtpdjc0MkRHMXQ2dXJaS3RNRHJu?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-09-08 15:59
+- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE5IVzFDYVJzdzF0WHJGXzhEMVRCZ0RMejk1aEMwQUY0ZzVqUzZLMDBJc1VpQ1Fod2FXRUZuYWUzRm9JZUxsVTFDdXV2ZXp6MXZIZElsVUtleHdGZmowLWFkVjhPMmxOd3BNQXlhcUlXa3R3ektXMEM0ald3?oc=5>
 
-### 特朗普发“抽象画作”后，冰岛召见美国大使
+### “特朗普和普京正在开香槟庆祝”：德国选择党的胜利影响欧洲的未来，乌克兰一把利剑悬头！
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: guancha.cn
-- 时间: 2026-09-08 09:13
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBDS2J4dndRLTRwNFlpMmxlMndleHNRZjVYNDdiVzh6d0E1dEFIeHpzTjFyV25SblJ5X3dCQjRmbktQUWpSWFBMdFBiV1VEWjJhODFlTEtZY1ZRdjJ0b1FiSGVsTFdIZm50Q2c?oc=5>
+- 场馆: rfi.fr
+- 时间: 2026-09-08 09:56
+- 链接: <https://news.google.com/rss/articles/CBMiigVBVV95cUxOa2pGNmQ3YWR3dW5Pd3dQb0h4TktmTVBKUHlsalNZY2xIdWdrVTgzTHAyVXh3ZlNPX2pzaU0xQjVWTF93NTZjT3J0ZjF1VTNJY1cybDRlWkZjRmVadHJURWMtTVNOLXZnYzBQeFM3UWRPTzczWk14SVBtSDQzRzk4RTFDV3dYTnFVZHBuZHV1MnVYUEtGbl82UFVuY3A2TG0yVEV2ZXJRdm80OFFKemVwcGRlZUtmTWNJRC1SMnk5dlF3aTFVemE2VTlGdnpTSUJ3SWlXUmNHOUR6MmJXekxKanlzQmlFSmRfMDUxZUI5V1A1SFhoRHRLYXd2b3hqU1ZfY0w5T0FHaFBRdmw5SHZ4VVloUVdfTTFWTGNCN1ljN2huMUVhekF4NGJyc3E0cU9yZl9aRmtHSDhiMHppZFhJWUhKLUtpMzIzQ1JtMUQ1OGUyVUptSWM4UE0zNmI3UmFsdU54NlRGUm95MUlzUWZwU2dZZTVBdS11ai1DLVp1RXRQdU5NN3JXTHQ1U3o3ZXpaeUZ5cWMwYXVHanpheFVzWlJ5OWFYRE9GUzZXNkpIY1ZENmxFaTNBalptM1daOFAxM1JDVVNNQXJLa3ltLVJYazJHS21zLVdTajRram5BbEZhVzlSeUkwWnFEMGttYnk1cTRkZ3RhejVlRDNHTDN2eDFPVGQ5VEJoaXlENEtQdnpfWExOM1RfLXg0RkZCTjJEV0JjNjBRTHZxNUZIRFFwTXNDNlhFS1laSDNuR1RtWk5lVTFZYVZYU3ZsWWhkaVdLUDlPTlVaa3dBa1J2SDFnRDItZERNWHg3THpFbms1YkQxcmJiRnVBMk5VNDVBeXJyUk9mMWZ6M2hRUQ?oc=5>
 
-### Trump Threatens to Block Canada’s Bombardier Sales Unless It Builds Jets in U.S.
+### “不留名就没人记住你”，但美国总统也无权改州名
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-08 15:09
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFByY0VrNzFsQXA2cC1jTnZsX0dMQkJvd29rM1J4ZmZ4Z2pwTEV4d21mVnhtVlRMN294d05KQnctbUxCTk4wWFktVFR3ZEhpMUpYa3JHZEVqalFWQWYzNThvbWpWNS1sdmZxNXhvQzF5aDU0RGhLVmVkbg?oc=5>
+
+### 冰岛召见了美国大使 此前特朗普发帖将冰岛等多国划入美国版图
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: rfi.fr
+- 时间: 2026-09-08 14:14
+- 链接: <https://news.google.com/rss/articles/CBMisANBVV95cUxQVV8wLXkxSF9YS1cxUndBSDlVWkxBX21pUGxfQk5fV0IzaHVVMzdVQkM2VTYyQlNWTXdKUVhzM2lWUTJsTFk4X0UzbnZ5b3NSZ3JYYlFRY0V5aXNNNWozU1QzTDF4ZE5fNlZtd0lCX0xUdzVybWZTNXA0Z2NZcUdxRzVzbG94MGNGMDBjbmp2N2tmU21RTThMbXpQQkpJVVExbzRFM1RfMmZpS3REWFYxdU9xWmx0MUhlc1N3VVN2VkJoQ1VnVTV0ME5waHNESF9ZdWhwb2lMNFlFVTNST2F2U0dWX2hmTV9jMWFPUUloVUdHNTFFSjBqbkt3OVdURFFXZkVSNUF5cjdvdTRwUjNVMGY1dkd2bnNBa08tSS1vRDdqdnphQVUxZTRCdk43bzFGczF3QjBiQUstOGc1OEY1UTRZRGNoOTVoMDI1UDdqYUVpV2dxanVJbldnNG9jMHhyeHp6c29va3lqUDdwM0R4MlFMd2JjamtQVFBxWmp3RVZpNEN0SVZTZ083aXRyTE5ueVhXX2lUN3YyOXZZM3RYX3RlN0tJUGI5cUpXdEhvWm4?oc=5>
+
+### 特朗普发图把冰岛等国划入美国，冰岛外交部召见美国大使
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-08 14:41
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1hc0Z3R1NPUUptUnFjR0FRVFRFRElIWnp4U09hY3NFRF9EckZvRlVUOVJCMXRTb1Rqd1hOQmhVeVFUaVNBM3pPTlFWTnNVM1EtQ2FjQTNhWlpjXzRCV1o4ekhSRHRtWjJKMHFvVjJtS1pYRl9DdUU2Rw?oc=5>
+
+### 特朗普晒AI图谈炒股：“我已为美国赚取数千亿美元”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 财联社
+- 时间: 2026-09-07 14:00
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE5mYm12T3Mwekd1OGJQWHp0VkFSTUNRRTlPOUFjejZMVFlDcU4xOUxqcUZhN2FFSVpEeGZDTjJ2aFdacS00OTFiYQ?oc=5>
+
+### 特习会前美中战区司令会晤 为区域局势降温避免意外
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: CryptoRank
-- 时间: 2026-09-08 02:36
-- 链接: <https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSnZXYnI4QWZWcjVPeEJoV19rajYya1BJN3lINmhIOGN3UnFOZzlUMzhUdEFxN2xjeXNXYnBnMC1WeUJOQnd4RDZDa21jNlY4Q2RCZTlQVGNjVVU4b3hYMWRGRUVfajVIWjlqaVE2VEFKb21ENmxaTDN5X2VvUW1SQno0YzBnUnhjT0I1elJXdUlSaTNKQzd4UDZJUVh5ckhOUXotUks1OGhWaUJwNnRjX3ZxeWZEUUQzYm5R?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-09-08 12:54
+- 链接: <https://news.google.com/rss/articles/CBMivwFBVV95cUxNY0ZXM0Zud1UwVW02ZVp3Q1BzRk1DLUdET1l4SkJSY2pNaEthQ0dxUzhaek0wQmEtbTdBdzdGOHVNeDg2cXVxdUhvLWxITjVlZmVtdzBra1FEYzZQbnhqNkY5OUxkYURVMnI4cTNwcy1WNTdxTlo1ZmtqNm5jVUFLNzMyWE5YSDZTaUFEd1h0eUJjRVVQLVdzUDdzakN0N1dVdHdITTBPM3pnLTJuRFhMSFU2UG9WUTRxcTBpSjJiRdIBwgFBVV95cUxOaHNpR09iZ25VdUxyQm5vWVRmR2p1OFpxcDdvbjQzZ3RObExCaWFlLTFzUTc2Q3k0SDBJcEFvU0ROZVZxM19YNGk1djNpZW5QUGx3TXlCRXRRREh0Ynp5MkJOZjllRFVQR2wwd3k3aV9iVGZicXFIcTctd2h1b09pb3NfOTVpVm5QU202S21yaFhCTjVuTzJLeFBNQjY1czFBMTl6RlFoTloyWDZPYjVFenU3T2NDRFFSd2pTQWR3b3JXUQ?oc=5>
+
+### 被特朗普纳入“美国版图” 冰岛召见美国大使
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 8world
+- 时间: 2026-09-08 14:05
+- 链接: <https://news.google.com/rss/articles/CBMikwFBVV95cUxNLS14ZlZLWkppUnBGTUdmTzdBV09xdWJmLXZ4WVdaZ1BLN0xQdDVaU3FpLU8wMEpZQl8yaG9fQ281UHFZWF9oVG1MTmp3ZzRKa2xXbTdlLTNjdThIQ0lSQkE5ZFpQd2Q5SWFkX1c5ZXNHLUs4YUFvVm1LZGJLWUJSZy1UbXM1OXBuZElHWUJsUGFzcmc?oc=5>
+
+### 第474天：降息 +特朗普2.0 第595天
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-09-08 15:41
+- 链接: <https://news.google.com/rss/articles/CBMimgFBVV95cUxOYWVlYkR4d3RyX0VfLWpjQ2hLTk1NcVhNYkppVU5wY1M3XzdMQ0VGb1pyU0pXMV9iMTc4NzV2Z2h4UUZrbkFQYy1wQUd6TjNxakRQNDl1QkF3Qko0V1E4bGYtajViQ0ttYXhkUU1GWmp5QzRjQnV5elFSY2hwNGFfQS1hZUtfQkdrb2xmc0U1M3hrWEJmMWpadnlB?oc=5>
+
+### 千万“负”翁，拜登之子靠发币翻身？
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: PANews
+- 时间: 2026-09-08 12:36
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE55ei1uTGxOdGRzMUFPcmZLR0l4TldxZkZYbTJKdWpTbzFYQTlWSjg4d2F4aDBHOXUxd3o4SG8wX05QNktqSjRiaGFMSVpPOWwyRFVOOHotZGJxZEVkVWlWWThaQzVVdG94RTNtRkNVd2llNnh3SGs2VzVpc0tyX3c?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-08 16:59  (12 条)
+
+- **蔡徐坤** | 为何时代少年团演唱会只喝“裸妆水”？ <https://k.sina.com.cn/article_7785470890_m1d00cdbaa03301wcmw.html>
+- **特朗普** | 普京与特朗普，通话一小时 <https://news.google.com/rss/articles/CBMieEFVX3lxTE14RklBYm9Qcm9fM3BORWZUeVctVW9ScUpHdXNJRGlrZlpRbk1LRWdydzBST3JMUlV3enBqd2s5Z0dWU3hJV2ZsQTJHR0hKNTd0elJjZFdXbWdkck9OdnI0d3JUVjRZRTgwemlCREJmTElORWtGWEFPYQ?oc=5>
+- **特朗普** | 特朗普与普京通话约一小时 克里姆林宫称两人的交流相当坦率 <https://news.google.com/rss/articles/CBMiekFVX3lxTE5IVzFDYVJzdzF0WHJGXzhEMVRCZ0RMejk1aEMwQUY0ZzVqUzZLMDBJc1VpQ1Fod2FXRUZuYWUzRm9JZUxsVTFDdXV2ZXp6MXZIZElsVUtleHdGZmowLWFkVjhPMmxOd3BNQXlhcUlXa3R3ektXMEM0ald3?oc=5>
+- **特朗普** | “特朗普和普京正在开香槟庆祝”：德国选择党的胜利影响欧洲的未来，乌克兰一把利剑悬头！ <https://news.google.com/rss/articles/CBMiigVBVV95cUxOa2pGNmQ3YWR3dW5Pd3dQb0h4TktmTVBKUHlsalNZY2xIdWdrVTgzTHAyVXh3ZlNPX2pzaU0xQjVWTF93NTZjT3J0ZjF1VTNJY1cybDRlWkZjRmVadHJURWMtTVNOLXZnYzBQeFM3UWRPTzczWk14SVBtSDQzRzk4RTFDV3dYTnFVZHBuZHV1MnVYUEtGbl82UFVuY3A2TG0yVEV2ZXJRdm80OFFKemVwcGRlZUtmTWNJRC1SMnk5dlF3aTFVemE2VTlGdnpTSUJ3SWlXUmNHOUR6MmJXekxKanlzQmlFSmRfMDUxZUI5V1A1SFhoRHRLYXd2b3hqU1ZfY0w5T0FHaFBRdmw5SHZ4VVloUVdfTTFWTGNCN1ljN2huMUVhekF4NGJyc3E0cU9yZl9aRmtHSDhiMHppZFhJWUhKLUtpMzIzQ1JtMUQ1OGUyVUptSWM4UE0zNmI3UmFsdU54NlRGUm95MUlzUWZwU2dZZTVBdS11ai1DLVp1RXRQdU5NN3JXTHQ1U3o3ZXpaeUZ5cWMwYXVHanpheFVzWlJ5OWFYRE9GUzZXNkpIY1ZENmxFaTNBalptM1daOFAxM1JDVVNNQXJLa3ltLVJYazJHS21zLVdTajRram5BbEZhVzlSeUkwWnFEMGttYnk1cTRkZ3RhejVlRDNHTDN2eDFPVGQ5VEJoaXlENEtQdnpfWExOM1RfLXg0RkZCTjJEV0JjNjBRTHZxNUZIRFFwTXNDNlhFS1laSDNuR1RtWk5lVTFZYVZYU3ZsWWhkaVdLUDlPTlVaa3dBa1J2SDFnRDItZERNWHg3THpFbms1YkQxcmJiRnVBMk5VNDVBeXJyUk9mMWZ6M2hRUQ?oc=5>
+- **特朗普** | “不留名就没人记住你”，但美国总统也无权改州名 <https://news.google.com/rss/articles/CBMieEFVX3lxTFByY0VrNzFsQXA2cC1jTnZsX0dMQkJvd29rM1J4ZmZ4Z2pwTEV4d21mVnhtVlRMN294d05KQnctbUxCTk4wWFktVFR3ZEhpMUpYa3JHZEVqalFWQWYzNThvbWpWNS1sdmZxNXhvQzF5aDU0RGhLVmVkbg?oc=5>
+- **特朗普** | 冰岛召见了美国大使 此前特朗普发帖将冰岛等多国划入美国版图 <https://news.google.com/rss/articles/CBMisANBVV95cUxQVV8wLXkxSF9YS1cxUndBSDlVWkxBX21pUGxfQk5fV0IzaHVVMzdVQkM2VTYyQlNWTXdKUVhzM2lWUTJsTFk4X0UzbnZ5b3NSZ3JYYlFRY0V5aXNNNWozU1QzTDF4ZE5fNlZtd0lCX0xUdzVybWZTNXA0Z2NZcUdxRzVzbG94MGNGMDBjbmp2N2tmU21RTThMbXpQQkpJVVExbzRFM1RfMmZpS3REWFYxdU9xWmx0MUhlc1N3VVN2VkJoQ1VnVTV0ME5waHNESF9ZdWhwb2lMNFlFVTNST2F2U0dWX2hmTV9jMWFPUUloVUdHNTFFSjBqbkt3OVdURFFXZkVSNUF5cjdvdTRwUjNVMGY1dkd2bnNBa08tSS1vRDdqdnphQVUxZTRCdk43bzFGczF3QjBiQUstOGc1OEY1UTRZRGNoOTVoMDI1UDdqYUVpV2dxanVJbldnNG9jMHhyeHp6c29va3lqUDdwM0R4MlFMd2JjamtQVFBxWmp3RVZpNEN0SVZTZ083aXRyTE5ueVhXX2lUN3YyOXZZM3RYX3RlN0tJUGI5cUpXdEhvWm4?oc=5>
+- **特朗普** | 特朗普发图把冰岛等国划入美国，冰岛外交部召见美国大使 <https://news.google.com/rss/articles/CBMieEFVX3lxTE1hc0Z3R1NPUUptUnFjR0FRVFRFRElIWnp4U09hY3NFRF9EckZvRlVUOVJCMXRTb1Rqd1hOQmhVeVFUaVNBM3pPTlFWTnNVM1EtQ2FjQTNhWlpjXzRCV1o4ekhSRHRtWjJKMHFvVjJtS1pYRl9DdUU2Rw?oc=5>
+- **特朗普** | 特朗普晒AI图谈炒股：“我已为美国赚取数千亿美元” <https://news.google.com/rss/articles/CBMiSEFVX3lxTE5mYm12T3Mwekd1OGJQWHp0VkFSTUNRRTlPOUFjejZMVFlDcU4xOUxqcUZhN2FFSVpEeGZDTjJ2aFdacS00OTFiYQ?oc=5>
+- **Trump** | 特习会前美中战区司令会晤 为区域局势降温避免意外 <https://news.google.com/rss/articles/CBMivwFBVV95cUxNY0ZXM0Zud1UwVW02ZVp3Q1BzRk1DLUdET1l4SkJSY2pNaEthQ0dxUzhaek0wQmEtbTdBdzdGOHVNeDg2cXVxdUhvLWxITjVlZmVtdzBra1FEYzZQbnhqNkY5OUxkYURVMnI4cTNwcy1WNTdxTlo1ZmtqNm5jVUFLNzMyWE5YSDZTaUFEd1h0eUJjRVVQLVdzUDdzakN0N1dVdHdITTBPM3pnLTJuRFhMSFU2UG9WUTRxcTBpSjJiRdIBwgFBVV95cUxOaHNpR09iZ25VdUxyQm5vWVRmR2p1OFpxcDdvbjQzZ3RObExCaWFlLTFzUTc2Q3k0SDBJcEFvU0ROZVZxM19YNGk1djNpZW5QUGx3TXlCRXRRREh0Ynp5MkJOZjllRFVQR2wwd3k3aV9iVGZicXFIcTctd2h1b09pb3NfOTVpVm5QU202S21yaFhCTjVuTzJLeFBNQjY1czFBMTl6RlFoTloyWDZPYjVFenU3T2NDRFFSd2pTQWR3b3JXUQ?oc=5>
+- **Trump** | 被特朗普纳入“美国版图” 冰岛召见美国大使 <https://news.google.com/rss/articles/CBMikwFBVV95cUxNLS14ZlZLWkppUnBGTUdmTzdBV09xdWJmLXZ4WVdaZ1BLN0xQdDVaU3FpLU8wMEpZQl8yaG9fQ281UHFZWF9oVG1MTmp3ZzRKa2xXbTdlLTNjdThIQ0lSQkE5ZFpQd2Q5SWFkX1c5ZXNHLUs4YUFvVm1LZGJLWUJSZy1UbXM1OXBuZElHWUJsUGFzcmc?oc=5>
+- **Trump** | 第474天：降息 +特朗普2.0 第595天 <https://news.google.com/rss/articles/CBMimgFBVV95cUxOYWVlYkR4d3RyX0VfLWpjQ2hLTk1NcVhNYkppVU5wY1M3XzdMQ0VGb1pyU0pXMV9iMTc4NzV2Z2h4UUZrbkFQYy1wQUd6TjNxakRQNDl1QkF3Qko0V1E4bGYtajViQ0ttYXhkUU1GWmp5QzRjQnV5elFSY2hwNGFfQS1hZUtfQkdrb2xmc0U1M3hrWEJmMWpadnlB?oc=5>
+- **Trump** | 千万“负”翁，拜登之子靠发币翻身？ <https://news.google.com/rss/articles/CBMif0FVX3lxTE55ei1uTGxOdGRzMUFPcmZLR0l4TldxZkZYbTJKdWpTbzFYQTlWSjg4d2F4aDBHOXUxd3o4SG8wX05QNktqSjRiaGFMSVpPOWwyRFVOOHotZGJxZEVkVWlWWThaQzVVdG94RTNtRkNVd2llNnh3SGs2VzVpc0tyX3c?oc=5>
 
 ### 2026-09-08 12:30  (11 条)
 
