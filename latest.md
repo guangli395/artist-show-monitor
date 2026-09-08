@@ -1,110 +1,73 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-08 16:59**
-- 本轮扫到 11384 条, 新增 **12** 条
+- 最近更新: **2026-09-08 19:46**
+- 本轮扫到 11390 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (12 条)
+## 本轮新发现 (6 条)
 
-### 为何时代少年团演唱会只喝“裸妆水”？
+### 俄罗斯：普京与特朗普进行了“坦诚”的通话
 
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7785470890_m1d00cdbaa03301wcmw.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-09-08 16:06
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBtcUxDTUFqejN0cjBsVkpwOWh6MDJFLVlTYjRkN01mdGwwRjc0TG16SGJlOVNNRENPMzJnT2tTRU5xLXZ2VlYzMTF1cmVCeVpoaU9oZ0hKQmlGeXFrOTJxRERQS2F3OFBaVHc?oc=5>
 
-### 普京与特朗普，通话一小时
+### 俄方称普京与特朗普通话“富有建设性且非常坦诚”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-09-08 14:53
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE14RklBYm9Qcm9fM3BORWZUeVctVW9ScUpHdXNJRGlrZlpRbk1LRWdydzBST3JMUlV3enBqd2s5Z0dWU3hJV2ZsQTJHR0hKNTd0elJjZFdXbWdkck9OdnI0d3JUVjRZRTgwemlCREJmTElORWtGWEFPYQ?oc=5>
+- 时间: 2026-09-08 15:05
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5CdDhaTG5QcUhKX2dmNjRyMURLbFE5anhhTWR4bzB2RUMxcm0tQ1NETVA1dFVWTGZwenZzZnZoczQxT0xhQ0pGS0l0NnJ3UXhYUk9NcjBHbnp1OS1ZVVJjbVZMaEl3YnhpRHpnNHdyak9JM2VlMDRuWg?oc=5>
 
-### 特朗普与普京通话约一小时 克里姆林宫称两人的交流相当坦率
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-08 15:59
-- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE5IVzFDYVJzdzF0WHJGXzhEMVRCZ0RMejk1aEMwQUY0ZzVqUzZLMDBJc1VpQ1Fod2FXRUZuYWUzRm9JZUxsVTFDdXV2ZXp6MXZIZElsVUtleHdGZmowLWFkVjhPMmxOd3BNQXlhcUlXa3R3ektXMEM0ald3?oc=5>
-
-### “特朗普和普京正在开香槟庆祝”：德国选择党的胜利影响欧洲的未来，乌克兰一把利剑悬头！
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: rfi.fr
-- 时间: 2026-09-08 09:56
-- 链接: <https://news.google.com/rss/articles/CBMiigVBVV95cUxOa2pGNmQ3YWR3dW5Pd3dQb0h4TktmTVBKUHlsalNZY2xIdWdrVTgzTHAyVXh3ZlNPX2pzaU0xQjVWTF93NTZjT3J0ZjF1VTNJY1cybDRlWkZjRmVadHJURWMtTVNOLXZnYzBQeFM3UWRPTzczWk14SVBtSDQzRzk4RTFDV3dYTnFVZHBuZHV1MnVYUEtGbl82UFVuY3A2TG0yVEV2ZXJRdm80OFFKemVwcGRlZUtmTWNJRC1SMnk5dlF3aTFVemE2VTlGdnpTSUJ3SWlXUmNHOUR6MmJXekxKanlzQmlFSmRfMDUxZUI5V1A1SFhoRHRLYXd2b3hqU1ZfY0w5T0FHaFBRdmw5SHZ4VVloUVdfTTFWTGNCN1ljN2huMUVhekF4NGJyc3E0cU9yZl9aRmtHSDhiMHppZFhJWUhKLUtpMzIzQ1JtMUQ1OGUyVUptSWM4UE0zNmI3UmFsdU54NlRGUm95MUlzUWZwU2dZZTVBdS11ai1DLVp1RXRQdU5NN3JXTHQ1U3o3ZXpaeUZ5cWMwYXVHanpheFVzWlJ5OWFYRE9GUzZXNkpIY1ZENmxFaTNBalptM1daOFAxM1JDVVNNQXJLa3ltLVJYazJHS21zLVdTajRram5BbEZhVzlSeUkwWnFEMGttYnk1cTRkZ3RhejVlRDNHTDN2eDFPVGQ5VEJoaXlENEtQdnpfWExOM1RfLXg0RkZCTjJEV0JjNjBRTHZxNUZIRFFwTXNDNlhFS1laSDNuR1RtWk5lVTFZYVZYU3ZsWWhkaVdLUDlPTlVaa3dBa1J2SDFnRDItZERNWHg3THpFbms1YkQxcmJiRnVBMk5VNDVBeXJyUk9mMWZ6M2hRUQ?oc=5>
-
-### “不留名就没人记住你”，但美国总统也无权改州名
+### 宴会厅、“凯旋门”……特朗普的“改造华盛顿计划”不断加码
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-09-08 15:09
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFByY0VrNzFsQXA2cC1jTnZsX0dMQkJvd29rM1J4ZmZ4Z2pwTEV4d21mVnhtVlRMN294d05KQnctbUxCTk4wWFktVFR3ZEhpMUpYa3JHZEVqalFWQWYzNThvbWpWNS1sdmZxNXhvQzF5aDU0RGhLVmVkbg?oc=5>
+- 时间: 2026-09-08 16:46
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1FWG5KeU9pMjA0b09rRFQ5ajBTa2xVUVR5WU8xUHZoX3RmQm9DQmFTUGVjeW5iV0dMZkpFX0ZHSTFub0M0Qm9FRDN4UnpDV1RlV0p0b2lzNlJXdUh2U0NHZjVjcnJCZUFLblJoZ3FwZ1FublVCYmk0cQ?oc=5>
 
-### 冰岛召见了美国大使 此前特朗普发帖将冰岛等多国划入美国版图
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: rfi.fr
-- 时间: 2026-09-08 14:14
-- 链接: <https://news.google.com/rss/articles/CBMisANBVV95cUxQVV8wLXkxSF9YS1cxUndBSDlVWkxBX21pUGxfQk5fV0IzaHVVMzdVQkM2VTYyQlNWTXdKUVhzM2lWUTJsTFk4X0UzbnZ5b3NSZ3JYYlFRY0V5aXNNNWozU1QzTDF4ZE5fNlZtd0lCX0xUdzVybWZTNXA0Z2NZcUdxRzVzbG94MGNGMDBjbmp2N2tmU21RTThMbXpQQkpJVVExbzRFM1RfMmZpS3REWFYxdU9xWmx0MUhlc1N3VVN2VkJoQ1VnVTV0ME5waHNESF9ZdWhwb2lMNFlFVTNST2F2U0dWX2hmTV9jMWFPUUloVUdHNTFFSjBqbkt3OVdURFFXZkVSNUF5cjdvdTRwUjNVMGY1dkd2bnNBa08tSS1vRDdqdnphQVUxZTRCdk43bzFGczF3QjBiQUstOGc1OEY1UTRZRGNoOTVoMDI1UDdqYUVpV2dxanVJbldnNG9jMHhyeHp6c29va3lqUDdwM0R4MlFMd2JjamtQVFBxWmp3RVZpNEN0SVZTZ083aXRyTE5ueVhXX2lUN3YyOXZZM3RYX3RlN0tJUGI5cUpXdEhvWm4?oc=5>
-
-### 特朗普发图把冰岛等国划入美国，冰岛外交部召见美国大使
+### 泽连斯基预计9月中下旬与特朗普会面
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-08 14:41
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1hc0Z3R1NPUUptUnFjR0FRVFRFRElIWnp4U09hY3NFRF9EckZvRlVUOVJCMXRTb1Rqd1hOQmhVeVFUaVNBM3pPTlFWTnNVM1EtQ2FjQTNhWlpjXzRCV1o4ekhSRHRtWjJKMHFvVjJtS1pYRl9DdUU2Rw?oc=5>
+- 场馆: 新京报
+- 时间: 2026-09-08 09:06
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jcXZKdy1ZTHBTVGEtSDJRWnM2amRvZXF6cG41NlBIUWZrTVl5ZDRlekNMcXAxZGQ5U29jbldGRzd5WllSekN4cnc0VnNkcTMyNC1oenYtWWg4YVJFSWRidTlmeDY?oc=5>
 
-### 特朗普晒AI图谈炒股：“我已为美国赚取数千亿美元”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-09-07 14:00
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE5mYm12T3Mwekd1OGJQWHp0VkFSTUNRRTlPOUFjejZMVFlDcU4xOUxqcUZhN2FFSVpEeGZDTjJ2aFdacS00OTFiYQ?oc=5>
-
-### 特习会前美中战区司令会晤 为区域局势降温避免意外
+### 特习会可能影响美国大豆销售和中国无人机关税
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-09-08 12:54
-- 链接: <https://news.google.com/rss/articles/CBMivwFBVV95cUxNY0ZXM0Zud1UwVW02ZVp3Q1BzRk1DLUdET1l4SkJSY2pNaEthQ0dxUzhaek0wQmEtbTdBdzdGOHVNeDg2cXVxdUhvLWxITjVlZmVtdzBra1FEYzZQbnhqNkY5OUxkYURVMnI4cTNwcy1WNTdxTlo1ZmtqNm5jVUFLNzMyWE5YSDZTaUFEd1h0eUJjRVVQLVdzUDdzakN0N1dVdHdITTBPM3pnLTJuRFhMSFU2UG9WUTRxcTBpSjJiRdIBwgFBVV95cUxOaHNpR09iZ25VdUxyQm5vWVRmR2p1OFpxcDdvbjQzZ3RObExCaWFlLTFzUTc2Q3k0SDBJcEFvU0ROZVZxM19YNGk1djNpZW5QUGx3TXlCRXRRREh0Ynp5MkJOZjllRFVQR2wwd3k3aV9iVGZicXFIcTctd2h1b09pb3NfOTVpVm5QU202S21yaFhCTjVuTzJLeFBNQjY1czFBMTl6RlFoTloyWDZPYjVFenU3T2NDRFFSd2pTQWR3b3JXUQ?oc=5>
+- 场馆: RFI
+- 时间: 2026-09-08 19:09
+- 链接: <https://news.google.com/rss/articles/CBMi2wJBVV95cUxOZFlLS1d1bVlJTzBaNTRScnk0ejJ6c2U5T3pVUmlKcUg5VGxoZnBUblNhV0h1YVZueWVPZDNWdzZJdUx1WlRGSGRPYXI0ZkNkSng2NmRWNlR1cF9wZ01BZjdzQ1hCaHdOX2NySlVWc2FiaDlxQTJKeE1YS094VlVWMUF4UmlkLWkzUlFxQkpuZVJsYWJRVi1ETXpNY29MSEVSRHdfc0h5MFNsTXhfZ01QTWJFZ0JTQzlaRmlTaWhaeDNPMDlYcnBoX0VxUS1ReGRwOWxyMEhES0h1clY4Z3JtME9qc3pfY0ZvNW5nM1c0MTVuelhrZ3hyMTVnWjUwaC1Dcm9SYzd0LThfcExfbHVPTy10MWxfakxFUnlDLS1HWWJCbzlEWE9wQy1KSVNtdV9Cb1hfMDZnbnVfOXBkSE8zcmpZdEhVV0lfX1ctTkVCNmlHcFVfNExNY2VDSQ?oc=5>
 
-### 被特朗普纳入“美国版图” 冰岛召见美国大使
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-09-08 14:05
-- 链接: <https://news.google.com/rss/articles/CBMikwFBVV95cUxNLS14ZlZLWkppUnBGTUdmTzdBV09xdWJmLXZ4WVdaZ1BLN0xQdDVaU3FpLU8wMEpZQl8yaG9fQ281UHFZWF9oVG1MTmp3ZzRKa2xXbTdlLTNjdThIQ0lSQkE5ZFpQd2Q5SWFkX1c5ZXNHLUs4YUFvVm1LZGJLWUJSZy1UbXM1OXBuZElHWUJsUGFzcmc?oc=5>
-
-### 第474天：降息 +特朗普2.0 第595天
+### Trump在“9·11”活动上称：“美国比任何时候都更强大”
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-09-08 15:41
-- 链接: <https://news.google.com/rss/articles/CBMimgFBVV95cUxOYWVlYkR4d3RyX0VfLWpjQ2hLTk1NcVhNYkppVU5wY1M3XzdMQ0VGb1pyU0pXMV9iMTc4NzV2Z2h4UUZrbkFQYy1wQUd6TjNxakRQNDl1QkF3Qko0V1E4bGYtajViQ0ttYXhkUU1GWmp5QzRjQnV5elFSY2hwNGFfQS1hZUtfQkdrb2xmc0U1M3hrWEJmMWpadnlB?oc=5>
-
-### 千万“负”翁，拜登之子靠发币翻身？
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: PANews
-- 时间: 2026-09-08 12:36
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE55ei1uTGxOdGRzMUFPcmZLR0l4TldxZkZYbTJKdWpTbzFYQTlWSjg4d2F4aDBHOXUxd3o4SG8wX05QNktqSjRiaGFMSVpPOWwyRFVOOHotZGJxZEVkVWlWWThaQzVVdG94RTNtRkNVd2llNnh3SGs2VzVpc0tyX3c?oc=5>
+- 场馆: 아시아경제
+- 时间: 2026-09-08 17:55
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5WMEhnZVRzeWgzRnFYbFNPc2pxcjJNc3JIYmlQZm5sZ3ZZZ3J0YzdJNklEdWdzbHVOcTZIQXFldjRvLUtMMVpSWDUtcUxFX0VvTzVWVkNQNUlOSW85WDROWXBoWlk?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-08 19:46  (6 条)
+
+- **特朗普** | 俄罗斯：普京与特朗普进行了“坦诚”的通话 <https://news.google.com/rss/articles/CBMiakFVX3lxTFBtcUxDTUFqejN0cjBsVkpwOWh6MDJFLVlTYjRkN01mdGwwRjc0TG16SGJlOVNNRENPMzJnT2tTRU5xLXZ2VlYzMTF1cmVCeVpoaU9oZ0hKQmlGeXFrOTJxRERQS2F3OFBaVHc?oc=5>
+- **特朗普** | 俄方称普京与特朗普通话“富有建设性且非常坦诚” <https://news.google.com/rss/articles/CBMieEFVX3lxTE5CdDhaTG5QcUhKX2dmNjRyMURLbFE5anhhTWR4bzB2RUMxcm0tQ1NETVA1dFVWTGZwenZzZnZoczQxT0xhQ0pGS0l0NnJ3UXhYUk9NcjBHbnp1OS1ZVVJjbVZMaEl3YnhpRHpnNHdyak9JM2VlMDRuWg?oc=5>
+- **特朗普** | 宴会厅、“凯旋门”……特朗普的“改造华盛顿计划”不断加码 <https://news.google.com/rss/articles/CBMieEFVX3lxTE1FWG5KeU9pMjA0b09rRFQ5ajBTa2xVUVR5WU8xUHZoX3RmQm9DQmFTUGVjeW5iV0dMZkpFX0ZHSTFub0M0Qm9FRDN4UnpDV1RlV0p0b2lzNlJXdUh2U0NHZjVjcnJCZUFLblJoZ3FwZ1FublVCYmk0cQ?oc=5>
+- **特朗普** | 泽连斯基预计9月中下旬与特朗普会面 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jcXZKdy1ZTHBTVGEtSDJRWnM2amRvZXF6cG41NlBIUWZrTVl5ZDRlekNMcXAxZGQ5U29jbldGRzd5WllSekN4cnc0VnNkcTMyNC1oenYtWWg4YVJFSWRidTlmeDY?oc=5>
+- **Trump** | 特习会可能影响美国大豆销售和中国无人机关税 <https://news.google.com/rss/articles/CBMi2wJBVV95cUxOZFlLS1d1bVlJTzBaNTRScnk0ejJ6c2U5T3pVUmlKcUg5VGxoZnBUblNhV0h1YVZueWVPZDNWdzZJdUx1WlRGSGRPYXI0ZkNkSng2NmRWNlR1cF9wZ01BZjdzQ1hCaHdOX2NySlVWc2FiaDlxQTJKeE1YS094VlVWMUF4UmlkLWkzUlFxQkpuZVJsYWJRVi1ETXpNY29MSEVSRHdfc0h5MFNsTXhfZ01QTWJFZ0JTQzlaRmlTaWhaeDNPMDlYcnBoX0VxUS1ReGRwOWxyMEhES0h1clY4Z3JtME9qc3pfY0ZvNW5nM1c0MTVuelhrZ3hyMTVnWjUwaC1Dcm9SYzd0LThfcExfbHVPTy10MWxfakxFUnlDLS1HWWJCbzlEWE9wQy1KSVNtdV9Cb1hfMDZnbnVfOXBkSE8zcmpZdEhVV0lfX1ctTkVCNmlHcFVfNExNY2VDSQ?oc=5>
+- **Trump** | Trump在“9·11”活动上称：“美国比任何时候都更强大” <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5WMEhnZVRzeWgzRnFYbFNPc2pxcjJNc3JIYmlQZm5sZ3ZZZ3J0YzdJNklEdWdzbHVOcTZIQXFldjRvLUtMMVpSWDUtcUxFX0VvTzVWVkNQNUlOSW85WDROWXBoWlk?oc=5>
 
 ### 2026-09-08 16:59  (12 条)
 
