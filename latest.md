@@ -1,11 +1,11 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-09 19:57**
-- 本轮扫到 11439 条, 新增 **3** 条
+- 最近更新: **2026-09-09 22:16**
+- 本轮扫到 11445 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (6 条)
 
 ### 伊朗高官称德黑兰已做好激战准备 特朗普预计战争将在选举后结束
 
@@ -13,28 +13,61 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-09-09 19:43
-- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxNeWpRMlNwbnFxOEVHS0ozVHE4TDRNV0p4X1RCSXM2TTM2ZTkyWnJRWHRSY3NTajN5UmJUakMwMjliVzhMZ1FLY3dJMFlYV1ZYUXVSRjMzTWtzSnpHeDYwSTlyUGRFQWRISFlZYnZkOXVBT19hSnBReWkwYVBZckI1QTlwMTZ3bzQ2ejlzaTJOSQ?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE95dk91UG1YcEZxTHQ1SFk0QkxGVFJaMUhXZzdXeXpKaFN1TjFvUjc5cnVfdWxnYktnUjI5c3RtQnFvcllKZ251WFJSWjh6MHpzZWpxanFuWmszUXd0MXNvYV9IN2hBRmJlNzFyMkRkSVJrTHRGWmVic3BR?oc=5>
 
-### 11月美国中期选举前，共和党人在达拉斯召开代表大会
+### 特朗普：美伊战争将在中期选举后“立即结束”，油价也会大幅下跌
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-09-09 17:54
-- 链接: <https://news.google.com/rss/articles/CBMitwFBVV95cUxPZ04teFNQbGtwRVpDMElkdDdhTGhOYko2OGJFR2xOQmhTSVVYRnVTVkZaRi1MN21saUhLbGpVQWNyVjhDajRua3dwRWpYSndDRzFPcVkxdjIwb0ZTbU9EaGRQRjJZSFpBMHlxTzlxUE02aGoyVmdsSXpjNHZFOTFoRWFpUEU0cWFJM3JBakczcnc5ZUFtdFI3QXBVbndNd3hWNjlVTVlsU0tob2tQbFBZNDR6LWVhdWvSAboBQVVfeXFMTlFnZGNNMlVzV0xiaUZTYTRaWmJaU0t2ZnVLdzgzb1RaX3FwRktDa2VDVndHZnR6cTF6Y010SnEyVWRNNHo2Y05IeHYzTUxoZXoxR0dHNTYteVlBcU1zMDlVejRkVGxicG5jZEYySGhnVlRsdlpvU05GVEt4Vk11MXpUSEtELW5TSDRCRTE2bHJHX0czazAzd0FLV0JKSUxFSUhUdW9WR0dTZG9DUmJMb3lKT1o5TGFRWGRB?oc=5>
+- 场馆: RFI
+- 时间: 2026-09-09 21:31
+- 链接: <https://news.google.com/rss/articles/CBMipwNBVV95cUxPTVV3Q1FpSjdJR0N5MVF3M3h0LVEtaXRNTWllQ3hEUi10cU9sMUU5cDA3MklPbExydTBfWUtEVlJfZ1U5OWc2Wlp0M3JMM3o4aFREemZCWmlqNnBJYWFFbzNybExxa0UtNktrRVcyNE0zTG96VDNscEtJckpPUEtQZzRhVjJXa0hWWkpseTZ2TklRRmRrZWxaX1BCTHRtUGFnUGNBSVgtVTFlUWl3RzdUa215Q29qOGpHQklnTXI0QzVuYmdwT0RGeFRJV1ZVQXVSYWotUS03Z1JaTzhGMXBqeGlmSS1lUy1xYWFfcHQzazR2ODlZNTM1TWhaWlhWckU4OWZuUmE2ZWZiU1l2S1RsbUg4bVNScWxZY1hrZHJxd1ROSFo1YUE4Uzk1eVAyMVJCT0JPVS1rcF9Pak5OOWdNZVNQSWRGNzgtNFUxN0V3cTNmXzlXVWxSQkhxcDJjaUZYcmtrcUdGN1lKUDlObUFMeWNNZ3k4WE5EbTRkckt6OXJjOWpHalA3X1Zod0drbGFOWVdvTUFGa0daa2tnNGtOYlNvSTZYSnc?oc=5>
 
-### 4.5万美元“节日礼金”背后：谁是特朗普身边的“人体打印机”娜塔莉·哈普？
+### 9月10日外盘头条：特朗普预计战争将在选举后结束 苹果发布首款折叠屏iPhone 贝森特将长债回购规模扩至三倍
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-09-09 21:40
+- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYXN5djQxM3k4b0F1d0VfbXBTMkdjX2FtbDhyUF9Nc3dfdTZDYmRVVTdkckJWMTRPMWV5cUdKam9OdXJGeFo3LVlRQXRrb1lSUUNHcGdZRDVyNEtGZXJNWTUzUDF6SGEtb1VIZDNzU2gwLUQzVW8tYnVLWGduZDI3ZTM0emRSOG1CRk5nVGw0OXdrSFVUM01FSmx1eXZwZVpVV0o0NjhPYjBZUQ?oc=5>
+
+### 特朗普继续“炮轰”加拿大，再次称加总理为“州长”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-07 23:47
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxNUTZhWTU5YXRGYnpkV2FFMGlmeDRabUdfVHhOSjJpaUFhLXBKOXg1VFpyRDZQVUlPdzhEYS1UTXBlUGppOWJ6LW9zV2FBZzRuRnhjVzRwNUdSZDQ0WnQzeWE0R1RGbmMyVmxyVjNZWVFsd193WHZaUUVZREtzaDhaTW5tcGVOTk0?oc=5>
+
+### 冰岛总理对唐纳德·特朗普（Donald Trump）嘲笑他的国家主权感到愤怒
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 西雅图中文电台 Chinese Radio Seattle
-- 时间: 2026-09-09 18:14
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxNS3lSUHhrT0lEOVo4bWxGOEJmRENaYW5rcVg0c2tqUlZhUGRIWC1UaUcyQlVRWlZjdEloNkJVV084LUhiVkJYTldCSDhOQjN2b1ZXci1lblhheVZGSGdsYTFyTUVrOW4yQWtWeXRVZFE2M0k3OUd5YkhPVDJPeFp2XzVsRE5oQWdZSmlhdw?oc=5>
+- 场馆: VOI.ID
+- 时间: 2026-09-09 19:10
+- 链接: <https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5PSU9DRi1BLVFKVWlyMmZGdTFFR1RzZ0t1QVcxcGNZbW0xU3pLTXFUN1EwMW4zT1VyTWk5UjZmREt3UEXSAUJBVV95cUxQRUNyeVk0b3BvNFRHZkRhMGdoVW5INzd0R0ljZnJFZWcxc0tBRjJ1SG45a2VIcnZyMlhXdkZPUzJ4NWc?oc=5>
+
+### AIT处长：台海冲突对全球经济影响将大于二战，“特习会”是避免误判的契机
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-09-09 21:19
+- 链接: <https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSUNESjdRX0VOekJob3k4YnVyX09fLS1rbHQ5OWluRlhzLWVPR0hNdTFUT3NoZ3ZRVjMzOWNrQWMxeUtDemZQWU9VcnpManRxbFlYWG4zb2cwUmY5TDdkRVEwVGtXMXhsc01pNElKcTRTTWd6Mi02aFZDcWJWbW9qUFJCdWdsejdrRDBzY25OZTVyMVh6MFJPT0ZEdWtLS25NaFIwWmxzQ25tQlFGQ3hBeTdyalRlamc5QzUtYUl6dXFFODRlZk90S0Rrd0huQTlZQ0tLUlZEQkdlX0swTXdySkF6RdIB5gFBVV95cUxOdnBKSHVvZHFFQlZtVFVlQldMZmRqa3JBeDNIdFhjd3E1d3ROTEViNzd4Y2ZBUll3NmNqZjVuWjI3YzJTcVEyY1UtWVFrbkwyRDRyYUZhRXA1NHBTc0p3VjZCd1pzLVBYU1k0aE1FNUZ4aWUyd2libTBPR1RLQjhBaDZuNE42STM5akhVNEZYeFVmWDJqLWlYQUVfLWtFVlBfNmNrTXU2QjNnaEw2YmRfWWdEQXl1eXNFaGRid0U1WXBPb2NkUU5xSTJlUmVjUzR1T2ptb0ZVeGRtTUpaR3RIN0ZDVTgzUQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-09 22:16  (6 条)
+
+- **特朗普** | 伊朗高官称德黑兰已做好激战准备 特朗普预计战争将在选举后结束 <https://news.google.com/rss/articles/CBMiekFVX3lxTE95dk91UG1YcEZxTHQ1SFk0QkxGVFJaMUhXZzdXeXpKaFN1TjFvUjc5cnVfdWxnYktnUjI5c3RtQnFvcllKZ251WFJSWjh6MHpzZWpxanFuWmszUXd0MXNvYV9IN2hBRmJlNzFyMkRkSVJrTHRGWmVic3BR?oc=5>
+- **特朗普** | 特朗普：美伊战争将在中期选举后“立即结束”，油价也会大幅下跌 <https://news.google.com/rss/articles/CBMipwNBVV95cUxPTVV3Q1FpSjdJR0N5MVF3M3h0LVEtaXRNTWllQ3hEUi10cU9sMUU5cDA3MklPbExydTBfWUtEVlJfZ1U5OWc2Wlp0M3JMM3o4aFREemZCWmlqNnBJYWFFbzNybExxa0UtNktrRVcyNE0zTG96VDNscEtJckpPUEtQZzRhVjJXa0hWWkpseTZ2TklRRmRrZWxaX1BCTHRtUGFnUGNBSVgtVTFlUWl3RzdUa215Q29qOGpHQklnTXI0QzVuYmdwT0RGeFRJV1ZVQXVSYWotUS03Z1JaTzhGMXBqeGlmSS1lUy1xYWFfcHQzazR2ODlZNTM1TWhaWlhWckU4OWZuUmE2ZWZiU1l2S1RsbUg4bVNScWxZY1hrZHJxd1ROSFo1YUE4Uzk1eVAyMVJCT0JPVS1rcF9Pak5OOWdNZVNQSWRGNzgtNFUxN0V3cTNmXzlXVWxSQkhxcDJjaUZYcmtrcUdGN1lKUDlObUFMeWNNZ3k4WE5EbTRkckt6OXJjOWpHalA3X1Zod0drbGFOWVdvTUFGa0daa2tnNGtOYlNvSTZYSnc?oc=5>
+- **特朗普** | 9月10日外盘头条：特朗普预计战争将在选举后结束 苹果发布首款折叠屏iPhone 贝森特将长债回购规模扩至三倍 <https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYXN5djQxM3k4b0F1d0VfbXBTMkdjX2FtbDhyUF9Nc3dfdTZDYmRVVTdkckJWMTRPMWV5cUdKam9OdXJGeFo3LVlRQXRrb1lSUUNHcGdZRDVyNEtGZXJNWTUzUDF6SGEtb1VIZDNzU2gwLUQzVW8tYnVLWGduZDI3ZTM0emRSOG1CRk5nVGw0OXdrSFVUM01FSmx1eXZwZVpVV0o0NjhPYjBZUQ?oc=5>
+- **特朗普** | 特朗普继续“炮轰”加拿大，再次称加总理为“州长” <https://news.google.com/rss/articles/CBMihwFBVV95cUxNUTZhWTU5YXRGYnpkV2FFMGlmeDRabUdfVHhOSjJpaUFhLXBKOXg1VFpyRDZQVUlPdzhEYS1UTXBlUGppOWJ6LW9zV2FBZzRuRnhjVzRwNUdSZDQ0WnQzeWE0R1RGbmMyVmxyVjNZWVFsd193WHZaUUVZREtzaDhaTW5tcGVOTk0?oc=5>
+- **Trump** | 冰岛总理对唐纳德·特朗普（Donald Trump）嘲笑他的国家主权感到愤怒 <https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5PSU9DRi1BLVFKVWlyMmZGdTFFR1RzZ0t1QVcxcGNZbW0xU3pLTXFUN1EwMW4zT1VyTWk5UjZmREt3UEXSAUJBVV95cUxQRUNyeVk0b3BvNFRHZkRhMGdoVW5INzd0R0ljZnJFZWcxc0tBRjJ1SG45a2VIcnZyMlhXdkZPUzJ4NWc?oc=5>
+- **Trump** | AIT处长：台海冲突对全球经济影响将大于二战，“特习会”是避免误判的契机 <https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSUNESjdRX0VOekJob3k4YnVyX09fLS1rbHQ5OWluRlhzLWVPR0hNdTFUT3NoZ3ZRVjMzOWNrQWMxeUtDemZQWU9VcnpManRxbFlYWG4zb2cwUmY5TDdkRVEwVGtXMXhsc01pNElKcTRTTWd6Mi02aFZDcWJWbW9qUFJCdWdsejdrRDBzY25OZTVyMVh6MFJPT0ZEdWtLS25NaFIwWmxzQ25tQlFGQ3hBeTdyalRlamc5QzUtYUl6dXFFODRlZk90S0Rrd0huQTlZQ0tLUlZEQkdlX0swTXdySkF6RdIB5gFBVV95cUxOdnBKSHVvZHFFQlZtVFVlQldMZmRqa3JBeDNIdFhjd3E1d3ROTEViNzd4Y2ZBUll3NmNqZjVuWjI3YzJTcVEyY1UtWVFrbkwyRDRyYUZhRXA1NHBTc0p3VjZCd1pzLVBYU1k0aE1FNUZ4aWUyd2libTBPR1RLQjhBaDZuNE42STM5akhVNEZYeFVmWDJqLWlYQUVfLWtFVlBfNmNrTXU2QjNnaEw2YmRfWWdEQXl1eXNFaGRid0U1WXBPb2NkUU5xSTJlUmVjUzR1T2ptb0ZVeGRtTUpaR3RIN0ZDVTgzUQ?oc=5>
 
 ### 2026-09-09 19:57  (3 条)
 
