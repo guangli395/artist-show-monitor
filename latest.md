@@ -1,64 +1,109 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-09 00:24**
-- 本轮扫到 11403 条, 新增 **6** 条
+- 最近更新: **2026-09-09 04:57**
+- 本轮扫到 11413 条, 新增 **10** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (10 条)
 
-### 美媒：为何美国总是难以退出战争？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-09-07 02:37
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE5hel8xdlY4SlZCLXdjT0FkcWc1WUk0dExodXEzdkktX2NYNkp2a2dHbmdDZGVOMzM5aDFPZ0xrUkhzV3EwUTJCWUNuSnFfQVJPaWp6MHBxS2UxOGhPUHNmcFlKU2NwbHAyZFVQaF9nSk5vU1ND?oc=5>
-
-### 美军最大软肋曝光，特朗普怒火中烧，开始大规模抓内鬼
+### 特朗普总统出席9/11钢梁纵横美国纪念活动
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 风闻
-- 时间: 2026-09-08 23:30
-- 链接: <https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmdXlSY3BDbkhrOThEWXRLbUowZi05VjZTRjhFUzdsbFdvSU01bkt0SFYzVWdZS1cwMUhnTVl6UzlDVVAyYjdRTjhXZmVDeVBpbkVRMFIxTkRNTmM?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-09-09 03:00
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE5haFFtWC03R3M4ZmprbVhoQkE3dTU2eUl0WFB3eW5KVFgxMGc2amF2QmVvTi1DeXVpcVM1MzRvaFROblBwZElXZVBZXzRfalpGamo5VFoxZFh6YVBUbW9ZUG5nMjhGX25IbmRRU1RtclBLYnpGNUE?oc=5>
 
-### 特朗普与普京通话约一小时 克里姆林宫称两人的交流相当坦率
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-08 15:59
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYXBLWDFsNDVxV3JxZmxVNV9YcFdpUjI5cHU4WngxTW1XbWw0WGxBWmJDaW4tN043djZXNExuenItbHh5c2lyTjJ3S0Y0ZkNLWlhUVHRUWkRQb3B2c1BKVE41QWVQWXNuMkxHYkJOTThVNzZWTXVpaTFrbExJemlQV2s5cVdzWDVuSWtodGpSbnJ5X1hRajJ3Q2FiNlhMNXc5YUxrQktTZkRudGRPWmt6SVFKNDdqa0pvTE8zV0huZVBuZHRBVzlqLWtUTlJmQ0FZ?oc=5>
-
-### 普京与特朗普通电话1小时，详情披露
+### 共和党中期选举策略：还得靠特朗普
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-08 22:30
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBFZmRKT2gwcVB3eXZtLWFWQjBWUHV6ZW1DRHp6SVVTUVJUbU9aaVZmN0VCS2NmU3doRElCbmJ2WjdYS0xacVRpUnBZcXVGTUlXWjYtYmduNTVMLVZOTktVb2FOZnNXdlZ4cTRFdXVNY00tdTB4aXFMMA?oc=5>
+- 场馆: cn.wsj.com
+- 时间: 2026-09-09 02:46
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE9ONjRYTzkxMjJLak43Z1c0dnJtYlFpNWxwYWQ5bkFHS2dQaUVPOEdDaXVHWlAtcERfYWxRcUdHejkzWEJYQ3UxNXJLdlNqcmlNQXpDSXVRdHBXc3E0Zi1CYWFOdWZkekctdGUwVWNoM3BDQWc?oc=5>
 
-### 特朗普称将禁止加拿大企业获得美国政府合同
+### 安大略湖之后 特朗普再称将使新墨西哥州改名“新美国州”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 财新
+- 时间: 2026-09-08 10:43
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE12dFExM1ZxMGxjN2F2TDVhS1NNQ3AxNW9EUHFxblJySHpObDgzNk05SkdCeVowWHV2WVhCVEZpTnNMcDNOc00yVlozaGZCWnd6QjlkTDhldXNDV29TLVJPNnFmaTJuQ1RPUUE?oc=5>
+
+### 特朗普：加拿大产品将被排除出美国政府采购计划
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-09-08 22:21
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE5BeDFuTzg5WXVQUndXdlFGUTN3NVNTTVZTMmcxOExxRVZwNFIyTFhhY1JTX3RmN205aWlXWXN2VzRvc2VIeFU5dVZKaGVxaWJHbnpkTUFXQnNRMC1iYjVmOUNVUXhOQ1V2ODRiXzBiMzRDSDFEZ1JsLXd3V1U4eG8?oc=5>
+
+### 特朗普派特使连跑俄乌，是真想停战，还是另有所图？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-09-08 22:17
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE95T2t5RFZscWNCazFIay1fZjZMTHh5WmtleGwxaHAxZDNIazFxQVNvVGdrcmRFWEdMeE9nZVNGQXRpVi1Za1RmLXRYRQ?oc=5>
+
+### 特朗普发图把伊朗海军“送进海底” 数小时后美军MQ-1“捕食者”落地成盒
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 光明网
+- 时间: 2026-09-09 01:36
+- 链接: <https://news.google.com/rss/articles/CBMiX0FVX3lxTE51emtzV2JfZVd0QWR3TFlWaEloZTdmZGRsV3RUdFpsMjBVWkloeW5tYlNfT3UxbzU2YnhKc1FzaEdTQlo1T2RYODBIRjB2S1cxbXJ2NF8wQjVUMm5GV25z?oc=5>
+
+### 中国贸易顺差连续第四个月突破千亿美元
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-09-08 23:33
-- 链接: <https://news.google.com/rss/articles/CBMipAFBVV95cUxNT2pYb3pKSWxsR3h4dlBjYVFIZ3IybWQtbDNWS3VycWxMemhoTGNnMkd2aW9nQUd6alI5YlNaOVJXY1JJU05MQ09lLUtwR1lIZjNER0pvLTBKVnVDLXloU1NGRDdGRnYtNm56aWNRODVxZnNrNl9uNmNBbDZSc3RRNjdhdTFWUWRlSFhoeVBMR2R3ei1HSlZJU2JMZEZ3YktXNzBVRQ?oc=5>
+- 场馆: 纽约时报中文网
+- 时间: 2026-09-09 00:44
+- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTFBOT3RqU2ZmeVZCU09HZlhYblFIR09sY2xNS0NrdmxOc3ZsMm00dU4ybHdNaXlLZXBqSk9DWThMUGN6U2IwdFN1VWFhYTlQYkZnS0Z0dDNURndSLVpTSTI3cXNDV0hvMDZHVFlBbEdtVkVqRlNkRnZOdzR3?oc=5>
 
-### 加美贸易战：特朗普称限制政府采购加国货
+### RMB 100 billion? Bessent’s mysterious “market rescue trump card” to be revealed tonight; Wall Street on high alert!
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Radio-Canada
-- 时间: 2026-09-08 21:44
-- 链接: <https://news.google.com/rss/articles/CBMi1gJBVV95cUxPSXRKbXhJOXJ0U2xIT0VTWDNCMm9SUXFpSEJ5amdZaHZsNXFJamxqSW83cm9oX3VlRUprdkxCYk1VWUpXN21xM2hkbGFDZzRzaVJWTldJcDhNcFdNQmo3SC1na0NUb0FveUhzMDY4Y3h3TWRFdVlTWEtPS2xZNjMwcERxQWs5OVl1U21MWDZSV3daMHpqZENuWVVGZkdKMURqb2h5TXVqVG9pRmFxSGhiV2h5STR3ai16WUttWHV5ZzUxd3RPR1h5Z0tqYTQzbDI2VmFnUmtaUi15XzBET1hFMk5ZSDZHRmp3WW5LMno4RDRESUQ1eEVZODFjcEhrZm1DSUNDSE85YldwNHB4X1Q2ZEVnVHRLVjJveUFUcHNvelZnT29JUGZpUlN5Z1lKT2ctUGhEcWVXNWpQaTVNaVYwSHhOWFRncEp5dTRWdHFuLTRVZVVaeVE?oc=5>
+- 场馆: 富途牛牛
+- 时间: 2026-09-09 00:43
+- 链接: <https://news.google.com/rss/articles/CBMipAFBVV95cUxQSk5QMktEZ3JIcEpOTDR2RHh0VWRHN25VMUVpWTBBSHp2ZzRBNHlrY3ZDaGx0WEFoajl1SVlSQkx6UjdITXZ0YldEMnRkUE0wUGJMTE5uMGI0bWRGRVJTSHlnRml6eGNtSUhMUC1tYWlfdDJDSVFxdUpmRThGRUJ0ZlpaZlRkUGY1YTE2RXRTY2c2LTRnYk1CZG9IdkZZbGxmbWdWbQ?oc=5>
+
+### 加拿大应对Trump施压携手欧盟：“降低对美依赖”
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 아시아경제
+- 时间: 2026-09-09 01:57
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1URWd6ZTZSR2hZQ3pfX0cteUZMV0V4YU5Pa3pBUG1LMlV4VzA5dTVnUURZcXJ6RVRiLS03V2NHcHhmY2xkdDRSdlBfZ015alVoVDVwNlVsc0E5UEhsdE9LTUhnVkQ?oc=5>
+
+### Trump：“政府采购市场排除加拿大产品”……反制加拿大报复性关税- 阿视亚经济
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 아시아경제
+- 时间: 2026-09-08 22:56
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5iRkMyWmZyX1VjV0hhMk5YQ21XTlFsbnA1QVBPWFc5cjR2RlNvbDVuTTc2eDFzdWFDeGIyQXB6SGNHMFo1d1VOSjVzaHlJYXg3SkV5TVkxSVhzQkw4X291ZURkUlk?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-09 04:57  (10 条)
+
+- **特朗普** | 特朗普总统出席9/11钢梁纵横美国纪念活动 <https://news.google.com/rss/articles/CBMidkFVX3lxTE5haFFtWC03R3M4ZmprbVhoQkE3dTU2eUl0WFB3eW5KVFgxMGc2amF2QmVvTi1DeXVpcVM1MzRvaFROblBwZElXZVBZXzRfalpGamo5VFoxZFh6YVBUbW9ZUG5nMjhGX25IbmRRU1RtclBLYnpGNUE?oc=5>
+- **特朗普** | 共和党中期选举策略：还得靠特朗普 <https://news.google.com/rss/articles/CBMic0FVX3lxTE9ONjRYTzkxMjJLak43Z1c0dnJtYlFpNWxwYWQ5bkFHS2dQaUVPOEdDaXVHWlAtcERfYWxRcUdHejkzWEJYQ3UxNXJLdlNqcmlNQXpDSXVRdHBXc3E0Zi1CYWFOdWZkekctdGUwVWNoM3BDQWc?oc=5>
+- **特朗普** | 安大略湖之后 特朗普再称将使新墨西哥州改名“新美国州” <https://news.google.com/rss/articles/CBMiakFVX3lxTE12dFExM1ZxMGxjN2F2TDVhS1NNQ3AxNW9EUHFxblJySHpObDgzNk05SkdCeVowWHV2WVhCVEZpTnNMcDNOc00yVlozaGZCWnd6QjlkTDhldXNDV29TLVJPNnFmaTJuQ1RPUUE?oc=5>
+- **特朗普** | 特朗普：加拿大产品将被排除出美国政府采购计划 <https://news.google.com/rss/articles/CBMif0FVX3lxTE5BeDFuTzg5WXVQUndXdlFGUTN3NVNTTVZTMmcxOExxRVZwNFIyTFhhY1JTX3RmN205aWlXWXN2VzRvc2VIeFU5dVZKaGVxaWJHbnpkTUFXQnNRMC1iYjVmOUNVUXhOQ1V2ODRiXzBiMzRDSDFEZ1JsLXd3V1U4eG8?oc=5>
+- **特朗普** | 特朗普派特使连跑俄乌，是真想停战，还是另有所图？ <https://news.google.com/rss/articles/CBMiS0FVX3lxTE95T2t5RFZscWNCazFIay1fZjZMTHh5WmtleGwxaHAxZDNIazFxQVNvVGdrcmRFWEdMeE9nZVNGQXRpVi1Za1RmLXRYRQ?oc=5>
+- **特朗普** | 特朗普发图把伊朗海军“送进海底” 数小时后美军MQ-1“捕食者”落地成盒 <https://news.google.com/rss/articles/CBMiX0FVX3lxTE51emtzV2JfZVd0QWR3TFlWaEloZTdmZGRsV3RUdFpsMjBVWkloeW5tYlNfT3UxbzU2YnhKc1FzaEdTQlo1T2RYODBIRjB2S1cxbXJ2NF8wQjVUMm5GV25z?oc=5>
+- **Trump** | 中国贸易顺差连续第四个月突破千亿美元 <https://news.google.com/rss/articles/CBMiekFVX3lxTFBOT3RqU2ZmeVZCU09HZlhYblFIR09sY2xNS0NrdmxOc3ZsMm00dU4ybHdNaXlLZXBqSk9DWThMUGN6U2IwdFN1VWFhYTlQYkZnS0Z0dDNURndSLVpTSTI3cXNDV0hvMDZHVFlBbEdtVkVqRlNkRnZOdzR3?oc=5>
+- **Trump** | RMB 100 billion? Bessent’s mysterious “market rescue trump card” to be revealed tonight; Wall Street on high alert! <https://news.google.com/rss/articles/CBMipAFBVV95cUxQSk5QMktEZ3JIcEpOTDR2RHh0VWRHN25VMUVpWTBBSHp2ZzRBNHlrY3ZDaGx0WEFoajl1SVlSQkx6UjdITXZ0YldEMnRkUE0wUGJMTE5uMGI0bWRGRVJTSHlnRml6eGNtSUhMUC1tYWlfdDJDSVFxdUpmRThGRUJ0ZlpaZlRkUGY1YTE2RXRTY2c2LTRnYk1CZG9IdkZZbGxmbWdWbQ?oc=5>
+- **Trump** | 加拿大应对Trump施压携手欧盟：“降低对美依赖” <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1URWd6ZTZSR2hZQ3pfX0cteUZMV0V4YU5Pa3pBUG1LMlV4VzA5dTVnUURZcXJ6RVRiLS03V2NHcHhmY2xkdDRSdlBfZ015alVoVDVwNlVsc0E5UEhsdE9LTUhnVkQ?oc=5>
+- **Trump** | Trump：“政府采购市场排除加拿大产品”……反制加拿大报复性关税- 阿视亚经济 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5iRkMyWmZyX1VjV0hhMk5YQ21XTlFsbnA1QVBPWFc5cjR2RlNvbDVuTTc2eDFzdWFDeGIyQXB6SGNHMFo1d1VOSjVzaHlJYXg3SkV5TVkxSVhzQkw4X291ZURkUlk?oc=5>
 
 ### 2026-09-09 00:24  (6 条)
 
