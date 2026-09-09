@@ -1,64 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-09 17:28**
-- 本轮扫到 11436 条, 新增 **6** 条
+- 最近更新: **2026-09-09 19:57**
+- 本轮扫到 11439 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (3 条)
 
-### 史无前例，特朗普私下给三位年轻女幕僚每人4.5万美元现金
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者
-- 时间: 2026-09-09 14:05
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE80WGdMZVFxRGJRY2J1T2pRSXl5b3IwV01CWkRPYVRlejhrY2dEVXZFYXJLZ0R5cy1jRUhDeTM5MkhidXpWV0d4enB4TlAwMkY5X1dpUzE4UUwyQXI4OGxCY0NFSzZQQmNxZ2c?oc=5>
-
-### 史无前例！特朗普给3名年轻女幕僚各赠送4.5万美元现金，接近4个月薪水
+### 伊朗高官称德黑兰已做好激战准备 特朗普预计战争将在选举后结束
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-09-09 13:56
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE14eXJMWDF0eGFQMzlEVGFTVDB6a0ZxeS1OTjRxV3BnZU9WcnJjMUZmZEVQWXpnemhCZTY2OVZPOEdXSFdUR3k3OWVBMThqdWhSb1dnUEczSlB4TXo1LVhhaFFnRkFENUZhNGdHSFF3YmZXUmxkSk5ITA?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-09-09 19:43
+- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxNeWpRMlNwbnFxOEVHS0ozVHE4TDRNV0p4X1RCSXM2TTM2ZTkyWnJRWHRSY3NTajN5UmJUakMwMjliVzhMZ1FLY3dJMFlYV1ZYUXVSRjMzTWtzSnpHeDYwSTlyUGRFQWRISFlZYnZkOXVBT19hSnBReWkwYVBZckI1QTlwMTZ3bzQ2ejlzaTJOSQ?oc=5>
 
-### 特朗普“接管”中期选举？共和党开始一场高风险豪赌！-市场参考
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 金十数据
-- 时间: 2026-09-09 15:00
-- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTFBBN1VhNl9KNjZxUWxYYXp3a19URTJMNUtzZUdZTkNoN0s5Vl96MzZxZTBkYi01Z0FpUi1fbGpHTFQyTmI5YTg4ZEJNLTJXOUk?oc=5>
-
-### “这绝非玩笑”：冰岛谴责特朗普发布将本国划入美国国旗版图的帖文
+### 11月美国中期选举前，共和党人在达拉斯召开代表大会
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-09-09 09:03
-- 链接: <https://news.google.com/rss/articles/CBMi4AFBVV95cUxNd1dESkFyNkZoWnBrR0Nfd3oxemUzUnA1V245YkEtMXpISEV4TXhqOXFTQXlHcmthMmR2djRhWmZOWE04ckVuamZMenRBUVR1SU9ZNUVnWXJzd0RqSEJuNGVlZHMtTF92aW1iWHQtMFpYODBLVlpHdHdpRHJ4LTVRV1BIZjg1dWxrWlJNenI1VHp6V182N0JnS29NejJpc1FUUFNxUzVheW1ReVFlQ0xoU3lwamttVDlEaXM3bXBGNVZPVXBmSXNZcjdyaHhVWlc2WjRXRVV2akNObkZhTjk2cw?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-09-09 17:54
+- 链接: <https://news.google.com/rss/articles/CBMitwFBVV95cUxPZ04teFNQbGtwRVpDMElkdDdhTGhOYko2OGJFR2xOQmhTSVVYRnVTVkZaRi1MN21saUhLbGpVQWNyVjhDajRua3dwRWpYSndDRzFPcVkxdjIwb0ZTbU9EaGRQRjJZSFpBMHlxTzlxUE02aGoyVmdsSXpjNHZFOTFoRWFpUEU0cWFJM3JBakczcnc5ZUFtdFI3QXBVbndNd3hWNjlVTVlsU0tob2tQbFBZNDR6LWVhdWvSAboBQVVfeXFMTlFnZGNNMlVzV0xiaUZTYTRaWmJaU0t2ZnVLdzgzb1RaX3FwRktDa2VDVndHZnR6cTF6Y010SnEyVWRNNHo2Y05IeHYzTUxoZXoxR0dHNTYteVlBcU1zMDlVejRkVGxicG5jZEYySGhnVlRsdlpvU05GVEt4Vk11MXpUSEtELW5TSDRCRTE2bHJHX0czazAzd0FLV0JKSUxFSUhUdW9WR0dTZG9DUmJMb3lKT1o5TGFRWGRB?oc=5>
 
-### Trump nói về Kursk
+### 4.5万美元“节日礼金”背后：谁是特朗普身边的“人体打印机”娜塔莉·哈普？
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Vietnam.vn
-- 时间: 2026-09-09 04:33
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4N1E0ZEhhLUlfdHZKRWJzUlViWHNtZTMzelBtdEUwQ2MyX0J2YktJQ19LVHZMUVdod0V6VTdZUEY5QmI3RDZKYjcxSmNlMHAwMjdXdGdWc1VrSG5Td2NoMQ?oc=5>
-
-### 特朗普逼美联储降息，沃什却可能反其道而行：下周会议面临“三选一”
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 富途牛牛
-- 时间: 2026-09-09 11:16
-- 链接: <https://news.google.com/rss/articles/CBMilgFBVV95cUxNY3dXNGRqWGFkRURHdWI4V2x1QWlIZURZM1dvVXh2a1p2THN2QkZYQmkwbVpGT1dwVUkwR01Kd2pzeEwzYnowQWhEbnpZSDd1bG1xaXJWekRxYjdjY09aYTlLNUZUZThHS2lfdjJfVXZ1endLMnZTZE1rZHRSeFdNLUthaS1rZURsTU1qRVI2MXJMSnh1T3c?oc=5>
+- 场馆: 西雅图中文电台 Chinese Radio Seattle
+- 时间: 2026-09-09 18:14
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxNS3lSUHhrT0lEOVo4bWxGOEJmRENaYW5rcVg0c2tqUlZhUGRIWC1UaUcyQlVRWlZjdEloNkJVV084LUhiVkJYTldCSDhOQjN2b1ZXci1lblhheVZGSGdsYTFyTUVrOW4yQWtWeXRVZFE2M0k3OUd5YkhPVDJPeFp2XzVsRE5oQWdZSmlhdw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-09 19:57  (3 条)
+
+- **特朗普** | 伊朗高官称德黑兰已做好激战准备 特朗普预计战争将在选举后结束 <https://news.google.com/rss/articles/CBMijwFBVV95cUxNeWpRMlNwbnFxOEVHS0ozVHE4TDRNV0p4X1RCSXM2TTM2ZTkyWnJRWHRSY3NTajN5UmJUakMwMjliVzhMZ1FLY3dJMFlYV1ZYUXVSRjMzTWtzSnpHeDYwSTlyUGRFQWRISFlZYnZkOXVBT19hSnBReWkwYVBZckI1QTlwMTZ3bzQ2ejlzaTJOSQ?oc=5>
+- **特朗普** | 11月美国中期选举前，共和党人在达拉斯召开代表大会 <https://news.google.com/rss/articles/CBMitwFBVV95cUxPZ04teFNQbGtwRVpDMElkdDdhTGhOYko2OGJFR2xOQmhTSVVYRnVTVkZaRi1MN21saUhLbGpVQWNyVjhDajRua3dwRWpYSndDRzFPcVkxdjIwb0ZTbU9EaGRQRjJZSFpBMHlxTzlxUE02aGoyVmdsSXpjNHZFOTFoRWFpUEU0cWFJM3JBakczcnc5ZUFtdFI3QXBVbndNd3hWNjlVTVlsU0tob2tQbFBZNDR6LWVhdWvSAboBQVVfeXFMTlFnZGNNMlVzV0xiaUZTYTRaWmJaU0t2ZnVLdzgzb1RaX3FwRktDa2VDVndHZnR6cTF6Y010SnEyVWRNNHo2Y05IeHYzTUxoZXoxR0dHNTYteVlBcU1zMDlVejRkVGxicG5jZEYySGhnVlRsdlpvU05GVEt4Vk11MXpUSEtELW5TSDRCRTE2bHJHX0czazAzd0FLV0JKSUxFSUhUdW9WR0dTZG9DUmJMb3lKT1o5TGFRWGRB?oc=5>
+- **Trump** | 4.5万美元“节日礼金”背后：谁是特朗普身边的“人体打印机”娜塔莉·哈普？ <https://news.google.com/rss/articles/CBMijAFBVV95cUxNS3lSUHhrT0lEOVo4bWxGOEJmRENaYW5rcVg0c2tqUlZhUGRIWC1UaUcyQlVRWlZjdEloNkJVV084LUhiVkJYTldCSDhOQjN2b1ZXci1lblhheVZGSGdsYTFyTUVrOW4yQWtWeXRVZFE2M0k3OUd5YkhPVDJPeFp2XzVsRE5oQWdZSmlhdw?oc=5>
 
 ### 2026-09-09 17:28  (6 条)
 
