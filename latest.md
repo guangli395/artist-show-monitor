@@ -1,88 +1,73 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-09 13:48**
-- 本轮扫到 11430 条, 新增 **9** 条
+- 最近更新: **2026-09-09 17:28**
+- 本轮扫到 11436 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (9 条)
+## 本轮新发现 (6 条)
 
-### 特朗普石油投资在伊朗战争期间获利数百万美元，其投资账户持续进行交易
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-09 11:56
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxPa1BkTk4xZDhrWTNqMmNFVVduTlR0Z1o0SUdCdjROcnVpMGRmenIxT3AtYnItenpNemlMSnExMUpDNURkS0ZYeVFvaTU3cFg1aFhMWlRwVGdmSFA0R2JnS09jRUJtdGdmTHlNeFFzVHVqdlZNbWRDSjRxSzJtaVlmRDRuX2w3OUk?oc=5>
-
-### 特朗普，迎来两个坏消息
+### 史无前例，特朗普私下给三位年轻女幕僚每人4.5万美元现金
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-09-08 23:39
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5LTjhMZzIzN0J5cFhlZDcyOHJVVmZIXzlDeDRCQWFZYmJZR1ZkcEhZdTJMMmdIN2s5Z2FtdHRGNFRXeDhXNmdQZXE1NGc?oc=5>
+- 场馆: 观察者
+- 时间: 2026-09-09 14:05
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE80WGdMZVFxRGJRY2J1T2pRSXl5b3IwV01CWkRPYVRlejhrY2dEVXZFYXJLZ0R5cy1jRUhDeTM5MkhidXpWV0d4enB4TlAwMkY5X1dpUzE4UUwyQXI4OGxCY0NFSzZQQmNxZ2c?oc=5>
 
-### 特朗普政府未反对英国等国涉以制裁，暴露对以失望
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-09-09 07:20
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBYNzhGWlZxZGR4UWlHakE1Wk5KaVBwcG1oRzhjVHVMN21aU1BadDNWanVROUVVTHpfV2R4SjhYSS1QeVJmajVWREVjNEU?oc=5>
-
-### 特朗普与普京通话细节披露 讨论特使访问成果
+### 史无前例！特朗普给3名年轻女幕僚各赠送4.5万美元现金，接近4个月薪水
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-09-09 05:08
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5aRXFzYmFxekhCazNEX2c4MHZYckt2VEFPaHc5UFZOM21udWdkcEhVdi1QbXdOcEpoNXpmMFNlMm5SZEZtdTVzdzYwR0VqTUFpdjJ3SnFQeGJsX3BNbXZWb253azVlSnp3YV9BUjZaUk4?oc=5>
+- 场馆: finance.sina.com.cn
+- 时间: 2026-09-09 13:56
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE14eXJMWDF0eGFQMzlEVGFTVDB6a0ZxeS1OTjRxV3BnZU9WcnJjMUZmZEVQWXpnemhCZTY2OVZPOEdXSFdUR3k3OWVBMThqdWhSb1dnUEczSlB4TXo1LVhhaFFnRkFENUZhNGdHSFF3YmZXUmxkSk5ITA?oc=5>
 
-### Trump Signs Orders to Ban Some Canadian Products From U.S. Market -- WSJ
+### 特朗普“接管”中期选举？共和党开始一场高风险豪赌！-市场参考
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 金十数据
+- 时间: 2026-09-09 15:00
+- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTFBBN1VhNl9KNjZxUWxYYXp3a19URTJMNUtzZUdZTkNoN0s5Vl96MzZxZTBkYi01Z0FpUi1fbGpHTFQyTmI5YTg4ZEJNLTJXOUk?oc=5>
+
+### “这绝非玩笑”：冰岛谴责特朗普发布将本国划入美国国旗版图的帖文
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: finance.sina.com.cn
+- 时间: 2026-09-09 09:03
+- 链接: <https://news.google.com/rss/articles/CBMi4AFBVV95cUxNd1dESkFyNkZoWnBrR0Nfd3oxemUzUnA1V245YkEtMXpISEV4TXhqOXFTQXlHcmthMmR2djRhWmZOWE04ckVuamZMenRBUVR1SU9ZNUVnWXJzd0RqSEJuNGVlZHMtTF92aW1iWHQtMFpYODBLVlpHdHdpRHJ4LTVRV1BIZjg1dWxrWlJNenI1VHp6V182N0JnS29NejJpc1FUUFNxUzVheW1ReVFlQ0xoU3lwamttVDlEaXM3bXBGNVZPVXBmSXNZcjdyaHhVWlc2WjRXRVV2akNObkZhTjk2cw?oc=5>
+
+### Trump nói về Kursk
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-09-09 11:12
-- 链接: <https://news.google.com/rss/articles/CBMipgFBVV95cUxQTUQyVlRpdWpOc0EyZXBmTGVpVmtEUS1KbGpqOHBKSmVBTkF6OUh6bHgza0lUMHFoSWdvamQwTEkxQ2Z5b3VBeDloMXl1QXVjY1N2UElQQklwQ0NZU3RwazhCbUpwdVI3OGJOODR2ZXQ0dGVKYUFNUFVVN3VOMHJLeTBvbF8tSVo2Q2cwX2Z3SHF0WjdSNDZBbF9jUGl4eEk3ZE5yU0lB?oc=5>
+- 场馆: Vietnam.vn
+- 时间: 2026-09-09 04:33
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4N1E0ZEhhLUlfdHZKRWJzUlViWHNtZTMzelBtdEUwQ2MyX0J2YktJQ19LVHZMUVdod0V6VTdZUEY5QmI3RDZKYjcxSmNlMHAwMjdXdGdWc1VrSG5Td2NoMQ?oc=5>
 
-### 习近平访美的国内政治账二十一大前的权力展示– 普通话主页
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Radio Free Asia
-- 时间: 2026-09-09 10:05
-- 链接: <https://news.google.com/rss/articles/CBMiywFBVV95cUxQZGlHM2hBWHBmWEUzQlJmUW5ydDFZdHBZZ2NZZldOMnlYY1d3Snl6dWI2VXYtbTZHYXA2V1V6aWNUeVd4WnBEbE9xVXdfUGRCRG5GN3dkZVZyRVFYeE9EZFhXMXVvcVktcWt1ZnEzQ2s0OTB3cmNRaGlXUHU5Nk13U0VrY3hvbWIwOGxBam5BMnNCZkptTDZRVDVPeXQ4RVFzclhVTUhOeHZLMjM0d1NlcnpNbnVhRTU0N0diNFB2UW9TUXloYlRzamVjTQ?oc=5>
-
-### 关税最终将让加拿大人和美国人付出多少代价？
+### 特朗普逼美联储降息，沃什却可能反其道而行：下周会议面临“三选一”
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-09-09 08:37
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE8ySXFmVDBJUWpoYkVIVnR6TzdNRWNuVlRxZGZpd3hURllBOGEyVEw0UWhxbVVUTVhBTF93dzRaMkc2dWF3NWY5dzNWVlpRMVdXNktKb1gzdG9NV2tLRTJMaXk5R29oUdIBa0FVX3lxTE14YzdlaVA0WkFiLTNmMWJKbzBYNlJtd3RKa05na2s2ZThBblQ1NWxxaXpGa01mZENsTFZqYTMtV0ZKT2JiVkJHSGRBM3lKajlDeldvZ1VlOWt4NmdJdWdydl9EcnhGMU1yaGU0?oc=5>
-
-### Charles III无视晕倒员工？Trump分享“歪曲剪辑视频”引争议- 阿视亚经济
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 아시아경제
-- 时间: 2026-09-09 10:36
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBYWDh0TjBfVlFEMEl4b0JOamNVZ2N2eGFGRXJUd1psTGdPY2VyMy1UNGhrcWtYbWh1WUpsbVVzdzVTX2hGMlkzR05pZ2lLVmpFeTJGT2lhM0w0X0xYajJCQ09IbkQ?oc=5>
-
-### “安抚毯”也收了6000万韩元……Trump向女性幕僚送“惊喜礼物”
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 아시아경제
-- 时间: 2026-09-09 06:04
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tc0NMWDg4Q0s1ZVJ0TEV1ZEhNZ2hRbGk3azVqOEVvZVp4RmkwWklReVVyZzk5MlF3VlZCOGtjZzJja2RMcjVEVkE5d1pRU1VDQWhfZW5IWFdQeXllYW9kWUprcGM?oc=5>
+- 场馆: 富途牛牛
+- 时间: 2026-09-09 11:16
+- 链接: <https://news.google.com/rss/articles/CBMilgFBVV95cUxNY3dXNGRqWGFkRURHdWI4V2x1QWlIZURZM1dvVXh2a1p2THN2QkZYQmkwbVpGT1dwVUkwR01Kd2pzeEwzYnowQWhEbnpZSDd1bG1xaXJWekRxYjdjY09aYTlLNUZUZThHS2lfdjJfVXZ1endLMnZTZE1rZHRSeFdNLUthaS1rZURsTU1qRVI2MXJMSnh1T3c?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-09 17:28  (6 条)
+
+- **特朗普** | 史无前例，特朗普私下给三位年轻女幕僚每人4.5万美元现金 <https://news.google.com/rss/articles/CBMiakFVX3lxTE80WGdMZVFxRGJRY2J1T2pRSXl5b3IwV01CWkRPYVRlejhrY2dEVXZFYXJLZ0R5cy1jRUhDeTM5MkhidXpWV0d4enB4TlAwMkY5X1dpUzE4UUwyQXI4OGxCY0NFSzZQQmNxZ2c?oc=5>
+- **特朗普** | 史无前例！特朗普给3名年轻女幕僚各赠送4.5万美元现金，接近4个月薪水 <https://news.google.com/rss/articles/CBMieEFVX3lxTE14eXJMWDF0eGFQMzlEVGFTVDB6a0ZxeS1OTjRxV3BnZU9WcnJjMUZmZEVQWXpnemhCZTY2OVZPOEdXSFdUR3k3OWVBMThqdWhSb1dnUEczSlB4TXo1LVhhaFFnRkFENUZhNGdHSFF3YmZXUmxkSk5ITA?oc=5>
+- **特朗普** | 特朗普“接管”中期选举？共和党开始一场高风险豪赌！-市场参考 <https://news.google.com/rss/articles/CBMiT0FVX3lxTFBBN1VhNl9KNjZxUWxYYXp3a19URTJMNUtzZUdZTkNoN0s5Vl96MzZxZTBkYi01Z0FpUi1fbGpHTFQyTmI5YTg4ZEJNLTJXOUk?oc=5>
+- **特朗普** | “这绝非玩笑”：冰岛谴责特朗普发布将本国划入美国国旗版图的帖文 <https://news.google.com/rss/articles/CBMi4AFBVV95cUxNd1dESkFyNkZoWnBrR0Nfd3oxemUzUnA1V245YkEtMXpISEV4TXhqOXFTQXlHcmthMmR2djRhWmZOWE04ckVuamZMenRBUVR1SU9ZNUVnWXJzd0RqSEJuNGVlZHMtTF92aW1iWHQtMFpYODBLVlpHdHdpRHJ4LTVRV1BIZjg1dWxrWlJNenI1VHp6V182N0JnS29NejJpc1FUUFNxUzVheW1ReVFlQ0xoU3lwamttVDlEaXM3bXBGNVZPVXBmSXNZcjdyaHhVWlc2WjRXRVV2akNObkZhTjk2cw?oc=5>
+- **Trump** | Trump nói về Kursk <https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4N1E0ZEhhLUlfdHZKRWJzUlViWHNtZTMzelBtdEUwQ2MyX0J2YktJQ19LVHZMUVdod0V6VTdZUEY5QmI3RDZKYjcxSmNlMHAwMjdXdGdWc1VrSG5Td2NoMQ?oc=5>
+- **Trump** | 特朗普逼美联储降息，沃什却可能反其道而行：下周会议面临“三选一” <https://news.google.com/rss/articles/CBMilgFBVV95cUxNY3dXNGRqWGFkRURHdWI4V2x1QWlIZURZM1dvVXh2a1p2THN2QkZYQmkwbVpGT1dwVUkwR01Kd2pzeEwzYnowQWhEbnpZSDd1bG1xaXJWekRxYjdjY09aYTlLNUZUZThHS2lfdjJfVXZ1endLMnZTZE1rZHRSeFdNLUthaS1rZURsTU1qRVI2MXJMSnh1T3c?oc=5>
 
 ### 2026-09-09 13:48  (9 条)
 
