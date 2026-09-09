@@ -1,96 +1,91 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-09 04:57**
-- 本轮扫到 11413 条, 新增 **10** 条
+- 最近更新: **2026-09-09 09:24**
+- 本轮扫到 11421 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (10 条)
+## 本轮新发现 (8 条)
 
-### 特朗普总统出席9/11钢梁纵横美国纪念活动
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-09-09 03:00
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE5haFFtWC03R3M4ZmprbVhoQkE3dTU2eUl0WFB3eW5KVFgxMGc2amF2QmVvTi1DeXVpcVM1MzRvaFROblBwZElXZVBZXzRfalpGamo5VFoxZFh6YVBUbW9ZUG5nMjhGX25IbmRRU1RtclBLYnpGNUE?oc=5>
-
-### 共和党中期选举策略：还得靠特朗普
+### 为普及电动车，美国加州与特朗普玩起“猫鼠游戏”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: cn.wsj.com
-- 时间: 2026-09-09 02:46
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE9ONjRYTzkxMjJLak43Z1c0dnJtYlFpNWxwYWQ5bkFHS2dQaUVPOEdDaXVHWlAtcERfYWxRcUdHejkzWEJYQ3UxNXJLdlNqcmlNQXpDSXVRdHBXc3E0Zi1CYWFOdWZkekctdGUwVWNoM3BDQWc?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-09-09 08:55
+- 链接: <https://news.google.com/rss/articles/CBMipwFBVV95cUxOa0VrMGpZM3ZBeEllNHREMXVGZExSY1U0NUE0WnFLemVUNEtjUzExR2JPQWVQRFItalZYQk1UTUNnNnJGVDFsMnVHUE1IM2hCcXVvR0trNm1pZUFkQjJVdG5xTUtzdXh2Mk1PMGFvUUphVnM3SmZuakloZmpYYkdZX2tEUDZDYU13Z3U5ZElaaEUyNGhrdExvTXJwYThORHJtZ3BhdW55SQ?oc=5>
 
-### 安大略湖之后 特朗普再称将使新墨西哥州改名“新美国州”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财新
-- 时间: 2026-09-08 10:43
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE12dFExM1ZxMGxjN2F2TDVhS1NNQ3AxNW9EUHFxblJySHpObDgzNk05SkdCeVowWHV2WVhCVEZpTnNMcDNOc00yVlozaGZCWnd6QjlkTDhldXNDV29TLVJPNnFmaTJuQ1RPUUE?oc=5>
-
-### 特朗普：加拿大产品将被排除出美国政府采购计划
+### “这绝非玩笑”：冰岛谴责特朗普发布将本国划入美国国旗版图的帖文
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-09-08 22:21
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE5BeDFuTzg5WXVQUndXdlFGUTN3NVNTTVZTMmcxOExxRVZwNFIyTFhhY1JTX3RmN205aWlXWXN2VzRvc2VIeFU5dVZKaGVxaWJHbnpkTUFXQnNRMC1iYjVmOUNVUXhOQ1V2ODRiXzBiMzRDSDFEZ1JsLXd3V1U4eG8?oc=5>
+- 场馆: finance.sina.com.cn
+- 时间: 2026-09-09 09:03
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxPbGhTSlFNR1NSX29sMGNldTk0STNCZEZZRWxSYzBxcnJoT2dMTnlzdGRfeU05V18xNzJ2aUE1cUMzX2J1RTI4eWV6dkZaNkdNSnREYUI2RzRhSjNHMUtNSG9LTmRtTXMwamp4dGI4LUdad3JtVUdXdlpQSkdNR01JcFV2NlQ4cDQ?oc=5>
 
-### 特朗普派特使连跑俄乌，是真想停战，还是另有所图？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-09-08 22:17
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE95T2t5RFZscWNCazFIay1fZjZMTHh5WmtleGwxaHAxZDNIazFxQVNvVGdrcmRFWEdMeE9nZVNGQXRpVi1Za1RmLXRYRQ?oc=5>
-
-### 特朗普发图把伊朗海军“送进海底” 数小时后美军MQ-1“捕食者”落地成盒
+### 美媒：特朗普政府未反对英国等国涉以制裁，暴露对以失望
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 光明网
-- 时间: 2026-09-09 01:36
-- 链接: <https://news.google.com/rss/articles/CBMiX0FVX3lxTE51emtzV2JfZVd0QWR3TFlWaEloZTdmZGRsV3RUdFpsMjBVWkloeW5tYlNfT3UxbzU2YnhKc1FzaEdTQlo1T2RYODBIRjB2S1cxbXJ2NF8wQjVUMm5GV25z?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-09-09 07:27
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE92TzZNeGgzdWVHWTlXX2hROVRtS1RVLVR5OEwxbWtEbzV6d2hDeFNjdWFRVTFULU16TFpHMHB2LXZkcFNJbmo2ZFE0VW9qNjB2cjNnYXVMakNNSzhPbGtpM2tpajNEUmlKdWJNZTVaQVFsVFFFUk1sSQ?oc=5>
 
-### 中国贸易顺差连续第四个月突破千亿美元
+### 美加贸易战升级！外媒：特朗普的“输赢二元论”背离现实
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-09-09 06:53
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5MNFlodWFJekc3NzROYlprT2xOVVc2eGZ6QXM4ZDJKcTBBdFBvZFZyTEhCT1hNTklTVkRQUEhKcVpSYnJzTGhULU55bUZGdzAwTmI4U1U5WUFQV2NfY0UyU01Eal9PUTBpYUdyVjRnT0lfVmtTdjF2Tg?oc=5>
+
+### 特朗普去年圣诞节向娜塔莉·哈普等三名助手各赠送4.5万美元礼金
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-09-09 06:48
+- 链接: <https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRTJ4dVFOS19NV0xIX0ZwVEI0N21tVUlBbmlfb0piV2o3RW1XRTlmNm1QTzM0LXk2MlJ3dXBxWDFHWnRWdE8wMGhRd2UyRjJja0tkbmk4WHJ5TFFsS09MZXhfOUkxYWFQY3hHY2VHUzQ0TkVidk5uUEIxQ1M1T2pOZkYyNW1JVi1zZHNuaWNNSzRUODhRX0JjT0NFWjZWMmxyU29IUkNMbVo?oc=5>
+
+### 习近平同美国总统特朗普参观天坛
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中国驻芝加哥总领事馆
+- 时间: 2026-09-09 01:30
+- 链接: <https://news.google.com/rss/articles/CBMihAFBVV95cUxQbzhheUt0X0pMcFQxUHQ2Rm5XMXZPaHBwSWFjOUUyNGtUZEtIWjNKV1JZM3VjSDVhT1dqcUp1SHhoVFg2UWtjLTRMWm56UFNfY1FtWXJPTlVjRVh4TWc2UzlDRDQzZXZ6aTZsd3JrQ29wTTFXOFVYR0RGeFVHTDk3QlN2ZUc?oc=5>
+
+### 特朗普政府反制加拿大，对酒类等禁运
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 日经中文网
+- 时间: 2026-09-09 06:32
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLVZWLUhvSTZCYldaaDRybW1uS0hhWGJLTTNyZjJ5eEg1TmxhOU1kQUM3ZHJKb3pkSjVlWVV1MFhYVzV2UUFoUGJTcEdSQkxCUS1aeDRIVldxMGtKY0F4Sm14VnoxVEx1X1VmdkRLNENpTmdPOFJHZDZ4RXIxWHVkNTBIN19WTWlw?oc=5>
+
+### 亨特·拜登在周三发布会前为笔记本电脑辩护，称特朗普为“敛财者”
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-09-09 00:44
-- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTFBOT3RqU2ZmeVZCU09HZlhYblFIR09sY2xNS0NrdmxOc3ZsMm00dU4ybHdNaXlLZXBqSk9DWThMUGN6U2IwdFN1VWFhYTlQYkZnS0Z0dDNURndSLVpTSTI3cXNDV0hvMDZHVFlBbEdtVkVqRlNkRnZOdzR3?oc=5>
-
-### RMB 100 billion? Bessent’s mysterious “market rescue trump card” to be revealed tonight; Wall Street on high alert!
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 富途牛牛
-- 时间: 2026-09-09 00:43
-- 链接: <https://news.google.com/rss/articles/CBMipAFBVV95cUxQSk5QMktEZ3JIcEpOTDR2RHh0VWRHN25VMUVpWTBBSHp2ZzRBNHlrY3ZDaGx0WEFoajl1SVlSQkx6UjdITXZ0YldEMnRkUE0wUGJMTE5uMGI0bWRGRVJTSHlnRml6eGNtSUhMUC1tYWlfdDJDSVFxdUpmRThGRUJ0ZlpaZlRkUGY1YTE2RXRTY2c2LTRnYk1CZG9IdkZZbGxmbWdWbQ?oc=5>
-
-### 加拿大应对Trump施压携手欧盟：“降低对美依赖”
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 아시아경제
-- 时间: 2026-09-09 01:57
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1URWd6ZTZSR2hZQ3pfX0cteUZMV0V4YU5Pa3pBUG1LMlV4VzA5dTVnUURZcXJ6RVRiLS03V2NHcHhmY2xkdDRSdlBfZ015alVoVDVwNlVsc0E5UEhsdE9LTUhnVkQ?oc=5>
-
-### Trump：“政府采购市场排除加拿大产品”……反制加拿大报复性关税- 阿视亚经济
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 아시아경제
-- 时间: 2026-09-08 22:56
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5iRkMyWmZyX1VjV0hhMk5YQ21XTlFsbnA1QVBPWFc5cjR2RlNvbDVuTTc2eDFzdWFDeGIyQXB6SGNHMFo1d1VOSjVzaHlJYXg3SkV5TVkxSVhzQkw4X291ZURkUlk?oc=5>
+- 场馆: CoinDesk
+- 时间: 2026-09-09 05:22
+- 链接: <https://news.google.com/rss/articles/CBMivAFBVV95cUxQN1RHNkRHdGhNZkxLZGduNFA3bnJPVURES01ENUtZa1U1X3lRVkVJM2gyRDN4NjhqejQxS3p1Y2pGRHRGSWZIdkVpV1ppWGtZcDk3RDRqbXNERWRQR2JXV3hMTTU2YzVzdHdPWS1mdEo0MC1TQUJYLUE4a0hlX1haVnJRSUJtQkhqMFpiU2lQWmN1MC1WQ2RVblU5eXg2cmhOU0dxajJNU0h5OXBaNTJWelM3NE5DaVJ2MGZUSg?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-09 09:24  (8 条)
+
+- **特朗普** | 为普及电动车，美国加州与特朗普玩起“猫鼠游戏” <https://news.google.com/rss/articles/CBMipwFBVV95cUxOa0VrMGpZM3ZBeEllNHREMXVGZExSY1U0NUE0WnFLemVUNEtjUzExR2JPQWVQRFItalZYQk1UTUNnNnJGVDFsMnVHUE1IM2hCcXVvR0trNm1pZUFkQjJVdG5xTUtzdXh2Mk1PMGFvUUphVnM3SmZuakloZmpYYkdZX2tEUDZDYU13Z3U5ZElaaEUyNGhrdExvTXJwYThORHJtZ3BhdW55SQ?oc=5>
+- **特朗普** | “这绝非玩笑”：冰岛谴责特朗普发布将本国划入美国国旗版图的帖文 <https://news.google.com/rss/articles/CBMihwFBVV95cUxPbGhTSlFNR1NSX29sMGNldTk0STNCZEZZRWxSYzBxcnJoT2dMTnlzdGRfeU05V18xNzJ2aUE1cUMzX2J1RTI4eWV6dkZaNkdNSnREYUI2RzRhSjNHMUtNSG9LTmRtTXMwamp4dGI4LUdad3JtVUdXdlpQSkdNR01JcFV2NlQ4cDQ?oc=5>
+- **特朗普** | 美媒：特朗普政府未反对英国等国涉以制裁，暴露对以失望 <https://news.google.com/rss/articles/CBMieEFVX3lxTE92TzZNeGgzdWVHWTlXX2hROVRtS1RVLVR5OEwxbWtEbzV6d2hDeFNjdWFRVTFULU16TFpHMHB2LXZkcFNJbmo2ZFE0VW9qNjB2cjNnYXVMakNNSzhPbGtpM2tpajNEUmlKdWJNZTVaQVFsVFFFUk1sSQ?oc=5>
+- **特朗普** | 美加贸易战升级！外媒：特朗普的“输赢二元论”背离现实 <https://news.google.com/rss/articles/CBMieEFVX3lxTE5MNFlodWFJekc3NzROYlprT2xOVVc2eGZ6QXM4ZDJKcTBBdFBvZFZyTEhCT1hNTklTVkRQUEhKcVpSYnJzTGhULU55bUZGdzAwTmI4U1U5WUFQV2NfY0UyU01Eal9PUTBpYUdyVjRnT0lfVmtTdjF2Tg?oc=5>
+- **特朗普** | 特朗普去年圣诞节向娜塔莉·哈普等三名助手各赠送4.5万美元礼金 <https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRTJ4dVFOS19NV0xIX0ZwVEI0N21tVUlBbmlfb0piV2o3RW1XRTlmNm1QTzM0LXk2MlJ3dXBxWDFHWnRWdE8wMGhRd2UyRjJja0tkbmk4WHJ5TFFsS09MZXhfOUkxYWFQY3hHY2VHUzQ0TkVidk5uUEIxQ1M1T2pOZkYyNW1JVi1zZHNuaWNNSzRUODhRX0JjT0NFWjZWMmxyU29IUkNMbVo?oc=5>
+- **特朗普** | 习近平同美国总统特朗普参观天坛 <https://news.google.com/rss/articles/CBMihAFBVV95cUxQbzhheUt0X0pMcFQxUHQ2Rm5XMXZPaHBwSWFjOUUyNGtUZEtIWjNKV1JZM3VjSDVhT1dqcUp1SHhoVFg2UWtjLTRMWm56UFNfY1FtWXJPTlVjRVh4TWc2UzlDRDQzZXZ6aTZsd3JrQ29wTTFXOFVYR0RGeFVHTDk3QlN2ZUc?oc=5>
+- **特朗普** | 特朗普政府反制加拿大，对酒类等禁运 <https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLVZWLUhvSTZCYldaaDRybW1uS0hhWGJLTTNyZjJ5eEg1TmxhOU1kQUM3ZHJKb3pkSjVlWVV1MFhYVzV2UUFoUGJTcEdSQkxCUS1aeDRIVldxMGtKY0F4Sm14VnoxVEx1X1VmdkRLNENpTmdPOFJHZDZ4RXIxWHVkNTBIN19WTWlw?oc=5>
+- **Trump** | 亨特·拜登在周三发布会前为笔记本电脑辩护，称特朗普为“敛财者” <https://news.google.com/rss/articles/CBMivAFBVV95cUxQN1RHNkRHdGhNZkxLZGduNFA3bnJPVURES01ENUtZa1U1X3lRVkVJM2gyRDN4NjhqejQxS3p1Y2pGRHRGSWZIdkVpV1ppWGtZcDk3RDRqbXNERWRQR2JXV3hMTTU2YzVzdHdPWS1mdEo0MC1TQUJYLUE4a0hlX1haVnJRSUJtQkhqMFpiU2lQWmN1MC1WQ2RVblU5eXg2cmhOU0dxajJNU0h5OXBaNTJWelM3NE5DaVJ2MGZUSg?oc=5>
 
 ### 2026-09-09 04:57  (10 条)
 
