@@ -1,72 +1,73 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-08 22:16**
-- 本轮扫到 11397 条, 新增 **7** 条
+- 最近更新: **2026-09-09 00:24**
+- 本轮扫到 11403 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (6 条)
 
-### 特朗普总统：“绝不允许”伊朗拥有核武器
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-09-08 22:06
-- 链接: <https://news.google.com/rss/articles/CBMiswFBVV95cUxQSGlJME96b0FtSTdqc0FhTTU1anVxOXcwTTBHQTB2dm0yZ2RFS3pnc2xVNUliRVg5aS1PakdEUUZHTW12cWRIQlhLa2U2MUVOSzBZRUR6T0JhakJFYS1TZUI3bDl1aEphc0FhUmxQTWRBUEFFYW5vQ2tma1FDaC1pUEI2ME9iTHptaWowM0gxMjc0bldnaUIwZUdPeTRXOU5tbUlLLWJFNDRET0tJRmZDWGNyWdIBtgFBVV95cUxPaDJyenlWMlNMODlVWGNvXzViWjN6bkNESERQZTB1SnFUQTVndVY4T0s3S0J0MGkzWWhSRU1rU3V6Z3ZraFJkMXl3T1FWRWFNYXM3NWJveHRwd2I1ZlUteVNWRF8yRDdZSURsTE9yWS1vMHIwbVRnazdMUGNFRUkwY1VJRUVfaHVhWGFiZkJTMl9ZZ2wtSEl4bW01alMwWWZxUWt4S1EwcHNSckRMQ3ZjOHJyNmxjQQ?oc=5>
-
-### 普京与特朗普通话讨论乌克兰战争 泽连斯基称俄乌美三方或于本月会谈
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: rfi.fr
-- 时间: 2026-09-08 21:36
-- 链接: <https://news.google.com/rss/articles/CBMi1ANBVV95cUxPNU4xMUJMVFVrZURaU01GbDJNWXozUllFNHJ4RXVXZFBVYXdvVzdNejljSjlqNTB4aV9VN21kM3FhOFpzcUV5c0FBSHFtWDNSRkN5NzRSY3BWZGpsS1NpbGNpcGxpWnFjb0h2Zm5JWHVJWU1SWnQ1elBZMHdDNGY3RngyUmNGekI1dC1QTlcwTzA5N3J2emd3WU1ZOTJyMWMwWkdLU0hRN3BkbHdGVmVGbGNhR3pWRmhIbmRTeWsyTHVuRFBLVlBWbmNEWUMxQU9yNWlJZjFTemJ5ZElXNnRpUVNKNi1FdE9QY2tzaXZZdkZHYlBnSnYtSFJOMnFXMjdmRUdxLUktNXZOQkxXOWptaV9vOTVheUdPVWJSNHVlU1NFcExyVjZYQlRRUW5GYVgybUNfSHRxUUtQT01YcnZKbHBwaEN6eUNWaE1yaWtMWjZkX0liVldTZWdJREZyQlRlM1BRYUJPd2xnMmZDNEZsMHRhazN1ZU5QbTVzUkp5d3pUOW5UajVGa0ZfcHR3WFlZdjlRWUc5Q1EwdVZMR1hsUElKN3FPdHh4aG9rcXVmTnphMDNZaHFORVJmel9iY0NlSHgyeUo4YWVYUklVcUhNOU1CUTc?oc=5>
-
-### 俄方称普京与特朗普一小时通话“富有建设性且非常坦诚”，希望恢复三方谈判
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-09-08 19:37
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFB4SWY3aWJWVWk5ZDREaFg5MG1RV3RaS0F3dkVEVExyTkdOeTJ2OEVwM0Z6LTZiQmNkd0RPQ3Njck56NlBnU1p6WjQ3Q2czUTNEaXFqRHRrMGhudWE0RDVUSlZrbjFRenBQZTlueWtWaFBkcThEZUZhcw?oc=5>
-
-### 特朗普和普京打了一小时电话，双方讨论了乌克兰危机等问题
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-08 15:24
-- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE45YlBWQW1IcEVZN2J6VENPN0VWUDFKR3FVbWY1c3RpWWdpenJNMExMVlFNVE54dGdmbHhtY3o5ZnZJZ2VhU0RaNTVxWVNTMjU3WkIxcF9MdWhLM0U4Skw4VUQ3YVVCTThXZENRU2ZPQU9fUkxwWGdndWw2QmtFQQ?oc=5>
-
-### 被特朗普“圈入美国版图”，冰岛成为“美国第52个州”？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-09-08 19:37
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBZeGFwX1NULTgxc2x0NXlPOE5nMmtxV1kteHItQzZhS1RwYzBxODhzaFhydFBnZ3hTekdlQjBlT0FKdXgweW1hYjhqNzAzTVlKSXRWZzRMTlgxVUJkUlNhVFdBdHFrclRZbjJFZnZvbzh2ZzV4Z09GNA?oc=5>
-
-### 20个主权国家，被“划入”美国版图
+### 美媒：为何美国总是难以退出战争？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-09-08 18:00
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTFB2djYzanNhZEVQLVMzbTU3WE1HTHRyWDJzR0gxS1FYcnhRZU5RX0tveHFXNFhzY2U4cnJvMi1Qc3M3ZlRuQ1FiZEg5dzI4U0tmYUttUmg4d1FIaC1jNk1lMDVxVXo5VHM2dTctSWlIMURwdnFZ?oc=5>
+- 时间: 2026-09-07 02:37
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE5hel8xdlY4SlZCLXdjT0FkcWc1WUk0dExodXEzdkktX2NYNkp2a2dHbmdDZGVOMzM5aDFPZ0xrUkhzV3EwUTJCWUNuSnFfQVJPaWp6MHBxS2UxOGhPUHNmcFlKU2NwbHAyZFVQaF9nSk5vU1ND?oc=5>
 
-### 泽连斯基称希望本月会晤特朗普，争取获得防空装备
+### 美军最大软肋曝光，特朗普怒火中烧，开始大规模抓内鬼
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-09-08 09:43
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zS2Zja3lJWDE4NTJmcmtrdWRFNkZ5SnlrSlowTTh3TUlETjEySThMQUd5bzVlRWFHamdlRDdzZmNMTGpEQTdGRFVWUHBaaXhHX0Mxa2x6Yk1PQ3V2UnV0eDl4blQwMmJF?oc=5>
+- 场馆: 风闻
+- 时间: 2026-09-08 23:30
+- 链接: <https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmdXlSY3BDbkhrOThEWXRLbUowZi05VjZTRjhFUzdsbFdvSU01bkt0SFYzVWdZS1cwMUhnTVl6UzlDVVAyYjdRTjhXZmVDeVBpbkVRMFIxTkRNTmM?oc=5>
+
+### 特朗普与普京通话约一小时 克里姆林宫称两人的交流相当坦率
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-08 15:59
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYXBLWDFsNDVxV3JxZmxVNV9YcFdpUjI5cHU4WngxTW1XbWw0WGxBWmJDaW4tN043djZXNExuenItbHh5c2lyTjJ3S0Y0ZkNLWlhUVHRUWkRQb3B2c1BKVE41QWVQWXNuMkxHYkJOTThVNzZWTXVpaTFrbExJemlQV2s5cVdzWDVuSWtodGpSbnJ5X1hRajJ3Q2FiNlhMNXc5YUxrQktTZkRudGRPWmt6SVFKNDdqa0pvTE8zV0huZVBuZHRBVzlqLWtUTlJmQ0FZ?oc=5>
+
+### 普京与特朗普通电话1小时，详情披露
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-08 22:30
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBFZmRKT2gwcVB3eXZtLWFWQjBWUHV6ZW1DRHp6SVVTUVJUbU9aaVZmN0VCS2NmU3doRElCbmJ2WjdYS0xacVRpUnBZcXVGTUlXWjYtYmduNTVMLVZOTktVb2FOZnNXdlZ4cTRFdXVNY00tdTB4aXFMMA?oc=5>
+
+### 特朗普称将禁止加拿大企业获得美国政府合同
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-09-08 23:33
+- 链接: <https://news.google.com/rss/articles/CBMipAFBVV95cUxNT2pYb3pKSWxsR3h4dlBjYVFIZ3IybWQtbDNWS3VycWxMemhoTGNnMkd2aW9nQUd6alI5YlNaOVJXY1JJU05MQ09lLUtwR1lIZjNER0pvLTBKVnVDLXloU1NGRDdGRnYtNm56aWNRODVxZnNrNl9uNmNBbDZSc3RRNjdhdTFWUWRlSFhoeVBMR2R3ei1HSlZJU2JMZEZ3YktXNzBVRQ?oc=5>
+
+### 加美贸易战：特朗普称限制政府采购加国货
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Radio-Canada
+- 时间: 2026-09-08 21:44
+- 链接: <https://news.google.com/rss/articles/CBMi1gJBVV95cUxPSXRKbXhJOXJ0U2xIT0VTWDNCMm9SUXFpSEJ5amdZaHZsNXFJamxqSW83cm9oX3VlRUprdkxCYk1VWUpXN21xM2hkbGFDZzRzaVJWTldJcDhNcFdNQmo3SC1na0NUb0FveUhzMDY4Y3h3TWRFdVlTWEtPS2xZNjMwcERxQWs5OVl1U21MWDZSV3daMHpqZENuWVVGZkdKMURqb2h5TXVqVG9pRmFxSGhiV2h5STR3ai16WUttWHV5ZzUxd3RPR1h5Z0tqYTQzbDI2VmFnUmtaUi15XzBET1hFMk5ZSDZHRmp3WW5LMno4RDRESUQ1eEVZODFjcEhrZm1DSUNDSE85YldwNHB4X1Q2ZEVnVHRLVjJveUFUcHNvelZnT29JUGZpUlN5Z1lKT2ctUGhEcWVXNWpQaTVNaVYwSHhOWFRncEp5dTRWdHFuLTRVZVVaeVE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-09 00:24  (6 条)
+
+- **特朗普** | 美媒：为何美国总是难以退出战争？ <https://news.google.com/rss/articles/CBMidEFVX3lxTE5hel8xdlY4SlZCLXdjT0FkcWc1WUk0dExodXEzdkktX2NYNkp2a2dHbmdDZGVOMzM5aDFPZ0xrUkhzV3EwUTJCWUNuSnFfQVJPaWp6MHBxS2UxOGhPUHNmcFlKU2NwbHAyZFVQaF9nSk5vU1ND?oc=5>
+- **特朗普** | 美军最大软肋曝光，特朗普怒火中烧，开始大规模抓内鬼 <https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmdXlSY3BDbkhrOThEWXRLbUowZi05VjZTRjhFUzdsbFdvSU01bkt0SFYzVWdZS1cwMUhnTVl6UzlDVVAyYjdRTjhXZmVDeVBpbkVRMFIxTkRNTmM?oc=5>
+- **特朗普** | 特朗普与普京通话约一小时 克里姆林宫称两人的交流相当坦率 <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYXBLWDFsNDVxV3JxZmxVNV9YcFdpUjI5cHU4WngxTW1XbWw0WGxBWmJDaW4tN043djZXNExuenItbHh5c2lyTjJ3S0Y0ZkNLWlhUVHRUWkRQb3B2c1BKVE41QWVQWXNuMkxHYkJOTThVNzZWTXVpaTFrbExJemlQV2s5cVdzWDVuSWtodGpSbnJ5X1hRajJ3Q2FiNlhMNXc5YUxrQktTZkRudGRPWmt6SVFKNDdqa0pvTE8zV0huZVBuZHRBVzlqLWtUTlJmQ0FZ?oc=5>
+- **特朗普** | 普京与特朗普通电话1小时，详情披露 <https://news.google.com/rss/articles/CBMieEFVX3lxTFBFZmRKT2gwcVB3eXZtLWFWQjBWUHV6ZW1DRHp6SVVTUVJUbU9aaVZmN0VCS2NmU3doRElCbmJ2WjdYS0xacVRpUnBZcXVGTUlXWjYtYmduNTVMLVZOTktVb2FOZnNXdlZ4cTRFdXVNY00tdTB4aXFMMA?oc=5>
+- **Trump** | 特朗普称将禁止加拿大企业获得美国政府合同 <https://news.google.com/rss/articles/CBMipAFBVV95cUxNT2pYb3pKSWxsR3h4dlBjYVFIZ3IybWQtbDNWS3VycWxMemhoTGNnMkd2aW9nQUd6alI5YlNaOVJXY1JJU05MQ09lLUtwR1lIZjNER0pvLTBKVnVDLXloU1NGRDdGRnYtNm56aWNRODVxZnNrNl9uNmNBbDZSc3RRNjdhdTFWUWRlSFhoeVBMR2R3ei1HSlZJU2JMZEZ3YktXNzBVRQ?oc=5>
+- **Trump** | 加美贸易战：特朗普称限制政府采购加国货 <https://news.google.com/rss/articles/CBMi1gJBVV95cUxPSXRKbXhJOXJ0U2xIT0VTWDNCMm9SUXFpSEJ5amdZaHZsNXFJamxqSW83cm9oX3VlRUprdkxCYk1VWUpXN21xM2hkbGFDZzRzaVJWTldJcDhNcFdNQmo3SC1na0NUb0FveUhzMDY4Y3h3TWRFdVlTWEtPS2xZNjMwcERxQWs5OVl1U21MWDZSV3daMHpqZENuWVVGZkdKMURqb2h5TXVqVG9pRmFxSGhiV2h5STR3ai16WUttWHV5ZzUxd3RPR1h5Z0tqYTQzbDI2VmFnUmtaUi15XzBET1hFMk5ZSDZHRmp3WW5LMno4RDRESUQ1eEVZODFjcEhrZm1DSUNDSE85YldwNHB4X1Q2ZEVnVHRLVjJveUFUcHNvelZnT29JUGZpUlN5Z1lKT2ctUGhEcWVXNWpQaTVNaVYwSHhOWFRncEp5dTRWdHFuLTRVZVVaeVE?oc=5>
 
 ### 2026-09-08 22:16  (7 条)
 
