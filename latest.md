@@ -1,80 +1,100 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-09 09:24**
-- 本轮扫到 11421 条, 新增 **8** 条
+- 最近更新: **2026-09-09 13:48**
+- 本轮扫到 11430 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (9 条)
 
-### 为普及电动车，美国加州与特朗普玩起“猫鼠游戏”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-09-09 08:55
-- 链接: <https://news.google.com/rss/articles/CBMipwFBVV95cUxOa0VrMGpZM3ZBeEllNHREMXVGZExSY1U0NUE0WnFLemVUNEtjUzExR2JPQWVQRFItalZYQk1UTUNnNnJGVDFsMnVHUE1IM2hCcXVvR0trNm1pZUFkQjJVdG5xTUtzdXh2Mk1PMGFvUUphVnM3SmZuakloZmpYYkdZX2tEUDZDYU13Z3U5ZElaaEUyNGhrdExvTXJwYThORHJtZ3BhdW55SQ?oc=5>
-
-### “这绝非玩笑”：冰岛谴责特朗普发布将本国划入美国国旗版图的帖文
+### 特朗普石油投资在伊朗战争期间获利数百万美元，其投资账户持续进行交易
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-09-09 09:03
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxPbGhTSlFNR1NSX29sMGNldTk0STNCZEZZRWxSYzBxcnJoT2dMTnlzdGRfeU05V18xNzJ2aUE1cUMzX2J1RTI4eWV6dkZaNkdNSnREYUI2RzRhSjNHMUtNSG9LTmRtTXMwamp4dGI4LUdad3JtVUdXdlpQSkdNR01JcFV2NlQ4cDQ?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-09-09 11:56
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxPa1BkTk4xZDhrWTNqMmNFVVduTlR0Z1o0SUdCdjROcnVpMGRmenIxT3AtYnItenpNemlMSnExMUpDNURkS0ZYeVFvaTU3cFg1aFhMWlRwVGdmSFA0R2JnS09jRUJtdGdmTHlNeFFzVHVqdlZNbWRDSjRxSzJtaVlmRDRuX2w3OUk?oc=5>
 
-### 美媒：特朗普政府未反对英国等国涉以制裁，暴露对以失望
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-09-09 07:27
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE92TzZNeGgzdWVHWTlXX2hROVRtS1RVLVR5OEwxbWtEbzV6d2hDeFNjdWFRVTFULU16TFpHMHB2LXZkcFNJbmo2ZFE0VW9qNjB2cjNnYXVMakNNSzhPbGtpM2tpajNEUmlKdWJNZTVaQVFsVFFFUk1sSQ?oc=5>
-
-### 美加贸易战升级！外媒：特朗普的“输赢二元论”背离现实
+### 特朗普，迎来两个坏消息
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-09-09 06:53
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5MNFlodWFJekc3NzROYlprT2xOVVc2eGZ6QXM4ZDJKcTBBdFBvZFZyTEhCT1hNTklTVkRQUEhKcVpSYnJzTGhULU55bUZGdzAwTmI4U1U5WUFQV2NfY0UyU01Eal9PUTBpYUdyVjRnT0lfVmtTdjF2Tg?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-09-08 23:39
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5LTjhMZzIzN0J5cFhlZDcyOHJVVmZIXzlDeDRCQWFZYmJZR1ZkcEhZdTJMMmdIN2s5Z2FtdHRGNFRXeDhXNmdQZXE1NGc?oc=5>
 
-### 特朗普去年圣诞节向娜塔莉·哈普等三名助手各赠送4.5万美元礼金
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-09-09 06:48
-- 链接: <https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRTJ4dVFOS19NV0xIX0ZwVEI0N21tVUlBbmlfb0piV2o3RW1XRTlmNm1QTzM0LXk2MlJ3dXBxWDFHWnRWdE8wMGhRd2UyRjJja0tkbmk4WHJ5TFFsS09MZXhfOUkxYWFQY3hHY2VHUzQ0TkVidk5uUEIxQ1M1T2pOZkYyNW1JVi1zZHNuaWNNSzRUODhRX0JjT0NFWjZWMmxyU29IUkNMbVo?oc=5>
-
-### 习近平同美国总统特朗普参观天坛
+### 特朗普政府未反对英国等国涉以制裁，暴露对以失望
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中国驻芝加哥总领事馆
-- 时间: 2026-09-09 01:30
-- 链接: <https://news.google.com/rss/articles/CBMihAFBVV95cUxQbzhheUt0X0pMcFQxUHQ2Rm5XMXZPaHBwSWFjOUUyNGtUZEtIWjNKV1JZM3VjSDVhT1dqcUp1SHhoVFg2UWtjLTRMWm56UFNfY1FtWXJPTlVjRVh4TWc2UzlDRDQzZXZ6aTZsd3JrQ29wTTFXOFVYR0RGeFVHTDk3QlN2ZUc?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-09-09 07:20
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBYNzhGWlZxZGR4UWlHakE1Wk5KaVBwcG1oRzhjVHVMN21aU1BadDNWanVROUVVTHpfV2R4SjhYSS1QeVJmajVWREVjNEU?oc=5>
 
-### 特朗普政府反制加拿大，对酒类等禁运
+### 特朗普与普京通话细节披露 讨论特使访问成果
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 日经中文网
-- 时间: 2026-09-09 06:32
-- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLVZWLUhvSTZCYldaaDRybW1uS0hhWGJLTTNyZjJ5eEg1TmxhOU1kQUM3ZHJKb3pkSjVlWVV1MFhYVzV2UUFoUGJTcEdSQkxCUS1aeDRIVldxMGtKY0F4Sm14VnoxVEx1X1VmdkRLNENpTmdPOFJHZDZ4RXIxWHVkNTBIN19WTWlw?oc=5>
+- 场馆: 中华网
+- 时间: 2026-09-09 05:08
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5aRXFzYmFxekhCazNEX2c4MHZYckt2VEFPaHc5UFZOM21udWdkcEhVdi1QbXdOcEpoNXpmMFNlMm5SZEZtdTVzdzYwR0VqTUFpdjJ3SnFQeGJsX3BNbXZWb253azVlSnp3YV9BUjZaUk4?oc=5>
 
-### 亨特·拜登在周三发布会前为笔记本电脑辩护，称特朗普为“敛财者”
+### Trump Signs Orders to Ban Some Canadian Products From U.S. Market -- WSJ
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: CoinDesk
-- 时间: 2026-09-09 05:22
-- 链接: <https://news.google.com/rss/articles/CBMivAFBVV95cUxQN1RHNkRHdGhNZkxLZGduNFA3bnJPVURES01ENUtZa1U1X3lRVkVJM2gyRDN4NjhqejQxS3p1Y2pGRHRGSWZIdkVpV1ppWGtZcDk3RDRqbXNERWRQR2JXV3hMTTU2YzVzdHdPWS1mdEo0MC1TQUJYLUE4a0hlX1haVnJRSUJtQkhqMFpiU2lQWmN1MC1WQ2RVblU5eXg2cmhOU0dxajJNU0h5OXBaNTJWelM3NE5DaVJ2MGZUSg?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-09-09 11:12
+- 链接: <https://news.google.com/rss/articles/CBMipgFBVV95cUxQTUQyVlRpdWpOc0EyZXBmTGVpVmtEUS1KbGpqOHBKSmVBTkF6OUh6bHgza0lUMHFoSWdvamQwTEkxQ2Z5b3VBeDloMXl1QXVjY1N2UElQQklwQ0NZU3RwazhCbUpwdVI3OGJOODR2ZXQ0dGVKYUFNUFVVN3VOMHJLeTBvbF8tSVo2Q2cwX2Z3SHF0WjdSNDZBbF9jUGl4eEk3ZE5yU0lB?oc=5>
+
+### 习近平访美的国内政治账二十一大前的权力展示– 普通话主页
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Radio Free Asia
+- 时间: 2026-09-09 10:05
+- 链接: <https://news.google.com/rss/articles/CBMiywFBVV95cUxQZGlHM2hBWHBmWEUzQlJmUW5ydDFZdHBZZ2NZZldOMnlYY1d3Snl6dWI2VXYtbTZHYXA2V1V6aWNUeVd4WnBEbE9xVXdfUGRCRG5GN3dkZVZyRVFYeE9EZFhXMXVvcVktcWt1ZnEzQ2s0OTB3cmNRaGlXUHU5Nk13U0VrY3hvbWIwOGxBam5BMnNCZkptTDZRVDVPeXQ4RVFzclhVTUhOeHZLMjM0d1NlcnpNbnVhRTU0N0diNFB2UW9TUXloYlRzamVjTQ?oc=5>
+
+### 关税最终将让加拿大人和美国人付出多少代价？
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: BBC
+- 时间: 2026-09-09 08:37
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE8ySXFmVDBJUWpoYkVIVnR6TzdNRWNuVlRxZGZpd3hURllBOGEyVEw0UWhxbVVUTVhBTF93dzRaMkc2dWF3NWY5dzNWVlpRMVdXNktKb1gzdG9NV2tLRTJMaXk5R29oUdIBa0FVX3lxTE14YzdlaVA0WkFiLTNmMWJKbzBYNlJtd3RKa05na2s2ZThBblQ1NWxxaXpGa01mZENsTFZqYTMtV0ZKT2JiVkJHSGRBM3lKajlDeldvZ1VlOWt4NmdJdWdydl9EcnhGMU1yaGU0?oc=5>
+
+### Charles III无视晕倒员工？Trump分享“歪曲剪辑视频”引争议- 阿视亚经济
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 아시아경제
+- 时间: 2026-09-09 10:36
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBYWDh0TjBfVlFEMEl4b0JOamNVZ2N2eGFGRXJUd1psTGdPY2VyMy1UNGhrcWtYbWh1WUpsbVVzdzVTX2hGMlkzR05pZ2lLVmpFeTJGT2lhM0w0X0xYajJCQ09IbkQ?oc=5>
+
+### “安抚毯”也收了6000万韩元……Trump向女性幕僚送“惊喜礼物”
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 아시아경제
+- 时间: 2026-09-09 06:04
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tc0NMWDg4Q0s1ZVJ0TEV1ZEhNZ2hRbGk3azVqOEVvZVp4RmkwWklReVVyZzk5MlF3VlZCOGtjZzJja2RMcjVEVkE5d1pRU1VDQWhfZW5IWFdQeXllYW9kWUprcGM?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-09 13:48  (9 条)
+
+- **特朗普** | 特朗普石油投资在伊朗战争期间获利数百万美元，其投资账户持续进行交易 <https://news.google.com/rss/articles/CBMihwFBVV95cUxPa1BkTk4xZDhrWTNqMmNFVVduTlR0Z1o0SUdCdjROcnVpMGRmenIxT3AtYnItenpNemlMSnExMUpDNURkS0ZYeVFvaTU3cFg1aFhMWlRwVGdmSFA0R2JnS09jRUJtdGdmTHlNeFFzVHVqdlZNbWRDSjRxSzJtaVlmRDRuX2w3OUk?oc=5>
+- **特朗普** | 特朗普，迎来两个坏消息 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5LTjhMZzIzN0J5cFhlZDcyOHJVVmZIXzlDeDRCQWFZYmJZR1ZkcEhZdTJMMmdIN2s5Z2FtdHRGNFRXeDhXNmdQZXE1NGc?oc=5>
+- **特朗普** | 特朗普政府未反对英国等国涉以制裁，暴露对以失望 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBYNzhGWlZxZGR4UWlHakE1Wk5KaVBwcG1oRzhjVHVMN21aU1BadDNWanVROUVVTHpfV2R4SjhYSS1QeVJmajVWREVjNEU?oc=5>
+- **特朗普** | 特朗普与普京通话细节披露 讨论特使访问成果 <https://news.google.com/rss/articles/CBMicEFVX3lxTE5aRXFzYmFxekhCazNEX2c4MHZYckt2VEFPaHc5UFZOM21udWdkcEhVdi1QbXdOcEpoNXpmMFNlMm5SZEZtdTVzdzYwR0VqTUFpdjJ3SnFQeGJsX3BNbXZWb253azVlSnp3YV9BUjZaUk4?oc=5>
+- **Trump** | Trump Signs Orders to Ban Some Canadian Products From U.S. Market -- WSJ <https://news.google.com/rss/articles/CBMipgFBVV95cUxQTUQyVlRpdWpOc0EyZXBmTGVpVmtEUS1KbGpqOHBKSmVBTkF6OUh6bHgza0lUMHFoSWdvamQwTEkxQ2Z5b3VBeDloMXl1QXVjY1N2UElQQklwQ0NZU3RwazhCbUpwdVI3OGJOODR2ZXQ0dGVKYUFNUFVVN3VOMHJLeTBvbF8tSVo2Q2cwX2Z3SHF0WjdSNDZBbF9jUGl4eEk3ZE5yU0lB?oc=5>
+- **Trump** | 习近平访美的国内政治账二十一大前的权力展示– 普通话主页 <https://news.google.com/rss/articles/CBMiywFBVV95cUxQZGlHM2hBWHBmWEUzQlJmUW5ydDFZdHBZZ2NZZldOMnlYY1d3Snl6dWI2VXYtbTZHYXA2V1V6aWNUeVd4WnBEbE9xVXdfUGRCRG5GN3dkZVZyRVFYeE9EZFhXMXVvcVktcWt1ZnEzQ2s0OTB3cmNRaGlXUHU5Nk13U0VrY3hvbWIwOGxBam5BMnNCZkptTDZRVDVPeXQ4RVFzclhVTUhOeHZLMjM0d1NlcnpNbnVhRTU0N0diNFB2UW9TUXloYlRzamVjTQ?oc=5>
+- **Trump** | 关税最终将让加拿大人和美国人付出多少代价？ <https://news.google.com/rss/articles/CBMiZkFVX3lxTE8ySXFmVDBJUWpoYkVIVnR6TzdNRWNuVlRxZGZpd3hURllBOGEyVEw0UWhxbVVUTVhBTF93dzRaMkc2dWF3NWY5dzNWVlpRMVdXNktKb1gzdG9NV2tLRTJMaXk5R29oUdIBa0FVX3lxTE14YzdlaVA0WkFiLTNmMWJKbzBYNlJtd3RKa05na2s2ZThBblQ1NWxxaXpGa01mZENsTFZqYTMtV0ZKT2JiVkJHSGRBM3lKajlDeldvZ1VlOWt4NmdJdWdydl9EcnhGMU1yaGU0?oc=5>
+- **Trump** | Charles III无视晕倒员工？Trump分享“歪曲剪辑视频”引争议- 阿视亚经济 <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBYWDh0TjBfVlFEMEl4b0JOamNVZ2N2eGFGRXJUd1psTGdPY2VyMy1UNGhrcWtYbWh1WUpsbVVzdzVTX2hGMlkzR05pZ2lLVmpFeTJGT2lhM0w0X0xYajJCQ09IbkQ?oc=5>
+- **Trump** | “安抚毯”也收了6000万韩元……Trump向女性幕僚送“惊喜礼物” <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tc0NMWDg4Q0s1ZVJ0TEV1ZEhNZ2hRbGk3azVqOEVvZVp4RmkwWklReVVyZzk5MlF3VlZCOGtjZzJja2RMcjVEVkE5d1pRU1VDQWhfZW5IWFdQeXllYW9kWUprcGM?oc=5>
 
 ### 2026-09-09 09:24  (8 条)
 
