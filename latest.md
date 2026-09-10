@@ -1,96 +1,136 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-10 00:23**
-- 本轮扫到 11455 条, 新增 **10** 条
+- 最近更新: **2026-09-10 04:59**
+- 本轮扫到 11468 条, 新增 **13** 条
 
 ---
 
-## 本轮新发现 (10 条)
+## 本轮新发现 (13 条)
 
-### 特朗普专机应急滑梯因误操作弹出
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中国日报网
-- 时间: 2026-09-09 23:34
-- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTFBJX3hNVUR1RWhsZGx4YXVrTU5jNUg0dFE5ZFRHdlNxZEdrUnQwWUdNSk9oaE9pbTR5RERkczVWY1BObDRlLWN3dkFKYzByYlpkMjhBVEFldnVIVGFOUGt3NmxSU3AzSTAxQmNyT0JhaXJyRkR6RkpMUXlyZTY?oc=5>
-
-### 特朗普登机前空军一号放下应急滑梯
+### 英法加宣布涉以制裁，特朗普“反应格外低调”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-09 20:57
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1lNDdTOVhoUEhON0xhNzhSR3ZvQjdCeEFlZEh4b2xUT2lET0ZlTmVOWjBDcll3YTZwV3B4ekp2SUI4N3llYzRQamJ0Zw?oc=5>
+- 场馆: 新浪军事
+- 时间: 2026-09-10 04:00
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE8yX29ZYk1sMEJ3WXlVQTlrQUNMdF9KcHdIOTVMbzRHbURtallValE3MjNhMWFSOFp4YXEyWUc5RUFXXzR2aVFQRGJULUFOUEJSZE1lUGdvMFMyQjVSY0RUNm9kdkpWeG9nZkppZTRacU1nQVk?oc=5>
 
-### 美媒：特朗普专机突发状况 应急滑梯因误操作意外弹出
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: Sohu
-- 时间: 2026-09-09 23:31
-- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoRFRXUmZCTFJFSlNaV0lJbDZoVncxNl9VUndlZ2pWT0JXNlNnN3pKRm92ajNtN3pMd0NVX3N2U0dkU0ktempHMmlkUExIUWEyLXc?oc=5>
-
-### 特朗普总统肯定与普京交谈，或促成美俄乌三方会谈
+### 特朗普称美伊战事将在中期选举完成后“立即结束”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-09-09 23:48
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE5VUUI0UnYxY3pHcjg3R1B1ZDlHSzk0NnMzUUtQQ2hYR3ZOTFFxMTFNWFM2QzVzdlBENXlZSHdCNVFqeVE4elAyZFFJbG12eGphX2t6TlhnLUxEb1Y4R3BITGZscmY0b28tTUlYcUtOcExLaXRYV0HSAXhBVV95cUxOX0hxbkxHdWVOYTZ2TFdpZXhUaTVVVFh0YTNwM09pYlJ5YjBSbHRGQ3BRa0l0dEUyLTJCbzN3dDdCeVByd1lRVGdmb0JwaUpQRDEyZjNNalltNDVkSUpqcWJMUmxOUTVZS0NObXpYVWhoMVpFVFIzNUw?oc=5>
-
-### 特朗普：可能与俄罗斯举行双边会晤
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-09 23:00
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxNamJSUWJNTlJaMlJOX0RuVTAycDY2cHZTdlBtaTdrS0QtS21BN0dkck5kWlJYUDNsWXE3X0dFTEdNRFFOeUMzSHluREN0cVVsZDl0RHNCVVR1dTB5b2VKVy1RSldIdjFSQ3REUksxZzBhQkFpVU81YXRsRGhndEFwTnhhQ21fb3ZNNmF3M3R6S2JwWGVfdnBXRA?oc=5>
+- 场馆: 新华网
+- 时间: 2026-09-09 22:09
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE95Nm12UnlodTJITzBoY0dVYnFERGFRZktWTmN2bTZJeEZoSGRXeURYN1dqem5jVnJzNTdFUGs4Tm5mYkUxMVFPUW5ZLU9yaWI5Q3RWMU9mcy1kTnpBSXVkcm5sMnQ0bS1xMDJ2LVN6bmpNODd6TENla3pvR2d1akE?oc=5>
 
 ### 特朗普称普京“想达成协议” 美国寻求启动新一轮俄乌谈判
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-09-09 22:39
-- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTFByUTA4S0dFNWJYS0VlOE42UVhTT1NkTDBmV1dpWTJCRHFYcEp1YUdmb0U3dHNGVjB0Tk50a2dwQTBlYjh4ZkhFNFI4a3R4UGVMbGx5UHVzWXpOYWR1NGhsYklsRl9rYlhDallSQVFFYmd6Z25NVG1DODFR?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-09-09 22:52
+- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYTZvRVRkNFJBaFFmdG9pN25qUGJrd1haOGdjX3JRVEwxLWRtMGY5c25lYkQ3RDRqQmJDMUpiVTlRemV2UTh3NW83YTJPUjRhQnQ0WWMxMGFfTlJtdE13a1RSZG9wYVRNd19GcHd2d3VZd3Z5VmNvb280QUJCeXhxOE1IY0tqRndLQ2N0aFpEVUtOcFd5aVpmU3RDb2lBQVFsQTFiZENzd0tHUQ?oc=5>
 
-### 美伊战事何时结束？特朗普给出时间表
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: news.china.com.cn
-- 时间: 2026-09-09 23:47
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTFBIZEt4Zm15V1ZGWEFyV1J0NU1yWlFKd2N4QXZid2Ywc1lUcXl0bzNGTlBra0dDVXB1OXZ5U3B1V0ppdzFDd3BNMkdCSGVFWlZLdGhYVFUwaGd3WGZTMmVuRXRac2M1VU1DQkZF?oc=5>
-
-### 特朗普与习近平会晤在即，华为将在美受审
+### 特朗普专机应急滑梯因误操作弹出
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-09-09 23:33
-- 链接: <https://news.google.com/rss/articles/CBMinwFBVV95cUxPc2JlbWgtNEVremVWT0d0UTRicC1EdjdWVUlrSkxhOFI4aEUxNWx1RjI1dXMxN2x5R0xOcllHZFlOcmRsb3gyVXViaGRJRmk5aDRlcU5VQkNnQkVoR3IzYTBKQ1JNazlkY3hlbUU0Z3NDeUFVak15amkxLXJ6QkNqb0xzSkpBQ0J1a3VPN2dnUDJsWmxUZHF5d2VpSWlXc1E?oc=5>
+- 场馆: 央视网
+- 时间: 2026-09-10 02:19
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1BdUNaNlBSZTlyN0wxcXhnQmtJRHZhTFJCRGFxZEt6TzN5N3NucjhaSFVWRjdHRmxZUnc5aVQzVnNTTHF4QU9LODY5TlpUOXdrRU11RS1WTzk4Y29MV1JEUjZkQW1uSDZ4U0FVREhid1NzVnVKbUNJbg?oc=5>
 
-### 耶伦等经济学家向法庭陈述：特朗普关税越权
+### 专机应急滑梯因误操作弹出，特朗普回应
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-09-09 21:04
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRWDRQTXRNNHpzWHVtSDJ0ZkRrVUVIVmppbTltcmlMajRacUp4a3prdGF2WTFXT2prajNPWDM4M2t6X0FjOVpKUFVWLVBVaWtldUY0?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-09-10 02:49
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1oTGNLMi00bHc3ZjVvZzFMOUhJX3VUam1Ddkx0T0JXeGRtemQyRlZhWkZPdW0xRXN1TmkxeXhTcnYxeWtLLUFfNmJIUDg?oc=5>
 
-### 中东特使威特科夫从与特朗普加密货币相关实体赚得逾1亿美元
+### “空军一号”应急滑梯意外弹出，特朗普：不存在安全问题
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-09-10 03:30
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE14SGwwTmJkd1NvUWx5WVBzUFZEZW1SRDBCcHA4ODIxckFfSVhISkZGZXotM2doTU1GU1E4UGRQaGJqRGdPVl9kRFRhYXZWUEt5NC1halhzSGhhVGZ4NV9Maw?oc=5>
+
+### 美伊海上“报复循环”加剧 特朗普预告战事将终结 伊朗开出条件
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-09 23:02
+- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxQMjMtVXFwZWF1aWJIUmg4Rzd3SkVmMDBpcExYLWRaM0w4a3BBNy1VNmEzdGgzNzhqSWplOUZwWXp3ZE9CWmJpaHNJdm5pUVdkd1d4ZW1EZ3hwbExlN0dReGo0T1NzZ0NyTjFtUDVFWXZtUE9Zd3RnU1dtVlVvcHJnOWV2MFhzTTNJZjBPQWZqd0pzdHRkdm5NZw?oc=5>
+
+### 关于战事何时结束，白宫官员与特朗普说法不一样
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-09-10 01:08
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1GcmRPczd6V1pmdkFCekgzbU5raDFrXzRPQzdLNU54T2Q1NnhhSUVKd05TYmQxNUZ3aGhHN2pyNDI0UXE5VGdwcGNFSWY?oc=5>
+
+### 特朗普给三位女助手各发4.5万美元被质疑违规，白宫：个人赠礼而已
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-09-10 01:42
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1CN3pvWFRwN0JyTlc3RzVjcTljV3FPbDNwbDJaTXJYNzdwNTVON1g4RGdndnN0bzZ3elF2ZlZjdTNnODZFR3dNYzd4M0pvQmNhbkpEazRaQ2xEX3hKVkZOZQ?oc=5>
+
+### Trump Says Gas Prices Will Come Down After Midterms
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-09-10 00:12
-- 链接: <https://news.google.com/rss/articles/CBMisgFBVV95cUxQS2QzV2ZZOVNEbjZtTEszOGR3bWFpR2VpOHVsNHdRckNMN1czTTZaTWhZdHE5OUlFVGNJaWh6c09UUEhpazRwRlduRDZTYU9VWm9zVTBIYVB5OXZTZnVZYWVtbUtxRlpyNHVCWWRLZ2RvaTBMSm5iQ2U5SUhCNzc3aGdCc005WGpPZFN4Ukdpa0t0aGhvd1ZSUUV0Uk1iR19nVncwaGgyelg0MmFDMWdNci1n?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-09-10 00:46
+- 链接: <https://news.google.com/rss/articles/CBMimgFBVV95cUxORkpFbkY3dEdzcE1EX3dwblEtOThmMUFDQjMxcGZQdVEwY1RNcWVYSUpKMFVKNGlWX0RQOUZLcmk2Yzc3RGxqMXZUQU5vM2VMWTYxblFGcWdMYXc5eFFVTmdaaVI0UEtucVZMRzJnQ25WXzlLeFQ4cUE2dGxSNUp5aFM1bkZrbWZVYVJ5V0JQSm1YaXQzTGo5N19R?oc=5>
+
+### 白宫顾问警告 美伊冲突恐持续至特朗普任期结束
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 8world
+- 时间: 2026-09-10 00:50
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE5aUUpWTzQtOGQwN0oxQWZreWFaOThXMzJNUGlwZG9jS0x1cXgydC1GZmprWHlKQVhELXNVZzVTNHYzSk5DUks3ek5GTHFwM1BnN1VmekZGWFVaZzZfaXc?oc=5>
+
+### 耶伦等近50名经济学家联署：特朗普援引“国际收支”条款征收全球关税越权
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 富途牛牛
+- 时间: 2026-09-09 22:24
+- 链接: <https://news.google.com/rss/articles/CBMirwFBVV95cUxOYXZrc0hUSWExNGtqeVJBZUozSWNsY25OYlBRMzZmWnhyY2FpNGFPckQwWGZzUXhLLW5zb3hDTEhDeldFclZMS0RkWGcwUXhzRWlISHZRRWFaR2pZODBhREFmY1ZSZHpheF9xV3VWWEZ4VkhkOGpMa3VLZ1pfeDFlRWVTSnJLNUhyaUV0TktucGU1d0hUcERqcDVyQmdmSVBETjMzMTRlazJkbE8tUGZJ?oc=5>
+
+### 特朗普表示汽油价格将在中期选举后下降
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-09-10 00:36
+- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxQclFXOTUyZllTYUg2dmVrMEdSNUdGMkFtQ0VNTXJWMmF2WFZ2Zy1XYlRFV1ltdHZvTHpzUXVZaDM3b0tEbW9lLTQtMzd1bGFRcXhJYzFRaWE0VTNYS1NCam1MSUxrMmtTWm4tNURyMG5JZ1JtWUJaeDROSlhLbGhNTDNRcmVHM21nTmV0dkQ5TEo3Z3hUa1F0UTg0X2JRUFlJ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-10 04:59  (13 条)
+
+- **特朗普** | 英法加宣布涉以制裁，特朗普“反应格外低调” <https://news.google.com/rss/articles/CBMic0FVX3lxTE8yX29ZYk1sMEJ3WXlVQTlrQUNMdF9KcHdIOTVMbzRHbURtallValE3MjNhMWFSOFp4YXEyWUc5RUFXXzR2aVFQRGJULUFOUEJSZE1lUGdvMFMyQjVSY0RUNm9kdkpWeG9nZkppZTRacU1nQVk?oc=5>
+- **特朗普** | 特朗普称美伊战事将在中期选举完成后“立即结束” <https://news.google.com/rss/articles/CBMif0FVX3lxTE95Nm12UnlodTJITzBoY0dVYnFERGFRZktWTmN2bTZJeEZoSGRXeURYN1dqem5jVnJzNTdFUGs4Tm5mYkUxMVFPUW5ZLU9yaWI5Q3RWMU9mcy1kTnpBSXVkcm5sMnQ0bS1xMDJ2LVN6bmpNODd6TENla3pvR2d1akE?oc=5>
+- **特朗普** | 特朗普称普京“想达成协议” 美国寻求启动新一轮俄乌谈判 <https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYTZvRVRkNFJBaFFmdG9pN25qUGJrd1haOGdjX3JRVEwxLWRtMGY5c25lYkQ3RDRqQmJDMUpiVTlRemV2UTh3NW83YTJPUjRhQnQ0WWMxMGFfTlJtdE13a1RSZG9wYVRNd19GcHd2d3VZd3Z5VmNvb280QUJCeXhxOE1IY0tqRndLQ2N0aFpEVUtOcFd5aVpmU3RDb2lBQVFsQTFiZENzd0tHUQ?oc=5>
+- **特朗普** | 特朗普专机应急滑梯因误操作弹出 <https://news.google.com/rss/articles/CBMieEFVX3lxTE1BdUNaNlBSZTlyN0wxcXhnQmtJRHZhTFJCRGFxZEt6TzN5N3NucjhaSFVWRjdHRmxZUnc5aVQzVnNTTHF4QU9LODY5TlpUOXdrRU11RS1WTzk4Y29MV1JEUjZkQW1uSDZ4U0FVREhid1NzVnVKbUNJbg?oc=5>
+- **特朗普** | 专机应急滑梯因误操作弹出，特朗普回应 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1oTGNLMi00bHc3ZjVvZzFMOUhJX3VUam1Ddkx0T0JXeGRtemQyRlZhWkZPdW0xRXN1TmkxeXhTcnYxeWtLLUFfNmJIUDg?oc=5>
+- **特朗普** | “空军一号”应急滑梯意外弹出，特朗普：不存在安全问题 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE14SGwwTmJkd1NvUWx5WVBzUFZEZW1SRDBCcHA4ODIxckFfSVhISkZGZXotM2doTU1GU1E4UGRQaGJqRGdPVl9kRFRhYXZWUEt5NC1halhzSGhhVGZ4NV9Maw?oc=5>
+- **特朗普** | 美伊海上“报复循环”加剧 特朗普预告战事将终结 伊朗开出条件 <https://news.google.com/rss/articles/CBMimAFBVV95cUxQMjMtVXFwZWF1aWJIUmg4Rzd3SkVmMDBpcExYLWRaM0w4a3BBNy1VNmEzdGgzNzhqSWplOUZwWXp3ZE9CWmJpaHNJdm5pUVdkd1d4ZW1EZ3hwbExlN0dReGo0T1NzZ0NyTjFtUDVFWXZtUE9Zd3RnU1dtVlVvcHJnOWV2MFhzTTNJZjBPQWZqd0pzdHRkdm5NZw?oc=5>
+- **特朗普** | 关于战事何时结束，白宫官员与特朗普说法不一样 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1GcmRPczd6V1pmdkFCekgzbU5raDFrXzRPQzdLNU54T2Q1NnhhSUVKd05TYmQxNUZ3aGhHN2pyNDI0UXE5VGdwcGNFSWY?oc=5>
+- **特朗普** | 特朗普给三位女助手各发4.5万美元被质疑违规，白宫：个人赠礼而已 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1CN3pvWFRwN0JyTlc3RzVjcTljV3FPbDNwbDJaTXJYNzdwNTVON1g4RGdndnN0bzZ3elF2ZlZjdTNnODZFR3dNYzd4M0pvQmNhbkpEazRaQ2xEX3hKVkZOZQ?oc=5>
+- **Trump** | Trump Says Gas Prices Will Come Down After Midterms <https://news.google.com/rss/articles/CBMimgFBVV95cUxORkpFbkY3dEdzcE1EX3dwblEtOThmMUFDQjMxcGZQdVEwY1RNcWVYSUpKMFVKNGlWX0RQOUZLcmk2Yzc3RGxqMXZUQU5vM2VMWTYxblFGcWdMYXc5eFFVTmdaaVI0UEtucVZMRzJnQ25WXzlLeFQ4cUE2dGxSNUp5aFM1bkZrbWZVYVJ5V0JQSm1YaXQzTGo5N19R?oc=5>
+- **Trump** | 白宫顾问警告 美伊冲突恐持续至特朗普任期结束 <https://news.google.com/rss/articles/CBMiXkFVX3lxTE5aUUpWTzQtOGQwN0oxQWZreWFaOThXMzJNUGlwZG9jS0x1cXgydC1GZmprWHlKQVhELXNVZzVTNHYzSk5DUks3ek5GTHFwM1BnN1VmekZGWFVaZzZfaXc?oc=5>
+- **Trump** | 耶伦等近50名经济学家联署：特朗普援引“国际收支”条款征收全球关税越权 <https://news.google.com/rss/articles/CBMirwFBVV95cUxOYXZrc0hUSWExNGtqeVJBZUozSWNsY25OYlBRMzZmWnhyY2FpNGFPckQwWGZzUXhLLW5zb3hDTEhDeldFclZMS0RkWGcwUXhzRWlISHZRRWFaR2pZODBhREFmY1ZSZHpheF9xV3VWWEZ4VkhkOGpMa3VLZ1pfeDFlRWVTSnJLNUhyaUV0TktucGU1d0hUcERqcDVyQmdmSVBETjMzMTRlazJkbE8tUGZJ?oc=5>
+- **Trump** | 特朗普表示汽油价格将在中期选举后下降 <https://news.google.com/rss/articles/CBMioAFBVV95cUxQclFXOTUyZllTYUg2dmVrMEdSNUdGMkFtQ0VNTXJWMmF2WFZ2Zy1XYlRFV1ltdHZvTHpzUXVZaDM3b0tEbW9lLTQtMzd1bGFRcXhJYzFRaWE0VTNYS1NCam1MSUxrMmtTWm4tNURyMG5JZ1JtWUJaeDROSlhLbGhNTDNRcmVHM21nTmV0dkQ5TEo3Z3hUa1F0UTg0X2JRUFlJ?oc=5>
 
 ### 2026-09-10 00:23  (10 条)
 
