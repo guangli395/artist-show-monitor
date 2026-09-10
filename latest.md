@@ -1,116 +1,89 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-10 09:29**
-- 本轮扫到 11481 条, 新增 **13** 条
+- 最近更新: **2026-09-10 13:45**
+- 本轮扫到 11489 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (13 条)
+## 本轮新发现 (8 条)
 
-### 蔡徐坤新加坡演唱会加场售罄，10月24日25日连开两天
+### 20260907 王一博百雀羚新品发布会周年盛典回顾cut –
 
-- 艺人/关键词: **蔡徐坤**
+- 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1852855013_m6e7052e503302tj4e.html>
-
-### vivo官宣周杰伦任影像大使，发布X500 Pro Max开箱视频
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1603067123_m5f8cdcf303301mh48.html>
-
-### 特朗普称美伊战事将在中期选举后“立即终结”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-09 18:36
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxQY2VUZHZINkdvZDhNLXZJa3JpV29YUmRIblNiQWhlZmRnT1ktOGd4RUE0Q1hzM29OTlVGWDRRTklLWUtXMDVaYWhkMHVQMi16MG5WeDlJZDBpRHVZY0phaXJVQ0pYU1R2cXhZSzVXUmZMWmc2a3pHbjRoTG8yMzR2akxJWElJMUFBb2xreDNtTml0dzBqX2xEbjNfTW8yRDQ3V3lLWkhpNnRTNVh0ZFpjRGhuTzNkTE14cXh2VjNXWHM0SzdydERFU3hBSTAyalRU?oc=5>
-
-### 美债回购，特朗普口头宽松，黄金迎来修复行情
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-09-10 08:50
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxPUjNpeWdCaUs4bk5mQzJIQ2JKMWdRcV9aSVB3V1hudGo2cnNkdDB6ck1ndzI0NXBlbE9JTTBlcnlyelhaSTFwekhWVEllTi1hWm9XdFRhUWRFdkhib2QzYnRiLVQ1cFBmeHV3UGIydmFXVnhjc3Z4NGpSY1V0eG1GWVktYTBodkRJS0dYTnlDR3EzbC1vajVWTQ?oc=5>
-
-### 特朗普：可能与俄罗斯举行双边会晤
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-09-09 20:22
-- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxPSkE3Rmo0UE5tdWJ2WVBxQm1qclF4VFZ1amoya2xQMlpBTms0UDBrWDZQbUdaczdpWWttUlVyQjJpazNtSF9ZSEFiZFZJMUFnWWFXekhQVnRkY2xKNlUwS2hublh4ZnZqZi1yWXU3cUdyQVBFWkdSVkRfUEpPVG9JaWxvRkkwYmVIQk9jM1VpZ095cUpq?oc=5>
-
-### 史无前例！特朗普给3名年轻女幕僚各赠送4.5万美元现金，接近4个月薪水
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-09-09 14:00
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTFBRa3hjbklWanhyQ21zRDBVblFOdUlYOHlwQWtEZ0F6R1J6dEd4VmpNc0tBS1NHdXdrZlRtTzBrMGJGaVNPdkItQg?oc=5>
-
-### 特朗普专机应急滑梯因误操作弹出
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-09-10 03:01
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE5aNXEtcHRRMmcwN2dFekZheG1mRkZnaE5mdVlyTHB5c0Uzb2Z2ZXAySFdPQlhLQ3ZsZG9oRUtQYTdpTHhuelRhejZ1cURKMWdNLWVHY2VrZ1FLcFVhUWtlQmhOUVFYMWhRZTV1THhkdk8yckRG?oc=5>
-
-### 美媒：特朗普专机突发状况 应急滑梯因误操作意外弹出
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中国网新闻中心
-- 时间: 2026-09-10 05:20
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE5JQjJidllHZXhHOWZnMFRjdEI2ODZtbHY3NEhDQnozb2kxanlwakZ1TDNqaTVTWC1ialUwNndQRFFuVmtFaGYyaFdBLXBVVlJfbmZtd0liNkQ5R1c3cnA5MnZzeWM5NFVKd0R3?oc=5>
+- 链接: <https://k.sina.com.cn/article_6144301079_m16e3a981703301j162.html>
 
 ### 特朗普再威胁打击伊朗“镐山”核设施
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: news.ifeng.com
-- 时间: 2026-09-10 02:35
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5mSGJVVUVpUWktcU5VenhJSnRRaEIxSXRYeHp3eWZUbWNEbHBFR0VCZW05UU5vQzNGeHJjZVlLU3RaZUpNVHcyenRQa3M?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-09-10 03:33
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9KbnZPUWdrOTRqTkVEQzB2all5TFZvOTdBcklDM2RNMFBQc0RiUzZGU3pWWW16endRSFJaZWlQd3NpZDNGdnZrSzNOa1pwVkV2NXNJdWJtdzlmVnlNTE5sRGNvUkc0UFpTa2JEZEtEREQ?oc=5>
 
-### 10小时60条社交媒体动态：特朗普的“现实”世界
+### 特朗普专机突发状况，应急滑梯弹出
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: cn.nytimes.com
-- 时间: 2026-09-10 04:55
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE1LOEplTWZNQ0s5TnZVVjBvWTdrajN3bXc5YkJCcjR3MDItZkJoSUlUSDhFdjZyZXl5SkZud0twRkVJTWtJVnNqX3pKdHJzVXgzSm1xcFBreGNMdmR0OFh5bldFLWRHUnNfYk1VUzF0TzV6RnNX?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-09-10 05:14
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9oaDJJeWFkbjhiMnduSGJrWHVsdWprNnlfNERaN0J5NGpNYjZHdm9LelhMRE1wZ1Q2YkVSTnU5VVQ2bjZialFScy11d25KLXphN2p6QWdBcVJzMTFxeUhCS0kzUGNfY0RmdHJ5b0toYWF0eVJycjE4dw?oc=5>
 
-### 特朗普：若共和党赢得中期选举，将向美国成人发放5000美元
+### 万斯、鲁比奥等人私下警告特朗普，美伊战争可能持续到其卸任
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 朝鮮日報中文版
-- 时间: 2026-09-10 06:46
-- 链接: <https://news.google.com/rss/articles/CBMinwFBVV95cUxOcHZFR3pyVV9fQWpqVlFjbUF5UWNISlN0UVhkTTVfSHBMb05NY1o3Vi1oeW40RmI5cnRSUTN1Y0dDRlBPZFI3b29wcy0wX0ZUVkN3cTZlaE54dXNUSUZjdGNfdXhEaTNaS2kyMnVKUHZ4UkNRRDc3dXpXNmRoUVZoeEhDcERCdkxnNW01UnZHNmVXTDdVOTMxT3U0Ni1Nbmc?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-09-10 08:01
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE4xb3NVZWxET0JwMXE3XzEwOVlleWdXXzhzUHFtczB5VFA3WDNOa3djangzWmJoYV9kRjNPV05jLUlaSUhHTURvdmRUUUg?oc=5>
 
-### 小波总 (@Square-Creator-4ac284594)的见解
+### 加拿大反制精准克制 特朗普或“骑虎难下”
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Binance
-- 时间: 2026-09-10 03:12
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1yaHUyeEF4ZXkwVHItNXFlM2tzRG9qNVRJcDZmckt4eUdxTmlsNk1pZklsVERHR3paVlkxNWRfV1lDTnZFLWVvQ2pWQkpRZnl2LTB6U1ZnUEd6TVR6S1d5WkdiLVB4cnMw?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-09-10 07:16
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBHWW5uSGdxU3NkXzBRa1VlcTNiMzVPMkExaU83Sk9SMWVyRXBwOXVsTUk1cGNBVi1vV0xSMkNlcTNuRHJjRm1FUTNkWEdXTDVmQ29TS3F3WGllam9oRzgybEF1MVpTRFB6eFVycFVxbDkwYjFoaWZnMg?oc=5>
 
-### Jeong Dongyeong：“Trump暂停韩美军演，并非即兴之举而是战略判断”
+### 特朗普引发“新仇”，但美国加拿大早有“旧怨”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 纽约时报中文网
+- 时间: 2026-09-09 18:17
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tTk5DalZZbm1tSWdyX3FMckpjdjRVZE5EcWhEWUZ0aTlOUHFLUm52Rzl6amxEQXI3RXFmNHN2OEtOX1EzclhjVnN5TWdhN0c4cl9IS3hlSDBiN3MtMDFOVzF3TlBUSUVS?oc=5>
+
+### “卡塔尔赠礼”Trump专机再出插曲：登机前紧急滑梯展开- 阿视亚经济
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: 아시아경제
-- 时间: 2026-09-10 07:53
-- 链接: <https://news.google.com/rss/articles/CBMibEFVX3lxTE54bkhmRVUzNmRRRHppUkNHUVNuUDF6UzVwT1BzMUUweGdQRTdGUk16cW1ESEN6Q0twNEcxQmg1bTl1aG1nN0pnWWVldndYUjJfNDB2MU1aYWJuNVFpTFFIbzl2bmlaOEQ2NmViYw?oc=5>
+- 时间: 2026-09-10 08:55
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ldTdCV1U4aDBUT2IwYWpfSnB6RDNVWEltcDREaUNIVl9FSGU4M3Q4dWoxemh2bE8xRTJSTlIxNlIwN2N5M1E2UF9KUHBXU09IOTlGVzFaWmd2UWJVcW5hY1FKQkc?oc=5>
+
+### 开战后买入、停火前卖出……Trump账户猛增59亿韩元- 阿视亚经济
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 아시아경제
+- 时间: 2026-09-10 06:59
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1naUNxbXR0U1ltdFVFMlBYMElHSzdLOHhNcm5FSnNGUFJYbk0tcFpRM19hUUcxSDhLYXlCSlh1eTRLemNBd0ZhdXpaTUdiWnZGeG5LbmZjaXVUNmthMjhBX1lUZmI?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-10 13:45  (8 条)
+
+- **王一博** | 20260907 王一博百雀羚新品发布会周年盛典回顾cut – <https://k.sina.com.cn/article_6144301079_m16e3a981703301j162.html>
+- **特朗普** | 特朗普再威胁打击伊朗“镐山”核设施 <https://news.google.com/rss/articles/CBMicEFVX3lxTE9KbnZPUWdrOTRqTkVEQzB2all5TFZvOTdBcklDM2RNMFBQc0RiUzZGU3pWWW16endRSFJaZWlQd3NpZDNGdnZrSzNOa1pwVkV2NXNJdWJtdzlmVnlNTE5sRGNvUkc0UFpTa2JEZEtEREQ?oc=5>
+- **特朗普** | 特朗普专机突发状况，应急滑梯弹出 <https://news.google.com/rss/articles/CBMieEFVX3lxTE9oaDJJeWFkbjhiMnduSGJrWHVsdWprNnlfNERaN0J5NGpNYjZHdm9LelhMRE1wZ1Q2YkVSTnU5VVQ2bjZialFScy11d25KLXphN2p6QWdBcVJzMTFxeUhCS0kzUGNfY0RmdHJ5b0toYWF0eVJycjE4dw?oc=5>
+- **特朗普** | 万斯、鲁比奥等人私下警告特朗普，美伊战争可能持续到其卸任 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE4xb3NVZWxET0JwMXE3XzEwOVlleWdXXzhzUHFtczB5VFA3WDNOa3djangzWmJoYV9kRjNPV05jLUlaSUhHTURvdmRUUUg?oc=5>
+- **特朗普** | 加拿大反制精准克制 特朗普或“骑虎难下” <https://news.google.com/rss/articles/CBMieEFVX3lxTFBHWW5uSGdxU3NkXzBRa1VlcTNiMzVPMkExaU83Sk9SMWVyRXBwOXVsTUk1cGNBVi1vV0xSMkNlcTNuRHJjRm1FUTNkWEdXTDVmQ29TS3F3WGllam9oRzgybEF1MVpTRFB6eFVycFVxbDkwYjFoaWZnMg?oc=5>
+- **特朗普** | 特朗普引发“新仇”，但美国加拿大早有“旧怨” <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tTk5DalZZbm1tSWdyX3FMckpjdjRVZE5EcWhEWUZ0aTlOUHFLUm52Rzl6amxEQXI3RXFmNHN2OEtOX1EzclhjVnN5TWdhN0c4cl9IS3hlSDBiN3MtMDFOVzF3TlBUSUVS?oc=5>
+- **Trump** | “卡塔尔赠礼”Trump专机再出插曲：登机前紧急滑梯展开- 阿视亚经济 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ldTdCV1U4aDBUT2IwYWpfSnB6RDNVWEltcDREaUNIVl9FSGU4M3Q4dWoxemh2bE8xRTJSTlIxNlIwN2N5M1E2UF9KUHBXU09IOTlGVzFaWmd2UWJVcW5hY1FKQkc?oc=5>
+- **Trump** | 开战后买入、停火前卖出……Trump账户猛增59亿韩元- 阿视亚经济 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1naUNxbXR0U1ltdFVFMlBYMElHSzdLOHhNcm5FSnNGUFJYbk0tcFpRM19hUUcxSDhLYXlCSlh1eTRLemNBd0ZhdXpaTUdiWnZGeG5LbmZjaXVUNmthMjhBX1lUZmI?oc=5>
 
 ### 2026-09-10 09:29  (13 条)
 
