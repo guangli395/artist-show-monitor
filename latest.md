@@ -1,64 +1,109 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-09 22:16**
-- 本轮扫到 11445 条, 新增 **6** 条
+- 最近更新: **2026-09-10 00:23**
+- 本轮扫到 11455 条, 新增 **10** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (10 条)
 
-### 伊朗高官称德黑兰已做好激战准备 特朗普预计战争将在选举后结束
+### 特朗普专机应急滑梯因误操作弹出
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中国日报网
+- 时间: 2026-09-09 23:34
+- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTFBJX3hNVUR1RWhsZGx4YXVrTU5jNUg0dFE5ZFRHdlNxZEdrUnQwWUdNSk9oaE9pbTR5RERkczVWY1BObDRlLWN3dkFKYzByYlpkMjhBVEFldnVIVGFOUGt3NmxSU3AzSTAxQmNyT0JhaXJyRkR6RkpMUXlyZTY?oc=5>
+
+### 特朗普登机前空军一号放下应急滑梯
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-09-09 19:43
-- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE95dk91UG1YcEZxTHQ1SFk0QkxGVFJaMUhXZzdXeXpKaFN1TjFvUjc5cnVfdWxnYktnUjI5c3RtQnFvcllKZ251WFJSWjh6MHpzZWpxanFuWmszUXd0MXNvYV9IN2hBRmJlNzFyMkRkSVJrTHRGWmVic3BR?oc=5>
+- 时间: 2026-09-09 20:57
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1lNDdTOVhoUEhON0xhNzhSR3ZvQjdCeEFlZEh4b2xUT2lET0ZlTmVOWjBDcll3YTZwV3B4ekp2SUI4N3llYzRQamJ0Zw?oc=5>
 
-### 特朗普：美伊战争将在中期选举后“立即结束”，油价也会大幅下跌
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-09-09 21:31
-- 链接: <https://news.google.com/rss/articles/CBMipwNBVV95cUxPTVV3Q1FpSjdJR0N5MVF3M3h0LVEtaXRNTWllQ3hEUi10cU9sMUU5cDA3MklPbExydTBfWUtEVlJfZ1U5OWc2Wlp0M3JMM3o4aFREemZCWmlqNnBJYWFFbzNybExxa0UtNktrRVcyNE0zTG96VDNscEtJckpPUEtQZzRhVjJXa0hWWkpseTZ2TklRRmRrZWxaX1BCTHRtUGFnUGNBSVgtVTFlUWl3RzdUa215Q29qOGpHQklnTXI0QzVuYmdwT0RGeFRJV1ZVQXVSYWotUS03Z1JaTzhGMXBqeGlmSS1lUy1xYWFfcHQzazR2ODlZNTM1TWhaWlhWckU4OWZuUmE2ZWZiU1l2S1RsbUg4bVNScWxZY1hrZHJxd1ROSFo1YUE4Uzk1eVAyMVJCT0JPVS1rcF9Pak5OOWdNZVNQSWRGNzgtNFUxN0V3cTNmXzlXVWxSQkhxcDJjaUZYcmtrcUdGN1lKUDlObUFMeWNNZ3k4WE5EbTRkckt6OXJjOWpHalA3X1Zod0drbGFOWVdvTUFGa0daa2tnNGtOYlNvSTZYSnc?oc=5>
-
-### 9月10日外盘头条：特朗普预计战争将在选举后结束 苹果发布首款折叠屏iPhone 贝森特将长债回购规模扩至三倍
+### 美媒：特朗普专机突发状况 应急滑梯因误操作意外弹出
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-09-09 21:40
-- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYXN5djQxM3k4b0F1d0VfbXBTMkdjX2FtbDhyUF9Nc3dfdTZDYmRVVTdkckJWMTRPMWV5cUdKam9OdXJGeFo3LVlRQXRrb1lSUUNHcGdZRDVyNEtGZXJNWTUzUDF6SGEtb1VIZDNzU2gwLUQzVW8tYnVLWGduZDI3ZTM0emRSOG1CRk5nVGw0OXdrSFVUM01FSmx1eXZwZVpVV0o0NjhPYjBZUQ?oc=5>
+- 场馆: Sohu
+- 时间: 2026-09-09 23:31
+- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoRFRXUmZCTFJFSlNaV0lJbDZoVncxNl9VUndlZ2pWT0JXNlNnN3pKRm92ajNtN3pMd0NVX3N2U0dkU0ktempHMmlkUExIUWEyLXc?oc=5>
 
-### 特朗普继续“炮轰”加拿大，再次称加总理为“州长”
+### 特朗普总统肯定与普京交谈，或促成美俄乌三方会谈
 
 - 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-07 23:47
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxNUTZhWTU5YXRGYnpkV2FFMGlmeDRabUdfVHhOSjJpaUFhLXBKOXg1VFpyRDZQVUlPdzhEYS1UTXBlUGppOWJ6LW9zV2FBZzRuRnhjVzRwNUdSZDQ0WnQzeWE0R1RGbmMyVmxyVjNZWVFsd193WHZaUUVZREtzaDhaTW5tcGVOTk0?oc=5>
-
-### 冰岛总理对唐纳德·特朗普（Donald Trump）嘲笑他的国家主权感到愤怒
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: VOI.ID
-- 时间: 2026-09-09 19:10
-- 链接: <https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5PSU9DRi1BLVFKVWlyMmZGdTFFR1RzZ0t1QVcxcGNZbW0xU3pLTXFUN1EwMW4zT1VyTWk5UjZmREt3UEXSAUJBVV95cUxQRUNyeVk0b3BvNFRHZkRhMGdoVW5INzd0R0ljZnJFZWcxc0tBRjJ1SG45a2VIcnZyMlhXdkZPUzJ4NWc?oc=5>
-
-### AIT处长：台海冲突对全球经济影响将大于二战，“特习会”是避免误判的契机
-
-- 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: 美国之音
-- 时间: 2026-09-09 21:19
-- 链接: <https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSUNESjdRX0VOekJob3k4YnVyX09fLS1rbHQ5OWluRlhzLWVPR0hNdTFUT3NoZ3ZRVjMzOWNrQWMxeUtDemZQWU9VcnpManRxbFlYWG4zb2cwUmY5TDdkRVEwVGtXMXhsc01pNElKcTRTTWd6Mi02aFZDcWJWbW9qUFJCdWdsejdrRDBzY25OZTVyMVh6MFJPT0ZEdWtLS25NaFIwWmxzQ25tQlFGQ3hBeTdyalRlamc5QzUtYUl6dXFFODRlZk90S0Rrd0huQTlZQ0tLUlZEQkdlX0swTXdySkF6RdIB5gFBVV95cUxOdnBKSHVvZHFFQlZtVFVlQldMZmRqa3JBeDNIdFhjd3E1d3ROTEViNzd4Y2ZBUll3NmNqZjVuWjI3YzJTcVEyY1UtWVFrbkwyRDRyYUZhRXA1NHBTc0p3VjZCd1pzLVBYU1k0aE1FNUZ4aWUyd2libTBPR1RLQjhBaDZuNE42STM5akhVNEZYeFVmWDJqLWlYQUVfLWtFVlBfNmNrTXU2QjNnaEw2YmRfWWdEQXl1eXNFaGRid0U1WXBPb2NkUU5xSTJlUmVjUzR1T2ptb0ZVeGRtTUpaR3RIN0ZDVTgzUQ?oc=5>
+- 时间: 2026-09-09 23:48
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE5VUUI0UnYxY3pHcjg3R1B1ZDlHSzk0NnMzUUtQQ2hYR3ZOTFFxMTFNWFM2QzVzdlBENXlZSHdCNVFqeVE4elAyZFFJbG12eGphX2t6TlhnLUxEb1Y4R3BITGZscmY0b28tTUlYcUtOcExLaXRYV0HSAXhBVV95cUxOX0hxbkxHdWVOYTZ2TFdpZXhUaTVVVFh0YTNwM09pYlJ5YjBSbHRGQ3BRa0l0dEUyLTJCbzN3dDdCeVByd1lRVGdmb0JwaUpQRDEyZjNNalltNDVkSUpqcWJMUmxOUTVZS0NObXpYVWhoMVpFVFIzNUw?oc=5>
+
+### 特朗普：可能与俄罗斯举行双边会晤
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-09 23:00
+- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxNamJSUWJNTlJaMlJOX0RuVTAycDY2cHZTdlBtaTdrS0QtS21BN0dkck5kWlJYUDNsWXE3X0dFTEdNRFFOeUMzSHluREN0cVVsZDl0RHNCVVR1dTB5b2VKVy1RSldIdjFSQ3REUksxZzBhQkFpVU81YXRsRGhndEFwTnhhQ21fb3ZNNmF3M3R6S2JwWGVfdnBXRA?oc=5>
+
+### 特朗普称普京“想达成协议” 美国寻求启动新一轮俄乌谈判
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: finance.sina.com.cn
+- 时间: 2026-09-09 22:39
+- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTFByUTA4S0dFNWJYS0VlOE42UVhTT1NkTDBmV1dpWTJCRHFYcEp1YUdmb0U3dHNGVjB0Tk50a2dwQTBlYjh4ZkhFNFI4a3R4UGVMbGx5UHVzWXpOYWR1NGhsYklsRl9rYlhDallSQVFFYmd6Z25NVG1DODFR?oc=5>
+
+### 美伊战事何时结束？特朗普给出时间表
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: news.china.com.cn
+- 时间: 2026-09-09 23:47
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTFBIZEt4Zm15V1ZGWEFyV1J0NU1yWlFKd2N4QXZid2Ywc1lUcXl0bzNGTlBra0dDVXB1OXZ5U3B1V0ppdzFDd3BNMkdCSGVFWlZLdGhYVFUwaGd3WGZTMmVuRXRac2M1VU1DQkZF?oc=5>
+
+### 特朗普与习近平会晤在即，华为将在美受审
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-09-09 23:33
+- 链接: <https://news.google.com/rss/articles/CBMinwFBVV95cUxPc2JlbWgtNEVremVWT0d0UTRicC1EdjdWVUlrSkxhOFI4aEUxNWx1RjI1dXMxN2x5R0xOcllHZFlOcmRsb3gyVXViaGRJRmk5aDRlcU5VQkNnQkVoR3IzYTBKQ1JNazlkY3hlbUU0Z3NDeUFVak15amkxLXJ6QkNqb0xzSkpBQ0J1a3VPN2dnUDJsWmxUZHF5d2VpSWlXc1E?oc=5>
+
+### 耶伦等经济学家向法庭陈述：特朗普关税越权
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街见闻
+- 时间: 2026-09-09 21:04
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRWDRQTXRNNHpzWHVtSDJ0ZkRrVUVIVmppbTltcmlMajRacUp4a3prdGF2WTFXT2prajNPWDM4M2t6X0FjOVpKUFVWLVBVaWtldUY0?oc=5>
+
+### 中东特使威特科夫从与特朗普加密货币相关实体赚得逾1亿美元
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-09-10 00:12
+- 链接: <https://news.google.com/rss/articles/CBMisgFBVV95cUxQS2QzV2ZZOVNEbjZtTEszOGR3bWFpR2VpOHVsNHdRckNMN1czTTZaTWhZdHE5OUlFVGNJaWh6c09UUEhpazRwRlduRDZTYU9VWm9zVTBIYVB5OXZTZnVZYWVtbUtxRlpyNHVCWWRLZ2RvaTBMSm5iQ2U5SUhCNzc3aGdCc005WGpPZFN4Ukdpa0t0aGhvd1ZSUUV0Uk1iR19nVncwaGgyelg0MmFDMWdNci1n?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-10 00:23  (10 条)
+
+- **特朗普** | 特朗普专机应急滑梯因误操作弹出 <https://news.google.com/rss/articles/CBMifEFVX3lxTFBJX3hNVUR1RWhsZGx4YXVrTU5jNUg0dFE5ZFRHdlNxZEdrUnQwWUdNSk9oaE9pbTR5RERkczVWY1BObDRlLWN3dkFKYzByYlpkMjhBVEFldnVIVGFOUGt3NmxSU3AzSTAxQmNyT0JhaXJyRkR6RkpMUXlyZTY?oc=5>
+- **特朗普** | 特朗普登机前空军一号放下应急滑梯 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1lNDdTOVhoUEhON0xhNzhSR3ZvQjdCeEFlZEh4b2xUT2lET0ZlTmVOWjBDcll3YTZwV3B4ekp2SUI4N3llYzRQamJ0Zw?oc=5>
+- **特朗普** | 美媒：特朗普专机突发状况 应急滑梯因误操作意外弹出 <https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoRFRXUmZCTFJFSlNaV0lJbDZoVncxNl9VUndlZ2pWT0JXNlNnN3pKRm92ajNtN3pMd0NVX3N2U0dkU0ktempHMmlkUExIUWEyLXc?oc=5>
+- **特朗普** | 特朗普总统肯定与普京交谈，或促成美俄乌三方会谈 <https://news.google.com/rss/articles/CBMidkFVX3lxTE5VUUI0UnYxY3pHcjg3R1B1ZDlHSzk0NnMzUUtQQ2hYR3ZOTFFxMTFNWFM2QzVzdlBENXlZSHdCNVFqeVE4elAyZFFJbG12eGphX2t6TlhnLUxEb1Y4R3BITGZscmY0b28tTUlYcUtOcExLaXRYV0HSAXhBVV95cUxOX0hxbkxHdWVOYTZ2TFdpZXhUaTVVVFh0YTNwM09pYlJ5YjBSbHRGQ3BRa0l0dEUyLTJCbzN3dDdCeVByd1lRVGdmb0JwaUpQRDEyZjNNalltNDVkSUpqcWJMUmxOUTVZS0NObXpYVWhoMVpFVFIzNUw?oc=5>
+- **特朗普** | 特朗普：可能与俄罗斯举行双边会晤 <https://news.google.com/rss/articles/CBMimAFBVV95cUxNamJSUWJNTlJaMlJOX0RuVTAycDY2cHZTdlBtaTdrS0QtS21BN0dkck5kWlJYUDNsWXE3X0dFTEdNRFFOeUMzSHluREN0cVVsZDl0RHNCVVR1dTB5b2VKVy1RSldIdjFSQ3REUksxZzBhQkFpVU81YXRsRGhndEFwTnhhQ21fb3ZNNmF3M3R6S2JwWGVfdnBXRA?oc=5>
+- **特朗普** | 特朗普称普京“想达成协议” 美国寻求启动新一轮俄乌谈判 <https://news.google.com/rss/articles/CBMiekFVX3lxTFByUTA4S0dFNWJYS0VlOE42UVhTT1NkTDBmV1dpWTJCRHFYcEp1YUdmb0U3dHNGVjB0Tk50a2dwQTBlYjh4ZkhFNFI4a3R4UGVMbGx5UHVzWXpOYWR1NGhsYklsRl9rYlhDallSQVFFYmd6Z25NVG1DODFR?oc=5>
+- **特朗普** | 美伊战事何时结束？特朗普给出时间表 <https://news.google.com/rss/articles/CBMia0FVX3lxTFBIZEt4Zm15V1ZGWEFyV1J0NU1yWlFKd2N4QXZid2Ywc1lUcXl0bzNGTlBra0dDVXB1OXZ5U3B1V0ppdzFDd3BNMkdCSGVFWlZLdGhYVFUwaGd3WGZTMmVuRXRac2M1VU1DQkZF?oc=5>
+- **特朗普** | 特朗普与习近平会晤在即，华为将在美受审 <https://news.google.com/rss/articles/CBMinwFBVV95cUxPc2JlbWgtNEVremVWT0d0UTRicC1EdjdWVUlrSkxhOFI4aEUxNWx1RjI1dXMxN2x5R0xOcllHZFlOcmRsb3gyVXViaGRJRmk5aDRlcU5VQkNnQkVoR3IzYTBKQ1JNazlkY3hlbUU0Z3NDeUFVak15amkxLXJ6QkNqb0xzSkpBQ0J1a3VPN2dnUDJsWmxUZHF5d2VpSWlXc1E?oc=5>
+- **特朗普** | 耶伦等经济学家向法庭陈述：特朗普关税越权 <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRWDRQTXRNNHpzWHVtSDJ0ZkRrVUVIVmppbTltcmlMajRacUp4a3prdGF2WTFXT2prajNPWDM4M2t6X0FjOVpKUFVWLVBVaWtldUY0?oc=5>
+- **Trump** | 中东特使威特科夫从与特朗普加密货币相关实体赚得逾1亿美元 <https://news.google.com/rss/articles/CBMisgFBVV95cUxQS2QzV2ZZOVNEbjZtTEszOGR3bWFpR2VpOHVsNHdRckNMN1czTTZaTWhZdHE5OUlFVGNJaWh6c09UUEhpazRwRlduRDZTYU9VWm9zVTBIYVB5OXZTZnVZYWVtbUtxRlpyNHVCWWRLZ2RvaTBMSm5iQ2U5SUhCNzc3aGdCc005WGpPZFN4Ukdpa0t0aGhvd1ZSUUV0Uk1iR19nVncwaGgyelg0MmFDMWdNci1n?oc=5>
 
 ### 2026-09-09 22:16  (6 条)
 
