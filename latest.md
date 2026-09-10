@@ -1,78 +1,100 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-10 13:45**
-- 本轮扫到 11489 条, 新增 **8** 条
+- 最近更新: **2026-09-10 17:26**
+- 本轮扫到 11498 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (9 条)
 
-### 20260907 王一博百雀羚新品发布会周年盛典回顾cut –
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6144301079_m16e3a981703301j162.html>
-
-### 特朗普再威胁打击伊朗“镐山”核设施
+### 特朗普政府提案取消H-1B签证持有者失业后的60天宽限期
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-09-10 03:33
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9KbnZPUWdrOTRqTkVEQzB2all5TFZvOTdBcklDM2RNMFBQc0RiUzZGU3pWWW16endRSFJaZWlQd3NpZDNGdnZrSzNOa1pwVkV2NXNJdWJtdzlmVnlNTE5sRGNvUkc0UFpTa2JEZEtEREQ?oc=5>
+- 场馆: RFI
+- 时间: 2026-09-10 15:57
+- 链接: <https://news.google.com/rss/articles/CBMi1wJBVV95cUxPTXVlblc4MmZxVzdpTUFELWQxRzB4NG4xSENYRUczT21xZDZ2dDhvZTZ5UTVEZmQ4LUdWdWU1Si1Kc3ZVYTRsMS04bzgtVllGN3ZzMkRxUG9uT0FvVVYxTFhKQW9OTG9BalpDTk1BdVhtWXA2Zy1CMkJOSGV1VERRQkFjeFd6QnEzRU5ZLTVvc0kwYzRRdm5GMEU5dXRjWmtuX3puRm5QbmFscmZ1ZWtNejdLVUJMR19lMlVlNVE5dWtGRDJvX3c1b0tMQVlKQ2RNeGZYUEpYTm1vSDIyRzV2NUVOa1E1NE40M2wzV3ZFSUhRMC1DSFRFQ19GMXBzaG9CeWcyWXdmR2dMT0NhczZIaldIdVJwbmdlWGpFTHZjMXk2ZEFYWHZ4VGF0ZWpLLVJscVh3OVdWYUtFdmprbjNUeHpSUXJVTDB1aldnaWV4R0E1NGRLWWh3?oc=5>
 
-### 特朗普专机突发状况，应急滑梯弹出
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-10 05:14
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9oaDJJeWFkbjhiMnduSGJrWHVsdWprNnlfNERaN0J5NGpNYjZHdm9LelhMRE1wZ1Q2YkVSTnU5VVQ2bjZialFScy11d25KLXphN2p6QWdBcVJzMTFxeUhCS0kzUGNfY0RmdHJ5b0toYWF0eVJycjE4dw?oc=5>
-
-### 万斯、鲁比奥等人私下警告特朗普，美伊战争可能持续到其卸任
+### 特朗普画大饼：若共和党拿下中期选举，每个美国成年人发5000美元
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-09-10 08:01
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE4xb3NVZWxET0JwMXE3XzEwOVlleWdXXzhzUHFtczB5VFA3WDNOa3djangzWmJoYV9kRjNPV05jLUlaSUhHTURvdmRUUUg?oc=5>
+- 场馆: 观察者
+- 时间: 2026-09-10 03:40
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1kT0NVamhtMGZPcXo5dkhveWZwVGkzYjBuMDEtYkhvTWkweHZLbG1wSmFQMDM5MGt0SFVMclZwUDZLNnBzb1hId3ZYMkNETUtzdTloSFNwaGx3d0Q4Slp2UVNGUjF2NjYwX0ZQek5hVGhJbmc?oc=5>
 
-### 加拿大反制精准克制 特朗普或“骑虎难下”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-10 07:16
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBHWW5uSGdxU3NkXzBRa1VlcTNiMzVPMkExaU83Sk9SMWVyRXBwOXVsTUk1cGNBVi1vV0xSMkNlcTNuRHJjRm1FUTNkWEdXTDVmQ29TS3F3WGllam9oRzgybEF1MVpTRFB6eFVycFVxbDkwYjFoaWZnMg?oc=5>
-
-### 特朗普引发“新仇”，但美国加拿大早有“旧怨”
+### 中方据报愿协助促成特金再会 北京正着手发挥“积极、建设性”作用
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-09-09 18:17
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tTk5DalZZbm1tSWdyX3FMckpjdjRVZE5EcWhEWUZ0aTlOUHFLUm52Rzl6amxEQXI3RXFmNHN2OEtOX1EzclhjVnN5TWdhN0c4cl9IS3hlSDBiN3MtMDFOVzF3TlBUSUVS?oc=5>
+- 场馆: RFI
+- 时间: 2026-09-10 15:38
+- 链接: <https://news.google.com/rss/articles/CBMiqANBVV95cUxOcjdzRUtFeHVReDhNZlFLU3lhMUN2b0s2TGJiRTlyWGRCdHVJN0tfNXhhb2thU2NCQUxGTWdUdXRJYUFLMENVSkFKN0FqVHNLdEpuREs2S20wM1VEY1VMczM1Y3VKVFdWNXlQR0stZ0lQUzBJNVR0V00zWHZvZ2lhUWtkS2lNQng0aXNzeEhzeU1velpmVzhaVS1jOWQ3Y01YUklITzVFNjh4eXJfbTJnc2VHTmJlLWtHaFZzRWJ1NF9XNEJ4TDZMS1NrcDZlQWdRYi1VR21VY2RBNkhnZ25sSUxkUlJXa0ppZkVfQXFMQ2NPaDB0LXBxWk43ZVp0ZEh5VVlDd1BmUS1mbk1SSnZHVkdDY3J5Y1BCVXhFYTBmbk5sUWFwOUl6ajkzUTQyVzczNGhReEpVdVlBdjNEeHBCeDRWRWZWMlF5X0ZtN3QzY3VCS2VzSk9ENEdDTVBsVHNleWFxN19KVmRTSVcyNENnZ0hleXJSand0MFB0dzY5aHljM2t0NUhiVVk5MGxEOVlwelAwRTlObXJqVVdrby1jSkt4UG5EUWVQ?oc=5>
 
-### “卡塔尔赠礼”Trump专机再出插曲：登机前紧急滑梯展开- 阿视亚经济
+### 特朗普：9·11发生时，2名消防员把我从现场抬走
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 아시아경제
-- 时间: 2026-09-10 08:55
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ldTdCV1U4aDBUT2IwYWpfSnB6RDNVWEltcDREaUNIVl9FSGU4M3Q4dWoxemh2bE8xRTJSTlIxNlIwN2N5M1E2UF9KUHBXU09IOTlGVzFaWmd2UWJVcW5hY1FKQkc?oc=5>
+- 场馆: 观察者
+- 时间: 2026-09-10 14:42
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1BemVRNGd1UDAyV1pvWWIxNDVMVXlvWk1qRnhXakZzYVRsbjlCM3RSSDFacmhYdFNWVUJCRTByOU9yR1ZqWG8yZERpWDZHVDF1bkZQTzlMVU9GNlhLelY5RFlTdElPTXJWWHdIUFM0RHgxQzA?oc=5>
 
-### 开战后买入、停火前卖出……Trump账户猛增59亿韩元- 阿视亚经济
+### 德媒：特朗普为德国极右翼喝彩，要“让德国再次伟大”
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 아시아경제
-- 时间: 2026-09-10 06:59
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1naUNxbXR0U1ltdFVFMlBYMElHSzdLOHhNcm5FSnNGUFJYbk0tcFpRM19hUUcxSDhLYXlCSlh1eTRLemNBd0ZhdXpaTUdiWnZGeG5LbmZjaXVUNmthMjhBX1lUZmI?oc=5>
+- 场馆: 中国青年网
+- 时间: 2026-09-10 09:18
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NVkdmaDRqVnFUTTl2R1NRc2l2X21hZXF2UzAydl9sZzhZVEZFN1pRUEtXVUc5WmdSMWIzekp2OG1qNnRkckhTMnoydU5LTTI1XzR0MXZwdzVwV3p0SnhlZk53RjVMV1U?oc=5>
+
+### “空军一号”应急滑梯因误操作弹出，特朗普：相信飞机安全
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者
+- 时间: 2026-09-10 02:16
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1SV3VQcEFsVTRnOFJ5eVRUWmVuNmxIb1J0TDFVT2V4V0E3dnFyR1dadWgzTjJQckR2SS10ekZtdHliQUg0NXBLLWFybWVsOWVBYmphSU5xeGJfaDNnSFNVbkJUWFE5bnQ3cEZmcEFhMS1RZm8?oc=5>
+
+### 特朗普：若共和党赢，每人发5000美元
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-09-10 13:40
+- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE5pa0lfMGs2NE9zemhEckt2TGFiTkZ5RGRkbm1SMkJ4QUFKc2poYndkRGRPSkg3aHlVVXBZRmtIcWVpVnFXMDVtcDA0VjE5dWg1ZlJyVUVRMUFGZTRCNWNfazY1MWt3MzBLTTJTcTMxZ3NTX01EbG5uajlfUFUzUQ?oc=5>
+
+### 特朗普：若共和党赢，每人发5000美元
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-09-10 13:40
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTFBEUDZDZnpxbVdua3FJUG1GUmdNN1dHUkVaWnAwd3JEUjM1cUlkeXZDRDVEOENKdXdIamVXTVhtM3d0anpCaXJQdW92VjN3OU5vS3N4cHVTVFdmZkV1QXR1U2ctSGppaURocWpXcl9hdEVrTlBtWXc?oc=5>
+
+### 特朗普：若共和党胜选，将向每名美国成年人发放5000美元
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新京报
+- 时间: 2026-09-10 13:03
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkRkRKSDVFNnFuSEw4QWk2bEFtYThabS1sLUQ4X1JSVnJqeFRkRFNVTjlsYWlEOHE3cmhwZ3BhS1dGaWpkVmZDMjdMbDZ6ekhJV0NTX3hFZnZjMThzbm1Tb1hqY08?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-10 17:26  (9 条)
+
+- **特朗普** | 特朗普政府提案取消H-1B签证持有者失业后的60天宽限期 <https://news.google.com/rss/articles/CBMi1wJBVV95cUxPTXVlblc4MmZxVzdpTUFELWQxRzB4NG4xSENYRUczT21xZDZ2dDhvZTZ5UTVEZmQ4LUdWdWU1Si1Kc3ZVYTRsMS04bzgtVllGN3ZzMkRxUG9uT0FvVVYxTFhKQW9OTG9BalpDTk1BdVhtWXA2Zy1CMkJOSGV1VERRQkFjeFd6QnEzRU5ZLTVvc0kwYzRRdm5GMEU5dXRjWmtuX3puRm5QbmFscmZ1ZWtNejdLVUJMR19lMlVlNVE5dWtGRDJvX3c1b0tMQVlKQ2RNeGZYUEpYTm1vSDIyRzV2NUVOa1E1NE40M2wzV3ZFSUhRMC1DSFRFQ19GMXBzaG9CeWcyWXdmR2dMT0NhczZIaldIdVJwbmdlWGpFTHZjMXk2ZEFYWHZ4VGF0ZWpLLVJscVh3OVdWYUtFdmprbjNUeHpSUXJVTDB1aldnaWV4R0E1NGRLWWh3?oc=5>
+- **特朗普** | 特朗普画大饼：若共和党拿下中期选举，每个美国成年人发5000美元 <https://news.google.com/rss/articles/CBMic0FVX3lxTE1kT0NVamhtMGZPcXo5dkhveWZwVGkzYjBuMDEtYkhvTWkweHZLbG1wSmFQMDM5MGt0SFVMclZwUDZLNnBzb1hId3ZYMkNETUtzdTloSFNwaGx3d0Q4Slp2UVNGUjF2NjYwX0ZQek5hVGhJbmc?oc=5>
+- **特朗普** | 中方据报愿协助促成特金再会 北京正着手发挥“积极、建设性”作用 <https://news.google.com/rss/articles/CBMiqANBVV95cUxOcjdzRUtFeHVReDhNZlFLU3lhMUN2b0s2TGJiRTlyWGRCdHVJN0tfNXhhb2thU2NCQUxGTWdUdXRJYUFLMENVSkFKN0FqVHNLdEpuREs2S20wM1VEY1VMczM1Y3VKVFdWNXlQR0stZ0lQUzBJNVR0V00zWHZvZ2lhUWtkS2lNQng0aXNzeEhzeU1velpmVzhaVS1jOWQ3Y01YUklITzVFNjh4eXJfbTJnc2VHTmJlLWtHaFZzRWJ1NF9XNEJ4TDZMS1NrcDZlQWdRYi1VR21VY2RBNkhnZ25sSUxkUlJXa0ppZkVfQXFMQ2NPaDB0LXBxWk43ZVp0ZEh5VVlDd1BmUS1mbk1SSnZHVkdDY3J5Y1BCVXhFYTBmbk5sUWFwOUl6ajkzUTQyVzczNGhReEpVdVlBdjNEeHBCeDRWRWZWMlF5X0ZtN3QzY3VCS2VzSk9ENEdDTVBsVHNleWFxN19KVmRTSVcyNENnZ0hleXJSand0MFB0dzY5aHljM2t0NUhiVVk5MGxEOVlwelAwRTlObXJqVVdrby1jSkt4UG5EUWVQ?oc=5>
+- **特朗普** | 特朗普：9·11发生时，2名消防员把我从现场抬走 <https://news.google.com/rss/articles/CBMic0FVX3lxTE1BemVRNGd1UDAyV1pvWWIxNDVMVXlvWk1qRnhXakZzYVRsbjlCM3RSSDFacmhYdFNWVUJCRTByOU9yR1ZqWG8yZERpWDZHVDF1bkZQTzlMVU9GNlhLelY5RFlTdElPTXJWWHdIUFM0RHgxQzA?oc=5>
+- **特朗普** | 德媒：特朗普为德国极右翼喝彩，要“让德国再次伟大” <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NVkdmaDRqVnFUTTl2R1NRc2l2X21hZXF2UzAydl9sZzhZVEZFN1pRUEtXVUc5WmdSMWIzekp2OG1qNnRkckhTMnoydU5LTTI1XzR0MXZwdzVwV3p0SnhlZk53RjVMV1U?oc=5>
+- **特朗普** | “空军一号”应急滑梯因误操作弹出，特朗普：相信飞机安全 <https://news.google.com/rss/articles/CBMic0FVX3lxTE1SV3VQcEFsVTRnOFJ5eVRUWmVuNmxIb1J0TDFVT2V4V0E3dnFyR1dadWgzTjJQckR2SS10ekZtdHliQUg0NXBLLWFybWVsOWVBYmphSU5xeGJfaDNnSFNVbkJUWFE5bnQ3cEZmcEFhMS1RZm8?oc=5>
+- **特朗普** | 特朗普：若共和党赢，每人发5000美元 <https://news.google.com/rss/articles/CBMifkFVX3lxTE5pa0lfMGs2NE9zemhEckt2TGFiTkZ5RGRkbm1SMkJ4QUFKc2poYndkRGRPSkg3aHlVVXBZRmtIcWVpVnFXMDVtcDA0VjE5dWg1ZlJyVUVRMUFGZTRCNWNfazY1MWt3MzBLTTJTcTMxZ3NTX01EbG5uajlfUFUzUQ?oc=5>
+- **特朗普** | 特朗普：若共和党赢，每人发5000美元 <https://news.google.com/rss/articles/CBMidkFVX3lxTFBEUDZDZnpxbVdua3FJUG1GUmdNN1dHUkVaWnAwd3JEUjM1cUlkeXZDRDVEOENKdXdIamVXTVhtM3d0anpCaXJQdW92VjN3OU5vS3N4cHVTVFdmZkV1QXR1U2ctSGppaURocWpXcl9hdEVrTlBtWXc?oc=5>
+- **特朗普** | 特朗普：若共和党胜选，将向每名美国成年人发放5000美元 <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkRkRKSDVFNnFuSEw4QWk2bEFtYThabS1sLUQ4X1JSVnJqeFRkRFNVTjlsYWlEOHE3cmhwZ3BhS1dGaWpkVmZDMjdMbDZ6ekhJV0NTX3hFZnZjMThzbm1Tb1hqY08?oc=5>
 
 ### 2026-09-10 13:45  (8 条)
 
