@@ -1,60 +1,100 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-11 17:27**
-- 本轮扫到 11555 条, 新增 **6** 条
+- 最近更新: **2026-09-11 19:55**
+- 本轮扫到 11564 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (9 条)
 
-### 娱乐圈最后的狂欢，明星们集体开演唱会
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923551_m1d5ae175f03301qn88.html>
-
-### 周杰伦代言vivo X500，粉丝期待用新机拍演唱会
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2839442860_a93e75ac04001j1v2.html>
-
-### 是否担心AI导致人类灭亡 特朗普：我担心，若不胜出会陷入不利境地，我们领先中国一年
+### 泽连斯基呼吁特朗普：“立即”对俄罗斯实施“严厉”制裁
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: RFI
-- 时间: 2026-09-11 16:22
-- 链接: <https://news.google.com/rss/articles/CBMixARBVV95cUxOTUxCNWt5cDl3eldCRmJvVVBHdkZpWFBxU2s3c2Q3VVJqYUwtdS13WWNFc25EaVI2eG0tY2tKSGFXVkZ6UkJvSkYzelhGXy11cThCaU9IMmNZSFBEMUlpYVczcFluZmtuUlFlTXlvYjVmWFRZMnBMclI2bmpkcUtabnBBR0JZWW9oM2F2NF9xR2FkTF9ZV3pMei1FVlcyU01Gam85a1Y4c3FSOU5GdmpzV1dVdEt3bEJZZFNaUDhWbnpNT0VpMHBkX1RIRVBmVTl0aFhneXZ5LXBSX0VIUmhBZzljYkZfZHpnSU9aQmJnQ3VvWHFTbnJqcWNIcEUxRTRQVHFvMVV1cGtMQktJVml2am54Vng1Z1ByTGZxaEtONWFjXzgxZWcyQmp6bzBEaXAzRUotaU80X240ekhNX1RITW96UkkxdENxTVFoSlNHWWpjd1c4bUxzWHJtUVNBXy10NERja0JNWC10MjM2SFhrTUZsbFQ1R0FOSTZYeGxqM1JEc3k5OVdfUHRTd0JYN1ZMTzdQSm9NaUQ1S1hQRWxVTjhCbi1VbG1mdWppcGhoUWw5b1pwNnVMZDhickJ1OU9WVFpJQnlRRUQ5b1VRdF9neFlZbGJfd1JTNTlBbHJHN3ZlSC01NTlRZm4zejBUd1pRUnpjajJvdUotWm93MTZnQUl6Uk92Ni1QVmtUX1U1YVpCMjJ4b3BXd1ZPLU9aMHBLcHF0b1VZZ2FCQ256R3VubWc2S3kzd1d5cHpUZU1sQ29kR1Vq?oc=5>
+- 时间: 2026-09-11 19:02
+- 链接: <https://news.google.com/rss/articles/CBMi4AJBVV95cUxPeVdsVV9xcWlRc1VQbG81bU41Rzd3bkdaOEVkWElFTGQ4cWdaaFcxQnRHNUJhT3lPckRJanZ5bkw5ZUFrMW5KbS1pd0M1SGREdHN0Z2ZHVUx0OUdCR3BWMW9RSXUydFprWVpTV2FNNnNuR0drc2piWHZ1V3A0NUt0anN3MlFCNHFTdDVkdDNyUVdzRDdhT1FRcWpyWVFLc1F4WDVjcE9Eb2JxMHhVaVNnS0s4d0lNMi1MbVVpMlZCZ1RKWHRQbzVicmNyRzFqSnNvczJRMHRQSlQ1bkVocXdsX0FlUVNYN1h3RkdTTFlGblFOeWJkcTVfXy1mbnVKMkR5eHUxcmRWa1VYeFdBLURoUjEzYkNKQU9GSjFrQ3BiRWNfQkUyXzRaZTR0NFg5M3JlQjVJVnp5TmFaRzc3UUhxQWVkQnpyNlZUMnlpVW1xNGZYVHNwVFRkQ004V1JSOHdI?oc=5>
 
-### 德语媒体：中印关系回暖 特朗普功不可没
+### 特朗普将“9·11事件”与伊朗战争相联系：美国永远不会忘记，这就是我们今天为何而战
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: DW.com
-- 时间: 2026-09-11 06:11
-- 链接: <https://news.google.com/rss/articles/CBMilgJBVV95cUxQM0h4SFowOFVubnl2bWFtNXNOLTZxcWs2Q29nRFdoTjZwcjEwaXkzY0YzLWhXY0ZaOHpKUTd5Um1RNFRsRzlRRWdUQzJ1dEVHY2RmTUJNaE9LRE1oMzNnSlBRWjhqRkxNXzJDVDJQWGJNNlpIRHVpOVdXa2pabXpKeWdHVjQ5QWZ2RGUxXzFvM2dDc18xUmZlX2pUaGJ0REtUbWtTRHVuN1JBVnB5LXlZeVYzYmdaWnNLaUstRzU3cVhUUEFOLXVVYVVfZDlTMUlRZGw3YXBINC10dWhzd3liZEEyMnlzS3FTRzlwYUo0Q3pkX2JXLUdRalkyNGFLMVRpR044RXlQNk9uNlZnRXpweVBJUWZYd9IBlgJBVV95cUxQLURFWnBPVWF5aXZmeU1oNnVGZ0tIRjNKNkRjOE9HTWZfX0h6cVkxT01HbDNqSzdRZ20teXNmdTdmZlh0cEhqcWFCNHJjdWxKTEhyX3FBZy1VTTJ5dU5VZXZZa3JUVkw0VHZDLXVvMEtWSzU0UjAwdVItbDA4R29sX0RmMS13cklDRHhKSXpXdDhBeGU2a1M4VXJKRG81ZWlxTVlVdmdKRWhQcWU5THFJbTZVcjFiUEF3cG1ER1FpUjFFVVJfaEZ1RVBxTy1sT2o3RWxOaEJVOURIQ3FzUk9nMmswWGZBRF9Qa3c5YnRLc21JaHp1U2RBa29WQnI0TngyMlJCSDhjREZVb0xsbEExX053WHRjUQ?oc=5>
+- 场馆: RFI
+- 时间: 2026-09-11 18:39
+- 链接: <https://news.google.com/rss/articles/CBMihwRBVV95cUxOZjNGWi1JQXlpelpLNlJiQ2QyekFlcThwTThSQzgzUURwMlVsM1hUdzZuclY5SlJOMnhpdjZRUkpRSExrbkpORjFydUJFX3JYRHRqbjRRQVBWQ01TOUs4S1hWR2syNW9rVEdKd1NrTF8zZGM3NGtCdlNGOUhpWENJYUtkOEVTeEc1Z1ZwU1RjbmdvWVNqNVR4M3dmS0xKYWZwTnVzVm5kWWlsdl91NFc3aE84cWtHS004eGhkUm5zVk9WeVFUSkhVRlJWTld2eE43UjJYMEVVQXp3WDlrZzhWVjJKTHFGb3hKV0tOZjlPOEFETjRYWUs5aG9nMFFqTGk2aHFMbkxibVRZTF9mTmMwcXpfZzBhb0haNlM5OTZhZHJ1WmFHZVlmNjZkVzJfREpTRDFBaVN1MG40YWI1eU1WYkRLM1F5MW9BenFSekNqbk95X2pqUTRxWGFvNVpHSVBpSVRrTWtsaFpxNFh3dENBbGs4cldKb0lwdzBxRm5BRkJiRktuZmxZbUExejZnRjFyMmJLbmtNc1prempicWl6Y3VLSTdzYWxnNWItSTctcGpsTElEbUJzSktoNTNfOU9WOG0zbzhqR0lFVlB3MGgyZWV2OXFSSnRFR0djUVJGT2N4SndRUU5WVVpsZGlDU2RrZzhrdFhfdUxESFVTOThnYm9FNDF6SFU?oc=5>
 
-### 特朗普：不后悔对伊朗开战 战争将在中期选举后立即停止
+### 美众院下周迎俄罗斯制裁法案关键表决
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-09-11 19:46
+- 链接: <https://news.google.com/rss/articles/CBMiqwJBVV95cUxOYU5Mak1xcUpaMUxKUUo1TGE3eWZlWk5jb05PeGw1SWpoSUYyamREY1lNb3dZR0xOa1h2YzFVUEJVYi1PNklkb0RPdFAxMlBFaWlmb0JEd0dqajBheTZ3eGEtZEpsX2tqbGM4ZlVWU3l3UGYwcHlmN1ZGWThMd3ZBTzhfLXlDSXFuOEs5cENRdnlrWWpxSFpVTDMzeVdxMnUtZGVCd25KVER0OGRrUnRuSVhNTzFrS1haaU9rbm1jRFBiTDV3UVBqNnBPcmZScDdvZ2VxekFjTmhXUGNvY1o2ZHRyZTRFcWNMejhWYXlDaXY0VkRTZTZrY21vVTZXX25oZmJDc0hnUkJjZFE5Sl80TUxGWmFMRGZZakR0ei1nZDVlUlZZQl84N3NIMA?oc=5>
+
+### 美媒：万斯、鲁比奥等人私下警告特朗普，美伊冲突可能持续到其总统任期结束
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-09-10 11:07
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5zR3laQ2ZJTFhTSWF5ZG9wZWpWajRjSkFhb08zVUhoVDV5ZEpTNWxqeEdpRFZ2VGxwcjJkeHdkQzRpT0R4LWRYbUllU3p0S0xIVTR1TC0xNmFnYnRHTXktNVJHdWJlcUEzbnpjWjloX2M?oc=5>
+
+### 哈塞特：特朗普认为应返还更多财富给人民
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-09-11 15:17
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBMeFR6T3V5cXM4V08yMEMwUVU0MDN1ZnBoRE5nRllpNkJWdDkxUkgtdEUzT2h2b1ZfeFVmMldvWEQ2QlI0TVUyRnd6R29xc3FhdWRnWGtLak1ycUJMYVJpanh6R0lmQVA3M2RuMW5jclA5cWVLSjZHZQ?oc=5>
+
+### 美国在9/11恐怖袭击事件发生25周年之际悼念遇难者
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-09-11 18:31
+- 链接: <https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQTd1bDM1ZWxUWFlIWGNUR19yenVXZnhzYWpXbWY1Zk1EWEFpNUhPSjd3UzRyMGkyNmVFNmoycDNmczY0WUw1d3RmaEc2NVBXZGo4ZUpCQldaN0RtMzRHUU5JR0pYZXk3WEYzZFc0Tmp1OWdPLWgwWlBoQXRUYWEyQ0NQaXFBWE1sMXYyTXJoeTVZR0k0OHhKbV9HTWtVdXJsT0gwS1lLYUZhc3J2T19mQTJxMUptSEhYMFVFYU9LOXLSAcMBQVVfeXFMT09ndXpPOWtLYVB1WEVvR1hhOFNPU2o3aTA4OUg1WnZNajJtdHdtNmtONU0yWWhocTMwNDBibjhQWS15ZmRITmxrUzdQRWR1LTBUZi1iU1RLYTNxWlc1dlU2a1FPQ012QlRBR0NhYUxkeEJ1ajdfLWlDMWtsZV9VNjUzYjBSc3M3MkFRa0Z6MUhYLXk5YXNPMS1MOEViWEFwcTQ3M1QtcW1aYTRTejBzRHYzazlxZTRjSHZJcE9vOHVCMEVV?oc=5>
+
+### 特朗普驳斥AI末日论：我只担心发展的不够快
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 财联社
-- 时间: 2026-09-11 06:03
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTFBvTzk2UXQwTldXWExOajZwM1dibWE0Z0VEcXQ1Zkt0MXBpT3hsS1BKMURDSUxRUjhSZk9LOHBhY3NZd0dQT0VWVA?oc=5>
+- 时间: 2026-09-11 12:04
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE56WVVuWjQ2M0RVRGNDSDJsdk1JTzB5X0ZudVp1cGpTNk9RQkItQUZBYTNneHQ0bmZYZEZ3VWNZT1BLY0QtWnhyYg?oc=5>
 
-### 特朗普就镐山设施活动向德黑兰发出警告 美伊在霍尔木兹海峡附近相互袭击商船
+### 特朗普“分红”丨夜观天下·漫话
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-10 10:05
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxQT3ZZcHBoZjFjTElDUUxXN0FzRkRuMGJEOU4xem56YjFtRllIMmJBcnhqN3o1azNXb2E0TEhZeUZnVDNUUUQxMUQ4YmREbktIVWoyWEhRQjNqTWtyVENDeE9jNkF2VFkyNVFKZFRySGk1MkVlZ3RSM3VrZDVTci00ck1wRWZWQ1Z3Y1hjSkFhRHQ2c1huY3hnMmlScGVQQVZmSnZLS2xoNGJ2QVRuT2dNU0lqVnF2VVVHZ2xnaDFiNDBRRDctRFUzeFZXS1pRWHJHeGxpaVNsaW9MM0EzRl9J?oc=5>
+- 场馆: 四川新闻
+- 时间: 2026-09-11 08:04
+- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTFA1Y3pjSlo1TC00bXh2Z1VyNlZNYUR3djlNS2JjazE0SjdoYThjMEZyOXo1XzdmOEthbk5oR29hTnZxNWc3SnNXakJlNy1rZ1M3LVp1d0hRMzFkb09FaUZJQml5dw?oc=5>
+
+### 特朗普：“不后悔”发动伊朗战争
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 京报网
+- 时间: 2026-09-11 09:08
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE43SWR2bEl4cE45LVp4UGRFN0c1WnVWSEZEeFBUMmxUNFYzbzhCTnREVTMyTEhnaklKNVZwZm00RGZrMnRNdE41c0dEWlNkTVhwS0R3TnB4RkhZR2ZOeHc?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-11 19:55  (9 条)
+
+- **特朗普** | 泽连斯基呼吁特朗普：“立即”对俄罗斯实施“严厉”制裁 <https://news.google.com/rss/articles/CBMi4AJBVV95cUxPeVdsVV9xcWlRc1VQbG81bU41Rzd3bkdaOEVkWElFTGQ4cWdaaFcxQnRHNUJhT3lPckRJanZ5bkw5ZUFrMW5KbS1pd0M1SGREdHN0Z2ZHVUx0OUdCR3BWMW9RSXUydFprWVpTV2FNNnNuR0drc2piWHZ1V3A0NUt0anN3MlFCNHFTdDVkdDNyUVdzRDdhT1FRcWpyWVFLc1F4WDVjcE9Eb2JxMHhVaVNnS0s4d0lNMi1MbVVpMlZCZ1RKWHRQbzVicmNyRzFqSnNvczJRMHRQSlQ1bkVocXdsX0FlUVNYN1h3RkdTTFlGblFOeWJkcTVfXy1mbnVKMkR5eHUxcmRWa1VYeFdBLURoUjEzYkNKQU9GSjFrQ3BiRWNfQkUyXzRaZTR0NFg5M3JlQjVJVnp5TmFaRzc3UUhxQWVkQnpyNlZUMnlpVW1xNGZYVHNwVFRkQ004V1JSOHdI?oc=5>
+- **特朗普** | 特朗普将“9·11事件”与伊朗战争相联系：美国永远不会忘记，这就是我们今天为何而战 <https://news.google.com/rss/articles/CBMihwRBVV95cUxOZjNGWi1JQXlpelpLNlJiQ2QyekFlcThwTThSQzgzUURwMlVsM1hUdzZuclY5SlJOMnhpdjZRUkpRSExrbkpORjFydUJFX3JYRHRqbjRRQVBWQ01TOUs4S1hWR2syNW9rVEdKd1NrTF8zZGM3NGtCdlNGOUhpWENJYUtkOEVTeEc1Z1ZwU1RjbmdvWVNqNVR4M3dmS0xKYWZwTnVzVm5kWWlsdl91NFc3aE84cWtHS004eGhkUm5zVk9WeVFUSkhVRlJWTld2eE43UjJYMEVVQXp3WDlrZzhWVjJKTHFGb3hKV0tOZjlPOEFETjRYWUs5aG9nMFFqTGk2aHFMbkxibVRZTF9mTmMwcXpfZzBhb0haNlM5OTZhZHJ1WmFHZVlmNjZkVzJfREpTRDFBaVN1MG40YWI1eU1WYkRLM1F5MW9BenFSekNqbk95X2pqUTRxWGFvNVpHSVBpSVRrTWtsaFpxNFh3dENBbGs4cldKb0lwdzBxRm5BRkJiRktuZmxZbUExejZnRjFyMmJLbmtNc1prempicWl6Y3VLSTdzYWxnNWItSTctcGpsTElEbUJzSktoNTNfOU9WOG0zbzhqR0lFVlB3MGgyZWV2OXFSSnRFR0djUVJGT2N4SndRUU5WVVpsZGlDU2RrZzhrdFhfdUxESFVTOThnYm9FNDF6SFU?oc=5>
+- **特朗普** | 美众院下周迎俄罗斯制裁法案关键表决 <https://news.google.com/rss/articles/CBMiqwJBVV95cUxOYU5Mak1xcUpaMUxKUUo1TGE3eWZlWk5jb05PeGw1SWpoSUYyamREY1lNb3dZR0xOa1h2YzFVUEJVYi1PNklkb0RPdFAxMlBFaWlmb0JEd0dqajBheTZ3eGEtZEpsX2tqbGM4ZlVWU3l3UGYwcHlmN1ZGWThMd3ZBTzhfLXlDSXFuOEs5cENRdnlrWWpxSFpVTDMzeVdxMnUtZGVCd25KVER0OGRrUnRuSVhNTzFrS1haaU9rbm1jRFBiTDV3UVBqNnBPcmZScDdvZ2VxekFjTmhXUGNvY1o2ZHRyZTRFcWNMejhWYXlDaXY0VkRTZTZrY21vVTZXX25oZmJDc0hnUkJjZFE5Sl80TUxGWmFMRGZZakR0ei1nZDVlUlZZQl84N3NIMA?oc=5>
+- **特朗普** | 美媒：万斯、鲁比奥等人私下警告特朗普，美伊冲突可能持续到其总统任期结束 <https://news.google.com/rss/articles/CBMicEFVX3lxTE5zR3laQ2ZJTFhTSWF5ZG9wZWpWajRjSkFhb08zVUhoVDV5ZEpTNWxqeEdpRFZ2VGxwcjJkeHdkQzRpT0R4LWRYbUllU3p0S0xIVTR1TC0xNmFnYnRHTXktNVJHdWJlcUEzbnpjWjloX2M?oc=5>
+- **特朗普** | 哈塞特：特朗普认为应返还更多财富给人民 <https://news.google.com/rss/articles/CBMieEFVX3lxTFBMeFR6T3V5cXM4V08yMEMwUVU0MDN1ZnBoRE5nRllpNkJWdDkxUkgtdEUzT2h2b1ZfeFVmMldvWEQ2QlI0TVUyRnd6R29xc3FhdWRnWGtLak1ycUJMYVJpanh6R0lmQVA3M2RuMW5jclA5cWVLSjZHZQ?oc=5>
+- **特朗普** | 美国在9/11恐怖袭击事件发生25周年之际悼念遇难者 <https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQTd1bDM1ZWxUWFlIWGNUR19yenVXZnhzYWpXbWY1Zk1EWEFpNUhPSjd3UzRyMGkyNmVFNmoycDNmczY0WUw1d3RmaEc2NVBXZGo4ZUpCQldaN0RtMzRHUU5JR0pYZXk3WEYzZFc0Tmp1OWdPLWgwWlBoQXRUYWEyQ0NQaXFBWE1sMXYyTXJoeTVZR0k0OHhKbV9HTWtVdXJsT0gwS1lLYUZhc3J2T19mQTJxMUptSEhYMFVFYU9LOXLSAcMBQVVfeXFMT09ndXpPOWtLYVB1WEVvR1hhOFNPU2o3aTA4OUg1WnZNajJtdHdtNmtONU0yWWhocTMwNDBibjhQWS15ZmRITmxrUzdQRWR1LTBUZi1iU1RLYTNxWlc1dlU2a1FPQ012QlRBR0NhYUxkeEJ1ajdfLWlDMWtsZV9VNjUzYjBSc3M3MkFRa0Z6MUhYLXk5YXNPMS1MOEViWEFwcTQ3M1QtcW1aYTRTejBzRHYzazlxZTRjSHZJcE9vOHVCMEVV?oc=5>
+- **特朗普** | 特朗普驳斥AI末日论：我只担心发展的不够快 <https://news.google.com/rss/articles/CBMiSEFVX3lxTE56WVVuWjQ2M0RVRGNDSDJsdk1JTzB5X0ZudVp1cGpTNk9RQkItQUZBYTNneHQ0bmZYZEZ3VWNZT1BLY0QtWnhyYg?oc=5>
+- **特朗普** | 特朗普“分红”丨夜观天下·漫话 <https://news.google.com/rss/articles/CBMiY0FVX3lxTFA1Y3pjSlo1TC00bXh2Z1VyNlZNYUR3djlNS2JjazE0SjdoYThjMEZyOXo1XzdmOEthbk5oR29hTnZxNWc3SnNXakJlNy1rZ1M3LVp1d0hRMzFkb09FaUZJQml5dw?oc=5>
+- **特朗普** | 特朗普：“不后悔”发动伊朗战争 <https://news.google.com/rss/articles/CBMiXkFVX3lxTE43SWR2bEl4cE45LVp4UGRFN0c1WnVWSEZEeFBUMmxUNFYzbzhCTnREVTMyTEhnaklKNVZwZm00RGZrMnRNdE41c0dEWlNkTVhwS0R3TnB4RkhZR2ZOeHc?oc=5>
 
 ### 2026-09-11 17:27  (6 条)
 
