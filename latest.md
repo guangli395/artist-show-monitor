@@ -1,48 +1,73 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-10 22:10**
-- 本轮扫到 11507 条, 新增 **4** 条
+- 最近更新: **2026-09-11 00:18**
+- 本轮扫到 11513 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (6 条)
 
-### 特朗普总统在共和党中期选举大会上谈及伊朗战争、关税和边境安全议题
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-09-10 20:28
-- 链接: <https://news.google.com/rss/articles/CBMi2gFBVV95cUxNX0o4N3JmdHNwUTZ3a1d4aEE5TTFhdEZUejZ3MWFuaUkzT1hWcm40SEV3MXU2VzNNSXUtS3ZWNWxsSklILTNOdDJJN3lwamQ0a1N3b1gwZUtWc1pqbG4xY19LTVVQLTdOS3hZQUZIUDVEbU0wMzhma0x0cXg0Z3pJNTltanJxWlhobUlQOFB1N0todXNieTdHSmk5bjd0SFM0WTN2OWpaaHhyZGZ4cXllY1VmME9oODFCRlBwWURoeHdDYTVydUdhaGt5VGJnU0JIQThXY28xNERUQdIB3AFBVV95cUxPRlJsTEpLTkhoVnFjMHIwNkQ2V1p2YWVkSUxSOUY2UGk0OEg2cE5oekxIMS1FaEFqNzlIS0JSQXNFR3hSdGhqeEkzY2dEd0l0NVZKamwtbmpHU25xVXlmWlA1ZTBndWlDSEphNlFoZkEyQVE3VVByc0h1NDIyM25oWENuYndQMXdGRjFaZENlVGY2eGpCQ21TcDZMU3VKZ1pfcGoteE5CeGFZaFhtSWdjNWRLSVdoTmUxU2xEdVNwcmJhV0tlVEYwSDJwdVVoNF9HWEhibHFvbUNFRk9K?oc=5>
-
-### 每人500美元！特朗普宣布：将向近100万美国人“发钱”
+### 【环球财经】特朗普否认美战机在约旦遭伊朗袭击受损
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 每日经济新闻
-- 时间: 2026-09-10 15:48
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9OU2k2eENVc1hYSFpYQ0F6dlhVei1UdU9MQ0Zhd202MXpsQ2J0QzhOYjVET0hDeDBIT05nVnY2ZWhCaVkyVHB2ZS01RXpUQ0s4YjY4NXAtbW9KM3BsdHRHVVhIZ0NRUQ?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-09-10 22:26
+- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxOak9TNlVLc1pVR1gwQkd4YXdRSklxQmViTjVJQnA5OUdWVDRLZHp5b2JTZl9RaGQyRzQ2VDhaeW5Rc2pqMWszaWZsU2ZiWVFwTWxxODNmZzJXQmdEN3pXWkl1SkpOX2tMeHhQVHVvRTlWUjRPWDBPbUNjWC1Ub1J0bA?oc=5>
 
-### 美伊海上“报复循环”加剧 特朗普预告战事将终结 伊朗开出条件
+### 特朗普：若共和党赢，每人发5000美元
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华报业网
-- 时间: 2026-09-09 23:34
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE0tSTFHS1lJQnpfRkh2MUdWcTN1NWRWdm5xUHVCYm1aNE5JWUFfc09HTWxHMEFDWkNEMHpHU0t3V08wTWY2TkJLNGxEdl9SMTNmZkJzYnRDVDVaRTRGeFgxY3VBTDBEbm9sd1Zn?oc=5>
+- 场馆: 新华网
+- 时间: 2026-09-10 13:40
+- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTFBsMGJkSUFiRG9iTDJrRjJmYk5sTTJzVzA4SGVPQTJUbHQ2RmJmQlp2R0k4NDlnbXlNRlNuNEEzdGZ6WW9PUFlrNWd1V0tqS2Jva19TaFRHQlFaN0NiUFo2a0NrYVl4QzZkM2dkaG1LWkZsN2tzdmR5NmxVdERpQQ?oc=5>
 
-### Jeong Dongyeong：“Trump暂停韩美军演，并非即兴之举而是战略判断”
+### 特朗普：共和党赢了就全民发钱 每人5000美金
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: DW.com
+- 时间: 2026-09-10 13:51
+- 链接: <https://news.google.com/rss/articles/CBMimwJBVV95cUxQN1lVQVJkaWZXWmtBandvakxEQUdFTUJMNktwX2JKWUczNjRnaDNQejVXNko1bXRoNkdEYjZwcTNNeTNfakxoTEhVZDZKZkdrN3FUanBzQkExb3ZOS3EyTHdGSWRnN0NzWGtOdU05YVAxVDA1WG9sZVNsbFpfcEg5NTNzTjQtX203Mzhwck1LWWwteGg1LUhONm5zSmhtTnpRY2xMZlFQeUoyWlY2dHVTQUV2YXpwcnBCbEN6QlhlaFpoN1NfZ0RFUXcxWXFrNVNhQnFwNDdra3dnTVEtOXp1bGVlaGFKVUZSTG9tWDRIOEthblpOSmlLQzV3SDlPR3B6SmRyTHZpRXN1UjFIVzc4ZjB1TS00eDhmVExj0gGbAkFVX3lxTE13b1RxZzlXaUFCeFdxZEZsbXplbkNOY3lLeEkybUp6UFJBQmhqUUJ2WGtLbFFvdXhmc2lKWVBMNWVNMTVubFllZjQ1ZjlDUzlFTl81RTJSdjJGQWR5Ti1LYU1ub05LMXp2YXc3dGFVOWZONEpxcGtVcVhVV1RrX2JEai1jc3lzTDdnN3RuUWprS2FvaXdhYmRrc3FoLTJpS091cUxqMnRnYzduUzNSNm9WV3J5LWhPUU5LSUxNel9nUDIxM0psWGs2TzBLYTVrcVQ1Y2VhMXppeFk0c2JzOXozY05Odlp5QVRaNnlsNEpMaENtaUhhcWtmZnh1RExETllxeXlvUTczbmp3TjZyRUFBdjhCVndHbHFteGM?oc=5>
+
+### 特朗普手机宣布涨价至约5000元人民币 本质HTC手机换壳
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 아시아경제
-- 时间: 2026-09-10 07:53
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RSk5FaXV5cjZPQkdBSkNsSW95Sk9FUm5pMFBNeEtMeWZCZS1veTdGVkgzdi1qNkRJVUswcERpRmtpOE5oRVI0OVJDWjJiYTFiSlIxUjBwaTJMQjl6cDczeWlaQlQ?oc=5>
+- 场馆: Sohu
+- 时间: 2026-09-10 22:53
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcy1XRUgtb2kxTk1NUjhJRWJnTWlUcWxpTzR0bXdLTUVsVjV5ZXdhUEZJQlFKMWpsRmtFWW5zS0p6UVNmZndLLVVld1phckwwaHFTQ1VGa1VmczUtNmdlV2NxYXEtMExLeXF0aURNaTl5bEZqdWFoSU1vWl91N1Jtcm9xazlyOHpP?oc=5>
+
+### “特习峰会”前夕，中国释放有限降低对美关税信号并加购美国大豆
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-09-10 22:19
+- 链接: <https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcHl4UVZxNUdUak0xdVJIeUdwS3c2SHBmdEdEQUltOU8tYk1PWkxYVDdGdDlFNEFtSmp1aWp2RElvbjZ5VG5WOEFHSGRfVnJQdVZSS1FjMG00RDNpNTVoRTN1dXVCcnhIMU9wNy1KbzR2dUJmN3pQM19VRHV3Y0pjbXhWSlRTcnVfNTZnQWtIc0VSdzFaQTRNX01CRjRCamQ5T1VQbUhWcU41VFJvckIzMXpuaVRKVDJSbGxFNGJvcWRXOW1EeGlMZmZST2d6UTlDVU9QTHpqSdIB2gFBVV95cUxOR1FyYl9XOGZMeWV6Yy1JTmQyaHV1M3Zic2xaTHhfRXF3R0FzVTJSNXEwd1hmVXBXQlZaZnlLNG56MW5PWnViQ3llR3F4cm56S1dLX3VDenlrSURfT19MMVg1b3liREVpZkhjSUFfMjR5b1g0dkk3OS1FbDNCemNNUnhKN3h0MGQ3UlF3aElvNjZIQzZEaGI2V3Z4Tko3ZWlKVGlkRjBVd2RvZzlPQUdNX28zTW4tQ2ZxblZINEJNUmhIak1RTVAxSldLbWtRVFd3MWt3elJBak9ndw?oc=5>
+
+### 川普大手笔5000美元撒钱计划：恐大幅推高通胀
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 文学城
+- 时间: 2026-09-11 00:04
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBIeGdrZUJpd0RDNmpHUmRfVEMyd2djeEMyc1ZieDZoM3dyRG5aSUZsNmpwdTBhcmM0ei1vcXhHWEowSF9OZ0toOG9EX0ZDbkJTLTczdnJuS1BIamZvdUJ3RmZlMWlEakJm?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-11 00:18  (6 条)
+
+- **特朗普** | 【环球财经】特朗普否认美战机在约旦遭伊朗袭击受损 <https://news.google.com/rss/articles/CBMigAFBVV95cUxOak9TNlVLc1pVR1gwQkd4YXdRSklxQmViTjVJQnA5OUdWVDRLZHp5b2JTZl9RaGQyRzQ2VDhaeW5Rc2pqMWszaWZsU2ZiWVFwTWxxODNmZzJXQmdEN3pXWkl1SkpOX2tMeHhQVHVvRTlWUjRPWDBPbUNjWC1Ub1J0bA?oc=5>
+- **特朗普** | 特朗普：若共和党赢，每人发5000美元 <https://news.google.com/rss/articles/CBMifkFVX3lxTFBsMGJkSUFiRG9iTDJrRjJmYk5sTTJzVzA4SGVPQTJUbHQ2RmJmQlp2R0k4NDlnbXlNRlNuNEEzdGZ6WW9PUFlrNWd1V0tqS2Jva19TaFRHQlFaN0NiUFo2a0NrYVl4QzZkM2dkaG1LWkZsN2tzdmR5NmxVdERpQQ?oc=5>
+- **特朗普** | 特朗普：共和党赢了就全民发钱 每人5000美金 <https://news.google.com/rss/articles/CBMimwJBVV95cUxQN1lVQVJkaWZXWmtBandvakxEQUdFTUJMNktwX2JKWUczNjRnaDNQejVXNko1bXRoNkdEYjZwcTNNeTNfakxoTEhVZDZKZkdrN3FUanBzQkExb3ZOS3EyTHdGSWRnN0NzWGtOdU05YVAxVDA1WG9sZVNsbFpfcEg5NTNzTjQtX203Mzhwck1LWWwteGg1LUhONm5zSmhtTnpRY2xMZlFQeUoyWlY2dHVTQUV2YXpwcnBCbEN6QlhlaFpoN1NfZ0RFUXcxWXFrNVNhQnFwNDdra3dnTVEtOXp1bGVlaGFKVUZSTG9tWDRIOEthblpOSmlLQzV3SDlPR3B6SmRyTHZpRXN1UjFIVzc4ZjB1TS00eDhmVExj0gGbAkFVX3lxTE13b1RxZzlXaUFCeFdxZEZsbXplbkNOY3lLeEkybUp6UFJBQmhqUUJ2WGtLbFFvdXhmc2lKWVBMNWVNMTVubFllZjQ1ZjlDUzlFTl81RTJSdjJGQWR5Ti1LYU1ub05LMXp2YXc3dGFVOWZONEpxcGtVcVhVV1RrX2JEai1jc3lzTDdnN3RuUWprS2FvaXdhYmRrc3FoLTJpS091cUxqMnRnYzduUzNSNm9WV3J5LWhPUU5LSUxNel9nUDIxM0psWGs2TzBLYTVrcVQ1Y2VhMXppeFk0c2JzOXozY05Odlp5QVRaNnlsNEpMaENtaUhhcWtmZnh1RExETllxeXlvUTczbmp3TjZyRUFBdjhCVndHbHFteGM?oc=5>
+- **Trump** | 特朗普手机宣布涨价至约5000元人民币 本质HTC手机换壳 <https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcy1XRUgtb2kxTk1NUjhJRWJnTWlUcWxpTzR0bXdLTUVsVjV5ZXdhUEZJQlFKMWpsRmtFWW5zS0p6UVNmZndLLVVld1phckwwaHFTQ1VGa1VmczUtNmdlV2NxYXEtMExLeXF0aURNaTl5bEZqdWFoSU1vWl91N1Jtcm9xazlyOHpP?oc=5>
+- **Trump** | “特习峰会”前夕，中国释放有限降低对美关税信号并加购美国大豆 <https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcHl4UVZxNUdUak0xdVJIeUdwS3c2SHBmdEdEQUltOU8tYk1PWkxYVDdGdDlFNEFtSmp1aWp2RElvbjZ5VG5WOEFHSGRfVnJQdVZSS1FjMG00RDNpNTVoRTN1dXVCcnhIMU9wNy1KbzR2dUJmN3pQM19VRHV3Y0pjbXhWSlRTcnVfNTZnQWtIc0VSdzFaQTRNX01CRjRCamQ5T1VQbUhWcU41VFJvckIzMXpuaVRKVDJSbGxFNGJvcWRXOW1EeGlMZmZST2d6UTlDVU9QTHpqSdIB2gFBVV95cUxOR1FyYl9XOGZMeWV6Yy1JTmQyaHV1M3Zic2xaTHhfRXF3R0FzVTJSNXEwd1hmVXBXQlZaZnlLNG56MW5PWnViQ3llR3F4cm56S1dLX3VDenlrSURfT19MMVg1b3liREVpZkhjSUFfMjR5b1g0dkk3OS1FbDNCemNNUnhKN3h0MGQ3UlF3aElvNjZIQzZEaGI2V3Z4Tko3ZWlKVGlkRjBVd2RvZzlPQUdNX28zTW4tQ2ZxblZINEJNUmhIak1RTVAxSldLbWtRVFd3MWt3elJBak9ndw?oc=5>
+- **Trump** | 川普大手笔5000美元撒钱计划：恐大幅推高通胀 <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBIeGdrZUJpd0RDNmpHUmRfVEMyd2djeEMyc1ZieDZoM3dyRG5aSUZsNmpwdTBhcmM0ei1vcXhHWEowSF9OZ0toOG9EX0ZDbkJTLTczdnJuS1BIamZvdUJ3RmZlMWlEakJm?oc=5>
 
 ### 2026-09-10 22:10  (4 条)
 
