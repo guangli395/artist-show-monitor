@@ -1,134 +1,144 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-11 04:57**
-- 本轮扫到 11528 条, 新增 **15** 条
+- 最近更新: **2026-09-11 09:21**
+- 本轮扫到 11543 条, 新增 **15** 条
 
 ---
 
 ## 本轮新发现 (15 条)
 
-### 周杰伦发布《西西里》MV！许久未见的周董打戏啊！
+### 周杰伦新歌西西里MV首播
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5886158017_m15ed7a4c103301p19g.html>
+- 链接: <https://k.sina.com.cn/article_1718259005_m666a8d3d03301dwaa.html>
 
-### 特朗普称对伊朗冲突“毫无遗憾”，美财政部预告制裁大银行，油市“长期化”定价开启？
+### 周杰伦西西里MV梦回四面楚歌
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-09-11 04:20
-- 链接: <https://news.google.com/rss/articles/CBMirwFBVV95cUxQYTRBQks5UldpVzhRTVE1LTNQZ2JwYlcwOGdpRm0xd2Q5ZDA3QVRkOUNOQmxMR1FvVV8wc1A4Ym9DUWYzcE5XVHRzNUdlaFl0VnhoLXVyYkRmS0h4YjhnSklLdnlaeTZXdUtuRjg3TWtPQ3l0SjU3dHA2cTh3aV81WFROUHJJQjZvTEJIenZHYlJhdXhkczRkX2xKYkNOVkVxWHNZZzRiNW84WGw4WjlR?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1789681642_m6aac5fea03308n0vo.html>
 
-### 威特科夫从特朗普加密货币公司获利超1亿美元
+### 周杰伦《西西里》MV终于发布！ 周董亲自上阵玩枪！
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-11 03:09
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxNS0JnXzNrX1F6Y041Q2NMdGNwVnJDT1JJNXgtTUZQYm5pbFFYaDh1ODZEZ2s1cGRwUzBsdUNMYzBxWFZUM0JrU0lzMHBiZEFXeGFzenhpUVBWT2xOYjVCTWZVU0ZJek9oUTdWc2s3bjVXR2Q1b1A0MTlCaHN5djk3UUVWYUNXZE55aFBmXzV1eTdHQk8wWWZnMw?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1163858357_m455f11b503301mlu8.html>
 
-### 美参议院多数党领袖回避是否支持特朗普派钱计划的问题 称到时候再说
+### 周杰伦新歌西西里MV发布，新设备惊喜出镜
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-10 15:27
-- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRTAwaGVidy1TR1ZXVmV6OWZGZ0taRlNMSk9LWHpPTjRqcVBRcWtyNWRHWlFpdTJXUWJuRDhWcFVNRVdBUlBNVTZCT1c4a1ViWDFmQTRUeEJXRktlUk9USU4tVklYM1ZiN2NwNzF0OWY3SFVtV2l5UVBDaUE3dlMxc3lrV0gyOXNIV01CX0JXNnhmOWtiV3pTd1M3M2pQNTJZQlJrU3A0U3dGRENzcGZpVldBaV9LQV82MGt6bkpDNXVhTkpfZUpDSlVPZ2l6dGpoNlE?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_3193443435_mbe58146b03301j2iq.html>
 
-### 美媒：特朗普拒绝打击胡塞武装
+### 周杰伦《西西里》MV电影质感，手持新机出镜
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-09-11 04:21
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9QM1RXQTVVbU1wb0Z5dUo1YlJMNTdZbmsxLXZIN3ZlaURBSDVPWmdWQ0RERUhYUzI3b2k0dk9vVUE0UmQtbWdQeXo0NF8?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_2756814665_a451a74904001onuo.html>
 
-### 特朗普祝贺德极右翼后被默茨取消通话 引发柏林反弹
+### 特朗普称“不后悔”发动伊朗战争
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-09-10 23:38
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBUdWFGS0JDUzg1U0h0YVpUX3NnUEx2MEJWUTN3MVdxX0VEZ3hETEpNZTlIekNncmVYX2psYjJMeUROVVBOelZId096cnQ0SEl2dV93YXF0ZncxV0NEV2IxRTM5aXBxTFJoU1AyeDhnemM?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-09-11 08:13
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBPeGRQUUFGVHg5Tmx2Y3ZJclJkbTY3YktUTUxkQlZadzV0OXNTbDdsQjVqdTE4OXdmU2ZSY2ZTLUluYjlYOUowdm4tekVEeW1ZZmk2M1p2YmFJSFhRVTVBMUp3SU4wSENaa3o2NXFoUzREMmZheER6SA?oc=5>
 
-### 9月8日外盘头条：特朗普威胁要禁售庞巴迪飞机加拿大拟对数百种美国商品征收关税伦敦期铜创出新高
+### 美伊冲突阴云笼罩，中期选举形势紧迫，特朗普为助选许诺每人发5000美元
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-07 21:57
-- 链接: <https://news.google.com/rss/articles/CBMikAFBVV95cUxOY2VLRmdQVllCd3dLWExtMDdnamRmdWNkUWFXZE5oM1hBTHB6WmttOTFrUnBWNTY2aU1fZFp2T292N0tYN29SMHpVcng5TXlwbDFCZlFEVEtfdGd6YzlRb3lhcVlDYlJjZVVkZlFteDRYd2ZULUsyLXdscnpzc2gtNkJOamFnaVJ2SGk1ZmZPTXg?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-09-10 23:01
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBmaVJYSFpOa2I0clk0TFc0N0tCRGhIcEpITHpidFZhaEdEemxVMzlkcWJ3SnZXV2tFT2lSSE5nbUFzMWJnQnZaQU5vd25LV1R3MkhOeE5IYUI0UF81bUdfZ3pYNmx1akJoc0I1NXU2TjNvNHlkdUVhcw?oc=5>
 
-### 特朗普给随身女助理发5.7万新元“节日红包”
+### 卡尼：仍与特朗普保持联系 随时准备与美达成公平协议
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 联合早报
-- 时间: 2026-09-09 08:15
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBqeXc4MXVRODVVdl9xWjl4WlJRWDhKTXF1Y2RiY29wcENsZW01bXo1OXU3QUtQT2pLNkMwNVFFWkdDcXBMYnhTNjAxTS1LeHV0Y2ZndDNPaVFIcjNMUEJyajZENkZ0bjdVS2c?oc=5>
+- 时间: 2026-09-11 03:28
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9nN3JFOWNPVFltUjRMa3p1eU5LeUFUM2RPSFBUY2wxWURTY3k1RU5aUGxXY3VoYVhFRnBwc1REQzlYa21yS3JjUjVVMFk2amJPc29aWXA2M09SdHZfRzV5YUZXUVBYdw?oc=5>
 
-### 特朗普真的能向每位美国成年人发放5,000美元吗
+### 特朗普又被怀疑“拉裤子”！真正引发猜测的，是万斯那一下转头
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-09-11 03:30
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tVXAyeHdFQ2NoYmh1RU1FSUZNLXROMUpfVGhDYThsZ3BKUldFX2NodG42SVJMeTREU0tqUkhoX0RQLW00N25tc2NhUHVNMmttM1I1YWxheFhrLUpLRVotZjEzQm1YZ9IBa0FVX3lxTE1QRTB0QVNSWTNYcUZ1QkxRTEhESlplUm5oRUExYURLcWd3N1lrZGRKZTlabDVCaUxDbWxjT2lHcVl0ZHlFRXk1Mi1Nd3FDcFg2WmU2YVFCdzdLZVFVeDNOQ3hQVmFzSy1uckFZ?oc=5>
+- 场馆: 手机网易网
+- 时间: 2026-09-11 04:25
+- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTFBxT3BoRXZMNXg4Ujd5anBTRTVJVThXWkgwZThMRVB1NDBmN2dFZlpaZFVsdmphcXRjYy1nUkw4QTdZTGxtYXdvUG9KbGVFcmFPTXdGQ1ZoNG54YlFTaTItTnZR?oc=5>
 
-### 拜登之子发 Meme 币 LAPTOP ，还要给 TRUMP 玩家空投
+### 焦点 | 特朗普向金正恩示好 日韩担心什么？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 8world
+- 时间: 2026-09-10 16:09
+- 链接: <https://news.google.com/rss/articles/CBMingFBVV95cUxONVRtWkt1TTg2eWtkVzdQMjFiWWdHYTc2NnFIYlhsWGhtazlQMEZvcThsWjQzYmhlQjhLWmFvYmJsQ3BCNzk4TEhTMmpZd2ItZFpsYUJOYzExWHVyNjVjNWhXTDBUWjg1WElEYjVld0xUSTl5aXpfc0huWHlhUTItMEpTT1FsUmE4a2JMdnlmM1NWUGVJS3c1aF9ITHJOdw?oc=5>
+
+### 特朗普称“不后悔”发动伊朗战争
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-09-11 05:53
+- 链接: <https://news.google.com/rss/articles/CBMid0FVX3lxTFB1V0x0V09vVFRtNGRCNHY5UlJmNGJHOW5rLXNMdFRQdUtQU2VYcE1PZmpoSzAxeTd2R0FZSmJWUnRIdnVLV0lwZ1g0YUFjT2NzbW1mbC1NQVpiYjVSY2ZsQk1qX1NiVDNDbU9NRmJ0LVpSeVppbGxJ?oc=5>
+
+### 中国蓝观察丨美伊战事何时结束？特朗普给出时间表，这次靠谱吗？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新蓝网
+- 时间: 2026-09-11 04:39
+- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE52NkxJQVVtSHUwRDdvRWlaaU9SYWRXUWxpaHhvUFVlYkEwWmh0S3JkZDFjelpVSHo4Z2hBY1JTWjFfVkJOYURWTE1wT29ncFE?oc=5>
+
+### Trump发放5000美元红利，共和党也“反应冷淡”
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: odaily.news
-- 时间: 2026-09-07 02:01
-- 链接: <https://news.google.com/rss/articles/CBMiVEFVX3lxTE5wQzQ4UWhWbFJRVlBMVXBEMmF1WXBUV3hvdU96LVBTR191U0pPd09LMnRzNnlTMWlQemlxV3ZIQl9NY1FNZ3JZNEF2U3dRc1lGcU96dg?oc=5>
+- 场馆: 아시아경제
+- 时间: 2026-09-11 02:05
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9IWnl0QXB6cFQtbEloVzktRURYekJ3WFltdmJwMVNsQmJndWhBTTdoaXFBQ0pBTGhRcTVsZVdoS1FOSWhvMzlvUUhwYm8xVUg2azkzR3JiR3RXazlGcEFEYjV6NlM?oc=5>
 
-### 特朗普提出向美国成年人支付 $5,000 的方案，前提是共和党赢得中期选举
+### Trump’s $5,000 Dividend Plan Faces Bipartisan Opposition
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 富途牛牛
+- 时间: 2026-09-11 01:07
+- 链接: <https://news.google.com/rss/articles/CBMipAFBVV95cUxOdHpZNFpHWFdDUFFOUnFjV00xa3llMlkzcklHdnl2b1hrNno2bEpWQmtKZ0FIajJOSjlzdUo4ZWQzbVlDNWlpcFBiNFY4bUs5V3VGR3FWT0FnbmR0Rm9JQkFfMXljdWFaVHdPcEF6TmlmYzJqbFA1dTFuZm0xeVBCc01jdDMtNGJWa3lkT01aN2pJN3NVeHFMVXl1VTg4UEZkR2dkUQ?oc=5>
+
+### Why Delay $5,000 Dividend? Trump Replies, 'Because Democrats Can't Do It'
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: Moomoo
-- 时间: 2026-09-11 01:21
-- 链接: <https://news.google.com/rss/articles/CBMinwFBVV95cUxQamF5UW82R3J0YmRsRnVYMVlnOW82Ny1UbjBQYTVZdXBaTWExa29EdzlGWkxTWG9QVjFSbnIzamdiTmJJY0k4WWlxTUlGVmlra3BKN09aUk9NcEZSYXJlVGZBeG5KTTA2c3ZfdDNsSVlXMURmU2hRaHotVHBpU1hpQ1I0NHFoU3M5LUpjODJKa3pzdzU1azFtRDNaNWM0SkU?oc=5>
-
-### Trump Phone突然涨价：499美元变749美元_热点资讯_安兔兔
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: AnTuTu Benchmark
-- 时间: 2026-09-11 00:35
-- 链接: <https://news.google.com/rss/articles/CBMiTkFVX3lxTFBfMlo1WDNsUHFTall6b1I2TTNVUW5wY1hPUGZ3LUdOOWQ2VUhEUXFERGktUUQ4dXA3ZGpWblRhaDdMbDFrVUwtd2hpOGpSZw?oc=5>
-
-### Trump promises $5,000 dividend; U.S. Treasury yields rise slightly
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: news.futunn.com
-- 时间: 2026-09-11 02:40
-- 链接: <https://news.google.com/rss/articles/CBMipAFBVV95cUxNZy03bm5rOEJ3MUl6TFJqcTEwRHNBWW9JMTJjVktGV2NldlhRWDhhLU5LV0F2T0o0SmZrUTVGM0RKVmgtMTg5LU01WGk3T09LZTZOc0ZwRC1ZcVFwZk5UYnU0Z2M0R2FQSXMxNkMzcjRveG1zd2FHVHRwem16TEsxZC1yRVFyNlMtQnJEejc1bzc2c1JwaU1OYkZRb1VwcldKMERGUA?oc=5>
-
-### 给每个美国人发5,000美元？关于特朗普最新承诺你需要了解的信息
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-09-11 03:23
-- 链接: <https://news.google.com/rss/articles/CBMijgNBVV95cUxObnNNaXoyUzZULUF0Um85Vjl3dElDY0lQbzYzdTdPWG5RRVE1LVJ6ZmFfUDhxNUlqT1MyUlZjOEZKUFQ1d2RiQWRIaDE1eUtiN3ZVa0NPQXpBb1UyN21kLW5WX2lwUVVwNF9vYW9jY0Q5OXpqbXZnc3pkYnhJVnIxV1J2SDZ3M3hwRWlLQTN2bHppamxucFRGelV1dDQ5R2pZY25xWHZfVEtGNU4tT2QzamNYQlJ0TFlrN2JBYW1oSXB0Q1lJYWUtX0pDcUdqLXBkU09Oa2VFYnk1Ulk0cEZLLTJaRWY0N3hISkdUNk0yUXY0ajBCMDdYQ0lITW5ja1hsaFVLLXFvTWxQZ1pHOGJCZU1CSkVwWnhKU052UmFobDBNcHFfQTVBYkJOb0lfeXFFdS1LdzNiM2NVcERZMXpQU25fSE9QU0FtMUZnZEZqVGVObEMtcmFRbVlwRjJGZEFEcnZUUVlrX0lQbnNfdmVsb0VPUGdwRnUteFQxNDBIUTZDS0RpOWVwOTJLSWFVZw?oc=5>
-
-### 特朗普：不后悔对伊朗开战 尽管或影响中期选举
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-09-11 03:56
-- 链接: <https://news.google.com/rss/articles/CBMirAFBVV95cUxPS1BVazY3VXF3dWpZSGZLdFNodUNUWThxaUNXeUpxcmhneWtwazZQekRSbVNHVzZyaU00MDZFVmhqbDhxdmdaLWpTYUlRQll6d2tpVUE4T3VDaDlkNEtnQkJpVkR6SGphQkw2SUxYckNSWFZzM0QwdkswaGx1SGFhcmlvUTNiNVdiWDV4ZnlhYTZMeENxSmVSV2w2R0twZ2o3dVR0aUc5ODBFa3ZG?oc=5>
+- 时间: 2026-09-11 00:09
+- 链接: <https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ3lCVjNZdkpvWDdLeC16cWFGSjRMOE9qX2RvUzdRbzFwc3NkUkp6VTJkQ3BRMGVqdTRSaFVGS3M5eW9zMWlRekxTWmhQVDAwX09paFpPaVJpMzN4YlZobFhLSEhrR3VDdFVtRlBObnJfUXYzcC1hX0lFY2NfUUVIb1JISnFITmJheEtYOGNFNmVmOEozaGthZlBDQ3pDYnNueFg3N2t2TVk2TGRX?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-11 09:21  (15 条)
+
+- **周杰伦** | 周杰伦新歌西西里MV首播 <https://k.sina.com.cn/article_1718259005_m666a8d3d03301dwaa.html>
+- **周杰伦** | 周杰伦西西里MV梦回四面楚歌 <https://k.sina.com.cn/article_1789681642_m6aac5fea03308n0vo.html>
+- **周杰伦** | 周杰伦《西西里》MV终于发布！ 周董亲自上阵玩枪！ <https://k.sina.com.cn/article_1163858357_m455f11b503301mlu8.html>
+- **周杰伦** | 周杰伦新歌西西里MV发布，新设备惊喜出镜 <https://k.sina.com.cn/article_3193443435_mbe58146b03301j2iq.html>
+- **周杰伦** | 周杰伦《西西里》MV电影质感，手持新机出镜 <https://k.sina.com.cn/article_2756814665_a451a74904001onuo.html>
+- **特朗普** | 特朗普称“不后悔”发动伊朗战争 <https://news.google.com/rss/articles/CBMieEFVX3lxTFBPeGRQUUFGVHg5Tmx2Y3ZJclJkbTY3YktUTUxkQlZadzV0OXNTbDdsQjVqdTE4OXdmU2ZSY2ZTLUluYjlYOUowdm4tekVEeW1ZZmk2M1p2YmFJSFhRVTVBMUp3SU4wSENaa3o2NXFoUzREMmZheER6SA?oc=5>
+- **特朗普** | 美伊冲突阴云笼罩，中期选举形势紧迫，特朗普为助选许诺每人发5000美元 <https://news.google.com/rss/articles/CBMieEFVX3lxTFBmaVJYSFpOa2I0clk0TFc0N0tCRGhIcEpITHpidFZhaEdEemxVMzlkcWJ3SnZXV2tFT2lSSE5nbUFzMWJnQnZaQU5vd25LV1R3MkhOeE5IYUI0UF81bUdfZ3pYNmx1akJoc0I1NXU2TjNvNHlkdUVhcw?oc=5>
+- **特朗普** | 卡尼：仍与特朗普保持联系 随时准备与美达成公平协议 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9nN3JFOWNPVFltUjRMa3p1eU5LeUFUM2RPSFBUY2wxWURTY3k1RU5aUGxXY3VoYVhFRnBwc1REQzlYa21yS3JjUjVVMFk2amJPc29aWXA2M09SdHZfRzV5YUZXUVBYdw?oc=5>
+- **特朗普** | 特朗普又被怀疑“拉裤子”！真正引发猜测的，是万斯那一下转头 <https://news.google.com/rss/articles/CBMiYkFVX3lxTFBxT3BoRXZMNXg4Ujd5anBTRTVJVThXWkgwZThMRVB1NDBmN2dFZlpaZFVsdmphcXRjYy1nUkw4QTdZTGxtYXdvUG9KbGVFcmFPTXdGQ1ZoNG54YlFTaTItTnZR?oc=5>
+- **特朗普** | 焦点 | 特朗普向金正恩示好 日韩担心什么？ <https://news.google.com/rss/articles/CBMingFBVV95cUxONVRtWkt1TTg2eWtkVzdQMjFiWWdHYTc2NnFIYlhsWGhtazlQMEZvcThsWjQzYmhlQjhLWmFvYmJsQ3BCNzk4TEhTMmpZd2ItZFpsYUJOYzExWHVyNjVjNWhXTDBUWjg1WElEYjVld0xUSTl5aXpfc0huWHlhUTItMEpTT1FsUmE4a2JMdnlmM1NWUGVJS3c1aF9ITHJOdw?oc=5>
+- **特朗普** | 特朗普称“不后悔”发动伊朗战争 <https://news.google.com/rss/articles/CBMid0FVX3lxTFB1V0x0V09vVFRtNGRCNHY5UlJmNGJHOW5rLXNMdFRQdUtQU2VYcE1PZmpoSzAxeTd2R0FZSmJWUnRIdnVLV0lwZ1g0YUFjT2NzbW1mbC1NQVpiYjVSY2ZsQk1qX1NiVDNDbU9NRmJ0LVpSeVppbGxJ?oc=5>
+- **特朗普** | 中国蓝观察丨美伊战事何时结束？特朗普给出时间表，这次靠谱吗？ <https://news.google.com/rss/articles/CBMiT0FVX3lxTE52NkxJQVVtSHUwRDdvRWlaaU9SYWRXUWxpaHhvUFVlYkEwWmh0S3JkZDFjelpVSHo4Z2hBY1JTWjFfVkJOYURWTE1wT29ncFE?oc=5>
+- **Trump** | Trump发放5000美元红利，共和党也“反应冷淡” <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9IWnl0QXB6cFQtbEloVzktRURYekJ3WFltdmJwMVNsQmJndWhBTTdoaXFBQ0pBTGhRcTVsZVdoS1FOSWhvMzlvUUhwYm8xVUg2azkzR3JiR3RXazlGcEFEYjV6NlM?oc=5>
+- **Trump** | Trump’s $5,000 Dividend Plan Faces Bipartisan Opposition <https://news.google.com/rss/articles/CBMipAFBVV95cUxOdHpZNFpHWFdDUFFOUnFjV00xa3llMlkzcklHdnl2b1hrNno2bEpWQmtKZ0FIajJOSjlzdUo4ZWQzbVlDNWlpcFBiNFY4bUs5V3VGR3FWT0FnbmR0Rm9JQkFfMXljdWFaVHdPcEF6TmlmYzJqbFA1dTFuZm0xeVBCc01jdDMtNGJWa3lkT01aN2pJN3NVeHFMVXl1VTg4UEZkR2dkUQ?oc=5>
+- **Trump** | Why Delay $5,000 Dividend? Trump Replies, 'Because Democrats Can't Do It' <https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ3lCVjNZdkpvWDdLeC16cWFGSjRMOE9qX2RvUzdRbzFwc3NkUkp6VTJkQ3BRMGVqdTRSaFVGS3M5eW9zMWlRekxTWmhQVDAwX09paFpPaVJpMzN4YlZobFhLSEhrR3VDdFVtRlBObnJfUXYzcC1hX0lFY2NfUUVIb1JISnFITmJheEtYOGNFNmVmOEozaGthZlBDQ3pDYnNueFg3N2t2TVk2TGRX?oc=5>
 
 ### 2026-09-11 04:57  (15 条)
 
