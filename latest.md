@@ -1,64 +1,69 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-11 13:41**
-- 本轮扫到 11549 条, 新增 **6** 条
+- 最近更新: **2026-09-11 17:27**
+- 本轮扫到 11555 条, 新增 **6** 条
 
 ---
 
 ## 本轮新发现 (6 条)
 
-### 特朗普：9·11发生时，2名消防员把我从现场抬走
+### 娱乐圈最后的狂欢，明星们集体开演唱会
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923551_m1d5ae175f03301qn88.html>
+
+### 周杰伦代言vivo X500，粉丝期待用新机拍演唱会
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_2839442860_a93e75ac04001j1v2.html>
+
+### 是否担心AI导致人类灭亡 特朗普：我担心，若不胜出会陷入不利境地，我们领先中国一年
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: news.sina.cn
-- 时间: 2026-09-11 04:19
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5wekNqdEtBRXZ4VklZMXFHSm9nQW5qWWFxRVgwNjBxSko4ZllDZGJ1ekRFSnE4Tzl4eEJPdzNPUVVEaEJScFotNEZIU1otSjdKdlIyZDIxODZiRDZiMllYMnBaVmJoRERpTWppWFFpcFVRTjBLQWphdg?oc=5>
+- 场馆: RFI
+- 时间: 2026-09-11 16:22
+- 链接: <https://news.google.com/rss/articles/CBMixARBVV95cUxOTUxCNWt5cDl3eldCRmJvVVBHdkZpWFBxU2s3c2Q3VVJqYUwtdS13WWNFc25EaVI2eG0tY2tKSGFXVkZ6UkJvSkYzelhGXy11cThCaU9IMmNZSFBEMUlpYVczcFluZmtuUlFlTXlvYjVmWFRZMnBMclI2bmpkcUtabnBBR0JZWW9oM2F2NF9xR2FkTF9ZV3pMei1FVlcyU01Gam85a1Y4c3FSOU5GdmpzV1dVdEt3bEJZZFNaUDhWbnpNT0VpMHBkX1RIRVBmVTl0aFhneXZ5LXBSX0VIUmhBZzljYkZfZHpnSU9aQmJnQ3VvWHFTbnJqcWNIcEUxRTRQVHFvMVV1cGtMQktJVml2am54Vng1Z1ByTGZxaEtONWFjXzgxZWcyQmp6bzBEaXAzRUotaU80X240ekhNX1RITW96UkkxdENxTVFoSlNHWWpjd1c4bUxzWHJtUVNBXy10NERja0JNWC10MjM2SFhrTUZsbFQ1R0FOSTZYeGxqM1JEc3k5OVdfUHRTd0JYN1ZMTzdQSm9NaUQ1S1hQRWxVTjhCbi1VbG1mdWppcGhoUWw5b1pwNnVMZDhickJ1OU9WVFpJQnlRRUQ5b1VRdF9neFlZbGJfd1JTNTlBbHJHN3ZlSC01NTlRZm4zejBUd1pRUnpjajJvdUotWm93MTZnQUl6Uk92Ni1QVmtUX1U1YVpCMjJ4b3BXd1ZPLU9aMHBLcHF0b1VZZ2FCQ256R3VubWc2S3kzd1d5cHpUZU1sQ29kR1Vq?oc=5>
 
-### 特朗普称不后悔对伊朗开战
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: news.sina.com.cn
-- 时间: 2026-09-11 01:14
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE15elJCbTA4b0FnYzh0RVVRR3dLZ1J5RzhlMXJlNE9LMmN0ZFp5N2owRGh1SVhTMEdKOWFtakl5VS1heXk4ajh1UjMtRDYtWXpIY3N1LUlJVmFnQjNrQTNtQVFUUXRuX0k2RzBSLW4tcDc?oc=5>
-
-### 特朗普给随身女助理发5.7万新元“节日红包”
+### 德语媒体：中印关系回暖 特朗普功不可没
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-09-09 08:15
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0RTctdkoxbzkwbDVaamlEU3QwTFBoSkdaNVoyVTJLczI1a0hMOXNBYWRXdUVVbzJWdUFTcGJNclBaV2Y3cjBHY2NJd05TdEFndmVhZzNzZkd3UEdiME9MNDduMnZodw?oc=5>
+- 场馆: DW.com
+- 时间: 2026-09-11 06:11
+- 链接: <https://news.google.com/rss/articles/CBMilgJBVV95cUxQM0h4SFowOFVubnl2bWFtNXNOLTZxcWs2Q29nRFdoTjZwcjEwaXkzY0YzLWhXY0ZaOHpKUTd5Um1RNFRsRzlRRWdUQzJ1dEVHY2RmTUJNaE9LRE1oMzNnSlBRWjhqRkxNXzJDVDJQWGJNNlpIRHVpOVdXa2pabXpKeWdHVjQ5QWZ2RGUxXzFvM2dDc18xUmZlX2pUaGJ0REtUbWtTRHVuN1JBVnB5LXlZeVYzYmdaWnNLaUstRzU3cVhUUEFOLXVVYVVfZDlTMUlRZGw3YXBINC10dWhzd3liZEEyMnlzS3FTRzlwYUo0Q3pkX2JXLUdRalkyNGFLMVRpR044RXlQNk9uNlZnRXpweVBJUWZYd9IBlgJBVV95cUxQLURFWnBPVWF5aXZmeU1oNnVGZ0tIRjNKNkRjOE9HTWZfX0h6cVkxT01HbDNqSzdRZ20teXNmdTdmZlh0cEhqcWFCNHJjdWxKTEhyX3FBZy1VTTJ5dU5VZXZZa3JUVkw0VHZDLXVvMEtWSzU0UjAwdVItbDA4R29sX0RmMS13cklDRHhKSXpXdDhBeGU2a1M4VXJKRG81ZWlxTVlVdmdKRWhQcWU5THFJbTZVcjFiUEF3cG1ER1FpUjFFVVJfaEZ1RVBxTy1sT2o3RWxOaEJVOURIQ3FzUk9nMmswWGZBRF9Qa3c5YnRLc21JaHp1U2RBa29WQnI0TngyMlJCSDhjREZVb0xsbEExX053WHRjUQ?oc=5>
 
-### 美研究员发出“末日警告”，特朗普：一点不担心
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: news.ifeng.com
-- 时间: 2026-09-11 10:20
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBULV92dXVDMHpsTVNoX3ZWX3FMM1h3bldEaFJYU2s4Q3hyYXltQlQyRHY5c09Qb3FvQlhsOFNkNXg2czV5NDBYZUlLUTE?oc=5>
-
-### 想让欧洲“断奶”，特朗普必须狠下心来撤军
+### 特朗普：不后悔对伊朗开战 战争将在中期选举后立即停止
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-09-11 10:30
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5CVWFXcWpzcDZQM2xsUElDcVZEQ25paFZDZmpLM3lCMEFIYnE5ZURNVVpjRW41QWNWbEV3UGluay1xY0RteGNNb2NZbFZtRGFfaXNHZmxzbU43MnN5SFp6bmtteURFN1ltaTdvYjludjA?oc=5>
+- 场馆: 财联社
+- 时间: 2026-09-11 06:03
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTFBvTzk2UXQwTldXWExOajZwM1dibWE0Z0VEcXQ1Zkt0MXBpT3hsS1BKMURDSUxRUjhSZk9LOHBhY3NZd0dQT0VWVA?oc=5>
 
-### Trump Rejects AI Doomsday Narratives: "I Only Worry That Development Is Not Fast Enough"
+### 特朗普就镐山设施活动向德黑兰发出警告 美伊在霍尔木兹海峡附近相互袭击商船
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-09-11 12:03
-- 链接: <https://news.google.com/rss/articles/CBMirAFBVV95cUxOSHpUUC0tR19NZzNIblZWbHF4ZnJKcld5WUhkeHFhN0RaMHFQdjczeVZlOVZHTXI4V3dBS29GcEo4V0N4Rm5NT1pFd0dINUFVZnRDZWMzR05qWDBrRG1uRXR5NUdWcjV6MDhwMFBIWDlGQW1WLXUxbnFCVzJSc1piUGN3dlJ1OVdUV1dtNGNDeHFzMEpVS0tRVUo1VW9tVkhjYmh3c192eFB4OU5w?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-09-10 10:05
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxQT3ZZcHBoZjFjTElDUUxXN0FzRkRuMGJEOU4xem56YjFtRllIMmJBcnhqN3o1azNXb2E0TEhZeUZnVDNUUUQxMUQ4YmREbktIVWoyWEhRQjNqTWtyVENDeE9jNkF2VFkyNVFKZFRySGk1MkVlZ3RSM3VrZDVTci00ck1wRWZWQ1Z3Y1hjSkFhRHQ2c1huY3hnMmlScGVQQVZmSnZLS2xoNGJ2QVRuT2dNU0lqVnF2VVVHZ2xnaDFiNDBRRDctRFUzeFZXS1pRWHJHeGxpaVNsaW9MM0EzRl9J?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-11 17:27  (6 条)
+
+- **周杰伦** | 娱乐圈最后的狂欢，明星们集体开演唱会 <https://k.sina.com.cn/article_7879923551_m1d5ae175f03301qn88.html>
+- **周杰伦** | 周杰伦代言vivo X500，粉丝期待用新机拍演唱会 <https://k.sina.com.cn/article_2839442860_a93e75ac04001j1v2.html>
+- **特朗普** | 是否担心AI导致人类灭亡 特朗普：我担心，若不胜出会陷入不利境地，我们领先中国一年 <https://news.google.com/rss/articles/CBMixARBVV95cUxOTUxCNWt5cDl3eldCRmJvVVBHdkZpWFBxU2s3c2Q3VVJqYUwtdS13WWNFc25EaVI2eG0tY2tKSGFXVkZ6UkJvSkYzelhGXy11cThCaU9IMmNZSFBEMUlpYVczcFluZmtuUlFlTXlvYjVmWFRZMnBMclI2bmpkcUtabnBBR0JZWW9oM2F2NF9xR2FkTF9ZV3pMei1FVlcyU01Gam85a1Y4c3FSOU5GdmpzV1dVdEt3bEJZZFNaUDhWbnpNT0VpMHBkX1RIRVBmVTl0aFhneXZ5LXBSX0VIUmhBZzljYkZfZHpnSU9aQmJnQ3VvWHFTbnJqcWNIcEUxRTRQVHFvMVV1cGtMQktJVml2am54Vng1Z1ByTGZxaEtONWFjXzgxZWcyQmp6bzBEaXAzRUotaU80X240ekhNX1RITW96UkkxdENxTVFoSlNHWWpjd1c4bUxzWHJtUVNBXy10NERja0JNWC10MjM2SFhrTUZsbFQ1R0FOSTZYeGxqM1JEc3k5OVdfUHRTd0JYN1ZMTzdQSm9NaUQ1S1hQRWxVTjhCbi1VbG1mdWppcGhoUWw5b1pwNnVMZDhickJ1OU9WVFpJQnlRRUQ5b1VRdF9neFlZbGJfd1JTNTlBbHJHN3ZlSC01NTlRZm4zejBUd1pRUnpjajJvdUotWm93MTZnQUl6Uk92Ni1QVmtUX1U1YVpCMjJ4b3BXd1ZPLU9aMHBLcHF0b1VZZ2FCQ256R3VubWc2S3kzd1d5cHpUZU1sQ29kR1Vq?oc=5>
+- **特朗普** | 德语媒体：中印关系回暖 特朗普功不可没 <https://news.google.com/rss/articles/CBMilgJBVV95cUxQM0h4SFowOFVubnl2bWFtNXNOLTZxcWs2Q29nRFdoTjZwcjEwaXkzY0YzLWhXY0ZaOHpKUTd5Um1RNFRsRzlRRWdUQzJ1dEVHY2RmTUJNaE9LRE1oMzNnSlBRWjhqRkxNXzJDVDJQWGJNNlpIRHVpOVdXa2pabXpKeWdHVjQ5QWZ2RGUxXzFvM2dDc18xUmZlX2pUaGJ0REtUbWtTRHVuN1JBVnB5LXlZeVYzYmdaWnNLaUstRzU3cVhUUEFOLXVVYVVfZDlTMUlRZGw3YXBINC10dWhzd3liZEEyMnlzS3FTRzlwYUo0Q3pkX2JXLUdRalkyNGFLMVRpR044RXlQNk9uNlZnRXpweVBJUWZYd9IBlgJBVV95cUxQLURFWnBPVWF5aXZmeU1oNnVGZ0tIRjNKNkRjOE9HTWZfX0h6cVkxT01HbDNqSzdRZ20teXNmdTdmZlh0cEhqcWFCNHJjdWxKTEhyX3FBZy1VTTJ5dU5VZXZZa3JUVkw0VHZDLXVvMEtWSzU0UjAwdVItbDA4R29sX0RmMS13cklDRHhKSXpXdDhBeGU2a1M4VXJKRG81ZWlxTVlVdmdKRWhQcWU5THFJbTZVcjFiUEF3cG1ER1FpUjFFVVJfaEZ1RVBxTy1sT2o3RWxOaEJVOURIQ3FzUk9nMmswWGZBRF9Qa3c5YnRLc21JaHp1U2RBa29WQnI0TngyMlJCSDhjREZVb0xsbEExX053WHRjUQ?oc=5>
+- **特朗普** | 特朗普：不后悔对伊朗开战 战争将在中期选举后立即停止 <https://news.google.com/rss/articles/CBMiSEFVX3lxTFBvTzk2UXQwTldXWExOajZwM1dibWE0Z0VEcXQ1Zkt0MXBpT3hsS1BKMURDSUxRUjhSZk9LOHBhY3NZd0dQT0VWVA?oc=5>
+- **特朗普** | 特朗普就镐山设施活动向德黑兰发出警告 美伊在霍尔木兹海峡附近相互袭击商船 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxQT3ZZcHBoZjFjTElDUUxXN0FzRkRuMGJEOU4xem56YjFtRllIMmJBcnhqN3o1azNXb2E0TEhZeUZnVDNUUUQxMUQ4YmREbktIVWoyWEhRQjNqTWtyVENDeE9jNkF2VFkyNVFKZFRySGk1MkVlZ3RSM3VrZDVTci00ck1wRWZWQ1Z3Y1hjSkFhRHQ2c1huY3hnMmlScGVQQVZmSnZLS2xoNGJ2QVRuT2dNU0lqVnF2VVVHZ2xnaDFiNDBRRDctRFUzeFZXS1pRWHJHeGxpaVNsaW9MM0EzRl9J?oc=5>
 
 ### 2026-09-11 13:41  (6 条)
 
