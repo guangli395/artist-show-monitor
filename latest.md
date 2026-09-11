@@ -1,88 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-11 19:55**
-- 本轮扫到 11564 条, 新增 **9** 条
+- 最近更新: **2026-09-11 22:10**
+- 本轮扫到 11568 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (9 条)
+## 本轮新发现 (4 条)
 
-### 泽连斯基呼吁特朗普：“立即”对俄罗斯实施“严厉”制裁
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-09-11 19:02
-- 链接: <https://news.google.com/rss/articles/CBMi4AJBVV95cUxPeVdsVV9xcWlRc1VQbG81bU41Rzd3bkdaOEVkWElFTGQ4cWdaaFcxQnRHNUJhT3lPckRJanZ5bkw5ZUFrMW5KbS1pd0M1SGREdHN0Z2ZHVUx0OUdCR3BWMW9RSXUydFprWVpTV2FNNnNuR0drc2piWHZ1V3A0NUt0anN3MlFCNHFTdDVkdDNyUVdzRDdhT1FRcWpyWVFLc1F4WDVjcE9Eb2JxMHhVaVNnS0s4d0lNMi1MbVVpMlZCZ1RKWHRQbzVicmNyRzFqSnNvczJRMHRQSlQ1bkVocXdsX0FlUVNYN1h3RkdTTFlGblFOeWJkcTVfXy1mbnVKMkR5eHUxcmRWa1VYeFdBLURoUjEzYkNKQU9GSjFrQ3BiRWNfQkUyXzRaZTR0NFg5M3JlQjVJVnp5TmFaRzc3UUhxQWVkQnpyNlZUMnlpVW1xNGZYVHNwVFRkQ004V1JSOHdI?oc=5>
-
-### 特朗普将“9·11事件”与伊朗战争相联系：美国永远不会忘记，这就是我们今天为何而战
+### 美媒：万斯为特朗普“每个选民发5000美元”许诺辩护，被猛烈抨击
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-09-11 18:39
-- 链接: <https://news.google.com/rss/articles/CBMihwRBVV95cUxOZjNGWi1JQXlpelpLNlJiQ2QyekFlcThwTThSQzgzUURwMlVsM1hUdzZuclY5SlJOMnhpdjZRUkpRSExrbkpORjFydUJFX3JYRHRqbjRRQVBWQ01TOUs4S1hWR2syNW9rVEdKd1NrTF8zZGM3NGtCdlNGOUhpWENJYUtkOEVTeEc1Z1ZwU1RjbmdvWVNqNVR4M3dmS0xKYWZwTnVzVm5kWWlsdl91NFc3aE84cWtHS004eGhkUm5zVk9WeVFUSkhVRlJWTld2eE43UjJYMEVVQXp3WDlrZzhWVjJKTHFGb3hKV0tOZjlPOEFETjRYWUs5aG9nMFFqTGk2aHFMbkxibVRZTF9mTmMwcXpfZzBhb0haNlM5OTZhZHJ1WmFHZVlmNjZkVzJfREpTRDFBaVN1MG40YWI1eU1WYkRLM1F5MW9BenFSekNqbk95X2pqUTRxWGFvNVpHSVBpSVRrTWtsaFpxNFh3dENBbGs4cldKb0lwdzBxRm5BRkJiRktuZmxZbUExejZnRjFyMmJLbmtNc1prempicWl6Y3VLSTdzYWxnNWItSTctcGpsTElEbUJzSktoNTNfOU9WOG0zbzhqR0lFVlB3MGgyZWV2OXFSSnRFR0djUVJGT2N4SndRUU5WVVpsZGlDU2RrZzhrdFhfdUxESFVTOThnYm9FNDF6SFU?oc=5>
+- 场馆: huanqiu.com
+- 时间: 2026-09-10 12:49
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKYml3X3lmaXU1MFBOS1k0NGkzUU1RdWhHb2RJalZVaFVBRnN6TTRNRGxVVGVOWER5QlJTMG9mNURpRUx1eWREMDNER2dhV0k1Z0RN?oc=5>
 
-### 美众院下周迎俄罗斯制裁法案关键表决
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-09-11 19:46
-- 链接: <https://news.google.com/rss/articles/CBMiqwJBVV95cUxOYU5Mak1xcUpaMUxKUUo1TGE3eWZlWk5jb05PeGw1SWpoSUYyamREY1lNb3dZR0xOa1h2YzFVUEJVYi1PNklkb0RPdFAxMlBFaWlmb0JEd0dqajBheTZ3eGEtZEpsX2tqbGM4ZlVWU3l3UGYwcHlmN1ZGWThMd3ZBTzhfLXlDSXFuOEs5cENRdnlrWWpxSFpVTDMzeVdxMnUtZGVCd25KVER0OGRrUnRuSVhNTzFrS1haaU9rbm1jRFBiTDV3UVBqNnBPcmZScDdvZ2VxekFjTmhXUGNvY1o2ZHRyZTRFcWNMejhWYXlDaXY0VkRTZTZrY21vVTZXX25oZmJDc0hnUkJjZFE5Sl80TUxGWmFMRGZZakR0ei1nZDVlUlZZQl84N3NIMA?oc=5>
-
-### 美媒：万斯、鲁比奥等人私下警告特朗普，美伊冲突可能持续到其总统任期结束
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-09-10 11:07
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5zR3laQ2ZJTFhTSWF5ZG9wZWpWajRjSkFhb08zVUhoVDV5ZEpTNWxqeEdpRFZ2VGxwcjJkeHdkQzRpT0R4LWRYbUllU3p0S0xIVTR1TC0xNmFnYnRHTXktNVJHdWJlcUEzbnpjWjloX2M?oc=5>
-
-### 哈塞特：特朗普认为应返还更多财富给人民
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-09-11 15:17
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBMeFR6T3V5cXM4V08yMEMwUVU0MDN1ZnBoRE5nRllpNkJWdDkxUkgtdEUzT2h2b1ZfeFVmMldvWEQ2QlI0TVUyRnd6R29xc3FhdWRnWGtLak1ycUJMYVJpanh6R0lmQVA3M2RuMW5jclA5cWVLSjZHZQ?oc=5>
-
-### 美国在9/11恐怖袭击事件发生25周年之际悼念遇难者
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-09-11 18:31
-- 链接: <https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQTd1bDM1ZWxUWFlIWGNUR19yenVXZnhzYWpXbWY1Zk1EWEFpNUhPSjd3UzRyMGkyNmVFNmoycDNmczY0WUw1d3RmaEc2NVBXZGo4ZUpCQldaN0RtMzRHUU5JR0pYZXk3WEYzZFc0Tmp1OWdPLWgwWlBoQXRUYWEyQ0NQaXFBWE1sMXYyTXJoeTVZR0k0OHhKbV9HTWtVdXJsT0gwS1lLYUZhc3J2T19mQTJxMUptSEhYMFVFYU9LOXLSAcMBQVVfeXFMT09ndXpPOWtLYVB1WEVvR1hhOFNPU2o3aTA4OUg1WnZNajJtdHdtNmtONU0yWWhocTMwNDBibjhQWS15ZmRITmxrUzdQRWR1LTBUZi1iU1RLYTNxWlc1dlU2a1FPQ012QlRBR0NhYUxkeEJ1ajdfLWlDMWtsZV9VNjUzYjBSc3M3MkFRa0Z6MUhYLXk5YXNPMS1MOEViWEFwcTQ3M1QtcW1aYTRTejBzRHYzazlxZTRjSHZJcE9vOHVCMEVV?oc=5>
-
-### 特朗普驳斥AI末日论：我只担心发展的不够快
+### 为名字而战！新墨西哥州议员要求谷歌和苹果无视特朗普改名威胁
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 财联社
-- 时间: 2026-09-11 12:04
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE56WVVuWjQ2M0RVRGNDSDJsdk1JTzB5X0ZudVp1cGpTNk9RQkItQUZBYTNneHQ0bmZYZEZ3VWNZT1BLY0QtWnhyYg?oc=5>
+- 时间: 2026-09-11 21:04
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE5IUnh3aW50S2k1LURRZFlhb19iR3pOZGtRT1pKMUdEZTFzWlZ2TGVYN1R0NkoxaHJ1ZG8wWEhDa3Nacm9Ea1JlYw?oc=5>
 
-### 特朗普“分红”丨夜观天下·漫话
+### 特习峰会前，美中围绕科技竞争与情报活动交锋
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 四川新闻
-- 时间: 2026-09-11 08:04
-- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTFA1Y3pjSlo1TC00bXh2Z1VyNlZNYUR3djlNS2JjazE0SjdoYThjMEZyOXo1XzdmOEthbk5oR29hTnZxNWc3SnNXakJlNy1rZ1M3LVp1d0hRMzFkb09FaUZJQml5dw?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-09-11 20:48
+- 链接: <https://news.google.com/rss/articles/CBMirwFBVV95cUxPaFcwa2hEUm9DQnBUa2VwRDdmNkxsTnNVZkozb1FCVFJZWlpmeUQ4TEp1YzJhQktKcF92aDVyOFk2TWZwR19XLXQ4WkEyeUpSWkR0R29tTXE4d3FoQzR1aVJWOUVaYmQzdDR6RzlKakFNTlVDVmU5VFR2NVFuTktNQ3RsaDMwdW12eTlBSUlmR3hySW5YVXBXaXlGQXFYWmdjUGhXUDVvTTVvcnJoQnJn0gGyAUFVX3lxTE9sTmZRZWM3TV9oVEFTV09fN1FldHNpb2EyNUs3Vy1RbEJudkNkVHpWS200dDE3M0xqcFpSVlpRaWRxLTNQcU44Z3hqaml6ZXRlSldnYUd1UnhOdTNmbEJWZnpNak9UNndvZzNKNFVKZ0c0T2NsQlFjbXI3MC04M3I5d1J6ckNfRVJxVkRjdENTZnhua1dxc2ZEZG1LRllQZldqeng5dHNnREY1VkdPUTQzaHc?oc=5>
 
-### 特朗普：“不后悔”发动伊朗战争
+### 特朗普驳斥AI末日论：我只担心发展的不够快
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 京报网
-- 时间: 2026-09-11 09:08
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE43SWR2bEl4cE45LVp4UGRFN0c1WnVWSEZEeFBUMmxUNFYzbzhCTnREVTMyTEhnaklKNVZwZm00RGZrMnRNdE41c0dEWlNkTVhwS0R3TnB4RkhZR2ZOeHc?oc=5>
+- 场馆: 富途牛牛
+- 时间: 2026-09-11 14:49
+- 链接: <https://news.google.com/rss/articles/CBMipwFBVV95cUxNblJ4c0F4VEw5elBSdFNZRVhtRHl6Si1YY20xWDdJcmhLdW03NkpldkQzcllFMzBKcGR0N25sUjhTVHpSWjQ2MGp5N3g4N25YREo1Mkt1MTMyU1FEcE1oQVBaelJRUnAxS2xQaVF1Q29ubG9yaFJKbGZfMVVlV3ljU1VWTTM0ZzhfSUI0dG1iRlNlbWdyeTdJaTVIbUJRclZHNFU4MmlqWQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-11 22:10  (4 条)
+
+- **特朗普** | 美媒：万斯为特朗普“每个选民发5000美元”许诺辩护，被猛烈抨击 <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKYml3X3lmaXU1MFBOS1k0NGkzUU1RdWhHb2RJalZVaFVBRnN6TTRNRGxVVGVOWER5QlJTMG9mNURpRUx1eWREMDNER2dhV0k1Z0RN?oc=5>
+- **特朗普** | 为名字而战！新墨西哥州议员要求谷歌和苹果无视特朗普改名威胁 <https://news.google.com/rss/articles/CBMiSEFVX3lxTE5IUnh3aW50S2k1LURRZFlhb19iR3pOZGtRT1pKMUdEZTFzWlZ2TGVYN1R0NkoxaHJ1ZG8wWEhDa3Nacm9Ea1JlYw?oc=5>
+- **Trump** | 特习峰会前，美中围绕科技竞争与情报活动交锋 <https://news.google.com/rss/articles/CBMirwFBVV95cUxPaFcwa2hEUm9DQnBUa2VwRDdmNkxsTnNVZkozb1FCVFJZWlpmeUQ4TEp1YzJhQktKcF92aDVyOFk2TWZwR19XLXQ4WkEyeUpSWkR0R29tTXE4d3FoQzR1aVJWOUVaYmQzdDR6RzlKakFNTlVDVmU5VFR2NVFuTktNQ3RsaDMwdW12eTlBSUlmR3hySW5YVXBXaXlGQXFYWmdjUGhXUDVvTTVvcnJoQnJn0gGyAUFVX3lxTE9sTmZRZWM3TV9oVEFTV09fN1FldHNpb2EyNUs3Vy1RbEJudkNkVHpWS200dDE3M0xqcFpSVlpRaWRxLTNQcU44Z3hqaml6ZXRlSldnYUd1UnhOdTNmbEJWZnpNak9UNndvZzNKNFVKZ0c0T2NsQlFjbXI3MC04M3I5d1J6ckNfRVJxVkRjdENTZnhua1dxc2ZEZG1LRllQZldqeng5dHNnREY1VkdPUTQzaHc?oc=5>
+- **Trump** | 特朗普驳斥AI末日论：我只担心发展的不够快 <https://news.google.com/rss/articles/CBMipwFBVV95cUxNblJ4c0F4VEw5elBSdFNZRVhtRHl6Si1YY20xWDdJcmhLdW03NkpldkQzcllFMzBKcGR0N25sUjhTVHpSWjQ2MGp5N3g4N25YREo1Mkt1MTMyU1FEcE1oQVBaelJRUnAxS2xQaVF1Q29ubG9yaFJKbGZfMVVlV3ljU1VWTTM0ZzhfSUI0dG1iRlNlbWdyeTdJaTVIbUJRclZHNFU4MmlqWQ?oc=5>
 
 ### 2026-09-11 19:55  (9 条)
 
