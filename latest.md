@@ -1,126 +1,73 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-11 09:21**
-- 本轮扫到 11543 条, 新增 **15** 条
+- 最近更新: **2026-09-11 13:41**
+- 本轮扫到 11549 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (15 条)
+## 本轮新发现 (6 条)
 
-### 周杰伦新歌西西里MV首播
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1718259005_m666a8d3d03301dwaa.html>
-
-### 周杰伦西西里MV梦回四面楚歌
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1789681642_m6aac5fea03308n0vo.html>
-
-### 周杰伦《西西里》MV终于发布！ 周董亲自上阵玩枪！
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1163858357_m455f11b503301mlu8.html>
-
-### 周杰伦新歌西西里MV发布，新设备惊喜出镜
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_3193443435_mbe58146b03301j2iq.html>
-
-### 周杰伦《西西里》MV电影质感，手持新机出镜
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2756814665_a451a74904001onuo.html>
-
-### 特朗普称“不后悔”发动伊朗战争
+### 特朗普：9·11发生时，2名消防员把我从现场抬走
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-09-11 08:13
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBPeGRQUUFGVHg5Tmx2Y3ZJclJkbTY3YktUTUxkQlZadzV0OXNTbDdsQjVqdTE4OXdmU2ZSY2ZTLUluYjlYOUowdm4tekVEeW1ZZmk2M1p2YmFJSFhRVTVBMUp3SU4wSENaa3o2NXFoUzREMmZheER6SA?oc=5>
+- 场馆: news.sina.cn
+- 时间: 2026-09-11 04:19
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5wekNqdEtBRXZ4VklZMXFHSm9nQW5qWWFxRVgwNjBxSko4ZllDZGJ1ekRFSnE4Tzl4eEJPdzNPUVVEaEJScFotNEZIU1otSjdKdlIyZDIxODZiRDZiMllYMnBaVmJoRERpTWppWFFpcFVRTjBLQWphdg?oc=5>
 
-### 美伊冲突阴云笼罩，中期选举形势紧迫，特朗普为助选许诺每人发5000美元
+### 特朗普称不后悔对伊朗开战
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-09-10 23:01
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBmaVJYSFpOa2I0clk0TFc0N0tCRGhIcEpITHpidFZhaEdEemxVMzlkcWJ3SnZXV2tFT2lSSE5nbUFzMWJnQnZaQU5vd25LV1R3MkhOeE5IYUI0UF81bUdfZ3pYNmx1akJoc0I1NXU2TjNvNHlkdUVhcw?oc=5>
+- 场馆: news.sina.com.cn
+- 时间: 2026-09-11 01:14
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE15elJCbTA4b0FnYzh0RVVRR3dLZ1J5RzhlMXJlNE9LMmN0ZFp5N2owRGh1SVhTMEdKOWFtakl5VS1heXk4ajh1UjMtRDYtWXpIY3N1LUlJVmFnQjNrQTNtQVFUUXRuX0k2RzBSLW4tcDc?oc=5>
 
-### 卡尼：仍与特朗普保持联系 随时准备与美达成公平协议
+### 特朗普给随身女助理发5.7万新元“节日红包”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 联合早报
-- 时间: 2026-09-11 03:28
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9nN3JFOWNPVFltUjRMa3p1eU5LeUFUM2RPSFBUY2wxWURTY3k1RU5aUGxXY3VoYVhFRnBwc1REQzlYa21yS3JjUjVVMFk2amJPc29aWXA2M09SdHZfRzV5YUZXUVBYdw?oc=5>
+- 时间: 2026-09-09 08:15
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0RTctdkoxbzkwbDVaamlEU3QwTFBoSkdaNVoyVTJLczI1a0hMOXNBYWRXdUVVbzJWdUFTcGJNclBaV2Y3cjBHY2NJd05TdEFndmVhZzNzZkd3UEdiME9MNDduMnZodw?oc=5>
 
-### 特朗普又被怀疑“拉裤子”！真正引发猜测的，是万斯那一下转头
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机网易网
-- 时间: 2026-09-11 04:25
-- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTFBxT3BoRXZMNXg4Ujd5anBTRTVJVThXWkgwZThMRVB1NDBmN2dFZlpaZFVsdmphcXRjYy1nUkw4QTdZTGxtYXdvUG9KbGVFcmFPTXdGQ1ZoNG54YlFTaTItTnZR?oc=5>
-
-### 焦点 | 特朗普向金正恩示好 日韩担心什么？
+### 美研究员发出“末日警告”，特朗普：一点不担心
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-09-10 16:09
-- 链接: <https://news.google.com/rss/articles/CBMingFBVV95cUxONVRtWkt1TTg2eWtkVzdQMjFiWWdHYTc2NnFIYlhsWGhtazlQMEZvcThsWjQzYmhlQjhLWmFvYmJsQ3BCNzk4TEhTMmpZd2ItZFpsYUJOYzExWHVyNjVjNWhXTDBUWjg1WElEYjVld0xUSTl5aXpfc0huWHlhUTItMEpTT1FsUmE4a2JMdnlmM1NWUGVJS3c1aF9ITHJOdw?oc=5>
+- 场馆: news.ifeng.com
+- 时间: 2026-09-11 10:20
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBULV92dXVDMHpsTVNoX3ZWX3FMM1h3bldEaFJYU2s4Q3hyYXltQlQyRHY5c09Qb3FvQlhsOFNkNXg2czV5NDBYZUlLUTE?oc=5>
 
-### 特朗普称“不后悔”发动伊朗战争
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-09-11 05:53
-- 链接: <https://news.google.com/rss/articles/CBMid0FVX3lxTFB1V0x0V09vVFRtNGRCNHY5UlJmNGJHOW5rLXNMdFRQdUtQU2VYcE1PZmpoSzAxeTd2R0FZSmJWUnRIdnVLV0lwZ1g0YUFjT2NzbW1mbC1NQVpiYjVSY2ZsQk1qX1NiVDNDbU9NRmJ0LVpSeVppbGxJ?oc=5>
-
-### 中国蓝观察丨美伊战事何时结束？特朗普给出时间表，这次靠谱吗？
+### 想让欧洲“断奶”，特朗普必须狠下心来撤军
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新蓝网
-- 时间: 2026-09-11 04:39
-- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE52NkxJQVVtSHUwRDdvRWlaaU9SYWRXUWxpaHhvUFVlYkEwWmh0S3JkZDFjelpVSHo4Z2hBY1JTWjFfVkJOYURWTE1wT29ncFE?oc=5>
+- 场馆: 中华网
+- 时间: 2026-09-11 10:30
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5CVWFXcWpzcDZQM2xsUElDcVZEQ25paFZDZmpLM3lCMEFIYnE5ZURNVVpjRW41QWNWbEV3UGluay1xY0RteGNNb2NZbFZtRGFfaXNHZmxzbU43MnN5SFp6bmtteURFN1ltaTdvYjludjA?oc=5>
 
-### Trump发放5000美元红利，共和党也“反应冷淡”
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 아시아경제
-- 时间: 2026-09-11 02:05
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9IWnl0QXB6cFQtbEloVzktRURYekJ3WFltdmJwMVNsQmJndWhBTTdoaXFBQ0pBTGhRcTVsZVdoS1FOSWhvMzlvUUhwYm8xVUg2azkzR3JiR3RXazlGcEFEYjV6NlM?oc=5>
-
-### Trump’s $5,000 Dividend Plan Faces Bipartisan Opposition
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 富途牛牛
-- 时间: 2026-09-11 01:07
-- 链接: <https://news.google.com/rss/articles/CBMipAFBVV95cUxOdHpZNFpHWFdDUFFOUnFjV00xa3llMlkzcklHdnl2b1hrNno2bEpWQmtKZ0FIajJOSjlzdUo4ZWQzbVlDNWlpcFBiNFY4bUs5V3VGR3FWT0FnbmR0Rm9JQkFfMXljdWFaVHdPcEF6TmlmYzJqbFA1dTFuZm0xeVBCc01jdDMtNGJWa3lkT01aN2pJN3NVeHFMVXl1VTg4UEZkR2dkUQ?oc=5>
-
-### Why Delay $5,000 Dividend? Trump Replies, 'Because Democrats Can't Do It'
+### Trump Rejects AI Doomsday Narratives: "I Only Worry That Development Is Not Fast Enough"
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: Moomoo
-- 时间: 2026-09-11 00:09
-- 链接: <https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ3lCVjNZdkpvWDdLeC16cWFGSjRMOE9qX2RvUzdRbzFwc3NkUkp6VTJkQ3BRMGVqdTRSaFVGS3M5eW9zMWlRekxTWmhQVDAwX09paFpPaVJpMzN4YlZobFhLSEhrR3VDdFVtRlBObnJfUXYzcC1hX0lFY2NfUUVIb1JISnFITmJheEtYOGNFNmVmOEozaGthZlBDQ3pDYnNueFg3N2t2TVk2TGRX?oc=5>
+- 时间: 2026-09-11 12:03
+- 链接: <https://news.google.com/rss/articles/CBMirAFBVV95cUxOSHpUUC0tR19NZzNIblZWbHF4ZnJKcld5WUhkeHFhN0RaMHFQdjczeVZlOVZHTXI4V3dBS29GcEo4V0N4Rm5NT1pFd0dINUFVZnRDZWMzR05qWDBrRG1uRXR5NUdWcjV6MDhwMFBIWDlGQW1WLXUxbnFCVzJSc1piUGN3dlJ1OVdUV1dtNGNDeHFzMEpVS0tRVUo1VW9tVkhjYmh3c192eFB4OU5w?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-11 13:41  (6 条)
+
+- **特朗普** | 特朗普：9·11发生时，2名消防员把我从现场抬走 <https://news.google.com/rss/articles/CBMieEFVX3lxTE5wekNqdEtBRXZ4VklZMXFHSm9nQW5qWWFxRVgwNjBxSko4ZllDZGJ1ekRFSnE4Tzl4eEJPdzNPUVVEaEJScFotNEZIU1otSjdKdlIyZDIxODZiRDZiMllYMnBaVmJoRERpTWppWFFpcFVRTjBLQWphdg?oc=5>
+- **特朗普** | 特朗普称不后悔对伊朗开战 <https://news.google.com/rss/articles/CBMicEFVX3lxTE15elJCbTA4b0FnYzh0RVVRR3dLZ1J5RzhlMXJlNE9LMmN0ZFp5N2owRGh1SVhTMEdKOWFtakl5VS1heXk4ajh1UjMtRDYtWXpIY3N1LUlJVmFnQjNrQTNtQVFUUXRuX0k2RzBSLW4tcDc?oc=5>
+- **特朗普** | 特朗普给随身女助理发5.7万新元“节日红包” <https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0RTctdkoxbzkwbDVaamlEU3QwTFBoSkdaNVoyVTJLczI1a0hMOXNBYWRXdUVVbzJWdUFTcGJNclBaV2Y3cjBHY2NJd05TdEFndmVhZzNzZkd3UEdiME9MNDduMnZodw?oc=5>
+- **特朗普** | 美研究员发出“末日警告”，特朗普：一点不担心 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBULV92dXVDMHpsTVNoX3ZWX3FMM1h3bldEaFJYU2s4Q3hyYXltQlQyRHY5c09Qb3FvQlhsOFNkNXg2czV5NDBYZUlLUTE?oc=5>
+- **特朗普** | 想让欧洲“断奶”，特朗普必须狠下心来撤军 <https://news.google.com/rss/articles/CBMicEFVX3lxTE5CVWFXcWpzcDZQM2xsUElDcVZEQ25paFZDZmpLM3lCMEFIYnE5ZURNVVpjRW41QWNWbEV3UGluay1xY0RteGNNb2NZbFZtRGFfaXNHZmxzbU43MnN5SFp6bmtteURFN1ltaTdvYjludjA?oc=5>
+- **Trump** | Trump Rejects AI Doomsday Narratives: "I Only Worry That Development Is Not Fast Enough" <https://news.google.com/rss/articles/CBMirAFBVV95cUxOSHpUUC0tR19NZzNIblZWbHF4ZnJKcld5WUhkeHFhN0RaMHFQdjczeVZlOVZHTXI4V3dBS29GcEo4V0N4Rm5NT1pFd0dINUFVZnRDZWMzR05qWDBrRG1uRXR5NUdWcjV6MDhwMFBIWDlGQW1WLXUxbnFCVzJSc1piUGN3dlJ1OVdUV1dtNGNDeHFzMEpVS0tRVUo1VW9tVkhjYmh3c192eFB4OU5w?oc=5>
 
 ### 2026-09-11 09:21  (15 条)
 
