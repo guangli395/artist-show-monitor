@@ -1,64 +1,152 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-11 00:18**
-- 本轮扫到 11513 条, 新增 **6** 条
+- 最近更新: **2026-09-11 04:57**
+- 本轮扫到 11528 条, 新增 **15** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (15 条)
 
-### 【环球财经】特朗普否认美战机在约旦遭伊朗袭击受损
+### 周杰伦发布《西西里》MV！许久未见的周董打戏啊！
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5886158017_m15ed7a4c103301p19g.html>
+
+### 特朗普称对伊朗冲突“毫无遗憾”，美财政部预告制裁大银行，油市“长期化”定价开启？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-09-11 04:20
+- 链接: <https://news.google.com/rss/articles/CBMirwFBVV95cUxQYTRBQks5UldpVzhRTVE1LTNQZ2JwYlcwOGdpRm0xd2Q5ZDA3QVRkOUNOQmxMR1FvVV8wc1A4Ym9DUWYzcE5XVHRzNUdlaFl0VnhoLXVyYkRmS0h4YjhnSklLdnlaeTZXdUtuRjg3TWtPQ3l0SjU3dHA2cTh3aV81WFROUHJJQjZvTEJIenZHYlJhdXhkczRkX2xKYkNOVkVxWHNZZzRiNW84WGw4WjlR?oc=5>
+
+### 威特科夫从特朗普加密货币公司获利超1亿美元
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-09-10 22:26
-- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxOak9TNlVLc1pVR1gwQkd4YXdRSklxQmViTjVJQnA5OUdWVDRLZHp5b2JTZl9RaGQyRzQ2VDhaeW5Rc2pqMWszaWZsU2ZiWVFwTWxxODNmZzJXQmdEN3pXWkl1SkpOX2tMeHhQVHVvRTlWUjRPWDBPbUNjWC1Ub1J0bA?oc=5>
+- 时间: 2026-09-11 03:09
+- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxNS0JnXzNrX1F6Y041Q2NMdGNwVnJDT1JJNXgtTUZQYm5pbFFYaDh1ODZEZ2s1cGRwUzBsdUNMYzBxWFZUM0JrU0lzMHBiZEFXeGFzenhpUVBWT2xOYjVCTWZVU0ZJek9oUTdWc2s3bjVXR2Q1b1A0MTlCaHN5djk3UUVWYUNXZE55aFBmXzV1eTdHQk8wWWZnMw?oc=5>
 
-### 特朗普：若共和党赢，每人发5000美元
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-09-10 13:40
-- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTFBsMGJkSUFiRG9iTDJrRjJmYk5sTTJzVzA4SGVPQTJUbHQ2RmJmQlp2R0k4NDlnbXlNRlNuNEEzdGZ6WW9PUFlrNWd1V0tqS2Jva19TaFRHQlFaN0NiUFo2a0NrYVl4QzZkM2dkaG1LWkZsN2tzdmR5NmxVdERpQQ?oc=5>
-
-### 特朗普：共和党赢了就全民发钱 每人5000美金
+### 美参议院多数党领袖回避是否支持特朗普派钱计划的问题 称到时候再说
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: DW.com
-- 时间: 2026-09-10 13:51
-- 链接: <https://news.google.com/rss/articles/CBMimwJBVV95cUxQN1lVQVJkaWZXWmtBandvakxEQUdFTUJMNktwX2JKWUczNjRnaDNQejVXNko1bXRoNkdEYjZwcTNNeTNfakxoTEhVZDZKZkdrN3FUanBzQkExb3ZOS3EyTHdGSWRnN0NzWGtOdU05YVAxVDA1WG9sZVNsbFpfcEg5NTNzTjQtX203Mzhwck1LWWwteGg1LUhONm5zSmhtTnpRY2xMZlFQeUoyWlY2dHVTQUV2YXpwcnBCbEN6QlhlaFpoN1NfZ0RFUXcxWXFrNVNhQnFwNDdra3dnTVEtOXp1bGVlaGFKVUZSTG9tWDRIOEthblpOSmlLQzV3SDlPR3B6SmRyTHZpRXN1UjFIVzc4ZjB1TS00eDhmVExj0gGbAkFVX3lxTE13b1RxZzlXaUFCeFdxZEZsbXplbkNOY3lLeEkybUp6UFJBQmhqUUJ2WGtLbFFvdXhmc2lKWVBMNWVNMTVubFllZjQ1ZjlDUzlFTl81RTJSdjJGQWR5Ti1LYU1ub05LMXp2YXc3dGFVOWZONEpxcGtVcVhVV1RrX2JEai1jc3lzTDdnN3RuUWprS2FvaXdhYmRrc3FoLTJpS091cUxqMnRnYzduUzNSNm9WV3J5LWhPUU5LSUxNel9nUDIxM0psWGs2TzBLYTVrcVQ1Y2VhMXppeFk0c2JzOXozY05Odlp5QVRaNnlsNEpMaENtaUhhcWtmZnh1RExETllxeXlvUTczbmp3TjZyRUFBdjhCVndHbHFteGM?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-09-10 15:27
+- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRTAwaGVidy1TR1ZXVmV6OWZGZ0taRlNMSk9LWHpPTjRqcVBRcWtyNWRHWlFpdTJXUWJuRDhWcFVNRVdBUlBNVTZCT1c4a1ViWDFmQTRUeEJXRktlUk9USU4tVklYM1ZiN2NwNzF0OWY3SFVtV2l5UVBDaUE3dlMxc3lrV0gyOXNIV01CX0JXNnhmOWtiV3pTd1M3M2pQNTJZQlJrU3A0U3dGRENzcGZpVldBaV9LQV82MGt6bkpDNXVhTkpfZUpDSlVPZ2l6dGpoNlE?oc=5>
 
-### 特朗普手机宣布涨价至约5000元人民币 本质HTC手机换壳
+### 美媒：特朗普拒绝打击胡塞武装
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-09-11 04:21
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9QM1RXQTVVbU1wb0Z5dUo1YlJMNTdZbmsxLXZIN3ZlaURBSDVPWmdWQ0RERUhYUzI3b2k0dk9vVUE0UmQtbWdQeXo0NF8?oc=5>
+
+### 特朗普祝贺德极右翼后被默茨取消通话 引发柏林反弹
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-09-10 23:38
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBUdWFGS0JDUzg1U0h0YVpUX3NnUEx2MEJWUTN3MVdxX0VEZ3hETEpNZTlIekNncmVYX2psYjJMeUROVVBOelZId096cnQ0SEl2dV93YXF0ZncxV0NEV2IxRTM5aXBxTFJoU1AyeDhnemM?oc=5>
+
+### 9月8日外盘头条：特朗普威胁要禁售庞巴迪飞机加拿大拟对数百种美国商品征收关税伦敦期铜创出新高
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-07 21:57
+- 链接: <https://news.google.com/rss/articles/CBMikAFBVV95cUxOY2VLRmdQVllCd3dLWExtMDdnamRmdWNkUWFXZE5oM1hBTHB6WmttOTFrUnBWNTY2aU1fZFp2T292N0tYN29SMHpVcng5TXlwbDFCZlFEVEtfdGd6YzlRb3lhcVlDYlJjZVVkZlFteDRYd2ZULUsyLXdscnpzc2gtNkJOamFnaVJ2SGk1ZmZPTXg?oc=5>
+
+### 特朗普给随身女助理发5.7万新元“节日红包”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-09-09 08:15
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBqeXc4MXVRODVVdl9xWjl4WlJRWDhKTXF1Y2RiY29wcENsZW01bXo1OXU3QUtQT2pLNkMwNVFFWkdDcXBMYnhTNjAxTS1LeHV0Y2ZndDNPaVFIcjNMUEJyajZENkZ0bjdVS2c?oc=5>
+
+### 特朗普真的能向每位美国成年人发放5,000美元吗
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: BBC
+- 时间: 2026-09-11 03:30
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tVXAyeHdFQ2NoYmh1RU1FSUZNLXROMUpfVGhDYThsZ3BKUldFX2NodG42SVJMeTREU0tqUkhoX0RQLW00N25tc2NhUHVNMmttM1I1YWxheFhrLUpLRVotZjEzQm1YZ9IBa0FVX3lxTE1QRTB0QVNSWTNYcUZ1QkxRTEhESlplUm5oRUExYURLcWd3N1lrZGRKZTlabDVCaUxDbWxjT2lHcVl0ZHlFRXk1Mi1Nd3FDcFg2WmU2YVFCdzdLZVFVeDNOQ3hQVmFzSy1uckFZ?oc=5>
+
+### 拜登之子发 Meme 币 LAPTOP ，还要给 TRUMP 玩家空投
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Sohu
-- 时间: 2026-09-10 22:53
-- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcy1XRUgtb2kxTk1NUjhJRWJnTWlUcWxpTzR0bXdLTUVsVjV5ZXdhUEZJQlFKMWpsRmtFWW5zS0p6UVNmZndLLVVld1phckwwaHFTQ1VGa1VmczUtNmdlV2NxYXEtMExLeXF0aURNaTl5bEZqdWFoSU1vWl91N1Jtcm9xazlyOHpP?oc=5>
+- 场馆: odaily.news
+- 时间: 2026-09-07 02:01
+- 链接: <https://news.google.com/rss/articles/CBMiVEFVX3lxTE5wQzQ4UWhWbFJRVlBMVXBEMmF1WXBUV3hvdU96LVBTR191U0pPd09LMnRzNnlTMWlQemlxV3ZIQl9NY1FNZ3JZNEF2U3dRc1lGcU96dg?oc=5>
 
-### “特习峰会”前夕，中国释放有限降低对美关税信号并加购美国大豆
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-09-10 22:19
-- 链接: <https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcHl4UVZxNUdUak0xdVJIeUdwS3c2SHBmdEdEQUltOU8tYk1PWkxYVDdGdDlFNEFtSmp1aWp2RElvbjZ5VG5WOEFHSGRfVnJQdVZSS1FjMG00RDNpNTVoRTN1dXVCcnhIMU9wNy1KbzR2dUJmN3pQM19VRHV3Y0pjbXhWSlRTcnVfNTZnQWtIc0VSdzFaQTRNX01CRjRCamQ5T1VQbUhWcU41VFJvckIzMXpuaVRKVDJSbGxFNGJvcWRXOW1EeGlMZmZST2d6UTlDVU9QTHpqSdIB2gFBVV95cUxOR1FyYl9XOGZMeWV6Yy1JTmQyaHV1M3Zic2xaTHhfRXF3R0FzVTJSNXEwd1hmVXBXQlZaZnlLNG56MW5PWnViQ3llR3F4cm56S1dLX3VDenlrSURfT19MMVg1b3liREVpZkhjSUFfMjR5b1g0dkk3OS1FbDNCemNNUnhKN3h0MGQ3UlF3aElvNjZIQzZEaGI2V3Z4Tko3ZWlKVGlkRjBVd2RvZzlPQUdNX28zTW4tQ2ZxblZINEJNUmhIak1RTVAxSldLbWtRVFd3MWt3elJBak9ndw?oc=5>
-
-### 川普大手笔5000美元撒钱计划：恐大幅推高通胀
+### 特朗普提出向美国成年人支付 $5,000 的方案，前提是共和党赢得中期选举
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 文学城
-- 时间: 2026-09-11 00:04
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBIeGdrZUJpd0RDNmpHUmRfVEMyd2djeEMyc1ZieDZoM3dyRG5aSUZsNmpwdTBhcmM0ei1vcXhHWEowSF9OZ0toOG9EX0ZDbkJTLTczdnJuS1BIamZvdUJ3RmZlMWlEakJm?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-09-11 01:21
+- 链接: <https://news.google.com/rss/articles/CBMinwFBVV95cUxQamF5UW82R3J0YmRsRnVYMVlnOW82Ny1UbjBQYTVZdXBaTWExa29EdzlGWkxTWG9QVjFSbnIzamdiTmJJY0k4WWlxTUlGVmlra3BKN09aUk9NcEZSYXJlVGZBeG5KTTA2c3ZfdDNsSVlXMURmU2hRaHotVHBpU1hpQ1I0NHFoU3M5LUpjODJKa3pzdzU1azFtRDNaNWM0SkU?oc=5>
+
+### Trump Phone突然涨价：499美元变749美元_热点资讯_安兔兔
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: AnTuTu Benchmark
+- 时间: 2026-09-11 00:35
+- 链接: <https://news.google.com/rss/articles/CBMiTkFVX3lxTFBfMlo1WDNsUHFTall6b1I2TTNVUW5wY1hPUGZ3LUdOOWQ2VUhEUXFERGktUUQ4dXA3ZGpWblRhaDdMbDFrVUwtd2hpOGpSZw?oc=5>
+
+### Trump promises $5,000 dividend; U.S. Treasury yields rise slightly
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: news.futunn.com
+- 时间: 2026-09-11 02:40
+- 链接: <https://news.google.com/rss/articles/CBMipAFBVV95cUxNZy03bm5rOEJ3MUl6TFJqcTEwRHNBWW9JMTJjVktGV2NldlhRWDhhLU5LV0F2T0o0SmZrUTVGM0RKVmgtMTg5LU01WGk3T09LZTZOc0ZwRC1ZcVFwZk5UYnU0Z2M0R2FQSXMxNkMzcjRveG1zd2FHVHRwem16TEsxZC1yRVFyNlMtQnJEejc1bzc2c1JwaU1OYkZRb1VwcldKMERGUA?oc=5>
+
+### 给每个美国人发5,000美元？关于特朗普最新承诺你需要了解的信息
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-09-11 03:23
+- 链接: <https://news.google.com/rss/articles/CBMijgNBVV95cUxObnNNaXoyUzZULUF0Um85Vjl3dElDY0lQbzYzdTdPWG5RRVE1LVJ6ZmFfUDhxNUlqT1MyUlZjOEZKUFQ1d2RiQWRIaDE1eUtiN3ZVa0NPQXpBb1UyN21kLW5WX2lwUVVwNF9vYW9jY0Q5OXpqbXZnc3pkYnhJVnIxV1J2SDZ3M3hwRWlLQTN2bHppamxucFRGelV1dDQ5R2pZY25xWHZfVEtGNU4tT2QzamNYQlJ0TFlrN2JBYW1oSXB0Q1lJYWUtX0pDcUdqLXBkU09Oa2VFYnk1Ulk0cEZLLTJaRWY0N3hISkdUNk0yUXY0ajBCMDdYQ0lITW5ja1hsaFVLLXFvTWxQZ1pHOGJCZU1CSkVwWnhKU052UmFobDBNcHFfQTVBYkJOb0lfeXFFdS1LdzNiM2NVcERZMXpQU25fSE9QU0FtMUZnZEZqVGVObEMtcmFRbVlwRjJGZEFEcnZUUVlrX0lQbnNfdmVsb0VPUGdwRnUteFQxNDBIUTZDS0RpOWVwOTJLSWFVZw?oc=5>
+
+### 特朗普：不后悔对伊朗开战 尽管或影响中期选举
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 8world
+- 时间: 2026-09-11 03:56
+- 链接: <https://news.google.com/rss/articles/CBMirAFBVV95cUxPS1BVazY3VXF3dWpZSGZLdFNodUNUWThxaUNXeUpxcmhneWtwazZQekRSbVNHVzZyaU00MDZFVmhqbDhxdmdaLWpTYUlRQll6d2tpVUE4T3VDaDlkNEtnQkJpVkR6SGphQkw2SUxYckNSWFZzM0QwdkswaGx1SGFhcmlvUTNiNVdiWDV4ZnlhYTZMeENxSmVSV2w2R0twZ2o3dVR0aUc5ODBFa3ZG?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-11 04:57  (15 条)
+
+- **周杰伦** | 周杰伦发布《西西里》MV！许久未见的周董打戏啊！ <https://k.sina.com.cn/article_5886158017_m15ed7a4c103301p19g.html>
+- **特朗普** | 特朗普称对伊朗冲突“毫无遗憾”，美财政部预告制裁大银行，油市“长期化”定价开启？ <https://news.google.com/rss/articles/CBMirwFBVV95cUxQYTRBQks5UldpVzhRTVE1LTNQZ2JwYlcwOGdpRm0xd2Q5ZDA3QVRkOUNOQmxMR1FvVV8wc1A4Ym9DUWYzcE5XVHRzNUdlaFl0VnhoLXVyYkRmS0h4YjhnSklLdnlaeTZXdUtuRjg3TWtPQ3l0SjU3dHA2cTh3aV81WFROUHJJQjZvTEJIenZHYlJhdXhkczRkX2xKYkNOVkVxWHNZZzRiNW84WGw4WjlR?oc=5>
+- **特朗普** | 威特科夫从特朗普加密货币公司获利超1亿美元 <https://news.google.com/rss/articles/CBMimAFBVV95cUxNS0JnXzNrX1F6Y041Q2NMdGNwVnJDT1JJNXgtTUZQYm5pbFFYaDh1ODZEZ2s1cGRwUzBsdUNMYzBxWFZUM0JrU0lzMHBiZEFXeGFzenhpUVBWT2xOYjVCTWZVU0ZJek9oUTdWc2s3bjVXR2Q1b1A0MTlCaHN5djk3UUVWYUNXZE55aFBmXzV1eTdHQk8wWWZnMw?oc=5>
+- **特朗普** | 美参议院多数党领袖回避是否支持特朗普派钱计划的问题 称到时候再说 <https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRTAwaGVidy1TR1ZXVmV6OWZGZ0taRlNMSk9LWHpPTjRqcVBRcWtyNWRHWlFpdTJXUWJuRDhWcFVNRVdBUlBNVTZCT1c4a1ViWDFmQTRUeEJXRktlUk9USU4tVklYM1ZiN2NwNzF0OWY3SFVtV2l5UVBDaUE3dlMxc3lrV0gyOXNIV01CX0JXNnhmOWtiV3pTd1M3M2pQNTJZQlJrU3A0U3dGRENzcGZpVldBaV9LQV82MGt6bkpDNXVhTkpfZUpDSlVPZ2l6dGpoNlE?oc=5>
+- **特朗普** | 美媒：特朗普拒绝打击胡塞武装 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9QM1RXQTVVbU1wb0Z5dUo1YlJMNTdZbmsxLXZIN3ZlaURBSDVPWmdWQ0RERUhYUzI3b2k0dk9vVUE0UmQtbWdQeXo0NF8?oc=5>
+- **特朗普** | 特朗普祝贺德极右翼后被默茨取消通话 引发柏林反弹 <https://news.google.com/rss/articles/CBMicEFVX3lxTFBUdWFGS0JDUzg1U0h0YVpUX3NnUEx2MEJWUTN3MVdxX0VEZ3hETEpNZTlIekNncmVYX2psYjJMeUROVVBOelZId096cnQ0SEl2dV93YXF0ZncxV0NEV2IxRTM5aXBxTFJoU1AyeDhnemM?oc=5>
+- **特朗普** | 9月8日外盘头条：特朗普威胁要禁售庞巴迪飞机加拿大拟对数百种美国商品征收关税伦敦期铜创出新高 <https://news.google.com/rss/articles/CBMikAFBVV95cUxOY2VLRmdQVllCd3dLWExtMDdnamRmdWNkUWFXZE5oM1hBTHB6WmttOTFrUnBWNTY2aU1fZFp2T292N0tYN29SMHpVcng5TXlwbDFCZlFEVEtfdGd6YzlRb3lhcVlDYlJjZVVkZlFteDRYd2ZULUsyLXdscnpzc2gtNkJOamFnaVJ2SGk1ZmZPTXg?oc=5>
+- **特朗普** | 特朗普给随身女助理发5.7万新元“节日红包” <https://news.google.com/rss/articles/CBMiakFVX3lxTFBqeXc4MXVRODVVdl9xWjl4WlJRWDhKTXF1Y2RiY29wcENsZW01bXo1OXU3QUtQT2pLNkMwNVFFWkdDcXBMYnhTNjAxTS1LeHV0Y2ZndDNPaVFIcjNMUEJyajZENkZ0bjdVS2c?oc=5>
+- **特朗普** | 特朗普真的能向每位美国成年人发放5,000美元吗 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tVXAyeHdFQ2NoYmh1RU1FSUZNLXROMUpfVGhDYThsZ3BKUldFX2NodG42SVJMeTREU0tqUkhoX0RQLW00N25tc2NhUHVNMmttM1I1YWxheFhrLUpLRVotZjEzQm1YZ9IBa0FVX3lxTE1QRTB0QVNSWTNYcUZ1QkxRTEhESlplUm5oRUExYURLcWd3N1lrZGRKZTlabDVCaUxDbWxjT2lHcVl0ZHlFRXk1Mi1Nd3FDcFg2WmU2YVFCdzdLZVFVeDNOQ3hQVmFzSy1uckFZ?oc=5>
+- **Trump** | 拜登之子发 Meme 币 LAPTOP ，还要给 TRUMP 玩家空投 <https://news.google.com/rss/articles/CBMiVEFVX3lxTE5wQzQ4UWhWbFJRVlBMVXBEMmF1WXBUV3hvdU96LVBTR191U0pPd09LMnRzNnlTMWlQemlxV3ZIQl9NY1FNZ3JZNEF2U3dRc1lGcU96dg?oc=5>
+- **Trump** | 特朗普提出向美国成年人支付 $5,000 的方案，前提是共和党赢得中期选举 <https://news.google.com/rss/articles/CBMinwFBVV95cUxQamF5UW82R3J0YmRsRnVYMVlnOW82Ny1UbjBQYTVZdXBaTWExa29EdzlGWkxTWG9QVjFSbnIzamdiTmJJY0k4WWlxTUlGVmlra3BKN09aUk9NcEZSYXJlVGZBeG5KTTA2c3ZfdDNsSVlXMURmU2hRaHotVHBpU1hpQ1I0NHFoU3M5LUpjODJKa3pzdzU1azFtRDNaNWM0SkU?oc=5>
+- **Trump** | Trump Phone突然涨价：499美元变749美元_热点资讯_安兔兔 <https://news.google.com/rss/articles/CBMiTkFVX3lxTFBfMlo1WDNsUHFTall6b1I2TTNVUW5wY1hPUGZ3LUdOOWQ2VUhEUXFERGktUUQ4dXA3ZGpWblRhaDdMbDFrVUwtd2hpOGpSZw?oc=5>
+- **Trump** | Trump promises $5,000 dividend; U.S. Treasury yields rise slightly <https://news.google.com/rss/articles/CBMipAFBVV95cUxNZy03bm5rOEJ3MUl6TFJqcTEwRHNBWW9JMTJjVktGV2NldlhRWDhhLU5LV0F2T0o0SmZrUTVGM0RKVmgtMTg5LU01WGk3T09LZTZOc0ZwRC1ZcVFwZk5UYnU0Z2M0R2FQSXMxNkMzcjRveG1zd2FHVHRwem16TEsxZC1yRVFyNlMtQnJEejc1bzc2c1JwaU1OYkZRb1VwcldKMERGUA?oc=5>
+- **Trump** | 给每个美国人发5,000美元？关于特朗普最新承诺你需要了解的信息 <https://news.google.com/rss/articles/CBMijgNBVV95cUxObnNNaXoyUzZULUF0Um85Vjl3dElDY0lQbzYzdTdPWG5RRVE1LVJ6ZmFfUDhxNUlqT1MyUlZjOEZKUFQ1d2RiQWRIaDE1eUtiN3ZVa0NPQXpBb1UyN21kLW5WX2lwUVVwNF9vYW9jY0Q5OXpqbXZnc3pkYnhJVnIxV1J2SDZ3M3hwRWlLQTN2bHppamxucFRGelV1dDQ5R2pZY25xWHZfVEtGNU4tT2QzamNYQlJ0TFlrN2JBYW1oSXB0Q1lJYWUtX0pDcUdqLXBkU09Oa2VFYnk1Ulk0cEZLLTJaRWY0N3hISkdUNk0yUXY0ajBCMDdYQ0lITW5ja1hsaFVLLXFvTWxQZ1pHOGJCZU1CSkVwWnhKU052UmFobDBNcHFfQTVBYkJOb0lfeXFFdS1LdzNiM2NVcERZMXpQU25fSE9QU0FtMUZnZEZqVGVObEMtcmFRbVlwRjJGZEFEcnZUUVlrX0lQbnNfdmVsb0VPUGdwRnUteFQxNDBIUTZDS0RpOWVwOTJLSWFVZw?oc=5>
+- **Trump** | 特朗普：不后悔对伊朗开战 尽管或影响中期选举 <https://news.google.com/rss/articles/CBMirAFBVV95cUxPS1BVazY3VXF3dWpZSGZLdFNodUNUWThxaUNXeUpxcmhneWtwazZQekRSbVNHVzZyaU00MDZFVmhqbDhxdmdaLWpTYUlRQll6d2tpVUE4T3VDaDlkNEtnQkJpVkR6SGphQkw2SUxYckNSWFZzM0QwdkswaGx1SGFhcmlvUTNiNVdiWDV4ZnlhYTZMeENxSmVSV2w2R0twZ2o3dVR0aUc5ODBFa3ZG?oc=5>
 
 ### 2026-09-11 00:18  (6 条)
 
