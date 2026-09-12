@@ -1,48 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-11 22:10**
-- 本轮扫到 11568 条, 新增 **4** 条
+- 最近更新: **2026-09-12 00:26**
+- 本轮扫到 11571 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (3 条)
 
-### 美媒：万斯为特朗普“每个选民发5000美元”许诺辩护，被猛烈抨击
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: huanqiu.com
-- 时间: 2026-09-10 12:49
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKYml3X3lmaXU1MFBOS1k0NGkzUU1RdWhHb2RJalZVaFVBRnN6TTRNRGxVVGVOWER5QlJTMG9mNURpRUx1eWREMDNER2dhV0k1Z0RN?oc=5>
-
-### 为名字而战！新墨西哥州议员要求谷歌和苹果无视特朗普改名威胁
+### 特朗普：“不后悔”发动伊朗战争
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-09-11 21:04
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE5IUnh3aW50S2k1LURRZFlhb19iR3pOZGtRT1pKMUdEZTFzWlZ2TGVYN1R0NkoxaHJ1ZG8wWEhDa3Nacm9Ea1JlYw?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-09-11 08:22
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE4za2xGb2x4ZjJiWGFzWVk5WXNoUjVoWmJ4NEh1ZFhjOWlJbGFMdldHaEg2NXdfd0wtTjdqUTdPM3Fvb3h5bUFMc1kyS3h4NDNFSjJfVURxNDI3YzRCTEM4OWloMjg4N2Nhc1A5al91ekdZWk1kbEg1Uw?oc=5>
 
-### 特习峰会前，美中围绕科技竞争与情报活动交锋
+### 特朗普提名的“首席医生”披露持仓：香烟、快餐、碳酸饮料全都有
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-09-11 20:48
-- 链接: <https://news.google.com/rss/articles/CBMirwFBVV95cUxPaFcwa2hEUm9DQnBUa2VwRDdmNkxsTnNVZkozb1FCVFJZWlpmeUQ4TEp1YzJhQktKcF92aDVyOFk2TWZwR19XLXQ4WkEyeUpSWkR0R29tTXE4d3FoQzR1aVJWOUVaYmQzdDR6RzlKakFNTlVDVmU5VFR2NVFuTktNQ3RsaDMwdW12eTlBSUlmR3hySW5YVXBXaXlGQXFYWmdjUGhXUDVvTTVvcnJoQnJn0gGyAUFVX3lxTE9sTmZRZWM3TV9oVEFTV09fN1FldHNpb2EyNUs3Vy1RbEJudkNkVHpWS200dDE3M0xqcFpSVlpRaWRxLTNQcU44Z3hqaml6ZXRlSldnYUd1UnhOdTNmbEJWZnpNak9UNndvZzNKNFVKZ0c0T2NsQlFjbXI3MC04M3I5d1J6ckNfRVJxVkRjdENTZnhua1dxc2ZEZG1LRllQZldqeng5dHNnREY1VkdPUTQzaHc?oc=5>
+- 场馆: 凤凰网财经
+- 时间: 2026-09-11 23:32
+- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTFBhdWE3U3F2c0ZOY3Q1cUNhanZJQ0J2OFNMZ0o0Qlpnek0yNExQZXFOYTAwODVYRENoSW8xbnpKMXlnZWd6aUVxVVBsRWlRSGI0?oc=5>
 
-### 特朗普驳斥AI末日论：我只担心发展的不够快
+### 特朗普在五角大楼纪念“9·11”事件25周年
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 富途牛牛
-- 时间: 2026-09-11 14:49
-- 链接: <https://news.google.com/rss/articles/CBMipwFBVV95cUxNblJ4c0F4VEw5elBSdFNZRVhtRHl6Si1YY20xWDdJcmhLdW03NkpldkQzcllFMzBKcGR0N25sUjhTVHpSWjQ2MGp5N3g4N25YREo1Mkt1MTMyU1FEcE1oQVBaelJRUnAxS2xQaVF1Q29ubG9yaFJKbGZfMVVlV3ljU1VWTTM0ZzhfSUI0dG1iRlNlbWdyeTdJaTVIbUJRclZHNFU4MmlqWQ?oc=5>
+- 场馆: chinanews.com.cn
+- 时间: 2026-09-11 23:09
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE4tenhTNW1POHFZUkljN2lVRzFlTHJUVHY3R1NEWU5GVUdPTEFYY05OR0diMEJRVUtBVTFsY1ZaZ3pkMnVTNGN3Mjc0WjZjS2NPbE1QSDFlS2F4ZW8xelotY1dkbmlmU254?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-12 00:26  (3 条)
+
+- **特朗普** | 特朗普：“不后悔”发动伊朗战争 <https://news.google.com/rss/articles/CBMieEFVX3lxTE4za2xGb2x4ZjJiWGFzWVk5WXNoUjVoWmJ4NEh1ZFhjOWlJbGFMdldHaEg2NXdfd0wtTjdqUTdPM3Fvb3h5bUFMc1kyS3h4NDNFSjJfVURxNDI3YzRCTEM4OWloMjg4N2Nhc1A5al91ekdZWk1kbEg1Uw?oc=5>
+- **特朗普** | 特朗普提名的“首席医生”披露持仓：香烟、快餐、碳酸饮料全都有 <https://news.google.com/rss/articles/CBMiUEFVX3lxTFBhdWE3U3F2c0ZOY3Q1cUNhanZJQ0J2OFNMZ0o0Qlpnek0yNExQZXFOYTAwODVYRENoSW8xbnpKMXlnZWd6aUVxVVBsRWlRSGI0?oc=5>
+- **特朗普** | 特朗普在五角大楼纪念“9·11”事件25周年 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE4tenhTNW1POHFZUkljN2lVRzFlTHJUVHY3R1NEWU5GVUdPTEFYY05OR0diMEJRVUtBVTFsY1ZaZ3pkMnVTNGN3Mjc0WjZjS2NPbE1QSDFlS2F4ZW8xelotY1dkbmlmU254?oc=5>
 
 ### 2026-09-11 22:10  (4 条)
 
