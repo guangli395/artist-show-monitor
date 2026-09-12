@@ -1,100 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-12 12:41**
-- 本轮扫到 11600 条, 新增 **11** 条
+- 最近更新: **2026-09-12 15:57**
+- 本轮扫到 11604 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (11 条)
+## 本轮新发现 (4 条)
 
-### 还有谁没看周医生演唱会的 周杰伦嘉年华世界巡回演唱会
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923704_m1d5ae17f803301y5uu.html>
-
-### vivoX500系列9月21日发布，周杰伦任影像大使
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7811110264_m1d194157803304a95m.html?from=digit>
-
-### 中方据报告知美方若峰会前有新的对台军售将取消习特会
+### 特朗普总统说，他乐见爱尔兰实现统一
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-09-12 11:26
-- 链接: <https://news.google.com/rss/articles/CBMiiwNBVV95cUxPaGw3dkc3TFNoWkxzcm82NFRjYU1YaDBuRVQ3MUhMZGs3ZVItQXF5WWxjRzVpZG1nZ19DT0xHdmZweVRucTlmYzgxdjhMaDdMaTRscjJJbGtEVlFNSTdqZ2lFdDlhZDNLakRwMDVWV0ZBa0wwVXRLdHdTTzIxOFVJUENRTWtGeXRzWWJCVWFlREpYbXgyTGd6SnJHU0VVQTNhUlR2Y2J6eUM2bTRwNWJfSXJkVjRXc19DdzdnT2hBTEVJdFplUWxxeEJPY1Q0UWo4OWZ1VFhGdWdHbE5aNGxxcUwxTnhTcXVTbmFsZUFEZzFISnlzSHZTUjhiWUwybHBsWWlMMkpfbkRYXzRNUVhQQmh0dkV2aGNWd3U5bFNiQnR3U1FtazUwNkpjSDVld2ozdVg4OFp3akN6S0ZZVWljZUtNUVpFRW05SlVWSE5OZ2dYYXlKVlpqb1dHQVNKQ3RMTnpOZ1FFeFk4cnJiZlV4QUtxdlhtN1dRRGZjVVpKd2Q2SGNobDhBcjZBRQ?oc=5>
+- 场馆: voachinese.com
+- 时间: 2026-09-12 15:25
+- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxNZU1CbDQ2dTdRZmg2bHN4VjVXYlRsOTRYWG5kczNuc09FTFVlU01WNC1Vb1lSX3VHMGdwM1BOa3NVYnRpekx3MDR6aXJseG9ONUFCRy1pRUFld1Y0Q0g5OTU2M2lvLVlqVExkRUk4ZExyaWJOdHo1eTlhWmx5V21OQUdnVF9DV0MwWm1QbGVmY0laSHBPQzlRYjZZZGfSAZ8BQVVfeXFMUDAtTFo4c0pTU3psRmVGSmgtV0lkMlZfV3l5OHBsVC1ZbFpiVWJFRC1qbS1uSEw1eERPb2J0WDNuTUFmaTB1cHpiYlhfc0ctWDVPdXNaWm1Wa2FCWFU3blNrMXZ4V20yOHB1V1FYNTJTdFE4SnMwZlIzSzVuY3RsU21nTmE3S2xHdmJ1dHhmeG5MZXBLX185TkN6dlNQdEFz?oc=5>
 
-### 特朗普连续3天许诺：共和党赢下中期选举，将向所有美国成年人发放5000美元
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-09-12 00:23
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE5iY285STJfN2JhZ1ZpVVJ1d0RBX2VFejVKZTZ0ZHdUZWIzVmNiakJ2TlBzb0RWaW40czgyamd0YnkydDlPMUhCWA?oc=5>
-
-### 特朗普：如果能重来，我还是会打伊朗！
+### 特朗普提名的“美国首席医生”，持仓烟草、快餐及碳酸饮料股
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-09-11 10:56
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ld2thNnBPZDRFY1p1ajRNV0x2OU5ZbWVPQjB5MnhVT0cySk5VYWZHY1lGZndXWXdtdEtvMEJORk9OZG5GOFdkZFE1TDhoRTlRRTBN?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-09-12 02:21
+- 链接: <https://news.google.com/rss/articles/CBMingFBVV95cUxQUjJEcGtFNXRvYURUenE2ZmdQUFZ5YnNZaEhhODkxbW5aM29OR19tX0kzR1VnQlUzbWxtdGlmNzk4YXJXRnY0dmllMzFyR0liZkY4YnZqS3hTdFlwQTR1MWJDSWlSQ0U2UVhrX2JHdGJJNjZvV0d5YjAzV2ZTU25UR0NMalBkOHNJWHN3Zml3emMyd1JsSWU4RmxXemJ3UQ?oc=5>
 
-### 特朗普疑在911纪念仪式上打瞌睡
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-09-12 07:46
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ieDRlcWNTSm5Rd3lpU0gwRmJjRUJiQ1A4Z1pKY2V5YTZZUnJqTWExbjhQRnJaa1V2YXJwVHNURndXN3dLMzdXakJsTWw?oc=5>
-
-### 特朗普：乐见爱尔兰统一
+### 特朗普在五角大楼纪念“9·11”事件25周年
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: zaobao.com.sg
-- 时间: 2026-09-12 10:49
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9QczFzVlJlWmloTEhZTEpBNE04WVZYTkt0VXhCZU5nVGxoQnpHMHNGMk9QQjJqZ1BreFJ0WjVMem5GbGMwZGtNZ2tNYzVPdXR2QnJ5bHhvUXpNdC0wRWhHWm42cmMyZGt1bnc?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-09-12 11:01
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5JWjRGY1poYXdOanY0am91WEpJR09vTGJ3N2ttMHgwcU5uNmphc0NJMlNJRkNpQjRHVnZ4cHdvZHp6T0c1LU1hdEctTkNWbUIwaThDdWZSdm1HdGtCV1VId2tLQzZUMU5lU1UtMGpqcVYyLU5YR1dBZQ?oc=5>
 
-### 特朗普表示不反对中国在美国建厂生产汽车
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-09-12 08:54
-- 链接: <https://news.google.com/rss/articles/CBMixAJBVV95cUxNeTF3emlNQmFPN3pKTEVsWWpTRXl1WkxVNkpZblpkemFXWHhRdHVtaGZVM0JtS0VhTk1lZDFYY3AwLXpKUGZMWWU2a1pTb2xqcGpiTThRTXBMRWdzQTFFc09hWjBuSk9CeEt5SDBZUEkxZ3k1cXRtOHhFS0pfUTRjQnlYNjdWbVJucGExa2k1NFN0MHp3Y1J3cU8yd0J5ZXZja3dPWngxTmluY0ZhWkhzTW0tLUF1LWt4ajlkcHgtbzExMFBmcXZ6dC1NMlcweVpVcVVaNGwxMy0tUklSSjY0SU5nMHF5U3JyTV82Q1pxa2pxb0MxZDZqSHdwME1yZmZib0dNOS1fNGJnaE1aT3c4MVRjUzM0ZjFRVnZXSEdPNFRkbkMwZDNDaFowdlhmODBKQ19vWVo2ZXM5LTk4UmNSTGhkOFY?oc=5>
-
-### 中国车企赴美建厂 特朗普不反对 但有条件
+### 特朗普盟友：美国低估中国科技行业
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: DW.com
-- 时间: 2026-09-12 10:48
-- 链接: <https://news.google.com/rss/articles/CBMiowJBVV95cUxQbzFQWTlFMmpJSUlPTHBZMmVTZHhpZTAtMnVUSU9UZWo3a3V4eEhmd0lzV0JLNGotRDNXc1dzUDV6RkxSNjVvd0ZhU0NXQVRQUm42cUNsRE9URUxRVHF4N0w4a1hSWDFUSzNSdzQ2ZXBIbmt1dVhldDBXRk5PUE5uZEdXWGdqQ25KdktmTFpDeUl5bzFGaUFjSGwtWlMxOUhRUkZFWmx6Q1pDdUVJcVdOdnVDekxPaGhUYXBUOE9wLXdfNmtNRDBiQTlPLVNQWDBNRmlpWHZPOXJvYUNrYnpoRFlPcHZTMzM2WlRici04TWxCZGNVaW9uQ3dkb2VCZTBqMDZOd1dfcXZfNEhCakFSdzFVMDZRS0pzY0pYVlU3SlFWTWvSAaMCQVVfeXFMT0JQaTRNZFkwU2VXRlZLalhZZXJ5cHc4TWY3YWhkdzJhVDNlNmZNenZEV3FYaEc3YmJJUERmLUllNGZCMFkzNEVjU0VhS0xpMFppdmlycEtfYVp2dkJxczh0NUUxcExuV0xCcDdJVDF3Tmh2SXVtQlJqS2puTlpNR2VhbDcwX2tnemFfamhoU3NfZjhLOFZMbGczVW9zd2pBdGxscVVPd0R0dmhxYXJKdzZvWGhWZ1ZKVV9BYlk2VmRSSmFhZXNnTnNlRDh1WmttdVJiUG5HTnFVdGI5THp0aFRHSDNEaG9FV3RlcWJCRl9OMzlqcXh3YlY0NFhtYUkyU241LTlZVktQOHRFX0ZwZnlmTmN2VDdyb0pCcGtkTUI1clJZ?oc=5>
-
-### 特朗普、拜登、奥巴马、小布什、克林顿……美国总统与多位前总统出席“9·11”纪念活动现场
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-09-12 05:49
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE12UXpVV3l4RDBFeHdFRkRhcUEyYlZqRFFMNExMaTVQYVRlZ0ZPUU94YjAzVnFhNHlueFFPalg3Nm5NbG95XzBFYlBxcy1UR2x4eVduVzdVNmxpN29TRW16YkdFMWZBdEN0?oc=5>
-
-### Donald Trump heads to Ireland
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: TVB
-- 时间: 2026-09-12 03:37
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFB3ZU0tQnBJT19Uc0NhUFkwTS0tZVhaZ1NLR3NXNzdmcDVnOWZfQWNHUHlFTzJEZktSc0hyR09uZGYwQWFGQ0dlODlWc2JEaXFzdjhXanRYMGVyYk13V3VjWEFGRERoODVa?oc=5>
+- 场馆: 联合早报
+- 时间: 2026-09-12 03:32
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5vTEE5cWYtSHBOT2h6bUZGWU5jTllXUGI4NUxySFY5ZlM1TjRQVXJpRnJib0UyeTdGQ3RCLTRldU1BVVVKMDRGUmxPZEgwRHBFYmpFQ2pmaTJSalF2U3ZrSmM2VXNpQQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-12 15:57  (4 条)
+
+- **特朗普** | 特朗普总统说，他乐见爱尔兰实现统一 <https://news.google.com/rss/articles/CBMinAFBVV95cUxNZU1CbDQ2dTdRZmg2bHN4VjVXYlRsOTRYWG5kczNuc09FTFVlU01WNC1Vb1lSX3VHMGdwM1BOa3NVYnRpekx3MDR6aXJseG9ONUFCRy1pRUFld1Y0Q0g5OTU2M2lvLVlqVExkRUk4ZExyaWJOdHo1eTlhWmx5V21OQUdnVF9DV0MwWm1QbGVmY0laSHBPQzlRYjZZZGfSAZ8BQVVfeXFMUDAtTFo4c0pTU3psRmVGSmgtV0lkMlZfV3l5OHBsVC1ZbFpiVWJFRC1qbS1uSEw1eERPb2J0WDNuTUFmaTB1cHpiYlhfc0ctWDVPdXNaWm1Wa2FCWFU3blNrMXZ4V20yOHB1V1FYNTJTdFE4SnMwZlIzSzVuY3RsU21nTmE3S2xHdmJ1dHhmeG5MZXBLX185TkN6dlNQdEFz?oc=5>
+- **特朗普** | 特朗普提名的“美国首席医生”，持仓烟草、快餐及碳酸饮料股 <https://news.google.com/rss/articles/CBMingFBVV95cUxQUjJEcGtFNXRvYURUenE2ZmdQUFZ5YnNZaEhhODkxbW5aM29OR19tX0kzR1VnQlUzbWxtdGlmNzk4YXJXRnY0dmllMzFyR0liZkY4YnZqS3hTdFlwQTR1MWJDSWlSQ0U2UVhrX2JHdGJJNjZvV0d5YjAzV2ZTU25UR0NMalBkOHNJWHN3Zml3emMyd1JsSWU4RmxXemJ3UQ?oc=5>
+- **特朗普** | 特朗普在五角大楼纪念“9·11”事件25周年 <https://news.google.com/rss/articles/CBMieEFVX3lxTE5JWjRGY1poYXdOanY0am91WEpJR09vTGJ3N2ttMHgwcU5uNmphc0NJMlNJRkNpQjRHVnZ4cHdvZHp6T0c1LU1hdEctTkNWbUIwaThDdWZSdm1HdGtCV1VId2tLQzZUMU5lU1UtMGpqcVYyLU5YR1dBZQ?oc=5>
+- **特朗普** | 特朗普盟友：美国低估中国科技行业 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5vTEE5cWYtSHBOT2h6bUZGWU5jTllXUGI4NUxySFY5ZlM1TjRQVXJpRnJib0UyeTdGQ3RCLTRldU1BVVVKMDRGUmxPZEgwRHBFYmpFQ2pmaTJSalF2U3ZrSmM2VXNpQQ?oc=5>
 
 ### 2026-09-12 12:41  (11 条)
 
