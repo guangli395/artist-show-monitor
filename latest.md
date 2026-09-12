@@ -1,78 +1,114 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-12 08:58**
-- 本轮扫到 11589 条, 新增 **8** 条
+- 最近更新: **2026-09-12 12:41**
+- 本轮扫到 11600 条, 新增 **11** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (11 条)
 
-### 周杰伦西西里MV现新品开箱彩蛋
+### 还有谁没看周医生演唱会的 周杰伦嘉年华世界巡回演唱会
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923946_m1d5ae18ea03303tmo0.html>
+- 链接: <https://k.sina.com.cn/article_7879923704_m1d5ae17f803301y5uu.html>
 
-### 加拿大主动找中国“眉来眼去”，特朗普吃醋啦？
+### vivoX500系列9月21日发布，周杰伦任影像大使
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-09-12 03:50
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFBDZHJ0SnNCSDVxX1RmNnpUYmNidk1kWWhqVUpnWDF6QXZ2aFVRelNXYzhKQ1V5dVlVWEQ3ZEFTeDFFb0NRV2RIYkt6VTFKSWtDSFB1V3ljWkZ3OFpHT0Etc3ZyN2NGREhxWXJSNlJKXzk0d3c?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7811110264_m1d194157803304a95m.html?from=digit>
 
-### 美国觊觎加拿大 加明确回应主权不容谈判
+### 中方据报告知美方若峰会前有新的对台军售将取消习特会
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-09-12 02:35
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9rTFBURElUZHJuS3ppY05LUmNzQ3JaQ1dHUktmQm5uZFA1YjYyOVo0S2JncDZ2RDBVS01BTy10elFOZkJBV09Nd3dRR1QzWXpaczZSYk5TTm5WZWxDUkpsSW5SRVNMSmlYcV8yaWIzclQ?oc=5>
+- 场馆: RFI
+- 时间: 2026-09-12 11:26
+- 链接: <https://news.google.com/rss/articles/CBMiiwNBVV95cUxPaGw3dkc3TFNoWkxzcm82NFRjYU1YaDBuRVQ3MUhMZGs3ZVItQXF5WWxjRzVpZG1nZ19DT0xHdmZweVRucTlmYzgxdjhMaDdMaTRscjJJbGtEVlFNSTdqZ2lFdDlhZDNLakRwMDVWV0ZBa0wwVXRLdHdTTzIxOFVJUENRTWtGeXRzWWJCVWFlREpYbXgyTGd6SnJHU0VVQTNhUlR2Y2J6eUM2bTRwNWJfSXJkVjRXc19DdzdnT2hBTEVJdFplUWxxeEJPY1Q0UWo4OWZ1VFhGdWdHbE5aNGxxcUwxTnhTcXVTbmFsZUFEZzFISnlzSHZTUjhiWUwybHBsWWlMMkpfbkRYXzRNUVhQQmh0dkV2aGNWd3U5bFNiQnR3U1FtazUwNkpjSDVld2ozdVg4OFp3akN6S0ZZVWljZUtNUVpFRW05SlVWSE5OZ2dYYXlKVlpqb1dHQVNKQ3RMTnpOZ1FFeFk4cnJiZlV4QUtxdlhtN1dRRGZjVVpKd2Q2SGNobDhBcjZBRQ?oc=5>
 
-### 特朗普发文怒斥左派智库：台湾被“点名”
+### 特朗普连续3天许诺：共和党赢下中期选举，将向所有美国成年人发放5000美元
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-12 07:21
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBkN215STJPZTk2OE5aa3JrSzV0ZU1Yaks0SFVFQWExVXdfRjZ2VE9ob3lzNVk0SmN6N1Z3Qm1xamxiWkExQmgxMnlmejZpZ25Kd21sTk9KWXVCRGdNY25rNnhuek9NQ1NnVlpYOE9sbndZbVFscDNLcQ?oc=5>
+- 场馆: 财联社
+- 时间: 2026-09-12 00:23
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE5iY285STJfN2JhZ1ZpVVJ1d0RBX2VFejVKZTZ0ZHdUZWIzVmNiakJ2TlBzb0RWaW40czgyamd0YnkydDlPMUhCWA?oc=5>
 
-### 普京亲口保证！让特朗普放一万个心，俄军打完乌克兰绝不打欧洲
+### 特朗普：如果能重来，我还是会打伊朗！
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街见闻
+- 时间: 2026-09-11 10:56
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ld2thNnBPZDRFY1p1ajRNV0x2OU5ZbWVPQjB5MnhVT0cySk5VYWZHY1lGZndXWXdtdEtvMEJORk9OZG5GOFdkZFE1TDhoRTlRRTBN?oc=5>
+
+### 特朗普疑在911纪念仪式上打瞌睡
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-09-11 22:53
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE95dXN0eEJlWDlJRkRoMkJhOU14TVU1Z0JyRFBLWWxaMWc3ejBrZGN2am11eS01emRmRmVRZnRzckZhbldROEQ2OW4zVQ?oc=5>
+- 时间: 2026-09-12 07:46
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ieDRlcWNTSm5Rd3lpU0gwRmJjRUJiQ1A4Z1pKY2V5YTZZUnJqTWExbjhQRnJaa1V2YXJwVHNURndXN3dLMzdXakJsTWw?oc=5>
 
-### 特朗普：可能与俄罗斯举行双边会晤
+### 特朗普：乐见爱尔兰统一
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-09-09 21:45
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE1yc0xjTUFfTG5Rb0wzblhuVXlzdTNVNm9jOW9sd3ExUERLS0lYRlBMNFhsRnZ2NnlMYm5jQjMtUVN1TUdIanROWDVoVGFjVzQ0bVliLTJ4LXVnNERUTFZNb3F1eXhoOUJmOC1yMDZvXzFFcVgt?oc=5>
+- 场馆: zaobao.com.sg
+- 时间: 2026-09-12 10:49
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9QczFzVlJlWmloTEhZTEpBNE04WVZYTkt0VXhCZU5nVGxoQnpHMHNGMk9QQjJqZ1BreFJ0WjVMem5GbGMwZGtNZ2tNYzVPdXR2QnJ5bHhvUXpNdC0wRWhHWm42cmMyZGt1bnc?oc=5>
+
+### 特朗普表示不反对中国在美国建厂生产汽车
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-09-12 08:54
+- 链接: <https://news.google.com/rss/articles/CBMixAJBVV95cUxNeTF3emlNQmFPN3pKTEVsWWpTRXl1WkxVNkpZblpkemFXWHhRdHVtaGZVM0JtS0VhTk1lZDFYY3AwLXpKUGZMWWU2a1pTb2xqcGpiTThRTXBMRWdzQTFFc09hWjBuSk9CeEt5SDBZUEkxZ3k1cXRtOHhFS0pfUTRjQnlYNjdWbVJucGExa2k1NFN0MHp3Y1J3cU8yd0J5ZXZja3dPWngxTmluY0ZhWkhzTW0tLUF1LWt4ajlkcHgtbzExMFBmcXZ6dC1NMlcweVpVcVVaNGwxMy0tUklSSjY0SU5nMHF5U3JyTV82Q1pxa2pxb0MxZDZqSHdwME1yZmZib0dNOS1fNGJnaE1aT3c4MVRjUzM0ZjFRVnZXSEdPNFRkbkMwZDNDaFowdlhmODBKQ19vWVo2ZXM5LTk4UmNSTGhkOFY?oc=5>
+
+### 中国车企赴美建厂 特朗普不反对 但有条件
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: DW.com
+- 时间: 2026-09-12 10:48
+- 链接: <https://news.google.com/rss/articles/CBMiowJBVV95cUxQbzFQWTlFMmpJSUlPTHBZMmVTZHhpZTAtMnVUSU9UZWo3a3V4eEhmd0lzV0JLNGotRDNXc1dzUDV6RkxSNjVvd0ZhU0NXQVRQUm42cUNsRE9URUxRVHF4N0w4a1hSWDFUSzNSdzQ2ZXBIbmt1dVhldDBXRk5PUE5uZEdXWGdqQ25KdktmTFpDeUl5bzFGaUFjSGwtWlMxOUhRUkZFWmx6Q1pDdUVJcVdOdnVDekxPaGhUYXBUOE9wLXdfNmtNRDBiQTlPLVNQWDBNRmlpWHZPOXJvYUNrYnpoRFlPcHZTMzM2WlRici04TWxCZGNVaW9uQ3dkb2VCZTBqMDZOd1dfcXZfNEhCakFSdzFVMDZRS0pzY0pYVlU3SlFWTWvSAaMCQVVfeXFMT0JQaTRNZFkwU2VXRlZLalhZZXJ5cHc4TWY3YWhkdzJhVDNlNmZNenZEV3FYaEc3YmJJUERmLUllNGZCMFkzNEVjU0VhS0xpMFppdmlycEtfYVp2dkJxczh0NUUxcExuV0xCcDdJVDF3Tmh2SXVtQlJqS2puTlpNR2VhbDcwX2tnemFfamhoU3NfZjhLOFZMbGczVW9zd2pBdGxscVVPd0R0dmhxYXJKdzZvWGhWZ1ZKVV9BYlk2VmRSSmFhZXNnTnNlRDh1WmttdVJiUG5HTnFVdGI5THp0aFRHSDNEaG9FV3RlcWJCRl9OMzlqcXh3YlY0NFhtYUkyU241LTlZVktQOHRFX0ZwZnlmTmN2VDdyb0pCcGtkTUI1clJZ?oc=5>
 
 ### 特朗普、拜登、奥巴马、小布什、克林顿……美国总统与多位前总统出席“9·11”纪念活动现场
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中国网新闻中心
-- 时间: 2026-09-12 06:10
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTFBoTWY4NUJ6YjkteG9MN3cwM3RiclhOYXRLd2IzMGFqSzM5cmFaejI3LVNadHVnRURoLWJEa2lFSXU0X2pLSF9xTFpvdENjWDhRNHMtcjhPVURvcVR2MWR1dVNuSks2MUNJaUxV?oc=5>
+- 场馆: chinanews.com.cn
+- 时间: 2026-09-12 05:49
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE12UXpVV3l4RDBFeHdFRkRhcUEyYlZqRFFMNExMaTVQYVRlZ0ZPUU94YjAzVnFhNHlueFFPalg3Nm5NbG95XzBFYlBxcy1UR2x4eVduVzdVNmxpN29TRW16YkdFMWZBdEN0?oc=5>
 
-### 特朗普抵爱尔兰 会晤领导人观看高尔夫球赛
+### Donald Trump heads to Ireland
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-09-12 07:55
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFBSZGdtemdjTERHUUNrZjk5YWxfclRmZXNTQm9mYzh0cm9CLWlxdXMwVUlUem9MYVppYmowam9YWUtfaGtHS3p2WG9WMThJWjl0b3RNaXV3ZGhNMWFOZi1LYlZyZlRPdmptblc4c25ORlNTZw?oc=5>
+- 场馆: TVB
+- 时间: 2026-09-12 03:37
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFB3ZU0tQnBJT19Uc0NhUFkwTS0tZVhaZ1NLR3NXNzdmcDVnOWZfQWNHUHlFTzJEZktSc0hyR09uZGYwQWFGQ0dlODlWc2JEaXFzdjhXanRYMGVyYk13V3VjWEFGRERoODVa?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-12 12:41  (11 条)
+
+- **周杰伦** | 还有谁没看周医生演唱会的 周杰伦嘉年华世界巡回演唱会 <https://k.sina.com.cn/article_7879923704_m1d5ae17f803301y5uu.html>
+- **周杰伦** | vivoX500系列9月21日发布，周杰伦任影像大使 <https://k.sina.com.cn/article_7811110264_m1d194157803304a95m.html?from=digit>
+- **特朗普** | 中方据报告知美方若峰会前有新的对台军售将取消习特会 <https://news.google.com/rss/articles/CBMiiwNBVV95cUxPaGw3dkc3TFNoWkxzcm82NFRjYU1YaDBuRVQ3MUhMZGs3ZVItQXF5WWxjRzVpZG1nZ19DT0xHdmZweVRucTlmYzgxdjhMaDdMaTRscjJJbGtEVlFNSTdqZ2lFdDlhZDNLakRwMDVWV0ZBa0wwVXRLdHdTTzIxOFVJUENRTWtGeXRzWWJCVWFlREpYbXgyTGd6SnJHU0VVQTNhUlR2Y2J6eUM2bTRwNWJfSXJkVjRXc19DdzdnT2hBTEVJdFplUWxxeEJPY1Q0UWo4OWZ1VFhGdWdHbE5aNGxxcUwxTnhTcXVTbmFsZUFEZzFISnlzSHZTUjhiWUwybHBsWWlMMkpfbkRYXzRNUVhQQmh0dkV2aGNWd3U5bFNiQnR3U1FtazUwNkpjSDVld2ozdVg4OFp3akN6S0ZZVWljZUtNUVpFRW05SlVWSE5OZ2dYYXlKVlpqb1dHQVNKQ3RMTnpOZ1FFeFk4cnJiZlV4QUtxdlhtN1dRRGZjVVpKd2Q2SGNobDhBcjZBRQ?oc=5>
+- **特朗普** | 特朗普连续3天许诺：共和党赢下中期选举，将向所有美国成年人发放5000美元 <https://news.google.com/rss/articles/CBMiSEFVX3lxTE5iY285STJfN2JhZ1ZpVVJ1d0RBX2VFejVKZTZ0ZHdUZWIzVmNiakJ2TlBzb0RWaW40czgyamd0YnkydDlPMUhCWA?oc=5>
+- **特朗普** | 特朗普：如果能重来，我还是会打伊朗！ <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ld2thNnBPZDRFY1p1ajRNV0x2OU5ZbWVPQjB5MnhVT0cySk5VYWZHY1lGZndXWXdtdEtvMEJORk9OZG5GOFdkZFE1TDhoRTlRRTBN?oc=5>
+- **特朗普** | 特朗普疑在911纪念仪式上打瞌睡 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ieDRlcWNTSm5Rd3lpU0gwRmJjRUJiQ1A4Z1pKY2V5YTZZUnJqTWExbjhQRnJaa1V2YXJwVHNURndXN3dLMzdXakJsTWw?oc=5>
+- **特朗普** | 特朗普：乐见爱尔兰统一 <https://news.google.com/rss/articles/CBMiakFVX3lxTE9QczFzVlJlWmloTEhZTEpBNE04WVZYTkt0VXhCZU5nVGxoQnpHMHNGMk9QQjJqZ1BreFJ0WjVMem5GbGMwZGtNZ2tNYzVPdXR2QnJ5bHhvUXpNdC0wRWhHWm42cmMyZGt1bnc?oc=5>
+- **特朗普** | 特朗普表示不反对中国在美国建厂生产汽车 <https://news.google.com/rss/articles/CBMixAJBVV95cUxNeTF3emlNQmFPN3pKTEVsWWpTRXl1WkxVNkpZblpkemFXWHhRdHVtaGZVM0JtS0VhTk1lZDFYY3AwLXpKUGZMWWU2a1pTb2xqcGpiTThRTXBMRWdzQTFFc09hWjBuSk9CeEt5SDBZUEkxZ3k1cXRtOHhFS0pfUTRjQnlYNjdWbVJucGExa2k1NFN0MHp3Y1J3cU8yd0J5ZXZja3dPWngxTmluY0ZhWkhzTW0tLUF1LWt4ajlkcHgtbzExMFBmcXZ6dC1NMlcweVpVcVVaNGwxMy0tUklSSjY0SU5nMHF5U3JyTV82Q1pxa2pxb0MxZDZqSHdwME1yZmZib0dNOS1fNGJnaE1aT3c4MVRjUzM0ZjFRVnZXSEdPNFRkbkMwZDNDaFowdlhmODBKQ19vWVo2ZXM5LTk4UmNSTGhkOFY?oc=5>
+- **特朗普** | 中国车企赴美建厂 特朗普不反对 但有条件 <https://news.google.com/rss/articles/CBMiowJBVV95cUxQbzFQWTlFMmpJSUlPTHBZMmVTZHhpZTAtMnVUSU9UZWo3a3V4eEhmd0lzV0JLNGotRDNXc1dzUDV6RkxSNjVvd0ZhU0NXQVRQUm42cUNsRE9URUxRVHF4N0w4a1hSWDFUSzNSdzQ2ZXBIbmt1dVhldDBXRk5PUE5uZEdXWGdqQ25KdktmTFpDeUl5bzFGaUFjSGwtWlMxOUhRUkZFWmx6Q1pDdUVJcVdOdnVDekxPaGhUYXBUOE9wLXdfNmtNRDBiQTlPLVNQWDBNRmlpWHZPOXJvYUNrYnpoRFlPcHZTMzM2WlRici04TWxCZGNVaW9uQ3dkb2VCZTBqMDZOd1dfcXZfNEhCakFSdzFVMDZRS0pzY0pYVlU3SlFWTWvSAaMCQVVfeXFMT0JQaTRNZFkwU2VXRlZLalhZZXJ5cHc4TWY3YWhkdzJhVDNlNmZNenZEV3FYaEc3YmJJUERmLUllNGZCMFkzNEVjU0VhS0xpMFppdmlycEtfYVp2dkJxczh0NUUxcExuV0xCcDdJVDF3Tmh2SXVtQlJqS2puTlpNR2VhbDcwX2tnemFfamhoU3NfZjhLOFZMbGczVW9zd2pBdGxscVVPd0R0dmhxYXJKdzZvWGhWZ1ZKVV9BYlk2VmRSSmFhZXNnTnNlRDh1WmttdVJiUG5HTnFVdGI5THp0aFRHSDNEaG9FV3RlcWJCRl9OMzlqcXh3YlY0NFhtYUkyU241LTlZVktQOHRFX0ZwZnlmTmN2VDdyb0pCcGtkTUI1clJZ?oc=5>
+- **特朗普** | 特朗普、拜登、奥巴马、小布什、克林顿……美国总统与多位前总统出席“9·11”纪念活动现场 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE12UXpVV3l4RDBFeHdFRkRhcUEyYlZqRFFMNExMaTVQYVRlZ0ZPUU94YjAzVnFhNHlueFFPalg3Nm5NbG95XzBFYlBxcy1UR2x4eVduVzdVNmxpN29TRW16YkdFMWZBdEN0?oc=5>
+- **Trump** | Donald Trump heads to Ireland <https://news.google.com/rss/articles/CBMiaEFVX3lxTFB3ZU0tQnBJT19Uc0NhUFkwTS0tZVhaZ1NLR3NXNzdmcDVnOWZfQWNHUHlFTzJEZktSc0hyR09uZGYwQWFGQ0dlODlWc2JEaXFzdjhXanRYMGVyYk13V3VjWEFGRERoODVa?oc=5>
 
 ### 2026-09-12 08:58  (8 条)
 
