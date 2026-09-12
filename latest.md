@@ -1,32 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-12 20:44**
-- 本轮扫到 11612 条, 新增 **2** 条
+- 最近更新: **2026-09-12 22:45**
+- 本轮扫到 11616 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (2 条)
+## 本轮新发现 (4 条)
 
-### 特朗普：英国会有意见，但我乐见爱尔兰统一
+### 美国总统称美方与胡塞武装进行通话 胡塞武装暂未回应
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-09-12 22:40
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBia0VTZnRIcVhfcUQxa21GZk1fMUJQZE91aGRGM3pUU0tXaUgyNzQtcGpWc00zOVQ1amFNTzN0QWY3LWtROEZWMGNsaFpBSWdsSksxanpFR0tQTzdKMW1LTDY0OUNTS2dzSVQyMTZWOEU?oc=5>
+
+### 曼德海峡告急！沙特首相两次致电敦促美国打击胡塞武装遭拒，美目前无意出手
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: wallstreetcn.com
+- 时间: 2026-09-11 22:49
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE1iS1dlLUxuZ2ZhbE95Wlp0MUJTMF81RVNZcUVfNEs1ZF9GVFU2UnZPMDZXY2JMYm1hM01NMF82WndFLTdtTllhQkZ6Njc0WERuVEtV?oc=5>
+
+### 沙特王储两次致电特朗普敦促美方打击胡塞武装，均遭拒绝
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-09-12 13:10
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE10MFBESWFMZDZRMDczLUFHYnFuMWVsbVpFRlJYQ3JobC11ZnVHNVhDYU5ZTWFHTGt0UVhuakV1VjVwOUF3QlU5am1FQkE?oc=5>
+- 时间: 2026-09-11 08:11
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE80bjhtS25LY0haLWNDSTc4RFRCREZPYUxNMG51M1FaUmlVaUtZM0ZNZjdhdTE5RU85ZnB0QWktb2pQX1NaZTRvaEQzUDU?oc=5>
 
-### 美国长期利率在“特朗普冲击”之下逼近5%
+### 福山：美国对华的优势，被特朗普全干掉
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 日经中文网
-- 时间: 2026-09-11 02:19
-- 链接: <https://news.google.com/rss/articles/CBMihAFBVV95cUxNTDd0VlZGNXdtUEVJOEZOcjhVZmVQcEVyS1Z5OUFxOTY5eUloWlZSVnB6cXgtWU1Vd1pkNDBMd0RleHpzbVk0cjN3a0piVnNERFZPbGxsbkd3OTJIYUU5a0pfQzJsQWEycUItQnlSTG1DeTVDMnV0S0ZGbl9iLTI4QVE5VEw?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-09-12 03:06
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE85UlhoakRsS1Nad1FsWkJINThILTFRS2U2UHRZczQ2T0o3em5Rc2xMNk5CVkRkM1YwY0k0VDVGamRYMWFET0w4QnF2YlY?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-12 22:45  (4 条)
+
+- **特朗普** | 美国总统称美方与胡塞武装进行通话 胡塞武装暂未回应 <https://news.google.com/rss/articles/CBMicEFVX3lxTFBia0VTZnRIcVhfcUQxa21GZk1fMUJQZE91aGRGM3pUU0tXaUgyNzQtcGpWc00zOVQ1amFNTzN0QWY3LWtROEZWMGNsaFpBSWdsSksxanpFR0tQTzdKMW1LTDY0OUNTS2dzSVQyMTZWOEU?oc=5>
+- **特朗普** | 曼德海峡告急！沙特首相两次致电敦促美国打击胡塞武装遭拒，美目前无意出手 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE1iS1dlLUxuZ2ZhbE95Wlp0MUJTMF81RVNZcUVfNEs1ZF9GVFU2UnZPMDZXY2JMYm1hM01NMF82WndFLTdtTllhQkZ6Njc0WERuVEtV?oc=5>
+- **特朗普** | 沙特王储两次致电特朗普敦促美方打击胡塞武装，均遭拒绝 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE80bjhtS25LY0haLWNDSTc4RFRCREZPYUxNMG51M1FaUmlVaUtZM0ZNZjdhdTE5RU85ZnB0QWktb2pQX1NaZTRvaEQzUDU?oc=5>
+- **特朗普** | 福山：美国对华的优势，被特朗普全干掉 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE85UlhoakRsS1Nad1FsWkJINThILTFRS2U2UHRZczQ2T0o3em5Rc2xMNk5CVkRkM1YwY0k0VDVGamRYMWFET0w4QnF2YlY?oc=5>
 
 ### 2026-09-12 20:44  (2 条)
 
