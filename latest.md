@@ -1,96 +1,89 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-12 04:50**
-- 本轮扫到 11581 条, 新增 **10** 条
+- 最近更新: **2026-09-12 08:58**
+- 本轮扫到 11589 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (10 条)
+## 本轮新发现 (8 条)
 
-### 福山：咱对华的优势，被特朗普全干掉
+### 周杰伦西西里MV现新品开箱彩蛋
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-09-12 03:06
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFBMSVFFTUlnRUVwN2w5bUZGdzNkdndGU2FhUXNGX01IVTZQRl83MVBCbnV0VU5CTjJOZzEtV1MxZTZtMjd6WW9pUEZQYTktb0o5bFdGRmQyTTZmc19LYmF4bkxRdUVlZHBvbGNXSzNicmp4cnc?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923946_m1d5ae18ea03303tmo0.html>
 
-### 特朗普提名的“美国首席医生”，持仓烟草、快餐及碳酸饮料股
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-12 04:07
-- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxON1NrZ0Fzd1cwaUMyUG40WTJ3QXNCMTg2RmM0b295M0NHb1Z4WkI5SndGemROTERRTDVJd0dxbk16TG1pQ21hZ0tHaTduYmJGZklZLUQtLUlnTmdESFNGS3dWelNfRFdyTThhZWpwR1lRWGV6YjRhMzZGVWFfa0VhZGhVZ3RzTUV2a0E?oc=5>
-
-### 特朗普再承诺：若中期选举获胜，将向2.7亿美国成年人每人发5000美元
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-12 02:49
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5BMU9HYmlPdWNHZ3JSM0x5SVRCcWZ2NlVBV1FWZVFFaV84OE05Sm1rN3pkYkEtYnB0RmVXSlVmV0ptUldJWlpNS0o4NWFDSFRPa2dpS21jZTU4cGcyRDNOSlpRTlpfZFJnUDRGOGFINlFHRjFEZUV1UQ?oc=5>
-
-### 特朗普出席五角大楼9/11纪念仪式
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-09-12 00:15
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9pUzRZRWVCN3VwcGxRYU94V1EwcTQ5MFZ5RUZzRFB1QUNWV1I0dUZvdUtwNHkzQWFQWV9vbVlnWU1fOGFjbjVZSzVWS0tjYUg3bjFMczZlM3Mzbl9VYk5pRThQNTJDZllVbFBLZUtFRE16SHV5Mzc3cTV0UEwxMk3SAYIBQVVfeXFMTlpuTFpGR2lWb0xLVjZXNnhjWHc2aHppMnplOG9waV9CaG5LQ0FNYkxzMHRpVk1yRHBzZ09NaFh0LUswcXRjZW1LME9sZDlBSWgyaDNTeUF3Vjl5Um1EN2J6WV9ZeHVSQmIwQXJHa2xTNnhPQlhPSEhjZzdRU01uNGF1dw?oc=5>
-
-### 访华归来，特朗普盟友：美国低估了中国科技的先进
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-09-12 01:51
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1pR2tnRk5tU2E4RGUwRTNPLWJHQllMa1U3dVU4a2FndlNYMFF4cUdWMFF0SW5tSnM1Sk16Q2hQU2c4bFJ3dVlmVkVtbWk?oc=5>
-
-### 特朗普不反对中国汽车制造商在美国设厂
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-09-12 01:23
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1tcGtlcE9LTXNKZ01sTmJmMHFOOUFrbk9aWW5nZmtBbGV2V3FBUEhiOTVvd2NkSnE2NnJTUDhIckVndHhSc1M4Vl9zUFVaTDlDTDhlbFV2ckl3cjByc3dHSXk1SHpMVDh5aVE?oc=5>
-
-### 离谱！特朗普：人类灭绝？我就担心中国…
+### 加拿大主动找中国“眉来眼去”，特朗普吃醋啦？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 观察者网
-- 时间: 2026-09-11 23:48
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1FUUNEdnkzUmkwNGhqdFJTTncyOGl0U2VRNkMzakNieDRUdUE1eWRPN05lRXFyMWliYWxHZ0ZMSkVlTVlDbi1reldOT004SWI0MXZ1QUcycER2TGxHOF9zRHZfSHZZZ3FKRW95c0J6Z3RPMWc?oc=5>
+- 时间: 2026-09-12 03:50
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFBDZHJ0SnNCSDVxX1RmNnpUYmNidk1kWWhqVUpnWDF6QXZ2aFVRelNXYzhKQ1V5dVlVWEQ3ZEFTeDFFb0NRV2RIYkt6VTFKSWtDSFB1V3ljWkZ3OFpHT0Etc3ZyN2NGREhxWXJSNlJKXzk0d3c?oc=5>
 
-### 将耗资约1.35万亿美元，特朗普连续3天许诺5000美元分红
+### 美国觊觎加拿大 加明确回应主权不容谈判
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-09-12 02:35
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9rTFBURElUZHJuS3ppY05LUmNzQ3JaQ1dHUktmQm5uZFA1YjYyOVo0S2JncDZ2RDBVS01BTy10elFOZkJBV09Nd3dRR1QzWXpaczZSYk5TTm5WZWxDUkpsSW5SRVNMSmlYcV8yaWIzclQ?oc=5>
+
+### 特朗普发文怒斥左派智库：台湾被“点名”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-12 07:21
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBkN215STJPZTk2OE5aa3JrSzV0ZU1Yaks0SFVFQWExVXdfRjZ2VE9ob3lzNVk0SmN6N1Z3Qm1xamxiWkExQmgxMnlmejZpZ25Kd21sTk9KWXVCRGdNY25rNnhuek9NQ1NnVlpYOE9sbndZbVFscDNLcQ?oc=5>
+
+### 普京亲口保证！让特朗普放一万个心，俄军打完乌克兰绝不打欧洲
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-09-11 22:18
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFB0MGxCSk5hbjZvVFRyNUFza3RpZzZtdnl4OWE4M3NxTUMzd3pEWHBjRkRMcWxkcTBFZUs2WndyNTNKREJ4ek9VenpOZGg?oc=5>
+- 时间: 2026-09-11 22:53
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE95dXN0eEJlWDlJRkRoMkJhOU14TVU1Z0JyRFBLWWxaMWc3ejBrZGN2am11eS01emRmRmVRZnRzckZhbldROEQ2OW4zVQ?oc=5>
 
-### 特朗普提名的“首席医生”披露持仓：香烟、快餐、碳酸饮料全都有
+### 特朗普：可能与俄罗斯举行双边会晤
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-09-11 15:56
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE5UV29pb3B6ZjhoelpKVHB2SWZWZ1Y0cVhXaDlnaUZXUzZEMXBmLWU5OHhVTEREMDZwb3NOUjh1VDVZS2ZEZXZfVQ?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-09-09 21:45
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE1yc0xjTUFfTG5Rb0wzblhuVXlzdTNVNm9jOW9sd3ExUERLS0lYRlBMNFhsRnZ2NnlMYm5jQjMtUVN1TUdIanROWDVoVGFjVzQ0bVliLTJ4LXVnNERUTFZNb3F1eXhoOUJmOC1yMDZvXzFFcVgt?oc=5>
 
-### 美国业界反弹之际，Trump称“中国汽车可在美生产”
+### 特朗普、拜登、奥巴马、小布什、克林顿……美国总统与多位前总统出席“9·11”纪念活动现场
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中国网新闻中心
+- 时间: 2026-09-12 06:10
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTFBoTWY4NUJ6YjkteG9MN3cwM3RiclhOYXRLd2IzMGFqSzM5cmFaejI3LVNadHVnRURoLWJEa2lFSXU0X2pLSF9xTFpvdENjWDhRNHMtcjhPVURvcVR2MWR1dVNuSks2MUNJaUxV?oc=5>
+
+### 特朗普抵爱尔兰 会晤领导人观看高尔夫球赛
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 아시아경제
-- 时间: 2026-09-12 04:35
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ub2I5MWdTQzdsbVMyT3hOeTRobndnbDBTTEJfbDZtazJBZWtGdWpQbGhuX2JoVGp5SGdSdUZVSnRjVmNzWjlCcnZJQnhiRlRFaldCdzNZX2RYa3hrMGpHbTRRRFE?oc=5>
+- 场馆: 8world
+- 时间: 2026-09-12 07:55
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFBSZGdtemdjTERHUUNrZjk5YWxfclRmZXNTQm9mYzh0cm9CLWlxdXMwVUlUem9MYVppYmowam9YWUtfaGtHS3p2WG9WMThJWjl0b3RNaXV3ZGhNMWFOZi1LYlZyZlRPdmptblc4c25ORlNTZw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-12 08:58  (8 条)
+
+- **周杰伦** | 周杰伦西西里MV现新品开箱彩蛋 <https://k.sina.com.cn/article_7879923946_m1d5ae18ea03303tmo0.html>
+- **特朗普** | 加拿大主动找中国“眉来眼去”，特朗普吃醋啦？ <https://news.google.com/rss/articles/CBMic0FVX3lxTFBDZHJ0SnNCSDVxX1RmNnpUYmNidk1kWWhqVUpnWDF6QXZ2aFVRelNXYzhKQ1V5dVlVWEQ3ZEFTeDFFb0NRV2RIYkt6VTFKSWtDSFB1V3ljWkZ3OFpHT0Etc3ZyN2NGREhxWXJSNlJKXzk0d3c?oc=5>
+- **特朗普** | 美国觊觎加拿大 加明确回应主权不容谈判 <https://news.google.com/rss/articles/CBMicEFVX3lxTE9rTFBURElUZHJuS3ppY05LUmNzQ3JaQ1dHUktmQm5uZFA1YjYyOVo0S2JncDZ2RDBVS01BTy10elFOZkJBV09Nd3dRR1QzWXpaczZSYk5TTm5WZWxDUkpsSW5SRVNMSmlYcV8yaWIzclQ?oc=5>
+- **特朗普** | 特朗普发文怒斥左派智库：台湾被“点名” <https://news.google.com/rss/articles/CBMieEFVX3lxTFBkN215STJPZTk2OE5aa3JrSzV0ZU1Yaks0SFVFQWExVXdfRjZ2VE9ob3lzNVk0SmN6N1Z3Qm1xamxiWkExQmgxMnlmejZpZ25Kd21sTk9KWXVCRGdNY25rNnhuek9NQ1NnVlpYOE9sbndZbVFscDNLcQ?oc=5>
+- **特朗普** | 普京亲口保证！让特朗普放一万个心，俄军打完乌克兰绝不打欧洲 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE95dXN0eEJlWDlJRkRoMkJhOU14TVU1Z0JyRFBLWWxaMWc3ejBrZGN2am11eS01emRmRmVRZnRzckZhbldROEQ2OW4zVQ?oc=5>
+- **特朗普** | 特朗普：可能与俄罗斯举行双边会晤 <https://news.google.com/rss/articles/CBMidEFVX3lxTE1yc0xjTUFfTG5Rb0wzblhuVXlzdTNVNm9jOW9sd3ExUERLS0lYRlBMNFhsRnZ2NnlMYm5jQjMtUVN1TUdIanROWDVoVGFjVzQ0bVliLTJ4LXVnNERUTFZNb3F1eXhoOUJmOC1yMDZvXzFFcVgt?oc=5>
+- **特朗普** | 特朗普、拜登、奥巴马、小布什、克林顿……美国总统与多位前总统出席“9·11”纪念活动现场 <https://news.google.com/rss/articles/CBMia0FVX3lxTFBoTWY4NUJ6YjkteG9MN3cwM3RiclhOYXRLd2IzMGFqSzM5cmFaejI3LVNadHVnRURoLWJEa2lFSXU0X2pLSF9xTFpvdENjWDhRNHMtcjhPVURvcVR2MWR1dVNuSks2MUNJaUxV?oc=5>
+- **Trump** | 特朗普抵爱尔兰 会晤领导人观看高尔夫球赛 <https://news.google.com/rss/articles/CBMickFVX3lxTFBSZGdtemdjTERHUUNrZjk5YWxfclRmZXNTQm9mYzh0cm9CLWlxdXMwVUlUem9MYVppYmowam9YWUtfaGtHS3p2WG9WMThJWjl0b3RNaXV3ZGhNMWFOZi1LYlZyZlRPdmptblc4c25ORlNTZw?oc=5>
 
 ### 2026-09-12 04:50  (10 条)
 
