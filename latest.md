@@ -1,64 +1,37 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-12 18:06**
-- 本轮扫到 11610 条, 新增 **6** 条
+- 最近更新: **2026-09-12 20:44**
+- 本轮扫到 11612 条, 新增 **2** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (2 条)
 
-### 特朗普就爱尔兰敏感议题发表意见：如果爱尔兰统一将是“一件很棒的事”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-09-12 17:32
-- 链接: <https://news.google.com/rss/articles/CBMiygNBVV95cUxQS1BxOUtPRDMzUGQ0RG8zbDdrV2t3YXJIV2E5czM4d0xXRnhadlpDUy1hTWtuTmkwaFJpOXVzV1JvdkhkMVZIcEhnZXZRNFpKR2FxLW1DNDZNVzNTQTltdmxVaFh3ZXNReTZ0aVZnZlZjbHVrUC11UXFNWjByN04yV215OE9EQXJLUEFrQzdlbXBFMkhvLTVKN3FPNEpGSERuNzU1UXVXOENEM0g1WkNVNGozYjNOWUU5WGxaUURsOWlJbzBPYjlVbXFlYlBUZWplTEZGWjZTd2I2NnFaM2dwZldkYnpqTE9Mel82UUl4T3BGSExieFJ3UWR4TUxxRVQ1YnlaWEpHVjRFZldBOEhWYjUzVFN0aFluTGhIVXJhZFBWQnFnc0kySjRDX3FRN0dLVmNlZWlJRS1sbGtjTldwTUVaZWFEQ196alg1bEt2dDliX3NhTHVpT09NZm9uY01vYmlrMjBQUF9LWjd5MnZlT3VpZS02LTJPb2pGMzI5NVc3c0dhX3BjV0pFbVREMkxpdmV4NEwyUi1HdFcxc3E1M3RqQWpBUTVkYlpSQVpMRGJIUDdjV29xczR3QU1CSGpjU25QRmdtSmpkUQ?oc=5>
-
-### “胡塞武装粉碎了特朗普的计划”
+### 特朗普：英国会有意见，但我乐见爱尔兰统一
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-09-12 17:34
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5BYWZSekc4N1pDVEhXN2VvRl96QWhCRUZqdEF6amtYY3F5bEVqb3RQZnFtRVp5VGVTczlIemRwNkJqaEhVMDlPNXRQUFU?oc=5>
+- 时间: 2026-09-12 13:10
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE10MFBESWFMZDZRMDczLUFHYnFuMWVsbVpFRlJYQ3JobC11ZnVHNVhDYU5ZTWFHTGt0UVhuakV1VjVwOUF3QlU5am1FQkE?oc=5>
 
-### 特朗普谈及欧洲：我不愿看到欧洲目前的状况。那些移民问题，以及你们对自己所做的一切——你们简直是在自寻死路。
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-09-12 11:49
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1icEZPemJHbDluZmFWU1ZtTmcyVlZNVC13WFJtV3dwUldWdnNXRTU1dkhaMG5idEFhQ1hfMjkxa1FKM191SzAzZFk1RQ?oc=5>
-
-### 特朗普提名的“美国首席医生”，持仓烟草、快餐及碳酸饮料股
+### 美国长期利率在“特朗普冲击”之下逼近5%
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-12 02:21
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxPSDNKTlphQUhDWUkxcGpxQ1QtODZIZ2ZzRGs4LWRZOWtmcVZmcDdETFhpSDk0S0J5SmxUWFhTUW8wM0s3dWxqZVlYRGxZTDJfQ1hQYXRCb1dnRWRocUI1SUpHeFBWY0JyRVYwOVdpckZTaWVuUnVmTXpFemdnZk9VWUt4ZTc1b0k?oc=5>
-
-### 特朗普再点名！应对台湾芯片征收高额关税
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: sohu.com
-- 时间: 2026-09-12 09:57
-- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV0dycEpJZUtSd0pzeTJQa253NGJMclZQY2xvblRwRUlUUHRaU0o4OWd2LWc4VjRZX1NYcXlTZDNVZ0xXLVpZRzZRTW1HSGVuSm5OTnc3dUY3eGNXN2JNVkZJZkM1Yk1qQWwxQzlqN1hWT0xLa3h1eEpCTFpOSU1DbEllQlNXaE93?oc=5>
-
-### Trump Media & Technology Group Corp. Common Stock (Backpack Securities)价格：DJT/USD价格图表、市值与今日新闻
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: CoinGecko
-- 时间: 2026-09-12 17:29
-- 链接: <https://news.google.com/rss/articles/CBMizAFBVV95cUxOZGtnZG1jaVFGdXQ4Z3NaekwybXlWMklPQklJN2ctRE5pai1hRnFRWDZjLTBnYVhrdkFsLUFvaHRtY1pVTVF1QWUyQVMwUUFmTDkzd0Q1X04tZmQ1bC1QZ3VGNjFvdW9fcnRaMTVKd1ZSeHZrZi1uZ1YwMGlmTHM3UUVxUDMzUDM2TEg1SUJyNW5vLUlKbUdpcVl0aXNYeHhrMWpVOGoxY2VUdUhtejFxUk9mRlNQbnNYOWY1ZVBzRVpwdXU0R1Y1UEg3R1I?oc=5>
+- 场馆: 日经中文网
+- 时间: 2026-09-11 02:19
+- 链接: <https://news.google.com/rss/articles/CBMihAFBVV95cUxNTDd0VlZGNXdtUEVJOEZOcjhVZmVQcEVyS1Z5OUFxOTY5eUloWlZSVnB6cXgtWU1Vd1pkNDBMd0RleHpzbVk0cjN3a0piVnNERFZPbGxsbkd3OTJIYUU5a0pfQzJsQWEycUItQnlSTG1DeTVDMnV0S0ZGbl9iLTI4QVE5VEw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-12 20:44  (2 条)
+
+- **特朗普** | 特朗普：英国会有意见，但我乐见爱尔兰统一 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE10MFBESWFMZDZRMDczLUFHYnFuMWVsbVpFRlJYQ3JobC11ZnVHNVhDYU5ZTWFHTGt0UVhuakV1VjVwOUF3QlU5am1FQkE?oc=5>
+- **特朗普** | 美国长期利率在“特朗普冲击”之下逼近5% <https://news.google.com/rss/articles/CBMihAFBVV95cUxNTDd0VlZGNXdtUEVJOEZOcjhVZmVQcEVyS1Z5OUFxOTY5eUloWlZSVnB6cXgtWU1Vd1pkNDBMd0RleHpzbVk0cjN3a0piVnNERFZPbGxsbkd3OTJIYUU5a0pfQzJsQWEycUItQnlSTG1DeTVDMnV0S0ZGbl9iLTI4QVE5VEw?oc=5>
 
 ### 2026-09-12 18:06  (6 条)
 
