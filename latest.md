@@ -1,40 +1,109 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-12 00:26**
-- 本轮扫到 11571 条, 新增 **3** 条
+- 最近更新: **2026-09-12 04:50**
+- 本轮扫到 11581 条, 新增 **10** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (10 条)
 
-### 特朗普：“不后悔”发动伊朗战争
+### 福山：咱对华的优势，被特朗普全干掉
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者网
+- 时间: 2026-09-12 03:06
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFBMSVFFTUlnRUVwN2w5bUZGdzNkdndGU2FhUXNGX01IVTZQRl83MVBCbnV0VU5CTjJOZzEtV1MxZTZtMjd6WW9pUEZQYTktb0o5bFdGRmQyTTZmc19LYmF4bkxRdUVlZHBvbGNXSzNicmp4cnc?oc=5>
+
+### 特朗普提名的“美国首席医生”，持仓烟草、快餐及碳酸饮料股
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-09-11 08:22
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE4za2xGb2x4ZjJiWGFzWVk5WXNoUjVoWmJ4NEh1ZFhjOWlJbGFMdldHaEg2NXdfd0wtTjdqUTdPM3Fvb3h5bUFMc1kyS3h4NDNFSjJfVURxNDI3YzRCTEM4OWloMjg4N2Nhc1A5al91ekdZWk1kbEg1Uw?oc=5>
+- 时间: 2026-09-12 04:07
+- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxON1NrZ0Fzd1cwaUMyUG40WTJ3QXNCMTg2RmM0b295M0NHb1Z4WkI5SndGemROTERRTDVJd0dxbk16TG1pQ21hZ0tHaTduYmJGZklZLUQtLUlnTmdESFNGS3dWelNfRFdyTThhZWpwR1lRWGV6YjRhMzZGVWFfa0VhZGhVZ3RzTUV2a0E?oc=5>
+
+### 特朗普再承诺：若中期选举获胜，将向2.7亿美国成年人每人发5000美元
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-12 02:49
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5BMU9HYmlPdWNHZ3JSM0x5SVRCcWZ2NlVBV1FWZVFFaV84OE05Sm1rN3pkYkEtYnB0RmVXSlVmV0ptUldJWlpNS0o4NWFDSFRPa2dpS21jZTU4cGcyRDNOSlpRTlpfZFJnUDRGOGFINlFHRjFEZUV1UQ?oc=5>
+
+### 特朗普出席五角大楼9/11纪念仪式
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-09-12 00:15
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9pUzRZRWVCN3VwcGxRYU94V1EwcTQ5MFZ5RUZzRFB1QUNWV1I0dUZvdUtwNHkzQWFQWV9vbVlnWU1fOGFjbjVZSzVWS0tjYUg3bjFMczZlM3Mzbl9VYk5pRThQNTJDZllVbFBLZUtFRE16SHV5Mzc3cTV0UEwxMk3SAYIBQVVfeXFMTlpuTFpGR2lWb0xLVjZXNnhjWHc2aHppMnplOG9waV9CaG5LQ0FNYkxzMHRpVk1yRHBzZ09NaFh0LUswcXRjZW1LME9sZDlBSWgyaDNTeUF3Vjl5Um1EN2J6WV9ZeHVSQmIwQXJHa2xTNnhPQlhPSEhjZzdRU01uNGF1dw?oc=5>
+
+### 访华归来，特朗普盟友：美国低估了中国科技的先进
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-09-12 01:51
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1pR2tnRk5tU2E4RGUwRTNPLWJHQllMa1U3dVU4a2FndlNYMFF4cUdWMFF0SW5tSnM1Sk16Q2hQU2c4bFJ3dVlmVkVtbWk?oc=5>
+
+### 特朗普不反对中国汽车制造商在美国设厂
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-09-12 01:23
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1tcGtlcE9LTXNKZ01sTmJmMHFOOUFrbk9aWW5nZmtBbGV2V3FBUEhiOTVvd2NkSnE2NnJTUDhIckVndHhSc1M4Vl9zUFVaTDlDTDhlbFV2ckl3cjByc3dHSXk1SHpMVDh5aVE?oc=5>
+
+### 离谱！特朗普：人类灭绝？我就担心中国…
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者网
+- 时间: 2026-09-11 23:48
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1FUUNEdnkzUmkwNGhqdFJTTncyOGl0U2VRNkMzakNieDRUdUE1eWRPN05lRXFyMWliYWxHZ0ZMSkVlTVlDbi1reldOT004SWI0MXZ1QUcycER2TGxHOF9zRHZfSHZZZ3FKRW95c0J6Z3RPMWc?oc=5>
+
+### 将耗资约1.35万亿美元，特朗普连续3天许诺5000美元分红
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-09-11 22:18
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFB0MGxCSk5hbjZvVFRyNUFza3RpZzZtdnl4OWE4M3NxTUMzd3pEWHBjRkRMcWxkcTBFZUs2WndyNTNKREJ4ek9VenpOZGg?oc=5>
 
 ### 特朗普提名的“首席医生”披露持仓：香烟、快餐、碳酸饮料全都有
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网财经
-- 时间: 2026-09-11 23:32
-- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTFBhdWE3U3F2c0ZOY3Q1cUNhanZJQ0J2OFNMZ0o0Qlpnek0yNExQZXFOYTAwODVYRENoSW8xbnpKMXlnZWd6aUVxVVBsRWlRSGI0?oc=5>
+- 场馆: 财联社
+- 时间: 2026-09-11 15:56
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE5UV29pb3B6ZjhoelpKVHB2SWZWZ1Y0cVhXaDlnaUZXUzZEMXBmLWU5OHhVTEREMDZwb3NOUjh1VDVZS2ZEZXZfVQ?oc=5>
 
-### 特朗普在五角大楼纪念“9·11”事件25周年
+### 美国业界反弹之际，Trump称“中国汽车可在美生产”
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-09-11 23:09
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE4tenhTNW1POHFZUkljN2lVRzFlTHJUVHY3R1NEWU5GVUdPTEFYY05OR0diMEJRVUtBVTFsY1ZaZ3pkMnVTNGN3Mjc0WjZjS2NPbE1QSDFlS2F4ZW8xelotY1dkbmlmU254?oc=5>
+- 场馆: 아시아경제
+- 时间: 2026-09-12 04:35
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ub2I5MWdTQzdsbVMyT3hOeTRobndnbDBTTEJfbDZtazJBZWtGdWpQbGhuX2JoVGp5SGdSdUZVSnRjVmNzWjlCcnZJQnhiRlRFaldCdzNZX2RYa3hrMGpHbTRRRFE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-12 04:50  (10 条)
+
+- **特朗普** | 福山：咱对华的优势，被特朗普全干掉 <https://news.google.com/rss/articles/CBMic0FVX3lxTFBMSVFFTUlnRUVwN2w5bUZGdzNkdndGU2FhUXNGX01IVTZQRl83MVBCbnV0VU5CTjJOZzEtV1MxZTZtMjd6WW9pUEZQYTktb0o5bFdGRmQyTTZmc19LYmF4bkxRdUVlZHBvbGNXSzNicmp4cnc?oc=5>
+- **特朗普** | 特朗普提名的“美国首席医生”，持仓烟草、快餐及碳酸饮料股 <https://news.google.com/rss/articles/CBMiigFBVV95cUxON1NrZ0Fzd1cwaUMyUG40WTJ3QXNCMTg2RmM0b295M0NHb1Z4WkI5SndGemROTERRTDVJd0dxbk16TG1pQ21hZ0tHaTduYmJGZklZLUQtLUlnTmdESFNGS3dWelNfRFdyTThhZWpwR1lRWGV6YjRhMzZGVWFfa0VhZGhVZ3RzTUV2a0E?oc=5>
+- **特朗普** | 特朗普再承诺：若中期选举获胜，将向2.7亿美国成年人每人发5000美元 <https://news.google.com/rss/articles/CBMieEFVX3lxTE5BMU9HYmlPdWNHZ3JSM0x5SVRCcWZ2NlVBV1FWZVFFaV84OE05Sm1rN3pkYkEtYnB0RmVXSlVmV0ptUldJWlpNS0o4NWFDSFRPa2dpS21jZTU4cGcyRDNOSlpRTlpfZFJnUDRGOGFINlFHRjFEZUV1UQ?oc=5>
+- **特朗普** | 特朗普出席五角大楼9/11纪念仪式 <https://news.google.com/rss/articles/CBMif0FVX3lxTE9pUzRZRWVCN3VwcGxRYU94V1EwcTQ5MFZ5RUZzRFB1QUNWV1I0dUZvdUtwNHkzQWFQWV9vbVlnWU1fOGFjbjVZSzVWS0tjYUg3bjFMczZlM3Mzbl9VYk5pRThQNTJDZllVbFBLZUtFRE16SHV5Mzc3cTV0UEwxMk3SAYIBQVVfeXFMTlpuTFpGR2lWb0xLVjZXNnhjWHc2aHppMnplOG9waV9CaG5LQ0FNYkxzMHRpVk1yRHBzZ09NaFh0LUswcXRjZW1LME9sZDlBSWgyaDNTeUF3Vjl5Um1EN2J6WV9ZeHVSQmIwQXJHa2xTNnhPQlhPSEhjZzdRU01uNGF1dw?oc=5>
+- **特朗普** | 访华归来，特朗普盟友：美国低估了中国科技的先进 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1pR2tnRk5tU2E4RGUwRTNPLWJHQllMa1U3dVU4a2FndlNYMFF4cUdWMFF0SW5tSnM1Sk16Q2hQU2c4bFJ3dVlmVkVtbWk?oc=5>
+- **特朗普** | 特朗普不反对中国汽车制造商在美国设厂 <https://news.google.com/rss/articles/CBMiakFVX3lxTE1tcGtlcE9LTXNKZ01sTmJmMHFOOUFrbk9aWW5nZmtBbGV2V3FBUEhiOTVvd2NkSnE2NnJTUDhIckVndHhSc1M4Vl9zUFVaTDlDTDhlbFV2ckl3cjByc3dHSXk1SHpMVDh5aVE?oc=5>
+- **特朗普** | 离谱！特朗普：人类灭绝？我就担心中国… <https://news.google.com/rss/articles/CBMic0FVX3lxTE1FUUNEdnkzUmkwNGhqdFJTTncyOGl0U2VRNkMzakNieDRUdUE1eWRPN05lRXFyMWliYWxHZ0ZMSkVlTVlDbi1reldOT004SWI0MXZ1QUcycER2TGxHOF9zRHZfSHZZZ3FKRW95c0J6Z3RPMWc?oc=5>
+- **特朗普** | 将耗资约1.35万亿美元，特朗普连续3天许诺5000美元分红 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFB0MGxCSk5hbjZvVFRyNUFza3RpZzZtdnl4OWE4M3NxTUMzd3pEWHBjRkRMcWxkcTBFZUs2WndyNTNKREJ4ek9VenpOZGg?oc=5>
+- **特朗普** | 特朗普提名的“首席医生”披露持仓：香烟、快餐、碳酸饮料全都有 <https://news.google.com/rss/articles/CBMiSEFVX3lxTE5UV29pb3B6ZjhoelpKVHB2SWZWZ1Y0cVhXaDlnaUZXUzZEMXBmLWU5OHhVTEREMDZwb3NOUjh1VDVZS2ZEZXZfVQ?oc=5>
+- **Trump** | 美国业界反弹之际，Trump称“中国汽车可在美生产” <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ub2I5MWdTQzdsbVMyT3hOeTRobndnbDBTTEJfbDZtazJBZWtGdWpQbGhuX2JoVGp5SGdSdUZVSnRjVmNzWjlCcnZJQnhiRlRFaldCdzNZX2RYa3hrMGpHbTRRRFE?oc=5>
 
 ### 2026-09-12 00:26  (3 条)
 
