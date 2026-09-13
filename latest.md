@@ -1,80 +1,80 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-13 14:46**
-- 本轮扫到 11640 条, 新增 **8** 条
+- 最近更新: **2026-09-13 17:49**
+- 本轮扫到 11647 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (7 条)
 
-### 特朗普：讨厌、讨厌、讨厌、讨厌……“你们现在做的事情简直就是在自取灭亡”
+### 演唱会门票到底什么时候买？3个维度拆解购票全攻略+FAQ
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879996102_1d5af32c606801d8pq.html>
+
+### 特朗普指不担心习近平可能会取消峰会：我们关系很好
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-09-13 14:53
+- 链接: <https://news.google.com/rss/articles/CBMi9AJBVV95cUxQX0dTZW9NbHBTYjVQRTZtUkIzempnTFpMSWlzcURNVy1ORmNxenRPSlZJQ2tyb1F6akpyMUJibVBRbldPcWMtNEdaelh3bTRVVDJMZDRVVUpLcE00YThDVGpZT0hiU3hKdThJUmF0XzVycVE5dGR2MXVRd29Eb3hTUklWWjZjZnNHM1drVnNscEhaWkdfU2stOS1feGk0OWlMSzFfX3lPSWpZTXNwVWRJenhBSUVtOHFESXRSZk9xaG5wd2xiNXdGSWJJdFdwVnVtc0s3b2lqUktSaVgzdEhMR0RzdHNvdkxNbUpSZE5nay1iSEljeWxJdTA3dnphT1dMdm4yZUlGdW5YNW1sQ0ZFeVNya3REYzBKbi10alFyTzFDelc0MU9HTWJpM3RQOGVvWDVaZGlmaEVEUHIxVGJjZmNIZ2w3RjVyTDN1V2VUR0dndmU3Wk5vS1JwRWpybEdFNUY2elhiTWZVUXhDR3NWV3dPSGs?oc=5>
+
+### 特朗普称泽连斯基“必须停止”攻击俄罗斯炼油厂
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-09-13 13:58
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9lWWJBM1pqeUNyUzkzTjJPZ1BNcFFCd2xIQWM4R3ZlWVpfRFVmWjJqby1KTUJVOXMtcWVCRUFhaENNVFdkNWFweVhYMHVEdFBPaHlFTnB5Tmc3eE9lT0tCY1hwZmd4SHREWkt5UGRscktOSW8tbkhobA?oc=5>
+- 时间: 2026-09-13 16:10
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5HWXc0c0dkNm5uM1ZERU13SUdnNFlDM2JHQlVqWklNM1NWMUc1ZDQyU09waFZfc0NQTW1LUkp1VlJYdHhOOTc4RExMR0Q3U29WUkpDNmdvVnU5VDNycU9aVG5maHVzTWdoN2gxVTlDWUtUb1poUDNmMA?oc=5>
 
-### 特朗普“爱尔兰统一”言论引发英国政界反对
+### 特朗普女婿：普京已经阐明了他希望实现什么，但乌克兰不愿意
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-09-13 09:02
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5neW8zaV82X0NxN0RpdnBfSld3V2dPdDdtU0VLcmhKdlJGbTFYWWNVd2JPc1FXanlOM3dCOG1IMGRTVk5BUXdvOHZPWmc?oc=5>
+
+### 特朗普：美方与胡塞武装通话
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-09-13 16:11
+- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxOUXgyR1ViYWc1ZjYxdW40RlZocGIyTVhUdjZqTFI1V0NWQU8zT0h1U0Rjc01JblBnMXdWWHV2Zkw5QmFNdTFOTXJVb09fa0ZUYV9CNkgxTVNneWtRUXd0Nkw1TEIwNEpURk5wZFQ1NHhUMnN0d245eUNsUS1MeEpyWFVR?oc=5>
+
+### 特朗普重申伊朗战事将在中期选举后结束
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-09-13 13:33
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE55VDhfbTBzaVZfSlZjc054aU5weDItbnNaNWUwSVdfam9GRTM1czdtZzV4OVdwSHIwYW4yTUxPd0FuV01PdzBCWjVWT3ZaMjk5clZTZVc3dzZuQnIycWFtdEN3VVUxWWhha3NTNnRHZXlhWmN0aV91MQ?oc=5>
+- 时间: 2026-09-13 15:32
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5ubHNLNXVZN0pFQWhOUGN3S0lzMmxmUHJSc1RkRVJLbW00TW53bHJtU1RBZE9DRW1oVEx0WjJoekgwenlWU3hvbnhpdmxmeS01bUxtZTB3U2VMMzNQVUo4MlVBbUZfb2dRQzd6a19oSVhQeFdoVXg0dQ?oc=5>
 
-### 禁售庞巴迪？特朗普这一刀，可能砍到美军自己
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 环球网
-- 时间: 2026-09-12 19:44
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE1rcmdNZ1ZKeEd0c2wyVUpiODlEMDd6OTRRWEdVV282RVdSOW5EVHdQak1XcjJnc0NhdWJEd0phTElGSHJrMU1xN2ZnSjhfbFd6N3drd2dseVc?oc=5>
-
-### 攻下红海咽喉岛屿，胡塞武装打电话给美国：别介入！此前沙特两次求助特朗普遭拒
+### 特朗普重申伊朗战事结束时间：届时“汽油价格将会快速下跌”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-09-13 14:08
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5BVkRVTDZGaUhYQWd5S1d6a0YyS2F6YXJETF9iRHotQjVod3JJNmxlcXJ6WndWUGItR3FwYUdFYkV5NVdNMVRYVkQyN0N1REM5dEZKeVBEMXdxbUlCa3QyU1B2MlhJNVp5MXBNSFJtRlA?oc=5>
-
-### 特朗普称胡塞武装致电美方：他们不愿与美军作战
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-09-13 08:20
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE8zOURZMnBNVkZfeURDWlZ4b3FzdDlFZlBhTDdYUkxpMFN0ZzRROWhhdTVWWkV5ekdEeW81U0pSV3FkNU1BazBvcWR0M2dmZzMzc3BWQzJvSE52SzNuN0JSTVp5ZUNiTUx2M2tDTFVhdmt4dw?oc=5>
-
-### 特朗普又将创造历史？白宫据悉考虑用《国防生产法》扩大炼油能力
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-09-13 01:32
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTFBmeGRVSHJUSzFSQzNkakc3QjVsOTNrVTEtX0hsM0N6VEtfNV8wbERKUHNGUDlGN0tKdHhqekZvRC1zX1ZjRUZILQ?oc=5>
-
-### Trump：“将很快与加拿大达成协议”……暗示贸易争端缓和- 阿视亚经济
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 아시아경제
-- 时间: 2026-09-13 13:26
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5YbnVvbTJENXN4NG54a3NBMnNWblQ0OXJ3TUc0cXY2NGtaaDFWM2NwX0pCYTRwYXR6aHo0VXZVOE9Qcm44NERXdk1TU2xZaGtQUDR2WmJ6d18wbmRrbU9ybDhpZDM?oc=5>
-
-### 罗四鸰：特朗普品牌能否保住共和党中期选举？
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: zaobao.com.sg
-- 时间: 2026-09-13 11:00
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE8wdUVLMUgwdWYtRFdCb1NRdk8ycHZKYTkwbmE4NjZKa3FhVFV6WDRHWnhUZGJjemZmY0h5Nl81VWVuaUh4TFpFN1FKTURWSlA4WWVzTnB3YXlPVXdZYXUtTmMwbVQzZUtCVm9N?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-09-13 16:21
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE1iWC1UbFU1eXAxelA1dHMzdkJzYkhPSU1wTHpadFJwb3FEazRrRjBsMXpPdnRtX1FqWXB1d01nNGVnVlFkeWJ5R2JDNmpKaWRlcnlNemVwZkVWQ1BReGU4eXdOd3RGZmJrdEpnU2YxSTJqY2RUTVE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-13 17:49  (7 条)
+
+- **周杰伦** | 演唱会门票到底什么时候买？3个维度拆解购票全攻略+FAQ <https://k.sina.com.cn/article_7879996102_1d5af32c606801d8pq.html>
+- **特朗普** | 特朗普指不担心习近平可能会取消峰会：我们关系很好 <https://news.google.com/rss/articles/CBMi9AJBVV95cUxQX0dTZW9NbHBTYjVQRTZtUkIzempnTFpMSWlzcURNVy1ORmNxenRPSlZJQ2tyb1F6akpyMUJibVBRbldPcWMtNEdaelh3bTRVVDJMZDRVVUpLcE00YThDVGpZT0hiU3hKdThJUmF0XzVycVE5dGR2MXVRd29Eb3hTUklWWjZjZnNHM1drVnNscEhaWkdfU2stOS1feGk0OWlMSzFfX3lPSWpZTXNwVWRJenhBSUVtOHFESXRSZk9xaG5wd2xiNXdGSWJJdFdwVnVtc0s3b2lqUktSaVgzdEhMR0RzdHNvdkxNbUpSZE5nay1iSEljeWxJdTA3dnphT1dMdm4yZUlGdW5YNW1sQ0ZFeVNya3REYzBKbi10alFyTzFDelc0MU9HTWJpM3RQOGVvWDVaZGlmaEVEUHIxVGJjZmNIZ2w3RjVyTDN1V2VUR0dndmU3Wk5vS1JwRWpybEdFNUY2elhiTWZVUXhDR3NWV3dPSGs?oc=5>
+- **特朗普** | 特朗普称泽连斯基“必须停止”攻击俄罗斯炼油厂 <https://news.google.com/rss/articles/CBMieEFVX3lxTE5HWXc0c0dkNm5uM1ZERU13SUdnNFlDM2JHQlVqWklNM1NWMUc1ZDQyU09waFZfc0NQTW1LUkp1VlJYdHhOOTc4RExMR0Q3U29WUkpDNmdvVnU5VDNycU9aVG5maHVzTWdoN2gxVTlDWUtUb1poUDNmMA?oc=5>
+- **特朗普** | 特朗普女婿：普京已经阐明了他希望实现什么，但乌克兰不愿意 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5neW8zaV82X0NxN0RpdnBfSld3V2dPdDdtU0VLcmhKdlJGbTFYWWNVd2JPc1FXanlOM3dCOG1IMGRTVk5BUXdvOHZPWmc?oc=5>
+- **特朗普** | 特朗普：美方与胡塞武装通话 <https://news.google.com/rss/articles/CBMiggFBVV95cUxOUXgyR1ViYWc1ZjYxdW40RlZocGIyTVhUdjZqTFI1V0NWQU8zT0h1U0Rjc01JblBnMXdWWHV2Zkw5QmFNdTFOTXJVb09fa0ZUYV9CNkgxTVNneWtRUXd0Nkw1TEIwNEpURk5wZFQ1NHhUMnN0d245eUNsUS1MeEpyWFVR?oc=5>
+- **特朗普** | 特朗普重申伊朗战事将在中期选举后结束 <https://news.google.com/rss/articles/CBMieEFVX3lxTE5ubHNLNXVZN0pFQWhOUGN3S0lzMmxmUHJSc1RkRVJLbW00TW53bHJtU1RBZE9DRW1oVEx0WjJoekgwenlWU3hvbnhpdmxmeS01bUxtZTB3U2VMMzNQVUo4MlVBbUZfb2dRQzd6a19oSVhQeFdoVXg0dQ?oc=5>
+- **特朗普** | 特朗普重申伊朗战事结束时间：届时“汽油价格将会快速下跌” <https://news.google.com/rss/articles/CBMidkFVX3lxTE1iWC1UbFU1eXAxelA1dHMzdkJzYkhPSU1wTHpadFJwb3FEazRrRjBsMXpPdnRtX1FqWXB1d01nNGVnVlFkeWJ5R2JDNmpKaWRlcnlNemVwZkVWQ1BReGU4eXdOd3RGZmJrdEpnU2YxSTJqY2RUTVE?oc=5>
 
 ### 2026-09-13 14:46  (8 条)
 
