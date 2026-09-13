@@ -1,64 +1,91 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-13 10:55**
-- 本轮扫到 11632 条, 新增 **6** 条
+- 最近更新: **2026-09-13 14:46**
+- 本轮扫到 11640 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (8 条)
 
-### 攻下红海咽喉岛屿，胡塞武装打电话给美国：别介入！此前沙特两次求助特朗普遭拒
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-13 07:54
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1hRTV4OGZEbmQwZVktbUtDMkpHaHNCQTA4bXlONFlwSmE3TUljcXZjd0Fyd1l4VkpleDUxS29MN292Q0QyZWRxTDRoZzRqVGVOaElMbTlyZ1VoYXdjb0RYVi02cC1XR28yN3Fkc3F1TEtTaWRBazlFMVBldlNuczQ?oc=5>
-
-### 也门局势迅速升级，特朗普发声
+### 特朗普：讨厌、讨厌、讨厌、讨厌……“你们现在做的事情简直就是在自取灭亡”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-09-12 23:51
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE9OSlgzbDRTendMNzBNTzZsTXV5ajVNVUNPc0VMU1VzQ3pMTmFwZkx1T2lNOWlqbUMzTFJNTC15amxUZlJnd3ZlSjVHYVRVck9GTmlqWXQwU0ZORU1sLU5tUGQ3Ylpmc0lCUnZHU0ctTFBvNWU3ekE?oc=5>
+- 时间: 2026-09-13 13:58
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9lWWJBM1pqeUNyUzkzTjJPZ1BNcFFCd2xIQWM4R3ZlWVpfRFVmWjJqby1KTUJVOXMtcWVCRUFhaENNVFdkNWFweVhYMHVEdFBPaHlFTnB5Tmc3eE9lT0tCY1hwZmd4SHREWkt5UGRscktOSW8tbkhobA?oc=5>
+
+### 特朗普“爱尔兰统一”言论引发英国政界反对
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-13 13:33
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE55VDhfbTBzaVZfSlZjc054aU5weDItbnNaNWUwSVdfam9GRTM1czdtZzV4OVdwSHIwYW4yTUxPd0FuV01PdzBCWjVWT3ZaMjk5clZTZVc3dzZuQnIycWFtdEN3VVUxWWhha3NTNnRHZXlhWmN0aV91MQ?oc=5>
 
 ### 禁售庞巴迪？特朗普这一刀，可能砍到美军自己
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-13 10:07
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE05U1M5dlc3LXVQNnh2aExUMGNYTjQ2S3JBNGZ3TTZUb2FaTHN3MFVGNGhsU2d4WXFwLS1hVzc0cjFWS2FUdHVHdkxIclpzQWxFc2hGUUZscHB6b2V5UDdrYm1JOFNQMXl2YWViNXFjWEYtUXdna1dLUQ?oc=5>
+- 场馆: 环球网
+- 时间: 2026-09-12 19:44
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE1rcmdNZ1ZKeEd0c2wyVUpiODlEMDd6OTRRWEdVV282RVdSOW5EVHdQak1XcjJnc0NhdWJEd0phTElGSHJrMU1xN2ZnSjhfbFd6N3drd2dseVc?oc=5>
 
-### 特朗普就贸易、能源和移民问题抨击欧洲盟友：你们现在做的事情简直就是在“自取灭亡”
+### 攻下红海咽喉岛屿，胡塞武装打电话给美国：别介入！此前沙特两次求助特朗普遭拒
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 环球网
-- 时间: 2026-09-12 16:47
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE9UT3Z0OVl0d1lUeUpzRGJ4d3dPTGdZdkFsT3pySzJKVTJQSlZsckY5Mll1V3FiRlZmMGxWNUplSWU0UFR3N2dIS0w1dTdySVV1YUlCTnVGUUo?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-09-13 14:08
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5BVkRVTDZGaUhYQWd5S1d6a0YyS2F6YXJETF9iRHotQjVod3JJNmxlcXJ6WndWUGItR3FwYUdFYkV5NVdNMVRYVkQyN0N1REM5dEZKeVBEMXdxbUlCa3QyU1B2MlhJNVp5MXBNSFJtRlA?oc=5>
 
-### 加拿大总理卡尼访欧推“入欧”蓝图 进一步脱离对美国依赖
+### 特朗普称胡塞武装致电美方：他们不愿与美军作战
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-09-13 08:20
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE8zOURZMnBNVkZfeURDWlZ4b3FzdDlFZlBhTDdYUkxpMFN0ZzRROWhhdTVWWkV5ekdEeW81U0pSV3FkNU1BazBvcWR0M2dmZzMzc3BWQzJvSE52SzNuN0JSTVp5ZUNiTUx2M2tDTFVhdmt4dw?oc=5>
+
+### 特朗普又将创造历史？白宫据悉考虑用《国防生产法》扩大炼油能力
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 财联社
+- 时间: 2026-09-13 01:32
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTFBmeGRVSHJUSzFSQzNkakc3QjVsOTNrVTEtX0hsM0N6VEtfNV8wbERKUHNGUDlGN0tKdHhqekZvRC1zX1ZjRUZILQ?oc=5>
+
+### Trump：“将很快与加拿大达成协议”……暗示贸易争端缓和- 阿视亚经济
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-09-13 09:54
-- 链接: <https://news.google.com/rss/articles/CBMigwNBVV95cUxQc1pkWGxvakx6cDRnLThXTkNwNTl0V195dy1obWF6NE5sT3Z6MThkRTlOSURTVVBkcll0X0VEWjRiVFAtZ3d3Smlod0FrZFkyQjNDSllRak1PTFFwd21wMXRrQ05xcl9lR3R3ZEdWaHJhakU4bnVOS2lnb0pFbjM3eTBMWVhWc2dyUG5lRFdGdlRkRzZJbGdQLTIzT3k4dmlLc2ljQ0cwMFhvZi1zeHhVYTFIa1Z4SUJhcW05OUVQOUhFd2Q2VEdFcjBWaWhvNGpPNzBMQXlFbjBaU0wtUTdnRjlsVXMyVGt3eGhROXBNRlZILS13QXh0MDlNVGFvMGNnT2FaRHdBT0h6RVNycGVCNnJJRUZhSGtJNjFtY1lhMUppOUFiVGNfR3liWFlkY1FibmJBTzhlbDNhTnowck9UejZZV21DZ0dNc2dhZ01DM3lqdk5OX0RFRUVOcjk4TGRJQ2JySG5KdzlpMjNsTkhZVkdjWXZvVjRRUXZLVzVyUnJ5Z0k?oc=5>
+- 场馆: 아시아경제
+- 时间: 2026-09-13 13:26
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5YbnVvbTJENXN4NG54a3NBMnNWblQ0OXJ3TUc0cXY2NGtaaDFWM2NwX0pCYTRwYXR6aHo0VXZVOE9Qcm44NERXdk1TU2xZaGtQUDR2WmJ6d18wbmRrbU9ybDhpZDM?oc=5>
 
-### Trump Media & Technology Group Corp. Common Stock (Backpack Securities) (DJT) 2026 年至 2031 年价格预测
+### 罗四鸰：特朗普品牌能否保住共和党中期选举？
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Bybit
-- 时间: 2026-09-13 01:17
-- 链接: <https://news.google.com/rss/articles/CBMisgFBVV95cUxPNTZYQldNbjF6UHFlZFN5VS0wV2dQLXVUOEgxR0ViLTFyZ1hBdmZpUnJERll6aFA2QWFPVjE2MXE2YnJud1JLUDdMY0lCRE5iUnNuN3ZIX3dVUlNIbTJnNDJiSDVkc3JXTmxaR1BQSmZocVNLTF9fZVNNdjRjREdSZ1BFQlpnRGF6SVN4VHA3OTYyREhyRmFhYUdsREpuM0dPSzRiVnd4YnBjcHFqV2hiTFFn?oc=5>
+- 场馆: zaobao.com.sg
+- 时间: 2026-09-13 11:00
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE8wdUVLMUgwdWYtRFdCb1NRdk8ycHZKYTkwbmE4NjZKa3FhVFV6WDRHWnhUZGJjemZmY0h5Nl81VWVuaUh4TFpFN1FKTURWSlA4WWVzTnB3YXlPVXdZYXUtTmMwbVQzZUtCVm9N?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-13 14:46  (8 条)
+
+- **特朗普** | 特朗普：讨厌、讨厌、讨厌、讨厌……“你们现在做的事情简直就是在自取灭亡” <https://news.google.com/rss/articles/CBMieEFVX3lxTE9lWWJBM1pqeUNyUzkzTjJPZ1BNcFFCd2xIQWM4R3ZlWVpfRFVmWjJqby1KTUJVOXMtcWVCRUFhaENNVFdkNWFweVhYMHVEdFBPaHlFTnB5Tmc3eE9lT0tCY1hwZmd4SHREWkt5UGRscktOSW8tbkhobA?oc=5>
+- **特朗普** | 特朗普“爱尔兰统一”言论引发英国政界反对 <https://news.google.com/rss/articles/CBMieEFVX3lxTE55VDhfbTBzaVZfSlZjc054aU5weDItbnNaNWUwSVdfam9GRTM1czdtZzV4OVdwSHIwYW4yTUxPd0FuV01PdzBCWjVWT3ZaMjk5clZTZVc3dzZuQnIycWFtdEN3VVUxWWhha3NTNnRHZXlhWmN0aV91MQ?oc=5>
+- **特朗普** | 禁售庞巴迪？特朗普这一刀，可能砍到美军自己 <https://news.google.com/rss/articles/CBMiWEFVX3lxTE1rcmdNZ1ZKeEd0c2wyVUpiODlEMDd6OTRRWEdVV282RVdSOW5EVHdQak1XcjJnc0NhdWJEd0phTElGSHJrMU1xN2ZnSjhfbFd6N3drd2dseVc?oc=5>
+- **特朗普** | 攻下红海咽喉岛屿，胡塞武装打电话给美国：别介入！此前沙特两次求助特朗普遭拒 <https://news.google.com/rss/articles/CBMicEFVX3lxTE5BVkRVTDZGaUhYQWd5S1d6a0YyS2F6YXJETF9iRHotQjVod3JJNmxlcXJ6WndWUGItR3FwYUdFYkV5NVdNMVRYVkQyN0N1REM5dEZKeVBEMXdxbUlCa3QyU1B2MlhJNVp5MXBNSFJtRlA?oc=5>
+- **特朗普** | 特朗普称胡塞武装致电美方：他们不愿与美军作战 <https://news.google.com/rss/articles/CBMickFVX3lxTE8zOURZMnBNVkZfeURDWlZ4b3FzdDlFZlBhTDdYUkxpMFN0ZzRROWhhdTVWWkV5ekdEeW81U0pSV3FkNU1BazBvcWR0M2dmZzMzc3BWQzJvSE52SzNuN0JSTVp5ZUNiTUx2M2tDTFVhdmt4dw?oc=5>
+- **特朗普** | 特朗普又将创造历史？白宫据悉考虑用《国防生产法》扩大炼油能力 <https://news.google.com/rss/articles/CBMiSEFVX3lxTFBmeGRVSHJUSzFSQzNkakc3QjVsOTNrVTEtX0hsM0N6VEtfNV8wbERKUHNGUDlGN0tKdHhqekZvRC1zX1ZjRUZILQ?oc=5>
+- **Trump** | Trump：“将很快与加拿大达成协议”……暗示贸易争端缓和- 阿视亚经济 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5YbnVvbTJENXN4NG54a3NBMnNWblQ0OXJ3TUc0cXY2NGtaaDFWM2NwX0pCYTRwYXR6aHo0VXZVOE9Qcm44NERXdk1TU2xZaGtQUDR2WmJ6d18wbmRrbU9ybDhpZDM?oc=5>
+- **Trump** | 罗四鸰：特朗普品牌能否保住共和党中期选举？ <https://news.google.com/rss/articles/CBMia0FVX3lxTE8wdUVLMUgwdWYtRFdCb1NRdk8ycHZKYTkwbmE4NjZKa3FhVFV6WDRHWnhUZGJjemZmY0h5Nl81VWVuaUh4TFpFN1FKTURWSlA4WWVzTnB3YXlPVXdZYXUtTmMwbVQzZUtCVm9N?oc=5>
 
 ### 2026-09-13 10:55  (6 条)
 
