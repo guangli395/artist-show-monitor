@@ -1,70 +1,82 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-13 17:49**
-- 本轮扫到 11647 条, 新增 **7** 条
+- 最近更新: **2026-09-13 20:07**
+- 本轮扫到 11654 条, 新增 **7** 条
 
 ---
 
 ## 本轮新发现 (7 条)
 
-### 演唱会门票到底什么时候买？3个维度拆解购票全攻略+FAQ
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879996102_1d5af32c606801d8pq.html>
-
-### 特朗普指不担心习近平可能会取消峰会：我们关系很好
+### AI问题已成为中期选举核心议题：特朗普政府不愿放缓AI发展，民主党人呼吁立即采取行动
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: RFI
-- 时间: 2026-09-13 14:53
-- 链接: <https://news.google.com/rss/articles/CBMi9AJBVV95cUxQX0dTZW9NbHBTYjVQRTZtUkIzempnTFpMSWlzcURNVy1ORmNxenRPSlZJQ2tyb1F6akpyMUJibVBRbldPcWMtNEdaelh3bTRVVDJMZDRVVUpLcE00YThDVGpZT0hiU3hKdThJUmF0XzVycVE5dGR2MXVRd29Eb3hTUklWWjZjZnNHM1drVnNscEhaWkdfU2stOS1feGk0OWlMSzFfX3lPSWpZTXNwVWRJenhBSUVtOHFESXRSZk9xaG5wd2xiNXdGSWJJdFdwVnVtc0s3b2lqUktSaVgzdEhMR0RzdHNvdkxNbUpSZE5nay1iSEljeWxJdTA3dnphT1dMdm4yZUlGdW5YNW1sQ0ZFeVNya3REYzBKbi10alFyTzFDelc0MU9HTWJpM3RQOGVvWDVaZGlmaEVEUHIxVGJjZmNIZ2w3RjVyTDN1V2VUR0dndmU3Wk5vS1JwRWpybEdFNUY2elhiTWZVUXhDR3NWV3dPSGs?oc=5>
+- 时间: 2026-09-13 17:51
+- 链接: <https://news.google.com/rss/articles/CBMixgRBVV95cUxOS2JNaDA0NUxWdThtM09kVC04LURJM2hyclpwaENVQ2duLXQ0Z2hlX19iT3NJbnh0em9fOG0ySVZ1WUdyYXZsOXJfSVpxeDFTdGdpV0VaNFEwdU1uMUNwaEx0ckRCS3NBS3NfZS1KRzBNMElSVEVZSlVkcVFYeFlFdUpoR2JFNUxEdDA5a1pHSHhNQmxkN3pyQ1h0dUpjVjF2WTRrZTZVaGhxOFNwd3Jtc3N6WUQyYkRUZUlLRUFoMEdZT3ZhLV9XUFV4eXRZODNWTERtcVV0VGdPbEg2aU9oM3ZKeGFQeWtTeVh6SVZBRHdFSTIyY2pGVWNJcXBpVDlMaUZ3dGZSZ3pqUHFQTGRXc01scEdSZFNDY0xHR0JUMXMyUzNqNEgtajAzdGhpODJHUVFoVWFPMzJZRTBxQ1pJeFFZRDRWMGFvTDc2LUlsMDNDS3R6NWMzV1I2c0x4SmdORnViQTlYM3dQXy1wVnNfVTUxZHJNR0RxbGRtZHo0c214ZWZoU2EyLXBQTXlnRm5fc3pJTjluQm50aDVPS0RHMXQweFNqVTBDeXhTWng0REdQMFFlejF1dzVDTFRBeXpxTVU3UXo2X0tkTnlldG53dHp2M2pvM1J0ZVE5aFhaRlhJUWRTa29UVy1BYlhwYkFHdWh5UjFqU0lUR3RVWWg5VUU5V0F6aGxwaU9Ja2NJNHpMRGRmUzM3bVBUXzhOMVRvRXhQeDExZzBlbV8wTFFyWlZPT1FjWkJKREltZFJIWGhzX0stclE?oc=5>
 
-### 特朗普称泽连斯基“必须停止”攻击俄罗斯炼油厂
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-13 16:10
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5HWXc0c0dkNm5uM1ZERU13SUdnNFlDM2JHQlVqWklNM1NWMUc1ZDQyU09waFZfc0NQTW1LUkp1VlJYdHhOOTc4RExMR0Q3U29WUkpDNmdvVnU5VDNycU9aVG5maHVzTWdoN2gxVTlDWUtUb1poUDNmMA?oc=5>
-
-### 特朗普女婿：普京已经阐明了他希望实现什么，但乌克兰不愿意
+### 特朗普总统要求乌克兰停止打击俄罗斯柴油设施，称袭击导致全球燃料短缺
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-09-13 09:02
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5neW8zaV82X0NxN0RpdnBfSld3V2dPdDdtU0VLcmhKdlJGbTFYWWNVd2JPc1FXanlOM3dCOG1IMGRTVk5BUXdvOHZPWmc?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-09-13 18:05
+- 链接: <https://news.google.com/rss/articles/CBMisgFBVV95cUxPZUhvS2lFMnYtb25lNUFFQXp0NVQ2YjVvbk5Bd2QtNGMzSi1Jb3owVXRUWk5tVXlkVWsxZ3lSWGZJRk4xSUFXajQxVnlnZlFQTUhvZ2p3Sk1CM0NfTW9VM2luLUIxdElYaGFGZUZpYXJCUnJNb1ZSOU10OEZQeXpycWRJemxmY0k3RjVVdEdscExTellHZHVDQmhfNGpmcmVieW5DQUtWZFZsaFhta0JOdEJn0gG0AUFVX3lxTE9oUVhDTGhuOW9iZS1jQWczb3RKQmNSdVRlY1ctYnhRUFFPSFk2bXhyMHpzTWM5d0hyODBEVDVBUm9Ib0w2MmQyeTNZeU9KVFZRb2pjel9tYjVWM0hDVlctVVpIT0RfUGdrQjRhMExSS1JqWXkyWHFqUElHOWs4SnNyWHQ0aE9vZ0w3ZWRjUWhSMFc3XzkyWi1uNV9YWWNXVnd4TkhQTVpGdTdSNkg0ZGY1dzVGLQ?oc=5>
 
-### 特朗普：美方与胡塞武装通话
+### 特朗普再次重申支持爱尔兰统一，并承诺取消爱尔兰威士忌的关税
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-09-13 16:11
-- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxOUXgyR1ViYWc1ZjYxdW40RlZocGIyTVhUdjZqTFI1V0NWQU8zT0h1U0Rjc01JblBnMXdWWHV2Zkw5QmFNdTFOTXJVb09fa0ZUYV9CNkgxTVNneWtRUXd0Nkw1TEIwNEpURk5wZFQ1NHhUMnN0d245eUNsUS1MeEpyWFVR?oc=5>
+- 场馆: RFI
+- 时间: 2026-09-13 19:54
+- 链接: <https://news.google.com/rss/articles/CBMiuwNBVV95cUxPYW9OYk9ZbEwtUGtuMGUweTNyLUtPSUoyNjktcllsXzBEODNIS1pEWDdPaF9seFRUdVpqVEdyLThYYkRXeTVUbGxuSng1QzluYzI0WHYxaUxSdnUwemFDdllZWFJFQnp0dHNBXzBPdVNnU3BTTndmMkxfdExRR3kya2VOQjJJVnQ3RWFucTRoQnRPRmRrV1FRb19xb2dJLS1NSEt5STdRd1FUZTF5MkMwRk9nSVdFVnJhUFJJQS1xc21kMGpfZlgyd1VWVlVYNTlFMUhURHh6MnZyN1h4SWtVWFQ5ZC1tdTgxY2V4WEM0azdBVHp4b2VnOHFna0RoMWtlTmhYQXRDUzhkT2RUaVdMaXd1ekROVUFreHNabldpNlJrMFdPR2xNQndTQzNIM2l6MFQ1MkV0XzBNZkZmWXgzNWpxNC04cTdQdVZjNVE0Zk1TOFUwZ1N1NXNhT3BjeVRISlhSbmZrVG9uZHVsRmR0V2UzQUQ2OTk0QXJjWkJnc3dEaTR4bHJEQTFsZWVOWEpud1ltME93LURlVzgzWDlLNlFqaU05eDdwN3FncEdiSDZMMThuX01EUmg2VQ?oc=5>
+
+### 美国连捅英国两刀，一刀比一刀狠
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-09-13 03:06
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5PQ1cxTzRDT1hJaHRhUXVNNmdBd21UdzFjNjlWU3RYeDZxOUI3dmJsamRkY2ZoclJfOHVhbmJxOFBDVl96ajZxbU93b2JqdXBCZ1FkTDZGT2ZSY2RYRVQxQUpwbFJFZi1DeVVZMmZRVk9sTTBhNmNjeg?oc=5>
+
+### 叫板特朗普？他俩要登岛“宣示主权”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者网
+- 时间: 2026-09-13 13:28
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1XSzBYbGVGZjQ1V3lGV3RuUGpjSWVsVjF3WGhTN0VjbEthZmpZbGdaak9BM0F3bGw4ZnIwOGhwRDktck9IMzFuYkZBdHZTU2ZQZng4eXBQc1JCSkRuYS1TT1NaT0puSXNjdXd0N2tqbEt2ZTQ?oc=5>
 
 ### 特朗普重申伊朗战事将在中期选举后结束
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-13 15:32
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5ubHNLNXVZN0pFQWhOUGN3S0lzMmxmUHJSc1RkRVJLbW00TW53bHJtU1RBZE9DRW1oVEx0WjJoekgwenlWU3hvbnhpdmxmeS01bUxtZTB3U2VMMzNQVUo4MlVBbUZfb2dRQzd6a19oSVhQeFdoVXg0dQ?oc=5>
+- 场馆: chinanews.com.cn
+- 时间: 2026-09-13 16:37
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9NRkZ6OVZmVTJISjlGdFpPWnR3Y19JTk9PSnRkbmx0QVR5LWpBUTg3QWpLZFJxWmpXNWRobUEzeDFqUlVFUjFVdWlNQnAyZ1FuMzRtN1h0RDJ4MlBCaHhIN1hWVElKakxl?oc=5>
 
-### 特朗普重申伊朗战事结束时间：届时“汽油价格将会快速下跌”
+### 深度 | 谈“统一”、提马岛，特朗普访爱尔兰，猛戳英国神经，有何算计？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-13 16:21
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE1iWC1UbFU1eXAxelA1dHMzdkJzYkhPSU1wTHpadFJwb3FEazRrRjBsMXpPdnRtX1FqWXB1d01nNGVnVlFkeWJ5R2JDNmpKaWRlcnlNemVwZkVWQ1BReGU4eXdOd3RGZmJrdEpnU2YxSTJqY2RUTVE?oc=5>
+- 场馆: jfdaily.com
+- 时间: 2026-09-13 12:10
+- 链接: <https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwXzN0TzQtS3hSa1ZPU0hoUGRJV216MU9uRjRaMEdCc0N2aXQzNUFTSEkzaVZyVVB3RW9tQjFzWXMyQ19TdjRZajZZczNqYl9USm5ZZzFVS2t6QQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-13 20:07  (7 条)
+
+- **特朗普** | AI问题已成为中期选举核心议题：特朗普政府不愿放缓AI发展，民主党人呼吁立即采取行动 <https://news.google.com/rss/articles/CBMixgRBVV95cUxOS2JNaDA0NUxWdThtM09kVC04LURJM2hyclpwaENVQ2duLXQ0Z2hlX19iT3NJbnh0em9fOG0ySVZ1WUdyYXZsOXJfSVpxeDFTdGdpV0VaNFEwdU1uMUNwaEx0ckRCS3NBS3NfZS1KRzBNMElSVEVZSlVkcVFYeFlFdUpoR2JFNUxEdDA5a1pHSHhNQmxkN3pyQ1h0dUpjVjF2WTRrZTZVaGhxOFNwd3Jtc3N6WUQyYkRUZUlLRUFoMEdZT3ZhLV9XUFV4eXRZODNWTERtcVV0VGdPbEg2aU9oM3ZKeGFQeWtTeVh6SVZBRHdFSTIyY2pGVWNJcXBpVDlMaUZ3dGZSZ3pqUHFQTGRXc01scEdSZFNDY0xHR0JUMXMyUzNqNEgtajAzdGhpODJHUVFoVWFPMzJZRTBxQ1pJeFFZRDRWMGFvTDc2LUlsMDNDS3R6NWMzV1I2c0x4SmdORnViQTlYM3dQXy1wVnNfVTUxZHJNR0RxbGRtZHo0c214ZWZoU2EyLXBQTXlnRm5fc3pJTjluQm50aDVPS0RHMXQweFNqVTBDeXhTWng0REdQMFFlejF1dzVDTFRBeXpxTVU3UXo2X0tkTnlldG53dHp2M2pvM1J0ZVE5aFhaRlhJUWRTa29UVy1BYlhwYkFHdWh5UjFqU0lUR3RVWWg5VUU5V0F6aGxwaU9Ja2NJNHpMRGRmUzM3bVBUXzhOMVRvRXhQeDExZzBlbV8wTFFyWlZPT1FjWkJKREltZFJIWGhzX0stclE?oc=5>
+- **特朗普** | 特朗普总统要求乌克兰停止打击俄罗斯柴油设施，称袭击导致全球燃料短缺 <https://news.google.com/rss/articles/CBMisgFBVV95cUxPZUhvS2lFMnYtb25lNUFFQXp0NVQ2YjVvbk5Bd2QtNGMzSi1Jb3owVXRUWk5tVXlkVWsxZ3lSWGZJRk4xSUFXajQxVnlnZlFQTUhvZ2p3Sk1CM0NfTW9VM2luLUIxdElYaGFGZUZpYXJCUnJNb1ZSOU10OEZQeXpycWRJemxmY0k3RjVVdEdscExTellHZHVDQmhfNGpmcmVieW5DQUtWZFZsaFhta0JOdEJn0gG0AUFVX3lxTE9oUVhDTGhuOW9iZS1jQWczb3RKQmNSdVRlY1ctYnhRUFFPSFk2bXhyMHpzTWM5d0hyODBEVDVBUm9Ib0w2MmQyeTNZeU9KVFZRb2pjel9tYjVWM0hDVlctVVpIT0RfUGdrQjRhMExSS1JqWXkyWHFqUElHOWs4SnNyWHQ0aE9vZ0w3ZWRjUWhSMFc3XzkyWi1uNV9YWWNXVnd4TkhQTVpGdTdSNkg0ZGY1dzVGLQ?oc=5>
+- **特朗普** | 特朗普再次重申支持爱尔兰统一，并承诺取消爱尔兰威士忌的关税 <https://news.google.com/rss/articles/CBMiuwNBVV95cUxPYW9OYk9ZbEwtUGtuMGUweTNyLUtPSUoyNjktcllsXzBEODNIS1pEWDdPaF9seFRUdVpqVEdyLThYYkRXeTVUbGxuSng1QzluYzI0WHYxaUxSdnUwemFDdllZWFJFQnp0dHNBXzBPdVNnU3BTTndmMkxfdExRR3kya2VOQjJJVnQ3RWFucTRoQnRPRmRrV1FRb19xb2dJLS1NSEt5STdRd1FUZTF5MkMwRk9nSVdFVnJhUFJJQS1xc21kMGpfZlgyd1VWVlVYNTlFMUhURHh6MnZyN1h4SWtVWFQ5ZC1tdTgxY2V4WEM0azdBVHp4b2VnOHFna0RoMWtlTmhYQXRDUzhkT2RUaVdMaXd1ekROVUFreHNabldpNlJrMFdPR2xNQndTQzNIM2l6MFQ1MkV0XzBNZkZmWXgzNWpxNC04cTdQdVZjNVE0Zk1TOFUwZ1N1NXNhT3BjeVRISlhSbmZrVG9uZHVsRmR0V2UzQUQ2OTk0QXJjWkJnc3dEaTR4bHJEQTFsZWVOWEpud1ltME93LURlVzgzWDlLNlFqaU05eDdwN3FncEdiSDZMMThuX01EUmg2VQ?oc=5>
+- **特朗普** | 美国连捅英国两刀，一刀比一刀狠 <https://news.google.com/rss/articles/CBMieEFVX3lxTE5PQ1cxTzRDT1hJaHRhUXVNNmdBd21UdzFjNjlWU3RYeDZxOUI3dmJsamRkY2ZoclJfOHVhbmJxOFBDVl96ajZxbU93b2JqdXBCZ1FkTDZGT2ZSY2RYRVQxQUpwbFJFZi1DeVVZMmZRVk9sTTBhNmNjeg?oc=5>
+- **特朗普** | 叫板特朗普？他俩要登岛“宣示主权” <https://news.google.com/rss/articles/CBMic0FVX3lxTE1XSzBYbGVGZjQ1V3lGV3RuUGpjSWVsVjF3WGhTN0VjbEthZmpZbGdaak9BM0F3bGw4ZnIwOGhwRDktck9IMzFuYkZBdHZTU2ZQZng4eXBQc1JCSkRuYS1TT1NaT0puSXNjdXd0N2tqbEt2ZTQ?oc=5>
+- **特朗普** | 特朗普重申伊朗战事将在中期选举后结束 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9NRkZ6OVZmVTJISjlGdFpPWnR3Y19JTk9PSnRkbmx0QVR5LWpBUTg3QWpLZFJxWmpXNWRobUEzeDFqUlVFUjFVdWlNQnAyZ1FuMzRtN1h0RDJ4MlBCaHhIN1hWVElKakxl?oc=5>
+- **特朗普** | 深度 | 谈“统一”、提马岛，特朗普访爱尔兰，猛戳英国神经，有何算计？ <https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwXzN0TzQtS3hSa1ZPU0hoUGRJV216MU9uRjRaMEdCc0N2aXQzNUFTSEkzaVZyVVB3RW9tQjFzWXMyQ19TdjRZajZZczNqYl9USm5ZZzFVS2t6QQ?oc=5>
 
 ### 2026-09-13 17:49  (7 条)
 
