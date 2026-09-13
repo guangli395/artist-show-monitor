@@ -1,70 +1,73 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-13 05:33**
-- 本轮扫到 11626 条, 新增 **7** 条
+- 最近更新: **2026-09-13 10:55**
+- 本轮扫到 11632 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (6 条)
 
-### 周杰伦西西里MV首发！打戏惊艳！有女主角
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002raf8.html>
-
-### 英媒：特朗普称希望看到北爱尔兰和爱尔兰共和国统一，引发英国政界不满
+### 攻下红海咽喉岛屿，胡塞武装打电话给美国：别介入！此前沙特两次求助特朗普遭拒
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-09-13 02:21
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdzlIR3EtWkJkSlpsNXdoSUpZS2puLVh2N3BZazh2aG00UERrZDlWcTRESFdhMmZvT1c5NWZtSzlHY0RrRnVBMEwySjA3b0dPY0RPdHEzemhCY0hjNU83QmNQOVRaa0h6NHlFM0hUYWJYR283alozWEJxRmtWczZva1FqaE1mdTRqTlNWc3M0S1liOXpPQVVKY2x4UDlab3djYm5sekVwQ3Y3YmhyZVppb2hNeXNrSVZYSjhSQlQxekF2TUdqSS1zb29wdk94OUtI?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-09-13 07:54
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1hRTV4OGZEbmQwZVktbUtDMkpHaHNCQTA4bXlONFlwSmE3TUljcXZjd0Fyd1l4VkpleDUxS29MN292Q0QyZWRxTDRoZzRqVGVOaElMbTlyZ1VoYXdjb0RYVi02cC1XR28yN3Fkc3F1TEtTaWRBazlFMVBldlNuczQ?oc=5>
 
-### 特朗普称不反对中国车企在美设厂 美媒：若能买到中国车，为何不买？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-09-13 05:17
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9DVjNSYkVqZDNSby02ZDZoMkstMFdoQjNxUHdJQ085WWp6c3liMGFhX2dveTdObEQyQzNqaFpPVDJlZllnVk9TRGtKblR0ZzJXblc3X2IxanZSMGVZQXA2R0FITVAzTHNMcmJWUUtDbUNlbzhXOGZadA?oc=5>
-
-### 特朗普称不反对中国车企赴美建厂
+### 也门局势迅速升级，特朗普发声
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-09-12 07:32
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1fV2tYZldNTEE1UmdYV25jM09ZVURQWFh1TXZQTGUtTEVBN3dSd1RZeEFHQ25oelRONmR2WFUtVUFvNXAwb181a2J6WkQ?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-09-12 23:51
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE9OSlgzbDRTendMNzBNTzZsTXV5ajVNVUNPc0VMU1VzQ3pMTmFwZkx1T2lNOWlqbUMzTFJNTC15amxUZlJnd3ZlSjVHYVRVck9GTmlqWXQwU0ZORU1sLU5tUGQ3Ylpmc0lCUnZHU0ctTFBvNWU3ekE?oc=5>
 
-### 美国总统特朗普公开表示：美国与也门胡塞武装进行了通话，胡塞武装致电美国并表示不愿与美国战斗，也不希望美国卷入也门冲突
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-09-13 02:14
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE9XbmduMzJSWkkyR0ZhNTlYNFBacTFNb2NaWHlablVwYWhSY3FLUFc4OTVBVXVxS1VYSkcybVM3XzFuR3NjTHYwdWw4UFpsV1QyVk1zVkpiS2ZYeUwtNHJ0Q09UUDRQbjNLa2N1NHVLdDhhdXZBQlE?oc=5>
-
-### 罕见表态！特朗普称希望看到爱尔兰统一，英国政界立马不满了
+### 禁售庞巴迪？特朗普这一刀，可能砍到美军自己
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪军事_手机新浪网
-- 时间: 2026-09-13 02:36
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFBaZXhRMG55R3h4c25VWmZHNlA4SzVmSkZvNkthNDdJOUt3c1A4UWhEU0hsb2JIUy1tME80NGxVRUx4NHJDRmMxUG5Kc2RWM0NpaUlBMFY4akFmRTRUZ2RDNzJYT1JqbTlmVGMySE9ONk1XNzg?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-09-13 10:07
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE05U1M5dlc3LXVQNnh2aExUMGNYTjQ2S3JBNGZ3TTZUb2FaTHN3MFVGNGhsU2d4WXFwLS1hVzc0cjFWS2FUdHVHdkxIclpzQWxFc2hGUUZscHB6b2V5UDdrYm1JOFNQMXl2YWViNXFjWEYtUXdna1dLUQ?oc=5>
 
-### 特朗普打破惯例表态支持爱尔兰统一 “迟早会发生”
+### 特朗普就贸易、能源和移民问题抨击欧洲盟友：你们现在做的事情简直就是在“自取灭亡”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 环球网
+- 时间: 2026-09-12 16:47
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE9UT3Z0OVl0d1lUeUpzRGJ4d3dPTGdZdkFsT3pySzJKVTJQSlZsckY5Mll1V3FiRlZmMGxWNUplSWU0UFR3N2dIS0w1dTdySVV1YUlCTnVGUUo?oc=5>
+
+### 加拿大总理卡尼访欧推“入欧”蓝图 进一步脱离对美国依赖
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-09-13 03:01
-- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX0VneGF1eHcxWVBPVnMtMVV0ajByWXJIaHdJUDZ6Uy1Nb3lzMDdENjFwNXpDTUF1SXlyYVNGdkpRc3IwQVltNjlETHRhbUdnX0tZdXBMME8zM3NyZURqd1dmVmdXa0NyRUV4bVF6eHZ5c1lueWJkRWR5ckY1NHc3cmwzMHhZellzNlF3?oc=5>
+- 场馆: RFI
+- 时间: 2026-09-13 09:54
+- 链接: <https://news.google.com/rss/articles/CBMigwNBVV95cUxQc1pkWGxvakx6cDRnLThXTkNwNTl0V195dy1obWF6NE5sT3Z6MThkRTlOSURTVVBkcll0X0VEWjRiVFAtZ3d3Smlod0FrZFkyQjNDSllRak1PTFFwd21wMXRrQ05xcl9lR3R3ZEdWaHJhakU4bnVOS2lnb0pFbjM3eTBMWVhWc2dyUG5lRFdGdlRkRzZJbGdQLTIzT3k4dmlLc2ljQ0cwMFhvZi1zeHhVYTFIa1Z4SUJhcW05OUVQOUhFd2Q2VEdFcjBWaWhvNGpPNzBMQXlFbjBaU0wtUTdnRjlsVXMyVGt3eGhROXBNRlZILS13QXh0MDlNVGFvMGNnT2FaRHdBT0h6RVNycGVCNnJJRUZhSGtJNjFtY1lhMUppOUFiVGNfR3liWFlkY1FibmJBTzhlbDNhTnowck9UejZZV21DZ0dNc2dhZ01DM3lqdk5OX0RFRUVOcjk4TGRJQ2JySG5KdzlpMjNsTkhZVkdjWXZvVjRRUXZLVzVyUnJ5Z0k?oc=5>
+
+### Trump Media & Technology Group Corp. Common Stock (Backpack Securities) (DJT) 2026 年至 2031 年价格预测
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Bybit
+- 时间: 2026-09-13 01:17
+- 链接: <https://news.google.com/rss/articles/CBMisgFBVV95cUxPNTZYQldNbjF6UHFlZFN5VS0wV2dQLXVUOEgxR0ViLTFyZ1hBdmZpUnJERll6aFA2QWFPVjE2MXE2YnJud1JLUDdMY0lCRE5iUnNuN3ZIX3dVUlNIbTJnNDJiSDVkc3JXTmxaR1BQSmZocVNLTF9fZVNNdjRjREdSZ1BFQlpnRGF6SVN4VHA3OTYyREhyRmFhYUdsREpuM0dPSzRiVnd4YnBjcHFqV2hiTFFn?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-13 10:55  (6 条)
+
+- **特朗普** | 攻下红海咽喉岛屿，胡塞武装打电话给美国：别介入！此前沙特两次求助特朗普遭拒 <https://news.google.com/rss/articles/CBMif0FVX3lxTE1hRTV4OGZEbmQwZVktbUtDMkpHaHNCQTA4bXlONFlwSmE3TUljcXZjd0Fyd1l4VkpleDUxS29MN292Q0QyZWRxTDRoZzRqVGVOaElMbTlyZ1VoYXdjb0RYVi02cC1XR28yN3Fkc3F1TEtTaWRBazlFMVBldlNuczQ?oc=5>
+- **特朗普** | 也门局势迅速升级，特朗普发声 <https://news.google.com/rss/articles/CBMidkFVX3lxTE9OSlgzbDRTendMNzBNTzZsTXV5ajVNVUNPc0VMU1VzQ3pMTmFwZkx1T2lNOWlqbUMzTFJNTC15amxUZlJnd3ZlSjVHYVRVck9GTmlqWXQwU0ZORU1sLU5tUGQ3Ylpmc0lCUnZHU0ctTFBvNWU3ekE?oc=5>
+- **特朗普** | 禁售庞巴迪？特朗普这一刀，可能砍到美军自己 <https://news.google.com/rss/articles/CBMieEFVX3lxTE05U1M5dlc3LXVQNnh2aExUMGNYTjQ2S3JBNGZ3TTZUb2FaTHN3MFVGNGhsU2d4WXFwLS1hVzc0cjFWS2FUdHVHdkxIclpzQWxFc2hGUUZscHB6b2V5UDdrYm1JOFNQMXl2YWViNXFjWEYtUXdna1dLUQ?oc=5>
+- **特朗普** | 特朗普就贸易、能源和移民问题抨击欧洲盟友：你们现在做的事情简直就是在“自取灭亡” <https://news.google.com/rss/articles/CBMiWEFVX3lxTE9UT3Z0OVl0d1lUeUpzRGJ4d3dPTGdZdkFsT3pySzJKVTJQSlZsckY5Mll1V3FiRlZmMGxWNUplSWU0UFR3N2dIS0w1dTdySVV1YUlCTnVGUUo?oc=5>
+- **Trump** | 加拿大总理卡尼访欧推“入欧”蓝图 进一步脱离对美国依赖 <https://news.google.com/rss/articles/CBMigwNBVV95cUxQc1pkWGxvakx6cDRnLThXTkNwNTl0V195dy1obWF6NE5sT3Z6MThkRTlOSURTVVBkcll0X0VEWjRiVFAtZ3d3Smlod0FrZFkyQjNDSllRak1PTFFwd21wMXRrQ05xcl9lR3R3ZEdWaHJhakU4bnVOS2lnb0pFbjM3eTBMWVhWc2dyUG5lRFdGdlRkRzZJbGdQLTIzT3k4dmlLc2ljQ0cwMFhvZi1zeHhVYTFIa1Z4SUJhcW05OUVQOUhFd2Q2VEdFcjBWaWhvNGpPNzBMQXlFbjBaU0wtUTdnRjlsVXMyVGt3eGhROXBNRlZILS13QXh0MDlNVGFvMGNnT2FaRHdBT0h6RVNycGVCNnJJRUZhSGtJNjFtY1lhMUppOUFiVGNfR3liWFlkY1FibmJBTzhlbDNhTnowck9UejZZV21DZ0dNc2dhZ01DM3lqdk5OX0RFRUVOcjk4TGRJQ2JySG5KdzlpMjNsTkhZVkdjWXZvVjRRUXZLVzVyUnJ5Z0k?oc=5>
+- **Trump** | Trump Media & Technology Group Corp. Common Stock (Backpack Securities) (DJT) 2026 年至 2031 年价格预测 <https://news.google.com/rss/articles/CBMisgFBVV95cUxPNTZYQldNbjF6UHFlZFN5VS0wV2dQLXVUOEgxR0ViLTFyZ1hBdmZpUnJERll6aFA2QWFPVjE2MXE2YnJud1JLUDdMY0lCRE5iUnNuN3ZIX3dVUlNIbTJnNDJiSDVkc3JXTmxaR1BQSmZocVNLTF9fZVNNdjRjREdSZ1BFQlpnRGF6SVN4VHA3OTYyREhyRmFhYUdsREpuM0dPSzRiVnd4YnBjcHFqV2hiTFFn?oc=5>
 
 ### 2026-09-13 05:33  (7 条)
 
