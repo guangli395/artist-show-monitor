@@ -1,48 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-12 22:45**
-- 本轮扫到 11616 条, 新增 **4** 条
+- 最近更新: **2026-09-13 00:32**
+- 本轮扫到 11619 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (3 条)
 
 ### 美国总统称美方与胡塞武装进行通话 胡塞武装暂未回应
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-09-12 22:40
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBia0VTZnRIcVhfcUQxa21GZk1fMUJQZE91aGRGM3pUU0tXaUgyNzQtcGpWc00zOVQ1amFNTzN0QWY3LWtROEZWMGNsaFpBSWdsSksxanpFR0tQTzdKMW1LTDY0OUNTS2dzSVQyMTZWOEU?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-09-12 22:44
+- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxQUGQ1d2dYZkZiZnBFWjlORjQ1THM0UXg0YUJlSlRPeDNVTER0dEZhLV95dm9RaTZWMDltV1NkeU8xc21OTlZsUjBEb2taYThKamJtblNCLXdTaWRPVEZNdEhud2ctSzQ4QXhLbkdkQnMyQ1pyVFI4b0tCODZlZ1hrY3ZQTjJERXFmQURYYnppMi05NUxCaHJWRQ?oc=5>
 
-### 曼德海峡告急！沙特首相两次致电敦促美国打击胡塞武装遭拒，美目前无意出手
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: wallstreetcn.com
-- 时间: 2026-09-11 22:49
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE1iS1dlLUxuZ2ZhbE95Wlp0MUJTMF81RVNZcUVfNEs1ZF9GVFU2UnZPMDZXY2JMYm1hM01NMF82WndFLTdtTllhQkZ6Njc0WERuVEtV?oc=5>
-
-### 沙特王储两次致电特朗普敦促美方打击胡塞武装，均遭拒绝
+### 特朗普连续3天许诺5000美元分红
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-09-11 08:11
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE80bjhtS25LY0haLWNDSTc4RFRCREZPYUxNMG51M1FaUmlVaUtZM0ZNZjdhdTE5RU85ZnB0QWktb2pQX1NaZTRvaEQzUDU?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-09-12 02:01
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE0tS1FrbVJOY05WYWZEdi1DWl9uUHE2RXNQbXZFbFN6V3RhMEVWNUtJUjgwTUd3cGNoem4tcTF2WUp3elhvbkxDR3FULS1RZ1Bob2hiR3ZSbEhxWUx4cGxlTGlNbWZISjNyTEJveVdrOG0yNmNISXc?oc=5>
 
-### 福山：美国对华的优势，被特朗普全干掉
+### 特朗普称胡塞武装已致电美方
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-09-12 03:06
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE85UlhoakRsS1Nad1FsWkJINThILTFRS2U2UHRZczQ2T0o3em5Rc2xMNk5CVkRkM1YwY0k0VDVGamRYMWFET0w4QnF2YlY?oc=5>
+- 时间: 2026-09-12 22:17
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBRdnVKZUFSZEk3SzB3bW1pQjVDTUJnWDhfV2kteFE4VThjQlEyeDRmMDhaejFNTFN1YVMwdGdydHZQcEhUZlc5bHUzb3U?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-13 00:32  (3 条)
+
+- **特朗普** | 美国总统称美方与胡塞武装进行通话 胡塞武装暂未回应 <https://news.google.com/rss/articles/CBMimAFBVV95cUxQUGQ1d2dYZkZiZnBFWjlORjQ1THM0UXg0YUJlSlRPeDNVTER0dEZhLV95dm9RaTZWMDltV1NkeU8xc21OTlZsUjBEb2taYThKamJtblNCLXdTaWRPVEZNdEhud2ctSzQ4QXhLbkdkQnMyQ1pyVFI4b0tCODZlZ1hrY3ZQTjJERXFmQURYYnppMi05NUxCaHJWRQ?oc=5>
+- **特朗普** | 特朗普连续3天许诺5000美元分红 <https://news.google.com/rss/articles/CBMidkFVX3lxTE0tS1FrbVJOY05WYWZEdi1DWl9uUHE2RXNQbXZFbFN6V3RhMEVWNUtJUjgwTUd3cGNoem4tcTF2WUp3elhvbkxDR3FULS1RZ1Bob2hiR3ZSbEhxWUx4cGxlTGlNbWZISjNyTEJveVdrOG0yNmNISXc?oc=5>
+- **特朗普** | 特朗普称胡塞武装已致电美方 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBRdnVKZUFSZEk3SzB3bW1pQjVDTUJnWDhfV2kteFE4VThjQlEyeDRmMDhaejFNTFN1YVMwdGdydHZQcEhUZlc5bHUzb3U?oc=5>
 
 ### 2026-09-12 22:45  (4 条)
 
