@@ -1,40 +1,80 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-13 00:32**
-- 本轮扫到 11619 条, 新增 **3** 条
+- 最近更新: **2026-09-13 05:33**
+- 本轮扫到 11626 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (7 条)
 
-### 美国总统称美方与胡塞武装进行通话 胡塞武装暂未回应
+### 周杰伦西西里MV首发！打戏惊艳！有女主角
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-12 22:44
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxQUGQ1d2dYZkZiZnBFWjlORjQ1THM0UXg0YUJlSlRPeDNVTER0dEZhLV95dm9RaTZWMDltV1NkeU8xc21OTlZsUjBEb2taYThKamJtblNCLXdTaWRPVEZNdEhud2ctSzQ4QXhLbkdkQnMyQ1pyVFI4b0tCODZlZ1hrY3ZQTjJERXFmQURYYnppMi05NUxCaHJWRQ?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002raf8.html>
 
-### 特朗普连续3天许诺5000美元分红
+### 英媒：特朗普称希望看到北爱尔兰和爱尔兰共和国统一，引发英国政界不满
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-12 02:01
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE0tS1FrbVJOY05WYWZEdi1DWl9uUHE2RXNQbXZFbFN6V3RhMEVWNUtJUjgwTUd3cGNoem4tcTF2WUp3elhvbkxDR3FULS1RZ1Bob2hiR3ZSbEhxWUx4cGxlTGlNbWZISjNyTEJveVdrOG0yNmNISXc?oc=5>
+- 场馆: finance.sina.com.cn
+- 时间: 2026-09-13 02:21
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdzlIR3EtWkJkSlpsNXdoSUpZS2puLVh2N3BZazh2aG00UERrZDlWcTRESFdhMmZvT1c5NWZtSzlHY0RrRnVBMEwySjA3b0dPY0RPdHEzemhCY0hjNU83QmNQOVRaa0h6NHlFM0hUYWJYR283alozWEJxRmtWczZva1FqaE1mdTRqTlNWc3M0S1liOXpPQVVKY2x4UDlab3djYm5sekVwQ3Y3YmhyZVppb2hNeXNrSVZYSjhSQlQxekF2TUdqSS1zb29wdk94OUtI?oc=5>
 
-### 特朗普称胡塞武装已致电美方
+### 特朗普称不反对中国车企在美设厂 美媒：若能买到中国车，为何不买？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-09-13 05:17
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9DVjNSYkVqZDNSby02ZDZoMkstMFdoQjNxUHdJQ085WWp6c3liMGFhX2dveTdObEQyQzNqaFpPVDJlZllnVk9TRGtKblR0ZzJXblc3X2IxanZSMGVZQXA2R0FITVAzTHNMcmJWUUtDbUNlbzhXOGZadA?oc=5>
+
+### 特朗普称不反对中国车企赴美建厂
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-09-12 22:17
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBRdnVKZUFSZEk3SzB3bW1pQjVDTUJnWDhfV2kteFE4VThjQlEyeDRmMDhaejFNTFN1YVMwdGdydHZQcEhUZlc5bHUzb3U?oc=5>
+- 时间: 2026-09-12 07:32
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1fV2tYZldNTEE1UmdYV25jM09ZVURQWFh1TXZQTGUtTEVBN3dSd1RZeEFHQ25oelRONmR2WFUtVUFvNXAwb181a2J6WkQ?oc=5>
+
+### 美国总统特朗普公开表示：美国与也门胡塞武装进行了通话，胡塞武装致电美国并表示不愿与美国战斗，也不希望美国卷入也门冲突
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: finance.sina.com.cn
+- 时间: 2026-09-13 02:14
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE9XbmduMzJSWkkyR0ZhNTlYNFBacTFNb2NaWHlablVwYWhSY3FLUFc4OTVBVXVxS1VYSkcybVM3XzFuR3NjTHYwdWw4UFpsV1QyVk1zVkpiS2ZYeUwtNHJ0Q09UUDRQbjNLa2N1NHVLdDhhdXZBQlE?oc=5>
+
+### 罕见表态！特朗普称希望看到爱尔兰统一，英国政界立马不满了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪军事_手机新浪网
+- 时间: 2026-09-13 02:36
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFBaZXhRMG55R3h4c25VWmZHNlA4SzVmSkZvNkthNDdJOUt3c1A4UWhEU0hsb2JIUy1tME80NGxVRUx4NHJDRmMxUG5Kc2RWM0NpaUlBMFY4akFmRTRUZ2RDNzJYT1JqbTlmVGMySE9ONk1XNzg?oc=5>
+
+### 特朗普打破惯例表态支持爱尔兰统一 “迟早会发生”
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 8world
+- 时间: 2026-09-13 03:01
+- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX0VneGF1eHcxWVBPVnMtMVV0ajByWXJIaHdJUDZ6Uy1Nb3lzMDdENjFwNXpDTUF1SXlyYVNGdkpRc3IwQVltNjlETHRhbUdnX0tZdXBMME8zM3NyZURqd1dmVmdXa0NyRUV4bVF6eHZ5c1lueWJkRWR5ckY1NHc3cmwzMHhZellzNlF3?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-13 05:33  (7 条)
+
+- **周杰伦** | 周杰伦西西里MV首发！打戏惊艳！有女主角 <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002raf8.html>
+- **特朗普** | 英媒：特朗普称希望看到北爱尔兰和爱尔兰共和国统一，引发英国政界不满 <https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdzlIR3EtWkJkSlpsNXdoSUpZS2puLVh2N3BZazh2aG00UERrZDlWcTRESFdhMmZvT1c5NWZtSzlHY0RrRnVBMEwySjA3b0dPY0RPdHEzemhCY0hjNU83QmNQOVRaa0h6NHlFM0hUYWJYR283alozWEJxRmtWczZva1FqaE1mdTRqTlNWc3M0S1liOXpPQVVKY2x4UDlab3djYm5sekVwQ3Y3YmhyZVppb2hNeXNrSVZYSjhSQlQxekF2TUdqSS1zb29wdk94OUtI?oc=5>
+- **特朗普** | 特朗普称不反对中国车企在美设厂 美媒：若能买到中国车，为何不买？ <https://news.google.com/rss/articles/CBMieEFVX3lxTE9DVjNSYkVqZDNSby02ZDZoMkstMFdoQjNxUHdJQ085WWp6c3liMGFhX2dveTdObEQyQzNqaFpPVDJlZllnVk9TRGtKblR0ZzJXblc3X2IxanZSMGVZQXA2R0FITVAzTHNMcmJWUUtDbUNlbzhXOGZadA?oc=5>
+- **特朗普** | 特朗普称不反对中国车企赴美建厂 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1fV2tYZldNTEE1UmdYV25jM09ZVURQWFh1TXZQTGUtTEVBN3dSd1RZeEFHQ25oelRONmR2WFUtVUFvNXAwb181a2J6WkQ?oc=5>
+- **特朗普** | 美国总统特朗普公开表示：美国与也门胡塞武装进行了通话，胡塞武装致电美国并表示不愿与美国战斗，也不希望美国卷入也门冲突 <https://news.google.com/rss/articles/CBMidkFVX3lxTE9XbmduMzJSWkkyR0ZhNTlYNFBacTFNb2NaWHlablVwYWhSY3FLUFc4OTVBVXVxS1VYSkcybVM3XzFuR3NjTHYwdWw4UFpsV1QyVk1zVkpiS2ZYeUwtNHJ0Q09UUDRQbjNLa2N1NHVLdDhhdXZBQlE?oc=5>
+- **特朗普** | 罕见表态！特朗普称希望看到爱尔兰统一，英国政界立马不满了 <https://news.google.com/rss/articles/CBMic0FVX3lxTFBaZXhRMG55R3h4c25VWmZHNlA4SzVmSkZvNkthNDdJOUt3c1A4UWhEU0hsb2JIUy1tME80NGxVRUx4NHJDRmMxUG5Kc2RWM0NpaUlBMFY4akFmRTRUZ2RDNzJYT1JqbTlmVGMySE9ONk1XNzg?oc=5>
+- **Trump** | 特朗普打破惯例表态支持爱尔兰统一 “迟早会发生” <https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX0VneGF1eHcxWVBPVnMtMVV0ajByWXJIaHdJUDZ6Uy1Nb3lzMDdENjFwNXpDTUF1SXlyYVNGdkpRc3IwQVltNjlETHRhbUdnX0tZdXBMME8zM3NyZURqd1dmVmdXa0NyRUV4bVF6eHZ5c1lueWJkRWR5ckY1NHc3cmwzMHhZellzNlF3?oc=5>
 
 ### 2026-09-13 00:32  (3 条)
 
