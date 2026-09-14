@@ -1,88 +1,177 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-14 00:35**
-- 本轮扫到 11668 条, 新增 **9** 条
+- 最近更新: **2026-09-14 05:38**
+- 本轮扫到 11686 条, 新增 **18** 条
 
 ---
 
-## 本轮新发现 (9 条)
+## 本轮新发现 (18 条)
 
-### 特朗普：不担心习近平可能取消峰会
+### 周杰伦自导自演新歌MV被赞浓缩版动作电影，暗黑风格回归
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-09-13 13:44
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1aS0tfQTRObEp2b0hxX1pnZTJEVW45Y0pldzBlRGNKRXFvZWZCUjhQZGRZQnpwWk5Wcm1XcnlscDEtV1NpWHJELUNncVpuWFpEX2JlbTRjUWZTYjZsOUdfUmhfNlA2dw?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857263936_1d454554006801rsvg.html>
 
-### 特朗普不反对中国汽车制造商在美国设厂
+### 周杰伦自导自演新歌西西里MV回归暗黑叙事风格被赞浓缩版动作电影
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-09-12 01:23
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5jQzZSQTFJNWZ3UjlOaVJuLUF4V2ljMGVCT0U2Y1E4YmVlc0ZtM0pSSVFGOW8wblNaT21JYVJLcDlsT3Rnd09abWtJZ3pyblpoOVFMWUhLcjZtWmFucXZXY3dUZmxodw?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857263936_1d454554006801rr8w.html>
 
-### 特朗普称考虑解密更多“9·11”事件档案
+### 无视英国反对 特朗普再挺“爱尔兰统一”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-13 23:06
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9iNWtBRXFFZ2FIb2NzaGpkLUUyT09WcTNfei02MjVNMTRraHozM2xmTTZVTzdESFlVZ2RTZVF3M00ybVRvYjgzMXVvQW12RjJQeG1qZlNTa2NZSy1SUExOVGg5ZmJWNXNNdlVZWWlrSk1sTDYtVHpTSA?oc=5>
+- 场馆: 央视网
+- 时间: 2026-09-13 22:06
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE50Zl9BNWdWTXRia3p0S1dvdXc4UEI3enUtb3NzNXZDNnAwNDNWeUVzS25nWkRMSG1xQzlOTnRRZTRZUzlWQm9vTDRnTnZVU0J0Zzh6NmVNc3ZoWHpqVjdWVDNrd21XTDlkRWJJTnJMMzl1bjJMTVlJeQ?oc=5>
 
-### 特朗普称泽连斯基“必须停止”攻击俄罗斯炼油厂
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-09-13 23:44
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFAzOEN6cExwUHZjVEI3NTE2YkowN3plekxYWUhkQ3pYV3A2bE1wR3JCSTY4ek1nMzBjSjNUZ0FlNFQ1SjVLM1JYTGRZbFo?oc=5>
-
-### 【环球财经】特朗普称泽连斯基“必须停止”攻击俄罗斯炼油厂
+### 特朗普再挺“爱尔兰统一” 引发英国政界反对
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-13 23:00
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1PN1RqZFZOenZRUE9TYTVVWEVIOHc5ckpvVTZsVm9BNFlKM2dQYlotWlkyNFJkQkNOdUE2bXdqMmFUQjVWdnJ2ajZuNnF0SFNCM1BCQlJ4LTVzYXhkU2NsQmRMU0VvbHZmUVJvOUdlZmFVQy15N2JrMA?oc=5>
+- 场馆: finance.sina.cn
+- 时间: 2026-09-13 23:38
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFA5V0h6V2t0eWtNVm5IR3V5Tzd0X0l0UktwX3cyZ05oOTN6Um13YXotRW9DOWtJUzBobHZnYW5TT0NVVGxmczFmU0p2QWM2TmdXNWctTkpDd2I2N2JmT0FFdkwzZ2YtRTk4YmVJRG9wbXpfVzhxcjdSZA?oc=5>
+
+### 打破美总统一贯立场！特朗普挺爱尔兰统一刺激英国，英首相重申立场
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: finance.sina.cn
+- 时间: 2026-09-14 04:38
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5zZ1JBTGE1NV9OU1J2YXE1VEJNMnJUOGVKa0tXcU1GOElzRTI1ZTBkbVhDeHluVU80RFhJX2hWYWRQT18yc1NVUnI1WW85T3kyLVZHOU04SzVVMjVUbklWVVEwcmY4YVJEdEhzTkhWbTh0VzVwMWRDdQ?oc=5>
+
+### 特朗普称将考虑公布更多“9·11”关联文件
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-09-14 05:07
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBnNEYwRVFhVDRoaHh3TC1sMVJNaDZhUUZPb1AtXzBIaHg0a1hHT3RidzNQNE8tbTNHUWhaWkY2SlJCZ1RnMGtXRTdjeU9HdzFCOXV1dEJGSEhjTG5iMzZqS0JOQVVkRXEtbWZBeGhoa3RDMTZ6d3Z6d091cXZ0a0k?oc=5>
+
+### 特朗普回应人工智能监管，称负面力量夸大问题
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-09-14 05:07
+- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxQcExWMmw3cFdGNDZHN05CeWhURHR5empuX1pGMVFabm5RTlZPT2kxUnZObWlJc2FPclNzMGJDUFRNWlVNYVlmQjNWNFNoSmFvQkNYSU51TUNRd29VQl90RnFuU1RuUFZPa1lfc3NjYXdfc3ZEWWtLaVNsdnQ3UjRCWA?oc=5>
+
+### 特朗普喊话泽连斯基停止袭击俄炼油设施，“袭击会伤害整个世界”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: news.sina.com.cn
+- 时间: 2026-09-14 00:29
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5nSlN2WnI0Z3Z2STJ0Q3U4MFVudzJrb2NsUDdnX1I0R2VZWW93V09DY1JaV2NRSjlsQjM3SUhOc2ZYU3RfU2ttTkhxakc1S09SdXJISGZrX2pSdV9nWVpidVdwdm0zRGdPMzFfTUFWNmQ?oc=5>
+
+### 特朗普要求泽连斯基停止袭击俄柴油厂和炼油厂
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-09-14 05:23
+- 链接: <https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdlZmRmNEc1d4NDRKaTBxTlllckJMUGZTdzBlX284SE9MUG1ucG5xVGhUdnhaY00xbWticm81V1N4ZThiLUJkb1Y0dktIdThGUzl6MXhxYVdTcVh1MzBENFgwWkx1QnV2ZEpDZllJV3BLUlNBWW14bnNtS2NId25kRXpoRFJDMk83eTJuSTVKY1FEZWNTMWo3ekR2Z2l4amlwdzE1WVVIeHFHOFFKUVg1cE1pUXk5MWZGMmRxMWc0czM4LVFYNENYZGxBeVFsSW5WWlhrUXVvRk13WWs?oc=5>
 
 ### 特朗普重申伊朗战事将在中期选举后结束
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: news.cctv.com
-- 时间: 2026-09-13 15:46
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5jSzhrMDdneWRzYnNCU1AyWG16MFpiVEE1bnJFcTZtS0E3WHlfYlJwSDJtNkpqYS1YWVNyMlF4MFNucnRqTlpoLWxOVEJhMFRtZklFNk1BQ0hCTXMyTjB0akdGZGlpQ2JRRkFJNjZVUGNFY0RvTWJVdw?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-09-13 17:04
+- 链接: <https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMmwwZ01RYkpCUHlnLUw4eTRVWmpadFJYUzlkTGVtc1BXUTdlM0ZwdG5ET3IzeHJtM2pXZUZuczhLTUwzZXNHaXJySFN3NXZJR0lrX2ZUUTB6N1JmRUxNLVNOUkpqYmhUbmFGMjFyTUhFZ0VTV0RhSzBPazdiRXBTcmktcWotN2NLbDZwZUliY1dtZzVUcl9Pc3Z2V3RhUE1ySE1xTzlpa3NyN2xNMG10OHQyUHc5S0FKRERrOUFLOU1LTWNDc0lEem1rQl8wTFNkRXpqNHV6YlVLbWZHQ2QwNnB3?oc=5>
 
 ### 特朗普再谈美伊战事：或于美国中期选举后结束，能否兑现？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Sohu
-- 时间: 2026-09-13 23:01
-- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTE1NNDNuM1dJQjM2NmFNdncwN2lXai1uRjhPN0VLZXVkelBXeU9xcjV4VUwwN0tKZjk1UUVzMHZMdDdfb2E0SnNOSFlTbnl1SHBNbHc?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-09-13 23:02
+- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxOeXhJQ3poT2hMYlk1MFFLZ0NtWDNnQlhwNF9aZVBfbjcxMlozdkY0MEw5ZmpfN3hnV2NMLWlZQ1hvUHo0eFVobDRfNXREbHpKQk9sQ3l1NFVSWjRXQmlPSjRFX1NTUUIxd2JmRmpHdDFkRDhxTHY4MGlobktKTy0wdjdaWC1XVzlGRGFpbU1GRnE1ZU1vVmtwUXFDWWw3RzNwZHp2YmtnNF94QzZwQTNRSTVzZDl3ZTlqNzBSUDk1UmNvdGVPclZpbTFpU09CbDg?oc=5>
 
-### 特朗普承诺取消对爱尔兰威士忌的10%关税
+### 特朗普盯上伊朗石油：就像在委内瑞拉那样
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-09-13 23:45
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9xcXRCU19PSWsxWnhFYUwzLU9fS0J6S19HZ1FrWkx1dnZxUHZsQ0pGeFBfNDczSnNYZ0o4ZU43QzNpRlkzcG14cnhGd1Q?oc=5>
+
+### 特朗普大厦最新选址：一个正向俄罗斯靠拢的前苏联加盟国
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: 华尔街日报中文网
-- 时间: 2026-09-13 23:28
-- 链接: <https://news.google.com/rss/articles/CBMikgFBVV95cUxPZHRMMkdzLWRuTG01V0J4NXlRSExUVExjc2g5RUd3Rk9xWXJ2VE1QV2dENlM3NUZ6YXV3MWxmZXV1Y2JUOGwzYnhKSkFBY0JvdUg2N2JnU1hNWW1LUHlnQU1CQlhmNFdHVHBqc205NW15MGIxSEc0aWg5YmdfQlZSOXEtb2pscjNBZkJSR212eXRIUQ?oc=5>
+- 时间: 2026-09-14 05:22
+- 链接: <https://news.google.com/rss/articles/CBMitwFBVV95cUxNeUhjUlp1VUg1bEVfYnBQYkktMjVTRjBTSl9qU21UZXk5X042dVlMNEhrdGpad3R1dEpUdVRsVHFqSVhUb2xOYnNJVnFGenJQenVCeDhQT0d0NnNfcG5IYlE4dmhOTFBNUW9PeGNvM09uRTVNWGhVWDdpbFgzWHJOc2pQNjlJZnlCRVVjOWtlLWhvQjJ1Q1Y2WEoxb3Nqc19NT2p6ZmpMMGdzZ2tpRzNOUk50Umx6d1E?oc=5>
 
-### Trump驳斥放缓AI发展论：“必须保持领先中国”
+### Anthropic与“特朗普关联公司”Rum Group签署137亿美元算力协议
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 华尔街见闻
+- 时间: 2026-09-14 02:39
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPUDVhYk00dFRmVUpsNzJ3WDhaQ2dINmt1aTNsTnV3aFNYQlRlQ3YtaVJXNS1wcU5VOFg4NHdybWhGakR2ZVo2TF9LYlhST1NJUG9F?oc=5>
+
+### Trump促成“金砖国家”团结：“实力即正义的逻辑行不通”
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: 아시아경제
-- 时间: 2026-09-13 18:02
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LVGxRZURxLVlsYkxfejV3aXRJdTNJRXJVei1fR0NSank1LTN6ejZINEdfQU5HRnF0RFJZSFUzMEwweGhhNUhqMXJQWmt5dDNBSUppZ2xVeWhuaUN4aDRHQklId2c?oc=5>
+- 时间: 2026-09-14 01:08
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBlOHdSamJva0xNYXFDOERud0dhYlVacU5oQWFMeEFqRTJwSTJYUzZQTTJOYlcwY3ZubFg4YnBja0x1VEdiUldXcUhUcWxxTS1IWUVWLXNaeWZCN0FDcmdQckVPU3Y?oc=5>
+
+### 特朗普喊话泽连斯基：“必须停止”袭击俄柴油燃料设施
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Sohu
+- 时间: 2026-09-14 00:54
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdFlxRmhmRUtBTUNxX2hYSVMyNUNKXzVjSEZ2cUw0ZEVrWk5mUV9idDVLTUR6c1ZJbzRXSWl2cl9Eek5UTHpfRGEzNEhCTkRmNFFJLXNzTDNkLVk0REItd19pOURhNy1sMkJYRWdwVUZ0UFRwbnFYTl9sY2RZNVBSbEN5bG02czdi?oc=5>
+
+### 特朗普赴爱尔兰观看高尔夫比赛，“统一”言论引发争议
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-09-14 02:08
+- 链接: <https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSWNzU1ZwbVB2LUxxRkV3SVpCV3JMSGpDRUtTU0Fickl0OTJTbzVWbGRZWFY2UFBuQU9CcVA0aERfQ09WUTFPaURlckQ2RHJZVzlrUWdqWTJseTE4YUhjWXdKc0NwRGtQV0RCQlVtSUNfZHV4dUlzVk53TE1JUkFqOGhlMXVfWWNpNlNhanRSaWYxWU1VeUYweG5Rb3dYQnVaYTIyaWZJMVE?oc=5>
+
+### Trump与Obama对AI看法相左……“放缓开发论”扩散，半导体股承压- 阿视亚经济
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 아시아경제
+- 时间: 2026-09-14 01:51
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE92bVhQU2Fjakw4WlNUZC1OM21oS3g4dUcwN3RuSGEyUm9oQzlCYllDVmY5bG9Ya3ZTelgxSUpOeVFRTmtqb2E3U1k0MzRqVnJsTF81NjZwWlZ1eWdEU1hhdWh3ank?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-14 05:38  (18 条)
+
+- **周杰伦** | 周杰伦自导自演新歌MV被赞浓缩版动作电影，暗黑风格回归 <https://k.sina.com.cn/article_7857263936_1d454554006801rsvg.html>
+- **周杰伦** | 周杰伦自导自演新歌西西里MV回归暗黑叙事风格被赞浓缩版动作电影 <https://k.sina.com.cn/article_7857263936_1d454554006801rr8w.html>
+- **特朗普** | 无视英国反对 特朗普再挺“爱尔兰统一” <https://news.google.com/rss/articles/CBMieEFVX3lxTE50Zl9BNWdWTXRia3p0S1dvdXc4UEI3enUtb3NzNXZDNnAwNDNWeUVzS25nWkRMSG1xQzlOTnRRZTRZUzlWQm9vTDRnTnZVU0J0Zzh6NmVNc3ZoWHpqVjdWVDNrd21XTDlkRWJJTnJMMzl1bjJMTVlJeQ?oc=5>
+- **特朗普** | 特朗普再挺“爱尔兰统一” 引发英国政界反对 <https://news.google.com/rss/articles/CBMieEFVX3lxTFA5V0h6V2t0eWtNVm5IR3V5Tzd0X0l0UktwX3cyZ05oOTN6Um13YXotRW9DOWtJUzBobHZnYW5TT0NVVGxmczFmU0p2QWM2TmdXNWctTkpDd2I2N2JmT0FFdkwzZ2YtRTk4YmVJRG9wbXpfVzhxcjdSZA?oc=5>
+- **特朗普** | 打破美总统一贯立场！特朗普挺爱尔兰统一刺激英国，英首相重申立场 <https://news.google.com/rss/articles/CBMieEFVX3lxTE5zZ1JBTGE1NV9OU1J2YXE1VEJNMnJUOGVKa0tXcU1GOElzRTI1ZTBkbVhDeHluVU80RFhJX2hWYWRQT18yc1NVUnI1WW85T3kyLVZHOU04SzVVMjVUbklWVVEwcmY4YVJEdEhzTkhWbTh0VzVwMWRDdQ?oc=5>
+- **特朗普** | 特朗普称将考虑公布更多“9·11”关联文件 <https://news.google.com/rss/articles/CBMif0FVX3lxTFBnNEYwRVFhVDRoaHh3TC1sMVJNaDZhUUZPb1AtXzBIaHg0a1hHT3RidzNQNE8tbTNHUWhaWkY2SlJCZ1RnMGtXRTdjeU9HdzFCOXV1dEJGSEhjTG5iMzZqS0JOQVVkRXEtbWZBeGhoa3RDMTZ6d3Z6d091cXZ0a0k?oc=5>
+- **特朗普** | 特朗普回应人工智能监管，称负面力量夸大问题 <https://news.google.com/rss/articles/CBMigAFBVV95cUxQcExWMmw3cFdGNDZHN05CeWhURHR5empuX1pGMVFabm5RTlZPT2kxUnZObWlJc2FPclNzMGJDUFRNWlVNYVlmQjNWNFNoSmFvQkNYSU51TUNRd29VQl90RnFuU1RuUFZPa1lfc3NjYXdfc3ZEWWtLaVNsdnQ3UjRCWA?oc=5>
+- **特朗普** | 特朗普喊话泽连斯基停止袭击俄炼油设施，“袭击会伤害整个世界” <https://news.google.com/rss/articles/CBMicEFVX3lxTE5nSlN2WnI0Z3Z2STJ0Q3U4MFVudzJrb2NsUDdnX1I0R2VZWW93V09DY1JaV2NRSjlsQjM3SUhOc2ZYU3RfU2ttTkhxakc1S09SdXJISGZrX2pSdV9nWVpidVdwdm0zRGdPMzFfTUFWNmQ?oc=5>
+- **特朗普** | 特朗普要求泽连斯基停止袭击俄柴油厂和炼油厂 <https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdlZmRmNEc1d4NDRKaTBxTlllckJMUGZTdzBlX284SE9MUG1ucG5xVGhUdnhaY00xbWticm81V1N4ZThiLUJkb1Y0dktIdThGUzl6MXhxYVdTcVh1MzBENFgwWkx1QnV2ZEpDZllJV3BLUlNBWW14bnNtS2NId25kRXpoRFJDMk83eTJuSTVKY1FEZWNTMWo3ekR2Z2l4amlwdzE1WVVIeHFHOFFKUVg1cE1pUXk5MWZGMmRxMWc0czM4LVFYNENYZGxBeVFsSW5WWlhrUXVvRk13WWs?oc=5>
+- **特朗普** | 特朗普重申伊朗战事将在中期选举后结束 <https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMmwwZ01RYkpCUHlnLUw4eTRVWmpadFJYUzlkTGVtc1BXUTdlM0ZwdG5ET3IzeHJtM2pXZUZuczhLTUwzZXNHaXJySFN3NXZJR0lrX2ZUUTB6N1JmRUxNLVNOUkpqYmhUbmFGMjFyTUhFZ0VTV0RhSzBPazdiRXBTcmktcWotN2NLbDZwZUliY1dtZzVUcl9Pc3Z2V3RhUE1ySE1xTzlpa3NyN2xNMG10OHQyUHc5S0FKRERrOUFLOU1LTWNDc0lEem1rQl8wTFNkRXpqNHV6YlVLbWZHQ2QwNnB3?oc=5>
+- **特朗普** | 特朗普再谈美伊战事：或于美国中期选举后结束，能否兑现？ <https://news.google.com/rss/articles/CBMizwFBVV95cUxOeXhJQ3poT2hMYlk1MFFLZ0NtWDNnQlhwNF9aZVBfbjcxMlozdkY0MEw5ZmpfN3hnV2NMLWlZQ1hvUHo0eFVobDRfNXREbHpKQk9sQ3l1NFVSWjRXQmlPSjRFX1NTUUIxd2JmRmpHdDFkRDhxTHY4MGlobktKTy0wdjdaWC1XVzlGRGFpbU1GRnE1ZU1vVmtwUXFDWWw3RzNwZHp2YmtnNF94QzZwQTNRSTVzZDl3ZTlqNzBSUDk1UmNvdGVPclZpbTFpU09CbDg?oc=5>
+- **特朗普** | 特朗普盯上伊朗石油：就像在委内瑞拉那样 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9xcXRCU19PSWsxWnhFYUwzLU9fS0J6S19HZ1FrWkx1dnZxUHZsQ0pGeFBfNDczSnNYZ0o4ZU43QzNpRlkzcG14cnhGd1Q?oc=5>
+- **Trump** | 特朗普大厦最新选址：一个正向俄罗斯靠拢的前苏联加盟国 <https://news.google.com/rss/articles/CBMitwFBVV95cUxNeUhjUlp1VUg1bEVfYnBQYkktMjVTRjBTSl9qU21UZXk5X042dVlMNEhrdGpad3R1dEpUdVRsVHFqSVhUb2xOYnNJVnFGenJQenVCeDhQT0d0NnNfcG5IYlE4dmhOTFBNUW9PeGNvM09uRTVNWGhVWDdpbFgzWHJOc2pQNjlJZnlCRVVjOWtlLWhvQjJ1Q1Y2WEoxb3Nqc19NT2p6ZmpMMGdzZ2tpRzNOUk50Umx6d1E?oc=5>
+- **Trump** | Anthropic与“特朗普关联公司”Rum Group签署137亿美元算力协议 <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPUDVhYk00dFRmVUpsNzJ3WDhaQ2dINmt1aTNsTnV3aFNYQlRlQ3YtaVJXNS1wcU5VOFg4NHdybWhGakR2ZVo2TF9LYlhST1NJUG9F?oc=5>
+- **Trump** | Trump促成“金砖国家”团结：“实力即正义的逻辑行不通” <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBlOHdSamJva0xNYXFDOERud0dhYlVacU5oQWFMeEFqRTJwSTJYUzZQTTJOYlcwY3ZubFg4YnBja0x1VEdiUldXcUhUcWxxTS1IWUVWLXNaeWZCN0FDcmdQckVPU3Y?oc=5>
+- **Trump** | 特朗普喊话泽连斯基：“必须停止”袭击俄柴油燃料设施 <https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdFlxRmhmRUtBTUNxX2hYSVMyNUNKXzVjSEZ2cUw0ZEVrWk5mUV9idDVLTUR6c1ZJbzRXSWl2cl9Eek5UTHpfRGEzNEhCTkRmNFFJLXNzTDNkLVk0REItd19pOURhNy1sMkJYRWdwVUZ0UFRwbnFYTl9sY2RZNVBSbEN5bG02czdi?oc=5>
+- **Trump** | 特朗普赴爱尔兰观看高尔夫比赛，“统一”言论引发争议 <https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSWNzU1ZwbVB2LUxxRkV3SVpCV3JMSGpDRUtTU0Fickl0OTJTbzVWbGRZWFY2UFBuQU9CcVA0aERfQ09WUTFPaURlckQ2RHJZVzlrUWdqWTJseTE4YUhjWXdKc0NwRGtQV0RCQlVtSUNfZHV4dUlzVk53TE1JUkFqOGhlMXVfWWNpNlNhanRSaWYxWU1VeUYweG5Rb3dYQnVaYTIyaWZJMVE?oc=5>
+- **Trump** | Trump与Obama对AI看法相左……“放缓开发论”扩散，半导体股承压- 阿视亚经济 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE92bVhQU2Fjakw4WlNUZC1OM21oS3g4dUcwN3RuSGEyUm9oQzlCYllDVmY5bG9Ya3ZTelgxSUpOeVFRTmtqb2E3U1k0MzRqVnJsTF81NjZwWlZ1eWdEU1hhdWh3ank?oc=5>
 
 ### 2026-09-14 00:35  (9 条)
 
