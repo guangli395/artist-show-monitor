@@ -1,88 +1,136 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-14 20:59**
-- 本轮扫到 11728 条, 新增 **9** 条
+- 最近更新: **2026-09-14 23:47**
+- 本轮扫到 11741 条, 新增 **13** 条
 
 ---
 
-## 本轮新发现 (9 条)
+## 本轮新发现 (13 条)
 
-### 特朗普在共和党全国代表大会期间与OpenAI首席执行官山姆・奥特曼会面。
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: cj.sina.cn
-- 时间: 2026-09-14 19:15
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9QdTFSVTU3c090UzFaR2hsMno2UEt5VUZ6Vm5tZXJ1eGw3ZHdUX2xJOTV5NXVwV2JuSG5GOFEwLVdPYVFPaFZ0SDRBVQ?oc=5>
-
-### 特朗普总统说，俄乌同意停止袭击能源目标
+### 特朗普抨击Anthropic CEO：AI发展不能踩刹车，美国有“高智商总统”就足够
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-09-14 18:23
-- 链接: <https://news.google.com/rss/articles/CBMivgFBVV95cUxNMUtXeS1CT05YMldWQlFjNjFVSm1sVms2Q3ZrUlBFVXVURml1elJobGFDZTBfMUI2RUFaSnVOY2UybzJmZ3dkdUYxOXdidUxSLUJLVkUtSnFHdDdTeWdLbmFfa0J1eHZzT0pQam9HcUkyRzNHWXIxSEhtM2h4eEdWcWx1dkFJTG1VVEFBRU8xNDdTQlM4V21VY1RNaGJTa3ZzWFdlT2kxTnVPZS1FVURtWHVvOHRGdUd2XzBTaGF30gHAAUFVX3lxTFBuOUtHbm9xQ0pKZjNGSk03N0xhUTZnOUJQU2QyQVRUYktJN0t2aUl0UWtWdkRIVjRVMDdHVmdqMnBOYkdKTy1LZ1Q4b1E4dUlPUVRXUENTUVdIRmtfemRRWU9aQ2V0MWZ1Q1kyc2hDVm9WdHNwV1d4QmhsZ3lFVVBTaG5PMm5OMFp3ZGk5M2FMdklkd1ZGTmU1VzhiYzZ1OUVMVXNmNG54WTIxaE13a0Zsay1YOW5zSGJNOS1RMHRaYg?oc=5>
+- 场馆: 华尔街见闻
+- 时间: 2026-09-14 16:00
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1cTZCY1V5QlhoWWRoVjBMWTJ4NEZneEoxZVVfMThkMWZ5bVZ1RkM2cVFROVFtTExsYUVCN2N3b0paQ09KNDJPYjMtVDVEWjFYUHJj?oc=5>
+
+### 事关中企，特朗普“口头接受”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: finance.sina.com.cn
+- 时间: 2026-09-13 23:08
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE45N0wxbk9RaWhBWTc4QmJyUjNIWjhFRU5HeGp0Q3V3SHVzSU1IVk40b0poV0pxQy10QjRjZjhsOF9HeEVfd0Rsc2hIRXI0SngxMURuTEZ6clhHNVRVWlluUkJlRTlKS2hYc013YWFUUk16TDZGaFQ1bg?oc=5>
+
+### 特朗普称俄乌同意不攻击能源目标，俄方尚未回应
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-09-14 23:29
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9Lb1V2SkVMaGI3ZjNMaUpVS1JzWTdaMkdXTnhLLWxhY2VKVjFJbVB3aVdWTU5ncENHUnVxeUlIYmNFMkZyaDQwSC14dw?oc=5>
+
+### 特朗普宣称俄乌同意停止攻击能源设施 基辅方面说此事言之过早
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-14 19:03
+- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcDF3NGhUUHNxLUtTeFB0aFd6OWJFXzB2ZmYtZG5iaDZxRFJxWlhYVXAwNkVXOUFzTXp1a0czQnFSMl8waEhjMkFBc0NtWlFaOEtmZDVmekNxQjFHM081bmVEamY0dk1WR1JLalRSemtqYmtxdi1iU3RzUWVPSU04TGFxYzJibVFzbHFOVEtVZ3pMdWZlWEhXdFJydkVRWXhucVVmc0lreUVzZw?oc=5>
+
+### 各执一词 特朗普释放谈判信号 伊朗称满足条件前绝不谈
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: China Daily
+- 时间: 2026-09-14 23:26
+- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxQY0NxNThKZjNRRnJBbF9VbzVVYmZ4Sm5KamR3QlhhTDdwcGc0eHJFQ2JwMXlVX1l2NEc5cWhaSWZkei1WNDNJbXBwaVRTR2pYN2tTMl9XSktQaTRkME5KUkRZeDBjbnhyNTNQcDZMd1VUZExBYzhFN1NCMVVwa196bQ?oc=5>
+
+### 特朗普：等这场“骗局式冲突”结束后，世界各国应该、也必须向美国作出补偿
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-14 23:33
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5LVk5yYTJ4MFBtbW1OajNHQTQwdW9mY3d3ak1BbHFUYWs0OXJGREtGaFU2aWRFeVBVVG5NczNEX1h6Um54eWwzWXN6cnFMVmtOMUVGcDUzVEV0bmkwV2Z0c2pnMjI4Tl9ZdEUzWGxtTHJCWVoyNTNhbw?oc=5>
+
+### 市场消息：特朗普支持率从其总统任期最低点回升至
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-14 20:34
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5HYkJndWY2TE9XWm5NeE9aZ20tdnRBbEw2WWxmREUxQmJSUXZpcVl1dGFZNkNyNVI2bjh6TF81NEZ3MWg5RkowQk1URQ?oc=5>
 
 ### 特朗普总统：伊朗希望达成协议；美方对这一构想持开放态度
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: 美国之音
 - 时间: 2026-09-14 20:06
-- 链接: <https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUmxrMjJyelJLWjZhUExfZVVWQzRkSHBNZlVlOW1pM3hUUVE2a252RjIzOFBickpHbnVsNDBzeXZGZUgtS2JWYjFsZVkwRThjYVBxVVpieUV5ZHIyQkNJeFRSYTYxSWRFR25GMXNoWnlxaXFVVGR3VlpGOHkyMXQ2VGhFYVRPUFVlWDV3YjNOdldtTzlZQlI2NHZObDVMZmFiZWhLSGpwZ3FnODDSAa4BQVVfeXFMTmMyTk5CMmNUNlk5T0dSZlBEZWNuS2hVc3o3TFRLVHNjN1ZzQVdoaXpxajFtcVkyU1FuaUVETEdvWkVfdE5kTTA0M2Ixbm5vSktJSUlLZEhKTXRvNkNlUTFiT3RzenNtTURjV2VJRUcxVHVydEEzazVFWWtvOGEwcHczY2liejMxT0tUVllnanVEdmlpWjJKTEw4R2ZUSTUySGYxcHc0YndQbnJvRGJ3?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMirgFBVV95cUxOYzJOTkIyY1Q2WTlPR1JmUERlY25LaFVzejdMVEtUc2M3VnNBV2hpenFqMW1xWTJTUW5pRURMR29aRV90TmRNMDQzYjFubm9KS0lJSUtkSEpNdG82Q2VRMWJPdHN6c21NRGNXZUlFRzFUdXJ0QTNrNUVZa284YTBwdzNjaWJ6MzFPS1RWWWdqdUR2aWlaMkpMTDhHZlRJNTJIZjFwdzRid1Bucm9EYnfSAa4BQVVfeXFMTmMyTk5CMmNUNlk5T0dSZlBEZWNuS2hVc3o3TFRLVHNjN1ZzQVdoaXpxajFtcVkyU1FuaUVETEdvWkVfdE5kTTA0M2Ixbm5vSktJSUlLZEhKTXRvNkNlUTFiT3RzenNtTURjV2VJRUcxVHVydEEzazVFWWtvOGEwcHczY2liejMxT0tUVllnanVEdmlpWjJKTEw4R2ZUSTUySGYxcHc0YndQbnJvRGJ3?oc=5>
 
-### 特朗普称愿与伊朗谈判 提出美方要收“护航补偿”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: cj.sina.cn
-- 时间: 2026-09-14 20:51
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFAxVklaWjM3NVdSOWs4bDNuSUttcWNjLTN5QmpOQ0hJMHFkVGZhOUxaNDMyeUppQU5BM2lPdVBPdG5YdWR4ZklSYW9Law?oc=5>
-
-### 特朗普：白宫翻新前就是个“垃圾场”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-09-14 14:49
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFBmeWtEZEFVNDZQMzNPSWFmY3JfTXlKcG9mZXlWelAxZV9pNkVPSHRkOWc0TFBZdWhqVUs2Nk9Mb1pQc3NNeC1GSnNpT2NDRFRQV3RKUk93Z3Q2TzBPNlhkNkY1N1VXcVg2OEtldHZ2UUp2VDg?oc=5>
-
-### 福特等怕不怕！特朗普公开喊话：欢迎中国车企来美国建厂、卖车
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 驱动之家
-- 时间: 2026-09-14 01:30
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE5aZVFjS3h0Xzh0TkM5Z2dVX01TRnpxcnhpTUpOdnc1TW9CdDFkSGpLZ2lzdGliSFNjVkkzNHRYN0F5bmNfSFpnT3lDa18xdXV0UU82SS1oVDg?oc=5>
-
-### 特朗普表示他对Google在芬兰建厂的计划“不满意”
+### 特朗普称俄乌同意停止互袭能源设施 泽连斯基称俄方若响应愿推动局势缓和
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-09-14 17:59
-- 链接: <https://news.google.com/rss/articles/CBMimgFBVV95cUxPNlpWYkRvTExDOHVSYlBQUnRJYTZpZzhpak93cGF0ZUxpV3dMbmUzY2RodkNhLVdmYmphOC1Hd2ZLdmtfNG9rN2xJei1iQkhud1UtaTRzT1BLdTVRbnc1ZVhhb1AzVVRoNTlPT1llSHNTMzNYM2FreXVQRDlkUU9lSkJ4Z08xRzhHbG91Z2U1WXhobXZrT2piVXN3?oc=5>
+- 场馆: RFI
+- 时间: 2026-09-14 21:17
+- 链接: <https://news.google.com/rss/articles/CBMi7ANBVV95cUxOd0E5Ym5HS21MNFhXNExQekVhVkFQQm1hZHR3TGJqSU9tV2prSXRQaW5FLXJGcTdKWWQyaU00aHI5U3ZwaTFpdFk1VWp1OVA4S3dPc0REQnozX3hyZ3J4RmZOZEx6NDhnQXFEYWlRNVRORlRqS3FPclROZXZXbHM5UUktLUtyRVdJRmVKa25vczNJOU50REJ0YlZiNDJVQjRrLTY3SWIySWUzejJleWptYXJCRWpXMWdmNk9DWHpyYTRXODFXMFUwTldjOGdIZE1SYWp4VWVVR3Jpc3doWHBlUHgyZFRwWVNJNEFCSnRRSG5xYlAtRXZKWU8weThIeDZfc0NhdVhaSHZwMExxREt6SDNUQkNOVThpQ1N0bEd6N2RJTldlQWp4dWZScm5CZVM2OVJiVWd0dHBXLUFCWkFDTlQ4LXlXVDdMTjBWUjQwSk95cy1OSm45aTJZY1A5eXVkWk1SX0Z3VjZ0SXZObUlxVm1ubHdWUDJ0QzFDM0xRUnVDd1JXcFlMS240WnZPMjhUTERFd210Ni1BdVpUWmd0cUNjanJIandoZk83eVJSQnpiSDRuZWtzcWtRdU5IUTNNWWFzRW1MbDJKSGdXaEpJVi1EVk9Sd3k1ZzZZbjdQS2lDdDU0TGVESVo2WUQ?oc=5>
 
-### 美国国际宗教自由委员会呼吁特朗普总统在与习近平会晤期间提出“宗教或信仰自由”囚犯问题
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 对华援助新闻网
-- 时间: 2026-09-14 19:29
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rSzUtYlJmcng2Z0hyNDMxQXdHa1Joc3JzY1E1b2ktN05fTWVObXhOakJaNTBvcXE3ZVl4THZzOEFHazB6aHV6RFlwcFB3dUVRakxraFprcjZhN1lwdjMzSA?oc=5>
-
-### 美联储的沃什与特朗普在加息迫近之际走向对立
+### 与普京关系密切的俄罗斯商人资助小特朗普的婚后庆祝活动
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-09-14 13:48
-- 链接: <https://news.google.com/rss/articles/CBMinwFBVV95cUxNZFE1Rk45bU1RTnV4ZHQ4eVBDZHhQREJjOWVFRndMS1FNXzl6TTh0WTJVTXdXYlNvMEdMbjFNVk1zdWJ6QTFwM0FiV3dOLWdkd0xocVJGdHRDaEVzWXVjbGNtVUNhM1lvWU1Oam5neFFRMXZBeGhFcW1KNUluNTdnamhZaFNsVERUV2UyVVpPMHVyTjN3SmxoajRKVXZUeXc?oc=5>
+- 场馆: 华尔街日报中文网
+- 时间: 2026-09-14 23:29
+- 链接: <https://news.google.com/rss/articles/CBMipwFBVV95cUxNS2E3WkJhdFlFU0x4VW41UnhublNGT2FCTTcwMllGYkRTWEtxbl9NOWxxdHcyeUw5TkJmVWJYemRybW90RjlMZG1IWVVSd2FkU1pxR0tXRWJHTkQxekVjVWx3OFlPakVJNHNqcVl6Qk83WUQ1RU9BM0ppU0dSVU5rNXJqUVJXSFZHeEpUbm1GZmJqMzBScWtmVmJEYWJObUdSb1RFX3hjdw?oc=5>
+
+### Trump：“俄乌同意停止攻击能源设施”
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 아시아경제
+- 时间: 2026-09-14 19:13
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FRUREQnhfNzBBZHdLX0F1U3h6V21uY0V1cV8zWTZTU1NGYURqNUdobHFzOVRaaTJSRXk3WkNySUMtbGZueVB1cFhoTlZQczZha2hCNTZHSlVqTmpCWXdmVHE1NF8?oc=5>
+
+### 特朗普称俄乌同意不袭击对方能源目标
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 8world
+- 时间: 2026-09-14 23:00
+- 链接: <https://news.google.com/rss/articles/CBMimgFBVV95cUxNZldFcG5nbExIbHpUclBRTUtmMXhlc3RYYXF3b0ZhTy1TSHh6RzFjeDJ6TzZuTDhKYm05UGt0V25jSWhGNE9CSFYyazR5cW9Va1VYMmdadUR1OFQ2VkI1VVZNbkR0X2VfeHVUYzBhQmdQSzZfcHo5V1lNOEE0LVN5YldKNjFMd1RyRTBmZ3pqdU94NkpBM0llMER3?oc=5>
+
+### 特朗普称AI不需要更多护栏，斥责安全担忧为骗局
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-09-14 23:20
+- 链接: <https://news.google.com/rss/articles/CBMipwFBVV95cUxPRjhvVzBkdHEyT203bUhkdno2d0RPZDZ2NmNUVXdlQWRwZFRXdzQyWkJpNnNFT3NNN2VDRm5oaHJabUpfSjlweEUxZTNTT1FObEFXNTFPcXdQTnF1VEhILUxhWFJKTDZ3X1lrdGg0WlhyUUVZRnhIcjIxbVVZeUsxWU9rbkN6clAxREk4VHY3TXNPXzZMb2xfNkhnZndvUGNFS3ZCWEEtQQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-14 23:47  (13 条)
+
+- **特朗普** | 特朗普抨击Anthropic CEO：AI发展不能踩刹车，美国有“高智商总统”就足够 <https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1cTZCY1V5QlhoWWRoVjBMWTJ4NEZneEoxZVVfMThkMWZ5bVZ1RkM2cVFROVFtTExsYUVCN2N3b0paQ09KNDJPYjMtVDVEWjFYUHJj?oc=5>
+- **特朗普** | 事关中企，特朗普“口头接受” <https://news.google.com/rss/articles/CBMieEFVX3lxTE45N0wxbk9RaWhBWTc4QmJyUjNIWjhFRU5HeGp0Q3V3SHVzSU1IVk40b0poV0pxQy10QjRjZjhsOF9HeEVfd0Rsc2hIRXI0SngxMURuTEZ6clhHNVRVWlluUkJlRTlKS2hYc013YWFUUk16TDZGaFQ1bg?oc=5>
+- **特朗普** | 特朗普称俄乌同意不攻击能源目标，俄方尚未回应 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9Lb1V2SkVMaGI3ZjNMaUpVS1JzWTdaMkdXTnhLLWxhY2VKVjFJbVB3aVdWTU5ncENHUnVxeUlIYmNFMkZyaDQwSC14dw?oc=5>
+- **特朗普** | 特朗普宣称俄乌同意停止攻击能源设施 基辅方面说此事言之过早 <https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcDF3NGhUUHNxLUtTeFB0aFd6OWJFXzB2ZmYtZG5iaDZxRFJxWlhYVXAwNkVXOUFzTXp1a0czQnFSMl8waEhjMkFBc0NtWlFaOEtmZDVmekNxQjFHM081bmVEamY0dk1WR1JLalRSemtqYmtxdi1iU3RzUWVPSU04TGFxYzJibVFzbHFOVEtVZ3pMdWZlWEhXdFJydkVRWXhucVVmc0lreUVzZw?oc=5>
+- **特朗普** | 各执一词 特朗普释放谈判信号 伊朗称满足条件前绝不谈 <https://news.google.com/rss/articles/CBMigAFBVV95cUxQY0NxNThKZjNRRnJBbF9VbzVVYmZ4Sm5KamR3QlhhTDdwcGc0eHJFQ2JwMXlVX1l2NEc5cWhaSWZkei1WNDNJbXBwaVRTR2pYN2tTMl9XSktQaTRkME5KUkRZeDBjbnhyNTNQcDZMd1VUZExBYzhFN1NCMVVwa196bQ?oc=5>
+- **特朗普** | 特朗普：等这场“骗局式冲突”结束后，世界各国应该、也必须向美国作出补偿 <https://news.google.com/rss/articles/CBMieEFVX3lxTE5LVk5yYTJ4MFBtbW1OajNHQTQwdW9mY3d3ak1BbHFUYWs0OXJGREtGaFU2aWRFeVBVVG5NczNEX1h6Um54eWwzWXN6cnFMVmtOMUVGcDUzVEV0bmkwV2Z0c2pnMjI4Tl9ZdEUzWGxtTHJCWVoyNTNhbw?oc=5>
+- **特朗普** | 市场消息：特朗普支持率从其总统任期最低点回升至 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5HYkJndWY2TE9XWm5NeE9aZ20tdnRBbEw2WWxmREUxQmJSUXZpcVl1dGFZNkNyNVI2bjh6TF81NEZ3MWg5RkowQk1URQ?oc=5>
+- **Trump** | 特朗普总统：伊朗希望达成协议；美方对这一构想持开放态度 <https://news.google.com/rss/articles/CBMirgFBVV95cUxOYzJOTkIyY1Q2WTlPR1JmUERlY25LaFVzejdMVEtUc2M3VnNBV2hpenFqMW1xWTJTUW5pRURMR29aRV90TmRNMDQzYjFubm9KS0lJSUtkSEpNdG82Q2VRMWJPdHN6c21NRGNXZUlFRzFUdXJ0QTNrNUVZa284YTBwdzNjaWJ6MzFPS1RWWWdqdUR2aWlaMkpMTDhHZlRJNTJIZjFwdzRid1Bucm9EYnfSAa4BQVVfeXFMTmMyTk5CMmNUNlk5T0dSZlBEZWNuS2hVc3o3TFRLVHNjN1ZzQVdoaXpxajFtcVkyU1FuaUVETEdvWkVfdE5kTTA0M2Ixbm5vSktJSUlLZEhKTXRvNkNlUTFiT3RzenNtTURjV2VJRUcxVHVydEEzazVFWWtvOGEwcHczY2liejMxT0tUVllnanVEdmlpWjJKTEw4R2ZUSTUySGYxcHc0YndQbnJvRGJ3?oc=5>
+- **Trump** | 特朗普称俄乌同意停止互袭能源设施 泽连斯基称俄方若响应愿推动局势缓和 <https://news.google.com/rss/articles/CBMi7ANBVV95cUxOd0E5Ym5HS21MNFhXNExQekVhVkFQQm1hZHR3TGJqSU9tV2prSXRQaW5FLXJGcTdKWWQyaU00aHI5U3ZwaTFpdFk1VWp1OVA4S3dPc0REQnozX3hyZ3J4RmZOZEx6NDhnQXFEYWlRNVRORlRqS3FPclROZXZXbHM5UUktLUtyRVdJRmVKa25vczNJOU50REJ0YlZiNDJVQjRrLTY3SWIySWUzejJleWptYXJCRWpXMWdmNk9DWHpyYTRXODFXMFUwTldjOGdIZE1SYWp4VWVVR3Jpc3doWHBlUHgyZFRwWVNJNEFCSnRRSG5xYlAtRXZKWU8weThIeDZfc0NhdVhaSHZwMExxREt6SDNUQkNOVThpQ1N0bEd6N2RJTldlQWp4dWZScm5CZVM2OVJiVWd0dHBXLUFCWkFDTlQ4LXlXVDdMTjBWUjQwSk95cy1OSm45aTJZY1A5eXVkWk1SX0Z3VjZ0SXZObUlxVm1ubHdWUDJ0QzFDM0xRUnVDd1JXcFlMS240WnZPMjhUTERFd210Ni1BdVpUWmd0cUNjanJIandoZk83eVJSQnpiSDRuZWtzcWtRdU5IUTNNWWFzRW1MbDJKSGdXaEpJVi1EVk9Sd3k1ZzZZbjdQS2lDdDU0TGVESVo2WUQ?oc=5>
+- **Trump** | 与普京关系密切的俄罗斯商人资助小特朗普的婚后庆祝活动 <https://news.google.com/rss/articles/CBMipwFBVV95cUxNS2E3WkJhdFlFU0x4VW41UnhublNGT2FCTTcwMllGYkRTWEtxbl9NOWxxdHcyeUw5TkJmVWJYemRybW90RjlMZG1IWVVSd2FkU1pxR0tXRWJHTkQxekVjVWx3OFlPakVJNHNqcVl6Qk83WUQ1RU9BM0ppU0dSVU5rNXJqUVJXSFZHeEpUbm1GZmJqMzBScWtmVmJEYWJObUdSb1RFX3hjdw?oc=5>
+- **Trump** | Trump：“俄乌同意停止攻击能源设施” <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FRUREQnhfNzBBZHdLX0F1U3h6V21uY0V1cV8zWTZTU1NGYURqNUdobHFzOVRaaTJSRXk3WkNySUMtbGZueVB1cFhoTlZQczZha2hCNTZHSlVqTmpCWXdmVHE1NF8?oc=5>
+- **Trump** | 特朗普称俄乌同意不袭击对方能源目标 <https://news.google.com/rss/articles/CBMimgFBVV95cUxNZldFcG5nbExIbHpUclBRTUtmMXhlc3RYYXF3b0ZhTy1TSHh6RzFjeDJ6TzZuTDhKYm05UGt0V25jSWhGNE9CSFYyazR5cW9Va1VYMmdadUR1OFQ2VkI1VVZNbkR0X2VfeHVUYzBhQmdQSzZfcHo5V1lNOEE0LVN5YldKNjFMd1RyRTBmZ3pqdU94NkpBM0llMER3?oc=5>
+- **Trump** | 特朗普称AI不需要更多护栏，斥责安全担忧为骗局 <https://news.google.com/rss/articles/CBMipwFBVV95cUxPRjhvVzBkdHEyT203bUhkdno2d0RPZDZ2NmNUVXdlQWRwZFRXdzQyWkJpNnNFT3NNN2VDRm5oaHJabUpfSjlweEUxZTNTT1FObEFXNTFPcXdQTnF1VEhILUxhWFJKTDZ3X1lrdGg0WlhyUUVZRnhIcjIxbVVZeUsxWU9rbkN6clAxREk4VHY3TXNPXzZMb2xfNkhnZndvUGNFS3ZCWEEtQQ?oc=5>
 
 ### 2026-09-14 20:59  (9 条)
 
