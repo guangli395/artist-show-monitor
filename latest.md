@@ -1,154 +1,100 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-14 17:01**
-- 本轮扫到 11719 条, 新增 **18** 条
+- 最近更新: **2026-09-14 20:59**
+- 本轮扫到 11728 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (18 条)
+## 本轮新发现 (9 条)
 
-### 王一博出道12周年，工作室发布海报祝福
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2342610415_8ba165ef04001quwe.html>
-
-### 周杰伦：庆祝《西西里》MV播出 来购物
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1850268574_m6e48db9e033028h0s.html>
-
-### 看了周杰伦新MV才发现他是个摄影迷，竟把X500 Pro Max带进了MV
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7811062841_m1d1935c39033028eb6.html>
-
-### 记者问AI要不要“踩刹车”，特朗普先想到中国
+### 特朗普在共和党全国代表大会期间与OpenAI首席执行官山姆・奥特曼会面。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-09-14 00:54
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE50Ty1adHFrT0JpelNKX1padjhiWFdKVVdxLVFoZVVQcXJSaXR3RVdFMEpUc3ZFenJXSnQtWEZWRDZlLVg5aVBSUm91d3ZYdWJsbzdGb2YxSXdEVDI3UkFMX0FFZXlpQlFXNzNRcHRMT00?oc=5>
+- 场馆: cj.sina.cn
+- 时间: 2026-09-14 19:15
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9QdTFSVTU3c090UzFaR2hsMno2UEt5VUZ6Vm5tZXJ1eGw3ZHdUX2xJOTV5NXVwV2JuSG5GOFEwLVdPYVFPaFZ0SDRBVQ?oc=5>
 
-### 特朗普称俄乌同意互不攻击能源目标
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-14 16:12
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1uaGRxbzBLRUxZUkhNRnUxWTAzejdTcHJVM0VzdUlTNGYyQUljbWNueEY2OGppcGhpUzJZQjFsM3BrUEYtakhfQ2lsMi1UanFCb2tBdmpSSTdDOVA2REtPUXo0N2xRNThaNjJPRE8wQWtSeEhjNkxLbg?oc=5>
-
-### 特朗普：俄乌同意，不攻击对方能源目标！泽连斯基即将赶往美国
+### 特朗普总统说，俄乌同意停止袭击能源目标
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-09-14 16:24
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1LSWNjZzNiY0diT2JVeGtlM1czOThsVjl4cU10aDBsSVRJLWh0dTVuRklJeld0MHlYN000dXBHY29BMmp1RTBVTVRfdGJWd0Nlb3psMFZjelNrY01xWUNwNV9OYm9PT2tabkh4eHM3YW8?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-09-14 18:23
+- 链接: <https://news.google.com/rss/articles/CBMivgFBVV95cUxNMUtXeS1CT05YMldWQlFjNjFVSm1sVms2Q3ZrUlBFVXVURml1elJobGFDZTBfMUI2RUFaSnVOY2UybzJmZ3dkdUYxOXdidUxSLUJLVkUtSnFHdDdTeWdLbmFfa0J1eHZzT0pQam9HcUkyRzNHWXIxSEhtM2h4eEdWcWx1dkFJTG1VVEFBRU8xNDdTQlM4V21VY1RNaGJTa3ZzWFdlT2kxTnVPZS1FVURtWHVvOHRGdUd2XzBTaGF30gHAAUFVX3lxTFBuOUtHbm9xQ0pKZjNGSk03N0xhUTZnOUJQU2QyQVRUYktJN0t2aUl0UWtWdkRIVjRVMDdHVmdqMnBOYkdKTy1LZ1Q4b1E4dUlPUVRXUENTUVdIRmtfemRRWU9aQ2V0MWZ1Q1kyc2hDVm9WdHNwV1d4QmhsZ3lFVVBTaG5PMm5OMFp3ZGk5M2FMdklkd1ZGTmU1VzhiYzZ1OUVMVXNmNG54WTIxaE13a0Zsay1YOW5zSGJNOS1RMHRaYg?oc=5>
 
-### 特朗普：俄乌同意停止攻击能源目标，泽连斯基：愿讨论能源领域停火
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-09-14 16:35
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wMTFnN19QMFl1cXlUODRjTHRYTEdudks1X0llNi1nSXJLS1RtcDE4dHN1X3pfVHRzdGdWQkFzWGY3VXNzanlpc1d0djd4NE1LTy04?oc=5>
-
-### 特朗普称他将就否重启与伊朗和平谈判做出决定
+### 特朗普总统：伊朗希望达成协议；美方对这一构想持开放态度
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-14 16:01
-- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxQVjBpTGZKN1ZaTG9yczRtZE13YzZqaXJKVnp3RG9hT1hJei1fRnFfcndrV0wySkJuS0ozRzgtemdRZzZlTUFDcWNvaGtUdmhhZVQwX1Z6RU1HSkdhVm90a1M0dXFvUzRYcXlPMy1qaUZLTDhWSHhFVXhBRWtuWW12c2xBSm9RLWhzZl9xRHQ0aw?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-09-14 20:06
+- 链接: <https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUmxrMjJyelJLWjZhUExfZVVWQzRkSHBNZlVlOW1pM3hUUVE2a252RjIzOFBickpHbnVsNDBzeXZGZUgtS2JWYjFsZVkwRThjYVBxVVpieUV5ZHIyQkNJeFRSYTYxSWRFR25GMXNoWnlxaXFVVGR3VlpGOHkyMXQ2VGhFYVRPUFVlWDV3YjNOdldtTzlZQlI2NHZObDVMZmFiZWhLSGpwZ3FnODDSAa4BQVVfeXFMTmMyTk5CMmNUNlk5T0dSZlBEZWNuS2hVc3o3TFRLVHNjN1ZzQVdoaXpxajFtcVkyU1FuaUVETEdvWkVfdE5kTTA0M2Ixbm5vSktJSUlLZEhKTXRvNkNlUTFiT3RzenNtTURjV2VJRUcxVHVydEEzazVFWWtvOGEwcHczY2liejMxT0tUVllnanVEdmlpWjJKTEw4R2ZUSTUySGYxcHc0YndQbnJvRGJ3?oc=5>
 
-### 中国向伊朗提供卫星资料？特朗普淡化处理，北京矢口否认
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: dw.com
-- 时间: 2026-09-14 11:51
-- 链接: <https://news.google.com/rss/articles/CBMi6AJBVV95cUxNUXg2b1RzVkRZR0l5dUhGbHRCNFhVbTAyaTktMFEwSWdvMENGNzBhRFV3SVlFZmpubC1WeUxiMHhzWDhpekFfOXhQT3ZJck9sYlZCOFZBQlllSUtvTjgtUElTZ3JRQ2QzRVJVZmE1MTVSempkeWhOZmdiWVRPdU56Y1ByQ2xXeEVwZ0doY0hHc2N6M0JsZ0NBMGtxQllKQ0p1VDNNTDJMZC16cTdHWFhac3J5NVU3NnFhN0RaaG9jTUxYeVIwSmJSS3NkQ3AtaHVGT2VGTHR0bTY0bTNHbFlROEQ3M1ZOYUd3STBlVVM2UGpGZjJpcEpSeWloR08yZ3hQdWJrM25zZ0NWMnEzMDdXOXIzVkhYQVBKYmxrMXRCMGItdnJWMlZJUTZKWG50aW5famRpeEZTR3h2OE5VUXlTdThTZmNEMDRqdURXOW4wY0k3MFlmQkNBTUkwM09MNHJLS1NJZ0Jrc0Q?oc=5>
-
-### 一片“连续加息”声中，特朗普要求美联储降息：美国应拥有全球最低利率
+### 特朗普称愿与伊朗谈判 提出美方要收“护航补偿”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-09-14 00:27
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE1aYzVYb09jalBiVkFIc3c3RWViMjBOYjRmU3pyV1F4Wng1N1BUUGZQeUo0TGlDRnZ5UGNmRmtzZEIyQU5zMFdSeFlmNzVpWHhzLWdJ?oc=5>
+- 场馆: cj.sina.cn
+- 时间: 2026-09-14 20:51
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFAxVklaWjM3NVdSOWs4bDNuSUttcWNjLTN5QmpOQ0hJMHFkVGZhOUxaNDMyeUppQU5BM2lPdVBPdG5YdWR4ZklSYW9Law?oc=5>
 
-### 美联储9月加息概率逼近90%！特朗普再度施压：美国利率应全球最低
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-09-14 00:33
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBHeGppeDBsWldHZDhyWEt6LUxmRDZERVZYVzhlVkpXWWEtaXpKYVdQNGVld29mM25rV0dHb1dIa0VfSlVhNDlualhIQ0RyOTlhbzdyV1lfQW4tRUJsQ21leQ?oc=5>
-
-### “我比任何人都懂公式”，特朗普施压美联储：美国的利率理应全球最低
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-09-14 07:44
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBKVEN0Y3RRdEwwM2lBSEZfcFltVS1CRnVtUDVzUU5DUXo4V3pBNUlqalNGNzFsSS1ydkQzZWZFOHhWUEdRZXNNbWdCdWM?oc=5>
-
-### “每个人都在求我”，特朗普宣布将取消爱尔兰威士忌关税
+### 特朗普：白宫翻新前就是个“垃圾场”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 观察者网
-- 时间: 2026-09-14 05:51
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE9YSFBRN0VjOVl6SmwtV1hWZ3BMZk9kVUlOSEVnR1dybmZSVW9jQUREdjVNWE9kMExyeWVZX0Z1WWs1YmRJVTdBc2tpSU9HZTNtWlhwVkdCWTRRT21nSUYxU0NHbnlNdHVoM1NZUXNJX0hoY00?oc=5>
+- 时间: 2026-09-14 14:49
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFBmeWtEZEFVNDZQMzNPSWFmY3JfTXlKcG9mZXlWelAxZV9pNkVPSHRkOWc0TFBZdWhqVUs2Nk9Mb1pQc3NNeC1GSnNpT2NDRFRQV3RKUk93Z3Q2TzBPNlhkNkY1N1VXcVg2OEtldHZ2UUp2VDg?oc=5>
 
-### 特朗普“嘴炮”要成真？苏威北爱三地领导人聚首，商讨抱团“脱英”
+### 福特等怕不怕！特朗普公开喊话：欢迎中国车企来美国建厂、卖车
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-09-14 13:25
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLaWZ3QUhoQXhRUGhKVFlCakMtQW9hcVF5Wm5rY2paa1dsU3ZseURoME1rNmFjWURPZnFTVmhnQ3FnbVBEQm4zLWlfYmZpbVpmRWJwYWtnUzkzOHlRNUpIVQ?oc=5>
+- 场馆: 驱动之家
+- 时间: 2026-09-14 01:30
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE5aZVFjS3h0Xzh0TkM5Z2dVX01TRnpxcnhpTUpOdnc1TW9CdDFkSGpLZ2lzdGliSFNjVkkzNHRYN0F5bmNfSFpnT3lDa18xdXV0UU82SS1oVDg?oc=5>
 
-### 这是唐纳德·特朗普已同意的修订版《透明法案》伦理条款
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: CoinDesk
-- 时间: 2026-09-14 14:27
-- 链接: <https://news.google.com/rss/articles/CBMivgFBVV95cUxNMjVtelhZUmFyN2lydGtQNFFmUngtY0VMMUE3RllGV2xjZ3RvOEM3OGdwbzJjQ01GZnJ5amdrcURubHJmVWk3eXdLRmxnTXVlVmVzX0NmcmhYSktLMXNaekRSV0VXVFdOamY3eUZoWHlhT2ZEaUJSbTNoaGExeGVpMGxjcUhhNjBETUs3cnY5VmFDVmpsbHRvSmV4VnQ0R1J2aFk2Y0hLZHd0cmdCSnRUX2pYcXJjZWtraUFLNlV3?oc=5>
-
-### 特朗普同意接受更严格的道德准则以挽救《Clarity Act》加密法案：美联社
+### 特朗普表示他对Google在芬兰建厂的计划“不满意”
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: Moomoo
-- 时间: 2026-09-14 12:21
-- 链接: <https://news.google.com/rss/articles/CBMipwFBVV95cUxQakZvZ0xab0lkeGJXQ2RrWmNkNFhOa084Wi1pS2d6T1BQQkFubllnaW5zT0RrYlhLTXN3Ym15ekNkWjMwOVBDeGRoS19PRzJCclZGaEZUcUU5Wk55NktuMHBjN3I0bDlJVUI3RDEwWThWb2VPOV9jS0lRcG1JMm5BYUc2ZGktQXhHTjhnbTRCWWVLREQtSnFZWTk1c0FNazFLazlyMmpUcw?oc=5>
+- 时间: 2026-09-14 17:59
+- 链接: <https://news.google.com/rss/articles/CBMimgFBVV95cUxPNlpWYkRvTExDOHVSYlBQUnRJYTZpZzhpak93cGF0ZUxpV3dMbmUzY2RodkNhLVdmYmphOC1Hd2ZLdmtfNG9rN2xJei1iQkhud1UtaTRzT1BLdTVRbnc1ZVhhb1AzVVRoNTlPT1llSHNTMzNYM2FreXVQRDlkUU9lSkJ4Z08xRzhHbG91Z2U1WXhobXZrT2piVXN3?oc=5>
 
-### 特朗普总统：美国需保持人工智能世界领导地位；行业高管则呼吁放缓发展
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-09-14 16:09
-- 链接: <https://news.google.com/rss/articles/CBMi-gFBVV95cUxQeUlZQnIxOXpFOTBvT2g2d1dLTXlXRmhQQmtOSkc0ZXotbUo1cjFNeEdDWDJRa3VwYWdLOXN3c3Z4c1BoVThFS0M2M0ZFOEs3R1JLLUtHM3FTN3dTdTlBYXVtcXVqTDhCOUVKMy15S2VtYV9iZzJoNWxLSlIxVHdTVndNX3NNZ09QVVZ4YVp0V2hZTFA3UlVwdUl6Z3ZQMWI4TUVLTDQ2YlVqTFc3aHVGb3FsSTVuWGNzbEtvYkZ6OXE1WFZBYk9LXzlXNWh1S1U3OHJjOWZZU0NiNnJYV1FmbWtRT3Vvc2l1b21SbmFPS1ZGenNWb0ZXTEZn0gH8AUFVX3lxTE9rdUdiYnU2R3ZNa3JmVzFxSkMwOG5xQUZyN0tRYkFESUh3NFEzdDRIeEFTcno1dFRtcUlSVkZnZUxVVkQ0Y3lLVTAwdlJST2JKcjg3SlBhQTlQOFpuZVEwZ3hoVXRybmNsT2VubWF3cEhNZTFOWWJTclVmUWVWRnYyeUYzZ1p6RV8yYUFOZlUtWG55d1VfWW5YNDg4M215T3NMTDcxWnItd05ZZ051d2x4RjJHOVNDc3hWRHJEYmxXaXd4Ym1UWTBwZUp0a09HMlZzUUl4eE43RnY4OVBCbGlST1F2a3hMN1JWUVNOUlh2YWFyRTV4M0dxQ2F1ag?oc=5>
-
-### 特朗普同意在关键参议院加密货币《明确法案》投票前作出伦理让步：美联社
+### 美国国际宗教自由委员会呼吁特朗普总统在与习近平会晤期间提出“宗教或信仰自由”囚犯问题
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: CoinDesk
-- 时间: 2026-09-14 12:07
-- 链接: <https://news.google.com/rss/articles/CBMiugFBVV95cUxQdXRUaG8tSFJBUmZRdGZISU9zS0dBc0tvMVhRSDJMVTR0QWtWVGM3b3ZUeDZIQXZTVlFVdTZDelAyQUxoNUc0R3NlcmtkWmJYbFRWaEwtR3ppV3k3bTRDRE9WS3kxcFhLTmFKN1c4Zlc4cFJWSzlYWmZpY3BKWGZKV21Za3pOZUdHVVloOFpPVXo3amxoVFNKWXJJRmltSHFZREpDd0VxaVdlRmdlN2ltR2p5TElXTmRYOUE?oc=5>
+- 场馆: 对华援助新闻网
+- 时间: 2026-09-14 19:29
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rSzUtYlJmcng2Z0hyNDMxQXdHa1Joc3JzY1E1b2ktN05fTWVObXhOakJaNTBvcXE3ZVl4THZzOEFHazB6aHV6RFlwcFB3dUVRakxraFprcjZhN1lwdjMzSA?oc=5>
+
+### 美联储的沃什与特朗普在加息迫近之际走向对立
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-09-14 13:48
+- 链接: <https://news.google.com/rss/articles/CBMinwFBVV95cUxNZFE1Rk45bU1RTnV4ZHQ4eVBDZHhQREJjOWVFRndMS1FNXzl6TTh0WTJVTXdXYlNvMEdMbjFNVk1zdWJ6QTFwM0FiV3dOLWdkd0xocVJGdHRDaEVzWXVjbGNtVUNhM1lvWU1Oam5neFFRMXZBeGhFcW1KNUluNTdnamhZaFNsVERUV2UyVVpPMHVyTjN3SmxoajRKVXZUeXc?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-14 20:59  (9 条)
+
+- **特朗普** | 特朗普在共和党全国代表大会期间与OpenAI首席执行官山姆・奥特曼会面。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9QdTFSVTU3c090UzFaR2hsMno2UEt5VUZ6Vm5tZXJ1eGw3ZHdUX2xJOTV5NXVwV2JuSG5GOFEwLVdPYVFPaFZ0SDRBVQ?oc=5>
+- **特朗普** | 特朗普总统说，俄乌同意停止袭击能源目标 <https://news.google.com/rss/articles/CBMivgFBVV95cUxNMUtXeS1CT05YMldWQlFjNjFVSm1sVms2Q3ZrUlBFVXVURml1elJobGFDZTBfMUI2RUFaSnVOY2UybzJmZ3dkdUYxOXdidUxSLUJLVkUtSnFHdDdTeWdLbmFfa0J1eHZzT0pQam9HcUkyRzNHWXIxSEhtM2h4eEdWcWx1dkFJTG1VVEFBRU8xNDdTQlM4V21VY1RNaGJTa3ZzWFdlT2kxTnVPZS1FVURtWHVvOHRGdUd2XzBTaGF30gHAAUFVX3lxTFBuOUtHbm9xQ0pKZjNGSk03N0xhUTZnOUJQU2QyQVRUYktJN0t2aUl0UWtWdkRIVjRVMDdHVmdqMnBOYkdKTy1LZ1Q4b1E4dUlPUVRXUENTUVdIRmtfemRRWU9aQ2V0MWZ1Q1kyc2hDVm9WdHNwV1d4QmhsZ3lFVVBTaG5PMm5OMFp3ZGk5M2FMdklkd1ZGTmU1VzhiYzZ1OUVMVXNmNG54WTIxaE13a0Zsay1YOW5zSGJNOS1RMHRaYg?oc=5>
+- **特朗普** | 特朗普总统：伊朗希望达成协议；美方对这一构想持开放态度 <https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUmxrMjJyelJLWjZhUExfZVVWQzRkSHBNZlVlOW1pM3hUUVE2a252RjIzOFBickpHbnVsNDBzeXZGZUgtS2JWYjFsZVkwRThjYVBxVVpieUV5ZHIyQkNJeFRSYTYxSWRFR25GMXNoWnlxaXFVVGR3VlpGOHkyMXQ2VGhFYVRPUFVlWDV3YjNOdldtTzlZQlI2NHZObDVMZmFiZWhLSGpwZ3FnODDSAa4BQVVfeXFMTmMyTk5CMmNUNlk5T0dSZlBEZWNuS2hVc3o3TFRLVHNjN1ZzQVdoaXpxajFtcVkyU1FuaUVETEdvWkVfdE5kTTA0M2Ixbm5vSktJSUlLZEhKTXRvNkNlUTFiT3RzenNtTURjV2VJRUcxVHVydEEzazVFWWtvOGEwcHczY2liejMxT0tUVllnanVEdmlpWjJKTEw4R2ZUSTUySGYxcHc0YndQbnJvRGJ3?oc=5>
+- **特朗普** | 特朗普称愿与伊朗谈判 提出美方要收“护航补偿” <https://news.google.com/rss/articles/CBMiS0FVX3lxTFAxVklaWjM3NVdSOWs4bDNuSUttcWNjLTN5QmpOQ0hJMHFkVGZhOUxaNDMyeUppQU5BM2lPdVBPdG5YdWR4ZklSYW9Law?oc=5>
+- **特朗普** | 特朗普：白宫翻新前就是个“垃圾场” <https://news.google.com/rss/articles/CBMic0FVX3lxTFBmeWtEZEFVNDZQMzNPSWFmY3JfTXlKcG9mZXlWelAxZV9pNkVPSHRkOWc0TFBZdWhqVUs2Nk9Mb1pQc3NNeC1GSnNpT2NDRFRQV3RKUk93Z3Q2TzBPNlhkNkY1N1VXcVg2OEtldHZ2UUp2VDg?oc=5>
+- **特朗普** | 福特等怕不怕！特朗普公开喊话：欢迎中国车企来美国建厂、卖车 <https://news.google.com/rss/articles/CBMiWEFVX3lxTE5aZVFjS3h0Xzh0TkM5Z2dVX01TRnpxcnhpTUpOdnc1TW9CdDFkSGpLZ2lzdGliSFNjVkkzNHRYN0F5bmNfSFpnT3lDa18xdXV0UU82SS1oVDg?oc=5>
+- **Trump** | 特朗普表示他对Google在芬兰建厂的计划“不满意” <https://news.google.com/rss/articles/CBMimgFBVV95cUxPNlpWYkRvTExDOHVSYlBQUnRJYTZpZzhpak93cGF0ZUxpV3dMbmUzY2RodkNhLVdmYmphOC1Hd2ZLdmtfNG9rN2xJei1iQkhud1UtaTRzT1BLdTVRbnc1ZVhhb1AzVVRoNTlPT1llSHNTMzNYM2FreXVQRDlkUU9lSkJ4Z08xRzhHbG91Z2U1WXhobXZrT2piVXN3?oc=5>
+- **Trump** | 美国国际宗教自由委员会呼吁特朗普总统在与习近平会晤期间提出“宗教或信仰自由”囚犯问题 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rSzUtYlJmcng2Z0hyNDMxQXdHa1Joc3JzY1E1b2ktN05fTWVObXhOakJaNTBvcXE3ZVl4THZzOEFHazB6aHV6RFlwcFB3dUVRakxraFprcjZhN1lwdjMzSA?oc=5>
+- **Trump** | 美联储的沃什与特朗普在加息迫近之际走向对立 <https://news.google.com/rss/articles/CBMinwFBVV95cUxNZFE1Rk45bU1RTnV4ZHQ4eVBDZHhQREJjOWVFRndMS1FNXzl6TTh0WTJVTXdXYlNvMEdMbjFNVk1zdWJ6QTFwM0FiV3dOLWdkd0xocVJGdHRDaEVzWXVjbGNtVUNhM1lvWU1Oam5neFFRMXZBeGhFcW1KNUluNTdnamhZaFNsVERUV2UyVVpPMHVyTjN3SmxoajRKVXZUeXc?oc=5>
 
 ### 2026-09-14 17:01  (18 条)
 
