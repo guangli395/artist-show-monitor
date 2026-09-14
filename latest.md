@@ -1,56 +1,100 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-13 22:31**
-- 本轮扫到 11659 条, 新增 **5** 条
+- 最近更新: **2026-09-14 00:35**
+- 本轮扫到 11668 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (9 条)
 
-### 特朗普谈伊朗战事结束时间
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-13 22:13
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE94NkNGSEFZUnVLYWRlbjJkWkp6WjhsNHpuZU5COTJBOEtXeWZWdl9rRWNzcHFXRmdGSHVKaldwLXVzajA4RTFTRFV1YWRKVTc1RzJaREZuZzdIZXIzcURwcTBnTjk3WVhMX1cyYWpOTllGTFFwelJORQ?oc=5>
-
-### 特朗普称美国可仿效委内瑞拉 留在伊朗并取得石油
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-09-13 22:24
-- 链接: <https://news.google.com/rss/articles/CBMi6AJBVV95cUxNVzk2SUwyQTRXQWpwU2dsdVFUejhDTXZ5ZnJ5dUNHYnk3S2RqLXN5YVRoMnNzLXJKTnVHY3hQdHN2aEFOc2tROEhkREZlTHhYLVpzZWlxbkhDZURfSkY5aHlLYzRoWFB2UEdOS0swRVF6d2ZVS1VvN1NPcGtRRThaSzVVcTlOdXJRcS13eDVUcGlUa0d3Mmw3NEdKNS1yLWE5NU1qNHNMaHBoVWpValRCUzBiT21HVWptX3lZZVdBZGZNTm00eXQwOHFQUml4T0hxOHZvREkxWXBSYlRiZnA2dkRZaUk2RUUzSUwwVkFiZHg2TDBTdmRJV0RrT1l2VWJPNThITWtwV3JPamwtMGROMUhiaEt0TFZpOUtjQklPZ2ltMkM0MGdRMllmYTUzaDJyVzBoOGF1eXI5SUpnaU1jUUdub1lJOG9MVjRIMk15dU93dVJJYjZwNm5Eemw1LUN5QnVRWE5pX2Q?oc=5>
-
-### 特朗普称美加或很快达成贸易协议
+### 特朗普：不担心习近平可能取消峰会
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 联合早报
-- 时间: 2026-09-12 14:23
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5BTGJWdmlzWnRIWWc5T01zZEViUTVNU1J4RGxubTlEQVBLSE9BNFlUcjJTY1BLZHYzdmdKaFZpeFlnUjJqQU9VN29xR2R4aGZVclYwWGRnMUlRWWk1bk1yZ1VZeVRTbWhmSUE?oc=5>
+- 时间: 2026-09-13 13:44
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1aS0tfQTRObEp2b0hxX1pnZTJEVW45Y0pldzBlRGNKRXFvZWZCUjhQZGRZQnpwWk5Wcm1XcnlscDEtV1NpWHJELUNncVpuWFpEX2JlbTRjUWZTYjZsOUdfUmhfNlA2dw?oc=5>
 
-### 特朗普5000美元空头支票没人信，但他真正花的钱，你根本看不见
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 风闻
-- 时间: 2026-09-11 14:22
-- 链接: <https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqaExxV2kzRWdUTzdjMmprQnB6d1E2b3FnTWd2aWZWTHlCN0M2SGRNcUVxcUI5SEhPbnoxRk9teG81a0NCWElzZi1LSDkteXZkSDJSS3pTeTBNejQ?oc=5>
-
-### 特朗普“爱尔兰统一”言论引发英国政界反对
+### 特朗普不反对中国汽车制造商在美国设厂
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-09-13 12:55
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1HYmFjVzgyRlN2amNldk9MY3h2aFBRd2V2amNJb09sZmxybDVWS0JRQ1pOdDF6d2VMZkF0WDJmZHRyX0FQVTNSV3praFZnbmluSWRUWXRFZElteThVWFlQcVBlWm4?oc=5>
+- 场馆: 联合早报
+- 时间: 2026-09-12 01:23
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5jQzZSQTFJNWZ3UjlOaVJuLUF4V2ljMGVCT0U2Y1E4YmVlc0ZtM0pSSVFGOW8wblNaT21JYVJLcDlsT3Rnd09abWtJZ3pyblpoOVFMWUhLcjZtWmFucXZXY3dUZmxodw?oc=5>
+
+### 特朗普称考虑解密更多“9·11”事件档案
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-13 23:06
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9iNWtBRXFFZ2FIb2NzaGpkLUUyT09WcTNfei02MjVNMTRraHozM2xmTTZVTzdESFlVZ2RTZVF3M00ybVRvYjgzMXVvQW12RjJQeG1qZlNTa2NZSy1SUExOVGg5ZmJWNXNNdlVZWWlrSk1sTDYtVHpTSA?oc=5>
+
+### 特朗普称泽连斯基“必须停止”攻击俄罗斯炼油厂
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-09-13 23:44
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFAzOEN6cExwUHZjVEI3NTE2YkowN3plekxYWUhkQ3pYV3A2bE1wR3JCSTY4ek1nMzBjSjNUZ0FlNFQ1SjVLM1JYTGRZbFo?oc=5>
+
+### 【环球财经】特朗普称泽连斯基“必须停止”攻击俄罗斯炼油厂
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-13 23:00
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1PN1RqZFZOenZRUE9TYTVVWEVIOHc5ckpvVTZsVm9BNFlKM2dQYlotWlkyNFJkQkNOdUE2bXdqMmFUQjVWdnJ2ajZuNnF0SFNCM1BCQlJ4LTVzYXhkU2NsQmRMU0VvbHZmUVJvOUdlZmFVQy15N2JrMA?oc=5>
+
+### 特朗普重申伊朗战事将在中期选举后结束
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: news.cctv.com
+- 时间: 2026-09-13 15:46
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5jSzhrMDdneWRzYnNCU1AyWG16MFpiVEE1bnJFcTZtS0E3WHlfYlJwSDJtNkpqYS1YWVNyMlF4MFNucnRqTlpoLWxOVEJhMFRtZklFNk1BQ0hCTXMyTjB0akdGZGlpQ2JRRkFJNjZVUGNFY0RvTWJVdw?oc=5>
+
+### 特朗普再谈美伊战事：或于美国中期选举后结束，能否兑现？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Sohu
+- 时间: 2026-09-13 23:01
+- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTE1NNDNuM1dJQjM2NmFNdncwN2lXai1uRjhPN0VLZXVkelBXeU9xcjV4VUwwN0tKZjk1UUVzMHZMdDdfb2E0SnNOSFlTbnl1SHBNbHc?oc=5>
+
+### 特朗普承诺取消对爱尔兰威士忌的10%关税
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-09-13 23:28
+- 链接: <https://news.google.com/rss/articles/CBMikgFBVV95cUxPZHRMMkdzLWRuTG01V0J4NXlRSExUVExjc2g5RUd3Rk9xWXJ2VE1QV2dENlM3NUZ6YXV3MWxmZXV1Y2JUOGwzYnhKSkFBY0JvdUg2N2JnU1hNWW1LUHlnQU1CQlhmNFdHVHBqc205NW15MGIxSEc0aWg5YmdfQlZSOXEtb2pscjNBZkJSR212eXRIUQ?oc=5>
+
+### Trump驳斥放缓AI发展论：“必须保持领先中国”
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 아시아경제
+- 时间: 2026-09-13 18:02
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LVGxRZURxLVlsYkxfejV3aXRJdTNJRXJVei1fR0NSank1LTN6ejZINEdfQU5HRnF0RFJZSFUzMEwweGhhNUhqMXJQWmt5dDNBSUppZ2xVeWhuaUN4aDRHQklId2c?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-14 00:35  (9 条)
+
+- **特朗普** | 特朗普：不担心习近平可能取消峰会 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1aS0tfQTRObEp2b0hxX1pnZTJEVW45Y0pldzBlRGNKRXFvZWZCUjhQZGRZQnpwWk5Wcm1XcnlscDEtV1NpWHJELUNncVpuWFpEX2JlbTRjUWZTYjZsOUdfUmhfNlA2dw?oc=5>
+- **特朗普** | 特朗普不反对中国汽车制造商在美国设厂 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5jQzZSQTFJNWZ3UjlOaVJuLUF4V2ljMGVCT0U2Y1E4YmVlc0ZtM0pSSVFGOW8wblNaT21JYVJLcDlsT3Rnd09abWtJZ3pyblpoOVFMWUhLcjZtWmFucXZXY3dUZmxodw?oc=5>
+- **特朗普** | 特朗普称考虑解密更多“9·11”事件档案 <https://news.google.com/rss/articles/CBMieEFVX3lxTE9iNWtBRXFFZ2FIb2NzaGpkLUUyT09WcTNfei02MjVNMTRraHozM2xmTTZVTzdESFlVZ2RTZVF3M00ybVRvYjgzMXVvQW12RjJQeG1qZlNTa2NZSy1SUExOVGg5ZmJWNXNNdlVZWWlrSk1sTDYtVHpTSA?oc=5>
+- **特朗普** | 特朗普称泽连斯基“必须停止”攻击俄罗斯炼油厂 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFAzOEN6cExwUHZjVEI3NTE2YkowN3plekxYWUhkQ3pYV3A2bE1wR3JCSTY4ek1nMzBjSjNUZ0FlNFQ1SjVLM1JYTGRZbFo?oc=5>
+- **特朗普** | 【环球财经】特朗普称泽连斯基“必须停止”攻击俄罗斯炼油厂 <https://news.google.com/rss/articles/CBMieEFVX3lxTE1PN1RqZFZOenZRUE9TYTVVWEVIOHc5ckpvVTZsVm9BNFlKM2dQYlotWlkyNFJkQkNOdUE2bXdqMmFUQjVWdnJ2ajZuNnF0SFNCM1BCQlJ4LTVzYXhkU2NsQmRMU0VvbHZmUVJvOUdlZmFVQy15N2JrMA?oc=5>
+- **特朗普** | 特朗普重申伊朗战事将在中期选举后结束 <https://news.google.com/rss/articles/CBMieEFVX3lxTE5jSzhrMDdneWRzYnNCU1AyWG16MFpiVEE1bnJFcTZtS0E3WHlfYlJwSDJtNkpqYS1YWVNyMlF4MFNucnRqTlpoLWxOVEJhMFRtZklFNk1BQ0hCTXMyTjB0akdGZGlpQ2JRRkFJNjZVUGNFY0RvTWJVdw?oc=5>
+- **特朗普** | 特朗普再谈美伊战事：或于美国中期选举后结束，能否兑现？ <https://news.google.com/rss/articles/CBMiUkFVX3lxTE1NNDNuM1dJQjM2NmFNdncwN2lXai1uRjhPN0VLZXVkelBXeU9xcjV4VUwwN0tKZjk1UUVzMHZMdDdfb2E0SnNOSFlTbnl1SHBNbHc?oc=5>
+- **Trump** | 特朗普承诺取消对爱尔兰威士忌的10%关税 <https://news.google.com/rss/articles/CBMikgFBVV95cUxPZHRMMkdzLWRuTG01V0J4NXlRSExUVExjc2g5RUd3Rk9xWXJ2VE1QV2dENlM3NUZ6YXV3MWxmZXV1Y2JUOGwzYnhKSkFBY0JvdUg2N2JnU1hNWW1LUHlnQU1CQlhmNFdHVHBqc205NW15MGIxSEc0aWg5YmdfQlZSOXEtb2pscjNBZkJSR212eXRIUQ?oc=5>
+- **Trump** | Trump驳斥放缓AI发展论：“必须保持领先中国” <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LVGxRZURxLVlsYkxfejV3aXRJdTNJRXJVei1fR0NSank1LTN6ejZINEdfQU5HRnF0RFJZSFUzMEwweGhhNUhqMXJQWmt5dDNBSUppZ2xVeWhuaUN4aDRHQklId2c?oc=5>
 
 ### 2026-09-13 22:31  (5 条)
 
