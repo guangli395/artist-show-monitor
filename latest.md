@@ -1,150 +1,130 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-15 08:17**
-- 本轮扫到 11776 条, 新增 **17** 条
+- 最近更新: **2026-09-15 13:44**
+- 本轮扫到 11789 条, 新增 **13** 条
 
 ---
 
-## 本轮新发现 (17 条)
+## 本轮新发现 (13 条)
 
-### 王一博蓝芩喉糖代言陷质疑，品牌发布澄清声明并报警
+### 工作室发布出道十二周年12连拍，步履不停，初心依旧
 
 - 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1288429914_m4ccbe15a03301alwk.html>
+- 链接: <https://k.sina.com.cn/article_1905859287_p71991ad702701t9rk.html>
 
-### 特朗普急了，大会现场连线黄仁勋：斥责AI危险论是骗局
+### 蓝厂给周董拍的新《晴天》MV，我能看100遍！
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网科技
-- 时间: 2026-09-14 22:42
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1DQU4zdmtidjFxakdvdUpuZUlJZGVtVW9vTDVRM1NWU09tcG9BTmVPVlZzcHRES0ZiVThGeU0xTEMtQ3p4R1BMNVNPcnk?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7811062841_m1d1935c39033028kgy.html>
 
-### “白宫股神”炒股也失手？17只“特朗普概念股”14只翻车
+### 蓝厂为X500晴天配色推MV，周杰伦晴天照进故事结尾
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-09-15 08:07
-- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxQY0l6eHU0UkdRUXlwU09ZcVB3WG9vNkdmVk43SUN0ZnVuakQwVThQNlFuM3VFSnhXNXZvV3BrVFkxNVBVNno2aURjaGVSU0dWV1RMaE45aXpTVTlWYldrOHIyYmk0dklseGJHcHdUbFJVc2lkSWRKRUIyWklSQXktbkw1emM4ZFNZcmU0eTR2bC04MjFX?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923946_m1d5ae18ea03303twzm.html>
 
-### 特朗普刚否认，美国军方承认了
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-09-15 07:24
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9hWWhxcmVONGFodVltNkVQOHB5eWFzZ3VQam84NnBpUVE5Zm0teS1ubjJRc0ZhdXNYay1NYjRjZWc1c25sSzBKaHQyemVGTzlJTkNVc3UzOTdBX1pSWVpmLUI1OW9MWU1GU3VKa2ZBQkVWdy1Od01VQQ?oc=5>
-
-### 俄罗斯商人出资办儿子婚礼？特朗普：没什么大不了，只是个婚后派对
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-09-14 23:58
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE9SMzVibUctelRkVzc4TmlyQjdYeWtoRk1vZkxvMnZjMld0S0dMbEJYMGk2cFp6Q1ZXRHExYWpPdTNTeXgyNHYxR3poRXQ4LVdWY3JTUlJ2YkRqRlZVQkk3Z3hPQlNvaW9kMzloMjhUR0hiQ0U?oc=5>
-
-### 起底特朗普长子婚后派对金主：获普京授勋的俄罗斯拳协掌门人
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-09-15 04:31
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ZNFNGUWdibXI0ZnNMR1JXd3Z1UXk2TmFObVRsM3ZCNmtOOFFFYnVvZnhwQzZvZk1VdEktaXRiTUloQ2tCWkdMVHZQNl8?oc=5>
-
-### 俄富商被曝为小特朗普婚礼庆功派对买单 引发伦理争议
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-09-15 06:20
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE82MjJxVUhuamRjMkpjNm5aakZZMDlZTkNNQTBLVWpfRTNQd1VIRGpQdEhfRVZkYkl2MGYwd0J6c1FsV1RKLTFNSExJV1psMk5LdHNJQUxVUEg2QmpxcGRya0xLbWJKRl9SQXpaMWVhRXU?oc=5>
-
-### 特朗普称愿与伊朗谈判 提出美方要收“护航补偿”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-09-15 02:51
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5makhZcVdpZzZ1SW1ONTlzQ3ZWeGY2TE1LazItZzRpd2lMTlo3eV85YV9mQmt3Y1BMX3pVLWw1aHdwNEdzQU1ENjg1RDFJcTZRTWdvaE5zZDlKcVBNNm5TMQ?oc=5>
-
-### 特朗普称愿与伊朗谈判 提出美方要收“护航补偿”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-09-14 21:01
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE5EWDZJbTdmSDQ2NjZHYUQxSzVSeXdCcGJXNmpQeUpyYTNSSGt2SzdLaVA4TjBUVXpjNkJhRHJ3dVVHcWR2NFgweTdESDNkS1pRUlpWTGFYeXRRUXNPT2RKLUE4THJzS2szeFc2bno1SHJaWkFQYzY1Tl9aWUpaY0k?oc=5>
-
-### 沃什上任后首次加息在即：特朗普与美联储的“休战”要撑不住了？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-15 03:03
-- 链接: <https://news.google.com/rss/articles/CBMipwFBVV95cUxQM1luWlNkdl8yM2dqMTBPOXhHd2ZFckJqU05uQmlxMUY0dkYwMS14WTZhVG9IRGxhZDVrVmUyaDZVZHNHSmlxcXVRNkZac3lTZ2VtazVHMnNSaWxsdlJldTZNODhTYnJBZnpqendhVFF2djZxZmJnMUpmNlYwSzlIMml4ckdIYVpaRFlmWEN4ZTBGeGJsa05uaWZONEZYUkxYa0FHVVY0Yw?oc=5>
-
-### “新美联储通讯社”：沃什加息“没有退路”，特朗普“信任”面临考验
+### 能源休战协议破裂：乌克兰无视特朗普警告，袭击俄罗斯炼油厂
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 华尔街见闻
-- 时间: 2026-09-15 03:02
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBZRWlNV0ZsQk1ndlI2ZFlCN1RoclEtTXNXdzJMcFUxOWFWb3BGeHRBRU1sX0ZrSFVuREV6VUZWRkdRZVNxcDF5a2FRazhMWlN0SFdz?oc=5>
+- 时间: 2026-09-15 12:24
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE13VXd4UXF2OUFDY0d2QmY4Z3pZS3lBY0tsb1l1UXd3UVlhZlJHU01vSWxuWTA0b0hvalk0Z1NialR1bkhVOHVzOU9VZkItNzh3YWtN?oc=5>
 
-### 特朗普对美国总统“从夯到拉”排名：为何这几个民主党总统位居前列？
+### 白宫国家经济委员会主任称其与特朗普会尊重沃什明天的决定_7x24快讯_新浪财经
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-09-15 01:27
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wVUotQU9wMTA4TGlkM2dhNnh6OUhmOUZzWkZ6VHZPdkhIU1NBUzdnV2JxX3k4aU4yU19GQkNPX2JGa0FGMlk1UGFzeDcwaWFTUzZEaVUzM2hQdUx5UTBwRA?oc=5>
+- 场馆: cj.sina.cn
+- 时间: 2026-09-15 12:49
+- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE5QNFFOOVBNQmdud05ZMk9SYkJtUjRyM2txaGZ0bFh3ZzVhdlNiRGVxUGYtcGFlZE1weDMtMDNPVWkzOFBaT0x2ajAwVU1Hcmc?oc=5>
 
-### 伊朗多次袭击、美国不愿介入：沙特面临“最坏情况”
+### 美国法官阻止特朗普政府对外国学生和记者实施新规
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-09-15 03:47
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5FVDFxQ01CaDNEQW5BSTZPUnZtdmlVbmlSaHdSMUhYYzFPaFRGcGhIakdibEpteXI3b0dDcWpuRFlFZ3g2S0lPR2oxYjJpTF9JdjctcEFDU0hvQ2M0NFFJVFZjcWxDM280OTVlNmhmUzZlUE5DZE40Zw?oc=5>
+- 场馆: IDNFinancials
+- 时间: 2026-09-15 13:30
+- 链接: <https://news.google.com/rss/articles/CBMi6wJBVV95cUxNbTdENlpCeERGUm9rcDZnRk5OU1VYR3RMVjhoc01JSzBhdFFIVDJoRm9TQ3JUS3NPankzRHJyamxKQ2NKaEJLY3h4VFAzelVrRFo3YWg2OU1CanV5VjJUSUFnY05LM0R1WEhRQ25JV2F6MGVzZ2J5ZlFXZi1MNWhNa19XSEdrbjE2Sm5hTGN1SmFrd0VTYXp5SHhfenZZMjNQbWVlQkNSYmhuaWpxSTZsWG01Wmc5Ukd3cXR2N0dTdWE2a2dtZjFtMWpsRzZ5Wk1GLVJWTy1YMFhTMHR6RERNWkRjdjNjRllidml4WmNzU3NBYlN4M2Rfc2dIR1d5Y2luZkNPYURfTERUQjZpOEJ3OU42SjUyUXV6TzhuMlZtZzRJNjRVX3puYjhlZ05rVlRUQVpabUhQaDI5UXgxQWhuUkcxcVN4RmFLaFU3c3FTaEFSSUtXaUJ0aEpuV25ha0VUaUU3c3dNQzJQdVE?oc=5>
+
+### 黄仁勋峰会现场接到特朗普电话，当场打开免提：机器人不会接管世界
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者网
+- 时间: 2026-09-15 05:13
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1tZ0ZCSTFmenFUU3pVeFl3OHVIS0FaSXJZbDNNOUZ1dWROSjVXc3BBRzFpZkdIUGhqMnZ4S2liaUY4MWVZWnFPUEVGdW56dlZrSXBheWRuTEJESk5TV2R2ekh1dEZUdlFqOC1Rb2dVTWp6TWs?oc=5>
+
+### 特朗普：将和习近平讨论几乎所有议题
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-09-14 12:57
+- 链接: <https://news.google.com/rss/articles/CBMioAJBVV95cUxPTmVPTUNOd0RnRTZ4MExPbHZVVzNRV2pjb0ZoUWhMVEpsNUwzaXk1YUh6c2JILXlUTk5NeVNiYVNhQVFneXhRLThJd2l0SVpRU2dyWHlwVkJPeEdlZC0ta3E2SURHTzJhYmJqWXV0YkkzbzAwMXp3Q3BadWtseG8xQWUxbGFjYnRhT04yTE00VzNMY3YxVzVUenRyZFVUVEwwcXBGRWgwZkhyQ29RTlBwZnNVU2NLZVBpY2ktMjJNLUlUVEZIc09mcGF1UkhvWHZWRkxMOUQ2WWprMy1FdFp2emk1YmVDbzV3X0pORVRyclEybDdJNk5CWmwtWkhDY3k3RWlSeVUtbjdXTGpVT1dibDlSLWs0ZHNvdGpOTGowV20?oc=5>
+
+### 德语媒体：习近平赢得了世界的心和脑
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: DW.com
+- 时间: 2026-09-15 02:16
+- 链接: <https://news.google.com/rss/articles/CBMiiAJBVV95cUxQRzBGSTVUejNheW9ha0h6cjctcWJKVS1ZdFFhc0cwQVNKaGxONURpSDNGbURhQmxXR0stcjZJMEYzTjB0eWxUSFFtRF9tMV83N1pXZDBOTEU0dXZ3LUZoei1JT0diczlnWXZ6amtwU2M4elN5Y0lsaHo1VG90NnJIUnF3dzl0QTVwRFItWUQ5cjRMSXJjTU4yNXVONWFrRHBiekFNM1RUYzRQcHZoUTJxZVR5VWpUNklyUGRRcldPYU5aT0hWU3Rtc0ZtbGVZdHFZYm5EZGdhVEtETEhPZ1RaMmFRdlJUSlk0YUdlTnl2ZFFuYllnRjMxRFgyQk1XdDk3NXFXRWxtZGLSAYgCQVVfeXFMTUNxa2RwbjJMN21FSTBPWWJEVzVxeTdIaEpzVlh6S05WRlZRMjJ6eFV5TkFiRWtFYUlwVWowaGlhQ2JHU1ZuOU5IcDJrZ1F3NEt2R25faWJ2Nm5VbnNMMmxENVZUN1hBR0tMbndmcVJTakVCTU9YU2ItRkhCV3VmeHlveGU3TWNCbkEtYkhiQzlVSXVIYXpTRUZyWC1mbng1Q25RRUtsWTJEVFZLUFVXanhJWVE4eFpWQnJWLU01QURmQl9tX0hkNGZUbjR4N3VDdjZKT0cwS3BmM2l0THJ5NGFaU3dsWWk3c3JFdjZ3TnlQLVRWWFdVU2w3NlRuYnRoaWlSN0xNREgt?oc=5>
+
+### 特朗普再谈美伊战事：或于美国中期选举后结束，能否兑现？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-13 23:02
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYjhCSzltVUx1QkEyY3liRFM0N0E0MTB4V2F0a2dhMkEzeEpUQldEUVBBWW1QX2oxMUtKbkFuRWdwcnlLblBmZTc4LTR3TXdNc2FsZFVBUWUxNUZ0V3AyeGFqbEJ5VFpLeW1GWUNtN3FyVm5EclNoaWtQXzBvR2pDcGlGMDFfamhTX1hVV1VEclZKS1FNSW4wRlR0bkEwd3VpRmRoQWIwVmwyYXpHekZYMVpMRFBVU3h1dWFNNTZEN3pCUGtQeXJYYjhXUTRYMFBK?oc=5>
+
+### 特朗普：“与我无关，都赖拜登”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-15 11:41
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5mX2UtYmQwaEdfeXA4LVlyY2lqNVJ0NV9DOUVRdWV2aHlQcGNySzQ4WElwNFd5UmJUbVpZOVBpai1UTHNyMkFYYU9GYzhIWHZLNnFPTDZWZXg2T1VjckhicFBRdlRPWnhUYjctWk1rdklYZHVyUThzMQ?oc=5>
 
 ### 黄仁勋All-In峰会访谈：Trump来电称「末日论是骗局」，超级智能已经到来
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Sohu
-- 时间: 2026-09-15 04:37
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxONXhKa2NJSG9KRW9SeDBOZVZWcG5wSm9pa2RKRENkSkJ0ZXQwWE9ReGItamdWUWhhd2NKX19MMkJrMnFURmh0VTBzOFBqUVA1dnp1UDg5Rk13eXhoeFIxZEtHUGhEV2FwT0hvc3ZTTnpnajJqSjZoLXNLM1pWYV9WTlBOaGV4NWpYbGlmeA?oc=5>
+- 场馆: 36 Kr
+- 时间: 2026-09-14 19:06
+- 链接: <https://news.google.com/rss/articles/CBMiTkFVX3lxTE8wdDc0RDZrRVQwcTNHYnJxMjgwcEh2UlMycFZRNGJSUVFtU1E4T2Y1Z0hhRkEydGJNVDlCMEFqZDFjazJkclgzTGlWdFZ3QQ?oc=5>
 
-### Trump Says AI Doesn't Need More Guardrails Despite Industry Warnings
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-09-15 01:49
-- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxOLTcyTFFtc09pZy1CTjNCd1cwcjVJcmdEcTNkVDNyRFVXOWVxVDAwaEJ1RmRxSk9hRklDM3hHLVhVVWJOdXZRMi1JVjdWN2F4RWY0WnRXcEtVS255blRRbUN3N1NyQW5MakJpRElIWjVJMUdiN3RVQXM2ZE9Jbl9hVDB2RWNRWlZIMTBJWmxHLVRSSzJNMFBhTWNUa2l1SmVrTmxzMXBMdXAtdw?oc=5>
-
-### 特朗普驳斥Anthropic与OpenAI因“中国风险”呼吁放缓AI发展
+### 俄乌在Trump宣布“能源停火”后再度交锋- 阿视亚经济
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Yellow.com
-- 时间: 2026-09-15 07:23
-- 链接: <https://news.google.com/rss/articles/CBMiuwJBVV95cUxOUzFvVGVQUC14dGFyWTlNRzZZajctSFJQcE56eTRIRUR0bzcxaVJobURmQWx5TGtGMjVwVnB3YTRkelFfNGtkbEtyWWw5blpHNE56SVlNX2pzREx3a2FqajVrSEZqNnA5NC14MDZfNTI4anFqclB2dWlpRzZ6TmVXdkxnMFUzSWdwUmZyVUpTajV0UENZazRqMXBIdUF0LWRSdWJ0aFNUT3BLaTlrM2xoSDNmanpiSm5NS1BQaXVDMUpxNTQ1SjRQeVpPOGM4QnpBMUVJQnZiLTNVRkFNbEJuVk9aSzlhZXB6OWVQSV8wU1RUS1NKUDRmQVlScWl2NkdMV280d0pYeUtCQU45MXJzWjFIRjhsSWN2azZXNU14LWxZcXFDT1RldkNYMGN0bjdCbkh2eXAza0VUN0U?oc=5>
-
-### 习近平访美：美国推动AI安全护栏北京能否回应– 普通话主页
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Radio Free Asia
-- 时间: 2026-09-15 08:04
-- 链接: <https://news.google.com/rss/articles/CBMivAFBVV95cUxNUWNNWTQzQlpaSmZZaksySFNvZ0FyYUg4N1BxdzVEampFX3FkU3JxTWpyeEFGVVNBejl0SGQ1Vlh1TW1oc21wbWJuYll5WFhoVGxLR0hEMGdkbEpzZFc1ZlJVWlY1dzdsZi1nNTE1S3ViNzdCeW56Vy11ZmwxcnFxWUFhSkc0d0ktZjluc3hvdHNGTEJEYU1idTEzU3NnNFBKanhhQTFDcnJ3cXU3U1VTRUp2Nmw0bWp2bGhZMA?oc=5>
+- 场馆: 아시아경제
+- 时间: 2026-09-15 09:28
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1uXzBrYk9aMWtjVG5FRy1CTkt1dVR4czBodk15anF3RHRnTGl1NnVsRDVYUFhQZDBnWnphTnk3anBPZDFnNWpsZjAydVVfUUo0WWdiNy1GdDV3TTNOeXNNd2hhQmQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-15 13:44  (13 条)
+
+- **王一博** | 工作室发布出道十二周年12连拍，步履不停，初心依旧 <https://k.sina.com.cn/article_1905859287_p71991ad702701t9rk.html>
+- **周杰伦** | 蓝厂给周董拍的新《晴天》MV，我能看100遍！ <https://k.sina.com.cn/article_7811062841_m1d1935c39033028kgy.html>
+- **周杰伦** | 蓝厂为X500晴天配色推MV，周杰伦晴天照进故事结尾 <https://k.sina.com.cn/article_7879923946_m1d5ae18ea03303twzm.html>
+- **特朗普** | 能源休战协议破裂：乌克兰无视特朗普警告，袭击俄罗斯炼油厂 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE13VXd4UXF2OUFDY0d2QmY4Z3pZS3lBY0tsb1l1UXd3UVlhZlJHU01vSWxuWTA0b0hvalk0Z1NialR1bkhVOHVzOU9VZkItNzh3YWtN?oc=5>
+- **特朗普** | 白宫国家经济委员会主任称其与特朗普会尊重沃什明天的决定_7x24快讯_新浪财经 <https://news.google.com/rss/articles/CBMiT0FVX3lxTE5QNFFOOVBNQmdud05ZMk9SYkJtUjRyM2txaGZ0bFh3ZzVhdlNiRGVxUGYtcGFlZE1weDMtMDNPVWkzOFBaT0x2ajAwVU1Hcmc?oc=5>
+- **特朗普** | 美国法官阻止特朗普政府对外国学生和记者实施新规 <https://news.google.com/rss/articles/CBMi6wJBVV95cUxNbTdENlpCeERGUm9rcDZnRk5OU1VYR3RMVjhoc01JSzBhdFFIVDJoRm9TQ3JUS3NPankzRHJyamxKQ2NKaEJLY3h4VFAzelVrRFo3YWg2OU1CanV5VjJUSUFnY05LM0R1WEhRQ25JV2F6MGVzZ2J5ZlFXZi1MNWhNa19XSEdrbjE2Sm5hTGN1SmFrd0VTYXp5SHhfenZZMjNQbWVlQkNSYmhuaWpxSTZsWG01Wmc5Ukd3cXR2N0dTdWE2a2dtZjFtMWpsRzZ5Wk1GLVJWTy1YMFhTMHR6RERNWkRjdjNjRllidml4WmNzU3NBYlN4M2Rfc2dIR1d5Y2luZkNPYURfTERUQjZpOEJ3OU42SjUyUXV6TzhuMlZtZzRJNjRVX3puYjhlZ05rVlRUQVpabUhQaDI5UXgxQWhuUkcxcVN4RmFLaFU3c3FTaEFSSUtXaUJ0aEpuV25ha0VUaUU3c3dNQzJQdVE?oc=5>
+- **特朗普** | 黄仁勋峰会现场接到特朗普电话，当场打开免提：机器人不会接管世界 <https://news.google.com/rss/articles/CBMic0FVX3lxTE1tZ0ZCSTFmenFUU3pVeFl3OHVIS0FaSXJZbDNNOUZ1dWROSjVXc3BBRzFpZkdIUGhqMnZ4S2liaUY4MWVZWnFPUEVGdW56dlZrSXBheWRuTEJESk5TV2R2ekh1dEZUdlFqOC1Rb2dVTWp6TWs?oc=5>
+- **特朗普** | 特朗普：将和习近平讨论几乎所有议题 <https://news.google.com/rss/articles/CBMioAJBVV95cUxPTmVPTUNOd0RnRTZ4MExPbHZVVzNRV2pjb0ZoUWhMVEpsNUwzaXk1YUh6c2JILXlUTk5NeVNiYVNhQVFneXhRLThJd2l0SVpRU2dyWHlwVkJPeEdlZC0ta3E2SURHTzJhYmJqWXV0YkkzbzAwMXp3Q3BadWtseG8xQWUxbGFjYnRhT04yTE00VzNMY3YxVzVUenRyZFVUVEwwcXBGRWgwZkhyQ29RTlBwZnNVU2NLZVBpY2ktMjJNLUlUVEZIc09mcGF1UkhvWHZWRkxMOUQ2WWprMy1FdFp2emk1YmVDbzV3X0pORVRyclEybDdJNk5CWmwtWkhDY3k3RWlSeVUtbjdXTGpVT1dibDlSLWs0ZHNvdGpOTGowV20?oc=5>
+- **特朗普** | 德语媒体：习近平赢得了世界的心和脑 <https://news.google.com/rss/articles/CBMiiAJBVV95cUxQRzBGSTVUejNheW9ha0h6cjctcWJKVS1ZdFFhc0cwQVNKaGxONURpSDNGbURhQmxXR0stcjZJMEYzTjB0eWxUSFFtRF9tMV83N1pXZDBOTEU0dXZ3LUZoei1JT0diczlnWXZ6amtwU2M4elN5Y0lsaHo1VG90NnJIUnF3dzl0QTVwRFItWUQ5cjRMSXJjTU4yNXVONWFrRHBiekFNM1RUYzRQcHZoUTJxZVR5VWpUNklyUGRRcldPYU5aT0hWU3Rtc0ZtbGVZdHFZYm5EZGdhVEtETEhPZ1RaMmFRdlJUSlk0YUdlTnl2ZFFuYllnRjMxRFgyQk1XdDk3NXFXRWxtZGLSAYgCQVVfeXFMTUNxa2RwbjJMN21FSTBPWWJEVzVxeTdIaEpzVlh6S05WRlZRMjJ6eFV5TkFiRWtFYUlwVWowaGlhQ2JHU1ZuOU5IcDJrZ1F3NEt2R25faWJ2Nm5VbnNMMmxENVZUN1hBR0tMbndmcVJTakVCTU9YU2ItRkhCV3VmeHlveGU3TWNCbkEtYkhiQzlVSXVIYXpTRUZyWC1mbng1Q25RRUtsWTJEVFZLUFVXanhJWVE4eFpWQnJWLU01QURmQl9tX0hkNGZUbjR4N3VDdjZKT0cwS3BmM2l0THJ5NGFaU3dsWWk3c3JFdjZ3TnlQLVRWWFdVU2w3NlRuYnRoaWlSN0xNREgt?oc=5>
+- **特朗普** | 特朗普再谈美伊战事：或于美国中期选举后结束，能否兑现？ <https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYjhCSzltVUx1QkEyY3liRFM0N0E0MTB4V2F0a2dhMkEzeEpUQldEUVBBWW1QX2oxMUtKbkFuRWdwcnlLblBmZTc4LTR3TXdNc2FsZFVBUWUxNUZ0V3AyeGFqbEJ5VFpLeW1GWUNtN3FyVm5EclNoaWtQXzBvR2pDcGlGMDFfamhTX1hVV1VEclZKS1FNSW4wRlR0bkEwd3VpRmRoQWIwVmwyYXpHekZYMVpMRFBVU3h1dWFNNTZEN3pCUGtQeXJYYjhXUTRYMFBK?oc=5>
+- **特朗普** | 特朗普：“与我无关，都赖拜登” <https://news.google.com/rss/articles/CBMieEFVX3lxTE5mX2UtYmQwaEdfeXA4LVlyY2lqNVJ0NV9DOUVRdWV2aHlQcGNySzQ4WElwNFd5UmJUbVpZOVBpai1UTHNyMkFYYU9GYzhIWHZLNnFPTDZWZXg2T1VjckhicFBRdlRPWnhUYjctWk1rdklYZHVyUThzMQ?oc=5>
+- **Trump** | 黄仁勋All-In峰会访谈：Trump来电称「末日论是骗局」，超级智能已经到来 <https://news.google.com/rss/articles/CBMiTkFVX3lxTE8wdDc0RDZrRVQwcTNHYnJxMjgwcEh2UlMycFZRNGJSUVFtU1E4T2Y1Z0hhRkEydGJNVDlCMEFqZDFjazJkclgzTGlWdFZ3QQ?oc=5>
+- **Trump** | 俄乌在Trump宣布“能源停火”后再度交锋- 阿视亚经济 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1uXzBrYk9aMWtjVG5FRy1CTkt1dVR4czBodk15anF3RHRnTGl1NnVsRDVYUFhQZDBnWnphTnk3anBPZDFnNWpsZjAydVVfUUo0WWdiNy1GdDV3TTNOeXNNd2hhQmQ?oc=5>
 
 ### 2026-09-15 08:17  (17 条)
 
