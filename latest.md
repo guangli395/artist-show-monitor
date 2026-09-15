@@ -1,114 +1,118 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-15 13:44**
-- 本轮扫到 11789 条, 新增 **13** 条
+- 最近更新: **2026-09-15 17:52**
+- 本轮扫到 11800 条, 新增 **11** 条
 
 ---
 
-## 本轮新发现 (13 条)
+## 本轮新发现 (11 条)
 
-### 工作室发布出道十二周年12连拍，步履不停，初心依旧
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1905859287_p71991ad702701t9rk.html>
-
-### 蓝厂给周董拍的新《晴天》MV，我能看100遍！
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7811062841_m1d1935c39033028kgy.html>
-
-### 蓝厂为X500晴天配色推MV，周杰伦晴天照进故事结尾
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923946_m1d5ae18ea03303twzm.html>
-
-### 能源休战协议破裂：乌克兰无视特朗普警告，袭击俄罗斯炼油厂
+### 在特朗普总统表示俄乌同意停止互袭能源设施第二天，两国发动了新袭击
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-09-15 12:24
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE13VXd4UXF2OUFDY0d2QmY4Z3pZS3lBY0tsb1l1UXd3UVlhZlJHU01vSWxuWTA0b0hvalk0Z1NialR1bkhVOHVzOU9VZkItNzh3YWtN?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-09-15 17:18
+- 链接: <https://news.google.com/rss/articles/CBMi9gFBVV95cUxQRTdSdDkxalBTbEZSYVpWejgwdGVJQ2phdWhHOWRnNzM3Sm5IZThYbGg3MkQtVjBnTXpSaWFoUkFVblE4Z2p2NVc4dDRVRHJBZTNjX3RTQTgzaGo3M0tiNHZNbjNWZ0c2bzdUTFk5RHZqYXVhLVAtRHd4UHloVTFpcnZ6bmhYSVRJYjJzS0xtWm5ZWEJkal9VZmJCQk1hSE5aYmhwcU0wS19mQXFHVHBkS2VnRTdtR0NWclhpVU5pT3VVcjVWYVJjVTI0WXViMFVjQmUwYnhYTjQwM1Y5ZVNQeURnYkhvcTUtOUZua3J3OVdNYUY1UFHSAfgBQVVfeXFMT3NlQXBYbmpLMGtHVjBsLWxtVFlFU3BMblZ5bUQ3VUVCNFFPaXJHSm94bGppc081dkpobVFjQjEyblZXYXY1NjNLekRoTjJKZF9lV282V2ZoSV9GdnJVM2lPZmhkZWlScExjYThYdWd5b2NKVFU0VEhFR0lURzJwaHY3bkR6ZW9hRWg2M01sdTk2b2hpZkZnSnJSRU90cHRDLWN5Ull0NG9hRC1GUjN0eEd6YW1TZE1fSHRGUnpVOGhDeWY1RkxTRWxvQzE3X0htRnJ2NHlYcTlZSjluLTRfQUVCWGcwMkR0ZnJIUDVnZHgwdGxDV1Bnbkk?oc=5>
 
-### 白宫国家经济委员会主任称其与特朗普会尊重沃什明天的决定_7x24快讯_新浪财经
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: cj.sina.cn
-- 时间: 2026-09-15 12:49
-- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE5QNFFOOVBNQmdud05ZMk9SYkJtUjRyM2txaGZ0bFh3ZzVhdlNiRGVxUGYtcGFlZE1weDMtMDNPVWkzOFBaT0x2ajAwVU1Hcmc?oc=5>
-
-### 美国法官阻止特朗普政府对外国学生和记者实施新规
+### 特朗普称俄乌同意互不攻击能源目标
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: IDNFinancials
-- 时间: 2026-09-15 13:30
-- 链接: <https://news.google.com/rss/articles/CBMi6wJBVV95cUxNbTdENlpCeERGUm9rcDZnRk5OU1VYR3RMVjhoc01JSzBhdFFIVDJoRm9TQ3JUS3NPankzRHJyamxKQ2NKaEJLY3h4VFAzelVrRFo3YWg2OU1CanV5VjJUSUFnY05LM0R1WEhRQ25JV2F6MGVzZ2J5ZlFXZi1MNWhNa19XSEdrbjE2Sm5hTGN1SmFrd0VTYXp5SHhfenZZMjNQbWVlQkNSYmhuaWpxSTZsWG01Wmc5Ukd3cXR2N0dTdWE2a2dtZjFtMWpsRzZ5Wk1GLVJWTy1YMFhTMHR6RERNWkRjdjNjRllidml4WmNzU3NBYlN4M2Rfc2dIR1d5Y2luZkNPYURfTERUQjZpOEJ3OU42SjUyUXV6TzhuMlZtZzRJNjRVX3puYjhlZ05rVlRUQVpabUhQaDI5UXgxQWhuUkcxcVN4RmFLaFU3c3FTaEFSSUtXaUJ0aEpuV25ha0VUaUU3c3dNQzJQdVE?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-09-15 16:33
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9WTWt0ZzluaUZnZ3VPbXowTUpwY0h1MEFoZWlKNmxBVDdIX3ZuZEw1MnZxbm9BSXVhRHBlSlMzWkhxbDdVYmEwdGF0X1JHRjNJWHh5SkphQzlKbFd0d2lVMHhtVjRnemZpbVQ5d3RsZzY2bTlWak5QUg?oc=5>
 
-### 黄仁勋峰会现场接到特朗普电话，当场打开免提：机器人不会接管世界
+### 俄富豪出资为特朗普长子办婚后派对：租私人岛屿、买单烟花秀；其曾获普京授勋、被乌克兰制裁；特朗普回应：这没什么大不了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-09-15 05:13
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1tZ0ZCSTFmenFUU3pVeFl3OHVIS0FaSXJZbDNNOUZ1dWROSjVXc3BBRzFpZkdIUGhqMnZ4S2liaUY4MWVZWnFPUEVGdW56dlZrSXBheWRuTEJESk5TV2R2ekh1dEZUdlFqOC1Rb2dVTWp6TWs?oc=5>
+- 场馆: thepaper.cn
+- 时间: 2026-09-15 10:39
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE55c3lTVFRFZ1NfUlRpdFlPaUt3eTZtR0lKd0hwemdEU05QdWNfcFNBbXZWMmI4TjQ1QlF2NXY0UXFZcFc2YmVHZ2x4cGtvakhhQno5SHVjLXVrWTFWMEE?oc=5>
 
-### 特朗普：将和习近平讨论几乎所有议题
+### 新闻分析丨特朗普访问爱尔兰 英国内外承压
 
 - 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-09-15 13:31
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE95NDhfVkNxR0lDNkdpVzlNS3R0VnQ3bWFwRTdMVWliYWdKRFRfNUNlNjZJaHl2WHkxN3RrMFB4WEpzX18tVnRESUZ3WDBrREpMTnlzd09JU05WdnJMSi1DSkRxT25uMFl2bmRDcHdJemVJeDB0WW5MUEk3MVBISHc?oc=5>
+
+### 特朗普“嘴炮”要成真？苏威北爱三地领导人聚首，商讨抱团“脱英”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-09-14 13:25
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE9RakN0OV84dUVGX0VOUm5RYXF2T2VpY3JCXzhOaGNnSmxITFpvaEtCenlFYXR1NUJsbnlhdVJUS2hBd25VUWRubnR0a1F3VE5HdkV4NXNTSDVFLUJwYkE?oc=5>
+
+### 特朗普称美国可能留在伊朗并“保留石油” 白宫尚未公布具体方案
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-14 06:22
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQTFwQW5Oa3pYaVRPbXI4V19IT1lBN25TN1NWRzJCcEdtRkJFNmxrQmpocnJ4Yl9POHNwUk91cjRhUzY4YTdueXR3QzM1X3hsZzIyeE9DOVRtVTk5SkVvT3BTZlY2dllPSE5RTHpPcFY2cHMzcUZJY0lldUhzRXFBYU9lTDhOZVBqY3hWTmNQUk9BenpWX1JKaWUxWjBMZGoxa0pBcWoyelNVTkNFQlo5VVNuZXA0UjI4eWlLaG5DVWpGajJid1pqbGNCODJDcUFQU2FmRmtaTlUyZVFPTE53?oc=5>
+
+### “白宫股神”炒股也失手？17只“特朗普概念股”14只翻车
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 金融界
+- 时间: 2026-09-15 08:12
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE1HbHJnQU5mNnUxYUxvYllqZHJEaEI2SzZKazZydHNnT0dMMFBJdlotUC03U19FQUhZaXlZRnFWWlJocDhxdVVZRHdrNmFmWWhIYWU3SjdpUjgtbUxkUGRYLVJ5cFlaaHJkNTh6b25WRi1IRnpL?oc=5>
+
+### 特朗普称最高法院邮寄选票裁决“对共和党是重大失利”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Sohu
+- 时间: 2026-09-15 14:42
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxOX3d2SGFnTEJMcDBKT2N4bFRrbU16Q3ltS1NBbGVpSkUyczZsNndXeVFVZnJoUktPaEJLZTRNaEcyR1NPZ1RqRGJ5a2NVWldUcDlpak1GMkRUUExKdlpKbThiMnFCRHprUVI4d08waTItSmtqZHltV21Yc0ZfQXZGemtKNzYxYzdLNkh6aA?oc=5>
+
+### 特朗普宣布赴深圳参加APEC会议 全球瞩目“特普会”可能性
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-09-15 14:51
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5wdjFsTlZmanFPUkhLcE5XQmpDaTJJNndWSkdrbEpncHpUNHJiVWs3b2ctTm1xMlVKVUdzZkxDdGJVRFhFeDNySjNLaVFKWUpBLWdtc1lFUVhLSWFwUFhtVTd6X2NEX2Jxd2R6VVM0dlI?oc=5>
+
+### “共和党赢 每人5000美金” 特朗普为何此时打出现金牌
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 21财经
+- 时间: 2026-09-15 15:07
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxQWEdhMVg1YTZMMjI4dEFraUJaNEwwSmgwZW1fcEhrX2RuZVZySDRES2twbmFIcmNxaHJ0S0lmLXZsZUNGOVpYMGNXdHNqLWc5V1EyazhDQ19fb3lsTnpwdDlVVFFRalZ6RGRmVVQwbnJRVVpzRzF3TTRmdWE4X1l3SGhvc1BybXBOa18zLQ?oc=5>
+
+### 共同社独家：倘若华盛顿新批对台军售，北京称习近平将暂不访美
+
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: RFI
-- 时间: 2026-09-14 12:57
-- 链接: <https://news.google.com/rss/articles/CBMioAJBVV95cUxPTmVPTUNOd0RnRTZ4MExPbHZVVzNRV2pjb0ZoUWhMVEpsNUwzaXk1YUh6c2JILXlUTk5NeVNiYVNhQVFneXhRLThJd2l0SVpRU2dyWHlwVkJPeEdlZC0ta3E2SURHTzJhYmJqWXV0YkkzbzAwMXp3Q3BadWtseG8xQWUxbGFjYnRhT04yTE00VzNMY3YxVzVUenRyZFVUVEwwcXBGRWgwZkhyQ29RTlBwZnNVU2NLZVBpY2ktMjJNLUlUVEZIc09mcGF1UkhvWHZWRkxMOUQ2WWprMy1FdFp2emk1YmVDbzV3X0pORVRyclEybDdJNk5CWmwtWkhDY3k3RWlSeVUtbjdXTGpVT1dibDlSLWs0ZHNvdGpOTGowV20?oc=5>
-
-### 德语媒体：习近平赢得了世界的心和脑
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: DW.com
-- 时间: 2026-09-15 02:16
-- 链接: <https://news.google.com/rss/articles/CBMiiAJBVV95cUxQRzBGSTVUejNheW9ha0h6cjctcWJKVS1ZdFFhc0cwQVNKaGxONURpSDNGbURhQmxXR0stcjZJMEYzTjB0eWxUSFFtRF9tMV83N1pXZDBOTEU0dXZ3LUZoei1JT0diczlnWXZ6amtwU2M4elN5Y0lsaHo1VG90NnJIUnF3dzl0QTVwRFItWUQ5cjRMSXJjTU4yNXVONWFrRHBiekFNM1RUYzRQcHZoUTJxZVR5VWpUNklyUGRRcldPYU5aT0hWU3Rtc0ZtbGVZdHFZYm5EZGdhVEtETEhPZ1RaMmFRdlJUSlk0YUdlTnl2ZFFuYllnRjMxRFgyQk1XdDk3NXFXRWxtZGLSAYgCQVVfeXFMTUNxa2RwbjJMN21FSTBPWWJEVzVxeTdIaEpzVlh6S05WRlZRMjJ6eFV5TkFiRWtFYUlwVWowaGlhQ2JHU1ZuOU5IcDJrZ1F3NEt2R25faWJ2Nm5VbnNMMmxENVZUN1hBR0tMbndmcVJTakVCTU9YU2ItRkhCV3VmeHlveGU3TWNCbkEtYkhiQzlVSXVIYXpTRUZyWC1mbng1Q25RRUtsWTJEVFZLUFVXanhJWVE4eFpWQnJWLU01QURmQl9tX0hkNGZUbjR4N3VDdjZKT0cwS3BmM2l0THJ5NGFaU3dsWWk3c3JFdjZ3TnlQLVRWWFdVU2w3NlRuYnRoaWlSN0xNREgt?oc=5>
-
-### 特朗普再谈美伊战事：或于美国中期选举后结束，能否兑现？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-13 23:02
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYjhCSzltVUx1QkEyY3liRFM0N0E0MTB4V2F0a2dhMkEzeEpUQldEUVBBWW1QX2oxMUtKbkFuRWdwcnlLblBmZTc4LTR3TXdNc2FsZFVBUWUxNUZ0V3AyeGFqbEJ5VFpLeW1GWUNtN3FyVm5EclNoaWtQXzBvR2pDcGlGMDFfamhTX1hVV1VEclZKS1FNSW4wRlR0bkEwd3VpRmRoQWIwVmwyYXpHekZYMVpMRFBVU3h1dWFNNTZEN3pCUGtQeXJYYjhXUTRYMFBK?oc=5>
-
-### 特朗普：“与我无关，都赖拜登”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-15 11:41
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5mX2UtYmQwaEdfeXA4LVlyY2lqNVJ0NV9DOUVRdWV2aHlQcGNySzQ4WElwNFd5UmJUbVpZOVBpai1UTHNyMkFYYU9GYzhIWHZLNnFPTDZWZXg2T1VjckhicFBRdlRPWnhUYjctWk1rdklYZHVyUThzMQ?oc=5>
-
-### 黄仁勋All-In峰会访谈：Trump来电称「末日论是骗局」，超级智能已经到来
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 36 Kr
-- 时间: 2026-09-14 19:06
-- 链接: <https://news.google.com/rss/articles/CBMiTkFVX3lxTE8wdDc0RDZrRVQwcTNHYnJxMjgwcEh2UlMycFZRNGJSUVFtU1E4T2Y1Z0hhRkEydGJNVDlCMEFqZDFjazJkclgzTGlWdFZ3QQ?oc=5>
-
-### 俄乌在Trump宣布“能源停火”后再度交锋- 阿视亚经济
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 아시아경제
-- 时间: 2026-09-15 09:28
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1uXzBrYk9aMWtjVG5FRy1CTkt1dVR4czBodk15anF3RHRnTGl1NnVsRDVYUFhQZDBnWnphTnk3anBPZDFnNWpsZjAydVVfUUo0WWdiNy1GdDV3TTNOeXNNd2hhQmQ?oc=5>
+- 时间: 2026-09-15 16:33
+- 链接: <https://news.google.com/rss/articles/CBMisANBVV95cUxNN0RVTXBua1RUUGllbUwtVFhwUHhxT3NBdkVaOFREeXZQWTF4Mkc2SnVJQ0VZenJvTGFNMWU5dWlkMFIxNmNTXy1jZy12RllKNTZkLVRCeE1CSkJpT1ZaTmItQVlxOU1zejQ4VnlUaWUzWHhxMW5MUVNQOUIyZUVuMWdFRFdCbjdIWmwwa0s3c1FEbHYxcmlhX1hZUnJUOGZDamFLZ3A1aGRwNkcwTkYtVlBWYWZWM195RHQ0elpLVl9uRUVRNWxxY0pGQkVIRFBKcExEdkh5UXRNcnJab0M5TzNNVk54VHpULUJFd3Bqb2Y1YlREUDlTYWl4REd6Y2E5ay1LXzFnWXZIOGUwMGlldDR6aVk3blg0TTU4WVRibjZ5TFc2OHRaOTRNRWd5RWVUTHc2QWF3UXdLQnk2em1jN2J1X3UtclFvNms1S3hhVnROU3R2cENFS2ZkUTZkaW5BU3VoOWQtMl90bkIwWTJNdVBINXM2S1VQRmQ1VTJnYmZLV3duTXU4MzBhUHplUXZVaGpXYUM5eFRQRHJXREVIVzRFTk9xMnVQaHo5dE9Pakk?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-15 17:52  (11 条)
+
+- **特朗普** | 在特朗普总统表示俄乌同意停止互袭能源设施第二天，两国发动了新袭击 <https://news.google.com/rss/articles/CBMi9gFBVV95cUxQRTdSdDkxalBTbEZSYVpWejgwdGVJQ2phdWhHOWRnNzM3Sm5IZThYbGg3MkQtVjBnTXpSaWFoUkFVblE4Z2p2NVc4dDRVRHJBZTNjX3RTQTgzaGo3M0tiNHZNbjNWZ0c2bzdUTFk5RHZqYXVhLVAtRHd4UHloVTFpcnZ6bmhYSVRJYjJzS0xtWm5ZWEJkal9VZmJCQk1hSE5aYmhwcU0wS19mQXFHVHBkS2VnRTdtR0NWclhpVU5pT3VVcjVWYVJjVTI0WXViMFVjQmUwYnhYTjQwM1Y5ZVNQeURnYkhvcTUtOUZua3J3OVdNYUY1UFHSAfgBQVVfeXFMT3NlQXBYbmpLMGtHVjBsLWxtVFlFU3BMblZ5bUQ3VUVCNFFPaXJHSm94bGppc081dkpobVFjQjEyblZXYXY1NjNLekRoTjJKZF9lV282V2ZoSV9GdnJVM2lPZmhkZWlScExjYThYdWd5b2NKVFU0VEhFR0lURzJwaHY3bkR6ZW9hRWg2M01sdTk2b2hpZkZnSnJSRU90cHRDLWN5Ull0NG9hRC1GUjN0eEd6YW1TZE1fSHRGUnpVOGhDeWY1RkxTRWxvQzE3X0htRnJ2NHlYcTlZSjluLTRfQUVCWGcwMkR0ZnJIUDVnZHgwdGxDV1Bnbkk?oc=5>
+- **特朗普** | 特朗普称俄乌同意互不攻击能源目标 <https://news.google.com/rss/articles/CBMieEFVX3lxTE9WTWt0ZzluaUZnZ3VPbXowTUpwY0h1MEFoZWlKNmxBVDdIX3ZuZEw1MnZxbm9BSXVhRHBlSlMzWkhxbDdVYmEwdGF0X1JHRjNJWHh5SkphQzlKbFd0d2lVMHhtVjRnemZpbVQ5d3RsZzY2bTlWak5QUg?oc=5>
+- **特朗普** | 俄富豪出资为特朗普长子办婚后派对：租私人岛屿、买单烟花秀；其曾获普京授勋、被乌克兰制裁；特朗普回应：这没什么大不了 <https://news.google.com/rss/articles/CBMiXkFVX3lxTE55c3lTVFRFZ1NfUlRpdFlPaUt3eTZtR0lKd0hwemdEU05QdWNfcFNBbXZWMmI4TjQ1QlF2NXY0UXFZcFc2YmVHZ2x4cGtvakhhQno5SHVjLXVrWTFWMEE?oc=5>
+- **特朗普** | 新闻分析丨特朗普访问爱尔兰 英国内外承压 <https://news.google.com/rss/articles/CBMif0FVX3lxTE95NDhfVkNxR0lDNkdpVzlNS3R0VnQ3bWFwRTdMVWliYWdKRFRfNUNlNjZJaHl2WHkxN3RrMFB4WEpzX18tVnRESUZ3WDBrREpMTnlzd09JU05WdnJMSi1DSkRxT25uMFl2bmRDcHdJemVJeDB0WW5MUEk3MVBISHc?oc=5>
+- **特朗普** | 特朗普“嘴炮”要成真？苏威北爱三地领导人聚首，商讨抱团“脱英” <https://news.google.com/rss/articles/CBMiXkFVX3lxTE9RakN0OV84dUVGX0VOUm5RYXF2T2VpY3JCXzhOaGNnSmxITFpvaEtCenlFYXR1NUJsbnlhdVJUS2hBd25VUWRubnR0a1F3VE5HdkV4NXNTSDVFLUJwYkE?oc=5>
+- **特朗普** | 特朗普称美国可能留在伊朗并“保留石油” 白宫尚未公布具体方案 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQTFwQW5Oa3pYaVRPbXI4V19IT1lBN25TN1NWRzJCcEdtRkJFNmxrQmpocnJ4Yl9POHNwUk91cjRhUzY4YTdueXR3QzM1X3hsZzIyeE9DOVRtVTk5SkVvT3BTZlY2dllPSE5RTHpPcFY2cHMzcUZJY0lldUhzRXFBYU9lTDhOZVBqY3hWTmNQUk9BenpWX1JKaWUxWjBMZGoxa0pBcWoyelNVTkNFQlo5VVNuZXA0UjI4eWlLaG5DVWpGajJid1pqbGNCODJDcUFQU2FmRmtaTlUyZVFPTE53?oc=5>
+- **特朗普** | “白宫股神”炒股也失手？17只“特朗普概念股”14只翻车 <https://news.google.com/rss/articles/CBMidEFVX3lxTE1HbHJnQU5mNnUxYUxvYllqZHJEaEI2SzZKazZydHNnT0dMMFBJdlotUC03U19FQUhZaXlZRnFWWlJocDhxdVVZRHdrNmFmWWhIYWU3SjdpUjgtbUxkUGRYLVJ5cFlaaHJkNTh6b25WRi1IRnpL?oc=5>
+- **特朗普** | 特朗普称最高法院邮寄选票裁决“对共和党是重大失利” <https://news.google.com/rss/articles/CBMijAFBVV95cUxOX3d2SGFnTEJMcDBKT2N4bFRrbU16Q3ltS1NBbGVpSkUyczZsNndXeVFVZnJoUktPaEJLZTRNaEcyR1NPZ1RqRGJ5a2NVWldUcDlpak1GMkRUUExKdlpKbThiMnFCRHprUVI4d08waTItSmtqZHltV21Yc0ZfQXZGemtKNzYxYzdLNkh6aA?oc=5>
+- **特朗普** | 特朗普宣布赴深圳参加APEC会议 全球瞩目“特普会”可能性 <https://news.google.com/rss/articles/CBMicEFVX3lxTE5wdjFsTlZmanFPUkhLcE5XQmpDaTJJNndWSkdrbEpncHpUNHJiVWs3b2ctTm1xMlVKVUdzZkxDdGJVRFhFeDNySjNLaVFKWUpBLWdtc1lFUVhLSWFwUFhtVTd6X2NEX2Jxd2R6VVM0dlI?oc=5>
+- **特朗普** | “共和党赢 每人5000美金” 特朗普为何此时打出现金牌 <https://news.google.com/rss/articles/CBMijAFBVV95cUxQWEdhMVg1YTZMMjI4dEFraUJaNEwwSmgwZW1fcEhrX2RuZVZySDRES2twbmFIcmNxaHJ0S0lmLXZsZUNGOVpYMGNXdHNqLWc5V1EyazhDQ19fb3lsTnpwdDlVVFFRalZ6RGRmVVQwbnJRVVpzRzF3TTRmdWE4X1l3SGhvc1BybXBOa18zLQ?oc=5>
+- **Trump** | 共同社独家：倘若华盛顿新批对台军售，北京称习近平将暂不访美 <https://news.google.com/rss/articles/CBMisANBVV95cUxNN0RVTXBua1RUUGllbUwtVFhwUHhxT3NBdkVaOFREeXZQWTF4Mkc2SnVJQ0VZenJvTGFNMWU5dWlkMFIxNmNTXy1jZy12RllKNTZkLVRCeE1CSkJpT1ZaTmItQVlxOU1zejQ4VnlUaWUzWHhxMW5MUVNQOUIyZUVuMWdFRFdCbjdIWmwwa0s3c1FEbHYxcmlhX1hZUnJUOGZDamFLZ3A1aGRwNkcwTkYtVlBWYWZWM195RHQ0elpLVl9uRUVRNWxxY0pGQkVIRFBKcExEdkh5UXRNcnJab0M5TzNNVk54VHpULUJFd3Bqb2Y1YlREUDlTYWl4REd6Y2E5ay1LXzFnWXZIOGUwMGlldDR6aVk3blg0TTU4WVRibjZ5TFc2OHRaOTRNRWd5RWVUTHc2QWF3UXdLQnk2em1jN2J1X3UtclFvNms1S3hhVnROU3R2cENFS2ZkUTZkaW5BU3VoOWQtMl90bkIwWTJNdVBINXM2S1VQRmQ1VTJnYmZLV3duTXU4MzBhUHplUXZVaGpXYUM5eFRQRHJXREVIVzRFTk9xMnVQaHo5dE9Pakk?oc=5>
 
 ### 2026-09-15 13:44  (13 条)
 
