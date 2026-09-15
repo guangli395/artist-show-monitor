@@ -1,150 +1,170 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-15 02:55**
-- 本轮扫到 11759 条, 新增 **18** 条
+- 最近更新: **2026-09-15 08:17**
+- 本轮扫到 11776 条, 新增 **17** 条
 
 ---
 
-## 本轮新发现 (18 条)
+## 本轮新发现 (17 条)
 
-### 狗仔阳阳回应王一博蓝芩事件，称有风险未发布
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2159714367_m80baa03f033017q0u.html>
-
-### 王一博出道十二周年大片发布
+### 王一博蓝芩喉糖代言陷质疑，品牌发布澄清声明并报警
 
 - 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6357812901_17af486a504002uclc.html>
+- 链接: <https://k.sina.com.cn/article_1288429914_m4ccbe15a03301alwk.html>
 
-### 蓝芩品牌发布澄清声明并报警
+### 特朗普急了，大会现场连线黄仁勋：斥责AI危险论是骗局
 
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1718259005_m666a8d3d03301dxwg.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网科技
+- 时间: 2026-09-14 22:42
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1DQU4zdmtidjFxakdvdUpuZUlJZGVtVW9vTDVRM1NWU09tcG9BTmVPVlZzcHRES0ZiVThGeU0xTEMtQ3p4R1BMNVNPcnk?oc=5>
 
-### 周杰伦新歌MV上线，海风街道暗藏火药味道
+### “白宫股神”炒股也失手？17只“特朗普概念股”14只翻车
 
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924061_m1d5ae195d03301kmdo.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: finance.sina.com.cn
+- 时间: 2026-09-15 08:07
+- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxQY0l6eHU0UkdRUXlwU09ZcVB3WG9vNkdmVk43SUN0ZnVuakQwVThQNlFuM3VFSnhXNXZvV3BrVFkxNVBVNno2aURjaGVSU0dWV1RMaE45aXpTVTlWYldrOHIyYmk0dklseGJHcHdUbFJVc2lkSWRKRUIyWklSQXktbkw1emM4ZFNZcmU0eTR2bC04MjFX?oc=5>
 
-### 周杰伦新专辑歌曲《西西里》MV正式发布
+### 特朗普刚否认，美国军方承认了
 
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924060_m1d5ae195c0330240ls.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: finance.sina.com.cn
+- 时间: 2026-09-15 07:24
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9hWWhxcmVONGFodVltNkVQOHB5eWFzZ3VQam84NnBpUVE5Zm0teS1ubjJRc0ZhdXNYay1NYjRjZWc1c25sSzBKaHQyemVGTzlJTkNVc3UzOTdBX1pSWVpmLUI1OW9MWU1GU3VKa2ZBQkVWdy1Od01VQQ?oc=5>
 
-### 俄商人出资办儿子婚礼？特朗普：没什么大不了
+### 俄罗斯商人出资办儿子婚礼？特朗普：没什么大不了，只是个婚后派对
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者网
+- 时间: 2026-09-14 23:58
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE9SMzVibUctelRkVzc4TmlyQjdYeWtoRk1vZkxvMnZjMld0S0dMbEJYMGk2cFp6Q1ZXRHExYWpPdTNTeXgyNHYxR3poRXQ4LVdWY3JTUlJ2YkRqRlZVQkk3Z3hPQlNvaW9kMzloMjhUR0hiQ0U?oc=5>
+
+### 起底特朗普长子婚后派对金主：获普京授勋的俄罗斯拳协掌门人
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-09-15 01:33
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE13OG03RFFzb1NmSmlUcTl1MkJ2ZlRxZnNQT3hxTlA1c1RqaDhpSzZXdnptcHUxckFxSWpPMk52NGRjY3gzai1JdnE3b1c?oc=5>
+- 时间: 2026-09-15 04:31
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ZNFNGUWdibXI0ZnNMR1JXd3Z1UXk2TmFObVRsM3ZCNmtOOFFFYnVvZnhwQzZvZk1VdEktaXRiTUloQ2tCWkdMVHZQNl8?oc=5>
 
-### 特朗普称愿与伊朗谈判，提出美国要收“护航补偿”
+### 俄富商被曝为小特朗普婚礼庆功派对买单 引发伦理争议
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-09-15 06:20
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE82MjJxVUhuamRjMkpjNm5aakZZMDlZTkNNQTBLVWpfRTNQd1VIRGpQdEhfRVZkYkl2MGYwd0J6c1FsV1RKLTFNSExJV1psMk5LdHNJQUxVUEg2QmpxcGRya0xLbWJKRl9SQXpaMWVhRXU?oc=5>
+
+### 特朗普称愿与伊朗谈判 提出美方要收“护航补偿”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 东方财富
+- 时间: 2026-09-15 02:51
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5makhZcVdpZzZ1SW1ONTlzQ3ZWeGY2TE1LazItZzRpd2lMTlo3eV85YV9mQmt3Y1BMX3pVLWw1aHdwNEdzQU1ENjg1RDFJcTZRTWdvaE5zZDlKcVBNNm5TMQ?oc=5>
+
+### 特朗普称愿与伊朗谈判 提出美方要收“护航补偿”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-09-14 21:01
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE5EWDZJbTdmSDQ2NjZHYUQxSzVSeXdCcGJXNmpQeUpyYTNSSGt2SzdLaVA4TjBUVXpjNkJhRHJ3dVVHcWR2NFgweTdESDNkS1pRUlpWTGFYeXRRUXNPT2RKLUE4THJzS2szeFc2bno1SHJaWkFQYzY1Tl9aWUpaY0k?oc=5>
+
+### 沃什上任后首次加息在即：特朗普与美联储的“休战”要撑不住了？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-15 03:03
+- 链接: <https://news.google.com/rss/articles/CBMipwFBVV95cUxQM1luWlNkdl8yM2dqMTBPOXhHd2ZFckJqU05uQmlxMUY0dkYwMS14WTZhVG9IRGxhZDVrVmUyaDZVZHNHSmlxcXVRNkZac3lTZ2VtazVHMnNSaWxsdlJldTZNODhTYnJBZnpqendhVFF2djZxZmJnMUpmNlYwSzlIMml4ckdIYVpaRFlmWEN4ZTBGeGJsa05uaWZONEZYUkxYa0FHVVY0Yw?oc=5>
+
+### “新美联储通讯社”：沃什加息“没有退路”，特朗普“信任”面临考验
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 华尔街见闻
-- 时间: 2026-09-14 20:52
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5oYWI0ZWlMS3hURl9HMDZxN1liYUVmS0NKQW56YkQ3YUlLUHdldjIzZ1hvM3pYbGVQNm1jOV92VWdZaVpNZ2Z2akdTMm81bjJWZ0d3?oc=5>
+- 时间: 2026-09-15 03:02
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBZRWlNV0ZsQk1ndlI2ZFlCN1RoclEtTXNXdzJMcFUxOWFWb3BGeHRBRU1sX0ZrSFVuREV6VUZWRkdRZVNxcDF5a2FRazhMWlN0SFdz?oc=5>
 
-### 特朗普政府已对高油价无计可施？美内政部长：禁止出口也没用了
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-09-15 01:30
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxNNk9Ga0JNbWJQOHRRRlgwVkxBdWRiM1Y1Y3JIYWV4QVBlR3l2WGo3eUY5eGUtLWtJcjlDN2FtWl9waDZBLXdOMjVyclVndmZWSmhkODZDSGVQVFcxQUQzLWdlVlRmRXEwVEZta045NERyQTdFcGpQSVp5elFnMF9RdWd5UTV3Nkdrd2tQeXQyNVdFTVZHWUYzNA?oc=5>
-
-### 特朗普掏出史诗级不平等条约，签了等于卖身100年！
+### 特朗普对美国总统“从夯到拉”排名：为何这几个民主党总统位居前列？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 风闻
-- 时间: 2026-09-13 19:14
-- 链接: <https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxTk5yWlVBdGFDMUVXbGJoZFJjMFAwODVETTNIN3M0cFh3LVZWTkRsLS1QOHZ5bXU0VldZdk9oQnlfNV9Gdkk4clF1R2tBVjNjQkp6Z3RWdmdiNnM?oc=5>
+- 场馆: thepaper.cn
+- 时间: 2026-09-15 01:27
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wVUotQU9wMTA4TGlkM2dhNnh6OUhmOUZzWkZ6VHZPdkhIU1NBUzdnV2JxX3k4aU4yU19GQkNPX2JGa0FGMlk1UGFzeDcwaWFTUzZEaVUzM2hQdUx5UTBwRA?oc=5>
 
-### 特朗普疯狂营业拉选票，却被嫌弃称“政坛最大负资产”
+### 伊朗多次袭击、美国不愿介入：沙特面临“最坏情况”
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 纽约时报中文网
+- 时间: 2026-09-15 03:47
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5FVDFxQ01CaDNEQW5BSTZPUnZtdmlVbmlSaHdSMUhYYzFPaFRGcGhIakdibEpteXI3b0dDcWpuRFlFZ3g2S0lPR2oxYjJpTF9JdjctcEFDU0hvQ2M0NFFJVFZjcWxDM280OTVlNmhmUzZlUE5DZE40Zw?oc=5>
+
+### 黄仁勋All-In峰会访谈：Trump来电称「末日论是骗局」，超级智能已经到来
+
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: Sohu
-- 时间: 2026-09-15 01:51
-- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOEV5WEo0N2FwUkdvamJVZndDVlRiaWlkZUkydlMyYUcyaUluMC1OdllXdV9XcFhCUENqT1JVUnE3U19DQ280bFJhbzhDRjdvQXhMRkpBeE1aeXB5RDZEU3BiMWhxYzlCZFY4RjBSQTFlOW9ud0FudHAwU0wyM2xSc29WNXVkSWZu?oc=5>
+- 时间: 2026-09-15 04:37
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxONXhKa2NJSG9KRW9SeDBOZVZWcG5wSm9pa2RKRENkSkJ0ZXQwWE9ReGItamdWUWhhd2NKX19MMkJrMnFURmh0VTBzOFBqUVA1dnp1UDg5Rk13eXhoeFIxZEtHUGhEV2FwT0hvc3ZTTnpnajJqSjZoLXNLM1pWYV9WTlBOaGV4NWpYbGlmeA?oc=5>
 
-### 中期选举临近，美国最高法院驳回特朗普关于限制邮寄选票的上诉
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 环球网
-- 时间: 2026-09-14 10:43
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ZT3ZIeVJiNTJ0LXlQbzc0aGZkSVhlVTduVGYxTm5jZ2RUaWlTTkRVZ0FscF9qbEFVbjUzbDBVVlM5SmRaZF9MQXQxRUpuN0o4QWkyM3NBTTU?oc=5>
-
-### 特朗普支持率微幅反弹 难挡民主党扩大领先优势
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-09-14 23:06
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5DTmlXQjZBWmtTN2x2ZUt6MmZtRVkxeFFWSlN0S0s4NWswbmdaT2kzUHNvYmt6alZwRkh4LVNYQnRBUmRCMjVUYkJYWHFtaTdRVWhrRkRIMWloMXFZOEpKRFBZNkZfdw?oc=5>
-
-### 特朗普支持率回升 民主党中期选举支持度扩大领先
+### Trump Says AI Doesn't Need More Guardrails Despite Industry Warnings
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 8world.com
-- 时间: 2026-09-15 01:34
-- 链接: <https://news.google.com/rss/articles/CBMipwFBVV95cUxOLWYtUnNmc0lfUmxIcFFPVXJVYVg2OVNZXzhVVFVsTDd5MWlUVkc2THMzMnRwNE9BV0RkdUk1TlFPQWp1TDFvMV9QOU8wTDktbXhPTEpKYzZJSkItN0F4LXNwczJRNENpSW5KM1d0OFZEWWQ5cFg0MmVaZGVGZ21Qc2ZYU1VOdFVsSHJMUVRKVW0yZFFWZGNkZTJ3dWNRYmNqbkdzeFJuaw?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-09-15 01:49
+- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxOLTcyTFFtc09pZy1CTjNCd1cwcjVJcmdEcTNkVDNyRFVXOWVxVDAwaEJ1RmRxSk9hRklDM3hHLVhVVWJOdXZRMi1JVjdWN2F4RWY0WnRXcEtVS255blRRbUN3N1NyQW5MakJpRElIWjVJMUdiN3RVQXM2ZE9Jbl9hVDB2RWNRWlZIMTBJWmxHLVRSSzJNMFBhTWNUa2l1SmVrTmxzMXBMdXAtdw?oc=5>
 
-### Trump：“AI监管是阴谋”……中期选举临近，“AI战争”加剧
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 아시아경제
-- 时间: 2026-09-14 22:44
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGeHJOQzdaX0hJeVNadmxWUWZ6NUVhclQzUmZ1XzRuMnlNQnhVRlh5MEQtMG01LVRHUzBLb1NhcE1Ta05oYWhfYjVTdFBjaWNaV05pRlp4bGlTRzNXRmFGLTRCVEw?oc=5>
-
-### 【聚焦美国】特朗普称人工智能可能毁灭人类的担忧为骗局
+### 特朗普驳斥Anthropic与OpenAI因“中国风险”呼吁放缓AI发展
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: SBS
-- 时间: 2026-09-15 01:47
-- 链接: <https://news.google.com/rss/articles/CBMiogFBVV95cUxNcnNlcHB0bTlmMW4zcElfQmVBWWlsSVlocmlyWFJXYlA5b2RJX21zSWJGa3ZMSVZNbXVJcUtrV2FuWGNJam1ITW1rdE5BQ2JiN04ybHhoVVNfMlVIQjh5Q1lVUk83WXJRazI4Wm5ad1ZwQmVFTDJaWTlBUV9DbmhWeGRkNzN5ejdZbEM2TGpzdVdNTGJpNUdEUFFfeTBncFpfNWc?oc=5>
+- 场馆: Yellow.com
+- 时间: 2026-09-15 07:23
+- 链接: <https://news.google.com/rss/articles/CBMiuwJBVV95cUxOUzFvVGVQUC14dGFyWTlNRzZZajctSFJQcE56eTRIRUR0bzcxaVJobURmQWx5TGtGMjVwVnB3YTRkelFfNGtkbEtyWWw5blpHNE56SVlNX2pzREx3a2FqajVrSEZqNnA5NC14MDZfNTI4anFqclB2dWlpRzZ6TmVXdkxnMFUzSWdwUmZyVUpTajV0UENZazRqMXBIdUF0LWRSdWJ0aFNUT3BLaTlrM2xoSDNmanpiSm5NS1BQaXVDMUpxNTQ1SjRQeVpPOGM4QnpBMUVJQnZiLTNVRkFNbEJuVk9aSzlhZXB6OWVQSV8wU1RUS1NKUDRmQVlScWl2NkdMV280d0pYeUtCQU45MXJzWjFIRjhsSWN2azZXNU14LWxZcXFDT1RldkNYMGN0bjdCbkh2eXAza0VUN0U?oc=5>
 
-### 川普演讲自爆家事 笑谈长子再婚后“变了一个人”
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 文学城
-- 时间: 2026-09-14 20:41
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBJbnBSd2cza3NRODJ3VDMtNWtiSUZQc3ZVUmlZOGUzUmM2WVlNQmx0Vl9jMWZmM0dLTVNCamd4WDJJTEsxQlJ0UHF1Mmo4b0ZGU2o5dkUtM2x5OGt4eVhUenNaVHNzVktU?oc=5>
-
-### 特朗普批评人工智能威胁论是“骗局”
+### 习近平访美：美国推动AI安全护栏北京能否回应– 普通话主页
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 8world.com
-- 时间: 2026-09-15 00:12
-- 链接: <https://news.google.com/rss/articles/CBMipwFBVV95cUxQUE9PMUZyZU5tdk1pUjlKbEtnVHJDSl9kbGNRMDNKSHJHWTVRT0xRRXpjNWE1cnphYmJwWlVpZlhmd25NQW91SUZ6MnFUQlNmZWM4MVNXd0lyQjR4azhJNUZPUG9YSEhZb0VIOXpwMllkOENlZE41X3JyaUZBOEtMQlhxNXZHcC1UUExzTzNSSWFpQnZ0dUJoUDR3Y3NpaTRxdFNCbm5Mcw?oc=5>
-
-### Trump移民限制接连受阻：留学生规定被叫停，绿卡政策遭起诉- 阿视亚经济
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 아시아경제
-- 时间: 2026-09-15 01:43
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sWjRTWnRqMlZ2YVp2YVhBOGh4MnZEOElBa3BCMGNRb0Y5ZGNPWFBlVEhOa1IycnVybWFMQlVWTnE4QUswSG9TeS1EYS1mLU9PWl82Yk1SNWpabF9DVWNiQ1AtMVI?oc=5>
+- 场馆: Radio Free Asia
+- 时间: 2026-09-15 08:04
+- 链接: <https://news.google.com/rss/articles/CBMivAFBVV95cUxNUWNNWTQzQlpaSmZZaksySFNvZ0FyYUg4N1BxdzVEampFX3FkU3JxTWpyeEFGVVNBejl0SGQ1Vlh1TW1oc21wbWJuYll5WFhoVGxLR0hEMGdkbEpzZFc1ZlJVWlY1dzdsZi1nNTE1S3ViNzdCeW56Vy11ZmwxcnFxWUFhSkc0d0ktZjluc3hvdHNGTEJEYU1idTEzU3NnNFBKanhhQTFDcnJ3cXU3U1VTRUp2Nmw0bWp2bGhZMA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-15 08:17  (17 条)
+
+- **王一博** | 王一博蓝芩喉糖代言陷质疑，品牌发布澄清声明并报警 <https://k.sina.com.cn/article_1288429914_m4ccbe15a03301alwk.html>
+- **特朗普** | 特朗普急了，大会现场连线黄仁勋：斥责AI危险论是骗局 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1DQU4zdmtidjFxakdvdUpuZUlJZGVtVW9vTDVRM1NWU09tcG9BTmVPVlZzcHRES0ZiVThGeU0xTEMtQ3p4R1BMNVNPcnk?oc=5>
+- **特朗普** | “白宫股神”炒股也失手？17只“特朗普概念股”14只翻车 <https://news.google.com/rss/articles/CBMilAFBVV95cUxQY0l6eHU0UkdRUXlwU09ZcVB3WG9vNkdmVk43SUN0ZnVuakQwVThQNlFuM3VFSnhXNXZvV3BrVFkxNVBVNno2aURjaGVSU0dWV1RMaE45aXpTVTlWYldrOHIyYmk0dklseGJHcHdUbFJVc2lkSWRKRUIyWklSQXktbkw1emM4ZFNZcmU0eTR2bC04MjFX?oc=5>
+- **特朗普** | 特朗普刚否认，美国军方承认了 <https://news.google.com/rss/articles/CBMieEFVX3lxTE9hWWhxcmVONGFodVltNkVQOHB5eWFzZ3VQam84NnBpUVE5Zm0teS1ubjJRc0ZhdXNYay1NYjRjZWc1c25sSzBKaHQyemVGTzlJTkNVc3UzOTdBX1pSWVpmLUI1OW9MWU1GU3VKa2ZBQkVWdy1Od01VQQ?oc=5>
+- **特朗普** | 俄罗斯商人出资办儿子婚礼？特朗普：没什么大不了，只是个婚后派对 <https://news.google.com/rss/articles/CBMic0FVX3lxTE9SMzVibUctelRkVzc4TmlyQjdYeWtoRk1vZkxvMnZjMld0S0dMbEJYMGk2cFp6Q1ZXRHExYWpPdTNTeXgyNHYxR3poRXQ4LVdWY3JTUlJ2YkRqRlZVQkk3Z3hPQlNvaW9kMzloMjhUR0hiQ0U?oc=5>
+- **特朗普** | 起底特朗普长子婚后派对金主：获普京授勋的俄罗斯拳协掌门人 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ZNFNGUWdibXI0ZnNMR1JXd3Z1UXk2TmFObVRsM3ZCNmtOOFFFYnVvZnhwQzZvZk1VdEktaXRiTUloQ2tCWkdMVHZQNl8?oc=5>
+- **特朗普** | 俄富商被曝为小特朗普婚礼庆功派对买单 引发伦理争议 <https://news.google.com/rss/articles/CBMicEFVX3lxTE82MjJxVUhuamRjMkpjNm5aakZZMDlZTkNNQTBLVWpfRTNQd1VIRGpQdEhfRVZkYkl2MGYwd0J6c1FsV1RKLTFNSExJV1psMk5LdHNJQUxVUEg2QmpxcGRya0xLbWJKRl9SQXpaMWVhRXU?oc=5>
+- **特朗普** | 特朗普称愿与伊朗谈判 提出美方要收“护航补偿” <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5makhZcVdpZzZ1SW1ONTlzQ3ZWeGY2TE1LazItZzRpd2lMTlo3eV85YV9mQmt3Y1BMX3pVLWw1aHdwNEdzQU1ENjg1RDFJcTZRTWdvaE5zZDlKcVBNNm5TMQ?oc=5>
+- **特朗普** | 特朗普称愿与伊朗谈判 提出美方要收“护航补偿” <https://news.google.com/rss/articles/CBMif0FVX3lxTE5EWDZJbTdmSDQ2NjZHYUQxSzVSeXdCcGJXNmpQeUpyYTNSSGt2SzdLaVA4TjBUVXpjNkJhRHJ3dVVHcWR2NFgweTdESDNkS1pRUlpWTGFYeXRRUXNPT2RKLUE4THJzS2szeFc2bno1SHJaWkFQYzY1Tl9aWUpaY0k?oc=5>
+- **特朗普** | 沃什上任后首次加息在即：特朗普与美联储的“休战”要撑不住了？ <https://news.google.com/rss/articles/CBMipwFBVV95cUxQM1luWlNkdl8yM2dqMTBPOXhHd2ZFckJqU05uQmlxMUY0dkYwMS14WTZhVG9IRGxhZDVrVmUyaDZVZHNHSmlxcXVRNkZac3lTZ2VtazVHMnNSaWxsdlJldTZNODhTYnJBZnpqendhVFF2djZxZmJnMUpmNlYwSzlIMml4ckdIYVpaRFlmWEN4ZTBGeGJsa05uaWZONEZYUkxYa0FHVVY0Yw?oc=5>
+- **特朗普** | “新美联储通讯社”：沃什加息“没有退路”，特朗普“信任”面临考验 <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBZRWlNV0ZsQk1ndlI2ZFlCN1RoclEtTXNXdzJMcFUxOWFWb3BGeHRBRU1sX0ZrSFVuREV6VUZWRkdRZVNxcDF5a2FRazhMWlN0SFdz?oc=5>
+- **特朗普** | 特朗普对美国总统“从夯到拉”排名：为何这几个民主党总统位居前列？ <https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wVUotQU9wMTA4TGlkM2dhNnh6OUhmOUZzWkZ6VHZPdkhIU1NBUzdnV2JxX3k4aU4yU19GQkNPX2JGa0FGMlk1UGFzeDcwaWFTUzZEaVUzM2hQdUx5UTBwRA?oc=5>
+- **Trump** | 伊朗多次袭击、美国不愿介入：沙特面临“最坏情况” <https://news.google.com/rss/articles/CBMieEFVX3lxTE5FVDFxQ01CaDNEQW5BSTZPUnZtdmlVbmlSaHdSMUhYYzFPaFRGcGhIakdibEpteXI3b0dDcWpuRFlFZ3g2S0lPR2oxYjJpTF9JdjctcEFDU0hvQ2M0NFFJVFZjcWxDM280OTVlNmhmUzZlUE5DZE40Zw?oc=5>
+- **Trump** | 黄仁勋All-In峰会访谈：Trump来电称「末日论是骗局」，超级智能已经到来 <https://news.google.com/rss/articles/CBMijAFBVV95cUxONXhKa2NJSG9KRW9SeDBOZVZWcG5wSm9pa2RKRENkSkJ0ZXQwWE9ReGItamdWUWhhd2NKX19MMkJrMnFURmh0VTBzOFBqUVA1dnp1UDg5Rk13eXhoeFIxZEtHUGhEV2FwT0hvc3ZTTnpnajJqSjZoLXNLM1pWYV9WTlBOaGV4NWpYbGlmeA?oc=5>
+- **Trump** | Trump Says AI Doesn't Need More Guardrails Despite Industry Warnings <https://news.google.com/rss/articles/CBMiqgFBVV95cUxOLTcyTFFtc09pZy1CTjNCd1cwcjVJcmdEcTNkVDNyRFVXOWVxVDAwaEJ1RmRxSk9hRklDM3hHLVhVVWJOdXZRMi1JVjdWN2F4RWY0WnRXcEtVS255blRRbUN3N1NyQW5MakJpRElIWjVJMUdiN3RVQXM2ZE9Jbl9hVDB2RWNRWlZIMTBJWmxHLVRSSzJNMFBhTWNUa2l1SmVrTmxzMXBMdXAtdw?oc=5>
+- **Trump** | 特朗普驳斥Anthropic与OpenAI因“中国风险”呼吁放缓AI发展 <https://news.google.com/rss/articles/CBMiuwJBVV95cUxOUzFvVGVQUC14dGFyWTlNRzZZajctSFJQcE56eTRIRUR0bzcxaVJobURmQWx5TGtGMjVwVnB3YTRkelFfNGtkbEtyWWw5blpHNE56SVlNX2pzREx3a2FqajVrSEZqNnA5NC14MDZfNTI4anFqclB2dWlpRzZ6TmVXdkxnMFUzSWdwUmZyVUpTajV0UENZazRqMXBIdUF0LWRSdWJ0aFNUT3BLaTlrM2xoSDNmanpiSm5NS1BQaXVDMUpxNTQ1SjRQeVpPOGM4QnpBMUVJQnZiLTNVRkFNbEJuVk9aSzlhZXB6OWVQSV8wU1RUS1NKUDRmQVlScWl2NkdMV280d0pYeUtCQU45MXJzWjFIRjhsSWN2azZXNU14LWxZcXFDT1RldkNYMGN0bjdCbkh2eXAza0VUN0U?oc=5>
+- **Trump** | 习近平访美：美国推动AI安全护栏北京能否回应– 普通话主页 <https://news.google.com/rss/articles/CBMivAFBVV95cUxNUWNNWTQzQlpaSmZZaksySFNvZ0FyYUg4N1BxdzVEampFX3FkU3JxTWpyeEFGVVNBejl0SGQ1Vlh1TW1oc21wbWJuYll5WFhoVGxLR0hEMGdkbEpzZFc1ZlJVWlY1dzdsZi1nNTE1S3ViNzdCeW56Vy11ZmwxcnFxWUFhSkc0d0ktZjluc3hvdHNGTEJEYU1idTEzU3NnNFBKanhhQTFDcnJ3cXU3U1VTRUp2Nmw0bWp2bGhZMA?oc=5>
 
 ### 2026-09-15 02:55  (18 条)
 
