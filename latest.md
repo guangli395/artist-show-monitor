@@ -1,104 +1,100 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-15 17:52**
-- 本轮扫到 11800 条, 新增 **11** 条
+- 最近更新: **2026-09-15 20:45**
+- 本轮扫到 11809 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (11 条)
+## 本轮新发现 (9 条)
 
-### 在特朗普总统表示俄乌同意停止互袭能源设施第二天，两国发动了新袭击
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-09-15 17:18
-- 链接: <https://news.google.com/rss/articles/CBMi9gFBVV95cUxQRTdSdDkxalBTbEZSYVpWejgwdGVJQ2phdWhHOWRnNzM3Sm5IZThYbGg3MkQtVjBnTXpSaWFoUkFVblE4Z2p2NVc4dDRVRHJBZTNjX3RTQTgzaGo3M0tiNHZNbjNWZ0c2bzdUTFk5RHZqYXVhLVAtRHd4UHloVTFpcnZ6bmhYSVRJYjJzS0xtWm5ZWEJkal9VZmJCQk1hSE5aYmhwcU0wS19mQXFHVHBkS2VnRTdtR0NWclhpVU5pT3VVcjVWYVJjVTI0WXViMFVjQmUwYnhYTjQwM1Y5ZVNQeURnYkhvcTUtOUZua3J3OVdNYUY1UFHSAfgBQVVfeXFMT3NlQXBYbmpLMGtHVjBsLWxtVFlFU3BMblZ5bUQ3VUVCNFFPaXJHSm94bGppc081dkpobVFjQjEyblZXYXY1NjNLekRoTjJKZF9lV282V2ZoSV9GdnJVM2lPZmhkZWlScExjYThYdWd5b2NKVFU0VEhFR0lURzJwaHY3bkR6ZW9hRWg2M01sdTk2b2hpZkZnSnJSRU90cHRDLWN5Ull0NG9hRC1GUjN0eEd6YW1TZE1fSHRGUnpVOGhDeWY1RkxTRWxvQzE3X0htRnJ2NHlYcTlZSjluLTRfQUVCWGcwMkR0ZnJIUDVnZHgwdGxDV1Bnbkk?oc=5>
-
-### 特朗普称俄乌同意互不攻击能源目标
+### 特朗普：肯尼迪中心董事会今日几乎全票同意，出于安全考量关闭该建筑。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-09-15 16:33
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9WTWt0ZzluaUZnZ3VPbXowTUpwY0h1MEFoZWlKNmxBVDdIX3ZuZEw1MnZxbm9BSXVhRHBlSlMzWkhxbDdVYmEwdGF0X1JHRjNJWHh5SkphQzlKbFd0d2lVMHhtVjRnemZpbVQ5d3RsZzY2bTlWak5QUg?oc=5>
+- 时间: 2026-09-15 18:56
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9jeHBvaFVCTWY0QW9zdUlXZVl0c1EtTjh3UF9RdFBFcnV2V2pWc3E3eEwtSFZjNDJXaWJDUlZheVNoMXg3dWFsMjdmZw?oc=5>
 
-### 俄富豪出资为特朗普长子办婚后派对：租私人岛屿、买单烟花秀；其曾获普京授勋、被乌克兰制裁；特朗普回应：这没什么大不了
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-09-15 10:39
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE55c3lTVFRFZ1NfUlRpdFlPaUt3eTZtR0lKd0hwemdEU05QdWNfcFNBbXZWMmI4TjQ1QlF2NXY0UXFZcFc2YmVHZ2x4cGtvakhhQno5SHVjLXVrWTFWMEE?oc=5>
-
-### 新闻分析丨特朗普访问爱尔兰 英国内外承压
+### 哈塞特：特朗普尊重沃什决定，AI风险应由私营部门解决
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-09-15 13:31
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE95NDhfVkNxR0lDNkdpVzlNS3R0VnQ3bWFwRTdMVWliYWdKRFRfNUNlNjZJaHl2WHkxN3RrMFB4WEpzX18tVnRESUZ3WDBrREpMTnlzd09JU05WdnJMSi1DSkRxT25uMFl2bmRDcHdJemVJeDB0WW5MUEk3MVBISHc?oc=5>
+- 场馆: 华尔街见闻
+- 时间: 2026-09-15 18:54
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE05NWdLMDVlT2NUaHpnR1hjb3hyc3lvQnZjWDR4SFRuZGx4TFhKQndXa0UwZm5hbjF6Y2hBRXlDWGRIM0FJM3ZQcWwzc18yblNjT09n?oc=5>
 
-### 特朗普“嘴炮”要成真？苏威北爱三地领导人聚首，商讨抱团“脱英”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-09-14 13:25
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE9RakN0OV84dUVGX0VOUm5RYXF2T2VpY3JCXzhOaGNnSmxITFpvaEtCenlFYXR1NUJsbnlhdVJUS2hBd25VUWRubnR0a1F3VE5HdkV4NXNTSDVFLUJwYkE?oc=5>
-
-### 特朗普称美国可能留在伊朗并“保留石油” 白宫尚未公布具体方案
+### 美联储主席沃什上任百天陷两难：特朗普曾承诺他“做你自己的事吧”，如今喊话“全球最低利率”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-09-14 06:22
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQTFwQW5Oa3pYaVRPbXI4V19IT1lBN25TN1NWRzJCcEdtRkJFNmxrQmpocnJ4Yl9POHNwUk91cjRhUzY4YTdueXR3QzM1X3hsZzIyeE9DOVRtVTk5SkVvT3BTZlY2dllPSE5RTHpPcFY2cHMzcUZJY0lldUhzRXFBYU9lTDhOZVBqY3hWTmNQUk9BenpWX1JKaWUxWjBMZGoxa0pBcWoyelNVTkNFQlo5VVNuZXA0UjI4eWlLaG5DVWpGajJid1pqbGNCODJDcUFQU2FmRmtaTlUyZVFPTE53?oc=5>
+- 时间: 2026-09-14 23:00
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVDdSZmotYXpoYW91aG5xUmg4ajZoV05Ka2dsVzlOb0x0Z2J6cTFoUWRKeUJrWUd5dHBsVmlwaGR6MjFycTBTVVV5a3RkLW9VTThZLUF0S2d6Qm9nUTFQZ2ppcDBjNlRFMnZsQWJjSWp4N2ZsdFBVVmk2NTk4Z1VPWGIxNDZXX09ZN21DekMtcFc1dmFsMk5wT3Y3b3ZsV3ZzQnVtTmZzaVo3WjF0YWpLaFpDcWtPNmVTWXFteUFldWtXOEdxOXkyb2hLZXJnYlBr?oc=5>
 
-### “白宫股神”炒股也失手？17只“特朗普概念股”14只翻车
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 金融界
-- 时间: 2026-09-15 08:12
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE1HbHJnQU5mNnUxYUxvYllqZHJEaEI2SzZKazZydHNnT0dMMFBJdlotUC03U19FQUhZaXlZRnFWWlJocDhxdVVZRHdrNmFmWWhIYWU3SjdpUjgtbUxkUGRYLVJ5cFlaaHJkNTh6b25WRi1IRnpL?oc=5>
-
-### 特朗普称最高法院邮寄选票裁决“对共和党是重大失利”
+### 特朗普再谈美伊战事：或于美国中期选举后结束，能否兑现？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Sohu
-- 时间: 2026-09-15 14:42
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxOX3d2SGFnTEJMcDBKT2N4bFRrbU16Q3ltS1NBbGVpSkUyczZsNndXeVFVZnJoUktPaEJLZTRNaEcyR1NPZ1RqRGJ5a2NVWldUcDlpak1GMkRUUExKdlpKbThiMnFCRHprUVI4d08waTItSmtqZHltV21Yc0ZfQXZGemtKNzYxYzdLNkh6aA?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-09-13 23:02
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZ0Y2bExnTUxzSFVsZFc3cUxEWVR2b3BRMjBFd3VIRWlBRWwwRGtaQzdHSVUzYk5LUVJlUmxmWW9iRnAyOENoTFF5Q1JvY0s0eW1DZVVHMHNteFRRLS1lS0pGMG1BNjRxOVVHYjZEaFRjaFN2b0F1NUVuWEZjZFVTVmdtQnl1V3JUM040cGdlSGFqaGFpOV9kaHZuNTJxTmpnbk1HZ2RsYlJnWTAxZmEyTkcxOW15dURDd21mTVQ4NE1CdkVHLUZqdlVRaG1rRVlR?oc=5>
 
-### 特朗普宣布赴深圳参加APEC会议 全球瞩目“特普会”可能性
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-09-15 14:51
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5wdjFsTlZmanFPUkhLcE5XQmpDaTJJNndWSkdrbEpncHpUNHJiVWs3b2ctTm1xMlVKVUdzZkxDdGJVRFhFeDNySjNLaVFKWUpBLWdtc1lFUVhLSWFwUFhtVTd6X2NEX2Jxd2R6VVM0dlI?oc=5>
-
-### “共和党赢 每人5000美金” 特朗普为何此时打出现金牌
+### 特习峰会前，USCC委员告诉VOA：在对华政策上，国会两党保持着“相当稳固”的合作
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 21财经
-- 时间: 2026-09-15 15:07
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxQWEdhMVg1YTZMMjI4dEFraUJaNEwwSmgwZW1fcEhrX2RuZVZySDRES2twbmFIcmNxaHJ0S0lmLXZsZUNGOVpYMGNXdHNqLWc5V1EyazhDQ19fb3lsTnpwdDlVVFFRalZ6RGRmVVQwbnJRVVpzRzF3TTRmdWE4X1l3SGhvc1BybXBOa18zLQ?oc=5>
+- 场馆: voachinese.com
+- 时间: 2026-09-15 18:14
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBIQ2ZtVzhEaGFEb0hlWHpZcENZdWxFOEN5ZElYd3JINkNfX19xU3B2TEZMSmpFZmpRemktY3piZTY1ek50RUlqVlltc1hfcXFlVWVj0gFWQVVfeXFMTWwyRGNDTmN6OGxwTFU3bTByUE1mS09GVFVrVTZOZFN3YUdnRVJOMmZWbXQ1aEtVZlZrcW1LcHg5R3NHQkI5Z1lZLWZ0NDB4Ukh5bHhnSEE?oc=5>
 
-### 共同社独家：倘若华盛顿新批对台军售，北京称习近平将暂不访美
+### 收割与化债，兽性的证明：特朗普为什么想裂解大英帝国？｜第2319期
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 风闻
+- 时间: 2026-09-15 07:21
+- 链接: <https://news.google.com/rss/articles/CBMiW0FVX3lxTE13UmxhcGJNdHRuc2xqUDFoc1l2eGRicjRtU3liYVBMNDh0NmNmdWRVU2p1ZmxjcU5taU9mUXF6TjZUTmNnWVVpMHpSaloxQThxbGF5UDZtS1RwaE0?oc=5>
+
+### king trump和埃隆国王会拯救这一切的！！！
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-09-15 16:33
-- 链接: <https://news.google.com/rss/articles/CBMisANBVV95cUxNN0RVTXBua1RUUGllbUwtVFhwUHhxT3NBdkVaOFREeXZQWTF4Mkc2SnVJQ0VZenJvTGFNMWU5dWlkMFIxNmNTXy1jZy12RllKNTZkLVRCeE1CSkJpT1ZaTmItQVlxOU1zejQ4VnlUaWUzWHhxMW5MUVNQOUIyZUVuMWdFRFdCbjdIWmwwa0s3c1FEbHYxcmlhX1hZUnJUOGZDamFLZ3A1aGRwNkcwTkYtVlBWYWZWM195RHQ0elpLVl9uRUVRNWxxY0pGQkVIRFBKcExEdkh5UXRNcnJab0M5TzNNVk54VHpULUJFd3Bqb2Y1YlREUDlTYWl4REd6Y2E5ay1LXzFnWXZIOGUwMGlldDR6aVk3blg0TTU4WVRibjZ5TFc2OHRaOTRNRWd5RWVUTHc2QWF3UXdLQnk2em1jN2J1X3UtclFvNms1S3hhVnROU3R2cENFS2ZkUTZkaW5BU3VoOWQtMl90bkIwWTJNdVBINXM2S1VQRmQ1VTJnYmZLV3duTXU4MzBhUHplUXZVaGpXYUM5eFRQRHJXREVIVzRFTk9xMnVQaHo5dE9Pakk?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-09-15 16:58
+- 链接: <https://news.google.com/rss/articles/CBMinwFBVV95cUxPcjVaVmIyT3Q5NG0tVzdNU2d1ZmlwRTQxLTFGQVFoLXI0ZFdCUXViSnNxTkFoMlhKTEhuX00wYUhBMWd3TktIUDlNOUI4ZnRFVFZhMTk0bnBkLWhRX1VObkl2UlBvWFlpOXBfdnJRbEZSdU8zdWdfWk4yWU9BZkpCUUwzaUVSeEd2ZXp3ZnNuUGtmcjgxNkpCN2dJYjZLN0E?oc=5>
+
+### Trump Says Iran Wants a Deal: What Could It Mean for Oil, Markets and Bitcoin?
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: CryptoRank
+- 时间: 2026-09-15 12:14
+- 链接: <https://news.google.com/rss/articles/CBMitwFBVV95cUxPZ1FycUVVZEN0TWY1Y1NsSTNjNUxGenBqZDN1QXNlS2VZRHJUNnNuUXlLYVVSTzBEcjBjMFlkbzVET3VQSkREclN6S3pHY1VTcGtKNEkyMDJKYjBFWktaNUg0RWkwclRhSDRUV2R0RVliaEt3cHBNVkdBbWdKSE9TZnRxZEZWNHY4cDhTdDlsTGZVRFY5b1cwY2otWFdMQzFoYlJTS2FONmlqdHprQ2c4Sk8yS1RCMUk?oc=5>
+
+### 特朗普称俄乌同意停袭能源设施 两国仍持续互相攻击
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 8world.com
+- 时间: 2026-09-15 14:39
+- 链接: <https://news.google.com/rss/articles/CBMinwFBVV95cUxPdDRMTmtLTWdWc2lyeGdsNlpoZFNPbjNJaHI0OWJTS1ZMRldpWGpzbl9FXzlSenFCNHlwUEcweUtNbk5rczhMSkU4TEtneEF5QmpsdGR1SllaY0JxZUkyTC1BM2dCYnFjN29OWHN6aGZ3dkU4UjlEYmlWdFdodWp1a3RVUUpFUVhzREkwOUhlcXh0R3RYZ1pmZUxJUTFCUzA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-15 20:45  (9 条)
+
+- **特朗普** | 特朗普：肯尼迪中心董事会今日几乎全票同意，出于安全考量关闭该建筑。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9jeHBvaFVCTWY0QW9zdUlXZVl0c1EtTjh3UF9RdFBFcnV2V2pWc3E3eEwtSFZjNDJXaWJDUlZheVNoMXg3dWFsMjdmZw?oc=5>
+- **特朗普** | 哈塞特：特朗普尊重沃什决定，AI风险应由私营部门解决 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE05NWdLMDVlT2NUaHpnR1hjb3hyc3lvQnZjWDR4SFRuZGx4TFhKQndXa0UwZm5hbjF6Y2hBRXlDWGRIM0FJM3ZQcWwzc18yblNjT09n?oc=5>
+- **特朗普** | 美联储主席沃什上任百天陷两难：特朗普曾承诺他“做你自己的事吧”，如今喊话“全球最低利率” <https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVDdSZmotYXpoYW91aG5xUmg4ajZoV05Ka2dsVzlOb0x0Z2J6cTFoUWRKeUJrWUd5dHBsVmlwaGR6MjFycTBTVVV5a3RkLW9VTThZLUF0S2d6Qm9nUTFQZ2ppcDBjNlRFMnZsQWJjSWp4N2ZsdFBVVmk2NTk4Z1VPWGIxNDZXX09ZN21DekMtcFc1dmFsMk5wT3Y3b3ZsV3ZzQnVtTmZzaVo3WjF0YWpLaFpDcWtPNmVTWXFteUFldWtXOEdxOXkyb2hLZXJnYlBr?oc=5>
+- **特朗普** | 特朗普再谈美伊战事：或于美国中期选举后结束，能否兑现？ <https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZ0Y2bExnTUxzSFVsZFc3cUxEWVR2b3BRMjBFd3VIRWlBRWwwRGtaQzdHSVUzYk5LUVJlUmxmWW9iRnAyOENoTFF5Q1JvY0s0eW1DZVVHMHNteFRRLS1lS0pGMG1BNjRxOVVHYjZEaFRjaFN2b0F1NUVuWEZjZFVTVmdtQnl1V3JUM040cGdlSGFqaGFpOV9kaHZuNTJxTmpnbk1HZ2RsYlJnWTAxZmEyTkcxOW15dURDd21mTVQ4NE1CdkVHLUZqdlVRaG1rRVlR?oc=5>
+- **特朗普** | 特习峰会前，USCC委员告诉VOA：在对华政策上，国会两党保持着“相当稳固”的合作 <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBIQ2ZtVzhEaGFEb0hlWHpZcENZdWxFOEN5ZElYd3JINkNfX19xU3B2TEZMSmpFZmpRemktY3piZTY1ek50RUlqVlltc1hfcXFlVWVj0gFWQVVfeXFMTWwyRGNDTmN6OGxwTFU3bTByUE1mS09GVFVrVTZOZFN3YUdnRVJOMmZWbXQ1aEtVZlZrcW1LcHg5R3NHQkI5Z1lZLWZ0NDB4Ukh5bHhnSEE?oc=5>
+- **特朗普** | 收割与化债，兽性的证明：特朗普为什么想裂解大英帝国？｜第2319期 <https://news.google.com/rss/articles/CBMiW0FVX3lxTE13UmxhcGJNdHRuc2xqUDFoc1l2eGRicjRtU3liYVBMNDh0NmNmdWRVU2p1ZmxjcU5taU9mUXF6TjZUTmNnWVVpMHpSaloxQThxbGF5UDZtS1RwaE0?oc=5>
+- **Trump** | king trump和埃隆国王会拯救这一切的！！！ <https://news.google.com/rss/articles/CBMinwFBVV95cUxPcjVaVmIyT3Q5NG0tVzdNU2d1ZmlwRTQxLTFGQVFoLXI0ZFdCUXViSnNxTkFoMlhKTEhuX00wYUhBMWd3TktIUDlNOUI4ZnRFVFZhMTk0bnBkLWhRX1VObkl2UlBvWFlpOXBfdnJRbEZSdU8zdWdfWk4yWU9BZkpCUUwzaUVSeEd2ZXp3ZnNuUGtmcjgxNkpCN2dJYjZLN0E?oc=5>
+- **Trump** | Trump Says Iran Wants a Deal: What Could It Mean for Oil, Markets and Bitcoin? <https://news.google.com/rss/articles/CBMitwFBVV95cUxPZ1FycUVVZEN0TWY1Y1NsSTNjNUxGenBqZDN1QXNlS2VZRHJUNnNuUXlLYVVSTzBEcjBjMFlkbzVET3VQSkREclN6S3pHY1VTcGtKNEkyMDJKYjBFWktaNUg0RWkwclRhSDRUV2R0RVliaEt3cHBNVkdBbWdKSE9TZnRxZEZWNHY4cDhTdDlsTGZVRFY5b1cwY2otWFdMQzFoYlJTS2FONmlqdHprQ2c4Sk8yS1RCMUk?oc=5>
+- **Trump** | 特朗普称俄乌同意停袭能源设施 两国仍持续互相攻击 <https://news.google.com/rss/articles/CBMinwFBVV95cUxPdDRMTmtLTWdWc2lyeGdsNlpoZFNPbjNJaHI0OWJTS1ZMRldpWGpzbl9FXzlSenFCNHlwUEcweUtNbk5rczhMSkU4TEtneEF5QmpsdGR1SllaY0JxZUkyTC1BM2dCYnFjN29OWHN6aGZ3dkU4UjlEYmlWdFdodWp1a3RVUUpFUVhzREkwOUhlcXh0R3RYZ1pmZUxJUTFCUzA?oc=5>
 
 ### 2026-09-15 17:52  (11 条)
 
