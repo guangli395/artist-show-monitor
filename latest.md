@@ -1,27 +1,43 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-15 20:45**
-- 本轮扫到 11809 条, 新增 **9** 条
+- 最近更新: **2026-09-15 23:21**
+- 本轮扫到 11816 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (9 条)
+## 本轮新发现 (7 条)
 
-### 特朗普：肯尼迪中心董事会今日几乎全票同意，出于安全考量关闭该建筑。
+### 特朗普总统称不担心习近平取消峰会 台湾外长斥北京操作“认知战”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-09-15 22:10
+- 链接: <https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbkM3NVhlRkxnbjZZeTFPUkJnN3lMZGI4X0xwZkRsMlgyVUZDR01wbjRFVWxPcHJSSUVMVE1zWUJRamlQV2lkVU5yMF81WkVHWTUwWlJrNzhrRlVzV3NJM0g2enBqdkhfTElxVDdXUlphNXRNWUp0ZXZXX1BLbVlkcXRPM1VVcVdRVzFiSWR4SjR0eE11M0xac3NRalZiTXFJWVpVcnRoR3RETnBETEloTE9HeTE1UHEwWHVmUWg2aHB0a0dUenduanRRQ1NGZlJIcV9zeUVtWFRKenYtZWZ4ZEhkUkRUTHhrdW92Q1Rn0gHwAUFVX3lxTFBHRm9qLXpEWDhkQmRySUFvQzBVNGlXQ1VnQ2k4T0paQnR0MUowc2RLa010OEtaTi1IWWdCUDBlVnhrTDBhUGdJbUctUzdSUXBsTlNwWHpJYzZwRW9CU1RKYlZUN2ViMzliU0hkZnViMXBkNFp6MDBlb2R6dWsyVDI5R3ZQazMxdmZDUG8tVkdxX3o1VXozLWFBWU5Ra1ljZG1wSzlVN3ZsMXMyUEFMckxCMTJkNFJPR1JrTWd2UHYwM2ViM2hnNThRd3ZCLTV1MlZEa2lmN0Iza29XMHNOQ3RMSDg3aEJ3dFAtWm5MVXlWdg?oc=5>
+
+### 特朗普称最高法院邮寄选票裁决“对共和党是重大失利”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-09-15 18:56
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9jeHBvaFVCTWY0QW9zdUlXZVl0c1EtTjh3UF9RdFBFcnV2V2pWc3E3eEwtSFZjNDJXaWJDUlZheVNoMXg3dWFsMjdmZw?oc=5>
+- 时间: 2026-09-15 14:52
+- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZkhNUXRsRVJTNG5yM0lzMVdTSkc4SGdkc08ybk85MGpGWGJIN2N3VGVNVG5RWGE1Sm84RTBxT1B0SFJkZXVrLTRaTE82ODJGYlZmVlJnOEpxclVycGlzSmhsMnVzSXFfMEFkTnhuak9rbWRtN0JJYlc0bzNod1pwR3lCOEZsUVpFbWpXX21BWGlkWVcwaVF4bTRQMzJyMDNHd2YzWVZDM1ROdw?oc=5>
 
-### 哈塞特：特朗普尊重沃什决定，AI风险应由私营部门解决
+### 37%对44%，共和党民调支持率大幅落后，中期选举危险了？特朗普曾称：若输掉，我将被弹劾！马斯克已出手帮忙：投1亿~2亿美元
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-09-15 18:54
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE05NWdLMDVlT2NUaHpnR1hjb3hyc3lvQnZjWDR4SFRuZGx4TFhKQndXa0UwZm5hbjF6Y2hBRXlDWGRIM0FJM3ZQcWwzc18yblNjT09n?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-09-15 22:44
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTFB0MUFscFBYdmx4a29DVXJWZDFteHRvRm8wUmlOMVp2bU92MEUtSnROSWZtdWtvSGotY1dUV0M5aURjZDhiTTVPeUpabDhCYWQ0N2VBRU1nMU8yQWlCVlhzdEpRanhUZWt1RGo2d3VJVzk4U1JFVFE?oc=5>
+
+### 特朗普刚否认，美国军方承认了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-15 07:24
+- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxNR09nSzZwT05HSHU2YVZQaldhNjFadUlfTU5jc1RnZVQzUXpJNlR0cnhxblpMY3h4Rm1rMkpNdnQ3ZXFyRDVCcjNWQmFVaW90eTRGbG9vYmF1eFZOaFFDVmhYZHFpOUREVGNfbW5qN2FOdS1EYkN3WEZ3ODRicjlBZWY0U0tnMlBzYUs3UC1ER1JaZXlRVk54ZEI4YVBPcFVGdEE3cU50YU9UN3BMcEh0bmdfM2FOSmF6aGhiRG0xMGZEYjJqWnpIOElIYURhbmlSNFE?oc=5>
 
 ### 美联储主席沃什上任百天陷两难：特朗普曾承诺他“做你自己的事吧”，如今喊话“全球最低利率”
 
@@ -29,60 +45,38 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-09-14 23:00
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVDdSZmotYXpoYW91aG5xUmg4ajZoV05Ka2dsVzlOb0x0Z2J6cTFoUWRKeUJrWUd5dHBsVmlwaGR6MjFycTBTVVV5a3RkLW9VTThZLUF0S2d6Qm9nUTFQZ2ppcDBjNlRFMnZsQWJjSWp4N2ZsdFBVVmk2NTk4Z1VPWGIxNDZXX09ZN21DekMtcFc1dmFsMk5wT3Y3b3ZsV3ZzQnVtTmZzaVo3WjF0YWpLaFpDcWtPNmVTWXFteUFldWtXOEdxOXkyb2hLZXJnYlBr?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxPS01BUlRqQTFBczhGcEdxcGJGU0F0Mi1oWGVtWGJFQjE4dktvUHJJSzlEekdoUUJ5MEh0SVdhQW5CYkMyT1ZfdjRnVDZCZ2ZZekN1NmV4ZjItMVVBNlhFd3dBc21zODlqYnp2NDhZeEp4QkpsaV83cHdmRF9HcUtRa1lYaTNJRWlpWjNHMFdDNUl5T3RDYlpaNF8wcThUOWFhQ2lJS0FNWkYyQ3FRVXE2cmdVYWZaUFFrYjVNSTlzc3JaZHlVbUowS21lYnB1d0Mz?oc=5>
 
-### 特朗普再谈美伊战事：或于美国中期选举后结束，能否兑现？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-13 23:02
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZ0Y2bExnTUxzSFVsZFc3cUxEWVR2b3BRMjBFd3VIRWlBRWwwRGtaQzdHSVUzYk5LUVJlUmxmWW9iRnAyOENoTFF5Q1JvY0s0eW1DZVVHMHNteFRRLS1lS0pGMG1BNjRxOVVHYjZEaFRjaFN2b0F1NUVuWEZjZFVTVmdtQnl1V3JUM040cGdlSGFqaGFpOV9kaHZuNTJxTmpnbk1HZ2RsYlJnWTAxZmEyTkcxOW15dURDd21mTVQ4NE1CdkVHLUZqdlVRaG1rRVlR?oc=5>
-
-### 特习峰会前，USCC委员告诉VOA：在对华政策上，国会两党保持着“相当稳固”的合作
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: voachinese.com
-- 时间: 2026-09-15 18:14
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBIQ2ZtVzhEaGFEb0hlWHpZcENZdWxFOEN5ZElYd3JINkNfX19xU3B2TEZMSmpFZmpRemktY3piZTY1ek50RUlqVlltc1hfcXFlVWVj0gFWQVVfeXFMTWwyRGNDTmN6OGxwTFU3bTByUE1mS09GVFVrVTZOZFN3YUdnRVJOMmZWbXQ1aEtVZlZrcW1LcHg5R3NHQkI5Z1lZLWZ0NDB4Ukh5bHhnSEE?oc=5>
-
-### 收割与化债，兽性的证明：特朗普为什么想裂解大英帝国？｜第2319期
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 风闻
-- 时间: 2026-09-15 07:21
-- 链接: <https://news.google.com/rss/articles/CBMiW0FVX3lxTE13UmxhcGJNdHRuc2xqUDFoc1l2eGRicjRtU3liYVBMNDh0NmNmdWRVU2p1ZmxjcU5taU9mUXF6TjZUTmNnWVVpMHpSaloxQThxbGF5UDZtS1RwaE0?oc=5>
-
-### king trump和埃隆国王会拯救这一切的！！！
+### More weak August data; Advance work for Xi-Trump meeting; ICBC documents leak; New exit-entry rules go into effect
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-09-15 16:58
-- 链接: <https://news.google.com/rss/articles/CBMinwFBVV95cUxPcjVaVmIyT3Q5NG0tVzdNU2d1ZmlwRTQxLTFGQVFoLXI0ZFdCUXViSnNxTkFoMlhKTEhuX00wYUhBMWd3TktIUDlNOUI4ZnRFVFZhMTk0bnBkLWhRX1VObkl2UlBvWFlpOXBfdnJRbEZSdU8zdWdfWk4yWU9BZkpCUUwzaUVSeEd2ZXp3ZnNuUGtmcjgxNkpCN2dJYjZLN0E?oc=5>
+- 场馆: Sinocism | Bill Bishop
+- 时间: 2026-09-15 22:24
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WWkNDbk81Z0ZsaGJMSWlHckppaFR5YTROcVNrMDFKVGV1MndoMkxDZGg0bWt4aXNzOG9zdHlyb2txUW9iNDQwMUdTN1dEUENBTk1SVWZhWE9wRVJ0cFFNMXNfbDRCZ1Nj?oc=5>
 
-### Trump Says Iran Wants a Deal: What Could It Mean for Oil, Markets and Bitcoin?
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: CryptoRank
-- 时间: 2026-09-15 12:14
-- 链接: <https://news.google.com/rss/articles/CBMitwFBVV95cUxPZ1FycUVVZEN0TWY1Y1NsSTNjNUxGenBqZDN1QXNlS2VZRHJUNnNuUXlLYVVSTzBEcjBjMFlkbzVET3VQSkREclN6S3pHY1VTcGtKNEkyMDJKYjBFWktaNUg0RWkwclRhSDRUV2R0RVliaEt3cHBNVkdBbWdKSE9TZnRxZEZWNHY4cDhTdDlsTGZVRFY5b1cwY2otWFdMQzFoYlJTS2FONmlqdHprQ2c4Sk8yS1RCMUk?oc=5>
-
-### 特朗普称俄乌同意停袭能源设施 两国仍持续互相攻击
+### Trump抨击限制邮寄投票裁决，还暗示盟国应为伊朗战争“赔偿”
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 8world.com
-- 时间: 2026-09-15 14:39
-- 链接: <https://news.google.com/rss/articles/CBMinwFBVV95cUxPdDRMTmtLTWdWc2lyeGdsNlpoZFNPbjNJaHI0OWJTS1ZMRldpWGpzbl9FXzlSenFCNHlwUEcweUtNbk5rczhMSkU4TEtneEF5QmpsdGR1SllaY0JxZUkyTC1BM2dCYnFjN29OWHN6aGZ3dkU4UjlEYmlWdFdodWp1a3RVUUpFUVhzREkwOUhlcXh0R3RYZ1pmZUxJUTFCUzA?oc=5>
+- 场馆: 아시아경제
+- 时间: 2026-09-15 20:13
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jQzd4NVpBcmZULWNXeFJlbnJXbDhDZEkwSmlhYWk3SUs1dnVyN2FaS3kwWkprYlFSRmF4R3RHejBSZHlEOExUb2pKc2ZfaHBTRDZRaGktWHBLWTBfQWFrQllfUFM?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-15 23:21  (7 条)
+
+- **特朗普** | 特朗普总统称不担心习近平取消峰会 台湾外长斥北京操作“认知战” <https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbkM3NVhlRkxnbjZZeTFPUkJnN3lMZGI4X0xwZkRsMlgyVUZDR01wbjRFVWxPcHJSSUVMVE1zWUJRamlQV2lkVU5yMF81WkVHWTUwWlJrNzhrRlVzV3NJM0g2enBqdkhfTElxVDdXUlphNXRNWUp0ZXZXX1BLbVlkcXRPM1VVcVdRVzFiSWR4SjR0eE11M0xac3NRalZiTXFJWVpVcnRoR3RETnBETEloTE9HeTE1UHEwWHVmUWg2aHB0a0dUenduanRRQ1NGZlJIcV9zeUVtWFRKenYtZWZ4ZEhkUkRUTHhrdW92Q1Rn0gHwAUFVX3lxTFBHRm9qLXpEWDhkQmRySUFvQzBVNGlXQ1VnQ2k4T0paQnR0MUowc2RLa010OEtaTi1IWWdCUDBlVnhrTDBhUGdJbUctUzdSUXBsTlNwWHpJYzZwRW9CU1RKYlZUN2ViMzliU0hkZnViMXBkNFp6MDBlb2R6dWsyVDI5R3ZQazMxdmZDUG8tVkdxX3o1VXozLWFBWU5Ra1ljZG1wSzlVN3ZsMXMyUEFMckxCMTJkNFJPR1JrTWd2UHYwM2ViM2hnNThRd3ZCLTV1MlZEa2lmN0Iza29XMHNOQ3RMSDg3aEJ3dFAtWm5MVXlWdg?oc=5>
+- **特朗普** | 特朗普称最高法院邮寄选票裁决“对共和党是重大失利” <https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZkhNUXRsRVJTNG5yM0lzMVdTSkc4SGdkc08ybk85MGpGWGJIN2N3VGVNVG5RWGE1Sm84RTBxT1B0SFJkZXVrLTRaTE82ODJGYlZmVlJnOEpxclVycGlzSmhsMnVzSXFfMEFkTnhuak9rbWRtN0JJYlc0bzNod1pwR3lCOEZsUVpFbWpXX21BWGlkWVcwaVF4bTRQMzJyMDNHd2YzWVZDM1ROdw?oc=5>
+- **特朗普** | 37%对44%，共和党民调支持率大幅落后，中期选举危险了？特朗普曾称：若输掉，我将被弹劾！马斯克已出手帮忙：投1亿~2亿美元 <https://news.google.com/rss/articles/CBMidkFVX3lxTFB0MUFscFBYdmx4a29DVXJWZDFteHRvRm8wUmlOMVp2bU92MEUtSnROSWZtdWtvSGotY1dUV0M5aURjZDhiTTVPeUpabDhCYWQ0N2VBRU1nMU8yQWlCVlhzdEpRanhUZWt1RGo2d3VJVzk4U1JFVFE?oc=5>
+- **特朗普** | 特朗普刚否认，美国军方承认了 <https://news.google.com/rss/articles/CBMi0gFBVV95cUxNR09nSzZwT05HSHU2YVZQaldhNjFadUlfTU5jc1RnZVQzUXpJNlR0cnhxblpMY3h4Rm1rMkpNdnQ3ZXFyRDVCcjNWQmFVaW90eTRGbG9vYmF1eFZOaFFDVmhYZHFpOUREVGNfbW5qN2FOdS1EYkN3WEZ3ODRicjlBZWY0U0tnMlBzYUs3UC1ER1JaZXlRVk54ZEI4YVBPcFVGdEE3cU50YU9UN3BMcEh0bmdfM2FOSmF6aGhiRG0xMGZEYjJqWnpIOElIYURhbmlSNFE?oc=5>
+- **特朗普** | 美联储主席沃什上任百天陷两难：特朗普曾承诺他“做你自己的事吧”，如今喊话“全球最低利率” <https://news.google.com/rss/articles/CBMi0AFBVV95cUxPS01BUlRqQTFBczhGcEdxcGJGU0F0Mi1oWGVtWGJFQjE4dktvUHJJSzlEekdoUUJ5MEh0SVdhQW5CYkMyT1ZfdjRnVDZCZ2ZZekN1NmV4ZjItMVVBNlhFd3dBc21zODlqYnp2NDhZeEp4QkpsaV83cHdmRF9HcUtRa1lYaTNJRWlpWjNHMFdDNUl5T3RDYlpaNF8wcThUOWFhQ2lJS0FNWkYyQ3FRVXE2cmdVYWZaUFFrYjVNSTlzc3JaZHlVbUowS21lYnB1d0Mz?oc=5>
+- **Trump** | More weak August data; Advance work for Xi-Trump meeting; ICBC documents leak; New exit-entry rules go into effect <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WWkNDbk81Z0ZsaGJMSWlHckppaFR5YTROcVNrMDFKVGV1MndoMkxDZGg0bWt4aXNzOG9zdHlyb2txUW9iNDQwMUdTN1dEUENBTk1SVWZhWE9wRVJ0cFFNMXNfbDRCZ1Nj?oc=5>
+- **Trump** | Trump抨击限制邮寄投票裁决，还暗示盟国应为伊朗战争“赔偿” <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jQzd4NVpBcmZULWNXeFJlbnJXbDhDZEkwSmlhYWk3SUs1dnVyN2FaS3kwWkprYlFSRmF4R3RHejBSZHlEOExUb2pKc2ZfaHBTRDZRaGktWHBLWTBfQWFrQllfUFM?oc=5>
 
 ### 2026-09-15 20:45  (9 条)
 
