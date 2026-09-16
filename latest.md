@@ -1,62 +1,87 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-16 20:18**
-- 本轮扫到 11868 条, 新增 **6** 条
+- 最近更新: **2026-09-16 23:06**
+- 本轮扫到 11876 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (8 条)
 
-### 蔡徐坤亮相纽约时装周随行手记发布
+### 迪克乐队有哪些巡演行程？国内外场次及时间一览
 
-- 艺人/关键词: **蔡徐坤**
+- 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924002_m1d5ae192203301ls9e.html>
+- 链接: <https://k.sina.com.cn/article_7879923116_1d5ae15ac06801kww6.html>
 
-### 乌外交部：正筹备泽连斯基与特朗普会晤
+### vivo辟谣周杰伦出席X500系列发布会：虚假消息 谨防受骗
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-09-16 17:16
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1IQko4X1lRTzJvZDJZc1FOWFEtWkViYUFiVWFBcmRXNFk5M0d2X3U2b3FKdUlLLUdUM1BoUGZsNDVvTnpsa190WE9wVlE?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://finance.sina.com.cn/tech/roll/2026-09-17/doc-inisapns9539942.shtml>
 
-### 特朗普高调宣布俄乌“能源停火” ，不到24小时双方“互炸”
+### 美联储三年来首次加息 暗示将继续收紧政策 特朗普要求“迅速”下调利率
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-15 23:43
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdGlSM2VFLTVWMWZzWUNnMk9HQ1VxMGhkTnlFUDNUNDkwMG0xTlNaeDZkWUpGaFFTS3Q4QllmdW1uOW5NMWVoZkZtd2dxRTBfeEJ1Nkp6Ri1DbUNBU2JUSnpjeF9GR2NpUHFHRlVLTl9rZThUS3pJcWFUSDRrOVZkVUZTc0pxZTRCZncwZi1Lamo5bGlIRk1BMU5pRktPRjlac2ktMlZqNVJfMmQ2anR1dmluVVBEZVpkcVgyY0dDQXluLUxwNGRrYUFiaFpuNGoz?oc=5>
+- 场馆: RFI
+- 时间: 2026-09-16 21:10
+- 链接: <https://news.google.com/rss/articles/CBMizANBVV95cUxQRGx5LW1QT2V3YkhaRDhMQk5tallQM1VPTlo2aWVmd0wtZnowSTRVZ1ZfTDhkRzh5eHFCcFJuTTktY3BFUDhLZjF1N0g4dm1sWGtIVTZFYVI4ZkRRYTZiTkdfYnc3X0sxaHE1ZXVLNEtXaU5vaF9FNjJHZ1hGOFUzYUlvZVZxOGpjd2ZwN1RVck5abm9GVGZ4UlBJdlNzMWh4Ry00TGtvYmY0RVZSdU8wT0EtNTF5WnhLbGZhWHdiTDFiY3FNY3BfMGk0ei0yWU1vNTMwc1RSLXhOUEVhRmdtV1U1SmVuQkxkVTJ4YlNYSm1sS0lDV1pWcTVBY21Ldk5fYlRQTFRsd2JkSnRoeXhvMnNfZHdhNWdnb0Q0WW43aUI5SnhMeDE0UDVqeFJwcTBGWXBnMUFiUzNRbmhpRmQ2emJUeHUzVmNyRW1lMC1JUThfMGZ4aFoxdHlmdl9LeW92SnQwSW5HNm85a2dfZzZTU1ViOWR1dnhST01kVGZKUGcyckg4X0dMUlZnMXdFNXR0bjEycDVzbGd5el96V2dwUWJOcjdiQ3NXSG54VlAzWE00Y1hGTVU4dUxLZkdnQ1c5UDl2cXNPOGM1X3Vs?oc=5>
 
-### 白宫发言人：特朗普仍然相信美联储的独立性。
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-16 19:09
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE8tTFpmU0hKYTFXLVpQQWw2WExOSVV4V0JkN1NMaVZGcEtnRXJ0OG1aSEdCOGp1dDFJMDFTNzItNWJEREp5ZjFzZjZnNA?oc=5>
-
-### 经济学家：美联储应当顶住特朗普压力，选择加息
+### 特朗普：美国的利率应该在1%或更低 赶紧降息
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-16 06:33
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxNNjBUSUJqc21xT1lsQWRIZVR5S1BUbkNjc25wUkwtT01DTnNaNTkyeGs1Ry1PSGY3UmlvVm5kRmpuWkI2aV9WOWFyREpIaF9ZcklwTjJpa1EzZTlqRWxyN2hadVBPVWc5QUtyWmd2eWlDaTV6WDU1WDVtbWotbGRUTC1Mcms1SVU?oc=5>
+- 场馆: finance.sina.cn
+- 时间: 2026-09-16 22:07
+- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOWRRR3d2MVVIUGpscG9UZ3JyUTFOMXVLb21UM0ZLcDhaNm04TzJiVzFoT0lUYVBPLVFWQWtuVmVIbndoY1BCMzBKTE4tVzlJZXhHT0VtZVI4c093UG5kaHljeU9sSWdKa3hkcWNXeVNPeGtsZG02NDBpWTZZOERGTG01RmdHLU5tMkF3TWRteHRGcW80Y21aVUdDRGtKYnZaVGFzSldEQVl5QQ?oc=5>
 
-### 特朗普称最高法院邮寄选票裁决“对共和党是重大失利”
+### 特朗普：美国利率应该在1%或以下。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-15 14:42
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMnozOWV5S29sdVl5YVJTSDBzMjlSOFIwaUQyX0t6NzFpT0J4R00zTzFHV2JKNUc2TzVPOEozTlhJOE9SLVYtdHFHZjRRTmJlV293QkZWa1JaR25SQjJjSXNzbVBXd202cGUxaXV1bXRiLTRSRkt6bEpuVXhDSXFLTUIyNUxOT1QxVllOLWt5SWxFMlZrZU5GVXJGVUw0VmlfZGdNOFhNSDUzd050NnBYTklTMXFEVlJBM2xaSm9TS2FBV3ZaXzlIb2RWX0xkQmtvTUVFeDE5aTJWRE05b0Z3?oc=5>
+- 场馆: cj.sina.cn
+- 时间: 2026-09-16 20:39
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9CLU1pSG5lWlVCVE52WjBoaVRKNktoT0VRYS15cE5EbWN6QjVpRzFXY2ViOVEyVlA0alJnS3F6TXpCcmkyelV5R0Y5Zw?oc=5>
+
+### Trump Says Interest Rates Should Be 1% or Less
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-09-16 21:18
+- 链接: <https://news.google.com/rss/articles/CBMilwFBVV95cUxOWHFXVXFKV3dtellGS0pPSThJbFYtcUluY0FDdWpTOThVM0RNZUcxMl9YXzVoVVQyYWViZW56V3B2WWo3VjBreVZiUllXWl9QRUhaazIyMzR0Xy1SSk8zWmlZa1M1aVVQYTB2alExZHJDX2ZLUi05U0x1V01KR2VDdVFJY1NBNVRtQVhQTWJQS0xFM1dxTEww?oc=5>
+
+### 特朗普总统认定中国等23国为2027年度主要毒品过境国或非法毒品生产国
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-09-16 22:34
+- 链接: <https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRFYyZzE3UkRCaGNUdnF5NE5FNWRuYkFkU2lHZGdzOTVMQ0xSYldZR1hmcTI0MkxWZUw4VUtYSTlpel9vQmFoWms0YzhMeFRWa1VkT0pnbjlDX2lrTWp4RGZZWFh5M2t2bEdHemhDYUF5MW1VbU1iYVc2SE9ZQWVVWHpoLXFDbjNPWlNTYWRidnE5QlVpQ0txeklGMkhjQnlwMVR1TWJ1UUp3YTcwT2h5bkx1WnBVSjgtQ293dnVhNFdMSGhNWXFoVFU3V1cxdmdVM3VZN19lTjbSAdsBQVVfeXFMTmNXd2NKTFhpVUxEMHp4bHB4bXVkWEFjRmx0N1RUNklEbU8zaENzLVpLaDJDb2lYZHhSTHk3VlNrdjZZYm85NThKNHJsR0pUTDRYa2hmeWRLZl9VNEpGODRjRW9Dc3hjTXhsSGExWTFPTXJiZk8zcWtjbnkyQnZWYmZOLUlNMzJSdWdtY015YjhhN1hmVW02N0RhcTg5dmV4cm9xQUQ3akh0T2Fvdkt6OFN1Nk14UUpYSkNxNU1scVNPTGRiUEg2eU5PdExNZU5KSFV3b1B4N1VQV1RF?oc=5>
+
+### 特朗普要求美国利率降到1%或更低
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 8world
+- 时间: 2026-09-16 22:57
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE1vSGdMSkV5VFhUVDR0QzZ6UURXYzVtV0V4dy15R3hvd3NXaDhEU2R5dFZ6WkszYWhyOVRXbDFWRUpiRVFqSTZtVURNSzllYnpRcmJhVEw2cGV3TjNuTFd2bGxtcWVKVG5ZUE1qTjg0RDNkVzFpS1E?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-16 23:06  (8 条)
+
+- **周杰伦** | 迪克乐队有哪些巡演行程？国内外场次及时间一览 <https://k.sina.com.cn/article_7879923116_1d5ae15ac06801kww6.html>
+- **周杰伦** | vivo辟谣周杰伦出席X500系列发布会：虚假消息 谨防受骗 <https://finance.sina.com.cn/tech/roll/2026-09-17/doc-inisapns9539942.shtml>
+- **特朗普** | 美联储三年来首次加息 暗示将继续收紧政策 特朗普要求“迅速”下调利率 <https://news.google.com/rss/articles/CBMizANBVV95cUxQRGx5LW1QT2V3YkhaRDhMQk5tallQM1VPTlo2aWVmd0wtZnowSTRVZ1ZfTDhkRzh5eHFCcFJuTTktY3BFUDhLZjF1N0g4dm1sWGtIVTZFYVI4ZkRRYTZiTkdfYnc3X0sxaHE1ZXVLNEtXaU5vaF9FNjJHZ1hGOFUzYUlvZVZxOGpjd2ZwN1RVck5abm9GVGZ4UlBJdlNzMWh4Ry00TGtvYmY0RVZSdU8wT0EtNTF5WnhLbGZhWHdiTDFiY3FNY3BfMGk0ei0yWU1vNTMwc1RSLXhOUEVhRmdtV1U1SmVuQkxkVTJ4YlNYSm1sS0lDV1pWcTVBY21Ldk5fYlRQTFRsd2JkSnRoeXhvMnNfZHdhNWdnb0Q0WW43aUI5SnhMeDE0UDVqeFJwcTBGWXBnMUFiUzNRbmhpRmQ2emJUeHUzVmNyRW1lMC1JUThfMGZ4aFoxdHlmdl9LeW92SnQwSW5HNm85a2dfZzZTU1ViOWR1dnhST01kVGZKUGcyckg4X0dMUlZnMXdFNXR0bjEycDVzbGd5el96V2dwUWJOcjdiQ3NXSG54VlAzWE00Y1hGTVU4dUxLZkdnQ1c5UDl2cXNPOGM1X3Vs?oc=5>
+- **特朗普** | 特朗普：美国的利率应该在1%或更低 赶紧降息 <https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOWRRR3d2MVVIUGpscG9UZ3JyUTFOMXVLb21UM0ZLcDhaNm04TzJiVzFoT0lUYVBPLVFWQWtuVmVIbndoY1BCMzBKTE4tVzlJZXhHT0VtZVI4c093UG5kaHljeU9sSWdKa3hkcWNXeVNPeGtsZG02NDBpWTZZOERGTG01RmdHLU5tMkF3TWRteHRGcW80Y21aVUdDRGtKYnZaVGFzSldEQVl5QQ?oc=5>
+- **特朗普** | 特朗普：美国利率应该在1%或以下。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9CLU1pSG5lWlVCVE52WjBoaVRKNktoT0VRYS15cE5EbWN6QjVpRzFXY2ViOVEyVlA0alJnS3F6TXpCcmkyelV5R0Y5Zw?oc=5>
+- **Trump** | Trump Says Interest Rates Should Be 1% or Less <https://news.google.com/rss/articles/CBMilwFBVV95cUxOWHFXVXFKV3dtellGS0pPSThJbFYtcUluY0FDdWpTOThVM0RNZUcxMl9YXzVoVVQyYWViZW56V3B2WWo3VjBreVZiUllXWl9QRUhaazIyMzR0Xy1SSk8zWmlZa1M1aVVQYTB2alExZHJDX2ZLUi05U0x1V01KR2VDdVFJY1NBNVRtQVhQTWJQS0xFM1dxTEww?oc=5>
+- **Trump** | 特朗普总统认定中国等23国为2027年度主要毒品过境国或非法毒品生产国 <https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRFYyZzE3UkRCaGNUdnF5NE5FNWRuYkFkU2lHZGdzOTVMQ0xSYldZR1hmcTI0MkxWZUw4VUtYSTlpel9vQmFoWms0YzhMeFRWa1VkT0pnbjlDX2lrTWp4RGZZWFh5M2t2bEdHemhDYUF5MW1VbU1iYVc2SE9ZQWVVWHpoLXFDbjNPWlNTYWRidnE5QlVpQ0txeklGMkhjQnlwMVR1TWJ1UUp3YTcwT2h5bkx1WnBVSjgtQ293dnVhNFdMSGhNWXFoVFU3V1cxdmdVM3VZN19lTjbSAdsBQVVfeXFMTmNXd2NKTFhpVUxEMHp4bHB4bXVkWEFjRmx0N1RUNklEbU8zaENzLVpLaDJDb2lYZHhSTHk3VlNrdjZZYm85NThKNHJsR0pUTDRYa2hmeWRLZl9VNEpGODRjRW9Dc3hjTXhsSGExWTFPTXJiZk8zcWtjbnkyQnZWYmZOLUlNMzJSdWdtY015YjhhN1hmVW02N0RhcTg5dmV4cm9xQUQ3akh0T2Fvdkt6OFN1Nk14UUpYSkNxNU1scVNPTGRiUEg2eU5PdExNZU5KSFV3b1B4N1VQV1RF?oc=5>
+- **Trump** | 特朗普要求美国利率降到1%或更低 <https://news.google.com/rss/articles/CBMidkFVX3lxTE1vSGdMSkV5VFhUVDR0QzZ6UURXYzVtV0V4dy15R3hvd3NXaDhEU2R5dFZ6WkszYWhyOVRXbDFWRUpiRVFqSTZtVURNSzllYnpRcmJhVEw2cGV3TjNuTFd2bGxtcWVKVG5ZUE1qTjg0RDNkVzFpS1E?oc=5>
 
 ### 2026-09-16 20:18  (6 条)
 
