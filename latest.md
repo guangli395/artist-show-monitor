@@ -1,72 +1,82 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-15 23:21**
-- 本轮扫到 11816 条, 新增 **7** 条
+- 最近更新: **2026-09-16 01:30**
+- 本轮扫到 11823 条, 新增 **7** 条
 
 ---
 
 ## 本轮新发现 (7 条)
 
-### 特朗普总统称不担心习近平取消峰会 台湾外长斥北京操作“认知战”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-09-15 22:10
-- 链接: <https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbkM3NVhlRkxnbjZZeTFPUkJnN3lMZGI4X0xwZkRsMlgyVUZDR01wbjRFVWxPcHJSSUVMVE1zWUJRamlQV2lkVU5yMF81WkVHWTUwWlJrNzhrRlVzV3NJM0g2enBqdkhfTElxVDdXUlphNXRNWUp0ZXZXX1BLbVlkcXRPM1VVcVdRVzFiSWR4SjR0eE11M0xac3NRalZiTXFJWVpVcnRoR3RETnBETEloTE9HeTE1UHEwWHVmUWg2aHB0a0dUenduanRRQ1NGZlJIcV9zeUVtWFRKenYtZWZ4ZEhkUkRUTHhrdW92Q1Rn0gHwAUFVX3lxTFBHRm9qLXpEWDhkQmRySUFvQzBVNGlXQ1VnQ2k4T0paQnR0MUowc2RLa010OEtaTi1IWWdCUDBlVnhrTDBhUGdJbUctUzdSUXBsTlNwWHpJYzZwRW9CU1RKYlZUN2ViMzliU0hkZnViMXBkNFp6MDBlb2R6dWsyVDI5R3ZQazMxdmZDUG8tVkdxX3o1VXozLWFBWU5Ra1ljZG1wSzlVN3ZsMXMyUEFMckxCMTJkNFJPR1JrTWd2UHYwM2ViM2hnNThRd3ZCLTV1MlZEa2lmN0Iza29XMHNOQ3RMSDg3aEJ3dFAtWm5MVXlWdg?oc=5>
-
-### 特朗普称最高法院邮寄选票裁决“对共和党是重大失利”
+### 特朗普：AI风险是“骗局”，唯一需要的“护栏”就是我|唐纳德·特朗普|中国青年报|美国总统|黄仁勋|英伟达
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-09-15 14:52
-- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZkhNUXRsRVJTNG5yM0lzMVdTSkc4SGdkc08ybk85MGpGWGJIN2N3VGVNVG5RWGE1Sm84RTBxT1B0SFJkZXVrLTRaTE82ODJGYlZmVlJnOEpxclVycGlzSmhsMnVzSXFfMEFkTnhuak9rbWRtN0JJYlc0bzNod1pwR3lCOEZsUVpFbWpXX21BWGlkWVcwaVF4bTRQMzJyMDNHd2YzWVZDM1ROdw?oc=5>
+- 时间: 2026-09-15 12:55
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE10NHFaRThRcGY1cVN0c1JNTGFES1ZVbkVCV3RUUnlWN2hyVkJldVVrbm9fdXBPQmxhVG1JWm13WUtGVi1Oak8yZWsyZXJxdVMtYUtMdjBHWXFfTm15Rm1sZ0JvZnhZVGhCeG1MQjlBYUNwNGRzZGVzeg?oc=5>
 
-### 37%对44%，共和党民调支持率大幅落后，中期选举危险了？特朗普曾称：若输掉，我将被弹劾！马斯克已出手帮忙：投1亿~2亿美元
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-15 22:44
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTFB0MUFscFBYdmx4a29DVXJWZDFteHRvRm8wUmlOMVp2bU92MEUtSnROSWZtdWtvSGotY1dUV0M5aURjZDhiTTVPeUpabDhCYWQ0N2VBRU1nMU8yQWlCVlhzdEpRanhUZWt1RGo2d3VJVzk4U1JFVFE?oc=5>
-
-### 特朗普刚否认，美国军方承认了
+### 特朗普高调宣布俄乌“能源停火” ，不到24小时双方“互炸”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-09-15 07:24
-- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxNR09nSzZwT05HSHU2YVZQaldhNjFadUlfTU5jc1RnZVQzUXpJNlR0cnhxblpMY3h4Rm1rMkpNdnQ3ZXFyRDVCcjNWQmFVaW90eTRGbG9vYmF1eFZOaFFDVmhYZHFpOUREVGNfbW5qN2FOdS1EYkN3WEZ3ODRicjlBZWY0U0tnMlBzYUs3UC1ER1JaZXlRVk54ZEI4YVBPcFVGdEE3cU50YU9UN3BMcEh0bmdfM2FOSmF6aGhiRG0xMGZEYjJqWnpIOElIYURhbmlSNFE?oc=5>
+- 时间: 2026-09-15 23:43
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBKeGZPdGVXQmotYWdLc3Y1SDBwOGo5VWNUVmtSYTc2Vkw0NnZCbll4aFZyTG82RHRzOElaQkluOFRPdG13QjUwMkUtc0hjT1lPU01hNjJmelhOaXhBSkw2NGpZd3FybVFqRFp4ZW52dURTYS1QXzQwZA?oc=5>
 
-### 美联储主席沃什上任百天陷两难：特朗普曾承诺他“做你自己的事吧”，如今喊话“全球最低利率”
+### 肯尼迪中心董事会决定立即关闭该中心
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-09-14 23:00
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxPS01BUlRqQTFBczhGcEdxcGJGU0F0Mi1oWGVtWGJFQjE4dktvUHJJSzlEekdoUUJ5MEh0SVdhQW5CYkMyT1ZfdjRnVDZCZ2ZZekN1NmV4ZjItMVVBNlhFd3dBc21zODlqYnp2NDhZeEp4QkpsaV83cHdmRF9HcUtRa1lYaTNJRWlpWjNHMFdDNUl5T3RDYlpaNF8wcThUOWFhQ2lJS0FNWkYyQ3FRVXE2cmdVYWZaUFFrYjVNSTlzc3JaZHlVbUowS21lYnB1d0Mz?oc=5>
+- 时间: 2026-09-16 00:23
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBhaWJWV1J2YzNxelRwczVlRUY5MzA0TXRBbG5Pem9TR3hucXpNUVN3S1h3N01uajZBVTl2WEJ1Q3lBUzhNZjlmUE04eDRTZEtmSmEtNWc2RTJYVFVNd3FtU2t2RmhPWXU5Y2pzdjQ5SXR5S3JMbkdHTg?oc=5>
 
-### More weak August data; Advance work for Xi-Trump meeting; ICBC documents leak; New exit-entry rules go into effect
+### 知情者：黄仁勋将出席特朗普为习近平举行的国宴
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-09-15 22:50
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1CSjFEWUtxbVpoTFl3WUhydWZzVlNtdlp4UG13M1NiSUZKZkwxTWZjdmg4bTNrMzRSVDdWV0R6SER0YmgyR3o4RHVGdGJtLTNUV0VHSnY4MWV3M1JqR1AxU1E0TzkxUEhMRmc?oc=5>
+
+### 沃什加息“没有退路”！特朗普亲手选的主席，正把利率推回4%？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-15 03:36
+- 链接: <https://news.google.com/rss/articles/CBMi5gFBVV95cUxPRFZuV3c3QVdTQWx1d1NQaHl6UFlvSzFERHAwejV2UnRsOEVzODI2UURnWjFSQzBGckpBREVzbllEelNTTU02cThUaXdGSTA5RVJyNnhVcDlGTU5MYzVnTDZDcXl1MGtod0tSbVZoM3NNZkZpM0JZb3FuelRRT2ItdHJEZF9ZWEt1QzRFMXltZmdBZDBjSm1TdTBEdG9peDMyc2ZrZzZsTHpTOHczOUp5MktETG5BVktUQXNCV29XTDQ4RnBkMW5CLTdVNC1nV2pPZnRfMEQ0OGpKTVdMZWRYTUMzNzZudw?oc=5>
+
+### 新闻分析丨特朗普访问爱尔兰英国内外承压--国际
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 人民网
+- 时间: 2026-09-16 00:40
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZSUsyN0x2STJ4b0stTnZrX0lXVEx4VjctcEJ6bXRqUW0wZ0owWlpZRUh0dlEtLXFYbi1qMmVSckJ1SUZGMjIyeWg5Nl9oQXVlRXRNSUhWOEJNdXlKcWkwOWxnWHdvbG9wMF9R?oc=5>
+
+### 特朗普斥AI安全担忧为“骗局”，无意加强监管
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Sinocism | Bill Bishop
-- 时间: 2026-09-15 22:24
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WWkNDbk81Z0ZsaGJMSWlHckppaFR5YTROcVNrMDFKVGV1MndoMkxDZGg0bWt4aXNzOG9zdHlyb2txUW9iNDQwMUdTN1dEUENBTk1SVWZhWE9wRVJ0cFFNMXNfbDRCZ1Nj?oc=5>
-
-### Trump抨击限制邮寄投票裁决，还暗示盟国应为伊朗战争“赔偿”
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 아시아경제
-- 时间: 2026-09-15 20:13
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jQzd4NVpBcmZULWNXeFJlbnJXbDhDZEkwSmlhYWk3SUs1dnVyN2FaS3kwWkprYlFSRmF4R3RHejBSZHlEOExUb2pKc2ZfaHBTRDZRaGktWHBLWTBfQWFrQllfUFM?oc=5>
+- 场馆: 纽约时报中文网
+- 时间: 2026-09-15 02:08
+- 链接: <https://news.google.com/rss/articles/CBMihgFBVV95cUxObFU1T3BkTGdubXJrX1R0MjcxVU5Gd0x6U043QnBzbkVrWmxnTFpqWEVhbU1oQmVfaXNGT0Y5ZGdYakI3elBybGJocTl1STdNdnZkYVQyRE9XWV8wdks1MFVUNFpRb1MzbU5rbVY1MmxNbGxYMEdzLVdHM1FlQWdqTTJvUm9zdw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-16 01:30  (7 条)
+
+- **特朗普** | 特朗普：AI风险是“骗局”，唯一需要的“护栏”就是我|唐纳德·特朗普|中国青年报|美国总统|黄仁勋|英伟达 <https://news.google.com/rss/articles/CBMieEFVX3lxTE10NHFaRThRcGY1cVN0c1JNTGFES1ZVbkVCV3RUUnlWN2hyVkJldVVrbm9fdXBPQmxhVG1JWm13WUtGVi1Oak8yZWsyZXJxdVMtYUtMdjBHWXFfTm15Rm1sZ0JvZnhZVGhCeG1MQjlBYUNwNGRzZGVzeg?oc=5>
+- **特朗普** | 特朗普高调宣布俄乌“能源停火” ，不到24小时双方“互炸” <https://news.google.com/rss/articles/CBMieEFVX3lxTFBKeGZPdGVXQmotYWdLc3Y1SDBwOGo5VWNUVmtSYTc2Vkw0NnZCbll4aFZyTG82RHRzOElaQkluOFRPdG13QjUwMkUtc0hjT1lPU01hNjJmelhOaXhBSkw2NGpZd3FybVFqRFp4ZW52dURTYS1QXzQwZA?oc=5>
+- **特朗普** | 肯尼迪中心董事会决定立即关闭该中心 <https://news.google.com/rss/articles/CBMieEFVX3lxTFBhaWJWV1J2YzNxelRwczVlRUY5MzA0TXRBbG5Pem9TR3hucXpNUVN3S1h3N01uajZBVTl2WEJ1Q3lBUzhNZjlmUE04eDRTZEtmSmEtNWc2RTJYVFVNd3FtU2t2RmhPWXU5Y2pzdjQ5SXR5S3JMbkdHTg?oc=5>
+- **特朗普** | 知情者：黄仁勋将出席特朗普为习近平举行的国宴 <https://news.google.com/rss/articles/CBMiakFVX3lxTE1CSjFEWUtxbVpoTFl3WUhydWZzVlNtdlp4UG13M1NiSUZKZkwxTWZjdmg4bTNrMzRSVDdWV0R6SER0YmgyR3o4RHVGdGJtLTNUV0VHSnY4MWV3M1JqR1AxU1E0TzkxUEhMRmc?oc=5>
+- **特朗普** | 沃什加息“没有退路”！特朗普亲手选的主席，正把利率推回4%？ <https://news.google.com/rss/articles/CBMi5gFBVV95cUxPRFZuV3c3QVdTQWx1d1NQaHl6UFlvSzFERHAwejV2UnRsOEVzODI2UURnWjFSQzBGckpBREVzbllEelNTTU02cThUaXdGSTA5RVJyNnhVcDlGTU5MYzVnTDZDcXl1MGtod0tSbVZoM3NNZkZpM0JZb3FuelRRT2ItdHJEZF9ZWEt1QzRFMXltZmdBZDBjSm1TdTBEdG9peDMyc2ZrZzZsTHpTOHczOUp5MktETG5BVktUQXNCV29XTDQ4RnBkMW5CLTdVNC1nV2pPZnRfMEQ0OGpKTVdMZWRYTUMzNzZudw?oc=5>
+- **特朗普** | 新闻分析丨特朗普访问爱尔兰英国内外承压--国际 <https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZSUsyN0x2STJ4b0stTnZrX0lXVEx4VjctcEJ6bXRqUW0wZ0owWlpZRUh0dlEtLXFYbi1qMmVSckJ1SUZGMjIyeWg5Nl9oQXVlRXRNSUhWOEJNdXlKcWkwOWxnWHdvbG9wMF9R?oc=5>
+- **Trump** | 特朗普斥AI安全担忧为“骗局”，无意加强监管 <https://news.google.com/rss/articles/CBMihgFBVV95cUxObFU1T3BkTGdubXJrX1R0MjcxVU5Gd0x6U043QnBzbkVrWmxnTFpqWEVhbU1oQmVfaXNGT0Y5ZGdYakI3elBybGJocTl1STdNdnZkYVQyRE9XWV8wdks1MFVUNFpRb1MzbU5rbVY1MmxNbGxYMEdzLVdHM1FlQWdqTTJvUm9zdw?oc=5>
 
 ### 2026-09-15 23:21  (7 条)
 
