@@ -1,118 +1,71 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-16 17:24**
-- 本轮扫到 11862 条, 新增 **13** 条
+- 最近更新: **2026-09-16 20:18**
+- 本轮扫到 11868 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (13 条)
+## 本轮新发现 (6 条)
 
-### ❤ 周杰伦演唱会
+### 蔡徐坤亮相纽约时装周随行手记发布
 
-- 艺人/关键词: **周杰伦**
+- 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923674_m1d5ae17da03301pt54.html>
-
-### 特朗普与习近平四个月后再度会晤，全球瞩目
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 亚洲日报
-- 时间: 2026-09-16 12:48
-- 链接: <https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TUkNJVTFKRmYwX0JpUVEyc19NMHJzNnJRMjdvSUhlem5oNER1Zi11dkdsTzBmRVBERTdUUWdvRmxUaTJWTDRwSFNOenUzQU16VGZxaTNGT1JOMnM?oc=5>
+- 链接: <https://k.sina.com.cn/article_7879924002_m1d5ae192203301ls9e.html>
 
 ### 乌外交部：正筹备泽连斯基与特朗普会晤
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-09-16 16:07
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iWFpMU1hkUHpBT01tRXhfdUI3c2ZPa0d4ajRWVUFYaHZMc1VGeTBSa1lTbUtVZzRzYWJGcW9DOHRLX3V5Y2dmcjA4UmViREFuTERYQnlNUzJJcjdBZGpuWQ?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-09-16 17:16
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1IQko4X1lRTzJvZDJZc1FOWFEtWkViYUFiVWFBcmRXNFk5M0d2X3U2b3FKdUlLLUdUM1BoUGZsNDVvTnpsa190WE9wVlE?oc=5>
 
-### FT：中国力主釜山协议延至特朗普任满 美国因稀土问题坚持只延6个月
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-09-16 14:48
-- 链接: <https://news.google.com/rss/articles/CBMitgNBVV95cUxNNmlTVUFfNTFMaTlXcE14V01UYjBRYnVyMHFaMEhIdmJXWnVYR1BxbEFFUXUzbXVVdGJxbGhxMHEyS1RydW8tbUdKcFZZZU1abDVOeEhNRjA3dTE3MUVmYnJSaFUtRmRZR1hGelkzWUh2c0Vfc0hISFliRTZ6ZUlxVXhQbmpIbmoyeURNd3VHNk1ZcjYzT0dydG1QQklOYUItZUQ3S2hNS3RBWklxOTI1S3RqQWY5ZzNsN20yOUVKT1BiM3p0b0p2bDd3ZGF2c011UXVwUUZnSjE3RURiRDlHX2hjY2RVYkp0Q1FJd2twTFRoTlFPTkJyTVRhUXV2dUdPRy1hRDlqYkloZ1hxZWF5N3ZsNk9YVXY4aWQ5NHlnUXlndkZycTQxZThfM1ZVaGFuaDlEWGlPeWtTd1VkSmFYLUhnZzNMdV8zeWVCdzBMd0hPcTJnSWlVdWhkRFNJQk9oQm9UV01mb3JhRVczTXp0LWF0UF9tdG1lVGJZdUFqSUZWRlVrMGtMcnUxNjZCSHZKaUdyQjYwVzhvUGFPb1Jja2tEQU12UE9mTUVvTVhOZDFzY1FRUGc?oc=5>
-
-### 美国众议院再次限制特朗普在伊朗战争中的权力
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: IDNFinancials
-- 时间: 2026-09-16 16:00
-- 链接: <https://news.google.com/rss/articles/CBMi0wJBVV95cUxQSnlVM2tBclVjRGU1Uk00c3F4b1RzVm43dGh3X0N1WmR1cFhmQkpMbS1EUWJJV0F3TWhBM3pQTDFyQ3N4SmNHcnM5MWYxMllsWXJQRnBuaEVJRDRfZkRGQmlKNzJ4eTVyMjZmcmRHZkMzbDN5MlR0TExZV3NUbnN3TmR2WHZydndjTDlOZ1EzR0k4bFQ0dGpxeVYzQ0toVlczSG9BaktLcjE4YlF0dDNYd0xPdTdpdXlINkNVUlVkdDBpVFVUWDl4YzRBSmlfLXBZTi1OcUtKQ0puTy16cUd1TGFPeWUzeExsWmlraURKZW50NTRIMHVrMnBfc1M2WVp6Uk95WXZzbU9iUnI2d3RRWVNhRVRvQnZ3WVZZXzduYUs3NU9hWFhBLTdzaVFXXzU5Tm1XbzM5M3QycjBXdG1ZYlp0cHcxRS12eVJaZ0lIX05Kd28?oc=5>
-
-### 美国想“以油养战”
+### 特朗普高调宣布俄乌“能源停火” ，不到24小时双方“互炸”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-09-16 06:02
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1sZXNHa2QyaTEtRkd3WFNvM3lFay1PdVJfYlg3ZXB6d2FuX2JBOWNLdjVfa0dDVnZ0OXJsWnhZeEdzSlQ3TkxybWhzdjhDRFJ4bjctOERCS0QtVWFhVVowbUtVa0NTQjVGMmZUbXZuWGdvLU1wX011cQ?oc=5>
+- 时间: 2026-09-15 23:43
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdGlSM2VFLTVWMWZzWUNnMk9HQ1VxMGhkTnlFUDNUNDkwMG0xTlNaeDZkWUpGaFFTS3Q4QllmdW1uOW5NMWVoZkZtd2dxRTBfeEJ1Nkp6Ri1DbUNBU2JUSnpjeF9GR2NpUHFHRlVLTl9rZThUS3pJcWFUSDRrOVZkVUZTc0pxZTRCZncwZi1Lamo5bGlIRk1BMU5pRktPRjlac2ktMlZqNVJfMmQ2anR1dmluVVBEZVpkcVgyY0dDQXluLUxwNGRrYUFiaFpuNGoz?oc=5>
 
-### 美司法部长称发现2024年行刺特朗普枪手新信息
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-09-16 05:01
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBjUWlQdHNpcWpqNmxsVTl2WF9QMUNDXzQxdDJGYU9najJxM3F5dnU4YU5ZU3JkLVFrZFZwTHYxNEhlYWw4VWY2ZkdybzdOaW5ERUlidVU4R2E1QUhGZl9IOHNFTG9ISE5Rd1F0M0pZdVI?oc=5>
-
-### 美国司法部长称发现2024年行刺特朗普枪手新信息：冒用前总统候选人名义收取包裹，从亚马逊买零部件和工具，被击毙后匿名人士出资将其火化
+### 白宫发言人：特朗普仍然相信美联储的独立性。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-09-16 15:29
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GZ1Z0VjVPUkNQSnRvT1dWSV9rX1czOHNnaEZlTTZCM0pSNUJYR1dpMVpFT1Q0Z1A1Q05aRHhDS1hLUFRNVy1nRkZSOW5ibTFrcUZJdzl0TDJjVkdPREE?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-09-16 19:09
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE8tTFpmU0hKYTFXLVpQQWw2WExOSVV4V0JkN1NMaVZGcEtnRXJ0OG1aSEdCOGp1dDFJMDFTNzItNWJEREp5ZjFzZjZnNA?oc=5>
 
-### 特朗普真急了，一个电话打到黄仁勋那里
+### 经济学家：美联储应当顶住特朗普压力，选择加息
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-09-15 04:40
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxQWE5EbWEzX2pVWVV4NEU1aXZ5elk2dE0tMUI4b1p6VHo2bzMzYVBrR2ZET3F2Qlo5b2N4US1RZXVMai11MmpKSS01Zkx3NDB0YWxJa3phd0k2cnhkYU9oN2pudTg4d0tTR0EwUXBTTnpnbl84amtHdjA4em9UZ1RicTB6ZE1pN3M?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-09-16 06:33
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxNNjBUSUJqc21xT1lsQWRIZVR5S1BUbkNjc25wUkwtT01DTnNaNTkyeGs1Ry1PSGY3UmlvVm5kRmpuWkI2aV9WOWFyREpIaF9ZcklwTjJpa1EzZTlqRWxyN2hadVBPVWc5QUtyWmd2eWlDaTV6WDU1WDVtbWotbGRUTC1Mcms1SVU?oc=5>
 
-### 贝森特与何立峰周末据报纽约会晤，为特习峰会敲定经贸成果
+### 特朗普称最高法院邮寄选票裁决“对共和党是重大失利”
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-09-16 13:46
-- 链接: <https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVWIyUmhnTXUwMTBVZ1ZONXJOWTRwRXFSeDVwZV9SUTJZZGpBUUItOUlkVUtIb0dwU24ycFM2RjUzUERhZG10MnpmZTFybi1ZSHpVTllkOWhUWW83c3l2RmtrN0p5WVZWRkdqQ2ZUT1dHczIwTVQxN2FRR2pQbGNGREFONmdEbjdBSHU0WU9nSkQ4eWo4S3EwNFowTF9BVTl2VXNTU3EzY1E1Z3psenU2UHlzaVk2MVNndUlZ0gG-AUFVX3lxTE5vTGxKWTh1TWVGX0VkNUNCZ0k1bUlieTBZZnZZMGdNbEdaTGFGbWl0dHpPWEJNMFRHb1FWbkZvUzBIand6Ul83Ukc4am9BTnNSdTNaUm1yQUphcUpRT3I1RWpFNnI3aDhIUzNDRVJsQjZaNGVHZ21lY25nZkVwbFR2MGRGWGhyZDAtdmpEd3FrMFJiMjhvSHZLVlVrdEFLV1VLdWRfcVYxcEhCZV95VjUwcWxxWjNsdzFBWVZzSVE?oc=5>
-
-### 特朗普发放$5,000支票的意图非常真实，贝森特表示
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-09-16 13:55
-- 链接: <https://news.google.com/rss/articles/CBMinwFBVV95cUxOUFYxVkVTYUF0NUROYjFjV3E5QktQYXF3b3VJNHVJdkdTTnRhMENFRlFiaFFnRldrd09tVEVnQnlmRVVRNVdhc3JTdGxpMkNwaFNnV1JvQ3YxRzlDWHduVklvbWdUdTU5bDdScjcwMFNhbmtMWVkwWXA2Mi1fU1ZNdmFuMGFaTXhxMzVGOWVmYUJGRk9YX2tnT1NUblN1dlE?oc=5>
-
-### Brady Dale：特朗普发行TRUMP是CLARITY法案受挫的首要原因
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: TradingView
-- 时间: 2026-09-16 04:05
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xckhESE01Yk0tNVZNNWlEcGV2SDlHc2wzMUU4RkFwaEMzMnhjYmpzejkzQV93dnl6cUd3dGFuLWFrNzF1SktUdFozRS1YUXZmZmZIeGtDei1yNlNXRjVybFpFeWV0c2M?oc=5>
-
-### 【9月14日实盘复盘】 过去一周TRUMP从2.3附近阴跌至1.94，7天... | OKX Orbit
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: OKX
-- 时间: 2026-09-15 12:39
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMbDU3MDQwUkg1ZmFjTlFXX19qXzNucHVnYjNnU0ZreVY1VVdnaXowcjdmT0o1TC1yeHEwUlIzWjhhZDdleVIwSkRnYk82aVBmSW5fRGJONEozc3VKem5KQw?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-09-15 14:42
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMnozOWV5S29sdVl5YVJTSDBzMjlSOFIwaUQyX0t6NzFpT0J4R00zTzFHV2JKNUc2TzVPOEozTlhJOE9SLVYtdHFHZjRRTmJlV293QkZWa1JaR25SQjJjSXNzbVBXd202cGUxaXV1bXRiLTRSRkt6bEpuVXhDSXFLTUIyNUxOT1QxVllOLWt5SWxFMlZrZU5GVXJGVUw0VmlfZGdNOFhNSDUzd050NnBYTklTMXFEVlJBM2xaSm9TS2FBV3ZaXzlIb2RWX0xkQmtvTUVFeDE5aTJWRE05b0Z3?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-16 20:18  (6 条)
+
+- **蔡徐坤** | 蔡徐坤亮相纽约时装周随行手记发布 <https://k.sina.com.cn/article_7879924002_m1d5ae192203301ls9e.html>
+- **特朗普** | 乌外交部：正筹备泽连斯基与特朗普会晤 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1IQko4X1lRTzJvZDJZc1FOWFEtWkViYUFiVWFBcmRXNFk5M0d2X3U2b3FKdUlLLUdUM1BoUGZsNDVvTnpsa190WE9wVlE?oc=5>
+- **特朗普** | 特朗普高调宣布俄乌“能源停火” ，不到24小时双方“互炸” <https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdGlSM2VFLTVWMWZzWUNnMk9HQ1VxMGhkTnlFUDNUNDkwMG0xTlNaeDZkWUpGaFFTS3Q4QllmdW1uOW5NMWVoZkZtd2dxRTBfeEJ1Nkp6Ri1DbUNBU2JUSnpjeF9GR2NpUHFHRlVLTl9rZThUS3pJcWFUSDRrOVZkVUZTc0pxZTRCZncwZi1Lamo5bGlIRk1BMU5pRktPRjlac2ktMlZqNVJfMmQ2anR1dmluVVBEZVpkcVgyY0dDQXluLUxwNGRrYUFiaFpuNGoz?oc=5>
+- **特朗普** | 白宫发言人：特朗普仍然相信美联储的独立性。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE8tTFpmU0hKYTFXLVpQQWw2WExOSVV4V0JkN1NMaVZGcEtnRXJ0OG1aSEdCOGp1dDFJMDFTNzItNWJEREp5ZjFzZjZnNA?oc=5>
+- **特朗普** | 经济学家：美联储应当顶住特朗普压力，选择加息 <https://news.google.com/rss/articles/CBMihwFBVV95cUxNNjBUSUJqc21xT1lsQWRIZVR5S1BUbkNjc25wUkwtT01DTnNaNTkyeGs1Ry1PSGY3UmlvVm5kRmpuWkI2aV9WOWFyREpIaF9ZcklwTjJpa1EzZTlqRWxyN2hadVBPVWc5QUtyWmd2eWlDaTV6WDU1WDVtbWotbGRUTC1Mcms1SVU?oc=5>
+- **特朗普** | 特朗普称最高法院邮寄选票裁决“对共和党是重大失利” <https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMnozOWV5S29sdVl5YVJTSDBzMjlSOFIwaUQyX0t6NzFpT0J4R00zTzFHV2JKNUc2TzVPOEozTlhJOE9SLVYtdHFHZjRRTmJlV293QkZWa1JaR25SQjJjSXNzbVBXd202cGUxaXV1bXRiLTRSRkt6bEpuVXhDSXFLTUIyNUxOT1QxVllOLWt5SWxFMlZrZU5GVXJGVUw0VmlfZGdNOFhNSDUzd050NnBYTklTMXFEVlJBM2xaSm9TS2FBV3ZaXzlIb2RWX0xkQmtvTUVFeDE5aTJWRE05b0Z3?oc=5>
 
 ### 2026-09-16 17:24  (13 条)
 
