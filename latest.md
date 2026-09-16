@@ -1,35 +1,23 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-16 01:30**
-- 本轮扫到 11823 条, 新增 **7** 条
+- 最近更新: **2026-09-16 07:04**
+- 本轮扫到 11833 条, 新增 **10** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (10 条)
 
-### 特朗普：AI风险是“骗局”，唯一需要的“护栏”就是我|唐纳德·特朗普|中国青年报|美国总统|黄仁勋|英伟达
+### 黄誉博就这样谨言慎行的踩中了每一个陷阱音乐节 搞笑
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-15 12:55
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE10NHFaRThRcGY1cVN0c1JNTGFES1ZVbkVCV3RUUnlWN2hyVkJldVVrbm9fdXBPQmxhVG1JWm13WUtGVi1Oak8yZWsyZXJxdVMtYUtMdjBHWXFfTm15Rm1sZ0JvZnhZVGhCeG1MQjlBYUNwNGRzZGVzeg?oc=5>
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923551_m1d5ae175f03301qv7e.html>
 
-### 特朗普高调宣布俄乌“能源停火” ，不到24小时双方“互炸”
+### 周杰伦自导新歌MV《西西里》，vivo彩蛋点缀科莫湖
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-15 23:43
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBKeGZPdGVXQmotYWdLc3Y1SDBwOGo5VWNUVmtSYTc2Vkw0NnZCbll4aFZyTG82RHRzOElaQkluOFRPdG13QjUwMkUtc0hjT1lPU01hNjJmelhOaXhBSkw2NGpZd3FybVFqRFp4ZW52dURTYS1QXzQwZA?oc=5>
-
-### 肯尼迪中心董事会决定立即关闭该中心
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-16 00:23
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBhaWJWV1J2YzNxelRwczVlRUY5MzA0TXRBbG5Pem9TR3hucXpNUVN3S1h3N01uajZBVTl2WEJ1Q3lBUzhNZjlmUE04eDRTZEtmSmEtNWc2RTJYVFVNd3FtU2t2RmhPWXU5Y2pzdjQ5SXR5S3JMbkdHTg?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1719014980_m6676164405301ndzm.html>
 
 ### 知情者：黄仁勋将出席特朗普为习近平举行的国宴
 
@@ -37,36 +25,81 @@
 - 来源: `googlenews`
 - 场馆: 联合早报
 - 时间: 2026-09-15 22:50
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1CSjFEWUtxbVpoTFl3WUhydWZzVlNtdlp4UG13M1NiSUZKZkwxTWZjdmg4bTNrMzRSVDdWV0R6SER0YmgyR3o4RHVGdGJtLTNUV0VHSnY4MWV3M1JqR1AxU1E0TzkxUEhMRmc?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wZnkxdHBmV3hYeWwzcmZqRlVqcGRCUk01RjBZUkhTdjRxTWhLSTFjeWRacG1mZ21TT1hSS3U2Z3djRmhoTVVlM291ajR0eW14SS1aNHJMUEZqZnBXNnBTUk5ydF9YZw?oc=5>
 
-### 沃什加息“没有退路”！特朗普亲手选的主席，正把利率推回4%？
+### 美司法部长称发现2024年行刺特朗普枪手新信息
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-09-16 06:10
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE14amx3eno1ejFHajNoZS00U2JQbEp5WnBOTkVvc01Uakhvc215LWJXRmgxS3hsdzBfQVhCSmgtRkF6aS1OOVRBWFBDc2xYR3ZISUt6U2lJV0xoNU9iMXowM3JuUmpNQmFzN3FxZ2JkNmxmN1BzZWN6ZVBXbVVDTnc?oc=5>
+
+### 特朗普不想让美国AI输给中国
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: t.cj.sina.cn
+- 时间: 2026-09-16 03:49
+- 链接: <https://news.google.com/rss/articles/CBMihgFBVV95cUxQNmVpM1dTcEcxeUdFMTVIR2JBR3N3eUhLV0RHUmd4RmdKU2xPZ0N0RHlZUkJLUUxZS1Uyb2lqb21Sb3hYZ01YRWszTllVOFREX0twR3VfRTY5RHVDX0ZLbjd1Zkh5SWpPeTdTRlhKSkMtNHByMkN0V0g2MTNQQjJnRUhBZ3pfdw?oc=5>
+
+### 经济学家：美联储应当顶住特朗普压力，选择加息
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-09-15 03:36
-- 链接: <https://news.google.com/rss/articles/CBMi5gFBVV95cUxPRFZuV3c3QVdTQWx1d1NQaHl6UFlvSzFERHAwejV2UnRsOEVzODI2UURnWjFSQzBGckpBREVzbllEelNTTU02cThUaXdGSTA5RVJyNnhVcDlGTU5MYzVnTDZDcXl1MGtod0tSbVZoM3NNZkZpM0JZb3FuelRRT2ItdHJEZF9ZWEt1QzRFMXltZmdBZDBjSm1TdTBEdG9peDMyc2ZrZzZsTHpTOHczOUp5MktETG5BVktUQXNCV29XTDQ4RnBkMW5CLTdVNC1nV2pPZnRfMEQ0OGpKTVdMZWRYTUMzNzZudw?oc=5>
+- 时间: 2026-09-16 06:33
+- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxOXzJaYTZxODZpckVPM1BpUEM1V2xLVThacVJPMEJQeERzcWZTbDFSTGR4THVNT0FOQUczS2pvb3BWWDNTMW5YR1ZhWERXY3pWTmdBMTVGYm50czZyY2N1REtIdi14WVNtb3VsR3BIOGVvVjZMNy1jdUxNMUFEUGZYSml3MTJqSkZ0b2gzQ3kwWEJHeERad0JSdjB2MVU?oc=5>
 
-### 新闻分析丨特朗普访问爱尔兰英国内外承压--国际
+### 无视英国反对，特朗普再挺爱尔兰统一
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 人民网
-- 时间: 2026-09-16 00:40
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZSUsyN0x2STJ4b0stTnZrX0lXVEx4VjctcEJ6bXRqUW0wZ0owWlpZRUh0dlEtLXFYbi1qMmVSckJ1SUZGMjIyeWg5Nl9oQXVlRXRNSUhWOEJNdXlKcWkwOWxnWHdvbG9wMF9R?oc=5>
+- 场馆: news.ifeng.com
+- 时间: 2026-09-13 20:26
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5XUjFDUXdaY0cwN01YVEtmOHlCUzZrbEMtbnF1WE0teWFKNURxWGRYZ19rQUUybnVITzBLNFhqb2tmb2hJZVhOaENBcVo?oc=5>
 
-### 特朗普斥AI安全担忧为“骗局”，无意加强监管
+### 特朗普怒斥硅谷巨头
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: news.ifeng.com
+- 时间: 2026-09-16 00:30
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1NYW4yRFdNd2xsdzVtVGpRVGFOMXplV3YxVmJudTI1LXh4RGZfS3MxYnEtazdiMXlQOFNiWnJRa1NaTTJKUDNwa0JEM3Q?oc=5>
+
+### 卡尼披露访美轶事：特朗普送我“白宫钥匙”，但警告说如果你开门进来可能会遭枪击
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 环球网
+- 时间: 2026-09-15 09:37
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE41RGk2T2Vkc1FrLVgyeTlaeldTTGwzZDZGZExkT01qcDFMSmVNeWlNR19wMDFwb0RPQWR1ZzVqLWtIODJnSHJsLXhZbTk5ZWgzVmppUUNaM1A?oc=5>
+
+### 懦夫群像：为何这些权势人物向特朗普卑躬屈膝
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: 纽约时报中文网
-- 时间: 2026-09-15 02:08
-- 链接: <https://news.google.com/rss/articles/CBMihgFBVV95cUxObFU1T3BkTGdubXJrX1R0MjcxVU5Gd0x6U043QnBzbkVrWmxnTFpqWEVhbU1oQmVfaXNGT0Y5ZGdYakI3elBybGJocTl1STdNdnZkYVQyRE9XWV8wdks1MFVUNFpRb1MzbU5rbVY1MmxNbGxYMEdzLVdHM1FlQWdqTTJvUm9zdw?oc=5>
+- 时间: 2026-09-16 03:41
+- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxQNjlHTGlnaTZwTkM4cmdkb0tPcHJobDRlbWk0TXFhWnEzWEtTMmRweW0wcDBQcE9mLXA1NW5jTVZ3YURjRGZQSnF3UnpSS29uakRRQUxsazFaSDFXdnlXbTBuTUVvWGtvOXFHenVCbFhNaXdYZ0VwMENoem9aMnZ5VTBWMA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-16 07:04  (10 条)
+
+- **王一博** | 黄誉博就这样谨言慎行的踩中了每一个陷阱音乐节 搞笑 <https://k.sina.com.cn/article_7879923551_m1d5ae175f03301qv7e.html>
+- **周杰伦** | 周杰伦自导新歌MV《西西里》，vivo彩蛋点缀科莫湖 <https://k.sina.com.cn/article_1719014980_m6676164405301ndzm.html>
+- **特朗普** | 知情者：黄仁勋将出席特朗普为习近平举行的国宴 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wZnkxdHBmV3hYeWwzcmZqRlVqcGRCUk01RjBZUkhTdjRxTWhLSTFjeWRacG1mZ21TT1hSS3U2Z3djRmhoTVVlM291ajR0eW14SS1aNHJMUEZqZnBXNnBTUk5ydF9YZw?oc=5>
+- **特朗普** | 美司法部长称发现2024年行刺特朗普枪手新信息 <https://news.google.com/rss/articles/CBMif0FVX3lxTE14amx3eno1ejFHajNoZS00U2JQbEp5WnBOTkVvc01Uakhvc215LWJXRmgxS3hsdzBfQVhCSmgtRkF6aS1OOVRBWFBDc2xYR3ZISUt6U2lJV0xoNU9iMXowM3JuUmpNQmFzN3FxZ2JkNmxmN1BzZWN6ZVBXbVVDTnc?oc=5>
+- **特朗普** | 特朗普不想让美国AI输给中国 <https://news.google.com/rss/articles/CBMihgFBVV95cUxQNmVpM1dTcEcxeUdFMTVIR2JBR3N3eUhLV0RHUmd4RmdKU2xPZ0N0RHlZUkJLUUxZS1Uyb2lqb21Sb3hYZ01YRWszTllVOFREX0twR3VfRTY5RHVDX0ZLbjd1Zkh5SWpPeTdTRlhKSkMtNHByMkN0V0g2MTNQQjJnRUhBZ3pfdw?oc=5>
+- **特朗普** | 经济学家：美联储应当顶住特朗普压力，选择加息 <https://news.google.com/rss/articles/CBMinAFBVV95cUxOXzJaYTZxODZpckVPM1BpUEM1V2xLVThacVJPMEJQeERzcWZTbDFSTGR4THVNT0FOQUczS2pvb3BWWDNTMW5YR1ZhWERXY3pWTmdBMTVGYm50czZyY2N1REtIdi14WVNtb3VsR3BIOGVvVjZMNy1jdUxNMUFEUGZYSml3MTJqSkZ0b2gzQ3kwWEJHeERad0JSdjB2MVU?oc=5>
+- **特朗普** | 无视英国反对，特朗普再挺爱尔兰统一 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5XUjFDUXdaY0cwN01YVEtmOHlCUzZrbEMtbnF1WE0teWFKNURxWGRYZ19rQUUybnVITzBLNFhqb2tmb2hJZVhOaENBcVo?oc=5>
+- **特朗普** | 特朗普怒斥硅谷巨头 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1NYW4yRFdNd2xsdzVtVGpRVGFOMXplV3YxVmJudTI1LXh4RGZfS3MxYnEtazdiMXlQOFNiWnJRa1NaTTJKUDNwa0JEM3Q?oc=5>
+- **特朗普** | 卡尼披露访美轶事：特朗普送我“白宫钥匙”，但警告说如果你开门进来可能会遭枪击 <https://news.google.com/rss/articles/CBMiWEFVX3lxTE41RGk2T2Vkc1FrLVgyeTlaeldTTGwzZDZGZExkT01qcDFMSmVNeWlNR19wMDFwb0RPQWR1ZzVqLWtIODJnSHJsLXhZbTk5ZWgzVmppUUNaM1A?oc=5>
+- **Trump** | 懦夫群像：为何这些权势人物向特朗普卑躬屈膝 <https://news.google.com/rss/articles/CBMigwFBVV95cUxQNjlHTGlnaTZwTkM4cmdkb0tPcHJobDRlbWk0TXFhWnEzWEtTMmRweW0wcDBQcE9mLXA1NW5jTVZ3YURjRGZQSnF3UnpSS29uakRRQUxsazFaSDFXdnlXbTBuTUVvWGtvOXFHenVCbFhNaXdYZ0VwMENoem9aMnZ5VTBWMA?oc=5>
 
 ### 2026-09-16 01:30  (7 条)
 
