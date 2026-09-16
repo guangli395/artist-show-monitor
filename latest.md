@@ -1,92 +1,155 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-16 07:04**
-- 本轮扫到 11833 条, 新增 **10** 条
+- 最近更新: **2026-09-16 12:41**
+- 本轮扫到 11849 条, 新增 **16** 条
 
 ---
 
-## 本轮新发现 (10 条)
+## 本轮新发现 (16 条)
 
-### 黄誉博就这样谨言慎行的踩中了每一个陷阱音乐节 搞笑
+### 蔡徐坤登Fantastic Man九月刊封面，海内外同步发布
 
-- 艺人/关键词: **王一博**
+- 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923551_m1d5ae175f03301qv7e.html>
+- 链接: <https://k.sina.com.cn/article_5097562275_12fd6a0a304001ntsc.html>
 
-### 周杰伦自导新歌MV《西西里》，vivo彩蛋点缀科莫湖
+### 老牌港台歌手演唱会一票难求，他们靠什么吸引两代人同场？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1719014980_m6676164405301ndzm.html>
+- 链接: <https://k.sina.com.cn/article_1912964267_720584ab020029sci.html>
 
-### 知情者：黄仁勋将出席特朗普为习近平举行的国宴
+### 遗憾！vivo辟谣周杰伦出席新品发布会
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_2122506831_m7e82e24f033023he0.html>
+
+### 爱琴海2026周杰伦世界巡回演唱会故事征集开启
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1899227237_7133e86504008nm7u.html>
+
+### 加拿大总理用“特朗普送钥匙”形容美加关系
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-09-16 10:26
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1xdXRtdml1YmpibDNnLTI2VEg0UzhvQWVmTkNjSnRPZU5pNElmd1JnbDRLMVU3TDRWYmJqQXB5Mlp4REZERVlBS0R3T3U?oc=5>
+
+### 卡尼回忆特朗普赠送白宫金钥匙：或许可以进门或许被枪击，这很像美加关系
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-09-16 10:46
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9XdUVqVlVET2xtek1YLUNhbm51TFl5bG1tWE5ESXNvN2RyZGlBTnRvZnp2Q1pUZEJMR05aeXF4akllU3NYeUZraGNkcEVWNlptXzAxemtKMGplb1puQzZSSA?oc=5>
+
+### 特朗普曾送卡尼白宫钥匙 幽默揭示加美关系微妙紧张
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-09-16 02:38
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5wOHJvSm5Ud0NmcHJpRUFabFMtbHVNcm5CbjlXaGM0eFQzUFpwak5aT2RjWUplanE5WnFPemVNNEoyYWZJV0FDY00tM1BSVEZueXJwMVVFeDMwWklKa0NibTFCcU9jbVYzTWtjTVhrUDg?oc=5>
+
+### 胡塞要一统全国，拨通美方电话不准美军插手，特朗普已经乖乖默许
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 手机新浪网
+- 时间: 2026-09-16 12:33
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE9OSzBCNFdJdkdsVzlwZDBIWVNRMFpqTFJ4QnBsdUFTdG5YU2t2VUw0MDJmSTJIbWhNODJ3YUw0VnA1RHF3aDIzSHJpZEdRQ3hIdWVCSGZtTnVZUGpiaThIVWdibkc3aERPOFludWJ0a0Vudw?oc=5>
+
+### FBI发现2024年行刺特朗普枪手新信息，涉及个人背景和经历
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: finance.sina.cn
+- 时间: 2026-09-16 10:53
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9lMEFKc3BaUjFhMXNmdzEyWmJET01ubnBaZmxIcnlyQUpia0NjYk1SaVRjMUlGTUdPSlBiU0dSWlpHOE8yVUNpUVZ3S2pLRzNCYm81ekpHRWl3N09VdTJNaTh3X2RKSXQtWWlCekRjSm9ULXZuZEVXaQ?oc=5>
+
+### FBI发现2024年行刺特朗普枪手新信息，涉及个人背景和经历。
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 虎嗅网
+- 时间: 2026-09-16 06:57
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE04T0JRYWN2ZTFFLWlBNmg3UzBZNnlwUEh4emxIOEEzdERWalhvSmdUMDFYYllOcGcybVBjRnVWaXRGbnJCTE9OTkV1NkJTVFVPbVVJ?oc=5>
+
+### 美司法部长称发现行刺特朗普枪手新信息，知情人：枪手曾冒用前总统候选人之名收取包裹，还从亚马逊购买零部件和工具，对步枪进行性能改装
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Sohu
+- 时间: 2026-09-16 06:31
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxQbW9JUW5OaU1xTjVyWktJVEZsdUV3a3pkTVRRcHhDdVlYR2U0bk5KVU93LWxnS1JQZVpER3ZGM2ZqaU9WNTBVVURwNFg3RXZuMllzTkIyclNNTERYSEpvVFlJTHBWYnp1MC1GY08xY3pPWEtYVkoxOUowdVFpTU9rTWdZdnB0RkdoMzkwSg?oc=5>
+
+### 特朗普真急了，一个电话打到黄仁勋那里
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-09-15 23:38
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5Hbnhib1JKZHhxWS02MVlvXzEtTXpyNC1Qb0FQcHF2M0JCOG5rMEt3aUxFaG5ueHI1eWtxLW8wNXZybkpUUjlWUHQwcjU?oc=5>
+
+### 美最高法院驳回邮寄选票限制，特朗普怒斥：让美国倒退100年！
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中国青年网
+- 时间: 2026-09-16 08:50
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kWmRTdjBCQ3YzNXY5Zi1GakktdWtEZW1fT3FpX2pmT0l1MndsaUZMemY4TElJUmlIVWFMMGppNlBzQm45RGtUV3Fub3ZEM0YwMEdBaFlOcmNGUXdJTktaMU9WY0M0SEk?oc=5>
+
+### 特朗普称最高法院邮寄选票裁决“对共和党是重大失利”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: finance.sina.com.cn
+- 时间: 2026-09-15 14:42
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxQck5sSFE2Zlp4c1lWRW1NSHpWLXpDSEVnT3FYYTBkQ0ZVcXVhc0JRRjRmaDBlU2RVckx6eEVNMFY3dFBWdkRUTkZnMTJTVE5GaTRZSXlTcXZsNzlrSEE1Q285dGpSNnV2WkhKdmw3SE5ENEFfT3dyVFdkOGpER2tRWmU3cmpDc3U4bTFLblJObW5USHh6QmJRRWtnbEpDcjAtd0RRLW9WYjU4QmFtRFRmSTJaM1F4c1daM2REbm5IZGFtaXFpV1NZeWVYUnh1QWNoenFIM0x6TWVHRWJoTGhB?oc=5>
+
+### 美国最高法院驳回邮寄选票新规 特朗普遭遇司法重挫
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 联合早报
-- 时间: 2026-09-15 22:50
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wZnkxdHBmV3hYeWwzcmZqRlVqcGRCUk01RjBZUkhTdjRxTWhLSTFjeWRacG1mZ21TT1hSS3U2Z3djRmhoTVVlM291ajR0eW14SS1aNHJMUEZqZnBXNnBTUk5ydF9YZw?oc=5>
+- 时间: 2026-09-15 03:06
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5MM08xWkxrdlRabDBfQzBaOFEzTkVsR0R4dktIXzZyWXB1NThZMEZsS2M1enExVUxLWk0zU1hkLWhTR0NUdFcyZHMzWGNtTnlMbWdSSy1ETVR3ekdDaFVJTU9KYlJkdw?oc=5>
 
-### 美司法部长称发现2024年行刺特朗普枪手新信息
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-09-16 06:10
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE14amx3eno1ejFHajNoZS00U2JQbEp5WnBOTkVvc01Uakhvc215LWJXRmgxS3hsdzBfQVhCSmgtRkF6aS1OOVRBWFBDc2xYR3ZISUt6U2lJV0xoNU9iMXowM3JuUmpNQmFzN3FxZ2JkNmxmN1BzZWN6ZVBXbVVDTnc?oc=5>
-
-### 特朗普不想让美国AI输给中国
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: t.cj.sina.cn
-- 时间: 2026-09-16 03:49
-- 链接: <https://news.google.com/rss/articles/CBMihgFBVV95cUxQNmVpM1dTcEcxeUdFMTVIR2JBR3N3eUhLV0RHUmd4RmdKU2xPZ0N0RHlZUkJLUUxZS1Uyb2lqb21Sb3hYZ01YRWszTllVOFREX0twR3VfRTY5RHVDX0ZLbjd1Zkh5SWpPeTdTRlhKSkMtNHByMkN0V0g2MTNQQjJnRUhBZ3pfdw?oc=5>
-
-### 经济学家：美联储应当顶住特朗普压力，选择加息
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-16 06:33
-- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxOXzJaYTZxODZpckVPM1BpUEM1V2xLVThacVJPMEJQeERzcWZTbDFSTGR4THVNT0FOQUczS2pvb3BWWDNTMW5YR1ZhWERXY3pWTmdBMTVGYm50czZyY2N1REtIdi14WVNtb3VsR3BIOGVvVjZMNy1jdUxNMUFEUGZYSml3MTJqSkZ0b2gzQ3kwWEJHeERad0JSdjB2MVU?oc=5>
-
-### 无视英国反对，特朗普再挺爱尔兰统一
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: news.ifeng.com
-- 时间: 2026-09-13 20:26
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5XUjFDUXdaY0cwN01YVEtmOHlCUzZrbEMtbnF1WE0teWFKNURxWGRYZ19rQUUybnVITzBLNFhqb2tmb2hJZVhOaENBcVo?oc=5>
-
-### 特朗普怒斥硅谷巨头
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: news.ifeng.com
-- 时间: 2026-09-16 00:30
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1NYW4yRFdNd2xsdzVtVGpRVGFOMXplV3YxVmJudTI1LXh4RGZfS3MxYnEtazdiMXlQOFNiWnJRa1NaTTJKUDNwa0JEM3Q?oc=5>
-
-### 卡尼披露访美轶事：特朗普送我“白宫钥匙”，但警告说如果你开门进来可能会遭枪击
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 环球网
-- 时间: 2026-09-15 09:37
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE41RGk2T2Vkc1FrLVgyeTlaeldTTGwzZDZGZExkT01qcDFMSmVNeWlNR19wMDFwb0RPQWR1ZzVqLWtIODJnSHJsLXhZbTk5ZWgzVmppUUNaM1A?oc=5>
-
-### 懦夫群像：为何这些权势人物向特朗普卑躬屈膝
+### Trump calls AI safety concerns… 等 7 篇综合
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-09-16 03:41
-- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxQNjlHTGlnaTZwTkM4cmdkb0tPcHJobDRlbWk0TXFhWnEzWEtTMmRweW0wcDBQcE9mLXA1NW5jTVZ3YURjRGZQSnF3UnpSS29uakRRQUxsazFaSDFXdnlXbTBuTUVvWGtvOXFHenVCbFhNaXdYZ0VwMENoem9aMnZ5VTBWMA?oc=5>
+- 场馆: Sohu
+- 时间: 2026-09-16 01:17
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeWQ3aFJwaDY2cEdZTnVLM3NGdGhZRzVlNjJkanhmWEtDR0JGVFdOQjNmNDN5dGpleHhaNlhxMTdocktXejd4WXFEak1sZXFRb28xMk9sdkRDRWpsUnRoYzNwb0VMbFBORjBLZTlKbUdTb295aEdITndJbDR3NnNacWY5NDlndGda?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-16 12:41  (16 条)
+
+- **蔡徐坤** | 蔡徐坤登Fantastic Man九月刊封面，海内外同步发布 <https://k.sina.com.cn/article_5097562275_12fd6a0a304001ntsc.html>
+- **周杰伦** | 老牌港台歌手演唱会一票难求，他们靠什么吸引两代人同场？ <https://k.sina.com.cn/article_1912964267_720584ab020029sci.html>
+- **周杰伦** | 遗憾！vivo辟谣周杰伦出席新品发布会 <https://k.sina.com.cn/article_2122506831_m7e82e24f033023he0.html>
+- **周杰伦** | 爱琴海2026周杰伦世界巡回演唱会故事征集开启 <https://k.sina.com.cn/article_1899227237_7133e86504008nm7u.html>
+- **特朗普** | 加拿大总理用“特朗普送钥匙”形容美加关系 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1xdXRtdml1YmpibDNnLTI2VEg0UzhvQWVmTkNjSnRPZU5pNElmd1JnbDRLMVU3TDRWYmJqQXB5Mlp4REZERVlBS0R3T3U?oc=5>
+- **特朗普** | 卡尼回忆特朗普赠送白宫金钥匙：或许可以进门或许被枪击，这很像美加关系 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9XdUVqVlVET2xtek1YLUNhbm51TFl5bG1tWE5ESXNvN2RyZGlBTnRvZnp2Q1pUZEJMR05aeXF4akllU3NYeUZraGNkcEVWNlptXzAxemtKMGplb1puQzZSSA?oc=5>
+- **特朗普** | 特朗普曾送卡尼白宫钥匙 幽默揭示加美关系微妙紧张 <https://news.google.com/rss/articles/CBMicEFVX3lxTE5wOHJvSm5Ud0NmcHJpRUFabFMtbHVNcm5CbjlXaGM0eFQzUFpwak5aT2RjWUplanE5WnFPemVNNEoyYWZJV0FDY00tM1BSVEZueXJwMVVFeDMwWklKa0NibTFCcU9jbVYzTWtjTVhrUDg?oc=5>
+- **特朗普** | 胡塞要一统全国，拨通美方电话不准美军插手，特朗普已经乖乖默许 <https://news.google.com/rss/articles/CBMickFVX3lxTE9OSzBCNFdJdkdsVzlwZDBIWVNRMFpqTFJ4QnBsdUFTdG5YU2t2VUw0MDJmSTJIbWhNODJ3YUw0VnA1RHF3aDIzSHJpZEdRQ3hIdWVCSGZtTnVZUGpiaThIVWdibkc3aERPOFludWJ0a0Vudw?oc=5>
+- **特朗普** | FBI发现2024年行刺特朗普枪手新信息，涉及个人背景和经历 <https://news.google.com/rss/articles/CBMieEFVX3lxTE9lMEFKc3BaUjFhMXNmdzEyWmJET01ubnBaZmxIcnlyQUpia0NjYk1SaVRjMUlGTUdPSlBiU0dSWlpHOE8yVUNpUVZ3S2pLRzNCYm81ekpHRWl3N09VdTJNaTh3X2RKSXQtWWlCekRjSm9ULXZuZEVXaQ?oc=5>
+- **特朗普** | FBI发现2024年行刺特朗普枪手新信息，涉及个人背景和经历。 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE04T0JRYWN2ZTFFLWlBNmg3UzBZNnlwUEh4emxIOEEzdERWalhvSmdUMDFYYllOcGcybVBjRnVWaXRGbnJCTE9OTkV1NkJTVFVPbVVJ?oc=5>
+- **特朗普** | 美司法部长称发现行刺特朗普枪手新信息，知情人：枪手曾冒用前总统候选人之名收取包裹，还从亚马逊购买零部件和工具，对步枪进行性能改装 <https://news.google.com/rss/articles/CBMijAFBVV95cUxQbW9JUW5OaU1xTjVyWktJVEZsdUV3a3pkTVRRcHhDdVlYR2U0bk5KVU93LWxnS1JQZVpER3ZGM2ZqaU9WNTBVVURwNFg3RXZuMllzTkIyclNNTERYSEpvVFlJTHBWYnp1MC1GY08xY3pPWEtYVkoxOUowdVFpTU9rTWdZdnB0RkdoMzkwSg?oc=5>
+- **特朗普** | 特朗普真急了，一个电话打到黄仁勋那里 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5Hbnhib1JKZHhxWS02MVlvXzEtTXpyNC1Qb0FQcHF2M0JCOG5rMEt3aUxFaG5ueHI1eWtxLW8wNXZybkpUUjlWUHQwcjU?oc=5>
+- **特朗普** | 美最高法院驳回邮寄选票限制，特朗普怒斥：让美国倒退100年！ <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kWmRTdjBCQ3YzNXY5Zi1GakktdWtEZW1fT3FpX2pmT0l1MndsaUZMemY4TElJUmlIVWFMMGppNlBzQm45RGtUV3Fub3ZEM0YwMEdBaFlOcmNGUXdJTktaMU9WY0M0SEk?oc=5>
+- **特朗普** | 特朗普称最高法院邮寄选票裁决“对共和党是重大失利” <https://news.google.com/rss/articles/CBMi3wFBVV95cUxQck5sSFE2Zlp4c1lWRW1NSHpWLXpDSEVnT3FYYTBkQ0ZVcXVhc0JRRjRmaDBlU2RVckx6eEVNMFY3dFBWdkRUTkZnMTJTVE5GaTRZSXlTcXZsNzlrSEE1Q285dGpSNnV2WkhKdmw3SE5ENEFfT3dyVFdkOGpER2tRWmU3cmpDc3U4bTFLblJObW5USHh6QmJRRWtnbEpDcjAtd0RRLW9WYjU4QmFtRFRmSTJaM1F4c1daM2REbm5IZGFtaXFpV1NZeWVYUnh1QWNoenFIM0x6TWVHRWJoTGhB?oc=5>
+- **特朗普** | 美国最高法院驳回邮寄选票新规 特朗普遭遇司法重挫 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5MM08xWkxrdlRabDBfQzBaOFEzTkVsR0R4dktIXzZyWXB1NThZMEZsS2M1enExVUxLWk0zU1hkLWhTR0NUdFcyZHMzWGNtTnlMbWdSSy1ETVR3ekdDaFVJTU9KYlJkdw?oc=5>
+- **Trump** | Trump calls AI safety concerns… 等 7 篇综合 <https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeWQ3aFJwaDY2cEdZTnVLM3NGdGhZRzVlNjJkanhmWEtDR0JGVFdOQjNmNDN5dGpleHhaNlhxMTdocktXejd4WXFEak1sZXFRb28xMk9sdkRDRWpsUnRoYzNwb0VMbFBORjBLZTlKbUdTb295aEdITndJbDR3NnNacWY5NDlndGda?oc=5>
 
 ### 2026-09-16 07:04  (10 条)
 
