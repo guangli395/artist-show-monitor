@@ -1,128 +1,134 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-17 17:24**
-- 本轮扫到 11935 条, 新增 **15** 条
+- 最近更新: **2026-09-17 20:27**
+- 本轮扫到 11948 条, 新增 **13** 条
 
 ---
 
-## 本轮新发现 (15 条)
+## 本轮新发现 (13 条)
 
-### 蔡徐坤在采访中透露了新歌的哪些信息
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068588_1d5b04dec06801s07c.html>
-
-### 蔡徐坤预告的新歌什么时候发布？
+### 蔡徐坤透露的新歌适合雨天听有什么创作背景
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849298_1d5acf55206801afso.html>
+- 链接: <https://k.sina.com.cn/article_7879923104_1d5ae15a006801ka6w.html>
 
-### 蔡徐坤新歌与雨天主题有何关联？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849300_1d5acf5540680148te.html>
-
-### 蔡徐坤纽约公园吃汉堡，新歌预告暗藏其中
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849300_1d5acf5540680148t0.html>
-
-### 特朗普称：美国“有望”接近伊朗战争尾声
+### 特朗普撤回对兰斯·施罗耶出任美移民与海关执法局局长提名
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-09-17 09:03
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZm5QWXZkQW5xN2s4SEZhM0pkaXlvWE56eHppRXNPX3pWY0F1azFDM19FUWlraFZ2dl9FVy1GWVJnMkJROU1ydmJwNHRISm82SlBEaFplQy1pNnAyUmZ4TDlLbEZpMFVjcjQ1WDlPdmNTYWRUMHNnX1B0UjdvQXV1SEQ2VS1GZk9DdzZadFg5ZkdiRFlJQ0JsbDlFTW10SDhpUmlxLTRCc3JKQ1JFT3FLX2xyUURTVnhJTlYtZFAzcFNXbmwtNi0xV01qdTNLazRUMUJHWENWLXRyYl9yNHdn?oc=5>
+- 场馆: 新浪财经_金融信息服务商
+- 时间: 2026-09-17 18:11
+- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE5oaXo0alljU2F5YzQ5X0V2QjNISjZIRmFwR2djc0dfVkRCbkNKZm5URjVPMDJOLVktZEZGbm5SQXFRM3UzcklfZnViMERYN1k?oc=5>
 
-### 特朗普：希望在联合国与盟友讨论对伊朗的措施。
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-09-17 17:00
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBnR1NibnZpVHlEMWx3cUlpNGtYQ0p6aFBHQV9hZnA0WlFYekV5VklaOGxLUkphdFdjZkE3RmFFSVJFb2xRTHJaREFFTQ?oc=5>
-
-### 两党议员盼特朗普要求北京释放黎智英，推法强化制裁港府
+### 欧盟有意让加拿大成为“准成员”特朗普威胁再加关税
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: voachinese.com
-- 时间: 2026-09-17 15:23
-- 链接: <https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZlVmV0prQzRVVGhZLU56TU9MZDNJRDZKWVBvbmc0RU5NZVZYc1R0aVBqZEptZEpwTmNOeHY1MTV6ZUhST2FOM0JfQndmdE5xaW40WXdrQ0JKSy1lUUtOWThaaUdoUnJ6M0Zzc0lxdy1PYlpxd19Xc0lMWE1MYjlERUtTeUFwcFNZLWVqaVozRHJhWWhtUEhYaWhjZnR4U0w4QWVVSFZFZ05Kb2FnUWVaUHhsaUpCZnhfZFNFNVpwcGLSAcMBQVVfeXFMTVk2ek8wS2EybmdJRzFsQU14Rl9xTkpmUVItdDM4Ni01TTFVQzhoQVM5eEp1bXozeFBKZjkyUU1rN1FsaHB4ekdkMk8tVDdZSmVUZElWR1JROHFacGpSZ3pBZEtrczBtRWdvVzFqMkxMUkxmSVRjclEtR0xtRE04X1lCLVpyNU9GNXF0LTZuMkxHUTN1bHpNZ0hwVWwyWC1ZV2J3c25FWm81cEgwRlVUQWhwcGlveXFXZmNTa2JOTWgwcWMw?oc=5>
+- 场馆: DW.com
+- 时间: 2026-09-17 09:50
+- 链接: <https://news.google.com/rss/articles/CBMi0AJBVV95cUxQSjU0YnhYOE9Uc3V2LWxUYXZ0RnhzZGVKZ3lYZzVwNTFDM19SWEFPdUFfRjNxSVh0ZWl4U1E5STh4eV8xeXkwS21yeS1aeUx4SUpDSzNEU3FCbEV5WlBRQV9jOV9rYndUXzh0TkJ1SEo0eEl6TXZ3VkZBb3BZeWpCZ2ZESUl0LXZLcTdkTUtiR25mMk5qS3U5SVViVFVYLTNlOEMwenFZZmpqZTNvMEtQaURveGE1RTZ2QjRSWHJZd3ZPaGpLRFh2RThfenk5SEZ1UUZFQVhzaU5SZ3NnRWc2cGgtN1FZSzJ3UjRJMEVJWlR2eGs3Zm8tbnBTVk1LZFE5NzFERjdVN1hzMFVWOVotaEhfS3ltN1Q1TnU0ODhsWGF0aDF5VmhudTJqeDNkMllnLU14V1pQaURUYTM1YTlBWTMyTjRMQVl4X0RZdnhXZ23SAdACQVVfeXFMT0RCWk0zcW50eVYyMzNkMUE5U0lkWGlnSXg3N0ZlcHhyQTVMYVcySVlTVHFuRU1HWG1LazdZREsybmhTcFZaRXR5c3Jya19zdEM2TnFfQ0o0cVFKS1RIN3d3LXBBWk9xaGx0UjRKZ3RId284dkE4bzNQSnB5OWV5WEl3b1BMRDhiRnAwc3kwWlFEeS01ZFdRX0RWN0Z6blc5T2tNT3VneEo3S0pwOXZBdEZiTWxhMjBqQmhHNlVaNjJFeGN1aVdQMGgwSDhnSXh5T2ljQW9OeUY4MlpmSVAxUDFSNDQwanpDQ0poN0pSNGlrbHlkVF94TTdGci00YjZnb2tNOWtEd1pXWmlmcGxyUDdGMW9ud2pfTjJpc0FsZU04THJPR3ZWbV9yVWc5X3JJZjM5VWM3V21wWE1aZUJUSmkzX1lVSG1lQUlyaWRnQ0dJ?oc=5>
 
-### 特朗普三天内受挫两次，都是“自己的人不听话”
+### 特朗普总统警告，加拿大-欧盟结盟计划可能面临严重关税
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-09-17 19:56
+- 链接: <https://news.google.com/rss/articles/CBMivAFBVV95cUxOeDNPb21aNml4QWEySmZGRHg3WVN4UkV4c0NXVWNRQmRSYlYtUmZvUGRkY016QzRJSzBQbjhfN20zekpubk1XczZCaUttelRfdFZZX3Q3QjFOc09mdFk0akZUdFJORXZXYXlNcjMzSGczMmJoS1VzOTg1dkkyaUhzTEZNWmVhd05RVFZCeHNySnh0MG4yaV9va0pFdlRiRGRCazZ4TlRNdHY2b3NtYzBxYmszNlJYa3FQc1RGS9IBvwFBVV95cUxQNHFZXy1wTEtTZlRvZW1oT08yU0ZYYlBGbXczU2hsdGdLbGNhcDByQ2dSbWhFVFVnak51OFlLQ2ZQTkwwelI1ZHVJNENnaklaYkswdVRndmE5MlFJamdMU3NGU1dUUl9YTWIxOWEzeDhXZmVoMGhBcTlkNnViVkVMVVZiWlRwXzAteTFUa0R4Q2dfTnJzblNCR0cxZDhfNFl6dXYzUlBLUlRCckZaUjZEdlFTRzBhSEgzaTJlM1NxWQ?oc=5>
+
+### 市场消息：特朗普将签署与土地、水道相关的行政令。
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经_金融信息服务商
+- 时间: 2026-09-17 19:09
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE44bmZDZEFMYXhoOXJsLWxkcFJ0MWR0Z0R5dEkxaDNQeFhZaWx1cEhfTkVid3JMTmhDVFdFTmNZVDdIdkFnQ0xwSHhBaw?oc=5>
+
+### “双手布满淤青，脖子出现湿疹，特朗普健康状况堪忧”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: guancha.cn
+- 时间: 2026-09-17 14:14
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFBtaXBwUTE0UEg4SUp3a1N1bHlWbnUzM0wzWUJxYkJqZWZTSDVwRmRUdElfOE1LeTNNTV9SSHVpeU5lM2d5U2I0bXpJMzJiODRLS0k1Rk5xNXktRy1mYlZCeE5UN3ExZ2dtUVlKRnUyZGQ5dms?oc=5>
+
+### 美联储宣布加息后，特朗普发声：利率应当降至1%或更低，“降低美国的利率，而且要快”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-09-17 10:34
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5BUWpoNUR5VlZDU0tqMi1xanFVRFpuRHZOdmw5TmttY3JwbEtjR2ZwUmgwRU1nN1BudFY2M0l4NHBKV2o1N0RON3FRV2JmX1BTb3YtSWlEZkZQOEE3ZEdnaFQtaVlmQ3JTNEJDZnNyOXE?oc=5>
+- 时间: 2026-09-17 04:14
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE8yS20tRExWMkVfeG43TVNtMTR6MHRSMHBnRHVoZVFObHlyS3h1Y2tSMjVVTTdLdjVfRVRGMmttWHhJdFUySXFWbi12cWpfWkRuVG5GY0J2OVlEeDRxLWdYT2pCdkZwNnJUQ01naEVNQVFQM1QwNUxCRA?oc=5>
 
-### 特朗普：若加拿大成欧盟“联席成员”将停止美欧贸易
+### 特朗普：美国利率应当降至1%或更低
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-09-16 23:34
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFAxR1ZheGxyMk1zcXRoVHhIS01MM1YwRzVqbHFPbm93cGR2WENabHVCTll6dnhyRHVXRmtpNW5NZ2ZncUZBVnRFbDBUclRNUUpBNXJyQk93dEx2UVBReThmYjIwX0s2TTg0Si1Jd1hMWW0?oc=5>
+- 时间: 2026-09-17 12:51
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFA3N3pSWXR3X1F1ck1jRmtINWNkOWtkVzJIdV9BWEh2b3FmRFRDdWNkY19nTnNsY1dsYmpDNTRrWXVnOUpCcjN1emN4MjQ5b3pLUG02TU5LQ3FuRjR4NTZMb2I1YjJfWnZqMENraGdNYWk?oc=5>
 
-### 最新财务文件披露：特朗普上任后17个月，其家族金融交易2.8万笔；本人力挺禁止国会议员及家属炒股却豁免自己
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-09-17 14:37
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE13aWpLYU5HR0otUDdkSWpqdDAtMzVPbV9WYTRJeUNHRDhuaE1nUlJ3QnkzZGhGZTdoUDV5TS1MMWowTTZIVzlTV0RmUkpCOE9Hd3dQMWFDcnFVZVQ3dlE?oc=5>
-
-### 特朗普签署公告将加拿大产品排除出美政府采购计划
+### 特朗普称美国利率应降至1%或更低水平
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-09-17 05:55
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5N2xySG95eUtyc19Mc3ByZHZYckRZc1lxSm1iMmE3Mjk3cXBPMjBfb3hjc2Y5NTZGci1aTmNWZXc1UUhVSnBDaE80ZVlYWWJvWTJDS1ppc0Y0cDJtQkVQQg?oc=5>
+- 场馆: 新华网
+- 时间: 2026-09-16 23:49
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9NY25aTGhiaUpzT3Z3c2NfQ1NmSjZ6WlNiS0Nfb2tDSWxjZS1DQlR1UzJfT0Zldk9kaVpjWkFvUWJTRDVfQk01ckQtbXJGWnRKdnhPOTFXSE1CMHV1MDVXQUdJaVRoT2lSb3FSV2VBUmlXWjF4MXVUOWZNNl9XbVU?oc=5>
 
-### “AI减速论”愈演愈烈 特朗普再度驳斥：AI将成史上最强经济发展引擎
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-09-17 04:27
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE1uRXgtbW9XVGxBc2x4MC1EMTFGWDRMQ0QxRDVYVWNHWng2TnVHLW5taE02NEYyLURJUkN3MlBVem1EaEp1b0doWA?oc=5>
-
-### 乌外长：泽连斯基与特朗普会晤可能推动达成乌俄停火
+### 特朗普急眼：不让我加名，就把肯尼迪中心拆了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Sohu
-- 时间: 2026-09-17 13:51
-- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVlRYU2NiT1JRdE4wTnI2bXlhQXZQVzJFYTJfazNrbzJFbng0a0IxSVZZaXBoV3RMMkN3U2hWcEh3cGYzMTFOSnRSc0FZQXFxeG5Vb29pOTNJdC0tYnlUZm9tQS1OeHZpLXRncW94amJ6Z0prb2V5RklUczZ0WmRJVFVEcnY0VGpz?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-09-17 11:45
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9hWkRPdE1mZmI1WnVTdmkwRFhOaGZabnJLR0dQMlA0eUVTaTQ3WmFObmVSclVWMmZYUlZGcTd0a3FYMGdpSmdiVU9LQ2o?oc=5>
 
-### 特朗普签署公告将加拿大产品排除出美政府采购计划
+### 众院通过俄伊制裁法案，最高100%二级关税授权，中国或首当其冲
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-09-17 14:56
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tNEFtU0tIdkljcno1clVqYjh5NUd5Ymw5aTdBeWtqVFMtaUFLMUFkWmxJOWdhS1VIc1FNQXJpRWdWY0gzejVzb09QMnl0WTVPcFdQb0VjQlBoZFQtcnV0VEVwR25Zdw?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-09-17 19:03
+- 链接: <https://news.google.com/rss/articles/CBMikAFBVV95cUxOUW9mR20zdmViamx4bWhvYnlBa0Via2tpVkJUbEtmY1NQSjBZZ3hpRTFucUctNmdzM2NIa2ZGMWduOUZkbnRQOHdJTWhvTGxTU3N5RjRVUXR2ZzU2V09NckdIRERzRmVmRkkyM2hSbXlXbDk2OGZaUmxWMjlqcHMwMUxIdHZNRlhsVzhhZll0R2XSAZMBQVVfeXFMTVRaVEtjd1lZdzdMOGNKT0NHdlBMMG5LVko1RlNaYkVjU1d0bHNacDZQYzgyOUJnSGFfYXR2b0k2d1dLNmZMUFJDWm1LS2dhX1psbTdidDhCa2Q5SGI5bkVFT2tZNmdMUzVqMFdSSEl3TFdfU1pEVXVnRGsydUdXVkVTMlp1RlF3YlMxQU5paGIzbnpn?oc=5>
 
-### 特朗普指责“敌对”的美联储董事会加息
+### 美国国会授权特朗普可对购买俄石油国家征税，中方回应
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: guancha.cn
+- 时间: 2026-09-17 08:02
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5vaFRrNXpjMlpkV2J3Ukx4aFF1Tm5DNXhRNUVTOFVtenZyM1ZlelZiUzVaYkF6QXEzRy05b0Z5SkktNEZLSmNHWkdFN1hYZFlTVEFHVDdPOWJxM2ExeEFmSzZLUUhnN0ZSVVY1eWttQmVqODQ?oc=5>
+
+### 《耶路撒冷邮报》：第比利斯发布含特朗普大厦的20 亿美元综合体
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-09-17 13:53
-- 链接: <https://news.google.com/rss/articles/CBMiowFBVV95cUxOWmdyS2x4dmhtTEcwOC1XLWpNdlN6dUlfTm5FTmpZLW8xeWZrQ3pTNGo5U0dBb19zSUtwTW5vYmtWclNHa0JXVGhfWVdTYnZLRTRNT29CY0VycnN6YUVIVDN3RVM4VEdKeFljT1JkMHMwdEhkMXZPUy1VSFVLUmZoSGExNzN4VlpqU0V1a0hxT1lUZ2l4dDEzLUhxcFZtTHMtcDg0?oc=5>
+- 场馆: ua.news
+- 时间: 2026-09-17 03:47
+- 链接: <https://news.google.com/rss/articles/CBMipAFBVV95cUxNQmdwT1ZkYjNhbWtCWERNQUpVRnRsYVNhSzkxbjdhLWl4UXRnbklIcXNWU1pHbmluY2hNZGZibVk1VXlhVExLSWVZNDRkUjZBcDFneXdWZWNaNDlZZ09jTF9pRDc0UnRRQ2FNM3pyWC0wX2lib3A3UXQ0XzVDSXZPb3E4dkxnSEFNbV9TV2pMMUMxdkpEc0RCeVFKWE9RVjZmYjdrRw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-17 20:27  (13 条)
+
+- **蔡徐坤** | 蔡徐坤透露的新歌适合雨天听有什么创作背景 <https://k.sina.com.cn/article_7879923104_1d5ae15a006801ka6w.html>
+- **特朗普** | 特朗普撤回对兰斯·施罗耶出任美移民与海关执法局局长提名 <https://news.google.com/rss/articles/CBMiT0FVX3lxTE5oaXo0alljU2F5YzQ5X0V2QjNISjZIRmFwR2djc0dfVkRCbkNKZm5URjVPMDJOLVktZEZGbm5SQXFRM3UzcklfZnViMERYN1k?oc=5>
+- **特朗普** | 欧盟有意让加拿大成为“准成员”特朗普威胁再加关税 <https://news.google.com/rss/articles/CBMi0AJBVV95cUxQSjU0YnhYOE9Uc3V2LWxUYXZ0RnhzZGVKZ3lYZzVwNTFDM19SWEFPdUFfRjNxSVh0ZWl4U1E5STh4eV8xeXkwS21yeS1aeUx4SUpDSzNEU3FCbEV5WlBRQV9jOV9rYndUXzh0TkJ1SEo0eEl6TXZ3VkZBb3BZeWpCZ2ZESUl0LXZLcTdkTUtiR25mMk5qS3U5SVViVFVYLTNlOEMwenFZZmpqZTNvMEtQaURveGE1RTZ2QjRSWHJZd3ZPaGpLRFh2RThfenk5SEZ1UUZFQVhzaU5SZ3NnRWc2cGgtN1FZSzJ3UjRJMEVJWlR2eGs3Zm8tbnBTVk1LZFE5NzFERjdVN1hzMFVWOVotaEhfS3ltN1Q1TnU0ODhsWGF0aDF5VmhudTJqeDNkMllnLU14V1pQaURUYTM1YTlBWTMyTjRMQVl4X0RZdnhXZ23SAdACQVVfeXFMT0RCWk0zcW50eVYyMzNkMUE5U0lkWGlnSXg3N0ZlcHhyQTVMYVcySVlTVHFuRU1HWG1LazdZREsybmhTcFZaRXR5c3Jya19zdEM2TnFfQ0o0cVFKS1RIN3d3LXBBWk9xaGx0UjRKZ3RId284dkE4bzNQSnB5OWV5WEl3b1BMRDhiRnAwc3kwWlFEeS01ZFdRX0RWN0Z6blc5T2tNT3VneEo3S0pwOXZBdEZiTWxhMjBqQmhHNlVaNjJFeGN1aVdQMGgwSDhnSXh5T2ljQW9OeUY4MlpmSVAxUDFSNDQwanpDQ0poN0pSNGlrbHlkVF94TTdGci00YjZnb2tNOWtEd1pXWmlmcGxyUDdGMW9ud2pfTjJpc0FsZU04THJPR3ZWbV9yVWc5X3JJZjM5VWM3V21wWE1aZUJUSmkzX1lVSG1lQUlyaWRnQ0dJ?oc=5>
+- **特朗普** | 特朗普总统警告，加拿大-欧盟结盟计划可能面临严重关税 <https://news.google.com/rss/articles/CBMivAFBVV95cUxOeDNPb21aNml4QWEySmZGRHg3WVN4UkV4c0NXVWNRQmRSYlYtUmZvUGRkY016QzRJSzBQbjhfN20zekpubk1XczZCaUttelRfdFZZX3Q3QjFOc09mdFk0akZUdFJORXZXYXlNcjMzSGczMmJoS1VzOTg1dkkyaUhzTEZNWmVhd05RVFZCeHNySnh0MG4yaV9va0pFdlRiRGRCazZ4TlRNdHY2b3NtYzBxYmszNlJYa3FQc1RGS9IBvwFBVV95cUxQNHFZXy1wTEtTZlRvZW1oT08yU0ZYYlBGbXczU2hsdGdLbGNhcDByQ2dSbWhFVFVnak51OFlLQ2ZQTkwwelI1ZHVJNENnaklaYkswdVRndmE5MlFJamdMU3NGU1dUUl9YTWIxOWEzeDhXZmVoMGhBcTlkNnViVkVMVVZiWlRwXzAteTFUa0R4Q2dfTnJzblNCR0cxZDhfNFl6dXYzUlBLUlRCckZaUjZEdlFTRzBhSEgzaTJlM1NxWQ?oc=5>
+- **特朗普** | 市场消息：特朗普将签署与土地、水道相关的行政令。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE44bmZDZEFMYXhoOXJsLWxkcFJ0MWR0Z0R5dEkxaDNQeFhZaWx1cEhfTkVid3JMTmhDVFdFTmNZVDdIdkFnQ0xwSHhBaw?oc=5>
+- **特朗普** | “双手布满淤青，脖子出现湿疹，特朗普健康状况堪忧” <https://news.google.com/rss/articles/CBMic0FVX3lxTFBtaXBwUTE0UEg4SUp3a1N1bHlWbnUzM0wzWUJxYkJqZWZTSDVwRmRUdElfOE1LeTNNTV9SSHVpeU5lM2d5U2I0bXpJMzJiODRLS0k1Rk5xNXktRy1mYlZCeE5UN3ExZ2dtUVlKRnUyZGQ5dms?oc=5>
+- **特朗普** | 美联储宣布加息后，特朗普发声：利率应当降至1%或更低，“降低美国的利率，而且要快” <https://news.google.com/rss/articles/CBMieEFVX3lxTE8yS20tRExWMkVfeG43TVNtMTR6MHRSMHBnRHVoZVFObHlyS3h1Y2tSMjVVTTdLdjVfRVRGMmttWHhJdFUySXFWbi12cWpfWkRuVG5GY0J2OVlEeDRxLWdYT2pCdkZwNnJUQ01naEVNQVFQM1QwNUxCRA?oc=5>
+- **特朗普** | 特朗普：美国利率应当降至1%或更低 <https://news.google.com/rss/articles/CBMicEFVX3lxTFA3N3pSWXR3X1F1ck1jRmtINWNkOWtkVzJIdV9BWEh2b3FmRFRDdWNkY19nTnNsY1dsYmpDNTRrWXVnOUpCcjN1emN4MjQ5b3pLUG02TU5LQ3FuRjR4NTZMb2I1YjJfWnZqMENraGdNYWk?oc=5>
+- **特朗普** | 特朗普称美国利率应降至1%或更低水平 <https://news.google.com/rss/articles/CBMif0FVX3lxTE9NY25aTGhiaUpzT3Z3c2NfQ1NmSjZ6WlNiS0Nfb2tDSWxjZS1DQlR1UzJfT0Zldk9kaVpjWkFvUWJTRDVfQk01ckQtbXJGWnRKdnhPOTFXSE1CMHV1MDVXQUdJaVRoT2lSb3FSV2VBUmlXWjF4MXVUOWZNNl9XbVU?oc=5>
+- **特朗普** | 特朗普急眼：不让我加名，就把肯尼迪中心拆了 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9hWkRPdE1mZmI1WnVTdmkwRFhOaGZabnJLR0dQMlA0eUVTaTQ3WmFObmVSclVWMmZYUlZGcTd0a3FYMGdpSmdiVU9LQ2o?oc=5>
+- **特朗普** | 众院通过俄伊制裁法案，最高100%二级关税授权，中国或首当其冲 <https://news.google.com/rss/articles/CBMikAFBVV95cUxOUW9mR20zdmViamx4bWhvYnlBa0Via2tpVkJUbEtmY1NQSjBZZ3hpRTFucUctNmdzM2NIa2ZGMWduOUZkbnRQOHdJTWhvTGxTU3N5RjRVUXR2ZzU2V09NckdIRERzRmVmRkkyM2hSbXlXbDk2OGZaUmxWMjlqcHMwMUxIdHZNRlhsVzhhZll0R2XSAZMBQVVfeXFMTVRaVEtjd1lZdzdMOGNKT0NHdlBMMG5LVko1RlNaYkVjU1d0bHNacDZQYzgyOUJnSGFfYXR2b0k2d1dLNmZMUFJDWm1LS2dhX1psbTdidDhCa2Q5SGI5bkVFT2tZNmdMUzVqMFdSSEl3TFdfU1pEVXVnRGsydUdXVkVTMlp1RlF3YlMxQU5paGIzbnpn?oc=5>
+- **特朗普** | 美国国会授权特朗普可对购买俄石油国家征税，中方回应 <https://news.google.com/rss/articles/CBMic0FVX3lxTE5vaFRrNXpjMlpkV2J3Ukx4aFF1Tm5DNXhRNUVTOFVtenZyM1ZlelZiUzVaYkF6QXEzRy05b0Z5SkktNEZLSmNHWkdFN1hYZFlTVEFHVDdPOWJxM2ExeEFmSzZLUUhnN0ZSVVY1eWttQmVqODQ?oc=5>
+- **Trump** | 《耶路撒冷邮报》：第比利斯发布含特朗普大厦的20 亿美元综合体 <https://news.google.com/rss/articles/CBMipAFBVV95cUxNQmdwT1ZkYjNhbWtCWERNQUpVRnRsYVNhSzkxbjdhLWl4UXRnbklIcXNWU1pHbmluY2hNZGZibVk1VXlhVExLSWVZNDRkUjZBcDFneXdWZWNaNDlZZ09jTF9pRDc0UnRRQ2FNM3pyWC0wX2lib3A3UXQ0XzVDSXZPb3E4dkxnSEFNbV9TV2pMMUMxdkpEc0RCeVFKWE9RVjZmYjdrRw?oc=5>
 
 ### 2026-09-17 17:24  (15 条)
 
