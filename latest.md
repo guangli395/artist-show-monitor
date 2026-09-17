@@ -1,76 +1,118 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-16 23:06**
-- 本轮扫到 11876 条, 新增 **8** 条
+- 最近更新: **2026-09-17 01:34**
+- 本轮扫到 11887 条, 新增 **11** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (11 条)
 
-### 迪克乐队有哪些巡演行程？国内外场次及时间一览
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923116_1d5ae15ac06801kww6.html>
-
-### vivo辟谣周杰伦出席X500系列发布会：虚假消息 谨防受骗
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://finance.sina.com.cn/tech/roll/2026-09-17/doc-inisapns9539942.shtml>
-
-### 美联储三年来首次加息 暗示将继续收紧政策 特朗普要求“迅速”下调利率
+### 白宫抨击美联储加息决定“相当令人遗憾”，特朗普敦促降息至1%以下、仍对沃什有信心
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-09-16 21:10
-- 链接: <https://news.google.com/rss/articles/CBMizANBVV95cUxQRGx5LW1QT2V3YkhaRDhMQk5tallQM1VPTlo2aWVmd0wtZnowSTRVZ1ZfTDhkRzh5eHFCcFJuTTktY3BFUDhLZjF1N0g4dm1sWGtIVTZFYVI4ZkRRYTZiTkdfYnc3X0sxaHE1ZXVLNEtXaU5vaF9FNjJHZ1hGOFUzYUlvZVZxOGpjd2ZwN1RVck5abm9GVGZ4UlBJdlNzMWh4Ry00TGtvYmY0RVZSdU8wT0EtNTF5WnhLbGZhWHdiTDFiY3FNY3BfMGk0ei0yWU1vNTMwc1RSLXhOUEVhRmdtV1U1SmVuQkxkVTJ4YlNYSm1sS0lDV1pWcTVBY21Ldk5fYlRQTFRsd2JkSnRoeXhvMnNfZHdhNWdnb0Q0WW43aUI5SnhMeDE0UDVqeFJwcTBGWXBnMUFiUzNRbmhpRmQ2emJUeHUzVmNyRW1lMC1JUThfMGZ4aFoxdHlmdl9LeW92SnQwSW5HNm85a2dfZzZTU1ViOWR1dnhST01kVGZKUGcyckg4X0dMUlZnMXdFNXR0bjEycDVzbGd5el96V2dwUWJOcjdiQ3NXSG54VlAzWE00Y1hGTVU4dUxLZkdnQ1c5UDl2cXNPOGM1X3Vs?oc=5>
+- 场馆: 华尔街见闻
+- 时间: 2026-09-16 22:46
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YRGZtWlBSdi1ZbHFzY3psdGdmR3RqckNwV0RHX05nYkloOXZYUlQ1R09vTFp2NTBxUmZwdFNteS1MRi1RZzRHdEJrZkxxWXVIUVcw?oc=5>
 
-### 特朗普：美国的利率应该在1%或更低 赶紧降息
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: finance.sina.cn
-- 时间: 2026-09-16 22:07
-- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOWRRR3d2MVVIUGpscG9UZ3JyUTFOMXVLb21UM0ZLcDhaNm04TzJiVzFoT0lUYVBPLVFWQWtuVmVIbndoY1BCMzBKTE4tVzlJZXhHT0VtZVI4c093UG5kaHljeU9sSWdKa3hkcWNXeVNPeGtsZG02NDBpWTZZOERGTG01RmdHLU5tMkF3TWRteHRGcW80Y21aVUdDRGtKYnZaVGFzSldEQVl5QQ?oc=5>
-
-### 特朗普：美国利率应该在1%或以下。
+### 美联储三年多来首次加息，特朗普强烈反对
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: cj.sina.cn
-- 时间: 2026-09-16 20:39
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9CLU1pSG5lWlVCVE52WjBoaVRKNktoT0VRYS15cE5EbWN6QjVpRzFXY2ViOVEyVlA0alJnS3F6TXpCcmkyelV5R0Y5Zw?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-09-17 01:05
+- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeUtYam4xN2pmUHZTRURIOTA0UFZDcktQQTJGTWhXSHFNdV9qWUNTbVJuNFFIUkstVTgxb1F4cFZNT0h2R01SdlgxNkxpSVlFbmlHTmVFQTBvZTdfemFJVEtoTDV6MjdDeFZidHJuSm5ZZWtHVXFZNjhhZlRlb0lEQjdKLWhIVEpOd3Zr?oc=5>
 
-### Trump Says Interest Rates Should Be 1% or Less
+### 美联储三年来首次加息，特朗普不高兴了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者网
+- 时间: 2026-09-16 23:02
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5SZTlaSVZ0eUpOYmxla2lvSHB6TWl3dnRoc1NaMDRmRTl4ZVVHVjZiaVFUSDEwQzItWXdZOFo4NTdTVzdZR0w5a3A4V3VpcVZZZEdLc09nbGhqSjEtZkNpdmotaDNiMlk5ZU1FV1l3UDBEWkk?oc=5>
+
+### 特朗普签署备忘录：将加拿大产品排除出美国政府采购计划
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-09-17 00:09
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBTbXo1ajZyc0hkdmpxU2k2cWhkT3pHc0RMNEJSWTBjM0Nra0FfSEJMeHEta1hmTUhiZ3N1Q2xuM0labFFaOXRFYk9Ddm8?oc=5>
+
+### 特朗普：若加拿大成欧盟“联席成员” 将停止美欧贸易
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-17 00:27
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE02UzQ5Qi0ta01sVE1VOER5Y0NoZWFKeFR5RkVaV3IxRGx3bS1TOG9ScU9MY19Oc2tPQkdMSDlwaW1OQS15aE9OVGVFcU5hWXp2ZW45UVB2cmt1SVYyZjVhLUh0ZERIZ05mbzhPYmZLVWFjSGVuakxxSw?oc=5>
+
+### 特朗普：若加拿大成欧盟“联席成员”将停止美欧贸易
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-09-16 23:40
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE05VUNib3BvT0FTSTdja19JNkFNVXFTOFlqa1c1WEc0czBEdkFmVnhQcWMxR1FCRmFtN3RVVHZqMEJYRFg4YXZVS3doM1I?oc=5>
+
+### 特朗普强硬警告：加拿大若“入盟”，美欧贸易免谈
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-16 23:40
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE5RdC1KdzlUcjNHX2lMaUNXd0VaZ2FnUkNUa2RvODRMbFYtQ0szMi05X1FQbU9UZEYybnQwYzgxOXQ4ak10Mkdza2JVYnotdmdIUDl4S2RtMTNBeUYyamtvQmJuYkY3WW5yUUQzMVJLMmZjUlJDTmc?oc=5>
+
+### 特朗普真急了，一个电话打到黄仁勋那里
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-09-15 04:33
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1lT3Q0NUM3ZVQwd0Vtb1RQZlF1S3ZlWWpCUTltWUV5R1o0MF82V2ZrNjdjWTJZekJJQkN0TWFIN2w3WDBuVEp4THhvY0VvbEgyeHlWRTUzWG1WeEVwUFNaNm9LUGNoVGRubFRtN1g4cWQ?oc=5>
+
+### 美联储加息后，特朗普表态继续支持沃什
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-09-16 21:18
-- 链接: <https://news.google.com/rss/articles/CBMilwFBVV95cUxOWHFXVXFKV3dtellGS0pPSThJbFYtcUluY0FDdWpTOThVM0RNZUcxMl9YXzVoVVQyYWViZW56V3B2WWo3VjBreVZiUllXWl9QRUhaazIyMzR0Xy1SSk8zWmlZa1M1aVVQYTB2alExZHJDX2ZLUi05U0x1V01KR2VDdVFJY1NBNVRtQVhQTWJQS0xFM1dxTEww?oc=5>
+- 场馆: 华尔街日报中文网
+- 时间: 2026-09-17 00:02
+- 链接: <https://news.google.com/rss/articles/CBMipgFBVV95cUxNbjJVN09MazV1TUpiUVY4Q05zdDNUcUJuZFhTOHJuYWRsSE9WZThtUzVYU2pJMlc3LXpsaHpvLUdJNlozUEQ3Sm1xM09BZ3BLa01LeFVDS01GM2laRGZUam9lUW5fckZyS2NoQzc0TU1Xb3BEMXdJZXlmU0kxaVhnTm1VUXBfNTdpY09oaUdycGFmTUZHRkwzQTdINW12TmdhR09TR0JR?oc=5>
 
-### 特朗普总统认定中国等23国为2027年度主要毒品过境国或非法毒品生产国
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-09-16 22:34
-- 链接: <https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRFYyZzE3UkRCaGNUdnF5NE5FNWRuYkFkU2lHZGdzOTVMQ0xSYldZR1hmcTI0MkxWZUw4VUtYSTlpel9vQmFoWms0YzhMeFRWa1VkT0pnbjlDX2lrTWp4RGZZWFh5M2t2bEdHemhDYUF5MW1VbU1iYVc2SE9ZQWVVWHpoLXFDbjNPWlNTYWRidnE5QlVpQ0txeklGMkhjQnlwMVR1TWJ1UUp3YTcwT2h5bkx1WnBVSjgtQ293dnVhNFdMSGhNWXFoVFU3V1cxdmdVM3VZN19lTjbSAdsBQVVfeXFMTmNXd2NKTFhpVUxEMHp4bHB4bXVkWEFjRmx0N1RUNklEbU8zaENzLVpLaDJDb2lYZHhSTHk3VlNrdjZZYm85NThKNHJsR0pUTDRYa2hmeWRLZl9VNEpGODRjRW9Dc3hjTXhsSGExWTFPTXJiZk8zcWtjbnkyQnZWYmZOLUlNMzJSdWdtY015YjhhN1hmVW02N0RhcTg5dmV4cm9xQUQ3akh0T2Fvdkt6OFN1Nk14UUpYSkNxNU1scVNPTGRiUEg2eU5PdExNZU5KSFV3b1B4N1VQV1RF?oc=5>
-
-### 特朗普要求美国利率降到1%或更低
+### 民主党高层反对特朗普拟向以色列出售重型炸弹
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-09-16 22:57
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE1vSGdMSkV5VFhUVDR0QzZ6UURXYzVtV0V4dy15R3hvd3NXaDhEU2R5dFZ6WkszYWhyOVRXbDFWRUpiRVFqSTZtVURNSzllYnpRcmJhVEw2cGV3TjNuTFd2bGxtcWVKVG5ZUE1qTjg0RDNkVzFpS1E?oc=5>
+- 场馆: 华尔街日报中文网
+- 时间: 2026-09-16 23:33
+- 链接: <https://news.google.com/rss/articles/CBMiswFBVV95cUxOOVRMYkFWbU5iNk9RdEhwVXV5bGkwSHk4UHlXQkZPckx0aHFrRFhsaF9tZThyc0R4V0RUVmI2NnVNMnBKNVY0bk95MmI0Z1pXcTg4aVh3Nmdaek81US15cXFUZVFweUp1WjZUeWVucjVRYWd2ZVl6V0V2MTBERGotbWhjdEpzSTNBMXpmcXZSWEowdzJGcFBnNEdxLXJWb0E4UG9CNmdiaWxQVFIwd1gyMnVKWQ?oc=5>
+
+### 特朗普政府的政策转向让罕见病药物领域重获青睐
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-09-17 00:04
+- 链接: <https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRTVHVzUyT0hHamkwR1dSOG9wODBDV2xpRWZLZzZYTXZtbTBlVXh0R0ZOZ2pKQy1MNFgtc3Q1QUtmTVhnZ2RpaTBIZV9XU1N2ZmJRdWRSZkg5YlNUVVpmc2dkd2x1WFN5ckUtVkplVXBJbkU4YVh4R3YwUk5fRFpoMFNPel9vUV9EMGtSbjZQb2dWY0g2OVQ5TGcxWTZreFNvbmtEa3QyMms?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-17 01:34  (11 条)
+
+- **特朗普** | 白宫抨击美联储加息决定“相当令人遗憾”，特朗普敦促降息至1%以下、仍对沃什有信心 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YRGZtWlBSdi1ZbHFzY3psdGdmR3RqckNwV0RHX05nYkloOXZYUlQ1R09vTFp2NTBxUmZwdFNteS1MRi1RZzRHdEJrZkxxWXVIUVcw?oc=5>
+- **特朗普** | 美联储三年多来首次加息，特朗普强烈反对 <https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeUtYam4xN2pmUHZTRURIOTA0UFZDcktQQTJGTWhXSHFNdV9qWUNTbVJuNFFIUkstVTgxb1F4cFZNT0h2R01SdlgxNkxpSVlFbmlHTmVFQTBvZTdfemFJVEtoTDV6MjdDeFZidHJuSm5ZZWtHVXFZNjhhZlRlb0lEQjdKLWhIVEpOd3Zr?oc=5>
+- **特朗普** | 美联储三年来首次加息，特朗普不高兴了 <https://news.google.com/rss/articles/CBMic0FVX3lxTE5SZTlaSVZ0eUpOYmxla2lvSHB6TWl3dnRoc1NaMDRmRTl4ZVVHVjZiaVFUSDEwQzItWXdZOFo4NTdTVzdZR0w5a3A4V3VpcVZZZEdLc09nbGhqSjEtZkNpdmotaDNiMlk5ZU1FV1l3UDBEWkk?oc=5>
+- **特朗普** | 特朗普签署备忘录：将加拿大产品排除出美国政府采购计划 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBTbXo1ajZyc0hkdmpxU2k2cWhkT3pHc0RMNEJSWTBjM0Nra0FfSEJMeHEta1hmTUhiZ3N1Q2xuM0labFFaOXRFYk9Ddm8?oc=5>
+- **特朗普** | 特朗普：若加拿大成欧盟“联席成员” 将停止美欧贸易 <https://news.google.com/rss/articles/CBMieEFVX3lxTE02UzQ5Qi0ta01sVE1VOER5Y0NoZWFKeFR5RkVaV3IxRGx3bS1TOG9ScU9MY19Oc2tPQkdMSDlwaW1OQS15aE9OVGVFcU5hWXp2ZW45UVB2cmt1SVYyZjVhLUh0ZERIZ05mbzhPYmZLVWFjSGVuakxxSw?oc=5>
+- **特朗普** | 特朗普：若加拿大成欧盟“联席成员”将停止美欧贸易 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE05VUNib3BvT0FTSTdja19JNkFNVXFTOFlqa1c1WEc0czBEdkFmVnhQcWMxR1FCRmFtN3RVVHZqMEJYRFg4YXZVS3doM1I?oc=5>
+- **特朗普** | 特朗普强硬警告：加拿大若“入盟”，美欧贸易免谈 <https://news.google.com/rss/articles/CBMidkFVX3lxTE5RdC1KdzlUcjNHX2lMaUNXd0VaZ2FnUkNUa2RvODRMbFYtQ0szMi05X1FQbU9UZEYybnQwYzgxOXQ4ak10Mkdza2JVYnotdmdIUDl4S2RtMTNBeUYyamtvQmJuYkY3WW5yUUQzMVJLMmZjUlJDTmc?oc=5>
+- **特朗普** | 特朗普真急了，一个电话打到黄仁勋那里 <https://news.google.com/rss/articles/CBMicEFVX3lxTE1lT3Q0NUM3ZVQwd0Vtb1RQZlF1S3ZlWWpCUTltWUV5R1o0MF82V2ZrNjdjWTJZekJJQkN0TWFIN2w3WDBuVEp4THhvY0VvbEgyeHlWRTUzWG1WeEVwUFNaNm9LUGNoVGRubFRtN1g4cWQ?oc=5>
+- **Trump** | 美联储加息后，特朗普表态继续支持沃什 <https://news.google.com/rss/articles/CBMipgFBVV95cUxNbjJVN09MazV1TUpiUVY4Q05zdDNUcUJuZFhTOHJuYWRsSE9WZThtUzVYU2pJMlc3LXpsaHpvLUdJNlozUEQ3Sm1xM09BZ3BLa01LeFVDS01GM2laRGZUam9lUW5fckZyS2NoQzc0TU1Xb3BEMXdJZXlmU0kxaVhnTm1VUXBfNTdpY09oaUdycGFmTUZHRkwzQTdINW12TmdhR09TR0JR?oc=5>
+- **Trump** | 民主党高层反对特朗普拟向以色列出售重型炸弹 <https://news.google.com/rss/articles/CBMiswFBVV95cUxOOVRMYkFWbU5iNk9RdEhwVXV5bGkwSHk4UHlXQkZPckx0aHFrRFhsaF9tZThyc0R4V0RUVmI2NnVNMnBKNVY0bk95MmI0Z1pXcTg4aVh3Nmdaek81US15cXFUZVFweUp1WjZUeWVucjVRYWd2ZVl6V0V2MTBERGotbWhjdEpzSTNBMXpmcXZSWEowdzJGcFBnNEdxLXJWb0E4UG9CNmdiaWxQVFIwd1gyMnVKWQ?oc=5>
+- **Trump** | 特朗普政府的政策转向让罕见病药物领域重获青睐 <https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRTVHVzUyT0hHamkwR1dSOG9wODBDV2xpRWZLZzZYTXZtbTBlVXh0R0ZOZ2pKQy1MNFgtc3Q1QUtmTVhnZ2RpaTBIZV9XU1N2ZmJRdWRSZkg5YlNUVVpmc2dkd2x1WFN5ckUtVkplVXBJbkU4YVh4R3YwUk5fRFpoMFNPel9vUV9EMGtSbjZQb2dWY0g2OVQ5TGcxWTZreFNvbmtEa3QyMms?oc=5>
 
 ### 2026-09-16 23:06  (8 条)
 
