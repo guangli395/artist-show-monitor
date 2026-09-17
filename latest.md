@@ -1,114 +1,146 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-17 12:40**
-- 本轮扫到 11920 条, 新增 **14** 条
+- 最近更新: **2026-09-17 17:24**
+- 本轮扫到 11935 条, 新增 **15** 条
 
 ---
 
-## 本轮新发现 (14 条)
+## 本轮新发现 (15 条)
 
-### 这下不会有人说是摄像选的人了吧…蔡徐坤演唱会 微博VC计划
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301gae2.html>
-
-### 蔡徐坤透露的新歌与雨天有关吗？
+### 蔡徐坤在采访中透露了新歌的哪些信息
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801l4ua.html>
+- 链接: <https://k.sina.com.cn/article_7880068588_1d5b04dec06801s07c.html>
 
-### 蔡徐坤分享的雨天新歌什么时候发布？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923116_1d5ae15ac06801kxli.html>
-
-### 蔡徐坤提到的下雨天新歌何时发布
+### 蔡徐坤预告的新歌什么时候发布？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923379_1d5ae16b306801mfj6.html>
+- 链接: <https://k.sina.com.cn/article_7879849298_1d5acf55206801afso.html>
 
-### 蔡徐坤在VOGUE预告的雨天新歌何时发布
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849292_1d5acf54c06801efvs.html>
-
-### 蔡徐坤新歌预告里的下雨天线索是什么
+### 蔡徐坤新歌与雨天主题有何关联？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801l4ps.html>
+- 链接: <https://k.sina.com.cn/article_7879849300_1d5acf5540680148te.html>
 
-### 武汉巅峰演唱会后续还会增加哪些歌手
+### 蔡徐坤纽约公园吃汉堡，新歌预告暗藏其中
 
-- 艺人/关键词: **周杰伦**
+- 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923104_1d5ae15a006801k8yo.html>
-
-### 加拿大将“脱美入欧”？特朗普警告：欧盟若允许加成为“联席成员”，或是“敌对行为”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪军事_手机新浪网
-- 时间: 2026-09-17 12:05
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFBITHBOSTE3QUw4SmFxclpkQm5Bc0xaZ2dSSHhtV2JXcW5mTnJiVF90cHZKUmNBdGlDaGV6eU5OX1BOR1dRQURDMGNQM3liMG9vMlBBazc2WGVtOGwxd1UyZDZqeGUwN3FzUWI5RWJLaWtwT1U?oc=5>
-
-### 特朗普放狠话后，卡尼：加拿大和欧洲携手会更强大
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-09-17 12:12
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE8tcEJyQ2x2QTRUQ0NPUFVHQ1MxSW0xd051SWZxbnV0TjZkQlNiOEhGYWk4TVJ6TG5wN2Z4V0Vsd3pzeGw3eWR4bFphOWk?oc=5>
-
-### 美国会授权特朗普可对购买俄石油产品的国家加征关税 外交部回应
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: eastmoney.com
-- 时间: 2026-09-17 08:11
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3VHpHNzdEaXg3a28wcjI4RVlMTGpRMVdyRXgxZVNMNUJWVXI5aUV0RnN2ZzlKMkNkMmZnWnAza2RMT3oxeDVXSkwxc3A0TGdKeVVVVWlTU1Y2UE9jOHg1aw?oc=5>
-
-### 特朗普可对买俄石油国家加税，中方回应
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-09-17 07:21
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5EOE5JZXJCUlgybjlibVpVR3JwX1o4X0xRTDNFRktVaHlNU2NmejI4TlhZRmhXd0NhT3BOakZxVkg3XzQ3WGV3UFhoRWE?oc=5>
-
-### 美国会授权特朗普可对俄石油购买国征税，中方回应
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪军事_手机新浪网
-- 时间: 2026-09-17 08:03
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1tS0w0V29WNlRnWjlIZEdJQTItZlh1Z3p1Vk5PUUNxd2xGd3NnVmdUa2hMTU02OGxoQnEzeVBMbG5JQjFfRkQ1MEFJdFUxeHpGREk5YktpZzRCOUJXYzNDSEhsMjM0MDlyQkVhZzY5QlpvVzQ?oc=5>
+- 链接: <https://k.sina.com.cn/article_7879849300_1d5acf5540680148t0.html>
 
 ### 特朗普称：美国“有望”接近伊朗战争尾声
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: finance.sina.com.cn
+- 场馆: 新浪网
 - 时间: 2026-09-17 09:03
-- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMnM0MGFOaG83WUhGU1c5amNvNlNfek00cW1yb09yYmxGM2Rvbl9laHVseUY3WHY1WGM5b2swQjkwU200VGNkZjhQd1RVRGpxT1BrblBaRnd6MFQ0MjVPQlMzOEF6Sm0tNjlnN2hseTBRODhHaldtVkY2VmU2S2pKVFhJN0NDUW9tWlAxSGQ4bkhnWkQzY0ticVhWcGlpU0R3ek1ZaTY4ajNuRTF4NldYWXc1ejZhZWNvS3Y3SUozZ2NhUUx2SDIyckIzUEJtYkpOQTFERm40bUNwMkJEUkE?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZm5QWXZkQW5xN2s4SEZhM0pkaXlvWE56eHppRXNPX3pWY0F1azFDM19FUWlraFZ2dl9FVy1GWVJnMkJROU1ydmJwNHRISm82SlBEaFplQy1pNnAyUmZ4TDlLbEZpMFVjcjQ1WDlPdmNTYWRUMHNnX1B0UjdvQXV1SEQ2VS1GZk9DdzZadFg5ZkdiRFlJQ0JsbDlFTW10SDhpUmlxLTRCc3JKQ1JFT3FLX2xyUURTVnhJTlYtZFAzcFNXbmwtNi0xV01qdTNLazRUMUJHWENWLXRyYl9yNHdn?oc=5>
 
-### 美国三年来首次加息 对全球和中国意味着什么？
+### 特朗普：希望在联合国与盟友讨论对伊朗的措施。
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-09-17 17:00
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBnR1NibnZpVHlEMWx3cUlpNGtYQ0p6aFBHQV9hZnA0WlFYekV5VklaOGxLUkphdFdjZkE3RmFFSVJFb2xRTHJaREFFTQ?oc=5>
+
+### 两党议员盼特朗普要求北京释放黎智英，推法强化制裁港府
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: voachinese.com
+- 时间: 2026-09-17 15:23
+- 链接: <https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZlVmV0prQzRVVGhZLU56TU9MZDNJRDZKWVBvbmc0RU5NZVZYc1R0aVBqZEptZEpwTmNOeHY1MTV6ZUhST2FOM0JfQndmdE5xaW40WXdrQ0JKSy1lUUtOWThaaUdoUnJ6M0Zzc0lxdy1PYlpxd19Xc0lMWE1MYjlERUtTeUFwcFNZLWVqaVozRHJhWWhtUEhYaWhjZnR4U0w4QWVVSFZFZ05Kb2FnUWVaUHhsaUpCZnhfZFNFNVpwcGLSAcMBQVVfeXFMTVk2ek8wS2EybmdJRzFsQU14Rl9xTkpmUVItdDM4Ni01TTFVQzhoQVM5eEp1bXozeFBKZjkyUU1rN1FsaHB4ekdkMk8tVDdZSmVUZElWR1JROHFacGpSZ3pBZEtrczBtRWdvVzFqMkxMUkxmSVRjclEtR0xtRE04X1lCLVpyNU9GNXF0LTZuMkxHUTN1bHpNZ0hwVWwyWC1ZV2J3c25FWm81cEgwRlVUQWhwcGlveXFXZmNTa2JOTWgwcWMw?oc=5>
+
+### 特朗普三天内受挫两次，都是“自己的人不听话”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-09-17 10:34
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5BUWpoNUR5VlZDU0tqMi1xanFVRFpuRHZOdmw5TmttY3JwbEtjR2ZwUmgwRU1nN1BudFY2M0l4NHBKV2o1N0RON3FRV2JmX1BTb3YtSWlEZkZQOEE3ZEdnaFQtaVlmQ3JTNEJDZnNyOXE?oc=5>
+
+### 特朗普：若加拿大成欧盟“联席成员”将停止美欧贸易
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-09-16 23:34
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFAxR1ZheGxyMk1zcXRoVHhIS01MM1YwRzVqbHFPbm93cGR2WENabHVCTll6dnhyRHVXRmtpNW5NZ2ZncUZBVnRFbDBUclRNUUpBNXJyQk93dEx2UVBReThmYjIwX0s2TTg0Si1Jd1hMWW0?oc=5>
+
+### 最新财务文件披露：特朗普上任后17个月，其家族金融交易2.8万笔；本人力挺禁止国会议员及家属炒股却豁免自己
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-09-17 14:37
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE13aWpLYU5HR0otUDdkSWpqdDAtMzVPbV9WYTRJeUNHRDhuaE1nUlJ3QnkzZGhGZTdoUDV5TS1MMWowTTZIVzlTV0RmUkpCOE9Hd3dQMWFDcnFVZVQ3dlE?oc=5>
+
+### 特朗普签署公告将加拿大产品排除出美政府采购计划
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 东方财富
+- 时间: 2026-09-17 05:55
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5N2xySG95eUtyc19Mc3ByZHZYckRZc1lxSm1iMmE3Mjk3cXBPMjBfb3hjc2Y5NTZGci1aTmNWZXc1UUhVSnBDaE80ZVlYWWJvWTJDS1ppc0Y0cDJtQkVQQg?oc=5>
+
+### “AI减速论”愈演愈烈 特朗普再度驳斥：AI将成史上最强经济发展引擎
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 财联社
+- 时间: 2026-09-17 04:27
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE1uRXgtbW9XVGxBc2x4MC1EMTFGWDRMQ0QxRDVYVWNHWng2TnVHLW5taE02NEYyLURJUkN3MlBVem1EaEp1b0doWA?oc=5>
+
+### 乌外长：泽连斯基与特朗普会晤可能推动达成乌俄停火
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Sohu
+- 时间: 2026-09-17 13:51
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVlRYU2NiT1JRdE4wTnI2bXlhQXZQVzJFYTJfazNrbzJFbng0a0IxSVZZaXBoV3RMMkN3U2hWcEh3cGYzMTFOSnRSc0FZQXFxeG5Vb29pOTNJdC0tYnlUZm9tQS1OeHZpLXRncW94amJ6Z0prb2V5RklUczZ0WmRJVFVEcnY0VGpz?oc=5>
+
+### 特朗普签署公告将加拿大产品排除出美政府采购计划
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 东方财富
+- 时间: 2026-09-17 14:56
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tNEFtU0tIdkljcno1clVqYjh5NUd5Ymw5aTdBeWtqVFMtaUFLMUFkWmxJOWdhS1VIc1FNQXJpRWdWY0gzejVzb09QMnl0WTVPcFdQb0VjQlBoZFQtcnV0VEVwR25Zdw?oc=5>
+
+### 特朗普指责“敌对”的美联储董事会加息
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-09-17 07:04
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSc1RfUXBiRFhEZ29OZFZTQzd5VDlMbFY1aFNmaDJ6NGdGREJOeUZHdUxoOGFMaVhZNk5Id0UwYVc1REVIS1dvdlY5SmlYbW5BN2hWbzd2UHFZWEdEbDdXNE5HWnJHZU3SAWxBVV95cUxOTTNtNDFJUm5wSTQ4aFNGQ2E0cGRJTldQYkVyb2JhZUs2SlkzelFRZzRDRXdySjM3N3FsM1F5cVgzS011Nm1qYTluOG9vc095WXFUTlNOWjVNeGx3QUxjUHRYdm8wVDduNUVFcVo?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-09-17 13:53
+- 链接: <https://news.google.com/rss/articles/CBMiowFBVV95cUxOWmdyS2x4dmhtTEcwOC1XLWpNdlN6dUlfTm5FTmpZLW8xeWZrQ3pTNGo5U0dBb19zSUtwTW5vYmtWclNHa0JXVGhfWVdTYnZLRTRNT29CY0VycnN6YUVIVDN3RVM4VEdKeFljT1JkMHMwdEhkMXZPUy1VSFVLUmZoSGExNzN4VlpqU0V1a0hxT1lUZ2l4dDEzLUhxcFZtTHMtcDg0?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-17 17:24  (15 条)
+
+- **蔡徐坤** | 蔡徐坤在采访中透露了新歌的哪些信息 <https://k.sina.com.cn/article_7880068588_1d5b04dec06801s07c.html>
+- **蔡徐坤** | 蔡徐坤预告的新歌什么时候发布？ <https://k.sina.com.cn/article_7879849298_1d5acf55206801afso.html>
+- **蔡徐坤** | 蔡徐坤新歌与雨天主题有何关联？ <https://k.sina.com.cn/article_7879849300_1d5acf5540680148te.html>
+- **蔡徐坤** | 蔡徐坤纽约公园吃汉堡，新歌预告暗藏其中 <https://k.sina.com.cn/article_7879849300_1d5acf5540680148t0.html>
+- **特朗普** | 特朗普称：美国“有望”接近伊朗战争尾声 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZm5QWXZkQW5xN2s4SEZhM0pkaXlvWE56eHppRXNPX3pWY0F1azFDM19FUWlraFZ2dl9FVy1GWVJnMkJROU1ydmJwNHRISm82SlBEaFplQy1pNnAyUmZ4TDlLbEZpMFVjcjQ1WDlPdmNTYWRUMHNnX1B0UjdvQXV1SEQ2VS1GZk9DdzZadFg5ZkdiRFlJQ0JsbDlFTW10SDhpUmlxLTRCc3JKQ1JFT3FLX2xyUURTVnhJTlYtZFAzcFNXbmwtNi0xV01qdTNLazRUMUJHWENWLXRyYl9yNHdn?oc=5>
+- **特朗普** | 特朗普：希望在联合国与盟友讨论对伊朗的措施。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBnR1NibnZpVHlEMWx3cUlpNGtYQ0p6aFBHQV9hZnA0WlFYekV5VklaOGxLUkphdFdjZkE3RmFFSVJFb2xRTHJaREFFTQ?oc=5>
+- **特朗普** | 两党议员盼特朗普要求北京释放黎智英，推法强化制裁港府 <https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZlVmV0prQzRVVGhZLU56TU9MZDNJRDZKWVBvbmc0RU5NZVZYc1R0aVBqZEptZEpwTmNOeHY1MTV6ZUhST2FOM0JfQndmdE5xaW40WXdrQ0JKSy1lUUtOWThaaUdoUnJ6M0Zzc0lxdy1PYlpxd19Xc0lMWE1MYjlERUtTeUFwcFNZLWVqaVozRHJhWWhtUEhYaWhjZnR4U0w4QWVVSFZFZ05Kb2FnUWVaUHhsaUpCZnhfZFNFNVpwcGLSAcMBQVVfeXFMTVk2ek8wS2EybmdJRzFsQU14Rl9xTkpmUVItdDM4Ni01TTFVQzhoQVM5eEp1bXozeFBKZjkyUU1rN1FsaHB4ekdkMk8tVDdZSmVUZElWR1JROHFacGpSZ3pBZEtrczBtRWdvVzFqMkxMUkxmSVRjclEtR0xtRE04X1lCLVpyNU9GNXF0LTZuMkxHUTN1bHpNZ0hwVWwyWC1ZV2J3c25FWm81cEgwRlVUQWhwcGlveXFXZmNTa2JOTWgwcWMw?oc=5>
+- **特朗普** | 特朗普三天内受挫两次，都是“自己的人不听话” <https://news.google.com/rss/articles/CBMicEFVX3lxTE5BUWpoNUR5VlZDU0tqMi1xanFVRFpuRHZOdmw5TmttY3JwbEtjR2ZwUmgwRU1nN1BudFY2M0l4NHBKV2o1N0RON3FRV2JmX1BTb3YtSWlEZkZQOEE3ZEdnaFQtaVlmQ3JTNEJDZnNyOXE?oc=5>
+- **特朗普** | 特朗普：若加拿大成欧盟“联席成员”将停止美欧贸易 <https://news.google.com/rss/articles/CBMicEFVX3lxTFAxR1ZheGxyMk1zcXRoVHhIS01MM1YwRzVqbHFPbm93cGR2WENabHVCTll6dnhyRHVXRmtpNW5NZ2ZncUZBVnRFbDBUclRNUUpBNXJyQk93dEx2UVBReThmYjIwX0s2TTg0Si1Jd1hMWW0?oc=5>
+- **特朗普** | 最新财务文件披露：特朗普上任后17个月，其家族金融交易2.8万笔；本人力挺禁止国会议员及家属炒股却豁免自己 <https://news.google.com/rss/articles/CBMiXkFVX3lxTE13aWpLYU5HR0otUDdkSWpqdDAtMzVPbV9WYTRJeUNHRDhuaE1nUlJ3QnkzZGhGZTdoUDV5TS1MMWowTTZIVzlTV0RmUkpCOE9Hd3dQMWFDcnFVZVQ3dlE?oc=5>
+- **特朗普** | 特朗普签署公告将加拿大产品排除出美政府采购计划 <https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5N2xySG95eUtyc19Mc3ByZHZYckRZc1lxSm1iMmE3Mjk3cXBPMjBfb3hjc2Y5NTZGci1aTmNWZXc1UUhVSnBDaE80ZVlYWWJvWTJDS1ppc0Y0cDJtQkVQQg?oc=5>
+- **特朗普** | “AI减速论”愈演愈烈 特朗普再度驳斥：AI将成史上最强经济发展引擎 <https://news.google.com/rss/articles/CBMiSEFVX3lxTE1uRXgtbW9XVGxBc2x4MC1EMTFGWDRMQ0QxRDVYVWNHWng2TnVHLW5taE02NEYyLURJUkN3MlBVem1EaEp1b0doWA?oc=5>
+- **特朗普** | 乌外长：泽连斯基与特朗普会晤可能推动达成乌俄停火 <https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVlRYU2NiT1JRdE4wTnI2bXlhQXZQVzJFYTJfazNrbzJFbng0a0IxSVZZaXBoV3RMMkN3U2hWcEh3cGYzMTFOSnRSc0FZQXFxeG5Vb29pOTNJdC0tYnlUZm9tQS1OeHZpLXRncW94amJ6Z0prb2V5RklUczZ0WmRJVFVEcnY0VGpz?oc=5>
+- **特朗普** | 特朗普签署公告将加拿大产品排除出美政府采购计划 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tNEFtU0tIdkljcno1clVqYjh5NUd5Ymw5aTdBeWtqVFMtaUFLMUFkWmxJOWdhS1VIc1FNQXJpRWdWY0gzejVzb09QMnl0WTVPcFdQb0VjQlBoZFQtcnV0VEVwR25Zdw?oc=5>
+- **Trump** | 特朗普指责“敌对”的美联储董事会加息 <https://news.google.com/rss/articles/CBMiowFBVV95cUxOWmdyS2x4dmhtTEcwOC1XLWpNdlN6dUlfTm5FTmpZLW8xeWZrQ3pTNGo5U0dBb19zSUtwTW5vYmtWclNHa0JXVGhfWVdTYnZLRTRNT29CY0VycnN6YUVIVDN3RVM4VEdKeFljT1JkMHMwdEhkMXZPUy1VSFVLUmZoSGExNzN4VlpqU0V1a0hxT1lUZ2l4dDEzLUhxcFZtTHMtcDg0?oc=5>
 
 ### 2026-09-17 12:40  (14 条)
 
