@@ -1,54 +1,130 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-17 22:58**
-- 本轮扫到 11953 条, 新增 **5** 条
+- 最近更新: **2026-09-18 01:06**
+- 本轮扫到 11966 条, 新增 **13** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (13 条)
 
-### 蔡徐坤什么时候发布新歌
+### 蔡徐坤在纽约时装周期间预告了新歌吗？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923119_1d5ae15af06801xi8m.html>
+- 链接: <https://k.sina.com.cn/article_7879923119_1d5ae15af06801xife.html>
 
-### 法国世界报 - 中美对抗：在某种程度上，特朗普正服务于中国的利益
+### 蔡徐坤登Fantastic Man封面，巡演计划持续一年
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5556631847_m14b33792705302d352.html>
+
+### vivo官方辟谣：周杰伦不会现身X500发布会！9月21日新机亮点抢先看
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://finance.sina.com.cn/tech/roll/2026-09-17/doc-inisayai3608634.shtml>
+
+### 习近平访美前瞻：当白宫举行宴会时，台湾会出现在“菜单”上吗？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-09-17 22:13
-- 链接: <https://news.google.com/rss/articles/CBMiygNBVV95cUxNU2FsejBaNXFvVFg1WFk3Qy1BTFN3d1JaeDM3blo4UHhodGQ0TFozakh5aFpkMkRfLVdBc1A4bUpjSGZfUkZKdk5XeVZwRGIxd0JRQmJKdWh1SVlZc0xWaGNsUHJ1MG1jY2RJRndrN3ROMElmcFZTS3FtaFdZaWlFbGRDVUlsYUNCZ3B5SXZ4NDIzSzNXTE5RMlRKVHZTZG9SODhybUtIOVA4anFITUFGSTEwUnRkblMzaU1odEpvVGlFQzRxcDBsbTUyaUF4V2tPMXMycjZ3RXc2QkJoa3B3TEV3Sk1fY1NXTG0xUkh3N2xnUEJUaUYxYTBmcHJ3c1V2UWd5RnJLeUJLdjE2VExrVGJOM1RhSWZaMjVGakFxRkt6NUY2RjJpWnZ1eEVsRzlQVTM4bnpSNXFYMEEwR2lSYTdhUG9QX3RGYXJzcE12dkJQMHo0YU14cEhVX2VvQ0ljemw1eFUzc281MmQ2MnpBX2RjNks0S1BxSTFIZXMtWDdCWmZCRDhDczZlX1V4ZmIyYlNNVGFMNk1CaXM1NXR1Q2JuWG1ueV9iNUozVW5sblhqTXRhUDgxSFJPdU1WUDBsbnNlWnNiOF9jZw?oc=5>
+- 场馆: BBC
+- 时间: 2026-09-18 00:32
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50VkxqSm43OG9WSDN1dnZDRU9QaGk1WFZFWHc4eUluendsQk9kZ1JlUllWX2hwaG41OC1yT09jMGlxc2VaUDNtbXIyNzFRNG5KVzlJLU9Sd3FLUm9tdWlNTzZ4MDdLa2vSAWxBVV95cUxPSmtOWUI0NkhPb0REVDhQSjB3clhJSkVJWGV2ODhBOG1RYkNnejRVYW42OXFub0k1MGdCU18xMEZweUhSa1VWWWNUazBWMndtVlA3X1VWX3FWODE4aFRVZDB6MW9UZk5WUkdtZ00?oc=5>
+
+### 乌外交部：正筹备泽连斯基与特朗普会晤
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-18 00:38
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE82TVlUZGRXVTVTZVhRY3k1ODVKSVhjTlllNmRMT0hHbkRPRG9zOUd5VGViQkF3cWJlN09KOUtCVVNjWTd0NVYxdXdGUXZ6TlduMThPMmZGSzlSXzYxSGZNd0JWamtIQWkzLTFESm5lWkJpOEFJOEl6Uw?oc=5>
 
 ### 特朗普撤回对兰斯·施罗耶出任美移民与海关执法局局长提名
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-09-17 22:15
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9KMWY5R2lPcnZlQ0p4emhodGFJdGdVU2dkbDUtYXEwa3RtSDRnVFZvbnVobU1ZNHVvSTZTMlpETW5HZnJvZVdfZm1xUEJZMmlsZGlYblo3aVBGR1IwbGNnOEJxWTlwZG9VRXNXem93OG8?oc=5>
+- 场馆: Sohu
+- 时间: 2026-09-17 22:33
+- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTE1nektfNm0xT01PZDB0bzFCYjNlNkVvTkR6MDlJMDdhZFB2Njgyc09UYW14TVJOaEVjOGRkY21mSGpGT0h2N3pYdGZVcWhkOFZwTXc?oc=5>
 
-### 特朗普三天内受挫两次，都是“自己的人不听话”
+### 要闻分析 - 白宫特习会 北京放长线钓大鱼？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-09-17 10:45
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9RZW5SaURRSGZQaE9Ya2lBaGMyNGx2VGJhem5BWkh0bkFvSWJDZVhTQmdfWVptUjAxX2VnN1htUERyYzFJcjM3aklEamZuWWtRRXNzZVVZWHltUW9zUHRwV0FNQmd4ci05YU9nWXpsWUQwY2FSX3dkeDA0ajNfR2M?oc=5>
+- 场馆: RFI
+- 时间: 2026-09-17 23:32
+- 链接: <https://news.google.com/rss/articles/CBMixgJBVV95cUxOdEpwTTJlNUVSVzFqNm5hSTR1dVZBd01TdWFPMHVPOVF3OF9DaXhZenhLcVd4dHBEZ3ZUR1N0TFZYRlF4Nll2NHY0VEJtSXRJYUFiTEdPQVkzNHNpMzVZbndlMFZrdXRCX21ZVFB0SE8yVW1XOE5qN3dTUlljWEZHcV84ZWNCRHkyRlFUYjUyU2dyYU1qTFl0cFRScFVvbW4yUVl2bDVPX01pYW12MkktaHVnX0M4dUo2UXBpQ2Y4WUFrMi1DWEJYNjRIeW9WQmRodjB6VWtkMlRBS2ZLY2d6XzJIOHVtZlk2LWtRVkFhMTdJZlZUTjh1OUJvQ1BkOThocllVU0xBVFhqZlN1cUFRUVdYLXcxZXp5RklQNktxWjZaNVNZX1A1WmJMNm5PMWMySWg4MF9MY0p6Q2lSa0o0ZmZSOTJlQQ?oc=5>
 
-### Wall Street Is Betting Trump Backs Down on Iran - but What If the 'TACO' Trade Fails This Time?
+### 特朗普称将就伊朗战事作出重大决定
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-09-17 23:04
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE03WTZPVkJVcl9yT2I2Y1FVYmJsVm45VkhGOFJKaW1QNVZEUUZIbUtaOTBLc0xEcDVKMzhzY2dESDZUTXZVZjhxU3JiR2xueDc2ZjVxS3AtS2tFdWxDeTNtV21TRmpwRmFtVmc?oc=5>
+
+### 特朗普：在伊朗战争中正接近重大十字路口
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-17 17:11
+- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTFBrRW1ZczlUZlpxeERPSF9wbXFLSHBYYTdXSlJBUUU5eUpVU20xU0F1bGlqd0FuMTMtaFFad2pxS0pEME9vd1hrZkVxM29iNXpjRTlFSnpRQUVzaUFyMnpIMzlZMjcyT201cWdybFJpV0VpOWd2Y1M0UzNR?oc=5>
+
+### 财经早报丨特朗普称将决定是否恢复对伊朗大规模作战，伊朗将组建1000个“抵抗营”丨2026年9月18日
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-17 23:20
+- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTFA3UXdrbjNsRzRkTGFKMG1TM3hzSzVLY1lpRHJCSzJWcjNZeXM0Rk0wVUkxcTJFSUdWM1Q0eHAyWWwxZk95bHdxSThBcmlqZXpYcHBWdUFaUWUyRzF0VWE1R2F2NTZ6VUd4MVd6SlFFal9GdjVWWkNSWS00MDg?oc=5>
+
+### 佛州共和党议员在移民问题上与特朗普划清界限
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-09-17 23:16
+- 链接: <https://news.google.com/rss/articles/CBMikwFBVV95cUxQZG1KYTZ0bUtPeGRhQ05EY2xjY3hFQWl0dkJaSkhKRzhpSEh5VGRDMlZSYXhZM0I3ZlQ4bmxuNmJZbDlEdFJIc1VFRmFvWnJRZG5sT1NDbjlmb1BRWkhZYy10aEVFOXBKV3EzWlhXcXlscWljdVh1UmliOFpVWUMwTGE3QlBXdEc2RnZORHpQMThyNHM?oc=5>
+
+### Brady Dale：特朗普发行TRUMP是CLARITY法案受挫的首要原因
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: TradingView
+- 时间: 2026-09-15 21:05
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBQZzhYMnBnaUJTcVBVdWdFc1hqeDU1QV9YR2gxOXZjb0pRSWdBdzFBMUh2MGZuMm91SXBRREpEVFl6ZGJoRmdGUGpGa3FHMjZpdEFFVk5uRGl1NFgwVEdFano4ZE1Ldw?oc=5>
+
+### Correction to Trump on Interest Rates Article on Sept. 16
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: Moomoo
-- 时间: 2026-09-17 21:09
-- 链接: <https://news.google.com/rss/articles/CBMinwFBVV95cUxOT1VuWVFUZG9sOWEwcHQtN3FZQVFOTEdxcnhmb2ZjZC1DeG91Mnk2RUcwTjhPMlhnN2tnVnpKWHljNnZySEpLNHZzaUhZWldSaXFPUDRmNjNwcDRxbFhrVVRoanprZndPaEYyRXZURnJhUmg2S3dLUXFteGk3TDJraXJYcF80SmlyZUZMVWJpd256UWJLemZUWXpvUVpZQWs?oc=5>
+- 时间: 2026-09-17 16:16
+- 链接: <https://news.google.com/rss/articles/CBMipgFBVV95cUxQWGZRN19pamxEZWJjLURsQkVNMXNEZGliYUpxcUQ2amJvWm5mcmZPVmVWWWlFRWF3MDhtSG5NNUVQU0pMdF9kWlhwOUNsU2hxakpLNWFDall2b2k5SWt2S0RKTXpDYmhzSmcyRXhxXy1wVENhMmZjSkxOcWdnNk82eWdqNlBEbFpzT1dCT1FHS0pLUmlIcEMwQjhDb1dSOERkbnhHM2N3?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-18 01:06  (13 条)
+
+- **蔡徐坤** | 蔡徐坤在纽约时装周期间预告了新歌吗？ <https://k.sina.com.cn/article_7879923119_1d5ae15af06801xife.html>
+- **蔡徐坤** | 蔡徐坤登Fantastic Man封面，巡演计划持续一年 <https://k.sina.com.cn/article_5556631847_m14b33792705302d352.html>
+- **周杰伦** | vivo官方辟谣：周杰伦不会现身X500发布会！9月21日新机亮点抢先看 <https://finance.sina.com.cn/tech/roll/2026-09-17/doc-inisayai3608634.shtml>
+- **特朗普** | 习近平访美前瞻：当白宫举行宴会时，台湾会出现在“菜单”上吗？ <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50VkxqSm43OG9WSDN1dnZDRU9QaGk1WFZFWHc4eUluendsQk9kZ1JlUllWX2hwaG41OC1yT09jMGlxc2VaUDNtbXIyNzFRNG5KVzlJLU9Sd3FLUm9tdWlNTzZ4MDdLa2vSAWxBVV95cUxPSmtOWUI0NkhPb0REVDhQSjB3clhJSkVJWGV2ODhBOG1RYkNnejRVYW42OXFub0k1MGdCU18xMEZweUhSa1VWWWNUazBWMndtVlA3X1VWX3FWODE4aFRVZDB6MW9UZk5WUkdtZ00?oc=5>
+- **特朗普** | 乌外交部：正筹备泽连斯基与特朗普会晤 <https://news.google.com/rss/articles/CBMieEFVX3lxTE82TVlUZGRXVTVTZVhRY3k1ODVKSVhjTlllNmRMT0hHbkRPRG9zOUd5VGViQkF3cWJlN09KOUtCVVNjWTd0NVYxdXdGUXZ6TlduMThPMmZGSzlSXzYxSGZNd0JWamtIQWkzLTFESm5lWkJpOEFJOEl6Uw?oc=5>
+- **特朗普** | 特朗普撤回对兰斯·施罗耶出任美移民与海关执法局局长提名 <https://news.google.com/rss/articles/CBMiUkFVX3lxTE1nektfNm0xT01PZDB0bzFCYjNlNkVvTkR6MDlJMDdhZFB2Njgyc09UYW14TVJOaEVjOGRkY21mSGpGT0h2N3pYdGZVcWhkOFZwTXc?oc=5>
+- **特朗普** | 要闻分析 - 白宫特习会 北京放长线钓大鱼？ <https://news.google.com/rss/articles/CBMixgJBVV95cUxOdEpwTTJlNUVSVzFqNm5hSTR1dVZBd01TdWFPMHVPOVF3OF9DaXhZenhLcVd4dHBEZ3ZUR1N0TFZYRlF4Nll2NHY0VEJtSXRJYUFiTEdPQVkzNHNpMzVZbndlMFZrdXRCX21ZVFB0SE8yVW1XOE5qN3dTUlljWEZHcV84ZWNCRHkyRlFUYjUyU2dyYU1qTFl0cFRScFVvbW4yUVl2bDVPX01pYW12MkktaHVnX0M4dUo2UXBpQ2Y4WUFrMi1DWEJYNjRIeW9WQmRodjB6VWtkMlRBS2ZLY2d6XzJIOHVtZlk2LWtRVkFhMTdJZlZUTjh1OUJvQ1BkOThocllVU0xBVFhqZlN1cUFRUVdYLXcxZXp5RklQNktxWjZaNVNZX1A1WmJMNm5PMWMySWg4MF9MY0p6Q2lSa0o0ZmZSOTJlQQ?oc=5>
+- **特朗普** | 特朗普称将就伊朗战事作出重大决定 <https://news.google.com/rss/articles/CBMiakFVX3lxTE03WTZPVkJVcl9yT2I2Y1FVYmJsVm45VkhGOFJKaW1QNVZEUUZIbUtaOTBLc0xEcDVKMzhzY2dESDZUTXZVZjhxU3JiR2xueDc2ZjVxS3AtS2tFdWxDeTNtV21TRmpwRmFtVmc?oc=5>
+- **特朗普** | 特朗普：在伊朗战争中正接近重大十字路口 <https://news.google.com/rss/articles/CBMiekFVX3lxTFBrRW1ZczlUZlpxeERPSF9wbXFLSHBYYTdXSlJBUUU5eUpVU20xU0F1bGlqd0FuMTMtaFFad2pxS0pEME9vd1hrZkVxM29iNXpjRTlFSnpRQUVzaUFyMnpIMzlZMjcyT201cWdybFJpV0VpOWd2Y1M0UzNR?oc=5>
+- **特朗普** | 财经早报丨特朗普称将决定是否恢复对伊朗大规模作战，伊朗将组建1000个“抵抗营”丨2026年9月18日 <https://news.google.com/rss/articles/CBMifEFVX3lxTFA3UXdrbjNsRzRkTGFKMG1TM3hzSzVLY1lpRHJCSzJWcjNZeXM0Rk0wVUkxcTJFSUdWM1Q0eHAyWWwxZk95bHdxSThBcmlqZXpYcHBWdUFaUWUyRzF0VWE1R2F2NTZ6VUd4MVd6SlFFal9GdjVWWkNSWS00MDg?oc=5>
+- **Trump** | 佛州共和党议员在移民问题上与特朗普划清界限 <https://news.google.com/rss/articles/CBMikwFBVV95cUxQZG1KYTZ0bUtPeGRhQ05EY2xjY3hFQWl0dkJaSkhKRzhpSEh5VGRDMlZSYXhZM0I3ZlQ4bmxuNmJZbDlEdFJIc1VFRmFvWnJRZG5sT1NDbjlmb1BRWkhZYy10aEVFOXBKV3EzWlhXcXlscWljdVh1UmliOFpVWUMwTGE3QlBXdEc2RnZORHpQMThyNHM?oc=5>
+- **Trump** | Brady Dale：特朗普发行TRUMP是CLARITY法案受挫的首要原因 <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBQZzhYMnBnaUJTcVBVdWdFc1hqeDU1QV9YR2gxOXZjb0pRSWdBdzFBMUh2MGZuMm91SXBRREpEVFl6ZGJoRmdGUGpGa3FHMjZpdEFFVk5uRGl1NFgwVEdFano4ZE1Ldw?oc=5>
+- **Trump** | Correction to Trump on Interest Rates Article on Sept. 16 <https://news.google.com/rss/articles/CBMipgFBVV95cUxQWGZRN19pamxEZWJjLURsQkVNMXNEZGliYUpxcUQ2amJvWm5mcmZPVmVWWWlFRWF3MDhtSG5NNUVQU0pMdF9kWlhwOUNsU2hxakpLNWFDall2b2k5SWt2S0RKTXpDYmhzSmcyRXhxXy1wVENhMmZjSkxOcWdnNk82eWdqNlBEbFpzT1dCT1FHS0pLUmlIcEMwQjhDb1dSOERkbnhHM2N3?oc=5>
 
 ### 2026-09-17 22:58  (5 条)
 
