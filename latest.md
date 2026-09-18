@@ -1,51 +1,49 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-18 21:22**
-- 本轮扫到 12017 条, 新增 **6** 条
+- 最近更新: **2026-09-18 23:25**
+- 本轮扫到 12029 条, 新增 **12** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (12 条)
 
-### 特朗普：若加拿大成欧盟“联席成员”将停止美欧贸易
+### 蔡徐坤新歌《Remedy》与大片有何关联
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-16 22:40
-- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxOSVdUOHRfdkM4a3NXOTBYUTJBb1hEOFdIR0tOc1JwcC12dzBmZDFBOXhpLVpLdVhQNUsxdXlIcmRlR3MwNl90VTRhS1JsdVlYS3o3eFRKQVNSUFpXa2NpbjQ5dDNFcDU1bFNBMG14TVptMzB2RVllR0tlTlBPM1A4UktScWJVSjZrSnpIaDdpUzZzTF95V3I5N1hTeFdwQTRHSF9acHFNRGFoTmFtb0FRYzZPYXFwLWROdEJ6OWdjWEJBR01tMzUzMF9EYkYxVms?oc=5>
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923377_1d5ae16b106801c9og.html>
 
-### 美国总统特朗普：将与美国参议院多数党领袖图恩讨论将《电费支付者保护法》提交表决。
+### 特朗普-习近平华盛顿峰会五大看点
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: cj.sina.cn
-- 时间: 2026-09-18 20:20
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5kYjhFVTY5Y2VhYzRxeWpZc09Lcms3YzBMM2UxSk1wNU1YWEpsSkJrcm9KWERFeXVOZmZzdUc5OFlrMDAxbmVaeHlyaw?oc=5>
+- 场馆: voachinese.com
+- 时间: 2026-09-18 21:08
+- 链接: <https://news.google.com/rss/articles/CBMirAFBVV95cUxQVFdOZUU3bTNBY1VYNzhFWXh2YkpIazdFdUFVYTlES2ZLSnBiejJ4Y2ZwN0ZFQ05OVTlXd09kblJDRlJERDJkb21EM0w1WkkwLU0yOGkxc0RiT3g5aTdTSjBkSVFFYU9MXzg5UDZvU3NkVDdCSFFKLWZRUlY0U2tMZVZvdUl0aHlOcm5xM0pwajNjTm14b0FHT05wQUpaNGc5NHRhcExRc0ZHOEl50gGvAUFVX3lxTE50bnFhRmZCeVlqZmhIUEhtN1oycjNDTkg4a0JfR0pwM0tQbkpEQ1o1M292Wl8yaVdTVUpFaE1sVWhYR0RfNEZDenBJeW5WOXQ1dGg5OXJjVURkT2gxdWpEaU1CSmh5YlBIT21BSUlGa0hPZzg5alBTaUViUW5TUjE0czdscUJaMFFYR0tjYjZDUUFJSkVJUGlRU1BwTDg4TUVHdDZBYjlZdUhJbGZ2cGM?oc=5>
 
-### 特朗普宣布禁止 CNN、MSNOW 和 Politico 进入白宫采访
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-09-18 20:56
-- 链接: <https://news.google.com/rss/articles/CBMiowJBVV95cUxPanZzRUJrRUxpWTd3UEVQc2pzX184Z0pwOUZaZHlhclNfbUdQbjhZeEswb1dFbVBHRW42NTAyNG1UUWdtOTJ5aFlPTmlpT2R5elRRRDRoOG1uWnVsWjgwWnRjTTlxRTNIX2VCZDd4MU5sUnlmbklHLXZyaHkyYjd5ZzdpNzdXX2l0cWVzclRyNG84UG9QZjItMkN0czlIZXdLR0UtMGZhV1JNNkpkdDZfOEFxdUFkd2VwNzlqYTNtTU5hNmFqUFh2cm9oTWNicHR1aTM2X2FDOEhOSllOeC1SOVktcU16SjQ5YkpKVFBFTDVoeklRbFNkWWZwM3JWNmJidFBPZlJ2VlAtN25nR2M2RWJrLWhZSkRRbVR0THZtcHBnOE0?oc=5>
-
-### 特朗普宣布限制CNN等三家媒体进入白宫，指责其传播虚假新闻| 乌克兰新闻- #Mezha
+### 特朗普宣布格陵兰安全协议，称获得“永久控制权”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Межа. Новини України.
-- 时间: 2026-09-18 15:45
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfUTk3Tm1aa05sVE4wUlJmczlXX1pwTEoyUy1vRHpPS0ptVjQyd1AtV2FvU0JpVTk5VEkxZ0YxYUNUalRzMGdIZEc5T3pON0lzRmMyd2lQYUVNQ2Q3TlhTeHNzTnpuVmQy?oc=5>
+- 场馆: 新浪财经_金融信息服务商
+- 时间: 2026-09-18 23:12
+- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxNQUwybzlBSzNFZnNfc0RtT0VDMzdYVmtuUFVXT1pINW5xdFdKQlNueU9iRHQxZExRWkUtWU41bGNxdzNiLVdPRkVWT1IzSElxZmNuN2EtdTVvbW1Pd2wteXhRUlBRRF9VaDF3Zm9OaThHQ2VBM2NRNnB0VVZxUmJIWThCWXlRMTlDa0E?oc=5>
 
-### 美国总统特朗普：即日起禁止CNN、MSNOW（前MSNBC）和Politico进入白宫，理由是这些媒体“持续报道假新闻”。
+### 特朗普：已与丹麦达成协议，获得格陵兰岛永久安全控制权
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Sohu
-- 时间: 2026-09-18 19:19
-- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVlRnenlaZDlYWTIxbUo5aU00dXpQUEJOLUZsNkpRQXhueFFUTWdrYzh1Ul9WZnNsbXJkV05fakJNcl9jVVRMTEJlSVRqQjl5bzQzV21BY0JFWEt2Mzc4N1d6WXF2aDZ1dlUzSnl6a0dVNV9wRjhPdTl2Q0JPLUFfZXRGaHQzVmw0?oc=5>
+- 场馆: news.ifeng.com
+- 时间: 2026-09-18 21:59
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1KZk90S2xMUFNrYkRfYjdyZ2tfbG05SGcyMGJ1em51aWJoMjV0SlpxRzd2LUFpdGhvaVBHcnF1Ty1iQktTZEd2OWtrZmk?oc=5>
+
+### 特朗普称美国丹麦达成协议 美将获格陵兰岛永久安全主导权
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-09-18 23:04
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE8yQWhGS2thNHdTSjZ5QjB0MGEwRnUwN3Z3dUhQTkhNVnI5Q01lbHRqNmE2SEhuUFRBb2pqcmc2UWgwaTRWUm9MTFVBN0lkT05UQlpPT1ZaRHFMUENKYzQ1ZENteVVIUkwxaVE?oc=5>
 
 ### 特朗普称将禁止CNN、MS NOW、Politico进入白宫
 
@@ -53,12 +51,75 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-09-18 20:48
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeDdBWTRIUGtPLXJLeWRKQ0llQTRkRHg0WmVka2JfWWxySmdCa3doZTRlazk3Tm02OUJJYnpxcjllakE1QmFZb0xWSGhINXgxcUtGa01IU0tWbm5xWHNJS3doeFpGeW92cHNYcmg3WWlWMmVWajVIeDJSN3ljUUdNOWF2dFlSUVgxNUVweVhOa3c0ZUpVblBFSUI0OG5yU1lod19zMHV1QWVUbFY0eUhIV3dSTlJhVzBaLUMxcG8yLW8yNXp5WFZUUmp6ZTg3SERW?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE4xcHE5UDZCaFlLQVV2RHV3ZFdxQnNJMk5tb0tqdjl0RDZVNXhFNFlmS0ZqcWU3TkpMRHRlLUhmdkpDaFdadFZsT1QtUl96OEFUZ2thMWlDRGhpSlFRWFAxdTlFNnQ0OUJ0eXg5SFdCLVJkX2lTTUNRTUt3?oc=5>
+
+### 特朗普再禁3家美媒进入白宫
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: news.ifeng.com
+- 时间: 2026-09-18 21:37
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBTNFJES1pTWjd0ZDh4RVFyNDNEbGVvSm9xRkJ5SWF0NjROWjZkTVFqVUtMbDllakxXM3JMSG80VEZleTdWelRrQ0xmTE8?oc=5>
+
+### 特朗普再称对伊朗战争将很快结束
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: news.ifeng.com
+- 时间: 2026-09-18 22:27
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE53a0haT3FxTW8zOUpZXy1fYk1MbDRoMzV0QVlxNkZ5aHQ4aTFCT0J2eEpiWm9aTHZRT1N4MWtPMlVBZy00RlNVY0NieXk?oc=5>
+
+### 特朗普再称对伊朗战争将很快结束
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-18 20:10
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFAxdUEzb2tub0VqOXlXclptd1BpTFB1cmlaQURLUTc5cUVnVDY3MVM5VGx4WTdZUGRnU090a2VXaHZLamtDRFRQRGRTV1RvN0sxeWpzWWpfeUNFa0NnSXNJNWRGQjZsSjVWNl93UEFXUjEzMXdQWEdxQQ?oc=5>
+
+### 特朗普：美伊战争迎来关键节点 我面临一个重大决定
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 东方财富
+- 时间: 2026-09-17 04:07
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE4tSkVPU0FaZXJuX3hBWWZXY3ZXcy0wSUhjRkdyOWxYeHlLQnY1UHlUWWk1cVVSVzZEVG9jaGttZ3BkVHdWWTN5SVp3alRyNEZRaUJxejEtX0JsVElQSEJuOQ?oc=5>
+
+### 特朗普禁止CNN等媒体进入白宫 引发新闻自由争议
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: SBS
+- 时间: 2026-09-18 22:41
+- 链接: <https://news.google.com/rss/articles/CBMisgFBVV95cUxOOGEwRnZDYUNZdDBIQjVFN3pUQjJVRDVCbXNPWFUtYmUwLXpBM2QtTVVxaThPSmhQRTFtQTZVOGtpLW1XOUVCLWFpRVFIb04zQVVLY3g0T2stVFpvaGUzQ2w4b2cydzdGclVOcUItbUdINEkwa2U1d01uNnp2WFNJOFBnbFdTWVdPZkFPZTJ6U0tEcmdVbzEtRkc0SEY1SGRURE9hcW82LVZ1NDRFaFItYlBR?oc=5>
+
+### 美籍缅甸裔学者涉间谍罪在华监禁 其妻吁特朗普晤习近平时重提此案
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: BBC
+- 时间: 2026-09-18 06:02
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kRFVxX1Zvd0JKQmU5eUdiQmh0bEVnRFJENVJzY3drV1F4QzduTGxGal8tNER5cnZCOFdNMGZzZ3o0SlpULXpnVk1XY3AxcXZVUUJfNDB3bGpLY2V0UmZxX1RVcjl4RXM?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-18 23:25  (12 条)
+
+- **蔡徐坤** | 蔡徐坤新歌《Remedy》与大片有何关联 <https://k.sina.com.cn/article_7879923377_1d5ae16b106801c9og.html>
+- **特朗普** | 特朗普-习近平华盛顿峰会五大看点 <https://news.google.com/rss/articles/CBMirAFBVV95cUxQVFdOZUU3bTNBY1VYNzhFWXh2YkpIazdFdUFVYTlES2ZLSnBiejJ4Y2ZwN0ZFQ05OVTlXd09kblJDRlJERDJkb21EM0w1WkkwLU0yOGkxc0RiT3g5aTdTSjBkSVFFYU9MXzg5UDZvU3NkVDdCSFFKLWZRUlY0U2tMZVZvdUl0aHlOcm5xM0pwajNjTm14b0FHT05wQUpaNGc5NHRhcExRc0ZHOEl50gGvAUFVX3lxTE50bnFhRmZCeVlqZmhIUEhtN1oycjNDTkg4a0JfR0pwM0tQbkpEQ1o1M292Wl8yaVdTVUpFaE1sVWhYR0RfNEZDenBJeW5WOXQ1dGg5OXJjVURkT2gxdWpEaU1CSmh5YlBIT21BSUlGa0hPZzg5alBTaUViUW5TUjE0czdscUJaMFFYR0tjYjZDUUFJSkVJUGlRU1BwTDg4TUVHdDZBYjlZdUhJbGZ2cGM?oc=5>
+- **特朗普** | 特朗普宣布格陵兰安全协议，称获得“永久控制权” <https://news.google.com/rss/articles/CBMiigFBVV95cUxNQUwybzlBSzNFZnNfc0RtT0VDMzdYVmtuUFVXT1pINW5xdFdKQlNueU9iRHQxZExRWkUtWU41bGNxdzNiLVdPRkVWT1IzSElxZmNuN2EtdTVvbW1Pd2wteXhRUlBRRF9VaDF3Zm9OaThHQ2VBM2NRNnB0VVZxUmJIWThCWXlRMTlDa0E?oc=5>
+- **特朗普** | 特朗普：已与丹麦达成协议，获得格陵兰岛永久安全控制权 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1KZk90S2xMUFNrYkRfYjdyZ2tfbG05SGcyMGJ1em51aWJoMjV0SlpxRzd2LUFpdGhvaVBHcnF1Ty1iQktTZEd2OWtrZmk?oc=5>
+- **特朗普** | 特朗普称美国丹麦达成协议 美将获格陵兰岛永久安全主导权 <https://news.google.com/rss/articles/CBMiakFVX3lxTE8yQWhGS2thNHdTSjZ5QjB0MGEwRnUwN3Z3dUhQTkhNVnI5Q01lbHRqNmE2SEhuUFRBb2pqcmc2UWgwaTRWUm9MTFVBN0lkT05UQlpPT1ZaRHFMUENKYzQ1ZENteVVIUkwxaVE?oc=5>
+- **特朗普** | 特朗普称将禁止CNN、MS NOW、Politico进入白宫 <https://news.google.com/rss/articles/CBMiekFVX3lxTE4xcHE5UDZCaFlLQVV2RHV3ZFdxQnNJMk5tb0tqdjl0RDZVNXhFNFlmS0ZqcWU3TkpMRHRlLUhmdkpDaFdadFZsT1QtUl96OEFUZ2thMWlDRGhpSlFRWFAxdTlFNnQ0OUJ0eXg5SFdCLVJkX2lTTUNRTUt3?oc=5>
+- **特朗普** | 特朗普再禁3家美媒进入白宫 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBTNFJES1pTWjd0ZDh4RVFyNDNEbGVvSm9xRkJ5SWF0NjROWjZkTVFqVUtMbDllakxXM3JMSG80VEZleTdWelRrQ0xmTE8?oc=5>
+- **特朗普** | 特朗普再称对伊朗战争将很快结束 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE53a0haT3FxTW8zOUpZXy1fYk1MbDRoMzV0QVlxNkZ5aHQ4aTFCT0J2eEpiWm9aTHZRT1N4MWtPMlVBZy00RlNVY0NieXk?oc=5>
+- **特朗普** | 特朗普再称对伊朗战争将很快结束 <https://news.google.com/rss/articles/CBMieEFVX3lxTFAxdUEzb2tub0VqOXlXclptd1BpTFB1cmlaQURLUTc5cUVnVDY3MVM5VGx4WTdZUGRnU090a2VXaHZLamtDRFRQRGRTV1RvN0sxeWpzWWpfeUNFa0NnSXNJNWRGQjZsSjVWNl93UEFXUjEzMXdQWEdxQQ?oc=5>
+- **特朗普** | 特朗普：美伊战争迎来关键节点 我面临一个重大决定 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE4tSkVPU0FaZXJuX3hBWWZXY3ZXcy0wSUhjRkdyOWxYeHlLQnY1UHlUWWk1cVVSVzZEVG9jaGttZ3BkVHdWWTN5SVp3alRyNEZRaUJxejEtX0JsVElQSEJuOQ?oc=5>
+- **Trump** | 特朗普禁止CNN等媒体进入白宫 引发新闻自由争议 <https://news.google.com/rss/articles/CBMisgFBVV95cUxOOGEwRnZDYUNZdDBIQjVFN3pUQjJVRDVCbXNPWFUtYmUwLXpBM2QtTVVxaThPSmhQRTFtQTZVOGtpLW1XOUVCLWFpRVFIb04zQVVLY3g0T2stVFpvaGUzQ2w4b2cydzdGclVOcUItbUdINEkwa2U1d01uNnp2WFNJOFBnbFdTWVdPZkFPZTJ6U0tEcmdVbzEtRkc0SEY1SGRURE9hcW82LVZ1NDRFaFItYlBR?oc=5>
+- **Trump** | 美籍缅甸裔学者涉间谍罪在华监禁 其妻吁特朗普晤习近平时重提此案 <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kRFVxX1Zvd0JKQmU5eUdiQmh0bEVnRFJENVJzY3drV1F4QzduTGxGal8tNER5cnZCOFdNMGZzZ3o0SlpULXpnVk1XY3AxcXZVUUJfNDB3bGpLY2V0UmZxX1RVcjl4RXM?oc=5>
 
 ### 2026-09-18 21:22  (6 条)
 
