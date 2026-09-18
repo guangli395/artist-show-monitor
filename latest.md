@@ -1,64 +1,73 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-18 18:47**
-- 本轮扫到 12011 条, 新增 **6** 条
+- 最近更新: **2026-09-18 21:22**
+- 本轮扫到 12017 条, 新增 **6** 条
 
 ---
 
 ## 本轮新发现 (6 条)
 
-### 所有人担心AI失控，特朗普和习近平能就必要护栏达成协议吗？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-09-18 17:36
-- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxOLXJqY3d5dUJmMW4tampxdmR5LUxaeTRTdnhjOTJvYW03ODd6cktfU2xxQ3hoOHU4VWxsM1d4OFZXb1Y5aldwZEJMX3N1ejV2dXVPWW1FNGN5a1ZvNDd6UkUteE5uZUFWM2hhbFZIRUNEWXVWNG90NnFwM1FibW9UQ18weURWSHZiN2ItVTdaMG5iREFT?oc=5>
-
-### 特朗普：特朗普在共和党内支持率现已达到 95%，创下纪录。罗纳德・里根以 86% 位居第二。
+### 特朗普：若加拿大成欧盟“联席成员”将停止美欧贸易
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-09-18 18:00
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBzRV9lZDFnNG1pbmhMeXhEdjJGRGZvLVJMU0pac09ZelN4SUVSWk9iX3plMDRlNUxCVG1fVWFGYUtyWXZXLXJydFlLbw?oc=5>
+- 时间: 2026-09-16 22:40
+- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxOSVdUOHRfdkM4a3NXOTBYUTJBb1hEOFdIR0tOc1JwcC12dzBmZDFBOXhpLVpLdVhQNUsxdXlIcmRlR3MwNl90VTRhS1JsdVlYS3o3eFRKQVNSUFpXa2NpbjQ5dDNFcDU1bFNBMG14TVptMzB2RVllR0tlTlBPM1A4UktScWJVSjZrSnpIaDdpUzZzTF95V3I5N1hTeFdwQTRHSF9acHFNRGFoTmFtb0FRYzZPYXFwLWROdEJ6OWdjWEJBR01tMzUzMF9EYkYxVms?oc=5>
 
-### 市场消息：特朗普预计将于今日签署对俄制裁法案。
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-18 16:56
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBzTk9Sek1UNm1MYkJyaXlKUjBZY0Q2VUszSldGQm5MOC1odHZvV05WNFNjaVVyWHZLVGo0a1puSmpQVTMxUGsweDFLWQ?oc=5>
-
-### 油价连续回落，特朗普表态伊朗战争正站在重大十字路口上，即将做出一个重大决定
+### 美国总统特朗普：将与美国参议院多数党领袖图恩讨论将《电费支付者保护法》提交表决。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-18 16:41
-- 链接: <https://news.google.com/rss/articles/CBMisAFBVV95cUxQcDBrVnlfVjBvN3k1eV8xZEgtWFZRQXluSFVORjlFZ29ieXFMaUJNZ0haS0I4VHl4RGRaQ1NQaTFfamNSSUFETi1FNVNJVnh4Z2Q4NDRrNXd4dHd4elNfQmppU285WlloX0k4eDhmeUd2elNKVkM2MS1ramcyeFBDWlI3MFpxc1JLTnJ0TmNkNVE0ckdDZ1VDN240QTYwT0dDRzVRd2phSWtYWUFfaW1WZw?oc=5>
+- 场馆: cj.sina.cn
+- 时间: 2026-09-18 20:20
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5kYjhFVTY5Y2VhYzRxeWpZc09Lcms3YzBMM2UxSk1wNU1YWEpsSkJrcm9KWERFeXVOZmZzdUc5OFlrMDAxbmVaeHlyaw?oc=5>
 
-### 深夜，大涨！特朗普：将决定是否恢复大规模作战！伊朗最新声明：限时离境！1.1亿俄公民将参与，普京表态
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-18 17:18
-- 链接: <https://news.google.com/rss/articles/CBMisAFBVV95cUxONDRWQUxkcHc3UUpzWk1KemdUb3FZZ1NmTmRnXzJwRmowRWNhSFlzamtmbTI2N3R4aXdwUlhLZjZTTGg4ZGthR1diY0tsSjJ0N1B5M0YwTUJFbl95UUYyUHpEc3FvWUxjTzJwSlc0VmNJel9CT2EwUC1xR3hYYjRyZy1TWG9NeVUwblRyX0Qwc3FHVzg2UGpQMHNud3JEWm0tY2ZobnpoSi1fMW1SS18ybw?oc=5>
-
-### 高市早苗与特朗普拟周二在美会晤 旨协调对华政策等议题
+### 特朗普宣布禁止 CNN、MSNOW 和 Politico 进入白宫采访
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: RFI
-- 时间: 2026-09-18 08:37
-- 链接: <https://news.google.com/rss/articles/CBMijANBVV95cUxPMVFFSVVtdVdKZ045Vm53S1FmZU9acnV4VGpxNmVxY244MVNnQ3FiVzlpYUw2RndvOEtrMzhvdFJCUTZGaUFQWFRvRTVBa0RjclBiNmFHZ1ItSGZUUW1RVV9jWnhFeC1HeHZER1JnSGpGSTB5emRXaDVrWldJT2lVQ0NmRzF6MVBuckt1aWRhaTJ0TEVMd2pWeUp0aTlNYWFOTm0tcThEVVJFaDctQkRKRVk1ZWdjeHlRMzZRTnByTWw2b1haR0p5WVhSQmlkSTBMckFQLVNETGxTVUNWOURGQlJrMmM0bWxkRWZDREJoZFB0emJROC1oUG9FekowcW1DOUVGMkxDRVVNWkV5QmJpZE8zQ0tZbnRFNnFmMjFEMWFRc1kwUGkyeWxveWJRRjhrZXpNOTJEOXFlMk9Md1B1TTFkNzB0SDRMX09QdmlROHJ1NHlncVFZRHpjM0NtMVFXV2FNMDh0M2cxdmJNd0UyQy1SMTNIRW1pTVQ1LVplYkI5TXF5OTltcE54UFI?oc=5>
+- 时间: 2026-09-18 20:56
+- 链接: <https://news.google.com/rss/articles/CBMiowJBVV95cUxPanZzRUJrRUxpWTd3UEVQc2pzX184Z0pwOUZaZHlhclNfbUdQbjhZeEswb1dFbVBHRW42NTAyNG1UUWdtOTJ5aFlPTmlpT2R5elRRRDRoOG1uWnVsWjgwWnRjTTlxRTNIX2VCZDd4MU5sUnlmbklHLXZyaHkyYjd5ZzdpNzdXX2l0cWVzclRyNG84UG9QZjItMkN0czlIZXdLR0UtMGZhV1JNNkpkdDZfOEFxdUFkd2VwNzlqYTNtTU5hNmFqUFh2cm9oTWNicHR1aTM2X2FDOEhOSllOeC1SOVktcU16SjQ5YkpKVFBFTDVoeklRbFNkWWZwM3JWNmJidFBPZlJ2VlAtN25nR2M2RWJrLWhZSkRRbVR0THZtcHBnOE0?oc=5>
+
+### 特朗普宣布限制CNN等三家媒体进入白宫，指责其传播虚假新闻| 乌克兰新闻- #Mezha
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Межа. Новини України.
+- 时间: 2026-09-18 15:45
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfUTk3Tm1aa05sVE4wUlJmczlXX1pwTEoyUy1vRHpPS0ptVjQyd1AtV2FvU0JpVTk5VEkxZ0YxYUNUalRzMGdIZEc5T3pON0lzRmMyd2lQYUVNQ2Q3TlhTeHNzTnpuVmQy?oc=5>
+
+### 美国总统特朗普：即日起禁止CNN、MSNOW（前MSNBC）和Politico进入白宫，理由是这些媒体“持续报道假新闻”。
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Sohu
+- 时间: 2026-09-18 19:19
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVlRnenlaZDlYWTIxbUo5aU00dXpQUEJOLUZsNkpRQXhueFFUTWdrYzh1Ul9WZnNsbXJkV05fakJNcl9jVVRMTEJlSVRqQjl5bzQzV21BY0JFWEt2Mzc4N1d6WXF2aDZ1dlUzSnl6a0dVNV9wRjhPdTl2Q0JPLUFfZXRGaHQzVmw0?oc=5>
+
+### 特朗普称将禁止CNN、MS NOW、Politico进入白宫
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-18 20:48
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeDdBWTRIUGtPLXJLeWRKQ0llQTRkRHg0WmVka2JfWWxySmdCa3doZTRlazk3Tm02OUJJYnpxcjllakE1QmFZb0xWSGhINXgxcUtGa01IU0tWbm5xWHNJS3doeFpGeW92cHNYcmg3WWlWMmVWajVIeDJSN3ljUUdNOWF2dFlSUVgxNUVweVhOa3c0ZUpVblBFSUI0OG5yU1lod19zMHV1QWVUbFY0eUhIV3dSTlJhVzBaLUMxcG8yLW8yNXp5WFZUUmp6ZTg3SERW?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-18 21:22  (6 条)
+
+- **特朗普** | 特朗普：若加拿大成欧盟“联席成员”将停止美欧贸易 <https://news.google.com/rss/articles/CBMizwFBVV95cUxOSVdUOHRfdkM4a3NXOTBYUTJBb1hEOFdIR0tOc1JwcC12dzBmZDFBOXhpLVpLdVhQNUsxdXlIcmRlR3MwNl90VTRhS1JsdVlYS3o3eFRKQVNSUFpXa2NpbjQ5dDNFcDU1bFNBMG14TVptMzB2RVllR0tlTlBPM1A4UktScWJVSjZrSnpIaDdpUzZzTF95V3I5N1hTeFdwQTRHSF9acHFNRGFoTmFtb0FRYzZPYXFwLWROdEJ6OWdjWEJBR01tMzUzMF9EYkYxVms?oc=5>
+- **特朗普** | 美国总统特朗普：将与美国参议院多数党领袖图恩讨论将《电费支付者保护法》提交表决。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5kYjhFVTY5Y2VhYzRxeWpZc09Lcms3YzBMM2UxSk1wNU1YWEpsSkJrcm9KWERFeXVOZmZzdUc5OFlrMDAxbmVaeHlyaw?oc=5>
+- **特朗普** | 特朗普宣布禁止 CNN、MSNOW 和 Politico 进入白宫采访 <https://news.google.com/rss/articles/CBMiowJBVV95cUxPanZzRUJrRUxpWTd3UEVQc2pzX184Z0pwOUZaZHlhclNfbUdQbjhZeEswb1dFbVBHRW42NTAyNG1UUWdtOTJ5aFlPTmlpT2R5elRRRDRoOG1uWnVsWjgwWnRjTTlxRTNIX2VCZDd4MU5sUnlmbklHLXZyaHkyYjd5ZzdpNzdXX2l0cWVzclRyNG84UG9QZjItMkN0czlIZXdLR0UtMGZhV1JNNkpkdDZfOEFxdUFkd2VwNzlqYTNtTU5hNmFqUFh2cm9oTWNicHR1aTM2X2FDOEhOSllOeC1SOVktcU16SjQ5YkpKVFBFTDVoeklRbFNkWWZwM3JWNmJidFBPZlJ2VlAtN25nR2M2RWJrLWhZSkRRbVR0THZtcHBnOE0?oc=5>
+- **特朗普** | 特朗普宣布限制CNN等三家媒体进入白宫，指责其传播虚假新闻| 乌克兰新闻- #Mezha <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfUTk3Tm1aa05sVE4wUlJmczlXX1pwTEoyUy1vRHpPS0ptVjQyd1AtV2FvU0JpVTk5VEkxZ0YxYUNUalRzMGdIZEc5T3pON0lzRmMyd2lQYUVNQ2Q3TlhTeHNzTnpuVmQy?oc=5>
+- **特朗普** | 美国总统特朗普：即日起禁止CNN、MSNOW（前MSNBC）和Politico进入白宫，理由是这些媒体“持续报道假新闻”。 <https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVlRnenlaZDlYWTIxbUo5aU00dXpQUEJOLUZsNkpRQXhueFFUTWdrYzh1Ul9WZnNsbXJkV05fakJNcl9jVVRMTEJlSVRqQjl5bzQzV21BY0JFWEt2Mzc4N1d6WXF2aDZ1dlUzSnl6a0dVNV9wRjhPdTl2Q0JPLUFfZXRGaHQzVmw0?oc=5>
+- **特朗普** | 特朗普称将禁止CNN、MS NOW、Politico进入白宫 <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeDdBWTRIUGtPLXJLeWRKQ0llQTRkRHg0WmVka2JfWWxySmdCa3doZTRlazk3Tm02OUJJYnpxcjllakE1QmFZb0xWSGhINXgxcUtGa01IU0tWbm5xWHNJS3doeFpGeW92cHNYcmg3WWlWMmVWajVIeDJSN3ljUUdNOWF2dFlSUVgxNUVweVhOa3c0ZUpVblBFSUI0OG5yU1lod19zMHV1QWVUbFY0eUhIV3dSTlJhVzBaLUMxcG8yLW8yNXp5WFZUUmp6ZTg3SERW?oc=5>
 
 ### 2026-09-18 18:47  (6 条)
 
