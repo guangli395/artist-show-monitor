@@ -1,114 +1,146 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-18 01:06**
-- 本轮扫到 11966 条, 新增 **13** 条
+- 最近更新: **2026-09-18 06:12**
+- 本轮扫到 11981 条, 新增 **15** 条
 
 ---
 
-## 本轮新发现 (13 条)
+## 本轮新发现 (15 条)
 
-### 蔡徐坤在纽约时装周期间预告了新歌吗？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923119_1d5ae15af06801xife.html>
-
-### 蔡徐坤登Fantastic Man封面，巡演计划持续一年
+### 蔡徐坤在纽约时装周透露了新歌什么信息
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5556631847_m14b33792705302d352.html>
+- 链接: <https://k.sina.com.cn/article_7879849300_1d5acf5540680149bw.html>
 
-### vivo官方辟谣：周杰伦不会现身X500发布会！9月21日新机亮点抢先看
+### 蔡徐坤新歌预计何时发布？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923112_1d5ae15a8068020pfg.html>
+
+### 蔡徐坤透露的新歌和下雨天有什么关系
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923373_1d5ae16ad06801fc0u.html>
+
+### 我们今天来开箱 vivo 即将发布的 X500 大地回声配色，银灰色高级感直接拉满！
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://finance.sina.com.cn/tech/roll/2026-09-17/doc-inisayai3608634.shtml>
+- 链接: <https://k.sina.com.cn/article_7811093298_m1d193d33203301biqm.html?from=digit>
 
-### 习近平访美前瞻：当白宫举行宴会时，台湾会出现在“菜单”上吗？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-09-18 00:32
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50VkxqSm43OG9WSDN1dnZDRU9QaGk1WFZFWHc4eUluendsQk9kZ1JlUllWX2hwaG41OC1yT09jMGlxc2VaUDNtbXIyNzFRNG5KVzlJLU9Sd3FLUm9tdWlNTzZ4MDdLa2vSAWxBVV95cUxPSmtOWUI0NkhPb0REVDhQSjB3clhJSkVJWGV2ODhBOG1RYkNnejRVYW42OXFub0k1MGdCU18xMEZweUhSa1VWWWNUazBWMndtVlA3X1VWX3FWODE4aFRVZDB6MW9UZk5WUkdtZ00?oc=5>
-
-### 乌外交部：正筹备泽连斯基与特朗普会晤
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-18 00:38
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE82TVlUZGRXVTVTZVhRY3k1ODVKSVhjTlllNmRMT0hHbkRPRG9zOUd5VGViQkF3cWJlN09KOUtCVVNjWTd0NVYxdXdGUXZ6TlduMThPMmZGSzlSXzYxSGZNd0JWamtIQWkzLTFESm5lWkJpOEFJOEl6Uw?oc=5>
-
-### 特朗普撤回对兰斯·施罗耶出任美移民与海关执法局局长提名
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: Sohu
-- 时间: 2026-09-17 22:33
-- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTE1nektfNm0xT01PZDB0bzFCYjNlNkVvTkR6MDlJMDdhZFB2Njgyc09UYW14TVJOaEVjOGRkY21mSGpGT0h2N3pYdGZVcWhkOFZwTXc?oc=5>
-
-### 要闻分析 - 白宫特习会 北京放长线钓大鱼？
+### 特朗普将以最高礼遇接待习近平 包括亲自接机
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: RFI
-- 时间: 2026-09-17 23:32
-- 链接: <https://news.google.com/rss/articles/CBMixgJBVV95cUxOdEpwTTJlNUVSVzFqNm5hSTR1dVZBd01TdWFPMHVPOVF3OF9DaXhZenhLcVd4dHBEZ3ZUR1N0TFZYRlF4Nll2NHY0VEJtSXRJYUFiTEdPQVkzNHNpMzVZbndlMFZrdXRCX21ZVFB0SE8yVW1XOE5qN3dTUlljWEZHcV84ZWNCRHkyRlFUYjUyU2dyYU1qTFl0cFRScFVvbW4yUVl2bDVPX01pYW12MkktaHVnX0M4dUo2UXBpQ2Y4WUFrMi1DWEJYNjRIeW9WQmRodjB6VWtkMlRBS2ZLY2d6XzJIOHVtZlk2LWtRVkFhMTdJZlZUTjh1OUJvQ1BkOThocllVU0xBVFhqZlN1cUFRUVdYLXcxZXp5RklQNktxWjZaNVNZX1A1WmJMNm5PMWMySWg4MF9MY0p6Q2lSa0o0ZmZSOTJlQQ?oc=5>
+- 时间: 2026-09-17 20:45
+- 链接: <https://news.google.com/rss/articles/CBMi0AJBVV95cUxON3UxallHeGxFeVlCbEdqdl9zSXFRNFVZOFZ2MUdlWmMtS3BEcGdNYWREbjVDalZuU1FqQUdfZjllMThEOUh0WGFYVzB6QXFyQnBybEJpSC1rSWNfaHFwbFBrc3E0Vm5mOG5rUEFaWVhDbTBfbkRrbDk1RlRGUnVVWVptMWEyRl9WM1N4b1ZPV1hwajRYYU8wX1VvQjRFMUVBNWpJOGRaVWhXSXRob2k4VFZqX0FVaVFWNFJYY0RsLXl5R2x1dExES3JnQXRvRml2N1FrSUdoUG41VzJGNWRVVlNPelBfcDBPQks0OU1rbUV0c3BhbkpnMzczU0E0YnRieTRleFBoVl9WSnJpODRzTEoyR24xREhRUG1XUWxaNnNoSDE5VTYzZnpLOUt4RE1mMDVYejF3b2k1aVY5cHQ5LW5Ja2hsRnF3am1XdXpJOTU?oc=5>
 
-### 特朗普称将就伊朗战事作出重大决定
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-09-17 23:04
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE03WTZPVkJVcl9yT2I2Y1FVYmJsVm45VkhGOFJKaW1QNVZEUUZIbUtaOTBLc0xEcDVKMzhzY2dESDZUTXZVZjhxU3JiR2xueDc2ZjVxS3AtS2tFdWxDeTNtV21TRmpwRmFtVmc?oc=5>
-
-### 特朗普：在伊朗战争中正接近重大十字路口
+### 特朗普放狠话后，卡尼：加拿大和欧洲携手会更强大
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-17 17:11
-- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTFBrRW1ZczlUZlpxeERPSF9wbXFLSHBYYTdXSlJBUUU5eUpVU20xU0F1bGlqd0FuMTMtaFFad2pxS0pEME9vd1hrZkVxM29iNXpjRTlFSnpRQUVzaUFyMnpIMzlZMjcyT201cWdybFJpV0VpOWd2Y1M0UzNR?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-09-17 11:20
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5HQ1NmbHVCWF90bjlvTGM0bFpET1JfYl9US3pkRFpoLUtiY29VWHF5TWtKU3NEY192ZVQtdlpBUmcwV0k0ei16SHFUOThlQWQ0VTVoME1JbkZfM1liUlBHZkNEVTJoRTZpRWdaOW12bFM?oc=5>
 
-### 财经早报丨特朗普称将决定是否恢复对伊朗大规模作战，伊朗将组建1000个“抵抗营”丨2026年9月18日
+### 特朗普：若加拿大成欧盟“联席成员”将停止美欧贸易
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-17 23:20
-- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTFA3UXdrbjNsRzRkTGFKMG1TM3hzSzVLY1lpRHJCSzJWcjNZeXM0Rk0wVUkxcTJFSUdWM1Q0eHAyWWwxZk95bHdxSThBcmlqZXpYcHBWdUFaUWUyRzF0VWE1R2F2NTZ6VUd4MVd6SlFFal9GdjVWWkNSWS00MDg?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-09-17 05:28
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTFAxcTlwcEVmVnlaSHJ1Y3N4NFpMRjBoV0NySVpoLVNxTExYeGRjbnd4RGZITzFnVTEzMC1TWmJFZHM0TXpzWTkxTkRLTkI5RlBWVXp0T2oweU9RMEFxT2pqb0dkWUpJbG00RDBTVVlUZEV1LVhw?oc=5>
 
-### 佛州共和党议员在移民问题上与特朗普划清界限
+### 加拿大出绝招“跳槽”欧盟，特朗普万没想到
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-09-17 15:27
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5CZkRoYUNobnAtVWRjZmRYUV9hTGx6RWRlZ0lVY3duUnZ4VzREVXdnWC1URlBGV2tkOExySUNuS0dPTWVmd2hQS0JHSS0?oc=5>
+
+### 日本首相高市早苗正在安排下周与美国总统特朗普会晤
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经_金融信息服务商
+- 时间: 2026-09-18 04:28
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5TLTRUeHlFdmk5ejZOQnRsYXZjZl84SDVlRGVkOG5hRmFCV29RYlBMdXllelFkX3MzQzJ5Yy1GX0l5SnlzSHlOSGFiMA?oc=5>
+
+### 特朗普不满美联储加息：美国利率应在1%或以下 赶紧降息！
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 东方财富
+- 时间: 2026-09-16 03:50
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kUlItZVZNRmN3VFhqX2JVVkhhLUcya3pENkxva1VUa3QzbDdObUNHSHBaVnB6R0tmTFBjcHNoeHN1RjZ2bnFBaTFFejhiMnBHZkRlU0pwdEVNdl9BZThqOQ?oc=5>
+
+### 特朗普撤回对兰斯·施罗耶提名
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Sohu
+- 时间: 2026-09-17 23:34
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxQRWV0NVgzSUdJNXJtUnhxald6MjZLUDdkQWV5LVc4ZTNLMlJPbjlCT0xwa1p5RlpmTGxFUVNMXy00YjA4X2U1ajNrZDJ3TzNldDVOSVl3OTdKWDFCai15aFc0TlF5aWZ2b290MDhmVTFTbUMyMTBnRzRDb2I2RUw0QUJSN0ZKNmxPdkdxUA?oc=5>
+
+### 我方谈特朗普可对买俄石油国加税！
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-09-18 00:43
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBOdU9oYXNTMjZLWFItSldvbVlmZnRCZTZkcXlfRkdRX05sS2tlZlh2Um95QnB1eDVKTU51U3BrTGJBd045THoyQ2RrOEFYX3JzWkJjUlFzUjlLVENwVDhEaGdCbU9jTlBwdERJRXU5NUU?oc=5>
+
+### 沃什如何做到加息却不惹怒特朗普？
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: 华尔街日报中文网
-- 时间: 2026-09-17 23:16
-- 链接: <https://news.google.com/rss/articles/CBMikwFBVV95cUxQZG1KYTZ0bUtPeGRhQ05EY2xjY3hFQWl0dkJaSkhKRzhpSEh5VGRDMlZSYXhZM0I3ZlQ4bmxuNmJZbDlEdFJIc1VFRmFvWnJRZG5sT1NDbjlmb1BRWkhZYy10aEVFOXBKV3EzWlhXcXlscWljdVh1UmliOFpVWUMwTGE3QlBXdEc2RnZORHpQMThyNHM?oc=5>
-
-### Brady Dale：特朗普发行TRUMP是CLARITY法案受挫的首要原因
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: TradingView
-- 时间: 2026-09-15 21:05
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBQZzhYMnBnaUJTcVBVdWdFc1hqeDU1QV9YR2gxOXZjb0pRSWdBdzFBMUh2MGZuMm91SXBRREpEVFl6ZGJoRmdGUGpGa3FHMjZpdEFFVk5uRGl1NFgwVEdFano4ZE1Ldw?oc=5>
+- 时间: 2026-09-18 02:00
+- 链接: <https://news.google.com/rss/articles/CBMiggJBVV95cUxNLU0zMENicG5YMVRsMkxYQlZjNkp6b0hZMy1sZGNqOUloU1NQdWRhMnRkNmEtM1U4SDdnQXRsLVZ6MThzVWdDMWxldlUzRHJjaE5tdGMxMnA0Z0JjVDNFNkJVaklXanJkRmo5dHJYVkJxOUwza1JuUmlfS2VfZ0ZjUVpFSl83QV9lNE0zcjhpNnI2bDNWQVUwa2hmRWVRZVdhUl9LblVTbHBzcFRSOGlPbHl0d29EajlFZmdaN1JRb1A3eDZLTlhJbVFKRU1DLXFjek1FUC14cmNCdVUxVGthdksxSmkxUGkwVXFsUFNtc3RIVEFEcUN3cXhkSXlZNEtVWWc?oc=5>
 
 ### Correction to Trump on Interest Rates Article on Sept. 16
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: Moomoo
-- 时间: 2026-09-17 16:16
-- 链接: <https://news.google.com/rss/articles/CBMipgFBVV95cUxQWGZRN19pamxEZWJjLURsQkVNMXNEZGliYUpxcUQ2amJvWm5mcmZPVmVWWWlFRWF3MDhtSG5NNUVQU0pMdF9kWlhwOUNsU2hxakpLNWFDall2b2k5SWt2S0RKTXpDYmhzSmcyRXhxXy1wVENhMmZjSkxOcWdnNk82eWdqNlBEbFpzT1dCT1FHS0pLUmlIcEMwQjhDb1dSOERkbnhHM2N3?oc=5>
+- 时间: 2026-09-17 19:12
+- 链接: <https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSTNueWl6TlZpRkwyclE0SHFDYXdEbEYwTHdZWlpseGlMNjJUQ2J3NHhsR0RfUlRHQml2d3lZVGRMclVEa2tPdUE4bFM3TjJVZkF4QnQ4Vk9SQVYtUUtmdGpnYnlLWkxoVjYxb1pNeGYzT0NpenRkQ3NWcUVOUTYwTGRmcXY0U1pzNURrU3Y1bFJFU2lTZmVxaVVYdDdpbU80SmFsZk9QbXpCS0REdjhUdmZ0OE9RZDZyYzRULXd6WkJrMzJVSzVXQ0lVSlFndHhkRHE4Tw?oc=5>
+
+### 美众院通过俄罗斯制裁法案，下一步送交白宫
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-09-17 23:52
+- 链接: <https://news.google.com/rss/articles/CBMiygFBVV95cUxNa013TXR5ZVlwTWxKMkl6cFlkOHB2R1NPQWd0WlRoZDZzQkFVXzh4T2xVV2tZQ0RHQ2RMYVpoMzlhUWkwVlU2UG5Dd1o2cXdBNThDNFVwU19pS3lNYU55aUFJN2ZUeXBINXBMNWdKSHFyeGxTTHBXMEc2elF1X2YxUFpUdDZOMDE3RXNzdVhieDNnVkxRWTQtNF9GVS1yVmV1dDlVNTgwMEJnMVBaSjJEMnN5X1RRdlFmTldwYVFxTzNmb0VfNlV3aGp30gHMAUFVX3lxTFB0clpZNWhuQTI5X0ZEM0RIVXB0SFZRWXg0V0NRVFZ2cW5jMF9WbVBkVHAyVEVncVZKajZqTnV1T3U3REJuSlhwUmtqSmNBd0pjU0c1c3JMaTZHMlFyVEJCaUNKN29sU0FnRDFUREtmb3BvTmg1MlMyU09uQVhFLWFDUmVpQmRicVR1T1hualF0MXBndVNqSXpRM242NTFYdk9HelhsX2UzTkVfTU9UR2V5NzBLUE42anVzYWlLQklfMWpHVENDeUtnUGt6WA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-18 06:12  (15 条)
+
+- **蔡徐坤** | 蔡徐坤在纽约时装周透露了新歌什么信息 <https://k.sina.com.cn/article_7879849300_1d5acf5540680149bw.html>
+- **蔡徐坤** | 蔡徐坤新歌预计何时发布？ <https://k.sina.com.cn/article_7879923112_1d5ae15a8068020pfg.html>
+- **蔡徐坤** | 蔡徐坤透露的新歌和下雨天有什么关系 <https://k.sina.com.cn/article_7879923373_1d5ae16ad06801fc0u.html>
+- **周杰伦** | 我们今天来开箱 vivo 即将发布的 X500 大地回声配色，银灰色高级感直接拉满！ <https://k.sina.com.cn/article_7811093298_m1d193d33203301biqm.html?from=digit>
+- **特朗普** | 特朗普将以最高礼遇接待习近平 包括亲自接机 <https://news.google.com/rss/articles/CBMi0AJBVV95cUxON3UxallHeGxFeVlCbEdqdl9zSXFRNFVZOFZ2MUdlWmMtS3BEcGdNYWREbjVDalZuU1FqQUdfZjllMThEOUh0WGFYVzB6QXFyQnBybEJpSC1rSWNfaHFwbFBrc3E0Vm5mOG5rUEFaWVhDbTBfbkRrbDk1RlRGUnVVWVptMWEyRl9WM1N4b1ZPV1hwajRYYU8wX1VvQjRFMUVBNWpJOGRaVWhXSXRob2k4VFZqX0FVaVFWNFJYY0RsLXl5R2x1dExES3JnQXRvRml2N1FrSUdoUG41VzJGNWRVVlNPelBfcDBPQks0OU1rbUV0c3BhbkpnMzczU0E0YnRieTRleFBoVl9WSnJpODRzTEoyR24xREhRUG1XUWxaNnNoSDE5VTYzZnpLOUt4RE1mMDVYejF3b2k1aVY5cHQ5LW5Ja2hsRnF3am1XdXpJOTU?oc=5>
+- **特朗普** | 特朗普放狠话后，卡尼：加拿大和欧洲携手会更强大 <https://news.google.com/rss/articles/CBMicEFVX3lxTE5HQ1NmbHVCWF90bjlvTGM0bFpET1JfYl9US3pkRFpoLUtiY29VWHF5TWtKU3NEY192ZVQtdlpBUmcwV0k0ei16SHFUOThlQWQ0VTVoME1JbkZfM1liUlBHZkNEVTJoRTZpRWdaOW12bFM?oc=5>
+- **特朗普** | 特朗普：若加拿大成欧盟“联席成员”将停止美欧贸易 <https://news.google.com/rss/articles/CBMidEFVX3lxTFAxcTlwcEVmVnlaSHJ1Y3N4NFpMRjBoV0NySVpoLVNxTExYeGRjbnd4RGZITzFnVTEzMC1TWmJFZHM0TXpzWTkxTkRLTkI5RlBWVXp0T2oweU9RMEFxT2pqb0dkWUpJbG00RDBTVVlUZEV1LVhw?oc=5>
+- **特朗普** | 加拿大出绝招“跳槽”欧盟，特朗普万没想到 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5CZkRoYUNobnAtVWRjZmRYUV9hTGx6RWRlZ0lVY3duUnZ4VzREVXdnWC1URlBGV2tkOExySUNuS0dPTWVmd2hQS0JHSS0?oc=5>
+- **特朗普** | 日本首相高市早苗正在安排下周与美国总统特朗普会晤 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5TLTRUeHlFdmk5ejZOQnRsYXZjZl84SDVlRGVkOG5hRmFCV29RYlBMdXllelFkX3MzQzJ5Yy1GX0l5SnlzSHlOSGFiMA?oc=5>
+- **特朗普** | 特朗普不满美联储加息：美国利率应在1%或以下 赶紧降息！ <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kUlItZVZNRmN3VFhqX2JVVkhhLUcya3pENkxva1VUa3QzbDdObUNHSHBaVnB6R0tmTFBjcHNoeHN1RjZ2bnFBaTFFejhiMnBHZkRlU0pwdEVNdl9BZThqOQ?oc=5>
+- **特朗普** | 特朗普撤回对兰斯·施罗耶提名 <https://news.google.com/rss/articles/CBMijAFBVV95cUxQRWV0NVgzSUdJNXJtUnhxald6MjZLUDdkQWV5LVc4ZTNLMlJPbjlCT0xwa1p5RlpmTGxFUVNMXy00YjA4X2U1ajNrZDJ3TzNldDVOSVl3OTdKWDFCai15aFc0TlF5aWZ2b290MDhmVTFTbUMyMTBnRzRDb2I2RUw0QUJSN0ZKNmxPdkdxUA?oc=5>
+- **特朗普** | 我方谈特朗普可对买俄石油国加税！ <https://news.google.com/rss/articles/CBMicEFVX3lxTFBOdU9oYXNTMjZLWFItSldvbVlmZnRCZTZkcXlfRkdRX05sS2tlZlh2Um95QnB1eDVKTU51U3BrTGJBd045THoyQ2RrOEFYX3JzWkJjUlFzUjlLVENwVDhEaGdCbU9jTlBwdERJRXU5NUU?oc=5>
+- **Trump** | 沃什如何做到加息却不惹怒特朗普？ <https://news.google.com/rss/articles/CBMiggJBVV95cUxNLU0zMENicG5YMVRsMkxYQlZjNkp6b0hZMy1sZGNqOUloU1NQdWRhMnRkNmEtM1U4SDdnQXRsLVZ6MThzVWdDMWxldlUzRHJjaE5tdGMxMnA0Z0JjVDNFNkJVaklXanJkRmo5dHJYVkJxOUwza1JuUmlfS2VfZ0ZjUVpFSl83QV9lNE0zcjhpNnI2bDNWQVUwa2hmRWVRZVdhUl9LblVTbHBzcFRSOGlPbHl0d29EajlFZmdaN1JRb1A3eDZLTlhJbVFKRU1DLXFjek1FUC14cmNCdVUxVGthdksxSmkxUGkwVXFsUFNtc3RIVEFEcUN3cXhkSXlZNEtVWWc?oc=5>
+- **Trump** | Correction to Trump on Interest Rates Article on Sept. 16 <https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSTNueWl6TlZpRkwyclE0SHFDYXdEbEYwTHdZWlpseGlMNjJUQ2J3NHhsR0RfUlRHQml2d3lZVGRMclVEa2tPdUE4bFM3TjJVZkF4QnQ4Vk9SQVYtUUtmdGpnYnlLWkxoVjYxb1pNeGYzT0NpenRkQ3NWcUVOUTYwTGRmcXY0U1pzNURrU3Y1bFJFU2lTZmVxaVVYdDdpbU80SmFsZk9QbXpCS0REdjhUdmZ0OE9RZDZyYzRULXd6WkJrMzJVSzVXQ0lVSlFndHhkRHE4Tw?oc=5>
+- **Trump** | 美众院通过俄罗斯制裁法案，下一步送交白宫 <https://news.google.com/rss/articles/CBMiygFBVV95cUxNa013TXR5ZVlwTWxKMkl6cFlkOHB2R1NPQWd0WlRoZDZzQkFVXzh4T2xVV2tZQ0RHQ2RMYVpoMzlhUWkwVlU2UG5Dd1o2cXdBNThDNFVwU19pS3lNYU55aUFJN2ZUeXBINXBMNWdKSHFyeGxTTHBXMEc2elF1X2YxUFpUdDZOMDE3RXNzdVhieDNnVkxRWTQtNF9GVS1yVmV1dDlVNTgwMEJnMVBaSjJEMnN5X1RRdlFmTldwYVFxTzNmb0VfNlV3aGp30gHMAUFVX3lxTFB0clpZNWhuQTI5X0ZEM0RIVXB0SFZRWXg0V0NRVFZ2cW5jMF9WbVBkVHAyVEVncVZKajZqTnV1T3U3REJuSlhwUmtqSmNBd0pjU0c1c3JMaTZHMlFyVEJCaUNKN29sU0FnRDFUREtmb3BvTmg1MlMyU09uQVhFLWFDUmVpQmRicVR1T1hualF0MXBndVNqSXpRM242NTFYdk9HelhsX2UzTkVfTU9UR2V5NzBLUE42anVzYWlLQklfMWpHVENDeUtnUGt6WA?oc=5>
 
 ### 2026-09-18 01:06  (13 条)
 
