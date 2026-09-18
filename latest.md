@@ -1,84 +1,73 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-18 15:37**
-- 本轮扫到 12005 条, 新增 **9** 条
+- 最近更新: **2026-09-18 18:47**
+- 本轮扫到 12011 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (9 条)
+## 本轮新发现 (6 条)
 
-### 蔡徐坤新歌《Remedy》有什么复古风格？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849300_1d5acf5540680149kg.html>
-
-### 蔡徐坤暗示新歌适合下雨天有什么玄机？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849298_1d5acf55206801agc4.html>
-
-### 港媒：习近平专机下周抵达华盛顿 特朗普亲自到停机坪迎接
+### 所有人担心AI失控，特朗普和习近平能就必要护栏达成协议吗？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-09-18 13:00
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1rVG0yNTdSVl9FVGpmNGY2enl4dHVzTEl1R1lFSkRsc2w0YldOS3FjVmFOb1JGSVFTS3E4RjMwOVp6S0JMQ3Q3enhsRDVtUkFDWUJFS0ZXX0JNMkJURHY0SkFVUmhTZlh6ckE?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-09-18 17:36
+- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxOLXJqY3d5dUJmMW4tampxdmR5LUxaeTRTdnhjOTJvYW03ODd6cktfU2xxQ3hoOHU4VWxsM1d4OFZXb1Y5aldwZEJMX3N1ejV2dXVPWW1FNGN5a1ZvNDd6UkUteE5uZUFWM2hhbFZIRUNEWXVWNG90NnFwM1FibW9UQ18weURWSHZiN2ItVTdaMG5iREFT?oc=5>
 
-### 比亚迪、小米等公司高管或随习近平访美 黄仁勋、奥特曼等美高管将出席国宴
+### 特朗普：特朗普在共和党内支持率现已达到 95%，创下纪录。罗纳德・里根以 86% 位居第二。
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-18 18:00
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBzRV9lZDFnNG1pbmhMeXhEdjJGRGZvLVJMU0pac09ZelN4SUVSWk9iX3plMDRlNUxCVG1fVWFGYUtyWXZXLXJydFlLbw?oc=5>
+
+### 市场消息：特朗普预计将于今日签署对俄制裁法案。
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-18 16:56
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBzTk9Sek1UNm1MYkJyaXlKUjBZY0Q2VUszSldGQm5MOC1odHZvV05WNFNjaVVyWHZLVGo0a1puSmpQVTMxUGsweDFLWQ?oc=5>
+
+### 油价连续回落，特朗普表态伊朗战争正站在重大十字路口上，即将做出一个重大决定
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-18 16:41
+- 链接: <https://news.google.com/rss/articles/CBMisAFBVV95cUxQcDBrVnlfVjBvN3k1eV8xZEgtWFZRQXluSFVORjlFZ29ieXFMaUJNZ0haS0I4VHl4RGRaQ1NQaTFfamNSSUFETi1FNVNJVnh4Z2Q4NDRrNXd4dHd4elNfQmppU285WlloX0k4eDhmeUd2elNKVkM2MS1ramcyeFBDWlI3MFpxc1JLTnJ0TmNkNVE0ckdDZ1VDN240QTYwT0dDRzVRd2phSWtYWUFfaW1WZw?oc=5>
+
+### 深夜，大涨！特朗普：将决定是否恢复大规模作战！伊朗最新声明：限时离境！1.1亿俄公民将参与，普京表态
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-18 17:18
+- 链接: <https://news.google.com/rss/articles/CBMisAFBVV95cUxONDRWQUxkcHc3UUpzWk1KemdUb3FZZ1NmTmRnXzJwRmowRWNhSFlzamtmbTI2N3R4aXdwUlhLZjZTTGg4ZGthR1diY0tsSjJ0N1B5M0YwTUJFbl95UUYyUHpEc3FvWUxjTzJwSlc0VmNJel9CT2EwUC1xR3hYYjRyZy1TWG9NeVUwblRyX0Qwc3FHVzg2UGpQMHNud3JEWm0tY2ZobnpoSi1fMW1SS18ybw?oc=5>
+
+### 高市早苗与特朗普拟周二在美会晤 旨协调对华政策等议题
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: RFI
-- 时间: 2026-09-18 13:19
-- 链接: <https://news.google.com/rss/articles/CBMi4wNBVV95cUxObEp0S2ZOQmdWSWloeThwNl90c0FGS0RpSndMZjF6dmZLaHBJRnRZcGpOYnV0WmJfdjNpbmNRNzJiT25CWXVVZUNYLWR0LUQwOGc3cXV5b3l6WlBLTEVGZ0RsZ3hBbEd5YzZHcHZEQjMzVXpUX2NQYTFEMm80MEJLSjJzcmhWNloxZDBBTFNmX3pQd3hILXRnUHJPYkhBQ2JMUkNvUFFiVGdjeWJWVUJfT21lSXhsTzNCUG9XU0hrbF9mVGFldzl6QXBLdWw1b2dnSTFKSnBDYkN3LVlhQTJGblZGQi02SHJKZ05TMUdPalpvV3VNcGJxeXBYS3RhcWdnZ1NHUjF0WXJnc3c5SDZlcWFlb0ZjU1lMdVpZdl9kb0NPenZ5NkFSc0RQTmF0ckVvUGd4UFlzOXJzMGlicVJLNlBob0hPQjYxaFRWU1BvZF82ZHk3RFpsM0gxdWJERGtpd2o4cVh5TVBwdjFZQWRDV3Bpb1hrR3FTOUVzS0RlakhsNEp1SWtjUWR3c1plb2dCdDg1Zl9NWWNEZzdqY19RTEhvQTRQT05vUXBTUzJrOEZZU3NmZ3N1UEFSQUdPa09lR3NaOXRoUUZ5WTZjQXVLNnFkYmRRaC1GaDBaQWxBdWVvcWM?oc=5>
-
-### 特朗普调侃总统“权力任性” 称能一纸禁令让户外巨头破产
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经_金融信息服务商
-- 时间: 2026-09-18 13:14
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE0wR1N2bmc1TWhybHM2dzZhelkwVEplYnhHYkgzQVp3d3BFTnEyUlprNEI0WjNJTFF6SEZCNjlfNjZkTzJrbG5yT3BpaFZndHNta3Q2T01WdWwwYVFsR3E2LXhhZ2dCZ3JkWjZDSG15ZTBmNU9oemhoXw?oc=5>
-
-### 特朗普说很快将决定是否出手“歼灭”伊朗政权
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-09-18 13:44
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5qY2R6SFlhai1aRk14cXRLV0xCeVE3YmVYUk16X2Z4UGFtWkVXN09Sdlh0aFNnZmFpRF9taTVOcFFaWUhMRDhPLVdjaWZnVDdZR1E4MmhYLUI4NXNLODBkTGpSMEZWbmV0M3c?oc=5>
-
-### 特朗普说靠常识赢竞选 优势在于常识
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-09-18 06:23
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9IU0R2UThQaDJkXzlaNENrdzVhQzJDUGwyUlY3blNOT3hkbENSZjBia2ZsWk1JREdyTUcwTU4zSThFTldnMUROVjB3WXAxTTNCdkhxbC13N2ZBNFpabHhPT1RjWGJ1eXlhS0FuRjY1Vjk?oc=5>
-
-### 美国专栏 - AI、台湾与贸易角力 特朗普与习近平会谈面临多重考验
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-09-18 12:02
-- 链接: <https://news.google.com/rss/articles/CBMitgNBVV95cUxQdlJpREo0OG9WaXlZYi1EM2ZyOWxFYmRhaDFwSlpsTlM4V0FUN2dTci04X011cXJ5U0RjTEt1ZVc5VGdnZ0gzcFYwTEZReUNxMkljSmZ1RjRoV1ZlVlFZR05jWGhhVFJLNF9hempKdm9IR0k1RUV4WGU3OENNaFZPS1gtNFJWYzFlNndkMzM5WE9GUGI3bF8wSFRQZlZETXlkRjVCS003aWxSUEY2djA2cW0yMU5rbkxTQ0VyS19fZ1JaRHQ2X2txRHBMZ2tOb3lxNEZrbnJielRWTHhCNkpGQ3lPWnFEYlNRMm52WmR5NTBaaURnbGxxNWk3bVZ1bmN1R3l6WUQtekZ3OWpVMWNlYkpWN0lISDhCN0FlcXV3RFZudVJNYUVibGxwYnNzTDh0U1lBZG9LYWlHRmp6enlVeElJd29aYTF4cWJkNVRPcHRJZTlweFVmOHBpZDkzTnQxV2xZa3VJMFlhaUpEM29pWjFxNnlKeGNmUTlXU0xhd0RUMFh1SWRpRXdQa1JiaExwZ1o1VzRxLUZKajRBNkNBVFBKWDU0MXFwSzBSamVBbE5oV2I5QlE?oc=5>
-
-### 对台军售成“特习会”谈判筹码？北京警告或取消峰会施压特朗普
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-09-18 11:41
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFS01JR1ppTWlxR2RTQW1Ob1Q1Y1REUUlZUURPMkxiTU5lcUotdUgydDd0a3JzbnlMdWZnT2VjWEJpODlPOG9Zc2RuZUhpWE1TQlcyYnJvRnczRVJYSGtrWjd3NWIzQ03SAWxBVV95cUxOQlRCY2NQRGJRcFlGbkVVcHlQRmU5VXNuQXFOX0w3MUt1MmtIeFQybllJUnJKeWc1V0o1Y2ZyYmlKeTN4bGlFcFhnM2gtNmJrRWRRZUxUeVZGX2l0dmFMeXFuQkJaejZxUk1XM3Q?oc=5>
+- 时间: 2026-09-18 08:37
+- 链接: <https://news.google.com/rss/articles/CBMijANBVV95cUxPMVFFSVVtdVdKZ045Vm53S1FmZU9acnV4VGpxNmVxY244MVNnQ3FiVzlpYUw2RndvOEtrMzhvdFJCUTZGaUFQWFRvRTVBa0RjclBiNmFHZ1ItSGZUUW1RVV9jWnhFeC1HeHZER1JnSGpGSTB5emRXaDVrWldJT2lVQ0NmRzF6MVBuckt1aWRhaTJ0TEVMd2pWeUp0aTlNYWFOTm0tcThEVVJFaDctQkRKRVk1ZWdjeHlRMzZRTnByTWw2b1haR0p5WVhSQmlkSTBMckFQLVNETGxTVUNWOURGQlJrMmM0bWxkRWZDREJoZFB0emJROC1oUG9FekowcW1DOUVGMkxDRVVNWkV5QmJpZE8zQ0tZbnRFNnFmMjFEMWFRc1kwUGkyeWxveWJRRjhrZXpNOTJEOXFlMk9Md1B1TTFkNzB0SDRMX09QdmlROHJ1NHlncVFZRHpjM0NtMVFXV2FNMDh0M2cxdmJNd0UyQy1SMTNIRW1pTVQ1LVplYkI5TXF5OTltcE54UFI?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-18 18:47  (6 条)
+
+- **特朗普** | 所有人担心AI失控，特朗普和习近平能就必要护栏达成协议吗？ <https://news.google.com/rss/articles/CBMilAFBVV95cUxOLXJqY3d5dUJmMW4tampxdmR5LUxaeTRTdnhjOTJvYW03ODd6cktfU2xxQ3hoOHU4VWxsM1d4OFZXb1Y5aldwZEJMX3N1ejV2dXVPWW1FNGN5a1ZvNDd6UkUteE5uZUFWM2hhbFZIRUNEWXVWNG90NnFwM1FibW9UQ18weURWSHZiN2ItVTdaMG5iREFT?oc=5>
+- **特朗普** | 特朗普：特朗普在共和党内支持率现已达到 95%，创下纪录。罗纳德・里根以 86% 位居第二。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBzRV9lZDFnNG1pbmhMeXhEdjJGRGZvLVJMU0pac09ZelN4SUVSWk9iX3plMDRlNUxCVG1fVWFGYUtyWXZXLXJydFlLbw?oc=5>
+- **特朗普** | 市场消息：特朗普预计将于今日签署对俄制裁法案。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBzTk9Sek1UNm1MYkJyaXlKUjBZY0Q2VUszSldGQm5MOC1odHZvV05WNFNjaVVyWHZLVGo0a1puSmpQVTMxUGsweDFLWQ?oc=5>
+- **特朗普** | 油价连续回落，特朗普表态伊朗战争正站在重大十字路口上，即将做出一个重大决定 <https://news.google.com/rss/articles/CBMisAFBVV95cUxQcDBrVnlfVjBvN3k1eV8xZEgtWFZRQXluSFVORjlFZ29ieXFMaUJNZ0haS0I4VHl4RGRaQ1NQaTFfamNSSUFETi1FNVNJVnh4Z2Q4NDRrNXd4dHd4elNfQmppU285WlloX0k4eDhmeUd2elNKVkM2MS1ramcyeFBDWlI3MFpxc1JLTnJ0TmNkNVE0ckdDZ1VDN240QTYwT0dDRzVRd2phSWtYWUFfaW1WZw?oc=5>
+- **特朗普** | 深夜，大涨！特朗普：将决定是否恢复大规模作战！伊朗最新声明：限时离境！1.1亿俄公民将参与，普京表态 <https://news.google.com/rss/articles/CBMisAFBVV95cUxONDRWQUxkcHc3UUpzWk1KemdUb3FZZ1NmTmRnXzJwRmowRWNhSFlzamtmbTI2N3R4aXdwUlhLZjZTTGg4ZGthR1diY0tsSjJ0N1B5M0YwTUJFbl95UUYyUHpEc3FvWUxjTzJwSlc0VmNJel9CT2EwUC1xR3hYYjRyZy1TWG9NeVUwblRyX0Qwc3FHVzg2UGpQMHNud3JEWm0tY2ZobnpoSi1fMW1SS18ybw?oc=5>
+- **特朗普** | 高市早苗与特朗普拟周二在美会晤 旨协调对华政策等议题 <https://news.google.com/rss/articles/CBMijANBVV95cUxPMVFFSVVtdVdKZ045Vm53S1FmZU9acnV4VGpxNmVxY244MVNnQ3FiVzlpYUw2RndvOEtrMzhvdFJCUTZGaUFQWFRvRTVBa0RjclBiNmFHZ1ItSGZUUW1RVV9jWnhFeC1HeHZER1JnSGpGSTB5emRXaDVrWldJT2lVQ0NmRzF6MVBuckt1aWRhaTJ0TEVMd2pWeUp0aTlNYWFOTm0tcThEVVJFaDctQkRKRVk1ZWdjeHlRMzZRTnByTWw2b1haR0p5WVhSQmlkSTBMckFQLVNETGxTVUNWOURGQlJrMmM0bWxkRWZDREJoZFB0emJROC1oUG9FekowcW1DOUVGMkxDRVVNWkV5QmJpZE8zQ0tZbnRFNnFmMjFEMWFRc1kwUGkyeWxveWJRRjhrZXpNOTJEOXFlMk9Md1B1TTFkNzB0SDRMX09QdmlROHJ1NHlncVFZRHpjM0NtMVFXV2FNMDh0M2cxdmJNd0UyQy1SMTNIRW1pTVQ1LVplYkI5TXF5OTltcE54UFI?oc=5>
 
 ### 2026-09-18 15:37  (9 条)
 
