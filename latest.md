@@ -1,105 +1,79 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-19 14:35**
-- 本轮扫到 12082 条, 新增 **19** 条
+- 最近更新: **2026-09-19 17:40**
+- 本轮扫到 12095 条, 新增 **13** 条
 
 ---
 
-## 本轮新发现 (19 条)
+## 本轮新发现 (13 条)
 
-### 王俊凯新歌《那页夏天》何时发布录音室版
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923101_1d5ae159d06801p29g.html>
-
-### 听众对新歌《那页夏天》的现场反响如何
+### 王俊凯新歌《那页夏天》何时正式上线音乐平台？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923104_1d5ae15a006801kez4.html>
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068015kgu.html>
 
-### 王俊凯新歌《那页夏天》周杰伦作曲，现场首唱引爆热搜
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923104_1d5ae15a006801keyy.html>
-
-### 新歌《那页夏天》歌词灵感来自什么？
+### 王俊凯新歌《那页夏天》周杰伦作曲，迷弟圆梦！
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068015kc6.html>
+- 链接: <https://k.sina.com.cn/article_7879923101_1d5ae159d06801p2gg.html>
 
-### 王俊凯演唱会首唱周杰伦作曲新歌，被粉丝逗笑
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5664145301_1519bff9504001im94.html>
-
-### 周杰伦王俊凯再合作！新歌《那页夏天》首唱
+### 王俊凯和周杰伦为何再次合作创作新歌？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068015kc4.html>
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801l7d2.html>
 
-### 《那页夏天》是否会发布MV？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068015kb6.html>
-
-### 王俊凯新歌《那页夏天》何时正式上线？
+### 王俊凯新歌《那页夏天》由周杰伦作曲，青春回忆杀
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923373_1d5ae16ad06801fco4.html>
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801l7d0.html>
 
-### 周杰伦作曲！王俊凯新歌《那页夏天》首唱封神
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923373_1d5ae16ad06801fco2.html>
-
-### 哇，王俊凯新歌《那页夏天》是周杰伦写的！演唱会首唱
+### 王俊凯今晚演唱会首唱了周杰伦作曲的那页夏天！
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1804034764_m6b8762cc03301j7h0.html>
+- 链接: <https://k.sina.com.cn/article_7879924002_m1d5ae192203301m7xm.html>
 
-### 王俊凯演唱会自曝新歌由周杰伦作曲，坦言唱这首歌最紧张
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5103645868_m1303374ac033099aco.html>
-
-### 王俊凯新歌那页夏天由周杰伦作曲，自嘲北京限定不会唱
+### 周杰伦又给王俊凯写歌了王俊凯新歌是周杰伦作曲
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5103645868_m1303374ac033099ack.html>
+- 链接: <https://video.sina.com.cn/p/finance/2026-09-19/detail-inisktzu7279323.d.html>
 
-### 王俊凯说这首歌是周杰伦写给他的新歌 全宇宙首唱！
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5249067681_m138de6aa1033018uv8.html>
-
-### “特朗普要对欧洲下狠手：拟撤走一半美军”
+### 特朗普谈人工智能：正在组建人工智能部队，就像组建太空部队一样，将在不久的未来宣布人工智能“主管”人选。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-09-19 13:46
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBRM3FWRUdaR3QzMUpiZzh6cDV3Q2ZaaGtLZENZbVRKU05Sb18yNlNQM1ZRdks4Uzg0UTJRYmhMWDFTb1lFRnNOLUc4c0M?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-09-19 17:17
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xcFZCeGxyV0NwZC00MDhaMkpLckVZbG5RV29BUTJ1UnBqYWVLVFk0X1l6WGlhc1h0SU0wTkc3MXNraEV1WkNMMUt2cw?oc=5>
 
-### 特朗普再禁3家美媒进入白宫|唐纳德·特朗普|华盛顿邮报|纽约时报|CNN|媒体
+### 特朗普总统宣布达成格陵兰岛安全协议，确保美国对手无法进驻
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经_金融信息服务商
-- 时间: 2026-09-19 11:37
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBhdEdvSEw0WVd0WXBJYjJheUhla0RUV09kOHVueTMyekR1NDlMTV9WS3Qyc2FnSTFoSE55a2FhLWpyY2JRRmFabDVRRHZwaTB3ZXVzXzBHSVVXOUNVeGd3UGdzZExhMUJPck9fMGpmNkE2U1ozcjJWbQ?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-09-19 16:37
+- 链接: <https://news.google.com/rss/articles/CBMi1wFBVV95cUxPc0VOVm9jM1Zxb2FOcEJoQ2VxWFRQaXVzSFlXbTFVZXBuRGZxZGNOc25yM3RkQlJfcUJyeTNTbHQ3MXA2dk1Cd3RoQ084bVA2djJzR3ppSE9iZXQ3WkNEaW9xaXdnQUZzZWlqeHFNNnpBYjhTUmVwWjFWT3JyTDBZV1V4aUdTX2JmVjJkMC1aMDc3Y2g5Y2tMUmxrTnUxdV9UcUFiUGtJTUxDMVNFa0VZWE5PakppMDRLWDJJV3o5bmVkVmtNbzFLeDMxT0RQSFJoQWVMaHI3Y9IB2gFBVV95cUxQYUg3TmdJR0hKdXY0VGRwbkJwX2dsN29LRFRqTktGQnhUWXRTSjg3VkVUNHJkZGZsNUloQWRrWGs2VGxYbjBnRU50bWNOMWFwcXk3M2NONDU5dWhkdkhGSjd3NlhGYVQ5WjNaYlc4c0xNMWtsbzZ1akZLeVA4OEpBSGxzWjZnMG1GcGlRa083SkdSeTgxbk9XYTl4ZUNRbU4yU2hkN04tZkdjV1ViTF9BNG45Rk1hbnJJeXFUU1JSdDRVSDU0c0ZXa01MVmkwTDRTTHRFU1N6UDRuUQ?oc=5>
+
+### 特朗普：人工智能规模或将占到美国国内生产总值的25%。
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-19 17:18
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFA5LUdITmQxaXFnNEJqY0wzamRnVXpyR0tuUjhpVkJvNWlibXFfMHFmVUNCbnp5dnNucDZTeWR0bkVsc0NFUE1IZkYzdw?oc=5>
+
+### 急眼了！六大协会致信特朗普：把中国车挡外边
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者网
+- 时间: 2026-09-19 09:34
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1aeWtKc3NUbTR2QWdpaDc1a2lZVklSdUF0ZGRLZmVHUzM1cW9BV3V1d1lqcHFXOHB2bEN5eDlaaDVxTHlpNUtXQ3dPeThJUkl4MUlkWUJBc0NBMGVWUkVzMHFINlAxMTVvWkNvT1J0bFNJZkk?oc=5>
 
 ### 特朗普称将禁止CNN、MS NOW、Politico进入白宫
 
@@ -107,36 +81,44 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-09-18 20:48
-- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxOc1p0MXVuN2NtRTNqbVNiRTY3Y3lEa1R2WThkc0VhbHlYOXVVU2IyM05hdkRZbkQ4b0FJa1VFYnVHRTZMbTJIU0xORjhrUUpWMmo5d2VCWERxUGt5eV8yallRRkFmZTBiM0VaZnUyQmV3RmdpaC1KbEpZT3llR0hlSzhTNGxfZ0psbmRKd0ExcWtVYWxUNlhHNGVpRGJPRV9IeGVvbTF4aHYxSWtZZXFYTmxDdEVDelFSOXJZSjZOcWVacEMtUjEtTGZSbm9WWU1EUFE?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbjVxNnI4Mk1EVEllNjZqel9oLWNsYmZuU20xOXdDdG4wSUFzbGozRk5mQmFtWmdDUEZUcmVJM2FjbVlIYllrVGx2LVIwN2dtVXJxU0YxMkVwOUV4OVR0MHp2OUxfX3dOMkJxbklQbUU2UWQ3LTBzX0xuUElNbDVIZVJQejN5X2hJRVVzVWJBMUF3eU5WNDJ3QW1HMnEzTURVWkN4SXhsb2owU0ZWNDI4cktTZXAxcXVXTU9kUTl2NXRxbVFpc2VFN3pvSGFCb1Ey?oc=5>
 
-### 特朗普称与丹麦和格陵兰岛达成涉及安全事务的协议
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-09-18 22:49
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBDX0F6RGlwLXczRjB2RW9OMktCQ1BCTG4xZ0tNNG1ib1dDY2NCckxBZnNOczBkaUFhbmhjUVRCREExdWJBUnBHRWlvOUtISVZrS1BkVHUzSDVFSmlpdXVlaDZNVHE0anN0VXNiMkZQYW5laXg2U2p0c2Z2MmRYTjQ?oc=5>
-
-### 特朗普在共和党竞选广告中“消退”：500多条仅12条提及 特朗普：就当我的名字在选票上
+### 白宫对CNN下“逐客令”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Sohu
-- 时间: 2026-09-19 07:02
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxQMWdUSU5UZjMtR1dYQ3ZqMW9IQzlyVENYTUVVSDZCUEswTnNvV2dUYzVVLWQ2M01NMkFzRDNVck5paWpsVUdqTWo1Q3NMdFZiSlltVHB2LXEzUXFtazNSOGk5UU5qT2VwSmlWVlJObXc5RDRaV0xjaVB3ZGdVZkVSckRNOG1PMGg1Y1p6OA?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-09-19 07:59
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1UdmpVT0FkUkNRVFo3Ty1iVjd0a01yMnh1U2Q4eV9DVEs0NklyQ3U4SjRXR3Q0REUzWkt4eXRrTGpocl9GMktHUkVsSlhnZ0hRd0xfQXVvVHhrMkJ1STBDbHQ4Z21lZnZwalh3RXp0ZTRTenJWMmFQZA?oc=5>
 
-### TRUMP团队地址12天前转出1125万枚代币，其中325万枚已转入OKX
+### 伊朗提出对美谈判三大前提，等待特朗普答复
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: TradingView
-- 时间: 2026-09-18 18:32
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBnRFlEUU5NUkgyRC1oSU1nVFJfZDIwSnVhODJtZGR4bDAzSWE4WUticHJyX0g2TEtna0U2dzZtWkgyZjVRNDg3eU9vd09lUExaZUdQNURYSTBDLUtBOG5zVDFvTTNCdw?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-09-19 15:52
+- 链接: <https://news.google.com/rss/articles/CBMijgFBVV95cUxOM2pXVWViNXhGNGVKdHhTR0NZRTBHYW9ucHlXVTdKTXd5NzZMb3hUXzRBUWJ3dXZwM3hqcHQ3ei1ZWXVuM195UGlqTmlyT3N1a2kxNUpNSWdLem5acG83RXQ3RGp1MXpNWnc4cWtWN2hBR0NWM0hIZFc0c3JrWHNqMkZENTJwclVjMksxX0Nn?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-19 17:40  (13 条)
+
+- **周杰伦** | 王俊凯新歌《那页夏天》何时正式上线音乐平台？ <https://k.sina.com.cn/article_7879776356_1d5abd864068015kgu.html>
+- **周杰伦** | 王俊凯新歌《那页夏天》周杰伦作曲，迷弟圆梦！ <https://k.sina.com.cn/article_7879923101_1d5ae159d06801p2gg.html>
+- **周杰伦** | 王俊凯和周杰伦为何再次合作创作新歌？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801l7d2.html>
+- **周杰伦** | 王俊凯新歌《那页夏天》由周杰伦作曲，青春回忆杀 <https://k.sina.com.cn/article_7879923021_1d5ae154d06801l7d0.html>
+- **周杰伦** | 王俊凯今晚演唱会首唱了周杰伦作曲的那页夏天！ <https://k.sina.com.cn/article_7879924002_m1d5ae192203301m7xm.html>
+- **周杰伦** | 周杰伦又给王俊凯写歌了王俊凯新歌是周杰伦作曲 <https://video.sina.com.cn/p/finance/2026-09-19/detail-inisktzu7279323.d.html>
+- **特朗普** | 特朗普谈人工智能：正在组建人工智能部队，就像组建太空部队一样，将在不久的未来宣布人工智能“主管”人选。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xcFZCeGxyV0NwZC00MDhaMkpLckVZbG5RV29BUTJ1UnBqYWVLVFk0X1l6WGlhc1h0SU0wTkc3MXNraEV1WkNMMUt2cw?oc=5>
+- **特朗普** | 特朗普总统宣布达成格陵兰岛安全协议，确保美国对手无法进驻 <https://news.google.com/rss/articles/CBMi1wFBVV95cUxPc0VOVm9jM1Zxb2FOcEJoQ2VxWFRQaXVzSFlXbTFVZXBuRGZxZGNOc25yM3RkQlJfcUJyeTNTbHQ3MXA2dk1Cd3RoQ084bVA2djJzR3ppSE9iZXQ3WkNEaW9xaXdnQUZzZWlqeHFNNnpBYjhTUmVwWjFWT3JyTDBZV1V4aUdTX2JmVjJkMC1aMDc3Y2g5Y2tMUmxrTnUxdV9UcUFiUGtJTUxDMVNFa0VZWE5PakppMDRLWDJJV3o5bmVkVmtNbzFLeDMxT0RQSFJoQWVMaHI3Y9IB2gFBVV95cUxQYUg3TmdJR0hKdXY0VGRwbkJwX2dsN29LRFRqTktGQnhUWXRTSjg3VkVUNHJkZGZsNUloQWRrWGs2VGxYbjBnRU50bWNOMWFwcXk3M2NONDU5dWhkdkhGSjd3NlhGYVQ5WjNaYlc4c0xNMWtsbzZ1akZLeVA4OEpBSGxzWjZnMG1GcGlRa083SkdSeTgxbk9XYTl4ZUNRbU4yU2hkN04tZkdjV1ViTF9BNG45Rk1hbnJJeXFUU1JSdDRVSDU0c0ZXa01MVmkwTDRTTHRFU1N6UDRuUQ?oc=5>
+- **特朗普** | 特朗普：人工智能规模或将占到美国国内生产总值的25%。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTFA5LUdITmQxaXFnNEJqY0wzamRnVXpyR0tuUjhpVkJvNWlibXFfMHFmVUNCbnp5dnNucDZTeWR0bkVsc0NFUE1IZkYzdw?oc=5>
+- **特朗普** | 急眼了！六大协会致信特朗普：把中国车挡外边 <https://news.google.com/rss/articles/CBMic0FVX3lxTE1aeWtKc3NUbTR2QWdpaDc1a2lZVklSdUF0ZGRLZmVHUzM1cW9BV3V1d1lqcHFXOHB2bEN5eDlaaDVxTHlpNUtXQ3dPeThJUkl4MUlkWUJBc0NBMGVWUkVzMHFINlAxMTVvWkNvT1J0bFNJZkk?oc=5>
+- **特朗普** | 特朗普称将禁止CNN、MS NOW、Politico进入白宫 <https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbjVxNnI4Mk1EVEllNjZqel9oLWNsYmZuU20xOXdDdG4wSUFzbGozRk5mQmFtWmdDUEZUcmVJM2FjbVlIYllrVGx2LVIwN2dtVXJxU0YxMkVwOUV4OVR0MHp2OUxfX3dOMkJxbklQbUU2UWQ3LTBzX0xuUElNbDVIZVJQejN5X2hJRVVzVWJBMUF3eU5WNDJ3QW1HMnEzTURVWkN4SXhsb2owU0ZWNDI4cktTZXAxcXVXTU9kUTl2NXRxbVFpc2VFN3pvSGFCb1Ey?oc=5>
+- **特朗普** | 白宫对CNN下“逐客令” <https://news.google.com/rss/articles/CBMieEFVX3lxTE1UdmpVT0FkUkNRVFo3Ty1iVjd0a01yMnh1U2Q4eV9DVEs0NklyQ3U4SjRXR3Q0REUzWkt4eXRrTGpocl9GMktHUkVsSlhnZ0hRd0xfQXVvVHhrMkJ1STBDbHQ4Z21lZnZwalh3RXp0ZTRTenJWMmFQZA?oc=5>
+- **特朗普** | 伊朗提出对美谈判三大前提，等待特朗普答复 <https://news.google.com/rss/articles/CBMijgFBVV95cUxOM2pXVWViNXhGNGVKdHhTR0NZRTBHYW9ucHlXVTdKTXd5NzZMb3hUXzRBUWJ3dXZwM3hqcHQ3ei1ZWXVuM195UGlqTmlyT3N1a2kxNUpNSWdLem5acG83RXQ3RGp1MXpNWnc4cWtWN2hBR0NWM0hIZFc0c3JrWHNqMkZENTJwclVjMksxX0Nn?oc=5>
 
 ### 2026-09-19 14:35  (19 条)
 
