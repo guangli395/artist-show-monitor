@@ -1,110 +1,98 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-18 23:25**
-- 本轮扫到 12029 条, 新增 **12** 条
+- 最近更新: **2026-09-19 01:22**
+- 本轮扫到 12038 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (12 条)
+## 本轮新发现 (9 条)
 
-### 蔡徐坤新歌《Remedy》与大片有何关联
+### 七年光阴流转，NINE PERCENT成员们各自奔赴山海：有人舞台光芒万丈开启巡演…
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923377_1d5ae16b106801c9og.html>
+- 链接: <https://k.sina.com.cn/article_6041830291_m1681f039305301eise.html>
 
-### 特朗普-习近平华盛顿峰会五大看点
+### 特朗普和习近平会晤 台湾和对台军售或再成焦点
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: voachinese.com
-- 时间: 2026-09-18 21:08
-- 链接: <https://news.google.com/rss/articles/CBMirAFBVV95cUxQVFdOZUU3bTNBY1VYNzhFWXh2YkpIazdFdUFVYTlES2ZLSnBiejJ4Y2ZwN0ZFQ05OVTlXd09kblJDRlJERDJkb21EM0w1WkkwLU0yOGkxc0RiT3g5aTdTSjBkSVFFYU9MXzg5UDZvU3NkVDdCSFFKLWZRUlY0U2tMZVZvdUl0aHlOcm5xM0pwajNjTm14b0FHT05wQUpaNGc5NHRhcExRc0ZHOEl50gGvAUFVX3lxTE50bnFhRmZCeVlqZmhIUEhtN1oycjNDTkg4a0JfR0pwM0tQbkpEQ1o1M292Wl8yaVdTVUpFaE1sVWhYR0RfNEZDenBJeW5WOXQ1dGg5OXJjVURkT2gxdWpEaU1CSmh5YlBIT21BSUlGa0hPZzg5alBTaUViUW5TUjE0czdscUJaMFFYR0tjYjZDUUFJSkVJUGlRU1BwTDg4TUVHdDZBYjlZdUhJbGZ2cGM?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-09-19 00:23
+- 链接: <https://news.google.com/rss/articles/CBMixAFBVV95cUxPVExWLUVNUnlPR1M2RUN1UTA3RnktbFR3M0FwbkxkV3A0clpSQ2ZyVXo3dGJuZGpIb1QxeDR4NWdjMnZ6QzFxVGt0Q29jbmlNYTVpblMtOTY5MU0tZXRON3lwQXhONFdfc1ozTXgyeGNiNmxLZWRZbmZnb1BLalRkbXNfUWlvdE5UOE1xbkY4UGU3aDd1dDZCUmRFc3NLTm02ODZSUnRmdllWZEU2M3AtcmctMkIyd2l6T3ZhOVI2WFV2UjJl0gHHAUFVX3lxTE94akxreE9kUzlQcnNxUU5KWXZDTVVQU1lKb05OUWhRTktWVzFUTkN4YXMwVFhpclE2cEwzb1NVLWVXVUtDZlg1TENoaGpVcXh1dzAyMk5IQkhRY1Nkd0l6emdwQzkwemN3RFd2dkEwZHgteElibnFESzFfS2d2aFpJSE4zSlBqeUlBRUpJWXdaT1doUTg5WG1DeEZFNXNDOGp6MjhiUUJDM09BaTNmUTFGUnhjVzJiSDhqa2RoN1FtSmlLV2tqQ3c?oc=5>
 
-### 特朗普宣布格陵兰安全协议，称获得“永久控制权”
+### 特朗普：美国将获得对格陵兰岛安全“永久控制权”，无需为此支付费用，将建立大规模军事存在，丹麦：预计下周签署协议
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-09-19 01:16
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5UYTZnUjJBRU9HSkdlWVlQcWV3UHhGRFhpTlBCZ0RyTHUtM0NIWGdqajk5ajhJelVWSnhQd28wTS1QbkNIcmJ6dmhrZ2hKR3F4TjJVd1pqTmpxa3lLbzdheHYwRHU1MFp1MlVBMUQzNi0?oc=5>
+
+### 昨夜今晨重大事件汇总
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经_金融信息服务商
+- 时间: 2026-09-19 00:38
+- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxPMF81SGVJMmJCU0loQ2htU1E3RDlKaDVSRlRwOUYwbjdBc1RDLUZ5emt5QmVRbS1sQ0dVWUhHQVZRRUdHRXVzbDlLOV9Oc2RLbUtPZVY3bXV5OUF4UTFXQk9Gc2lnWldRZi1tUDBLdXJrTllwMDlOanZxVkRFeldJY1JlZHFPQWMwR2dpaGpuNUFnYWhybU5ieFBrZXRodVpI?oc=5>
+
+### 特朗普再称对伊朗战争将很快结束
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经_金融信息服务商
 - 时间: 2026-09-18 23:12
-- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxNQUwybzlBSzNFZnNfc0RtT0VDMzdYVmtuUFVXT1pINW5xdFdKQlNueU9iRHQxZExRWkUtWU41bGNxdzNiLVdPRkVWT1IzSElxZmNuN2EtdTVvbW1Pd2wteXhRUlBRRF9VaDF3Zm9OaThHQ2VBM2NRNnB0VVZxUmJIWThCWXlRMTlDa0E?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5sWnNtcE16TkxNbEQtaWZaWTlwRU1NdUdsV0hjZ2IzV1B3UmFCVU1FMHlsSTk5aXdWelVvSjA1OGluMFJnMmt0eXN2TkVObExySlJBVHBqcHprQUJGMjgwRmhJbVEzUkU3ZFRGWkw1MXhmVG1DSWlwSQ?oc=5>
 
-### 特朗普：已与丹麦达成协议，获得格陵兰岛永久安全控制权
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: news.ifeng.com
-- 时间: 2026-09-18 21:59
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1KZk90S2xMUFNrYkRfYjdyZ2tfbG05SGcyMGJ1em51aWJoMjV0SlpxRzd2LUFpdGhvaVBHcnF1Ty1iQktTZEd2OWtrZmk?oc=5>
-
-### 特朗普称美国丹麦达成协议 美将获格陵兰岛永久安全主导权
+### 美以伊最新局势：特朗普再称对伊战争将很快结束，美官员称至少22或23名美军死于对伊战争；数十万伊朗人扛枪在德黑兰列队行进，伊总统现身
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-09-18 23:04
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE8yQWhGS2thNHdTSjZ5QjB0MGEwRnUwN3Z3dUhQTkhNVnI5Q01lbHRqNmE2SEhuUFRBb2pqcmc2UWgwaTRWUm9MTFVBN0lkT05UQlpPT1ZaRHFMUENKYzQ1ZENteVVIUkwxaVE?oc=5>
+- 场馆: thepaper.cn
+- 时间: 2026-09-19 00:39
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMai1Cb2w1a293a3NrUGRRTFdQUUhMZGdZa25qOC1ZeWdvTDE0Wmxra25COFNYM0RUR2Fua0Y1LThaRnpaN1hIUVFuck4yaEIwZ2l1OU1pNzJxLTVSZFE?oc=5>
 
-### 特朗普称将禁止CNN、MS NOW、Politico进入白宫
+### “要不要直接打过去把他们消灭掉” 特朗普面临对伊战事重大抉择：下周联大会或晤海湾六国磋商对伊战事下一步
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-18 20:48
-- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE4xcHE5UDZCaFlLQVV2RHV3ZFdxQnNJMk5tb0tqdjl0RDZVNXhFNFlmS0ZqcWU3TkpMRHRlLUhmdkpDaFdadFZsT1QtUl96OEFUZ2thMWlDRGhpSlFRWFAxdTlFNnQ0OUJ0eXg5SFdCLVJkX2lTTUNRTUt3?oc=5>
+- 场馆: 新浪财经_金融信息服务商
+- 时间: 2026-09-17 22:46
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBXdDJUQkNEelpmVjZidHQxUHVxZWZXV3oxSEVsMTdBdm1NSnlZOTM4dUhtUnhvaDYxcEVEdGNXakNMQTBmTW1kRDdUOWh5UHhpMXFXU1VlRHRiTW5Ka0d4dGxaNkxLMXRuTG4zWUI0Z05wYmtwNDM4UQ?oc=5>
 
 ### 特朗普再禁3家美媒进入白宫
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: news.ifeng.com
-- 时间: 2026-09-18 21:37
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBTNFJES1pTWjd0ZDh4RVFyNDNEbGVvSm9xRkJ5SWF0NjROWjZkTVFqVUtMbDllakxXM3JMSG80VEZleTdWelRrQ0xmTE8?oc=5>
+- 场馆: Sohu
+- 时间: 2026-09-19 00:59
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxOVHhicmEzbjRkTjlzVzRXVmZXNVd1aV9GRDRnUUpNTk5kSHNhcXg0TmdaS2xYMzNDWVAzWUxRRzdveTdJWVdNVGhYZUpENWJHMWIzQjlNczdpR1dCM3dwVERKWGZPOHRLdGEwYUJlV1F3QTZrcDlGc3RHLUlvTkNCZXlrdTdCSWR1TGJEYg?oc=5>
 
-### 特朗普再称对伊朗战争将很快结束
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: news.ifeng.com
-- 时间: 2026-09-18 22:27
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE53a0haT3FxTW8zOUpZXy1fYk1MbDRoMzV0QVlxNkZ5aHQ4aTFCT0J2eEpiWm9aTHZRT1N4MWtPMlVBZy00RlNVY0NieXk?oc=5>
-
-### 特朗普再称对伊朗战争将很快结束
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-18 20:10
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFAxdUEzb2tub0VqOXlXclptd1BpTFB1cmlaQURLUTc5cUVnVDY3MVM5VGx4WTdZUGRnU090a2VXaHZLamtDRFRQRGRTV1RvN0sxeWpzWWpfeUNFa0NnSXNJNWRGQjZsSjVWNl93UEFXUjEzMXdQWEdxQQ?oc=5>
-
-### 特朗普：美伊战争迎来关键节点 我面临一个重大决定
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-09-17 04:07
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE4tSkVPU0FaZXJuX3hBWWZXY3ZXcy0wSUhjRkdyOWxYeHlLQnY1UHlUWWk1cVVSVzZEVG9jaGttZ3BkVHdWWTN5SVp3alRyNEZRaUJxejEtX0JsVElQSEJuOQ?oc=5>
-
-### 特朗普禁止CNN等媒体进入白宫 引发新闻自由争议
+### 特朗普-习近平华盛顿峰会五大看点
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: SBS
-- 时间: 2026-09-18 22:41
-- 链接: <https://news.google.com/rss/articles/CBMisgFBVV95cUxOOGEwRnZDYUNZdDBIQjVFN3pUQjJVRDVCbXNPWFUtYmUwLXpBM2QtTVVxaThPSmhQRTFtQTZVOGtpLW1XOUVCLWFpRVFIb04zQVVLY3g0T2stVFpvaGUzQ2w4b2cydzdGclVOcUItbUdINEkwa2U1d01uNnp2WFNJOFBnbFdTWVdPZkFPZTJ6U0tEcmdVbzEtRkc0SEY1SGRURE9hcW82LVZ1NDRFaFItYlBR?oc=5>
-
-### 美籍缅甸裔学者涉间谍罪在华监禁 其妻吁特朗普晤习近平时重提此案
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-09-18 06:02
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kRFVxX1Zvd0JKQmU5eUdiQmh0bEVnRFJENVJzY3drV1F4QzduTGxGal8tNER5cnZCOFdNMGZzZ3o0SlpULXpnVk1XY3AxcXZVUUJfNDB3bGpLY2V0UmZxX1RVcjl4RXM?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-09-18 21:08
+- 链接: <https://news.google.com/rss/articles/CBMirAFBVV95cUxQVFdOZUU3bTNBY1VYNzhFWXh2YkpIazdFdUFVYTlES2ZLSnBiejJ4Y2ZwN0ZFQ05OVTlXd09kblJDRlJERDJkb21EM0w1WkkwLU0yOGkxc0RiT3g5aTdTSjBkSVFFYU9MXzg5UDZvU3NkVDdCSFFKLWZRUlY0U2tMZVZvdUl0aHlOcm5xM0pwajNjTm14b0FHT05wQUpaNGc5NHRhcExRc0ZHOEl5?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-19 01:22  (9 条)
+
+- **蔡徐坤** | 七年光阴流转，NINE PERCENT成员们各自奔赴山海：有人舞台光芒万丈开启巡演… <https://k.sina.com.cn/article_6041830291_m1681f039305301eise.html>
+- **特朗普** | 特朗普和习近平会晤 台湾和对台军售或再成焦点 <https://news.google.com/rss/articles/CBMixAFBVV95cUxPVExWLUVNUnlPR1M2RUN1UTA3RnktbFR3M0FwbkxkV3A0clpSQ2ZyVXo3dGJuZGpIb1QxeDR4NWdjMnZ6QzFxVGt0Q29jbmlNYTVpblMtOTY5MU0tZXRON3lwQXhONFdfc1ozTXgyeGNiNmxLZWRZbmZnb1BLalRkbXNfUWlvdE5UOE1xbkY4UGU3aDd1dDZCUmRFc3NLTm02ODZSUnRmdllWZEU2M3AtcmctMkIyd2l6T3ZhOVI2WFV2UjJl0gHHAUFVX3lxTE94akxreE9kUzlQcnNxUU5KWXZDTVVQU1lKb05OUWhRTktWVzFUTkN4YXMwVFhpclE2cEwzb1NVLWVXVUtDZlg1TENoaGpVcXh1dzAyMk5IQkhRY1Nkd0l6emdwQzkwemN3RFd2dkEwZHgteElibnFESzFfS2d2aFpJSE4zSlBqeUlBRUpJWXdaT1doUTg5WG1DeEZFNXNDOGp6MjhiUUJDM09BaTNmUTFGUnhjVzJiSDhqa2RoN1FtSmlLV2tqQ3c?oc=5>
+- **特朗普** | 特朗普：美国将获得对格陵兰岛安全“永久控制权”，无需为此支付费用，将建立大规模军事存在，丹麦：预计下周签署协议 <https://news.google.com/rss/articles/CBMicEFVX3lxTE5UYTZnUjJBRU9HSkdlWVlQcWV3UHhGRFhpTlBCZ0RyTHUtM0NIWGdqajk5ajhJelVWSnhQd28wTS1QbkNIcmJ6dmhrZ2hKR3F4TjJVd1pqTmpxa3lLbzdheHYwRHU1MFp1MlVBMUQzNi0?oc=5>
+- **特朗普** | 昨夜今晨重大事件汇总 <https://news.google.com/rss/articles/CBMioAFBVV95cUxPMF81SGVJMmJCU0loQ2htU1E3RDlKaDVSRlRwOUYwbjdBc1RDLUZ5emt5QmVRbS1sQ0dVWUhHQVZRRUdHRXVzbDlLOV9Oc2RLbUtPZVY3bXV5OUF4UTFXQk9Gc2lnWldRZi1tUDBLdXJrTllwMDlOanZxVkRFeldJY1JlZHFPQWMwR2dpaGpuNUFnYWhybU5ieFBrZXRodVpI?oc=5>
+- **特朗普** | 特朗普再称对伊朗战争将很快结束 <https://news.google.com/rss/articles/CBMieEFVX3lxTE5sWnNtcE16TkxNbEQtaWZaWTlwRU1NdUdsV0hjZ2IzV1B3UmFCVU1FMHlsSTk5aXdWelVvSjA1OGluMFJnMmt0eXN2TkVObExySlJBVHBqcHprQUJGMjgwRmhJbVEzUkU3ZFRGWkw1MXhmVG1DSWlwSQ?oc=5>
+- **特朗普** | 美以伊最新局势：特朗普再称对伊战争将很快结束，美官员称至少22或23名美军死于对伊战争；数十万伊朗人扛枪在德黑兰列队行进，伊总统现身 <https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMai1Cb2w1a293a3NrUGRRTFdQUUhMZGdZa25qOC1ZeWdvTDE0Wmxra25COFNYM0RUR2Fua0Y1LThaRnpaN1hIUVFuck4yaEIwZ2l1OU1pNzJxLTVSZFE?oc=5>
+- **特朗普** | “要不要直接打过去把他们消灭掉” 特朗普面临对伊战事重大抉择：下周联大会或晤海湾六国磋商对伊战事下一步 <https://news.google.com/rss/articles/CBMieEFVX3lxTFBXdDJUQkNEelpmVjZidHQxUHVxZWZXV3oxSEVsMTdBdm1NSnlZOTM4dUhtUnhvaDYxcEVEdGNXakNMQTBmTW1kRDdUOWh5UHhpMXFXU1VlRHRiTW5Ka0d4dGxaNkxLMXRuTG4zWUI0Z05wYmtwNDM4UQ?oc=5>
+- **特朗普** | 特朗普再禁3家美媒进入白宫 <https://news.google.com/rss/articles/CBMijAFBVV95cUxOVHhicmEzbjRkTjlzVzRXVmZXNVd1aV9GRDRnUUpNTk5kSHNhcXg0TmdaS2xYMzNDWVAzWUxRRzdveTdJWVdNVGhYZUpENWJHMWIzQjlNczdpR1dCM3dwVERKWGZPOHRLdGEwYUJlV1F3QTZrcDlGc3RHLUlvTkNCZXlrdTdCSWR1TGJEYg?oc=5>
+- **Trump** | 特朗普-习近平华盛顿峰会五大看点 <https://news.google.com/rss/articles/CBMirAFBVV95cUxQVFdOZUU3bTNBY1VYNzhFWXh2YkpIazdFdUFVYTlES2ZLSnBiejJ4Y2ZwN0ZFQ05OVTlXd09kblJDRlJERDJkb21EM0w1WkkwLU0yOGkxc0RiT3g5aTdTSjBkSVFFYU9MXzg5UDZvU3NkVDdCSFFKLWZRUlY0U2tMZVZvdUl0aHlOcm5xM0pwajNjTm14b0FHT05wQUpaNGc5NHRhcExRc0ZHOEl5?oc=5>
 
 ### 2026-09-18 23:25  (12 条)
 
