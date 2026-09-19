@@ -1,110 +1,130 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-19 06:11**
-- 本轮扫到 12050 条, 新增 **12** 条
+- 最近更新: **2026-09-19 11:17**
+- 本轮扫到 12063 条, 新增 **13** 条
 
 ---
 
-## 本轮新发现 (12 条)
+## 本轮新发现 (13 条)
 
-### 【福利】江苏银行邀您去看周杰伦、郭富城演唱会
+### 王一博登嘉人十月刊封面，预告短片发布
 
-- 艺人/关键词: **周杰伦**
+- 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://finance.sina.com.cn/money/bank/bank_hydt/2026-09-19/doc-inisinhf3157058.shtml>
+- 链接: <https://k.sina.com.cn/article_1922782952_m729b56e803301bcr6.html>
 
-### 特朗普政府高层官员近来有关特习会和美中关系的评论节选
+### 蔡徐坤Colder MV获柏林音乐录影带大奖最佳叙事季军
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-09-19 02:06
-- 链接: <https://news.google.com/rss/articles/CBMirgFBVV95cUxPYlVrdzFib29zTm50UHVwYklwdk9YX19pQnhEX3BxQ0FmbHhpNlQyYUtqSk12S1FZTDkwSFUtbXRkQVBUbVdiaDlteTUxbEYxQ0VlWS1GSHFyUjNCdVduRWpkVmxDdVBObll6MTVlcWxfT2R1SDlkd3pNWDZDeGxWZTU1MXFHOElUQUlhajhMWjdTSmIxZk42a0VCeTB4Sks5aXFZcTRSSmV0S1ZfRnfSAbABQVVfeXFMTVpVRUtxcVIxN1dSdG1wVFpsWXJHdzJxb3p0WmRPSkNKUmg4VDNIb0ladWhrOGhiSXpINkEyLVBNYWt2MFdKSDF3TjJocHhiT0R2dmlxSDVHWU51RlZKVFJNcV9DRlltVUtnTzJ2UkZ1bFM4VEpXVElkbUt0VzFqdmRSSHZMaEZ3aXREM3Q5UjdWdDE5NmZFWGo4dnlNRXlvY3FGYVdqX1pPcFEzZXpLTXg?oc=5>
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_2323589097_m8a7f27e903302d4vc.html>
 
-### 外媒记者拿中国挑事，特朗普回应亮了
+### 蔡徐坤在采访中预告了什么新歌信息？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-09-19 01:26
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1xcFpaNVFrRG1UWE1acFBMOWJoMHdFTU5yQVBaQ2JDLTEwQ2RPcWtnTWJHS2lDcERGOHdJTmFGaEpnMkJLR0psQURpall6d1RSUjhmUC1WZW1lUjh5cno3aVdOcWtOWVNoLWtsR2pTZEdCcms?oc=5>
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923116_1d5ae15ac06801l002.html>
 
-### 特朗普：将和中方达成许多协议
+### 白宫公布习近平下周访美行程 特朗普：成千上万的人都想参加这场国宴
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-09-18 23:25
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5hcjVEMzZTOTF0TUNjYllMcWZkQjRqUVF6TzUzUDdjLUJPQ1VJUWVXR0tLVjZORnNLcnpDU1pRWjAyTFZmZElxUGlFa1Q?oc=5>
+- 场馆: rfi.fr
+- 时间: 2026-09-19 09:45
+- 链接: <https://news.google.com/rss/articles/CBMiygNBVV95cUxPVGJJTWxpZ2hhNEFPM1pqeUJBMHNmSFVlb0ZtenZacGlhakd1RG1mTlJERmVERjJEdUtEQldJTWQ1R2Z5ZFg1eG9jQnhLOVUySlg1SGlKTVl4Wkh6TjZDaTlYOWtCZmxXNmFNeGx4WFVMX2tyM2pCZmt0aFBZYnJ0UTVuNWJoRmNYNEgzNGtMLUhITDhBaS02OU9OMHdQNTZVUXpORGFROEtaR1ZUbk1MVXBpeDVaTmdadzAxUVJjbVRDUTl1aXdkM0t3QmUwUHF3VUVVMGNfWGEtZFpqODNOQkNuTTFOUVVBSXM1RkZsbW8xNURpN3hUcS1HQmpYZk1CWGIwVkhLOWFJNGVjaERyeFZHc3B4WEl1R1R5NWNIODZuX2Z4dGJ3bDFRZWZOYUFRaG1mNXhqQWFnVjYzLXlUYnhuLUxsc0dQdHFwTGZxd2YyOW1Pajh2NWtFaDdNSTBmaTVYRXIyOVc1akh4eEtfNG5mZXhUei03OGU3eGppNXN5NlNXRDBVMUwyWlprN2NtYU9qQVBzNXVPSnNtX2tOVXlDR3k0TUFXOWJ0dmVDd1lRamdhWkhGNVp4dEw2b1RvSnBLbi1FMnJnQQ?oc=5>
 
-### 打不过伊朗直接赢？特朗普扛不住了，加速准备跑路，扔下沙特挨揍
+### 习近平访美：特朗普将赴机场迎接，待遇比肩教宗和赫鲁晓夫：回顾两国外交礼宾细节
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-09-18 22:30
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBvbEhLQU40dkxwWmRfT1FHMngyd2dCbDl2WlczdmFiRDJoME5lYktnUnZ2TGRtb1BvX0FyLTlvamE1X3VQRVMtTDR2bw?oc=5>
+- 场馆: BBC
+- 时间: 2026-09-19 10:47
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16Mk04U0dCZHdZYUlCTF9hUVpiaTdNTG9tekc3Zml0bFo3dFk1UWNyRXBfVGo0QktKay1YSWVqcGZ2TlJ5MGNsa1RXLUk2UE0zbnUwMGJNc2JiN0ppU3FJTV9fVXlVX2fSAWxBVV95cUxPRzZBbmZ3NEVwTTlsNm43WmdyNDNpV0NmbjF6dm1ORDdRUEtZS2FHNTRJN1d5aDl0dVRzMnZjTkJJZnQ5TWlqdjl6aDJEVVU5VVZLb2h4czlWUXg2Vi00UjcxdUc5d3FsWEVGOEY?oc=5>
+
+### 美据报正考虑推迟对台重大军售 直至11月深圳APEC峰会之后
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: rfi.fr
+- 时间: 2026-09-19 10:22
+- 链接: <https://news.google.com/rss/articles/CBMi_AJBVV95cUxOeEhyRnJIWWdiOS1Ncl94S2cwbXZKaUJaLU1ya1hWeEZrYnFubEdvanNzXzBVSFo1STB2WDZEaVdRc2lEN3hnOEtiS0VybHRMSHFrSTllN2pCNTc0SnVGby0wU1kzX3VaZ0phbnBSSHBUeXpMVXFVMkNpN3NHa2p5bkFpSF84QTB4c2NPMXRIS3UzLXVBNENETW1UVlotcGVxYzJOdDFFbjVGeEoxMzRRSF9ObjBSUG9CMDZBV3Q0SU9qSnJldjdObXBjeXVzQWliNDkxeERkN1ExNnFZODhhaXlPUDJqRWpORklwdGtjSGhjWUFGbW5EWXlITFo0a1pFNnZoQmxadFZrcTUtYVlXUlhiWWdFdFN6Q2ZIOTRYU2pQRnVJUV9WR3JPTktwazd1SVR6bmFFd0NVM1JjQXBRZHBwdDJza2JJb2czMmtjUkhwRmE0QmZvcFBnYUE0eGVsTjk1cTIzNVV4T0hGMHNOWHJMb1RURVRGT0FKeQ?oc=5>
 
 ### 美总统特朗普签署针对俄罗斯和伊朗的制裁法案
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: news.china.com.cn
-- 时间: 2026-09-18 22:30
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE1zVTBsQWxuUEtJVDB0bDVHSl9zbkhmUTZRejlLX3dyRDEyWmZLSkJacERjdjhFeFVCMHV3ZzJsN0hSWTJITjFMZlJ0LXkxMThtQW9ab3owdWowSDE3aUx6TTh4TFpnYVJ0bVc4?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-09-18 21:47
+- 链接: <https://news.google.com/rss/articles/CBMiygFBVV95cUxNWkdvdTMwMXBKNlA4djFyZ051RGw4NWtlaWRPeTNLcjVZeTl5TkpxMkQzT3BuZlNzazRic0lmZERXbXFGbVF4S0d4MV9lRkN0XzFCVmtzQlRldkFfSWRONGJVTnZURWZJclZUclc1YUMxc2JBZTBWTFV4X0dnTmwyYk1BczlSVVd2S2ljNGxBY2dpcmc4Vk9mVV9fQ05XNWctMkc5V0hHZ19wNFZxOXVucmZUN2xvLWRZTC1JSGNjN21EbVFuSU9CcU1R?oc=5>
 
-### 特朗普没能阻拦美联储加息，机构：沃什是FOMC最鹰派委员之一
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-17 12:41
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZXI2eEJyeFRzRHJVRUJaSVRXc2loc28zQmNtaDdIWVJRLWl6VTlwSjJZNDU5Y0ZUb0ZCZDNiMkN6dmxKSlJ5NmE3cGZRM2ZITU9yejN1c25KM2d3QzBPZkF1ZTdBYktZSzdNRlRuelZmUHBoXzhmbXoxeThlR1dGbldwRERscEdzb1laVlBidVlTemFFOFJ2V1ROdGcxZDJpZ0hvdHpYWnZpbmcxM1VHRFJIY2xOVkpKcVZrclRYSm9fTjBzcEYzMjNfUE96TUdl?oc=5>
-
-### 特朗普‘禁入白宫“媒体名单或扩容，先禁3家又点名2家，记者追问是否在“恐吓”?特朗普答：这些媒体很糟，跟你一样。
+### 美国升级对俄制裁：可对中印等俄能源进口国征收最高100%关税
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Sohu
-- 时间: 2026-09-19 02:44
-- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxNM3NZNEV2SVFyTW5ZcGdiNFFEb2NYb1QtXzY4WFZaY3B2WTQyMWNreFJQWE44M2N0MmlsT0pNeFRjaGtkZHprRkFhSEl0Nlo3SlhTVVVNX0lObFVZWmFUV016NlpiTDhKTS1oNzk3QkE3d0lwMzNRcXBMWExoeUdvRElWMWJBeVZJSmU1bjR5VQ?oc=5>
+- 场馆: rfi.fr
+- 时间: 2026-09-19 08:39
+- 链接: <https://news.google.com/rss/articles/CBMikgNBVV95cUxOVkYwUDRBWFFNSVlBNmhtMkJJVnFldHBOSkdSN0xfeDFyYkJ4RC13TmZQVFFOWU1RM2tHY2l1MFBfZUJ2MjJGTXRlSUlUZFdxOFE5Z1hZOGJzVjB6M1MtWldRQWFJV0FBTkp4LWlyYUw3TnpZdHdXSVh2djRETWp5R2F4dndyc3FYbldqUjNFRXRneHZZMlRaU0ZpNEgyZDBHeTRsTzZJdVNiMzNzd1NXTWVnQTlXU2E3LTBaSmNyUXdHUUdIOG9QNUx3ZEV4OFNoajcwTXhKRXJkLVMzQTI4R3BtdWpudGJPb2M3REFwNFFwQ3Jwbk84QmdKWG1vSkg4VlFGR012SkJwYjhNd1RXeGw3N2l2SGtCaXprT1lfX2FpSS1WYnU1VEZvNHlub0EwR2Z3QXdodGUxbld5SmlGUmEwRldNZG1aV3VKUnVybnVVWWhPMGxNTGI3ZE5pLVNveVgtTFhKblJkM1ppQjQ3V2luOHl2MXFhNll5Z1pQQnMzNkJGWUFOOGlKTEJGUU9OYmc?oc=5>
 
-### TRUMP团队最近转出了1,125万个代币，其中部分存入了中心化交易所（CEX）。
+### 特朗普：已与丹麦达成协议 美国获得对格陵兰岛的永久安全控制权
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: cls.cn
+- 时间: 2026-09-18 22:16
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE1DRUhkUjJiUTRnNnZrNU5VZ09yNXN1RE9kZ0VrblJ3d21RbklxZXVhQ1NvYW1STWNWdXpoUUdSa1hRcmlQaUMzRg?oc=5>
+
+### 特朗普再称对伊朗战争将很快结束
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中国网新闻中心
+- 时间: 2026-09-18 22:13
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE9ONkJsSk9Nd0dleXIwYWxIMnNqbFo2QjVFOTlJQVZiM0JnT0VoWXZpb04tamF4c2tKWVdXSFVSVzlNVG45bWJPb2ZldW5Bby1kNTF0M3l4amZiMWdVblZqRnRZNHJhZlBETlNV?oc=5>
+
+### 特朗普要禁CNN进白宫采访，再点名威胁《纽约时报》
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-09-19 02:13
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1OdzV1SHVvSWxWc0NLVl8zNXpLUlU5eDZNeWVNc05MbFRMWFVSUDNJZHRBd3hTR1VZLWpzT2FmaGh4Zk1FZzZBakkxaGNrclFGajJsTGhqU2RVaF9JQ25jUQ?oc=5>
+
+### 美民主党议员称若中期选举获胜将调查特朗普家族及马斯克
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经_金融信息服务商
+- 时间: 2026-09-18 06:40
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxOd0VSUkV6a2xGb2R3WWlrYU1qX3FjT1ZjWmJMWWdOQmJzM2VJWEpza1VHYmxJS2xLUEhySXlteEl1akFzWjFGSURLaF92NE1keEdWOFJWcmZjSVpra0Q0X3M1M0xvOHpJbGFlSWs4MXIwbVYyZWJfOGo1NERlM3JaeEFjOURuZ2o4ejF5MW5kRWNkelNYNlM2aGFtaDNRM1VVU09jckNRZUEwR19oQi0tem56VGtPdGxjczdfN0lwU3FmeUpJTm1wd0dKYXR6WkVNQ0JYV0NiWFhqRmgyajg4?oc=5>
+
+### 小唐纳婚宴爆全由“普京亲信”买单 川普急灭火
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-09-19 01:38
-- 链接: <https://news.google.com/rss/articles/CBMirAFBVV95cUxPU2dfMFdtc2ZFWHhMa2xtb3Q4amFqeWRwUF95SFpXcGJUVS1uWmlYM3RvcjlfTGtxV0JOM1FMMldZcFRDLTdLUWxLOHc3VU5YMllJWDVDUGNsTHlla3pUbHY3UnhrejdxQ3dhczR1c2s1QjFMOW9fRlJtMlNzWVlNTnI5RDg4dmN6MHJ4aTByNkhXbW5GOEZra0lrUDdNenRjb1N6VHRya3MzRUdC?oc=5>
-
-### Trump：“达成加强美军驻扎格陵兰岛协议……获永久控制权”
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 아시아경제
-- 时间: 2026-09-19 00:38
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE83NjhObDZxZWVmaEFqX0kwOGxnSG5OakxEVEJPV1h4Y3JyNEFCWFFHc0RoamROcktyNUdydTVWZU9CbzI0eVFXeTM2TTRFRXN2aTRmdkkzRkJZUGdsQjNnUXVtbEI?oc=5>
-
-### 所有人担心AI失控，特朗普和习近平能就必要护栏达成协议吗？
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-09-18 17:36
-- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxOLXJqY3d5dUJmMW4tampxdmR5LUxaeTRTdnhjOTJvYW03ODd6cktfU2xxQ3hoOHU4VWxsM1d4OFZXb1Y5aldwZEJMX3N1ejV2dXVPWW1FNGN5a1ZvNDd6UkUteE5uZUFWM2hhbFZIRUNEWXVWNG90NnFwM1FibW9UQ18weURWSHZiN2ItVTdaMG5iREFT0gGXAUFVX3lxTE9JTVU0ZzZ4TF9Eb05tUHVyOVNJODAtbF9GV1RnZFU3TWM4ZVR1dTdNZ1FkTDFWQi1uUXdKdlRCbUZwOTFvaE1sTHFzUlhqbTRNSnBVWHBud1lwN0NuSzM3SXlaY0NmSXVMb1JEMm1jaTJfSi1qb3BEdGROLW03elI3SmpqSVlZZVh3akctbnF1SEZVRDZZb1E?oc=5>
-
-### 《聚焦特习会：专家怎么看？》峰会有哪些重要看点？
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-09-19 02:00
-- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxOamY4Rm01SzMwd1Bzd0xNLXBOYTBwN3VPX2FfcEkxMHVYbUxrVHdTLTQ2c3BVVUc0V1lTZmVHc2JRR0Q0enVGY1Fxa3VabHUwN0ZpRVpPd1Q1Ul9FOUhLQ3k0LTJaZkNsd25MaTA5WkdYX2VYWndQRUczZ2MtT3YwNnNXMHNjVjZ6SWIzekNnYVZYdUVFQk5vRGVxc1PSAZ8BQVVfeXFMUEhKc3BnX3VVUUZLcUhPdDNzdS1fV3BKWFpNQTVyTElwaHRLUjFlcXRRaFpOdkpUZFM1ejRObU0zUHJOMTBYaFMxeDFURDN3Rl9iVjRiclNjcG43TnZyQ1JINmJQUU93ZVlpTlJSMFpUczlmZEM2X3lXeGFTbXJodVBQLVBOSHB0V19zS1pVaTdKZjdvOWVUS2MtUklWd0ZZ?oc=5>
+- 场馆: 万维读者网
+- 时间: 2026-09-19 04:41
+- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTFBOZVZBcUJjWVAwSW1DVXR4MnpraEk5YWwwMDhqOWFnNG5KR2xmVGVEY2dnN0dCeVFfeGl1VG9aQmt5d3hKR29HRUVlQUV4cVlaU3VIRmR4VnhwMUpVTl9Pa0Nn?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-19 11:17  (13 条)
+
+- **王一博** | 王一博登嘉人十月刊封面，预告短片发布 <https://k.sina.com.cn/article_1922782952_m729b56e803301bcr6.html>
+- **蔡徐坤** | 蔡徐坤Colder MV获柏林音乐录影带大奖最佳叙事季军 <https://k.sina.com.cn/article_2323589097_m8a7f27e903302d4vc.html>
+- **蔡徐坤** | 蔡徐坤在采访中预告了什么新歌信息？ <https://k.sina.com.cn/article_7879923116_1d5ae15ac06801l002.html>
+- **特朗普** | 白宫公布习近平下周访美行程 特朗普：成千上万的人都想参加这场国宴 <https://news.google.com/rss/articles/CBMiygNBVV95cUxPVGJJTWxpZ2hhNEFPM1pqeUJBMHNmSFVlb0ZtenZacGlhakd1RG1mTlJERmVERjJEdUtEQldJTWQ1R2Z5ZFg1eG9jQnhLOVUySlg1SGlKTVl4Wkh6TjZDaTlYOWtCZmxXNmFNeGx4WFVMX2tyM2pCZmt0aFBZYnJ0UTVuNWJoRmNYNEgzNGtMLUhITDhBaS02OU9OMHdQNTZVUXpORGFROEtaR1ZUbk1MVXBpeDVaTmdadzAxUVJjbVRDUTl1aXdkM0t3QmUwUHF3VUVVMGNfWGEtZFpqODNOQkNuTTFOUVVBSXM1RkZsbW8xNURpN3hUcS1HQmpYZk1CWGIwVkhLOWFJNGVjaERyeFZHc3B4WEl1R1R5NWNIODZuX2Z4dGJ3bDFRZWZOYUFRaG1mNXhqQWFnVjYzLXlUYnhuLUxsc0dQdHFwTGZxd2YyOW1Pajh2NWtFaDdNSTBmaTVYRXIyOVc1akh4eEtfNG5mZXhUei03OGU3eGppNXN5NlNXRDBVMUwyWlprN2NtYU9qQVBzNXVPSnNtX2tOVXlDR3k0TUFXOWJ0dmVDd1lRamdhWkhGNVp4dEw2b1RvSnBLbi1FMnJnQQ?oc=5>
+- **特朗普** | 习近平访美：特朗普将赴机场迎接，待遇比肩教宗和赫鲁晓夫：回顾两国外交礼宾细节 <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16Mk04U0dCZHdZYUlCTF9hUVpiaTdNTG9tekc3Zml0bFo3dFk1UWNyRXBfVGo0QktKay1YSWVqcGZ2TlJ5MGNsa1RXLUk2UE0zbnUwMGJNc2JiN0ppU3FJTV9fVXlVX2fSAWxBVV95cUxPRzZBbmZ3NEVwTTlsNm43WmdyNDNpV0NmbjF6dm1ORDdRUEtZS2FHNTRJN1d5aDl0dVRzMnZjTkJJZnQ5TWlqdjl6aDJEVVU5VVZLb2h4czlWUXg2Vi00UjcxdUc5d3FsWEVGOEY?oc=5>
+- **特朗普** | 美据报正考虑推迟对台重大军售 直至11月深圳APEC峰会之后 <https://news.google.com/rss/articles/CBMi_AJBVV95cUxOeEhyRnJIWWdiOS1Ncl94S2cwbXZKaUJaLU1ya1hWeEZrYnFubEdvanNzXzBVSFo1STB2WDZEaVdRc2lEN3hnOEtiS0VybHRMSHFrSTllN2pCNTc0SnVGby0wU1kzX3VaZ0phbnBSSHBUeXpMVXFVMkNpN3NHa2p5bkFpSF84QTB4c2NPMXRIS3UzLXVBNENETW1UVlotcGVxYzJOdDFFbjVGeEoxMzRRSF9ObjBSUG9CMDZBV3Q0SU9qSnJldjdObXBjeXVzQWliNDkxeERkN1ExNnFZODhhaXlPUDJqRWpORklwdGtjSGhjWUFGbW5EWXlITFo0a1pFNnZoQmxadFZrcTUtYVlXUlhiWWdFdFN6Q2ZIOTRYU2pQRnVJUV9WR3JPTktwazd1SVR6bmFFd0NVM1JjQXBRZHBwdDJza2JJb2czMmtjUkhwRmE0QmZvcFBnYUE0eGVsTjk1cTIzNVV4T0hGMHNOWHJMb1RURVRGT0FKeQ?oc=5>
+- **特朗普** | 美总统特朗普签署针对俄罗斯和伊朗的制裁法案 <https://news.google.com/rss/articles/CBMiygFBVV95cUxNWkdvdTMwMXBKNlA4djFyZ051RGw4NWtlaWRPeTNLcjVZeTl5TkpxMkQzT3BuZlNzazRic0lmZERXbXFGbVF4S0d4MV9lRkN0XzFCVmtzQlRldkFfSWRONGJVTnZURWZJclZUclc1YUMxc2JBZTBWTFV4X0dnTmwyYk1BczlSVVd2S2ljNGxBY2dpcmc4Vk9mVV9fQ05XNWctMkc5V0hHZ19wNFZxOXVucmZUN2xvLWRZTC1JSGNjN21EbVFuSU9CcU1R?oc=5>
+- **特朗普** | 美国升级对俄制裁：可对中印等俄能源进口国征收最高100%关税 <https://news.google.com/rss/articles/CBMikgNBVV95cUxOVkYwUDRBWFFNSVlBNmhtMkJJVnFldHBOSkdSN0xfeDFyYkJ4RC13TmZQVFFOWU1RM2tHY2l1MFBfZUJ2MjJGTXRlSUlUZFdxOFE5Z1hZOGJzVjB6M1MtWldRQWFJV0FBTkp4LWlyYUw3TnpZdHdXSVh2djRETWp5R2F4dndyc3FYbldqUjNFRXRneHZZMlRaU0ZpNEgyZDBHeTRsTzZJdVNiMzNzd1NXTWVnQTlXU2E3LTBaSmNyUXdHUUdIOG9QNUx3ZEV4OFNoajcwTXhKRXJkLVMzQTI4R3BtdWpudGJPb2M3REFwNFFwQ3Jwbk84QmdKWG1vSkg4VlFGR012SkJwYjhNd1RXeGw3N2l2SGtCaXprT1lfX2FpSS1WYnU1VEZvNHlub0EwR2Z3QXdodGUxbld5SmlGUmEwRldNZG1aV3VKUnVybnVVWWhPMGxNTGI3ZE5pLVNveVgtTFhKblJkM1ppQjQ3V2luOHl2MXFhNll5Z1pQQnMzNkJGWUFOOGlKTEJGUU9OYmc?oc=5>
+- **特朗普** | 特朗普：已与丹麦达成协议 美国获得对格陵兰岛的永久安全控制权 <https://news.google.com/rss/articles/CBMiSEFVX3lxTE1DRUhkUjJiUTRnNnZrNU5VZ09yNXN1RE9kZ0VrblJ3d21RbklxZXVhQ1NvYW1STWNWdXpoUUdSa1hRcmlQaUMzRg?oc=5>
+- **特朗普** | 特朗普再称对伊朗战争将很快结束 <https://news.google.com/rss/articles/CBMia0FVX3lxTE9ONkJsSk9Nd0dleXIwYWxIMnNqbFo2QjVFOTlJQVZiM0JnT0VoWXZpb04tamF4c2tKWVdXSFVSVzlNVG45bWJPb2ZldW5Bby1kNTF0M3l4amZiMWdVblZqRnRZNHJhZlBETlNV?oc=5>
+- **特朗普** | 特朗普要禁CNN进白宫采访，再点名威胁《纽约时报》 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1OdzV1SHVvSWxWc0NLVl8zNXpLUlU5eDZNeWVNc05MbFRMWFVSUDNJZHRBd3hTR1VZLWpzT2FmaGh4Zk1FZzZBakkxaGNrclFGajJsTGhqU2RVaF9JQ25jUQ?oc=5>
+- **特朗普** | 美民主党议员称若中期选举获胜将调查特朗普家族及马斯克 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxOd0VSUkV6a2xGb2R3WWlrYU1qX3FjT1ZjWmJMWWdOQmJzM2VJWEpza1VHYmxJS2xLUEhySXlteEl1akFzWjFGSURLaF92NE1keEdWOFJWcmZjSVpra0Q0X3M1M0xvOHpJbGFlSWs4MXIwbVYyZWJfOGo1NERlM3JaeEFjOURuZ2o4ejF5MW5kRWNkelNYNlM2aGFtaDNRM1VVU09jckNRZUEwR19oQi0tem56VGtPdGxjczdfN0lwU3FmeUpJTm1wd0dKYXR6WkVNQ0JYV0NiWFhqRmgyajg4?oc=5>
+- **Trump** | 小唐纳婚宴爆全由“普京亲信”买单 川普急灭火 <https://news.google.com/rss/articles/CBMiYkFVX3lxTFBOZVZBcUJjWVAwSW1DVXR4MnpraEk5YWwwMDhqOWFnNG5KR2xmVGVEY2dnN0dCeVFfeGl1VG9aQmt5d3hKR29HRUVlQUV4cVlaU3VIRmR4VnhwMUpVTl9Pa0Nn?oc=5>
 
 ### 2026-09-19 06:11  (12 条)
 
