@@ -1,50 +1,103 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-20 19:35**
-- 本轮扫到 12202 条, 新增 **5** 条
+- 最近更新: **2026-09-20 22:06**
+- 本轮扫到 12212 条, 新增 **10** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (10 条)
 
-### 周杰伦真实使用vivo被抓拍：从MV主角到记录者
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879996023_1d5af327706801nklq.html>
-
-### 王俊凯新专辑《WJK》接下来还有新歌吗
+### 王俊凯唱新歌时为什么说最紧张？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849292_1d5acf54c06801ehms.html>
+- 链接: <https://k.sina.com.cn/article_7879849295_1d5acf54f06801kes0.html>
 
-### 王俊凯新歌《那页夏天》与周杰伦合作细节
+### 王俊凯新歌《那页夏天》何时正式上线？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068015lrq.html>
+- 链接: <https://k.sina.com.cn/article_7879849295_1d5acf54f06801kerw.html>
 
-### 格陵兰岛民众担心美国获得“独占权”
+### 周杰伦作曲王俊凯作词，新歌《那页夏天》首唱
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879849295_1d5acf54f06801keru.html>
+
+### 美国和丹麦都宣布“赢了”，特朗普的格陵兰岛协议有哪些变化？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-09-20 17:27
-- 链接: <https://news.google.com/rss/articles/CBMi9AFBVV95cUxPWFdHclR6SzEtYkRsdzVablNmZVV5cnMtdVEzMjRIdWtwVXdyckwtdWJieEpaS3VPVmlJSlRoaGFOTFEwSl81ZW5qUlhGUjlVd0JaNk9rWlg5V1daVmlFWmtoRVRFdTMtZ0xJUmxtVk00bVl1ekJCVmVYTjZ2Q2ZNY2Y2S1FjemRvM3JTcWwzczlHNDZOOUhqVFVZMjJZVEltcDVKRnQxYWozMkgxcEQ3aTgxeGtTSndaREZ2MWx1N1pOQV85dzd1VDNGVGxhYVRhWVFNa21IV0d3OXlveFN1MkpVQXVDWndYYThfMlN2QVdKUjFz?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-09-20 08:56
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ZcFlKSWtTV0xxRUdwbWJra3lEU3lRd0NtWWJfOXF6eVNoc2lZVDRIbUZ3MVhtWVNLbnFxOWF6alJ2TUpoVV8xSTBNOWk?oc=5>
 
-### 川普称凯旋门不只纪念建国 还要存无人机和弹药
+### 特朗普虽然拿下格陵兰，俄罗斯却在虎视眈眈
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 文学城
+- 时间: 2026-09-20 21:27
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9SZnAyQU9Gd3ZBSXZ0QW4zVFhSaG5oU1d3cDdxQXFURTB1Vk1JRmNTMC1fUVhDanVVNkN5eE82NllxQVRyRkNhaGJ6aEJ4enRQbUtwWGxGYVdwRlptMkxnQ1FadW5yZ2tV?oc=5>
+
+### 特朗普中期选举前景生变：传统“红州”告急，拉美裔支持度下滑
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-09-20 12:25
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9fQmlYOWtkd3BmMW5DYXJkNTBwQTVkaU1Jc1FlaVowLTZKazdReVc0bkQxckFNY1U1RDNXVXhQSjhfeGVOcm9vOVNTalA?oc=5>
+
+### 特朗普：也门胡塞武装同意不与美国交战
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-20 14:40
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFAtVjhIaldtYVdVQW1abkxrZVlLdHAwRGJHbkwzemRtOUNwbTdfdGhZa1ptYjhhV3FSN0IxbkVqWG1tMkNrNGIxbm5qT3prODdBMlhFek1BYUhZMWkxQ3VqWm5BYjlpNEpOajJtSUxjTlFzTGthRjFjWg?oc=5>
+
+### 特朗普签署对俄制裁新法案
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-19 23:32
+- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxOZTZhblN1QmxnNkVXYmdEekdNUEw4OHdmOVY4VmpISUZxZVFxYmFQRW5Xd1EtaHdycmtkX2JjNGF1SXJtb09BTk5UTmFIUUlVRGI4ajVubXJFVldLbEdkZGdacW1OQnl1bU9NQWRLd1JkN3VWUmtrYXpoaFdfdFRQWjY5MS1RQVlYOFA3c0tPdVVhcVdUQXhwN0I1UkVqZUpxSzJWcE5KbVVndHkyZThVWW81R3d5LUU0Q3lCSTVpQkF1Ym9HaUNBMmxveklyNk0?oc=5>
+
+### 急眼了！美国六大汽车协会致信特朗普：禁止中国车在美销售
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 驱动之家
+- 时间: 2026-09-20 12:41
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LSER1YnkwcGNvUVAzU0dWbW1vcjlpeC15MWg5bUZad05UZzVjYnhNUXctOXJkbmdnbHVQS0RnaVdNOHJQSm1Gc3VvaEJoVWFSeHZScG5HUTI?oc=5>
+
+### 伦敦祝贺丹麦达成格陵兰协议
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: wenxuecity.com
-- 时间: 2026-09-20 15:48
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RTURQRkZSYTlQTXFZaDJLR2FaLUU3aFRBLWF1cTRlZlJlelRDRUFRaXZpVnYyajhrU3hpekY0VlpXM01qZUdYZ0pKaG9ILWswNkhFdDEyVVpoRjFSSlZGR3pseGR5MWZ6?oc=5>
+- 场馆: RFI
+- 时间: 2026-09-20 20:09
+- 链接: <https://news.google.com/rss/articles/CBMi-wFBVV95cUxQMGlYY3ZKeVhqMlh0RnkwM0daV3B5c1BkWHpFQ3F0bE9KVGlodnU0cXd5cHdfY19jUVJSQzJhanN3REIxY1A3MWlQNFFpZEl0ZFJTR1N1aFNpendmY1hvdC1KZ21WQkV0aUk0Y19wZWk2Tk1tSkhMU0R4UUVXM2g4c3Yxc0RVNDQ4cENaalNGVlZnYkwzbUhDYlVDQ1RGU0wtSFNsSndacWJLak1MLS15RVh3VHc3bC01US1WRDRCWTJDMDFJZUFsc0oxVnA0OHZDXzZFc3I2X210dHNSM0pMMlFVdm1SNkVEX05xTThZVDZ1dVZnTGlCclFZSQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-20 22:06  (10 条)
+
+- **周杰伦** | 王俊凯唱新歌时为什么说最紧张？ <https://k.sina.com.cn/article_7879849295_1d5acf54f06801kes0.html>
+- **周杰伦** | 王俊凯新歌《那页夏天》何时正式上线？ <https://k.sina.com.cn/article_7879849295_1d5acf54f06801kerw.html>
+- **周杰伦** | 周杰伦作曲王俊凯作词，新歌《那页夏天》首唱 <https://k.sina.com.cn/article_7879849295_1d5acf54f06801keru.html>
+- **特朗普** | 美国和丹麦都宣布“赢了”，特朗普的格陵兰岛协议有哪些变化？ <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ZcFlKSWtTV0xxRUdwbWJra3lEU3lRd0NtWWJfOXF6eVNoc2lZVDRIbUZ3MVhtWVNLbnFxOWF6alJ2TUpoVV8xSTBNOWk?oc=5>
+- **特朗普** | 特朗普虽然拿下格陵兰，俄罗斯却在虎视眈眈 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9SZnAyQU9Gd3ZBSXZ0QW4zVFhSaG5oU1d3cDdxQXFURTB1Vk1JRmNTMC1fUVhDanVVNkN5eE82NllxQVRyRkNhaGJ6aEJ4enRQbUtwWGxGYVdwRlptMkxnQ1FadW5yZ2tV?oc=5>
+- **特朗普** | 特朗普中期选举前景生变：传统“红州”告急，拉美裔支持度下滑 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9fQmlYOWtkd3BmMW5DYXJkNTBwQTVkaU1Jc1FlaVowLTZKazdReVc0bkQxckFNY1U1RDNXVXhQSjhfeGVOcm9vOVNTalA?oc=5>
+- **特朗普** | 特朗普：也门胡塞武装同意不与美国交战 <https://news.google.com/rss/articles/CBMieEFVX3lxTFAtVjhIaldtYVdVQW1abkxrZVlLdHAwRGJHbkwzemRtOUNwbTdfdGhZa1ptYjhhV3FSN0IxbkVqWG1tMkNrNGIxbm5qT3prODdBMlhFek1BYUhZMWkxQ3VqWm5BYjlpNEpOajJtSUxjTlFzTGthRjFjWg?oc=5>
+- **特朗普** | 特朗普签署对俄制裁新法案 <https://news.google.com/rss/articles/CBMizwFBVV95cUxOZTZhblN1QmxnNkVXYmdEekdNUEw4OHdmOVY4VmpISUZxZVFxYmFQRW5Xd1EtaHdycmtkX2JjNGF1SXJtb09BTk5UTmFIUUlVRGI4ajVubXJFVldLbEdkZGdacW1OQnl1bU9NQWRLd1JkN3VWUmtrYXpoaFdfdFRQWjY5MS1RQVlYOFA3c0tPdVVhcVdUQXhwN0I1UkVqZUpxSzJWcE5KbVVndHkyZThVWW81R3d5LUU0Q3lCSTVpQkF1Ym9HaUNBMmxveklyNk0?oc=5>
+- **特朗普** | 急眼了！美国六大汽车协会致信特朗普：禁止中国车在美销售 <https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LSER1YnkwcGNvUVAzU0dWbW1vcjlpeC15MWg5bUZad05UZzVjYnhNUXctOXJkbmdnbHVQS0RnaVdNOHJQSm1Gc3VvaEJoVWFSeHZScG5HUTI?oc=5>
+- **Trump** | 伦敦祝贺丹麦达成格陵兰协议 <https://news.google.com/rss/articles/CBMi-wFBVV95cUxQMGlYY3ZKeVhqMlh0RnkwM0daV3B5c1BkWHpFQ3F0bE9KVGlodnU0cXd5cHdfY19jUVJSQzJhanN3REIxY1A3MWlQNFFpZEl0ZFJTR1N1aFNpendmY1hvdC1KZ21WQkV0aUk0Y19wZWk2Tk1tSkhMU0R4UUVXM2g4c3Yxc0RVNDQ4cENaalNGVlZnYkwzbUhDYlVDQ1RGU0wtSFNsSndacWJLak1MLS15RVh3VHc3bC01US1WRDRCWTJDMDFJZUFsc0oxVnA0OHZDXzZFc3I2X210dHNSM0pMMlFVdm1SNkVEX05xTThZVDZ1dVZnTGlCclFZSQ?oc=5>
 
 ### 2026-09-20 19:35  (5 条)
 
