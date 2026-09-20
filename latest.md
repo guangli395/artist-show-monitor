@@ -1,92 +1,58 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-20 17:13**
-- 本轮扫到 12197 条, 新增 **10** 条
+- 最近更新: **2026-09-20 19:35**
+- 本轮扫到 12202 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (10 条)
+## 本轮新发现 (5 条)
 
-### 王俊凯新歌《下一天》的上线平台有哪些？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068015lmm.html>
-
-### 王俊凯演唱会上首唱的新歌是什么？
+### 周杰伦真实使用vivo被抓拍：从MV主角到记录者
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801l8vk.html>
+- 链接: <https://k.sina.com.cn/article_7879996023_1d5af327706801nklq.html>
 
-### 要闻解说 - 特朗普为何要以“最高外交礼遇”接待习近平？
+### 王俊凯新专辑《WJK》接下来还有新歌吗
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-09-20 12:37
-- 链接: <https://news.google.com/rss/articles/CBMigwNBVV95cUxNTERSQ0ZPLVBmd0JfOHRkZjZTR1hzdzNhOXRtVzdWZWVBV0tuTklOV3JLN2E0dEFNd3NZV2c2WG5UUUY1NzBuZTkwZDhtMmZkMV8wOURNQTB2SzJBTmVDbFFPbVdZMGZsSzg5T25sUUlqQVliX3NTSU14R3NSUE9pZXVTOUw1b3hoaXdfdUJIdXVaM2VWMWxqNmlOa2NIZExGNV9iTTNhWnpaVFNsS09sOTR6ckd1MkFNeHVXdHo0SkJMUy1kX2xLMmg2NndNTzRVWGxJU094YmVWWkpMRThKenE2S0N3N21LWUJNV2haYnFNTHEzVnJ4V1VrUlBNZXVqcWlMNi1KUnNPaEpsczVLbkdCaVhGandOQlk3UkRWamtqdzhQdVlFeV9GbUljOEhScUpaT2JNN0NjMkRKcXVtWllLTUdzSVRjWEZDc2ZpMEdMRzc0emlXaGtwSHlUQWpMMU1Sem5XOVNtN3owTFRRMGVFTkdOU05qY1NGYjB5ZmJOS2c?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879849292_1d5acf54c06801ehms.html>
 
-### 特朗普：也门胡塞武装同意不与美国交战
+### 王俊凯新歌《那页夏天》与周杰伦合作细节
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-20 14:56
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxPOHQ3VVJKYmNHa1JhZjlma1JlWEV0UUNGYUhaZzY3VFViem9ZRXBnVWNCbU9uOWhqbWdYY0xITXc3S19uX3k4N3lRaDhOSFI5ZnpIVmNWanpYV0JsME9vcjhpcEtjbTRDamliQ2dLcjlMOFhuTG9xZ1pTV1FsR0ZUY2twcVN3LWt5UXFqemsxQnZYZ0hVQWVPZw?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068015lrq.html>
 
-### 特朗普：将对伊朗作出重大决定
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-09-20 15:03
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE04MVBVNndfSFhyMk9FWERreWdfMXVrQ1Y1elFfUjVGX0kzcEpQYXh2QjdSZ3VGMFFPLUxmeU42dm5mb2ZjYWdHek5TX2dBZmtVVmVieWhvaGNCd0dCc3QteEdYQzNGTGU0QkpzNS1XelVKMUx0UUFaVQ?oc=5>
-
-### 新浪网·
+### 格陵兰岛民众担心美国获得“独占权”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 手机新浪网
-- 时间: 2026-09-20 15:20
-- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTE80d0RjZDMyaUxKRGVDejZQaDBMbHRqRnRraWplSnZRRzhrODRkSW9yTklULUZ6QVVGc2swMHg2bmxBTDV6X25IYWJHNzl3d0dtSGcycDR1YktoLTJtbkdXQnNsZw?oc=5>
+- 时间: 2026-09-20 17:27
+- 链接: <https://news.google.com/rss/articles/CBMi9AFBVV95cUxPWFdHclR6SzEtYkRsdzVablNmZVV5cnMtdVEzMjRIdWtwVXdyckwtdWJieEpaS3VPVmlJSlRoaGFOTFEwSl81ZW5qUlhGUjlVd0JaNk9rWlg5V1daVmlFWmtoRVRFdTMtZ0xJUmxtVk00bVl1ekJCVmVYTjZ2Q2ZNY2Y2S1FjemRvM3JTcWwzczlHNDZOOUhqVFVZMjJZVEltcDVKRnQxYWozMkgxcEQ3aTgxeGtTSndaREZ2MWx1N1pOQV85dzd1VDNGVGxhYVRhWVFNa21IV0d3OXlveFN1MkpVQXVDWndYYThfMlN2QVdKUjFz?oc=5>
 
-### 特朗普：应军方强烈要求，出于国家安全，同意将计划在华盛顿建造的“凯旋门”改建为“顶级军事综合体”，存放大量无人机，顶部部署狙击手
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-09-20 15:32
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE4zdXBUZ2Z3eEJiRi1iWm9HTWRCdXp1OHR6aV9hRmFHUTBNSzdnNWN5QmROU09TY0dYdE14d0NOME1Qc2hCRW5oNzNHNlVSWlh1NjdLNEZweDlScU5JeGc?oc=5>
-
-### 民调：特朗普支持度创第二任期新低 民主党国会选举意向领先
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-09-20 16:52
-- 链接: <https://news.google.com/rss/articles/CBMimgNBVV95cUxPRGFObFFsV3ZhQmlqOEtBNzAwYVBhdDVlZWlMRjBwMmZXaWw0cXdPU2NlaFNlVmEtTlZCY1NfVlhIUjlXUFBvbmR1cHdjbmprVjJyeXVXR21pREl3SlFlVXk0ZUtkU3dlNHlrLTBwMEhZYUQ4VnJOUjVBSU4xckxTc3pyc09meDhGSlB4ZjZ1UmdKN1FCeWlfM1o1LUJyNUx0ZTIyZkNGOFFGVTlOTG9hY1N4OEtiMlZubHJWRUgyeTJmTHM3ckR0OG81RnltSFp1MnZhVk9UYnFrVXJWS1k0WFZCbzRuNkhReVNiZlpRaDlyeWlPRF8tZkJpSkZ3aVhZNHJIZGVBZkg3WkhtR1JpeDhtVnpiRnVOd1E4VWpwZ2k5VWYtYjFrYWZLUkpUNEF2Q1JRS2w3Qnh4UDZDbHlVejEwaG9UbWZWT2FMOEFieWp3Q1BRdWhXSGFKY3JYX0VUZm13U050V3Y0ODZadEN6aVQwOTBQeGRvbFp3VDh1V3l1eEVFY2FaV2dkY2lQMnRNRVdiOXJVVmZoZw?oc=5>
-
-### 三家媒体记者被白宫拒之门外，民主党人指责特朗普打压媒体转移注意力
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-09-20 02:53
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE1UNVJ5TDc3ODBzWXhERm1hU2RkaTMzbUoyTE85U2hqTEtrUS1scFVqdDJ2ekVQcXdCNldUa19BUTFJbllDT2pzR1lfMHRjZEFtbmY2Rjdjdlk4eFRRTEpneXlBTnNTTjB3aGw0ME9ZYmhIdw?oc=5>
-
-### 特朗普总统在接待习近平之前将于星期二在纽约会晤日本首相高市早苗
+### 川普称凯旋门不只纪念建国 还要存无人机和弹药
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-09-20 16:25
-- 链接: <https://news.google.com/rss/articles/CBMitgFBVV95cUxNUDc4YS1nYWpFdFVGS2c1LXRBZFhaUXRwS1JrREkzd3FJVXM1Q19VNU9xS050OTdpenlUVUl6cjdBTFRDMUpOWVdCX3puTjFSWnFENG5scmpZb2VWOUxiME1aRXhlRHlpWGxlbUs1OE1Kd2JKSUJkeGFiYjVQdW5kRFZ4ZkhPNlNKTzQzX3VadmxkVExxX2tLeHp4LWFETW1VR01iX0RtZ2tITTBJMjBubElVbVNsQdIBuAFBVV95cUxQTG8yUGRneE1SN0hwdkdINTZEc0s1SVFrd2tVTW1hT19wMGRxUXl5Y3hLSXo2WDZHRGw5Q3FwLU1odzMya2JpRXo1Smd6WWZXR0lpa2dzVGJ0RFU1SGN1UENaNWJwUEJKdWt6QmlkaE94YmJFZ1p3X19oaGF2LUdta2dldlAtLXhtZ2FxY3ZUSEZqTXZhM2JheVhZdDBjVE9ISVRKczdMTkNrREF6NU5pYTlJUWQ5VkMx?oc=5>
+- 场馆: wenxuecity.com
+- 时间: 2026-09-20 15:48
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RTURQRkZSYTlQTXFZaDJLR2FaLUU3aFRBLWF1cTRlZlJlelRDRUFRaXZpVnYyajhrU3hpekY0VlpXM01qZUdYZ0pKaG9ILWswNkhFdDEyVVpoRjFSSlZGR3pseGR5MWZ6?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-20 19:35  (5 条)
+
+- **周杰伦** | 周杰伦真实使用vivo被抓拍：从MV主角到记录者 <https://k.sina.com.cn/article_7879996023_1d5af327706801nklq.html>
+- **周杰伦** | 王俊凯新专辑《WJK》接下来还有新歌吗 <https://k.sina.com.cn/article_7879849292_1d5acf54c06801ehms.html>
+- **周杰伦** | 王俊凯新歌《那页夏天》与周杰伦合作细节 <https://k.sina.com.cn/article_7879776356_1d5abd864068015lrq.html>
+- **特朗普** | 格陵兰岛民众担心美国获得“独占权” <https://news.google.com/rss/articles/CBMi9AFBVV95cUxPWFdHclR6SzEtYkRsdzVablNmZVV5cnMtdVEzMjRIdWtwVXdyckwtdWJieEpaS3VPVmlJSlRoaGFOTFEwSl81ZW5qUlhGUjlVd0JaNk9rWlg5V1daVmlFWmtoRVRFdTMtZ0xJUmxtVk00bVl1ekJCVmVYTjZ2Q2ZNY2Y2S1FjemRvM3JTcWwzczlHNDZOOUhqVFVZMjJZVEltcDVKRnQxYWozMkgxcEQ3aTgxeGtTSndaREZ2MWx1N1pOQV85dzd1VDNGVGxhYVRhWVFNa21IV0d3OXlveFN1MkpVQXVDWndYYThfMlN2QVdKUjFz?oc=5>
+- **Trump** | 川普称凯旋门不只纪念建国 还要存无人机和弹药 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RTURQRkZSYTlQTXFZaDJLR2FaLUU3aFRBLWF1cTRlZlJlelRDRUFRaXZpVnYyajhrU3hpekY0VlpXM01qZUdYZ0pKaG9ILWswNkhFdDEyVVpoRjFSSlZGR3pseGR5MWZ6?oc=5>
 
 ### 2026-09-20 17:13  (10 条)
 
