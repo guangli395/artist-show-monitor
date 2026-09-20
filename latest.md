@@ -1,63 +1,91 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-20 09:55**
-- 本轮扫到 12171 条, 新增 **15** 条
+- 最近更新: **2026-09-20 13:52**
+- 本轮扫到 12187 条, 新增 **16** 条
 
 ---
 
-## 本轮新发现 (15 条)
+## 本轮新发现 (16 条)
 
-### 蔡徐坤MV获柏林音乐录影带大奖
+### uniq还唱过好莱坞电影的主题曲呀
 
-- 艺人/关键词: **蔡徐坤**
+- 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5727695436_m15565b24c03301uxzq.html>
+- 链接: <https://k.sina.com.cn/article_7879923704_m1d5ae17f803301ylrc.html>
 
-### 蔡徐坤MV获得全球季军，《Colder》获奖！非常好听的一首歌视觉盛宴
+### 王一博嘉人十月刊封面大片发布，以自为始向心而行
 
-- 艺人/关键词: **蔡徐坤**
+- 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5832772172_m15ba90a4c03301lqpk.html>
+- 链接: <https://k.sina.com.cn/article_6891885433_19ac9d37904002ac3u.html>
 
-### 王俊凯新歌《那页夏天》在哪里可以听？
+### 分享一些王俊凯新歌《下一天》的网友乐评
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068588_1d5b04dec06801s6dw.html>
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068015lio.html>
 
-### 王俊凯在周杰伦的演唱会上唱过歌吗？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923101_1d5ae159d06801p3c0.html>
-
-### 周杰伦王俊凯再合作新歌，关晓彤为何未现身？
+### 王俊凯在演唱会上首唱了周杰伦作曲的哪首新歌？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801l7ze.html>
-
-### 周杰伦王俊凯合作新歌《那页夏天》在哪首唱
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776731_1d5abd9db06801eqa8.html>
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068015lgw.html>
 
 ### 特朗普吼一嗓子《格陵兰岛协议》，中方就“笑不出来了”？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
+- 场馆: 观察者网
 - 时间: 2026-09-20 07:29
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE94cU5wVWhFUmpuSlJFbnQ5S1IxMW9JZ0lBbTZGTmNRSmhxdlM1Vkx0eVVHbWNRc3FvN3J1YWlibG82eWR6RklIQXk1Wlo?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE9TRlZfcFhRYkJiOG00aEtybWUtRUp5ajVFSEQ3MlNDVTZGVU93RWtsVGFVV3VubHBKWDdCR1Z1Ykk5WXhXRFAydVk1alZCX3FaQjV1SXJfdm53QnFuU1B4RXpGRlpuWjhJMUIyeF9jSFlwRVE?oc=5>
 
-### 特朗普签署制裁俄伊新法案
+### 特朗普宣布：把华盛顿凯旋门改建成军事综合体，“储存大量狙击弹药”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: DW.com
-- 时间: 2026-09-19 16:35
-- 链接: <https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMUw0TGtlSnNCaUI5bnZZSy1UOVR2T2RFYjVmRVRVUEVGcHBXZFlyc2Q1TENXQ0htQzBRY0JxYmNkT1B6TVhkRTNpRlFsNVp6M1ZqZkt6d1B2MS1LanBFejV0ekhadkpNdVdFLThMbFlQd2xTSFRHS3ZHVExHeXEtV0RENlNzNXBkdmk2RFdEY0t2T21FOHpKZl9GLUxNZFdsSGlpQ2V3SUllSU5MMUR5Qk1IS3pSTTRhQ19LaHM3SkN1WktpcFh2ZHNlelpWNTdYd0VMdGFNRFXSAdgBQVVfeXFMTlFNcWVpS0RzTXdfQ3JBUU10T1JOQjZvLVlZX0RJUGs0eE9vNUl2dy00VzF5VFZsaTI3NG1lb2ZnelpZTGk2dC0yTG54NHktR3hmWnU1WmE0ZlJKQ1doS19GTmtiQUNjUGdkSEphVnQzR1g4RUdCN3ZoWFoxLXdGZWZ4TVR6Tk5aYlRDQ3U0bFdMOC1NR2lDYkZXV0thMEt5dHMwTUIxc3plbEJtU2hxNk1VWGJUNDYxejQ2WUNxa2tPV2V1bHhNNVlUQmoyamtUel9SOUZkSEdp?oc=5>
+- 场馆: 观察者网
+- 时间: 2026-09-20 12:50
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE55a0UzWFZucXN4MGx3cW5BUmViLWlvejJxdTA4T1IwbjhRbHZ4d196dHpnUEFBQjVGVm90WTRiWTBMTXYzWGFmTEhHeVM3emttSThad2h3ak1WekpUT25iOFFYSC11eDNCX3FleXhSQjJHVnM?oc=5>
+
+### 特朗普想把美国医学专家的研究方向都管起来
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-20 12:49
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5vSVBwc2l1UzVLSU93WWw2amMyZGdFYWxXZjY1cVZvaklxWm9iNHhUVk9DRnFKQ1I5TEk5MGlKN2FtaEFBSTZ5SXl0VUhxZWhtMzh5R05Oc1ZUN08xX29naUh6djhoOGM2OG1fU0RuY1pmNnZHT3VUUA?oc=5>
+
+### 特朗普提前返回白宫，确切原因不明
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: news.ifeng.com
+- 时间: 2026-09-20 01:25
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE83bXZVVDgxa0loVHlQNFdlMDlCVlFHc2pmQmVrdWRLZ0RKVGFnUHVyNl9PbEZUMHljOElvVENxRjBzYjlGVzA5aExJa0k?oc=5>
+
+### 特朗普喊话投票：“人工智能”这叫法不好，我有三个备选
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者网
+- 时间: 2026-09-20 07:54
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFA3bXB3blRrSkdXNTYxaWRvUFJ2c2RZMzE5RVlNdFlQWVBFZDQySm55LXFGOG5aSnFENHNKOFlJeVVBWnFDN2V0ek5GTnprT0VwTGNnTVBYVzJCSThueDUtZ2RMTXp6RVZwN2o1TmRqcVB1ck0?oc=5>
+
+### 特朗普要组建“人工智能部队”，此前称“AI安全风险”是“骗局”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街见闻
+- 时间: 2026-09-20 02:26
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhSmJVX1dKUGJKTmJKREtwYkRqZUJNZ29qY20zdzJmMm5KU1RkZ3dJRU9Takk3bWtJTmI2ZGRHRG9VY3hfN3MyT2w5YW96THpCZHU0?oc=5>
+
+### 特朗普要给“人工智能”改名，近17万人投票，“卓越智能”票数领先
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 手机新浪网
+- 时间: 2026-09-20 13:37
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9TVkxIQjFJaVBKYkdneXktVHQ5V1RpT2FtMEc1cUFfc0tpYWNpbWR1MnFoazlZeXV0OHFiZFB2ZW5GMkhLWjRPSVVOZl9zakdCOVVLRjJkTDBDNWNLQXl1bzQ0NmlBUVJWQVREVWl1T1BMaGZLaktCdzZhY1pIeDQ?oc=5>
 
 ### 特朗普签署对俄制裁新法案
 
@@ -65,60 +93,63 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-09-19 23:32
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNanIxYUttcnpfZUVzT2FQcW02TXhnQ3FCWWF4dHhCRngzdzJEb1d6Z2hTOUdfQnIteFpIZ0pmZXY1LTQ4djNMTzFBT2M1WGd1Ny1UNDlqd1VOaUJ6QUZoYVVaSjlVYzNBaDRwcXZVMUhJNGRrbHFraXRRUUwwRk9tUVdqM09DMTdkdjRrNk5CV19rN0NlVWl4RVdaNVFRS3Q4TEh1bkEyWlFqdmFiVVUyclVsWEwzZFRTaUJVQWFaM3VWdnhmN3FNNWtSUXNLYmVj?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTFRUUlBxYmVrcjA0Vkg5SHMyLUd3dFNSX3VVc2FXam44cFZCMlZzRXJlZHQwMjE1X2ZPZGs1SzdDM2w1bFR3ZXlWcVdrMXJHUXhXTFBnVnlBNnlWN1pUNGFpSFZFc1o5dkpDQm53RTA2QVVXcEFHNWJ2RFRKZUFQbzNFZ2VXeGEtd0JCYmdIVXJ3aVA2VVpxT3RjVUJ3aEFSeGFuTWtIX1Vvamx4Mk5IU3FYcmZsNXZDenZZT1FUQWxQc2xPNDZIVjFncGRfWGNB?oc=5>
 
-### 特朗普提前返回白宫
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-20 01:40
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9MN1c2Ymp1NUlsWjBJOXlYcTdtZU1CQVpxb1RpVzA0c053anYyZEJlQ3RYRGR0cjEtOFUwX2xqRmtsQVRiTHoyM3dISTdjNWU2VldwLVR1NlloUk10N0w3RDljMWh6TlBSaXdhQUMwd1JuZmJKeHRQTQ?oc=5>
-
-### 特朗普打压美国媒体出新招
+### 嘲讽拉满，加拿大总理复刻特朗普经典手势
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 财新
-- 时间: 2026-09-20 09:13
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1ueWtPdjEzcDNUeTdJMlRpcENZaXhyZEh1eGw3Mm5pSk9oUUM1NzR5Zm9GOVkwbkYzZjExSVNNZzRJQ050b2FTdV9EaE5EMHJiay03X2JZN0ZiazRKZVlwM2JZcWxGT1h3TlE?oc=5>
+- 场馆: thepaper.cn
+- 时间: 2026-09-20 10:12
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE5UZDB6d1R2ejlpemF1MVZWRWJvWU85TXgtNFpTS2JUYnI1S29RbTdZdllSajk1UFRxU0dKMHo1RUtFNTR3MmMySXV6MUxQdW5Ya1BiX05zXzFzQlczbGc?oc=5>
 
-### 伊朗已向美方提出停战条件 等待特朗普政府回应
+### TRUMP团队地址12天前转出1125万枚代币，其中325万枚已转入OKX
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-09-19 20:47
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTFB4ai1XS1BaZUNlcV9nZDg1X1lCa0NyYWhZelF0azFPelduc1gwM2djcjJVS1ZsdGdJN0pSQkx6a3gyN25ibG9PZA?oc=5>
+- 场馆: 富途牛牛
+- 时间: 2026-09-19 19:27
+- 链接: <https://news.google.com/rss/articles/CBMinwFBVV95cUxNbWpQcWJ0SnFpZ2JleFZoVTBJR2pveTg1Yk45ZktNSFR5VnlDTURCNktncjdzbVVoWkpXeE9FQ0tsVGR0VGlULXlQQlV5SlVsYVkxMXByMlQwRUFzWWljU01UZjdSdWVBMjFCb2lDUi1sY3J6RzFpUmVIdFJ2cktmWHY4QnNUdW1QZE1xd3gyS3RIdmJqR1BrUF9UUXZMd1U?oc=5>
 
-### 特朗普提前返回白宫 行程突变引猜测
+### 澳总理呼吁美中就管控AI风险开展合作 提《不扩散核武器条约》先例
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 中华军事
-- 时间: 2026-09-20 03:21
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9QUExDaDVET0FLNnBycnd1LUtSZ2RNU1ZycGRpRXlQOG5Ca0RwLUh6bzBtSFMzcUdMa3N4QnpxZ2phM0N2Z3YtbU1jZ2VDekc4MU12MzYtRjhheWNibGotRURibWwwNzNua3k1SkhVNnM?oc=5>
+- 场馆: RFI
+- 时间: 2026-09-20 10:36
+- 链接: <https://news.google.com/rss/articles/CBMiqgNBVV95cUxPMEl2YzRfVXM1OXBWQU8zMEhfc2RxTUpjdzZkS1lCdVpOcFk3dkt5Vmx2SnBaSGFDbURMNjdleGNIVGNGQVN6bk0yS2FqN0Fzc0g3b25jTURVUE9RY19uZWtuZWp6cUZHejUzMHB2UjNaZ3NCSnFrczlNcmpRZy1ublpvNDluVFdVVUV2SlhIdnNoYWFlLWVxc0NlY01sTjlFVmQ4UW1YZFE0S0I1U0xway1oRWVGN2JOVmtFS3JwWWZ2UnFQWlB4bkZhRHN1SDhmTVBHcnozWS1YZ0ZjT2stWkVtbFNqNURMbTY1dVNVOS1KZ0d4NWVLMVBtODBkYnM0bWNrY2U3bmptZUhtOURwMUE3Y3VaV1Z4UklvSmR3VFpJeGVTVE5FVGxKdGg2MWtvRy1yWlU3RjlFZ1ZaWmlrUHpwSldzSmM0aWtldW9Ub05lVEJrQmx2R1JTSXVWMk5hcVp3TDl2RWNkcTJtbDFzOVRqcWpWTWx5T0xjZWM3TzFVR2NQdzZ5TW8wN0NPTGxFQ2h6cXlXYUJyRXRuak5pVGRXLS1ZX1pXOUE?oc=5>
 
-### Trump's Greenland Deal Secures the Arctic-But Mining Its Rare Earths Is a Different Story
+### Trump Announces an 'AI Force' After Industry Sounded Alarm -- WSJ
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: Moomoo
-- 时间: 2026-09-20 01:56
-- 链接: <https://news.google.com/rss/articles/CBMipgFBVV95cUxPTk4taGRXeXo1YWpJaGlxTzBTSC1OX0RnMURqNkVyanNoSk9yNDlFc2xjeXVwTndOZmNSZXFCSklLSzNQTmExbm9UbXg2NGlYRXRHLXJoWWhwNTdQY1R0eTlxM2Y5cC1WVEZBTF9rWGhZRFgxSHNWd0xVTW4yUVZfRldMaDBHQlV2NnZhbV9XamllRGlxVFJ3LWpwX29Rb0Y4UXJmcGdR?oc=5>
-
-### Trump不满意“人工智能”这一名称……“叫‘卓越智能’怎么样？”
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 아시아경제
-- 时间: 2026-09-20 06:31
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9uOXR1RnN1LVVMZFlWLVp1TEFfajR1cTh6MWl4RFd6bG5JY3ZBbzdDZDROSmQyQnpQRGNGYWhqVkxVaUZaREtWTXJKVVIwOHlBNGI5QVpMa0RqVjFlLTFXQU81d0I?oc=5>
+- 时间: 2026-09-19 18:24
+- 链接: <https://news.google.com/rss/articles/CBMiqwFBVV95cUxQU1hWWTVkTmpUc2RGWDFyRTZlRnV2a2owLXhBcXdoNmNscURoRER1ZEhWOEZ3YjNNTWd5eC1iaFJTWWZ0SkRFQTk5Nm1rSlhWNnBzYWpnWFFhalZPZ2FQalV2R0M4U0w1UldVVFgzeVpDbUx5dVMxT0stRk5vUmdpUFFOcE8xXzJpbXljOHZzbkJrRjFqZHNtWXFDYThoUzh3MFdHVFdQTXR4Qm8?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-20 13:52  (16 条)
+
+- **王一博** | uniq还唱过好莱坞电影的主题曲呀 <https://k.sina.com.cn/article_7879923704_m1d5ae17f803301ylrc.html>
+- **王一博** | 王一博嘉人十月刊封面大片发布，以自为始向心而行 <https://k.sina.com.cn/article_6891885433_19ac9d37904002ac3u.html>
+- **周杰伦** | 分享一些王俊凯新歌《下一天》的网友乐评 <https://k.sina.com.cn/article_7879776356_1d5abd864068015lio.html>
+- **周杰伦** | 王俊凯在演唱会上首唱了周杰伦作曲的哪首新歌？ <https://k.sina.com.cn/article_7879776356_1d5abd864068015lgw.html>
+- **特朗普** | 特朗普吼一嗓子《格陵兰岛协议》，中方就“笑不出来了”？ <https://news.google.com/rss/articles/CBMic0FVX3lxTE9TRlZfcFhRYkJiOG00aEtybWUtRUp5ajVFSEQ3MlNDVTZGVU93RWtsVGFVV3VubHBKWDdCR1Z1Ykk5WXhXRFAydVk1alZCX3FaQjV1SXJfdm53QnFuU1B4RXpGRlpuWjhJMUIyeF9jSFlwRVE?oc=5>
+- **特朗普** | 特朗普宣布：把华盛顿凯旋门改建成军事综合体，“储存大量狙击弹药” <https://news.google.com/rss/articles/CBMic0FVX3lxTE55a0UzWFZucXN4MGx3cW5BUmViLWlvejJxdTA4T1IwbjhRbHZ4d196dHpnUEFBQjVGVm90WTRiWTBMTXYzWGFmTEhHeVM3emttSThad2h3ak1WekpUT25iOFFYSC11eDNCX3FleXhSQjJHVnM?oc=5>
+- **特朗普** | 特朗普想把美国医学专家的研究方向都管起来 <https://news.google.com/rss/articles/CBMieEFVX3lxTE5vSVBwc2l1UzVLSU93WWw2amMyZGdFYWxXZjY1cVZvaklxWm9iNHhUVk9DRnFKQ1I5TEk5MGlKN2FtaEFBSTZ5SXl0VUhxZWhtMzh5R05Oc1ZUN08xX29naUh6djhoOGM2OG1fU0RuY1pmNnZHT3VUUA?oc=5>
+- **特朗普** | 特朗普提前返回白宫，确切原因不明 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE83bXZVVDgxa0loVHlQNFdlMDlCVlFHc2pmQmVrdWRLZ0RKVGFnUHVyNl9PbEZUMHljOElvVENxRjBzYjlGVzA5aExJa0k?oc=5>
+- **特朗普** | 特朗普喊话投票：“人工智能”这叫法不好，我有三个备选 <https://news.google.com/rss/articles/CBMic0FVX3lxTFA3bXB3blRrSkdXNTYxaWRvUFJ2c2RZMzE5RVlNdFlQWVBFZDQySm55LXFGOG5aSnFENHNKOFlJeVVBWnFDN2V0ek5GTnprT0VwTGNnTVBYVzJCSThueDUtZ2RMTXp6RVZwN2o1TmRqcVB1ck0?oc=5>
+- **特朗普** | 特朗普要组建“人工智能部队”，此前称“AI安全风险”是“骗局” <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhSmJVX1dKUGJKTmJKREtwYkRqZUJNZ29qY20zdzJmMm5KU1RkZ3dJRU9Takk3bWtJTmI2ZGRHRG9VY3hfN3MyT2w5YW96THpCZHU0?oc=5>
+- **特朗普** | 特朗普要给“人工智能”改名，近17万人投票，“卓越智能”票数领先 <https://news.google.com/rss/articles/CBMif0FVX3lxTE9TVkxIQjFJaVBKYkdneXktVHQ5V1RpT2FtMEc1cUFfc0tpYWNpbWR1MnFoazlZeXV0OHFiZFB2ZW5GMkhLWjRPSVVOZl9zakdCOVVLRjJkTDBDNWNLQXl1bzQ0NmlBUVJWQVREVWl1T1BMaGZLaktCdzZhY1pIeDQ?oc=5>
+- **特朗普** | 特朗普签署对俄制裁新法案 <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTFRUUlBxYmVrcjA0Vkg5SHMyLUd3dFNSX3VVc2FXam44cFZCMlZzRXJlZHQwMjE1X2ZPZGs1SzdDM2w1bFR3ZXlWcVdrMXJHUXhXTFBnVnlBNnlWN1pUNGFpSFZFc1o5dkpDQm53RTA2QVVXcEFHNWJ2RFRKZUFQbzNFZ2VXeGEtd0JCYmdIVXJ3aVA2VVpxT3RjVUJ3aEFSeGFuTWtIX1Vvamx4Mk5IU3FYcmZsNXZDenZZT1FUQWxQc2xPNDZIVjFncGRfWGNB?oc=5>
+- **特朗普** | 嘲讽拉满，加拿大总理复刻特朗普经典手势 <https://news.google.com/rss/articles/CBMiXkFVX3lxTE5UZDB6d1R2ejlpemF1MVZWRWJvWU85TXgtNFpTS2JUYnI1S29RbTdZdllSajk1UFRxU0dKMHo1RUtFNTR3MmMySXV6MUxQdW5Ya1BiX05zXzFzQlczbGc?oc=5>
+- **Trump** | TRUMP团队地址12天前转出1125万枚代币，其中325万枚已转入OKX <https://news.google.com/rss/articles/CBMinwFBVV95cUxNbWpQcWJ0SnFpZ2JleFZoVTBJR2pveTg1Yk45ZktNSFR5VnlDTURCNktncjdzbVVoWkpXeE9FQ0tsVGR0VGlULXlQQlV5SlVsYVkxMXByMlQwRUFzWWljU01UZjdSdWVBMjFCb2lDUi1sY3J6RzFpUmVIdFJ2cktmWHY4QnNUdW1QZE1xd3gyS3RIdmJqR1BrUF9UUXZMd1U?oc=5>
+- **Trump** | 澳总理呼吁美中就管控AI风险开展合作 提《不扩散核武器条约》先例 <https://news.google.com/rss/articles/CBMiqgNBVV95cUxPMEl2YzRfVXM1OXBWQU8zMEhfc2RxTUpjdzZkS1lCdVpOcFk3dkt5Vmx2SnBaSGFDbURMNjdleGNIVGNGQVN6bk0yS2FqN0Fzc0g3b25jTURVUE9RY19uZWtuZWp6cUZHejUzMHB2UjNaZ3NCSnFrczlNcmpRZy1ublpvNDluVFdVVUV2SlhIdnNoYWFlLWVxc0NlY01sTjlFVmQ4UW1YZFE0S0I1U0xway1oRWVGN2JOVmtFS3JwWWZ2UnFQWlB4bkZhRHN1SDhmTVBHcnozWS1YZ0ZjT2stWkVtbFNqNURMbTY1dVNVOS1KZ0d4NWVLMVBtODBkYnM0bWNrY2U3bmptZUhtOURwMUE3Y3VaV1Z4UklvSmR3VFpJeGVTVE5FVGxKdGg2MWtvRy1yWlU3RjlFZ1ZaWmlrUHpwSldzSmM0aWtldW9Ub05lVEJrQmx2R1JTSXVWMk5hcVp3TDl2RWNkcTJtbDFzOVRqcWpWTWx5T0xjZWM3TzFVR2NQdzZ5TW8wN0NPTGxFQ2h6cXlXYUJyRXRuak5pVGRXLS1ZX1pXOUE?oc=5>
+- **Trump** | Trump Announces an 'AI Force' After Industry Sounded Alarm -- WSJ <https://news.google.com/rss/articles/CBMiqwFBVV95cUxQU1hWWTVkTmpUc2RGWDFyRTZlRnV2a2owLXhBcXdoNmNscURoRER1ZEhWOEZ3YjNNTWd5eC1iaFJTWWZ0SkRFQTk5Nm1rSlhWNnBzYWpnWFFhalZPZ2FQalV2R0M4U0w1UldVVFgzeVpDbUx5dVMxT0stRk5vUmdpUFFOcE8xXzJpbXljOHZzbkJrRjFqZHNtWXFDYThoUzh3MFdHVFdQTXR4Qm8?oc=5>
 
 ### 2026-09-20 09:55  (15 条)
 
