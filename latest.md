@@ -1,48 +1,135 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-19 22:01**
-- 本轮扫到 12122 条, 新增 **4** 条
+- 最近更新: **2026-09-20 00:12**
+- 本轮扫到 12136 条, 新增 **14** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (14 条)
 
-### CNN等三家美媒因“假新闻”被禁止进入白宫
+### 王俊凯新歌《那页夏天》何时正式上线
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879849298_1d5acf55206801ahb4.html>
+
+### 周杰伦作曲新歌首唱，偶像与粉丝双向奔赴
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879849298_1d5acf55206801ahb0.html>
+
+### 王俊凯的新歌《那页夏天》什么时候正式发布？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923379_1d5ae16b306801mh56.html>
+
+### 王俊凯首唱周杰伦作曲新歌时有多紧张？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776722_1d5abd9d206801ghyk.html>
+
+### 周杰伦作曲王俊凯新歌全球首唱，现场紧张到爆
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776722_1d5abd9d206801ghyi.html>
+
+### 特朗普：对伊朗战争将很快结束
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-09-19 23:56
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFB5emhPeVlGbDRJaVZWTTl1U05lcGltcE1ya2h2Vkc3blF1SnViTS1kVTJDYUNjRjNubHgtQnQ4azJzbk5XRHQ1amNPUQ?oc=5>
+
+### 伊朗提出7项谈判条件，特朗普再称战争很快结束
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
+- 时间: 2026-09-20 00:02
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBuTDd2ZWY4NE54bVhYSV9rRmZQd1RaOGxmQlh4SDJkQlI5MjlRLXFPUGZfVzJxb3FyMTVjTjloSTdPSWx4dlFUd1g1UHVNZ3JsM1IydTRHY3p5a3ROQ24yU0NUZC15LVJYUVFfLXY2VVdHN3doRzlTRw?oc=5>
+
+### 伊朗称已向美国传达谈判条件 正等待特朗普回应
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-19 22:36
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFB2MUJ5eVNFa1hITGxKNjd5U21hN19EVEZHMXd6TVN1eENtWFg3eEdtd2NBanlaVWVKY0pOZWc5M3FZR08tRHpqZUcxQ0ZUU2RxRGt2WVJ2bmtUWGVGb3NYXzc3ZmVLWTVVa3lOa0ZRTEVuRTNLTl9xcA?oc=5>
+
+### 特朗普：将组建一支“人工智能部队”，并任命一名负责人
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-19 23:58
+- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxPOW1zOGNJSnVPbnpWdVVVVFJJQlduZVFtWWlpRUU3SW8zcGs1V3U0am9ZdXRUTzhOZVFJMjZ6Y1k0VWZHbWVBdFRGY2NLeDNTUGFWSGp0dXhXamlDYXRHV09qT1RMNEJScy13RTZFa3M2bHJENk9TNnJFUmJMWFAtMVJpQnZKdnNwNXJzZlBMOHZNbGVmZlhmTA?oc=5>
+
+### 特朗普：我要组建一支“人工智能部队”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-19 23:40
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5BYnpmQjdzWjAtZlpHcFJLWmQtTG90NmpoTlU4ZUpHY2JYVUxRMGYtdUR4bWRMTXB2X0RtY09UVkVHLUVBYzdWbC1GVDZyLWJZZEZyVkJ1RUF6OWxGMGlWNzc1Y0Joc2ZjaDlSU25XVHhhRUduSF9zcw?oc=5>
+
+### 特朗普总统宣布将组建人工智能部队 并任命一位人工智能“沙皇”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: voachinese.com
 - 时间: 2026-09-19 21:49
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxQNk01bXluZnBqeGlhLTF1MUt5Y3VDa0tQREtrNVNad3FNc0ZaSHU4RDVLS1I4dklzQVpZYXVBZVdsRFdMNHVXMkZyNnRLVDREQ2NiU2J5WDljREJiOHlwZVBJQ3Jvb1pjdUNvY1Yzb3BURld1Y2s1aER0cmptUG9USzBkT1hzYXowX3JzcEdXajQ4ZHo1TllKcw?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMisAFBVV95cUxPbXl2V0lleVZqVnpiX25kdnlUay1ZenhINDlpZko0ZVlFRTJ5RnIxdTZWMkh3TlU4TmVkdFlJa2daVUdzbEJyelZTWWdFR0liUHdxcWh4RW5KckMyR1daSzRQMFZNMVRiVElyTUxNMllVVWpaU0ZKS0xhOEZQeTV0c3hCNmtUbVFPTXNYbWVKVjRNa3dENVNHU2ZORzFuY29qM3F1ZU5wSXBCMlRub20zMdIBswFBVV95cUxOenViU0dhdTlJVWtraEh0aGtncDdFei1XREo1dWRUa0lGdjYtd1BiSG1pZ2U3d1A1bG5jS2V1dkdsRnoxTDVxaGh0dkNUOGs0dC1IOTlGYUFPM3BCWF9PbVdLa0pQV0dUZUg3Q1ctNUoybDM1ZEdSM2JtWlJXOThlRTlqeXpSZlRJaV9pMElhUll4SGJkMkhKSzU1dVFZNk1IZjFZa2tqVTNycDE3ZU10U0llaw?oc=5>
 
-### 特朗普称将组建一支“人工智能部队”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-09-19 19:08
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDaUJlTkszTW13aXVGSUszRHBzVm1LOXloWXZuVWFoS0dtbTJLNkpCb0ozWjJmS21FMHpXS3gwOG5wOGtTNEdESERoemd5NDZHbjFsUUs4Ny1scEJfM2FENQ?oc=5>
-
-### 特朗普称不会限制AI发展 并将成立“AI特别工作组”
+### 特朗普禁止3家媒体进入白宫，CNN、“政客”回应
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-19 19:41
-- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE5HMzhQUDRiY0NuQ3g5MEF6YVNWV1M4M2xIOFNmbkhRX1BJMmZDUXBnYXlMYlVBQ0stVnIwUmhfT1k3SHlBdWlvbzNlcnNUT1pKMlBIb1lSSjNKbTZDdHBjRzlodkVRWXgyNkpiYTdIZHdJdnB5a0NpRXRScHc?oc=5>
+- 场馆: 观察者网
+- 时间: 2026-09-19 03:25
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE83blByNzB2RGxnaVNUMy1nb3VJSjBpTmRWc1Y0VWY4WlNwejRxSi1pUGozZzY2cEhhVWxpaEZxWTU0dzZOQ1dOTzZtVVFiRHhUaU9HZm05MDAwWS1qQnJDRHZ4YVFUbEtXT1lzUmVsc0RlVTQ?oc=5>
 
-### 美签署对俄制裁法案 中国商务部回应
+### 特朗普说封就封，白宫现场没收CNN等三家媒体记者证
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者网
+- 时间: 2026-09-20 00:02
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5HbHV6b3FFUHNOMHFRYi1rU2xJcC1HcUpHRFNkb2g5R2trWTFVRXlBTzRrTFpBMklyVVNOMDJQdGNta25qb190THZKZk1naTY0dUhYM3BJTndFUktaZVYyUkloZUhrdkxMdk5VT3lnenhsdEk?oc=5>
+
+### 要闻解说 - 格陵兰争端得到妥善解决？特朗普宣布对该岛安全事务获“永久控制权”
+
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: RFI
-- 时间: 2026-09-19 19:56
-- 链接: <https://news.google.com/rss/articles/CBMioAJBVV95cUxPMXRTUGs1dERPM3RvUFUxY052S3JZLTc3elNDLXJ6LTlwWEsxR2FWTkNOWDZNV0ZRYkJibmhTeDRsUDE4dEsyQnBBcXg0bmZ6cnE3MXN4eXF3QnNJVzNlVUVYelNleXdXaC1uRHdMRUZmbGNtdkp4RUMtNWtpWHMwMEo2N3JPWGJyVVNONlhXQTlIai1Ebk5LZVBBSWlfNHRXdVdwZGo0ZlRsOE5BQ05acUVJdDBqU1RCa1ZFVWVmdk9peURyMWp3SUpTdXBZaklhM3VuekJyaWlEMlhtbVgyVHNzYTNBYkhsNEw2OFZDbHduM0F6UFBULW50a2RqUEI0SzU2TVM5Mi1hZll2UEpMclJqTnlad2hVSndXMW1hNE8?oc=5>
+- 时间: 2026-09-19 12:42
+- 链接: <https://news.google.com/rss/articles/CBMihwRBVV95cUxOQXY2VmZEbWxOenhGeDI1c0Npb3pndjc0WS1OOU5RVVdXS2U0QUhsME5XQUFqZVVBOHcwSkttN3hLczhnbDZsZ25SelFacGhrdVRMV2tjbTJTQlNIWnZkQy1IMjhidkpQVjllb1M0N1hqazJxLV9iTzRBTkZMemZHS0stQjVpR2IxVjBZdGEzODA5MVdLTHllTC1VekVhRDJBcjdOZkw3dHIxMkVnYUhGMmloQ1J4ZVRGWlY1LVVScDQzTnU5TXdhWWQ4MUZnMkpENTF3bGU4NDRkdms4RHc2S0ZuUFJYQlEwYUFTWkVVUHBtRjdLM29HbVN2UWMxd0hKZml1dVowY0t3MXJqQ0pzUkJCS3RrUm9qQWt2YmRLbGRMUHRvWUZzaWE0NWtrbjlUMWw0WUUxdlJZRG0zUnQ2TnlCMVplZEhRT2hobzZjWGRybktFZ3pMZDJ6TFlfQWFrTE0tLUI3c1JsTWZuUHZGbktCY1NGYS1yQmZ3STl2dWhoYXlzb3JhQ0Z1ZVpYYnhCcmlBZlNlVFJ4ZmlndFZjOVh6aUE3cDVGVmdCQUJteTZFV3JlV3FuaUtrVkQyN3YyaWNGd0txUm00aThwRUpQSWlwa0ZCY2hRM3dOOVNJM0tXV2ViQjF4RmRvYzJfemREa2U1M0o3a3ljQk04T21MOTVrVjdma0E?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-20 00:12  (14 条)
+
+- **周杰伦** | 王俊凯新歌《那页夏天》何时正式上线 <https://k.sina.com.cn/article_7879849298_1d5acf55206801ahb4.html>
+- **周杰伦** | 周杰伦作曲新歌首唱，偶像与粉丝双向奔赴 <https://k.sina.com.cn/article_7879849298_1d5acf55206801ahb0.html>
+- **周杰伦** | 王俊凯的新歌《那页夏天》什么时候正式发布？ <https://k.sina.com.cn/article_7879923379_1d5ae16b306801mh56.html>
+- **周杰伦** | 王俊凯首唱周杰伦作曲新歌时有多紧张？ <https://k.sina.com.cn/article_7879776722_1d5abd9d206801ghyk.html>
+- **周杰伦** | 周杰伦作曲王俊凯新歌全球首唱，现场紧张到爆 <https://k.sina.com.cn/article_7879776722_1d5abd9d206801ghyi.html>
+- **特朗普** | 特朗普：对伊朗战争将很快结束 <https://news.google.com/rss/articles/CBMiS0FVX3lxTFB5emhPeVlGbDRJaVZWTTl1U05lcGltcE1ya2h2Vkc3blF1SnViTS1kVTJDYUNjRjNubHgtQnQ4azJzbk5XRHQ1amNPUQ?oc=5>
+- **特朗普** | 伊朗提出7项谈判条件，特朗普再称战争很快结束 <https://news.google.com/rss/articles/CBMieEFVX3lxTFBuTDd2ZWY4NE54bVhYSV9rRmZQd1RaOGxmQlh4SDJkQlI5MjlRLXFPUGZfVzJxb3FyMTVjTjloSTdPSWx4dlFUd1g1UHVNZ3JsM1IydTRHY3p5a3ROQ24yU0NUZC15LVJYUVFfLXY2VVdHN3doRzlTRw?oc=5>
+- **特朗普** | 伊朗称已向美国传达谈判条件 正等待特朗普回应 <https://news.google.com/rss/articles/CBMieEFVX3lxTFB2MUJ5eVNFa1hITGxKNjd5U21hN19EVEZHMXd6TVN1eENtWFg3eEdtd2NBanlaVWVKY0pOZWc5M3FZR08tRHpqZUcxQ0ZUU2RxRGt2WVJ2bmtUWGVGb3NYXzc3ZmVLWTVVa3lOa0ZRTEVuRTNLTl9xcA?oc=5>
+- **特朗普** | 特朗普：将组建一支“人工智能部队”，并任命一名负责人 <https://news.google.com/rss/articles/CBMimAFBVV95cUxPOW1zOGNJSnVPbnpWdVVVVFJJQlduZVFtWWlpRUU3SW8zcGs1V3U0am9ZdXRUTzhOZVFJMjZ6Y1k0VWZHbWVBdFRGY2NLeDNTUGFWSGp0dXhXamlDYXRHV09qT1RMNEJScy13RTZFa3M2bHJENk9TNnJFUmJMWFAtMVJpQnZKdnNwNXJzZlBMOHZNbGVmZlhmTA?oc=5>
+- **特朗普** | 特朗普：我要组建一支“人工智能部队” <https://news.google.com/rss/articles/CBMieEFVX3lxTE5BYnpmQjdzWjAtZlpHcFJLWmQtTG90NmpoTlU4ZUpHY2JYVUxRMGYtdUR4bWRMTXB2X0RtY09UVkVHLUVBYzdWbC1GVDZyLWJZZEZyVkJ1RUF6OWxGMGlWNzc1Y0Joc2ZjaDlSU25XVHhhRUduSF9zcw?oc=5>
+- **特朗普** | 特朗普总统宣布将组建人工智能部队 并任命一位人工智能“沙皇” <https://news.google.com/rss/articles/CBMisAFBVV95cUxPbXl2V0lleVZqVnpiX25kdnlUay1ZenhINDlpZko0ZVlFRTJ5RnIxdTZWMkh3TlU4TmVkdFlJa2daVUdzbEJyelZTWWdFR0liUHdxcWh4RW5KckMyR1daSzRQMFZNMVRiVElyTUxNMllVVWpaU0ZKS0xhOEZQeTV0c3hCNmtUbVFPTXNYbWVKVjRNa3dENVNHU2ZORzFuY29qM3F1ZU5wSXBCMlRub20zMdIBswFBVV95cUxOenViU0dhdTlJVWtraEh0aGtncDdFei1XREo1dWRUa0lGdjYtd1BiSG1pZ2U3d1A1bG5jS2V1dkdsRnoxTDVxaGh0dkNUOGs0dC1IOTlGYUFPM3BCWF9PbVdLa0pQV0dUZUg3Q1ctNUoybDM1ZEdSM2JtWlJXOThlRTlqeXpSZlRJaV9pMElhUll4SGJkMkhKSzU1dVFZNk1IZjFZa2tqVTNycDE3ZU10U0llaw?oc=5>
+- **特朗普** | 特朗普禁止3家媒体进入白宫，CNN、“政客”回应 <https://news.google.com/rss/articles/CBMic0FVX3lxTE83blByNzB2RGxnaVNUMy1nb3VJSjBpTmRWc1Y0VWY4WlNwejRxSi1pUGozZzY2cEhhVWxpaEZxWTU0dzZOQ1dOTzZtVVFiRHhUaU9HZm05MDAwWS1qQnJDRHZ4YVFUbEtXT1lzUmVsc0RlVTQ?oc=5>
+- **特朗普** | 特朗普说封就封，白宫现场没收CNN等三家媒体记者证 <https://news.google.com/rss/articles/CBMic0FVX3lxTE5HbHV6b3FFUHNOMHFRYi1rU2xJcC1HcUpHRFNkb2g5R2trWTFVRXlBTzRrTFpBMklyVVNOMDJQdGNta25qb190THZKZk1naTY0dUhYM3BJTndFUktaZVYyUkloZUhrdkxMdk5VT3lnenhsdEk?oc=5>
+- **特朗普** | 要闻解说 - 格陵兰争端得到妥善解决？特朗普宣布对该岛安全事务获“永久控制权” <https://news.google.com/rss/articles/CBMihwRBVV95cUxOQXY2VmZEbWxOenhGeDI1c0Npb3pndjc0WS1OOU5RVVdXS2U0QUhsME5XQUFqZVVBOHcwSkttN3hLczhnbDZsZ25SelFacGhrdVRMV2tjbTJTQlNIWnZkQy1IMjhidkpQVjllb1M0N1hqazJxLV9iTzRBTkZMemZHS0stQjVpR2IxVjBZdGEzODA5MVdLTHllTC1VekVhRDJBcjdOZkw3dHIxMkVnYUhGMmloQ1J4ZVRGWlY1LVVScDQzTnU5TXdhWWQ4MUZnMkpENTF3bGU4NDRkdms4RHc2S0ZuUFJYQlEwYUFTWkVVUHBtRjdLM29HbVN2UWMxd0hKZml1dVowY0t3MXJqQ0pzUkJCS3RrUm9qQWt2YmRLbGRMUHRvWUZzaWE0NWtrbjlUMWw0WUUxdlJZRG0zUnQ2TnlCMVplZEhRT2hobzZjWGRybktFZ3pMZDJ6TFlfQWFrTE0tLUI3c1JsTWZuUHZGbktCY1NGYS1yQmZ3STl2dWhoYXlzb3JhQ0Z1ZVpYYnhCcmlBZlNlVFJ4ZmlndFZjOVh6aUE3cDVGVmdCQUJteTZFV3JlV3FuaUtrVkQyN3YyaWNGd0txUm00aThwRUpQSWlwa0ZCY2hRM3dOOVNJM0tXV2ViQjF4RmRvYzJfemREa2U1M0o3a3ljQk04T21MOTVrVjdma0E?oc=5>
 
 ### 2026-09-19 22:01  (4 条)
 
