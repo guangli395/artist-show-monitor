@@ -1,152 +1,142 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-20 05:07**
-- 本轮扫到 12156 条, 新增 **20** 条
+- 最近更新: **2026-09-20 09:55**
+- 本轮扫到 12171 条, 新增 **15** 条
 
 ---
 
-## 本轮新发现 (20 条)
+## 本轮新发现 (15 条)
 
-### 周杰伦再为王俊凯写歌！新歌首唱引全网热议
+### 蔡徐坤MV获柏林音乐录影带大奖
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5727695436_m15565b24c03301uxzq.html>
+
+### 蔡徐坤MV获得全球季军，《Colder》获奖！非常好听的一首歌视觉盛宴
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5832772172_m15ba90a4c03301lqpk.html>
+
+### 王俊凯新歌《那页夏天》在哪里可以听？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849298_1d5acf55206801ahhq.html>
+- 链接: <https://k.sina.com.cn/article_7880068588_1d5b04dec06801s6dw.html>
 
-### 新歌《那页夏天》讲述的是什么故事？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923119_1d5ae15af06801xngu.html>
-
-### 周杰伦为王俊凯创作新歌《那页夏天》灵感来自哪里
+### 王俊凯在周杰伦的演唱会上唱过歌吗？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923119_1d5ae15af06801xnca.html>
+- 链接: <https://k.sina.com.cn/article_7879923101_1d5ae159d06801p3c0.html>
 
-### 王俊凯新歌《那页夏天》何时会正式上线音乐平台
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923119_1d5ae15af06801xnc6.html>
-
-### 分享一些王俊凯新歌《下一天》的网友乐评
+### 周杰伦王俊凯再合作新歌，关晓彤为何未现身？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923104_1d5ae15a006801kfxy.html>
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801l7ze.html>
 
-### 王俊凯新歌由周杰伦作曲！《那页夏天》追星天花板
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801l7pi.html>
-
-### 周杰伦为王俊凯写新歌，宠出新高度！
+### 周杰伦王俊凯合作新歌《那页夏天》在哪首唱
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776724_1d5abd9d406801kfti.html>
+- 链接: <https://k.sina.com.cn/article_7879776731_1d5abd9db06801eqa8.html>
 
-### 王俊凯在演唱会首唱新歌时是什么反应？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923373_1d5ae16ad06801fcvu.html>
-
-### 周杰伦为王俊凯作曲的新歌《那页夏天》何时正式上线？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923118_1d5ae15ae06801pe8c.html>
-
-### 周杰伦这首新歌会出现在他自己的演唱会上吗？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923118_1d5ae15ae06801pe8a.html>
-
-### 分享一个大屏歌词版的《那页夏天》 是杰伦哥作曲的新歌
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002rmzy.html>
-
-### 是周杰伦哥哥写给王俊凯的新歌《那页夏天》 王俊凯演唱会王俊凯王俊凯北京演唱会 那页夏天
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002rmsq.html>
-
-### 特朗普：将组建一支“人工智能部队”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-20 00:42
-- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxOX2pMc1ZOZmNtRGFWZmNsQmc0VXYwQWRzRlJtM1dWeElnekhlNlpBOUFib09YZE9ja0wyRE1VVm9RMG1hWXVZek4xSUE0WEtwT0l2Ui1YVjdlV0NtYmFnME9kVFhTSTdxb1JuYXFIRTBsZGJjLUxWSUNjSW90OTFMNDQtcw?oc=5>
-
-### 特朗普：将组建一支“人工智能部队”，并任命一名负责人
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-19 23:20
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZmU2U0RYRUo3NW1fQ3N3bUxMc3VDOVZmRVpyT0ZiQmtBRk1oUmFHTjFpLXdtN1hiQXloS2R0OVRsLXJfSDY0ZTVuUTBEbTFDWURxYjdFeDdobEtWTGktWTJONGg5T18wdWoxbi1XNjRjV2lIMG9TZVBIUFZUd2N2LVBUNkt3bmRJNjhjX2toSkJxeXJSSUwzSmRrVFNTakYyN05EaWZDRHB1U0dTTE8wOFpWTHVqTlFnVmsyN1VBV1lzSmtraXBHSEc4VzFZWnBr?oc=5>
-
-### 特朗普要给AI改名，马斯克：它会聪明到让我们无法理解
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-09-20 04:06
-- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxNdklvbkQzX2R1SnhQNlFzZ3VCYWIxSkVjLUhZT3Z0dTJTdkNGT3VnYU1lTDR0aGp4YW5KUERLMEJnVUp4SHpWWUlITmE1M0xGMGo2T2xVQmUwaW8wRnJoLTdjOERiWi1VOENzZGY4VlI0ZGlYYmRRRjQ2eHRDSk5aSmRla1ZabmZUcldhQmNEZVVLNy1z?oc=5>
-
-### 李在明表态引关注，青瓦台回应
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪军事
-- 时间: 2026-09-20 03:23
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1DWmtkT2QzZW9xY0FtYU4zTThaeElIcTZrNXpCandHLUF0Q0JabnMxdE9pZDJQbC1Tc1E2Zi05ZmpVY3FqY2M2WVFMWENtZld3UFp0ZjAyQUp3SzhNMVBHWm9qazNrNjBpM3ZOTXN6UlVlelU?oc=5>
-
-### 1.4 亿美元加密收入：特朗普家族与《清晰法案》的伦理博弈
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-20 02:45
-- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNGxvTzlnekdCdFFIemI5LTI2VmZWY1NSR1BwdnlZT21YT2d2THlCUkQxSk5aNkZxQzlQOE1yV2p4RXdheTV3S2hyUUViaWhlM2NjZmRFVGtpUVpGLUp1X1ZRRnlOc2kwWTJ6X2tJUS1COUxwV0p1Z0NxM09jd0Vwb1NMR1VtTms3X21rWElJWUlteW5rMWFBVHA5MjdEVjItRnhBZWJDRGFZdw?oc=5>
-
-### 特朗普说禁就禁：CNN记者现场被没收记者证，只留证件套
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-09-20 03:53
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE82TnpJWEVudEcydVlyREV6cHNndjFGSjIzUDlsa1RlRzJDaGotcXVpS2ZWc2xyN2xNWDZoWXhzM2tKLThHaVhXWmpVZEU3bW5JYm9hQVRaV1dwMzZVRGJaUg?oc=5>
-
-### 特朗普究竟是如何逼迫丹麦同意格陵兰协议的？
+### 特朗普吼一嗓子《格陵兰岛协议》，中方就“笑不出来了”？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-09-19 22:30
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFB5cnBOanROMTUtVUsxQUxnbUFvbFFkQ2hkVWFWWl9pakpocmNaNWdMRzVkSzV1OVZaZUphY0tTVjc2WnlwbE8tbC1rVFc?oc=5>
+- 时间: 2026-09-20 07:29
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE94cU5wVWhFUmpuSlJFbnQ5S1IxMW9JZ0lBbTZGTmNRSmhxdlM1Vkx0eVVHbWNRc3FvN3J1YWlibG82eWR6RklIQXk1Wlo?oc=5>
 
-### 特朗普没“拿下”格陵兰，为何仍称已“梦想成真”？
+### 特朗普签署制裁俄伊新法案
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-09-19 12:00
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE1DbW9NR3hOV0xCckZINHpQZlh2X1ZzN3RuREhaUGgwRDA2Tllha2lQNVhvRGlkWl9hX3I4RXhWQldnNUFkdHhuMDRsRHdKZExNck9QMzVEc0ZPTElIQnVnMjZ0ZnN6a1JWejlXaGRPVC1neEI2?oc=5>
+- 场馆: DW.com
+- 时间: 2026-09-19 16:35
+- 链接: <https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMUw0TGtlSnNCaUI5bnZZSy1UOVR2T2RFYjVmRVRVUEVGcHBXZFlyc2Q1TENXQ0htQzBRY0JxYmNkT1B6TVhkRTNpRlFsNVp6M1ZqZkt6d1B2MS1LanBFejV0ekhadkpNdVdFLThMbFlQd2xTSFRHS3ZHVExHeXEtV0RENlNzNXBkdmk2RFdEY0t2T21FOHpKZl9GLUxNZFdsSGlpQ2V3SUllSU5MMUR5Qk1IS3pSTTRhQ19LaHM3SkN1WktpcFh2ZHNlelpWNTdYd0VMdGFNRFXSAdgBQVVfeXFMTlFNcWVpS0RzTXdfQ3JBUU10T1JOQjZvLVlZX0RJUGs0eE9vNUl2dy00VzF5VFZsaTI3NG1lb2ZnelpZTGk2dC0yTG54NHktR3hmWnU1WmE0ZlJKQ1doS19GTmtiQUNjUGdkSEphVnQzR1g4RUdCN3ZoWFoxLXdGZWZ4TVR6Tk5aYlRDQ3U0bFdMOC1NR2lDYkZXV0thMEt5dHMwTUIxc3plbEJtU2hxNk1VWGJUNDYxejQ2WUNxa2tPV2V1bHhNNVlUQmoyamtUel9SOUZkSEdp?oc=5>
+
+### 特朗普签署对俄制裁新法案
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-19 23:32
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNanIxYUttcnpfZUVzT2FQcW02TXhnQ3FCWWF4dHhCRngzdzJEb1d6Z2hTOUdfQnIteFpIZ0pmZXY1LTQ4djNMTzFBT2M1WGd1Ny1UNDlqd1VOaUJ6QUZoYVVaSjlVYzNBaDRwcXZVMUhJNGRrbHFraXRRUUwwRk9tUVdqM09DMTdkdjRrNk5CV19rN0NlVWl4RVdaNVFRS3Q4TEh1bkEyWlFqdmFiVVUyclVsWEwzZFRTaUJVQWFaM3VWdnhmN3FNNWtSUXNLYmVj?oc=5>
+
+### 特朗普提前返回白宫
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-20 01:40
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9MN1c2Ymp1NUlsWjBJOXlYcTdtZU1CQVpxb1RpVzA0c053anYyZEJlQ3RYRGR0cjEtOFUwX2xqRmtsQVRiTHoyM3dISTdjNWU2VldwLVR1NlloUk10N0w3RDljMWh6TlBSaXdhQUMwd1JuZmJKeHRQTQ?oc=5>
+
+### 特朗普打压美国媒体出新招
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 财新
+- 时间: 2026-09-20 09:13
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1ueWtPdjEzcDNUeTdJMlRpcENZaXhyZEh1eGw3Mm5pSk9oUUM1NzR5Zm9GOVkwbkYzZjExSVNNZzRJQ050b2FTdV9EaE5EMHJiay03X2JZN0ZiazRKZVlwM2JZcWxGT1h3TlE?oc=5>
+
+### 伊朗已向美方提出停战条件 等待特朗普政府回应
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 财联社
+- 时间: 2026-09-19 20:47
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTFB4ai1XS1BaZUNlcV9nZDg1X1lCa0NyYWhZelF0azFPelduc1gwM2djcjJVS1ZsdGdJN0pSQkx6a3gyN25ibG9PZA?oc=5>
+
+### 特朗普提前返回白宫 行程突变引猜测
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华军事
+- 时间: 2026-09-20 03:21
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9QUExDaDVET0FLNnBycnd1LUtSZ2RNU1ZycGRpRXlQOG5Ca0RwLUh6bzBtSFMzcUdMa3N4QnpxZ2phM0N2Z3YtbU1jZ2VDekc4MU12MzYtRjhheWNibGotRURibWwwNzNua3k1SkhVNnM?oc=5>
+
+### Trump's Greenland Deal Secures the Arctic-But Mining Its Rare Earths Is a Different Story
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-09-20 01:56
+- 链接: <https://news.google.com/rss/articles/CBMipgFBVV95cUxPTk4taGRXeXo1YWpJaGlxTzBTSC1OX0RnMURqNkVyanNoSk9yNDlFc2xjeXVwTndOZmNSZXFCSklLSzNQTmExbm9UbXg2NGlYRXRHLXJoWWhwNTdQY1R0eTlxM2Y5cC1WVEZBTF9rWGhZRFgxSHNWd0xVTW4yUVZfRldMaDBHQlV2NnZhbV9XamllRGlxVFJ3LWpwX29Rb0Y4UXJmcGdR?oc=5>
+
+### Trump不满意“人工智能”这一名称……“叫‘卓越智能’怎么样？”
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 아시아경제
+- 时间: 2026-09-20 06:31
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9uOXR1RnN1LVVMZFlWLVp1TEFfajR1cTh6MWl4RFd6bG5JY3ZBbzdDZDROSmQyQnpQRGNGYWhqVkxVaUZaREtWTXJKVVIwOHlBNGI5QVpMa0RqVjFlLTFXQU81d0I?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-20 09:55  (15 条)
+
+- **蔡徐坤** | 蔡徐坤MV获柏林音乐录影带大奖 <https://k.sina.com.cn/article_5727695436_m15565b24c03301uxzq.html>
+- **蔡徐坤** | 蔡徐坤MV获得全球季军，《Colder》获奖！非常好听的一首歌视觉盛宴 <https://k.sina.com.cn/article_5832772172_m15ba90a4c03301lqpk.html>
+- **周杰伦** | 王俊凯新歌《那页夏天》在哪里可以听？ <https://k.sina.com.cn/article_7880068588_1d5b04dec06801s6dw.html>
+- **周杰伦** | 王俊凯在周杰伦的演唱会上唱过歌吗？ <https://k.sina.com.cn/article_7879923101_1d5ae159d06801p3c0.html>
+- **周杰伦** | 周杰伦王俊凯再合作新歌，关晓彤为何未现身？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801l7ze.html>
+- **周杰伦** | 周杰伦王俊凯合作新歌《那页夏天》在哪首唱 <https://k.sina.com.cn/article_7879776731_1d5abd9db06801eqa8.html>
+- **特朗普** | 特朗普吼一嗓子《格陵兰岛协议》，中方就“笑不出来了”？ <https://news.google.com/rss/articles/CBMiTEFVX3lxTE94cU5wVWhFUmpuSlJFbnQ5S1IxMW9JZ0lBbTZGTmNRSmhxdlM1Vkx0eVVHbWNRc3FvN3J1YWlibG82eWR6RklIQXk1Wlo?oc=5>
+- **特朗普** | 特朗普签署制裁俄伊新法案 <https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMUw0TGtlSnNCaUI5bnZZSy1UOVR2T2RFYjVmRVRVUEVGcHBXZFlyc2Q1TENXQ0htQzBRY0JxYmNkT1B6TVhkRTNpRlFsNVp6M1ZqZkt6d1B2MS1LanBFejV0ekhadkpNdVdFLThMbFlQd2xTSFRHS3ZHVExHeXEtV0RENlNzNXBkdmk2RFdEY0t2T21FOHpKZl9GLUxNZFdsSGlpQ2V3SUllSU5MMUR5Qk1IS3pSTTRhQ19LaHM3SkN1WktpcFh2ZHNlelpWNTdYd0VMdGFNRFXSAdgBQVVfeXFMTlFNcWVpS0RzTXdfQ3JBUU10T1JOQjZvLVlZX0RJUGs0eE9vNUl2dy00VzF5VFZsaTI3NG1lb2ZnelpZTGk2dC0yTG54NHktR3hmWnU1WmE0ZlJKQ1doS19GTmtiQUNjUGdkSEphVnQzR1g4RUdCN3ZoWFoxLXdGZWZ4TVR6Tk5aYlRDQ3U0bFdMOC1NR2lDYkZXV0thMEt5dHMwTUIxc3plbEJtU2hxNk1VWGJUNDYxejQ2WUNxa2tPV2V1bHhNNVlUQmoyamtUel9SOUZkSEdp?oc=5>
+- **特朗普** | 特朗普签署对俄制裁新法案 <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNanIxYUttcnpfZUVzT2FQcW02TXhnQ3FCWWF4dHhCRngzdzJEb1d6Z2hTOUdfQnIteFpIZ0pmZXY1LTQ4djNMTzFBT2M1WGd1Ny1UNDlqd1VOaUJ6QUZoYVVaSjlVYzNBaDRwcXZVMUhJNGRrbHFraXRRUUwwRk9tUVdqM09DMTdkdjRrNk5CV19rN0NlVWl4RVdaNVFRS3Q4TEh1bkEyWlFqdmFiVVUyclVsWEwzZFRTaUJVQWFaM3VWdnhmN3FNNWtSUXNLYmVj?oc=5>
+- **特朗普** | 特朗普提前返回白宫 <https://news.google.com/rss/articles/CBMieEFVX3lxTE9MN1c2Ymp1NUlsWjBJOXlYcTdtZU1CQVpxb1RpVzA0c053anYyZEJlQ3RYRGR0cjEtOFUwX2xqRmtsQVRiTHoyM3dISTdjNWU2VldwLVR1NlloUk10N0w3RDljMWh6TlBSaXdhQUMwd1JuZmJKeHRQTQ?oc=5>
+- **特朗普** | 特朗普打压美国媒体出新招 <https://news.google.com/rss/articles/CBMiakFVX3lxTE1ueWtPdjEzcDNUeTdJMlRpcENZaXhyZEh1eGw3Mm5pSk9oUUM1NzR5Zm9GOVkwbkYzZjExSVNNZzRJQ050b2FTdV9EaE5EMHJiay03X2JZN0ZiazRKZVlwM2JZcWxGT1h3TlE?oc=5>
+- **特朗普** | 伊朗已向美方提出停战条件 等待特朗普政府回应 <https://news.google.com/rss/articles/CBMiSEFVX3lxTFB4ai1XS1BaZUNlcV9nZDg1X1lCa0NyYWhZelF0azFPelduc1gwM2djcjJVS1ZsdGdJN0pSQkx6a3gyN25ibG9PZA?oc=5>
+- **特朗普** | 特朗普提前返回白宫 行程突变引猜测 <https://news.google.com/rss/articles/CBMicEFVX3lxTE9QUExDaDVET0FLNnBycnd1LUtSZ2RNU1ZycGRpRXlQOG5Ca0RwLUh6bzBtSFMzcUdMa3N4QnpxZ2phM0N2Z3YtbU1jZ2VDekc4MU12MzYtRjhheWNibGotRURibWwwNzNua3k1SkhVNnM?oc=5>
+- **Trump** | Trump's Greenland Deal Secures the Arctic-But Mining Its Rare Earths Is a Different Story <https://news.google.com/rss/articles/CBMipgFBVV95cUxPTk4taGRXeXo1YWpJaGlxTzBTSC1OX0RnMURqNkVyanNoSk9yNDlFc2xjeXVwTndOZmNSZXFCSklLSzNQTmExbm9UbXg2NGlYRXRHLXJoWWhwNTdQY1R0eTlxM2Y5cC1WVEZBTF9rWGhZRFgxSHNWd0xVTW4yUVZfRldMaDBHQlV2NnZhbV9XamllRGlxVFJ3LWpwX29Rb0Y4UXJmcGdR?oc=5>
+- **Trump** | Trump不满意“人工智能”这一名称……“叫‘卓越智能’怎么样？” <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9uOXR1RnN1LVVMZFlWLVp1TEFfajR1cTh6MWl4RFd6bG5JY3ZBbzdDZDROSmQyQnpQRGNGYWhqVkxVaUZaREtWTXJKVVIwOHlBNGI5QVpMa0RqVjFlLTFXQU81d0I?oc=5>
 
 ### 2026-09-20 05:07  (20 条)
 
