@@ -1,110 +1,91 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-21 16:44**
-- 本轮扫到 12268 条, 新增 **13** 条
+- 最近更新: **2026-09-21 20:43**
+- 本轮扫到 12276 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (13 条)
+## 本轮新发现 (8 条)
 
-### 王一博为何选择舞狮作为见面会出场方式？
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849298_1d5acf55206801aia2.html>
-
-### 见面会现场还有哪些传统文化元素？
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849298_1d5acf55206801ai9w.html>
-
-### 分清玩笑与事实，刘畊宏辟谣，并不是为演唱会才被淘汰
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_3129566062_mba89636e03301coss.html>
-
-### vivo X500系列发布：拍照第一、视频唯一，周杰伦任影像大使
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7096020433_1a6f4add106801onrs.html>
-
-### 王源易烊千玺送祝福，王俊凯新歌《那页夏天》获评青春留白
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924004_m1d5ae192403302aw3e.html>
-
-### 贝森特：特朗普政府不会为人工智能行业领袖提供“责任豁免保护”
+### 特朗普政府提议拨款50亿美元启动投资基金，重建海湾能源设施。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-21 15:58
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxOa2RWbkRGODVpMnRHU1lVMnRHZnJCSVpqT0g4ajVLbEJsVFowN21fNkhoM3IzeXZKTWRNWHpaakl3NzR4Nm04S0syQXIyRUwybENwV09KQUlrMmZBSy1zNnFtSHgweUNtd21KckZHUVJRbmtIdG9KdHlTS3VnUXhXc3VBd1R4dXc?oc=5>
+- 场馆: cj.sina.cn
+- 时间: 2026-09-21 19:11
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1oNEVtekszaVdJdUtQSExxY0pPX3pLWFlNNURXcjYxUDFxbEdoZ0dQSEg3RWpjYXVoM3JNVnlQM1JGa213bHQ5NWhBQQ?oc=5>
 
-### 记者：特朗普白宫的媒......_7x24快讯_新浪财经
+### 27名民主党议员致函特朗普总统，督促继续严禁中国汽车入美
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-21 14:59
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5hRWZ5ME00bW83a3NjN1ZFWURWSExxWDBNWkZZdXZsdjBrREN4TzhaQXN2WVlmaVh0WTMyazd3aDFyak9XdFdZNVZ3RQ?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-09-21 20:11
+- 链接: <https://news.google.com/rss/articles/CBMi8AFBVV95cUxPUE0xOWdJSWRUcW1lc19HMkpjTkwtNlN5MmYycjdhUUtDWWdkelJ1azRpM05VU3JEVHAtd3o4bXVFZzI2MVB6SUN0MTJ3LXBmOWthT1RvNS1UanNyQkM1UUhIVmRuYUVjRTNPa0xDREtCTmw0TnJQeFoxZTlTNDA0TVJXbHJyb0ctZG1xdUFVd0RpUndmcEI5WlAyVkFocjRrcHpob2h5SDZNYV8xTHZtZ0FtUXkzX2libGxQb0JOYk82Vi0yR056Z1BMTVd0SWxEZW01d3BsbzROUlVoVnhDZ1dIODFKNlVDZ2hET3FtTFbSAfMBQVVfeXFMUDgtdjRHX2JubEp0SkE2TWw2VVdFYXRna21BdEcyckhPNWp1ZkJjbEhuZVduLUh6U19aaEFUNV9PN0MtSlRTd2c1X20yODhzQmFFZEJPdGhuOTlJTlJtS29VQjJHU2t1U0dhQkZKS1Y2UzhjMDJhR3MxS0tUV3l4RHhFWFh5ZmwtbHlHZWMwenIwYTh3NHVuRkh4OVhxYjAwMkN2RnRILTNYc1plN2NJeWNCUEtoZGU0VmRQRng3TnZnbGZUckotUjFGWUhSN2UyUE8tS2FOZjczQ1hQX09JZWc1dDdYMnE3ZFFIR1QwU1BnMHg4?oc=5>
 
-### 胡塞武装攻占战略高地！特朗普据报临时叫停空袭，中东能源风险再升级
+### 市场消息：特朗普支持......_7x24快讯_新浪财经
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: cj.sina.cn
+- 时间: 2026-09-21 18:11
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE8tQnZYWGNIZUozSElQa0Y3YTh0ZDh2S3VYaVdScUt5cnBXVHhfSzdBUFhFVWZmN1lfY01HdzBvWlVhSGl3bUdPa3dTTQ?oc=5>
+
+### 各国领导人齐聚联合国大会之际，特朗普称俄罗斯已失去对柴油行业的控制
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-09-21 17:34
+- 链接: <https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUFlQdjUtemswTl9PTlpCYWpWOUVEN295cHdzNnBDRWFQQTduNFRmNEJNNmozU0lHaFRWbDAySnRDeVp5MHdtQ1VwU2JvNWFrNWgxaVBQVmxfdmhQb0o5MmRtel9xcEJzdHlKWUFBcm9EQjVHREhiREdYTWtfdVBIYXlQNFIzM3BYa0pIV2NEU05MRnZveThMYTlQZXcwVnJQaDVFMm1PYldqOGZlYkpCUThyRi1CdWprWHhKMm1MQUdvTXVnaG1aYWNzUzFMa2M0QW5OcUUyU2hCWHRNOHZDMFJIZ9IB5gFBVV95cUxNck82M0YyR1RqVGZ2LVlKaWRvY0FzdmlyemI1ZkYxVEdaaEk2TU50Q1lnWE83N3N6VXdiRWp2TW5fcVhLZTZmU2VrNWd5N0VxaV8wZGRLLWgzeks0MmlHWVRhUk94bHpDMl9kS1c0bERacGdzN0dVcUtaVU1iVmtKMkdhSnk0NWFfNS1WYWVmMmx6VFdFTDJwRHJ3T2YzSmtsLXlPR2pMYmdWTXItR0NOZFo0YXhtV0Mtd0NybmExdXdSUHlDcVBUSkJUcURSeldrbHRRSXdYQjZCUmdMQmszODJpOUJMZw?oc=5>
+
+### 泽连斯基预告：将在纽约与特朗普会面，这次或有重大改变
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: finance.sina.cn
+- 时间: 2026-09-21 17:29
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE4xcGhQY0x1NWE3aTQ0V1pfclhtbURvVGpsVFdNZnhnTjNpYkE5U2dZYjhwUFlBRThVR0p3TkV5MEhNanJ4RDdnam1yR002VVZ5OFE4eW1hUTFvNVNMZElnNHZBaDBsaUs2RjJtRmRzWEtVZEtWa2p2aQ?oc=5>
+
+### 特朗普施压泽连斯基：停止袭击俄罗斯炼厂，“都是柴油、柴油、柴油”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 华尔街见闻
-- 时间: 2026-09-21 16:09
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LSEJhc2FQRjFlcWE2SDcyUWhBUk5ZczI4VG9DUGRkaGNKRXZCb2VDRzZlQ2JIdTJjNk9NMmJpLXU3ZndTVjR6b2JwRndaZnRZYnFj?oc=5>
+- 时间: 2026-09-21 11:26
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBObk1wb2M5TVEwcFM2djRaQTNNQ1g3TDNyVmUxWWtvYWlRcGZDOE1SZGxBSlRpcU1SVVdVbjhuNXRVYjRYT0Y0OXhQblBqbFpITnUw?oc=5>
 
-### 美媒称特朗普下令空袭胡塞后又变卦
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-09-21 07:08
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9rOEhpN2F3aVg0Wkg5bnRZR190YWdCTnRnbUJRTEc2c1dQZ28yb2dLSFBwd2JfSVpyNTQteWlHU2VjOTlxU2YxWkktdks?oc=5>
-
-### 战机挂弹却被紧急叫停！特朗普为何突然取消轰炸胡塞武装？-市场参考
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 金十数据
-- 时间: 2026-09-21 15:13
-- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE5QTldER1JYQkYwRVBJckpIZHNCbzQ5WXFHeFNuZjdzRzNhbnljNUJjNWx5RHdvNU9tbjBLZTV3dTRYa0laMFlmemlvYTZsWTA?oc=5>
-
-### 特朗普称获格陵兰岛安全“永久控制”，丹麦却强调主权不变-市场参考
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 金十数据
-- 时间: 2026-09-21 05:21
-- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0R09xcEh6V1BmZTlOX29TODFGSjZMaFNETHFOSTlNMnlPR1FyUnFFbUd5azloN2JrekczUG1XR0RJRThMVFZ4ZU1PZkJudDg?oc=5>
-
-### 白宫内部关于人工智能威胁的复杂辩论
+### Trump: 'We Will Be Careful,' but 'Only Encourage AI' -- WSJ
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-09-20 19:30
-- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxPangyRXMzM19uakFMcG9sSTlOckl5OU4yWEZaYjlLQTIxV2pFWVpwU2dNVmM3WTRzZzhDeGptZGxjamtQSy1MWW40cVBycGlIN2t1TW5qOHVwYWhyZ091YkdEMnlOVUJrUVN5ZFlpbGlGbE1xa1Z1VEMyTUc5TndlWQ?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-09-21 16:39
+- 链接: <https://news.google.com/rss/articles/CBMingFBVV95cUxQNEhmeFFIXzlLYTFIUXRjWXNTLWNYdnIxY3Mwb3VlY0RRdVZZVTdudWcwZDZkOVlZcGJuUzdqb3phYWFaWEl5UFNHdlhBd0x3eER1N0JIYkxPblJBRlg3T3RyUHZPQ2hrdHNaelBwWlJHLXFnZi1MNkxselhwS0tzRXVrbnprMzFiakZqa2tJQmxzQU1lRE5zMnN4RmNRZw?oc=5>
 
-### 白宫公布迎接习近平来访细节安排：总统接机、军礼欢迎、军机飞越、国宴款待
+### 美国五大电视网停拍特朗普活动
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-09-21 15:47
-- 链接: <https://news.google.com/rss/articles/CBMilwFBVV95cUxOaUNEc0lzb3FGTW1XcTA2RjYzMXZveXEwRzdjQnBDR2gzcjlDdEIyZ3g1T3RQRUpqdUgyMDlyTS02WU9NX3p6OFNSWWViajRicThPV1Iwc3dUR2p1ZWpUdWhEWGdwdUwwMUF2eDQ4VDRlV0hWckJTTk9vNGZVUzhPQW43NFJNaS0yRGFNUVFmM1YzbG9acjJr0gGaAUFVX3lxTE1UTHR2VHNPcWxCeVVScVl4U0o0bEtSRlczOGJDYmxvbTBuemptc0JtUjhsUUtvaW82eUFrRVlOaGd5OHlrMWwzSEdqdHMzdWdEZEFtbURHZUZyU0w0RmNLbWNhcHVqT3huM1MzTmUtanhzZ1ZtdGEtcDdzb0pQX3IybnB4VzFBVVF3UnVmUE1LS2phTU5oRlBOdmc?oc=5>
+- 场馆: RFI
+- 时间: 2026-09-21 18:04
+- 链接: <https://news.google.com/rss/articles/CBMihwJBVV95cUxOUUVhaTF4ZGEyNGw4aWVjYWU2RG5rV09rUFJ4S1dkWUI0Q1dwYWdNSG1OSlFoQzVQVGtnSF91Q0RTbmJ4MjlIQUpreDc5Q0JhNkRuUTR5TVQ2WGRBd2toX3Q4ZEZGRlRmT2IxbDRBYWVfQ2QzblNta1VQQ2RISlFZemQwNDlZTWl0RFF6eE5FMm5BbVpiRmdpakUwNFZWcjNSV01SRWd1R0R2djZIaVdkT1ZHcnZ1d3ZoalFQM09fR094eXFaaGJoWEk4TW5TMXZMb1c2ZEtub09GQnU2Tzd2ZzVVOHVjTGVnQkpKOHFHMEpJcW4ydC1NLVdDTjJJZzcxLUt3d1Y5bw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-21 20:43  (8 条)
+
+- **特朗普** | 特朗普政府提议拨款50亿美元启动投资基金，重建海湾能源设施。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1oNEVtekszaVdJdUtQSExxY0pPX3pLWFlNNURXcjYxUDFxbEdoZ0dQSEg3RWpjYXVoM3JNVnlQM1JGa213bHQ5NWhBQQ?oc=5>
+- **特朗普** | 27名民主党议员致函特朗普总统，督促继续严禁中国汽车入美 <https://news.google.com/rss/articles/CBMi8AFBVV95cUxPUE0xOWdJSWRUcW1lc19HMkpjTkwtNlN5MmYycjdhUUtDWWdkelJ1azRpM05VU3JEVHAtd3o4bXVFZzI2MVB6SUN0MTJ3LXBmOWthT1RvNS1UanNyQkM1UUhIVmRuYUVjRTNPa0xDREtCTmw0TnJQeFoxZTlTNDA0TVJXbHJyb0ctZG1xdUFVd0RpUndmcEI5WlAyVkFocjRrcHpob2h5SDZNYV8xTHZtZ0FtUXkzX2libGxQb0JOYk82Vi0yR056Z1BMTVd0SWxEZW01d3BsbzROUlVoVnhDZ1dIODFKNlVDZ2hET3FtTFbSAfMBQVVfeXFMUDgtdjRHX2JubEp0SkE2TWw2VVdFYXRna21BdEcyckhPNWp1ZkJjbEhuZVduLUh6U19aaEFUNV9PN0MtSlRTd2c1X20yODhzQmFFZEJPdGhuOTlJTlJtS29VQjJHU2t1U0dhQkZKS1Y2UzhjMDJhR3MxS0tUV3l4RHhFWFh5ZmwtbHlHZWMwenIwYTh3NHVuRkh4OVhxYjAwMkN2RnRILTNYc1plN2NJeWNCUEtoZGU0VmRQRng3TnZnbGZUckotUjFGWUhSN2UyUE8tS2FOZjczQ1hQX09JZWc1dDdYMnE3ZFFIR1QwU1BnMHg4?oc=5>
+- **特朗普** | 市场消息：特朗普支持......_7x24快讯_新浪财经 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE8tQnZYWGNIZUozSElQa0Y3YTh0ZDh2S3VYaVdScUt5cnBXVHhfSzdBUFhFVWZmN1lfY01HdzBvWlVhSGl3bUdPa3dTTQ?oc=5>
+- **特朗普** | 各国领导人齐聚联合国大会之际，特朗普称俄罗斯已失去对柴油行业的控制 <https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUFlQdjUtemswTl9PTlpCYWpWOUVEN295cHdzNnBDRWFQQTduNFRmNEJNNmozU0lHaFRWbDAySnRDeVp5MHdtQ1VwU2JvNWFrNWgxaVBQVmxfdmhQb0o5MmRtel9xcEJzdHlKWUFBcm9EQjVHREhiREdYTWtfdVBIYXlQNFIzM3BYa0pIV2NEU05MRnZveThMYTlQZXcwVnJQaDVFMm1PYldqOGZlYkpCUThyRi1CdWprWHhKMm1MQUdvTXVnaG1aYWNzUzFMa2M0QW5OcUUyU2hCWHRNOHZDMFJIZ9IB5gFBVV95cUxNck82M0YyR1RqVGZ2LVlKaWRvY0FzdmlyemI1ZkYxVEdaaEk2TU50Q1lnWE83N3N6VXdiRWp2TW5fcVhLZTZmU2VrNWd5N0VxaV8wZGRLLWgzeks0MmlHWVRhUk94bHpDMl9kS1c0bERacGdzN0dVcUtaVU1iVmtKMkdhSnk0NWFfNS1WYWVmMmx6VFdFTDJwRHJ3T2YzSmtsLXlPR2pMYmdWTXItR0NOZFo0YXhtV0Mtd0NybmExdXdSUHlDcVBUSkJUcURSeldrbHRRSXdYQjZCUmdMQmszODJpOUJMZw?oc=5>
+- **特朗普** | 泽连斯基预告：将在纽约与特朗普会面，这次或有重大改变 <https://news.google.com/rss/articles/CBMieEFVX3lxTE4xcGhQY0x1NWE3aTQ0V1pfclhtbURvVGpsVFdNZnhnTjNpYkE5U2dZYjhwUFlBRThVR0p3TkV5MEhNanJ4RDdnam1yR002VVZ5OFE4eW1hUTFvNVNMZElnNHZBaDBsaUs2RjJtRmRzWEtVZEtWa2p2aQ?oc=5>
+- **特朗普** | 特朗普施压泽连斯基：停止袭击俄罗斯炼厂，“都是柴油、柴油、柴油” <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBObk1wb2M5TVEwcFM2djRaQTNNQ1g3TDNyVmUxWWtvYWlRcGZDOE1SZGxBSlRpcU1SVVdVbjhuNXRVYjRYT0Y0OXhQblBqbFpITnUw?oc=5>
+- **Trump** | Trump: 'We Will Be Careful,' but 'Only Encourage AI' -- WSJ <https://news.google.com/rss/articles/CBMingFBVV95cUxQNEhmeFFIXzlLYTFIUXRjWXNTLWNYdnIxY3Mwb3VlY0RRdVZZVTdudWcwZDZkOVlZcGJuUzdqb3phYWFaWEl5UFNHdlhBd0x3eER1N0JIYkxPblJBRlg3T3RyUHZPQ2hrdHNaelBwWlJHLXFnZi1MNkxselhwS0tzRXVrbnprMzFiakZqa2tJQmxzQU1lRE5zMnN4RmNRZw?oc=5>
+- **Trump** | 美国五大电视网停拍特朗普活动 <https://news.google.com/rss/articles/CBMihwJBVV95cUxOUUVhaTF4ZGEyNGw4aWVjYWU2RG5rV09rUFJ4S1dkWUI0Q1dwYWdNSG1OSlFoQzVQVGtnSF91Q0RTbmJ4MjlIQUpreDc5Q0JhNkRuUTR5TVQ2WGRBd2toX3Q4ZEZGRlRmT2IxbDRBYWVfQ2QzblNta1VQQ2RISlFZemQwNDlZTWl0RFF6eE5FMm5BbVpiRmdpakUwNFZWcjNSV01SRWd1R0R2djZIaVdkT1ZHcnZ1d3ZoalFQM09fR094eXFaaGJoWEk4TW5TMXZMb1c2ZEtub09GQnU2Tzd2ZzVVOHVjTGVnQkpKOHFHMEpJcW4ydC1NLVdDTjJJZzcxLUt3d1Y5bw?oc=5>
 
 ### 2026-09-21 16:44  (13 条)
 
