@@ -1,80 +1,82 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-21 20:43**
-- 本轮扫到 12276 条, 新增 **8** 条
+- 最近更新: **2026-09-21 23:45**
+- 本轮扫到 12283 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (7 条)
 
-### 特朗普政府提议拨款50亿美元启动投资基金，重建海湾能源设施。
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: cj.sina.cn
-- 时间: 2026-09-21 19:11
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1oNEVtekszaVdJdUtQSExxY0pPX3pLWFlNNURXcjYxUDFxbEdoZ0dQSEg3RWpjYXVoM3JNVnlQM1JGa213bHQ5NWhBQQ?oc=5>
-
-### 27名民主党议员致函特朗普总统，督促继续严禁中国汽车入美
+### 特朗普：我今天会召开关于伊朗的会议。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-09-21 20:11
-- 链接: <https://news.google.com/rss/articles/CBMi8AFBVV95cUxPUE0xOWdJSWRUcW1lc19HMkpjTkwtNlN5MmYycjdhUUtDWWdkelJ1azRpM05VU3JEVHAtd3o4bXVFZzI2MVB6SUN0MTJ3LXBmOWthT1RvNS1UanNyQkM1UUhIVmRuYUVjRTNPa0xDREtCTmw0TnJQeFoxZTlTNDA0TVJXbHJyb0ctZG1xdUFVd0RpUndmcEI5WlAyVkFocjRrcHpob2h5SDZNYV8xTHZtZ0FtUXkzX2libGxQb0JOYk82Vi0yR056Z1BMTVd0SWxEZW01d3BsbzROUlVoVnhDZ1dIODFKNlVDZ2hET3FtTFbSAfMBQVVfeXFMUDgtdjRHX2JubEp0SkE2TWw2VVdFYXRna21BdEcyckhPNWp1ZkJjbEhuZVduLUh6U19aaEFUNV9PN0MtSlRTd2c1X20yODhzQmFFZEJPdGhuOTlJTlJtS29VQjJHU2t1U0dhQkZKS1Y2UzhjMDJhR3MxS0tUV3l4RHhFWFh5ZmwtbHlHZWMwenIwYTh3NHVuRkh4OVhxYjAwMkN2RnRILTNYc1plN2NJeWNCUEtoZGU0VmRQRng3TnZnbGZUckotUjFGWUhSN2UyUE8tS2FOZjczQ1hQX09JZWc1dDdYMnE3ZFFIR1QwU1BnMHg4?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-09-21 21:23
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFB1VkxHM3RkREFzd2RncmFnZ2FwamFMYnROTVBManJkRmVZamxGT3BNRDdyS1lRcnZOQU4ydGdzcHJYYjd5NlJxeTA4dw?oc=5>
 
-### 市场消息：特朗普支持......_7x24快讯_新浪财经
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: cj.sina.cn
-- 时间: 2026-09-21 18:11
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE8tQnZYWGNIZUozSElQa0Y3YTh0ZDh2S3VYaVdScUt5cnBXVHhfSzdBUFhFVWZmN1lfY01HdzBvWlVhSGl3bUdPa3dTTQ?oc=5>
-
-### 各国领导人齐聚联合国大会之际，特朗普称俄罗斯已失去对柴油行业的控制
+### 9月22日外盘头条：特朗普称只会鼓励AI发展派拉蒙天舞就相关诉讼达成和解Meta智能体火爆刺激芯片股大涨
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-09-21 17:34
-- 链接: <https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUFlQdjUtemswTl9PTlpCYWpWOUVEN295cHdzNnBDRWFQQTduNFRmNEJNNmozU0lHaFRWbDAySnRDeVp5MHdtQ1VwU2JvNWFrNWgxaVBQVmxfdmhQb0o5MmRtel9xcEJzdHlKWUFBcm9EQjVHREhiREdYTWtfdVBIYXlQNFIzM3BYa0pIV2NEU05MRnZveThMYTlQZXcwVnJQaDVFMm1PYldqOGZlYkpCUThyRi1CdWprWHhKMm1MQUdvTXVnaG1aYWNzUzFMa2M0QW5OcUUyU2hCWHRNOHZDMFJIZ9IB5gFBVV95cUxNck82M0YyR1RqVGZ2LVlKaWRvY0FzdmlyemI1ZkYxVEdaaEk2TU50Q1lnWE83N3N6VXdiRWp2TW5fcVhLZTZmU2VrNWd5N0VxaV8wZGRLLWgzeks0MmlHWVRhUk94bHpDMl9kS1c0bERacGdzN0dVcUtaVU1iVmtKMkdhSnk0NWFfNS1WYWVmMmx6VFdFTDJwRHJ3T2YzSmtsLXlPR2pMYmdWTXItR0NOZFo0YXhtV0Mtd0NybmExdXdSUHlDcVBUSkJUcURSeldrbHRRSXdYQjZCUmdMQmszODJpOUJMZw?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-09-21 21:46
+- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE43QmVIMXRud0dTemFTcW5hSWlZNzFaWmhRZE51b3UtMG1GLXBEWnBMSjFmUkNBbFZ6c09OaENLWUp1MnRBN3U0VWE4VE5PXy1YX2U2cXRTaURGRTlWYVZsdEJ0cjBmUkhjTmN2N0Fjd182cVFzMVd3dGRn?oc=5>
 
-### 泽连斯基预告：将在纽约与特朗普会面，这次或有重大改变
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: finance.sina.cn
-- 时间: 2026-09-21 17:29
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE4xcGhQY0x1NWE3aTQ0V1pfclhtbURvVGpsVFdNZnhnTjNpYkE5U2dZYjhwUFlBRThVR0p3TkV5MEhNanJ4RDdnam1yR002VVZ5OFE4eW1hUTFvNVNMZElnNHZBaDBsaUs2RjJtRmRzWEtVZEtWa2p2aQ?oc=5>
-
-### 特朗普施压泽连斯基：停止袭击俄罗斯炼厂，“都是柴油、柴油、柴油”
+### CNN等三家美媒，决定起诉特朗普政府
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-09-21 11:26
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBObk1wb2M5TVEwcFM2djRaQTNNQ1g3TDNyVmUxWWtvYWlRcGZDOE1SZGxBSlRpcU1SVVdVbjhuNXRVYjRYT0Y0OXhQblBqbFpITnUw?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-09-21 13:18
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9qekJwRUNDX1NnN0ZqdG5RUHk0MXBqaG5ZVmlOVnNGSUVNY0t4VDBJOXhHWEdKb3Nrc0lWY3A5dENYeXQ2b0VvekxkQ3J1SnEzVlpkNkdmbWE4Z2FPYkVyWkZmZHVULXpuYzdMQnNGMGJ2bnJ6cnhJSA?oc=5>
 
-### Trump: 'We Will Be Careful,' but 'Only Encourage AI' -- WSJ
+### 特习峰会将至，被推迟的140亿美元对台军售命运如何备受关注
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-09-21 16:39
-- 链接: <https://news.google.com/rss/articles/CBMingFBVV95cUxQNEhmeFFIXzlLYTFIUXRjWXNTLWNYdnIxY3Mwb3VlY0RRdVZZVTdudWcwZDZkOVlZcGJuUzdqb3phYWFaWEl5UFNHdlhBd0x3eER1N0JIYkxPblJBRlg3T3RyUHZPQ2hrdHNaelBwWlJHLXFnZi1MNkxselhwS0tzRXVrbnprMzFiakZqa2tJQmxzQU1lRE5zMnN4RmNRZw?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-09-21 22:40
+- 链接: <https://news.google.com/rss/articles/CBMisgFBVV95cUxQQVVicmxLWXlJdG10aGRYTzFUQTY3c1RrLXhMWnVCdEdUUlVnaXIzeC1hakFOenUwVHl1WFBOLXBUUkxBWkZ3bm53MGd2bjgzLVlibjJUM1RMQXVjV3pHaFdZOEZ5QmxjSVZRRTREWHJ2VjNGdXRpazFqVjhuVmdwcWZYcEZjVmR0VlhQWUQ4V3hlQUliTXl3TnpOZGxPQWRQRkpwWFFoV0V6aTFEMVR3dE1n0gG0AUFVX3lxTE1qRWlxRTBLU1B4NkpyYWIyWndFNWpXTjR5Y3NlUjRtdDRfcEM5LTQ4VHlQNGlGc1liWE9wUWRsX1BpWXhaYzBUNktPb3d3VFgtT2hrWjllQ0g2TmVrTW81eE1PTnk3RGNzVHRjanZGYlJwV0JvVzEyUnFLWXJZYWY4TWJXWE94MEFMbkRINW9yQmhqNHVfaUpndGZMcGVUdkVxU0Q4N2g3RWVsUnF0MnFlX1Y5aw?oc=5>
 
-### 美国五大电视网停拍特朗普活动
+### Trump VS 丁俊晖，孰强？
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-09-21 18:04
-- 链接: <https://news.google.com/rss/articles/CBMihwJBVV95cUxOUUVhaTF4ZGEyNGw4aWVjYWU2RG5rV09rUFJ4S1dkWUI0Q1dwYWdNSG1OSlFoQzVQVGtnSF91Q0RTbmJ4MjlIQUpreDc5Q0JhNkRuUTR5TVQ2WGRBd2toX3Q4ZEZGRlRmT2IxbDRBYWVfQ2QzblNta1VQQ2RISlFZemQwNDlZTWl0RFF6eE5FMm5BbVpiRmdpakUwNFZWcjNSV01SRWd1R0R2djZIaVdkT1ZHcnZ1d3ZoalFQM09fR094eXFaaGJoWEk4TW5TMXZMb1c2ZEtub09GQnU2Tzd2ZzVVOHVjTGVnQkpKOHFHMEpJcW4ydC1NLVdDTjJJZzcxLUt3d1Y5bw?oc=5>
+- 场馆: video.sina.com.cn
+- 时间: 2026-09-20 12:51
+- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxONVJOaXR5TkZfZmtKYzFWdEtPaUJlNjFkZWhCRXloRVJISkhOcXNPYkI3ZWktYTYxUWQwU1ZfRmtJc1l4b2lvRnYxZGdtTTY4WFp0M0JQcWtsR1d0RU9fNEdmdE16TkwwZTBDWDVDUXRDR1Vfamg5Q3N5endHeDVoWWpB?oc=5>
+
+### 【直播】川普電視：要聞頻道（首播）
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 新唐人電視台
+- 时间: 2026-09-21 23:22
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE96cUhhZWVUd3lBNWNJQXNBNzFVaGoza05sRlZqV1hTM3pEdDRzRHRlTDBLYjdQa3dHUTlpYWJ6TGFfXzlvT21tUjNIbWlWenMyRjRBc2FjSWFUa1JseXFxTtIBZkFVX3lxTFBpLXFZeVA3YnNlaEtBaFc0dmJHRXh1cE1fSk50VmFsOTJIeENpbUpqc053X0dIeVotWEQzbUdwakl5WUJIbUtyZUZhMnMxNS1iUzg2UDN1WV9JRU15eGhUYTZvQ2U0dw?oc=5>
+
+### Des médias américains se mobilisent contre Donald Trump / Allemagne: Friedrich Merz fragilisé / Visiter Venise va coûter plus cher...
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Le français facile avec RFI
+- 时间: 2026-09-21 18:53
+- 链接: <https://news.google.com/rss/articles/CBMizAJBVV95cUxQU1QxSFlLdC1SbHhpTWszSF9POG9mZjhhbWFVSVlJRnRoOWU3Q0JUUnpERThWREJ1VXozajFzOV9Qd2tUYW8xZzNTZERQU0s0QkdMNHAyY3RCa3ZEZ1dnelMtSHkyQTJ4eVQ0YjZEcm01X3ZVb0diOHBneE5KcURwRkVYLWx2VWdVUUprS3hZNi1fNGo0RlJEVkJKeE96d0dpYndFR2lIU1hnTkozaTJWMG9mQm8wZVdHUnJGTjY5WktsOUNON2NZam00bFpZT1ZHTnN4YTloWnRLM2FyQk1qLS1ISmRXMEJIWHliMm9PM2RTNGRKTUpjdTloYVVXLS1naDFkYllQVGFPRkhKX3BuYVl3SHNBM0VMRnhNUnBkR2thRHNZZHd5R0pqV1BxaU1zT3BlYXIyS29BRkJLN3hTZDBOWjNUaFNNZGhzRA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-21 23:45  (7 条)
+
+- **特朗普** | 特朗普：我今天会召开关于伊朗的会议。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTFB1VkxHM3RkREFzd2RncmFnZ2FwamFMYnROTVBManJkRmVZamxGT3BNRDdyS1lRcnZOQU4ydGdzcHJYYjd5NlJxeTA4dw?oc=5>
+- **特朗普** | 9月22日外盘头条：特朗普称只会鼓励AI发展派拉蒙天舞就相关诉讼达成和解Meta智能体火爆刺激芯片股大涨 <https://news.google.com/rss/articles/CBMiekFVX3lxTE43QmVIMXRud0dTemFTcW5hSWlZNzFaWmhRZE51b3UtMG1GLXBEWnBMSjFmUkNBbFZ6c09OaENLWUp1MnRBN3U0VWE4VE5PXy1YX2U2cXRTaURGRTlWYVZsdEJ0cjBmUkhjTmN2N0Fjd182cVFzMVd3dGRn?oc=5>
+- **特朗普** | CNN等三家美媒，决定起诉特朗普政府 <https://news.google.com/rss/articles/CBMieEFVX3lxTE9qekJwRUNDX1NnN0ZqdG5RUHk0MXBqaG5ZVmlOVnNGSUVNY0t4VDBJOXhHWEdKb3Nrc0lWY3A5dENYeXQ2b0VvekxkQ3J1SnEzVlpkNkdmbWE4Z2FPYkVyWkZmZHVULXpuYzdMQnNGMGJ2bnJ6cnhJSA?oc=5>
+- **Trump** | 特习峰会将至，被推迟的140亿美元对台军售命运如何备受关注 <https://news.google.com/rss/articles/CBMisgFBVV95cUxQQVVicmxLWXlJdG10aGRYTzFUQTY3c1RrLXhMWnVCdEdUUlVnaXIzeC1hakFOenUwVHl1WFBOLXBUUkxBWkZ3bm53MGd2bjgzLVlibjJUM1RMQXVjV3pHaFdZOEZ5QmxjSVZRRTREWHJ2VjNGdXRpazFqVjhuVmdwcWZYcEZjVmR0VlhQWUQ4V3hlQUliTXl3TnpOZGxPQWRQRkpwWFFoV0V6aTFEMVR3dE1n0gG0AUFVX3lxTE1qRWlxRTBLU1B4NkpyYWIyWndFNWpXTjR5Y3NlUjRtdDRfcEM5LTQ4VHlQNGlGc1liWE9wUWRsX1BpWXhaYzBUNktPb3d3VFgtT2hrWjllQ0g2TmVrTW81eE1PTnk3RGNzVHRjanZGYlJwV0JvVzEyUnFLWXJZYWY4TWJXWE94MEFMbkRINW9yQmhqNHVfaUpndGZMcGVUdkVxU0Q4N2g3RWVsUnF0MnFlX1Y5aw?oc=5>
+- **Trump** | Trump VS 丁俊晖，孰强？ <https://news.google.com/rss/articles/CBMiggFBVV95cUxONVJOaXR5TkZfZmtKYzFWdEtPaUJlNjFkZWhCRXloRVJISkhOcXNPYkI3ZWktYTYxUWQwU1ZfRmtJc1l4b2lvRnYxZGdtTTY4WFp0M0JQcWtsR1d0RU9fNEdmdE16TkwwZTBDWDVDUXRDR1Vfamg5Q3N5endHeDVoWWpB?oc=5>
+- **Trump** | 【直播】川普電視：要聞頻道（首播） <https://news.google.com/rss/articles/CBMiYEFVX3lxTE96cUhhZWVUd3lBNWNJQXNBNzFVaGoza05sRlZqV1hTM3pEdDRzRHRlTDBLYjdQa3dHUTlpYWJ6TGFfXzlvT21tUjNIbWlWenMyRjRBc2FjSWFUa1JseXFxTtIBZkFVX3lxTFBpLXFZeVA3YnNlaEtBaFc0dmJHRXh1cE1fSk50VmFsOTJIeENpbUpqc053X0dIeVotWEQzbUdwakl5WUJIbUtyZUZhMnMxNS1iUzg2UDN1WV9JRU15eGhUYTZvQ2U0dw?oc=5>
+- **Trump** | Des médias américains se mobilisent contre Donald Trump / Allemagne: Friedrich Merz fragilisé / Visiter Venise va coûter plus cher... <https://news.google.com/rss/articles/CBMizAJBVV95cUxQU1QxSFlLdC1SbHhpTWszSF9POG9mZjhhbWFVSVlJRnRoOWU3Q0JUUnpERThWREJ1VXozajFzOV9Qd2tUYW8xZzNTZERQU0s0QkdMNHAyY3RCa3ZEZ1dnelMtSHkyQTJ4eVQ0YjZEcm01X3ZVb0diOHBneE5KcURwRkVYLWx2VWdVUUprS3hZNi1fNGo0RlJEVkJKeE96d0dpYndFR2lIU1hnTkozaTJWMG9mQm8wZVdHUnJGTjY5WktsOUNON2NZam00bFpZT1ZHTnN4YTloWnRLM2FyQk1qLS1ISmRXMEJIWHliMm9PM2RTNGRKTUpjdTloYVVXLS1naDFkYllQVGFPRkhKX3BuYVl3SHNBM0VMRnhNUnBkR2thRHNZZHd5R0pqV1BxaU1zT3BlYXIyS29BRkJLN3hTZDBOWjNUaFNNZGhzRA?oc=5>
 
 ### 2026-09-21 20:43  (8 条)
 
