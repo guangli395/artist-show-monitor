@@ -1,90 +1,94 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-20 22:06**
-- 本轮扫到 12212 条, 新增 **10** 条
+- 最近更新: **2026-09-21 00:21**
+- 本轮扫到 12221 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (10 条)
+## 本轮新发现 (9 条)
 
-### 王俊凯唱新歌时为什么说最紧张？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849295_1d5acf54f06801kes0.html>
-
-### 王俊凯新歌《那页夏天》何时正式上线？
+### 周杰伦vivo真实体验：从MV主角到记录者
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849295_1d5acf54f06801kerw.html>
+- 链接: <https://k.sina.com.cn/article_7879776730_1d5abd9da06803ul56.html>
 
-### 周杰伦作曲王俊凯作词，新歌《那页夏天》首唱
+### 王俊凯演唱会首唱的新歌《那页夏天》由谁创作？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849295_1d5acf54f06801keru.html>
+- 链接: <https://k.sina.com.cn/article_7879849295_1d5acf54f06801kesg.html>
 
-### 美国和丹麦都宣布“赢了”，特朗普的格陵兰岛协议有哪些变化？
+### 王俊凯新歌《下一天》与周杰伦编曲人林迈可如何合作？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-09-20 08:56
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ZcFlKSWtTV0xxRUdwbWJra3lEU3lRd0NtWWJfOXF6eVNoc2lZVDRIbUZ3MVhtWVNLbnFxOWF6alJ2TUpoVV8xSTBNOWk?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879849300_1d5acf554068014bas.html>
 
-### 特朗普虽然拿下格陵兰，俄罗斯却在虎视眈眈
+### 特朗普称将组建“AI部队”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 文学城
-- 时间: 2026-09-20 21:27
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9SZnAyQU9Gd3ZBSXZ0QW4zVFhSaG5oU1d3cDdxQXFURTB1Vk1JRmNTMC1fUVhDanVVNkN5eE82NllxQVRyRkNhaGJ6aEJ4enRQbUtwWGxGYVdwRlptMkxnQ1FadW5yZ2tV?oc=5>
-
-### 特朗普中期选举前景生变：传统“红州”告急，拉美裔支持度下滑
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-09-20 12:25
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9fQmlYOWtkd3BmMW5DYXJkNTBwQTVkaU1Jc1FlaVowLTZKazdReVc0bkQxckFNY1U1RDNXVXhQSjhfeGVOcm9vOVNTalA?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-09-20 22:45
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1IaDROSUZvdnQ4V3NQR0s5aGJLekdOaWdHTVdBdFQ4X0doUXJJQkxDc1ViQXFSMDZCelJmVF9GZU1mOVc3bk42ZENoV0p4TVdUZkExQVloOFJJSHFEZjZ6RV9FbUxmTmZiUDFFTUhlTERtWHFwV1pCTg?oc=5>
 
 ### 特朗普：也门胡塞武装同意不与美国交战
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-09-20 14:40
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFAtVjhIaldtYVdVQW1abkxrZVlLdHAwRGJHbkwzemRtOUNwbTdfdGhZa1ptYjhhV3FSN0IxbkVqWG1tMkNrNGIxbm5qT3prODdBMlhFek1BYUhZMWkxQ3VqWm5BYjlpNEpOajJtSUxjTlFzTGthRjFjWg?oc=5>
+- 时间: 2026-09-20 15:20
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE50RlBKWXZLTHpBU0RNZHpvNFNDWFBXYjRWSF8yZHJ6RUwxdHJoM1JQT2cxRXp5Zm41b0pMTUhscFI2WERDLVZ3LXhhZw?oc=5>
 
-### 特朗普签署对俄制裁新法案
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-19 23:32
-- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxOZTZhblN1QmxnNkVXYmdEekdNUEw4OHdmOVY4VmpISUZxZVFxYmFQRW5Xd1EtaHdycmtkX2JjNGF1SXJtb09BTk5UTmFIUUlVRGI4ajVubXJFVldLbEdkZGdacW1OQnl1bU9NQWRLd1JkN3VWUmtrYXpoaFdfdFRQWjY5MS1RQVlYOFA3c0tPdVVhcVdUQXhwN0I1UkVqZUpxSzJWcE5KbVVndHkyZThVWW81R3d5LUU0Q3lCSTVpQkF1Ym9HaUNBMmxveklyNk0?oc=5>
-
-### 急眼了！美国六大汽车协会致信特朗普：禁止中国车在美销售
+### 美国能否击败胡塞武装？特朗普中东困局持续加深
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 驱动之家
-- 时间: 2026-09-20 12:41
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LSER1YnkwcGNvUVAzU0dWbW1vcjlpeC15MWg5bUZad05UZzVjYnhNUXctOXJkbmdnbHVQS0RnaVdNOHJQSm1Gc3VvaEJoVWFSeHZScG5HUTI?oc=5>
+- 场馆: video.sina.com.cn
+- 时间: 2026-09-20 23:55
+- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxNTDdTdHlXME1fTlY5anRSemZEeVZJZC1VMkxVbnMxa3NMUVpuandHcHgyYUh6UWU1dl9JVXNDZ3lWdFZLQ2szM2ZfSmVZRUpHdEhwM1BlcTBZYllGMF9jQ3hfenJ6dWlJWnlpV0c5bTdaNWFVMUxVdFE4RmdVLWJ3cXRR?oc=5>
 
-### 伦敦祝贺丹麦达成格陵兰协议
+### 特朗普：也门胡塞武装同意不与美国交战
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者网
+- 时间: 2026-09-21 00:08
+- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxPYkgzZ0w5QjVtdUJsbzFMd1E2a3BsNjl1TnByaV8zODJ2MUJHS0R2Z2tSZDRRSkRsQUd1eXpwTmR1enRCV2RpZjl2TWVGcUhBYzBQMUZ6cE5DR3Bha1BXR19oZTBmSVJ0MmhCcDROdlY0ZzdlNElfSFkxX00wNElweGd5SQ?oc=5>
+
+### 要闻分析 - 特朗普觊觎加拿大和法国领土，马克龙与加拿大总理宣布将加强双边关系
+
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: RFI
-- 时间: 2026-09-20 20:09
-- 链接: <https://news.google.com/rss/articles/CBMi-wFBVV95cUxQMGlYY3ZKeVhqMlh0RnkwM0daV3B5c1BkWHpFQ3F0bE9KVGlodnU0cXd5cHdfY19jUVJSQzJhanN3REIxY1A3MWlQNFFpZEl0ZFJTR1N1aFNpendmY1hvdC1KZ21WQkV0aUk0Y19wZWk2Tk1tSkhMU0R4UUVXM2g4c3Yxc0RVNDQ4cENaalNGVlZnYkwzbUhDYlVDQ1RGU0wtSFNsSndacWJLak1MLS15RVh3VHc3bC01US1WRDRCWTJDMDFJZUFsc0oxVnA0OHZDXzZFc3I2X210dHNSM0pMMlFVdm1SNkVEX05xTThZVDZ1dVZnTGlCclFZSQ?oc=5>
+- 时间: 2026-09-20 23:37
+- 链接: <https://news.google.com/rss/articles/CBMiqARBVV95cUxQQngtb0NKd2pYeE9UMzBjcUFJSHNzVnZzc3M2VHNPTFYxMXJhQTZydDhJMVpJNThfTGpKMGFHb1ZVRV9GbVZtTGVSU29iZnJpYXU3NkxSczQ4VllKQ1F2R3FuUm9BdkRxMnhOVFk0NWVhY195d3lQSVNjc3hhSjNDYlVDZk5YMmgzYlI0YjNTaFM2TU94bU0tSlpxSW5VRDhzdWo5aTBudE80cURka2hEQmJxWXFWLTk2dng1THYzdWtHMkhsemxPa19VVXlFaVNBa2RRWTUwQUNNUjVpaS1INWgzUjBSVFNJVXVsR3ljN2Z5ZHd6UGNlSm85ajJQMi16dFJ6R3B6dnlyT2xrUTdOa3ZQWGQwQVd1RVpQdy1UTWZaQ2Y0MWRkSjlUczA1YUlCS3Q0YzNvZlNFUTdvc3pxRkpYa21WY2VRamxuSUVLaDJ3cGlkZ1lCRTk2SzdSQ0FiekstcmxxV2NaSzhIQTlWc0ZuTzFEQ2VxSG8zMUtoejh5NVRORGVFRTFSY1JyWU5UNmZGbnVwSVpfeFQ1d3p3TzdXQ1YzRjhwTk5GTTV0Zk1zeG81MWlDSkFWNjVUcEtKUTNVNjFGekstRWszZzFBODB3U2I0VmtWV0ZDNTV0MEw4eXFGRUphRXFVcDVqQXVqSXotLThieEYzcjlieWIxck1yMm5Na2JDdWluaWxrZW9VNWdnWlVPQTR1RklZM19Lc1ZDX21BejE?oc=5>
+
+### 五角大楼“披萨指数”飙升！特朗普提前返回白宫
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-09-20 23:28
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1uMTBkSzU5NkkzWXdITVVVaTFMQl9TMlRGTTdnM1dsUE1Fc2NIcVU3VHZkblQ5a2NBNFJjZU5RRzZHVU1TV0l6SWI2a24?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-21 00:21  (9 条)
+
+- **周杰伦** | 周杰伦vivo真实体验：从MV主角到记录者 <https://k.sina.com.cn/article_7879776730_1d5abd9da06803ul56.html>
+- **周杰伦** | 王俊凯演唱会首唱的新歌《那页夏天》由谁创作？ <https://k.sina.com.cn/article_7879849295_1d5acf54f06801kesg.html>
+- **周杰伦** | 王俊凯新歌《下一天》与周杰伦编曲人林迈可如何合作？ <https://k.sina.com.cn/article_7879849300_1d5acf554068014bas.html>
+- **特朗普** | 特朗普称将组建“AI部队” <https://news.google.com/rss/articles/CBMieEFVX3lxTE1IaDROSUZvdnQ4V3NQR0s5aGJLekdOaWdHTVdBdFQ4X0doUXJJQkxDc1ViQXFSMDZCelJmVF9GZU1mOVc3bk42ZENoV0p4TVdUZkExQVloOFJJSHFEZjZ6RV9FbUxmTmZiUDFFTUhlTERtWHFwV1pCTg?oc=5>
+- **特朗普** | 特朗普：也门胡塞武装同意不与美国交战 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE50RlBKWXZLTHpBU0RNZHpvNFNDWFBXYjRWSF8yZHJ6RUwxdHJoM1JQT2cxRXp5Zm41b0pMTUhscFI2WERDLVZ3LXhhZw?oc=5>
+- **特朗普** | 美国能否击败胡塞武装？特朗普中东困局持续加深 <https://news.google.com/rss/articles/CBMiggFBVV95cUxNTDdTdHlXME1fTlY5anRSemZEeVZJZC1VMkxVbnMxa3NMUVpuandHcHgyYUh6UWU1dl9JVXNDZ3lWdFZLQ2szM2ZfSmVZRUpHdEhwM1BlcTBZYllGMF9jQ3hfenJ6dWlJWnlpV0c5bTdaNWFVMUxVdFE4RmdVLWJ3cXRR?oc=5>
+- **特朗普** | 特朗普：也门胡塞武装同意不与美国交战 <https://news.google.com/rss/articles/CBMigwFBVV95cUxPYkgzZ0w5QjVtdUJsbzFMd1E2a3BsNjl1TnByaV8zODJ2MUJHS0R2Z2tSZDRRSkRsQUd1eXpwTmR1enRCV2RpZjl2TWVGcUhBYzBQMUZ6cE5DR3Bha1BXR19oZTBmSVJ0MmhCcDROdlY0ZzdlNElfSFkxX00wNElweGd5SQ?oc=5>
+- **特朗普** | 要闻分析 - 特朗普觊觎加拿大和法国领土，马克龙与加拿大总理宣布将加强双边关系 <https://news.google.com/rss/articles/CBMiqARBVV95cUxQQngtb0NKd2pYeE9UMzBjcUFJSHNzVnZzc3M2VHNPTFYxMXJhQTZydDhJMVpJNThfTGpKMGFHb1ZVRV9GbVZtTGVSU29iZnJpYXU3NkxSczQ4VllKQ1F2R3FuUm9BdkRxMnhOVFk0NWVhY195d3lQSVNjc3hhSjNDYlVDZk5YMmgzYlI0YjNTaFM2TU94bU0tSlpxSW5VRDhzdWo5aTBudE80cURka2hEQmJxWXFWLTk2dng1THYzdWtHMkhsemxPa19VVXlFaVNBa2RRWTUwQUNNUjVpaS1INWgzUjBSVFNJVXVsR3ljN2Z5ZHd6UGNlSm85ajJQMi16dFJ6R3B6dnlyT2xrUTdOa3ZQWGQwQVd1RVpQdy1UTWZaQ2Y0MWRkSjlUczA1YUlCS3Q0YzNvZlNFUTdvc3pxRkpYa21WY2VRamxuSUVLaDJ3cGlkZ1lCRTk2SzdSQ0FiekstcmxxV2NaSzhIQTlWc0ZuTzFEQ2VxSG8zMUtoejh5NVRORGVFRTFSY1JyWU5UNmZGbnVwSVpfeFQ1d3p3TzdXQ1YzRjhwTk5GTTV0Zk1zeG81MWlDSkFWNjVUcEtKUTNVNjFGekstRWszZzFBODB3U2I0VmtWV0ZDNTV0MEw4eXFGRUphRXFVcDVqQXVqSXotLThieEYzcjlieWIxck1yMm5Na2JDdWluaWxrZW9VNWdnWlVPQTR1RklZM19Lc1ZDX21BejE?oc=5>
+- **特朗普** | 五角大楼“披萨指数”飙升！特朗普提前返回白宫 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1uMTBkSzU5NkkzWXdITVVVaTFMQl9TMlRGTTdnM1dsUE1Fc2NIcVU3VHZkblQ5a2NBNFJjZU5RRzZHVU1TV0l6SWI2a24?oc=5>
 
 ### 2026-09-20 22:06  (10 条)
 
