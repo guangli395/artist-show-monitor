@@ -1,82 +1,185 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-21 00:21**
-- 本轮扫到 12221 条, 新增 **9** 条
+- 最近更新: **2026-09-21 05:13**
+- 本轮扫到 12241 条, 新增 **20** 条
 
 ---
 
-## 本轮新发现 (9 条)
+## 本轮新发现 (20 条)
 
-### 周杰伦vivo真实体验：从MV主角到记录者
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776730_1d5abd9da06803ul56.html>
-
-### 王俊凯演唱会首唱的新歌《那页夏天》由谁创作？
+### 王俊凯北京演唱会落幕后…
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849295_1d5acf54f06801kesg.html>
+- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301ghjs.html>
 
-### 王俊凯新歌《下一天》与周杰伦编曲人林迈可如何合作？
+### 王俊凯「当·潮汐漫溢」巡演其他站的曲目安排
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849300_1d5acf554068014bas.html>
+- 链接: <https://k.sina.com.cn/article_7879849298_1d5acf55206801ai52.html>
 
-### 特朗普称将组建“AI部队”
+### vivo X500系列发布，周杰伦任影像大使
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-20 22:45
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1IaDROSUZvdnQ4V3NQR0s5aGJLekdOaWdHTVdBdFQ4X0doUXJJQkxDc1ViQXFSMDZCelJmVF9GZU1mOVc3bk42ZENoV0p4TVdUZkExQVloOFJJSHFEZjZ6RV9FbUxmTmZiUDFFTUhlTERtWHFwV1pCTg?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7096020433_1a6f4add106801omh6.html>
 
-### 特朗普：也门胡塞武装同意不与美国交战
+### 王俊凯27岁生日曝专辑细节，周杰伦深夜转发新歌力挺
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-20 15:20
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE50RlBKWXZLTHpBU0RNZHpvNFNDWFBXYjRWSF8yZHJ6RUwxdHJoM1JQT2cxRXp5Zm41b0pMTUhscFI2WERDLVZ3LXhhZw?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923373_1d5ae16ad06801fdcg.html>
 
-### 美国能否击败胡塞武装？特朗普中东困局持续加深
+### 王俊凯北京演唱会首唱周杰伦新歌，粉丝见证生日前夕
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: video.sina.com.cn
-- 时间: 2026-09-20 23:55
-- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxNTDdTdHlXME1fTlY5anRSemZEeVZJZC1VMkxVbnMxa3NMUVpuandHcHgyYUh6UWU1dl9JVXNDZ3lWdFZLQ2szM2ZfSmVZRUpHdEhwM1BlcTBZYllGMF9jQ3hfenJ6dWlJWnlpV0c5bTdaNWFVMUxVdFE4RmdVLWJ3cXRR?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857201851_1d45362bb06801ibdw.html>
 
-### 特朗普：也门胡塞武装同意不与美国交战
+### 王俊凯新歌《那页夏天》上线，周杰伦作曲
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-09-21 00:08
-- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxPYkgzZ0w5QjVtdUJsbzFMd1E2a3BsNjl1TnByaV8zODJ2MUJHS0R2Z2tSZDRRSkRsQUd1eXpwTmR1enRCV2RpZjl2TWVGcUhBYzBQMUZ6cE5DR3Bha1BXR19oZTBmSVJ0MmhCcDROdlY0ZzdlNElfSFkxX00wNElweGd5SQ?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7096020433_1a6f4add106801om46.html>
 
-### 要闻分析 - 特朗普觊觎加拿大和法国领土，马克龙与加拿大总理宣布将加强双边关系
+### vivo X500系列发布：拍照第一视频唯一，周杰伦任影像大使
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7096020433_1a6f4add106801om3y.html>
+
+### 中美高层纽约会谈 为特朗普习近平峰会铺路
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-09-20 23:37
-- 链接: <https://news.google.com/rss/articles/CBMiqARBVV95cUxQQngtb0NKd2pYeE9UMzBjcUFJSHNzVnZzc3M2VHNPTFYxMXJhQTZydDhJMVpJNThfTGpKMGFHb1ZVRV9GbVZtTGVSU29iZnJpYXU3NkxSczQ4VllKQ1F2R3FuUm9BdkRxMnhOVFk0NWVhY195d3lQSVNjc3hhSjNDYlVDZk5YMmgzYlI0YjNTaFM2TU94bU0tSlpxSW5VRDhzdWo5aTBudE80cURka2hEQmJxWXFWLTk2dng1THYzdWtHMkhsemxPa19VVXlFaVNBa2RRWTUwQUNNUjVpaS1INWgzUjBSVFNJVXVsR3ljN2Z5ZHd6UGNlSm85ajJQMi16dFJ6R3B6dnlyT2xrUTdOa3ZQWGQwQVd1RVpQdy1UTWZaQ2Y0MWRkSjlUczA1YUlCS3Q0YzNvZlNFUTdvc3pxRkpYa21WY2VRamxuSUVLaDJ3cGlkZ1lCRTk2SzdSQ0FiekstcmxxV2NaSzhIQTlWc0ZuTzFEQ2VxSG8zMUtoejh5NVRORGVFRTFSY1JyWU5UNmZGbnVwSVpfeFQ1d3p3TzdXQ1YzRjhwTk5GTTV0Zk1zeG81MWlDSkFWNjVUcEtKUTNVNjFGekstRWszZzFBODB3U2I0VmtWV0ZDNTV0MEw4eXFGRUphRXFVcDVqQXVqSXotLThieEYzcjlieWIxck1yMm5Na2JDdWluaWxrZW9VNWdnWlVPQTR1RklZM19Lc1ZDX21BejE?oc=5>
+- 场馆: dw.com
+- 时间: 2026-09-20 18:41
+- 链接: <https://news.google.com/rss/articles/CBMirgJBVV95cUxOLWR0RVp0N056QzRDOExKdER2Y2MxaE92dC15VjNUdW9yUXItQ3puZEpFbFRoalFnOGg1cUlFSGdkN1ZfbXdkV2NJQkNEU2NHbkFWTHI0aFNmbFpEUGloWm5Ca0FDU3JMTks3NnROYURQaUpPWkxNOGJyUGhMcjVkWmJxRXZNRWJPYjBLNmU1RHZLcDJfdE9QUHkybWRvd0tiT3VwSFRfNGZ1VExlUkdNaHZ4SHZYcy04NTdIdy1YSEtpdnVQcEhrLTRXS1o4VjdhaWNMaXloTG9uRlVUc2pseV9QalJZSkFrX3YycFllMElwYjlocU1iQmlpRUlfNkNsU2liY3VNd0JtTk5DS19wbEtwNGJ3amhVTTRQclN0YTJBQk51WGpGZG90TTJzZ9IBrgJBVV95cUxNSWV2YkFsWFNVYW4xdjBzd2pMbW9GQktJc0dFRHJVV2UycGoxb0lXWjI4Vy1VTzJMT3QtOGpkLXBxWHg5Wi1RMUR5bmNkaFA1dlNRSVdWSXVqMlhXUjBZNDRWTmxKd0UzY29TMEp0ZWFFRnc5d053ZnNUd2NYNnd4RWE3ck5JMWhsanA3SUVORmFlVl9sRXZuMFFkMGRzRlUweDgwVUR6aXc0TnRvcUVBSUZ2X00zN0NjT3BRamNhMWFjOG45bFdiVk1pU3FxTmlJU1FkLUJMTEpzMFEtZ3g0cWdhZFBLWHF4MWROM2RWRWJsWmEweVNXMTlkTm1jR00tZmhQYjE1Z1I5Q255bndnUnlpckQ3WTBkTGY2SHBpby14RzU1ZUlOTGdjZmpFZw?oc=5>
+
+### 特朗普向金正恩示好，习近平或借机“卖人情”？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: wenxuecity.com
+- 时间: 2026-09-21 03:46
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1aGdHRVllMFM5TzRjQ0tKdmozRnpIWnVuUkRncXhuNENkdzBwc25JZDhkcUM2TFpVcmFlT2JZd2hjc3F6bmhFb2FkaS1VSmhkNVNGeWNFVlZNeEdKREZQWEd6dE1vMWEz?oc=5>
+
+### 特朗普称美国将组建“人工智能部队”并任命“AI沙皇”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: BBC
+- 时间: 2026-09-18 09:48
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xZGEyTUFuSE9sUnAydy1OYnlJOWFhOWVCT2g4RTA1T3FySS1vbjlTUWhVcVM5eFJoVzBjOG1tU3FXSXlVV1lxbkVpTEhFV3ZsbXFqT2FXU2s0ZFBnLTQtSmN0cURjekXSAWxBVV95cUxQblFJeGZxR3ZCQkc2dmNtNnhyUm1CelA5b1NnWU43R1Z2ZHlmaHl3bjFFTi15Yk15MUxmdnZZYndVMktFU1M5NEhhZmNqcUh3VWxuczIwamJTUGpmenIwZHNEVjFTVy05cWF2SWs?oc=5>
+
+### 特朗普称要给AI改名 引发网络热议
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-09-21 03:43
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFAtandDUjFGTlVYTUxoZmUzTWs0NWsyVjJMaFBqcjhGNENKNGpVQThyYXgyWWU3bTBNM2ZBcHZBeE00b3EzdWYtQVBpN2FGdnI0NXBkekdjNEN2VWxsODdRVVd2Wmk1T1lhSjR1c21BbTg?oc=5>
+
+### AI巨头呼吁“减速”，特朗普却一脚把油门踩到底
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-09-21 03:35
+- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE9mUXVfSUY5dGVpaU5nN2FGczlKeHRlU29ZNmI0NFpCV1FMdG13RXVCLWI0bDlOV3htZHRNMWxDZGlFal9MSlhZcDEzeEZ6SXBQ?oc=5>
+
+### 特朗普称考虑是否彻底摧毁伊朗 决策模式引关注
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-09-21 01:14
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZcHJ3R0pEUGQ3VlpGZF9DejJMaG92UUs0N1VpYjF5QkdmT3puQmR5M21ncGhyVGZ1WFl6dDZUOExhelZ4NWZuODY4dHFtMk50ZkhQdnI0LVZsNk9HOUhVOEFLX2NZTmx4dFZKWklQNDY?oc=5>
+
+### 特朗普称将对伊朗作出重大决定
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-09-20 14:28
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5MSVc0dkJocHE0UUNySEVGOUgwQXNuNDBOendiaFJqZi0wTFFkQmlTTjN1di13WTVXM2dyeEgzdFFYSUo1a3REMC1UYzlwYjdLdHJ5alFiSGhlVUZ6R1E2M0ppbkJNcWdhc1FXQWdlbGQ?oc=5>
 
 ### 五角大楼“披萨指数”飙升！特朗普提前返回白宫
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-09-20 23:28
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1uMTBkSzU5NkkzWXdITVVVaTFMQl9TMlRGTTdnM1dsUE1Fc2NIcVU3VHZkblQ5a2NBNFJjZU5RRzZHVU1TV0l6SWI2a24?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-09-20 18:07
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE9MakdzYnNJZ2pRcFMyNHMwQk1paGUwdHFkSnVvR1BCZ0hmTE1LajlpVnJBbUZwVlpPR0VnOHUwWENuUjhrRmMwVDdQVjh4RnpHTjhJUldqTGNxdVhsWDlKV3M3S0hkMW1VbnRsVFZYOHgxWE9X?oc=5>
+
+### 特朗普向金正恩示好，习近平或借机“卖人情”？
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 纽约时报中文网
+- 时间: 2026-09-21 03:14
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wUlFGMWpjYW93dkxiUFIwWU9kdjdnSmF6REpHSW00QlVyZ0ljc3VpOXByNlVKVDg4VGltR1lXWlplejBuRkQtSDROQk4wMHVJQ3NaeTFmZHh6M0x1dUJnbkM2ODV3SWc?oc=5>
+
+### TRUMP团队再次向BitGo转移了$1,800万的代币，过去两周累计转移总额达$7,064万。
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-09-21 00:13
+- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWHZZNUs0S3pEMWp4ZlpjX205ZzRrc0VvTGItV0pBYk5JREZRYVZBS0FtNTJELTVlZjJfVnV6bVQ4WVRfT2xWXzNZd0xSUlo0ZGFzNEdNUjhjUkJYdXFPOEtFakVMcjY3U2VUdWtVNWtURFZyWENiUHVtdVpsd0NWaHpidllXa083dzEtSmZXNW1xNnhrUkkxcm1DWTBYU2lNWFFIVmZDZ1JoZw?oc=5>
+
+### TRUMP团队将价值1800万美元的代币转移至BitGo
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: TradingView
+- 时间: 2026-09-21 00:01
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBxTUJ5U0lCdUhuU2pVWmhjQzhoR0JsMHdKZi1Dako5Z3UyWnF2dGdQWk45MXNNandvdWlucTcxemE3dThKUjVRQ3hTblp1M3ZqVUFhRGFlT3ZBZDZxZTZSQVk4ODl3ZFE?oc=5>
+
+### HSTECH rebounds while Nasdaq-100 futures advance ahead of Xi-Trump talks; Focus on 7x DLCs｜长桥证券
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Longbridge
+- 时间: 2026-09-21 04:08
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ERU9aVGVicF85LUJPSmxETDJxbHdfX01TYXRHcHhucEh6a0ljUDZkdTNrbnVSM25TcVBPQUctYXZwbXBQUFFrMkh6MkgyOU54N1BnZmlZOUpWSGlOT1l6OQ?oc=5>
+
+### $美光科技 (MU.US)$ 别惹Santa Trump[愉快]
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-09-21 00:46
+- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxNUHB5cE1MR2lxdEVsX3djSE9sMDBmQTFJWDNJX05CT3VaVnNHVFBFVzBtTVNRUGNic2hTSG9aVDVfUFZ5QjVrM1h6TjE0V19GamJUSXN4TWNZMXdSZVhBZFdKaUdUYXdSRTRFZ1RUd2tOZjFGU2pfYnR1dUVrTFUyWi1tckg3ZUJkelE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-21 05:13  (20 条)
+
+- **周杰伦** | 王俊凯北京演唱会落幕后… <https://k.sina.com.cn/article_7879924009_m1d5ae192903301ghjs.html>
+- **周杰伦** | 王俊凯「当·潮汐漫溢」巡演其他站的曲目安排 <https://k.sina.com.cn/article_7879849298_1d5acf55206801ai52.html>
+- **周杰伦** | vivo X500系列发布，周杰伦任影像大使 <https://k.sina.com.cn/article_7096020433_1a6f4add106801omh6.html>
+- **周杰伦** | 王俊凯27岁生日曝专辑细节，周杰伦深夜转发新歌力挺 <https://k.sina.com.cn/article_7879923373_1d5ae16ad06801fdcg.html>
+- **周杰伦** | 王俊凯北京演唱会首唱周杰伦新歌，粉丝见证生日前夕 <https://k.sina.com.cn/article_7857201851_1d45362bb06801ibdw.html>
+- **周杰伦** | 王俊凯新歌《那页夏天》上线，周杰伦作曲 <https://k.sina.com.cn/article_7096020433_1a6f4add106801om46.html>
+- **周杰伦** | vivo X500系列发布：拍照第一视频唯一，周杰伦任影像大使 <https://k.sina.com.cn/article_7096020433_1a6f4add106801om3y.html>
+- **特朗普** | 中美高层纽约会谈 为特朗普习近平峰会铺路 <https://news.google.com/rss/articles/CBMirgJBVV95cUxOLWR0RVp0N056QzRDOExKdER2Y2MxaE92dC15VjNUdW9yUXItQ3puZEpFbFRoalFnOGg1cUlFSGdkN1ZfbXdkV2NJQkNEU2NHbkFWTHI0aFNmbFpEUGloWm5Ca0FDU3JMTks3NnROYURQaUpPWkxNOGJyUGhMcjVkWmJxRXZNRWJPYjBLNmU1RHZLcDJfdE9QUHkybWRvd0tiT3VwSFRfNGZ1VExlUkdNaHZ4SHZYcy04NTdIdy1YSEtpdnVQcEhrLTRXS1o4VjdhaWNMaXloTG9uRlVUc2pseV9QalJZSkFrX3YycFllMElwYjlocU1iQmlpRUlfNkNsU2liY3VNd0JtTk5DS19wbEtwNGJ3amhVTTRQclN0YTJBQk51WGpGZG90TTJzZ9IBrgJBVV95cUxNSWV2YkFsWFNVYW4xdjBzd2pMbW9GQktJc0dFRHJVV2UycGoxb0lXWjI4Vy1VTzJMT3QtOGpkLXBxWHg5Wi1RMUR5bmNkaFA1dlNRSVdWSXVqMlhXUjBZNDRWTmxKd0UzY29TMEp0ZWFFRnc5d053ZnNUd2NYNnd4RWE3ck5JMWhsanA3SUVORmFlVl9sRXZuMFFkMGRzRlUweDgwVUR6aXc0TnRvcUVBSUZ2X00zN0NjT3BRamNhMWFjOG45bFdiVk1pU3FxTmlJU1FkLUJMTEpzMFEtZ3g0cWdhZFBLWHF4MWROM2RWRWJsWmEweVNXMTlkTm1jR00tZmhQYjE1Z1I5Q255bndnUnlpckQ3WTBkTGY2SHBpby14RzU1ZUlOTGdjZmpFZw?oc=5>
+- **特朗普** | 特朗普向金正恩示好，习近平或借机“卖人情”？ <https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1aGdHRVllMFM5TzRjQ0tKdmozRnpIWnVuUkRncXhuNENkdzBwc25JZDhkcUM2TFpVcmFlT2JZd2hjc3F6bmhFb2FkaS1VSmhkNVNGeWNFVlZNeEdKREZQWEd6dE1vMWEz?oc=5>
+- **特朗普** | 特朗普称美国将组建“人工智能部队”并任命“AI沙皇” <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xZGEyTUFuSE9sUnAydy1OYnlJOWFhOWVCT2g4RTA1T3FySS1vbjlTUWhVcVM5eFJoVzBjOG1tU3FXSXlVV1lxbkVpTEhFV3ZsbXFqT2FXU2s0ZFBnLTQtSmN0cURjekXSAWxBVV95cUxQblFJeGZxR3ZCQkc2dmNtNnhyUm1CelA5b1NnWU43R1Z2ZHlmaHl3bjFFTi15Yk15MUxmdnZZYndVMktFU1M5NEhhZmNqcUh3VWxuczIwamJTUGpmenIwZHNEVjFTVy05cWF2SWs?oc=5>
+- **特朗普** | 特朗普称要给AI改名 引发网络热议 <https://news.google.com/rss/articles/CBMicEFVX3lxTFAtandDUjFGTlVYTUxoZmUzTWs0NWsyVjJMaFBqcjhGNENKNGpVQThyYXgyWWU3bTBNM2ZBcHZBeE00b3EzdWYtQVBpN2FGdnI0NXBkekdjNEN2VWxsODdRVVd2Wmk1T1lhSjR1c21BbTg?oc=5>
+- **特朗普** | AI巨头呼吁“减速”，特朗普却一脚把油门踩到底 <https://news.google.com/rss/articles/CBMiUEFVX3lxTE9mUXVfSUY5dGVpaU5nN2FGczlKeHRlU29ZNmI0NFpCV1FMdG13RXVCLWI0bDlOV3htZHRNMWxDZGlFal9MSlhZcDEzeEZ6SXBQ?oc=5>
+- **特朗普** | 特朗普称考虑是否彻底摧毁伊朗 决策模式引关注 <https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZcHJ3R0pEUGQ3VlpGZF9DejJMaG92UUs0N1VpYjF5QkdmT3puQmR5M21ncGhyVGZ1WFl6dDZUOExhelZ4NWZuODY4dHFtMk50ZkhQdnI0LVZsNk9HOUhVOEFLX2NZTmx4dFZKWklQNDY?oc=5>
+- **特朗普** | 特朗普称将对伊朗作出重大决定 <https://news.google.com/rss/articles/CBMicEFVX3lxTE5MSVc0dkJocHE0UUNySEVGOUgwQXNuNDBOendiaFJqZi0wTFFkQmlTTjN1di13WTVXM2dyeEgzdFFYSUo1a3REMC1UYzlwYjdLdHJ5alFiSGhlVUZ6R1E2M0ppbkJNcWdhc1FXQWdlbGQ?oc=5>
+- **特朗普** | 五角大楼“披萨指数”飙升！特朗普提前返回白宫 <https://news.google.com/rss/articles/CBMidEFVX3lxTE9MakdzYnNJZ2pRcFMyNHMwQk1paGUwdHFkSnVvR1BCZ0hmTE1LajlpVnJBbUZwVlpPR0VnOHUwWENuUjhrRmMwVDdQVjh4RnpHTjhJUldqTGNxdVhsWDlKV3M3S0hkMW1VbnRsVFZYOHgxWE9X?oc=5>
+- **Trump** | 特朗普向金正恩示好，习近平或借机“卖人情”？ <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wUlFGMWpjYW93dkxiUFIwWU9kdjdnSmF6REpHSW00QlVyZ0ljc3VpOXByNlVKVDg4VGltR1lXWlplejBuRkQtSDROQk4wMHVJQ3NaeTFmZHh6M0x1dUJnbkM2ODV3SWc?oc=5>
+- **Trump** | TRUMP团队再次向BitGo转移了$1,800万的代币，过去两周累计转移总额达$7,064万。 <https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWHZZNUs0S3pEMWp4ZlpjX205ZzRrc0VvTGItV0pBYk5JREZRYVZBS0FtNTJELTVlZjJfVnV6bVQ4WVRfT2xWXzNZd0xSUlo0ZGFzNEdNUjhjUkJYdXFPOEtFakVMcjY3U2VUdWtVNWtURFZyWENiUHVtdVpsd0NWaHpidllXa083dzEtSmZXNW1xNnhrUkkxcm1DWTBYU2lNWFFIVmZDZ1JoZw?oc=5>
+- **Trump** | TRUMP团队将价值1800万美元的代币转移至BitGo <https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBxTUJ5U0lCdUhuU2pVWmhjQzhoR0JsMHdKZi1Dako5Z3UyWnF2dGdQWk45MXNNandvdWlucTcxemE3dThKUjVRQ3hTblp1M3ZqVUFhRGFlT3ZBZDZxZTZSQVk4ODl3ZFE?oc=5>
+- **Trump** | HSTECH rebounds while Nasdaq-100 futures advance ahead of Xi-Trump talks; Focus on 7x DLCs｜长桥证券 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ERU9aVGVicF85LUJPSmxETDJxbHdfX01TYXRHcHhucEh6a0ljUDZkdTNrbnVSM25TcVBPQUctYXZwbXBQUFFrMkh6MkgyOU54N1BnZmlZOUpWSGlOT1l6OQ?oc=5>
+- **Trump** | $美光科技 (MU.US)$ 别惹Santa Trump[愉快] <https://news.google.com/rss/articles/CBMiigFBVV95cUxNUHB5cE1MR2lxdEVsX3djSE9sMDBmQTFJWDNJX05CT3VaVnNHVFBFVzBtTVNRUGNic2hTSG9aVDVfUFZ5QjVrM1h6TjE0V19GamJUSXN4TWNZMXdSZVhBZFdKaUdUYXdSRTRFZ1RUd2tOZjFGU2pfYnR1dUVrTFUyWi1tckg3ZUJkelE?oc=5>
 
 ### 2026-09-21 00:21  (9 条)
 
