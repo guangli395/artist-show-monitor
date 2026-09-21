@@ -1,128 +1,126 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-21 10:55**
-- 本轮扫到 12255 条, 新增 **14** 条
+- 最近更新: **2026-09-21 16:44**
+- 本轮扫到 12268 条, 新增 **13** 条
 
 ---
 
-## 本轮新发现 (14 条)
+## 本轮新发现 (13 条)
 
-### 泽连斯基称将与特朗普在纽约会晤
+### 王一博为何选择舞狮作为见面会出场方式？
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879849298_1d5acf55206801aia2.html>
+
+### 见面会现场还有哪些传统文化元素？
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879849298_1d5acf55206801ai9w.html>
+
+### 分清玩笑与事实，刘畊宏辟谣，并不是为演唱会才被淘汰
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_3129566062_mba89636e03301coss.html>
+
+### vivo X500系列发布：拍照第一、视频唯一，周杰伦任影像大使
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7096020433_1a6f4add106801onrs.html>
+
+### 王源易烊千玺送祝福，王俊凯新歌《那页夏天》获评青春留白
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879924004_m1d5ae192403302aw3e.html>
+
+### 贝森特：特朗普政府不会为人工智能行业领袖提供“责任豁免保护”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-09-21 09:00
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBiaDZJZThrQ19ocF80bThkbVpZcjRRTFkxTk0zM0JxT0Y1eDEtTHBNTzU1ZnRqbU1iMHJpdS1wa2xoNkJXemkyZEFpeC1ibS1jeW40RDZsdkZldmxiZDh4akRXUjV1eVJ0cXRVaFBuVzVPZThtSUEyUQ?oc=5>
+- 时间: 2026-09-21 15:58
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxOa2RWbkRGODVpMnRHU1lVMnRHZnJCSVpqT0g4ajVLbEJsVFowN21fNkhoM3IzeXZKTWRNWHpaakl3NzR4Nm04S0syQXIyRUwybENwV09KQUlrMmZBSy1zNnFtSHgweUNtd21KckZHUVJRbmtIdG9KdHlTS3VnUXhXc3VBd1R4dXc?oc=5>
 
-### 特朗普敦促泽连斯基停止打击俄罗斯炼油厂
+### 记者：特朗普白宫的媒......_7x24快讯_新浪财经
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-09-21 10:28
-- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTFA0M2FBZVFRb0N4cGFLb1pkQi12NEVXcHZlRmFGMDdfaE1Kb3JVb2JDZFYwZzR6aWlHN2ctLThXcVN4T0haMmRfcjZIQVJ6WWhsUGFNQ0piY0tncHpTbFdkZEFBSHB2elRrYm1BZ1hxVWFha1JLaGhmQWd3?oc=5>
+- 时间: 2026-09-21 14:59
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5hRWZ5ME00bW83a3NjN1ZFWURWSExxWDBNWkZZdXZsdjBrREN4TzhaQXN2WVlmaVh0WTMyazd3aDFyak9XdFdZNVZ3RQ?oc=5>
 
-### 泽连斯基将与特朗普纽约会面，“可能带来重要改变”；俄美将重启双边会谈，旨在消除“敏感问题”
+### 胡塞武装攻占战略高地！特朗普据报临时叫停空袭，中东能源风险再升级
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-09-21 06:22
-- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxOS056d2Etd2o5eTItaElLUFB3ay0tLW9xOFppT3dGanlxT2U0UEo1Q1d2NjFIa3Q1b3Bwd1JSSm1TeGVpejFPdWJwUms3NDVPeTZDWXMzMXZOQ3BuazIwaVN1ZVpteTNBTkw4ZndWTUhsZGZMeWdtYUIxUU9fZEIxbFVkQXcxV2U4NjdN?oc=5>
+- 场馆: 华尔街见闻
+- 时间: 2026-09-21 16:09
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LSEJhc2FQRjFlcWE2SDcyUWhBUk5ZczI4VG9DUGRkaGNKRXZCb2VDRzZlQ2JIdTJjNk9NMmJpLXU3ZndTVjR6b2JwRndaZnRZYnFj?oc=5>
 
-### 特朗普拿下格陵兰岛？协议藏文字游戏，看似“三赢”实则一场闹剧
+### 美媒称特朗普下令空袭胡塞后又变卦
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-09-21 08:44
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE03MVhDRUMzNWtpbjlVaHJlYXZjUVJfUjVuSXlOcUpxTWI1NTBoTlZCeTBXSGdaUnk3Q0FILVNZaU1qMFF4Q2Nsb2llRXc?oc=5>
+- 时间: 2026-09-21 07:08
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9rOEhpN2F3aVg0Wkg5bnRZR190YWdCTnRnbUJRTEc2c1dQZ28yb2dLSFBwd2JfSVpyNTQteWlHU2VjOTlxU2YxWkktdks?oc=5>
 
-### MS NOW、CNN、Politico起诉特朗普，要求撤销白宫采访禁令
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-21 10:20
-- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE5BbW1ZT0hlRU9WRFBkRmFLbk9MTVpZQ1pUbVhkUm5icVlFUDZDRFVxMW1lM2tkc3M1dlY1OXAyRy1kcWp5akdNR1BDdzM5bUphNndLbVBwSkRNY2xCMTViM1dJRGgydnV1VUpBTmpKU0ZBUTZaTXhDbW5B?oc=5>
-
-### 特朗普：计划建“AI部队”、任命高智商“总管”，还想给AI改名！马斯克发帖回应
+### 战机挂弹却被紧急叫停！特朗普为何突然取消轰炸胡塞武装？-市场参考
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-09-21 10:11
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9Yd2pVU183SDV5d25mclJQaHhhUzlSVEh0WVRkWVlkV1E3S2U5QTA0MGdTenJEUkZWTEpPZnpmbV9La25HeF9mTG5RU0E3VURwOW9DUGRKYk13Q1Rmak80dnN5cXRTem1JLWUwb01nS1I?oc=5>
+- 场馆: 金十数据
+- 时间: 2026-09-21 15:13
+- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE5QTldER1JYQkYwRVBJckpIZHNCbzQ5WXFHeFNuZjdzRzNhbnljNUJjNWx5RHdvNU9tbjBLZTV3dTRYa0laMFlmemlvYTZsWTA?oc=5>
 
-### 特朗普称华盛顿凯旋门将兼作“军事综合设施”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-21 07:27
-- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxPSFh1OHdubmtLUkRwQTBDaFlORG5uMXI3d3gxMlpJblJyaTI2ZElxbWg2U2IwUkhMU2RaTDczcWtlTG9zWXVMd0dSTmNyVG9hLXVBZjBkdjUtRDVsSEdHbDAtUnE2LU5OTE9kLV9PY2NXeTBvYVp1eDNfeDhCaVdjaWhFQjZlRUZsbHc?oc=5>
-
-### 特朗普：美版“凯旋门”将打造为“顶级”军事综合体，存放大量无人机、弹药，并部署狙击手
+### 特朗普称获格陵兰岛安全“永久控制”，丹麦却强调主权不变-市场参考
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-21 02:44
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWWN5VjNlck9qWDhMMXZBZXVkWjJjb0FYRm5WWlpjMTd0dFFGTkpXZ1BuOE91Z1BpUTN4aU9CLUVOcTVBanZrVGY2dkdtZUJtenZSSmxrZ2gxZFdfTGFOeVBSQXpvbDdQYTFrZGJ3MzRZeFMydE1TSTRrRVJ5OHBWcXBYTWFVai1XVVNzSzFYcWREU25BeVExa0lud044dm5lRWdrN2kxZTl6YTZPOHBFTDhzb3NwR3Y2djd2TkktLUs3OTdab2ViR3NHVm5YY0Fv?oc=5>
+- 场馆: 金十数据
+- 时间: 2026-09-21 05:21
+- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0R09xcEh6V1BmZTlOX29TODFGSjZMaFNETHFOSTlNMnlPR1FyUnFFbUd5azloN2JrekczUG1XR0RJRThMVFZ4ZU1PZkJudDg?oc=5>
 
-### 中东和平现曙光？特朗普称将对伊朗作重大决定 卡塔尔称美国希望达成协议
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-09-20 04:29
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE5QR0JpcTA3ajFTUF9yT0ZmRWp1VG1YaXdUQkRWLUF0R1g5SUljWWhSc2ZlT0h5NEdLU1puanRUc1YwcGcwNGJSdQ?oc=5>
-
-### TRUMP团队8小时前向OKX转入275万枚代币，两天累计转移600万枚
+### 白宫内部关于人工智能威胁的复杂辩论
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: TradingView
-- 时间: 2026-09-21 03:14
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZUUxnd3R3VlpuWU1ocnl4WTZHaFFwSE1RbTZqUDZydVFJOTZnQXE3VVd1WlFwYzZFWTF3Wl9ib0tmMzNyVFdjTUVndWdBaGJJekQ0bzh3WWpQd0ZwRmREeU9iOFQzUQ?oc=5>
+- 场馆: 纽约时报中文网
+- 时间: 2026-09-20 19:30
+- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxPangyRXMzM19uakFMcG9sSTlOckl5OU4yWEZaYjlLQTIxV2pFWVpwU2dNVmM3WTRzZzhDeGptZGxjamtQSy1MWW40cVBycGlIN2t1TW5qOHVwYWhyZ091YkdEMnlOVUJrUVN5ZFlpbGlGbE1xa1Z1VEMyTUc5TndlWQ?oc=5>
 
-### 特朗普与习近平的峰会：一次例行维稳，而非重大突破
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: The Business Times
-- 时间: 2026-09-21 06:27
-- 链接: <https://news.google.com/rss/articles/CBMivAFBVV95cUxOVDU5ZG9lc0lPOG5ZUmZHS3hlbHJ3SFJfVUU5ZWFPZVZPNjQ1UWVLUHpvejlIZEhYRTVFOXZadTBScDdFc2RDOGg5LXJVUi1SUDd0ajhYcGwzbDJ3VUZIMm9yTG1HRGhxb2lFVkI4cGhjRG9CcGNpT2N4bV9DUkZpZWZ4Vnk4TFp1STIwNHVIeXAyR2p3VUs4Z3p0N2JxMHdWLUxhTDltb0FsS21PUXFJczRLOGloamRBZVp3MA?oc=5>
-
-### Week Ahead: Trump-Xi Summit, Fed speaks & PMI data
+### 白宫公布迎接习近平来访细节安排：总统接机、军礼欢迎、军机飞越、国宴款待
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: tmgm.com
-- 时间: 2026-09-21 06:04
-- 链接: <https://news.google.com/rss/articles/CBMingFBVV95cUxPc0UyVWJxSUJQcXVGSFpKMm5sYnBIQ3NaVDBYaW1uZmF0T0NvWWc2OEs3cHl0RWpLSTloS2dYR1g2aGtIRmFJTWRYT3dSNExXdmtPekMwN290VUx4ckMyekt2Y3NTQVQ5S1VpaERpallXNC0zMXFIOFgtOW13Mlg2Q0tJOFI5VVdLNUJTNVd1MElCQWwwZnZMeUJtOEM0Zw?oc=5>
-
-### 北京官宣习近平将于23日至25日赴美国事访问 峰会前中企再购美国大豆
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-09-21 08:01
-- 链接: <https://news.google.com/rss/articles/CBMiwgNBVV95cUxPeGxNNUxOTTlQOVJGd0NiaTRGUVpxMGthd2owNGM1SVZTcmpKUk0yN2RaQktTd2FOX0h6UVhxdUxEXzNVYUFuN3dvNG9tZE05Sk82MzRjbGFrei1feEVjZ2xRYkhnb1R4M1JmT2k0WXJkSVoyTEdKSzBOQlA5V0ZKNVQyYThpS2d4aG1pbDNUdmFad2xsdUFKd2ZTNFo2U2JvVUJWbk1CTUlleHhNYlJ1ZkR2X0l5RnlNcS1xSDQzRmJRakZ4LVpVZmp0Y0w4aHRoZUd5Q2syX0dDUm0tVWJMTExmZy1HeUk3NXlHWjlhbEUxejBFZEJJcHkwZGF2WWlBZXMtV2hka1dMRTMxNzhKUEpIQzVpRVpaUTBFbFpMc3V5OXVSSHNKcllQU3I4ekg3UHhRaHM2Sk9xT3B6MlRhYk1kamlydzJvdDJnQXdzMTl6NHVLejQ4SVFyMlB0eFIwT1JRRTRQc04ydmFZQVlBSHhUNXJmMjhGN09CQzlmbi1RM0FoM1k1NEhvVkpYajVfZ0tIRTJDYjZNNm15Y3JLa2hrYVdZeE5lWjhWYmpoeEZiSlBXa01ncG9FUEprQV83bHc?oc=5>
-
-### 在特朗普公布安全协议后，Critical Metals及与格陵兰有关联的股票上涨
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-09-21 08:52
-- 链接: <https://news.google.com/rss/articles/CBMivAFBVV95cUxQa0pnRG84c1RkbTBmNnJZdG9wYTNrQ0FraFp2M0dpb0pSYm04V1lQRXJ3cmNuUlpQUDhibUZqNGNSdXpDeEswUUV6ODZseXJzM2gtOW0wS0Jkb0JGRHhxX2RIMzNOWlNTNHAwdFJxU0pKMHpFeXZub2FaOXdtQVpJbFl2S29BYlA0VENiMi1GalNYSm5XUGU1NTRGQU1ldkVnNFJxWWtSd0tSY2ZTY29tcGVQTmhqM255WjVKcg?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-09-21 15:47
+- 链接: <https://news.google.com/rss/articles/CBMilwFBVV95cUxOaUNEc0lzb3FGTW1XcTA2RjYzMXZveXEwRzdjQnBDR2gzcjlDdEIyZ3g1T3RQRUpqdUgyMDlyTS02WU9NX3p6OFNSWWViajRicThPV1Iwc3dUR2p1ZWpUdWhEWGdwdUwwMUF2eDQ4VDRlV0hWckJTTk9vNGZVUzhPQW43NFJNaS0yRGFNUVFmM1YzbG9acjJr0gGaAUFVX3lxTE1UTHR2VHNPcWxCeVVScVl4U0o0bEtSRlczOGJDYmxvbTBuemptc0JtUjhsUUtvaW82eUFrRVlOaGd5OHlrMWwzSEdqdHMzdWdEZEFtbURHZUZyU0w0RmNLbWNhcHVqT3huM1MzTmUtanhzZ1ZtdGEtcDdzb0pQX3IybnB4VzFBVVF3UnVmUE1LS2phTU5oRlBOdmc?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-21 16:44  (13 条)
+
+- **王一博** | 王一博为何选择舞狮作为见面会出场方式？ <https://k.sina.com.cn/article_7879849298_1d5acf55206801aia2.html>
+- **王一博** | 见面会现场还有哪些传统文化元素？ <https://k.sina.com.cn/article_7879849298_1d5acf55206801ai9w.html>
+- **周杰伦** | 分清玩笑与事实，刘畊宏辟谣，并不是为演唱会才被淘汰 <https://k.sina.com.cn/article_3129566062_mba89636e03301coss.html>
+- **周杰伦** | vivo X500系列发布：拍照第一、视频唯一，周杰伦任影像大使 <https://k.sina.com.cn/article_7096020433_1a6f4add106801onrs.html>
+- **周杰伦** | 王源易烊千玺送祝福，王俊凯新歌《那页夏天》获评青春留白 <https://k.sina.com.cn/article_7879924004_m1d5ae192403302aw3e.html>
+- **特朗普** | 贝森特：特朗普政府不会为人工智能行业领袖提供“责任豁免保护” <https://news.google.com/rss/articles/CBMihwFBVV95cUxOa2RWbkRGODVpMnRHU1lVMnRHZnJCSVpqT0g4ajVLbEJsVFowN21fNkhoM3IzeXZKTWRNWHpaakl3NzR4Nm04S0syQXIyRUwybENwV09KQUlrMmZBSy1zNnFtSHgweUNtd21KckZHUVJRbmtIdG9KdHlTS3VnUXhXc3VBd1R4dXc?oc=5>
+- **特朗普** | 记者：特朗普白宫的媒......_7x24快讯_新浪财经 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5hRWZ5ME00bW83a3NjN1ZFWURWSExxWDBNWkZZdXZsdjBrREN4TzhaQXN2WVlmaVh0WTMyazd3aDFyak9XdFdZNVZ3RQ?oc=5>
+- **特朗普** | 胡塞武装攻占战略高地！特朗普据报临时叫停空袭，中东能源风险再升级 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LSEJhc2FQRjFlcWE2SDcyUWhBUk5ZczI4VG9DUGRkaGNKRXZCb2VDRzZlQ2JIdTJjNk9NMmJpLXU3ZndTVjR6b2JwRndaZnRZYnFj?oc=5>
+- **特朗普** | 美媒称特朗普下令空袭胡塞后又变卦 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9rOEhpN2F3aVg0Wkg5bnRZR190YWdCTnRnbUJRTEc2c1dQZ28yb2dLSFBwd2JfSVpyNTQteWlHU2VjOTlxU2YxWkktdks?oc=5>
+- **特朗普** | 战机挂弹却被紧急叫停！特朗普为何突然取消轰炸胡塞武装？-市场参考 <https://news.google.com/rss/articles/CBMiT0FVX3lxTE5QTldER1JYQkYwRVBJckpIZHNCbzQ5WXFHeFNuZjdzRzNhbnljNUJjNWx5RHdvNU9tbjBLZTV3dTRYa0laMFlmemlvYTZsWTA?oc=5>
+- **特朗普** | 特朗普称获格陵兰岛安全“永久控制”，丹麦却强调主权不变-市场参考 <https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0R09xcEh6V1BmZTlOX29TODFGSjZMaFNETHFOSTlNMnlPR1FyUnFFbUd5azloN2JrekczUG1XR0RJRThMVFZ4ZU1PZkJudDg?oc=5>
+- **Trump** | 白宫内部关于人工智能威胁的复杂辩论 <https://news.google.com/rss/articles/CBMigAFBVV95cUxPangyRXMzM19uakFMcG9sSTlOckl5OU4yWEZaYjlLQTIxV2pFWVpwU2dNVmM3WTRzZzhDeGptZGxjamtQSy1MWW40cVBycGlIN2t1TW5qOHVwYWhyZ091YkdEMnlOVUJrUVN5ZFlpbGlGbE1xa1Z1VEMyTUc5TndlWQ?oc=5>
+- **Trump** | 白宫公布迎接习近平来访细节安排：总统接机、军礼欢迎、军机飞越、国宴款待 <https://news.google.com/rss/articles/CBMilwFBVV95cUxOaUNEc0lzb3FGTW1XcTA2RjYzMXZveXEwRzdjQnBDR2gzcjlDdEIyZ3g1T3RQRUpqdUgyMDlyTS02WU9NX3p6OFNSWWViajRicThPV1Iwc3dUR2p1ZWpUdWhEWGdwdUwwMUF2eDQ4VDRlV0hWckJTTk9vNGZVUzhPQW43NFJNaS0yRGFNUVFmM1YzbG9acjJr0gGaAUFVX3lxTE1UTHR2VHNPcWxCeVVScVl4U0o0bEtSRlczOGJDYmxvbTBuemptc0JtUjhsUUtvaW82eUFrRVlOaGd5OHlrMWwzSEdqdHMzdWdEZEFtbURHZUZyU0w0RmNLbWNhcHVqT3huM1MzTmUtanhzZ1ZtdGEtcDdzb0pQX3IybnB4VzFBVVF3UnVmUE1LS2phTU5oRlBOdmc?oc=5>
 
 ### 2026-09-21 10:55  (14 条)
 
