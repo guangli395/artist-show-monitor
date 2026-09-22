@@ -1,110 +1,82 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-22 20:44**
-- 本轮扫到 12349 条, 新增 **12** 条
+- 最近更新: **2026-09-22 23:24**
+- 本轮扫到 12356 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (12 条)
+## 本轮新发现 (7 条)
 
-### 演唱会现场粉丝大合唱的音量应该控制在什么范围内？
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801le8k.html>
-
-### 特朗普总统在联合国大会演讲，重点表述伊朗、联合国改革和西半球问题
+### 特朗普在联合国大会发表讲话。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-09-22 18:54
-- 链接: <https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSC1CbHJibWptVWpINXBqUmZYYmlqOHNHd19NUWNHNVU1elVNSGRNM0VtME1nRVVYOGpxMXNzVnhrdGdWdEVvZjY1a2NkYzRwWUVTVjlXX1UyMldnQ1dJZ1FBcm8zN1RmN2hJUS1hU09jYTBEXzE5ak5iU3AwYmxqZDgxWmR3N3BuanFoOU5KTDhpYm9uX01yb0IwdHhJbVZlSFEtVmJ2ZDJNUXB5MGJlSTlrcnZSS3R4aDFNNEVtbXlnbGstTmVncHRUTkdHcFhleU1NcGZzZm5rNkNH0gHfAUFVX3lxTE43OURXNDlQTDdkQV8xZ2gxWVhDVmtwWDAta25CaHZwOGVuN28temFwUFBPUDFXUXFWNkd1eEtveFZHZVVPZDdnQzhaZVNlYXowczhjcHd0RzN2WFVnaklwYXRWM1AtYmxWRElZeGxwZktBWmJ1cGtzcUN0TGRCQzhJMVVsQWtFdzNMaDduemFCWFI5U1cxbVU0c3dieDNtSkVxblZ5dVo3S3laSS1JMll2VDlPR1lGcWZ2RnM3OTBDY3FJdGNtVU95bUE4cWtrZlJrNlBmN1hVdGY1TWJHTHM?oc=5>
+- 场馆: 新浪财经_金融信息服务商
+- 时间: 2026-09-22 21:52
+- 链接: <https://news.google.com/rss/articles/CBMipwFBVV95cUxOZTdaV1ZVbUcxSUxTZ2VEUkdYMDlES0lSaTJaNDJkV3E4QTR4ZEx6NG4yN3AtdEp6N1VtSi1XdUxzMjJCWkQ2dlhRbkhKamdrVnhJeVc3SEZUanNoRnBQem9DTFRzMDB2WTdTSjJDNTB6Z2hvak9ZUElwYzJfbmdfR0l5dDJsNU1ZMGszVURmRXBkRmxwZWY0UTRIdTRKcFN2Zk9MdFN1dw?oc=5>
 
-### 特朗普联大发言引起部分代表离场 秘书长暗批其做法助长霸权倾向
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-22 19:59
-- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxNRGNnMkZTaWgtM3ctWWhuWF9JZjZHYUVUdHFGRUJpN3lkT3N2ZUhkN3hxQXNrRGNvNGJUb3Y1Q2JMN1B6TU9GVTk5MnNZZzh2SVctVnNCbjlqU2pESG1rOUtVcTJTdnEyYklCN0FDQW52WEI1ZkpndkJVbGRidzcwLTU1WmtYRllRWlE?oc=5>
-
-### 特朗普证实美伊在联大罕见直接接触 三小时会谈进行得“非常好”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-22 18:37
-- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTFA2LWNneDNER1U1NkZ5VjVJVkdDS3VoNS1uTHRBT2hWVk5rSlVDaUx4NjJjbS14MndPLUhiYVRTRzZaUXJWWVNtOURrQWl6c05oV1VpdHh1YjktcGszeDJqM2FEY1RBT1Z2SldVajBoMEFDdkp5ZGRLVDRB?oc=5>
-
-### 美国财政部长：特朗普政府正在研究禁止柴油出口是否可行
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-22 19:21
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxQZVVpWVRzNFo5Y2t2YUtrbWlLSFd4b3JXOThHV2dpd3Buc1pDYWY0Z1JEZHJVXzYzd0g1YWh4RHFHVDZtaEVwTE9Qay1iWXRPYWJldjVrSkVKT2FaelYxMUZrU2hXVFUtWEF0N0pXYk1fcGRUVmJMNUhnTXJNdXotcFp1bVR2ZGM?oc=5>
-
-### 特朗普：‘别把美国柴油卖到国外去’
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-09-22 18:23
-- 链接: <https://news.google.com/rss/articles/CBMiiAJBVV95cUxNWE9lT0xPVWE4QThnZDMxYWRIZFJ5S0w0RFB2Z0NEQWp5NUs0YkVtVnhfRXVvQWJPclFsSmZyTEdCR0cxT2tnOEQxS3MxdC1VTmFFSFd2QnVTZWktQVRDc1pqOUdfY2VOSGhnTlpCMHRqSmpITU5NMHQtOF9NTXREU3dZVk56bGZwaFBxdG5uMnlFZnk4Q2xkYmdMUlBRQ3lqYXN0MkhDNndRaXJELUdCMzVwUnVId0hMYlZ3VXNOVXNQenVjc1hVdHhETEdpeS05RTNRemoybFNmdk1VQWhuaTR4Vmdxdk4wUEtPb3ZwUkxPdnpEVUFETVpWZGdXSkhGTC1rZ01VTGk?oc=5>
-
-### “我们无路可退”！中东冲击波蔓延，特朗普农村中选基本盘正在“崩塌”
+### 特朗普表态支持禁止柴油出口，炼油股承压
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 华尔街见闻
-- 时间: 2026-09-22 13:04
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tZzlCUUxIZVF3M1NZQjhfRV9RamlvSlhkZG9vSXp6OE1jWDNiRmwxc3ZMclJ3ZXQ5b3dVSURxbFoxd0xfcTJmaHhTWlp1LVdjZ0Jr?oc=5>
+- 时间: 2026-09-22 21:02
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBZdW1KNDc3c29ldUw3aHhQZDA3UU1TenQwZjBfWVQ5enlob2ZkenJSRkZDZ18tSU9pSVpBT3dUQl9WUmJxM2E5MTlBWU5idXRDQS1j?oc=5>
 
-### 特朗普与丹麦和格陵兰签署安全协议，允许美国在该岛扩大军事存在
+### 9月23日外盘头条：特朗普证实美伊在联大罕见直接接触Anthropic和OpenAI推出成本更低的新模型
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-22 21:30
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxNNFJuZk1SSzZUVnBCRzRiWlNtcmtLTWNvM2c5V0I4Zk1tUWFGaktqVGx3ajdLUEhfcDBnLTFFQ1dUUTRuTmw5UmRDMHotU19ZWHo1b1RoMEVmOW0xc1RaSVdsQ09WUFN4Q3BWb3lZWFJHaWRmZmNFTFdQeHJKQlRPVmNqN3lITkE?oc=5>
+
+### 特朗普：人工智能应改称“超级智能”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-09-22 20:45
+- 链接: <https://news.google.com/rss/articles/CBMiigJBVV95cUxQZGhCaWtGa25lRkNpQmQ5SF9wNmQ4TTVVQVY1SGRRZER0OWEzNUl4bGFrZXFSS1RmX3dFN2c1LUVTWXdGaExYZmhZZGtvdEQ5ZkVwZGFuNnl1NDVDVnJod1AwRE92Y3M4RG9IQXpMQi1PUkpHS0lYMWtwRVJZOVJhVUtpLTR1UzUwMFB1ZDhWM2N4S2VOd0JGZFJLc21XWVJTSUJXdWJFMm5idjhHRXFVTFZnZmh5QUU5QUtVWGZaX1B4c2pyTWlsRzVxcWVvaXNYaWI1RTdYS1VOYm1RNnRET0ZmTlpIUDVxc052YV9WTVdGeUpjcVVSbXQ0RXI1YThjcHZwSXVsMTN0QQ?oc=5>
+
+### 特朗普坚定拒绝制定管控AI的国际协议 淡化前沿模型失控风险
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-22 16:54
+- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE5UbmFpWDhteTNFcjJWcFJiVlZDM3c4SE5BX3RFTEttSWI2Zmk1RkRSaTJhT2pJTU9LODVtX2RDSGFjX2hDMW43dk9uWFI3N25iZmZIbHh1NlBhRngyeHZVZ2R3cmEzYWRMNlhKcWduWk5GWTU2NkdVRHJB?oc=5>
+
+### 特朗普联大讲话：美国中选后或与伊朗达成协议、油价或大跌，对AI“只鼓励、不限制”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街见闻
+- 时间: 2026-09-22 15:16
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pc0pmOTQxdlFCbElsdl9yRFRyWVo5TW1LN3FMUHNCd0g2N0RoM09HYjlrSHpmelR1dm16aGl5aHhWbUpwd084bGFISEF0UkdLZi1j?oc=5>
+
+### VOA专访：美国务院中文发言人谈特朗普联大讲话及美中峰会
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: 美国之音
-- 时间: 2026-09-22 19:18
-- 链接: <https://news.google.com/rss/articles/CBMi9wFBVV95cUxQS1JKdTEyb1FiM0pCdU43Q3FGM1h2ajZBSUZ5cFZ5eHBWVmY3eHM3anJPUWRWYlJPV18zV1pwQlhoMHNYdVN3a0xJdkI4bVV5RWRaa1p4azdMbm9WVGx0UDlZX0dCeWdzR3JvYUdOQ0pkMF8wWWRMY1ZPXzYyUDUxeGQtc01OWS05amFxbEFFLUNiSGpCWDdtUWg4dElqWXdRajZxaUx4SUZQZ052TXV6SEhKaV93UFVXQUd5aHZjWklfaHBWcHVfaGljengzYlJaZUt0T19DMFhHWF9TUTAwd0ZSSHJaNFhfOTM5TkdXTl9RakdZWnhn0gH6AUFVX3lxTE02ajZGajdpaVNMa0s0czc1S2R6WW1LNlRxRmxGRXAzcmdHeGlfaE1ra1V6My1kdGVlRnJmb1kzak92MEU3V3RCUVY5VUhiTi1BMFhFeTVmVnZpY0NuV1hNbThsNHVldllJa3Z4eTFDNGxFSUlPVE9IeGFWMlBpV29EUDM5cUVJN2RXbndrSUdBaG5zZU5TQTBONkpNQ2VJMEI2WDRVZ21lci1VZEprT3FzTHlHYzFZaVA1d3JlZUxycHAwUEFHblRHdzdoVTBXdUZjLUhaQ0Q1aXljaE9XWEd3MkhWSlpuOFpyOUI2VFNKSlI0NXlYZzVaY2c?oc=5>
-
-### 卢比奥：特朗普总统对与伊朗领导人会面“持开放态度”
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-09-22 15:18
-- 链接: <https://news.google.com/rss/articles/CBMitAFBVV95cUxQT0RWelVaT1k1cWd1SXoxVXVyVkxDSF9JbWR6NmxFZzIxd2g1ZEZfbXBBQWo0RlRqNzlZOC1YbjNSaWZBZUxFdm5jUjNSMUtvdWJ3bk1YMXRTeEo0U3A4YjdqTi12SEE2M2FuTE1KbXIyUFNaeVkySUdHTlRJR2JQMnhKZ09Sb1pkOUIxYkhldU9oTHE0Z05haXlGaFdiMjlCVExxYXhmcGdwd0tEeTF6ekJKaTnSAbcBQVVfeXFMTWxiS2hqOHVocFI2VVdSNVpTcktaNjg4aWwxOGt6YzJJOEVHOGVnVFB5YkdZZUtmYnppTk1vQmtwYnRGSkJxTmx0aWxzRDFWUjhXdVRIS1RTWWN2MDRxbmxWdkczbUtrTW1UbU5md1RBb0FkY3JxODd4TXV6S24xN1haMm5XZjI0WVkzZmpWZWdpUHhQR0hLd0ZRTkpOWDFTU2xycDQzVnNDMng3TXhsbG14WEVQNnhj?oc=5>
-
-### 特朗普与丹麦和格陵兰签署安全协议，允许美国在该岛扩大军事存在
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-09-22 19:18
-- 链接: <https://news.google.com/rss/articles/CBMi-gFBVV95cUxNNmo2Rmo3aWlTTGtLNHM3NUtkelltSzZUcUZsRkVwM3JnR3hpX2hNa2tVejMtZHRlZUZyZm9ZM2pPdjBFN1d0QlFWOVVIYk4tQTBYRXk1ZlZ2aWNDbldYTW04bDR1ZXZZSWt2eHkxQzRsRUlJT1RPSHhhVjJQaVdvRFAzOXFFSTdkV253a0lHQWhuc2VOU0EwTjZKTUNlSTBCNlg0VWdtZXItVWRKa09xc0x5R2MxWWlQNXdyZWVMcnBwMFBBR25UR3c3aFUwV3VGYy1IWkNENWl5Y2hPV1hHdzJIVkpabjhacjlCNlRTSkpSNDV5WGc1WmNn0gH6AUFVX3lxTE02ajZGajdpaVNMa0s0czc1S2R6WW1LNlRxRmxGRXAzcmdHeGlfaE1ra1V6My1kdGVlRnJmb1kzak92MEU3V3RCUVY5VUhiTi1BMFhFeTVmVnZpY0NuV1hNbThsNHVldllJa3Z4eTFDNGxFSUlPVE9IeGFWMlBpV29EUDM5cUVJN2RXbndrSUdBaG5zZU5TQTBONkpNQ2VJMEI2WDRVZ21lci1VZEprT3FzTHlHYzFZaVA1d3JlZUxycHAwUEFHblRHdzdoVTBXdUZjLUhaQ0Q1aXljaE9XWEd3MkhWSlpuOFpyOUI2VFNKSlI0NXlYZzVaY2c?oc=5>
-
-### Pharmaceutical Companies Push Trump Administration to Protect China Deals
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-09-22 13:35
-- 链接: <https://news.google.com/rss/articles/CBMivwFBVV95cUxPYloxM2wyYWhlRUc3aW5xbndCWTU3NUdWNm9vSWg1UWIweVZpQ0JpUWNJSVN4elRfZDk2d2hZNENaN2R5RG9xdWtFVE1oVk16Mjkxd1QzakszdTFOTVRHcllYdGs0MjU5RmJid0ZKOWtuN3hYUmlMQm1LMDVWSTZpbnBoeHBjaFlmSHVSMjZuZVk4aERLQXJLdVVIZFNPM3ZCSnp6RDdRMFpldl9mUXowNC0zUkxKY0dXTC1nT1Y1Zw?oc=5>
-
-### León XIV responde: “No le tengo miedo a la administración Trump”
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: omnesmag.com
-- 时间: 2026-09-21 22:05
-- 链接: <https://news.google.com/rss/articles/CBMilwFBVV95cUxOYVJiTDdDenVPWUpDU1BtRk9TbHU5RnIzWUtxU3hvVGFLdTBLZm1Vek1ZRzMzcHBBU0tpN1JGRTVHb3JUVWlrejVtM0R1bl9CYnE0ajk2ZE16REdCWTlwTE9neXZtbDREUGdHNE4zSUhOS21nMXVUTl9WTE5zaUhvUHJEQjJlU0hpQzIzTDN4S0U4LXhKWENN?oc=5>
+- 时间: 2026-09-22 21:16
+- 链接: <https://news.google.com/rss/articles/CBMitwFBVV95cUxPbmFzVE81UUx0REQyTVN2UzZqOEJ1bHpTZ3czTUdLcFFVX3F2SkE3a1dEOVZMdHZsX1piVktSN1NDeFhmSHRaLVhwNFRfYnVlbDlJQW1lZTFtb0haZFdTNEhDWVlyUUpDLTRHdVFDUjRuY3RRTXRWcXI0OURtbWhCblRMckxwd3pzcTVRVEU4MWlFMml2OXFucHJPVXRiaXBIWGhHWVlLQ1QtMWYxQVdXMF9sMU5RSnfSAboBQVVfeXFMUHVmbnZSbDBSSlRldElCT2dDeFNPX1lUczJVNFJ6cUdDWFFDenBKc2dsWlM2QVk1b1hsWEFYeFU5b0tUN1hON21ZUFVYVzdZLXZhYVZPNWx2RmNlMFd6NlAtNnhZd2h5aHBKT0lFa0tfT1F0WVZRZzJqY2xUdGlWdFdfenN3V2lMckhsYWJ0M1NUYUFmZmFIRkl0SmNsUjVpb3FWQUEyR1lpSVVmS0UtT3VUYWc4SDZvSF9B?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-22 23:24  (7 条)
+
+- **特朗普** | 特朗普在联合国大会发表讲话。 <https://news.google.com/rss/articles/CBMipwFBVV95cUxOZTdaV1ZVbUcxSUxTZ2VEUkdYMDlES0lSaTJaNDJkV3E4QTR4ZEx6NG4yN3AtdEp6N1VtSi1XdUxzMjJCWkQ2dlhRbkhKamdrVnhJeVc3SEZUanNoRnBQem9DTFRzMDB2WTdTSjJDNTB6Z2hvak9ZUElwYzJfbmdfR0l5dDJsNU1ZMGszVURmRXBkRmxwZWY0UTRIdTRKcFN2Zk9MdFN1dw?oc=5>
+- **特朗普** | 特朗普表态支持禁止柴油出口，炼油股承压 <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBZdW1KNDc3c29ldUw3aHhQZDA3UU1TenQwZjBfWVQ5enlob2ZkenJSRkZDZ18tSU9pSVpBT3dUQl9WUmJxM2E5MTlBWU5idXRDQS1j?oc=5>
+- **特朗普** | 9月23日外盘头条：特朗普证实美伊在联大罕见直接接触Anthropic和OpenAI推出成本更低的新模型 <https://news.google.com/rss/articles/CBMihwFBVV95cUxNNFJuZk1SSzZUVnBCRzRiWlNtcmtLTWNvM2c5V0I4Zk1tUWFGaktqVGx3ajdLUEhfcDBnLTFFQ1dUUTRuTmw5UmRDMHotU19ZWHo1b1RoMEVmOW0xc1RaSVdsQ09WUFN4Q3BWb3lZWFJHaWRmZmNFTFdQeHJKQlRPVmNqN3lITkE?oc=5>
+- **特朗普** | 特朗普：人工智能应改称“超级智能” <https://news.google.com/rss/articles/CBMiigJBVV95cUxQZGhCaWtGa25lRkNpQmQ5SF9wNmQ4TTVVQVY1SGRRZER0OWEzNUl4bGFrZXFSS1RmX3dFN2c1LUVTWXdGaExYZmhZZGtvdEQ5ZkVwZGFuNnl1NDVDVnJod1AwRE92Y3M4RG9IQXpMQi1PUkpHS0lYMWtwRVJZOVJhVUtpLTR1UzUwMFB1ZDhWM2N4S2VOd0JGZFJLc21XWVJTSUJXdWJFMm5idjhHRXFVTFZnZmh5QUU5QUtVWGZaX1B4c2pyTWlsRzVxcWVvaXNYaWI1RTdYS1VOYm1RNnRET0ZmTlpIUDVxc052YV9WTVdGeUpjcVVSbXQ0RXI1YThjcHZwSXVsMTN0QQ?oc=5>
+- **特朗普** | 特朗普坚定拒绝制定管控AI的国际协议 淡化前沿模型失控风险 <https://news.google.com/rss/articles/CBMiekFVX3lxTE5UbmFpWDhteTNFcjJWcFJiVlZDM3c4SE5BX3RFTEttSWI2Zmk1RkRSaTJhT2pJTU9LODVtX2RDSGFjX2hDMW43dk9uWFI3N25iZmZIbHh1NlBhRngyeHZVZ2R3cmEzYWRMNlhKcWduWk5GWTU2NkdVRHJB?oc=5>
+- **特朗普** | 特朗普联大讲话：美国中选后或与伊朗达成协议、油价或大跌，对AI“只鼓励、不限制” <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pc0pmOTQxdlFCbElsdl9yRFRyWVo5TW1LN3FMUHNCd0g2N0RoM09HYjlrSHpmelR1dm16aGl5aHhWbUpwd084bGFISEF0UkdLZi1j?oc=5>
+- **Trump** | VOA专访：美国务院中文发言人谈特朗普联大讲话及美中峰会 <https://news.google.com/rss/articles/CBMitwFBVV95cUxPbmFzVE81UUx0REQyTVN2UzZqOEJ1bHpTZ3czTUdLcFFVX3F2SkE3a1dEOVZMdHZsX1piVktSN1NDeFhmSHRaLVhwNFRfYnVlbDlJQW1lZTFtb0haZFdTNEhDWVlyUUpDLTRHdVFDUjRuY3RRTXRWcXI0OURtbWhCblRMckxwd3pzcTVRVEU4MWlFMml2OXFucHJPVXRiaXBIWGhHWVlLQ1QtMWYxQVdXMF9sMU5RSnfSAboBQVVfeXFMUHVmbnZSbDBSSlRldElCT2dDeFNPX1lUczJVNFJ6cUdDWFFDenBKc2dsWlM2QVk1b1hsWEFYeFU5b0tUN1hON21ZUFVYVzdZLXZhYVZPNWx2RmNlMFd6NlAtNnhZd2h5aHBKT0lFa0tfT1F0WVZRZzJqY2xUdGlWdFdfenN3V2lMckhsYWJ0M1NUYUFmZmFIRkl0SmNsUjVpb3FWQUEyR1lpSVVmS0UtT3VUYWc4SDZvSF9B?oc=5>
 
 ### 2026-09-22 20:44  (12 条)
 
