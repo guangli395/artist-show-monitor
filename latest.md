@@ -1,118 +1,125 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-22 17:52**
-- 本轮扫到 12337 条, 新增 **13** 条
+- 最近更新: **2026-09-22 20:44**
+- 本轮扫到 12349 条, 新增 **12** 条
 
 ---
 
-## 本轮新发现 (13 条)
+## 本轮新发现 (12 条)
 
-### 谢楠主持曾沛慈世巡发布会
+### 演唱会现场粉丝大合唱的音量应该控制在什么范围内？
 
 - 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://video.sina.com.cn/p/finance/2026-09-22/detail-inissyrc5651440.d.html>
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801le8k.html>
 
-### 知情人士：习近平预计将当面要求特朗普停止对台军售
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: dw.com
-- 时间: 2026-09-22 09:03
-- 链接: <https://news.google.com/rss/articles/CBMi3AJBVV95cUxQRF9iUHJkbERtZGs3Z2xxUVh1QjJYeUhtU09DOHc1VVplVF91QkRZUUE1QlhVcTM2dlEwc1NkWXBOMjZBQkxTLU1VMnY3Y096MWZfeG54LUE5eUFaZ01FYWpvWU5uMFY4RnNabmwzNnVPZ1pnYmRXNlZ3UEt5RFF2b2xkMm5PR2xYUXVTU2NZNkVBaXVnLWY1QlR1NWlvSWpZenQwZjRfWU1jbU1SYnpGWWNaYVY5UGE4SzdFSi1ITThLeGJBMHZNdnR6QnVrRzBGWk9QZFZST0ZFUEo4X0NtbVhYU0FfVkh0TEl4OFhGazlPVUY2RVQ5X1JQOG5ySjREZEpCczF6QkRxUWhWd0NCRUlJRG1UWnNUYnUxQjE1dmVyMG9jZzc0Q0ZGV2pIZUZtQmYyS1lVc2ozNngzcGxPT29IUS1RU2YyREhCZmQzMW1rSy1HdVVGVTBrX0vSAdwCQVVfeXFMUHU4YjZtNmJQUGNsdGpUZm5wa3ZhREdNNzh4Q1pLZlpMdWJnNTJSNHhuTldhWFR3ZXY3TXZoNEpqM0Rjb1VTM01MLS1aMXVaQjV3S0RRUzh5bTYxLTFlLVA3UTJqSEVsZzdleGozc0U4M2pzczRXandidFc5TlR0Wm01S1h2Wk1PdW9tWXpVMVlmSWF4OEZ3dUw5OUNZdHJoN0lSTndvRzVnUFoyOTAxM1JLVE1ZOUFqRTVDOFBMUGxPbW5vTVNwU1phWmNrT1UzUVotSnF5dF9OVmIycjQ0Mkd3NzhqeVJwMjFKVjFvWFgwTGYySHpTWkpmUkhBa3FqRE5Qb1I2TERhUnBxeWxEVVlzcmlNR0QzYnVmLUQwX09wUVJDbFBCZVl1R2t2RUc1Qmo5WmtNV0x6ZnRrWlluZnBNVU9POEJMYVlDejU3TWE5YnN1Z2FtdVUwVHBv?oc=5>
-
-### 借势特朗普，习近平看到说服台湾“抵抗徒劳”的罕见契机
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-09-22 10:31
-- 链接: <https://news.google.com/rss/articles/CBMi5gJBVV95cUxPMFI4X0RZMDA3WTR5YVpWakRIeGlYT2JZTHRNRHFwZldlQWdyTWZWUjBoWmRoRURoUDdURWMyQ21mU1N5UlFqcUloaE1JajEyNWxHcWs4Q2hYb0NEMm9GSE5PNHkyMUw2WFNuRUtwbnNUci1IQmt1dWNGSjktTXFNNGFYaG9oZGFIM2d5WC1LRTZTV1lLR2xjeGZrWFc0VWxmbS1pQVJGX2RrWjZhTW5HbVNuenMzd2J4cDliRGNtVjJaXzREMV9RRHpXVVVYTjU0aE5xNk9jdTU1aE1yc3VIdmNIQXI4OXJReHJTdjU0d3ZyelBud1JUZnZiMVBKSzd5aUVVeHd0a1pQMEZuRk4wb3k4d0Y1NWY2ekh5NmVaLThfbG5QcVpYUVJhcTBOc21xZnN3aENyazc4Z2tMMGJkNkJBeGF4UXd0d2V6eDVGSGg0TEctZTh6MUVWM1l5dEQ0VnNMMXVR?oc=5>
-
-### 特朗普与日本首相举行双边会晤。
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-22 17:11
-- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xOFdoOG1BSDlWZGFkeEttZjJZcGp6bFFhbFJvSHhQYzJtVUR1TVQzMGVndVFKcEowdmN4am80SHdPeFlkd0VUdXAxdnZvdzQ?oc=5>
-
-### 白宫宣布推出“特朗普电视” 全天候24小时播放
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-09-22 17:11
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE51bEpKU1MxT0pwWGhhbWl5NEMzRGNRaTFpNXJGa0pMM3BMN3JnMHM3dVVWbE5UZ1VHYWZ0UUp2NXItOEdkRHR3azZSSm9rekhPY2NiWFQ5Ulo0T0tFdXdOMjlsWFZ1c2xxd19rTkUzZ24?oc=5>
-
-### 特朗普总统与泽连斯基纽约会晤前夕，俄罗斯空袭乌克兰导致五人死亡
+### 特朗普总统在联合国大会演讲，重点表述伊朗、联合国改革和西半球问题
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 美国之音
-- 时间: 2026-09-22 17:02
-- 链接: <https://news.google.com/rss/articles/CBMizAFBVV95cUxQNVNUa0dUdWpnTzhybmNIb0Z0d1p4bkoyc1JOT2lkaTNRTWtHQXV3ZXR1YU5iN1p4QWNRRmJTdVozRVhlQ3ZJY3VCN2VSTUhjbzkwMENkc3lGMUZ0MHBDVkdTTl9DdnI2VFNmQWZkeGV2a3E5MllySmE3ZjdOWFZ0eHU2Zi11STBNYXV2MzFVd01ldFZ2aHV1eUFRQURka0pSal9jalUyaDR5MEZjM1UtM05SOHZpVUlWa05uQ3VrWUZmY1ctRUxsbVlQNznSAc8BQVVfeXFMTjlnODhYallTWEpVX0R2MmdSdlhrRTNRR1FmSllxQzlPYklPWTV5ZExZeG42a3ZaRTV2bE5POFhjZk9qdjNyaEJ0alVpckZCS2pkUmFOb21rb3M1YWpWYUJFR0YzYnpJejViN0tScjloajMxdHVrMWFNZmRxQUxXRnFJcUo0S3Y4T1JBeENYai1XZ082MDhHbzBSaF91UnVaYlBGUTZ1QnhmZGRqWVBvTE03cVhkLXcwaENrNDVnRXhzeFJ0YVpqN1E0bDFOb0ZN?oc=5>
+- 时间: 2026-09-22 18:54
+- 链接: <https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSC1CbHJibWptVWpINXBqUmZYYmlqOHNHd19NUWNHNVU1elVNSGRNM0VtME1nRVVYOGpxMXNzVnhrdGdWdEVvZjY1a2NkYzRwWUVTVjlXX1UyMldnQ1dJZ1FBcm8zN1RmN2hJUS1hU09jYTBEXzE5ak5iU3AwYmxqZDgxWmR3N3BuanFoOU5KTDhpYm9uX01yb0IwdHhJbVZlSFEtVmJ2ZDJNUXB5MGJlSTlrcnZSS3R4aDFNNEVtbXlnbGstTmVncHRUTkdHcFhleU1NcGZzZm5rNkNH0gHfAUFVX3lxTE43OURXNDlQTDdkQV8xZ2gxWVhDVmtwWDAta25CaHZwOGVuN28temFwUFBPUDFXUXFWNkd1eEtveFZHZVVPZDdnQzhaZVNlYXowczhjcHd0RzN2WFVnaklwYXRWM1AtYmxWRElZeGxwZktBWmJ1cGtzcUN0TGRCQzhJMVVsQWtFdzNMaDduemFCWFI5U1cxbVU0c3dieDNtSkVxblZ5dVo3S3laSS1JMll2VDlPR1lGcWZ2RnM3OTBDY3FJdGNtVU95bUE4cWtrZlJrNlBmN1hVdGY1TWJHTHM?oc=5>
 
-### 美国五大电视网联手抵制拒报特朗普 声援CNN等媒体遭撤白宫证件
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财新
-- 时间: 2026-09-22 12:13
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE54UTlJLXV2ekVIcENhSTJ5dGJNV0dRZHY1ekh1Y1B3RFFySFVFcEc5d0l0a24tSUphTldzT1E2U05jcFJOOE1Wdk9EaGtkQlNmWlBCSTg2Wm9xVE1nUGlTN2RFNWNmSzdRSEE?oc=5>
-
-### 美国总统特朗普：敦促伊朗进行谈判 相信中期选举后可达成协议
+### 特朗普联大发言引起部分代表离场 秘书长暗批其做法助长霸权倾向
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-09-22 15:05
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5mUVhqamJpbUJwVFFTQ0JFYnVZQ1JZdGVhclU5a3ZkSTk3dE1uREVpdlV2YUlxSUFvODF3MVVGZHdVUlh4bzJ0aHNqNl9EdGw3M0Jqdkk2Y0RELWpMQTdXNTRPWFk5OERHX3dSNlpHSzFwbTVOaC1ROA?oc=5>
+- 时间: 2026-09-22 19:59
+- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxNRGNnMkZTaWgtM3ctWWhuWF9JZjZHYUVUdHFGRUJpN3lkT3N2ZUhkN3hxQXNrRGNvNGJUb3Y1Q2JMN1B6TU9GVTk5MnNZZzh2SVctVnNCbjlqU2pESG1rOUtVcTJTdnEyYklCN0FDQW52WEI1ZkpndkJVbGRidzcwLTU1WmtYRllRWlE?oc=5>
 
-### 特朗普称美伊每日均有沟通，甚至今日仍在接触
+### 特朗普证实美伊在联大罕见直接接触 三小时会谈进行得“非常好”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-09-22 16:57
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBLaFhId2NTOURzTWF2YVBINUpwRUhERnoxOTYxWGlhTEFxVU5GVGdhdTdNWHlJRlNNbHVBMk9kU1llakhmSEJCTXdVbw?oc=5>
+- 时间: 2026-09-22 18:37
+- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTFA2LWNneDNER1U1NkZ5VjVJVkdDS3VoNS1uTHRBT2hWVk5rSlVDaUx4NjJjbS14MndPLUhiYVRTRzZaUXJWWVNtOURrQWl6c05oV1VpdHh1YjktcGszeDJqM2FEY1RBT1Z2SldVajBoMEFDdkp5ZGRLVDRB?oc=5>
 
-### 特朗普和克林顿为何都提到华盛顿纪念碑上的这块中文石碑？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-09-22 06:29
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9qVFk0TVRsb3pldTRSbHJQTTFHVEd0U0tSVTRxbVlPYkpqT1RvSmpnQUJIZ0g1eDZkc0lVWXZXNFdXYmZ1Vno1ZEdvbF8?oc=5>
-
-### AI安全论战升温！特朗普：只会鼓励AI发展 必要时司法部会出手
+### 美国财政部长：特朗普政府正在研究禁止柴油出口是否可行
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-09-22 00:30
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zdDlRdWpWQnk5ekpzQkVTVFg1VHVROWNXT01xRS1KelNrUkZaUjBLaC1SRUxlUjk0dGJmb1JzV0haMzlUZFdLZWdDR0JyaTJ6d2llWEZGLU94a05iZTgyZA?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-09-22 19:21
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxQZVVpWVRzNFo5Y2t2YUtrbWlLSFd4b3JXOThHV2dpd3Buc1pDYWY0Z1JEZHJVXzYzd0g1YWh4RHFHVDZtaEVwTE9Qay1iWXRPYWJldjVrSkVKT2FaelYxMUZrU2hXVFUtWEF0N0pXYk1fcGRUVmJMNUhnTXJNdXotcFp1bVR2ZGM?oc=5>
 
-### Trump Summit With Xi Unlikely to Include Chinese CEOs
+### 特朗普：‘别把美国柴油卖到国外去’
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-09-22 18:23
+- 链接: <https://news.google.com/rss/articles/CBMiiAJBVV95cUxNWE9lT0xPVWE4QThnZDMxYWRIZFJ5S0w0RFB2Z0NEQWp5NUs0YkVtVnhfRXVvQWJPclFsSmZyTEdCR0cxT2tnOEQxS3MxdC1VTmFFSFd2QnVTZWktQVRDc1pqOUdfY2VOSGhnTlpCMHRqSmpITU5NMHQtOF9NTXREU3dZVk56bGZwaFBxdG5uMnlFZnk4Q2xkYmdMUlBRQ3lqYXN0MkhDNndRaXJELUdCMzVwUnVId0hMYlZ3VXNOVXNQenVjc1hVdHhETEdpeS05RTNRemoybFNmdk1VQWhuaTR4Vmdxdk4wUEtPb3ZwUkxPdnpEVUFETVpWZGdXSkhGTC1rZ01VTGk?oc=5>
+
+### “我们无路可退”！中东冲击波蔓延，特朗普农村中选基本盘正在“崩塌”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街见闻
+- 时间: 2026-09-22 13:04
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tZzlCUUxIZVF3M1NZQjhfRV9RamlvSlhkZG9vSXp6OE1jWDNiRmwxc3ZMclJ3ZXQ5b3dVSURxbFoxd0xfcTJmaHhTWlp1LVdjZ0Jr?oc=5>
+
+### 特朗普与丹麦和格陵兰签署安全协议，允许美国在该岛扩大军事存在
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-09-22 19:18
+- 链接: <https://news.google.com/rss/articles/CBMi9wFBVV95cUxQS1JKdTEyb1FiM0pCdU43Q3FGM1h2ajZBSUZ5cFZ5eHBWVmY3eHM3anJPUWRWYlJPV18zV1pwQlhoMHNYdVN3a0xJdkI4bVV5RWRaa1p4azdMbm9WVGx0UDlZX0dCeWdzR3JvYUdOQ0pkMF8wWWRMY1ZPXzYyUDUxeGQtc01OWS05amFxbEFFLUNiSGpCWDdtUWg4dElqWXdRajZxaUx4SUZQZ052TXV6SEhKaV93UFVXQUd5aHZjWklfaHBWcHVfaGljengzYlJaZUt0T19DMFhHWF9TUTAwd0ZSSHJaNFhfOTM5TkdXTl9RakdZWnhn0gH6AUFVX3lxTE02ajZGajdpaVNMa0s0czc1S2R6WW1LNlRxRmxGRXAzcmdHeGlfaE1ra1V6My1kdGVlRnJmb1kzak92MEU3V3RCUVY5VUhiTi1BMFhFeTVmVnZpY0NuV1hNbThsNHVldllJa3Z4eTFDNGxFSUlPVE9IeGFWMlBpV29EUDM5cUVJN2RXbndrSUdBaG5zZU5TQTBONkpNQ2VJMEI2WDRVZ21lci1VZEprT3FzTHlHYzFZaVA1d3JlZUxycHAwUEFHblRHdzdoVTBXdUZjLUhaQ0Q1aXljaE9XWEd3MkhWSlpuOFpyOUI2VFNKSlI0NXlYZzVaY2c?oc=5>
+
+### 卢比奥：特朗普总统对与伊朗领导人会面“持开放态度”
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-09-22 15:18
+- 链接: <https://news.google.com/rss/articles/CBMitAFBVV95cUxQT0RWelVaT1k1cWd1SXoxVXVyVkxDSF9JbWR6NmxFZzIxd2g1ZEZfbXBBQWo0RlRqNzlZOC1YbjNSaWZBZUxFdm5jUjNSMUtvdWJ3bk1YMXRTeEo0U3A4YjdqTi12SEE2M2FuTE1KbXIyUFNaeVkySUdHTlRJR2JQMnhKZ09Sb1pkOUIxYkhldU9oTHE0Z05haXlGaFdiMjlCVExxYXhmcGdwd0tEeTF6ekJKaTnSAbcBQVVfeXFMTWxiS2hqOHVocFI2VVdSNVpTcktaNjg4aWwxOGt6YzJJOEVHOGVnVFB5YkdZZUtmYnppTk1vQmtwYnRGSkJxTmx0aWxzRDFWUjhXdVRIS1RTWWN2MDRxbmxWdkczbUtrTW1UbU5md1RBb0FkY3JxODd4TXV6S24xN1haMm5XZjI0WVkzZmpWZWdpUHhQR0hLd0ZRTkpOWDFTU2xycDQzVnNDMng3TXhsbG14WEVQNnhj?oc=5>
+
+### 特朗普与丹麦和格陵兰签署安全协议，允许美国在该岛扩大军事存在
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-09-22 19:18
+- 链接: <https://news.google.com/rss/articles/CBMi-gFBVV95cUxNNmo2Rmo3aWlTTGtLNHM3NUtkelltSzZUcUZsRkVwM3JnR3hpX2hNa2tVejMtZHRlZUZyZm9ZM2pPdjBFN1d0QlFWOVVIYk4tQTBYRXk1ZlZ2aWNDbldYTW04bDR1ZXZZSWt2eHkxQzRsRUlJT1RPSHhhVjJQaVdvRFAzOXFFSTdkV253a0lHQWhuc2VOU0EwTjZKTUNlSTBCNlg0VWdtZXItVWRKa09xc0x5R2MxWWlQNXdyZWVMcnBwMFBBR25UR3c3aFUwV3VGYy1IWkNENWl5Y2hPV1hHdzJIVkpabjhacjlCNlRTSkpSNDV5WGc1WmNn0gH6AUFVX3lxTE02ajZGajdpaVNMa0s0czc1S2R6WW1LNlRxRmxGRXAzcmdHeGlfaE1ra1V6My1kdGVlRnJmb1kzak92MEU3V3RCUVY5VUhiTi1BMFhFeTVmVnZpY0NuV1hNbThsNHVldllJa3Z4eTFDNGxFSUlPVE9IeGFWMlBpV29EUDM5cUVJN2RXbndrSUdBaG5zZU5TQTBONkpNQ2VJMEI2WDRVZ21lci1VZEprT3FzTHlHYzFZaVA1d3JlZUxycHAwUEFHblRHdzdoVTBXdUZjLUhaQ0Q1aXljaE9XWEd3MkhWSlpuOFpyOUI2VFNKSlI0NXlYZzVaY2c?oc=5>
+
+### Pharmaceutical Companies Push Trump Administration to Protect China Deals
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: Moomoo
-- 时间: 2026-09-22 12:35
-- 链接: <https://news.google.com/rss/articles/CBMipAFBVV95cUxOVjhBT0tuSHZSdmVjX1lJYk9Ea3JpWDNsR1l2R2xrc2NiOVpLTXU1Q1ctZWl0YW8xTTl0ZnVkYlBFYjhiUWgxb2xvOFlJb3UwYzI3akVSLWlLMVRWbnNXY3kyX1c5Nkl6RzEyWTlsU01xbWVyN01NTHl5NWViNzdTX2hfYnR3dUoydzdNUy1saGtjRjVjVF9fVGdyWHNGMWF6WXpkUg?oc=5>
+- 时间: 2026-09-22 13:35
+- 链接: <https://news.google.com/rss/articles/CBMivwFBVV95cUxPYloxM2wyYWhlRUc3aW5xbndCWTU3NUdWNm9vSWg1UWIweVZpQ0JpUWNJSVN4elRfZDk2d2hZNENaN2R5RG9xdWtFVE1oVk16Mjkxd1QzakszdTFOTVRHcllYdGs0MjU5RmJid0ZKOWtuN3hYUmlMQm1LMDVWSTZpbnBoeHBjaFlmSHVSMjZuZVk4aERLQXJLdVVIZFNPM3ZCSnp6RDdRMFpldl9mUXowNC0zUkxKY0dXTC1nT1Y1Zw?oc=5>
 
-### 特朗普支持率创政治生涯新低，共和党选民也加速倒戈-市场参考
+### León XIV responde: “No le tengo miedo a la administración Trump”
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 金十数据
-- 时间: 2026-09-22 12:46
-- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Gd1B5UnhDM1N6TWV5eFo0UTZ3eS0tLUZSUHNlWWl3RUxoRVFvYXcxUG43S18tVm13SGVSWDZxU19rM21od0lrSzkwSk1lQ2c?oc=5>
+- 场馆: omnesmag.com
+- 时间: 2026-09-21 22:05
+- 链接: <https://news.google.com/rss/articles/CBMilwFBVV95cUxOYVJiTDdDenVPWUpDU1BtRk9TbHU5RnIzWUtxU3hvVGFLdTBLZm1Vek1ZRzMzcHBBU0tpN1JGRTVHb3JUVWlrejVtM0R1bl9CYnE0ajk2ZE16REdCWTlwTE9neXZtbDREUGdHNE4zSUhOS21nMXVUTl9WTE5zaUhvUHJEQjJlU0hpQzIzTDN4S0U4LXhKWENN?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-22 20:44  (12 条)
+
+- **王一博** | 演唱会现场粉丝大合唱的音量应该控制在什么范围内？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801le8k.html>
+- **特朗普** | 特朗普总统在联合国大会演讲，重点表述伊朗、联合国改革和西半球问题 <https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSC1CbHJibWptVWpINXBqUmZYYmlqOHNHd19NUWNHNVU1elVNSGRNM0VtME1nRVVYOGpxMXNzVnhrdGdWdEVvZjY1a2NkYzRwWUVTVjlXX1UyMldnQ1dJZ1FBcm8zN1RmN2hJUS1hU09jYTBEXzE5ak5iU3AwYmxqZDgxWmR3N3BuanFoOU5KTDhpYm9uX01yb0IwdHhJbVZlSFEtVmJ2ZDJNUXB5MGJlSTlrcnZSS3R4aDFNNEVtbXlnbGstTmVncHRUTkdHcFhleU1NcGZzZm5rNkNH0gHfAUFVX3lxTE43OURXNDlQTDdkQV8xZ2gxWVhDVmtwWDAta25CaHZwOGVuN28temFwUFBPUDFXUXFWNkd1eEtveFZHZVVPZDdnQzhaZVNlYXowczhjcHd0RzN2WFVnaklwYXRWM1AtYmxWRElZeGxwZktBWmJ1cGtzcUN0TGRCQzhJMVVsQWtFdzNMaDduemFCWFI5U1cxbVU0c3dieDNtSkVxblZ5dVo3S3laSS1JMll2VDlPR1lGcWZ2RnM3OTBDY3FJdGNtVU95bUE4cWtrZlJrNlBmN1hVdGY1TWJHTHM?oc=5>
+- **特朗普** | 特朗普联大发言引起部分代表离场 秘书长暗批其做法助长霸权倾向 <https://news.google.com/rss/articles/CBMiigFBVV95cUxNRGNnMkZTaWgtM3ctWWhuWF9JZjZHYUVUdHFGRUJpN3lkT3N2ZUhkN3hxQXNrRGNvNGJUb3Y1Q2JMN1B6TU9GVTk5MnNZZzh2SVctVnNCbjlqU2pESG1rOUtVcTJTdnEyYklCN0FDQW52WEI1ZkpndkJVbGRidzcwLTU1WmtYRllRWlE?oc=5>
+- **特朗普** | 特朗普证实美伊在联大罕见直接接触 三小时会谈进行得“非常好” <https://news.google.com/rss/articles/CBMiekFVX3lxTFA2LWNneDNER1U1NkZ5VjVJVkdDS3VoNS1uTHRBT2hWVk5rSlVDaUx4NjJjbS14MndPLUhiYVRTRzZaUXJWWVNtOURrQWl6c05oV1VpdHh1YjktcGszeDJqM2FEY1RBT1Z2SldVajBoMEFDdkp5ZGRLVDRB?oc=5>
+- **特朗普** | 美国财政部长：特朗普政府正在研究禁止柴油出口是否可行 <https://news.google.com/rss/articles/CBMihwFBVV95cUxQZVVpWVRzNFo5Y2t2YUtrbWlLSFd4b3JXOThHV2dpd3Buc1pDYWY0Z1JEZHJVXzYzd0g1YWh4RHFHVDZtaEVwTE9Qay1iWXRPYWJldjVrSkVKT2FaelYxMUZrU2hXVFUtWEF0N0pXYk1fcGRUVmJMNUhnTXJNdXotcFp1bVR2ZGM?oc=5>
+- **特朗普** | 特朗普：‘别把美国柴油卖到国外去’ <https://news.google.com/rss/articles/CBMiiAJBVV95cUxNWE9lT0xPVWE4QThnZDMxYWRIZFJ5S0w0RFB2Z0NEQWp5NUs0YkVtVnhfRXVvQWJPclFsSmZyTEdCR0cxT2tnOEQxS3MxdC1VTmFFSFd2QnVTZWktQVRDc1pqOUdfY2VOSGhnTlpCMHRqSmpITU5NMHQtOF9NTXREU3dZVk56bGZwaFBxdG5uMnlFZnk4Q2xkYmdMUlBRQ3lqYXN0MkhDNndRaXJELUdCMzVwUnVId0hMYlZ3VXNOVXNQenVjc1hVdHhETEdpeS05RTNRemoybFNmdk1VQWhuaTR4Vmdxdk4wUEtPb3ZwUkxPdnpEVUFETVpWZGdXSkhGTC1rZ01VTGk?oc=5>
+- **特朗普** | “我们无路可退”！中东冲击波蔓延，特朗普农村中选基本盘正在“崩塌” <https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tZzlCUUxIZVF3M1NZQjhfRV9RamlvSlhkZG9vSXp6OE1jWDNiRmwxc3ZMclJ3ZXQ5b3dVSURxbFoxd0xfcTJmaHhTWlp1LVdjZ0Jr?oc=5>
+- **Trump** | 特朗普与丹麦和格陵兰签署安全协议，允许美国在该岛扩大军事存在 <https://news.google.com/rss/articles/CBMi9wFBVV95cUxQS1JKdTEyb1FiM0pCdU43Q3FGM1h2ajZBSUZ5cFZ5eHBWVmY3eHM3anJPUWRWYlJPV18zV1pwQlhoMHNYdVN3a0xJdkI4bVV5RWRaa1p4azdMbm9WVGx0UDlZX0dCeWdzR3JvYUdOQ0pkMF8wWWRMY1ZPXzYyUDUxeGQtc01OWS05amFxbEFFLUNiSGpCWDdtUWg4dElqWXdRajZxaUx4SUZQZ052TXV6SEhKaV93UFVXQUd5aHZjWklfaHBWcHVfaGljengzYlJaZUt0T19DMFhHWF9TUTAwd0ZSSHJaNFhfOTM5TkdXTl9RakdZWnhn0gH6AUFVX3lxTE02ajZGajdpaVNMa0s0czc1S2R6WW1LNlRxRmxGRXAzcmdHeGlfaE1ra1V6My1kdGVlRnJmb1kzak92MEU3V3RCUVY5VUhiTi1BMFhFeTVmVnZpY0NuV1hNbThsNHVldllJa3Z4eTFDNGxFSUlPVE9IeGFWMlBpV29EUDM5cUVJN2RXbndrSUdBaG5zZU5TQTBONkpNQ2VJMEI2WDRVZ21lci1VZEprT3FzTHlHYzFZaVA1d3JlZUxycHAwUEFHblRHdzdoVTBXdUZjLUhaQ0Q1aXljaE9XWEd3MkhWSlpuOFpyOUI2VFNKSlI0NXlYZzVaY2c?oc=5>
+- **Trump** | 卢比奥：特朗普总统对与伊朗领导人会面“持开放态度” <https://news.google.com/rss/articles/CBMitAFBVV95cUxQT0RWelVaT1k1cWd1SXoxVXVyVkxDSF9JbWR6NmxFZzIxd2g1ZEZfbXBBQWo0RlRqNzlZOC1YbjNSaWZBZUxFdm5jUjNSMUtvdWJ3bk1YMXRTeEo0U3A4YjdqTi12SEE2M2FuTE1KbXIyUFNaeVkySUdHTlRJR2JQMnhKZ09Sb1pkOUIxYkhldU9oTHE0Z05haXlGaFdiMjlCVExxYXhmcGdwd0tEeTF6ekJKaTnSAbcBQVVfeXFMTWxiS2hqOHVocFI2VVdSNVpTcktaNjg4aWwxOGt6YzJJOEVHOGVnVFB5YkdZZUtmYnppTk1vQmtwYnRGSkJxTmx0aWxzRDFWUjhXdVRIS1RTWWN2MDRxbmxWdkczbUtrTW1UbU5md1RBb0FkY3JxODd4TXV6S24xN1haMm5XZjI0WVkzZmpWZWdpUHhQR0hLd0ZRTkpOWDFTU2xycDQzVnNDMng3TXhsbG14WEVQNnhj?oc=5>
+- **Trump** | 特朗普与丹麦和格陵兰签署安全协议，允许美国在该岛扩大军事存在 <https://news.google.com/rss/articles/CBMi-gFBVV95cUxNNmo2Rmo3aWlTTGtLNHM3NUtkelltSzZUcUZsRkVwM3JnR3hpX2hNa2tVejMtZHRlZUZyZm9ZM2pPdjBFN1d0QlFWOVVIYk4tQTBYRXk1ZlZ2aWNDbldYTW04bDR1ZXZZSWt2eHkxQzRsRUlJT1RPSHhhVjJQaVdvRFAzOXFFSTdkV253a0lHQWhuc2VOU0EwTjZKTUNlSTBCNlg0VWdtZXItVWRKa09xc0x5R2MxWWlQNXdyZWVMcnBwMFBBR25UR3c3aFUwV3VGYy1IWkNENWl5Y2hPV1hHdzJIVkpabjhacjlCNlRTSkpSNDV5WGc1WmNn0gH6AUFVX3lxTE02ajZGajdpaVNMa0s0czc1S2R6WW1LNlRxRmxGRXAzcmdHeGlfaE1ra1V6My1kdGVlRnJmb1kzak92MEU3V3RCUVY5VUhiTi1BMFhFeTVmVnZpY0NuV1hNbThsNHVldllJa3Z4eTFDNGxFSUlPVE9IeGFWMlBpV29EUDM5cUVJN2RXbndrSUdBaG5zZU5TQTBONkpNQ2VJMEI2WDRVZ21lci1VZEprT3FzTHlHYzFZaVA1d3JlZUxycHAwUEFHblRHdzdoVTBXdUZjLUhaQ0Q1aXljaE9XWEd3MkhWSlpuOFpyOUI2VFNKSlI0NXlYZzVaY2c?oc=5>
+- **Trump** | Pharmaceutical Companies Push Trump Administration to Protect China Deals <https://news.google.com/rss/articles/CBMivwFBVV95cUxPYloxM2wyYWhlRUc3aW5xbndCWTU3NUdWNm9vSWg1UWIweVZpQ0JpUWNJSVN4elRfZDk2d2hZNENaN2R5RG9xdWtFVE1oVk16Mjkxd1QzakszdTFOTVRHcllYdGs0MjU5RmJid0ZKOWtuN3hYUmlMQm1LMDVWSTZpbnBoeHBjaFlmSHVSMjZuZVk4aERLQXJLdVVIZFNPM3ZCSnp6RDdRMFpldl9mUXowNC0zUkxKY0dXTC1nT1Y1Zw?oc=5>
+- **Trump** | León XIV responde: “No le tengo miedo a la administración Trump” <https://news.google.com/rss/articles/CBMilwFBVV95cUxOYVJiTDdDenVPWUpDU1BtRk9TbHU5RnIzWUtxU3hvVGFLdTBLZm1Vek1ZRzMzcHBBU0tpN1JGRTVHb3JUVWlrejVtM0R1bl9CYnE0ajk2ZE16REdCWTlwTE9neXZtbDREUGdHNE4zSUhOS21nMXVUTl9WTE5zaUhvUHJEQjJlU0hpQzIzTDN4S0U4LXhKWENN?oc=5>
 
 ### 2026-09-22 17:52  (13 条)
 
