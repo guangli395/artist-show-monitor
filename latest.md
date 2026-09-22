@@ -1,146 +1,109 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-22 08:09**
-- 本轮扫到 12314 条, 新增 **17** 条
+- 最近更新: **2026-09-22 13:32**
+- 本轮扫到 12324 条, 新增 **10** 条
 
 ---
 
-## 本轮新发现 (17 条)
+## 本轮新发现 (10 条)
 
-### 张睿与刘畊宏连线，周杰伦演唱会成诱饵
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2839377332_a93d75b40400244hk.html>
-
-### 周杰伦神预言成真，刘畊宏三公淘汰将赴演唱会
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_3936319134_mea9f769e05301be38.html>
-
-### 这位男士令周杰伦都“束手无策”，每首歌发布即爆红，却因被调侃半生
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6041830291_m1681f039305301elfu.html>
-
-### CNN 等三家美国媒体被禁入白宫后 起诉特朗普政府
+### 习近平出访华盛顿：人们正紧张地等待大幕拉开
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: bbc.com
-- 时间: 2026-09-22 07:04
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLNWRlUmZqd2lBZzdTb2hkZTFZc3dTUzcyQzJod3lDTmFJUnJ6Qmdad0F1alZhVTNzT0dXNUZWZnhyb0U5UE04Z0NGU0dEOWlueHJsRmE1c3RuN0FKeVQwdnVzUXVQMUnSAWxBVV95cUxPeWJWVUtybVp5NFY3THN2SzBXWjJ0RjIySngtLTdFN29QeXhIcWRySEllWGhwT2s0QWpLS3YzS09yMFBOVGc2ZlVUWFNRajlOdThKell3dFZLeC0wbEtzbEUtN05RUmV3TnVWZHA?oc=5>
+- 场馆: dw.com
+- 时间: 2026-09-22 01:43
+- 链接: <https://news.google.com/rss/articles/CBMiuAJBVV95cUxNQ0x0UGZET2YxRWlVYkZTeWs3SmRERGprdFREanFEVXJzMURGUHg0RkpQR1FxaVJCMThabGw2Mi01N0pmbHZEREhDckhvV3RQU1BqakwyOGZzY09QamVVYU1KYjRvY3R3Zm9ab0IyT09YX1kxT0N0cmU2QVVrNm1BME1KckJETktRWG90OGc4SHNta1pMdHBabWF4MlhPUVg1ckZOVjlBMTdZVDhhY2tZdWJEOWZjSkJlcTdQLS1VN2M4R1lwcDhaenJfb2dodGhEajN0a1UtOWRCSWJXVzNVd1ZCaDRDXzBYVS1BWEdKVE1MZGt2TlFGQWUzS1lYRUdJU25TaTBwdGVTWEw3ZmVONHJucEI3TkhRd3pqa0NqWFlHZU9POXQ4akVwa1dscUowVERnUEpZWDHSAbgCQVVfeXFMUHNCaDg1emhMWWpQSnJvRVZkUHMwYUxaZHVNU1B4QjhQY1Fjal9Ga3hQaWRkMWRhVXlUU0V3eW9KNWs3YzVjRVdzcUNUbEJ2WUxfRXpENWVXWl9pU1hFRW1CVTBjaDF6UlNqY29vY1ZtSHg1N05BZkl0Y2pmUHRxYUE2b1Y2cU5JcEYzTGlkRmI4X1lra0xBQnU3S0pGLWpTdEJORGZ5TFdsMW9GZThhNm51VmM2WFhQdFVnNnlXRzNkX1ZyM3NIbS02M3dYakVJSlB5ZWRRTzVyYjF4Z0pQNFE4aUhCTHRHTFJiTXVUdEw1OXZfYmFaelU5ZWl3SC1PUC1EX29wSEExaVRUX1JQN0RRdmxMVmd2Vk1KeXA5TUZKQnlCOUVUY2xTSmY4bklsbFRfNXJ4UmVF?oc=5>
 
-### 马克龙：与特朗普讨论俄乌“能源停火”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-09-22 02:22
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE04dXAwVlQ3UndOOWxYam13QVpRSEJ1ejhJUXptRXNuUFpHaXlTRFZaczFMREtwRXRqeDJ2cHhQSGtEOTdwYVBJRWk3bnBmc1RpSzY4aVJ1Nm5WVmlsMGRRWk5TMktqOGNMbVpjYi1pQnRDOU0?oc=5>
-
-### “柴油、柴油、柴油”，特朗普又致电泽连斯基，敦促停止袭击俄炼油厂
+### 习近平据报将促特朗普依《八一七公报》停止对台军售 中方提协助向伊朗施压
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-09-22 07:42
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ma1pQWEh5UE5hWDBKQ0kyM2lEWXFTNlNsTFhGWGd3ZzFVajhGdGJ4N09yQkZwOWFtWFpZQmk2WEYtNFdYMnJSTkFaMW5zQWFpSXAtamJ4LVNmcVdjTVE?oc=5>
+- 场馆: RFI
+- 时间: 2026-09-22 09:56
+- 链接: <https://news.google.com/rss/articles/CBMi7wNBVV95cUxPSGk1LVFfTWl4Tnh6N0NSX0V5X0JvTzllcFVyTExmRGl3WVVxSnV5UXp5dFFfOUlCMUNYaGN1dUl0eWlMRFNXT0NpeWRjZlEtYXVUdXBITUdnU2NjYllEcGxvX053VVk4TU45NS1hZW1wTVRoTFdUUTlKcU9tdnFBRUxmM3JqcGJ0eU9lcU9yYXozd1FMWEtjOTJFTVFxVHBlb0xEbDdMMHFod2hvbUI1emZhRFZRdEZ6Sk5YMVZJVmMtNkFNVmc5Y09ZSnpVVGpIZ0JUS1YtMU1vb2l1SGQxRjBHNjdtUUtFbTNwbUpaLVBMVmpIb21TZlRKenltNVJSakFSTFRZZXdrTmZJbktwX2gwUjN4cTJxYmVqN0txbkczVDVsMnJISmJXR3dtRVMzanFjVENFNFpkbE1NX1lVRUh2anN3aXVlNHIxNVlScmVWSFQxWE5lbnlBUWgzaG1yYmZ2cWFhZ3hkVFdqb1o1dEJJZUFnUFZDcktMWUtkeGEydDI1Y00zel83VUlGTU5kWGM2M3hPcjFrRWI0WTBLdXhZNVBvRWNNSjhVb3prWk1NUnF5U1FBam9jUDdQNi1vOVhwMEpNVnJIYTRpaXVZVzExSkVBRVNyNWs4N3dYbDBsbi13RE1GWmJDVzV2b1U?oc=5>
 
 ### 特朗普将亮相联大：聚焦伊朗 密集会见多国领导人 计划与丹麦签署协议
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-22 07:21
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxPbzlTUUp2LXVockNUNnoxMWY0TzVFNGVxemxlR09UZWJjNjRITW9Mc1V0c3gxXzZnX2VjTXNwZkRBNWVOWHEwd1NNOWdEaW5UdXBVblNnSFlPQm15bVlvazBLcml3TjhxT3RkZzdjZVhWWkktTzVTMGltX0FELWNtSHJHdUxmVEU?oc=5>
+- 场馆: 新浪财经_金融信息服务商
+- 时间: 2026-09-22 11:54
+- 链接: <https://news.google.com/rss/articles/CBMi8wNBVV95cUxNaXl5VUk5RnRMbnYzaVlBT2VCTzJ6LTVZckItQ3V0OGROYWlpSTJ2WXZsYk1CcWdHV3BHMnk1enUtUzRTQk1kTE50SUowdzEwbUNCT1pROF91RG5JVU5ucGZGMjR1OE5wZUZUcTFTdDFwNWw4aHpiN3lvQkF1RE9DSmJzRk8yeDRNYUJUQkdWdlJXWkc5R0dnTTJTRXpFMmJoRTR0QnJab3hST3ZpalFrTVRGNzk1RnRHUFhCZHduQUQzRDJPV0dhVk1ranlNSW9mcTlqamhOZUZ2TW0ybURMaTRkM0l3Z2RLbGd1TEVYY2o0UXNVZzFqR1BZYm96NEpyRmxrRnF2Nk81YzhKUzFhWlVhZFFWOExNQWh2WDBuYXM5RmMxZ3pJMFlnTElLWlduV0s5T0ljVEl6dmNHTk9qX0pBNmJOOXJPdElVeDZDUnNVOUxpVHYxVDhHdFNTeU4xQkk0NnJLTjI3ZGZhX1oyLUtiR21YMmg5ZjFmbjFIbS10YnpPTlN5NGZuM0lMY3RpeThvRWs3WFhkaU1ZY0hQRUpaSlh3OW44TTR5WWV1bG1ubnE1ZGwtOVhoLXlQMURWUndnelFtY1ZjdElqaGVZWVd1bGtxbmFFUVpIQjA3c3FxTUxvX29UbzZIZFBfanpJUUtB?oc=5>
+
+### 避免重现这一幕，联合国：已“反复检查”自动扶梯
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者网
+- 时间: 2026-09-22 09:46
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFBiSldkcy1zT3MzZF93VVZJTTFJb2dfSUE2Rmh4X2NuYjVIYk05WEtTYk5tdXdEb1lqNXRDbnNld2huSkZEV29jYUR1NGhNcXVoT01NS2J1UWpqNUtpZE93YU5kUk9fcDRQc1N3R2VpSnltY3c?oc=5>
+
+### 特朗普周二会晤海湾领导人：打伊朗还是找出口？海湾国家面临双重风险-市场参考
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 金十数据
+- 时间: 2026-09-22 09:10
+- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE5yRmFrRy1wV0k2SzFJXzUtYm51aTNNOHRVQndtOTVndU5SRFZYVk92SU55X2p1WU5nczQxYTlWOXlpbnJ6NE5xcEllZ3VYRGc?oc=5>
+
+### 白宫宣布推出“特朗普电视”：24小时播放、实时更新
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中国网
+- 时间: 2026-09-22 08:07
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE1NWWgxWkdESE4wOHRyeGhGeXFZa1NKRnNOc1lyeHpFN1FhNzZ5Z1pkYmtfOXBTVy1DZXNsXzVhLVhCdlRNTER2YzVLTUMzZ1NFQm8tWldYb1pfM3h2OWtBRnpaVTZEWUJqV0ctclNiaw?oc=5>
 
 ### 美使馆敦促立即撤离！特朗普再威胁“夷平伊朗”，曾38次称战争即将结束
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
+- 场馆: 新浪财经_金融信息服务商
 - 时间: 2026-09-21 23:52
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNb08zeXl2Mk1COThqRXd1T1R6TVIzWmF5dzYwVS1QU0F4dnlkZHRoRXlWbjVTeTJVWkM4SDBvQXVFR3FfYTdYV3N1clNKellLRWNZcEU2ZVVTTHRyM0dNUURLNmtKZG0xVi1pbE9neGh3VVVHajRlOWtYTFRmZ0hwVk1zVUM2T1lhUVJBbW1vVTFoT3JiQjltc2gwU2tpS3JxbUI3cEZmYUZsUXQ1cVFQVlBVSVRoVkFaSlFIUmJDOGhwbjhJNEtISU9laFFOdmtE?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxOY042UmVwbjRESWxzS2VIZW1PVU9keUlUZ0t1dld6YnJHTkxJY1JCZmhTSk12b2dRaHA5R1hkcUlVbmI1M2JVZ1B6bnkwWFliaExuOURJSkpJeXJXcXczWm5pWG5QZ1UyVGVGUXQtRDVNaVRqZ0VhQUkzNGllMHZMbnNCcjU4dVd5VEJicE1pdjZIMVVMMDExdXFUQ1RhWUtXYWJidG9venJsMDRIaEw1WVNPY3hIM3lndHU5ZFR5TjloOFZsUVh6SEdsQWFSeHhI?oc=5>
 
-### 美军都不想打了，特朗普众叛亲离？美媒报丧：美军正在闭着眼挨打
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-09-21 22:31
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9LT1U4RmU4V2d4TTREdUVFcmV4T3pfci13OGIwVWxrZG00R2ZVZnVVSkhDb3I5a0NyOWEzUi15ZjNPUTRRU05jcDZMRQ?oc=5>
-
-### 高市与特朗普会谈将强调对美投资贡献
+### 火药味升级！特朗普想“扫地出门”的白宫记者团是什么来头？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 日经中文网
-- 时间: 2026-09-22 01:06
-- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxNMVRfQkVGS2JzOTlxS2cwaGlTamFjbGx3Zkg0T2tWQmkwMnRKVFdLOFI2RnhRbWdZT3ZhaTVYMVRhZFUyNkRUaVZZbHJOV3gxX0NUSE1JTFdrU2Z5MGJDWk5HWTVYUDl3bUZab2dMMFhFOFlfaUFzbmp4WU5SNExkcWJfX1ZZWURQRFdra1o1bw?oc=5>
+- 场馆: thepaper.cn
+- 时间: 2026-09-22 09:58
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lLVF6bklSVEhOT0dJWTFuUGpxZHVvVHZleTF3T1prT2RJczEyeDRjVXJWZjNqeTNBWmRhVWdFRXVVSExPeVc1VzVhWlJZRUhpZi1QaE5ONFZJeXVRM3duWg?oc=5>
 
-### 高市抢先见特朗普，“担心美国对华让步”
+### 封杀CNN等媒体后，白宫上线“特朗普电视台”
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: 观察者网
-- 时间: 2026-09-22 06:00
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5tR05uSjg2Ylk2V01UQTF3NXU4azdZT1pEdzJlaGFWVDBSR0YzYnhwQThnMTJ5cUtPUDNfM2xGZFBUR0lCNWw2OWM4YjZLM25vcjBLVFdzNHluQnlGM3JnZ0pOOVpDWElPZElnQU1XRXI3X28?oc=5>
+- 时间: 2026-09-22 05:08
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE12eF9SSGZjV1I2Z05uclk2SUllS3VXY05FN1UxUGNacTk3UkpNZlJwZ29waWk0ckZGU1YzY056QUlSOU5NTUlWMFgzeHVuWDVPQmxBRzZWaktURU81WWJ5TWFyaTh1LXI2cHp0ZVRIRVd3dU0?oc=5>
 
-### 美国按兵不动 沙特求援遭拒
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-22 06:37
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9QQnR6RWxZQmgzQnJFbDJ2bzRCcHh3VkIzQkMxNUZLWXQtSC10aW9zM1M3R2ppS1pXZ2t4S0Nhcks2V1V6UGxBQ3VRLWxBYjZJZWFPRWZRWlY5NjhDU1NIYVhiVzVvTUdSOUM5WTN0dWJEQ1ducmFjLQ?oc=5>
-
-### “习特会”在即，中美贸易“暗战”小动作不断
+### 20多位民主党议员致信特朗普 要求确保中国车企不得进入美国市场
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-09-22 04:30
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE4wNVR6V0NJTU1pNlJNaHhTYlBOQ0JJcTJmVTVqeWJPZW1KazdCMDF4YkVuX3NqOHNaVHFUbkJ5MzJjWFlraGlwd3VySUhBNENNZm83X01qX0VmSDhsMW5sLUJkUllkSGp5OHRwYTk3bw?oc=5>
-
-### 习近平如何看待“习特会”：占据政治优势、底气更足
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-09-21 17:55
-- 链接: <https://news.google.com/rss/articles/CBMid0FVX3lxTE1zNGVVUkhzNUlsUk9NZlNyeWVZZGxiRHI3Z1ZINFRpYVJIbVRIb0hETnRLazBxVWZieFdwcS01cjhKZUo5aVMwdUIxZ0gzZmgwa3RraFB4THVpZGZEY19mdmwzZTBXbnFqQzlOTTFmWlA0blV0U0lB?oc=5>
-
-### 第比利斯特朗普大厦举办群星云集启幕盛典，盛大开启全球首秀， 俯瞰格鲁吉亚首都
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美通社
-- 时间: 2026-09-22 06:57
-- 链接: <https://news.google.com/rss/articles/CBMiV0FVX3lxTE1GdTZtZFN1NEJSek9LLWRxd2lXS2dOZm9mQl9BX3JhVmg5UUJST1NrdHNNaktNdUgwWkNuRnFHZlJ5X08tZ0laWjU5RUVacThWMmhZRzhNWQ?oc=5>
-
-### Trump warns of "eliminating Iran"; Iranian president to attend UN General Assembly—signaling a potential shift toward peace talks?
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 富途牛牛
-- 时间: 2026-09-22 04:19
-- 链接: <https://news.google.com/rss/articles/CBMipgFBVV95cUxOMHJtN01fdi1WUUtJYTduSHc4ZnZJVVZaTS00SE5LTkRSb19uZ0dTSDlDNjllZzlpbG91ODhSMi0xTmFUZGgtTnprbzlKZWc3UGVQa0hrYUVlUlc5bHFWbU5wTDR4S3ZiRW4wUUtqVkpBUUl1TEVwc1pPNjd0ZVpMR2gyV3MtN1Nyai1oZW1WRnhfaS1sVjVST3pvQXZJN1FQMmZkVmRn?oc=5>
-
-### 比拜登还惨！川普民调「崩跌剩32%」创新低
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 文学城
-- 时间: 2026-09-22 07:32
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE8zNGNfRmN4VWhhNEdndU5OdnE3UGlfVjFUTlpUenQzU3Q4V3VMUjRkN2FrZXd3ZkhyZ2R1T2tYaDJ1SnROMUpVSkpQMi1VZnBoWWk0X2NYZEFTT19JclU3OGZuZ1gwZERY?oc=5>
+- 场馆: RFI
+- 时间: 2026-09-22 11:47
+- 链接: <https://news.google.com/rss/articles/CBMiswNBVV95cUxNOU1nWVJvUHlhRkVOYW1PSF8xR1NZWkNURGpZME9hYjlDR1RvdVRQa3kxaFRtWXZ5SUlWR2FwS1ZVUHFmZUh6N25xMEstSzIzdE1YWHdUMWxrQ195X25lcEhmdVRsQTVLWjByWHluMi1DSEJrMmRBbVUxQ3JKRE1MaGc1aUtILS1FSzF0ajJ4Y2ZpV2xiVUJVR1V4TnN1VzJqZUVGQlgtWWVnZnpXSHNaSTBweFVXVHVHZW0wNlE2Z2hvXzUybVZ0YWtnRHFaQzBzTi1JT05uUVZZaklCYmRmUXpMY2ZvWFFPcUcxVGEwTzZDNjNDS244VHdGXzlLV0hIalQ4ZjdkaHp0VFc0dUZQYjNETEEyeVhwcTVXRzhQejJjY09JNHE3a2ltZGpEZWhQTDNpcFdJTmlNUW9zTUNIZVpTOUZfdWJBOHlTOGs3R1ZFNE8zYWtCSWRzLXExeFhtOExkNERrUDhkNnB1cllIT2Voc1R6RjNiWTZXNVhPUnlHaTU5SkxPTVVkeC1RQ09RdkRhX2N4ekxXaUQxZFg1Sjl2NFBiMGFudDBndEJjci1EYjg?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-22 13:32  (10 条)
+
+- **特朗普** | 习近平出访华盛顿：人们正紧张地等待大幕拉开 <https://news.google.com/rss/articles/CBMiuAJBVV95cUxNQ0x0UGZET2YxRWlVYkZTeWs3SmRERGprdFREanFEVXJzMURGUHg0RkpQR1FxaVJCMThabGw2Mi01N0pmbHZEREhDckhvV3RQU1BqakwyOGZzY09QamVVYU1KYjRvY3R3Zm9ab0IyT09YX1kxT0N0cmU2QVVrNm1BME1KckJETktRWG90OGc4SHNta1pMdHBabWF4MlhPUVg1ckZOVjlBMTdZVDhhY2tZdWJEOWZjSkJlcTdQLS1VN2M4R1lwcDhaenJfb2dodGhEajN0a1UtOWRCSWJXVzNVd1ZCaDRDXzBYVS1BWEdKVE1MZGt2TlFGQWUzS1lYRUdJU25TaTBwdGVTWEw3ZmVONHJucEI3TkhRd3pqa0NqWFlHZU9POXQ4akVwa1dscUowVERnUEpZWDHSAbgCQVVfeXFMUHNCaDg1emhMWWpQSnJvRVZkUHMwYUxaZHVNU1B4QjhQY1Fjal9Ga3hQaWRkMWRhVXlUU0V3eW9KNWs3YzVjRVdzcUNUbEJ2WUxfRXpENWVXWl9pU1hFRW1CVTBjaDF6UlNqY29vY1ZtSHg1N05BZkl0Y2pmUHRxYUE2b1Y2cU5JcEYzTGlkRmI4X1lra0xBQnU3S0pGLWpTdEJORGZ5TFdsMW9GZThhNm51VmM2WFhQdFVnNnlXRzNkX1ZyM3NIbS02M3dYakVJSlB5ZWRRTzVyYjF4Z0pQNFE4aUhCTHRHTFJiTXVUdEw1OXZfYmFaelU5ZWl3SC1PUC1EX29wSEExaVRUX1JQN0RRdmxMVmd2Vk1KeXA5TUZKQnlCOUVUY2xTSmY4bklsbFRfNXJ4UmVF?oc=5>
+- **特朗普** | 习近平据报将促特朗普依《八一七公报》停止对台军售 中方提协助向伊朗施压 <https://news.google.com/rss/articles/CBMi7wNBVV95cUxPSGk1LVFfTWl4Tnh6N0NSX0V5X0JvTzllcFVyTExmRGl3WVVxSnV5UXp5dFFfOUlCMUNYaGN1dUl0eWlMRFNXT0NpeWRjZlEtYXVUdXBITUdnU2NjYllEcGxvX053VVk4TU45NS1hZW1wTVRoTFdUUTlKcU9tdnFBRUxmM3JqcGJ0eU9lcU9yYXozd1FMWEtjOTJFTVFxVHBlb0xEbDdMMHFod2hvbUI1emZhRFZRdEZ6Sk5YMVZJVmMtNkFNVmc5Y09ZSnpVVGpIZ0JUS1YtMU1vb2l1SGQxRjBHNjdtUUtFbTNwbUpaLVBMVmpIb21TZlRKenltNVJSakFSTFRZZXdrTmZJbktwX2gwUjN4cTJxYmVqN0txbkczVDVsMnJISmJXR3dtRVMzanFjVENFNFpkbE1NX1lVRUh2anN3aXVlNHIxNVlScmVWSFQxWE5lbnlBUWgzaG1yYmZ2cWFhZ3hkVFdqb1o1dEJJZUFnUFZDcktMWUtkeGEydDI1Y00zel83VUlGTU5kWGM2M3hPcjFrRWI0WTBLdXhZNVBvRWNNSjhVb3prWk1NUnF5U1FBam9jUDdQNi1vOVhwMEpNVnJIYTRpaXVZVzExSkVBRVNyNWs4N3dYbDBsbi13RE1GWmJDVzV2b1U?oc=5>
+- **特朗普** | 特朗普将亮相联大：聚焦伊朗 密集会见多国领导人 计划与丹麦签署协议 <https://news.google.com/rss/articles/CBMi8wNBVV95cUxNaXl5VUk5RnRMbnYzaVlBT2VCTzJ6LTVZckItQ3V0OGROYWlpSTJ2WXZsYk1CcWdHV3BHMnk1enUtUzRTQk1kTE50SUowdzEwbUNCT1pROF91RG5JVU5ucGZGMjR1OE5wZUZUcTFTdDFwNWw4aHpiN3lvQkF1RE9DSmJzRk8yeDRNYUJUQkdWdlJXWkc5R0dnTTJTRXpFMmJoRTR0QnJab3hST3ZpalFrTVRGNzk1RnRHUFhCZHduQUQzRDJPV0dhVk1ranlNSW9mcTlqamhOZUZ2TW0ybURMaTRkM0l3Z2RLbGd1TEVYY2o0UXNVZzFqR1BZYm96NEpyRmxrRnF2Nk81YzhKUzFhWlVhZFFWOExNQWh2WDBuYXM5RmMxZ3pJMFlnTElLWlduV0s5T0ljVEl6dmNHTk9qX0pBNmJOOXJPdElVeDZDUnNVOUxpVHYxVDhHdFNTeU4xQkk0NnJLTjI3ZGZhX1oyLUtiR21YMmg5ZjFmbjFIbS10YnpPTlN5NGZuM0lMY3RpeThvRWs3WFhkaU1ZY0hQRUpaSlh3OW44TTR5WWV1bG1ubnE1ZGwtOVhoLXlQMURWUndnelFtY1ZjdElqaGVZWVd1bGtxbmFFUVpIQjA3c3FxTUxvX29UbzZIZFBfanpJUUtB?oc=5>
+- **特朗普** | 避免重现这一幕，联合国：已“反复检查”自动扶梯 <https://news.google.com/rss/articles/CBMic0FVX3lxTFBiSldkcy1zT3MzZF93VVZJTTFJb2dfSUE2Rmh4X2NuYjVIYk05WEtTYk5tdXdEb1lqNXRDbnNld2huSkZEV29jYUR1NGhNcXVoT01NS2J1UWpqNUtpZE93YU5kUk9fcDRQc1N3R2VpSnltY3c?oc=5>
+- **特朗普** | 特朗普周二会晤海湾领导人：打伊朗还是找出口？海湾国家面临双重风险-市场参考 <https://news.google.com/rss/articles/CBMiT0FVX3lxTE5yRmFrRy1wV0k2SzFJXzUtYm51aTNNOHRVQndtOTVndU5SRFZYVk92SU55X2p1WU5nczQxYTlWOXlpbnJ6NE5xcEllZ3VYRGc?oc=5>
+- **特朗普** | 白宫宣布推出“特朗普电视”：24小时播放、实时更新 <https://news.google.com/rss/articles/CBMib0FVX3lxTE1NWWgxWkdESE4wOHRyeGhGeXFZa1NKRnNOc1lyeHpFN1FhNzZ5Z1pkYmtfOXBTVy1DZXNsXzVhLVhCdlRNTER2YzVLTUMzZ1NFQm8tWldYb1pfM3h2OWtBRnpaVTZEWUJqV0ctclNiaw?oc=5>
+- **特朗普** | 美使馆敦促立即撤离！特朗普再威胁“夷平伊朗”，曾38次称战争即将结束 <https://news.google.com/rss/articles/CBMi0AFBVV95cUxOY042UmVwbjRESWxzS2VIZW1PVU9keUlUZ0t1dld6YnJHTkxJY1JCZmhTSk12b2dRaHA5R1hkcUlVbmI1M2JVZ1B6bnkwWFliaExuOURJSkpJeXJXcXczWm5pWG5QZ1UyVGVGUXQtRDVNaVRqZ0VhQUkzNGllMHZMbnNCcjU4dVd5VEJicE1pdjZIMVVMMDExdXFUQ1RhWUtXYWJidG9venJsMDRIaEw1WVNPY3hIM3lndHU5ZFR5TjloOFZsUVh6SEdsQWFSeHhI?oc=5>
+- **特朗普** | 火药味升级！特朗普想“扫地出门”的白宫记者团是什么来头？ <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lLVF6bklSVEhOT0dJWTFuUGpxZHVvVHZleTF3T1prT2RJczEyeDRjVXJWZjNqeTNBWmRhVWdFRXVVSExPeVc1VzVhWlJZRUhpZi1QaE5ONFZJeXVRM3duWg?oc=5>
+- **Trump** | 封杀CNN等媒体后，白宫上线“特朗普电视台” <https://news.google.com/rss/articles/CBMic0FVX3lxTE12eF9SSGZjV1I2Z05uclk2SUllS3VXY05FN1UxUGNacTk3UkpNZlJwZ29waWk0ckZGU1YzY056QUlSOU5NTUlWMFgzeHVuWDVPQmxBRzZWaktURU81WWJ5TWFyaTh1LXI2cHp0ZVRIRVd3dU0?oc=5>
+- **Trump** | 20多位民主党议员致信特朗普 要求确保中国车企不得进入美国市场 <https://news.google.com/rss/articles/CBMiswNBVV95cUxNOU1nWVJvUHlhRkVOYW1PSF8xR1NZWkNURGpZME9hYjlDR1RvdVRQa3kxaFRtWXZ5SUlWR2FwS1ZVUHFmZUh6N25xMEstSzIzdE1YWHdUMWxrQ195X25lcEhmdVRsQTVLWjByWHluMi1DSEJrMmRBbVUxQ3JKRE1MaGc1aUtILS1FSzF0ajJ4Y2ZpV2xiVUJVR1V4TnN1VzJqZUVGQlgtWWVnZnpXSHNaSTBweFVXVHVHZW0wNlE2Z2hvXzUybVZ0YWtnRHFaQzBzTi1JT05uUVZZaklCYmRmUXpMY2ZvWFFPcUcxVGEwTzZDNjNDS244VHdGXzlLV0hIalQ4ZjdkaHp0VFc0dUZQYjNETEEyeVhwcTVXRzhQejJjY09JNHE3a2ltZGpEZWhQTDNpcFdJTmlNUW9zTUNIZVpTOUZfdWJBOHlTOGs3R1ZFNE8zYWtCSWRzLXExeFhtOExkNERrUDhkNnB1cllIT2Voc1R6RjNiWTZXNVhPUnlHaTU5SkxPTVVkeC1RQ09RdkRhX2N4ekxXaUQxZFg1Sjl2NFBiMGFudDBndEJjci1EYjg?oc=5>
 
 ### 2026-09-22 08:09  (17 条)
 
