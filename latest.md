@@ -1,118 +1,166 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-22 02:50**
-- 本轮扫到 12297 条, 新增 **14** 条
+- 最近更新: **2026-09-22 08:09**
+- 本轮扫到 12314 条, 新增 **17** 条
 
 ---
 
-## 本轮新发现 (14 条)
+## 本轮新发现 (17 条)
 
-### 王一博在维港见面会为何用非遗舞狮开场？
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801lbs0.html>
-
-### 普通粉丝能否参加王一博的邀请制见面会？
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801lbrw.html>
-
-### 王一博维港见面会：非遗醒狮开场，摸狮头瞬间爆红
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801lbrg.html>
-
-### 张睿为看周杰伦演唱会，连线刘畊宏秒变健身达人
+### 张睿与刘畊宏连线，周杰伦演唱会成诱饵
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6092210231_m16b1fc03703301bc4y.html>
+- 链接: <https://k.sina.com.cn/article_2839377332_a93d75b40400244hk.html>
 
-### 2026演唱会票务购买全攻略：强实名制下怎么抢票不踩坑+FAQ
+### 周杰伦神预言成真，刘畊宏三公淘汰将赴演唱会
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776510_1d5abd8fe06801cgfa.html>
+- 链接: <https://k.sina.com.cn/article_3936319134_mea9f769e05301be38.html>
 
-### 美国5大电视网白宫记者团暂停报道特朗普，3大媒体联合起诉
+### 这位男士令周杰伦都“束手无策”，每首歌发布即爆红，却因被调侃半生
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_6041830291_m1681f039305301elfu.html>
+
+### CNN 等三家美国媒体被禁入白宫后 起诉特朗普政府
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: bbc.com
+- 时间: 2026-09-22 07:04
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLNWRlUmZqd2lBZzdTb2hkZTFZc3dTUzcyQzJod3lDTmFJUnJ6Qmdad0F1alZhVTNzT0dXNUZWZnhyb0U5UE04Z0NGU0dEOWlueHJsRmE1c3RuN0FKeVQwdnVzUXVQMUnSAWxBVV95cUxPeWJWVUtybVp5NFY3THN2SzBXWjJ0RjIySngtLTdFN29QeXhIcWRySEllWGhwT2s0QWpLS3YzS09yMFBOVGc2ZlVUWFNRajlOdThKell3dFZLeC0wbEtzbEUtN05RUmV3TnVWZHA?oc=5>
+
+### 马克龙：与特朗普讨论俄乌“能源停火”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者网
+- 时间: 2026-09-22 02:22
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE04dXAwVlQ3UndOOWxYam13QVpRSEJ1ejhJUXptRXNuUFpHaXlTRFZaczFMREtwRXRqeDJ2cHhQSGtEOTdwYVBJRWk3bnBmc1RpSzY4aVJ1Nm5WVmlsMGRRWk5TMktqOGNMbVpjYi1pQnRDOU0?oc=5>
+
+### “柴油、柴油、柴油”，特朗普又致电泽连斯基，敦促停止袭击俄炼油厂
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-09-22 07:42
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ma1pQWEh5UE5hWDBKQ0kyM2lEWXFTNlNsTFhGWGd3ZzFVajhGdGJ4N09yQkZwOWFtWFpZQmk2WEYtNFdYMnJSTkFaMW5zQWFpSXAtamJ4LVNmcVdjTVE?oc=5>
+
+### 特朗普将亮相联大：聚焦伊朗 密集会见多国领导人 计划与丹麦签署协议
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-22 07:21
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxPbzlTUUp2LXVockNUNnoxMWY0TzVFNGVxemxlR09UZWJjNjRITW9Mc1V0c3gxXzZnX2VjTXNwZkRBNWVOWHEwd1NNOWdEaW5UdXBVblNnSFlPQm15bVlvazBLcml3TjhxT3RkZzdjZVhWWkktTzVTMGltX0FELWNtSHJHdUxmVEU?oc=5>
+
+### 美使馆敦促立即撤离！特朗普再威胁“夷平伊朗”，曾38次称战争即将结束
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-21 23:52
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNb08zeXl2Mk1COThqRXd1T1R6TVIzWmF5dzYwVS1QU0F4dnlkZHRoRXlWbjVTeTJVWkM4SDBvQXVFR3FfYTdYV3N1clNKellLRWNZcEU2ZVVTTHRyM0dNUURLNmtKZG0xVi1pbE9neGh3VVVHajRlOWtYTFRmZ0hwVk1zVUM2T1lhUVJBbW1vVTFoT3JiQjltc2gwU2tpS3JxbUI3cEZmYUZsUXQ1cVFQVlBVSVRoVkFaSlFIUmJDOGhwbjhJNEtISU9laFFOdmtE?oc=5>
+
+### 美军都不想打了，特朗普众叛亲离？美媒报丧：美军正在闭着眼挨打
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-09-22 01:57
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE8yUGZNNXA0X01FX0wyempBQ0RadGRzSXJZRkdUaEdYb1V0TTNfQVVOWldFVHVLOHlSYVlmdHlhVTUwbzZjQ18yLVpIcUk?oc=5>
+- 时间: 2026-09-21 22:31
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9LT1U4RmU4V2d4TTREdUVFcmV4T3pfci13OGIwVWxrZG00R2ZVZnVVSkhDb3I5a0NyOWEzUi15ZjNPUTRRU05jcDZMRQ?oc=5>
 
-### 特朗普称只会鼓励AI发展 纳斯达克综合指数涨2.26%
+### 高市与特朗普会谈将强调对美投资贡献
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 日经中文网
+- 时间: 2026-09-22 01:06
+- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxNMVRfQkVGS2JzOTlxS2cwaGlTamFjbGx3Zkg0T2tWQmkwMnRKVFdLOFI2RnhRbWdZT3ZhaTVYMVRhZFUyNkRUaVZZbHJOV3gxX0NUSE1JTFdrU2Z5MGJDWk5HWTVYUDl3bUZab2dMMFhFOFlfaUFzbmp4WU5SNExkcWJfX1ZZWURQRFdra1o1bw?oc=5>
+
+### 高市抢先见特朗普，“担心美国对华让步”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者网
+- 时间: 2026-09-22 06:00
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5tR05uSjg2Ylk2V01UQTF3NXU4azdZT1pEdzJlaGFWVDBSR0YzYnhwQThnMTJ5cUtPUDNfM2xGZFBUR0lCNWw2OWM4YjZLM25vcjBLVFdzNHluQnlGM3JnZ0pOOVpDWElPZElnQU1XRXI3X28?oc=5>
+
+### 美国按兵不动 沙特求援遭拒
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-09-22 01:57
-- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTFAzOWh6U1I5MUVLeUdRc01JRHo1N0ROenp1T0FKWU1XMVhQN0xHNjBTTDNjeUdsLUZGV3JUNk9Gci11Nm1mTWNVdW5pcDFqeExLZjVqV3JCcUZTS3VUOXdGYW9zckNRbFJPb2xEaVR3?oc=5>
+- 时间: 2026-09-22 06:37
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9QQnR6RWxZQmgzQnJFbDJ2bzRCcHh3VkIzQkMxNUZLWXQtSC10aW9zM1M3R2ppS1pXZ2t4S0Nhcks2V1V6UGxBQ3VRLWxBYjZJZWFPRWZRWlY5NjhDU1NIYVhiVzVvTUdSOUM5WTN0dWJEQ1ducmFjLQ?oc=5>
 
-### 高市早苗欲抢先与特朗普会晤 争夺美方支持
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-09-22 01:45
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5YNl9RSXBJcUFUcGl1UWJzQjNrQWp3LU5jM1hGOUo3U3ZhcV82eGtkRm9FMUp4N1FtNXh6SE1ZdnJIc25RMlJHSjlqMWVsd3hSM0xFSFFablNUcUNPQWJMOGpLX3doZEl5WXNSbG1CWXE?oc=5>
-
-### 高市启程赴美出席联大 将与特朗普举行会谈
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 共同网
-- 时间: 2026-09-21 13:37
-- 链接: <https://news.google.com/rss/articles/CBMiV0FVX3lxTE9FMlduMHpVZW54LVBmTF9yV054a3hkR0JVMDJlRFhYT1BIVVNGSmRXdENLcjdFT2U3NTd2cmdELXdvT0lNMjNBc3VQSzd6SnVjdk1Md1pUVQ?oc=5>
-
-### 美乌总统通话，小泽想见特朗普，核心诉求已变？特朗普或达成所愿
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-09-21 22:11
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5jQ3ZlMDVldTB2c0ZkWE0tZy1PZHI5cElXNHVwNlk3bnMtWWpMckltck5yM2VZbXVGMHV3N2p2NHhISHpVSWZPd1hVSQ?oc=5>
-
-### 数据显示：特朗普今年890次点名批评拜登，单日最高有16次
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-21 16:20
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE14TUF6SVhmU2FYTUw0NEJGMDkzUFNFWmJQMWVwSVU5MVJ1OXpuY2NXU0ZnT0dzWWpYN0JfSFdYdC1JWEVlc0JEWGpic2tnSk9RR0FYVVVvc2lsblhsbUNCUVNva0Ntb3lQTUppSW9fZldCU3hhRTZYQQ?oc=5>
-
-### 特朗普签署对俄制裁新法案
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-19 23:32
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNb21XcVhBeHVVZGNpMTIwRS1TZllFQ3dkN1hVRWpidUFDYUJxUG5UX1BuWkN6TGxaSWRxVU5pS2lVMV9iQVI4VEJpUWxHTGlIWnpEY1BoZ0ItaVkxcDZwZF9GbHlIclRxdy1CRDhyTVdVM1dMMFdkaDRtd0s2dEEybVltd1FIMk9oSjE4QVZCVTE5TU9fbGJtZks5WDduTlFqaTFoTWJrc1M3cWNZMGF0VjNJS2Uxd2NGbHZuOTVudlZmaFNQczdtRXE4WktZRlFJ?oc=5>
-
-### 特朗普与马姆达尼跨越政见分歧维持融洽关系
+### “习特会”在即，中美贸易“暗战”小动作不断
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-09-22 00:46
-- 链接: <https://news.google.com/rss/articles/CBMiogFBVV95cUxPajBDZTdwOGFKMEo1Z2JlaE9jRXpUek8xdnVkNG0wYkZOc3Bjd3pkRHNMRThWZEN5RFhuTFdFRVg4TnpVaXBtMF9MZ0VoU2F5TUsyLWRaYUVKa09CalBWMmMtNGpkQVJZM2NOejlVSDBRUHA2cl9peVlhTHJCT3RsM0FBZU0zVUF4NGRYVXVuRDQ2VkZDQzBZejdOTHc0aUFIOVE?oc=5>
+- 场馆: 纽约时报中文网
+- 时间: 2026-09-22 04:30
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE4wNVR6V0NJTU1pNlJNaHhTYlBOQ0JJcTJmVTVqeWJPZW1KazdCMDF4YkVuX3NqOHNaVHFUbkJ5MzJjWFlraGlwd3VySUhBNENNZm83X01qX0VmSDhsMW5sLUJkUllkSGp5OHRwYTk3bw?oc=5>
 
-### 白宫宣布推出全天候 TRUMP TV 直播——《耶路撒冷邮报》
+### 习近平如何看待“习特会”：占据政治优势、底气更足
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: UA.NEWS
-- 时间: 2026-09-21 19:07
-- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxQd0hLX205OTRTQTZEYWhtUTVBcU9TbFg4Q084MzcxMTg1YmZRZG43NW9TY195RUZwQzN5alZKTklTUW92dUNILTJPMEFfaGtCOEpZbk1DOGphcmpiN2NhR1MzenRvVGR5b0pUNXAtRVhGWG5aV1FyU1lHOHFhdFNOUElBb2RfVzEtd21MM1BhVlMzcDlfWU9McXhEZF9WUVMx?oc=5>
+- 场馆: 纽约时报中文网
+- 时间: 2026-09-21 17:55
+- 链接: <https://news.google.com/rss/articles/CBMid0FVX3lxTE1zNGVVUkhzNUlsUk9NZlNyeWVZZGxiRHI3Z1ZINFRpYVJIbVRIb0hETnRLazBxVWZieFdwcS01cjhKZUo5aVMwdUIxZ0gzZmgwa3RraFB4THVpZGZEY19mdmwzZTBXbnFqQzlOTTFmWlA0blV0U0lB?oc=5>
+
+### 第比利斯特朗普大厦举办群星云集启幕盛典，盛大开启全球首秀， 俯瞰格鲁吉亚首都
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 美通社
+- 时间: 2026-09-22 06:57
+- 链接: <https://news.google.com/rss/articles/CBMiV0FVX3lxTE1GdTZtZFN1NEJSek9LLWRxd2lXS2dOZm9mQl9BX3JhVmg5UUJST1NrdHNNaktNdUgwWkNuRnFHZlJ5X08tZ0laWjU5RUVacThWMmhZRzhNWQ?oc=5>
+
+### Trump warns of "eliminating Iran"; Iranian president to attend UN General Assembly—signaling a potential shift toward peace talks?
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 富途牛牛
+- 时间: 2026-09-22 04:19
+- 链接: <https://news.google.com/rss/articles/CBMipgFBVV95cUxOMHJtN01fdi1WUUtJYTduSHc4ZnZJVVZaTS00SE5LTkRSb19uZ0dTSDlDNjllZzlpbG91ODhSMi0xTmFUZGgtTnprbzlKZWc3UGVQa0hrYUVlUlc5bHFWbU5wTDR4S3ZiRW4wUUtqVkpBUUl1TEVwc1pPNjd0ZVpMR2gyV3MtN1Nyai1oZW1WRnhfaS1sVjVST3pvQXZJN1FQMmZkVmRn?oc=5>
+
+### 比拜登还惨！川普民调「崩跌剩32%」创新低
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 文学城
+- 时间: 2026-09-22 07:32
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE8zNGNfRmN4VWhhNEdndU5OdnE3UGlfVjFUTlpUenQzU3Q4V3VMUjRkN2FrZXd3ZkhyZ2R1T2tYaDJ1SnROMUpVSkpQMi1VZnBoWWk0X2NYZEFTT19JclU3OGZuZ1gwZERY?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-22 08:09  (17 条)
+
+- **周杰伦** | 张睿与刘畊宏连线，周杰伦演唱会成诱饵 <https://k.sina.com.cn/article_2839377332_a93d75b40400244hk.html>
+- **周杰伦** | 周杰伦神预言成真，刘畊宏三公淘汰将赴演唱会 <https://k.sina.com.cn/article_3936319134_mea9f769e05301be38.html>
+- **周杰伦** | 这位男士令周杰伦都“束手无策”，每首歌发布即爆红，却因被调侃半生 <https://k.sina.com.cn/article_6041830291_m1681f039305301elfu.html>
+- **特朗普** | CNN 等三家美国媒体被禁入白宫后 起诉特朗普政府 <https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLNWRlUmZqd2lBZzdTb2hkZTFZc3dTUzcyQzJod3lDTmFJUnJ6Qmdad0F1alZhVTNzT0dXNUZWZnhyb0U5UE04Z0NGU0dEOWlueHJsRmE1c3RuN0FKeVQwdnVzUXVQMUnSAWxBVV95cUxPeWJWVUtybVp5NFY3THN2SzBXWjJ0RjIySngtLTdFN29QeXhIcWRySEllWGhwT2s0QWpLS3YzS09yMFBOVGc2ZlVUWFNRajlOdThKell3dFZLeC0wbEtzbEUtN05RUmV3TnVWZHA?oc=5>
+- **特朗普** | 马克龙：与特朗普讨论俄乌“能源停火” <https://news.google.com/rss/articles/CBMic0FVX3lxTE04dXAwVlQ3UndOOWxYam13QVpRSEJ1ejhJUXptRXNuUFpHaXlTRFZaczFMREtwRXRqeDJ2cHhQSGtEOTdwYVBJRWk3bnBmc1RpSzY4aVJ1Nm5WVmlsMGRRWk5TMktqOGNMbVpjYi1pQnRDOU0?oc=5>
+- **特朗普** | “柴油、柴油、柴油”，特朗普又致电泽连斯基，敦促停止袭击俄炼油厂 <https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ma1pQWEh5UE5hWDBKQ0kyM2lEWXFTNlNsTFhGWGd3ZzFVajhGdGJ4N09yQkZwOWFtWFpZQmk2WEYtNFdYMnJSTkFaMW5zQWFpSXAtamJ4LVNmcVdjTVE?oc=5>
+- **特朗普** | 特朗普将亮相联大：聚焦伊朗 密集会见多国领导人 计划与丹麦签署协议 <https://news.google.com/rss/articles/CBMihwFBVV95cUxPbzlTUUp2LXVockNUNnoxMWY0TzVFNGVxemxlR09UZWJjNjRITW9Mc1V0c3gxXzZnX2VjTXNwZkRBNWVOWHEwd1NNOWdEaW5UdXBVblNnSFlPQm15bVlvazBLcml3TjhxT3RkZzdjZVhWWkktTzVTMGltX0FELWNtSHJHdUxmVEU?oc=5>
+- **特朗普** | 美使馆敦促立即撤离！特朗普再威胁“夷平伊朗”，曾38次称战争即将结束 <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNb08zeXl2Mk1COThqRXd1T1R6TVIzWmF5dzYwVS1QU0F4dnlkZHRoRXlWbjVTeTJVWkM4SDBvQXVFR3FfYTdYV3N1clNKellLRWNZcEU2ZVVTTHRyM0dNUURLNmtKZG0xVi1pbE9neGh3VVVHajRlOWtYTFRmZ0hwVk1zVUM2T1lhUVJBbW1vVTFoT3JiQjltc2gwU2tpS3JxbUI3cEZmYUZsUXQ1cVFQVlBVSVRoVkFaSlFIUmJDOGhwbjhJNEtISU9laFFOdmtE?oc=5>
+- **特朗普** | 美军都不想打了，特朗普众叛亲离？美媒报丧：美军正在闭着眼挨打 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9LT1U4RmU4V2d4TTREdUVFcmV4T3pfci13OGIwVWxrZG00R2ZVZnVVSkhDb3I5a0NyOWEzUi15ZjNPUTRRU05jcDZMRQ?oc=5>
+- **特朗普** | 高市与特朗普会谈将强调对美投资贡献 <https://news.google.com/rss/articles/CBMijwFBVV95cUxNMVRfQkVGS2JzOTlxS2cwaGlTamFjbGx3Zkg0T2tWQmkwMnRKVFdLOFI2RnhRbWdZT3ZhaTVYMVRhZFUyNkRUaVZZbHJOV3gxX0NUSE1JTFdrU2Z5MGJDWk5HWTVYUDl3bUZab2dMMFhFOFlfaUFzbmp4WU5SNExkcWJfX1ZZWURQRFdra1o1bw?oc=5>
+- **特朗普** | 高市抢先见特朗普，“担心美国对华让步” <https://news.google.com/rss/articles/CBMic0FVX3lxTE5tR05uSjg2Ylk2V01UQTF3NXU4azdZT1pEdzJlaGFWVDBSR0YzYnhwQThnMTJ5cUtPUDNfM2xGZFBUR0lCNWw2OWM4YjZLM25vcjBLVFdzNHluQnlGM3JnZ0pOOVpDWElPZElnQU1XRXI3X28?oc=5>
+- **特朗普** | 美国按兵不动 沙特求援遭拒 <https://news.google.com/rss/articles/CBMieEFVX3lxTE9QQnR6RWxZQmgzQnJFbDJ2bzRCcHh3VkIzQkMxNUZLWXQtSC10aW9zM1M3R2ppS1pXZ2t4S0Nhcks2V1V6UGxBQ3VRLWxBYjZJZWFPRWZRWlY5NjhDU1NIYVhiVzVvTUdSOUM5WTN0dWJEQ1ducmFjLQ?oc=5>
+- **Trump** | “习特会”在即，中美贸易“暗战”小动作不断 <https://news.google.com/rss/articles/CBMib0FVX3lxTE4wNVR6V0NJTU1pNlJNaHhTYlBOQ0JJcTJmVTVqeWJPZW1KazdCMDF4YkVuX3NqOHNaVHFUbkJ5MzJjWFlraGlwd3VySUhBNENNZm83X01qX0VmSDhsMW5sLUJkUllkSGp5OHRwYTk3bw?oc=5>
+- **Trump** | 习近平如何看待“习特会”：占据政治优势、底气更足 <https://news.google.com/rss/articles/CBMid0FVX3lxTE1zNGVVUkhzNUlsUk9NZlNyeWVZZGxiRHI3Z1ZINFRpYVJIbVRIb0hETnRLazBxVWZieFdwcS01cjhKZUo5aVMwdUIxZ0gzZmgwa3RraFB4THVpZGZEY19mdmwzZTBXbnFqQzlOTTFmWlA0blV0U0lB?oc=5>
+- **Trump** | 第比利斯特朗普大厦举办群星云集启幕盛典，盛大开启全球首秀， 俯瞰格鲁吉亚首都 <https://news.google.com/rss/articles/CBMiV0FVX3lxTE1GdTZtZFN1NEJSek9LLWRxd2lXS2dOZm9mQl9BX3JhVmg5UUJST1NrdHNNaktNdUgwWkNuRnFHZlJ5X08tZ0laWjU5RUVacThWMmhZRzhNWQ?oc=5>
+- **Trump** | Trump warns of "eliminating Iran"; Iranian president to attend UN General Assembly—signaling a potential shift toward peace talks? <https://news.google.com/rss/articles/CBMipgFBVV95cUxOMHJtN01fdi1WUUtJYTduSHc4ZnZJVVZaTS00SE5LTkRSb19uZ0dTSDlDNjllZzlpbG91ODhSMi0xTmFUZGgtTnprbzlKZWc3UGVQa0hrYUVlUlc5bHFWbU5wTDR4S3ZiRW4wUUtqVkpBUUl1TEVwc1pPNjd0ZVpMR2gyV3MtN1Nyai1oZW1WRnhfaS1sVjVST3pvQXZJN1FQMmZkVmRn?oc=5>
+- **Trump** | 比拜登还惨！川普民调「崩跌剩32%」创新低 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE8zNGNfRmN4VWhhNEdndU5OdnE3UGlfVjFUTlpUenQzU3Q4V3VMUjRkN2FrZXd3ZkhyZ2R1T2tYaDJ1SnROMUpVSkpQMi1VZnBoWWk0X2NYZEFTT19JclU3OGZuZ1gwZERY?oc=5>
 
 ### 2026-09-22 02:50  (14 条)
 
