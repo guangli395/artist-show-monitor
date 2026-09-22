@@ -1,72 +1,135 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-21 23:45**
-- 本轮扫到 12283 条, 新增 **7** 条
+- 最近更新: **2026-09-22 02:50**
+- 本轮扫到 12297 条, 新增 **14** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (14 条)
 
-### 特朗普：我今天会召开关于伊朗的会议。
+### 王一博在维港见面会为何用非遗舞狮开场？
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801lbs0.html>
+
+### 普通粉丝能否参加王一博的邀请制见面会？
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801lbrw.html>
+
+### 王一博维港见面会：非遗醒狮开场，摸狮头瞬间爆红
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801lbrg.html>
+
+### 张睿为看周杰伦演唱会，连线刘畊宏秒变健身达人
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_6092210231_m16b1fc03703301bc4y.html>
+
+### 2026演唱会票务购买全攻略：强实名制下怎么抢票不踩坑+FAQ
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776510_1d5abd8fe06801cgfa.html>
+
+### 美国5大电视网白宫记者团暂停报道特朗普，3大媒体联合起诉
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-09-22 01:57
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE8yUGZNNXA0X01FX0wyempBQ0RadGRzSXJZRkdUaEdYb1V0TTNfQVVOWldFVHVLOHlSYVlmdHlhVTUwbzZjQ18yLVpIcUk?oc=5>
+
+### 特朗普称只会鼓励AI发展 纳斯达克综合指数涨2.26%
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-09-21 21:23
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFB1VkxHM3RkREFzd2RncmFnZ2FwamFMYnROTVBManJkRmVZamxGT3BNRDdyS1lRcnZOQU4ydGdzcHJYYjd5NlJxeTA4dw?oc=5>
+- 时间: 2026-09-22 01:57
+- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTFAzOWh6U1I5MUVLeUdRc01JRHo1N0ROenp1T0FKWU1XMVhQN0xHNjBTTDNjeUdsLUZGV3JUNk9Gci11Nm1mTWNVdW5pcDFqeExLZjVqV3JCcUZTS3VUOXdGYW9zckNRbFJPb2xEaVR3?oc=5>
 
-### 9月22日外盘头条：特朗普称只会鼓励AI发展派拉蒙天舞就相关诉讼达成和解Meta智能体火爆刺激芯片股大涨
+### 高市早苗欲抢先与特朗普会晤 争夺美方支持
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-09-22 01:45
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5YNl9RSXBJcUFUcGl1UWJzQjNrQWp3LU5jM1hGOUo3U3ZhcV82eGtkRm9FMUp4N1FtNXh6SE1ZdnJIc25RMlJHSjlqMWVsd3hSM0xFSFFablNUcUNPQWJMOGpLX3doZEl5WXNSbG1CWXE?oc=5>
+
+### 高市启程赴美出席联大 将与特朗普举行会谈
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 共同网
+- 时间: 2026-09-21 13:37
+- 链接: <https://news.google.com/rss/articles/CBMiV0FVX3lxTE9FMlduMHpVZW54LVBmTF9yV054a3hkR0JVMDJlRFhYT1BIVVNGSmRXdENLcjdFT2U3NTd2cmdELXdvT0lNMjNBc3VQSzd6SnVjdk1Md1pUVQ?oc=5>
+
+### 美乌总统通话，小泽想见特朗普，核心诉求已变？特朗普或达成所愿
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-09-21 22:11
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5jQ3ZlMDVldTB2c0ZkWE0tZy1PZHI5cElXNHVwNlk3bnMtWWpMckltck5yM2VZbXVGMHV3N2p2NHhISHpVSWZPd1hVSQ?oc=5>
+
+### 数据显示：特朗普今年890次点名批评拜登，单日最高有16次
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-09-21 21:46
-- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE43QmVIMXRud0dTemFTcW5hSWlZNzFaWmhRZE51b3UtMG1GLXBEWnBMSjFmUkNBbFZ6c09OaENLWUp1MnRBN3U0VWE4VE5PXy1YX2U2cXRTaURGRTlWYVZsdEJ0cjBmUkhjTmN2N0Fjd182cVFzMVd3dGRn?oc=5>
+- 时间: 2026-09-21 16:20
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE14TUF6SVhmU2FYTUw0NEJGMDkzUFNFWmJQMWVwSVU5MVJ1OXpuY2NXU0ZnT0dzWWpYN0JfSFdYdC1JWEVlc0JEWGpic2tnSk9RR0FYVVVvc2lsblhsbUNCUVNva0Ntb3lQTUppSW9fZldCU3hhRTZYQQ?oc=5>
 
-### CNN等三家美媒，决定起诉特朗普政府
+### 特朗普签署对俄制裁新法案
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-09-21 13:18
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9qekJwRUNDX1NnN0ZqdG5RUHk0MXBqaG5ZVmlOVnNGSUVNY0t4VDBJOXhHWEdKb3Nrc0lWY3A5dENYeXQ2b0VvekxkQ3J1SnEzVlpkNkdmbWE4Z2FPYkVyWkZmZHVULXpuYzdMQnNGMGJ2bnJ6cnhJSA?oc=5>
+- 时间: 2026-09-19 23:32
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNb21XcVhBeHVVZGNpMTIwRS1TZllFQ3dkN1hVRWpidUFDYUJxUG5UX1BuWkN6TGxaSWRxVU5pS2lVMV9iQVI4VEJpUWxHTGlIWnpEY1BoZ0ItaVkxcDZwZF9GbHlIclRxdy1CRDhyTVdVM1dMMFdkaDRtd0s2dEEybVltd1FIMk9oSjE4QVZCVTE5TU9fbGJtZks5WDduTlFqaTFoTWJrc1M3cWNZMGF0VjNJS2Uxd2NGbHZuOTVudlZmaFNQczdtRXE4WktZRlFJ?oc=5>
 
-### 特习峰会将至，被推迟的140亿美元对台军售命运如何备受关注
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-09-21 22:40
-- 链接: <https://news.google.com/rss/articles/CBMisgFBVV95cUxQQVVicmxLWXlJdG10aGRYTzFUQTY3c1RrLXhMWnVCdEdUUlVnaXIzeC1hakFOenUwVHl1WFBOLXBUUkxBWkZ3bm53MGd2bjgzLVlibjJUM1RMQXVjV3pHaFdZOEZ5QmxjSVZRRTREWHJ2VjNGdXRpazFqVjhuVmdwcWZYcEZjVmR0VlhQWUQ4V3hlQUliTXl3TnpOZGxPQWRQRkpwWFFoV0V6aTFEMVR3dE1n0gG0AUFVX3lxTE1qRWlxRTBLU1B4NkpyYWIyWndFNWpXTjR5Y3NlUjRtdDRfcEM5LTQ4VHlQNGlGc1liWE9wUWRsX1BpWXhaYzBUNktPb3d3VFgtT2hrWjllQ0g2TmVrTW81eE1PTnk3RGNzVHRjanZGYlJwV0JvVzEyUnFLWXJZYWY4TWJXWE94MEFMbkRINW9yQmhqNHVfaUpndGZMcGVUdkVxU0Q4N2g3RWVsUnF0MnFlX1Y5aw?oc=5>
-
-### Trump VS 丁俊晖，孰强？
+### 特朗普与马姆达尼跨越政见分歧维持融洽关系
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: video.sina.com.cn
-- 时间: 2026-09-20 12:51
-- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxONVJOaXR5TkZfZmtKYzFWdEtPaUJlNjFkZWhCRXloRVJISkhOcXNPYkI3ZWktYTYxUWQwU1ZfRmtJc1l4b2lvRnYxZGdtTTY4WFp0M0JQcWtsR1d0RU9fNEdmdE16TkwwZTBDWDVDUXRDR1Vfamg5Q3N5endHeDVoWWpB?oc=5>
+- 场馆: 华尔街日报中文网
+- 时间: 2026-09-22 00:46
+- 链接: <https://news.google.com/rss/articles/CBMiogFBVV95cUxPajBDZTdwOGFKMEo1Z2JlaE9jRXpUek8xdnVkNG0wYkZOc3Bjd3pkRHNMRThWZEN5RFhuTFdFRVg4TnpVaXBtMF9MZ0VoU2F5TUsyLWRaYUVKa09CalBWMmMtNGpkQVJZM2NOejlVSDBRUHA2cl9peVlhTHJCT3RsM0FBZU0zVUF4NGRYVXVuRDQ2VkZDQzBZejdOTHc0aUFIOVE?oc=5>
 
-### 【直播】川普電視：要聞頻道（首播）
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 新唐人電視台
-- 时间: 2026-09-21 23:22
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE96cUhhZWVUd3lBNWNJQXNBNzFVaGoza05sRlZqV1hTM3pEdDRzRHRlTDBLYjdQa3dHUTlpYWJ6TGFfXzlvT21tUjNIbWlWenMyRjRBc2FjSWFUa1JseXFxTtIBZkFVX3lxTFBpLXFZeVA3YnNlaEtBaFc0dmJHRXh1cE1fSk50VmFsOTJIeENpbUpqc053X0dIeVotWEQzbUdwakl5WUJIbUtyZUZhMnMxNS1iUzg2UDN1WV9JRU15eGhUYTZvQ2U0dw?oc=5>
-
-### Des médias américains se mobilisent contre Donald Trump / Allemagne: Friedrich Merz fragilisé / Visiter Venise va coûter plus cher...
+### 白宫宣布推出全天候 TRUMP TV 直播——《耶路撒冷邮报》
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Le français facile avec RFI
-- 时间: 2026-09-21 18:53
-- 链接: <https://news.google.com/rss/articles/CBMizAJBVV95cUxQU1QxSFlLdC1SbHhpTWszSF9POG9mZjhhbWFVSVlJRnRoOWU3Q0JUUnpERThWREJ1VXozajFzOV9Qd2tUYW8xZzNTZERQU0s0QkdMNHAyY3RCa3ZEZ1dnelMtSHkyQTJ4eVQ0YjZEcm01X3ZVb0diOHBneE5KcURwRkVYLWx2VWdVUUprS3hZNi1fNGo0RlJEVkJKeE96d0dpYndFR2lIU1hnTkozaTJWMG9mQm8wZVdHUnJGTjY5WktsOUNON2NZam00bFpZT1ZHTnN4YTloWnRLM2FyQk1qLS1ISmRXMEJIWHliMm9PM2RTNGRKTUpjdTloYVVXLS1naDFkYllQVGFPRkhKX3BuYVl3SHNBM0VMRnhNUnBkR2thRHNZZHd5R0pqV1BxaU1zT3BlYXIyS29BRkJLN3hTZDBOWjNUaFNNZGhzRA?oc=5>
+- 场馆: UA.NEWS
+- 时间: 2026-09-21 19:07
+- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxQd0hLX205OTRTQTZEYWhtUTVBcU9TbFg4Q084MzcxMTg1YmZRZG43NW9TY195RUZwQzN5alZKTklTUW92dUNILTJPMEFfaGtCOEpZbk1DOGphcmpiN2NhR1MzenRvVGR5b0pUNXAtRVhGWG5aV1FyU1lHOHFhdFNOUElBb2RfVzEtd21MM1BhVlMzcDlfWU9McXhEZF9WUVMx?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-22 02:50  (14 条)
+
+- **王一博** | 王一博在维港见面会为何用非遗舞狮开场？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801lbs0.html>
+- **王一博** | 普通粉丝能否参加王一博的邀请制见面会？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801lbrw.html>
+- **王一博** | 王一博维港见面会：非遗醒狮开场，摸狮头瞬间爆红 <https://k.sina.com.cn/article_7879923021_1d5ae154d06801lbrg.html>
+- **周杰伦** | 张睿为看周杰伦演唱会，连线刘畊宏秒变健身达人 <https://k.sina.com.cn/article_6092210231_m16b1fc03703301bc4y.html>
+- **周杰伦** | 2026演唱会票务购买全攻略：强实名制下怎么抢票不踩坑+FAQ <https://k.sina.com.cn/article_7879776510_1d5abd8fe06801cgfa.html>
+- **特朗普** | 美国5大电视网白宫记者团暂停报道特朗普，3大媒体联合起诉 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE8yUGZNNXA0X01FX0wyempBQ0RadGRzSXJZRkdUaEdYb1V0TTNfQVVOWldFVHVLOHlSYVlmdHlhVTUwbzZjQ18yLVpIcUk?oc=5>
+- **特朗普** | 特朗普称只会鼓励AI发展 纳斯达克综合指数涨2.26% <https://news.google.com/rss/articles/CBMibkFVX3lxTFAzOWh6U1I5MUVLeUdRc01JRHo1N0ROenp1T0FKWU1XMVhQN0xHNjBTTDNjeUdsLUZGV3JUNk9Gci11Nm1mTWNVdW5pcDFqeExLZjVqV3JCcUZTS3VUOXdGYW9zckNRbFJPb2xEaVR3?oc=5>
+- **特朗普** | 高市早苗欲抢先与特朗普会晤 争夺美方支持 <https://news.google.com/rss/articles/CBMicEFVX3lxTE5YNl9RSXBJcUFUcGl1UWJzQjNrQWp3LU5jM1hGOUo3U3ZhcV82eGtkRm9FMUp4N1FtNXh6SE1ZdnJIc25RMlJHSjlqMWVsd3hSM0xFSFFablNUcUNPQWJMOGpLX3doZEl5WXNSbG1CWXE?oc=5>
+- **特朗普** | 高市启程赴美出席联大 将与特朗普举行会谈 <https://news.google.com/rss/articles/CBMiV0FVX3lxTE9FMlduMHpVZW54LVBmTF9yV054a3hkR0JVMDJlRFhYT1BIVVNGSmRXdENLcjdFT2U3NTd2cmdELXdvT0lNMjNBc3VQSzd6SnVjdk1Md1pUVQ?oc=5>
+- **特朗普** | 美乌总统通话，小泽想见特朗普，核心诉求已变？特朗普或达成所愿 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5jQ3ZlMDVldTB2c0ZkWE0tZy1PZHI5cElXNHVwNlk3bnMtWWpMckltck5yM2VZbXVGMHV3N2p2NHhISHpVSWZPd1hVSQ?oc=5>
+- **特朗普** | 数据显示：特朗普今年890次点名批评拜登，单日最高有16次 <https://news.google.com/rss/articles/CBMieEFVX3lxTE14TUF6SVhmU2FYTUw0NEJGMDkzUFNFWmJQMWVwSVU5MVJ1OXpuY2NXU0ZnT0dzWWpYN0JfSFdYdC1JWEVlc0JEWGpic2tnSk9RR0FYVVVvc2lsblhsbUNCUVNva0Ntb3lQTUppSW9fZldCU3hhRTZYQQ?oc=5>
+- **特朗普** | 特朗普签署对俄制裁新法案 <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNb21XcVhBeHVVZGNpMTIwRS1TZllFQ3dkN1hVRWpidUFDYUJxUG5UX1BuWkN6TGxaSWRxVU5pS2lVMV9iQVI4VEJpUWxHTGlIWnpEY1BoZ0ItaVkxcDZwZF9GbHlIclRxdy1CRDhyTVdVM1dMMFdkaDRtd0s2dEEybVltd1FIMk9oSjE4QVZCVTE5TU9fbGJtZks5WDduTlFqaTFoTWJrc1M3cWNZMGF0VjNJS2Uxd2NGbHZuOTVudlZmaFNQczdtRXE4WktZRlFJ?oc=5>
+- **Trump** | 特朗普与马姆达尼跨越政见分歧维持融洽关系 <https://news.google.com/rss/articles/CBMiogFBVV95cUxPajBDZTdwOGFKMEo1Z2JlaE9jRXpUek8xdnVkNG0wYkZOc3Bjd3pkRHNMRThWZEN5RFhuTFdFRVg4TnpVaXBtMF9MZ0VoU2F5TUsyLWRaYUVKa09CalBWMmMtNGpkQVJZM2NOejlVSDBRUHA2cl9peVlhTHJCT3RsM0FBZU0zVUF4NGRYVXVuRDQ2VkZDQzBZejdOTHc0aUFIOVE?oc=5>
+- **Trump** | 白宫宣布推出全天候 TRUMP TV 直播——《耶路撒冷邮报》 <https://news.google.com/rss/articles/CBMioAFBVV95cUxQd0hLX205OTRTQTZEYWhtUTVBcU9TbFg4Q084MzcxMTg1YmZRZG43NW9TY195RUZwQzN5alZKTklTUW92dUNILTJPMEFfaGtCOEpZbk1DOGphcmpiN2NhR1MzenRvVGR5b0pUNXAtRVhGWG5aV1FyU1lHOHFhdFNOUElBb2RfVzEtd21MM1BhVlMzcDlfWU9McXhEZF9WUVMx?oc=5>
 
 ### 2026-09-21 23:45  (7 条)
 
