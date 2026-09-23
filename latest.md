@@ -1,102 +1,136 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-23 07:09**
-- 本轮扫到 12380 条, 新增 **11** 条
+- 最近更新: **2026-09-23 12:51**
+- 本轮扫到 12393 条, 新增 **13** 条
 
 ---
 
-## 本轮新发现 (11 条)
+## 本轮新发现 (13 条)
 
-### 周杰伦青岛演唱会限定文创套餐，即将上线
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1899227237_m7133e86503308oi7m.html>
-
-### 特朗普联合国演说五个要点：古巴垮台、摧毁伊朗、格陵兰基地，以及把AI改名SI
+### 美乌元首会晤，特朗普：相信俄乌将达成协议
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-09-23 04:28
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Fdnl5S0tLQnZzUFZ5RVRfNUk4R05YMW8yWk1PTENlNFJZcWZocGQyV2c4NUZ1WndRSnFZU19CX2pfYzZnQ3pYdGtmLUg4SUVRVzdRMll5YnlXRko5U3c4T0hUYVdRRU3SAWxBVV95cUxNekRIcWtKdl9kTTl2cHo1Njcta2JZYWd3SWptbUtZYi1EZUVBelNFUHhleDdhN0lybFJXMzRlSktsMjFZeGY0UnR3WjZUMkNCY09mQWpFRjBIVmQtSWtkemJxUTZqU3RwaEhRTHk?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-09-23 09:19
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBhQ0hKbnZBbjI5VnNoWmk2ZDlIT25MQ2ZaTDBRUDE4Nk16WnFWNWtabDh2VlB1V3hTcWdzNVl5cmtSSTVHM2VoNEZtSEQ?oc=5>
+
+### 特朗普将敦促泽连斯基暂停袭击俄罗斯炼油厂
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: DW.com
+- 时间: 2026-09-22 20:16
+- 链接: <https://news.google.com/rss/articles/CBMiuAJBVV95cUxPZHREYmVaWWpXWi1fbndON3M1c1lZSWdRMFUzc0hWUzN2WUxEd2I4Mm13QVRPYVQzVDZVY0VBWTlyakVEbmEybklWN0JMcEZXQ2FZWTNsOXhHeFlxZWR1ZnFic1FFanZIbnoyeDdMcThFOUxEMmFoZnRLWkRoMnFWV291dk1sRk43ZFhSd2lUQ0FtSVNodFVEWVUtekptOXp4V2xUaHZqdkI4bDd5aUJSZmlaaTNidUZlcFFUSjZZUl9wb2VEaEpxbm1OZkdqa1VrMkRKQnV2NjJWTmltUGxwWEo5UkFQUkZTOWdOZW9tZWNsajZkaXZVWHpfeW1kd3Bod0lNTFhJVEpnZlJ5elpqV3pBTFN3dDhNVXpERG84NXd2OTVYbS1OUlQ2R2ZDQlFjT3lvZDFld0jSAbgCQVVfeXFMTjFOZXdZLV95dzJ0S2RMMUxudHNfXzR0YjVIS0tTWWJrNlRUZXFWMXdPLXlhbGF1REUtR0FvMEVqRFRLMFQzVUZ6cy03b0lZNlcxM0RTdXMwWF9UYVJpQ21EOFlreEk4OXlnNG85cnlaU2M1TXpsbkdyOEFaQnZHTzZneTBYNk9iR0Z6Y0dFaDVLRlRsUnk1V2lzVDFEakRfUnN4X3d2dzFnLTFrN2JwT0RWZ01Lb1c0LW9HUTBtcVRyV3RoSjFuSm9wdjBtOTNVYk90S2NuR1JQZTlEM3hWQWk3M1FXUDNDb1FaN2ItMjBCcl9ud2J6QUlubTdnSHhiU2hyTlVFeHpualN5Z0hOVFNJV0czYnJiUHFyVTRkVjJ5bkVKT3pzZlVwQlZNbjNYTWRqY1FGWFhG?oc=5>
+
+### 美国石油公司高管游说反对特朗普柴油出口禁令
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-23 11:07
+- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE9JanZVTUMtZEQ5a3N3NC1RSmZ1RjFiOUpWYkVUcE1Qdm5xMmtnWE5fNFZiZDFqZko1MXdncFB3OEp5eFdrbUNrQkhtVkNCQWNaOHB5WXJRYTJrUkJ5SlN5eEFZRzRRZGVGdUVndGM5cHN6VlE0TXFrSlR3?oc=5>
+
+### 特朗普首次见面就批“糟糕透顶”，英国立刻重新考虑
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-09-23 11:24
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1zLVpNXzlVSnNZNzVLT1Q2S1FTb0xpbTRFbnAzTUFFTnFra1NMeW1mR2M4bWs5WVcwSE8wblZod05oM0lfQ21SNnVzMlg?oc=5>
+
+### 特朗普带马克龙逛纽约私人公寓，满屋金灿灿
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-23 10:57
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5EV3hONm55TE1Fb284Tlg2a2JZemVraG1oaGpBZDZPVU8ybTM5VXhjRVgtYWI2dU5yaFRsTWEtWFRJUHN4V2s0b1dhSQ?oc=5>
+
+### 轮到自己了，美媒才意识到特朗普滥用“国家安全”？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者网
+- 时间: 2026-09-23 06:45
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFBlMF9FTkNOczh6bHFpcldCNUJncWRzUnJIeEhxTmhoZ0lic2tHQ1d0R19JVndIV2s0M1l6OV9EcjFTU0pxdUI4dTRlM0lHS3VlWm9ucVVlTERjbW9JNTJrTlFSa3pjcFZWZVp2VExtVHJTZjQ?oc=5>
+
+### 习近平避开纽约 特朗普在联大强调美国优先
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: DW.com
+- 时间: 2026-09-23 11:31
+- 链接: <https://news.google.com/rss/articles/CBMirgJBVV95cUxPRjlwNGZnOTNGWUpveXhxN09UYWdCVi03N0xPdk5WdGV0NWlLTEpWYkhBN3kwYV8zNGlYV3V1MnQ4blJIUjhiUTE1QnZSQ09VUThMSDZvSmNpRjkxOTFhR3k1WnVSX2xoMC1CNkpWcUkxVjBBdGxoVmd2eFI1YUhKUWdPMlNxZFFjUldSNW01VHY3c1lUeUFlcFVLclVGQnFEMDBmY1pkdUxOT0dTRG5tMmR3TGdMRThmVEhndUxEVmFpQm5CWnBzcjU2TXZFR0ZrZEI5eWFucW1JRmFSNEV1OXhlbTJ2bGlkY3Zzak9HS1lNOEJScjM4WWY3REpnR24wQ3JUSm4tV0Z0Z2ZRemtjVnUyeTVteWtzQ3FpY0RjVlNtcjMxRVZ6eE1RMWhnQdIBrgJBVV95cUxOdGF4NWY4UXdlZUozT2ZmeG53VWF5czBXMTQwY1hZMFlzLXcwdHZxWWhfNHhJdXN3eUNxQ0NtYVB1R19jQUFyQWZWc0k5TEJTUHN0MjZrakhVTjFzX1B0WGtmRWk3bnYtZGV1UEpfX3ZzbENYclpWVTlxZHNpSk9PZ19ia3NzNWZSYTBrSmdZZzMyMGdXYm0wWFpsYXpEU0gydHduc1hQRExNVkQ4aldiQjFiQTFUTk01YVQ1akJEZHk5ZnNkYVdxUmk4WVZMc3R3bGR4Z1FOZ3JtVkN3X3BtQ1RhUlQ2TzdkdW1TS1BXMUo0ZnR0bW5td0dnbHBkT2NZLW1wOE13QnFYbDJXa3M3ckpJT191QTRVYWJOTWZscjF0Rlo4Q0IxZy14ZDhyQQ?oc=5>
 
 ### 拾光纪·“您是伟大的领导人”，特朗普热情期待在华盛顿接待习主席
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: hzsc.com.cn
-- 时间: 2026-09-23 06:14
-- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE80U014Q2hsU3R6Vng1a0FnOUJPRVI2U2pTRWJya28zMWhkTzdGNk1jUi1pbVVMdEw0a0MwcDBoZkpfT3BiVk5QakZKWnhlS0ZiVlhRUlZUcGFNcHFDalZyN19R?oc=5>
-
-### 9月23日外盘头条：特朗普证实美伊在联大罕见直接接触 Anthropic和OpenAI推出成本更低的新模型
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-09-23 06:31
-- 链接: <https://news.google.com/rss/articles/CBMi8wNBVV95cUxNNzhDODhVVHU0S19DZkxaRFl3YTZKT0NKZnZ4UDFUQjQxZHJuMlo3VTRoRTV0ZzFBTFFacUdIQkxtLWQzYkJGeXBpT2JtX2RsNkxOMjltTW9mLWZaVEZXSjl0eHMyTTI2eWIwTlhVOVFNZ3lEQUh0R0R2TEczUGZlMmxfUWFXNHB2Wld0aGkyeG1BMmpPdHlGY25PRHVJLV9PT3d4YXVlSFJQWDlKa0xCMlFianhWNk9KT0k4Z3AxRDNxaTJnUTlNS2xEOENCZjhkNDhybFJLSE83RXFwa3NHN1pDcnY3a3ZKdTZOM1FKSkFpdmNSR0dBNm9HTFZTUENfSU02cmZhWnVBNHBZbmdCcERIR2JMNS1MbzQ5UzUyeTJ6U2dmT3Z4cnAwUFRVUXUxMHJOWjJWNE5uTEVYY0V5dC0zY3p6dG1pVHpTS1dCQ0xsaHo0XzZOVF9VYTZoYXVoRnRadkJEMHd5akhLTncyV1BkdVBWX3lOcHd3dFFpTlY0MmZPLVRGMGh6RmZ0YzhLMXNKRFJiMEF3bWlJcnhXN1VPTXFPWVhib3B2aUw2SjROWi1Oc1pndDNPQTRGeHZXOG9ha21PVTBpTlQ0cTQwN0xaTEhKZk5vVFNYTHdCemlEVlNfbjR3YlFtSFhrazBNZENr?oc=5>
-
-### 果然，高市早苗找特朗普聊了中国
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-09-23 01:03
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFBNX1k3Z2tNVEFNdVhKY3ZJcE9qOE9yMUxjQzQxRGFrcmtySWU2TnR6cXBVTU9iZ09UelhGUDRfdVJTX3hoRWNjcmdRZ0FIdHVCbHdWN2lLbzZRcWg4dDltUk9kbUpCM2pwNlF0YzJaanZKZ2c?oc=5>
-
-### 中日僵局难解，高市早苗向特朗普“求助”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-09-23 02:43
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxNZUFUV0lpb2VzRW1YV1p5OUlydENmTTJ5RlZ5cDZvUGVwbEhwUUdHejRGdzlBYVlkdkJzMXd4cmdwNnV2TWpwbGNOTkJacVM2RmpWUnRSbDItX2V5R1pLUHVHQ2JsV3M0b0xCLVlFd1FlOUFUMXRhYXYyLW0yWHFhMVNLbXB4VzQ?oc=5>
-
-### 高市早苗提前会见特朗普，“担心美国对中国让步”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
 - 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-09-22 15:11
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE9LRkZNZ2xSNVpNazl3REdhQ2oxLVJtdnNMTUl2UW9LWTN0S1Zpb1plSHR6MmZlRHRXeFJKMzl0cjhJaE40ZTZCTnAyU2xnN0Z1NGJuOWlnajdxakVXZEEwY1Q4YWJidThnak5TXzBxMkdhLWc2?oc=5>
+- 时间: 2026-09-23 10:14
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE9fejlKNlpsMGhDN0ctaXhEY1RnMDZPTkRPSnZ4d2JqbVJQSmt0QTExeXc4ekQ4WmYxSTAtemlGTERsTTFYeVpsMFZMVl8tWnk3UnIyRWtLNy1reFdNX3F0T1ZJT1M1YzgzWGRFSm4zOE9pLTAw?oc=5>
 
-### 特朗普在联大演讲中表示 美国政府文件将把人工智能改成超级智能(AI) 希望其他国家也跟着改
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-09-23 06:59
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE83YTZJSllsWHV5ZFFGa3hyc2k1S3pnWTJmeW4xaXhtaDVUUEozZ1dsWXUxbjJYSkpOeURadWRFNlNiLUVpOFFoSVUwRWtxWWdIV2dWVEFWSXdvUTJzWDZ2UnB0THhxM0pGT1lzc2dVNHpsdw?oc=5>
-
-### 特朗普联大演说夸耀委内瑞拉“战利品” 称放缓AI发展论是骗局
+### 唐纳德·特朗普总统在联合国大会发表讲话- 美国驻华大使馆和领事馆
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 财新
-- 时间: 2026-09-23 02:30
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBaVHdVOUJsQXk3aUdtcWRsU0drUlVJdldPUUVxTFpPSDloZTNDZ1Z3d1IxUkhTOWg0TE9ia2d3aXBJVjA5WHdockFlekVJLXFVNEp2YUhOTl82UXVzcEVKaU16NTBiay1EdEE?oc=5>
+- 场馆: U.S. Embassy & Consulates in China
+- 时间: 2026-09-23 07:41
+- 链接: <https://news.google.com/rss/articles/CBMikAFBVV95cUxPd1RUMzF3MnNhM0tJWTYwS1I5ZG9aRlpGVW9GRjZibl9aZEUxYnA3bEExd1BPQUlLZ1VxYzFERXpmZklVcV9GQUxZMmxDbzF6TE4zcExvQWY5c1UzZ2JaRGVKbnFiNTg2aWZHVjdVUWRlSTFwemgyZHZPaUdOeWJEZDh6eGsxN2VnWjF5YVJ6cms?oc=5>
 
-### 遭媒体联合反击，特朗普推出“特朗普电视”
+### 特朗普坚定拒绝制定管控AI的国际协议 淡化前沿模型失控风险
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-09-23 03:11
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxOblpUY0xLbmR5X1ptQnhqWEdzUjVMYS00SUExUmN1U1V3NDZKZldYVWlGRjdZYzhRR0M2UDFNVE11YThFMWl4MDFlLUdUT2xwTktGYnRNSGd5UXBDM3pzUEdqMmh5SXdoOUVGRGVZNUk1dUpQTkR0UVJXS1lwa255UV9KT3Z3aGZtelAzYnBJcWRSNnlSTTVlY3EwNE1INzE5MXdyTUgzVWZnc1JrblpocE1wTFVjZFR6TGJ6d0dOYjF4SGtRWUc1bkRSQlN3QXJH?oc=5>
+- 时间: 2026-09-22 16:54
+- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZVc1dmRXamIxd3JDWnRzdTVBaU9OQnQxakpQaDNfSXVKY3BlZ1FaUVdaQkJHcFMzZUlMUE5NRFFUdUYyT2RmbDIwYlBXSEJNR0tqMWl3ZHZxaFJOenEzbDF6ZmxQcFlYc2tyMXFWdUt1ZUtBQmZxTDlSNkZiQjBaOG5EUGZtXzhwbGdkaWdEWUVVV19sdTBMM21Xa2c1U3JqZDByeFE1WGxJTE1QeUFqVTFKVWRzcThZSjZXV1FGeWhsaWc1THA5RjB2TmNNNndaLXc?oc=5>
 
-### 李在明接受时报专访，敦促美国放松对朝鲜的制裁
+### 特朗普拟设“AI部队” 美财长贝森特成“AI沙皇”热门人选
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-23 09:12
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE52d2xkUlAyMXI4V1FrNnQ3QnJmQ2VGSE5nelE3THhFUm0xcnd3WEp3TWRra3B4OFNCRFMwVnZCNGlsZzlNcXV3TUZlel80WTFwa1Q2RENmbjg0aUJfMHAwQ2tWRDZZckRqYkVsUXNGRWhVZVRncjBLYQ?oc=5>
+
+### 白宫上线24/7 YouTube 频道Trump TV:政府自己拍、自己剪、自己播
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-09-23 03:07
-- 链接: <https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc0xxY3BKMzZMeGgwbHBBWWZyeUs0Y0I0MW80X0ZZMXhnZ212VC01ZzJqMGhFamN4MlpuX2RwUVJGNWdaaXhGd05Ua19Qc2dfbi13bUVvUUFKYm9FRmZZM1NSQy0wZ1hMWW5ZR0xLbkdRY1dldTdJTnRsNzY1ZVY3bGlmVzFrOUh5LU1GRGFOdHFKd2JEdUpfY09qaU0wRXNQOGFJWVZqRnA?oc=5>
+- 场馆: 流媒体网
+- 时间: 2026-09-23 06:33
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE9rTG01SHByWWlHTzJMdERkdmlrZGUzLTNOUlF4aHZieFU5ckxZWUNkdzlHVWpMLXB3eVZCWndPdXhfc3FsRG5EMS1RS1JXUG9MbGNUbE8tSkNIOHJXbWlPcHFZQVRVTFUzVlEw?oc=5>
+
+### 日美首脑举行会谈 围绕中国问题等坦率交换意见
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-09-23 09:01
+- 链接: <https://news.google.com/rss/articles/CBMi3AJBVV95cUxOSHMtRWNJdHlKMGFWZ1FaM0lhUmNZMFJYXzhjbnlHS3M1RWdHdjBoOG9PVWNFajdkZzB6OWFSSnFIaU5ZSzR6VHp4LUJNazcwNVgyQ1pQcW8yX0hySWNyckZuMzlsNlVHVFJmZzNuOHRKWGE2eVBWeHZCbTlVU1RPNVdVUnZnWlBBWS0yZ003UEFVZDVfNnF4a1JIVXNDMHYyUXRCb0phMFFSMlhoajk3TlBRalRySDgyblhnWUlBRUpaQVVKOV9uTDYxcnQ4cE5ibGdNTDFfTXprUEQ4TTcwUG8zRTN1TWJfNmFBNFhRMEZMczRSWU1mM1Zkc2p3RjliSWVuODdMVlY3ejFhX1FUZUtQcGdFTXptM3k4UVh1UjB6RExQZ0VmWEFQYnBtM3NiOUM1T3hVVXhZRFF4aHljNkJ6UmNkWGd4dDlMeTRjbzlXMi04aEdSRzZMaV8?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-23 12:51  (13 条)
+
+- **特朗普** | 美乌元首会晤，特朗普：相信俄乌将达成协议 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBhQ0hKbnZBbjI5VnNoWmk2ZDlIT25MQ2ZaTDBRUDE4Nk16WnFWNWtabDh2VlB1V3hTcWdzNVl5cmtSSTVHM2VoNEZtSEQ?oc=5>
+- **特朗普** | 特朗普将敦促泽连斯基暂停袭击俄罗斯炼油厂 <https://news.google.com/rss/articles/CBMiuAJBVV95cUxPZHREYmVaWWpXWi1fbndON3M1c1lZSWdRMFUzc0hWUzN2WUxEd2I4Mm13QVRPYVQzVDZVY0VBWTlyakVEbmEybklWN0JMcEZXQ2FZWTNsOXhHeFlxZWR1ZnFic1FFanZIbnoyeDdMcThFOUxEMmFoZnRLWkRoMnFWV291dk1sRk43ZFhSd2lUQ0FtSVNodFVEWVUtekptOXp4V2xUaHZqdkI4bDd5aUJSZmlaaTNidUZlcFFUSjZZUl9wb2VEaEpxbm1OZkdqa1VrMkRKQnV2NjJWTmltUGxwWEo5UkFQUkZTOWdOZW9tZWNsajZkaXZVWHpfeW1kd3Bod0lNTFhJVEpnZlJ5elpqV3pBTFN3dDhNVXpERG84NXd2OTVYbS1OUlQ2R2ZDQlFjT3lvZDFld0jSAbgCQVVfeXFMTjFOZXdZLV95dzJ0S2RMMUxudHNfXzR0YjVIS0tTWWJrNlRUZXFWMXdPLXlhbGF1REUtR0FvMEVqRFRLMFQzVUZ6cy03b0lZNlcxM0RTdXMwWF9UYVJpQ21EOFlreEk4OXlnNG85cnlaU2M1TXpsbkdyOEFaQnZHTzZneTBYNk9iR0Z6Y0dFaDVLRlRsUnk1V2lzVDFEakRfUnN4X3d2dzFnLTFrN2JwT0RWZ01Lb1c0LW9HUTBtcVRyV3RoSjFuSm9wdjBtOTNVYk90S2NuR1JQZTlEM3hWQWk3M1FXUDNDb1FaN2ItMjBCcl9ud2J6QUlubTdnSHhiU2hyTlVFeHpualN5Z0hOVFNJV0czYnJiUHFyVTRkVjJ5bkVKT3pzZlVwQlZNbjNYTWRqY1FGWFhG?oc=5>
+- **特朗普** | 美国石油公司高管游说反对特朗普柴油出口禁令 <https://news.google.com/rss/articles/CBMiekFVX3lxTE9JanZVTUMtZEQ5a3N3NC1RSmZ1RjFiOUpWYkVUcE1Qdm5xMmtnWE5fNFZiZDFqZko1MXdncFB3OEp5eFdrbUNrQkhtVkNCQWNaOHB5WXJRYTJrUkJ5SlN5eEFZRzRRZGVGdUVndGM5cHN6VlE0TXFrSlR3?oc=5>
+- **特朗普** | 特朗普首次见面就批“糟糕透顶”，英国立刻重新考虑 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1zLVpNXzlVSnNZNzVLT1Q2S1FTb0xpbTRFbnAzTUFFTnFra1NMeW1mR2M4bWs5WVcwSE8wblZod05oM0lfQ21SNnVzMlg?oc=5>
+- **特朗普** | 特朗普带马克龙逛纽约私人公寓，满屋金灿灿 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5EV3hONm55TE1Fb284Tlg2a2JZemVraG1oaGpBZDZPVU8ybTM5VXhjRVgtYWI2dU5yaFRsTWEtWFRJUHN4V2s0b1dhSQ?oc=5>
+- **特朗普** | 轮到自己了，美媒才意识到特朗普滥用“国家安全”？ <https://news.google.com/rss/articles/CBMic0FVX3lxTFBlMF9FTkNOczh6bHFpcldCNUJncWRzUnJIeEhxTmhoZ0lic2tHQ1d0R19JVndIV2s0M1l6OV9EcjFTU0pxdUI4dTRlM0lHS3VlWm9ucVVlTERjbW9JNTJrTlFSa3pjcFZWZVp2VExtVHJTZjQ?oc=5>
+- **特朗普** | 习近平避开纽约 特朗普在联大强调美国优先 <https://news.google.com/rss/articles/CBMirgJBVV95cUxPRjlwNGZnOTNGWUpveXhxN09UYWdCVi03N0xPdk5WdGV0NWlLTEpWYkhBN3kwYV8zNGlYV3V1MnQ4blJIUjhiUTE1QnZSQ09VUThMSDZvSmNpRjkxOTFhR3k1WnVSX2xoMC1CNkpWcUkxVjBBdGxoVmd2eFI1YUhKUWdPMlNxZFFjUldSNW01VHY3c1lUeUFlcFVLclVGQnFEMDBmY1pkdUxOT0dTRG5tMmR3TGdMRThmVEhndUxEVmFpQm5CWnBzcjU2TXZFR0ZrZEI5eWFucW1JRmFSNEV1OXhlbTJ2bGlkY3Zzak9HS1lNOEJScjM4WWY3REpnR24wQ3JUSm4tV0Z0Z2ZRemtjVnUyeTVteWtzQ3FpY0RjVlNtcjMxRVZ6eE1RMWhnQdIBrgJBVV95cUxOdGF4NWY4UXdlZUozT2ZmeG53VWF5czBXMTQwY1hZMFlzLXcwdHZxWWhfNHhJdXN3eUNxQ0NtYVB1R19jQUFyQWZWc0k5TEJTUHN0MjZrakhVTjFzX1B0WGtmRWk3bnYtZGV1UEpfX3ZzbENYclpWVTlxZHNpSk9PZ19ia3NzNWZSYTBrSmdZZzMyMGdXYm0wWFpsYXpEU0gydHduc1hQRExNVkQ4aldiQjFiQTFUTk01YVQ1akJEZHk5ZnNkYVdxUmk4WVZMc3R3bGR4Z1FOZ3JtVkN3X3BtQ1RhUlQ2TzdkdW1TS1BXMUo0ZnR0bW5td0dnbHBkT2NZLW1wOE13QnFYbDJXa3M3ckpJT191QTRVYWJOTWZscjF0Rlo4Q0IxZy14ZDhyQQ?oc=5>
+- **特朗普** | 拾光纪·“您是伟大的领导人”，特朗普热情期待在华盛顿接待习主席 <https://news.google.com/rss/articles/CBMidEFVX3lxTE9fejlKNlpsMGhDN0ctaXhEY1RnMDZPTkRPSnZ4d2JqbVJQSmt0QTExeXc4ekQ4WmYxSTAtemlGTERsTTFYeVpsMFZMVl8tWnk3UnIyRWtLNy1reFdNX3F0T1ZJT1M1YzgzWGRFSm4zOE9pLTAw?oc=5>
+- **特朗普** | 唐纳德·特朗普总统在联合国大会发表讲话- 美国驻华大使馆和领事馆 <https://news.google.com/rss/articles/CBMikAFBVV95cUxPd1RUMzF3MnNhM0tJWTYwS1I5ZG9aRlpGVW9GRjZibl9aZEUxYnA3bEExd1BPQUlLZ1VxYzFERXpmZklVcV9GQUxZMmxDbzF6TE4zcExvQWY5c1UzZ2JaRGVKbnFiNTg2aWZHVjdVUWRlSTFwemgyZHZPaUdOeWJEZDh6eGsxN2VnWjF5YVJ6cms?oc=5>
+- **特朗普** | 特朗普坚定拒绝制定管控AI的国际协议 淡化前沿模型失控风险 <https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZVc1dmRXamIxd3JDWnRzdTVBaU9OQnQxakpQaDNfSXVKY3BlZ1FaUVdaQkJHcFMzZUlMUE5NRFFUdUYyT2RmbDIwYlBXSEJNR0tqMWl3ZHZxaFJOenEzbDF6ZmxQcFlYc2tyMXFWdUt1ZUtBQmZxTDlSNkZiQjBaOG5EUGZtXzhwbGdkaWdEWUVVV19sdTBMM21Xa2c1U3JqZDByeFE1WGxJTE1QeUFqVTFKVWRzcThZSjZXV1FGeWhsaWc1THA5RjB2TmNNNndaLXc?oc=5>
+- **特朗普** | 特朗普拟设“AI部队” 美财长贝森特成“AI沙皇”热门人选 <https://news.google.com/rss/articles/CBMieEFVX3lxTE52d2xkUlAyMXI4V1FrNnQ3QnJmQ2VGSE5nelE3THhFUm0xcnd3WEp3TWRra3B4OFNCRFMwVnZCNGlsZzlNcXV3TUZlel80WTFwa1Q2RENmbjg0aUJfMHAwQ2tWRDZZckRqYkVsUXNGRWhVZVRncjBLYQ?oc=5>
+- **Trump** | 白宫上线24/7 YouTube 频道Trump TV:政府自己拍、自己剪、自己播 <https://news.google.com/rss/articles/CBMia0FVX3lxTE9rTG01SHByWWlHTzJMdERkdmlrZGUzLTNOUlF4aHZieFU5ckxZWUNkdzlHVWpMLXB3eVZCWndPdXhfc3FsRG5EMS1RS1JXUG9MbGNUbE8tSkNIOHJXbWlPcHFZQVRVTFUzVlEw?oc=5>
+- **Trump** | 日美首脑举行会谈 围绕中国问题等坦率交换意见 <https://news.google.com/rss/articles/CBMi3AJBVV95cUxOSHMtRWNJdHlKMGFWZ1FaM0lhUmNZMFJYXzhjbnlHS3M1RWdHdjBoOG9PVWNFajdkZzB6OWFSSnFIaU5ZSzR6VHp4LUJNazcwNVgyQ1pQcW8yX0hySWNyckZuMzlsNlVHVFJmZzNuOHRKWGE2eVBWeHZCbTlVU1RPNVdVUnZnWlBBWS0yZ003UEFVZDVfNnF4a1JIVXNDMHYyUXRCb0phMFFSMlhoajk3TlBRalRySDgyblhnWUlBRUpaQVVKOV9uTDYxcnQ4cE5ibGdNTDFfTXprUEQ4TTcwUG8zRTN1TWJfNmFBNFhRMEZMczRSWU1mM1Zkc2p3RjliSWVuODdMVlY3ejFhX1FUZUtQcGdFTXptM3k4UVh1UjB6RExQZ0VmWEFQYnBtM3NiOUM1T3hVVXhZRFF4aHljNkJ6UmNkWGd4dDlMeTRjbzlXMi04aEdSRzZMaV8?oc=5>
 
 ### 2026-09-23 07:09  (11 条)
 
