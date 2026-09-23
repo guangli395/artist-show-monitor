@@ -1,120 +1,73 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-23 17:38**
-- 本轮扫到 12406 条, 新增 **13** 条
+- 最近更新: **2026-09-23 20:57**
+- 本轮扫到 12412 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (13 条)
+## 本轮新发现 (6 条)
 
-### 果然，高市早苗找特朗普聊了中国
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-09-23 03:08
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTFBteHhhTUNWdGNINFdxV2N0SDJSY015M1U0S1pEUnB2UExJcld5aGtHUlVnN1loM0NjdTd0UGEzSGQtaEZOb25nTzhSd0FieTdFbUNSbWxPYUFkVnJIbW9BRDJmSDB1Q293cXZkVUVadzdsc0sy?oc=5>
-
-### 高市还是别美了，特朗普可能都不愿喊她名字
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-09-23 13:43
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1DYU94V3ZXNkdRVHZocTFGeU5oZXBpc0dPQmotLWs0emtwa3BwdnVIdGRMWm5uYkUxSTM4aWtqNm1kM0tDQThfcS1CcHo5VVk0LW5SSnFZSXZBS05kdHFqaHBiUjdUb1ZnMFE1Y3ZVa3JYSDQ?oc=5>
-
-### 伊朗外长与美特使在纽约会晤 特朗普：美伊代表会谈“非常有建设性”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-09-22 22:05
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84SGlnSU1EakpTMGdrT0ZXRzJVeTJWUUlsT29JU09FUDk3dTAxNjZzWXVmQ19GTU5JOVYzWDV6NkVlaUVvSjhKTlNYYktvam1qYXlKOVJKMV9BVEd1Vl80NHd3c3hobTA?oc=5>
-
-### 美国总统特朗普（贸易事务）的助理纳瓦罗：内阁秘书们应当与福克斯新闻、福克斯商业新闻划清界限。
+### 美国总统特朗普已邀请俄罗斯总统普京于今年晚些时候赴迈阿密出席二十国集团峰会。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-09-23 16:07
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1aaDRGYjZmZTBVR1lsOFduUzBoTWRaMEtLaHBkanRZYVAyTWoyM2NzMU5fNkd1YnNzQ3EzTUVWNUc4dHZYSjhrR3lNZw?oc=5>
+- 时间: 2026-09-23 20:03
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFB4dnNsM2ptU08yVGVIRnczanctNkF1YmhQQ3loMTNqZURUT0VvWFdFR3JtUndkZVczYTZlQWhHbU1vQ3ZGaVoxNHQyMA?oc=5>
 
-### 特朗普首次见面就批“糟糕透顶”，英国立刻重新考虑
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-09-23 09:21
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE9QLUNkQmlfT215VlpEbUExX05FZ3VwU05hTDIwcXgxN1VhSW9jWnVnSVJVM0lnVDhKVVl5cllqeHZzbFpFcFFJcXFTN1loTTJMZ1RySEVlRDloOVBzdTRPejMzVHNnZ1V1R3hGdDZKWGthOGs?oc=5>
-
-### 特朗普：建筑安全规范？我就是规范
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-09-23 13:35
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5JOThXQlhtQVpoeUI3bk9RTjBPRTFGUlJuc29YYTZ5Qm1yNlNhOFJuOThFdEJkNkhDemdzVTZTM2E3YmdFekJtTW5wM3c?oc=5>
-
-### 特朗普要利率降至1%、沃什以“通胀五年超标”回绝：3.75%与1%之间的央行独立性对决
+### 报道称特朗普政府考虑90天柴油出口禁令，后遭白宫否认，美能源部长公开反对
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 华尔街见闻
-- 时间: 2026-09-23 10:09
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wdFl3aG42YkpLX01YSGJTU0tPQjJJdTFVQm50c3ZmU2kwS0ZTRHhJTXdpcTVwNmNRbGxfSm52RVo4TDJNb3VRdktDc3EwOHBJaHhZ?oc=5>
+- 时间: 2026-09-23 18:28
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBMbWM4Y2NHaHhKMXdLR1RmZnowMmZiblBNemZHaDZVZ0NkWkVnVmVvNVBwdldrN1NwNXZqeFh2cm5iMjVBaDg4TkVCZndrTWEteHVZ?oc=5>
 
-### 特朗普自夸加沙已和平，马克龙捶桌驳斥：“让人羞耻的闹剧”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-09-23 10:14
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5JeThRYW04TDViWDF3a2JIcWxMUXNTMDB2aGVpUFVQSHRpZm42V1IzTHJSRkN1TENKRTVOZk1HWXA2T3RxOU02NGtKbU5SOGtWQVJ0OFB2QmNqUkctSGIxQg?oc=5>
-
-### 特朗普联大演讲：强调“美国崛起”，主张以“美国优先”推动国际事务
+### 特朗普主张禁止柴油出口 以缓解价格上涨回应民怨
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: UN News
-- 时间: 2026-09-22 15:27
-- 链接: <https://news.google.com/rss/articles/CBMiV0FVX3lxTE1LVzJvSklWN3NDZnN0dHJSUDN3UktVc0xkVXdxWkNNRm9YNFNTTlFjUzgwLU1HN29FUFhsSmxEYUI2VE83djBTTG05OVNVU3IzZm50NF9VSQ?oc=5>
+- 场馆: 联合早报
+- 时间: 2026-09-23 09:30
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE40UkNuelZ5T0lsVHZPV3ZNbTRkUlI2MWs2bWRxTkI5cXJ1ZWF1aGNtR3p4ZGFqaW1OVWdUTGlCNnVLV2JPRnF0Rm9kVnFrVi1tV1JGU2Y5Nl9SWWlXX1pZSEtPYzk3MVBMcFE?oc=5>
 
-### 习近平访美前 特朗普对华态度似乎收敛
+### 遭媒体联合反击，特朗普推出“特朗普电视”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: DW.com
-- 时间: 2026-09-23 09:35
-- 链接: <https://news.google.com/rss/articles/CBMilgJBVV95cUxPM05weUtTbF9sbmtWdnFRNkd5c1RGZ1l6c2lSaDBJdTI2VzllU0MtQUhwMjdQelNGRzd2d0xsQ1h2QjRIemZkVEVMb1Z1V3VENFc3MGczRWVsbXNnbml0U2hod0FCVlQyRlczS25GN3J2TGx0NmdxanZqb3NVdDVnUk1YOVJFLXV2QnlhWE0zVFRlVlFYWDR5WHNrQzZzMFo3NDhpbEZpOFllUHJ1ZGl6RzI5OWp2bzBwSnlrWW5PX21CejB2dVVSZjJCeUJRSnM4M3RXc0l2QTdTUlFBd1NzWEhIcUJvYkRWY0gwX3IxQkpPUXQ4YWpGVkUySWtFWmtjTVZKblJRTnhYZHpTdkNZN2ZIUHYtQdIBlgJBVV95cUxONlR4SnE1YVh2cTBuTkhibmZQYk5kUjFvWEU3d0VOSVVCOWowMXNVSk9mRGt5aUUyUUU0dkMzQ3dvWTRuRklid3BoM2J1MC1oZElGTld2WU91akxsdGhVSGNZYXBQVE9zTHBnVXhPTGFPM2V5eDUxWjdEQXBGamdFbGp1Y1pPLThVM0NXR1k4WFNnS1F1S1A3cGZZVlQ1Y2pEeDMyd2U3dXhjMndGcmhUdmhycGQyamg5aEpEUWdqalpaV1Joak10Y0w5ekpaY09UVXVyM2ZWMGhWTFBWUktvdzd3SXJWZHFTQTlJZkZpNFl5d1B2Tk5MRHJkc2NCUG5kVTVvTkxUVUI5VFNuaEhOOTFDSDMzUQ?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-09-23 03:11
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZ1NOajdORzF0UjRZQW1xaFd6Q195VG5wMW1YSHlVU0VYSUJFV1VXWGJtZjNTbWJCMGNGUkQ5THRNaHdvN1F2bV9zU2xxTEwtRHNpMU1NbUw5TmJSNXlhUmppZmlTVlNzX3p2b2tPa3pYV1dXdDZab0hYa2dNQWJUV0d0MDhPTmtZUk11Q2lMMVBTTGczZ1NPdnR0UkRuOVpkY0RZZnNQQjZsZk9iakZ0dUdhS1dvRnd6c0pIU1pYT3ItRjNTemtVU1RSbkFsRUdk?oc=5>
 
-### 特习会前瞻：双方致力稳定战略竞争关系，缓解贸易、科技和国际冲突分歧
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-09-23 16:09
-- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYU9DLUcxTHp0ekJFckR0TVJReGlZVWM0YmpiUW9TVUFoRlMtRDQxd2o2b1l0bnRLT052ajFLNkRvQkxISFdHSHlsZDJWY24zMERPRjdIMnlZd3lFVktadnRMNzY1MTMtNnpXbEJqdWNFMGVZMl9mQ0c4UFgxamljRE0zWjUzWmkzU082aUtPb3VDNUNNV2xmVjIyYTNKaHdVN19tTmxiU2VpZ3MyUkdQM3lCQmNGa3hvSEw5anVxZ19pM1dxbWZGZFZiMVhvMUEwTXfSAdQBQVVfeXFMT3lEZGRxMDliWWxqcU93MVZFNzlWbHBxZHF0Q3BqWVowNVpBT3NQTXhqRTlCSVlfTGRDektPMWhsZ2VtTmhfYnFsZ3Z6VFZVankzb1VYYjZuXzRZeTVMQklSOUhwb0pqRElTM1VQNnJ2c0NXWFhMb044WTdJM0NLajNUTnF2X1ZMeXdkNmxpTmpFMlJ3MkNVd3RsSG9XbGZwVzR6Yy1XRnVvQTJNbTNVXzRhZXFKY0FEcGRNUHJXMHpQZUx0WmN1R0tkUDQxQlVPQnpTZWM?oc=5>
-
-### 特朗普：仍考虑是否歼灭伊朗
+### Trump Downplayed AI Safety Concerns, but His Investment Portfolio Bought Cybersecurity Stocks -- Barrons.com
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-09-22 22:38
-- 链接: <https://news.google.com/rss/articles/CBMilgFBVV95cUxQYXUtcU1vV0RSZ24xdGR2OFRhUUlYZ2h2cXIybGtHNnFOenBXVHlMQ21qRXB2ZWUxbGlPN096emRRVkpvVzFkYi1iRzYzQ0toWEMxWTBMUlJrMEN5aVB3Q0QwTjcwNzJGeWpXX2xHRDlPV1o4V3dIbXFpNW1FWkcxdnF5U1NzU3VSdEhrM0w4Z3JRc2hPdmc?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-09-23 18:45
+- 链接: <https://news.google.com/rss/articles/CBMivAFBVV95cUxNNjRrV2FlYVNxZ0VjUkpucGFyYTNsdUdwaFp1cHFaNkpfaWY3NWNQeWpQRy1vMkl1UmZEeXd1WS1OSmc4SUJZajBIRWxMSFdIN0hUUTVPbGMzYkVPcV9tdEFsTlVkcjdUNFd0QU9sWklURTNHd1pVVG9oVGFac2FiaGliTVB6RTBobXlkQU1pdlN4RXdfakZnYXJVa183bTZrazlqNDR1OUlzQTlwZ0hEOERmbDB0TW1RS2xkeA?oc=5>
 
-### 习特会前瞻：特朗普会再度争取“释放黎智英”吗？
+### 特朗普再会习近平：美中贸易“休战”能走多远？
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: bbc.com
-- 时间: 2026-09-23 09:26
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TbTE2LVBGNlZsVEJWdDUzdS1CMy15X0NhY3d3SndtVDB6Q2xhWnhWUllUWURuSHlURldqVHNhbVVTY2podldLWGo1ZlVIQ09KWHIteEZmYVZxOUc3QTNiUlNLWnU2QWfSAWxBVV95cUxPOVpiSHR1RlJ0ZmhiUXZaTFNzcG85cXRyTEpuRThIZXNvWTAwNUQ4NEpRZURtaS1mQzBrN3F1VFRhcnAwS0VNX0ZZRG9jTm1SMGROcHY2S3U2NU1ieXNmRUtlMkdfT0VTaThBcWQ?oc=5>
+- 场馆: voachinese.com
+- 时间: 2026-09-23 20:19
+- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxNR1JSdUU0NHpYSVcwUmFRVVo2TG5SS05UT3RQcHdpUEp6ZTh3SFFpV1I5QkZ0QllyNVNGV0xiU0l3MDJNbWdtMFRSQWFUX3pDYmtSX3Y4alFMbzRKUFhDOWxaVkc3dTIyN2Y5cWJmV21JUHVrQ3JhUThGUWI2RVh6ekRKemZYb2cyT0VjelpnaHVPUUFu0gGXAUFVX3lxTFA0MjB2bjZwbXdiWTRHcU1xM2lDN0FmWUFNTlRTdFV0RldvSG8wei1vNnVKTnBGaDMzRjJCWHVQQ21paV9peTVVbVBETzMyd2RZV3BLTC11Z1g3UmktUDJTdld5MHlLbVJoQkhHakdHem5MR0ppM0ZNVUNnMlBUQ0JFV05uSnV5U1ZoeUdnazAxaldGWk5IRzA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-23 20:57  (6 条)
+
+- **特朗普** | 美国总统特朗普已邀请俄罗斯总统普京于今年晚些时候赴迈阿密出席二十国集团峰会。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTFB4dnNsM2ptU08yVGVIRnczanctNkF1YmhQQ3loMTNqZURUT0VvWFdFR3JtUndkZVczYTZlQWhHbU1vQ3ZGaVoxNHQyMA?oc=5>
+- **特朗普** | 报道称特朗普政府考虑90天柴油出口禁令，后遭白宫否认，美能源部长公开反对 <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBMbWM4Y2NHaHhKMXdLR1RmZnowMmZiblBNemZHaDZVZ0NkWkVnVmVvNVBwdldrN1NwNXZqeFh2cm5iMjVBaDg4TkVCZndrTWEteHVZ?oc=5>
+- **特朗普** | 特朗普主张禁止柴油出口 以缓解价格上涨回应民怨 <https://news.google.com/rss/articles/CBMiakFVX3lxTE40UkNuelZ5T0lsVHZPV3ZNbTRkUlI2MWs2bWRxTkI5cXJ1ZWF1aGNtR3p4ZGFqaW1OVWdUTGlCNnVLV2JPRnF0Rm9kVnFrVi1tV1JGU2Y5Nl9SWWlXX1pZSEtPYzk3MVBMcFE?oc=5>
+- **特朗普** | 遭媒体联合反击，特朗普推出“特朗普电视” <https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZ1NOajdORzF0UjRZQW1xaFd6Q195VG5wMW1YSHlVU0VYSUJFV1VXWGJtZjNTbWJCMGNGUkQ5THRNaHdvN1F2bV9zU2xxTEwtRHNpMU1NbUw5TmJSNXlhUmppZmlTVlNzX3p2b2tPa3pYV1dXdDZab0hYa2dNQWJUV0d0MDhPTmtZUk11Q2lMMVBTTGczZ1NPdnR0UkRuOVpkY0RZZnNQQjZsZk9iakZ0dUdhS1dvRnd6c0pIU1pYT3ItRjNTemtVU1RSbkFsRUdk?oc=5>
+- **Trump** | Trump Downplayed AI Safety Concerns, but His Investment Portfolio Bought Cybersecurity Stocks -- Barrons.com <https://news.google.com/rss/articles/CBMivAFBVV95cUxNNjRrV2FlYVNxZ0VjUkpucGFyYTNsdUdwaFp1cHFaNkpfaWY3NWNQeWpQRy1vMkl1UmZEeXd1WS1OSmc4SUJZajBIRWxMSFdIN0hUUTVPbGMzYkVPcV9tdEFsTlVkcjdUNFd0QU9sWklURTNHd1pVVG9oVGFac2FiaGliTVB6RTBobXlkQU1pdlN4RXdfakZnYXJVa183bTZrazlqNDR1OUlzQTlwZ0hEOERmbDB0TW1RS2xkeA?oc=5>
+- **Trump** | 特朗普再会习近平：美中贸易“休战”能走多远？ <https://news.google.com/rss/articles/CBMilAFBVV95cUxNR1JSdUU0NHpYSVcwUmFRVVo2TG5SS05UT3RQcHdpUEp6ZTh3SFFpV1I5QkZ0QllyNVNGV0xiU0l3MDJNbWdtMFRSQWFUX3pDYmtSX3Y4alFMbzRKUFhDOWxaVkc3dTIyN2Y5cWJmV21JUHVrQ3JhUThGUWI2RVh6ekRKemZYb2cyT0VjelpnaHVPUUFu0gGXAUFVX3lxTFA0MjB2bjZwbXdiWTRHcU1xM2lDN0FmWUFNTlRTdFV0RldvSG8wei1vNnVKTnBGaDMzRjJCWHVQQ21paV9peTVVbVBETzMyd2RZV3BLTC11Z1g3UmktUDJTdld5MHlLbVJoQkhHakdHem5MR0ppM0ZNVUNnMlBUQ0JFV05uSnV5U1ZoeUdnazAxaldGWk5IRzA?oc=5>
 
 ### 2026-09-23 17:38  (13 条)
 
