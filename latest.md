@@ -1,118 +1,116 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-23 01:36**
-- 本轮扫到 12369 条, 新增 **13** 条
+- 最近更新: **2026-09-23 07:09**
+- 本轮扫到 12380 条, 新增 **11** 条
 
 ---
 
-## 本轮新发现 (13 条)
+## 本轮新发现 (11 条)
 
-### 王俊凯巡演北京站首唱周杰伦作曲新歌：那页夏天
+### 周杰伦青岛演唱会限定文创套餐，即将上线
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857263936_1d454554006801sbey.html>
+- 链接: <https://k.sina.com.cn/article_1899227237_m7133e86503308oi7m.html>
 
-### 特习会的“僵局控管”：中美如何枱上握手、枱下算计？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: bbc.com
-- 时间: 2026-09-23 00:38
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Eak52TmtsMzN2dDVMRndwUFRMMlhnRUZTRUVZOFpKdmlFc1pFc3BnUUlQXzYxcXltMXloUExjQ2FlaUo5a095d0pqRzU0WW5LV2NWbElIN2xXRU5xWE9JUFJOdDJOZFHSAWxBVV95cUxPV0N4ZDBJNnlVZ1hoeWlwWUZGQVo2THotYXNUaVJEUVlreG1keVZKZVM5ckVmeUlodUJvODBJVzl4SzY5OHhNMmVISVVyR0pYbUtyRFQwQ3NGalFBTThyRUZRaVRNNTdvTXN6Zzc?oc=5>
-
-### 特朗普：委内瑞拉石油是美军战利品，它属于胜利者
+### 特朗普联合国演说五个要点：古巴垮台、摧毁伊朗、格陵兰基地，以及把AI改名SI
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-09-23 01:02
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE13NWZ1QWs2cGJ1RFdJQlJQMHVyQ09rc1lFcjZOeTRnUlpocjAzc1B6V0h2MXdPSDYybWtDYlAwcjJFR0NLeFZFSHE1R2E?oc=5>
+- 场馆: BBC
+- 时间: 2026-09-23 04:28
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Fdnl5S0tLQnZzUFZ5RVRfNUk4R05YMW8yWk1PTENlNFJZcWZocGQyV2c4NUZ1WndRSnFZU19CX2pfYzZnQ3pYdGtmLUg4SUVRVzdRMll5YnlXRko5U3c4T0hUYVdRRU3SAWxBVV95cUxNekRIcWtKdl9kTTl2cHo1Njcta2JZYWd3SWptbUtZYi1EZUVBelNFUHhleDdhN0lybFJXMzRlSktsMjFZeGY0UnR3WjZUMkNCY09mQWpFRjBIVmQtSWtkemJxUTZqU3RwaEhRTHk?oc=5>
 
-### 美伊会谈3小时，特朗普：非常顺利！国际油价五连跌
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: cj.sina.cn
-- 时间: 2026-09-23 00:01
-- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTE9mR2kzQ19oMm1DQ25YYVZ5dW5fT095S0lmdjZyQUhKUjNlOHNVUEQwYVJWSk8yUW9fVW82MlVZM1F6Z0JCTERscC15NGhaTVlPejV5RlhZeTB5blZTRGlXYU4wSzJlNTRIS2FTcDdB?oc=5>
-
-### 特朗普总统：美国和伊朗官员在纽约举行了直接会晤
+### 拾光纪·“您是伟大的领导人”，特朗普热情期待在华盛顿接待习主席
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-09-22 21:49
-- 链接: <https://news.google.com/rss/articles/CBMisAFBVV95cUxORFV5Zk5QRzd0c21CeC1wYTVkN3NRSXpscE11b3VXU25ibzY0dWNwYUItYUJnbnk1WjY3akhOLWJRRDRTM1lBZXNsVlh0Rk5pam1sX0pkeTJlb1VRMGM4NUdXRFZVSS1MSEstbWJZTm5UUFo0ckVSRkFXZklkMWR1cUp2ZjNSQ2NEc24wenhuVTNGWmQ1RVowQWl2cVhybGppY3hfUzlxUUpJNGg1LUhoRtIBswFBVV95cUxPZ0tQSmNXVU9SbHkxbWJCbHRGcUVEUkVvLTNvLXEzNlJQVTd2M2x2TlFmLVE3UEVIdjc3bHhvRTZKOWVaYnFQbWxuOW12d2pxdzRzR0FTNlZmOWtMbl9FTVJOTDBHRzdQOVY3cURENFd4UHI0ci14djJzYTZLal9EZnA5amh2am5LTUI4bFlhblYtYTdENGc0bExSaVJQMXJlMTlDcTVKeU9zS1QyczNyTG1MYw?oc=5>
+- 场馆: hzsc.com.cn
+- 时间: 2026-09-23 06:14
+- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE80U014Q2hsU3R6Vng1a0FnOUJPRVI2U2pTRWJya28zMWhkTzdGNk1jUi1pbVVMdEw0a0MwcDBoZkpfT3BiVk5QakZKWnhlS0ZiVlhRUlZUcGFNcHFDalZyN19R?oc=5>
 
-### 特朗普与高市早苗闭门会谈 讨论对华关系
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-09-22 22:52
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9BUFhEcFhRdlJIS045V0dEU1dEcXFzdGNGY01SRWx3dkpBYXMxU2VXRGZiUGtKQzJOSDNSUGQ2TUs1eXNWM01KR0RJTFdCNl9sbTlDd0ZjNUZhRDRWRmJYR3Z6aFc0aE9USlE?oc=5>
-
-### 高市早苗谄媚眼神望向特朗普引争议
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-09-22 23:48
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5TaE1takpJVWdMUmp6a3JYSjl0d1hVLXpEQ09IVldFbVU0SHE2LXcwc2NPeUhaMlJ4VEJMeFFick5YTXFQSFN1cEV6b1g?oc=5>
-
-### 特朗普重新定义AI：改名超级智能“SI”！希望全世界跟随
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 驱动之家
-- 时间: 2026-09-22 23:52
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE5xYWlvSkpHcmdiX3JWekJvUHdlRGNwTnFqMjdhdWQ5S1FEdllNSURyd2JPYkxEa0dFLWZCVkJHdnk4TVpzUm9ocERzN1FpSVcyT25DcFMyRnI?oc=5>
-
-### 特朗普坚定拒绝制定管控AI的国际协议 淡化前沿模型失控风险
+### 9月23日外盘头条：特朗普证实美伊在联大罕见直接接触 Anthropic和OpenAI推出成本更低的新模型
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: finance.sina.com.cn
-- 时间: 2026-09-22 16:54
-- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxNX3BzOF8xSFU2N2xzdkYtdExab1dsM1dIWFB5elpObWk2cFhWR0JkaVFYS2JZY1pRWHRpV2JfZFBBem9vRms0U1hvOG9YRkxGY0FobkhySHVwdlp4UTVRUWtVMl9FalQzWnFXSXQwWVg5VExfUDVRbVAxcXk4RzFsWVFmRmxST1JzUlBOSXJLbkhkLXRvZV9mUUQ1WnhqWHdzU2I2WDdfbGRCWDEtbjJIRUV6d1lzRUtTaGxFRElVMW96YWxHZnREVUNoSmk4TlpKQUE?oc=5>
+- 时间: 2026-09-23 06:31
+- 链接: <https://news.google.com/rss/articles/CBMi8wNBVV95cUxNNzhDODhVVHU0S19DZkxaRFl3YTZKT0NKZnZ4UDFUQjQxZHJuMlo3VTRoRTV0ZzFBTFFacUdIQkxtLWQzYkJGeXBpT2JtX2RsNkxOMjltTW9mLWZaVEZXSjl0eHMyTTI2eWIwTlhVOVFNZ3lEQUh0R0R2TEczUGZlMmxfUWFXNHB2Wld0aGkyeG1BMmpPdHlGY25PRHVJLV9PT3d4YXVlSFJQWDlKa0xCMlFianhWNk9KT0k4Z3AxRDNxaTJnUTlNS2xEOENCZjhkNDhybFJLSE83RXFwa3NHN1pDcnY3a3ZKdTZOM1FKSkFpdmNSR0dBNm9HTFZTUENfSU02cmZhWnVBNHBZbmdCcERIR2JMNS1MbzQ5UzUyeTJ6U2dmT3Z4cnAwUFRVUXUxMHJOWjJWNE5uTEVYY0V5dC0zY3p6dG1pVHpTS1dCQ0xsaHo0XzZOVF9VYTZoYXVoRnRadkJEMHd5akhLTncyV1BkdVBWX3lOcHd3dFFpTlY0MmZPLVRGMGh6RmZ0YzhLMXNKRFJiMEF3bWlJcnhXN1VPTXFPWVhib3B2aUw2SjROWi1Oc1pndDNPQTRGeHZXOG9ha21PVTBpTlQ0cTQwN0xaTEhKZk5vVFNYTHdCemlEVlNfbjR3YlFtSFhrazBNZENr?oc=5>
 
-### 特朗普封杀CNN，福克斯不干了
+### 果然，高市早苗找特朗普聊了中国
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 观察者网
-- 时间: 2026-09-22 00:19
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFBFTXdEZVJraFpnTmdRcHNsdWlwTV8tdDZtMzJXWEsydUdZVFo2SzYyODlTaVZHREktUzVoVlp6UVQzU3JKUjV1RmpJc2pQWnh6WmxzeDVGNGZGeWtaN256MGpjQS1lZHlDdl8yOTlXdVlxV00?oc=5>
+- 时间: 2026-09-23 01:03
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFBNX1k3Z2tNVEFNdVhKY3ZJcE9qOE9yMUxjQzQxRGFrcmtySWU2TnR6cXBVTU9iZ09UelhGUDRfdVJTX3hoRWNjcmdRZ0FIdHVCbHdWN2lLbzZRcWg4dDltUk9kbUpCM2pwNlF0YzJaanZKZ2c?oc=5>
 
-### 特朗普总统：乌克兰和俄罗斯将达成协议；基辅准备接受任何形式的能源停火
+### 中日僵局难解，高市早苗向特朗普“求助”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 纽约时报中文网
+- 时间: 2026-09-23 02:43
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxNZUFUV0lpb2VzRW1YV1p5OUlydENmTTJ5RlZ5cDZvUGVwbEhwUUdHejRGdzlBYVlkdkJzMXd4cmdwNnV2TWpwbGNOTkJacVM2RmpWUnRSbDItX2V5R1pLUHVHQ2JsV3M0b0xCLVlFd1FlOUFUMXRhYXYyLW0yWHFhMVNLbXB4VzQ?oc=5>
+
+### 高市早苗提前会见特朗普，“担心美国对中国让步”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-09-22 15:11
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE9LRkZNZ2xSNVpNazl3REdhQ2oxLVJtdnNMTUl2UW9LWTN0S1Zpb1plSHR6MmZlRHRXeFJKMzl0cjhJaE40ZTZCTnAyU2xnN0Z1NGJuOWlnajdxakVXZEEwY1Q4YWJidThnak5TXzBxMkdhLWc2?oc=5>
+
+### 特朗普在联大演讲中表示 美国政府文件将把人工智能改成超级智能(AI) 希望其他国家也跟着改
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-09-23 06:59
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE83YTZJSllsWHV5ZFFGa3hyc2k1S3pnWTJmeW4xaXhtaDVUUEozZ1dsWXUxbjJYSkpOeURadWRFNlNiLUVpOFFoSVUwRWtxWWdIV2dWVEFWSXdvUTJzWDZ2UnB0THhxM0pGT1lzc2dVNHpsdw?oc=5>
+
+### 特朗普联大演说夸耀委内瑞拉“战利品” 称放缓AI发展论是骗局
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 财新
+- 时间: 2026-09-23 02:30
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBaVHdVOUJsQXk3aUdtcWRsU0drUlVJdldPUUVxTFpPSDloZTNDZ1Z3d1IxUkhTOWg0TE9ia2d3aXBJVjA5WHdockFlekVJLXFVNEp2YUhOTl82UXVzcEVKaU16NTBiay1EdEE?oc=5>
+
+### 遭媒体联合反击，特朗普推出“特朗普电视”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-23 03:11
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxOblpUY0xLbmR5X1ptQnhqWEdzUjVMYS00SUExUmN1U1V3NDZKZldYVWlGRjdZYzhRR0M2UDFNVE11YThFMWl4MDFlLUdUT2xwTktGYnRNSGd5UXBDM3pzUEdqMmh5SXdoOUVGRGVZNUk1dUpQTkR0UVJXS1lwa255UV9KT3Z3aGZtelAzYnBJcWRSNnlSTTVlY3EwNE1INzE5MXdyTUgzVWZnc1JrblpocE1wTFVjZFR6TGJ6d0dOYjF4SGtRWUc1bkRSQlN3QXJH?oc=5>
+
+### 李在明接受时报专访，敦促美国放松对朝鲜的制裁
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-09-22 23:35
-- 链接: <https://news.google.com/rss/articles/CBMizAFBVV95cUxOTGhSRFZXbmU0aE1PVUlqa3dNb0RKem8tQUVYdDhYTTR0TEM4bWd0ZXNFZ0taZzNhbVBzTEtWSE1aMkVUY2xwczNXX0pPRUd6bVdUOUhXZE5ORHN4NVhTQjQxSkpDVlNRR2d3V0g1dklpV0NmdEp1QTNRdEJaa3pMaXVBMjlwQ0lZYkxzY1ZWbWtoSWh5SlFXSnIwTUhIZ3ltLU5XdGQxNkhMcDk3bnVxUER2LVd5c0NVQ1pBYm9OLVdWa2RPa05ZT2NHVFHSAc8BQVVfeXFMT3l2UWVvTHlIbjJfNllvdGdNbDZSVkJOWER3YW5mby11Ry05aUwyX1FnOHh2Q0F6SmRhLUtDV0QyZ3FNNWVPTTdfakhIWGs1RTVhcEJHclJER0xzUkNHaVZBelRtWmMyRkE4aGJfZlBUQVY5Ylk2TUdhakx6SHlWU0ZNdE5GbTFiNnp4YjlIekN6aUlVWjlmLXhtR1NSRko2LXBSdURWQUFrazF5Z0NIaExsNF9MWVczRjNzWXBuSHZfaXlKLTIzR19RZmIxOWJ3?oc=5>
-
-### 美国将在格陵兰岛设立两个新军事基地
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-09-22 20:42
-- 链接: <https://news.google.com/rss/articles/CBMiqwJBVV95cUxNN0psdGgxaEhfRkR5SWUzNjhSX2p5MU1FZW52THVzUmhqTl9Ra0Q1QXNoSS1GWTh2Y2dMcGdIVFl6RjFvWmtNNFBHWW9tcTJQOFV4Rk1oU3RuUlFrUzVXbG9QemJza1FzendKU0VSUFFIWGNpdE1pYXhvbWtLWUR0NlJheTMwWnoyNEtDazQyYkJKWTY1SGNTcEZNRUdjR0dGU05YVlhKOWJLTko0S1ZOWDVMWVZjOGN4SXVUR1MzQjBXUjFkZm1XaWZxTUl1azJ3RTJialNWZjAzVDRkR1cySHlOdTdxT1RXaERJUkdSY1N6bnRWaEJPTHctSlBIRjhaRzRmVjdWbzJIYi0tZnpVd2FCd1RmMnBXcFBtZl9LTlQ0Z3hGZWRCOFJEdw?oc=5>
-
-### Obispos de Estados Unidos felicitan al presidente electo Donald Trump
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: omnesmag.com
-- 时间: 2026-09-22 10:12
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxONTlDakxBa2pWN0dxeDE1cXdEYjBabHNqaVpWTGdMem9WQldGcUNfMmYyNVczb1lDZ0tKUWhPdEhjcmVYSUlKU1BDT1pKZG5kbGdmcmtucVZiQXBxa3dnOXF3SEo5YUJ1LVNGcXBQVkI0WFJvVnlEOUJlZkFFQ0dVR0o1Z1lWdWFOTnJFeEZWMmxZRGNNeWdSeA?oc=5>
+- 场馆: 纽约时报中文网
+- 时间: 2026-09-23 03:07
+- 链接: <https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc0xxY3BKMzZMeGgwbHBBWWZyeUs0Y0I0MW80X0ZZMXhnZ212VC01ZzJqMGhFamN4MlpuX2RwUVJGNWdaaXhGd05Ua19Qc2dfbi13bUVvUUFKYm9FRmZZM1NSQy0wZ1hMWW5ZR0xLbkdRY1dldTdJTnRsNzY1ZVY3bGlmVzFrOUh5LU1GRGFOdHFKd2JEdUpfY09qaU0wRXNQOGFJWVZqRnA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-23 07:09  (11 条)
+
+- **周杰伦** | 周杰伦青岛演唱会限定文创套餐，即将上线 <https://k.sina.com.cn/article_1899227237_m7133e86503308oi7m.html>
+- **特朗普** | 特朗普联合国演说五个要点：古巴垮台、摧毁伊朗、格陵兰基地，以及把AI改名SI <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Fdnl5S0tLQnZzUFZ5RVRfNUk4R05YMW8yWk1PTENlNFJZcWZocGQyV2c4NUZ1WndRSnFZU19CX2pfYzZnQ3pYdGtmLUg4SUVRVzdRMll5YnlXRko5U3c4T0hUYVdRRU3SAWxBVV95cUxNekRIcWtKdl9kTTl2cHo1Njcta2JZYWd3SWptbUtZYi1EZUVBelNFUHhleDdhN0lybFJXMzRlSktsMjFZeGY0UnR3WjZUMkNCY09mQWpFRjBIVmQtSWtkemJxUTZqU3RwaEhRTHk?oc=5>
+- **特朗普** | 拾光纪·“您是伟大的领导人”，特朗普热情期待在华盛顿接待习主席 <https://news.google.com/rss/articles/CBMiYkFVX3lxTE80U014Q2hsU3R6Vng1a0FnOUJPRVI2U2pTRWJya28zMWhkTzdGNk1jUi1pbVVMdEw0a0MwcDBoZkpfT3BiVk5QakZKWnhlS0ZiVlhRUlZUcGFNcHFDalZyN19R?oc=5>
+- **特朗普** | 9月23日外盘头条：特朗普证实美伊在联大罕见直接接触 Anthropic和OpenAI推出成本更低的新模型 <https://news.google.com/rss/articles/CBMi8wNBVV95cUxNNzhDODhVVHU0S19DZkxaRFl3YTZKT0NKZnZ4UDFUQjQxZHJuMlo3VTRoRTV0ZzFBTFFacUdIQkxtLWQzYkJGeXBpT2JtX2RsNkxOMjltTW9mLWZaVEZXSjl0eHMyTTI2eWIwTlhVOVFNZ3lEQUh0R0R2TEczUGZlMmxfUWFXNHB2Wld0aGkyeG1BMmpPdHlGY25PRHVJLV9PT3d4YXVlSFJQWDlKa0xCMlFianhWNk9KT0k4Z3AxRDNxaTJnUTlNS2xEOENCZjhkNDhybFJLSE83RXFwa3NHN1pDcnY3a3ZKdTZOM1FKSkFpdmNSR0dBNm9HTFZTUENfSU02cmZhWnVBNHBZbmdCcERIR2JMNS1MbzQ5UzUyeTJ6U2dmT3Z4cnAwUFRVUXUxMHJOWjJWNE5uTEVYY0V5dC0zY3p6dG1pVHpTS1dCQ0xsaHo0XzZOVF9VYTZoYXVoRnRadkJEMHd5akhLTncyV1BkdVBWX3lOcHd3dFFpTlY0MmZPLVRGMGh6RmZ0YzhLMXNKRFJiMEF3bWlJcnhXN1VPTXFPWVhib3B2aUw2SjROWi1Oc1pndDNPQTRGeHZXOG9ha21PVTBpTlQ0cTQwN0xaTEhKZk5vVFNYTHdCemlEVlNfbjR3YlFtSFhrazBNZENr?oc=5>
+- **特朗普** | 果然，高市早苗找特朗普聊了中国 <https://news.google.com/rss/articles/CBMic0FVX3lxTFBNX1k3Z2tNVEFNdVhKY3ZJcE9qOE9yMUxjQzQxRGFrcmtySWU2TnR6cXBVTU9iZ09UelhGUDRfdVJTX3hoRWNjcmdRZ0FIdHVCbHdWN2lLbzZRcWg4dDltUk9kbUpCM2pwNlF0YzJaanZKZ2c?oc=5>
+- **特朗普** | 中日僵局难解，高市早苗向特朗普“求助” <https://news.google.com/rss/articles/CBMihwFBVV95cUxNZUFUV0lpb2VzRW1YV1p5OUlydENmTTJ5RlZ5cDZvUGVwbEhwUUdHejRGdzlBYVlkdkJzMXd4cmdwNnV2TWpwbGNOTkJacVM2RmpWUnRSbDItX2V5R1pLUHVHQ2JsV3M0b0xCLVlFd1FlOUFUMXRhYXYyLW0yWHFhMVNLbXB4VzQ?oc=5>
+- **特朗普** | 高市早苗提前会见特朗普，“担心美国对中国让步” <https://news.google.com/rss/articles/CBMidEFVX3lxTE9LRkZNZ2xSNVpNazl3REdhQ2oxLVJtdnNMTUl2UW9LWTN0S1Zpb1plSHR6MmZlRHRXeFJKMzl0cjhJaE40ZTZCTnAyU2xnN0Z1NGJuOWlnajdxakVXZEEwY1Q4YWJidThnak5TXzBxMkdhLWc2?oc=5>
+- **特朗普** | 特朗普在联大演讲中表示 美国政府文件将把人工智能改成超级智能(AI) 希望其他国家也跟着改 <https://news.google.com/rss/articles/CBMickFVX3lxTE83YTZJSllsWHV5ZFFGa3hyc2k1S3pnWTJmeW4xaXhtaDVUUEozZ1dsWXUxbjJYSkpOeURadWRFNlNiLUVpOFFoSVUwRWtxWWdIV2dWVEFWSXdvUTJzWDZ2UnB0THhxM0pGT1lzc2dVNHpsdw?oc=5>
+- **特朗普** | 特朗普联大演说夸耀委内瑞拉“战利品” 称放缓AI发展论是骗局 <https://news.google.com/rss/articles/CBMiakFVX3lxTFBaVHdVOUJsQXk3aUdtcWRsU0drUlVJdldPUUVxTFpPSDloZTNDZ1Z3d1IxUkhTOWg0TE9ia2d3aXBJVjA5WHdockFlekVJLXFVNEp2YUhOTl82UXVzcEVKaU16NTBiay1EdEE?oc=5>
+- **特朗普** | 遭媒体联合反击，特朗普推出“特朗普电视” <https://news.google.com/rss/articles/CBMi0AFBVV95cUxOblpUY0xLbmR5X1ptQnhqWEdzUjVMYS00SUExUmN1U1V3NDZKZldYVWlGRjdZYzhRR0M2UDFNVE11YThFMWl4MDFlLUdUT2xwTktGYnRNSGd5UXBDM3pzUEdqMmh5SXdoOUVGRGVZNUk1dUpQTkR0UVJXS1lwa255UV9KT3Z3aGZtelAzYnBJcWRSNnlSTTVlY3EwNE1INzE5MXdyTUgzVWZnc1JrblpocE1wTFVjZFR6TGJ6d0dOYjF4SGtRWUc1bkRSQlN3QXJH?oc=5>
+- **Trump** | 李在明接受时报专访，敦促美国放松对朝鲜的制裁 <https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc0xxY3BKMzZMeGgwbHBBWWZyeUs0Y0I0MW80X0ZZMXhnZ212VC01ZzJqMGhFamN4MlpuX2RwUVJGNWdaaXhGd05Ua19Qc2dfbi13bUVvUUFKYm9FRmZZM1NSQy0wZ1hMWW5ZR0xLbkdRY1dldTdJTnRsNzY1ZVY3bGlmVzFrOUh5LU1GRGFOdHFKd2JEdUpfY09qaU0wRXNQOGFJWVZqRnA?oc=5>
 
 ### 2026-09-23 01:36  (13 条)
 
