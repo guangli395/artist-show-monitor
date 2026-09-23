@@ -1,64 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-23 20:57**
-- 本轮扫到 12412 条, 新增 **6** 条
+- 最近更新: **2026-09-23 23:25**
+- 本轮扫到 12417 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (5 条)
 
-### 美国总统特朗普已邀请俄罗斯总统普京于今年晚些时候赴迈阿密出席二十国集团峰会。
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-23 20:03
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFB4dnNsM2ptU08yVGVIRnczanctNkF1YmhQQ3loMTNqZURUT0VvWFdFR3JtUndkZVczYTZlQWhHbU1vQ3ZGaVoxNHQyMA?oc=5>
-
-### 报道称特朗普政府考虑90天柴油出口禁令，后遭白宫否认，美能源部长公开反对
+### 特朗普欢迎中国国家主席习近平来访
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-09-23 18:28
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBMbWM4Y2NHaHhKMXdLR1RmZnowMmZiblBNemZHaDZVZ0NkWkVnVmVvNVBwdldrN1NwNXZqeFh2cm5iMjVBaDg4TkVCZndrTWEteHVZ?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-09-23 23:00
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE1VNjJjLWU4U2xQTXEwTUEwazhoazdpQml1QktRaUx5TWxXNG9IUmFSa2c0RlBWSHBkUnVxMHNOcllHakVzVVJFVmlPTjl0R05wNFZqYmRZWkh6aGoxVVpTMmthR1NTaXlieUlnMEZiODdXblpYNXfSAXhBVV95cUxNb0RZNlZJdE10OE5DNzZmaFRfd3dJNW9QdVZLSEtmbXZvLXhfczdLWW1FNGRWcERSOFpNUWhoOU1CazFyU2dJX1FweUxIMU1LaWY5c3ZNZURjU1R0ZlF1dTVWR0kzWlFON29mMl9UWGg0S3d0MVcteFQ?oc=5>
 
-### 特朗普主张禁止柴油出口 以缓解价格上涨回应民怨
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-09-23 09:30
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE40UkNuelZ5T0lsVHZPV3ZNbTRkUlI2MWs2bWRxTkI5cXJ1ZWF1aGNtR3p4ZGFqaW1OVWdUTGlCNnVLV2JPRnF0Rm9kVnFrVi1tV1JGU2Y5Nl9SWWlXX1pZSEtPYzk3MVBMcFE?oc=5>
-
-### 遭媒体联合反击，特朗普推出“特朗普电视”
+### 中国希望伊朗战争结束，但不是以特朗普想要的方式
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-23 03:11
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZ1NOajdORzF0UjRZQW1xaFd6Q195VG5wMW1YSHlVU0VYSUJFV1VXWGJtZjNTbWJCMGNGUkQ5THRNaHdvN1F2bV9zU2xxTEwtRHNpMU1NbUw5TmJSNXlhUmppZmlTVlNzX3p2b2tPa3pYV1dXdDZab0hYa2dNQWJUV0d0MDhPTmtZUk11Q2lMMVBTTGczZ1NPdnR0UkRuOVpkY0RZZnNQQjZsZk9iakZ0dUdhS1dvRnd6c0pIU1pYT3ItRjNTemtVU1RSbkFsRUdk?oc=5>
+- 场馆: BBC
+- 时间: 2026-09-23 22:33
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TSDQtSHBET2VmbzYtcWU2ajBFSWRfN3hGQTNkUjNCZGJnWDJybTRQMjhhRXZIQWVDN0dkVnB5LTYwZXBXcUI1ZjhGaV9JZTJRcnlxVGUxTGxvOGFnbl94NEh5Undqa3PSAWxBVV95cUxOcVNkd19CdGlBdTNKSDRTbjUyXy1QNFFTcjRPVlhTRGd0V1NPWDMtQ2F0R1oxN3dwOHpzX3ppVXpjM0FlOW5PU1UwQnFFNmRJWElyeV96bTBIT2I3SFdaa1h4cmNDWXdEQk5xYnE?oc=5>
 
-### Trump Downplayed AI Safety Concerns, but His Investment Portfolio Bought Cybersecurity Stocks -- Barrons.com
+### 美中峰会之际，参院共和党人敦促特朗普政府加速对台军援
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-09-23 22:39
+- 链接: <https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZmY4bC1VdUxQX09xc2QtQUJ4TkNtbUdnRG9GUldwV25WQmV1Rzg2bUdyd2YzLTdscUNsNHRHRFNqNU9wN0VmdTFDQTZwSE5HUnM4SDNESmUtMFRMVjF4cmg4QmVjVTZJZ255c0Rqai1VU29rSU1HSEZ1MzVHNmotdzNZQl9fTnhWRUY0SjRIZTc4bVBPY3ozN0ZsR2Rnc3NiT2hRMFNlS19jR3lZT3pNV0hRMU5nMG1NbTFpU2ZBMHhlTFBZV3FrMDJDT09jcnhNMDVKRG0xemJMaV9JLVF3MGdtTC1ReW9HbVB4NG5n0gHwAUFVX3lxTE9IS2trb2N3YWtnWXR6MGpPX25qdmswdE9Hb1VLN1NSa1BOSXFlUXMzWkNTdVVJekRHaXAtYU5ZQjZ3b2lVUEhlUFY1LU9MMlZmVHFEOU14QkpuOVFyX1hObjhGemdNSGtHRFk1TTVNNHI1QzhONlFYSEFrQ3o0WGhTdWlSb1ZndE1nRnFicmZWUk9SR2RWRWUwdzlvVXhZSVlkVnh1QWxvZjYzdGZPVGVfYzA2TjZYOXp0Z1VCWlZDTF9TUy0wM0x6VDRlcFVIcm5jemQwRU9Zd2tCRmp6VUNsUlFfN19lbHFDNFdTdDNLbg?oc=5>
+
+### 3 Market Catalysts to Watch in the Trump-Xi Summit
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: Moomoo
-- 时间: 2026-09-23 18:45
-- 链接: <https://news.google.com/rss/articles/CBMivAFBVV95cUxNNjRrV2FlYVNxZ0VjUkpucGFyYTNsdUdwaFp1cHFaNkpfaWY3NWNQeWpQRy1vMkl1UmZEeXd1WS1OSmc4SUJZajBIRWxMSFdIN0hUUTVPbGMzYkVPcV9tdEFsTlVkcjdUNFd0QU9sWklURTNHd1pVVG9oVGFac2FiaGliTVB6RTBobXlkQU1pdlN4RXdfakZnYXJVa183bTZrazlqNDR1OUlzQTlwZ0hEOERmbDB0TW1RS2xkeA?oc=5>
+- 时间: 2026-09-23 21:16
+- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxPX0hiTmZ5ZUhMeHZELTBRczM2NXhqR005LTlrZ3hLWHIxRFg4MUtoY2o5d3NUb2FQalprejlmaFBWZGMtRTJmX2hDbDhjblVwaGhSSmZJSTRWWEp0WjNicnhIWUR0LWt6dGFURk9ic280dDFjeWJka2xWUnBEXzdTdmVmSVhGS2Z0VGl1S2pSMjE4SVhwWVk3bFRLZkJ4VktS?oc=5>
 
-### 特朗普再会习近平：美中贸易“休战”能走多远？
+### TRUMP刚刚宣布，750份看跌期权到本月底的价值将比比特币高出两倍……🤣🤣🤣🤣🥳🥳🥳🎉🎉🎉🍷🍷...
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: voachinese.com
-- 时间: 2026-09-23 20:19
-- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxNR1JSdUU0NHpYSVcwUmFRVVo2TG5SS05UT3RQcHdpUEp6ZTh3SFFpV1I5QkZ0QllyNVNGV0xiU0l3MDJNbWdtMFRSQWFUX3pDYmtSX3Y4alFMbzRKUFhDOWxaVkc3dTIyN2Y5cWJmV21JUHVrQ3JhUThGUWI2RVh6ekRKemZYb2cyT0VjelpnaHVPUUFu0gGXAUFVX3lxTFA0MjB2bjZwbXdiWTRHcU1xM2lDN0FmWUFNTlRTdFV0RldvSG8wei1vNnVKTnBGaDMzRjJCWHVQQ21paV9peTVVbVBETzMyd2RZV3BLTC11Z1g3UmktUDJTdld5MHlLbVJoQkhHakdHem5MR0ppM0ZNVUNnMlBUQ0JFV05uSnV5U1ZoeUdnazAxaldGWk5IRzA?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-09-23 11:48
+- 链接: <https://news.google.com/rss/articles/CBMitwFBVV95cUxOaXhSNG51N19rUk1WUDZHZkFTeGVSZmhwTFM1d3M4WkpObGNxOHFFamhvZ25ubzRkNWIyVWRpNUp5WjE4aE5aSHNmZ2pweWJxenRJS2llRmx6TnotZzZLUldXM2xFN0NxdUhsRzZIejVKRmJrZnhrOEVpN2U3N3dCcmhVLWVOT0I0SUdka2Nnb2hCWGM3YkxiQzN6N194UzU2U0t4bmhIaG90WmNqQm9ZdkVUMGZnTFk?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-23 23:25  (5 条)
+
+- **特朗普** | 特朗普欢迎中国国家主席习近平来访 <https://news.google.com/rss/articles/CBMidkFVX3lxTE1VNjJjLWU4U2xQTXEwTUEwazhoazdpQml1QktRaUx5TWxXNG9IUmFSa2c0RlBWSHBkUnVxMHNOcllHakVzVVJFVmlPTjl0R05wNFZqYmRZWkh6aGoxVVpTMmthR1NTaXlieUlnMEZiODdXblpYNXfSAXhBVV95cUxNb0RZNlZJdE10OE5DNzZmaFRfd3dJNW9QdVZLSEtmbXZvLXhfczdLWW1FNGRWcERSOFpNUWhoOU1CazFyU2dJX1FweUxIMU1LaWY5c3ZNZURjU1R0ZlF1dTVWR0kzWlFON29mMl9UWGg0S3d0MVcteFQ?oc=5>
+- **特朗普** | 中国希望伊朗战争结束，但不是以特朗普想要的方式 <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TSDQtSHBET2VmbzYtcWU2ajBFSWRfN3hGQTNkUjNCZGJnWDJybTRQMjhhRXZIQWVDN0dkVnB5LTYwZXBXcUI1ZjhGaV9JZTJRcnlxVGUxTGxvOGFnbl94NEh5Undqa3PSAWxBVV95cUxOcVNkd19CdGlBdTNKSDRTbjUyXy1QNFFTcjRPVlhTRGd0V1NPWDMtQ2F0R1oxN3dwOHpzX3ppVXpjM0FlOW5PU1UwQnFFNmRJWElyeV96bTBIT2I3SFdaa1h4cmNDWXdEQk5xYnE?oc=5>
+- **Trump** | 美中峰会之际，参院共和党人敦促特朗普政府加速对台军援 <https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZmY4bC1VdUxQX09xc2QtQUJ4TkNtbUdnRG9GUldwV25WQmV1Rzg2bUdyd2YzLTdscUNsNHRHRFNqNU9wN0VmdTFDQTZwSE5HUnM4SDNESmUtMFRMVjF4cmg4QmVjVTZJZ255c0Rqai1VU29rSU1HSEZ1MzVHNmotdzNZQl9fTnhWRUY0SjRIZTc4bVBPY3ozN0ZsR2Rnc3NiT2hRMFNlS19jR3lZT3pNV0hRMU5nMG1NbTFpU2ZBMHhlTFBZV3FrMDJDT09jcnhNMDVKRG0xemJMaV9JLVF3MGdtTC1ReW9HbVB4NG5n0gHwAUFVX3lxTE9IS2trb2N3YWtnWXR6MGpPX25qdmswdE9Hb1VLN1NSa1BOSXFlUXMzWkNTdVVJekRHaXAtYU5ZQjZ3b2lVUEhlUFY1LU9MMlZmVHFEOU14QkpuOVFyX1hObjhGemdNSGtHRFk1TTVNNHI1QzhONlFYSEFrQ3o0WGhTdWlSb1ZndE1nRnFicmZWUk9SR2RWRWUwdzlvVXhZSVlkVnh1QWxvZjYzdGZPVGVfYzA2TjZYOXp0Z1VCWlZDTF9TUy0wM0x6VDRlcFVIcm5jemQwRU9Zd2tCRmp6VUNsUlFfN19lbHFDNFdTdDNLbg?oc=5>
+- **Trump** | 3 Market Catalysts to Watch in the Trump-Xi Summit <https://news.google.com/rss/articles/CBMioAFBVV95cUxPX0hiTmZ5ZUhMeHZELTBRczM2NXhqR005LTlrZ3hLWHIxRFg4MUtoY2o5d3NUb2FQalprejlmaFBWZGMtRTJmX2hDbDhjblVwaGhSSmZJSTRWWEp0WjNicnhIWUR0LWt6dGFURk9ic280dDFjeWJka2xWUnBEXzdTdmVmSVhGS2Z0VGl1S2pSMjE4SVhwWVk3bFRLZkJ4VktS?oc=5>
+- **Trump** | TRUMP刚刚宣布，750份看跌期权到本月底的价值将比比特币高出两倍……🤣🤣🤣🤣🥳🥳🥳🎉🎉🎉🍷🍷... <https://news.google.com/rss/articles/CBMitwFBVV95cUxOaXhSNG51N19rUk1WUDZHZkFTeGVSZmhwTFM1d3M4WkpObGNxOHFFamhvZ25ubzRkNWIyVWRpNUp5WjE4aE5aSHNmZ2pweWJxenRJS2llRmx6TnotZzZLUldXM2xFN0NxdUhsRzZIejVKRmJrZnhrOEVpN2U3N3dCcmhVLWVOT0I0SUdka2Nnb2hCWGM3YkxiQzN6N194UzU2U0t4bmhIaG90WmNqQm9ZdkVUMGZnTFk?oc=5>
 
 ### 2026-09-23 20:57  (6 条)
 
