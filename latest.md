@@ -1,80 +1,71 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-24 01:34**
-- 本轮扫到 12425 条, 新增 **8** 条
+- 最近更新: **2026-09-24 07:02**
+- 本轮扫到 12431 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (6 条)
 
-### 习近平抵达华盛顿，特朗普机场热情迎接
+### 刘畊宏三公淘汰可以去周杰伦演唱会了
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-09-23 23:13
-- 链接: <https://news.google.com/rss/articles/CBMijgFBVV95cUxQODB4Qm13QS1BaUZlRWJMR2hVRVFLcjhPMFQ1VE1HaE1VcHVGMVl1Zi1XMndoclV4NnRpaFdNWHY4b2JFLUUwaEVlMGhjUmliaUJuRHQyNWxYOFpJSGVEa0V6eThwb292VWt0a2h2bllmX2pIYU9Wcjhmb3lCdUROY0Rxd1NvMUFja3Y2cXRB?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1936119834_m7366d81a03301n68w.html>
 
-### 自损八百？特朗普考虑限制柴油出口
+### 20260923 | 特朗普改口“非常良好”？揭秘美伊三小时闭门谈判真相 | 彭博简报｜超级有声书｜英语精听
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-09-24 01:06
-- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE1YQzFRbDVHbHBFVEpSS3BhbzUtX196SlNTUXNpV2VpbmdKby1UTXRsRTZBZWVDaXRMNzRpZm5qTkZvQXlUOHduTXlUVWR4bjVQ?oc=5>
+- 场馆: video.sina.com.cn
+- 时间: 2026-09-24 06:09
+- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxPdW8zZ0FaNXdSWUYzcnZiZmdtSEd3QWtON0NQVXJnbDNkckRKb2ZnMnNNZGtUUThXWVZmMkdEalNUZ3VIUXQwb0tRVVpqTVc3NU5DLUg2TXVWcFhHVnBIQTZEQlo1VHQyZjl3WGZhY21HQ3FqTEhpYWJJbk43TzlfdHhR?oc=5>
 
-### 美国石油公司高管游说反对特朗普柴油出口禁令
+### 特朗普拟祭90天柴油出口禁令？白宫官员否认 能源部长直言“行不通”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-09-23 11:07
-- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTHhJTjBrbXRCdC16Z05CYk1fSlBkY1ZqaGcxTnI2UThjUFFBZ2pheVdaT2k5WVVNWjJBOHZvNnV2d0JfU29SdzNsUU5GLURGdHNTRnpodEk3TmprWjRDeThiTmp6b25wLTlocmVCRWg4SWYxcHBNM2RsZnIzY3E5MDFLVVJaaFNDRUtPZEpWN044Q1VVamVVWEpFRHlXSG01dF9sbVZiMlhqemhYallKdGtxSW5pRUI0Z04wYk54bndmdmgyQjdOb1JUbmNLckRmNXc?oc=5>
+- 时间: 2026-09-24 02:17
+- 链接: <https://news.google.com/rss/articles/CBMihgFBVV95cUxQSXlvUjI5U3RiUkE4d1VWS0paN2F3dUdiRzVoa1V3VERMM0QyR0hRZFRDcUVHRVo3blpDTFRoa0NNMUQzaUlsNmhzZXJob2VZR3BzT2FYdmF1b1g1OHdCVkthVlA4WmIxQkdCOWNVWS1fRGpsR1I5XzNJS3JfWEd2TjBWNmNqZw?oc=5>
 
-### 中国国家主席习近平抵达华盛顿访问，特朗普总统罕见亲自去机场迎接
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: voachinese.com
-- 时间: 2026-09-23 22:37
-- 链接: <https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc3FUWkpYY05ldWhFSmdjN2xDWUhJX2RBaHZyMHN6MThkS2loc3BsRWlEdFdwR2RpNmN5WFVBdVlUNFkwTHJzZ3k5WVlFSUNkd3Rxd3lIazNCakJOWUJzVjRYMjV6bENpbG1JQ2ZNZHRpQ24wbWxaWXFlQzdOeDlON3NfU0dkdVNuVHU3T1dUTTdidmJmb05oVWVGSEV5M0VJMGZ6R1ZlSm5wNDA5WFRUZ3N6dlJXYm8tamQ00gG-AUFVX3lxTE1OSFBRbGRYVWkzUktTdzA3eVAyWHNrY2hzWk1WZmZZXy1pZ2dqX0tfMjctQlQ5VVhPTWl5YTk1OHZZaWxYUGE5Z1hablRDcnFlSHhkOG0wWFdySzBCQzdNdVVybklrbnQ1Nl9BRHpfWUdUbW54UWoyMVNHVHlfTV9MNXBjWXdOeWs2MUtaVFpWdXhzc0J1Skl0YmlDaU40OEhtcjNLUThSOTZONFhnZmR2OVRkRnhPY01ucW8wLXc?oc=5>
-
-### 特朗普天天叫嚣利率应降至1%，他的逻辑究竟是啥？-市场参考
+### 特朗普联大发言引起部分代表离场 秘书长暗批其做法助长霸权倾向
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 金十数据
-- 时间: 2026-09-23 23:46
-- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZZTlMRzl5T20wVHFLY2FiMkRwODBsa1VRWURDbThBbEJodTBJUzhsU0MweG9jM0kxZUFEd3RDTlRpVkgxdUJuSmkxYTQ0b00?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-09-22 18:00
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxONGQyNVM3bjVsZWgyODhKeWlaMkE5Ni0zQ3FZbU9VMHZudUdqbTNaZHYyVlRsN2ZUTVFhU0lBOXQ0NmZ3WFJZbEwzajVIRmFZUEVseEpzR0ZTSlFQMWNPYVRnODFsaVU2ckRTeVdXUkxkaFFvamNtMUN6cUstSzBFcHl1X3RyUms0TnB2WFZ4LXMwd05mNGpaSjVqVG9TVnFkVGx0ZkpGZEZqdVV0ZEdjWnh3alVwazBWYkdJS1RjNHBxM3NxbENLTG1yMjdiYmhHYTc1VUxzUkhkb0E3eUQw?oc=5>
 
-### 特朗普联大宣称AI改名超级智能
+### 习近平访美：特朗普亲迎 三天行程正式展开 贝森特宣布两国贸易战继续“停火”
 
 - 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-09-24 00:54
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1BTlBia2FWRmFtNUo1a2tnNmVBZ0ZqbE4wRWN2a0xqeUlzdkpBWmUzaWdyd3dzRnFsYVhVUlVPWHZrcnUxMDd4clRUVURjeVRxejZSLVUyMTdtY3VibTFkSEI3QzJCdHA4MUtYbUxhNnZNdUE?oc=5>
-
-### 习近平专机抵达美国 特朗普亲自接机
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-09-23 21:32
-- 链接: <https://news.google.com/rss/articles/CBMibEFVX3lxTE1sRFhIdzM2bFpxMmFFQS1pVFROMC1HUjgzVzRXWjF6QjNvVVU0WUJmb1RxNTE1UTZ6M1hCeVlzS2JoQXVkcXZrcnQwS2QzOWhXb3BHdjV1dXA3LXpJSWo0S0R4VnFFallKd1FNTw?oc=5>
-
-### 特朗普与习近平会晤之际，AI竞争正重塑全球权力格局
-
-- 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: BBC
-- 时间: 2026-09-24 00:06
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGYk15SVBtU2N1RHVVb2VqR1gzdTVEbDlBUHI2VExXcXY1MEtyTHlmem11WTE0RjdLeG5LQ1djcU12elRlWm5BWGNaT1FZZ0RseEEzRXZGdDZISi1XWG9qY0V4c2VkSmPSAWxBVV95cUxOTVpNRnNuZ2hNNXNuUUVKUldQb3hoSUVhWjdva3RFMGJJR2tVeE15Uk5Ia2drOE1oUWpVSFhzQ0JLUFlmczU5ZjhFN2JwajVmMUlIUmJzNEdTeTdlc1lZY1lkYzdoZTVOUjhIYU0?oc=5>
+- 时间: 2026-09-24 06:02
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93WmRDR3J4ZHhSYjBkNDh5NnRVYjAxSkxMUFEwOVBvUnF1WFpjVFJFY3FWeW1QTkJ5NEs5WUMtRi0zMlIxR1ZqNDFxNDhMdWt1N18wSmljaEdsMTNUTWE1ejQyR1pubnPSAWxBVV95cUxQaVFLaVBYVlByMkdRRVVPQTRza01sX2dRNDRNLV9PRzdLSFNtelF4dnduVVNUOXBEbGN2WlMyczJYcnlCWUNwN2RZdmRCTXZ0cV9ZaXR2TFJqaF9nbGtLQVNsTWJ1d2VZTW9DMXM?oc=5>
+
+### 红毯礼遇的背后：习近平访美之前的中美博弈
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-09-23 11:56
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE52aWFTOVV3VmI2TU10SEIwaDFjT3JERnl5R1lXLTBjZTBic3J3emxHQ1RmWVdoMDlmb2xBZENDWFBzTTc5YmpMZExmY0tWT1lIaW9nUGpuWUctUjdsazJCZHdOS3haMWd0UE00b2o2ajc4aUE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-24 07:02  (6 条)
+
+- **周杰伦** | 刘畊宏三公淘汰可以去周杰伦演唱会了 <https://k.sina.com.cn/article_1936119834_m7366d81a03301n68w.html>
+- **特朗普** | 20260923 | 特朗普改口“非常良好”？揭秘美伊三小时闭门谈判真相 | 彭博简报｜超级有声书｜英语精听 <https://news.google.com/rss/articles/CBMiggFBVV95cUxPdW8zZ0FaNXdSWUYzcnZiZmdtSEd3QWtON0NQVXJnbDNkckRKb2ZnMnNNZGtUUThXWVZmMkdEalNUZ3VIUXQwb0tRVVpqTVc3NU5DLUg2TXVWcFhHVnBIQTZEQlo1VHQyZjl3WGZhY21HQ3FqTEhpYWJJbk43TzlfdHhR?oc=5>
+- **特朗普** | 特朗普拟祭90天柴油出口禁令？白宫官员否认 能源部长直言“行不通” <https://news.google.com/rss/articles/CBMihgFBVV95cUxQSXlvUjI5U3RiUkE4d1VWS0paN2F3dUdiRzVoa1V3VERMM0QyR0hRZFRDcUVHRVo3blpDTFRoa0NNMUQzaUlsNmhzZXJob2VZR3BzT2FYdmF1b1g1OHdCVkthVlA4WmIxQkdCOWNVWS1fRGpsR1I5XzNJS3JfWEd2TjBWNmNqZw?oc=5>
+- **特朗普** | 特朗普联大发言引起部分代表离场 秘书长暗批其做法助长霸权倾向 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxONGQyNVM3bjVsZWgyODhKeWlaMkE5Ni0zQ3FZbU9VMHZudUdqbTNaZHYyVlRsN2ZUTVFhU0lBOXQ0NmZ3WFJZbEwzajVIRmFZUEVseEpzR0ZTSlFQMWNPYVRnODFsaVU2ckRTeVdXUkxkaFFvamNtMUN6cUstSzBFcHl1X3RyUms0TnB2WFZ4LXMwd05mNGpaSjVqVG9TVnFkVGx0ZkpGZEZqdVV0ZEdjWnh3alVwazBWYkdJS1RjNHBxM3NxbENLTG1yMjdiYmhHYTc1VUxzUkhkb0E3eUQw?oc=5>
+- **特朗普** | 习近平访美：特朗普亲迎 三天行程正式展开 贝森特宣布两国贸易战继续“停火” <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93WmRDR3J4ZHhSYjBkNDh5NnRVYjAxSkxMUFEwOVBvUnF1WFpjVFJFY3FWeW1QTkJ5NEs5WUMtRi0zMlIxR1ZqNDFxNDhMdWt1N18wSmljaEdsMTNUTWE1ejQyR1pubnPSAWxBVV95cUxQaVFLaVBYVlByMkdRRVVPQTRza01sX2dRNDRNLV9PRzdLSFNtelF4dnduVVNUOXBEbGN2WlMyczJYcnlCWUNwN2RZdmRCTXZ0cV9ZaXR2TFJqaF9nbGtLQVNsTWJ1d2VZTW9DMXM?oc=5>
+- **Trump** | 红毯礼遇的背后：习近平访美之前的中美博弈 <https://news.google.com/rss/articles/CBMic0FVX3lxTE52aWFTOVV3VmI2TU10SEIwaDFjT3JERnl5R1lXLTBjZTBic3J3emxHQ1RmWVdoMDlmb2xBZENDWFBzTTc5YmpMZExmY0tWT1lIaW9nUGpuWUctUjdsazJCZHdOS3haMWd0UE00b2o2ajc4aUE?oc=5>
 
 ### 2026-09-24 01:34  (8 条)
 
