@@ -1,33 +1,79 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-24 07:02**
-- 本轮扫到 12431 条, 新增 **6** 条
+- 最近更新: **2026-09-24 12:48**
+- 本轮扫到 12445 条, 新增 **14** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (14 条)
 
-### 刘畊宏三公淘汰可以去周杰伦演唱会了
+### 9月24日至26日，南京奥体中心演唱会出行提示：绿色出行、文明观演！
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1936119834_m7366d81a03301n68w.html>
+- 链接: <https://k.sina.com.cn/article_1750349220_m685435a403301wbje.html>
 
-### 20260923 | 特朗普改口“非常良好”？揭秘美伊三小时闭门谈判真相 | 彭博简报｜超级有声书｜英语精听
+### 周杰伦青岛演唱会推出专属限定文创套餐
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1899227237_m7133e86503308ons6.html>
+
+### 习近平抵达华盛顿，特朗普机场热情迎接
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: video.sina.com.cn
-- 时间: 2026-09-24 06:09
-- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxPdW8zZ0FaNXdSWUYzcnZiZmdtSEd3QWtON0NQVXJnbDNkckRKb2ZnMnNNZGtUUThXWVZmMkdEalNUZ3VIUXQwb0tRVVpqTVc3NU5DLUg2TXVWcFhHVnBIQTZEQlo1VHQyZjl3WGZhY21HQ3FqTEhpYWJJbk43TzlfdHhR?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-09-24 05:22
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE16eDVrbWM1YjJLSDVJalFrS0N4N1hHckRETUxTOHpHY1hWRGJYWE5Ha0I3TGFtTXo5SGpOc2wxbEVoLXVVcEJLRWVTeURzbXJ6NjNTMXNfeDJyRnh5aGtZRW9WalBHZ0dMUEx5X1JsRE15Mmw2clNocQ?oc=5>
 
-### 特朗普拟祭90天柴油出口禁令？白宫官员否认 能源部长直言“行不通”
+### 美国总统特朗普：民主......_7x24快讯_新浪财经
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-09-24 02:17
-- 链接: <https://news.google.com/rss/articles/CBMihgFBVV95cUxQSXlvUjI5U3RiUkE4d1VWS0paN2F3dUdiRzVoa1V3VERMM0QyR0hRZFRDcUVHRVo3blpDTFRoa0NNMUQzaUlsNmhzZXJob2VZR3BzT2FYdmF1b1g1OHdCVkthVlA4WmIxQkdCOWNVWS1fRGpsR1I5XzNJS3JfWEd2TjBWNmNqZw?oc=5>
+- 时间: 2026-09-24 11:16
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9tT1JxSW5Va0hkYW4yeXV5UWxtRW5UUmZMamYtbXZON2o5ZHlDaTdOVE0zbEtMc2pXZ2VSSjRCX256Y1o2Z3RFNHpTVQ?oc=5>
+
+### 中方回应是否邀请特朗普出席深圳APEC峰会
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-09-24 07:28
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFAzeEU1Vnp5SUcwOWNiTF81WlExYkc5eE5vSTJjby1FZUY5MTc3MEN1TC1neWxKV2wxVlU4RWtmWGx5Skc4bHFfSW1iV2c?oc=5>
+
+### 特朗普曾贬低曼彻斯特 伯纳姆一句玩笑轻松化解
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-24 10:07
+- 链接: <https://news.google.com/rss/articles/CBMingJBVV95cUxQdWpjR2psN1U0Zjh4S05nanBPYnJ3QUNjMkVYZV9jSVNoQ2lPRGNMNVFRYTFjNjlKUUs0djYzM3d2TE9nOFBPVzR5OVRjalVPMllRRFVGNm50RWFPemx6TkZUakdGcDJkb0U4U0xsaGJUVFdQUC1GMGdwSTZydUVhbzU1MzJsOEdPR01ibGEzNE00Sm9FZG5TaHk3QlV2clRoaTRSbTFuNEJOMWdIVElzc01zNVFNYU1YT01USXZQQm4tNVRkS0IyRGU1RndKNnViVnQ5OGljWmpHNG9ZME9nVWNDUmhPVlpqNTBoTGpzcnBCQlRNSlJ0NXBNU3A3Q2U4algxSG1ISG01ZzFINjItX19ON0RPTkpwXzZSZWJR?oc=5>
+
+### 英国首相请求特朗普与习近平会晤时提出释放黎智英
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-09-23 14:48
+- 链接: <https://news.google.com/rss/articles/CBMi8wJBVV95cUxQTnFMOVdxUHZXTjFrdHYxaFp1UFdrdnNrOE9rc1FGMWctSGFBeEhldUI2dWlhaEpRZlQySXZjR1JaeXlrak95NEVad1VBTHhoeDh5aHp3Sk9lcUNXQTBlWk9TMWNaMkhuN0VfbkI3ZjQ4YzJ5RXJjb1BqNWxMWW5hTE1BSlhlbUh4Qlg2a1VUXzd3MXpwbmJxMWEyYzktLTRFM25nVEZhSEF4WnRpbDFjWll3a3BPdmN4UXdXUkd3aVd4c1RrdF9ZOGVIdjZjclVJSDJmZzJYSlpQY09FN1dWSXRoWnVGZnNlczFFNm9UczJtZXY1WjJvYVFjVFRwejRRY2d3MG1TWXpnUzVqUHFKYWZuV0NPZUhFV0VoTW9kUkhUVERKMXFiTGk3QjNwbkg3YXFYd2RNZk5CSk5hcE1mX0NDY0ZuUW1oYllWNm9VVlY3WXV4RTczaDNBR0swcWFOal81X0NHRjlZVFhTM1U2NTRWUQ?oc=5>
+
+### 特朗普亲自接机，这三个细节很特别
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: video.sina.com.cn
+- 时间: 2026-09-24 10:05
+- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE9MMENyM21LTE9jbnVTUlhHdExxU0FidjF6TnlpOUFOWV9WSldtMEJYWVU4U3Y3clNjYmFjTC1RY00ycjU1cDY3bzRGZU1aeS1PT3JjdHFGMXZPeVBpWFllRHZLVEtacFZKMkoxMXdadmdNZFNndWdqU3cxQzVYZw?oc=5>
+
+### 特朗普遗憾欢迎晚宴座位不够多，具体嘉宾名单后续将予以公布
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-09-24 02:16
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5oZy1QdzNMajFyaFVUdlV6aHF6d0RGaGcxamFhNkZhZlNDal82cklfV3F2VWRyUWZseXQyTXFSTGRUYktJSHVnSGN2eUNIZWdac1J1TktPMk56aDNSMWM4OTlPR1ZZdTdUMWxWaFJzNEs?oc=5>
 
 ### 特朗普联大发言引起部分代表离场 秘书长暗批其做法助长霸权倾向
 
@@ -35,28 +81,61 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-09-22 18:00
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxONGQyNVM3bjVsZWgyODhKeWlaMkE5Ni0zQ3FZbU9VMHZudUdqbTNaZHYyVlRsN2ZUTVFhU0lBOXQ0NmZ3WFJZbEwzajVIRmFZUEVseEpzR0ZTSlFQMWNPYVRnODFsaVU2ckRTeVdXUkxkaFFvamNtMUN6cUstSzBFcHl1X3RyUms0TnB2WFZ4LXMwd05mNGpaSjVqVG9TVnFkVGx0ZkpGZEZqdVV0ZEdjWnh3alVwazBWYkdJS1RjNHBxM3NxbENLTG1yMjdiYmhHYTc1VUxzUkhkb0E3eUQw?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPLTBGYTNYWTdqRndmQVVlNTVzN3BDMjFkVGcweWtzVUhCR0gyT09UQ2EtMG9RUkJxTzdVc2VJSldHamQ4ZDE2ZmVNQmRtbHU1QVItbF9uVEQwQ2NlcWJZaDVWWm8wWVItdkpkVjRFQ2xMYWxyVEU4ZlJaTGo5TE9Kcm9IclNUeDBOVW14d0JyYkNaYkpFVm5aVUVzLVJpZ19pVmllRzl5MVROa0F6ZVZYdzBuSlhTUTFIeVl4eklfMXNJTUVYRDRwTzh1cXFBclJ3VHZTWlZkOF9zcTY2Unhv?oc=5>
 
-### 习近平访美：特朗普亲迎 三天行程正式展开 贝森特宣布两国贸易战继续“停火”
+### 多国领导人联大聚焦中东局势，外媒：美伊代表在纽约会谈3小时
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-09-24 06:02
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93WmRDR3J4ZHhSYjBkNDh5NnRVYjAxSkxMUFEwOVBvUnF1WFpjVFJFY3FWeW1QTkJ5NEs5WUMtRi0zMlIxR1ZqNDFxNDhMdWt1N18wSmljaEdsMTNUTWE1ejQyR1pubnPSAWxBVV95cUxQaVFLaVBYVlByMkdRRVVPQTRza01sX2dRNDRNLV9PRzdLSFNtelF4dnduVVNUOXBEbGN2WlMyczJYcnlCWUNwN2RZdmRCTXZ0cV9ZaXR2TFJqaF9nbGtLQVNsTWJ1d2VZTW9DMXM?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-09-24 12:28
+- 链接: <https://news.google.com/rss/articles/CBMihgFBVV95cUxPMU1JNi1tRGlwT2NpTnJ5bG00NC1Qb0R0blB0ZV91dFdNTi1XaDVJY3daQmxQNnJxTXR3dFBWWnpVZ1kyWDVfM3QyYVNqU3cxZms2VlFDUXlCRjhYUFh3QjRCRWxfb1VFbW5SV2E0aVR1VVhrVHJIdU9VSFhLTTdHZE1zUld4QQ?oc=5>
 
-### 红毯礼遇的背后：习近平访美之前的中美博弈
+### 美国人对华态度回暖，更多人以积极眼光看待中国
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-09-23 11:56
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE52aWFTOVV3VmI2TU10SEIwaDFjT3JERnl5R1lXLTBjZTBic3J3emxHQ1RmWVdoMDlmb2xBZENDWFBzTTc5YmpMZExmY0tWT1lIaW9nUGpuWUctUjdsazJCZHdOS3haMWd0UE00b2o2ajc4aUE?oc=5>
+- 场馆: 纽约时报中文网
+- 时间: 2026-09-24 03:02
+- 链接: <https://news.google.com/rss/articles/CBMibEFVX3lxTE9sN3Y4UWhtbU9QYWhtcFVndkl6QURsem0zeGVNMVJkR0xlMEYzZU9LTUdHTzRvaXdIcjhralhITURFLVlQX2VSMXdMcVgxWERJNlVVRnRYX05rU0t5Z3BGNFBkenhmQnlWRU9PYQ?oc=5>
+
+### 中美关系正步入一个新时代
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 纽约时报中文网
+- 时间: 2026-09-24 04:42
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE5sd3hmLTBfemNiTldiZVkxaWV1b2k3TGZtc3pxR1ZrUF9taC12aUM1V2RmNWlMUVp4endsWkt4MVNET0t0dk9tUjlwdks2V0FsRjNzM29RaThVbWdKSVRrVDE5VF90NWMwYm5EN3JVZk9LdzBf?oc=5>
+
+### CNN 等三家美国媒体被禁入白宫后 起诉特朗普政府
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: bbc.com
+- 时间: 2026-09-22 07:04
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLNWRlUmZqd2lBZzdTb2hkZTFZc3dTUzcyQzJod3lDTmFJUnJ6Qmdad0F1alZhVTNzT0dXNUZWZnhyb0U5UE04Z0NGU0dEOWlueHJsRmE1c3RuN0FKeVQwdnVzUXVQMUk?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-24 12:48  (14 条)
+
+- **周杰伦** | 9月24日至26日，南京奥体中心演唱会出行提示：绿色出行、文明观演！ <https://k.sina.com.cn/article_1750349220_m685435a403301wbje.html>
+- **周杰伦** | 周杰伦青岛演唱会推出专属限定文创套餐 <https://k.sina.com.cn/article_1899227237_m7133e86503308ons6.html>
+- **特朗普** | 习近平抵达华盛顿，特朗普机场热情迎接 <https://news.google.com/rss/articles/CBMieEFVX3lxTE16eDVrbWM1YjJLSDVJalFrS0N4N1hHckRETUxTOHpHY1hWRGJYWE5Ha0I3TGFtTXo5SGpOc2wxbEVoLXVVcEJLRWVTeURzbXJ6NjNTMXNfeDJyRnh5aGtZRW9WalBHZ0dMUEx5X1JsRE15Mmw2clNocQ?oc=5>
+- **特朗普** | 美国总统特朗普：民主......_7x24快讯_新浪财经 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9tT1JxSW5Va0hkYW4yeXV5UWxtRW5UUmZMamYtbXZON2o5ZHlDaTdOVE0zbEtMc2pXZ2VSSjRCX256Y1o2Z3RFNHpTVQ?oc=5>
+- **特朗普** | 中方回应是否邀请特朗普出席深圳APEC峰会 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFAzeEU1Vnp5SUcwOWNiTF81WlExYkc5eE5vSTJjby1FZUY5MTc3MEN1TC1neWxKV2wxVlU4RWtmWGx5Skc4bHFfSW1iV2c?oc=5>
+- **特朗普** | 特朗普曾贬低曼彻斯特 伯纳姆一句玩笑轻松化解 <https://news.google.com/rss/articles/CBMingJBVV95cUxQdWpjR2psN1U0Zjh4S05nanBPYnJ3QUNjMkVYZV9jSVNoQ2lPRGNMNVFRYTFjNjlKUUs0djYzM3d2TE9nOFBPVzR5OVRjalVPMllRRFVGNm50RWFPemx6TkZUakdGcDJkb0U4U0xsaGJUVFdQUC1GMGdwSTZydUVhbzU1MzJsOEdPR01ibGEzNE00Sm9FZG5TaHk3QlV2clRoaTRSbTFuNEJOMWdIVElzc01zNVFNYU1YT01USXZQQm4tNVRkS0IyRGU1RndKNnViVnQ5OGljWmpHNG9ZME9nVWNDUmhPVlpqNTBoTGpzcnBCQlRNSlJ0NXBNU3A3Q2U4algxSG1ISG01ZzFINjItX19ON0RPTkpwXzZSZWJR?oc=5>
+- **特朗普** | 英国首相请求特朗普与习近平会晤时提出释放黎智英 <https://news.google.com/rss/articles/CBMi8wJBVV95cUxQTnFMOVdxUHZXTjFrdHYxaFp1UFdrdnNrOE9rc1FGMWctSGFBeEhldUI2dWlhaEpRZlQySXZjR1JaeXlrak95NEVad1VBTHhoeDh5aHp3Sk9lcUNXQTBlWk9TMWNaMkhuN0VfbkI3ZjQ4YzJ5RXJjb1BqNWxMWW5hTE1BSlhlbUh4Qlg2a1VUXzd3MXpwbmJxMWEyYzktLTRFM25nVEZhSEF4WnRpbDFjWll3a3BPdmN4UXdXUkd3aVd4c1RrdF9ZOGVIdjZjclVJSDJmZzJYSlpQY09FN1dWSXRoWnVGZnNlczFFNm9UczJtZXY1WjJvYVFjVFRwejRRY2d3MG1TWXpnUzVqUHFKYWZuV0NPZUhFV0VoTW9kUkhUVERKMXFiTGk3QjNwbkg3YXFYd2RNZk5CSk5hcE1mX0NDY0ZuUW1oYllWNm9VVlY3WXV4RTczaDNBR0swcWFOal81X0NHRjlZVFhTM1U2NTRWUQ?oc=5>
+- **特朗普** | 特朗普亲自接机，这三个细节很特别 <https://news.google.com/rss/articles/CBMifkFVX3lxTE9MMENyM21LTE9jbnVTUlhHdExxU0FidjF6TnlpOUFOWV9WSldtMEJYWVU4U3Y3clNjYmFjTC1RY00ycjU1cDY3bzRGZU1aeS1PT3JjdHFGMXZPeVBpWFllRHZLVEtacFZKMkoxMXdadmdNZFNndWdqU3cxQzVYZw?oc=5>
+- **特朗普** | 特朗普遗憾欢迎晚宴座位不够多，具体嘉宾名单后续将予以公布 <https://news.google.com/rss/articles/CBMicEFVX3lxTE5oZy1QdzNMajFyaFVUdlV6aHF6d0RGaGcxamFhNkZhZlNDal82cklfV3F2VWRyUWZseXQyTXFSTGRUYktJSHVnSGN2eUNIZWdac1J1TktPMk56aDNSMWM4OTlPR1ZZdTdUMWxWaFJzNEs?oc=5>
+- **特朗普** | 特朗普联大发言引起部分代表离场 秘书长暗批其做法助长霸权倾向 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPLTBGYTNYWTdqRndmQVVlNTVzN3BDMjFkVGcweWtzVUhCR0gyT09UQ2EtMG9RUkJxTzdVc2VJSldHamQ4ZDE2ZmVNQmRtbHU1QVItbF9uVEQwQ2NlcWJZaDVWWm8wWVItdkpkVjRFQ2xMYWxyVEU4ZlJaTGo5TE9Kcm9IclNUeDBOVW14d0JyYkNaYkpFVm5aVUVzLVJpZ19pVmllRzl5MVROa0F6ZVZYdzBuSlhTUTFIeVl4eklfMXNJTUVYRDRwTzh1cXFBclJ3VHZTWlZkOF9zcTY2Unhv?oc=5>
+- **特朗普** | 多国领导人联大聚焦中东局势，外媒：美伊代表在纽约会谈3小时 <https://news.google.com/rss/articles/CBMihgFBVV95cUxPMU1JNi1tRGlwT2NpTnJ5bG00NC1Qb0R0blB0ZV91dFdNTi1XaDVJY3daQmxQNnJxTXR3dFBWWnpVZ1kyWDVfM3QyYVNqU3cxZms2VlFDUXlCRjhYUFh3QjRCRWxfb1VFbW5SV2E0aVR1VVhrVHJIdU9VSFhLTTdHZE1zUld4QQ?oc=5>
+- **Trump** | 美国人对华态度回暖，更多人以积极眼光看待中国 <https://news.google.com/rss/articles/CBMibEFVX3lxTE9sN3Y4UWhtbU9QYWhtcFVndkl6QURsem0zeGVNMVJkR0xlMEYzZU9LTUdHTzRvaXdIcjhralhITURFLVlQX2VSMXdMcVgxWERJNlVVRnRYX05rU0t5Z3BGNFBkenhmQnlWRU9PYQ?oc=5>
+- **Trump** | 中美关系正步入一个新时代 <https://news.google.com/rss/articles/CBMidEFVX3lxTE5sd3hmLTBfemNiTldiZVkxaWV1b2k3TGZtc3pxR1ZrUF9taC12aUM1V2RmNWlMUVp4endsWkt4MVNET0t0dk9tUjlwdks2V0FsRjNzM29RaThVbWdKSVRrVDE5VF90NWMwYm5EN3JVZk9LdzBf?oc=5>
+- **Trump** | CNN 等三家美国媒体被禁入白宫后 起诉特朗普政府 <https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLNWRlUmZqd2lBZzdTb2hkZTFZc3dTUzcyQzJod3lDTmFJUnJ6Qmdad0F1alZhVTNzT0dXNUZWZnhyb0U5UE04Z0NGU0dEOWlueHJsRmE1c3RuN0FKeVQwdnVzUXVQMUk?oc=5>
 
 ### 2026-09-24 07:02  (6 条)
 
