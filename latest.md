@@ -1,79 +1,95 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-24 12:48**
-- 本轮扫到 12445 条, 新增 **14** 条
+- 最近更新: **2026-09-24 17:41**
+- 本轮扫到 12463 条, 新增 **18** 条
 
 ---
 
-## 本轮新发现 (14 条)
+## 本轮新发现 (18 条)
 
-### 9月24日至26日，南京奥体中心演唱会出行提示：绿色出行、文明观演！
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1750349220_m685435a403301wbje.html>
-
-### 周杰伦青岛演唱会推出专属限定文创套餐
+### 刘畊宏三公253分垫底淘汰，周杰伦短信邀中秋演唱会
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1899227237_m7133e86503308ons6.html>
+- 链接: <https://k.sina.com.cn/article_5088750024_m12f5029c803301ldtw.html>
 
-### 习近平抵达华盛顿，特朗普机场热情迎接
+### 抢到票的小伙伴，这会在奥体看周董的演唱会
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-09-24 05:22
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE16eDVrbWM1YjJLSDVJalFrS0N4N1hHckRETUxTOHpHY1hWRGJYWE5Ha0I3TGFtTXo5SGpOc2wxbEVoLXVVcEJLRWVTeURzbXJ6NjNTMXNfeDJyRnh5aGtZRW9WalBHZ0dMUEx5X1JsRE15Mmw2clNocQ?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1325668170_m4f04174a03301b47q.html>
 
-### 美国总统特朗普：民主......_7x24快讯_新浪财经
+### 快来许愿2026年演唱会啦！ 周杰伦 时代少年团 微博VC计划微博VC计划
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-24 11:16
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9tT1JxSW5Va0hkYW4yeXV5UWxtRW5UUmZMamYtbXZON2o5ZHlDaTdOVE0zbEtMc2pXZ2VSSjRCX256Y1o2Z3RFNHpTVQ?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301gobw.html>
 
-### 中方回应是否邀请特朗普出席深圳APEC峰会
+### 周杰伦南京演唱会，第一场《淘汰》
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-09-24 07:28
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFAzeEU1Vnp5SUcwOWNiTF81WlExYkc5eE5vSTJjby1FZUY5MTc3MEN1TC1neWxKV2wxVlU4RWtmWGx5Skc4bHFfSW1iV2c?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1850268574_m6e48db9e033029e2s.html>
 
-### 特朗普曾贬低曼彻斯特 伯纳姆一句玩笑轻松化解
+### 周杰伦南京演唱会，歌迷点歌《千山万水》
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-24 10:07
-- 链接: <https://news.google.com/rss/articles/CBMingJBVV95cUxQdWpjR2psN1U0Zjh4S05nanBPYnJ3QUNjMkVYZV9jSVNoQ2lPRGNMNVFRYTFjNjlKUUs0djYzM3d2TE9nOFBPVzR5OVRjalVPMllRRFVGNm50RWFPemx6TkZUakdGcDJkb0U4U0xsaGJUVFdQUC1GMGdwSTZydUVhbzU1MzJsOEdPR01ibGEzNE00Sm9FZG5TaHk3QlV2clRoaTRSbTFuNEJOMWdIVElzc01zNVFNYU1YT01USXZQQm4tNVRkS0IyRGU1RndKNnViVnQ5OGljWmpHNG9ZME9nVWNDUmhPVlpqNTBoTGpzcnBCQlRNSlJ0NXBNU3A3Q2U4algxSG1ISG01ZzFINjItX19ON0RPTkpwXzZSZWJR?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1850268574_m6e48db9e033029e1u.html>
 
-### 英国首相请求特朗普与习近平会晤时提出释放黎智英
+### 周杰伦说刘畊宏被淘汰就能来演唱会周杰伦嫌刘畊宏穿得保守给胸肌特写
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://finance.sina.com.cn/jjxw/2026-09-24/doc-inisxxkr5072395.shtml>
+
+### 习近平出席美国总统特朗普在白宫举行的欢迎仪式
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-09-23 14:48
-- 链接: <https://news.google.com/rss/articles/CBMi8wJBVV95cUxQTnFMOVdxUHZXTjFrdHYxaFp1UFdrdnNrOE9rc1FGMWctSGFBeEhldUI2dWlhaEpRZlQySXZjR1JaeXlrak95NEVad1VBTHhoeDh5aHp3Sk9lcUNXQTBlWk9TMWNaMkhuN0VfbkI3ZjQ4YzJ5RXJjb1BqNWxMWW5hTE1BSlhlbUh4Qlg2a1VUXzd3MXpwbmJxMWEyYzktLTRFM25nVEZhSEF4WnRpbDFjWll3a3BPdmN4UXdXUkd3aVd4c1RrdF9ZOGVIdjZjclVJSDJmZzJYSlpQY09FN1dWSXRoWnVGZnNlczFFNm9UczJtZXY1WjJvYVFjVFRwejRRY2d3MG1TWXpnUzVqUHFKYWZuV0NPZUhFV0VoTW9kUkhUVERKMXFiTGk3QjNwbkg3YXFYd2RNZk5CSk5hcE1mX0NDY0ZuUW1oYllWNm9VVlY3WXV4RTczaDNBR0swcWFOal81X0NHRjlZVFhTM1U2NTRWUQ?oc=5>
+- 场馆: 新华网
+- 时间: 2026-09-24 14:33
+- 链接: <https://news.google.com/rss/articles/CBMijgFBVV95cUxNSlNidngwVFBHSDU1clEwYW1YQV81bHY1RGFkXzhlODNmU0JvLV9QcGlGd3ByNEFESC01bGxwdlVFWC1UQ3lwRGNQdXVESXJ0bndGbkFES3d5T09qRFRNY1VWN3hCbUMzczF1Zm9rdGp2ZFVhQjlGblU1VDB4TXdzb2txTkZOa1VIRi1UMWlR?oc=5>
 
-### 特朗普亲自接机，这三个细节很特别
+### 中方是否将邀请特朗普出席APEC深圳峰会？外交部回应
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: video.sina.com.cn
-- 时间: 2026-09-24 10:05
-- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE9MMENyM21LTE9jbnVTUlhHdExxU0FidjF6TnlpOUFOWV9WSldtMEJYWVU4U3Y3clNjYmFjTC1RY00ycjU1cDY3bzRGZU1aeS1PT3JjdHFGMXZPeVBpWFllRHZLVEtacFZKMkoxMXdadmdNZFNndWdqU3cxQzVYZw?oc=5>
+- 场馆: 观察者网
+- 时间: 2026-09-24 07:40
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE10RHhFRkdRMlM5d19IdGx5Z0Mtb1hvRU41QWhWLTNiY3d6TTdGQzIxZGIyZVgzMHZ0dE5pMWxmNTE4UzA3SDlHYUtCSk0tUmoybkMtOFhyWlgzOTJXOGtBTHhiRFFEMVhKeDdUY3hVV2RXWTQ?oc=5>
 
-### 特朗普遗憾欢迎晚宴座位不够多，具体嘉宾名单后续将予以公布
+### 中方回应会否邀请特朗普出席APEC峰会 保持沟通安排
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 中华网
-- 时间: 2026-09-24 02:16
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5oZy1QdzNMajFyaFVUdlV6aHF6d0RGaGcxamFhNkZhZlNDal82cklfV3F2VWRyUWZseXQyTXFSTGRUYktJSHVnSGN2eUNIZWdac1J1TktPMk56aDNSMWM4OTlPR1ZZdTdUMWxWaFJzNEs?oc=5>
+- 时间: 2026-09-24 17:23
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE41WndWQWVlaFVXS1laRTNuZEZNVXFmRlMydGZUQWlTcDg0ckhCMVBXM2I5X2xMVlhZbi03MGROOFBaMU9CMllUVHpJR1Rpd3FSdE03NEVrdlhlWExBeFZoWFBIZFJCMnBiTHAtejdWNGI?oc=5>
+
+### “当然由美国出钱！”丹麦称特朗普政府应为格陵兰军事基地买单
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: finance.sina.com.cn
+- 时间: 2026-09-24 16:31
+- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE5nYlBzQUtCaEhPMVdxLU9kbXhnX3REajEwYU5sVDdycFRtdjlSNDF0WEZWNmNXQVl6eWdIVUxVXzM5YkZvb0c4OGZxOWpDOVE?oc=5>
+
+### 特朗普讹完格陵兰盯上这座岛，这回英国尬住了…
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者网
+- 时间: 2026-09-23 07:18
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE9iRnV5b3VwVWpUSXlMWkZrSkw0Q3BjaGtLOVFqUGNEYXNEUjhoODR5NndCWUpNSGpnSGM4MUVnZ1VXcDl3bGlfV2JZTWJZSi13TU5VdFhnN2lQeGtLeFVBMEdqVmpzb1EwVTdOV3F1RHN0bms?oc=5>
+
+### 特朗普在联大骂了一整场，但真正危险的签字发生在讲台之外
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-24 16:00
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE1RRUZKdDhVYjVWVEJaSVJ6VndRdU5rQmRXZkR5TUJwbTBYRkdnYll2cmQwZF9nVWMxcXc2WGtEYzZ6M1lYR1Zxa3Bna05JOFZ5VVpSUmlOTG4tRGJpZmRnaE5pM2c3bVhrX1hGdExTYTg5MUdkcHc?oc=5>
 
 ### 特朗普联大发言引起部分代表离场 秘书长暗批其做法助长霸权倾向
 
@@ -81,44 +97,73 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-09-22 18:00
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPLTBGYTNYWTdqRndmQVVlNTVzN3BDMjFkVGcweWtzVUhCR0gyT09UQ2EtMG9RUkJxTzdVc2VJSldHamQ4ZDE2ZmVNQmRtbHU1QVItbF9uVEQwQ2NlcWJZaDVWWm8wWVItdkpkVjRFQ2xMYWxyVEU4ZlJaTGo5TE9Kcm9IclNUeDBOVW14d0JyYkNaYkpFVm5aVUVzLVJpZ19pVmllRzl5MVROa0F6ZVZYdzBuSlhTUTFIeVl4eklfMXNJTUVYRDRwTzh1cXFBclJ3VHZTWlZkOF9zcTY2Unhv?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWFFkZ3ZSR1BtZmlVS2NGencyVGdBUFZ2U3dJZ3VTMk9BZV9mWWg5M1dMM19sajE0RnBzUWNYbTBsWDMtQlR2MmxQZ1EzWHExejFqVDVpVkZORjg3NmdaNWVjU3pPM2NXa3hCQkhXb01zWVFPVG9uU0E3MndnSUlSM0ZNaWZGQ3NEX0R3b1hBYXpUNWVsN0p5TVlSN3pjeEY2Q05uNEJMaU9aTzlxOGI1dHFwUmpvSlJYOXRfZlpUMUVEVjBBSXZ6b05XOGVaQ2hERUFYZmhLTHZUT1dGZUQ4?oc=5>
 
-### 多国领导人联大聚焦中东局势，外媒：美伊代表在纽约会谈3小时
+### 伊朗外长与美特使在纽约会晤 特朗普：美伊代表会谈“非常有建设性”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-24 12:28
-- 链接: <https://news.google.com/rss/articles/CBMihgFBVV95cUxPMU1JNi1tRGlwT2NpTnJ5bG00NC1Qb0R0blB0ZV91dFdNTi1XaDVJY3daQmxQNnJxTXR3dFBWWnpVZ1kyWDVfM3QyYVNqU3cxZms2VlFDUXlCRjhYUFh3QjRCRWxfb1VFbW5SV2E0aVR1VVhrVHJIdU9VSFhLTTdHZE1zUld4QQ?oc=5>
+- 场馆: 东方财富
+- 时间: 2026-09-22 21:00
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE16dk1TX2hvQTdtbVZTTV9BX2d1ZWVGcFM1REF0cGJrUEdzbHJsRkM1TVBBTFZwTXVNZEliNTV6bHRCQ1JaZG1kZW1UT00yZGZCUE9yTFVaVjM1Q1ktQlhKWXNZMHhPdw?oc=5>
 
-### 美国人对华态度回暖，更多人以积极眼光看待中国
+### 特朗普举行仪式欢迎习近平主席 战机飞越白宫致敬
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-09-24 15:50
+- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxPY2RMSVM2TWE1UlRSZTBCRnU1d3A4ZTZRejgwelBteGUtS2pMQU5ReS1TOVRwY210bnlrVFpjZlc2bzNBa25ORURXUzM0cGowTm9wN2FkVUcyNno0MS1qUGlOQ3Z1ZG1DcHJ5LUVvQ3d0UFFxRFlad0FFME9QWlZ2RXZuZ2Y0RzliVk9paFZ2Q3BHVE1z?oc=5>
+
+### 特朗普总统表示，他将于习近平就安全、技术和超级智能进行讨论
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-09-24 03:02
-- 链接: <https://news.google.com/rss/articles/CBMibEFVX3lxTE9sN3Y4UWhtbU9QYWhtcFVndkl6QURsem0zeGVNMVJkR0xlMEYzZU9LTUdHTzRvaXdIcjhralhITURFLVlQX2VSMXdMcVgxWERJNlVVRnRYX05rU0t5Z3BGNFBkenhmQnlWRU9PYQ?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-09-24 15:28
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxNNUw4TUhTMzFXc1hudEgyOHVRQjN6ZkN3V0c2a3pqTE8tWS13QThDZDF5NHUtV0xCSGt0cTJiOE5vdjU5b1h1QmNBRmt0R0JTbm5USVBKVXU2VHM0anVoUnJjdmVXcjc1WFBIMTIwbGVEaHhKWGY0VkNwLWhhRWxfb0xCeDRobjTSAYoBQVVfeXFMTkVHaGRFeFJvSnFXOU1pQ29zXzNXcFZKY1IxNzlRcmZPTmEweE92S2RoOUJ1OFYtaTF5Y2YxVzhHRGZzWGxrSmJlUTBjZW01VlBBWnZkd2JMU2NLVU9kckJUMHZYdWNTSE8yU3FESmtVWUQza1BNNThqQmpkUVVXbVFTUVZYRFBTSGFB?oc=5>
 
-### 中美关系正步入一个新时代
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-09-24 04:42
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE5sd3hmLTBfemNiTldiZVkxaWV1b2k3TGZtc3pxR1ZrUF9taC12aUM1V2RmNWlMUVp4endsWkt4MVNET0t0dk9tUjlwdks2V0FsRjNzM29RaThVbWdKSVRrVDE5VF90NWMwYm5EN3JVZk9LdzBf?oc=5>
-
-### CNN 等三家美国媒体被禁入白宫后 起诉特朗普政府
+### 32. 市场正在等待 Trump 和 Xi 的会面
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: bbc.com
-- 时间: 2026-09-22 07:04
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLNWRlUmZqd2lBZzdTb2hkZTFZc3dTUzcyQzJod3lDTmFJUnJ6Qmdad0F1alZhVTNzT0dXNUZWZnhyb0U5UE04Z0NGU0dEOWlueHJsRmE1c3RuN0FKeVQwdnVzUXVQMUk?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-09-24 14:27
+- 链接: <https://news.google.com/rss/articles/CBMitAFBVV95cUxPT1FWMnlOR0VpMG9KTEl0UHZoeWR6YjFiSjRXcjZuMDJCLVlQQzVjblM2UDg3RjlrdHlVNGIzX0dDZjNrSjVuSkdnQS1heFdLZnhWOHljcXlpcmc0c2E3VDR2RjhaZG5jWmNLdzdLUk9DcGN5WjFOYUYtMDBMdGJ5RDhJWkZBT3pvc3Z1dnptM3R5cFdTMzcwN3N2YkZsMjREN0RBeTlWM3ppb1pHdWF0aTNfWDk?oc=5>
+
+### Trump, XI, and the Future of the AI Trade -- Barrons.com
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 富途牛牛
+- 时间: 2026-09-24 15:39
+- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxQcTFmSmNiMk8wM291cncwa2JIRGgwYm1Wc00yZGNiNjl3WWNCSFI4QnBfQTdObnBRWGUyaTh3YWw4Rnd4SEFrTkctRHBQdC1xM0pzRERfdlY0M2JOMVlZOHU5a0g5MmJsZDNfc0hlTW9qckJpNm00MC1BaVVUd1dRc2J5MklUc29rbXNjbTVtUmpNZUxS?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-24 17:41  (18 条)
+
+- **周杰伦** | 刘畊宏三公253分垫底淘汰，周杰伦短信邀中秋演唱会 <https://k.sina.com.cn/article_5088750024_m12f5029c803301ldtw.html>
+- **周杰伦** | 抢到票的小伙伴，这会在奥体看周董的演唱会 <https://k.sina.com.cn/article_1325668170_m4f04174a03301b47q.html>
+- **周杰伦** | 快来许愿2026年演唱会啦！ 周杰伦 时代少年团 微博VC计划微博VC计划 <https://k.sina.com.cn/article_7879924009_m1d5ae192903301gobw.html>
+- **周杰伦** | 周杰伦南京演唱会，第一场《淘汰》 <https://k.sina.com.cn/article_1850268574_m6e48db9e033029e2s.html>
+- **周杰伦** | 周杰伦南京演唱会，歌迷点歌《千山万水》 <https://k.sina.com.cn/article_1850268574_m6e48db9e033029e1u.html>
+- **周杰伦** | 周杰伦说刘畊宏被淘汰就能来演唱会周杰伦嫌刘畊宏穿得保守给胸肌特写 <https://finance.sina.com.cn/jjxw/2026-09-24/doc-inisxxkr5072395.shtml>
+- **特朗普** | 习近平出席美国总统特朗普在白宫举行的欢迎仪式 <https://news.google.com/rss/articles/CBMijgFBVV95cUxNSlNidngwVFBHSDU1clEwYW1YQV81bHY1RGFkXzhlODNmU0JvLV9QcGlGd3ByNEFESC01bGxwdlVFWC1UQ3lwRGNQdXVESXJ0bndGbkFES3d5T09qRFRNY1VWN3hCbUMzczF1Zm9rdGp2ZFVhQjlGblU1VDB4TXdzb2txTkZOa1VIRi1UMWlR?oc=5>
+- **特朗普** | 中方是否将邀请特朗普出席APEC深圳峰会？外交部回应 <https://news.google.com/rss/articles/CBMic0FVX3lxTE10RHhFRkdRMlM5d19IdGx5Z0Mtb1hvRU41QWhWLTNiY3d6TTdGQzIxZGIyZVgzMHZ0dE5pMWxmNTE4UzA3SDlHYUtCSk0tUmoybkMtOFhyWlgzOTJXOGtBTHhiRFFEMVhKeDdUY3hVV2RXWTQ?oc=5>
+- **特朗普** | 中方回应会否邀请特朗普出席APEC峰会 保持沟通安排 <https://news.google.com/rss/articles/CBMicEFVX3lxTE41WndWQWVlaFVXS1laRTNuZEZNVXFmRlMydGZUQWlTcDg0ckhCMVBXM2I5X2xMVlhZbi03MGROOFBaMU9CMllUVHpJR1Rpd3FSdE03NEVrdlhlWExBeFZoWFBIZFJCMnBiTHAtejdWNGI?oc=5>
+- **特朗普** | “当然由美国出钱！”丹麦称特朗普政府应为格陵兰军事基地买单 <https://news.google.com/rss/articles/CBMiT0FVX3lxTE5nYlBzQUtCaEhPMVdxLU9kbXhnX3REajEwYU5sVDdycFRtdjlSNDF0WEZWNmNXQVl6eWdIVUxVXzM5YkZvb0c4OGZxOWpDOVE?oc=5>
+- **特朗普** | 特朗普讹完格陵兰盯上这座岛，这回英国尬住了… <https://news.google.com/rss/articles/CBMic0FVX3lxTE9iRnV5b3VwVWpUSXlMWkZrSkw0Q3BjaGtLOVFqUGNEYXNEUjhoODR5NndCWUpNSGpnSGM4MUVnZ1VXcDl3bGlfV2JZTWJZSi13TU5VdFhnN2lQeGtLeFVBMEdqVmpzb1EwVTdOV3F1RHN0bms?oc=5>
+- **特朗普** | 特朗普在联大骂了一整场，但真正危险的签字发生在讲台之外 <https://news.google.com/rss/articles/CBMidkFVX3lxTE1RRUZKdDhVYjVWVEJaSVJ6VndRdU5rQmRXZkR5TUJwbTBYRkdnYll2cmQwZF9nVWMxcXc2WGtEYzZ6M1lYR1Zxa3Bna05JOFZ5VVpSUmlOTG4tRGJpZmRnaE5pM2c3bVhrX1hGdExTYTg5MUdkcHc?oc=5>
+- **特朗普** | 特朗普联大发言引起部分代表离场 秘书长暗批其做法助长霸权倾向 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWFFkZ3ZSR1BtZmlVS2NGencyVGdBUFZ2U3dJZ3VTMk9BZV9mWWg5M1dMM19sajE0RnBzUWNYbTBsWDMtQlR2MmxQZ1EzWHExejFqVDVpVkZORjg3NmdaNWVjU3pPM2NXa3hCQkhXb01zWVFPVG9uU0E3MndnSUlSM0ZNaWZGQ3NEX0R3b1hBYXpUNWVsN0p5TVlSN3pjeEY2Q05uNEJMaU9aTzlxOGI1dHFwUmpvSlJYOXRfZlpUMUVEVjBBSXZ6b05XOGVaQ2hERUFYZmhLTHZUT1dGZUQ4?oc=5>
+- **特朗普** | 伊朗外长与美特使在纽约会晤 特朗普：美伊代表会谈“非常有建设性” <https://news.google.com/rss/articles/CBMiZkFVX3lxTE16dk1TX2hvQTdtbVZTTV9BX2d1ZWVGcFM1REF0cGJrUEdzbHJsRkM1TVBBTFZwTXVNZEliNTV6bHRCQ1JaZG1kZW1UT00yZGZCUE9yTFVaVjM1Q1ktQlhKWXNZMHhPdw?oc=5>
+- **特朗普** | 特朗普举行仪式欢迎习近平主席 战机飞越白宫致敬 <https://news.google.com/rss/articles/CBMilAFBVV95cUxPY2RMSVM2TWE1UlRSZTBCRnU1d3A4ZTZRejgwelBteGUtS2pMQU5ReS1TOVRwY210bnlrVFpjZlc2bzNBa25ORURXUzM0cGowTm9wN2FkVUcyNno0MS1qUGlOQ3Z1ZG1DcHJ5LUVvQ3d0UFFxRFlad0FFME9QWlZ2RXZuZ2Y0RzliVk9paFZ2Q3BHVE1z?oc=5>
+- **Trump** | 特朗普总统表示，他将于习近平就安全、技术和超级智能进行讨论 <https://news.google.com/rss/articles/CBMihwFBVV95cUxNNUw4TUhTMzFXc1hudEgyOHVRQjN6ZkN3V0c2a3pqTE8tWS13QThDZDF5NHUtV0xCSGt0cTJiOE5vdjU5b1h1QmNBRmt0R0JTbm5USVBKVXU2VHM0anVoUnJjdmVXcjc1WFBIMTIwbGVEaHhKWGY0VkNwLWhhRWxfb0xCeDRobjTSAYoBQVVfeXFMTkVHaGRFeFJvSnFXOU1pQ29zXzNXcFZKY1IxNzlRcmZPTmEweE92S2RoOUJ1OFYtaTF5Y2YxVzhHRGZzWGxrSmJlUTBjZW01VlBBWnZkd2JMU2NLVU9kckJUMHZYdWNTSE8yU3FESmtVWUQza1BNNThqQmpkUVVXbVFTUVZYRFBTSGFB?oc=5>
+- **Trump** | 32. 市场正在等待 Trump 和 Xi 的会面 <https://news.google.com/rss/articles/CBMitAFBVV95cUxPT1FWMnlOR0VpMG9KTEl0UHZoeWR6YjFiSjRXcjZuMDJCLVlQQzVjblM2UDg3RjlrdHlVNGIzX0dDZjNrSjVuSkdnQS1heFdLZnhWOHljcXlpcmc0c2E3VDR2RjhaZG5jWmNLdzdLUk9DcGN5WjFOYUYtMDBMdGJ5RDhJWkZBT3pvc3Z1dnptM3R5cFdTMzcwN3N2YkZsMjREN0RBeTlWM3ppb1pHdWF0aTNfWDk?oc=5>
+- **Trump** | Trump, XI, and the Future of the AI Trade -- Barrons.com <https://news.google.com/rss/articles/CBMilAFBVV95cUxQcTFmSmNiMk8wM291cncwa2JIRGgwYm1Wc00yZGNiNjl3WWNCSFI4QnBfQTdObnBRWGUyaTh3YWw4Rnd4SEFrTkctRHBQdC1xM0pzRERfdlY0M2JOMVlZOHU5a0g5MmJsZDNfc0hlTW9qckJpNm00MC1BaVVUd1dRc2J5MklUc29rbXNjbTVtUmpNZUxS?oc=5>
 
 ### 2026-09-24 12:48  (14 条)
 
