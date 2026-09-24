@@ -1,56 +1,91 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-23 23:25**
-- 本轮扫到 12417 条, 新增 **5** 条
+- 最近更新: **2026-09-24 01:34**
+- 本轮扫到 12425 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (8 条)
 
-### 特朗普欢迎中国国家主席习近平来访
+### 习近平抵达华盛顿，特朗普机场热情迎接
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-09-23 23:00
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE1VNjJjLWU4U2xQTXEwTUEwazhoazdpQml1QktRaUx5TWxXNG9IUmFSa2c0RlBWSHBkUnVxMHNOcllHakVzVVJFVmlPTjl0R05wNFZqYmRZWkh6aGoxVVpTMmthR1NTaXlieUlnMEZiODdXblpYNXfSAXhBVV95cUxNb0RZNlZJdE10OE5DNzZmaFRfd3dJNW9QdVZLSEtmbXZvLXhfczdLWW1FNGRWcERSOFpNUWhoOU1CazFyU2dJX1FweUxIMU1LaWY5c3ZNZURjU1R0ZlF1dTVWR0kzWlFON29mMl9UWGg0S3d0MVcteFQ?oc=5>
+- 场馆: 新华网
+- 时间: 2026-09-23 23:13
+- 链接: <https://news.google.com/rss/articles/CBMijgFBVV95cUxQODB4Qm13QS1BaUZlRWJMR2hVRVFLcjhPMFQ1VE1HaE1VcHVGMVl1Zi1XMndoclV4NnRpaFdNWHY4b2JFLUUwaEVlMGhjUmliaUJuRHQyNWxYOFpJSGVEa0V6eThwb292VWt0a2h2bllmX2pIYU9Wcjhmb3lCdUROY0Rxd1NvMUFja3Y2cXRB?oc=5>
 
-### 中国希望伊朗战争结束，但不是以特朗普想要的方式
+### 自损八百？特朗普考虑限制柴油出口
 
 - 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-09-24 01:06
+- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE1YQzFRbDVHbHBFVEpSS3BhbzUtX196SlNTUXNpV2VpbmdKby1UTXRsRTZBZWVDaXRMNzRpZm5qTkZvQXlUOHduTXlUVWR4bjVQ?oc=5>
+
+### 美国石油公司高管游说反对特朗普柴油出口禁令
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-23 11:07
+- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTHhJTjBrbXRCdC16Z05CYk1fSlBkY1ZqaGcxTnI2UThjUFFBZ2pheVdaT2k5WVVNWjJBOHZvNnV2d0JfU29SdzNsUU5GLURGdHNTRnpodEk3TmprWjRDeThiTmp6b25wLTlocmVCRWg4SWYxcHBNM2RsZnIzY3E5MDFLVVJaaFNDRUtPZEpWN044Q1VVamVVWEpFRHlXSG01dF9sbVZiMlhqemhYallKdGtxSW5pRUI0Z04wYk54bndmdmgyQjdOb1JUbmNLckRmNXc?oc=5>
+
+### 中国国家主席习近平抵达华盛顿访问，特朗普总统罕见亲自去机场迎接
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: voachinese.com
+- 时间: 2026-09-23 22:37
+- 链接: <https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc3FUWkpYY05ldWhFSmdjN2xDWUhJX2RBaHZyMHN6MThkS2loc3BsRWlEdFdwR2RpNmN5WFVBdVlUNFkwTHJzZ3k5WVlFSUNkd3Rxd3lIazNCakJOWUJzVjRYMjV6bENpbG1JQ2ZNZHRpQ24wbWxaWXFlQzdOeDlON3NfU0dkdVNuVHU3T1dUTTdidmJmb05oVWVGSEV5M0VJMGZ6R1ZlSm5wNDA5WFRUZ3N6dlJXYm8tamQ00gG-AUFVX3lxTE1OSFBRbGRYVWkzUktTdzA3eVAyWHNrY2hzWk1WZmZZXy1pZ2dqX0tfMjctQlQ5VVhPTWl5YTk1OHZZaWxYUGE5Z1hablRDcnFlSHhkOG0wWFdySzBCQzdNdVVybklrbnQ1Nl9BRHpfWUdUbW54UWoyMVNHVHlfTV9MNXBjWXdOeWs2MUtaVFpWdXhzc0J1Skl0YmlDaU40OEhtcjNLUThSOTZONFhnZmR2OVRkRnhPY01ucW8wLXc?oc=5>
+
+### 特朗普天天叫嚣利率应降至1%，他的逻辑究竟是啥？-市场参考
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 金十数据
+- 时间: 2026-09-23 23:46
+- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZZTlMRzl5T20wVHFLY2FiMkRwODBsa1VRWURDbThBbEJodTBJUzhsU0MweG9jM0kxZUFEd3RDTlRpVkgxdUJuSmkxYTQ0b00?oc=5>
+
+### 特朗普联大宣称AI改名超级智能
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 手机新浪网
+- 时间: 2026-09-24 00:54
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1BTlBia2FWRmFtNUo1a2tnNmVBZ0ZqbE4wRWN2a0xqeUlzdkpBWmUzaWdyd3dzRnFsYVhVUlVPWHZrcnUxMDd4clRUVURjeVRxejZSLVUyMTdtY3VibTFkSEI3QzJCdHA4MUtYbUxhNnZNdUE?oc=5>
+
+### 习近平专机抵达美国 特朗普亲自接机
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 8world
+- 时间: 2026-09-23 21:32
+- 链接: <https://news.google.com/rss/articles/CBMibEFVX3lxTE1sRFhIdzM2bFpxMmFFQS1pVFROMC1HUjgzVzRXWjF6QjNvVVU0WUJmb1RxNTE1UTZ6M1hCeVlzS2JoQXVkcXZrcnQwS2QzOWhXb3BHdjV1dXA3LXpJSWo0S0R4VnFFallKd1FNTw?oc=5>
+
+### 特朗普与习近平会晤之际，AI竞争正重塑全球权力格局
+
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: BBC
-- 时间: 2026-09-23 22:33
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TSDQtSHBET2VmbzYtcWU2ajBFSWRfN3hGQTNkUjNCZGJnWDJybTRQMjhhRXZIQWVDN0dkVnB5LTYwZXBXcUI1ZjhGaV9JZTJRcnlxVGUxTGxvOGFnbl94NEh5Undqa3PSAWxBVV95cUxOcVNkd19CdGlBdTNKSDRTbjUyXy1QNFFTcjRPVlhTRGd0V1NPWDMtQ2F0R1oxN3dwOHpzX3ppVXpjM0FlOW5PU1UwQnFFNmRJWElyeV96bTBIT2I3SFdaa1h4cmNDWXdEQk5xYnE?oc=5>
-
-### 美中峰会之际，参院共和党人敦促特朗普政府加速对台军援
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-09-23 22:39
-- 链接: <https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZmY4bC1VdUxQX09xc2QtQUJ4TkNtbUdnRG9GUldwV25WQmV1Rzg2bUdyd2YzLTdscUNsNHRHRFNqNU9wN0VmdTFDQTZwSE5HUnM4SDNESmUtMFRMVjF4cmg4QmVjVTZJZ255c0Rqai1VU29rSU1HSEZ1MzVHNmotdzNZQl9fTnhWRUY0SjRIZTc4bVBPY3ozN0ZsR2Rnc3NiT2hRMFNlS19jR3lZT3pNV0hRMU5nMG1NbTFpU2ZBMHhlTFBZV3FrMDJDT09jcnhNMDVKRG0xemJMaV9JLVF3MGdtTC1ReW9HbVB4NG5n0gHwAUFVX3lxTE9IS2trb2N3YWtnWXR6MGpPX25qdmswdE9Hb1VLN1NSa1BOSXFlUXMzWkNTdVVJekRHaXAtYU5ZQjZ3b2lVUEhlUFY1LU9MMlZmVHFEOU14QkpuOVFyX1hObjhGemdNSGtHRFk1TTVNNHI1QzhONlFYSEFrQ3o0WGhTdWlSb1ZndE1nRnFicmZWUk9SR2RWRWUwdzlvVXhZSVlkVnh1QWxvZjYzdGZPVGVfYzA2TjZYOXp0Z1VCWlZDTF9TUy0wM0x6VDRlcFVIcm5jemQwRU9Zd2tCRmp6VUNsUlFfN19lbHFDNFdTdDNLbg?oc=5>
-
-### 3 Market Catalysts to Watch in the Trump-Xi Summit
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-09-23 21:16
-- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxPX0hiTmZ5ZUhMeHZELTBRczM2NXhqR005LTlrZ3hLWHIxRFg4MUtoY2o5d3NUb2FQalprejlmaFBWZGMtRTJmX2hDbDhjblVwaGhSSmZJSTRWWEp0WjNicnhIWUR0LWt6dGFURk9ic280dDFjeWJka2xWUnBEXzdTdmVmSVhGS2Z0VGl1S2pSMjE4SVhwWVk3bFRLZkJ4VktS?oc=5>
-
-### TRUMP刚刚宣布，750份看跌期权到本月底的价值将比比特币高出两倍……🤣🤣🤣🤣🥳🥳🥳🎉🎉🎉🍷🍷...
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-09-23 11:48
-- 链接: <https://news.google.com/rss/articles/CBMitwFBVV95cUxOaXhSNG51N19rUk1WUDZHZkFTeGVSZmhwTFM1d3M4WkpObGNxOHFFamhvZ25ubzRkNWIyVWRpNUp5WjE4aE5aSHNmZ2pweWJxenRJS2llRmx6TnotZzZLUldXM2xFN0NxdUhsRzZIejVKRmJrZnhrOEVpN2U3N3dCcmhVLWVOT0I0SUdka2Nnb2hCWGM3YkxiQzN6N194UzU2U0t4bmhIaG90WmNqQm9ZdkVUMGZnTFk?oc=5>
+- 时间: 2026-09-24 00:06
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGYk15SVBtU2N1RHVVb2VqR1gzdTVEbDlBUHI2VExXcXY1MEtyTHlmem11WTE0RjdLeG5LQ1djcU12elRlWm5BWGNaT1FZZ0RseEEzRXZGdDZISi1XWG9qY0V4c2VkSmPSAWxBVV95cUxOTVpNRnNuZ2hNNXNuUUVKUldQb3hoSUVhWjdva3RFMGJJR2tVeE15Uk5Ia2drOE1oUWpVSFhzQ0JLUFlmczU5ZjhFN2JwajVmMUlIUmJzNEdTeTdlc1lZY1lkYzdoZTVOUjhIYU0?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-24 01:34  (8 条)
+
+- **特朗普** | 习近平抵达华盛顿，特朗普机场热情迎接 <https://news.google.com/rss/articles/CBMijgFBVV95cUxQODB4Qm13QS1BaUZlRWJMR2hVRVFLcjhPMFQ1VE1HaE1VcHVGMVl1Zi1XMndoclV4NnRpaFdNWHY4b2JFLUUwaEVlMGhjUmliaUJuRHQyNWxYOFpJSGVEa0V6eThwb292VWt0a2h2bllmX2pIYU9Wcjhmb3lCdUROY0Rxd1NvMUFja3Y2cXRB?oc=5>
+- **特朗普** | 自损八百？特朗普考虑限制柴油出口 <https://news.google.com/rss/articles/CBMiUEFVX3lxTE1YQzFRbDVHbHBFVEpSS3BhbzUtX196SlNTUXNpV2VpbmdKby1UTXRsRTZBZWVDaXRMNzRpZm5qTkZvQXlUOHduTXlUVWR4bjVQ?oc=5>
+- **特朗普** | 美国石油公司高管游说反对特朗普柴油出口禁令 <https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTHhJTjBrbXRCdC16Z05CYk1fSlBkY1ZqaGcxTnI2UThjUFFBZ2pheVdaT2k5WVVNWjJBOHZvNnV2d0JfU29SdzNsUU5GLURGdHNTRnpodEk3TmprWjRDeThiTmp6b25wLTlocmVCRWg4SWYxcHBNM2RsZnIzY3E5MDFLVVJaaFNDRUtPZEpWN044Q1VVamVVWEpFRHlXSG01dF9sbVZiMlhqemhYallKdGtxSW5pRUI0Z04wYk54bndmdmgyQjdOb1JUbmNLckRmNXc?oc=5>
+- **特朗普** | 中国国家主席习近平抵达华盛顿访问，特朗普总统罕见亲自去机场迎接 <https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc3FUWkpYY05ldWhFSmdjN2xDWUhJX2RBaHZyMHN6MThkS2loc3BsRWlEdFdwR2RpNmN5WFVBdVlUNFkwTHJzZ3k5WVlFSUNkd3Rxd3lIazNCakJOWUJzVjRYMjV6bENpbG1JQ2ZNZHRpQ24wbWxaWXFlQzdOeDlON3NfU0dkdVNuVHU3T1dUTTdidmJmb05oVWVGSEV5M0VJMGZ6R1ZlSm5wNDA5WFRUZ3N6dlJXYm8tamQ00gG-AUFVX3lxTE1OSFBRbGRYVWkzUktTdzA3eVAyWHNrY2hzWk1WZmZZXy1pZ2dqX0tfMjctQlQ5VVhPTWl5YTk1OHZZaWxYUGE5Z1hablRDcnFlSHhkOG0wWFdySzBCQzdNdVVybklrbnQ1Nl9BRHpfWUdUbW54UWoyMVNHVHlfTV9MNXBjWXdOeWs2MUtaVFpWdXhzc0J1Skl0YmlDaU40OEhtcjNLUThSOTZONFhnZmR2OVRkRnhPY01ucW8wLXc?oc=5>
+- **特朗普** | 特朗普天天叫嚣利率应降至1%，他的逻辑究竟是啥？-市场参考 <https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZZTlMRzl5T20wVHFLY2FiMkRwODBsa1VRWURDbThBbEJodTBJUzhsU0MweG9jM0kxZUFEd3RDTlRpVkgxdUJuSmkxYTQ0b00?oc=5>
+- **特朗普** | 特朗普联大宣称AI改名超级智能 <https://news.google.com/rss/articles/CBMic0FVX3lxTE1BTlBia2FWRmFtNUo1a2tnNmVBZ0ZqbE4wRWN2a0xqeUlzdkpBWmUzaWdyd3dzRnFsYVhVUlVPWHZrcnUxMDd4clRUVURjeVRxejZSLVUyMTdtY3VibTFkSEI3QzJCdHA4MUtYbUxhNnZNdUE?oc=5>
+- **Trump** | 习近平专机抵达美国 特朗普亲自接机 <https://news.google.com/rss/articles/CBMibEFVX3lxTE1sRFhIdzM2bFpxMmFFQS1pVFROMC1HUjgzVzRXWjF6QjNvVVU0WUJmb1RxNTE1UTZ6M1hCeVlzS2JoQXVkcXZrcnQwS2QzOWhXb3BHdjV1dXA3LXpJSWo0S0R4VnFFallKd1FNTw?oc=5>
+- **Trump** | 特朗普与习近平会晤之际，AI竞争正重塑全球权力格局 <https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGYk15SVBtU2N1RHVVb2VqR1gzdTVEbDlBUHI2VExXcXY1MEtyTHlmem11WTE0RjdLeG5LQ1djcU12elRlWm5BWGNaT1FZZ0RseEEzRXZGdDZISi1XWG9qY0V4c2VkSmPSAWxBVV95cUxOTVpNRnNuZ2hNNXNuUUVKUldQb3hoSUVhWjdva3RFMGJJR2tVeE15Uk5Ia2drOE1oUWpVSFhzQ0JLUFlmczU5ZjhFN2JwajVmMUlIUmJzNEdTeTdlc1lZY1lkYzdoZTVOUjhIYU0?oc=5>
 
 ### 2026-09-23 23:25  (5 条)
 
