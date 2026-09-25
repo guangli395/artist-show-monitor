@@ -1,254 +1,273 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-25 03:13**
-- 本轮扫到 12527 条, 新增 **35** 条
+- 最近更新: **2026-09-25 08:59**
+- 本轮扫到 12559 条, 新增 **32** 条
 
 ---
 
-## 本轮新发现 (35 条)
+## 本轮新发现 (32 条)
 
-### 周杰伦南京演唱会第一场歌迷点歌《不该》
+### 蔡徐坤澳门演唱会，八载春秋感恩初遇再逢
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_2760629191_ma48bdbc703301nq3i.html>
+
+### 刘畊宏在周杰伦南京演唱会唱了什么歌？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2640993657_m9d6a5d7903301d08a.html>
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801lm9k.html>
 
-### 周杰伦刘畊宏在南京演唱会合唱了哪首歌
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068015wp8.html>
-
-### 刘畊宏空降周杰伦演唱会是什么时候发生的
+### 周杰伦南京演唱会10秒售罄，连唱40首太宠粉
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068015wp0.html>
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801lm9c.html>
 
-### 刘畊宏淘汰后空降周杰伦演唱会，合唱《淘汰》太绝
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068015wou.html>
-
-### 周杰伦演唱会每场歌单都一样吗？
+### 徐若晗分享周杰伦演唱会碎片，感受漫天彩带烟火
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068015wo2.html>
+- 链接: <https://k.sina.com.cn/article_6579479488_1882ae3c004001p8ks.html>
 
-### 周杰伦南京演唱会点歌环节有哪些经典曲目？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068015wny.html>
-
-### 周杰伦南京演唱会还有哪几场可以抢票？
+### 周杰伦南京演唱会还有哪些精彩瞬间？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068015wnu.html>
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801lm3m.html>
 
-### 周杰伦南京演唱会，金曲点歌不停歇
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301gox4.html>
-
-### 周杰伦南京演唱会56首歌单曝光，点歌互动宠粉满分
+### 周杰伦为何在演唱会上调侃刘畊宏穿着保守？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068015wng.html>
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801lm3k.html>
 
-### 淘汰后空降周杰伦演唱会！刘畊宏兑现预言合唱《淘汰》
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068015wna.html>
-
-### 刘畊宏淘汰后空降周杰伦演唱会，合唱《淘汰》
+### 周杰伦南京演唱会首场，刘畊宏现身舞台并与其合唱，此前周杰伦曾开玩笑称“我演唱会快到了，被淘汰一下你就可以回来了”
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801llbi.html>
+- 链接: <https://k.sina.com.cn/article_5952915720_162d2490806704wbxy.html>
 
-### 演唱会初体验献给亲爱的周董
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923704_m1d5ae17f803301ytou.html>
-
-### 周杰伦演唱会调侃刘畊宏被淘汰成真：这样就可以回来了！
+### 周杰伦南京演唱会第一场《最长的电影》
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924010_1d5ae192a02002ak36.html>
+- 链接: <https://k.sina.com.cn/article_2640993657_m9d6a5d7903301d0ae.html>
 
-### 周杰伦南京演唱会诚意拉满，金曲连唱点歌不断
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2164376267_m8101c2cb03302rcgg.html>
-
-### 周杰伦南京演唱会：刘畊宏合唱《淘汰》成最大泪点
+### 周杰伦说刘畊宏被淘汰就能来演唱会周杰伦嫌刘畊宏穿得保守给胸肌特写
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857263936_1d454554006801sfk0.html>
+- 链接: <https://k.sina.com.cn/article_6304381077_m177c53895033027joe.html>
 
-### 周杰伦演唱会为何有如此强的号召力？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068015wk8.html>
-
-### 周杰伦南京演唱会承诺唱个够
+### 刘畊宏为何在《披荆斩棘》淘汰后亮相周杰伦演唱会？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923928_m1d5ae18d80330189og.html>
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068015wya.html>
 
-### 林俊杰就是演唱会邀请嘉宾的神吧！周杰伦 周深 微博VC计划微博VC计划
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301gona.html>
-
-### 周杰伦南京演唱会day1
+### 刘畊宏淘汰后空降周杰伦演唱会，兑现玩笑名场面！
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2254646594_m86632d4205301jbme.html>
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068015wxw.html>
 
-### 周杰伦演唱会神器：京东秒送9分钟送达vivo新机
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7096020433_1a6f4add106801ov78.html>
-
-### 周杰伦南京演唱会为粉丝唱生日歌
+### 周杰伦南京演唱会后续还有加场计划吗？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://video.sina.com.cn/p/finance/2026-09-25/detail-inisyywf7874342.d.html>
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068015wxu.html>
 
-### 习近平在美国总统特朗普举行的欢迎宴会上的祝酒辞（全文）
+### 周杰伦南京演唱会连唱40首，宠粉点歌刘畊宏空降
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068015wxs.html>
+
+### 徐若晗也是在周杰伦演唱会当上站姐了，一直在努力拍摄，期待成品
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_2334112451_m8b1fbac303301d3ts.html>
+
+### 南京day1杰伦哥状态无敌！点歌《最长的电影》最震撼的万人大合唱 感动又震撼！周杰伦南京演唱会 最长的电影
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002rz4k.html>
+
+### 场外的氛围 周杰伦南京演唱会 周杰伦演唱会
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002rz4e.html>
+
+### 周杰伦演唱会，粉丝深情致谢期待再见
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_6179910929_m17059f51103301iouk.html>
+
+### 习近平出席美国总统特朗普在白宫举行的欢迎仪式
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-09-25 01:02
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1HNUJzYlNKRjRoSEFxZnN3UFVXWHpjMDVsaElwV1l2aTZ5R2VzRmJZU25SN1pmTjB4U1pGS0pxWWctREJTZWdQSG1oNlY?oc=5>
+- 场馆: 新华网
+- 时间: 2026-09-24 20:09
+- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE5FMHNmX3dkUEhyeHpkeHJhSzVUOGpjNXpBRUtYa3FwTVA2emhiWEZtOWY2RXBfSGdYNWJZTW1NZ010emNfMi03ZUhFNXhGVXlqWEN3VXUzazNIdUFoNjBTYTM3Ym84bUZmbFBTYzhUbDZIWDJxOFE2UFpwVnV0dw?oc=5>
 
-### 日本财务大臣：特朗普向高市早苗表达对日元的担忧
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-25 02:33
-- 链接: <https://news.google.com/rss/articles/CBMiigJBVV95cUxPbTJ3Y2ZXdjZSbTIxLU9hNkFRVXBoM2taNUJENmZ6M2pxc2kwbDREQjd5X19iY3dUcURLcGxfNWRJX2ZELUtSbjloZ1JKSE1aZUpjb3VfVlpfanpVWEI0X2w5bzlvWEQtYkRzc3QtcHJXMGZlV21oUjJNTlpPMVk0UjNuY2M1dDJxeFBadmNSUk93T09EektYclVZbm1MdXlLeFctR1haM1hHYXBhQlNPZ3BHenprYi1MMV9FUjQ4bTlpX0J2VnhKeGxJcXBVNXA5NW9oSk1vOFEyeEFKTzZIQU42X3R0WER6ZktkckJFRDNWU040UVdEOTBQS3RBYmxEZjlpZWFoWFlPZw?oc=5>
-
-### 美国石油公司高管游说反对特朗普柴油出口禁令
+### 特朗普与高市早苗讨论日元疲软问题|唐纳德·特朗普|日本首相|贸易逆差|美国总统|贝森特_手机新浪网
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-23 11:07
-- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMDJHazFUOFZRLUZuaElzaUNna0J0T2JLTzhQUVVrOUNhS3dDWTZmOXVqMm5OMjhtdmJfWGpwV2ZLQ3hZSW1yT2VvN3IzRnpDVTNtckkwQlRCMVVNMFRBM205QjZ6R1puUnlDX2g4aXFYTTNwU2lfYm5ldGVKdm5DTGNjNnZJVnFibDh5dGdybmtpUmtfZG1pVVFaaVhZdE9UUXhVZ0dBbG52WVZTUEdpdEtPTThmc2paS0l6U2c1LWZwbFpIbU5tdGZJdlJjVzRKZ1E?oc=5>
+- 场馆: finance.sina.com.cn
+- 时间: 2026-09-25 07:41
+- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxQOWFDQ1pIa3puSFlZMWRWeEkwQ1BaUTd2b3JTdktPN3pkN3RoSDBkWlNRRzVDX2d4Q1pRR3ZoNFByQkxjYlFPWDRnUzg4dlNIQ0V1Vk1kMDZsRUVxb25ER0RnWVRvTmk0cUcwdlVhU0IzOEQxT0RoOHdIc2thUHdDLUloSmZ0dFdNMEE?oc=5>
+
+### 特朗普会中文的外孙女，现身白宫欢迎宴会，18个月大就开始学中文，4岁用中文唱歌，还会背《三字经》
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-09-25 08:46
+- 链接: <https://news.google.com/rss/articles/CBMixwFBVV95cUxOV1dfeXBENGFCSGRsZi1LWk9TV2t3RUstTjNYdnpWWVNtZFpzTnJsVGJNYXlmcTZrSE15c1N3c1l6Q25xUEREYlFqY19WeWdRbHhmSHBGTjJNd3JlVW5PS213WUJkeUVrNDc3REdMc2NTYWlINzNwVlNSc014ZGVwX012bXJBaGxTU3VpUDNOLU9NNlA5UlpCMm96QkJkMHVyZl9xcTNlQ1U0R05QLVEwcHAtbFBObU9nSzdZWE1HY1dSNjZaZmZ3?oc=5>
+
+### 白宫前新闻秘书：特朗普曾痛斥斯塔默，后者只是坐在那里
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者网
+- 时间: 2026-09-25 05:24
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE9ScEJnRjFFT0VkNlV3WnAweVgzcWs3M2daWnpXcl9yU3JCVjlkRHhGQi15NTA0OXg2U0RyV3BMQWdiS0Y1ZThYbmRxWDA0NF81RzdfVTVHNzZKSThmeDBpM3E4NUdGMlVsUUxqdGNDY1hzVWc?oc=5>
 
 ### 彭丽媛同美国总统特朗普夫人梅拉尼娅参观国立亚洲艺术博物馆
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: cpc.people.com.cn
-- 时间: 2026-09-25 00:25
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1uNlpabXlvcTliMHNJbXdFNGxLa2lRUUFJMmV6WWtfWVR2U19wc0o4d3NvSzhtWHNkbUQyQlFoSEdRaVZfS2RuVDRHdXZqV21CbC1jNFpkQUNIcDQ4aVRrNktNUE45TzJyamc?oc=5>
+- 场馆: politics.people.com.cn
+- 时间: 2026-09-24 22:36
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE5TczNURy1wWU5LQThvcE9VaUNFN3M3RDd0blZVRzZOd1lBWDlNcVpIaXRZcms2SkxFeTM1SmRaWjc4ZW50bTNnY3lfNXIzazJvSi1TMlN1dmtFNzcxdi14OXdkb0FnTHNsV3Z1azlRWQ?oc=5>
 
-### “大招”越来越近？特朗普顾问分析“短期柴油出口禁令”影响
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-09-25 02:40
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE16QThOR0pmSU1ySkVxVWdPVXZITFEya1d3MVFsRC1hUkRhVmhFUmdvaGRJUXJYdHBnZmRXaFNDbDlCdGI2X2h3NkhoYm9BWUdIY2N3?oc=5>
-
-### 一边是美国五大电视网暂停报道特朗普，一边是“特朗普电视”开播
+### 视频丨习近平同美国总统特朗普会谈
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: QQ News
-- 时间: 2026-09-23 01:04
-- 链接: <https://news.google.com/rss/articles/CBMiVkFVX3lxTE03dDFSbk9tc2k4MDRCNEc4aHVNREFFZnl4ZmdGOFpRUE9jWWxSZ3V5bGdkcWlVTEJVWmgtbWpFS1ZwclFNT3U4MnBPZTBZYmRITHlyMkRB?oc=5>
+- 场馆: 央视网
+- 时间: 2026-09-25 00:48
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFB5aXNiQzJZTUVLZUF5LXBnX2pkLTQ0WjQwXzV4U0hEY1BTZGJGdUI0c2NtN09wSUtydzNtZ3R1QTd3NkRZb2pRSnBkX1RrZW1JSHZyNDNDTWVmSGRMV1h2ZGVzb0RFamVZelJYdkdTRElrQThCcEl3NQ?oc=5>
 
-### 特朗普联大演讲五大看点
+### 特朗普担忧日元疲软，美日汇率协调再受关注-市场参考
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-09-22 23:35
-- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxOS2JrQndCak5UeWxOZU9DS0FnR0xuMkprYkxvM1VkNldhbEJreksxSHVxVXhBZDNmNkpBazlHR3NZcnpId1BOallMR1ktS1BqZEFEM0VsU0djOTl0VW45MWNaM1RzbkcwLVhIRThXNzVnQWtUSl9EdmZoYmUyb2dwbVNnVldXN1NwTzN5OWVGZXdySHJOdGU2RTA2Rzc3V050RjBBNE43ZEVzbmZkZUdJOXlrbHVfVUJ0OHBLaDUwSVNTaEhIeFkxM05MMXkzUGJPbHc?oc=5>
+- 场馆: 金十数据
+- 时间: 2026-09-25 05:45
+- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE5RYTRxMDBlWmk0aXVERXJMOGlwM1BaRUtZb1dYZDd0TlltYlVKZnJXaS1LY2pwMHRKcHVTLWE0VDhFd05DTldfQ0g4alF0bFk?oc=5>
 
-### 习近平和彭丽媛出席特朗普总统夫妇举行的欢迎宴会
+### 习近平在美国总统特朗普举行的欢迎宴会上的祝酒辞（全文）
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新华网
-- 时间: 2026-09-25 01:17
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1oMEh4eEVzandTNW5Qc2Z0WHlnajNwQWItV1JxOU9nRzdjcmVIMzhJZHR3aGdjMlZBMXNocktmbDU0WHZRTmlNQ3VRM1R4QWN4cGsydWhPMC1jcXdSMktfWEM0c3pXY1dwQlB0aVlWa0pyU2l5WlJydG1FdDFSYXM?oc=5>
+- 时间: 2026-09-25 01:04
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE0wQkYzaDhGRDk1YTR6ZG1rd19hMVNuUkwwbmJNTXlqSUhYWjVaUHpzSkVPQ3hrVVBuRlp0NTRGMmZDN1hrNGgwVHhFY1YtQ3lNbTJJNXhPNG5OS043elgxd01DczdzUTZhTS1iNjBXUFJQekVVTzlxOHAzSy0zU2c?oc=5>
+
+### 白宫晚宴 习近平特朗普伉俪再亮相
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: BBC
+- 时间: 2026-09-24 23:58
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16YzcwejFfVnBGeThBejFFai1uTXNNVnZTVmpWU0NCaldCeFFnUXBXSmRFa0pYUlNPdzItZndrVGRmWjJobGFXdzI1Qk1Lb3ZQY3NhYmpuN20wYkhQdm9FLVZTT05LR03SAWxBVV95cUxPT1dSM2V6c2pzNXl0V0l3ZXpqdWtWcXVaaldNODI0Vnp6WG9ZN1hNQmRuWlh0anZ0ZjhzY085ZGhIQ0FVc3dxbkE4ZUF5eml2MXNPck93RjR5THhwVkktYzR3NnVJZ3VZVHJkaVo?oc=5>
+
+### 特朗普、习近平白宫国宴发表讲话，强调美中两国人民的友谊历久弥坚
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-09-25 02:36
+- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxOV3ZTdFVReF9ZNVY0SHJvSGotVU55NVZrYy1JRlV2elFMYnl5SWprZUU0ZmFDc1J6WDVPMDIteFFhTklRUzl6bVh6OTNzWmhvbVVSSUpjNXlzZU5lWjB4LW1XcTNDUGNkaXNwRzIyRnY0LWUwdDZQaXdYZW9KRFFHaGxPUjFBUk9EYUZSWHotZ3NUM095YThSc25RUEpadWxNVUlFS2w3QkRUSU5WdFZoUGhIeFcxVEpIdkpxMm5IdEdRWUVjVGhzbTNsQ3NfdmPSAc8BQVVfeXFMTld2U3RVUXhfWTVWNEhyb0hqLVVOeTVWa2MtSUZVdnpRTGJ5eUlqa2VFNGZhQ3NSelg1TzAyLXhRYU5JUVM5em1Yejkzc1pob21VUklKYzV5c2VOZVoweC1tV3EzQ1BjZGlzcEcyMkZ2NC1lMHQ2UGl3WGVvSkRRR2hsT1IxQVJPRGFGUlh6LWdzVDNPeWE4UnNuUVBKWnVsTVVJRUtsN0JEVElOVnRWaFBoSHhXMVRKSHZKcTJuSHRHUVlFY1Roc20zbENzX3Zj?oc=5>
 
 ### 习近平同美国总统特朗普会谈
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: politics.people.com.cn
-- 时间: 2026-09-24 22:36
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE1MNGhlNUhqMlM1M2dxcWZjdWhXYXE0eFkxYTFsQzlEX0s5S1ZZQ0YydzgzMlJidDc5WmRPZDFBUFUzNFRvdXhxbFNrelVWUlRDREdlOVVDRFI2YmZIRkphLWdFR2xBb0o5ZUZUZllBcw?oc=5>
+- 场馆: 湖南省人民政府
+- 时间: 2026-09-24 23:14
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE01WFdLcFh0Z2kyckxhS0M0eTBhNV9meGhNWEx2aThDZ29XLTVwVHNqTHFNUC1jMVdCcUlyeUN3SFBDMmtWT2doeHpwakJaRFczLVAtc1VtejJoM1dHSHNLd2FuMVgtdzk5eDl2M1lnd04wWkN6?oc=5>
 
-### 特朗普与习近平在白宫会面，外界对峰会成果预期较低
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-09-24 21:01
-- 链接: <https://news.google.com/rss/articles/CBMibEFVX3lxTE5jZDVOUDlXMlVCQjdFSFNZNEN2ejlxWFNXOXB0dVZEM0xWc25yb2NsWXNKSUZCSkd5U1g3RVlqV1MyX010djdIal95bENDVkxhc3pMUnhndmFEUm90LXh5b2o4WDlIVFNxVVFhWA?oc=5>
-
-### 特朗普、习近平白宫国宴发表讲话，强调美中两国人民的友谊历久弥坚
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-09-25 02:36
-- 链接: <https://news.google.com/rss/articles/CBMizAFBVV95cUxNSGpaVU9QRS1DUnpMY0laWnBvS3kxQklvMnlBakdwXzkwbmZUVFBFdzhhTDBIYkpHUFg1YTNaVjJaN09oSG1MdHpvMjZkaXJ3WktNeEtYUVRHaTRTUFpEdEVpeU12Z215bTVmNXZhOXA2Q1hMbmlfRkJWangxVWR3YWJLOXgtaVo5ZG1FOXpia29fWDZnRWZtQmh2MDYwLWxBb2tZU2NOMUduRDE4RTU2QzVVa1RrS0lXOEczNW82dWE1ZEVxOUpnV2VUV07SAc8BQVVfeXFMTld2U3RVUXhfWTVWNEhyb0hqLVVOeTVWa2MtSUZVdnpRTGJ5eUlqa2VFNGZhQ3NSelg1TzAyLXhRYU5JUVM5em1Yejkzc1pob21VUklKYzV5c2VOZVoweC1tV3EzQ1BjZGlzcEcyMkZ2NC1lMHQ2UGl3WGVvSkRRR2hsT1IxQVJPRGFGUlh6LWdzVDNPeWE4UnNuUVBKWnVsTVVJRUtsN0JEVElOVnRWaFBoSHhXMVRKSHZKcTJuSHRHUVlFY1Roc20zbENzX3Zj?oc=5>
-
-### Trump Welcomes Xi to White House With Pomp and Pageantry
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-09-24 23:47
-- 链接: <https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWHkzWmtUSUEzdjhELWdEdzM2X05CTkpfVEQySm5FNTIxUThfM2J0cWZral9MS3J6eDJEamZYd3lNeXM3aDN2QTZlOEljam5WZ0kyTHhoZnNTdkN0Nmozd2xkNGhTTU84UUVlV214OHJETmItcmVwOGhUS200RXBYV2lvRnhMUFRwSkQzSnJPdVE0allhZVh2OVlZc2pVbDBlOGlLQ25BdTk?oc=5>
-
-### 特朗普总统与丹麦和格陵兰签署安全协议
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: VOA - Voice of America English News
-- 时间: 2026-09-24 17:17
-- 链接: <https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWnNaNXYyM3BmbjFKN2UtbmV3YVJhcXMyTm5oTDhFNE1Ba0MyR3h4Smp2X2I0QUxhRUNGUDA5Mm52MEtqa3NaZEdPMHlfV3BkUVVILTJQTHIzUTcyRVVCMnNFd0diUU9QZTd2dXVPdEhpVFJvazZyYnRiUTdVWlNoNWd6UjMzOGJhYXFmTXU3TFhnWFZGSmtTLThVZ3FvZWJ2OERHbktiQmw5c0JGbVhmUklnbDJlSWtkRzdfcGpyOUZTMXJJaDQtenZGUU5lSDJ6R1NwaGd6NmLSAdsBQVVfeXFMTmNVMjZsUlExUU1EdExsMkpYdUh5VU5DbjBDSnVzSWlGYU1PdnNmV1ZydGk3ZGt1Vm9saFlhZkFqN3UzTFdlYkVaRDJfTTZRWXRFWjZPZ2pybTBtV1VIVWJnQzRpRTRueXhBTG5KTEZ3OHIzbFF1RndLaEdRZkl0UDRFSnprNVJEZUVzcGk1bmJ5MHlWd1JfMjRqM3Q4QmI3bmVwYW5LTlZuejVvTzhmMXdPZW13WVM1bDVoMFZuMHdna2ZrVjMtME9OR2pRelJXTlJzT21VcGN0T1Bv?oc=5>
-
-### Remarks by H.E. Xi Jinping President of the People’s Republic of China at Arrival Ceremony at the White House
+### President Xi Jinping and Madame Peng Liyuan Attend the State Dinner Hosted by President Donald J. Trump and Mrs. Melania Trump
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: 中华人民共和国驻大韩民国大使馆
-- 时间: 2026-09-24 15:44
-- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTE96TkllbEhfRnlRSkI1dTBQSGxTV1RmZnBlQy1JM3VQUHdDUm1sRTZpQno5TW9fNXdVbDJMTUdaUk15X0lYTjZJOXAyUVlFR1E3UklLOUN1MjZkUFF2OHdSUkloczQ1cmJzbzBnMVBKWW5qdjNXd1pqTGV6RQ?oc=5>
+- 时间: 2026-09-25 05:49
+- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTE5CdzRRTXBLeE9VYjZQOVNkTzB5TTJnQWItQ0ZWYjZJY0xIdUIzb0U0QUNzQmM4MWtSbTNMdTJvdGZBal9XNGJZTFU1NFI3dl9QUnhmalgtcllTRzlFTG4wakFRdjRZd1lsZjRvYzk3SVVpZnNRMUNEUktnVQ?oc=5>
+
+### 特朗普总统在为习近平主席举行的白宫国宴上的讲话(全文翻译)
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-09-25 03:28
+- 链接: <https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbS04UEVfVFZKUnBXX2phTXVuYVB1T1lYUTNNdjVCZlg2eEdOOWo1NXFkV1pWZ2s0NURkbUVoSXloMUhuSVhSamdaTkVhenFUWEUzbUlvNTkyc0lSOW1zaGRrekVfckhCcnBOdGZOYjQxdUdVblRNdHpOUEFDVTlRNUNqbTZ5NGoxbVhiZFhyZnh6M21ZOHFncWZZd0lZVlpjYmtqMGNvdHRsMWRJRFFXMWZQRW1Lajh60gG4AUFVX3lxTE9tLThQRV9UVkpScFdfamFNdW5hUHVPWVhRM012NUJmWDZ4R045ajU1cWRXWlZnazQ1RGRtRWhJeWgxSG5JWFJqZ1pORWF6cVRYRTNtSW81OTJzSVI5bXNoZGt6RV9ySEJycE50Zk5iNDF1R1VuVE10ek5QQUNVOVE1Q2ptNnk0ajFtWGJkWHJmeHozbVk4cWdxZll3SVlWWmNia2owY290dGwxZElEUVcxZlBFbUtqOHo?oc=5>
+
+### What Happened When Xi Met Trump in DC? - China’s 2025 Outward FDI @ $213.58 billion - Zhao Leji Demands Law-based & Orderly Local Elections
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Tracking People's Daily
+- 时间: 2026-09-25 04:48
+- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxQZzZFUXdud3RSTHB4YnlKMHlnVENRQXgyc3NiM3Fuczl3UGtOeV91ckFlOVN0b0laendBSEVBOEg2OVdaRWdjVS1oNmdreUdvb00xUE9xU3JPVnZuOS1mZnNIMEl4UHFNUWxVX3piamxXSTNOWWNtaHJPeUZjcXJmQjUtWEdkaWxhd0E?oc=5>
+
+### We're sorry but 中国新闻网 doesn't work properly without JavaScript enabled. Please enable it to continue.
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Ecns.cn
+- 时间: 2026-09-25 07:06
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5NUjdKWENDdmxCZ2pQeHF3VW5HOFhGcC1JN2R6Mklyd0ozVnFIYlIxU0xsc0xUcDRYeHVaOHdaYVpTV1FhejI4ZXhZRF9JQ1dXLVpKMVlEYUZ3c3UxNUc4Y1dXLUlhcWMtaXduSTlERzY1MFk?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-25 08:59  (32 条)
+
+- **蔡徐坤** | 蔡徐坤澳门演唱会，八载春秋感恩初遇再逢 <https://k.sina.com.cn/article_2760629191_ma48bdbc703301nq3i.html>
+- **周杰伦** | 刘畊宏在周杰伦南京演唱会唱了什么歌？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801lm9k.html>
+- **周杰伦** | 周杰伦南京演唱会10秒售罄，连唱40首太宠粉 <https://k.sina.com.cn/article_7879923021_1d5ae154d06801lm9c.html>
+- **周杰伦** | 徐若晗分享周杰伦演唱会碎片，感受漫天彩带烟火 <https://k.sina.com.cn/article_6579479488_1882ae3c004001p8ks.html>
+- **周杰伦** | 周杰伦南京演唱会还有哪些精彩瞬间？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801lm3m.html>
+- **周杰伦** | 周杰伦为何在演唱会上调侃刘畊宏穿着保守？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801lm3k.html>
+- **周杰伦** | 周杰伦南京演唱会首场，刘畊宏现身舞台并与其合唱，此前周杰伦曾开玩笑称“我演唱会快到了，被淘汰一下你就可以回来了” <https://k.sina.com.cn/article_5952915720_162d2490806704wbxy.html>
+- **周杰伦** | 周杰伦南京演唱会第一场《最长的电影》 <https://k.sina.com.cn/article_2640993657_m9d6a5d7903301d0ae.html>
+- **周杰伦** | 周杰伦说刘畊宏被淘汰就能来演唱会周杰伦嫌刘畊宏穿得保守给胸肌特写 <https://k.sina.com.cn/article_6304381077_m177c53895033027joe.html>
+- **周杰伦** | 刘畊宏为何在《披荆斩棘》淘汰后亮相周杰伦演唱会？ <https://k.sina.com.cn/article_7879776356_1d5abd864068015wya.html>
+- **周杰伦** | 刘畊宏淘汰后空降周杰伦演唱会，兑现玩笑名场面！ <https://k.sina.com.cn/article_7879776356_1d5abd864068015wxw.html>
+- **周杰伦** | 周杰伦南京演唱会后续还有加场计划吗？ <https://k.sina.com.cn/article_7879776356_1d5abd864068015wxu.html>
+- **周杰伦** | 周杰伦南京演唱会连唱40首，宠粉点歌刘畊宏空降 <https://k.sina.com.cn/article_7879776356_1d5abd864068015wxs.html>
+- **周杰伦** | 徐若晗也是在周杰伦演唱会当上站姐了，一直在努力拍摄，期待成品 <https://k.sina.com.cn/article_2334112451_m8b1fbac303301d3ts.html>
+- **周杰伦** | 南京day1杰伦哥状态无敌！点歌《最长的电影》最震撼的万人大合唱 感动又震撼！周杰伦南京演唱会 最长的电影 <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002rz4k.html>
+- **周杰伦** | 场外的氛围 周杰伦南京演唱会 周杰伦演唱会 <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002rz4e.html>
+- **周杰伦** | 周杰伦演唱会，粉丝深情致谢期待再见 <https://k.sina.com.cn/article_6179910929_m17059f51103301iouk.html>
+- **特朗普** | 习近平出席美国总统特朗普在白宫举行的欢迎仪式 <https://news.google.com/rss/articles/CBMifkFVX3lxTE5FMHNmX3dkUEhyeHpkeHJhSzVUOGpjNXpBRUtYa3FwTVA2emhiWEZtOWY2RXBfSGdYNWJZTW1NZ010emNfMi03ZUhFNXhGVXlqWEN3VXUzazNIdUFoNjBTYTM3Ym84bUZmbFBTYzhUbDZIWDJxOFE2UFpwVnV0dw?oc=5>
+- **特朗普** | 特朗普与高市早苗讨论日元疲软问题|唐纳德·特朗普|日本首相|贸易逆差|美国总统|贝森特_手机新浪网 <https://news.google.com/rss/articles/CBMiigFBVV95cUxQOWFDQ1pIa3puSFlZMWRWeEkwQ1BaUTd2b3JTdktPN3pkN3RoSDBkWlNRRzVDX2d4Q1pRR3ZoNFByQkxjYlFPWDRnUzg4dlNIQ0V1Vk1kMDZsRUVxb25ER0RnWVRvTmk0cUcwdlVhU0IzOEQxT0RoOHdIc2thUHdDLUloSmZ0dFdNMEE?oc=5>
+- **特朗普** | 特朗普会中文的外孙女，现身白宫欢迎宴会，18个月大就开始学中文，4岁用中文唱歌，还会背《三字经》 <https://news.google.com/rss/articles/CBMixwFBVV95cUxOV1dfeXBENGFCSGRsZi1LWk9TV2t3RUstTjNYdnpWWVNtZFpzTnJsVGJNYXlmcTZrSE15c1N3c1l6Q25xUEREYlFqY19WeWdRbHhmSHBGTjJNd3JlVW5PS213WUJkeUVrNDc3REdMc2NTYWlINzNwVlNSc014ZGVwX012bXJBaGxTU3VpUDNOLU9NNlA5UlpCMm96QkJkMHVyZl9xcTNlQ1U0R05QLVEwcHAtbFBObU9nSzdZWE1HY1dSNjZaZmZ3?oc=5>
+- **特朗普** | 白宫前新闻秘书：特朗普曾痛斥斯塔默，后者只是坐在那里 <https://news.google.com/rss/articles/CBMic0FVX3lxTE9ScEJnRjFFT0VkNlV3WnAweVgzcWs3M2daWnpXcl9yU3JCVjlkRHhGQi15NTA0OXg2U0RyV3BMQWdiS0Y1ZThYbmRxWDA0NF81RzdfVTVHNzZKSThmeDBpM3E4NUdGMlVsUUxqdGNDY1hzVWc?oc=5>
+- **特朗普** | 彭丽媛同美国总统特朗普夫人梅拉尼娅参观国立亚洲艺术博物馆 <https://news.google.com/rss/articles/CBMib0FVX3lxTE5TczNURy1wWU5LQThvcE9VaUNFN3M3RDd0blZVRzZOd1lBWDlNcVpIaXRZcms2SkxFeTM1SmRaWjc4ZW50bTNnY3lfNXIzazJvSi1TMlN1dmtFNzcxdi14OXdkb0FnTHNsV3Z1azlRWQ?oc=5>
+- **特朗普** | 视频丨习近平同美国总统特朗普会谈 <https://news.google.com/rss/articles/CBMieEFVX3lxTFB5aXNiQzJZTUVLZUF5LXBnX2pkLTQ0WjQwXzV4U0hEY1BTZGJGdUI0c2NtN09wSUtydzNtZ3R1QTd3NkRZb2pRSnBkX1RrZW1JSHZyNDNDTWVmSGRMV1h2ZGVzb0RFamVZelJYdkdTRElrQThCcEl3NQ?oc=5>
+- **特朗普** | 特朗普担忧日元疲软，美日汇率协调再受关注-市场参考 <https://news.google.com/rss/articles/CBMiT0FVX3lxTE5RYTRxMDBlWmk0aXVERXJMOGlwM1BaRUtZb1dYZDd0TlltYlVKZnJXaS1LY2pwMHRKcHVTLWE0VDhFd05DTldfQ0g4alF0bFk?oc=5>
+- **特朗普** | 习近平在美国总统特朗普举行的欢迎宴会上的祝酒辞（全文） <https://news.google.com/rss/articles/CBMif0FVX3lxTE0wQkYzaDhGRDk1YTR6ZG1rd19hMVNuUkwwbmJNTXlqSUhYWjVaUHpzSkVPQ3hrVVBuRlp0NTRGMmZDN1hrNGgwVHhFY1YtQ3lNbTJJNXhPNG5OS043elgxd01DczdzUTZhTS1iNjBXUFJQekVVTzlxOHAzSy0zU2c?oc=5>
+- **特朗普** | 白宫晚宴 习近平特朗普伉俪再亮相 <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16YzcwejFfVnBGeThBejFFai1uTXNNVnZTVmpWU0NCaldCeFFnUXBXSmRFa0pYUlNPdzItZndrVGRmWjJobGFXdzI1Qk1Lb3ZQY3NhYmpuN20wYkhQdm9FLVZTT05LR03SAWxBVV95cUxPT1dSM2V6c2pzNXl0V0l3ZXpqdWtWcXVaaldNODI0Vnp6WG9ZN1hNQmRuWlh0anZ0ZjhzY085ZGhIQ0FVc3dxbkE4ZUF5eml2MXNPck93RjR5THhwVkktYzR3NnVJZ3VZVHJkaVo?oc=5>
+- **特朗普** | 特朗普、习近平白宫国宴发表讲话，强调美中两国人民的友谊历久弥坚 <https://news.google.com/rss/articles/CBMizwFBVV95cUxOV3ZTdFVReF9ZNVY0SHJvSGotVU55NVZrYy1JRlV2elFMYnl5SWprZUU0ZmFDc1J6WDVPMDIteFFhTklRUzl6bVh6OTNzWmhvbVVSSUpjNXlzZU5lWjB4LW1XcTNDUGNkaXNwRzIyRnY0LWUwdDZQaXdYZW9KRFFHaGxPUjFBUk9EYUZSWHotZ3NUM095YThSc25RUEpadWxNVUlFS2w3QkRUSU5WdFZoUGhIeFcxVEpIdkpxMm5IdEdRWUVjVGhzbTNsQ3NfdmPSAc8BQVVfeXFMTld2U3RVUXhfWTVWNEhyb0hqLVVOeTVWa2MtSUZVdnpRTGJ5eUlqa2VFNGZhQ3NSelg1TzAyLXhRYU5JUVM5em1Yejkzc1pob21VUklKYzV5c2VOZVoweC1tV3EzQ1BjZGlzcEcyMkZ2NC1lMHQ2UGl3WGVvSkRRR2hsT1IxQVJPRGFGUlh6LWdzVDNPeWE4UnNuUVBKWnVsTVVJRUtsN0JEVElOVnRWaFBoSHhXMVRKSHZKcTJuSHRHUVlFY1Roc20zbENzX3Zj?oc=5>
+- **特朗普** | 习近平同美国总统特朗普会谈 <https://news.google.com/rss/articles/CBMidEFVX3lxTE01WFdLcFh0Z2kyckxhS0M0eTBhNV9meGhNWEx2aThDZ29XLTVwVHNqTHFNUC1jMVdCcUlyeUN3SFBDMmtWT2doeHpwakJaRFczLVAtc1VtejJoM1dHSHNLd2FuMVgtdzk5eDl2M1lnd04wWkN6?oc=5>
+- **Trump** | President Xi Jinping and Madame Peng Liyuan Attend the State Dinner Hosted by President Donald J. Trump and Mrs. Melania Trump <https://news.google.com/rss/articles/CBMie0FVX3lxTE5CdzRRTXBLeE9VYjZQOVNkTzB5TTJnQWItQ0ZWYjZJY0xIdUIzb0U0QUNzQmM4MWtSbTNMdTJvdGZBal9XNGJZTFU1NFI3dl9QUnhmalgtcllTRzlFTG4wakFRdjRZd1lsZjRvYzk3SVVpZnNRMUNEUktnVQ?oc=5>
+- **Trump** | 特朗普总统在为习近平主席举行的白宫国宴上的讲话(全文翻译) <https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbS04UEVfVFZKUnBXX2phTXVuYVB1T1lYUTNNdjVCZlg2eEdOOWo1NXFkV1pWZ2s0NURkbUVoSXloMUhuSVhSamdaTkVhenFUWEUzbUlvNTkyc0lSOW1zaGRrekVfckhCcnBOdGZOYjQxdUdVblRNdHpOUEFDVTlRNUNqbTZ5NGoxbVhiZFhyZnh6M21ZOHFncWZZd0lZVlpjYmtqMGNvdHRsMWRJRFFXMWZQRW1Lajh60gG4AUFVX3lxTE9tLThQRV9UVkpScFdfamFNdW5hUHVPWVhRM012NUJmWDZ4R045ajU1cWRXWlZnazQ1RGRtRWhJeWgxSG5JWFJqZ1pORWF6cVRYRTNtSW81OTJzSVI5bXNoZGt6RV9ySEJycE50Zk5iNDF1R1VuVE10ek5QQUNVOVE1Q2ptNnk0ajFtWGJkWHJmeHozbVk4cWdxZll3SVlWWmNia2owY290dGwxZElEUVcxZlBFbUtqOHo?oc=5>
+- **Trump** | What Happened When Xi Met Trump in DC? - China’s 2025 Outward FDI @ $213.58 billion - Zhao Leji Demands Law-based & Orderly Local Elections <https://news.google.com/rss/articles/CBMiigFBVV95cUxQZzZFUXdud3RSTHB4YnlKMHlnVENRQXgyc3NiM3Fuczl3UGtOeV91ckFlOVN0b0laendBSEVBOEg2OVdaRWdjVS1oNmdreUdvb00xUE9xU3JPVnZuOS1mZnNIMEl4UHFNUWxVX3piamxXSTNOWWNtaHJPeUZjcXJmQjUtWEdkaWxhd0E?oc=5>
+- **Trump** | We're sorry but 中国新闻网 doesn't work properly without JavaScript enabled. Please enable it to continue. <https://news.google.com/rss/articles/CBMic0FVX3lxTE5NUjdKWENDdmxCZ2pQeHF3VW5HOFhGcC1JN2R6Mklyd0ozVnFIYlIxU0xsc0xUcDRYeHVaOHdaYVpTV1FhejI4ZXhZRF9JQ1dXLVpKMVlEYUZ3c3UxNUc4Y1dXLUlhcWMtaXduSTlERzY1MFk?oc=5>
 
 ### 2026-09-25 03:13  (35 条)
 
