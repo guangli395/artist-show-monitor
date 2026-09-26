@@ -1,190 +1,148 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-26 10:02**
-- 本轮扫到 12687 条, 新增 **25** 条
+- 最近更新: **2026-09-26 14:38**
+- 本轮扫到 12702 条, 新增 **15** 条
 
 ---
 
-## 本轮新发现 (25 条)
+## 本轮新发现 (15 条)
 
-### 刘畊宏在周杰伦南京演唱会唱了哪几首歌
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801lozq.html>
-
-### 周杰伦南京演唱会现场有哪些惊喜环节
+### 周杰伦夜里11点约吴尊打网球周杰伦演唱会吴尊点歌算什么男人
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801lozo.html>
+- 链接: <https://k.sina.com.cn/article_6294758863_m1773265cf03301cpgo.html>
 
-### 如何抢到周杰伦后续演唱会的门票
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801lozw.html>
-
-### 周杰伦下一场巡演城市和时间是什么
+### 周杰伦后续巡演计划有哪些城市
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801lozs.html>
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd86406801605u.html>
 
-### 周杰伦南京演唱会连唱42首，刘畊宏空降泪目
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801lozm.html>
-
-### 刘畊宏在周杰伦南京演唱会合唱了哪首歌？
+### 周杰伦南京演唱会连唱42首，刘畊宏惊喜助阵
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801loqo.html>
-
-### 周杰伦南京演唱会还有加场计划吗？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801loqm.html>
-
-### 周杰伦南京演唱会门票10秒售罄！超50首金曲唱哭全场
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801loqk.html>
-
-### 周杰伦南京演唱会点歌环节有哪些冷门金曲
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801loqi.html>
-
-### 周杰伦南京演唱会的门票如何才能抢到
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801loqe.html>
-
-### 周杰伦南京演唱会嘉宾刘畊宏唱了哪首歌
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801loqg.html>
-
-### 周杰伦南京演唱会还有加场计划吗
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801loqc.html>
-
-### 10秒售罄！周杰伦南京演唱会超长歌单宠粉全场
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801loqa.html>
-
-### 在美国总统特朗普举行的欢迎宴会上的祝酒辞
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: finance.sina.cn
-- 时间: 2026-09-26 08:50
-- 链接: <https://news.google.com/rss/articles/CBMihgFBVV95cUxQVHdnNzJBQ3VxTGduWmNKRlZhbmljLWNET1BMTmdQYlVaMU05UC1GVlFHRTBydnFteEhOSzBRUlUtbWMtNlM4ckQ0SThRQ0VOc1RuNTI4N1JRZlFCbW9sTnZOMG02OHlIRmZkTTFMTWQzRGgyV3FEMjRfckc1eHQ0MGY2N3U1dw?oc=5>
-
-### 史无前例、惊艳！白宫铺开三天“最高礼遇”…
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-09-26 09:12
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5YOFYzX1VHdlZYVE5DZFdkbG0walUwc19aOWhLRHNleUlqSDlwMk1COGdHQjJhaTFSem85OXROQ2lneC1JWHZEbG9adFUxcWZMb2FKMVFfNGFQTi1SUVZqTFhRcE5iRElwbU9SOWVnWHBzWWs?oc=5>
-
-### 特朗普家族企业寻求注册“Trump TV”商标
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-09-26 08:47
-- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxOamVjWXdQYl9mekF4dGszQ0RvcDNBdjlqUENIQWNiT09YUXFBUFhDTm1hYkpiQ0QxYWNrUktaZWM3QTB4WksxdTlReDVRdVI0c1lMOGh2UUVOSkRVYkhzWFZEeldFQTBfWUQxcUYzQThRWmFPNEpReFJqTVdleXVnQQ?oc=5>
-
-### 拒绝伊朗重开霍尔木兹海峡提议，特朗普被曝拟中期选举后重启军事行动
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: finance.sina.cn
-- 时间: 2026-09-26 07:14
-- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxOdjllVWpGRlpQakJzbFhRb2RZa3JJX2E1b1hlMS1FbllUZXp5Z1FDOTBKVHdqYUJpV3djcmpQV3JIUDR5MU12LXVFOW5HbHdMdE1vNjNGYmw1RDVPajZ1R2psMkczdW83VU9Sa2FxbnV4VlZaZ21sSmNGVURqdnl6alJJMGFSVGVZMkhWMlh3cEsxQjNDVFkxWW5YZEZ6YzZX?oc=5>
-
-### 特朗普发地图：霍尔木兹海峡更名为“特朗普海峡”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-09-26 07:52
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1jR2M2bTFtZ1BWWGFuWHY5WVphZ0JGdnFXMGNjakZHZzd1MHhscDVnZ3dsam1kNzNpY2FZeUJhQWV0YTV3WHEtZExaeExTcFgtRDk4MW9YMy1Ud0FOUnVXdEltczF3MzJBREg2NE92UUtIdUk?oc=5>
-
-### 习近平同美国总统特朗普会谈
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 人民日报
-- 时间: 2026-09-25 06:55
-- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxQb1pFTWZqblB6aEwzYUhPRThlTG1mS2dtY3RPVVFWSldHemU5X3BsWGZZak8ycW9uWldYSWRsT1dQWkktbEJkU3BTYmZCRHV0eTFjenMwazFkZXNhVlpuY1VKdnlHM2dVc3hjc2dUNExiZ2xBbGJva3RCMGU2T3RHbA?oc=5>
-
-### 两次国宴致辞，为什么特朗普提到同一艘商船“中国皇后号”，并把目光投向同一个地方？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: News.QQ.com
-- 时间: 2026-09-26 07:33
-- 链接: <https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NOGo3bjZzMGYyazJiR21LMHFjUXVsLWxWbWlsR1BNdEd5RnlMOVk1QXdqZVFLTXc3dE1nLV84TUVIYWRjMU9GVEVocDlaUmRrRi1IaGFn?oc=5>
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd86406801605e.html>
 
 ### 习近平和彭丽媛同美国总统特朗普夫妇茶叙
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: moj.gov.cn
-- 时间: 2026-09-26 01:39
-- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE9KekxoMFNvYW95b2JKcnFhanNhWW1KTzU0UmdPSjFiM3JTRUNBdEkzYkpiNU5oSU1KUWtvVVM2MXhKNkt1N2NQSWNRV21EaHlyaGpMaGRTeVBXN0Nyei1qQ2hCcEdnUDNVTVRMYURIM0xYaVRackZDTDhR?oc=5>
+- 场馆: politics.people.com.cn
+- 时间: 2026-09-25 22:10
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTFByNUFNWGdPWE9sUFZkMlBLVEJlSTRwbGwteVlna1JzQkxDY3BmblptbnVrSE5WTWtXSDhhQldWcWlSd3Rvd3pjOS0yck9iUDJ2ZEU1YWlRZTNKcHctdVVUZjVtTmZIWnhZUUVKUFQ0Yw?oc=5>
+
+### 特朗普感觉良好，但共和党慌了：中期选举咋办
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: guancha.cn
+- 时间: 2026-09-26 13:03
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE9UMWQzLWFfX1lEeVNJR1A1anE2bktvelNiV2lkRDZJU0hMVHdzUk1wdTdILVJrMWFvM2Ezck9XbWhOUXdpMzA1cGtTeUR3TWw4MnlnZVpWektIMmpUR2V5MjFfMmhwUXg0Z2ZyWUIyR01wUmM?oc=5>
+
+### 拒绝伊朗重开霍尔木兹海峡提议，特朗普被曝拟中期选举后重启军事行动
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: finance.sina.com.cn
+- 时间: 2026-09-26 13:41
+- 链接: <https://news.google.com/rss/articles/CBMihgFBVV95cUxQOVJwcG1pbnRPN0lKNUdjNGxNOTVCbzNqaWgxLXRuM2pQS2xKMG44SUdyNjk1UVROTVd5OWFMZmpvcWprcEtEM1Nsb0NiS09nRHRsU2RMY0o0SGZOYzFLUl8yWHg3Ni1NUWFFMFZtd2J3NG8wcnZZeWRzcjl3d1hmVUZFTGxjZw?oc=5>
+
+### 特朗普称拒绝伊朗重开霍尔木兹海峡的提议
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-09-26 14:18
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE0yM1FzbEtHdjlSbmd0OXozTFZPMW4wUENldGMzaFozeEhxbzNJWDdMVFJjV1NFZGNaUjZGQ1VZX1dRM1ZzRFEtUi1Fa3JNRHFOUk5PMk9uN1ZVTE4wN0E?oc=5>
+
+### 特朗普两度提及“中国皇后号”，中美经贸往来从广州开启
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-26 11:55
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxPci1iUU9mTHM2SmxlSXVwR0FYaDhxQmo2S0VBQmNUVUg5OHNaeHdyWHVrNFU5a3QwLUppR3llYURXbFFaalcybWtkLVVzQkVnMTNienYwdi1MOHBGc2VyMm9lTEhMLWtDbVNOTzIzRnRaMVNMajJzUVlrMl95Rlp5RG9LTFJuTVl1RmpuWWZBdjdWcGtoenBmNkZxbWhUQ1BFd19hLVBjZlhaaF9uVUNseGl6QXZKTHBLLVNFRV9ZUDRFX2ctYnRldDVvN2taQTI4?oc=5>
 
 ### 习近平出席美国总统特朗普在白宫举行的欢迎仪式
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: mfa.gov.cn
-- 时间: 2026-09-24 19:11
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE1pRjZYRFo1cFlBaXhVYzVIMG1LaWhXZ3dhRXVqWnVNbWxjZTRHWUR4cGN4OXVxWU9raThJdHpHRjlfelVLRDVWRkdKaEVGM25rendBdVRqYV9kdkU3SnRsOTM2RTVKNXBQZlRZ?oc=5>
+- 场馆: xinhuanet.com
+- 时间: 2026-09-24 19:06
+- 链接: <https://news.google.com/rss/articles/CBMilgFBVV95cUxNQzhYSWlxTXM2SC12czFEWUxFaWx6Mi14d3YtUDl3NlJYQ1BzM1U0X1JmM2hIekh3VTUyQXJ2cExfanYxWTdkRHJsOUw2RXVQMENLTEdXYnFyWHhHN1Z6cVUtLUF3R2xrSWw2Q2lDX0l1dEUybFczbW9JZjRnN2FONW9Ldm5rSU5CM1FiSThmcEVjYW9pWkE?oc=5>
 
-### 特朗普家族企业寻求注册“Trump TV”商标
+### 卖微软和亚马逊、买英伟达 特朗普名下账户7月千万美元调仓细节曝光
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 东方财富
+- 时间: 2026-09-23 13:51
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE12dUIwOFBqT1dmTzRoRFlBeE5JRlR2OGRBektvM3ZtMHV3elNiLWlQV2JBczNKcVZWTXpMcUppcC1yUjBfcV84Z2k0OXk3clQ3VzhyN1pKalpVUllsNWc5SWwtMS1HUQ?oc=5>
+
+### 特朗普：美国不会对人工智能踩刹车。
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: finance.sina.com.cn
+- 时间: 2026-09-26 14:15
+- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTFBIV0xOLVNRNDFzZ0JHRDVOOTBDSWZXNGh1bVpLWkI2eVR0VmcwTV9rdDJ4VWE5VzZKM2VTTDNBbVJ0RUppcFdHOUNmN0xVdFU?oc=5>
+
+### 习近平和彭丽媛同美国总统特朗普夫妇茶叙
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: court.gov.cn
+- 时间: 2026-09-26 08:21
+- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTFBIWW1NNFF5bGFydmplaHNPWk8tckVuV1FvaUhWU0pXZ0JYak9mNWFRRG9oOVBmcjBiVWl3WnZlaGg4ejZ6REJrWkJlelNZTU15TFh0bEdLTk1uOE9McFluQmx3?oc=5>
+
+### 白宫发布唐纳德·特朗普总统在接待历史性国事访问之际，推动与中国建立公平互惠关系的事实清单(全文翻译)
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: cj.sina.cn
-- 时间: 2026-09-26 08:39
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TUUVDRnd0a1BZS2JNWGRpRUE2cktJQ01PQW9KeWt4Y2NtUVU3NmswcnVhTHYyRzJwSHRKU1lOWU1BMHd0bzNkRy1Ycw?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-09-26 12:55
+- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxOQlluNWtERjU0cU1RNHF6azQwTjFveHlsZXpjcXBWaENhUlVaZ3ZRZW5sd3A4SlA3Yjhvd1dnUm5uYW1Fblo0LXVINi1wODFQTWFXcXdLbGtRMUJrV2RaaUlTMTlWTTNsX3dpMTlaamo2X3o5dm9MQnBuc3J0X0FmdnFYSm1HSi03WGwxNm5FdG55ZmxiSTJleUdCMy0wd3Zq0gGjAUFVX3lxTE9TUm9hWkl1Qk5MNUN1N3RGSC1tS1ZELVlwU3FoWmI5bHVPRFl3dVFaT09tMkUyWFo4QU9TWDhidndxdTFGQy1fdU9CWms3N2cydmZUZHowbDIyd0llc2x6b3VhbVMtV01JcGlhcjM2Qkx5ZFlqcTRMdV9NNTRhRjdaVkFyUFpDWUdSc3JhY2c0MngxNlE5OVZ5ZkhWZ0NFdU56eE0?oc=5>
 
-### 习近平出席白宫国宴 特朗普：美中从未像现在这样相处得这么好
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 8world.com
-- 时间: 2026-09-25 00:35
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1NdVB0MWlwcEI1MXRrRlhmMHNZUFVEWjAwcDVuNjhxMUczcERrQ2dnc2tFQVR5TGRHLWZZcm1ZTWNUM2FxSFh0WFlrSUZPQno0eFRKR1JtWkNFQl9aM01TN3FqR0w1UWE1Ync?oc=5>
-
-### 尽管特朗普举行了盛大的欢迎仪式，但习近平并未表现出与伊朗决裂的迹象。
+### 白宫发布唐纳德·特朗普总统在接待历史性国事访问之际，推动与中国建立公平互惠关系的事实清单(全文翻译)
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Al-Monitor
-- 时间: 2026-09-26 06:07
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1DV0RkaVdHelVheVM3YVQ3RmozbnZLUGdOMWpqbjJWYmhZdmpCSWxYRno5a3VUS0s5Qjk1S1VUMVNGOTcxQlp5b3F3NG5nWWJqZHZ6YV9YVzZQTUxTQzZ1TFJuTS1zZw?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-09-26 12:55
+- 链接: <https://news.google.com/rss/articles/CBMiowFBVV95cUxPU1JvYVpJdUJOTDVDdTd0RkgtbUtWRC1ZcFNxaFpiOWx1T0RZd3VRWk9PbTJFMlhaOEFPU1g4YnZ3cXUxRkMtX3VPQlprNzdnMnZmVGR6MGwyMndJZXNsem91YW1TLVdNSXBpYXIzNkJMeWRZanE0THVfTTU0YUY3WlZBclBaQ1lHUnNyYWNnNDJ4MTZROTlWeWZIVmdDRXVOenhN0gGjAUFVX3lxTE9TUm9hWkl1Qk5MNUN1N3RGSC1tS1ZELVlwU3FoWmI5bHVPRFl3dVFaT09tMkUyWFo4QU9TWDhidndxdTFGQy1fdU9CWms3N2cydmZUZHowbDIyd0llc2x6b3VhbVMtV01JcGlhcjM2Qkx5ZFlqcTRMdV9NNTRhRjdaVkFyUFpDWUdSc3JhY2c0MngxNlE5OVZ5ZkhWZ0NFdU56eE0?oc=5>
+
+### Xi, Peng Liyuan Visit U.S. National Archives with Trump and His Wife
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: All China Women's Federation
+- 时间: 2026-09-26 11:09
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9TSnhpa09mMURHVE5YYlZXdXo1em9vV1JJdGs5VUJ3aHR6TmZSbFlHcXV6ZjJ5V1FYR2VUT2gyYWNaT0t0RVhBNWxUUnlQb0V6dUFlb0ZZT0N5R05JNmNEcV9FU25obG5DcU1sODlDb3ZMUHVCNjVnSg?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-26 14:38  (15 条)
+
+- **周杰伦** | 周杰伦夜里11点约吴尊打网球周杰伦演唱会吴尊点歌算什么男人 <https://k.sina.com.cn/article_6294758863_m1773265cf03301cpgo.html>
+- **周杰伦** | 周杰伦后续巡演计划有哪些城市 <https://k.sina.com.cn/article_7879776356_1d5abd86406801605u.html>
+- **周杰伦** | 周杰伦南京演唱会连唱42首，刘畊宏惊喜助阵 <https://k.sina.com.cn/article_7879776356_1d5abd86406801605e.html>
+- **特朗普** | 习近平和彭丽媛同美国总统特朗普夫妇茶叙 <https://news.google.com/rss/articles/CBMib0FVX3lxTFByNUFNWGdPWE9sUFZkMlBLVEJlSTRwbGwteVlna1JzQkxDY3BmblptbnVrSE5WTWtXSDhhQldWcWlSd3Rvd3pjOS0yck9iUDJ2ZEU1YWlRZTNKcHctdVVUZjVtTmZIWnhZUUVKUFQ0Yw?oc=5>
+- **特朗普** | 特朗普感觉良好，但共和党慌了：中期选举咋办 <https://news.google.com/rss/articles/CBMic0FVX3lxTE9UMWQzLWFfX1lEeVNJR1A1anE2bktvelNiV2lkRDZJU0hMVHdzUk1wdTdILVJrMWFvM2Ezck9XbWhOUXdpMzA1cGtTeUR3TWw4MnlnZVpWektIMmpUR2V5MjFfMmhwUXg0Z2ZyWUIyR01wUmM?oc=5>
+- **特朗普** | 拒绝伊朗重开霍尔木兹海峡提议，特朗普被曝拟中期选举后重启军事行动 <https://news.google.com/rss/articles/CBMihgFBVV95cUxQOVJwcG1pbnRPN0lKNUdjNGxNOTVCbzNqaWgxLXRuM2pQS2xKMG44SUdyNjk1UVROTVd5OWFMZmpvcWprcEtEM1Nsb0NiS09nRHRsU2RMY0o0SGZOYzFLUl8yWHg3Ni1NUWFFMFZtd2J3NG8wcnZZeWRzcjl3d1hmVUZFTGxjZw?oc=5>
+- **特朗普** | 特朗普称拒绝伊朗重开霍尔木兹海峡的提议 <https://news.google.com/rss/articles/CBMiXkFVX3lxTE0yM1FzbEtHdjlSbmd0OXozTFZPMW4wUENldGMzaFozeEhxbzNJWDdMVFJjV1NFZGNaUjZGQ1VZX1dRM1ZzRFEtUi1Fa3JNRHFOUk5PMk9uN1ZVTE4wN0E?oc=5>
+- **特朗普** | 特朗普两度提及“中国皇后号”，中美经贸往来从广州开启 <https://news.google.com/rss/articles/CBMi0AFBVV95cUxPci1iUU9mTHM2SmxlSXVwR0FYaDhxQmo2S0VBQmNUVUg5OHNaeHdyWHVrNFU5a3QwLUppR3llYURXbFFaalcybWtkLVVzQkVnMTNienYwdi1MOHBGc2VyMm9lTEhMLWtDbVNOTzIzRnRaMVNMajJzUVlrMl95Rlp5RG9LTFJuTVl1RmpuWWZBdjdWcGtoenBmNkZxbWhUQ1BFd19hLVBjZlhaaF9uVUNseGl6QXZKTHBLLVNFRV9ZUDRFX2ctYnRldDVvN2taQTI4?oc=5>
+- **特朗普** | 习近平出席美国总统特朗普在白宫举行的欢迎仪式 <https://news.google.com/rss/articles/CBMilgFBVV95cUxNQzhYSWlxTXM2SC12czFEWUxFaWx6Mi14d3YtUDl3NlJYQ1BzM1U0X1JmM2hIekh3VTUyQXJ2cExfanYxWTdkRHJsOUw2RXVQMENLTEdXYnFyWHhHN1Z6cVUtLUF3R2xrSWw2Q2lDX0l1dEUybFczbW9JZjRnN2FONW9Ldm5rSU5CM1FiSThmcEVjYW9pWkE?oc=5>
+- **特朗普** | 卖微软和亚马逊、买英伟达 特朗普名下账户7月千万美元调仓细节曝光 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE12dUIwOFBqT1dmTzRoRFlBeE5JRlR2OGRBektvM3ZtMHV3elNiLWlQV2JBczNKcVZWTXpMcUppcC1yUjBfcV84Z2k0OXk3clQ3VzhyN1pKalpVUllsNWc5SWwtMS1HUQ?oc=5>
+- **特朗普** | 特朗普：美国不会对人工智能踩刹车。 <https://news.google.com/rss/articles/CBMiT0FVX3lxTFBIV0xOLVNRNDFzZ0JHRDVOOTBDSWZXNGh1bVpLWkI2eVR0VmcwTV9rdDJ4VWE5VzZKM2VTTDNBbVJ0RUppcFdHOUNmN0xVdFU?oc=5>
+- **特朗普** | 习近平和彭丽媛同美国总统特朗普夫妇茶叙 <https://news.google.com/rss/articles/CBMiYkFVX3lxTFBIWW1NNFF5bGFydmplaHNPWk8tckVuV1FvaUhWU0pXZ0JYak9mNWFRRG9oOVBmcjBiVWl3WnZlaGg4ejZ6REJrWkJlelNZTU15TFh0bEdLTk1uOE9McFluQmx3?oc=5>
+- **Trump** | 白宫发布唐纳德·特朗普总统在接待历史性国事访问之际，推动与中国建立公平互惠关系的事实清单(全文翻译) <https://news.google.com/rss/articles/CBMioAFBVV95cUxOQlluNWtERjU0cU1RNHF6azQwTjFveHlsZXpjcXBWaENhUlVaZ3ZRZW5sd3A4SlA3Yjhvd1dnUm5uYW1Fblo0LXVINi1wODFQTWFXcXdLbGtRMUJrV2RaaUlTMTlWTTNsX3dpMTlaamo2X3o5dm9MQnBuc3J0X0FmdnFYSm1HSi03WGwxNm5FdG55ZmxiSTJleUdCMy0wd3Zq0gGjAUFVX3lxTE9TUm9hWkl1Qk5MNUN1N3RGSC1tS1ZELVlwU3FoWmI5bHVPRFl3dVFaT09tMkUyWFo4QU9TWDhidndxdTFGQy1fdU9CWms3N2cydmZUZHowbDIyd0llc2x6b3VhbVMtV01JcGlhcjM2Qkx5ZFlqcTRMdV9NNTRhRjdaVkFyUFpDWUdSc3JhY2c0MngxNlE5OVZ5ZkhWZ0NFdU56eE0?oc=5>
+- **Trump** | 白宫发布唐纳德·特朗普总统在接待历史性国事访问之际，推动与中国建立公平互惠关系的事实清单(全文翻译) <https://news.google.com/rss/articles/CBMiowFBVV95cUxPU1JvYVpJdUJOTDVDdTd0RkgtbUtWRC1ZcFNxaFpiOWx1T0RZd3VRWk9PbTJFMlhaOEFPU1g4YnZ3cXUxRkMtX3VPQlprNzdnMnZmVGR6MGwyMndJZXNsem91YW1TLVdNSXBpYXIzNkJMeWRZanE0THVfTTU0YUY3WlZBclBaQ1lHUnNyYWNnNDJ4MTZROTlWeWZIVmdDRXVOenhN0gGjAUFVX3lxTE9TUm9hWkl1Qk5MNUN1N3RGSC1tS1ZELVlwU3FoWmI5bHVPRFl3dVFaT09tMkUyWFo4QU9TWDhidndxdTFGQy1fdU9CWms3N2cydmZUZHowbDIyd0llc2x6b3VhbVMtV01JcGlhcjM2Qkx5ZFlqcTRMdV9NNTRhRjdaVkFyUFpDWUdSc3JhY2c0MngxNlE5OVZ5ZkhWZ0NFdU56eE0?oc=5>
+- **Trump** | Xi, Peng Liyuan Visit U.S. National Archives with Trump and His Wife <https://news.google.com/rss/articles/CBMieEFVX3lxTE9TSnhpa09mMURHVE5YYlZXdXo1em9vV1JJdGs5VUJ3aHR6TmZSbFlHcXV6ZjJ5V1FYR2VUT2gyYWNaT0t0RVhBNWxUUnlQb0V6dUFlb0ZZT0N5R05JNmNEcV9FU25obG5DcU1sODlDb3ZMUHVCNjVnSg?oc=5>
 
 ### 2026-09-26 10:02  (25 条)
 
