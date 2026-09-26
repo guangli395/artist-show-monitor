@@ -1,124 +1,115 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-26 18:13**
-- 本轮扫到 12718 条, 新增 **16** 条
+- 最近更新: **2026-09-26 21:21**
+- 本轮扫到 12730 条, 新增 **12** 条
 
 ---
 
-## 本轮新发现 (16 条)
+## 本轮新发现 (12 条)
 
-### 周杰伦南京演唱会的现场点歌环节怎么参与？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923375_1d5ae16af068020q9e.html>
-
-### 周杰伦南京演唱会为什么邀请刘畊宏担任惊喜嘉宾？
+### 周杰伦南京演唱会的门票还能买到吗？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923375_1d5ae16af068020q9c.html>
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801lq02.html>
 
-### 周杰伦南京演唱会“爱在南京”主题有什么特别设计？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923377_1d5ae16b106801cdm2.html>
-
-### 周杰伦南京演唱会点歌环节如何被抽中？
+### 周杰伦南京演唱会点歌环节有哪些曲目？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923377_1d5ae16b106801cdm0.html>
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801lq04.html>
 
-### 周杰伦南京演唱会刘畊宏同台合唱了哪几首歌？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923377_1d5ae16b106801cdly.html>
-
-### 周杰伦南京演唱会现场舞美有哪些特别设计？
+### 周杰伦南京演唱会刘畊宏合唱了哪些歌？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923118_1d5ae15ae06801pilw.html>
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801lq00.html>
 
-### 周杰伦南京演唱会后续场次还会有神秘嘉宾吗？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923377_1d5ae16b106801cdlw.html>
-
-### 周杰伦南京演唱会点歌环节观众点了哪些歌？
+### 周杰伦南京演唱会后续还会加场或巡演吗？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923118_1d5ae15ae06801pilu.html>
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801lpzy.html>
 
-### 周杰伦南京演唱会连唱三晚，刘畊宏惊喜同台
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923118_1d5ae15ae06801pils.html>
-
-### 周杰伦南京演唱会中秋特别献唱《城里的月光》 “今天要不唱点月亮有关的歌”网友感慨：时隔20年又唱起这首歌，周杰伦的歌把我
+### 周杰伦南京演唱会燃爆，刘畊宏惊喜同台合唱
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002s2lk.html>
+- 链接: <https://k.sina.com.cn/article_7879923375_1d5ae16af068020q9a.html>
 
-### 特朗普总统拒绝伊朗有关有条件开发霍尔木兹海峡的提议
+### 周杰伦夜里11点约吴尊打网球周杰伦演唱会吴尊点歌算什么男人
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-09-26 16:53
-- 链接: <https://news.google.com/rss/articles/CBMitwFBVV95cUxPXzBTWkwzZXVyVHhCMWRmM2gxbXJaaHlLdnQxeDFaOEU1aGxNVmotRndnZG1zdlpILXBleXg0dHpPWHBZa0d0LVBiUkNqeXJPVDlKTmFqdWthVDVGUktwbzlBVVR6X1R4eUg2cHhndWZLNy1LeER5X2d1RFRwOWlIN2tsRS1nSFBpRkRReGxuVkpveGtLX0tfMC1VQ1FsdUQxbDgtVFlUM1hlQXZJTGtfaDZQZkYwVE3SAboBQVVfeXFMT2Y2NHBXWVh0TnJiWDI2ZEI2Rl9MeUhOak9UQ2NNXzdCeUhJS2J5aXl0blNVWFZhb2x5Z3N2dGx4N2JqY3RBdjFQZ2UzZkx3M3JSS3hFVjA5elJ2T0RtYWRmV2dJT2VQZ01oRWI4SWNZOFh4RjRwZXBOZ19QeVRKV3VDdE5SXzRXYjA2c3JfWGFaQUNIWHAtWmk3aUxLbTZIempQajVtWGRHcFdVN0J3ckc2NXk0b01QSmFB?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://video.sina.com.cn/p/finance/2026-09-26/detail-initemqw0273575.d.html>
 
-### 特朗普拒绝伊朗提议
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-09-26 14:13
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1jQXdndU1hak1QNVcwSUphZERSbHVRMGJyUXN4eklFaDZSV29ucmh2UU4zZVhBdUgyVDh6M0dtWVBoOTF3QUp2TEgxSTY?oc=5>
-
-### 美媒：特朗普拒绝伊朗 七日内重开霍尔木兹海峡提议
+### 特朗普称美国和古巴会达成协议
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-09-26 17:35
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5tRTZNWTltWjFsYVNGYVowdmxYaVN4cVZrbUhCeFg1RGMxeUJOV3V3VnJuVjRnM3pCT3lIQjAzLWVORjhqbXNtY29lMVlBbVMzQzgwTXBaa0lqTWlDQXZ4SF9oSmd6azJ1Mm1xUHJoVW53WmttN3RfXw?oc=5>
+- 时间: 2026-09-26 19:39
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5hbFpXeVZiNWk3b2xIdjVhUU9LZWtYcFhzUXh0ejcwNkxReHBjVDJ5SWw3R0lrTVRva3g0aFBnXzJTTGlPME4tcnZ0UQ?oc=5>
 
-### 消息人士：在特朗普拒绝伊朗提议后，美国参谋长联席会议审议下一步行动。
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-09-26 17:22
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9LdlllZXZELXlDY1lkTGJSQURuRm0tWjdBYVphNE54Ny05cGUtZnIxZjV4RTV4T0E0MkJCNTcxM0w0VG96WjhrN2Zldw?oc=5>
-
-### 特朗普演讲中致敬中国五千年历史 提及中美传承传统
+### 特朗普：已批准旨在终结电动车强制令的新燃油经济性标准
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-09-26 15:45
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9uSktuR2l3WEY0T3JRRHlKOHFDM1g4TkZraGpkRlVHdTViMGNBLS1Yc2RsSDc1UUplbTJsbDZSRTZzYmR5SGNFcXh6Rm9OWEhhY29henh3c0ZrcTZDTnV1TU1PdzFKdWJVRTdaNnRwZnQ?oc=5>
+- 场馆: video.sina.com.cn
+- 时间: 2026-09-26 19:33
+- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxPQzdyX2tVYW9tek15dm03ZWFndThINGhIQlhxMXdYbnFyOGxPYnRVUEhsMVZUQTJHTUxiWG1NRDJqS3BIeG1vNlhONTNtemlmMVN1c09wZ2Y4YnY3OG9IX1A3RGFJeHZRelF5eUx2V3ZqNnFSZ1N5NVVPQkxtQ1pUejJn?oc=5>
+
+### 在美国总统特朗普举行的欢迎宴会上的祝酒辞
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 人民日报
+- 时间: 2026-09-25 22:48
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE5LeUhOM3cxV1UzQU80M0NfTjFDY2xZM0dEQmYybFE3a2t2WV9mOUwzdUpGVDZHd3d1ZFlMLUVKYVhweHlCel9uMUNFM0dyQkVVcFc3cmFQX2NTVEp1WWdqWjJ4THNTWXBXRC13YXE2bjVDTWJINFh4ZmZHZGZVbE0?oc=5>
 
 ### 特朗普两度提及“中国皇后号”，中美经贸往来从广州开启
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-09-26 11:55
-- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSXlzUUcyTkFtOFBycGhPa3dXU2x3cWJhcGhMc3c5ams5MmprZzg1UnFQUG5sbTJpQXBlV18zb19GLXF5QUgwa200Ti1Nc0ZOd2RVRFg2YnR6MG5lMUdwZzBPc1hiYkNTbkRVdEFOZWdEd29Yd0xHcl9DbE15V0VwYjJvLXpnaW5jSlpOMkxYa2R6M3VWcm1pWXFDRE9tWkN1SGEwVHNRaXF6aF9zVUhjS2gwaS1jY0NjUzdDb3lBMGNaWWtIX2MzWjBQbXRSRXVITFE?oc=5>
+- 时间: 2026-09-26 19:39
+- 链接: <https://news.google.com/rss/articles/CBMi-AFBVV95cUxQb0JJSmlVZm8tS1p4WWdUcFpVaklydGhyY0g5WnBYMW9QZGJ4XzNxRkYyQjY1UkhxYTNGRUxwQ3lzVF96cFUzaERWMWwzcE9pMHphNzRLOGdqdUM2bkRTdkZ0YUFfU2huUG5kVW11UVd0S2pyRnZ0MFhnYXpBejZodXc0THFfRy0ySGdUQllyNGE4UWxWbTZ4bW5ETEM4OFY5LWhvWWdWR2x4NDNSNjBIaWFGbGhOWlVNVlFkeUpNYnlfR1NXQmVZNFhVMDhENGF5eEwwNHRGOEdlb3VlVHJ3ZDdTWlRHNF9JZVFNRW5RUjVYWjNrU29MbQ?oc=5>
+
+### 特习峰会后，日本首相高市早苗证实与特朗普总统通话，重申美日合作
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: voachinese.com
+- 时间: 2026-09-26 18:17
+- 链接: <https://news.google.com/rss/articles/CBMiwwFBVV95cUxOb0hiWHB5TkNxazY4dU1fdWxQNzRHcVVwc2lkNnRibEs5Mi02Z2k3eHBpVDdIUHlieUpRNWE2bFl1Z1NreDZUR045eklaYUx5eGZPbHRaQ1YwU2pvU3h2N2dnZGZEY2xUZm16Nms4czgwQUk3ckVOdVp4bTFLblp5dXNVQTNkZzRRS2RrT19SS0NBZWtmY0VzQzNENkNZREZJUm9RVmprSll6eGJXY2Q2TVpoSVUxYjFtVGlpejZjWTRLUXfSAcYBQVVfeXFMT05iRXFoOEw2aWlyWGVHSEpDR1FCSmZEdGI4aUM4OHRtVGVfMU5XQi1lV2lhOXRyX3paWFRaYVlfWnlSSksyNXl6NkNWdlE3WFlhQVNET1NlMzl6ZDZKcUxnMHRuUFdqdi03bUJwb21UZ2l4dDktX3FnRlRaN1VZMnpJRFo4RXFfMlFYekRfSEJvLXVDdDdGNGZpVmN3UmRwOU5TcVFWaW1ZaHJJc2xYNWhzX3pKR2hXemJ1cWlSaTd3YmxlNmN3?oc=5>
+
+### 习近平和彭丽媛同美国总统特朗普夫妇共同参观美国国家档案馆
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: court.gov.cn
+- 时间: 2026-09-26 08:19
+- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE4yRTh5S3QxRnRaeGhnalIwajVuQ0x4ZE12ZWlaYU1XZFhZQmo2VVNELUJNYUpHX1F3bEN2WHRoTG13S3hqVkF3UjNzQVBPb19SdkZ6X3N5YUktNUNuWlVpMTR3?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-26 21:21  (12 条)
+
+- **周杰伦** | 周杰伦南京演唱会的门票还能买到吗？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801lq02.html>
+- **周杰伦** | 周杰伦南京演唱会点歌环节有哪些曲目？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801lq04.html>
+- **周杰伦** | 周杰伦南京演唱会刘畊宏合唱了哪些歌？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801lq00.html>
+- **周杰伦** | 周杰伦南京演唱会后续还会加场或巡演吗？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801lpzy.html>
+- **周杰伦** | 周杰伦南京演唱会燃爆，刘畊宏惊喜同台合唱 <https://k.sina.com.cn/article_7879923375_1d5ae16af068020q9a.html>
+- **周杰伦** | 周杰伦夜里11点约吴尊打网球周杰伦演唱会吴尊点歌算什么男人 <https://video.sina.com.cn/p/finance/2026-09-26/detail-initemqw0273575.d.html>
+- **特朗普** | 特朗普称美国和古巴会达成协议 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5hbFpXeVZiNWk3b2xIdjVhUU9LZWtYcFhzUXh0ejcwNkxReHBjVDJ5SWw3R0lrTVRva3g0aFBnXzJTTGlPME4tcnZ0UQ?oc=5>
+- **特朗普** | 特朗普：已批准旨在终结电动车强制令的新燃油经济性标准 <https://news.google.com/rss/articles/CBMiggFBVV95cUxPQzdyX2tVYW9tek15dm03ZWFndThINGhIQlhxMXdYbnFyOGxPYnRVUEhsMVZUQTJHTUxiWG1NRDJqS3BIeG1vNlhONTNtemlmMVN1c09wZ2Y4YnY3OG9IX1A3RGFJeHZRelF5eUx2V3ZqNnFSZ1N5NVVPQkxtQ1pUejJn?oc=5>
+- **特朗普** | 在美国总统特朗普举行的欢迎宴会上的祝酒辞 <https://news.google.com/rss/articles/CBMif0FVX3lxTE5LeUhOM3cxV1UzQU80M0NfTjFDY2xZM0dEQmYybFE3a2t2WV9mOUwzdUpGVDZHd3d1ZFlMLUVKYVhweHlCel9uMUNFM0dyQkVVcFc3cmFQX2NTVEp1WWdqWjJ4THNTWXBXRC13YXE2bjVDTWJINFh4ZmZHZGZVbE0?oc=5>
+- **特朗普** | 特朗普两度提及“中国皇后号”，中美经贸往来从广州开启 <https://news.google.com/rss/articles/CBMi-AFBVV95cUxQb0JJSmlVZm8tS1p4WWdUcFpVaklydGhyY0g5WnBYMW9QZGJ4XzNxRkYyQjY1UkhxYTNGRUxwQ3lzVF96cFUzaERWMWwzcE9pMHphNzRLOGdqdUM2bkRTdkZ0YUFfU2huUG5kVW11UVd0S2pyRnZ0MFhnYXpBejZodXc0THFfRy0ySGdUQllyNGE4UWxWbTZ4bW5ETEM4OFY5LWhvWWdWR2x4NDNSNjBIaWFGbGhOWlVNVlFkeUpNYnlfR1NXQmVZNFhVMDhENGF5eEwwNHRGOEdlb3VlVHJ3ZDdTWlRHNF9JZVFNRW5RUjVYWjNrU29MbQ?oc=5>
+- **特朗普** | 特习峰会后，日本首相高市早苗证实与特朗普总统通话，重申美日合作 <https://news.google.com/rss/articles/CBMiwwFBVV95cUxOb0hiWHB5TkNxazY4dU1fdWxQNzRHcVVwc2lkNnRibEs5Mi02Z2k3eHBpVDdIUHlieUpRNWE2bFl1Z1NreDZUR045eklaYUx5eGZPbHRaQ1YwU2pvU3h2N2dnZGZEY2xUZm16Nms4czgwQUk3ckVOdVp4bTFLblp5dXNVQTNkZzRRS2RrT19SS0NBZWtmY0VzQzNENkNZREZJUm9RVmprSll6eGJXY2Q2TVpoSVUxYjFtVGlpejZjWTRLUXfSAcYBQVVfeXFMT05iRXFoOEw2aWlyWGVHSEpDR1FCSmZEdGI4aUM4OHRtVGVfMU5XQi1lV2lhOXRyX3paWFRaYVlfWnlSSksyNXl6NkNWdlE3WFlhQVNET1NlMzl6ZDZKcUxnMHRuUFdqdi03bUJwb21UZ2l4dDktX3FnRlRaN1VZMnpJRFo4RXFfMlFYekRfSEJvLXVDdDdGNGZpVmN3UmRwOU5TcVFWaW1ZaHJJc2xYNWhzX3pKR2hXemJ1cWlSaTd3YmxlNmN3?oc=5>
+- **特朗普** | 习近平和彭丽媛同美国总统特朗普夫妇共同参观美国国家档案馆 <https://news.google.com/rss/articles/CBMiYkFVX3lxTE4yRTh5S3QxRnRaeGhnalIwajVuQ0x4ZE12ZWlaYU1XZFhZQmo2VVNELUJNYUpHX1F3bEN2WHRoTG13S3hqVkF3UjNzQVBPb19SdkZ6X3N5YUktNUNuWlVpMTR3?oc=5>
 
 ### 2026-09-26 18:13  (16 条)
 
