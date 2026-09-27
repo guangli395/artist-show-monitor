@@ -1,80 +1,80 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-27 14:46**
-- 本轮扫到 12757 条, 新增 **8** 条
+- 最近更新: **2026-09-27 18:50**
+- 本轮扫到 12764 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (7 条)
 
-### 在特朗普拒绝后 伊朗坚持其重开霍尔木兹海峡条件
+### 周杰伦看完南京演唱会，小鹏汽车车位到车位零接管回合肥
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: rfi.fr
-- 时间: 2026-09-27 12:45
-- 链接: <https://news.google.com/rss/articles/CBMi6AJBVV95cUxPS0lDbWRtbHRaQ2lhU3diNFJvaFktUEd6T29MVXN2NnJDM1BzbTRCRmp1dldBVHFmUGVsdHR6a0pzeVgxTHJBMEdkZ2FXRG1rNzBudjZSdV9rc0oyU3F1MkNTbjd0V1JuTzNGMkRiem5ScTlMRHV4amNaLVdkdWJFYzRrR0ZraUFzRG8zU3N5Ry1pQUVQNmpTVVcybU5teS15dzY0Q241dVNmSElXYm9sR2pjX2R4Wi16dWRZMThOeFdkUC04clZFUXRQWDNZelVJSFRIQUdRMENHWlJ6aXBhOTlnTUNrcWV4cU9jN0tRLXJ3SmdheGpSQ1R0REdCTzdxWF9xVUV0ZFR6ZEI5UkVwaWZXNVAzRGJRTE9xODhQakxMTEtWbjRsWmxyOTdDQzBQUXozZS1ZQzNtTnVYRXJnZUtyUHJ5ekhMeDhWUFRyejJMNEVITndfR3QySWlVdFRUNHAwZHBqWjk?oc=5>
-
-### 特朗普称美国和古巴会达成协议
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-09-27 07:08
-- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ1RWVkpQVExUc0NaYVJEWGlvczlFcVZRaWtaNWI2bTNhODZZb0ljMHpwOV82ZElkVWlrcGVDRFhiWW5vVmdmdUd4c3RBbnpaNmRIT1RvSG96cnpKYWhtTmF3SFdIY0xSX0pGNzhrT2d4SUZsWWRlN0lCSU1SNG9GSzlyUF90Qmp0MU8yZ2U3N3hJcE5RU0tDUnZaV0NGVWc2?oc=5>
-
-### 特朗普两度提及“中国皇后号”，中美经贸往来从广州开启
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-26 11:55
-- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxOTUFoYXpVTE9TZG9jci15QkFiVldPRkpkWnJZa3FjLWJLTFB1VTg1aGQ0Z1lldHFRbHJRdzZpd3BDS2otRnZpQU11VTRsSUlEbXpaUjJka1RrelF3b2pLZmJINVlfUGZLRkRCT1dsRElCbld0QzhhODVpa1JZVF9tbGtOSVZsYzJGVm9OX1h6dUpTemk2ZF9lTzNORDdKUXNVblFQYnFzeFYzNkhvUkFsTTljWkVlaTQtLUc0OFFySGY3ODlpNUpWVExiY0hnU2s?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879924057_m1d5ae195903301n4io.html>
 
 ### 白宫前新闻秘书爆料：特朗普曾跑到英国“教训”斯塔默，后者只是坐在那里
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-09-27 10:01
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE8tQ2V1X3FuRlRXYVk3Z1ZHNWdWNnBydGp4UGJuYUxQSXVrRmRQVXZJNGZqYUJveEV5ZkVGV19yZG9FLXVYY0VrQU5XSXRKZUN3cER5aENRZXJ5WWtVbm54Qg?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-09-27 15:01
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5sQ2R0a1k1Q1BSbzNMb19fVm5SY3hqQ2xJSFFNeENtVTk2ZThVWXRLWUNsd0FqNlFDNlFpanc5c09JUUl4MTl3c0R4WmdvQkJJcWhpSlY4SGxvSWdZLUJPY2YxMFJhV2phRmxiUGdVSHE?oc=5>
 
-### 特朗普现身一橄榄球比赛现场 看台反应复杂多样
+### 特朗普两度提及“中国皇后号” 回顾中美经贸历史纽带
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 中华网
-- 时间: 2026-09-27 12:13
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE11YnNNc0J1bTA4aEwwNHN6aE1QRlRHYklKOTN3blZiektTRm9TVzhaaS1EQUxBeUJUelZhSUZXdUpqQlk0am9TVEJyVnRBRVhaaERTX0ZWQWUwOHFibTFLTVI0TXZGMWVBb3VRek9lcXc?oc=5>
+- 时间: 2026-09-27 09:38
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9aZklNRWZkVmhXQVlHczY5NndZMEFfWFh1QW1OZHhiMHZXekhjXzZhTEM0eGZObnBqODBhb1VzYk1NUjZva1JDcWZzc1otWHdfWjVGckpmM1cxSGZzMmFXRlFMbEhxMGJ0alFVcjZfSWE?oc=5>
 
-### 刚刚，美国总统特朗普说了不，下周或将迎巨震！
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-09-27 08:37
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxPQ1Fmd2NSdkNHbjJBVVRVMWtWRWFmWXdyQVNBWVpvZXEtSFZnaDE5MnhMaEpGZHdFMmZoSWFUVy1yQUdnaWpwUTJLNEpaV180UVhBU01fSVJfTWQzdW9pN2RHa2tWLV8ydFVCbVhEcTF1MHdZUjE3eHVxVDg1ZWVzbFR4RnhUdGpURHN2cA?oc=5>
-
-### 特朗普称与习近平会谈时提及台湾
+### 彭丽媛同美国总统特朗普夫人梅拉尼娅参观国立亚洲艺术博物馆
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: rfi.fr
-- 时间: 2026-09-26 21:10
-- 链接: <https://news.google.com/rss/articles/CBMikwJBVV95cUxNczdUelo4SUVyUGEtb2F1bWtUZXhrUUFycTJPMTFuLWN2dGJNZXhWUFpKak1EZVNpSnN0NlBEbUtOcld6Z2JrTGY0RkkzNktFZ19SVXloV1FQOGlBVjI0aVlOT3BvMHRHdDBNbXBMelhxcG1Pd3lSUEhDSENXaVVvb2RmcFN5c3U5MmFzM21zdm5SQ0tXcDBadVNia3FGZ015WlhOQ1VNV2JWMGp0aXJMSGNBUE02ZWl1dGsyeFB5bjRIRng0TmVhcGk3RVZpSzh1LVhrU0F0cXF2RUZfbWNBYzBKSEpfWlMyakRPUEtzalJ1UU1fb3J2dEJ2eWd1bk1Tay1wdmVQOUszS1hDT3hoUkNHSQ?oc=5>
+- 场馆: 北京市人民政府外事办公室
+- 时间: 2026-09-27 15:20
+- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTE9LaE5IWU9rUUFLaWxjN0NXR0pxYTg2SWhYakJicGMyLS0zTjFaOHVfNVBDSXpKRUYtcHpiOUQtSzFZMUxCNV9HWFJEREpFNnBoOHBDTzczeFh3V1NOdUdnZVcyTjRJWkIyZE9vOThPcFZVZXd2ZTdFQU45OA?oc=5>
 
-### AI Is the Real Drama of Thursday's Trump-Xi Talks
+### 特朗普总统证实特习会简短谈及台湾，美台双方都强调美对台政策不变
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-09-24 00:03
-- 链接: <https://news.google.com/rss/articles/CBMilwFBVV95cUxNRTQwcjE0amgyMld0MGJsNTZvTWtfU28weUNLclVIQTV3VmltbWFQVTJGdEp1Nld2RUJxdU1UR25tZWR1SHhPNERQSDRHOXVzaE5ZS2FPZzZJR1hDYks0bGVJU2Z5bERXdHZPY0VGRFJBdXdHVDhkd1Q4cm9pRkJMeXFCQ0NESjNpN25mZnU3T0lXQUdFQWxR?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-09-27 16:43
+- 链接: <https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMzZ6YlRIOThkVlczRlZKUzZDeHZ4MFo1bzhlSTJlRXFpNGtNTjZpSzgydjY3UmNtQ3hFel9Pa014Rmd4VDNqWlhGRzBMQ0NFWUY1UkZDUldMbWtsRHVYOWpyc1VfaHdaMTFIUjE1OE5HR0lCNDlFSUVBWnZNNUw2MV8yYlZWWWs3dWZXdnY2NjU0eDY5VXhuWG4zODhpUEFMaW9ERUFWaVdyZm5pMlFrdlU5Z3drUzVKUkFtUTFodG1KblHSAcYBQVVfeXFMT1pHQWFLOU5icDB5WXMzVXlFTGRybzRNUy1aUW94cnZ4U3h5bVFOVWEyWmp5VnBRSjAtbi1iTHNLVXhRalYtOEJVRDVEVF9XQjNaVXplOExnT202TDV6VEVoY2ktTWE1UzJ2U2xhVmV2aDlUR1NvVV9sZHlvRzVUempLS19oSjcxRFFhNm5EcE1qZW4zUlA5bklRZE5ZM2lCUXQzSW5KbEJwSlBiRkFrRTFwTzNCY09tWkFlVy1DeHluQ2V1bU1R?oc=5>
+
+### 分歧深重、协议落空，习特会蒙上阴影
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-09-26 00:41
+- 链接: <https://news.google.com/rss/articles/CBMikAFBVV95cUxOXzNFa2N0SHdRaDJ5cGVBcHNfNnpxel9JSWRwR003NFBFTEVOaU9NX0daRHNyeTg5emdJbDhBcE5VVXFzVmdoMHFZSnJXdWhLQ3I4VkZuckR5Z2kzMnhzd0ctc3Nsb001dUZHRHdlakdhWTlJUk5iOTRTWUFWNEVPSkpsRUxISGM5U3E3MjVTTTI?oc=5>
+
+### 特习会落幕：中国官媒看到“大船”，西方媒体看到“筹码”
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-09-25 20:30
+- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxQSjA3R1lGQUU3REFpNldGVmlieFZ4NkQteTFMemdvaWg0cnVzeWRhZnAyQjdvMTItd1NOem1XaXYzVldTdExzNjhlc1FPZXZMTTNqbjlvRXFnZ1Z5VjRhSFRycW1BUV9Sa3VyZlpyZnpIVEJNSWk3RXNCMENVUDZta1dyY1MxbHg5UW1Ta29wSHc1MDc40gGXAUFVX3lxTE02RG5FM3RIV3BDTTNreVoxS1lQZElteU1pV2hNdXNqUzgzaUVsM3dHMVBRU1FmOVVuZ241ZW82SlJXRW5HX2VVOUxNQnFUZFhDLTVlXzNad1VMUVJhaTZTTDRDOVRMQUFabE0xSlRLRDhoY09EX2xEeFJsbG9EYTFKck4ycHRlaEl0MGtSLXVEUHFpWUlmSU0?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-27 18:50  (7 条)
+
+- **周杰伦** | 周杰伦看完南京演唱会，小鹏汽车车位到车位零接管回合肥 <https://k.sina.com.cn/article_7879924057_m1d5ae195903301n4io.html>
+- **特朗普** | 白宫前新闻秘书爆料：特朗普曾跑到英国“教训”斯塔默，后者只是坐在那里 <https://news.google.com/rss/articles/CBMicEFVX3lxTE5sQ2R0a1k1Q1BSbzNMb19fVm5SY3hqQ2xJSFFNeENtVTk2ZThVWXRLWUNsd0FqNlFDNlFpanc5c09JUUl4MTl3c0R4WmdvQkJJcWhpSlY4SGxvSWdZLUJPY2YxMFJhV2phRmxiUGdVSHE?oc=5>
+- **特朗普** | 特朗普两度提及“中国皇后号” 回顾中美经贸历史纽带 <https://news.google.com/rss/articles/CBMicEFVX3lxTE9aZklNRWZkVmhXQVlHczY5NndZMEFfWFh1QW1OZHhiMHZXekhjXzZhTEM0eGZObnBqODBhb1VzYk1NUjZva1JDcWZzc1otWHdfWjVGckpmM1cxSGZzMmFXRlFMbEhxMGJ0alFVcjZfSWE?oc=5>
+- **特朗普** | 彭丽媛同美国总统特朗普夫人梅拉尼娅参观国立亚洲艺术博物馆 <https://news.google.com/rss/articles/CBMie0FVX3lxTE9LaE5IWU9rUUFLaWxjN0NXR0pxYTg2SWhYakJicGMyLS0zTjFaOHVfNVBDSXpKRUYtcHpiOUQtSzFZMUxCNV9HWFJEREpFNnBoOHBDTzczeFh3V1NOdUdnZVcyTjRJWkIyZE9vOThPcFZVZXd2ZTdFQU45OA?oc=5>
+- **Trump** | 特朗普总统证实特习会简短谈及台湾，美台双方都强调美对台政策不变 <https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMzZ6YlRIOThkVlczRlZKUzZDeHZ4MFo1bzhlSTJlRXFpNGtNTjZpSzgydjY3UmNtQ3hFel9Pa014Rmd4VDNqWlhGRzBMQ0NFWUY1UkZDUldMbWtsRHVYOWpyc1VfaHdaMTFIUjE1OE5HR0lCNDlFSUVBWnZNNUw2MV8yYlZWWWs3dWZXdnY2NjU0eDY5VXhuWG4zODhpUEFMaW9ERUFWaVdyZm5pMlFrdlU5Z3drUzVKUkFtUTFodG1KblHSAcYBQVVfeXFMT1pHQWFLOU5icDB5WXMzVXlFTGRybzRNUy1aUW94cnZ4U3h5bVFOVWEyWmp5VnBRSjAtbi1iTHNLVXhRalYtOEJVRDVEVF9XQjNaVXplOExnT202TDV6VEVoY2ktTWE1UzJ2U2xhVmV2aDlUR1NvVV9sZHlvRzVUempLS19oSjcxRFFhNm5EcE1qZW4zUlA5bklRZE5ZM2lCUXQzSW5KbEJwSlBiRkFrRTFwTzNCY09tWkFlVy1DeHluQ2V1bU1R?oc=5>
+- **Trump** | 分歧深重、协议落空，习特会蒙上阴影 <https://news.google.com/rss/articles/CBMikAFBVV95cUxOXzNFa2N0SHdRaDJ5cGVBcHNfNnpxel9JSWRwR003NFBFTEVOaU9NX0daRHNyeTg5emdJbDhBcE5VVXFzVmdoMHFZSnJXdWhLQ3I4VkZuckR5Z2kzMnhzd0ctc3Nsb001dUZHRHdlakdhWTlJUk5iOTRTWUFWNEVPSkpsRUxISGM5U3E3MjVTTTI?oc=5>
+- **Trump** | 特习会落幕：中国官媒看到“大船”，西方媒体看到“筹码” <https://news.google.com/rss/articles/CBMilAFBVV95cUxQSjA3R1lGQUU3REFpNldGVmlieFZ4NkQteTFMemdvaWg0cnVzeWRhZnAyQjdvMTItd1NOem1XaXYzVldTdExzNjhlc1FPZXZMTTNqbjlvRXFnZ1Z5VjRhSFRycW1BUV9Sa3VyZlpyZnpIVEJNSWk3RXNCMENVUDZta1dyY1MxbHg5UW1Ta29wSHc1MDc40gGXAUFVX3lxTE02RG5FM3RIV3BDTTNreVoxS1lQZElteU1pV2hNdXNqUzgzaUVsM3dHMVBRU1FmOVVuZ241ZW82SlJXRW5HX2VVOUxNQnFUZFhDLTVlXzNad1VMUVJhaTZTTDRDOVRMQUFabE0xSlRLRDhoY09EX2xEeFJsbG9EYTFKck4ycHRlaEl0MGtSLXVEUHFpWUlmSU0?oc=5>
 
 ### 2026-09-27 14:46  (8 条)
 
