@@ -1,70 +1,73 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-27 18:50**
-- 本轮扫到 12764 条, 新增 **7** 条
+- 最近更新: **2026-09-27 21:48**
+- 本轮扫到 12770 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (6 条)
 
-### 周杰伦看完南京演唱会，小鹏汽车车位到车位零接管回合肥
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924057_m1d5ae195903301n4io.html>
-
-### 白宫前新闻秘书爆料：特朗普曾跑到英国“教训”斯塔默，后者只是坐在那里
+### 特朗普预计本周恢复与伊朗谈判：霍尔木兹海峡双方僵持不下
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-09-27 15:01
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5sQ2R0a1k1Q1BSbzNMb19fVm5SY3hqQ2xJSFFNeENtVTk2ZThVWXRLWUNsd0FqNlFDNlFpanc5c09JUUl4MTl3c0R4WmdvQkJJcWhpSlY4SGxvSWdZLUJPY2YxMFJhV2phRmxiUGdVSHE?oc=5>
+- 场馆: RFI
+- 时间: 2026-09-27 21:22
+- 链接: <https://news.google.com/rss/articles/CBMimANBVV95cUxOSmJZQm1qZl8wclBMcXYzNjJMcWJ2QW1icUxYcU5HWVJrakJudFF4andjc2NMZjlNeWVnU2pUSTN1dVhZQ21GUjVULXBESDFraFFuNXJRc3ZvY1gtbnN1Q1M1YVBScHlQdkpvNGdfdDFnN0FHY19PdVcwZ3ludlRKZ3pfT0ozSV81ekxjZWVPT2lacVNHRGNEUnEybVR6ektHUXIxUVE5c1ppTTNfQkZibGtHaFllemlVbXcwbXNodDktR3g0OWdJZG9TaVhaV1RmNTFfb05oRDZYdTZwOFJSY0JzdWxuRVAxWW5vUWhqLVFXNDVkUWxjX3RFREduLUx0eTU2SFNVc3pJcE5uTl9lNW5iX0ZxUDcyS1F3UVYtUVlVVDFVQm9tXy1RUXd6NC1OS3FQcWhZdmJnVUNFTl9kZG9jb3hhUDdYd2Y4SDNtYnlCYm50RFduQWxfekxQMmlQRFFwRndNMjBKQ2stLTJ5UDlNTURScW9tVWgzekRtYWdDY2JpYW1neHdQUENxRDVDdzhINXlPeEM?oc=5>
 
-### 特朗普两度提及“中国皇后号” 回顾中美经贸历史纽带
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-09-27 09:38
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9aZklNRWZkVmhXQVlHczY5NndZMEFfWFh1QW1OZHhiMHZXekhjXzZhTEM0eGZObnBqODBhb1VzYk1NUjZva1JDcWZzc1otWHdfWjVGckpmM1cxSGZzMmFXRlFMbEhxMGJ0alFVcjZfSWE?oc=5>
-
-### 彭丽媛同美国总统特朗普夫人梅拉尼娅参观国立亚洲艺术博物馆
+### 特朗普计划与Anthropic CEO共进晚餐 双方关系出现缓和信号
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 北京市人民政府外事办公室
-- 时间: 2026-09-27 15:20
-- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTE9LaE5IWU9rUUFLaWxjN0NXR0pxYTg2SWhYakJicGMyLS0zTjFaOHVfNVBDSXpKRUYtcHpiOUQtSzFZMUxCNV9HWFJEREpFNnBoOHBDTzczeFh3V1NOdUdnZVcyTjRJWkIyZE9vOThPcFZVZXd2ZTdFQU45OA?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-09-27 16:02
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9XUVRkYkNMTVpPYmxiSktob0R1MThzbGtYRnFTci1Gdkw4ZFBLZ2lUUHdQLTJSSWlxbXdVbjFCRlJobGZVU05waklzZUJIMDFxVUt1cmJ5Slp0aWFLOGVDTWZzSjR2VW8wNVlxVkRYSUE1MnEtOTNJdg?oc=5>
 
-### 特朗普总统证实特习会简短谈及台湾，美台双方都强调美对台政策不变
+### 特朗普发帖：美国汽车工人和购车者的大日子
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-26 19:31
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5tcXRrdGdCUHRVMDd5eFVoTG1ZbUh3dEZDdDVwR0k5QXg0V1haNkFRX1dfVm1EaldXSjZIVm95NE85SVdRVlBSRk91SXJna3E4WmpkRjVhUHhxblJuNVFEdHdMUFdCeThHMVViV2lwZ2dRSEhNN0hCWQ?oc=5>
+
+### 特朗普：近日将继续与伊朗谈判；塞尔维亚总统武契奇宣布辞职；国乒实现女单亚运会八连冠；三大运营商全面暂停“0元购机”业务丨每经早参
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 每日经济新闻
+- 时间: 2026-09-27 21:40
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5IWTJWeC10OWZ5TXF4NWFrNU5aUWl6YWVtMVNVemxGZWZmUVNRUGp2ZHkyQjhsaUttbkZnM2paNHYtcXR6bGdmeUhQOGItYmQ5d19oYkI5Nm5vUlEyUngzOEJIclViQQ?oc=5>
+
+### 习近平和彭丽媛同美国总统特朗普夫妇茶叙
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-09-25 16:52
+- 链接: <https://news.google.com/rss/articles/CBMijgFBVV95cUxOeldsdVJGUS05OUtxNnZIWFJUaDdzUXhnUFFzMXBFc0l0QUtCT1JDWkVyal9CYmhHSkJhenVWaUotYnlIWEExWjdZZ2tfTmZLbUZWQUFoYzNBUEFRLW84NTJMaTlteGNKcDZWWC04RlMyMk52OF9OMDZNU1FMT0dtbnowWnRlOWY3X0NKTjZn?oc=5>
+
+### 特朗普总统拒绝德黑兰方案，但预计美伊下周恢复谈判
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: 美国之音
-- 时间: 2026-09-27 16:43
-- 链接: <https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMzZ6YlRIOThkVlczRlZKUzZDeHZ4MFo1bzhlSTJlRXFpNGtNTjZpSzgydjY3UmNtQ3hFel9Pa014Rmd4VDNqWlhGRzBMQ0NFWUY1UkZDUldMbWtsRHVYOWpyc1VfaHdaMTFIUjE1OE5HR0lCNDlFSUVBWnZNNUw2MV8yYlZWWWs3dWZXdnY2NjU0eDY5VXhuWG4zODhpUEFMaW9ERUFWaVdyZm5pMlFrdlU5Z3drUzVKUkFtUTFodG1KblHSAcYBQVVfeXFMT1pHQWFLOU5icDB5WXMzVXlFTGRybzRNUy1aUW94cnZ4U3h5bVFOVWEyWmp5VnBRSjAtbi1iTHNLVXhRalYtOEJVRDVEVF9XQjNaVXplOExnT202TDV6VEVoY2ktTWE1UzJ2U2xhVmV2aDlUR1NvVV9sZHlvRzVUempLS19oSjcxRFFhNm5EcE1qZW4zUlA5bklRZE5ZM2lCUXQzSW5KbEJwSlBiRkFrRTFwTzNCY09tWkFlVy1DeHluQ2V1bU1R?oc=5>
-
-### 分歧深重、协议落空，习特会蒙上阴影
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-09-26 00:41
-- 链接: <https://news.google.com/rss/articles/CBMikAFBVV95cUxOXzNFa2N0SHdRaDJ5cGVBcHNfNnpxel9JSWRwR003NFBFTEVOaU9NX0daRHNyeTg5emdJbDhBcE5VVXFzVmdoMHFZSnJXdWhLQ3I4VkZuckR5Z2kzMnhzd0ctc3Nsb001dUZHRHdlakdhWTlJUk5iOTRTWUFWNEVPSkpsRUxISGM5U3E3MjVTTTI?oc=5>
-
-### 特习会落幕：中国官媒看到“大船”，西方媒体看到“筹码”
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-09-25 20:30
-- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxQSjA3R1lGQUU3REFpNldGVmlieFZ4NkQteTFMemdvaWg0cnVzeWRhZnAyQjdvMTItd1NOem1XaXYzVldTdExzNjhlc1FPZXZMTTNqbjlvRXFnZ1Z5VjRhSFRycW1BUV9Sa3VyZlpyZnpIVEJNSWk3RXNCMENVUDZta1dyY1MxbHg5UW1Ta29wSHc1MDc40gGXAUFVX3lxTE02RG5FM3RIV3BDTTNreVoxS1lQZElteU1pV2hNdXNqUzgzaUVsM3dHMVBRU1FmOVVuZ241ZW82SlJXRW5HX2VVOUxNQnFUZFhDLTVlXzNad1VMUVJhaTZTTDRDOVRMQUFabE0xSlRLRDhoY09EX2xEeFJsbG9EYTFKck4ycHRlaEl0MGtSLXVEUHFpWUlmSU0?oc=5>
+- 时间: 2026-09-27 20:18
+- 链接: <https://news.google.com/rss/articles/CBMixwFBVV95cUxPaXpKX3VmcnpkUWxNNUQ1eTJrUGxhQk93SV8xaXZpd2JoQy1ycXhIZFBDbG9keVZMNmpnT3pmZFk1VmJQNVVDS2liaFdsekpRN1VBcGNvWmhWNFRjeTVYTk5rZkdrOE0tbXNvbTdlQmlFaDQzN3NaQ2VEdkh0U0VhSDA0S1NXajM0X2NGVjhTTjBMY0lURXdNVld0TGZ4dzFmbHdqR3dmb0dvbDI1ZjBFdnp4eUhJR1JZRU9HeDhGSzR1Qm5QRWlZ0gHKAUFVX3lxTE5FZ2FEWmladVJZdFNWUjRyRFZET2JVNEtTMlNWTTdOclkzbkJPTnY4dWllX0ZCVndOMVdXc0pBZC1aNHNITWl4bU11LVNNekhpekNqTUdYR2JwVjZoYlpaTUdlVjhnNDh3M3U2UTVjbGoyME9PNkxBR21nYW9ja0VVM3JoTWdVUE9HRkUzSXNRLVNzVWJwZzFDZFl5clhzZHR4QU9ZYnNkU2dqTGMza3c0ZHByeDU5UGh6ZzFwOVVrX3RzNXpuS1FmYlE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-27 21:48  (6 条)
+
+- **特朗普** | 特朗普预计本周恢复与伊朗谈判：霍尔木兹海峡双方僵持不下 <https://news.google.com/rss/articles/CBMimANBVV95cUxOSmJZQm1qZl8wclBMcXYzNjJMcWJ2QW1icUxYcU5HWVJrakJudFF4andjc2NMZjlNeWVnU2pUSTN1dVhZQ21GUjVULXBESDFraFFuNXJRc3ZvY1gtbnN1Q1M1YVBScHlQdkpvNGdfdDFnN0FHY19PdVcwZ3ludlRKZ3pfT0ozSV81ekxjZWVPT2lacVNHRGNEUnEybVR6ektHUXIxUVE5c1ppTTNfQkZibGtHaFllemlVbXcwbXNodDktR3g0OWdJZG9TaVhaV1RmNTFfb05oRDZYdTZwOFJSY0JzdWxuRVAxWW5vUWhqLVFXNDVkUWxjX3RFREduLUx0eTU2SFNVc3pJcE5uTl9lNW5iX0ZxUDcyS1F3UVYtUVlVVDFVQm9tXy1RUXd6NC1OS3FQcWhZdmJnVUNFTl9kZG9jb3hhUDdYd2Y4SDNtYnlCYm50RFduQWxfekxQMmlQRFFwRndNMjBKQ2stLTJ5UDlNTURScW9tVWgzekRtYWdDY2JpYW1neHdQUENxRDVDdzhINXlPeEM?oc=5>
+- **特朗普** | 特朗普计划与Anthropic CEO共进晚餐 双方关系出现缓和信号 <https://news.google.com/rss/articles/CBMieEFVX3lxTE9XUVRkYkNMTVpPYmxiSktob0R1MThzbGtYRnFTci1Gdkw4ZFBLZ2lUUHdQLTJSSWlxbXdVbjFCRlJobGZVU05waklzZUJIMDFxVUt1cmJ5Slp0aWFLOGVDTWZzSjR2VW8wNVlxVkRYSUE1MnEtOTNJdg?oc=5>
+- **特朗普** | 特朗普发帖：美国汽车工人和购车者的大日子 <https://news.google.com/rss/articles/CBMieEFVX3lxTE5tcXRrdGdCUHRVMDd5eFVoTG1ZbUh3dEZDdDVwR0k5QXg0V1haNkFRX1dfVm1EaldXSjZIVm95NE85SVdRVlBSRk91SXJna3E4WmpkRjVhUHhxblJuNVFEdHdMUFdCeThHMVViV2lwZ2dRSEhNN0hCWQ?oc=5>
+- **特朗普** | 特朗普：近日将继续与伊朗谈判；塞尔维亚总统武契奇宣布辞职；国乒实现女单亚运会八连冠；三大运营商全面暂停“0元购机”业务丨每经早参 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5IWTJWeC10OWZ5TXF4NWFrNU5aUWl6YWVtMVNVemxGZWZmUVNRUGp2ZHkyQjhsaUttbkZnM2paNHYtcXR6bGdmeUhQOGItYmQ5d19oYkI5Nm5vUlEyUngzOEJIclViQQ?oc=5>
+- **特朗普** | 习近平和彭丽媛同美国总统特朗普夫妇茶叙 <https://news.google.com/rss/articles/CBMijgFBVV95cUxOeldsdVJGUS05OUtxNnZIWFJUaDdzUXhnUFFzMXBFc0l0QUtCT1JDWkVyal9CYmhHSkJhenVWaUotYnlIWEExWjdZZ2tfTmZLbUZWQUFoYzNBUEFRLW84NTJMaTlteGNKcDZWWC04RlMyMk52OF9OMDZNU1FMT0dtbnowWnRlOWY3X0NKTjZn?oc=5>
+- **Trump** | 特朗普总统拒绝德黑兰方案，但预计美伊下周恢复谈判 <https://news.google.com/rss/articles/CBMixwFBVV95cUxPaXpKX3VmcnpkUWxNNUQ1eTJrUGxhQk93SV8xaXZpd2JoQy1ycXhIZFBDbG9keVZMNmpnT3pmZFk1VmJQNVVDS2liaFdsekpRN1VBcGNvWmhWNFRjeTVYTk5rZkdrOE0tbXNvbTdlQmlFaDQzN3NaQ2VEdkh0U0VhSDA0S1NXajM0X2NGVjhTTjBMY0lURXdNVld0TGZ4dzFmbHdqR3dmb0dvbDI1ZjBFdnp4eUhJR1JZRU9HeDhGSzR1Qm5QRWlZ0gHKAUFVX3lxTE5FZ2FEWmladVJZdFNWUjRyRFZET2JVNEtTMlNWTTdOclkzbkJPTnY4dWllX0ZCVndOMVdXc0pBZC1aNHNITWl4bU11LVNNekhpekNqTUdYR2JwVjZoYlpaTUdlVjhnNDh3M3U2UTVjbGoyME9PNkxBR21nYW9ja0VVM3JoTWdVUE9HRkUzSXNRLVNzVWJwZzFDZFl5clhzZHR4QU9ZYnNkU2dqTGMza3c0ZHByeDU5UGh6ZzFwOVVrX3RzNXpuS1FmYlE?oc=5>
 
 ### 2026-09-27 18:50  (7 条)
 
