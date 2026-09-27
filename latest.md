@@ -1,62 +1,40 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-27 03:05**
-- 本轮扫到 12746 条, 新增 **6** 条
+- 最近更新: **2026-09-27 09:25**
+- 本轮扫到 12749 条, 新增 **3** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (3 条)
 
-### 周杰伦南京演唱会 暗号
+### 刘畊宏披荆斩棘三公被淘汰后，连夜赶到周杰伦南京演唱会合唱淘汰一语成谶
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2146827183_m7ff5fbaf0330409ko.html>
+- 链接: <https://k.sina.com.cn/article_7857263936_1d454554006801siq0.html>
 
-### 特朗普“罕见”提二战中美同盟，日本慌了：和美方沟通，越快越好
+### 周杰伦嘉年华世界巡回演唱会鸟巢站创纪录，近九万人同唱经典曲目
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-09-27 00:35
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE54b1lReE1EOHZ5LURiNl9UVTJYYl9peFcxU0RHYVoyYjVDYTVXQWE4NlNfbmtUZUhtVm5qTmdvUHIzTm5VQ1kzZmhOZXBOU3gyYlFvc180cmNXVER6cFh0OWN4ZnFjWXAxdnV5bkxmbU9Ya0k?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7857263936_1d454554006801simm.html>
 
-### 特朗普两度提及“中国皇后号”，中美经贸往来从广州开启
+### 周杰伦2009洛阳演唱会 黄金甲
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-26 11:55
-- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxQT2lWY0hTOTNKZDhqcXNkN0FNR2hIT2hBRkJDRkY1RlRsbk5uZEpLUHV2TGJZanNLVFFDYjV1cWhPZDNNSFpXTVlEVnJjX3EwVDZlbHRhUl93SGVuQkw2UlljM3pNQ2VhbElrTGNncnllaW5TWUU2ejhjbXFnY3VMOVJwazktRGtqSW5QdFhKQVk0ZDdDcE5UcVFPd20yQ1Y1Y3BHS1RYdDZvUjU1bF9rbDlrUFJrNE9LNUszSzR0V01Od1hma3VYRUhMTzRJQlk?oc=5>
-
-### 特朗普称美国和古巴会达成协议，而媒体报道“美军正检查兵力部署”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-09-27 01:11
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE4zMWNnOS1FZmhmNS03d3FIczNSS0FHcDNCemloa3RaNllGaFBGT1d4RnVyQjVTTHdJemlVQ3pVQm42dkMzWFp5SDNMTzI0UVdMdGMw?oc=5>
-
-### 特朗普称美国和古巴会达成协议
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-09-26 22:53
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxV2tKREdqdVJzM3U4V0pRVElFc1BkMU41aFFPQUxmLV8xZXFNdks5TEZpaTRZS3gtNkZjMy1RdmdBT0ItMjdNQVFwZ2I1MUJLUmxYYUNpMEhfV0YxLXlUQkdzQk51c2oz?oc=5>
-
-### 中美贸易休战延长为习近平赢得喘息之机
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-09-26 01:08
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE1NVnhvNVduekdYbmljT0FMN2dHMkhPUmdpbk85dEFGV2NqUVNsa2lIem1BdjV3ZXJMUjg1anY3SjhhU05zNnRURUFwZ0xUaHFNWDVBNTkzX1RlRlR3X2pFbG5palhYYjJBVG9iS3pqcw?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://video.sina.com.cn/p/finance/2026-09-26/detail-initcyzh0927354.d.html>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-27 09:25  (3 条)
+
+- **周杰伦** | 刘畊宏披荆斩棘三公被淘汰后，连夜赶到周杰伦南京演唱会合唱淘汰一语成谶 <https://k.sina.com.cn/article_7857263936_1d454554006801siq0.html>
+- **周杰伦** | 周杰伦嘉年华世界巡回演唱会鸟巢站创纪录，近九万人同唱经典曲目 <https://k.sina.com.cn/article_7857263936_1d454554006801simm.html>
+- **周杰伦** | 周杰伦2009洛阳演唱会 黄金甲 <https://video.sina.com.cn/p/finance/2026-09-26/detail-initcyzh0927354.d.html>
 
 ### 2026-09-27 03:05  (6 条)
 
