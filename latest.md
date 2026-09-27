@@ -1,51 +1,25 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-26 23:43**
-- 本轮扫到 12740 条, 新增 **10** 条
+- 最近更新: **2026-09-27 03:05**
+- 本轮扫到 12746 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (10 条)
+## 本轮新发现 (6 条)
 
-### 法国报纸摘要 - 习近平：特朗普“唯一尊重的外国元首”
+### 周杰伦南京演唱会 暗号
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-09-25 12:09
-- 链接: <https://news.google.com/rss/articles/CBMi9wJBVV95cUxObThoTS1fRUpuNzUwVVpnTU0zcUhFc1BPMEcwLXJWU3R2UVVmdU95MFo3dE1mcTJ1aHlHMkZsRXpHblZtRDVLa0t4dWN0c1NYSUlpdFRrSDNhMERBdmwtdHFETldHNmktZWtoUXBUNWh3S3d3LXJHVmdqUFNQOFN2Rm44V0N5XzNSeVVWLURlQ0VHVEhGZlVZOXB1ZFpPOWtwLWttWDJwenB2VUhPR1dld3dIWk5oeEZaVnQxbnhzWFk5MkVmbmEwVzNCRVhyaXExNEJ3SHk3T29xMDhzRWpoRjhKbG5jTGxpQ3pmSWZkTzh5WnNVRkpvNGwyT1hpLTVBX290ZEdpTlNfb2gtU3JRaXNFcmlJNmZ0V1hNNVBRWGIwdE5hVFIySUs3WEY2cUZCbXRCclBvVDVFZ3NqdUlmNGhSUzJOLUZFSGFRM0ZvOFVpbzA4bjh0NnNCbm1qNjNISjcxM1EyV3JwREJtSTJSVF9oeGhEVGM?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_2146827183_m7ff5fbaf0330409ko.html>
 
-### 特朗普称拒绝伊朗重开霍尔木兹海峡的提议
+### 特朗普“罕见”提二战中美同盟，日本慌了：和美方沟通，越快越好
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: news.cctv.com
-- 时间: 2026-09-26 21:01
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5HWEpZc2YzQXhMOXlTZkVrSGo3Z0U2RmEzTlVybUhabnFkZ2FIWHFEb2c5cmNmREJMcWg4N2ljQWRKSV9yUG9DR1BvbHVzMWlTQUdBLXJZYjlsblo5cE1vVUl1dWNSamhZVDNLSmdlY0Rxb0wwbHF4Sg?oc=5>
-
-### 特朗普拒绝伊朗停火方案，重提中期选举后恢复军事打击
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-26 21:36
-- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxQaTRUSGVYTDNLRUNVTG1NYWNhNkhjcW90VGhvcG90R3pjWkpOcHF5cnlLOG1WdjB2M0MtTkU1RFY5R25OcUlNTm9pdnlza3pOUE8tNzBNSU94TEZZaFY4eThYSlpNMUl2VS1VNW01aUdNTFEwNTRNRGJqQUgxRVJGdTdibDRyeEo1MkFHdERlS0trQ1pMakwzTDZWR2xTdTc3?oc=5>
-
-### 特朗普感觉良好，但共和党慌了：中期选举咋办
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-09-26 23:23
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBjYkVrcE5Ic2FkSmpFdklrb2NpMFo1MWF5MTZvS1VJc3kyTWt4Q3NDVVYzY0RvYThwMUxjVTlVczZtaXNHWUNXcG5oRlo?oc=5>
-
-### 在美国总统特朗普举行的欢迎宴会上的祝酒辞
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-26 20:29
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1hMzR0OWtmaTR5SzdYUHRjM1NvOE81RzBTTGJaWHZhX2NlaC1zTV9lYmptZEFmemhXYUxGeklQXzJ1X3ZGV1ZRSG9fcnBjZEhWX2cwT0dPc3hBOVVFNWlWQnJ4T2xxdjE0dDBjUV9wcTdrbmNoYjhEWA?oc=5>
+- 场馆: 观察者网
+- 时间: 2026-09-27 00:35
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE54b1lReE1EOHZ5LURiNl9UVTJYYl9peFcxU0RHYVoyYjVDYTVXQWE4NlNfbmtUZUhtVm5qTmdvUHIzTm5VQ1kzZmhOZXBOU3gyYlFvc180cmNXVER6cFh0OWN4ZnFjWXAxdnV5bkxmbU9Ya0k?oc=5>
 
 ### 特朗普两度提及“中国皇后号”，中美经贸往来从广州开启
 
@@ -53,44 +27,45 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-09-26 11:55
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZUNIUC13RFcxMHBUNmo0NzkxbVhLZTVKN2NNZHllVXViMWk1bEtLWU5DMHNUdzdnelg4OXRaV3dIbkJ5Q29FZlZQNGl3azJhcGxCRXNDaUw3M0pTNms5ZzR5bkRVLUVaZ2tGWjlaRlFfOE55ZmZkTk5DcndxeElXM1FUXzR5OE1PSWJtbkxRN3p1X3pNUTdKZE9rN0NRWWhQQml6VVhVSlV1MDlJLS1vUmgtY3dEU3NKOTJGRXlwTXpzN2s3TFFNcHZLVFIxUTV0?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxQT2lWY0hTOTNKZDhqcXNkN0FNR2hIT2hBRkJDRkY1RlRsbk5uZEpLUHV2TGJZanNLVFFDYjV1cWhPZDNNSFpXTVlEVnJjX3EwVDZlbHRhUl93SGVuQkw2UlljM3pNQ2VhbElrTGNncnllaW5TWUU2ejhjbXFnY3VMOVJwazktRGtqSW5QdFhKQVk0ZDdDcE5UcVFPd20yQ1Y1Y3BHS1RYdDZvUjU1bF9rbDlrUFJrNE9LNUszSzR0V01Od1hma3VYRUhMTzRJQlk?oc=5>
+
+### 特朗普称美国和古巴会达成协议，而媒体报道“美军正检查兵力部署”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街见闻
+- 时间: 2026-09-27 01:11
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE4zMWNnOS1FZmhmNS03d3FIczNSS0FHcDNCemloa3RaNllGaFBGT1d4RnVyQjVTTHdJemlVQ3pVQm42dkMzWFp5SDNMTzI0UVdMdGMw?oc=5>
 
 ### 特朗普称美国和古巴会达成协议
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-09-26 18:10
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pZW1XdXBSTkh0ajBwNUZuUjJLZDRqdUlSVlNpRndaNVF3Wkt2ZXNiX0Q0MGxPTDdIZ0NVaDZQQURUai1VdEhSOExoU2tncVNJQ0hQNkNDVG1wNnhTRDdlRA?oc=5>
+- 场馆: chinanews.com.cn
+- 时间: 2026-09-26 22:53
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxV2tKREdqdVJzM3U4V0pRVElFc1BkMU41aFFPQUxmLV8xZXFNdks5TEZpaTRZS3gtNkZjMy1RdmdBT0ItMjdNQVFwZ2I1MUJLUmxYYUNpMEhfV0YxLXlUQkdzQk51c2oz?oc=5>
 
-### 特朗普拒绝伊朗重开霍尔木兹海峡提案
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-09-26 21:03
-- 链接: <https://news.google.com/rss/articles/CBMiqwJBVV95cUxORF82YmlFdHd2d3hoOFk1NnpiLXFtaWFyN19aYkFEMkdpckx2VUc3TDFvNmtPOFk1Ny0wVmxrUXJ6d3U5U1FHTFJXVl9JOVZpS1R3VDFzLVJUMWRwMzY2ZEJsNHEyb3ZMM0hId2JHRjQzX3BPc0xkV2dlRnF4T3ExckVGY1dCczJNd2RBNmZMZU4zS25uZGw4RC0wVkROYnkxTHF4ejJ6RnNhcXBPSHVKbFFPS1ItQ1hYajR0bzJUX0pydDctSmducW5BYXRDaFloYm1kQy1VbDM5Z2RVTUFFSC0xaTc4UUk0M2NpV3RtaGxSOFdIdTdXRGo3UDdhWGZCek5BbU5YWjQ5dXNiY1pPY2FqcV91d19rbVA0WVk3cDlHeEVNREtDSkRSVQ?oc=5>
-
-### 特习峰会后，日本首相高市早苗证实与特朗普总统通话，重申美日合作
+### 中美贸易休战延长为习近平赢得喘息之机
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-09-26 18:17
-- 链接: <https://news.google.com/rss/articles/CBMixgFBVV95cUxPTmJFcWg4TDZpaXJYZUdISkNHUUJKZkR0YjhpQzg4dG1UZV8xTldCLWVXaWE5dHJfelpYVFphWV9aeVJKSzI1eXo2Q1Z2UTdYWWFBU0RPU2UzOXpkNkpxTGcwdG5QV2p2LTdtQnBvbVRnaXh0OS1fcWdGVFo3VVkyeklEWjhFcV8yUVh6RF9IQm8tdUN0N0Y0ZmlWY3dSZHA5TlNxUVZpbVlocklzbFg1aHNfekpHaFd6YnVxaVJpN3dibGU2Y3fSAcYBQVVfeXFMT05iRXFoOEw2aWlyWGVHSEpDR1FCSmZEdGI4aUM4OHRtVGVfMU5XQi1lV2lhOXRyX3paWFRaYVlfWnlSSksyNXl6NkNWdlE3WFlhQVNET1NlMzl6ZDZKcUxnMHRuUFdqdi03bUJwb21UZ2l4dDktX3FnRlRaN1VZMnpJRFo4RXFfMlFYekRfSEJvLXVDdDdGNGZpVmN3UmRwOU5TcVFWaW1ZaHJJc2xYNWhzX3pKR2hXemJ1cWlSaTd3YmxlNmN3?oc=5>
-
-### 北京称中美达成涉及300亿美元关税减让安排 将启动人工智能对话
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-09-26 21:19
-- 链接: <https://news.google.com/rss/articles/CBMiqANBVV95cUxPSENRaXdMMExNYW1BZmZSQldYTm82S3pHYnkyWVVHQTE1WkRjN1NfYVVMMGtMdExnSWVwUE9iVVpCd3haQllLMVNMS2JvNTZNT3ZPQmVibXJlUy1VVm9BT1FfdUNlRzEzTVVpdDNvYnNzVDVMcGc1emh3TDc5VnRjZzNfTTladjlPSVpSc0IzNFlEQ2FhQ2UzMGtEYlJ0OFVDY0dTbVpZZGoyUjRfZmlnZDdycTBBcGQtcTlrUF9wUWozRnlhcFBZVGV4WnNkNHVnM2haaEpqcmdmS3RqYzhnTG94bGVqeGQ0dnNEcTE3WmJCb0NRTzhRbGc1UUViemk2UkNfSWZWOFEtNjlObkJkZ0hKajFLWXFicU5CRHRCeGo2cjhBbmVxeDR1RHdTN2NzS084VlhFcjUteTJFNjd6eFRpT3lfUzZhbzlQVDBqTDRVdnp5RGNmWmsxVFR0T2VpR3REMENMQW9ldDk4elA0anR1dGxUYkVzZmxiZmhNVzg1b3drdTIwejFjZ2VYakhIeGpMcUY4c3BsQ3lxb0FNVEp4TnVqUDN3?oc=5>
+- 场馆: 纽约时报中文网
+- 时间: 2026-09-26 01:08
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE1NVnhvNVduekdYbmljT0FMN2dHMkhPUmdpbk85dEFGV2NqUVNsa2lIem1BdjV3ZXJMUjg1anY3SjhhU05zNnRURUFwZ0xUaHFNWDVBNTkzX1RlRlR3X2pFbG5palhYYjJBVG9iS3pqcw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-27 03:05  (6 条)
+
+- **周杰伦** | 周杰伦南京演唱会 暗号 <https://k.sina.com.cn/article_2146827183_m7ff5fbaf0330409ko.html>
+- **特朗普** | 特朗普“罕见”提二战中美同盟，日本慌了：和美方沟通，越快越好 <https://news.google.com/rss/articles/CBMic0FVX3lxTE54b1lReE1EOHZ5LURiNl9UVTJYYl9peFcxU0RHYVoyYjVDYTVXQWE4NlNfbmtUZUhtVm5qTmdvUHIzTm5VQ1kzZmhOZXBOU3gyYlFvc180cmNXVER6cFh0OWN4ZnFjWXAxdnV5bkxmbU9Ya0k?oc=5>
+- **特朗普** | 特朗普两度提及“中国皇后号”，中美经贸往来从广州开启 <https://news.google.com/rss/articles/CBMizwFBVV95cUxQT2lWY0hTOTNKZDhqcXNkN0FNR2hIT2hBRkJDRkY1RlRsbk5uZEpLUHV2TGJZanNLVFFDYjV1cWhPZDNNSFpXTVlEVnJjX3EwVDZlbHRhUl93SGVuQkw2UlljM3pNQ2VhbElrTGNncnllaW5TWUU2ejhjbXFnY3VMOVJwazktRGtqSW5QdFhKQVk0ZDdDcE5UcVFPd20yQ1Y1Y3BHS1RYdDZvUjU1bF9rbDlrUFJrNE9LNUszSzR0V01Od1hma3VYRUhMTzRJQlk?oc=5>
+- **特朗普** | 特朗普称美国和古巴会达成协议，而媒体报道“美军正检查兵力部署” <https://news.google.com/rss/articles/CBMiU0FVX3lxTE4zMWNnOS1FZmhmNS03d3FIczNSS0FHcDNCemloa3RaNllGaFBGT1d4RnVyQjVTTHdJemlVQ3pVQm42dkMzWFp5SDNMTzI0UVdMdGMw?oc=5>
+- **特朗普** | 特朗普称美国和古巴会达成协议 <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxV2tKREdqdVJzM3U4V0pRVElFc1BkMU41aFFPQUxmLV8xZXFNdks5TEZpaTRZS3gtNkZjMy1RdmdBT0ItMjdNQVFwZ2I1MUJLUmxYYUNpMEhfV0YxLXlUQkdzQk51c2oz?oc=5>
+- **Trump** | 中美贸易休战延长为习近平赢得喘息之机 <https://news.google.com/rss/articles/CBMib0FVX3lxTE1NVnhvNVduekdYbmljT0FMN2dHMkhPUmdpbk85dEFGV2NqUVNsa2lIem1BdjV3ZXJMUjg1anY3SjhhU05zNnRURUFwZ0xUaHFNWDVBNTkzX1RlRlR3X2pFbG5palhYYjJBVG9iS3pqcw?oc=5>
 
 ### 2026-09-26 23:43  (10 条)
 
