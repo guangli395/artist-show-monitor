@@ -1,34 +1,91 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-27 09:25**
-- 本轮扫到 12749 条, 新增 **3** 条
+- 最近更新: **2026-09-27 14:46**
+- 本轮扫到 12757 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (8 条)
 
-### 刘畊宏披荆斩棘三公被淘汰后，连夜赶到周杰伦南京演唱会合唱淘汰一语成谶
+### 在特朗普拒绝后 伊朗坚持其重开霍尔木兹海峡条件
 
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857263936_1d454554006801siq0.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: rfi.fr
+- 时间: 2026-09-27 12:45
+- 链接: <https://news.google.com/rss/articles/CBMi6AJBVV95cUxPS0lDbWRtbHRaQ2lhU3diNFJvaFktUEd6T29MVXN2NnJDM1BzbTRCRmp1dldBVHFmUGVsdHR6a0pzeVgxTHJBMEdkZ2FXRG1rNzBudjZSdV9rc0oyU3F1MkNTbjd0V1JuTzNGMkRiem5ScTlMRHV4amNaLVdkdWJFYzRrR0ZraUFzRG8zU3N5Ry1pQUVQNmpTVVcybU5teS15dzY0Q241dVNmSElXYm9sR2pjX2R4Wi16dWRZMThOeFdkUC04clZFUXRQWDNZelVJSFRIQUdRMENHWlJ6aXBhOTlnTUNrcWV4cU9jN0tRLXJ3SmdheGpSQ1R0REdCTzdxWF9xVUV0ZFR6ZEI5UkVwaWZXNVAzRGJRTE9xODhQakxMTEtWbjRsWmxyOTdDQzBQUXozZS1ZQzNtTnVYRXJnZUtyUHJ5ekhMeDhWUFRyejJMNEVITndfR3QySWlVdFRUNHAwZHBqWjk?oc=5>
 
-### 周杰伦嘉年华世界巡回演唱会鸟巢站创纪录，近九万人同唱经典曲目
+### 特朗普称美国和古巴会达成协议
 
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857263936_1d454554006801simm.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: finance.sina.com.cn
+- 时间: 2026-09-27 07:08
+- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ1RWVkpQVExUc0NaYVJEWGlvczlFcVZRaWtaNWI2bTNhODZZb0ljMHpwOV82ZElkVWlrcGVDRFhiWW5vVmdmdUd4c3RBbnpaNmRIT1RvSG96cnpKYWhtTmF3SFdIY0xSX0pGNzhrT2d4SUZsWWRlN0lCSU1SNG9GSzlyUF90Qmp0MU8yZ2U3N3hJcE5RU0tDUnZaV0NGVWc2?oc=5>
 
-### 周杰伦2009洛阳演唱会 黄金甲
+### 特朗普两度提及“中国皇后号”，中美经贸往来从广州开启
 
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://video.sina.com.cn/p/finance/2026-09-26/detail-initcyzh0927354.d.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-26 11:55
+- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxOTUFoYXpVTE9TZG9jci15QkFiVldPRkpkWnJZa3FjLWJLTFB1VTg1aGQ0Z1lldHFRbHJRdzZpd3BDS2otRnZpQU11VTRsSUlEbXpaUjJka1RrelF3b2pLZmJINVlfUGZLRkRCT1dsRElCbld0QzhhODVpa1JZVF9tbGtOSVZsYzJGVm9OX1h6dUpTemk2ZF9lTzNORDdKUXNVblFQYnFzeFYzNkhvUkFsTTljWkVlaTQtLUc0OFFySGY3ODlpNUpWVExiY0hnU2s?oc=5>
+
+### 白宫前新闻秘书爆料：特朗普曾跑到英国“教训”斯塔默，后者只是坐在那里
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-09-27 10:01
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE8tQ2V1X3FuRlRXYVk3Z1ZHNWdWNnBydGp4UGJuYUxQSXVrRmRQVXZJNGZqYUJveEV5ZkVGV19yZG9FLXVYY0VrQU5XSXRKZUN3cER5aENRZXJ5WWtVbm54Qg?oc=5>
+
+### 特朗普现身一橄榄球比赛现场 看台反应复杂多样
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-09-27 12:13
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE11YnNNc0J1bTA4aEwwNHN6aE1QRlRHYklKOTN3blZiektTRm9TVzhaaS1EQUxBeUJUelZhSUZXdUpqQlk0am9TVEJyVnRBRVhaaERTX0ZWQWUwOHFibTFLTVI0TXZGMWVBb3VRek9lcXc?oc=5>
+
+### 刚刚，美国总统特朗普说了不，下周或将迎巨震！
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 搜狐网
+- 时间: 2026-09-27 08:37
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxPQ1Fmd2NSdkNHbjJBVVRVMWtWRWFmWXdyQVNBWVpvZXEtSFZnaDE5MnhMaEpGZHdFMmZoSWFUVy1yQUdnaWpwUTJLNEpaV180UVhBU01fSVJfTWQzdW9pN2RHa2tWLV8ydFVCbVhEcTF1MHdZUjE3eHVxVDg1ZWVzbFR4RnhUdGpURHN2cA?oc=5>
+
+### 特朗普称与习近平会谈时提及台湾
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: rfi.fr
+- 时间: 2026-09-26 21:10
+- 链接: <https://news.google.com/rss/articles/CBMikwJBVV95cUxNczdUelo4SUVyUGEtb2F1bWtUZXhrUUFycTJPMTFuLWN2dGJNZXhWUFpKak1EZVNpSnN0NlBEbUtOcld6Z2JrTGY0RkkzNktFZ19SVXloV1FQOGlBVjI0aVlOT3BvMHRHdDBNbXBMelhxcG1Pd3lSUEhDSENXaVVvb2RmcFN5c3U5MmFzM21zdm5SQ0tXcDBadVNia3FGZ015WlhOQ1VNV2JWMGp0aXJMSGNBUE02ZWl1dGsyeFB5bjRIRng0TmVhcGk3RVZpSzh1LVhrU0F0cXF2RUZfbWNBYzBKSEpfWlMyakRPUEtzalJ1UU1fb3J2dEJ2eWd1bk1Tay1wdmVQOUszS1hDT3hoUkNHSQ?oc=5>
+
+### AI Is the Real Drama of Thursday's Trump-Xi Talks
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-09-24 00:03
+- 链接: <https://news.google.com/rss/articles/CBMilwFBVV95cUxNRTQwcjE0amgyMld0MGJsNTZvTWtfU28weUNLclVIQTV3VmltbWFQVTJGdEp1Nld2RUJxdU1UR25tZWR1SHhPNERQSDRHOXVzaE5ZS2FPZzZJR1hDYks0bGVJU2Z5bERXdHZPY0VGRFJBdXdHVDhkd1Q4cm9pRkJMeXFCQ0NESjNpN25mZnU3T0lXQUdFQWxR?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-27 14:46  (8 条)
+
+- **特朗普** | 在特朗普拒绝后 伊朗坚持其重开霍尔木兹海峡条件 <https://news.google.com/rss/articles/CBMi6AJBVV95cUxPS0lDbWRtbHRaQ2lhU3diNFJvaFktUEd6T29MVXN2NnJDM1BzbTRCRmp1dldBVHFmUGVsdHR6a0pzeVgxTHJBMEdkZ2FXRG1rNzBudjZSdV9rc0oyU3F1MkNTbjd0V1JuTzNGMkRiem5ScTlMRHV4amNaLVdkdWJFYzRrR0ZraUFzRG8zU3N5Ry1pQUVQNmpTVVcybU5teS15dzY0Q241dVNmSElXYm9sR2pjX2R4Wi16dWRZMThOeFdkUC04clZFUXRQWDNZelVJSFRIQUdRMENHWlJ6aXBhOTlnTUNrcWV4cU9jN0tRLXJ3SmdheGpSQ1R0REdCTzdxWF9xVUV0ZFR6ZEI5UkVwaWZXNVAzRGJRTE9xODhQakxMTEtWbjRsWmxyOTdDQzBQUXozZS1ZQzNtTnVYRXJnZUtyUHJ5ekhMeDhWUFRyejJMNEVITndfR3QySWlVdFRUNHAwZHBqWjk?oc=5>
+- **特朗普** | 特朗普称美国和古巴会达成协议 <https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ1RWVkpQVExUc0NaYVJEWGlvczlFcVZRaWtaNWI2bTNhODZZb0ljMHpwOV82ZElkVWlrcGVDRFhiWW5vVmdmdUd4c3RBbnpaNmRIT1RvSG96cnpKYWhtTmF3SFdIY0xSX0pGNzhrT2d4SUZsWWRlN0lCSU1SNG9GSzlyUF90Qmp0MU8yZ2U3N3hJcE5RU0tDUnZaV0NGVWc2?oc=5>
+- **特朗普** | 特朗普两度提及“中国皇后号”，中美经贸往来从广州开启 <https://news.google.com/rss/articles/CBMizwFBVV95cUxOTUFoYXpVTE9TZG9jci15QkFiVldPRkpkWnJZa3FjLWJLTFB1VTg1aGQ0Z1lldHFRbHJRdzZpd3BDS2otRnZpQU11VTRsSUlEbXpaUjJka1RrelF3b2pLZmJINVlfUGZLRkRCT1dsRElCbld0QzhhODVpa1JZVF9tbGtOSVZsYzJGVm9OX1h6dUpTemk2ZF9lTzNORDdKUXNVblFQYnFzeFYzNkhvUkFsTTljWkVlaTQtLUc0OFFySGY3ODlpNUpWVExiY0hnU2s?oc=5>
+- **特朗普** | 白宫前新闻秘书爆料：特朗普曾跑到英国“教训”斯塔默，后者只是坐在那里 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE8tQ2V1X3FuRlRXYVk3Z1ZHNWdWNnBydGp4UGJuYUxQSXVrRmRQVXZJNGZqYUJveEV5ZkVGV19yZG9FLXVYY0VrQU5XSXRKZUN3cER5aENRZXJ5WWtVbm54Qg?oc=5>
+- **特朗普** | 特朗普现身一橄榄球比赛现场 看台反应复杂多样 <https://news.google.com/rss/articles/CBMicEFVX3lxTE11YnNNc0J1bTA4aEwwNHN6aE1QRlRHYklKOTN3blZiektTRm9TVzhaaS1EQUxBeUJUelZhSUZXdUpqQlk0am9TVEJyVnRBRVhaaERTX0ZWQWUwOHFibTFLTVI0TXZGMWVBb3VRek9lcXc?oc=5>
+- **特朗普** | 刚刚，美国总统特朗普说了不，下周或将迎巨震！ <https://news.google.com/rss/articles/CBMijAFBVV95cUxPQ1Fmd2NSdkNHbjJBVVRVMWtWRWFmWXdyQVNBWVpvZXEtSFZnaDE5MnhMaEpGZHdFMmZoSWFUVy1yQUdnaWpwUTJLNEpaV180UVhBU01fSVJfTWQzdW9pN2RHa2tWLV8ydFVCbVhEcTF1MHdZUjE3eHVxVDg1ZWVzbFR4RnhUdGpURHN2cA?oc=5>
+- **特朗普** | 特朗普称与习近平会谈时提及台湾 <https://news.google.com/rss/articles/CBMikwJBVV95cUxNczdUelo4SUVyUGEtb2F1bWtUZXhrUUFycTJPMTFuLWN2dGJNZXhWUFpKak1EZVNpSnN0NlBEbUtOcld6Z2JrTGY0RkkzNktFZ19SVXloV1FQOGlBVjI0aVlOT3BvMHRHdDBNbXBMelhxcG1Pd3lSUEhDSENXaVVvb2RmcFN5c3U5MmFzM21zdm5SQ0tXcDBadVNia3FGZ015WlhOQ1VNV2JWMGp0aXJMSGNBUE02ZWl1dGsyeFB5bjRIRng0TmVhcGk3RVZpSzh1LVhrU0F0cXF2RUZfbWNBYzBKSEpfWlMyakRPUEtzalJ1UU1fb3J2dEJ2eWd1bk1Tay1wdmVQOUszS1hDT3hoUkNHSQ?oc=5>
+- **Trump** | AI Is the Real Drama of Thursday's Trump-Xi Talks <https://news.google.com/rss/articles/CBMilwFBVV95cUxNRTQwcjE0amgyMld0MGJsNTZvTWtfU28weUNLclVIQTV3VmltbWFQVTJGdEp1Nld2RUJxdU1UR25tZWR1SHhPNERQSDRHOXVzaE5ZS2FPZzZJR1hDYks0bGVJU2Z5bERXdHZPY0VGRFJBdXdHVDhkd1Q4cm9pRkJMeXFCQ0NESjNpN25mZnU3T0lXQUdFQWxR?oc=5>
 
 ### 2026-09-27 09:25  (3 条)
 
