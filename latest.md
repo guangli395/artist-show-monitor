@@ -1,156 +1,288 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-28 12:37**
-- 本轮扫到 12810 条, 新增 **19** 条
+- 最近更新: **2026-09-28 19:56**
+- 本轮扫到 12845 条, 新增 **35** 条
 
 ---
 
-## 本轮新发现 (19 条)
+## 本轮新发现 (35 条)
 
-### 《如诗一般的形容妳》是否会有实体专辑或MV
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801luda.html>
-
-### 周杰伦接下来还有哪些城市会举办巡演？
+### 刘畊宏为何会在周杰伦南京演唱会惊喜现身？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd8640680164rc.html>
+- 链接: <https://k.sina.com.cn/article_7880068588_1d5b04dec06801slj2.html>
 
-### 刘畊宏为什么会突然出现在周杰伦演唱会？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd8640680164ra.html>
-
-### 如何提高抢到周杰伦演唱会门票的成功率？
+### 周杰伦接下来的演唱会行程会去哪些城市？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd8640680164r8.html>
+- 链接: <https://k.sina.com.cn/article_7880068588_1d5b04dec06801slj4.html>
 
-### 刘畊宏被淘汰后空降周杰伦南京演唱会，合唱《淘汰》成泪点
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd8640680164r6.html>
-
-### 周杰伦青岛演唱会限定文创套装开启预售
+### 周杰伦方文山联手，曹杨新歌秋日上线
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1899227237_7133e86504008p438.html>
+- 链接: <https://k.sina.com.cn/article_7879923118_1d5ae15ae06801pjsi.html>
 
-### 中美声明后 伊朗提出七天达成协议 被特朗普拒绝
+### 刘畊宏为何会空降周杰伦南京演唱会？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923101_1d5ae159d06801pbha.html>
+
+### 周杰伦后续还有哪些城市的巡演计划？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923101_1d5ae159d06801pbh8.html>
+
+### 周杰伦南京演唱会的舞美设计有何亮点？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923101_1d5ae159d06801pbh6.html>
+
+### 周杰伦南京演唱会现场有哪些暖心互动？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923101_1d5ae159d06801pbh4.html>
+
+### 周杰伦南京演唱会：刘畊宏空降合唱《淘汰》
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923101_1d5ae159d06801pbgy.html>
+
+### 刘畊宏空降合唱《淘汰》，周杰伦南京演唱会泪目全场
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923375_1d5ae16af068020riw.html>
+
+### 周杰伦后续还有哪些城市的演唱会计划？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016514.html>
+
+### 周杰伦在南京演唱会与粉丝有哪些暖心互动？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016510.html>
+
+### 周杰伦2026年巡演后续还有哪些城市？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd86406801650y.html>
+
+### 刘畊宏在演唱会现场和周杰伦合唱了什么歌？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd86406801650u.html>
+
+### 刘畊宏为何突然现身周杰伦南京演唱会？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd86406801650s.html>
+
+### 周杰伦南京演唱会诚意满满，刘畊宏空降合唱引爆泪点
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016516.html>
+
+### 乐评人对曹杨新歌的评价如何
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd86406801650c.html>
+
+### 曹杨新歌由周杰伦方文山创作有哪些亮点
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016508.html>
+
+### 周杰伦作曲方文山作词！曹杨新歌《如诗一般的形容妳》引热议
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016502.html>
+
+### 曹杨新歌《如诗一般的形容妳》什么时候正式上线？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd8640680164zy.html>
+
+### 曹杨新歌《如诗一般的形容妳》由周杰伦作曲有什么特别之处？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd8640680164zw.html>
+
+### 周杰伦方文山联手为曹杨写歌，新歌如诗般动人
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd8640680164zm.html>
+
+### 乐评人对曹杨新歌给予了哪些评价？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd8640680164zg.html>
+
+### 9.26雨最大的时候曹杨扛下了所有 难怪杰伦给他新专辑写歌
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002s76g.html>
+
+### 特朗普总统：美伊预计本周举行更多会谈，美国中央司令部反驳德黑兰对海峡的宣称
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: bbc.com
-- 时间: 2026-09-28 00:16
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tWkU3ODdDdXN3aFJESGlnY3dCT0dmWWFTM2RTSEFKaVZlZEhfZmdlOExEdDZsQ1l6elhtZWFUclRYVFhKZktZaTNlRE9RUlg1d1ZkZkZrQkMyRjBuQ29EWTBUcjdnNmvSAWxBVV95cUxNSjlVRUl6WkZybVg2SEtKV0poSExhLUFtOVMxdi1iQjlkX2tkcDV1ZEVsTHNieFctTTF6MElJeFAtaTM3RWNJNWVXZjhpQm1VUXdoQlBUVlNRS3NFNVlWNEYtQzlCSFZ5Sks1VjQ?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-09-28 15:44
+- 链接: <https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUF9IbDBmeUV1cGpmVkhIN0hqS3ZzcWxiQ01SVEkydVNaaG5GOVhjTnhPbm4zdkZHMDZJVWtKYVFNMW1xYzJEZU5IeFdDTUUybDFDbWZGWXZWSmk0Zjlnem0xblNMMjJRX2tSRmVFTUg1ZDJsblNjczdPVDlIaXJMMFRnVnVYXzdaU2RyLXJGWlZLV2lXdkhzd1NibFhjUWVPU253U1M0X2thOXprOXZwb2kxSG41NC1pVVllc3V3RDlrcV9qaVFqcjdrX2lkM2lBNGJTMllLQ2UyTWdLTVJVeWd30gHkAUFVX3lxTE16OEE3VnA2X0xpV1VuVDFZZWpwWkRiTjFrVUY0RFBPeXR0UGxHMjFVamwzb240UGhGU1k0amw5WmVnMVJ6eFV0V3F1ckhhb25sWWFMTTVLR0FJSzFmcGdkRHd5ZzdrbUZJdGNzOTlzU3FmemNOTkZkeWExQnJXLThKZlM0MG50cTdKcUdYTTFDQlBEaTd4YmZJV0F1cGhqanRfMlFCUlQwODVfNWNTbndaSmduUnBhY0hNbllFbXlLNGc4dmFBNU5FbXdfWVVyVURHYk5JNWRGMUxiVXhtRkpUSjVlcA?oc=5>
 
-### 美驻联合国大使沃尔兹表示 美国曾与中国就伊朗战争进行对话
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-09-27 21:48
-- 链接: <https://news.google.com/rss/articles/CBMipANBVV95cUxNRkloQURqY2NvSDREdm5Beko5LXlwc3l0UDJTQ2FzOF9BTEdYcUp1VkhEdWV0UDNYTi0zLWJ3bWE3YWhYMGd0SG00YUhDeldKcWstbWQ0RHdvUmFrWWRSejFZWUczVEN6N2tDaXo5Z3U5RHNkOUdhTDA0QlVYRGZLZnJxc3VWTXJpWkNUbnJuOFdGTWVlOTJfY0w3WllnZEFkWmVBYU9GbmtkeUlqTkV6UG9KVmhFUlR3SnZxS3gzTkNaRzZpMFVsOV9SdmhrOGhGanNCZVIyTEo3aTlQVGFsTVg3U1VVMGJvOGFBZ0Q2Wm56YmdoSHRUWUVFNzlsM0NfRjJHMlhuY09Hc3BLM2dTUlEtaWo2V0NBaVI5aHJHTkNzUzlTUEdWRUd6Q2laSzBiUm9MWlNKaG1hM0kzV2lVNDdTUnVTcjNLamZhUUdDaDdhS1lJaFRCRDB1aUxnSXpBV0g2ZzZFLTZMWTFfSlJmbE1XMll2UG5iTkJoVm5WYlBfWUNQZndFQ19kUS1NWkhDLTRYbXh1ZGNIc0t4QTRHSlo0LS0?oc=5>
-
-### 特朗普说的“Gung Ho”，源自八路军和游击战
+### 特朗普：与伊朗的战争结束后，通胀问题将得到根除。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-09-28 10:47
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFB4ZDM2M2lkSGlTUWpLeDdIQUtaaHh1Nkx2eW9SNWxPeWptUGZ2aVpEQjlUeDNMaVVmOS1EcmYtaHJJd2hVNVJpb1Jhd2E?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-09-28 19:09
+- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTFBJSDNGRnBjM1Q5cjJNS3hCRzI5RzNwbDNxd2U4NWxDNFJkVnNrWkJ1SUhSSTItTmRqYWxpdTZ5TmhwZXItZnZpNjBnVzV1aGc?oc=5>
 
-### 德媒回味中美峰会：特朗普渴求中方认可，已没多少资本对华强硬
+### AI问题那么大 特朗普为何反对“AI减速”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-28 18:35
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFB6MTBLVHotUnFOV256VFFKWWdBU29ER1BDMnRfVW9XVE1SLXlkejhGcXQ5eDM0N0tXd25uYWNFRGI5bjdUU1dPN3A1SjVDb19mbVRhWW5uaHNMemVKcGpQUDhDNHZSd2l4N3dHaFVvQlhrM1NZQkJSaA?oc=5>
+
+### 扎克伯格和Anthropic首席执行官等将出席特朗普AI主题午餐会
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-28 17:35
+- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ3M2dFlSWUxRLUhxSEQwd3FRU29FSzRneWZQX0lyOUduN1hhRHpTSEttNFg3czZieUdmNU9aYW9qSlhJVHdWdElQSmdzNDlkVE9HT0RHU0xodkI5amUwMFFXT05rdzNOMFhhdGp0ZWxZZHFadjY2VVpBMk92QnlKdUF0a2hqbld5YlE?oc=5>
+
+### Anthropic CEO将与特朗普共进晚餐
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 观察者网
-- 时间: 2026-09-28 06:15
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFBXQzBaMjAyLVdGS0JXVngwTEZoWlYzTEk3R2hwdVhhbUhRbE5yOThKNldzNW1Hd3MwVmpqZ2tLVjJ6TVR0OWowRXhkZFA3c2Z5UEhxYTNSSVhYNWp4bWdtZ3YtRVI0UjVqa2JJeWpwci1lN0k?oc=5>
+- 时间: 2026-09-28 00:28
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFBTWEdQQ2lJRlo2ZjJIdWYxQmdheUNJdDBwODdDQTB1d0N0aDdfZUpsTVZVdm4xSURValJOTFZJVGQyM09RY0c3a20xamZRX3RqZjQtZjQwYkRKamlhNXdTNjFNNzh1N2YydEExazZtZWV2WDg?oc=5>
 
-### 特朗普全力拥抱人工智能MAGA群情激愤|唐纳德·特朗普|美国大选|西弗吉尼亚州|美国总统|共和党_手机新浪网
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-28 06:36
-- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX1hVVUhPNmw4YmdsNXQzeTZzV3pMYmpPUER0dW5qRmpwR3pFUEl0b3FRRFd4U3Z6QXNzRFFyQ29oZ3dBdEN0U2FHNlJrSW5FeWdfTTRwVzByYk05eS1neURneTd6cFdTdTJTOFp1WFppWHlxNUlRa0o1bGlGS0xsM1ZJb214cGNlQVE4UzZFbHNta1hJdmxQY1lfUndISDltSHM4TnJSMm05QQ?oc=5>
-
-### 特朗普两度提及“中国皇后号”，中美经贸往来从广州开启
+### 特朗普在白宫宴请Anthropic首席执行官达里奥
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-09-26 11:55
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRnBTaE8zRXFPazlNQXFpR1M3ak9MRUxLRUNpbTlTNmdHSi1aRnhodTZnX195SWRtWUNBZmhoejZYSWJVU3FLRFE1UURxUlZMUnRCcW1ua19Mb29FYy02dHR6OFlkZDNDcGwtUmJtdmNmWUpFdVRKN1U2UVNUN0Y1NWpEMmcxdk1ybm11dHZwTllrQzBnQmxFOUFmZXdPc0VWOUtreERWVWwwN0o1NFJjWHNwbENYNktkdUZ4SzVCZFI1cjJsSWdfUnhhcS1fZHFR?oc=5>
+- 时间: 2026-09-28 06:32
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRVRNZUU2TUlPWjNzREphQWNheUdYdXpFdnFpN1FLTVNNMkRHNU9yZllqa2xwUVVKRUxidEY2RWpKbGctSWhoMzJuWVdma1h5dVpSWFFIN040eG04RXVTcjBON0ZrY2pKLWpKeW5CT1ZYRUxQYVRBVmM1eXBpMmlPOTMweGw1S3kyLTJZOUlDOHFTcnhRb2JFSUFDdTNSdzVWNGtremMyWmctZFpDbFY1bkJwV0R2SDF4RHJlc2R2TXZRZGlQUGFXN0p4RjBHcFFhMW1XYld1dFhnd1NpeWw4?oc=5>
 
-### “新美联储通讯社”：特朗普的举措事与愿违，利率和通胀不降反升
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-09-28 09:29
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE1BajNld0p1RUxwNmd2d1UzclJPQ1NXSlZkVzJWUkItcXYwaFNTWTM1TWs0RG9UallmbjZpeTM4N2M1b3ktWWJRU2czVjQ4ZFZIM2tV?oc=5>
-
-### 美元“死亡交叉”将至，特朗普为什么反而高兴？-市场参考
+### 中国早有准备，“特朗普客观上助力了”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: xnews.jin10.com
-- 时间: 2026-09-28 10:25
-- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTFBrclBFdWJqTlhabkdhVnp6VUpZcy04eWR0LW53TXNzSUdpX0k1X1drWVhqY0p2YjM3UXJkam1zYkw1cDgzRnZHWUZsS2poaWM?oc=5>
+- 场馆: 观察者网
+- 时间: 2026-09-28 12:59
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE9fR0ViNS04SkV0LVBLcDdwMWFWelF2aFhyWXFtNzAzajJDS2xrWTI5ZE1tb2tsY1BsM2FaZkxOcGdsRmtrUFdQZ3pnUVMydTY2X1hkZm9UblN3NEJ4V0ZHUnZzS3YwRlhhbUhUeXZ4MVZJQ2M?oc=5>
 
-### 大空头迈克尔·伯里：特朗普政府必须维持AI热潮以免经济衰退
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: huxiu.com
-- 时间: 2026-09-28 08:48
-- 链接: <https://news.google.com/rss/articles/CBMiVEFVX3lxTE4wd3BXQ2VvTDJMRHJET1dIOTlqOHJUR1hrWkVBNFY4bGo0TC1UMFhHREVGRDNrN0h1SGFaV0gwRGNBQ1BqTS10YjQ4elRNQ1FEd0Jhaw?oc=5>
-
-### 习近平出席美国总统特朗普在白宫举行的欢迎仪式
+### 美联储放鹰、特朗普拒伊朗，英镑却有望连涨两日？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: cppcc.gov.cn
-- 时间: 2026-09-28 06:10
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE41UEw2YjFkU2VzZVl1YTdZdXVaV0hVWFJGdGh5djJyTVVac1FVYlktQURFalZnekhRYVRLUWFKNzdmMjh3eks3N3N1NXNKQXh1eWFBNUhua3J2Q0l3bDNGUFYtdzY2ekdXQ05ES1pEVE05WEE?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-09-28 15:59
+- 链接: <https://news.google.com/rss/articles/CBMipwFBVV95cUxNaUlkY0NjaVJzdmNxRHFhd2wtQWNmcVQ0UGFxVFlHVHVSd21uZUhraHVQM1U1SDF6LVR1SEdHV2VyblJDUmhyZ3RkM3RGYS1kck5KWk93MWVBWk9mc3hQNlZhNVNwWE1wSjU3d2YtTVo3UVpKSDJKUmJKNDBCQVl1cHQzUkdjNzF0c1ZHSVVpN1ZSUWotaERib1JuQkUwLVFiSGU3dXJGQQ?oc=5>
 
-### 美驻华大使：特朗普曾提议向中国出售武器
+### 特朗普拒绝伊朗提议令油价上涨 美债市场抛售加剧
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-28 16:01
+- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTm5iUHdRTlBHeEdUaW5jTnp3Q0JWRXlBd2lOcm5hcnNwUE9LRW5GaDFFZ3RlbGxpa0V6WS1QM3dEdVg4R2JsOHd4TlNCVmV2XzZCaThQQTZxaGZNWHdseUpvNS1pWWhDbzFZZ21NR05Ba2o1cFpFb2g4NWdWZnRfYU1GeWxDSG1qcFJNa2Y2MTFLekFLeHFhUHlZa0lxSUtEeEoxRjN4WTFjdVA4Vlltb04weWx0R2lsdVgxMXRCUE1vU3V1TmEzQmx1UGJMSmtvWHc?oc=5>
+
+### 特朗普长子支持的Unusual Machines与美国资产管理公司向加拿大Draganfly投资1000万美元
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-09-28 02:09
-- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTE14b0Q0VkVhNTFXUUR4ZWNxNDU3SWkyU29YV2hFN1lsWkc0b0dEcEV2MGNlb0drc3VPejlGODV5bzY3TWE0OXJEcGlqYWhSUk5jTm14TUZLWmtBZUN1U2hxLUpUOFpyNVNySjdwTEt3?oc=5>
+- 场馆: 联合早报
+- 时间: 2026-09-28 14:59
+- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTFBwWnJkT0lNVVpKc2VtUEtuVjhrUWVRZk9NUHVsaTA2bjNLOC1Jd0cteGEycFU0RTlNdGFleHEtOEdndl91VjJ0NS1qbFE0aXJYMXA0OWlqYUhRdjNXU25VUjRGZjZQeFo5Z1ZudUF3?oc=5>
 
-### 习近平缺席联大：一个日益失去影响力的联合国
+### 习近平听完大力鼓掌 历史级画面引发全球疯传
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-09-27 17:51
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5iR0xtZXRsQzQzR3dJTjlGNDVzZFcwUEN6YTF2YWwwcWc1cUhUM0YzRHU3clV6QUhjNmFuckxTMmFFSjRsZkNzbGtrN21WcElLWEZFRVl2VUVVT0pUNTR0Z1lLcC1kOUV3aDlZMWQ3TFZkak0?oc=5>
+- 场馆: aboluowang.com
+- 时间: 2026-09-28 02:54
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE5CRi1JcUhfN3RfSEVqQ1gzQ19Za0JhV18zR2syYzB6M0NxamxtVGZtWUV2dTh3YTdVWVlkVnNvYjJmV1NzRklCVHljVmM2T3otRU1GVjdaNG14d3ljMUHSAWNBVV95cUxNck5ZQ1FabDdwS0R4RlVIaVpYRkVlWThVMDByczBxeE8xSXRvSDc1Wmh1dEtsbmZQZHpKVW92cW5xYkFoVDhxRF91a0hXMjUwSGtRcXV3N0sydVZ6azh2QWJfVWc?oc=5>
 
-### Oil Climbs After Trump Rejects Iran's Truce Proposal -- Market Talk
+### Iran Says Won't Soften Demands as Trump Rejects Hormuz Offer
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: Moomoo
-- 时间: 2026-09-28 07:36
-- 链接: <https://news.google.com/rss/articles/CBMirAFBVV95cUxPYzFxUXAwSVFlSlcwUGVuOUxEWkRBRFJkeFdmNmpVNTh5bDlGbDhxMGZ6SVZDZElQd2xqbFljWEhGQ3lQYmtHM0g2c0RGNlR1RU1PR1lUdEtPcXVWYWR0ekdjNEVIUndrVTJMNWxCX3VrTGNMUjBSaHBqTGdIdE5XN2tSdUllSzBoa2hPeTVOS2lhQktWdkNIendMazVGMGlhV0FXM3JjZzR5NzB3?oc=5>
+- 时间: 2026-09-28 14:28
+- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxQVDE0Y21pb08tejlpTkp6MkxnWktJNWtUV3ZfR1JCeWg4Q2pZUDFoQXZFbWxfMWQ1ZmdvZjJFM2FXQ0QwVmdJOUpuYnFqQVdPRExETTNTcG9EVllISS16djJOczhNVWdoYUVlSTREVi1NS00zY0hnN0NLV2NWVXZWSjJ6eFRaOGZXMVlzdmpPUG9hTGNsdXNJbGJsUkZwLW5D?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-28 19:56  (35 条)
+
+- **周杰伦** | 刘畊宏为何会在周杰伦南京演唱会惊喜现身？ <https://k.sina.com.cn/article_7880068588_1d5b04dec06801slj2.html>
+- **周杰伦** | 周杰伦接下来的演唱会行程会去哪些城市？ <https://k.sina.com.cn/article_7880068588_1d5b04dec06801slj4.html>
+- **周杰伦** | 周杰伦方文山联手，曹杨新歌秋日上线 <https://k.sina.com.cn/article_7879923118_1d5ae15ae06801pjsi.html>
+- **周杰伦** | 刘畊宏为何会空降周杰伦南京演唱会？ <https://k.sina.com.cn/article_7879923101_1d5ae159d06801pbha.html>
+- **周杰伦** | 周杰伦后续还有哪些城市的巡演计划？ <https://k.sina.com.cn/article_7879923101_1d5ae159d06801pbh8.html>
+- **周杰伦** | 周杰伦南京演唱会的舞美设计有何亮点？ <https://k.sina.com.cn/article_7879923101_1d5ae159d06801pbh6.html>
+- **周杰伦** | 周杰伦南京演唱会现场有哪些暖心互动？ <https://k.sina.com.cn/article_7879923101_1d5ae159d06801pbh4.html>
+- **周杰伦** | 周杰伦南京演唱会：刘畊宏空降合唱《淘汰》 <https://k.sina.com.cn/article_7879923101_1d5ae159d06801pbgy.html>
+- **周杰伦** | 刘畊宏空降合唱《淘汰》，周杰伦南京演唱会泪目全场 <https://k.sina.com.cn/article_7879923375_1d5ae16af068020riw.html>
+- **周杰伦** | 周杰伦后续还有哪些城市的演唱会计划？ <https://k.sina.com.cn/article_7879776356_1d5abd864068016514.html>
+- **周杰伦** | 周杰伦在南京演唱会与粉丝有哪些暖心互动？ <https://k.sina.com.cn/article_7879776356_1d5abd864068016510.html>
+- **周杰伦** | 周杰伦2026年巡演后续还有哪些城市？ <https://k.sina.com.cn/article_7879776356_1d5abd86406801650y.html>
+- **周杰伦** | 刘畊宏在演唱会现场和周杰伦合唱了什么歌？ <https://k.sina.com.cn/article_7879776356_1d5abd86406801650u.html>
+- **周杰伦** | 刘畊宏为何突然现身周杰伦南京演唱会？ <https://k.sina.com.cn/article_7879776356_1d5abd86406801650s.html>
+- **周杰伦** | 周杰伦南京演唱会诚意满满，刘畊宏空降合唱引爆泪点 <https://k.sina.com.cn/article_7879776356_1d5abd864068016516.html>
+- **周杰伦** | 乐评人对曹杨新歌的评价如何 <https://k.sina.com.cn/article_7879776356_1d5abd86406801650c.html>
+- **周杰伦** | 曹杨新歌由周杰伦方文山创作有哪些亮点 <https://k.sina.com.cn/article_7879776356_1d5abd864068016508.html>
+- **周杰伦** | 周杰伦作曲方文山作词！曹杨新歌《如诗一般的形容妳》引热议 <https://k.sina.com.cn/article_7879776356_1d5abd864068016502.html>
+- **周杰伦** | 曹杨新歌《如诗一般的形容妳》什么时候正式上线？ <https://k.sina.com.cn/article_7879776356_1d5abd8640680164zy.html>
+- **周杰伦** | 曹杨新歌《如诗一般的形容妳》由周杰伦作曲有什么特别之处？ <https://k.sina.com.cn/article_7879776356_1d5abd8640680164zw.html>
+- **周杰伦** | 周杰伦方文山联手为曹杨写歌，新歌如诗般动人 <https://k.sina.com.cn/article_7879776356_1d5abd8640680164zm.html>
+- **周杰伦** | 乐评人对曹杨新歌给予了哪些评价？ <https://k.sina.com.cn/article_7879776356_1d5abd8640680164zg.html>
+- **周杰伦** | 9.26雨最大的时候曹杨扛下了所有 难怪杰伦给他新专辑写歌 <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002s76g.html>
+- **特朗普** | 特朗普总统：美伊预计本周举行更多会谈，美国中央司令部反驳德黑兰对海峡的宣称 <https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUF9IbDBmeUV1cGpmVkhIN0hqS3ZzcWxiQ01SVEkydVNaaG5GOVhjTnhPbm4zdkZHMDZJVWtKYVFNMW1xYzJEZU5IeFdDTUUybDFDbWZGWXZWSmk0Zjlnem0xblNMMjJRX2tSRmVFTUg1ZDJsblNjczdPVDlIaXJMMFRnVnVYXzdaU2RyLXJGWlZLV2lXdkhzd1NibFhjUWVPU253U1M0X2thOXprOXZwb2kxSG41NC1pVVllc3V3RDlrcV9qaVFqcjdrX2lkM2lBNGJTMllLQ2UyTWdLTVJVeWd30gHkAUFVX3lxTE16OEE3VnA2X0xpV1VuVDFZZWpwWkRiTjFrVUY0RFBPeXR0UGxHMjFVamwzb240UGhGU1k0amw5WmVnMVJ6eFV0V3F1ckhhb25sWWFMTTVLR0FJSzFmcGdkRHd5ZzdrbUZJdGNzOTlzU3FmemNOTkZkeWExQnJXLThKZlM0MG50cTdKcUdYTTFDQlBEaTd4YmZJV0F1cGhqanRfMlFCUlQwODVfNWNTbndaSmduUnBhY0hNbllFbXlLNGc4dmFBNU5FbXdfWVVyVURHYk5JNWRGMUxiVXhtRkpUSjVlcA?oc=5>
+- **特朗普** | 特朗普：与伊朗的战争结束后，通胀问题将得到根除。 <https://news.google.com/rss/articles/CBMiT0FVX3lxTFBJSDNGRnBjM1Q5cjJNS3hCRzI5RzNwbDNxd2U4NWxDNFJkVnNrWkJ1SUhSSTItTmRqYWxpdTZ5TmhwZXItZnZpNjBnVzV1aGc?oc=5>
+- **特朗普** | AI问题那么大 特朗普为何反对“AI减速” <https://news.google.com/rss/articles/CBMieEFVX3lxTFB6MTBLVHotUnFOV256VFFKWWdBU29ER1BDMnRfVW9XVE1SLXlkejhGcXQ5eDM0N0tXd25uYWNFRGI5bjdUU1dPN3A1SjVDb19mbVRhWW5uaHNMemVKcGpQUDhDNHZSd2l4N3dHaFVvQlhrM1NZQkJSaA?oc=5>
+- **特朗普** | 扎克伯格和Anthropic首席执行官等将出席特朗普AI主题午餐会 <https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ3M2dFlSWUxRLUhxSEQwd3FRU29FSzRneWZQX0lyOUduN1hhRHpTSEttNFg3czZieUdmNU9aYW9qSlhJVHdWdElQSmdzNDlkVE9HT0RHU0xodkI5amUwMFFXT05rdzNOMFhhdGp0ZWxZZHFadjY2VVpBMk92QnlKdUF0a2hqbld5YlE?oc=5>
+- **特朗普** | Anthropic CEO将与特朗普共进晚餐 <https://news.google.com/rss/articles/CBMic0FVX3lxTFBTWEdQQ2lJRlo2ZjJIdWYxQmdheUNJdDBwODdDQTB1d0N0aDdfZUpsTVZVdm4xSURValJOTFZJVGQyM09RY0c3a20xamZRX3RqZjQtZjQwYkRKamlhNXdTNjFNNzh1N2YydEExazZtZWV2WDg?oc=5>
+- **特朗普** | 特朗普在白宫宴请Anthropic首席执行官达里奥 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRVRNZUU2TUlPWjNzREphQWNheUdYdXpFdnFpN1FLTVNNMkRHNU9yZllqa2xwUVVKRUxidEY2RWpKbGctSWhoMzJuWVdma1h5dVpSWFFIN040eG04RXVTcjBON0ZrY2pKLWpKeW5CT1ZYRUxQYVRBVmM1eXBpMmlPOTMweGw1S3kyLTJZOUlDOHFTcnhRb2JFSUFDdTNSdzVWNGtremMyWmctZFpDbFY1bkJwV0R2SDF4RHJlc2R2TXZRZGlQUGFXN0p4RjBHcFFhMW1XYld1dFhnd1NpeWw4?oc=5>
+- **特朗普** | 中国早有准备，“特朗普客观上助力了” <https://news.google.com/rss/articles/CBMic0FVX3lxTE9fR0ViNS04SkV0LVBLcDdwMWFWelF2aFhyWXFtNzAzajJDS2xrWTI5ZE1tb2tsY1BsM2FaZkxOcGdsRmtrUFdQZ3pnUVMydTY2X1hkZm9UblN3NEJ4V0ZHUnZzS3YwRlhhbUhUeXZ4MVZJQ2M?oc=5>
+- **特朗普** | 美联储放鹰、特朗普拒伊朗，英镑却有望连涨两日？ <https://news.google.com/rss/articles/CBMipwFBVV95cUxNaUlkY0NjaVJzdmNxRHFhd2wtQWNmcVQ0UGFxVFlHVHVSd21uZUhraHVQM1U1SDF6LVR1SEdHV2VyblJDUmhyZ3RkM3RGYS1kck5KWk93MWVBWk9mc3hQNlZhNVNwWE1wSjU3d2YtTVo3UVpKSDJKUmJKNDBCQVl1cHQzUkdjNzF0c1ZHSVVpN1ZSUWotaERib1JuQkUwLVFiSGU3dXJGQQ?oc=5>
+- **特朗普** | 特朗普拒绝伊朗提议令油价上涨 美债市场抛售加剧 <https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTm5iUHdRTlBHeEdUaW5jTnp3Q0JWRXlBd2lOcm5hcnNwUE9LRW5GaDFFZ3RlbGxpa0V6WS1QM3dEdVg4R2JsOHd4TlNCVmV2XzZCaThQQTZxaGZNWHdseUpvNS1pWWhDbzFZZ21NR05Ba2o1cFpFb2g4NWdWZnRfYU1GeWxDSG1qcFJNa2Y2MTFLekFLeHFhUHlZa0lxSUtEeEoxRjN4WTFjdVA4Vlltb04weWx0R2lsdVgxMXRCUE1vU3V1TmEzQmx1UGJMSmtvWHc?oc=5>
+- **Trump** | 特朗普长子支持的Unusual Machines与美国资产管理公司向加拿大Draganfly投资1000万美元 <https://news.google.com/rss/articles/CBMibkFVX3lxTFBwWnJkT0lNVVpKc2VtUEtuVjhrUWVRZk9NUHVsaTA2bjNLOC1Jd0cteGEycFU0RTlNdGFleHEtOEdndl91VjJ0NS1qbFE0aXJYMXA0OWlqYUhRdjNXU25VUjRGZjZQeFo5Z1ZudUF3?oc=5>
+- **Trump** | 习近平听完大力鼓掌 历史级画面引发全球疯传 <https://news.google.com/rss/articles/CBMiXkFVX3lxTE5CRi1JcUhfN3RfSEVqQ1gzQ19Za0JhV18zR2syYzB6M0NxamxtVGZtWUV2dTh3YTdVWVlkVnNvYjJmV1NzRklCVHljVmM2T3otRU1GVjdaNG14d3ljMUHSAWNBVV95cUxNck5ZQ1FabDdwS0R4RlVIaVpYRkVlWThVMDByczBxeE8xSXRvSDc1Wmh1dEtsbmZQZHpKVW92cW5xYkFoVDhxRF91a0hXMjUwSGtRcXV3N0sydVZ6azh2QWJfVWc?oc=5>
+- **Trump** | Iran Says Won't Soften Demands as Trump Rejects Hormuz Offer <https://news.google.com/rss/articles/CBMioAFBVV95cUxQVDE0Y21pb08tejlpTkp6MkxnWktJNWtUV3ZfR1JCeWg4Q2pZUDFoQXZFbWxfMWQ1ZmdvZjJFM2FXQ0QwVmdJOUpuYnFqQVdPRExETTNTcG9EVllISS16djJOczhNVWdoYUVlSTREVi1NS00zY0hnN0NLV2NWVXZWSjJ6eFRaOGZXMVlzdmpPUG9hTGNsdXNJbGJsUkZwLW5D?oc=5>
 
 ### 2026-09-28 12:37  (19 条)
 
