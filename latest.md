@@ -1,64 +1,62 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-27 21:48**
-- 本轮扫到 12770 条, 新增 **6** 条
+- 最近更新: **2026-09-28 00:13**
+- 本轮扫到 12775 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (5 条)
 
-### 特朗普预计本周恢复与伊朗谈判：霍尔木兹海峡双方僵持不下
+### 周杰伦南京演唱会，vivo X500山顶拍出VIP级画面
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-09-27 21:22
-- 链接: <https://news.google.com/rss/articles/CBMimANBVV95cUxOSmJZQm1qZl8wclBMcXYzNjJMcWJ2QW1icUxYcU5HWVJrakJudFF4andjc2NMZjlNeWVnU2pUSTN1dVhZQ21GUjVULXBESDFraFFuNXJRc3ZvY1gtbnN1Q1M1YVBScHlQdkpvNGdfdDFnN0FHY19PdVcwZ3ludlRKZ3pfT0ozSV81ekxjZWVPT2lacVNHRGNEUnEybVR6ektHUXIxUVE5c1ppTTNfQkZibGtHaFllemlVbXcwbXNodDktR3g0OWdJZG9TaVhaV1RmNTFfb05oRDZYdTZwOFJSY0JzdWxuRVAxWW5vUWhqLVFXNDVkUWxjX3RFREduLUx0eTU2SFNVc3pJcE5uTl9lNW5iX0ZxUDcyS1F3UVYtUVlVVDFVQm9tXy1RUXd6NC1OS3FQcWhZdmJnVUNFTl9kZG9jb3hhUDdYd2Y4SDNtYnlCYm50RFduQWxfekxQMmlQRFFwRndNMjBKQ2stLTJ5UDlNTURScW9tVWgzekRtYWdDY2JpYW1neHdQUENxRDVDdzhINXlPeEM?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879924057_m1d5ae195903301n5lq.html>
 
-### 特朗普计划与Anthropic CEO共进晚餐 双方关系出现缓和信号
+### 特朗普确认会见Anthropic CEO，重申反对放缓AI发展
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-27 16:02
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9XUVRkYkNMTVpPYmxiSktob0R1MThzbGtYRnFTci1Gdkw4ZFBLZ2lUUHdQLTJSSWlxbXdVbjFCRlJobGZVU05waklzZUJIMDFxVUt1cmJ5Slp0aWFLOGVDTWZzSjR2VW8wNVlxVkRYSUE1MnEtOTNJdg?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-09-27 23:12
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE5kTGk0SmhCelRjaGRXREdXdEotMHZyZHFldF9pOGtUeGk5dnlDUDBJY1RPVkh0TlUtbklFTG15NDlhejBGWnVsQw?oc=5>
 
-### 特朗普发帖：美国汽车工人和购车者的大日子
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-26 19:31
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5tcXRrdGdCUHRVMDd5eFVoTG1ZbUh3dEZDdDVwR0k5QXg0V1haNkFRX1dfVm1EaldXSjZIVm95NE85SVdRVlBSRk91SXJna3E4WmpkRjVhUHhxblJuNVFEdHdMUFdCeThHMVViV2lwZ2dRSEhNN0hCWQ?oc=5>
-
-### 特朗普：近日将继续与伊朗谈判；塞尔维亚总统武契奇宣布辞职；国乒实现女单亚运会八连冠；三大运营商全面暂停“0元购机”业务丨每经早参
+### 特朗普：截至今晨，伊朗通胀率达到318%。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 每日经济新闻
-- 时间: 2026-09-27 21:40
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5IWTJWeC10OWZ5TXF4NWFrNU5aUWl6YWVtMVNVemxGZWZmUVNRUGp2ZHkyQjhsaUttbkZnM2paNHYtcXR6bGdmeUhQOGItYmQ5d19oYkI5Nm5vUlEyUngzOEJIclViQQ?oc=5>
+- 场馆: finance.sina.com.cn
+- 时间: 2026-09-27 20:50
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE4wUEl3d0dXeUZEbWlVZzJNM3pTSWJ6R0IyZk93VTZmdmdvUVNBbnpNSEtKbmV0T2xwZ19ZTHBMbERJWGNqNkQzTmJxcw?oc=5>
 
-### 习近平和彭丽媛同美国总统特朗普夫妇茶叙
+### 特朗普称预计本周继续与伊朗谈判
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-09-25 16:52
-- 链接: <https://news.google.com/rss/articles/CBMijgFBVV95cUxOeldsdVJGUS05OUtxNnZIWFJUaDdzUXhnUFFzMXBFc0l0QUtCT1JDWkVyal9CYmhHSkJhenVWaUotYnlIWEExWjdZZ2tfTmZLbUZWQUFoYzNBUEFRLW84NTJMaTlteGNKcDZWWC04RlMyMk52OF9OMDZNU1FMT0dtbnowWnRlOWY3X0NKTjZn?oc=5>
+- 场馆: chinanews.com.cn
+- 时间: 2026-09-27 15:36
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE45WDJGVTRLcXVLNmV2WDZHSl9ua09Rd3BWM0J6eldnTzZTNldoellrcjZhaG5CMUhmSGQ5ZGFjSjBIaUJjRS1QcmhHZjZ1X0dfb2plSVFqTXB4cjItX3loVzNRRGdhWnk3?oc=5>
 
-### 特朗普总统拒绝德黑兰方案，但预计美伊下周恢复谈判
+### 特朗普迎接习近平 白宫举行欢迎仪式
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-09-27 20:18
-- 链接: <https://news.google.com/rss/articles/CBMixwFBVV95cUxPaXpKX3VmcnpkUWxNNUQ1eTJrUGxhQk93SV8xaXZpd2JoQy1ycXhIZFBDbG9keVZMNmpnT3pmZFk1VmJQNVVDS2liaFdsekpRN1VBcGNvWmhWNFRjeTVYTk5rZkdrOE0tbXNvbTdlQmlFaDQzN3NaQ2VEdkh0U0VhSDA0S1NXajM0X2NGVjhTTjBMY0lURXdNVld0TGZ4dzFmbHdqR3dmb0dvbDI1ZjBFdnp4eUhJR1JZRU9HeDhGSzR1Qm5QRWlZ0gHKAUFVX3lxTE5FZ2FEWmladVJZdFNWUjRyRFZET2JVNEtTMlNWTTdOclkzbkJPTnY4dWllX0ZCVndOMVdXc0pBZC1aNHNITWl4bU11LVNNekhpekNqTUdYR2JwVjZoYlpaTUdlVjhnNDh3M3U2UTVjbGoyME9PNkxBR21nYW9ja0VVM3JoTWdVUE9HRkUzSXNRLVNzVWJwZzFDZFl5clhzZHR4QU9ZYnNkU2dqTGMza3c0ZHByeDU5UGh6ZzFwOVVrX3RzNXpuS1FmYlE?oc=5>
+- 场馆: 8world.com
+- 时间: 2026-09-24 11:35
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5NZ1NTTjgzX0hiYTRhVzVnMDF3cnBkcG5PR0JEMHphdE1zd05KZkQ0R3M4QkRDM2RaM0NYbDBpbDQ0bGNEOFhmX2xRSF95blo4RC16UHp3LXZQOUhqdU1oNG5pdHhhREhhb3ZDUWhmU0xBUWxjMzhRcw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-28 00:13  (5 条)
+
+- **周杰伦** | 周杰伦南京演唱会，vivo X500山顶拍出VIP级画面 <https://k.sina.com.cn/article_7879924057_m1d5ae195903301n5lq.html>
+- **特朗普** | 特朗普确认会见Anthropic CEO，重申反对放缓AI发展 <https://news.google.com/rss/articles/CBMiSEFVX3lxTE5kTGk0SmhCelRjaGRXREdXdEotMHZyZHFldF9pOGtUeGk5dnlDUDBJY1RPVkh0TlUtbklFTG15NDlhejBGWnVsQw?oc=5>
+- **特朗普** | 特朗普：截至今晨，伊朗通胀率达到318%。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE4wUEl3d0dXeUZEbWlVZzJNM3pTSWJ6R0IyZk93VTZmdmdvUVNBbnpNSEtKbmV0T2xwZ19ZTHBMbERJWGNqNkQzTmJxcw?oc=5>
+- **特朗普** | 特朗普称预计本周继续与伊朗谈判 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE45WDJGVTRLcXVLNmV2WDZHSl9ua09Rd3BWM0J6eldnTzZTNldoellrcjZhaG5CMUhmSGQ5ZGFjSjBIaUJjRS1QcmhHZjZ1X0dfb2plSVFqTXB4cjItX3loVzNRRGdhWnk3?oc=5>
+- **Trump** | 特朗普迎接习近平 白宫举行欢迎仪式 <https://news.google.com/rss/articles/CBMieEFVX3lxTE5NZ1NTTjgzX0hiYTRhVzVnMDF3cnBkcG5PR0JEMHphdE1zd05KZkQ0R3M4QkRDM2RaM0NYbDBpbDQ0bGNEOFhmX2xRSF95blo4RC16UHp3LXZQOUhqdU1oNG5pdHhhREhhb3ZDUWhmU0xBUWxjMzhRcw?oc=5>
 
 ### 2026-09-27 21:48  (6 条)
 
