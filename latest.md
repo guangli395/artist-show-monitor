@@ -1,128 +1,217 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-29 00:10**
-- 本轮扫到 12860 条, 新增 **15** 条
+- 最近更新: **2026-09-29 05:57**
+- 本轮扫到 12886 条, 新增 **26** 条
 
 ---
 
-## 本轮新发现 (15 条)
+## 本轮新发现 (26 条)
 
-### 周杰伦南京演唱会雨中唱了多久
+### 肖战生日当天会发布新歌或动态吗？
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd86406801668i.html>
+
+### 肖战王一博新歌歌词相似，昨日同入围华鼎奖
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5601456932_14ddf732404002k4vm.html>
+
+### 未来两人是否有合作新歌的可能
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd86406801665m.html>
+
+### 肖战和王一博新歌歌词有哪些具体呼应
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd86406801665u.html>
+
+### 肖战和王一博新歌中哪些歌词形成了呼应？
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd86406801665k.html>
+
+### 两人在演唱会上改词是否含特殊含义
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd86406801665c.html>
+
+### 肖战王一博新歌歌词隔空对答，粉丝狂喜！
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd86406801665g.html>
+
+### 肖战王一博新歌歌词隔空对话，粉丝狂欢
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016658.html>
+
+### 肖战新专辑异想天开上线，与王一博提名华鼎奖
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_6514443328_1844a844004009axd2.html>
+
+### 曹杨新歌黄金阵容有多久没合作了？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801lv8i.html>
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd86406801663e.html>
 
-### 周杰伦南京演唱会连唱40首，雨中互动太浪漫
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801lv8a.html>
-
-### 周杰伦方文山黄金三角联手，曹杨新歌听哭网友
+### 周杰伦方文山联手！曹杨新歌听哭网友
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd8640680165as.html>
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd86406801662q.html>
 
-### Day 3 — 南京。外孙女带外婆第二次看杰伦哥的演唱会，现场氛围真的很感人。外孙女说小时候外婆总把最好的东西留给她，现
+### 周杰伦南京演唱会现场直击！那天下雨了彩排，氛围感拉满
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002s6wc.html>
+- 链接: <https://k.sina.com.cn/article_6090644881_m16b07dd9103301k15e.html>
 
-### 白宫习特会更多内容公布 可此刻无声胜有声
+### 曹杨新歌《如诗一般的形容妳》为何被称为梦幻联动？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801lvpu.html>
+
+### 周杰伦方文山林迈可联手！曹杨新歌如诗上线
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801lvpg.html>
+
+### 仅此一站的爱琴海，仅此一次的青春｜周杰伦演唱会青岛限定文创套装预售开启
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://finance.sina.com.cn/wm/2026-09-29/doc-initnmwi2916938.shtml>
+
+### 突破万单！芝麻租赁携手vivo，在周杰伦演唱会打造品牌体验营销新模式
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://finance.sina.com.cn/roll/2026-09-29/doc-initnfqm6186396.shtml>
+
+### 文创礼包等你拿！周杰伦演唱会青岛站粉丝故事征集火热进行中
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://finance.sina.com.cn/roll/2026-09-29/doc-initnfqh2525336.shtml>
+
+### 一场演唱会，激活一座城，周杰伦、华晨宇南京演唱会背后的“演唱会经济”
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://news.sina.com.cn/zx/gj/2026-09-29/doc-initnfqi9293399.shtml>
+
+### 曾向习近平兜售武器？特朗普：未讨论过此事
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-09-28 10:43
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nUU5tY0JhS2pZTC1PRnNpX01YcDYtaHhjVS01N1BYZF9MTllobWQzM0pEckliYThWQU1rT1hHY0Jrd3JkVVNRemdnTjZZX2JRXzRZazQwNUhFc2s1a0xJYVU3Z25QTUXSAWxBVV95cUxQSzhOMDBmUXRpTzZwcFBjc2RZQ0JnbVJwV2VjYWxHU29iOFF6N1ZUSnYyNUJBSWxpWXdxWmd4S21HNF91ZGZkdktlci1BSEtIT1JPXzZEWmp6M0x2VUJPNmFsVm83X092YV91TGk?oc=5>
+- 场馆: DW.com
+- 时间: 2026-09-29 04:16
+- 链接: <https://news.google.com/rss/articles/CBMioAJBVV95cUxNNktubElVSUx4VFlua29XS2doLWIwSExHLUZ5QnBNNGNrTWJSSzBpTjgyQlctZ3NkY1dIWERoZlpoREtSLUdTcUljZnoyTTNWRDVkR25jOVllSHptU1hZTE5uNVMxZE91WThpcExnX2diU016WGxHV1d3V2ptb2h2MjZ4UTJtSHJWanpXLW8tSDRXN1N5c2duRTh4LUdfbWhPVVhMSkVSVnVMN3dpdmp0aEVaOV9uZU1aUkdpT3Z5bGNadFJOX19PUGRhbjFrcWxSXzV5VlpHUHVLMHdXbmVGbmViUEZ5M0FPSHYzZU50X2J6QUR1Z2JfeGFWVk1tdkY0a1lQdS1fWlg4TEUxUUt0ekZMZ1dFeDlSQXg0Q1lVYkHSAaACQVVfeXFMTlRRRmhfOXJCWDdxQVpLWm5JT29sWUxwb3k4Z2U0ZGVTcll4aVI5X1psNFBnZ1NQVzZYYU1CTnNOOUpEenNzQzI2WS0xdU9SZzRlSmx6SWphWUtRNzQ0bkRwVTJEcWprcjZnV0F4ZWMxaG4tTmdOT0UtZ1NuRlAtazJEbDJzVTJaS1FKbXIyWkpfeUhWZXFqRFlsWnRaU1lLbGZLQ3paV2l0dGt0Y1ZmRTFwOGNCUEtNUkhkeEFPdFVmbVBwRTFidmdIT3lMN21YLUl6YnRpOXgyNmdMMnN5MlF3VjFTajVDR0JrQXRDbEI0TlNKbXNnSDJwRno4bG9uaDFwU19HOXVOOGF6QzJ3YUlrTVdfaVRPeVFGaWpXVk9k?oc=5>
 
-### 法国世界报 - 在习近平访问华盛顿期间，特朗普政府接连出现外交失误
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-09-28 22:31
-- 链接: <https://news.google.com/rss/articles/CBMi4ANBVV95cUxONFFjMDY3ZWs0QlZMSWhHazNLdzY1dDczLThVcnd1X2pHUWJqSTJ5M3NTcWNvaFNJZF84cmlRVDlpWGh4X0ZaNl9iUTlHdEZsRWQ0V09NN050cHY3bEFYYmV5TWVmbXNGTGV5YU5IZk1vdVRLMWRJc3RNV3BaV1BweEdmQWlkb0RyOGo4RDB5TVJ3enZwaFQ4OXRULTZ1cTRFUUhPNDZoVHNNZU0zV3dEWkdHc25CUnlOMGhnVi14YWstbkFVNHNyQzZNdkJxSnZRT1otekNFX29fcGpCVHhoeFFkcmVkTXJNUHc0TjRZQ3VqUVF6cmx4QW9UTkdIZC1VQkxPQnlJYXpxWk1PaUpxaGFsU3RXWHYtVHlPdUd1dmVuZnFLRm9NVVFPdVYtSHNySnlyblJWWk9OaHAtVS1KWWtnajF3WnpnRVcwLXFwbEdTZ1NtMEhyMHB6QTlsamFOR2JUOEM4UTR2Q2d5RWljWXFCc0FwNWFJVGVsbm9DY0N0WTlZdUhnSUVxdEFPNlN5LXpzanpUQVpKQjRhWjJDQk1iRldrUmEtTU9rRWw1NTRaR2FOQ2tfNDJ6SVpPVVZWNE40WEtiU1lyX09veDc2T1R1OXBTMFljNUVUc0FTX0Y?oc=5>
-
-### 特朗普将公布爱荷华州150亿美元钢铁项目规划
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-09-28 22:26
-- 链接: <https://news.google.com/rss/articles/CBMingJBVV95cUxOV3ZzaGdTZ1JjdVZITzVyMUxIdjdIRjAyTl9aOEVJZlVoeDlzd1FyRV9LN2ZZOVVrYWdEN21idm9rZ3VuMDNDTmxqV1ZpYXM1V3l6QUZZWUhPMHlZV1hHZHRIb2dwSTByQXJoRERycTlNMnRmUEZkV1piYzV4ZUdlZWJVQUpZMjl5ZVV2REFZY01yMWxYWl9CR0U0UjhoZ0E3TzVCZlNBcGFHVjBQWlRrSmt3d2dOZHFQLWx1VnU3QmdFdWtzMkNxUkhFbm0yUEw0WjJubGEyUDllai1KNGRUQmlIMHF1Yk1PdjN1SDBjUDZzQ3RMc08wdExCa1AxSmFHSktQYmdZclMtalNDcWpzSXU4RUdhMnZySGozRWhR?oc=5>
-
-### 日方官员称特朗普表态让日本不舒服 提及中美二战同盟关系
+### 特朗普评价中美元首会晤: Amazing! 实际成果促进展
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 中华网
-- 时间: 2026-09-28 23:22
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBnUFdCRVRqQUliY194djJ2V0lHWGI4WDdBT1MzTTZqTVdIeU05Qk1mRFlyN1lIS01iaGFsTWpYU3cwdVM5bmVIY3U3Xy1xWE1PMGM4SUxXMjFWeFV4OHhHVHkyTkhZQTh1VUhrc1FVNlo?oc=5>
+- 时间: 2026-09-29 05:28
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1jcEh0WU15NXgyNTRMcTBtOGIzOUlQeFRTTE9WdE1MUk43OV9tNFBTMXkxcVlXdEhROGxJNnZlQlEzUF9hcjNhb01Rb3M2cnY5OHlPeDJnU2htS2pSejZaU3Y3RC1NbnM4dGJ1WHZ1SHA?oc=5>
 
-### 特朗普证实美伊代表已交换信息 普京签署总统令再次扩编俄军 | 环球市场
+### 岚目镜观｜任尔东西南北风：战火、利率与特朗普的边界
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-09-29 05:24
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2ZmlPZGdjalVWRi1JaElhOWZjQ09DOUhPU3lmdlhnQlRMNU84NTV0d2k3bldnLWhmT2xTTi1tVllXWURkYWRfdm1WalBLREZwLW1DYVRRODFzdmY3SC1pdg?oc=5>
+
+### 周二，特朗普与六巨头齐聚白宫，决定未来AI发展方向
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街见闻
+- 时间: 2026-09-29 03:09
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VdHBha0xYd041QjBqTjBkcGdLMDVYSEJJdlpFLWVjc3EyT1JIZktIUGNlY0lidGJMMTlhVEIzNjJTR1ZfRzZEZ2ViQnpfc3ljc2pj?oc=5>
+
+### 扎克伯格、阿莫代伊等科技高管将于周二会见特朗普
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: finance.sina.com.cn
-- 时间: 2026-09-28 23:04
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE91enNYUnhTTUlxSGFkQ2ZwTFE3MDhFRVdMU01wYWlqNGgzb0h6cjd2dndibDdGRURkUXRoXzl2T2UtYnJHeVdWXzhDS1F4SWl2Q1VBMDJDZUhuTDJWUFNlU1gzd3FrXzF4MEZZWTNfb1BxNExLcEdUQw?oc=5>
+- 时间: 2026-09-28 21:00
+- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQVZaMzNVWF9zb0tJYXc2LVR3a3Z2WENycmtXNFZGRGpQQlRwSjdad0Q1VldEU1Y4Zl9KTnZDbVVKT2JKdFZTWm92NXpnaE5GejF2djVuY1A5dHRRUGkxVFlYcVpGVUZ1U3JxaVdxckdfSXNUZEtsUmd6QzNDenVEUFRuci1HVFJURm9XSXJKTG5iT2pOT2t3X1RXWG9GQmZUa2t5ckVoazRxWmZMcUpMeEU0LVM2UjNRdmhvNkxvR1FOeGZ6ekZCMERjcEI5T2ZTU2N1MHhKbDVBNTVuSXc?oc=5>
 
-### 特朗普：美伊已间接交换信息，很快就会见分晓
+### 特朗普称美伊代表已通过调解方交换信息
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-09-28 23:00
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBodWRIdEdUTk5lRU5sRV94bEUwNVZCa3BlV09qeEthaUUtaUY1ZGREZFdzNW5XeXBwTlBoR0M4WlBxLVlaUUhsOFpCOGc?oc=5>
+- 场馆: 新华网
+- 时间: 2026-09-28 22:17
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE82WENLYVJkbmlzSTk1b3R6N1hDOHhkaXhYS0Y5UlF1clh0QV9ZNFNEOFlrbEJ5T3RxZ2s3elgyTWplMm9SNk9DOTE1WWxlNzZRX2JJaWZ1SnBLRUVZWU9jc201R1luREJ6T2pBcnQxc0pDOVl5OTFybVJUU2RwaG8?oc=5>
 
-### 凌晨，利空突袭，集体下跌！特朗普：美伊代表已交换信息！伊朗最高领袖发声
+### 特朗普宣布150亿美元钢厂计划 将建美国历史上最大钢厂
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: finance.sina.com.cn
-- 时间: 2026-09-29 00:02
-- 链接: <https://news.google.com/rss/articles/CBMisAFBVV95cUxNTl96c04wLTF3YWtTS3FaZExoQzFmYndmOGlzcktfZ0h4RzduZ1VpZG5kNU16MWlaTUFxQWFCWUxMNEx1eG5BNl9XZDZwc2ZOZy1maVNLUl9TV0RLN2FoY1dGU3ZnVWZCVGdkSTBEeGZURVJZV0hydExuSmlOOVV5V01WWXkyREFaVU5fWktrcDVQNzJSMzdTRnVFYnBOVWgxVXVYVC1JWVNRQWZtVzdjWg?oc=5>
+- 时间: 2026-09-28 21:06
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxOSkpvN01FWDRKQ0RnVnpZOEhXWlJkbU1WQlN1RnBjYS13aWZlbVdqTzE5V3dnSDZpVjZLVGl1RXNldkdTLXB0RGs5YmR0MWF5QzVPVUJZQjBJVlVTRklfV2dsbWFEYmV0TVJLT3hLdmljWDBjQWJnTEJtSFBRS0V0U2JnUmRKMnc?oc=5>
 
-### 特朗普约见Anthropic阿莫代伊 重申反对放缓AI
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-09-27 23:55
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9md2owekhfVUw1bXhZa01XVkw0RjdlMVBON3hwZzJ1VXE3alptSXVkUmhtNlgwQjdKdGIxMjlCZmxyRTEwX2dVYmZhODZQNFdhQW5ockFkYWQxYUpWT1pwZ1pyM3d6UQ?oc=5>
-
-### 美国总统特朗普表示，很快将赢得伊朗战争，油价将大幅下跌
+### 特朗普首席经济顾问：“外部”因素或令经济增长和赤字目标受阻
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-09-28 19:12
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBIU2Q0LWxQNWRuc1pFeTduNU1OYXJIelozNDVSQTJ4S0Z4SnhCUHJnYlFFZ29TVGxfS1d0YlYtcU1KcDNDX1V6bjkzMkZzem9DV3NXbXA0Z2wzUGItQUZGSklZUUZ6Zw?oc=5>
-
-### 特朗普总统表示他并未与习近平讨论向北京出售武器的可能
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-09-28 20:28
-- 链接: <https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNjB2Wm1ULXhIV1RiSHhtSDZUejFNX2JGSVhlTy1JdUR2RXl1d2lFRnRDelVxQUg2MTdPWXZ6WU9BamhTQk9FQlFYQnZ2Ni0zOVMtZGFMQmcwNnp1dVhWN0R0S1d0T2lsd1Y1MnpGVnlWMUdPZlNfV01hN3FtVWdGVENiRERCY0lUMThJMnFZaFVRNjhucXpWblRFYlVVeVVOVnVIdk9zUWdjUFRUZ245OHZWSTlSYXpLVmZDa1dEb05QM2Nnc21RSjBwa21mb0JLdU1sOUFyV1VKWFFwdkJDaW5CMNIB5gFBVV95cUxQeC16SlFBMGRHQlRmTzVFRzhncTNweXFTaFg3SE5vMEhoVHNoRGhxcWR2bG85RHo2UzVpaHhZeXhiYmJMemZaT2YxX3FPRXNLWmg4VnlqQ2Ixa1pPVlFmU2RIZmtTVW9HTG5JemJmTjNaSkV5d29LeFFfQnBja253Zm9QejBKVmI1ZGI1VzA0eFRMa2g5eFhDNE43MF92QzBOZUlXSWtJQU1lOUJkY2FldXNRa3hXWFVnMTBIazVPZm4zQjFEVkVmSGdqRmpxSEdvOWFucjNxRGF6NHh1Y0ZrTUpHcWlsZw?oc=5>
-
-### 挺特朗普短片 反对派批用纳税人的钱资助政治广告
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-09-28 20:44
-- 链接: <https://news.google.com/rss/articles/CBMi6AJBVV95cUxNbHltSDEyQzNFYnd3T2pjOTNrQzMtRnA5N2FIWmZNYm5DM0RmTEZLemM2S25Na1kzQldFWndYaFlhV1BiN25EOTdpbEF2dUFmNXFLcTNrN09tX09Yd0FnR1FXNkFWZHlTUmhqZUI0czdLTVRpeEZtS25GN3cxMHJuYUVxeU9tVUFnWEhWNzFOV3FlTk00NmJoaHc3TW9xRkxRb01wV3BMclFfb1M2NnctOE5FZDBsVk15S3UyQVVyQU1hR1pOcEJJS1kycUQ1VENSSWEwc011R0NLckROcW9kOEtodVdhSE5oQlVXY0NiVW9BZm5Nb29uTGRGRDNJNU5WQjVQRVMtcVNvdk5OeHJsQkZjQlRDVk51S21qUkNuZ3MtSk1PRGF5V055UWF2N3VZWnlfaDlBN1ZnREVKNU5UY3JTNmVDallCMEZSeWR3dEhzaUEwQzJUSHhrNks4VHBXQ2F0d0Myemw?oc=5>
+- 场馆: finance.sina.com.cn
+- 时间: 2026-09-29 00:09
+- 链接: <https://news.google.com/rss/articles/CBMiigJBVV95cUxOZEdFWGpnRkRoSzVyWXJFRnkzZ3ctUndjeTQ3LWRRd2NzRzdlYlF2NjlBYXNzU1AyTmVHTU9ydVUxQk9yMk5MMkZoS2lfem01ZW1neDFOZ2oyZmdTa1FRZG9USXpKbzJGd25US2h1N0ZsazNTN3dRalRWSlg2cW5wNm95aXdrTUpOS2lWWnZ3cDNMRTlvMy1DTDhKN1RvVHJhRFg4X0tVd3FUT3d1RFc1RjUtbGl2NE1RUXhzQXB5Q1hRc2hKZnNVT09OQ0Fod0xwV2JPck5YbUJSTDItem02QkwxVEtIUm92QUlwZGYwSl9sdV9ON1pGdTA2a283ME9Uay10MFlpeXlZUQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-29 05:57  (26 条)
+
+- **王一博** | 肖战生日当天会发布新歌或动态吗？ <https://k.sina.com.cn/article_7879776356_1d5abd86406801668i.html>
+- **王一博** | 肖战王一博新歌歌词相似，昨日同入围华鼎奖 <https://k.sina.com.cn/article_5601456932_14ddf732404002k4vm.html>
+- **王一博** | 未来两人是否有合作新歌的可能 <https://k.sina.com.cn/article_7879776356_1d5abd86406801665m.html>
+- **王一博** | 肖战和王一博新歌歌词有哪些具体呼应 <https://k.sina.com.cn/article_7879776356_1d5abd86406801665u.html>
+- **王一博** | 肖战和王一博新歌中哪些歌词形成了呼应？ <https://k.sina.com.cn/article_7879776356_1d5abd86406801665k.html>
+- **王一博** | 两人在演唱会上改词是否含特殊含义 <https://k.sina.com.cn/article_7879776356_1d5abd86406801665c.html>
+- **王一博** | 肖战王一博新歌歌词隔空对答，粉丝狂喜！ <https://k.sina.com.cn/article_7879776356_1d5abd86406801665g.html>
+- **王一博** | 肖战王一博新歌歌词隔空对话，粉丝狂欢 <https://k.sina.com.cn/article_7879776356_1d5abd864068016658.html>
+- **王一博** | 肖战新专辑异想天开上线，与王一博提名华鼎奖 <https://k.sina.com.cn/article_6514443328_1844a844004009axd2.html>
+- **周杰伦** | 曹杨新歌黄金阵容有多久没合作了？ <https://k.sina.com.cn/article_7879776356_1d5abd86406801663e.html>
+- **周杰伦** | 周杰伦方文山联手！曹杨新歌听哭网友 <https://k.sina.com.cn/article_7879776356_1d5abd86406801662q.html>
+- **周杰伦** | 周杰伦南京演唱会现场直击！那天下雨了彩排，氛围感拉满 <https://k.sina.com.cn/article_6090644881_m16b07dd9103301k15e.html>
+- **周杰伦** | 曹杨新歌《如诗一般的形容妳》为何被称为梦幻联动？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801lvpu.html>
+- **周杰伦** | 周杰伦方文山林迈可联手！曹杨新歌如诗上线 <https://k.sina.com.cn/article_7879923021_1d5ae154d06801lvpg.html>
+- **周杰伦** | 仅此一站的爱琴海，仅此一次的青春｜周杰伦演唱会青岛限定文创套装预售开启 <https://finance.sina.com.cn/wm/2026-09-29/doc-initnmwi2916938.shtml>
+- **周杰伦** | 突破万单！芝麻租赁携手vivo，在周杰伦演唱会打造品牌体验营销新模式 <https://finance.sina.com.cn/roll/2026-09-29/doc-initnfqm6186396.shtml>
+- **周杰伦** | 文创礼包等你拿！周杰伦演唱会青岛站粉丝故事征集火热进行中 <https://finance.sina.com.cn/roll/2026-09-29/doc-initnfqh2525336.shtml>
+- **周杰伦** | 一场演唱会，激活一座城，周杰伦、华晨宇南京演唱会背后的“演唱会经济” <https://news.sina.com.cn/zx/gj/2026-09-29/doc-initnfqi9293399.shtml>
+- **特朗普** | 曾向习近平兜售武器？特朗普：未讨论过此事 <https://news.google.com/rss/articles/CBMioAJBVV95cUxNNktubElVSUx4VFlua29XS2doLWIwSExHLUZ5QnBNNGNrTWJSSzBpTjgyQlctZ3NkY1dIWERoZlpoREtSLUdTcUljZnoyTTNWRDVkR25jOVllSHptU1hZTE5uNVMxZE91WThpcExnX2diU016WGxHV1d3V2ptb2h2MjZ4UTJtSHJWanpXLW8tSDRXN1N5c2duRTh4LUdfbWhPVVhMSkVSVnVMN3dpdmp0aEVaOV9uZU1aUkdpT3Z5bGNadFJOX19PUGRhbjFrcWxSXzV5VlpHUHVLMHdXbmVGbmViUEZ5M0FPSHYzZU50X2J6QUR1Z2JfeGFWVk1tdkY0a1lQdS1fWlg4TEUxUUt0ekZMZ1dFeDlSQXg0Q1lVYkHSAaACQVVfeXFMTlRRRmhfOXJCWDdxQVpLWm5JT29sWUxwb3k4Z2U0ZGVTcll4aVI5X1psNFBnZ1NQVzZYYU1CTnNOOUpEenNzQzI2WS0xdU9SZzRlSmx6SWphWUtRNzQ0bkRwVTJEcWprcjZnV0F4ZWMxaG4tTmdOT0UtZ1NuRlAtazJEbDJzVTJaS1FKbXIyWkpfeUhWZXFqRFlsWnRaU1lLbGZLQ3paV2l0dGt0Y1ZmRTFwOGNCUEtNUkhkeEFPdFVmbVBwRTFidmdIT3lMN21YLUl6YnRpOXgyNmdMMnN5MlF3VjFTajVDR0JrQXRDbEI0TlNKbXNnSDJwRno4bG9uaDFwU19HOXVOOGF6QzJ3YUlrTVdfaVRPeVFGaWpXVk9k?oc=5>
+- **特朗普** | 特朗普评价中美元首会晤: Amazing! 实际成果促进展 <https://news.google.com/rss/articles/CBMicEFVX3lxTE1jcEh0WU15NXgyNTRMcTBtOGIzOUlQeFRTTE9WdE1MUk43OV9tNFBTMXkxcVlXdEhROGxJNnZlQlEzUF9hcjNhb01Rb3M2cnY5OHlPeDJnU2htS2pSejZaU3Y3RC1NbnM4dGJ1WHZ1SHA?oc=5>
+- **特朗普** | 岚目镜观｜任尔东西南北风：战火、利率与特朗普的边界 <https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2ZmlPZGdjalVWRi1JaElhOWZjQ09DOUhPU3lmdlhnQlRMNU84NTV0d2k3bldnLWhmT2xTTi1tVllXWURkYWRfdm1WalBLREZwLW1DYVRRODFzdmY3SC1pdg?oc=5>
+- **特朗普** | 周二，特朗普与六巨头齐聚白宫，决定未来AI发展方向 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VdHBha0xYd041QjBqTjBkcGdLMDVYSEJJdlpFLWVjc3EyT1JIZktIUGNlY0lidGJMMTlhVEIzNjJTR1ZfRzZEZ2ViQnpfc3ljc2pj?oc=5>
+- **特朗普** | 扎克伯格、阿莫代伊等科技高管将于周二会见特朗普 <https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQVZaMzNVWF9zb0tJYXc2LVR3a3Z2WENycmtXNFZGRGpQQlRwSjdad0Q1VldEU1Y4Zl9KTnZDbVVKT2JKdFZTWm92NXpnaE5GejF2djVuY1A5dHRRUGkxVFlYcVpGVUZ1U3JxaVdxckdfSXNUZEtsUmd6QzNDenVEUFRuci1HVFJURm9XSXJKTG5iT2pOT2t3X1RXWG9GQmZUa2t5ckVoazRxWmZMcUpMeEU0LVM2UjNRdmhvNkxvR1FOeGZ6ekZCMERjcEI5T2ZTU2N1MHhKbDVBNTVuSXc?oc=5>
+- **特朗普** | 特朗普称美伊代表已通过调解方交换信息 <https://news.google.com/rss/articles/CBMif0FVX3lxTE82WENLYVJkbmlzSTk1b3R6N1hDOHhkaXhYS0Y5UlF1clh0QV9ZNFNEOFlrbEJ5T3RxZ2s3elgyTWplMm9SNk9DOTE1WWxlNzZRX2JJaWZ1SnBLRUVZWU9jc201R1luREJ6T2pBcnQxc0pDOVl5OTFybVJUU2RwaG8?oc=5>
+- **特朗普** | 特朗普宣布150亿美元钢厂计划 将建美国历史上最大钢厂 <https://news.google.com/rss/articles/CBMihwFBVV95cUxOSkpvN01FWDRKQ0RnVnpZOEhXWlJkbU1WQlN1RnBjYS13aWZlbVdqTzE5V3dnSDZpVjZLVGl1RXNldkdTLXB0RGs5YmR0MWF5QzVPVUJZQjBJVlVTRklfV2dsbWFEYmV0TVJLT3hLdmljWDBjQWJnTEJtSFBRS0V0U2JnUmRKMnc?oc=5>
+- **特朗普** | 特朗普首席经济顾问：“外部”因素或令经济增长和赤字目标受阻 <https://news.google.com/rss/articles/CBMiigJBVV95cUxOZEdFWGpnRkRoSzVyWXJFRnkzZ3ctUndjeTQ3LWRRd2NzRzdlYlF2NjlBYXNzU1AyTmVHTU9ydVUxQk9yMk5MMkZoS2lfem01ZW1neDFOZ2oyZmdTa1FRZG9USXpKbzJGd25US2h1N0ZsazNTN3dRalRWSlg2cW5wNm95aXdrTUpOS2lWWnZ3cDNMRTlvMy1DTDhKN1RvVHJhRFg4X0tVd3FUT3d1RFc1RjUtbGl2NE1RUXhzQXB5Q1hRc2hKZnNVT09OQ0Fod0xwV2JPck5YbUJSTDItem02QkwxVEtIUm92QUlwZGYwSl9sdV9ON1pGdTA2a283ME9Uay10MFlpeXlZUQ?oc=5>
 
 ### 2026-09-29 00:10  (15 条)
 
