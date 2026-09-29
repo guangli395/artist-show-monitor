@@ -1,146 +1,112 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-29 18:11**
-- 本轮扫到 12926 条, 新增 **18** 条
+- 最近更新: **2026-09-29 22:29**
+- 本轮扫到 12937 条, 新增 **11** 条
 
 ---
 
-## 本轮新发现 (18 条)
+## 本轮新发现 (11 条)
 
-### 肖战新歌和钱塘江大潮的适配度
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1496814565_m593793e5033026980.html>
-
-### 周杰伦南京演唱会 现场大合唱氛围很好
+### 周杰伦还有哪些经典MV被误解过主角
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2146827183_m7ff5fbaf033040ixw.html>
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd86406801689i.html>
 
-### 曹杨新歌为何能请到周杰伦作曲？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801lx6y.html>
-
-### 新歌《如诗一般的形容妳》有什么特别之处
+### 《发如雪》MV真正的女主角是谁？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd8640680167iy.html>
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd86406801689e.html>
 
-### 周杰伦方文山林迈可合体！曹杨新歌《如诗一般的形容妳》上线即火
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd8640680167is.html>
-
-### 周杰伦方文山林迈可罕见合体，曹杨新歌上线
+### 《发如雪》MV为何被称为周杰伦导演处女作？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801lx6m.html>
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd86406801689g.html>
 
-### 打“飞的”来青岛看周杰伦演唱会，落地机场先领一份“应援包”
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://finance.sina.com.cn/roll/2026-09-29/doc-initpatz6107447.shtml>
-
-### 特朗普用人民大会堂羞辱白宫 他在错误赛道上狂奔
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: wenxuecity.com
-- 时间: 2026-09-29 15:44
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBhRjZDbTVxX19CbjVLVjhqeWo3ZlhHWUVzTTZfTng1eGJKVURHeGRhMFh6ejdoSllUTzNNZXhLZFVSbVpMNGdtMXRCSU1xdXVSaU9MeENlc2lhUk5FZ09rU2pPblhNaXVV?oc=5>
-
-### 特朗普推出AI驱动的新网站America.gov 打造政府服务一站式入口
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-29 16:09
-- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRjVieE9kS2VMMUNZT1NNc1hRRVJsZm8wRGRiRXhGZFBqUjFsYnFNQWtVUVl6UlJpM1g0U2tHOEFhSTh6MUR6WXdMNWpOdWhFYUdpSlRUYUhVcUtxNjRCR3FCNkNvQUxvM29zc0FHc1VnTmVEY3pGTFBSeGxDRWNEUjVrYjhTT00zd215ZUdEWkNlTFF6Z05GbEx3NTQyRWxKRVdBdHpQR0hkZw?oc=5>
-
-### 特朗普政府官员格比亚：全新AI驱动政府网站同时采用Gemini与Grok大模型
+### 特朗普：（被问及数据中心与中期选举问题时）必须做正确的事。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: finance.sina.com.cn
-- 时间: 2026-09-29 15:25
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxORWZRNzQ0VmY1SWhnNzhNMUxLMklvMDFrcDJVYlg4cVdTSGVfanNFcS11WlpqQllxUVJVc3F5cVNhZ0hCZGt5TGlKUWFZbGFnbTlid205c0x0TjFtc1kyOUo1WFR2ZHYxWUotZFdqZk15QUNPLUE3X3VMNldqN1huR191UjVWYUE?oc=5>
+- 时间: 2026-09-29 19:52
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE43UlFrZFBTZUVhMGVud2dXVGpEaEkyQ052SnFabmpLZDVYUzI2Y3BDYThyY1NpNU9zbmg1cnlVZXE2X3NRbXBUSHhFTQ?oc=5>
 
-### 特朗普总统否认提议解除伊朗制裁，美伊官员同时正通过调解人进行沟通
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-09-29 16:53
-- 链接: <https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQ3VWV0Y1ZWw2V2Nfak13dlJDVHd4emtXX0F4UmdwcGc2MUhEaHpjTzdUVy13MlZFN0tyTmxjV09VQXdreWpzdTY3UXBOOW1BZ21CWUZ1ckk4OWw3OUhXNU9fb09Zd0ZSNk8xeS12LXlNdFFQVFhDNEFvdXB3S0xXOFJEdE1iUm5EclBrS2puaDVJS1RybTR5Tk5BWDFQZzI1TkFtYnNTeXlLZzBrQjVHaDI3eFlaM2tDS1dDcWVPbjE0LTVWcWxRU3BTVDRQb3FMSVNmc1pKazNGQTZTcHFEVHQ0RFZXUdIB6AFBVV95cUxQemJWTkVLeGx3U2Q0THBMa1F4YV9OQWp6amJLTzJyRmFxOENLT2hXT3YtbGxkaWlLYmVuLXI5TkNOU1VwNnU2emMtX2g0QUQyVkVuQXlDTlNYcDExSkM5cHNwYThST0xQTXNTaS11Y3VsZ3FFY3lQT0U4UUNfUFhpY0pZek03ak9DWlpWYWNyNFhNMjFkRkZUMXFiZF9vNlFtUHNiX1BpTzN0QmxFNUxWVDNDTXB5NjkxWnF1Wl9DaUkwRERZYy03WWpaYVZxSjEzM2pmeTRkZEpzUjVKOTNJZW9zbTNiOE8t?oc=5>
-
-### CNN等向法院提新申请，与特朗普的“门禁战”下周是关键
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-09-29 06:24
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE9BblBYZERxUk1CZjdGdmdSMTdOekE5TTFqVHNVeVkyQjF3YXFJQ3NUTjhDZXN0UFhUQmxYSDEwOUlMd05lanNyZ291THlIX2t5ckcwRmZqdjVQUWV1NU5QbzNkNnBLVjB6eHF0dWgzdURpcmM?oc=5>
-
-### 又拿中国说事，特朗普推动建美国史上最大规模钢铁厂
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-09-28 23:51
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5uWW9LLWhHNm1hSElSLUsxTlp1UDk1c0FmV19RT20tQjVsYUpQcUtwNkpjb3ZzQ3BZTTFpOGI0c1pmYjR5TUtmaWd2SGY?oc=5>
-
-### 特朗普将公布爱荷华州150亿美元钢铁项目规划
+### 特朗普将宣布540亿美元阿拉斯加液化天然气计划 应对中期选举压力
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-09-28 07:00
-- 链接: <https://news.google.com/rss/articles/CBMiigJBVV95cUxOb3NwcmdHWjd0Y2hOdk53N2I1RUdKdzJzNHNfTFprU1M2WUF3Nmt0UzhEVVJuQXFNczk2cDdDLWZXcXk3bTZpMjYxZkU3Wl9uLTdaODVoYjQyVzdVVDJuWUYxcXBmVjcwYWFRMmxEVlBma1FoWTRiWGkwaW15OTIyYTY3MWxfSUg3ckRUUDhKLXhQUjhrT3FLNFZRMlNjYXM0ekVpY1hLZXFZZVN6OWFqOWZWUzJRS1kzRllNX21mV05UaHZMalV4WDFFajkxS2sxTkFHbjk1LXlJSmF1RXJGQUlpMmRJWHBFUm96bDlhVUpmajZUUzd3elN3RDRFRkhGOWJjYXpBNU5oUQ?oc=5>
+- 时间: 2026-09-29 21:57
+- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE1qeEF0STVET0twcEJJRGhWQ0owal9ocVVMN2d2eDhSX3ZqNlhvbjdDc2ttNTdNd1BjcnRQT2t2bHgwRG41ZlFmTjg4d2pPZFpGWTlqTUZxeEc3SmR0b0NveVppN3RjMUJUdXRDSFRhdllReG1EMTVpM1Zn?oc=5>
 
-### 特朗普绕过国会强砍预算，两党议员或立法堵死漏洞-市场参考
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 金十数据
-- 时间: 2026-09-29 14:59
-- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aNm5MVnpodHRRYnFJWXZma1A0NFpVRnpTUllvVFUzX2RZamZJeTkteXdJRFpGNFBNRWF1dWZNZFZQbExSYzU4OVdkM3czNTQ?oc=5>
-
-### 涉非法为自己“公费打广告” 特朗普宣传片遭两党批评
+### 科技公司高管签署了一项“具有道德约束力的协议”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-09-29 09:16
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9lUDRva2VVallwcWFDWXNkQl92NHY3d1MxdGVKWU9ndFlvTWRfZk0zaU16R0tYWWdsdld0Q0FZbzZhR2paZ0VLR1BaMi1FeEhYb29UODh3QkFXNW1ZMzNUdEk4bV9JNkZpalE?oc=5>
+- 场馆: RFI
+- 时间: 2026-09-29 20:47
+- 链接: <https://news.google.com/rss/articles/CBMi3AJBVV95cUxNQXRIVnI1NVF4bVJkN2F4MS1iQlJGV0F2VUhaTVVuM0NaV3ZlaUhGeVJNMzZLUExid1ZCYnVMMjNNWWo5WnlIajV2SjkzX21yNE1yU2dEa1B5U29vYlFqekVReUpURTBxTEtBWldIaGJLbVRjNzNZU1ozeUU5UjJ1YWV6MnR4S2xQZVJaMXJtZ0s1eFJVLWxId3NjTEphTEhCWGRtSWRwb2phUnMzRjlmanBEM2k5WURHR1Bsamhld0xncXpWZFExV2NoWG16bk45WndxU3NvRXNsX3JjVjVvd09FUXQ1TXJ4blgyT0lVdDR2WHpqSkJ1SEpXc0VTbGRSZUlQaTB5aVJPdk1aYkJRYWZoQ2ZNU3EyYTA2UU04R0ZFS0RoM1JmNE5TOVZCOV82c0hWcXlMNGxHbGw2VUtkWU56Zk5GQjBabWdIcTJFdWxNX0VtVjNOb3BQVFM?oc=5>
 
-### 一财主播说丨特朗普提中美是二战盟友 日本破防
+### 长平观察：特朗普用人民大会堂来羞辱白宫
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 第一财经
-- 时间: 2026-09-29 05:27
-- 链接: <https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ZMjJZakxBSTZhelJaN3p1WDZZUnhhdmFRUnZjR1VRRjRwVzk3TDdxSFlhRUg1RmxYazk3eW5MNS1VcDRoQnh6SUlNNEJvZk5vLXFqNg?oc=5>
+- 场馆: dw.com
+- 时间: 2026-09-29 12:26
+- 链接: <https://news.google.com/rss/articles/CBMioAJBVV95cUxNbUFMeWxDcnk0Q2k5dVNlMVFucWxLMzN5RV93ZXRrcEFqeFY4cGduaEdDRkFSb1NMYjN6S0NKR19scnBsVjZJX3JxSU9adG5Sam9iRFBKWDVCRWtNMml3elQyTDFNTEFCY2NJTDRXV0dWa1F5QmZNQWRjZ3ZYd3BzdWJEZnNuajJfZUVlVnI4aVBSUUM4N1Byd1ZHeE8xMUFwdWF2c3RJY3FNOXlreDBVZU0xTzJYakprYS1TeHFnVVlOZmFnVmlrX0EtNUJybGp0UXVaYVhScHZtRXN5b1RJYXVQUFdoQU1IVGFTU293Q0ozUm5heThJLWJHRmxCWnEtVEY1M3RTNVZfSGhxRUV3RHBMMkRZRXVseFF3STBfZjfSAaACQVVfeXFMTkZpejc1V2FHbjJrLWZ2WnI5SFE3bk1IeDNxNGVnWWkzU1JLQVRqRTV3LVpobDNMbjhvUi1Bb2NWODlUUnBITTU3UzBteVF6RHM5c2RJN3F3TUoxTk9LWm5ITzJCd3JjVHVGU1JmSzFIX3hkRDdIQmpiSG01d09EdnNPWG15Z19wSnBnSHN0Q29TNVNUX1V4TEN3Z21NTVZZbkhVYTQ3SFpsX25oWlFSSmtZeWtuTDBvUTFEazJRUHJuZDYxSzlSUTNxSngyd2xreEdfREtPX0ZXeWw2VnVIWWZ2aEU4b29zNkZwNl85dDQ1WmpabGdBa0JBdHY1Z2tBY0pHbjZldjUyZnh1czR0NWM3ancxYVE1TW9ib2FyUW01?oc=5>
 
-### 特习会后台湾官员强调对美战略价值 呼吁维持对台军售
+### 特朗普推出人工智能政府网站，America.gov提供在线便民服务
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-09-29 18:09
+- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTE1sZ1p3dElqcXY4dmU4SUJSMzVJWklVYklWajNVVUlIU1lyUTdkMkE1NWQxdFJUZzJOX29qRlhWSXlpMW5jZFBQNWlobDBPR2ZoV0RTcW1RenYzZW1ZODZyLVlzMkY0UGlBNlJTTS1n0gFwQVVfeXFMT0x1a0x3LTZEdVVyV25WaXVCcHN1UTRSclBOcVZPMUVaRzBSNTdJeldzSXF5VUxyUDFPeENQeENyUDIwWUNhdDNEeE1BOTRqeTI1RFJ3eUNpWWItUDczYTY5VWF6MmxLck9OQkUwWXMtVw?oc=5>
+
+### 特朗普会晤科技巨头：AI改名“超级智能”，无需立法监管，“它远超工业革命”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街见闻
+- 时间: 2026-09-29 20:02
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKZkxibDBnb0wxamt2LUl3UGF5YjVmRVBJTUttY3oxcDVjQXgzc1BlS1ZWNFUybHJGUjNSSktYQ1NfN25kMFExLWVVU1M4ZXNsbEdB?oc=5>
+
+### 特朗普总统在白宫与科技领袖会谈后，支持人工智能行业自我监管
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-09-26 21:15
-- 链接: <https://news.google.com/rss/articles/CBMigANBVV95cUxNbklJSmhPSkNGX1NDeHlCNmpNYjdfSUZTWG5BU25PUjJ4UEdtTFJPbnNGbGZwQmVIUGpaaENwRmExcHozc0tNdzREUTVMbG9jbEtqVldWbUV5aHZZVWNGcXJNaVpqYi1UV3dBZFVxNk1FMGU0em9la2Y3cFZITDJTdHZURjgyRUNIRnpoMW0wNzRtLVBYTXU1c01fT1pwblRyMjM3YXJfVlBKOTk5Tjd2UWFodEliT1BWaWhwd2dYS25xNVVtWlJMdUdaWDZxd3ZUMUVFZmZUTGRKd1M1cmF6RzhsaE9mU2JpMEIybmk3cTAxZUVBc3h2VEZ2QTA5UVVCZVRrMm53ekxIWVNLbEE2MFpfeVIydVg4WnBLb3dLcURtbExvZW9JUmF1czgxUUl5eS0zMGpkd21KU09KcVl1VGZreWZoZnNvMXVfUEdlQXBFLUtrdS1DdXZoazNCYlFrVWRIbjVaVExNMGFfQ1B2dWNSdXNTRXlSNmFOY3VaaFQ?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-09-29 21:53
+- 链接: <https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZWlOMm8yQ2xzVFpoaVBlVVlPczhZYUNHQUdBdnNabjFPMUhDeGlmWXQta0pjWVFmTUdsTUFZT2xFc2VYMVQzVTU1Y2RQdG50NzN0UjBRR180c1FxMGxOeXhENk9jOHoyZ0VBLTNBbnpGazhnVDZzeWI1TmVxdlBHSUtHTzl4ai1VcmN1eThydl9ZTG1xZmYwN2otSmpKdnB1MU1KWWR3R3NwbDFQUFFtZUJ4OW0zb1B0S2tfRnZad2xqajVyOGRzTGNLbG9uWWNFdXppajQ2dG4tbFVsT3NNa2xB0gHkAUFVX3lxTFBDTWJEa2U1TFdXNFA4bElmRGdOcm1XWXY3Y2hVOWJiXzVnUHdCalhxUmptUU5jSkRTczhGWGdxOXNxWFlUY2xkdlNBMHpiTGNVMlhaa1cya19Zc25yMGxSTm45ZTMwQ2U0enlTVGpIa1hjSWZLZTlYSXIyaHAwb2VpaXdBTnJwYUJ6bm1UQTBRdWdmMUR2RlZrVmlhazhTOEdhMHNxVFlWVFlQTV9vXzNneUJ3OEd0OWRQZnFpeHBNTkM0MkVGNmdoR0NlS00xZ2hlVzRESjVRUGJFTkRzQWNuN1Q4Ug?oc=5>
+
+### Trump Defends Light-Touch AI Strategy After Industry Sounds Alarms
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-09-29 20:39
+- 链接: <https://news.google.com/rss/articles/CBMitgFBVV95cUxQaS1mT3loeFV3S2Zmb3FMS3Y5Njg0alpaOWg4ME1ndnFmT0ZqOVFQVmdxdno3QWlyU0ZQUUczTWxkQm50QjZBYi1tQkZRS1pOVlpvcWExa1c2dFFnejk4NWlQbDFXZmZBZFByRXFENUxUcmszTTlwU2cwdmFuWjlEYVUwMjdOZWQtR2Q4RGVNRE4yS2s0UFlady1BOTBuLUtfQ0s3U0xHZFdQbkxlcFdmSDYtWFkwQQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-29 22:29  (11 条)
+
+- **周杰伦** | 周杰伦还有哪些经典MV被误解过主角 <https://k.sina.com.cn/article_7879776356_1d5abd86406801689i.html>
+- **周杰伦** | 《发如雪》MV真正的女主角是谁？ <https://k.sina.com.cn/article_7879776356_1d5abd86406801689e.html>
+- **周杰伦** | 《发如雪》MV为何被称为周杰伦导演处女作？ <https://k.sina.com.cn/article_7879776356_1d5abd86406801689g.html>
+- **特朗普** | 特朗普：（被问及数据中心与中期选举问题时）必须做正确的事。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE43UlFrZFBTZUVhMGVud2dXVGpEaEkyQ052SnFabmpLZDVYUzI2Y3BDYThyY1NpNU9zbmg1cnlVZXE2X3NRbXBUSHhFTQ?oc=5>
+- **特朗普** | 特朗普将宣布540亿美元阿拉斯加液化天然气计划 应对中期选举压力 <https://news.google.com/rss/articles/CBMiekFVX3lxTE1qeEF0STVET0twcEJJRGhWQ0owal9ocVVMN2d2eDhSX3ZqNlhvbjdDc2ttNTdNd1BjcnRQT2t2bHgwRG41ZlFmTjg4d2pPZFpGWTlqTUZxeEc3SmR0b0NveVppN3RjMUJUdXRDSFRhdllReG1EMTVpM1Zn?oc=5>
+- **特朗普** | 科技公司高管签署了一项“具有道德约束力的协议” <https://news.google.com/rss/articles/CBMi3AJBVV95cUxNQXRIVnI1NVF4bVJkN2F4MS1iQlJGV0F2VUhaTVVuM0NaV3ZlaUhGeVJNMzZLUExid1ZCYnVMMjNNWWo5WnlIajV2SjkzX21yNE1yU2dEa1B5U29vYlFqekVReUpURTBxTEtBWldIaGJLbVRjNzNZU1ozeUU5UjJ1YWV6MnR4S2xQZVJaMXJtZ0s1eFJVLWxId3NjTEphTEhCWGRtSWRwb2phUnMzRjlmanBEM2k5WURHR1Bsamhld0xncXpWZFExV2NoWG16bk45WndxU3NvRXNsX3JjVjVvd09FUXQ1TXJ4blgyT0lVdDR2WHpqSkJ1SEpXc0VTbGRSZUlQaTB5aVJPdk1aYkJRYWZoQ2ZNU3EyYTA2UU04R0ZFS0RoM1JmNE5TOVZCOV82c0hWcXlMNGxHbGw2VUtkWU56Zk5GQjBabWdIcTJFdWxNX0VtVjNOb3BQVFM?oc=5>
+- **特朗普** | 长平观察：特朗普用人民大会堂来羞辱白宫 <https://news.google.com/rss/articles/CBMioAJBVV95cUxNbUFMeWxDcnk0Q2k5dVNlMVFucWxLMzN5RV93ZXRrcEFqeFY4cGduaEdDRkFSb1NMYjN6S0NKR19scnBsVjZJX3JxSU9adG5Sam9iRFBKWDVCRWtNMml3elQyTDFNTEFCY2NJTDRXV0dWa1F5QmZNQWRjZ3ZYd3BzdWJEZnNuajJfZUVlVnI4aVBSUUM4N1Byd1ZHeE8xMUFwdWF2c3RJY3FNOXlreDBVZU0xTzJYakprYS1TeHFnVVlOZmFnVmlrX0EtNUJybGp0UXVaYVhScHZtRXN5b1RJYXVQUFdoQU1IVGFTU293Q0ozUm5heThJLWJHRmxCWnEtVEY1M3RTNVZfSGhxRUV3RHBMMkRZRXVseFF3STBfZjfSAaACQVVfeXFMTkZpejc1V2FHbjJrLWZ2WnI5SFE3bk1IeDNxNGVnWWkzU1JLQVRqRTV3LVpobDNMbjhvUi1Bb2NWODlUUnBITTU3UzBteVF6RHM5c2RJN3F3TUoxTk9LWm5ITzJCd3JjVHVGU1JmSzFIX3hkRDdIQmpiSG01d09EdnNPWG15Z19wSnBnSHN0Q29TNVNUX1V4TEN3Z21NTVZZbkhVYTQ3SFpsX25oWlFSSmtZeWtuTDBvUTFEazJRUHJuZDYxSzlSUTNxSngyd2xreEdfREtPX0ZXeWw2VnVIWWZ2aEU4b29zNkZwNl85dDQ1WmpabGdBa0JBdHY1Z2tBY0pHbjZldjUyZnh1czR0NWM3ancxYVE1TW9ib2FyUW01?oc=5>
+- **特朗普** | 特朗普推出人工智能政府网站，America.gov提供在线便民服务 <https://news.google.com/rss/articles/CBMibkFVX3lxTE1sZ1p3dElqcXY4dmU4SUJSMzVJWklVYklWajNVVUlIU1lyUTdkMkE1NWQxdFJUZzJOX29qRlhWSXlpMW5jZFBQNWlobDBPR2ZoV0RTcW1RenYzZW1ZODZyLVlzMkY0UGlBNlJTTS1n0gFwQVVfeXFMT0x1a0x3LTZEdVVyV25WaXVCcHN1UTRSclBOcVZPMUVaRzBSNTdJeldzSXF5VUxyUDFPeENQeENyUDIwWUNhdDNEeE1BOTRqeTI1RFJ3eUNpWWItUDczYTY5VWF6MmxLck9OQkUwWXMtVw?oc=5>
+- **特朗普** | 特朗普会晤科技巨头：AI改名“超级智能”，无需立法监管，“它远超工业革命” <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKZkxibDBnb0wxamt2LUl3UGF5YjVmRVBJTUttY3oxcDVjQXgzc1BlS1ZWNFUybHJGUjNSSktYQ1NfN25kMFExLWVVU1M4ZXNsbEdB?oc=5>
+- **Trump** | 特朗普总统在白宫与科技领袖会谈后，支持人工智能行业自我监管 <https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZWlOMm8yQ2xzVFpoaVBlVVlPczhZYUNHQUdBdnNabjFPMUhDeGlmWXQta0pjWVFmTUdsTUFZT2xFc2VYMVQzVTU1Y2RQdG50NzN0UjBRR180c1FxMGxOeXhENk9jOHoyZ0VBLTNBbnpGazhnVDZzeWI1TmVxdlBHSUtHTzl4ai1VcmN1eThydl9ZTG1xZmYwN2otSmpKdnB1MU1KWWR3R3NwbDFQUFFtZUJ4OW0zb1B0S2tfRnZad2xqajVyOGRzTGNLbG9uWWNFdXppajQ2dG4tbFVsT3NNa2xB0gHkAUFVX3lxTFBDTWJEa2U1TFdXNFA4bElmRGdOcm1XWXY3Y2hVOWJiXzVnUHdCalhxUmptUU5jSkRTczhGWGdxOXNxWFlUY2xkdlNBMHpiTGNVMlhaa1cya19Zc25yMGxSTm45ZTMwQ2U0enlTVGpIa1hjSWZLZTlYSXIyaHAwb2VpaXdBTnJwYUJ6bm1UQTBRdWdmMUR2RlZrVmlhazhTOEdhMHNxVFlWVFlQTV9vXzNneUJ3OEd0OWRQZnFpeHBNTkM0MkVGNmdoR0NlS00xZ2hlVzRESjVRUGJFTkRzQWNuN1Q4Ug?oc=5>
+- **Trump** | Trump Defends Light-Touch AI Strategy After Industry Sounds Alarms <https://news.google.com/rss/articles/CBMitgFBVV95cUxQaS1mT3loeFV3S2Zmb3FMS3Y5Njg0alpaOWg4ME1ndnFmT0ZqOVFQVmdxdno3QWlyU0ZQUUczTWxkQm50QjZBYi1tQkZRS1pOVlpvcWExa1c2dFFnejk4NWlQbDFXZmZBZFByRXFENUxUcmszTTlwU2cwdmFuWjlEYVUwMjdOZWQtR2Q4RGVNRE4yS2s0UFlady1BOTBuLUtfQ0s3U0xHZFdQbkxlcFdmSDYtWFkwQQ?oc=5>
 
 ### 2026-09-29 18:11  (18 条)
 
