@@ -1,66 +1,89 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-30 14:01**
-- 本轮扫到 12964 条, 新增 **7** 条
+- 最近更新: **2026-09-30 19:32**
+- 本轮扫到 12972 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (8 条)
 
-### 社会心理学视角深度解析肖战EP歌词 肖战遥远的不是爱音轨分析，完整解析肖战全新EP异想天开，肖战新歌歌词深度剖析，肖战新
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002saja.html>
-
-### 周杰伦青岛演唱会将至，青岛氛围感拉满，14年铁粉自掏腰包发物料
+### 周杰伦青岛站演唱会门票价格
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5328858693_m13d9fee4502002jcau.html>
+- 链接: <https://k.sina.com.cn/article_7879923685_1d5ae17e506801dkzy.html>
 
-### 十六年后雨中看杰伦演唱会，华为手机记录回忆
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7811062841_m1d1935c39033029v0o.html?from=digit>
-
-### 特朗普当众羞辱CNN记者“假新闻制造者”
+### 特习会后美议员促加速对台军售，众院议长：美对台支持不容置疑，台湾维持稳定与独立关乎美国家安全
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-09-30 09:32
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ySE5NdVNZdGVWMnhaczQxOFlwcG9LQi1PZ3puaUZnRVFiZGYzR3lNSUFnREJ1a1h5NFBQeS00SGxsbk5ESl9GcFVId2lLdG55eVZGWjJ0SzNlcXp0Ql82TQ?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-09-29 21:28
+- 链接: <https://news.google.com/rss/articles/CBMi7gFBVV95cUxOd0RyVndrLWF6UkRmWUtUQlg0SG1UbGk0Qi1NZnNncUhGeVM4V2tGbVNMbXMtWnZEeVVhcUwxUGtKcWFoV0Q1dFQyNEFPVkhQQ29jMFNTOWVCcndSZjJ5QlMxLU9EM0FMbFpCMG9ic2hVRzNjN3dYbF95ZG5hSHQ0ekJxWEtNSjJuMzhqN2huVHpXWU5rVGNmRzd5S1FzbzYzRTNsVG5nSHMyOWp0Z0NtTU50c1h4YXNsb0xqUFJSWXRNTFpFVDBEWVNDRVVZVmZRa2JYZktaZ2lNNDVUOXQ5RzR0bS1Ed1JWQ085TUZR0gHwAUFVX3lxTE9UNXVpdmhBSks3bTRJR0JHN3F5aDJzdjdTZXZPRVdCZ3FsTmFRczJ4cWxwWFB6OFNyQWdHb051WVdTWlk3STNGVkJTa0V1Nk5ONzd3VFQ0WDk1MmQ0aDg0NWx0TTAwMFNVM0RmZ3JhLVZwWElPTld0OEZsYWN6XzBWN3NCMzVubmFoeWdIV0lDN3o3RjJpaDB1dHYwdnJxVmFuMl84LVVIRHFyTFM2WFU5aUtyNEc0bzhOWF8wbmw3YlZEaXFNTTk1bnBtUm9nUGpINlM1VW9laUpkeXhkRWVrLXJoVFlxNjRFbS1kc3pNTA?oc=5>
 
-### 特朗普拟建美国最大钢厂：身后印度人和俄罗斯渊源颇深？
+### 法国世界报 - 特朗普会见习近平期间的几大“外交失误”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: guancha.cn
-- 时间: 2026-09-30 01:56
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE9mR3hJWlNGQWduN1Y5STExQXo1R3NJZnNvV2c0X1BONDNoY01qMnBUS0lFTW9TMnJwQ0k1LVdfekZXRjBsSi1HcmJtN3VwTGNNTmo1eU5fT1EtT1cxNWRwQ2NpNU9rSjlnRWxRTVppeVBYT0U?oc=5>
+- 场馆: RFI
+- 时间: 2026-09-30 17:14
+- 链接: <https://news.google.com/rss/articles/CBMiggNBVV95cUxOc2F6TmlyakFVSzI5ZWJ4cEFsUHI0Zjd4Ql96cjNySV84LXgtNVZZV1dYckR6TEROZTBoMjkzdFNaRGpuYnI4S2NybDZMMnBSZmZocDA2Zm11VU1HcmtsUTRNVmpMY25jbmJxQ0JGM2h3a203bzVXWUFJM2RnTWFfQlEzRF9pdE51dUFBeHBlcGtXcjcwRy1DN1FaVk5fQ3FKRWgwOG9wYUMxRGdpSWNBXzFzT19TY25MR0dXRFFoS2hRdUllSzVzZGthclJSOVdBMVdueXp3djh5dVIxYWZvZFRoc3dFeF9Mc003aXlBMkViMHo4NFJ0YVRSWWx6SWtleGRfdlBCNUtmYXQ4eG5tdmpFOGRxWTdXOUY2YnRnanVtaUROWE5fcGN3czgtdWVXYVhUR19Tek81OV8tLXVJTHk0QXRxZmQ4ZHNsYVFQMjRDUjhXWDhkb1V0WkZGaEZrSjA3WTFYdXFMWjhTUncyQ0lHZHM2OHlXSDBQUDlUcjA0UQ?oc=5>
 
-### 特朗普宣布150亿美元钢厂计划 将建美国历史上最大钢厂
+### 特朗普：最后一批美军正在撤离伊拉克
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-09-30 17:26
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9fZDNkbDVyRjZoelRLRDVnNzJFUTMtYTZ4Tm9meTJmeE1SQ3lrTDBRbkFUYm9WMmtDdmJ0TEY2SUJlTjV6N2lpWk0yeks?oc=5>
+
+### 特朗普：我们的国家发展得非常好，在很多方面甚至可以说是前所未有的好，但公众并不知道我们做得有多出色。“假新闻”媒体拒绝报道我们创下的破纪录数据，所以我正尽我所能，亲自向大家公布这些成绩。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-09-28 21:06
-- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeW1NZXVaWjBBQUl3UGRwSEpjQ3pOaGEwb1Uyb0xGTkhlNEdvMHcwU2c5Q2lBTUhCQjgyM1JCMC02VmprbGVqdThJWWEwZ0dMcVZNT04tYlg0SXBWdFVMZnFBR1I2djJPc25qV0wzOXdoZm1pVk9tQjBPbjIyYm5mazA3UEdmdjZxNXl2ZUotajlVZ2NxMkM3MzEtR0xiLURtNmZ6dS03X0VGY292a3hEbkdMUTVSal9EQXAxR1J2UUFyUFhVb1U5OUg4aktLamZfMG5wWDBhSHBuYWswNmc?oc=5>
+- 时间: 2026-09-30 16:58
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBlX3R2UzgweVBYemlQXzhJN3d2VThnMWN3M0d6ZjVvZFhYMkhDbkZmaC1HSjZSVFhZSGExYzFhWDRBSGdkV25LMlhoek56a256cWVwQWRQdjZ1RVhpOFF2LVgyTmwyWE42aGgxUzl2REEySU8wZzhxcw?oc=5>
 
-### 决战中期选举，特朗普将启动32天全美巡回拉票！-市场参考
+### 美国国家档案馆原准备展出《旧金山和约》中方表不悦后撤下
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: xnews.jin10.com
-- 时间: 2026-09-30 08:11
-- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kazdHWEl1eEE0UTNiV0tET0FwREVCalNCUldFeTNXOGxiUS1qMV83YTNpVEN6UDZUOGNmcjg1NlVVd2xpZXNjbjF1N2N0dnM?oc=5>
+- 场馆: RFI
+- 时间: 2026-09-30 09:09
+- 链接: <https://news.google.com/rss/articles/CBMijgNBVV95cUxOWFkzbGNINWJNU0cwc3JxYm1od3JNbVduak1sblhwQ29BRUxWSXRYaWRqRVRUSmtkU2k5SUZsMW9PdnAwY1FSWTUtUGdybzZtejN3Z3JQazNJWU9WZ05ZZzVzVm1CZlZGU0lxX3NydkJOUHZPelAwZUotYzh0Q0pNM0hYMGJ0MXNZejQ1cGltQVBwWThBZGZYQ0llWjVEVERnNjF5aFpFOTNnYkZLVkNLN29kNzJQSEc0eEtGTFotQi1FMTFQS3RJY21ZdkFWcVhxSGJaZUxRd0JiLTh6S3FWUnlBckxHaGREYW9pSEFYYkZldE5ubmdub0dpSnhCdGcxUWhrWG82N2taNVh2RGFoTUlWNU9ib1NUdGZQWVh4OGNFdlc0NzRuQUN1dnhpVExIdkV6U016TzVJcTg2OTdkNTlZN2dmUERXR1gxZFJVaUpzTlhVUXQxTDBlTUJnVEpoa3JTaUg0cVl2cHIwYWdDajBOTi1wUFA2TnNRWWhjQ1ktRmpZY0o3WDM2MnBQUQ?oc=5>
+
+### 特朗普令美国面临三重病毒威胁
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 纽约时报中文网
+- 时间: 2026-09-29 17:27
+- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE55OWlEeFhYeC1WZGQ1bkRLcGs1cG13TkkyaVl1eHFVYmFodzdmQ2JsRlMyb0RTWTZhN3RxRlBoMFc2VFZNUEVVblh5RWlKT0h1aE9BUlZid2RTeXZEcnkzNVNTV0JkZ0dHUlo4SFd1Nkg0ZU1ET1J2c1FGTVU?oc=5>
+
+### 特朗普又赢了，美最高法院：可继续将移民驱逐至第三国；政府庆祝“胜利”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-09-30 07:45
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBnSENUd3hlejZNOG9qOS0zOTczSFdFbDJLbXhETmhRTVlHTlZla0lyRHM5aWIxMExDeGJJUk1TUnNoX29PREp0Yi14WVgwc0tEWDdORVo5R2tZcUNNd2g5aEE3ZzcxOVFkSmNSZm9fblQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-30 19:32  (8 条)
+
+- **周杰伦** | 周杰伦青岛站演唱会门票价格 <https://k.sina.com.cn/article_7879923685_1d5ae17e506801dkzy.html>
+- **特朗普** | 特习会后美议员促加速对台军售，众院议长：美对台支持不容置疑，台湾维持稳定与独立关乎美国家安全 <https://news.google.com/rss/articles/CBMi7gFBVV95cUxOd0RyVndrLWF6UkRmWUtUQlg0SG1UbGk0Qi1NZnNncUhGeVM4V2tGbVNMbXMtWnZEeVVhcUwxUGtKcWFoV0Q1dFQyNEFPVkhQQ29jMFNTOWVCcndSZjJ5QlMxLU9EM0FMbFpCMG9ic2hVRzNjN3dYbF95ZG5hSHQ0ekJxWEtNSjJuMzhqN2huVHpXWU5rVGNmRzd5S1FzbzYzRTNsVG5nSHMyOWp0Z0NtTU50c1h4YXNsb0xqUFJSWXRNTFpFVDBEWVNDRVVZVmZRa2JYZktaZ2lNNDVUOXQ5RzR0bS1Ed1JWQ085TUZR0gHwAUFVX3lxTE9UNXVpdmhBSks3bTRJR0JHN3F5aDJzdjdTZXZPRVdCZ3FsTmFRczJ4cWxwWFB6OFNyQWdHb051WVdTWlk3STNGVkJTa0V1Nk5ONzd3VFQ0WDk1MmQ0aDg0NWx0TTAwMFNVM0RmZ3JhLVZwWElPTld0OEZsYWN6XzBWN3NCMzVubmFoeWdIV0lDN3o3RjJpaDB1dHYwdnJxVmFuMl84LVVIRHFyTFM2WFU5aUtyNEc0bzhOWF8wbmw3YlZEaXFNTTk1bnBtUm9nUGpINlM1VW9laUpkeXhkRWVrLXJoVFlxNjRFbS1kc3pNTA?oc=5>
+- **特朗普** | 法国世界报 - 特朗普会见习近平期间的几大“外交失误” <https://news.google.com/rss/articles/CBMiggNBVV95cUxOc2F6TmlyakFVSzI5ZWJ4cEFsUHI0Zjd4Ql96cjNySV84LXgtNVZZV1dYckR6TEROZTBoMjkzdFNaRGpuYnI4S2NybDZMMnBSZmZocDA2Zm11VU1HcmtsUTRNVmpMY25jbmJxQ0JGM2h3a203bzVXWUFJM2RnTWFfQlEzRF9pdE51dUFBeHBlcGtXcjcwRy1DN1FaVk5fQ3FKRWgwOG9wYUMxRGdpSWNBXzFzT19TY25MR0dXRFFoS2hRdUllSzVzZGthclJSOVdBMVdueXp3djh5dVIxYWZvZFRoc3dFeF9Mc003aXlBMkViMHo4NFJ0YVRSWWx6SWtleGRfdlBCNUtmYXQ4eG5tdmpFOGRxWTdXOUY2YnRnanVtaUROWE5fcGN3czgtdWVXYVhUR19Tek81OV8tLXVJTHk0QXRxZmQ4ZHNsYVFQMjRDUjhXWDhkb1V0WkZGaEZrSjA3WTFYdXFMWjhTUncyQ0lHZHM2OHlXSDBQUDlUcjA0UQ?oc=5>
+- **特朗普** | 特朗普：最后一批美军正在撤离伊拉克 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9fZDNkbDVyRjZoelRLRDVnNzJFUTMtYTZ4Tm9meTJmeE1SQ3lrTDBRbkFUYm9WMmtDdmJ0TEY2SUJlTjV6N2lpWk0yeks?oc=5>
+- **特朗普** | 特朗普：我们的国家发展得非常好，在很多方面甚至可以说是前所未有的好，但公众并不知道我们做得有多出色。“假新闻”媒体拒绝报道我们创下的破纪录数据，所以我正尽我所能，亲自向大家公布这些成绩。 <https://news.google.com/rss/articles/CBMieEFVX3lxTFBlX3R2UzgweVBYemlQXzhJN3d2VThnMWN3M0d6ZjVvZFhYMkhDbkZmaC1HSjZSVFhZSGExYzFhWDRBSGdkV25LMlhoek56a256cWVwQWRQdjZ1RVhpOFF2LVgyTmwyWE42aGgxUzl2REEySU8wZzhxcw?oc=5>
+- **特朗普** | 美国国家档案馆原准备展出《旧金山和约》中方表不悦后撤下 <https://news.google.com/rss/articles/CBMijgNBVV95cUxOWFkzbGNINWJNU0cwc3JxYm1od3JNbVduak1sblhwQ29BRUxWSXRYaWRqRVRUSmtkU2k5SUZsMW9PdnAwY1FSWTUtUGdybzZtejN3Z3JQazNJWU9WZ05ZZzVzVm1CZlZGU0lxX3NydkJOUHZPelAwZUotYzh0Q0pNM0hYMGJ0MXNZejQ1cGltQVBwWThBZGZYQ0llWjVEVERnNjF5aFpFOTNnYkZLVkNLN29kNzJQSEc0eEtGTFotQi1FMTFQS3RJY21ZdkFWcVhxSGJaZUxRd0JiLTh6S3FWUnlBckxHaGREYW9pSEFYYkZldE5ubmdub0dpSnhCdGcxUWhrWG82N2taNVh2RGFoTUlWNU9ib1NUdGZQWVh4OGNFdlc0NzRuQUN1dnhpVExIdkV6U016TzVJcTg2OTdkNTlZN2dmUERXR1gxZFJVaUpzTlhVUXQxTDBlTUJnVEpoa3JTaUg0cVl2cHIwYWdDajBOTi1wUFA2TnNRWWhjQ1ktRmpZY0o3WDM2MnBQUQ?oc=5>
+- **特朗普** | 特朗普令美国面临三重病毒威胁 <https://news.google.com/rss/articles/CBMifEFVX3lxTE55OWlEeFhYeC1WZGQ1bkRLcGs1cG13TkkyaVl1eHFVYmFodzdmQ2JsRlMyb0RTWTZhN3RxRlBoMFc2VFZNUEVVblh5RWlKT0h1aE9BUlZid2RTeXZEcnkzNVNTV0JkZ0dHUlo4SFd1Nkg0ZU1ET1J2c1FGTVU?oc=5>
+- **特朗普** | 特朗普又赢了，美最高法院：可继续将移民驱逐至第三国；政府庆祝“胜利” <https://news.google.com/rss/articles/CBMicEFVX3lxTFBnSENUd3hlejZNOG9qOS0zOTczSFdFbDJLbXhETmhRTVlHTlZla0lyRHM5aWIxMExDeGJJUk1TUnNoX29PREp0Yi14WVgwc0tEWDdORVo5R2tZcUNNd2g5aEE3ZzcxOVFkSmNSZm9fblQ?oc=5>
 
 ### 2026-09-30 14:01  (7 条)
 
