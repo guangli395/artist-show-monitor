@@ -1,64 +1,137 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-30 01:26**
-- 本轮扫到 12943 条, 新增 **6** 条
+- 最近更新: **2026-09-30 07:05**
+- 本轮扫到 12957 条, 新增 **14** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (14 条)
+
+### 肖战新歌中疑似王一博的和声是空耳还是实锤？
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801lyrw.html>
+
+### 华表奖 肖战王一博名字同框，新歌同步上线，难得见到这样的场面
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879924004_m1d5ae192403302bifa.html>
+
+### 曹杨新歌《如诗一般的形容妳》由哪几位音乐人联手打造？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd8640680169h8.html>
+
+### 周杰伦南京演唱会笑称刘畊宏穿搭含蓄，点名要胸肌特写
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_6320390379_m178b980eb033038y7q.html>
+
+### 马斯克改口SI后特朗普欣慰拍肩膀
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 手机新浪网
+- 时间: 2026-09-30 06:53
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1kTEYtdjE3V3VDZVktaUl5Y0RqTUFYQ2lTR1gySkNPaWd1WTYyNTRRSTd4UUJPOFZ3U3RqclFXQVhOS3pwYXdGR3RDY1BjNEFxOTgwRk0tVzMtTVhzOFhqSGhQMUhxZzJpb2lvd0U5bGYwdk0?oc=5>
+
+### 美前高官憋出不住了：中方影响特朗普，“卓有成效”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者网
+- 时间: 2026-09-30 04:00
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFBIdFFiUUlrTnJ4emw0TUZxdTVHckpTZE10RHhYMmVrYlVycTNpY3FGWE1INHZwU25RMU5TWWwtRjFVdUVqMWJrRmFZMXNkTTRHaGN2SG1BY01mLU5IeF9VZzNwS2RRd0plVTVZSVgyMENUVlk?oc=5>
 
 ### 美国总统特朗普的支持......_7x24快讯_新浪财经
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-30 00:24
-- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTFA0Q3NVX0hwWVFnLVFXOTJCbjI4Z0FUenpkdGxkUjJPT29OU3ZrejJzZmdvWjdNUk1pOTQ0U0tiNkc5YTdqZV90SHR6MkRvdms?oc=5>
-
-### 特朗普被曝拟放宽对俄制裁，条件披露
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-09-30 00:52
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9fMUJqUzJ0ZG5qWVZ3alh2WDU3MmNkOU5Lb1R5dVQxLUZ4T1FHU1JqUmliTHpyWXhkT3BoanROT2ZyeXdDY2g0QVZZa2U?oc=5>
-
-### 美国财政部：特朗普账户将自动为儿童注册，可能新增6000万个账户
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-29 18:58
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxPS0tsakRSdkZfMmZia0VHSjRpTXVXOHVMTXFEdy1XeTM3N2x2UWxJX0liTl82cEM0ek5sUHNXN0prQ0tMa2M0SGkyYXE3VjJrU196ZEVnNkk0TDJ2MnNJczE2T2lGUVdQbmREOHNYTTNNZTVLVC1PdWN6cTNNUXoyMk94NHUyYTA?oc=5>
-
-### 特朗普要求媒体撤回不实报道 愤怒质问假新闻制造者
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-09-30 00:53
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5JbmZBdDFRVklNYS15ZFAtX29EY3VkX2VJeGxWa291Y0k2cDJzYXZSRnJ5OWJvekJxNWs3YXY5Qnp0RlluVndVckhBbDNMSkNYcGJuai00aTJoZ1dsUjRnNHUxNlY5eGJsd2ZPM2czcjc?oc=5>
-
-### 特朗普称科技企业将尽力让社会对数据中心建设感满意
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: gbcode.rthk.hk
-- 时间: 2026-09-29 21:33
-- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNG9ZRnpjRHdPaGU5ZFZXd1NYaElHeG9CNE9NRXozX1VET0tEbzlLOVNXXzJIWGFCUlpVc21ORmdOVkFKM01zSEtOOHo4a0JkTUdtV0ZXejM2bEVGTllyaktHNFVqMFpBMTczVkhDbXVPejlxQVBoZ2xzVXU0Rm5qYWRFYUEyTmwzY3hN?oc=5>
+- 场馆: finance.sina.com.cn
+- 时间: 2026-09-30 00:30
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1KZEQ0ZHh5a1ZKc3JaY3lhU2gtWWM0VUphSUdmQnhEWFBmV2Rxa2lyek9SYS1nSnFFdl9CWXhvcXJBOXBwMlFGSWt1Zw?oc=5>
 
 ### 特朗普将宣布540亿美元阿拉斯加液化天然气计划 应对中期选举压力
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 搜狐网
+- 场馆: finance.sina.com.cn
 - 时间: 2026-09-29 21:57
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxPWkFFdXZWSGRvNTlNNEFvS2cxNG96RndLQmxLMEtuai1aSWFLb3V0aWRIOXMxNEZ2UWJxNVpBQUUyZVlPemZuaVJSU2NqWlRlNnZiRDBNUnFYX0lvejNiazFRT1lQa3RQWGZiWVQ2Zk9GSTBGbFJDOGhYZWxVU3FvUGYyaGhWVDczdFJaNw?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaGYzSVhITW5zaEJFTGhOcGtwcE5LRFU5VmlSdGVfOVdEX216SzBmTDY5OXBxRFFDdDNLd1B1VHh1NElOZ3JsaE82dGNmMG0xSmwyeFBnNnI5eWdPMlhocl9DcTc3SXRGbGd0OW5YUXYzYXh6VVctM0Ewd1VxSFlyRUIyNUd6dnNrWkJ4c2lfaVZtR0pBclpMVXRKTC04NVpYQmxCT1MySnBJdWVWNWFEY1ZEb0labjlfNW52dk1LWVdOLWZDcmI5RWhHcS1Kdjhud0E?oc=5>
+
+### 报道：中期选举临近，特朗普与顾问就柴油出口禁令进行紧急磋商
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街见闻
+- 时间: 2026-09-30 05:49
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE14cnI4LWM1NEJweGxWVFFOa24zeDlfWXZkN2VVa0dUT0hJVExOOG1XMDdDQ2YyNW13NVdjYmVJMkZzdjRSaHJCZWZfdWJSVG15RmNr?oc=5>
+
+### 美伊间接谈判重启！特朗普称美伊已“交换信息”，伊方正等待美方回应
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街见闻
+- 时间: 2026-09-29 07:49
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE1pUlI1M21YYlBmRGwtTWVMZzNubFhMV2NLZTZDYS1CM3dBWmlSekhJWWQtSTByenFxSk03M3BGYkprczBqN0p1b3QxVFg5X1BBVG9J?oc=5>
+
+### 特朗普反驳“对朝鲜伊朗核双标”质疑
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-09-30 02:06
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9YZGlEbmlKbnViWVVLWmJvUUNPZWJ1LTMtd25zWmdVblZsd0JWVy1uR0NMT3pWZlZCSXpmX3V5Z2pNekRFeUdXVnc0ZXE?oc=5>
+
+### 马斯克这一改口，为何让特朗普都会谢
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-09-30 03:41
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RQjI3cThZWVd6bGctTnM0TFh0RHVEcEkwaGs2cEtSbk94SGNrV2YzMlFvZmJlX3p4OGdjVldfNkQ4X24tTmdOQU8xNFBJMTJoWHlxTEtSVHJEWTVFcm81Rw?oc=5>
+
+### 台学者：美对台军售或延至特朗普任末实施
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-09-29 12:14
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1oY1hMQnB0aVBoZWNyWGtuZ0tCUXlVOW15MkNkd05vSEI2Q1Bmc1ZOQVZwTXlqa2NXWFpEVkdWWXB4M3NSMGl0WGZkbDBpRlUzaDJkTFVBV3U1anF4WDRNZ3lQRDEyUQ?oc=5>
+
+### 特朗普排除美中合作开发人工智能的可能
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: BBC
+- 时间: 2026-09-30 04:46
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjQ3lQTGptVDdCWndOTmZVUENlWUM2VUhGdnJwZGRHZ1dxVk9maVNpNkVtYjVzRVRqeTRQY1FXUnRONXJtZXgtVFIxZjlKOEZIZTh5TnItZ0Z4aTJrY0hvZWh0ZU5TYjDSAWxBVV95cUxPNXI5MC1EZXNZdVh2UEZMc2s1d3FfV1BKcFNYSW1oTWtOZEpBQmFyT0ptUjlrWUpiMFFkcXdxak0wUVI1V0VQNzJuLXFlYjhncUFaRWxIN2FfcWpsc1hXQVo3SHZlbDctZlgzMWQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-30 07:05  (14 条)
+
+- **王一博** | 肖战新歌中疑似王一博的和声是空耳还是实锤？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801lyrw.html>
+- **王一博** | 华表奖 肖战王一博名字同框，新歌同步上线，难得见到这样的场面 <https://k.sina.com.cn/article_7879924004_m1d5ae192403302bifa.html>
+- **周杰伦** | 曹杨新歌《如诗一般的形容妳》由哪几位音乐人联手打造？ <https://k.sina.com.cn/article_7879776356_1d5abd8640680169h8.html>
+- **周杰伦** | 周杰伦南京演唱会笑称刘畊宏穿搭含蓄，点名要胸肌特写 <https://k.sina.com.cn/article_6320390379_m178b980eb033038y7q.html>
+- **特朗普** | 马斯克改口SI后特朗普欣慰拍肩膀 <https://news.google.com/rss/articles/CBMic0FVX3lxTE1kTEYtdjE3V3VDZVktaUl5Y0RqTUFYQ2lTR1gySkNPaWd1WTYyNTRRSTd4UUJPOFZ3U3RqclFXQVhOS3pwYXdGR3RDY1BjNEFxOTgwRk0tVzMtTVhzOFhqSGhQMUhxZzJpb2lvd0U5bGYwdk0?oc=5>
+- **特朗普** | 美前高官憋出不住了：中方影响特朗普，“卓有成效” <https://news.google.com/rss/articles/CBMic0FVX3lxTFBIdFFiUUlrTnJ4emw0TUZxdTVHckpTZE10RHhYMmVrYlVycTNpY3FGWE1INHZwU25RMU5TWWwtRjFVdUVqMWJrRmFZMXNkTTRHaGN2SG1BY01mLU5IeF9VZzNwS2RRd0plVTVZSVgyMENUVlk?oc=5>
+- **特朗普** | 美国总统特朗普的支持......_7x24快讯_新浪财经 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1KZEQ0ZHh5a1ZKc3JaY3lhU2gtWWM0VUphSUdmQnhEWFBmV2Rxa2lyek9SYS1nSnFFdl9CWXhvcXJBOXBwMlFGSWt1Zw?oc=5>
+- **特朗普** | 特朗普将宣布540亿美元阿拉斯加液化天然气计划 应对中期选举压力 <https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaGYzSVhITW5zaEJFTGhOcGtwcE5LRFU5VmlSdGVfOVdEX216SzBmTDY5OXBxRFFDdDNLd1B1VHh1NElOZ3JsaE82dGNmMG0xSmwyeFBnNnI5eWdPMlhocl9DcTc3SXRGbGd0OW5YUXYzYXh6VVctM0Ewd1VxSFlyRUIyNUd6dnNrWkJ4c2lfaVZtR0pBclpMVXRKTC04NVpYQmxCT1MySnBJdWVWNWFEY1ZEb0labjlfNW52dk1LWVdOLWZDcmI5RWhHcS1Kdjhud0E?oc=5>
+- **特朗普** | 报道：中期选举临近，特朗普与顾问就柴油出口禁令进行紧急磋商 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE14cnI4LWM1NEJweGxWVFFOa24zeDlfWXZkN2VVa0dUT0hJVExOOG1XMDdDQ2YyNW13NVdjYmVJMkZzdjRSaHJCZWZfdWJSVG15RmNr?oc=5>
+- **特朗普** | 美伊间接谈判重启！特朗普称美伊已“交换信息”，伊方正等待美方回应 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE1pUlI1M21YYlBmRGwtTWVMZzNubFhMV2NLZTZDYS1CM3dBWmlSekhJWWQtSTByenFxSk03M3BGYkprczBqN0p1b3QxVFg5X1BBVG9J?oc=5>
+- **特朗普** | 特朗普反驳“对朝鲜伊朗核双标”质疑 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9YZGlEbmlKbnViWVVLWmJvUUNPZWJ1LTMtd25zWmdVblZsd0JWVy1uR0NMT3pWZlZCSXpmX3V5Z2pNekRFeUdXVnc0ZXE?oc=5>
+- **特朗普** | 马斯克这一改口，为何让特朗普都会谢 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RQjI3cThZWVd6bGctTnM0TFh0RHVEcEkwaGs2cEtSbk94SGNrV2YzMlFvZmJlX3p4OGdjVldfNkQ4X24tTmdOQU8xNFBJMTJoWHlxTEtSVHJEWTVFcm81Rw?oc=5>
+- **特朗普** | 台学者：美对台军售或延至特朗普任末实施 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1oY1hMQnB0aVBoZWNyWGtuZ0tCUXlVOW15MkNkd05vSEI2Q1Bmc1ZOQVZwTXlqa2NXWFpEVkdWWXB4M3NSMGl0WGZkbDBpRlUzaDJkTFVBV3U1anF4WDRNZ3lQRDEyUQ?oc=5>
+- **Trump** | 特朗普排除美中合作开发人工智能的可能 <https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjQ3lQTGptVDdCWndOTmZVUENlWUM2VUhGdnJwZGRHZ1dxVk9maVNpNkVtYjVzRVRqeTRQY1FXUnRONXJtZXgtVFIxZjlKOEZIZTh5TnItZ0Z4aTJrY0hvZWh0ZU5TYjDSAWxBVV95cUxPNXI5MC1EZXNZdVh2UEZMc2s1d3FfV1BKcFNYSW1oTWtOZEpBQmFyT0ptUjlrWUpiMFFkcXdxak0wUVI1V0VQNzJuLXFlYjhncUFaRWxIN2FfcWpsc1hXQVo3SHZlbDctZlgzMWQ?oc=5>
 
 ### 2026-09-30 01:26  (6 条)
 
