@@ -1,78 +1,107 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-30 19:32**
-- 本轮扫到 12972 条, 新增 **8** 条
+- 最近更新: **2026-09-30 23:22**
+- 本轮扫到 12982 条, 新增 **10** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (10 条)
 
-### 周杰伦青岛站演唱会门票价格
+### 周杰伦青岛演唱会门票值得买吗？票价、抢票策略与避坑指南+FAQ
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923685_1d5ae17e506801dkzy.html>
-
-### 特习会后美议员促加速对台军售，众院议长：美对台支持不容置疑，台湾维持稳定与独立关乎美国家安全
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-09-29 21:28
-- 链接: <https://news.google.com/rss/articles/CBMi7gFBVV95cUxOd0RyVndrLWF6UkRmWUtUQlg0SG1UbGk0Qi1NZnNncUhGeVM4V2tGbVNMbXMtWnZEeVVhcUwxUGtKcWFoV0Q1dFQyNEFPVkhQQ29jMFNTOWVCcndSZjJ5QlMxLU9EM0FMbFpCMG9ic2hVRzNjN3dYbF95ZG5hSHQ0ekJxWEtNSjJuMzhqN2huVHpXWU5rVGNmRzd5S1FzbzYzRTNsVG5nSHMyOWp0Z0NtTU50c1h4YXNsb0xqUFJSWXRNTFpFVDBEWVNDRVVZVmZRa2JYZktaZ2lNNDVUOXQ5RzR0bS1Ed1JWQ085TUZR0gHwAUFVX3lxTE9UNXVpdmhBSks3bTRJR0JHN3F5aDJzdjdTZXZPRVdCZ3FsTmFRczJ4cWxwWFB6OFNyQWdHb051WVdTWlk3STNGVkJTa0V1Nk5ONzd3VFQ0WDk1MmQ0aDg0NWx0TTAwMFNVM0RmZ3JhLVZwWElPTld0OEZsYWN6XzBWN3NCMzVubmFoeWdIV0lDN3o3RjJpaDB1dHYwdnJxVmFuMl84LVVIRHFyTFM2WFU5aUtyNEc0bzhOWF8wbmw3YlZEaXFNTTk1bnBtUm9nUGpINlM1VW9laUpkeXhkRWVrLXJoVFlxNjRFbS1kc3pNTA?oc=5>
-
-### 法国世界报 - 特朗普会见习近平期间的几大“外交失误”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-09-30 17:14
-- 链接: <https://news.google.com/rss/articles/CBMiggNBVV95cUxOc2F6TmlyakFVSzI5ZWJ4cEFsUHI0Zjd4Ql96cjNySV84LXgtNVZZV1dYckR6TEROZTBoMjkzdFNaRGpuYnI4S2NybDZMMnBSZmZocDA2Zm11VU1HcmtsUTRNVmpMY25jbmJxQ0JGM2h3a203bzVXWUFJM2RnTWFfQlEzRF9pdE51dUFBeHBlcGtXcjcwRy1DN1FaVk5fQ3FKRWgwOG9wYUMxRGdpSWNBXzFzT19TY25MR0dXRFFoS2hRdUllSzVzZGthclJSOVdBMVdueXp3djh5dVIxYWZvZFRoc3dFeF9Mc003aXlBMkViMHo4NFJ0YVRSWWx6SWtleGRfdlBCNUtmYXQ4eG5tdmpFOGRxWTdXOUY2YnRnanVtaUROWE5fcGN3czgtdWVXYVhUR19Tek81OV8tLXVJTHk0QXRxZmQ4ZHNsYVFQMjRDUjhXWDhkb1V0WkZGaEZrSjA3WTFYdXFMWjhTUncyQ0lHZHM2OHlXSDBQUDlUcjA0UQ?oc=5>
+- 链接: <https://k.sina.com.cn/article_7879777061_1d5abdb2506801migi.html>
 
 ### 特朗普：最后一批美军正在撤离伊拉克
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-09-30 17:26
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9fZDNkbDVyRjZoelRLRDVnNzJFUTMtYTZ4Tm9meTJmeE1SQ3lrTDBRbkFUYm9WMmtDdmJ0TEY2SUJlTjV6N2lpWk0yeks?oc=5>
+- 场馆: finance.sina.com.cn
+- 时间: 2026-09-30 21:33
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9lVEdrVmx1OWpkT2J4bDhOVG5LSHg3QmRBdUdvc215akFvR1NvZGNRcG80N2Z5VVZPaDZJZ2ZOc0d3aXdvbER4WkZKOWZXSDdOMXVQdmtFX3l5ajcwUFI5ODUxd090bVM0R1Vvc3hiSW51c0RHTHRSSg?oc=5>
 
-### 特朗普：我们的国家发展得非常好，在很多方面甚至可以说是前所未有的好，但公众并不知道我们做得有多出色。“假新闻”媒体拒绝报道我们创下的破纪录数据，所以我正尽我所能，亲自向大家公布这些成绩。
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-30 16:58
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBlX3R2UzgweVBYemlQXzhJN3d2VThnMWN3M0d6ZjVvZFhYMkhDbkZmaC1HSjZSVFhZSGExYzFhWDRBSGdkV25LMlhoek56a256cWVwQWRQdjZ1RVhpOFF2LVgyTmwyWE42aGgxUzl2REEySU8wZzhxcw?oc=5>
-
-### 美国国家档案馆原准备展出《旧金山和约》中方表不悦后撤下
+### 特朗普称从伊拉克撤军是美国的“胜利”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: RFI
-- 时间: 2026-09-30 09:09
-- 链接: <https://news.google.com/rss/articles/CBMijgNBVV95cUxOWFkzbGNINWJNU0cwc3JxYm1od3JNbVduak1sblhwQ29BRUxWSXRYaWRqRVRUSmtkU2k5SUZsMW9PdnAwY1FSWTUtUGdybzZtejN3Z3JQazNJWU9WZ05ZZzVzVm1CZlZGU0lxX3NydkJOUHZPelAwZUotYzh0Q0pNM0hYMGJ0MXNZejQ1cGltQVBwWThBZGZYQ0llWjVEVERnNjF5aFpFOTNnYkZLVkNLN29kNzJQSEc0eEtGTFotQi1FMTFQS3RJY21ZdkFWcVhxSGJaZUxRd0JiLTh6S3FWUnlBckxHaGREYW9pSEFYYkZldE5ubmdub0dpSnhCdGcxUWhrWG82N2taNVh2RGFoTUlWNU9ib1NUdGZQWVh4OGNFdlc0NzRuQUN1dnhpVExIdkV6U016TzVJcTg2OTdkNTlZN2dmUERXR1gxZFJVaUpzTlhVUXQxTDBlTUJnVEpoa3JTaUg0cVl2cHIwYWdDajBOTi1wUFA2TnNRWWhjQ1ktRmpZY0o3WDM2MnBQUQ?oc=5>
+- 时间: 2026-09-30 20:45
+- 链接: <https://news.google.com/rss/articles/CBMioAJBVV95cUxOSlVkcGVQcFY0ZkdKaUZRa09Ic3lzeFJGYWV2U09ORFptVVpKUWo0b0h2WjlQVUpCOUpNMzlONXU1bnZFS3RfZkczdGxrT2tDNEpHUnVnQmhaenoxMW83RFBfOFFhSUI2SGc0VkxXZGk2OVNTaHNDM0c2bF9ESElnaUxOdXYxS3VjazNLczFncmp0cUpJaVFkc2RXN2E3SDR4eHpuVXB6dEdIZjVuY3g4WGwtOE5TNjFDYXBoRmU0ZE5qcHBfSnJPOEFndUw4QTlEQ1lnTTY4QkpPVGRSME1jMmlmYUZqc3RtUTBZdEQzenQ1MnJtLXE0Mkk1bVdZaGtCSHN5c202MXFjUldtYzY4MWl4RElPMWhNNFQ5Y3JpXzc?oc=5>
 
-### 特朗普令美国面临三重病毒威胁
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-09-29 17:27
-- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE55OWlEeFhYeC1WZGQ1bkRLcGs1cG13TkkyaVl1eHFVYmFodzdmQ2JsRlMyb0RTWTZhN3RxRlBoMFc2VFZNUEVVblh5RWlKT0h1aE9BUlZid2RTeXZEcnkzNVNTV0JkZ0dHUlo4SFd1Nkg0ZU1ET1J2c1FGTVU?oc=5>
-
-### 特朗普又赢了，美最高法院：可继续将移民驱逐至第三国；政府庆祝“胜利”
+### 特朗普总统：美军从伊拉克撤出是美国的“胜利”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-09-30 07:45
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBnSENUd3hlejZNOG9qOS0zOTczSFdFbDJLbXhETmhRTVlHTlZla0lyRHM5aWIxMExDeGJJUk1TUnNoX29PREp0Yi14WVgwc0tEWDdORVo5R2tZcUNNd2g5aEE3ZzcxOVFkSmNSZm9fblQ?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-09-30 20:41
+- 链接: <https://news.google.com/rss/articles/CBMiyAFBVV95cUxQV016OENodS1veGlLWUkzeGpsY1FTdllNZGZZRFZicF9Hb1FRQTR1NW9HWmFYeUhQS01lZEhMZ3N4V0xSSTE0WDVuTzJfU1psQ0NvQkxDeWJOR2Z0ZnVjRjMwUndfQWR4YTRkRXBsdnRabmdHSHNTaGdFQUZ6NWJmNVUydXp3V1pySkt3Tmo5QTZYc1ZVeXFJQmhRZUQySlpTXzdQUWIzdTRteGNMY25CVmFMUG1HZGZlRmdYcTItay1Sei03cUFUZdIBywFBVV95cUxPVW15ajlsbmFlbHVMZWZIZXctVlpFSVlBOEFpRmJkWENpTXZnNC1jV2U2bGp4Zkx5WU9sTTF5WmVCMjUxcFY5dk01V0lWQ1VZX2REbkE5eHp6bTdfRmw4YS1mVGxUUUhnQnBUWVI5RWhfdmtJYnlYSkN1bDBIb3k1NzBCRWVBRWg2d0x5Ti1zUkZtcllfUXhUbEFnUVVIdjFSU09NYlZaYUU0ZV9YTVFDcGlXZUljTUk0SXp6dmx3SV9YSlg5TzExbkMyQQ?oc=5>
+
+### 特朗普最新全球关税遭遇贸易法院司法挑战
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-09-30 16:40
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxORnYtR3NremN4VDhrTlNZcl9KYlRDbVZfTmVHTUJfUEVJbHctbUhtdWthODVuU3ZtakVXbjZsMllIMC1VaTJKNTRGWl8teFc2aXNoNUVEcnJZbGR1QWgwZUFHUVVzdWV5WmZUZFY5U09GdUN1ODdicGtpOXNoQUxPWDNqNTQxZy1YT1ZaakNuTktVT3QwcTZMSkMyMmZUSnlNXzNHSXV2SzVEbFV2NXF4YjNOUFF6VUV3bzlvRFlPTGdOWHlYa2JVOVFZRWN5SVVXVnFtNkNoQkF2NGQ2N0h3?oc=5>
+
+### 美以伊局势：美官员称特朗普或在中期选举后恢复大规模作战行动，美伊均不愿让步；以色列定性迪拜航空客机安全事件为“未遂恐怖袭击”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: thepaper.cn
+- 时间: 2026-09-30 19:01
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTFBYbjlRNkZxOXlIZW5JazdSQ1lKWng2d0JiaC1MTFhuU1I5UDRlRi1DM1FCZmxvV3BJZndXVS1veEFqNnN4MUZXOER3bmV4bjY0LUNnT2lMQ3VwS3Bpbmc?oc=5>
+
+### 川普20岁帅儿爆秘恋逾1年！神秘女友是大学同学
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 文学城
+- 时间: 2026-09-30 06:58
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BeHRTaVMzcnEwcGhmdHF2aEZBcUROQjdIZGhhN1lrWkRFTmJHaVR0T25iYzNkNHZTcm5DSllLOVJpdUY2NG1VLVVuYXU1WEtETWNjUnMzcXBFNklzWU51MnhLai1SVzlt?oc=5>
+
+### 解读：特朗普总统与科技领袖签署的“超级智能”安全协议包含哪些内容
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-09-30 22:45
+- 链接: <https://news.google.com/rss/articles/CBMi2wFBVV95cUxQd052aFp5ZFNMVTZaQkpXUl8xd2p4Yl9SQmtyeXg4eURUbHRYdWxRbzJKOTBxM052TGVhbHZjaHAxU0RiREhjZnlveW5TcXExbEJWVUllSnRtaEVyOGZ4NXczeHFNdmx5aGZDc2tVMExqd3RiTUFsNzkydmFlSWVVN0FQV1c3M09sNkMzUGpVd011WDNZc1JMbm10MUpOUXNaNjctVlRXNmdFams3aGN0RnEwU0c1dmVxb0tHdzF2ZkNnUEZqUzhUMllmY0lBeTF4LWd3emNZTHVkS2vSAd4BQVVfeXFMUG9fX0dTVUgtOXhodU1CdkxLRUFCS1NtalFwRDh5M1RfbUJsNERDajA3Z3RFNngzYnNsQ1VhQVpZWldqMklDRGVmU1hHa3ItaUZfYzcwaTlNUUwtSWluV0RGa3duQ3pCVFFtOXZ5d3dtWnBBWW9iNy1MTFdmM24xT1NvNUQtMzJuZXhocXVUMXNfbDYwT21DUlA1STE5Y2dONEVOVTVmeV9PRGJHWTVMSXlkMDI4NzROUWZ3RnFCYUNlUFlRRlhJMmFIekNjbEVEOVo0TEdLUU50QVZnUGZ3?oc=5>
+
+### Trump Touts Economic Wins in Battleground States - Like a $54 Billion Alaskan Pipeline - as the Midterms Draw Closer
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-09-30 21:20
+- 链接: <https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcV9GQUtNZVRFb1NGcUpjRDgxcFZoWVEtZDg1MWZCNDhpaGRLaEwyZFV2a3lQSlg4Q3hSc0M3MUo5cElGeU1UbjhpMlZEdE5EdG5FeVdKdERySGdnVWM1a2ZCWUY5OWpNaW9ELWNxcjAzcUlscldpcks3eUxodWVUSW5OWmRjS1hhdVhBZVVnamR6a0NTVFJPTW52d1RDZGVaV25qMl9HVnA3SEk?oc=5>
+
+### 美国和中国--建立在相互尊重基础上的友谊
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: VOA - Voice of America English News
+- 时间: 2026-09-28 17:11
+- 链接: <https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcGtHb2xOQk5JbGgxNkNJQ21sQjNFN2JWLWtxRGk4Rnh3WmFBSHdpZERXTDBHTFN4bE9pd0tmTEhsczd5cUtXUlJnYjBjT0NyQXkxbjNEZTU5LWJ3RnJ1cGp4NlNIV2g5djMyOGYyaXNYbkFVZjI4VEpKZ2swaG96SDZrb0RtX2lUUURrVUFwRGkyQmJubkg5OVVUM0lxckdSWWE4aWtxZXRtTVJnNE1xOGt4d0ZfY2I2SG80VU43RlBWd9IBxAFBVV95cUxQR2lWeHJnRXRXeUdIdXd4OGtfYWJDTnlfSk5FTm1EaXFVbkFzZkQzdVNxaDN2TXdqSThTYlZDNFRDVnhFaVFCOTJCRVJVaFdJUFhrOGJfRVloUGF6NGd2Q0NVRXlWN055TGllSUJoQS10LVh1cVdVdTdnd2lsNHJhSlFGaUlqX0c2MUJWaDF2REJXOUtndGdiU09QQm0wVDZHUTVGMldqaVRkZl8xWW4yeGttRnRrLWcweUF4MHJWZ3NQS0dv?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-30 23:22  (10 条)
+
+- **周杰伦** | 周杰伦青岛演唱会门票值得买吗？票价、抢票策略与避坑指南+FAQ <https://k.sina.com.cn/article_7879777061_1d5abdb2506801migi.html>
+- **特朗普** | 特朗普：最后一批美军正在撤离伊拉克 <https://news.google.com/rss/articles/CBMieEFVX3lxTE9lVEdrVmx1OWpkT2J4bDhOVG5LSHg3QmRBdUdvc215akFvR1NvZGNRcG80N2Z5VVZPaDZJZ2ZOc0d3aXdvbER4WkZKOWZXSDdOMXVQdmtFX3l5ajcwUFI5ODUxd090bVM0R1Vvc3hiSW51c0RHTHRSSg?oc=5>
+- **特朗普** | 特朗普称从伊拉克撤军是美国的“胜利” <https://news.google.com/rss/articles/CBMioAJBVV95cUxOSlVkcGVQcFY0ZkdKaUZRa09Ic3lzeFJGYWV2U09ORFptVVpKUWo0b0h2WjlQVUpCOUpNMzlONXU1bnZFS3RfZkczdGxrT2tDNEpHUnVnQmhaenoxMW83RFBfOFFhSUI2SGc0VkxXZGk2OVNTaHNDM0c2bF9ESElnaUxOdXYxS3VjazNLczFncmp0cUpJaVFkc2RXN2E3SDR4eHpuVXB6dEdIZjVuY3g4WGwtOE5TNjFDYXBoRmU0ZE5qcHBfSnJPOEFndUw4QTlEQ1lnTTY4QkpPVGRSME1jMmlmYUZqc3RtUTBZdEQzenQ1MnJtLXE0Mkk1bVdZaGtCSHN5c202MXFjUldtYzY4MWl4RElPMWhNNFQ5Y3JpXzc?oc=5>
+- **特朗普** | 特朗普总统：美军从伊拉克撤出是美国的“胜利” <https://news.google.com/rss/articles/CBMiyAFBVV95cUxQV016OENodS1veGlLWUkzeGpsY1FTdllNZGZZRFZicF9Hb1FRQTR1NW9HWmFYeUhQS01lZEhMZ3N4V0xSSTE0WDVuTzJfU1psQ0NvQkxDeWJOR2Z0ZnVjRjMwUndfQWR4YTRkRXBsdnRabmdHSHNTaGdFQUZ6NWJmNVUydXp3V1pySkt3Tmo5QTZYc1ZVeXFJQmhRZUQySlpTXzdQUWIzdTRteGNMY25CVmFMUG1HZGZlRmdYcTItay1Sei03cUFUZdIBywFBVV95cUxPVW15ajlsbmFlbHVMZWZIZXctVlpFSVlBOEFpRmJkWENpTXZnNC1jV2U2bGp4Zkx5WU9sTTF5WmVCMjUxcFY5dk01V0lWQ1VZX2REbkE5eHp6bTdfRmw4YS1mVGxUUUhnQnBUWVI5RWhfdmtJYnlYSkN1bDBIb3k1NzBCRWVBRWg2d0x5Ti1zUkZtcllfUXhUbEFnUVVIdjFSU09NYlZaYUU0ZV9YTVFDcGlXZUljTUk0SXp6dmx3SV9YSlg5TzExbkMyQQ?oc=5>
+- **特朗普** | 特朗普最新全球关税遭遇贸易法院司法挑战 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxORnYtR3NremN4VDhrTlNZcl9KYlRDbVZfTmVHTUJfUEVJbHctbUhtdWthODVuU3ZtakVXbjZsMllIMC1VaTJKNTRGWl8teFc2aXNoNUVEcnJZbGR1QWgwZUFHUVVzdWV5WmZUZFY5U09GdUN1ODdicGtpOXNoQUxPWDNqNTQxZy1YT1ZaakNuTktVT3QwcTZMSkMyMmZUSnlNXzNHSXV2SzVEbFV2NXF4YjNOUFF6VUV3bzlvRFlPTGdOWHlYa2JVOVFZRWN5SVVXVnFtNkNoQkF2NGQ2N0h3?oc=5>
+- **特朗普** | 美以伊局势：美官员称特朗普或在中期选举后恢复大规模作战行动，美伊均不愿让步；以色列定性迪拜航空客机安全事件为“未遂恐怖袭击” <https://news.google.com/rss/articles/CBMiXkFVX3lxTFBYbjlRNkZxOXlIZW5JazdSQ1lKWng2d0JiaC1MTFhuU1I5UDRlRi1DM1FCZmxvV3BJZndXVS1veEFqNnN4MUZXOER3bmV4bjY0LUNnT2lMQ3VwS3Bpbmc?oc=5>
+- **Trump** | 川普20岁帅儿爆秘恋逾1年！神秘女友是大学同学 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BeHRTaVMzcnEwcGhmdHF2aEZBcUROQjdIZGhhN1lrWkRFTmJHaVR0T25iYzNkNHZTcm5DSllLOVJpdUY2NG1VLVVuYXU1WEtETWNjUnMzcXBFNklzWU51MnhLai1SVzlt?oc=5>
+- **Trump** | 解读：特朗普总统与科技领袖签署的“超级智能”安全协议包含哪些内容 <https://news.google.com/rss/articles/CBMi2wFBVV95cUxQd052aFp5ZFNMVTZaQkpXUl8xd2p4Yl9SQmtyeXg4eURUbHRYdWxRbzJKOTBxM052TGVhbHZjaHAxU0RiREhjZnlveW5TcXExbEJWVUllSnRtaEVyOGZ4NXczeHFNdmx5aGZDc2tVMExqd3RiTUFsNzkydmFlSWVVN0FQV1c3M09sNkMzUGpVd011WDNZc1JMbm10MUpOUXNaNjctVlRXNmdFams3aGN0RnEwU0c1dmVxb0tHdzF2ZkNnUEZqUzhUMllmY0lBeTF4LWd3emNZTHVkS2vSAd4BQVVfeXFMUG9fX0dTVUgtOXhodU1CdkxLRUFCS1NtalFwRDh5M1RfbUJsNERDajA3Z3RFNngzYnNsQ1VhQVpZWldqMklDRGVmU1hHa3ItaUZfYzcwaTlNUUwtSWluV0RGa3duQ3pCVFFtOXZ5d3dtWnBBWW9iNy1MTFdmM24xT1NvNUQtMzJuZXhocXVUMXNfbDYwT21DUlA1STE5Y2dONEVOVTVmeV9PRGJHWTVMSXlkMDI4NzROUWZ3RnFCYUNlUFlRRlhJMmFIekNjbEVEOVo0TEdLUU50QVZnUGZ3?oc=5>
+- **Trump** | Trump Touts Economic Wins in Battleground States - Like a $54 Billion Alaskan Pipeline - as the Midterms Draw Closer <https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcV9GQUtNZVRFb1NGcUpjRDgxcFZoWVEtZDg1MWZCNDhpaGRLaEwyZFV2a3lQSlg4Q3hSc0M3MUo5cElGeU1UbjhpMlZEdE5EdG5FeVdKdERySGdnVWM1a2ZCWUY5OWpNaW9ELWNxcjAzcUlscldpcks3eUxodWVUSW5OWmRjS1hhdVhBZVVnamR6a0NTVFJPTW52d1RDZGVaV25qMl9HVnA3SEk?oc=5>
+- **Trump** | 美国和中国--建立在相互尊重基础上的友谊 <https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcGtHb2xOQk5JbGgxNkNJQ21sQjNFN2JWLWtxRGk4Rnh3WmFBSHdpZERXTDBHTFN4bE9pd0tmTEhsczd5cUtXUlJnYjBjT0NyQXkxbjNEZTU5LWJ3RnJ1cGp4NlNIV2g5djMyOGYyaXNYbkFVZjI4VEpKZ2swaG96SDZrb0RtX2lUUURrVUFwRGkyQmJubkg5OVVUM0lxckdSWWE4aWtxZXRtTVJnNE1xOGt4d0ZfY2I2SG80VU43RlBWd9IBxAFBVV95cUxQR2lWeHJnRXRXeUdIdXd4OGtfYWJDTnlfSk5FTm1EaXFVbkFzZkQzdVNxaDN2TXdqSThTYlZDNFRDVnhFaVFCOTJCRVJVaFdJUFhrOGJfRVloUGF6NGd2Q0NVRXlWN055TGllSUJoQS10LVh1cVdVdTdnd2lsNHJhSlFGaUlqX0c2MUJWaDF2REJXOUtndGdiU09QQm0wVDZHUTVGMldqaVRkZl8xWW4yeGttRnRrLWcweUF4MHJWZ3NQS0dv?oc=5>
 
 ### 2026-09-30 19:32  (8 条)
 
