@@ -1,120 +1,76 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-30 07:05**
-- 本轮扫到 12957 条, 新增 **14** 条
+- 最近更新: **2026-09-30 14:01**
+- 本轮扫到 12964 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (14 条)
+## 本轮新发现 (7 条)
 
-### 肖战新歌中疑似王一博的和声是空耳还是实锤？
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801lyrw.html>
-
-### 华表奖 肖战王一博名字同框，新歌同步上线，难得见到这样的场面
+### 社会心理学视角深度解析肖战EP歌词 肖战遥远的不是爱音轨分析，完整解析肖战全新EP异想天开，肖战新歌歌词深度剖析，肖战新
 
 - 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924004_m1d5ae192403302bifa.html>
+- 链接: <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002saja.html>
 
-### 曹杨新歌《如诗一般的形容妳》由哪几位音乐人联手打造？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd8640680169h8.html>
-
-### 周杰伦南京演唱会笑称刘畊宏穿搭含蓄，点名要胸肌特写
+### 周杰伦青岛演唱会将至，青岛氛围感拉满，14年铁粉自掏腰包发物料
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6320390379_m178b980eb033038y7q.html>
+- 链接: <https://k.sina.com.cn/article_5328858693_m13d9fee4502002jcau.html>
 
-### 马斯克改口SI后特朗普欣慰拍肩膀
+### 十六年后雨中看杰伦演唱会，华为手机记录回忆
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-09-30 06:53
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1kTEYtdjE3V3VDZVktaUl5Y0RqTUFYQ2lTR1gySkNPaWd1WTYyNTRRSTd4UUJPOFZ3U3RqclFXQVhOS3pwYXdGR3RDY1BjNEFxOTgwRk0tVzMtTVhzOFhqSGhQMUhxZzJpb2lvd0U5bGYwdk0?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7811062841_m1d1935c39033029v0o.html?from=digit>
 
-### 美前高官憋出不住了：中方影响特朗普，“卓有成效”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-09-30 04:00
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFBIdFFiUUlrTnJ4emw0TUZxdTVHckpTZE10RHhYMmVrYlVycTNpY3FGWE1INHZwU25RMU5TWWwtRjFVdUVqMWJrRmFZMXNkTTRHaGN2SG1BY01mLU5IeF9VZzNwS2RRd0plVTVZSVgyMENUVlk?oc=5>
-
-### 美国总统特朗普的支持......_7x24快讯_新浪财经
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-09-30 00:30
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1KZEQ0ZHh5a1ZKc3JaY3lhU2gtWWM0VUphSUdmQnhEWFBmV2Rxa2lyek9SYS1nSnFFdl9CWXhvcXJBOXBwMlFGSWt1Zw?oc=5>
-
-### 特朗普将宣布540亿美元阿拉斯加液化天然气计划 应对中期选举压力
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-09-29 21:57
-- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaGYzSVhITW5zaEJFTGhOcGtwcE5LRFU5VmlSdGVfOVdEX216SzBmTDY5OXBxRFFDdDNLd1B1VHh1NElOZ3JsaE82dGNmMG0xSmwyeFBnNnI5eWdPMlhocl9DcTc3SXRGbGd0OW5YUXYzYXh6VVctM0Ewd1VxSFlyRUIyNUd6dnNrWkJ4c2lfaVZtR0pBclpMVXRKTC04NVpYQmxCT1MySnBJdWVWNWFEY1ZEb0labjlfNW52dk1LWVdOLWZDcmI5RWhHcS1Kdjhud0E?oc=5>
-
-### 报道：中期选举临近，特朗普与顾问就柴油出口禁令进行紧急磋商
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-09-30 05:49
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE14cnI4LWM1NEJweGxWVFFOa24zeDlfWXZkN2VVa0dUT0hJVExOOG1XMDdDQ2YyNW13NVdjYmVJMkZzdjRSaHJCZWZfdWJSVG15RmNr?oc=5>
-
-### 美伊间接谈判重启！特朗普称美伊已“交换信息”，伊方正等待美方回应
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-09-29 07:49
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE1pUlI1M21YYlBmRGwtTWVMZzNubFhMV2NLZTZDYS1CM3dBWmlSekhJWWQtSTByenFxSk03M3BGYkprczBqN0p1b3QxVFg5X1BBVG9J?oc=5>
-
-### 特朗普反驳“对朝鲜伊朗核双标”质疑
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-09-30 02:06
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9YZGlEbmlKbnViWVVLWmJvUUNPZWJ1LTMtd25zWmdVblZsd0JWVy1uR0NMT3pWZlZCSXpmX3V5Z2pNekRFeUdXVnc0ZXE?oc=5>
-
-### 马斯克这一改口，为何让特朗普都会谢
+### 特朗普当众羞辱CNN记者“假新闻制造者”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: thepaper.cn
-- 时间: 2026-09-30 03:41
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RQjI3cThZWVd6bGctTnM0TFh0RHVEcEkwaGs2cEtSbk94SGNrV2YzMlFvZmJlX3p4OGdjVldfNkQ4X24tTmdOQU8xNFBJMTJoWHlxTEtSVHJEWTVFcm81Rw?oc=5>
+- 时间: 2026-09-30 09:32
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ySE5NdVNZdGVWMnhaczQxOFlwcG9LQi1PZ3puaUZnRVFiZGYzR3lNSUFnREJ1a1h5NFBQeS00SGxsbk5ESl9GcFVId2lLdG55eVZGWjJ0SzNlcXp0Ql82TQ?oc=5>
 
-### 台学者：美对台军售或延至特朗普任末实施
+### 特朗普拟建美国最大钢厂：身后印度人和俄罗斯渊源颇深？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-09-29 12:14
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1oY1hMQnB0aVBoZWNyWGtuZ0tCUXlVOW15MkNkd05vSEI2Q1Bmc1ZOQVZwTXlqa2NXWFpEVkdWWXB4M3NSMGl0WGZkbDBpRlUzaDJkTFVBV3U1anF4WDRNZ3lQRDEyUQ?oc=5>
+- 场馆: guancha.cn
+- 时间: 2026-09-30 01:56
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE9mR3hJWlNGQWduN1Y5STExQXo1R3NJZnNvV2c0X1BONDNoY01qMnBUS0lFTW9TMnJwQ0k1LVdfekZXRjBsSi1HcmJtN3VwTGNNTmo1eU5fT1EtT1cxNWRwQ2NpNU9rSjlnRWxRTVppeVBYT0U?oc=5>
 
-### 特朗普排除美中合作开发人工智能的可能
+### 特朗普宣布150亿美元钢厂计划 将建美国历史上最大钢厂
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-09-30 04:46
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjQ3lQTGptVDdCWndOTmZVUENlWUM2VUhGdnJwZGRHZ1dxVk9maVNpNkVtYjVzRVRqeTRQY1FXUnRONXJtZXgtVFIxZjlKOEZIZTh5TnItZ0Z4aTJrY0hvZWh0ZU5TYjDSAWxBVV95cUxPNXI5MC1EZXNZdVh2UEZMc2s1d3FfV1BKcFNYSW1oTWtOZEpBQmFyT0ptUjlrWUpiMFFkcXdxak0wUVI1V0VQNzJuLXFlYjhncUFaRWxIN2FfcWpsc1hXQVo3SHZlbDctZlgzMWQ?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-09-28 21:06
+- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeW1NZXVaWjBBQUl3UGRwSEpjQ3pOaGEwb1Uyb0xGTkhlNEdvMHcwU2c5Q2lBTUhCQjgyM1JCMC02VmprbGVqdThJWWEwZ0dMcVZNT04tYlg0SXBWdFVMZnFBR1I2djJPc25qV0wzOXdoZm1pVk9tQjBPbjIyYm5mazA3UEdmdjZxNXl2ZUotajlVZ2NxMkM3MzEtR0xiLURtNmZ6dS03X0VGY292a3hEbkdMUTVSal9EQXAxR1J2UUFyUFhVb1U5OUg4aktLamZfMG5wWDBhSHBuYWswNmc?oc=5>
+
+### 决战中期选举，特朗普将启动32天全美巡回拉票！-市场参考
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: xnews.jin10.com
+- 时间: 2026-09-30 08:11
+- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kazdHWEl1eEE0UTNiV0tET0FwREVCalNCUldFeTNXOGxiUS1qMV83YTNpVEN6UDZUOGNmcjg1NlVVd2xpZXNjbjF1N2N0dnM?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-09-30 14:01  (7 条)
+
+- **王一博** | 社会心理学视角深度解析肖战EP歌词 肖战遥远的不是爱音轨分析，完整解析肖战全新EP异想天开，肖战新歌歌词深度剖析，肖战新 <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002saja.html>
+- **周杰伦** | 周杰伦青岛演唱会将至，青岛氛围感拉满，14年铁粉自掏腰包发物料 <https://k.sina.com.cn/article_5328858693_m13d9fee4502002jcau.html>
+- **周杰伦** | 十六年后雨中看杰伦演唱会，华为手机记录回忆 <https://k.sina.com.cn/article_7811062841_m1d1935c39033029v0o.html?from=digit>
+- **特朗普** | 特朗普当众羞辱CNN记者“假新闻制造者” <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ySE5NdVNZdGVWMnhaczQxOFlwcG9LQi1PZ3puaUZnRVFiZGYzR3lNSUFnREJ1a1h5NFBQeS00SGxsbk5ESl9GcFVId2lLdG55eVZGWjJ0SzNlcXp0Ql82TQ?oc=5>
+- **特朗普** | 特朗普拟建美国最大钢厂：身后印度人和俄罗斯渊源颇深？ <https://news.google.com/rss/articles/CBMic0FVX3lxTE9mR3hJWlNGQWduN1Y5STExQXo1R3NJZnNvV2c0X1BONDNoY01qMnBUS0lFTW9TMnJwQ0k1LVdfekZXRjBsSi1HcmJtN3VwTGNNTmo1eU5fT1EtT1cxNWRwQ2NpNU9rSjlnRWxRTVppeVBYT0U?oc=5>
+- **特朗普** | 特朗普宣布150亿美元钢厂计划 将建美国历史上最大钢厂 <https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeW1NZXVaWjBBQUl3UGRwSEpjQ3pOaGEwb1Uyb0xGTkhlNEdvMHcwU2c5Q2lBTUhCQjgyM1JCMC02VmprbGVqdThJWWEwZ0dMcVZNT04tYlg0SXBWdFVMZnFBR1I2djJPc25qV0wzOXdoZm1pVk9tQjBPbjIyYm5mazA3UEdmdjZxNXl2ZUotajlVZ2NxMkM3MzEtR0xiLURtNmZ6dS03X0VGY292a3hEbkdMUTVSal9EQXAxR1J2UUFyUFhVb1U5OUg4aktLamZfMG5wWDBhSHBuYWswNmc?oc=5>
+- **特朗普** | 决战中期选举，特朗普将启动32天全美巡回拉票！-市场参考 <https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kazdHWEl1eEE0UTNiV0tET0FwREVCalNCUldFeTNXOGxiUS1qMV83YTNpVEN6UDZUOGNmcjg1NlVVd2xpZXNjbjF1N2N0dnM?oc=5>
 
 ### 2026-09-30 07:05  (14 条)
 
