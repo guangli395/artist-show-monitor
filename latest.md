@@ -1,78 +1,121 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-01 02:16**
-- 本轮扫到 12990 条, 新增 **8** 条
+- 最近更新: **2026-10-01 09:12**
+- 本轮扫到 13002 条, 新增 **12** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (12 条)
 
-### 周杰伦明明就MV里的爱丁堡，清冷感真实到骨子里
+### 20260923《兰香如故》谭松韵、刘学义南京见面会官方剪辑cut
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7444420047_m1bbb8d5cf03301ffws.html>
+
+### 乘着地铁逛青岛！周杰伦演唱会观演出行攻略请收好
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7811094950_m1d193d9a603301acoq.html>
+- 链接: <https://finance.sina.com.cn/roll/2026-10-01/doc-inittksc1947932.shtml>
 
-### “水管工”乘客看《空中浩劫》学开飞机？特朗普都惊了
+### 连唱3天，周杰伦青岛演唱会来了！最新出行提示，请提前准备好→
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://finance.sina.com.cn/wm/2026-10-01/doc-initstum2157435.shtml>
+
+### 是否与习近平谈及黎智英等政治犯案 特朗普：确实谈了，望讨论富有成效
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: guancha.cn
-- 时间: 2026-10-01 01:08
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5ydnBaOE5aQnB4N0ZzQnFabWFyY0RoZlVzSG9yQ09mWDJyWDFBVWRPZkxTdDBWNjJCQ09oeVNRT0JpWnVPNGtEa1RyLWlmOU84ckxfUkxHQ2ZfV21MVVYwSTRYaVczdDZUODFkOWEwNVI5emM?oc=5>
+- 场馆: RFI
+- 时间: 2026-10-01 08:41
+- 链接: <https://news.google.com/rss/articles/CBMi4gNBVV95cUxQMk1NcUtDRzFDUTVtZ0xxU1d4VXBYSzI0X0E1eHZWZXAxZEtXRVJwaVl4em41amt0dUU4UGdQbk96UE5jd01yOXFRRWp3S1h1M2pQQ1hIVGRTd3AyRlo1cVpuSzFjWFRhSS1tdmtPTUlEWVhUVzJxRnlGOGRDdUd4bVJmLVB1Rk94Zk9NcHJsaGhwUEtGMVQ4UTFxa2lINkQ2dE8tZXlkUHNJbFU4Skt1ZmpyVDJaMVQ3Sk4tdm1uSEVTRWJPRVAtYzFRenpPWGpvZnBPd3BQX3pSbDVmcFBCVjZ3XzFxWnlTaUpVUUFxb2hPcFFnYk4wdS1Kc1FhR2FSekgyMGUwLVBINVBKZHFFYTJ6c2dyNGJQSkdjS1hlVVBfZ3U3YzQxRElmSkRoMXhoM2dmU0J5ZXdZWG9STFd2UVlydy1peFhLcncxckh4a1otZ0t0ak90YVVXZVNuV0d6RnljcHF3cU9sS3kyeUwyVEF1Y2hlV0p0LWhuaG5JM2dKYTQ5SWFYTEZWQnBhaE4yRW5YTEtTd1F4RnV2bncxSFFXczlWNE0tQkRhWDVvRVducXJhdmR6ckVXejc4S1EtT2YwbjNTSUZRRXdFRzRLdHpyaWluQXhmRmY4NVI0Rmhmdw?oc=5>
+
+### 特朗普感谢马斯克称其最初设想通过科技改造政府
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 手机新浪网
+- 时间: 2026-10-01 05:45
+- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxPT0tBOEp5Sy1hNUd3N1lONmUyeXFHQ0NOcDVBVTJUQXJOVG9mNF9kTHB4VFM1VGZRbXZlM1U0Q0d0c29CRXlIcnN2cml1blVZN01fUXJ5azIzekxRdWM2Q0J4V19IMzFkaU53bnRJa2VSVXpSd1ZoMDJBTWZjQk51cA?oc=5>
 
 ### 特朗普：最后一批美军正在撤离伊拉克
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-09-30 23:37
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBFRmRtU1NmdElOc003eVpuMDZJb2pBUXhjdU1PbGwtMGtVdkN6Vlo3M0FROFdudEtVSjk3WnNEQjJLSW9LR2hjclVISTdjajdhQ3BEQzY1QUtsRm1SUzk4MG1NT1ZiVmdtWncxUGdMYlhYVWd4UEZCaw?oc=5>
+- 场馆: 央视网
+- 时间: 2026-09-30 22:15
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBTXzdHUFh4eHZKYjZkSDNCWTIyNE5Ud0szYnk4NmpWUVZ2R3kxNmhRZF9OT3Vnc1E2ekp1a2x0VWMzcU5jNkVrUWlvc2xfMFhYNHlKTFpxVV9GcU5ZSHpiNU5NUkZHTTRWS2FONUx1cEVoV0ZoVWc3Uw?oc=5>
 
-### 特朗普称美国发动伊拉克战争的决策“非常糟糕”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-09-30 21:00
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBZRXVjWXB3M3Vqdk1zQm1IemxtWnBBRzZTMEhkc0xjRjE1S3lFU2tRVHIzVVVneHpRYmk3MTdZU1hCaDZWeG1lWVp0Z2pTWXY1TktKeGJZUFhtOTNkR0E2aFJqbWoyYTEzSFV2UnZROFRURlhHU3RuSTNxTTFjV28?oc=5>
-
-### 特朗普称鲍威尔应该辞任美联储理事
+### 特朗普：最后一批美军正在撤离伊拉克
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-09-30 23:18
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ldlljemxQaFoyaWR2b0VCd1lwaHRnOTgyRkZrQlBXNTNsN1lRTUxIMndHU0xndFF2UGN0dTBpb0pWaklJSlgwWmoyODhFZWlRaGRF?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-09-30 19:15
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE5pX2ZzZ2hJQmZWcEF6a043T1dWWFJyMzhXandXZ1E3bTdUVlQ4VlJ5dWUzRHhZSmpEWF9lNURYdnlycmhzeERzb1E3NUpydFY2M0xJa3VieGNFNXQ3NE5hbXVOQ0lPdHdrQ1JpMERYMmpqb2hh?oc=5>
 
-### 美前高官憋不住了：中方影响特朗普，“卓有成效”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-09-30 04:00
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5jT2RDbmRzSnlVLU8tU1VzUGdBWW10RllmVUZkT040ak9pTVBYYTNFOHlod1RQbzNlR3dnMlJHOThhWWhBOVJ4ekRnZEE?oc=5>
-
-### 特朗普最新全球关税遭遇贸易法院司法挑战
+### 美国总统特朗普将于美国中部时间下午6点（北京时间10月2日07:00）发表讲话。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-09-30 16:40
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUk0xRXk2bU0yb0VwZEdOS1lidUxERXZ4MWl0QUhTUHJ2YjQ5bXZ0WnJObVB4SDB3QkFFRUV3NTNyZUpkVW5Vb3V0VHNKZzhhc19rT09tdTlaTE0yS3FJMUZMeXJNc2NsMHJCRGJuYkx1SEhndldJNVdESVFSVGw5OEgxNFlUYXgyS0w5VS0wb1ZSZzNVRUNoVllMdkpNQXk5ZG1pcHdZbDZHclFYQnhDNTF5MmVhUTNIYTA1cWZySU1uZUF4T3VLbWd6cUlYS3hXbEl4WW5vaEZSdV9kek1V?oc=5>
+- 时间: 2026-10-01 00:27
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9rVFhDVXg1WmhwVXllbGYyeVZsUlRCV0pUWjZqcVJiLXpKN3NZMFNyTUR0QmFndDFuakdGZTJXOV9rSXl2Zi1Mcl9TTQ?oc=5>
 
-### 美伊谈判几无进展：双方都不让步，特朗普中期选举后或重启大规模战事
+### 特朗普政府聊天机器人与总统唱反调 现已拒答部分政治问题
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-09-29 23:47
-- 链接: <https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVDgyT2VwblpidWlYZjBLbExtdFdtdndfVjN6bjdmTWx4UHhEWERUNnVwdnM0VTFqbndWa1RuQnNac0pPT19QOHU3ZkdHeC1RM3lKMGkzOFRybFdLMVpzNlAzWmRZTzJ5VVl5S1pSR1V0bnBwa2ZFcmZGRmxtam9BRGVId3NGWkp1Y3FvMm1TMV94T1FZOERYRTBIeGVyWUYwVU0xaVRzbkpLRjhKSkR3R2RZaVpuNzBGVmdRRU5CenJob2YzOU9adHVjQTBWVXBkSXZDZUJoTHdEaElxQlpqaW5sRVY?oc=5>
+- 场馆: 联合早报
+- 时间: 2026-10-01 02:38
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBSbk1XdXNsb19UYzBubXpmZUNqN2V4eTNCbF9hSU5tU2V5Ql9jaHQ2b0FxRFNzQzB2YUZDSUdmUS1NaWFsZzNNdFczTnU0ZXdVa0oxaXdEQ2dXZ1JkSWdvX3BRWm4wbEFVT2c?oc=5>
+
+### 特朗普计划邀请普京出席G20峰会，波兰外长批评
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 搜狐网
+- 时间: 2026-10-01 08:32
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ1Q5ek9KQXAzc1NhY0l3b1lXbFBKdkZMYWtuZVlHN0J1YUhPeVYxR0M5UmVLVHM0UXllZTNUbVc1RTRFZzdwaHhmTHc3Rkx0ZVJZbHp1RlBvTHZCTWQyblktMzBkb3gzdEMyREJJMmVpdGpGbE94ZWZacmx3eDI4allEdFhXTXln?oc=5>
+
+### $瑞波币 (XRP.CC)$ 多亏了trump
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: moomoo.com
+- 时间: 2026-10-01 07:37
+- 链接: <https://news.google.com/rss/articles/CBMikgFBVV95cUxPYXphM3ZJMmFGUjR2UnY5cko4cVlRUkpoQ2xfZFo4S3VRLUNfaVdfcm1fZzk3QVdOLXY4cjBhWVJNVndlUEZzeDFZeTYyLXZfQlF5TWlCb1l6U3hsYVY3allIUU5fSWdLU0p4YXhyc2syZ3RVa0NfbGJlcG5xR0hiYkZaaEFhWFBUa1BBN0NuVjBndw?oc=5>
+
+### 超级智能必须自由开发和部署
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: VOA - Voice of America English News
+- 时间: 2026-09-30 16:07
+- 链接: <https://news.google.com/rss/articles/CBMitwFBVV95cUxNdzFXaWNMellUZ3d4TmZEdElSdmxXODBxSE1ZTkl3RS01M3pTYzdWTVkyekpWU1BxSHl2NEtLdVpiUjlRakJvYXRvV2tMYnpGbmFoUG56MUFEV0MwcFhCTW5BYTBVeVJOTjdNQkhVckVWVUgzbGYwNlZ0b181M0EwdGlsb3pPa2dPQTZvNUw5Wkd5M1VlTEFiakl3U1E4ZHg4WXJtWEtjQzhMOU15R25FSklyODJMTlXSAboBQVVfeXFMT1ZJRmFCYWV1WDUzT3dieVFqVk9UVjFjSXlSc1o1QXVmS0U0cHQ0OVlsMDM0RmFQcXRZUnJkTnp2VzU4RUN6cnMyLUh1dFNrcXd1WDZ5LUlZUGJJTHZzN09JTnZEeGVRVnlDUnpRX2hHVmRjQUZGdnhPMmtxTTlXdG5oQktnczdJNk5lWEhTWldiUFRldWs4dkZQSU51ZU5vSEFBN3F2eEVyLWp2RWh3SlhaZnd1VHFITzZB?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-01 09:12  (12 条)
+
+- **王一博** | 20260923《兰香如故》谭松韵、刘学义南京见面会官方剪辑cut <https://k.sina.com.cn/article_7444420047_m1bbb8d5cf03301ffws.html>
+- **周杰伦** | 乘着地铁逛青岛！周杰伦演唱会观演出行攻略请收好 <https://finance.sina.com.cn/roll/2026-10-01/doc-inittksc1947932.shtml>
+- **周杰伦** | 连唱3天，周杰伦青岛演唱会来了！最新出行提示，请提前准备好→ <https://finance.sina.com.cn/wm/2026-10-01/doc-initstum2157435.shtml>
+- **特朗普** | 是否与习近平谈及黎智英等政治犯案 特朗普：确实谈了，望讨论富有成效 <https://news.google.com/rss/articles/CBMi4gNBVV95cUxQMk1NcUtDRzFDUTVtZ0xxU1d4VXBYSzI0X0E1eHZWZXAxZEtXRVJwaVl4em41amt0dUU4UGdQbk96UE5jd01yOXFRRWp3S1h1M2pQQ1hIVGRTd3AyRlo1cVpuSzFjWFRhSS1tdmtPTUlEWVhUVzJxRnlGOGRDdUd4bVJmLVB1Rk94Zk9NcHJsaGhwUEtGMVQ4UTFxa2lINkQ2dE8tZXlkUHNJbFU4Skt1ZmpyVDJaMVQ3Sk4tdm1uSEVTRWJPRVAtYzFRenpPWGpvZnBPd3BQX3pSbDVmcFBCVjZ3XzFxWnlTaUpVUUFxb2hPcFFnYk4wdS1Kc1FhR2FSekgyMGUwLVBINVBKZHFFYTJ6c2dyNGJQSkdjS1hlVVBfZ3U3YzQxRElmSkRoMXhoM2dmU0J5ZXdZWG9STFd2UVlydy1peFhLcncxckh4a1otZ0t0ak90YVVXZVNuV0d6RnljcHF3cU9sS3kyeUwyVEF1Y2hlV0p0LWhuaG5JM2dKYTQ5SWFYTEZWQnBhaE4yRW5YTEtTd1F4RnV2bncxSFFXczlWNE0tQkRhWDVvRVducXJhdmR6ckVXejc4S1EtT2YwbjNTSUZRRXdFRzRLdHpyaWluQXhmRmY4NVI0Rmhmdw?oc=5>
+- **特朗普** | 特朗普感谢马斯克称其最初设想通过科技改造政府 <https://news.google.com/rss/articles/CBMigAFBVV95cUxPT0tBOEp5Sy1hNUd3N1lONmUyeXFHQ0NOcDVBVTJUQXJOVG9mNF9kTHB4VFM1VGZRbXZlM1U0Q0d0c29CRXlIcnN2cml1blVZN01fUXJ5azIzekxRdWM2Q0J4V19IMzFkaU53bnRJa2VSVXpSd1ZoMDJBTWZjQk51cA?oc=5>
+- **特朗普** | 特朗普：最后一批美军正在撤离伊拉克 <https://news.google.com/rss/articles/CBMieEFVX3lxTFBTXzdHUFh4eHZKYjZkSDNCWTIyNE5Ud0szYnk4NmpWUVZ2R3kxNmhRZF9OT3Vnc1E2ekp1a2x0VWMzcU5jNkVrUWlvc2xfMFhYNHlKTFpxVV9GcU5ZSHpiNU5NUkZHTTRWS2FONUx1cEVoV0ZoVWc3Uw?oc=5>
+- **特朗普** | 特朗普：最后一批美军正在撤离伊拉克 <https://news.google.com/rss/articles/CBMidEFVX3lxTE5pX2ZzZ2hJQmZWcEF6a043T1dWWFJyMzhXandXZ1E3bTdUVlQ4VlJ5dWUzRHhZSmpEWF9lNURYdnlycmhzeERzb1E3NUpydFY2M0xJa3VieGNFNXQ3NE5hbXVOQ0lPdHdrQ1JpMERYMmpqb2hh?oc=5>
+- **特朗普** | 美国总统特朗普将于美国中部时间下午6点（北京时间10月2日07:00）发表讲话。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9rVFhDVXg1WmhwVXllbGYyeVZsUlRCV0pUWjZqcVJiLXpKN3NZMFNyTUR0QmFndDFuakdGZTJXOV9rSXl2Zi1Mcl9TTQ?oc=5>
+- **特朗普** | 特朗普政府聊天机器人与总统唱反调 现已拒答部分政治问题 <https://news.google.com/rss/articles/CBMiakFVX3lxTFBSbk1XdXNsb19UYzBubXpmZUNqN2V4eTNCbF9hSU5tU2V5Ql9jaHQ2b0FxRFNzQzB2YUZDSUdmUS1NaWFsZzNNdFczTnU0ZXdVa0oxaXdEQ2dXZ1JkSWdvX3BRWm4wbEFVT2c?oc=5>
+- **特朗普** | 特朗普计划邀请普京出席G20峰会，波兰外长批评 <https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ1Q5ek9KQXAzc1NhY0l3b1lXbFBKdkZMYWtuZVlHN0J1YUhPeVYxR0M5UmVLVHM0UXllZTNUbVc1RTRFZzdwaHhmTHc3Rkx0ZVJZbHp1RlBvTHZCTWQyblktMzBkb3gzdEMyREJJMmVpdGpGbE94ZWZacmx3eDI4allEdFhXTXln?oc=5>
+- **Trump** | $瑞波币 (XRP.CC)$ 多亏了trump <https://news.google.com/rss/articles/CBMikgFBVV95cUxPYXphM3ZJMmFGUjR2UnY5cko4cVlRUkpoQ2xfZFo4S3VRLUNfaVdfcm1fZzk3QVdOLXY4cjBhWVJNVndlUEZzeDFZeTYyLXZfQlF5TWlCb1l6U3hsYVY3allIUU5fSWdLU0p4YXhyc2syZ3RVa0NfbGJlcG5xR0hiYkZaaEFhWFBUa1BBN0NuVjBndw?oc=5>
+- **Trump** | 超级智能必须自由开发和部署 <https://news.google.com/rss/articles/CBMitwFBVV95cUxNdzFXaWNMellUZ3d4TmZEdElSdmxXODBxSE1ZTkl3RS01M3pTYzdWTVkyekpWU1BxSHl2NEtLdVpiUjlRakJvYXRvV2tMYnpGbmFoUG56MUFEV0MwcFhCTW5BYTBVeVJOTjdNQkhVckVWVUgzbGYwNlZ0b181M0EwdGlsb3pPa2dPQTZvNUw5Wkd5M1VlTEFiakl3U1E4ZHg4WXJtWEtjQzhMOU15R25FSklyODJMTlXSAboBQVVfeXFMT1ZJRmFCYWV1WDUzT3dieVFqVk9UVjFjSXlSc1o1QXVmS0U0cHQ0OVlsMDM0RmFQcXRZUnJkTnp2VzU4RUN6cnMyLUh1dFNrcXd1WDZ5LUlZUGJJTHZzN09JTnZEeGVRVnlDUnpRX2hHVmRjQUZGdnhPMmtxTTlXdG5oQktnczdJNk5lWEhTWldiUFRldWs4dkZQSU51ZU5vSEFBN3F2eEVyLWp2RWh3SlhaZnd1VHFITzZB?oc=5>
 
 ### 2026-10-01 02:16  (8 条)
 
