@@ -1,41 +1,57 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-09-30 23:22**
-- 本轮扫到 12982 条, 新增 **10** 条
+- 最近更新: **2026-10-01 02:16**
+- 本轮扫到 12990 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (10 条)
+## 本轮新发现 (8 条)
 
-### 周杰伦青岛演唱会门票值得买吗？票价、抢票策略与避坑指南+FAQ
+### 周杰伦明明就MV里的爱丁堡，清冷感真实到骨子里
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879777061_1d5abdb2506801migi.html>
+- 链接: <https://k.sina.com.cn/article_7811094950_m1d193d9a603301acoq.html>
+
+### “水管工”乘客看《空中浩劫》学开飞机？特朗普都惊了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: guancha.cn
+- 时间: 2026-10-01 01:08
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5ydnBaOE5aQnB4N0ZzQnFabWFyY0RoZlVzSG9yQ09mWDJyWDFBVWRPZkxTdDBWNjJCQ09oeVNRT0JpWnVPNGtEa1RyLWlmOU84ckxfUkxHQ2ZfV21MVVYwSTRYaVczdDZUODFkOWEwNVI5emM?oc=5>
 
 ### 特朗普：最后一批美军正在撤离伊拉克
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: finance.sina.com.cn
-- 时间: 2026-09-30 21:33
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9lVEdrVmx1OWpkT2J4bDhOVG5LSHg3QmRBdUdvc215akFvR1NvZGNRcG80N2Z5VVZPaDZJZ2ZOc0d3aXdvbER4WkZKOWZXSDdOMXVQdmtFX3l5ajcwUFI5ODUxd090bVM0R1Vvc3hiSW51c0RHTHRSSg?oc=5>
+- 时间: 2026-09-30 23:37
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBFRmRtU1NmdElOc003eVpuMDZJb2pBUXhjdU1PbGwtMGtVdkN6Vlo3M0FROFdudEtVSjk3WnNEQjJLSW9LR2hjclVISTdjajdhQ3BEQzY1QUtsRm1SUzk4MG1NT1ZiVmdtWncxUGdMYlhYVWd4UEZCaw?oc=5>
 
-### 特朗普称从伊拉克撤军是美国的“胜利”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-09-30 20:45
-- 链接: <https://news.google.com/rss/articles/CBMioAJBVV95cUxOSlVkcGVQcFY0ZkdKaUZRa09Ic3lzeFJGYWV2U09ORFptVVpKUWo0b0h2WjlQVUpCOUpNMzlONXU1bnZFS3RfZkczdGxrT2tDNEpHUnVnQmhaenoxMW83RFBfOFFhSUI2SGc0VkxXZGk2OVNTaHNDM0c2bF9ESElnaUxOdXYxS3VjazNLczFncmp0cUpJaVFkc2RXN2E3SDR4eHpuVXB6dEdIZjVuY3g4WGwtOE5TNjFDYXBoRmU0ZE5qcHBfSnJPOEFndUw4QTlEQ1lnTTY4QkpPVGRSME1jMmlmYUZqc3RtUTBZdEQzenQ1MnJtLXE0Mkk1bVdZaGtCSHN5c202MXFjUldtYzY4MWl4RElPMWhNNFQ5Y3JpXzc?oc=5>
-
-### 特朗普总统：美军从伊拉克撤出是美国的“胜利”
+### 特朗普称美国发动伊拉克战争的决策“非常糟糕”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-09-30 20:41
-- 链接: <https://news.google.com/rss/articles/CBMiyAFBVV95cUxQV016OENodS1veGlLWUkzeGpsY1FTdllNZGZZRFZicF9Hb1FRQTR1NW9HWmFYeUhQS01lZEhMZ3N4V0xSSTE0WDVuTzJfU1psQ0NvQkxDeWJOR2Z0ZnVjRjMwUndfQWR4YTRkRXBsdnRabmdHSHNTaGdFQUZ6NWJmNVUydXp3V1pySkt3Tmo5QTZYc1ZVeXFJQmhRZUQySlpTXzdQUWIzdTRteGNMY25CVmFMUG1HZGZlRmdYcTItay1Sei03cUFUZdIBywFBVV95cUxPVW15ajlsbmFlbHVMZWZIZXctVlpFSVlBOEFpRmJkWENpTXZnNC1jV2U2bGp4Zkx5WU9sTTF5WmVCMjUxcFY5dk01V0lWQ1VZX2REbkE5eHp6bTdfRmw4YS1mVGxUUUhnQnBUWVI5RWhfdmtJYnlYSkN1bDBIb3k1NzBCRWVBRWg2d0x5Ti1zUkZtcllfUXhUbEFnUVVIdjFSU09NYlZaYUU0ZV9YTVFDcGlXZUljTUk0SXp6dmx3SV9YSlg5TzExbkMyQQ?oc=5>
+- 场馆: 新华网
+- 时间: 2026-09-30 21:00
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBZRXVjWXB3M3Vqdk1zQm1IemxtWnBBRzZTMEhkc0xjRjE1S3lFU2tRVHIzVVVneHpRYmk3MTdZU1hCaDZWeG1lWVp0Z2pTWXY1TktKeGJZUFhtOTNkR0E2aFJqbWoyYTEzSFV2UnZROFRURlhHU3RuSTNxTTFjV28?oc=5>
+
+### 特朗普称鲍威尔应该辞任美联储理事
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街见闻
+- 时间: 2026-09-30 23:18
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ldlljemxQaFoyaWR2b0VCd1lwaHRnOTgyRkZrQlBXNTNsN1lRTUxIMndHU0xndFF2UGN0dTBpb0pWaklJSlgwWmoyODhFZWlRaGRF?oc=5>
+
+### 美前高官憋不住了：中方影响特朗普，“卓有成效”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-09-30 04:00
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5jT2RDbmRzSnlVLU8tU1VzUGdBWW10RllmVUZkT040ak9pTVBYYTNFOHlod1RQbzNlR3dnMlJHOThhWWhBOVJ4ekRnZEE?oc=5>
 
 ### 特朗普最新全球关税遭遇贸易法院司法挑战
 
@@ -43,52 +59,31 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-09-30 16:40
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxORnYtR3NremN4VDhrTlNZcl9KYlRDbVZfTmVHTUJfUEVJbHctbUhtdWthODVuU3ZtakVXbjZsMllIMC1VaTJKNTRGWl8teFc2aXNoNUVEcnJZbGR1QWgwZUFHUVVzdWV5WmZUZFY5U09GdUN1ODdicGtpOXNoQUxPWDNqNTQxZy1YT1ZaakNuTktVT3QwcTZMSkMyMmZUSnlNXzNHSXV2SzVEbFV2NXF4YjNOUFF6VUV3bzlvRFlPTGdOWHlYa2JVOVFZRWN5SVVXVnFtNkNoQkF2NGQ2N0h3?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUk0xRXk2bU0yb0VwZEdOS1lidUxERXZ4MWl0QUhTUHJ2YjQ5bXZ0WnJObVB4SDB3QkFFRUV3NTNyZUpkVW5Vb3V0VHNKZzhhc19rT09tdTlaTE0yS3FJMUZMeXJNc2NsMHJCRGJuYkx1SEhndldJNVdESVFSVGw5OEgxNFlUYXgyS0w5VS0wb1ZSZzNVRUNoVllMdkpNQXk5ZG1pcHdZbDZHclFYQnhDNTF5MmVhUTNIYTA1cWZySU1uZUF4T3VLbWd6cUlYS3hXbEl4WW5vaEZSdV9kek1V?oc=5>
 
-### 美以伊局势：美官员称特朗普或在中期选举后恢复大规模作战行动，美伊均不愿让步；以色列定性迪拜航空客机安全事件为“未遂恐怖袭击”
+### 美伊谈判几无进展：双方都不让步，特朗普中期选举后或重启大规模战事
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-09-30 19:01
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTFBYbjlRNkZxOXlIZW5JazdSQ1lKWng2d0JiaC1MTFhuU1I5UDRlRi1DM1FCZmxvV3BJZndXVS1veEFqNnN4MUZXOER3bmV4bjY0LUNnT2lMQ3VwS3Bpbmc?oc=5>
-
-### 川普20岁帅儿爆秘恋逾1年！神秘女友是大学同学
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 文学城
-- 时间: 2026-09-30 06:58
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BeHRTaVMzcnEwcGhmdHF2aEZBcUROQjdIZGhhN1lrWkRFTmJHaVR0T25iYzNkNHZTcm5DSllLOVJpdUY2NG1VLVVuYXU1WEtETWNjUnMzcXBFNklzWU51MnhLai1SVzlt?oc=5>
-
-### 解读：特朗普总统与科技领袖签署的“超级智能”安全协议包含哪些内容
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-09-30 22:45
-- 链接: <https://news.google.com/rss/articles/CBMi2wFBVV95cUxQd052aFp5ZFNMVTZaQkpXUl8xd2p4Yl9SQmtyeXg4eURUbHRYdWxRbzJKOTBxM052TGVhbHZjaHAxU0RiREhjZnlveW5TcXExbEJWVUllSnRtaEVyOGZ4NXczeHFNdmx5aGZDc2tVMExqd3RiTUFsNzkydmFlSWVVN0FQV1c3M09sNkMzUGpVd011WDNZc1JMbm10MUpOUXNaNjctVlRXNmdFams3aGN0RnEwU0c1dmVxb0tHdzF2ZkNnUEZqUzhUMllmY0lBeTF4LWd3emNZTHVkS2vSAd4BQVVfeXFMUG9fX0dTVUgtOXhodU1CdkxLRUFCS1NtalFwRDh5M1RfbUJsNERDajA3Z3RFNngzYnNsQ1VhQVpZWldqMklDRGVmU1hHa3ItaUZfYzcwaTlNUUwtSWluV0RGa3duQ3pCVFFtOXZ5d3dtWnBBWW9iNy1MTFdmM24xT1NvNUQtMzJuZXhocXVUMXNfbDYwT21DUlA1STE5Y2dONEVOVTVmeV9PRGJHWTVMSXlkMDI4NzROUWZ3RnFCYUNlUFlRRlhJMmFIekNjbEVEOVo0TEdLUU50QVZnUGZ3?oc=5>
-
-### Trump Touts Economic Wins in Battleground States - Like a $54 Billion Alaskan Pipeline - as the Midterms Draw Closer
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-09-30 21:20
-- 链接: <https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcV9GQUtNZVRFb1NGcUpjRDgxcFZoWVEtZDg1MWZCNDhpaGRLaEwyZFV2a3lQSlg4Q3hSc0M3MUo5cElGeU1UbjhpMlZEdE5EdG5FeVdKdERySGdnVWM1a2ZCWUY5OWpNaW9ELWNxcjAzcUlscldpcks3eUxodWVUSW5OWmRjS1hhdVhBZVVnamR6a0NTVFJPTW52d1RDZGVaV25qMl9HVnA3SEk?oc=5>
-
-### 美国和中国--建立在相互尊重基础上的友谊
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: VOA - Voice of America English News
-- 时间: 2026-09-28 17:11
-- 链接: <https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcGtHb2xOQk5JbGgxNkNJQ21sQjNFN2JWLWtxRGk4Rnh3WmFBSHdpZERXTDBHTFN4bE9pd0tmTEhsczd5cUtXUlJnYjBjT0NyQXkxbjNEZTU5LWJ3RnJ1cGp4NlNIV2g5djMyOGYyaXNYbkFVZjI4VEpKZ2swaG96SDZrb0RtX2lUUURrVUFwRGkyQmJubkg5OVVUM0lxckdSWWE4aWtxZXRtTVJnNE1xOGt4d0ZfY2I2SG80VU43RlBWd9IBxAFBVV95cUxQR2lWeHJnRXRXeUdIdXd4OGtfYWJDTnlfSk5FTm1EaXFVbkFzZkQzdVNxaDN2TXdqSThTYlZDNFRDVnhFaVFCOTJCRVJVaFdJUFhrOGJfRVloUGF6NGd2Q0NVRXlWN055TGllSUJoQS10LVh1cVdVdTdnd2lsNHJhSlFGaUlqX0c2MUJWaDF2REJXOUtndGdiU09QQm0wVDZHUTVGMldqaVRkZl8xWW4yeGttRnRrLWcweUF4MHJWZ3NQS0dv?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-09-29 23:47
+- 链接: <https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVDgyT2VwblpidWlYZjBLbExtdFdtdndfVjN6bjdmTWx4UHhEWERUNnVwdnM0VTFqbndWa1RuQnNac0pPT19QOHU3ZkdHeC1RM3lKMGkzOFRybFdLMVpzNlAzWmRZTzJ5VVl5S1pSR1V0bnBwa2ZFcmZGRmxtam9BRGVId3NGWkp1Y3FvMm1TMV94T1FZOERYRTBIeGVyWUYwVU0xaVRzbkpLRjhKSkR3R2RZaVpuNzBGVmdRRU5CenJob2YzOU9adHVjQTBWVXBkSXZDZUJoTHdEaElxQlpqaW5sRVY?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-01 02:16  (8 条)
+
+- **周杰伦** | 周杰伦明明就MV里的爱丁堡，清冷感真实到骨子里 <https://k.sina.com.cn/article_7811094950_m1d193d9a603301acoq.html>
+- **特朗普** | “水管工”乘客看《空中浩劫》学开飞机？特朗普都惊了 <https://news.google.com/rss/articles/CBMic0FVX3lxTE5ydnBaOE5aQnB4N0ZzQnFabWFyY0RoZlVzSG9yQ09mWDJyWDFBVWRPZkxTdDBWNjJCQ09oeVNRT0JpWnVPNGtEa1RyLWlmOU84ckxfUkxHQ2ZfV21MVVYwSTRYaVczdDZUODFkOWEwNVI5emM?oc=5>
+- **特朗普** | 特朗普：最后一批美军正在撤离伊拉克 <https://news.google.com/rss/articles/CBMieEFVX3lxTFBFRmRtU1NmdElOc003eVpuMDZJb2pBUXhjdU1PbGwtMGtVdkN6Vlo3M0FROFdudEtVSjk3WnNEQjJLSW9LR2hjclVISTdjajdhQ3BEQzY1QUtsRm1SUzk4MG1NT1ZiVmdtWncxUGdMYlhYVWd4UEZCaw?oc=5>
+- **特朗普** | 特朗普称美国发动伊拉克战争的决策“非常糟糕” <https://news.google.com/rss/articles/CBMif0FVX3lxTFBZRXVjWXB3M3Vqdk1zQm1IemxtWnBBRzZTMEhkc0xjRjE1S3lFU2tRVHIzVVVneHpRYmk3MTdZU1hCaDZWeG1lWVp0Z2pTWXY1TktKeGJZUFhtOTNkR0E2aFJqbWoyYTEzSFV2UnZROFRURlhHU3RuSTNxTTFjV28?oc=5>
+- **特朗普** | 特朗普称鲍威尔应该辞任美联储理事 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ldlljemxQaFoyaWR2b0VCd1lwaHRnOTgyRkZrQlBXNTNsN1lRTUxIMndHU0xndFF2UGN0dTBpb0pWaklJSlgwWmoyODhFZWlRaGRF?oc=5>
+- **特朗普** | 美前高官憋不住了：中方影响特朗普，“卓有成效” <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5jT2RDbmRzSnlVLU8tU1VzUGdBWW10RllmVUZkT040ak9pTVBYYTNFOHlod1RQbzNlR3dnMlJHOThhWWhBOVJ4ekRnZEE?oc=5>
+- **特朗普** | 特朗普最新全球关税遭遇贸易法院司法挑战 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUk0xRXk2bU0yb0VwZEdOS1lidUxERXZ4MWl0QUhTUHJ2YjQ5bXZ0WnJObVB4SDB3QkFFRUV3NTNyZUpkVW5Vb3V0VHNKZzhhc19rT09tdTlaTE0yS3FJMUZMeXJNc2NsMHJCRGJuYkx1SEhndldJNVdESVFSVGw5OEgxNFlUYXgyS0w5VS0wb1ZSZzNVRUNoVllMdkpNQXk5ZG1pcHdZbDZHclFYQnhDNTF5MmVhUTNIYTA1cWZySU1uZUF4T3VLbWd6cUlYS3hXbEl4WW5vaEZSdV9kek1V?oc=5>
+- **特朗普** | 美伊谈判几无进展：双方都不让步，特朗普中期选举后或重启大规模战事 <https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVDgyT2VwblpidWlYZjBLbExtdFdtdndfVjN6bjdmTWx4UHhEWERUNnVwdnM0VTFqbndWa1RuQnNac0pPT19QOHU3ZkdHeC1RM3lKMGkzOFRybFdLMVpzNlAzWmRZTzJ5VVl5S1pSR1V0bnBwa2ZFcmZGRmxtam9BRGVId3NGWkp1Y3FvMm1TMV94T1FZOERYRTBIeGVyWUYwVU0xaVRzbkpLRjhKSkR3R2RZaVpuNzBGVmdRRU5CenJob2YzOU9adHVjQTBWVXBkSXZDZUJoTHdEaElxQlpqaW5sRVY?oc=5>
 
 ### 2026-09-30 23:22  (10 条)
 
