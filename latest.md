@@ -1,106 +1,114 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-01 09:12**
-- 本轮扫到 13002 条, 新增 **12** 条
+- 最近更新: **2026-10-01 16:36**
+- 本轮扫到 13013 条, 新增 **11** 条
 
 ---
 
-## 本轮新发现 (12 条)
+## 本轮新发现 (11 条)
 
-### 20260923《兰香如故》谭松韵、刘学义南京见面会官方剪辑cut
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7444420047_m1bbb8d5cf03301ffws.html>
-
-### 乘着地铁逛青岛！周杰伦演唱会观演出行攻略请收好
+### 乘着地铁逛青岛｜周杰伦演唱会连唱三天！观演出行攻略请收好
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://finance.sina.com.cn/roll/2026-10-01/doc-inittksc1947932.shtml>
+- 链接: <https://k.sina.com.cn/article_5328858693_13d9fee4502002jf4y.html>
 
-### 连唱3天，周杰伦青岛演唱会来了！最新出行提示，请提前准备好→
+### 周杰伦演唱会青岛站出行提示
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://finance.sina.com.cn/wm/2026-10-01/doc-initstum2157435.shtml>
+- 链接: <https://k.sina.com.cn/article_1647210043_m622e6e3b03301rqms.html>
 
-### 是否与习近平谈及黎智英等政治犯案 特朗普：确实谈了，望讨论富有成效
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-10-01 08:41
-- 链接: <https://news.google.com/rss/articles/CBMi4gNBVV95cUxQMk1NcUtDRzFDUTVtZ0xxU1d4VXBYSzI0X0E1eHZWZXAxZEtXRVJwaVl4em41amt0dUU4UGdQbk96UE5jd01yOXFRRWp3S1h1M2pQQ1hIVGRTd3AyRlo1cVpuSzFjWFRhSS1tdmtPTUlEWVhUVzJxRnlGOGRDdUd4bVJmLVB1Rk94Zk9NcHJsaGhwUEtGMVQ4UTFxa2lINkQ2dE8tZXlkUHNJbFU4Skt1ZmpyVDJaMVQ3Sk4tdm1uSEVTRWJPRVAtYzFRenpPWGpvZnBPd3BQX3pSbDVmcFBCVjZ3XzFxWnlTaUpVUUFxb2hPcFFnYk4wdS1Kc1FhR2FSekgyMGUwLVBINVBKZHFFYTJ6c2dyNGJQSkdjS1hlVVBfZ3U3YzQxRElmSkRoMXhoM2dmU0J5ZXdZWG9STFd2UVlydy1peFhLcncxckh4a1otZ0t0ak90YVVXZVNuV0d6RnljcHF3cU9sS3kyeUwyVEF1Y2hlV0p0LWhuaG5JM2dKYTQ5SWFYTEZWQnBhaE4yRW5YTEtTd1F4RnV2bncxSFFXczlWNE0tQkRhWDVvRVducXJhdmR6ckVXejc4S1EtT2YwbjNTSUZRRXdFRzRLdHpyaWluQXhmRmY4NVI0Rmhmdw?oc=5>
-
-### 特朗普感谢马斯克称其最初设想通过科技改造政府
+### 特朗普催账，韩国先掏2000亿美元
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-10-01 05:45
-- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxPT0tBOEp5Sy1hNUd3N1lONmUyeXFHQ0NOcDVBVTJUQXJOVG9mNF9kTHB4VFM1VGZRbXZlM1U0Q0d0c29CRXlIcnN2cml1blVZN01fUXJ5azIzekxRdWM2Q0J4V19IMzFkaU53bnRJa2VSVXpSd1ZoMDJBTWZjQk51cA?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-10-01 13:49
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9MRl9aZXJrRmNYQ1hyWEhzaVZpbmtTMm1QMFVzVkdzZDU4OVowUU11OUViTmRhQnVhSWpHcURqWDZ1bFBmUDltMmZobTA?oc=5>
 
-### 特朗普：最后一批美军正在撤离伊拉克
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 央视网
-- 时间: 2026-09-30 22:15
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBTXzdHUFh4eHZKYjZkSDNCWTIyNE5Ud0szYnk4NmpWUVZ2R3kxNmhRZF9OT3Vnc1E2ekp1a2x0VWMzcU5jNkVrUWlvc2xfMFhYNHlKTFpxVV9GcU5ZSHpiNU5NUkZHTTRWS2FONUx1cEVoV0ZoVWc3Uw?oc=5>
-
-### 特朗普：最后一批美军正在撤离伊拉克
+### 特朗普宣布韩国将投资阿拉斯加项目，韩方提出强烈异议
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-09-30 19:15
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE5pX2ZzZ2hJQmZWcEF6a043T1dWWFJyMzhXandXZ1E3bTdUVlQ4VlJ5dWUzRHhZSmpEWF9lNURYdnlycmhzeERzb1E3NUpydFY2M0xJa3VieGNFNXQ3NE5hbXVOQ0lPdHdrQ1JpMERYMmpqb2hh?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-10-01 14:34
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBGYmFWVnhQZk1EMVptVlUxckRLNWxwcjQwa28tbGQ2RHd6dzRaVFNIYjRnY1hzVUVUS2FqMUUxU3NxSFJQZzhDakpNZG0?oc=5>
 
-### 美国总统特朗普将于美国中部时间下午6点（北京时间10月2日07:00）发表讲话。
+### “2000亿美元各说各话，特朗普急，李在明也急”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-10-01 00:27
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9rVFhDVXg1WmhwVXllbGYyeVZsUlRCV0pUWjZqcVJiLXpKN3NZMFNyTUR0QmFndDFuakdGZTJXOV9rSXl2Zi1Mcl9TTQ?oc=5>
+- 场馆: guancha.cn
+- 时间: 2026-10-01 12:59
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFA1N3I1MnByNlVaU2xianI2N3EwSGtHM1FhaEZFaGYwcnk0YXBmSkNlNzl4ckF2dklIcGVsdXFnUENDanJVSG9hdW5YMW1kd2pWd04zMnYtcnRhLTlIZGg4UkJxU3VOOHAzOVJlaFNOekpGaGc?oc=5>
 
-### 特朗普政府聊天机器人与总统唱反调 现已拒答部分政治问题
+### 白宫拼错美国国名，特朗普还签名了……
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪军事
+- 时间: 2026-10-01 10:54
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFBIUHFFWk9RSUVGbkVLbHFQaHB0NXRaNE1xVVBCRkRiS1FUbkR0Tjg1MWpuMUhFMzl2YkM0eFdSeExIdGZHeWZfR0xWd3lNc0pYNkowZGxHQnhrSDlHSWRJQlNfN1ZmN3I5VE8wQzlXVGdnSm8?oc=5>
+
+### 特朗普今年还是没戏，但他仍会施压…
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: guancha.cn
+- 时间: 2026-10-01 07:43
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1EYkVtZ2d3N1NBamF6LUd4Mm9rUmRhcGV3dzNJeEVEV0NyYUFvMHduaTMxajBuRmotY2o1N3ZUYm40Zm1IaE5Tbm1icTlybUZ1d0FaSDRIQnRJNTlWaGZiakhXOGNmd1ZvU0xqSzR2QVNfTnc?oc=5>
+
+### 是否与习近平谈及黎智英等政治犯案,特朗普:谈了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 文学城
+- 时间: 2026-10-01 09:15
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JdkFtVE5neVpjSmpidmpNUjZCeDA2cXQwcTRhOURrenJDYWxxTU9xZS1JcEt5ZTdfd01CN3loX0V1TXpiUWpqR3VDQmgzd3lYYTVjNklmeEdhNlVJOUtNM3FUTE0tc20x?oc=5>
+
+### 特朗普称与习近平峰会期间讨论了黎智英案
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 联合早报
-- 时间: 2026-10-01 02:38
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBSbk1XdXNsb19UYzBubXpmZUNqN2V4eTNCbF9hSU5tU2V5Ql9jaHQ2b0FxRFNzQzB2YUZDSUdmUS1NaWFsZzNNdFczTnU0ZXdVa0oxaXdEQ2dXZ1JkSWdvX3BRWm4wbEFVT2c?oc=5>
+- 时间: 2026-09-30 23:15
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1VT2xxVENiaDQwYmFOQnJseWtmTkt6dk0taWxNZW1aSkpSdjdvVUlyU3pJTGkzZWxrUXRVWGlPQTBYamNTWGF1OWxxQmUza2Y4SWpzVzZJTDRCelVPenZxaFJ4WE9MUQ?oc=5>
 
-### 特朗普计划邀请普京出席G20峰会，波兰外长批评
+### 安吉莉娜·朱莉她爹说服特朗普给好莱坞减负
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-10-01 08:32
-- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ1Q5ek9KQXAzc1NhY0l3b1lXbFBKdkZMYWtuZVlHN0J1YUhPeVYxR0M5UmVLVHM0UXllZTNUbVc1RTRFZzdwaHhmTHc3Rkx0ZVJZbHp1RlBvTHZCTWQyblktMzBkb3gzdEMyREJJMmVpdGpGbE94ZWZacmx3eDI4allEdFhXTXln?oc=5>
+- 场馆: thepaper.cn
+- 时间: 2026-10-01 09:37
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE1tRXQ1MkJRZWxncTN1MmJoS0hRMm1OWUttaEFxS2tfY2JwdFRjLXBnTEpGd0FKZUJtbnJGMUFMUTN0eUJUX29zQ3BHVUlqWTNiV2NqUHB1WnFPU2ZMa29fYUtUbHVldXc3MzgtUTdFR0dQZw?oc=5>
 
-### $瑞波币 (XRP.CC)$ 多亏了trump
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: moomoo.com
-- 时间: 2026-10-01 07:37
-- 链接: <https://news.google.com/rss/articles/CBMikgFBVV95cUxPYXphM3ZJMmFGUjR2UnY5cko4cVlRUkpoQ2xfZFo4S3VRLUNfaVdfcm1fZzk3QVdOLXY4cjBhWVJNVndlUEZzeDFZeTYyLXZfQlF5TWlCb1l6U3hsYVY3allIUU5fSWdLU0p4YXhyc2syZ3RVa0NfbGJlcG5xR0hiYkZaaEFhWFBUa1BBN0NuVjBndw?oc=5>
-
-### 超级智能必须自由开发和部署
+### 伊朗表示不会让步，特朗普则拒绝了霍尔木兹海峡的提议。
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: VOA - Voice of America English News
-- 时间: 2026-09-30 16:07
-- 链接: <https://news.google.com/rss/articles/CBMitwFBVV95cUxNdzFXaWNMellUZ3d4TmZEdElSdmxXODBxSE1ZTkl3RS01M3pTYzdWTVkyekpWU1BxSHl2NEtLdVpiUjlRakJvYXRvV2tMYnpGbmFoUG56MUFEV0MwcFhCTW5BYTBVeVJOTjdNQkhVckVWVUgzbGYwNlZ0b181M0EwdGlsb3pPa2dPQTZvNUw5Wkd5M1VlTEFiakl3U1E4ZHg4WXJtWEtjQzhMOU15R25FSklyODJMTlXSAboBQVVfeXFMT1ZJRmFCYWV1WDUzT3dieVFqVk9UVjFjSXlSc1o1QXVmS0U0cHQ0OVlsMDM0RmFQcXRZUnJkTnp2VzU4RUN6cnMyLUh1dFNrcXd1WDZ5LUlZUGJJTHZzN09JTnZEeGVRVnlDUnpRX2hHVmRjQUZGdnhPMmtxTTlXdG5oQktnczdJNk5lWEhTWldiUFRldWs4dkZQSU51ZU5vSEFBN3F2eEVyLWp2RWh3SlhaZnd1VHFITzZB?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-10-01 15:58
+- 链接: <https://news.google.com/rss/articles/CBMipwFBVV95cUxPTTJSVHNsVEY5b25BRzBYd3NyMjV6SEYyNlpvMmZmTkMtc0ZRY1dGYWkzekNoNTRVc2tMVVpSX1gtNlk0WGNweVlVSUdlcm1jSkhOVUdzb1NnWEE3aThhX0FxVEpCMDRMRHBpS1NYeU8wMjJMLTB5SzVJM1dVc0xuRjRJUHgxZ0ZPV001anNJNkhFT1hzOEd4clFqYnhPZUhGeVpnWThHMA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-01 16:36  (11 条)
+
+- **周杰伦** | 乘着地铁逛青岛｜周杰伦演唱会连唱三天！观演出行攻略请收好 <https://k.sina.com.cn/article_5328858693_13d9fee4502002jf4y.html>
+- **周杰伦** | 周杰伦演唱会青岛站出行提示 <https://k.sina.com.cn/article_1647210043_m622e6e3b03301rqms.html>
+- **特朗普** | 特朗普催账，韩国先掏2000亿美元 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9MRl9aZXJrRmNYQ1hyWEhzaVZpbmtTMm1QMFVzVkdzZDU4OVowUU11OUViTmRhQnVhSWpHcURqWDZ1bFBmUDltMmZobTA?oc=5>
+- **特朗普** | 特朗普宣布韩国将投资阿拉斯加项目，韩方提出强烈异议 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBGYmFWVnhQZk1EMVptVlUxckRLNWxwcjQwa28tbGQ2RHd6dzRaVFNIYjRnY1hzVUVUS2FqMUUxU3NxSFJQZzhDakpNZG0?oc=5>
+- **特朗普** | “2000亿美元各说各话，特朗普急，李在明也急” <https://news.google.com/rss/articles/CBMic0FVX3lxTFA1N3I1MnByNlVaU2xianI2N3EwSGtHM1FhaEZFaGYwcnk0YXBmSkNlNzl4ckF2dklIcGVsdXFnUENDanJVSG9hdW5YMW1kd2pWd04zMnYtcnRhLTlIZGg4UkJxU3VOOHAzOVJlaFNOekpGaGc?oc=5>
+- **特朗普** | 白宫拼错美国国名，特朗普还签名了…… <https://news.google.com/rss/articles/CBMic0FVX3lxTFBIUHFFWk9RSUVGbkVLbHFQaHB0NXRaNE1xVVBCRkRiS1FUbkR0Tjg1MWpuMUhFMzl2YkM0eFdSeExIdGZHeWZfR0xWd3lNc0pYNkowZGxHQnhrSDlHSWRJQlNfN1ZmN3I5VE8wQzlXVGdnSm8?oc=5>
+- **特朗普** | 特朗普今年还是没戏，但他仍会施压… <https://news.google.com/rss/articles/CBMic0FVX3lxTE1EYkVtZ2d3N1NBamF6LUd4Mm9rUmRhcGV3dzNJeEVEV0NyYUFvMHduaTMxajBuRmotY2o1N3ZUYm40Zm1IaE5Tbm1icTlybUZ1d0FaSDRIQnRJNTlWaGZiakhXOGNmd1ZvU0xqSzR2QVNfTnc?oc=5>
+- **特朗普** | 是否与习近平谈及黎智英等政治犯案,特朗普:谈了 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JdkFtVE5neVpjSmpidmpNUjZCeDA2cXQwcTRhOURrenJDYWxxTU9xZS1JcEt5ZTdfd01CN3loX0V1TXpiUWpqR3VDQmgzd3lYYTVjNklmeEdhNlVJOUtNM3FUTE0tc20x?oc=5>
+- **特朗普** | 特朗普称与习近平峰会期间讨论了黎智英案 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1VT2xxVENiaDQwYmFOQnJseWtmTkt6dk0taWxNZW1aSkpSdjdvVUlyU3pJTGkzZWxrUXRVWGlPQTBYamNTWGF1OWxxQmUza2Y4SWpzVzZJTDRCelVPenZxaFJ4WE9MUQ?oc=5>
+- **特朗普** | 安吉莉娜·朱莉她爹说服特朗普给好莱坞减负 <https://news.google.com/rss/articles/CBMickFVX3lxTE1tRXQ1MkJRZWxncTN1MmJoS0hRMm1OWUttaEFxS2tfY2JwdFRjLXBnTEpGd0FKZUJtbnJGMUFMUTN0eUJUX29zQ3BHVUlqWTNiV2NqUHB1WnFPU2ZMa29fYUtUbHVldXc3MzgtUTdFR0dQZw?oc=5>
+- **Trump** | 伊朗表示不会让步，特朗普则拒绝了霍尔木兹海峡的提议。 <https://news.google.com/rss/articles/CBMipwFBVV95cUxPTTJSVHNsVEY5b25BRzBYd3NyMjV6SEYyNlpvMmZmTkMtc0ZRY1dGYWkzekNoNTRVc2tMVVpSX1gtNlk0WGNweVlVSUdlcm1jSkhOVUdzb1NnWEE3aThhX0FxVEpCMDRMRHBpS1NYeU8wMjJMLTB5SzVJM1dVc0xuRjRJUHgxZ0ZPV001anNJNkhFT1hzOEd4clFqYnhPZUhGeVpnWThHMA?oc=5>
 
 ### 2026-10-01 09:12  (12 条)
 
