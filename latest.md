@@ -1,100 +1,125 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-01 16:36**
-- 本轮扫到 13013 条, 新增 **11** 条
+- 最近更新: **2026-10-01 21:31**
+- 本轮扫到 13025 条, 新增 **12** 条
 
 ---
 
-## 本轮新发现 (11 条)
+## 本轮新发现 (12 条)
 
-### 乘着地铁逛青岛｜周杰伦演唱会连唱三天！观演出行攻略请收好
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5328858693_13d9fee4502002jf4y.html>
-
-### 周杰伦演唱会青岛站出行提示
+### 2026年有哪些演唱会值得期待？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1647210043_m622e6e3b03301rqms.html>
+- 链接: <https://k.sina.com.cn/article_7879777066_1d5abdb2a06801zow8.html>
 
-### 特朗普催账，韩国先掏2000亿美元
+### 特朗普称美国发动伊拉克战争的决策“非常糟糕”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-10-01 21:26
+- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxQcTU2dlRRU1ZVblJ6OC1wSklKUldFQzFuNkJoQld0VmlBNkhVWFlvd1hjMmtEWGVRUW9vVVBhQ1E4LWdQQ3dWaElKWW4wazFuNUtlYTJwazVBS2lnZlJXSm5SRnExVFRNVmZHTWtDYkxsd3dva1RGUVBPNkF5NUY3WXVwR2paUEVTZjNIZFhmWC0yS0VBMHI4LXdCakhsVy1a?oc=5>
+
+### 马斯克将重返特朗普政府圈
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-10-01 19:56
+- 链接: <https://news.google.com/rss/articles/CBMi7wFBVV95cUxPUnZ1Q2loNE1QemtMYWVnX3JfVjBUeXJ0YkZJdWxjTlg5Z3pfS09HYjAwRG14NjR6Qlg5dk55SkNqQzZhMnZtLThQMElMcFdtOE5KYzVXbm5ESzdSMlppbkoxVHE1eTVaNzU1a3NIcWVOR1A5Q0VVRWZRWTg3emd4RUZiSFFpMGg0Sjh3dU1JbmxlUVZNa3VHTWJUbnhVZzlpMGJUZnp3VnRiR3puQnBVcTlNU1pqQXd5ZXIzemJLTmd3VlVFYzctdTZvRWI0OHpidEphY2NWSFhubjFCY2o5WGk3RUtFbXpEX1dJazlrVQ?oc=5>
+
+### 特朗普：如果鲍威尔不辞职，美国政府就应该以“腐败或无能”为由起诉他
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-10-01 13:49
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9MRl9aZXJrRmNYQ1hyWEhzaVZpbmtTMm1QMFVzVkdzZDU4OVowUU11OUViTmRhQnVhSWpHcURqWDZ1bFBmUDltMmZobTA?oc=5>
+- 时间: 2026-10-01 10:36
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1iTG50dlprM0NkR1pFbnFJWS1oOWNTcHA0eDZSaUxjM3RCWFNQWXN6ZzhJZ01fS1RyMmVwb2tNb3NCR2JyY3pRNXFBVEI?oc=5>
 
-### 特朗普宣布韩国将投资阿拉斯加项目，韩方提出强烈异议
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-01 14:34
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBGYmFWVnhQZk1EMVptVlUxckRLNWxwcjQwa28tbGQ2RHd6dzRaVFNIYjRnY1hzVUVUS2FqMUUxU3NxSFJQZzhDakpNZG0?oc=5>
-
-### “2000亿美元各说各话，特朗普急，李在明也急”
+### 特朗普总统证实与习近平谈到遭“非法拘押”的美国公民，家属：“我们全家重燃希望”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: guancha.cn
-- 时间: 2026-10-01 12:59
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFA1N3I1MnByNlVaU2xianI2N3EwSGtHM1FhaEZFaGYwcnk0YXBmSkNlNzl4ckF2dklIcGVsdXFnUENDanJVSG9hdW5YMW1kd2pWd04zMnYtcnRhLTlIZGg4UkJxU3VOOHAzOVJlaFNOekpGaGc?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-10-01 17:32
+- 链接: <https://news.google.com/rss/articles/CBMitAFBVV95cUxOYUhHNE5MUWVMOERHaDRaeUl3S0F0dWc4bWlKanpNclZVNTQ1WDB0cVBQcXlTODVNZFJCb2pFMWlULWpLbEtZX1k0OGJ5bzZTOTR0TWlwUlJNeE5XNndILXI2S2N3eWxPTHVXLVJ5N1p1a3Q3LTFoNGNYSjczRmVYTlYtckFPMkI0TW4ybl9tcC0wM0NQU2VKeURma0J2WEZWNUY5MzY2Ulg5LUlkZXFWb2FGNGnSAbcBQVVfeXFMUEh0TkVPRnJkWkttZXJyYlIzSU54SkROZDNUVWU1S0dLRnJEUHhCRVpkaWF1MHlfR0NBZWM4Q3o3MUg0RWhfeUtZQmFPQkZTdnB2Uk93amdHWXc4eHJzMUVkR2g4ejVubm1JR2FWTVhxYjNzOGVIMHBzTjlVSlBXSldJSVpxNkItcWtfaldkSmtkYWthanF6SXM4U0tDbDZPLWhzMHh4Wk9XWnRlVzJNTXhoN1JKaWJJ?oc=5>
 
-### 白宫拼错美国国名，特朗普还签名了……
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪军事
-- 时间: 2026-10-01 10:54
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFBIUHFFWk9RSUVGbkVLbHFQaHB0NXRaNE1xVVBCRkRiS1FUbkR0Tjg1MWpuMUhFMzl2YkM0eFdSeExIdGZHeWZfR0xWd3lNc0pYNkowZGxHQnhrSDlHSWRJQlNfN1ZmN3I5VE8wQzlXVGdnSm8?oc=5>
-
-### 特朗普今年还是没戏，但他仍会施压…
+### 特习峰会提及中国在囚人士，黎智英能否获释备受关注
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: guancha.cn
-- 时间: 2026-10-01 07:43
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1EYkVtZ2d3N1NBamF6LUd4Mm9rUmRhcGV3dzNJeEVEV0NyYUFvMHduaTMxajBuRmotY2o1N3ZUYm40Zm1IaE5Tbm1icTlybUZ1d0FaSDRIQnRJNTlWaGZiakhXOGNmd1ZvU0xqSzR2QVNfTnc?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-10-01 19:50
+- 链接: <https://news.google.com/rss/articles/CBMiowFBVV95cUxPQ1hiSW5Fbmt0TW1BYXo3czFDZE9pekVqc3htQ1dmTzNuM2U1Q0Z5OFdmSUFHeUxZTmdYV0VHRzlDMnYydnkzV1RHYmx1WDVOQ1RWbXNQOW9RN3FxUEt4VEpVaFJjT0JYdVNiSThUcjY2elRiNWhhNVJlenNFMjNxUjBPNDRFQzNJTW4yamwwcjZzWHphSld0UXFvbTdoVF9FeWEw0gGmAUFVX3lxTE1HMnk0OXkwLU5QRmkwUURKb2dsQU9PMXM3SnRsUExCbmpiYXVWZHBMTkE3b1F6QU5XU01USjVmQUh2LWlKWFZPY2p6MndNQnhoT25tbVJSajk1Mms5dFJqZlNBMTFXODJCOGNlbE5qekNNS2lsQThCdmEyMUtPR1BZdHFtNzA4NWlXUWphMElKczlFeDNTU1pIS0xrM1VxUDBzZXhyclE?oc=5>
 
-### 是否与习近平谈及黎智英等政治犯案,特朗普:谈了
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 文学城
-- 时间: 2026-10-01 09:15
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JdkFtVE5neVpjSmpidmpNUjZCeDA2cXQwcTRhOURrenJDYWxxTU9xZS1JcEt5ZTdfd01CN3loX0V1TXpiUWpqR3VDQmgzd3lYYTVjNklmeEdhNlVJOUtNM3FUTE0tc20x?oc=5>
-
-### 特朗普称与习近平峰会期间讨论了黎智英案
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-09-30 23:15
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1VT2xxVENiaDQwYmFOQnJseWtmTkt6dk0taWxNZW1aSkpSdjdvVUlyU3pJTGkzZWxrUXRVWGlPQTBYamNTWGF1OWxxQmUza2Y4SWpzVzZJTDRCelVPenZxaFJ4WE9MUQ?oc=5>
-
-### 安吉莉娜·朱莉她爹说服特朗普给好莱坞减负
+### 诺贝尔和平奖揭晓倒计时一周，特朗普再获提名
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: thepaper.cn
-- 时间: 2026-10-01 09:37
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE1tRXQ1MkJRZWxncTN1MmJoS0hRMm1OWUttaEFxS2tfY2JwdFRjLXBnTEpGd0FKZUJtbnJGMUFMUTN0eUJUX29zQ3BHVUlqWTNiV2NqUHB1WnFPU2ZMa29fYUtUbHVldXc3MzgtUTdFR0dQZw?oc=5>
+- 时间: 2026-10-01 09:48
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBzTzd6OFNWbi01X1Q0WFB5S0N1aTBhc3o0ejVpckV0ZFFOV2NhNWo0aV9fR1Zjclo1b2RORzhZODQ1MkVPaC1RV0JXZXljWU1TM1lwRW5uX0x0X3prSmZpUA?oc=5>
 
-### 伊朗表示不会让步，特朗普则拒绝了霍尔木兹海峡的提议。
+### 美媒爆：特朗普政府正将美国几个主要盟友排除在北约会议之外
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 环球网
+- 时间: 2026-09-30 22:08
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTFBxcFItUW1fWjNDemFnbWh5UWhvUk84NXBpRDRIX1NNLUFGSUZHdEQybUVHMWZqTnc1RHBpUWV1amdyd0lCNmhVd2pSSVd1YUlaV0JmMEw1dFE?oc=5>
+
+### 特朗普总统警告：伊朗正面临关键时刻，必须在和平与军事升级之间做出选择
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-10-01 19:21
+- 链接: <https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdzRZeENfTXdaRGsybWZXRVpodTZqT0RsdGhCNWdJTWJBTUJ6a0FTbDJxUENkWXVBN3Iybkc1TWJmUUdyRE9zOE1URFUtQzR4M0NOX2hKcFFHaEx6bTlDUkxNSWZvdUZfcDFBY1NVM1A3RkotNWdMRW5lbGs4U0p3REZQeFUtc3A2WUUzTWc0Q2JXR0FULWNiN3p3MGJLZUpqRjBZTVdoSEJ4eDV1SjFVM3FZUkdGWjcxcnhIbkxpR01fbFRPQWhRMXFrWVI4azNGeDBGcEF1QTdpNkFTQXQ0VjZrVl_SAecBQVVfeXFMT3NpN2Fva1U5MXVvUUVtWU8wX3JZemZLZVdsdUdUSXA1RWRvVUtMTkVNN3V1Q1lDZDVrcDYtZ01mbklMSWF4WG5Cd0lyUUtURGwwbHZRSmdiQm0tOXdRb2pzT041U25SQWVvVmN0UzBzenZKU3k5TE1Od1ZibHpVVWREVm5WX3puZ0dCc3k2Smdibi1xZVRVdWRHU2FmVmFUajU1eUZEMGtiYWRVMVhwbG9KSzRsQ195cHVjSE0wMElIeC1kQ2ZlWnF1aFlsTEdVRUhIZEZFVEdxNFdYMkhtbXc3dllBcDR3?oc=5>
+
+### 特朗普总统：有可能在中期选举后轰炸伊朗
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-10-01 15:58
-- 链接: <https://news.google.com/rss/articles/CBMipwFBVV95cUxPTTJSVHNsVEY5b25BRzBYd3NyMjV6SEYyNlpvMmZmTkMtc0ZRY1dGYWkzekNoNTRVc2tMVVpSX1gtNlk0WGNweVlVSUdlcm1jSkhOVUdzb1NnWEE3aThhX0FxVEpCMDRMRHBpS1NYeU8wMjJMLTB5SzVJM1dVc0xuRjRJUHgxZ0ZPV001anNJNkhFT1hzOEd4clFqYnhPZUhGeVpnWThHMA?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-10-01 18:49
+- 链接: <https://news.google.com/rss/articles/CBMivwFBVV95cUxPUlhoSmF6aGc3YXdhQ29lOUJleHBGaGZ2bWRJc0Ftdm1OaDh0UzF5cEhTQUZXS2J0bXBJTVhUTFFaMWE4czN4V21NSFNQeGw1UDBMQUhUdnY4aldEblVFbGlHOExEckpHamRVMW5Ld3Z0UFg4c2RZWkpIbHhzN05XRkdVWUlyRnhBR21EUy13QWQwbmxTalYyanB1N3BLRjMwMlI1WDhiRmhmME5aLUVvZ1pZbTNua1g1OVowZlZjONIBwgFBVV95cUxQSGttV25BMkZVZURUWFFiaVlmZVNEMkltTktrNFVDM3ZkTFczUHFVYTZXbnphQ0lFcEQ1QkdEaVl4YmlYSnZVMnlJZ3pyX1I1Wk43bmZZWlRfbDczNmRxemRKTG1GanF2SF9RVUg5RVVJYXZObDN6Z05LOTdabmdQeE5ScGE2Z0pSckpvWmYtNnZUTzEyOUVnck1lc1pvNmpvaG0wank4QjhyenFLYTh0ck8xMUdIT0tOR2FtM01iYl9IUQ?oc=5>
+
+### New Hampshire Families Sue to Stop the Trump Administration from Cutting Off Medical Care for Transgender Youth on Medicaid
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: GLAD Law
+- 时间: 2026-10-01 19:53
+- 链接: <https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVThZQ0tTb2pmODZaaEdRVGp0Q18yRF92SVRrUmdlSzFhQ0FMSlI2c2tiRjI1VUU1bkRUU1Y2cFJOTUxCenVBTVZkdE5QQW95Q0xWWVpVdTJIR3hWSzJXbXVvUEE3TlhQTXNWOE1VTzFHSE1vOEhBcmY4c3FTWEFTd2RaRzI0NVczYmdDSU1nMF9kRmZVT1FaODZuWkZCTXIxT2pJREVubmNSTmtDM0JEaml2Smkwc3o3ZXJpZVpsa2F1MlJpR3RkYQ?oc=5>
+
+### 吴说9 月 VC 月报：融资额环比大增逾71%，Polymarket 获 Donald Trump Jr. 公司投资3 亿美元后估值210 亿
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 吴说
+- 时间: 2026-10-01 10:08
+- 链接: <https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ05iZTMybDRmLXhaNEJHUjA2Q0FOS0xuYXpab011SFI5b3JaS1FSaS1LMHd3Zi1CakdJNDhXeThaTnAwVWo3d0JqeHFOdGU3WUU4amNtdmlsaHpkUHF5LUROMS1mSzZrb21Hck5PNWYtUENtOXk2QS1Bai1tdDgxa3JYWDdCNnZkVVlJc24yNTRkR05Yel81MnJEVjBXb1RiNGtJT3AzcWtmckU5?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-01 21:31  (12 条)
+
+- **周杰伦** | 2026年有哪些演唱会值得期待？ <https://k.sina.com.cn/article_7879777066_1d5abdb2a06801zow8.html>
+- **特朗普** | 特朗普称美国发动伊拉克战争的决策“非常糟糕” <https://news.google.com/rss/articles/CBMioAFBVV95cUxQcTU2dlRRU1ZVblJ6OC1wSklKUldFQzFuNkJoQld0VmlBNkhVWFlvd1hjMmtEWGVRUW9vVVBhQ1E4LWdQQ3dWaElKWW4wazFuNUtlYTJwazVBS2lnZlJXSm5SRnExVFRNVmZHTWtDYkxsd3dva1RGUVBPNkF5NUY3WXVwR2paUEVTZjNIZFhmWC0yS0VBMHI4LXdCakhsVy1a?oc=5>
+- **特朗普** | 马斯克将重返特朗普政府圈 <https://news.google.com/rss/articles/CBMi7wFBVV95cUxPUnZ1Q2loNE1QemtMYWVnX3JfVjBUeXJ0YkZJdWxjTlg5Z3pfS09HYjAwRG14NjR6Qlg5dk55SkNqQzZhMnZtLThQMElMcFdtOE5KYzVXbm5ESzdSMlppbkoxVHE1eTVaNzU1a3NIcWVOR1A5Q0VVRWZRWTg3emd4RUZiSFFpMGg0Sjh3dU1JbmxlUVZNa3VHTWJUbnhVZzlpMGJUZnp3VnRiR3puQnBVcTlNU1pqQXd5ZXIzemJLTmd3VlVFYzctdTZvRWI0OHpidEphY2NWSFhubjFCY2o5WGk3RUtFbXpEX1dJazlrVQ?oc=5>
+- **特朗普** | 特朗普：如果鲍威尔不辞职，美国政府就应该以“腐败或无能”为由起诉他 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1iTG50dlprM0NkR1pFbnFJWS1oOWNTcHA0eDZSaUxjM3RCWFNQWXN6ZzhJZ01fS1RyMmVwb2tNb3NCR2JyY3pRNXFBVEI?oc=5>
+- **特朗普** | 特朗普总统证实与习近平谈到遭“非法拘押”的美国公民，家属：“我们全家重燃希望” <https://news.google.com/rss/articles/CBMitAFBVV95cUxOYUhHNE5MUWVMOERHaDRaeUl3S0F0dWc4bWlKanpNclZVNTQ1WDB0cVBQcXlTODVNZFJCb2pFMWlULWpLbEtZX1k0OGJ5bzZTOTR0TWlwUlJNeE5XNndILXI2S2N3eWxPTHVXLVJ5N1p1a3Q3LTFoNGNYSjczRmVYTlYtckFPMkI0TW4ybl9tcC0wM0NQU2VKeURma0J2WEZWNUY5MzY2Ulg5LUlkZXFWb2FGNGnSAbcBQVVfeXFMUEh0TkVPRnJkWkttZXJyYlIzSU54SkROZDNUVWU1S0dLRnJEUHhCRVpkaWF1MHlfR0NBZWM4Q3o3MUg0RWhfeUtZQmFPQkZTdnB2Uk93amdHWXc4eHJzMUVkR2g4ejVubm1JR2FWTVhxYjNzOGVIMHBzTjlVSlBXSldJSVpxNkItcWtfaldkSmtkYWthanF6SXM4U0tDbDZPLWhzMHh4Wk9XWnRlVzJNTXhoN1JKaWJJ?oc=5>
+- **特朗普** | 特习峰会提及中国在囚人士，黎智英能否获释备受关注 <https://news.google.com/rss/articles/CBMiowFBVV95cUxPQ1hiSW5Fbmt0TW1BYXo3czFDZE9pekVqc3htQ1dmTzNuM2U1Q0Z5OFdmSUFHeUxZTmdYV0VHRzlDMnYydnkzV1RHYmx1WDVOQ1RWbXNQOW9RN3FxUEt4VEpVaFJjT0JYdVNiSThUcjY2elRiNWhhNVJlenNFMjNxUjBPNDRFQzNJTW4yamwwcjZzWHphSld0UXFvbTdoVF9FeWEw0gGmAUFVX3lxTE1HMnk0OXkwLU5QRmkwUURKb2dsQU9PMXM3SnRsUExCbmpiYXVWZHBMTkE3b1F6QU5XU01USjVmQUh2LWlKWFZPY2p6MndNQnhoT25tbVJSajk1Mms5dFJqZlNBMTFXODJCOGNlbE5qekNNS2lsQThCdmEyMUtPR1BZdHFtNzA4NWlXUWphMElKczlFeDNTU1pIS0xrM1VxUDBzZXhyclE?oc=5>
+- **特朗普** | 诺贝尔和平奖揭晓倒计时一周，特朗普再获提名 <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBzTzd6OFNWbi01X1Q0WFB5S0N1aTBhc3o0ejVpckV0ZFFOV2NhNWo0aV9fR1Zjclo1b2RORzhZODQ1MkVPaC1RV0JXZXljWU1TM1lwRW5uX0x0X3prSmZpUA?oc=5>
+- **特朗普** | 美媒爆：特朗普政府正将美国几个主要盟友排除在北约会议之外 <https://news.google.com/rss/articles/CBMiWEFVX3lxTFBxcFItUW1fWjNDemFnbWh5UWhvUk84NXBpRDRIX1NNLUFGSUZHdEQybUVHMWZqTnc1RHBpUWV1amdyd0lCNmhVd2pSSVd1YUlaV0JmMEw1dFE?oc=5>
+- **特朗普** | 特朗普总统警告：伊朗正面临关键时刻，必须在和平与军事升级之间做出选择 <https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdzRZeENfTXdaRGsybWZXRVpodTZqT0RsdGhCNWdJTWJBTUJ6a0FTbDJxUENkWXVBN3Iybkc1TWJmUUdyRE9zOE1URFUtQzR4M0NOX2hKcFFHaEx6bTlDUkxNSWZvdUZfcDFBY1NVM1A3RkotNWdMRW5lbGs4U0p3REZQeFUtc3A2WUUzTWc0Q2JXR0FULWNiN3p3MGJLZUpqRjBZTVdoSEJ4eDV1SjFVM3FZUkdGWjcxcnhIbkxpR01fbFRPQWhRMXFrWVI4azNGeDBGcEF1QTdpNkFTQXQ0VjZrVl_SAecBQVVfeXFMT3NpN2Fva1U5MXVvUUVtWU8wX3JZemZLZVdsdUdUSXA1RWRvVUtMTkVNN3V1Q1lDZDVrcDYtZ01mbklMSWF4WG5Cd0lyUUtURGwwbHZRSmdiQm0tOXdRb2pzT041U25SQWVvVmN0UzBzenZKU3k5TE1Od1ZibHpVVWREVm5WX3puZ0dCc3k2Smdibi1xZVRVdWRHU2FmVmFUajU1eUZEMGtiYWRVMVhwbG9KSzRsQ195cHVjSE0wMElIeC1kQ2ZlWnF1aFlsTEdVRUhIZEZFVEdxNFdYMkhtbXc3dllBcDR3?oc=5>
+- **Trump** | 特朗普总统：有可能在中期选举后轰炸伊朗 <https://news.google.com/rss/articles/CBMivwFBVV95cUxPUlhoSmF6aGc3YXdhQ29lOUJleHBGaGZ2bWRJc0Ftdm1OaDh0UzF5cEhTQUZXS2J0bXBJTVhUTFFaMWE4czN4V21NSFNQeGw1UDBMQUhUdnY4aldEblVFbGlHOExEckpHamRVMW5Ld3Z0UFg4c2RZWkpIbHhzN05XRkdVWUlyRnhBR21EUy13QWQwbmxTalYyanB1N3BLRjMwMlI1WDhiRmhmME5aLUVvZ1pZbTNua1g1OVowZlZjONIBwgFBVV95cUxQSGttV25BMkZVZURUWFFiaVlmZVNEMkltTktrNFVDM3ZkTFczUHFVYTZXbnphQ0lFcEQ1QkdEaVl4YmlYSnZVMnlJZ3pyX1I1Wk43bmZZWlRfbDczNmRxemRKTG1GanF2SF9RVUg5RVVJYXZObDN6Z05LOTdabmdQeE5ScGE2Z0pSckpvWmYtNnZUTzEyOUVnck1lc1pvNmpvaG0wank4QjhyenFLYTh0ck8xMUdIT0tOR2FtM01iYl9IUQ?oc=5>
+- **Trump** | New Hampshire Families Sue to Stop the Trump Administration from Cutting Off Medical Care for Transgender Youth on Medicaid <https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVThZQ0tTb2pmODZaaEdRVGp0Q18yRF92SVRrUmdlSzFhQ0FMSlI2c2tiRjI1VUU1bkRUU1Y2cFJOTUxCenVBTVZkdE5QQW95Q0xWWVpVdTJIR3hWSzJXbXVvUEE3TlhQTXNWOE1VTzFHSE1vOEhBcmY4c3FTWEFTd2RaRzI0NVczYmdDSU1nMF9kRmZVT1FaODZuWkZCTXIxT2pJREVubmNSTmtDM0JEaml2Smkwc3o3ZXJpZVpsa2F1MlJpR3RkYQ?oc=5>
+- **Trump** | 吴说9 月 VC 月报：融资额环比大增逾71%，Polymarket 获 Donald Trump Jr. 公司投资3 亿美元后估值210 亿 <https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ05iZTMybDRmLXhaNEJHUjA2Q0FOS0xuYXpab011SFI5b3JaS1FSaS1LMHd3Zi1CakdJNDhXeThaTnAwVWo3d0JqeHFOdGU3WUU4amNtdmlsaHpkUHF5LUROMS1mSzZrb21Hck5PNWYtUENtOXk2QS1Bai1tdDgxa3JYWDdCNnZkVVlJc24yNTRkR05Yel81MnJEVjBXb1RiNGtJT3AzcWtmckU5?oc=5>
 
 ### 2026-10-01 16:36  (11 条)
 
