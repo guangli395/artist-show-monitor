@@ -1,118 +1,80 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-02 13:59**
-- 本轮扫到 13059 条, 新增 **13** 条
+- 最近更新: **2026-10-02 19:04**
+- 本轮扫到 13066 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (13 条)
+## 本轮新发现 (7 条)
 
-### 王一博发布巴黎图集，多角度随拍
+### 周杰伦青岛演唱会即将开演 交管部门发布出行提示
 
-- 艺人/关键词: **王一博**
+- 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1496814565_593793e5040026eq8.html>
+- 链接: <https://k.sina.com.cn/article_5281491251_13acd293302002bppc.html>
 
-### 普京谈与特朗普关系
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-02 10:44
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9vcm42SVFWbm9xUkZUUGVPczJ2NVZfVzFzTmhMSVRCOUFvT3R3S1pRdGFYSGprMlVNVzhEWTM3ZE9DQmlDX2hCRkJDX1Y?oc=5>
-
-### 普京：与特朗普保持着相当良好的关系 赞赏其解决俄乌冲突的努力
+### 特朗普对田纳西州死刑犯处决失败感到费解：耐人寻味，这不应该很难啊……
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-10-02 13:25
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBPRFBXaDBVUkU4NzF0d3gtTVJuQWZvc1M4dHAySDl5RXBiNWhpZC1iX2d1STEzVHpXcWdVTVBXYTdpNEFISUlCdlZid1owWVVJNmZMRGg0aUJLMW1ZbHVXWjV3aVYzT29tYmFtMzdmdHc?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-10-02 07:14
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1BVWhMVFpHMkYydkp0cnpLRzBEMGxXMEN5M1JBbUlsUkZSdkhncFZxNmZMQkJFX0tBZElSbHZlUm10aDJKOUlLVVN5LVRua3VBeW1WLXc5NFM3RDgwMGdIN0ZJdFhBV09MZXlTcVpsS1ptNHpDZGM3VENBSGdUMUU?oc=5>
 
-### 特朗普抱怨“后悔”提名美最高法院三名大法官：他们老是投票反对我
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-10-02 06:32
-- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdWFlSkxuYnNCdXdiMmlCOTZsOFFTaU9UMzdRZTBURmxyNzdSLUlWQTJid3ZNLTBKeHQ5VmhRYVFCdGxjQTdPb2piZjNUNV9oWHYxd1pCa3BfRWsxSWhhTTBOeVItb3V5STdTUzZOQXg2SHFMemVkQ0g0d1VkWlZSeGFmZFBtSFdo?oc=5>
-
-### 特朗普很不爽：我提名的大法官，怎么老反对我
+### 卢卡申科“感谢”特朗普
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-02 08:05
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1RcVZneUwwcHhwd0VxWThNdUVaYXJJX2VISkN5QlBHelRuRDAzRHFDbG1LU1dQZ2Jrblctc2J2ajZEZDhETHctdnpjM1Y?oc=5>
+- 场馆: 新浪军事
+- 时间: 2026-10-02 14:03
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFBVdXBqVVJwMldrWXdTSk1zVU1mRUR4dkQ4dDBxeW5Xc2h4TUMySFF0WlBZR243QVV1VnVsNUduc1NxRzdIV1lGY20ySHBJVWJFNjhqcXZlRk12UlNyM3NaSzVyRUw0VUR4azBNOGRzbHlUME0?oc=5>
 
-### 特朗普又赢了，美最高法院：可继续将移民驱逐至第三国
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-09-30 03:53
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5SNjBkVmhFUFBLT1FEb3FONWNQYnA0NjNCa1Y4bFJtQ1JDSFBhTVNrSHNzV2FsQ2g1dUZlUHI0OHZ4SGFCMFFnNXFtTElma0VWczZGUlFJRVRzUlR5eWgzV3pnTVk5dllTcmM1UUpvU1pyX00?oc=5>
-
-### 被特朗普点名后，欧盟紧急讨论释放5000万桶柴油库存，油价短线急坠-市场参考
+### 特朗普劝习近平与高市早苗直接对话 高市称与中国保持沟通
 
 - 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: xnews.jin10.com
-- 时间: 2026-10-02 09:14
-- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE95R0FBLUNuemo3VzVKWXNMTTVWeGJrQmpia3JQTjZSWUpxNUtoRHN0WHBwRDVKak5zOVJ2b0xMY045SGxiVWZDbl8tR09YcjA?oc=5>
-
-### 特朗普称若伊涉迪拜航空事件将重击
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-10-02 11:14
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE5HeENYZVpnSU9FU0g4Szk3enNVVUxXTkQzbnZ2aHREbkVMRTR4SC1xSHVWSjlMazIwT2hValFuRldBanYzYi1Pckc0MEVWSjVlZ05leDdJbHJKaVFmWmhnWlMyUkh2MmgtbTR5MU1NSkFoUQ?oc=5>
-
-### 10月2日外盘头条：特朗普称中期选举后或将加大对伊朗的轰炸报道称美将向中东派遣第三艘航母
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-10-01 22:04
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNUpuUWJFS1FXUXZrTExFM2pjR1ZiQlFIelVRXzFZcURoU1ByRnEtMWc3c3dJWmtoTEo5ZHhrNUYyX0dENzFya1c4SzQxa3c0UDJWQV9Cem5JbkxyOVBqbUdXNWN4ZHRHcnFaM19iOUowUVpGaWZObzBJNFFrSTNBODlZaHg3cWpuVW5QRWt1OGxPUFd3bUhvc0dzaklaWkszZkg2VnBJRlNKc1VHOF9UMzJrQ3lQVEhJejRLZDZPWUxZYklIcGpQbmFEOFFNZ2tf?oc=5>
-
-### 特朗普：请假装上阵的人是我，我的名字也在选票上；如果我们没赢，民主党将会弹劾我；如果让他们重新掌权，美国将被摧毁
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-02 12:14
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5qTEJlckZKVlFqWGdCMjZvcHBiU2c3WUo2aVY1aW1PNGlyTktyOGczOU9KOEFKamxyU2N2OHZwOEVBM1ZmMWt0X3JibTE?oc=5>
-
-### 美国专栏 - 一场不能输的AI竞赛 美中在安全与领先间拉锯
-
-- 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: RFI
-- 时间: 2026-10-02 11:58
-- 链接: <https://news.google.com/rss/articles/CBMikANBVV95cUxQbmNLT195cTRTcURsdEY2T0x0Y3MwTWZuejVGRW16c3JjRXNTWEx6bjVfem12cFlvc3QtWDFCVVBxTEtYR3hxSkt1cGx6bEZSaDJ2cG04Y2NfNGl0NzA0TG1GbUlBdkttaFZqTVZ1eWM1WE9tcDBXbUgzcjV1X1lTbU1XcXhUX214S1pJQlVSWTVvTGMtRldSUnlDdllIZVE3SW5xMS03MjM2dVhaYXhlTjZYT1E5ZUJrS3FpRUtYZ0Q5OTJTbHFKMGx6eGFSQzJGc0lwM2d6bWw3aTREQ2dPV2FpVFp6dlJiVm9iOHNTSHBNWmpacGVVUHpoWHoyeWRkUjluSDFET01PMHR5bkt6eFE5b01MMk5RSjRVMTJZOFJnUGNjVjM1M3U5UnRMSFFYSWVRMFlweWVVUi1xVzFQbGFPRmM0c3dvTGRTTEtvSjFXd0RTTWhUTEJoNEVyMFBkaXRWS3JyWDhlVjFSRkp1QzZxTGtFRWp1NXBXQ0swSXE0cUlhOUNINDZFRncwdVJm?oc=5>
+- 时间: 2026-10-02 08:56
+- 链接: <https://news.google.com/rss/articles/CBMimANBVV95cUxOU0FNejdVYUtsRF9jOXdNb0lQOElWaHZhalZMZFNMSjhfelpaUDVRTi01Um14V3pnVUI3TjB2YnQzM3RvSi1qMndPRWMwUTNSN3Y2WHZnLTM4X3RseXlkd2hmUUJSNFBUaGRZaFNaTlh5NkNMemdvMG50Mk5oSVMwNmhpRnZlbFhpS1NrRzFBcXZxN0xjaFNUdWMyaWNKSVhtRUpxNnN6NHN5cllld1FxbFVCaFdPUTBxX3lPZTBvZG4xVUFIcTFHSjZmNG1ueGJQb0JfbmRkcHlWZXFzQzE4ZGFlalpQc2lTeEZ5UmdQVTlmcWoxNnpQNXMzV2JCZmRjWWxrSTN4X1ZyNG84QlJKdnFBQms0aWc1eEtwOFgxdVhyUXB4VzY0SzNvZEJSb3JUeTk1SXlOMkVkWGNGaVhLal9OTHdPUmdjY3lCWllKaFdCWm4zSFY1djFzWWstSGc3bml6elBsZHlrcmZKYU84UENrXzBRREJleHBLeUk0dnVmRHh6UndGMTNkajJDalF0NGE4QnYxZkg?oc=5>
 
-### China 'cannot get' the oil: Former Trump adviser
+### 绑架马杜罗前，特朗普特地问了AI数小时
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: guancha.cn
+- 时间: 2026-10-02 00:43
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE54bE05TWNEUDN6QXF2TXNwYW5PTTdWVTZ5Qmd2Q1luSWg3VU83YUJYT0dBTEM1eDRqbFZIWnU2cUR0WnYwbW9JLVpOVVNKbTJLTnh0OW5UZTR0QVU3dmJ4YzJFM3dTcHI3M3Z2YlpJWTQzOTg?oc=5>
+
+### 哈塞特：非农报告“符合预期”，霍尔木兹已开放，特朗普认真对待赤字问题
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: wallstreetcn.com
+- 时间: 2026-10-02 15:35
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zcUY4d3ZFWVM3ZW5rTlFtRUJHX0lrQk5raXBzbmNDOFdtZFlqZTJlWFE0LVFPbWpkSEVURnp1aDVFQ0ZXcjVPUzd1cnAyQjloYjJR?oc=5>
+
+### 超级智能必须自由开发和部署
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Fox Business
-- 时间: 2026-10-01 22:11
-- 链接: <https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YblFYM3JNZklsSnhJTElfYTVaOWVaNVdkNUowUzZFWkJNSGN3Rk03M19RSFMwQ1F0ZGxPbXE4TWlUSWhWT0xfTlN5dWFPUkFWWUVJcGN5Rzhwems?oc=5>
-
-### 拯救黎智英：港媒引消息指美驻港领事邀港商界襄助遭冷待
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-10-02 08:09
-- 链接: <https://news.google.com/rss/articles/CBMijANBVV95cUxOc0Q0UXdPMExBbHRmSWJ5WHBtenhmdERzZ2ptbTdOeWFoS2E3VGlOSnJUZGxrU3owTktvUXFia2twVUJUdVVBR29CRVVsbDJtMWxfM1EwaDJtdERkZFR3cm1iNzd6MkFMalpHRWZ2dVViVHhXZ3YwX2pRTGdvZGNCU1QyVnR5OE16a25iZ0pDeWNhekRyNTVNMERqdENmNTVVTGZUeDU3Si1nQUU1LUxPMThzQkdNVWN1cUZuN2k3TzJYQUNKY3Y2OGtLMEFnb3plSnhBZXRLZlZqN09pdFdwdk9xSkQ0enJEdkd0OXY1d3loeEVyM281djFxRmZHNVNNdDQzTVhlUzdwaXhiSFFDYndIMjkycW9JZ3JWTDdQNHhuWXdHemNacDVWeHltdGZRWEdCcEJta0Q0Wk1HY19WaEdQVzZIb2VPVzVNaVlsVE12MEFKem9hQUJfU3pwa3NJeFd6VXl1aFB0X0l6R0RKYjZPVTRabWp1aE1IbnhzWnBoNi1Xb0VXME9hRFo?oc=5>
+- 场馆: VOA - Voice of America English News
+- 时间: 2026-09-30 16:07
+- 链接: <https://news.google.com/rss/articles/CBMiugFBVV95cUxPVklGYUJhZXVYNTNPd2J5UWpWT1RWMWNJeVJzWjVBdWZLRTRwdDQ5WWwwMzRGYVBxdFlScmROenZXNThFQ3pyczItSHV0U2txd3VYNnktSVlQYklMdnM3T0lOdkR4ZVFWeUNSelFfaEdWZGNBRkZ2eE8ya3FNOVd0bmhCS2dzN0k2TmVYSFNaV2JQVGV1azh2RlBJTnVlTm9IQUE3cXZ4RXItanZFaHdKWFpmd3VUcUhPNkHSAboBQVVfeXFMT1ZJRmFCYWV1WDUzT3dieVFqVk9UVjFjSXlSc1o1QXVmS0U0cHQ0OVlsMDM0RmFQcXRZUnJkTnp2VzU4RUN6cnMyLUh1dFNrcXd1WDZ5LUlZUGJJTHZzN09JTnZEeGVRVnlDUnpRX2hHVmRjQUZGdnhPMmtxTTlXdG5oQktnczdJNk5lWEhTWldiUFRldWs4dkZQSU51ZU5vSEFBN3F2eEVyLWp2RWh3SlhaZnd1VHFITzZB?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-02 19:04  (7 条)
+
+- **周杰伦** | 周杰伦青岛演唱会即将开演 交管部门发布出行提示 <https://k.sina.com.cn/article_5281491251_13acd293302002bppc.html>
+- **特朗普** | 特朗普对田纳西州死刑犯处决失败感到费解：耐人寻味，这不应该很难啊…… <https://news.google.com/rss/articles/CBMif0FVX3lxTE1BVWhMVFpHMkYydkp0cnpLRzBEMGxXMEN5M1JBbUlsUkZSdkhncFZxNmZMQkJFX0tBZElSbHZlUm10aDJKOUlLVVN5LVRua3VBeW1WLXc5NFM3RDgwMGdIN0ZJdFhBV09MZXlTcVpsS1ptNHpDZGM3VENBSGdUMUU?oc=5>
+- **特朗普** | 卢卡申科“感谢”特朗普 <https://news.google.com/rss/articles/CBMic0FVX3lxTFBVdXBqVVJwMldrWXdTSk1zVU1mRUR4dkQ4dDBxeW5Xc2h4TUMySFF0WlBZR243QVV1VnVsNUduc1NxRzdIV1lGY20ySHBJVWJFNjhqcXZlRk12UlNyM3NaSzVyRUw0VUR4azBNOGRzbHlUME0?oc=5>
+- **特朗普** | 特朗普劝习近平与高市早苗直接对话 高市称与中国保持沟通 <https://news.google.com/rss/articles/CBMimANBVV95cUxOU0FNejdVYUtsRF9jOXdNb0lQOElWaHZhalZMZFNMSjhfelpaUDVRTi01Um14V3pnVUI3TjB2YnQzM3RvSi1qMndPRWMwUTNSN3Y2WHZnLTM4X3RseXlkd2hmUUJSNFBUaGRZaFNaTlh5NkNMemdvMG50Mk5oSVMwNmhpRnZlbFhpS1NrRzFBcXZxN0xjaFNUdWMyaWNKSVhtRUpxNnN6NHN5cllld1FxbFVCaFdPUTBxX3lPZTBvZG4xVUFIcTFHSjZmNG1ueGJQb0JfbmRkcHlWZXFzQzE4ZGFlalpQc2lTeEZ5UmdQVTlmcWoxNnpQNXMzV2JCZmRjWWxrSTN4X1ZyNG84QlJKdnFBQms0aWc1eEtwOFgxdVhyUXB4VzY0SzNvZEJSb3JUeTk1SXlOMkVkWGNGaVhLal9OTHdPUmdjY3lCWllKaFdCWm4zSFY1djFzWWstSGc3bml6elBsZHlrcmZKYU84UENrXzBRREJleHBLeUk0dnVmRHh6UndGMTNkajJDalF0NGE4QnYxZkg?oc=5>
+- **特朗普** | 绑架马杜罗前，特朗普特地问了AI数小时 <https://news.google.com/rss/articles/CBMic0FVX3lxTE54bE05TWNEUDN6QXF2TXNwYW5PTTdWVTZ5Qmd2Q1luSWg3VU83YUJYT0dBTEM1eDRqbFZIWnU2cUR0WnYwbW9JLVpOVVNKbTJLTnh0OW5UZTR0QVU3dmJ4YzJFM3dTcHI3M3Z2YlpJWTQzOTg?oc=5>
+- **特朗普** | 哈塞特：非农报告“符合预期”，霍尔木兹已开放，特朗普认真对待赤字问题 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zcUY4d3ZFWVM3ZW5rTlFtRUJHX0lrQk5raXBzbmNDOFdtZFlqZTJlWFE0LVFPbWpkSEVURnp1aDVFQ0ZXcjVPUzd1cnAyQjloYjJR?oc=5>
+- **Trump** | 超级智能必须自由开发和部署 <https://news.google.com/rss/articles/CBMiugFBVV95cUxPVklGYUJhZXVYNTNPd2J5UWpWT1RWMWNJeVJzWjVBdWZLRTRwdDQ5WWwwMzRGYVBxdFlScmROenZXNThFQ3pyczItSHV0U2txd3VYNnktSVlQYklMdnM3T0lOdkR4ZVFWeUNSelFfaEdWZGNBRkZ2eE8ya3FNOVd0bmhCS2dzN0k2TmVYSFNaV2JQVGV1azh2RlBJTnVlTm9IQUE3cXZ4RXItanZFaHdKWFpmd3VUcUhPNkHSAboBQVVfeXFMT1ZJRmFCYWV1WDUzT3dieVFqVk9UVjFjSXlSc1o1QXVmS0U0cHQ0OVlsMDM0RmFQcXRZUnJkTnp2VzU4RUN6cnMyLUh1dFNrcXd1WDZ5LUlZUGJJTHZzN09JTnZEeGVRVnlDUnpRX2hHVmRjQUZGdnhPMmtxTTlXdG5oQktnczdJNk5lWEhTWldiUFRldWs4dkZQSU51ZU5vSEFBN3F2eEVyLWp2RWh3SlhaZnd1VHFITzZB?oc=5>
 
 ### 2026-10-02 13:59  (13 条)
 
