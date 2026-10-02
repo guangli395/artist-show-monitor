@@ -1,70 +1,82 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-02 19:04**
-- 本轮扫到 13066 条, 新增 **7** 条
+- 最近更新: **2026-10-02 23:07**
+- 本轮扫到 13073 条, 新增 **7** 条
 
 ---
 
 ## 本轮新发现 (7 条)
 
-### 周杰伦青岛演唱会即将开演 交管部门发布出行提示
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5281491251_13acd293302002bppc.html>
-
-### 特朗普对田纳西州死刑犯处决失败感到费解：耐人寻味，这不应该很难啊……
+### 特朗普：密切关注巴西大选。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-10-02 07:14
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1BVWhMVFpHMkYydkp0cnpLRzBEMGxXMEN5M1JBbUlsUkZSdkhncFZxNmZMQkJFX0tBZElSbHZlUm10aDJKOUlLVVN5LVRua3VBeW1WLXc5NFM3RDgwMGdIN0ZJdFhBV09MZXlTcVpsS1ptNHpDZGM3VENBSGdUMUU?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-10-02 20:03
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5lZE4yQXBFdy1YTUNkckoyaDB4ZDc0RXdrUGlMRld3aTdzajNWUnNRckJSZnE3NDl4U2NWaFE3dGllMFJXYTBIcjRBOA?oc=5>
 
-### 卢卡申科“感谢”特朗普
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪军事
-- 时间: 2026-10-02 14:03
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFBVdXBqVVJwMldrWXdTSk1zVU1mRUR4dkQ4dDBxeW5Xc2h4TUMySFF0WlBZR243QVV1VnVsNUduc1NxRzdIV1lGY20ySHBJVWJFNjhqcXZlRk12UlNyM3NaSzVyRUw0VUR4azBNOGRzbHlUME0?oc=5>
-
-### 特朗普劝习近平与高市早苗直接对话 高市称与中国保持沟通
+### 物价高涨冲击特朗普民调 65%美国人认为政策难辞其咎
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: RFI
-- 时间: 2026-10-02 08:56
-- 链接: <https://news.google.com/rss/articles/CBMimANBVV95cUxOU0FNejdVYUtsRF9jOXdNb0lQOElWaHZhalZMZFNMSjhfelpaUDVRTi01Um14V3pnVUI3TjB2YnQzM3RvSi1qMndPRWMwUTNSN3Y2WHZnLTM4X3RseXlkd2hmUUJSNFBUaGRZaFNaTlh5NkNMemdvMG50Mk5oSVMwNmhpRnZlbFhpS1NrRzFBcXZxN0xjaFNUdWMyaWNKSVhtRUpxNnN6NHN5cllld1FxbFVCaFdPUTBxX3lPZTBvZG4xVUFIcTFHSjZmNG1ueGJQb0JfbmRkcHlWZXFzQzE4ZGFlalpQc2lTeEZ5UmdQVTlmcWoxNnpQNXMzV2JCZmRjWWxrSTN4X1ZyNG84QlJKdnFBQms0aWc1eEtwOFgxdVhyUXB4VzY0SzNvZEJSb3JUeTk1SXlOMkVkWGNGaVhLal9OTHdPUmdjY3lCWllKaFdCWm4zSFY1djFzWWstSGc3bml6elBsZHlrcmZKYU84UENrXzBRREJleHBLeUk0dnVmRHh6UndGMTNkajJDalF0NGE4QnYxZkg?oc=5>
+- 时间: 2026-10-02 20:51
+- 链接: <https://news.google.com/rss/articles/CBMi7AJBVV95cUxNX2dGNkRKeFdUUEF3clJzVi1lWDdxSW81QnZXbTZQOG1ERXZzMl9DcUFMYm1BQW1RWFd4N3IwRGtBYzNVR1p3eUIzM0FiSGJ5Q28zOWFzLUkwSDhPNXloY0dDOFBzbmhZX3ZxX1BfeTd6UDZ2OFByT2Q3MmI4RDJzUUdVQmdYazVzT0RPbzBib0E5Y0dkYlJLaTExQzFYU25nTkJSV0t4Y3E4VnlNd1JROVVZYUVKMlBWUTB5eURNanVqU2hRUzI4Y3ctbkpGRDVUZ3o3U213UXI4VkhkQmdNdTZJTVZ5TTI0VDMzaGNFSElEejBnR2VMXzE1YllrMzFvc0NSWlo0a3JsTkgwcnNtVlR1dndHdnMzLXRqWXIxdEREM0kyZlNnVDVmWnVGT2NWbndEaVFhUkgxRm9XWGZ2QzdWLU12N2ZEUlYtX1JJS1A1Y1B5SDhLenBCYnJjM05JQ3FlcFhNdnJZZ0tN?oc=5>
 
-### 绑架马杜罗前，特朗普特地问了AI数小时
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: guancha.cn
-- 时间: 2026-10-02 00:43
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE54bE05TWNEUDN6QXF2TXNwYW5PTTdWVTZ5Qmd2Q1luSWg3VU83YUJYT0dBTEM1eDRqbFZIWnU2cUR0WnYwbW9JLVpOVVNKbTJLTnh0OW5UZTR0QVU3dmJ4YzJFM3dTcHI3M3Z2YlpJWTQzOTg?oc=5>
-
-### 哈塞特：非农报告“符合预期”，霍尔木兹已开放，特朗普认真对待赤字问题
+### 特朗普谈及柴油：我们与欧洲关系十分良好。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: wallstreetcn.com
-- 时间: 2026-10-02 15:35
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zcUY4d3ZFWVM3ZW5rTlFtRUJHX0lrQk5raXBzbmNDOFdtZFlqZTJlWFE0LVFPbWpkSEVURnp1aDVFQ0ZXcjVPUzd1cnAyQjloYjJR?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-10-02 20:00
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9YQlBuUU5UOGJYZmZ1V3hlTGtvTmxGN2VBSFgxUmlleXFIVzAxVVlOX1ZOcUN4c3pEWmVXbGc0dmd5eGQ5M3MwYkFBYw?oc=5>
 
-### 超级智能必须自由开发和部署
+### 特朗普提议人工智能改称SI，斯洛文尼亚域名注册量暴涨
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: VOA - Voice of America English News
-- 时间: 2026-09-30 16:07
-- 链接: <https://news.google.com/rss/articles/CBMiugFBVV95cUxPVklGYUJhZXVYNTNPd2J5UWpWT1RWMWNJeVJzWjVBdWZLRTRwdDQ5WWwwMzRGYVBxdFlScmROenZXNThFQ3pyczItSHV0U2txd3VYNnktSVlQYklMdnM3T0lOdkR4ZVFWeUNSelFfaEdWZGNBRkZ2eE8ya3FNOVd0bmhCS2dzN0k2TmVYSFNaV2JQVGV1azh2RlBJTnVlTm9IQUE3cXZ4RXItanZFaHdKWFpmd3VUcUhPNkHSAboBQVVfeXFMT1ZJRmFCYWV1WDUzT3dieVFqVk9UVjFjSXlSc1o1QXVmS0U0cHQ0OVlsMDM0RmFQcXRZUnJkTnp2VzU4RUN6cnMyLUh1dFNrcXd1WDZ5LUlZUGJJTHZzN09JTnZEeGVRVnlDUnpRX2hHVmRjQUZGdnhPMmtxTTlXdG5oQktnczdJNk5lWEhTWldiUFRldWs4dkZQSU51ZU5vSEFBN3F2eEVyLWp2RWh3SlhaZnd1VHFITzZB?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-10-02 04:52
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBZSDNTdnAwSkN2ak1tQkp4d1hhQi1vVkE5TEVnMHBIUG90dks4RUV2UWNiQ2tYd2FJbUczeFpPREZoa2d0c2hQWFlCeFY?oc=5>
+
+### 普京谈与特朗普关系
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-10-02 13:52
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE9fcVcxOEJXUi1CUWhuUzZEbXU5cG02TkJoOUgycTdKZnRwRlVYUDRGalZ0TmFwY1oxQUpUdVR1UUtuakdteTJGTU9WMFRNdlpwN29Sd0VPT0VmUnMtUGF2Q2Nkcjh0bTV5UF96UWhSaDZuZw?oc=5>
+
+### 普京谈与特朗普关系：我们保持着相当良好的关系
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: finance.sina.com.cn
+- 时间: 2026-10-02 10:50
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9CSnh1SjRLZlN0c2NnN2s1VVdGLVU5VjdaUnJMRGNGdjBLNjhhZlU1T1JGam1WbFBxakdvY2hFNUNFdEF6a3R5cjR6aGlaYkNfU3lva0ZidmJQT1UxamluUnl1MVF6SjNlaFdsVFI5d3Q0X0k0Y1pPRw?oc=5>
+
+### 美国总统特朗普表示：美国不会实施柴油出口禁令
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 东方财富
+- 时间: 2026-10-02 20:05
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fbi1aQ25ITnJidGxLWEpJRWR2OE1WSlZwY01xMTNtMGZQMVVUUmRNZDY4Qm1WQWFOSGlERFo4Y09rdGRDX1JqNVZKS2NSd3dFYVdIaFVER1B1TEJWakpuUQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-02 23:07  (7 条)
+
+- **特朗普** | 特朗普：密切关注巴西大选。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5lZE4yQXBFdy1YTUNkckoyaDB4ZDc0RXdrUGlMRld3aTdzajNWUnNRckJSZnE3NDl4U2NWaFE3dGllMFJXYTBIcjRBOA?oc=5>
+- **特朗普** | 物价高涨冲击特朗普民调 65%美国人认为政策难辞其咎 <https://news.google.com/rss/articles/CBMi7AJBVV95cUxNX2dGNkRKeFdUUEF3clJzVi1lWDdxSW81QnZXbTZQOG1ERXZzMl9DcUFMYm1BQW1RWFd4N3IwRGtBYzNVR1p3eUIzM0FiSGJ5Q28zOWFzLUkwSDhPNXloY0dDOFBzbmhZX3ZxX1BfeTd6UDZ2OFByT2Q3MmI4RDJzUUdVQmdYazVzT0RPbzBib0E5Y0dkYlJLaTExQzFYU25nTkJSV0t4Y3E4VnlNd1JROVVZYUVKMlBWUTB5eURNanVqU2hRUzI4Y3ctbkpGRDVUZ3o3U213UXI4VkhkQmdNdTZJTVZ5TTI0VDMzaGNFSElEejBnR2VMXzE1YllrMzFvc0NSWlo0a3JsTkgwcnNtVlR1dndHdnMzLXRqWXIxdEREM0kyZlNnVDVmWnVGT2NWbndEaVFhUkgxRm9XWGZ2QzdWLU12N2ZEUlYtX1JJS1A1Y1B5SDhLenBCYnJjM05JQ3FlcFhNdnJZZ0tN?oc=5>
+- **特朗普** | 特朗普谈及柴油：我们与欧洲关系十分良好。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9YQlBuUU5UOGJYZmZ1V3hlTGtvTmxGN2VBSFgxUmlleXFIVzAxVVlOX1ZOcUN4c3pEWmVXbGc0dmd5eGQ5M3MwYkFBYw?oc=5>
+- **特朗普** | 特朗普提议人工智能改称SI，斯洛文尼亚域名注册量暴涨 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBZSDNTdnAwSkN2ak1tQkp4d1hhQi1vVkE5TEVnMHBIUG90dks4RUV2UWNiQ2tYd2FJbUczeFpPREZoa2d0c2hQWFlCeFY?oc=5>
+- **特朗普** | 普京谈与特朗普关系 <https://news.google.com/rss/articles/CBMickFVX3lxTE9fcVcxOEJXUi1CUWhuUzZEbXU5cG02TkJoOUgycTdKZnRwRlVYUDRGalZ0TmFwY1oxQUpUdVR1UUtuakdteTJGTU9WMFRNdlpwN29Sd0VPT0VmUnMtUGF2Q2Nkcjh0bTV5UF96UWhSaDZuZw?oc=5>
+- **特朗普** | 普京谈与特朗普关系：我们保持着相当良好的关系 <https://news.google.com/rss/articles/CBMieEFVX3lxTE9CSnh1SjRLZlN0c2NnN2s1VVdGLVU5VjdaUnJMRGNGdjBLNjhhZlU1T1JGam1WbFBxakdvY2hFNUNFdEF6a3R5cjR6aGlaYkNfU3lva0ZidmJQT1UxamluUnl1MVF6SjNlaFdsVFI5d3Q0X0k0Y1pPRw?oc=5>
+- **特朗普** | 美国总统特朗普表示：美国不会实施柴油出口禁令 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fbi1aQ25ITnJidGxLWEpJRWR2OE1WSlZwY01xMTNtMGZQMVVUUmRNZDY4Qm1WQWFOSGlERFo4Y09rdGRDX1JqNVZKS2NSd3dFYVdIaFVER1B1TEJWakpuUQ?oc=5>
 
 ### 2026-10-02 19:04  (7 条)
 
