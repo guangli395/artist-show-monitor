@@ -1,106 +1,94 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-02 01:14**
-- 本轮扫到 13037 条, 新增 **12** 条
+- 最近更新: **2026-10-02 07:13**
+- 本轮扫到 13046 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (12 条)
+## 本轮新发现 (9 条)
 
-### 刘雨昕可爱困难户，把主题曲消化成自己的风格，杀回A班
+### 蔡徐坤请假条和演唱会门票，奔跑吧11奇幻登场
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924004_m1d5ae192403302bnow.html>
+- 链接: <https://k.sina.com.cn/article_7879923998_m1d5ae191e02001mnpq.html>
 
-### 周杰伦演唱会已订到后年
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2818172345_a7f9e5b904001kd1g.html>
-
-### 周杰伦演唱会已订到后年，称时间全留给巡演
+### 周杰伦方文山林迈可合作新歌，曹杨演唱编曲神级
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2332566353_8b08235104001ixzg.html>
+- 链接: <https://k.sina.com.cn/article_2292724833_88a83461040019x6q.html>
 
-### 马斯克这一改口，为何让特朗普都会谢
+### 请查收！“爱琴海青岛嘉年华”2026周杰伦世界巡回演唱会交通安全出行提示
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-09-30 03:41
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SeVFxc2xhOGtyVXZhalJXcnR6UG5iWTNEQWNqY2lfOXRhdWxINEpLU01uck90dGdaVHFadEh3aTllMlNzQ2Z3ZER5ZEx3RjRHWWF3cDAyTnVkTEMtUkE?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://finance.sina.com.cn/roll/2026-10-02/doc-initvazp7488896.shtml>
 
-### 特朗普称美国发动伊拉克战争的决策“非常糟糕”
+### 特朗普“后悔”：我能怎么办？他们老是反对我
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-10-02 01:09
-- 链接: <https://news.google.com/rss/articles/CBMihgFBVV95cUxNcDg3eDV4WC1hbGpQNEdZR0V5aHZ2SUNYbVAweXk2NUZuZmlzU1pYdk5wU0FRaTRlcV9jbWpYMHk3MEVXRUwzeWRxXzhsU3MwZmdiaDV4ZF84Tm5kNXp2NzdhMGdQaDE4YkJueEphcF9xTXlIN245NFhiVmo1d0M3R1NBQUNvZw?oc=5>
+- 时间: 2026-10-02 05:45
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9POTVQNFI1cndIUlJZYkVDWGc1OGxwdmZPUzdtZG92dHQwOUljelhDYm56U1hqWHlmYjdUYkxGei1TLVdUaGpmNFBsRnh1Yl9VR2FlVnNRUUI1MkNRQndhNDl4Q1hhZzlETFA1SmlmM1p1cTE5cXo3dQ?oc=5>
 
-### 特朗普对伊朗下通牒：不签协议就“不复存在”，美向中东派第三艘航母、增兵或万人
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-10-01 22:20
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE9zck8tOHUyLVROdHZmNFBqUXYxbmwwbXJQanFJOWFpSWNOWUU1SjZ4X2czZG93aVlsazA1bm9zYVpWc2JXX3piaE9aU3BsQy1HY1Vr?oc=5>
-
-### 国际新闻早知道丨迪拜航空客机30秒骤降4300米 特朗普称或加大力度打击伊朗
+### 马斯克将重返特朗普政府，参与牵头“子午线计划”，研究未来战争形态
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-10-01 22:48
-- 链接: <https://news.google.com/rss/articles/CBMijAJBVV95cUxPSkdaRF9MaktnRFlJRmVDVGUzaEx2aDVBRzZIYWZ1enBxejR5TkJ2V3BFcmtGSjh6amdETGw0S2xLZ3BIdHJFVDV6dzVjb0d2TkJSaEpaakstRndCWnZzbWdMOTV2Nld0WG9QNXJleVFnQlFmV0tzejltMEpWZjVZeVFDclZWOVpST0ZUOEkwS0dIOWFYeDM0dWQzZk5jdzh2SjNKQnRUWFVrb1QwRnZLWUg2SkUtY0cyZ2NhX05WRmNtOHZnaW5tcnNJZFhyU3ZWOWxYcS1WYXd3eXc5elpGQ1NVZm1ISUx6RGxEUHFzNjgtcDRZVGxPZERaUzc4S1FQTGE1TjFscW9ycGNj?oc=5>
+- 时间: 2026-10-02 06:16
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFA2N0xPYThscjBNOG1FQmZSQkk3ek5Uc2l2aWVXdnlrT2dQV1FPNzZtMTYxNkctVUx4YkduYl9nMlREUVhFclhUOENqX1VvczJFZFE4NjJoaF9mWU1CU2VmaGpfd0ozeklqcFlfaFVGZm5nYWZQZXhDXw?oc=5>
 
-### 美媒：特朗普政府谴责约旦河西岸巴勒斯坦居民遭袭
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-01 22:45
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE1wUTE3RzBVSEZyMFFMN3g5TFpNX1pRLVM5WlpLaDM0SkRGU3c0RkVJb2ZUNHBJQUd1QVlldjRmMU1ueWFTd1FzeQ?oc=5>
-
-### 特朗普总统：与习近平“相处得非常好”，对华贸易逆差降至44年来最低
+### 特朗普重申，伊朗问题很快就会结束。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-10-02 00:30
-- 链接: <https://news.google.com/rss/articles/CBMihgFBVV95cUxOZS10d20wUF9EQ2M4eTYtc0J1eU0xTG1ZdWlGWm9wN3B1d0FvOFJ0cXB6bVctZndKb19CVnFjQllxalJsNmd6UUw5cjJ1YkJvMFdROGk3aDREMEsyVl9VSHFDT1Rnd3pLOWV5eDZyaGtyUXNMeE8wcmk1a05PYzA3SnZPbGxfUdIBiAFBVV95cUxQeTNxZ1QwdUxITVlBOFpFQUhsdjloWHNXeS1yRXgtT1RrOTZhbmpCZ28wek1OX0pIa0l4Z1pWSmM5d0huWl92cGYtTEZQVTB2LTJlN2NWdjZ1NExKWDNhZUljSmstaXZqN2VNd2RPWGtWbEJlVXJxbW9ldm9Hc1ZtTzI3TnhpWXJ3?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-10-02 01:19
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1vSTRiYWo3RVJYNFFrSkpaUVZEaGpXWndPMkxWSTJ4TGNudGdZNzdCNHNERXAwVzZZRkRpWnBndXRvalFtVUV5ZVNfQQ?oc=5>
 
-### 普京：愿与习近平特朗普举行三方会晤 须先商定议程
+### 马斯克将重返特朗普政府 参与牵头研究未来战争形态
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
+- 场馆: 新华网
+- 时间: 2026-10-02 06:11
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9nV09uT2pGLU5IV0JNTlBLWktuUnB4VUlvQUZzR0JxR21ZejF0QmJvZmZ2Z2dTUG1FcHEtR0h1eVhmZERFRW1aNzlCeXJrZG1kY3RYNUZHMldmSTVhNmN2Yk1tRDdqTzk1RlJzSW5wYm8zUVZNeVVvcUEtT1JnYzA?oc=5>
+
+### 美国2026年中期选举成为特朗普信任投票，两党博弈激烈
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 虎嗅网
 - 时间: 2026-10-02 01:00
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE94NTBLVVVMME5UZnRoeFRLLXliQ0sxWGlaOWxFLTJsZ3RILWJkZ3huNkVINDA5QXJrM0tfWUxLNUF0b1FJR013MlBnYTVvbzI1SE0yempZVEg3VklHd05Ud1R1R2FFZktMWWc?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTFBvTl9mSURyQlBhQnVxLTdRRHYzQUlWWGZsVERRNkhwc3ZPU3Q2a0V5MXo1M2tYc3RrVHAyZ0ZBSnVNd2YyOTBpd3R2cjVSSC13R1E?oc=5>
 
-### 人权组织和宗教团体敦促国会阻止向以色列出售价值28亿美元的炸弹。
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: al-monitor.com
-- 时间: 2026-10-01 17:30
-- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kUTd0c3E4TnhtT0JyTi1sM25JVjJxc0pMdDZ2bnpLLWluSHVualRFRzlnU1NPYUsxbVNFd2tkakY3WmhBUXVDeFFLdEJ6UmJQam9zXzlXQkhMeS1oVENoT3NB?oc=5>
-
-### 特朗普再办“币圈晚宴”！前185名$TRUMP持有人获邀，币价闻讯拉升
+### 特朗普将出席Meme币TRUMP第三次晚宴，活动定于11月22日举办
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: FX168财经
-- 时间: 2026-10-01 21:38
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBKM2NrTi0xeDJZS2RpSzg1RWpmbHNjUTZ5UnlWWWpWUzJHSC1GYnA5V2owM2xjNXJISUZ2MDRrUnRqSHBXQVF2QlZBOTRRbDVULVJiVlNCOHMyMzdSU3hPNnd4OGlJbFBKOERHMmdNOU91MkI0UmZwUw?oc=5>
+- 场馆: TradingView
+- 时间: 2026-10-02 00:08
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpQkVXUnBhNWsxWjZ1V2VRUUpEZ2JZT2ZfTkRrODJhSzlKMExpMzRtTk5ackVsa01wWVVDUnJIYmpuNG9fUU5MQ3ZZTEtMR0FtV201cTc1dmlyQjc0RzRDZHVxOW9jUVk?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-02 07:13  (9 条)
+
+- **蔡徐坤** | 蔡徐坤请假条和演唱会门票，奔跑吧11奇幻登场 <https://k.sina.com.cn/article_7879923998_m1d5ae191e02001mnpq.html>
+- **周杰伦** | 周杰伦方文山林迈可合作新歌，曹杨演唱编曲神级 <https://k.sina.com.cn/article_2292724833_88a83461040019x6q.html>
+- **周杰伦** | 请查收！“爱琴海青岛嘉年华”2026周杰伦世界巡回演唱会交通安全出行提示 <https://finance.sina.com.cn/roll/2026-10-02/doc-initvazp7488896.shtml>
+- **特朗普** | 特朗普“后悔”：我能怎么办？他们老是反对我 <https://news.google.com/rss/articles/CBMieEFVX3lxTE9POTVQNFI1cndIUlJZYkVDWGc1OGxwdmZPUzdtZG92dHQwOUljelhDYm56U1hqWHlmYjdUYkxGei1TLVdUaGpmNFBsRnh1Yl9VR2FlVnNRUUI1MkNRQndhNDl4Q1hhZzlETFA1SmlmM1p1cTE5cXo3dQ?oc=5>
+- **特朗普** | 马斯克将重返特朗普政府，参与牵头“子午线计划”，研究未来战争形态 <https://news.google.com/rss/articles/CBMieEFVX3lxTFA2N0xPYThscjBNOG1FQmZSQkk3ek5Uc2l2aWVXdnlrT2dQV1FPNzZtMTYxNkctVUx4YkduYl9nMlREUVhFclhUOENqX1VvczJFZFE4NjJoaF9mWU1CU2VmaGpfd0ozeklqcFlfaFVGZm5nYWZQZXhDXw?oc=5>
+- **特朗普** | 特朗普重申，伊朗问题很快就会结束。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1vSTRiYWo3RVJYNFFrSkpaUVZEaGpXWndPMkxWSTJ4TGNudGdZNzdCNHNERXAwVzZZRkRpWnBndXRvalFtVUV5ZVNfQQ?oc=5>
+- **特朗普** | 马斯克将重返特朗普政府 参与牵头研究未来战争形态 <https://news.google.com/rss/articles/CBMif0FVX3lxTE9nV09uT2pGLU5IV0JNTlBLWktuUnB4VUlvQUZzR0JxR21ZejF0QmJvZmZ2Z2dTUG1FcHEtR0h1eVhmZERFRW1aNzlCeXJrZG1kY3RYNUZHMldmSTVhNmN2Yk1tRDdqTzk1RlJzSW5wYm8zUVZNeVVvcUEtT1JnYzA?oc=5>
+- **特朗普** | 美国2026年中期选举成为特朗普信任投票，两党博弈激烈 <https://news.google.com/rss/articles/CBMiUkFVX3lxTFBvTl9mSURyQlBhQnVxLTdRRHYzQUlWWGZsVERRNkhwc3ZPU3Q2a0V5MXo1M2tYc3RrVHAyZ0ZBSnVNd2YyOTBpd3R2cjVSSC13R1E?oc=5>
+- **Trump** | 特朗普将出席Meme币TRUMP第三次晚宴，活动定于11月22日举办 <https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpQkVXUnBhNWsxWjZ1V2VRUUpEZ2JZT2ZfTkRrODJhSzlKMExpMzRtTk5ackVsa01wWVVDUnJIYmpuNG9fUU5MQ3ZZTEtMR0FtV201cTc1dmlyQjc0RzRDZHVxOW9jUVk?oc=5>
 
 ### 2026-10-02 01:14  (12 条)
 
