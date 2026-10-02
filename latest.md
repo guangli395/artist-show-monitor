@@ -1,82 +1,134 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-02 07:13**
-- 本轮扫到 13046 条, 新增 **9** 条
+- 最近更新: **2026-10-02 13:59**
+- 本轮扫到 13059 条, 新增 **13** 条
 
 ---
 
-## 本轮新发现 (9 条)
+## 本轮新发现 (13 条)
 
-### 蔡徐坤请假条和演唱会门票，奔跑吧11奇幻登场
+### 王一博发布巴黎图集，多角度随拍
 
-- 艺人/关键词: **蔡徐坤**
+- 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923998_m1d5ae191e02001mnpq.html>
+- 链接: <https://k.sina.com.cn/article_1496814565_593793e5040026eq8.html>
 
-### 周杰伦方文山林迈可合作新歌，曹杨演唱编曲神级
+### 普京谈与特朗普关系
 
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2292724833_88a83461040019x6q.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-10-02 10:44
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9vcm42SVFWbm9xUkZUUGVPczJ2NVZfVzFzTmhMSVRCOUFvT3R3S1pRdGFYSGprMlVNVzhEWTM3ZE9DQmlDX2hCRkJDX1Y?oc=5>
 
-### 请查收！“爱琴海青岛嘉年华”2026周杰伦世界巡回演唱会交通安全出行提示
+### 普京：与特朗普保持着相当良好的关系 赞赏其解决俄乌冲突的努力
 
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://finance.sina.com.cn/roll/2026-10-02/doc-initvazp7488896.shtml>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-10-02 13:25
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBPRFBXaDBVUkU4NzF0d3gtTVJuQWZvc1M4dHAySDl5RXBiNWhpZC1iX2d1STEzVHpXcWdVTVBXYTdpNEFISUlCdlZid1owWVVJNmZMRGg0aUJLMW1ZbHVXWjV3aVYzT29tYmFtMzdmdHc?oc=5>
 
-### 特朗普“后悔”：我能怎么办？他们老是反对我
+### 特朗普抱怨“后悔”提名美最高法院三名大法官：他们老是投票反对我
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 搜狐网
+- 时间: 2026-10-02 06:32
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdWFlSkxuYnNCdXdiMmlCOTZsOFFTaU9UMzdRZTBURmxyNzdSLUlWQTJid3ZNLTBKeHQ5VmhRYVFCdGxjQTdPb2piZjNUNV9oWHYxd1pCa3BfRWsxSWhhTTBOeVItb3V5STdTUzZOQXg2SHFMemVkQ0g0d1VkWlZSeGFmZFBtSFdo?oc=5>
+
+### 特朗普很不爽：我提名的大法官，怎么老反对我
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-10-02 08:05
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1RcVZneUwwcHhwd0VxWThNdUVaYXJJX2VISkN5QlBHelRuRDAzRHFDbG1LU1dQZ2Jrblctc2J2ajZEZDhETHctdnpjM1Y?oc=5>
+
+### 特朗普又赢了，美最高法院：可继续将移民驱逐至第三国
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者网
+- 时间: 2026-09-30 03:53
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5SNjBkVmhFUFBLT1FEb3FONWNQYnA0NjNCa1Y4bFJtQ1JDSFBhTVNrSHNzV2FsQ2g1dUZlUHI0OHZ4SGFCMFFnNXFtTElma0VWczZGUlFJRVRzUlR5eWgzV3pnTVk5dllTcmM1UUpvU1pyX00?oc=5>
+
+### 被特朗普点名后，欧盟紧急讨论释放5000万桶柴油库存，油价短线急坠-市场参考
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: xnews.jin10.com
+- 时间: 2026-10-02 09:14
+- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE95R0FBLUNuemo3VzVKWXNMTTVWeGJrQmpia3JQTjZSWUpxNUtoRHN0WHBwRDVKak5zOVJ2b0xMY045SGxiVWZDbl8tR09YcjA?oc=5>
+
+### 特朗普称若伊涉迪拜航空事件将重击
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 手机新浪网
+- 时间: 2026-10-02 11:14
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE5HeENYZVpnSU9FU0g4Szk3enNVVUxXTkQzbnZ2aHREbkVMRTR4SC1xSHVWSjlMazIwT2hValFuRldBanYzYi1Pckc0MEVWSjVlZ05leDdJbHJKaVFmWmhnWlMyUkh2MmgtbTR5MU1NSkFoUQ?oc=5>
+
+### 10月2日外盘头条：特朗普称中期选举后或将加大对伊朗的轰炸报道称美将向中东派遣第三艘航母
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-10-02 05:45
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9POTVQNFI1cndIUlJZYkVDWGc1OGxwdmZPUzdtZG92dHQwOUljelhDYm56U1hqWHlmYjdUYkxGei1TLVdUaGpmNFBsRnh1Yl9VR2FlVnNRUUI1MkNRQndhNDl4Q1hhZzlETFA1SmlmM1p1cTE5cXo3dQ?oc=5>
+- 时间: 2026-10-01 22:04
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNUpuUWJFS1FXUXZrTExFM2pjR1ZiQlFIelVRXzFZcURoU1ByRnEtMWc3c3dJWmtoTEo5ZHhrNUYyX0dENzFya1c4SzQxa3c0UDJWQV9Cem5JbkxyOVBqbUdXNWN4ZHRHcnFaM19iOUowUVpGaWZObzBJNFFrSTNBODlZaHg3cWpuVW5QRWt1OGxPUFd3bUhvc0dzaklaWkszZkg2VnBJRlNKc1VHOF9UMzJrQ3lQVEhJejRLZDZPWUxZYklIcGpQbmFEOFFNZ2tf?oc=5>
 
-### 马斯克将重返特朗普政府，参与牵头“子午线计划”，研究未来战争形态
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-10-02 06:16
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFA2N0xPYThscjBNOG1FQmZSQkk3ek5Uc2l2aWVXdnlrT2dQV1FPNzZtMTYxNkctVUx4YkduYl9nMlREUVhFclhUOENqX1VvczJFZFE4NjJoaF9mWU1CU2VmaGpfd0ozeklqcFlfaFVGZm5nYWZQZXhDXw?oc=5>
-
-### 特朗普重申，伊朗问题很快就会结束。
+### 特朗普：请假装上阵的人是我，我的名字也在选票上；如果我们没赢，民主党将会弹劾我；如果让他们重新掌权，美国将被摧毁
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-10-02 01:19
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1vSTRiYWo3RVJYNFFrSkpaUVZEaGpXWndPMkxWSTJ4TGNudGdZNzdCNHNERXAwVzZZRkRpWnBndXRvalFtVUV5ZVNfQQ?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-10-02 12:14
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5qTEJlckZKVlFqWGdCMjZvcHBiU2c3WUo2aVY1aW1PNGlyTktyOGczOU9KOEFKamxyU2N2OHZwOEVBM1ZmMWt0X3JibTE?oc=5>
 
-### 马斯克将重返特朗普政府 参与牵头研究未来战争形态
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-10-02 06:11
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9nV09uT2pGLU5IV0JNTlBLWktuUnB4VUlvQUZzR0JxR21ZejF0QmJvZmZ2Z2dTUG1FcHEtR0h1eVhmZERFRW1aNzlCeXJrZG1kY3RYNUZHMldmSTVhNmN2Yk1tRDdqTzk1RlJzSW5wYm8zUVZNeVVvcUEtT1JnYzA?oc=5>
-
-### 美国2026年中期选举成为特朗普信任投票，两党博弈激烈
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 虎嗅网
-- 时间: 2026-10-02 01:00
-- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTFBvTl9mSURyQlBhQnVxLTdRRHYzQUlWWGZsVERRNkhwc3ZPU3Q2a0V5MXo1M2tYc3RrVHAyZ0ZBSnVNd2YyOTBpd3R2cjVSSC13R1E?oc=5>
-
-### 特朗普将出席Meme币TRUMP第三次晚宴，活动定于11月22日举办
+### 美国专栏 - 一场不能输的AI竞赛 美中在安全与领先间拉锯
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: TradingView
-- 时间: 2026-10-02 00:08
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpQkVXUnBhNWsxWjZ1V2VRUUpEZ2JZT2ZfTkRrODJhSzlKMExpMzRtTk5ackVsa01wWVVDUnJIYmpuNG9fUU5MQ3ZZTEtMR0FtV201cTc1dmlyQjc0RzRDZHVxOW9jUVk?oc=5>
+- 场馆: RFI
+- 时间: 2026-10-02 11:58
+- 链接: <https://news.google.com/rss/articles/CBMikANBVV95cUxQbmNLT195cTRTcURsdEY2T0x0Y3MwTWZuejVGRW16c3JjRXNTWEx6bjVfem12cFlvc3QtWDFCVVBxTEtYR3hxSkt1cGx6bEZSaDJ2cG04Y2NfNGl0NzA0TG1GbUlBdkttaFZqTVZ1eWM1WE9tcDBXbUgzcjV1X1lTbU1XcXhUX214S1pJQlVSWTVvTGMtRldSUnlDdllIZVE3SW5xMS03MjM2dVhaYXhlTjZYT1E5ZUJrS3FpRUtYZ0Q5OTJTbHFKMGx6eGFSQzJGc0lwM2d6bWw3aTREQ2dPV2FpVFp6dlJiVm9iOHNTSHBNWmpacGVVUHpoWHoyeWRkUjluSDFET01PMHR5bkt6eFE5b01MMk5RSjRVMTJZOFJnUGNjVjM1M3U5UnRMSFFYSWVRMFlweWVVUi1xVzFQbGFPRmM0c3dvTGRTTEtvSjFXd0RTTWhUTEJoNEVyMFBkaXRWS3JyWDhlVjFSRkp1QzZxTGtFRWp1NXBXQ0swSXE0cUlhOUNINDZFRncwdVJm?oc=5>
+
+### China 'cannot get' the oil: Former Trump adviser
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Fox Business
+- 时间: 2026-10-01 22:11
+- 链接: <https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YblFYM3JNZklsSnhJTElfYTVaOWVaNVdkNUowUzZFWkJNSGN3Rk03M19RSFMwQ1F0ZGxPbXE4TWlUSWhWT0xfTlN5dWFPUkFWWUVJcGN5Rzhwems?oc=5>
+
+### 拯救黎智英：港媒引消息指美驻港领事邀港商界襄助遭冷待
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-10-02 08:09
+- 链接: <https://news.google.com/rss/articles/CBMijANBVV95cUxOc0Q0UXdPMExBbHRmSWJ5WHBtenhmdERzZ2ptbTdOeWFoS2E3VGlOSnJUZGxrU3owTktvUXFia2twVUJUdVVBR29CRVVsbDJtMWxfM1EwaDJtdERkZFR3cm1iNzd6MkFMalpHRWZ2dVViVHhXZ3YwX2pRTGdvZGNCU1QyVnR5OE16a25iZ0pDeWNhekRyNTVNMERqdENmNTVVTGZUeDU3Si1nQUU1LUxPMThzQkdNVWN1cUZuN2k3TzJYQUNKY3Y2OGtLMEFnb3plSnhBZXRLZlZqN09pdFdwdk9xSkQ0enJEdkd0OXY1d3loeEVyM281djFxRmZHNVNNdDQzTVhlUzdwaXhiSFFDYndIMjkycW9JZ3JWTDdQNHhuWXdHemNacDVWeHltdGZRWEdCcEJta0Q0Wk1HY19WaEdQVzZIb2VPVzVNaVlsVE12MEFKem9hQUJfU3pwa3NJeFd6VXl1aFB0X0l6R0RKYjZPVTRabWp1aE1IbnhzWnBoNi1Xb0VXME9hRFo?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-02 13:59  (13 条)
+
+- **王一博** | 王一博发布巴黎图集，多角度随拍 <https://k.sina.com.cn/article_1496814565_593793e5040026eq8.html>
+- **特朗普** | 普京谈与特朗普关系 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9vcm42SVFWbm9xUkZUUGVPczJ2NVZfVzFzTmhMSVRCOUFvT3R3S1pRdGFYSGprMlVNVzhEWTM3ZE9DQmlDX2hCRkJDX1Y?oc=5>
+- **特朗普** | 普京：与特朗普保持着相当良好的关系 赞赏其解决俄乌冲突的努力 <https://news.google.com/rss/articles/CBMicEFVX3lxTFBPRFBXaDBVUkU4NzF0d3gtTVJuQWZvc1M4dHAySDl5RXBiNWhpZC1iX2d1STEzVHpXcWdVTVBXYTdpNEFISUlCdlZid1owWVVJNmZMRGg0aUJLMW1ZbHVXWjV3aVYzT29tYmFtMzdmdHc?oc=5>
+- **特朗普** | 特朗普抱怨“后悔”提名美最高法院三名大法官：他们老是投票反对我 <https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdWFlSkxuYnNCdXdiMmlCOTZsOFFTaU9UMzdRZTBURmxyNzdSLUlWQTJid3ZNLTBKeHQ5VmhRYVFCdGxjQTdPb2piZjNUNV9oWHYxd1pCa3BfRWsxSWhhTTBOeVItb3V5STdTUzZOQXg2SHFMemVkQ0g0d1VkWlZSeGFmZFBtSFdo?oc=5>
+- **特朗普** | 特朗普很不爽：我提名的大法官，怎么老反对我 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1RcVZneUwwcHhwd0VxWThNdUVaYXJJX2VISkN5QlBHelRuRDAzRHFDbG1LU1dQZ2Jrblctc2J2ajZEZDhETHctdnpjM1Y?oc=5>
+- **特朗普** | 特朗普又赢了，美最高法院：可继续将移民驱逐至第三国 <https://news.google.com/rss/articles/CBMic0FVX3lxTE5SNjBkVmhFUFBLT1FEb3FONWNQYnA0NjNCa1Y4bFJtQ1JDSFBhTVNrSHNzV2FsQ2g1dUZlUHI0OHZ4SGFCMFFnNXFtTElma0VWczZGUlFJRVRzUlR5eWgzV3pnTVk5dllTcmM1UUpvU1pyX00?oc=5>
+- **特朗普** | 被特朗普点名后，欧盟紧急讨论释放5000万桶柴油库存，油价短线急坠-市场参考 <https://news.google.com/rss/articles/CBMiT0FVX3lxTE95R0FBLUNuemo3VzVKWXNMTTVWeGJrQmpia3JQTjZSWUpxNUtoRHN0WHBwRDVKak5zOVJ2b0xMY045SGxiVWZDbl8tR09YcjA?oc=5>
+- **特朗普** | 特朗普称若伊涉迪拜航空事件将重击 <https://news.google.com/rss/articles/CBMickFVX3lxTE5HeENYZVpnSU9FU0g4Szk3enNVVUxXTkQzbnZ2aHREbkVMRTR4SC1xSHVWSjlMazIwT2hValFuRldBanYzYi1Pckc0MEVWSjVlZ05leDdJbHJKaVFmWmhnWlMyUkh2MmgtbTR5MU1NSkFoUQ?oc=5>
+- **特朗普** | 10月2日外盘头条：特朗普称中期选举后或将加大对伊朗的轰炸报道称美将向中东派遣第三艘航母 <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNUpuUWJFS1FXUXZrTExFM2pjR1ZiQlFIelVRXzFZcURoU1ByRnEtMWc3c3dJWmtoTEo5ZHhrNUYyX0dENzFya1c4SzQxa3c0UDJWQV9Cem5JbkxyOVBqbUdXNWN4ZHRHcnFaM19iOUowUVpGaWZObzBJNFFrSTNBODlZaHg3cWpuVW5QRWt1OGxPUFd3bUhvc0dzaklaWkszZkg2VnBJRlNKc1VHOF9UMzJrQ3lQVEhJejRLZDZPWUxZYklIcGpQbmFEOFFNZ2tf?oc=5>
+- **特朗普** | 特朗普：请假装上阵的人是我，我的名字也在选票上；如果我们没赢，民主党将会弹劾我；如果让他们重新掌权，美国将被摧毁 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5qTEJlckZKVlFqWGdCMjZvcHBiU2c3WUo2aVY1aW1PNGlyTktyOGczOU9KOEFKamxyU2N2OHZwOEVBM1ZmMWt0X3JibTE?oc=5>
+- **Trump** | 美国专栏 - 一场不能输的AI竞赛 美中在安全与领先间拉锯 <https://news.google.com/rss/articles/CBMikANBVV95cUxQbmNLT195cTRTcURsdEY2T0x0Y3MwTWZuejVGRW16c3JjRXNTWEx6bjVfem12cFlvc3QtWDFCVVBxTEtYR3hxSkt1cGx6bEZSaDJ2cG04Y2NfNGl0NzA0TG1GbUlBdkttaFZqTVZ1eWM1WE9tcDBXbUgzcjV1X1lTbU1XcXhUX214S1pJQlVSWTVvTGMtRldSUnlDdllIZVE3SW5xMS03MjM2dVhaYXhlTjZYT1E5ZUJrS3FpRUtYZ0Q5OTJTbHFKMGx6eGFSQzJGc0lwM2d6bWw3aTREQ2dPV2FpVFp6dlJiVm9iOHNTSHBNWmpacGVVUHpoWHoyeWRkUjluSDFET01PMHR5bkt6eFE5b01MMk5RSjRVMTJZOFJnUGNjVjM1M3U5UnRMSFFYSWVRMFlweWVVUi1xVzFQbGFPRmM0c3dvTGRTTEtvSjFXd0RTTWhUTEJoNEVyMFBkaXRWS3JyWDhlVjFSRkp1QzZxTGtFRWp1NXBXQ0swSXE0cUlhOUNINDZFRncwdVJm?oc=5>
+- **Trump** | China 'cannot get' the oil: Former Trump adviser <https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YblFYM3JNZklsSnhJTElfYTVaOWVaNVdkNUowUzZFWkJNSGN3Rk03M19RSFMwQ1F0ZGxPbXE4TWlUSWhWT0xfTlN5dWFPUkFWWUVJcGN5Rzhwems?oc=5>
+- **Trump** | 拯救黎智英：港媒引消息指美驻港领事邀港商界襄助遭冷待 <https://news.google.com/rss/articles/CBMijANBVV95cUxOc0Q0UXdPMExBbHRmSWJ5WHBtenhmdERzZ2ptbTdOeWFoS2E3VGlOSnJUZGxrU3owTktvUXFia2twVUJUdVVBR29CRVVsbDJtMWxfM1EwaDJtdERkZFR3cm1iNzd6MkFMalpHRWZ2dVViVHhXZ3YwX2pRTGdvZGNCU1QyVnR5OE16a25iZ0pDeWNhekRyNTVNMERqdENmNTVVTGZUeDU3Si1nQUU1LUxPMThzQkdNVWN1cUZuN2k3TzJYQUNKY3Y2OGtLMEFnb3plSnhBZXRLZlZqN09pdFdwdk9xSkQ0enJEdkd0OXY1d3loeEVyM281djFxRmZHNVNNdDQzTVhlUzdwaXhiSFFDYndIMjkycW9JZ3JWTDdQNHhuWXdHemNacDVWeHltdGZRWEdCcEJta0Q0Wk1HY19WaEdQVzZIb2VPVzVNaVlsVE12MEFKem9hQUJfU3pwa3NJeFd6VXl1aFB0X0l6R0RKYjZPVTRabWp1aE1IbnhzWnBoNi1Xb0VXME9hRFo?oc=5>
 
 ### 2026-10-02 07:13  (9 条)
 
