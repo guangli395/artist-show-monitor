@@ -1,72 +1,91 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-02 23:07**
-- 本轮扫到 13073 条, 新增 **7** 条
+- 最近更新: **2026-10-03 02:10**
+- 本轮扫到 13081 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (8 条)
 
-### 特朗普：密切关注巴西大选。
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-10-02 20:03
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5lZE4yQXBFdy1YTUNkckoyaDB4ZDc0RXdrUGlMRld3aTdzajNWUnNRckJSZnE3NDl4U2NWaFE3dGllMFJXYTBIcjRBOA?oc=5>
-
-### 物价高涨冲击特朗普民调 65%美国人认为政策难辞其咎
+### 美国不禁运柴油了，特朗普：小小G7，轻松拿捏
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-10-02 20:51
-- 链接: <https://news.google.com/rss/articles/CBMi7AJBVV95cUxNX2dGNkRKeFdUUEF3clJzVi1lWDdxSW81QnZXbTZQOG1ERXZzMl9DcUFMYm1BQW1RWFd4N3IwRGtBYzNVR1p3eUIzM0FiSGJ5Q28zOWFzLUkwSDhPNXloY0dDOFBzbmhZX3ZxX1BfeTd6UDZ2OFByT2Q3MmI4RDJzUUdVQmdYazVzT0RPbzBib0E5Y0dkYlJLaTExQzFYU25nTkJSV0t4Y3E4VnlNd1JROVVZYUVKMlBWUTB5eURNanVqU2hRUzI4Y3ctbkpGRDVUZ3o3U213UXI4VkhkQmdNdTZJTVZ5TTI0VDMzaGNFSElEejBnR2VMXzE1YllrMzFvc0NSWlo0a3JsTkgwcnNtVlR1dndHdnMzLXRqWXIxdEREM0kyZlNnVDVmWnVGT2NWbndEaVFhUkgxRm9XWGZ2QzdWLU12N2ZEUlYtX1JJS1A1Y1B5SDhLenBCYnJjM05JQ3FlcFhNdnJZZ0tN?oc=5>
+- 场馆: 观察者网
+- 时间: 2026-10-02 23:39
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFBRb0h5cGVDYlpzLVVtMzBFN3lXOXk4MGJ3SGZkWnBoOUpUcm44YjVfMms3NmZMUWc2ZUhzUld0eGdnT0tOaVI5QXR4OXl3TVdiYUZ6c1gtZHJCV0RyZFVab3ZlQnVlZTVRZ3pRSGRHajlidkE?oc=5>
 
-### 特朗普谈及柴油：我们与欧洲关系十分良好。
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-10-02 20:00
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9YQlBuUU5UOGJYZmZ1V3hlTGtvTmxGN2VBSFgxUmlleXFIVzAxVVlOX1ZOcUN4c3pEWmVXbGc0dmd5eGQ5M3MwYkFBYw?oc=5>
-
-### 特朗普提议人工智能改称SI，斯洛文尼亚域名注册量暴涨
+### 特朗普：与伊朗的战事很快将结束
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-10-02 04:52
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBZSDNTdnAwSkN2ak1tQkp4d1hhQi1vVkE5TEVnMHBIUG90dks4RUV2UWNiQ2tYd2FJbUczeFpPREZoa2d0c2hQWFlCeFY?oc=5>
+- 时间: 2026-10-03 00:18
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE0wakJiTTZrUUg3SzVKelExUVplMUdCeDdaRXRWdUVQd3pnZG1qLV8wUlRTMGxMeEFyYVVhUjN4REU4dEVEN20tQVZXSWc?oc=5>
 
-### 普京谈与特朗普关系
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-10-02 13:52
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE9fcVcxOEJXUi1CUWhuUzZEbXU5cG02TkJoOUgycTdKZnRwRlVYUDRGalZ0TmFwY1oxQUpUdVR1UUtuakdteTJGTU9WMFRNdlpwN29Sd0VPT0VmUnMtUGF2Q2Nkcjh0bTV5UF96UWhSaDZuZw?oc=5>
-
-### 普京谈与特朗普关系：我们保持着相当良好的关系
+### 特朗普：战事将“很快结束”，伊朗永远不会拥有核武器
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: finance.sina.com.cn
-- 时间: 2026-10-02 10:50
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9CSnh1SjRLZlN0c2NnN2s1VVdGLVU5VjdaUnJMRGNGdjBLNjhhZlU1T1JGam1WbFBxakdvY2hFNUNFdEF6a3R5cjR6aGlaYkNfU3lva0ZidmJQT1UxamluUnl1MVF6SjNlaFdsVFI5d3Q0X0k0Y1pPRw?oc=5>
+- 时间: 2026-10-03 01:28
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBidWJXZ3ZmTGRCdXh2bVUxYzN3NGc3eHd6VFZUSXdJOWRXSllRRFBkaHNZYlgzeDdoUFAzVE1Ic081UEhVV3RvQVJETXZnT3d3THZkM2JaZ0FjNDFjLTRXVmR1aTVtSXdzX3A5ZXRFdExJQkdlVWh2Vw?oc=5>
 
-### 美国总统特朗普表示：美国不会实施柴油出口禁令
+### 特朗普重申，伊朗战争结束后油价将会下跌。
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-10-02 23:50
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBBY0o3OGJGdjEyY3hiYkdWOE1TSDdndzMweHgwd1BkT0ZjT25nZ3AtcjJSZHlsNm9pVzdQdFViR05fLUVFSHM0SThJWQ?oc=5>
+
+### 巴西总统：我们发现了巨量石油，特朗普恐怕会眼红
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-10-03 00:27
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBMdFJacmprQmY5MktYbkUxVG90dnRiQUdmb2F4ZzU2Q0lyUXI4SHRBMHVGd0J1SU5BYlZ0SFZERi1TRVhpdC1EcDd4TEs?oc=5>
+
+### 特朗普威胁11月选举后或恢复对伊攻击 美军又向中东增兵
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 财新
+- 时间: 2026-10-02 14:35
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBOU294QkdmZVRORE5xQWFDN2xfTVRGQ1h3dzlZYVVmSVk0SmEwYmRUeTJmS2FTaTh6T3BaQ2V3WTFvVkZzNW93ZGtqX0xYVUR0QXRPbFRUOGlLNEFZNS1oQVFDNklWWkZaalE?oc=5>
+
+### 马斯克将重返特朗普政府，牵头研究“未来战争形态”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 搜狐网
+- 时间: 2026-10-03 00:39
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxQZnVGWWJzaExKblI5UUxXZERCMXZnM2F4aGV4M1dpNmZ2UG93XzFQR0s3ZlQ1R2dWZ0I3ai1ZSFF3YkJYaFdjc1d0aXhLWkFfWndncTJKQVpCNkFhdGtJMEZJY1k5RFZiQWVkSU84Z1h2SUpkTWpNQXhZeUExZzJzMDF5YllvWV80eFBSRA?oc=5>
+
+### 美国总统特朗普表示：伊朗的情况不太好
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 东方财富
-- 时间: 2026-10-02 20:05
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fbi1aQ25ITnJidGxLWEpJRWR2OE1WSlZwY01xMTNtMGZQMVVUUmRNZDY4Qm1WQWFOSGlERFo4Y09rdGRDX1JqNVZKS2NSd3dFYVdIaFVER1B1TEJWakpuUQ?oc=5>
+- 时间: 2026-10-02 20:03
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUWmVRNDk1TXNnMmVwVTFvRHlEcE9HMWhaMGIwS0s3VGNhUHN1eG9TTjd2cGdNTF9uTFhocTI1TmZua3RUMjZtZmxkb0FHR20zaTdRUVhJQXdfY203TkhWYQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-03 02:10  (8 条)
+
+- **特朗普** | 美国不禁运柴油了，特朗普：小小G7，轻松拿捏 <https://news.google.com/rss/articles/CBMic0FVX3lxTFBRb0h5cGVDYlpzLVVtMzBFN3lXOXk4MGJ3SGZkWnBoOUpUcm44YjVfMms3NmZMUWc2ZUhzUld0eGdnT0tOaVI5QXR4OXl3TVdiYUZ6c1gtZHJCV0RyZFVab3ZlQnVlZTVRZ3pRSGRHajlidkE?oc=5>
+- **特朗普** | 特朗普：与伊朗的战事很快将结束 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE0wakJiTTZrUUg3SzVKelExUVplMUdCeDdaRXRWdUVQd3pnZG1qLV8wUlRTMGxMeEFyYVVhUjN4REU4dEVEN20tQVZXSWc?oc=5>
+- **特朗普** | 特朗普：战事将“很快结束”，伊朗永远不会拥有核武器 <https://news.google.com/rss/articles/CBMieEFVX3lxTFBidWJXZ3ZmTGRCdXh2bVUxYzN3NGc3eHd6VFZUSXdJOWRXSllRRFBkaHNZYlgzeDdoUFAzVE1Ic081UEhVV3RvQVJETXZnT3d3THZkM2JaZ0FjNDFjLTRXVmR1aTVtSXdzX3A5ZXRFdExJQkdlVWh2Vw?oc=5>
+- **特朗普** | 特朗普重申，伊朗战争结束后油价将会下跌。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBBY0o3OGJGdjEyY3hiYkdWOE1TSDdndzMweHgwd1BkT0ZjT25nZ3AtcjJSZHlsNm9pVzdQdFViR05fLUVFSHM0SThJWQ?oc=5>
+- **特朗普** | 巴西总统：我们发现了巨量石油，特朗普恐怕会眼红 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBMdFJacmprQmY5MktYbkUxVG90dnRiQUdmb2F4ZzU2Q0lyUXI4SHRBMHVGd0J1SU5BYlZ0SFZERi1TRVhpdC1EcDd4TEs?oc=5>
+- **特朗普** | 特朗普威胁11月选举后或恢复对伊攻击 美军又向中东增兵 <https://news.google.com/rss/articles/CBMiakFVX3lxTFBOU294QkdmZVRORE5xQWFDN2xfTVRGQ1h3dzlZYVVmSVk0SmEwYmRUeTJmS2FTaTh6T3BaQ2V3WTFvVkZzNW93ZGtqX0xYVUR0QXRPbFRUOGlLNEFZNS1oQVFDNklWWkZaalE?oc=5>
+- **特朗普** | 马斯克将重返特朗普政府，牵头研究“未来战争形态” <https://news.google.com/rss/articles/CBMijAFBVV95cUxQZnVGWWJzaExKblI5UUxXZERCMXZnM2F4aGV4M1dpNmZ2UG93XzFQR0s3ZlQ1R2dWZ0I3ai1ZSFF3YkJYaFdjc1d0aXhLWkFfWndncTJKQVpCNkFhdGtJMEZJY1k5RFZiQWVkSU84Z1h2SUpkTWpNQXhZeUExZzJzMDF5YllvWV80eFBSRA?oc=5>
+- **特朗普** | 美国总统特朗普表示：伊朗的情况不太好 <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUWmVRNDk1TXNnMmVwVTFvRHlEcE9HMWhaMGIwS0s3VGNhUHN1eG9TTjd2cGdNTF9uTFhocTI1TmZua3RUMjZtZmxkb0FHR20zaTdRUVhJQXdfY203TkhWYQ?oc=5>
 
 ### 2026-10-02 23:07  (7 条)
 
