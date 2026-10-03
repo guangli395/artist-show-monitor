@@ -1,82 +1,170 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-03 08:23**
-- 本轮扫到 13090 条, 新增 **9** 条
+- 最近更新: **2026-10-03 13:34**
+- 本轮扫到 13109 条, 新增 **19** 条
 
 ---
 
-## 本轮新发现 (9 条)
+## 本轮新发现 (19 条)
 
-### 陈都灵的粉丝见面会一般会有哪些环节？
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801m7ki.html>
-
-### 这次联动对蔡徐坤的演唱会有什么影响？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879995911_1d5af320706802om00.html>
-
-### 人生第一场演唱会只留给周杰伦
+### 青岛故事丨26年老粉带女儿来看周杰伦演唱会
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1899227237_m7133e86503308po24.html>
+- 链接: <https://k.sina.com.cn/article_1647210043_m622e6e3b03301rsna.html>
 
-### 特朗普恼了：韩国竟敢“打我脸”，再不投钱就报复
+### 周杰伦青岛演唱会邂逅绝美晚霞
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1789681642_m6aac5fea03308ppmg.html>
+
+### 周杰伦鸟巢演唱会粉色海洋是如何形成的
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801m86u.html>
+
+### 青岛故事丨14岁男孩拄双拐来青岛看周杰伦演唱会
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5953466437_v162dab0450670be4ye.html>
+
+### 青岛故事丨周杰伦青岛演唱会邂逅绝美晚霞
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1668589317_m6374a70503301j1ca.html>
+
+### 周杰伦青岛演唱会今晚开唱，晚霞见证杰迷热爱
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1899227237_m7133e86503308ppgk.html>
+
+### 周杰伦演唱会粉色海洋应援奇观是怎么形成的？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801m82k.html>
+
+### 粉色海洋刷屏！周杰伦演唱会为何成集体青春梦？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801m82g.html>
+
+### 26年老粉带女儿来看周杰伦演唱会
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1789681642_m6aac5fea03308pp62.html>
+
+### 周杰伦演唱会期间，青岛这些主题打卡地等你来
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://finance.sina.com.cn/roll/2026-10-03/doc-inityccx0582297.shtml>
+
+### 特朗普发帖称共和党必须赢得中期选举
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-10-03 03:11
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE9lUThUVVZFcFRiNk1TSFFCejh6MVMtU2pvb1hXOUFocnhSNmFHM0RsNnlvX2owMlZTN0VPVDFmOHBGMGlCaGtDNV9iYnNhWGtaUEp4Umt2dW1DYzNmNzcxUmZGaHZRaGx0OW1XdGhTdE5YWFU?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-10-03 13:23
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1WOVdlWk94RnZ3czc4ZjRRLXRxd1YtVkVZZTRvRUd4MWtLRkg5eUx0VXBUUWxRaWRiZExPemNCdGktOG1fUUFWMDBKYw?oc=5>
+
+### 习近平访美特殊休息时间让他与特朗普的峰会缩短数小时
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-10-03 12:35
+- 链接: <https://news.google.com/rss/articles/CBMiiwNBVV95cUxPVVpucjdNaGV2VTM2Qm5yUjBIQ3FBSXEwd1J4Vi1ZZVYzWFl3YWktVC1hT1YwX3NKamFxT01YbF9RdzZ0LUJGZktkeGZDbTdMNm1PdUJKMGtoM25PSXQwcE1qTVdVWWM3bE51YzBiSmdvMk1iRF96LVdRSVhmMU11OUIyeGhnVHNNQnBPbTJ1R3JJRThYdTctNF9DZ2I0eFYySUhyTTlQZWpzM1V6NlhuS2VoOWg4TnRqS0VTX2ZyWjlpQmV6eHEyaXlIMk9keWJydWl4NXhzTjNodDEzb0Q2YVBXSDE2eWxGSkd6NkN4YlNnZ2FVMDY1MzRBWks3XzNvdURFMF9qeTFseVd5VzFsYTdtWGlVZjluOEZhRDdTcjBxb1VxQ1RHSjVrV0xFYXdxSU5sc1d0WTNQdzR4b2V5ZlByemtXVHZab2xVZ2ZzWDJCVklfTWVsYkJfdnRtQUlSY0FSS2JYRkpjRUpLcTg5WEMzY0RDdWg1MjdfYXpuaG1YZF9HOEpqcHJVQQ?oc=5>
+
+### 特朗普30小时内第三场紧急会议后疲惫返回白宫
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 手机新浪网
+- 时间: 2026-10-03 12:18
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE9HMlFmRnBaQm90RnRfcldLd01Td2dJRGRwbGhyUFhrbDQ1TlNaTVpQTzRtQWROdEotNG4tMVp1U3gyZlpmVUs5NEI0bUY4SDFERlNZbWNQdDlIcEZwRlBGMWhXSjJTZVhjdkpmV2RDdjVKX3c?oc=5>
+
+### 特朗普威胁韩国：不尽快签字，就加倍收费
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 搜狐网
+- 时间: 2026-10-03 09:57
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxPRGtOZmhscmFkNDJDWU9idDVCRm1CSG1FcldWd0RmZlZIMDU0bHlXU3RMYkh6WTdITlhBbjhUeDhIa0lFWEFWdEtkd1p0c0RHeUdudlJSWjFsTGo3NzEwMmZSejZLemRpc0dlWVNYd1FZdWNTQnhXblJJY0RvSnF6RGpFTjdlZ0VuUU1oRQ?oc=5>
+
+### 向中方释放某种信号？特朗普计划出席东盟峰会
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-10-03 10:07
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1RZEhta3doa2Y3ZFhpc1gtZDRhOFhUamhicjVhQ2xKbHhFVWNpVVAtQzl6RldGQVZ3RW8wMWpvZk9TM1lNWUxlMWVhNWI?oc=5>
+
+### “高度不寻常”，万斯、鲁比奥、赫格塞思等密会！特朗普：伊朗情况不妙
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-10-03 12:05
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE42S05qS0JTUU9VYlJFWHp3UDhubkd1NDFuVk4waUppY3ZkMExxY2JsSlV6dGx1d1BSaERvZS1NWk1yMFZIczlDMmNBWVR5X1U3a1JCcUVBUnFBSDBtNFhzRUxuU0VycjRyb3lWSGY4cEhnSE5QZERGRQ?oc=5>
+
+### 消息称特朗普内阁成员在戴维营秘密开会 讨论伊朗和也门问题
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-10-03 11:14
+- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxNNTBtdU5yc21vcTd0YWhUOG93b3R0am4xbWFrUk1xc3VZRVp5VTNtWnRNaUViSTI4MWZFWVdqaFQ1Y2p5bVBURXhOTlk0Y2pNUjNmRVYxaWlIZGpPcDNiQUpYdXFjZXExQUZZV1M3ZnVOaTRuR0dCZUtycl9iZk5UOVNMY2c5cDlnTDVEVDZKWm5vMktWdm9nUVBhaG1tOXl6?oc=5>
+
+### 卢卡申科“感谢”特朗普：他把西方政策的真面目暴露无遗
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: huanqiu.com
+- 时间: 2026-10-01 23:05
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ObXhIYmFhd3FJRVlXRDFIOFVJZ28yYzBTX0JwWXB0a1htTnVKMFdtdENDeTJ0MTl1VVBOWW84Q1FQVDB0RGxfNnRwMEtvWWpSRF8w?oc=5>
 
 ### 特朗普威胁韩国：不签字，就加倍收费
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-03 07:12
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBZTkVOSG1MUUx4X2FIRkR0YjItTjBBV3BjLXE2cmptcmg3cElWZUY5eFk4VnQ0eEI0cWI5aEZhNkt5UkFwLWpPNXlOVXY?oc=5>
-
-### “单方面”宣布韩国对美投资项目后，特朗普又放威胁，不同意就征收双倍费用
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: sohu.com
-- 时间: 2026-10-03 06:26
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxNVkxIMTBOcFNGRTI5V194WGNQWVVqOExPZHNzdE1icnFSV2ZiX3FDVEp6bmlqZ1VTNURzZU1UM2pKcTdjVmJBX2FvWExtOTdzS0h3SUxYTjlna0RKQTZQNUxSenotUjBsUWdJc200dkplTGxTYXBWMjNJMUt5YjIwdjYwT0JrQVlJakMybQ?oc=5>
-
-### 特朗普称对伊朗下一步行动“进展顺利”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 央视网
-- 时间: 2026-10-03 06:32
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9OR2txNHFYT3Z5MnVJNVJlVTFwMzJSRUFlckt1emdLQUdLdE5hRmJ4cUtlMkM3ZENlRUlwTXVma2c0ekl6aDRIN1gyb3FId29POUlhOWp1WXI2cnBsU2g4a0E2YkxUV1Nkbnc2UWRWSl9DYUlJcnVZLQ?oc=5>
-
-### 特朗普宣布：向2000万优秀老年人发放近100美元“医保补贴”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-03 07:32
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBWUXZoSF9NVC1Bd3NCbmpkQWJGa3RBaDBZYlFhTXlMZEpDTjRwVHpjVzhidHRSOHdZMkJmMnVqWmZodXNyRXVhTjNNZU0?oc=5>
-
-### 特朗普拿下了格陵兰岛？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-10-03 03:32
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTFBXOGNneWZ1QTZlU2hVOUhRNWx0ZFowR1BGRzRWT2xSbXdMcDJBcFBBRk5wZ1NqR1RobHR5c1VYSlRtejVza25iajNXdXhGa21HeENLcEdMMVpaTEYyaUh2VXJ5S01JU190UjUzZU1TODlVcHBt?oc=5>
+- 场馆: 新华网
+- 时间: 2026-10-03 07:22
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9EMWVmWEEzeXFuWDNvOHByc0hWZk1yeUNvQS11U3ZLSTNzUy1FU2hIb1h6cHFZbEZfUTY0aGZYUENWOG8zaURnaDV0UUlQNUdvMXBTWTFWTGVvYnZMUFNKZEg4aHRWSTEtM3prLW16SmNXVkhwbnJsUE9XZ1RrZTQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-03 13:34  (19 条)
+
+- **周杰伦** | 青岛故事丨26年老粉带女儿来看周杰伦演唱会 <https://k.sina.com.cn/article_1647210043_m622e6e3b03301rsna.html>
+- **周杰伦** | 周杰伦青岛演唱会邂逅绝美晚霞 <https://k.sina.com.cn/article_1789681642_m6aac5fea03308ppmg.html>
+- **周杰伦** | 周杰伦鸟巢演唱会粉色海洋是如何形成的 <https://k.sina.com.cn/article_7879923021_1d5ae154d06801m86u.html>
+- **周杰伦** | 青岛故事丨14岁男孩拄双拐来青岛看周杰伦演唱会 <https://k.sina.com.cn/article_5953466437_v162dab0450670be4ye.html>
+- **周杰伦** | 青岛故事丨周杰伦青岛演唱会邂逅绝美晚霞 <https://k.sina.com.cn/article_1668589317_m6374a70503301j1ca.html>
+- **周杰伦** | 周杰伦青岛演唱会今晚开唱，晚霞见证杰迷热爱 <https://k.sina.com.cn/article_1899227237_m7133e86503308ppgk.html>
+- **周杰伦** | 周杰伦演唱会粉色海洋应援奇观是怎么形成的？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801m82k.html>
+- **周杰伦** | 粉色海洋刷屏！周杰伦演唱会为何成集体青春梦？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801m82g.html>
+- **周杰伦** | 26年老粉带女儿来看周杰伦演唱会 <https://k.sina.com.cn/article_1789681642_m6aac5fea03308pp62.html>
+- **周杰伦** | 周杰伦演唱会期间，青岛这些主题打卡地等你来 <https://finance.sina.com.cn/roll/2026-10-03/doc-inityccx0582297.shtml>
+- **特朗普** | 特朗普发帖称共和党必须赢得中期选举 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1WOVdlWk94RnZ3czc4ZjRRLXRxd1YtVkVZZTRvRUd4MWtLRkg5eUx0VXBUUWxRaWRiZExPemNCdGktOG1fUUFWMDBKYw?oc=5>
+- **特朗普** | 习近平访美特殊休息时间让他与特朗普的峰会缩短数小时 <https://news.google.com/rss/articles/CBMiiwNBVV95cUxPVVpucjdNaGV2VTM2Qm5yUjBIQ3FBSXEwd1J4Vi1ZZVYzWFl3YWktVC1hT1YwX3NKamFxT01YbF9RdzZ0LUJGZktkeGZDbTdMNm1PdUJKMGtoM25PSXQwcE1qTVdVWWM3bE51YzBiSmdvMk1iRF96LVdRSVhmMU11OUIyeGhnVHNNQnBPbTJ1R3JJRThYdTctNF9DZ2I0eFYySUhyTTlQZWpzM1V6NlhuS2VoOWg4TnRqS0VTX2ZyWjlpQmV6eHEyaXlIMk9keWJydWl4NXhzTjNodDEzb0Q2YVBXSDE2eWxGSkd6NkN4YlNnZ2FVMDY1MzRBWks3XzNvdURFMF9qeTFseVd5VzFsYTdtWGlVZjluOEZhRDdTcjBxb1VxQ1RHSjVrV0xFYXdxSU5sc1d0WTNQdzR4b2V5ZlByemtXVHZab2xVZ2ZzWDJCVklfTWVsYkJfdnRtQUlSY0FSS2JYRkpjRUpLcTg5WEMzY0RDdWg1MjdfYXpuaG1YZF9HOEpqcHJVQQ?oc=5>
+- **特朗普** | 特朗普30小时内第三场紧急会议后疲惫返回白宫 <https://news.google.com/rss/articles/CBMic0FVX3lxTE9HMlFmRnBaQm90RnRfcldLd01Td2dJRGRwbGhyUFhrbDQ1TlNaTVpQTzRtQWROdEotNG4tMVp1U3gyZlpmVUs5NEI0bUY4SDFERlNZbWNQdDlIcEZwRlBGMWhXSjJTZVhjdkpmV2RDdjVKX3c?oc=5>
+- **特朗普** | 特朗普威胁韩国：不尽快签字，就加倍收费 <https://news.google.com/rss/articles/CBMijAFBVV95cUxPRGtOZmhscmFkNDJDWU9idDVCRm1CSG1FcldWd0RmZlZIMDU0bHlXU3RMYkh6WTdITlhBbjhUeDhIa0lFWEFWdEtkd1p0c0RHeUdudlJSWjFsTGo3NzEwMmZSejZLemRpc0dlWVNYd1FZdWNTQnhXblJJY0RvSnF6RGpFTjdlZ0VuUU1oRQ?oc=5>
+- **特朗普** | 向中方释放某种信号？特朗普计划出席东盟峰会 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1RZEhta3doa2Y3ZFhpc1gtZDRhOFhUamhicjVhQ2xKbHhFVWNpVVAtQzl6RldGQVZ3RW8wMWpvZk9TM1lNWUxlMWVhNWI?oc=5>
+- **特朗普** | “高度不寻常”，万斯、鲁比奥、赫格塞思等密会！特朗普：伊朗情况不妙 <https://news.google.com/rss/articles/CBMieEFVX3lxTE42S05qS0JTUU9VYlJFWHp3UDhubkd1NDFuVk4waUppY3ZkMExxY2JsSlV6dGx1d1BSaERvZS1NWk1yMFZIczlDMmNBWVR5X1U3a1JCcUVBUnFBSDBtNFhzRUxuU0VycjRyb3lWSGY4cEhnSE5QZERGRQ?oc=5>
+- **特朗普** | 消息称特朗普内阁成员在戴维营秘密开会 讨论伊朗和也门问题 <https://news.google.com/rss/articles/CBMioAFBVV95cUxNNTBtdU5yc21vcTd0YWhUOG93b3R0am4xbWFrUk1xc3VZRVp5VTNtWnRNaUViSTI4MWZFWVdqaFQ1Y2p5bVBURXhOTlk0Y2pNUjNmRVYxaWlIZGpPcDNiQUpYdXFjZXExQUZZV1M3ZnVOaTRuR0dCZUtycl9iZk5UOVNMY2c5cDlnTDVEVDZKWm5vMktWdm9nUVBhaG1tOXl6?oc=5>
+- **特朗普** | 卢卡申科“感谢”特朗普：他把西方政策的真面目暴露无遗 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ObXhIYmFhd3FJRVlXRDFIOFVJZ28yYzBTX0JwWXB0a1htTnVKMFdtdENDeTJ0MTl1VVBOWW84Q1FQVDB0RGxfNnRwMEtvWWpSRF8w?oc=5>
+- **特朗普** | 特朗普威胁韩国：不签字，就加倍收费 <https://news.google.com/rss/articles/CBMif0FVX3lxTE9EMWVmWEEzeXFuWDNvOHByc0hWZk1yeUNvQS11U3ZLSTNzUy1FU2hIb1h6cHFZbEZfUTY0aGZYUENWOG8zaURnaDV0UUlQNUdvMXBTWTFWTGVvYnZMUFNKZEg4aHRWSTEtM3prLW16SmNXVkhwbnJsUE9XZ1RrZTQ?oc=5>
 
 ### 2026-10-03 08:23  (9 条)
 
