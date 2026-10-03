@@ -1,80 +1,94 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-03 02:10**
-- 本轮扫到 13081 条, 新增 **8** 条
+- 最近更新: **2026-10-03 08:23**
+- 本轮扫到 13090 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (9 条)
 
-### 美国不禁运柴油了，特朗普：小小G7，轻松拿捏
+### 陈都灵的粉丝见面会一般会有哪些环节？
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801m7ki.html>
+
+### 这次联动对蔡徐坤的演唱会有什么影响？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879995911_1d5af320706802om00.html>
+
+### 人生第一场演唱会只留给周杰伦
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1899227237_m7133e86503308po24.html>
+
+### 特朗普恼了：韩国竟敢“打我脸”，再不投钱就报复
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 观察者网
-- 时间: 2026-10-02 23:39
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFBRb0h5cGVDYlpzLVVtMzBFN3lXOXk4MGJ3SGZkWnBoOUpUcm44YjVfMms3NmZMUWc2ZUhzUld0eGdnT0tOaVI5QXR4OXl3TVdiYUZ6c1gtZHJCV0RyZFVab3ZlQnVlZTVRZ3pRSGRHajlidkE?oc=5>
+- 时间: 2026-10-03 03:11
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE9lUThUVVZFcFRiNk1TSFFCejh6MVMtU2pvb1hXOUFocnhSNmFHM0RsNnlvX2owMlZTN0VPVDFmOHBGMGlCaGtDNV9iYnNhWGtaUEp4Umt2dW1DYzNmNzcxUmZGaHZRaGx0OW1XdGhTdE5YWFU?oc=5>
 
-### 特朗普：与伊朗的战事很快将结束
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-03 00:18
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE0wakJiTTZrUUg3SzVKelExUVplMUdCeDdaRXRWdUVQd3pnZG1qLV8wUlRTMGxMeEFyYVVhUjN4REU4dEVEN20tQVZXSWc?oc=5>
-
-### 特朗普：战事将“很快结束”，伊朗永远不会拥有核武器
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-10-03 01:28
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBidWJXZ3ZmTGRCdXh2bVUxYzN3NGc3eHd6VFZUSXdJOWRXSllRRFBkaHNZYlgzeDdoUFAzVE1Ic081UEhVV3RvQVJETXZnT3d3THZkM2JaZ0FjNDFjLTRXVmR1aTVtSXdzX3A5ZXRFdExJQkdlVWh2Vw?oc=5>
-
-### 特朗普重申，伊朗战争结束后油价将会下跌。
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-10-02 23:50
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBBY0o3OGJGdjEyY3hiYkdWOE1TSDdndzMweHgwd1BkT0ZjT25nZ3AtcjJSZHlsNm9pVzdQdFViR05fLUVFSHM0SThJWQ?oc=5>
-
-### 巴西总统：我们发现了巨量石油，特朗普恐怕会眼红
+### 特朗普威胁韩国：不签字，就加倍收费
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-10-03 00:27
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBMdFJacmprQmY5MktYbkUxVG90dnRiQUdmb2F4ZzU2Q0lyUXI4SHRBMHVGd0J1SU5BYlZ0SFZERi1TRVhpdC1EcDd4TEs?oc=5>
+- 时间: 2026-10-03 07:12
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBZTkVOSG1MUUx4X2FIRkR0YjItTjBBV3BjLXE2cmptcmg3cElWZUY5eFk4VnQ0eEI0cWI5aEZhNkt5UkFwLWpPNXlOVXY?oc=5>
 
-### 特朗普威胁11月选举后或恢复对伊攻击 美军又向中东增兵
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财新
-- 时间: 2026-10-02 14:35
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBOU294QkdmZVRORE5xQWFDN2xfTVRGQ1h3dzlZYVVmSVk0SmEwYmRUeTJmS2FTaTh6T3BaQ2V3WTFvVkZzNW93ZGtqX0xYVUR0QXRPbFRUOGlLNEFZNS1oQVFDNklWWkZaalE?oc=5>
-
-### 马斯克将重返特朗普政府，牵头研究“未来战争形态”
+### “单方面”宣布韩国对美投资项目后，特朗普又放威胁，不同意就征收双倍费用
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-10-03 00:39
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxQZnVGWWJzaExKblI5UUxXZERCMXZnM2F4aGV4M1dpNmZ2UG93XzFQR0s3ZlQ1R2dWZ0I3ai1ZSFF3YkJYaFdjc1d0aXhLWkFfWndncTJKQVpCNkFhdGtJMEZJY1k5RFZiQWVkSU84Z1h2SUpkTWpNQXhZeUExZzJzMDF5YllvWV80eFBSRA?oc=5>
+- 场馆: sohu.com
+- 时间: 2026-10-03 06:26
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxNVkxIMTBOcFNGRTI5V194WGNQWVVqOExPZHNzdE1icnFSV2ZiX3FDVEp6bmlqZ1VTNURzZU1UM2pKcTdjVmJBX2FvWExtOTdzS0h3SUxYTjlna0RKQTZQNUxSenotUjBsUWdJc200dkplTGxTYXBWMjNJMUt5YjIwdjYwT0JrQVlJakMybQ?oc=5>
 
-### 美国总统特朗普表示：伊朗的情况不太好
+### 特朗普称对伊朗下一步行动“进展顺利”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-10-02 20:03
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUWmVRNDk1TXNnMmVwVTFvRHlEcE9HMWhaMGIwS0s3VGNhUHN1eG9TTjd2cGdNTF9uTFhocTI1TmZua3RUMjZtZmxkb0FHR20zaTdRUVhJQXdfY203TkhWYQ?oc=5>
+- 场馆: 央视网
+- 时间: 2026-10-03 06:32
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9OR2txNHFYT3Z5MnVJNVJlVTFwMzJSRUFlckt1emdLQUdLdE5hRmJ4cUtlMkM3ZENlRUlwTXVma2c0ekl6aDRIN1gyb3FId29POUlhOWp1WXI2cnBsU2g4a0E2YkxUV1Nkbnc2UWRWSl9DYUlJcnVZLQ?oc=5>
+
+### 特朗普宣布：向2000万优秀老年人发放近100美元“医保补贴”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-10-03 07:32
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBWUXZoSF9NVC1Bd3NCbmpkQWJGa3RBaDBZYlFhTXlMZEpDTjRwVHpjVzhidHRSOHdZMkJmMnVqWmZodXNyRXVhTjNNZU0?oc=5>
+
+### 特朗普拿下了格陵兰岛？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-10-03 03:32
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTFBXOGNneWZ1QTZlU2hVOUhRNWx0ZFowR1BGRzRWT2xSbXdMcDJBcFBBRk5wZ1NqR1RobHR5c1VYSlRtejVza25iajNXdXhGa21HeENLcEdMMVpaTEYyaUh2VXJ5S01JU190UjUzZU1TODlVcHBt?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-03 08:23  (9 条)
+
+- **王一博** | 陈都灵的粉丝见面会一般会有哪些环节？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801m7ki.html>
+- **蔡徐坤** | 这次联动对蔡徐坤的演唱会有什么影响？ <https://k.sina.com.cn/article_7879995911_1d5af320706802om00.html>
+- **周杰伦** | 人生第一场演唱会只留给周杰伦 <https://k.sina.com.cn/article_1899227237_m7133e86503308po24.html>
+- **特朗普** | 特朗普恼了：韩国竟敢“打我脸”，再不投钱就报复 <https://news.google.com/rss/articles/CBMic0FVX3lxTE9lUThUVVZFcFRiNk1TSFFCejh6MVMtU2pvb1hXOUFocnhSNmFHM0RsNnlvX2owMlZTN0VPVDFmOHBGMGlCaGtDNV9iYnNhWGtaUEp4Umt2dW1DYzNmNzcxUmZGaHZRaGx0OW1XdGhTdE5YWFU?oc=5>
+- **特朗普** | 特朗普威胁韩国：不签字，就加倍收费 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBZTkVOSG1MUUx4X2FIRkR0YjItTjBBV3BjLXE2cmptcmg3cElWZUY5eFk4VnQ0eEI0cWI5aEZhNkt5UkFwLWpPNXlOVXY?oc=5>
+- **特朗普** | “单方面”宣布韩国对美投资项目后，特朗普又放威胁，不同意就征收双倍费用 <https://news.google.com/rss/articles/CBMijAFBVV95cUxNVkxIMTBOcFNGRTI5V194WGNQWVVqOExPZHNzdE1icnFSV2ZiX3FDVEp6bmlqZ1VTNURzZU1UM2pKcTdjVmJBX2FvWExtOTdzS0h3SUxYTjlna0RKQTZQNUxSenotUjBsUWdJc200dkplTGxTYXBWMjNJMUt5YjIwdjYwT0JrQVlJakMybQ?oc=5>
+- **特朗普** | 特朗普称对伊朗下一步行动“进展顺利” <https://news.google.com/rss/articles/CBMieEFVX3lxTE9OR2txNHFYT3Z5MnVJNVJlVTFwMzJSRUFlckt1emdLQUdLdE5hRmJ4cUtlMkM3ZENlRUlwTXVma2c0ekl6aDRIN1gyb3FId29POUlhOWp1WXI2cnBsU2g4a0E2YkxUV1Nkbnc2UWRWSl9DYUlJcnVZLQ?oc=5>
+- **特朗普** | 特朗普宣布：向2000万优秀老年人发放近100美元“医保补贴” <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBWUXZoSF9NVC1Bd3NCbmpkQWJGa3RBaDBZYlFhTXlMZEpDTjRwVHpjVzhidHRSOHdZMkJmMnVqWmZodXNyRXVhTjNNZU0?oc=5>
+- **特朗普** | 特朗普拿下了格陵兰岛？ <https://news.google.com/rss/articles/CBMidEFVX3lxTFBXOGNneWZ1QTZlU2hVOUhRNWx0ZFowR1BGRzRWT2xSbXdMcDJBcFBBRk5wZ1NqR1RobHR5c1VYSlRtejVza25iajNXdXhGa21HeENLcEdMMVpaTEYyaUh2VXJ5S01JU190UjUzZU1TODlVcHBt?oc=5>
 
 ### 2026-10-03 02:10  (8 条)
 
