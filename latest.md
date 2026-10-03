@@ -1,148 +1,280 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-03 13:34**
-- 本轮扫到 13109 条, 新增 **19** 条
+- 最近更新: **2026-10-03 17:42**
+- 本轮扫到 13144 条, 新增 **35** 条
 
 ---
 
-## 本轮新发现 (19 条)
+## 本轮新发现 (35 条)
 
-### 青岛故事丨26年老粉带女儿来看周杰伦演唱会
+### cxk蔡徐坤thedeadman演唱会 这个萌得我流鼻血了好吧
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923674_m1d5ae17da03301qqxa.html>
+
+### 蔡徐坤自录屏发布视频，巴黎时装周展现可爱一面
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923704_m1d5ae17f803301z8jk.html>
+
+### 周杰伦青岛演唱会歌迷合唱了哪些经典曲目？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1647210043_m622e6e3b03301rsna.html>
+- 链接: <https://k.sina.com.cn/article_7879849291_1d5acf54b06801k0ng.html>
 
-### 周杰伦青岛演唱会邂逅绝美晚霞
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1789681642_m6aac5fea03308ppmg.html>
-
-### 周杰伦鸟巢演唱会粉色海洋是如何形成的
+### 周杰伦现场问歌迷有没有听他的新歌？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801m86u.html>
+- 链接: <https://k.sina.com.cn/article_7879849291_1d5acf54b06801k0ne.html>
 
-### 青岛故事丨14岁男孩拄双拐来青岛看周杰伦演唱会
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5953466437_v162dab0450670be4ye.html>
-
-### 青岛故事丨周杰伦青岛演唱会邂逅绝美晚霞
+### 歌迷从多远的地方赶来听周杰伦青岛演唱会？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1668589317_m6374a70503301j1ca.html>
+- 链接: <https://k.sina.com.cn/article_7879849291_1d5acf54b06801k0nc.html>
 
-### 周杰伦青岛演唱会今晚开唱，晚霞见证杰迷热爱
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1899227237_m7133e86503308ppgk.html>
-
-### 周杰伦演唱会粉色海洋应援奇观是怎么形成的？
+### 青岛哪些地标为周杰伦演唱会开启应援模式？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801m82k.html>
+- 链接: <https://k.sina.com.cn/article_7879849291_1d5acf54b06801k0n6.html>
 
-### 粉色海洋刷屏！周杰伦演唱会为何成集体青春梦？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801m82g.html>
-
-### 26年老粉带女儿来看周杰伦演唱会
+### 青岛演唱会有多少歌迷现场求婚成功？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1789681642_m6aac5fea03308pp62.html>
+- 链接: <https://k.sina.com.cn/article_7879849291_1d5acf54b06801k0na.html>
 
-### 周杰伦演唱会期间，青岛这些主题打卡地等你来
+### 外地歌迷为了这场演唱会专程多远赶来？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://finance.sina.com.cn/roll/2026-10-03/doc-inityccx0582297.shtml>
+- 链接: <https://k.sina.com.cn/article_7879776731_1d5abd9db06801eztu.html>
 
-### 特朗普发帖称共和党必须赢得中期选举
+### 青岛演唱会上歌迷求婚的温馨细节是什么？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776731_1d5abd9db06801ezts.html>
+
+### 周杰伦在演唱会上如何与歌迷互动新歌？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776731_1d5abd9db06801eztq.html>
+
+### 周杰伦青岛演唱会现场唱了哪些经典歌曲？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776731_1d5abd9db06801eztm.html>
+
+### 周杰伦青岛演唱会：八年回归，万人合唱与浪漫求婚引爆全场
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879849291_1d5acf54b06801k0ms.html>
+
+### 青岛为周杰伦演唱会准备了哪些城市联动活动？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923112_1d5ae15a8068021sqk.html>
+
+### 周杰伦青岛演唱会：歌迷合唱求婚名场面
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776731_1d5abd9db06801eztk.html>
+
+### 周杰伦青岛演唱会吸引全国歌迷跨城奔赴的原因是什么？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923112_1d5ae15a8068021sqg.html>
+
+### 周杰伦青岛演唱会唱了哪些经典老歌？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923112_1d5ae15a8068021sqi.html>
+
+### 周杰伦青岛演唱会歌迷集体求婚，青春回忆杀现场
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923112_1d5ae15a8068021sqa.html>
+
+### 周杰伦演唱会粉色海洋现场有多震撼
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923111_1d5ae15a706801ezsc.html>
+
+### 如何抢到周杰伦演唱会门票看粉海
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923111_1d5ae15a706801ezsa.html>
+
+### 周杰伦演唱会粉色海洋青春炸场！
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923111_1d5ae15a706801ezs6.html>
+
+### 如何获取周杰伦演唱会门票并亲临粉色海洋
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923112_1d5ae15a8068021spa.html>
+
+### 周杰伦青岛演唱会八年回归，全城狂欢模式开启
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879849291_1d5acf54b06801k0ly.html>
+
+### 周杰伦青岛演唱会场外偶遇小周杰伦
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_2292899701_m88aadf7503301tl3w.html>
+
+### 周杰伦演唱会官方盖章vivo X500系列为演唱会神器
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5823180089_15b16ad3904001ktqw.html?from=digit>
+
+### 龚俊安乐传发布会清唱发如雪，澄清周杰伦演唱会传闻
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301h2mo.html>
+
+### 周杰伦演唱会青岛站出行提示
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1647210043_m622e6e3b05301rss6.html>
+
+### “八年不见，我又回来了！”周杰伦青岛演唱会今晚开唱，谁的青春DNA动了！
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://video.sina.com.cn/p/finance/2026-10-04/detail-inityptx6029983.d.html>
+
+### 习近平要求特朗普“反对台独”：美中台湾政策表述出现新角力
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Radio Free Asia
+- 时间: 2026-10-03 14:47
+- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZmNkdWNOY0FvNEZwS1cxM1BUSHdzb0l4WXlnNDlNb3VzazVGcEszQ1ZTeU95aXY5MnJ5OHotZUNFVklZaUNpN3FfRnhBeFJ6bm1Rc2hYRXdhc2Q5TUtzRGkwNmlsSXpjNEF1NnVUTTd2Y0xCaWY4N3FUNVI1NWFJb1N2amxFS1pQcE1n?oc=5>
+
+### 报道：特朗普指示动用纳税人资金投放颂扬其总统任期的广告
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-10-03 13:23
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1WOVdlWk94RnZ3czc4ZjRRLXRxd1YtVkVZZTRvRUd4MWtLRkg5eUx0VXBUUWxRaWRiZExPemNCdGktOG1fUUFWMDBKYw?oc=5>
+- 时间: 2026-10-03 17:04
+- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRG1SS1hGZDczZDQ3SW5URGFUWnZaV3A2TE9BblVEOTJPdFBpdFkzZGt1WGpKdjJBeE1sdi1CaElfMmMwU3FFUXJkbGo3UHhkMmV5NFJCbU01VUo4MHlZaGRISXF1MEJ2VUt1eF9rMHVOZHNrLWk3b2tubzcxa0hsV0dqNWVQR1U2UTJ1VnBpOFB0NnV5WjNGRURsV2ZpbjhaZEdpU0ljdEN6QQ?oc=5>
 
-### 习近平访美特殊休息时间让他与特朗普的峰会缩短数小时
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-10-03 12:35
-- 链接: <https://news.google.com/rss/articles/CBMiiwNBVV95cUxPVVpucjdNaGV2VTM2Qm5yUjBIQ3FBSXEwd1J4Vi1ZZVYzWFl3YWktVC1hT1YwX3NKamFxT01YbF9RdzZ0LUJGZktkeGZDbTdMNm1PdUJKMGtoM25PSXQwcE1qTVdVWWM3bE51YzBiSmdvMk1iRF96LVdRSVhmMU11OUIyeGhnVHNNQnBPbTJ1R3JJRThYdTctNF9DZ2I0eFYySUhyTTlQZWpzM1V6NlhuS2VoOWg4TnRqS0VTX2ZyWjlpQmV6eHEyaXlIMk9keWJydWl4NXhzTjNodDEzb0Q2YVBXSDE2eWxGSkd6NkN4YlNnZ2FVMDY1MzRBWks3XzNvdURFMF9qeTFseVd5VzFsYTdtWGlVZjluOEZhRDdTcjBxb1VxQ1RHSjVrV0xFYXdxSU5sc1d0WTNQdzR4b2V5ZlByemtXVHZab2xVZ2ZzWDJCVklfTWVsYkJfdnRtQUlSY0FSS2JYRkpjRUpLcTg5WEMzY0RDdWg1MjdfYXpuaG1YZF9HOEpqcHJVQQ?oc=5>
-
-### 特朗普30小时内第三场紧急会议后疲惫返回白宫
+### 果然视频·看天下|马斯克将重返特朗普政府
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 手机新浪网
-- 时间: 2026-10-03 12:18
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE9HMlFmRnBaQm90RnRfcldLd01Td2dJRGRwbGhyUFhrbDQ1TlNaTVpQTzRtQWROdEotNG4tMVp1U3gyZlpmVUs5NEI0bUY4SDFERlNZbWNQdDlIcEZwRlBGMWhXSjJTZVhjdkpmV2RDdjVKX3c?oc=5>
+- 时间: 2026-10-03 16:18
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE04ZnRuREN1UFEwSkhCU2xja2VoYUtyOTg5V1lidXdrWld1YkxvQTNyLUdaV19qclM5ay03OHZyRkpYbDdNMVVZOHpDUlVpS0txQVY1S0VObEgtT2M3dm9PM1lvbDlUbnR5N2hzRzFlc0ZUV00?oc=5>
 
-### 特朗普威胁韩国：不尽快签字，就加倍收费
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-10-03 09:57
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxPRGtOZmhscmFkNDJDWU9idDVCRm1CSG1FcldWd0RmZlZIMDU0bHlXU3RMYkh6WTdITlhBbjhUeDhIa0lFWEFWdEtkd1p0c0RHeUdudlJSWjFsTGo3NzEwMmZSejZLemRpc0dlWVNYd1FZdWNTQnhXblJJY0RvSnF6RGpFTjdlZ0VuUU1oRQ?oc=5>
-
-### 向中方释放某种信号？特朗普计划出席东盟峰会
+### 泽连斯基请求特朗普阻断俄中卫星企业与马斯克“星链”的竞争
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-03 10:07
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1RZEhta3doa2Y3ZFhpc1gtZDRhOFhUamhicjVhQ2xKbHhFVWNpVVAtQzl6RldGQVZ3RW8wMWpvZk9TM1lNWUxlMWVhNWI?oc=5>
+- 场馆: RFI
+- 时间: 2026-10-03 15:48
+- 链接: <https://news.google.com/rss/articles/CBMimgNBVV95cUxOYzVxODBRS1pyazNmeU93alppN2dueFF5WVhRcElzeExwa09TMkQzeGVTWlVTbTVMS0pHeGxfcXRLcGVhRnV2MGVRLU5sNzdjWEVTNVk4TmlyUjhPNkdqYXN4RVpTa3dqUzlkcmhSV2RPVGczb3hRMmxtTHNaZEVBQzFFcVhqQXZ2ZmJwN0FhRXRleVhzR3FmWnN6Q3VILUw1bE1yd09zaUVxcTQ0M3NOczMxbmhjRzNBYi15T0RiVnhuRmcxTFFyczB5bENWMkczaktmaFZ5YXhhYUxvSXdONzVZWVR1UlFLSE1aZnBnd0NTclUxS1pVXzVOanVfWG1nS3dNbnBWY2ZMMW82OTYtazZKZXdDMUp0VzR1d3NMWHltRlMzaXZEenlRWUdfN1ZPcHhFWWl2ZUxjSWdsRkZGTlRtdElkZ2ljSmphRUxDOGtjWVNwWWo2QTJZZ0VfNDB4M1FxLWtLRzlGWXI3Si0wclZEUHZMLWIwSmVBa3ZyNEhma25IeVhFOXNOdGp2UlFtbEE0Vm5xWjBjdw?oc=5>
 
-### “高度不寻常”，万斯、鲁比奥、赫格塞思等密会！特朗普：伊朗情况不妙
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-10-03 12:05
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE42S05qS0JTUU9VYlJFWHp3UDhubkd1NDFuVk4waUppY3ZkMExxY2JsSlV6dGx1d1BSaERvZS1NWk1yMFZIczlDMmNBWVR5X1U3a1JCcUVBUnFBSDBtNFhzRUxuU0VycjRyb3lWSGY4cEhnSE5QZERGRQ?oc=5>
-
-### 消息称特朗普内阁成员在戴维营秘密开会 讨论伊朗和也门问题
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-10-03 11:14
-- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxNNTBtdU5yc21vcTd0YWhUOG93b3R0am4xbWFrUk1xc3VZRVp5VTNtWnRNaUViSTI4MWZFWVdqaFQ1Y2p5bVBURXhOTlk0Y2pNUjNmRVYxaWlIZGpPcDNiQUpYdXFjZXExQUZZV1M3ZnVOaTRuR0dCZUtycl9iZk5UOVNMY2c5cDlnTDVEVDZKWm5vMktWdm9nUVBhaG1tOXl6?oc=5>
-
-### 卢卡申科“感谢”特朗普：他把西方政策的真面目暴露无遗
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: huanqiu.com
-- 时间: 2026-10-01 23:05
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ObXhIYmFhd3FJRVlXRDFIOFVJZ28yYzBTX0JwWXB0a1htTnVKMFdtdENDeTJ0MTl1VVBOWW84Q1FQVDB0RGxfNnRwMEtvWWpSRF8w?oc=5>
-
-### 特朗普威胁韩国：不签字，就加倍收费
+### 特朗普称伊朗领导层损失惨重 “找不到对接人”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新华网
-- 时间: 2026-10-03 07:22
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9EMWVmWEEzeXFuWDNvOHByc0hWZk1yeUNvQS11U3ZLSTNzUy1FU2hIb1h6cHFZbEZfUTY0aGZYUENWOG8zaURnaDV0UUlQNUdvMXBTWTFWTGVvYnZMUFNKZEg4aHRWSTEtM3prLW16SmNXVkhwbnJsUE9XZ1RrZTQ?oc=5>
+- 时间: 2026-10-03 09:00
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9hUVZLRzgxTjV1WC1vZlE0UkpTc29qbzZzOG1WeFV4TmJJaTBJSElXa0dNV0VVamZYUkZYOUNjX2RzU2ZBdGJDTmo0TE4yZTNOcVptWHlyQ2ljVkM1TWY1QW9HZjNkeDdQQjZnaUZDQjF6bUQ1Ylp5akRzdWRidmc?oc=5>
+
+### 特朗普威胁韩国
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 手机新浪网
+- 时间: 2026-10-03 14:24
+- 链接: <https://news.google.com/rss/articles/CBMikgFBVV95cUxONXQ0emRoeXczZUtfSjV3anRoZjhVX1dFR1owYlpQZlRnOS1sTjVFekZlWkV2TXE1ckxxaFctVVlmekZrcGVaY1VCUGRsU3doRUNPeE5wUVNkeTUyTFgwZno1RHlINDdBOGk3UzFEcV9OWDROZi1KdVVRUjBUWXVPVUI3akpLaXZOc2NSSWNueDZfQQ?oc=5>
+
+### 美国总统特朗普：如果共和党在2026年中期选举中赢得众议院和参议院，我将给美国所有成年公民每人5000美元。期待签署那些支票！
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 金融界
+- 时间: 2026-10-03 12:58
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE5uYjVTRVc3US1NSWEwZ0k2VU93ckEwMk5sZjFaeE5xNmhVRWJqS1daOVNWcFdhS2tWemtPTHRxMTVjVDJHdGtfZGF0NXlweHVIRjk3bkM5bkw5VkVYTjZIbG5WdkV6SXdqbHo4X1BjNA?oc=5>
+
+### 特朗普据称将任命新“AI沙皇”：国家情报总监接棒硅谷大佬，AI政策重心转向安全管控
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街见闻
+- 时间: 2026-10-02 19:36
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xVlVFanh5cnFQUXIwTG1zNFJGTnFXNDNvQXhCTndlSFVuVnlkNDF5cGFFU2c5eDVNbGh5MF9fWDdaaGVjbTVIU3VzZTZCdUV1Zm5B?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-03 17:42  (35 条)
+
+- **蔡徐坤** | cxk蔡徐坤thedeadman演唱会 这个萌得我流鼻血了好吧 <https://k.sina.com.cn/article_7879923674_m1d5ae17da03301qqxa.html>
+- **蔡徐坤** | 蔡徐坤自录屏发布视频，巴黎时装周展现可爱一面 <https://k.sina.com.cn/article_7879923704_m1d5ae17f803301z8jk.html>
+- **周杰伦** | 周杰伦青岛演唱会歌迷合唱了哪些经典曲目？ <https://k.sina.com.cn/article_7879849291_1d5acf54b06801k0ng.html>
+- **周杰伦** | 周杰伦现场问歌迷有没有听他的新歌？ <https://k.sina.com.cn/article_7879849291_1d5acf54b06801k0ne.html>
+- **周杰伦** | 歌迷从多远的地方赶来听周杰伦青岛演唱会？ <https://k.sina.com.cn/article_7879849291_1d5acf54b06801k0nc.html>
+- **周杰伦** | 青岛哪些地标为周杰伦演唱会开启应援模式？ <https://k.sina.com.cn/article_7879849291_1d5acf54b06801k0n6.html>
+- **周杰伦** | 青岛演唱会有多少歌迷现场求婚成功？ <https://k.sina.com.cn/article_7879849291_1d5acf54b06801k0na.html>
+- **周杰伦** | 外地歌迷为了这场演唱会专程多远赶来？ <https://k.sina.com.cn/article_7879776731_1d5abd9db06801eztu.html>
+- **周杰伦** | 青岛演唱会上歌迷求婚的温馨细节是什么？ <https://k.sina.com.cn/article_7879776731_1d5abd9db06801ezts.html>
+- **周杰伦** | 周杰伦在演唱会上如何与歌迷互动新歌？ <https://k.sina.com.cn/article_7879776731_1d5abd9db06801eztq.html>
+- **周杰伦** | 周杰伦青岛演唱会现场唱了哪些经典歌曲？ <https://k.sina.com.cn/article_7879776731_1d5abd9db06801eztm.html>
+- **周杰伦** | 周杰伦青岛演唱会：八年回归，万人合唱与浪漫求婚引爆全场 <https://k.sina.com.cn/article_7879849291_1d5acf54b06801k0ms.html>
+- **周杰伦** | 青岛为周杰伦演唱会准备了哪些城市联动活动？ <https://k.sina.com.cn/article_7879923112_1d5ae15a8068021sqk.html>
+- **周杰伦** | 周杰伦青岛演唱会：歌迷合唱求婚名场面 <https://k.sina.com.cn/article_7879776731_1d5abd9db06801eztk.html>
+- **周杰伦** | 周杰伦青岛演唱会吸引全国歌迷跨城奔赴的原因是什么？ <https://k.sina.com.cn/article_7879923112_1d5ae15a8068021sqg.html>
+- **周杰伦** | 周杰伦青岛演唱会唱了哪些经典老歌？ <https://k.sina.com.cn/article_7879923112_1d5ae15a8068021sqi.html>
+- **周杰伦** | 周杰伦青岛演唱会歌迷集体求婚，青春回忆杀现场 <https://k.sina.com.cn/article_7879923112_1d5ae15a8068021sqa.html>
+- **周杰伦** | 周杰伦演唱会粉色海洋现场有多震撼 <https://k.sina.com.cn/article_7879923111_1d5ae15a706801ezsc.html>
+- **周杰伦** | 如何抢到周杰伦演唱会门票看粉海 <https://k.sina.com.cn/article_7879923111_1d5ae15a706801ezsa.html>
+- **周杰伦** | 周杰伦演唱会粉色海洋青春炸场！ <https://k.sina.com.cn/article_7879923111_1d5ae15a706801ezs6.html>
+- **周杰伦** | 如何获取周杰伦演唱会门票并亲临粉色海洋 <https://k.sina.com.cn/article_7879923112_1d5ae15a8068021spa.html>
+- **周杰伦** | 周杰伦青岛演唱会八年回归，全城狂欢模式开启 <https://k.sina.com.cn/article_7879849291_1d5acf54b06801k0ly.html>
+- **周杰伦** | 周杰伦青岛演唱会场外偶遇小周杰伦 <https://k.sina.com.cn/article_2292899701_m88aadf7503301tl3w.html>
+- **周杰伦** | 周杰伦演唱会官方盖章vivo X500系列为演唱会神器 <https://k.sina.com.cn/article_5823180089_15b16ad3904001ktqw.html?from=digit>
+- **周杰伦** | 龚俊安乐传发布会清唱发如雪，澄清周杰伦演唱会传闻 <https://k.sina.com.cn/article_7879924009_m1d5ae192903301h2mo.html>
+- **周杰伦** | 周杰伦演唱会青岛站出行提示 <https://k.sina.com.cn/article_1647210043_m622e6e3b05301rss6.html>
+- **周杰伦** | “八年不见，我又回来了！”周杰伦青岛演唱会今晚开唱，谁的青春DNA动了！ <https://video.sina.com.cn/p/finance/2026-10-04/detail-inityptx6029983.d.html>
+- **特朗普** | 习近平要求特朗普“反对台独”：美中台湾政策表述出现新角力 <https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZmNkdWNOY0FvNEZwS1cxM1BUSHdzb0l4WXlnNDlNb3VzazVGcEszQ1ZTeU95aXY5MnJ5OHotZUNFVklZaUNpN3FfRnhBeFJ6bm1Rc2hYRXdhc2Q5TUtzRGkwNmlsSXpjNEF1NnVUTTd2Y0xCaWY4N3FUNVI1NWFJb1N2amxFS1pQcE1n?oc=5>
+- **特朗普** | 报道：特朗普指示动用纳税人资金投放颂扬其总统任期的广告 <https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRG1SS1hGZDczZDQ3SW5URGFUWnZaV3A2TE9BblVEOTJPdFBpdFkzZGt1WGpKdjJBeE1sdi1CaElfMmMwU3FFUXJkbGo3UHhkMmV5NFJCbU01VUo4MHlZaGRISXF1MEJ2VUt1eF9rMHVOZHNrLWk3b2tubzcxa0hsV0dqNWVQR1U2UTJ1VnBpOFB0NnV5WjNGRURsV2ZpbjhaZEdpU0ljdEN6QQ?oc=5>
+- **特朗普** | 果然视频·看天下|马斯克将重返特朗普政府 <https://news.google.com/rss/articles/CBMic0FVX3lxTE04ZnRuREN1UFEwSkhCU2xja2VoYUtyOTg5V1lidXdrWld1YkxvQTNyLUdaV19qclM5ay03OHZyRkpYbDdNMVVZOHpDUlVpS0txQVY1S0VObEgtT2M3dm9PM1lvbDlUbnR5N2hzRzFlc0ZUV00?oc=5>
+- **特朗普** | 泽连斯基请求特朗普阻断俄中卫星企业与马斯克“星链”的竞争 <https://news.google.com/rss/articles/CBMimgNBVV95cUxOYzVxODBRS1pyazNmeU93alppN2dueFF5WVhRcElzeExwa09TMkQzeGVTWlVTbTVMS0pHeGxfcXRLcGVhRnV2MGVRLU5sNzdjWEVTNVk4TmlyUjhPNkdqYXN4RVpTa3dqUzlkcmhSV2RPVGczb3hRMmxtTHNaZEVBQzFFcVhqQXZ2ZmJwN0FhRXRleVhzR3FmWnN6Q3VILUw1bE1yd09zaUVxcTQ0M3NOczMxbmhjRzNBYi15T0RiVnhuRmcxTFFyczB5bENWMkczaktmaFZ5YXhhYUxvSXdONzVZWVR1UlFLSE1aZnBnd0NTclUxS1pVXzVOanVfWG1nS3dNbnBWY2ZMMW82OTYtazZKZXdDMUp0VzR1d3NMWHltRlMzaXZEenlRWUdfN1ZPcHhFWWl2ZUxjSWdsRkZGTlRtdElkZ2ljSmphRUxDOGtjWVNwWWo2QTJZZ0VfNDB4M1FxLWtLRzlGWXI3Si0wclZEUHZMLWIwSmVBa3ZyNEhma25IeVhFOXNOdGp2UlFtbEE0Vm5xWjBjdw?oc=5>
+- **特朗普** | 特朗普称伊朗领导层损失惨重 “找不到对接人” <https://news.google.com/rss/articles/CBMif0FVX3lxTE9hUVZLRzgxTjV1WC1vZlE0UkpTc29qbzZzOG1WeFV4TmJJaTBJSElXa0dNV0VVamZYUkZYOUNjX2RzU2ZBdGJDTmo0TE4yZTNOcVptWHlyQ2ljVkM1TWY1QW9HZjNkeDdQQjZnaUZDQjF6bUQ1Ylp5akRzdWRidmc?oc=5>
+- **特朗普** | 特朗普威胁韩国 <https://news.google.com/rss/articles/CBMikgFBVV95cUxONXQ0emRoeXczZUtfSjV3anRoZjhVX1dFR1owYlpQZlRnOS1sTjVFekZlWkV2TXE1ckxxaFctVVlmekZrcGVaY1VCUGRsU3doRUNPeE5wUVNkeTUyTFgwZno1RHlINDdBOGk3UzFEcV9OWDROZi1KdVVRUjBUWXVPVUI3akpLaXZOc2NSSWNueDZfQQ?oc=5>
+- **特朗普** | 美国总统特朗普：如果共和党在2026年中期选举中赢得众议院和参议院，我将给美国所有成年公民每人5000美元。期待签署那些支票！ <https://news.google.com/rss/articles/CBMib0FVX3lxTE5uYjVTRVc3US1NSWEwZ0k2VU93ckEwMk5sZjFaeE5xNmhVRWJqS1daOVNWcFdhS2tWemtPTHRxMTVjVDJHdGtfZGF0NXlweHVIRjk3bkM5bkw5VkVYTjZIbG5WdkV6SXdqbHo4X1BjNA?oc=5>
+- **特朗普** | 特朗普据称将任命新“AI沙皇”：国家情报总监接棒硅谷大佬，AI政策重心转向安全管控 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xVlVFanh5cnFQUXIwTG1zNFJGTnFXNDNvQXhCTndlSFVuVnlkNDF5cGFFU2c5eDVNbGh5MF9fWDdaaGVjbTVIU3VzZTZCdUV1Zm5B?oc=5>
 
 ### 2026-10-03 13:34  (19 条)
 
