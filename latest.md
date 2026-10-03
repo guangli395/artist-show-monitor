@@ -1,74 +1,96 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-03 20:27**
-- 本轮扫到 13152 条, 新增 **8** 条
+- 最近更新: **2026-10-03 23:15**
+- 本轮扫到 13161 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (9 条)
 
-### 周杰伦演唱会粉色海洋场景是如何形成的？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016ifc.html>
-
-### 粉色海洋为何成为周杰伦演唱会的标志？
+### 如何抢到周杰伦演唱会门票
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016if6.html>
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016iqm.html>
 
-### 周杰伦演唱会专属主题爱琴海有何寓意
+### 周杰伦演唱会还有哪些经典互动
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776730_1d5abd9da06803vqyk.html>
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016iqk.html>
+
+### 突发！特朗普签行政令：美国政府全面封杀「AI」
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 手机新浪网
+- 时间: 2026-10-03 16:24
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE44SktBS1hyeVR3MVdEU3VaWFpaRGZfSUk0emRIRGExSks1czJnNUxaRHRMTnF1eEFtR3RwdEoxMElGbUQyWXVvTG1hZ0dPYV93UFI3UU5DdklKNkdnczdBV3M0UmpGNHhyMXVmOWZXUGV1QVBUX1RTUktRUTJuME0?oc=5>
+
+### 特朗普总统：人工智能比互联网更重要
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 手机新浪网
+- 时间: 2026-10-03 21:49
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBmV2Y2Q2NnY0dvUk9vZnpjMkNJMDhsNTZXa1NrTmtuSUp5MVpMb2tKU1JIa0pPLTVnaEplUEM3R3J0M01kZ25XSVdyaW51UHZLLS1RVUY5TVV5Ry1vdEg0MGloWnpVY0Y4VndSYjNkTGt0ZVZwVkRUNzRHSjMxUlk?oc=5>
 
 ### 报道：特朗普指示动用纳税人资金投放颂扬其总统任期的广告
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-10-03 18:49
-- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxOMFRwOWQ3WHBzQVZjZGhnMmRhcjA4SUlqLWNFUzR3RHltcGxiOVE1RHNrOHkwLTAwemo5dHpUQ1MzRHZrdEFoNy0wTEE1YlVmbDloZmJBSXRtc21lZzlNM0wySDV0NS1Da2FFZndWYnFhbE1wNG1FcTFLaERtTUQ5dVFJTV9yQWZPNXc?oc=5>
+- 场馆: 搜狐网
+- 时间: 2026-10-03 16:27
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxNbENScFIwUjBPdVNmQmpGS3ZBTGtNNWZJZTZCVmhuci1VRUxaOGJuZE5qM2RQLVFzZzljVnZhMklMc21CQWhONnlBZ0dDUkdBS2Jhd014N3JwODFYVFIxLTBYVkl2X2lrenVobnpCTWVVa2FXRTNzeWlBVzZLTnM4ZFFYRUJ5RU5MejJRbQ?oc=5>
 
-### 美韩贸易协议现分歧 特朗普扬言韩若拒投资将收更高费用
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-10-03 09:12
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1TZWwwRHBwbXVKRjJ5WEhYdXZpem92d3g4RmVoVzNfeUMzcGppOWF4SHczaVlMTG9uTTMxV0kxdXgyOGMtQm5vQUFqcWN4ME9rUDl0d0xfYmI5aFhrQnh4UDVWVV9odw?oc=5>
-
-### 美国正式执行！特朗普重新定义AI 直接改名超级智能：.si域名注册量激增
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 驱动之家
-- 时间: 2026-10-03 00:54
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE5rZHJCc3hUOXd3MHhKcW9oTmRQOTZ6cEVUNTVQeS1XNFA2amM3MmFUdmlnd1lKZEhCU0JTSEMxcVIxVWhJOExRd0JsRTQydlhpSUNjaTI4Nm8?oc=5>
-
-### 共和党红州选情告急 特朗普要选民“别让民主党弹劾我”
+### 特朗普宣布向逾2000万医年长者发放90美元医保补贴
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 联合早报
-- 时间: 2026-10-02 09:54
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1uRjZXT2xBQU5mWUtsaUZNQkNKT05BUE5zazV4dWRiQWNIOGZ2QzZseUxZdWdKb25PNUs1blZidUVsbEV1eHZxYnlnV2lpSEpUNU1fdlN5NGhMcTE1UVNIM2RmYWlDUQ?oc=5>
+- 时间: 2026-10-03 06:27
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9xREpmZE5lc2h5MXFSN2t3ZXBWTlhLcHhaemw2Q1lwbndHdkZkdDJDWE1tWi1BajIxR0FMTGVtYTlGcmlLdW50V2p2Wm1vS0tfSU1kWmFFeERXTU96WVRfQ0NuNVZpQQ?oc=5>
 
-### 特朗普想见金正恩遇冷 球星罗德曼能否搭桥
+### G7领导人线上开会特朗普没开摄像头 能源议题受关注
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: DW.com
-- 时间: 2026-10-02 17:17
-- 链接: <https://news.google.com/rss/articles/CBMirgJBVV95cUxOUjJqTmF1ZjBxem5hRmxLWExjVEhyMEt0dWdWMnJZcUVrVXBYdmtJcFpUT21IcTZ3blZUS2JCbm1tUVoxaVdkOHRybmp4UlFDLURybDVsNUpud0lPNEl6WHpaVk9oRGxWSXRrWTBYXzFCaWlMNDlFNnF0T3B5WTMxemUwR19ENEc4cXBTVFMxSjBtNGxNUVBHLXNvaWR3UjdGb3NDSjhlTmh6VFZzTmNVUDlrZkxiZVA1alNyLXdSQkF2ZzZGcmNnNC1Od3haa2JNZk45OU5CM1g5bURKcU1hQWlaRlA2MlA0UmVTay1PLTRNSlhDdG1rLWRvQkVhYnFleGx4N0ZoYVBZaXVYQ1U0b2ZqU210V09Lcm8ybmd3VHBuejRfWTYtdVBFdE9ZUdIBrgJBVV95cUxNdHB0UWN6VlJUX3BGdVBSRzl2S1Yzb2RiSVRuTGpCTjNsMTZqUlc2ZkxMTW9XSE9Ca2JneVYwZEVDckVVeW1xZW52MnF6UG9ReTlpbGFrYktpY3hTMVBJcE9MSDZ2NXdLc0FKbTRfNnNrRlFOdktWSzhFQllYeHRwSWs0NlFmdlNseGpMbmxBc1FMR3o3VmRmendRYjE4NmktWWU2N0ppMlpIT3ZwTVhIaDd6UktfN1hLY2IxSTd1MXBMUUZ5T0t3X2ZMak5LYW5oOHBVRUE5c2NyR1h6NXM3X2NFSDNJY2JsbEJENTNjQUJYNWJsMGhlY2RBd3JSaXFGSUYzRENRRDktS2gtbnhyYTg4aUZDeEhiY0RMaUNwdE1oeUJKSFE2M21rcXcwZw?oc=5>
+- 场馆: 中华军事
+- 时间: 2026-10-03 11:03
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5aX3lSVkNZY01GdlJ0TU8yV09wSjRWQngwSnVZd0tDVmlVeTJ2VGI1TW10Z0pYY3RXZHlCbVg4eFhJODVCTXFJc0J3WU92Tm1JVnVoVkJyZ1JuNlVfU05IS1J5bENZQ3B1VzdPUFhvcm8?oc=5>
+
+### TRUMP团队过去8个月向交易所转入约8187万枚代币，套现2.49亿美元
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: TradingView
+- 时间: 2026-10-03 07:43
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFByNlVRcGJySWF6WnF0OXhFUGNOM0pjNi1jS09STWlmdUQ0anF5YWRrMlBrcEc3cEhvRDAzMlJacDNLQlJraExPN2REQnlNcG1GUzM1NjJyV19UVHFxZVBpanlCVTZHdw?oc=5>
+
+### $TRUMP/USD (TRUMPUSD.CC)$
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-10-02 23:52
+- 链接: <https://news.google.com/rss/articles/CBMi4gJBVV95cUxPdW51elVfOVRReTR4UjdDenB5czJWQ1h3OEF5U0pKSWN4OXhjbXR6cFFYdGk3WV9hVExobDZVY3ROUUFYUXBwWUt1OHJXZGsxQjZkenpYWXNfUGoxS081S2ZaU0FMQ1lzTFpGR1MzSzJxWWFEXzliS2JBTjBmaWpSb3pwXzZKMkxkU3RPcnlHYmlfYkh1WUs1VlZ5QVlseDJJSnZ3OHhVUlROcHVDQlk0T0dYYXpkVTVZbE93bzdWMGdueFV0NXp4Ml83R0owOFoycFJWamNUa3BzUXVveG96b0NHdUFvYVRmSVlLZi0wUC0yZHJiV3VtWWhIY1o2YkxkYWcyUHpxMnZxWlZJUUZCTTQ3elZ0ZmlRd3N1NHJOeDhNb1NId0NONWlHbDJybjhQcVRyaV90OXYtdVhSR3FvMmtEekJQR1MwMk8zTW15S0FyOGd3YkNLRXZNOVJqT3VCSmc?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-03 23:15  (9 条)
+
+- **周杰伦** | 如何抢到周杰伦演唱会门票 <https://k.sina.com.cn/article_7879776356_1d5abd864068016iqm.html>
+- **周杰伦** | 周杰伦演唱会还有哪些经典互动 <https://k.sina.com.cn/article_7879776356_1d5abd864068016iqk.html>
+- **特朗普** | 突发！特朗普签行政令：美国政府全面封杀「AI」 <https://news.google.com/rss/articles/CBMif0FVX3lxTE44SktBS1hyeVR3MVdEU3VaWFpaRGZfSUk0emRIRGExSks1czJnNUxaRHRMTnF1eEFtR3RwdEoxMElGbUQyWXVvTG1hZ0dPYV93UFI3UU5DdklKNkdnczdBV3M0UmpGNHhyMXVmOWZXUGV1QVBUX1RTUktRUTJuME0?oc=5>
+- **特朗普** | 特朗普总统：人工智能比互联网更重要 <https://news.google.com/rss/articles/CBMif0FVX3lxTFBmV2Y2Q2NnY0dvUk9vZnpjMkNJMDhsNTZXa1NrTmtuSUp5MVpMb2tKU1JIa0pPLTVnaEplUEM3R3J0M01kZ25XSVdyaW51UHZLLS1RVUY5TVV5Ry1vdEg0MGloWnpVY0Y4VndSYjNkTGt0ZVZwVkRUNzRHSjMxUlk?oc=5>
+- **特朗普** | 报道：特朗普指示动用纳税人资金投放颂扬其总统任期的广告 <https://news.google.com/rss/articles/CBMijAFBVV95cUxNbENScFIwUjBPdVNmQmpGS3ZBTGtNNWZJZTZCVmhuci1VRUxaOGJuZE5qM2RQLVFzZzljVnZhMklMc21CQWhONnlBZ0dDUkdBS2Jhd014N3JwODFYVFIxLTBYVkl2X2lrenVobnpCTWVVa2FXRTNzeWlBVzZLTnM4ZFFYRUJ5RU5MejJRbQ?oc=5>
+- **特朗普** | 特朗普宣布向逾2000万医年长者发放90美元医保补贴 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9xREpmZE5lc2h5MXFSN2t3ZXBWTlhLcHhaemw2Q1lwbndHdkZkdDJDWE1tWi1BajIxR0FMTGVtYTlGcmlLdW50V2p2Wm1vS0tfSU1kWmFFeERXTU96WVRfQ0NuNVZpQQ?oc=5>
+- **特朗普** | G7领导人线上开会特朗普没开摄像头 能源议题受关注 <https://news.google.com/rss/articles/CBMicEFVX3lxTE5aX3lSVkNZY01GdlJ0TU8yV09wSjRWQngwSnVZd0tDVmlVeTJ2VGI1TW10Z0pYY3RXZHlCbVg4eFhJODVCTXFJc0J3WU92Tm1JVnVoVkJyZ1JuNlVfU05IS1J5bENZQ3B1VzdPUFhvcm8?oc=5>
+- **Trump** | TRUMP团队过去8个月向交易所转入约8187万枚代币，套现2.49亿美元 <https://news.google.com/rss/articles/CBMiZkFVX3lxTFByNlVRcGJySWF6WnF0OXhFUGNOM0pjNi1jS09STWlmdUQ0anF5YWRrMlBrcEc3cEhvRDAzMlJacDNLQlJraExPN2REQnlNcG1GUzM1NjJyV19UVHFxZVBpanlCVTZHdw?oc=5>
+- **Trump** | $TRUMP/USD (TRUMPUSD.CC)$ <https://news.google.com/rss/articles/CBMi4gJBVV95cUxPdW51elVfOVRReTR4UjdDenB5czJWQ1h3OEF5U0pKSWN4OXhjbXR6cFFYdGk3WV9hVExobDZVY3ROUUFYUXBwWUt1OHJXZGsxQjZkenpYWXNfUGoxS081S2ZaU0FMQ1lzTFpGR1MzSzJxWWFEXzliS2JBTjBmaWpSb3pwXzZKMkxkU3RPcnlHYmlfYkh1WUs1VlZ5QVlseDJJSnZ3OHhVUlROcHVDQlk0T0dYYXpkVTVZbE93bzdWMGdueFV0NXp4Ml83R0owOFoycFJWamNUa3BzUXVveG96b0NHdUFvYVRmSVlLZi0wUC0yZHJiV3VtWWhIY1o2YkxkYWcyUHpxMnZxWlZJUUZCTTQ3elZ0ZmlRd3N1NHJOeDhNb1NId0NONWlHbDJybjhQcVRyaV90OXYtdVhSR3FvMmtEekJQR1MwMk8zTW15S0FyOGd3YkNLRXZNOVJqT3VCSmc?oc=5>
 
 ### 2026-10-03 20:27  (8 条)
 
