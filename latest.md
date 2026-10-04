@@ -1,148 +1,167 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-04 02:48**
-- 本轮扫到 13183 条, 新增 **22** 条
+- 最近更新: **2026-10-04 09:13**
+- 本轮扫到 13203 条, 新增 **20** 条
 
 ---
 
-## 本轮新发现 (22 条)
+## 本轮新发现 (20 条)
 
-### 周杰伦青岛演唱会破纪录
+### 王一博开学季发布大量新图
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_2388733261_8e612d4d04001qgl2.html>
+
+### 周杰伦青岛演唱会名场面来袭周杰伦青岛演唱会变撒糖现场
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1768470921_m6968b98903301mn86.html>
+- 链接: <https://k.sina.com.cn/article_1789681642_m6aac5fea03308psz0.html>
 
-### 外地观众为何跨城奔赴周杰伦青岛演唱会？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801m9q0.html>
-
-### 周杰伦青岛演唱会之后还有巡演计划吗？
+### 周杰伦演唱会现场求婚事件是怎么回事？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801m9py.html>
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016jqg.html>
 
-### 周杰伦青岛演唱会打破了什么纪录？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801m9q2.html>
-
-### 周杰伦青岛演唱会破纪录，八年之约感动全场
+### 周杰伦演唱会专属灯光秀点亮浮山湾
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801m9pu.html>
+- 链接: <https://k.sina.com.cn/article_1899227237_m7133e86503308psp8.html>
 
-### 周杰伦青岛演唱会创纪录，超5.6万人到场
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1777879301_69f84905040019v78.html>
-
-### 周杰伦青岛演唱会为何吸引大量外地歌迷？
+### 青岛故事丨周杰伦青岛演唱会10人点歌4个带娃
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801m9ka.html>
+- 链接: <https://k.sina.com.cn/article_1668589317_m6374a70503301j336.html>
 
-### 周杰伦后续巡演还会增加哪些城市？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801m9k8.html>
-
-### 周杰伦青岛演唱会破纪录，五万人合唱经典金曲
+### 现场直击周杰伦青岛演唱会
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2813285937_ma7af563103301cwhq.html>
+- 链接: <https://k.sina.com.cn/article_1668589317_m6374a70503301j2w8.html>
 
-### 周杰伦青岛演唱会为什么能破纪录？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801m9k6.html>
-
-### 周杰伦后续还有哪些城市的巡演计划
+### 周杰伦青岛演唱会《爱在西元前》为何能引发全场合唱？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801m9k4.html>
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016jfa.html>
 
-### 青岛为迎接周杰伦演唱会做了哪些城市应援
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801m9k2.html>
-
-### 周杰伦青岛演唱会破纪录，全场大合唱名场面太震撼
+### 周杰伦青岛演唱会为何破纪录？歌迷热情创下新高
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801m9k0.html>
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801ma2a.html>
 
-### 周杰伦粉色海洋巡演下一站在哪？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016iv2.html>
-
-### 青岛为周杰伦演唱会做了哪些城市应援？
+### 周杰伦南京演唱会最新进展：观演规模与票房热度刷新行业纪录
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801m9ek.html>
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801ma22.html>
 
-### 周杰伦青岛演唱会现场氛围如何？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801m9ec.html>
-
-### 周杰伦青岛演唱会后续是否会加开场次
+### 青岛为周杰伦演唱会准备了哪些特别福利
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801m9ea.html>
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016j9u.html>
 
-### 周杰伦青岛演唱会歌单有哪些经典曲目
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801m9e8.html>
-
-### 周杰伦青岛演唱会：全城变身“杰伦痛城”
+### 周杰伦演唱会上有哪些令人感动的瞬间
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801m9dk.html>
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016j9s.html>
 
-### 全城变“杰伦痛城”！青岛演唱会创纪录
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801m9dg.html>
-
-### 周杰伦青岛演唱会歌迷用vivo X500看台拍出清晰神图
+### 外地歌迷去青岛看周杰伦演唱会如何购票
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1912418597_m71fd312503301mcim.html?from=tech>
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016j9q.html>
 
-### 周杰伦青岛演唱会名场面来袭，《I DO》奏响浪漫序曲，数对歌迷现场求婚！
+### 周杰伦青岛演唱会演唱了哪些经典歌曲
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://video.sina.com.cn/p/finance/2026-10-04/detail-initzkxi0191863.d.html>
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016j9k.html>
+
+### 周杰伦青岛演唱会带动了当地哪些消费
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016j9g.html>
+
+### 周杰伦青岛演唱会刷纪录，全城应援太震撼
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016j9i.html>
+
+### 全景给氛围，特写给状态，侧拍给故事，一场演唱会，被玩出了三种打开方式
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_2387903701_m8e5484d505301mg9s.html>
+
+### 泽连斯基怂恿特朗普：制裁中俄企业
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-10-03 23:39
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE0tcjNhNy1lUFBBQmxnS3hLOTZIUGwxc20yRTVrSG5NRC1GQ2ZodHpLVnQxdlpUS0VUaUxqUkctTFdtY3FFMEZhR0dLei0?oc=5>
+
+### 特朗普称对伊朗下一步行动“进展顺利”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-10-03 06:05
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5mYlFERmVLci1JLTFEU0tfWmxQQ2VlVnhDVEgwQUs5OURMMk9LUjl6dGRUbTE5TklOS3JQeE5GQmNaZzQwRXpmTkpDYWs0R09lOVBGY3p5M0t6TEgzNXBJVE1kR0FUTWNNQUwxNFlZdGhoeFdfamFYOA?oc=5>
+
+### 特朗普核心内阁闭门会：一些事已作出决定
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-10-03 08:39
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9YaXFPZU9WRms0TTFoSEc2X0FtSlRVd2h6VUxoNzV0V1dsNUdhS3lJZmc3TW5ELXNxNDdSWGd4QWZ4Y1l0dE5XRnVqdmY?oc=5>
+
+### 特朗普因全年采用夏令时法案受阻，在社交平台公布参议员电话号码并鼓励民众致电
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 搜狐网
+- 时间: 2026-10-04 06:49
+- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxPczdTb09ZeERQR3RBS3pqRGdDcGx6S1BVMGlWb3kyWkVleGI3Q3FIUjB3dGlPNU1yNXRlbTJwd2FjSVlmSndWVklHU3cwN3Vvck9BaXREWEJnU1Q3d0szTFFCM3N1TlQ1Tmk1UVdaWUtDVWFMbDV0Q0RQTEpCSWJ2bVRzSm9YVi1DMDEyc3FUQQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-04 09:13  (20 条)
+
+- **王一博** | 王一博开学季发布大量新图 <https://k.sina.com.cn/article_2388733261_8e612d4d04001qgl2.html>
+- **周杰伦** | 周杰伦青岛演唱会名场面来袭周杰伦青岛演唱会变撒糖现场 <https://k.sina.com.cn/article_1789681642_m6aac5fea03308psz0.html>
+- **周杰伦** | 周杰伦演唱会现场求婚事件是怎么回事？ <https://k.sina.com.cn/article_7879776356_1d5abd864068016jqg.html>
+- **周杰伦** | 周杰伦演唱会专属灯光秀点亮浮山湾 <https://k.sina.com.cn/article_1899227237_m7133e86503308psp8.html>
+- **周杰伦** | 青岛故事丨周杰伦青岛演唱会10人点歌4个带娃 <https://k.sina.com.cn/article_1668589317_m6374a70503301j336.html>
+- **周杰伦** | 现场直击周杰伦青岛演唱会 <https://k.sina.com.cn/article_1668589317_m6374a70503301j2w8.html>
+- **周杰伦** | 周杰伦青岛演唱会《爱在西元前》为何能引发全场合唱？ <https://k.sina.com.cn/article_7879776356_1d5abd864068016jfa.html>
+- **周杰伦** | 周杰伦青岛演唱会为何破纪录？歌迷热情创下新高 <https://k.sina.com.cn/article_7879923021_1d5ae154d06801ma2a.html>
+- **周杰伦** | 周杰伦南京演唱会最新进展：观演规模与票房热度刷新行业纪录 <https://k.sina.com.cn/article_7879923021_1d5ae154d06801ma22.html>
+- **周杰伦** | 青岛为周杰伦演唱会准备了哪些特别福利 <https://k.sina.com.cn/article_7879776356_1d5abd864068016j9u.html>
+- **周杰伦** | 周杰伦演唱会上有哪些令人感动的瞬间 <https://k.sina.com.cn/article_7879776356_1d5abd864068016j9s.html>
+- **周杰伦** | 外地歌迷去青岛看周杰伦演唱会如何购票 <https://k.sina.com.cn/article_7879776356_1d5abd864068016j9q.html>
+- **周杰伦** | 周杰伦青岛演唱会演唱了哪些经典歌曲 <https://k.sina.com.cn/article_7879776356_1d5abd864068016j9k.html>
+- **周杰伦** | 周杰伦青岛演唱会带动了当地哪些消费 <https://k.sina.com.cn/article_7879776356_1d5abd864068016j9g.html>
+- **周杰伦** | 周杰伦青岛演唱会刷纪录，全城应援太震撼 <https://k.sina.com.cn/article_7879776356_1d5abd864068016j9i.html>
+- **周杰伦** | 全景给氛围，特写给状态，侧拍给故事，一场演唱会，被玩出了三种打开方式 <https://k.sina.com.cn/article_2387903701_m8e5484d505301mg9s.html>
+- **特朗普** | 泽连斯基怂恿特朗普：制裁中俄企业 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE0tcjNhNy1lUFBBQmxnS3hLOTZIUGwxc20yRTVrSG5NRC1GQ2ZodHpLVnQxdlpUS0VUaUxqUkctTFdtY3FFMEZhR0dLei0?oc=5>
+- **特朗普** | 特朗普称对伊朗下一步行动“进展顺利” <https://news.google.com/rss/articles/CBMieEFVX3lxTE5mYlFERmVLci1JLTFEU0tfWmxQQ2VlVnhDVEgwQUs5OURMMk9LUjl6dGRUbTE5TklOS3JQeE5GQmNaZzQwRXpmTkpDYWs0R09lOVBGY3p5M0t6TEgzNXBJVE1kR0FUTWNNQUwxNFlZdGhoeFdfamFYOA?oc=5>
+- **特朗普** | 特朗普核心内阁闭门会：一些事已作出决定 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9YaXFPZU9WRms0TTFoSEc2X0FtSlRVd2h6VUxoNzV0V1dsNUdhS3lJZmc3TW5ELXNxNDdSWGd4QWZ4Y1l0dE5XRnVqdmY?oc=5>
+- **特朗普** | 特朗普因全年采用夏令时法案受阻，在社交平台公布参议员电话号码并鼓励民众致电 <https://news.google.com/rss/articles/CBMijwFBVV95cUxPczdTb09ZeERQR3RBS3pqRGdDcGx6S1BVMGlWb3kyWkVleGI3Q3FIUjB3dGlPNU1yNXRlbTJwd2FjSVlmSndWVklHU3cwN3Vvck9BaXREWEJnU1Q3d0szTFFCM3N1TlQ1Tmk1UVdaWUtDVWFMbDV0Q0RQTEpCSWJ2bVRzSm9YVi1DMDEyc3FUQQ?oc=5>
 
 ### 2026-10-04 02:48  (22 条)
 
