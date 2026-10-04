@@ -1,122 +1,89 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-04 18:29**
-- 本轮扫到 13237 条, 新增 **14** 条
+- 最近更新: **2026-10-04 21:50**
+- 本轮扫到 13245 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (14 条)
+## 本轮新发现 (8 条)
 
-### 青岛为周杰伦演唱会做了哪些应援布置
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923375_1d5ae16af068020xj6.html>
-
-### 周杰伦青岛演唱会，一场跨越八年的青春狂欢
+### 周杰伦演唱会上演亲子名场面
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923375_1d5ae16af068020xj2.html>
+- 链接: <https://video.sina.com.cn/p/finance/2026-10-04/detail-iniuahcf7073266.d.html>
 
-### 在青岛机场打卡周杰伦演唱会楼
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1899227237_m7133e86503308pu2a.html>
-
-### 白宫AI峰会“权力图谱”：扎克伯格最受特朗普认可，马斯克刻意疏离，Amodei焦虑藏不住
+### 这个反华议员，被特朗普“开盒”了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-10-04 09:00
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qZ2ZINThpMEFfd1I3YTV5V0tzYlA5NG56SkgwWFdrcG1ubVlCaEJCbkZ6MHZEcGRHUjRTM3pFa3RmTE1EMENjSG1XS1lXRFpnajJr?oc=5>
-
-### 特朗普和马斯克共舞， 马斯克也很识相，知道马上站了起来跟着音乐跟着舞
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-10-04 17:50
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1YSDRhTnJPRGQzX0ZXdVk0cjBQRDdlNWZ5M1gxanZCcjhVNnlZUXlTQTlLNDJld1c2OV9UZ2FIaVlMVjYxaGJxbGJ1MG5qa3FrSjJoWEYzUkRQcGFRZjB6Ujdabk1YN1VaNEZELUpSX3RLRDQ?oc=5>
-
-### 白宫国家经济委员会主任哈塞特：鲍威尔应该离开美联储理事会
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-10-04 17:13
-- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa0FPR3FFd2NzZDgwV1hudUlOai1WNzlWVmExeWlDbzZqc0xSald1M1gxdW9tNGNQTnJ3QjRDX0ZhQmR2dVE3YzNTeEVmWUMxSUtBUEtzTG5LOHpKWXBWc3ZORUM5YXVHRC1mcDIxSTJhMTVjX216enItTWpzS3Q3ekg3NDJaWWFQUzg4dVJJWUJiYzhmaFdaX1ZucnFvdXV0enNrMW41SU1zZw?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-10-04 15:37
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5aSmRFODk2RnpiNEtRMTJrZjVGQ3lxT0Y3RGUtUFdhZVNKaS1HUGFSeS1NVmMybUJLaG5KRnBLMEd4cWp1Z3lUY2hfanZYUHljcnkxT2UwOWZuaEdMTndETjFaY3VVZGhBek82V2tQSG4?oc=5>
 
 ### 特朗普宣布成立“超级智能特别工作组”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-10-04 12:37
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9CNEVldVFmZG1td2NKLTV2ampOYXpRcS1KOE9WRy0wM1g4RkV6WEtvSy1JUGxBRnRaUFg0RHo1Uk9HczgzeDdGOFQzVU1aRlF0RTR5QTlOdEo5QWFydnJmZFNWVGpJcXFxR2hISGdZUDU1VmR4STRxSg?oc=5>
+- 时间: 2026-10-04 13:29
+- 链接: <https://news.google.com/rss/articles/CBMijAJBVV95cUxQRW0xekxxTUpSbnppMmVQY0F0VHNwYXd6MjB0REJ3VkljckNLWGtrWjRtSWZjRmtQVGV0cTVBSVdXdzB1T2pERHM0TEZ2eENtb0RWX1JqRjNzU1YzbDl2czJDUFBrcEYydk5SR3VEM2NXZkxzN09CQk9PcE1RQ0xHNlM4d0k2eFIxdVI4SE1FejRFaVMtRU9rUkhkUFZzbVlma05EMjNxVFhrZ3p5YUs4UWlMQWJCMUpXUVlrVkMzcmZMUVVvMGpxdzhrZUlnM3hxN0IxeUJ2TVA4WjMwQlJYeE5TR1FoR0k0M2c4UENOTG5NSEQ0RGktR3NZdkhJNFVkUjVfY1VkYUFnX09K?oc=5>
 
-### OpenAI称AI进入新时代，回应特朗普超级智能说法
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-10-04 18:28
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5qeUc0cnc2QWprX1ZiUDNIbzVXSFZrckdkQ1lhbkZ3aTE3bXlDOWYySTdkaGtWNG9SVlgwc0FIaDhELWxhbVpOV056V002VTQ1OU5URXRxQkNCSnYzUC0yM1ZiVjFsbU5Jcjlta2x4OWZkWTQ?oc=5>
-
-### “特朗普因素”如何介入巴西大选 干预或适得其反
+### 泽连斯基怂恿特朗普：制裁中俄企业
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-10-04 15:25
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9wbFRmaVhFNTF1UjRMRXZlOWhBRHBTbWFNZmdUR1R0X2I1WE44S1R1a19EclJTOEM3U1lpZGQyV2VGcHVXcXJmcFRkajRJclVsZGRsMWRrcWp1MC1DV19ralRMMERUMGw1MVVVdjJzTDg?oc=5>
+- 场馆: 观察者网
+- 时间: 2026-10-03 23:39
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE03N3hzUmhQUVZHcExRWVdzNlFCb0NHQjBzOGM2V2d3aklEVlVVNGc3cGNYS3RhSm1HeGhPSHhQdVd1MVlNMkx0Y1gzSzlBN0JMZG9PbGJMRHBhWW80VFB0N0xiS3VFMWZvbUlKekFJYlk1c2s?oc=5>
 
-### 韩媒不满：特朗普把韩国当成“有钱的冤大头”，唯有屈辱可言
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: thepaper.cn
-- 时间: 2026-10-04 15:24
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE85Y0UyWS03cUdFM0RrNmIxWi1KZFpxOWVZRGJaNXdUTXVmdWtsa3Z0bUhDZjE3bUg3T0ZzSkRka25Eb19yZmd3cUJGUzZxaGp2RWd3WlRjNjIyTmJDOVE?oc=5>
-
-### 特朗普鼓励民众致电：拨打此号码，让他知道你们的想法
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-10-04 03:28
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBYNWx2TWlTVWFVM3pYZnNYZFYwRXY1Z09XYk5adkU1TWU0bzdfdXRrWjlpc1dKNE04YWU4WkQ0X1VPcU1BQzFBMjZwREVodm5kdWhXTEcxUENVS1pqSzJIUC11aFFoTElJenE3V21tZjQ?oc=5>
-
-### 为废除冬令时，特朗普把参议员手机号挂到网上
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-04 10:59
-- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTFBJWi1rQlJiU2hxQzh6VTRPUWpQNVp4aW9OZ1N3bGcwUFNzSVJic3NFTXhZbmFCazJCRTBSc0VpcnE5ZkpWYWZmaTN3OUZwa0VK?oc=5>
-
-### 特朗普公布一议员手机号，鼓励民众打电话说服他
+### 特朗普提名美总统人质事务特使人选
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 搜狐网
-- 时间: 2026-10-04 15:59
-- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY1BXQWVOLUdiZW9aZjh1ZlZDYzFSSkpqcmpPb0xxM0JmaWF1U1FYSFlzcWRVZG9lU3FpbXZkZ3cxNU9zRjFtTTlweExNRDc2Mk5sZzhJemdaazJXX0h4V1cwQ0VmLXBaU0dsS2w4dWN0eDZDdXBNQnRra3g3Y1pCVFcwYjdRaG5i?oc=5>
+- 时间: 2026-10-04 15:46
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTHdHOS12dld5ZlQzQXpJRkowc0FNdzhSWF8zOVZrWDR6N3ZjU1FwVGJiVGw4aW1HNEd0T1F5dHpURFV5VTZVcE1CbTFnVkhvUTZRR3pXYUhtUWNBOGJmN2diVWRjRk45UHk0WlVLSTdOTkFWNlZrT2tBTGl2Q0sxNjUxYXFQdmQ2?oc=5>
 
-### 加拿大为何要为（概率极小的）美国入侵做准备
+### 特朗普：与伊朗的战事将“很快结束”
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-10-04 14:52
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2bF9GX0s4alpobWRTWV80VHlVaVUyQjJGWTVtTmEzMnpyZ3FhbXFSalBQM2VpU254Smd4aG9ndmdDQ0hEdUN1aHpoZ3k3Q1h2SGduTng3RXFGTnBTRHJ0TEZBc05UM1HSAWxBVV95cUxNN2dvYWNVWkxLNVVkdkRjbzlOc1hEWTAtWGQ2Y0IzelJTYTVEcmRvaGNGeEJzWDFUQjlwOFphclRvMHNvREhNcXdFd2pNSWtWX0V3M2lRckI4OTl1MGxRZHI5dFpzLXRpSUZsRl8?oc=5>
+- 场馆: 东方财富
+- 时间: 2026-10-03 00:09
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1XOXE3czdORnZfTVhGVTd2VmFnbTZpel9TemNZOTVKNHdsb2d6Y1YtS2MzajVsN1VZRVNuOVJqSVd2OVYtQnJkZDk3Q2E4RE5CcmlXT2VVaDdtMlprcHliaDlUNHV4QQ?oc=5>
+
+### 特朗普宣布成立“超级智能特别工作组”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: chinanews.com.cn
+- 时间: 2026-10-04 14:35
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYczJoTkl0bkdBWmVSUXlWNXkyQktWZDBUcWZGY21Nd01STFZ4RzJyWGFSYXRoZkp4YmNveC1WUFA4c0JjeWhRczQtSVY2THJFX3pwSndqbzdKVm41clUtVlpMdm8xYjh6?oc=5>
+
+### 美国总统特朗普的首席经济顾问呼吁前美联储主席鲍威尔离开美联储理事会
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 东方财富
+- 时间: 2026-10-04 19:35
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oWENydWJqQ0x3cTViUlJQWlhhSldvRnVVVjZuRG4xRThlSDBSR2F3X2F0QTZsOEU2clV5aXZFckdiblg0RUVENzRSN3ZTM2R2NnlaellkNHNmOE94MDUxcw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-04 21:50  (8 条)
+
+- **周杰伦** | 周杰伦演唱会上演亲子名场面 <https://video.sina.com.cn/p/finance/2026-10-04/detail-iniuahcf7073266.d.html>
+- **特朗普** | 这个反华议员，被特朗普“开盒”了 <https://news.google.com/rss/articles/CBMicEFVX3lxTE5aSmRFODk2RnpiNEtRMTJrZjVGQ3lxT0Y3RGUtUFdhZVNKaS1HUGFSeS1NVmMybUJLaG5KRnBLMEd4cWp1Z3lUY2hfanZYUHljcnkxT2UwOWZuaEdMTndETjFaY3VVZGhBek82V2tQSG4?oc=5>
+- **特朗普** | 特朗普宣布成立“超级智能特别工作组” <https://news.google.com/rss/articles/CBMijAJBVV95cUxQRW0xekxxTUpSbnppMmVQY0F0VHNwYXd6MjB0REJ3VkljckNLWGtrWjRtSWZjRmtQVGV0cTVBSVdXdzB1T2pERHM0TEZ2eENtb0RWX1JqRjNzU1YzbDl2czJDUFBrcEYydk5SR3VEM2NXZkxzN09CQk9PcE1RQ0xHNlM4d0k2eFIxdVI4SE1FejRFaVMtRU9rUkhkUFZzbVlma05EMjNxVFhrZ3p5YUs4UWlMQWJCMUpXUVlrVkMzcmZMUVVvMGpxdzhrZUlnM3hxN0IxeUJ2TVA4WjMwQlJYeE5TR1FoR0k0M2c4UENOTG5NSEQ0RGktR3NZdkhJNFVkUjVfY1VkYUFnX09K?oc=5>
+- **特朗普** | 泽连斯基怂恿特朗普：制裁中俄企业 <https://news.google.com/rss/articles/CBMic0FVX3lxTE03N3hzUmhQUVZHcExRWVdzNlFCb0NHQjBzOGM2V2d3aklEVlVVNGc3cGNYS3RhSm1HeGhPSHhQdVd1MVlNMkx0Y1gzSzlBN0JMZG9PbGJMRHBhWW80VFB0N0xiS3VFMWZvbUlKekFJYlk1c2s?oc=5>
+- **特朗普** | 特朗普提名美总统人质事务特使人选 <https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTHdHOS12dld5ZlQzQXpJRkowc0FNdzhSWF8zOVZrWDR6N3ZjU1FwVGJiVGw4aW1HNEd0T1F5dHpURFV5VTZVcE1CbTFnVkhvUTZRR3pXYUhtUWNBOGJmN2diVWRjRk45UHk0WlVLSTdOTkFWNlZrT2tBTGl2Q0sxNjUxYXFQdmQ2?oc=5>
+- **特朗普** | 特朗普：与伊朗的战事将“很快结束” <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1XOXE3czdORnZfTVhGVTd2VmFnbTZpel9TemNZOTVKNHdsb2d6Y1YtS2MzajVsN1VZRVNuOVJqSVd2OVYtQnJkZDk3Q2E4RE5CcmlXT2VVaDdtMlprcHliaDlUNHV4QQ?oc=5>
+- **特朗普** | 特朗普宣布成立“超级智能特别工作组” <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYczJoTkl0bkdBWmVSUXlWNXkyQktWZDBUcWZGY21Nd01STFZ4RzJyWGFSYXRoZkp4YmNveC1WUFA4c0JjeWhRczQtSVY2THJFX3pwSndqbzdKVm41clUtVlpMdm8xYjh6?oc=5>
+- **特朗普** | 美国总统特朗普的首席经济顾问呼吁前美联储主席鲍威尔离开美联储理事会 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oWENydWJqQ0x3cTViUlJQWlhhSldvRnVVVjZuRG4xRThlSDBSR2F3X2F0QTZsOEU2clV5aXZFckdiblg0RUVENzRSN3ZTM2R2NnlaellkNHNmOE94MDUxcw?oc=5>
 
 ### 2026-10-04 18:29  (14 条)
 
