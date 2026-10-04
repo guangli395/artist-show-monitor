@@ -1,144 +1,181 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-04 09:13**
-- 本轮扫到 13203 条, 新增 **20** 条
+- 最近更新: **2026-10-04 14:54**
+- 本轮扫到 13223 条, 新增 **20** 条
 
 ---
 
 ## 本轮新发现 (20 条)
 
-### 王一博开学季发布大量新图
+### 周杰伦下一站巡回演唱会在哪里举行？
 
-- 艺人/关键词: **王一博**
+- 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2388733261_8e612d4d04001qgl2.html>
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016kgk.html>
+
+### 周杰伦青岛演唱会破纪录，全城上演浪漫灯光秀
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016kgi.html>
+
+### 为什么大量外地歌迷奔赴周杰伦青岛演唱会？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016k9g.html>
+
+### 周杰伦演唱会上有歌迷求婚的感人瞬间吗？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016k9e.html>
+
+### 周杰伦青岛演唱会打破纪录 全城应援太燃了
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016k9a.html>
 
 ### 周杰伦青岛演唱会名场面来袭周杰伦青岛演唱会变撒糖现场
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1789681642_m6aac5fea03308psz0.html>
+- 链接: <https://k.sina.com.cn/article_1736068007_m677a4ba703302c92s.html>
 
-### 周杰伦演唱会现场求婚事件是怎么回事？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016jqg.html>
-
-### 周杰伦演唱会专属灯光秀点亮浮山湾
+### 周杰伦演唱会哪些经典曲目联动粉色海洋
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1899227237_m7133e86503308psp8.html>
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016k04.html>
 
-### 青岛故事丨周杰伦青岛演唱会10人点歌4个带娃
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1668589317_m6374a70503301j336.html>
-
-### 现场直击周杰伦青岛演唱会
+### 返场开始前，手机里已经躺着十张今晚的神图预览，这感觉也太带劲儿了
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1668589317_m6374a70503301j2w8.html>
+- 链接: <https://k.sina.com.cn/article_1719014980_m6676164405301o6ky.html?from=tech>
 
-### 周杰伦青岛演唱会《爱在西元前》为何能引发全场合唱？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016jfa.html>
-
-### 周杰伦青岛演唱会为何破纪录？歌迷热情创下新高
+### 飞天奖发布肖战藏海传高光片段
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801ma2a.html>
+- 链接: <https://video.sina.com.cn/p/finance/2026-10-04/detail-iniuahce0303263.d.html>
 
-### 周杰伦南京演唱会最新进展：观演规模与票房热度刷新行业纪录
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801ma22.html>
-
-### 青岛为周杰伦演唱会准备了哪些特别福利
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016j9u.html>
-
-### 周杰伦演唱会上有哪些令人感动的瞬间
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016j9s.html>
-
-### 外地歌迷去青岛看周杰伦演唱会如何购票
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016j9q.html>
-
-### 周杰伦青岛演唱会演唱了哪些经典歌曲
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016j9k.html>
-
-### 周杰伦青岛演唱会带动了当地哪些消费
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016j9g.html>
-
-### 周杰伦青岛演唱会刷纪录，全城应援太震撼
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016j9i.html>
-
-### 全景给氛围，特写给状态，侧拍给故事，一场演唱会，被玩出了三种打开方式
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2387903701_m8e5484d505301mg9s.html>
-
-### 泽连斯基怂恿特朗普：制裁中俄企业
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-03 23:39
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE0tcjNhNy1lUFBBQmxnS3hLOTZIUGwxc20yRTVrSG5NRC1GQ2ZodHpLVnQxdlpUS0VUaUxqUkctTFdtY3FFMEZhR0dLei0?oc=5>
-
-### 特朗普称对伊朗下一步行动“进展顺利”
+### 这个反华议员，被特朗普“开盒”了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-10-03 06:05
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5mYlFERmVLci1JLTFEU0tfWmxQQ2VlVnhDVEgwQUs5OURMMk9LUjl6dGRUbTE5TklOS3JQeE5GQmNaZzQwRXpmTkpDYWs0R09lOVBGY3p5M0t6TEgzNXBJVE1kR0FUTWNNQUwxNFlZdGhoeFdfamFYOA?oc=5>
+- 时间: 2026-10-04 13:41
+- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxONHd3QzhXazFIa3ZGZWFkc0ZoZHEwRWtqQjJEdkphcnJQWGZlTXZsV0VCbV9lNUJaQnh3RTlPX2Q2U19LQjJfRmtyYzNVZUp5V2hMTXpSeElpd0dxUTFQd1JsSXN2MlRnZGdEUTF3cHFXVlBjOHpZWi1vV0xjcERKYWpRRnFlSUxFM1JB?oc=5>
 
-### 特朗普核心内阁闭门会：一些事已作出决定
+### 重归于好？马斯克重返美政府，新职务已确定，特朗普的野心暴露
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 手机新浪网
+- 时间: 2026-10-04 13:23
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE03bjZwTVF0Z2FubGVzdTBRdzV1QzdlWTFHZWRpTTRqYlM1TEZPLVg5SXV3R1RsWkU0QTdJcnRaNjJtUVRDMXNIcjBpV2dSazNWaUk1TnQzMWlJTjZJNVYxWkZOaXhZRGdLWlZiT1dxNlRPQQ?oc=5>
+
+### 特朗普提名约翰·科尔为美总统人质事务特使
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-10-04 13:40
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBieV9QRHFxcXdmZXFQQmN6dDRyYlhNN3J3VDVNUlJPekpnYVMxaVBXM1ZzQlZUcXR0UlgxRmgzTXhlUUdQc25MTmFlZURoSXg5LVVzWTVNMWpGQThBSVh1MmJNeWtIcFpxMmYwdm9EQmZhOW9SQTRVSw?oc=5>
+
+### 特朗普最新表态：与伊朗的战事将“很快结束”！此前类似说法已多达几十次
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: wallstreetcn.com
+- 时间: 2026-10-03 00:55
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTFA5LWlWZ0Z0aHZ5aTNRS1lXa1NZMS1FMWFPX3ZVRERoVmlCbXQyeklHdWE2S2dVZW1Ya0xyUjV4SEJMRnZ2QV8xaC1zdDd3MU1SekFz?oc=5>
+
+### 特朗普“AI沙皇”人选曝光
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-10-03 08:39
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9YaXFPZU9WRms0TTFoSEc2X0FtSlRVd2h6VUxoNzV0V1dsNUdhS3lJZmc3TW5ELXNxNDdSWGd4QWZ4Y1l0dE5XRnVqdmY?oc=5>
+- 时间: 2026-10-04 06:45
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9EckhfVXNVVG11dmVkaDh1WnB1ZDFJRmhPVTFnVTZOVUstUGlRa2FSR01IMEVOTGxyWmxEU1FWb055TkZhckY5S3poM0s?oc=5>
 
-### 特朗普因全年采用夏令时法案受阻，在社交平台公布参议员电话号码并鼓励民众致电
+### 特朗普“AI沙皇”人选曝光：现任美国国家情报总监 明确反对暂停AI开发
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: cls.cn
+- 时间: 2026-10-04 07:47
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE1kd1dHUmFKbVlnWjBEZ2d2ZFUyT0ZrYkNRa0tPQU5hY3diQWVPWEdLTC1ZclI1ZGtSc1dvVHMxeDJfRFhJQUY3Vg?oc=5>
+
+### 特朗普将任命国家情报总监 兼掌人工智能事务
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-10-02 21:23
+- 链接: <https://news.google.com/rss/articles/CBMi0AJBVV95cUxPZTVfNEJmMDl6cmlpaDlHbFlfa0RuUW9JX0JpZ2dxTUZLMk1iZHlqcWJ3VFNtVzRkV1FSck14Q1JNYlFlMWljdkRGMjQ3RURtQ0tZOGlodzV2QWR5Z1F6T1duMDUyV3ZyNm1QbjhjWG1KTkxDVGg5V2x1Y3d5U0V5SDNMbmU1ZzVmZ0FlN0Q0MnNDS0MteEY2MVFZYTA3TGZxVUJuWDRicVBVNVlTdnptb0tkS2dUcXA4QnIxR0w5MDhiRjBYNHY1LTdNUThqbEFFM0FyaHJtZS0tQlgxMGpqLVJPSzJsbFFSeWF2OG5ORjZabTZkci1ieThzODVVYzFmSi1BcXppbk5jZEt3TEh2R254TnZCalNKZUZFOFd1OFdOYlBtM2hHeFVEa2ZGQi1zZHI2TlRLa0lEdlBGemQ4V0NyYUNCNkg5VnZ4NGxET1E?oc=5>
+
+### 特朗普宣布成立“超级智能特别工作组”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 搜狐网
-- 时间: 2026-10-04 06:49
-- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxPczdTb09ZeERQR3RBS3pqRGdDcGx6S1BVMGlWb3kyWkVleGI3Q3FIUjB3dGlPNU1yNXRlbTJwd2FjSVlmSndWVklHU3cwN3Vvck9BaXREWEJnU1Q3d0szTFFCM3N1TlQ1Tmk1UVdaWUtDVWFMbDV0Q0RQTEpCSWJ2bVRzSm9YVi1DMDEyc3FUQQ?oc=5>
+- 时间: 2026-10-04 12:57
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxONGFfN1h1OVAwQVZIMFNHUDZWVXUwRUFjR1RCMl9XUEt3bDJJNlhQdVFjOUpHNFctOXM1ZEZDajhrNEdJaGEybUY2YWVfVmFUa2w1cktudXNwUGhZdkR2LXQ4VDVJMWhsVVk0RjFlcEtlVFlucDZiNk1NNXR1cW9BT05PQzlpQ05H?oc=5>
+
+### 特朗普：民调一直低估MAGA
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: jrj.com.cn
+- 时间: 2026-10-04 14:18
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTFBud2JydXp2WFVXc2dsNVNaam84c0JCb19NV0U3SkV6d3BmRU94WkJOUkQyLTFKcWV2Z2dfdlhZdWJxaTlsX2xWdVNxbGlTNmQ2QVpKNEItWEc0OWp1S1p3NS0zd3pnc2xqV01jQ3llVQ?oc=5>
+
+### 特朗普宣布成立“超级智能特别工作组”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-10-04 13:23
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9JSGwtWXlZWVFhbGhnNGNEVlp2TUE1MmJyUFlJNkhXd1hQc3hsR3EwS1pmSkF1SzlLUVVKakd0YjdOSFllTnhnU21UdDl3VHBGa2h4UVRuTzlXVkJGZ1Fma01DVURlQXVySndCSEx5cHQ?oc=5>
+
+### 特朗普提名约翰·科尔为美总统人质事务特使
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: news.cnr.cn
+- 时间: 2026-10-04 14:08
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nb0hCSTBsbWZLa1JSTlk3b1phd0dGNUF0cDlObThvUkRjaXlPV2F2aFhPc09vY2FHdk1fUERIbFRPbktQWmlNaUd2aGhFNno4TFFucHYxdUhyTzVvNjhreS1pVE05Y0I2?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-04 14:54  (20 条)
+
+- **周杰伦** | 周杰伦下一站巡回演唱会在哪里举行？ <https://k.sina.com.cn/article_7879776356_1d5abd864068016kgk.html>
+- **周杰伦** | 周杰伦青岛演唱会破纪录，全城上演浪漫灯光秀 <https://k.sina.com.cn/article_7879776356_1d5abd864068016kgi.html>
+- **周杰伦** | 为什么大量外地歌迷奔赴周杰伦青岛演唱会？ <https://k.sina.com.cn/article_7879776356_1d5abd864068016k9g.html>
+- **周杰伦** | 周杰伦演唱会上有歌迷求婚的感人瞬间吗？ <https://k.sina.com.cn/article_7879776356_1d5abd864068016k9e.html>
+- **周杰伦** | 周杰伦青岛演唱会打破纪录 全城应援太燃了 <https://k.sina.com.cn/article_7879776356_1d5abd864068016k9a.html>
+- **周杰伦** | 周杰伦青岛演唱会名场面来袭周杰伦青岛演唱会变撒糖现场 <https://k.sina.com.cn/article_1736068007_m677a4ba703302c92s.html>
+- **周杰伦** | 周杰伦演唱会哪些经典曲目联动粉色海洋 <https://k.sina.com.cn/article_7879776356_1d5abd864068016k04.html>
+- **周杰伦** | 返场开始前，手机里已经躺着十张今晚的神图预览，这感觉也太带劲儿了 <https://k.sina.com.cn/article_1719014980_m6676164405301o6ky.html?from=tech>
+- **周杰伦** | 飞天奖发布肖战藏海传高光片段 <https://video.sina.com.cn/p/finance/2026-10-04/detail-iniuahce0303263.d.html>
+- **特朗普** | 这个反华议员，被特朗普“开盒”了 <https://news.google.com/rss/articles/CBMiiwFBVV95cUxONHd3QzhXazFIa3ZGZWFkc0ZoZHEwRWtqQjJEdkphcnJQWGZlTXZsV0VCbV9lNUJaQnh3RTlPX2Q2U19LQjJfRmtyYzNVZUp5V2hMTXpSeElpd0dxUTFQd1JsSXN2MlRnZGdEUTF3cHFXVlBjOHpZWi1vV0xjcERKYWpRRnFlSUxFM1JB?oc=5>
+- **特朗普** | 重归于好？马斯克重返美政府，新职务已确定，特朗普的野心暴露 <https://news.google.com/rss/articles/CBMickFVX3lxTE03bjZwTVF0Z2FubGVzdTBRdzV1QzdlWTFHZWRpTTRqYlM1TEZPLVg5SXV3R1RsWkU0QTdJcnRaNjJtUVRDMXNIcjBpV2dSazNWaUk1TnQzMWlJTjZJNVYxWkZOaXhZRGdLWlZiT1dxNlRPQQ?oc=5>
+- **特朗普** | 特朗普提名约翰·科尔为美总统人质事务特使 <https://news.google.com/rss/articles/CBMieEFVX3lxTFBieV9QRHFxcXdmZXFQQmN6dDRyYlhNN3J3VDVNUlJPekpnYVMxaVBXM1ZzQlZUcXR0UlgxRmgzTXhlUUdQc25MTmFlZURoSXg5LVVzWTVNMWpGQThBSVh1MmJNeWtIcFpxMmYwdm9EQmZhOW9SQTRVSw?oc=5>
+- **特朗普** | 特朗普最新表态：与伊朗的战事将“很快结束”！此前类似说法已多达几十次 <https://news.google.com/rss/articles/CBMiU0FVX3lxTFA5LWlWZ0Z0aHZ5aTNRS1lXa1NZMS1FMWFPX3ZVRERoVmlCbXQyeklHdWE2S2dVZW1Ya0xyUjV4SEJMRnZ2QV8xaC1zdDd3MU1SekFz?oc=5>
+- **特朗普** | 特朗普“AI沙皇”人选曝光 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9EckhfVXNVVG11dmVkaDh1WnB1ZDFJRmhPVTFnVTZOVUstUGlRa2FSR01IMEVOTGxyWmxEU1FWb055TkZhckY5S3poM0s?oc=5>
+- **特朗普** | 特朗普“AI沙皇”人选曝光：现任美国国家情报总监 明确反对暂停AI开发 <https://news.google.com/rss/articles/CBMiSEFVX3lxTE1kd1dHUmFKbVlnWjBEZ2d2ZFUyT0ZrYkNRa0tPQU5hY3diQWVPWEdLTC1ZclI1ZGtSc1dvVHMxeDJfRFhJQUY3Vg?oc=5>
+- **特朗普** | 特朗普将任命国家情报总监 兼掌人工智能事务 <https://news.google.com/rss/articles/CBMi0AJBVV95cUxPZTVfNEJmMDl6cmlpaDlHbFlfa0RuUW9JX0JpZ2dxTUZLMk1iZHlqcWJ3VFNtVzRkV1FSck14Q1JNYlFlMWljdkRGMjQ3RURtQ0tZOGlodzV2QWR5Z1F6T1duMDUyV3ZyNm1QbjhjWG1KTkxDVGg5V2x1Y3d5U0V5SDNMbmU1ZzVmZ0FlN0Q0MnNDS0MteEY2MVFZYTA3TGZxVUJuWDRicVBVNVlTdnptb0tkS2dUcXA4QnIxR0w5MDhiRjBYNHY1LTdNUThqbEFFM0FyaHJtZS0tQlgxMGpqLVJPSzJsbFFSeWF2OG5ORjZabTZkci1ieThzODVVYzFmSi1BcXppbk5jZEt3TEh2R254TnZCalNKZUZFOFd1OFdOYlBtM2hHeFVEa2ZGQi1zZHI2TlRLa0lEdlBGemQ4V0NyYUNCNkg5VnZ4NGxET1E?oc=5>
+- **特朗普** | 特朗普宣布成立“超级智能特别工作组” <https://news.google.com/rss/articles/CBMiiAFBVV95cUxONGFfN1h1OVAwQVZIMFNHUDZWVXUwRUFjR1RCMl9XUEt3bDJJNlhQdVFjOUpHNFctOXM1ZEZDajhrNEdJaGEybUY2YWVfVmFUa2w1cktudXNwUGhZdkR2LXQ4VDVJMWhsVVk0RjFlcEtlVFlucDZiNk1NNXR1cW9BT05PQzlpQ05H?oc=5>
+- **特朗普** | 特朗普：民调一直低估MAGA <https://news.google.com/rss/articles/CBMib0FVX3lxTFBud2JydXp2WFVXc2dsNVNaam84c0JCb19NV0U3SkV6d3BmRU94WkJOUkQyLTFKcWV2Z2dfdlhZdWJxaTlsX2xWdVNxbGlTNmQ2QVpKNEItWEc0OWp1S1p3NS0zd3pnc2xqV01jQ3llVQ?oc=5>
+- **特朗普** | 特朗普宣布成立“超级智能特别工作组” <https://news.google.com/rss/articles/CBMicEFVX3lxTE9JSGwtWXlZWVFhbGhnNGNEVlp2TUE1MmJyUFlJNkhXd1hQc3hsR3EwS1pmSkF1SzlLUVVKakd0YjdOSFllTnhnU21UdDl3VHBGa2h4UVRuTzlXVkJGZ1Fma01DVURlQXVySndCSEx5cHQ?oc=5>
+- **特朗普** | 特朗普提名约翰·科尔为美总统人质事务特使 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nb0hCSTBsbWZLa1JSTlk3b1phd0dGNUF0cDlObThvUkRjaXlPV2F2aFhPc09vY2FHdk1fUERIbFRPbktQWmlNaUd2aGhFNno4TFFucHYxdUhyTzVvNjhreS1pVE05Y0I2?oc=5>
 
 ### 2026-10-04 09:13  (20 条)
 
