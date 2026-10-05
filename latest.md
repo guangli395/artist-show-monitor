@@ -1,346 +1,96 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-05 15:05**
-- 本轮扫到 13324 条, 新增 **51** 条
+- 最近更新: **2026-10-05 22:06**
+- 本轮扫到 13333 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (51 条)
+## 本轮新发现 (9 条)
 
-### 周杰伦演唱会现场歌迷求婚场面有多浪漫？
+### 亮相香奈儿2027春夏系列发布秀，身穿印花报纸外套，非常有型～巴黎时装周
 
-- 艺人/关键词: **周杰伦**
+- 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mdmk.html>
+- 链接: <https://k.sina.com.cn/article_1765148101_m693605c503301uzfm.html>
 
-### 周杰伦青岛演唱会爆火，万人合唱求婚名场面！
+### 王一博发布游园放空plog
 
-- 艺人/关键词: **周杰伦**
+- 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016mlk.html>
+- 链接: <https://k.sina.com.cn/article_6377398640_17c1f617004001ucdy.html>
 
-### 周杰伦青岛演唱会之后还有哪些城市巡演计划？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016mlo.html>
-
-### 周杰伦青岛演唱会火爆，连唱三场创纪录
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mdmi.html>
-
-### 青岛为何能吸引大量外地歌迷观看周杰伦演唱会？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016mli.html>
-
-### 周杰伦青岛演唱会有哪些浪漫的求婚名场面？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016mcc.html>
-
-### 周杰伦后续还会在其他城市开演唱会吗？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016mca.html>
-
-### 周杰伦青岛演唱会暖了3天，连称非常开心非常感动
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1668589317_m6374a70503301j4ww.html>
-
-### 周杰伦青岛演唱会歌单包括哪些经典曲目？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801md5g.html>
-
-### 周杰伦青岛演唱会现场有哪些浪漫的求婚场景？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016m5m.html>
-
-### 周杰伦青岛演唱会创下了哪些新纪录？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016m5i.html>
-
-### 周杰伦青岛演唱会的门票为何如此难抢？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016m5g.html>
-
-### 周杰伦青岛演唱会还有加场计划吗？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801md5e.html>
-
-### 周杰伦在青岛演唱会上唱了哪些经典歌曲？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016m5e.html>
-
-### 周杰伦青岛演唱会场内求婚，万人合唱破纪录
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801md5c.html>
-
-### 时隔八年！周杰伦青岛演唱会再现万人合唱名场面
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016m5a.html>
-
-### 周杰伦青岛演唱会爆了！万人合唱求婚名场面
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016m56.html>
-
-### 国庆杰迷奔赴青岛，周杰伦演唱会场外粉色海洋爆棚
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1668589317_m6374a70503301j4q4.html>
-
-### 周杰伦青岛演唱会现场有哪些经典歌曲？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mcye.html>
-
-### 周杰伦演唱会上歌迷求婚的浪漫场面如何？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mcya.html>
-
-### 周杰伦青岛演唱会如何拉动当地旅游消费？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mcy8.html>
-
-### 时隔八年！周杰伦青岛演唱会万人合唱名场面
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mcy2.html>
-
-### 周杰伦演唱会现场点歌环节，你永远想不到下一秒会发生什么
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1899227237_m7133e86503308pwi4.html>
-
-### 周杰伦演唱会为何选择在青岛连开三场
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mcqg.html>
-
-### 周杰伦青岛演唱会为何吸引大量外地歌迷
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016lpw.html>
-
-### 周杰伦青岛演唱会之后还有哪些城市场次？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016lpu.html>
-
-### 周杰伦未来还会在哪些城市举办演唱会？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mcq4.html>
-
-### 周杰伦青岛演唱会上有哪些浪漫求婚瞬间
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016lpo.html>
-
-### 周杰伦青岛演唱会现场哪些歌曲引发万人合唱
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016lpq.html>
-
-### 演唱会现场歌迷求婚场面有多浪漫？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mcpy.html>
-
-### 周杰伦青岛演唱会抢票有多难？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016lpe.html>
-
-### 周杰伦下一站演唱会会选在哪里
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016lpg.html>
-
-### 周杰伦青岛演唱会的抢票难度有多大
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016lpc.html>
-
-### 周杰伦青岛演唱会：时隔八年，万人合唱青春回忆
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mcpi.html>
-
-### 时隔八年！周杰伦青岛演唱会引爆全城刷屏
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016lp8.html>
-
-### 时隔八年！周杰伦青岛演唱会创造纪录，万人合唱求婚名场面
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016lp6.html>
-
-### 时隔八年青春回归！周杰伦青岛演唱会破纪录燃爆全场
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mcpc.html>
-
-### 周杰伦青岛演唱会，八年之约万人合唱求婚名场面
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016lp4.html>
-
-### 10月3日，周杰伦青岛演唱会开唱…
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924060_m1d5ae195c0330277lw.html>
-
-### 【美国中期选举】分析：若失国会控制权 特朗普将进入攻击模式
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-10-05 09:22
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5JX0FFSUUxaGt0a3hkSmhHWVFBTUpvZ1FtR2x3bjlKZWgwSzBPX1NMYmk5MTJqWXhlclFTSTRjVmlzd0VaNzNIbGVMYWk2WVZaZXBCTU1Fa1hxX0NlUW96MnMyLW1DM3pFQ3c?oc=5>
-
-### 中期选举临近，特朗普重申发放5000美元支票的承诺
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-10-05 14:19
-- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxQTXZXUUdQWGxRblFXN0dnMm92NjBWM1JuNjk0WXBHNU9FSmhHOGNYV3pkRlMzdnRqZmRESWVVUUFoWWpxVWdjWVluaUZqWEZBQUJ4cXhCWkJ2SXFTUGpiYXJqaTR5NlluRmx1VllRY2RRQ2lrQl9nNjNGeFFGWHpnbG5zVXdhbkFXdE81ZWZQa0NJd1BuRHhPLVF4QVI?oc=5>
-
-### 特朗普主持AI峰会，宣布成立超级智能特别工作组
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-10-05 12:46
-- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxPb29LS2QwUDJ6Q0lLWFlucDFYTGtRbGxaT2V4cGtSd0Zkc2YydUxpdW5RQzBzbzdFUTM5NEgzNlF2N0JHWXhSTmtTVzJJaUJlXzFKdjFKRVBYWDhkazJkY2ZvRlFjQjBfX0p1UjI1QWh4dGZJU1E1ZklOM2JOVmQ2dQ?oc=5>
-
-### 特朗普贸易顾问瞎操心：中方有能力干预
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-10-05 03:53
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1CS1F3bGNOaDIwOUcxbmNDd3V0aXNLWUhqSnpBZWJyUGx0RXFOdGlnRGc5Ums0N3A0OE1BQ0JWN0lHMTlqUWJaNXV1Q1hTMVpIVldBMENuNzhIQ19MN3VNNW9jOGdWX0tTcXZqemdqTlZubWM?oc=5>
-
-### 特朗普鼓励民众致电：拨打此号码，让他知道你们的想法|唐纳德·特朗普|美国国会|国会山报|美国总统|阿肯色州
+### 特朗普：因“具体威胁” 美军轰炸机撤离英国基地
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-10-04 03:28
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxPSDNsZHhRdUk1NzQtNWFibWFNS2tqWHlzNV85bGgwZTBVaElRT3Vab19odlJDZmpGQmx4WThUN0poRTBIQUlfQzI1SkxjSC1SOVo1dXppYThOZlVGZjJvQXR1OTYtLUFab1hEbjlyd1g2aHg0a0Z1bnp0Mms0WHIzTkhlcURzN0NRb2JzUmVpbUhORTlreEhXaQ?oc=5>
+- 时间: 2026-10-05 21:40
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1vcm91UGpBNS1JMDlPMUs0eVJPaTFVbndkeHpucTh3dXpDQndTa182TmROT00tc0hZZWw1RkVVU3M2bE92RnpTTmhtMVFkbmVQaDdjVGZlQ0V3bmx0aU92YmxIYTA3N1NWWGo4ay1OOEo?oc=5>
 
-### 为通过永久夏令时法案 特朗普社媒公开参议员电话施压
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-10-04 00:32
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5OaFlDWWY5ZXJ3a0FkRDhzbDNmV0dGM0FQZkdYVGFRUHpqTEUzNXl3RkRvV1lRZS1wZksydFMxQ2tFRldtd3JQVWJlZlRZSzBIRDhrX2ZZcmlnLWhMTWhiR19HWWlZQzlBOUE?oc=5>
-
-### 特朗普宣布组建“超级智能工作组”
+### 特朗普谈转移英国基地轰炸机：转移了一点，没挪多远。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-10-04 21:43
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE5zMmNtVmxQTEtBa3ptNGtRZy1YTHM4dzdET01UQlNOekdXVmhpV1FtZl80V2VwRERkanB6ZFVtWFZJV3FWTG9lMU10SGw4SS1Tc0VTVWVLRFJRSFdsWmZrWlVZNk9BbWg4S1ZvNmNDN2UtMGcwa3doN1d4VDNaakk?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-10-05 19:21
+- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE93NGl0UlBkZ05VU1psUHhjQVRLZk8xQnB3NU93OE5XWkdwZ3BkN19EWVdsdG45aE4wZnh4ZmV0OGFZWmJkYnBVcnZWV25DcHM?oc=5>
 
-### 台驻美代表：有信心特朗普终将批准140亿美元对台军售
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-10-05 10:59
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1SZFVuZldwU1lmQjRqTmkzakVURTI1VWNIQk5YXzVySnh1QXgwQWVlRktLemhFQm5SQzB2WWRhaER1ZGhFVnRyTU15ZlZEaU5OOGZqYzJDQkxWWHphZ3QzTDdjcFpOZ0JNVlE?oc=5>
-
-### 特朗普是俄乌冲突调停者还是获利者 渔翁得利之图谋
+### 美国总统特朗普谈及英国境内美军安全：“我认为是安全的”。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中华军事
-- 时间: 2026-10-05 07:37
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1Pb29HQXVkcTZQanZaS1U3NGFzaWVCMy1UNUNwTGFqX1MycVdZRFN4bV9UZzA3MWVwVVRONXZHZWhyemtWUmJkS3l2NDhwZDlWUldYaHNRY2szQVI2WjJ4aW1vT2w5RGN0VC1CcVJDblk?oc=5>
+- 场馆: 金融界
+- 时间: 2026-10-05 19:45
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE1wc3dYNjgwRDVQMXdCdkwzdlYxdWx2TkNSbk1FcmpTWGRESWRlZEtHQkVFRUZDeWVqUnpLMGllT3VFQl91T1k4SldDRFJaUXRCYlM1ZF95dGg2RDdSYlBSTVlVX0dZTUtaWFhoSUN3RQ?oc=5>
 
-### 特朗普宣布组建“超级智能工作组”
+### 特朗普：巴西大选将非常胶着。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-10-05 03:04
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFAzX2o5a04zc2Q4OXlDR3F0VWVHNEk5MVRCV2RIUVR4bjNEdlFwRzFucFdldnFJVDlEUjNrb2FqWHZjSXRzS0dkZThWUTVIcjFwTS1UcDZpSUh6cTJrRkJGa3R4ZWZDRE9P?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-10-05 19:23
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9GSjhUeGlBdU1QUEw1MG9Zd0lLZkxjTTlyWjd4dnh5M2VkVnZuMFF1ZmNIazJhVWVReVNyOEFzVzFWN1ZyVnNNbG9nVQ?oc=5>
 
-### “特习会”后两架美国 F-16V 抵台 “虽迟但到”的时机与信号
+### 特朗普任命Clayton领导人工智能工作组 以应对安全担忧
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-10-05 08:42
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1leUIyaDdtV3hhZ1Joc1lybHRnVHg0V0hSLVNOSnNGSzhrcEFJQVhaaFRCalhSNG53TkYtNVc4NHBBRFZSbzliSHRISEFCSmRBVUlrcVVoaDJhZVdlRUtXUlprNjhwTlXSAWxBVV95cUxOOHFlNkgtQ0xWb0RZUW10WDdFQ2NrYmhUNmNZTE12MkNIaktmOU9uZWwzRkYybjNPWHk3NXhlVFlTTmhtejBWa3UtRld5V20zbXBDdjhaSnNNbzc0QmZ3djBDdUR4ZDV2eWNGY3Q?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-10-04 21:00
+- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxQR0F3eXBRdmFZaXFHY01RX2tqRERSdjR2dDRuYjB2c1hMNzJsNnlUYzh5TDJkUWE5VEtJYk1Ka2laclNjWG4wdUFTdUdSS3BjUkZjT3BvTEhPVk0zOWZkSERUZDRkdXNuZkIyMDhmM3BVbE5HVk1Uc1hHWXlRVTFZVUw5VnVTNnpneTJ6Z05zd2F4NHBLX3FRRDZhNDRweWRkcUdVdjhaaGpXeng5dTBKTWlTR3Q0bWdkVHAzNldkbHUxSVZmNVJkcEJjbkg0WE93RXc?oc=5>
 
-### 川普岳母100岁四代同堂 10曾孙全到齐 却少了她
+### 巴西总统选举：弗拉维奥·博索纳罗首轮领先卢拉 特朗普祝贺其取得“重大胜利”
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 文学城
-- 时间: 2026-10-05 14:55
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5DOUd1MmNFXzZDcXktUWoxS2NwV0t4TnFkRnVfUlV1ejVuTmJ0dGdkd1lSalFMblFhVWVfOW1JOTdWUVZ3QlJZS0FMYldjMFBvbFVOTENyWUlfWF9ZeDhxbUI5M2JKSDI4?oc=5>
+- 场馆: RFI
+- 时间: 2026-10-05 21:07
+- 链接: <https://news.google.com/rss/articles/CBMi6wNBVV95cUxPVkJFUXEwYXQ2Z1RROEVxOThVUnQ1aUFyUU9RanBmTl9UWkZfYnVaUm91SExXRml5Xy0xRVRQeExsZEdPclYwU2JiZzVMZVN1b0hOUnE1MTZQb3VIZW1PeG9mczJwMjFvQlk5Z3dLcW5HeVYteXg0UE15VmpmbmhvcVZvMkRBN0FtWVB4eWF5YkdHcWg1eEFhbjlMV3NIRE5xMm81MF82Sk5yWW9BWTVCOF9GMDlJYVFVWlNvek1fTjVGbXBzX3hjWHFXT05FVG5ENkJwU29FZWduWTJoMVh2cXdNTkhpczlCOXgyamNyZWJITlBtX0ZONGVpdUdxTURXUVI5c2h5NS13ZFJjNXMxM05YNmFxRzdxMUZZYWd6M0lNbERxcVUzaVlpSHBoaDZSLS00cW1JNVhhREN3NVBvU2FldUVBcWU3OXlCMHRuQWxvOUVJdm1Tb29fMDlMeU5yVHpmWXNYak9sOWVpWE9xTFBkWGxmYzZjWGVHTTJNbXl3bXJyVU5POENlaWZFbkZHdTZBQmlfZ1pkOHY4UGxWTlA2NHl2c3FlWExKanFBNmFSWUZVWkRPZTBSMVF3dUNxWllINFFUYzZOUFBvVXZrbXRaaWF6WVBTUS1yRl9yM19LY0J2bkNudUhVUQ?oc=5>
+
+### 这个反华议员，被特朗普“开盒”了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-10-04 16:52
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1iV2dKQVUwYzFIdmk3YXVYVDJBMHdEcE9EeW92TFFhMUxYUVVKVG1JVkc5X0tBLW9rb0EyYWEzVUtReGdCck5iaTFwemM2bDNHSnpfRDFVYnhCcnI1Y24xMzlYMHdfN19SSnBfRGR1emdFbVJJTzFhVA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-05 22:06  (9 条)
+
+- **王一博** | 亮相香奈儿2027春夏系列发布秀，身穿印花报纸外套，非常有型～巴黎时装周 <https://k.sina.com.cn/article_1765148101_m693605c503301uzfm.html>
+- **王一博** | 王一博发布游园放空plog <https://k.sina.com.cn/article_6377398640_17c1f617004001ucdy.html>
+- **特朗普** | 特朗普：因“具体威胁” 美军轰炸机撤离英国基地 <https://news.google.com/rss/articles/CBMicEFVX3lxTE1vcm91UGpBNS1JMDlPMUs0eVJPaTFVbndkeHpucTh3dXpDQndTa182TmROT00tc0hZZWw1RkVVU3M2bE92RnpTTmhtMVFkbmVQaDdjVGZlQ0V3bmx0aU92YmxIYTA3N1NWWGo4ay1OOEo?oc=5>
+- **特朗普** | 特朗普谈转移英国基地轰炸机：转移了一点，没挪多远。 <https://news.google.com/rss/articles/CBMiT0FVX3lxTE93NGl0UlBkZ05VU1psUHhjQVRLZk8xQnB3NU93OE5XWkdwZ3BkN19EWVdsdG45aE4wZnh4ZmV0OGFZWmJkYnBVcnZWV25DcHM?oc=5>
+- **特朗普** | 美国总统特朗普谈及英国境内美军安全：“我认为是安全的”。 <https://news.google.com/rss/articles/CBMib0FVX3lxTE1wc3dYNjgwRDVQMXdCdkwzdlYxdWx2TkNSbk1FcmpTWGRESWRlZEtHQkVFRUZDeWVqUnpLMGllT3VFQl91T1k4SldDRFJaUXRCYlM1ZF95dGg2RDdSYlBSTVlVX0dZTUtaWFhoSUN3RQ?oc=5>
+- **特朗普** | 特朗普：巴西大选将非常胶着。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9GSjhUeGlBdU1QUEw1MG9Zd0lLZkxjTTlyWjd4dnh5M2VkVnZuMFF1ZmNIazJhVWVReVNyOEFzVzFWN1ZyVnNNbG9nVQ?oc=5>
+- **特朗普** | 特朗普任命Clayton领导人工智能工作组 以应对安全担忧 <https://news.google.com/rss/articles/CBMi0gFBVV95cUxQR0F3eXBRdmFZaXFHY01RX2tqRERSdjR2dDRuYjB2c1hMNzJsNnlUYzh5TDJkUWE5VEtJYk1Ka2laclNjWG4wdUFTdUdSS3BjUkZjT3BvTEhPVk0zOWZkSERUZDRkdXNuZkIyMDhmM3BVbE5HVk1Uc1hHWXlRVTFZVUw5VnVTNnpneTJ6Z05zd2F4NHBLX3FRRDZhNDRweWRkcUdVdjhaaGpXeng5dTBKTWlTR3Q0bWdkVHAzNldkbHUxSVZmNVJkcEJjbkg0WE93RXc?oc=5>
+- **特朗普** | 巴西总统选举：弗拉维奥·博索纳罗首轮领先卢拉 特朗普祝贺其取得“重大胜利” <https://news.google.com/rss/articles/CBMi6wNBVV95cUxPVkJFUXEwYXQ2Z1RROEVxOThVUnQ1aUFyUU9RanBmTl9UWkZfYnVaUm91SExXRml5Xy0xRVRQeExsZEdPclYwU2JiZzVMZVN1b0hOUnE1MTZQb3VIZW1PeG9mczJwMjFvQlk5Z3dLcW5HeVYteXg0UE15VmpmbmhvcVZvMkRBN0FtWVB4eWF5YkdHcWg1eEFhbjlMV3NIRE5xMm81MF82Sk5yWW9BWTVCOF9GMDlJYVFVWlNvek1fTjVGbXBzX3hjWHFXT05FVG5ENkJwU29FZWduWTJoMVh2cXdNTkhpczlCOXgyamNyZWJITlBtX0ZONGVpdUdxTURXUVI5c2h5NS13ZFJjNXMxM05YNmFxRzdxMUZZYWd6M0lNbERxcVUzaVlpSHBoaDZSLS00cW1JNVhhREN3NVBvU2FldUVBcWU3OXlCMHRuQWxvOUVJdm1Tb29fMDlMeU5yVHpmWXNYak9sOWVpWE9xTFBkWGxmYzZjWGVHTTJNbXl3bXJyVU5POENlaWZFbkZHdTZBQmlfZ1pkOHY4UGxWTlA2NHl2c3FlWExKanFBNmFSWUZVWkRPZTBSMVF3dUNxWllINFFUYzZOUFBvVXZrbXRaaWF6WVBTUS1yRl9yM19LY0J2bkNudUhVUQ?oc=5>
+- **特朗普** | 这个反华议员，被特朗普“开盒”了 <https://news.google.com/rss/articles/CBMieEFVX3lxTE1iV2dKQVUwYzFIdmk3YXVYVDJBMHdEcE9EeW92TFFhMUxYUVVKVG1JVkc5X0tBLW9rb0EyYWEzVUtReGdCck5iaTFwemM2bDNHSnpfRDFVYnhCcnI1Y24xMzlYMHdfN19SSnBfRGR1emdFbVJJTzFhVA?oc=5>
 
 ### 2026-10-05 15:05  (51 条)
 
