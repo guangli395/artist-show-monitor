@@ -1,78 +1,128 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-04 21:50**
-- 本轮扫到 13245 条, 新增 **8** 条
+- 最近更新: **2026-10-05 00:22**
+- 本轮扫到 13258 条, 新增 **13** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (13 条)
 
-### 周杰伦演唱会上演亲子名场面
+### 周杰伦演唱会上哪些经典曲目引发大合唱
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://video.sina.com.cn/p/finance/2026-10-04/detail-iniuahcf7073266.d.html>
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mc02.html>
 
-### 这个反华议员，被特朗普“开盒”了
+### 周杰伦青岛演唱会为何被称为八年之约
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mbzy.html>
+
+### 周杰伦青岛演唱会刷屏全城！八年之约点燃青春回忆
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mbzq.html>
+
+### 周杰伦青岛演唱会之后巡演下一站会去哪里？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016kxi.html>
+
+### 特朗普透露与金正恩关系：我们相处得很好，若有人拥有112枚核武器，应当与他保持良好关系
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-10-04 15:37
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5aSmRFODk2RnpiNEtRMTJrZjVGQ3lxT0Y3RGUtUFdhZVNKaS1HUGFSeS1NVmMybUJLaG5KRnBLMEd4cWp1Z3lUY2hfanZYUHljcnkxT2UwOWZuaEdMTndETjFaY3VVZGhBek82V2tQSG4?oc=5>
+- 时间: 2026-10-04 23:36
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1LWEI5elQ1WGRhYXhhRnp1YnJHSHZ1NGlqdUtMc2p1ZFZzN2dFaWVWRVd1VTdBcnNEcmhJWXZlZm5WeTVqNFd0dWZ6blVxWmR2YVk3ZXJyd013RWpUVEY2aEZCVTFRNE1wbllfRlM2NzA?oc=5>
 
-### 特朗普宣布成立“超级智能特别工作组”
+### “巴黎又烧了”，特朗普儿子痛批法国移民政策
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-10-04 23:34
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9JWjdnNmFVUUF2Z3VEVlpEbER0Ry1TN001emFzMm5CREwyUTFZWHpzRnhpVmdTOGt6VHd2WVVBN05ZRnhRdVZYajRLYWM?oc=5>
+
+### 周末要闻：非农数据爆冷 G7联手降油价 特朗普宣布成立超级智能工作组
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-10-04 13:29
-- 链接: <https://news.google.com/rss/articles/CBMijAJBVV95cUxQRW0xekxxTUpSbnppMmVQY0F0VHNwYXd6MjB0REJ3VkljckNLWGtrWjRtSWZjRmtQVGV0cTVBSVdXdzB1T2pERHM0TEZ2eENtb0RWX1JqRjNzU1YzbDl2czJDUFBrcEYydk5SR3VEM2NXZkxzN09CQk9PcE1RQ0xHNlM4d0k2eFIxdVI4SE1FejRFaVMtRU9rUkhkUFZzbVlma05EMjNxVFhrZ3p5YUs4UWlMQWJCMUpXUVlrVkMzcmZMUVVvMGpxdzhrZUlnM3hxN0IxeUJ2TVA4WjMwQlJYeE5TR1FoR0k0M2c4UENOTG5NSEQ0RGktR3NZdkhJNFVkUjVfY1VkYUFnX09K?oc=5>
+- 时间: 2026-10-04 22:31
+- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxPS0RKdm5jbEJOREVxTVRFTXlrTXJUdEowTmdJR2dFa1ExVFNPOC1HSExWa0pwN2EzR2FUcW94X1FXdXpBNVNHOVg2WVlzak5pS0ZBb2ZmTmVEZGx2V1V0NUx0WklqdGlZZ3UxdmNxTVFBMGxBaFB1TWlrTXVKSnEwbl9MZ200c3dEVHc?oc=5>
 
-### 泽连斯基怂恿特朗普：制裁中俄企业
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-10-03 23:39
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE03N3hzUmhQUVZHcExRWVdzNlFCb0NHQjBzOGM2V2d3aklEVlVVNGc3cGNYS3RhSm1HeGhPSHhQdVd1MVlNMkx0Y1gzSzlBN0JMZG9PbGJMRHBhWW80VFB0N0xiS3VFMWZvbUlKekFJYlk1c2s?oc=5>
-
-### 特朗普提名美总统人质事务特使人选
+### 为废除冬令时，特朗普把参议员手机号挂到网上
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-10-04 15:46
-- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTHdHOS12dld5ZlQzQXpJRkowc0FNdzhSWF8zOVZrWDR6N3ZjU1FwVGJiVGw4aW1HNEd0T1F5dHpURFV5VTZVcE1CbTFnVkhvUTZRR3pXYUhtUWNBOGJmN2diVWRjRk45UHk0WlVLSTdOTkFWNlZrT2tBTGl2Q0sxNjUxYXFQdmQ2?oc=5>
+- 场馆: cls.cn
+- 时间: 2026-10-04 13:48
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE5SRWtaY0pacVBfY2VldTUwc1NUZ1ZuZ2xjVER2OU4yNlRNNFFvakZYTWtRc3BWcFlNMFdlTnFaV19aTUxsUTZ6cA?oc=5>
 
-### 特朗普：与伊朗的战事将“很快结束”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-10-03 00:09
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1XOXE3czdORnZfTVhGVTd2VmFnbTZpel9TemNZOTVKNHdsb2d6Y1YtS2MzajVsN1VZRVNuOVJqSVd2OVYtQnJkZDk3Q2E4RE5CcmlXT2VVaDdtMlprcHliaDlUNHV4QQ?oc=5>
-
-### 特朗普宣布成立“超级智能特别工作组”
+### 因产生分歧 特朗普开盒美国反华议员
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: chinanews.com.cn
-- 时间: 2026-10-04 14:35
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYczJoTkl0bkdBWmVSUXlWNXkyQktWZDBUcWZGY21Nd01STFZ4RzJyWGFSYXRoZkp4YmNveC1WUFA4c0JjeWhRczQtSVY2THJFX3pwSndqbzdKVm41clUtVlpMdm8xYjh6?oc=5>
+- 场馆: 手机新浪网
+- 时间: 2026-10-04 23:16
+- 链接: <https://news.google.com/rss/articles/CBMikAFBVV95cUxQdHpmVUgwWDhVaHg5M1puYWlGdjBzVFZiVkNLaHNBQjhGcHZLckxTUzdyc0wzZE55VHAySHRZTzgxY3lVMmRmS0piTTdjM1hibDViQWxoLVVsbjZOb0lCcFhrNldsWFpuX0tkRWpSVmllSGo5MjVuTUVHMjdBS0hKVlJyWTVQZFhnSndDcnBNd3E?oc=5>
 
-### 美国总统特朗普的首席经济顾问呼吁前美联储主席鲍威尔离开美联储理事会
+### 特朗普宣布：组建“超级智能工作组”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-10-04 19:35
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oWENydWJqQ0x3cTViUlJQWlhhSldvRnVVVjZuRG4xRThlSDBSR2F3X2F0QTZsOEU2clV5aXZFckdiblg0RUVENzRSN3ZTM2R2NnlaellkNHNmOE94MDUxcw?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-10-04 23:27
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5jY0FfaTdkVjBYS2tRc3JjeFZ3amJwQXBDQVhhcGs5M3JLY3I4NUxWdGl4N1dZaDUwUlhRTXczeXREbUhwaXpfaGN5b2tvV2R2Szd1UExjV0F5djhDNDNuLUctVXlhMmVySnllcTAwcTdWQlU0VEhOYw?oc=5>
+
+### 【图集】白宫花絮照显示习近平赠特朗普金色太和殿模型
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-10-04 01:57
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE53Z3NucjdzWnAtajhSYlhCcGk4SGhjdHBkX2VzZ0JPUk1va0JzbXpPU09UY1dTT0dleGdwaTRpY3ZyMW85QmZWWGhtcTd5eFVIVVJwaldKYVJndjVwQ2ZQcnh5bjIzUQ?oc=5>
+
+### 特朗普任命国安情报总监兼任AI沙皇 成立“超级智能部队”
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: rfi.fr
+- 时间: 2026-10-04 22:45
+- 链接: <https://news.google.com/rss/articles/CBMi-AJBVV95cUxQc1M3Y1EwdE16aVowSC1lY3BGRF8tUjU0b0dFeThJck9ER28yRHMxRnBxcDJTc01odWpGd1dzTmVsbzgybDBuakdPT1BDa2pGMjRQTExnNTRra2F3M1QxalVOTXc3OUhKTVhpNUlMNzJ5bFg5bXAtVzhTTXo0RXFqQnhWOExNYjJna2d0alE5cW1ycEU0SEJMR1RUV21ydmR5UjdlLVEtLXU0LUMyNDBFMHhudFhoOG5DcnRiVklGUVU5OTAtNDdKdWxoU3REdTgxRzNfSWtUaWZTZDR2WmlUc0M3c2RBLXRSb19sSHdwTXFBdmZxVFJZZkYzWFozMkdwd2xmcXMtR0dvb3NXWWJZd0E2LTVkOUxGOVZVal82N1lMMTBabFZ0aWZYQWpKNWVjbDZNR1FFMkdxYWExODc4aVQzT1ZaeFNLNjlNS3VTTVhrblJOUUNpU1hSVV80ZVZBLS05cWs3ME9NY0N3TXdOakJJbENsMG1Z?oc=5>
+
+### 罕见！川普到原住民保留地集会 历任总统鲜少去…
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 文学城
+- 时间: 2026-10-04 20:39
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1LbFY5cnF6cHVwandYU1dQd244Zi14YXBmT3VSaWZPN1dHRURHNmRKa1ZPdjRUMEJnMllvMVRiNmRHNmhLRThJeXVYUmJaQmpSRXpEOGZONHhwYWRkVkQzTkp0cExHZWhs?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-05 00:22  (13 条)
+
+- **周杰伦** | 周杰伦演唱会上哪些经典曲目引发大合唱 <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mc02.html>
+- **周杰伦** | 周杰伦青岛演唱会为何被称为八年之约 <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mbzy.html>
+- **周杰伦** | 周杰伦青岛演唱会刷屏全城！八年之约点燃青春回忆 <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mbzq.html>
+- **周杰伦** | 周杰伦青岛演唱会之后巡演下一站会去哪里？ <https://k.sina.com.cn/article_7879776356_1d5abd864068016kxi.html>
+- **特朗普** | 特朗普透露与金正恩关系：我们相处得很好，若有人拥有112枚核武器，应当与他保持良好关系 <https://news.google.com/rss/articles/CBMicEFVX3lxTE1LWEI5elQ1WGRhYXhhRnp1YnJHSHZ1NGlqdUtMc2p1ZFZzN2dFaWVWRVd1VTdBcnNEcmhJWXZlZm5WeTVqNFd0dWZ6blVxWmR2YVk3ZXJyd013RWpUVEY2aEZCVTFRNE1wbllfRlM2NzA?oc=5>
+- **特朗普** | “巴黎又烧了”，特朗普儿子痛批法国移民政策 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9JWjdnNmFVUUF2Z3VEVlpEbER0Ry1TN001emFzMm5CREwyUTFZWHpzRnhpVmdTOGt6VHd2WVVBN05ZRnhRdVZYajRLYWM?oc=5>
+- **特朗普** | 周末要闻：非农数据爆冷 G7联手降油价 特朗普宣布成立超级智能工作组 <https://news.google.com/rss/articles/CBMiigFBVV95cUxPS0RKdm5jbEJOREVxTVRFTXlrTXJUdEowTmdJR2dFa1ExVFNPOC1HSExWa0pwN2EzR2FUcW94X1FXdXpBNVNHOVg2WVlzak5pS0ZBb2ZmTmVEZGx2V1V0NUx0WklqdGlZZ3UxdmNxTVFBMGxBaFB1TWlrTXVKSnEwbl9MZ200c3dEVHc?oc=5>
+- **特朗普** | 为废除冬令时，特朗普把参议员手机号挂到网上 <https://news.google.com/rss/articles/CBMiSEFVX3lxTE5SRWtaY0pacVBfY2VldTUwc1NUZ1ZuZ2xjVER2OU4yNlRNNFFvakZYTWtRc3BWcFlNMFdlTnFaV19aTUxsUTZ6cA?oc=5>
+- **特朗普** | 因产生分歧 特朗普开盒美国反华议员 <https://news.google.com/rss/articles/CBMikAFBVV95cUxQdHpmVUgwWDhVaHg5M1puYWlGdjBzVFZiVkNLaHNBQjhGcHZLckxTUzdyc0wzZE55VHAySHRZTzgxY3lVMmRmS0piTTdjM1hibDViQWxoLVVsbjZOb0lCcFhrNldsWFpuX0tkRWpSVmllSGo5MjVuTUVHMjdBS0hKVlJyWTVQZFhnSndDcnBNd3E?oc=5>
+- **特朗普** | 特朗普宣布：组建“超级智能工作组” <https://news.google.com/rss/articles/CBMieEFVX3lxTE5jY0FfaTdkVjBYS2tRc3JjeFZ3amJwQXBDQVhhcGs5M3JLY3I4NUxWdGl4N1dZaDUwUlhRTXczeXREbUhwaXpfaGN5b2tvV2R2Szd1UExjV0F5djhDNDNuLUctVXlhMmVySnllcTAwcTdWQlU0VEhOYw?oc=5>
+- **特朗普** | 【图集】白宫花絮照显示习近平赠特朗普金色太和殿模型 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE53Z3NucjdzWnAtajhSYlhCcGk4SGhjdHBkX2VzZ0JPUk1va0JzbXpPU09UY1dTT0dleGdwaTRpY3ZyMW85QmZWWGhtcTd5eFVIVVJwaldKYVJndjVwQ2ZQcnh5bjIzUQ?oc=5>
+- **Trump** | 特朗普任命国安情报总监兼任AI沙皇 成立“超级智能部队” <https://news.google.com/rss/articles/CBMi-AJBVV95cUxQc1M3Y1EwdE16aVowSC1lY3BGRF8tUjU0b0dFeThJck9ER28yRHMxRnBxcDJTc01odWpGd1dzTmVsbzgybDBuakdPT1BDa2pGMjRQTExnNTRra2F3M1QxalVOTXc3OUhKTVhpNUlMNzJ5bFg5bXAtVzhTTXo0RXFqQnhWOExNYjJna2d0alE5cW1ycEU0SEJMR1RUV21ydmR5UjdlLVEtLXU0LUMyNDBFMHhudFhoOG5DcnRiVklGUVU5OTAtNDdKdWxoU3REdTgxRzNfSWtUaWZTZDR2WmlUc0M3c2RBLXRSb19sSHdwTXFBdmZxVFJZZkYzWFozMkdwd2xmcXMtR0dvb3NXWWJZd0E2LTVkOUxGOVZVal82N1lMMTBabFZ0aWZYQWpKNWVjbDZNR1FFMkdxYWExODc4aVQzT1ZaeFNLNjlNS3VTTVhrblJOUUNpU1hSVV80ZVZBLS05cWs3ME9NY0N3TXdOakJJbENsMG1Z?oc=5>
+- **Trump** | 罕见！川普到原住民保留地集会 历任总统鲜少去… <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1LbFY5cnF6cHVwandYU1dQd244Zi14YXBmT3VSaWZPN1dHRURHNmRKa1ZPdjRUMEJnMllvMVRiNmRHNmhLRThJeXVYUmJaQmpSRXpEOGZONHhwYWRkVkQzTkp0cExHZWhs?oc=5>
 
 ### 2026-10-04 21:50  (8 条)
 
