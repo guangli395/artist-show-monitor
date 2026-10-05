@@ -1,112 +1,144 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-05 00:22**
-- 本轮扫到 13258 条, 新增 **13** 条
+- 最近更新: **2026-10-05 06:00**
+- 本轮扫到 13273 条, 新增 **15** 条
 
 ---
 
-## 本轮新发现 (13 条)
+## 本轮新发现 (15 条)
 
-### 周杰伦演唱会上哪些经典曲目引发大合唱
+### 在蔡徐坤演唱会上，麦毫无音响，心酸的不得了！
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_6579089201_m18824ef3103301gkhe.html>
+
+### 周杰伦青岛演唱会秒变大型求婚现场
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mc02.html>
+- 链接: <https://k.sina.com.cn/article_2942506383_maf63158f03301eurw.html>
 
-### 周杰伦青岛演唱会为何被称为八年之约
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mbzy.html>
-
-### 周杰伦青岛演唱会刷屏全城！八年之约点燃青春回忆
+### 周杰伦青岛演唱会16.5万人创纪录
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mbzq.html>
+- 链接: <https://k.sina.com.cn/article_1931238691_m731c5d2303302kmcc.html>
 
-### 周杰伦青岛演唱会之后巡演下一站会去哪里？
+### iPhone 18 Pro Max网络问题，用户称周杰伦演唱会无信号
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016kxi.html>
+- 链接: <https://k.sina.com.cn/article_7879923942_m1d5ae18e60330276hu.html>
 
-### 特朗普透露与金正恩关系：我们相处得很好，若有人拥有112枚核武器，应当与他保持良好关系
+### 周杰伦青岛演唱会破纪录
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_3037284894_mb5094a1e05301vyda.html?from=ent>
+
+### 臭名昭著的“美国之音”，要死灰复燃？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-10-04 23:36
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1LWEI5elQ1WGRhYXhhRnp1YnJHSHZ1NGlqdUtMc2p1ZFZzN2dFaWVWRVd1VTdBcnNEcmhJWXZlZm5WeTVqNFd0dWZ6blVxWmR2YVk3ZXJyd013RWpUVEY2aEZCVTFRNE1wbllfRlM2NzA?oc=5>
+- 时间: 2026-10-05 04:30
+- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxOZnZscmE3dEVxUUtZTFB1QjhXdlpEcUNCNVk0YzRoMEVuMHBkZDY4M3BIamw1NHNrNUpCUUxOZ0paLXMxN1hpcEtXRkFreF9xVEVjSmpWTHU4ckcyLUFuUkVwNHZLVVlHN0JYcmxLeGphcGtSOWlTY2VwUk5FWE5NQ2p3LTFySmIxR19aSVk4RHI5ZmRDdGZUdw?oc=5>
 
-### “巴黎又烧了”，特朗普儿子痛批法国移民政策
+### 白宫“AI 沙皇”就位！特朗普祭出跨部门工作组 高官 政客 硅谷大佬齐聚 美国在下什么棋？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: k.sina.com.cn
+- 时间: 2026-10-05 05:46
+- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxPeTE1SzhHS3RiQ3Z0WDd6eHh2UGR6dTB2Ml85UjlYSllSc1dDaFVhZ3ZYN1lKM29idTVTa3l3bHNnRGJYOF9RclV2QkdrRXpFSnFmeG1zTFZpT2oyUm0yc2dnZWVhM3NPSmxwR1RVR0g4aVNYSVlOLWRfajdEbkJpMg?oc=5>
+
+### 【早报】特朗普宣布成立“超级智能特别工作组”；马斯克称“SpaceXAI”将更名为“SpaceXSI”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 财联社
+- 时间: 2026-10-05 03:56
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE5vVjZMdTFxNENUdlVDbWhjVl9nRXh0MkwzWDZENGhYWnNGQkh4ckFXNlJESDVBUFpYNWNwcW9MMTJtQThPeTRHbw?oc=5>
+
+### 特朗普顾问喊话鲍威尔：赶快离开美联储！
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 搜狐网
+- 时间: 2026-10-05 04:40
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxNZTNBSFQwQmdXb3hkSVVVajRQWkU0NkIzX3podVNrdVBwNTN4WjhKdnNBWWpjLVpmZHFCdG1yRVJFS1ByajRwZmhXSjA0U2JiNHFxVWxQaFd5VG9mNEt0VHJVUktFQ1E3dGo4MnFGR0lhaVVHczR4TTV5djh3cUs3d184amVQTVlCWTV0eg?oc=5>
+
+### 这个反华议员，被特朗普“开盒”了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: QQ News
+- 时间: 2026-10-04 12:27
+- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTE9lTjBmT0xkYkdPU3dYWEVpak5VbEt0ZTBBRFpQSzN2cGxyb01rQnZ3VUd1aEJrSlh0YTlIN0drdTZJR3E3d2N3UjRVU0xlVG5WM1NfS1N4NHMzRFdYUl9KajU3SGJ2VUpNRFIyWGtn?oc=5>
+
+### 特朗普：超赚钱，不能关，否则就跑到中国去了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-10-04 23:34
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9JWjdnNmFVUUF2Z3VEVlpEbER0Ry1TN001emFzMm5CREwyUTFZWHpzRnhpVmdTOGt6VHd2WVVBN05ZRnhRdVZYajRLYWM?oc=5>
+- 时间: 2026-10-04 23:06
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ZYWptZzdLQ0ZnWWN4Q0ZkT1hUbnhQLThXU25mYVc4RnZtcmZMV1h0ZVd4SWdPSzdwREdZSTFGYjAxVG9lYjlOQW00a1E?oc=5>
 
-### 周末要闻：非农数据爆冷 G7联手降油价 特朗普宣布成立超级智能工作组
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-10-04 22:31
-- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxPS0RKdm5jbEJOREVxTVRFTXlrTXJUdEowTmdJR2dFa1ExVFNPOC1HSExWa0pwN2EzR2FUcW94X1FXdXpBNVNHOVg2WVlzak5pS0ZBb2ZmTmVEZGx2V1V0NUx0WklqdGlZZ3UxdmNxTVFBMGxBaFB1TWlrTXVKSnEwbl9MZ200c3dEVHc?oc=5>
-
-### 为废除冬令时，特朗普把参议员手机号挂到网上
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: cls.cn
-- 时间: 2026-10-04 13:48
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE5SRWtaY0pacVBfY2VldTUwc1NUZ1ZuZ2xjVER2OU4yNlRNNFFvakZYTWtRc3BWcFlNMFdlTnFaV19aTUxsUTZ6cA?oc=5>
-
-### 因产生分歧 特朗普开盒美国反华议员
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-10-04 23:16
-- 链接: <https://news.google.com/rss/articles/CBMikAFBVV95cUxQdHpmVUgwWDhVaHg5M1puYWlGdjBzVFZiVkNLaHNBQjhGcHZLckxTUzdyc0wzZE55VHAySHRZTzgxY3lVMmRmS0piTTdjM1hibDViQWxoLVVsbjZOb0lCcFhrNldsWFpuX0tkRWpSVmllSGo5MjVuTUVHMjdBS0hKVlJyWTVQZFhnSndDcnBNd3E?oc=5>
-
-### 特朗普宣布：组建“超级智能工作组”
+### 特朗普后悔了！
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-10-04 23:27
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5jY0FfaTdkVjBYS2tRc3JjeFZ3amJwQXBDQVhhcGs5M3JLY3I4NUxWdGl4N1dZaDUwUlhRTXczeXREbUhwaXpfaGN5b2tvV2R2Szd1UExjV0F5djhDNDNuLUctVXlhMmVySnllcTAwcTdWQlU0VEhOYw?oc=5>
+- 时间: 2026-10-03 04:39
+- 链接: <https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUTNmMFJDLUhvX0FYdDI2T1Z1djJpYWhycEg0ZjhsSUdxZ2kwTjY0eExfTlNCb0VJZVhTSkJ1dThMWlZCNGdJRDkwd3hjQjFDQ1JjMWxKNHJySGZKT1JjTEFzY0xHQWN2UEhzdTRMR0hCMm5ma2hKWDVremR6bjVxazBUQzlzOTdaR29GaTRJUXoxN3FPOTJVRl9BQTBhVElSdVl0b0plR1VTZ1VxZTQ3S3N4WTBLZEpuWVNRUlJzRGk2VHpsVF9WaA?oc=5>
 
-### 【图集】白宫花絮照显示习近平赠特朗普金色太和殿模型
+### 【美国中期选举】特朗普支持率连跌 共和党陷入高度焦虑
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 联合早报
-- 时间: 2026-10-04 01:57
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE53Z3NucjdzWnAtajhSYlhCcGk4SGhjdHBkX2VzZ0JPUk1va0JzbXpPU09UY1dTT0dleGdwaTRpY3ZyMW85QmZWWGhtcTd5eFVIVVJwaldKYVJndjVwQ2ZQcnh5bjIzUQ?oc=5>
+- 时间: 2026-10-04 10:23
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBpRjlKODEzSE85T2NzS01HSktfakZscDdsd2sxTWItS0JYQm5vb0Y0WWVPRVU4UDFaWEZ0cENyQi1mYVdCRWtWVkxPT1BIU2ZaMzgza3RNT1diRGEyWjhyVVRLSlpVZw?oc=5>
 
-### 特朗普任命国安情报总监兼任AI沙皇 成立“超级智能部队”
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: rfi.fr
-- 时间: 2026-10-04 22:45
-- 链接: <https://news.google.com/rss/articles/CBMi-AJBVV95cUxQc1M3Y1EwdE16aVowSC1lY3BGRF8tUjU0b0dFeThJck9ER28yRHMxRnBxcDJTc01odWpGd1dzTmVsbzgybDBuakdPT1BDa2pGMjRQTExnNTRra2F3M1QxalVOTXc3OUhKTVhpNUlMNzJ5bFg5bXAtVzhTTXo0RXFqQnhWOExNYjJna2d0alE5cW1ycEU0SEJMR1RUV21ydmR5UjdlLVEtLXU0LUMyNDBFMHhudFhoOG5DcnRiVklGUVU5OTAtNDdKdWxoU3REdTgxRzNfSWtUaWZTZDR2WmlUc0M3c2RBLXRSb19sSHdwTXFBdmZxVFJZZkYzWFozMkdwd2xmcXMtR0dvb3NXWWJZd0E2LTVkOUxGOVZVal82N1lMMTBabFZ0aWZYQWpKNWVjbDZNR1FFMkdxYWExODc4aVQzT1ZaeFNLNjlNS3VTTVhrblJOUUNpU1hSVV80ZVZBLS05cWs3ME9NY0N3TXdOakJJbENsMG1Z?oc=5>
-
-### 罕见！川普到原住民保留地集会 历任总统鲜少去…
+### 美国中期选举在即，特朗普宣布将再次向选民发钱
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 文学城
-- 时间: 2026-10-04 20:39
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1LbFY5cnF6cHVwandYU1dQd244Zi14YXBmT3VSaWZPN1dHRURHNmRKa1ZPdjRUMEJnMllvMVRiNmRHNmhLRThJeXVYUmJaQmpSRXpEOGZONHhwYWRkVkQzTkp0cExHZWhs?oc=5>
+- 场馆: 华尔街日报中文版
+- 时间: 2026-10-05 01:11
+- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxPcUR5NTJ1VjAzMjMyOW80eDdkLXJvejdIckpNeHRYX1BLVlFGd2trc0xEaUJiY29uVG5pZWpwdTQtWjlqa1lUTU5IS3BMX09BUjJFSjZxWF9Dcm9hRVFEMWV1Vy1GU3c4SmRtMkFvTEhoVzdtQ0lkQXVKemt3OEN6UnE2VEQyUXR2MV9JeEI5RnBlZnNnMEdmUEVxUTQ?oc=5>
+
+### Peng Liyuan and Melania Trump, Wife of U.S. President, Visit National Museum of Asian Art
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 中华人民共和国驻大韩民国大使馆
+- 时间: 2026-09-25 07:00
+- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTE1zQkZDZW9VcG94blhfNnhkakVqRDFFamNNdTlOQnE3VVF4MElpNWV3MWxadEkzaWwxN3FDeTZ1WHptd0NYdnVGMkpwY1RGLXNzV29Yc1dRdl9zaXJJZFRJUi1uRVktR3pRUFNmdkdKRDhzYmd2T0NzMjZSZw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-05 06:00  (15 条)
+
+- **蔡徐坤** | 在蔡徐坤演唱会上，麦毫无音响，心酸的不得了！ <https://k.sina.com.cn/article_6579089201_m18824ef3103301gkhe.html>
+- **周杰伦** | 周杰伦青岛演唱会秒变大型求婚现场 <https://k.sina.com.cn/article_2942506383_maf63158f03301eurw.html>
+- **周杰伦** | 周杰伦青岛演唱会16.5万人创纪录 <https://k.sina.com.cn/article_1931238691_m731c5d2303302kmcc.html>
+- **周杰伦** | iPhone 18 Pro Max网络问题，用户称周杰伦演唱会无信号 <https://k.sina.com.cn/article_7879923942_m1d5ae18e60330276hu.html>
+- **周杰伦** | 周杰伦青岛演唱会破纪录 <https://k.sina.com.cn/article_3037284894_mb5094a1e05301vyda.html?from=ent>
+- **特朗普** | 臭名昭著的“美国之音”，要死灰复燃？ <https://news.google.com/rss/articles/CBMimAFBVV95cUxOZnZscmE3dEVxUUtZTFB1QjhXdlpEcUNCNVk0YzRoMEVuMHBkZDY4M3BIamw1NHNrNUpCUUxOZ0paLXMxN1hpcEtXRkFreF9xVEVjSmpWTHU4ckcyLUFuUkVwNHZLVVlHN0JYcmxLeGphcGtSOWlTY2VwUk5FWE5NQ2p3LTFySmIxR19aSVk4RHI5ZmRDdGZUdw?oc=5>
+- **特朗普** | 白宫“AI 沙皇”就位！特朗普祭出跨部门工作组 高官 政客 硅谷大佬齐聚 美国在下什么棋？ <https://news.google.com/rss/articles/CBMigAFBVV95cUxPeTE1SzhHS3RiQ3Z0WDd6eHh2UGR6dTB2Ml85UjlYSllSc1dDaFVhZ3ZYN1lKM29idTVTa3l3bHNnRGJYOF9RclV2QkdrRXpFSnFmeG1zTFZpT2oyUm0yc2dnZWVhM3NPSmxwR1RVR0g4aVNYSVlOLWRfajdEbkJpMg?oc=5>
+- **特朗普** | 【早报】特朗普宣布成立“超级智能特别工作组”；马斯克称“SpaceXAI”将更名为“SpaceXSI” <https://news.google.com/rss/articles/CBMiSEFVX3lxTE5vVjZMdTFxNENUdlVDbWhjVl9nRXh0MkwzWDZENGhYWnNGQkh4ckFXNlJESDVBUFpYNWNwcW9MMTJtQThPeTRHbw?oc=5>
+- **特朗普** | 特朗普顾问喊话鲍威尔：赶快离开美联储！ <https://news.google.com/rss/articles/CBMijAFBVV95cUxNZTNBSFQwQmdXb3hkSVVVajRQWkU0NkIzX3podVNrdVBwNTN4WjhKdnNBWWpjLVpmZHFCdG1yRVJFS1ByajRwZmhXSjA0U2JiNHFxVWxQaFd5VG9mNEt0VHJVUktFQ1E3dGo4MnFGR0lhaVVHczR4TTV5djh3cUs3d184amVQTVlCWTV0eg?oc=5>
+- **特朗普** | 这个反华议员，被特朗普“开盒”了 <https://news.google.com/rss/articles/CBMibkFVX3lxTE9lTjBmT0xkYkdPU3dYWEVpak5VbEt0ZTBBRFpQSzN2cGxyb01rQnZ3VUd1aEJrSlh0YTlIN0drdTZJR3E3d2N3UjRVU0xlVG5WM1NfS1N4NHMzRFdYUl9KajU3SGJ2VUpNRFIyWGtn?oc=5>
+- **特朗普** | 特朗普：超赚钱，不能关，否则就跑到中国去了 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ZYWptZzdLQ0ZnWWN4Q0ZkT1hUbnhQLThXU25mYVc4RnZtcmZMV1h0ZVd4SWdPSzdwREdZSTFGYjAxVG9lYjlOQW00a1E?oc=5>
+- **特朗普** | 特朗普后悔了！ <https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUTNmMFJDLUhvX0FYdDI2T1Z1djJpYWhycEg0ZjhsSUdxZ2kwTjY0eExfTlNCb0VJZVhTSkJ1dThMWlZCNGdJRDkwd3hjQjFDQ1JjMWxKNHJySGZKT1JjTEFzY0xHQWN2UEhzdTRMR0hCMm5ma2hKWDVremR6bjVxazBUQzlzOTdaR29GaTRJUXoxN3FPOTJVRl9BQTBhVElSdVl0b0plR1VTZ1VxZTQ3S3N4WTBLZEpuWVNRUlJzRGk2VHpsVF9WaA?oc=5>
+- **特朗普** | 【美国中期选举】特朗普支持率连跌 共和党陷入高度焦虑 <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBpRjlKODEzSE85T2NzS01HSktfakZscDdsd2sxTWItS0JYQm5vb0Y0WWVPRVU4UDFaWEZ0cENyQi1mYVdCRWtWVkxPT1BIU2ZaMzgza3RNT1diRGEyWjhyVVRLSlpVZw?oc=5>
+- **Trump** | 美国中期选举在即，特朗普宣布将再次向选民发钱 <https://news.google.com/rss/articles/CBMinAFBVV95cUxPcUR5NTJ1VjAzMjMyOW80eDdkLXJvejdIckpNeHRYX1BLVlFGd2trc0xEaUJiY29uVG5pZWpwdTQtWjlqa1lUTU5IS3BMX09BUjJFSjZxWF9Dcm9hRVFEMWV1Vy1GU3c4SmRtMkFvTEhoVzdtQ0lkQXVKemt3OEN6UnE2VEQyUXR2MV9JeEI5RnBlZnNnMEdmUEVxUTQ?oc=5>
+- **Trump** | Peng Liyuan and Melania Trump, Wife of U.S. President, Visit National Museum of Asian Art <https://news.google.com/rss/articles/CBMie0FVX3lxTE1zQkZDZW9VcG94blhfNnhkakVqRDFFamNNdTlOQnE3VVF4MElpNWV3MWxadEkzaWwxN3FDeTZ1WHptd0NYdnVGMkpwY1RGLXNzV29Yc1dRdl9zaXJJZFRJUi1uRVktR3pRUFNmdkdKRDhzYmd2T0NzMjZSZw?oc=5>
 
 ### 2026-10-05 00:22  (13 条)
 
