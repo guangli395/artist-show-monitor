@@ -1,174 +1,124 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-06 09:11**
-- 本轮扫到 13372 条, 新增 **22** 条
+- 最近更新: **2026-10-06 16:06**
+- 本轮扫到 13387 条, 新增 **15** 条
 
 ---
 
-## 本轮新发现 (22 条)
+## 本轮新发现 (15 条)
 
-### 20261005 @王一博·YIBO 香奈儿2027春夏系列发布会 1080p
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7391925585_m1b897d55103301alvk.html>
-
-### 蔡徐坤现身Valentino大秀，挑选演唱会造型
+### 蔡徐坤透露的新歌大概什么时候发布？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002smbk.html>
+- 链接: <https://k.sina.com.cn/article_7880068200_1d5b04c6806801pjlo.html>
 
-### 演唱会如何带动青岛国庆旅游消费？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016oak.html>
-
-### 周杰伦青岛演唱会打破了哪些场馆纪录？
+### 周杰伦自曝已写好多少首新歌并定好歌名？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016oag.html>
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016ong.html>
 
-### 青岛为周杰伦演唱会做了哪些全城应援活动
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mfii.html>
-
-### 周杰伦在青岛演唱会现场有哪些浪漫名场面
+### 青岛为周杰伦巡演准备了哪些应援活动？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mfig.html>
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016okk.html>
 
-### 周杰伦青岛演唱会为什么被称为&#039;痛城&#039;
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mfie.html>
-
-### 周杰伦青岛演唱会成&#039;痛城&#039;：全城粉色应援太浪漫
+### 青岛变“痛城”！周杰伦演唱会引爆全城应援
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mfic.html>
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016oka.html>
 
-### 周杰伦在演唱会上自嘲年纪大具体说了什么
+### 周杰伦青岛演唱会你冷不冷啊穿短袖
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016o18.html>
+- 链接: <https://k.sina.com.cn/article_1647210043_m622e6e3b03301rvhs.html>
 
-### 美国拟出台措施降低柴油使用负担|唐纳德·特朗普|道路交通|消费税|纽约|染色
+### 周杰伦青岛演唱会现场灵魂八连问！
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-10-06 07:36
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxOV1RodHZIbGJOYkF4SkRoaDBkYTZzeXNhYlhNNEJXbHgxNXc4WGU5SDBCS2o4R0ZoTlo5bWdBdEFJOUp6Uzdmb1dGT3BNX0dER0pOMzFTbmFLZWstM2ZScTZtN2xWck8tQUlVV0NtZkx5MjRLRE1iaTJSTGc5WVd1bC0wTno3dlFKVE5UNGZIM0FCNGh1OVlsNw?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1668589317_m6374a70503301j6hg.html>
 
-### 坐回一张桌！马斯克重返美政府，新身份落地，特朗普野心藏不住了
+### 周杰伦青岛演唱会在台上笑得像证婚人！
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-10-06 08:44
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE55U0Vwc0pRTTVzS3ppSldLb2RZaGpTTmxvZ3BrYmdIZHowQXlnTGR2UWMxNVk5SlZETFV2NElTZW9QTlpmU1UtQ0pxQ21yX2JDb2pGUWh0ZExQYWIxSHVDOU02Tkxuc3dhakg4dzNvQ3RkUQ?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1668589317_m6374a70503301j6he.html>
 
-### 泰国称美国希望借特朗普亚洲之行敲定关税协议
+### 周杰伦演唱会上还有哪些即兴改词名场面？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-10-06 07:16
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1lZDhxTWd3SkpVenFCNFQ1bnMxLUF4UnNJTFhvRmE4OFBmWFMxbkJST0NWZ3d5STIwVnJLMk9HdHliRVY5OEZBWWRSZw?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mfqk.html>
 
-### 把特朗普哄爽了，五角大楼还是停了
+### 周杰伦为什么在演唱会说装不了可爱？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: guancha.cn
-- 时间: 2026-10-06 01:10
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE85R25BSjE5Qmx1Q1hlYjVCVDFwcEJaRUN5ZTk4U2tFYkdvN1d3SnhoTE80ODc1SDNNRlVncnZIblcyN0ZManhtemVGQ19yNWI4SVNfRW5rMjlJSVpMRDRLaFhsWGgzQ1Ezc19LRzducUdobVU?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mfqa.html>
 
-### “麦加防务联盟”启动集体防御，土巴将向沙特部署军力，特朗普称美轰炸机因“具体威胁”撤离英基地
+### 青岛为周杰伦演唱会做了哪些全城应援？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-10-05 20:46
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE12R1FsSzlfeEY2SXo5eXBMdWh6dVoyekQtNHBjRHZnUl84SzhxdmlPWGUyQ21LUkw0ektVLWU2OFBLQXN5cEpzX1FaTUJudHlEMFpj?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mfoq.html>
 
-### 特朗普如何利用美国市场施压盟友 外交羞辱与能源掌控
+### 周杰伦青岛演唱会为什么被称为痛城？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-10-06 01:47
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFA1cWxWSk95eWpHZUVYd2JXMElrVVFuRld2UjA3bmc0czNULXh6cnBjaHdLUkI0am1GR2ZYckxRTlRlT3VQbzlFdlI5NzFBb2dULWJrYTVzazlpN2ZRMjVVcjd1WHMwUWVFR1RxOG5WM2I?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mfok.html>
 
-### 动用纳税人资金竞选遭反对，特朗普：我自己付广告费
+### 演唱会现场有哪些感人名场面？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-10-06 03:10
-- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdHBtUlFQcVEwN3JsVXlFNTJ2MGZHMWt4QzgtV2Z1Mk5rNU52OVZhZGtZWVgwRzlzTWt6R0Zpb0kxZ2Qzc3VJWnc5allMWTlFM3pqUU8tZG15UVFicHRicG9EMnE1OTJDam45NWdWWjRxRGpfLUNwZlIzQlpsUnF0UzFWSFdwcnhm?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016of2.html>
 
-### 美国驻华大使：特朗普对台军售量超过47年来历任总统
+### 周杰伦青岛演唱会《安静》 你要我说多难堪 我根本不想分开
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-10-06 00:36
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QbUhMWTZhR0g3N1A3QVpma2NWcURkdk0wNkJMbFBuYWRLajY4NTZlUm9HUHMxemhFazd1LXVVam5wd0ZBOXB3Z042ZmZnYzZWbUxmbjZUc2R2Y1lzWjlQeElTMjVOQQ?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_2640993657_m9d6a5d7903301dhhk.html>
 
-### 这个反华议员，被特朗普“开盒”了
+### 周杰伦青岛演唱会第三天，称歌迷熟悉新旧歌带来动力
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: QQ News
-- 时间: 2026-10-04 12:27
-- 链接: <https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxbG03ZzBtdkZma2w5bDhtUHBsY19VQnE0LTV0dXhPdFlsYkw2bW5weTlpcU9nOWxEaENvbVlrN2ZpX1l2M05nbkE1WlZVM25XUWxwa3Rn?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_2254646594_m86632d4205301ji5u.html>
 
-### 特朗普坐不住了：乌克兰在炸，民主党在关！
+### 因为一场演唱会爱上一座城 ——周杰伦时隔八年再赴青岛之约
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: guancha.cn
-- 时间: 2026-10-06 00:50
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE9YeVZNcnhabVRlTE15QVF2cGF4dk5YYUlvRmxvd01hQ2s3TzN2SmJncnRJdTFrUVdvUkNraE5nS2NTVlNlUncyYXJwclZtN0dSTHZuUnBnMzBBV2RPSmEwV0laQlhWdjN2UkozcTZnX0xpajQ?oc=5>
-
-### Trump Mobile遭攻击, BYOD团伙公开3615名客户数据
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Pasquale Pillitteri
-- 时间: 2026-10-06 07:37
-- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE1ITFBrcjZ1ZmNiTnNiMjJMLVZldmZEVEo1SkhjelROVFo4VFlLUWY0RjQ5eWc2UjFVYWFWYVpFUVZDdTgwVDc5eWRTQm9VUWNLanZ4MDQ5MERFaE10ZkFXaW5XZ0xoSVJrbDB6c3pJdlQ1NjFfNHE3c1h3cDg?oc=5>
-
-### 特朗普签署行政命令 放宽使用免税柴油限制
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-10-06 04:40
-- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNGltbEI3aUUxNHhOdjFoZjNGSEc0ZTFlX2I0Wk1keXRIeWFWQ2VVSWhmN3lNTmtNUDM4Y19SejFDcVc1NUtEOUxHMlFsMV9YS0RxNy0zMTRwR0t6a19QZVJuQ1hFNDBEMmZoSHhCV1cyY1VFcXlKX1dCcTduaExtUklsQlE3MUF2SGhV?oc=5>
-
-### 伊萬卡曬照慶外婆百歲 川普家族四代同堂
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: epochtimes.com
-- 时间: 2026-10-06 02:11
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE02a3ByNGVxUThtSVNydnNPSFRDMWd6LXozTEsyRnF3VERRcnlFX0lPcEZHRTVNT2hYMGZtd1N4dEV6amt4cVQzcE1reXVDak1oOFZTekZVOG9zakhSNHE3cNIBZkFVX3lxTFBpeU5CMFUtVTV0aG1pM1MzX3JuVEFLWTgtUjNkZjZTZXlaTWJ2V0hJZmpLaXZ1YjlvWlJyb0t5eGZHS2VYMG03UkQ1dmw5U09tbmM5bS1weTdMc1hMdGozVUlHdTFzUQ?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://video.sina.com.cn/p/finance/2026-10-06/detail-iniuhyra6768749.d.html>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-06 16:06  (15 条)
+
+- **蔡徐坤** | 蔡徐坤透露的新歌大概什么时候发布？ <https://k.sina.com.cn/article_7880068200_1d5b04c6806801pjlo.html>
+- **周杰伦** | 周杰伦自曝已写好多少首新歌并定好歌名？ <https://k.sina.com.cn/article_7879776356_1d5abd864068016ong.html>
+- **周杰伦** | 青岛为周杰伦巡演准备了哪些应援活动？ <https://k.sina.com.cn/article_7879776356_1d5abd864068016okk.html>
+- **周杰伦** | 青岛变“痛城”！周杰伦演唱会引爆全城应援 <https://k.sina.com.cn/article_7879776356_1d5abd864068016oka.html>
+- **周杰伦** | 周杰伦青岛演唱会你冷不冷啊穿短袖 <https://k.sina.com.cn/article_1647210043_m622e6e3b03301rvhs.html>
+- **周杰伦** | 周杰伦青岛演唱会现场灵魂八连问！ <https://k.sina.com.cn/article_1668589317_m6374a70503301j6hg.html>
+- **周杰伦** | 周杰伦青岛演唱会在台上笑得像证婚人！ <https://k.sina.com.cn/article_1668589317_m6374a70503301j6he.html>
+- **周杰伦** | 周杰伦演唱会上还有哪些即兴改词名场面？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mfqk.html>
+- **周杰伦** | 周杰伦为什么在演唱会说装不了可爱？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mfqa.html>
+- **周杰伦** | 青岛为周杰伦演唱会做了哪些全城应援？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mfoq.html>
+- **周杰伦** | 周杰伦青岛演唱会为什么被称为痛城？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mfok.html>
+- **周杰伦** | 演唱会现场有哪些感人名场面？ <https://k.sina.com.cn/article_7879776356_1d5abd864068016of2.html>
+- **周杰伦** | 周杰伦青岛演唱会《安静》 你要我说多难堪 我根本不想分开 <https://k.sina.com.cn/article_2640993657_m9d6a5d7903301dhhk.html>
+- **周杰伦** | 周杰伦青岛演唱会第三天，称歌迷熟悉新旧歌带来动力 <https://k.sina.com.cn/article_2254646594_m86632d4205301ji5u.html>
+- **周杰伦** | 因为一场演唱会爱上一座城 ——周杰伦时隔八年再赴青岛之约 <https://video.sina.com.cn/p/finance/2026-10-06/detail-iniuhyra6768749.d.html>
 
 ### 2026-10-06 09:11  (22 条)
 
