@@ -1,142 +1,199 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-06 02:22**
-- 本轮扫到 13350 条, 新增 **17** 条
+- 最近更新: **2026-10-06 09:11**
+- 本轮扫到 13372 条, 新增 **22** 条
 
 ---
 
-## 本轮新发现 (17 条)
+## 本轮新发现 (22 条)
 
-### 蔡徐坤新专辑目前在什么阶段
+### 20261005 @王一博·YIBO 香奈儿2027春夏系列发布会 1080p
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7391925585_m1b897d55103301alvk.html>
+
+### 蔡徐坤现身Valentino大秀，挑选演唱会造型
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068200_1d5b04c6806801pim0.html>
+- 链接: <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002smbk.html>
 
-### 周杰伦未来巡演会调整歌单风格吗
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801meps.html>
-
-### 周杰伦演唱会的点歌环节还会有什么惊喜
+### 演唱会如何带动青岛国庆旅游消费？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mepo.html>
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016oak.html>
 
-### 周杰伦在青岛演唱会上如何回应宝妈歌迷？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016ni2.html>
-
-### 周杰伦演唱会多对情侣一起求婚
+### 周杰伦青岛演唱会打破了哪些场馆纪录？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2292899701_m88aadf7503301tmfw.html>
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016oag.html>
 
-### 特朗普：因“具体威胁” 美军轰炸机撤离英国基地
+### 青岛为周杰伦演唱会做了哪些全城应援活动
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 央视网
-- 时间: 2026-10-05 22:38
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9tOF8weVdhdG1hRGp5aWZxd2J3VW54SVdudTlTdGhiSVl5M2RhbGhPdi1OaGVDa3laVk1aSTZsbkVnckVXNVJ5NFdZdmFTVDFlYlo4VzJPZlk2aHNoNHBkWjFkcDFyQ003ZkpiYlRxRmVST3gtSmVIZw?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mfii.html>
 
-### 特朗普：因“具体威胁” 美军轰炸机撤离英国基地|唐纳德·特朗普|资料图|美方|空军|白宫
+### 周杰伦在青岛演唱会现场有哪些浪漫名场面
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mfig.html>
+
+### 周杰伦青岛演唱会为什么被称为&#039;痛城&#039;
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mfie.html>
+
+### 周杰伦青岛演唱会成&#039;痛城&#039;：全城粉色应援太浪漫
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mfic.html>
+
+### 周杰伦在演唱会上自嘲年纪大具体说了什么
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016o18.html>
+
+### 美国拟出台措施降低柴油使用负担|唐纳德·特朗普|道路交通|消费税|纽约|染色
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-10-05 23:05
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxNRWxWc1VfR01JOHZYQnlncmZTWC1xZ0tQWVZReU9xUXp6U3p2cERCQXhMMmhjLV93UUpfYzg1WVlpWEt2bmJiOGxMMUd2R1RuVURBTVVnQzhIYXpxVGszb2x2NWZWTXhZc0lTeEVHU2R4NG5JcTB2VDdtN2djdThtRGhHMU1nZmotNTlWR3M1X0t4clowLVJBMw?oc=5>
+- 时间: 2026-10-06 07:36
+- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxOV1RodHZIbGJOYkF4SkRoaDBkYTZzeXNhYlhNNEJXbHgxNXc4WGU5SDBCS2o4R0ZoTlo5bWdBdEFJOUp6Uzdmb1dGT3BNX0dER0pOMzFTbmFLZWstM2ZScTZtN2xWck8tQUlVV0NtZkx5MjRLRE1iaTJSTGc5WVd1bC0wTno3dlFKVE5UNGZIM0FCNGh1OVlsNw?oc=5>
 
-### 10月6日外盘头条：特朗普承认恐袭威胁迫使B-1轰炸机撤出英国SpaceX涨超7% 花旗建议加码巴西风险资产
+### 坐回一张桌！马斯克重返美政府，新身份落地，特朗普野心藏不住了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 手机新浪网
+- 时间: 2026-10-06 08:44
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE55U0Vwc0pRTTVzS3ppSldLb2RZaGpTTmxvZ3BrYmdIZHowQXlnTGR2UWMxNVk5SlZETFV2NElTZW9QTlpmU1UtQ0pxQ21yX2JDb2pGUWh0ZExQYWIxSHVDOU02Tkxuc3dhakg4dzNvQ3RkUQ?oc=5>
+
+### 泰国称美国希望借特朗普亚洲之行敲定关税协议
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-10-05 22:00
-- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTFBONWx0c2c1T0lqZjZwRnNHeXd6U3lkNlB5WmRLdDFoM3c5RnF1clpDYUpQbHhud3FOU0ZTNkNHbk90SjNad2k3MUdvaDdySmRsVjFSN3ZiQlR3WTBBZ1RhbVJMY0ZhbTY5MDhOVENwTDhoLV9CSldOLUVR?oc=5>
+- 时间: 2026-10-06 07:16
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1lZDhxTWd3SkpVenFCNFQ1bnMxLUF4UnNJTFhvRmE4OFBmWFMxbkJST0NWZ3d5STIwVnJLMk9HdHliRVY5OEZBWWRSZw?oc=5>
 
-### 涉及超级智能，特朗普最新发声
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网财经
-- 时间: 2026-10-05 23:36
-- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE0ta3VTMFBnZ1JVZW9Gbk9iRW5Kemk4NG1xVHpRMDVHSk9nZXpXZ3g3WnRDYTRkN3NHZWVfbjVrZC1vb0NsRFN3dHZBa0pFTkR6?oc=5>
-
-### 中期选举临近，特朗普重申发放5000美元支票的承诺
+### 把特朗普哄爽了，五角大楼还是停了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-10-05 14:19
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxQYkNLZGNqb29iYjVwREpfdklNQmJBaGhLVWxTaGNSbVlyR3cyUU42dWFXN3dpZ0IxUTVWUlN0OThXUExTblJqbmJVWHpVY3V2T3ZQSF90TUxIdkdkZjFsZDV3TllwaE50M1B1QjhwdzYwVUprVG01V0NjQjhwWW5TSFNXWmZBQWc?oc=5>
+- 场馆: guancha.cn
+- 时间: 2026-10-06 01:10
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE85R25BSjE5Qmx1Q1hlYjVCVDFwcEJaRUN5ZTk4U2tFYkdvN1d3SnhoTE80ODc1SDNNRlVncnZIblcyN0ZManhtemVGQ19yNWI4SVNfRW5rMjlJSVpMRDRLaFhsWGgzQ1Ezc19LRzducUdobVU?oc=5>
+
+### “麦加防务联盟”启动集体防御，土巴将向沙特部署军力，特朗普称美轰炸机因“具体威胁”撤离英基地
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街见闻
+- 时间: 2026-10-05 20:46
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE12R1FsSzlfeEY2SXo5eXBMdWh6dVoyekQtNHBjRHZnUl84SzhxdmlPWGUyQ21LUkw0ektVLWU2OFBLQXN5cEpzX1FaTUJudHlEMFpj?oc=5>
+
+### 特朗普如何利用美国市场施压盟友 外交羞辱与能源掌控
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-10-06 01:47
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFA1cWxWSk95eWpHZUVYd2JXMElrVVFuRld2UjA3bmc0czNULXh6cnBjaHdLUkI0am1GR2ZYckxRTlRlT3VQbzlFdlI5NzFBb2dULWJrYTVzazlpN2ZRMjVVcjd1WHMwUWVFR1RxOG5WM2I?oc=5>
+
+### 动用纳税人资金竞选遭反对，特朗普：我自己付广告费
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 搜狐网
+- 时间: 2026-10-06 03:10
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdHBtUlFQcVEwN3JsVXlFNTJ2MGZHMWt4QzgtV2Z1Mk5rNU52OVZhZGtZWVgwRzlzTWt6R0Zpb0kxZ2Qzc3VJWnc5allMWTlFM3pqUU8tZG15UVFicHRicG9EMnE1OTJDam45NWdWWjRxRGpfLUNwZlIzQlpsUnF0UzFWSFdwcnhm?oc=5>
+
+### 美国驻华大使：特朗普对台军售量超过47年来历任总统
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-10-06 00:36
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QbUhMWTZhR0g3N1A3QVpma2NWcURkdk0wNkJMbFBuYWRLajY4NTZlUm9HUHMxemhFazd1LXVVam5wd0ZBOXB3Z042ZmZnYzZWbUxmbjZUc2R2Y1lzWjlQeElTMjVOQQ?oc=5>
 
 ### 这个反华议员，被特朗普“开盒”了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
+- 场馆: QQ News
 - 时间: 2026-10-04 12:27
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE40MHRzYml1MDZ4Q1EtcDk1U3c2NHpFTGNxQWVFWld0dnhmdnVMNmlmSGdYZHVIMVZJV0ltaHhjdUhLU0hlLWxSVGt3VXg?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxbG03ZzBtdkZma2w5bDhtUHBsY19VQnE0LTV0dXhPdFlsYkw2bW5weTlpcU9nOWxEaENvbVlrN2ZpX1l2M05nbkE1WlZVM25XUWxwa3Rn?oc=5>
 
-### 特朗普：超赚钱，不能关，否则就跑到中国去了
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-10-04 23:06
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE9QOURjZmV0dEtEYlRucUUtQTFRaTMyZXl6OFZFQ2NMbVV1dkVqa1FBektQVkxIdHpzMHJxbHhpcVlGd0dXVE9QWEhEMXJvZkNVMGFER0kxMDFwU19zVmQtdXN2RjdNdW1oRVdZTVozcVg1V3c?oc=5>
-
-### 联合G7释储后特朗普中选前再出手压油价：据称拟放宽免税“红色柴油”使用限制
+### 特朗普坐不住了：乌克兰在炸，民主党在关！
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-10-05 16:16
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE1GRnN1NnAxNmFwU256S2x6R2Q3Y3JkTmcwRE5CMFNJcjA3WF9oVUJwZFlLcWpneVVCVVdFVDY3bVFFd1lwY01YVWNJY2otUThieGJV?oc=5>
+- 场馆: guancha.cn
+- 时间: 2026-10-06 00:50
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE9YeVZNcnhabVRlTE15QVF2cGF4dk5YYUlvRmxvd01hQ2s3TzN2SmJncnRJdTFrUVdvUkNraE5nS2NTVlNlUncyYXJwclZtN0dSTHZuUnBnMzBBV2RPSmEwV0laQlhWdjN2UkozcTZnX0xpajQ?oc=5>
 
-### 习近平访美作出罕见休息安排，与特朗普的峰会“缩水”数小时
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 华尔街日报中文版
-- 时间: 2026-10-05 03:21
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5PRy1MWjNQa3lmWUN3Q2x5Zlhqc2MzWnc3OEU2MUI2UHFiWHd2V0lfZ293X3FibnZwcVR2ekJHVEpsYjNYMm5WczdCSnh4bXFVbEpPamlaOWdqejdpWGFCSUFQLXI?oc=5>
-
-### 美国总统特朗普表示 将协助农民解决柴油问题
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-10-05 20:04
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NWnFObnF1T1dmZXlvWjBUSm5UZTJ1RS15YWdZNjJ3UUF1Z29UdU9KdmNYM0JKR3p1MmZqZ3lXc3JvM2VqMGV5T1k5dFlaNElfUGExV3JLdlRkSlRYbV9kUlAtWW9EUQ?oc=5>
-
-### 臭名昭著的“美国之音”，要死灰复燃？|唐纳德·特朗普|美国国务院|美国国会|美国政府|政府机构
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻
-- 时间: 2026-10-05 17:43
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5tN1ZmZFp4RE5reVRzODQwTnVmTFlFaEpFU1pSRE9hRFR0d0Y2dmtuNjhyNGE3QTM5czF4OG5TNE9qTGh4aWR2anlPeFFXTmd1dEc3RDktdGxYNFJoRFpzcWp5R1ZnRXM3OWVpSlJJaWk5SEVEVVpPRg?oc=5>
-
-### 美国撤回部署英国B-1轰炸机 特朗普称威胁与伊朗有关
+### Trump Mobile遭攻击, BYOD团伙公开3615名客户数据
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 8world.com
-- 时间: 2026-10-05 22:34
-- 链接: <https://news.google.com/rss/articles/CBMilgFBVV95cUxQNmdsMTNORUhmZzVvVFcwSllaektPZ2JpZGgxZjRGaThNUTYxeTdCNGg5VTFvSlRWZW5BdTBGd3B4RGpGcVZZbkZEenFjeEZoeDdXT2xSZlF6TkFHSFdYcDRDNFRBLWlJVjk5X2VtVGVqX3YwNVVMelNIT2VZMUtkMDhxcGFsQTk2bVhGSXBvSWw3d0txRGc?oc=5>
+- 场馆: Pasquale Pillitteri
+- 时间: 2026-10-06 07:37
+- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE1ITFBrcjZ1ZmNiTnNiMjJMLVZldmZEVEo1SkhjelROVFo4VFlLUWY0RjQ5eWc2UjFVYWFWYVpFUVZDdTgwVDc5eWRTQm9VUWNLanZ4MDQ5MERFaE10ZkFXaW5XZ0xoSVJrbDB6c3pJdlQ1NjFfNHE3c1h3cDg?oc=5>
+
+### 特朗普签署行政命令 放宽使用免税柴油限制
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 8world
+- 时间: 2026-10-06 04:40
+- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNGltbEI3aUUxNHhOdjFoZjNGSEc0ZTFlX2I0Wk1keXRIeWFWQ2VVSWhmN3lNTmtNUDM4Y19SejFDcVc1NUtEOUxHMlFsMV9YS0RxNy0zMTRwR0t6a19QZVJuQ1hFNDBEMmZoSHhCV1cyY1VFcXlKX1dCcTduaExtUklsQlE3MUF2SGhV?oc=5>
+
+### 伊萬卡曬照慶外婆百歲 川普家族四代同堂
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: epochtimes.com
+- 时间: 2026-10-06 02:11
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE02a3ByNGVxUThtSVNydnNPSFRDMWd6LXozTEsyRnF3VERRcnlFX0lPcEZHRTVNT2hYMGZtd1N4dEV6amt4cVQzcE1reXVDak1oOFZTekZVOG9zakhSNHE3cNIBZkFVX3lxTFBpeU5CMFUtVTV0aG1pM1MzX3JuVEFLWTgtUjNkZjZTZXlaTWJ2V0hJZmpLaXZ1YjlvWlJyb0t5eGZHS2VYMG03UkQ1dmw5U09tbmM5bS1weTdMc1hMdGozVUlHdTFzUQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-06 09:11  (22 条)
+
+- **王一博** | 20261005 @王一博·YIBO 香奈儿2027春夏系列发布会 1080p <https://k.sina.com.cn/article_7391925585_m1b897d55103301alvk.html>
+- **蔡徐坤** | 蔡徐坤现身Valentino大秀，挑选演唱会造型 <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002smbk.html>
+- **周杰伦** | 演唱会如何带动青岛国庆旅游消费？ <https://k.sina.com.cn/article_7879776356_1d5abd864068016oak.html>
+- **周杰伦** | 周杰伦青岛演唱会打破了哪些场馆纪录？ <https://k.sina.com.cn/article_7879776356_1d5abd864068016oag.html>
+- **周杰伦** | 青岛为周杰伦演唱会做了哪些全城应援活动 <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mfii.html>
+- **周杰伦** | 周杰伦在青岛演唱会现场有哪些浪漫名场面 <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mfig.html>
+- **周杰伦** | 周杰伦青岛演唱会为什么被称为&#039;痛城&#039; <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mfie.html>
+- **周杰伦** | 周杰伦青岛演唱会成&#039;痛城&#039;：全城粉色应援太浪漫 <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mfic.html>
+- **周杰伦** | 周杰伦在演唱会上自嘲年纪大具体说了什么 <https://k.sina.com.cn/article_7879776356_1d5abd864068016o18.html>
+- **特朗普** | 美国拟出台措施降低柴油使用负担|唐纳德·特朗普|道路交通|消费税|纽约|染色 <https://news.google.com/rss/articles/CBMimAFBVV95cUxOV1RodHZIbGJOYkF4SkRoaDBkYTZzeXNhYlhNNEJXbHgxNXc4WGU5SDBCS2o4R0ZoTlo5bWdBdEFJOUp6Uzdmb1dGT3BNX0dER0pOMzFTbmFLZWstM2ZScTZtN2xWck8tQUlVV0NtZkx5MjRLRE1iaTJSTGc5WVd1bC0wTno3dlFKVE5UNGZIM0FCNGh1OVlsNw?oc=5>
+- **特朗普** | 坐回一张桌！马斯克重返美政府，新身份落地，特朗普野心藏不住了 <https://news.google.com/rss/articles/CBMickFVX3lxTE55U0Vwc0pRTTVzS3ppSldLb2RZaGpTTmxvZ3BrYmdIZHowQXlnTGR2UWMxNVk5SlZETFV2NElTZW9QTlpmU1UtQ0pxQ21yX2JDb2pGUWh0ZExQYWIxSHVDOU02Tkxuc3dhakg4dzNvQ3RkUQ?oc=5>
+- **特朗普** | 泰国称美国希望借特朗普亚洲之行敲定关税协议 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1lZDhxTWd3SkpVenFCNFQ1bnMxLUF4UnNJTFhvRmE4OFBmWFMxbkJST0NWZ3d5STIwVnJLMk9HdHliRVY5OEZBWWRSZw?oc=5>
+- **特朗普** | 把特朗普哄爽了，五角大楼还是停了 <https://news.google.com/rss/articles/CBMic0FVX3lxTE85R25BSjE5Qmx1Q1hlYjVCVDFwcEJaRUN5ZTk4U2tFYkdvN1d3SnhoTE80ODc1SDNNRlVncnZIblcyN0ZManhtemVGQ19yNWI4SVNfRW5rMjlJSVpMRDRLaFhsWGgzQ1Ezc19LRzducUdobVU?oc=5>
+- **特朗普** | “麦加防务联盟”启动集体防御，土巴将向沙特部署军力，特朗普称美轰炸机因“具体威胁”撤离英基地 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE12R1FsSzlfeEY2SXo5eXBMdWh6dVoyekQtNHBjRHZnUl84SzhxdmlPWGUyQ21LUkw0ektVLWU2OFBLQXN5cEpzX1FaTUJudHlEMFpj?oc=5>
+- **特朗普** | 特朗普如何利用美国市场施压盟友 外交羞辱与能源掌控 <https://news.google.com/rss/articles/CBMicEFVX3lxTFA1cWxWSk95eWpHZUVYd2JXMElrVVFuRld2UjA3bmc0czNULXh6cnBjaHdLUkI0am1GR2ZYckxRTlRlT3VQbzlFdlI5NzFBb2dULWJrYTVzazlpN2ZRMjVVcjd1WHMwUWVFR1RxOG5WM2I?oc=5>
+- **特朗普** | 动用纳税人资金竞选遭反对，特朗普：我自己付广告费 <https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdHBtUlFQcVEwN3JsVXlFNTJ2MGZHMWt4QzgtV2Z1Mk5rNU52OVZhZGtZWVgwRzlzTWt6R0Zpb0kxZ2Qzc3VJWnc5allMWTlFM3pqUU8tZG15UVFicHRicG9EMnE1OTJDam45NWdWWjRxRGpfLUNwZlIzQlpsUnF0UzFWSFdwcnhm?oc=5>
+- **特朗普** | 美国驻华大使：特朗普对台军售量超过47年来历任总统 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QbUhMWTZhR0g3N1A3QVpma2NWcURkdk0wNkJMbFBuYWRLajY4NTZlUm9HUHMxemhFazd1LXVVam5wd0ZBOXB3Z042ZmZnYzZWbUxmbjZUc2R2Y1lzWjlQeElTMjVOQQ?oc=5>
+- **特朗普** | 这个反华议员，被特朗普“开盒”了 <https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxbG03ZzBtdkZma2w5bDhtUHBsY19VQnE0LTV0dXhPdFlsYkw2bW5weTlpcU9nOWxEaENvbVlrN2ZpX1l2M05nbkE1WlZVM25XUWxwa3Rn?oc=5>
+- **特朗普** | 特朗普坐不住了：乌克兰在炸，民主党在关！ <https://news.google.com/rss/articles/CBMic0FVX3lxTE9YeVZNcnhabVRlTE15QVF2cGF4dk5YYUlvRmxvd01hQ2s3TzN2SmJncnRJdTFrUVdvUkNraE5nS2NTVlNlUncyYXJwclZtN0dSTHZuUnBnMzBBV2RPSmEwV0laQlhWdjN2UkozcTZnX0xpajQ?oc=5>
+- **Trump** | Trump Mobile遭攻击, BYOD团伙公开3615名客户数据 <https://news.google.com/rss/articles/CBMifEFVX3lxTE1ITFBrcjZ1ZmNiTnNiMjJMLVZldmZEVEo1SkhjelROVFo4VFlLUWY0RjQ5eWc2UjFVYWFWYVpFUVZDdTgwVDc5eWRTQm9VUWNLanZ4MDQ5MERFaE10ZkFXaW5XZ0xoSVJrbDB6c3pJdlQ1NjFfNHE3c1h3cDg?oc=5>
+- **Trump** | 特朗普签署行政命令 放宽使用免税柴油限制 <https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNGltbEI3aUUxNHhOdjFoZjNGSEc0ZTFlX2I0Wk1keXRIeWFWQ2VVSWhmN3lNTmtNUDM4Y19SejFDcVc1NUtEOUxHMlFsMV9YS0RxNy0zMTRwR0t6a19QZVJuQ1hFNDBEMmZoSHhCV1cyY1VFcXlKX1dCcTduaExtUklsQlE3MUF2SGhV?oc=5>
+- **Trump** | 伊萬卡曬照慶外婆百歲 川普家族四代同堂 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE02a3ByNGVxUThtSVNydnNPSFRDMWd6LXozTEsyRnF3VERRcnlFX0lPcEZHRTVNT2hYMGZtd1N4dEV6amt4cVQzcE1reXVDak1oOFZTekZVOG9zakhSNHE3cNIBZkFVX3lxTFBpeU5CMFUtVTV0aG1pM1MzX3JuVEFLWTgtUjNkZjZTZXlaTWJ2V0hJZmpLaXZ1YjlvWlJyb0t5eGZHS2VYMG03UkQ1dmw5U09tbmM5bS1weTdMc1hMdGozVUlHdTFzUQ?oc=5>
 
 ### 2026-10-06 02:22  (17 条)
 
