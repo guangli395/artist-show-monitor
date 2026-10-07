@@ -1,112 +1,164 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-07 06:46**
-- 本轮扫到 13435 条, 新增 **14** 条
+- 最近更新: **2026-10-07 14:08**
+- 本轮扫到 13452 条, 新增 **17** 条
 
 ---
 
-## 本轮新发现 (14 条)
+## 本轮新发现 (17 条)
 
-### 王一博肖战双双入围华鼎奖提名，各自发布新歌
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924057_m1d5ae195903301oc4y.html>
-
-### 粉丝锐评周杰伦演唱会:努力抢票了一年，谢谢你这个视频，全家都解放了
+### 王俊凯巡演收官场首唱周杰伦新歌，燃爆27岁生日前夕
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5933338496_m161a78f8003301lw86.html>
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016qio.html>
 
-### 邓紫棋与Mark同看周杰伦演唱会，盼有情人终成眷属
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5932460228_m1619a28c403301aqee.html>
-
-### 周杰伦青岛演唱会圆满收官
+### 周杰伦青岛演唱会连开三场
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_3203137375_mbeebff5f03302so3e.html>
+- 链接: <https://k.sina.com.cn/article_2042019413_m79b6be5503301n1q8.html>
 
-### 周杰伦青岛演唱会后与妻子昆凌“闪现”上海被偶遇
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6105713761_m16bedcc6103302chbg.html>
-
-### 老公帮抢票没陪来，她点《算什么男人》，周杰伦青岛演唱会Day3爆笑点歌
+### 周杰伦青岛演唱会前脚刚收官，后脚就陪昆凌亮相ATP上海大师赛
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1923969675_m72ad728b033027ufe.html>
+- 链接: <https://k.sina.com.cn/article_3995444230_ee25a40600101mlqe.html>
 
-### 周杰伦演唱会场外歌迷脚伤求助 文旅、医疗、安保人员 暖心接力将歌迷送至看台
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2115980191_m7e1f4b9f03301d5dm.html>
-
-### 周杰伦演唱会忘词现场，这小表情真的太可爱了
+### 周杰伦嘉年华演唱会，台下爆哭舍不得离开
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2640993657_m9d6a5d7903301dhq8.html>
+- 链接: <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002soi8.html>
+
+### 特朗普批准：枪决哈桑
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-10-07 12:43
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5BcGtQOXBJd0dINW5rb2JnLU5rcjlzS0NJT1N3S2VRRTRna3V6N0ZyTXc1VE1mMnk2cDVTMFNhZ2l6R1p5VGVSMU5Ud1VTdDU5OU1qVmhHUlBjQkRER2tmVEJfX2dxRWZOVHAyTkdSRExHc2Y5d2lqLQ?oc=5>
+
+### 特朗普批准枪决军事基地枪击案凶手 美军或65年来首次执行死刑
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 8world
+- 时间: 2026-10-06 09:17
+- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxQTHo0TGVFNl9uMm5WMzFMSE9VaTJZUnRkQzFtSWRWVHR3Vlc2cXYwZWlRN0QwSktpUWtzRVJRc0M4LVh5NUNNcWVlZDFtbDhJX2FhNFBwTGE0QUtTV08xQV9ua3pFWmZBbW8wMFlWcXJTYlRwZG85eGlIR2lRLUYtMjFScGJWWjdBdndVU09sOXZRQjd0SFVta2M0Ql8?oc=5>
+
+### 美国白宫官员：特朗普将于美国东部时间今天下午1点（北京时间次日凌晨1点）宣布“特朗普账户”自动注册。
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 手机新浪网
+- 时间: 2026-10-07 13:46
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFAzVldnV1ZybDhmdjc2dWpjaG1pTGMwdjYtYXNEemppaS1UWVdwall6aWdtSy1FdWhOd0Utd3hPZVpWZ0NRbXQzN2N4dw?oc=5>
+
+### 特朗普：对伊朗的军事行动 “必须收尾了”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街见闻
+- 时间: 2026-10-07 08:50
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5mUjQ4NnlnZWJVa2NpbWpMTFVJdDlKVGdDQW9OOERiV3FQSUY0bHhBZHRXSDhpNWZoTXZWZDc1bS1CVWRGclZKSXJnMW92R01kRkhF?oc=5>
+
+### 特朗普：可以让伊朗摧毁洛杉矶或圣迭戈，这只是一个很小的代价
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-10-06 05:09
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5uZmkyMVFLSFVWUjlqQnZyTEFNOHJOTzg4bUgzZ0wyNGJGekMyZkJBcTZ5UnBPWlMzR0pxQndxbDM3WnR2MnlQTDN4aVY?oc=5>
+
+### 特朗普：对伊朗的军事行动“必须收尾了”(含视频)|美媒|马里兰州|唐纳德·特朗普|空袭|美国总统
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻
+- 时间: 2026-10-07 07:50
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5abTFPeFFpLWNMVjZ0VlV4UWtyVGgwVVdxVzdHUl9UVEFnZ2hPTUFjR3cxSnNuTFdaZWN2dV9Sei1mX3ZpdTNOZzFjcTlsamRZekJHVG5aNnlsLWtmVjlheHVaSWx5NnF6QTNXTHV5MUM?oc=5>
+
+### 特朗普称预计“很快”与普京通话
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-10-07 08:55
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1FQjhISmlBSl83bDZERGl1dWlhbjF0UElJQzBMY3o3MDhnS3EycXJtWEsxS2x0SGU4aHB1NDlMQ1JwVlFiNnhkckVxdkQ?oc=5>
 
 ### 特朗普宣布投资66亿美元建厂造潜艇
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-10-07 06:05
-- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMmx3ZnZtNE1IQk15MWpRNjA4cGF0UzYxZGpYaGlSMlp4UVBLcW5WbWJaWkZKaHUzbkdUbHUzb0ZNbE9qV3dSdkVYQm1JQ2hfczZjbjRVNXI4eWxCVlAyMkFjTXVnRktUeHgwdDYyc0toZEZQWWlxcTZnbmlVT2htbHhoYWNwV2tzcUVB?oc=5>
-
-### 特朗普竞选集会现场签行政令：拿上来 我就在这里签
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
 - 场馆: 新华网
-- 时间: 2026-10-06 10:12
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBzRVhodDE0a0FldGFFemtjSHZlbGtiMGxITkNCR2c1bmpyVkYxY2NQMGowMVNTd0Zac3JwWUxnYkFfVkhKSmVvM2ZOQ0hrdlFSbGdjdjhqaTdkNTVpNWdKQUJnM2lJZDFrQnFNVERNTjNvQVd5WHI1ak54S0tjOG8?oc=5>
+- 时间: 2026-10-07 03:55
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBqRDhmQ1E1SVhIYkdRMUFkck1VcWVLdFI0VTJQME9GaE1DZnlRUmdQS3VFNVd3N3pod1JoQTJFOWN6TEJoWFlGcFBZYm9FOVFQWENnOWpicDZaMVRPcXk5cWhWY0RXaktrY3Y0bEU0R0ZTNFNWeFI2UkxNSmFWNk0?oc=5>
 
-### “特朗普不愿更深介入沙特与也门胡塞的冲突，甚至想拦着点”
+### 特朗普宣布投资66亿美元建厂造潜艇
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-07 02:07
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1TdHVRMFY3cEF2b1ZjUFI1Um11dkE0TzBnZlBUNkdJZW45VEUxbTVZXy00Q0t6aElhWDYwdXBsSzJXS3FQOEhFaGp3cnM?oc=5>
+- 场馆: view.inews.qq.com
+- 时间: 2026-10-07 08:24
+- 链接: <https://news.google.com/rss/articles/CBMiV0FVX3lxTE4zdWZ3RlVIQXp2WlhIcl8wcTMyeWdOLTJGbFZULVRSWlk1NFZ3YjNlRzJvNnZRLWRhckFuN253NU1MNnZTM2RjRnVOTDRLc3NPRVU4ZXYyRQ?oc=5>
 
-### China Pulse民调：大陆民众更倾向用外交手段来统一台湾
+### 欧洲议会大厦展出讽刺特朗普总统的雕塑《橙色瘟疫》
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: DW.com
-- 时间: 2026-10-06 11:21
-- 链接: <https://news.google.com/rss/articles/CBMiuwJBVV95cUxQWHQzQ0Y2dWdBWnVoV1FBN2lOYjZITGt0cExtTHh6QjJ1YTJqSHlxTTNrOEQ3Mmk2R0ZQY1AyZW5kRWJtWGx3NVIwQk9FRFhzQTBvbUJFOGticEQ3bFdNd0ZSVkVKdnJ4eG1vellVNGhnNTRyLTJNNWxhVnJZQWczd0JwYk1KU2gzU2xSeERGNzVmaF9TWG1oMWt5cGJ1WThhQ1JPQ1VLSDdUVE8xeUlqWTVpUUNSN0JYYWhhRnpPcW1LVi1HajlxVGgyUFZWNExqZGdvX3d5RENZWTdkWjZvcjQwNWdPQWtkSGVrOE51aUZIQWM2NFZVVVM4RTJMRmlkT3JPcUMzd01yOUk5cTVRX3E4TlF5U1Mtc2NFYlhYQW9wYmNuV0R4aDJQRFl4M3dGNHY2YlhWb3lwMXPSAbsCQVVfeXFMUE9Objk2d1RzUVRQVldxWUVPRU5VLVNkbnQwcl9JQjF3SlRCcmtTb1NKZFNPTExGTDBLZ2VraHlSZDk2V0lEekNOamZ1OFp2bW5LOS1vWTF6a09pTXowc0FWTXhxaVhSZHFTNUd3QWs1MWlhcFJUWnRQcXJ2VTkyU0U2WWwzMXFTMHFHNENfekotcHZmc21PdktSU3EySWVFUE1VWElObTBWTzFzbm1wdDRBSU1RMV9LSzJVNUpEM3doSHY3c1BpRFFfcDZnT3AyNWdsSkQ1cHk2QktGQ1l0bk9ReTFDZnp1NzhIbFV0cHJCZjNRaG9ySnp4bHBidmJTM19iVUpVdzVuQjhXTWwwbEE4RmFBdlJuNHJscmNkX1plS2ZUTjd5UWtoc29keXFSaWw5U0s1eFl6ejVR?oc=5>
+- 时间: 2026-10-07 09:55
+- 链接: <https://news.google.com/rss/articles/CBMi0AJBVV95cUxOanFHY1FzTjk0enFoVElHVlJHdU9rNEtkWDRNOVhGLUdIRXRXek15RWVOOWROclFQQmtnQjMyTk1VVWxKU21kN1BYVkVSQkJkNWNVQ1JyN09CNE1IZjlhdDdubmZVYVlHTi02d01uYlZYenZjVG1lNFRPelFUbE82akpJVGxEQTAyS0M5RDBwY3RDcFV1dGpLclBNeERadHVMWkFQMlBaUV9wYzFQR3AzRHBwOFptcGtSb3RUR2t1dU9YWTZnOHpPMVNfampsR2FnZ2xtY2QtZncyQ0h2UVpIdlJIOFV5bjNRYUM4NzI5cWhEak15aTdjZ19GSHBzZW5yRlFFMDlfczZOZi1peWRxRWotVjBCRmVoTnpmYTFTcUdIa1lySThVWHBYM1VRbjNiZ1N0bDh2RDV0SXRrYnM2MllfTnNRU0s4SHZsSVc3Q23SAdACQVVfeXFMTUFCbkxvYmpVZWxOWFBiX1JORUd2aDFTNTNCYTFscnMzd1BDVVFQTC1vWTRmaTlDaDFOQ1NRMW1wdXp5R1BISmtwN1B6Q1hVSGJXMG5vb3dXUDM4UjYyenRhS01jMXMycy1taXVKb01fYUsxeXg3XzItSENLUmNvQUhRS3J5MlJ6MVBYanJYRWFWVFgwbi1fcGFJYjE0ZFlYVzA0TEhtUDN5RG4tMGRrX2VlZEZ5ZXJzRS1FN3FvOWV3TzViNjZhSXc5bDNXaGFmdEdHeDNSallMS0hrNzZSU0p0eVVYMkZtbDNtSWxRUEJQSGdqRlBKSXptWTFCTU9WNzRSSHFqdEhXUDFscDNSQmRUTS1rZ2tJRl9VTGhTcUVpSUJrc0xtcndCazZEQ1gxckNOQVVrc0tiVkNoaHNvWnRqeklPclpRczZKQ2lmdWla?oc=5>
 
-### 【美国中期选举】特朗普称伊朗可摧毁洛杉矶或圣地亚哥 引发跨党派指责
+### 假期要闻汇总：特朗普称对伊军事行动 “必须收尾了”；央行连续第23个月增持黄金
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-10-07 03:16
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5qSFZBaEdXM0xBMDZmVTVXMWU3dTJlSU5SaG5US2puRmZ4RDdaZldMTEM5OFZUbXRmQnRkNUlvaU12XzJfVk51d1NwRXpQY1c0b1ZxVFB1UFNVbjVnSWlpVkljeW83eEc3Zmc?oc=5>
+- 场馆: 财联社
+- 时间: 2026-10-07 08:01
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTFAxWlpUNkh5bmcwRzhjUjctZWExMkVYYmE4TzV6RXNWTnhnVWJ2c2hqTUpkMFVCZENyVVZWZTl3S2J1em5PTC1Zdg?oc=5>
 
-### 墨西哥总统辛鲍姆已对美国忍无可忍
+### Trump Media & Technology Group Corp. Tokenized Stock (Coinbase)(DJTc) 币价，图表，市值以及其他指标
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 华尔街日报中文版
-- 时间: 2026-10-07 03:19
-- 链接: <https://news.google.com/rss/articles/CBMilgFBVV95cUxPbzBLZnJXdnBIR0NGS2JwbGxieDZYUHVjXzRMc0kzQVRWeDJsMjhFbFJyUzRmY3MzNDZtbEVGTC04V242T18yclJuSzM1ZS1naUIxSDRHbV9KRTZDYlBxbWRndXRnNHJpNFRjQnNkTm5Tbmc4aExaNGtxZ3BCZDhUc2RDWm55VU5vWmg0eEVTR2JUN2tsLVE?oc=5>
+- 场馆: CoinMarketCap
+- 时间: 2026-10-07 11:21
+- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxNR00zZDdaemZlR0xHNkRpNHo2UVh4WGRIdHJoZWUwb0R6R1hvVnRlNDdsZl9kdEszS2RyYzdTaTNqREJzUFd2bjFEbWdnYzFKbFBGVEZuSmZzYTJwUW1FWjQweE5NajBlVHZ0b2p1X3Vrc0xlTF9vanA4Ql9nS2hJWHM1Zm11MzI2cG9IUk14MTNQWnUxaHJseTJsa2I0bmlR?oc=5>
+
+### Why SpaceX Stock Can Get a Boost From Trump's Space Traffic Rules -- Barrons.com
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-10-07 11:14
+- 链接: <https://news.google.com/rss/articles/CBMimgFBVV95cUxNOFhlYlVIemJsaTMtMmdzTG5fTmg4aURmNUtzbGpQcjd1dGdpek9xNjF6QU5scnFKdWxyWm1jQlFTT182cGc2UDgzamhrdXQyY1lDYk5UR0g1OGJuQlVOcE5sNnQtandBRndDNl9ldDVOdzVFN2Z3Y0VPcXZGQ3k0SzJGNV9kdW1EMkJKVzZTd3dhY0NZc0dGNjVn?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-07 14:08  (17 条)
+
+- **周杰伦** | 王俊凯巡演收官场首唱周杰伦新歌，燃爆27岁生日前夕 <https://k.sina.com.cn/article_7879776356_1d5abd864068016qio.html>
+- **周杰伦** | 周杰伦青岛演唱会连开三场 <https://k.sina.com.cn/article_2042019413_m79b6be5503301n1q8.html>
+- **周杰伦** | 周杰伦青岛演唱会前脚刚收官，后脚就陪昆凌亮相ATP上海大师赛 <https://k.sina.com.cn/article_3995444230_ee25a40600101mlqe.html>
+- **周杰伦** | 周杰伦嘉年华演唱会，台下爆哭舍不得离开 <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002soi8.html>
+- **特朗普** | 特朗普批准：枪决哈桑 <https://news.google.com/rss/articles/CBMieEFVX3lxTE5BcGtQOXBJd0dINW5rb2JnLU5rcjlzS0NJT1N3S2VRRTRna3V6N0ZyTXc1VE1mMnk2cDVTMFNhZ2l6R1p5VGVSMU5Ud1VTdDU5OU1qVmhHUlBjQkRER2tmVEJfX2dxRWZOVHAyTkdSRExHc2Y5d2lqLQ?oc=5>
+- **特朗普** | 特朗普批准枪决军事基地枪击案凶手 美军或65年来首次执行死刑 <https://news.google.com/rss/articles/CBMinAFBVV95cUxQTHo0TGVFNl9uMm5WMzFMSE9VaTJZUnRkQzFtSWRWVHR3Vlc2cXYwZWlRN0QwSktpUWtzRVJRc0M4LVh5NUNNcWVlZDFtbDhJX2FhNFBwTGE0QUtTV08xQV9ua3pFWmZBbW8wMFlWcXJTYlRwZG85eGlIR2lRLUYtMjFScGJWWjdBdndVU09sOXZRQjd0SFVta2M0Ql8?oc=5>
+- **特朗普** | 美国白宫官员：特朗普将于美国东部时间今天下午1点（北京时间次日凌晨1点）宣布“特朗普账户”自动注册。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTFAzVldnV1ZybDhmdjc2dWpjaG1pTGMwdjYtYXNEemppaS1UWVdwall6aWdtSy1FdWhOd0Utd3hPZVpWZ0NRbXQzN2N4dw?oc=5>
+- **特朗普** | 特朗普：对伊朗的军事行动 “必须收尾了” <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5mUjQ4NnlnZWJVa2NpbWpMTFVJdDlKVGdDQW9OOERiV3FQSUY0bHhBZHRXSDhpNWZoTXZWZDc1bS1CVWRGclZKSXJnMW92R01kRkhF?oc=5>
+- **特朗普** | 特朗普：可以让伊朗摧毁洛杉矶或圣迭戈，这只是一个很小的代价 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5uZmkyMVFLSFVWUjlqQnZyTEFNOHJOTzg4bUgzZ0wyNGJGekMyZkJBcTZ5UnBPWlMzR0pxQndxbDM3WnR2MnlQTDN4aVY?oc=5>
+- **特朗普** | 特朗普：对伊朗的军事行动“必须收尾了”(含视频)|美媒|马里兰州|唐纳德·特朗普|空袭|美国总统 <https://news.google.com/rss/articles/CBMicEFVX3lxTE5abTFPeFFpLWNMVjZ0VlV4UWtyVGgwVVdxVzdHUl9UVEFnZ2hPTUFjR3cxSnNuTFdaZWN2dV9Sei1mX3ZpdTNOZzFjcTlsamRZekJHVG5aNnlsLWtmVjlheHVaSWx5NnF6QTNXTHV5MUM?oc=5>
+- **特朗普** | 特朗普称预计“很快”与普京通话 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1FQjhISmlBSl83bDZERGl1dWlhbjF0UElJQzBMY3o3MDhnS3EycXJtWEsxS2x0SGU4aHB1NDlMQ1JwVlFiNnhkckVxdkQ?oc=5>
+- **特朗普** | 特朗普宣布投资66亿美元建厂造潜艇 <https://news.google.com/rss/articles/CBMif0FVX3lxTFBqRDhmQ1E1SVhIYkdRMUFkck1VcWVLdFI0VTJQME9GaE1DZnlRUmdQS3VFNVd3N3pod1JoQTJFOWN6TEJoWFlGcFBZYm9FOVFQWENnOWpicDZaMVRPcXk5cWhWY0RXaktrY3Y0bEU0R0ZTNFNWeFI2UkxNSmFWNk0?oc=5>
+- **特朗普** | 特朗普宣布投资66亿美元建厂造潜艇 <https://news.google.com/rss/articles/CBMiV0FVX3lxTE4zdWZ3RlVIQXp2WlhIcl8wcTMyeWdOLTJGbFZULVRSWlk1NFZ3YjNlRzJvNnZRLWRhckFuN253NU1MNnZTM2RjRnVOTDRLc3NPRVU4ZXYyRQ?oc=5>
+- **特朗普** | 欧洲议会大厦展出讽刺特朗普总统的雕塑《橙色瘟疫》 <https://news.google.com/rss/articles/CBMi0AJBVV95cUxOanFHY1FzTjk0enFoVElHVlJHdU9rNEtkWDRNOVhGLUdIRXRXek15RWVOOWROclFQQmtnQjMyTk1VVWxKU21kN1BYVkVSQkJkNWNVQ1JyN09CNE1IZjlhdDdubmZVYVlHTi02d01uYlZYenZjVG1lNFRPelFUbE82akpJVGxEQTAyS0M5RDBwY3RDcFV1dGpLclBNeERadHVMWkFQMlBaUV9wYzFQR3AzRHBwOFptcGtSb3RUR2t1dU9YWTZnOHpPMVNfampsR2FnZ2xtY2QtZncyQ0h2UVpIdlJIOFV5bjNRYUM4NzI5cWhEak15aTdjZ19GSHBzZW5yRlFFMDlfczZOZi1peWRxRWotVjBCRmVoTnpmYTFTcUdIa1lySThVWHBYM1VRbjNiZ1N0bDh2RDV0SXRrYnM2MllfTnNRU0s4SHZsSVc3Q23SAdACQVVfeXFMTUFCbkxvYmpVZWxOWFBiX1JORUd2aDFTNTNCYTFscnMzd1BDVVFQTC1vWTRmaTlDaDFOQ1NRMW1wdXp5R1BISmtwN1B6Q1hVSGJXMG5vb3dXUDM4UjYyenRhS01jMXMycy1taXVKb01fYUsxeXg3XzItSENLUmNvQUhRS3J5MlJ6MVBYanJYRWFWVFgwbi1fcGFJYjE0ZFlYVzA0TEhtUDN5RG4tMGRrX2VlZEZ5ZXJzRS1FN3FvOWV3TzViNjZhSXc5bDNXaGFmdEdHeDNSallMS0hrNzZSU0p0eVVYMkZtbDNtSWxRUEJQSGdqRlBKSXptWTFCTU9WNzRSSHFqdEhXUDFscDNSQmRUTS1rZ2tJRl9VTGhTcUVpSUJrc0xtcndCazZEQ1gxckNOQVVrc0tiVkNoaHNvWnRqeklPclpRczZKQ2lmdWla?oc=5>
+- **特朗普** | 假期要闻汇总：特朗普称对伊军事行动 “必须收尾了”；央行连续第23个月增持黄金 <https://news.google.com/rss/articles/CBMiSEFVX3lxTFAxWlpUNkh5bmcwRzhjUjctZWExMkVYYmE4TzV6RXNWTnhnVWJ2c2hqTUpkMFVCZENyVVZWZTl3S2J1em5PTC1Zdg?oc=5>
+- **Trump** | Trump Media & Technology Group Corp. Tokenized Stock (Coinbase)(DJTc) 币价，图表，市值以及其他指标 <https://news.google.com/rss/articles/CBMioAFBVV95cUxNR00zZDdaemZlR0xHNkRpNHo2UVh4WGRIdHJoZWUwb0R6R1hvVnRlNDdsZl9kdEszS2RyYzdTaTNqREJzUFd2bjFEbWdnYzFKbFBGVEZuSmZzYTJwUW1FWjQweE5NajBlVHZ0b2p1X3Vrc0xlTF9vanA4Ql9nS2hJWHM1Zm11MzI2cG9IUk14MTNQWnUxaHJseTJsa2I0bmlR?oc=5>
+- **Trump** | Why SpaceX Stock Can Get a Boost From Trump's Space Traffic Rules -- Barrons.com <https://news.google.com/rss/articles/CBMimgFBVV95cUxNOFhlYlVIemJsaTMtMmdzTG5fTmg4aURmNUtzbGpQcjd1dGdpek9xNjF6QU5scnFKdWxyWm1jQlFTT182cGc2UDgzamhrdXQyY1lDYk5UR0g1OGJuQlVOcE5sNnQtandBRndDNl9ldDVOdzVFN2Z3Y0VPcXZGQ3k0SzJGNV9kdW1EMkJKVzZTd3dhY0NZc0dGNjVn?oc=5>
 
 ### 2026-10-07 06:46  (14 条)
 
