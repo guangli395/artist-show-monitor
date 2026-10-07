@@ -1,124 +1,181 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-06 21:05**
-- 本轮扫到 13401 条, 新增 **14** 条
+- 最近更新: **2026-10-07 00:52**
+- 本轮扫到 13421 条, 新增 **20** 条
 
 ---
 
-## 本轮新发现 (14 条)
+## 本轮新发现 (20 条)
 
-### 蔡徐坤透露新歌进展了吗？
+### 肖战同晚19点发布动态是否与王一博有关
 
-- 艺人/关键词: **蔡徐坤**
+- 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776406_1d5abd89606802vaau.html>
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mh12.html>
 
-### 蔡徐坤在Valentino秀场透露新歌进展了吗？
+### 周杰伦青岛演唱会有哪些经典曲目重现？
 
-- 艺人/关键词: **蔡徐坤**
+- 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849970_1d5acf7f206801f1qk.html>
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mh3u.html>
 
-### 特朗普谈伊朗：最大的问题是没人知道现在是谁在掌权。
+### 青岛为周杰伦演唱会提供了哪些特别服务？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mh3s.html>
+
+### 周杰伦后续巡演计划有哪些城市
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mh3i.html>
+
+### 周杰伦2026国庆青岛演唱会现场有多震撼
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mh3g.html>
+
+### 周杰伦演唱会上歌迷求婚的故事是真的吗
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mh08.html>
+
+### 周杰伦2026年国庆青岛演唱会唱了哪些经典歌曲
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mh0a.html>
+
+### 周杰伦青岛演唱会：万人合唱让青春具象化
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mgzy.html>
+
+### 周杰伦青岛演唱会翻车，经典降调副歌递话筒凑时长
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301h864.html>
+
+### 特朗普总统宣布66亿美元马里兰造船厂项目，扩大美国潜艇产能
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-10-06 23:30
+- 链接: <https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTTB1VWZkZlp6NEY1cXg5cFRKUHVNZXRtQkkyaXRlRjV0YjRLQnJ4WkVpaUhsM0tuSUlfUjNaV2JSaDhSX2l3NmdZcDhtNGEzTDZ0VWJNY1IxVnF6YkZaQzJLMU1iMTBzUWFSTHpScWpDVFF6SzZWQk9udTJlaGZHd1NaN1hLM0FSQTFHbUQteENOYnRnckllZElaOVc5X0ltR0dKUjlDbURBdUpZd1ZXZFRRMnBlTFVJSmQtUUFGZE5wQko4LWZsSV9DeXJFSUlDaGR3ZtIB1wFBVV95cUxPWTNvSHRBQzFnWHNyUGcxbXRLTjJLYlVYY1JxVk1oNGJiQ2hIcDhUdlpleXFLSDEzWDZpZk1FVkFYUWdsREhRMUowQ3R1SjdzcE1vV0p6QWFmazVTRU55Q3ZPQzA2SjB2Z1V0QU1IR0xkeTRKQTBMekdLbV9ENTktZzNlQ1BxVWhqQ0ZVRkc3TURoRF9zb1ZrdWI0LWlWTjlaUkhtS1V3NWptWWZVUXdRRFRvWHFWMmNTWVI2OHR1UnN3cmxmU0tRSFBtUlBVRFVKaFlHLTVJVQ?oc=5>
+
+### 特朗普周三将发布声明并在得州发表讲话_7x24快讯_新浪财经
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 手机新浪网
-- 时间: 2026-10-06 20:24
-- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE5kLTkzNmlocXpsOVdpejRUM0NiMy1GUTBuLWJRNGxrVWk5bElqVko0cGF0Q2tteExHOU5FZnlZQ25PejFBRGZHUGhFN0Y1Z1U?oc=5>
+- 时间: 2026-10-07 00:45
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFA5ektOMGFMcl9YejNTTzR3X0R1dV9qZEVMYW4tOHlKSDlUM19SV25ZTE9mT2M0d2hDV05UOGRvWVZLQTdRdkR2TXFhbw?oc=5>
 
-### 特朗普总统批准对胡德堡枪击案凶手执行行刑队处决
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-10-06 19:20
-- 链接: <https://news.google.com/rss/articles/CBMivAFBVV95cUxPdTNFZDdXY1pWblZHemdPUWZfM1lZZV9vOWtvV0hxV1VHN1dBN01TeWptZkttQ0d6dVJSc1R4RHp1WURpb04yN0JweW1ubUdKRGdxYlBoLWRHWmNkYWxJTk1ELXlCTWtickVLV0I0NjlnYVpoV0hKUEhPb1lWZjFGMzEtN0NNQzc2T1VmeDJFdTRNU2hVYm9JOTBhR1BWcFNsNUtoQkV3OHZVaGZpZjc1U1V4a3VYbFIxcl9iUNIBvwFBVV95cUxON3JreTc1Zm50UXNDTk1KaldnT0ZtYVhLcXJMdjl6WXJCNEFuWXRTeElJaWlDelNXQjZ1clg0Y3NLV1pCYm82MWY2TUlaNVVaMnZ6dlk5eHYtODRCUUJVak5JdnNFOXJna2Y3Y29qZmlIOEFlcjUxVUVhNmJoS0ttY0dfc1RPZ0FXRXV3UzFvcVQyRnBEd1V3WldDMzRZMnUwWWhFZlpkekxSa0pzdy1yMWZ3MjlLY2xneGF1QmcyQQ?oc=5>
-
-### 特朗普竞选集会现场签行政令：拿上来，我就在这里签
+### 耶伦批特朗普对待盟友方式令人震惊 支持对美采取报复措施
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-06 10:05
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1MTm1ESk9ObngxUWZmQkRZaWJUZWVhXzhNYkVNdmdjZ1BreE5QMS1uOENPZ0liVHlFSVdDY0lfRklCUmY3eVpmbmRpM1I?oc=5>
+- 场馆: 联合早报
+- 时间: 2026-10-07 00:06
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1iSzM1TnE0Qm02UTNFNmV2SllGLUFweC0zbEdwdDA1Ukw3MUZxemNZVTNhaDFaNTBGYldCaXN5ZFFuRmtGMTBfWVBuR1JHUVpIY3I5ekRWVE1RWkQyc1NlYW81bFRLYTg2MFE?oc=5>
 
-### 中期选举临近，特朗普允许低价红染柴油用于公路，以遏制创纪录燃油价格暴涨
+### 特朗普：霍尔木兹海峡不是推高油价的因素，目前是乌克兰和民主党的问题
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-10-06 08:56
-- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxQcHJSWlNlc0FhNFNzVTAtdzRweXJ4YjIxbkhnS2JvZ0VGZ2dmWjdtOGljZldzdXhELTd1T1pCN2NCS2hvb0VxT0xWdGptd25SM2QtRTdueE9mOTlRZWZlb0w1WTVlSFBHWWpOd2hRd1JSeTc0Rjg3RkFxeTBkbnhnNGtBMXFnTzZRbThnZmlVd2tTNm5kXzRibk04Rkw?oc=5>
+- 时间: 2026-10-06 00:37
+- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxQWkd6WGF5OEhyaEVsTXU2b0h1SDJkc1I3MEVIdDVIbXU4OUpzbEhiTnVQUVZpX3V6dVJtX2FiOENody1TWFlxcTVhMkFlVktxLVdqTFpwYUdYbW9jMUdKUHF2VmRTendIdG1fUXVpTlVZaDdmMmV3RnRzWlZpUEI1bnNqcw?oc=5>
 
-### 特朗普：我的（选举）集会正在再次拯救共和党。
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-10-06 15:45
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5jWmNXUlhmaXZjSUU2THd6WnkydE5WNnAtaWtpdkxrT0xzazNaMEY1VGlHVldxQXBwSVM4V21VQmRhTENoU2pzR0Zmaw?oc=5>
-
-### 中期选举临近，特朗普重申发放5000美元支票的承诺
+### 特朗普说可让伊朗“摧毁”洛杉矶或圣迭戈 圣迭戈市长：鲁莽
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-10-05 14:19
-- 链接: <https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTDhaZE9nNkdobVNSM1N5cm1BYzY4cWhSMm9YdnZGcDUzdFZlTUM5RWFFaDF1OEpGMlJHcGxqN3RrWHRiZUdrVHEyY1NnWlZjU21pWFhVWHVRb3ROVDNKdEM0NnNOdXJSbEhSblhTUzBGajhqSWFjbU9oN1F4VDVhUTFudUd2bmo4aUMxODd2eHVhMkpobHRBY2xmZFR2Uy0xVUpMRTBxMjMyZTN6ZldpTzhuU3RlbVExWmZvcThBazhhTnA5Y1FmQXp3MWhlamVMVTFxeWR2cmxJaktX?oc=5>
+- 场馆: 新华网
+- 时间: 2026-10-06 09:32
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE45WXlMb2ZXRjhHbkllUklzZ0hheGM0Q0hfR1phVmcwT01HdXBQQXZKTDA4ci1jVGZEMGtSUTlVaHBEZnpua3FNemNJbkFaVjU2ZzVKUlM5OFpBdmtlMXhHMGZtS3lJLVlsX3RoS00wd3FCZ2pFdUNkekh6RlZIeHc?oc=5>
 
-### 特朗普要求人工智能巨头自我监管
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-09-30 02:26
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE5PS19OdjYwMGhMaHpqYTlGTVRUZnU0UlVrN2k0UEcybEZhb2k1ZGtCY19IUmgwMWFWV2I3VHNXeW1VbkdKcmZvWUJVZ2Q0eC0xTUFRUnBWeXVnaVA5SmZYRzFWTFE0OFhIS2JWODY4bXRocFlERWc?oc=5>
-
-### 特朗普组建超级智能工作组
+### 动用纳税人资金竞选遭反对，特朗普：我自己付广告费
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻
-- 时间: 2026-10-06 01:25
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5mdWI0YkctUmhWakE0TmxpaG1WMHRfMERCcUJmVW5QcUtfOUFTMGVNRGtudkFaYjZGR0dTV0owNUxOTExYLTdmTTRTcnlnY19tczdQT2UtZnlkSVFWcHFLcEJPQ2Y5T0FMSnJCUGQ5TjZrY2wwSUJidQ?oc=5>
+- 场馆: 观察者网
+- 时间: 2026-10-06 03:10
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1OejJUeF9oYjBzS2F1QjNiemlYWUMwbzhTVWhzaE9VaUFvWWliVjM1TGdjWDN6LVp4OUVLRWN0dGgxNUZTeDlHaXUwdDZuUV81d1JDUEZCanF0NXBHRHVtZzBYbUFzRmRhVlN1ZnJseHp5MFU?oc=5>
 
-### $TRUMP/USD (TRUMPUSD.CC)$
+### 不投资就加税！在特朗普关税威胁后，韩国"基本确定"参与阿拉斯加天然气项目
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街见闻
+- 时间: 2026-10-06 08:29
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBucW5oSzJ6MmFiTFdTTURIVU1UaXhpT2dGajhIY0s0M2FPMDVhdnNUVDNCb0c4bFRLMXhhTlNudGZFNnFrQVQ3ZlRvQVBGRk03VE93?oc=5>
+
+### 特朗普将AI改名SI背后有何意图 话语包装拆除监管叙事
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网新闻
+- 时间: 2026-10-06 11:16
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1PeERJZFpEWEN6TXdQRjN1LUwtOG5wcXlJMGZHSTdJSWludDlFbUNGaDF2RG1qZFg0dHRZMG9TOWg4OHpPYmpJaUxzM0lpRDdVOW9rbXJGS2x2SlRLd19TM3RvSDRyaGZ2UVdmYzNwX1g?oc=5>
+
+### 美国总统特朗普表示 战争结束后，油价将会下跌
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 东方财富
+- 时间: 2026-10-06 19:29
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5jWkp4WFIyUDVqaHpCQlpRQ0laaXM4aTl3d0hmc25QNkVYX3hsUE5UTGp5cGVQRjhDUGNJQzBkOGRWakx6c091djJxUXpsc0NuM2poQmlLa1cwMGVzb042TQ?oc=5>
+
+### 俄实验室人员疑死于鼠疫 特朗普：将与普京通话讨论
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-10-02 23:52
-- 链接: <https://news.google.com/rss/articles/CBMihgFBVV95cUxNb0gwTy1nMjZxYW5GNjZsMmVGRFdlb2dkdDRFVnBkamlEanZGTHBRaUI5Rm1weXJMM3hDbFNZRFhYS3BXZWRjWlZKZDB2U2ltazJJYmkwTl9oY21uczdnU0psaVFvZmFfRW5GMlBoN25ZU1hrVXlUZFJvd1BWLTlFSFJhWGZOUQ?oc=5>
+- 场馆: 8world
+- 时间: 2026-10-06 23:57
+- 链接: <https://news.google.com/rss/articles/CBMimgFBVV95cUxOWUVoeklhVVp3bi1faEltSkRxQzJvN3lYTTU2MHFvaHRZLTZ2aFp2WGVyc2FQaTREZ0dmQndzdkFDci1icERtdUJOencwek5SMHE2MHlhUU1zVEpoVnNrdTdNUkpRSUZCVnIzZm9rY3VFVy1fOXNWaUVFSXF5c3ZEWi1FZWxOQWdzRUpfbUpfZmNVQW1vQlVHNVpR?oc=5>
 
-### 特习会后多位国会议员访台，AIT：强化与台湾的伙伴关系
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-10-06 17:43
-- 链接: <https://news.google.com/rss/articles/CBMixgFBVV95cUxQTVlUWFk4QlRhRlp4aENzdHJUTmdaa0NSTzljQ1NnOE95Y3NKcGhDM1RXUGQwMExWQno4enIteW5MLWlYN1VEeWlRREJ2ejFOVFNEaXBFQ2l6bmZqRm5ZV1JQdU9lRy1pRlBwWDBKNFlEWVR3dy1kcUh4dGl0ZkFTZ1VJcFJoZlFaUjYzdzFJeER6dmFFUEhaYVhMdXluSWswVlZNcGdEaWJ1UnM0OE81Vk5Pdzdic18xcFE5SV9KQ0h6RUhXTHfSAcgBQVVfeXFMTXJ6SWlva1F4dnhqQ0pZeEg3NnBwbUxvSWF5TDlyV0M3di02ZTlSUEtJNU5oXy1TekhIako5aVVWdWdLci1QWDE1MEVJNndZQW5BbkFLOFFVem5UQThfRXRGaGkzTWw2RkhCaHdVcnhkZDhQVlRwVkFoTE41dWhlcHhQLUxrQXI3ZTFDVWNHOTg2cVhsNldwLUVaRTlkOVh1N0pLN0M0blpqbUcwV2MxN1NHcEJJbWtKZ3FWOUh0UzM1dTBsU2lhSjI?oc=5>
-
-### $OFFICIAL TRUMP (TRUMP.CC)$
+### Trump谈法国学生示威：“不是学校问题……而是移民和伊斯兰教所致”
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-10-03 01:23
-- 链接: <https://news.google.com/rss/articles/CBMi5AJBVV95cUxNeFNpMTNvdzlBQUZpdm5IWnEyMlpocmIyR1pjUUVLZVNlZXFHUDRidnN4TlZHbi1MQ05ERlprbVhpQzEwRGRyQ3RjQkdNUG1uMUlzU0FTbmtKM044SHgzTmNoUEZkcjI4YXdFcl9lX3VrbDY5TWlRbk1DTnVyeUlyZjJkYUIzMmZIYUItV1BNQW9JRW9KVWQzdHA2VkJwODZWODZQbVpLcnQ5YVVvZHI2Sy1aeVJQS2VaUm01d3FyUFdiTXFsZEJraWJkTHJBU25Qal9jZXBDdnQwZkVLZ1U4U1p2dmNIM3ZycEtwQ01tcWtSZFp1a19CN2htd2lXZEprNFFnaTZ3T0JCMGR2SjNSQ2V0ZG1iVDdBTW5RRnY5TlNlZS1iLUZuWnp6R2dOOEVoRzBmTEVLdmktbHpFLXFOZXN5MnplaWtnNWJ2VUlRamFJaVhNcW1XMEFGODFqd3llVGFJUw?oc=5>
-
-### 沙特石油出口回升，特朗普总统预测伊朗冲突结束后油价将“暴跌”
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-10-06 18:50
-- 链接: <https://news.google.com/rss/articles/CBMi8wFBVV95cUxQWm85Y2RlY3RHVFFYVndnRmRzYk5NMU5xeWdOM2VYbnd4N1VDUG1ZYjBVNkZKZG5Qc3ZBWW1IejZpODZjM2dYRU9FdVhzUFhJclpJdWVocGg4eTIzTDlFcHkxMVZ1NUxOWUNfbjg2UUp2OWRJQjN6TTdiSGd3VDZtVDl4RXFlcFRTa3poeWdPSW9HN0xnS051Q0t2VmVzMTNRaDRaTG91NC1odjh3MThXbFNnODVnMTlOVXlTMUY0dmVMYXQ5cm03aDZrUUd1elpackJSZWFuS3M4RVN0YWRqakNvdGVfaUJpUUR6amtXbTB3d1nSAfYBQVVfeXFMTTlUVEZmV3BPNjg2V2dGY0RXYWoyU0wtQ3FpdFNuMVo0YzZvSk5fMkJWVlE3NFRFc0xkeTFseHIxTWJFbGZTRFdnSmJNU09qeHF1dEZxS3BfZHREcEc3czB5OHktUVUwd2QtZDhBcVduQ1hHTWZ6N0JxYjM2TlFqd2Q2ZjRzTmZIRGctZEtacnBpeS1LSGpIT0hPN2hFSENjajk0X0ZaRGZDZEI0M1h4U3k2cU5xRDM5MUxyOFZuOWZQTG1ZRGFvai1LNFVST3cwR3ZmVW0yV1o1X3hlTmRqZi1GSVdkOXRNZUhIeUJnUlRGa21nendn?oc=5>
+- 场馆: 아시아경제
+- 时间: 2026-10-06 20:08
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1FVFpoajRrTERhTGtnMVpLY1E4Q2tDenZvT01VbHlRTWo5ei00eG1NbmFob1Z3WjE0Yk5vTE9HTFBZdm82VjZIZi1oVHRxekt0NU9YZGU2NlhfWnZkdzZJbGZTWVU?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-07 00:52  (20 条)
+
+- **王一博** | 肖战同晚19点发布动态是否与王一博有关 <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mh12.html>
+- **周杰伦** | 周杰伦青岛演唱会有哪些经典曲目重现？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mh3u.html>
+- **周杰伦** | 青岛为周杰伦演唱会提供了哪些特别服务？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mh3s.html>
+- **周杰伦** | 周杰伦后续巡演计划有哪些城市 <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mh3i.html>
+- **周杰伦** | 周杰伦2026国庆青岛演唱会现场有多震撼 <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mh3g.html>
+- **周杰伦** | 周杰伦演唱会上歌迷求婚的故事是真的吗 <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mh08.html>
+- **周杰伦** | 周杰伦2026年国庆青岛演唱会唱了哪些经典歌曲 <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mh0a.html>
+- **周杰伦** | 周杰伦青岛演唱会：万人合唱让青春具象化 <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mgzy.html>
+- **周杰伦** | 周杰伦青岛演唱会翻车，经典降调副歌递话筒凑时长 <https://k.sina.com.cn/article_7879924009_m1d5ae192903301h864.html>
+- **特朗普** | 特朗普总统宣布66亿美元马里兰造船厂项目，扩大美国潜艇产能 <https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTTB1VWZkZlp6NEY1cXg5cFRKUHVNZXRtQkkyaXRlRjV0YjRLQnJ4WkVpaUhsM0tuSUlfUjNaV2JSaDhSX2l3NmdZcDhtNGEzTDZ0VWJNY1IxVnF6YkZaQzJLMU1iMTBzUWFSTHpScWpDVFF6SzZWQk9udTJlaGZHd1NaN1hLM0FSQTFHbUQteENOYnRnckllZElaOVc5X0ltR0dKUjlDbURBdUpZd1ZXZFRRMnBlTFVJSmQtUUFGZE5wQko4LWZsSV9DeXJFSUlDaGR3ZtIB1wFBVV95cUxPWTNvSHRBQzFnWHNyUGcxbXRLTjJLYlVYY1JxVk1oNGJiQ2hIcDhUdlpleXFLSDEzWDZpZk1FVkFYUWdsREhRMUowQ3R1SjdzcE1vV0p6QWFmazVTRU55Q3ZPQzA2SjB2Z1V0QU1IR0xkeTRKQTBMekdLbV9ENTktZzNlQ1BxVWhqQ0ZVRkc3TURoRF9zb1ZrdWI0LWlWTjlaUkhtS1V3NWptWWZVUXdRRFRvWHFWMmNTWVI2OHR1UnN3cmxmU0tRSFBtUlBVRFVKaFlHLTVJVQ?oc=5>
+- **特朗普** | 特朗普周三将发布声明并在得州发表讲话_7x24快讯_新浪财经 <https://news.google.com/rss/articles/CBMiS0FVX3lxTFA5ektOMGFMcl9YejNTTzR3X0R1dV9qZEVMYW4tOHlKSDlUM19SV25ZTE9mT2M0d2hDV05UOGRvWVZLQTdRdkR2TXFhbw?oc=5>
+- **特朗普** | 耶伦批特朗普对待盟友方式令人震惊 支持对美采取报复措施 <https://news.google.com/rss/articles/CBMiakFVX3lxTE1iSzM1TnE0Qm02UTNFNmV2SllGLUFweC0zbEdwdDA1Ukw3MUZxemNZVTNhaDFaNTBGYldCaXN5ZFFuRmtGMTBfWVBuR1JHUVpIY3I5ekRWVE1RWkQyc1NlYW81bFRLYTg2MFE?oc=5>
+- **特朗普** | 特朗普：霍尔木兹海峡不是推高油价的因素，目前是乌克兰和民主党的问题 <https://news.google.com/rss/articles/CBMigwFBVV95cUxQWkd6WGF5OEhyaEVsTXU2b0h1SDJkc1I3MEVIdDVIbXU4OUpzbEhiTnVQUVZpX3V6dVJtX2FiOENody1TWFlxcTVhMkFlVktxLVdqTFpwYUdYbW9jMUdKUHF2VmRTendIdG1fUXVpTlVZaDdmMmV3RnRzWlZpUEI1bnNqcw?oc=5>
+- **特朗普** | 特朗普说可让伊朗“摧毁”洛杉矶或圣迭戈 圣迭戈市长：鲁莽 <https://news.google.com/rss/articles/CBMif0FVX3lxTE45WXlMb2ZXRjhHbkllUklzZ0hheGM0Q0hfR1phVmcwT01HdXBQQXZKTDA4ci1jVGZEMGtSUTlVaHBEZnpua3FNemNJbkFaVjU2ZzVKUlM5OFpBdmtlMXhHMGZtS3lJLVlsX3RoS00wd3FCZ2pFdUNkekh6RlZIeHc?oc=5>
+- **特朗普** | 动用纳税人资金竞选遭反对，特朗普：我自己付广告费 <https://news.google.com/rss/articles/CBMic0FVX3lxTE1OejJUeF9oYjBzS2F1QjNiemlYWUMwbzhTVWhzaE9VaUFvWWliVjM1TGdjWDN6LVp4OUVLRWN0dGgxNUZTeDlHaXUwdDZuUV81d1JDUEZCanF0NXBHRHVtZzBYbUFzRmRhVlN1ZnJseHp5MFU?oc=5>
+- **特朗普** | 不投资就加税！在特朗普关税威胁后，韩国"基本确定"参与阿拉斯加天然气项目 <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBucW5oSzJ6MmFiTFdTTURIVU1UaXhpT2dGajhIY0s0M2FPMDVhdnNUVDNCb0c4bFRLMXhhTlNudGZFNnFrQVQ3ZlRvQVBGRk03VE93?oc=5>
+- **特朗普** | 特朗普将AI改名SI背后有何意图 话语包装拆除监管叙事 <https://news.google.com/rss/articles/CBMicEFVX3lxTE1PeERJZFpEWEN6TXdQRjN1LUwtOG5wcXlJMGZHSTdJSWludDlFbUNGaDF2RG1qZFg0dHRZMG9TOWg4OHpPYmpJaUxzM0lpRDdVOW9rbXJGS2x2SlRLd19TM3RvSDRyaGZ2UVdmYzNwX1g?oc=5>
+- **特朗普** | 美国总统特朗普表示 战争结束后，油价将会下跌 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5jWkp4WFIyUDVqaHpCQlpRQ0laaXM4aTl3d0hmc25QNkVYX3hsUE5UTGp5cGVQRjhDUGNJQzBkOGRWakx6c091djJxUXpsc0NuM2poQmlLa1cwMGVzb042TQ?oc=5>
+- **Trump** | 俄实验室人员疑死于鼠疫 特朗普：将与普京通话讨论 <https://news.google.com/rss/articles/CBMimgFBVV95cUxOWUVoeklhVVp3bi1faEltSkRxQzJvN3lYTTU2MHFvaHRZLTZ2aFp2WGVyc2FQaTREZ0dmQndzdkFDci1icERtdUJOencwek5SMHE2MHlhUU1zVEpoVnNrdTdNUkpRSUZCVnIzZm9rY3VFVy1fOXNWaUVFSXF5c3ZEWi1FZWxOQWdzRUpfbUpfZmNVQW1vQlVHNVpR?oc=5>
+- **Trump** | Trump谈法国学生示威：“不是学校问题……而是移民和伊斯兰教所致” <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1FVFpoajRrTERhTGtnMVpLY1E4Q2tDenZvT01VbHlRTWo5ei00eG1NbmFob1Z3WjE0Yk5vTE9HTFBZdm82VjZIZi1oVHRxekt0NU9YZGU2NlhfWnZkdzZJbGZTWVU?oc=5>
 
 ### 2026-10-06 21:05  (14 条)
 
