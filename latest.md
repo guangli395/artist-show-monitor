@@ -1,120 +1,100 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-07 20:02**
-- 本轮扫到 13465 条, 新增 **13** 条
+- 最近更新: **2026-10-08 00:17**
+- 本轮扫到 13474 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (13 条)
+## 本轮新发现 (9 条)
 
-### 特朗普：支持将特朗普国际（酒店）用作总统休养地。
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-10-07 17:43
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE0xTTBhZk83WWJoc0ZqMkhUQU9xNHNHVGx6OHZqV0VtNDJFMU9ET2RyNTVwMUd2cU1QUlhkVDNCaElDYzVZdl9sbmVBWQ?oc=5>
-
-### 特朗普政府拟要求学校为留美工作的国际学生支付7万美元费用
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-10-07 18:51
-- 链接: <https://news.google.com/rss/articles/CBMipANBVV95cUxQdXJVZkhYR25tQndJMHpoTXYzc1hBSVpRazNQNGNxcFE2aTdoRVF0MTZuUWhrb1dhb1hrcmZXUmY3OTU3SVZubmZpd0ZEWWV4dmZyYlo1akdHZ1ZUQS1HM0plWTF3U0VJUXVxbExFWWJqWU56MG1fZzlzM2FXaGVSZXZfb25tZGZabGVIeXlSZWhBamJKZnQ2V00xYVF1eExCMEFNcjZWN3VRUVAwdUI1bnkzdENoeDZYUFlmUnd0aHJIeDd6TkR6aUhJME1qeEZpbEdwOEg4WGRpTE5Ta0FpTHF2S2xNRVVfblFzSGtiTEx4bUhzVjFkTlVsT3VVaEFJMFdybXl6SnY3TXJveVJTbFdNQ3lUMkFnSEZacU1UQk5VOVhfQS1pSzB5TkFsd0xTbkpoWW1qS1dYeEVUSk1GVFZBRGV0YXJaZy1Fb3pwWjNvRE9uMzdwQ001MFlEZEpnZWdMMDJzdFh4cGh5Nk5ycy1KVHVkblVoYXBjN3U3MVVabHBtVXNEVjNmendibWVicml2VW9GZ1QtZ0YyVHNDNFdLckk?oc=5>
-
-### 特朗普：我会密切......_7x24快讯_新浪财经
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-10-07 17:44
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5jQi04a00wdmV6cWtmMEtrelJBd2JvQVRJUFJuU2dUcDZOYWxvemZNZzVQMTdkYUpSZzdzZE5YQ2EzWWFNenZiT1VZVQ?oc=5>
-
-### 特朗普：对伊朗的军事行动“必须收尾了”(含视频)|美媒|马里兰州|唐纳德·特朗普|空袭|美国总统
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻
-- 时间: 2026-10-07 07:50
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBvRHhKUHhiQThkSTZqWklXNFNUdDFpckFRcW9zNURBMXk0OWw5Q2pTY3UtbWFmck9RbklFd2tHRFktOHR1Y096NEtMVGszRnRacGYyVlFCY1Q5U2w4Wlk0SzVaVGpkVDRuWVczRkplNHRVNXo1QWJtXw?oc=5>
-
-### 特朗普“建议”伊朗摧毁洛杉矶？本人拒绝澄清，CNN却罕见“辟谣”
+### 特朗普批准：枪决
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-10-07 12:14
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9HUVhCTnNyVGkzMlgxM0FjWDVkNDF1dUNSMUVOSThINHVQcEx4eE53clJtM0sxRHo3d18zNWp3NlN5bnRjbTNXS2dTSmU?oc=5>
+- 时间: 2026-10-07 17:12
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5iemlJN09pYzd6Z09DN0otWngwN3A1LWFya3JZWjlBOWpjM01fUm4zQ3ZaenZ0QklyNDM0N0F3T21PSFlib1I2c0tfRDI?oc=5>
+
+### 特朗普总统：美国针对伊朗的军事行动可能让世界免遭“毁灭”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-10-07 21:35
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxQck1pNDc0RjFlTWFDdU5qNmZzS2hJbFZwRmtPNFlibWZEZ0ZUanQ2UEFmeEZDMDc2Z091RnZMNG1MT1FHNThyUWFPemV6X0pIY21LazlQN0R2Ul83bjZCZjJIOHMxMHVLQ3hPWUtHcEJKVVdrelRfRlU4c0J6RU9UUERPN3R1YlQ0UExyd2hIVlFqclhLY0VCZmFPb0ljMFpMU29lOEd1bU10UUxHUEtrVGF3YXFLNlF5eE1HVlZXS3VmR2FmbmJ6QTNUSWlRVkRsT3ZqdVc4QV91VHBGb0dB0gHiAUFVX3lxTE9hLTZKZGpHYWZmbmtHaGtvRjNmUjRLOGFYdTZ0NkNZOUh1Xzh5M0NFY21VdlgzeVpxVWJhTzhYdk55ZDRSSUJoQy1uY1M4aGYyUTlMRDFMb2Rvb3UzdkV1cEVzWHFuVEtQUS03cjZpLVg5TFNWOGlaX0RLSWp5N2ROeW42Mk9jamotWm9xNndZZUU3d0ZfaUJyMEtfdzVLbG96c2ZyN0dvTzJ3TGp0aVVtZVRHUFlKZjFfTEh1aDFYZWxfT29wV3pmdVQ2ekNHNmk5UkdvQWJYZlAwV3NIanQ3dmc?oc=5>
+
+### 市场消息：特朗普政府住房和城市发展部致信富国银行首席执行官，表示将核查该行是否违反公平借贷相关法律。
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 手机新浪网
+- 时间: 2026-10-07 15:47
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5HVENYU0ZkZU9xNVlZenF0R0xnMHBUcWFOd2xfSTBoMUR3VFBxbzZlWVhoUnRpWlBqNDEtRElIemhfaV95ZjRRTWxxMA?oc=5>
+
+### 再不投资就加税！特朗普施压、韩国“打脸”，美韩上演阿拉斯加LNG“逼单”大戏
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: ThePaper.cn
+- 时间: 2026-10-07 14:46
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zQWpqNTRyRVBwZzhPTDRaakU3aC1TOUROUzBuOHk5eVc4Rks4T0pJRjhpcEZEek1GdXlOSk9aM3FxVkZleWJGNzZTWmJiU3dCTlFoVTVZbmVXOGFUOFpsQg?oc=5>
+
+### 特朗普将向马斯克、黄仁勋等科技高管颁授国家奖章
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: QQ News
+- 时间: 2026-10-07 22:49
+- 链接: <https://news.google.com/rss/articles/CBMiV0FVX3lxTFBLelh6ZGZCcm1XRnZ2UUpSN1hRemNUemRQdVJIc2pNNEE4N1VKQmpzb0F4OHhReUVuZFpOazRVNTlPaFhSYUN1R1prcDNrU3B4YTloY2N1SQ?oc=5>
 
 ### 特朗普：对伊朗的军事行动“必须收尾了”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-10-07 11:31
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1JTUVHLWhzUFpEdmEwOGs3VDk1V3Y0MzNqdjhlWjNHUmlKY3Q2X2hLbmR3VFQwdVpxUE1MZFRWdFpHNU9hXzRyaENLTmhHSzNTS0gydFU2QV9ibEsyeDFpeU01My1xQQ?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-10-07 13:07
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFB6aGZYbFFfLWRJRGV0QkdFVnlpTmZNRThzTnc2Z1IxU1Z4VG53cDBaWm9ad2ctZnpHeHMyaVRmSnZaLU9jZGtoQS00SQ?oc=5>
 
-### 外媒：特朗普称预计“很快”与普京通话
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 环球网
-- 时间: 2026-10-06 17:55
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE44NDIxWlZwTmhraXA1QzVwcGZzZGFrQUhjV3U2b05zdW1adC1yMzJlRi1rMnRtSHE2TTdET3BiUTNwS3dkM3B3N3RQX1h3eUZpVG1zeF9zdEI?oc=5>
-
-### 特朗普：对伊朗的军事行动 “必须收尾了”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-10-07 07:59
-- 链接: <https://news.google.com/rss/articles/CBMid0FVX3lxTE0wMFBnUmxFV1Nad2Zta2E4X2pUSFNxbnFwQ3RTTzZTR0pjN3FiaTNoN3lqT2dyOS1vM2FiZmhzNldEYzlLNDFuWFZGZW1zWF94YndaYzEyc1dnUURiMVhQZ01ZbWFtdTdGcXZpbFZYNmtwVlJLQWVj?oc=5>
-
-### 朝鲜批评美对台军售，白宫重申特朗普总统将在近期内针对新军售做决定
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-10-07 15:40
-- 链接: <https://news.google.com/rss/articles/CBMingFBVV95cUxNQWdrcjRlaFdfUUJfM05DdXU1QnRIZHFuZHJDcF9MNWpUUVE0Zlo0TURHX3JpSTBvYmNRMXBxY0NKZjQyRVk0ZzhabndubkJBVnR6Tk1aTkxqZm9yenBqanB4YTB2UHZYZTV0d2hEMVVrRUdZcUpEUDZiRFdHLXotR0ZPRjhOcG5SdFRNZnBuTnB6clM5VTBjSDBqcWI0QdIBoAFBVV95cUxPUktzOTZJSEk4T0pocmRnTWdIU2NjenVHSlFVSUZZQjVTY3FCV19tQW1CQ2R4cmpjOFJxcUotNE9TWFFTNU1ZcUh4YzFFT2F3OW9zT25yczhUd3VDLU5IbmRSXzJkbkNEdTZXbmh2VnMtWG1qZ3VNNjZXMDY5UmZhLWhkajhQaWRJRFlSUWE1bEtXcW5DMjkxekpWRzdMN25B?oc=5>
-
-### 特朗普自称解决了八场战争，暗示如果诺贝尔和平奖不授予他将是“一大失误”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-10-07 19:42
-- 链接: <https://news.google.com/rss/articles/CBMi7ANBVV95cUxOM241TWR0Q1RvRFlMZ3YwUHNuVEZPQmRMd1V5SW90d29rTVNVZjVGOTBTcHlHZzZkaG1BQUhUazRkMjdMNEFobHhrVXhQQjhLc2xxbi04bXdWQWhsdUx0YjVuQ3NDNEp0Wi14THUzcXdmckswNUI2d2RSTExKSDJhNlQ5Wko4VjYwcDZOU0RzVVFxM3BZN3lxeVpqOWZPUnVJSjdCWHROWlpMSllxczNmcjY4NXRVNmM5VkdiaWpZR3VKU0N5amFfTW5LVWN0ZllVRmRnMldwejBhaTl4UFplMkRfUlFQQVdGWHduOE56eGtlbW95aHJrZ2ZsN2lxMGpJS0d5d1hyd21RSmFnclVURTdqdFdzU08yb2FwQ214djZDQjhZYzNvQ255M3N2aUE0RzdFd3k3eDZsMy14bjU5ZVVFOW1mcjZTSm13TGlPR0MydEM3V0ctX2JYRGNBSlF4V0hob0V1d2M5MG5wdFhWTWtmMC1fQ2VGeU9vQmFBUDhmR3Q2RlQxSElwd0tNME5VZTRRNWZrcjBXMXpkSFo4bm5YSkZmSy1kTGhtQ2xnWUtvdnBCWTdQWlRsbFdWVmRHNmROSnpFUDZrUGI3SU9aa0JaRG84aVl6SkhSLWJ6cDVIVHdqbmxWNnJPSWs?oc=5>
-
-### 某巨鲸将114.8万枚TRUMP转入新钱包，持仓一年浮亏939万美元
+### EU-China trade talks; Reality after the Xi-Trump meeting; US-China AI/SI
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: TradingView
-- 时间: 2026-10-07 06:52
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE45cXB1UG1OV2s1cEp6WjU5cVlmQVJOOE5LdmhWX0p6RXdxR3kzY0oxcklIRHktajdmenpqQ1hHY09La05lUVRlMWFfYnhJWlFqRG45THZ5WFU1bU5Vc2Y1T0tjZEJmQQ?oc=5>
+- 场馆: Sinocism | Bill Bishop
+- 时间: 2026-10-07 20:17
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBJakc3NURCZVRfWEtZOGx6UXRZeDN4QWVxTEVmTjZkMjlYS1c4REhYTjVhSndoZjBfSUlkVmhvVC1zMzZ0dFA2cEdlR05jb0N0OVZZdnBmNEtkN093eEFqOF8tQmh1cGY5?oc=5>
 
-### 特朗普称伊朗可“摧毁”洛杉矶与圣地牙哥 加州政界跨党派反弹
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-10-07 19:49
-- 链接: <https://news.google.com/rss/articles/CBMimwNBVV95cUxOMk1UN2M1Vkx4T3U0ekl0Qkcyc195NzdpdFhCNGZsSEtWVFFWSG5HUDZsNllaanhuSHdESEM4aWdZMnJ5Tm5HMGdXYmNUWmhMSFFZQk5maDhiZmJfWU4xUnNPdW1PeWxJTEZxN2VEMDJDeENHUmY4Wk1qZVlUMU9SYnNINjYyclJ2WGVWODFNeTBlZElsQUxMV2c3YkVCWVgzSm9qRnhWazBKOGZXcUhWMkp5R0UycGxCWmlQSlZsZWNpdDJNckp4WWZrQ3N1cndxbXBlVU9qbHFOSzNIdnBnb2VOS0xLd0dnTWx3SzJuVnUwT1RVaUpoWkE1d2xaMEcwRnZsVmNrWUdMcDNFMmZ1ckVud3U4QllLTmJQWWhIQ0RoYTVlZ3FIMTFGWjhjWllMZ2k3VFpNZ3FyS05tOHAyNXVna0pvRUdiT2c3TElfckZGSFVfaXpEQlI3Mno5eHlVdFJteW51TUNCY0xaU0hRMW84Q3RNbU9hQ3FZcnJHcDdhWDgyYUM1OWRfdmQ1NmhDdFBzS1MtTVBDb3M?oc=5>
-
-### VOA专访台湾驻美代表俞大㵢：“特习会”后美台关系不变 将一同赢得“超级智能”竞赛
+### 特朗普：俄罗斯实验室人员死亡 相信与生物武器无关
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-10-07 16:41
-- 链接: <https://news.google.com/rss/articles/CBMi5AFBVV95cUxON2I5U2ZJYXphcGIzZGJobkN4UjhjNFFvbkhDcG5tOTE5RFVVME1yZlZrZU94ZFlQTHM2Ujd3Y2xLRjFYZ0xtNjdpWl9naUtBbncyOHF4a1VqLWtVSVVtUkI2VHVYSG9DRVVHMFJHbl9zS2IyVVV5VGJQZDEyLVU4RUhRQUpSX3VjbEdtRVVHNmtWOWlzYXZzTlNPenQyX1JwWEQ5TjFKNDNMWWY3dk1CZFBxSmpieTZmSDBTZ1JkQVJoeTJKRFZ3TkJPcUpCV2U2R0JtRDBFRHZvTHFwc19zWVdWbjXSAecBQVVfeXFMTi1oZHNDeE1OaWMxWEVJS3RBcGJlZXA0X0dQdld3VTNaZU1mUUJ6eExGVmNzYy1HVFdHTWVUREtoV2RhdXhPWjRpMUJIWGV4QWFKSW1mbFlWSzdPTFJvMkZQNUZVeTlMaEZtRVlOZlA3OU13UE0wSmM3RXdzMENLdkZYVHlVVk54SzRyTzJXUXhSeUxnbUc2S0pMNlM2MWVXSHFrUmlHN0xELUNpX19PYWhnWG5oUUE0NDhfT2RJQ1NmOHhpUG9vV0hVVHNNS2JjT2VSUFFMSWVwTkl5LWUzTDc3cmdWeFBJ?oc=5>
+- 场馆: 8world
+- 时间: 2026-10-07 22:37
+- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxNOGRHWjJGNGhaWExMZWNBV1pMaHdaT25CV0hPMkh0NWxTVzRNdjZFc2l2cWdnODFBN0xSdkZONC1wUHNhRTFOMU0xNWJpT2pWa0tVcXRjNmU4cWRIYVhBWWF4Q19QYnBWQlV5ek5HRmFFQkp4Qzh4MG1lelB5YlZGX19NV1hlaDFDVEs1SnFMdFZITUdk?oc=5>
+
+### Trump：“我们的利率应该最低”……住房抵押贷款利率升至7.49%后再施压美联储（综合）
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 아시아경제
+- 时间: 2026-10-07 22:51
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFAwbllxNlJHYVhiTnFxazVBX3g2M0hCNkFNY29haG0zLU4ySlE2akdQTG50M1I3MHY4a3JyR3c0RnBOMzctVXpUZXJtU290UHI5T1dpd0RJVk1GY213TEh4OWdtZVA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-08 00:17  (9 条)
+
+- **特朗普** | 特朗普批准：枪决 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5iemlJN09pYzd6Z09DN0otWngwN3A1LWFya3JZWjlBOWpjM01fUm4zQ3ZaenZ0QklyNDM0N0F3T21PSFlib1I2c0tfRDI?oc=5>
+- **特朗普** | 特朗普总统：美国针对伊朗的军事行动可能让世界免遭“毁灭” <https://news.google.com/rss/articles/CBMi3wFBVV95cUxQck1pNDc0RjFlTWFDdU5qNmZzS2hJbFZwRmtPNFlibWZEZ0ZUanQ2UEFmeEZDMDc2Z091RnZMNG1MT1FHNThyUWFPemV6X0pIY21LazlQN0R2Ul83bjZCZjJIOHMxMHVLQ3hPWUtHcEJKVVdrelRfRlU4c0J6RU9UUERPN3R1YlQ0UExyd2hIVlFqclhLY0VCZmFPb0ljMFpMU29lOEd1bU10UUxHUEtrVGF3YXFLNlF5eE1HVlZXS3VmR2FmbmJ6QTNUSWlRVkRsT3ZqdVc4QV91VHBGb0dB0gHiAUFVX3lxTE9hLTZKZGpHYWZmbmtHaGtvRjNmUjRLOGFYdTZ0NkNZOUh1Xzh5M0NFY21VdlgzeVpxVWJhTzhYdk55ZDRSSUJoQy1uY1M4aGYyUTlMRDFMb2Rvb3UzdkV1cEVzWHFuVEtQUS03cjZpLVg5TFNWOGlaX0RLSWp5N2ROeW42Mk9jamotWm9xNndZZUU3d0ZfaUJyMEtfdzVLbG96c2ZyN0dvTzJ3TGp0aVVtZVRHUFlKZjFfTEh1aDFYZWxfT29wV3pmdVQ2ekNHNmk5UkdvQWJYZlAwV3NIanQ3dmc?oc=5>
+- **特朗普** | 市场消息：特朗普政府住房和城市发展部致信富国银行首席执行官，表示将核查该行是否违反公平借贷相关法律。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5HVENYU0ZkZU9xNVlZenF0R0xnMHBUcWFOd2xfSTBoMUR3VFBxbzZlWVhoUnRpWlBqNDEtRElIemhfaV95ZjRRTWxxMA?oc=5>
+- **特朗普** | 再不投资就加税！特朗普施压、韩国“打脸”，美韩上演阿拉斯加LNG“逼单”大戏 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zQWpqNTRyRVBwZzhPTDRaakU3aC1TOUROUzBuOHk5eVc4Rks4T0pJRjhpcEZEek1GdXlOSk9aM3FxVkZleWJGNzZTWmJiU3dCTlFoVTVZbmVXOGFUOFpsQg?oc=5>
+- **特朗普** | 特朗普将向马斯克、黄仁勋等科技高管颁授国家奖章 <https://news.google.com/rss/articles/CBMiV0FVX3lxTFBLelh6ZGZCcm1XRnZ2UUpSN1hRemNUemRQdVJIc2pNNEE4N1VKQmpzb0F4OHhReUVuZFpOazRVNTlPaFhSYUN1R1prcDNrU3B4YTloY2N1SQ?oc=5>
+- **特朗普** | 特朗普：对伊朗的军事行动“必须收尾了” <https://news.google.com/rss/articles/CBMiS0FVX3lxTFB6aGZYbFFfLWRJRGV0QkdFVnlpTmZNRThzTnc2Z1IxU1Z4VG53cDBaWm9ad2ctZnpHeHMyaVRmSnZaLU9jZGtoQS00SQ?oc=5>
+- **Trump** | EU-China trade talks; Reality after the Xi-Trump meeting; US-China AI/SI <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBJakc3NURCZVRfWEtZOGx6UXRZeDN4QWVxTEVmTjZkMjlYS1c4REhYTjVhSndoZjBfSUlkVmhvVC1zMzZ0dFA2cEdlR05jb0N0OVZZdnBmNEtkN093eEFqOF8tQmh1cGY5?oc=5>
+- **Trump** | 特朗普：俄罗斯实验室人员死亡 相信与生物武器无关 <https://news.google.com/rss/articles/CBMilAFBVV95cUxNOGRHWjJGNGhaWExMZWNBV1pMaHdaT25CV0hPMkh0NWxTVzRNdjZFc2l2cWdnODFBN0xSdkZONC1wUHNhRTFOMU0xNWJpT2pWa0tVcXRjNmU4cWRIYVhBWWF4Q19QYnBWQlV5ek5HRmFFQkp4Qzh4MG1lelB5YlZGX19NV1hlaDFDVEs1SnFMdFZITUdk?oc=5>
+- **Trump** | Trump：“我们的利率应该最低”……住房抵押贷款利率升至7.49%后再施压美联储（综合） <https://news.google.com/rss/articles/CBMiZEFVX3lxTFAwbllxNlJHYVhiTnFxazVBX3g2M0hCNkFNY29haG0zLU4ySlE2akdQTG50M1I3MHY4a3JyR3c0RnBOMzctVXpUZXJtU290UHI5T1dpd0RJVk1GY213TEh4OWdtZVA?oc=5>
 
 ### 2026-10-07 20:02  (13 条)
 
