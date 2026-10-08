@@ -1,214 +1,196 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-08 06:25**
-- 本轮扫到 13503 条, 新增 **29** 条
+- 最近更新: **2026-10-08 13:49**
+- 本轮扫到 13524 条, 新增 **21** 条
 
 ---
 
-## 本轮新发现 (29 条)
+## 本轮新发现 (21 条)
 
-### 王一博第105条ins与肖战首条日常同日同时发布
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924004_m1d5ae192403302c1gi.html>
-
-### 周杰伦青岛演唱会有哪些精彩瞬间
+### 周杰伦青岛演唱会现场求婚有哪些感人细节？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016sc8.html>
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mkk8.html>
 
-### 周杰伦演唱会万人合唱现场有多感人
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016sbo.html>
-
-### 周杰伦巡演后续场次还会有加场吗？
+### 周杰伦青岛演唱会唱了哪些经典曲目？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016s9i.html>
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mkk6.html>
 
-### 周杰伦演唱会黄牛票为何依然存在？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016s9e.html>
-
-### 周杰伦演唱会抢票难度地狱级，这些技巧你知道吗？
+### 周杰伦在青岛演唱会有哪些互动名场面？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mjxy.html>
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mkk4.html>
 
-### 周杰伦演唱会为何总是秒空？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mjxw.html>
-
-### 周杰伦演唱会供需矛盾未来如何缓解
+### 周杰伦青岛演唱会破纪录，万人合唱感动全场
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016s44.html>
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mkk2.html>
 
-### 周杰伦演唱会抢票有哪些实用技巧
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016s46.html>
-
-### 刷票10秒售罄！周杰伦演唱会抢票为何这么难
+### 周杰伦演唱会
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016s40.html>
+- 链接: <https://k.sina.com.cn/article_7879923704_m1d5ae17f803301zi12.html>
 
-### 周杰伦演唱会为小粉丝签名点歌并送祝福
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923551_m1d5ae175f03301s7x2.html>
-
-### 周杰伦承诺年年赴约上海大师赛，坦言比演唱会还紧张
+### 周杰伦获上海大师赛超级挚友，客串主持称比演唱会紧张
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923909_m1d5ae18c503301ongc.html>
+- 链接: <https://k.sina.com.cn/article_7879923909_m1d5ae18c503301onkg.html>
 
-### 周杰伦上海大师赛称参赛比演唱会紧张，调侃视频剪过
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923909_m1d5ae18c503301onea.html>
-
-### 周杰伦承诺年年赴约上海大师赛，称参赛比演唱会紧张
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5506861184_1483c088004001cyf6.html>
-
-### 国庆演唱会场馆旁的酒店，比景区门票还难抢
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6192937794_17120bb4202002v3ye.html>
-
-### 周杰伦演唱会场外歌迷脚伤求助 文旅、医疗、安保人员 暖心接力将歌迷送至看台
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923946_m1d5ae18ea03303w2kg.html>
-
-### 广州多场大型演唱会即将开票！
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://finance.sina.com.cn/wm/2026-10-08/doc-iniunrrf7665090.shtml>
-
-### 特朗普批准枪决哈桑 死刑方式引争议
+### 报告称，特朗普8月份抛售了价值100万至500万美元的AMD股票。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中华军事
-- 时间: 2026-10-08 03:53
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9MM2ItOEpUZThKWElSSHhLWmVNMkFWNjhpUmFORHNEUDZ6S3JVSUtJenZiWVZxbDVXQWZDR25YcGE1aGFFY2I3WmhWVF9HQUhLekJTUzdlOWdIQkQ2MEVfc1FEX1FYU0tBY3JuWVpVYlU?oc=5>
+- 场馆: 手机新浪网
+- 时间: 2026-10-08 13:23
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFAzak56QUZNcjBKNVZOdjA5N2dXaFY0TG5QQjBvYVdrelpYUXZabWtMQU05WWtUbVZGc011Vmpfa2daOWN6akRTSlpjQQ?oc=5>
 
-### 特朗普：我本可以对希拉里、拜登和奥巴马做非常坏的事
+### 胡塞答应放美国一马？特朗普一番没出息的话，让沙特悬着的心死了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻
-- 时间: 2026-10-08 05:55
-- 链接: <https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbjBRajRlOU94OFlqbVVJUkdTVWR2a3hVbDVvajdmQkpoQ0ZsZUdXelpHT2F4dHp1MWhSUHBfRGJVNW5tN2RtTkZUaHMzMzhQT1dkZXJTQnJPZVU2emY4OTlXTVdzN2UxYnpLVVRNdzhWdlprVXVwMktVMkZnSFBGa2x5TUxKbVlLeU9WeTdNc0J6YlA5TGs3MjllSWktS3RlckFoRnNKUEY3U0NYdXdXamMwajVyTEpDZ2xBYml3NWV4M0JuZ2VkOA?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-10-08 12:56
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE1QYWVhWHgzYWNrWXhJcU5hZXhqb3NRb0NsLURrdUFwZWxHOWtueTRjQWhvYWJJaEFrdlhTMEpjcmc0MnFKcDlOWnZ2RnhFTFhoWHBZMHBFRFZhUlRDSVVvMW5aeGhUZ3NPV0FDV0h5eGhLZw?oc=5>
 
-### 今年底或再加息 特朗普炮轰美联储盼国家陷困境
+### 特朗普据报促中日领导人会面 学者：意在安抚盟友 对话恐难成
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 联合早报
-- 时间: 2026-10-08 06:06
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9aM2JMYlh6NW1WS04wSHB2UVN3UGFheW9yb2ZYSFItMkNkUzY0SFhMVEY0QlRNVjNkdVFmeTZDaDZvVEtTUkxYdVNwTUNKWDJNVndxanU0bDQyX0JOMDhfNWdydnk1czdsT3c?oc=5>
+- 时间: 2026-10-08 13:39
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1kS2Y0V2VPMUlveTUxeGl0THFueFhlR0l1bUdjSlVGLUdwSXZaM2V6WDBFYlk4NTdNUmowN0FZSzZfTVJLY3gzRDJWa1BYUTdhaWZPc2hkSlBvdll2bWJETkROR2RWYVFTQXc?oc=5>
 
-### 中期选举临近，特朗普重申发放5000美元支票的承诺
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-10-05 14:19
-- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdW9vQTEwN2dwUkZNNkM4RWZxX2NxeVU1LVdlOVdhSnlHQm9iVExNVmFzcEI2RW5BX05qaDhwU2pOMFNFNkxGZE9qVGhtc3dsMFJzV3pLSzlUcDJFNklYQUxnWmhOUkQ1SFQ1ZUw2Y1dvaDVFY3FEa1FUcGV4TGc2UzNSWllxTEZSMDZFbzBrcE94RGlwNmRFSzhLZUpRMGJHTjAwZElPbWV0UGFZLXk2c0FibmtWOW1VSmxndHc5Y2RHTmxpOGo4Z0E5emgwN3JweWZ2Qjl6NjFlRWJGMHc?oc=5>
-
-### 【美国中期选举】特朗普支持率持续低迷 共和党流失西裔选票
+### 对普通美国人重拳出击，特朗普绝望了吗？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-10-06 11:52
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9sYmtCNlgzU21hcGRJOUJfSTdaci1tRlctLXV4TmhWQUN3aWJJdHlFd2lBRk9BYXRjdm1MMzlrTXA1c0VHSGQ2T1FFNjlQU3dPYkhVVGhDZnlZeXYtMVExSVZpa1J4dw?oc=5>
+- 场馆: 风闻
+- 时间: 2026-10-08 02:16
+- 链接: <https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvRlJ2b3BRVElDRVoyVEUzclBZYXVwRWVidmxGOURRX29zZlRXUWt6T3VkbmZqMUVyenRna2l1WnlYRDlWSHJfcDFTdjZwX3EyY2FBekhmRkdQbWs?oc=5>
 
-### 美国中期选举是甚么？这是一份简易指南
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-10-08 01:09
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtMzBTVWlsdFQ3RXJRSk8xcUhwNC1ib0RwUzNYaGhkRXBvQmh5TTJaZGhmeEgxS1Y5MFVCVlFod1RiZFdNNHF0b24tTDk4emNJLXB6VnZRWTVPb3RZRFRua3pWVzhLWUnSAWxBVV95cUxPcXBreWhLWDJpMVRmMm1qbl9RX2JtZTlwb040RTR1bWZIZzJ1M3NFVnJhbXpqRDlwOWNDU3JZZXV5THdxbHpLaTRJUFg0MVNWZ216a09wSWdUOUdWd0otamZWUG9tUW5Pb2NsNWo?oc=5>
-
-### 特朗普竞选西装疑为中国制造
+### 中期选举前动用“钞能力”，特朗普向美国民众发放数十亿直接补贴
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-08 03:05
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1xMFRfQUpycER0eGVaQmNtNmNKSGNaRHVlTUpuQ1hjTXYwR3hrRFZKM0hqVnZFMFZOTW1OaXVRMTBtUUFWM18zRlA0WkE?oc=5>
+- 场馆: 搜狐网
+- 时间: 2026-10-08 12:11
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxPaG1scklFUVhJZW9aWlJvdVlaQk5QQXNTNXZCdFpnTjF0S1NoOV9NTjRwSDRLcTlXS3Y5QUI2RWlrUThwNmxaSkVUVzViUFNSWkJURDVyM1pwcU9vaWc3bFAtbFpiQVpSbTJHUGF4a1FFNVJNT0RwWXVhRElOVGtpVUYtQUx1ZmYwRlpGTA?oc=5>
 
-### 史上首次！特朗普亲颁国家奖章：黄仁勋、苏姿丰、马斯克等领奖
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 驱动之家
-- 时间: 2026-10-08 03:22
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE1nSW5UWGdROVVTanB3NWZTaHgwTU15clpOMXlkR0ZrOXl2bE51Tkt1WmZtWkE4TXhSSWJwQ1I0QnFxUWVLdHFKcDU4RFJvLTR0TmFuZDM1OFo?oc=5>
-
-### 特朗普要表彰科技巨头，给马斯克、黄仁勋、苏姿丰颁奖
+### 特朗普称“我本可以……”美国网民的注意力却在她身上
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-10-08 01:55
-- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxOYVZfbHFONWwwUUJzdlR6aU5JYUdpQUJKUTQzS2JPQmZuUko4Z0owN3RJellwTWp2YVZQVE9VUDdFNFp2Y29OeFRxakRMdGhQbGx5b0ZtZ2ZGc0FLaENnR0pMRnlwZTNhemZOcGdSWXA5WGthRmJQbW9fR0ZlRWJJZy1vaFNQUjRza1NyYzhiNlc5U2EzZ003ckxxVC0wbFdUbW5VTm9GM3lDSGZTRmNsNEYtSmI0QzZnTDBtNWd3VkVmU2Jxb0hXVEgtVENsQ1U?oc=5>
+- 场馆: 观察者网
+- 时间: 2026-10-08 05:27
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE9zaTIxZG9xNGVvQS1sNDNtZjB4T1JaRHlpbFk0bktVWlJmNU5acnoxMlFyVzBnR014RGpRc1RYVWVGRFB1VzFyYlg1QURYWkxfME1UTVBQZ2s5UWlTX2JCZ1JmZG9GMEstVTgtR24ybzJuMlU?oc=5>
 
-### 媒体披露贝森特任职美财长的20个月：脾气火爆，任人唯亲，但深受特朗普信赖
+### 特朗普：我应该获得诺贝尔和平奖，但他们似乎不愿意颁给我
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-10-08 03:14
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHV1o0TWxHVy1MVE1Dak5vanN1aUlKUzBxRVNobDRwWWIxc09ZQlUwTEZVVERQXzR1Y1RqdnZiQnJVZ0tfQnJ4RF9QTGhjUGpXem5r?oc=5>
+- 场馆: 中国网新闻中心
+- 时间: 2026-10-08 07:19
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE4yMWhIY253Ukl3UHBabEdHTldhcDN0R3d5TlRZWHdHNnA4cmpua1V3OFJONV91M3BLZ2ZjUGpyVnlNa0RkSFNRbmFqaTIxdi1QT1hLbXpLWWVRRmk3cFlHQllQRVo5VXNTODFZ?oc=5>
 
-### 记者怕特朗普忘了，提醒他这周五要发诺贝尔和平奖了
+### “我阻止了世界毁灭！”特朗普心心念念诺贝尔和平奖：差不多也该到我了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-10-08 07:30
+- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxOZGR2blBSSm92ZjBTVlBMUFU0UmE5RUFrM2JTTG1qaVRBMkw0eDl3OWE1Sk9fMVpwbzN1Qmp0ejEwOFJmRHlkMHBwZUZ5ZkxscnVCSWo3WHBLQ0RJbWZDaEM5aGpCdGI5WEkyLWNhMy1yQnRMU21fSFpTMXo5ZkxGZHZR?oc=5>
+
+### 俄鼠疫事件：特朗普称不认为与生化武器有关，世卫组织及多国敦促俄方提供更多信息
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-10-07 19:22
+- 链接: <https://news.google.com/rss/articles/CBMinARBVV95cUxNbV9iQUhuQjlVUWh0eWhnNWNGVVJRQy1VMXQ3QUdNRXBRVVo1QTdwc1VGNWJscU9GaFMxRkpoUVN1QzJyNk9oSEtWS1hWaXNOSHBOUjMyWmVac2VLN1h4bzBHTk9KQVNTT0FXSHJiT29UZGY5N2w4UVpNTTZQV3V0RXpYT2k5NEtuNjk4NEd0eFhGV1VRUlR3ejlacmdZZWR4cThDbnBCeWV3Q1JKd0F1TFJQdndmd3FpckZPQS1YN1lSTGVyMmdpOXZ0WGE0cGdLQ3BrVm14TVBqc3QzMTJERVdqTldrTUEyQWhkeE1FM3QyRFZ6WXFJbW9nVDdqN3hhUE11WFB3eElGRGVVQWNXMWF2OUk5bU1Rb1RPb3lKWU5zb1ljQ0tZU2VqRXJDZnRVa3ZrdGlOTG9DbXdXVkRiV3pTWlpKbjV3enJBdnl5M21xc2NCV0o4Y2VQWENQbXg2R1FsdTY5WlpkcUM1MWdsUVlraVl5RnRfMzRibUxOZm9wSklIMlNBcmttSG1NUkFYblB5WHRvY2RjbVZ5VzgySmRHYXNpTXZ3RHlPOVJKbDRLNW5CcVlPODQ0ZHgxYnROQWFybmRydWlaRkFxOFQtalBPdmltdjRUN1I4OEJyQnBEajYzeU85aWliVUVRUDJ3dnNYMDVTTTcyYmNDNU04bjVuNlBFYk1LTkxWTV9YVm1RanA2cGl1UXhTaWI?oc=5>
+
+### 特朗普谈俄罗斯鼠疫病例：“这是个大麻烦” 美方密切关注事态发展
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 中华网
-- 时间: 2026-10-08 00:26
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE93cmVZZG1rMEluLU1WQURxbE4tOGxNNEZlSU1CeXhvY3U4Y3E0d1FDUnZTeWpWZ2FyY1ZHOGNWdEFyeGZYSTlCQzd4aWxJSlkxVnVyNElJV2p1UC1hZWhCaWxfYlpvbUtwSmpBUGFqYW8?oc=5>
+- 时间: 2026-10-08 03:40
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE4tUjZWSGQtNWE2VFRNeEY5MDlxb2x4a0JMbHFQT1p2cXhTclI1WUhQQ2ZZMHlVdHhRRm5ScjFWdG5hSFpLbUVUR3NyZFZZczFJX1pkWU85cloxbkM4UEFZRi05RGFJY1kycmRPY015YU8?oc=5>
 
-### 特朗普总统称为美国儿童设立投资账户的标志性计划取得进展，已开设7000万个账户
+### 特朗普：将就西伯利亚鼠疫疑云与普京通话
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-10-07 06:22
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zSEN5MThqZW91WUIzcG00cTN4S3N1MnpYNzRyX3FYUW1zQlVPMTJkeGc2QkFoOGxrdDVTRDBxUnpHdURaOWtLUkpvbkJHSmpxZWQ3RVhhanZPbE9KaDVBdHFnQTNVdw?oc=5>
+
+### 香港媒体称：特朗普与习近平会谈时敦促中国撤回对日本出口限制
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-10-08 09:23
+- 链接: <https://news.google.com/rss/articles/CBMisANBVV95cUxPYnZZLV9jdHYydWFOQ0hsckxXS1ZES1pkY05fUjE3RGJRNE1mYkJfaTN0Rm12WG93aDBjcHlpS0FHQkZqdDlwOWdVc3lnYjRZZ3FDc052TTBhTkRkalJpUkZRV3VmQU5RbzNMRjllQ3hjbTNUSHVGYkxSVHdkM29nUHFoZHB1U0FhOV8wMEVlUE9JMFgzeGhHblZ0bDBPYktoeGtzUDBTdVJtX0JRSGNQbXJjV3N1X3g2Wmc3bU9oVThCTDdLZjZMcVZBRFRvQkpiUWxpS0VrdHBEX2pTRjExOC1KWTF6aGpuTlJZX2dnYkM4ZGNrMk9SeEp4R1VlRWZXdXQ4T2ZqYmFQa2IwTHpuNEJoYk1tLXI0cFZrSm80eHVtMjJmbnZZUTNJRUdqYklteUg5bXBfWmI5RVllMm1nQWtadmMwUnJzQW5HMFg1T0EyZDd6WGJYd2lFdnhWZ25YSUJPZzk4eHVhV0YwRVVIakRPTUZRUVh3UmVTTW45TEpXeWpEUE0yOXhmS0Zfd0dsamJtU2ZsZ1FoMy12cGs0WUJVWlRZa0IxWTFHbVRTcDg?oc=5>
+
+### 特朗普移动遭黑客攻击：3615名客户信息被外泄
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 驱动之家
+- 时间: 2026-10-08 11:01
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HSVQzaW5HUHlvWnUta3BBTUdidG9QTDZpb1FnY1FCaG9Pd0ppOUpRclVXWGVINl9rdTFWbGg0MnFHZjFkWmlna1Bxd1dwdE1sOTJJRWR1SnU?oc=5>
+
+### 在中期选举前夕，据称特朗普考虑对伊朗发动打击，油价上涨
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-10-08 12:09
+- 链接: <https://news.google.com/rss/articles/CBMirgFBVV95cUxOV3pzRTk5emx4QnJTVmJoY05FbTlKN05zSXE3WmEzOFlmbU4tNGFtb1VyY1pkWjVxZGRkRldRZ0RFT0ZJd2lEVzk1VFByb1JSdk5vNFlKOTVoT0NObExFd2R3R0N3ay1Gbll2MmgtckQ0OTU5T0JETDhoTDVJWmpnZ2U3ZExLS0lqU1hvZ2s5VXFPX2Ita3F5cnFlcldYTjJfSHI2MEViQXJYOWhHcEE?oc=5>
+
+### 特习会后，台湾驻美代表未见美国对台政策发生变化
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: 美国之音
-- 时间: 2026-10-08 01:06
-- 链接: <https://news.google.com/rss/articles/CBMi4wFBVV95cUxObUt6clBKQXRXZXZ2VjVNNDc0NW9nbklYeWpETmhhNndUamZJV2tmMTdpeXBuOW56VHoxY05yZnNxTEV6VEZ5QXFRbm5KU1U3UlZWTHpHNlZPekVrbkc0UmRDMVMzVndfSVhXQjR1NGw5QnlZTkNxRHlYZlJLTXBudHlVc3NKdjNhNE5ZU1V0X3F1bWRmYV9kck9CanBjNUItM2R0Q01Velk2R3d4ZFNzRncxampkU0ppSnZRalplMmtEaEluUEgwNVNpTXhZQ0lSSTBneXhmeXU1NjYtS0Y0NTRUVdIB5gFBVV95cUxQclYtNjJOaDRuaTlaTFhiSklIcUFPS1VoU2JleVVleXVVNUVmOFBTN2lmcTNNRlJVdk5KajdiN1dJZ3NHUTdkM0RCcnVKcWtPanZxNEdSaUFhRlRycGxzdTNTazM3ZkNQYXJlOUtaamZzYTdhWUZUQkJmS013MC1ackdlZXdGS2JKWG9PUVprRl9laVoxeS1jYWpQV1BURmw2T3B5R0hVNWtaclBjLWFnU2ZuWXdHNkxtT014aWlJX1MydDZNNHd6dk1OT0NUcXpFaUdPRXBnRXJUSkl5N202VlptSnpCdw?oc=5>
+- 时间: 2026-10-07 19:48
+- 链接: <https://news.google.com/rss/articles/CBMisAFBVV95cUxPV1A0WkUzZ3FxM1hIbWp4U0JBUDJib3ZveGNLaEIzNmUyS3RYRHZPa0RvUEwtV0h2V0dFR1oxcmdJRVBHOW5XTVNsUGktbWtDall6Y1lrSEhrQy1RNWFfTHlBVDBRRi1mWklERzdqaFB2VFcyQWhpR0R4d2lhZFNhNTRRRTZoRlg4YU43aDV5R1UwelhWRnlncDBpWmsybjdDcjlmeWdMYVhrbTAwR0FOb9IBswFBVV95cUxNZHBRVE9NQnhCbDlGYjc5VHRPYmt6WWVxRGxLZkV5dG9pNGFwSkpVSUJVQ3FTNTFqd2Y2bE03bW9HZ0dfQUpTNzlEbTB0X3kwS0paRFZ1d25iOVQ3aVdBOVRVdHBaSkZDaXRQWVZva2thdkRJS1pmcnVtempJWmUwM1BiQXZZTHNzTzhJaGY5d2FxM3hocW9wWXZ5TWtiS21FVURpeS16YXJKZDJQdEs0bUhHYw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-08 13:49  (21 条)
+
+- **周杰伦** | 周杰伦青岛演唱会现场求婚有哪些感人细节？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mkk8.html>
+- **周杰伦** | 周杰伦青岛演唱会唱了哪些经典曲目？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mkk6.html>
+- **周杰伦** | 周杰伦在青岛演唱会有哪些互动名场面？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mkk4.html>
+- **周杰伦** | 周杰伦青岛演唱会破纪录，万人合唱感动全场 <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mkk2.html>
+- **周杰伦** | 周杰伦演唱会 <https://k.sina.com.cn/article_7879923704_m1d5ae17f803301zi12.html>
+- **周杰伦** | 周杰伦获上海大师赛超级挚友，客串主持称比演唱会紧张 <https://k.sina.com.cn/article_7879923909_m1d5ae18c503301onkg.html>
+- **特朗普** | 报告称，特朗普8月份抛售了价值100万至500万美元的AMD股票。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTFAzak56QUZNcjBKNVZOdjA5N2dXaFY0TG5QQjBvYVdrelpYUXZabWtMQU05WWtUbVZGc011Vmpfa2daOWN6akRTSlpjQQ?oc=5>
+- **特朗普** | 胡塞答应放美国一马？特朗普一番没出息的话，让沙特悬着的心死了 <https://news.google.com/rss/articles/CBMickFVX3lxTE1QYWVhWHgzYWNrWXhJcU5hZXhqb3NRb0NsLURrdUFwZWxHOWtueTRjQWhvYWJJaEFrdlhTMEpjcmc0MnFKcDlOWnZ2RnhFTFhoWHBZMHBFRFZhUlRDSVVvMW5aeGhUZ3NPV0FDV0h5eGhLZw?oc=5>
+- **特朗普** | 特朗普据报促中日领导人会面 学者：意在安抚盟友 对话恐难成 <https://news.google.com/rss/articles/CBMiakFVX3lxTE1kS2Y0V2VPMUlveTUxeGl0THFueFhlR0l1bUdjSlVGLUdwSXZaM2V6WDBFYlk4NTdNUmowN0FZSzZfTVJLY3gzRDJWa1BYUTdhaWZPc2hkSlBvdll2bWJETkROR2RWYVFTQXc?oc=5>
+- **特朗普** | 对普通美国人重拳出击，特朗普绝望了吗？ <https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvRlJ2b3BRVElDRVoyVEUzclBZYXVwRWVidmxGOURRX29zZlRXUWt6T3VkbmZqMUVyenRna2l1WnlYRDlWSHJfcDFTdjZwX3EyY2FBekhmRkdQbWs?oc=5>
+- **特朗普** | 中期选举前动用“钞能力”，特朗普向美国民众发放数十亿直接补贴 <https://news.google.com/rss/articles/CBMijAFBVV95cUxPaG1scklFUVhJZW9aWlJvdVlaQk5QQXNTNXZCdFpnTjF0S1NoOV9NTjRwSDRLcTlXS3Y5QUI2RWlrUThwNmxaSkVUVzViUFNSWkJURDVyM1pwcU9vaWc3bFAtbFpiQVpSbTJHUGF4a1FFNVJNT0RwWXVhRElOVGtpVUYtQUx1ZmYwRlpGTA?oc=5>
+- **特朗普** | 特朗普称“我本可以……”美国网民的注意力却在她身上 <https://news.google.com/rss/articles/CBMic0FVX3lxTE9zaTIxZG9xNGVvQS1sNDNtZjB4T1JaRHlpbFk0bktVWlJmNU5acnoxMlFyVzBnR014RGpRc1RYVWVGRFB1VzFyYlg1QURYWkxfME1UTVBQZ2s5UWlTX2JCZ1JmZG9GMEstVTgtR24ybzJuMlU?oc=5>
+- **特朗普** | 特朗普：我应该获得诺贝尔和平奖，但他们似乎不愿意颁给我 <https://news.google.com/rss/articles/CBMia0FVX3lxTE4yMWhIY253Ukl3UHBabEdHTldhcDN0R3d5TlRZWHdHNnA4cmpua1V3OFJONV91M3BLZ2ZjUGpyVnlNa0RkSFNRbmFqaTIxdi1QT1hLbXpLWWVRRmk3cFlHQllQRVo5VXNTODFZ?oc=5>
+- **特朗普** | “我阻止了世界毁灭！”特朗普心心念念诺贝尔和平奖：差不多也该到我了 <https://news.google.com/rss/articles/CBMiggFBVV95cUxOZGR2blBSSm92ZjBTVlBMUFU0UmE5RUFrM2JTTG1qaVRBMkw0eDl3OWE1Sk9fMVpwbzN1Qmp0ejEwOFJmRHlkMHBwZUZ5ZkxscnVCSWo3WHBLQ0RJbWZDaEM5aGpCdGI5WEkyLWNhMy1yQnRMU21fSFpTMXo5ZkxGZHZR?oc=5>
+- **特朗普** | 俄鼠疫事件：特朗普称不认为与生化武器有关，世卫组织及多国敦促俄方提供更多信息 <https://news.google.com/rss/articles/CBMinARBVV95cUxNbV9iQUhuQjlVUWh0eWhnNWNGVVJRQy1VMXQ3QUdNRXBRVVo1QTdwc1VGNWJscU9GaFMxRkpoUVN1QzJyNk9oSEtWS1hWaXNOSHBOUjMyWmVac2VLN1h4bzBHTk9KQVNTT0FXSHJiT29UZGY5N2w4UVpNTTZQV3V0RXpYT2k5NEtuNjk4NEd0eFhGV1VRUlR3ejlacmdZZWR4cThDbnBCeWV3Q1JKd0F1TFJQdndmd3FpckZPQS1YN1lSTGVyMmdpOXZ0WGE0cGdLQ3BrVm14TVBqc3QzMTJERVdqTldrTUEyQWhkeE1FM3QyRFZ6WXFJbW9nVDdqN3hhUE11WFB3eElGRGVVQWNXMWF2OUk5bU1Rb1RPb3lKWU5zb1ljQ0tZU2VqRXJDZnRVa3ZrdGlOTG9DbXdXVkRiV3pTWlpKbjV3enJBdnl5M21xc2NCV0o4Y2VQWENQbXg2R1FsdTY5WlpkcUM1MWdsUVlraVl5RnRfMzRibUxOZm9wSklIMlNBcmttSG1NUkFYblB5WHRvY2RjbVZ5VzgySmRHYXNpTXZ3RHlPOVJKbDRLNW5CcVlPODQ0ZHgxYnROQWFybmRydWlaRkFxOFQtalBPdmltdjRUN1I4OEJyQnBEajYzeU85aWliVUVRUDJ3dnNYMDVTTTcyYmNDNU04bjVuNlBFYk1LTkxWTV9YVm1RanA2cGl1UXhTaWI?oc=5>
+- **特朗普** | 特朗普谈俄罗斯鼠疫病例：“这是个大麻烦” 美方密切关注事态发展 <https://news.google.com/rss/articles/CBMicEFVX3lxTE4tUjZWSGQtNWE2VFRNeEY5MDlxb2x4a0JMbHFQT1p2cXhTclI1WUhQQ2ZZMHlVdHhRRm5ScjFWdG5hSFpLbUVUR3NyZFZZczFJX1pkWU85cloxbkM4UEFZRi05RGFJY1kycmRPY015YU8?oc=5>
+- **特朗普** | 特朗普：将就西伯利亚鼠疫疑云与普京通话 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zSEN5MThqZW91WUIzcG00cTN4S3N1MnpYNzRyX3FYUW1zQlVPMTJkeGc2QkFoOGxrdDVTRDBxUnpHdURaOWtLUkpvbkJHSmpxZWQ3RVhhanZPbE9KaDVBdHFnQTNVdw?oc=5>
+- **Trump** | 香港媒体称：特朗普与习近平会谈时敦促中国撤回对日本出口限制 <https://news.google.com/rss/articles/CBMisANBVV95cUxPYnZZLV9jdHYydWFOQ0hsckxXS1ZES1pkY05fUjE3RGJRNE1mYkJfaTN0Rm12WG93aDBjcHlpS0FHQkZqdDlwOWdVc3lnYjRZZ3FDc052TTBhTkRkalJpUkZRV3VmQU5RbzNMRjllQ3hjbTNUSHVGYkxSVHdkM29nUHFoZHB1U0FhOV8wMEVlUE9JMFgzeGhHblZ0bDBPYktoeGtzUDBTdVJtX0JRSGNQbXJjV3N1X3g2Wmc3bU9oVThCTDdLZjZMcVZBRFRvQkpiUWxpS0VrdHBEX2pTRjExOC1KWTF6aGpuTlJZX2dnYkM4ZGNrMk9SeEp4R1VlRWZXdXQ4T2ZqYmFQa2IwTHpuNEJoYk1tLXI0cFZrSm80eHVtMjJmbnZZUTNJRUdqYklteUg5bXBfWmI5RVllMm1nQWtadmMwUnJzQW5HMFg1T0EyZDd6WGJYd2lFdnhWZ25YSUJPZzk4eHVhV0YwRVVIakRPTUZRUVh3UmVTTW45TEpXeWpEUE0yOXhmS0Zfd0dsamJtU2ZsZ1FoMy12cGs0WUJVWlRZa0IxWTFHbVRTcDg?oc=5>
+- **Trump** | 特朗普移动遭黑客攻击：3615名客户信息被外泄 <https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HSVQzaW5HUHlvWnUta3BBTUdidG9QTDZpb1FnY1FCaG9Pd0ppOUpRclVXWGVINl9rdTFWbGg0MnFHZjFkWmlna1Bxd1dwdE1sOTJJRWR1SnU?oc=5>
+- **Trump** | 在中期选举前夕，据称特朗普考虑对伊朗发动打击，油价上涨 <https://news.google.com/rss/articles/CBMirgFBVV95cUxOV3pzRTk5emx4QnJTVmJoY05FbTlKN05zSXE3WmEzOFlmbU4tNGFtb1VyY1pkWjVxZGRkRldRZ0RFT0ZJd2lEVzk1VFByb1JSdk5vNFlKOTVoT0NObExFd2R3R0N3ay1Gbll2MmgtckQ0OTU5T0JETDhoTDVJWmpnZ2U3ZExLS0lqU1hvZ2s5VXFPX2Ita3F5cnFlcldYTjJfSHI2MEViQXJYOWhHcEE?oc=5>
+- **Trump** | 特习会后，台湾驻美代表未见美国对台政策发生变化 <https://news.google.com/rss/articles/CBMisAFBVV95cUxPV1A0WkUzZ3FxM1hIbWp4U0JBUDJib3ZveGNLaEIzNmUyS3RYRHZPa0RvUEwtV0h2V0dFR1oxcmdJRVBHOW5XTVNsUGktbWtDall6Y1lrSEhrQy1RNWFfTHlBVDBRRi1mWklERzdqaFB2VFcyQWhpR0R4d2lhZFNhNTRRRTZoRlg4YU43aDV5R1UwelhWRnlncDBpWmsybjdDcjlmeWdMYVhrbTAwR0FOb9IBswFBVV95cUxNZHBRVE9NQnhCbDlGYjc5VHRPYmt6WWVxRGxLZkV5dG9pNGFwSkpVSUJVQ3FTNTFqd2Y2bE03bW9HZ0dfQUpTNzlEbTB0X3kwS0paRFZ1d25iOVQ3aVdBOVRVdHBaSkZDaXRQWVZva2thdkRJS1pmcnVtempJWmUwM1BiQXZZTHNzTzhJaGY5d2FxM3hocW9wWXZ5TWtiS21FVURpeS16YXJKZDJQdEs0bUhHYw?oc=5>
 
 ### 2026-10-08 06:25  (29 条)
 
