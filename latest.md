@@ -1,118 +1,132 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-09 06:26**
-- 本轮扫到 13564 条, 新增 **14** 条
+- 最近更新: **2026-10-09 13:35**
+- 本轮扫到 13577 条, 新增 **13** 条
 
 ---
 
-## 本轮新发现 (14 条)
+## 本轮新发现 (13 条)
 
-### 周杰伦大师赛对战休伊特父子，把网球场变演唱会
+### 社会心理学视角深度解析肖战MV舞者 肖战藏在MV里的小巧思你发现了吗？肖战MV跳舞的老师是谁？肖战异想天开的设计巧思你看
 
-- 艺人/关键词: **周杰伦**
+- 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879995911_1d5af320706802qrh2.html>
+- 链接: <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002srhu.html>
 
-### 周杰伦大师赛对战小休伊特，把球场变演唱会
+### Tim邀请五月天来影视飓风开员工专属演唱会，网友：真是太羡慕影视飓风员工了
 
-- 艺人/关键词: **周杰伦**
+- 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879995911_1d5af320706802qr3c.html>
+- 链接: <https://k.sina.com.cn/article_7879923946_m1d5ae18ea03303w7ry.html>
 
-### 这么轻松接触到偶像，那么那些花几万演唱会的人是不是得大哭
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923551_m1d5ae175f03301s9ua.html>
-
-### 周杰伦曾被造谣捐五万，实捐整场演唱会收入刷新台湾省记录
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924060_m1d5ae195c033027qdu.html>
-
-### 二开！周杰伦三亚演唱会
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://finance.sina.com.cn/jjxw/2026-10-09/doc-iniuqywq1137085.shtml>
-
-### 投资特朗普炼油项目的印度亿万富豪，同时加大采购委内瑞拉原油|唐纳德·特朗普|美国总统|工业|俄罗斯|数据
+### 特朗普总统排除在中期选举前攻击伊朗的可能性
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-10-09 06:13
-- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxQSjV2NVh5NWllTG45Z3BubW15V2FBb09DVksxRVdmVVNuSE5fTXlRZDJaZkVTVTJ4bGw2c09NUEVFYUY4WWtrTDRDY0JIaEVVU3gydE8xY1RQYnVwMjRLZVhCS0VXQnRHY0pqUW91X2h2UER2TVRQXzBZd3JWUVNmWU9xeGQxUno5ZlE?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-10-08 19:42
+- 链接: <https://news.google.com/rss/articles/CBMitwFBVV95cUxPUWY0UlRiUjk1YlY4VTFPUGktZk51ckFldDl4a2NvRFIzU3JKLVhWV3E0VVo4cl82T01ja3hrSzQxZ1RlMHRRQnlFNzBET3A2eWJkSlpMZTM4MVZxNjY0czUydUtxdUtPNFhWUXd2dy1sNUU4Q1JmczZYNXZUaWxtZmlzTGY5WU8xRU9GWVliVXVJUWtVQUZ0OVlLNkNmUVl0dU9xZFlBNFNjN1doREZVSUVFT0FQenPSAboBQVVfeXFMTmUwWlhkaGk0bTFBZzF0Z3FjWkRfVUdCY2l5TnRyQm1BUnM0T2xMUFFaTmZrai1xZnhFalZPay1qdjIwVEIyWThpSm9pR1N3THlHTTd1SENlQjhPT3JNNERvaHJOdVpsdlM4RTFQcUhIaVFqdUU4T3Z5VUtONFRkX1lYN2wxZ3RSUk16ODZ1ZWRaRlMzTm1yQmNoN29uYWhjWjc0azZ0ZjFQMll1Q2JpYlROTU42ei13WF9R?oc=5>
 
-### 特朗普表彰六位美国科技巨头，马斯克、黄仁勋等获奖
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-10-08 23:25
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxPSkpHLTFMMmFRT2xzQmhsRkJsSjVoSnFtM3IwSzM1SFdYMXdPMTc5NV9ycXNmLXRDSUhDeHRCOURjSzlIbGM4WVZmUHVzR1pfT1NWN3dnUnA1VDVLYm0tdTVvRUtINlF0V2xXd09lRW5MeTdYSlFYay1SMXgtXy1aWWJzNHRBenc?oc=5>
-
-### 特朗普颁发国家科学奖章，表彰马斯克等六位科技领袖
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-10-09 05:28
-- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxQdVpxUnR6Y1BycDJ2YXBzV3V1Nmd5UEJtM0FjU0hsYm1pLV9Oc0MyX08tQ2U2M0tzTGttbjUxbTh5NjZ6Zkt0TjJ4UjMtT1lqempydGtwVmR6cGpqTTd0Z3F4WkwyUDZHaHpPM2NPdjhrcHA0R0tLWUJOdkh1dGtTSQ?oc=5>
-
-### 特朗普自认应获诺贝尔和平奖 多次表达渴望
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-10-09 03:28
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBNUVR5Nm5mZGpTVTVTOWJqZ1M1RHZvdExkb2p0Z1pRaFVyMU5ZcjJrVS1TN3QtZnRNSVBfOV8xeXJ6TVZCVS1Jay10UjVjLUo0d2l5c00yeDZOXzlyZmZOM2ZMQ1gydjlRWUFKc09TcEQ?oc=5>
-
-### 特朗普：自己理应获诺贝尔和平奖 平息八场大战
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-10-09 04:09
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE11LVl0MWZJVjNHRGNZdDUtRndHamJtU0s4dEk0dGIwN29QN2xMTHJMRzJKU19QS0xjSUlWSjZXWm5sU04wNU1RTkhtanRfTjBKVWloRHRrVVZ1SXFRY0trQ2JkS05vNV9kUk5XcXBqaVQ?oc=5>
-
-### 特朗普又惦记起诺贝尔和平奖：我阻止了世界毁灭 不给我是评选委员会极大的失
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 驱动之家
-- 时间: 2026-10-09 01:07
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE92c0tQbG9Ea0hiNTFmOVRZamtkeXhwTmdxeFZpMUk2RGUyRnJVT3lPWkZ1S2pER0NpOEs1T0QtVGFqbHBrQ1pOQWI3TzdOd3FiSDBmOEVGVV8?oc=5>
-
-### 特朗普裸体镀金雕像“橙色瘟疫”亮相欧洲议会，魏德尔怒斥
+### 高市早苗公开反对特朗普
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-10-08 08:55
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBTcEEwM0VBVU1aSnN6X3ZiZ0QzdmdENDdqLWZQUEJuSFJSNTZWQVZjNXEtT19GZm1xRkQ1VEwyTExuMXBiV29BNzllM0E?oc=5>
+- 时间: 2026-10-09 07:15
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE04czFYbFkwS3lhUVd6SXgwWERpay1DYUFacTdzR1l2RHl0ZktwVFZrYy00SUlEMDJrNGJjdlhXV29INFZMRE5RSFpxMVY?oc=5>
 
-### 特朗普“画不动”原油K线了
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-10-09 00:24
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YYmlaSTJHTzdSSFN6dXFXZmcwMkVDT2p1TG80R28tV1VzT3VEdUJ1aEhUS3lLMlkwWndlRU14MWVscE93bjFxNnl0MDdTRjVucDdJ?oc=5>
-
-### 特朗普喊话越来越不管用了：油市开始对他的伊朗威胁免疫-市场参考
+### 罕见！高市早苗公开反对特朗普|唐纳德·特朗普|日本首相|美国总统|人工智能|白宫
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 金十数据
-- 时间: 2026-10-08 14:12
-- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE1fUUJwUUY5SHhySERRdTBBenJGRXVtb2M1VEJTRExjaFBhb2RmUkNBZTNBdW5kT3JhOHZHb1FudGg4NG1BNFNrMlAwQWdXQ0U?oc=5>
+- 场馆: 新浪军事
+- 时间: 2026-10-09 10:56
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE9aMnlwWnJ6UWw3bWFPSi14Mk5YX1F1TENIRExUaFhvZ0lEZWhpZUJ4ZHpLaGxfcnlvcFQ2TFRGUDhqeHFwYUkzTVhvenl5ZEhBczVWZkZNSWxydVhSZDBfX3RnQzJLakZJdnZ1S0ozb1VoZXM?oc=5>
+
+### 特朗普力推AI改称“超级智能”，高市早苗明确反对
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 京报网
+- 时间: 2026-10-09 11:24
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE9laWc0VFJ5dnQ4QjE4V3A1d3QzYV9zOVVjd2g1S1ppREp0V080VmhNQW5fWlZ6UFdwVERwX3BUOHpadE5tV1FXQzlXX3E1UTZPbXVEbW1KRkY0SWY3VVE?oc=5>
+
+### 美联储今年还要加息？特朗普又猛烈“炮轰”美联储：美国需要降息！
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻
+- 时间: 2026-10-08 10:32
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5hSTZUb0plVW52Ung5Yk5OcFBHeFhTTURVeldzYjNFZVVfOXpFeF9zSlM4MkxGWENCZjB6NzMzdVQ5cmgwdk5ULUt2UzhieEZnWUREUVlyMEdGcjBIelRyRWY4YU53YkdhTnRxbU14eXE?oc=5>
+
+### 特朗普：马斯克造出美国75年来第一家成功车企 是新世纪爱迪生
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 驱动之家
+- 时间: 2026-10-09 11:14
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zOHlFQkJRMmFQOWZJOVhWYVc4cUh4c0RaZEdrSHVsMzFnQzlnRURmRVNuSUhLTzJYRVBsTTNtU2EzVTNUMGdMMWNweXpUWXIyUWVXNEZKN2U?oc=5>
+
+### 白宫官员：特朗普总统在伊朗问题上“握着所有的牌”
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-10-08 19:01
+- 链接: <https://news.google.com/rss/articles/CBMitgFBVV95cUxPQXBFTm1ldndPQUJWel9DcmMtaE5wcVpqaVZBZF96VFN4ZU9vUHZKamlZYUFQWmZwQjhIcGo0Zm1hNENyLXZtSmlaMkx4WEhCSlhHaXBNWTgwdUZOWFM0M1J6VU1CMVlGU2s5eHY2OGVNQzNXZ0tiSHJNYTBSemU2TmUyUEQtX3VpTk9fRlI5c0VyZlZLOXlpNWQzbm5yUmFhMjFwbUdoT01ZQkRzREhmWWUxTWtWQdIBuAFBVV95cUxNS1YtWkYwbUZ4czY4Vm1JMVpTWi1tZUVKNVJqVGRfOEJMTDk1cmF4YTlidDdGVDlTTU5ycThLdDdiZnk2NXZ1cEdxZnFpRnJlQXUyUVllM29OWkJUakVyZVJPbVJrb3ZPbV85dFN6c2R3UjZLazVNUzRMY1E3UXZhVV9FVERJMzlpXzdld01JNjdyVFZlVXUwQWVuendaV0xIZ1g5bWpmQkZHU19fcVZfeWtmX1JBU0Ns?oc=5>
+
+### Bitcoin Recovers as Trump Hails Constructive Talks With Iran -- Market Talk
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-10-09 06:51
+- 链接: <https://news.google.com/rss/articles/CBMitwFBVV95cUxPNTZQVGpRUUdVV2EtTE0yd3NDbHhUZW01cU90SnZPUzJoS2lLLVVQRzRaeGV4Y0d3NUY0N3UwbS1Lb3pWTG9nb18xbVNSaWp0dHkwUzdINjFLVWZEbzAyT21pUkxod1pGSVBIaVBCUW10UFlTUWhtS3N4VmZoRVZTNzJHQXowWkJfdTBYUHgyVG5pVHBYMmpTRHdkdTc1eW9MUW5aVktCa0NBQVg2eEZCU2Y4b29LVm8?oc=5>
+
+### Bitcoin, Strategy, and Crypto Stocks Rebound as Trump Signal Cools Iran Attack Fears -- Barrons.com
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-10-09 12:31
+- 链接: <https://news.google.com/rss/articles/CBMiswFBVV95cUxQQW9OVmMtMEJZZGlGcmUxMVRwbVNobDlraFZhZUozMUIxVU5rMjVlTEdVTW1IaWZyUTk5VjgwbEJ4eHVfU0JuaHpMT0FXY0VZQTlJVkpycmVmUklqQ2NyZXZROEdpTUR3ek5McmJrTjdZR3dncm04cjRXRkw3R0ZkSlhjRFNIaFRwd3huSzBKQWJ3SGFpTEtCTy1NbTlnaUZhTnVrSHlEX0xTbHI4SnlVa19iaw?oc=5>
+
+### 特朗普表示，美国不会在中期选举前攻击伊朗
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-10-09 11:59
+- 链接: <https://news.google.com/rss/articles/CBMingFBVV95cUxQWVc0OWJnSk9pYk9OUkh2a3BJWDFSUFpDNFhvZVp4VGJwQzBVSXNTMU1hcE1LUEY4LUNsNnNRQU5nWWIxUlVFNUQzVzVUWkN5SXRqcXFyc0JLdXBSVk9EX242dXdfRDRwM0ZlUWpuS1NHNDZsSzdyckhhOC1nek41RzRiaG0zYUo1RlVmdVdIU1B5bVdicVNBYlVsSGNPQQ?oc=5>
+
+### 内幕提示｜特朗普8月交易：买入Meta、卖出AMD——二者均大幅上涨
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-10-09 10:02
+- 链接: <https://news.google.com/rss/articles/CBMitgFBVV95cUxOcEhqZUIyQU43TF9vUk00RmhTT2VBUGgtekt2ZHVEUjhXWC1sTmQ4TTRrRHlVT2M4Rk9TaVo0UzZBUC12c3VOa2NGNDVBa1Fja3hnbG1iamw3aUlaS09UaE93ZE1VWGp2UXFVbThlLXl0dlA3RU9zRXZPdUFJT29RYVdSNVZNQWpGaWI4S3VtazRuUklWMEpZZkhxWlpoWHNKdEk2cVRTcVFwV0VGMEZMblF6RjFxZw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-09 13:35  (13 条)
+
+- **王一博** | 社会心理学视角深度解析肖战MV舞者 肖战藏在MV里的小巧思你发现了吗？肖战MV跳舞的老师是谁？肖战异想天开的设计巧思你看 <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002srhu.html>
+- **王一博** | Tim邀请五月天来影视飓风开员工专属演唱会，网友：真是太羡慕影视飓风员工了 <https://k.sina.com.cn/article_7879923946_m1d5ae18ea03303w7ry.html>
+- **特朗普** | 特朗普总统排除在中期选举前攻击伊朗的可能性 <https://news.google.com/rss/articles/CBMitwFBVV95cUxPUWY0UlRiUjk1YlY4VTFPUGktZk51ckFldDl4a2NvRFIzU3JKLVhWV3E0VVo4cl82T01ja3hrSzQxZ1RlMHRRQnlFNzBET3A2eWJkSlpMZTM4MVZxNjY0czUydUtxdUtPNFhWUXd2dy1sNUU4Q1JmczZYNXZUaWxtZmlzTGY5WU8xRU9GWVliVXVJUWtVQUZ0OVlLNkNmUVl0dU9xZFlBNFNjN1doREZVSUVFT0FQenPSAboBQVVfeXFMTmUwWlhkaGk0bTFBZzF0Z3FjWkRfVUdCY2l5TnRyQm1BUnM0T2xMUFFaTmZrai1xZnhFalZPay1qdjIwVEIyWThpSm9pR1N3THlHTTd1SENlQjhPT3JNNERvaHJOdVpsdlM4RTFQcUhIaVFqdUU4T3Z5VUtONFRkX1lYN2wxZ3RSUk16ODZ1ZWRaRlMzTm1yQmNoN29uYWhjWjc0azZ0ZjFQMll1Q2JpYlROTU42ei13WF9R?oc=5>
+- **特朗普** | 高市早苗公开反对特朗普 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE04czFYbFkwS3lhUVd6SXgwWERpay1DYUFacTdzR1l2RHl0ZktwVFZrYy00SUlEMDJrNGJjdlhXV29INFZMRE5RSFpxMVY?oc=5>
+- **特朗普** | 罕见！高市早苗公开反对特朗普|唐纳德·特朗普|日本首相|美国总统|人工智能|白宫 <https://news.google.com/rss/articles/CBMic0FVX3lxTE9aMnlwWnJ6UWw3bWFPSi14Mk5YX1F1TENIRExUaFhvZ0lEZWhpZUJ4ZHpLaGxfcnlvcFQ2TFRGUDhqeHFwYUkzTVhvenl5ZEhBczVWZkZNSWxydVhSZDBfX3RnQzJLakZJdnZ1S0ozb1VoZXM?oc=5>
+- **特朗普** | 特朗普力推AI改称“超级智能”，高市早苗明确反对 <https://news.google.com/rss/articles/CBMiXkFVX3lxTE9laWc0VFJ5dnQ4QjE4V3A1d3QzYV9zOVVjd2g1S1ppREp0V080VmhNQW5fWlZ6UFdwVERwX3BUOHpadE5tV1FXQzlXX3E1UTZPbXVEbW1KRkY0SWY3VVE?oc=5>
+- **特朗普** | 美联储今年还要加息？特朗普又猛烈“炮轰”美联储：美国需要降息！ <https://news.google.com/rss/articles/CBMicEFVX3lxTE5hSTZUb0plVW52Ung5Yk5OcFBHeFhTTURVeldzYjNFZVVfOXpFeF9zSlM4MkxGWENCZjB6NzMzdVQ5cmgwdk5ULUt2UzhieEZnWUREUVlyMEdGcjBIelRyRWY4YU53YkdhTnRxbU14eXE?oc=5>
+- **特朗普** | 特朗普：马斯克造出美国75年来第一家成功车企 是新世纪爱迪生 <https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zOHlFQkJRMmFQOWZJOVhWYVc4cUh4c0RaZEdrSHVsMzFnQzlnRURmRVNuSUhLTzJYRVBsTTNtU2EzVTNUMGdMMWNweXpUWXIyUWVXNEZKN2U?oc=5>
+- **Trump** | 白宫官员：特朗普总统在伊朗问题上“握着所有的牌” <https://news.google.com/rss/articles/CBMitgFBVV95cUxPQXBFTm1ldndPQUJWel9DcmMtaE5wcVpqaVZBZF96VFN4ZU9vUHZKamlZYUFQWmZwQjhIcGo0Zm1hNENyLXZtSmlaMkx4WEhCSlhHaXBNWTgwdUZOWFM0M1J6VU1CMVlGU2s5eHY2OGVNQzNXZ0tiSHJNYTBSemU2TmUyUEQtX3VpTk9fRlI5c0VyZlZLOXlpNWQzbm5yUmFhMjFwbUdoT01ZQkRzREhmWWUxTWtWQdIBuAFBVV95cUxNS1YtWkYwbUZ4czY4Vm1JMVpTWi1tZUVKNVJqVGRfOEJMTDk1cmF4YTlidDdGVDlTTU5ycThLdDdiZnk2NXZ1cEdxZnFpRnJlQXUyUVllM29OWkJUakVyZVJPbVJrb3ZPbV85dFN6c2R3UjZLazVNUzRMY1E3UXZhVV9FVERJMzlpXzdld01JNjdyVFZlVXUwQWVuendaV0xIZ1g5bWpmQkZHU19fcVZfeWtmX1JBU0Ns?oc=5>
+- **Trump** | Bitcoin Recovers as Trump Hails Constructive Talks With Iran -- Market Talk <https://news.google.com/rss/articles/CBMitwFBVV95cUxPNTZQVGpRUUdVV2EtTE0yd3NDbHhUZW01cU90SnZPUzJoS2lLLVVQRzRaeGV4Y0d3NUY0N3UwbS1Lb3pWTG9nb18xbVNSaWp0dHkwUzdINjFLVWZEbzAyT21pUkxod1pGSVBIaVBCUW10UFlTUWhtS3N4VmZoRVZTNzJHQXowWkJfdTBYUHgyVG5pVHBYMmpTRHdkdTc1eW9MUW5aVktCa0NBQVg2eEZCU2Y4b29LVm8?oc=5>
+- **Trump** | Bitcoin, Strategy, and Crypto Stocks Rebound as Trump Signal Cools Iran Attack Fears -- Barrons.com <https://news.google.com/rss/articles/CBMiswFBVV95cUxQQW9OVmMtMEJZZGlGcmUxMVRwbVNobDlraFZhZUozMUIxVU5rMjVlTEdVTW1IaWZyUTk5VjgwbEJ4eHVfU0JuaHpMT0FXY0VZQTlJVkpycmVmUklqQ2NyZXZROEdpTUR3ek5McmJrTjdZR3dncm04cjRXRkw3R0ZkSlhjRFNIaFRwd3huSzBKQWJ3SGFpTEtCTy1NbTlnaUZhTnVrSHlEX0xTbHI4SnlVa19iaw?oc=5>
+- **Trump** | 特朗普表示，美国不会在中期选举前攻击伊朗 <https://news.google.com/rss/articles/CBMingFBVV95cUxQWVc0OWJnSk9pYk9OUkh2a3BJWDFSUFpDNFhvZVp4VGJwQzBVSXNTMU1hcE1LUEY4LUNsNnNRQU5nWWIxUlVFNUQzVzVUWkN5SXRqcXFyc0JLdXBSVk9EX242dXdfRDRwM0ZlUWpuS1NHNDZsSzdyckhhOC1nek41RzRiaG0zYUo1RlVmdVdIU1B5bVdicVNBYlVsSGNPQQ?oc=5>
+- **Trump** | 内幕提示｜特朗普8月交易：买入Meta、卖出AMD——二者均大幅上涨 <https://news.google.com/rss/articles/CBMitgFBVV95cUxOcEhqZUIyQU43TF9vUk00RmhTT2VBUGgtekt2ZHVEUjhXWC1sTmQ4TTRrRHlVT2M4Rk9TaVo0UzZBUC12c3VOa2NGNDVBa1Fja3hnbG1iamw3aUlaS09UaE93ZE1VWGp2UXFVbThlLXl0dlA3RU9zRXZPdUFJT29RYVdSNVZNQWpGaWI4S3VtazRuUklWMEpZZkhxWlpoWHNKdEk2cVRTcVFwV0VGMEZMblF6RjFxZw?oc=5>
 
 ### 2026-10-09 06:26  (14 条)
 
