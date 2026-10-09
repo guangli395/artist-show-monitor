@@ -1,116 +1,109 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-09 13:35**
-- 本轮扫到 13577 条, 新增 **13** 条
+- 最近更新: **2026-10-09 19:11**
+- 本轮扫到 13587 条, 新增 **10** 条
 
 ---
 
-## 本轮新发现 (13 条)
+## 本轮新发现 (10 条)
 
-### 社会心理学视角深度解析肖战MV舞者 肖战藏在MV里的小巧思你发现了吗？肖战MV跳舞的老师是谁？肖战异想天开的设计巧思你看
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002srhu.html>
-
-### Tim邀请五月天来影视飓风开员工专属演唱会，网友：真是太羡慕影视飓风员工了
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923946_m1d5ae18ea03303w7ry.html>
-
-### 特朗普总统排除在中期选举前攻击伊朗的可能性
+### 特习峰会上特朗普据报敦促习近平改善日中关系，但习反应冷淡
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 美国之音
-- 时间: 2026-10-08 19:42
-- 链接: <https://news.google.com/rss/articles/CBMitwFBVV95cUxPUWY0UlRiUjk1YlY4VTFPUGktZk51ckFldDl4a2NvRFIzU3JKLVhWV3E0VVo4cl82T01ja3hrSzQxZ1RlMHRRQnlFNzBET3A2eWJkSlpMZTM4MVZxNjY0czUydUtxdUtPNFhWUXd2dy1sNUU4Q1JmczZYNXZUaWxtZmlzTGY5WU8xRU9GWVliVXVJUWtVQUZ0OVlLNkNmUVl0dU9xZFlBNFNjN1doREZVSUVFT0FQenPSAboBQVVfeXFMTmUwWlhkaGk0bTFBZzF0Z3FjWkRfVUdCY2l5TnRyQm1BUnM0T2xMUFFaTmZrai1xZnhFalZPay1qdjIwVEIyWThpSm9pR1N3THlHTTd1SENlQjhPT3JNNERvaHJOdVpsdlM4RTFQcUhIaVFqdUU4T3Z5VUtONFRkX1lYN2wxZ3RSUk16ODZ1ZWRaRlMzTm1yQmNoN29uYWhjWjc0azZ0ZjFQMll1Q2JpYlROTU42ei13WF9R?oc=5>
+- 时间: 2026-10-09 18:34
+- 链接: <https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcXdjUnRDUXRvSGdwbU9LRlVRLUlhTVB1c0FkWVk5TlVYdExtb3lIZDNxQmQxWEpSb3B6RksxQ0ZuVE56dmVsdGlVYmlTeXlwdkpYTm1uZG1hc2JUQnJ1MVlRVEpvSTJDdXlucWhMQTU5YmlMQWFqbmZteHZjLTlfUC1PRE5lLVRNM2VvcGdaVmFCUk5aOTlycGpwOGdjSDZyY0lNZER2NzdZRkxTUU1zYTRJWEhnZ0hYZFBsYlV5WmFjSUnSAcYBQVVfeXFMTUZ0MEtJOG9MM0ItbVNKbzZUT1JhX2E4cnVaMmlUUVFNOTZ4RHhiMGR4aHVOVTd3VXl5ajhvMThTNW1GeVFPSTFnX1FTZ1VRbEhMZnpCWWUycDU2YUhXSGR2aERLU2ZzaC02UmhjTnljS0ZfSmhXXzhEVnBzUU5BNjdQZUYxck9EWF91b1BQTC1YaFBqMGRPMjN4MU4tNElDdGlZQmZEVXkxM2tGM1ZXN3E3anI2UTlTaGhNdGhLYnVSMngwc0Nn?oc=5>
+
+### 日方爆料：高市早苗请求特朗普，劝金正恩同意与她会谈
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-10-07 10:48
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBZTmZib2FiekE4UkpqdkhWdi1GdmVhV3FBbkJYa1dsY29jUnd4Uzh4aFZnRFNwVEdBOGhTWUFTUnEyZWhxZGxTZFJxbUI?oc=5>
+
+### 特朗普为马斯克等科技巨头颁奖
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-10-09 19:05
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE9XRl80dUs1ZS1XdGZaSEJnd1diVG9hUE1uMzBMa20tdDE0bzhKYUNmSGI1S0JkMHIwN3l4SlVmY0RybXpBbW5ETWt6WklRbHNNQW5YbkUxRFkxZy1xQ2RNeUxSdXMwMVNzeGZWZ3pIOU5ITHM?oc=5>
+
+### 特朗普：普京同意向全球市场投放柴油
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街见闻
+- 时间: 2026-10-09 18:50
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MY2dpdFA2QXVudDdQTVdGWWFoRFdyam1EczlwU3MwcHY2Q19pdmZKYmJBRm56QlFDdjJ0dG80LTBuV21KVUxMMENNU3pWdkRtT19j?oc=5>
+
+### 特朗普称中期选举前不打伊朗 “林肯”号返回母港
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-10-09 03:20
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ob3ZmLXI5aW9MYl9WMUZEVDFmdU5pUGpQOXRqSW1LVEI3THVWU210RWotR2J2Zm9SQ0k0MnZOZ3BoTzRKNFBkTGVub2s1R3BoSkFncFE2RjFWVXRpMVNGU1pwenFrZ2laTXd1Z0lHWmNyUFZwdm9nVHdxMEc1SVk?oc=5>
+
+### 特朗普：国土安全部部......_7x24快讯_新浪财经
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 手机新浪网
+- 时间: 2026-10-09 15:53
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE05YmlzdWQyYWVuOFFXX2MydmlNUDZYQVdDanZUbFhuNnU3b0lCVlQxaThsOFMxODU1VldMa19neHRwTGM4aGVpaUZ4MA?oc=5>
+
+### 【美国中期选举】哈里斯选民投票热情高于特朗普选民
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-10-08 10:57
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBjNk1lVWlXLW54SGoxWVk2NmxOUWJ5bWdqNlR5UThVSG5VWWYwSlVDYTgtY040WDZQbDlFRGRFTzRtaUltTHIzMFVUR0VlLXFhQy1qNDBVMmFEOWdfNTZhbTl0U0Fadw?oc=5>
 
 ### 高市早苗公开反对特朗普
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-09 07:15
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE04czFYbFkwS3lhUVd6SXgwWERpay1DYUFacTdzR1l2RHl0ZktwVFZrYy00SUlEMDJrNGJjdlhXV29INFZMRE5RSFpxMVY?oc=5>
+- 场馆: 财联社
+- 时间: 2026-10-09 05:00
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE9PYVAwVjl1NEFqNExBb2ZQOXRySkpEZ25tdGVHT1J3N19SX0tIQ0lHQ21Rc3gwUGNoTFVsd1lwdUJLakpaOTE3NA?oc=5>
 
-### 罕见！高市早苗公开反对特朗普|唐纳德·特朗普|日本首相|美国总统|人工智能|白宫
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪军事
-- 时间: 2026-10-09 10:56
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE9aMnlwWnJ6UWw3bWFPSi14Mk5YX1F1TENIRExUaFhvZ0lEZWhpZUJ4ZHpLaGxfcnlvcFQ2TFRGUDhqeHFwYUkzTVhvenl5ZEhBczVWZkZNSWxydVhSZDBfX3RnQzJLakZJdnZ1S0ozb1VoZXM?oc=5>
-
-### 特朗普力推AI改称“超级智能”，高市早苗明确反对
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 京报网
-- 时间: 2026-10-09 11:24
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE9laWc0VFJ5dnQ4QjE4V3A1d3QzYV9zOVVjd2g1S1ppREp0V080VmhNQW5fWlZ6UFdwVERwX3BUOHpadE5tV1FXQzlXX3E1UTZPbXVEbW1KRkY0SWY3VVE?oc=5>
-
-### 美联储今年还要加息？特朗普又猛烈“炮轰”美联储：美国需要降息！
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻
-- 时间: 2026-10-08 10:32
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5hSTZUb0plVW52Ung5Yk5OcFBHeFhTTURVeldzYjNFZVVfOXpFeF9zSlM4MkxGWENCZjB6NzMzdVQ5cmgwdk5ULUt2UzhieEZnWUREUVlyMEdGcjBIelRyRWY4YU53YkdhTnRxbU14eXE?oc=5>
-
-### 特朗普：马斯克造出美国75年来第一家成功车企 是新世纪爱迪生
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 驱动之家
-- 时间: 2026-10-09 11:14
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zOHlFQkJRMmFQOWZJOVhWYVc4cUh4c0RaZEdrSHVsMzFnQzlnRURmRVNuSUhLTzJYRVBsTTNtU2EzVTNUMGdMMWNweXpUWXIyUWVXNEZKN2U?oc=5>
-
-### 白宫官员：特朗普总统在伊朗问题上“握着所有的牌”
+### 达成协议还是开战？以色列担忧特朗普下一步对伊朗的举措可能带来的后果。
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-10-08 19:01
-- 链接: <https://news.google.com/rss/articles/CBMitgFBVV95cUxPQXBFTm1ldndPQUJWel9DcmMtaE5wcVpqaVZBZF96VFN4ZU9vUHZKamlZYUFQWmZwQjhIcGo0Zm1hNENyLXZtSmlaMkx4WEhCSlhHaXBNWTgwdUZOWFM0M1J6VU1CMVlGU2s5eHY2OGVNQzNXZ0tiSHJNYTBSemU2TmUyUEQtX3VpTk9fRlI5c0VyZlZLOXlpNWQzbm5yUmFhMjFwbUdoT01ZQkRzREhmWWUxTWtWQdIBuAFBVV95cUxNS1YtWkYwbUZ4czY4Vm1JMVpTWi1tZUVKNVJqVGRfOEJMTDk1cmF4YTlidDdGVDlTTU5ycThLdDdiZnk2NXZ1cEdxZnFpRnJlQXUyUVllM29OWkJUakVyZVJPbVJrb3ZPbV85dFN6c2R3UjZLazVNUzRMY1E3UXZhVV9FVERJMzlpXzdld01JNjdyVFZlVXUwQWVuendaV0xIZ1g5bWpmQkZHU19fcVZfeWtmX1JBU0Ns?oc=5>
+- 场馆: Al-Monitor
+- 时间: 2026-10-09 18:26
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QVEIzaWFVTXRBc1VRcnJ3Y2VvS2N5TUdxVGRjR0lzQVJvc0NoTENUR1VjVTJNc19OVWFoc1VwR1VLY2Q0a0J5a29RRldKUUNXdV9Udm5oV0pTVGdOLXE4YUYtY0U?oc=5>
 
-### Bitcoin Recovers as Trump Hails Constructive Talks With Iran -- Market Talk
+### Trump Announces White House Hearing to Investigate Fed's Lisa Cook
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: Moomoo
-- 时间: 2026-10-09 06:51
-- 链接: <https://news.google.com/rss/articles/CBMitwFBVV95cUxPNTZQVGpRUUdVV2EtTE0yd3NDbHhUZW01cU90SnZPUzJoS2lLLVVQRzRaeGV4Y0d3NUY0N3UwbS1Lb3pWTG9nb18xbVNSaWp0dHkwUzdINjFLVWZEbzAyT21pUkxod1pGSVBIaVBCUW10UFlTUWhtS3N4VmZoRVZTNzJHQXowWkJfdTBYUHgyVG5pVHBYMmpTRHdkdTc1eW9MUW5aVktCa0NBQVg2eEZCU2Y4b29LVm8?oc=5>
-
-### Bitcoin, Strategy, and Crypto Stocks Rebound as Trump Signal Cools Iran Attack Fears -- Barrons.com
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-10-09 12:31
-- 链接: <https://news.google.com/rss/articles/CBMiswFBVV95cUxQQW9OVmMtMEJZZGlGcmUxMVRwbVNobDlraFZhZUozMUIxVU5rMjVlTEdVTW1IaWZyUTk5VjgwbEJ4eHVfU0JuaHpMT0FXY0VZQTlJVkpycmVmUklqQ2NyZXZROEdpTUR3ek5McmJrTjdZR3dncm04cjRXRkw3R0ZkSlhjRFNIaFRwd3huSzBKQWJ3SGFpTEtCTy1NbTlnaUZhTnVrSHlEX0xTbHI4SnlVa19iaw?oc=5>
-
-### 特朗普表示，美国不会在中期选举前攻击伊朗
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-10-09 11:59
-- 链接: <https://news.google.com/rss/articles/CBMingFBVV95cUxQWVc0OWJnSk9pYk9OUkh2a3BJWDFSUFpDNFhvZVp4VGJwQzBVSXNTMU1hcE1LUEY4LUNsNnNRQU5nWWIxUlVFNUQzVzVUWkN5SXRqcXFyc0JLdXBSVk9EX242dXdfRDRwM0ZlUWpuS1NHNDZsSzdyckhhOC1nek41RzRiaG0zYUo1RlVmdVdIU1B5bVdicVNBYlVsSGNPQQ?oc=5>
-
-### 内幕提示｜特朗普8月交易：买入Meta、卖出AMD——二者均大幅上涨
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-10-09 10:02
-- 链接: <https://news.google.com/rss/articles/CBMitgFBVV95cUxOcEhqZUIyQU43TF9vUk00RmhTT2VBUGgtekt2ZHVEUjhXWC1sTmQ4TTRrRHlVT2M4Rk9TaVo0UzZBUC12c3VOa2NGNDVBa1Fja3hnbG1iamw3aUlaS09UaE93ZE1VWGp2UXFVbThlLXl0dlA3RU9zRXZPdUFJT29RYVdSNVZNQWpGaWI4S3VtazRuUklWMEpZZkhxWlpoWHNKdEk2cVRTcVFwV0VGMEZMblF6RjFxZw?oc=5>
+- 时间: 2026-10-09 17:33
+- 链接: <https://news.google.com/rss/articles/CBMirwFBVV95cUxPbFlKTy1YSy0xMmV0ODhhTXgyRzYtSUw0YWRORkhndWxWMDZlVE9nRXhUZlNmaVN0eTVZR0tXanNuOHpqRURIMjM2NG9pMlJmbVk4YlN3MmZHQUp6OGVyZzRqdS1Gc3lwNG1iNVB3a2hSSjhOMlNUWnE4WEhxY3p2c0FCck9td3lGR21JMkJCVGI5TUl0cm1rQjJHVFdYMEg0N3dDdzBPbUt3RWJPN0Zn?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-09 19:11  (10 条)
+
+- **特朗普** | 特习峰会上特朗普据报敦促习近平改善日中关系，但习反应冷淡 <https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcXdjUnRDUXRvSGdwbU9LRlVRLUlhTVB1c0FkWVk5TlVYdExtb3lIZDNxQmQxWEpSb3B6RksxQ0ZuVE56dmVsdGlVYmlTeXlwdkpYTm1uZG1hc2JUQnJ1MVlRVEpvSTJDdXlucWhMQTU5YmlMQWFqbmZteHZjLTlfUC1PRE5lLVRNM2VvcGdaVmFCUk5aOTlycGpwOGdjSDZyY0lNZER2NzdZRkxTUU1zYTRJWEhnZ0hYZFBsYlV5WmFjSUnSAcYBQVVfeXFMTUZ0MEtJOG9MM0ItbVNKbzZUT1JhX2E4cnVaMmlUUVFNOTZ4RHhiMGR4aHVOVTd3VXl5ajhvMThTNW1GeVFPSTFnX1FTZ1VRbEhMZnpCWWUycDU2YUhXSGR2aERLU2ZzaC02UmhjTnljS0ZfSmhXXzhEVnBzUU5BNjdQZUYxck9EWF91b1BQTC1YaFBqMGRPMjN4MU4tNElDdGlZQmZEVXkxM2tGM1ZXN3E3anI2UTlTaGhNdGhLYnVSMngwc0Nn?oc=5>
+- **特朗普** | 日方爆料：高市早苗请求特朗普，劝金正恩同意与她会谈 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBZTmZib2FiekE4UkpqdkhWdi1GdmVhV3FBbkJYa1dsY29jUnd4Uzh4aFZnRFNwVEdBOGhTWUFTUnEyZWhxZGxTZFJxbUI?oc=5>
+- **特朗普** | 特朗普为马斯克等科技巨头颁奖 <https://news.google.com/rss/articles/CBMic0FVX3lxTE9XRl80dUs1ZS1XdGZaSEJnd1diVG9hUE1uMzBMa20tdDE0bzhKYUNmSGI1S0JkMHIwN3l4SlVmY0RybXpBbW5ETWt6WklRbHNNQW5YbkUxRFkxZy1xQ2RNeUxSdXMwMVNzeGZWZ3pIOU5ITHM?oc=5>
+- **特朗普** | 特朗普：普京同意向全球市场投放柴油 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MY2dpdFA2QXVudDdQTVdGWWFoRFdyam1EczlwU3MwcHY2Q19pdmZKYmJBRm56QlFDdjJ0dG80LTBuV21KVUxMMENNU3pWdkRtT19j?oc=5>
+- **特朗普** | 特朗普称中期选举前不打伊朗 “林肯”号返回母港 <https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ob3ZmLXI5aW9MYl9WMUZEVDFmdU5pUGpQOXRqSW1LVEI3THVWU210RWotR2J2Zm9SQ0k0MnZOZ3BoTzRKNFBkTGVub2s1R3BoSkFncFE2RjFWVXRpMVNGU1pwenFrZ2laTXd1Z0lHWmNyUFZwdm9nVHdxMEc1SVk?oc=5>
+- **特朗普** | 特朗普：国土安全部部......_7x24快讯_新浪财经 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE05YmlzdWQyYWVuOFFXX2MydmlNUDZYQVdDanZUbFhuNnU3b0lCVlQxaThsOFMxODU1VldMa19neHRwTGM4aGVpaUZ4MA?oc=5>
+- **特朗普** | 【美国中期选举】哈里斯选民投票热情高于特朗普选民 <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBjNk1lVWlXLW54SGoxWVk2NmxOUWJ5bWdqNlR5UThVSG5VWWYwSlVDYTgtY040WDZQbDlFRGRFTzRtaUltTHIzMFVUR0VlLXFhQy1qNDBVMmFEOWdfNTZhbTl0U0Fadw?oc=5>
+- **特朗普** | 高市早苗公开反对特朗普 <https://news.google.com/rss/articles/CBMiSEFVX3lxTE9PYVAwVjl1NEFqNExBb2ZQOXRySkpEZ25tdGVHT1J3N19SX0tIQ0lHQ21Rc3gwUGNoTFVsd1lwdUJLakpaOTE3NA?oc=5>
+- **Trump** | 达成协议还是开战？以色列担忧特朗普下一步对伊朗的举措可能带来的后果。 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QVEIzaWFVTXRBc1VRcnJ3Y2VvS2N5TUdxVGRjR0lzQVJvc0NoTENUR1VjVTJNc19OVWFoc1VwR1VLY2Q0a0J5a29RRldKUUNXdV9Udm5oV0pTVGdOLXE4YUYtY0U?oc=5>
+- **Trump** | Trump Announces White House Hearing to Investigate Fed's Lisa Cook <https://news.google.com/rss/articles/CBMirwFBVV95cUxPbFlKTy1YSy0xMmV0ODhhTXgyRzYtSUw0YWRORkhndWxWMDZlVE9nRXhUZlNmaVN0eTVZR0tXanNuOHpqRURIMjM2NG9pMlJmbVk4YlN3MmZHQUp6OGVyZzRqdS1Gc3lwNG1iNVB3a2hSSjhOMlNUWnE4WEhxY3p2c0FCck9td3lGR21JMkJCVGI5TUl0cm1rQjJHVFdYMEg0N3dDdzBPbUt3RWJPN0Zn?oc=5>
 
 ### 2026-10-09 13:35  (13 条)
 
