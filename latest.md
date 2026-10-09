@@ -1,134 +1,135 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-09 00:05**
-- 本轮扫到 13550 条, 新增 **15** 条
+- 最近更新: **2026-10-09 06:26**
+- 本轮扫到 13564 条, 新增 **14** 条
 
 ---
 
-## 本轮新发现 (15 条)
+## 本轮新发现 (14 条)
 
-### 王一博发布奥迪e-tron宣传视频，四重挑战引关注
+### 周杰伦大师赛对战休伊特父子，把网球场变演唱会
 
-- 艺人/关键词: **王一博**
+- 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923942_m1d5ae18e6033027pns.html>
+- 链接: <https://k.sina.com.cn/article_7879995911_1d5af320706802qrh2.html>
 
-### 特朗普：中期选举前不会攻击伊朗
+### 周杰伦大师赛对战小休伊特，把球场变演唱会
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-08 23:24
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5MMDZHUGNZQnRSeVRhNU1VRmY5V05nWkJ3QlRiYkRkU3FwakF1dlZhalVzMXZmcy14OHdOYmNkT1BDOFR6MmRYNkp6ak4?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879995911_1d5af320706802qr3c.html>
 
-### 特朗普炮轰美联储
+### 这么轻松接触到偶像，那么那些花几万演唱会的人是不是得大哭
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-08 23:30
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9RV3JpUzU1eXpUbmRKQWZKNnFoSEU4YUpuZnVaSHRDMHpJemRPbVM5VXU3OFV2UUlEaHpzZ3NyaW95UVVIY2R0NldqSFI?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923551_m1d5ae175f03301s9ua.html>
 
-### 特朗普向马斯克颁发“国家科学奖章”
+### 周杰伦曾被造谣捐五万，实捐整场演唱会收入刷新台湾省记录
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-10-08 21:14
-- 链接: <https://news.google.com/rss/articles/CBMilAJBVV95cUxPZXpsdUM5NXpqaEJHZS1wRWkxQkVjWFJkNTJ4WkhVcUMtTl93cFp5SzFKbVdLcVVlYm1HYzd6MUU2MnRRS1QwUy1OSXBUUzVVNDhPTlpULU5oOTRXNDR3cWpiRG5jQ280S05yLTJiUnVLTjlnYkgteVIzVnRxXy1MVXdNYk92LVhHQ1VjREVxNXZtLXFKWGxUVkgzeWlod3p4anVFZ2xlNUhBZGN0eHcwQmFVSlNBVEJ5cThGTkNvZVNHYktfQWdWLUFzQV9tMlU2d2prZXJSS3FjVFNiNVp3a052aHAtWTJRQVByZ2gzUDJubFB2TlBPT054QVBpekNvalU4d2VMbjNFX3JIS1VLWGVLdF8?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879924060_m1d5ae195c033027qdu.html>
 
-### 特朗普以“圣战分子”攻击参院民主党候选人
+### 二开！周杰伦三亚演唱会
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-10-08 20:21
-- 链接: <https://news.google.com/rss/articles/CBMiugJBVV95cUxPTlktbWktcmJQck1Qb1NRNk9uZDk4VzRpSHU0T1JNYVc1XzAyOXo0UU1nM3VEb2hxZUxMQ1JUbkc5c2JkLXM3UGIzU0JIUFplUjNGTjlpUkI0cldObVFTdmJncVBBYW81MC12Q1dVcl92ZEdWbUtJVm04eDAxZThOMFY4SWFMRFZzODl5dVNZdG8wVHBnRmNSRkIyOVVhV19iNXdSMGlFMlRwQ0FwMmsxUzJ2UVdLNjJxVnpsTjFZbTdpNWZGck1NblJUQUZ6WlFMdVJDOEZfdjRZODhtVlUxUElpNjdLLU44dngwOGU0UGFEc2lXOUs1SXRjZ3BBR2hjR2ZCRzAwcl83ZVg3Vko5VzdpbC1wZ29mSTNZWEZvSVFOd1VXd2JTUk9rTjcwY3Q4UjJoSUJ1VDVlUQ?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://finance.sina.com.cn/jjxw/2026-10-09/doc-iniuqywq1137085.shtml>
 
-### 共和党斥AI危险论，民主党质疑“大厂”影响特朗普AI政策，要求披露监管框架修改过程
+### 投资特朗普炼油项目的印度亿万富豪，同时加大采购委内瑞拉原油|唐纳德·特朗普|美国总统|工业|俄罗斯|数据
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-10-06 16:39
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ISmkwdlItdGJLdjRUNHRQeEcwZ3dzQUNQdzVNdzFjbnVhOHRLa092Tk5wX2c0ckE5bzRjeUJ3WlU3cEVhbURHLUlTMGsyR1A4ZUg0?oc=5>
+- 场馆: finance.sina.com.cn
+- 时间: 2026-10-09 06:13
+- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxQSjV2NVh5NWllTG45Z3BubW15V2FBb09DVksxRVdmVVNuSE5fTXlRZDJaZkVTVTJ4bGw2c09NUEVFYUY4WWtrTDRDY0JIaEVVU3gydE8xY1RQYnVwMjRLZVhCS0VXQnRHY0pqUW91X2h2UER2TVRQXzBZd3JWUVNmWU9xeGQxUno5ZlE?oc=5>
 
-### 特朗普“喊话”难再撼动油市，交易员转而紧盯实际供应流向
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-10-08 13:29
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LWURPYi1jazY2VGhVeVNVZ01hQ1FaLVcxMnZQMDQ4N3lfTlZwVW8waVRSZmtkQU9abURUTWJvcHBBMFNrZVFQQzIzSWU3WWJLZDU0?oc=5>
-
-### 特朗普，大举买入！一笔操作堪称精准：最多投入2500万美元，赚了32%
+### 特朗普表彰六位美国科技巨头，马斯克、黄仁勋等获奖
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 同花顺财经
-- 时间: 2026-10-08 18:15
-- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wc2t2c0F6U2VzT2JybkhIODVySDkxZjA3d2xMTDE2bWxQNE9yX2o1UnlhS3RESjNwTU0xZWVITm9maWdxSGtqSW5uNk9aNUVoRU8tYkxXN2JJQlJ6aTJtRnBB?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-10-08 23:25
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxPSkpHLTFMMmFRT2xzQmhsRkJsSjVoSnFtM3IwSzM1SFdYMXdPMTc5NV9ycXNmLXRDSUhDeHRCOURjSzlIbGM4WVZmUHVzR1pfT1NWN3dnUnA1VDVLYm0tdTVvRUtINlF0V2xXd09lRW5MeTdYSlFYay1SMXgtXy1aWWJzNHRBenc?oc=5>
 
-### 特朗普把AI改名SI：马斯克跟风 奥尔特曼拒绝改名OpenSI
+### 特朗普颁发国家科学奖章，表彰马斯克等六位科技领袖
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-10-09 05:28
+- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxQdVpxUnR6Y1BycDJ2YXBzV3V1Nmd5UEJtM0FjU0hsYm1pLV9Oc0MyX08tQ2U2M0tzTGttbjUxbTh5NjZ6Zkt0TjJ4UjMtT1lqempydGtwVmR6cGpqTTd0Z3F4WkwyUDZHaHpPM2NPdjhrcHA0R0tLWUJOdkh1dGtTSQ?oc=5>
+
+### 特朗普自认应获诺贝尔和平奖 多次表达渴望
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-10-09 03:28
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBNUVR5Nm5mZGpTVTVTOWJqZ1M1RHZvdExkb2p0Z1pRaFVyMU5ZcjJrVS1TN3QtZnRNSVBfOV8xeXJ6TVZCVS1Jay10UjVjLUo0d2l5c00yeDZOXzlyZmZOM2ZMQ1gydjlRWUFKc09TcEQ?oc=5>
+
+### 特朗普：自己理应获诺贝尔和平奖 平息八场大战
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-10-09 04:09
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE11LVl0MWZJVjNHRGNZdDUtRndHamJtU0s4dEk0dGIwN29QN2xMTHJMRzJKU19QS0xjSUlWSjZXWm5sU04wNU1RTkhtanRfTjBKVWloRHRrVVZ1SXFRY0trQ2JkS05vNV9kUk5XcXBqaVQ?oc=5>
+
+### 特朗普又惦记起诺贝尔和平奖：我阻止了世界毁灭 不给我是评选委员会极大的失
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 驱动之家
-- 时间: 2026-10-08 13:26
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE9UQVJQamhfVUFoREJ0VjFSandLUC16QUIyWjROcjlJNlA1d0pBRTdOZ1hXNE85OUJKTHdfN3NMZDFxUGtRcTUxV1E1SDBKTUlRWC1tdDB0QjU?oc=5>
+- 时间: 2026-10-09 01:07
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE92c0tQbG9Ea0hiNTFmOVRZamtkeXhwTmdxeFZpMUk2RGUyRnJVT3lPWkZ1S2pER0NpOEs1T0QtVGFqbHBrQ1pOQWI3TzdOd3FiSDBmOEVGVV8?oc=5>
 
-### 特朗普表彰多位科技公司首席执行官
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-10-08 23:25
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxOc1JkMkJHWUdWc0Jyb2FxVmUtODNEbWtlQUwtZjIzWWJ5X3RBMXpJdy0zSHhlUGhtcFE0MUNOY0ZjVkNvTXcta3o4YnpBWlVYcVdOZ2UtNHZhX3VpdnFlbUdyVkc5NzRhaGtRTTJ0WnV3UzlWVkFKMTYtUGZ4eURsVnRmUGZ3c3pTeFRkag?oc=5>
-
-### 特朗普总统排除在中期选举前攻击伊朗的可能性
+### 特朗普裸体镀金雕像“橙色瘟疫”亮相欧洲议会，魏德尔怒斥
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-10-08 19:42
-- 链接: <https://news.google.com/rss/articles/CBMiugFBVV95cUxOZTBaWGRoaTRtMUFnMXRncWNaRF9VR0JjaXlOdHJCbUFSczRPbExQUVpOZmtqLXFmeEVqVk9rLWp2MjBUQjJZOGlKb2lHU3dMeUdNN3VIQ2VCOE9Pck00RG9ock51Wmx2UzhFMVBxSEhpUWp1RThPdnlVS040VGRfWVg3bDFndFJSTXo4NnVlZFpGUzNObXJCY2g3b25haGNaNzRrNnRmMVAyWXVDYmliVE5NTjZ6LXdYX1HSAboBQVVfeXFMTmUwWlhkaGk0bTFBZzF0Z3FjWkRfVUdCY2l5TnRyQm1BUnM0T2xMUFFaTmZrai1xZnhFalZPay1qdjIwVEIyWThpSm9pR1N3THlHTTd1SENlQjhPT3JNNERvaHJOdVpsdlM4RTFQcUhIaVFqdUU4T3Z5VUtONFRkX1lYN2wxZ3RSUk16ODZ1ZWRaRlMzTm1yQmNoN29uYWhjWjc0azZ0ZjFQMll1Q2JpYlROTU42ei13WF9R?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-10-08 08:55
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBTcEEwM0VBVU1aSnN6X3ZiZ0QzdmdENDdqLWZQUEJuSFJSNTZWQVZjNXEtT19GZm1xRkQ1VEwyTExuMXBiV29BNzllM0E?oc=5>
 
-### Oil Finishes Higher Despite Trump Truth Social Post -- Market Talk
+### 特朗普“画不动”原油K线了
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-10-08 19:55
-- 链接: <https://news.google.com/rss/articles/CBMisgFBVV95cUxNcFRzVzVlMm9BQllZQ1NMenZrSEMtWU9jRkxvVm1RM01DVnI0ZlZjLWZUa2VaMWc4bk53eWpSVV9fT3lyNHdVOHhrbWUxZVBGVFgxb3lzVV9HakxsXzk0LXY1LUJMdENRZWVqbmp0R3V0VFVTU2pMRllxMS1Vbl9uSkJGNnhxSHVubG5aUUIyUHF5LWloRVcxbGJobU5jb08zSlVYcVZqeU50cHhldTdNNW5B?oc=5>
+- 场馆: 华尔街见闻
+- 时间: 2026-10-09 00:24
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YYmlaSTJHTzdSSFN6dXFXZmcwMkVDT2p1TG80R28tV1VzT3VEdUJ1aEhUS3lLMlkwWndlRU14MWVscE93bjFxNnl0MDdTRjVucDdJ?oc=5>
 
-### 怕油价再上涨 特朗普保证中期选举前不会对伊朗发动攻击
+### 特朗普喊话越来越不管用了：油市开始对他的伊朗威胁免疫-市场参考
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-10-08 20:53
-- 链接: <https://news.google.com/rss/articles/CBMijANBVV95cUxQUU1iT21MaTJkUzJkaEV2M3FrdFV5MW41OEtmUldOcC16VVIzR05iXzloWTRLaWpjTklfd1I5NWQweEF4elJIdm5wTnI3aEwyVE5leUFUTWlBU0VyRnVJZ0VSOVZpNTZSNVZ2VThiNWhLVWhYd3BUaWZ4UU93WVJmTkQza1FNNk5ZZjNKYXJva0pHT1NTalNqckpXdVNuaGNjNzJ1RTNtelpWNUNYOXNJeWkxUm5reTVULTlBODV1VVdkV1FMWk4ycDVqMGthRW1hb2hzRkRVS2J3WHdJMUFYUTlmTmJrRmtsUkRNUUxUOVBITFBPSWFMSEREWkp4WnZ1azFCc1RuYm5zbkpqWXJOUm00aE5fd0FELVRaYnUxQTJjWElzeEtlS0psTV9haV9hVWxzRWg3UDNvV3gwZ1BUenNyV25EV1ZXY1A3cE80UGdMLWZNa1dRdkxySUJWU2JpZTF6Vk5FVGEyRTlPd2dHT3p6X0E4YVRPNXhhUGtNTEF5Z2o0cl9FSDdSUUk?oc=5>
-
-### 特朗普称美国在中期选举前不会恢复对伊朗的打击
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 华尔街日报中文版
-- 时间: 2026-10-08 23:16
-- 链接: <https://news.google.com/rss/articles/CBMimwFBVV95cUxOYURXTnBCRlB3b3NqcXA4VzFVSXJHTEJxM3NRamhULXNEZmg3dkRhSFN0cHhKRHg3OFpNd0V2UDRMRGRtb216Y0E1NVRfQVYxR0lpanJxRWdEX2hoOGF5TUdiQk9oTl9YYlpOMGdQVEhVVjdCbEc0ZW41UFYtUnpBVWFxNmMyWXJFWHpQYTJhOU5rWU5seHAycUppSQ?oc=5>
-
-### 在特朗普表示中期选举前不会对伊朗发动袭击后，油价下跌
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-10-08 23:45
-- 链接: <https://news.google.com/rss/articles/CBMirgFBVV95cUxNdGpZNmYxejNkU3hGNVpxSFJIdmw0UnV2MEx2aFBpeTU0LU1ROENkWHdpS3Ewc3FKcG10cHZ2ZmJRakxab3VjU2NuR0p2WnY2bzNDeEtjbkY4R2U3a3JmcE9JRTJldS05bl8xLXB6RkJsZDhqemdVUEhwYzRJT05NX2pEUkxMUFFqMzg2eUVoMUZRSFB3MUF1N3ZXM3F2M01yN211c2dhUWNoR2lmQVE?oc=5>
+- 场馆: 金十数据
+- 时间: 2026-10-08 14:12
+- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE1fUUJwUUY5SHhySERRdTBBenJGRXVtb2M1VEJTRExjaFBhb2RmUkNBZTNBdW5kT3JhOHZHb1FudGg4NG1BNFNrMlAwQWdXQ0U?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-09 06:26  (14 条)
+
+- **周杰伦** | 周杰伦大师赛对战休伊特父子，把网球场变演唱会 <https://k.sina.com.cn/article_7879995911_1d5af320706802qrh2.html>
+- **周杰伦** | 周杰伦大师赛对战小休伊特，把球场变演唱会 <https://k.sina.com.cn/article_7879995911_1d5af320706802qr3c.html>
+- **周杰伦** | 这么轻松接触到偶像，那么那些花几万演唱会的人是不是得大哭 <https://k.sina.com.cn/article_7879923551_m1d5ae175f03301s9ua.html>
+- **周杰伦** | 周杰伦曾被造谣捐五万，实捐整场演唱会收入刷新台湾省记录 <https://k.sina.com.cn/article_7879924060_m1d5ae195c033027qdu.html>
+- **周杰伦** | 二开！周杰伦三亚演唱会 <https://finance.sina.com.cn/jjxw/2026-10-09/doc-iniuqywq1137085.shtml>
+- **特朗普** | 投资特朗普炼油项目的印度亿万富豪，同时加大采购委内瑞拉原油|唐纳德·特朗普|美国总统|工业|俄罗斯|数据 <https://news.google.com/rss/articles/CBMiigFBVV95cUxQSjV2NVh5NWllTG45Z3BubW15V2FBb09DVksxRVdmVVNuSE5fTXlRZDJaZkVTVTJ4bGw2c09NUEVFYUY4WWtrTDRDY0JIaEVVU3gydE8xY1RQYnVwMjRLZVhCS0VXQnRHY0pqUW91X2h2UER2TVRQXzBZd3JWUVNmWU9xeGQxUno5ZlE?oc=5>
+- **特朗普** | 特朗普表彰六位美国科技巨头，马斯克、黄仁勋等获奖 <https://news.google.com/rss/articles/CBMihwFBVV95cUxPSkpHLTFMMmFRT2xzQmhsRkJsSjVoSnFtM3IwSzM1SFdYMXdPMTc5NV9ycXNmLXRDSUhDeHRCOURjSzlIbGM4WVZmUHVzR1pfT1NWN3dnUnA1VDVLYm0tdTVvRUtINlF0V2xXd09lRW5MeTdYSlFYay1SMXgtXy1aWWJzNHRBenc?oc=5>
+- **特朗普** | 特朗普颁发国家科学奖章，表彰马斯克等六位科技领袖 <https://news.google.com/rss/articles/CBMigAFBVV95cUxQdVpxUnR6Y1BycDJ2YXBzV3V1Nmd5UEJtM0FjU0hsYm1pLV9Oc0MyX08tQ2U2M0tzTGttbjUxbTh5NjZ6Zkt0TjJ4UjMtT1lqempydGtwVmR6cGpqTTd0Z3F4WkwyUDZHaHpPM2NPdjhrcHA0R0tLWUJOdkh1dGtTSQ?oc=5>
+- **特朗普** | 特朗普自认应获诺贝尔和平奖 多次表达渴望 <https://news.google.com/rss/articles/CBMicEFVX3lxTFBNUVR5Nm5mZGpTVTVTOWJqZ1M1RHZvdExkb2p0Z1pRaFVyMU5ZcjJrVS1TN3QtZnRNSVBfOV8xeXJ6TVZCVS1Jay10UjVjLUo0d2l5c00yeDZOXzlyZmZOM2ZMQ1gydjlRWUFKc09TcEQ?oc=5>
+- **特朗普** | 特朗普：自己理应获诺贝尔和平奖 平息八场大战 <https://news.google.com/rss/articles/CBMicEFVX3lxTE11LVl0MWZJVjNHRGNZdDUtRndHamJtU0s4dEk0dGIwN29QN2xMTHJMRzJKU19QS0xjSUlWSjZXWm5sU04wNU1RTkhtanRfTjBKVWloRHRrVVZ1SXFRY0trQ2JkS05vNV9kUk5XcXBqaVQ?oc=5>
+- **特朗普** | 特朗普又惦记起诺贝尔和平奖：我阻止了世界毁灭 不给我是评选委员会极大的失 <https://news.google.com/rss/articles/CBMiWEFVX3lxTE92c0tQbG9Ea0hiNTFmOVRZamtkeXhwTmdxeFZpMUk2RGUyRnJVT3lPWkZ1S2pER0NpOEs1T0QtVGFqbHBrQ1pOQWI3TzdOd3FiSDBmOEVGVV8?oc=5>
+- **特朗普** | 特朗普裸体镀金雕像“橙色瘟疫”亮相欧洲议会，魏德尔怒斥 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBTcEEwM0VBVU1aSnN6X3ZiZ0QzdmdENDdqLWZQUEJuSFJSNTZWQVZjNXEtT19GZm1xRkQ1VEwyTExuMXBiV29BNzllM0E?oc=5>
+- **特朗普** | 特朗普“画不动”原油K线了 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YYmlaSTJHTzdSSFN6dXFXZmcwMkVDT2p1TG80R28tV1VzT3VEdUJ1aEhUS3lLMlkwWndlRU14MWVscE93bjFxNnl0MDdTRjVucDdJ?oc=5>
+- **特朗普** | 特朗普喊话越来越不管用了：油市开始对他的伊朗威胁免疫-市场参考 <https://news.google.com/rss/articles/CBMiT0FVX3lxTE1fUUJwUUY5SHhySERRdTBBenJGRXVtb2M1VEJTRExjaFBhb2RmUkNBZTNBdW5kT3JhOHZHb1FudGg4NG1BNFNrMlAwQWdXQ0U?oc=5>
 
 ### 2026-10-09 00:05  (15 条)
 
