@@ -1,96 +1,167 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-09 19:11**
-- 本轮扫到 13587 条, 新增 **10** 条
+- 最近更新: **2026-10-09 23:23**
+- 本轮扫到 13605 条, 新增 **18** 条
 
 ---
 
-## 本轮新发现 (10 条)
+## 本轮新发现 (18 条)
 
-### 特习峰会上特朗普据报敦促习近平改善日中关系，但习反应冷淡
+### 周杰伦说参加大师赛比开演唱会还紧张，原因是什么？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879995911_1d5af320706802r1c4.html>
+
+### 周杰伦为何说参赛比演唱会还紧张？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879995911_1d5af320706802r1bq.html>
+
+### 周杰伦大师赛挑观众双打 笑称比演唱会还紧张
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879995911_1d5af320706802r1be.html>
+
+### 周杰伦跨界大师赛，笑称比演唱会还紧张！
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879995911_1d5af320706802r1ay.html>
+
+### 周杰伦为何说参加赛事比演唱会还紧张？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879995911_1d5af320706802r1am.html>
+
+### 周杰伦大师赛跨界切磋，自曝比演唱会还紧张
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879995911_1d5af320706802r1ak.html>
+
+### “7天假期赴2场演唱会”，假日消费迎来音乐新引擎 ｜ 黄金周观察
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1838672663_6d97eb1702001qstu.html?from=finance>
+
+### 特朗普与普京达成协议允俄国出售柴油，泽连斯基批评“送大礼”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-10-09 18:34
-- 链接: <https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcXdjUnRDUXRvSGdwbU9LRlVRLUlhTVB1c0FkWVk5TlVYdExtb3lIZDNxQmQxWEpSb3B6RksxQ0ZuVE56dmVsdGlVYmlTeXlwdkpYTm1uZG1hc2JUQnJ1MVlRVEpvSTJDdXlucWhMQTU5YmlMQWFqbmZteHZjLTlfUC1PRE5lLVRNM2VvcGdaVmFCUk5aOTlycGpwOGdjSDZyY0lNZER2NzdZRkxTUU1zYTRJWEhnZ0hYZFBsYlV5WmFjSUnSAcYBQVVfeXFMTUZ0MEtJOG9MM0ItbVNKbzZUT1JhX2E4cnVaMmlUUVFNOTZ4RHhiMGR4aHVOVTd3VXl5ajhvMThTNW1GeVFPSTFnX1FTZ1VRbEhMZnpCWWUycDU2YUhXSGR2aERLU2ZzaC02UmhjTnljS0ZfSmhXXzhEVnBzUU5BNjdQZUYxck9EWF91b1BQTC1YaFBqMGRPMjN4MU4tNElDdGlZQmZEVXkxM2tGM1ZXN3E3anI2UTlTaGhNdGhLYnVSMngwc0Nn?oc=5>
+- 场馆: BBC
+- 时间: 2026-10-09 20:37
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9mWW8xNnZPaHowb3ZIMWlHdXRmRWVlNmxKbkxraEVSOGg1cUl0NV9CSHlTU3d5UFQyaXRXc1FkaWhtWTRGRnpQZzNVV0t2MVBhMXNMYTA3V0xVZ2pwbUxCWUtfZUlTdVXSAWxBVV95cUxPb0ZUTGc5WHlQQzZ6UF9mV3M3dS14Z3UxRTBlRlZyRmxSSnB0bllOZVdRS25YaFRJWldjaXVaa29sbEgwd0JvalZuVTN6V1I0dFdkWG1sVGhySUFxOW5zZnB6XzgweEo0cHplZGg?oc=5>
 
-### 日方爆料：高市早苗请求特朗普，劝金正恩同意与她会谈
+### 特朗普：俄罗斯将立即向美国供应柴油
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-10-07 10:48
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBZTmZib2FiekE4UkpqdkhWdi1GdmVhV3FBbkJYa1dsY29jUnd4Uzh4aFZnRFNwVEdBOGhTWUFTUnEyZWhxZGxTZFJxbUI?oc=5>
+- 时间: 2026-10-09 21:24
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5uMk9aeFJvNngxSUtCS2NNelNFQktac0lRQm9MeTZpV3E4aktIMGpRY1ZsOUkzSVZuMHFhYnN2d3I1czNNRWpzU3hnU1Y?oc=5>
 
-### 特朗普为马斯克等科技巨头颁奖
+### 10月10日外盘头条：特朗普称普京同意向全球投放柴油 巴拿马发生70多年来最强地震
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-10-09 21:29
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxPVXRNSmRVTEs4bDltOV9tTVVsSDhocTkxSHZ1aHA2SDhKdkI5SjdzcURFVTE2QWF6SnZnNEJhclladmdEempiQ0pLQkU4d0k3OUo5S2J3VnRqOWR4dzI5bU50Uy1CeEJ3M3hoVjVCeVEyNjVXaERQdVBVbWxtbmFzRkVTNXozdEE?oc=5>
+
+### 公民论坛 - 移民权益专家：特朗普的强硬政策对华裔移民权益影响很大
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-10-09 23:08
+- 链接: <https://news.google.com/rss/articles/CBMi1gNBVV95cUxQVmprQVZWb2twRFJ4dkhfcE5lMS0xZ3Yxdmhtc29WYlZBMnA0OGl5VUp3YkRyaG1ZblZVYW1Ua0RBbC1UM18wMms1Z09EOWxhc3NpdWVyRVkwUHZrT2Fjc2RQN1lCMEpnZjBYMG5IQVJTODZwRmVyV09neG9JMHhEOWxQUzU1aXlIbHRUTG5GNzJRYUd6WmEyeHBWYXEydTZYejUzRzhJR2lFYjYzMDE1R0J4Sm93RXFvcXVpMHh1N1dpM3hmMzFjQWdscE1IQVlIWV80WlF1TUFZY3ZIbmgwTmVBMXdQTmc5dWdmMTU4Z2lXSXJqcG1fOEEwMFJqVUhGbjhDV3A5RUFGUEUxZGFIWXpIdWpyeUtFUDhrb1pXZXR3X1ZDNUtfVkJtVnNrNGdqX3lXWktGMmJBbWhxejRYTHVlQV9INDBfbDN3eEdGMDZMb2s4X1pxUHhaeU1OR1VOVHZjRE01UkZwT2NwakNNV2trNEhKdUJLYUw2VGE4aXV5UE9nUkUta0ZMQnNFN3k1d0R5aE1aMVNWbjJEVnFvcUh3akhXYUo5WGswdlV1cWRzenoyVTRqV3N3MUtrTDE4VmdHdHQzZlRibmg1M2U0bTdlRFUzQQ?oc=5>
+
+### 特朗普宣布新任白宫新闻秘书人选
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-10-09 20:53
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE0tWVliOGxkclIycVZVVXFkWmczUXRrdlFEVzREMGg4Tk9kREwtSnhxSWpiQnE2cDhRSFdQbXYwbFJwcmxtVnZyZW5kTmY?oc=5>
+
+### 特朗普官宣新任白宫新闻秘书
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-10-09 22:31
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9BTGdDemhVeFZWUzNKNDQ2ZUdZdU5EQWtpaVlvd2RLYzlNS21NZV9uNlF0OUdMa0ItMGhEUHpySGExTXpadlVldFJJZVFnbzhLODM5OUF3Z3NlMDE4MVYzVkg2X1pHYW9SU3pvRzZVMFoySjhUZzFkMg?oc=5>
+
+### 特朗普宣布任命凯蒂·扎卡里亚出任白宫新闻秘书
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-10-09 22:18
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9BZ1RuMWlvOHFNMGpwSjF0RnNYRnZFUVlxQmxRM0ZwVUQ3VkpHMTM3S3pJcHNFRk9LUWRyWk9MeWlGSVBKRWJRcm53Y1BheFh3RXBYNVk5QTZfNkxEZkZDVUxpcDhISUhlclZpWlpKTVI0N0NnYVY5Yg?oc=5>
+
+### 特朗普也“拿奖了”，还称赞马斯克是“当代爱迪生”“国宝”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者网
+- 时间: 2026-10-09 06:31
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE4wSVhYZWdNcW9aQW81VVBlbmlOWFR1MFpBR3BTTTZnRmFJb0Z0VkZFTXBCNngwUHc4ajZRb0Rsd0E1Sl9zeHFKcklSTllnR1J3MEY2MDg2X3JLUW12aEpiV2FIX3EzSHVNbUZvOTJTbzBYaXc?oc=5>
+
+### 特朗普授予马斯克国家科学奖章，表彰太空能源AI贡献
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪网
-- 时间: 2026-10-09 19:05
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE9XRl80dUs1ZS1XdGZaSEJnd1diVG9hUE1uMzBMa20tdDE0bzhKYUNmSGI1S0JkMHIwN3l4SlVmY0RybXpBbW5ETWt6WklRbHNNQW5YbkUxRFkxZy1xQ2RNeUxSdXMwMVNzeGZWZ3pIOU5ITHM?oc=5>
+- 时间: 2026-10-09 21:51
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1UQnFhTDlvLXZ6Z3VwYkVyNTBGX1hHSGZsWVFaY0NVN2xENGRCRTlqRUtOZUNQdUFSVGUwRE5MQnhIaDlyc2RJcEl1X0h5djZpblVvckZQYWtTUTNhMEZ5Q1BzT1kzNWVZdW5INm93ZmpkdWc?oc=5>
 
-### 特朗普：普京同意向全球市场投放柴油
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-10-09 18:50
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MY2dpdFA2QXVudDdQTVdGWWFoRFdyam1EczlwU3MwcHY2Q19pdmZKYmJBRm56QlFDdjJ0dG80LTBuV21KVUxMMENNU3pWdkRtT19j?oc=5>
-
-### 特朗普称中期选举前不打伊朗 “林肯”号返回母港
+### 视频|特朗普颁发国家科学奖章，马斯克黄仁勋等科技大佬齐聚，白宫颁奖现场
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-10-09 03:20
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ob3ZmLXI5aW9MYl9WMUZEVDFmdU5pUGpQOXRqSW1LVEI3THVWU210RWotR2J2Zm9SQ0k0MnZOZ3BoTzRKNFBkTGVub2s1R3BoSkFncFE2RjFWVXRpMVNGU1pwenFrZ2laTXd1Z0lHWmNyUFZwdm9nVHdxMEc1SVk?oc=5>
+- 场馆: finance.sina.com.cn
+- 时间: 2026-10-09 07:12
+- 链接: <https://news.google.com/rss/articles/CBMi-AFBVV95cUxPNFVPOXF4WVBSRERqU2c3cmQycjIwOWg2TWNlc29oSkhIQXBpc2wyVnpZWUs4NFpkV1ViZXVCNk8xWWdrVVo3RFpGcG5jYTdmSS1ZX2k0Yk8xTnIzbHFyVlhOTThRcm5QZ3VqcC1zcE4wZXRsNURPZ3MtLXF0QzRTSDkzREJJaXJQTWJiQ0d4a0EwSkRENkQ1QVFLd1BGbEQxN3JfeU9hYXBqbHVCelNGUXVxMU5ad2pMTV9SS3RfS3hCMUZMOGFiMkV4TWhYaEFwei1CRzdSRm9fLTBOOHZCZmdUMlVqZkFiTko1RnFrTHBBRnptSWloQg?oc=5>
 
-### 特朗普：国土安全部部......_7x24快讯_新浪财经
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-10-09 15:53
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE05YmlzdWQyYWVuOFFXX2MydmlNUDZYQVdDanZUbFhuNnU3b0lCVlQxaThsOFMxODU1VldMa19neHRwTGM4aGVpaUZ4MA?oc=5>
-
-### 【美国中期选举】哈里斯选民投票热情高于特朗普选民
+### 特朗普设立委员会调查美联储理事库克
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-10-08 10:57
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBjNk1lVWlXLW54SGoxWVk2NmxOUWJ5bWdqNlR5UThVSG5VWWYwSlVDYTgtY040WDZQbDlFRGRFTzRtaUltTHIzMFVUR0VlLXFhQy1qNDBVMmFEOWdfNTZhbTl0U0Fadw?oc=5>
-
-### 高市早苗公开反对特朗普
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-10-09 05:00
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE9PYVAwVjl1NEFqNExBb2ZQOXRySkpEZ25tdGVHT1J3N19SX0tIQ0lHQ21Rc3gwUGNoTFVsd1lwdUJLakpaOTE3NA?oc=5>
-
-### 达成协议还是开战？以色列担忧特朗普下一步对伊朗的举措可能带来的后果。
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Al-Monitor
-- 时间: 2026-10-09 18:26
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QVEIzaWFVTXRBc1VRcnJ3Y2VvS2N5TUdxVGRjR0lzQVJvc0NoTENUR1VjVTJNc19OVWFoc1VwR1VLY2Q0a0J5a29RRldKUUNXdV9Udm5oV0pTVGdOLXE4YUYtY0U?oc=5>
-
-### Trump Announces White House Hearing to Investigate Fed's Lisa Cook
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-10-09 17:33
-- 链接: <https://news.google.com/rss/articles/CBMirwFBVV95cUxPbFlKTy1YSy0xMmV0ODhhTXgyRzYtSUw0YWRORkhndWxWMDZlVE9nRXhUZlNmaVN0eTVZR0tXanNuOHpqRURIMjM2NG9pMlJmbVk4YlN3MmZHQUp6OGVyZzRqdS1Gc3lwNG1iNVB3a2hSSjhOMlNUWnE4WEhxY3p2c0FCck9td3lGR21JMkJCVGI5TUl0cm1rQjJHVFdYMEg0N3dDdzBPbUt3RWJPN0Zn?oc=5>
+- 场馆: ThePaper.cn
+- 时间: 2026-10-09 19:58
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oUVYzN3QxWkZwNmxUbGZHUmNVcW05enVBcDVNRTlaSnBaUWotckFQRWF0c2RFdmVISjdIMFZaYlRYWmdpV3ktVEdrNEUwNzVsdDZ5Y1A3NzNPZm1iQjl3Uw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-09 23:23  (18 条)
+
+- **周杰伦** | 周杰伦说参加大师赛比开演唱会还紧张，原因是什么？ <https://k.sina.com.cn/article_7879995911_1d5af320706802r1c4.html>
+- **周杰伦** | 周杰伦为何说参赛比演唱会还紧张？ <https://k.sina.com.cn/article_7879995911_1d5af320706802r1bq.html>
+- **周杰伦** | 周杰伦大师赛挑观众双打 笑称比演唱会还紧张 <https://k.sina.com.cn/article_7879995911_1d5af320706802r1be.html>
+- **周杰伦** | 周杰伦跨界大师赛，笑称比演唱会还紧张！ <https://k.sina.com.cn/article_7879995911_1d5af320706802r1ay.html>
+- **周杰伦** | 周杰伦为何说参加赛事比演唱会还紧张？ <https://k.sina.com.cn/article_7879995911_1d5af320706802r1am.html>
+- **周杰伦** | 周杰伦大师赛跨界切磋，自曝比演唱会还紧张 <https://k.sina.com.cn/article_7879995911_1d5af320706802r1ak.html>
+- **周杰伦** | “7天假期赴2场演唱会”，假日消费迎来音乐新引擎 ｜ 黄金周观察 <https://k.sina.com.cn/article_1838672663_6d97eb1702001qstu.html?from=finance>
+- **特朗普** | 特朗普与普京达成协议允俄国出售柴油，泽连斯基批评“送大礼” <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9mWW8xNnZPaHowb3ZIMWlHdXRmRWVlNmxKbkxraEVSOGg1cUl0NV9CSHlTU3d5UFQyaXRXc1FkaWhtWTRGRnpQZzNVV0t2MVBhMXNMYTA3V0xVZ2pwbUxCWUtfZUlTdVXSAWxBVV95cUxPb0ZUTGc5WHlQQzZ6UF9mV3M3dS14Z3UxRTBlRlZyRmxSSnB0bllOZVdRS25YaFRJWldjaXVaa29sbEgwd0JvalZuVTN6V1I0dFdkWG1sVGhySUFxOW5zZnB6XzgweEo0cHplZGg?oc=5>
+- **特朗普** | 特朗普：俄罗斯将立即向美国供应柴油 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5uMk9aeFJvNngxSUtCS2NNelNFQktac0lRQm9MeTZpV3E4aktIMGpRY1ZsOUkzSVZuMHFhYnN2d3I1czNNRWpzU3hnU1Y?oc=5>
+- **特朗普** | 10月10日外盘头条：特朗普称普京同意向全球投放柴油 巴拿马发生70多年来最强地震 <https://news.google.com/rss/articles/CBMihwFBVV95cUxPVXRNSmRVTEs4bDltOV9tTVVsSDhocTkxSHZ1aHA2SDhKdkI5SjdzcURFVTE2QWF6SnZnNEJhclladmdEempiQ0pLQkU4d0k3OUo5S2J3VnRqOWR4dzI5bU50Uy1CeEJ3M3hoVjVCeVEyNjVXaERQdVBVbWxtbmFzRkVTNXozdEE?oc=5>
+- **特朗普** | 公民论坛 - 移民权益专家：特朗普的强硬政策对华裔移民权益影响很大 <https://news.google.com/rss/articles/CBMi1gNBVV95cUxQVmprQVZWb2twRFJ4dkhfcE5lMS0xZ3Yxdmhtc29WYlZBMnA0OGl5VUp3YkRyaG1ZblZVYW1Ua0RBbC1UM18wMms1Z09EOWxhc3NpdWVyRVkwUHZrT2Fjc2RQN1lCMEpnZjBYMG5IQVJTODZwRmVyV09neG9JMHhEOWxQUzU1aXlIbHRUTG5GNzJRYUd6WmEyeHBWYXEydTZYejUzRzhJR2lFYjYzMDE1R0J4Sm93RXFvcXVpMHh1N1dpM3hmMzFjQWdscE1IQVlIWV80WlF1TUFZY3ZIbmgwTmVBMXdQTmc5dWdmMTU4Z2lXSXJqcG1fOEEwMFJqVUhGbjhDV3A5RUFGUEUxZGFIWXpIdWpyeUtFUDhrb1pXZXR3X1ZDNUtfVkJtVnNrNGdqX3lXWktGMmJBbWhxejRYTHVlQV9INDBfbDN3eEdGMDZMb2s4X1pxUHhaeU1OR1VOVHZjRE01UkZwT2NwakNNV2trNEhKdUJLYUw2VGE4aXV5UE9nUkUta0ZMQnNFN3k1d0R5aE1aMVNWbjJEVnFvcUh3akhXYUo5WGswdlV1cWRzenoyVTRqV3N3MUtrTDE4VmdHdHQzZlRibmg1M2U0bTdlRFUzQQ?oc=5>
+- **特朗普** | 特朗普宣布新任白宫新闻秘书人选 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE0tWVliOGxkclIycVZVVXFkWmczUXRrdlFEVzREMGg4Tk9kREwtSnhxSWpiQnE2cDhRSFdQbXYwbFJwcmxtVnZyZW5kTmY?oc=5>
+- **特朗普** | 特朗普官宣新任白宫新闻秘书 <https://news.google.com/rss/articles/CBMieEFVX3lxTE9BTGdDemhVeFZWUzNKNDQ2ZUdZdU5EQWtpaVlvd2RLYzlNS21NZV9uNlF0OUdMa0ItMGhEUHpySGExTXpadlVldFJJZVFnbzhLODM5OUF3Z3NlMDE4MVYzVkg2X1pHYW9SU3pvRzZVMFoySjhUZzFkMg?oc=5>
+- **特朗普** | 特朗普宣布任命凯蒂·扎卡里亚出任白宫新闻秘书 <https://news.google.com/rss/articles/CBMieEFVX3lxTE9BZ1RuMWlvOHFNMGpwSjF0RnNYRnZFUVlxQmxRM0ZwVUQ3VkpHMTM3S3pJcHNFRk9LUWRyWk9MeWlGSVBKRWJRcm53Y1BheFh3RXBYNVk5QTZfNkxEZkZDVUxpcDhISUhlclZpWlpKTVI0N0NnYVY5Yg?oc=5>
+- **特朗普** | 特朗普也“拿奖了”，还称赞马斯克是“当代爱迪生”“国宝” <https://news.google.com/rss/articles/CBMic0FVX3lxTE4wSVhYZWdNcW9aQW81VVBlbmlOWFR1MFpBR3BTTTZnRmFJb0Z0VkZFTXBCNngwUHc4ajZRb0Rsd0E1Sl9zeHFKcklSTllnR1J3MEY2MDg2X3JLUW12aEpiV2FIX3EzSHVNbUZvOTJTbzBYaXc?oc=5>
+- **特朗普** | 特朗普授予马斯克国家科学奖章，表彰太空能源AI贡献 <https://news.google.com/rss/articles/CBMic0FVX3lxTE1UQnFhTDlvLXZ6Z3VwYkVyNTBGX1hHSGZsWVFaY0NVN2xENGRCRTlqRUtOZUNQdUFSVGUwRE5MQnhIaDlyc2RJcEl1X0h5djZpblVvckZQYWtTUTNhMEZ5Q1BzT1kzNWVZdW5INm93ZmpkdWc?oc=5>
+- **特朗普** | 视频|特朗普颁发国家科学奖章，马斯克黄仁勋等科技大佬齐聚，白宫颁奖现场 <https://news.google.com/rss/articles/CBMi-AFBVV95cUxPNFVPOXF4WVBSRERqU2c3cmQycjIwOWg2TWNlc29oSkhIQXBpc2wyVnpZWUs4NFpkV1ViZXVCNk8xWWdrVVo3RFpGcG5jYTdmSS1ZX2k0Yk8xTnIzbHFyVlhOTThRcm5QZ3VqcC1zcE4wZXRsNURPZ3MtLXF0QzRTSDkzREJJaXJQTWJiQ0d4a0EwSkRENkQ1QVFLd1BGbEQxN3JfeU9hYXBqbHVCelNGUXVxMU5ad2pMTV9SS3RfS3hCMUZMOGFiMkV4TWhYaEFwei1CRzdSRm9fLTBOOHZCZmdUMlVqZkFiTko1RnFrTHBBRnptSWloQg?oc=5>
+- **特朗普** | 特朗普设立委员会调查美联储理事库克 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oUVYzN3QxWkZwNmxUbGZHUmNVcW05enVBcDVNRTlaSnBaUWotckFQRWF0c2RFdmVISjdIMFZaYlRYWmdpV3ktVEdrNEUwNzVsdDZ5Y1A3NzNPZm1iQjl3Uw?oc=5>
 
 ### 2026-10-09 19:11  (10 条)
 
