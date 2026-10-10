@@ -1,120 +1,80 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-10 15:29**
-- 本轮扫到 13643 条, 新增 **14** 条
+- 最近更新: **2026-10-10 19:27**
+- 本轮扫到 13650 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (14 条)
+## 本轮新发现 (7 条)
 
-### 蔡徐坤新专辑《deadman》的创作灵感是什么？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mqxc.html>
-
-### 蔡徐坤为何将巡演场地选在剧院？
+### 蔡徐坤新专辑KUN
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mqx8.html>
+- 链接: <https://k.sina.com.cn/article_5556631847_m14b33792705302dtyw.html>
 
-### 蔡徐坤在Bio-E直播中会透露哪些新歌信息？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mqx4.html>
-
-### 周杰伦为BIGBANG台北演唱会送花篮
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_3319858072_mc5e1039803301d83o.html>
-
-### 特朗普新任白宫新闻秘书：曾任职中国知名律所，会讲普通话
+### 特朗普的集会行程包含下周三蒙大拿州一站。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-10 04:12
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5UNmtUM0JMSldTVUlDbGpxbGVYeVRyRm1DMXBqSmttR3lYWU51UjR4NU1HSHNjenhPVXR2aUR1V1o4YnVfRlBwU0d5TjY?oc=5>
+- 场馆: 手机新浪网
+- 时间: 2026-10-10 17:59
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBKVUpPZVN5WEhhRkJXM3BlblFrVkdGUzBVd2VRWS1WbjdjNmhfZjhLa2RsekZMNjgxU3JlSFo5Y1UwS3RuckJCZ19tcw?oc=5>
 
-### 白宫新闻秘书是她，曾在中国工作
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-10-09 23:10
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE95aWpzN2UzQm5IWWZYdUtpVHR1VGp4NXRkR0RuYmRvMm5neXd0QVA5VWt4aGUyNV8zb005YWNEd3NZbDgtRElVaGRqdWdCSzZGbjVWdk9jU0tIYV95QmxfOE1TZVI5RWdRdnJGTi1qRURkQ2c?oc=5>
-
-### 特朗普“画不动”原油K线了
+### 特朗普怒斥泽连斯基 说：“乌克兰该换总统了”！
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-10-09 00:24
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWVJtUXItS3RDNXhXZGZuZk8yZTc3WTRRNklTcFkyZTFRQmFORy0wZmhlRnR6SkN6WkxLY0FxU3AtelozV1NFNk5LM2NNNVpNZGU0akx0a3BGVnlZWFNFTE9uclY3aTc0Q2FpZUF5dTZIbU9adTg4NnNrVU0tTTJNdkJaUmVBc2VFNUxXWXprVzNtVVNLZEE3QjhpanlTb2tLb2lFTkI4MUg5SHV2S0lQamw0dENvdk9DdFQ2WnAzVWhjQ083aHZweThZWmhtbDQt?oc=5>
+- 场馆: RFI
+- 时间: 2026-10-10 18:41
+- 链接: <https://news.google.com/rss/articles/CBMiugJBVV95cUxQVF9WeGF3QnRlQkk4NDZLYWpCMVR3V0xLUi1rREJiaXg4RzFJaS1OaVcxSmoxX1ctV1ZqM1dzZ3JrSGlqUjBxQU5OYkdPRDJVTm5xMnV3ZDI1TzVxbGpnYldFNEFIR2wycFJZVC1wUUlVV3F3Z09lQ0VtZUhBalZBc3VpMTlIc0pPMktoTnVXLTdtWEpGRnI4c180b3N2LWFjSWRnRXhtc2o3QmRpYjQtTkR2V0lLMzBYdXVxVEpmeW0xeXNKdWdBZHUwSmItMVJ6T2tadFVMMHI2M2hQMk9JMXhxb2NLX1U4aVdJZ19LQmdTRExkZUNvMF9KYkNKNjBJY0gySjRwNEVXNWZDdDNyUEhwc2JjMWoyWVlaTFVPRGF6LUdEVXEyUlBOSDlxVWNOVnhmazFpYWZIZw?oc=5>
 
-### 这时间点太巧了！英伟达股票刚卖完 特朗普就给黄仁勋发奖章
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网科技
-- 时间: 2026-10-10 11:43
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFB5QmlCYVR6TnBlNEtXcHFrUDNvem9pcWdEVVF4NlJnMExva2JrOXNPV0Jyd2ZxakZJM1NJcXQtb3VjRnJMeHhrMkpUeFo?oc=5>
-
-### 特朗普授予马斯克国家科学奖章，表彰其重塑太空能源和AI
+### 特朗普大赞马斯克是当代爱迪生！美国国家科学奖全颁给了企业家 特朗普手持6家获奖公司股票
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪网
-- 时间: 2026-10-10 11:29
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5HaW9RWGhrSXZjWmo5R3pSeHRDeXZQZkVsbHRmcWJON3dIT2FrejR4V2JFY3lTRHg4NkoyS3pieGRTbkFwYl9WTVZmQlhvbmN3TXI3WnpoVGxVaG14c3dtMGhZVUhxSVdHamtwRm9JYzlXRmc?oc=5>
+- 时间: 2026-10-09 07:00
+- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxOWU9OSlBqMEc0ZGNHQlAxb3B5bjRaQjBqU1lBaDVZWFBDcVVRTU9zNGJpcTBJZElXWVdwX0hMT0loSzgxWTRJS2lOdFJlQVp4aF8zZENrbmdtRWppcDBpdDVpOHRNWXVRWWNic3lRNHBaWWhzSGI3MUJVd1VoTzRqQ05n?oc=5>
 
-### 特朗普首次整体制裁国际刑事法院 该院院长称不会屈服
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财新
-- 时间: 2026-10-10 11:48
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5Ed19MVGRwSE1wN2V3STlrU1REODNOVEFGXzRqY1RWTWpEVWk0S1hPd0JhcHhLRklPbzV3U3htWDhpRmlORE9NYXUzWW5pdTNwQi1OQi1jaDI4ZXdORFE0UkRvM2RZNVllb0E?oc=5>
-
-### 拳王泰森为特朗普站台 一段复杂友情的见证
+### 特朗普：美国将永远站在顶峰，没有人能与我们竞争
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中华军事
-- 时间: 2026-10-10 05:46
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9tQldIX2kteUtVcVRRMlZzcEtZRVNEQ0hrUHpjQzV0T1g5YTA5MlFrb0llb3FfMGVhNnpjdTdOaU9KaU5kRllEelRVRW11eHQxb3BjNTRVQy1ZX0NnVWtuOTUzcUlCNjh1RWdQRG5DOVI?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-10-10 17:35
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE9wXzk5dzdMbTFvN3dHTVUzZWk0SUVKdUdBWDhyQU5vZldpX25aaVZIazlKTDlMWC04NVhQYUd3SC0wOTFBSExUNXp1WjF4eV9abmhtTGlsbGNPeG9Sbk02SVRSd1FIdDBhVzRObUdLdEVsZw?oc=5>
 
-### 特朗普再图撤换美联储理事库克 下令成立调查委员会
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-10-09 15:03
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ialhJVlQ5R1JSb1JkLW1JX0tuNHpqUHVMa2NQb0RwWlVTZUdjZ0tZUG5SY21xZTBrMzJhTXdXOWhFVE9icnk1aTV6aWVnRlBueVoxSkREVzEtTFIwRDl0X2RLUXlldw?oc=5>
-
-### 俄美元首通电话，特朗普：这是笔大交易
+### 特朗普说先不打伊朗，美军已备好三天打击方案
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-10-10 08:22
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE8zNkxieUVzQnRld3U2bVNOaEh0NnVrc0JXT2FRWnFNYTNVUWlkLWRDVnQzaVhweWZtcUVzMkRRSExzZ2ZVVVhPMDV4U0prbEdsenBTRFpKOWJVZllLMXZHamNmSGFnRnNSb3NlZUxvNmdVN1hpT251TWpxQVJtZEk?oc=5>
+- 场馆: 观察者网
+- 时间: 2026-10-09 02:17
+- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTE00LVNvU0FwaWg0Y1VHdnQxNlpIWERPdHJNbE9jZnp2NUVjcUxxelh5VE05Y1h0WU9QeUx2REFBeEhPSDEtR2E3TFFJS0M4ZTYzZjdUZFY1cWw1aUphYmduSngySQ?oc=5>
 
-### 某巨鲸将114.8万枚TRUMP转入新钱包，持仓一年浮亏939万美元
+### 民主党犹豫了？“弹劾特朗普，相当于给他搭台唱戏”
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: TradingView
-- 时间: 2026-10-07 06:52
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1obzlLVlhoR2tvNE03TnlUWG42OUJCaVd5X0FlOVMyakJfNFNVS2ROYWZGM0F5REZmbEtkUE1OTUo4ejlGeGtxY3I2ZWhSVFlOTWRCS01MZVJJci1wdXA5dmZaR1NTUQ?oc=5>
+- 场馆: 观察者网
+- 时间: 2026-10-09 13:19
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE4yd21mb1FNUXFRRW1UMVhQd2hNeWtPY3N3NWI4WVhjSjBaQ3JjWGJhcmVzWkJVS0tsc2NnNXc5c1h6QXppWnNZeEtMN3FFaDM5WC1GLVRnTHFQWE14S2YtVFliTkJTTXgxQ3E2akdmb0lWTzA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-10 19:27  (7 条)
+
+- **蔡徐坤** | 蔡徐坤新专辑KUN <https://k.sina.com.cn/article_5556631847_m14b33792705302dtyw.html>
+- **特朗普** | 特朗普的集会行程包含下周三蒙大拿州一站。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBKVUpPZVN5WEhhRkJXM3BlblFrVkdGUzBVd2VRWS1WbjdjNmhfZjhLa2RsekZMNjgxU3JlSFo5Y1UwS3RuckJCZ19tcw?oc=5>
+- **特朗普** | 特朗普怒斥泽连斯基 说：“乌克兰该换总统了”！ <https://news.google.com/rss/articles/CBMiugJBVV95cUxQVF9WeGF3QnRlQkk4NDZLYWpCMVR3V0xLUi1rREJiaXg4RzFJaS1OaVcxSmoxX1ctV1ZqM1dzZ3JrSGlqUjBxQU5OYkdPRDJVTm5xMnV3ZDI1TzVxbGpnYldFNEFIR2wycFJZVC1wUUlVV3F3Z09lQ0VtZUhBalZBc3VpMTlIc0pPMktoTnVXLTdtWEpGRnI4c180b3N2LWFjSWRnRXhtc2o3QmRpYjQtTkR2V0lLMzBYdXVxVEpmeW0xeXNKdWdBZHUwSmItMVJ6T2tadFVMMHI2M2hQMk9JMXhxb2NLX1U4aVdJZ19LQmdTRExkZUNvMF9KYkNKNjBJY0gySjRwNEVXNWZDdDNyUEhwc2JjMWoyWVlaTFVPRGF6LUdEVXEyUlBOSDlxVWNOVnhmazFpYWZIZw?oc=5>
+- **特朗普** | 特朗普大赞马斯克是当代爱迪生！美国国家科学奖全颁给了企业家 特朗普手持6家获奖公司股票 <https://news.google.com/rss/articles/CBMiggFBVV95cUxOWU9OSlBqMEc0ZGNHQlAxb3B5bjRaQjBqU1lBaDVZWFBDcVVRTU9zNGJpcTBJZElXWVdwX0hMT0loSzgxWTRJS2lOdFJlQVp4aF8zZENrbmdtRWppcDBpdDVpOHRNWXVRWWNic3lRNHBaWWhzSGI3MUJVd1VoTzRqQ05n?oc=5>
+- **特朗普** | 特朗普：美国将永远站在顶峰，没有人能与我们竞争 <https://news.google.com/rss/articles/CBMickFVX3lxTE9wXzk5dzdMbTFvN3dHTVUzZWk0SUVKdUdBWDhyQU5vZldpX25aaVZIazlKTDlMWC04NVhQYUd3SC0wOTFBSExUNXp1WjF4eV9abmhtTGlsbGNPeG9Sbk02SVRSd1FIdDBhVzRObUdLdEVsZw?oc=5>
+- **特朗普** | 特朗普说先不打伊朗，美军已备好三天打击方案 <https://news.google.com/rss/articles/CBMiY0FVX3lxTE00LVNvU0FwaWg0Y1VHdnQxNlpIWERPdHJNbE9jZnp2NUVjcUxxelh5VE05Y1h0WU9QeUx2REFBeEhPSDEtR2E3TFFJS0M4ZTYzZjdUZFY1cWw1aUphYmduSngySQ?oc=5>
+- **特朗普** | 民主党犹豫了？“弹劾特朗普，相当于给他搭台唱戏” <https://news.google.com/rss/articles/CBMic0FVX3lxTE4yd21mb1FNUXFRRW1UMVhQd2hNeWtPY3N3NWI4WVhjSjBaQ3JjWGJhcmVzWkJVS0tsc2NnNXc5c1h6QXppWnNZeEtMN3FFaDM5WC1GLVRnTHFQWE14S2YtVFliTkJTTXgxQ3E2akdmb0lWTzA?oc=5>
 
 ### 2026-10-10 15:29  (14 条)
 
