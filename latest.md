@@ -1,116 +1,137 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-10 09:17**
-- 本轮扫到 13629 条, 新增 **13** 条
+- 最近更新: **2026-10-10 15:29**
+- 本轮扫到 13643 条, 新增 **14** 条
 
 ---
 
-## 本轮新发现 (13 条)
+## 本轮新发现 (14 条)
 
-### 社会心理学视角深度解析肖战南京演唱会
+### 蔡徐坤新专辑《deadman》的创作灵感是什么？
 
-- 艺人/关键词: **王一博**
+- 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002ssg6.html>
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mqxc.html>
 
-### 二开确定！周杰伦「阳光三亚嘉年华」开抢！
+### 蔡徐坤为何将巡演场地选在剧院？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mqx8.html>
+
+### 蔡徐坤在Bio-E直播中会透露哪些新歌信息？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mqx4.html>
+
+### 周杰伦为BIGBANG台北演唱会送花篮
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://finance.sina.com.cn/wm/2026-10-10/doc-iniutcvm6147886.shtml>
+- 链接: <https://k.sina.com.cn/article_3319858072_mc5e1039803301d83o.html>
 
-### 高市早苗反对特朗普
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: QQ News
-- 时间: 2026-10-09 08:22
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBSZGlxeGhsVGM0cW96d0xMbXJybGdDWXROdndSNlNRMTBCa0o4eXNjcHVIbmZXXzRjZVNKT2pyMmR1WkhmQmxQQUE0eHZwYS1FNEtvRFVKa1hDeUgyaWlFV0wwcGNMQ0dtd3MtRUlETzRPbm5ZTkdaSA?oc=5>
-
-### 特朗普称中期选举前不会攻击伊朗 美伊战事重启风险犹存 局势仍存变数
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-10-10 05:13
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1RbGVuSnJlTWo0THJZNTlpRmVLU0s0NEtRUUY3clVyelNuOURhTENTVUREM285MXNaWUhCbkhseWE5Y3hvZWZSTnZEWlVXUlZLNzIwS3ZURXZ5N0pWMVhDY3haR0Fta09XOWJIT2NHdVQ?oc=5>
-
-### 才一天就改口？特朗普称“可能”中选前对伊朗采取军事行动
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-10-09 22:26
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE1nMWEwZnlHTWxVMk91QWR2NVRURjV3SHEwazV6ZmktYkRMRnJ1aUxlYzVLNy1kNmJGbHQ0RUs0cm9lZGdpYXhhNGFHakJEeXlNZHpj?oc=5>
-
-### 特朗普诺奖又落空很生气 转头制裁国际刑事法院
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-10-10 06:25
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5neXd6dDdudzlYejN4bGdPbFpDbl9NT2NQM0MzR3ozZno0QlFoSm5JT29hRmF3Uno2eGdOWGJuaVNodWxkSE9PcVFGYkdvUkRiUFRiR2l3RmFVQkM1ckNLTlRhYVVXdDBMaEFidFJuOVk?oc=5>
-
-### 特朗普再抱怨未获诺贝尔和平奖：称决定“不光彩”且给委员会留下“污点”
+### 特朗普新任白宫新闻秘书：曾任职中国知名律所，会讲普通话
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-10-10 08:26
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE4wOFVrMmo0aEhMbUxwQzF4bDBLSVIyOFdYUVVGNGVodWxQVXhmVkthTzJ3c3NTM01jY3dLVDZqNXYyemY3SzRYV1ZrcU0?oc=5>
+- 时间: 2026-10-10 04:12
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5UNmtUM0JMSldTVUlDbGpxbGVYeVRyRm1DMXBqSmttR3lYWU51UjR4NU1HSHNjenhPVXR2aUR1V1o4YnVfRlBwU0d5TjY?oc=5>
 
-### 特朗普设立委员会调查美联储理事库克|唐纳德·特朗普|上观新闻|纽约|听证会|经济政策
+### 白宫新闻秘书是她，曾在中国工作
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者网
+- 时间: 2026-10-09 23:10
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE95aWpzN2UzQm5IWWZYdUtpVHR1VGp4NXRkR0RuYmRvMm5neXd0QVA5VWt4aGUyNV8zb005YWNEd3NZbDgtRElVaGRqdWdCSzZGbjVWdk9jU0tIYV95QmxfOE1TZVI5RWdRdnJGTi1qRURkQ2c?oc=5>
+
+### 特朗普“画不动”原油K线了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-10-10 06:48
-- 链接: <https://news.google.com/rss/articles/CBMihgFBVV95cUxQZ2RkTTZBY01LWnd3V3FkcHRxZ28xUUJ6a1YxTk5tYVNtbEFNTlh5Z1BKVjM1c1hpbFpFWmlsdG9lQlgzR0ZBR29QaWo2RE9ycXFmVGtKSmQxV3N1Tm5HcUZUMU9sLW5RbFF2bFlpNG9RWnFBaWltQTdKcldaM0pwd21yVy0xdw?oc=5>
+- 时间: 2026-10-09 00:24
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWVJtUXItS3RDNXhXZGZuZk8yZTc3WTRRNklTcFkyZTFRQmFORy0wZmhlRnR6SkN6WkxLY0FxU3AtelozV1NFNk5LM2NNNVpNZGU0akx0a3BGVnlZWFNFTE9uclY3aTc0Q2FpZUF5dTZIbU9adTg4NnNrVU0tTTJNdkJaUmVBc2VFNUxXWXprVzNtVVNLZEE3QjhpanlTb2tLb2lFTkI4MUg5SHV2S0lQamw0dENvdk9DdFQ2WnAzVWhjQ083aHZweThZWmhtbDQt?oc=5>
 
-### 特朗普任命委员会调查美联储丽莎·库克的陈述
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-10-10 08:52
-- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLVZlVkRnRGhFTkF4V2s2ZmNvS3dqdXNLeTZJeVJSdmgzT3ZBS19wZlVUTV9LTHEwQTFBVlFWbEY2a0dMcjZJdDZEV01tSFZrRUlpc1ZzZ1U1alJTSC1ZX2xEU0NucEN3UjU1NE1NZHZZOC1sNVpWbVdEdjk5LWJQTGJSQXNaV3F2OUhJOGx6bEk4bnpGYWVyTW90aE10c25jUWtTNzQ4bklKQQ?oc=5>
-
-### 新任白宫新闻秘书曾在北京当律师 特朗普钦点的MAGA拥护者
+### 这时间点太巧了！英伟达股票刚卖完 特朗普就给黄仁勋发奖章
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-10-10 07:21
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9BOW5VOHIwbzcyZHd3ZjRXY1lFb0d6VzNOUlNTM1JXWk80MUlGLWloZjQ5R29wdEdHekhmVERLRU1CaDAxX0dldjJvSTNvSTZGaGxxVW5SV2dQdnhMbUlWR3k1OGlEaWdsR2JUSmFBejc?oc=5>
+- 场馆: 凤凰网科技
+- 时间: 2026-10-10 11:43
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFB5QmlCYVR6TnBlNEtXcHFrUDNvem9pcWdEVVF4NlJnMExva2JrOXNPV0Jyd2ZxakZJM1NJcXQtb3VjRnJMeHhrMkpUeFo?oc=5>
 
-### 特朗普宣布任命凯蒂·扎卡里亚出任白宫新闻秘书
+### 特朗普授予马斯克国家科学奖章，表彰其重塑太空能源和AI
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻
-- 时间: 2026-10-09 20:53
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBGdmJIWkV1TXVRU1pLYUhwTUprQ1FEM0Y1dW1VQnBpbm8yeHJ2dk9nTGxjS0FGSkc0N09iTEpMd3FoeDd3cXpqdUxUVmJZZTF6VEd3emdRcVpVZ1paS3VnQXp3TGlLU1FRRURGOWtMdFQ?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-10-10 11:29
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5HaW9RWGhrSXZjWmo5R3pSeHRDeXZQZkVsbHRmcWJON3dIT2FrejR4V2JFY3lTRHg4NkoyS3pieGRTbkFwYl9WTVZmQlhvbmN3TXI3WnpoVGxVaG14c3dtMGhZVUhxSVdHamtwRm9JYzlXRmc?oc=5>
 
-### Trump Strikes Deal With Putin for Russian Diesel
+### 特朗普首次整体制裁国际刑事法院 该院院长称不会屈服
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 财新
+- 时间: 2026-10-10 11:48
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5Ed19MVGRwSE1wN2V3STlrU1REODNOVEFGXzRqY1RWTWpEVWk0S1hPd0JhcHhLRklPbzV3U3htWDhpRmlORE9NYXUzWW5pdTNwQi1OQi1jaDI4ZXdORFE0UkRvM2RZNVllb0E?oc=5>
+
+### 拳王泰森为特朗普站台 一段复杂友情的见证
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华军事
+- 时间: 2026-10-10 05:46
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9tQldIX2kteUtVcVRRMlZzcEtZRVNEQ0hrUHpjQzV0T1g5YTA5MlFrb0llb3FfMGVhNnpjdTdOaU9KaU5kRllEelRVRW11eHQxb3BjNTRVQy1ZX0NnVWtuOTUzcUlCNjh1RWdQRG5DOVI?oc=5>
+
+### 特朗普再图撤换美联储理事库克 下令成立调查委员会
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-10-09 15:03
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ialhJVlQ5R1JSb1JkLW1JX0tuNHpqUHVMa2NQb0RwWlVTZUdjZ0tZUG5SY21xZTBrMzJhTXdXOWhFVE9icnk1aTV6aWVnRlBueVoxSkREVzEtTFIwRDl0X2RLUXlldw?oc=5>
+
+### 俄美元首通电话，特朗普：这是笔大交易
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-10-10 08:22
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE8zNkxieUVzQnRld3U2bVNOaEh0NnVrc0JXT2FRWnFNYTNVUWlkLWRDVnQzaVhweWZtcUVzMkRRSExzZ2ZVVVhPMDV4U0prbEdsenBTRFpKOWJVZllLMXZHamNmSGFnRnNSb3NlZUxvNmdVN1hpT251TWpxQVJtZEk?oc=5>
+
+### 某巨鲸将114.8万枚TRUMP转入新钱包，持仓一年浮亏939万美元
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-10-10 03:10
-- 链接: <https://news.google.com/rss/articles/CBMingFBVV95cUxOblFtb0ktbG1JTmI3TXBWbk1manY4Q204LVplOFpWQVRzOXNncVV1RzA0ajA2bWZHaTJnUjI1cThaNXpVRVFqa3ZiR0FocTZZSVBmMFZCWkZwSW9KUWVYSzJNeVp5c2tLSldaZVROUHlhTHVtYlRWbUlZZHVkVFBQZnpCU1BqOEZXc3kxRUNJMFZkT0xZTDFyeHNsMlNiQQ?oc=5>
-
-### 【一文看懂】特朗普中期选举前暂缓攻击伊朗 背后有何考量？
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-10-10 07:25
-- 链接: <https://news.google.com/rss/articles/CBMibEFVX3lxTE44UUI4d1d5UTZvMklWQndnQkNnNkRZMWNiWklHeUUwMm9yQXJDUlhUZFg1Qld6X2s4QzlZZFR6LVNKbjMwLUNMYVlTXzdnWWw4R2N0ckxGWll6Tm1pdWxFdFlhRE12bk1NeFZXNw?oc=5>
+- 场馆: TradingView
+- 时间: 2026-10-07 06:52
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1obzlLVlhoR2tvNE03TnlUWG42OUJCaVd5X0FlOVMyakJfNFNVS2ROYWZGM0F5REZmbEtkUE1OTUo4ejlGeGtxY3I2ZWhSVFlOTWRCS01MZVJJci1wdXA5dmZaR1NTUQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-10 15:29  (14 条)
+
+- **蔡徐坤** | 蔡徐坤新专辑《deadman》的创作灵感是什么？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mqxc.html>
+- **蔡徐坤** | 蔡徐坤为何将巡演场地选在剧院？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mqx8.html>
+- **蔡徐坤** | 蔡徐坤在Bio-E直播中会透露哪些新歌信息？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mqx4.html>
+- **周杰伦** | 周杰伦为BIGBANG台北演唱会送花篮 <https://k.sina.com.cn/article_3319858072_mc5e1039803301d83o.html>
+- **特朗普** | 特朗普新任白宫新闻秘书：曾任职中国知名律所，会讲普通话 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5UNmtUM0JMSldTVUlDbGpxbGVYeVRyRm1DMXBqSmttR3lYWU51UjR4NU1HSHNjenhPVXR2aUR1V1o4YnVfRlBwU0d5TjY?oc=5>
+- **特朗普** | 白宫新闻秘书是她，曾在中国工作 <https://news.google.com/rss/articles/CBMic0FVX3lxTE95aWpzN2UzQm5IWWZYdUtpVHR1VGp4NXRkR0RuYmRvMm5neXd0QVA5VWt4aGUyNV8zb005YWNEd3NZbDgtRElVaGRqdWdCSzZGbjVWdk9jU0tIYV95QmxfOE1TZVI5RWdRdnJGTi1qRURkQ2c?oc=5>
+- **特朗普** | 特朗普“画不动”原油K线了 <https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWVJtUXItS3RDNXhXZGZuZk8yZTc3WTRRNklTcFkyZTFRQmFORy0wZmhlRnR6SkN6WkxLY0FxU3AtelozV1NFNk5LM2NNNVpNZGU0akx0a3BGVnlZWFNFTE9uclY3aTc0Q2FpZUF5dTZIbU9adTg4NnNrVU0tTTJNdkJaUmVBc2VFNUxXWXprVzNtVVNLZEE3QjhpanlTb2tLb2lFTkI4MUg5SHV2S0lQamw0dENvdk9DdFQ2WnAzVWhjQ083aHZweThZWmhtbDQt?oc=5>
+- **特朗普** | 这时间点太巧了！英伟达股票刚卖完 特朗普就给黄仁勋发奖章 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFB5QmlCYVR6TnBlNEtXcHFrUDNvem9pcWdEVVF4NlJnMExva2JrOXNPV0Jyd2ZxakZJM1NJcXQtb3VjRnJMeHhrMkpUeFo?oc=5>
+- **特朗普** | 特朗普授予马斯克国家科学奖章，表彰其重塑太空能源和AI <https://news.google.com/rss/articles/CBMic0FVX3lxTE5HaW9RWGhrSXZjWmo5R3pSeHRDeXZQZkVsbHRmcWJON3dIT2FrejR4V2JFY3lTRHg4NkoyS3pieGRTbkFwYl9WTVZmQlhvbmN3TXI3WnpoVGxVaG14c3dtMGhZVUhxSVdHamtwRm9JYzlXRmc?oc=5>
+- **特朗普** | 特朗普首次整体制裁国际刑事法院 该院院长称不会屈服 <https://news.google.com/rss/articles/CBMiakFVX3lxTE5Ed19MVGRwSE1wN2V3STlrU1REODNOVEFGXzRqY1RWTWpEVWk0S1hPd0JhcHhLRklPbzV3U3htWDhpRmlORE9NYXUzWW5pdTNwQi1OQi1jaDI4ZXdORFE0UkRvM2RZNVllb0E?oc=5>
+- **特朗普** | 拳王泰森为特朗普站台 一段复杂友情的见证 <https://news.google.com/rss/articles/CBMicEFVX3lxTE9tQldIX2kteUtVcVRRMlZzcEtZRVNEQ0hrUHpjQzV0T1g5YTA5MlFrb0llb3FfMGVhNnpjdTdOaU9KaU5kRllEelRVRW11eHQxb3BjNTRVQy1ZX0NnVWtuOTUzcUlCNjh1RWdQRG5DOVI?oc=5>
+- **特朗普** | 特朗普再图撤换美联储理事库克 下令成立调查委员会 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ialhJVlQ5R1JSb1JkLW1JX0tuNHpqUHVMa2NQb0RwWlVTZUdjZ0tZUG5SY21xZTBrMzJhTXdXOWhFVE9icnk1aTV6aWVnRlBueVoxSkREVzEtTFIwRDl0X2RLUXlldw?oc=5>
+- **特朗普** | 俄美元首通电话，特朗普：这是笔大交易 <https://news.google.com/rss/articles/CBMif0FVX3lxTE8zNkxieUVzQnRld3U2bVNOaEh0NnVrc0JXT2FRWnFNYTNVUWlkLWRDVnQzaVhweWZtcUVzMkRRSExzZ2ZVVVhPMDV4U0prbEdsenBTRFpKOWJVZllLMXZHamNmSGFnRnNSb3NlZUxvNmdVN1hpT251TWpxQVJtZEk?oc=5>
+- **Trump** | 某巨鲸将114.8万枚TRUMP转入新钱包，持仓一年浮亏939万美元 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1obzlLVlhoR2tvNE03TnlUWG42OUJCaVd5X0FlOVMyakJfNFNVS2ROYWZGM0F5REZmbEtkUE1OTUo4ejlGeGtxY3I2ZWhSVFlOTWRCS01MZVJJci1wdXA5dmZaR1NTUQ?oc=5>
 
 ### 2026-10-10 09:17  (13 条)
 
