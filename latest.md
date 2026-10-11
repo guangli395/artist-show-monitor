@@ -1,128 +1,157 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-11 07:39**
-- 本轮扫到 13685 条, 新增 **15** 条
+- 最近更新: **2026-10-11 14:33**
+- 本轮扫到 13701 条, 新增 **16** 条
 
 ---
 
-## 本轮新发现 (15 条)
+## 本轮新发现 (16 条)
 
-### 周杰伦今后演唱会如何调整曲目和嘉宾安排
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mrxy.html>
-
-### 周杰伦演唱会唱不够90分钟引热议，本尊回应欢迎监督
+### 周杰伦于文文，海南演唱会开票时间→
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mrxw.html>
+- 链接: <https://k.sina.com.cn/article_2049018647_7a218b1701901n014.html>
 
-### 二开确定！周杰伦「阳光三亚嘉年华」开抢！
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1805420500_6b9c87d4019027x8m.html>
-
-### 周杰伦于文文，演唱会开票时间→
+### 太阳在演唱会上透露周杰伦送了凤梨酥，还用中文喊话：“谢谢大哥~”
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://finance.sina.com.cn/wm/2026-10-11/doc-iniuvtkm7390882.shtml>
+- 链接: <https://k.sina.com.cn/article_2305162912_m8965fea003301cjr0.html>
 
-### 特朗普敦促乌克兰举行选举
+### 黄金甲 (Live) 2007世界巡回演唱会----周杰伦 和声版伴奏
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-10-11 02:45
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1TUUpWckxPRU1GNDE4WFJ2RVFISlkzNS1fdjc3TmRnZmdBUk0tNmwtTG9iMHR0UjNSbDBjYUMwaWFLZWFkU0JCOVRTc0Rpd0JtU3FKaUljNzhYeUZheEZaUnVhU2pFMlpPY0dXcjd0V0JzRlVJb0Fvb0JycDNBMGM?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://video.sina.com.cn/p/finance/2026-10-10/detail-iniutyyz2031473.d.html>
 
-### 特朗普提议：把太平洋或大西洋改名为“特朗普洋”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-11 06:30
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9hc2NDTWpIQzdDM3ktSk53NDlLaGR6VE5YU2ZsV0luN2h3N1Y1NUZXVUxHRnJhd3dCWUxDR2tHeFViYl9Ed0tjc1hfdUg?oc=5>
-
-### 特朗普：美国可能加入沙特打击也门胡塞武装行动
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-10-10 20:35
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE5iZ0pPT1N4T0x5MGVuYWZHNXZhV3U1Ry1YRkgtdGd4WjJNeDlYV2g5czlmZjkyVU5kTkRxNDZlNl9odGUyMmFERllNNExsYldTcnlLYWxSQU5ES1BSRl91aHVVVzNtNjk2VXRzVzJKbHB1N05CRjR0NTBPV2xVRmc?oc=5>
-
-### 美国会加入打击胡塞吗？特朗普：可能会，尽快决定
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-10-11 06:57
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE8zUjhIbUEyZy1vRDh2VS15TE1XeFdFd052eFdaMXBjN3VnQUcyMGZLUGhKUXFyczVCWWxhT0pzMTNPYXNxX3ZPeWt3TWVXOWJ1MThKczlXVk04Ri1GX0FvWm56RmZScDhtTFZvYmxmV1NXZ2duYVNJQQ?oc=5>
-
-### 特朗普继续含糊：还没决定是否直播处决，但这样做能以儆效尤
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-10 23:25
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1DazBZeTIwWnYwYURpUzFneEJlVnVOUThaQktjU2VVcVMtbUVLbkVGM2tCOXVqaGVBd3BWSlpYVHBDQndSSzVocnBfV00?oc=5>
-
-### 美媒：特朗普称，他将“最终决定”是否直播胡德堡基地枪击案罪犯枪决过程
+### 美国总统特朗普：能源停火协议立即生效
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 手机新浪网
-- 时间: 2026-10-11 01:57
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBDMnM3aGJxWHQ0R3FfdGtscjZNdF92MW11bTFfYlVpQnB3R0MtTmJKUXo1ajM5cUx3amhJRF9oR1RVVTNrdHp6UjdENA?oc=5>
+- 时间: 2026-10-11 14:19
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBpaXdfazg0d2RqMWxobGdPLTFkRXJac0ItZ21iTW5mYlkzX01vaHNLVkdyZGtLUkdOQ0JuYlZtc3d2TTBLcFBPcmNUMA?oc=5>
 
-### 美媒：特朗普称，他将“最终决定”是否直播胡德堡基地枪击案罪犯枪决过程
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 环球网
-- 时间: 2026-10-10 10:55
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3VTFKNUhWaGEyV1RRMzU4R0xMT0lTUDZpLTFfaUtSLVJGaTkxSm9JcGhHZGpTSmVIZkFEOUxHQXZpZzFSOXNkUGFBMVowQ01lendCWjZDSmI?oc=5>
-
-### AI变SI：特朗普执意更名为哪般？
+### 美国会加入打击胡塞吗？特朗普：可能会，尽快决定(含视频)|胡塞武装|也门政府军|唐纳德·特朗普|石油|沙特
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: DW.com
-- 时间: 2026-10-11 06:43
-- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMHJTYnB0WDZvOUFwZENfS056NVFtNlNwRjVIemtIT2ZpSV9jZWczWV85ZE5UcVFGSjhRdElUTWFueXYzbkMzcTRTTVNWVzFUZ1Nwd1J2Q1dwelpjRlVRU3NoRDQ0dGVicXpvWlBubUh2Y2UzNHZGaXdZakRtejZCR2lNaU9SMm1ZV0E1X2sxeDkyR0drdjg4YTdaekctUm54WTdPWDBGOHo2Uk9Rc3VYa0lVdVV4NkNpMld2b1Ztd3R6aU1taHpMZVI5a3BCdUJ4LWfSAdIBQVVfeXFMTmZwamVlN29Mem9Da2hIZnQzMzhRYzFVbmdXTGlrc2tTbFFZTkhsY1JFb25TZ0tpMnZxdmZrdXhUd3lHOTl2Sl91Z2ZRcXd2NG9yQVk3MGpuN2ZxdGdNa2FvUEpUeHpnc2RsSkNqa2FJV28td1dkenl6Z3hmWEZEN2xUaHJmSGR1TkJWOERqX2JLZWVETjRHbnljZzFxSDk5QlByZnVRTlpLenROU0Q0UmMtNVV5Skh2MkMtSzhJNGt6T2MzRlBDeFhnWUpWWS1vakdB?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-10-11 13:19
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1nMXlGcXMtRnUzMkw4VVZ5d2xNemRXelBaTkhieEdSZkVXUmx3elB2ZkRTX2RrZEFPQjg2QjVjbXhSYzVReHNvazI5aTNkZmdjZlFaUGZRa2lYeEZVbFlTUWkxYm1uRzRIZnR0U1BnYzY?oc=5>
 
-### 因未获和平奖恼羞成怒 特朗普炮轰挪威
+### 特朗普：将考虑加入沙特打击胡塞武装的行动
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-10-11 14:13
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxPdUhSS2U2a0RLancyVENpNjgtNkFtRXJodGdGZlEzMlZBOFFsdGk2OUxvdWszN0JnczdCSDZ3VmdBaWFyMFl4WDdFVzVXbmZuVzZKa1JUM095TGs4WXpfUlpjaVNOOURWaWpyd3RaOXBweTMzb0t2S2hCb0xRcE1wSGdWM2dCXzQ?oc=5>
+
+### 这时间点太巧了！英伟达股票刚卖完 特朗普就给黄仁勋发奖章
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 驱动之家
+- 时间: 2026-10-10 11:43
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE9LNE50Y29pR2pEejZ4ZklUc1FnMWh5VXYwMVhER00xbHlzTjNzNUFwU3V4c2lxd1psbng5M3ZSNW14U2Itemdkekh4cFNPdklBeDNNcG56dl8?oc=5>
+
+### 特朗普：俄乌双方同意“能源停火”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新京报
+- 时间: 2026-10-11 14:30
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE00aVZqaGdmc2VTMkpQN1hSY1MweWRVbGRFR09JZXM2V3loTC14RUI5RUZpSUVYZGtBUHZNWDU3T0JMempHTDJaNTNwTFIxZmMzenN0Y055LW9wcmlzdkJuaDdlc20?oc=5>
+
+### 又吹上了！特朗普提议将太平洋或大西洋更名为 “特朗普洋”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: ThePaper.cn
+- 时间: 2026-10-11 11:08
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JTXVVRVJqT0NrM3Q4a0VUWE9ld0c4Sm1qQ0s3QXNvTUlQcGNXQ3ZkNi11dFJISFZmclFZSkx0dkdVeXlMaUJ4SzZoOUNSREYyNm5BbWpRZ2JiRWNmakFxeg?oc=5>
+
+### 美媒：特朗普这是在求弹劾
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 文学城
+- 时间: 2026-10-11 05:15
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ISTU2M1FqamdLaGlTVjA5NHIyaUduN3FHaVRfSDYyTE9teHpmNGpfUGtZVVVFRzY2WndjTlhXMkY0VU9QRmo0NVVoM2FhSmZqeEt3ZGotTGNzdU8wV2JqOWlYQjZWZmpU?oc=5>
+
+### 特朗普宣布任命凯蒂·扎卡里亚出任白宫新闻秘书
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻
+- 时间: 2026-10-09 20:53
+- 链接: <https://news.google.com/rss/articles/CBMi-wNBVV95cUxNNGx4SkIxbGppVHl6Vi1DRF90bTFLSkszcG53V1huZjk3ckk3R01rLXVOQ09XYTcwem5lVjRaNm1jNjU3dXZXV1NseUY1X0tlU2sxNFd2bTRIUnJFQVRkNm9iMTV6dXBSX3NZaUlBTzJETjFiSXFOYmw1bkUtT3YxX2k0cTUzY1pqa3MxTGpsVWJWRlZ2UEV2SU03WXlUb2huZXdWeUJiVTNjTjByT2ZZNmMxR015S3F6VGpsZS0tTTJrUURjX2tPMHJ0OXZWbWVSRm5EQXVrajNmb1FHVGRJdF9RaXZDckRoZjNUUVVZUDY3UzBHTE5fZHVkTWstMXNTZGZ0LWY5dWsybW5rVUtpSTY4THBoRXlxWVY5dEVhdEloMUk4Ujdma3VOaDZPd0hxaVpBaGFxd1h5dGQ1ZlpKbGZjTEN5UWVUWFRzVTRnX01ZRUJlT3kwbjd4NzBqUC1GYllyNGtMUFZzTDBPeHdRaHk0NTlSc0k4alJmQ0h4SWtVaE8tTkl6WGhMc1hicVVSbGNqWUdlcTVkQWZNUUphVjFJbWgxODJOODF3RS14S3JlU0tCUmpiOHBYY0ttOGY5ZTZVVWQxN2xIZFNlc1BONFBZVnNMMFZnek4yUUJlazk4S0RZM3ZubWJvQ1ZwT1FvZGVvbVE0b0JYTXc?oc=5>
+
+### 特朗普新任白宫新闻秘书曾在北京工作两年 会讲中文
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 联合早报
-- 时间: 2026-10-10 06:48
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE11WHdTdmhHeENNSVJtdmlGZllhZ1ZqOWlmRWRaeV80X3RYS3hIQnZzb0l3SHc1aUw3RHVtQ0loUEY1R28tel9HMmtxWFBjdlNCU0ZWM0llY3RUZWlmTk9tcGE5Qk5MZw?oc=5>
+- 时间: 2026-10-11 13:20
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE0yZmUxN3d6NTFmbXV0bHc5aW13TDNoTms2MVVKdnBLNVdPRFFVYzh0MnhHajVQX1daLWV4QjZVQ1lDRUxCMUpGYlpnMGZuTUtlZ1lmamJCa2Z0UjRnZ2FKMnUyQUo2dDFDSmc?oc=5>
 
-### 诺奖没给特朗普，严重后果来了
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-09 23:08
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBSUEhhaVFjU3BJZTBRVUVaMWVhS0prSGFoRUFhaEdxaF9wVUdvV1BJTG0xUUJXWTlxTlBxRXg3c2JjSlZycjlFY1l5YUc?oc=5>
-
-### 特朗普向马斯克颁发国家科学奖章，称马斯克是当代爱迪生，还将马斯克称作“国家瑰宝”
+### 泽连斯基谴责美俄柴油交易，特朗普称“乌克兰该换总统了”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-10-11 04:08
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1nbXdiWkh4S1JlUExkcFBwdTNKQ1pnb1hrcW8wTWlKSEZEVzN5SmJqZG1PR3dlUWE2M0VNazAwSFdsZVQ5MXJfQjVJZzAtdkZ6OE1ETFZnbmE0NEZtTFVzbFpSY1AwZjdHd1JhQ3VYYmo4eGc?oc=5>
+- 场馆: BBC
+- 时间: 2026-10-11 07:14
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAwTVlYUHhJc21CMnZmcmN2VVdva0dTOFNwVHRURS16WG1GTHlDbm1TSVBjVFU1YmpzcUhZRXNJZmJCeXBCSmhEdHhXRS1mWXRXVEs3YUxqeU4yTnRzVkYxZFlHWjZYNFHSAWxBVV95cUxOTzc1MFNfMnAtOVBYWEhfSGI5UmtMdGJnb0hLbXcxeGdfaG9RYWZSRDE3c0J5V2NFaWgtU1hEd0gtVlBQRTNFX2N3dmFJVHVwcHJIakxoNElKa3VQRzR5NTVXdnV6TW5NMF9Nc1E?oc=5>
+
+### 面对特朗普压力 泽连斯基指任何缓和局势步骤都须对等 德外长重申支持
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-10-11 13:17
+- 链接: <https://news.google.com/rss/articles/CBMi1gNBVV95cUxPTmMwRnJpRXlUNHJBRnVNTl9FRnlabkF4c2NxNE1najRuZU9xVWtjbUZzOElLTHZpZzQzOU5vUGlVdmFWTjZLaVk2YTc4NWt0U2ZLbDJEaWtFRXoyM0VjdjUyNjM0SW5nQUMwZm9lREU5bFFzU0FJRFFmOVFXaDIxQmVycERxTV9UUGdOYkNvUTdJazNwcWFiYTRuVy1vd3FTWVRUUW8yVnQ0akJmSkItdEpqYUMzTW1pT1J5SzdNT3UwSnFTRmdZOG90cFh3Z2hHaUNWMlRjbkJVT1BYUkt0REh5SDhjUEhqSkdKcHprcHZ3MHhYZmp3dTFuSENaamNHWXBKTXNsa3B4WkZacDNqSDE0dWhMYlQ1TllJOVVTa0lIeHZhX01WaUNSU0ZGZDNPR2x6Q2F1endjbWNqSVFQX3RIencyUnJGT3hqZ19DdUpqZU8wMkowS0pHa2xJWXN6ZV91ZkljbmJoUkRKN25EcWZSZTNGV003M19Sa0p1aWJHek5vQkRkSV9BcHpuLUw1T2hTbWJrSkhxcXdON0tmUzdjNlJJTDdBVWdKY0lHdExnMGtlMEJTbUZ1dExINkZvYnJwRmdJN0gwQlY1dTNlaWVWZkI5dw?oc=5>
+
+### Oil Prices Steady After Trump Appears to Rule Out Iran Strikes Before Midterms
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-10-09 06:01
+- 链接: <https://news.google.com/rss/articles/CBMipgFBVV95cUxPTWl3OHBsYTFFNEc3bFkwajNNZjhRUWg4OFRIdkYxWXNIdUtNbi02MHhtRG43ejhmZG82cUtPYmgzNGJqajhSaW1lYkhtMWdSdUZqV29IN2tmZ2dZdXhRMWE0UzB3RVBjNm9FQWJ5QjVPRmVGSEs4Vkx1a2dFTml6VVM3M0dxMm9PdFV1TG9DdFVtN1VKSG9peDhGa1Vfal9nTWQtd1F3?oc=5>
+
+### 多名共和党议员反对特朗普的美俄柴油协议 民主党舒默批“与魔鬼做交易”
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-10-11 09:41
+- 链接: <https://news.google.com/rss/articles/CBMi7gNBVV95cUxNbTR1dTlSY2s2S3lzUjZLSVR2X0FZcDNTb3R6UE9sczRYSmc1V3JVVU05akI3Ymt4WjMtckpvSVY2aTlPd0hfbVlwSjN2emptVkozVlpoUW11ZWdVUE9CNXAyd2QtbldpUVRwVXhsMmozZERsSThTNWtrYXFhYnFDVU1ac0FsenoxTURlNW9FSFpJUWpUSzZNZWZnT29tc3dmUmJRTV9KSUFpdDZ0ZW05TGJoRUdFSUY3REIwcEpiLVJjQTF2WklvRFdVYWhEbXpZRWxLRnFiTVVDMFhIbktsOVhOUTdGRjRhTWFyQWwtM1EzSU5FQmtNbDl4VjhGS1pON0hFRUltZzdKaENVMTN2OE9hY2d6Yk5rUlh1T3NqeGxraXVNSnBuWGE4WkktWG10MmV0VjhaTlVNeUZNeWZxcVRHdFFvV21jX1NuWmNja096NUdiT1BKSmZsb3RYQ3RNYmVYRVZCdXczUVZoTHFPUDRzYTBMeGg5aTJNZk5SUXZ4LTV4OGdOVnJ3R0tlOXBDbzE1U3RnRXp5Vm5LZ2xNeWNPNXVOeHlwbllSc0ZwWE52elN6S3lwVmY0RzFMMEpXSnFFTVU1cHdPVWlEUUk2d3ZHeE1TZElsSFJuZVJUQkt4WXhfSTFCXzRZNHk3Zw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-11 14:33  (16 条)
+
+- **周杰伦** | 周杰伦于文文，海南演唱会开票时间→ <https://k.sina.com.cn/article_2049018647_7a218b1701901n014.html>
+- **周杰伦** | 太阳在演唱会上透露周杰伦送了凤梨酥，还用中文喊话：“谢谢大哥~” <https://k.sina.com.cn/article_2305162912_m8965fea003301cjr0.html>
+- **周杰伦** | 黄金甲 (Live) 2007世界巡回演唱会----周杰伦 和声版伴奏 <https://video.sina.com.cn/p/finance/2026-10-10/detail-iniutyyz2031473.d.html>
+- **特朗普** | 美国总统特朗普：能源停火协议立即生效 <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBpaXdfazg0d2RqMWxobGdPLTFkRXJac0ItZ21iTW5mYlkzX01vaHNLVkdyZGtLUkdOQ0JuYlZtc3d2TTBLcFBPcmNUMA?oc=5>
+- **特朗普** | 美国会加入打击胡塞吗？特朗普：可能会，尽快决定(含视频)|胡塞武装|也门政府军|唐纳德·特朗普|石油|沙特 <https://news.google.com/rss/articles/CBMicEFVX3lxTE1nMXlGcXMtRnUzMkw4VVZ5d2xNemRXelBaTkhieEdSZkVXUmx3elB2ZkRTX2RrZEFPQjg2QjVjbXhSYzVReHNvazI5aTNkZmdjZlFaUGZRa2lYeEZVbFlTUWkxYm1uRzRIZnR0U1BnYzY?oc=5>
+- **特朗普** | 特朗普：将考虑加入沙特打击胡塞武装的行动 <https://news.google.com/rss/articles/CBMihwFBVV95cUxPdUhSS2U2a0RLancyVENpNjgtNkFtRXJodGdGZlEzMlZBOFFsdGk2OUxvdWszN0JnczdCSDZ3VmdBaWFyMFl4WDdFVzVXbmZuVzZKa1JUM095TGs4WXpfUlpjaVNOOURWaWpyd3RaOXBweTMzb0t2S2hCb0xRcE1wSGdWM2dCXzQ?oc=5>
+- **特朗普** | 这时间点太巧了！英伟达股票刚卖完 特朗普就给黄仁勋发奖章 <https://news.google.com/rss/articles/CBMiWEFVX3lxTE9LNE50Y29pR2pEejZ4ZklUc1FnMWh5VXYwMVhER00xbHlzTjNzNUFwU3V4c2lxd1psbng5M3ZSNW14U2Itemdkekh4cFNPdklBeDNNcG56dl8?oc=5>
+- **特朗普** | 特朗普：俄乌双方同意“能源停火” <https://news.google.com/rss/articles/CBMiZEFVX3lxTE00aVZqaGdmc2VTMkpQN1hSY1MweWRVbGRFR09JZXM2V3loTC14RUI5RUZpSUVYZGtBUHZNWDU3T0JMempHTDJaNTNwTFIxZmMzenN0Y055LW9wcmlzdkJuaDdlc20?oc=5>
+- **特朗普** | 又吹上了！特朗普提议将太平洋或大西洋更名为 “特朗普洋” <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JTXVVRVJqT0NrM3Q4a0VUWE9ld0c4Sm1qQ0s3QXNvTUlQcGNXQ3ZkNi11dFJISFZmclFZSkx0dkdVeXlMaUJ4SzZoOUNSREYyNm5BbWpRZ2JiRWNmakFxeg?oc=5>
+- **特朗普** | 美媒：特朗普这是在求弹劾 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ISTU2M1FqamdLaGlTVjA5NHIyaUduN3FHaVRfSDYyTE9teHpmNGpfUGtZVVVFRzY2WndjTlhXMkY0VU9QRmo0NVVoM2FhSmZqeEt3ZGotTGNzdU8wV2JqOWlYQjZWZmpU?oc=5>
+- **特朗普** | 特朗普宣布任命凯蒂·扎卡里亚出任白宫新闻秘书 <https://news.google.com/rss/articles/CBMi-wNBVV95cUxNNGx4SkIxbGppVHl6Vi1DRF90bTFLSkszcG53V1huZjk3ckk3R01rLXVOQ09XYTcwem5lVjRaNm1jNjU3dXZXV1NseUY1X0tlU2sxNFd2bTRIUnJFQVRkNm9iMTV6dXBSX3NZaUlBTzJETjFiSXFOYmw1bkUtT3YxX2k0cTUzY1pqa3MxTGpsVWJWRlZ2UEV2SU03WXlUb2huZXdWeUJiVTNjTjByT2ZZNmMxR015S3F6VGpsZS0tTTJrUURjX2tPMHJ0OXZWbWVSRm5EQXVrajNmb1FHVGRJdF9RaXZDckRoZjNUUVVZUDY3UzBHTE5fZHVkTWstMXNTZGZ0LWY5dWsybW5rVUtpSTY4THBoRXlxWVY5dEVhdEloMUk4Ujdma3VOaDZPd0hxaVpBaGFxd1h5dGQ1ZlpKbGZjTEN5UWVUWFRzVTRnX01ZRUJlT3kwbjd4NzBqUC1GYllyNGtMUFZzTDBPeHdRaHk0NTlSc0k4alJmQ0h4SWtVaE8tTkl6WGhMc1hicVVSbGNqWUdlcTVkQWZNUUphVjFJbWgxODJOODF3RS14S3JlU0tCUmpiOHBYY0ttOGY5ZTZVVWQxN2xIZFNlc1BONFBZVnNMMFZnek4yUUJlazk4S0RZM3ZubWJvQ1ZwT1FvZGVvbVE0b0JYTXc?oc=5>
+- **特朗普** | 特朗普新任白宫新闻秘书曾在北京工作两年 会讲中文 <https://news.google.com/rss/articles/CBMiakFVX3lxTE0yZmUxN3d6NTFmbXV0bHc5aW13TDNoTms2MVVKdnBLNVdPRFFVYzh0MnhHajVQX1daLWV4QjZVQ1lDRUxCMUpGYlpnMGZuTUtlZ1lmamJCa2Z0UjRnZ2FKMnUyQUo2dDFDSmc?oc=5>
+- **特朗普** | 泽连斯基谴责美俄柴油交易，特朗普称“乌克兰该换总统了” <https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAwTVlYUHhJc21CMnZmcmN2VVdva0dTOFNwVHRURS16WG1GTHlDbm1TSVBjVFU1YmpzcUhZRXNJZmJCeXBCSmhEdHhXRS1mWXRXVEs3YUxqeU4yTnRzVkYxZFlHWjZYNFHSAWxBVV95cUxOTzc1MFNfMnAtOVBYWEhfSGI5UmtMdGJnb0hLbXcxeGdfaG9RYWZSRDE3c0J5V2NFaWgtU1hEd0gtVlBQRTNFX2N3dmFJVHVwcHJIakxoNElKa3VQRzR5NTVXdnV6TW5NMF9Nc1E?oc=5>
+- **Trump** | 面对特朗普压力 泽连斯基指任何缓和局势步骤都须对等 德外长重申支持 <https://news.google.com/rss/articles/CBMi1gNBVV95cUxPTmMwRnJpRXlUNHJBRnVNTl9FRnlabkF4c2NxNE1najRuZU9xVWtjbUZzOElLTHZpZzQzOU5vUGlVdmFWTjZLaVk2YTc4NWt0U2ZLbDJEaWtFRXoyM0VjdjUyNjM0SW5nQUMwZm9lREU5bFFzU0FJRFFmOVFXaDIxQmVycERxTV9UUGdOYkNvUTdJazNwcWFiYTRuVy1vd3FTWVRUUW8yVnQ0akJmSkItdEpqYUMzTW1pT1J5SzdNT3UwSnFTRmdZOG90cFh3Z2hHaUNWMlRjbkJVT1BYUkt0REh5SDhjUEhqSkdKcHprcHZ3MHhYZmp3dTFuSENaamNHWXBKTXNsa3B4WkZacDNqSDE0dWhMYlQ1TllJOVVTa0lIeHZhX01WaUNSU0ZGZDNPR2x6Q2F1endjbWNqSVFQX3RIencyUnJGT3hqZ19DdUpqZU8wMkowS0pHa2xJWXN6ZV91ZkljbmJoUkRKN25EcWZSZTNGV003M19Sa0p1aWJHek5vQkRkSV9BcHpuLUw1T2hTbWJrSkhxcXdON0tmUzdjNlJJTDdBVWdKY0lHdExnMGtlMEJTbUZ1dExINkZvYnJwRmdJN0gwQlY1dTNlaWVWZkI5dw?oc=5>
+- **Trump** | Oil Prices Steady After Trump Appears to Rule Out Iran Strikes Before Midterms <https://news.google.com/rss/articles/CBMipgFBVV95cUxPTWl3OHBsYTFFNEc3bFkwajNNZjhRUWg4OFRIdkYxWXNIdUtNbi02MHhtRG43ejhmZG82cUtPYmgzNGJqajhSaW1lYkhtMWdSdUZqV29IN2tmZ2dZdXhRMWE0UzB3RVBjNm9FQWJ5QjVPRmVGSEs4Vkx1a2dFTml6VVM3M0dxMm9PdFV1TG9DdFVtN1VKSG9peDhGa1Vfal9nTWQtd1F3?oc=5>
+- **Trump** | 多名共和党议员反对特朗普的美俄柴油协议 民主党舒默批“与魔鬼做交易” <https://news.google.com/rss/articles/CBMi7gNBVV95cUxNbTR1dTlSY2s2S3lzUjZLSVR2X0FZcDNTb3R6UE9sczRYSmc1V3JVVU05akI3Ymt4WjMtckpvSVY2aTlPd0hfbVlwSjN2emptVkozVlpoUW11ZWdVUE9CNXAyd2QtbldpUVRwVXhsMmozZERsSThTNWtrYXFhYnFDVU1ac0FsenoxTURlNW9FSFpJUWpUSzZNZWZnT29tc3dmUmJRTV9KSUFpdDZ0ZW05TGJoRUdFSUY3REIwcEpiLVJjQTF2WklvRFdVYWhEbXpZRWxLRnFiTVVDMFhIbktsOVhOUTdGRjRhTWFyQWwtM1EzSU5FQmtNbDl4VjhGS1pON0hFRUltZzdKaENVMTN2OE9hY2d6Yk5rUlh1T3NqeGxraXVNSnBuWGE4WkktWG10MmV0VjhaTlVNeUZNeWZxcVRHdFFvV21jX1NuWmNja096NUdiT1BKSmZsb3RYQ3RNYmVYRVZCdXczUVZoTHFPUDRzYTBMeGg5aTJNZk5SUXZ4LTV4OGdOVnJ3R0tlOXBDbzE1U3RnRXp5Vm5LZ2xNeWNPNXVOeHlwbllSc0ZwWE52elN6S3lwVmY0RzFMMEpXSnFFTVU1cHdPVWlEUUk2d3ZHeE1TZElsSFJuZVJUQkt4WXhfSTFCXzRZNHk3Zw?oc=5>
 
 ### 2026-10-11 07:39  (15 条)
 
