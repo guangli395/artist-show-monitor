@@ -1,72 +1,146 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-11 01:28**
-- 本轮扫到 13670 条, 新增 **7** 条
+- 最近更新: **2026-10-11 07:39**
+- 本轮扫到 13685 条, 新增 **15** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (15 条)
 
-### 特朗普据报促中日领导人会面 学者：意在安抚盟友 对话恐难成
+### 周杰伦今后演唱会如何调整曲目和嘉宾安排
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mrxy.html>
+
+### 周杰伦演唱会唱不够90分钟引热议，本尊回应欢迎监督
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mrxw.html>
+
+### 二开确定！周杰伦「阳光三亚嘉年华」开抢！
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1805420500_6b9c87d4019027x8m.html>
+
+### 周杰伦于文文，演唱会开票时间→
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://finance.sina.com.cn/wm/2026-10-11/doc-iniuvtkm7390882.shtml>
+
+### 特朗普敦促乌克兰举行选举
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-10-08 13:39
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4cUlDb25rWVVxaGh5M2FrWUJRbDAtZjdGdFpVaW9pdG1QTWZNWXN0N1dTNlNCMFdjeUtNX3VnV3NpUGhvNlIwUE81Mm1NNGRBOFpmY3hDckdBeFp6Z2N3aURid0RwZw?oc=5>
+- 场馆: 新华网
+- 时间: 2026-10-11 02:45
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1TUUpWckxPRU1GNDE4WFJ2RVFISlkzNS1fdjc3TmRnZmdBUk0tNmwtTG9iMHR0UjNSbDBjYUMwaWFLZWFkU0JCOVRTc0Rpd0JtU3FKaUljNzhYeUZheEZaUnVhU2pFMlpPY0dXcjd0V0JzRlVJb0Fvb0JycDNBMGM?oc=5>
 
-### 提示：特朗普结束讲话。
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-10-11 00:15
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ZeTRkaVdzYWRsbWh5TG1KWVBxaTkydm1FNGVFa0pRMi1wU1A5bVV5YmRXWVl4LU5La2d4c3BxQjYxMVU1eVFpekFsWQ?oc=5>
-
-### 泽连斯基：特朗普与普京达成的柴油协议“既不公正，也不坦诚”
+### 特朗普提议：把太平洋或大西洋改名为“特朗普洋”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-10-09 23:31
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxQU0ljSGFRd0FveEE0S0FsTjZMVWdhOU11RXVvQXBzWXZEX1Y1N1BHWTFVUTQ0UDdvRlpCeGhCMlB1NVViTUFDS29XMGozVFFBcmZYUUxwVmtfYXFNNERfR09mRWQ5SmhqckpvcXJkcUJzQVdONGk2amJmZTRvRXB6MmlKTzlsX0U?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-10-11 06:30
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9hc2NDTWpIQzdDM3ktSk53NDlLaGR6VE5YU2ZsV0luN2h3N1Y1NUZXVUxHRnJhd3dCWUxDR2tHeFViYl9Ed0tjc1hfdUg?oc=5>
 
 ### 特朗普：美国可能加入沙特打击也门胡塞武装行动
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-10-10 22:32
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE8zVWlzalFTS21aRkRVM2hEd1hrSUFaMklwcFZsODhROVA2TlZUWTJBRE9xUmJwbHNySjFmWExoZWFGTjl5WUxBZkxvVUdjbkdEclA4NjdOUTE4ZG5kcHg1ejE2Vjg4X1V4dHdZWndEZ1pGVnoxa1VMZg?oc=5>
+- 场馆: 新华网
+- 时间: 2026-10-10 20:35
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE5iZ0pPT1N4T0x5MGVuYWZHNXZhV3U1Ry1YRkgtdGd4WjJNeDlYV2g5czlmZjkyVU5kTkRxNDZlNl9odGUyMmFERllNNExsYldTcnlLYWxSQU5ES1BSRl91aHVVVzNtNjk2VXRzVzJKbHB1N05CRjR0NTBPV2xVRmc?oc=5>
 
-### 特朗普：这场历时近七个月的军事行动已永久阻止伊朗获取核武器，在这场冲突中阵亡的18名美军将士“没有白白牺牲”。
+### 美国会加入打击胡塞吗？特朗普：可能会，尽快决定
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-10-11 06:57
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE8zUjhIbUEyZy1vRDh2VS15TE1XeFdFd052eFdaMXBjN3VnQUcyMGZLUGhKUXFyczVCWWxhT0pzMTNPYXNxX3ZPeWt3TWVXOWJ1MThKczlXVk04Ri1GX0FvWm56RmZScDhtTFZvYmxmV1NXZ2duYVNJQQ?oc=5>
+
+### 特朗普继续含糊：还没决定是否直播处决，但这样做能以儆效尤
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-10-10 23:25
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1DazBZeTIwWnYwYURpUzFneEJlVnVOUThaQktjU2VVcVMtbUVLbkVGM2tCOXVqaGVBd3BWSlpYVHBDQndSSzVocnBfV00?oc=5>
+
+### 美媒：特朗普称，他将“最终决定”是否直播胡德堡基地枪击案罪犯枪决过程
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 手机新浪网
-- 时间: 2026-10-10 21:54
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBKbG1wRkV5NXI3RE5pZVhSOEdnaWlBN1VlM2JPN2N1cjE4Ym9Jc0h2aHpSWmNyNVVtb2g5NlAwWnBKY3Z0cS1xOFUzVQ?oc=5>
+- 时间: 2026-10-11 01:57
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBDMnM3aGJxWHQ0R3FfdGtscjZNdF92MW11bTFfYlVpQnB3R0MtTmJKUXo1ajM5cUx3amhJRF9oR1RVVTNrdHp6UjdENA?oc=5>
 
-### 再次谋求罢免美联储理事 特朗普特设委员会调查库克
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财新
-- 时间: 2026-10-10 04:27
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9OQmdNSlRNZzlIaDFLRUl5S2FXY0FMSzV6UVhQYXJRbkxtdXI4cnR6MUw0YVBNcVA3Sm5iX295a0I0LXRSTzJlWWpzNE9jaE0zUUlqTFBtVFRIbVBUVTI4LW45ajAwTW5lYVE?oc=5>
-
-### 特朗普政府宣布制裁国际刑事法院
+### 美媒：特朗普称，他将“最终决定”是否直播胡德堡基地枪击案罪犯枪决过程
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 日经中文网
-- 时间: 2026-10-10 01:45
-- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxNMm15bFZwLVR0aVdfU3Q4YUxBSkEyVkZPM0ZoWmxkZzcwWU9SVjBPV0U1OWZ4SGhOQlJlVVE4XzZ2Z0JXQXo0WVd0bE1yMGxGcmFJTzZTbXNSR0ZIV1UzUjdoY3JpNEdySHRyOG1KMG9NMVlOaHNjaEJjallvMXAwc3JXSU15VHZKS0ZVMTBiTQ?oc=5>
+- 场馆: 环球网
+- 时间: 2026-10-10 10:55
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3VTFKNUhWaGEyV1RRMzU4R0xMT0lTUDZpLTFfaUtSLVJGaTkxSm9JcGhHZGpTSmVIZkFEOUxHQXZpZzFSOXNkUGFBMVowQ01lendCWjZDSmI?oc=5>
+
+### AI变SI：特朗普执意更名为哪般？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: DW.com
+- 时间: 2026-10-11 06:43
+- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMHJTYnB0WDZvOUFwZENfS056NVFtNlNwRjVIemtIT2ZpSV9jZWczWV85ZE5UcVFGSjhRdElUTWFueXYzbkMzcTRTTVNWVzFUZ1Nwd1J2Q1dwelpjRlVRU3NoRDQ0dGVicXpvWlBubUh2Y2UzNHZGaXdZakRtejZCR2lNaU9SMm1ZV0E1X2sxeDkyR0drdjg4YTdaekctUm54WTdPWDBGOHo2Uk9Rc3VYa0lVdVV4NkNpMld2b1Ztd3R6aU1taHpMZVI5a3BCdUJ4LWfSAdIBQVVfeXFMTmZwamVlN29Mem9Da2hIZnQzMzhRYzFVbmdXTGlrc2tTbFFZTkhsY1JFb25TZ0tpMnZxdmZrdXhUd3lHOTl2Sl91Z2ZRcXd2NG9yQVk3MGpuN2ZxdGdNa2FvUEpUeHpnc2RsSkNqa2FJV28td1dkenl6Z3hmWEZEN2xUaHJmSGR1TkJWOERqX2JLZWVETjRHbnljZzFxSDk5QlByZnVRTlpLenROU0Q0UmMtNVV5Skh2MkMtSzhJNGt6T2MzRlBDeFhnWUpWWS1vakdB?oc=5>
+
+### 因未获和平奖恼羞成怒 特朗普炮轰挪威
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-10-10 06:48
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE11WHdTdmhHeENNSVJtdmlGZllhZ1ZqOWlmRWRaeV80X3RYS3hIQnZzb0l3SHc1aUw3RHVtQ0loUEY1R28tel9HMmtxWFBjdlNCU0ZWM0llY3RUZWlmTk9tcGE5Qk5MZw?oc=5>
+
+### 诺奖没给特朗普，严重后果来了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-10-09 23:08
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBSUEhhaVFjU3BJZTBRVUVaMWVhS0prSGFoRUFhaEdxaF9wVUdvV1BJTG0xUUJXWTlxTlBxRXg3c2JjSlZycjlFY1l5YUc?oc=5>
+
+### 特朗普向马斯克颁发国家科学奖章，称马斯克是当代爱迪生，还将马斯克称作“国家瑰宝”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-10-11 04:08
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1nbXdiWkh4S1JlUExkcFBwdTNKQ1pnb1hrcW8wTWlKSEZEVzN5SmJqZG1PR3dlUWE2M0VNazAwSFdsZVQ5MXJfQjVJZzAtdkZ6OE1ETFZnbmE0NEZtTFVzbFpSY1AwZjdHd1JhQ3VYYmo4eGc?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-11 07:39  (15 条)
+
+- **周杰伦** | 周杰伦今后演唱会如何调整曲目和嘉宾安排 <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mrxy.html>
+- **周杰伦** | 周杰伦演唱会唱不够90分钟引热议，本尊回应欢迎监督 <https://k.sina.com.cn/article_7879923021_1d5ae154d06801mrxw.html>
+- **周杰伦** | 二开确定！周杰伦「阳光三亚嘉年华」开抢！ <https://k.sina.com.cn/article_1805420500_6b9c87d4019027x8m.html>
+- **周杰伦** | 周杰伦于文文，演唱会开票时间→ <https://finance.sina.com.cn/wm/2026-10-11/doc-iniuvtkm7390882.shtml>
+- **特朗普** | 特朗普敦促乌克兰举行选举 <https://news.google.com/rss/articles/CBMif0FVX3lxTE1TUUpWckxPRU1GNDE4WFJ2RVFISlkzNS1fdjc3TmRnZmdBUk0tNmwtTG9iMHR0UjNSbDBjYUMwaWFLZWFkU0JCOVRTc0Rpd0JtU3FKaUljNzhYeUZheEZaUnVhU2pFMlpPY0dXcjd0V0JzRlVJb0Fvb0JycDNBMGM?oc=5>
+- **特朗普** | 特朗普提议：把太平洋或大西洋改名为“特朗普洋” <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9hc2NDTWpIQzdDM3ktSk53NDlLaGR6VE5YU2ZsV0luN2h3N1Y1NUZXVUxHRnJhd3dCWUxDR2tHeFViYl9Ed0tjc1hfdUg?oc=5>
+- **特朗普** | 特朗普：美国可能加入沙特打击也门胡塞武装行动 <https://news.google.com/rss/articles/CBMif0FVX3lxTE5iZ0pPT1N4T0x5MGVuYWZHNXZhV3U1Ry1YRkgtdGd4WjJNeDlYV2g5czlmZjkyVU5kTkRxNDZlNl9odGUyMmFERllNNExsYldTcnlLYWxSQU5ES1BSRl91aHVVVzNtNjk2VXRzVzJKbHB1N05CRjR0NTBPV2xVRmc?oc=5>
+- **特朗普** | 美国会加入打击胡塞吗？特朗普：可能会，尽快决定 <https://news.google.com/rss/articles/CBMieEFVX3lxTE8zUjhIbUEyZy1vRDh2VS15TE1XeFdFd052eFdaMXBjN3VnQUcyMGZLUGhKUXFyczVCWWxhT0pzMTNPYXNxX3ZPeWt3TWVXOWJ1MThKczlXVk04Ri1GX0FvWm56RmZScDhtTFZvYmxmV1NXZ2duYVNJQQ?oc=5>
+- **特朗普** | 特朗普继续含糊：还没决定是否直播处决，但这样做能以儆效尤 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1DazBZeTIwWnYwYURpUzFneEJlVnVOUThaQktjU2VVcVMtbUVLbkVGM2tCOXVqaGVBd3BWSlpYVHBDQndSSzVocnBfV00?oc=5>
+- **特朗普** | 美媒：特朗普称，他将“最终决定”是否直播胡德堡基地枪击案罪犯枪决过程 <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBDMnM3aGJxWHQ0R3FfdGtscjZNdF92MW11bTFfYlVpQnB3R0MtTmJKUXo1ajM5cUx3amhJRF9oR1RVVTNrdHp6UjdENA?oc=5>
+- **特朗普** | 美媒：特朗普称，他将“最终决定”是否直播胡德堡基地枪击案罪犯枪决过程 <https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3VTFKNUhWaGEyV1RRMzU4R0xMT0lTUDZpLTFfaUtSLVJGaTkxSm9JcGhHZGpTSmVIZkFEOUxHQXZpZzFSOXNkUGFBMVowQ01lendCWjZDSmI?oc=5>
+- **特朗普** | AI变SI：特朗普执意更名为哪般？ <https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMHJTYnB0WDZvOUFwZENfS056NVFtNlNwRjVIemtIT2ZpSV9jZWczWV85ZE5UcVFGSjhRdElUTWFueXYzbkMzcTRTTVNWVzFUZ1Nwd1J2Q1dwelpjRlVRU3NoRDQ0dGVicXpvWlBubUh2Y2UzNHZGaXdZakRtejZCR2lNaU9SMm1ZV0E1X2sxeDkyR0drdjg4YTdaekctUm54WTdPWDBGOHo2Uk9Rc3VYa0lVdVV4NkNpMld2b1Ztd3R6aU1taHpMZVI5a3BCdUJ4LWfSAdIBQVVfeXFMTmZwamVlN29Mem9Da2hIZnQzMzhRYzFVbmdXTGlrc2tTbFFZTkhsY1JFb25TZ0tpMnZxdmZrdXhUd3lHOTl2Sl91Z2ZRcXd2NG9yQVk3MGpuN2ZxdGdNa2FvUEpUeHpnc2RsSkNqa2FJV28td1dkenl6Z3hmWEZEN2xUaHJmSGR1TkJWOERqX2JLZWVETjRHbnljZzFxSDk5QlByZnVRTlpLenROU0Q0UmMtNVV5Skh2MkMtSzhJNGt6T2MzRlBDeFhnWUpWWS1vakdB?oc=5>
+- **特朗普** | 因未获和平奖恼羞成怒 特朗普炮轰挪威 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE11WHdTdmhHeENNSVJtdmlGZllhZ1ZqOWlmRWRaeV80X3RYS3hIQnZzb0l3SHc1aUw3RHVtQ0loUEY1R28tel9HMmtxWFBjdlNCU0ZWM0llY3RUZWlmTk9tcGE5Qk5MZw?oc=5>
+- **特朗普** | 诺奖没给特朗普，严重后果来了 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBSUEhhaVFjU3BJZTBRVUVaMWVhS0prSGFoRUFhaEdxaF9wVUdvV1BJTG0xUUJXWTlxTlBxRXg3c2JjSlZycjlFY1l5YUc?oc=5>
+- **特朗普** | 特朗普向马斯克颁发国家科学奖章，称马斯克是当代爱迪生，还将马斯克称作“国家瑰宝” <https://news.google.com/rss/articles/CBMic0FVX3lxTE1nbXdiWkh4S1JlUExkcFBwdTNKQ1pnb1hrcW8wTWlKSEZEVzN5SmJqZG1PR3dlUWE2M0VNazAwSFdsZVQ5MXJfQjVJZzAtdkZ6OE1ETFZnbmE0NEZtTFVzbFpSY1AwZjdHd1JhQ3VYYmo4eGc?oc=5>
 
 ### 2026-10-11 01:28  (7 条)
 
