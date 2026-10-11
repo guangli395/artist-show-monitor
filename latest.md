@@ -1,110 +1,71 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-11 19:17**
-- 本轮扫到 13713 条, 新增 **12** 条
+- 最近更新: **2026-10-11 23:01**
+- 本轮扫到 13719 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (12 条)
+## 本轮新发现 (6 条)
 
-### 路都走不稳还开演唱会，这一次，谁也“救”不了糊弄粉丝的周杰伦
+### 蔡徐坤新歌Demo进入挑选，入选曲目将进入制作
 
-- 艺人/关键词: **周杰伦**
+- 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_8413349704_1f579874800101pxp4.html>
+- 链接: <https://k.sina.com.cn/article_1852855013_m6e7052e505302vksw.html>
 
-### 美国参议员要求特朗普撤销俄燃料进口相关政策，称白宫未按规定征询国会意见。
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-10-11 18:58
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1kTEp0MWNVd2xsaU9kM19FeUxQbl9uMnR0ZlhzOUNiV2hOcGlFSE41Vm1qR3VwQzV4OGlUSERzMUNYNVhaQUlXREd2Yw?oc=5>
-
-### 特朗普称俄乌进入“能源停火” 泽连斯基回应说“这是个新闻”
+### 特朗普宣布凯蒂·扎卡里亚将正式出任白宫新闻秘书|唐纳德·特朗普|美国总统|莱维特|新闻简报|社交媒体
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-10-11 18:36
-- 链接: <https://news.google.com/rss/articles/CBMi-AFBVV95cUxOb1BCeDYwVHk5Z0F4R054VmpndDNrUUJ1blhfQi1sd2NESjFMRVpMVHV1VGNoQUZIUE40cnRFSXNFbVh0RVhCcGR0dEUyTFo4YmNJVHE2Y2NQb2V1QzY1VlZaakhzSG1Vb2Z3eVBOYjVNTmZveEIwd29tNUN6UlNKdlFfVjRUTXVKWmtGWV9RU3ViaUdOZk9VcUpfdV9UNnNsMEttNGhkaE8waklzSzJrYW9YMnhodGQyZjZQQXBHODJkbndrZTNERlZucFNGR2ZxZjFGbHZoOGV3MThDUlkyanpkV3B5SUlWc1dhQ1BwS1FZdVRaVGZTOA?oc=5>
+- 时间: 2026-10-11 22:39
+- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxPNWVPeWxodzJfTkl0cGxzVW1PS0xUdUlBbmFTWTRDbXNfSTlIYlA1LV9PLWVQRnJwSElocWotUDQwRXQ3SzhOMmk3WGloNHEtemhET0VJbDVqZGNxQUVXZWY1UTNJamdtZ1BfS21STl9KVkxRQzVub0tWRTREamp3dnQ5NjlqckZHOFZ2MXZLSUNta3VHS21XdQ?oc=5>
 
-### 特朗普亲自到场，“监工”白宫宴会厅施工进度(含视频)|玛戈·马丁|环球时报|唐纳德·特朗普|美国总统|通讯
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-10-11 11:52
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5Udkk2RjE1QlBfUnEyd3pfT1Q4N09ia1VDZU80V1RNQ3pvZzRGX3VFeDJ3ZkZUZ25PT3lJMVVvb2xjLUdwTFJUamo1OW1qeVFQSzZZc01iRE9nRXFMX01reDVpdjdQX003a0NZRDlvaTg?oc=5>
-
-### 利雅得机场遇袭12死309伤 特朗普称可能加入军事行动
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: DW.com
-- 时间: 2026-10-11 09:07
-- 链接: <https://news.google.com/rss/articles/CBMizAJBVV95cUxNdWpGY1lOaUxFcWI4dkNEN3VlZnpzeUowYmMweXBsRGg5LXVETUd3LUlfdEtaSm9UcVRFajJ1bEJEZHdTSm1UYTVtMnhvU09vQ191SHo0ay1YdnVLQksxbXhEb0VlU3JNOTdkaGliMDhBbUcwb1J5MERoNU1ueHJpdE5qZWhIZHEySGZRUzgya3ZDLWVGcEdCNHhEX1ZMNVlIdDVqcWRhRmM0UmNubUY3UHJvQTJTajNHc05ySFFxYjlrRjgzRVk3RUpYZnVfb2hBU2M0VUZiN3hGV2ZiamJOei11WWhfR1RQNjV1bFhWMFJXRV81Y3hDN2V0bUE1REZSWm9Na3pRZEJQUUgza3d6akR3aGVPTjVsOXh5OXk5T1E4SExiNTlNUERzUTVZOU5wQnUzTzk0WFVJUVBRNWFsR2JqRjg5ZDF5YXNpQdIBzAJBVV95cUxQSnBXeFpBY1hMSjFSOUthQ3VnQVBqQWpyem9zVVQ4TGxXMXZzNkp3a1VWZUlqV1V1SEpoSzh6NUhTUF9iQTQ5SDBfaHB2VkFyamxFR0M5TEU3S3ZfQXpydGF0Zk5HMXA1ekhSQUU2RlVjR3VZaFV2RjFnSmVXTnlkYm9YdFBncVY4WWU0OTlMczlQS2JlZ2w1NDBUNnQxM1FnX3VUQUR6am1XeENBdmJYLW0xY1ljQUlXLVhVV0NjN2Vjam12OG01SDEyS3drMUZVUEdYM0NrdWtqVHJYZXZ4a0kyMkJOLVVhM3ZjNEtscm5Kd2RpRld0T1RrYjRzLWJtc19tRklVN2ZfckVDTU1LbS1NWkJsbU5BT0lJZE1kVDhoZ1k0TjJ3VG9xcUhYdVZHQ0RnenlQT01TeHB2Q3BPdUM5Q0VOdTRyRmZuSg?oc=5>
-
-### 特朗普已选定白宫新闻秘书，依旧金发美女，曾在北京工作三年
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-10-11 16:00
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE03V0lEbnJ5NTlGNjcwaXlCT0Y4Y0MzbU1pbVJBYUYybDFiT0ZHaWtreU1Nc2pnLXhNQVNvejlaS1lkaWd2TWpubmhYVFJ4RkNzZS1KZnkwOThCNUtHTDRIM0pxNzNlZ1A3dzBNQVY0NEJ1bnZxMkJtYQ?oc=5>
-
-### 特朗普新任白宫发言人与北京渊源颇深
+### 美议员：美俄柴油协议违法
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: RFI
-- 时间: 2026-10-11 16:26
-- 链接: <https://news.google.com/rss/articles/CBMiqwJBVV95cUxORUdHVWhvS3E3VDlqUDMxV0hGaDFDc0dRaEVNUl9pRWgzdlUtbEpEa3ZhVUwzbGlydTJuSUNzT1VzZ3EwZFU4MTZkalVhTXB6ZVRNR1dVcERQSHVZSjloZG1yblBJY1VsRmo2blpDR0ZVbzZSYVc1WnoyQno1V3Rsa1NSMUV6ZWFZVXg5MzBrR3plS1oyaXlOejVUeUtIZ0p0cVdXRERDUS1tdmt0RlNTcEFPZWllcUY5MlRwU2xSYzg5bmtSMEp1MC1fOWpESkZlb3BTcGlPV3pFcTFPX1FkVWdFRjVxQmVKUEZmTmR3RXlvb1pIVUc4eVExNWJYVklOUElVTFN5YTVUVlNBcjRYS1Nqc0xSa1FYeHc2SWZPdFd6WHJRODduY3BTSQ?oc=5>
+- 时间: 2026-10-11 21:15
+- 链接: <https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWjFnU0c2anhXN1UwX1lVclhqTzFOQ05mUVFBSzVCcVNmVjhqU1NkZzZ2Z2Jka0duWHhNV0VCa0VRRk9ZTDBKS3p6VHZlZGQ1LUw0eGJ5eWdnbk5wTHhyUFJqamZrR2ItUlNJUUVaV0hFRzhOMjR6VGpISXBuVnpMUlJIWi0xbE5xdENnOThwMndSRDlOREhsWC0wcHRYRmlfSWpaa2l5b1RtMVg1RHNKTzRPLXVJWXFSVVYxd3d3eDJCaFBkQ3ZLV0hWelRxN1h2aUMxS1U0cVdOQUpZY0haTTc2dko?oc=5>
 
-### 硅谷承诺捐24亿美元支持美科研 特朗普赞马斯克为国宝
+### 特朗普突然翻脸，中方没空搭理，正忙着开门迎客，日程排到了16日
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-10-09 10:20
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pMlE5RnJTX2E3SXdXQW8wREw3di1CY01DSTlFamd1YXdNQTlXRVd3U1pGeURsOW93YjJ6OFUtUmVYc1gteFlLenBxbzV5S2FIdHE0Szk0Q21yclBLT016RUZTMUgtdw?oc=5>
+- 场馆: 风闻
+- 时间: 2026-10-10 22:08
+- 链接: <https://news.google.com/rss/articles/CBMiW0FVX3lxTE81TVkyNWxIMWdWTGNPOUtqbUVxXzFZR1IyY1c3Wk5FN1pHekVwMFJiS2NwbFo0cjkxTF9xeFlrdnJiN200azJBYkJQeURRRDVfN1k3elhKemlsd0E?oc=5>
 
-### 美国财长贝森特：特朗普政府拥有法律授权落实与俄罗斯达成的柴油供应协议
+### 特朗普现场提议：改名为“特朗普洋”
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-10-11 15:34
-- 链接: <https://news.google.com/rss/articles/CBMiygFBVV95cUxPX0ZUUGV5Yk1SMTZSTS14WnhBSlhWbUM3T2F5VWxhVFpkWGx3cjdlZkc3VF9tbWtkNm50VlotdlBKUzdocU50QkpnRGhoaHBkMHItZHNwcXV4SENlMUJEZE5DUnBORjNOalBVRVlTYVdSR19XZ1hfQ0tmQW5pU0RHaGdxdjdsUTRQUkJMQUJaRlVNUFVBUHo4bXhBSGkxQlk3VEltd2RRQVRkd1pRN2lzNjlHVGRGcWs2eTAwUEVLQjFOMnhXQUZJOEpB0gHKAUFVX3lxTE9fRlRQZXliTVIxNlJNLXhaeEFKWFZtQzdPYXlVbGFUWmRYbHdyN2VmRzdUX21ta2Q2bnRWWi12UEpTN2hxTnRCSmdEaGhocGQwci1kc3BxdXhIQ2UxQkRkTkNScE5GM05qUFVFWVNhV1JHX1dnWF9DS2ZBbmlTREdoZ3F2N2xRNFBSQkxBQlpGVU1QVUFQejhteEFIaTFCWTdUSW13ZFFBVGR3WlE3aXM2OUdUZEZxazZ5MDBQRUtCMU4yeFdBRkk4SkE?oc=5>
+- 场馆: 财联社
+- 时间: 2026-10-11 13:28
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE8tT1FPN0xCUXMyOW1XTF9JR2JIamc3S1FSeHpORmdOMnliTGJqaC1yQXF3VHVyZ2N6Wk1LLV84SlBKUGRRZWRqWQ?oc=5>
 
-### 特朗普总统宣布俄罗斯与乌克兰之间的“能源停火”
+### 特朗普：将考虑加入沙特打击胡塞武装的行动
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: CoinDesk
-- 时间: 2026-10-11 15:40
-- 链接: <https://news.google.com/rss/articles/CBMitgFBVV95cUxPYlo5NGh5WmZaZHlaYUtDTGF0UE5GNjFleGVjSUl2S2d2c3J3TF8tbHNFaU01UmJvMFRfVGpNRDE1UFl1MnV0TThVbWQyc3hoVW1ZQmtIdU1wYnVhamVxVUhHMkFmU2VyQ2RQM0cya3h0RzJLRmRwZVFFSlFPQUlQX0ZkZS1WcGJLX3VZNnJRQWRXeFBhS1JzUmdpQXpxb0ZWaUpHek8xNUNhQ2ZxVVdRQVpnS0xzUQ?oc=5>
-
-### 特朗普称俄乌同意“能源停火” 泽连斯基：首次听说
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-10-11 15:49
-- 链接: <https://news.google.com/rss/articles/CBMilwFBVV95cUxPV09mU2ZkSDRVVWxuWGh4R2cyLWxuclh5LXZTSGdzU1d1Skc3WXNNN2tzRVdKU05BMjhHSWxQUkM1Z1h4T01aVU5RODlFdW9mRlRlWC0zVnFXS0hHTFhkTDZjSC11YWQ3VGtoUDRrR3NHN1BFV21KT2xzMjZRUGxiWmlmZHEtb2pJZU42akV6SzVTWEExX3g0?oc=5>
-
-### 特朗普总统宣布：俄乌达成立即生效的“能源停火”协议
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-10-11 18:00
-- 链接: <https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd0dlWFhnSkVaWDNfcnBzOGQtWTVJTDBKcXV1Smxqb2NSc0V0NmdfTDhYZ2huM2hhajc0SWJXMW5SanFacE1MX3NEZDZQQ3pROHUtZmpZek1sTzZfcXhGcWdiTmFiRnZSOUdwcFRmdXhDLS1fdmdSUEdBdFpzdjBYYVUwYnlfNUZ2WlZDZ0o1cXpsYV9lRDlJWGRxQi15aXZVaXBVYVR6aXjSAasBQVVfeXFMT0oxSzFJdUV3SlhnSE1QQUtnUElKaW1hM084OE93MXVVVm9aZHhMZEFZZDlJNVM3ejJCdXNpRXRWTkZKZUl6RXZ2c2MzaTNvdjgwUzFTTFpQVG1yQ2p0S2RDTU9aOF8xVDJRclYxRXNZUjB5VG50RHY0cjlHWUJEeW92c1dxUG1ORTJVeHJYR2t6eGp2cnFyQTV1dDZRMy13RWxvaWxlczFUM3Vn?oc=5>
+- 场馆: finance.sina.com.cn
+- 时间: 2026-10-11 14:47
+- 链接: <https://news.google.com/rss/articles/CBMingJBVV95cUxNTVlnLWRQaXVrN1Z5SEZkZTdkU0dXOGZ1bVI5bXlKV1pfdWZqeEExdjE5OTYyVjEzSWloZ2RVLUpFYm1Dbl80clVRYnJDcWhLYlBybWcxR2tMTjc1Q19JcWFZdTJueUdxbnRlUEJaUks4M2NONTdNLS1pMVYxekpkQ1MtR05DT092cUVqT0hpaFQtY3czZlpJSW5JZnp0NDN3TlVTU2VLSHRILXVreDN0dDVyMkFzR2EzMkhnVUpoQkZuVW9ILWF4bDBrZnVGNjhYVjl1b1NGUHhsei1QdmZqV3JlN0NUWXNLQ0NCeW4yUDRIblR5VFUtNm1qb2UxRXMwalRqRVYxQUFqVncxTGNsbFZOaFlMWWQ2THRfV2p3?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-11 23:01  (6 条)
+
+- **蔡徐坤** | 蔡徐坤新歌Demo进入挑选，入选曲目将进入制作 <https://k.sina.com.cn/article_1852855013_m6e7052e505302vksw.html>
+- **特朗普** | 特朗普宣布凯蒂·扎卡里亚将正式出任白宫新闻秘书|唐纳德·特朗普|美国总统|莱维特|新闻简报|社交媒体 <https://news.google.com/rss/articles/CBMimAFBVV95cUxPNWVPeWxodzJfTkl0cGxzVW1PS0xUdUlBbmFTWTRDbXNfSTlIYlA1LV9PLWVQRnJwSElocWotUDQwRXQ3SzhOMmk3WGloNHEtemhET0VJbDVqZGNxQUVXZWY1UTNJamdtZ1BfS21STl9KVkxRQzVub0tWRTREamp3dnQ5NjlqckZHOFZ2MXZLSUNta3VHS21XdQ?oc=5>
+- **特朗普** | 美议员：美俄柴油协议违法 <https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWjFnU0c2anhXN1UwX1lVclhqTzFOQ05mUVFBSzVCcVNmVjhqU1NkZzZ2Z2Jka0duWHhNV0VCa0VRRk9ZTDBKS3p6VHZlZGQ1LUw0eGJ5eWdnbk5wTHhyUFJqamZrR2ItUlNJUUVaV0hFRzhOMjR6VGpISXBuVnpMUlJIWi0xbE5xdENnOThwMndSRDlOREhsWC0wcHRYRmlfSWpaa2l5b1RtMVg1RHNKTzRPLXVJWXFSVVYxd3d3eDJCaFBkQ3ZLV0hWelRxN1h2aUMxS1U0cVdOQUpZY0haTTc2dko?oc=5>
+- **特朗普** | 特朗普突然翻脸，中方没空搭理，正忙着开门迎客，日程排到了16日 <https://news.google.com/rss/articles/CBMiW0FVX3lxTE81TVkyNWxIMWdWTGNPOUtqbUVxXzFZR1IyY1c3Wk5FN1pHekVwMFJiS2NwbFo0cjkxTF9xeFlrdnJiN200azJBYkJQeURRRDVfN1k3elhKemlsd0E?oc=5>
+- **特朗普** | 特朗普现场提议：改名为“特朗普洋” <https://news.google.com/rss/articles/CBMiSEFVX3lxTE8tT1FPN0xCUXMyOW1XTF9JR2JIamc3S1FSeHpORmdOMnliTGJqaC1yQXF3VHVyZ2N6Wk1LLV84SlBKUGRRZWRqWQ?oc=5>
+- **特朗普** | 特朗普：将考虑加入沙特打击胡塞武装的行动 <https://news.google.com/rss/articles/CBMingJBVV95cUxNTVlnLWRQaXVrN1Z5SEZkZTdkU0dXOGZ1bVI5bXlKV1pfdWZqeEExdjE5OTYyVjEzSWloZ2RVLUpFYm1Dbl80clVRYnJDcWhLYlBybWcxR2tMTjc1Q19JcWFZdTJueUdxbnRlUEJaUks4M2NONTdNLS1pMVYxekpkQ1MtR05DT092cUVqT0hpaFQtY3czZlpJSW5JZnp0NDN3TlVTU2VLSHRILXVreDN0dDVyMkFzR2EzMkhnVUpoQkZuVW9ILWF4bDBrZnVGNjhYVjl1b1NGUHhsei1QdmZqV3JlN0NUWXNLQ0NCeW4yUDRIblR5VFUtNm1qb2UxRXMwalRqRVYxQUFqVncxTGNsbFZOaFlMWWQ2THRfV2p3?oc=5>
 
 ### 2026-10-11 19:17  (12 条)
 
