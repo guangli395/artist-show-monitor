@@ -1,112 +1,82 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-10 22:49**
-- 本轮扫到 13663 条, 新增 **13** 条
+- 最近更新: **2026-10-11 01:28**
+- 本轮扫到 13670 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (13 条)
+## 本轮新发现 (7 条)
 
-### 蔡徐坤新歌预计什么时候发布？
+### 特朗普据报促中日领导人会面 学者：意在安抚盟友 对话恐难成
 
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016yn6.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-10-08 13:39
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4cUlDb25rWVVxaGh5M2FrWUJRbDAtZjdGdFpVaW9pdG1QTWZNWXN0N1dTNlNCMFdjeUtNX3VnV3NpUGhvNlIwUE81Mm1NNGRBOFpmY3hDckdBeFp6Z2N3aURid0RwZw?oc=5>
 
-### 蔡徐坤新专辑有哪些创作灵感？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016yn2.html>
-
-### 蔡徐坤新加坡演唱会有什么亮点？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016yn0.html>
-
-### 蔡徐坤直播自曝新歌进度
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068016ymy.html>
-
-### 特朗普：如果我环顾四周，看到听众像听其他候选人演讲那样纷纷离场，那我就该缩短演讲时长了。
+### 提示：特朗普结束讲话。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 手机新浪网
-- 时间: 2026-10-10 20:44
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE8tbkpUdGE2Q3RQWXJaemNrOXcybW1hdUZROE9MdW4ya0dnMVg4OUFybnN4SFNwM09hbE96N3pHWkVBWERDdEotdVNLYw?oc=5>
+- 时间: 2026-10-11 00:15
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ZeTRkaVdzYWRsbWh5TG1KWVBxaTkydm1FNGVFa0pRMi1wU1A5bVV5YmRXWVl4LU5La2d4c3BxQjYxMVU1eVFpekFsWQ?oc=5>
 
-### 特朗普：“乌克兰应该换个总统”
+### 泽连斯基：特朗普与普京达成的柴油协议“既不公正，也不坦诚”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-10-10 22:25
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBEOFVIek1WdHp4OXdMOHNoS2pYVlNFdENsdDNZRERXVThRUmdZZ29MR28zcVg2ZzRMMG5HTi14TURKcTVRQkZTdHpCd1BVaURMamo2Y092UEpQemowaFh5YlRYSGtaQzZ0MjMwbS11UTRwdVBBXzZBTA?oc=5>
+- 时间: 2026-10-09 23:31
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxQU0ljSGFRd0FveEE0S0FsTjZMVWdhOU11RXVvQXBzWXZEX1Y1N1BHWTFVUTQ0UDdvRlpCeGhCMlB1NVViTUFDS29XMGozVFFBcmZYUUxwVmtfYXFNNERfR09mRWQ5SmhqckpvcXJkcUJzQVdONGk2amJmZTRvRXB6MmlKTzlsX0U?oc=5>
 
-### 特朗普称伊朗为“疯子国家”，并表示德黑兰可能在11月3日中期选举前采取进一步行动，以在政治上打击他。
+### 特朗普：美国可能加入沙特打击也门胡塞武装行动
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-10-10 22:32
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE8zVWlzalFTS21aRkRVM2hEd1hrSUFaMklwcFZsODhROVA2TlZUWTJBRE9xUmJwbHNySjFmWExoZWFGTjl5WUxBZkxvVUdjbkdEclA4NjdOUTE4ZG5kcHg1ejE2Vjg4X1V4dHdZWndEZ1pGVnoxa1VMZg?oc=5>
+
+### 特朗普：这场历时近七个月的军事行动已永久阻止伊朗获取核武器，在这场冲突中阵亡的18名美军将士“没有白白牺牲”。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 手机新浪网
-- 时间: 2026-10-10 20:46
-- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE9wN1hNc21BZzJEVU42NE9BQnBjck56WlY1T0ZONF9nTWt1b3ZDVUV2S3JRZldNdWN5S1lmWDFOMVJ0NnBmRWJvdEpodlhva0E?oc=5>
+- 时间: 2026-10-10 21:54
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBKbG1wRkV5NXI3RE5pZVhSOEdnaWlBN1VlM2JPN2N1cjE4Ym9Jc0h2aHpSWmNyNVVtb2g5NlAwWnBKY3Z0cS1xOFUzVQ?oc=5>
 
-### 特朗普设立委员会调查美联储理事库克|唐纳德·特朗普|抵押贷款|经济政策|听证会|美国
+### 再次谋求罢免美联储理事 特朗普特设委员会调查库克
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-10-09 22:07
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE5waWVGZF8xVk9STXFKV0JXVWxKOHVOdlE2cVowaUFNOU4tVGdxYTd2WWxtdUxZRXRPTU1mUE5zX2t4Vk9DcHdvQzZGTzhrN3lyeTlrUHJwb2RhMWR6eTRvMFJBOVZTZFBiSWl4VGtILUY0NERE?oc=5>
+- 场馆: 财新
+- 时间: 2026-10-10 04:27
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9OQmdNSlRNZzlIaDFLRUl5S2FXY0FMSzV6UVhQYXJRbkxtdXI4cnR6MUw0YVBNcVA3Sm5iX295a0I0LXRSTzJlWWpzNE9jaE0zUUlqTFBtVFRIbVBUVTI4LW45ajAwTW5lYVE?oc=5>
 
-### 特朗普总统表示，美国正在评估是否加入沙特打击胡塞武装的行动
+### 特朗普政府宣布制裁国际刑事法院
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-10-10 19:49
-- 链接: <https://news.google.com/rss/articles/CBMixwFBVV95cUxPNzYtSTZQUEZJM1NDeS1rYllaLVFfRFlJR3RjeC1PWmpSUmVsbnIzWVlUNjlrZ0o1MlFRTjVQSzJwMDNmTFlFYXBEVjJ6eGd6bjJ2cGw2VnpEUHpNRmNYNnQxSzJQdDBIc19TNVpXaUxiLW91YnVnbjhBbGVUMVpSTzVxdmtSeUZRa1NkaDl2VDhYdElsam1rNk5hN2FBSnJEMjMxcGJtSXpzY0RvQm5CcnBTWGJwMmRYcXIxUUNOZU82WE9QRGpJ0gHKAUFVX3lxTE5hWHhDMXd5ZWZDMzBPLUZoeU5CdzloOG1Ya05xWXBQbUg0UHhRU1E2Uzc4QmRJc2J0NnRlT293OHpFcjdhbEI1VXViZTRqdW9udng5YXJ0dUlNZmRGdGJlX2VCX040dlJOdmVyMzZPZFZXVnNxTG9XWkNEbWQ1Z21EdDlRQ0FHUXp5NVUzcWU1RmtEQWxzS2NGMW93VTVRYVdDZ3NBTEY5WVpwU2NsaVVyT01YVHpWV2pTRmluYU1Hc2JsZEc5eU5yaEE?oc=5>
-
-### 特朗普总统：美国柴油价格飙升泽连斯基难辞其咎，乌克兰或应换新总统
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-10-10 20:33
-- 链接: <https://news.google.com/rss/articles/CBMi1wFBVV95cUxORGJqZ3lnM0dWODVJQzdKM0NGMWk0TE1HenNZeDdSUllyYk5yYlktS0RKMHZSZHhVNFVVZnotcnNDZlRoX2lLb190SldEbE5WT1FJWUZwbHZzX04wZ3Q5Sm9VamwwX2dweTdGeXJjSDctZ0lzamZrcXN4SjM3RjI0bUNadlBnYS1lNzE0SE1KQmdpR29tRW1BQ1dtMlN3dWEzNENWOXBNMURWeUNFUmZrUHF6TUl2Ukd0OGNyOFFpc2NpWEJZc0lTUFpTQ25Vb2tLYnc5VWNQc9IB2gFBVV95cUxQX0hHMWVRNGZhQURGdHJuaXduSDRBajFidTB6QXJUcWdMUWlKZVp1aUhIZGZlMTJGSTJrbFBlOWVtWk1ncVpwc2JSbl9qVG95Q2RlQkUzLWdxNWJCbVQyX1JGbURKeHNaYzlxMnF5Zzd6djVKdzhEV2k2cDRoZXAxZnJSWC1LUGR4LVNpdU5oRjFLVUQxVzVqekh3TXNGVUZYYVVSRl9YSFFCX3pCTWh1bVpQT2ROVFdqY291YXprQkZ1R2RjTU42NWprQlZWeHZPcGx2cFdUZ19EQQ?oc=5>
-
-### 事情大条了！马斯克刚刚突然宣布：正式重返川普（Trump）政府！新职位曝光，超级智能要变天了！
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-10-09 09:28
-- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxPUGpuUy1uczRCb1JhWHo0ZlM0WF9fcFpDX1dWUU13UjFLcDRwb1ppNy0tN20xaWtrTTExNy1COUl1MjB1bl9DUW5CVmpuWlktUkIwaVZTUlpIV3Z1SmdJYVhWUzk3WFpuZFJVeUpEZUlkMkhveVJEUTlWaXF6bFBPNDZB?oc=5>
-
-### 川普公开炮轰泽连斯基！两句话杀伤力巨大
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 万维读者网
-- 时间: 2026-10-10 18:29
-- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTFBKYkY4MlYxSnM3SGNCRTFGUUE2anhER21Fd2tEd2lwdzdWOXhPZmFCV0VYZUZMWG5tMkFieXZwMGlybGRTcW9kblluSDgwOTdXalE?oc=5>
-
-### 伊朗加入上海合作组织联合军演，中国则拒绝直接介入美伊战争。
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Al-Monitor
-- 时间: 2026-10-07 19:11
-- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxPUE5KNXoydDlPOHYtX2NiWl83SG1FSHdnUGE5OUl2elpLVUZQMEl2cWdLOFFpTV81bWlZWllZNkJhWjBZdGtDcE5pd2s0U0Y2MzZBVzZhTVBCMFRUUXJYZVBLZFMtdG9sYUxCYXF2aUQ1d2dveTBWWkRtWjJmSHpXNmVWT195MTQxN2dVVE95cmNWQXdhMWpRQmVaT2U4YTJmY0RtN3J4TWJtVUdfR1VMbm1oU05WSHlmS0RIYlNlblM0RzRVNHZjeWVjeFVLTlU?oc=5>
+- 场馆: 日经中文网
+- 时间: 2026-10-10 01:45
+- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxNMm15bFZwLVR0aVdfU3Q4YUxBSkEyVkZPM0ZoWmxkZzcwWU9SVjBPV0U1OWZ4SGhOQlJlVVE4XzZ2Z0JXQXo0WVd0bE1yMGxGcmFJTzZTbXNSR0ZIV1UzUjdoY3JpNEdySHRyOG1KMG9NMVlOaHNjaEJjallvMXAwc3JXSU15VHZKS0ZVMTBiTQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-11 01:28  (7 条)
+
+- **特朗普** | 特朗普据报促中日领导人会面 学者：意在安抚盟友 对话恐难成 <https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4cUlDb25rWVVxaGh5M2FrWUJRbDAtZjdGdFpVaW9pdG1QTWZNWXN0N1dTNlNCMFdjeUtNX3VnV3NpUGhvNlIwUE81Mm1NNGRBOFpmY3hDckdBeFp6Z2N3aURid0RwZw?oc=5>
+- **特朗普** | 提示：特朗普结束讲话。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ZeTRkaVdzYWRsbWh5TG1KWVBxaTkydm1FNGVFa0pRMi1wU1A5bVV5YmRXWVl4LU5La2d4c3BxQjYxMVU1eVFpekFsWQ?oc=5>
+- **特朗普** | 泽连斯基：特朗普与普京达成的柴油协议“既不公正，也不坦诚” <https://news.google.com/rss/articles/CBMihwFBVV95cUxQU0ljSGFRd0FveEE0S0FsTjZMVWdhOU11RXVvQXBzWXZEX1Y1N1BHWTFVUTQ0UDdvRlpCeGhCMlB1NVViTUFDS29XMGozVFFBcmZYUUxwVmtfYXFNNERfR09mRWQ5SmhqckpvcXJkcUJzQVdONGk2amJmZTRvRXB6MmlKTzlsX0U?oc=5>
+- **特朗普** | 特朗普：美国可能加入沙特打击也门胡塞武装行动 <https://news.google.com/rss/articles/CBMieEFVX3lxTE8zVWlzalFTS21aRkRVM2hEd1hrSUFaMklwcFZsODhROVA2TlZUWTJBRE9xUmJwbHNySjFmWExoZWFGTjl5WUxBZkxvVUdjbkdEclA4NjdOUTE4ZG5kcHg1ejE2Vjg4X1V4dHdZWndEZ1pGVnoxa1VMZg?oc=5>
+- **特朗普** | 特朗普：这场历时近七个月的军事行动已永久阻止伊朗获取核武器，在这场冲突中阵亡的18名美军将士“没有白白牺牲”。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBKbG1wRkV5NXI3RE5pZVhSOEdnaWlBN1VlM2JPN2N1cjE4Ym9Jc0h2aHpSWmNyNVVtb2g5NlAwWnBKY3Z0cS1xOFUzVQ?oc=5>
+- **特朗普** | 再次谋求罢免美联储理事 特朗普特设委员会调查库克 <https://news.google.com/rss/articles/CBMiakFVX3lxTE9OQmdNSlRNZzlIaDFLRUl5S2FXY0FMSzV6UVhQYXJRbkxtdXI4cnR6MUw0YVBNcVA3Sm5iX295a0I0LXRSTzJlWWpzNE9jaE0zUUlqTFBtVFRIbVBUVTI4LW45ajAwTW5lYVE?oc=5>
+- **特朗普** | 特朗普政府宣布制裁国际刑事法院 <https://news.google.com/rss/articles/CBMijwFBVV95cUxNMm15bFZwLVR0aVdfU3Q4YUxBSkEyVkZPM0ZoWmxkZzcwWU9SVjBPV0U1OWZ4SGhOQlJlVVE4XzZ2Z0JXQXo0WVd0bE1yMGxGcmFJTzZTbXNSR0ZIV1UzUjdoY3JpNEdySHRyOG1KMG9NMVlOaHNjaEJjallvMXAwc3JXSU15VHZKS0ZVMTBiTQ?oc=5>
 
 ### 2026-10-10 22:49  (13 条)
 
