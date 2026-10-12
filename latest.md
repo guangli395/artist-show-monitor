@@ -1,104 +1,127 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-12 10:05**
-- 本轮扫到 13742 条, 新增 **11** 条
+- 最近更新: **2026-10-12 19:54**
+- 本轮扫到 13754 条, 新增 **12** 条
 
 ---
 
-## 本轮新发现 (11 条)
+## 本轮新发现 (12 条)
 
-### 美FBI拟与终极格斗冠军赛签合同，为特工提供格斗训练：总裁是特朗普好友
+### 特朗普：认为普京已准备好达成协议。
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 手机新浪网
+- 时间: 2026-10-12 19:35
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFB5QUdpX01YT2RRUmp4YzdoRHZSeVQtam15MU1xdEhqa2FSZG1ERnAzT1FmQnVxZFNfbHRpSHNBUTJ0Y2xtanFlYmI5QQ?oc=5>
+
+### 距中期选举剩3周！手握数亿资金的特朗普阵营急调竞选资金布局
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-10-12 08:45
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9Qam5rbXVBQUJxdmhyRDlnVDZQdUtXUUNEMFR6VUZhZkp3dTJORUhxWW9NZzl5dmdyWnJ5Y2xqUXRfWmdHdGFBN2x4YUQ?oc=5>
+- 时间: 2026-10-12 15:08
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFAzT0VjSFdET2RDbUtoUmN4V3AyTVJVazdYYVJ2a3I0bUpZeFRESm1haHZWSXRkd21WWG11d0ZPTV84QXMtVkd4aVdKSzI?oc=5>
 
-### 拳王泰森力挺共和党：特朗普曾在他因强奸入狱时为其辩护
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-10 11:10
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE12YzQ0WHRrTTdQVlV2QUtyeHhqQkluS2IwQWlpWWhrSEJKeVhsQlV0N1hGZEZhR2MwZzBlemJZd0hmU2pyaWE0bzRQLXI?oc=5>
-
-### “我很乐意看到他成为共和党人！”临近中期选举，特朗普为何公开挖角？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-10-12 08:47
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFB6V3ZsOVJ6RUpYVDcxZ0xpTm1UblNBU1R4a19rRDdpRVVvZE9reGF4RFlXTnRabm50eFR2T2ZLS3RzcmF2WHZmZzQ5STdlZjFlUElCYXc1TGRGUGdzbk9veThoUWx5YUxQQloxaWd1Zng5NWc?oc=5>
-
-### 特朗普提议给大西洋或太平洋更名：可以叫“特朗普洋”或者“美洲洋”之类的
+### 特朗普宣布凯蒂·扎卡里亚将正式出任白宫新闻秘书|唐纳德·特朗普|美国总统|社交媒体|莱维特|新闻简报
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-10-12 04:59
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE53NE44bUNWVnhPYzJoaDFDN0lDRmNPR09GLVpjSDN1R2dzcENUbGNpZU1uRmM2V2NBNjVTd3Z1TXFEd2JlMHpBNElTanVkdmlPQVFPbGFkNXlxdEFfX21iVzh1RlVvaUdpZDNlOUJHRVk1dw?oc=5>
+- 时间: 2026-10-12 00:12
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE5WWkgwdVlQVnJ3d0RudENxY252N1JuM0lFOHlnZTBSVTRHOFpxYVUtMXJrNnlMcTYtVEV5d3YxOEw5WGZ0ekgtQzBZR3kzcl9KTElPOVZWaFNwOGxKV3p2b1E5Wi12bDZtTTlrTHJ2RTd0Z0F4?oc=5>
 
-### 特朗普鲁比奥被曝“非常恼火”，美国大使或被解职 被指滥用公权力接受礼物和服务，用影响力解决巨额信用卡账单，曾是特朗普“准媳妇”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 搜狐
-- 时间: 2026-10-12 09:35
-- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNU8zc2duSUFwQWlqal84Y3cyX1h1amhrZ2lLbC1DeHMwZ0FSZU1MRFNjdDFVNVplU3lZQ0N3Q2RBVFlsSl96allRc0pCMHBfRDB4LXhxRlgyYV9hTEpNNmdmSFNFOC1fZUIxN1A4cU1sY3kyQXhXLTVod3NPc01PRjFkNjludUJW?oc=5>
-
-### 特朗普突宣布美国将自俄进口柴油 批评者质疑会助长俄战争经济
+### 白宫创造历史，特朗普从椭圆形办公室敲响纽交所和纳斯达克开市钟
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 财新
-- 时间: 2026-10-10 03:21
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE0tT242YWtYRWtnQXpLaDU3WjlSY2I1MXBjWjdmT25ZVDNhNzlFNmpIVWI4Tlcxb0s3cThMWGZjNUtHSkt4TTJBcjQ1WVVVNlhFVGJhN2ZOLWppZ24xaWVvOEp0QmpNaHVPS1E?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-10-12 14:09
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE0tWjBZSExXcTNoeUxzVjB5c2ZPN3ZIZi1oSWZ1SkhEWUtOZWYyeTZYTE5jaXJ5bXZEM090MVV5Q1U1N2o3M21ra3dsaWVzd3h6c0QxdUpqYXZYZ0l0cjFrMUotVmVrR2ptalEzaHpLTUJaSk0?oc=5>
 
-### Bitcoin Holds Above $83,000 After Trump Announces Ukraine-Russia Energy Ceasefire
+### 沙特机场遭袭，特朗普：美军可能出手
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者网
+- 时间: 2026-10-12 00:03
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5VMnV2aFNkbkxnNlUwQUlmUElwZl9CMk50MmJOT1RlS2xEUXhkMHdQMVZRQlNiblZYOE9IR0x2MXNSM3dQakJtTnE4dzhsb3haMjhPVVB3ck9KcmJSYmZKR21GeGZNbm93V3ZldlBsUWdmWms?oc=5>
+
+### 特朗普：将考虑加入沙特打击胡塞武装的行动
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-10-11 14:13
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQ1FWdHJJazVFRFZhak1CUzNnWTRTbTZ2SEdVdkdscmhrVTNFSW9KNmdORm9VbVRIVi1Idjc0VnV0T0dmWm1mY2xrd21HNnJMSzNrSWktZlRJUHphOWowdHp6c2VsTUJVVlJld1hhSGNXRVhZREdrLXgzZE5ibE5sdm5QUk13TDQwWElyTmw5dEl4ak56aGNEcmozZDc5WDk3d044bEI0NTN3alZ5bl9PZVBPZE11ZDdUY2ZuYWY1ZVBDSGpVVDNXRmJjTmMxS2lWc0xWTW52YUsyTXUyQTM4?oc=5>
+
+### 小布什、拜登、特朗普皆深陷泥潭，美媒为何仍警告放弃中东是豪赌
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 腾讯新闻
+- 时间: 2026-10-12 12:39
+- 链接: <https://news.google.com/rss/articles/CBMibEFVX3lxTE91Wk5sTXJpclB1dUE0OUIxRmhnWHA4MTgzTHFVMFR4YmxzRTJPb05FdGlTOHFXNzd1SXR0a2pyR0xFZjRmeGxDSHlTWUpHYWNRTU9qUkQwem4zUlZ3NUVBa2tXa0YwTkV0MVBrbw?oc=5>
+
+### 特朗普鲁比奥被曝非常恼火，这位美国大使或被解职 不当行为引发调查
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华军事
+- 时间: 2026-10-12 07:59
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBsXzIzZmFGeFlXY2h3ODVKbWVGREctTV9PcnBUSzFuSkdkU2dPMG1HWEVGWDZiR2JwcXJyRlM1MndncUhEOTRzMVNNQjM1bUp0MFZBQTJ6aE1yR2RqZUhqdXlGLXpHM3N0aER4a0xtVDY?oc=5>
+
+### US Ties With Allies Are Unlikely to Return to Pre-Trump Norms, Peking University Scholar Says
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Yicai
+- 时间: 2026-10-12 11:28
+- 链接: <https://news.google.com/rss/articles/CBMiwwFBVV95cUxOLTk0RzFWVGVOU282SGpyYktwME45TnlWTHZEYU9JWjhSeng1V0gxdlRjTldBN3kyQ1A3cU5IaE1iSFpEcEs4dWFiSk1CeWZkaDNpUVRZOU9DMUdJTVUyZXQ2SWg2R3poeGVwV1lmeW81empkQWlFOFB0YVVOLTJjcGhKUVhVRXN2UlJCX3Z6MnJqeENEM1ZOZER4YnFjTml5Q2IwdlBhT096Tk5ZTTQ1M2FFMUxBS1dBY1ZuR3RReE54STA?oc=5>
+
+### 2024美国大选，Musk给Trump、共和党捐款$2.9亿2026中期选举，Musk已捐$2.76亿如果算上2025，这个选举周期，Musk已捐$3.66亿不仅是共和党最大金主，也是美国历史上最多的政治捐款​_新浪新闻
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 手机新浪网
+- 时间: 2026-10-12 17:33
+- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Tam5waW04ZDAwNnVHWEFCN05HN1FnQnczNE1pYzBqNkR4OVowVTRfUDh0RXR4NUlicDBVcEIyOU5fci1PM2JWeWVvWG9hVU5vU2YwWF9iS0ZodVByckQzdzRzNA?oc=5>
+
+### 特朗普放宽制裁向普京买油惹怒国会 两党齐声围剿
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 文学城
+- 时间: 2026-10-12 15:20
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9LeVlURTdwYnlYalVEMkNaMm1kV25rZGhxVEpSVnpCV2ZYaXBySk1RdUhqZ09hUV9ad1Fia3J2Y0hJaG1iUzZmVlBSUGNWNU5rYUREb0tkdW9xdmlzV1hlNHlNM2lZZnMx?oc=5>
+
+### $Meta Platforms (META.US)$trump太神了[吃瓜][吃瓜][吃瓜]
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: Moomoo
-- 时间: 2026-10-12 09:09
-- 链接: <https://news.google.com/rss/articles/CBMiugFBVV95cUxPLTJ4STZ0MEJrN0VnZXUyVVl5b1pFeXZSU3NkOXVjVW9IWXZ2UFdWLVQ4eGVhellDcUMxRlEtSThudVpOamtMWjFVNnU4dHdlVVhlSUlMRHBJS0oxTThhX2UzUUdzUXJaeWstS2UtcjVUOUVxMUlXdW1teDM2ZlFrRUs2YVIwRlhfa1FMUy1ZZXdfd19vZVNHc2xTVjRBZHdfZGdiSFpkVzZ3LXlqd2YtLVEwZ1dMVDI1LXc?oc=5>
-
-### 美国法官下令特朗普政府停播纳税人出资宣传广告
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-10-12 06:42
-- 链接: <https://news.google.com/rss/articles/CBMikAFBVV95cUxQTlN3RHl1T3JTVElTeEtqWUFmX0N0N1p6bnNWMllYOXlacmJ4WjVOcjZNcW1CaHZlUkhDZjJlRjhVRjlNdkhNb185ZU9CbUpVLUxHN05GNEt1UEN1Y0x4b2I3N2psYnp1RFo1R0JQaE94WGwwYVdoUXZyRWo0ajFEVEYyRG1VeEJSRVBRS0NGWTA?oc=5>
-
-### Bitcoin Rises After Trump Announces Ukraine-Russia Energy Ceasefire -- Market Talk
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-10-12 06:53
-- 链接: <https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQnFIcmF2MEhvZWpGWnMzemlkMjBrLWgzSXkxS0IybVBBZ1JCbXNCTU1zVEJ6czdHUE9PLWVQWlV5VUdubTRDcm1ic0VlRExqR1lFTkd1YWFCbjdBUVkzdFZPeFg4eHZjLTlxdFBGYW9UWlhXZ3ZWZzRLM3pSei1sZFQzTUdyTUw5NHdTMXJvaklpcE4tT29XVkdybjBRcUQxQ0FOdUpjS2RxSDdJYkJacVFZSDJpbXY1UGtXYmJ2T1o?oc=5>
-
-### 特朗普拟从俄罗斯进口柴油 反对声浪趋涨
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-10-12 05:51
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zSDJYcnExT2ljWjZ2RHloT1RhZ0NUdmtCY1dyR2FRNExHbmFNenEtSkMzSGl0aGR0bXFzRXZKZU9sNFZNSVNkbnFIX2xFYzdVTS1qZUdBa1VoQmsxQW82RGJBQkNjRWvSAWxBVV95cUxNLXRNZTY4SUJtYXBYWDFaS05obkQ4R1JQLVpsblNqLTRsY1NoUUZTd2JvWHAyaEVJNFJzU1NXM3dSSG5DbkdmaU1jajlfZWxVWGNWeGd1Sm9icXRKZDdXTmNxTUNnM3dNQVlySkI?oc=5>
-
-### $Hyperliquid (HYPE.CC)$ 💕Thanks Trump cux u wana bring th...
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-10-12 08:57
-- 链接: <https://news.google.com/rss/articles/CBMiswFBVV95cUxOWE93ZFA4NVFZb293eTJUaXF2cDhSV042UHJJWTlTa3VqVEVwTmpZcHM2eHJfLTNGRlUxdHloY0pKZUUwOVdHV0VjWGZ6VUFmNE12d3owa0laczNtXzY1enduSmFHMzVJNDEyMG43c0dkVVpJVFM3eFBNMzhfQ0tjM0VUbDZ5akRid0xhUTE5dHlDbGNESjlVNGhGQWdfM0xNclpLdHdOWlR2Q3NUN3p1Rmc0QQ?oc=5>
+- 时间: 2026-10-12 15:20
+- 链接: <https://news.google.com/rss/articles/CBMinwFBVV95cUxNYUZVaUJENkI4TVFENWx5eG01emptMEdHS0FZdl9GWS1JQmd6ZmpreG9PQ2pySUJ1NnVBSlp5aTQzRWhXMUhpWkkwX3VoTFNBcGlDMG42aWRXa2V0MjQ2WUMyZ0R0ZEF0bXVlZVh5X29ORGpkdFVWMFNDZnd5VzlrRnV1X051WG44c2RrQzQzem96a2xhNGNLaGIwMHVXdlk?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-12 19:54  (12 条)
+
+- **特朗普** | 特朗普：认为普京已准备好达成协议。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTFB5QUdpX01YT2RRUmp4YzdoRHZSeVQtam15MU1xdEhqa2FSZG1ERnAzT1FmQnVxZFNfbHRpSHNBUTJ0Y2xtanFlYmI5QQ?oc=5>
+- **特朗普** | 距中期选举剩3周！手握数亿资金的特朗普阵营急调竞选资金布局 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFAzT0VjSFdET2RDbUtoUmN4V3AyTVJVazdYYVJ2a3I0bUpZeFRESm1haHZWSXRkd21WWG11d0ZPTV84QXMtVkd4aVdKSzI?oc=5>
+- **特朗普** | 特朗普宣布凯蒂·扎卡里亚将正式出任白宫新闻秘书|唐纳德·特朗普|美国总统|社交媒体|莱维特|新闻简报 <https://news.google.com/rss/articles/CBMidEFVX3lxTE5WWkgwdVlQVnJ3d0RudENxY252N1JuM0lFOHlnZTBSVTRHOFpxYVUtMXJrNnlMcTYtVEV5d3YxOEw5WGZ0ekgtQzBZR3kzcl9KTElPOVZWaFNwOGxKV3p2b1E5Wi12bDZtTTlrTHJ2RTd0Z0F4?oc=5>
+- **特朗普** | 白宫创造历史，特朗普从椭圆形办公室敲响纽交所和纳斯达克开市钟 <https://news.google.com/rss/articles/CBMic0FVX3lxTE0tWjBZSExXcTNoeUxzVjB5c2ZPN3ZIZi1oSWZ1SkhEWUtOZWYyeTZYTE5jaXJ5bXZEM090MVV5Q1U1N2o3M21ra3dsaWVzd3h6c0QxdUpqYXZYZ0l0cjFrMUotVmVrR2ptalEzaHpLTUJaSk0?oc=5>
+- **特朗普** | 沙特机场遭袭，特朗普：美军可能出手 <https://news.google.com/rss/articles/CBMic0FVX3lxTE5VMnV2aFNkbkxnNlUwQUlmUElwZl9CMk50MmJOT1RlS2xEUXhkMHdQMVZRQlNiblZYOE9IR0x2MXNSM3dQakJtTnE4dzhsb3haMjhPVVB3ck9KcmJSYmZKR21GeGZNbm93V3ZldlBsUWdmWms?oc=5>
+- **特朗普** | 特朗普：将考虑加入沙特打击胡塞武装的行动 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQ1FWdHJJazVFRFZhak1CUzNnWTRTbTZ2SEdVdkdscmhrVTNFSW9KNmdORm9VbVRIVi1Idjc0VnV0T0dmWm1mY2xrd21HNnJMSzNrSWktZlRJUHphOWowdHp6c2VsTUJVVlJld1hhSGNXRVhZREdrLXgzZE5ibE5sdm5QUk13TDQwWElyTmw5dEl4ak56aGNEcmozZDc5WDk3d044bEI0NTN3alZ5bl9PZVBPZE11ZDdUY2ZuYWY1ZVBDSGpVVDNXRmJjTmMxS2lWc0xWTW52YUsyTXUyQTM4?oc=5>
+- **特朗普** | 小布什、拜登、特朗普皆深陷泥潭，美媒为何仍警告放弃中东是豪赌 <https://news.google.com/rss/articles/CBMibEFVX3lxTE91Wk5sTXJpclB1dUE0OUIxRmhnWHA4MTgzTHFVMFR4YmxzRTJPb05FdGlTOHFXNzd1SXR0a2pyR0xFZjRmeGxDSHlTWUpHYWNRTU9qUkQwem4zUlZ3NUVBa2tXa0YwTkV0MVBrbw?oc=5>
+- **特朗普** | 特朗普鲁比奥被曝非常恼火，这位美国大使或被解职 不当行为引发调查 <https://news.google.com/rss/articles/CBMicEFVX3lxTFBsXzIzZmFGeFlXY2h3ODVKbWVGREctTV9PcnBUSzFuSkdkU2dPMG1HWEVGWDZiR2JwcXJyRlM1MndncUhEOTRzMVNNQjM1bUp0MFZBQTJ6aE1yR2RqZUhqdXlGLXpHM3N0aER4a0xtVDY?oc=5>
+- **Trump** | US Ties With Allies Are Unlikely to Return to Pre-Trump Norms, Peking University Scholar Says <https://news.google.com/rss/articles/CBMiwwFBVV95cUxOLTk0RzFWVGVOU282SGpyYktwME45TnlWTHZEYU9JWjhSeng1V0gxdlRjTldBN3kyQ1A3cU5IaE1iSFpEcEs4dWFiSk1CeWZkaDNpUVRZOU9DMUdJTVUyZXQ2SWg2R3poeGVwV1lmeW81empkQWlFOFB0YVVOLTJjcGhKUVhVRXN2UlJCX3Z6MnJqeENEM1ZOZER4YnFjTml5Q2IwdlBhT096Tk5ZTTQ1M2FFMUxBS1dBY1ZuR3RReE54STA?oc=5>
+- **Trump** | 2024美国大选，Musk给Trump、共和党捐款$2.9亿2026中期选举，Musk已捐$2.76亿如果算上2025，这个选举周期，Musk已捐$3.66亿不仅是共和党最大金主，也是美国历史上最多的政治捐款​_新浪新闻 <https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Tam5waW04ZDAwNnVHWEFCN05HN1FnQnczNE1pYzBqNkR4OVowVTRfUDh0RXR4NUlicDBVcEIyOU5fci1PM2JWeWVvWG9hVU5vU2YwWF9iS0ZodVByckQzdzRzNA?oc=5>
+- **Trump** | 特朗普放宽制裁向普京买油惹怒国会 两党齐声围剿 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9LeVlURTdwYnlYalVEMkNaMm1kV25rZGhxVEpSVnpCV2ZYaXBySk1RdUhqZ09hUV9ad1Fia3J2Y0hJaG1iUzZmVlBSUGNWNU5rYUREb0tkdW9xdmlzV1hlNHlNM2lZZnMx?oc=5>
+- **Trump** | $Meta Platforms (META.US)$trump太神了[吃瓜][吃瓜][吃瓜] <https://news.google.com/rss/articles/CBMinwFBVV95cUxNYUZVaUJENkI4TVFENWx5eG01emptMEdHS0FZdl9GWS1JQmd6ZmpreG9PQ2pySUJ1NnVBSlp5aTQzRWhXMUhpWkkwX3VoTFNBcGlDMG42aWRXa2V0MjQ2WUMyZ0R0ZEF0bXVlZVh5X29ORGpkdFVWMFNDZnd5VzlrRnV1X051WG44c2RrQzQzem96a2xhNGNLaGIwMHVXdlk?oc=5>
 
 ### 2026-10-12 10:05  (11 条)
 
