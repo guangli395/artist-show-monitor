@@ -1,110 +1,118 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-12 02:32**
-- 本轮扫到 13731 条, 新增 **12** 条
+- 最近更新: **2026-10-12 10:05**
+- 本轮扫到 13742 条, 新增 **11** 条
 
 ---
 
-## 本轮新发现 (12 条)
+## 本轮新发现 (11 条)
 
-### 周杰伦在青岛演唱会弹唱《爱琴海》，和青岛适配度好高，听完浑身起鸡皮疙瘩了
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923942_m1d5ae18e60330280fa.html>
-
-### 沙特机场遭袭，特朗普：美军可能出手
+### 美FBI拟与终极格斗冠军赛签合同，为特工提供格斗训练：总裁是特朗普好友
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-10-12 00:05
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9XX2VLUlVCSmZOb1NPcl9kUnNEelBfSlhBSTBQZEhOSmVLbnZ4VjMwZHFmbmVpMW9IeTA3QmRDVjM1MFdfXzRYelItQWs?oc=5>
+- 时间: 2026-10-12 08:45
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9Qam5rbXVBQUJxdmhyRDlnVDZQdUtXUUNEMFR6VUZhZkp3dTJORUhxWW9NZzl5dmdyWnJ5Y2xqUXRfWmdHdGFBN2x4YUQ?oc=5>
 
-### 特朗普呼吁：立即罢免泽连斯基
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-10-12 02:26
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1uWEp3alRBOVFqZm83M2FZaE9sWm9naTFtZzh0UE50YnowNGo4djhPbHZwMkhFSVphWnd6S0ZKbU1SbFZSUWFxWGxVdkhxQnJIUDV1RmdscDNhMEFpNlFoLVQxYXFObnJOLUJLUVZxanVITVk?oc=5>
-
-### 特朗普宣布：新任白宫新闻秘书13日举行首次新闻发布会
+### 拳王泰森力挺共和党：特朗普曾在他因强奸入狱时为其辩护
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-10-12 00:37
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBsZEhQNl9odS04M2VCRDlCWHdUWlhnY1IwQ05xc25qdGdzdFZpZmdRMHVMY2F5YWNGT3NPWVNxUXFTaWJUdWl0VU5UejFqRE9OenktWmVSY09KTDVBQ29ITkg1R2s5YWx4eHAxM3I0a3pLZVllbjVVaw?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-10-10 11:10
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE12YzQ0WHRrTTdQVlV2QUtyeHhqQkluS2IwQWlpWWhrSEJKeVhsQlV0N1hGZEZhR2MwZzBlemJZd0hmU2pyaWE0bzRQLXI?oc=5>
 
-### 继马斯克后！英伟达、微软等响应特朗普为AI改名的倡议 公开支持超级智能
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 驱动之家
-- 时间: 2026-10-12 00:10
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE03UzF2cC1SRXFUM2xiRHdQdmI1NmNJYm9EOWdyWG9zc0F1amVLeFJ2bGlMN09EeVhwRnVTTEYtS2k2OURyUzJQRWs1Z2psN3JUVW5mdjlQd0I?oc=5>
-
-### 有理儿有面：特朗普上演美式双标 餐桌上的双重标准
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-10-11 23:47
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBDQTUteFZvSVpYNVBUYWxUd1RuYUVhbVZrZlI3aEljeGhQZnBJbG8tcUNpbk9DNmZHbGZWRUdvOGh3R1U1eDZLVWFpank4dzNsWl9SOWtFWldiZ2VQeHBnbHRnaGNZLVREUS15LTZnaEM?oc=5>
-
-### 特朗普“送礼”，俄罗斯下一步或将这样做
+### “我很乐意看到他成为共和党人！”临近中期选举，特朗普为何公开挖角？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 观察者网
-- 时间: 2026-10-10 09:32
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE14ZEh5eHVCLXVWMUFLMU5aWFdReGNQbHYybHg4Ylo1c3IzY0lDTGZyWWtlSHFrRm8tcWEwTndSdkpsdDRoeFpIZWdaZlFfaG9FM1RyV1lyWVJVcEp1azB2ZEVBZmFlZzM4VTVhZUhjODdsemc?oc=5>
+- 时间: 2026-10-12 08:47
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFB6V3ZsOVJ6RUpYVDcxZ0xpTm1UblNBU1R4a19rRDdpRVVvZE9reGF4RFlXTnRabm50eFR2T2ZLS3RzcmF2WHZmZzQ5STdlZjFlUElCYXc1TGRGUGdzbk9veThoUWx5YUxQQloxaWd1Zng5NWc?oc=5>
 
-### 再次谋求罢免美联储理事 特朗普特设委员会调查库克
+### 特朗普提议给大西洋或太平洋更名：可以叫“特朗普洋”或者“美洲洋”之类的
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-10-12 04:59
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE53NE44bUNWVnhPYzJoaDFDN0lDRmNPR09GLVpjSDN1R2dzcENUbGNpZU1uRmM2V2NBNjVTd3Z1TXFEd2JlMHpBNElTanVkdmlPQVFPbGFkNXlxdEFfX21iVzh1RlVvaUdpZDNlOUJHRVk1dw?oc=5>
+
+### 特朗普鲁比奥被曝“非常恼火”，美国大使或被解职 被指滥用公权力接受礼物和服务，用影响力解决巨额信用卡账单，曾是特朗普“准媳妇”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 搜狐
+- 时间: 2026-10-12 09:35
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNU8zc2duSUFwQWlqal84Y3cyX1h1amhrZ2lLbC1DeHMwZ0FSZU1MRFNjdDFVNVplU3lZQ0N3Q2RBVFlsSl96allRc0pCMHBfRDB4LXhxRlgyYV9hTEpNNmdmSFNFOC1fZUIxN1A4cU1sY3kyQXhXLTVod3NPc01PRjFkNjludUJW?oc=5>
+
+### 特朗普突宣布美国将自俄进口柴油 批评者质疑会助长俄战争经济
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 财新
-- 时间: 2026-10-10 04:27
-- 链接: <https://news.google.com/rss/articles/CBMibEFVX3lxTE9MUHRZNmxOOTlINGdYcm5hdVRlLVVyT3JHOGFELUo2enJzbU11dFdGbFB5MHNiaEY4LXV6N2oxNlZ1aVZzM1ZvM05FRUx5WVFXZDZNR1B4a0hNUEpMRU9vQ2x0NURxOWowbHpHdg?oc=5>
+- 时间: 2026-10-10 03:21
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE0tT242YWtYRWtnQXpLaDU3WjlSY2I1MXBjWjdmT25ZVDNhNzlFNmpIVWI4Tlcxb0s3cThMWGZjNUtHSkt4TTJBcjQ1WVVVNlhFVGJhN2ZOLWppZ24xaWVvOEp0QmpNaHVPS1E?oc=5>
 
-### 特朗普：俄乌双方同意“能源停火”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-10-11 14:22
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9UUU9NR3laeko2ajVyUXZKYXpTX09YWHI1LW1sM1lTUDNQV2hTNERBVzN2QmV5NHNhT2dFcGctam80T2FETEtZQ0FXektYbXJ4aGlrczBHMjhjSzF1c2h3d1U0dURwY3RPU1J4Z0NacmFJT0ZaWTF3SWxVckVpcWc?oc=5>
-
-### 特朗普宣布“俄乌能源停火”：双方都同意了，但乌克兰不在桌边
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中国新闻网
-- 时间: 2026-10-12 01:01
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NVVJBekxXSV82b0lCWjV1djdKOGpLQVl4dUZ1VzhXNUl1RTlDWUJXWlR6cm4zbXVXeE5oMWFDNmpPVUxXS08zV0VHZDA4TTZQSWR5SlJNeEpMeXBkU0E2bjFPZFhYSERq?oc=5>
-
-### 称乌克兰该换总统，特朗普又唱哪一出
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 上观新闻
-- 时间: 2026-10-11 23:49
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OdHJSakZXdG52LVZaNXk1bHNIY2VPT3QwUVZ2cy1hXzdlVU9fb1RjTkRDYTRRZnN4Wk5PX0RzU3E2VVRDNkotYmVCX2JIT2twMXpkeWxoa0x3d1VxVWc?oc=5>
-
-### 特朗普呼吁乌克兰停止袭击俄罗斯炼油厂，并撤换泽连斯基
+### Bitcoin Holds Above $83,000 After Trump Announces Ukraine-Russia Energy Ceasefire
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-10-12 00:38
-- 链接: <https://news.google.com/rss/articles/CBMitAFBVV95cUxQQTl4TFRxeU82WmUtLUNyZUF0NE9JQ2NHR2JzOWRjWFplWU5NVzdOWmZYUnhLdTl5cnFiUnl4TUxjZlQ3SHExbHFBSVVDTVdUOVJUSHRPZXlxeW1ndXNFQmF1MVNHNHY0bGN1S3FiQmU0NVBvVHFkRUVNVGxkZ2JsdmhFekcyanZmc1hrc2Ztc2xDY3lUVnVDTWh2SEVOQVdUb3dxMi0zbEgtN3dKdVNyOUREM1c?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-10-12 09:09
+- 链接: <https://news.google.com/rss/articles/CBMiugFBVV95cUxPLTJ4STZ0MEJrN0VnZXUyVVl5b1pFeXZSU3NkOXVjVW9IWXZ2UFdWLVQ4eGVhellDcUMxRlEtSThudVpOamtMWjFVNnU4dHdlVVhlSUlMRHBJS0oxTThhX2UzUUdzUXJaeWstS2UtcjVUOUVxMUlXdW1teDM2ZlFrRUs2YVIwRlhfa1FMUy1ZZXdfd19vZVNHc2xTVjRBZHdfZGdiSFpkVzZ3LXlqd2YtLVEwZ1dMVDI1LXc?oc=5>
+
+### 美国法官下令特朗普政府停播纳税人出资宣传广告
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 8world
+- 时间: 2026-10-12 06:42
+- 链接: <https://news.google.com/rss/articles/CBMikAFBVV95cUxQTlN3RHl1T3JTVElTeEtqWUFmX0N0N1p6bnNWMllYOXlacmJ4WjVOcjZNcW1CaHZlUkhDZjJlRjhVRjlNdkhNb185ZU9CbUpVLUxHN05GNEt1UEN1Y0x4b2I3N2psYnp1RFo1R0JQaE94WGwwYVdoUXZyRWo0ajFEVEYyRG1VeEJSRVBRS0NGWTA?oc=5>
+
+### Bitcoin Rises After Trump Announces Ukraine-Russia Energy Ceasefire -- Market Talk
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-10-12 06:53
+- 链接: <https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQnFIcmF2MEhvZWpGWnMzemlkMjBrLWgzSXkxS0IybVBBZ1JCbXNCTU1zVEJ6czdHUE9PLWVQWlV5VUdubTRDcm1ic0VlRExqR1lFTkd1YWFCbjdBUVkzdFZPeFg4eHZjLTlxdFBGYW9UWlhXZ3ZWZzRLM3pSei1sZFQzTUdyTUw5NHdTMXJvaklpcE4tT29XVkdybjBRcUQxQ0FOdUpjS2RxSDdJYkJacVFZSDJpbXY1UGtXYmJ2T1o?oc=5>
+
+### 特朗普拟从俄罗斯进口柴油 反对声浪趋涨
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: BBC
+- 时间: 2026-10-12 05:51
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zSDJYcnExT2ljWjZ2RHloT1RhZ0NUdmtCY1dyR2FRNExHbmFNenEtSkMzSGl0aGR0bXFzRXZKZU9sNFZNSVNkbnFIX2xFYzdVTS1qZUdBa1VoQmsxQW82RGJBQkNjRWvSAWxBVV95cUxNLXRNZTY4SUJtYXBYWDFaS05obkQ4R1JQLVpsblNqLTRsY1NoUUZTd2JvWHAyaEVJNFJzU1NXM3dSSG5DbkdmaU1jajlfZWxVWGNWeGd1Sm9icXRKZDdXTmNxTUNnM3dNQVlySkI?oc=5>
+
+### $Hyperliquid (HYPE.CC)$ 💕Thanks Trump cux u wana bring th...
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-10-12 08:57
+- 链接: <https://news.google.com/rss/articles/CBMiswFBVV95cUxOWE93ZFA4NVFZb293eTJUaXF2cDhSV042UHJJWTlTa3VqVEVwTmpZcHM2eHJfLTNGRlUxdHloY0pKZUUwOVdHV0VjWGZ6VUFmNE12d3owa0laczNtXzY1enduSmFHMzVJNDEyMG43c0dkVVpJVFM3eFBNMzhfQ0tjM0VUbDZ5akRid0xhUTE5dHlDbGNESjlVNGhGQWdfM0xNclpLdHdOWlR2Q3NUN3p1Rmc0QQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-12 10:05  (11 条)
+
+- **特朗普** | 美FBI拟与终极格斗冠军赛签合同，为特工提供格斗训练：总裁是特朗普好友 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9Qam5rbXVBQUJxdmhyRDlnVDZQdUtXUUNEMFR6VUZhZkp3dTJORUhxWW9NZzl5dmdyWnJ5Y2xqUXRfWmdHdGFBN2x4YUQ?oc=5>
+- **特朗普** | 拳王泰森力挺共和党：特朗普曾在他因强奸入狱时为其辩护 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE12YzQ0WHRrTTdQVlV2QUtyeHhqQkluS2IwQWlpWWhrSEJKeVhsQlV0N1hGZEZhR2MwZzBlemJZd0hmU2pyaWE0bzRQLXI?oc=5>
+- **特朗普** | “我很乐意看到他成为共和党人！”临近中期选举，特朗普为何公开挖角？ <https://news.google.com/rss/articles/CBMic0FVX3lxTFB6V3ZsOVJ6RUpYVDcxZ0xpTm1UblNBU1R4a19rRDdpRVVvZE9reGF4RFlXTnRabm50eFR2T2ZLS3RzcmF2WHZmZzQ5STdlZjFlUElCYXc1TGRGUGdzbk9veThoUWx5YUxQQloxaWd1Zng5NWc?oc=5>
+- **特朗普** | 特朗普提议给大西洋或太平洋更名：可以叫“特朗普洋”或者“美洲洋”之类的 <https://news.google.com/rss/articles/CBMickFVX3lxTE53NE44bUNWVnhPYzJoaDFDN0lDRmNPR09GLVpjSDN1R2dzcENUbGNpZU1uRmM2V2NBNjVTd3Z1TXFEd2JlMHpBNElTanVkdmlPQVFPbGFkNXlxdEFfX21iVzh1RlVvaUdpZDNlOUJHRVk1dw?oc=5>
+- **特朗普** | 特朗普鲁比奥被曝“非常恼火”，美国大使或被解职 被指滥用公权力接受礼物和服务，用影响力解决巨额信用卡账单，曾是特朗普“准媳妇” <https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNU8zc2duSUFwQWlqal84Y3cyX1h1amhrZ2lLbC1DeHMwZ0FSZU1MRFNjdDFVNVplU3lZQ0N3Q2RBVFlsSl96allRc0pCMHBfRDB4LXhxRlgyYV9hTEpNNmdmSFNFOC1fZUIxN1A4cU1sY3kyQXhXLTVod3NPc01PRjFkNjludUJW?oc=5>
+- **特朗普** | 特朗普突宣布美国将自俄进口柴油 批评者质疑会助长俄战争经济 <https://news.google.com/rss/articles/CBMiakFVX3lxTE0tT242YWtYRWtnQXpLaDU3WjlSY2I1MXBjWjdmT25ZVDNhNzlFNmpIVWI4Tlcxb0s3cThMWGZjNUtHSkt4TTJBcjQ1WVVVNlhFVGJhN2ZOLWppZ24xaWVvOEp0QmpNaHVPS1E?oc=5>
+- **Trump** | Bitcoin Holds Above $83,000 After Trump Announces Ukraine-Russia Energy Ceasefire <https://news.google.com/rss/articles/CBMiugFBVV95cUxPLTJ4STZ0MEJrN0VnZXUyVVl5b1pFeXZSU3NkOXVjVW9IWXZ2UFdWLVQ4eGVhellDcUMxRlEtSThudVpOamtMWjFVNnU4dHdlVVhlSUlMRHBJS0oxTThhX2UzUUdzUXJaeWstS2UtcjVUOUVxMUlXdW1teDM2ZlFrRUs2YVIwRlhfa1FMUy1ZZXdfd19vZVNHc2xTVjRBZHdfZGdiSFpkVzZ3LXlqd2YtLVEwZ1dMVDI1LXc?oc=5>
+- **Trump** | 美国法官下令特朗普政府停播纳税人出资宣传广告 <https://news.google.com/rss/articles/CBMikAFBVV95cUxQTlN3RHl1T3JTVElTeEtqWUFmX0N0N1p6bnNWMllYOXlacmJ4WjVOcjZNcW1CaHZlUkhDZjJlRjhVRjlNdkhNb185ZU9CbUpVLUxHN05GNEt1UEN1Y0x4b2I3N2psYnp1RFo1R0JQaE94WGwwYVdoUXZyRWo0ajFEVEYyRG1VeEJSRVBRS0NGWTA?oc=5>
+- **Trump** | Bitcoin Rises After Trump Announces Ukraine-Russia Energy Ceasefire -- Market Talk <https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQnFIcmF2MEhvZWpGWnMzemlkMjBrLWgzSXkxS0IybVBBZ1JCbXNCTU1zVEJ6czdHUE9PLWVQWlV5VUdubTRDcm1ic0VlRExqR1lFTkd1YWFCbjdBUVkzdFZPeFg4eHZjLTlxdFBGYW9UWlhXZ3ZWZzRLM3pSei1sZFQzTUdyTUw5NHdTMXJvaklpcE4tT29XVkdybjBRcUQxQ0FOdUpjS2RxSDdJYkJacVFZSDJpbXY1UGtXYmJ2T1o?oc=5>
+- **Trump** | 特朗普拟从俄罗斯进口柴油 反对声浪趋涨 <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zSDJYcnExT2ljWjZ2RHloT1RhZ0NUdmtCY1dyR2FRNExHbmFNenEtSkMzSGl0aGR0bXFzRXZKZU9sNFZNSVNkbnFIX2xFYzdVTS1qZUdBa1VoQmsxQW82RGJBQkNjRWvSAWxBVV95cUxNLXRNZTY4SUJtYXBYWDFaS05obkQ4R1JQLVpsblNqLTRsY1NoUUZTd2JvWHAyaEVJNFJzU1NXM3dSSG5DbkdmaU1jajlfZWxVWGNWeGd1Sm9icXRKZDdXTmNxTUNnM3dNQVlySkI?oc=5>
+- **Trump** | $Hyperliquid (HYPE.CC)$ 💕Thanks Trump cux u wana bring th... <https://news.google.com/rss/articles/CBMiswFBVV95cUxOWE93ZFA4NVFZb293eTJUaXF2cDhSV042UHJJWTlTa3VqVEVwTmpZcHM2eHJfLTNGRlUxdHloY0pKZUUwOVdHV0VjWGZ6VUFmNE12d3owa0laczNtXzY1enduSmFHMzVJNDEyMG43c0dkVVpJVFM3eFBNMzhfQ0tjM0VUbDZ5akRid0xhUTE5dHlDbGNESjlVNGhGQWdfM0xNclpLdHdOWlR2Q3NUN3p1Rmc0QQ?oc=5>
 
 ### 2026-10-12 02:32  (12 条)
 
