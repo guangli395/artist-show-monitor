@@ -1,62 +1,125 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-11 23:01**
-- 本轮扫到 13719 条, 新增 **6** 条
+- 最近更新: **2026-10-12 02:32**
+- 本轮扫到 13731 条, 新增 **12** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (12 条)
 
-### 蔡徐坤新歌Demo进入挑选，入选曲目将进入制作
+### 周杰伦在青岛演唱会弹唱《爱琴海》，和青岛适配度好高，听完浑身起鸡皮疙瘩了
 
-- 艺人/关键词: **蔡徐坤**
+- 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1852855013_m6e7052e505302vksw.html>
+- 链接: <https://k.sina.com.cn/article_7879923942_m1d5ae18e60330280fa.html>
 
-### 特朗普宣布凯蒂·扎卡里亚将正式出任白宫新闻秘书|唐纳德·特朗普|美国总统|莱维特|新闻简报|社交媒体
+### 沙特机场遭袭，特朗普：美军可能出手
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-10-12 00:05
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9XX2VLUlVCSmZOb1NPcl9kUnNEelBfSlhBSTBQZEhOSmVLbnZ4VjMwZHFmbmVpMW9IeTA3QmRDVjM1MFdfXzRYelItQWs?oc=5>
+
+### 特朗普呼吁：立即罢免泽连斯基
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-10-12 02:26
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1uWEp3alRBOVFqZm83M2FZaE9sWm9naTFtZzh0UE50YnowNGo4djhPbHZwMkhFSVphWnd6S0ZKbU1SbFZSUWFxWGxVdkhxQnJIUDV1RmdscDNhMEFpNlFoLVQxYXFObnJOLUJLUVZxanVITVk?oc=5>
+
+### 特朗普宣布：新任白宫新闻秘书13日举行首次新闻发布会
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-10-11 22:39
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxPNWVPeWxodzJfTkl0cGxzVW1PS0xUdUlBbmFTWTRDbXNfSTlIYlA1LV9PLWVQRnJwSElocWotUDQwRXQ3SzhOMmk3WGloNHEtemhET0VJbDVqZGNxQUVXZWY1UTNJamdtZ1BfS21STl9KVkxRQzVub0tWRTREamp3dnQ5NjlqckZHOFZ2MXZLSUNta3VHS21XdQ?oc=5>
+- 时间: 2026-10-12 00:37
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBsZEhQNl9odS04M2VCRDlCWHdUWlhnY1IwQ05xc25qdGdzdFZpZmdRMHVMY2F5YWNGT3NPWVNxUXFTaWJUdWl0VU5UejFqRE9OenktWmVSY09KTDVBQ29ITkg1R2s5YWx4eHAxM3I0a3pLZVllbjVVaw?oc=5>
 
-### 美议员：美俄柴油协议违法
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-10-11 21:15
-- 链接: <https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWjFnU0c2anhXN1UwX1lVclhqTzFOQ05mUVFBSzVCcVNmVjhqU1NkZzZ2Z2Jka0duWHhNV0VCa0VRRk9ZTDBKS3p6VHZlZGQ1LUw0eGJ5eWdnbk5wTHhyUFJqamZrR2ItUlNJUUVaV0hFRzhOMjR6VGpISXBuVnpMUlJIWi0xbE5xdENnOThwMndSRDlOREhsWC0wcHRYRmlfSWpaa2l5b1RtMVg1RHNKTzRPLXVJWXFSVVYxd3d3eDJCaFBkQ3ZLV0hWelRxN1h2aUMxS1U0cVdOQUpZY0haTTc2dko?oc=5>
-
-### 特朗普突然翻脸，中方没空搭理，正忙着开门迎客，日程排到了16日
+### 继马斯克后！英伟达、微软等响应特朗普为AI改名的倡议 公开支持超级智能
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 风闻
-- 时间: 2026-10-10 22:08
-- 链接: <https://news.google.com/rss/articles/CBMiW0FVX3lxTE81TVkyNWxIMWdWTGNPOUtqbUVxXzFZR1IyY1c3Wk5FN1pHekVwMFJiS2NwbFo0cjkxTF9xeFlrdnJiN200azJBYkJQeURRRDVfN1k3elhKemlsd0E?oc=5>
+- 场馆: 驱动之家
+- 时间: 2026-10-12 00:10
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE03UzF2cC1SRXFUM2xiRHdQdmI1NmNJYm9EOWdyWG9zc0F1amVLeFJ2bGlMN09EeVhwRnVTTEYtS2k2OURyUzJQRWs1Z2psN3JUVW5mdjlQd0I?oc=5>
 
-### 特朗普现场提议：改名为“特朗普洋”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-10-11 13:28
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE8tT1FPN0xCUXMyOW1XTF9JR2JIamc3S1FSeHpORmdOMnliTGJqaC1yQXF3VHVyZ2N6Wk1LLV84SlBKUGRRZWRqWQ?oc=5>
-
-### 特朗普：将考虑加入沙特打击胡塞武装的行动
+### 有理儿有面：特朗普上演美式双标 餐桌上的双重标准
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-10-11 14:47
-- 链接: <https://news.google.com/rss/articles/CBMingJBVV95cUxNTVlnLWRQaXVrN1Z5SEZkZTdkU0dXOGZ1bVI5bXlKV1pfdWZqeEExdjE5OTYyVjEzSWloZ2RVLUpFYm1Dbl80clVRYnJDcWhLYlBybWcxR2tMTjc1Q19JcWFZdTJueUdxbnRlUEJaUks4M2NONTdNLS1pMVYxekpkQ1MtR05DT092cUVqT0hpaFQtY3czZlpJSW5JZnp0NDN3TlVTU2VLSHRILXVreDN0dDVyMkFzR2EzMkhnVUpoQkZuVW9ILWF4bDBrZnVGNjhYVjl1b1NGUHhsei1QdmZqV3JlN0NUWXNLQ0NCeW4yUDRIblR5VFUtNm1qb2UxRXMwalRqRVYxQUFqVncxTGNsbFZOaFlMWWQ2THRfV2p3?oc=5>
+- 场馆: 中华网
+- 时间: 2026-10-11 23:47
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBDQTUteFZvSVpYNVBUYWxUd1RuYUVhbVZrZlI3aEljeGhQZnBJbG8tcUNpbk9DNmZHbGZWRUdvOGh3R1U1eDZLVWFpank4dzNsWl9SOWtFWldiZ2VQeHBnbHRnaGNZLVREUS15LTZnaEM?oc=5>
+
+### 特朗普“送礼”，俄罗斯下一步或将这样做
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者网
+- 时间: 2026-10-10 09:32
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE14ZEh5eHVCLXVWMUFLMU5aWFdReGNQbHYybHg4Ylo1c3IzY0lDTGZyWWtlSHFrRm8tcWEwTndSdkpsdDRoeFpIZWdaZlFfaG9FM1RyV1lyWVJVcEp1azB2ZEVBZmFlZzM4VTVhZUhjODdsemc?oc=5>
+
+### 再次谋求罢免美联储理事 特朗普特设委员会调查库克
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 财新
+- 时间: 2026-10-10 04:27
+- 链接: <https://news.google.com/rss/articles/CBMibEFVX3lxTE9MUHRZNmxOOTlINGdYcm5hdVRlLVVyT3JHOGFELUo2enJzbU11dFdGbFB5MHNiaEY4LXV6N2oxNlZ1aVZzM1ZvM05FRUx5WVFXZDZNR1B4a0hNUEpMRU9vQ2x0NURxOWowbHpHdg?oc=5>
+
+### 特朗普：俄乌双方同意“能源停火”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-10-11 14:22
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9UUU9NR3laeko2ajVyUXZKYXpTX09YWHI1LW1sM1lTUDNQV2hTNERBVzN2QmV5NHNhT2dFcGctam80T2FETEtZQ0FXektYbXJ4aGlrczBHMjhjSzF1c2h3d1U0dURwY3RPU1J4Z0NacmFJT0ZaWTF3SWxVckVpcWc?oc=5>
+
+### 特朗普宣布“俄乌能源停火”：双方都同意了，但乌克兰不在桌边
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中国新闻网
+- 时间: 2026-10-12 01:01
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NVVJBekxXSV82b0lCWjV1djdKOGpLQVl4dUZ1VzhXNUl1RTlDWUJXWlR6cm4zbXVXeE5oMWFDNmpPVUxXS08zV0VHZDA4TTZQSWR5SlJNeEpMeXBkU0E2bjFPZFhYSERq?oc=5>
+
+### 称乌克兰该换总统，特朗普又唱哪一出
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 上观新闻
+- 时间: 2026-10-11 23:49
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OdHJSakZXdG52LVZaNXk1bHNIY2VPT3QwUVZ2cy1hXzdlVU9fb1RjTkRDYTRRZnN4Wk5PX0RzU3E2VVRDNkotYmVCX2JIT2twMXpkeWxoa0x3d1VxVWc?oc=5>
+
+### 特朗普呼吁乌克兰停止袭击俄罗斯炼油厂，并撤换泽连斯基
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-10-12 00:38
+- 链接: <https://news.google.com/rss/articles/CBMitAFBVV95cUxQQTl4TFRxeU82WmUtLUNyZUF0NE9JQ2NHR2JzOWRjWFplWU5NVzdOWmZYUnhLdTl5cnFiUnl4TUxjZlQ3SHExbHFBSVVDTVdUOVJUSHRPZXlxeW1ndXNFQmF1MVNHNHY0bGN1S3FiQmU0NVBvVHFkRUVNVGxkZ2JsdmhFekcyanZmc1hrc2Ztc2xDY3lUVnVDTWh2SEVOQVdUb3dxMi0zbEgtN3dKdVNyOUREM1c?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-12 02:32  (12 条)
+
+- **周杰伦** | 周杰伦在青岛演唱会弹唱《爱琴海》，和青岛适配度好高，听完浑身起鸡皮疙瘩了 <https://k.sina.com.cn/article_7879923942_m1d5ae18e60330280fa.html>
+- **特朗普** | 沙特机场遭袭，特朗普：美军可能出手 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9XX2VLUlVCSmZOb1NPcl9kUnNEelBfSlhBSTBQZEhOSmVLbnZ4VjMwZHFmbmVpMW9IeTA3QmRDVjM1MFdfXzRYelItQWs?oc=5>
+- **特朗普** | 特朗普呼吁：立即罢免泽连斯基 <https://news.google.com/rss/articles/CBMic0FVX3lxTE1uWEp3alRBOVFqZm83M2FZaE9sWm9naTFtZzh0UE50YnowNGo4djhPbHZwMkhFSVphWnd6S0ZKbU1SbFZSUWFxWGxVdkhxQnJIUDV1RmdscDNhMEFpNlFoLVQxYXFObnJOLUJLUVZxanVITVk?oc=5>
+- **特朗普** | 特朗普宣布：新任白宫新闻秘书13日举行首次新闻发布会 <https://news.google.com/rss/articles/CBMieEFVX3lxTFBsZEhQNl9odS04M2VCRDlCWHdUWlhnY1IwQ05xc25qdGdzdFZpZmdRMHVMY2F5YWNGT3NPWVNxUXFTaWJUdWl0VU5UejFqRE9OenktWmVSY09KTDVBQ29ITkg1R2s5YWx4eHAxM3I0a3pLZVllbjVVaw?oc=5>
+- **特朗普** | 继马斯克后！英伟达、微软等响应特朗普为AI改名的倡议 公开支持超级智能 <https://news.google.com/rss/articles/CBMiWEFVX3lxTE03UzF2cC1SRXFUM2xiRHdQdmI1NmNJYm9EOWdyWG9zc0F1amVLeFJ2bGlMN09EeVhwRnVTTEYtS2k2OURyUzJQRWs1Z2psN3JUVW5mdjlQd0I?oc=5>
+- **特朗普** | 有理儿有面：特朗普上演美式双标 餐桌上的双重标准 <https://news.google.com/rss/articles/CBMicEFVX3lxTFBDQTUteFZvSVpYNVBUYWxUd1RuYUVhbVZrZlI3aEljeGhQZnBJbG8tcUNpbk9DNmZHbGZWRUdvOGh3R1U1eDZLVWFpank4dzNsWl9SOWtFWldiZ2VQeHBnbHRnaGNZLVREUS15LTZnaEM?oc=5>
+- **特朗普** | 特朗普“送礼”，俄罗斯下一步或将这样做 <https://news.google.com/rss/articles/CBMic0FVX3lxTE14ZEh5eHVCLXVWMUFLMU5aWFdReGNQbHYybHg4Ylo1c3IzY0lDTGZyWWtlSHFrRm8tcWEwTndSdkpsdDRoeFpIZWdaZlFfaG9FM1RyV1lyWVJVcEp1azB2ZEVBZmFlZzM4VTVhZUhjODdsemc?oc=5>
+- **特朗普** | 再次谋求罢免美联储理事 特朗普特设委员会调查库克 <https://news.google.com/rss/articles/CBMibEFVX3lxTE9MUHRZNmxOOTlINGdYcm5hdVRlLVVyT3JHOGFELUo2enJzbU11dFdGbFB5MHNiaEY4LXV6N2oxNlZ1aVZzM1ZvM05FRUx5WVFXZDZNR1B4a0hNUEpMRU9vQ2x0NURxOWowbHpHdg?oc=5>
+- **特朗普** | 特朗普：俄乌双方同意“能源停火” <https://news.google.com/rss/articles/CBMif0FVX3lxTE9UUU9NR3laeko2ajVyUXZKYXpTX09YWHI1LW1sM1lTUDNQV2hTNERBVzN2QmV5NHNhT2dFcGctam80T2FETEtZQ0FXektYbXJ4aGlrczBHMjhjSzF1c2h3d1U0dURwY3RPU1J4Z0NacmFJT0ZaWTF3SWxVckVpcWc?oc=5>
+- **特朗普** | 特朗普宣布“俄乌能源停火”：双方都同意了，但乌克兰不在桌边 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NVVJBekxXSV82b0lCWjV1djdKOGpLQVl4dUZ1VzhXNUl1RTlDWUJXWlR6cm4zbXVXeE5oMWFDNmpPVUxXS08zV0VHZDA4TTZQSWR5SlJNeEpMeXBkU0E2bjFPZFhYSERq?oc=5>
+- **特朗普** | 称乌克兰该换总统，特朗普又唱哪一出 <https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OdHJSakZXdG52LVZaNXk1bHNIY2VPT3QwUVZ2cy1hXzdlVU9fb1RjTkRDYTRRZnN4Wk5PX0RzU3E2VVRDNkotYmVCX2JIT2twMXpkeWxoa0x3d1VxVWc?oc=5>
+- **Trump** | 特朗普呼吁乌克兰停止袭击俄罗斯炼油厂，并撤换泽连斯基 <https://news.google.com/rss/articles/CBMitAFBVV95cUxQQTl4TFRxeU82WmUtLUNyZUF0NE9JQ2NHR2JzOWRjWFplWU5NVzdOWmZYUnhLdTl5cnFiUnl4TUxjZlQ3SHExbHFBSVVDTVdUOVJUSHRPZXlxeW1ndXNFQmF1MVNHNHY0bGN1S3FiQmU0NVBvVHFkRUVNVGxkZ2JsdmhFekcyanZmc1hrc2Ztc2xDY3lUVnVDTWh2SEVOQVdUb3dxMi0zbEgtN3dKdVNyOUREM1c?oc=5>
 
 ### 2026-10-11 23:01  (6 条)
 
