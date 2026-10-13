@@ -1,102 +1,159 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-13 01:45**
-- 本轮扫到 13765 条, 新增 **11** 条
+- 最近更新: **2026-10-13 08:49**
+- 本轮扫到 13781 条, 新增 **16** 条
 
 ---
 
-## 本轮新发现 (11 条)
+## 本轮新发现 (16 条)
 
-### JIMMY CHOO 发布全新广告大片，王一博演绎的经典Biker机车靴
+### 纸韵流金，赴约巴黎｜王一博亮相香奈儿2027春夏系列发布会
 
 - 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5876897687_p15e4a579700101gzr8.html>
+- 链接: <https://k.sina.com.cn/article_6000070117_165a1cde5001022ehc.html>
 
-### 特朗普送大礼普京也意外？
+### 2005年《头文字D》日本发布会，陈冠希真是太帅了！
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923551_m1d5ae175f03301sc3a.html>
+
+### 特朗普“能源停火”再引俄乌歧异表态 泽连斯基称“不知情”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-10-12 22:34
-- 链接: <https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdjVtY0xtWDRZQUZtRHh5WXFlTkI2TzhJbm1pbW92RDNVLU5fbllYblJpZ3lmcFZHN2xPaEhpNXpuOWNFeHUwREVzdnlOUEFXR1oxOGotT1J1N0R4WFFialFvSzZHcUhvNjQ0NWxnN29jVk1RbFZ2YWpQRmNoSFRsZ0dwY1JGMTlid0J5N3UtNWtuQzlvREJRd3c3NUdGVjNmNGZudzdrYldSSkl1N2w5UnVWRTd3dk5Ddko3ekpIYm4zWGZ6djl4RXM3VG9PSUJjU0FSOTR6WjJpWVNqUHpCazVhVQ?oc=5>
+- 场馆: 财新
+- 时间: 2026-10-12 14:49
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1jNjVCZEdLeWlyb28xNHlCNDhwcDJlWkE5VXdIWUI0dG1URFdiNy01aEZEaHRSMjd4aUdNY3VkTkVDamN6aURxWEpZSzZMYlBKQ0NlcGxzRGtZV3FlUVdJUlZXcUdsM3BLZnc?oc=5>
 
-### 特朗普：我可能与金正恩会面
+### 特朗普不信中俄帮伊朗，外交部表态
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-10-13 00:21
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBDeDFzbnlOajU5Qi1KekFLYlBsdzVhX1RhTXhQOUVoS2NzMDZGOGlNNkVISU00OHMtS0JHU24tN2xfNzJhN3Z4UFJ5LTQ?oc=5>
+- 时间: 2026-10-13 07:30
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5SaVNYTFBGZy10VDhwMV93QUhkMUxLRFlLSkhubXB2Y3ZQckxieVB6dEZXVXg2dTNHQzlqSk9ZX3Nia1lFc0dXU2pITFY?oc=5>
 
-### 特朗普：德国差点消亡|埃马纽埃尔·马克龙|唐纳德·特朗普|田纳西州|竞选集会|美国总统
+### 胡塞炸死美国公民，特朗普面临两难：打还是不打，选举压顶
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻
-- 时间: 2026-10-12 11:55
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE5GUWwyeThqMDJiSC1obWNOOUZ6UG5lN19yUVd0RXM2RDctTk8tN1BSdW9fN2lBcG9GVUlVVnhyZXpGS3lVM0QxbV9KX3VyclhsMGUzNXdhTm9wVmRzTkdSUmdER3VPeG1RYm9nSTBBRFFtT0pW?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-10-13 08:35
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE1GSUs5aVVmNG1udzFRYTAyOENvVUpweUJyQ0Q2OU9WM2tjY2RaWklueTZvN0FIMW9lb1M0RWpXVzU1d3hzenRmcWFkXzltc09XSDlzVHNlV0lqOEJhRkxwS2tWU0ktUkdyUUlQZUxRSmVZUQ?oc=5>
+
+### 特朗普表示不相信中俄在帮助伊朗，外交部回应：中方将继续为恢复中东的和平稳定与发展作出建设性的努力
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-10-13 07:44
+- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxPU2pSNzBNWkZ3bzkySC1ZZjFnMGpFWUk1OFJRcVJNQ3RBaVkwVlFJSG82RURqVVIyVjBVZFkxSjRZX0FFdGZpUURqQlBtT0drd1dvVXdPdFR1YzUyWEdORUJnQThMRndPU3dDdEJ2VGpxZ3g4T2w2OWw4RXRTSGVZN2o2cw?oc=5>
+
+### 特朗普称正考虑解除美国驻希腊大使职务
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中国日报网
+- 时间: 2026-10-13 07:43
+- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTFA5Mk1VNXlnTnY3WjRoMlk4LWllOFpaX2ZsR0xxOXkxb0l0SzlFeVlsSzVCTzdKV3hCQW52OGdYa29NbzBRQUVLbjRMZy0yWXlrbS12OUNIMWl6UDdtT3BoYXV2d3k3bTZibXlReEc4Y0hkdkpzT1NKOHhzczU?oc=5>
+
+### 特朗普遭两党批评后为俄罗斯柴油协议辩护：“我做出了正确选择”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-10-12 16:29
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxNRUU5THJLMEJFZ3U0UVdld0p4cTRaT0pwZzNYaWhHc3BWeHB5YkluLXNrc19JNGh3YWpMTUNQMS1LcFpYTmlSOHNmYmo2TUItQTdJV1RjUWkxX2FkWi1GbXk2SVl4eFRSdl9sMS1TMTA2aUJRMjRVMGczelRYWWwtaVdMUVlwU2c?oc=5>
 
 ### 盟友批特朗普破坏共识，印媒指华盛顿“虚伪”“双标”，美国买俄油令世界哗然
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 环球网
-- 时间: 2026-10-12 07:44
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE1JV0k2b013VV84c0RvaDJlSGdkREJiTmJjRkRndzJjS3pEcVJzdV8wMlR1ZHFNZEtGbUwyTjFKUTBPcTVfandENG9vSy16LUgtbFdjS1kwU24?oc=5>
+- 场馆: 新浪新闻
+- 时间: 2026-10-13 03:20
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9tVkZxTGhtNWQ1eTIyVXZrY3hPZ0EzQWhHSTB6U0RlUER2LXBpRTBoQ2V4c2J6RWNwajQyMW8yVG5qWXktbE9Ta3hZN1NLQ2EwdnIzNVNWRndaNVB1bzNHaV9fOHhweDBkYnEwSG8xZGFpMnhlNjFDTg?oc=5>
 
-### 强制给AI更名 特朗普：谁不改成SI谁就是白宫敌人
+### 特朗普：我有99%的支持率，“是共和党有史以来的最高水平，自己很受欢迎”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 腾讯新闻
-- 时间: 2026-10-08 22:54
-- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTFBMZklzbWlJcER3VENTU1ZrTW9hZkk4YUJPOWRZS01VVkkxUDFnTHVqUGpOWXFiemxWU3lua1RBV2RRckNROWgzNVFOdGFjbjhKVHA2N2NkUlU4OF81VlVpQzNB?oc=5>
+- 场馆: 中华网
+- 时间: 2026-10-13 02:06
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE94RjFaeFVQNlFfYWVoMjV0ekRvN0lWMHZYTXJvQW9QWTFiWjc0d3F4bVhzX2tvTGFCc1pManF1NUZLa2dBTW1ESHh0RFdOZUdITUxha0x5d1RTNFJRd2ZKVm4wekMxbWZFa0JHMGxxb3A?oc=5>
 
-### 柴油价格：伊朗与乌克兰 哪场战争对油价影响最大？
+### 特朗普要求以“超级智能”取代“人工智能”，高市早苗反对并引发美国AI减速与监管争论
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 虎嗅网
+- 时间: 2026-10-13 06:04
+- 链接: <https://news.google.com/rss/articles/CBMiVEFVX3lxTE1yZzNCR0kwcnlucnJkTFZvN2szQXhEaWxleGJiTU9JdGhLVzBNVEtyWVRCeFN2ajZpRUwxZHhhTnFrV3F1OVNDdXlDTlhoTUlhYmczVQ?oc=5>
+
+### 特朗普称不相信中俄在帮助伊朗，外交部回应
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 搜狐
+- 时间: 2026-10-13 07:56
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV0FZcnBfSzAyc2RjTGlENkpMUTBCd3F2OHNwUW5CajlMaU5UR1JYSlZwRTFBN3pFd2pZdnl4bWRsSGdERTQ3TUxESzJBUGV3NXQxR3hobTgtNEV5Q3kwYkVxNXluMFg0QXd0M0Jxc3pyTzhxNEpoZjQ4cTJ4OGJNRzIzTW5GWlVZ?oc=5>
+
+### Trump's 'Energy Ceasefire' Collides With Real-world Problems of Dwindling Fuel Supplies
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-10-13 08:38
+- 链接: <https://news.google.com/rss/articles/CBMirwFBVV95cUxPcm1lZmJMc1pfYWZYMjNUYmY0akZPd0lTNGtmMFRKUnloSHVGYnRLN3ZDeTF0NGQ3cDRPMzduNGh6TE9mMG9uVWFSenl5SDg0eGJqVGtLeHFtb3Y5cURCUzBPQlpSTktzb3VrVkJxbzRYN1hRTEM3ams4U1dtM1A0QThrdlIwNGIwR1JNbG1ncWg4a2R5amNQWXdBYTJVSzlmYVZCQmFTd1oxTUxkOTBz?oc=5>
+
+### 伊朗与乌克兰 哪场战争对柴油价格影响最大？
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: BBC
 - 时间: 2026-10-13 00:23
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE42Zk1ycS1LLW5uRnNvNk1jeGdaY21hOFFZVFNmM2tsZEw0SmQ3WDBkY1o4OWRtdVpubEpLanpDWDF4MnF4UGk3Nk16ZkNBelNQYVpscHM3eldyS05xYUtVWUpRNDNlUWfSAWxBVV95cUxNQ3lJOGZJNHh5MjdscGRWdnJJZ2pKQVdJR0NHbE5tTTNwS3lmWHdZXzFkbDFVc0JBdTlzYlNkNEhXWHRvQjEzbG9nbGhkdHJVRnhfTzVXQm5weGZ0M0VROUdVUWxkV3dLVnZUd2Y?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE42Zk1ycS1LLW5uRnNvNk1jeGdaY21hOFFZVFNmM2tsZEw0SmQ3WDBkY1o4OWRtdVpubEpLanpDWDF4MnF4UGk3Nk16ZkNBelNQYVpscHM3eldyS05xYUtVWUpRNDNlUWc?oc=5>
 
-### 特朗普拟进口俄罗斯柴油 跨党派议员批违法
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-10-12 21:28
-- 链接: <https://news.google.com/rss/articles/CBMixAJBVV95cUxQOHEyX1lDN0lUbmJjRGpnS1E5SkhGdkFmYmhsRkRWZVRHTmZaN3VzTXJhQU8yN29jaElycWQxU0pnSDFQT09uVndhZ19JQjE1OEJmRENsOVZQTlFCeWdkVkVGaUFub09MbGsyQk51bFRHeVFmQmdWYkk1RHlLQjR0RGF3azZVTUJPQ3lVaDBBWjhmQXZleXQ1ck8ydGYwMldaRUJPZlA1bWZ6QmQ2MHp5MTV6OG5JSHFNZEhtdmxUb21aY01CT0VaWGV6QjlvZERqdXp3MjVzRlJEMTNJXzBaSDdCT0x2MDZVZmVCbE5tMnptbjlKNV9DSU1vT2ppclZDOTBValdyY0RjSjZoWEtuZVM3ZTZYc3UtRXNGejYzcXJkUG05cl9od0wzUi1CVy1WdTlkLUZZUDk3UDVJU08wOVZ3Z0M?oc=5>
-
-### 记者：你说俄乌同意停火，但两边都说没这回事Trump：我说他们同意了，就是同意了记者：俄已经违反了、昨晚袭击了乌Trump：我不确定是这样，但他们必须停火记者：你怎么才能让俄停火Trump：俄想要停火，但乌也同意才行，Putin比Zelensky更想达成协议​_新浪新闻
+### 促使特朗普改造海军装备的无名水兵之谜
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-10-12 22:08
-- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTE4xMnRxTEM1cHI3c2dUNENjOW8wRDBnX1o5UWdIaXpiXzhzRDZIV05tTExEV2U1OWc5MzJZU0xNeXg5WVdkbktUVWpoa05EdktEbVlkcFh3dGpIdXZYREZKOE16Zw?oc=5>
+- 场馆: 华尔街日报中文网
+- 时间: 2026-10-13 02:31
+- 链接: <https://news.google.com/rss/articles/CBMirwFBVV95cUxOUGJBYk9sYTEyelRqYlh3Z2Q0WDJWbk5KeVAyd2hCVndpT0lCVDhXRHUzX1V1V0FpMGV1MGhRVnNEMkJnVkRULTFhNVo2TnlkMTZ5T3FITjlJcDJaYThhMk9uckxYaFVxZGIzbkRBVXJKSzdKcnNVRjBmbTgzNVl0Zkw5OGp0NmhDaGNIeTlUajVWNVh3VFQ0RGZmQml6TTZGNXVUY3JCRkVfVVhQOUxB?oc=5>
 
-### Taiwan envoy sees no shift in US policy after Trump-Xi summit
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: VOA - Voice of America English News
-- 时间: 2026-10-12 18:20
-- 链接: <https://news.google.com/rss/articles/CBMirgFBVV95cUxORU56QnFUbUJnZmN1VDVxWXE5c1c3bHdwelF2eVZxcmJaWGtVTFJvQVFkVGxvV3B1UEFrbjNaM2lNYUFGRm5wUHJ6cFJrNFpETWdwejFJVzJLS1ZLTnNjWkhfNkl0SkpiN0hXaDZMSXhLbnZ1UUhJTkhkTVNhSUJrcHduN2t0Nzl5MWdTUUFXa0FZaDBjOW1mQV9TQ2lUai1uNnBxSXVRcDkwOVMza2fSAbABQVVfeXFMT1lzLWxoT0U1MnFaOEI1akYwSTZtWHRFZU9oR1ZMeXN3T0FnbFBHTjQxeVJPVGg4R3JOQXZrdFFSazc5aFBDd0RxNUxyVTRYY01pTnhvNS1tWWl6ZXZUSkJVZnJRVTV4VXlyaEhsTjJkd2h5Q3AzUlN2UXM5SXJDQUtDZ3pyUlVRZkVLb1R1ZkxrWTNPN1dIc1dRd2JlaTJxUERTX05EYktxQV9jOVViX3E?oc=5>
-
-### 特朗普总统表示11月亚洲行期间可能与金正恩会面
+### 俄乌陷入经济战，特朗普助普京一臂之力
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-10-13 00:40
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxNTWpKTTJ6OTlNTFowVWxvd3B4T1VvVTlXM0lzWllSc0lESE15MXYxMmN2ekpPaE5hbnQ1MjN4eFo3X1hac01aM21ZVWV3YUUxTE05dGJyODgyamFqNWVVYWFVeEJOdUhhOFg0c0JhQ2NNcDkyV25zQzRpZ01ZWnBOLXZhRHBORlpKYWtfYdIBjwFBVV95cUxQaDk1cF81ZkZkMWVOVUtjOUFCS20tVnQ5YVgxZGx5MWNOQ1ZlRUJTazhNRDN4bjFPUUJPTmZEenJ1SHVLQXpLTkhXUmpCNUZZQkZobV9tNHlqLThSUGlHZllqa0hmaHBackxEc2E5QXhHR3NveTM1V3VBRm1zSENybTNCZDZKQlc3XzRDMmcxZw?oc=5>
+- 场馆: 纽约时报中文网
+- 时间: 2026-10-12 17:05
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFA5dDg2UnhjSUZ5YTY4MzVPWE5zMHhpX28xOHhUcHdueUpNSUtNNjhuUDMtejNFSjZGR1NVWVZYblJibV9ocWV3a21HcHVpcjl1NjZDRFpVWFhoZ0VQZnE0WEthUmNMYjNCQ0E?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-13 08:49  (16 条)
+
+- **王一博** | 纸韵流金，赴约巴黎｜王一博亮相香奈儿2027春夏系列发布会 <https://k.sina.com.cn/article_6000070117_165a1cde5001022ehc.html>
+- **周杰伦** | 2005年《头文字D》日本发布会，陈冠希真是太帅了！ <https://k.sina.com.cn/article_7879923551_m1d5ae175f03301sc3a.html>
+- **特朗普** | 特朗普“能源停火”再引俄乌歧异表态 泽连斯基称“不知情” <https://news.google.com/rss/articles/CBMiakFVX3lxTE1jNjVCZEdLeWlyb28xNHlCNDhwcDJlWkE5VXdIWUI0dG1URFdiNy01aEZEaHRSMjd4aUdNY3VkTkVDamN6aURxWEpZSzZMYlBKQ0NlcGxzRGtZV3FlUVdJUlZXcUdsM3BLZnc?oc=5>
+- **特朗普** | 特朗普不信中俄帮伊朗，外交部表态 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5SaVNYTFBGZy10VDhwMV93QUhkMUxLRFlLSkhubXB2Y3ZQckxieVB6dEZXVXg2dTNHQzlqSk9ZX3Nia1lFc0dXU2pITFY?oc=5>
+- **特朗普** | 胡塞炸死美国公民，特朗普面临两难：打还是不打，选举压顶 <https://news.google.com/rss/articles/CBMickFVX3lxTE1GSUs5aVVmNG1udzFRYTAyOENvVUpweUJyQ0Q2OU9WM2tjY2RaWklueTZvN0FIMW9lb1M0RWpXVzU1d3hzenRmcWFkXzltc09XSDlzVHNlV0lqOEJhRkxwS2tWU0ktUkdyUUlQZUxRSmVZUQ?oc=5>
+- **特朗普** | 特朗普表示不相信中俄在帮助伊朗，外交部回应：中方将继续为恢复中东的和平稳定与发展作出建设性的努力 <https://news.google.com/rss/articles/CBMigwFBVV95cUxPU2pSNzBNWkZ3bzkySC1ZZjFnMGpFWUk1OFJRcVJNQ3RBaVkwVlFJSG82RURqVVIyVjBVZFkxSjRZX0FFdGZpUURqQlBtT0drd1dvVXdPdFR1YzUyWEdORUJnQThMRndPU3dDdEJ2VGpxZ3g4T2w2OWw4RXRTSGVZN2o2cw?oc=5>
+- **特朗普** | 特朗普称正考虑解除美国驻希腊大使职务 <https://news.google.com/rss/articles/CBMifEFVX3lxTFA5Mk1VNXlnTnY3WjRoMlk4LWllOFpaX2ZsR0xxOXkxb0l0SzlFeVlsSzVCTzdKV3hCQW52OGdYa29NbzBRQUVLbjRMZy0yWXlrbS12OUNIMWl6UDdtT3BoYXV2d3k3bTZibXlReEc4Y0hkdkpzT1NKOHhzczU?oc=5>
+- **特朗普** | 特朗普遭两党批评后为俄罗斯柴油协议辩护：“我做出了正确选择” <https://news.google.com/rss/articles/CBMihwFBVV95cUxNRUU5THJLMEJFZ3U0UVdld0p4cTRaT0pwZzNYaWhHc3BWeHB5YkluLXNrc19JNGh3YWpMTUNQMS1LcFpYTmlSOHNmYmo2TUItQTdJV1RjUWkxX2FkWi1GbXk2SVl4eFRSdl9sMS1TMTA2aUJRMjRVMGczelRYWWwtaVdMUVlwU2c?oc=5>
+- **特朗普** | 盟友批特朗普破坏共识，印媒指华盛顿“虚伪”“双标”，美国买俄油令世界哗然 <https://news.google.com/rss/articles/CBMieEFVX3lxTE9tVkZxTGhtNWQ1eTIyVXZrY3hPZ0EzQWhHSTB6U0RlUER2LXBpRTBoQ2V4c2J6RWNwajQyMW8yVG5qWXktbE9Ta3hZN1NLQ2EwdnIzNVNWRndaNVB1bzNHaV9fOHhweDBkYnEwSG8xZGFpMnhlNjFDTg?oc=5>
+- **特朗普** | 特朗普：我有99%的支持率，“是共和党有史以来的最高水平，自己很受欢迎” <https://news.google.com/rss/articles/CBMicEFVX3lxTE94RjFaeFVQNlFfYWVoMjV0ekRvN0lWMHZYTXJvQW9QWTFiWjc0d3F4bVhzX2tvTGFCc1pManF1NUZLa2dBTW1ESHh0RFdOZUdITUxha0x5d1RTNFJRd2ZKVm4wekMxbWZFa0JHMGxxb3A?oc=5>
+- **特朗普** | 特朗普要求以“超级智能”取代“人工智能”，高市早苗反对并引发美国AI减速与监管争论 <https://news.google.com/rss/articles/CBMiVEFVX3lxTE1yZzNCR0kwcnlucnJkTFZvN2szQXhEaWxleGJiTU9JdGhLVzBNVEtyWVRCeFN2ajZpRUwxZHhhTnFrV3F1OVNDdXlDTlhoTUlhYmczVQ?oc=5>
+- **特朗普** | 特朗普称不相信中俄在帮助伊朗，外交部回应 <https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV0FZcnBfSzAyc2RjTGlENkpMUTBCd3F2OHNwUW5CajlMaU5UR1JYSlZwRTFBN3pFd2pZdnl4bWRsSGdERTQ3TUxESzJBUGV3NXQxR3hobTgtNEV5Q3kwYkVxNXluMFg0QXd0M0Jxc3pyTzhxNEpoZjQ4cTJ4OGJNRzIzTW5GWlVZ?oc=5>
+- **Trump** | Trump's 'Energy Ceasefire' Collides With Real-world Problems of Dwindling Fuel Supplies <https://news.google.com/rss/articles/CBMirwFBVV95cUxPcm1lZmJMc1pfYWZYMjNUYmY0akZPd0lTNGtmMFRKUnloSHVGYnRLN3ZDeTF0NGQ3cDRPMzduNGh6TE9mMG9uVWFSenl5SDg0eGJqVGtLeHFtb3Y5cURCUzBPQlpSTktzb3VrVkJxbzRYN1hRTEM3ams4U1dtM1A0QThrdlIwNGIwR1JNbG1ncWg4a2R5amNQWXdBYTJVSzlmYVZCQmFTd1oxTUxkOTBz?oc=5>
+- **Trump** | 伊朗与乌克兰 哪场战争对柴油价格影响最大？ <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE42Zk1ycS1LLW5uRnNvNk1jeGdaY21hOFFZVFNmM2tsZEw0SmQ3WDBkY1o4OWRtdVpubEpLanpDWDF4MnF4UGk3Nk16ZkNBelNQYVpscHM3eldyS05xYUtVWUpRNDNlUWc?oc=5>
+- **Trump** | 促使特朗普改造海军装备的无名水兵之谜 <https://news.google.com/rss/articles/CBMirwFBVV95cUxOUGJBYk9sYTEyelRqYlh3Z2Q0WDJWbk5KeVAyd2hCVndpT0lCVDhXRHUzX1V1V0FpMGV1MGhRVnNEMkJnVkRULTFhNVo2TnlkMTZ5T3FITjlJcDJaYThhMk9uckxYaFVxZGIzbkRBVXJKSzdKcnNVRjBmbTgzNVl0Zkw5OGp0NmhDaGNIeTlUajVWNVh3VFQ0RGZmQml6TTZGNXVUY3JCRkVfVVhQOUxB?oc=5>
+- **Trump** | 俄乌陷入经济战，特朗普助普京一臂之力 <https://news.google.com/rss/articles/CBMiakFVX3lxTFA5dDg2UnhjSUZ5YTY4MzVPWE5zMHhpX28xOHhUcHdueUpNSUtNNjhuUDMtejNFSjZGR1NVWVZYblJibV9ocWV3a21HcHVpcjl1NjZDRFpVWFhoZ0VQZnE0WEthUmNMYjNCQ0E?oc=5>
 
 ### 2026-10-13 01:45  (11 条)
 
