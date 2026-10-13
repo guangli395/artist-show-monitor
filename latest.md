@@ -1,112 +1,116 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-12 19:54**
-- 本轮扫到 13754 条, 新增 **12** 条
+- 最近更新: **2026-10-13 01:45**
+- 本轮扫到 13765 条, 新增 **11** 条
 
 ---
 
-## 本轮新发现 (12 条)
+## 本轮新发现 (11 条)
 
-### 特朗普：认为普京已准备好达成协议。
+### JIMMY CHOO 发布全新广告大片，王一博演绎的经典Biker机车靴
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5876897687_p15e4a579700101gzr8.html>
+
+### 特朗普送大礼普京也意外？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-10-12 19:35
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFB5QUdpX01YT2RRUmp4YzdoRHZSeVQtam15MU1xdEhqa2FSZG1ERnAzT1FmQnVxZFNfbHRpSHNBUTJ0Y2xtanFlYmI5QQ?oc=5>
+- 场馆: RFI
+- 时间: 2026-10-12 22:34
+- 链接: <https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdjVtY0xtWDRZQUZtRHh5WXFlTkI2TzhJbm1pbW92RDNVLU5fbllYblJpZ3lmcFZHN2xPaEhpNXpuOWNFeHUwREVzdnlOUEFXR1oxOGotT1J1N0R4WFFialFvSzZHcUhvNjQ0NWxnN29jVk1RbFZ2YWpQRmNoSFRsZ0dwY1JGMTlid0J5N3UtNWtuQzlvREJRd3c3NUdGVjNmNGZudzdrYldSSkl1N2w5UnVWRTd3dk5Ddko3ekpIYm4zWGZ6djl4RXM3VG9PSUJjU0FSOTR6WjJpWVNqUHpCazVhVQ?oc=5>
 
-### 距中期选举剩3周！手握数亿资金的特朗普阵营急调竞选资金布局
+### 特朗普：我可能与金正恩会面
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-10-12 15:08
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFAzT0VjSFdET2RDbUtoUmN4V3AyTVJVazdYYVJ2a3I0bUpZeFRESm1haHZWSXRkd21WWG11d0ZPTV84QXMtVkd4aVdKSzI?oc=5>
+- 时间: 2026-10-13 00:21
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBDeDFzbnlOajU5Qi1KekFLYlBsdzVhX1RhTXhQOUVoS2NzMDZGOGlNNkVISU00OHMtS0JHU24tN2xfNzJhN3Z4UFJ5LTQ?oc=5>
 
-### 特朗普宣布凯蒂·扎卡里亚将正式出任白宫新闻秘书|唐纳德·特朗普|美国总统|社交媒体|莱维特|新闻简报
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-10-12 00:12
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE5WWkgwdVlQVnJ3d0RudENxY252N1JuM0lFOHlnZTBSVTRHOFpxYVUtMXJrNnlMcTYtVEV5d3YxOEw5WGZ0ekgtQzBZR3kzcl9KTElPOVZWaFNwOGxKV3p2b1E5Wi12bDZtTTlrTHJ2RTd0Z0F4?oc=5>
-
-### 白宫创造历史，特朗普从椭圆形办公室敲响纽交所和纳斯达克开市钟
+### 特朗普：德国差点消亡|埃马纽埃尔·马克龙|唐纳德·特朗普|田纳西州|竞选集会|美国总统
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-10-12 14:09
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE0tWjBZSExXcTNoeUxzVjB5c2ZPN3ZIZi1oSWZ1SkhEWUtOZWYyeTZYTE5jaXJ5bXZEM090MVV5Q1U1N2o3M21ra3dsaWVzd3h6c0QxdUpqYXZYZ0l0cjFrMUotVmVrR2ptalEzaHpLTUJaSk0?oc=5>
+- 场馆: 新浪新闻
+- 时间: 2026-10-12 11:55
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE5GUWwyeThqMDJiSC1obWNOOUZ6UG5lN19yUVd0RXM2RDctTk8tN1BSdW9fN2lBcG9GVUlVVnhyZXpGS3lVM0QxbV9KX3VyclhsMGUzNXdhTm9wVmRzTkdSUmdER3VPeG1RYm9nSTBBRFFtT0pW?oc=5>
 
-### 沙特机场遭袭，特朗普：美军可能出手
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-10-12 00:03
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5VMnV2aFNkbkxnNlUwQUlmUElwZl9CMk50MmJOT1RlS2xEUXhkMHdQMVZRQlNiblZYOE9IR0x2MXNSM3dQakJtTnE4dzhsb3haMjhPVVB3ck9KcmJSYmZKR21GeGZNbm93V3ZldlBsUWdmWms?oc=5>
-
-### 特朗普：将考虑加入沙特打击胡塞武装的行动
+### 盟友批特朗普破坏共识，印媒指华盛顿“虚伪”“双标”，美国买俄油令世界哗然
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-10-11 14:13
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQ1FWdHJJazVFRFZhak1CUzNnWTRTbTZ2SEdVdkdscmhrVTNFSW9KNmdORm9VbVRIVi1Idjc0VnV0T0dmWm1mY2xrd21HNnJMSzNrSWktZlRJUHphOWowdHp6c2VsTUJVVlJld1hhSGNXRVhZREdrLXgzZE5ibE5sdm5QUk13TDQwWElyTmw5dEl4ak56aGNEcmozZDc5WDk3d044bEI0NTN3alZ5bl9PZVBPZE11ZDdUY2ZuYWY1ZVBDSGpVVDNXRmJjTmMxS2lWc0xWTW52YUsyTXUyQTM4?oc=5>
+- 场馆: 环球网
+- 时间: 2026-10-12 07:44
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE1JV0k2b013VV84c0RvaDJlSGdkREJiTmJjRkRndzJjS3pEcVJzdV8wMlR1ZHFNZEtGbUwyTjFKUTBPcTVfandENG9vSy16LUgtbFdjS1kwU24?oc=5>
 
-### 小布什、拜登、特朗普皆深陷泥潭，美媒为何仍警告放弃中东是豪赌
+### 强制给AI更名 特朗普：谁不改成SI谁就是白宫敌人
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 腾讯新闻
-- 时间: 2026-10-12 12:39
-- 链接: <https://news.google.com/rss/articles/CBMibEFVX3lxTE91Wk5sTXJpclB1dUE0OUIxRmhnWHA4MTgzTHFVMFR4YmxzRTJPb05FdGlTOHFXNzd1SXR0a2pyR0xFZjRmeGxDSHlTWUpHYWNRTU9qUkQwem4zUlZ3NUVBa2tXa0YwTkV0MVBrbw?oc=5>
+- 时间: 2026-10-08 22:54
+- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTFBMZklzbWlJcER3VENTU1ZrTW9hZkk4YUJPOWRZS01VVkkxUDFnTHVqUGpOWXFiemxWU3lua1RBV2RRckNROWgzNVFOdGFjbjhKVHA2N2NkUlU4OF81VlVpQzNB?oc=5>
 
-### 特朗普鲁比奥被曝非常恼火，这位美国大使或被解职 不当行为引发调查
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华军事
-- 时间: 2026-10-12 07:59
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBsXzIzZmFGeFlXY2h3ODVKbWVGREctTV9PcnBUSzFuSkdkU2dPMG1HWEVGWDZiR2JwcXJyRlM1MndncUhEOTRzMVNNQjM1bUp0MFZBQTJ6aE1yR2RqZUhqdXlGLXpHM3N0aER4a0xtVDY?oc=5>
-
-### US Ties With Allies Are Unlikely to Return to Pre-Trump Norms, Peking University Scholar Says
+### 柴油价格：伊朗与乌克兰 哪场战争对油价影响最大？
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Yicai
-- 时间: 2026-10-12 11:28
-- 链接: <https://news.google.com/rss/articles/CBMiwwFBVV95cUxOLTk0RzFWVGVOU282SGpyYktwME45TnlWTHZEYU9JWjhSeng1V0gxdlRjTldBN3kyQ1A3cU5IaE1iSFpEcEs4dWFiSk1CeWZkaDNpUVRZOU9DMUdJTVUyZXQ2SWg2R3poeGVwV1lmeW81empkQWlFOFB0YVVOLTJjcGhKUVhVRXN2UlJCX3Z6MnJqeENEM1ZOZER4YnFjTml5Q2IwdlBhT096Tk5ZTTQ1M2FFMUxBS1dBY1ZuR3RReE54STA?oc=5>
+- 场馆: BBC
+- 时间: 2026-10-13 00:23
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE42Zk1ycS1LLW5uRnNvNk1jeGdaY21hOFFZVFNmM2tsZEw0SmQ3WDBkY1o4OWRtdVpubEpLanpDWDF4MnF4UGk3Nk16ZkNBelNQYVpscHM3eldyS05xYUtVWUpRNDNlUWfSAWxBVV95cUxNQ3lJOGZJNHh5MjdscGRWdnJJZ2pKQVdJR0NHbE5tTTNwS3lmWHdZXzFkbDFVc0JBdTlzYlNkNEhXWHRvQjEzbG9nbGhkdHJVRnhfTzVXQm5weGZ0M0VROUdVUWxkV3dLVnZUd2Y?oc=5>
 
-### 2024美国大选，Musk给Trump、共和党捐款$2.9亿2026中期选举，Musk已捐$2.76亿如果算上2025，这个选举周期，Musk已捐$3.66亿不仅是共和党最大金主，也是美国历史上最多的政治捐款​_新浪新闻
+### 特朗普拟进口俄罗斯柴油 跨党派议员批违法
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-10-12 21:28
+- 链接: <https://news.google.com/rss/articles/CBMixAJBVV95cUxQOHEyX1lDN0lUbmJjRGpnS1E5SkhGdkFmYmhsRkRWZVRHTmZaN3VzTXJhQU8yN29jaElycWQxU0pnSDFQT09uVndhZ19JQjE1OEJmRENsOVZQTlFCeWdkVkVGaUFub09MbGsyQk51bFRHeVFmQmdWYkk1RHlLQjR0RGF3azZVTUJPQ3lVaDBBWjhmQXZleXQ1ck8ydGYwMldaRUJPZlA1bWZ6QmQ2MHp5MTV6OG5JSHFNZEhtdmxUb21aY01CT0VaWGV6QjlvZERqdXp3MjVzRlJEMTNJXzBaSDdCT0x2MDZVZmVCbE5tMnptbjlKNV9DSU1vT2ppclZDOTBValdyY0RjSjZoWEtuZVM3ZTZYc3UtRXNGejYzcXJkUG05cl9od0wzUi1CVy1WdTlkLUZZUDk3UDVJU08wOVZ3Z0M?oc=5>
+
+### 记者：你说俄乌同意停火，但两边都说没这回事Trump：我说他们同意了，就是同意了记者：俄已经违反了、昨晚袭击了乌Trump：我不确定是这样，但他们必须停火记者：你怎么才能让俄停火Trump：俄想要停火，但乌也同意才行，Putin比Zelensky更想达成协议​_新浪新闻
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: 手机新浪网
-- 时间: 2026-10-12 17:33
-- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Tam5waW04ZDAwNnVHWEFCN05HN1FnQnczNE1pYzBqNkR4OVowVTRfUDh0RXR4NUlicDBVcEIyOU5fci1PM2JWeWVvWG9hVU5vU2YwWF9iS0ZodVByckQzdzRzNA?oc=5>
+- 时间: 2026-10-12 22:08
+- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTE4xMnRxTEM1cHI3c2dUNENjOW8wRDBnX1o5UWdIaXpiXzhzRDZIV05tTExEV2U1OWc5MzJZU0xNeXg5WVdkbktUVWpoa05EdktEbVlkcFh3dGpIdXZYREZKOE16Zw?oc=5>
 
-### 特朗普放宽制裁向普京买油惹怒国会 两党齐声围剿
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 文学城
-- 时间: 2026-10-12 15:20
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9LeVlURTdwYnlYalVEMkNaMm1kV25rZGhxVEpSVnpCV2ZYaXBySk1RdUhqZ09hUV9ad1Fia3J2Y0hJaG1iUzZmVlBSUGNWNU5rYUREb0tkdW9xdmlzV1hlNHlNM2lZZnMx?oc=5>
-
-### $Meta Platforms (META.US)$trump太神了[吃瓜][吃瓜][吃瓜]
+### Taiwan envoy sees no shift in US policy after Trump-Xi summit
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-10-12 15:20
-- 链接: <https://news.google.com/rss/articles/CBMinwFBVV95cUxNYUZVaUJENkI4TVFENWx5eG01emptMEdHS0FZdl9GWS1JQmd6ZmpreG9PQ2pySUJ1NnVBSlp5aTQzRWhXMUhpWkkwX3VoTFNBcGlDMG42aWRXa2V0MjQ2WUMyZ0R0ZEF0bXVlZVh5X29ORGpkdFVWMFNDZnd5VzlrRnV1X051WG44c2RrQzQzem96a2xhNGNLaGIwMHVXdlk?oc=5>
+- 场馆: VOA - Voice of America English News
+- 时间: 2026-10-12 18:20
+- 链接: <https://news.google.com/rss/articles/CBMirgFBVV95cUxORU56QnFUbUJnZmN1VDVxWXE5c1c3bHdwelF2eVZxcmJaWGtVTFJvQVFkVGxvV3B1UEFrbjNaM2lNYUFGRm5wUHJ6cFJrNFpETWdwejFJVzJLS1ZLTnNjWkhfNkl0SkpiN0hXaDZMSXhLbnZ1UUhJTkhkTVNhSUJrcHduN2t0Nzl5MWdTUUFXa0FZaDBjOW1mQV9TQ2lUai1uNnBxSXVRcDkwOVMza2fSAbABQVVfeXFMT1lzLWxoT0U1MnFaOEI1akYwSTZtWHRFZU9oR1ZMeXN3T0FnbFBHTjQxeVJPVGg4R3JOQXZrdFFSazc5aFBDd0RxNUxyVTRYY01pTnhvNS1tWWl6ZXZUSkJVZnJRVTV4VXlyaEhsTjJkd2h5Q3AzUlN2UXM5SXJDQUtDZ3pyUlVRZkVLb1R1ZkxrWTNPN1dIc1dRd2JlaTJxUERTX05EYktxQV9jOVViX3E?oc=5>
+
+### 特朗普总统表示11月亚洲行期间可能与金正恩会面
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-10-13 00:40
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxNTWpKTTJ6OTlNTFowVWxvd3B4T1VvVTlXM0lzWllSc0lESE15MXYxMmN2ekpPaE5hbnQ1MjN4eFo3X1hac01aM21ZVWV3YUUxTE05dGJyODgyamFqNWVVYWFVeEJOdUhhOFg0c0JhQ2NNcDkyV25zQzRpZ01ZWnBOLXZhRHBORlpKYWtfYdIBjwFBVV95cUxQaDk1cF81ZkZkMWVOVUtjOUFCS20tVnQ5YVgxZGx5MWNOQ1ZlRUJTazhNRDN4bjFPUUJPTmZEenJ1SHVLQXpLTkhXUmpCNUZZQkZobV9tNHlqLThSUGlHZllqa0hmaHBackxEc2E5QXhHR3NveTM1V3VBRm1zSENybTNCZDZKQlc3XzRDMmcxZw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-13 01:45  (11 条)
+
+- **王一博** | JIMMY CHOO 发布全新广告大片，王一博演绎的经典Biker机车靴 <https://k.sina.com.cn/article_5876897687_p15e4a579700101gzr8.html>
+- **特朗普** | 特朗普送大礼普京也意外？ <https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdjVtY0xtWDRZQUZtRHh5WXFlTkI2TzhJbm1pbW92RDNVLU5fbllYblJpZ3lmcFZHN2xPaEhpNXpuOWNFeHUwREVzdnlOUEFXR1oxOGotT1J1N0R4WFFialFvSzZHcUhvNjQ0NWxnN29jVk1RbFZ2YWpQRmNoSFRsZ0dwY1JGMTlid0J5N3UtNWtuQzlvREJRd3c3NUdGVjNmNGZudzdrYldSSkl1N2w5UnVWRTd3dk5Ddko3ekpIYm4zWGZ6djl4RXM3VG9PSUJjU0FSOTR6WjJpWVNqUHpCazVhVQ?oc=5>
+- **特朗普** | 特朗普：我可能与金正恩会面 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBDeDFzbnlOajU5Qi1KekFLYlBsdzVhX1RhTXhQOUVoS2NzMDZGOGlNNkVISU00OHMtS0JHU24tN2xfNzJhN3Z4UFJ5LTQ?oc=5>
+- **特朗普** | 特朗普：德国差点消亡|埃马纽埃尔·马克龙|唐纳德·特朗普|田纳西州|竞选集会|美国总统 <https://news.google.com/rss/articles/CBMidEFVX3lxTE5GUWwyeThqMDJiSC1obWNOOUZ6UG5lN19yUVd0RXM2RDctTk8tN1BSdW9fN2lBcG9GVUlVVnhyZXpGS3lVM0QxbV9KX3VyclhsMGUzNXdhTm9wVmRzTkdSUmdER3VPeG1RYm9nSTBBRFFtT0pW?oc=5>
+- **特朗普** | 盟友批特朗普破坏共识，印媒指华盛顿“虚伪”“双标”，美国买俄油令世界哗然 <https://news.google.com/rss/articles/CBMiWEFVX3lxTE1JV0k2b013VV84c0RvaDJlSGdkREJiTmJjRkRndzJjS3pEcVJzdV8wMlR1ZHFNZEtGbUwyTjFKUTBPcTVfandENG9vSy16LUgtbFdjS1kwU24?oc=5>
+- **特朗普** | 强制给AI更名 特朗普：谁不改成SI谁就是白宫敌人 <https://news.google.com/rss/articles/CBMiYkFVX3lxTFBMZklzbWlJcER3VENTU1ZrTW9hZkk4YUJPOWRZS01VVkkxUDFnTHVqUGpOWXFiemxWU3lua1RBV2RRckNROWgzNVFOdGFjbjhKVHA2N2NkUlU4OF81VlVpQzNB?oc=5>
+- **Trump** | 柴油价格：伊朗与乌克兰 哪场战争对油价影响最大？ <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE42Zk1ycS1LLW5uRnNvNk1jeGdaY21hOFFZVFNmM2tsZEw0SmQ3WDBkY1o4OWRtdVpubEpLanpDWDF4MnF4UGk3Nk16ZkNBelNQYVpscHM3eldyS05xYUtVWUpRNDNlUWfSAWxBVV95cUxNQ3lJOGZJNHh5MjdscGRWdnJJZ2pKQVdJR0NHbE5tTTNwS3lmWHdZXzFkbDFVc0JBdTlzYlNkNEhXWHRvQjEzbG9nbGhkdHJVRnhfTzVXQm5weGZ0M0VROUdVUWxkV3dLVnZUd2Y?oc=5>
+- **Trump** | 特朗普拟进口俄罗斯柴油 跨党派议员批违法 <https://news.google.com/rss/articles/CBMixAJBVV95cUxQOHEyX1lDN0lUbmJjRGpnS1E5SkhGdkFmYmhsRkRWZVRHTmZaN3VzTXJhQU8yN29jaElycWQxU0pnSDFQT09uVndhZ19JQjE1OEJmRENsOVZQTlFCeWdkVkVGaUFub09MbGsyQk51bFRHeVFmQmdWYkk1RHlLQjR0RGF3azZVTUJPQ3lVaDBBWjhmQXZleXQ1ck8ydGYwMldaRUJPZlA1bWZ6QmQ2MHp5MTV6OG5JSHFNZEhtdmxUb21aY01CT0VaWGV6QjlvZERqdXp3MjVzRlJEMTNJXzBaSDdCT0x2MDZVZmVCbE5tMnptbjlKNV9DSU1vT2ppclZDOTBValdyY0RjSjZoWEtuZVM3ZTZYc3UtRXNGejYzcXJkUG05cl9od0wzUi1CVy1WdTlkLUZZUDk3UDVJU08wOVZ3Z0M?oc=5>
+- **Trump** | 记者：你说俄乌同意停火，但两边都说没这回事Trump：我说他们同意了，就是同意了记者：俄已经违反了、昨晚袭击了乌Trump：我不确定是这样，但他们必须停火记者：你怎么才能让俄停火Trump：俄想要停火，但乌也同意才行，Putin比Zelensky更想达成协议​_新浪新闻 <https://news.google.com/rss/articles/CBMiY0FVX3lxTE4xMnRxTEM1cHI3c2dUNENjOW8wRDBnX1o5UWdIaXpiXzhzRDZIV05tTExEV2U1OWc5MzJZU0xNeXg5WVdkbktUVWpoa05EdktEbVlkcFh3dGpIdXZYREZKOE16Zw?oc=5>
+- **Trump** | Taiwan envoy sees no shift in US policy after Trump-Xi summit <https://news.google.com/rss/articles/CBMirgFBVV95cUxORU56QnFUbUJnZmN1VDVxWXE5c1c3bHdwelF2eVZxcmJaWGtVTFJvQVFkVGxvV3B1UEFrbjNaM2lNYUFGRm5wUHJ6cFJrNFpETWdwejFJVzJLS1ZLTnNjWkhfNkl0SkpiN0hXaDZMSXhLbnZ1UUhJTkhkTVNhSUJrcHduN2t0Nzl5MWdTUUFXa0FZaDBjOW1mQV9TQ2lUai1uNnBxSXVRcDkwOVMza2fSAbABQVVfeXFMT1lzLWxoT0U1MnFaOEI1akYwSTZtWHRFZU9oR1ZMeXN3T0FnbFBHTjQxeVJPVGg4R3JOQXZrdFFSazc5aFBDd0RxNUxyVTRYY01pTnhvNS1tWWl6ZXZUSkJVZnJRVTV4VXlyaEhsTjJkd2h5Q3AzUlN2UXM5SXJDQUtDZ3pyUlVRZkVLb1R1ZkxrWTNPN1dIc1dRd2JlaTJxUERTX05EYktxQV9jOVViX3E?oc=5>
+- **Trump** | 特朗普总统表示11月亚洲行期间可能与金正恩会面 <https://news.google.com/rss/articles/CBMijAFBVV95cUxNTWpKTTJ6OTlNTFowVWxvd3B4T1VvVTlXM0lzWllSc0lESE15MXYxMmN2ekpPaE5hbnQ1MjN4eFo3X1hac01aM21ZVWV3YUUxTE05dGJyODgyamFqNWVVYWFVeEJOdUhhOFg0c0JhQ2NNcDkyV25zQzRpZ01ZWnBOLXZhRHBORlpKYWtfYdIBjwFBVV95cUxQaDk1cF81ZkZkMWVOVUtjOUFCS20tVnQ5YVgxZGx5MWNOQ1ZlRUJTazhNRDN4bjFPUUJPTmZEenJ1SHVLQXpLTkhXUmpCNUZZQkZobV9tNHlqLThSUGlHZllqa0hmaHBackxEc2E5QXhHR3NveTM1V3VBRm1zSENybTNCZDZKQlc3XzRDMmcxZw?oc=5>
 
 ### 2026-10-12 19:54  (12 条)
 
