@@ -1,94 +1,105 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-14 10:59**
-- 本轮扫到 13828 条, 新增 **10** 条
+- 最近更新: **2026-10-14 15:45**
+- 本轮扫到 13838 条, 新增 **10** 条
 
 ---
 
 ## 本轮新发现 (10 条)
 
-### 肖战演唱会官宣嘉宾名单为何未包含王一博？
+### 周杰伦夫妇支持BIGBANG演唱会，给他们送凤梨酥，太阳爆笑喊话：谢谢大哥！
 
-- 艺人/关键词: **王一博**
+- 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd8640680175em.html>
+- 链接: <https://k.sina.com.cn/article_7879923551_m1d5ae175f03301sksu.html>
 
-### 特朗普让乌克兰收手，欧洲集体反对：“筹码”不可丢
+### 周杰伦演唱会前带妈妈公园散步
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-14 06:10
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1NWjkyMzI3Y09sbjk1NzMyUmRGb2tIdWlINU43c1RHd0txYVdTc2JSNnR1b21DQUdyakpHNjQzMmlOb251Z0xKNjhLbUw?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5291824241_13b6ad47104001iyvi.html>
 
-### “特朗普下令：赴美生子，倒查6年”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-14 09:46
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE01c0hEUzlMQ1puZEhYRlFzY2hCdi1nZlVPWnhLa1VDNjNjWmZuZDJtM2o3SE1Ba2E2T0ZLZ1NJYmgzcER4S0hRdlpGX3o?oc=5>
-
-### 特朗普或拉土耳其入伙打击胡塞武装
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-14 07:18
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBVc2ctdGFhbmFWQkt0WVNJUVUtVDVmM3RxRkVDQjRqT2tzdHVvX0ZtdjEwczZEck5jWHZCNlExOG5XWFVxM3NPU3FmUHE?oc=5>
-
-### 局势突变，抢在特朗普之前！伊朗主动致电沙特，一开口让人很意外
+### 特朗普发布了一段人工智能生成的视频，内容是他与老虎互动。 #特朗普回应白宫新任新闻秘书首秀# ​
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪网
-- 时间: 2026-10-14 10:25
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFA4b2M1SE1lRzRDOG81WWJNXy1TUzhzQjlBWGVXb2xHbnZkeHRYQWlHQ2hxX2hxekFQV3JOemY5QmdVRE1xbnV0RkRIa2lXVUZiWEg0T0VXdXMxOFlWbXZjQ2pYTE9HZ3hFSnpWSUtQR0hydw?oc=5>
+- 时间: 2026-10-14 14:37
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1zMnkwdHlIQWE2STRtUHNqaWNSNDJKMHpyWHVvZFdjR2gyMWdoU0x5WWlkREpwZ0k3Z2pjQnFQbXNHNW9QemJBcWtrMTNDVnZxWmtKN0RfSU1SVlJRMzVjZ01EN2FzeXppR0VTdHZjbWk5cTg?oc=5>
 
-### “北漂”白宫首秀，“惨不忍睹”
+### 特朗普:在"我们的格陵兰岛"正筹备大规模石油天然气和矿产勘探
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-10-14 14:24
+- 链接: <https://news.google.com/rss/articles/CBMipwNBVV95cUxNN3JmN00xS2dNbHdHREJYTVRDMjhzTmprSEdUYnhUSkh5S3pDOTdzT2NBM281ODVVUnpZQ0pnYU9kbmNuR3EwV050a3ZscW0wby1FMlRkTURCM3l5ZXNuUmd2T3ZuWUtGVzZIeFd4by0tTEVfbXZvSlNnYnpIUUR3Q19RRTUtbVhUMVg4UTlfQWtxMno3YzF3RTJrSm9YanZqQUxhQTE3U2gyeHZIQ3Mwb2RTVGtVNWNVaERJVFJxN3g2ZzBERkV5bVZ6bVdzenRldEdYY2NEZ2R3M3hXTkw1WWthVjQzbUIzNTMxcHcyT013dVh5M2hNd0NlTTJNOXlYYnNDZ19zUzZ2eEItckVydnZvQkFFdE1ucU10WEh2bXdES1VzUHluRFpLZlNpTTdtbDFfX2tKaV95R2tXYjJvWEtwVzVUellrSHdBQmhBNTZva3JDbXN4X3lOU3ZKVW5DRmt0RlYtRVNEbGFhYjVqVnRad200X2syZTFyUnZxckhGNHpaM21TQ0szcnB1S0N4ZTZwZU5rbkZUM0NpODRweVhQYXpRSzg?oc=5>
+
+### 马斯克等科技寡头，被特朗普正式编入美国战争机器，中国务必警惕
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-10-14 15:30
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE0xZHBmdkg3dGFZN2xFbEQ1d2Ixb2RoYWpENFFsVzFQb2s4R2ZaMWNaWGFuQmJjSlVTOVN6OWNna0xLbGJITHV6M1FpNllHWnRYa0NzY0NmdDhQYzFmVm1jQ2xOUW4xOC1zZm55QWdEdUdyTW5iYUZ3UkJnRUlob1U?oc=5>
+
+### 特朗普忙“划清界限”：她不是我的家庭成员
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-10-14 09:52
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBydEQ2YUpPNHJSNEVwWUtMUU5fNFVGQkc3VHhkaDYydUM1MjE0UWhDOEM2dXpiWjdyeHZPNmVtZUZ5U183WW9oOUJIclA?oc=5>
+- 时间: 2026-10-14 08:09
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1ic09pQl9uLUVrdjF1RGlmTlhCWTBjazk3WFpwYWVGdlBzZTBlTE5ra1FCWGZlWDdFT2JfQzMxNmt3MFhURWhCMWFlVVY?oc=5>
 
-### 特朗普与吉尔福伊尔划清界限：不是我的家庭成员
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-10-14 08:15
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE82Ui1vcFhNZkFUWElVM29JZGNzTC12NFZrNmlBbUxIMUI4M1N0WTZiQWswZnNEM0lNS3VnS2w5bjBXZlR4MWhoODRYLUxrWE1lcjdraFp2MmktSjV1LTJsV1l5SXhReUxuTmdlYlVRemxqbU9DdzhDSnMyaUhRRTQ?oc=5>
-
-### 图集｜马斯克与特朗普“冰释前嫌” 成为中期选举史上最大金主
+### 特朗普紧急切割：她不是我家的人
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 财新
-- 时间: 2026-10-14 02:42
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5aZUNhREpheS11bXdXQ3doLWN4UTBSbHplWDExeXlnajFtNk1mT3Fid2pNVnRmc1d3bkpac1pyQkpWSnpWZms4ajd4R19iY24yQl9UbGk2WUFfY2Nmc3ZvTA?oc=5>
+- 场馆: 观察者网
+- 时间: 2026-10-14 09:22
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFAwQ3pHRHhIY0VlNERfdGxaQnR5MXVlaUo1dFh2X2VpTVlieVRWSVN2RE52cnVtZkJfc0dXWmFweHFqSjVWUUd5Yy1JSmNIXzk2V3BIdUxVczYyY1ByZ2lWMHg3TDktUWxhc1hwOGtVTWxQM0E?oc=5>
 
-### DJT Stonks：按市值排名的顶级 Trump Media & Technology Group 迷因代币
+### 从特朗普“准儿媳”到被解职的美国驻希腊大使
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 纽约时报中文网
+- 时间: 2026-10-14 04:59
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE13aFh1TGhuREc1WDV3b0g4Z2RZYWtjeDM1bVpQYnhaNmxvbkRPUThIdGtrUUg1czBVVjJZcW9naDVCR2Y2TGZwUTFWZjBRSWN0RENzblBfWTZtYlRmdHAtUA?oc=5>
+
+### 特朗普宣布台湾同意购买阿拉斯加天然气，台湾：计划投资44亿美元
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: CoinGecko
-- 时间: 2026-10-14 03:16
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE1idGI5UTVnaVBtbUVOcXBvWFJHQloxUmRWTEFSWHVNOUttRldwdHRwbExaLVZheTlyemZZRWl4ZVoxc2dDd2dqZVJkR3JLVGZpSWgxVmp3T3dKSVBKbldoekFXNDRNQUlCcnQtQlREYVpRUQ?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-10-14 12:55
+- 链接: <https://news.google.com/rss/articles/CBMiugFBVV95cUxPNFVLbm12RFZvNi11M3AwRnRueUpqOEtYanRFWVZubE1qaHJONzRhYl9oaGJjUm5BaWlZRUpwRmZRcWxhZ2VjRTRKMlhadlhramFZczBTTUE5YlVsS0wtYnVWSlpqeXcwQUpNRXpWQ2ZPNXJUMjlYQWIzTnpNWnlGRE9RcXJOWDlHaE1uY3RXdEVGX2l4cXkxNjJDMG9wM3JzaUZqQkxqOHNDR212NzhkYzVhRHZhMlotdnfSAbwBQVVfeXFMTXh4WE5MSU83NnItVnRLSW9KYUZqc3NhaThxWUVHQndKX2xheUw4b2k3aS1IcllFMDJGQlhYWkdycmVNZkZPcncwUk9nNUZndTRiekt1T1MwZzItbnBpS1Y5Z2FzZ0tLOGNSNkg3RXpLUTFpRzZRUmwydFZVeHdETnR3eUprdjdON3VjUmpGS3BZamM2MklsbHFBTGNVZnlZbmZwdDNyRS1yVzZGVWMwOWotRm5iNEhuZkZmUUY?oc=5>
 
-### 伊朗不断加大对霍尔木兹海峡船只的袭击力度，其背后原因是什么？
+### $英伟达 (NVDA.US)$trump会让空头再次伟大[机智][机智][机智]
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Al-Monitor
-- 时间: 2026-10-13 21:11
-- 链接: <https://news.google.com/rss/articles/CBMiygFBVV95cUxNQXV3SlZhaENLNGtzaXRwUEI4RUxaeUtUVlV1cENQUEIwZ2hRY0RmZE1RLWtGbXc5WVMzeGtVbTVWS2VfQ1c0Nm1DTXIyQ1FWbEY2OGhwRmVaSjJhUXhnTTUzMTFCaXRRc3BQZkNfYmFlcTltMnRqUDBUc2lRemFrMnZ0ZHZxYk80VWtHcnN5REhrNHZUT3gyYXRULTlZZXFFUW1UOGdnN2RweUQyM3A3MVNjR0xfM1BPOTVMb0pOT2RlSG9RZDVLaFNn?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-10-14 15:24
+- 链接: <https://news.google.com/rss/articles/CBMisAFBVV95cUxOOGJ4WnJnSmdvY0JqNGJwckItaURNZC1xZ2tHdmtmWENSSWlVS3IyR3RJSVJxQmx6Ykg5WkJVTHdnclBYbFllNHdtOS1RaG9oV3c0UlVyb2F1aGhxN2VyMUlnWXhKc0JmbUc3S3BKZG9sQ3JwamR1ejZnQnVLS3FVdnc5aTZhSi1idzd0RzlILUdfWndoWUhDeWRQaHNVTllmU0hRenNkZTNyNzdkWGJfSw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-14 15:45  (10 条)
+
+- **周杰伦** | 周杰伦夫妇支持BIGBANG演唱会，给他们送凤梨酥，太阳爆笑喊话：谢谢大哥！ <https://k.sina.com.cn/article_7879923551_m1d5ae175f03301sksu.html>
+- **周杰伦** | 周杰伦演唱会前带妈妈公园散步 <https://k.sina.com.cn/article_5291824241_13b6ad47104001iyvi.html>
+- **特朗普** | 特朗普发布了一段人工智能生成的视频，内容是他与老虎互动。 #特朗普回应白宫新任新闻秘书首秀# ​ <https://news.google.com/rss/articles/CBMic0FVX3lxTE1zMnkwdHlIQWE2STRtUHNqaWNSNDJKMHpyWHVvZFdjR2gyMWdoU0x5WWlkREpwZ0k3Z2pjQnFQbXNHNW9QemJBcWtrMTNDVnZxWmtKN0RfSU1SVlJRMzVjZ01EN2FzeXppR0VTdHZjbWk5cTg?oc=5>
+- **特朗普** | 特朗普:在"我们的格陵兰岛"正筹备大规模石油天然气和矿产勘探 <https://news.google.com/rss/articles/CBMipwNBVV95cUxNN3JmN00xS2dNbHdHREJYTVRDMjhzTmprSEdUYnhUSkh5S3pDOTdzT2NBM281ODVVUnpZQ0pnYU9kbmNuR3EwV050a3ZscW0wby1FMlRkTURCM3l5ZXNuUmd2T3ZuWUtGVzZIeFd4by0tTEVfbXZvSlNnYnpIUUR3Q19RRTUtbVhUMVg4UTlfQWtxMno3YzF3RTJrSm9YanZqQUxhQTE3U2gyeHZIQ3Mwb2RTVGtVNWNVaERJVFJxN3g2ZzBERkV5bVZ6bVdzenRldEdYY2NEZ2R3M3hXTkw1WWthVjQzbUIzNTMxcHcyT013dVh5M2hNd0NlTTJNOXlYYnNDZ19zUzZ2eEItckVydnZvQkFFdE1ucU10WEh2bXdES1VzUHluRFpLZlNpTTdtbDFfX2tKaV95R2tXYjJvWEtwVzVUellrSHdBQmhBNTZva3JDbXN4X3lOU3ZKVW5DRmt0RlYtRVNEbGFhYjVqVnRad200X2syZTFyUnZxckhGNHpaM21TQ0szcnB1S0N4ZTZwZU5rbkZUM0NpODRweVhQYXpRSzg?oc=5>
+- **特朗普** | 马斯克等科技寡头，被特朗普正式编入美国战争机器，中国务必警惕 <https://news.google.com/rss/articles/CBMif0FVX3lxTE0xZHBmdkg3dGFZN2xFbEQ1d2Ixb2RoYWpENFFsVzFQb2s4R2ZaMWNaWGFuQmJjSlVTOVN6OWNna0xLbGJITHV6M1FpNllHWnRYa0NzY0NmdDhQYzFmVm1jQ2xOUW4xOC1zZm55QWdEdUdyTW5iYUZ3UkJnRUlob1U?oc=5>
+- **特朗普** | 特朗普忙“划清界限”：她不是我的家庭成员 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1ic09pQl9uLUVrdjF1RGlmTlhCWTBjazk3WFpwYWVGdlBzZTBlTE5ra1FCWGZlWDdFT2JfQzMxNmt3MFhURWhCMWFlVVY?oc=5>
+- **特朗普** | 特朗普紧急切割：她不是我家的人 <https://news.google.com/rss/articles/CBMic0FVX3lxTFAwQ3pHRHhIY0VlNERfdGxaQnR5MXVlaUo1dFh2X2VpTVlieVRWSVN2RE52cnVtZkJfc0dXWmFweHFqSjVWUUd5Yy1JSmNIXzk2V3BIdUxVczYyY1ByZ2lWMHg3TDktUWxhc1hwOGtVTWxQM0E?oc=5>
+- **特朗普** | 从特朗普“准儿媳”到被解职的美国驻希腊大使 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE13aFh1TGhuREc1WDV3b0g4Z2RZYWtjeDM1bVpQYnhaNmxvbkRPUThIdGtrUUg1czBVVjJZcW9naDVCR2Y2TGZwUTFWZjBRSWN0RENzblBfWTZtYlRmdHAtUA?oc=5>
+- **Trump** | 特朗普宣布台湾同意购买阿拉斯加天然气，台湾：计划投资44亿美元 <https://news.google.com/rss/articles/CBMiugFBVV95cUxPNFVLbm12RFZvNi11M3AwRnRueUpqOEtYanRFWVZubE1qaHJONzRhYl9oaGJjUm5BaWlZRUpwRmZRcWxhZ2VjRTRKMlhadlhramFZczBTTUE5YlVsS0wtYnVWSlpqeXcwQUpNRXpWQ2ZPNXJUMjlYQWIzTnpNWnlGRE9RcXJOWDlHaE1uY3RXdEVGX2l4cXkxNjJDMG9wM3JzaUZqQkxqOHNDR212NzhkYzVhRHZhMlotdnfSAbwBQVVfeXFMTXh4WE5MSU83NnItVnRLSW9KYUZqc3NhaThxWUVHQndKX2xheUw4b2k3aS1IcllFMDJGQlhYWkdycmVNZkZPcncwUk9nNUZndTRiekt1T1MwZzItbnBpS1Y5Z2FzZ0tLOGNSNkg3RXpLUTFpRzZRUmwydFZVeHdETnR3eUprdjdON3VjUmpGS3BZamM2MklsbHFBTGNVZnlZbmZwdDNyRS1yVzZGVWMwOWotRm5iNEhuZkZmUUY?oc=5>
+- **Trump** | $英伟达 (NVDA.US)$trump会让空头再次伟大[机智][机智][机智] <https://news.google.com/rss/articles/CBMisAFBVV95cUxOOGJ4WnJnSmdvY0JqNGJwckItaURNZC1xZ2tHdmtmWENSSWlVS3IyR3RJSVJxQmx6Ykg5WkJVTHdnclBYbFllNHdtOS1RaG9oV3c0UlVyb2F1aGhxN2VyMUlnWXhKc0JmbUc3S3BKZG9sQ3JwamR1ejZnQnVLS3FVdnc5aTZhSi1idzd0RzlILUdfWndoWUhDeWRQaHNVTllmU0hRenNkZTNyNzdkWGJfSw?oc=5>
 
 ### 2026-10-14 10:59  (10 条)
 
