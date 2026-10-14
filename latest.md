@@ -1,88 +1,107 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-14 05:42**
-- 本轮扫到 13818 条, 新增 **9** 条
+- 最近更新: **2026-10-14 10:59**
+- 本轮扫到 13828 条, 新增 **10** 条
 
 ---
 
-## 本轮新发现 (9 条)
+## 本轮新发现 (10 条)
 
-### 特朗普警告基辅不要袭击俄炼油厂，马斯克：泽连斯基做得太过分了
+### 肖战演唱会官宣嘉宾名单为何未包含王一博？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-10-14 05:16
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE9kWFBnLXRsMktPb1pzNHMtUzRmUmNqT2xRNWx0RWk3VWlfVGNwYndSWDIyVlctX3BBb20zQXY4WlJhQjhvZTBPN1BXSUlqajBoMjdXX2IxNFpuRVF4dzlGdlVaMHB2WlhHRlA3aF9scjM0UQ?oc=5>
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd8640680175em.html>
 
-### 美国两党12名参议员联名致信特朗普，要求撤销美俄柴油“大交易”
+### 特朗普让乌克兰收手，欧洲集体反对：“筹码”不可丢
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-10-14 03:58
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFB0YzBCMzlSRU04LU9QV0lWWXZKbUhWdTAxbmt0dk15aFNaeGJXeWM0VUg1UmphcUpsanlhR0o5djBKV1AxOHk2OHk0SXQ?oc=5>
+- 时间: 2026-10-14 06:10
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1NWjkyMzI3Y09sbjk1NzMyUmRGb2tIdWlINU43c1RHd0txYVdTc2JSNnR1b21DQUdyakpHNjQzMmlOb251Z0xKNjhLbUw?oc=5>
 
-### 以媒：内塔尼亚胡与特朗普讨论重启对伊战争可能性
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-10-13 04:00
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE15bWpaU0tWbHRXOGkzbFpTODRxSkNnaHprSXV0VW43QlY4bnlKMzg2Z1ROSGZnTnhGUWJyLW9PM05GejVON09Ta1RCXzhFaUk4M2xrdkFXWjVheWFBZHJycg?oc=5>
-
-### 沙特阿美总部遭袭！特朗普指责胡塞武装：中期选举前蓄意推高油价
+### “特朗普下令：赴美生子，倒查6年”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-10-12 04:09
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTFBCT2xQRkNCcjdTaUVCcjdhQ0tsQ3MwOTJKcDlUU3NSRjV5LWVpVGh4RGxfSnRzUVF0Yk9ZN0NWcmQ2cDRMbnE1Zg?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-10-14 09:46
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE01c0hEUzlMQ1puZEhYRlFzY2hCdi1nZlVPWnhLa1VDNjNjWmZuZDJtM2o3SE1Ba2E2T0ZLZ1NJYmgzcER4S0hRdlpGX3o?oc=5>
 
-### 特朗普指责胡塞武装蓄意在美中期选举前推高油价
+### 特朗普或拉土耳其入伙打击胡塞武装
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-10-14 07:18
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBVc2ctdGFhbmFWQkt0WVNJUVUtVDVmM3RxRkVDQjRqT2tzdHVvX0ZtdjEwczZEck5jWHZCNlExOG5XWFVxM3NPU3FmUHE?oc=5>
+
+### 局势突变，抢在特朗普之前！伊朗主动致电沙特，一开口让人很意外
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-10-14 10:25
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFA4b2M1SE1lRzRDOG81WWJNXy1TUzhzQjlBWGVXb2xHbnZkeHRYQWlHQ2hxX2hxekFQV3JOemY5QmdVRE1xbnV0RkRIa2lXVUZiWEg0T0VXdXMxOFlWbXZjQ2pYTE9HZ3hFSnpWSUtQR0hydw?oc=5>
+
+### “北漂”白宫首秀，“惨不忍睹”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-10-14 09:52
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBydEQ2YUpPNHJSNEVwWUtMUU5fNFVGQkc3VHhkaDYydUM1MjE0UWhDOEM2dXpiWjdyeHZPNmVtZUZ5U183WW9oOUJIclA?oc=5>
+
+### 特朗普与吉尔福伊尔划清界限：不是我的家庭成员
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新华网
-- 时间: 2026-10-13 18:37
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1kQXZPRV9ZTk00ZEdEeW5kSW41U3lENjJGNmJlTjJucGd0ZzlmRWtKVldGSkdmdVlGYV9yb1dIaGZEMkdhRjMtcGlKaWJlT2w5eFRSaDNvSERCcWlrWEpBOGdrNmsyWXBQM3JCUlJrWGo3SkkzMkZWYWhhTjdMOVE?oc=5>
+- 时间: 2026-10-14 08:15
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE82Ui1vcFhNZkFUWElVM29JZGNzTC12NFZrNmlBbUxIMUI4M1N0WTZiQWswZnNEM0lNS3VnS2w5bjBXZlR4MWhoODRYLUxrWE1lcjdraFp2MmktSjV1LTJsV1l5SXhReUxuTmdlYlVRemxqbU9DdzhDSnMyaUhRRTQ?oc=5>
 
-### 美国国务院：特朗普政府反对中国“胁迫和攻击”行使主权权利的国家
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-10-13 12:24
-- 链接: <https://news.google.com/rss/articles/CBMiswNBVV95cUxQSzhpMWJaUTFGWUpUM3lLclZud09BNTlhdko2eVBjaXpSX3VNMFBwMDV0ODFvSHpNRUhlSnpTd1I2MFVQZGszSG5vLWk3MDh3SmU1UVJsMnZPVUxUbnljd29aeU9xZFhhWElnY2Zaa200VzRtMExEdHZxVC0ydWNMNE9KNkxsUE5FZXZablJGLV9ESHA3dWQwZEhRQ29BaWNPNElrOE15M3JTcXdBMUhwVC1jbG15eDRpRmxDQVB3bHdQZ3VZNlpsUG5lWFdWdXl4RVN6cEFOd3pPWkFoVEpmSDI5RS1INnJoS3BTR05FTXVBVHVjS1JiZjNGMEhzZ0tyejZ5WnZQUDNhdTlSNGlnWTRBdW5CSWR4cDVSUnZFVnJTaDJ3TzRNZXBBNmk1bjhDZVlmdXdHZDRTQ2E1dnV4LXhrTEVYam5teVVNRkZINENmcEpYV3lVbm54M2NDWHhiaWV5ZUVzYmJWTENuTGJtZDgxOFcwSG12OFJOVUIxQTJpZm1nd1hSYi1KZWM5cTd2YmVkVFV1MTF0a1pCVHA4S2o5cWVBdXlzd0ZsYk1hLU5ZYnc?oc=5>
-
-### 特朗普称不相信中俄在帮助伊朗 外交部回应提问
+### 图集｜马斯克与特朗普“冰释前嫌” 成为中期选举史上最大金主
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-10-14 02:52
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5uaUNERjRzOC1oYTBvSFpLWkxOQS1CNjRDbkVaQjRTS3dqSFVBTC16WHFmbGhnWDlKbzF0bW1iQVBybmNiemtxU25Pd0o0QTRMSkh2SW1PN3dvanhaSnpzc0FnNGh6YmMtUmtXS0QtRkU?oc=5>
+- 场馆: 财新
+- 时间: 2026-10-14 02:42
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5aZUNhREpheS11bXdXQ3doLWN4UTBSbHplWDExeXlnajFtNk1mT3Fid2pNVnRmc1d3bkpac1pyQkpWSnpWZms4ajd4R19iY24yQl9UbGk2WUFfY2Nmc3ZvTA?oc=5>
 
-### 美国总统Donald Trump表示，台湾同意从阿拉斯加管道购买30%的天然气。
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: www.tmgm.com
-- 时间: 2026-10-14 02:58
-- 链接: <https://news.google.com/rss/articles/CBMi6AFBVV95cUxOa1hmbVRfWTdDOHQyUVhwTWxCRUVIeDh5NEVQYjNrYzRodWl2TlNWWHNxNFRnSGpLbVRuclJCSVBsTDJDRzNpampFSzJfbE53d1p5QzNPTG1LdDdVQlhwNnpZQm1JSVA2RDB5ZW9QSWhVd0JHQUl2VXdScWt4VklvMGxHVEIzY1pKcU05bml5YmdLaGVvUHVjV0NYLWFMc0tGQTFKYjd3bnVyWm5QM3pRaXBTT1dFY0NVTUFnTlFRZExrNzR3UUtoaEhTTWgxX1o5czlNTjlfSGVqbzM0RmxkaTBieWQ4QTFj?oc=5>
-
-### 特朗普斥胡塞在中期选举前 借机推高能源价格
+### DJT Stonks：按市值排名的顶级 Trump Media & Technology Group 迷因代币
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-10-14 03:48
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTFBDODE4YldpLWRzNmJ0MkFrbkdXck1KVzFVTFpMeVdNY253cnJRdzJtbUtuUlZYOERLUUFVYjVQdUxwTW9JQmVjcWVxTlhRQnhrdnVPR3A4S3g4QTBSVU5ySXlpcm9Fa1hoME9IVGF0Z1hqRHFFcFE?oc=5>
+- 场馆: CoinGecko
+- 时间: 2026-10-14 03:16
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE1idGI5UTVnaVBtbUVOcXBvWFJHQloxUmRWTEFSWHVNOUttRldwdHRwbExaLVZheTlyemZZRWl4ZVoxc2dDd2dqZVJkR3JLVGZpSWgxVmp3T3dKSVBKbldoekFXNDRNQUlCcnQtQlREYVpRUQ?oc=5>
+
+### 伊朗不断加大对霍尔木兹海峡船只的袭击力度，其背后原因是什么？
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Al-Monitor
+- 时间: 2026-10-13 21:11
+- 链接: <https://news.google.com/rss/articles/CBMiygFBVV95cUxNQXV3SlZhaENLNGtzaXRwUEI4RUxaeUtUVlV1cENQUEIwZ2hRY0RmZE1RLWtGbXc5WVMzeGtVbTVWS2VfQ1c0Nm1DTXIyQ1FWbEY2OGhwRmVaSjJhUXhnTTUzMTFCaXRRc3BQZkNfYmFlcTltMnRqUDBUc2lRemFrMnZ0ZHZxYk80VWtHcnN5REhrNHZUT3gyYXRULTlZZXFFUW1UOGdnN2RweUQyM3A3MVNjR0xfM1BPOTVMb0pOT2RlSG9RZDVLaFNn?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-14 10:59  (10 条)
+
+- **王一博** | 肖战演唱会官宣嘉宾名单为何未包含王一博？ <https://k.sina.com.cn/article_7879776356_1d5abd8640680175em.html>
+- **特朗普** | 特朗普让乌克兰收手，欧洲集体反对：“筹码”不可丢 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1NWjkyMzI3Y09sbjk1NzMyUmRGb2tIdWlINU43c1RHd0txYVdTc2JSNnR1b21DQUdyakpHNjQzMmlOb251Z0xKNjhLbUw?oc=5>
+- **特朗普** | “特朗普下令：赴美生子，倒查6年” <https://news.google.com/rss/articles/CBMiTEFVX3lxTE01c0hEUzlMQ1puZEhYRlFzY2hCdi1nZlVPWnhLa1VDNjNjWmZuZDJtM2o3SE1Ba2E2T0ZLZ1NJYmgzcER4S0hRdlpGX3o?oc=5>
+- **特朗普** | 特朗普或拉土耳其入伙打击胡塞武装 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBVc2ctdGFhbmFWQkt0WVNJUVUtVDVmM3RxRkVDQjRqT2tzdHVvX0ZtdjEwczZEck5jWHZCNlExOG5XWFVxM3NPU3FmUHE?oc=5>
+- **特朗普** | 局势突变，抢在特朗普之前！伊朗主动致电沙特，一开口让人很意外 <https://news.google.com/rss/articles/CBMickFVX3lxTFA4b2M1SE1lRzRDOG81WWJNXy1TUzhzQjlBWGVXb2xHbnZkeHRYQWlHQ2hxX2hxekFQV3JOemY5QmdVRE1xbnV0RkRIa2lXVUZiWEg0T0VXdXMxOFlWbXZjQ2pYTE9HZ3hFSnpWSUtQR0hydw?oc=5>
+- **特朗普** | “北漂”白宫首秀，“惨不忍睹” <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBydEQ2YUpPNHJSNEVwWUtMUU5fNFVGQkc3VHhkaDYydUM1MjE0UWhDOEM2dXpiWjdyeHZPNmVtZUZ5U183WW9oOUJIclA?oc=5>
+- **特朗普** | 特朗普与吉尔福伊尔划清界限：不是我的家庭成员 <https://news.google.com/rss/articles/CBMif0FVX3lxTE82Ui1vcFhNZkFUWElVM29JZGNzTC12NFZrNmlBbUxIMUI4M1N0WTZiQWswZnNEM0lNS3VnS2w5bjBXZlR4MWhoODRYLUxrWE1lcjdraFp2MmktSjV1LTJsV1l5SXhReUxuTmdlYlVRemxqbU9DdzhDSnMyaUhRRTQ?oc=5>
+- **特朗普** | 图集｜马斯克与特朗普“冰释前嫌” 成为中期选举史上最大金主 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5aZUNhREpheS11bXdXQ3doLWN4UTBSbHplWDExeXlnajFtNk1mT3Fid2pNVnRmc1d3bkpac1pyQkpWSnpWZms4ajd4R19iY24yQl9UbGk2WUFfY2Nmc3ZvTA?oc=5>
+- **Trump** | DJT Stonks：按市值排名的顶级 Trump Media & Technology Group 迷因代币 <https://news.google.com/rss/articles/CBMickFVX3lxTE1idGI5UTVnaVBtbUVOcXBvWFJHQloxUmRWTEFSWHVNOUttRldwdHRwbExaLVZheTlyemZZRWl4ZVoxc2dDd2dqZVJkR3JLVGZpSWgxVmp3T3dKSVBKbldoekFXNDRNQUlCcnQtQlREYVpRUQ?oc=5>
+- **Trump** | 伊朗不断加大对霍尔木兹海峡船只的袭击力度，其背后原因是什么？ <https://news.google.com/rss/articles/CBMiygFBVV95cUxNQXV3SlZhaENLNGtzaXRwUEI4RUxaeUtUVlV1cENQUEIwZ2hRY0RmZE1RLWtGbXc5WVMzeGtVbTVWS2VfQ1c0Nm1DTXIyQ1FWbEY2OGhwRmVaSjJhUXhnTTUzMTFCaXRRc3BQZkNfYmFlcTltMnRqUDBUc2lRemFrMnZ0ZHZxYk80VWtHcnN5REhrNHZUT3gyYXRULTlZZXFFUW1UOGdnN2RweUQyM3A3MVNjR0xfM1BPOTVMb0pOT2RlSG9RZDVLaFNn?oc=5>
 
 ### 2026-10-14 05:42  (9 条)
 
