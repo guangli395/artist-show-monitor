@@ -1,124 +1,53 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-14 19:55**
-- 本轮扫到 13853 条, 新增 **15** 条
+- 最近更新: **2026-10-14 22:55**
+- 本轮扫到 13857 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (15 条)
+## 本轮新发现 (4 条)
 
-### 蔡徐坤巴黎采访透露新歌Demo进入挑选和制作阶段
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1852855013_m6e7052e505302vsm6.html>
-
-### 周杰伦墨尔本演唱会具体时间和地点在哪里？
+### 周杰伦墨尔本街头弹琴，为演唱会预热
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776722_1d5abd9d206801h6xq.html>
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd86406801772a.html>
 
-### 周杰伦街头弹琴是为了宣传新专辑吗？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776722_1d5abd9d206801h6xk.html>
-
-### 周杰伦墨尔本演唱会门票还能买到吗？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776731_1d5abd9db06801f6ue.html>
-
-### 周杰伦墨尔本街头即兴弹琴，为演唱会预热
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776731_1d5abd9db06801f6uc.html>
-
-### 周杰伦墨尔本街头弹琴，为周六演唱会预热
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776722_1d5abd9d206801h6xg.html>
-
-### 特朗普对台政策是否转向？美学者：未见根本性变化
+### 美国取消部分工卡540天延期政策
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-10-14 17:52
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE53UzNIZmY5OEdUME1sQ0ptdGZrN0R1UTBjZ245V3B6R0ZZTE5yQm9wdkRHaEdrU0N4SXFGRTVSUEZEdVI1WGV4Njc1eDFZTWpJU2oyUnFvOTVMdGhmZThiN2Z0VzE2OFBiS05iVGszQmxzTmtT0gF3QVVfeXFMTlNySXdYX0tHWWJ0NC0wdi1LaXV2UDVIWEIwYndpR2hkZ3RQWDBRNTdQLXNWbllEcGZuVnMtQVhEN0ZXemZPdGI5TlVaY0FlZ09obkZxeVZGeGpHaFZSeXhfQ09YdnJOZ1hvUF80aXBKdGc2MUNqMG8?oc=5>
+- 场馆: RFI
+- 时间: 2026-10-14 20:58
+- 链接: <https://news.google.com/rss/articles/CBMi_wFBVV95cUxQMVEwR1NlcEk5VkxkRGl0Tkw1enVlVTJnWHVkTVZ2TFg3MHhMbjVjRm9VZ29BU21aa1hOM3dBdkxBOWRIc3FsYXhhUVhRcHlXTjVBUWprU2tLQXRSam5CWjUwRC03ZERPVkFQNXJCeE5JT0NXT2huS3g2V084alloYjBBYlBsMmZaMG5RSVoyUmRYYnNQV3ZuSUZTRUhxc0lld280UXN2UTZLbXhBODBkWkZqQm1PYmlJUGh6VzJpVU9uN1lGOEtsRkozNV9fRzIxazBhTGlRNTFYYmFWdkdtUjdPRE1aUUpyVnRWSzRyWDVnY2hvaWQ1em5XdmctdUE?oc=5>
 
-### 如果不能尽快让特朗普满意，她可能光速丢掉饭碗
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-10-14 12:17
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE9tMEU4RzFUS0duMTA4cDdOWWZFaHprZlp1MHhqbGN4QjItWkVPcWoyZm1CbkxEeWM2b1NEbnFyRnM1TTVWcmlLUWd0Tlc2eVE3QUlQanJlYXdiNGF6ZEFMMW9zREZCcjlEZW04VkE3Ylpiblk?oc=5>
-
-### 特朗普新任新闻秘书扎卡里亚被曝曾转发支持普京帖子
+### 特朗普指责胡塞武装推高油价，美是否参战仍悬而未决，中东地缘走向成全球焦点
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-14 08:53
-- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTE5yQmxwdGhpaENWNmdDNnY4S1VjQTBoVFNlRXNKcDM0N25FNzk2aGtUZDB3RjRMSElHdXRicUUtT0E1MXdLbVBfZUhNV0MybGRGZ2c?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-10-14 22:54
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFBUV0RjNnlxWkdsNmZ3OWQxcHZ0VTRoakJpRFpqWnZKMjJyaXVjM1dLNExPVFg4S3QycnBuTUJTTkYtQkFFN25YVTNvOXpfVVd0amlQYVVXVWNxSDR0WHJmTzNsYjFReERTMEdTaE1yVGUtM0U?oc=5>
 
-### 如果特朗普惨败，他的商业帝国恐将被清算
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 风闻
-- 时间: 2026-10-13 22:35
-- 链接: <https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KdFc2TWM3bnVKd0EzdnBWb3ZTQU5kcG1OeVR4NTU5Q1dLZWpjY1dKX1NJUVVnTEZxU3Iwc0VVZGtDNDJocDMzYVNRd1AzT1gzcWc5VXdLa1BCanM?oc=5>
-
-### 特朗普“前准儿媳”吉尔福伊尔，被白宫要求辞职|唐纳德·特朗普|美国总统|美政府|吉尔-迪亚斯|希腊
+### 特朗普宣布“能源停火”后 乌称能源设施遭俄袭击
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-10-13 07:00
-- 链接: <https://news.google.com/rss/articles/CBMihgFBVV95cUxQUXQ3QnU3LWVfb0N0LVBLZXZaaUxCME1lRnJNU1pqQ0hBdVE5eDhoMUtMZENXOUlTQVZBSk5qSFpZVldoTmpUVHZqVndIMDg4dV9iMmNIMUZXR2NNQXJSZzdjaTY5UXNjWS1GOXRyYk9NZ3M4LWFrdHI3YkxMelNpQndNWWtkQQ?oc=5>
-
-### 英国男子闯虎栏身亡后，特朗普发与老虎嬉戏AI视频遭网友痛骂
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: ThePaper.cn
-- 时间: 2026-10-14 10:45
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE5UTVFpc2JWaWJIU1RNSTNWNGt3TnE2aWNPNDNSSXZzNUlwWXU0RklTQXdJaG01R1FMbXNEQXlib1NuTkdUd1VyaEVsZk1veE5fZjZ2TW5vYTNneEkzaU05aUMyOGx4dWhIOHhSeGFsUGhwQQ?oc=5>
-
-### 民主党反复渲染中俄援伊，特朗普反手戳破指控，背后藏三重算计
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 搜狐
-- 时间: 2026-10-14 16:14
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxOb0pGbzN1c3RkcjlabWpDUHpZQjQ2a0QxT3FNRlZFaVRxUXlzaEVvYWhod2p3ZVJZRkszM2t4WktJNVlhejBiLW5FNnZyNm9nQmZaUmV0dkR3TWM4eDE2bVJ5Q0w0NTR3M2ZfeFJXeHlnMGRrVWJJcm1yQkJNTW1yUENrUVhQbXNmaEhUMw?oc=5>
-
-### 老婆站川普身旁遭网轰“整形脸” 富豪亲上阵护妻
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 文学城
-- 时间: 2026-10-14 15:51
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9EcjJVZkphbXZoN3d0Vkp5WERXazg4QTdyeTdTZnctakl6QWoxYmprcGRLa0VFWG93c2hwWTNfekFyS1R4UmNFSnI5bGJKNGJNbTZ0UzNMd0V6cnUwTk9TQVdUQVdSaEhM?oc=5>
-
-### $美光科技 (MU.US)$ 感谢选择trump 担任总统
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-10-14 14:56
-- 链接: <https://news.google.com/rss/articles/CBMivAFBVV95cUxOZDNLUGhVLVY5R1NYUHFWRmhHUmh0aEJHa3NEdktxbFhoSVRfcUpQVGg5NmF4cDNxcTE2OWtIbVNwRlVkZFZIWE9zWVRQRXphMFJlU21kUU1JLXVQZE1BcjVVRVpuazVucFVITjEzX05YVmJyeDNSOGNzcGtrZ3hUcHVURm1DUldCNjJnMGFUVjlNTVg3cUpubjdObWNMRDhDSUFOaXZSTVVURWF6SGY2OF9TclVxSF9oNVFEeQ?oc=5>
+- 场馆: DW.com
+- 时间: 2026-10-13 22:33
+- 链接: <https://news.google.com/rss/articles/CBMiugJBVV95cUxONWtVV2tZZWd2MmZLSjdCaEJBVGtZRUgyM1lveG9kRW83WDdJTU1GWFZ2TWdkemtZb0V3aktLNHNVWG5VUU1tVXVPQXdtR2ZxaG84UVhkQl9tdTNBdUZWWS1wMWRIRngzeVpRbVJVX2NNdkpVVzJTQmFaNHFnNkE4SmlyQkFwTWhOSHBONmU3alpDQnU5OWdnZWltQnNxSGRVNW1nUGdSSUVicjdtdkJaYWRBR2FuM3ZFRkh4MWhrVkNJZzdJOTdiMF8yc05YWU5tbEhhT3Bwekc3QUhHUWtPUHZmWXlXLVRMNWZUalY2eUhjd3Z4NDgwVWV5cTNPb3NHSVhfaEEyUFNfczZOOVJ6aHM4cUgyWlViNkhGSV9jQUh6Zi1qZ2RxQUJOWi1tamZtcm9uanZuMHVMUdIBugJBVV95cUxOSlFrdnhlNHBxQm1VbVRVa2ZWVDhzNmtyZ0xWaXljMTFtMlE4VEpoTS1MSW9WTkFDSmNvelNES2tEQ3B4T2VVZjZWbmVvYzRya3hyRjV1LUYyTVd5QVhOdVBReVFyS1lwdVJyZlFKTnIzSHFlMEdyMzlJVnE2NnhpYjA4Q29YSXFFZXJlZXdZN1JIUGNCQnp1SmJUZGE1VTE2ODVtT1RlWElMb3lHRjRIUHRsemdxbXFzbS1LZGM0Q21wU09uUXhqMmV4YWtFeFVfT0xQNVZUTW03YTl2MnMtNnhpQmNuVVJZdl8zRDVNV2xwTnRsUGMyQ3cycTBfWVZBZHI0SDB3V2oyX0xtRTdtWWpFTDhuQng2a2hOaWExUnNEQTExd2FUeGxwd3NzcFV3bXhDOUpQd2Q3dw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-14 22:55  (4 条)
+
+- **周杰伦** | 周杰伦墨尔本街头弹琴，为演唱会预热 <https://k.sina.com.cn/article_7879776356_1d5abd86406801772a.html>
+- **特朗普** | 美国取消部分工卡540天延期政策 <https://news.google.com/rss/articles/CBMi_wFBVV95cUxQMVEwR1NlcEk5VkxkRGl0Tkw1enVlVTJnWHVkTVZ2TFg3MHhMbjVjRm9VZ29BU21aa1hOM3dBdkxBOWRIc3FsYXhhUVhRcHlXTjVBUWprU2tLQXRSam5CWjUwRC03ZERPVkFQNXJCeE5JT0NXT2huS3g2V084alloYjBBYlBsMmZaMG5RSVoyUmRYYnNQV3ZuSUZTRUhxc0lld280UXN2UTZLbXhBODBkWkZqQm1PYmlJUGh6VzJpVU9uN1lGOEtsRkozNV9fRzIxazBhTGlRNTFYYmFWdkdtUjdPRE1aUUpyVnRWSzRyWDVnY2hvaWQ1em5XdmctdUE?oc=5>
+- **特朗普** | 特朗普指责胡塞武装推高油价，美是否参战仍悬而未决，中东地缘走向成全球焦点 <https://news.google.com/rss/articles/CBMic0FVX3lxTFBUV0RjNnlxWkdsNmZ3OWQxcHZ0VTRoakJpRFpqWnZKMjJyaXVjM1dLNExPVFg4S3QycnBuTUJTTkYtQkFFN25YVTNvOXpfVVd0amlQYVVXVWNxSDR0WHJmTzNsYjFReERTMEdTaE1yVGUtM0U?oc=5>
+- **特朗普** | 特朗普宣布“能源停火”后 乌称能源设施遭俄袭击 <https://news.google.com/rss/articles/CBMiugJBVV95cUxONWtVV2tZZWd2MmZLSjdCaEJBVGtZRUgyM1lveG9kRW83WDdJTU1GWFZ2TWdkemtZb0V3aktLNHNVWG5VUU1tVXVPQXdtR2ZxaG84UVhkQl9tdTNBdUZWWS1wMWRIRngzeVpRbVJVX2NNdkpVVzJTQmFaNHFnNkE4SmlyQkFwTWhOSHBONmU3alpDQnU5OWdnZWltQnNxSGRVNW1nUGdSSUVicjdtdkJaYWRBR2FuM3ZFRkh4MWhrVkNJZzdJOTdiMF8yc05YWU5tbEhhT3Bwekc3QUhHUWtPUHZmWXlXLVRMNWZUalY2eUhjd3Z4NDgwVWV5cTNPb3NHSVhfaEEyUFNfczZOOVJ6aHM4cUgyWlViNkhGSV9jQUh6Zi1qZ2RxQUJOWi1tamZtcm9uanZuMHVMUdIBugJBVV95cUxOSlFrdnhlNHBxQm1VbVRVa2ZWVDhzNmtyZ0xWaXljMTFtMlE4VEpoTS1MSW9WTkFDSmNvelNES2tEQ3B4T2VVZjZWbmVvYzRya3hyRjV1LUYyTVd5QVhOdVBReVFyS1lwdVJyZlFKTnIzSHFlMEdyMzlJVnE2NnhpYjA4Q29YSXFFZXJlZXdZN1JIUGNCQnp1SmJUZGE1VTE2ODVtT1RlWElMb3lHRjRIUHRsemdxbXFzbS1LZGM0Q21wU09uUXhqMmV4YWtFeFVfT0xQNVZUTW03YTl2MnMtNnhpQmNuVVJZdl8zRDVNV2xwTnRsUGMyQ3cycTBfWVZBZHI0SDB3V2oyX0xtRTdtWWpFTDhuQng2a2hOaWExUnNEQTExd2FUeGxwd3NzcFV3bXhDOUpQd2Q3dw?oc=5>
 
 ### 2026-10-14 19:55  (15 条)
 
