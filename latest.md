@@ -1,56 +1,100 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-14 00:48**
-- 本轮扫到 13809 条, 新增 **5** 条
+- 最近更新: **2026-10-14 05:42**
+- 本轮扫到 13818 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (9 条)
 
-### “特朗普给普京送去一份惊人的生日礼物”
+### 特朗普警告基辅不要袭击俄炼油厂，马斯克：泽连斯基做得太过分了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-10-14 05:16
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE9kWFBnLXRsMktPb1pzNHMtUzRmUmNqT2xRNWx0RWk3VWlfVGNwYndSWDIyVlctX3BBb20zQXY4WlJhQjhvZTBPN1BXSUlqajBoMjdXX2IxNFpuRVF4dzlGdlVaMHB2WlhHRlA3aF9scjM0UQ?oc=5>
+
+### 美国两党12名参议员联名致信特朗普，要求撤销美俄柴油“大交易”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-10-13 12:11
-- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTE04NzVZLUVvVnVPc1VodU1tM1MwdUpNalFyeXNnZFpYQjBqLW1UZnRJbEh6MTJBbzdlT08zR3RvM3lBNmdDTEF1WHNiM0FiSDF3bnc?oc=5>
+- 时间: 2026-10-14 03:58
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFB0YzBCMzlSRU04LU9QV0lWWXZKbUhWdTAxbmt0dk15aFNaeGJXeWM0VUg1UmphcUpsanlhR0o5djBKV1AxOHk2OHk0SXQ?oc=5>
 
-### 美国驻希腊大使吉尔福伊尔因丑闻辞职，特朗普回应：她不是我家人，只是与我儿子交往过
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-14 00:07
-- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4WlhxS0RSVW05Wkh6RFJ4TzlRd0pxdnVNRHhmblRBczR0TG16VFNKMWNzS2RzNG15QWxXSmhBX3lYWEF2ajd0akZXVlVaTTZmZmc?oc=5>
-
-### 以媒：内塔尼亚胡“想选举前袭击”、与特朗普讨论重启对伊战争可能性
+### 以媒：内塔尼亚胡与特朗普讨论重启对伊战争可能性
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-10-13 21:46
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tbFBSUThPbzc3NVcyeDdvZ01mYVBnWDNFejllNV9WN1k1MmlTWjg0VExYYW4wREFBS2NoMnpBRk5VVkdKUWt3a19WNmZmM3RMazBz?oc=5>
+- 场馆: 东方财富
+- 时间: 2026-10-13 04:00
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE15bWpaU0tWbHRXOGkzbFpTODRxSkNnaHprSXV0VW43QlY4bnlKMzg2Z1ROSGZnTnhGUWJyLW9PM05GejVON09Ta1RCXzhFaUk4M2xrdkFXWjVheWFBZHJycg?oc=5>
 
-### 特朗普：将很快就伊朗问题作出决定
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 每日经济新闻
-- 时间: 2026-10-13 16:02
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1EeHRva2pZTGYtQ1h3cnF3RmF5UnJkX3pUWld3UEQ3VGN6dzFoNkZPalZBMkZkVTRHVVVnYTFyMXdNNUNxWVVuX05TZllGZEtFMVlJZnJ4cWhBWkEzQmhtZV9rYkRSdw?oc=5>
-
-### 英前首相：美国主导的全球秩序已终结 特朗普只是“症状”
+### 沙特阿美总部遭袭！特朗普指责胡塞武装：中期选举前蓄意推高油价
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-10-13 10:00
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ONWNXR3lMbEFWSHhZbkZqSGMxb3A0Q2J1YVREdHpOVGxUUE1pSmxuc1paVXh1WWI5UjVkZVNVRjEwOEdFR25zdUp0dUR3VFZNWnVvR3RHV2xFUHhhaVI1Vy0zdERFUQ?oc=5>
+- 场馆: 财联社
+- 时间: 2026-10-12 04:09
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTFBCT2xQRkNCcjdTaUVCcjdhQ0tsQ3MwOTJKcDlUU3NSRjV5LWVpVGh4RGxfSnRzUVF0Yk9ZN0NWcmQ2cDRMbnE1Zg?oc=5>
+
+### 特朗普指责胡塞武装蓄意在美中期选举前推高油价
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-10-13 18:37
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1kQXZPRV9ZTk00ZEdEeW5kSW41U3lENjJGNmJlTjJucGd0ZzlmRWtKVldGSkdmdVlGYV9yb1dIaGZEMkdhRjMtcGlKaWJlT2w5eFRSaDNvSERCcWlrWEpBOGdrNmsyWXBQM3JCUlJrWGo3SkkzMkZWYWhhTjdMOVE?oc=5>
+
+### 美国国务院：特朗普政府反对中国“胁迫和攻击”行使主权权利的国家
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-10-13 12:24
+- 链接: <https://news.google.com/rss/articles/CBMiswNBVV95cUxQSzhpMWJaUTFGWUpUM3lLclZud09BNTlhdko2eVBjaXpSX3VNMFBwMDV0ODFvSHpNRUhlSnpTd1I2MFVQZGszSG5vLWk3MDh3SmU1UVJsMnZPVUxUbnljd29aeU9xZFhhWElnY2Zaa200VzRtMExEdHZxVC0ydWNMNE9KNkxsUE5FZXZablJGLV9ESHA3dWQwZEhRQ29BaWNPNElrOE15M3JTcXdBMUhwVC1jbG15eDRpRmxDQVB3bHdQZ3VZNlpsUG5lWFdWdXl4RVN6cEFOd3pPWkFoVEpmSDI5RS1INnJoS3BTR05FTXVBVHVjS1JiZjNGMEhzZ0tyejZ5WnZQUDNhdTlSNGlnWTRBdW5CSWR4cDVSUnZFVnJTaDJ3TzRNZXBBNmk1bjhDZVlmdXdHZDRTQ2E1dnV4LXhrTEVYam5teVVNRkZINENmcEpYV3lVbm54M2NDWHhiaWV5ZUVzYmJWTENuTGJtZDgxOFcwSG12OFJOVUIxQTJpZm1nd1hSYi1KZWM5cTd2YmVkVFV1MTF0a1pCVHA4S2o5cWVBdXlzd0ZsYk1hLU5ZYnc?oc=5>
+
+### 特朗普称不相信中俄在帮助伊朗 外交部回应提问
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-10-14 02:52
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5uaUNERjRzOC1oYTBvSFpLWkxOQS1CNjRDbkVaQjRTS3dqSFVBTC16WHFmbGhnWDlKbzF0bW1iQVBybmNiemtxU25Pd0o0QTRMSkh2SW1PN3dvanhaSnpzc0FnNGh6YmMtUmtXS0QtRkU?oc=5>
+
+### 美国总统Donald Trump表示，台湾同意从阿拉斯加管道购买30%的天然气。
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: www.tmgm.com
+- 时间: 2026-10-14 02:58
+- 链接: <https://news.google.com/rss/articles/CBMi6AFBVV95cUxOa1hmbVRfWTdDOHQyUVhwTWxCRUVIeDh5NEVQYjNrYzRodWl2TlNWWHNxNFRnSGpLbVRuclJCSVBsTDJDRzNpampFSzJfbE53d1p5QzNPTG1LdDdVQlhwNnpZQm1JSVA2RDB5ZW9QSWhVd0JHQUl2VXdScWt4VklvMGxHVEIzY1pKcU05bml5YmdLaGVvUHVjV0NYLWFMc0tGQTFKYjd3bnVyWm5QM3pRaXBTT1dFY0NVTUFnTlFRZExrNzR3UUtoaEhTTWgxX1o5czlNTjlfSGVqbzM0RmxkaTBieWQ4QTFj?oc=5>
+
+### 特朗普斥胡塞在中期选举前 借机推高能源价格
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 8world
+- 时间: 2026-10-14 03:48
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTFBDODE4YldpLWRzNmJ0MkFrbkdXck1KVzFVTFpMeVdNY253cnJRdzJtbUtuUlZYOERLUUFVYjVQdUxwTW9JQmVjcWVxTlhRQnhrdnVPR3A4S3g4QTBSVU5ySXlpcm9Fa1hoME9IVGF0Z1hqRHFFcFE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-14 05:42  (9 条)
+
+- **特朗普** | 特朗普警告基辅不要袭击俄炼油厂，马斯克：泽连斯基做得太过分了 <https://news.google.com/rss/articles/CBMickFVX3lxTE9kWFBnLXRsMktPb1pzNHMtUzRmUmNqT2xRNWx0RWk3VWlfVGNwYndSWDIyVlctX3BBb20zQXY4WlJhQjhvZTBPN1BXSUlqajBoMjdXX2IxNFpuRVF4dzlGdlVaMHB2WlhHRlA3aF9scjM0UQ?oc=5>
+- **特朗普** | 美国两党12名参议员联名致信特朗普，要求撤销美俄柴油“大交易” <https://news.google.com/rss/articles/CBMiTEFVX3lxTFB0YzBCMzlSRU04LU9QV0lWWXZKbUhWdTAxbmt0dk15aFNaeGJXeWM0VUg1UmphcUpsanlhR0o5djBKV1AxOHk2OHk0SXQ?oc=5>
+- **特朗普** | 以媒：内塔尼亚胡与特朗普讨论重启对伊战争可能性 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE15bWpaU0tWbHRXOGkzbFpTODRxSkNnaHprSXV0VW43QlY4bnlKMzg2Z1ROSGZnTnhGUWJyLW9PM05GejVON09Ta1RCXzhFaUk4M2xrdkFXWjVheWFBZHJycg?oc=5>
+- **特朗普** | 沙特阿美总部遭袭！特朗普指责胡塞武装：中期选举前蓄意推高油价 <https://news.google.com/rss/articles/CBMiSEFVX3lxTFBCT2xQRkNCcjdTaUVCcjdhQ0tsQ3MwOTJKcDlUU3NSRjV5LWVpVGh4RGxfSnRzUVF0Yk9ZN0NWcmQ2cDRMbnE1Zg?oc=5>
+- **特朗普** | 特朗普指责胡塞武装蓄意在美中期选举前推高油价 <https://news.google.com/rss/articles/CBMif0FVX3lxTE1kQXZPRV9ZTk00ZEdEeW5kSW41U3lENjJGNmJlTjJucGd0ZzlmRWtKVldGSkdmdVlGYV9yb1dIaGZEMkdhRjMtcGlKaWJlT2w5eFRSaDNvSERCcWlrWEpBOGdrNmsyWXBQM3JCUlJrWGo3SkkzMkZWYWhhTjdMOVE?oc=5>
+- **特朗普** | 美国国务院：特朗普政府反对中国“胁迫和攻击”行使主权权利的国家 <https://news.google.com/rss/articles/CBMiswNBVV95cUxQSzhpMWJaUTFGWUpUM3lLclZud09BNTlhdko2eVBjaXpSX3VNMFBwMDV0ODFvSHpNRUhlSnpTd1I2MFVQZGszSG5vLWk3MDh3SmU1UVJsMnZPVUxUbnljd29aeU9xZFhhWElnY2Zaa200VzRtMExEdHZxVC0ydWNMNE9KNkxsUE5FZXZablJGLV9ESHA3dWQwZEhRQ29BaWNPNElrOE15M3JTcXdBMUhwVC1jbG15eDRpRmxDQVB3bHdQZ3VZNlpsUG5lWFdWdXl4RVN6cEFOd3pPWkFoVEpmSDI5RS1INnJoS3BTR05FTXVBVHVjS1JiZjNGMEhzZ0tyejZ5WnZQUDNhdTlSNGlnWTRBdW5CSWR4cDVSUnZFVnJTaDJ3TzRNZXBBNmk1bjhDZVlmdXdHZDRTQ2E1dnV4LXhrTEVYam5teVVNRkZINENmcEpYV3lVbm54M2NDWHhiaWV5ZUVzYmJWTENuTGJtZDgxOFcwSG12OFJOVUIxQTJpZm1nd1hSYi1KZWM5cTd2YmVkVFV1MTF0a1pCVHA4S2o5cWVBdXlzd0ZsYk1hLU5ZYnc?oc=5>
+- **特朗普** | 特朗普称不相信中俄在帮助伊朗 外交部回应提问 <https://news.google.com/rss/articles/CBMicEFVX3lxTE5uaUNERjRzOC1oYTBvSFpLWkxOQS1CNjRDbkVaQjRTS3dqSFVBTC16WHFmbGhnWDlKbzF0bW1iQVBybmNiemtxU25Pd0o0QTRMSkh2SW1PN3dvanhaSnpzc0FnNGh6YmMtUmtXS0QtRkU?oc=5>
+- **Trump** | 美国总统Donald Trump表示，台湾同意从阿拉斯加管道购买30%的天然气。 <https://news.google.com/rss/articles/CBMi6AFBVV95cUxOa1hmbVRfWTdDOHQyUVhwTWxCRUVIeDh5NEVQYjNrYzRodWl2TlNWWHNxNFRnSGpLbVRuclJCSVBsTDJDRzNpampFSzJfbE53d1p5QzNPTG1LdDdVQlhwNnpZQm1JSVA2RDB5ZW9QSWhVd0JHQUl2VXdScWt4VklvMGxHVEIzY1pKcU05bml5YmdLaGVvUHVjV0NYLWFMc0tGQTFKYjd3bnVyWm5QM3pRaXBTT1dFY0NVTUFnTlFRZExrNzR3UUtoaEhTTWgxX1o5czlNTjlfSGVqbzM0RmxkaTBieWQ4QTFj?oc=5>
+- **Trump** | 特朗普斥胡塞在中期选举前 借机推高能源价格 <https://news.google.com/rss/articles/CBMidkFVX3lxTFBDODE4YldpLWRzNmJ0MkFrbkdXck1KVzFVTFpMeVdNY253cnJRdzJtbUtuUlZYOERLUUFVYjVQdUxwTW9JQmVjcWVxTlhRQnhrdnVPR3A4S3g4QTBSVU5ySXlpcm9Fa1hoME9IVGF0Z1hqRHFFcFE?oc=5>
 
 ### 2026-10-14 00:48  (5 条)
 
