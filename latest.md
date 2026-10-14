@@ -1,110 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-13 21:41**
-- 本轮扫到 13804 条, 新增 **12** 条
+- 最近更新: **2026-10-14 00:48**
+- 本轮扫到 13809 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (12 条)
+## 本轮新发现 (5 条)
 
-### 肖战演唱会官宣嘉宾名单为何未见王一博？
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923101_1d5ae159d06801prdk.html>
-
-### 俄乌双方均未确认停火，特朗普：因为我说他们同意了
+### “特朗普给普京送去一份惊人的生日礼物”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻
-- 时间: 2026-10-13 01:48
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE03T0c3WXJMMFFZQ0tCd2ZkTzJmcHlZWDBLaEp6YmFvX09CWF80YUFPbW5GQWhMNXM0RVJZV2xSVTd0Tlo4T0lEcWt1SVZJNnlMb0R3cFNrZGNGcTl3VWN6X3dCaXRPaHJ4eWhnWFFBQXliQQ?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-10-13 12:11
+- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTE04NzVZLUVvVnVPc1VodU1tM1MwdUpNalFyeXNnZFpYQjBqLW1UZnRJbEh6MTJBbzdlT08zR3RvM3lBNmdDTEF1WHNiM0FiSDF3bnc?oc=5>
 
-### 特朗普：美国并未切断与乌克兰的情报共享
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-10-13 18:45
-- 链接: <https://news.google.com/rss/articles/CBMitAFBVV95cUxOM0UtN0lKVmZzQ2pYaGwtbXJ0TTJCYXJaQnh1cWlsYWdBMzhwRGEwQ25QUURUVUhNeTFjNElTVnJ0VzhMcmlubjdFRDM4ZTZxcF9UdWlhRVBQLXlZdnk0Ty1fS2FURTZmdEZkNXJySmJQczEzTkNqR3NtTDkybGQ1MGVNWXZ0V3N5Sml0clllQUJwRjBDcXRINUNtYldRWUpWeDJfT3NLXzFJNzhram9OTHAxTGvSAbcBQVVfeXFMTkdGdmg3cGFtRnZwbDhuZkJjLVVncUlMSDE0eFVkaFRad0JHazN5cEptVjRsN2loM08zTGd1SjlmdlNhNXVkQTVldmJFTlgtRGhQS3ZhclMtVXBBR2loeW9rRjZPWVkxNlRVaGNoNUU3WkVUTmxNVnhLWnFicEI5UmZORjUxNTdHQjluNXF6R2RVSE1BbVFpbU9JVW42S3VPZ09tMlk2dWQtMDFmM1lUTGNQTy1YbFRB?oc=5>
-
-### 特朗普总统批评胡塞袭击沙特，称胡塞武装可能受伊朗指使而再现
+### 美国驻希腊大使吉尔福伊尔因丑闻辞职，特朗普回应：她不是我家人，只是与我儿子交往过
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-10-13 21:01
-- 链接: <https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZXdJN0d0RnBSOW1hcVJ4ZWxGLS1mSmgxTlZtMi1CT1gxTUhEOW1LMFVVeXlOOG45LXN1cmFUcmZuS0hvNk1PdXdvOW15V1M4QjJlREVJYnU5V1BxbDlMTGMzMEotQkpOTWZzU2pGOVZWczZVM3lpRVkxVEp0cmxfS3E1QTgyRW10emh0VmtjNTJrLVU3M3hfaUpmTzQ0UWpRR21ISV9ZcXNpR1llbTBoZ0pfdWlGaWJMemJfdms2SEozeW1QYkNhekV1ZENBR29iRFVxTUZvbGdjRC1SXzM0YlhEWEtYU0FNUDZKUdIB7wFBVV95cUxOdFVCVzl0Vy1wSV9rTkI4MmpyR245Q3NwSVhlOVc4ZlR0ZUpvd1psMEh4SmY5MDlPNXBDS3VtbTEyZzI1aVRnQjhaQkw0RlNXTTB5ZUlFa2g4eWhxQ0ZJX0hRZDZFaXNwZndFUHRpLXk3TFRYMXlNOVJGZmduYnVVRVJaVWFBbXhQay1FQ0hsS1BVS0YzYW9CQzNKclQ1MVJ2cFdjSmpZLTZhcWNkRnNUVWRjTmF2eWpTS3QyMmhTdk9aTmJNQ2RrSFlCZHVKZjROQkQtU3VUckV2RmIzTVZxbUM2RHF0RllKYjJsNlB2cw?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-10-14 00:07
+- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4WlhxS0RSVW05Wkh6RFJ4TzlRd0pxdnVNRHhmblRBczR0TG16VFNKMWNzS2RzNG15QWxXSmhBX3lYWEF2ajd0akZXVlVaTTZmZmc?oc=5>
 
-### 特朗普指责胡塞武装在美国中期选举前蓄意推高油价
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-10-13 21:18
-- 链接: <https://news.google.com/rss/articles/CBMi8wJBVV95cUxNOVZpOXFKZlcteTlRNUtKblNfbm9Fdy1DZnEzRGs5T1I5akxqVGNOYjJpVzRybXhTSjg3UVkxRFllZ0wxbW13dHAtUVoxVkhkM2gxeFNzbUk5clg1bWRjTUVKZVNRQW45ZVFPeHl4OHk3R0tiREJXQ2lic05sd3ExajFDN3RIWHlSZzRYMDc2LW5zbjNvSV9SUG14OW4ydjBVblhvUW5sdEpZRHJzUVBMYkVHYk8xcEhBb2FNaklfdmJaQmgxSnFVSUREdjZGNFRYWFpmZGVyX2s1X2NvRmN1ZzcyMXJKNDRNdUU2a0Q3dTJUZnlpLXJkRkVoai1NaTd0eVU2OU8xQTRpeHlNVi0wQ0RwZWlIYVp0amhheWVLWW9WY2RKTUdHWnpjaEhSRm41aDBrQlAyejdYMzhkOFJjZXBaZF8yZzVvOGRFM0ZtSGZBcGktRHVaMndPa2FNMWtsTjI3WUtsOU9zaGxuaEJ5bi0zdw?oc=5>
-
-### 特朗普称将很快决定伊朗问题，批胡塞武装“行为恶劣”，或请土耳其助沙特；中国回应中俄援伊说法
+### 以媒：内塔尼亚胡“想选举前袭击”、与特朗普讨论重启对伊战争可能性
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 华尔街见闻
-- 时间: 2026-10-13 18:52
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE1GbmVSUUFRUzZqNnh1N0J4b1ZILUNmTncyazBtZzREY09PZ3JzUV9nLVd6eHJsQ3g5SmZPOVd2LUNHQ29DeHo3eFFBeUhkUjVCTE5N?oc=5>
-
-### 从马尼拉到深圳：特朗普总统11月亚洲行预览
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-10-13 20:23
-- 链接: <https://news.google.com/rss/articles/CBMiogFBVV95cUxQeXV6djUyWTZjWW4tQ3ZMd2NpejhUNDNCdENwQnE3TTFZOHVtOXF0Y19Uc3NNUk1QeEIyc1hyOW1GcjAwOVFZeW9wRXJjMEZJX1MyNi1ZOFJweFVoR0xxTjRKelNvdmh2U3NsOEkzRndxRW5kNmlpLU1Fa29yRk1VUVZaajVXcm5GdW16T1JOdGYyTHpWNXNBWGVCbC1DYVFGMlHSAaQBQVVfeXFMTmx4MTF5YU85c3cxMEhzZUctMWsyN3YwM1NmMWItNzBDODdORzN4aHZWeVhSQnVoQ21FVHJCWlItQ2lCa29oc215RnZFbTVQa2JIVVlhS3kzNTNSdDBfZ3JCelk5Sy1UdnZJakkxMUFXVTdfSDZiNkV1c2R0Z1FZSmRsb3BBdEhuY1Voek9kdlNUZU5JWXFnT19ENjRpTXF0aWtBamw?oc=5>
-
-### 特朗普将于10月19日在堪萨斯州进行竞选活动。
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-10-13 16:42
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFA4Qjh5bGEzWnBfNC1jcE05WkdGdG95YUJEVHNTY2pUWC1PNlozTEhRNjE4MXA5aWJCSjY3Z0t2SGloVDJaYXMwTUlNOA?oc=5>
+- 时间: 2026-10-13 21:46
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tbFBSUThPbzc3NVcyeDdvZ01mYVBnWDNFejllNV9WN1k1MmlTWjg0VExYYW4wREFBS2NoMnpBRk5VVkdKUWt3a19WNmZmM3RMazBz?oc=5>
 
 ### 特朗普：将很快就伊朗问题作出决定
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 搜狐
-- 时间: 2026-10-13 18:48
-- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQmJXZnFGQV9VVGlpM0M0OHd6TWstSjJDRTlKckhHcklqMnp6eEZ5LTk2Qi1yeWtzWHFXOXRrTVZIaTRYSl9LZzI1YlZfMm9HQnJLQU9pT0hNbi1SV1B5dC1ZZkR0OTlqTWs4Qmx3NDY3M1RidWxwRHFnb0piUVVOQURORHl1NC04?oc=5>
+- 场馆: 每日经济新闻
+- 时间: 2026-10-13 16:02
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1EeHRva2pZTGYtQ1h3cnF3RmF5UnJkX3pUWld3UEQ3VGN6dzFoNkZPalZBMkZkVTRHVVVnYTFyMXdNNUNxWVVuX05TZllGZEtFMVlJZnJ4cWhBWkEzQmhtZV9rYkRSdw?oc=5>
 
-### 特朗普总统：不认为中俄帮助伊朗，否则将付出高昂代价
+### 英前首相：美国主导的全球秩序已终结 特朗普只是“症状”
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-10-13 18:12
-- 链接: <https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWkE1ZVZqdXdNTzBYX0NDb3l6QnZhNUNtaDd4d0M5MjlwZ3pLLV9ycm1KVDN6TWFOd05hdTlhLXozWW9YMzFIYjRCTGt6aXZGNWVMMndVNUdndzg1bXdxMnlsUXJKdTNOWlhna2RuNlpDcUt3aC11Ql84WFJEOUNXN3daaFZ6QVBMaEs4ZE9aYS1sUFhkc0ZMT3g2Skh3RDNZYndQaEdtZGzSAasBQVVfeXFMT182X1hWTFdWOGtVMWJCZUU5R0N0aWh5QldPdjhTQlJCMkx5QlczbnlGSW81MElqYnRTLTl1TWJxTzZNemkzWGI2cmZKeHQwWEh5d3NORWZNcHVDei1wd002TGp4bDJ6MTlkUDBpNHFFd3JoakMyUEtmdTBTQnFnMDNNTWpRQXM4eFpBcEo2UlBFQ0RFTE1qSk5lNzlfbkQ3SDkzSktYZWhoSmNz?oc=5>
-
-### 特朗普暗示可能要求土耳其加入打击也门胡塞武装的战斗
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Al-Monitor
-- 时间: 2026-10-13 18:30
-- 链接: <https://news.google.com/rss/articles/CBMivAFBVV95cUxPUkFzYm1VcWxWc3gwd1VIajVVSkRJbmp5SXlQX1p2OGVabDhpRHp1Z2poN2pic0ZkTkUzX2RhbVRRNndhODJnWnE4N29fSHVVT0FzUUtnOUxPbEpTdTM5bzZOYUluSm5iTFBVMHo4Qzk1U0lCeE93SnBfS01JU1J0Yk1MRFo3TFZPTGFLT0ExakxrS044VUcweVFLVDFJX2xnZ2hFUk96aTI3TmVlMzNHX2EwY0N6cWtOTzRCbQ?oc=5>
-
-### 中英文对照全文- 2026年8月20日外交部发言人林剑主持例行记者会
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 热词译
-- 时间: 2026-10-13 12:57
-- 链接: <https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OS21NaHUtWHZxLUxhTVZkTkFUX3c1UjFPMWtuUFhmN3lzbUlkR3d4UjYwR3huRnZRQ1RRN241eHFzek1KcWQwcUhtQ0xONGJscTlXYkVn?oc=5>
+- 场馆: 联合早报
+- 时间: 2026-10-13 10:00
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ONWNXR3lMbEFWSHhZbkZqSGMxb3A0Q2J1YVREdHpOVGxUUE1pSmxuc1paVXh1WWI5UjVkZVNVRjEwOEdFR25zdUp0dUR3VFZNWnVvR3RHV2xFUHhhaVI1Vy0zdERFUQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-14 00:48  (5 条)
+
+- **特朗普** | “特朗普给普京送去一份惊人的生日礼物” <https://news.google.com/rss/articles/CBMiUkFVX3lxTE04NzVZLUVvVnVPc1VodU1tM1MwdUpNalFyeXNnZFpYQjBqLW1UZnRJbEh6MTJBbzdlT08zR3RvM3lBNmdDTEF1WHNiM0FiSDF3bnc?oc=5>
+- **特朗普** | 美国驻希腊大使吉尔福伊尔因丑闻辞职，特朗普回应：她不是我家人，只是与我儿子交往过 <https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4WlhxS0RSVW05Wkh6RFJ4TzlRd0pxdnVNRHhmblRBczR0TG16VFNKMWNzS2RzNG15QWxXSmhBX3lYWEF2ajd0akZXVlVaTTZmZmc?oc=5>
+- **特朗普** | 以媒：内塔尼亚胡“想选举前袭击”、与特朗普讨论重启对伊战争可能性 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tbFBSUThPbzc3NVcyeDdvZ01mYVBnWDNFejllNV9WN1k1MmlTWjg0VExYYW4wREFBS2NoMnpBRk5VVkdKUWt3a19WNmZmM3RMazBz?oc=5>
+- **特朗普** | 特朗普：将很快就伊朗问题作出决定 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1EeHRva2pZTGYtQ1h3cnF3RmF5UnJkX3pUWld3UEQ3VGN6dzFoNkZPalZBMkZkVTRHVVVnYTFyMXdNNUNxWVVuX05TZllGZEtFMVlJZnJ4cWhBWkEzQmhtZV9rYkRSdw?oc=5>
+- **特朗普** | 英前首相：美国主导的全球秩序已终结 特朗普只是“症状” <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ONWNXR3lMbEFWSHhZbkZqSGMxb3A0Q2J1YVREdHpOVGxUUE1pSmxuc1paVXh1WWI5UjVkZVNVRjEwOEdFR25zdUp0dUR3VFZNWnVvR3RHV2xFUHhhaVI1Vy0zdERFUQ?oc=5>
 
 ### 2026-10-13 21:41  (12 条)
 
