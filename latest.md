@@ -1,84 +1,131 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-15 06:06**
-- 本轮扫到 13879 条, 新增 **9** 条
+- 最近更新: **2026-10-15 11:51**
+- 本轮扫到 13893 条, 新增 **14** 条
 
 ---
 
-## 本轮新发现 (9 条)
+## 本轮新发现 (14 条)
 
-### 周杰伦墨尔本街头弹钢琴，新歌预热演唱会？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd86406801783c.html>
-
-### 大麦想看人数排名靠前的演唱会项目有什么共同特点？
+### 周杰伦广州演唱会580元“仅支持看大屏”，大麦网：介意勿买
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd8640680177tq.html>
+- 链接: <https://k.sina.com.cn/article_5328858693_13d9fee4502002k7jo.html>
 
-### “AI教父”怒批特朗普：他对AI“几乎一无所知”！此前特朗普宣布用“SI”替代“AI”
+### 肖战演唱会想看人数榜单中，华语歌手票价水平如何？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd86406801786a.html>
+
+### 肖战南京演唱会想看人数破内地纪录，超99%同期演出
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068017868.html>
+
+### 周杰伦街头弹钢琴片段曝光，墨尔本演唱会预热有何看点？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068017838.html>
+
+### 肖战巡演南京站想看人数突破500万，仅次周杰伦林俊杰
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_3285889392_c3dab17004001bnbi.html>
+
+### 肖战首次个人巡演南京站想看人数突破500万
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_3876174997_e709bc9504001wt7a.html>
+
+### 大麦演唱会累计想看Top10 TFBOYS十年之约西安站居首
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1835415447_6d66379704001hs3c.html>
+
+### 特朗普亲信大使被撤，十万美元账单惹争议
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-10-15 05:35
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9uUW55cHR6R2VWcFZyQklPT0l6YmdtZDVEaVg3eW90TGlzT01xdnI5MTFRZjJ1Z2p5QThsbzVNZ1RVY1pIZzVfZGgzb0lRWlJjSExHWC1JcXJlZHlqZGtqSnRNM3dxOHJ6RHJPQjVaT0pPZzB0RXJ2eHZtM1dVbUU?oc=5>
+- 场馆: 风闻
+- 时间: 2026-10-15 03:05
+- 链接: <https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tT1NFbF9zY1RHbzZONmVldE1KOERtdjZ0WXN6UGhZeHQ3YUI3TV9DbTkzSWpieGU2MmFiMWhrTFNDYXpIdTNxamo4TjM5T2toLUswSm00U0xtWG8?oc=5>
 
-### 特朗普竞选集会一顿自夸式输出 标榜政绩称进入“黄金时代”
+### 特朗普言论再次刺激加拿大 两国贸易谈判短期重启无望
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-10-15 11:14
+- 链接: <https://news.google.com/rss/articles/CBMigANBVV95cUxQN0RaU1MwUGl6TFZlazFSdmE0dVA4YU1MOEc4LUdfQ1ZoRzI0dmRkQTh6UFhLc2lSVXNnTkRUU2RJakJ1VG5JZ0N6Nk41aGFEQXdtZnJURDE4Qy1HeWhTUVcyRm5WVGdZY0Q0MnNGMTU5OGV0b2JibEJYLW1LRnFmOU1qRHNRLUZIaGlqNjhEMlM3NVN3cklZaFVMX1NRd2YzX2U2RmgtSWxPVjk4aWc2ekE2alBGNW1kTVhZTWdCYi1QNVQzR1FLWl9TYS0yYjhtOFlCU3Bza00xZWhxV191MlJGX0duclpyUWZObHlNRVJ6enpDMmJKLTF3eVRnaVQ2QTRicVRzcnM4V21uaGl0dnFGQTJRc3VJdTJQbE5Nc240WkZWemNhX1J3c0ZrWVZNa09tNmVOU2o4Zjk1cFAxNzJuNTU4V0ZXZ081eE91UU52d2JzTUtzQUhjWk5jMmItQl96ZEVoZHNrZmppMXVyV1pUdUtwd1RZeG1zOGpzN1U?oc=5>
+
+### 承认自己“过火”，特朗普承诺不再斩首伊朗领导人
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-10-15 03:58
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9VcS1HQzE3UFVUenMzeUdOaTVUOXpoYnRkWmxQekFDYVYydHZETGhIdFpyelV0WjZhbEh4ZGtQTkJzdEVOcFU1WW9lNW4?oc=5>
+
+### 以媒：内塔尼亚胡与特朗普讨论重启对伊战争可能性
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 东方财富
+- 时间: 2026-10-14 19:32
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBhWXdUQ3Vjdkoxdk43dHh0R1dLTEd5ZXdMUXhGYlMxQkpKSlJnODFHcUgtX0g0ZlJIbTJPNS1iUldfM25LSXR6eWN5eXhFSWpfUWs3V1I0MlBYUDg1akFXaHJlWUFWQQ?oc=5>
+
+### 特朗普下令：严查赴美生子！签证审查升级
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 中华网
-- 时间: 2026-10-15 05:25
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBIdmVRN09FVWtESkwwZ1NvUXhzTHRXS3FLbXZTU2ZFcGNJNndmbXpGck9ENzQzLVE0S2ctRmIwNUYyNXRCTWQ5b2xseUIyN3dTV29YNzZoN1Z1YS1KbW05a2dVbW1rQUtQQmdoQVA3MXc?oc=5>
+- 时间: 2026-10-15 06:46
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1WTkNLOXE3aFdEX0VqM2dKVVZuMDNtb21IeWZDZ3Bod3V5UHVsLWhjU3NlcFZPSHBpSE9EbFhYMWo4Y2d4ekJoUExWTnVaT2hCRHd0Wi1ZWUtSbS1PRHJGQ0NZS010Y3BoeXAtdHB3c2Q?oc=5>
 
-### 泽连斯基：我感到被特朗普“背叛”，调停方应保持中立
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: ThePaper.cn
-- 时间: 2026-10-15 03:40
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBOcDdOUDZBMFRaYWxRUGtfcWdZd3poQm4tS3g2MXE0NlRNTmRnRXZGcm84cnFBdXM0bG5RNmZxZVZXWXhhTXBFdnlhaGZvbEYyeHNFYmg0MU5nUG1MZDl4bw?oc=5>
-
-### 特朗普的蓝领票仓正在松动？俄亥俄工人抱怨：我们投票可不是为了这个
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-15 02:52
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBIN25FaENnWVhWcE5rY3B3MEUtZXRmaE95QWFlX0Y5SDIydXRuc2N0THZLQ2dNZWp3eVg4cXRTUVZiYWVtenFrTDBMclU?oc=5>
-
-### 狂砸3.66亿美金！马斯克真的是为了特朗普吗？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-10-15 05:52
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE1jT0NSd1lvOWt2cjZlSEh1YVZBV2U2WFNwSXgxZm1Ta2Y2N3VMWEFodUxGZnFzNEhhZnBaU0gzaW8zOEN1azBYMGlkTk5CRkwydzBBelJNMHJMd010aTJ4OWZpa09tRTRablViejZxVUx0UQ?oc=5>
-
-### 到底发生了什么，导致特朗普对乌克兰“破防”？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-15 03:56
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9qTVgtTzBJbFRhUy00VmNiZWlqR1NqbmpiOVEyVkhSSWxCWnBjMnJ0d1lpQW5HSzE0OWM3R3JuWVF1UmtnQl85NXdRVE8?oc=5>
-
-### Trump stated that Greenland will commence "large-scale" exploration for oil, natural gas, and minerals.
+### 他为特朗普操刀加密货币法案，名下公司却从加密巨头狂捞数百万美元
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 富途牛牛
-- 时间: 2026-10-14 08:43
-- 链接: <https://news.google.com/rss/articles/CBMisgFBVV95cUxQQlpoVTBwbmE1d0l3Sm9yNjIyVjlnQ29jcUNMcGxXekJULVBhSGJLYk1ydklMY2VCU2ZTeGVNbm1zZ3J6LWhLWHRVUFhKdjNOYnlnaWU0RW40dW5zdDVTX1Z1c3Q0NkRWMnRCV1M4QWp6UHFPZ3pLY0ZvUEg3Q0o2SklBN2FUbjQzV294WWR3RFV6Zm90Wmp5bVVNMkpJMUtrSFQ5SmRhdVQxTkVZcHFjNnh3?oc=5>
+- 场馆: 华尔街日报中文网
+- 时间: 2026-10-15 07:12
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBETWFWUFh6NGtSU2xMNUZmaGZ3ZHdWRU1qcXhRSGtHZ3R4Z3l5UlJNek1MT2tEUzZsVVBEbU03eU9OQ2I4SEFXR1FUQUo3T09CUjRHWUlSNVIzQWZrek9DcHY3OUZwYmZOVHF3bUU2LTNFcFVGQ0JyTQ?oc=5>
+
+### 男子闯虎区遭袭身亡 特朗普发AI斗虎视频惹议
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 8world
+- 时间: 2026-10-15 11:27
+- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTE15Y2ZTOGxTdXpycDg3NGt5Sy1iMTJ3dGpNWWhkcWRrTE1mYVh3Nk9hUjBHM3NMQzBVbFRzdWI1cHM3Qm92cU4wYlhCMmY4OE5VM29WYW1SRXI5M1pYY3MtUlZQTFREbUNNRHVaM29B?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-15 11:51  (14 条)
+
+- **周杰伦** | 周杰伦广州演唱会580元“仅支持看大屏”，大麦网：介意勿买 <https://k.sina.com.cn/article_5328858693_13d9fee4502002k7jo.html>
+- **周杰伦** | 肖战演唱会想看人数榜单中，华语歌手票价水平如何？ <https://k.sina.com.cn/article_7879776356_1d5abd86406801786a.html>
+- **周杰伦** | 肖战南京演唱会想看人数破内地纪录，超99%同期演出 <https://k.sina.com.cn/article_7879776356_1d5abd864068017868.html>
+- **周杰伦** | 周杰伦街头弹钢琴片段曝光，墨尔本演唱会预热有何看点？ <https://k.sina.com.cn/article_7879776356_1d5abd864068017838.html>
+- **周杰伦** | 肖战巡演南京站想看人数突破500万，仅次周杰伦林俊杰 <https://k.sina.com.cn/article_3285889392_c3dab17004001bnbi.html>
+- **周杰伦** | 肖战首次个人巡演南京站想看人数突破500万 <https://k.sina.com.cn/article_3876174997_e709bc9504001wt7a.html>
+- **周杰伦** | 大麦演唱会累计想看Top10 TFBOYS十年之约西安站居首 <https://k.sina.com.cn/article_1835415447_6d66379704001hs3c.html>
+- **特朗普** | 特朗普亲信大使被撤，十万美元账单惹争议 <https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tT1NFbF9zY1RHbzZONmVldE1KOERtdjZ0WXN6UGhZeHQ3YUI3TV9DbTkzSWpieGU2MmFiMWhrTFNDYXpIdTNxamo4TjM5T2toLUswSm00U0xtWG8?oc=5>
+- **特朗普** | 特朗普言论再次刺激加拿大 两国贸易谈判短期重启无望 <https://news.google.com/rss/articles/CBMigANBVV95cUxQN0RaU1MwUGl6TFZlazFSdmE0dVA4YU1MOEc4LUdfQ1ZoRzI0dmRkQTh6UFhLc2lSVXNnTkRUU2RJakJ1VG5JZ0N6Nk41aGFEQXdtZnJURDE4Qy1HeWhTUVcyRm5WVGdZY0Q0MnNGMTU5OGV0b2JibEJYLW1LRnFmOU1qRHNRLUZIaGlqNjhEMlM3NVN3cklZaFVMX1NRd2YzX2U2RmgtSWxPVjk4aWc2ekE2alBGNW1kTVhZTWdCYi1QNVQzR1FLWl9TYS0yYjhtOFlCU3Bza00xZWhxV191MlJGX0duclpyUWZObHlNRVJ6enpDMmJKLTF3eVRnaVQ2QTRicVRzcnM4V21uaGl0dnFGQTJRc3VJdTJQbE5Nc240WkZWemNhX1J3c0ZrWVZNa09tNmVOU2o4Zjk1cFAxNzJuNTU4V0ZXZ081eE91UU52d2JzTUtzQUhjWk5jMmItQl96ZEVoZHNrZmppMXVyV1pUdUtwd1RZeG1zOGpzN1U?oc=5>
+- **特朗普** | 承认自己“过火”，特朗普承诺不再斩首伊朗领导人 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9VcS1HQzE3UFVUenMzeUdOaTVUOXpoYnRkWmxQekFDYVYydHZETGhIdFpyelV0WjZhbEh4ZGtQTkJzdEVOcFU1WW9lNW4?oc=5>
+- **特朗普** | 以媒：内塔尼亚胡与特朗普讨论重启对伊战争可能性 <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBhWXdUQ3Vjdkoxdk43dHh0R1dLTEd5ZXdMUXhGYlMxQkpKSlJnODFHcUgtX0g0ZlJIbTJPNS1iUldfM25LSXR6eWN5eXhFSWpfUWs3V1I0MlBYUDg1akFXaHJlWUFWQQ?oc=5>
+- **特朗普** | 特朗普下令：严查赴美生子！签证审查升级 <https://news.google.com/rss/articles/CBMicEFVX3lxTE1WTkNLOXE3aFdEX0VqM2dKVVZuMDNtb21IeWZDZ3Bod3V5UHVsLWhjU3NlcFZPSHBpSE9EbFhYMWo4Y2d4ekJoUExWTnVaT2hCRHd0Wi1ZWUtSbS1PRHJGQ0NZS010Y3BoeXAtdHB3c2Q?oc=5>
+- **Trump** | 他为特朗普操刀加密货币法案，名下公司却从加密巨头狂捞数百万美元 <https://news.google.com/rss/articles/CBMieEFVX3lxTFBETWFWUFh6NGtSU2xMNUZmaGZ3ZHdWRU1qcXhRSGtHZ3R4Z3l5UlJNek1MT2tEUzZsVVBEbU03eU9OQ2I4SEFXR1FUQUo3T09CUjRHWUlSNVIzQWZrek9DcHY3OUZwYmZOVHF3bUU2LTNFcFVGQ0JyTQ?oc=5>
+- **Trump** | 男子闯虎区遭袭身亡 特朗普发AI斗虎视频惹议 <https://news.google.com/rss/articles/CBMibkFVX3lxTE15Y2ZTOGxTdXpycDg3NGt5Sy1iMTJ3dGpNWWhkcWRrTE1mYVh3Nk9hUjBHM3NMQzBVbFRzdWI1cHM3Qm92cU4wYlhCMmY4OE5VM29WYW1SRXI5M1pYY3MtUlZQTFREbUNNRHVaM29B?oc=5>
 
 ### 2026-10-15 06:06  (9 条)
 
