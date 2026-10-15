@@ -1,110 +1,96 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-15 01:10**
-- 本轮扫到 13870 条, 新增 **13** 条
+- 最近更新: **2026-10-15 06:06**
+- 本轮扫到 13879 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (13 条)
+## 本轮新发现 (9 条)
 
-### 战战官宣个人巡回演唱会首站南京
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002sy5q.html>
-
-### 周杰伦墨尔本演唱会是“嘉年华”巡演的哪一站？
+### 周杰伦墨尔本街头弹钢琴，新歌预热演唱会？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd8640680177cq.html>
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd86406801783c.html>
 
-### 周杰伦墨尔本街头即兴弹奏，为周六演唱会预热
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd8640680177c0.html>
-
-### 观众弃周杰伦演唱会赴京看曹云金演出
+### 大麦想看人数排名靠前的演唱会项目有什么共同特点？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923551_m1d5ae175f03301slny.html>
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd8640680177tq.html>
 
-### 昆凌随周杰伦演唱会拍非遗
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923704_m1d5ae17f803301zu1k.html>
-
-### 美国中期选举2026：胜负如何决定？
+### “AI教父”怒批特朗普：他对AI“几乎一无所知”！此前特朗普宣布用“SI”替代“AI”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-10-15 00:30
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QWHpMamdBVjFuaXV2MGx6aUxrVWwxV2g0UUh2UFdUbzYwUDljSU5JN1R2R2F0dlVMb0pyLWptNTRVb25VTUdBeUEyTXZhVzlyY2NFQWFiLTAtbFg0T2ZQTHVrdzVqOFHSAWxBVV95cUxPb3lVWkNqUVpzWFZjUFo0bjNKMFI4Yi1INnhaVXctaFRSQWFDbGpfcnlZWnNsbUh4dmhJa2JPNzVkZlBNN0hjcDhDMnp4eEJ5SVFwZ2lmMVNCNjMweWNTWGkyVnN0Z2ZGVjdub18?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-10-15 05:35
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9uUW55cHR6R2VWcFZyQklPT0l6YmdtZDVEaVg3eW90TGlzT01xdnI5MTFRZjJ1Z2p5QThsbzVNZ1RVY1pIZzVfZGgzb0lRWlJjSExHWC1JcXJlZHlqZGtqSnRNM3dxOHJ6RHJPQjVaT0pPZzB0RXJ2eHZtM1dVbUU?oc=5>
 
-### 哈里斯现身韩国，批评特朗普削减韩美军演
+### 特朗普竞选集会一顿自夸式输出 标榜政绩称进入“黄金时代”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-10-15 05:25
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBIdmVRN09FVWtESkwwZ1NvUXhzTHRXS3FLbXZTU2ZFcGNJNndmbXpGck9ENzQzLVE0S2ctRmIwNUYyNXRCTWQ5b2xseUIyN3dTV29YNzZoN1Z1YS1KbW05a2dVbW1rQUtQQmdoQVA3MXc?oc=5>
+
+### 泽连斯基：我感到被特朗普“背叛”，调停方应保持中立
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: ThePaper.cn
+- 时间: 2026-10-15 03:40
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBOcDdOUDZBMFRaYWxRUGtfcWdZd3poQm4tS3g2MXE0NlRNTmRnRXZGcm84cnFBdXM0bG5RNmZxZVZXWXhhTXBFdnlhaGZvbEYyeHNFYmg0MU5nUG1MZDl4bw?oc=5>
+
+### 特朗普的蓝领票仓正在松动？俄亥俄工人抱怨：我们投票可不是为了这个
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-10-14 23:58
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9JdzNqVTRuRVlLT1VmY0diSGoyNlVOU0xxcEYtNUh3b1dtVzJoLUR4czZOMkQybktWMEdMMkxaQndPeUk5aHVvR0FvVkQ?oc=5>
+- 时间: 2026-10-15 02:52
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBIN25FaENnWVhWcE5rY3B3MEUtZXRmaE95QWFlX0Y5SDIydXRuc2N0THZLQ2dNZWp3eVg4cXRTUVZiYWVtenFrTDBMclU?oc=5>
 
-### 特朗普不是在演戏，他真觉得自己没得奖是世界对不起他
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-10-15 00:49
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBsd3dORi1xYTMxdzVqLWxZN0lQSEVfd29yemlnVDNXS2VzZGtsOXVjTGlheXRHSVJnSExoblZJNEFoWjR2OS10aFdrb3hqcmY0NGl4bEF0TEoxTW15NUdPZlhnU2Q2S0U?oc=5>
-
-### 中港澳人员赴美交流暂停，参与者或面临中国当局干预胁迫
+### 狂砸3.66亿美金！马斯克真的是为了特朗普吗？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-10-14 17:18
-- 链接: <https://news.google.com/rss/articles/CBMivgFBVV95cUxNbTEtQTBWdUdWU1dSS00wUWtFY3NORW1teHNpcWp5QlBzV2hNOEpjQzM1WVdwY1gxWkR5ZHppamdRUWN3SXJEQ09xUlpDelZ1VnY4bzBnV3hVLW8wMHY0MDZmUUhLYmxuYXBiUEZRemZwMUFrQnZnZ09aYndxMVM4dnJpUTkxYksxbDdaNl9oa09PMXF4RlVab0hWYkF0X3JpbGxtNHNiN3pwdmJtM0dvemxKc3RjWVBRUlhzdnBB0gHAAUFVX3lxTE9MYW1xbk5WRklyU0o5ZEJBYzRQdHN6cURjUml3Y2Z2ZUNfcUl1eGVGVFlEeWxPWUJySzlqeVJvaUw1eXFianl4MFhmU3JwUVJHM0hnc2JOMXVuYzV0N2M3N2Y4dmE5Wk0xRUhUajBLVDhpMmZuWDdPYWY3NC1xVG9vS3pDTmNWMERCcjRYVzRyWGx1YVhUdG9iSHBWWG9zQ0ljVzZRYmgxLUJuTEd0UktCRF9aU2pMYmR0LW5QOWg1Sg?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-10-15 05:52
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE1jT0NSd1lvOWt2cjZlSEh1YVZBV2U2WFNwSXgxZm1Ta2Y2N3VMWEFodUxGZnFzNEhhZnBaU0gzaW8zOEN1azBYMGlkTk5CRkwydzBBelJNMHJMd010aTJ4OWZpa09tRTRablViejZxVUx0UQ?oc=5>
 
-### 《华尔街日报》连曝三篇报道后，特朗普要求美国驻希腊大使吉尔福伊尔辞职
+### 到底发生了什么，导致特朗普对乌克兰“破防”？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-10-14 05:56
-- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sMWRBRXFTZHM2al9Nd0x2a2dKZDJSZmFjalJsbHh6dnhEWFpCaGI4Sk1qYzdPd2Vtc0hDblBhLThzOENiaU5LRVV2TnVxNkJHZGc?oc=5>
+- 时间: 2026-10-15 03:56
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9qTVgtTzBJbFRhUy00VmNiZWlqR1NqbmpiOVEyVkhSSWxCWnBjMnJ0d1lpQW5HSzE0OWM3R3JuWVF1UmtnQl85NXdRVE8?oc=5>
 
-### 特朗普：俄乌必须达成协议结束冲突
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-13 00:12
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9aWkU0SmQ0M2EyWTkxSHV1V25nTlBHWVNxbmQtX2xIN3NHS3pNd0VGczN3YjlGbVIwNEVjNWpRYUFLR0xZSEpBbWI1RQ?oc=5>
-
-### 特朗普称格陵兰岛将开始"大规模"石油、天然气和矿产勘探
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-10-14 08:04
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE1KNkJyWldfcUExb0Ywak82SHhrVXBxZkhTYjBpUElza1JQcTRaSktlNjhrQ01QemFhSTZxajN2anBTOU9XeDlHQXNVeW9DVXllbERJ?oc=5>
-
-### 川普孫女手腕受傷動刀 宣布暫別球場休養
+### Trump stated that Greenland will commence "large-scale" exploration for oil, natural gas, and minerals.
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 大紀元
-- 时间: 2026-10-14 22:50
-- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE5IamhBUHo1RlFhLXB0SGZfeDZ1SE1nT09VbVhkd0o4MEs4em5nTGttN2t0aUpuYm1MMDl6bV9GQ3hDWXl4Zi1xUklyTnRJc3hJMFhCbkw4alhPSk8zS2lXRlRR0gFnQVVfeXFMTk96UkhRRjY0RFE0SU1FdVgwVnRubVJuZXota29CRHJBYkFGTXNOVkt1enNJNXl1M0lWcjlkYnpCbmZXMy1IeGxjNWFDUThhTjZkT0s0ZGt4cUV4MTFOV2pEUlIzLWIxWQ?oc=5>
+- 场馆: 富途牛牛
+- 时间: 2026-10-14 08:43
+- 链接: <https://news.google.com/rss/articles/CBMisgFBVV95cUxQQlpoVTBwbmE1d0l3Sm9yNjIyVjlnQ29jcUNMcGxXekJULVBhSGJLYk1ydklMY2VCU2ZTeGVNbm1zZ3J6LWhLWHRVUFhKdjNOYnlnaWU0RW40dW5zdDVTX1Z1c3Q0NkRWMnRCV1M4QWp6UHFPZ3pLY0ZvUEg3Q0o2SklBN2FUbjQzV294WWR3RFV6Zm90Wmp5bVVNMkpJMUtrSFQ5SmRhdVQxTkVZcHFjNnh3?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-15 06:06  (9 条)
+
+- **周杰伦** | 周杰伦墨尔本街头弹钢琴，新歌预热演唱会？ <https://k.sina.com.cn/article_7879776356_1d5abd86406801783c.html>
+- **周杰伦** | 大麦想看人数排名靠前的演唱会项目有什么共同特点？ <https://k.sina.com.cn/article_7879776356_1d5abd8640680177tq.html>
+- **特朗普** | “AI教父”怒批特朗普：他对AI“几乎一无所知”！此前特朗普宣布用“SI”替代“AI” <https://news.google.com/rss/articles/CBMif0FVX3lxTE9uUW55cHR6R2VWcFZyQklPT0l6YmdtZDVEaVg3eW90TGlzT01xdnI5MTFRZjJ1Z2p5QThsbzVNZ1RVY1pIZzVfZGgzb0lRWlJjSExHWC1JcXJlZHlqZGtqSnRNM3dxOHJ6RHJPQjVaT0pPZzB0RXJ2eHZtM1dVbUU?oc=5>
+- **特朗普** | 特朗普竞选集会一顿自夸式输出 标榜政绩称进入“黄金时代” <https://news.google.com/rss/articles/CBMicEFVX3lxTFBIdmVRN09FVWtESkwwZ1NvUXhzTHRXS3FLbXZTU2ZFcGNJNndmbXpGck9ENzQzLVE0S2ctRmIwNUYyNXRCTWQ5b2xseUIyN3dTV29YNzZoN1Z1YS1KbW05a2dVbW1rQUtQQmdoQVA3MXc?oc=5>
+- **特朗普** | 泽连斯基：我感到被特朗普“背叛”，调停方应保持中立 <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBOcDdOUDZBMFRaYWxRUGtfcWdZd3poQm4tS3g2MXE0NlRNTmRnRXZGcm84cnFBdXM0bG5RNmZxZVZXWXhhTXBFdnlhaGZvbEYyeHNFYmg0MU5nUG1MZDl4bw?oc=5>
+- **特朗普** | 特朗普的蓝领票仓正在松动？俄亥俄工人抱怨：我们投票可不是为了这个 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBIN25FaENnWVhWcE5rY3B3MEUtZXRmaE95QWFlX0Y5SDIydXRuc2N0THZLQ2dNZWp3eVg4cXRTUVZiYWVtenFrTDBMclU?oc=5>
+- **特朗普** | 狂砸3.66亿美金！马斯克真的是为了特朗普吗？ <https://news.google.com/rss/articles/CBMickFVX3lxTE1jT0NSd1lvOWt2cjZlSEh1YVZBV2U2WFNwSXgxZm1Ta2Y2N3VMWEFodUxGZnFzNEhhZnBaU0gzaW8zOEN1azBYMGlkTk5CRkwydzBBelJNMHJMd010aTJ4OWZpa09tRTRablViejZxVUx0UQ?oc=5>
+- **特朗普** | 到底发生了什么，导致特朗普对乌克兰“破防”？ <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9qTVgtTzBJbFRhUy00VmNiZWlqR1NqbmpiOVEyVkhSSWxCWnBjMnJ0d1lpQW5HSzE0OWM3R3JuWVF1UmtnQl85NXdRVE8?oc=5>
+- **Trump** | Trump stated that Greenland will commence "large-scale" exploration for oil, natural gas, and minerals. <https://news.google.com/rss/articles/CBMisgFBVV95cUxQQlpoVTBwbmE1d0l3Sm9yNjIyVjlnQ29jcUNMcGxXekJULVBhSGJLYk1ydklMY2VCU2ZTeGVNbm1zZ3J6LWhLWHRVUFhKdjNOYnlnaWU0RW40dW5zdDVTX1Z1c3Q0NkRWMnRCV1M4QWp6UHFPZ3pLY0ZvUEg3Q0o2SklBN2FUbjQzV294WWR3RFV6Zm90Wmp5bVVNMkpJMUtrSFQ5SmRhdVQxTkVZcHFjNnh3?oc=5>
 
 ### 2026-10-15 01:10  (13 条)
 
