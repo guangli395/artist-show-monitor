@@ -1,78 +1,105 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-15 16:07**
-- 本轮扫到 13901 条, 新增 **8** 条
+- 最近更新: **2026-10-15 19:57**
+- 本轮扫到 13911 条, 新增 **10** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (10 条)
 
-### 周杰伦在墨尔本演唱会的门票价格是多少？
+### 大麦APP上可以查看哪些演唱会的实时想看数据？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd8640680179js.html>
+- 链接: <https://k.sina.com.cn/article_7879996051_1d5af3293068019b7m.html>
 
-### 那些从特朗普内阁中“消失”的女性
+### 想看人数最多的演唱会是哪一场？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-10-15 03:18
-- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ1owUVhqRlZQZ0lQbEo3N1Y3V2tGZW9iWG9OUUVXbnh2bVB3UUZXclVtRkRHa1FxeFBuZ1FXNXFucG1QWi1JNS1XOTRmRGRaN1VCMGRWOW8zZ3JfckJvMUN2OGFVLXo2aGRRcmFwaS1KT1VpUHFISXBndFJheEtiZmlBU0RJUXA2Q3c?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923101_1d5ae159d06801pufi.html>
 
-### 特朗普叫停胡德堡枪案凶手行刑直播，但“受害者的直系亲属将能观看”
+### 特朗普提议将俄被冻结资产转入美国监管账户，遭欧洲当场拒绝
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-15 15:22
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE5CMmhaOC11S0hfSkdyaUI5WVRoX1RsLW10QzZCNnZXeUhWVFRpNTN6eHJvV2ZkYWU5Sm12WWkyOVlhRDJqbHJ0Nw?oc=5>
+- 场馆: 华尔街见闻
+- 时间: 2026-10-15 12:12
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSakRybzZCVUdYdXljNVZMTDNpNC1OWnlGYnNtV3VCaFRXSENPTFM5R3lHZjYweTZ4VmtXUlJPbUtqNUp0MElyQkJ6a05uQzB3N2s0?oc=5>
 
-### 特朗普叫停哈桑处决直播：仅允许受害者直系亲属观看12月3日行刑
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-15 15:08
-- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WY1NfaE0tMTNOQ1VSOUxGcHdpNGUwYlZGMlNQS0hESG0tcEQtTzJiRzNRb3dvM2J5Zjh4NldJYllCUXBwX3gydXloWTBXNlRvREE?oc=5>
-
-### 特朗普表示，他可能会支持暂停联邦柴油税。
+### 泽连斯基：当特朗普选择站在俄罗斯这一边，这让他感到“痛苦”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-10-15 11:57
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBPTjFGeFNWVHhZZXZMVnltdmdBRXl6Qlg3TFl6X2l2eVFDUm91LWVmQktEVmhiNW91dXlXS3FuR1lTcGd4TmU3bW5rcw?oc=5>
+- 场馆: RFI
+- 时间: 2026-10-14 17:37
+- 链接: <https://news.google.com/rss/articles/CBMimgNBVV95cUxOM3Zhd01XZWlXOTZuczAxc2ctQnhuRVo0Wmc0NXJ0OW9sWlJhN0NaRWRWbm5mWWJ4cEJnMUhydnB6UTVmM3ZEZDNVbC03c2xEVkR0SU1qdE1XTFEtdjVsbnhUOFVESkliMGR1YzNIeTZxb2hqWGRWWGx4YjhObElrNVNnbFNoNWc4UnVjZ2E4VnlBbjRTa0NVdWsxNzZtbGhCM3ZyVFVHT25ScG96akxNclIyTFlsaTFhd1o3eEFpWWZsY1BlcDE1anNJMFpVaG4yTHBxMVhsYUxvOEhrcFNxQ19mV2hlWG1ETWNDUUxzM1VCQWR1MG5NZVQzbE9ycEtPNEk0MzFkUThUbm1rT3oza2RCcVpUTGJwWFZ4UDV2T1pPODFCeVd5MS1OcG1BNVByMHJkYVd5MGNNV2RSSFlQVkxKZ0tnTS01YnBzY0g0cUM4TnMxeFFxQUV5OEFTRW1LMmJ0TzN2bkxoZmUxWXFNY2h3OS1ad1ZDVGVMX1UwbDVINzNMYzZuMkdRdUZpa1pZOXFiVXllMDA0QQ?oc=5>
 
-### 外媒：英国首相称将试图帮助修复特朗普和泽连斯基之间的关系
+### 特朗普叫停网上直播处决胡德堡枪击案枪手
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 环球网
-- 时间: 2026-10-13 23:12
-- 链接: <https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KX3M0SnlLenAwRFY1UG9KME1OSlVJT09lXzdaRG1iT21JY2pVblh1RUhBZEUxTHNoT1R6MmRmRXNWdVZTUkh2OUtfU1BadXJzOXFhNU5B?oc=5>
+- 场馆: BBC
+- 时间: 2026-10-15 16:24
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51ZThDU2JXMThJQnJ0eFU5S2JMYmYyQnBTa2VleGY0M3R0VzM4QWM5S3FhbkVSNjZUSWVWekpXVDI0cG5xUmIzTnE2RklGdDQwZThHMWdJWXE4YU9hRWwyd1pGclFaLVHSAWxBVV95cUxOZzNHc1Z0TTR6TEtvS2ZZdFU5RjRSNjRTZE8xV0J3LVpGcDhIQ1hIUlBIdEpkRmVBelZnaUY5TDVOYkJQVi05T0QxZk1Td3h3bG1oYVBMVU5tbnFLNkUxOUZvUzg0U0g2SG9lNDk?oc=5>
 
-### He Crafted a Crypto Law for Trump-as His Company Got Millions From a Crypto Giant -- WSJ
+### 特朗普总统说，不会对胡德堡枪击案枪手的死刑执行过程进行网络直播
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-10-15 17:32
+- 链接: <https://news.google.com/rss/articles/CBMitwFBVV95cUxON3hvMUNyRE0xd1k4SllDRUxJRkE1UXZJcHlkNGwtSGtkYXFXV0ZsQzNHTHQ4Q19Sb0lOMXNjXzB4dGRhN21RRGMtNFd6WThKT1Q4cjJ6dzh6M0VWYlNTTGVDbVZuSGt1SXl2bEdLaU1rajZEY2paeXU3c0k0MGpqSzNDVTc2Z3hWbzJSLUZLTjk5WTlIcVBENDJ1Vnl1cnNaNHpUa0wxaDV5NWFZQ2Z6SjNhMGw3NGPSAboBQVVfeXFMTUtXbEZwb1gwbDE4aEtjZW9DSEI4MS1idjlrLU5JdGpjajdWazN0ckRLd25qVFFEVmxJRW15LXlWMl9sZTh5NUtDWkp4ZUtRbFNkTVVwTWVRWVR0SGFCMURHTy1jaENyWjM4b1lrQmtEaFhSWUI2TWNKZWhXcEZwZW9sQ2kzcmJBX045RUI4OVB1RGFLOGJha3NtRzBvWmcwVDFFdEdQSE9pMkVZaFh4VFFGYVZ4aGxmamZB?oc=5>
+
+### 特朗普公开指责胡塞武装
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-10-15 19:26
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE82VDBkN3RpdlNNRXItQ3NMTmpGN1h6WGNDREVoX3k4VWJSdnFRVXQtdXFlR3lkVHlFWjFNTERvV0t1Rl9WN2tyWFJPcXBSNXR2eUF4bmRsR0NZZXE1clZIZHM3RTN1a185U3NFMlAtMEE?oc=5>
+
+### 油价大火烧到自己脚，美国选举前被搅局，特朗普的中东账怎么算
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-10-15 19:26
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFBKejFKMktLWUpmSnJsRVFFVE80azFnbWkzcWRJWlpzVExnUnJ2SXNhTzdCc2tIQjBwdkVuVG5tNTgzUGlqZkN0SFZjWVV3Q0RER0U2V2tRVnprVW1aWFhXNlRhZzNqUjhGbHFrTTNUeExLdw?oc=5>
+
+### 美国2500万名儿童在Trump Accounts账户中获得250美元——The Hill
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-10-15 07:11
-- 链接: <https://news.google.com/rss/articles/CBMizAFBVV95cUxPaU1wejU4ZEpGUUN1VjcxZWhjTzhDM1lwVGNGSGd3NkJKbGVPdXRXZV9XWVpOVWRsRUlDVUdEMkxFcU81bGVWaXNNLXlKcHN3VTJfUTAyUFNmakkyTkZ2aHdwSV9vdlZ6bHc2ek82Ny1ldG5fQXBqdTRiMUZ5SHFkRmJubkFlVjY0bGRJaklaS1hQM3V1bjFPb2dreGVtY1pQa1BsWElFMjV6a2xab0RfUERRTXRFeEU1RjFIekg3MldoSEJabDlUVUY0N04?oc=5>
+- 场馆: UA.NEWS
+- 时间: 2026-10-15 11:41
+- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxONXRaVjhuNTJVb3RPUTB1RW5WaF9iblBBWFN0M0IydzJYbnlsWkx2MG1NUkJINWNXYmU2ZHdaV041UHBRQkFyLVk5QUE4LW5wWXNfLUliZC1vamdBZkhPM3pkU2M0dHptT2pqRXJQVXJjeVNwLUl2d0tIS1N3dFZTNXJtdm10Mzk2NlJHeDJrQUU1VlJSQzNSQUZEQTQ?oc=5>
 
-### 【美国观察】美国驻希腊大使被辞职：曾是特朗普爱将的她何以如此迅速失宠？
+### 特朗普总统宣布在蒙大拿州设立“超级靶场”，测试自主武器及高超音速技术
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 风闻
-- 时间: 2026-10-15 12:41
-- 链接: <https://news.google.com/rss/articles/CBMiW0FVX3lxTE01ZWNOS0J2Tm1rUU1EaFhHZFV3VWdGYy1XNmNMaG40WGhTNVZfWEJidHVjUDFra0lnRGJVLVJaVVMxMS1yRUYxMnVodkFQR19GMjZZQlZmY2dQTWM?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-10-15 18:38
+- 链接: <https://news.google.com/rss/articles/CBMiywFBVV95cUxPdFhTOGNBd3AtNUFmWlRNbDZzT2lBdDVLb1VtMUJ2QmRYcGY5LURzR3ZycWpjZGJ3aVRxY2dKSnM5dnhjbFBDUlgwUmlJaEk3WFc2OWlqZEg0eWZ2UVFPYTdrRGt1UlNFZmJ0RjA4V0tYNEM2dG8xRTRKd2tTVlVyeHdFOVhCVWJVcnUyWkpEdDJMVzZGLWJ6QnptVFI5U2RlSWJhWkItcG5IY1FtYm80UlNGRFVpZkpwT2R4OVhzV3RlVlFIcjVXYVR1TdIBzgFBVV95cUxQdE5IOWxPZEFfTVN5dGJKaUpRVlhzNjJrTmFyRHJqeThwRm1oLWZxNVJKQmpKeVFEZ0M5V0xRbWJtR0Y4SWZoZlNNcnM2NVpWQmtGSVNjTlBOb0VDZ3VCUnBpVllrOVdjNlNsRUlEaHpGTEMydjdNWlhDNGEzZjI1Q3IwNnRNaTZ3MDA4RGwtRlA3VVhncUVNYUtLTzdoUkZOTGxiM212MVVvVHJndlpNb2NYeWlldDdNTm9WamZabG9lSXVLbU1iRTJMek93dw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-15 19:57  (10 条)
+
+- **周杰伦** | 大麦APP上可以查看哪些演唱会的实时想看数据？ <https://k.sina.com.cn/article_7879996051_1d5af3293068019b7m.html>
+- **周杰伦** | 想看人数最多的演唱会是哪一场？ <https://k.sina.com.cn/article_7879923101_1d5ae159d06801pufi.html>
+- **特朗普** | 特朗普提议将俄被冻结资产转入美国监管账户，遭欧洲当场拒绝 <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSakRybzZCVUdYdXljNVZMTDNpNC1OWnlGYnNtV3VCaFRXSENPTFM5R3lHZjYweTZ4VmtXUlJPbUtqNUp0MElyQkJ6a05uQzB3N2s0?oc=5>
+- **特朗普** | 泽连斯基：当特朗普选择站在俄罗斯这一边，这让他感到“痛苦” <https://news.google.com/rss/articles/CBMimgNBVV95cUxOM3Zhd01XZWlXOTZuczAxc2ctQnhuRVo0Wmc0NXJ0OW9sWlJhN0NaRWRWbm5mWWJ4cEJnMUhydnB6UTVmM3ZEZDNVbC03c2xEVkR0SU1qdE1XTFEtdjVsbnhUOFVESkliMGR1YzNIeTZxb2hqWGRWWGx4YjhObElrNVNnbFNoNWc4UnVjZ2E4VnlBbjRTa0NVdWsxNzZtbGhCM3ZyVFVHT25ScG96akxNclIyTFlsaTFhd1o3eEFpWWZsY1BlcDE1anNJMFpVaG4yTHBxMVhsYUxvOEhrcFNxQ19mV2hlWG1ETWNDUUxzM1VCQWR1MG5NZVQzbE9ycEtPNEk0MzFkUThUbm1rT3oza2RCcVpUTGJwWFZ4UDV2T1pPODFCeVd5MS1OcG1BNVByMHJkYVd5MGNNV2RSSFlQVkxKZ0tnTS01YnBzY0g0cUM4TnMxeFFxQUV5OEFTRW1LMmJ0TzN2bkxoZmUxWXFNY2h3OS1ad1ZDVGVMX1UwbDVINzNMYzZuMkdRdUZpa1pZOXFiVXllMDA0QQ?oc=5>
+- **特朗普** | 特朗普叫停网上直播处决胡德堡枪击案枪手 <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51ZThDU2JXMThJQnJ0eFU5S2JMYmYyQnBTa2VleGY0M3R0VzM4QWM5S3FhbkVSNjZUSWVWekpXVDI0cG5xUmIzTnE2RklGdDQwZThHMWdJWXE4YU9hRWwyd1pGclFaLVHSAWxBVV95cUxOZzNHc1Z0TTR6TEtvS2ZZdFU5RjRSNjRTZE8xV0J3LVpGcDhIQ1hIUlBIdEpkRmVBelZnaUY5TDVOYkJQVi05T0QxZk1Td3h3bG1oYVBMVU5tbnFLNkUxOUZvUzg0U0g2SG9lNDk?oc=5>
+- **特朗普** | 特朗普总统说，不会对胡德堡枪击案枪手的死刑执行过程进行网络直播 <https://news.google.com/rss/articles/CBMitwFBVV95cUxON3hvMUNyRE0xd1k4SllDRUxJRkE1UXZJcHlkNGwtSGtkYXFXV0ZsQzNHTHQ4Q19Sb0lOMXNjXzB4dGRhN21RRGMtNFd6WThKT1Q4cjJ6dzh6M0VWYlNTTGVDbVZuSGt1SXl2bEdLaU1rajZEY2paeXU3c0k0MGpqSzNDVTc2Z3hWbzJSLUZLTjk5WTlIcVBENDJ1Vnl1cnNaNHpUa0wxaDV5NWFZQ2Z6SjNhMGw3NGPSAboBQVVfeXFMTUtXbEZwb1gwbDE4aEtjZW9DSEI4MS1idjlrLU5JdGpjajdWazN0ckRLd25qVFFEVmxJRW15LXlWMl9sZTh5NUtDWkp4ZUtRbFNkTVVwTWVRWVR0SGFCMURHTy1jaENyWjM4b1lrQmtEaFhSWUI2TWNKZWhXcEZwZW9sQ2kzcmJBX045RUI4OVB1RGFLOGJha3NtRzBvWmcwVDFFdEdQSE9pMkVZaFh4VFFGYVZ4aGxmamZB?oc=5>
+- **特朗普** | 特朗普公开指责胡塞武装 <https://news.google.com/rss/articles/CBMicEFVX3lxTE82VDBkN3RpdlNNRXItQ3NMTmpGN1h6WGNDREVoX3k4VWJSdnFRVXQtdXFlR3lkVHlFWjFNTERvV0t1Rl9WN2tyWFJPcXBSNXR2eUF4bmRsR0NZZXE1clZIZHM3RTN1a185U3NFMlAtMEE?oc=5>
+- **特朗普** | 油价大火烧到自己脚，美国选举前被搅局，特朗普的中东账怎么算 <https://news.google.com/rss/articles/CBMickFVX3lxTFBKejFKMktLWUpmSnJsRVFFVE80azFnbWkzcWRJWlpzVExnUnJ2SXNhTzdCc2tIQjBwdkVuVG5tNTgzUGlqZkN0SFZjWVV3Q0RER0U2V2tRVnprVW1aWFhXNlRhZzNqUjhGbHFrTTNUeExLdw?oc=5>
+- **Trump** | 美国2500万名儿童在Trump Accounts账户中获得250美元——The Hill <https://news.google.com/rss/articles/CBMinAFBVV95cUxONXRaVjhuNTJVb3RPUTB1RW5WaF9iblBBWFN0M0IydzJYbnlsWkx2MG1NUkJINWNXYmU2ZHdaV041UHBRQkFyLVk5QUE4LW5wWXNfLUliZC1vamdBZkhPM3pkU2M0dHptT2pqRXJQVXJjeVNwLUl2d0tIS1N3dFZTNXJtdm10Mzk2NlJHeDJrQUU1VlJSQzNSQUZEQTQ?oc=5>
+- **Trump** | 特朗普总统宣布在蒙大拿州设立“超级靶场”，测试自主武器及高超音速技术 <https://news.google.com/rss/articles/CBMiywFBVV95cUxPdFhTOGNBd3AtNUFmWlRNbDZzT2lBdDVLb1VtMUJ2QmRYcGY5LURzR3ZycWpjZGJ3aVRxY2dKSnM5dnhjbFBDUlgwUmlJaEk3WFc2OWlqZEg0eWZ2UVFPYTdrRGt1UlNFZmJ0RjA4V0tYNEM2dG8xRTRKd2tTVlVyeHdFOVhCVWJVcnUyWkpEdDJMVzZGLWJ6QnptVFI5U2RlSWJhWkItcG5IY1FtYm80UlNGRFVpZkpwT2R4OVhzV3RlVlFIcjVXYVR1TdIBzgFBVV95cUxQdE5IOWxPZEFfTVN5dGJKaUpRVlhzNjJrTmFyRHJqeThwRm1oLWZxNVJKQmpKeVFEZ0M5V0xRbWJtR0Y4SWZoZlNNcnM2NVpWQmtGSVNjTlBOb0VDZ3VCUnBpVllrOVdjNlNsRUlEaHpGTEMydjdNWlhDNGEzZjI1Q3IwNnRNaTZ3MDA4RGwtRlA3VVhncUVNYUtLTzdoUkZOTGxiM212MVVvVHJndlpNb2NYeWlldDdNTm9WamZabG9lSXVLbU1iRTJMek93dw?oc=5>
 
 ### 2026-10-15 16:07  (8 条)
 
