@@ -1,114 +1,89 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-15 11:51**
-- 本轮扫到 13893 条, 新增 **14** 条
+- 最近更新: **2026-10-15 16:07**
+- 本轮扫到 13901 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (14 条)
+## 本轮新发现 (8 条)
 
-### 周杰伦广州演唱会580元“仅支持看大屏”，大麦网：介意勿买
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5328858693_13d9fee4502002k7jo.html>
-
-### 肖战演唱会想看人数榜单中，华语歌手票价水平如何？
+### 周杰伦在墨尔本演唱会的门票价格是多少？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd86406801786a.html>
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd8640680179js.html>
 
-### 肖战南京演唱会想看人数破内地纪录，超99%同期演出
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068017868.html>
-
-### 周杰伦街头弹钢琴片段曝光，墨尔本演唱会预热有何看点？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068017838.html>
-
-### 肖战巡演南京站想看人数突破500万，仅次周杰伦林俊杰
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_3285889392_c3dab17004001bnbi.html>
-
-### 肖战首次个人巡演南京站想看人数突破500万
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_3876174997_e709bc9504001wt7a.html>
-
-### 大麦演唱会累计想看Top10 TFBOYS十年之约西安站居首
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1835415447_6d66379704001hs3c.html>
-
-### 特朗普亲信大使被撤，十万美元账单惹争议
+### 那些从特朗普内阁中“消失”的女性
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 风闻
-- 时间: 2026-10-15 03:05
-- 链接: <https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tT1NFbF9zY1RHbzZONmVldE1KOERtdjZ0WXN6UGhZeHQ3YUI3TV9DbTkzSWpieGU2MmFiMWhrTFNDYXpIdTNxamo4TjM5T2toLUswSm00U0xtWG8?oc=5>
+- 场馆: 纽约时报中文网
+- 时间: 2026-10-15 03:18
+- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ1owUVhqRlZQZ0lQbEo3N1Y3V2tGZW9iWG9OUUVXbnh2bVB3UUZXclVtRkRHa1FxeFBuZ1FXNXFucG1QWi1JNS1XOTRmRGRaN1VCMGRWOW8zZ3JfckJvMUN2OGFVLXo2aGRRcmFwaS1KT1VpUHFISXBndFJheEtiZmlBU0RJUXA2Q3c?oc=5>
 
-### 特朗普言论再次刺激加拿大 两国贸易谈判短期重启无望
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-10-15 11:14
-- 链接: <https://news.google.com/rss/articles/CBMigANBVV95cUxQN0RaU1MwUGl6TFZlazFSdmE0dVA4YU1MOEc4LUdfQ1ZoRzI0dmRkQTh6UFhLc2lSVXNnTkRUU2RJakJ1VG5JZ0N6Nk41aGFEQXdtZnJURDE4Qy1HeWhTUVcyRm5WVGdZY0Q0MnNGMTU5OGV0b2JibEJYLW1LRnFmOU1qRHNRLUZIaGlqNjhEMlM3NVN3cklZaFVMX1NRd2YzX2U2RmgtSWxPVjk4aWc2ekE2alBGNW1kTVhZTWdCYi1QNVQzR1FLWl9TYS0yYjhtOFlCU3Bza00xZWhxV191MlJGX0duclpyUWZObHlNRVJ6enpDMmJKLTF3eVRnaVQ2QTRicVRzcnM4V21uaGl0dnFGQTJRc3VJdTJQbE5Nc240WkZWemNhX1J3c0ZrWVZNa09tNmVOU2o4Zjk1cFAxNzJuNTU4V0ZXZ081eE91UU52d2JzTUtzQUhjWk5jMmItQl96ZEVoZHNrZmppMXVyV1pUdUtwd1RZeG1zOGpzN1U?oc=5>
-
-### 承认自己“过火”，特朗普承诺不再斩首伊朗领导人
+### 特朗普叫停胡德堡枪案凶手行刑直播，但“受害者的直系亲属将能观看”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-10-15 03:58
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9VcS1HQzE3UFVUenMzeUdOaTVUOXpoYnRkWmxQekFDYVYydHZETGhIdFpyelV0WjZhbEh4ZGtQTkJzdEVOcFU1WW9lNW4?oc=5>
+- 时间: 2026-10-15 15:22
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE5CMmhaOC11S0hfSkdyaUI5WVRoX1RsLW10QzZCNnZXeUhWVFRpNTN6eHJvV2ZkYWU5Sm12WWkyOVlhRDJqbHJ0Nw?oc=5>
 
-### 以媒：内塔尼亚胡与特朗普讨论重启对伊战争可能性
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-10-14 19:32
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBhWXdUQ3Vjdkoxdk43dHh0R1dLTEd5ZXdMUXhGYlMxQkpKSlJnODFHcUgtX0g0ZlJIbTJPNS1iUldfM25LSXR6eWN5eXhFSWpfUWs3V1I0MlBYUDg1akFXaHJlWUFWQQ?oc=5>
-
-### 特朗普下令：严查赴美生子！签证审查升级
+### 特朗普叫停哈桑处决直播：仅允许受害者直系亲属观看12月3日行刑
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-10-15 06:46
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1WTkNLOXE3aFdEX0VqM2dKVVZuMDNtb21IeWZDZ3Bod3V5UHVsLWhjU3NlcFZPSHBpSE9EbFhYMWo4Y2d4ekJoUExWTnVaT2hCRHd0Wi1ZWUtSbS1PRHJGQ0NZS010Y3BoeXAtdHB3c2Q?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-10-15 15:08
+- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WY1NfaE0tMTNOQ1VSOUxGcHdpNGUwYlZGMlNQS0hESG0tcEQtTzJiRzNRb3dvM2J5Zjh4NldJYllCUXBwX3gydXloWTBXNlRvREE?oc=5>
 
-### 他为特朗普操刀加密货币法案，名下公司却从加密巨头狂捞数百万美元
+### 特朗普表示，他可能会支持暂停联邦柴油税。
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 手机新浪网
+- 时间: 2026-10-15 11:57
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBPTjFGeFNWVHhZZXZMVnltdmdBRXl6Qlg3TFl6X2l2eVFDUm91LWVmQktEVmhiNW91dXlXS3FuR1lTcGd4TmU3bW5rcw?oc=5>
+
+### 外媒：英国首相称将试图帮助修复特朗普和泽连斯基之间的关系
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 环球网
+- 时间: 2026-10-13 23:12
+- 链接: <https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KX3M0SnlLenAwRFY1UG9KME1OSlVJT09lXzdaRG1iT21JY2pVblh1RUhBZEUxTHNoT1R6MmRmRXNWdVZTUkh2OUtfU1BadXJzOXFhNU5B?oc=5>
+
+### He Crafted a Crypto Law for Trump-as His Company Got Millions From a Crypto Giant -- WSJ
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-10-15 07:12
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBETWFWUFh6NGtSU2xMNUZmaGZ3ZHdWRU1qcXhRSGtHZ3R4Z3l5UlJNek1MT2tEUzZsVVBEbU03eU9OQ2I4SEFXR1FUQUo3T09CUjRHWUlSNVIzQWZrek9DcHY3OUZwYmZOVHF3bUU2LTNFcFVGQ0JyTQ?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-10-15 07:11
+- 链接: <https://news.google.com/rss/articles/CBMizAFBVV95cUxPaU1wejU4ZEpGUUN1VjcxZWhjTzhDM1lwVGNGSGd3NkJKbGVPdXRXZV9XWVpOVWRsRUlDVUdEMkxFcU81bGVWaXNNLXlKcHN3VTJfUTAyUFNmakkyTkZ2aHdwSV9vdlZ6bHc2ek82Ny1ldG5fQXBqdTRiMUZ5SHFkRmJubkFlVjY0bGRJaklaS1hQM3V1bjFPb2dreGVtY1pQa1BsWElFMjV6a2xab0RfUERRTXRFeEU1RjFIekg3MldoSEJabDlUVUY0N04?oc=5>
 
-### 男子闯虎区遭袭身亡 特朗普发AI斗虎视频惹议
+### 【美国观察】美国驻希腊大使被辞职：曾是特朗普爱将的她何以如此迅速失宠？
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-10-15 11:27
-- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTE15Y2ZTOGxTdXpycDg3NGt5Sy1iMTJ3dGpNWWhkcWRrTE1mYVh3Nk9hUjBHM3NMQzBVbFRzdWI1cHM3Qm92cU4wYlhCMmY4OE5VM29WYW1SRXI5M1pYY3MtUlZQTFREbUNNRHVaM29B?oc=5>
+- 场馆: 风闻
+- 时间: 2026-10-15 12:41
+- 链接: <https://news.google.com/rss/articles/CBMiW0FVX3lxTE01ZWNOS0J2Tm1rUU1EaFhHZFV3VWdGYy1XNmNMaG40WGhTNVZfWEJidHVjUDFra0lnRGJVLVJaVVMxMS1yRUYxMnVodkFQR19GMjZZQlZmY2dQTWM?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-15 16:07  (8 条)
+
+- **周杰伦** | 周杰伦在墨尔本演唱会的门票价格是多少？ <https://k.sina.com.cn/article_7879776356_1d5abd8640680179js.html>
+- **特朗普** | 那些从特朗普内阁中“消失”的女性 <https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ1owUVhqRlZQZ0lQbEo3N1Y3V2tGZW9iWG9OUUVXbnh2bVB3UUZXclVtRkRHa1FxeFBuZ1FXNXFucG1QWi1JNS1XOTRmRGRaN1VCMGRWOW8zZ3JfckJvMUN2OGFVLXo2aGRRcmFwaS1KT1VpUHFISXBndFJheEtiZmlBU0RJUXA2Q3c?oc=5>
+- **特朗普** | 特朗普叫停胡德堡枪案凶手行刑直播，但“受害者的直系亲属将能观看” <https://news.google.com/rss/articles/CBMiSEFVX3lxTE5CMmhaOC11S0hfSkdyaUI5WVRoX1RsLW10QzZCNnZXeUhWVFRpNTN6eHJvV2ZkYWU5Sm12WWkyOVlhRDJqbHJ0Nw?oc=5>
+- **特朗普** | 特朗普叫停哈桑处决直播：仅允许受害者直系亲属观看12月3日行刑 <https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WY1NfaE0tMTNOQ1VSOUxGcHdpNGUwYlZGMlNQS0hESG0tcEQtTzJiRzNRb3dvM2J5Zjh4NldJYllCUXBwX3gydXloWTBXNlRvREE?oc=5>
+- **特朗普** | 特朗普表示，他可能会支持暂停联邦柴油税。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBPTjFGeFNWVHhZZXZMVnltdmdBRXl6Qlg3TFl6X2l2eVFDUm91LWVmQktEVmhiNW91dXlXS3FuR1lTcGd4TmU3bW5rcw?oc=5>
+- **特朗普** | 外媒：英国首相称将试图帮助修复特朗普和泽连斯基之间的关系 <https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KX3M0SnlLenAwRFY1UG9KME1OSlVJT09lXzdaRG1iT21JY2pVblh1RUhBZEUxTHNoT1R6MmRmRXNWdVZTUkh2OUtfU1BadXJzOXFhNU5B?oc=5>
+- **Trump** | He Crafted a Crypto Law for Trump-as His Company Got Millions From a Crypto Giant -- WSJ <https://news.google.com/rss/articles/CBMizAFBVV95cUxPaU1wejU4ZEpGUUN1VjcxZWhjTzhDM1lwVGNGSGd3NkJKbGVPdXRXZV9XWVpOVWRsRUlDVUdEMkxFcU81bGVWaXNNLXlKcHN3VTJfUTAyUFNmakkyTkZ2aHdwSV9vdlZ6bHc2ek82Ny1ldG5fQXBqdTRiMUZ5SHFkRmJubkFlVjY0bGRJaklaS1hQM3V1bjFPb2dreGVtY1pQa1BsWElFMjV6a2xab0RfUERRTXRFeEU1RjFIekg3MldoSEJabDlUVUY0N04?oc=5>
+- **Trump** | 【美国观察】美国驻希腊大使被辞职：曾是特朗普爱将的她何以如此迅速失宠？ <https://news.google.com/rss/articles/CBMiW0FVX3lxTE01ZWNOS0J2Tm1rUU1EaFhHZFV3VWdGYy1XNmNMaG40WGhTNVZfWEJidHVjUDFra0lnRGJVLVJaVVMxMS1yRUYxMnVodkFQR19GMjZZQlZmY2dQTWM?oc=5>
 
 ### 2026-10-15 11:51  (14 条)
 
