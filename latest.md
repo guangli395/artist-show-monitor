@@ -1,76 +1,94 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-16 05:24**
-- 本轮扫到 13932 条, 新增 **8** 条
+- 最近更新: **2026-10-16 10:01**
+- 本轮扫到 13941 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (9 条)
 
-### 肖战2026巡演官宣，粉丝称没票再想办法
+### UGG携全球代言人王一博发布全新秋冬广告大片
 
 - 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002t188.html>
+- 链接: <https://k.sina.com.cn/article_1768578257_696a5cd104001d746.html>
 
-### 蔡徐坤任起亚品牌代言人，新加坡演唱会同步官宣
+### 王一博高原寻豹之旅 纪录片寻护者2剧照发布
 
-- 艺人/关键词: **蔡徐坤**
+- 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924057_m1d5ae195903301p9zq.html>
+- 链接: <https://k.sina.com.cn/article_3758512144_e0065810040017v5k.html>
 
-### “埃尔多安会照做”！特朗普高调点名土耳其，联手沙特打击胡塞
+### 周杰伦演唱会前的热身是打网球
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://video.sina.com.cn/p/finance/2026-10-16/detail-inivmazq1648799.d.html>
+
+### 特朗普称自己是顶流网红，热度远超霉霉
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-10-16 05:12
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE9uQm5xUFF6X1o1b3pqbkFWekVaYW1xd2tuZEFrVFpuVUhoWng1eTVuRU54M2FkVUpOMWktZkFkS1lybXJGNGV2TmVJemRIVmpzaEZRcEx0d2NTRS1KLVFjQ0V1dXplRWJhNlFLc0VNTWdlUQ?oc=5>
+- 场馆: 中华网
+- 时间: 2026-10-16 09:13
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9fcFpteGRhYXVMdWZYWTZJYkpUSGhCNTlPLTRpNGJDd1FEczkxOUNDbTI5X0pqNnhxN2puSEU4X1pITks0M3Q0TWNQdERxWHNYUEQ0Ym41YlVFd2ppZHh3WldlZUM0NW5JdUtreVFKeHQ?oc=5>
 
-### 特朗普：泽连斯基太可耻，我不太喜欢他，不好相处
+### 特朗普：泽连斯基毁了乌克兰
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-10-16 02:29
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFA1TGo5bnBHcGs4WDBPSE1YMVEwRTBYb2hpWGlVZ3J6U1FqcS16eXVvaHZ1ZjF2NjBoeUdKems4OTU0NzZ2R2c3OHdOR28?oc=5>
+- 时间: 2026-10-16 06:15
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1Oc21tT0N4TzBtVG10ZjBNdTJFRE83Rnc0LTh3WVhlbzNzU09UX05jZmhHX2l0UkRaeWJBZ2Z6dlB5NW1IdzRGVWdrSmI?oc=5>
 
-### 特朗普称美国即将在格陵兰岛大规模勘探，格陵兰岛官员否认
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-10-16 03:47
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1CNEVJUTkzcko0ZGhjaE5TZEFpa0NMdXpueXRENjdaUFJzbC03RTlHa2Q0V1Vna1YxVHFPeURqd21ERGRNUm5fN2R0MEFHRHdkQXJNV3lweTFfZFdBdXBjcVA5aXhYQXd2Q1hEelVQQ1o?oc=5>
-
-### 特朗普称美国不会对伊朗动用核武器
+### 美国中期选举民主党选情渐涨 特朗普支持率再创新低
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 央视网
-- 时间: 2026-10-16 01:42
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE8yaUNxc3dGWW41M1d4d0tDdmVmU1oyM2czZkcxYkg4UGpBVFBsWUViUXRUNno5MFM3UFhsZEZNN0hVcElOSENZeW80QVJrSmVpaEc5R1gycDd4YUJ2Zm0tWE9YcXdBT1Bla0FJdm03bW9pbXRLWVExZQ?oc=5>
+- 场馆: 财新
+- 时间: 2026-10-16 05:44
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9MTEJEWXNkcFZ1cF80NzlOU0FVM2dJVnRTYUh0UW02LXhCdXcyS3VFRW03aFZrSnBJNUVMZEJpVGlJRkxadWxYVTBucjlFSW9QQld6Xy13UHd5MGY2V0tKZnFqV1pvNWZTeHc?oc=5>
 
-### 特朗普被问新闻秘书在哪过的律考 回答引发履历争议
+### 距中期选举不到三周，特朗普罕见承认可能会输，共和党两院都悬了？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-10-16 02:55
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBIcGU2Q1JtUWFzRUJ0ZUozVm5RQXEyUEU0RUgtbExjVXNQSEVpQ1JTUV84V0liU2QwQ09QOEhpYkxCSkE0RVBCQWhxUEk0WlNkbGZUbElNaHphOHU3WDFwYkRDeG1TSDYwcmFJcVhMSno?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-10-16 02:56
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFA0cE80dWdqbmlhcUFQQnlWalpsc2I5SEJ5V3RhZm1WeXItZmxYX0NCY2FodEJuVEJkY2VlZUxibGFFM1VYVUNIQndzQ1c?oc=5>
 
-### $Meta Platforms (META.US)$ 这里是Donald trump[吃瓜][吃瓜][吃瓜]
+### 特朗普：美国不会对伊朗动用核武器
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-10-13 13:58
-- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZUI5VFNwTTdJM0RyOEZlSXVWYTNZZXB0dkZrR1lESzV5ZGp4WE42X2h2am9HMUZ3WGRuTHVINW5sb1ZOWkxocmdDeExJblEwZTRBX3U0X2xyejVpYUxKVUpDLVJqNkVtRjNJYzdRVGJTRG1ycncyOFZqWTdqQnUzZ3NSYVNialRVZks1UTN6aDdTM00yMm42T1NaVUp5RkZQRERhZGc5bE9sZw?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-10-16 07:11
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE0tOEZaTkJNZkc5N3ZIaFptZGlDNWp4aEoyMXRKQ2ZfeHNBRXVIY1RjNnZVbjdtckl3MHZJd3dhWUs5azZVVWUzTkpsbw?oc=5>
+
+### 美国不会对伊朗动用核武 特朗普：没必要！
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-10-16 02:24
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE8yeGI3WjdFdTdjbXVtTGJXNU83ZWRMSkliSmZRMEFJWmZ4TjVTQnpuLW96bjRfWnVfbThJOWdTWlViYlpscURwd2hYZEptRjFqUUxFWnBHVXptM2NVbWlvX2s4blpmUQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-16 10:01  (9 条)
+
+- **王一博** | UGG携全球代言人王一博发布全新秋冬广告大片 <https://k.sina.com.cn/article_1768578257_696a5cd104001d746.html>
+- **王一博** | 王一博高原寻豹之旅 纪录片寻护者2剧照发布 <https://k.sina.com.cn/article_3758512144_e0065810040017v5k.html>
+- **周杰伦** | 周杰伦演唱会前的热身是打网球 <https://video.sina.com.cn/p/finance/2026-10-16/detail-inivmazq1648799.d.html>
+- **特朗普** | 特朗普称自己是顶流网红，热度远超霉霉 <https://news.google.com/rss/articles/CBMicEFVX3lxTE9fcFpteGRhYXVMdWZYWTZJYkpUSGhCNTlPLTRpNGJDd1FEczkxOUNDbTI5X0pqNnhxN2puSEU4X1pITks0M3Q0TWNQdERxWHNYUEQ0Ym41YlVFd2ppZHh3WldlZUM0NW5JdUtreVFKeHQ?oc=5>
+- **特朗普** | 特朗普：泽连斯基毁了乌克兰 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1Oc21tT0N4TzBtVG10ZjBNdTJFRE83Rnc0LTh3WVhlbzNzU09UX05jZmhHX2l0UkRaeWJBZ2Z6dlB5NW1IdzRGVWdrSmI?oc=5>
+- **特朗普** | 美国中期选举民主党选情渐涨 特朗普支持率再创新低 <https://news.google.com/rss/articles/CBMiakFVX3lxTE9MTEJEWXNkcFZ1cF80NzlOU0FVM2dJVnRTYUh0UW02LXhCdXcyS3VFRW03aFZrSnBJNUVMZEJpVGlJRkxadWxYVTBucjlFSW9QQld6Xy13UHd5MGY2V0tKZnFqV1pvNWZTeHc?oc=5>
+- **特朗普** | 距中期选举不到三周，特朗普罕见承认可能会输，共和党两院都悬了？ <https://news.google.com/rss/articles/CBMiTEFVX3lxTFA0cE80dWdqbmlhcUFQQnlWalpsc2I5SEJ5V3RhZm1WeXItZmxYX0NCY2FodEJuVEJkY2VlZUxibGFFM1VYVUNIQndzQ1c?oc=5>
+- **特朗普** | 特朗普：美国不会对伊朗动用核武器 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE0tOEZaTkJNZkc5N3ZIaFptZGlDNWp4aEoyMXRKQ2ZfeHNBRXVIY1RjNnZVbjdtckl3MHZJd3dhWUs5azZVVWUzTkpsbw?oc=5>
+- **特朗普** | 美国不会对伊朗动用核武 特朗普：没必要！ <https://news.google.com/rss/articles/CBMiZkFVX3lxTE8yeGI3WjdFdTdjbXVtTGJXNU83ZWRMSkliSmZRMEFJWmZ4TjVTQnpuLW96bjRfWnVfbThJOWdTWlViYlpscURwd2hYZEptRjFqUUxFWnBHVXptM2NVbWlvX2s4blpmUQ?oc=5>
 
 ### 2026-10-16 05:24  (8 条)
 
