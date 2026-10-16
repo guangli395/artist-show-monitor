@@ -1,110 +1,109 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-16 14:57**
-- 本轮扫到 13954 条, 新增 **13** 条
+- 最近更新: **2026-10-16 18:37**
+- 本轮扫到 13964 条, 新增 **10** 条
 
 ---
 
-## 本轮新发现 (13 条)
+## 本轮新发现 (10 条)
 
-### UGG携王一博发布秋冬大片，穿行北京街巷
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7337001776_m1b551c33003302owuy.html>
-
-### 肖战小城良方开播 南京演唱会与王一博新节目定档
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2388733261_8e612d4d04001qnn6.html>
-
-### 如何在大麦APP上查看演唱会的实时想看数据？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879848900_1d5acf3c406803c9o2.html>
-
-### 大麦APP上可以查看哪些演唱会的实时想看数据？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879848900_1d5acf3c406803c9n2.html>
-
-### 免门票，明天来听露天演唱会！全是周杰伦的歌：晴天、七里香、告白气球、稻香、不能说的秘密……
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://finance.sina.com.cn/wm/2026-10-16/doc-inivmtxh1631265.shtml>
-
-### 以民主换柴油，特朗普的交易令所有人蒙羞
+### 泽连斯基炮轰特朗普 关系紧张升级
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-10-16 04:31
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBxZ05uZ1QyRS1pVW1LUG5JUmdEckhZVm95aklhWU94NFNYei04Uk5PajUyR3U1WFpOZ281UTZHaVkweHdreFNrcDE4RG85REZtQW5Uc1VNcHp2MDg5QmNLclVMREM3RDJBVXNnbkV6TWo?oc=5>
+- 场馆: 中华网
+- 时间: 2026-10-16 14:14
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1vcnlIY2lkcTFvZVZrWUM1YVVZZGx0STU5RU9FbFlMT0syYUR0RnVyazM4elNzOEpBY0RxaXlZdEdOTWU0TjdPdWZKQ3NBS0R0elozWjE4QkNpZjJHSHkwN28yMnY2a0tmWXpJazVVZTE?oc=5>
 
-### 一个月内第2次，特朗普再威胁调查克林顿夫妇和奥巴马：足以“毁掉他们的声誉”
+### 首场简报会表现糟糕，特朗普考虑更换白宫新闻秘书人选
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: ThePaper.cn
+- 时间: 2026-10-16 18:08
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kS1RwQWoxLW1YanhBMWgzcU5IZE1iQjg1dEljRkR4X1JDTjFTdnlhM3lSazZfUE00NVBMa2F6WnY0b3k0ZGd0UkpIdXd0RlN2dERWOW5kMlcxMEp0WUJITg?oc=5>
+
+### 特朗普解雇白宫新闻秘书扎卡里亚
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-10-16 14:41
-- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTFBrM3FuQ0FKSjZwNlctT2dUSlJIMFVIRl9TOHo4WnpsT0tyLXc1LTBPZVVXOUUzT2FFenVJVGQ1ekI0VDh4VVN4d3pOOHlxMEt3aHc?oc=5>
+- 时间: 2026-10-16 18:00
+- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwSTJHbzRlNl9oSHpsZG50Z0hyNGliMEZTdENaaGw5alpCRXYzVUpqTmdVU1I2ODRuSTQ0OFZFTUJXVjhmekZPSkg2SGhZNVRLeFE?oc=5>
 
-### 特朗普称正同俄中就无核化进行沟通 北京：现阶段要求中方参加三边核裁军谈判不可行
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-10-16 12:01
-- 链接: <https://news.google.com/rss/articles/CBMingRBVV95cUxORzlIdW5KM1pjaWRqODZhRHJxSWNTOUxrN0EzNV8zY2JrWjRrYUVrNmFqYWhpbEdpYm9FcXROMFFGSlpXdC1GZFdqQVNCSmw3LTBCOUVhSGlOMVlTNHkyOV8yVDF3ZnVfS1NXSGpHcWVRaHVRRjllaHpSZnZfczNRR3JvcGk3N2NaVFZrSjlRRmwwdC03enlTZjhoeVhuQ3NyNmVaajdmcnNDNnhKZ3FzQTBNMjdFV0hDODZZS0ZSYzk2YWI3TzVLUUh6YUIwWG1IUmo2ajl5STMtc3EwZWw0a05pUzhiY2xIa2d3V0Raek1kSV9PblRsdUZWVjl5NlpySk5kcldnbGNqRTBEUHZWVHVkYmxiWHppbE15U2VXQW9UZk1aUkt3RzZLdDN4T0pnQnE1UXhCNkZxS2NYSzJudnRaVkk1TWZjUTJwN1k5YWtYYllEYWlWX2pqVVljQTlKQmRJQkstY19QaW5iZ3BDVjdXb2RMdHNMVGdlZG1MMEYxSlRlVFMzN09aYzJ0R1d2TVdZbHlLZk5CTkNBOWtGcVZEWm5fOGpxdmFWb3Y1bGxEcUlKY00xWlBWYWttVzlvT19xVlNvTUxkWGJ6dmdsYVhkR3h4WTlweDdsOW9JNlJNQ2tGQnc2SUFKVUY0WWxxQUE3S0p4Mkt5Rm4yMVlEdkYzRFg4YjBESGk4S215YVZ4T19aTE0zYy04Y0Y1QQ?oc=5>
-
-### 特朗普总统说，他正在与俄罗斯和中国就无核化问题进行对话
+### 特朗普宣布取消枪决直播：许多善良的人不想看
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-10-16 11:51
-- 链接: <https://news.google.com/rss/articles/CBMiugFBVV95cUxOUHpnNHVHVGxGcDhzNTA4bzQ2Y3NaRk1hTjF1cjJpMXdJTGJucDJEZXpNd2ZrbW5wek1ScUNRbmFYbVVCMldaVDBPSFJtS1RScExnTDJOS1hEc2FqRENTQV9YNkpFcTBuWmFPcVRFTkRheDNEU3Q1YUxFc2x6d2QxdllWZlM5RXQ0R3hWRjF5M1NlcHh4MXJHNThKLTVuZmRkeWRwZFJSbzN5UmFiVXZybGRaY2hJUzRzUFHSAbwBQVVfeXFMUEttc2hzS29kdTMtVDZ6b3hTYXRpRVVzRmJ3bW9vWWlpZDV4SEl4OFJZeEthU29mb2E1dDY5dDhuS1kyY1Q3V1h4U2pHTnJVT1IyemMwcHNvRkFSTklTaUlMUWVhZDROMU8xSEJOenRPVEozUGhCVVZLSkxxUGllOWVDczQwb3BqWUlQbXpJQ20yU2dEWmI5aUl0NDRHS2dPMHlpdDBJRG5ILWlUS2tHZmJyMEZzNlFsN19SYzg?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-10-16 18:35
+- 链接: <https://news.google.com/rss/articles/CBMijgFBVV95cUxONmVVMjJHNVpfZnZsY043Y3NXZFU4T0ZTcHNJNG5WZG5KLWNMYjhtN2pSTU16d3gtUkRybXBXZzFuNmR3U0Q1eExNNXZKSzEyOHdoUjRPdjRoelVCa0R4LVZoUWxIYU9rR2c1bXVDc1NTcHNENlNyYVBVMzZvTU9nRENCZXFjZEtCSU9nRHd3?oc=5>
 
-### 特朗普称美正就无核化问题与中俄磋商，中方回应
+### “直播处决死刑犯”掀巨大反弹 特朗普宣布取消
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: DW.com
+- 时间: 2026-10-16 06:37
+- 链接: <https://news.google.com/rss/articles/CBMirgJBVV95cUxOcEhmTXN4VFVVRWtpR2tDSEMzVUxGcWRJaGhUS3BmMlBYbGFlNzFEc2Vlem5IaUNWRlJVRThyUkh0SkpkOW1GT3Y0OTNRSGFrQThXdFFXRHpteUtFTy1zV251Q1ZwOU4wXzg3czJiODk1bjljZXpaWHNjSHlhVHN2bFB1NnJDcDQtRnFDNzVVRmtRNTZUWVM4Ul8zSFZseThkdzRJak5iTFEzWEpvdFBUMGsxcmdtNG9Lb2F6WU1Jd2gwRV9fOWhpempHWmM4R0JOYkdLa3M4X2lYbHdVdFAtQTRiR3ItTHAtVEtuZFFoSXRpNHdKQ1dhTmN5UmFkMC0xVzhrRFlDWXFSaEZXT1dzVXE1S1M3TVhvb0pfWkx5R191VndtNVZPbk5ZZm5KUdIBrgJBVV95cUxPZWdVeXBsdG9uRDBta0Z6M0NjXzhEZzItZXlQOHJVZUh5b2Y3S0ZpUFk3NDJUZmFoTVdORVNpbDlrNmxoT0VncmlUbDlUc0w1bDUwaVgyOGcxSElVRmtoelZnejlJUUwxMnFwUVdFSEt1X091ZFRZTEM0S09vRHJNS2ZMS0ctNDNIQnRGVG1VTmZzdUdwMTcxMjl3ZGVpY0FsUHFoSG04Y1VnRVEtU09QcTF1dVEzaHRkQkVmWHdOcGd6VWlFYmpsdmxSdGhfbUJDbWVzLTY2ME12QTc3TzhndXZTSTl2NktjNUtSYzRaclA0Z3JocTNNOUN6Tkw3eVJnQlhJdGJrajN2MF9IaXZPUlhlM0tJNzhLZ1JqNlFGS1J4V1dROEVOSzRLVThuZw?oc=5>
+
+### 特朗普威胁：或炸伊朗“镐山”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-10-16 07:37
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1uU0YycTBVVnVPQWdleUpFUHpTYkRTdTFkZ0lQekpoVjFqLWZZZmtSVlg5QVpSYzVlaENrODFUaHlxam9sNzJJcUk5YmM?oc=5>
+- 时间: 2026-10-16 13:25
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9VUDRWbC1haVM5Sm51WXlOWDI1RFNRakFaVXo3dXBSbGVwZkN0NldmVkZyYy1HUEo5Ti1vd1J4YTB5a1dCWXdrVzAxMkQ?oc=5>
 
-### 特朗普称不会直播对胡德堡枪击案凶手的枪决
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-10-15 16:15
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE85emVDYUpIeURMMnJnUElDa0FCbVBBdDBEVGNEZTRHelYtQkZWYVZQZnJ2aWZZTlE0VHQ1aW94dlZCQzYyUDVmdUlpcWZFa3hYaXNfdzY5T0V1RU5yMl9jVDVKOVRHX3FGR2hPV0p6UHA0OVpqWElFdDNxQno5UlE?oc=5>
-
-### 特朗普称不会对伊朗用核武器|唐纳德·特朗普|美国总统|炸弹|地面部队|财讯
+### 响应特朗普要求！美国正让全球为人工智能改名 从“AI” 改口“SI”：硅谷巨头们开始响应
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-10-16 08:44
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE91c3pFT1ljU0tpWFpQUlZnYUppTWhETWstSFhENmNwMVYtVlBiZDZRU1AxOGVVSUxNcFZxd1FIYUJJV3ZucHhDT1k1WGNwOS1pdkxHMVdmQlh2TFpVYzBPMUdRc0VIVmQxX2ZvOExyd25JOTJOYl9WeA?oc=5>
+- 场馆: 驱动之家
+- 时间: 2026-10-16 05:08
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTFBLMVdRV25kZlNCMjk5NUU1a2NrMGpybi0tLU9yM3NPSlJvUlRqVHNSR0V5Qzh6WlY5aTFBMmRUajFrOXdrZE1JRWdsMWl4b2JpUHkxQlo4MFk?oc=5>
 
-### 美国专栏 - 美国对俄政策转向 冲击与乌克兰关系
+### 美国土安全部宣布2026财年边境越境人数创下美国历史最低纪录
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-10-16 12:03
-- 链接: <https://news.google.com/rss/articles/CBMi6gJBVV95cUxQWTBhRkgxSk1BQXdxRi15M3JCRWl2UW1sSXlhZWwwZlNRczk5S2pzbVNIdm40ejhYUlhkNGFwdzdvdlcxOWR0ZXc4cmtZME1IcW85SXlNOXhHanZ2eWJJcHlmSmUwanVtMUh2QkQyMkE1UmlCeWtoSGZsbXJ5Qm9wWklSMHZoN2ZCWFUzeXpLQ05pSmlaaWFmR2hOOXlWaUM3eG8tZXNaQUtQVjFyMDJzWnUwcS1kM1dNWFQyVUJaT1lUdXFHTWRQZnI1OEpXQjA5eVdHV1E4U01yeXplbEV6QXpvdGNjZTRpclNwNS1hcG9tTUlUUkRHaDRNdGZQNjNHdmlkQmE3Y1BxZHByYUhqbTBkdFV2NXdTSlBoM3NRVW1jSEd5cTkxZGFuYlB2a2ZiZlhVQ0hhdDR1UHZtenN6SlgyVWpWQzdvM0YzQ0VqbllMUVRzMmVnZHdHZlgwaTZoY0JJZWM1NC1XQQ?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-10-16 18:24
+- 链接: <https://news.google.com/rss/articles/CBMi9gFBVV95cUxNc3YwNEJfc2RCSHd6WGRFOFpNam5DY2stQ0pYUFk3WDNwYlM0VGNmTTdTZ3JuTWhfaTE2RWNYTjhXZmQ1RFJEOGRYVG8zVDFFbEdMalZKZzdhZngzcWxwdlM5MXRZdXp5TklBV21JM04wTnhYZGh1bVNveHlYQnZtLVpuVXZtd1dfZnNHXzdtX0I1aTM4VWdpREMxSC1hVU5MSEFIZnJPSm54VmhURGNwM0daSHpJU3RIOFJmSG9ZSTc2VHVTZEN5OEVQZHFJS2xzLW5CSXNuUnhQVDFNcHV0amZpTDhXcEZlYmQxX0w1THVQV19rb2fSAfgBQVVfeXFMTzVoOEhpUklRWlBiQ29NVlF2LTc2bC1Eb0JlcGotcnFmVTJrVk4weE5BM09YZE9oMlQ0Z0wxRmN0d0o4M19BTVpoeEVyc1U1cW1nNVFYcmJGTVRHcGU0YlhEZzVwcHNOUU1hbDI2SjYxZDgxOUM5ZzFvYTA0WHQzMWN0UVRyM3BTTnhxS0tEUUpiOUdsT3k4TWkxYlV3SF9IaTc3V3NaZjNwSTE1RFJqemNJSlNid1h5MHFkX0xzTDhvc01XNXhxWE9lM2pJVVpvOUlRQ1RwUU5OcTlJRWJjWGdaZWtFNGh6OXFFVFFQc1p2S0NLTTFyT0I?oc=5>
+
+### 特朗普排除了美军进驻伊朗的可能性，但并未排除对皮克克斯山进行空袭的可能性。
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Al-Monitor
+- 时间: 2026-10-16 14:22
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1JdXdRc185ZEFpcXhUSVA3X1ltTWRkYzJyRndoakpuS2hzbm9ScVRDNlB4Qk1TMy0zZ25GWFZZZllMeE1jSW5XTUw3bk5yZXhGYmJZQkdHREVkYTVyOHRNbmR5eGFVdw?oc=5>
+
+### $美光科技 (MU.US)$ 为trump投票
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-10-16 15:07
+- 链接: <https://news.google.com/rss/articles/CBMingFBVV95cUxPVHdjSW9scm1NZ1RpU1liYjNOLVhkVElHaFpuOF9oTndZaUtYLUdlWjh6aEgwZlBYeXBkZ1ZaYzRMVzhQcXV4UklISzB3VF9IZFg5enNXNG0tS3BZVS1nSWdTbi1ULXZWMVVXTVJlZEsyQnJZWWJUOVRfS1BRUnVZUEhwX0lFaTZYazFTMkg0Ym5SUE5LcUVJMDNKVEIxZw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-16 18:37  (10 条)
+
+- **特朗普** | 泽连斯基炮轰特朗普 关系紧张升级 <https://news.google.com/rss/articles/CBMicEFVX3lxTE1vcnlIY2lkcTFvZVZrWUM1YVVZZGx0STU5RU9FbFlMT0syYUR0RnVyazM4elNzOEpBY0RxaXlZdEdOTWU0TjdPdWZKQ3NBS0R0elozWjE4QkNpZjJHSHkwN28yMnY2a0tmWXpJazVVZTE?oc=5>
+- **特朗普** | 首场简报会表现糟糕，特朗普考虑更换白宫新闻秘书人选 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kS1RwQWoxLW1YanhBMWgzcU5IZE1iQjg1dEljRkR4X1JDTjFTdnlhM3lSazZfUE00NVBMa2F6WnY0b3k0ZGd0UkpIdXd0RlN2dERWOW5kMlcxMEp0WUJITg?oc=5>
+- **特朗普** | 特朗普解雇白宫新闻秘书扎卡里亚 <https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwSTJHbzRlNl9oSHpsZG50Z0hyNGliMEZTdENaaGw5alpCRXYzVUpqTmdVU1I2ODRuSTQ0OFZFTUJXVjhmekZPSkg2SGhZNVRLeFE?oc=5>
+- **特朗普** | 特朗普宣布取消枪决直播：许多善良的人不想看 <https://news.google.com/rss/articles/CBMijgFBVV95cUxONmVVMjJHNVpfZnZsY043Y3NXZFU4T0ZTcHNJNG5WZG5KLWNMYjhtN2pSTU16d3gtUkRybXBXZzFuNmR3U0Q1eExNNXZKSzEyOHdoUjRPdjRoelVCa0R4LVZoUWxIYU9rR2c1bXVDc1NTcHNENlNyYVBVMzZvTU9nRENCZXFjZEtCSU9nRHd3?oc=5>
+- **特朗普** | “直播处决死刑犯”掀巨大反弹 特朗普宣布取消 <https://news.google.com/rss/articles/CBMirgJBVV95cUxOcEhmTXN4VFVVRWtpR2tDSEMzVUxGcWRJaGhUS3BmMlBYbGFlNzFEc2Vlem5IaUNWRlJVRThyUkh0SkpkOW1GT3Y0OTNRSGFrQThXdFFXRHpteUtFTy1zV251Q1ZwOU4wXzg3czJiODk1bjljZXpaWHNjSHlhVHN2bFB1NnJDcDQtRnFDNzVVRmtRNTZUWVM4Ul8zSFZseThkdzRJak5iTFEzWEpvdFBUMGsxcmdtNG9Lb2F6WU1Jd2gwRV9fOWhpempHWmM4R0JOYkdLa3M4X2lYbHdVdFAtQTRiR3ItTHAtVEtuZFFoSXRpNHdKQ1dhTmN5UmFkMC0xVzhrRFlDWXFSaEZXT1dzVXE1S1M3TVhvb0pfWkx5R191VndtNVZPbk5ZZm5KUdIBrgJBVV95cUxPZWdVeXBsdG9uRDBta0Z6M0NjXzhEZzItZXlQOHJVZUh5b2Y3S0ZpUFk3NDJUZmFoTVdORVNpbDlrNmxoT0VncmlUbDlUc0w1bDUwaVgyOGcxSElVRmtoelZnejlJUUwxMnFwUVdFSEt1X091ZFRZTEM0S09vRHJNS2ZMS0ctNDNIQnRGVG1VTmZzdUdwMTcxMjl3ZGVpY0FsUHFoSG04Y1VnRVEtU09QcTF1dVEzaHRkQkVmWHdOcGd6VWlFYmpsdmxSdGhfbUJDbWVzLTY2ME12QTc3TzhndXZTSTl2NktjNUtSYzRaclA0Z3JocTNNOUN6Tkw3eVJnQlhJdGJrajN2MF9IaXZPUlhlM0tJNzhLZ1JqNlFGS1J4V1dROEVOSzRLVThuZw?oc=5>
+- **特朗普** | 特朗普威胁：或炸伊朗“镐山” <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9VUDRWbC1haVM5Sm51WXlOWDI1RFNRakFaVXo3dXBSbGVwZkN0NldmVkZyYy1HUEo5Ti1vd1J4YTB5a1dCWXdrVzAxMkQ?oc=5>
+- **特朗普** | 响应特朗普要求！美国正让全球为人工智能改名 从“AI” 改口“SI”：硅谷巨头们开始响应 <https://news.google.com/rss/articles/CBMiWEFVX3lxTFBLMVdRV25kZlNCMjk5NUU1a2NrMGpybi0tLU9yM3NPSlJvUlRqVHNSR0V5Qzh6WlY5aTFBMmRUajFrOXdrZE1JRWdsMWl4b2JpUHkxQlo4MFk?oc=5>
+- **Trump** | 美国土安全部宣布2026财年边境越境人数创下美国历史最低纪录 <https://news.google.com/rss/articles/CBMi9gFBVV95cUxNc3YwNEJfc2RCSHd6WGRFOFpNam5DY2stQ0pYUFk3WDNwYlM0VGNmTTdTZ3JuTWhfaTE2RWNYTjhXZmQ1RFJEOGRYVG8zVDFFbEdMalZKZzdhZngzcWxwdlM5MXRZdXp5TklBV21JM04wTnhYZGh1bVNveHlYQnZtLVpuVXZtd1dfZnNHXzdtX0I1aTM4VWdpREMxSC1hVU5MSEFIZnJPSm54VmhURGNwM0daSHpJU3RIOFJmSG9ZSTc2VHVTZEN5OEVQZHFJS2xzLW5CSXNuUnhQVDFNcHV0amZpTDhXcEZlYmQxX0w1THVQV19rb2fSAfgBQVVfeXFMTzVoOEhpUklRWlBiQ29NVlF2LTc2bC1Eb0JlcGotcnFmVTJrVk4weE5BM09YZE9oMlQ0Z0wxRmN0d0o4M19BTVpoeEVyc1U1cW1nNVFYcmJGTVRHcGU0YlhEZzVwcHNOUU1hbDI2SjYxZDgxOUM5ZzFvYTA0WHQzMWN0UVRyM3BTTnhxS0tEUUpiOUdsT3k4TWkxYlV3SF9IaTc3V3NaZjNwSTE1RFJqemNJSlNid1h5MHFkX0xzTDhvc01XNXhxWE9lM2pJVVpvOUlRQ1RwUU5OcTlJRWJjWGdaZWtFNGh6OXFFVFFQc1p2S0NLTTFyT0I?oc=5>
+- **Trump** | 特朗普排除了美军进驻伊朗的可能性，但并未排除对皮克克斯山进行空袭的可能性。 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1JdXdRc185ZEFpcXhUSVA3X1ltTWRkYzJyRndoakpuS2hzbm9ScVRDNlB4Qk1TMy0zZ25GWFZZZllMeE1jSW5XTUw3bk5yZXhGYmJZQkdHREVkYTVyOHRNbmR5eGFVdw?oc=5>
+- **Trump** | $美光科技 (MU.US)$ 为trump投票 <https://news.google.com/rss/articles/CBMingFBVV95cUxPVHdjSW9scm1NZ1RpU1liYjNOLVhkVElHaFpuOF9oTndZaUtYLUdlWjh6aEgwZlBYeXBkZ1ZaYzRMVzhQcXV4UklISzB3VF9IZFg5enNXNG0tS3BZVS1nSWdTbi1ULXZWMVVXTVJlZEsyQnJZWWJUOVRfS1BRUnVZUEhwX0lFaTZYazFTMkg0Ym5SUE5LcUVJMDNKVEIxZw?oc=5>
 
 ### 2026-10-16 14:57  (13 条)
 
