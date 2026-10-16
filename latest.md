@@ -1,88 +1,87 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-16 00:56**
-- 本轮扫到 13924 条, 新增 **9** 条
+- 最近更新: **2026-10-16 05:24**
+- 本轮扫到 13932 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (9 条)
+## 本轮新发现 (8 条)
 
-### 美国防长直播枪决哈桑计划被特朗普推翻，仍将按计划执行
+### 肖战2026巡演官宣，粉丝称没票再想办法
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002t188.html>
+
+### 蔡徐坤任起亚品牌代言人，新加坡演唱会同步官宣
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879924057_m1d5ae195903301p9zq.html>
+
+### “埃尔多安会照做”！特朗普高调点名土耳其，联手沙特打击胡塞
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-10-16 05:12
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE9uQm5xUFF6X1o1b3pqbkFWekVaYW1xd2tuZEFrVFpuVUhoWng1eTVuRU54M2FkVUpOMWktZkFkS1lybXJGNGV2TmVJemRIVmpzaEZRcEx0d2NTRS1KLVFjQ0V1dXplRWJhNlFLc0VNTWdlUQ?oc=5>
+
+### 特朗普：泽连斯基太可耻，我不太喜欢他，不好相处
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-10-15 23:17
-- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TQVVkcmNoT2FzTjdITnpjZDZHTGYyeVE4OTNUb3pLNklUZjJodUhtbXo1REZ1LU90SGZMakdOWmhweVEtQjhnYmZpU2pZZERCOWc?oc=5>
+- 时间: 2026-10-16 02:29
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFA1TGo5bnBHcGs4WDBPSE1YMVEwRTBYb2hpWGlVZ3J6U1FqcS16eXVvaHZ1ZjF2NjBoeUdKems4OTU0NzZ2R2c3OHdOR28?oc=5>
 
-### 特朗普称不会直播对胡德堡枪击案凶手的枪决
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻
-- 时间: 2026-10-15 23:28
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE9FaFB1QmRvdy1iMlRJUEVCOXA0SllGUmI4YmdnbmVnUFRtTGxEbGozd3FOQ29jZExNR2hHOTEyNDZzVlU0SGdkWlJaN1k3TEZWOEZzT3pFS3p5MEYwcGM4QUVBblVhYlVLeUdnOWV4S1RDVHRi?oc=5>
-
-### 特朗普白宫宴会厅捐款名单曝光：苹果、英伟达各2500万美元为单笔最高金额
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 驱动之家
-- 时间: 2026-10-15 16:15
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTFAtbTUyLXR4NXZtX05EWGFXM1JHVGZpcTBrWktfOGZBdzQtSGMzanJISVRPWlhrWXJPQVpIWWpneFZwcWRlVUducFg1V1h6bWE4b1FnTm9Rc0w?oc=5>
-
-### 特朗普外孙白宫庆生 伊万卡晒图配文
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-16 00:33
-- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qMHRZUUg2UFBTeVNUVzlOcmUyaFpWVE5wa3FJeHJfdDl6azBaU09CUmN5Y3oxeGc3ekhjUm9XUHdPVHlhbHVwdlNzVWdwcHdCbHc?oc=5>
-
-### 强制给AI更名 特朗普：谁不改成SI谁就是白宫敌人
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: QQ News
-- 时间: 2026-10-08 22:54
-- 链接: <https://news.google.com/rss/articles/CBMiVkFVX3lxTE1hV3djRFJpRzNwbk1uRmZ0NEctS1gtWW4tYlpTekd0NWNPdEpvdXgtNllGemlPdnZ5LUxHSXVjRGdUMmx6X0xic3pjRU5IRnk3N2RQQkVB?oc=5>
-
-### 【美国中期选举】特朗普：向媒体泄密者应被枪毙
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-10-15 00:23
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE44VkJ3Mjk0WFpKeWVRU25iYXJ1Z09RaUpPRndGUVNlLVF6RldNemRReUFsM3ptVmQ3bjU0NTA0WFBOcGx1S3AtcTctR2RNLTZ1cFVBZWhlYnVKSnJfVG1pcmNqRjQwQQ?oc=5>
-
-### 特朗普11月赴菲律宾出席东盟峰会 行程已确认
+### 特朗普称美国即将在格陵兰岛大规模勘探，格陵兰岛官员否认
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 中华网
-- 时间: 2026-10-16 00:20
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE44Y1Z0T2RXNFFJbUQyVGNFaHMzZ0NxWURBRmFOaUJEOGVUYUNTdE42QTN1OFFob1ltN3Rtd1JqVXBfOGtjWkYtLUdxbWsxNktWLVBVVnRHZzBxX3JTUUJqb051c1pqc1R0cUdBZG9keVc?oc=5>
+- 时间: 2026-10-16 03:47
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1CNEVJUTkzcko0ZGhjaE5TZEFpa0NMdXpueXRENjdaUFJzbC03RTlHa2Q0V1Vna1YxVHFPeURqd21ERGRNUm5fN2R0MEFHRHdkQXJNV3lweTFfZFdBdXBjcVA5aXhYQXd2Q1hEelVQQ1o?oc=5>
 
-### 要求取消与俄的协议公开反对的还包括​|美国政坛|Trump|Pence|共和党参议员
+### 特朗普称美国不会对伊朗动用核武器
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-10-15 18:01
-- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTE9la3ozb014T1RCbjVDZ19HNDBCUkctY2tFcHdqU3FVVk1oVXU0aDBKU0dWY2FvdHVFMWFuZ0x4eW1vbVAyU3k3UnFPV1k5Tnhob0RzeVU2aU1ZNWhhZEdYb1VkNA?oc=5>
+- 场馆: 央视网
+- 时间: 2026-10-16 01:42
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE8yaUNxc3dGWW41M1d4d0tDdmVmU1oyM2czZkcxYkg4UGpBVFBsWUViUXRUNno5MFM3UFhsZEZNN0hVcElOSENZeW80QVJrSmVpaEc5R1gycDd4YUJ2Zm0tWE9YcXdBT1Bla0FJdm03bW9pbXRLWVExZQ?oc=5>
 
-### 英伟达、思科等科技公司向特朗普白宫宴会厅捐赠
+### 特朗普被问新闻秘书在哪过的律考 回答引发履历争议
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-10-16 02:55
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBIcGU2Q1JtUWFzRUJ0ZUozVm5RQXEyUEU0RUgtbExjVXNQSEVpQ1JTUV84V0liU2QwQ09QOEhpYkxCSkE0RVBCQWhxUEk0WlNkbGZUbElNaHphOHU3WDFwYkRDeG1TSDYwcmFJcVhMSno?oc=5>
+
+### $Meta Platforms (META.US)$ 这里是Donald trump[吃瓜][吃瓜][吃瓜]
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: Moomoo
-- 时间: 2026-10-15 23:59
-- 链接: <https://news.google.com/rss/articles/CBMirAFBVV95cUxPRzdYaXZlb0paRkFqd3kxZTkzOEhDY2RTT3JUOHNFY3VaNk1qT3k2WXFwVnl3VHdRZ080N2ZGSDd4cVJhVm9FUGFBclJ5aW1vZWJITjJLN3BHdE90bUg0cWZCTjV6SDBBUTVNbmQ4bkdhLU5OM3NqbWRDX20xWUNXSEZ6dXZPeERLQ0N2ZDFfdHR2RG95cGNfYjNVUkRIZG84QlpwM19GY3diRmtO?oc=5>
+- 时间: 2026-10-13 13:58
+- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZUI5VFNwTTdJM0RyOEZlSXVWYTNZZXB0dkZrR1lESzV5ZGp4WE42X2h2am9HMUZ3WGRuTHVINW5sb1ZOWkxocmdDeExJblEwZTRBX3U0X2xyejVpYUxKVUpDLVJqNkVtRjNJYzdRVGJTRG1ycncyOFZqWTdqQnUzZ3NSYVNialRVZks1UTN6aDdTM00yMm42T1NaVUp5RkZQRERhZGc5bE9sZw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-16 05:24  (8 条)
+
+- **王一博** | 肖战2026巡演官宣，粉丝称没票再想办法 <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002t188.html>
+- **蔡徐坤** | 蔡徐坤任起亚品牌代言人，新加坡演唱会同步官宣 <https://k.sina.com.cn/article_7879924057_m1d5ae195903301p9zq.html>
+- **特朗普** | “埃尔多安会照做”！特朗普高调点名土耳其，联手沙特打击胡塞 <https://news.google.com/rss/articles/CBMickFVX3lxTE9uQm5xUFF6X1o1b3pqbkFWekVaYW1xd2tuZEFrVFpuVUhoWng1eTVuRU54M2FkVUpOMWktZkFkS1lybXJGNGV2TmVJemRIVmpzaEZRcEx0d2NTRS1KLVFjQ0V1dXplRWJhNlFLc0VNTWdlUQ?oc=5>
+- **特朗普** | 特朗普：泽连斯基太可耻，我不太喜欢他，不好相处 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFA1TGo5bnBHcGs4WDBPSE1YMVEwRTBYb2hpWGlVZ3J6U1FqcS16eXVvaHZ1ZjF2NjBoeUdKems4OTU0NzZ2R2c3OHdOR28?oc=5>
+- **特朗普** | 特朗普称美国即将在格陵兰岛大规模勘探，格陵兰岛官员否认 <https://news.google.com/rss/articles/CBMicEFVX3lxTE1CNEVJUTkzcko0ZGhjaE5TZEFpa0NMdXpueXRENjdaUFJzbC03RTlHa2Q0V1Vna1YxVHFPeURqd21ERGRNUm5fN2R0MEFHRHdkQXJNV3lweTFfZFdBdXBjcVA5aXhYQXd2Q1hEelVQQ1o?oc=5>
+- **特朗普** | 特朗普称美国不会对伊朗动用核武器 <https://news.google.com/rss/articles/CBMieEFVX3lxTE8yaUNxc3dGWW41M1d4d0tDdmVmU1oyM2czZkcxYkg4UGpBVFBsWUViUXRUNno5MFM3UFhsZEZNN0hVcElOSENZeW80QVJrSmVpaEc5R1gycDd4YUJ2Zm0tWE9YcXdBT1Bla0FJdm03bW9pbXRLWVExZQ?oc=5>
+- **特朗普** | 特朗普被问新闻秘书在哪过的律考 回答引发履历争议 <https://news.google.com/rss/articles/CBMicEFVX3lxTFBIcGU2Q1JtUWFzRUJ0ZUozVm5RQXEyUEU0RUgtbExjVXNQSEVpQ1JTUV84V0liU2QwQ09QOEhpYkxCSkE0RVBCQWhxUEk0WlNkbGZUbElNaHphOHU3WDFwYkRDeG1TSDYwcmFJcVhMSno?oc=5>
+- **Trump** | $Meta Platforms (META.US)$ 这里是Donald trump[吃瓜][吃瓜][吃瓜] <https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZUI5VFNwTTdJM0RyOEZlSXVWYTNZZXB0dkZrR1lESzV5ZGp4WE42X2h2am9HMUZ3WGRuTHVINW5sb1ZOWkxocmdDeExJblEwZTRBX3U0X2xyejVpYUxKVUpDLVJqNkVtRjNJYzdRVGJTRG1ycncyOFZqWTdqQnUzZ3NSYVNialRVZks1UTN6aDdTM00yMm42T1NaVUp5RkZQRERhZGc5bE9sZw?oc=5>
 
 ### 2026-10-16 00:56  (9 条)
 
