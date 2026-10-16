@@ -1,48 +1,100 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-15 22:54**
-- 本轮扫到 13915 条, 新增 **4** 条
+- 最近更新: **2026-10-16 00:56**
+- 本轮扫到 13924 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (9 条)
 
-### 特朗普总统承诺对格陵兰进行“大规模”石油勘探，引发有关格陵兰法律程序的问题
+### 美国防长直播枪决哈桑计划被特朗普推翻，仍将按计划执行
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-10-15 21:50
-- 链接: <https://news.google.com/rss/articles/CBMi-gFBVV95cUxQbmFxSUQwc2dPd21xZ0JSaEt6bm12d1I4a2t0am9aN212TFhMTHFQWDhQeWZVT0ZDX1EwMG1GUGt5LVBUTjZaM3A5RXpGWDFwejExcG1nVVJXQlFIUFNPd09OSHB5bGlqeFg4TlI2Ul9XNnRtQ1E4MFVIS19makF0R19jdFJGdzVPZlZpNnNWaVNwcTZjRTYzYUE4QW5tYkhuMDl3ZUhOTUg2aG1wT3RxLUcwa0lrZnNyYTJkcjdrbkpDcWdmcmIxbl93c0c5SndLVXBwczh6aXdfRUFPQUxDUTZxRUc3SEk0TGFRaV81YzZBNDNFNGRGSEhn0gH8AUFVX3lxTE9BSDJ3WmplTGtkQURyLXlDeV8wYnZiSGJEMGhZSU5OelFwQjlxR3EtZmhIc1dfQmNxSW5Nd0JVR0ZlSENtU3NxdTdlc3BaYWRJSk00S1Z2M0E4UGdHcXVkT0tmejk1Y0YxTmRtaTJvSVd3TVRYUEJYS3hGN2hxVVlOMGF6MnRiTENaZzlZQ1JDRkV3SzJNbzdwUHpyZ2RTSkEtX2tVa2hyaG81V1YwVXRDVFRUczNDZGR4X0U4VXd4REhxU0lBVHRITlVwb1RhMlNGc1NrVHJtREg5REpaTU9XNERpVWl3cU5fZGxsUVMycTR2R2dEcXkzU01uVA?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-10-15 23:17
+- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TQVVkcmNoT2FzTjdITnpjZDZHTGYyeVE4OTNUb3pLNklUZjJodUhtbXo1REZ1LU90SGZMakdOWmhweVEtQjhnYmZpU2pZZERCOWc?oc=5>
 
 ### 特朗普称不会直播对胡德堡枪击案凶手的枪决
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-15 22:23
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9pc2xPTlBOcWdXUDV0VHlPbHBKb3E3Z0twekJYZFIybmtFTEh5bFhDLWFTTGMwWGtoejBUYkxHQXZmX3o3NVJ4eXNuYTc?oc=5>
+- 场馆: 新浪新闻
+- 时间: 2026-10-15 23:28
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE9FaFB1QmRvdy1iMlRJUEVCOXA0SllGUmI4YmdnbmVnUFRtTGxEbGozd3FOQ29jZExNR2hHOTEyNDZzVlU0SGdkWlJaN1k3TEZWOEZzT3pFS3p5MEYwcGM4QUVBblVhYlVLeUdnOWV4S1RDVHRi?oc=5>
 
 ### 特朗普白宫宴会厅捐款名单曝光：苹果、英伟达各2500万美元为单笔最高金额
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网科技
-- 时间: 2026-10-15 22:28
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE42NXcyd1BDN1NmOHVjdndPZkVkZWF6NHY1dy1NY0s2NUxFWDJ5R1FsQ1haN2wzQVFUZ20tQXE0U2VDa0xCdEhES0RaWWg?oc=5>
+- 场馆: 驱动之家
+- 时间: 2026-10-15 16:15
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTFAtbTUyLXR4NXZtX05EWGFXM1JHVGZpcTBrWktfOGZBdzQtSGMzanJISVRPWlhrWXJPQVpIWWpneFZwcWRlVUducFg1V1h6bWE4b1FnTm9Rc0w?oc=5>
 
-### 泽连斯基：乌克兰失去了美国，特朗普站在了错误一边，美俄柴油协议引发美乌关系恶化
+### 特朗普外孙白宫庆生 伊万卡晒图配文
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-10-15 06:17
-- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTFBIRUIzM0lINjFnendibTB1V09xcUFTVkNINkNsTGFiOWxkbXpMU2VsOTJQeWtKTHFNWld3bGx0SVpYcW12M2xHbnZCcmhxbEVTOHc?oc=5>
+- 时间: 2026-10-16 00:33
+- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qMHRZUUg2UFBTeVNUVzlOcmUyaFpWVE5wa3FJeHJfdDl6azBaU09CUmN5Y3oxeGc3ekhjUm9XUHdPVHlhbHVwdlNzVWdwcHdCbHc?oc=5>
+
+### 强制给AI更名 特朗普：谁不改成SI谁就是白宫敌人
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: QQ News
+- 时间: 2026-10-08 22:54
+- 链接: <https://news.google.com/rss/articles/CBMiVkFVX3lxTE1hV3djRFJpRzNwbk1uRmZ0NEctS1gtWW4tYlpTekd0NWNPdEpvdXgtNllGemlPdnZ5LUxHSXVjRGdUMmx6X0xic3pjRU5IRnk3N2RQQkVB?oc=5>
+
+### 【美国中期选举】特朗普：向媒体泄密者应被枪毙
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-10-15 00:23
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE44VkJ3Mjk0WFpKeWVRU25iYXJ1Z09RaUpPRndGUVNlLVF6RldNemRReUFsM3ptVmQ3bjU0NTA0WFBOcGx1S3AtcTctR2RNLTZ1cFVBZWhlYnVKSnJfVG1pcmNqRjQwQQ?oc=5>
+
+### 特朗普11月赴菲律宾出席东盟峰会 行程已确认
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-10-16 00:20
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE44Y1Z0T2RXNFFJbUQyVGNFaHMzZ0NxWURBRmFOaUJEOGVUYUNTdE42QTN1OFFob1ltN3Rtd1JqVXBfOGtjWkYtLUdxbWsxNktWLVBVVnRHZzBxX3JTUUJqb051c1pqc1R0cUdBZG9keVc?oc=5>
+
+### 要求取消与俄的协议公开反对的还包括​|美国政坛|Trump|Pence|共和党参议员
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 手机新浪网
+- 时间: 2026-10-15 18:01
+- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTE9la3ozb014T1RCbjVDZ19HNDBCUkctY2tFcHdqU3FVVk1oVXU0aDBKU0dWY2FvdHVFMWFuZ0x4eW1vbVAyU3k3UnFPV1k5Tnhob0RzeVU2aU1ZNWhhZEdYb1VkNA?oc=5>
+
+### 英伟达、思科等科技公司向特朗普白宫宴会厅捐赠
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-10-15 23:59
+- 链接: <https://news.google.com/rss/articles/CBMirAFBVV95cUxPRzdYaXZlb0paRkFqd3kxZTkzOEhDY2RTT3JUOHNFY3VaNk1qT3k2WXFwVnl3VHdRZ080N2ZGSDd4cVJhVm9FUGFBclJ5aW1vZWJITjJLN3BHdE90bUg0cWZCTjV6SDBBUTVNbmQ4bkdhLU5OM3NqbWRDX20xWUNXSEZ6dXZPeERLQ0N2ZDFfdHR2RG95cGNfYjNVUkRIZG84QlpwM19GY3diRmtO?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-16 00:56  (9 条)
+
+- **特朗普** | 美国防长直播枪决哈桑计划被特朗普推翻，仍将按计划执行 <https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TQVVkcmNoT2FzTjdITnpjZDZHTGYyeVE4OTNUb3pLNklUZjJodUhtbXo1REZ1LU90SGZMakdOWmhweVEtQjhnYmZpU2pZZERCOWc?oc=5>
+- **特朗普** | 特朗普称不会直播对胡德堡枪击案凶手的枪决 <https://news.google.com/rss/articles/CBMidEFVX3lxTE9FaFB1QmRvdy1iMlRJUEVCOXA0SllGUmI4YmdnbmVnUFRtTGxEbGozd3FOQ29jZExNR2hHOTEyNDZzVlU0SGdkWlJaN1k3TEZWOEZzT3pFS3p5MEYwcGM4QUVBblVhYlVLeUdnOWV4S1RDVHRi?oc=5>
+- **特朗普** | 特朗普白宫宴会厅捐款名单曝光：苹果、英伟达各2500万美元为单笔最高金额 <https://news.google.com/rss/articles/CBMiWEFVX3lxTFAtbTUyLXR4NXZtX05EWGFXM1JHVGZpcTBrWktfOGZBdzQtSGMzanJISVRPWlhrWXJPQVpIWWpneFZwcWRlVUducFg1V1h6bWE4b1FnTm9Rc0w?oc=5>
+- **特朗普** | 特朗普外孙白宫庆生 伊万卡晒图配文 <https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qMHRZUUg2UFBTeVNUVzlOcmUyaFpWVE5wa3FJeHJfdDl6azBaU09CUmN5Y3oxeGc3ekhjUm9XUHdPVHlhbHVwdlNzVWdwcHdCbHc?oc=5>
+- **特朗普** | 强制给AI更名 特朗普：谁不改成SI谁就是白宫敌人 <https://news.google.com/rss/articles/CBMiVkFVX3lxTE1hV3djRFJpRzNwbk1uRmZ0NEctS1gtWW4tYlpTekd0NWNPdEpvdXgtNllGemlPdnZ5LUxHSXVjRGdUMmx6X0xic3pjRU5IRnk3N2RQQkVB?oc=5>
+- **特朗普** | 【美国中期选举】特朗普：向媒体泄密者应被枪毙 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE44VkJ3Mjk0WFpKeWVRU25iYXJ1Z09RaUpPRndGUVNlLVF6RldNemRReUFsM3ptVmQ3bjU0NTA0WFBOcGx1S3AtcTctR2RNLTZ1cFVBZWhlYnVKSnJfVG1pcmNqRjQwQQ?oc=5>
+- **特朗普** | 特朗普11月赴菲律宾出席东盟峰会 行程已确认 <https://news.google.com/rss/articles/CBMicEFVX3lxTE44Y1Z0T2RXNFFJbUQyVGNFaHMzZ0NxWURBRmFOaUJEOGVUYUNTdE42QTN1OFFob1ltN3Rtd1JqVXBfOGtjWkYtLUdxbWsxNktWLVBVVnRHZzBxX3JTUUJqb051c1pqc1R0cUdBZG9keVc?oc=5>
+- **Trump** | 要求取消与俄的协议公开反对的还包括​|美国政坛|Trump|Pence|共和党参议员 <https://news.google.com/rss/articles/CBMiY0FVX3lxTE9la3ozb014T1RCbjVDZ19HNDBCUkctY2tFcHdqU3FVVk1oVXU0aDBKU0dWY2FvdHVFMWFuZ0x4eW1vbVAyU3k3UnFPV1k5Tnhob0RzeVU2aU1ZNWhhZEdYb1VkNA?oc=5>
+- **Trump** | 英伟达、思科等科技公司向特朗普白宫宴会厅捐赠 <https://news.google.com/rss/articles/CBMirAFBVV95cUxPRzdYaXZlb0paRkFqd3kxZTkzOEhDY2RTT3JUOHNFY3VaNk1qT3k2WXFwVnl3VHdRZ080N2ZGSDd4cVJhVm9FUGFBclJ5aW1vZWJITjJLN3BHdE90bUg0cWZCTjV6SDBBUTVNbmQ4bkdhLU5OM3NqbWRDX20xWUNXSEZ6dXZPeERLQ0N2ZDFfdHR2RG95cGNfYjNVUkRIZG84QlpwM19GY3diRmtO?oc=5>
 
 ### 2026-10-15 22:54  (4 条)
 
