@@ -1,40 +1,73 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-17 21:10**
-- 本轮扫到 14018 条, 新增 **3** 条
+- 最近更新: **2026-10-17 23:16**
+- 本轮扫到 14024 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (3 条)
+## 本轮新发现 (6 条)
 
-### 美总统特朗普重启美黎直飞航班的计划遇阻
+### 特朗普：有人对我说“祝你选举好运”，我说“我已经赢了。”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-10-16 17:16
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTFBKeTF4R2xPTzRzY0FKV0JoY01vS2FoYTRBSFVXNEFDUlFKaTJCVTRlamphelMwWXdKLUpOSV83YVdTZTRteVpXbXh0ZlBiRzZhSVlTNzBwLTJLRjBUT1Zydk9oZDZweUdRWXRneDZ1czJhSkh5?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-10-17 21:10
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFA0SzZ0SHZKUW1NbzhHZE9NenVHejdGZzZXQTVqbVplTmt2T2tSV29NMy1uWXN1MjV0RkhnS3FwQjF0Y1B1ZnFHM0g1UQ?oc=5>
 
-### 中国国有贸易商重启美国大豆采购，峰会后首批大额订单引关注
+### 特朗普：民众明白对伊朗开战并非需要付出巨大代价。
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-10-15 18:03
-- 链接: <https://news.google.com/rss/articles/CBMivwFBVV95cUxPaGN2MW10Q21wQWdTWnpOOUd6amEzTW54TWVISDAxUkVMLVRXdFhmbEh4cVRTR09ocWd4NzF5WGE3WklRV2taVDFMbzYwU19FUmJNU0k2SUxnVHEzV3FzNm94cjZYQVZNRzdZZW9QaG5TNVBaalBTam5HdjY1OUtuMy01ZnRMbW1PZ3Jjd1JTZGZsaGhGTnVxSFk5OUpYaWlqOFpDZVJjRm10eDRudHdJY0stcGRQenpVZC1UZVNDUdIBwgFBVV95cUxOWWV6bDZGUktmQmdQdU5XTFh4TzBVTUk0aEtXWmxHcWpoYWtiOWVwcEZSVnlYWURTZmtsVXpFNm1jWEI2M1lmY0UxVzh5ZlNyOTg1cUlfTmZJaWxSY3A3VTFwX1ZOYnRlc3BmSDJHWDNVV3hoZEpMUmNxQ0Vod2lYcFUzSlVCOGNYU2ZXem9PSFJiZ292R09HMW5ydHZHcUJuLUN2WFdsN2tOTFp1b2ZQUG5TN0x3UURuV1E4VXF6Y2dGdw?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-10-17 19:51
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFA0YnlLTXVGa1pQVXpWakV5dzNHWGc2cm9ENXRFVFVSWFhKbG9nWVJha2VEa1Z2UFh3MHI2b0ZiMTRxU0dpQWdzb29oQQ?oc=5>
 
-### 随着特朗普再次威胁要撤出皮克克斯山，与伊朗进行外交谈判的窗口可能正在关闭。
+### 特朗普：即将前往堪萨斯州，提振共和党在中期选举中的支持率。
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Al-Monitor
+- 场馆: 新浪网
 - 时间: 2026-10-17 19:54
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1TVFJDUDAydGFRY1pXN3NEaDNLWE1FUW9zM0MtcjBrSkF1VjRTN2xLNHJueXFENlEzXzh6QTZWWFA5ZG5Tem5HNFJwOU9vRGlpYW5YazdNd2xPNWJWUi1weUs2UDQxdw?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5IR3pqY2s2UjhZZFNaSHdlNjRocUVGeXl0OUNycWpBVVl5aFZycXgtV0p1Vk1VYUhybU05ZzFneFlQamt4cDdRbUlxRQ?oc=5>
+
+### 特朗普豁免《格雷厄姆法案》中多项对俄制裁、限制措施及关税
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-10-17 00:55
+- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE85Y1RhX0QwM0w4RDBjcEpXYjdWeWZVX25OdDJzY2hZUWhyanhJa1d6U2ZGSEkzVHZPbmhKeFNIeW9kQ2s4RFRiOUpIY2lWbGpaLXpselJtWldacHVLTDl3TGNDa1BYcGQ5M2s1azVfamlCdDBUMGNCc3J3?oc=5>
+
+### 无视特朗普促和努力 俄罗斯和乌克兰继续相互打击
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-10-16 22:28
+- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxNcWRrQ185SHZJRGFKbWdrUXIxMjZBWjRkQUkySm9wVlB6NkZtY3VtTVJkck1FQ2YyTnYzTU5OMHlnVG5tVUc4YXVjaDFKNTRPbE9pYW9JZWNad0lGMVJaQXFNY1JrZ3I3cVpTVWdSLXMtOTNzWWg0V21RdGJUVHNFMDZpS09lSDdLNUR4bGRTQQ?oc=5>
+
+### 特朗普：预计中国核武库在五年内赶上美国
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: DW.com
+- 时间: 2026-10-17 07:35
+- 链接: <https://news.google.com/rss/articles/CBMioAJBVV95cUxPTktTRlJ0QkNPdUVfUlAzbXZJTDJnX3AzblAteEFqakVnODRhd29WSnhfbTR1NEhNbWxsUWhHU1VpT2lnQWFqVm5yal9fNUpUMmNTc1kxblJkVEwxYnkyN2dkSzZNdTB5YUhYZTdVUkNKNF9Ya045NHdXYXY0UjhDYkdNMHZ3T0dMTDZFdEhBbXJrbm5nNFV1aFBvcVBNcXhnZXVXcmhYb3dEV1Z1bVRER1kyT2ljT3lnSXRYV3hzUmF6VnVIT1FLVUt3SnlLZC1LWjl1anhLeUxHd2REbkNXN2NUeW1OYUNMYXE4NUt0SHBxcWxRWHBGdjBCOXZucHk4VHdtSWh3SnZ4YW5jb1cyUGFKRnBlVmZzc0o4d3VLekHSAaACQVVfeXFMTXoyM2ZRRG5rZE4yV3dyNGlEdENBRkR3Y2EtWVRKRHZWWnZTOTJ1eXZQaWFLWnV0d3BnTHdSc1dPUTJaRmVudXNnQWVoTEhFeDBWeVZNa21EYW5ZYW1BcExMdjRWNUxOVmYtLVNMT1JtQ0dyRjEzVUdwVXBoZmRCVWYwR0U1eHpxNWktdVFjYjRYRjVOZFZDckpyMXRuTHpNcVoyRDlKMDFpVmdla3ppS21hTDRhS0hIS1pqZzBlaW03NnNRZUdpM19vREt5Ty1ZN1h6TjVCaTlNSEhmUGg4TDVGbHZWbWZNMEZWRllkSHVlY180b3JLRVgzVkRjSzJGR3lab1NWZlNUUWhHUDhzajRLdDFDOVpnU3MyaDlNYWhp?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-17 23:16  (6 条)
+
+- **特朗普** | 特朗普：有人对我说“祝你选举好运”，我说“我已经赢了。” <https://news.google.com/rss/articles/CBMiS0FVX3lxTFA0SzZ0SHZKUW1NbzhHZE9NenVHejdGZzZXQTVqbVplTmt2T2tSV29NMy1uWXN1MjV0RkhnS3FwQjF0Y1B1ZnFHM0g1UQ?oc=5>
+- **特朗普** | 特朗普：民众明白对伊朗开战并非需要付出巨大代价。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTFA0YnlLTXVGa1pQVXpWakV5dzNHWGc2cm9ENXRFVFVSWFhKbG9nWVJha2VEa1Z2UFh3MHI2b0ZiMTRxU0dpQWdzb29oQQ?oc=5>
+- **特朗普** | 特朗普：即将前往堪萨斯州，提振共和党在中期选举中的支持率。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5IR3pqY2s2UjhZZFNaSHdlNjRocUVGeXl0OUNycWpBVVl5aFZycXgtV0p1Vk1VYUhybU05ZzFneFlQamt4cDdRbUlxRQ?oc=5>
+- **特朗普** | 特朗普豁免《格雷厄姆法案》中多项对俄制裁、限制措施及关税 <https://news.google.com/rss/articles/CBMiekFVX3lxTE85Y1RhX0QwM0w4RDBjcEpXYjdWeWZVX25OdDJzY2hZUWhyanhJa1d6U2ZGSEkzVHZPbmhKeFNIeW9kQ2s4RFRiOUpIY2lWbGpaLXpselJtWldacHVLTDl3TGNDa1BYcGQ5M2s1azVfamlCdDBUMGNCc3J3?oc=5>
+- **特朗普** | 无视特朗普促和努力 俄罗斯和乌克兰继续相互打击 <https://news.google.com/rss/articles/CBMijwFBVV95cUxNcWRrQ185SHZJRGFKbWdrUXIxMjZBWjRkQUkySm9wVlB6NkZtY3VtTVJkck1FQ2YyTnYzTU5OMHlnVG5tVUc4YXVjaDFKNTRPbE9pYW9JZWNad0lGMVJaQXFNY1JrZ3I3cVpTVWdSLXMtOTNzWWg0V21RdGJUVHNFMDZpS09lSDdLNUR4bGRTQQ?oc=5>
+- **特朗普** | 特朗普：预计中国核武库在五年内赶上美国 <https://news.google.com/rss/articles/CBMioAJBVV95cUxPTktTRlJ0QkNPdUVfUlAzbXZJTDJnX3AzblAteEFqakVnODRhd29WSnhfbTR1NEhNbWxsUWhHU1VpT2lnQWFqVm5yal9fNUpUMmNTc1kxblJkVEwxYnkyN2dkSzZNdTB5YUhYZTdVUkNKNF9Ya045NHdXYXY0UjhDYkdNMHZ3T0dMTDZFdEhBbXJrbm5nNFV1aFBvcVBNcXhnZXVXcmhYb3dEV1Z1bVRER1kyT2ljT3lnSXRYV3hzUmF6VnVIT1FLVUt3SnlLZC1LWjl1anhLeUxHd2REbkNXN2NUeW1OYUNMYXE4NUt0SHBxcWxRWHBGdjBCOXZucHk4VHdtSWh3SnZ4YW5jb1cyUGFKRnBlVmZzc0o4d3VLekHSAaACQVVfeXFMTXoyM2ZRRG5rZE4yV3dyNGlEdENBRkR3Y2EtWVRKRHZWWnZTOTJ1eXZQaWFLWnV0d3BnTHdSc1dPUTJaRmVudXNnQWVoTEhFeDBWeVZNa21EYW5ZYW1BcExMdjRWNUxOVmYtLVNMT1JtQ0dyRjEzVUdwVXBoZmRCVWYwR0U1eHpxNWktdVFjYjRYRjVOZFZDckpyMXRuTHpNcVoyRDlKMDFpVmdla3ppS21hTDRhS0hIS1pqZzBlaW03NnNRZUdpM19vREt5Ty1ZN1h6TjVCaTlNSEhmUGg4TDVGbHZWbWZNMEZWRllkSHVlY180b3JLRVgzVkRjSzJGR3lab1NWZlNUUWhHUDhzajRLdDFDOVpnU3MyaDlNYWhp?oc=5>
 
 ### 2026-10-17 21:10  (3 条)
 
