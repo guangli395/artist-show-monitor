@@ -1,72 +1,105 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-17 04:46**
-- 本轮扫到 13982 条, 新增 **7** 条
+- 最近更新: **2026-10-17 08:57**
+- 本轮扫到 13992 条, 新增 **10** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (10 条)
 
-### 特朗普宣布暂缓实施新一轮对俄制裁
+### 蔡徐坤出发新加坡筹备演唱会，粉丝接机如愿
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-17 03:26
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBvbWpFVUxmTnFiUi02UGdtNkVITGJRTFV5bUNBUHFmcTVWMjI4NWxCRkVLUkdiemZ4VTlEOE9TQmZlY3oySEpZOEtkMGU?oc=5>
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5727695436_m15565b24c03301wkt2.html>
 
-### 特朗普宣布暂缓实施新一轮对俄制裁 符合美国国家利益
+### 蔡徐坤出发新加坡演唱会状态稳
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-10-17 03:33
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZWUUzM0ZCQlpKSFBZT3VnUm55T2x6UkhOUnhJdDFkQ1U3NFgxZlhnM2VlZzFLZ3I1RWJDdDV4QVphZG9FZF8zTkc1cDM2dmRIS0I3dzJmcVFuZGpfS05ySk5ZT18tWGtZQ2E2ZDVOMGo?oc=5>
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_2495457342_m94bda83e03301eb0c.html>
 
-### 【特朗普豁免《格雷厄姆法案》中多项对俄制裁、限制措施及关税】金十数据10月17日讯，据美国白宫16日发布的行政令，特朗普豁免《2026年林赛·格雷厄姆制裁俄罗斯和伊朗法案》规定的多项制裁、限制措施及关税。豁免范围包括对俄罗斯输美商品加征500%关税，以及
+### 特朗普回应马斯克飞车 称其刚获国家科学奖章当之无愧
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 金十数据
-- 时间: 2026-10-17 01:10
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjVFFPeS1xYTIyNGxmT0RBeG5yN0VwYUVXeG95V2NiNjdFN3E5RXU1QmFLZWZDWjYxeElHSmRDWFFkVVBSTUtJMzZHN2xhTExkSVJDS3ZxTWpzdXJGLXVQUA?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-10-17 08:50
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5wUmFSZkY0dXozZjhCNS1WSzFNQTVKaVVZZ0ZCcXItRDlTT0xIbUJuREN3VHhpQ3NxUGNkMEpFNFVXcDRGU3ZMRHJfOXVfY1Q0Y0xrYXduNW9sc1Y5MTVnd2E0WDgxQ3BkYUhsa2ZYY25WVDg?oc=5>
 
-### 上任仅5天 白宫新闻秘书遭特朗普“劝退”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻
-- 时间: 2026-10-17 00:37
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBQalJFckhiTXNIWkNYN3FieDZTV1ZZN0k0SVdGRVY5LTZPeHVtMjcwMThJTDZQY1ZhMDRxbmM2ZnI2UklvTTNZVDNNRXczYmItY1hId3hyMlFsMTJtWlk4eXc2M3VITmVySGt5YnVsV2JlU1I1VHZxOA?oc=5>
-
-### 首场简报会表现糟糕，特朗普考虑更换白宫新闻秘书人选
+### 白宫限制乌克兰使用“星盾”？特朗普否认
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-10-16 20:46
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE12cGpaZnNWYS1BQ3hacU54Wmh4RGJLb2UwcnEwQi0xOTZaeEE1b2FBOUExY3MwUndMSkt5eDZiWGtvSm5rOEU5VzVTcVcxdU1VUVhB?oc=5>
+- 场馆: 新华网
+- 时间: 2026-10-17 06:48
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZeHBOUkU3T1JKRnh2NGNjblREVTFITVpwNXJwdVNWRjU1VFVmT2s5M2xXSjlILUJBZjRUU1RUemlUY1dfMi16QWxNeHZuSXZ1OFUwdFpXU2VkR3A0V1VTcW9mZWpYUkd1b3liUkJrQURSa2I2UXo5NVZkd1prRGs?oc=5>
 
-### 特朗普称美国可能会对伊朗镐山核设施发动打击
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 央视网
-- 时间: 2026-10-16 15:23
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1odXdXLXRsWEowR2gxTGtfejg4aDMzQURXTnNrQVNRRnR6Rk00Y2Q5N1pOWUotWEJ4dHo5TkliM0tkWTBWMFc2T2thR0xKNVNZam1kRjJFb0FIU2NXWHZDWmFjcFdmRjJ5TnRETUEtVmNlUllKMlZLZA?oc=5>
-
-### 特朗普称美国可能会打击伊朗镐山设施
+### 特朗普：乌军“星盾”故障和我们没关系
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 搜狐
-- 时间: 2026-10-17 00:48
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxOWXQxWXBnOTFWc2d2N1ZNMGc2Nnc5Qnd5b19WX29UdGpYZ2hiRjc2YnJKYkN0QS1kOFNXM25Oc0RfaFlYa0VzRjg3NTkzaklVOTdfaGxsTTlTWEVBUVFWQWplVTRsN2p6SkhHYnRaQzZqdUpLX0Z6QnVGRjdpS0ROY0dEMmZwMmNuNDNkdg?oc=5>
+- 场馆: ThePaper.cn
+- 时间: 2026-10-17 07:46
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE95TE9VQnVNT09qbGZzMEVoRGE0M1UtN3pkOW1fQkhkV2pJYkl1N25McnAxQkxGWExsX2U4QVRXdmJ4WVY4YW5UVVBfS0pfb2lBS2FZMXpUcjZNa0ZiTnlHSA?oc=5>
+
+### 上任仅五天便下台，特朗普的白宫新闻秘书出了甚么问题？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: BBC
+- 时间: 2026-10-17 05:57
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HUVh1RE9COWFLTHdMdlRudnhFd2VONFotQUxxNGNvTkwxUTBHeUJvTHprR3FzYU5BVUZkWGgxTFN2VXVzUWpvY0JnZjUtWXVRelUwUG9XenZqZEUwcTMyNEZzeEZnV2_SAWxBVV95cUxNbWpXalJ0dlExMm9KeEszYmpHNUZCTUxEVmFVTkdRWG5lbTd4UEpaWE15eUhBZ0NMaW9KSVlmYlB6WXRZY3VfVDFSeUxZUWJzblU1enI5Q2lWWVh6eFVRMDZ6U0F1cGdOUGc0dUM?oc=5>
+
+### 白宫发言人离职后发声：能为特朗普工作是我的荣幸
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者网
+- 时间: 2026-10-17 07:14
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5mcjdLbC02ZXJEZjJWQjMtOGExeV94aGkxSHAzOFlnYzJ6R1NYTUVFTEFTZkN5dHYyVmF6TW5pSjZmZ214TVlKWU93dGQ4SGF4bTN0VXUyaVpQUmtVc3hqbEU5V0wtcUFidHVJNm56TFllek0?oc=5>
+
+### 特朗普签署行政令，豁免对俄罗斯实施多项制裁措施
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 搜狐网
+- 时间: 2026-10-17 07:58
+- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTHFqSWJrVWlmbkZHUHI4c2V4OXZRdUdpOGQxUC1uQVZ5Y296aVVPZFRpMmRITjI0U09QQjlId0RFazlsTDlyQ2xhRkgteW1xandnYXVHdXNwUVN4VmpvSVpiSTJpZV9vNFZUM1NtRVhQTktzMjI0ZEdRZ2s1V0Q3SFNDb3A5bTl5cVZF?oc=5>
+
+### 特朗普不排除中期选举后出手打伊朗 声言或动用炸弹之母
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-10-16 13:32
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9DcDVSMU4tTHA3dzhHYzVLdkRnTmU0MDNoQnRpSVAtRXpERm02WExDNENCTmpXZFdHbnpaUTFydzc2UVEzSkp1cE1iNmxvX3JVUXpyYkVVdDJUVGlXRzJRSHpkZkVwZw?oc=5>
+
+### Trump highly praised the U.S. stock market: "The strongest in history!"
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 富途牛牛
+- 时间: 2026-10-17 04:17
+- 链接: <https://news.google.com/rss/articles/CBMiowFBVV95cUxNYmFpV0FCUWJNQXR6cUktQXZ5US1kb3dLcGM1Sk83Q3lwWGNnX2JpQVBkLTBFN3g1WTZXem0tRXdnN3dCWDRKSUx2ZHNycGRJU2dEdEpMYkRKeXc3YzZFZ1p3SElNWTlFLTJzZ3BMSDE2M0ZZemdIeVZjRjZfQWNuQlRBSWtwX1hiMjU0ZGZhajZNMnhNZzB3WGJGYkJzRWo5b2xv?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-17 08:57  (10 条)
+
+- **蔡徐坤** | 蔡徐坤出发新加坡筹备演唱会，粉丝接机如愿 <https://k.sina.com.cn/article_5727695436_m15565b24c03301wkt2.html>
+- **蔡徐坤** | 蔡徐坤出发新加坡演唱会状态稳 <https://k.sina.com.cn/article_2495457342_m94bda83e03301eb0c.html>
+- **特朗普** | 特朗普回应马斯克飞车 称其刚获国家科学奖章当之无愧 <https://news.google.com/rss/articles/CBMic0FVX3lxTE5wUmFSZkY0dXozZjhCNS1WSzFNQTVKaVVZZ0ZCcXItRDlTT0xIbUJuREN3VHhpQ3NxUGNkMEpFNFVXcDRGU3ZMRHJfOXVfY1Q0Y0xrYXduNW9sc1Y5MTVnd2E0WDgxQ3BkYUhsa2ZYY25WVDg?oc=5>
+- **特朗普** | 白宫限制乌克兰使用“星盾”？特朗普否认 <https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZeHBOUkU3T1JKRnh2NGNjblREVTFITVpwNXJwdVNWRjU1VFVmT2s5M2xXSjlILUJBZjRUU1RUemlUY1dfMi16QWxNeHZuSXZ1OFUwdFpXU2VkR3A0V1VTcW9mZWpYUkd1b3liUkJrQURSa2I2UXo5NVZkd1prRGs?oc=5>
+- **特朗普** | 特朗普：乌军“星盾”故障和我们没关系 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE95TE9VQnVNT09qbGZzMEVoRGE0M1UtN3pkOW1fQkhkV2pJYkl1N25McnAxQkxGWExsX2U4QVRXdmJ4WVY4YW5UVVBfS0pfb2lBS2FZMXpUcjZNa0ZiTnlHSA?oc=5>
+- **特朗普** | 上任仅五天便下台，特朗普的白宫新闻秘书出了甚么问题？ <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HUVh1RE9COWFLTHdMdlRudnhFd2VONFotQUxxNGNvTkwxUTBHeUJvTHprR3FzYU5BVUZkWGgxTFN2VXVzUWpvY0JnZjUtWXVRelUwUG9XenZqZEUwcTMyNEZzeEZnV2_SAWxBVV95cUxNbWpXalJ0dlExMm9KeEszYmpHNUZCTUxEVmFVTkdRWG5lbTd4UEpaWE15eUhBZ0NMaW9KSVlmYlB6WXRZY3VfVDFSeUxZUWJzblU1enI5Q2lWWVh6eFVRMDZ6U0F1cGdOUGc0dUM?oc=5>
+- **特朗普** | 白宫发言人离职后发声：能为特朗普工作是我的荣幸 <https://news.google.com/rss/articles/CBMic0FVX3lxTE5mcjdLbC02ZXJEZjJWQjMtOGExeV94aGkxSHAzOFlnYzJ6R1NYTUVFTEFTZkN5dHYyVmF6TW5pSjZmZ214TVlKWU93dGQ4SGF4bTN0VXUyaVpQUmtVc3hqbEU5V0wtcUFidHVJNm56TFllek0?oc=5>
+- **特朗普** | 特朗普签署行政令，豁免对俄罗斯实施多项制裁措施 <https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTHFqSWJrVWlmbkZHUHI4c2V4OXZRdUdpOGQxUC1uQVZ5Y296aVVPZFRpMmRITjI0U09QQjlId0RFazlsTDlyQ2xhRkgteW1xandnYXVHdXNwUVN4VmpvSVpiSTJpZV9vNFZUM1NtRVhQTktzMjI0ZEdRZ2s1V0Q3SFNDb3A5bTl5cVZF?oc=5>
+- **特朗普** | 特朗普不排除中期选举后出手打伊朗 声言或动用炸弹之母 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9DcDVSMU4tTHA3dzhHYzVLdkRnTmU0MDNoQnRpSVAtRXpERm02WExDNENCTmpXZFdHbnpaUTFydzc2UVEzSkp1cE1iNmxvX3JVUXpyYkVVdDJUVGlXRzJRSHpkZkVwZw?oc=5>
+- **Trump** | Trump highly praised the U.S. stock market: "The strongest in history!" <https://news.google.com/rss/articles/CBMiowFBVV95cUxNYmFpV0FCUWJNQXR6cUktQXZ5US1kb3dLcGM1Sk83Q3lwWGNnX2JpQVBkLTBFN3g1WTZXem0tRXdnN3dCWDRKSUx2ZHNycGRJU2dEdEpMYkRKeXc3YzZFZ1p3SElNWTlFLTJzZ3BMSDE2M0ZZemdIeVZjRjZfQWNuQlRBSWtwX1hiMjU0ZGZhajZNMnhNZzB3WGJGYkJzRWo5b2xv?oc=5>
 
 ### 2026-10-17 04:46  (7 条)
 
