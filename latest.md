@@ -1,56 +1,82 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-17 00:05**
-- 本轮扫到 13975 条, 新增 **5** 条
+- 最近更新: **2026-10-17 04:46**
+- 本轮扫到 13982 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (7 条)
 
-### 特朗普重启美黎直飞航班的计划遇阻
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-16 22:00
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ZWEtHR0dGZnlSZjRWLXU0NFU5S18ydHBUQ3NyWVM0MEZuRHJLcmg1NWdqXzVaZmc0YkU4UzFFckRnMlJsWFd3RklhVlk?oc=5>
-
-### 白宫新任发言人扎卡里亚上任仅5天即遭特朗普解职，因记者会表现差及履历争议
+### 特朗普宣布暂缓实施新一轮对俄制裁
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-10-16 23:29
-- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTFBYVUdmQWFncXVXNHNfc1BnbzhzVUhnTEMzOVVVUDVuVWJ3TG1tX2JHVmY3R19nTnF0aGsxSWFXQzF5c1Fkand5UjZuQ2ROc3hlUFE?oc=5>
+- 时间: 2026-10-17 03:26
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBvbWpFVUxmTnFiUi02UGdtNkVITGJRTFV5bUNBUHFmcTVWMjI4NWxCRkVLUkdiemZ4VTlEOE9TQmZlY3oySEpZOEtkMGU?oc=5>
 
-### 特朗普：不排除未来对伊朗动用“炸弹之母”，不会派遣地面部队-市场参考
+### 特朗普宣布暂缓实施新一轮对俄制裁 符合美国国家利益
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-10-17 03:33
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZWUUzM0ZCQlpKSFBZT3VnUm55T2x6UkhOUnhJdDFkQ1U3NFgxZlhnM2VlZzFLZ3I1RWJDdDV4QVphZG9FZF8zTkc1cDM2dmRIS0I3dzJmcVFuZGpfS05ySk5ZT18tWGtZQ2E2ZDVOMGo?oc=5>
+
+### 【特朗普豁免《格雷厄姆法案》中多项对俄制裁、限制措施及关税】金十数据10月17日讯，据美国白宫16日发布的行政令，特朗普豁免《2026年林赛·格雷厄姆制裁俄罗斯和伊朗法案》规定的多项制裁、限制措施及关税。豁免范围包括对俄罗斯输美商品加征500%关税，以及
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 金十数据
-- 时间: 2026-10-16 13:54
-- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTFB1VFpzM3ZsTVNaVW14YVRiaGZneHdVbTRqd2RWcE9qZVlvWVo2Zk5kSW1UMmpFR2MzVHN2VFN4dlVxbi1DOFBpUm5fVTZwcFU?oc=5>
+- 时间: 2026-10-17 01:10
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjVFFPeS1xYTIyNGxmT0RBeG5yN0VwYUVXeG95V2NiNjdFN3E5RXU1QmFLZWZDWjYxeElHSmRDWFFkVVBSTUtJMzZHN2xhTExkSVJDS3ZxTWpzdXJGLXVQUA?oc=5>
+
+### 上任仅5天 白宫新闻秘书遭特朗普“劝退”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻
+- 时间: 2026-10-17 00:37
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBQalJFckhiTXNIWkNYN3FieDZTV1ZZN0k0SVdGRVY5LTZPeHVtMjcwMThJTDZQY1ZhMDRxbmM2ZnI2UklvTTNZVDNNRXczYmItY1hId3hyMlFsMTJtWlk4eXc2M3VITmVySGt5YnVsV2JlU1I1VHZxOA?oc=5>
+
+### 首场简报会表现糟糕，特朗普考虑更换白宫新闻秘书人选
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街见闻
+- 时间: 2026-10-16 20:46
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE12cGpaZnNWYS1BQ3hacU54Wmh4RGJLb2UwcnEwQi0xOTZaeEE1b2FBOUExY3MwUndMSkt5eDZiWGtvSm5rOEU5VzVTcVcxdU1VUVhB?oc=5>
 
 ### 特朗普称美国可能会对伊朗镐山核设施发动打击
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-10-16 23:34
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE4yWTV6UklwMjZHbEUzeGtFZ3pwaGJ1R0ZtWUc5QzJPTGRoeDBmREt3Q0JnV1hkWDd5ZDdGcjMxOWxuWHlVLXNsQU9QMUhlZmdScHRicXFkQjBNUlROd2VDMGxxQ0g?oc=5>
+- 场馆: 央视网
+- 时间: 2026-10-16 15:23
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1odXdXLXRsWEowR2gxTGtfejg4aDMzQURXTnNrQVNRRnR6Rk00Y2Q5N1pOWUotWEJ4dHo5TkliM0tkWTBWMFc2T2thR0xKNVNZam1kRjJFb0FIU2NXWHZDWmFjcFdmRjJ5TnRETUEtVmNlUllKMlZLZA?oc=5>
 
-### 特朗普：美国同中俄展开谈判 推动三国实现无核化
+### 特朗普称美国可能会打击伊朗镐山设施
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-10-16 23:22
-- 链接: <https://news.google.com/rss/articles/CBMipwFBVV95cUxQMkxXWlhTLWVNejBXeGJfcGZ6Xy1ZSjlCVUU4VnpWMXFneUpNZ2ZaQXc0QlRZZ3RDWFNwZ3ZkVUNvVGt0am1rV1NJVUlQR09VSlZqMHhIZTlBQ3RsR2NpelItVjUzVnRfRC1sVXk1UnZlSkt3Sy15TkxFczc0MEllY3N2RkZqbHRFekpBVE5vZkkxWEd1dTUxUDU3cldKQ1dMLVZTTE1lYw?oc=5>
+- 场馆: 搜狐
+- 时间: 2026-10-17 00:48
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxOWXQxWXBnOTFWc2d2N1ZNMGc2Nnc5Qnd5b19WX29UdGpYZ2hiRjc2YnJKYkN0QS1kOFNXM25Oc0RfaFlYa0VzRjg3NTkzaklVOTdfaGxsTTlTWEVBUVFWQWplVTRsN2p6SkhHYnRaQzZqdUpLX0Z6QnVGRjdpS0ROY0dEMmZwMmNuNDNkdg?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-17 04:46  (7 条)
+
+- **特朗普** | 特朗普宣布暂缓实施新一轮对俄制裁 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBvbWpFVUxmTnFiUi02UGdtNkVITGJRTFV5bUNBUHFmcTVWMjI4NWxCRkVLUkdiemZ4VTlEOE9TQmZlY3oySEpZOEtkMGU?oc=5>
+- **特朗普** | 特朗普宣布暂缓实施新一轮对俄制裁 符合美国国家利益 <https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZWUUzM0ZCQlpKSFBZT3VnUm55T2x6UkhOUnhJdDFkQ1U3NFgxZlhnM2VlZzFLZ3I1RWJDdDV4QVphZG9FZF8zTkc1cDM2dmRIS0I3dzJmcVFuZGpfS05ySk5ZT18tWGtZQ2E2ZDVOMGo?oc=5>
+- **特朗普** | 【特朗普豁免《格雷厄姆法案》中多项对俄制裁、限制措施及关税】金十数据10月17日讯，据美国白宫16日发布的行政令，特朗普豁免《2026年林赛·格雷厄姆制裁俄罗斯和伊朗法案》规定的多项制裁、限制措施及关税。豁免范围包括对俄罗斯输美商品加征500%关税，以及 <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjVFFPeS1xYTIyNGxmT0RBeG5yN0VwYUVXeG95V2NiNjdFN3E5RXU1QmFLZWZDWjYxeElHSmRDWFFkVVBSTUtJMzZHN2xhTExkSVJDS3ZxTWpzdXJGLXVQUA?oc=5>
+- **特朗普** | 上任仅5天 白宫新闻秘书遭特朗普“劝退” <https://news.google.com/rss/articles/CBMieEFVX3lxTFBQalJFckhiTXNIWkNYN3FieDZTV1ZZN0k0SVdGRVY5LTZPeHVtMjcwMThJTDZQY1ZhMDRxbmM2ZnI2UklvTTNZVDNNRXczYmItY1hId3hyMlFsMTJtWlk4eXc2M3VITmVySGt5YnVsV2JlU1I1VHZxOA?oc=5>
+- **特朗普** | 首场简报会表现糟糕，特朗普考虑更换白宫新闻秘书人选 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE12cGpaZnNWYS1BQ3hacU54Wmh4RGJLb2UwcnEwQi0xOTZaeEE1b2FBOUExY3MwUndMSkt5eDZiWGtvSm5rOEU5VzVTcVcxdU1VUVhB?oc=5>
+- **特朗普** | 特朗普称美国可能会对伊朗镐山核设施发动打击 <https://news.google.com/rss/articles/CBMieEFVX3lxTE1odXdXLXRsWEowR2gxTGtfejg4aDMzQURXTnNrQVNRRnR6Rk00Y2Q5N1pOWUotWEJ4dHo5TkliM0tkWTBWMFc2T2thR0xKNVNZam1kRjJFb0FIU2NXWHZDWmFjcFdmRjJ5TnRETUEtVmNlUllKMlZLZA?oc=5>
+- **特朗普** | 特朗普称美国可能会打击伊朗镐山设施 <https://news.google.com/rss/articles/CBMijAFBVV95cUxOWXQxWXBnOTFWc2d2N1ZNMGc2Nnc5Qnd5b19WX29UdGpYZ2hiRjc2YnJKYkN0QS1kOFNXM25Oc0RfaFlYa0VzRjg3NTkzaklVOTdfaGxsTTlTWEVBUVFWQWplVTRsN2p6SkhHYnRaQzZqdUpLX0Z6QnVGRjdpS0ROY0dEMmZwMmNuNDNkdg?oc=5>
 
 ### 2026-10-17 00:05  (5 条)
 
