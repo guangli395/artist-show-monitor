@@ -1,64 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-16 21:52**
-- 本轮扫到 13970 条, 新增 **6** 条
+- 最近更新: **2026-10-17 00:05**
+- 本轮扫到 13975 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (5 条)
 
-### 特朗普称乌克兰总统“比普京更难打交道”，泽连斯基回应说自己在捍卫乌克兰的利益
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-10-16 21:17
-- 链接: <https://news.google.com/rss/articles/CBMihAJBVV95cUxQbExQalVJWVViR1RDYVBUSHFsTzczMXV4aE95MDBzWkdDOERmNGllWnd5MkRrUVVEVmpvOGI2TW8yQVE1UWZjOU9CZklzNllna19udjIzVDdPeUlVN1BDTWVWb2FtTXpGSERXT0hYVDdWcV85ZzkwalFzOWk5ZTFlVm54U3Y4R1k5NXhRNkcyTEp5eFRzZHU2UzN5cmRxWXp4X21FZ0ZyMWtCNGR3QzMyNmY0SFlmaWUwNXBvQ1E3YngwMk5pQXJmUWp2VGxGZnVtLWhVdHMtM2U2VFc5bno2OGR6Q0x0eFp4endYdHN2QkM2OVZ2RHgwamd3WHYtaEpnTGJPb9IBhwJBVV95cUxPeGJuZE1WY2FXSmdDV0MzZThlMDRNaEU2ZkJ5eFM2U2FJUjNLUldrLVNaWEN1ZUJlejB2Yy1VT2UtdVVteHVGalFVdmNhOEs3U0k0MXlNZ0Z1ekFnNm02cElCR3dOMkd2QVJDQU5oWm56RFE5blpsWmhaYjBVUWw1VjlQM0xFdlM3aENhUi1LYUtBOWRBeExPQ29sN19DSWNNZXo2MXlUTlZ5WDI0N3YxVl9GdWN0dm9TNUgzaFpJSFBuVnp6cmM3TzhZS3JLdm9FRDNLblZhQVcxRTl2NzdkUlpEMlhLQlN6Ujhsa2dxSS1oa3p4ZW4xbGtrNEtvaFdPN2dSeE9qbw?oc=5>
-
-### 要闻分析 - 乌克兰恢复打击俄炼油厂 特朗普说这很“可耻”
+### 特朗普重启美黎直飞航班的计划遇阻
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-10-16 19:56
-- 链接: <https://news.google.com/rss/articles/CBMijwNBVV95cUxNd1RGLVdQbkVhTDdEUFR2VEk5enhWQVhKdjduLW5BRFd2Z3VRcTA3TGtnQXAtbGZ1ZEt6NmxDVFVXSXdfQjBGbkg5Vmd1S1NrUVdyVTY5M2FNQ0YxckZqZ1BTR1JmV0VELWJrVHBxakNSZTFTZzZ3S0twc0JKTjBTNzk4WmR1QmZVWEpWVW1YWGl6NGk1aF8tcy1LVEJ4T3QtNWd3LUFYRGhyc1Q5VmgwWE5RbnZISVdFaEdzcDVSbGVSUFphZmNibHFCbG1UeGpDTVpsY2hvU1pubzRWaHVoZ1pmMXNUTmFlNjM5THRKWjVDUW9XaDZOS2xHNXpFZjdQN1FCNVJrXzJnQllfeFQzRkhNUUpldTYxMDNyeGhMU0VOeVBqcXNzSUQ5dWdmc2lLWERaLWRmUWNtMW5UMUN1OUpZZE5TWDZUTjRGbWx4SThJa0l3ZjlkZ2l2WEE2X2NmczVUNGp0VFBhRFVlX2Juc0FoM1pWdFZqLURUcmFJVVgyZzkyYWQ0bENXX0s2ckE?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-10-16 22:00
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ZWEtHR0dGZnlSZjRWLXU0NFU5S18ydHBUQ3NyWVM0MEZuRHJLcmg1NWdqXzVaZmc0YkU4UzFFckRnMlJsWFd3RklhVlk?oc=5>
 
-### 特朗普：为确保伊朗无法获得核武器可能会对镐山核设施发动打击|唐纳德·特朗普|军事行动|美国总统|伊斯法罕|起火
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-10-16 20:22
-- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxNc19FcW5ramx5OVpOMGc0VGRoT1Y5cnRSQjh3UGoxVi1BTDY3akRpZ09yVXJ4TElHV1hUdDg5bi12MEQ0M2pkT3hzS2NvVHFocVBFZjYwTU92bTRiZmpQWWF5UjBmOTB2MFNmbFB2QlAxRk1pWnlaa2tWcFNSZUNYbFptd1QwbVVkYU5V?oc=5>
-
-### 两党联手阻击特朗普松绑俄柴油协议！众院议案拟撤销豁免、强制制裁，布油盘中涨超3%
+### 白宫新任发言人扎卡里亚上任仅5天即遭特朗普解职，因记者会表现差及履历争议
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-10-16 18:12
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE9PQ3FjNHZodlZ5OEoyN2NydHdvNXBndllMZVpSc1FkN1pjYmtUQ0pqRks4bDY3bkVBTXlzSll3SU9VeGRfYW4wVjBla1N0SWZLRHlJ?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-10-16 23:29
+- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTFBYVUdmQWFncXVXNHNfc1BnbzhzVUhnTEMzOVVVUDVuVWJ3TG1tX2JHVmY3R19nTnF0aGsxSWFXQzF5c1Fkand5UjZuQ2ROc3hlUFE?oc=5>
 
-### 消息人士：特朗普的新任新闻秘书凯蒂·扎卡里亚已离职
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-10-16 19:30
-- 链接: <https://news.google.com/rss/articles/CBMi2wJBVV95cUxQcURJVFc0SFNITFVRblFkNU41em13LUl0emV3OW9mNV9IRUVqYm1hUnI3R3d1ckxQbzN0ZldOY2RYWDJLRnZKUGwxdE1TcTFMNC04NkFXZXFKdlpVbnJlZzhCSFYtTkdtVVpsb3piMnFDdDA2S0ZxcXE1bnY1Z3ZmaE0xRW5pbDJpUlB4a091Rmp5X3RRU1lady1lWVEtNjk5dUlTNnNCQkdrTDNrUFdKcDllcjIwa3NNTHBFUmpmNkRZck54Y2lVMjZmeU5Ueks0VjRxSEU3Tkp2blluZTZsdUdUc3E3T3NudlNtZG1NS1JVc2NkM2xmYk1OdlhGay1mZW9ueDVuNGoyX0pPUVlNODV0X2p2YzBBNFY0X2RBcnUxSThSNXpYaUhYbi1LRHVETzNwZ05mQ2J1cm5EeVM1amQ5aDBDaUl2aldKQ0NteERfUXRGbWdMX0p6dw?oc=5>
-
-### 上任五天就出局 扎卡里亚已不再是特朗普的首席发言人
+### 特朗普：不排除未来对伊朗动用“炸弹之母”，不会派遣地面部队-市场参考
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-10-16 20:05
-- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxPd0FCOFZNcUdSN3hNaGpmSzZHUFF2TkNBcmhzUWpTUXdTYVNWUHdWamVMdTNoUGt2Q0NwVm5ja2tzUFdmeGF0TGhrT0FqY0N4S0dtTXZ0U2htQkF4WFVsWjI3bFZ0UlZsTG5nNFBnLW1uTk96U3VCOS1mNGtWUXdEOGtETm9XYjhKSEE?oc=5>
+- 场馆: 金十数据
+- 时间: 2026-10-16 13:54
+- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTFB1VFpzM3ZsTVNaVW14YVRiaGZneHdVbTRqd2RWcE9qZVlvWVo2Zk5kSW1UMmpFR2MzVHN2VFN4dlVxbi1DOFBpUm5fVTZwcFU?oc=5>
+
+### 特朗普称美国可能会对伊朗镐山核设施发动打击
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新京报
+- 时间: 2026-10-16 23:34
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE4yWTV6UklwMjZHbEUzeGtFZ3pwaGJ1R0ZtWUc5QzJPTGRoeDBmREt3Q0JnV1hkWDd5ZDdGcjMxOWxuWHlVLXNsQU9QMUhlZmdScHRicXFkQjBNUlROd2VDMGxxQ0g?oc=5>
+
+### 特朗普：美国同中俄展开谈判 推动三国实现无核化
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 8world
+- 时间: 2026-10-16 23:22
+- 链接: <https://news.google.com/rss/articles/CBMipwFBVV95cUxQMkxXWlhTLWVNejBXeGJfcGZ6Xy1ZSjlCVUU4VnpWMXFneUpNZ2ZaQXc0QlRZZ3RDWFNwZ3ZkVUNvVGt0am1rV1NJVUlQR09VSlZqMHhIZTlBQ3RsR2NpelItVjUzVnRfRC1sVXk1UnZlSkt3Sy15TkxFczc0MEllY3N2RkZqbHRFekpBVE5vZkkxWEd1dTUxUDU3cldKQ1dMLVZTTE1lYw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-17 00:05  (5 条)
+
+- **特朗普** | 特朗普重启美黎直飞航班的计划遇阻 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ZWEtHR0dGZnlSZjRWLXU0NFU5S18ydHBUQ3NyWVM0MEZuRHJLcmg1NWdqXzVaZmc0YkU4UzFFckRnMlJsWFd3RklhVlk?oc=5>
+- **特朗普** | 白宫新任发言人扎卡里亚上任仅5天即遭特朗普解职，因记者会表现差及履历争议 <https://news.google.com/rss/articles/CBMiUkFVX3lxTFBYVUdmQWFncXVXNHNfc1BnbzhzVUhnTEMzOVVVUDVuVWJ3TG1tX2JHVmY3R19nTnF0aGsxSWFXQzF5c1Fkand5UjZuQ2ROc3hlUFE?oc=5>
+- **特朗普** | 特朗普：不排除未来对伊朗动用“炸弹之母”，不会派遣地面部队-市场参考 <https://news.google.com/rss/articles/CBMiT0FVX3lxTFB1VFpzM3ZsTVNaVW14YVRiaGZneHdVbTRqd2RWcE9qZVlvWVo2Zk5kSW1UMmpFR2MzVHN2VFN4dlVxbi1DOFBpUm5fVTZwcFU?oc=5>
+- **特朗普** | 特朗普称美国可能会对伊朗镐山核设施发动打击 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE4yWTV6UklwMjZHbEUzeGtFZ3pwaGJ1R0ZtWUc5QzJPTGRoeDBmREt3Q0JnV1hkWDd5ZDdGcjMxOWxuWHlVLXNsQU9QMUhlZmdScHRicXFkQjBNUlROd2VDMGxxQ0g?oc=5>
+- **Trump** | 特朗普：美国同中俄展开谈判 推动三国实现无核化 <https://news.google.com/rss/articles/CBMipwFBVV95cUxQMkxXWlhTLWVNejBXeGJfcGZ6Xy1ZSjlCVUU4VnpWMXFneUpNZ2ZaQXc0QlRZZ3RDWFNwZ3ZkVUNvVGt0am1rV1NJVUlQR09VSlZqMHhIZTlBQ3RsR2NpelItVjUzVnRfRC1sVXk1UnZlSkt3Sy15TkxFczc0MEllY3N2RkZqbHRFekpBVE5vZkkxWEd1dTUxUDU3cldKQ1dMLVZTTE1lYw?oc=5>
 
 ### 2026-10-16 21:52  (6 条)
 
