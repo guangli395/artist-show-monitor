@@ -1,36 +1,46 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-17 18:40**
-- 本轮扫到 14015 条, 新增 **3** 条
+- 最近更新: **2026-10-17 21:10**
+- 本轮扫到 14018 条, 新增 **3** 条
 
 ---
 
 ## 本轮新发现 (3 条)
 
-### 这次南京场演唱会，更像是博君一肖的故事迎来大结局
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301hosc.html>
-
-### 博君一肖超话 南京演唱会站姐全军覆没
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7810739724_m1d18e6e0c03302tfhc.html>
-
-### 首场简报会表现糟糕 特朗普考虑更换白宫新闻秘书人选
+### 美总统特朗普重启美黎直飞航班的计划遇阻
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-10-16 17:08
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE82M0VWSWhQUjFkOVV3LW9EU0hlTXVIYUY4NjZPNGR4U2padDdXeXhzaTFWdXZIXzhNS0RVZFVWNTItLWxkZG9mTE5EbGxQc3BoaEp3enhoRTMzQ0tXRUY3bE9lU196WnVVN05Ka2VKTEI2TkhieE9JbQ?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-10-16 17:16
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTFBKeTF4R2xPTzRzY0FKV0JoY01vS2FoYTRBSFVXNEFDUlFKaTJCVTRlamphelMwWXdKLUpOSV83YVdTZTRteVpXbXh0ZlBiRzZhSVlTNzBwLTJLRjBUT1Zydk9oZDZweUdRWXRneDZ1czJhSkh5?oc=5>
+
+### 中国国有贸易商重启美国大豆采购，峰会后首批大额订单引关注
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-10-15 18:03
+- 链接: <https://news.google.com/rss/articles/CBMivwFBVV95cUxPaGN2MW10Q21wQWdTWnpOOUd6amEzTW54TWVISDAxUkVMLVRXdFhmbEh4cVRTR09ocWd4NzF5WGE3WklRV2taVDFMbzYwU19FUmJNU0k2SUxnVHEzV3FzNm94cjZYQVZNRzdZZW9QaG5TNVBaalBTam5HdjY1OUtuMy01ZnRMbW1PZ3Jjd1JTZGZsaGhGTnVxSFk5OUpYaWlqOFpDZVJjRm10eDRudHdJY0stcGRQenpVZC1UZVNDUdIBwgFBVV95cUxOWWV6bDZGUktmQmdQdU5XTFh4TzBVTUk0aEtXWmxHcWpoYWtiOWVwcEZSVnlYWURTZmtsVXpFNm1jWEI2M1lmY0UxVzh5ZlNyOTg1cUlfTmZJaWxSY3A3VTFwX1ZOYnRlc3BmSDJHWDNVV3hoZEpMUmNxQ0Vod2lYcFUzSlVCOGNYU2ZXem9PSFJiZ292R09HMW5ydHZHcUJuLUN2WFdsN2tOTFp1b2ZQUG5TN0x3UURuV1E4VXF6Y2dGdw?oc=5>
+
+### 随着特朗普再次威胁要撤出皮克克斯山，与伊朗进行外交谈判的窗口可能正在关闭。
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Al-Monitor
+- 时间: 2026-10-17 19:54
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1TVFJDUDAydGFRY1pXN3NEaDNLWE1FUW9zM0MtcjBrSkF1VjRTN2xLNHJueXFENlEzXzh6QTZWWFA5ZG5Tem5HNFJwOU9vRGlpYW5YazdNd2xPNWJWUi1weUs2UDQxdw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-17 21:10  (3 条)
+
+- **特朗普** | 美总统特朗普重启美黎直飞航班的计划遇阻 <https://news.google.com/rss/articles/CBMidEFVX3lxTFBKeTF4R2xPTzRzY0FKV0JoY01vS2FoYTRBSFVXNEFDUlFKaTJCVTRlamphelMwWXdKLUpOSV83YVdTZTRteVpXbXh0ZlBiRzZhSVlTNzBwLTJLRjBUT1Zydk9oZDZweUdRWXRneDZ1czJhSkh5?oc=5>
+- **Trump** | 中国国有贸易商重启美国大豆采购，峰会后首批大额订单引关注 <https://news.google.com/rss/articles/CBMivwFBVV95cUxPaGN2MW10Q21wQWdTWnpOOUd6amEzTW54TWVISDAxUkVMLVRXdFhmbEh4cVRTR09ocWd4NzF5WGE3WklRV2taVDFMbzYwU19FUmJNU0k2SUxnVHEzV3FzNm94cjZYQVZNRzdZZW9QaG5TNVBaalBTam5HdjY1OUtuMy01ZnRMbW1PZ3Jjd1JTZGZsaGhGTnVxSFk5OUpYaWlqOFpDZVJjRm10eDRudHdJY0stcGRQenpVZC1UZVNDUdIBwgFBVV95cUxOWWV6bDZGUktmQmdQdU5XTFh4TzBVTUk0aEtXWmxHcWpoYWtiOWVwcEZSVnlYWURTZmtsVXpFNm1jWEI2M1lmY0UxVzh5ZlNyOTg1cUlfTmZJaWxSY3A3VTFwX1ZOYnRlc3BmSDJHWDNVV3hoZEpMUmNxQ0Vod2lYcFUzSlVCOGNYU2ZXem9PSFJiZ292R09HMW5ydHZHcUJuLUN2WFdsN2tOTFp1b2ZQUG5TN0x3UURuV1E4VXF6Y2dGdw?oc=5>
+- **Trump** | 随着特朗普再次威胁要撤出皮克克斯山，与伊朗进行外交谈判的窗口可能正在关闭。 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1TVFJDUDAydGFRY1pXN3NEaDNLWE1FUW9zM0MtcjBrSkF1VjRTN2xLNHJueXFENlEzXzh6QTZWWFA5ZG5Tem5HNFJwOU9vRGlpYW5YazdNd2xPNWJWUi1weUs2UDQxdw?oc=5>
 
 ### 2026-10-17 18:40  (3 条)
 
