@@ -1,86 +1,112 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-17 12:43**
-- 本轮扫到 14001 条, 新增 **9** 条
+- 最近更新: **2026-10-17 16:04**
+- 本轮扫到 14012 条, 新增 **11** 条
 
 ---
 
-## 本轮新发现 (9 条)
+## 本轮新发现 (11 条)
 
-### X500 Pro Max的蔡司2亿长焦适合拍演唱会吗？
+### 周杰伦悉尼演唱会，5万多人的体育场，除了遮挡区，基本坐满了，这个上座率
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776483_1d5abd8e3068028586.html>
+- 链接: <https://k.sina.com.cn/article_2159714367_m80baa03f033017vio.html>
 
-### 俄总统特使：特朗普暂停对俄制裁，是历史性时刻
+### 周杰伦悉尼演唱会上飚英语了，是不是昆凌教的
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_2159714367_m80baa03f033017vim.html>
+
+### 周杰伦现身墨尔本演唱会彩排现场
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://video.sina.com.cn/p/finance/2026-10-17/detail-inivpsqm8162700.d.html>
+
+### 特朗普总统豁免针对俄罗斯的新的制裁和关税，泽连斯基对此表示“遗憾”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-10-17 15:40
+- 链接: <https://news.google.com/rss/articles/CBMiygFBVV95cUxQTzM1YlZXSll2czlrR2ZpdHpmbnQ3Y29HNEFRSDlldVl2eV8yWnVueUNrQ0NhM20zb3JXVmloVW9NZmlaZl9VUVl5YWF3QXB6Z1FXOTU2c1ZmYjNQWllpOUNXNy11M1JhaHlRYlBReGNjTjc1VDU1VU81d0NlN2syOEQ3ZjlXazQ1eS1pOHVUd2pMUkVDNEhlNDYzWGNndVNhZzJ4b3U0RTEyRTh0cy1FamNTc1JxbVI5cDdtRThIODFNZXRsdzRUYUx30gHMAUFVX3lxTFAyUnZfS0xmcGZ1XzBtZzZYcDdhNldmZy1PSlFSMDJJb3FiLVFRX3ZqN3lqY2ZoQlQyVml1a2x0UWpvRUZjOEktQmtDSEY1VGlyTUNFNzA2TkxyNjh6dEs2MjFfTk9zOFpTYy1zdW5SMW55WmJ6SGllSFVIazFndDRwX3FIVFFMRHV0VU1nekhGOVl4aVBWWHNhYWRsQUpVeXB1RjZNbjBMU3hiSjExRjF1WGE5VVNLMFc5RVYxZWF5c0Rna25ldlFKa2JhMQ?oc=5>
+
+### 乌军使用星链遭限速，特朗普：不是我，也不是马斯克
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-10-17 11:27
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE52SjBRUzRpeS10T2JHWDNzYVdFa3QtX0lGUmpvZzMta3ZkM3hSTDZsZmlTM1JUaVYwZjdtLW1UbFlDS1VvZEstLTdKaFY?oc=5>
+- 时间: 2026-10-17 03:43
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE84a2MzbUE0YnJHSmJjMDJNNW5GQUV1YmV6TDVHRXQzYm85enpmVTZZY0x1WTBNdkZUQ3dCcmlValg2aldxbzNJWC16bmg?oc=5>
 
-### 要闻解说 - 特朗普暂停部分对俄新制裁 莫斯科基辅一家欢乐一家愁
+### 意大利防长：特朗普在援乌问题上“完全错误”|圭多·克罗塞托|唐纳德·特朗普|英国广播公司|乌克兰|美国
 
 - 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻
+- 时间: 2026-10-17 09:41
+- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxNVkgxWDRQSmxlZkNSWDd0bURTekxudzl4dE9MeTVNWkIxZUhTZVItdFZlak1BNnowYTc0Rks5Y1M4ZktybUtpWnlwN0tJVGx0c1ItUzJpUjlKNmJUdE5rS25sVkpHd0JxRWdiZUtHcVZPaFJfbnNJbTU4dEt1UVJMZUotajhUdXNreUV2Q2NKWVRRcTJZVllhZQ?oc=5>
+
+### 特朗普：我不知道普京来不来，我当然希望他来
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 文学城
+- 时间: 2026-10-17 03:56
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkTV9KSmkxYkNUanpqMU4zd2R5VHZQby0wSU1QeEY4T2IySHY5ZDhEclZHVE45Q0ZMSTdkVWZmbFNDQ2szdUwybDBPV3JLTlFmZnhrLWFHMnJISjJQSDY2OUtSeFlTZ09q?oc=5>
+
+### 特朗普：我不知道普京是否会来参加G20峰会，但我希望能见到他
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-10-17 10:04
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9EVlgyYUpvV0ExTXh6SDl0OTBmY0piR2RGbXlzVU5YV3lPSVFZQzBGRWVoenAySzBvVkRkN3NpRUJ6TUg5WU95X29BSXM?oc=5>
+
+### 特朗普希望普京来美国参加G20 邀请引发多方反应
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-10-17 13:02
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5EOFJSLVZJczJEY3pqdThLcGZCQVI5VF9MWm5Md2JvRHQ5TUpLdDJsSWlsY09fTUczb080V1RTVUljSEVlZjhxVGtuRG5lWC1KdERJTHlJcXFTQ053NkoxX3lCNGxTQkppZXdxZjRnNFY?oc=5>
+
+### 泽连斯基：制裁豁免还将继续令人遗憾，俄方想在白俄境内部署弹道导弹
+
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: RFI
-- 时间: 2026-10-17 12:13
-- 链接: <https://news.google.com/rss/articles/CBMiygNBVV95cUxNNDhzTnpEVm1mcVZKdkt0SXN4VWotMXR2R0M0WU4zTnBPbTR0bHRTd2pYMTdib1hDTnVCSUNsWFY2SUNlZ09mUGVIbUdKeEVSVXFwQnR5WWpWTkpPWWc2eGVsWFpTWFBFSG40RDRBMTk4RFVDaFpTSW11N2U5YmtkQ3dieGZFcW5Fd3JIS2lNckFmcFhxcXE5bFBSYVM2a1l3Z0ZZUUlUZEg4SVdiNXVyemxtemRjdTRrcmdjOW5GSExHR01xNlVTT3c4VXZhUmhrekRfbnBfUUJaaTRfY3UwX0xUaGxySzY1SkpJamdWb2NldGhKSDc1eEZqSTdMUlZ6dWhISE9UTS1ER1c0SmVkQy13c2MyZmYtWVhidnpNRzJSd1otVzZJLWJwRnNXeU9DUjRod2pOd2RsRkVzaXhTOWg5VDdUZ0JXcXdSZFpocjE1VUJtY01kdWJTZ0F6ZTBscGlSdHE2TU9jX051cVR5OU5PdjIybmFYeUprbmxGQWNjb2hBQXIyd2tTaURBamluMmQ2NHYzMk1EZ0g1dWd2R1JKczA0Ny1vRlZwZ2VKOFRfRDdWWW00R3h1anlOVjFRTHBQYzZwbjhUZw?oc=5>
+- 时间: 2026-10-17 15:34
+- 链接: <https://news.google.com/rss/articles/CBMi1ANBVV95cUxQRVpaTnA0Slc0ZG1rN1VEY3F3TkRFOXpKUHhWNU9ENEN4X2ZMZDlRZUlVb3c0WFozUDdsMlhUNG5ILXRZX2xRWnhFcXJhWmRrV0tpWnNvZm1rRTJEUU9rX1FuUlNtT0pBZG5UeFZWeDB6LXpndFh0UEZOTjBCSTY5NEVrb3U3VU9ndWZla3pSZ2RnOE1GN3dLemlUS1FBamxLb2J5TE85Ym9XSThVZzRIVjJlNnhqOE1La2hlZ3d6S2lISmhMakd0eHlNY1BCam5uOWJLQUk3THoyc2dSNHJKSVZaczVmR2htZWJuWWV3ckxLNndmeEoxeGQyS0lhekxzLVh3eTVtaVdJNHJOc21ycDVWQnA1ZS0zZTVXRlhjS05OYy1oRnFzUy1pRkNJSWpyZmZ4Y0QzQWhRZG9qQm5EWkdtSXZYckpQYVE5anB2NDY5MGVWOFFvUHY3cmtraWp0WVc0NW9PN3A4QW42NUt1TGNUbG5Nc0NlWldWVTJ6cjFNcXp2bGlBRnRUMENRLTJVRlBNczBFZ3BMb3pZdHN5SVF0UndiOENSbnBhRmFQbkhMdEJsaEtiOVpqcWFITVN2a1NvNUhybXNPd0NLMGtnTThuTjU?oc=5>
 
-### 美国中期选举广告分析：民主党提及特朗普的广告投入是共和党的十倍|唐纳德·特朗普|竞选广告|美国大选|俄亥俄州|国会
+### Trump Hails U.S. Stock Market as "Strongest in History!"
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-10-17 05:25
-- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTlpQYWpiOEpDSV9NYXd2ZnRDM1MzckRjbXV6bTJkT29LWFlJVHhrbm1sWGVJSUlNLWNCcVU3N3JOLWEyN1dGcTNIQjNiM1VwUW5fWlVlaWppVEEzQ3oybURHUDhwei1kVkZobTdMdl9uSVc3NkJ1YlZWQkpCZmswSnhlakFKdVNIYm5la0diLVpFRlo0SGNjZVNRZXZrMHFLWjJHNWUzQzdrUQ?oc=5>
-
-### 马斯克投3亿，特朗普卖乌与俄交易，中期选举若输了特朗普会怎样
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-10-17 12:02
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFBRekxrUGVYNVFfTklKV3ZqYjVBdTFUb1NtNDRQb3ljZ0IxejRxNS1ON3NyYU1pM08wV1lWWVNsWGoxZUZFTFFIOFlucmpxcVUtaFpyR0haQXBldXl5VVdUOVU5ek1UQlpfUUg3V3lRb1QzZw?oc=5>
-
-### 白宫新任发言人上任一周遭解雇 特朗普劝其重新考虑职业
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财新
-- 时间: 2026-10-17 00:38
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFAtOEMyckdZbXEzQmlKd0VHOFVEdG5kTXktQmdrVE91dm1fQmpBVDZKZXBGTG10bi1jU05MdzB0WFBKVjVqSFhNMjN0ZHhpUWRCVzRJZ0EwU2p1dU9CU0hQNGxxTkFxUk92YUE?oc=5>
-
-### 特朗普称乌军“星盾”故障与美国无关
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-17 04:03
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE10VnVpdVJBSHM4MDJzVmJzbXo4S0ZIbFZLZGY3Ql8yWGVGZU5fc09DbVBUSnZFRUJ2eHdyZVN2dHdjcHM0cTZVRXN5bkk?oc=5>
-
-### 特朗普怒斥“可耻”：我不太喜欢泽连斯基|唐纳德·特朗普|俄乌冲突|能源价格|乌总统|俄罗斯
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻
-- 时间: 2026-10-16 19:30
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZVVd6YVFOdXdLZFFzX2JLQmJrZnJFYVk3STFXdzZCZm9OM2ZWSDhFNmVOVXJPeFFwV1pIRldMX25Qc2VILXF5bFR1ZmNUUTAtcnU0Y3VNX1R0Nnl0dWp2Um12WjF6eUdINXd2bHQzNmxSRTctLWRNMQ?oc=5>
-
-### 美总统特朗普重启美黎直飞航班的计划遇阻|唐纳德·特朗普|贝鲁特国际机场|美国总统|美国政府|联合国
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻
-- 时间: 2026-10-16 19:05
-- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxNajlLTzNfRHJFVkktVDNiX3hpMWVHSUhxSXU0OUdqWjlVNVY5RjZ5Zk03aFJPSEZ2VVZuVjN1X0stNnkta1NuaWU3TkpEZno5dEhVZmFmMVRhbGp4YXdiMTBEVTAxXzNrRGRRdU5ONmg2bTBqLTFreHZkNjFjbE4xTTItMFNoS3lqNmZUTTJSZFNzTlUy?oc=5>
+- 场馆: 富途牛牛
+- 时间: 2026-10-17 04:17
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSmk4MHUzTlJpUDNYNXJOdUN0RklxR1JRQXhvR1FaRnh5RU1KNzJNM1g1eGFreWRiTkJNb1QybjZqRF9McDROU0JjbWQ4VHVUc1BfS1R2RFZWclRJUk5tTW4tQzQ3VnkweDdyTC1zRy1sMEUwaXdOaFZlcldvbzliaEhXS1djeVhZNThxdWkwNE9rMWZoZXRjQ2V5Z280Y1RxR1Q4NGxhYWNNNFhoY3FkRnZlUm5EVTdCUlRYakc2ZmlneW93eVdzZzRKd0c4Q2wy?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-17 16:04  (11 条)
+
+- **周杰伦** | 周杰伦悉尼演唱会，5万多人的体育场，除了遮挡区，基本坐满了，这个上座率 <https://k.sina.com.cn/article_2159714367_m80baa03f033017vio.html>
+- **周杰伦** | 周杰伦悉尼演唱会上飚英语了，是不是昆凌教的 <https://k.sina.com.cn/article_2159714367_m80baa03f033017vim.html>
+- **周杰伦** | 周杰伦现身墨尔本演唱会彩排现场 <https://video.sina.com.cn/p/finance/2026-10-17/detail-inivpsqm8162700.d.html>
+- **特朗普** | 特朗普总统豁免针对俄罗斯的新的制裁和关税，泽连斯基对此表示“遗憾” <https://news.google.com/rss/articles/CBMiygFBVV95cUxQTzM1YlZXSll2czlrR2ZpdHpmbnQ3Y29HNEFRSDlldVl2eV8yWnVueUNrQ0NhM20zb3JXVmloVW9NZmlaZl9VUVl5YWF3QXB6Z1FXOTU2c1ZmYjNQWllpOUNXNy11M1JhaHlRYlBReGNjTjc1VDU1VU81d0NlN2syOEQ3ZjlXazQ1eS1pOHVUd2pMUkVDNEhlNDYzWGNndVNhZzJ4b3U0RTEyRTh0cy1FamNTc1JxbVI5cDdtRThIODFNZXRsdzRUYUx30gHMAUFVX3lxTFAyUnZfS0xmcGZ1XzBtZzZYcDdhNldmZy1PSlFSMDJJb3FiLVFRX3ZqN3lqY2ZoQlQyVml1a2x0UWpvRUZjOEktQmtDSEY1VGlyTUNFNzA2TkxyNjh6dEs2MjFfTk9zOFpTYy1zdW5SMW55WmJ6SGllSFVIazFndDRwX3FIVFFMRHV0VU1nekhGOVl4aVBWWHNhYWRsQUpVeXB1RjZNbjBMU3hiSjExRjF1WGE5VVNLMFc5RVYxZWF5c0Rna25ldlFKa2JhMQ?oc=5>
+- **特朗普** | 乌军使用星链遭限速，特朗普：不是我，也不是马斯克 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE84a2MzbUE0YnJHSmJjMDJNNW5GQUV1YmV6TDVHRXQzYm85enpmVTZZY0x1WTBNdkZUQ3dCcmlValg2aldxbzNJWC16bmg?oc=5>
+- **特朗普** | 意大利防长：特朗普在援乌问题上“完全错误”|圭多·克罗塞托|唐纳德·特朗普|英国广播公司|乌克兰|美国 <https://news.google.com/rss/articles/CBMimAFBVV95cUxNVkgxWDRQSmxlZkNSWDd0bURTekxudzl4dE9MeTVNWkIxZUhTZVItdFZlak1BNnowYTc0Rks5Y1M4ZktybUtpWnlwN0tJVGx0c1ItUzJpUjlKNmJUdE5rS25sVkpHd0JxRWdiZUtHcVZPaFJfbnNJbTU4dEt1UVJMZUotajhUdXNreUV2Q2NKWVRRcTJZVllhZQ?oc=5>
+- **特朗普** | 特朗普：我不知道普京来不来，我当然希望他来 <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkTV9KSmkxYkNUanpqMU4zd2R5VHZQby0wSU1QeEY4T2IySHY5ZDhEclZHVE45Q0ZMSTdkVWZmbFNDQ2szdUwybDBPV3JLTlFmZnhrLWFHMnJISjJQSDY2OUtSeFlTZ09q?oc=5>
+- **特朗普** | 特朗普：我不知道普京是否会来参加G20峰会，但我希望能见到他 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9EVlgyYUpvV0ExTXh6SDl0OTBmY0piR2RGbXlzVU5YV3lPSVFZQzBGRWVoenAySzBvVkRkN3NpRUJ6TUg5WU95X29BSXM?oc=5>
+- **特朗普** | 特朗普希望普京来美国参加G20 邀请引发多方反应 <https://news.google.com/rss/articles/CBMicEFVX3lxTE5EOFJSLVZJczJEY3pqdThLcGZCQVI5VF9MWm5Md2JvRHQ5TUpLdDJsSWlsY09fTUczb080V1RTVUljSEVlZjhxVGtuRG5lWC1KdERJTHlJcXFTQ053NkoxX3lCNGxTQkppZXdxZjRnNFY?oc=5>
+- **Trump** | 泽连斯基：制裁豁免还将继续令人遗憾，俄方想在白俄境内部署弹道导弹 <https://news.google.com/rss/articles/CBMi1ANBVV95cUxQRVpaTnA0Slc0ZG1rN1VEY3F3TkRFOXpKUHhWNU9ENEN4X2ZMZDlRZUlVb3c0WFozUDdsMlhUNG5ILXRZX2xRWnhFcXJhWmRrV0tpWnNvZm1rRTJEUU9rX1FuUlNtT0pBZG5UeFZWeDB6LXpndFh0UEZOTjBCSTY5NEVrb3U3VU9ndWZla3pSZ2RnOE1GN3dLemlUS1FBamxLb2J5TE85Ym9XSThVZzRIVjJlNnhqOE1La2hlZ3d6S2lISmhMakd0eHlNY1BCam5uOWJLQUk3THoyc2dSNHJKSVZaczVmR2htZWJuWWV3ckxLNndmeEoxeGQyS0lhekxzLVh3eTVtaVdJNHJOc21ycDVWQnA1ZS0zZTVXRlhjS05OYy1oRnFzUy1pRkNJSWpyZmZ4Y0QzQWhRZG9qQm5EWkdtSXZYckpQYVE5anB2NDY5MGVWOFFvUHY3cmtraWp0WVc0NW9PN3A4QW42NUt1TGNUbG5Nc0NlWldWVTJ6cjFNcXp2bGlBRnRUMENRLTJVRlBNczBFZ3BMb3pZdHN5SVF0UndiOENSbnBhRmFQbkhMdEJsaEtiOVpqcWFITVN2a1NvNUhybXNPd0NLMGtnTThuTjU?oc=5>
+- **Trump** | Trump Hails U.S. Stock Market as "Strongest in History!" <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSmk4MHUzTlJpUDNYNXJOdUN0RklxR1JRQXhvR1FaRnh5RU1KNzJNM1g1eGFreWRiTkJNb1QybjZqRF9McDROU0JjbWQ4VHVUc1BfS1R2RFZWclRJUk5tTW4tQzQ3VnkweDdyTC1zRy1sMEUwaXdOaFZlcldvbzliaEhXS1djeVhZNThxdWkwNE9rMWZoZXRjQ2V5Z280Y1RxR1Q4NGxhYWNNNFhoY3FkRnZlUm5EVTdCUlRYakc2ZmlneW93eVdzZzRKd0c4Q2wy?oc=5>
 
 ### 2026-10-17 12:43  (9 条)
 
