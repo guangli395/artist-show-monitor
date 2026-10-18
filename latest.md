@@ -1,90 +1,112 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-18 06:15**
-- 本轮扫到 14040 条, 新增 **10** 条
+- 最近更新: **2026-10-18 11:30**
+- 本轮扫到 14051 条, 新增 **11** 条
 
 ---
 
-## 本轮新发现 (10 条)
+## 本轮新发现 (11 条)
 
-### 爱豆王一博的珍贵影像 rap和b-box信手拈来 到底什么时候能开演唱会
+### 刘雨昕主题曲中心位，一个回眸帅翻全场，女生也顶不住
 
-- 艺人/关键词: **王一博**
+- 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2494721715_m94b26eb303301sg2q.html>
+- 链接: <https://k.sina.com.cn/article_6579089051_m18824ee9b033027474.html>
 
-### 周杰伦为何担心墨尔本演唱会观众听不懂中文歌词？
+### 王思雨在墨尔本看周杰伦演唱会！晒自合唱视频：最爱的歌手
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068017gbo.html>
+- 链接: <https://k.sina.com.cn/article_2314713452_m89f7b96c03301e3r6.html>
 
-### 周杰伦为何担心墨尔本演唱会观众不懂歌词意境？
+### 昆凌：“我美吗女士”认真监督爸爸主题曲表演中
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068017g5e.html>
+- 链接: <https://k.sina.com.cn/article_1850268574_m6e48db9e03302bdb0.html>
 
-### 内塔尼亚胡猛夸特朗普：非常出色，思路清晰，信念坚定
+### 泽连斯基对特朗普强硬，因“心情低落”：被关了警报、断了情报，还不让打俄炼油厂
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-10-18 04:42
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9zLXJOUllQc20tRHI0ZXVnMzNCekRTbDFkbE9rOWtWcHZzamF6Y2dUSFIwRXl6bnNGSVVnT2VuS3ViczVpamFFWG1Tb2E?oc=5>
+- 时间: 2026-10-18 08:08
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9EcnAwRXBSWUE4WHdFcGFBSEZyRkJSaUFObldFRVlBVjNBUlVLQkIzMkVyb1hUTVUxX1FJWThjRjJXVzc3Si01cExEREo?oc=5>
 
-### 特朗普特赦的贪官都是些什么情况
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 风闻
-- 时间: 2026-10-18 04:15
-- 链接: <https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TRW1JczE5RkpCbnhtRlVjdDVSdXZMOU1Icks4Ny03NlJKd2d3SGZISWQzNUc3MjV3Q0I2OUlJYU15LUdfeEpvTC1aOWxmZ2tjb2xBQWZaeS1YaVE?oc=5>
-
-### 马斯克投3亿，特朗普卖乌与俄交易，中期选举若输了特朗普会怎样
+### 特朗普否认白宫限制乌克兰使用星盾
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪网
-- 时间: 2026-10-18 02:57
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE5xbTNQTTNnRFpTRW1FR0Z2VlVCSWpRX3pfcFpqVkRvZGhNd3dKRDdQVzc2aUNMdGh1NWlpTUJveGYwNGRJUlBoR0o5WDFlNWw3SGJveGtUT042a0Ryd2NFNEtPNGlCSnFvTjdoVWt6d2JGUQ?oc=5>
+- 时间: 2026-10-17 16:52
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9lekMtUXBvRUU0c1EyR0ZBNlI5a2s3Z09iUy1sOXhWQ0s2YXUxdlVQQ2ZJSTRQSXVJMG45YkcwOEtGZkxUXzYwUnc4dVlFdGI4WUdGaDFicFJlQzlPa21vb28yblI3M2luVVBtUnpMXzc?oc=5>
 
-### 特朗普签署行政令豁免对俄多项制裁
+### 特朗普：过去17个月里，没有非法移民通过南部边境获准进入美国。
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 手机新浪网
+- 时间: 2026-10-17 19:22
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9iSkFoZmhKeVlOdWFFd3MwN09FSXdqMkZfb3YxcnhnYlVIY2x2Q21kOTNfdnJCVTlyZUFfOFVLdm1Cd3d2ZWFjWWU2cw?oc=5>
+
+### 美学者：特朗普有70%概率在11月3日前打击伊朗，“这可能是最好的拉票手段”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-10-18 09:07
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5IZEZJMTg0SG13Nnl6cDdoai1ROVBOT2daSFMxUEgxRzZzT1NCSHBrNUhUWVhBVTRkQ1ZlOWc2cjEtVFhHYmYtMjJ0YXA?oc=5>
+
+### 上任五天就出局 扎卡里亚已不再是特朗普的首席发言人
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-10-17 05:18
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE9WOXluUWc4YVlmMjduUFZ5VEVIaVZOQ2dyUVVwcUNOclpFMWZYRkxseG9RNFA4RnZvajFUZ0Y5OXQ4anNMVlVfVm40Y1dkTHpBRnQ2U0ZGbXltWExKVEJqMUpFM2M4N3AtWVJPY0t2Z1J4WnRvRkE?oc=5>
+- 时间: 2026-10-16 19:35
+- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE9PcU5vaW03Q0wtZDRtSFk5bVlCQmh5akFfZ05WOURDZ3RtQ2RIc28tYVo0TTR2UmFGaUowVjJfSUw3dE96eDhIQzhUM25ZV1BhWTg0azZPbmxySmE1U3k0TVhNYzlSaUJQZ0IzcHN1aGRNaWNMcHFsWG5R?oc=5>
 
-### 特朗普吹捧的白宫宴会厅，认捐名单曝光！苹果、英伟达在列，捐赠金额惊人|唐纳德·特朗普|微软|捐款|富豪|商务部长
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻
-- 时间: 2026-10-17 17:15
-- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxNNmRWbXpEOER2OEpfd3pKQlpleUZsQTU5czhPeGx3a0JLd1UzMDRIQzdnSDl0YmphRkNfOTBfTkpHQVhqMWJjUnB3QUE1QmtzX05sVTlwTDVIRmdxb185T0ZfeER2MWFhQ3BVZ3RTb0phVllwWjQ0YUMzS2t4Rkk4Ym1OMWJHenB3OVIwUmRzdlhVN3k1?oc=5>
-
-### 反了，泽连斯基不听特朗普指令，马斯克罕见行动，乌吓出一身冷汗
+### 10月17日外盘头条：特朗普否认关停乌克兰卫星系统美国2026财年联邦预算赤字达到1.99万亿美元
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-10-18 05:16
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE5QTUIxQ2dKWnhIRFBtUlpUemU0UHdCOTlkZDFBeFF2b1VJalZ4OU1HUzlCQkRHaXdMX1VWYUpxa3JVRWptY1VBbWt0Qjlvb193TnR2Q2V4NGVHZ09tZmdzVEIyckwzWjhnWHB5Rk1kVi1kZw?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-10-16 22:02
+- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxOUmNQQ25JZVA1bHRwck1SQTh2cW03UmthT29Sbi1kQUZqYVlRb1ZiOFNKQ1ltekRQdG1QTXNKUGxPOVdtV2NSbDVfc1J1WEsxTU84aTZPYXZQOVVZNWtDOHpySll6S0xNVEE2ZG9uTDNDZ2hSbl84eWxSWUxTSEZ6NnZwSENfYjJkdnV6Zk5GZw?oc=5>
 
-### Trump Waives Most Russia Sanctions Passed by Congress
+### 特朗普前“准儿媳”为何被迫离任 财务丑闻引发危机
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-10-18 01:25
-- 链接: <https://news.google.com/rss/articles/CBMipAFBVV95cUxQRzBVUmpYbjlvUVJhamdjTEoxX3lwSVFwbVVBWXYwZVJkbDVtY0NqQ2hDWEpEUDh0Z3BFUXp0UEdYVDFaS01NNk4tSU1lVHpmYnlRbVpmb0djVVEwekxyT0hvT0RPbUZqZ2REenNGXzVvNGxvYTZld1drMmZQUlpHeHd2YzFjTnZ6X0hjN0tqZGFyeFVHTFM4OUp1VGFhVXdjTS0zeg?oc=5>
+- 场馆: 中华网
+- 时间: 2026-10-17 16:27
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE4yYWV1U1R4aTBLSzVFZnNzbEZ2YWpsWDlsY25qc0dsLTc3UlNTNG9saVNZVFhpQ0RLeGJwN0lMQlF2QkZkNGtuY0NHdGgtZ3RldDBEX0ZsSFJFQTd3UjRyVWhJWVRDbkhJakxZdXV4YkI?oc=5>
+
+### 美国中期选举广告分析：民主党提及特朗普的广告投入是共和党的十倍
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-10-17 05:10
+- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE1BWmlZWTdHVW5pT2NJSWpQNFNmbTVEZjlCcVZuV05KQ0dyN1d5cXVFalNKZ2tJU3BDTnZyTnYtS2Jjd3lkMk16NW51aFdwWFB1bUNsZDBsMWhRb2M2QldUVXVFWlRxMlprRlBOZ2VzQnlINUw1aUpmb2x3?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-18 11:30  (11 条)
+
+- **蔡徐坤** | 刘雨昕主题曲中心位，一个回眸帅翻全场，女生也顶不住 <https://k.sina.com.cn/article_6579089051_m18824ee9b033027474.html>
+- **周杰伦** | 王思雨在墨尔本看周杰伦演唱会！晒自合唱视频：最爱的歌手 <https://k.sina.com.cn/article_2314713452_m89f7b96c03301e3r6.html>
+- **周杰伦** | 昆凌：“我美吗女士”认真监督爸爸主题曲表演中 <https://k.sina.com.cn/article_1850268574_m6e48db9e03302bdb0.html>
+- **特朗普** | 泽连斯基对特朗普强硬，因“心情低落”：被关了警报、断了情报，还不让打俄炼油厂 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9EcnAwRXBSWUE4WHdFcGFBSEZyRkJSaUFObldFRVlBVjNBUlVLQkIzMkVyb1hUTVUxX1FJWThjRjJXVzc3Si01cExEREo?oc=5>
+- **特朗普** | 特朗普否认白宫限制乌克兰使用星盾 <https://news.google.com/rss/articles/CBMicEFVX3lxTE9lekMtUXBvRUU0c1EyR0ZBNlI5a2s3Z09iUy1sOXhWQ0s2YXUxdlVQQ2ZJSTRQSXVJMG45YkcwOEtGZkxUXzYwUnc4dVlFdGI4WUdGaDFicFJlQzlPa21vb28yblI3M2luVVBtUnpMXzc?oc=5>
+- **特朗普** | 特朗普：过去17个月里，没有非法移民通过南部边境获准进入美国。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9iSkFoZmhKeVlOdWFFd3MwN09FSXdqMkZfb3YxcnhnYlVIY2x2Q21kOTNfdnJCVTlyZUFfOFVLdm1Cd3d2ZWFjWWU2cw?oc=5>
+- **特朗普** | 美学者：特朗普有70%概率在11月3日前打击伊朗，“这可能是最好的拉票手段” <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5IZEZJMTg0SG13Nnl6cDdoai1ROVBOT2daSFMxUEgxRzZzT1NCSHBrNUhUWVhBVTRkQ1ZlOWc2cjEtVFhHYmYtMjJ0YXA?oc=5>
+- **特朗普** | 上任五天就出局 扎卡里亚已不再是特朗普的首席发言人 <https://news.google.com/rss/articles/CBMiekFVX3lxTE9PcU5vaW03Q0wtZDRtSFk5bVlCQmh5akFfZ05WOURDZ3RtQ2RIc28tYVo0TTR2UmFGaUowVjJfSUw3dE96eDhIQzhUM25ZV1BhWTg0azZPbmxySmE1U3k0TVhNYzlSaUJQZ0IzcHN1aGRNaWNMcHFsWG5R?oc=5>
+- **特朗普** | 10月17日外盘头条：特朗普否认关停乌克兰卫星系统美国2026财年联邦预算赤字达到1.99万亿美元 <https://news.google.com/rss/articles/CBMijwFBVV95cUxOUmNQQ25JZVA1bHRwck1SQTh2cW03UmthT29Sbi1kQUZqYVlRb1ZiOFNKQ1ltekRQdG1QTXNKUGxPOVdtV2NSbDVfc1J1WEsxTU84aTZPYXZQOVVZNWtDOHpySll6S0xNVEE2ZG9uTDNDZ2hSbl84eWxSWUxTSEZ6NnZwSENfYjJkdnV6Zk5GZw?oc=5>
+- **特朗普** | 特朗普前“准儿媳”为何被迫离任 财务丑闻引发危机 <https://news.google.com/rss/articles/CBMicEFVX3lxTE4yYWV1U1R4aTBLSzVFZnNzbEZ2YWpsWDlsY25qc0dsLTc3UlNTNG9saVNZVFhpQ0RLeGJwN0lMQlF2QkZkNGtuY0NHdGgtZ3RldDBEX0ZsSFJFQTd3UjRyVWhJWVRDbkhJakxZdXV4YkI?oc=5>
+- **特朗普** | 美国中期选举广告分析：民主党提及特朗普的广告投入是共和党的十倍 <https://news.google.com/rss/articles/CBMiekFVX3lxTE1BWmlZWTdHVW5pT2NJSWpQNFNmbTVEZjlCcVZuV05KQ0dyN1d5cXVFalNKZ2tJU3BDTnZyTnYtS2Jjd3lkMk16NW51aFdwWFB1bUNsZDBsMWhRb2M2QldUVXVFWlRxMlprRlBOZ2VzQnlINUw1aUpmb2x3?oc=5>
 
 ### 2026-10-18 06:15  (10 条)
 
