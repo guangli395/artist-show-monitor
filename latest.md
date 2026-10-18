@@ -1,64 +1,103 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-18 01:19**
-- 本轮扫到 14030 条, 新增 **6** 条
+- 最近更新: **2026-10-18 06:15**
+- 本轮扫到 14040 条, 新增 **10** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (10 条)
 
-### 史上“最短命”白宫新闻秘书晒全家与特朗普在办公室合影
+### 爱豆王一博的珍贵影像 rap和b-box信手拈来 到底什么时候能开演唱会
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_2494721715_m94b26eb303301sg2q.html>
+
+### 周杰伦为何担心墨尔本演唱会观众听不懂中文歌词？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068017gbo.html>
+
+### 周杰伦为何担心墨尔本演唱会观众不懂歌词意境？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068017g5e.html>
+
+### 内塔尼亚胡猛夸特朗普：非常出色，思路清晰，信念坚定
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-10-17 23:32
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFAtRWdVMUhUN0VtMVduaXdtemQtaHl0MDN3VDlZMXlnY3gxc0d2Yy1ZalYzMU9UV0U4S1BpSm1uSm1fX1Rnd1ZNMWhfM2U?oc=5>
+- 时间: 2026-10-18 04:42
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9zLXJOUllQc20tRHI0ZXVnMzNCekRTbDFkbE9rOWtWcHZzamF6Y2dUSFIwRXl6bnNGSVVnT2VuS3ViczVpamFFWG1Tb2E?oc=5>
 
-### 特朗普：对俄制裁决定对美国有利。
+### 特朗普特赦的贪官都是些什么情况
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 风闻
+- 时间: 2026-10-18 04:15
+- 链接: <https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TRW1JczE5RkpCbnhtRlVjdDVSdXZMOU1Icks4Ny03NlJKd2d3SGZISWQzNUc3MjV3Q0I2OUlJYU15LUdfeEpvTC1aOWxmZ2tjb2xBQWZaeS1YaVE?oc=5>
+
+### 马斯克投3亿，特朗普卖乌与俄交易，中期选举若输了特朗普会怎样
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪网
-- 时间: 2026-10-17 23:42
-- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE95S1BwZG11R1pBcnlkNFkxbjdiQUN1Sks0U2lVekEySnpuMjNoc3pnSDluUGZaX2E1Vlp6TFZQc1EweFI2T3AzdWtWUkZleXM?oc=5>
+- 时间: 2026-10-18 02:57
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE5xbTNQTTNnRFpTRW1FR0Z2VlVCSWpRX3pfcFpqVkRvZGhNd3dKRDdQVzc2aUNMdGh1NWlpTUJveGYwNGRJUlBoR0o5WDFlNWw3SGJveGtUT042a0Ryd2NFNEtPNGlCSnFvTjdoVWt6d2JGUQ?oc=5>
 
-### 美俄“握手”、乌欧“皱眉”，西方对俄分歧持续显化
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-10-17 23:59
-- 链接: <https://news.google.com/rss/articles/CBMihgFBVV95cUxObUNELXJGcmRPWkJLUXdNVEtlSlluRXZQSXhFNUhSNHJ1SWJQeDh5SkZ2YWdLMTkxUTd1amREWExXalhhZzJPbXpRWXVtNS05NlIteW05SWNCbk53YmI5eEtzNnF5eG8xYV9mWUJKNTVkRmZaRnB2OGYwUnFwOWNBaF8wZDVJdw?oc=5>
-
-### 为何特朗普与共和党耗资数十亿美元的中期选举闪电攻势收效甚微
+### 特朗普签署行政令豁免对俄多项制裁
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-10-16 16:59
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxQdm5NSDVmX2FJbHhsWDV4b1dVdTRsV3otWjhJRXJPUTctUjljYkJLcE5rUEU4MTk3TFdTdGRFUDB1b2lITks2RjJSZU56VWM1YzBJeVYxSFdzMjZxcXlURG9MbkdKcW42UjJBWnF3RzVfTlNCX051QjFNWk1GZ0stcmk3Vzdzb00?oc=5>
+- 时间: 2026-10-17 05:18
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE9WOXluUWc4YVlmMjduUFZ5VEVIaVZOQ2dyUVVwcUNOclpFMWZYRkxseG9RNFA4RnZvajFUZ0Y5OXQ4anNMVlVfVm40Y1dkTHpBRnQ2U0ZGbXltWExKVEJqMUpFM2M4N3AtWVJPY0t2Z1J4WnRvRkE?oc=5>
 
-### 意大利防长：特朗普，完全错误
+### 特朗普吹捧的白宫宴会厅，认捐名单曝光！苹果、英伟达在列，捐赠金额惊人|唐纳德·特朗普|微软|捐款|富豪|商务部长
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-10-17 09:09
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE9zck9yUUVlOUFpcUo2V1dFdWhxcUVlME1tZHhtMjBFSERjMVEwTWNBcnFTSHRRRzh6TlFnRnJQcHFheWpGMWNSemh3Rm1sWjFHMGJpMEhBckxjXzRZVVlfaGU0SDFBQVFSVUh3RGdpd0x3RVE?oc=5>
+- 场馆: 新浪新闻
+- 时间: 2026-10-17 17:15
+- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxNNmRWbXpEOER2OEpfd3pKQlpleUZsQTU5czhPeGx3a0JLd1UzMDRIQzdnSDl0YmphRkNfOTBfTkpHQVhqMWJjUnB3QUE1QmtzX05sVTlwTDVIRmdxb185T0ZfeER2MWFhQ3BVZ3RTb0phVllwWjQ0YUMzS2t4Rkk4Ym1OMWJHenB3OVIwUmRzdlhVN3k1?oc=5>
 
-### He Crafted a Crypto Law for Trump-as His Company Got Millions From a Crypto Giant -- WSJ
+### 反了，泽连斯基不听特朗普指令，马斯克罕见行动，乌吓出一身冷汗
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-10-18 05:16
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE5QTUIxQ2dKWnhIRFBtUlpUemU0UHdCOTlkZDFBeFF2b1VJalZ4OU1HUzlCQkRHaXdMX1VWYUpxa3JVRWptY1VBbWt0Qjlvb193TnR2Q2V4NGVHZ09tZmdzVEIyckwzWjhnWHB5Rk1kVi1kZw?oc=5>
+
+### Trump Waives Most Russia Sanctions Passed by Congress
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: Moomoo
-- 时间: 2026-10-15 01:31
-- 链接: <https://news.google.com/rss/articles/CBMingFBVV95cUxPM3VlNFlYZ0RjeFNOR2xGeUhOUWdFMXJiTXQ1QzBkeWhkNnB4RjRSQXF1cG9VNTIyY2N3Szlhdjk4WkRmWE9HNmRyLUU1dWxJS1RXWUJBT0R6MXIxS1p6Q3hjbUNPLWhLRWRYRmRIaFdCaE1kT25xYkJ0NGdzekkxT3dhUlNZWVR2VnYtRnNOM3Y3d2hjMnV0c1JzbF85dw?oc=5>
+- 时间: 2026-10-18 01:25
+- 链接: <https://news.google.com/rss/articles/CBMipAFBVV95cUxQRzBVUmpYbjlvUVJhamdjTEoxX3lwSVFwbVVBWXYwZVJkbDVtY0NqQ2hDWEpEUDh0Z3BFUXp0UEdYVDFaS01NNk4tSU1lVHpmYnlRbVpmb0djVVEwekxyT0hvT0RPbUZqZ2REenNGXzVvNGxvYTZld1drMmZQUlpHeHd2YzFjTnZ6X0hjN0tqZGFyeFVHTFM4OUp1VGFhVXdjTS0zeg?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-18 06:15  (10 条)
+
+- **王一博** | 爱豆王一博的珍贵影像 rap和b-box信手拈来 到底什么时候能开演唱会 <https://k.sina.com.cn/article_2494721715_m94b26eb303301sg2q.html>
+- **周杰伦** | 周杰伦为何担心墨尔本演唱会观众听不懂中文歌词？ <https://k.sina.com.cn/article_7879776356_1d5abd864068017gbo.html>
+- **周杰伦** | 周杰伦为何担心墨尔本演唱会观众不懂歌词意境？ <https://k.sina.com.cn/article_7879776356_1d5abd864068017g5e.html>
+- **特朗普** | 内塔尼亚胡猛夸特朗普：非常出色，思路清晰，信念坚定 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9zLXJOUllQc20tRHI0ZXVnMzNCekRTbDFkbE9rOWtWcHZzamF6Y2dUSFIwRXl6bnNGSVVnT2VuS3ViczVpamFFWG1Tb2E?oc=5>
+- **特朗普** | 特朗普特赦的贪官都是些什么情况 <https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TRW1JczE5RkpCbnhtRlVjdDVSdXZMOU1Icks4Ny03NlJKd2d3SGZISWQzNUc3MjV3Q0I2OUlJYU15LUdfeEpvTC1aOWxmZ2tjb2xBQWZaeS1YaVE?oc=5>
+- **特朗普** | 马斯克投3亿，特朗普卖乌与俄交易，中期选举若输了特朗普会怎样 <https://news.google.com/rss/articles/CBMickFVX3lxTE5xbTNQTTNnRFpTRW1FR0Z2VlVCSWpRX3pfcFpqVkRvZGhNd3dKRDdQVzc2aUNMdGh1NWlpTUJveGYwNGRJUlBoR0o5WDFlNWw3SGJveGtUT042a0Ryd2NFNEtPNGlCSnFvTjdoVWt6d2JGUQ?oc=5>
+- **特朗普** | 特朗普签署行政令豁免对俄多项制裁 <https://news.google.com/rss/articles/CBMidkFVX3lxTE9WOXluUWc4YVlmMjduUFZ5VEVIaVZOQ2dyUVVwcUNOclpFMWZYRkxseG9RNFA4RnZvajFUZ0Y5OXQ4anNMVlVfVm40Y1dkTHpBRnQ2U0ZGbXltWExKVEJqMUpFM2M4N3AtWVJPY0t2Z1J4WnRvRkE?oc=5>
+- **特朗普** | 特朗普吹捧的白宫宴会厅，认捐名单曝光！苹果、英伟达在列，捐赠金额惊人|唐纳德·特朗普|微软|捐款|富豪|商务部长 <https://news.google.com/rss/articles/CBMilAFBVV95cUxNNmRWbXpEOER2OEpfd3pKQlpleUZsQTU5czhPeGx3a0JLd1UzMDRIQzdnSDl0YmphRkNfOTBfTkpHQVhqMWJjUnB3QUE1QmtzX05sVTlwTDVIRmdxb185T0ZfeER2MWFhQ3BVZ3RTb0phVllwWjQ0YUMzS2t4Rkk4Ym1OMWJHenB3OVIwUmRzdlhVN3k1?oc=5>
+- **特朗普** | 反了，泽连斯基不听特朗普指令，马斯克罕见行动，乌吓出一身冷汗 <https://news.google.com/rss/articles/CBMickFVX3lxTE5QTUIxQ2dKWnhIRFBtUlpUemU0UHdCOTlkZDFBeFF2b1VJalZ4OU1HUzlCQkRHaXdMX1VWYUpxa3JVRWptY1VBbWt0Qjlvb193TnR2Q2V4NGVHZ09tZmdzVEIyckwzWjhnWHB5Rk1kVi1kZw?oc=5>
+- **Trump** | Trump Waives Most Russia Sanctions Passed by Congress <https://news.google.com/rss/articles/CBMipAFBVV95cUxQRzBVUmpYbjlvUVJhamdjTEoxX3lwSVFwbVVBWXYwZVJkbDVtY0NqQ2hDWEpEUDh0Z3BFUXp0UEdYVDFaS01NNk4tSU1lVHpmYnlRbVpmb0djVVEwekxyT0hvT0RPbUZqZ2REenNGXzVvNGxvYTZld1drMmZQUlpHeHd2YzFjTnZ6X0hjN0tqZGFyeFVHTFM4OUp1VGFhVXdjTS0zeg?oc=5>
 
 ### 2026-10-18 01:19  (6 条)
 
