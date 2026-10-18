@@ -1,54 +1,71 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-18 19:57**
-- 本轮扫到 14073 条, 新增 **5** 条
+- 最近更新: **2026-10-18 22:13**
+- 本轮扫到 14079 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (6 条)
 
-### 周杰伦墨尔本演唱会三位点歌小弟弟祝杰伦天天发财
+### 周杰伦演唱会talking如家人聊天搞怪
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923674_m1d5ae17da03301rnn0.html>
+- 链接: <https://k.sina.com.cn/article_7879923551_m1d5ae175f03301svcq.html>
 
-### 新闻分析丨特朗普放松对俄制裁为何在美引发巨大反弹
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-10-18 09:29
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBrcnhPUU5BT0NSbV9fcmVSR0xoeG1pbG4wN1hrRG90ZHNMc2ZkcDk1eVFSQ1hmLVNXbnp3R0NUSnF6Tm96Y2habHdBRzdOYVFKSGlRTThsWklNLU9vNHJpQ3dSeXpiMGpSRVJEemFIUmxldUFnNWc2MjdIM1BtV3M?oc=5>
-
-### 特朗普还在冲锋开路，共和党私下已经商量好，集中精力先保参议院
+### 特朗普：法国出现的暴力事件要怪罪移民
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-10-18 19:36
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE9TZ01tNVRLSmU3bmZtSzNvVVltZDZVUFBzTW5fOFFEMWNWc2dRY3hwREZ3OUR4Y0NYd1JJYWlER215OEpfbjdGOXNIaTVwbkZpaUY2Q0FxWDhwaWpoUmloSXRKaGlmMDVVbzBxLXJsQ0pEQQ?oc=5>
+- 场馆: RFI
+- 时间: 2026-10-18 21:35
+- 链接: <https://news.google.com/rss/articles/CBMirAJBVV95cUxQaTRqcnBKbnNHdU5LdWFnVHVoXzR2NDdCdFhxbGNJUE9hNDgyaGZod01QRXBIbTd0aXZtU0lpb3l4cjZMaTZQbnViZnQtbFJLbi1IR1ViMV9Sbks5cmctaFhUQW9DWi1zbE1nNFVxeE1rWVRDT0psX3B1VDFtbHFlNVZoRmowRU8xRGo1X0UyYzFxWUpVXzR1RVFwOTNGWEFlZWNIVFhRcDVDVENaTmtiNzlsT085ck1QUEJjMDBSWURrQXozNndrWEFrQXdLWWNNbFlnUVBlMjZjX29seDBFZXl2VVNyaGFoMXBLVEZvOWpLdG9BQUZzUU43X3FlNEYtaF9xdFZoSWQzNUU1ZWtfaExrS0ZTYzEyS25RVVdJemZNS1pZelJ5bWpRNlQ?oc=5>
 
-### 特朗普吹捧的白宫宴会厅，认捐名单曝光！苹果、英伟达在列，捐赠金额惊人|唐纳德·特朗普|微软|捐款|富豪|商务部长
+### 以色列大选前夕，特朗普总统公开力挺内塔尼亚胡连任
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻
-- 时间: 2026-10-17 16:04
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE42R1V6WWtOZkRRQW9URjN0aG1fcm5iNFFHZ2hRYVV6ME51UkJNWGR6NDhOUUdTMktXeWRycHVhQzMtTGZiakJwbWRTSTlrYjk3X3Vyck9uaTFWekNUbUJDVUx0UjVUazE1aXNYRndFYkpMRjN4?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-10-18 20:56
+- 链接: <https://news.google.com/rss/articles/CBMizAFBVV95cUxObF9QVnZWbW1TcnlMdDhjV29kRXJ1RGtsWEdOYXJNYkhTaVlIZG0zQzhCU01mLXdmMlE0WFcyTkV3bFhXOUx4NnFrQlBxbllLMVFXOV9VcF9iTTZUTFN4U3loLVFuVmxYRDAtVHlHbFAyZmVmeVZTMnljTlFlSzR0UEJZbTFrUUxPTDJQZkJKRVZzc2REOElfdTNVNVBNbmNkMnJZQXZReUVsMkR2d285NjJHNEpla05fYXN1UU5QTDR2cGh4b1hYbUxNOXTSAc8BQVVfeXFMTlhnRUdkSUZuVlJJbVpXS2lBOU4zM1ZxVTBJeDRjZi03YVNWQ2VxWENQTGNMcVpfdFFoZFBiMmJMOGxubDRsdURBYy03YU4zamd6TGhWc0ZzeTZsOVhyb0ROZE1mNkdrOTF0ejVBQUFJVEFDMGRwNjQyTmlXOGhURVlpQ3lQT243YVNvXzdxdzB3a1RTQU5NcEpzbGtVOEIteGdKaVM0dklQaFhocll3d1VNc0ZKdDFUSUJEZ3dOMXktcVQ4eWdqd0pySkw2eFlF?oc=5>
 
-### TRUMP 币——新一轮行情即将到来？
+### 以色列选举临近，特朗普还是内塔尼亚胡的“好兄弟”吗？
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Binance
-- 时间: 2026-10-18 13:54
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zbnNWNHVzTFlwQ0p0M2pXalZqYks1d2pnRExMLTRJdTR1QmpneWVrSGlZeGNLYVRUTnRSWUNaNFotTFQ1VEZMWVFNbHA5MU44SW5NS1llYWZzX3lUQjNzeFdVZVJJd0lt?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-10-18 14:18
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1TQkxBUXdWdkZ6dzFmOE50SnE0b3pKRm0zYUFXZW14MEZrdG16cHFQTzlqbWNadUhqNUZ6TEJ6UV8zQURnZm03SVhwU3Y?oc=5>
+
+### 特朗普发表致以色列民众的公开信
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 搜狐
+- 时间: 2026-10-18 16:33
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxORDAwWWR4MDctc1A3ZjdjNElGaVV5QkRWRWM2S0FJdlA2MmZ4OFQtM2dhbm9sUnpCOEZOZ0sySEU2TWFyUl9PdDhCeFpjeEhPM2k1WlNxai10a2YzcTZRSWtPMUNzQ1ZKMHVFcTc4ZXdLWThWT3prTVdqVmIzNjZQQm1SYUh5UWhq?oc=5>
+
+### 为何特朗普与共和党耗资数十亿美元的中期选举闪电攻势收效甚微
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-10-16 16:59
+- 链接: <https://news.google.com/rss/articles/CBMilgFBVV95cUxNVDhUMklCdldmUXFiZXBmTHk0dWdBajlHMGZuWDVWOTN2dkFDdXdZZFIwNV9lZUVRdWFRQ2I2SUlPb3hKalppYjZsN01pT05ZSGsteDE1Y1NaSjQ2RU8xUGpBd1VJTTEyQXRVcU92dWFtYVNDeG80ZVpPNlpNc0dfa1c1NlQ3OHRlT0dKNW5mRXRaOUNndUE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-18 22:13  (6 条)
+
+- **周杰伦** | 周杰伦演唱会talking如家人聊天搞怪 <https://k.sina.com.cn/article_7879923551_m1d5ae175f03301svcq.html>
+- **特朗普** | 特朗普：法国出现的暴力事件要怪罪移民 <https://news.google.com/rss/articles/CBMirAJBVV95cUxQaTRqcnBKbnNHdU5LdWFnVHVoXzR2NDdCdFhxbGNJUE9hNDgyaGZod01QRXBIbTd0aXZtU0lpb3l4cjZMaTZQbnViZnQtbFJLbi1IR1ViMV9Sbks5cmctaFhUQW9DWi1zbE1nNFVxeE1rWVRDT0psX3B1VDFtbHFlNVZoRmowRU8xRGo1X0UyYzFxWUpVXzR1RVFwOTNGWEFlZWNIVFhRcDVDVENaTmtiNzlsT085ck1QUEJjMDBSWURrQXozNndrWEFrQXdLWWNNbFlnUVBlMjZjX29seDBFZXl2VVNyaGFoMXBLVEZvOWpLdG9BQUZzUU43X3FlNEYtaF9xdFZoSWQzNUU1ZWtfaExrS0ZTYzEyS25RVVdJemZNS1pZelJ5bWpRNlQ?oc=5>
+- **特朗普** | 以色列大选前夕，特朗普总统公开力挺内塔尼亚胡连任 <https://news.google.com/rss/articles/CBMizAFBVV95cUxObF9QVnZWbW1TcnlMdDhjV29kRXJ1RGtsWEdOYXJNYkhTaVlIZG0zQzhCU01mLXdmMlE0WFcyTkV3bFhXOUx4NnFrQlBxbllLMVFXOV9VcF9iTTZUTFN4U3loLVFuVmxYRDAtVHlHbFAyZmVmeVZTMnljTlFlSzR0UEJZbTFrUUxPTDJQZkJKRVZzc2REOElfdTNVNVBNbmNkMnJZQXZReUVsMkR2d285NjJHNEpla05fYXN1UU5QTDR2cGh4b1hYbUxNOXTSAc8BQVVfeXFMTlhnRUdkSUZuVlJJbVpXS2lBOU4zM1ZxVTBJeDRjZi03YVNWQ2VxWENQTGNMcVpfdFFoZFBiMmJMOGxubDRsdURBYy03YU4zamd6TGhWc0ZzeTZsOVhyb0ROZE1mNkdrOTF0ejVBQUFJVEFDMGRwNjQyTmlXOGhURVlpQ3lQT243YVNvXzdxdzB3a1RTQU5NcEpzbGtVOEIteGdKaVM0dklQaFhocll3d1VNc0ZKdDFUSUJEZ3dOMXktcVQ4eWdqd0pySkw2eFlF?oc=5>
+- **特朗普** | 以色列选举临近，特朗普还是内塔尼亚胡的“好兄弟”吗？ <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1TQkxBUXdWdkZ6dzFmOE50SnE0b3pKRm0zYUFXZW14MEZrdG16cHFQTzlqbWNadUhqNUZ6TEJ6UV8zQURnZm03SVhwU3Y?oc=5>
+- **特朗普** | 特朗普发表致以色列民众的公开信 <https://news.google.com/rss/articles/CBMiiAFBVV95cUxORDAwWWR4MDctc1A3ZjdjNElGaVV5QkRWRWM2S0FJdlA2MmZ4OFQtM2dhbm9sUnpCOEZOZ0sySEU2TWFyUl9PdDhCeFpjeEhPM2k1WlNxai10a2YzcTZRSWtPMUNzQ1ZKMHVFcTc4ZXdLWThWT3prTVdqVmIzNjZQQm1SYUh5UWhq?oc=5>
+- **特朗普** | 为何特朗普与共和党耗资数十亿美元的中期选举闪电攻势收效甚微 <https://news.google.com/rss/articles/CBMilgFBVV95cUxNVDhUMklCdldmUXFiZXBmTHk0dWdBajlHMGZuWDVWOTN2dkFDdXdZZFIwNV9lZUVRdWFRQ2I2SUlPb3hKalppYjZsN01pT05ZSGsteDE1Y1NaSjQ2RU8xUGpBd1VJTTEyQXRVcU92dWFtYVNDeG80ZVpPNlpNc0dfa1c1NlQ3OHRlT0dKNW5mRXRaOUNndUE?oc=5>
 
 ### 2026-10-18 19:57  (5 条)
 
