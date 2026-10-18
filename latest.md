@@ -1,62 +1,112 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-18 14:46**
-- 本轮扫到 14057 条, 新增 **6** 条
+- 最近更新: **2026-10-18 17:43**
+- 本轮扫到 14068 条, 新增 **11** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (11 条)
 
-### 周杰伦在墨尔本演唱会将如何解决外国歌迷理解歌词的问题？
+### 网传王一博明年演唱会，2018年舞台放到2026依然能打
 
-- 艺人/关键词: **周杰伦**
+- 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801nbrm.html>
+- 链接: <https://k.sina.com.cn/article_2155987804_m8081c35c03301keki.html>
 
-### 特朗普：法国在燃烧，你们赶快关闭边境
+### 王一博演唱会再传新消息，粉丝为何如此期待？
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923373_1d5ae16ad06801fjeg.html>
+
+### 蔡徐坤出发新加坡演唱会，状态稳利落清爽
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_2495457342_m94bda83e05301ecog.html>
+
+### 共和党议员抨击特朗普给予俄制裁豁免 格雷厄姆之妹指要和特朗普座谈
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-10-18 10:15
+- 链接: <https://news.google.com/rss/articles/CBMi1ANBVV95cUxNNGJVemFKQkc1N2p6YnZKSXdtNFB0WmZpM3J0V3Z4MFE5cmFfUUN1Y2U5cTAySWw2UWltMDQtcVFBbzc2VG1OSHVsZDBlUEY5Wk1lcDFONUV1bEZXc25aZ2tFalNkUFpjTXVieTJWRG1laEpVdFkyeHQ1M05ja1g2YUswamNobWFyTzhLOGJ4ZEM3R3ZYT0h6WUZ6eVY2S0JvWjdTWDlBd2ZVSlZ3MVJ3NGt6dmtMWmNSQ0RLeFBQdWpTU2VxdzRYS2dmSmF1X2c4ajZKU2VjUzlqX05Wajc2OXZmdjJtc2J3a0J5N01QT2ZzS3dPSlpEZ2RKZE05YWZBRXVaTldmQkR2eENndzlXZXFxUTEzTUdPMFNESVBzMkdUTm9Ha1BFYk9WQWYwQUZfcWlWVmR4bDZ4b0tCZ3VoVWpnamhNMGpPY3QyMDB2cXBJVG5jYVdjRmtmQ042NjJEYllOTVBZTEgwR1NETi1FZWFMWlo5MjhmVHJzS3g0aVc2aUhSQmNlUEY4bFQwbHZzbVhpclJldkpSaUR2VjFOYTlKQ0JldWJtQVV6S3owbTlxUWMydkVzOHpZeTR2eTBCTnA5a2JVQnoxZ1g5UXVtUjBLT3I?oc=5>
+
+### 贝森特：我今春曾要求欧洲盟友与我们一道，对中印实施次级关税但遭拒绝
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-10-18 15:48
+- 链接: <https://news.google.com/rss/articles/CBMi4ANBVV95cUxQN191dzl1LUduclhZVDN6ZUR0c3BzSnhQT0xkcnd2RVQ0eDVSZDQ4d3hZMXBVN1Y5Mm14V2hCUGZnT1B1RzZJZFhQeWF3c2ptN1Uzbk9VazhMay15MGxHRGE0UWUzT2VMUFRyV2txakxIWkRVM3BhN0NlSkVFTTZ1UjZTNEpMamFrLW5JWnU1SGM1cFhPckRoYldfZms0dE9uVjd0NDl5ZlpGNXNzemlHZ19qbGNuTUtHQmI3SkQxV0xfYTNOYjNfaFZMTkhvQnBLTnYxUjFxVHk1VDB1U1ZKeWliR1N5N3J5eGNsLVh4UXEzWC10NHNhQlY5WlA1UGJsaU1vQlRad2drcnlTZ1ZkUWwxMnpEaDJTNzMzREpLVTB3Y2RUZG9hUnh4U1FYUFB5UG5QV3gwT0xsSGF3WVBHVXJEV1ZOZ2RnR1VxdFRmZVNaM3B6RDczUDVCc3ExdF9adWF1XzVBazBXcDl1LXFnMTZSeWlJekV6WmZmTW1ZY3prdUtpQ0tHUkRMYk5GTlNfeGZqdXhKSHZ3a0VvX1daczUxTlJmUFhVSkZ6U0QyZVFKVVo5RFhBSk14WjN6MjItQ3lLUk9GQ21MQkFUZ1BVUWxkMDVRcFZPNmQ4dUlaUUk?oc=5>
+
+### 美国总统特朗普：将在东波托马克高尔夫球场建造高尔夫球场。
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 手机新浪网
+- 时间: 2026-10-18 14:10
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE03ZENRWEFzQWdSZTk2Tmxfd3A4MXVWTjRSdktoOUF6NU5iQmxrLTdFVDdDR0FUYXZJR0FWVDlxQkY3aEFRaWk1WjJxcw?oc=5>
+
+### 特朗普支持率再创新低 美国期中选举前民主党领先
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-10-18 16:39
+- 链接: <https://news.google.com/rss/articles/CBMi6AJBVV95cUxPalRjOTE0QTNZN0JZMm1naGJKWTNKYVVIRGpIVWNjbFBsclhqcnc2cnhyODFsTWVNd1EwZXNOS2RZQng4MmQ1NEx3WmFwV0N4WVJrdzBKYzNsQllRUFB6XzVVUW9UOVlfcjM1bG1mbUgxeElZV2FZeHdUUmN3bzQ2UmZHMXRBS3hMOXdXbjZoSUg2dTlpeE9XTEdCUWprbGMySmxZTkJNR3p4Y0tUY0duMU1ULUNBc2JkaEJoUHV6TFo3ZmlneW1SbDZIY2dOZG42OWhTNEp5LTZWblIzV01XRXhSeU1xM1NLSkRNdmxnMzdnRXc0eTJvc0lEeExqTnNidjRncUZBcUhDaVV2b3duMWMyWHQ1WFhXajc2cVlEekRKWXJjMlZQajF5eEJwaGpUTVR2cDFQRHlYZ1hReGkxWFB4eHFWTGNOZklHNm9LRFZGNEFLRHhDalJENl9fWk9xSFJDejJvOGw?oc=5>
+
+### 5000美元在我庄园只够买汉堡点心：特朗普“分红”最诚实的部分
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-10-18 12:31
-- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTFBWU1dHcW1PTHFzZ05UUWFfWGI1dUdUSFdoX0ExUnVqS2hocDhfSFpjUWhVZ0ktVGNMRjZNZFRLWF92WDE1bktjZDN4c2FtQkt5dXc?oc=5>
+- 时间: 2026-10-18 12:22
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5jbmNCWjBHWjFkSXhMQm0yNGpqUkY0bnhKc1FrWk5CR2g0VWFvX3pMTEttcW5vZzZqSDEwV0JkaFpIUFBGTHFxMVZhUFg?oc=5>
 
-### 美媒：选举临近，特朗普和内塔尼亚胡的“兄弟情谊”正在破裂
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-10-18 13:32
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1jSkJ2VzdWWUlOQmwzVWxPRjBBNjN5U0szdGZEaU5WSnNPalRPTERFV1ZLT1NfQTB0YW13YkJYTE5DRFFaOTFmWjZRaGJWWXpwMDAxS2pmY21yRGZudzNVakpsM2dGUDFPWlFtRjZzQXFVRm8?oc=5>
-
-### 伊朗：若美国恢复袭击已有“新作战计划”|唐纳德·特朗普|阿拉格齐|以色列|核武器|商船
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-10-18 14:15
-- 链接: <https://news.google.com/rss/articles/CBMingJBVV95cUxNelI4aEhyS1NLWHN5eXFFZUFaVTh5R3R2Q3E2R1czTHF0ajdYQzJVc2FfQmdDWVEyWlZQRzdfRER5cVVqclVONmJ6WFFodHU2OTRNNmJlUXFraE93Tjg1d1JnUkNpYkE4dHU1UEt3cUdRWU42RExqX0FVX04yVE12V0ZELTVvbkZUOGVROWQ0T0hELVk3bjFua3JzT3RTd3NXSnNkcENmeGpYMFVpX0l5aDYwa09WWWJUR3JGYzd2Uk5BOFBsNWNTMnNkakpuZkc5clI0ZWNWdkJaWVlqdjVHV3o5TGYyVEhlSU9nY2NnbkZtOEtPcWlyTy10Unk5RFczNG5Bb3lXVEN0RlFmendzUWR0Z19ESGFBbnVWcjRB?oc=5>
-
-### 邵永灵：高油价让共和党难保铁票区 特朗普支持率创新低
+### 特朗普“分红”最诚实的部分是什么 消费要求揭晓
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 中华网
-- 时间: 2026-10-18 11:51
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1uSjBtekN3QWQ5eFVqTlRjOHR3UkRFNFZveC1RNE9XN2ZuWGpGQmZyMUtqUGhHb3BRUnFIT3NMMDJWZkIwWTlyNE9Ba2Z1OTBEMXh1X2ktUDhlQnluMHZKUlh3RXFfTlM1cTVfNlhmV08?oc=5>
+- 时间: 2026-10-18 15:57
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5mbjRJbXdYODhkaTJrV1FpbmNWTEhaNE1abDRzcVR4Rnc5SGlTN0R1WHk0Ny02T0tzeDdDeElFaVUyMEVDakhMZ1hlRkRkSEtISUtKbjVRVC1oZW56ZUlCamdrUUJ5S0Z1eGJCazVYdXo?oc=5>
 
-### 特朗普再提“特朗普分红”：须在美国消费，可以在海湖庄园和我共进午餐，5000美元能买一个汉堡与一份点心
+### 泽连斯基：若美国站在普京一边，将是历史性错误
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 搜狐
-- 时间: 2026-10-18 14:10
-- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxORkxfMUVFMHp1bm1fNVNCbGFPeWg0Q2RMdzdrRnY4eEFhNWdreWFPWmdKSThkRHFOZUFmWWpmUzlRa05hZkZTOW9hRGlsSndTUC01eXNUdXJ4c3hUVk5LVWk5WGZXR2ZQczRTX1Y5SkpnaWZacjhNb2JmSjhBTW9RTUlqUklyTzFB?oc=5>
+- 场馆: RFI
+- 时间: 2026-10-18 16:34
+- 链接: <https://news.google.com/rss/articles/CBMi3AJBVV95cUxQV1FoOFJYeVhDLWNtcmhjakdtVDAzVDdXVGpPcVROUVFINFVfdWpyZUxEbUVUd3d4LUxJNjVaODJTRWJxbkt1MmpORC0yZF9sU2ZmZ2trZHZDZndVS01kWHB0ZGVWbC1nRlktVnhLdW1GeGtLSmo2OXNWSmd5bFFEUWEtRnVBZTkwN3dwZzFITVFQa1FVcDdzVHh3bHNYTlJqWnVHd1RYVlkxbEdmdjRwa0ZqY0pnZHctUDRGMjllM1FXR3JJcFpMdzZVckREdUliWVJrcGptQzhJVDNEQzJBc0owQ1dLYmZ1UDFjLVBkZm01cTNzSHJTN09qdHc4ZTB1S2FtZTBLUEEwMmFpWktYbWE0MEw3WFN0bzdWQlNPTGctWk1Bd3JZZGdockZ5anlzYWtRNnBRdmNaUUJLVFFfYjVzNU9EYjhLSTFiV2I5NVFidmVCb3lJY2hhekc?oc=5>
+
+### 特朗普表态支持内坦亚胡连任以色列总理
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 8world
+- 时间: 2026-10-18 15:12
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdjBsR1NwamV6aGFOdm1GMThEN1hDdDBlS0Jtcmhjdi1YSUdsaXhQMEhvUmkyb2tGQ0FwcmRpNjZHQ2ZsWHN0TEQ1c2h1V2lGVDlmN3Q5T1hNU01RWDRSZGpmMjUtNURobm5uZlFYRkRhR1NzeE5NaW9ualV5Rlg4RWVwR3VpOWIw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-18 17:43  (11 条)
+
+- **王一博** | 网传王一博明年演唱会，2018年舞台放到2026依然能打 <https://k.sina.com.cn/article_2155987804_m8081c35c03301keki.html>
+- **王一博** | 王一博演唱会再传新消息，粉丝为何如此期待？ <https://k.sina.com.cn/article_7879923373_1d5ae16ad06801fjeg.html>
+- **蔡徐坤** | 蔡徐坤出发新加坡演唱会，状态稳利落清爽 <https://k.sina.com.cn/article_2495457342_m94bda83e05301ecog.html>
+- **特朗普** | 共和党议员抨击特朗普给予俄制裁豁免 格雷厄姆之妹指要和特朗普座谈 <https://news.google.com/rss/articles/CBMi1ANBVV95cUxNNGJVemFKQkc1N2p6YnZKSXdtNFB0WmZpM3J0V3Z4MFE5cmFfUUN1Y2U5cTAySWw2UWltMDQtcVFBbzc2VG1OSHVsZDBlUEY5Wk1lcDFONUV1bEZXc25aZ2tFalNkUFpjTXVieTJWRG1laEpVdFkyeHQ1M05ja1g2YUswamNobWFyTzhLOGJ4ZEM3R3ZYT0h6WUZ6eVY2S0JvWjdTWDlBd2ZVSlZ3MVJ3NGt6dmtMWmNSQ0RLeFBQdWpTU2VxdzRYS2dmSmF1X2c4ajZKU2VjUzlqX05Wajc2OXZmdjJtc2J3a0J5N01QT2ZzS3dPSlpEZ2RKZE05YWZBRXVaTldmQkR2eENndzlXZXFxUTEzTUdPMFNESVBzMkdUTm9Ha1BFYk9WQWYwQUZfcWlWVmR4bDZ4b0tCZ3VoVWpnamhNMGpPY3QyMDB2cXBJVG5jYVdjRmtmQ042NjJEYllOTVBZTEgwR1NETi1FZWFMWlo5MjhmVHJzS3g0aVc2aUhSQmNlUEY4bFQwbHZzbVhpclJldkpSaUR2VjFOYTlKQ0JldWJtQVV6S3owbTlxUWMydkVzOHpZeTR2eTBCTnA5a2JVQnoxZ1g5UXVtUjBLT3I?oc=5>
+- **特朗普** | 贝森特：我今春曾要求欧洲盟友与我们一道，对中印实施次级关税但遭拒绝 <https://news.google.com/rss/articles/CBMi4ANBVV95cUxQN191dzl1LUduclhZVDN6ZUR0c3BzSnhQT0xkcnd2RVQ0eDVSZDQ4d3hZMXBVN1Y5Mm14V2hCUGZnT1B1RzZJZFhQeWF3c2ptN1Uzbk9VazhMay15MGxHRGE0UWUzT2VMUFRyV2txakxIWkRVM3BhN0NlSkVFTTZ1UjZTNEpMamFrLW5JWnU1SGM1cFhPckRoYldfZms0dE9uVjd0NDl5ZlpGNXNzemlHZ19qbGNuTUtHQmI3SkQxV0xfYTNOYjNfaFZMTkhvQnBLTnYxUjFxVHk1VDB1U1ZKeWliR1N5N3J5eGNsLVh4UXEzWC10NHNhQlY5WlA1UGJsaU1vQlRad2drcnlTZ1ZkUWwxMnpEaDJTNzMzREpLVTB3Y2RUZG9hUnh4U1FYUFB5UG5QV3gwT0xsSGF3WVBHVXJEV1ZOZ2RnR1VxdFRmZVNaM3B6RDczUDVCc3ExdF9adWF1XzVBazBXcDl1LXFnMTZSeWlJekV6WmZmTW1ZY3prdUtpQ0tHUkRMYk5GTlNfeGZqdXhKSHZ3a0VvX1daczUxTlJmUFhVSkZ6U0QyZVFKVVo5RFhBSk14WjN6MjItQ3lLUk9GQ21MQkFUZ1BVUWxkMDVRcFZPNmQ4dUlaUUk?oc=5>
+- **特朗普** | 美国总统特朗普：将在东波托马克高尔夫球场建造高尔夫球场。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE03ZENRWEFzQWdSZTk2Tmxfd3A4MXVWTjRSdktoOUF6NU5iQmxrLTdFVDdDR0FUYXZJR0FWVDlxQkY3aEFRaWk1WjJxcw?oc=5>
+- **特朗普** | 特朗普支持率再创新低 美国期中选举前民主党领先 <https://news.google.com/rss/articles/CBMi6AJBVV95cUxPalRjOTE0QTNZN0JZMm1naGJKWTNKYVVIRGpIVWNjbFBsclhqcnc2cnhyODFsTWVNd1EwZXNOS2RZQng4MmQ1NEx3WmFwV0N4WVJrdzBKYzNsQllRUFB6XzVVUW9UOVlfcjM1bG1mbUgxeElZV2FZeHdUUmN3bzQ2UmZHMXRBS3hMOXdXbjZoSUg2dTlpeE9XTEdCUWprbGMySmxZTkJNR3p4Y0tUY0duMU1ULUNBc2JkaEJoUHV6TFo3ZmlneW1SbDZIY2dOZG42OWhTNEp5LTZWblIzV01XRXhSeU1xM1NLSkRNdmxnMzdnRXc0eTJvc0lEeExqTnNidjRncUZBcUhDaVV2b3duMWMyWHQ1WFhXajc2cVlEekRKWXJjMlZQajF5eEJwaGpUTVR2cDFQRHlYZ1hReGkxWFB4eHFWTGNOZklHNm9LRFZGNEFLRHhDalJENl9fWk9xSFJDejJvOGw?oc=5>
+- **特朗普** | 5000美元在我庄园只够买汉堡点心：特朗普“分红”最诚实的部分 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5jbmNCWjBHWjFkSXhMQm0yNGpqUkY0bnhKc1FrWk5CR2g0VWFvX3pMTEttcW5vZzZqSDEwV0JkaFpIUFBGTHFxMVZhUFg?oc=5>
+- **特朗普** | 特朗普“分红”最诚实的部分是什么 消费要求揭晓 <https://news.google.com/rss/articles/CBMicEFVX3lxTE5mbjRJbXdYODhkaTJrV1FpbmNWTEhaNE1abDRzcVR4Rnc5SGlTN0R1WHk0Ny02T0tzeDdDeElFaVUyMEVDakhMZ1hlRkRkSEtISUtKbjVRVC1oZW56ZUlCamdrUUJ5S0Z1eGJCazVYdXo?oc=5>
+- **特朗普** | 泽连斯基：若美国站在普京一边，将是历史性错误 <https://news.google.com/rss/articles/CBMi3AJBVV95cUxQV1FoOFJYeVhDLWNtcmhjakdtVDAzVDdXVGpPcVROUVFINFVfdWpyZUxEbUVUd3d4LUxJNjVaODJTRWJxbkt1MmpORC0yZF9sU2ZmZ2trZHZDZndVS01kWHB0ZGVWbC1nRlktVnhLdW1GeGtLSmo2OXNWSmd5bFFEUWEtRnVBZTkwN3dwZzFITVFQa1FVcDdzVHh3bHNYTlJqWnVHd1RYVlkxbEdmdjRwa0ZqY0pnZHctUDRGMjllM1FXR3JJcFpMdzZVckREdUliWVJrcGptQzhJVDNEQzJBc0owQ1dLYmZ1UDFjLVBkZm01cTNzSHJTN09qdHc4ZTB1S2FtZTBLUEEwMmFpWktYbWE0MEw3WFN0bzdWQlNPTGctWk1Bd3JZZGdockZ5anlzYWtRNnBRdmNaUUJLVFFfYjVzNU9EYjhLSTFiV2I5NVFidmVCb3lJY2hhekc?oc=5>
+- **Trump** | 特朗普表态支持内坦亚胡连任以色列总理 <https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdjBsR1NwamV6aGFOdm1GMThEN1hDdDBlS0Jtcmhjdi1YSUdsaXhQMEhvUmkyb2tGQ0FwcmRpNjZHQ2ZsWHN0TEQ1c2h1V2lGVDlmN3Q5T1hNU01RWDRSZGpmMjUtNURobm5uZlFYRkRhR1NzeE5NaW9ualV5Rlg4RWVwR3VpOWIw?oc=5>
 
 ### 2026-10-18 14:46  (6 条)
 
