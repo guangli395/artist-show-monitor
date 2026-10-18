@@ -1,64 +1,73 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-17 23:16**
-- 本轮扫到 14024 条, 新增 **6** 条
+- 最近更新: **2026-10-18 01:19**
+- 本轮扫到 14030 条, 新增 **6** 条
 
 ---
 
 ## 本轮新发现 (6 条)
 
-### 特朗普：有人对我说“祝你选举好运”，我说“我已经赢了。”
+### 史上“最短命”白宫新闻秘书晒全家与特朗普在办公室合影
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-10-17 23:32
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFAtRWdVMUhUN0VtMVduaXdtemQtaHl0MDN3VDlZMXlnY3gxc0d2Yy1ZalYzMU9UV0U4S1BpSm1uSm1fX1Rnd1ZNMWhfM2U?oc=5>
+
+### 特朗普：对俄制裁决定对美国有利。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪网
-- 时间: 2026-10-17 21:10
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFA0SzZ0SHZKUW1NbzhHZE9NenVHejdGZzZXQTVqbVplTmt2T2tSV29NMy1uWXN1MjV0RkhnS3FwQjF0Y1B1ZnFHM0g1UQ?oc=5>
+- 时间: 2026-10-17 23:42
+- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE95S1BwZG11R1pBcnlkNFkxbjdiQUN1Sks0U2lVekEySnpuMjNoc3pnSDluUGZaX2E1Vlp6TFZQc1EweFI2T3AzdWtWUkZleXM?oc=5>
 
-### 特朗普：民众明白对伊朗开战并非需要付出巨大代价。
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-10-17 19:51
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFA0YnlLTXVGa1pQVXpWakV5dzNHWGc2cm9ENXRFVFVSWFhKbG9nWVJha2VEa1Z2UFh3MHI2b0ZiMTRxU0dpQWdzb29oQQ?oc=5>
-
-### 特朗普：即将前往堪萨斯州，提振共和党在中期选举中的支持率。
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-10-17 19:54
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5IR3pqY2s2UjhZZFNaSHdlNjRocUVGeXl0OUNycWpBVVl5aFZycXgtV0p1Vk1VYUhybU05ZzFneFlQamt4cDdRbUlxRQ?oc=5>
-
-### 特朗普豁免《格雷厄姆法案》中多项对俄制裁、限制措施及关税
+### 美俄“握手”、乌欧“皱眉”，西方对俄分歧持续显化
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-10-17 00:55
-- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE85Y1RhX0QwM0w4RDBjcEpXYjdWeWZVX25OdDJzY2hZUWhyanhJa1d6U2ZGSEkzVHZPbmhKeFNIeW9kQ2s4RFRiOUpIY2lWbGpaLXpselJtWldacHVLTDl3TGNDa1BYcGQ5M2s1azVfamlCdDBUMGNCc3J3?oc=5>
+- 时间: 2026-10-17 23:59
+- 链接: <https://news.google.com/rss/articles/CBMihgFBVV95cUxObUNELXJGcmRPWkJLUXdNVEtlSlluRXZQSXhFNUhSNHJ1SWJQeDh5SkZ2YWdLMTkxUTd1amREWExXalhhZzJPbXpRWXVtNS05NlIteW05SWNCbk53YmI5eEtzNnF5eG8xYV9mWUJKNTVkRmZaRnB2OGYwUnFwOWNBaF8wZDVJdw?oc=5>
 
-### 无视特朗普促和努力 俄罗斯和乌克兰继续相互打击
+### 为何特朗普与共和党耗资数十亿美元的中期选举闪电攻势收效甚微
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-10-16 22:28
-- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxNcWRrQ185SHZJRGFKbWdrUXIxMjZBWjRkQUkySm9wVlB6NkZtY3VtTVJkck1FQ2YyTnYzTU5OMHlnVG5tVUc4YXVjaDFKNTRPbE9pYW9JZWNad0lGMVJaQXFNY1JrZ3I3cVpTVWdSLXMtOTNzWWg0V21RdGJUVHNFMDZpS09lSDdLNUR4bGRTQQ?oc=5>
+- 时间: 2026-10-16 16:59
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxQdm5NSDVmX2FJbHhsWDV4b1dVdTRsV3otWjhJRXJPUTctUjljYkJLcE5rUEU4MTk3TFdTdGRFUDB1b2lITks2RjJSZU56VWM1YzBJeVYxSFdzMjZxcXlURG9MbkdKcW42UjJBWnF3RzVfTlNCX051QjFNWk1GZ0stcmk3Vzdzb00?oc=5>
 
-### 特朗普：预计中国核武库在五年内赶上美国
+### 意大利防长：特朗普，完全错误
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: DW.com
-- 时间: 2026-10-17 07:35
-- 链接: <https://news.google.com/rss/articles/CBMioAJBVV95cUxPTktTRlJ0QkNPdUVfUlAzbXZJTDJnX3AzblAteEFqakVnODRhd29WSnhfbTR1NEhNbWxsUWhHU1VpT2lnQWFqVm5yal9fNUpUMmNTc1kxblJkVEwxYnkyN2dkSzZNdTB5YUhYZTdVUkNKNF9Ya045NHdXYXY0UjhDYkdNMHZ3T0dMTDZFdEhBbXJrbm5nNFV1aFBvcVBNcXhnZXVXcmhYb3dEV1Z1bVRER1kyT2ljT3lnSXRYV3hzUmF6VnVIT1FLVUt3SnlLZC1LWjl1anhLeUxHd2REbkNXN2NUeW1OYUNMYXE4NUt0SHBxcWxRWHBGdjBCOXZucHk4VHdtSWh3SnZ4YW5jb1cyUGFKRnBlVmZzc0o4d3VLekHSAaACQVVfeXFMTXoyM2ZRRG5rZE4yV3dyNGlEdENBRkR3Y2EtWVRKRHZWWnZTOTJ1eXZQaWFLWnV0d3BnTHdSc1dPUTJaRmVudXNnQWVoTEhFeDBWeVZNa21EYW5ZYW1BcExMdjRWNUxOVmYtLVNMT1JtQ0dyRjEzVUdwVXBoZmRCVWYwR0U1eHpxNWktdVFjYjRYRjVOZFZDckpyMXRuTHpNcVoyRDlKMDFpVmdla3ppS21hTDRhS0hIS1pqZzBlaW03NnNRZUdpM19vREt5Ty1ZN1h6TjVCaTlNSEhmUGg4TDVGbHZWbWZNMEZWRllkSHVlY180b3JLRVgzVkRjSzJGR3lab1NWZlNUUWhHUDhzajRLdDFDOVpnU3MyaDlNYWhp?oc=5>
+- 场馆: 观察者网
+- 时间: 2026-10-17 09:09
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE9zck9yUUVlOUFpcUo2V1dFdWhxcUVlME1tZHhtMjBFSERjMVEwTWNBcnFTSHRRRzh6TlFnRnJQcHFheWpGMWNSemh3Rm1sWjFHMGJpMEhBckxjXzRZVVlfaGU0SDFBQVFSVUh3RGdpd0x3RVE?oc=5>
+
+### He Crafted a Crypto Law for Trump-as His Company Got Millions From a Crypto Giant -- WSJ
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-10-15 01:31
+- 链接: <https://news.google.com/rss/articles/CBMingFBVV95cUxPM3VlNFlYZ0RjeFNOR2xGeUhOUWdFMXJiTXQ1QzBkeWhkNnB4RjRSQXF1cG9VNTIyY2N3Szlhdjk4WkRmWE9HNmRyLUU1dWxJS1RXWUJBT0R6MXIxS1p6Q3hjbUNPLWhLRWRYRmRIaFdCaE1kT25xYkJ0NGdzekkxT3dhUlNZWVR2VnYtRnNOM3Y3d2hjMnV0c1JzbF85dw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-18 01:19  (6 条)
+
+- **特朗普** | 史上“最短命”白宫新闻秘书晒全家与特朗普在办公室合影 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFAtRWdVMUhUN0VtMVduaXdtemQtaHl0MDN3VDlZMXlnY3gxc0d2Yy1ZalYzMU9UV0U4S1BpSm1uSm1fX1Rnd1ZNMWhfM2U?oc=5>
+- **特朗普** | 特朗普：对俄制裁决定对美国有利。 <https://news.google.com/rss/articles/CBMiT0FVX3lxTE95S1BwZG11R1pBcnlkNFkxbjdiQUN1Sks0U2lVekEySnpuMjNoc3pnSDluUGZaX2E1Vlp6TFZQc1EweFI2T3AzdWtWUkZleXM?oc=5>
+- **特朗普** | 美俄“握手”、乌欧“皱眉”，西方对俄分歧持续显化 <https://news.google.com/rss/articles/CBMihgFBVV95cUxObUNELXJGcmRPWkJLUXdNVEtlSlluRXZQSXhFNUhSNHJ1SWJQeDh5SkZ2YWdLMTkxUTd1amREWExXalhhZzJPbXpRWXVtNS05NlIteW05SWNCbk53YmI5eEtzNnF5eG8xYV9mWUJKNTVkRmZaRnB2OGYwUnFwOWNBaF8wZDVJdw?oc=5>
+- **特朗普** | 为何特朗普与共和党耗资数十亿美元的中期选举闪电攻势收效甚微 <https://news.google.com/rss/articles/CBMihwFBVV95cUxQdm5NSDVmX2FJbHhsWDV4b1dVdTRsV3otWjhJRXJPUTctUjljYkJLcE5rUEU4MTk3TFdTdGRFUDB1b2lITks2RjJSZU56VWM1YzBJeVYxSFdzMjZxcXlURG9MbkdKcW42UjJBWnF3RzVfTlNCX051QjFNWk1GZ0stcmk3Vzdzb00?oc=5>
+- **特朗普** | 意大利防长：特朗普，完全错误 <https://news.google.com/rss/articles/CBMic0FVX3lxTE9zck9yUUVlOUFpcUo2V1dFdWhxcUVlME1tZHhtMjBFSERjMVEwTWNBcnFTSHRRRzh6TlFnRnJQcHFheWpGMWNSemh3Rm1sWjFHMGJpMEhBckxjXzRZVVlfaGU0SDFBQVFSVUh3RGdpd0x3RVE?oc=5>
+- **Trump** | He Crafted a Crypto Law for Trump-as His Company Got Millions From a Crypto Giant -- WSJ <https://news.google.com/rss/articles/CBMingFBVV95cUxPM3VlNFlYZ0RjeFNOR2xGeUhOUWdFMXJiTXQ1QzBkeWhkNnB4RjRSQXF1cG9VNTIyY2N3Szlhdjk4WkRmWE9HNmRyLUU1dWxJS1RXWUJBT0R6MXIxS1p6Q3hjbUNPLWhLRWRYRmRIaFdCaE1kT25xYkJ0NGdzekkxT3dhUlNZWVR2VnYtRnNOM3Y3d2hjMnV0c1JzbF85dw?oc=5>
 
 ### 2026-10-17 23:16  (6 条)
 
