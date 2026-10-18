@@ -1,98 +1,71 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-18 11:30**
-- 本轮扫到 14051 条, 新增 **11** 条
+- 最近更新: **2026-10-18 14:46**
+- 本轮扫到 14057 条, 新增 **6** 条
 
 ---
 
-## 本轮新发现 (11 条)
+## 本轮新发现 (6 条)
 
-### 刘雨昕主题曲中心位，一个回眸帅翻全场，女生也顶不住
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6579089051_m18824ee9b033027474.html>
-
-### 王思雨在墨尔本看周杰伦演唱会！晒自合唱视频：最爱的歌手
+### 周杰伦在墨尔本演唱会将如何解决外国歌迷理解歌词的问题？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2314713452_m89f7b96c03301e3r6.html>
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801nbrm.html>
 
-### 昆凌：“我美吗女士”认真监督爸爸主题曲表演中
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1850268574_m6e48db9e03302bdb0.html>
-
-### 泽连斯基对特朗普强硬，因“心情低落”：被关了警报、断了情报，还不让打俄炼油厂
+### 特朗普：法国在燃烧，你们赶快关闭边境
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-10-18 08:08
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9EcnAwRXBSWUE4WHdFcGFBSEZyRkJSaUFObldFRVlBVjNBUlVLQkIzMkVyb1hUTVUxX1FJWThjRjJXVzc3Si01cExEREo?oc=5>
+- 时间: 2026-10-18 12:31
+- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTFBWU1dHcW1PTHFzZ05UUWFfWGI1dUdUSFdoX0ExUnVqS2hocDhfSFpjUWhVZ0ktVGNMRjZNZFRLWF92WDE1bktjZDN4c2FtQkt5dXc?oc=5>
 
-### 特朗普否认白宫限制乌克兰使用星盾
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-10-17 16:52
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9lekMtUXBvRUU0c1EyR0ZBNlI5a2s3Z09iUy1sOXhWQ0s2YXUxdlVQQ2ZJSTRQSXVJMG45YkcwOEtGZkxUXzYwUnc4dVlFdGI4WUdGaDFicFJlQzlPa21vb28yblI3M2luVVBtUnpMXzc?oc=5>
-
-### 特朗普：过去17个月里，没有非法移民通过南部边境获准进入美国。
+### 美媒：选举临近，特朗普和内塔尼亚胡的“兄弟情谊”正在破裂
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-10-17 19:22
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9iSkFoZmhKeVlOdWFFd3MwN09FSXdqMkZfb3YxcnhnYlVIY2x2Q21kOTNfdnJCVTlyZUFfOFVLdm1Cd3d2ZWFjWWU2cw?oc=5>
+- 场馆: 观察者网
+- 时间: 2026-10-18 13:32
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1jSkJ2VzdWWUlOQmwzVWxPRjBBNjN5U0szdGZEaU5WSnNPalRPTERFV1ZLT1NfQTB0YW13YkJYTE5DRFFaOTFmWjZRaGJWWXpwMDAxS2pmY21yRGZudzNVakpsM2dGUDFPWlFtRjZzQXFVRm8?oc=5>
 
-### 美学者：特朗普有70%概率在11月3日前打击伊朗，“这可能是最好的拉票手段”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-18 09:07
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5IZEZJMTg0SG13Nnl6cDdoai1ROVBOT2daSFMxUEgxRzZzT1NCSHBrNUhUWVhBVTRkQ1ZlOWc2cjEtVFhHYmYtMjJ0YXA?oc=5>
-
-### 上任五天就出局 扎卡里亚已不再是特朗普的首席发言人
+### 伊朗：若美国恢复袭击已有“新作战计划”|唐纳德·特朗普|阿拉格齐|以色列|核武器|商船
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-10-16 19:35
-- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE9PcU5vaW03Q0wtZDRtSFk5bVlCQmh5akFfZ05WOURDZ3RtQ2RIc28tYVo0TTR2UmFGaUowVjJfSUw3dE96eDhIQzhUM25ZV1BhWTg0azZPbmxySmE1U3k0TVhNYzlSaUJQZ0IzcHN1aGRNaWNMcHFsWG5R?oc=5>
+- 时间: 2026-10-18 14:15
+- 链接: <https://news.google.com/rss/articles/CBMingJBVV95cUxNelI4aEhyS1NLWHN5eXFFZUFaVTh5R3R2Q3E2R1czTHF0ajdYQzJVc2FfQmdDWVEyWlZQRzdfRER5cVVqclVONmJ6WFFodHU2OTRNNmJlUXFraE93Tjg1d1JnUkNpYkE4dHU1UEt3cUdRWU42RExqX0FVX04yVE12V0ZELTVvbkZUOGVROWQ0T0hELVk3bjFua3JzT3RTd3NXSnNkcENmeGpYMFVpX0l5aDYwa09WWWJUR3JGYzd2Uk5BOFBsNWNTMnNkakpuZkc5clI0ZWNWdkJaWVlqdjVHV3o5TGYyVEhlSU9nY2NnbkZtOEtPcWlyTy10Unk5RFczNG5Bb3lXVEN0RlFmendzUWR0Z19ESGFBbnVWcjRB?oc=5>
 
-### 10月17日外盘头条：特朗普否认关停乌克兰卫星系统美国2026财年联邦预算赤字达到1.99万亿美元
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-10-16 22:02
-- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxOUmNQQ25JZVA1bHRwck1SQTh2cW03UmthT29Sbi1kQUZqYVlRb1ZiOFNKQ1ltekRQdG1QTXNKUGxPOVdtV2NSbDVfc1J1WEsxTU84aTZPYXZQOVVZNWtDOHpySll6S0xNVEE2ZG9uTDNDZ2hSbl84eWxSWUxTSEZ6NnZwSENfYjJkdnV6Zk5GZw?oc=5>
-
-### 特朗普前“准儿媳”为何被迫离任 财务丑闻引发危机
+### 邵永灵：高油价让共和党难保铁票区 特朗普支持率创新低
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 中华网
-- 时间: 2026-10-17 16:27
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE4yYWV1U1R4aTBLSzVFZnNzbEZ2YWpsWDlsY25qc0dsLTc3UlNTNG9saVNZVFhpQ0RLeGJwN0lMQlF2QkZkNGtuY0NHdGgtZ3RldDBEX0ZsSFJFQTd3UjRyVWhJWVRDbkhJakxZdXV4YkI?oc=5>
+- 时间: 2026-10-18 11:51
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1uSjBtekN3QWQ5eFVqTlRjOHR3UkRFNFZveC1RNE9XN2ZuWGpGQmZyMUtqUGhHb3BRUnFIT3NMMDJWZkIwWTlyNE9Ba2Z1OTBEMXh1X2ktUDhlQnluMHZKUlh3RXFfTlM1cTVfNlhmV08?oc=5>
 
-### 美国中期选举广告分析：民主党提及特朗普的广告投入是共和党的十倍
+### 特朗普再提“特朗普分红”：须在美国消费，可以在海湖庄园和我共进午餐，5000美元能买一个汉堡与一份点心
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-10-17 05:10
-- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE1BWmlZWTdHVW5pT2NJSWpQNFNmbTVEZjlCcVZuV05KQ0dyN1d5cXVFalNKZ2tJU3BDTnZyTnYtS2Jjd3lkMk16NW51aFdwWFB1bUNsZDBsMWhRb2M2QldUVXVFWlRxMlprRlBOZ2VzQnlINUw1aUpmb2x3?oc=5>
+- 场馆: 搜狐
+- 时间: 2026-10-18 14:10
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxORkxfMUVFMHp1bm1fNVNCbGFPeWg0Q2RMdzdrRnY4eEFhNWdreWFPWmdKSThkRHFOZUFmWWpmUzlRa05hZkZTOW9hRGlsSndTUC01eXNUdXJ4c3hUVk5LVWk5WGZXR2ZQczRTX1Y5SkpnaWZacjhNb2JmSjhBTW9RTUlqUklyTzFB?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-18 14:46  (6 条)
+
+- **周杰伦** | 周杰伦在墨尔本演唱会将如何解决外国歌迷理解歌词的问题？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801nbrm.html>
+- **特朗普** | 特朗普：法国在燃烧，你们赶快关闭边境 <https://news.google.com/rss/articles/CBMiUkFVX3lxTFBWU1dHcW1PTHFzZ05UUWFfWGI1dUdUSFdoX0ExUnVqS2hocDhfSFpjUWhVZ0ktVGNMRjZNZFRLWF92WDE1bktjZDN4c2FtQkt5dXc?oc=5>
+- **特朗普** | 美媒：选举临近，特朗普和内塔尼亚胡的“兄弟情谊”正在破裂 <https://news.google.com/rss/articles/CBMic0FVX3lxTE1jSkJ2VzdWWUlOQmwzVWxPRjBBNjN5U0szdGZEaU5WSnNPalRPTERFV1ZLT1NfQTB0YW13YkJYTE5DRFFaOTFmWjZRaGJWWXpwMDAxS2pmY21yRGZudzNVakpsM2dGUDFPWlFtRjZzQXFVRm8?oc=5>
+- **特朗普** | 伊朗：若美国恢复袭击已有“新作战计划”|唐纳德·特朗普|阿拉格齐|以色列|核武器|商船 <https://news.google.com/rss/articles/CBMingJBVV95cUxNelI4aEhyS1NLWHN5eXFFZUFaVTh5R3R2Q3E2R1czTHF0ajdYQzJVc2FfQmdDWVEyWlZQRzdfRER5cVVqclVONmJ6WFFodHU2OTRNNmJlUXFraE93Tjg1d1JnUkNpYkE4dHU1UEt3cUdRWU42RExqX0FVX04yVE12V0ZELTVvbkZUOGVROWQ0T0hELVk3bjFua3JzT3RTd3NXSnNkcENmeGpYMFVpX0l5aDYwa09WWWJUR3JGYzd2Uk5BOFBsNWNTMnNkakpuZkc5clI0ZWNWdkJaWVlqdjVHV3o5TGYyVEhlSU9nY2NnbkZtOEtPcWlyTy10Unk5RFczNG5Bb3lXVEN0RlFmendzUWR0Z19ESGFBbnVWcjRB?oc=5>
+- **特朗普** | 邵永灵：高油价让共和党难保铁票区 特朗普支持率创新低 <https://news.google.com/rss/articles/CBMicEFVX3lxTE1uSjBtekN3QWQ5eFVqTlRjOHR3UkRFNFZveC1RNE9XN2ZuWGpGQmZyMUtqUGhHb3BRUnFIT3NMMDJWZkIwWTlyNE9Ba2Z1OTBEMXh1X2ktUDhlQnluMHZKUlh3RXFfTlM1cTVfNlhmV08?oc=5>
+- **特朗普** | 特朗普再提“特朗普分红”：须在美国消费，可以在海湖庄园和我共进午餐，5000美元能买一个汉堡与一份点心 <https://news.google.com/rss/articles/CBMiiAFBVV95cUxORkxfMUVFMHp1bm1fNVNCbGFPeWg0Q2RMdzdrRnY4eEFhNWdreWFPWmdKSThkRHFOZUFmWWpmUzlRa05hZkZTOW9hRGlsSndTUC01eXNUdXJ4c3hUVk5LVWk5WGZXR2ZQczRTX1Y5SkpnaWZacjhNb2JmSjhBTW9RTUlqUklyTzFB?oc=5>
 
 ### 2026-10-18 11:30  (11 条)
 
