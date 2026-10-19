@@ -1,62 +1,109 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-18 22:13**
-- 本轮扫到 14079 条, 新增 **6** 条
+- 最近更新: **2026-10-19 00:19**
+- 本轮扫到 14089 条, 新增 **10** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (10 条)
 
-### 周杰伦演唱会talking如家人聊天搞怪
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923551_m1d5ae175f03301svcq.html>
-
-### 特朗普：法国出现的暴力事件要怪罪移民
+### 特朗普发文支持内塔尼亚胡竞选连任以色列总理
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-10-18 21:35
-- 链接: <https://news.google.com/rss/articles/CBMirAJBVV95cUxQaTRqcnBKbnNHdU5LdWFnVHVoXzR2NDdCdFhxbGNJUE9hNDgyaGZod01QRXBIbTd0aXZtU0lpb3l4cjZMaTZQbnViZnQtbFJLbi1IR1ViMV9Sbks5cmctaFhUQW9DWi1zbE1nNFVxeE1rWVRDT0psX3B1VDFtbHFlNVZoRmowRU8xRGo1X0UyYzFxWUpVXzR1RVFwOTNGWEFlZWNIVFhRcDVDVENaTmtiNzlsT085ck1QUEJjMDBSWURrQXozNndrWEFrQXdLWWNNbFlnUVBlMjZjX29seDBFZXl2VVNyaGFoMXBLVEZvOWpLdG9BQUZzUU43X3FlNEYtaF9xdFZoSWQzNUU1ZWtfaExrS0ZTYzEyS25RVVdJemZNS1pZelJ5bWpRNlQ?oc=5>
+- 场馆: 中华网
+- 时间: 2026-10-19 00:04
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFBrTFFzOFBpQUZ6SXZnMkpTQTlqY3hmWXFvRmJIejlvT2NUaVhJWTc3d1J3Y3ZseUlZWUU0REU5VDZLa3I3MklXbWItOGRiaVZicEQ3bHRRdjFnU19ncklKWFBXUDRWaFNSSVVqY0k4RmNCZw?oc=5>
 
-### 以色列大选前夕，特朗普总统公开力挺内塔尼亚胡连任
+### “内幕”曝光！马斯克提议，特朗普同意
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-10-18 20:56
-- 链接: <https://news.google.com/rss/articles/CBMizAFBVV95cUxObF9QVnZWbW1TcnlMdDhjV29kRXJ1RGtsWEdOYXJNYkhTaVlIZG0zQzhCU01mLXdmMlE0WFcyTkV3bFhXOUx4NnFrQlBxbllLMVFXOV9VcF9iTTZUTFN4U3loLVFuVmxYRDAtVHlHbFAyZmVmeVZTMnljTlFlSzR0UEJZbTFrUUxPTDJQZkJKRVZzc2REOElfdTNVNVBNbmNkMnJZQXZReUVsMkR2d285NjJHNEpla05fYXN1UU5QTDR2cGh4b1hYbUxNOXTSAc8BQVVfeXFMTlhnRUdkSUZuVlJJbVpXS2lBOU4zM1ZxVTBJeDRjZi03YVNWQ2VxWENQTGNMcVpfdFFoZFBiMmJMOGxubDRsdURBYy03YU4zamd6TGhWc0ZzeTZsOVhyb0ROZE1mNkdrOTF0ejVBQUFJVEFDMGRwNjQyTmlXOGhURVlpQ3lQT243YVNvXzdxdzB3a1RTQU5NcEpzbGtVOEIteGdKaVM0dklQaFhocll3d1VNc0ZKdDFUSUJEZ3dOMXktcVQ4eWdqd0pySkw2eFlF?oc=5>
+- 场馆: finance.sina.com.cn
+- 时间: 2026-10-19 00:02
+- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcmk1akNkWTN6YWw0Q2E2b0MwQUFFenpSaXVVQUl0TGVTeFdzRndYZUoyM2xIa2hjbTE4eTZJVnRFTldSS3hqXy1sbFY2VGpvSkxPSF9mTVhGMnZEd1Vlcy02ZmVVNlBEWnc1WmV1WUJ5NHVPNldCY3lrQ1ZsQm55T2xMdUxhblZvcVNv?oc=5>
 
-### 以色列选举临近，特朗普还是内塔尼亚胡的“好兄弟”吗？
+### 美媒：选举临近，特朗普和内塔尼亚胡的“兄弟情谊”正在破裂
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-10-18 14:18
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1TQkxBUXdWdkZ6dzFmOE50SnE0b3pKRm0zYUFXZW14MEZrdG16cHFQTzlqbWNadUhqNUZ6TEJ6UV8zQURnZm03SVhwU3Y?oc=5>
+- 时间: 2026-10-19 00:05
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBrSEtjQ2NXdzdHcE41amZLbzRidjRxdVN2SVQyTHM2MUlIS2FCSU5wX1FKMHB5QlR2c29DYmVxUEdoMG9zTHJfcGFHenk?oc=5>
 
-### 特朗普发表致以色列民众的公开信
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 搜狐
-- 时间: 2026-10-18 16:33
-- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxORDAwWWR4MDctc1A3ZjdjNElGaVV5QkRWRWM2S0FJdlA2MmZ4OFQtM2dhbm9sUnpCOEZOZ0sySEU2TWFyUl9PdDhCeFpjeEhPM2k1WlNxai10a2YzcTZRSWtPMUNzQ1ZKMHVFcTc4ZXdLWThWT3prTVdqVmIzNjZQQm1SYUh5UWhq?oc=5>
-
-### 为何特朗普与共和党耗资数十亿美元的中期选举闪电攻势收效甚微
+### 签字没多久，特朗普就改主意了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-10-16 16:59
-- 链接: <https://news.google.com/rss/articles/CBMilgFBVV95cUxNVDhUMklCdldmUXFiZXBmTHk0dWdBajlHMGZuWDVWOTN2dkFDdXdZZFIwNV9lZUVRdWFRQ2I2SUlPb3hKalppYjZsN01pT05ZSGsteDE1Y1NaSjQ2RU8xUGpBd1VJTTEyQXRVcU92dWFtYVNDeG80ZVpPNlpNc0dfa1c1NlQ3OHRlT0dKNW5mRXRaOUNndUE?oc=5>
+- 时间: 2026-10-17 23:26
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1qZ2s5RzM2emRoSlNtSVFSLVFFbm9HY2lRd0RFbFFNUVhmUF9XR2RVRUQxQ3FHb0Y4eDVyZ3JIMHlwN2RaVHlzZTdERnhmN0t5TzVmaHBJaktCYlp4NjVMVHVnRFNQal8xMEZvT3VIVUpsT2hVaG5QWQ?oc=5>
+
+### 特朗普暂停对俄制裁后，美国两党都急眼了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者网
+- 时间: 2026-10-18 11:50
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE9MOU5mNWhvMGdIT00tb3NRTWg1RXVfRFNienVXYVUyWFJiQURKVTRCUy1GNi1MQnFnRVctcFN6M2VOdEthRnlRdDIySlJ1N2JzV011VzhDLXVEa05lXzRuY3ZPZTAzRExFQ0hlQlpPUWNsNnc?oc=5>
+
+### 特朗普暂缓执行对俄新一轮制裁
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: DW.com
+- 时间: 2026-10-17 12:22
+- 链接: <https://news.google.com/rss/articles/CBMixgJBVV95cUxNVXRvcWNBbi10c2dDUVVRWl9zV2E2YnJWZVpXZ3NkVUQ2MlJTQjdmRlp1U3B2c3EtdVlMZjBtYnd1cFhmUmxFSUt3WjNIVWlLMFVvekJ5dzlfZzdWWjlQN28xMWhKZEI2dmlZSDdwVjRwYmxQVWdveVZObHNkZEZvNTFqNktRYXI2UW1QNUl3amduU2NLZ09uYWRlMV9pckJzR3dXUVd0U2hIN2R2Z1RLcmItZzlDVXZVNDhzRTMzcUYwaVVNMHlYZTg1eWF2RUx2Umhrem9ESGF6ajNSS0paS1JqTEI4SGN1bE9kdGZ3c08tWE5mc2lRcUVSa2I3eDZ5ZVRKRHU3ZkotbXYtdVBFUTB3Y2FUTWNjdUVsRDhGN2tOV0tYcFQwOEpjRldWUjBWUm1GUmhiQ3ltd2tBUUpGbU5mWl9sZ9IBxgJBVV95cUxPU1Q2Nm1mSG1hREFocHZNV3ZaZjJfeTEwZUxZWmhuRnVWZ1Z1U01WejRKTXVvZ0lLZDlJalhDQkVzc25zU1gyd042UWVMYjd6ZWFQRExEaFRua3Rpa0tkX2FxcVJoM2JNSW5hYkktN2F3ZzN2TFl1aG55QlNOejJWRWppdmIxUnh4M0VGZ0NVbGRkVjkwc2h6UnBKcHFpcnVGSUlvSFJraU1XM1hkRzM1V21VbldBNlEtLTJUZi1LeEo0bVJhWllnVlRHdVZLZXFIQTZBWWpnY1pkN2R5OVNpWTdxWjQ3YVlPcXdEM3pIQjRFZWRrektpR0s5X1FUYnNBWXJWWGRZai1Ed2ZCdnM4NFcxR2hFanZVbEhFNUFmSkxfYldXMERsRHhPZXpoWHFxUGRYMEFxRi1EZDdOY1lUMjN3N2hXUQ?oc=5>
+
+### 特朗普发文支持内塔尼亚胡竞选连任以色列总理
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-10-18 23:36
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBhejdtLW8yMXYzQ2dBbHE3LU9ZMGNBMWVjRHQzeXdFMjQxZFRqUzFRRmxndmhrczVsTUk5Q3FDZWZpUEdfUmc2TzhHSWg?oc=5>
+
+### 特朗普力挺内塔尼亚胡连任
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 京报网
+- 时间: 2026-10-18 15:17
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE15OEVUeXBFOGRZSzJSS0R1YzV3OEhyYVVLbEJsMlVLV24yRU5mRS0xQUVxS2h0WUpwRkZ3Ynh3U216Tjlwb3g2aGt3WTJ5NkxyTTU1VXo0MlpFTDRtX3c?oc=5>
+
+### 以色列大选将至 特朗普发文支持内塔尼亚胡竞选连任以总理
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 搜狐网
+- 时间: 2026-10-18 23:03
+- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxPT3RXeGNCOWRBTThmZW9HWGZDWk5GS1RfYjdZX0QwRjh2ZU5JS2laVnJPcENzVzNmOThjaldQOG5WYjJ4LUFuQld5TGxHZmJtSERzbEU3Yllxc0l2YVRhbFl1OXNoV2xSQnR0Z0ZDVHJfeVFhV2M4MUVPdVotYlI4cjF0QjZ4TkxsMThj?oc=5>
+
+### 特朗普支持以色列总理内塔尼亚胡竞选连任
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-10-18 23:30
+- 链接: <https://news.google.com/rss/articles/CBMijgFBVV95cUxOLU9qQlNhd1hQU2VkWU9PRUw0MzBCbEk0VUlXa2FudElwdWhUTmVZai0wOWxTN0t5T3h5c0tRRjNaS0JseDhERHZLNDI5dFg4U0UtRE9VaDRYanJfay1TSzJ1LTNlZV9nQmJLZld0MW16ZE52TVRMRzdGZDJ0aE9wZUpVR2U2U20zWXR2cmlB?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-19 00:19  (10 条)
+
+- **特朗普** | 特朗普发文支持内塔尼亚胡竞选连任以色列总理 <https://news.google.com/rss/articles/CBMickFVX3lxTFBrTFFzOFBpQUZ6SXZnMkpTQTlqY3hmWXFvRmJIejlvT2NUaVhJWTc3d1J3Y3ZseUlZWUU0REU5VDZLa3I3MklXbWItOGRiaVZicEQ3bHRRdjFnU19ncklKWFBXUDRWaFNSSVVqY0k4RmNCZw?oc=5>
+- **特朗普** | “内幕”曝光！马斯克提议，特朗普同意 <https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcmk1akNkWTN6YWw0Q2E2b0MwQUFFenpSaXVVQUl0TGVTeFdzRndYZUoyM2xIa2hjbTE4eTZJVnRFTldSS3hqXy1sbFY2VGpvSkxPSF9mTVhGMnZEd1Vlcy02ZmVVNlBEWnc1WmV1WUJ5NHVPNldCY3lrQ1ZsQm55T2xMdUxhblZvcVNv?oc=5>
+- **特朗普** | 美媒：选举临近，特朗普和内塔尼亚胡的“兄弟情谊”正在破裂 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBrSEtjQ2NXdzdHcE41amZLbzRidjRxdVN2SVQyTHM2MUlIS2FCSU5wX1FKMHB5QlR2c29DYmVxUEdoMG9zTHJfcGFHenk?oc=5>
+- **特朗普** | 签字没多久，特朗普就改主意了 <https://news.google.com/rss/articles/CBMieEFVX3lxTE1qZ2s5RzM2emRoSlNtSVFSLVFFbm9HY2lRd0RFbFFNUVhmUF9XR2RVRUQxQ3FHb0Y4eDVyZ3JIMHlwN2RaVHlzZTdERnhmN0t5TzVmaHBJaktCYlp4NjVMVHVnRFNQal8xMEZvT3VIVUpsT2hVaG5QWQ?oc=5>
+- **特朗普** | 特朗普暂停对俄制裁后，美国两党都急眼了 <https://news.google.com/rss/articles/CBMic0FVX3lxTE9MOU5mNWhvMGdIT00tb3NRTWg1RXVfRFNienVXYVUyWFJiQURKVTRCUy1GNi1MQnFnRVctcFN6M2VOdEthRnlRdDIySlJ1N2JzV011VzhDLXVEa05lXzRuY3ZPZTAzRExFQ0hlQlpPUWNsNnc?oc=5>
+- **特朗普** | 特朗普暂缓执行对俄新一轮制裁 <https://news.google.com/rss/articles/CBMixgJBVV95cUxNVXRvcWNBbi10c2dDUVVRWl9zV2E2YnJWZVpXZ3NkVUQ2MlJTQjdmRlp1U3B2c3EtdVlMZjBtYnd1cFhmUmxFSUt3WjNIVWlLMFVvekJ5dzlfZzdWWjlQN28xMWhKZEI2dmlZSDdwVjRwYmxQVWdveVZObHNkZEZvNTFqNktRYXI2UW1QNUl3amduU2NLZ09uYWRlMV9pckJzR3dXUVd0U2hIN2R2Z1RLcmItZzlDVXZVNDhzRTMzcUYwaVVNMHlYZTg1eWF2RUx2Umhrem9ESGF6ajNSS0paS1JqTEI4SGN1bE9kdGZ3c08tWE5mc2lRcUVSa2I3eDZ5ZVRKRHU3ZkotbXYtdVBFUTB3Y2FUTWNjdUVsRDhGN2tOV0tYcFQwOEpjRldWUjBWUm1GUmhiQ3ltd2tBUUpGbU5mWl9sZ9IBxgJBVV95cUxPU1Q2Nm1mSG1hREFocHZNV3ZaZjJfeTEwZUxZWmhuRnVWZ1Z1U01WejRKTXVvZ0lLZDlJalhDQkVzc25zU1gyd042UWVMYjd6ZWFQRExEaFRua3Rpa0tkX2FxcVJoM2JNSW5hYkktN2F3ZzN2TFl1aG55QlNOejJWRWppdmIxUnh4M0VGZ0NVbGRkVjkwc2h6UnBKcHFpcnVGSUlvSFJraU1XM1hkRzM1V21VbldBNlEtLTJUZi1LeEo0bVJhWllnVlRHdVZLZXFIQTZBWWpnY1pkN2R5OVNpWTdxWjQ3YVlPcXdEM3pIQjRFZWRrektpR0s5X1FUYnNBWXJWWGRZai1Ed2ZCdnM4NFcxR2hFanZVbEhFNUFmSkxfYldXMERsRHhPZXpoWHFxUGRYMEFxRi1EZDdOY1lUMjN3N2hXUQ?oc=5>
+- **特朗普** | 特朗普发文支持内塔尼亚胡竞选连任以色列总理 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBhejdtLW8yMXYzQ2dBbHE3LU9ZMGNBMWVjRHQzeXdFMjQxZFRqUzFRRmxndmhrczVsTUk5Q3FDZWZpUEdfUmc2TzhHSWg?oc=5>
+- **特朗普** | 特朗普力挺内塔尼亚胡连任 <https://news.google.com/rss/articles/CBMiXkFVX3lxTE15OEVUeXBFOGRZSzJSS0R1YzV3OEhyYVVLbEJsMlVLV24yRU5mRS0xQUVxS2h0WUpwRkZ3Ynh3U216Tjlwb3g2aGt3WTJ5NkxyTTU1VXo0MlpFTDRtX3c?oc=5>
+- **特朗普** | 以色列大选将至 特朗普发文支持内塔尼亚胡竞选连任以总理 <https://news.google.com/rss/articles/CBMiiwFBVV95cUxPT3RXeGNCOWRBTThmZW9HWGZDWk5GS1RfYjdZX0QwRjh2ZU5JS2laVnJPcENzVzNmOThjaldQOG5WYjJ4LUFuQld5TGxHZmJtSERzbEU3Yllxc0l2YVRhbFl1OXNoV2xSQnR0Z0ZDVHJfeVFhV2M4MUVPdVotYlI4cjF0QjZ4TkxsMThj?oc=5>
+- **Trump** | 特朗普支持以色列总理内塔尼亚胡竞选连任 <https://news.google.com/rss/articles/CBMijgFBVV95cUxOLU9qQlNhd1hQU2VkWU9PRUw0MzBCbEk0VUlXa2FudElwdWhUTmVZai0wOWxTN0t5T3h5c0tRRjNaS0JseDhERHZLNDI5dFg4U0UtRE9VaDRYanJfay1TSzJ1LTNlZV9nQmJLZld0MW16ZE52TVRMRzdGZDJ0aE9wZUpVR2U2U20zWXR2cmlB?oc=5>
 
 ### 2026-10-18 22:13  (6 条)
 
