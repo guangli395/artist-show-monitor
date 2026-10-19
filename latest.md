@@ -1,122 +1,126 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-19 05:01**
-- 本轮扫到 14104 条, 新增 **15** 条
+- 最近更新: **2026-10-19 11:02**
+- 本轮扫到 14117 条, 新增 **13** 条
 
 ---
 
-## 本轮新发现 (15 条)
+## 本轮新发现 (13 条)
 
-### 周杰伦墨尔本演唱会的观众以华人为主吗？
+### 《陈情令》泰国曼谷粉丝见面会的视频
 
-- 艺人/关键词: **周杰伦**
+- 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068017ia4.html>
+- 链接: <https://k.sina.com.cn/article_7879996479_1d5af343f06801qpsk.html>
 
-### 周杰伦因筹备演唱会压力大到失眠如何缓解？
+### 《陈情令》泰国曼谷粉丝见面会的门票价格是多少？
 
-- 艺人/关键词: **周杰伦**
+- 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801nd70.html>
+- 链接: <https://k.sina.com.cn/article_7879849520_1d5acf63006801s75i.html>
 
-### 周杰伦在墨尔本演唱会上会唱哪些中文歌？
+### 王一博在《陈情令》泰国曼谷粉丝见面会演唱了哪些歌曲？
 
-- 艺人/关键词: **周杰伦**
+- 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068017ia0.html>
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068017j2g.html>
 
-### 周杰伦墨尔本演唱会为何坚持唱中文歌？
+### 王一博肖战南京演唱会安排如何？同台传闻核实结果
 
-- 艺人/关键词: **周杰伦**
+- 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801nd6w.html>
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068017j1s.html>
 
-### 外国观众如何评价周杰伦的华语演唱会？
+### 王一博第十七个破亿视频发布
 
-- 艺人/关键词: **周杰伦**
+- 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801nd6s.html>
+- 链接: <https://k.sina.com.cn/article_7879923674_m1d5ae17da03301rlca.html>
 
-### 周杰伦粉色墨尔本嘉年华演唱会开唱
+### 不满豁免对俄制裁，担心更坏事情发生，美媒称泽连斯基决定“公开对抗特朗普”
 
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923551_m1d5ae175f03301svhc.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街见闻
+- 时间: 2026-10-18 23:55
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE9pbzQxVW5ZNGVPTUFmRU4tVmNpRi12eklieDFaYlBXQ3NOZF9BaGlWY0FyYTFuQXctMTVIRzMyYjVLdHNIeURtbEl3endyR2pJc0lv?oc=5>
 
-### 杰伦：大家晚上墨尔本演唱会见
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2254646594_m86632d4205301jnge.html>
-
-### 不满豁免对俄制裁，泽连斯基决定“公开对抗特朗普”
+### 特朗普：你不愿意结束战争，泽连斯基：你逼迫乌克兰投降
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-10-19 00:26
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFB3SXZXOFdNQncxdTZvaW9aVDlzNlcxT242R3VDbS1jVzBRVkdMQmRHZkxfb04teEZlSnFMYmYxTmFvNFNrUFkwWXB3VQ?oc=5>
+- 时间: 2026-10-19 01:23
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9pSHNReFVLOFV6d3ZoSUdhM29SUWduOUdHak9xRzU3V1B4Vkl6SndkT2ZvQ2ZXSGswMXlRWTJWbW9HWGhVLVYzT0JmZWE?oc=5>
 
-### 选票面前，霸权低头？特朗普的“和平秀”穿帮了
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-19 03:56
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBVZGpKRWdPbk0wZnk2S1RHZTVtNURYbXQweU1Da0F4cklWUi05Z2k4ejJHb1RVX1NBMDlOVG1NSHZZYl9ES1N6VzVTMTQ?oc=5>
-
-### 特朗普“喊话”以色列人：我全面支持内塔尼亚胡竞选连任以总理，他绝不会让你们失望
+### 以色列议会选举临近 特朗普为内塔尼亚胡背书
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻
-- 时间: 2026-10-18 21:11
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTFBKc3p5eU1idEVDMEhmUnpINFBGWjFyaTVEOE9xYTFld29LbktVeVRvU1JWMDR3NzhhSWJCZmVnX1BtSkVrNjUxNXMxVFZMS0YwU1BsTWM1YUcwbHo3TlBJQTc3WU1WYi0zdVVCYTA1b2NyaUVL?oc=5>
+- 场馆: 中国经济网
+- 时间: 2026-10-19 10:25
+- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTE1NQXhCbjFyUkpXZFNYWjRER1BCR29DZE1NdDh2MDZyeXc1bG9qQXI3U2RxQXRibWlFbTdmS2VndV9CQ2c5c25xMGt2X3c0ZGV0UEhOM2NYUkxSR1lMYVVLQXBMUQ?oc=5>
 
-### 以色列大选将至 特朗普发文支持内塔尼亚胡竞选连任以总理
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中国网
-- 时间: 2026-10-19 02:53
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE1IbVNuLU5FY3d4VnZZOVRMcExaMmpKVkd4NGFlN2wzTUpualRqaFhPUTNhbzNrS0NTQUFwRmhVYjQ0M3BCM1d1Smx0bldwWUtWOVAzeFNGVGFxN1RaVVFjcnNRZ3ZxdFZfSWU3WXI1UQ?oc=5>
-
-### “最短命”白宫新闻秘书晒全家与特朗普在办公室合影
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 文学城
-- 时间: 2026-10-18 21:36
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE12cFlldmVldnlabllvM3FlRGUtVnRVQ25hMmhPdUo4SzI1QlpNcEhTY0ZiTlBhcXEwMmFkc1pNRU9OZWpHNTJ1dnRhd2xmYzFNcEdUamxRRW5rMGgzaVZuYmVlZEdLbmdS?oc=5>
-
-### 泽连斯基：特朗普正逼迫乌克兰投降
+### 两岸圆桌派| 唐湘龙、高志凯、周玉琴：选票面前，霸权低头？特朗普的“和平秀”穿帮了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 观察者网
-- 时间: 2026-10-19 02:08
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFA3OGMzMjZDWEN6UUYxTHJvNnlWclc2LWFkZjhGdHpLSnlmWTVnMW5rUk5GZFZDeGNDdW0zTDVleHYyeGNwY1k2VHhRdURpRFpDQWViTS1GTVdzaVdjTTA3X0ptYmFHVlMtU3N3N2tCSGROczA?oc=5>
+- 时间: 2026-10-19 01:46
+- 链接: <https://news.google.com/rss/articles/CBMibEFVX3lxTE5MQWZ2cnR0LVM3TmZYVXBiVHV0bkN1NEpOR2tDcUx0cUhJTWRSakpEVTV5RXVGUTVsVjI1ckN6b3BiTmNzRWtkYlFIR3UwM2NHclBBR045OU04aVJuWnhFTkY2MUZ6RldybGRpQw?oc=5>
 
-### 特朗普为暂缓对俄制裁辩护 再批泽连斯基不愿停战
+### 着眼中期选举 部分共和党人与白宫对俄政策切割
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-10-19 09:33
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE15Yzg2YW9ic1dxcjNudHptOUc3X1I1OXM2aXN0OUVLVXZFYmRTdU5laTZMTFZReHVPZ0lwRE0tSEhyT0Vad2N1el9sS3VUeFNycFcxZ0Z0eDBCY3QwYk16emRlM0RHa09ESFM0VFZQZGY5Ung3TW9oY2tOMVVNeUU?oc=5>
+
+### Oil Falls After President Trump Waives Sanctions Against Russia -- Market Talk
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-10-19 00:06
-- 链接: <https://news.google.com/rss/articles/CBMilgFBVV95cUxQNFNwaldrRm0zYjlvWlJFRjhXZk5wQk56VXhlZGMta1dlWUVJb0JKN0k4V29yY0hWM0tqVXdlMy1rTjVpcWdnYUI1M3RMd3FzYUlYTWozb0VHc0R4Tm40dHhSWjQwcDNMMEhRZGVhQWt0TlViSHgxbUsyNG8zWmxhYUlOWWY5aFhMU1BveFZWUVNGNFlUVkE?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-10-19 07:31
+- 链接: <https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLUVrTnFzWG85NmRkeTFjYW1XVWxaNnV6emlKUDZpTjIxdTZDdlBZZVQ5S0ZGMy1Rbl80bmZzZ3VQeFZ1dHhLdDREbDMza1JqQkszTXhGZmwxUUNUalBEb1lSeExXbXc2MThYVGk2RlZWRTdGeXBpTEpac01VYm1TZEVORUpacEhRTmlNR2VpSEFOclpIcmVVbkJvTG5oRmRTcEEyM3hHQzA3bHhob003WmVNdE5JdGRBWU5V?oc=5>
 
-### 特朗普继续推进华盛顿高尔夫球场改造计划
+### 特朗普幕僚正四处聘请律师，应对国会潜在调查风暴
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: 华尔街日报中文网
-- 时间: 2026-10-19 01:55
-- 链接: <https://news.google.com/rss/articles/CBMiogFBVV95cUxOaDFLQXVyd2N4bGJUMUFzcGxEQUgwZl84RENaNDVnZnpjRGxxbDl6cGNYYU5Jb3R5T2s5Q0xHQklJT0dNSGFSY2xubkJYTnFTbUQ0WFBQRXU1Y3E1aWU1NHhkaS1yZXRIQW9oTHRkdl8zbm1WZHpZZ19tVUU5cndDNzBMRzZEbUhSU2RWVlZHOHBPakZMLVB6R1h6dk5kOEMtOGc?oc=5>
+- 时间: 2026-10-19 05:40
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxNdm1za2oyMmNMcHZSM1ZLUUY0Rk9TTURZeDhRZHUzcU9uNUZjTUFmQ2dwdjJwcm1ESktVTVdZdHhFU1o0YU00a1pJY21sb3FNWTdwSWhubHRja3lDQ1czVExSbEpoeUhVQU9SRVl2Szdpb3MzZVZWR2xkN2hzU2tKdkZWbDNqV2M?oc=5>
+
+### 泽连斯基：我相信已采取步骤，旨在说服乌克兰投降
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-10-19 09:55
+- 链接: <https://news.google.com/rss/articles/CBMi6AJBVV95cUxQRHBremg0dG1pSVRrM3lOM1BxeUVSS3gwdllwV1NfeVF1elhCeVVZN2JYZ2gxUjNZczZjY1V2dVV5ZVpudThlQzY1cEE1UVFlR09ZTXhPeU8xbU12ZjVtd3htS2EycUIzbXBVVnFBWjRGampCZzhSSXlRRkJqa1lnd2JtTmFNNDdSNUdOTURvUDM2enZhMXZvejh0U04tZUdEVHVORXpncVNTMXl5Y0JITkxyRVFvNGV1WFZnakZpVDNIR1NEbGVBLVZCVGdNRFYwVlg0RmNWTS1jcVlILWRmUHdvVlR1QS1xLWxWV19iejB5ZXo1MDlHMTk4aDlRMFQ4clRsU2tKUUM2MnhWUG1FUVl4LXJXaEUzWDl4a1gyVFRETkl5Ylg1enFlbW00cWs1Y3JRaEVHMjJUR3dsM1lHUzhZV2ZUUFJxRTlTT21tMC1JX1JsQkFZQThEZzJzWjZvd3hVSEw4cG0?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-19 11:02  (13 条)
+
+- **王一博** | 《陈情令》泰国曼谷粉丝见面会的视频 <https://k.sina.com.cn/article_7879996479_1d5af343f06801qpsk.html>
+- **王一博** | 《陈情令》泰国曼谷粉丝见面会的门票价格是多少？ <https://k.sina.com.cn/article_7879849520_1d5acf63006801s75i.html>
+- **王一博** | 王一博在《陈情令》泰国曼谷粉丝见面会演唱了哪些歌曲？ <https://k.sina.com.cn/article_7879776356_1d5abd864068017j2g.html>
+- **王一博** | 王一博肖战南京演唱会安排如何？同台传闻核实结果 <https://k.sina.com.cn/article_7879776356_1d5abd864068017j1s.html>
+- **王一博** | 王一博第十七个破亿视频发布 <https://k.sina.com.cn/article_7879923674_m1d5ae17da03301rlca.html>
+- **特朗普** | 不满豁免对俄制裁，担心更坏事情发生，美媒称泽连斯基决定“公开对抗特朗普” <https://news.google.com/rss/articles/CBMiU0FVX3lxTE9pbzQxVW5ZNGVPTUFmRU4tVmNpRi12eklieDFaYlBXQ3NOZF9BaGlWY0FyYTFuQXctMTVIRzMyYjVLdHNIeURtbEl3endyR2pJc0lv?oc=5>
+- **特朗普** | 特朗普：你不愿意结束战争，泽连斯基：你逼迫乌克兰投降 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9pSHNReFVLOFV6d3ZoSUdhM29SUWduOUdHak9xRzU3V1B4Vkl6SndkT2ZvQ2ZXSGswMXlRWTJWbW9HWGhVLVYzT0JmZWE?oc=5>
+- **特朗普** | 以色列议会选举临近 特朗普为内塔尼亚胡背书 <https://news.google.com/rss/articles/CBMiY0FVX3lxTE1NQXhCbjFyUkpXZFNYWjRER1BCR29DZE1NdDh2MDZyeXc1bG9qQXI3U2RxQXRibWlFbTdmS2VndV9CQ2c5c25xMGt2X3c0ZGV0UEhOM2NYUkxSR1lMYVVLQXBMUQ?oc=5>
+- **特朗普** | 两岸圆桌派| 唐湘龙、高志凯、周玉琴：选票面前，霸权低头？特朗普的“和平秀”穿帮了 <https://news.google.com/rss/articles/CBMibEFVX3lxTE5MQWZ2cnR0LVM3TmZYVXBiVHV0bkN1NEpOR2tDcUx0cUhJTWRSakpEVTV5RXVGUTVsVjI1ckN6b3BiTmNzRWtkYlFIR3UwM2NHclBBR045OU04aVJuWnhFTkY2MUZ6RldybGRpQw?oc=5>
+- **特朗普** | 着眼中期选举 部分共和党人与白宫对俄政策切割 <https://news.google.com/rss/articles/CBMif0FVX3lxTE15Yzg2YW9ic1dxcjNudHptOUc3X1I1OXM2aXN0OUVLVXZFYmRTdU5laTZMTFZReHVPZ0lwRE0tSEhyT0Vad2N1el9sS3VUeFNycFcxZ0Z0eDBCY3QwYk16emRlM0RHa09ESFM0VFZQZGY5Ung3TW9oY2tOMVVNeUU?oc=5>
+- **Trump** | Oil Falls After President Trump Waives Sanctions Against Russia -- Market Talk <https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLUVrTnFzWG85NmRkeTFjYW1XVWxaNnV6emlKUDZpTjIxdTZDdlBZZVQ5S0ZGMy1Rbl80bmZzZ3VQeFZ1dHhLdDREbDMza1JqQkszTXhGZmwxUUNUalBEb1lSeExXbXc2MThYVGk2RlZWRTdGeXBpTEpac01VYm1TZEVORUpacEhRTmlNR2VpSEFOclpIcmVVbkJvTG5oRmRTcEEyM3hHQzA3bHhob003WmVNdE5JdGRBWU5V?oc=5>
+- **Trump** | 特朗普幕僚正四处聘请律师，应对国会潜在调查风暴 <https://news.google.com/rss/articles/CBMihwFBVV95cUxNdm1za2oyMmNMcHZSM1ZLUUY0Rk9TTURZeDhRZHUzcU9uNUZjTUFmQ2dwdjJwcm1ESktVTVdZdHhFU1o0YU00a1pJY21sb3FNWTdwSWhubHRja3lDQ1czVExSbEpoeUhVQU9SRVl2Szdpb3MzZVZWR2xkN2hzU2tKdkZWbDNqV2M?oc=5>
+- **Trump** | 泽连斯基：我相信已采取步骤，旨在说服乌克兰投降 <https://news.google.com/rss/articles/CBMi6AJBVV95cUxQRHBremg0dG1pSVRrM3lOM1BxeUVSS3gwdllwV1NfeVF1elhCeVVZN2JYZ2gxUjNZczZjY1V2dVV5ZVpudThlQzY1cEE1UVFlR09ZTXhPeU8xbU12ZjVtd3htS2EycUIzbXBVVnFBWjRGampCZzhSSXlRRkJqa1lnd2JtTmFNNDdSNUdOTURvUDM2enZhMXZvejh0U04tZUdEVHVORXpncVNTMXl5Y0JITkxyRVFvNGV1WFZnakZpVDNIR1NEbGVBLVZCVGdNRFYwVlg0RmNWTS1jcVlILWRmUHdvVlR1QS1xLWxWV19iejB5ZXo1MDlHMTk4aDlRMFQ4clRsU2tKUUM2MnhWUG1FUVl4LXJXaEUzWDl4a1gyVFRETkl5Ylg1enFlbW00cWs1Y3JRaEVHMjJUR3dsM1lHUzhZV2ZUUFJxRTlTT21tMC1JX1JsQkFZQThEZzJzWjZvd3hVSEw4cG0?oc=5>
 
 ### 2026-10-19 05:01  (15 条)
 
