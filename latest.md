@@ -1,96 +1,140 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-19 00:19**
-- 本轮扫到 14089 条, 新增 **10** 条
+- 最近更新: **2026-10-19 05:01**
+- 本轮扫到 14104 条, 新增 **15** 条
 
 ---
 
-## 本轮新发现 (10 条)
+## 本轮新发现 (15 条)
 
-### 特朗普发文支持内塔尼亚胡竞选连任以色列总理
+### 周杰伦墨尔本演唱会的观众以华人为主吗？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-10-19 00:04
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFBrTFFzOFBpQUZ6SXZnMkpTQTlqY3hmWXFvRmJIejlvT2NUaVhJWTc3d1J3Y3ZseUlZWUU0REU5VDZLa3I3MklXbWItOGRiaVZicEQ3bHRRdjFnU19ncklKWFBXUDRWaFNSSVVqY0k4RmNCZw?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068017ia4.html>
 
-### “内幕”曝光！马斯克提议，特朗普同意
+### 周杰伦因筹备演唱会压力大到失眠如何缓解？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-10-19 00:02
-- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcmk1akNkWTN6YWw0Q2E2b0MwQUFFenpSaXVVQUl0TGVTeFdzRndYZUoyM2xIa2hjbTE4eTZJVnRFTldSS3hqXy1sbFY2VGpvSkxPSF9mTVhGMnZEd1Vlcy02ZmVVNlBEWnc1WmV1WUJ5NHVPNldCY3lrQ1ZsQm55T2xMdUxhblZvcVNv?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801nd70.html>
 
-### 美媒：选举临近，特朗普和内塔尼亚胡的“兄弟情谊”正在破裂
+### 周杰伦在墨尔本演唱会上会唱哪些中文歌？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-19 00:05
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBrSEtjQ2NXdzdHcE41amZLbzRidjRxdVN2SVQyTHM2MUlIS2FCSU5wX1FKMHB5QlR2c29DYmVxUEdoMG9zTHJfcGFHenk?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068017ia0.html>
 
-### 签字没多久，特朗普就改主意了
+### 周杰伦墨尔本演唱会为何坚持唱中文歌？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-10-17 23:26
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1qZ2s5RzM2emRoSlNtSVFSLVFFbm9HY2lRd0RFbFFNUVhmUF9XR2RVRUQxQ3FHb0Y4eDVyZ3JIMHlwN2RaVHlzZTdERnhmN0t5TzVmaHBJaktCYlp4NjVMVHVnRFNQal8xMEZvT3VIVUpsT2hVaG5QWQ?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801nd6w.html>
 
-### 特朗普暂停对俄制裁后，美国两党都急眼了
+### 外国观众如何评价周杰伦的华语演唱会？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-10-18 11:50
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE9MOU5mNWhvMGdIT00tb3NRTWg1RXVfRFNienVXYVUyWFJiQURKVTRCUy1GNi1MQnFnRVctcFN6M2VOdEthRnlRdDIySlJ1N2JzV011VzhDLXVEa05lXzRuY3ZPZTAzRExFQ0hlQlpPUWNsNnc?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801nd6s.html>
 
-### 特朗普暂缓执行对俄新一轮制裁
+### 周杰伦粉色墨尔本嘉年华演唱会开唱
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: DW.com
-- 时间: 2026-10-17 12:22
-- 链接: <https://news.google.com/rss/articles/CBMixgJBVV95cUxNVXRvcWNBbi10c2dDUVVRWl9zV2E2YnJWZVpXZ3NkVUQ2MlJTQjdmRlp1U3B2c3EtdVlMZjBtYnd1cFhmUmxFSUt3WjNIVWlLMFVvekJ5dzlfZzdWWjlQN28xMWhKZEI2dmlZSDdwVjRwYmxQVWdveVZObHNkZEZvNTFqNktRYXI2UW1QNUl3amduU2NLZ09uYWRlMV9pckJzR3dXUVd0U2hIN2R2Z1RLcmItZzlDVXZVNDhzRTMzcUYwaVVNMHlYZTg1eWF2RUx2Umhrem9ESGF6ajNSS0paS1JqTEI4SGN1bE9kdGZ3c08tWE5mc2lRcUVSa2I3eDZ5ZVRKRHU3ZkotbXYtdVBFUTB3Y2FUTWNjdUVsRDhGN2tOV0tYcFQwOEpjRldWUjBWUm1GUmhiQ3ltd2tBUUpGbU5mWl9sZ9IBxgJBVV95cUxPU1Q2Nm1mSG1hREFocHZNV3ZaZjJfeTEwZUxZWmhuRnVWZ1Z1U01WejRKTXVvZ0lLZDlJalhDQkVzc25zU1gyd042UWVMYjd6ZWFQRExEaFRua3Rpa0tkX2FxcVJoM2JNSW5hYkktN2F3ZzN2TFl1aG55QlNOejJWRWppdmIxUnh4M0VGZ0NVbGRkVjkwc2h6UnBKcHFpcnVGSUlvSFJraU1XM1hkRzM1V21VbldBNlEtLTJUZi1LeEo0bVJhWllnVlRHdVZLZXFIQTZBWWpnY1pkN2R5OVNpWTdxWjQ3YVlPcXdEM3pIQjRFZWRrektpR0s5X1FUYnNBWXJWWGRZai1Ed2ZCdnM4NFcxR2hFanZVbEhFNUFmSkxfYldXMERsRHhPZXpoWHFxUGRYMEFxRi1EZDdOY1lUMjN3N2hXUQ?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923551_m1d5ae175f03301svhc.html>
 
-### 特朗普发文支持内塔尼亚胡竞选连任以色列总理
+### 杰伦：大家晚上墨尔本演唱会见
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_2254646594_m86632d4205301jnge.html>
+
+### 不满豁免对俄制裁，泽连斯基决定“公开对抗特朗普”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-10-18 23:36
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBhejdtLW8yMXYzQ2dBbHE3LU9ZMGNBMWVjRHQzeXdFMjQxZFRqUzFRRmxndmhrczVsTUk5Q3FDZWZpUEdfUmc2TzhHSWg?oc=5>
+- 时间: 2026-10-19 00:26
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFB3SXZXOFdNQncxdTZvaW9aVDlzNlcxT242R3VDbS1jVzBRVkdMQmRHZkxfb04teEZlSnFMYmYxTmFvNFNrUFkwWXB3VQ?oc=5>
 
-### 特朗普力挺内塔尼亚胡连任
+### 选票面前，霸权低头？特朗普的“和平秀”穿帮了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 京报网
-- 时间: 2026-10-18 15:17
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE15OEVUeXBFOGRZSzJSS0R1YzV3OEhyYVVLbEJsMlVLV24yRU5mRS0xQUVxS2h0WUpwRkZ3Ynh3U216Tjlwb3g2aGt3WTJ5NkxyTTU1VXo0MlpFTDRtX3c?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-10-19 03:56
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBVZGpKRWdPbk0wZnk2S1RHZTVtNURYbXQweU1Da0F4cklWUi05Z2k4ejJHb1RVX1NBMDlOVG1NSHZZYl9ES1N6VzVTMTQ?oc=5>
+
+### 特朗普“喊话”以色列人：我全面支持内塔尼亚胡竞选连任以总理，他绝不会让你们失望
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻
+- 时间: 2026-10-18 21:11
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTFBKc3p5eU1idEVDMEhmUnpINFBGWjFyaTVEOE9xYTFld29LbktVeVRvU1JWMDR3NzhhSWJCZmVnX1BtSkVrNjUxNXMxVFZMS0YwU1BsTWM1YUcwbHo3TlBJQTc3WU1WYi0zdVVCYTA1b2NyaUVL?oc=5>
 
 ### 以色列大选将至 特朗普发文支持内塔尼亚胡竞选连任以总理
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-10-18 23:03
-- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxPT3RXeGNCOWRBTThmZW9HWGZDWk5GS1RfYjdZX0QwRjh2ZU5JS2laVnJPcENzVzNmOThjaldQOG5WYjJ4LUFuQld5TGxHZmJtSERzbEU3Yllxc0l2YVRhbFl1OXNoV2xSQnR0Z0ZDVHJfeVFhV2M4MUVPdVotYlI4cjF0QjZ4TkxsMThj?oc=5>
+- 场馆: 中国网
+- 时间: 2026-10-19 02:53
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE1IbVNuLU5FY3d4VnZZOVRMcExaMmpKVkd4NGFlN2wzTUpualRqaFhPUTNhbzNrS0NTQUFwRmhVYjQ0M3BCM1d1Smx0bldwWUtWOVAzeFNGVGFxN1RaVVFjcnNRZ3ZxdFZfSWU3WXI1UQ?oc=5>
 
-### 特朗普支持以色列总理内塔尼亚胡竞选连任
+### “最短命”白宫新闻秘书晒全家与特朗普在办公室合影
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 文学城
+- 时间: 2026-10-18 21:36
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE12cFlldmVldnlabllvM3FlRGUtVnRVQ25hMmhPdUo4SzI1QlpNcEhTY0ZiTlBhcXEwMmFkc1pNRU9OZWpHNTJ1dnRhd2xmYzFNcEdUamxRRW5rMGgzaVZuYmVlZEdLbmdS?oc=5>
+
+### 泽连斯基：特朗普正逼迫乌克兰投降
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者网
+- 时间: 2026-10-19 02:08
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFA3OGMzMjZDWEN6UUYxTHJvNnlWclc2LWFkZjhGdHpLSnlmWTVnMW5rUk5GZFZDeGNDdW0zTDVleHYyeGNwY1k2VHhRdURpRFpDQWViTS1GTVdzaVdjTTA3X0ptYmFHVlMtU3N3N2tCSGROczA?oc=5>
+
+### 特朗普为暂缓对俄制裁辩护 再批泽连斯基不愿停战
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 8world
+- 时间: 2026-10-19 00:06
+- 链接: <https://news.google.com/rss/articles/CBMilgFBVV95cUxQNFNwaldrRm0zYjlvWlJFRjhXZk5wQk56VXhlZGMta1dlWUVJb0JKN0k4V29yY0hWM0tqVXdlMy1rTjVpcWdnYUI1M3RMd3FzYUlYTWozb0VHc0R4Tm40dHhSWjQwcDNMMEhRZGVhQWt0TlViSHgxbUsyNG8zWmxhYUlOWWY5aFhMU1BveFZWUVNGNFlUVkE?oc=5>
+
+### 特朗普继续推进华盛顿高尔夫球场改造计划
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: 华尔街日报中文网
-- 时间: 2026-10-18 23:30
-- 链接: <https://news.google.com/rss/articles/CBMijgFBVV95cUxOLU9qQlNhd1hQU2VkWU9PRUw0MzBCbEk0VUlXa2FudElwdWhUTmVZai0wOWxTN0t5T3h5c0tRRjNaS0JseDhERHZLNDI5dFg4U0UtRE9VaDRYanJfay1TSzJ1LTNlZV9nQmJLZld0MW16ZE52TVRMRzdGZDJ0aE9wZUpVR2U2U20zWXR2cmlB?oc=5>
+- 时间: 2026-10-19 01:55
+- 链接: <https://news.google.com/rss/articles/CBMiogFBVV95cUxOaDFLQXVyd2N4bGJUMUFzcGxEQUgwZl84RENaNDVnZnpjRGxxbDl6cGNYYU5Jb3R5T2s5Q0xHQklJT0dNSGFSY2xubkJYTnFTbUQ0WFBQRXU1Y3E1aWU1NHhkaS1yZXRIQW9oTHRkdl8zbm1WZHpZZ19tVUU5cndDNzBMRzZEbUhSU2RWVlZHOHBPakZMLVB6R1h6dk5kOEMtOGc?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-19 05:01  (15 条)
+
+- **周杰伦** | 周杰伦墨尔本演唱会的观众以华人为主吗？ <https://k.sina.com.cn/article_7879776356_1d5abd864068017ia4.html>
+- **周杰伦** | 周杰伦因筹备演唱会压力大到失眠如何缓解？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801nd70.html>
+- **周杰伦** | 周杰伦在墨尔本演唱会上会唱哪些中文歌？ <https://k.sina.com.cn/article_7879776356_1d5abd864068017ia0.html>
+- **周杰伦** | 周杰伦墨尔本演唱会为何坚持唱中文歌？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801nd6w.html>
+- **周杰伦** | 外国观众如何评价周杰伦的华语演唱会？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801nd6s.html>
+- **周杰伦** | 周杰伦粉色墨尔本嘉年华演唱会开唱 <https://k.sina.com.cn/article_7879923551_m1d5ae175f03301svhc.html>
+- **周杰伦** | 杰伦：大家晚上墨尔本演唱会见 <https://k.sina.com.cn/article_2254646594_m86632d4205301jnge.html>
+- **特朗普** | 不满豁免对俄制裁，泽连斯基决定“公开对抗特朗普” <https://news.google.com/rss/articles/CBMiS0FVX3lxTFB3SXZXOFdNQncxdTZvaW9aVDlzNlcxT242R3VDbS1jVzBRVkdMQmRHZkxfb04teEZlSnFMYmYxTmFvNFNrUFkwWXB3VQ?oc=5>
+- **特朗普** | 选票面前，霸权低头？特朗普的“和平秀”穿帮了 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBVZGpKRWdPbk0wZnk2S1RHZTVtNURYbXQweU1Da0F4cklWUi05Z2k4ejJHb1RVX1NBMDlOVG1NSHZZYl9ES1N6VzVTMTQ?oc=5>
+- **特朗普** | 特朗普“喊话”以色列人：我全面支持内塔尼亚胡竞选连任以总理，他绝不会让你们失望 <https://news.google.com/rss/articles/CBMidEFVX3lxTFBKc3p5eU1idEVDMEhmUnpINFBGWjFyaTVEOE9xYTFld29LbktVeVRvU1JWMDR3NzhhSWJCZmVnX1BtSkVrNjUxNXMxVFZMS0YwU1BsTWM1YUcwbHo3TlBJQTc3WU1WYi0zdVVCYTA1b2NyaUVL?oc=5>
+- **特朗普** | 以色列大选将至 特朗普发文支持内塔尼亚胡竞选连任以总理 <https://news.google.com/rss/articles/CBMib0FVX3lxTE1IbVNuLU5FY3d4VnZZOVRMcExaMmpKVkd4NGFlN2wzTUpualRqaFhPUTNhbzNrS0NTQUFwRmhVYjQ0M3BCM1d1Smx0bldwWUtWOVAzeFNGVGFxN1RaVVFjcnNRZ3ZxdFZfSWU3WXI1UQ?oc=5>
+- **特朗普** | “最短命”白宫新闻秘书晒全家与特朗普在办公室合影 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE12cFlldmVldnlabllvM3FlRGUtVnRVQ25hMmhPdUo4SzI1QlpNcEhTY0ZiTlBhcXEwMmFkc1pNRU9OZWpHNTJ1dnRhd2xmYzFNcEdUamxRRW5rMGgzaVZuYmVlZEdLbmdS?oc=5>
+- **特朗普** | 泽连斯基：特朗普正逼迫乌克兰投降 <https://news.google.com/rss/articles/CBMic0FVX3lxTFA3OGMzMjZDWEN6UUYxTHJvNnlWclc2LWFkZjhGdHpLSnlmWTVnMW5rUk5GZFZDeGNDdW0zTDVleHYyeGNwY1k2VHhRdURpRFpDQWViTS1GTVdzaVdjTTA3X0ptYmFHVlMtU3N3N2tCSGROczA?oc=5>
+- **Trump** | 特朗普为暂缓对俄制裁辩护 再批泽连斯基不愿停战 <https://news.google.com/rss/articles/CBMilgFBVV95cUxQNFNwaldrRm0zYjlvWlJFRjhXZk5wQk56VXhlZGMta1dlWUVJb0JKN0k4V29yY0hWM0tqVXdlMy1rTjVpcWdnYUI1M3RMd3FzYUlYTWozb0VHc0R4Tm40dHhSWjQwcDNMMEhRZGVhQWt0TlViSHgxbUsyNG8zWmxhYUlOWWY5aFhMU1BveFZWUVNGNFlUVkE?oc=5>
+- **Trump** | 特朗普继续推进华盛顿高尔夫球场改造计划 <https://news.google.com/rss/articles/CBMiogFBVV95cUxOaDFLQXVyd2N4bGJUMUFzcGxEQUgwZl84RENaNDVnZnpjRGxxbDl6cGNYYU5Jb3R5T2s5Q0xHQklJT0dNSGFSY2xubkJYTnFTbUQ0WFBQRXU1Y3E1aWU1NHhkaS1yZXRIQW9oTHRkdl8zbm1WZHpZZ19tVUU5cndDNzBMRzZEbUhSU2RWVlZHOHBPakZMLVB6R1h6dk5kOEMtOGc?oc=5>
 
 ### 2026-10-19 00:19  (10 条)
 
