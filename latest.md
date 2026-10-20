@@ -1,88 +1,118 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-20 00:52**
-- 本轮扫到 14152 条, 新增 **9** 条
+- 最近更新: **2026-10-20 05:36**
+- 本轮扫到 14163 条, 新增 **11** 条
 
 ---
 
-## 本轮新发现 (9 条)
+## 本轮新发现 (11 条)
 
-### 特朗普回应马克龙涉伊朗战争言论：称法国骚乱源于移民，巴黎将变穆斯林城市
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-20 00:41
-- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UVC1UM2doZi1Ra3NMYXlVVWJRQUhHOHRpSS1PMHBMNjZaUm1sOE1raDdWOVktUWNjVVVQVktDZFNmTE9jalJveUUzcTB5Z3NmU0E?oc=5>
-
-### 特朗普称该换人代表乌克兰谈判
+### 特朗普：看看法国，民主党想让美国也这样
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-10-19 22:07
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1PV2p4aGtuaTBVT2l4VVZnVFJlOTh5eTRJWUxweW9hVWRPMF9vYjlVdW9WYWxDZDdUUGp5ZWQ2ZXp0OFpIcHlOblRGSmM?oc=5>
+- 时间: 2026-10-20 04:35
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1IRlBnZ09zY3c5ZHVwOG8wX25EYlpQVFh1cUJZNS1BSnhPQ21pc1gwaGpKVTlBbElRR0V2OEpEX21hQTBnX0paS0JTODk?oc=5>
 
-### 美国总统特朗普谈乌克......_7x24快讯_新浪财经
+### 特朗普说应立即将美国新墨西哥州更名为“新美国州”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 手机新浪网
-- 时间: 2026-10-19 19:55
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBQVGNFYl92LVozT1pjWmFyYlJtbHNqZTZpNkFRQ3RHMGRMcWVNQmpiUHhaNGFlV2trdzZqYUltR2NKZ1FfX0pnMFBGRQ?oc=5>
-
-### 美特使本周赴挪威重启俄乌和谈，特朗普公开喊话泽连斯基“换个人谈”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-10-20 00:23
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE05bmQ1ajZJNGZEOUlRRWNVOUhHb3VJeVRTdWl3ZW1McHhzVGJBV3FfTUxlMm9FREE4c1IxR1dBUzZnSmN3ZFV3WDNHTGg5cVZIZUhPeEp2Q2Q4TGFpRm16dlVHNEFJaWF0QWtCeXhocEkxdEhRNkJyVQ?oc=5>
-
-### 特朗普称已准备好与普京和习近平举行三方会晤
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-10-19 21:08
-- 链接: <https://news.google.com/rss/articles/CBMi2wJBVV95cUxPRFlWLWxlc0tESzR1SjVuVklTVk9HWE43VFV6MlZJRjkzekp2UXBOOTEySGtINEMzS3d2Q3dtMzJqck44cDB0Uzk3cXpiMk9QU3FvY1paUEJ1QWx5ZEVFdW5ubzZYbExvdUVSXzlEQkNfMjNCd1FleHhhSFlOSVZMV3NZOG1jOGlWTGkyQ3dveGpwNVp0V2h0dmNSWHhMZGhEQWdnTXJROUIwUjZVX2c5cFpPWGZkbnI1dzVmc3N6TGFKbnZxR2ZrcjRkSGU4WTNPLV9FSFdDaVlqR2tmaUZxTVhaZmxCZlNvMEx3ME5TcEc2NFNHelg5MjY0dy0zUFA0SGlNNG1lMm9SQ0VQUDMtMkk0aDFvam5LMFViYVNPay1KNFlwSUhoaGFtRWlYaUxIcENSQ25Hb1Z5UVhCd05vM2tkcGRvVGlkQ3BDbnZRTzRvaklueVNmZy1KQQ?oc=5>
-
-### 特朗普对下月与习近平普京举行三方会谈持开放态度
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-10-19 23:11
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFByc0hMMlpNYzVndzc0MUFTMFJuOGMzakhobU80SkJHY1N5UjRlWnRraFktWTVfZ19ydTV4ZGZaTzB3UXRNZ3g1bjh4SnhCRTQ2UWgzQ1NNNDhaaGZfVVJsODJjdVdTRDRmNWc?oc=5>
-
-### 特朗普：正努力营救一名美国长期寻求解救的人质
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-10-19 19:30
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfd2RXRUQ0T0FQV3JSa2M4dXlTZFN4UVE3ZDVmaEVfcGNpVDFYUU0zbENQU2tlZXBDazRaMF9jZG5mTVpocGowWFBBZw?oc=5>
-
-### 白宫新发言人扎卡里亚上任仅5天被特朗普解职后首度发声
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-17 01:21
-- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXMU4wcTdmZGNjOUpDNm5NOEhCQVo4a0dadEZIZC1OV0VYcDBSZlZ1MTc3TEMybjVDV2lQMEhmdG5tUzFIWURLNVhiZEJxUDYyNWc?oc=5>
+- 时间: 2026-10-20 01:18
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1MZmRvOHF0YkFtM0hnYUo4eU9HUHNZNGlOT1NDZGRRN2Y0UXBITHVFYkFaWkNJOUNhLUF4M3I2OHlBSjlSTG9NeEFEOA?oc=5>
 
 ### 花活+1，特朗普呼吁：新墨西哥州应更名为“新美国州”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-10-19 23:06
-- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMWk5OXcwOFhjVlc3bjFjRzF3RXBGWlV3U2t2a2taRmxINjlEWkRkSjFkMVF6VE16VlQyX3c5TWJiZnZaMWdDcE9vakZjbFhtUW4yamFnYXdEWTg1NGN2LTRaZHRqSDBURkx0SXdfcnJlY1V5NWVIdkFXR19YV01OSzM2YWVBQUE3NWlF?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-10-19 23:35
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBtU3Uzck1weEpjd2ptOEdTOUJXMmsxYUdISEtVa1huQUZNNldsRmhTTHhRM3dOUGI4Tm5USmNFcmNYalh0amhfV1VkX3A?oc=5>
+
+### 特朗普称新墨西哥州应更名新美国州‘
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-10-20 05:17
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1pakNzTWpBYkNPZXN2Y1c2UDk1LU1fWENZSGFDVHVJc1E0UjFIRXZJVk1OeVoxeC1WWm5HRGRIZzNHNjQ0eGNFcTVKZHNxcS1UZ3BPT0EzdXNIa2ZZak5zTHAwT1NCYzR6OEhjZlNQZV8?oc=5>
+
+### 马斯克向特朗普的儿童储蓄账户捐款、美国财长公开致谢，总额已达 80 亿美元
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 金融界
+- 时间: 2026-10-20 05:06
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE5sY3U0LUI4V053dDlucThrVkxaTU5McVpjUU83ME9NTjc4TDZrc2R4eGFhWUlvWGVNTXJfTFlOa1hTeGpKN3NiOENUVkdVSTNMem1YazRTVTNGMmQzQURuR01LZEhfdWtjWWhNbEhYOWR4Zw?oc=5>
+
+### 通过“特朗普账户”捐赠？马斯克承诺明年送美国孩子每人一股SpaceX股票，打的什么算盘？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-10-20 05:16
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1paldueDd2MHRLT0hJX0J2Tmg5aENNUkRXTDVMUm1VaktCUHhjN3Q5SkxXX2s0em1HNkl0ODZFQW1hazFmVF9RUFJzTzE5d2k0ZW1KNHd6YVl6d2NyLUROLWVFMEdPTE94QTZrakZHOENvOVRrRE5KNw?oc=5>
+
+### 马斯克向特朗普账户捐80亿美元，特朗普：感谢令人惊叹的慷慨
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-10-20 04:12
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTFBYZ2tyOVd6NVFsMVkydWd3NVNsX2lJMXdjNU9MOHlmbnBVVEE0eHlaVDY0d2hfeGVYQWc0WDNpTzIzVkNTYXltSEZBVzdGSTd2OUFNY0F4TzhyUktDblhlS1hBSEdOeS1MbjNVZ0RDWVAybVBNakE?oc=5>
+
+### 内塔尼亚胡遇“生死战”，特朗普为何最后时刻表态？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-10-20 04:45
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBxVGdYOGhFOEs4eUxiUU5PLXFTMmJvZ2tGUi1Ham9VY0V1bmphN2NjN1dKMklWdWtnMHdjOWRmWmttUTE2Sl9FMG4zRk8?oc=5>
+
+### 特朗普称愿与普京和习近平会晤，讨论无核化问题
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-10-19 20:03
+- 链接: <https://news.google.com/rss/articles/CBMiywJBVV95cUxNanRNQXpITGN6am9KRUF1UWFjeUJfS3otQld4UXFRVXY0MXNfempWbWRDYzg3ZEpOdDhwN1BUVkRwNnhQcVlmdEROUEt2UTRzUzhIVm5FYnFkZUI1YXNUaVYycjJjY2lTUF9LMG5nQ2NzYUN2N1NybF9qVnBkWTl4a0l2WlpUd3U5VFJIbE5oRC1KN3pBQjc2cnhvcGY4aDI2c2F0U0gxY21vSWFPV2hLMUF6S00xZk84UjlFZHZraTFqMWdiUk5OdWgtaHM5dENVMVQtUDN6VHdVamdNaWlUVElTeVlWWXpMN2g2UWJBX3ZPbk5KemZxRlNGU2RiNElPNjF6aFBsYU84R1BYUzd1V05lMXNVRXF0NmRVV1VvNDhzNHRVczc1elNzcVBmZHp3c3hJQ25XMHYybTdiOFJSMng2ZUtoV21obkI0?oc=5>
+
+### 泽连斯基称特朗普正试图迫使乌克兰在战争中投降
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 纽约时报中文网
+- 时间: 2026-10-20 03:28
+- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTE5ZNXpvaHN1RFJ1bHNiT04yVmpja3dOdkZEM2RsZmtuRE8wVHNLNnZrQTFlNUhxdlg3NDg5T1BzZzdQNEc1bDJvWVVnakZyOTZrcE1PZGpkV2JraDhRMVhIQzVKNjlKLTFWd2c5blRVZkpONjl4UjFqUWVyVQ?oc=5>
+
+### 特朗普称已准备好同中俄领导人举行峰会
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 8world
+- 时间: 2026-10-19 22:49
+- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxQemgyWEJqN0lPMmZCZEN6Q3JQVl9QOVhnckZjOWZzSzVHaFFXUnJhNmR3cHJmSEUwRVRabi1SYjh5Z3dyZjdFc2tOanpRLXNrczhNLVV5SGlYb1FuZVVqU0lScHJHeU84LVY3ckpIbjBiT3BsVnd5elFjQ3pobzNjOG5ta1Q3ckR0amRiZHhJc3UwczhOSWtBNWJZX2lRRkUy?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-20 05:36  (11 条)
+
+- **特朗普** | 特朗普：看看法国，民主党想让美国也这样 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1IRlBnZ09zY3c5ZHVwOG8wX25EYlpQVFh1cUJZNS1BSnhPQ21pc1gwaGpKVTlBbElRR0V2OEpEX21hQTBnX0paS0JTODk?oc=5>
+- **特朗普** | 特朗普说应立即将美国新墨西哥州更名为“新美国州” <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1MZmRvOHF0YkFtM0hnYUo4eU9HUHNZNGlOT1NDZGRRN2Y0UXBITHVFYkFaWkNJOUNhLUF4M3I2OHlBSjlSTG9NeEFEOA?oc=5>
+- **特朗普** | 花活+1，特朗普呼吁：新墨西哥州应更名为“新美国州” <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBtU3Uzck1weEpjd2ptOEdTOUJXMmsxYUdISEtVa1huQUZNNldsRmhTTHhRM3dOUGI4Tm5USmNFcmNYalh0amhfV1VkX3A?oc=5>
+- **特朗普** | 特朗普称新墨西哥州应更名新美国州‘ <https://news.google.com/rss/articles/CBMicEFVX3lxTE1pakNzTWpBYkNPZXN2Y1c2UDk1LU1fWENZSGFDVHVJc1E0UjFIRXZJVk1OeVoxeC1WWm5HRGRIZzNHNjQ0eGNFcTVKZHNxcS1UZ3BPT0EzdXNIa2ZZak5zTHAwT1NCYzR6OEhjZlNQZV8?oc=5>
+- **特朗普** | 马斯克向特朗普的儿童储蓄账户捐款、美国财长公开致谢，总额已达 80 亿美元 <https://news.google.com/rss/articles/CBMickFVX3lxTE5sY3U0LUI4V053dDlucThrVkxaTU5McVpjUU83ME9NTjc4TDZrc2R4eGFhWUlvWGVNTXJfTFlOa1hTeGpKN3NiOENUVkdVSTNMem1YazRTVTNGMmQzQURuR01LZEhfdWtjWWhNbEhYOWR4Zw?oc=5>
+- **特朗普** | 通过“特朗普账户”捐赠？马斯克承诺明年送美国孩子每人一股SpaceX股票，打的什么算盘？ <https://news.google.com/rss/articles/CBMieEFVX3lxTE1paldueDd2MHRLT0hJX0J2Tmg5aENNUkRXTDVMUm1VaktCUHhjN3Q5SkxXX2s0em1HNkl0ODZFQW1hazFmVF9RUFJzTzE5d2k0ZW1KNHd6YVl6d2NyLUROLWVFMEdPTE94QTZrakZHOENvOVRrRE5KNw?oc=5>
+- **特朗普** | 马斯克向特朗普账户捐80亿美元，特朗普：感谢令人惊叹的慷慨 <https://news.google.com/rss/articles/CBMidkFVX3lxTFBYZ2tyOVd6NVFsMVkydWd3NVNsX2lJMXdjNU9MOHlmbnBVVEE0eHlaVDY0d2hfeGVYQWc0WDNpTzIzVkNTYXltSEZBVzdGSTd2OUFNY0F4TzhyUktDblhlS1hBSEdOeS1MbjNVZ0RDWVAybVBNakE?oc=5>
+- **特朗普** | 内塔尼亚胡遇“生死战”，特朗普为何最后时刻表态？ <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBxVGdYOGhFOEs4eUxiUU5PLXFTMmJvZ2tGUi1Ham9VY0V1bmphN2NjN1dKMklWdWtnMHdjOWRmWmttUTE2Sl9FMG4zRk8?oc=5>
+- **特朗普** | 特朗普称愿与普京和习近平会晤，讨论无核化问题 <https://news.google.com/rss/articles/CBMiywJBVV95cUxNanRNQXpITGN6am9KRUF1UWFjeUJfS3otQld4UXFRVXY0MXNfempWbWRDYzg3ZEpOdDhwN1BUVkRwNnhQcVlmdEROUEt2UTRzUzhIVm5FYnFkZUI1YXNUaVYycjJjY2lTUF9LMG5nQ2NzYUN2N1NybF9qVnBkWTl4a0l2WlpUd3U5VFJIbE5oRC1KN3pBQjc2cnhvcGY4aDI2c2F0U0gxY21vSWFPV2hLMUF6S00xZk84UjlFZHZraTFqMWdiUk5OdWgtaHM5dENVMVQtUDN6VHdVamdNaWlUVElTeVlWWXpMN2g2UWJBX3ZPbk5KemZxRlNGU2RiNElPNjF6aFBsYU84R1BYUzd1V05lMXNVRXF0NmRVV1VvNDhzNHRVczc1elNzcVBmZHp3c3hJQ25XMHYybTdiOFJSMng2ZUtoV21obkI0?oc=5>
+- **Trump** | 泽连斯基称特朗普正试图迫使乌克兰在战争中投降 <https://news.google.com/rss/articles/CBMie0FVX3lxTE5ZNXpvaHN1RFJ1bHNiT04yVmpja3dOdkZEM2RsZmtuRE8wVHNLNnZrQTFlNUhxdlg3NDg5T1BzZzdQNEc1bDJvWVVnakZyOTZrcE1PZGpkV2JraDhRMVhIQzVKNjlKLTFWd2c5blRVZkpONjl4UjFqUWVyVQ?oc=5>
+- **Trump** | 特朗普称已准备好同中俄领导人举行峰会 <https://news.google.com/rss/articles/CBMioAFBVV95cUxQemgyWEJqN0lPMmZCZEN6Q3JQVl9QOVhnckZjOWZzSzVHaFFXUnJhNmR3cHJmSEUwRVRabi1SYjh5Z3dyZjdFc2tOanpRLXNrczhNLVV5SGlYb1FuZVVqU0lScHJHeU84LVY3ckpIbjBiT3BsVnd5elFjQ3pobzNjOG5ta1Q3ckR0amRiZHhJc3UwczhOSWtBNWJZX2lRRkUy?oc=5>
 
 ### 2026-10-20 00:52  (9 条)
 
