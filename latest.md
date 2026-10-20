@@ -1,51 +1,35 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-20 19:46**
-- 本轮扫到 14204 条, 新增 **11** 条
+- 最近更新: **2026-10-20 22:52**
+- 本轮扫到 14212 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (11 条)
+## 本轮新发现 (8 条)
 
-### 美国总统特朗普：从这个国家被窃取的资金规模高达数万亿美元。
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-10-20 18:18
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFB0N1VxZ055ZWR3MllheDBMWFhqSzg3VUdhUGloRHVLWWNLOXBaTktGQ0tNN0JjQW4wTlAtakw2YW1vZ1g5OFZRMjlXSQ?oc=5>
-
-### 特朗普第二任期已撤销逾30万签证，包括“参与或协助生育旅游“的外国公民
+### 特朗普最新支持率公开
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-10-20 18:54
-- 链接: <https://news.google.com/rss/articles/CBMiywFBVV95cUxQeG5rNnRiMzlRVml0OVBsLWVNc3JhZjR4WGNzUGNyaXU1akFGb3dBX2hLTVZXdVc1VXVvS1dCSDhicUhpaldjR1NaQjRHRi0tZl9FY3lhdDVLTFQxYkZ6NnJUa0RCN1EwM0g2UkQ0enc2Mk9mb1RRazI0d3paY2tKeDlhTWpEUmlYM3hudTktY0xCazBRd1lCaXRydG5qV0dRNlVKaFhGbjNhMUhVNFI4ZW04MkxTV0F5aXlic0xxb2MwVTQtS1l6emVJUdIBzgFBVV95cUxOb09Ma0k0aVlENzhMOUhQeUVXVlB4QkU5WkxJekJib2EydXlOc3Z2YVNmQmpIRmdFN01fTlpfTEFVTWFfa2pLeVNNVTdiZTVVUVFPeGY3Nm0yZFVLQXZnOTEwamJZVWJ2WEtqWGs4TmJTOEV5TFpyWUFvejlrcEtWdzdYZm84WExIRGFKMWNYVzNGaENtOWdEQnBaajhRLW1SODU3czEyeGtIWGtOS0JpcFphT2lfSDFGMUNsbnNoS3VKZS1DWk9FZDdVNlVCdw?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-10-20 06:04
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1RNWt2SmxyOHdwOFk3N2lzNXQyQ2FHTE9VcUFoM1BKMHYyVWg3WHFzNGNqYTBOdU9kaFJLWnpEM0MtemtUMWhTODBXOE9pYzltZm9XRnZNV1RYM0M4U3ZCM3JnVGZOUHRnRzAwd1o5RU00Zk1EMGFSVA?oc=5>
 
-### 美国总统特朗普公布了一项新的反欺诈计划，旨在奖励举报欺诈行为的人，奖励金额为所追回资金的1%。
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-10-20 18:33
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1XdV9yMFBqdzdYR2x2bFlDRjdUYV8yTGp1bER6MTFYV3d1VkdBeFNNSUpWOWFRSE5QQklWMDhrTkVLME1SZzNQcHItMA?oc=5>
-
-### 与特朗普立场不同，万斯拒绝为内塔尼亚胡连任背书
+### 威胁在竞选集会上刺杀特朗普 美国堪萨斯男子遭逮捕
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中国网
-- 时间: 2026-10-20 03:06
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTFBzckwyVENONXlhSUU3Z3hlMjlVeEFYMzEwY0lCaDBZOVVWaVVUaVBnNUJtZHNMTF9wdEszQ0VKMEt5amdhTzdpTEFhQXpVeE5Bemp0Y3g1ZFdrNjJ1VWtiS0ROOUJETnRLUDdXbUdHWQ?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-10-20 20:38
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9YbjhWU05kdW9nRkk4cGZnc2w4aUZfalB3ano3LTl5dWNEdEVDQWdhbDM0dU9nREh3LWh6VEpFMERWN1g4QzloUWpkRQ?oc=5>
 
-### 特朗普的接班人还没出现，马斯克已经提前把"皇位"的路铺好了
+### 特朗普因对加拿大征收50%关税被起诉
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 搜狐
-- 时间: 2026-10-20 16:11
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxNZ0lUeHRfc1pndi1UVnREZmYtbnJBbUJWblJyN1FSS3FFaDZJaHdlVFRJTFk5WlFmS1ZheE1mS0NZbDJWRmdqdGtnTVY0cG83QzV0QjgwdkFEM2NzN3hPRlVXN1NJWVVjczY5bXREUEVYNUw3U2FseDNaUlVaWmt6dGtuX2VrRExuY1doVg?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-10-20 21:22
+- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxObTJqakRKQUl4NWx1M3lzbzVMQ3pCNTg4VVlvVkcySlplei1SX0dDOHp2VE1JZ05Id1hFNW1vM1c3NUZPNjRRMUZmWDUzVlNyeTIxNnRBZzBleVFKSGJKZXdVVzZMdHVYRmFFN1dXOTVVMURpZFhBNjVkWm1TZ2RKOFlLNTdYVV9rY0FjNVlPZF9qVlFPRG1Na0VXTVU?oc=5>
 
 ### 乌克兰怀疑美国不时限制情报共享 特朗普称美方仍提供大量支持
 
@@ -53,52 +37,55 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-10-19 22:29
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQkxoVDIwMkV4ZnhCVnRGRk1kcFQ1NUtOSG0wd3YzSVBNbVU1d2RSdlFsbVBETnF4X0ZOOGNZd0RfNHh3X0Nwd0QyRW1QU1FxeEtZR0VsTkFySGhuZjJEN0ZlUlFLbm1sRnNvMGFRNzgtSWJoUEpDUXR6ZlQ2ZzA4VDhVYnBhZFQzcFRoSkJRVEZFQ3VLQkZYQXN5LWtubnQ0V0FHaW5nNXdiRHlRVldEbkJOdjhTQUFZRGUzcHpXY2hPR01zN3p1dVpBWmJwUnl1?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaldUdFJILUprVlFOa1h2Q3hMRXBnR0VjeGZDdGhYLXk4MFVfZkdna3RZRnV3TG1pUUVNQ0ZBYWlhZXoyeW5pZDhNYzg0SC14RFVSTEVZcEhNa1dHZHNITkM1TWVLUS1MN1VqYWdtYmxmWThEX3JRemFDMy1Vb2VwUGFIXy1UREpEOHhPSG9IRU9QN0hhNzVFenN2QjQ2NlE5TTNGVDFLLWl5M3VZYXp1Z3RHdmFqUXFWdTBpd1NRb2x1X1h2VEcwWWRjVENaaTlMZ1E?oc=5>
 
-### 特朗普回应泽连斯基：不知道自己在说什么，早该结束战争并保住百万人
+### 特朗普选择继续对泽连斯基施加压力，泽连斯基欢迎美方恢复情报共享
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-10-20 20:54
+- 链接: <https://news.google.com/rss/articles/CBMi3wNBVV95cUxQbzJTWkJQYzl2T1BkcmFoejVlc1RGV1YwM2FQS0xEMXY2Uk50b3pLdTUxcmZXd3gybUpmaDhORjF5VXFSX0k3dVpWY2FrTWVIWEpFOE5yYnBFXzYyTlBTMjhJQVNaVTdnNEdObWJ1ZmEtelM2RGRmUGpwQ0NCcE5ITGUwQWtDdXJmOVlrTHpZQ1h2S0xLS0dEbkU3MU9FeEtBZUFuZTJ4ang2RTR6UXdjeTIyRGEzZm5LcUZSRk9FSHRZdjduX0lPMFp6aEZtN0FxdW1wS0JkTUFLUHk1SzNQVXh5UWx4YkpmRk8waXlTM19OdVcxUzRQMEhmNktHa0ozeU1LTkhWQlExbjdnQVRGSjc5TTFidnRQUHhLdVZwVENKaXFLRnZad1pmeHBjZ1pNOENnWHoxTFU3cXl2bXA4WHFYdklVbGRURVMtS010ZTc0MFN6M3FsTlI3U3ZJdGFmblJiSTIwdWJJVllvVEdPZFBmaHI5TGlLZk9LejRCVDNfQTQ4YXNuZVFJMmJnbHFuUDZTVmJDcERVTzNJQm82a0RLSzFhLWgxUXVwdnd0QTVvWXd6bGdod1l0bW9VV09lQTF5YXpFM29EdUlvbWlRQU5naTNPLXBUWWZVcmJjTQ?oc=5>
+
+### 特朗普：愿意举行美中俄峰会 聚焦去核化议题
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: DW.com
+- 时间: 2026-10-20 13:17
+- 链接: <https://news.google.com/rss/articles/CBMirgJBVV95cUxNZ2xITFctcnJTanMydlpPNDctSmgxUC00ZjdIYmluanhPYWZ5ZlU3eVpUVkxJTFZ3ZFNqRlprV094ZHZtbHB0REZ1eDF3TTYwWlNZbVFJYlc1NVZaaGhNM3prNng5RG1sU1FKTk1CLXBJWnpnOWdCS1Z2bkJ1dHpSRzJuTnMwUXZxNFJVNDNiQUU4WWVoOWRnVEtvZVVSMjV3d3BSYWpnbGF3YlFJSkpXTUh5aG5rQUFLZVc0VjhKTXk3YkFsZnJ0VnNXVmEzdElSQV8zMjR6b3ZjbkhMZnFYY2I4Nnc5dktUeVpQbXdfNEs2Yk5EQ2l4V2lzYTNJN2htZU9OemswSlVXcW9KRmtsUjJGRTAxVkl2MmNhOHFUMTFvR1BheTlVeTRFYkpKd9IBrgJBVV95cUxQSkZ2aEtLbEhmZHpDQjA2dF93T2R4Z3M0NERQLWNtcXJVN1pGSlZDTTZjUlV6NUN2NjFsMjR6UWpfUjJoUXdZMDd0V1REN2xmNzFCYnhQR0UwS2VWOHFPVVUwZTZCY18zSFNVeGl6YzdjLUNHQ0NITDdKSGIzT0tVWk9nTnE0blh2Y3RsN05MRldLNzBBOGpGSGc4ZEp5X2hGblRTZ3ZyVll0Vjl4Z2dXNUR5aHBfdVVXc1MtUkEtVTQ1blpNQUp5LXNoTHdwcWlxWTBuV1VvNWNYRjh2VGN6YjRfaEY2eVhaRmdNbUVMWDUxYW5BSkRlMFRhMW5fWUVHQ1RKWlNNai0wWEtqNGF3Z19iUENyVGdXVWx3RkFpbC1BNnRkVDB1TUFQSHRFUQ?oc=5>
+
+### 特朗普对与中俄举行三方会谈态度积极，外交部回应
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-10-20 02:49
-- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uMEdsNjJzc19PZlNfSFhkQ2pEcE9UU1BNRlF5Y25DT0dmRHFLV1IyYk9hU1FpVGVyb0ZkN3k4SlpsTUU4MmwzcWh3NmdRWVN0WGc?oc=5>
+- 时间: 2026-10-20 07:15
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1MRTlyeUtBVkNpQjhtcjJBUjQ1VkROUG1rb3lEc1FvU1k2a2Rad1lkMlE3THFHN196bm5nV3hncHM5T0NjV3pLNTRpZXo?oc=5>
 
-### 400多年又如何？特朗普瞄准了下一个目标
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: QQ News
-- 时间: 2026-10-20 15:14
-- 链接: <https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SWFQ2N2NpX0dQSVN3Nmx2Ml9lWDQwaWMwS0tBUkR2X18zNENJV3M3SUVZSllwYmlGZjRsc2s5eEdGUDd5bXRaWURzRVBMQ3RCaWhyYUdsVQ?oc=5>
-
-### 特朗普政府又一位美女官员，栽了
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-10-20 16:59
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1UMEtfUGFSMXoyXzJGdC13LW9TcUNtZUZGRHhWeHdRQVZtcmdQT0ZSSTlRSlBnT3hqN0daMTlyYk5HRnkyUzJvcERfYUZIZ1BmOU0xU1NRaVdmY1RnLUlJTHBtdlB5VjZQN1VaNE83Wk9oNE0?oc=5>
-
-### Trump Account的大礼包等着你来领- 博客
+### 特朗普希望实现与习近平和普京的三方会谈| NHK WORLD-JAPAN News
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 文学城
-- 时间: 2026-10-20 15:28
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBnVmx6QmxCc2N2dWlxc21fWmw2R2ozZjdpQk5YU2p4Mll6aVRzVWFUMlo2MGRfMkdCbFNRaldPRjVvT2xEeTRjZ3dRMC02a1FTWHNRbXRmcmdNUExib2FnNjdSWVNHc3hT?oc=5>
-
-### Trump Dumped Micron, Up 338% in a Year. The Memory Cycle Decides Who’s Right
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: TIKR.com
-- 时间: 2026-10-20 19:02
-- 链接: <https://news.google.com/rss/articles/CBMipAFBVV95cUxNbmVRc3plMndJdDBvOW40azdab1hBQlNaQXBFTGFMZ0hpelNfWXJIOTNDWWJUVnRxcUlWVk9yWjZrQlRaTl9NWC1YMV9DWDdVeEhpYnh1S24zczhCZ0pPd2ZGS21PM09WV2lVdUw0Z2staWZtbF9ScnJuNXJlVFUzdE9GMkUxMUlQclg5SGZpeVFoUnZTdHlzZ1ZobEFOeDhVbUJ0RA?oc=5>
+- 场馆: NHKニュース
+- 时间: 2026-10-20 10:08
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDZ01SV3BoX05pSzJKeFBJdzlEM1h5VTRuaWIwZHd3Y1FxSlBsMmgzSFpVbjZma2F2cEtRMmxJSW1YVkFvazhaSlVKTzVkZmtLYzE5NWdKc2pERnE4d1N6eVVRZ0o?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-20 22:52  (8 条)
+
+- **特朗普** | 特朗普最新支持率公开 <https://news.google.com/rss/articles/CBMieEFVX3lxTE1RNWt2SmxyOHdwOFk3N2lzNXQyQ2FHTE9VcUFoM1BKMHYyVWg3WHFzNGNqYTBOdU9kaFJLWnpEM0MtemtUMWhTODBXOE9pYzltZm9XRnZNV1RYM0M4U3ZCM3JnVGZOUHRnRzAwd1o5RU00Zk1EMGFSVA?oc=5>
+- **特朗普** | 威胁在竞选集会上刺杀特朗普 美国堪萨斯男子遭逮捕 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9YbjhWU05kdW9nRkk4cGZnc2w4aUZfalB3ano3LTl5dWNEdEVDQWdhbDM0dU9nREh3LWh6VEpFMERWN1g4QzloUWpkRQ?oc=5>
+- **特朗普** | 特朗普因对加拿大征收50%关税被起诉 <https://news.google.com/rss/articles/CBMinAFBVV95cUxObTJqakRKQUl4NWx1M3lzbzVMQ3pCNTg4VVlvVkcySlplei1SX0dDOHp2VE1JZ05Id1hFNW1vM1c3NUZPNjRRMUZmWDUzVlNyeTIxNnRBZzBleVFKSGJKZXdVVzZMdHVYRmFFN1dXOTVVMURpZFhBNjVkWm1TZ2RKOFlLNTdYVV9rY0FjNVlPZF9qVlFPRG1Na0VXTVU?oc=5>
+- **特朗普** | 乌克兰怀疑美国不时限制情报共享 特朗普称美方仍提供大量支持 <https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaldUdFJILUprVlFOa1h2Q3hMRXBnR0VjeGZDdGhYLXk4MFVfZkdna3RZRnV3TG1pUUVNQ0ZBYWlhZXoyeW5pZDhNYzg0SC14RFVSTEVZcEhNa1dHZHNITkM1TWVLUS1MN1VqYWdtYmxmWThEX3JRemFDMy1Vb2VwUGFIXy1UREpEOHhPSG9IRU9QN0hhNzVFenN2QjQ2NlE5TTNGVDFLLWl5M3VZYXp1Z3RHdmFqUXFWdTBpd1NRb2x1X1h2VEcwWWRjVENaaTlMZ1E?oc=5>
+- **特朗普** | 特朗普选择继续对泽连斯基施加压力，泽连斯基欢迎美方恢复情报共享 <https://news.google.com/rss/articles/CBMi3wNBVV95cUxQbzJTWkJQYzl2T1BkcmFoejVlc1RGV1YwM2FQS0xEMXY2Uk50b3pLdTUxcmZXd3gybUpmaDhORjF5VXFSX0k3dVpWY2FrTWVIWEpFOE5yYnBFXzYyTlBTMjhJQVNaVTdnNEdObWJ1ZmEtelM2RGRmUGpwQ0NCcE5ITGUwQWtDdXJmOVlrTHpZQ1h2S0xLS0dEbkU3MU9FeEtBZUFuZTJ4ang2RTR6UXdjeTIyRGEzZm5LcUZSRk9FSHRZdjduX0lPMFp6aEZtN0FxdW1wS0JkTUFLUHk1SzNQVXh5UWx4YkpmRk8waXlTM19OdVcxUzRQMEhmNktHa0ozeU1LTkhWQlExbjdnQVRGSjc5TTFidnRQUHhLdVZwVENKaXFLRnZad1pmeHBjZ1pNOENnWHoxTFU3cXl2bXA4WHFYdklVbGRURVMtS010ZTc0MFN6M3FsTlI3U3ZJdGFmblJiSTIwdWJJVllvVEdPZFBmaHI5TGlLZk9LejRCVDNfQTQ4YXNuZVFJMmJnbHFuUDZTVmJDcERVTzNJQm82a0RLSzFhLWgxUXVwdnd0QTVvWXd6bGdod1l0bW9VV09lQTF5YXpFM29EdUlvbWlRQU5naTNPLXBUWWZVcmJjTQ?oc=5>
+- **特朗普** | 特朗普：愿意举行美中俄峰会 聚焦去核化议题 <https://news.google.com/rss/articles/CBMirgJBVV95cUxNZ2xITFctcnJTanMydlpPNDctSmgxUC00ZjdIYmluanhPYWZ5ZlU3eVpUVkxJTFZ3ZFNqRlprV094ZHZtbHB0REZ1eDF3TTYwWlNZbVFJYlc1NVZaaGhNM3prNng5RG1sU1FKTk1CLXBJWnpnOWdCS1Z2bkJ1dHpSRzJuTnMwUXZxNFJVNDNiQUU4WWVoOWRnVEtvZVVSMjV3d3BSYWpnbGF3YlFJSkpXTUh5aG5rQUFLZVc0VjhKTXk3YkFsZnJ0VnNXVmEzdElSQV8zMjR6b3ZjbkhMZnFYY2I4Nnc5dktUeVpQbXdfNEs2Yk5EQ2l4V2lzYTNJN2htZU9OemswSlVXcW9KRmtsUjJGRTAxVkl2MmNhOHFUMTFvR1BheTlVeTRFYkpKd9IBrgJBVV95cUxQSkZ2aEtLbEhmZHpDQjA2dF93T2R4Z3M0NERQLWNtcXJVN1pGSlZDTTZjUlV6NUN2NjFsMjR6UWpfUjJoUXdZMDd0V1REN2xmNzFCYnhQR0UwS2VWOHFPVVUwZTZCY18zSFNVeGl6YzdjLUNHQ0NITDdKSGIzT0tVWk9nTnE0blh2Y3RsN05MRldLNzBBOGpGSGc4ZEp5X2hGblRTZ3ZyVll0Vjl4Z2dXNUR5aHBfdVVXc1MtUkEtVTQ1blpNQUp5LXNoTHdwcWlxWTBuV1VvNWNYRjh2VGN6YjRfaEY2eVhaRmdNbUVMWDUxYW5BSkRlMFRhMW5fWUVHQ1RKWlNNai0wWEtqNGF3Z19iUENyVGdXVWx3RkFpbC1BNnRkVDB1TUFQSHRFUQ?oc=5>
+- **特朗普** | 特朗普对与中俄举行三方会谈态度积极，外交部回应 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1MRTlyeUtBVkNpQjhtcjJBUjQ1VkROUG1rb3lEc1FvU1k2a2Rad1lkMlE3THFHN196bm5nV3hncHM5T0NjV3pLNTRpZXo?oc=5>
+- **Trump** | 特朗普希望实现与习近平和普京的三方会谈| NHK WORLD-JAPAN News <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDZ01SV3BoX05pSzJKeFBJdzlEM1h5VTRuaWIwZHd3Y1FxSlBsMmgzSFpVbjZma2F2cEtRMmxJSW1YVkFvazhaSlVKTzVkZmtLYzE5NWdKc2pERnE4d1N6eVVRZ0o?oc=5>
 
 ### 2026-10-20 19:46  (11 条)
 
