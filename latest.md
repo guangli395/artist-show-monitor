@@ -1,104 +1,141 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-20 05:36**
-- 本轮扫到 14163 条, 新增 **11** 条
+- 最近更新: **2026-10-20 10:47**
+- 本轮扫到 14177 条, 新增 **14** 条
 
 ---
 
-## 本轮新发现 (11 条)
+## 本轮新发现 (14 条)
+
+### 明星为何扎堆泰国开演唱会，审批简单场租不贵
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923704_m1d5ae17f80330206ow.html>
+
+### 周杰伦墨尔本演唱会，这英语说的也太好了吧
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923704_m1d5ae17f80330206ky.html>
+
+### 特朗普支持率创两任期新低，共和党也落后了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者网
+- 时间: 2026-10-20 00:41
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5GOTB3WDZvejUyVUsyVFVKTldRSGpiakJvMHZWUWdLTWswamZJQnVwZnlWejhyN1BCeHZERHdRdEYteER6RnRUd2VrYXNMOE1VMU9IcnhKWHJGQ040WWw5bnphUko4SUJmRDVqNk93eEpkaG8?oc=5>
+
+### 美国国务卿鲁比奥访问中亚，特朗普首邀中亚两国出席G20峰会
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-10-20 10:36
+- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTFBndXR0QkgzdklPd2V6RHNEWnN3bFFyYUZud0JadnBJMjNSd2taVS1wT19VSnFSUUF5UFk0RjgwMU1qaUpIekJXNk1xRjY0TkVVMmc?oc=5>
+
+### 普京提议中美俄“三方会谈”：特朗普响应，北京未表态，基辅反对
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: BBC
+- 时间: 2026-10-20 08:49
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xdk1Rc0xjLXZYeFZiSnJNUGRyV2IwUGpJTzI4MGx6N09lMUNuVUZlMTBBV3RtNDhCcVFnaG1YbzVxZVZBSE4zenlIOU1rZFo3b1BPQmx4UHRKOUVnd1VVenlxbGRSN2fSAWxBVV95cUxNcXN1cXRDNV94OTV3U0h6Ym1zYTBUd245MWhOdjVOZ3NJaGF5LXg5UVExbTBaalpfQS1ic1ZLZkNxRldrNHNzTDNGSlVUYlc1NVhzci1feTBvTGNGSk5JLWZGVEJjZ2pBZ25feDY?oc=5>
+
+### 特朗普公开表示：法国正在燃烧，来自不同世界、心中充满仇恨的移民，摧毁了这个曾经伟大的国家，马上关闭边境、控制局势，一切都还来得及
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-10-18 14:11
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9WYlk5V21nUnktS0Zfb1VvY1ZwcUlwQ2xGNFJzaE1OaEJ1M2p2b3g1RzFXZ01uT3FUTmlZUzNQMm5VeUpNU3dZNjg5ZUE3VXkxcWJ4S0EzTk9mVVd2aGszYm9UNVpsQnFqMGF1Z0Ftbnp6Nlc0ZlNEbQ?oc=5>
 
 ### 特朗普：看看法国，民主党想让美国也这样
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-20 04:35
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1IRlBnZ09zY3c5ZHVwOG8wX25EYlpQVFh1cUJZNS1BSnhPQ21pc1gwaGpKVTlBbElRR0V2OEpEX21hQTBnX0paS0JTODk?oc=5>
+- 场馆: 观察者网
+- 时间: 2026-10-20 02:32
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE9lN3hwWnhQZ0FGUU9IbzEweER5WUU5UDMzUWZlUXhtekFHX0pOelVTUXhsbWVoaHBoSkVxUnduM3VLNF9WLWJDNFdaVV8yd05XYUN0cDhVUnVyX3kzbnhlME9VVnNzLWFGS2ZDckt4c0dGWnc?oc=5>
 
-### 特朗普说应立即将美国新墨西哥州更名为“新美国州”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-10-20 01:18
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1MZmRvOHF0YkFtM0hnYUo4eU9HUHNZNGlOT1NDZGRRN2Y0UXBITHVFYkFaWkNJOUNhLUF4M3I2OHlBSjlSTG9NeEFEOA?oc=5>
-
-### 花活+1，特朗普呼吁：新墨西哥州应更名为“新美国州”
+### 以色列总理下令推翻伊朗政权
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-19 23:35
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBtU3Uzck1weEpjd2ptOEdTOUJXMmsxYUdISEtVa1huQUZNNldsRmhTTHhRM3dOUGI4Tm5USmNFcmNYalh0amhfV1VkX3A?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-10-20 04:27
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE5BTmtaQ2t0TGhzYmgyZTlsaFAzVGFPZHBiRDVBSUp5X21yYzExUm15MGNSQ1dsa010Znh6NkM4ZGdnWUxFbGJWakltNXNTRGlhdC1WbEdUWHU3UG92dl9NYldsc1hkQzZNYk5HWEIyRlAzUGtu?oc=5>
 
-### 特朗普称新墨西哥州应更名新美国州‘
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-10-20 05:17
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1pakNzTWpBYkNPZXN2Y1c2UDk1LU1fWENZSGFDVHVJc1E0UjFIRXZJVk1OeVoxeC1WWm5HRGRIZzNHNjQ0eGNFcTVKZHNxcS1UZ3BPT0EzdXNIa2ZZak5zTHAwT1NCYzR6OEhjZlNQZV8?oc=5>
-
-### 马斯克向特朗普的儿童储蓄账户捐款、美国财长公开致谢，总额已达 80 亿美元
+### 特朗普：新墨西哥州应立即更名为“新美国州”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 金融界
-- 时间: 2026-10-20 05:06
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE5sY3U0LUI4V053dDlucThrVkxaTU5McVpjUU83ME9NTjc4TDZrc2R4eGFhWUlvWGVNTXJfTFlOa1hTeGpKN3NiOENUVkdVSTNMem1YazRTVTNGMmQzQURuR01LZEhfdWtjWWhNbEhYOWR4Zw?oc=5>
+- 场馆: 搜狐网
+- 时间: 2026-10-20 07:58
+- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWnRtODlYa2YzWHlCTmFQdlhJZGJaZWdTb1VULXJYbjJJQmsyYWFpVHNqamluRjVCcWRCOGZPSno5cVJQLUxtUWktejZqN0k4T0xwQ0pNbE1PcXRJNWhvbkFWLUJ2anRnRldlZkhvWVp1TGdBT0xLWl9hQUxHbVhubnJwWDA0TnNDN05B?oc=5>
 
-### 通过“特朗普账户”捐赠？马斯克承诺明年送美国孩子每人一股SpaceX股票，打的什么算盘？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-10-20 05:16
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1paldueDd2MHRLT0hJX0J2Tmg5aENNUkRXTDVMUm1VaktCUHhjN3Q5SkxXX2s0em1HNkl0ODZFQW1hazFmVF9RUFJzTzE5d2k0ZW1KNHd6YVl6d2NyLUROLWVFMEdPTE94QTZrakZHOENvOVRrRE5KNw?oc=5>
-
-### 马斯克向特朗普账户捐80亿美元，特朗普：感谢令人惊叹的慷慨
+### 选举压力下密集撒钱！特朗普再推80亿美元柴油补贴，瞄准农业州选票
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-10-20 04:12
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTFBYZ2tyOVd6NVFsMVkydWd3NVNsX2lJMXdjNU9MOHlmbnBVVEE0eHlaVDY0d2hfeGVYQWc0WDNpTzIzVkNTYXltSEZBVzdGSTd2OUFNY0F4TzhyUktDblhlS1hBSEdOeS1MbjNVZ0RDWVAybVBNakE?oc=5>
+- 场馆: 华尔街见闻
+- 时间: 2026-10-20 05:55
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YU3hKN0hUdTdEZjM3c05GTVRZRU1XM3dMX0YxcHdyZXExckEyTGFKZHgzSDRuMUhGLXFBeTNiVDZkVURhaEM1Z3JXWlByRFgtNGJR?oc=5>
 
-### 内塔尼亚胡遇“生死战”，特朗普为何最后时刻表态？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-20 04:45
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBxVGdYOGhFOEs4eUxiUU5PLXFTMmJvZ2tGUi1Ham9VY0V1bmphN2NjN1dKMklWdWtnMHdjOWRmWmttUTE2Sl9FMG4zRk8?oc=5>
-
-### 特朗普称愿与普京和习近平会晤，讨论无核化问题
+### 【东谈西论】美国期中选举：特朗普难 伊朗也难？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-10-19 20:03
-- 链接: <https://news.google.com/rss/articles/CBMiywJBVV95cUxNanRNQXpITGN6am9KRUF1UWFjeUJfS3otQld4UXFRVXY0MXNfempWbWRDYzg3ZEpOdDhwN1BUVkRwNnhQcVlmdEROUEt2UTRzUzhIVm5FYnFkZUI1YXNUaVYycjJjY2lTUF9LMG5nQ2NzYUN2N1NybF9qVnBkWTl4a0l2WlpUd3U5VFJIbE5oRC1KN3pBQjc2cnhvcGY4aDI2c2F0U0gxY21vSWFPV2hLMUF6S00xZk84UjlFZHZraTFqMWdiUk5OdWgtaHM5dENVMVQtUDN6VHdVamdNaWlUVElTeVlWWXpMN2g2UWJBX3ZPbk5KemZxRlNGU2RiNElPNjF6aFBsYU84R1BYUzd1V05lMXNVRXF0NmRVV1VvNDhzNHRVczc1elNzcVBmZHp3c3hJQ25XMHYybTdiOFJSMng2ZUtoV21obkI0?oc=5>
+- 场馆: 联合早报
+- 时间: 2026-10-20 08:51
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBuUS1pczQxTkZ2T3BzMC1QMHhkQnQ3QVAwVlpmSmp2SnZ1UUt6NXp1WEdacUZERlFjLXBsR1FiYWpJaU5nY2IwN2c1Uk5ZZkZPbnVSdTFKYVluQjVBdnNUT0FyWm5mclJPdWc?oc=5>
 
-### 泽连斯基称特朗普正试图迫使乌克兰在战争中投降
+### 美国民众受高油价困扰，特朗普支持率创历史新低，选举预期开始影响市场
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 每日经济新闻
+- 时间: 2026-10-20 08:56
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFB2Q1pxZkZWanZVbXlJSjhobmFlMVRZR2NtLXhRRW8tTWlRX295TTNUa1JaeWEtTXVoNEZlX2oxQ0pUaFVUR1AyV2o2Ukp6NUFwcS1TN0FhVTB4TmFHNENueExjdVlqQQ?oc=5>
+
+### Trump says Ukraine’s Zelenskyy should be replaced in Moscow-Kyiv talks
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-10-20 03:28
-- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTE5ZNXpvaHN1RFJ1bHNiT04yVmpja3dOdkZEM2RsZmtuRE8wVHNLNnZrQTFlNUhxdlg3NDg5T1BzZzdQNEc1bDJvWVVnakZyOTZrcE1PZGpkV2JraDhRMVhIQzVKNjlKLTFWd2c5blRVZkpONjl4UjFqUWVyVQ?oc=5>
+- 场馆: TVB
+- 时间: 2026-10-20 04:21
+- 链接: <https://news.google.com/rss/articles/CBMilgFBVV95cUxOMDhnajBUQkprdFVrQ0d2VDFuUTQwSERFWU8tVW1LTjhPeXdZSWNNdWx3Q0dIX1hiSVBxVGsybi1qN1I0WTRodVdWS3d5cW11YWZVZERDdXV4ZHppemVzV2lndW9iX2hsSG5yTHpUaGpkUndmcmI2ZjVDejBnS01LRXJGWDZsOGVsWDZTWFJMX2hsNXJYblE?oc=5>
 
-### 特朗普称已准备好同中俄领导人举行峰会
+### $SK海力士 (SKHY.US)$ 请在中期选举中投票支持特朗普总统
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-10-19 22:49
-- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxQemgyWEJqN0lPMmZCZEN6Q3JQVl9QOVhnckZjOWZzSzVHaFFXUnJhNmR3cHJmSEUwRVRabi1SYjh5Z3dyZjdFc2tOanpRLXNrczhNLVV5SGlYb1FuZVVqU0lScHJHeU84LVY3ckpIbjBiT3BsVnd5elFjQ3pobzNjOG5ta1Q3ckR0amRiZHhJc3UwczhOSWtBNWJZX2lRRkUy?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-10-20 07:56
+- 链接: <https://news.google.com/rss/articles/CBMirwFBVV95cUxNZklJdktEWUt6T1F0UEk2TGpESUs3cXJpZXFwLWRtQWpnQWF0UUU3WG84Z0NEN3lPOWhOdERVc3A5bUNnYTQzSE9fSFIwTmk0Tk0xZTdmeW41RkhmZnZ6cE5fYjhVNGpXRjBFeFJyc3ZXV1R3eHBzMFFHOG84aEx1SC00MURHOTlHZFlrZTFtVWVYdWs2YXRfM3ppSkNHRXVaNFhiWEU4WHJUMGZzYlhN?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-20 10:47  (14 条)
+
+- **周杰伦** | 明星为何扎堆泰国开演唱会，审批简单场租不贵 <https://k.sina.com.cn/article_7879923704_m1d5ae17f80330206ow.html>
+- **周杰伦** | 周杰伦墨尔本演唱会，这英语说的也太好了吧 <https://k.sina.com.cn/article_7879923704_m1d5ae17f80330206ky.html>
+- **特朗普** | 特朗普支持率创两任期新低，共和党也落后了 <https://news.google.com/rss/articles/CBMic0FVX3lxTE5GOTB3WDZvejUyVUsyVFVKTldRSGpiakJvMHZWUWdLTWswamZJQnVwZnlWejhyN1BCeHZERHdRdEYteER6RnRUd2VrYXNMOE1VMU9IcnhKWHJGQ040WWw5bnphUko4SUJmRDVqNk93eEpkaG8?oc=5>
+- **特朗普** | 美国国务卿鲁比奥访问中亚，特朗普首邀中亚两国出席G20峰会 <https://news.google.com/rss/articles/CBMiUkFVX3lxTFBndXR0QkgzdklPd2V6RHNEWnN3bFFyYUZud0JadnBJMjNSd2taVS1wT19VSnFSUUF5UFk0RjgwMU1qaUpIekJXNk1xRjY0TkVVMmc?oc=5>
+- **特朗普** | 普京提议中美俄“三方会谈”：特朗普响应，北京未表态，基辅反对 <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xdk1Rc0xjLXZYeFZiSnJNUGRyV2IwUGpJTzI4MGx6N09lMUNuVUZlMTBBV3RtNDhCcVFnaG1YbzVxZVZBSE4zenlIOU1rZFo3b1BPQmx4UHRKOUVnd1VVenlxbGRSN2fSAWxBVV95cUxNcXN1cXRDNV94OTV3U0h6Ym1zYTBUd245MWhOdjVOZ3NJaGF5LXg5UVExbTBaalpfQS1ic1ZLZkNxRldrNHNzTDNGSlVUYlc1NVhzci1feTBvTGNGSk5JLWZGVEJjZ2pBZ25feDY?oc=5>
+- **特朗普** | 特朗普公开表示：法国正在燃烧，来自不同世界、心中充满仇恨的移民，摧毁了这个曾经伟大的国家，马上关闭边境、控制局势，一切都还来得及 <https://news.google.com/rss/articles/CBMieEFVX3lxTE9WYlk5V21nUnktS0Zfb1VvY1ZwcUlwQ2xGNFJzaE1OaEJ1M2p2b3g1RzFXZ01uT3FUTmlZUzNQMm5VeUpNU3dZNjg5ZUE3VXkxcWJ4S0EzTk9mVVd2aGszYm9UNVpsQnFqMGF1Z0Ftbnp6Nlc0ZlNEbQ?oc=5>
+- **特朗普** | 特朗普：看看法国，民主党想让美国也这样 <https://news.google.com/rss/articles/CBMic0FVX3lxTE9lN3hwWnhQZ0FGUU9IbzEweER5WUU5UDMzUWZlUXhtekFHX0pOelVTUXhsbWVoaHBoSkVxUnduM3VLNF9WLWJDNFdaVV8yd05XYUN0cDhVUnVyX3kzbnhlME9VVnNzLWFGS2ZDckt4c0dGWnc?oc=5>
+- **特朗普** | 以色列总理下令推翻伊朗政权 <https://news.google.com/rss/articles/CBMidEFVX3lxTE5BTmtaQ2t0TGhzYmgyZTlsaFAzVGFPZHBiRDVBSUp5X21yYzExUm15MGNSQ1dsa010Znh6NkM4ZGdnWUxFbGJWakltNXNTRGlhdC1WbEdUWHU3UG92dl9NYldsc1hkQzZNYk5HWEIyRlAzUGtu?oc=5>
+- **特朗普** | 特朗普：新墨西哥州应立即更名为“新美国州” <https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWnRtODlYa2YzWHlCTmFQdlhJZGJaZWdTb1VULXJYbjJJQmsyYWFpVHNqamluRjVCcWRCOGZPSno5cVJQLUxtUWktejZqN0k4T0xwQ0pNbE1PcXRJNWhvbkFWLUJ2anRnRldlZkhvWVp1TGdBT0xLWl9hQUxHbVhubnJwWDA0TnNDN05B?oc=5>
+- **特朗普** | 选举压力下密集撒钱！特朗普再推80亿美元柴油补贴，瞄准农业州选票 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YU3hKN0hUdTdEZjM3c05GTVRZRU1XM3dMX0YxcHdyZXExckEyTGFKZHgzSDRuMUhGLXFBeTNiVDZkVURhaEM1Z3JXWlByRFgtNGJR?oc=5>
+- **特朗普** | 【东谈西论】美国期中选举：特朗普难 伊朗也难？ <https://news.google.com/rss/articles/CBMiakFVX3lxTFBuUS1pczQxTkZ2T3BzMC1QMHhkQnQ3QVAwVlpmSmp2SnZ1UUt6NXp1WEdacUZERlFjLXBsR1FiYWpJaU5nY2IwN2c1Uk5ZZkZPbnVSdTFKYVluQjVBdnNUT0FyWm5mclJPdWc?oc=5>
+- **特朗普** | 美国民众受高油价困扰，特朗普支持率创历史新低，选举预期开始影响市场 <https://news.google.com/rss/articles/CBMiZkFVX3lxTFB2Q1pxZkZWanZVbXlJSjhobmFlMVRZR2NtLXhRRW8tTWlRX295TTNUa1JaeWEtTXVoNEZlX2oxQ0pUaFVUR1AyV2o2Ukp6NUFwcS1TN0FhVTB4TmFHNENueExjdVlqQQ?oc=5>
+- **Trump** | Trump says Ukraine’s Zelenskyy should be replaced in Moscow-Kyiv talks <https://news.google.com/rss/articles/CBMilgFBVV95cUxOMDhnajBUQkprdFVrQ0d2VDFuUTQwSERFWU8tVW1LTjhPeXdZSWNNdWx3Q0dIX1hiSVBxVGsybi1qN1I0WTRodVdWS3d5cW11YWZVZERDdXV4ZHppemVzV2lndW9iX2hsSG5yTHpUaGpkUndmcmI2ZjVDejBnS01LRXJGWDZsOGVsWDZTWFJMX2hsNXJYblE?oc=5>
+- **Trump** | $SK海力士 (SKHY.US)$ 请在中期选举中投票支持特朗普总统 <https://news.google.com/rss/articles/CBMirwFBVV95cUxNZklJdktEWUt6T1F0UEk2TGpESUs3cXJpZXFwLWRtQWpnQWF0UUU3WG84Z0NEN3lPOWhOdERVc3A5bUNnYTQzSE9fSFIwTmk0Tk0xZTdmeW41RkhmZnZ6cE5fYjhVNGpXRjBFeFJyc3ZXV1R3eHBzMFFHOG84aEx1SC00MURHOTlHZFlrZTFtVWVYdWs2YXRfM3ppSkNHRXVaNFhiWEU4WHJUMGZzYlhN?oc=5>
 
 ### 2026-10-20 05:36  (11 条)
 
