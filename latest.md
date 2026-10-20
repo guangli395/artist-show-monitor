@@ -1,124 +1,157 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-20 10:47**
-- 本轮扫到 14177 条, 新增 **14** 条
+- 最近更新: **2026-10-20 15:31**
+- 本轮扫到 14193 条, 新增 **16** 条
 
 ---
 
-## 本轮新发现 (14 条)
+## 本轮新发现 (16 条)
 
-### 明星为何扎堆泰国开演唱会，审批简单场租不贵
+### 《看见豹之地·寻护者第二季》在京发布  王一博出席首映礼
 
-- 艺人/关键词: **周杰伦**
+- 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923704_m1d5ae17f80330206ow.html>
+- 链接: <https://k.sina.com.cn/article_1881124713_701faf6902703uwyw.html>
 
-### 周杰伦墨尔本演唱会，这英语说的也太好了吧
+### 在《看见豹之地》发布会上野生救援公益组织的工作人员说
 
-- 艺人/关键词: **周杰伦**
+- 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923704_m1d5ae17f80330206ky.html>
+- 链接: <https://k.sina.com.cn/article_7811054566_m1d1933be603301aqgq.html>
 
-### 特朗普支持率创两任期新低，共和党也落后了
+### 《看见豹之地·寻护者第二季》发布 王一博呼吁保护华北豹
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://finance.sina.com.cn/roll/2026-10-20/doc-inivwyqz7674158.shtml>
+
+### 特朗普最新支持率公开
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-10-20 00:41
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5GOTB3WDZvejUyVUsyVFVKTldRSGpiakJvMHZWUWdLTWswamZJQnVwZnlWejhyN1BCeHZERHdRdEYteER6RnRUd2VrYXNMOE1VMU9IcnhKWHJGQ040WWw5bnphUko4SUJmRDVqNk93eEpkaG8?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-10-20 06:04
+- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxPbFdEZVFabUUwVTExdHJOQ3dlcmhkVkVMMU9qTVNKN0o4aklHeHRfVjVzNUpPNllfTEFtY2lFN09xM2lzRDBaNXJFQnlOUGZhS1lmRDFkbDJPZWRJbTVFa045azgzNHlpaUcxamdnR0hobXl6VnJjSUdadUlNY2tGQWt4OEpBUnB6YU5DWVpuMkpjcTVlb1hlTw?oc=5>
 
-### 美国国务卿鲁比奥访问中亚，特朗普首邀中亚两国出席G20峰会
+### 特朗普民意支持率创新低
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-10-20 08:39
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBQVGhvVFd3cm9CTnFya3huLTJHNDZGandHTE5mVFN4bl9HdGY4Ym43amFNbmJNNVNWQkRFTTFnRmJRRzIzOWdQNXpFQ3JlMFRZMlA5YmdiWE45YjVNWXQ2azVkcV9pMzQ3eDJON25TVFMyR3dmNlc2aG5tRkVGMFk?oc=5>
+
+### 美国中期选举三种结局全解析：特朗普将面临什么？2027年财政大战难避免-市场参考
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 金十数据
+- 时间: 2026-10-20 06:28
+- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTFBLQjRWekpnNzRjeVhTODNzVUdxWGxQZU11RDhldlFQUU16anRlOV9OVWllZV9ySW5FTlJfMkFXSE1IbFo1eElJcF84NHBiUjA?oc=5>
+
+### 特朗普曾一度近乎批准对伊朗实施打击
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 手机新浪网
+- 时间: 2026-10-20 15:09
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1SR2l4bV9CRzBwcDgwSmh4SUNLamxkeEU2VkZ2ekRUdzFVaElxRDE1WUtQMVdRYlRXS1ZtVjR2a2NUQldhQTFMSzl0NA?oc=5>
+
+### 400多年又如何？特朗普瞄准了下一个目标
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪军事_手机新浪网
+- 时间: 2026-10-20 14:47
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1GZUM3dnVHRERPVmFLeEMwWmswTEFIRk5ralJNRm5IVTRHdHFsR1VWRzZoNUtnOXhPTFNqQ1N2TzAtaXRaVnEzV3hqdzQ3bWhiSlBoeGtDdTh0TWR5MVctbDhaYVZIYVU1U0lnMW5zQXFWRlk?oc=5>
+
+### 特朗普称该让“其他人”代表乌克兰与俄罗斯谈判
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-10-20 00:45
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE44RHJ3RDRrb200WkJUbmlOVFRQVXpwcjYxVTRZZzJTNXNKQ3VHcWN4VERaWFMwMzczN0xrd3ZUdFZ4OFVCZnpvazR5bkZqN25jZmVSUDdjaThXQk9GMTAwNDJRZzZLNktUSFM5N2U4WEVORm9LRmpWZlFQRjZWNUE?oc=5>
+
+### 美媒：特朗普否决对俄制裁，乌克兰卫星支持中断，美乌同盟滑向破裂
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-10-20 10:36
-- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTFBndXR0QkgzdklPd2V6RHNEWnN3bFFyYUZud0JadnBJMjNSd2taVS1wT19VSnFSUUF5UFk0RjgwMU1qaUpIekJXNk1xRjY0TkVVMmc?oc=5>
+- 时间: 2026-10-20 13:56
+- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTE9RTnhGUXhJRFVOM1RJVlpFa2ZTNThUUlJiWVMyVDRMZ3I4ODBkREhYMWJYa2drNlFIWG1wNlU1eDI1OEt1bkgwY1QyTjA4UnFMRkE?oc=5>
 
-### 普京提议中美俄“三方会谈”：特朗普响应，北京未表态，基辅反对
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-10-20 08:49
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xdk1Rc0xjLXZYeFZiSnJNUGRyV2IwUGpJTzI4MGx6N09lMUNuVUZlMTBBV3RtNDhCcVFnaG1YbzVxZVZBSE4zenlIOU1rZFo3b1BPQmx4UHRKOUVnd1VVenlxbGRSN2fSAWxBVV95cUxNcXN1cXRDNV94OTV3U0h6Ym1zYTBUd245MWhOdjVOZ3NJaGF5LXg5UVExbTBaalpfQS1ic1ZLZkNxRldrNHNzTDNGSlVUYlc1NVhzci1feTBvTGNGSk5JLWZGVEJjZ2pBZ25feDY?oc=5>
-
-### 特朗普公开表示：法国正在燃烧，来自不同世界、心中充满仇恨的移民，摧毁了这个曾经伟大的国家，马上关闭边境、控制局势，一切都还来得及
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-10-18 14:11
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9WYlk5V21nUnktS0Zfb1VvY1ZwcUlwQ2xGNFJzaE1OaEJ1M2p2b3g1RzFXZ01uT3FUTmlZUzNQMm5VeUpNU3dZNjg5ZUE3VXkxcWJ4S0EzTk9mVVd2aGszYm9UNVpsQnFqMGF1Z0Ftbnp6Nlc0ZlNEbQ?oc=5>
-
-### 特朗普：看看法国，民主党想让美国也这样
+### 特朗普：也许泽连斯基是时候找别人来谈判了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 观察者网
-- 时间: 2026-10-20 02:32
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE9lN3hwWnhQZ0FGUU9IbzEweER5WUU5UDMzUWZlUXhtekFHX0pOelVTUXhsbWVoaHBoSkVxUnduM3VLNF9WLWJDNFdaVV8yd05XYUN0cDhVUnVyX3kzbnhlME9VVnNzLWFGS2ZDckt4c0dGWnc?oc=5>
+- 时间: 2026-10-19 22:46
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFBIcWxhbXRHVW5JVzhwQmRDQ0E3RlVsUFRhaFVhUXVpRmg1NzFGNFZLTDJYd1VDNmticWNsRzltdlpjNmFFczBtWmswWWt4ZGdiS0tzQndJR2trQ3FGczVVNGpneW9NZkhJb2RpU0pFOUdVOWc?oc=5>
 
-### 以色列总理下令推翻伊朗政权
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-10-20 04:27
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE5BTmtaQ2t0TGhzYmgyZTlsaFAzVGFPZHBiRDVBSUp5X21yYzExUm15MGNSQ1dsa010Znh6NkM4ZGdnWUxFbGJWakltNXNTRGlhdC1WbEdUWHU3UG92dl9NYldsc1hkQzZNYk5HWEIyRlAzUGtu?oc=5>
-
-### 特朗普：新墨西哥州应立即更名为“新美国州”
+### 特朗普站台内塔尼亚胡有用吗？“太早又太晚”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-10-20 07:58
-- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWnRtODlYa2YzWHlCTmFQdlhJZGJaZWdTb1VULXJYbjJJQmsyYWFpVHNqamluRjVCcWRCOGZPSno5cVJQLUxtUWktejZqN0k4T0xwQ0pNbE1PcXRJNWhvbkFWLUJ2anRnRldlZkhvWVp1TGdBT0xLWl9hQUxHbVhubnJwWDA0TnNDN05B?oc=5>
+- 场馆: 观察者网
+- 时间: 2026-10-19 08:22
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFBmY1ctR2ZTNC11cllrczVTa1dGb043c205Umh2VHpRallwOXhTekhwN0RDTk0yMmFhSjdYYXpRUGdlWnRTTDRLQU9TalNFU0RpWjFrUEJBREtCREtySkRDSzFXQ0xGd1I3anJqZmNUTjlCWWs?oc=5>
 
-### 选举压力下密集撒钱！特朗普再推80亿美元柴油补贴，瞄准农业州选票
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-10-20 05:55
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YU3hKN0hUdTdEZjM3c05GTVRZRU1XM3dMX0YxcHdyZXExckEyTGFKZHgzSDRuMUhGLXFBeTNiVDZkVURhaEM1Z3JXWlByRFgtNGJR?oc=5>
-
-### 【东谈西论】美国期中选举：特朗普难 伊朗也难？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-10-20 08:51
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBuUS1pczQxTkZ2T3BzMC1QMHhkQnQ3QVAwVlpmSmp2SnZ1UUt6NXp1WEdacUZERlFjLXBsR1FiYWpJaU5nY2IwN2c1Uk5ZZkZPbnVSdTFKYVluQjVBdnNUT0FyWm5mclJPdWc?oc=5>
-
-### 美国民众受高油价困扰，特朗普支持率创历史新低，选举预期开始影响市场
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 每日经济新闻
-- 时间: 2026-10-20 08:56
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFB2Q1pxZkZWanZVbXlJSjhobmFlMVRZR2NtLXhRRW8tTWlRX295TTNUa1JaeWEtTXVoNEZlX2oxQ0pUaFVUR1AyV2o2Ukp6NUFwcS1TN0FhVTB4TmFHNENueExjdVlqQQ?oc=5>
-
-### Trump says Ukraine’s Zelenskyy should be replaced in Moscow-Kyiv talks
+### 伊朗和加沙：特朗普对内塔尼亚胡的支持为何可能附带条件？
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: TVB
-- 时间: 2026-10-20 04:21
-- 链接: <https://news.google.com/rss/articles/CBMilgFBVV95cUxOMDhnajBUQkprdFVrQ0d2VDFuUTQwSERFWU8tVW1LTjhPeXdZSWNNdWx3Q0dIX1hiSVBxVGsybi1qN1I0WTRodVdWS3d5cW11YWZVZERDdXV4ZHppemVzV2lndW9iX2hsSG5yTHpUaGpkUndmcmI2ZjVDejBnS01LRXJGWDZsOGVsWDZTWFJMX2hsNXJYblE?oc=5>
+- 场馆: Al-Monitor
+- 时间: 2026-10-20 14:16
+- 链接: <https://news.google.com/rss/articles/CBMivgFBVV95cUxOWTlVZE1XWHRlVjlKcU02cC1obTBaZTk3TGdYbjM4UmlKNk5RWm9wbFRIbHVCdUU0dzB3Ymktd1RFaGRSUExzQlNaV25Lenl0UFZic0xsbVNrYlN1MGU1VEx4dVN4SXIyTER1S1dzS0tUR3FlVm5kalExXzB1U3g1azRfOE5RQmxWdkRJckt2OXpzODRxSUJYLVdyTE5jeTFuWENHLTRVclo5NmRjTzBxcy1DMzU0NnJRQ2hBcHRR?oc=5>
 
-### $SK海力士 (SKHY.US)$ 请在中期选举中投票支持特朗普总统
+### 蓬佩奥等前高官敦促国会通过能源许可法案，称美国可能在与中国的科技竞赛中落败
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-10-20 11:14
+- 链接: <https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ0dzbzktWGlKMnZMY3hBejczVHR0T0NWd1hzSzFsQ1A2c1lYZzlfdi01Q0JES0pqUlpaWDJmaGVxcUZxS3hqUGxPazhENmxxZmgzOGhpZm8yZHVHUndEVGRpenV6Z19uVWxpeDlqYmd5WFJYdmdTakE0X25uRENQQ2FiRW1uUUM2MVY1Q1BJQ0ZsOS15NXB5WHJkTkNWQktuOHJSRjhtb181R3p5WFdaVE90c0t5YTA?oc=5>
+
+### Bit Beacon (@BitBeacon7)的见解
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Binance
+- 时间: 2026-10-20 13:43
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9KRm93T2F2bzE5ME1fX0JIX01RTnZJOHBzYVBRZUlyWTRUbER0bmxHNF9jMmFwOS1lcmYxQmJqd3JzMUZyZnBTM3N4RFFJZHpMbkx5elBxVy1fS21OR2FXRmtGOEVodjBY?oc=5>
+
+### 第506天：加息 + 特朗普2.0 第637天
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: Moomoo
-- 时间: 2026-10-20 07:56
-- 链接: <https://news.google.com/rss/articles/CBMirwFBVV95cUxNZklJdktEWUt6T1F0UEk2TGpESUs3cXJpZXFwLWRtQWpnQWF0UUU3WG84Z0NEN3lPOWhOdERVc3A5bUNnYTQzSE9fSFIwTmk0Tk0xZTdmeW41RkhmZnZ6cE5fYjhVNGpXRjBFeFJyc3ZXV1R3eHBzMFFHOG84aEx1SC00MURHOTlHZFlrZTFtVWVYdWs2YXRfM3ppSkNHRXVaNFhiWEU4WHJUMGZzYlhN?oc=5>
+- 时间: 2026-10-20 15:05
+- 链接: <https://news.google.com/rss/articles/CBMimgFBVV95cUxPOEdrLWhzdXpwRTViYld2Q1lieEd3TW54VE92WDlib29uRVRKTHBGd1NPWV9JQTNRYjRidHBHMjBCdzFza2x2dERLZnd3VUhXTXBwbkNwUFg5aUNHS1RlWWZNXzNUSnktR2twNS1nVzl5VkdwbjBlVTlMbzdpOWVkOFR6MXd2U1draXJrdFJHR3lHaFdpcUNqc1Jn?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-20 15:31  (16 条)
+
+- **王一博** | 《看见豹之地·寻护者第二季》在京发布  王一博出席首映礼 <https://k.sina.com.cn/article_1881124713_701faf6902703uwyw.html>
+- **王一博** | 在《看见豹之地》发布会上野生救援公益组织的工作人员说 <https://k.sina.com.cn/article_7811054566_m1d1933be603301aqgq.html>
+- **王一博** | 《看见豹之地·寻护者第二季》发布 王一博呼吁保护华北豹 <https://finance.sina.com.cn/roll/2026-10-20/doc-inivwyqz7674158.shtml>
+- **特朗普** | 特朗普最新支持率公开 <https://news.google.com/rss/articles/CBMimAFBVV95cUxPbFdEZVFabUUwVTExdHJOQ3dlcmhkVkVMMU9qTVNKN0o4aklHeHRfVjVzNUpPNllfTEFtY2lFN09xM2lzRDBaNXJFQnlOUGZhS1lmRDFkbDJPZWRJbTVFa045azgzNHlpaUcxamdnR0hobXl6VnJjSUdadUlNY2tGQWt4OEpBUnB6YU5DWVpuMkpjcTVlb1hlTw?oc=5>
+- **特朗普** | 特朗普民意支持率创新低 <https://news.google.com/rss/articles/CBMif0FVX3lxTFBQVGhvVFd3cm9CTnFya3huLTJHNDZGandHTE5mVFN4bl9HdGY4Ym43amFNbmJNNVNWQkRFTTFnRmJRRzIzOWdQNXpFQ3JlMFRZMlA5YmdiWE45YjVNWXQ2azVkcV9pMzQ3eDJON25TVFMyR3dmNlc2aG5tRkVGMFk?oc=5>
+- **特朗普** | 美国中期选举三种结局全解析：特朗普将面临什么？2027年财政大战难避免-市场参考 <https://news.google.com/rss/articles/CBMiT0FVX3lxTFBLQjRWekpnNzRjeVhTODNzVUdxWGxQZU11RDhldlFQUU16anRlOV9OVWllZV9ySW5FTlJfMkFXSE1IbFo1eElJcF84NHBiUjA?oc=5>
+- **特朗普** | 特朗普曾一度近乎批准对伊朗实施打击 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1SR2l4bV9CRzBwcDgwSmh4SUNLamxkeEU2VkZ2ekRUdzFVaElxRDE1WUtQMVdRYlRXS1ZtVjR2a2NUQldhQTFMSzl0NA?oc=5>
+- **特朗普** | 400多年又如何？特朗普瞄准了下一个目标 <https://news.google.com/rss/articles/CBMic0FVX3lxTE1GZUM3dnVHRERPVmFLeEMwWmswTEFIRk5ralJNRm5IVTRHdHFsR1VWRzZoNUtnOXhPTFNqQ1N2TzAtaXRaVnEzV3hqdzQ3bWhiSlBoeGtDdTh0TWR5MVctbDhaYVZIYVU1U0lnMW5zQXFWRlk?oc=5>
+- **特朗普** | 特朗普称该让“其他人”代表乌克兰与俄罗斯谈判 <https://news.google.com/rss/articles/CBMif0FVX3lxTE44RHJ3RDRrb200WkJUbmlOVFRQVXpwcjYxVTRZZzJTNXNKQ3VHcWN4VERaWFMwMzczN0xrd3ZUdFZ4OFVCZnpvazR5bkZqN25jZmVSUDdjaThXQk9GMTAwNDJRZzZLNktUSFM5N2U4WEVORm9LRmpWZlFQRjZWNUE?oc=5>
+- **特朗普** | 美媒：特朗普否决对俄制裁，乌克兰卫星支持中断，美乌同盟滑向破裂 <https://news.google.com/rss/articles/CBMiUkFVX3lxTE9RTnhGUXhJRFVOM1RJVlpFa2ZTNThUUlJiWVMyVDRMZ3I4ODBkREhYMWJYa2drNlFIWG1wNlU1eDI1OEt1bkgwY1QyTjA4UnFMRkE?oc=5>
+- **特朗普** | 特朗普：也许泽连斯基是时候找别人来谈判了 <https://news.google.com/rss/articles/CBMic0FVX3lxTFBIcWxhbXRHVW5JVzhwQmRDQ0E3RlVsUFRhaFVhUXVpRmg1NzFGNFZLTDJYd1VDNmticWNsRzltdlpjNmFFczBtWmswWWt4ZGdiS0tzQndJR2trQ3FGczVVNGpneW9NZkhJb2RpU0pFOUdVOWc?oc=5>
+- **特朗普** | 特朗普站台内塔尼亚胡有用吗？“太早又太晚” <https://news.google.com/rss/articles/CBMic0FVX3lxTFBmY1ctR2ZTNC11cllrczVTa1dGb043c205Umh2VHpRallwOXhTekhwN0RDTk0yMmFhSjdYYXpRUGdlWnRTTDRLQU9TalNFU0RpWjFrUEJBREtCREtySkRDSzFXQ0xGd1I3anJqZmNUTjlCWWs?oc=5>
+- **Trump** | 伊朗和加沙：特朗普对内塔尼亚胡的支持为何可能附带条件？ <https://news.google.com/rss/articles/CBMivgFBVV95cUxOWTlVZE1XWHRlVjlKcU02cC1obTBaZTk3TGdYbjM4UmlKNk5RWm9wbFRIbHVCdUU0dzB3Ymktd1RFaGRSUExzQlNaV25Lenl0UFZic0xsbVNrYlN1MGU1VEx4dVN4SXIyTER1S1dzS0tUR3FlVm5kalExXzB1U3g1azRfOE5RQmxWdkRJckt2OXpzODRxSUJYLVdyTE5jeTFuWENHLTRVclo5NmRjTzBxcy1DMzU0NnJRQ2hBcHRR?oc=5>
+- **Trump** | 蓬佩奥等前高官敦促国会通过能源许可法案，称美国可能在与中国的科技竞赛中落败 <https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ0dzbzktWGlKMnZMY3hBejczVHR0T0NWd1hzSzFsQ1A2c1lYZzlfdi01Q0JES0pqUlpaWDJmaGVxcUZxS3hqUGxPazhENmxxZmgzOGhpZm8yZHVHUndEVGRpenV6Z19uVWxpeDlqYmd5WFJYdmdTakE0X25uRENQQ2FiRW1uUUM2MVY1Q1BJQ0ZsOS15NXB5WHJkTkNWQktuOHJSRjhtb181R3p5WFdaVE90c0t5YTA?oc=5>
+- **Trump** | Bit Beacon (@BitBeacon7)的见解 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9KRm93T2F2bzE5ME1fX0JIX01RTnZJOHBzYVBRZUlyWTRUbER0bmxHNF9jMmFwOS1lcmYxQmJqd3JzMUZyZnBTM3N4RFFJZHpMbkx5elBxVy1fS21OR2FXRmtGOEVodjBY?oc=5>
+- **Trump** | 第506天：加息 + 特朗普2.0 第637天 <https://news.google.com/rss/articles/CBMimgFBVV95cUxPOEdrLWhzdXpwRTViYld2Q1lieEd3TW54VE92WDlib29uRVRKTHBGd1NPWV9JQTNRYjRidHBHMjBCdzFza2x2dERLZnd3VUhXTXBwbkNwUFg5aUNHS1RlWWZNXzNUSnktR2twNS1nVzl5VkdwbjBlVTlMbzdpOWVkOFR6MXd2U1draXJrdFJHR3lHaFdpcUNqc1Jn?oc=5>
 
 ### 2026-10-20 10:47  (14 条)
 
