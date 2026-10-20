@@ -1,104 +1,100 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-19 21:55**
-- 本轮扫到 14143 条, 新增 **11** 条
+- 最近更新: **2026-10-20 00:52**
+- 本轮扫到 14152 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (11 条)
+## 本轮新发现 (9 条)
 
-### 特朗普：特朗普账户汇......_7x24快讯_新浪财经
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-10-19 20:49
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBWbzQ3Vnh2MkVxYUlJVE41UUJ3TEVJTUpMNmd6amF2YWZCSVZ4ZmkxZzNlbzBDaHhrQ1E4eUNCNm1VOHRuYWpwOVBaaw?oc=5>
-
-### 特朗普发文力挺俄罗斯：他们对伊朗的帮助微乎其微，还以低价向世界输送柴油
+### 特朗普回应马克龙涉伊朗战争言论：称法国骚乱源于移民，巴黎将变穆斯林城市
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-10-19 00:51
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9sQ2NwVWlQeW9CZV9pOS0xRlJhdm9GVTFBTWlDbFczemRkdkhvelNSX3J0bnlZX3daM3FYNzZVM3BmaUFJLVF1dlJoVEc?oc=5>
-
-### 媒体：普京提议与美中举行三国峰会，讨论乌克兰战争解决方案
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: DW.com
-- 时间: 2026-10-19 12:20
-- 链接: <https://news.google.com/rss/articles/CBMijgNBVV95cUxQQTA4QUhhRWRqZ29YV1hwSGtHNkZIRjlTMC1jV0xKejdyYXNLRlljamR2TEhSdUVFSmtJNVFOTVNESVcydEI5S0M4Vnc1ZnE3Z2R2UTdxb1ZvbFJjTmRBSXl2ZnIzd1RpTFdndUUzMWxjZ2dqcEt0V1pSUVBqSWpTTnY0UUFmS1JBUFVyWF9EbTdGQkF0cU9hSUU1R1o2NGgwMWZTTXRLa0d2NkRuR2VpUGRPT28zS2g4RGxTNFN1ZVozeGxtdmhKNGNVMTdzeGRpYXFsYmh2elBfWlBFaEFxRHE2ZDU3enZpeHZFbUR2WGJGblo3TTEtc3ZWOW1MZzR5VzY0RUlBVFhDYmRaN1g3Nk4yUHM1UE4yZlliLWFRLVNCTlBfaFA5R19zR1Z0ODZ1aEJkU2ZuNnhEVk9fM3NqT1FOMXZpU25MOXNpMmsxdmJDOTlfczl2QVBxdzlBbWZ0NUtwWDM3ME15YndKUklUY3RuX3QyWGVRcXdUVjFZNDR2ajRwWDZfRG5fZnNVUdIBjgNBVV95cUxOQWpXeUJUSWFwNmZHd1JpdlBZYnNlV0NHY2ZFQTVGTVplT0ZvQ1BZcUFMTUhIcHIxUW5KMzcwbVduNzhCWFlKRFY1Rm4ySHhGLWIwbjNWejI3TnllT3c0UmlYTVJVS1JrYkF0QzZCdERJbmRjU0NOQWNsOWJaSFI4ZVZQUC0xTExSWG8xNk83OGVSQlRLdXVhNGZ5MzlUck5rbUZuRzlORGtWOWw5Z3NKWW5YUXp6enJ4QjBjTjZJdnpSNkQ2ZXJRbXZBcGNuR0FrRC1KcDFSN0Jpa3Vpa3RzQV83a2UwaXFyUlZkWmpSamE3UGhoUGVoTUF2eXRRQUQ3SW16VER0bUlVS0pzZkJJTGhfMzZXcHZBbGk4MEFYbDU4Y18xblN0bmRvOTNzTFBxRGVCSi1TYTJTZkJVLTgxY2lWZXlQZlNmaHY0Tjc0SFIwNUtrOEF2bjZIX0VsTnJXemNwNTViMWRyLU9vb1FWaHNtQm50UmlfV0ZaRndsWmREZkJrb2RheUpNRVRXdw?oc=5>
-
-### 一文看懂：美中俄或举行乌克兰问题会谈 大国外交能否推动战争终结？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-10-19 21:22
-- 链接: <https://news.google.com/rss/articles/CBMiowFBVV95cUxQZV9oWUxiWjVqTVU3TE1VWmVzWmdHVUpHNXAwWTBUS1FKT1pUQlZLZF9aY2s3a1lVOFEwZEZXZ0ZWZmNwRWIwTGZVZS11bkFORzBjZFM2eEtQLTJGUm5hWjVkc2l5aEVyazRfUVZFWHZzcy1iYlJ6NzZDU19naUlWUXQ1ejUtR2RESld3ajZUYmtlTGlPc3dSY0dyRm5EbWx2YU9J?oc=5>
-
-### 特朗普发文支持内塔尼亚胡竞选连任以色列总理
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-10-19 07:21
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5fSnc5bDVCRE5YeF9UblZOaWlfclFmUEltcVN5WFU1VnlEbE0wVi00UnEyNUdjcFBXNUQzUjlmNU5OalZLMkNzSW9LbDQyWklSWUx4ZVJGbUFSeGNIRlR3alBtQUI1N3RLUkRDUURnTXg?oc=5>
-
-### 特朗普政府又一位美女官员，栽了
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 风闻
-- 时间: 2026-10-19 18:15
-- 链接: <https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kc2JmVGtIMWdDRWRlYlZfS3Bic2dIV1U4ZUhQdTlGQkRsVW9UZjhTc0NTTF9HY2c5MlpjNDJWdlc1RURkc054SWROZk1udHExUkJBOEptOS0zX2M?oc=5>
-
-### 铜价走向攥在特朗普一个人手里？多头又怕再次被坑
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-10-19 09:25
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFB0N2VGMk9MOFNXQko4UzJDQjhMSTRSd0xMNm9Dc1UxTU9Ib0xHRVBzNUJ5T1hqSGtCTER1NlBwczNpdVhQNGFvZ3NtVWpzYTh0QjJTRTBOaGJ4eGhreEhOWGcxbFNoM0E3dGRKWlh5ZFE?oc=5>
+- 时间: 2026-10-20 00:41
+- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UVC1UM2doZi1Ra3NMYXlVVWJRQUhHOHRpSS1PMHBMNjZaUm1sOE1raDdWOVktUWNjVVVQVktDZFNmTE9jalJveUUzcTB5Z3NmU0E?oc=5>
 
 ### 特朗普称该换人代表乌克兰谈判
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 搜狐
-- 时间: 2026-10-19 20:47
-- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT2lkbU1qRmJ6Y2dnMHQ2RHNhdDJURTdmOE9hRVBsWU9LanI2NldiXzZYbldaQU9QYnd2SWt5NVRMLTI2MXVCNDVnU2JSTVV6LVRKcm9rMk9adzZyZk9QeDRPNEVVcTJtSWtPUjEzQXNoR1htSmNjM2g5N2JCdmJZaFZfLVdnRU5E?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-10-19 22:07
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1PV2p4aGtuaTBVT2l4VVZnVFJlOTh5eTRJWUxweW9hVWRPMF9vYjlVdW9WYWxDZDdUUGp5ZWQ2ZXp0OFpIcHlOblRGSmM?oc=5>
 
-### 金融时报：泽连斯基为什么会转向公开挑战特朗普？
+### 美国总统特朗普谈乌克......_7x24快讯_新浪财经
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 加美财经
-- 时间: 2026-10-19 14:34
-- 链接: <https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NNllrcGsyWVVva1ZBdklxejlFTTV1RXctVTZvXzZsS0VfSXlvcTNDbk1YZ0hQaVhyRDZCZ2U4RktCZHplNlg2bEE2S2V0cDFGLUl3UG9KVTRSdw?oc=5>
+- 场馆: 手机新浪网
+- 时间: 2026-10-19 19:55
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBQVGNFYl92LVozT1pjWmFyYlJtbHNqZTZpNkFRQ3RHMGRMcWVNQmpiUHhaNGFlV2trdzZqYUltR2NKZ1FfX0pnMFBGRQ?oc=5>
 
-### Trump称下月是否在中国与Kim Jong Un会晤“还不知道”
+### 美特使本周赴挪威重启俄乌和谈，特朗普公开喊话泽连斯基“换个人谈”
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 아시아경제
-- 时间: 2026-10-19 20:21
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ZZ0ZnaHJuVEkzTk55U1Jha2c0d3Q2bEphLWo3TnFOXy00dVd3VnRQZ3Job3VacXVLV1o2M09UbGV6dnpVSTQ4NEcxZnkxWHBFQ29qbDI0Y216X0taT0FrZVo4bWU?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-10-20 00:23
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE05bmQ1ajZJNGZEOUlRRWNVOUhHb3VJeVRTdWl3ZW1McHhzVGJBV3FfTUxlMm9FREE4c1IxR1dBUzZnSmN3ZFV3WDNHTGg5cVZIZUhPeEp2Q2Q4TGFpRm16dlVHNEFJaWF0QWtCeXhocEkxdEhRNkJyVQ?oc=5>
 
-### 拉夫罗夫访问德黑兰，特朗普赞扬俄罗斯在伊朗问题上的作用：你需要了解什么
+### 特朗普称已准备好与普京和习近平举行三方会晤
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Al-Monitor
-- 时间: 2026-10-19 17:27
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBSc1BvQXZlZnRjZnQwbmZrUjZaSFhEX1BuV3pHQkxyQXJtWk5sSmRBYWpmRlA1VHIwdUYtendha3JQUURyOW9MeklfR1FlWV9tNnZqczRTWUtUZ2FTcnFfQmtGaG54QQ?oc=5>
+- 场馆: RFI
+- 时间: 2026-10-19 21:08
+- 链接: <https://news.google.com/rss/articles/CBMi2wJBVV95cUxPRFlWLWxlc0tESzR1SjVuVklTVk9HWE43VFV6MlZJRjkzekp2UXBOOTEySGtINEMzS3d2Q3dtMzJqck44cDB0Uzk3cXpiMk9QU3FvY1paUEJ1QWx5ZEVFdW5ubzZYbExvdUVSXzlEQkNfMjNCd1FleHhhSFlOSVZMV3NZOG1jOGlWTGkyQ3dveGpwNVp0V2h0dmNSWHhMZGhEQWdnTXJROUIwUjZVX2c5cFpPWGZkbnI1dzVmc3N6TGFKbnZxR2ZrcjRkSGU4WTNPLV9FSFdDaVlqR2tmaUZxTVhaZmxCZlNvMEx3ME5TcEc2NFNHelg5MjY0dy0zUFA0SGlNNG1lMm9SQ0VQUDMtMkk0aDFvam5LMFViYVNPay1KNFlwSUhoaGFtRWlYaUxIcENSQ25Hb1Z5UVhCd05vM2tkcGRvVGlkQ3BDbnZRTzRvaklueVNmZy1KQQ?oc=5>
+
+### 特朗普对下月与习近平普京举行三方会谈持开放态度
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-10-19 23:11
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFByc0hMMlpNYzVndzc0MUFTMFJuOGMzakhobU80SkJHY1N5UjRlWnRraFktWTVfZ19ydTV4ZGZaTzB3UXRNZ3g1bjh4SnhCRTQ2UWgzQ1NNNDhaaGZfVVJsODJjdVdTRDRmNWc?oc=5>
+
+### 特朗普：正努力营救一名美国长期寻求解救的人质
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 手机新浪网
+- 时间: 2026-10-19 19:30
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfd2RXRUQ0T0FQV3JSa2M4dXlTZFN4UVE3ZDVmaEVfcGNpVDFYUU0zbENQU2tlZXBDazRaMF9jZG5mTVpocGowWFBBZw?oc=5>
+
+### 白宫新发言人扎卡里亚上任仅5天被特朗普解职后首度发声
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-10-17 01:21
+- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXMU4wcTdmZGNjOUpDNm5NOEhCQVo4a0dadEZIZC1OV0VYcDBSZlZ1MTc3TEMybjVDV2lQMEhmdG5tUzFIWURLNVhiZEJxUDYyNWc?oc=5>
+
+### 花活+1，特朗普呼吁：新墨西哥州应更名为“新美国州”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 搜狐网
+- 时间: 2026-10-19 23:06
+- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMWk5OXcwOFhjVlc3bjFjRzF3RXBGWlV3U2t2a2taRmxINjlEWkRkSjFkMVF6VE16VlQyX3c5TWJiZnZaMWdDcE9vakZjbFhtUW4yamFnYXdEWTg1NGN2LTRaZHRqSDBURkx0SXdfcnJlY1V5NWVIdkFXR19YV01OSzM2YWVBQUE3NWlF?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-20 00:52  (9 条)
+
+- **特朗普** | 特朗普回应马克龙涉伊朗战争言论：称法国骚乱源于移民，巴黎将变穆斯林城市 <https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UVC1UM2doZi1Ra3NMYXlVVWJRQUhHOHRpSS1PMHBMNjZaUm1sOE1raDdWOVktUWNjVVVQVktDZFNmTE9jalJveUUzcTB5Z3NmU0E?oc=5>
+- **特朗普** | 特朗普称该换人代表乌克兰谈判 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1PV2p4aGtuaTBVT2l4VVZnVFJlOTh5eTRJWUxweW9hVWRPMF9vYjlVdW9WYWxDZDdUUGp5ZWQ2ZXp0OFpIcHlOblRGSmM?oc=5>
+- **特朗普** | 美国总统特朗普谈乌克......_7x24快讯_新浪财经 <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBQVGNFYl92LVozT1pjWmFyYlJtbHNqZTZpNkFRQ3RHMGRMcWVNQmpiUHhaNGFlV2trdzZqYUltR2NKZ1FfX0pnMFBGRQ?oc=5>
+- **特朗普** | 美特使本周赴挪威重启俄乌和谈，特朗普公开喊话泽连斯基“换个人谈” <https://news.google.com/rss/articles/CBMieEFVX3lxTE05bmQ1ajZJNGZEOUlRRWNVOUhHb3VJeVRTdWl3ZW1McHhzVGJBV3FfTUxlMm9FREE4c1IxR1dBUzZnSmN3ZFV3WDNHTGg5cVZIZUhPeEp2Q2Q4TGFpRm16dlVHNEFJaWF0QWtCeXhocEkxdEhRNkJyVQ?oc=5>
+- **特朗普** | 特朗普称已准备好与普京和习近平举行三方会晤 <https://news.google.com/rss/articles/CBMi2wJBVV95cUxPRFlWLWxlc0tESzR1SjVuVklTVk9HWE43VFV6MlZJRjkzekp2UXBOOTEySGtINEMzS3d2Q3dtMzJqck44cDB0Uzk3cXpiMk9QU3FvY1paUEJ1QWx5ZEVFdW5ubzZYbExvdUVSXzlEQkNfMjNCd1FleHhhSFlOSVZMV3NZOG1jOGlWTGkyQ3dveGpwNVp0V2h0dmNSWHhMZGhEQWdnTXJROUIwUjZVX2c5cFpPWGZkbnI1dzVmc3N6TGFKbnZxR2ZrcjRkSGU4WTNPLV9FSFdDaVlqR2tmaUZxTVhaZmxCZlNvMEx3ME5TcEc2NFNHelg5MjY0dy0zUFA0SGlNNG1lMm9SQ0VQUDMtMkk0aDFvam5LMFViYVNPay1KNFlwSUhoaGFtRWlYaUxIcENSQ25Hb1Z5UVhCd05vM2tkcGRvVGlkQ3BDbnZRTzRvaklueVNmZy1KQQ?oc=5>
+- **特朗普** | 特朗普对下月与习近平普京举行三方会谈持开放态度 <https://news.google.com/rss/articles/CBMiakFVX3lxTFByc0hMMlpNYzVndzc0MUFTMFJuOGMzakhobU80SkJHY1N5UjRlWnRraFktWTVfZ19ydTV4ZGZaTzB3UXRNZ3g1bjh4SnhCRTQ2UWgzQ1NNNDhaaGZfVVJsODJjdVdTRDRmNWc?oc=5>
+- **特朗普** | 特朗普：正努力营救一名美国长期寻求解救的人质 <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfd2RXRUQ0T0FQV3JSa2M4dXlTZFN4UVE3ZDVmaEVfcGNpVDFYUU0zbENQU2tlZXBDazRaMF9jZG5mTVpocGowWFBBZw?oc=5>
+- **特朗普** | 白宫新发言人扎卡里亚上任仅5天被特朗普解职后首度发声 <https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXMU4wcTdmZGNjOUpDNm5NOEhCQVo4a0dadEZIZC1OV0VYcDBSZlZ1MTc3TEMybjVDV2lQMEhmdG5tUzFIWURLNVhiZEJxUDYyNWc?oc=5>
+- **特朗普** | 花活+1，特朗普呼吁：新墨西哥州应更名为“新美国州” <https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMWk5OXcwOFhjVlc3bjFjRzF3RXBGWlV3U2t2a2taRmxINjlEWkRkSjFkMVF6VE16VlQyX3c5TWJiZnZaMWdDcE9vakZjbFhtUW4yamFnYXdEWTg1NGN2LTRaZHRqSDBURkx0SXdfcnJlY1V5NWVIdkFXR19YV01OSzM2YWVBQUE3NWlF?oc=5>
 
 ### 2026-10-19 21:55  (11 条)
 
