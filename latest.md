@@ -1,88 +1,137 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-21 01:10**
-- 本轮扫到 14221 条, 新增 **9** 条
+- 最近更新: **2026-10-21 06:15**
+- 本轮扫到 14235 条, 新增 **14** 条
 
 ---
 
-## 本轮新发现 (9 条)
+## 本轮新发现 (14 条)
 
-### 美国中期选举在即，特朗普连共和党铁盘都快守不住了
+### 《看见豹之地·寻护者第二季》在京发布 蚂蚁森林携手野生救援呼吁保护华北豹
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://finance.sina.com.cn/jjxw/2026-10-21/doc-inivxvuv6262717.shtml>
+
+### 小黄豆23号赴新加坡看蔡徐坤演唱会
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_2459036303_m9291ea8f03301nd94.html>
+
+### 疑似半岛铁盒原版MV出土 毫无违和感 马大帅 范德彪半岛铁盒 周杰伦
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879924057_m1d5ae195903301pxpo.html>
+
+### vivo X500 Pro Max演唱会远摄实际效果怎么样？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776483_1d5abd8e30680288uo.html>
+
+### 特朗普透露与魏哲家通话，国台办回应
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪军事
+- 时间: 2026-10-21 05:38
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5GRDJUWUx2NkNyekFnTmx4RC1zbkllWmQ5TGdSa2hXdkJXeXdCX21UWjZUSjl1Z0hmMTlkbFBxT1E1QnozSDQ5dVlSVVByU2d4Q01tZGRRZFZ2c1lQMDFqendSbklpT0Q4RldicHFkdWRCb3M?oc=5>
+
+### 特朗普白宫发火质问记者“你有病吗” 引发言论争议
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-10-20 08:17
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBabkxOb3kxRkdkZGYtNGlNMS1UQVRzWWVsQnZoeC1rOEhvSnRDQjhTRE4tRk5Bd1BOaUZGOU9lQzdSY1FnaDlTLUwwWGc?oc=5>
+- 时间: 2026-10-21 03:20
+- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTE9oWlJYLXFidDd1VW15cWFYVGNuc3F5QzdLZUhpZFlYbnJLbUNZLTczeTlhT1VscThacE1NSzRnckswNzJuYzJtWk9rZ0V0M0N1ZWc?oc=5>
 
-### 特朗普支持率创两届任期新低
+### 特朗普施压泽连斯基同俄达成协议
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-10-20 12:25
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9TWHZIeEd0di00d2tEbUJFNm4zMWpYT2o1Z0JBajhRNXlPMmFiWnI5SGNiaDN1Znc3ZkJNUzZ2UTdRVFl4cS1YWk03NGNUMDgxbm9PVVoxV1JWNV80VlN0QmlHMFJQQWxjdldTQ005TmVMYVpCUzY2NQ?oc=5>
+- 时间: 2026-10-21 03:34
+- 链接: <https://news.google.com/rss/articles/CBMi4wJBVV95cUxOT0JXUFFWSVpJZEFFSnItU2hrV3dvWVI0NDJmYms1bzlLTHNhVGZVWjlHRzd3bDZRb094ZUVLVEJzM3A4R0xKemRXQVJVbkJ4ekU4ODNvRmRPd0NJNXNxdWo4WFRIQlJ4Nl9RUUZFZVNmOW1JUmc1OGEzYmpHZ0FPNTZHU09yOXF1MER3VGdtbHdIbndKSndhZXd5ZXpMeDQwTGNXMllDa3VnX3oxcU4tVjI2em5LNERPa2sxQWMtUF9xQnQ0bkxZUm8tSzVsd21lWHo5UXJSelAyYW9Tbm9OcmQwNnJSSll1UnFtUEw4bGdhZFRsWlFKZWhhMnlySVdTM3poVTlYQ1ZaRk5yNXJ3anNWcHJRbi1LQlktRzUwb2JNSVFkVk5QeFFKVWhhQWJnd3JXN3RvTHBzV0VZN2U3OXdkS0ljQlFtUV9oNlI2Znk2dWxiNEd1UGl3TWxNNFQ2eDBZ?oc=5>
 
-### 【美国中期选举】特朗普借法国骚乱炒作移民课题
+### 特朗普对下月与习近平普京举行三方会谈持开放态度
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 联合早报
-- 时间: 2026-10-20 11:18
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE91MzVBd2pUWlNpSXdwOFgxX2VJS2Jsejhsd0Z5QllVRFlyTnZPcy16ZUtBNjBxOU1EVHVnZHEyQkRrQk5paU5iRmJQYkVSLVdDZG4xUzdMSGZ4akFiVGt6dld2anZqUQ?oc=5>
-
-### 要闻分析 - 特朗普为什么说是移民政策造成法国骚乱？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-10-20 20:07
-- 链接: <https://news.google.com/rss/articles/CBMigANBVV95cUxQb0tzYTBsZWZrc3FoRzk0Z0staTNVQzNrdTJoU2RRMEktUVE4WGtkRlBVcHRSUlNkYUUyWnItR3BxYmhBazVYZTEzcUNWcjl4dnh3YzA1WHJLZVVXbDdlcEtaZVY2SGNwLW5ZRHUtczVISTBvZTY1VjJWcUdaUldGR2NvaUIza3BzWF9neld2dEtocWxUZTAzWkxqMlA5UG4zVEVNZmVjbkNhbmxpdnNPazNtS3oyb3doN1JvdWkxME1XdDQwVGRoaFd5ckpORVdEYkNiY1BMSDN1a0tEQUI5ZE1URTJSc01ibU5SQW81bGo2ZXo1TlFKT1BOOWRod0dtaDdUTUtqcHlfOGFpZXVmZDItdUdWQkh5NGE4Y25GTm9hWUhOeUhTUTZHV1lqeUlpTjBXV3B1UHFrVUNWQnhMQjdyZ1JZMTdMcEo5TVRoaVdmcmlLeEl0X3ZQTVZHNTNvaDljM0NJUWVaMGtweFB6ekhvY0dQUnZMMWR3RTlDbnE?oc=5>
-
-### 特朗普马克龙吵起来了 移民问题成焦点
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-10-21 00:06
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBQa0s3QW9Xa3NiazZLbmtFM2ZEVk1OejVwS2tFdGZXTk0zZE1iSXdJQTQzQzc0TXB3bzlGX0w0MWY0UFRXMFgxMVhGcGVmQllyS0hSdVpZcktuMnNjZjRna1hnOTI2Wi1jR0JDRG1YTmc?oc=5>
+- 时间: 2026-10-19 23:11
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9OTnBrUEVVd0lTbHdrQnF6WWdxb0VLejM3QW1JeHpsWGlTUy1ETzVaYzJ3NnJjRWlZRmtSUUJndVpmc1ZqSnZpSE5OcTBqTEpyMmsxajk2S0JWUS1MTS10aFFhRnhmdw?oc=5>
 
 ### 威胁在竞选集会上刺杀特朗普 美国堪萨斯男子遭逮捕
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中国日报网
-- 时间: 2026-10-21 00:42
-- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTFAtLXZEZ0xuZ3pPNWtxOVdKdXEyTjlIVURlTURBN0d5emlfbkI2SXhkYVZRcmhsTjVIcjV3b21SbS1WeVNzR3E5OXA5bS02RkZNOWZ1RGdhaDdVWDAxaTdtSzJNaHU2SENPQUl5QWlTN0hYQkQ1dW40amU5Yw?oc=5>
+- 场馆: 新华网
+- 时间: 2026-10-20 20:40
+- 链接: <https://news.google.com/rss/articles/CBMid0FVX3lxTE82cHk3eG1fWm10cTBGWUl6aTEyMWhGdEVqb2NtSnU4eUFkVXZkUWdFRk5KNU5nVmZXdGRZeE02OVV5dXhOdm9sSnFEY0V2cTRKSWJJYlNnNTBKMDAtcWFtamxiMG9DeTZKNVQ1ajA4NFdUUTFCd0E4?oc=5>
 
-### 美企起诉特朗普对加拿大征收50%关税，援引大萧条时代法律遭质疑
+### 特朗普中选后打击伊朗筹码？美第三艘航母据称料11月底抵中东、增派约万人
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 华尔街见闻
-- 时间: 2026-10-20 20:51
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IOEIxY0ZHcmg2bGJBYjlGdnU3VEZYY04wNmhxYWl3NURuY3lNQ3R2X1k3SHJNczg4X0dVdVI3bUx3VW0zQzNDSzNJTTdtVWpFQVNn?oc=5>
+- 时间: 2026-10-20 20:47
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE1pUTZlWVlvTUJlbjN2QUFyX09pd0llTGdlNy00TDJ4SlVQTk80VXlON2ZQblpxNmc3bWM2LUtRekJKVGo0N25YMVNxajRPS25wN2FZ?oc=5>
 
-### 特朗普公开支持以总理连任有何考量 美总统助攻出于现实考量
+### 特朗普称法国暴力骚乱根源在移民问题 引发广泛争议
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 中华网
-- 时间: 2026-10-20 15:39
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFByQzQ2alppTUEzNUZRLVhpMDFBMFF3aTFMRUI0eXdnU19TY2V0MEhESF9uTXpIeUN0ZXpsVUhpME5GM1gzekRXYURvcWcyQWo0TW5SejVGWThBSm9IZWdCeV9UdFJFQjdjTjZfVjlnZWc?oc=5>
+- 时间: 2026-10-21 03:37
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9UTE8tWDhIYXNZZXhqRUZKVTBtazBHTWF4RzFlUm9ubFQyTDNkeC1PU0F3VmVvMEN4SUUyTHdUN0NBNUJaZDdEYzhMY1hlQVBiUDctY05TdnNjSjRRLWMyQnZ2Uk9qdEgwUWJaOVBCbHE?oc=5>
 
-### 特朗普计划再向美国农民发放80亿美元补贴
+### 石油大省多数选民拒绝脱离加拿大，卡尼取得关键胜利
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-10-20 23:13
-- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdC1KbFhTT3ozbGVaRmE5NDdtTWc2cmV2WHVjcUtsdFpSdWlJdi1vWHVMNUo0MXFDdENlenZtT0lSQl9Ddmt4QTM3ZFlGbm5haEQ3alRWeXU3X1d5aEpwZmRUdVZSTmxzRjZGbk91MWlqTHlORFRVQkhUT3RsbmNEcFNaY2hsbUdR?oc=5>
+- 场馆: 纽约时报中文网
+- 时间: 2026-10-21 02:33
+- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE1yc3MxYjF4OE5GMDkyVEtGeHBnMUNlS3RTY1pmRFRFek92NGdqVXcwa1dKby1yXzM4em1raU0ycWpqNk44QWNJLV9TWkFlbjAtTjB6RGRnajFhLVpsb3JkVVdVemRLZWJqYmNmcmd3Z0xaSk9xOXJkbWhn?oc=5>
+
+### 威胁在竞选集会暗杀特朗普 美国男子被捕
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 8world
+- 时间: 2026-10-21 02:09
+- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxNSkVIUGZHZzNhVmtuYURMMWl5UktMeTVTWUxmOTVFQ3NHUVp2cVhZbEwtaDNqOXBGQ3FJX1FNbHpQLUY2RFQzaGd2VjFKTmtIOWVZblk0TkNXMEQxTnFyZWR0WUhqZENMRG1iYmxiT19uWVVUclJCTzYxUHlUUTVtMmM3ZUNYUjlRVmVDcFVuX0FCdjBFR3RsR3Nud0I?oc=5>
+
+### 泽连斯基为何对特朗普展开回击？
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 纽约时报中文网
+- 时间: 2026-10-21 03:50
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE9manljZ2U0VkVCYXBsT01LRDZlY2ZYMmhJTmRONVBzRWY4T202bjM3SXdsZU5qNWxkS0RFU09DY09LU2QyOEd3aUNoSldFWnp6TWpXN1ZKS2JFT2hXOGdudS1JZmRmb1ZPczlzVmZvZ2M3cWs?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-21 06:15  (14 条)
+
+- **王一博** | 《看见豹之地·寻护者第二季》在京发布 蚂蚁森林携手野生救援呼吁保护华北豹 <https://finance.sina.com.cn/jjxw/2026-10-21/doc-inivxvuv6262717.shtml>
+- **蔡徐坤** | 小黄豆23号赴新加坡看蔡徐坤演唱会 <https://k.sina.com.cn/article_2459036303_m9291ea8f03301nd94.html>
+- **周杰伦** | 疑似半岛铁盒原版MV出土 毫无违和感 马大帅 范德彪半岛铁盒 周杰伦 <https://k.sina.com.cn/article_7879924057_m1d5ae195903301pxpo.html>
+- **周杰伦** | vivo X500 Pro Max演唱会远摄实际效果怎么样？ <https://k.sina.com.cn/article_7879776483_1d5abd8e30680288uo.html>
+- **特朗普** | 特朗普透露与魏哲家通话，国台办回应 <https://news.google.com/rss/articles/CBMic0FVX3lxTE5GRDJUWUx2NkNyekFnTmx4RC1zbkllWmQ5TGdSa2hXdkJXeXdCX21UWjZUSjl1Z0hmMTlkbFBxT1E1QnozSDQ5dVlSVVByU2d4Q01tZGRRZFZ2c1lQMDFqendSbklpT0Q4RldicHFkdWRCb3M?oc=5>
+- **特朗普** | 特朗普白宫发火质问记者“你有病吗” 引发言论争议 <https://news.google.com/rss/articles/CBMiUkFVX3lxTE9oWlJYLXFidDd1VW15cWFYVGNuc3F5QzdLZUhpZFlYbnJLbUNZLTczeTlhT1VscThacE1NSzRnckswNzJuYzJtWk9rZ0V0M0N1ZWc?oc=5>
+- **特朗普** | 特朗普施压泽连斯基同俄达成协议 <https://news.google.com/rss/articles/CBMi4wJBVV95cUxOT0JXUFFWSVpJZEFFSnItU2hrV3dvWVI0NDJmYms1bzlLTHNhVGZVWjlHRzd3bDZRb094ZUVLVEJzM3A4R0xKemRXQVJVbkJ4ekU4ODNvRmRPd0NJNXNxdWo4WFRIQlJ4Nl9RUUZFZVNmOW1JUmc1OGEzYmpHZ0FPNTZHU09yOXF1MER3VGdtbHdIbndKSndhZXd5ZXpMeDQwTGNXMllDa3VnX3oxcU4tVjI2em5LNERPa2sxQWMtUF9xQnQ0bkxZUm8tSzVsd21lWHo5UXJSelAyYW9Tbm9OcmQwNnJSSll1UnFtUEw4bGdhZFRsWlFKZWhhMnlySVdTM3poVTlYQ1ZaRk5yNXJ3anNWcHJRbi1LQlktRzUwb2JNSVFkVk5QeFFKVWhhQWJnd3JXN3RvTHBzV0VZN2U3OXdkS0ljQlFtUV9oNlI2Znk2dWxiNEd1UGl3TWxNNFQ2eDBZ?oc=5>
+- **特朗普** | 特朗普对下月与习近平普京举行三方会谈持开放态度 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9OTnBrUEVVd0lTbHdrQnF6WWdxb0VLejM3QW1JeHpsWGlTUy1ETzVaYzJ3NnJjRWlZRmtSUUJndVpmc1ZqSnZpSE5OcTBqTEpyMmsxajk2S0JWUS1MTS10aFFhRnhmdw?oc=5>
+- **特朗普** | 威胁在竞选集会上刺杀特朗普 美国堪萨斯男子遭逮捕 <https://news.google.com/rss/articles/CBMid0FVX3lxTE82cHk3eG1fWm10cTBGWUl6aTEyMWhGdEVqb2NtSnU4eUFkVXZkUWdFRk5KNU5nVmZXdGRZeE02OVV5dXhOdm9sSnFEY0V2cTRKSWJJYlNnNTBKMDAtcWFtamxiMG9DeTZKNVQ1ajA4NFdUUTFCd0E4?oc=5>
+- **特朗普** | 特朗普中选后打击伊朗筹码？美第三艘航母据称料11月底抵中东、增派约万人 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE1pUTZlWVlvTUJlbjN2QUFyX09pd0llTGdlNy00TDJ4SlVQTk80VXlON2ZQblpxNmc3bWM2LUtRekJKVGo0N25YMVNxajRPS25wN2FZ?oc=5>
+- **特朗普** | 特朗普称法国暴力骚乱根源在移民问题 引发广泛争议 <https://news.google.com/rss/articles/CBMicEFVX3lxTE9UTE8tWDhIYXNZZXhqRUZKVTBtazBHTWF4RzFlUm9ubFQyTDNkeC1PU0F3VmVvMEN4SUUyTHdUN0NBNUJaZDdEYzhMY1hlQVBiUDctY05TdnNjSjRRLWMyQnZ2Uk9qdEgwUWJaOVBCbHE?oc=5>
+- **Trump** | 石油大省多数选民拒绝脱离加拿大，卡尼取得关键胜利 <https://news.google.com/rss/articles/CBMiekFVX3lxTE1yc3MxYjF4OE5GMDkyVEtGeHBnMUNlS3RTY1pmRFRFek92NGdqVXcwa1dKby1yXzM4em1raU0ycWpqNk44QWNJLV9TWkFlbjAtTjB6RGRnajFhLVpsb3JkVVdVemRLZWJqYmNmcmd3Z0xaSk9xOXJkbWhn?oc=5>
+- **Trump** | 威胁在竞选集会暗杀特朗普 美国男子被捕 <https://news.google.com/rss/articles/CBMinAFBVV95cUxNSkVIUGZHZzNhVmtuYURMMWl5UktMeTVTWUxmOTVFQ3NHUVp2cVhZbEwtaDNqOXBGQ3FJX1FNbHpQLUY2RFQzaGd2VjFKTmtIOWVZblk0TkNXMEQxTnFyZWR0WUhqZENMRG1iYmxiT19uWVVUclJCTzYxUHlUUTVtMmM3ZUNYUjlRVmVDcFVuX0FCdjBFR3RsR3Nud0I?oc=5>
+- **Trump** | 泽连斯基为何对特朗普展开回击？ <https://news.google.com/rss/articles/CBMic0FVX3lxTE9manljZ2U0VkVCYXBsT01LRDZlY2ZYMmhJTmRONVBzRWY4T202bjM3SXdsZU5qNWxkS0RFU09DY09LU2QyOEd3aUNoSldFWnp6TWpXN1ZKS2JFT2hXOGdudS1JZmRmb1ZPczlzVmZvZ2M3cWs?oc=5>
 
 ### 2026-10-21 01:10  (9 条)
 
