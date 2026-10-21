@@ -1,128 +1,107 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-21 12:09**
-- 本轮扫到 14250 条, 新增 **15** 条
+- 最近更新: **2026-10-21 17:29**
+- 本轮扫到 14260 条, 新增 **10** 条
 
 ---
 
-## 本轮新发现 (15 条)
+## 本轮新发现 (10 条)
 
-### 巡护者第二季看见豹之地发布会2026.10.20
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7811054566_m1d1933be603301ar2u.html>
-
-### 公益纪录片《看见豹之地·寻护者第二季》在京发布，@王一博·YIBO 呼吁保护华北豹
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://finance.sina.com.cn/jjxw/2026-10-21/doc-inivynsm5403067.shtml>
-
-### 演唱会前一天姥姥去世票却退不了
+### 男友打算在周杰伦演唱会现场求婚
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1841812881_m6dc7d59103301u5w0.html>
+- 链接: <https://k.sina.com.cn/article_7879924035_m1d5ae194303302a0z0.html>
 
-### 欢迎台湾朋友来大陆看演唱会
+### 泽连斯基和特朗普，彻底决裂了？
 
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1893892941_m70e2834d033024e3o.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-10-21 09:15
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5aQXpqQjVpZi1ENFBuVXhEU2pyMUw3VER3RGEwa29EMmU1cl9hUVlNT1NJdDl2c0RqVlAtOF9Jc1ZCeGwta2N3cEY1UEg?oc=5>
 
-### 特朗普施压泽连斯基同俄达成协议
+### 特朗普持续收紧移民政策，“生育旅游”再成焦点
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-10-21 16:57
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZeUExcm8xcTQ3TDdJbHVqb1VGU2IwX1Z5YUNGcHVybk1jQVRURjRXWm1yRFpIakd3ei1NdktaZEh6Mnk5TXJIWUNpd3hINHFmV1ZOdzFlTHY0a0hrdExtRFE1bWliU2NSN281TkxWSFQtTEtZemJxNg?oc=5>
+
+### 特朗普表示砸逾4亿美元助共和党选举
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新华网
-- 时间: 2026-10-21 03:12
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE44YVhwS0xZNUZSRnNuXy00T1R1WERETWozQWxFbXN4dGVUMVdRN1gzVVR1bE1obThGVlFaVU4zMDFISHVBRUdONGJ5MzUzYThfTWthNVpLUFRmcWhLQzBNU3JZTzlWeG5hS3NRc1FlanhoY0w2N2Y2b0g5UGJUYWs?oc=5>
+- 时间: 2026-10-21 08:32
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9HNThUMldRTVdDVlNtdWhQa1VEVHpvV1QzM2NqOEx1YUZzOE1hY0FnbWJSNW9OSU13cXE1alpGSEM4RV9QWHVoOGQzeHJjRDFiWlFPN1EtclROMm8wVURuc2pRWXN4WXRNajRKWlNlSzlVZFJEdmhpbG5QbkFrODg?oc=5>
 
-### 特朗普第二任期内美方已吊销逾30万份签证
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-10-21 08:27
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9qUk5hamVVMkhuWjljQ2ViNFJBcmZFc2lTdWhxOVdpQk1tbjhXMS00OHJobGl1cjZvOU4ycnQzWHBaeUpyWmVoOFpUTFZoVF9ISzM5enZMT0V4ZkphNFAwV044OXN3OU1lZGlDa2NfUGNnbm1wM3B1YllLcld5QmM?oc=5>
-
-### 突发新闻：特朗普总统仅凭一笔之劳…
+### 特朗普豪掷4亿美元拼选战，外媒：砸钱换不来选票
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-10-21 11:05
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9hTWszZ3ZvekFjWWZFdkxUclJpTHp5eWRHb0lxSHhTeUlmZF9UOUFkdkZ6emVBcjlIbElzSWpMenM2SW5DNGJLaXVzZGpFMHBBVjNtTnhPODNiNUpWc2NmWHhTRVhWdGs2NnN0RXB6RjJUeldWUlZMUEhWQUNLZDQ?oc=5>
-
-### 特朗普再提愿在中国参加中美俄三方峰会 欲讨论核裁军
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财新
-- 时间: 2026-10-20 01:35
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1EdUg4eWw3dTBjcWFhczNjWkV2QjZFQkc0THVENG9xeEtVMFd0cDZ6SV9sZUJxb2l6Q1RxSzRhVzdid2VCVmtLYkdMVHZnT3E2MS0tSE9WekpvOXFGemR2aDJCYk54US1HbHc?oc=5>
-
-### 涉中美俄三方会晤，特朗普表态：会这么做
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-10-19 23:53
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZbW9XUXd4cU9YbmY3OW1rVzJ5NUl2VHgzOUJLN0ZfOV9LLWRTVXloTnoyaWpGSmw0RWVScWd3TGxMcG5JY01vQVkteTEwOEhLVVdoRkw3SFhzc0Frd2hEUVFrNms4eXE0YkhoMVJ5bHEydEk?oc=5>
-
-### 威胁在竞选集会上刺杀特朗普 美国堪萨斯男子遭逮捕
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻
-- 时间: 2026-10-20 20:36
-- 链接: <https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWEdwTGp5MmV2V2RQV3RKY3lmVTNpQ3BUYlVjeDZFa2cwQ2hSTTlKcWdkZ0ttRVVuZ0RIU0tFbUNtZFBfbWFVU3NWUmRYN051WVZXTENmZ3ZrS213YUo5N2U2RkZ0ZHo1WEtkOTBOQ1pYMnJwYkRoRElBQWhmNVg3cmhidEFOeHdCS0k1bFZncVphVTJweXMxSHQzZkZYN29Qc2lFRW9sVVE?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-10-21 15:41
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE0yVlBMR3JxQ21zQnlHN1BLODVIdnB0Rm5xdzBDaWNYZzVSeWZKMmkwbVZhQ0U1YlVKUGJHM2VEQm1kWU8xbWQ1bWxBMERJS1l0UjdURGFxOXRUSnB1OGo0bU11OE5IZE5wOGsta3ZZWlA4UWdkVzVkeg?oc=5>
 
 ### 特朗普为共和党助选 拿法国骚乱“说事”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-10-21 11:45
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1oX19sS3BGTzEzMjB3NlkxMXRMTloweWRZeDBYcVB5NVVHUW5KVGpmWVBSWUhSQk1hemE1dkVhRnc5cnBXcDhDbFNUNA?oc=5>
-
-### 特朗普试图撒钱拯救中期选举
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-10-21 07:22
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRVpjS1V2M3BQQlpxaC1LY215Rzd1eWptcDMxblA2bVlub3BxY3RDQVZrWnZyRHp4NVpRekw0N1NLUkxzdFYzUmVsTjM2N0N0NUxHbDREdkNXdjc2c3BEMVhGZEpFMGFnSXIwdEZwb3lEYVQ4bC1lS0NfLVJKNnMxSm82V2RLQnRlSEhMam10Qlo2RG82QzFLZDNBYTZHTmk1MmVGd3hxTjNYS2JrNjRwZWxsRzdHZm5SeFZsUGxUVFpFQ2lXZjV4Mlg4eGlrZkVLcU9GUWppckp6Nm1tY0NB?oc=5>
-
-### 支持万斯参选下届总统？特朗普：现在讨论“为时尚早”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
 - 场馆: 新华网
-- 时间: 2026-10-21 08:25
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9ta0w3b2dwY3hLNGhyTjhfazVSaTNiOTc1Y2ZzZHJpNlg5M19HaXVCYl9uNFoyb2xUaTh1YTZsUzRZV2drRzhQZmoyQ1ZsXzdVd284S255T0VSajlublMtVEs3Ym1ucldmY3lDTlhLcXFYelN1Z28yaHdCZkd6Rm8?oc=5>
+- 时间: 2026-10-21 11:43
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE4xNGtNMUY1Y2hPX0xjbnVwNWZRVEtaQU83eHZVTG5VMXozUktvTTM1ZzdqclBhejJ3MlJGV2NxVUVzcmxMRmF0dUdZOFdHbWt2cTBYQVR4bTJyZWg1LWVabDNpSTB3NW95MjRaSE1FYzlpV0hVMVk1bERuWHEtZUE?oc=5>
 
-### 【美国观察】新任白宫新闻秘书的「五日京兆」
+### 特朗普第二任期以来 美国已吊销逾30万份签证
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-10-21 02:22
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5xR0hEOVhUeFZJelU2bVZabjVHaW9JOVNsZjB4VXVTOWpWOFlNeG5nY0x1ZTBCNXlwSVhFOWFhQXRnVVRfQ19sbVBFcnhDaEZyMlFZYnFFbjBCT3ZCM2RSUjhvRE9XOVRreVE?oc=5>
+
+### Trump Softens Rhetoric on Bombardier After Discovering $50M Investment in Kansas -- Market Talk
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 风闻
-- 时间: 2026-10-21 09:13
-- 链接: <https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yQVhGQVVjWGFMRjFMOU5ScWpLMlJxMnF5bkxnYnJ4ckt3cENMcUlLeTNRYXVBclo4NkIxRzN1eTlYUDc0VS00WTFWZHZLaU5WUTVRTV9UTXNVZUk?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-10-21 10:34
+- 链接: <https://news.google.com/rss/articles/CBMivgFBVV95cUxPUWhaUFpEX2ZOMmFwQV90ZDhZZGRUZGktOWIwT09CUnVPNVMycHRTSlZlNldIZEpsdkpHY21oUlNpVGVTRFhvMWkyWEVXbGZhUnlGRkUwbEVHUll1dHJwMXhxbkZlb0hEc0lFeFVLV3Baazh0UXkzdi1jd0h1bUNXSjlLekJLWmp2YXVVd2xzam5PYzJpTkd4cEZfSkZaZ1kzMjEzOGhUa1FvdF9yMDVVZ3NrMkV5dEFiSU9FU0x3?oc=5>
+
+### 特朗普将在白宫活动上聚焦海外加密货币滥用问题
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: CoinDesk
+- 时间: 2026-10-21 16:23
+- 链接: <https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSmdEazZOQ2lwWmVhcmVBVXlBYllHTUVFbGs1bVFNNElBSTR2eDIwdTAzeEFYX25SY191MHpQelozZTlybWNXanVYTk0wV25IVjY3a1NRLUREbWNoM2RBRTFxZTU0QWJReWJsdlJiMzh1UWdVZzhYS2t5OGRuWXBjOFZCQlJ2SndyejBxaTdJcEh4ZjRUTlg2SWlBdHRWSzVPUWtHeXlCSnBrVGJpd1B0cWVHMnljYnk1?oc=5>
 
 ### 加拿大大宗商品：因特朗普暂停对俄罗斯实施新制裁，油价下跌
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: Moomoo
-- 时间: 2026-10-19 13:51
-- 链接: <https://news.google.com/rss/articles/CBMirwFBVV95cUxON05vb09CMGZuUENBX2ZlR2RiWFl5QndqYVJ1SlQ3Q0ozOU1qV2lIQzB6bVB3eFZQaW56UFBCdlRrWVBlR05wTjZ1ZmJrNHdJbk1MT0dCSzRubkNhbi1ld05uWHFSM2gybDByRVNPNVphUnl2aGpmLW1zcEZLbUtnQ3prZmxkSUpRYkdJTC1tZ3ZERkxwcG1xak1UVkdRWXptX1Z3YUNpd3ZaMVBZMmNn?oc=5>
+- 时间: 2026-10-19 14:26
+- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRDR6cGdYN1dQOFNWbXE4c0VVbXdFTXlGQ052ZGlpOVNZLU4yMVhUODRLV2lER0hkWHVWUF83c1AtY0M0RWpaa3JudURUWWhQUHVRaDFnZDJnUFNyTzM0OUVWM0VUa1JPM1dEX0Z3ekNHV1EwZ3V4T2hRV2RXYWg5RTMtWk9JVzVlRTdabDFMRDFXMko0Qk1qQm51VEdBWVNOQXFEVmE0TlZFWnByRC1wYmtudFpnS0ozcE96UHhYVk5ZMldhTVBtVThfTXhlcmJsVG02clNuUnJtd0VZa0E?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-21 17:29  (10 条)
+
+- **周杰伦** | 男友打算在周杰伦演唱会现场求婚 <https://k.sina.com.cn/article_7879924035_m1d5ae194303302a0z0.html>
+- **特朗普** | 泽连斯基和特朗普，彻底决裂了？ <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5aQXpqQjVpZi1ENFBuVXhEU2pyMUw3VER3RGEwa29EMmU1cl9hUVlNT1NJdDl2c0RqVlAtOF9Jc1ZCeGwta2N3cEY1UEg?oc=5>
+- **特朗普** | 特朗普持续收紧移民政策，“生育旅游”再成焦点 <https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZeUExcm8xcTQ3TDdJbHVqb1VGU2IwX1Z5YUNGcHVybk1jQVRURjRXWm1yRFpIakd3ei1NdktaZEh6Mnk5TXJIWUNpd3hINHFmV1ZOdzFlTHY0a0hrdExtRFE1bWliU2NSN281TkxWSFQtTEtZemJxNg?oc=5>
+- **特朗普** | 特朗普表示砸逾4亿美元助共和党选举 <https://news.google.com/rss/articles/CBMif0FVX3lxTE9HNThUMldRTVdDVlNtdWhQa1VEVHpvV1QzM2NqOEx1YUZzOE1hY0FnbWJSNW9OSU13cXE1alpGSEM4RV9QWHVoOGQzeHJjRDFiWlFPN1EtclROMm8wVURuc2pRWXN4WXRNajRKWlNlSzlVZFJEdmhpbG5QbkFrODg?oc=5>
+- **特朗普** | 特朗普豪掷4亿美元拼选战，外媒：砸钱换不来选票 <https://news.google.com/rss/articles/CBMieEFVX3lxTE0yVlBMR3JxQ21zQnlHN1BLODVIdnB0Rm5xdzBDaWNYZzVSeWZKMmkwbVZhQ0U1YlVKUGJHM2VEQm1kWU8xbWQ1bWxBMERJS1l0UjdURGFxOXRUSnB1OGo0bU11OE5IZE5wOGsta3ZZWlA4UWdkVzVkeg?oc=5>
+- **特朗普** | 特朗普为共和党助选 拿法国骚乱“说事” <https://news.google.com/rss/articles/CBMif0FVX3lxTE4xNGtNMUY1Y2hPX0xjbnVwNWZRVEtaQU83eHZVTG5VMXozUktvTTM1ZzdqclBhejJ3MlJGV2NxVUVzcmxMRmF0dUdZOFdHbWt2cTBYQVR4bTJyZWg1LWVabDNpSTB3NW95MjRaSE1FYzlpV0hVMVk1bERuWHEtZUE?oc=5>
+- **特朗普** | 特朗普第二任期以来 美国已吊销逾30万份签证 <https://news.google.com/rss/articles/CBMiakFVX3lxTE5xR0hEOVhUeFZJelU2bVZabjVHaW9JOVNsZjB4VXVTOWpWOFlNeG5nY0x1ZTBCNXlwSVhFOWFhQXRnVVRfQ19sbVBFcnhDaEZyMlFZYnFFbjBCT3ZCM2RSUjhvRE9XOVRreVE?oc=5>
+- **Trump** | Trump Softens Rhetoric on Bombardier After Discovering $50M Investment in Kansas -- Market Talk <https://news.google.com/rss/articles/CBMivgFBVV95cUxPUWhaUFpEX2ZOMmFwQV90ZDhZZGRUZGktOWIwT09CUnVPNVMycHRTSlZlNldIZEpsdkpHY21oUlNpVGVTRFhvMWkyWEVXbGZhUnlGRkUwbEVHUll1dHJwMXhxbkZlb0hEc0lFeFVLV3Baazh0UXkzdi1jd0h1bUNXSjlLekJLWmp2YXVVd2xzam5PYzJpTkd4cEZfSkZaZ1kzMjEzOGhUa1FvdF9yMDVVZ3NrMkV5dEFiSU9FU0x3?oc=5>
+- **Trump** | 特朗普将在白宫活动上聚焦海外加密货币滥用问题 <https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSmdEazZOQ2lwWmVhcmVBVXlBYllHTUVFbGs1bVFNNElBSTR2eDIwdTAzeEFYX25SY191MHpQelozZTlybWNXanVYTk0wV25IVjY3a1NRLUREbWNoM2RBRTFxZTU0QWJReWJsdlJiMzh1UWdVZzhYS2t5OGRuWXBjOFZCQlJ2SndyejBxaTdJcEh4ZjRUTlg2SWlBdHRWSzVPUWtHeXlCSnBrVGJpd1B0cWVHMnljYnk1?oc=5>
+- **Trump** | 加拿大大宗商品：因特朗普暂停对俄罗斯实施新制裁，油价下跌 <https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRDR6cGdYN1dQOFNWbXE4c0VVbXdFTXlGQ052ZGlpOVNZLU4yMVhUODRLV2lER0hkWHVWUF83c1AtY0M0RWpaa3JudURUWWhQUHVRaDFnZDJnUFNyTzM0OUVWM0VUa1JPM1dEX0Z3ekNHV1EwZ3V4T2hRV2RXYWg5RTMtWk9JVzVlRTdabDFMRDFXMko0Qk1qQm51VEdBWVNOQXFEVmE0TlZFWnByRC1wYmtudFpnS0ozcE96UHhYVk5ZMldhTVBtVThfTXhlcmJsVG02clNuUnJtd0VZa0E?oc=5>
 
 ### 2026-10-21 12:09  (15 条)
 
