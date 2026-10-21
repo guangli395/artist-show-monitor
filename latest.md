@@ -1,11 +1,57 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-21 20:49**
-- 本轮扫到 14266 条, 新增 **6** 条
+- 最近更新: **2026-10-21 23:51**
+- 本轮扫到 14275 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (9 条)
+
+### 适合拍演唱会的手机有哪些？vivo X500 Pro Max等3款选购指南+FAQ
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879849005_1d5acf42d06801arhg.html>
+
+### 特朗普：俄乌战争“接近结束” 泽连斯基支持举行三方会谈
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-10-21 21:18
+- 链接: <https://news.google.com/rss/articles/CBMi9wJBVV95cUxPNWVCOEw5WnlmYTZ0R1VGc2VaTWRhZjVEUnJjNXpXWTdKWDNPc3l6N00xY3V1dTk4MVpQZ1lXbjRKNmtibk1TeFMwVXlkV1QyYkIwZnRab2V5TUl0eG53d0xVSjJySERwcHVIMWRrZXpwVXlLR011NWdwQWVFZm1QRkNPWVp1ZnR6MkZya2EyZkZzX2xPSFJ6SzQwcWtsNlVKT0RqYk5TSzRaRHk2TWVwQmoyT3RsenQxTGVvZ2I1T2wyaDF4T0o0cmRaaXdDUkhMLXRjelRGNFppOHJ0TFRIaWREb29ES3U5bXU2MjQ2b2hqVDg2THVrMmhwZVZYQ2dMZGJHRHdReHprbHdWQkUxam5qcWxselJlQVJYZWpMczdUejBCc2I5THJ3VFlvUGg4WUJRMW9UTTVGRjJGV1B1SGVyOEZMQ05zTlZiaVNMNW9SNHc1WEtWaFctMmdNa0ZIaGVTU1AwN1FtbmJJOHhnQmtVcDhNR0k?oc=5>
+
+### “比以往任何时候都近” 特朗普相信俄乌战争结束在即
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 8world
+- 时间: 2026-10-21 22:41
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE9pMjB1cElmeDdHZzlzMEZnWk9IZi1aa0h5NVdvNFZPbmZQQlAteTF5YmNnenItanVfMkNxYUpVVEFrN1UzcTI2QWtvdGFGYk1lU1gyc3lSZ2RQYVU4bXJGOWFoUHJsdlRFSXNSbVV0YkFQWkl3bGc?oc=5>
+
+### 特朗普政府免除红色柴油相关税务记录保存要求 以鼓励购买免税燃料
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-10-21 22:55
+- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTFAxRm5vTGRnNmdqa3dvb040NTZhZFpHQ0ZtdVQ5cGxKbkpoVjNnaUhHdHlGQTVCZnZKN0FFV3czWHBzTjRlOVp6WnI2UWltaVBXNlJhdnphOXZLQzV4UUUwSWpsT05XUEZQcXZ5SkFGM0ZMcFBReWkteV93?oc=5>
+
+### 特朗普纵容 普京梦想与中美举行新雅尔塔会议
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-10-21 22:41
+- 链接: <https://news.google.com/rss/articles/CBMi0AJBVV95cUxNVVo1bm5kUUFDV2ZmRlIxdDh5R3h4RUVOUmZ4bVpnNmlFd3dnSGQ0YkVWakNCMU9uenVtSTFjOS1nUjlkM2tRMDVrZnFpTmhfRzZzZ2l2SjdHY3lvdTZTTW1oOHBPdHZJeXZONkV3RGRUTGRuSDBLbWFMRnRjYTJEM2d4My1pWS1KamRNTTEwcUNZMm0yakF2MFl1S1R4a2RTOWY5bVpGc2kxdUFjNVE1bHBQT3NvSnNLSlA3N2ZSWktyY21xazVLa19zSFlxUVlnYjJUWDItUEVRc2xpZURUTjZPR0NBZXY4YzB3M3VVZkNPVXloeGpiUy1lXzluUXdJcjZZeFJXQUtkVE1tNnlFc3p2SGUwbFQxUTd0NWh4UzU4X3RrRDlZeV8wTDFsaUlnLVFQQmN0NkJtdnpleW43SVBaVlBGM1NIMHM4a3Z2dkk?oc=5>
+
+### 特朗普称移民问题已经 “毁掉” 法国，还声称多年前就提醒过马克龙要关闭边境 ！
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-10-21 23:43
+- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxQekIzZ241bjdhU1FJdmNiUnkyc1VLMzE5TGhXdkc3NWRIaEJpV2UtTlY4cHF4RmJFSzI1aXR1WnRwY01LTFdCdW42VGZ3cWstb2ltWkQ4bzRsbmJlNUFWdHh3VFdJbnlSanNabUc0WVhXcmNOallfLVoyejVfRjFCU2JB?oc=5>
 
 ### 特朗普试图撒钱拯救中期选举
 
@@ -13,52 +59,40 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-10-21 07:22
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxObG96LUZQX3UzYW5zcno4U2VIMHAyckluWldQTE5Wb3NQYjE2N0dHS0htY1V5Ymd3N0xFUTFwSFNJdS1lR0tsUDgwZEU2Rzh0MDMwOHp0aGUwY0tpeUZtM0FFS0VueE90T3pUMHdnTzB3TlFweGk4T3hRUzlvbHhXbHByLUxZTXFoWDQxNFVteXlZV2NSdlNreXNYRUdxRTlHclBER1E1cVNGd2NvV1J0VEZjZVdMZWFLOG5Ndm0wSC1NWGdsdGRqS1l1dlRRbWdqRXQyZU5sMGVxQ1dadU9R?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNWlXSGpBTFplUGV2WXRjLWNEa0JaWVE4ZG1weVJUVy1rMFhMQmQ1NzJyV2tkOEJZa29XN2MwU1YtU0ItZGhoczhESkR6djhKSU51Mi1sWWIyUlpBWG1JV2lPTklwaTNTa3lZU3FPWUNqQlVpU05uQUdRS1g0YXo3MGdBZGdoT0ZINmJkRkJJTGhoYWE1REp0VlpvbUhaYWxMUXdSOUhLcGt4RWpTMFhobkFTbDdjOGNkS2NBam96dm1EQmRYUHpla0xOZDZiZnNlYVdkR2N3NzRmYVJZSFBV?oc=5>
 
-### 特朗普：不了解有关中东使馆人员变动情况。
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-10-21 20:12
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE01S1A4TTdsMlJpZzVnajJ3dG1GRFlidU9VTVJwMVVBc3dNSkZ1Z3UyMk5nZVhhTnd4cXpKemwwOTB4amhpbXdrRXpjSQ?oc=5>
-
-### 上任5天被解职，特朗普和他的发言人们
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-10-21 12:15
-- 链接: <https://news.google.com/rss/articles/CBMizAFBVV95cUxNOE9xNmgzQVJkUEtkUlZ2Wmo5QXM2TkZQSUppam9fMmJ5VjlwZFZ4VW5qdENMLUtPRDhqTF9DY09NanQtdVU0X01lbDNRemM1aldKZFlYTXhiYWVBVHFSa21MOGFBVjdlOTVXSUdLOEtYVndCcVNPSXh2RVdERFhtNDA0ZHlvMWR5bFNvWVI2dXE2dFNnMF9SVmRzb1g2NWFRc3JiajFObUhLdWt2T2IxVDQ1U2xvSUtMYUpOM1lxaHZsQVIyd2lXUFpDcHc?oc=5>
-
-### 特朗普第二任期内美方已吊销逾30万份签证
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中国青年网
-- 时间: 2026-10-21 11:06
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BT25jRWx3UTBWcmFRRG1VSGtOaWF5bERaQzFoeGJYMWJkaHliTTVkMlJ3cHJjRWpVSFQyQXFCa25GWFdBbUd3aFhqMmlNcjNNc0pzT2lySGlHcFBDWmpFVVk2TXg?oc=5>
-
-### 特朗普呼吁中期选举支持共和党：如果民主党赢了，“法国式”骚乱或在美国爆发
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 上观新闻
-- 时间: 2026-10-21 20:00
-- 链接: <https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YeldoZ1VZVjFubHBubzNQUUtxZXpHVWRrQU1GX1BxV3ZOclZIYlJfMVF5WlVibThRbGZzNDJkMnFrTkZRaXlGazExdkpPUDB1Q3dmRTUyTmw2UQ?oc=5>
-
-### 美国官员告诉VOA：俄罗斯与乌克兰同意举行技术层面的三方会谈
+### Trump Makes Another Move to Pressure Oil Prices Ahead of Election: U.S. Plans to Lend One-Third of Heating Oil Reserves
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-10-21 18:10
-- 链接: <https://news.google.com/rss/articles/CBMiywFBVV95cUxQWC1nc3R1MFpFRndNbGJUaWNaQnhpOTRxSVB4dFJhRVJlWWIyWmhGeUY2LVJNaE9WWExEdVRFOTcySE5xbVVadG9VT0FYckxzNmVBX1BBZzBXVllhSmVGN0RTbGMzUHpWaUNKZEp2TmRSd3VVUEJQNGxOWVBmaHlJQU9IeG1zdkEwRG90N21QazVZV3VPSE53czJzOHhQY2g5WXJ2bmFJUm5mdzE1UDNxaHd6MFk3V3JNaUdpN3RnaHF1RFRRSklpUFoxb9IBzgFBVV95cUxNcTZaN1I4cm5XQVlZcWY0MTVmQ0x1c05NNkFmNmVERmZsdmFIVExDQndGbk04ZFlpbXdGV2pCNjVGamJyLVJaYzdIT2xkbnhWb19SWkZuaUVucmN6YUVuNnlIUWowTWxZcFN0SWtfc3lDMy1MSjc5WGM2NWpXdEhxdExxWDFtRGNSd1JKaUZYQTgzeG9odk5VYkU4eGVxQTZVZVNHYXdqa3dCTmtmVmNNQnZVQWlRNHEtekVYdGZUVVhCWnU5MlNXTzd4QVA2dw?oc=5>
+- 场馆: 富途牛牛
+- 时间: 2026-10-21 18:38
+- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxNN2g2V3VmZ3lZUHBmUXFsNTVBdC15ODhqOGhkMFVvcVlPVmpFcE5rdEU4YVZ0Y25mY0VxWjN4VTRveDUwdkM1dllaRm9YZTZPbHotQkh5dzJ6bWFDTVBETHRrT1F6UWc3NjJrMmF2WGgxa001cEtOemZtcFhrNWhMbnRRWTNVN0RINXl6OHV4ZnJmSVh4cnByb1hNVVVHdC1s?oc=5>
+
+### 美期中选举将至 民调显示共和党在中西部票仓面临压力
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-10-21 21:05
+- 链接: <https://news.google.com/rss/articles/CBMigANBVV95cUxQQ0dPUUpqUmhWS2RIdUJxTWdNZGZfWVk1aEJtMzY0LS1OY3ZCYl8tdGZFcHU4dU51U1o0STZaV1ctRVNrVTl6emI0RHpUSjRmOGl6blV1b1pkdTF6RlBsbDZPekVuN3Y0NUh0ZVBrMHR0ZzZ5M0o2OG9KNW1yWmNWenl5SGdaMDZ3SUptSmQ0TE9CWFRyc3lIaXRHSDhzU2dHV25PWHNyeDdkaUdPYUZCY2g5djhPeUlUeXowMXVTa2NubnJjcmFBQVFwczBFSXlyWmFEc1pQU3VWdVFxUl80ZTVoTnJwUFJyMHVORm02eWZLTTE4TzA5TTI5bVl6TnhpNTJDQ0swbDNnREpTQllwYWhYdmc4azlPdW81dVljQ3JKNWJ0dkJYcC14and3Ry03TlpQbjkwX19GWFc0aTg2Qjk0VEpkSlY3bGJ3MVlBUFFYUi1qV0Ewa3Zka1ZfbUlib0R2X1c0TFFZRkJDNG9DT0JUSWt2RHMzTVBZVGtCb18?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-21 23:51  (9 条)
+
+- **周杰伦** | 适合拍演唱会的手机有哪些？vivo X500 Pro Max等3款选购指南+FAQ <https://k.sina.com.cn/article_7879849005_1d5acf42d06801arhg.html>
+- **特朗普** | 特朗普：俄乌战争“接近结束” 泽连斯基支持举行三方会谈 <https://news.google.com/rss/articles/CBMi9wJBVV95cUxPNWVCOEw5WnlmYTZ0R1VGc2VaTWRhZjVEUnJjNXpXWTdKWDNPc3l6N00xY3V1dTk4MVpQZ1lXbjRKNmtibk1TeFMwVXlkV1QyYkIwZnRab2V5TUl0eG53d0xVSjJySERwcHVIMWRrZXpwVXlLR011NWdwQWVFZm1QRkNPWVp1ZnR6MkZya2EyZkZzX2xPSFJ6SzQwcWtsNlVKT0RqYk5TSzRaRHk2TWVwQmoyT3RsenQxTGVvZ2I1T2wyaDF4T0o0cmRaaXdDUkhMLXRjelRGNFppOHJ0TFRIaWREb29ES3U5bXU2MjQ2b2hqVDg2THVrMmhwZVZYQ2dMZGJHRHdReHprbHdWQkUxam5qcWxselJlQVJYZWpMczdUejBCc2I5THJ3VFlvUGg4WUJRMW9UTTVGRjJGV1B1SGVyOEZMQ05zTlZiaVNMNW9SNHc1WEtWaFctMmdNa0ZIaGVTU1AwN1FtbmJJOHhnQmtVcDhNR0k?oc=5>
+- **特朗普** | “比以往任何时候都近” 特朗普相信俄乌战争结束在即 <https://news.google.com/rss/articles/CBMidkFVX3lxTE9pMjB1cElmeDdHZzlzMEZnWk9IZi1aa0h5NVdvNFZPbmZQQlAteTF5YmNnenItanVfMkNxYUpVVEFrN1UzcTI2QWtvdGFGYk1lU1gyc3lSZ2RQYVU4bXJGOWFoUHJsdlRFSXNSbVV0YkFQWkl3bGc?oc=5>
+- **特朗普** | 特朗普政府免除红色柴油相关税务记录保存要求 以鼓励购买免税燃料 <https://news.google.com/rss/articles/CBMiekFVX3lxTFAxRm5vTGRnNmdqa3dvb040NTZhZFpHQ0ZtdVQ5cGxKbkpoVjNnaUhHdHlGQTVCZnZKN0FFV3czWHBzTjRlOVp6WnI2UWltaVBXNlJhdnphOXZLQzV4UUUwSWpsT05XUEZQcXZ5SkFGM0ZMcFBReWkteV93?oc=5>
+- **特朗普** | 特朗普纵容 普京梦想与中美举行新雅尔塔会议 <https://news.google.com/rss/articles/CBMi0AJBVV95cUxNVVo1bm5kUUFDV2ZmRlIxdDh5R3h4RUVOUmZ4bVpnNmlFd3dnSGQ0YkVWakNCMU9uenVtSTFjOS1nUjlkM2tRMDVrZnFpTmhfRzZzZ2l2SjdHY3lvdTZTTW1oOHBPdHZJeXZONkV3RGRUTGRuSDBLbWFMRnRjYTJEM2d4My1pWS1KamRNTTEwcUNZMm0yakF2MFl1S1R4a2RTOWY5bVpGc2kxdUFjNVE1bHBQT3NvSnNLSlA3N2ZSWktyY21xazVLa19zSFlxUVlnYjJUWDItUEVRc2xpZURUTjZPR0NBZXY4YzB3M3VVZkNPVXloeGpiUy1lXzluUXdJcjZZeFJXQUtkVE1tNnlFc3p2SGUwbFQxUTd0NWh4UzU4X3RrRDlZeV8wTDFsaUlnLVFQQmN0NkJtdnpleW43SVBaVlBGM1NIMHM4a3Z2dkk?oc=5>
+- **特朗普** | 特朗普称移民问题已经 “毁掉” 法国，还声称多年前就提醒过马克龙要关闭边境 ！ <https://news.google.com/rss/articles/CBMiggFBVV95cUxQekIzZ241bjdhU1FJdmNiUnkyc1VLMzE5TGhXdkc3NWRIaEJpV2UtTlY4cHF4RmJFSzI1aXR1WnRwY01LTFdCdW42VGZ3cWstb2ltWkQ4bzRsbmJlNUFWdHh3VFdJbnlSanNabUc0WVhXcmNOallfLVoyejVfRjFCU2JB?oc=5>
+- **特朗普** | 特朗普试图撒钱拯救中期选举 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNWlXSGpBTFplUGV2WXRjLWNEa0JaWVE4ZG1weVJUVy1rMFhMQmQ1NzJyV2tkOEJZa29XN2MwU1YtU0ItZGhoczhESkR6djhKSU51Mi1sWWIyUlpBWG1JV2lPTklwaTNTa3lZU3FPWUNqQlVpU05uQUdRS1g0YXo3MGdBZGdoT0ZINmJkRkJJTGhoYWE1REp0VlpvbUhaYWxMUXdSOUhLcGt4RWpTMFhobkFTbDdjOGNkS2NBam96dm1EQmRYUHpla0xOZDZiZnNlYVdkR2N3NzRmYVJZSFBV?oc=5>
+- **Trump** | Trump Makes Another Move to Pressure Oil Prices Ahead of Election: U.S. Plans to Lend One-Third of Heating Oil Reserves <https://news.google.com/rss/articles/CBMioAFBVV95cUxNN2g2V3VmZ3lZUHBmUXFsNTVBdC15ODhqOGhkMFVvcVlPVmpFcE5rdEU4YVZ0Y25mY0VxWjN4VTRveDUwdkM1dllaRm9YZTZPbHotQkh5dzJ6bWFDTVBETHRrT1F6UWc3NjJrMmF2WGgxa001cEtOemZtcFhrNWhMbnRRWTNVN0RINXl6OHV4ZnJmSVh4cnByb1hNVVVHdC1s?oc=5>
+- **Trump** | 美期中选举将至 民调显示共和党在中西部票仓面临压力 <https://news.google.com/rss/articles/CBMigANBVV95cUxQQ0dPUUpqUmhWS2RIdUJxTWdNZGZfWVk1aEJtMzY0LS1OY3ZCYl8tdGZFcHU4dU51U1o0STZaV1ctRVNrVTl6emI0RHpUSjRmOGl6blV1b1pkdTF6RlBsbDZPekVuN3Y0NUh0ZVBrMHR0ZzZ5M0o2OG9KNW1yWmNWenl5SGdaMDZ3SUptSmQ0TE9CWFRyc3lIaXRHSDhzU2dHV25PWHNyeDdkaUdPYUZCY2g5djhPeUlUeXowMXVTa2NubnJjcmFBQVFwczBFSXlyWmFEc1pQU3VWdVFxUl80ZTVoTnJwUFJyMHVORm02eWZLTTE4TzA5TTI5bVl6TnhpNTJDQ0swbDNnREpTQllwYWhYdmc4azlPdW81dVljQ3JKNWJ0dkJYcC14and3Ry03TlpQbjkwX19GWFc0aTg2Qjk0VEpkSlY3bGJ3MVlBUFFYUi1qV0Ewa3Zka1ZfbUlib0R2X1c0TFFZRkJDNG9DT0JUSWt2RHMzTVBZVGtCb18?oc=5>
 
 ### 2026-10-21 20:49  (6 条)
 
