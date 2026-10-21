@@ -1,80 +1,100 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-20 22:52**
-- 本轮扫到 14212 条, 新增 **8** 条
+- 最近更新: **2026-10-21 01:10**
+- 本轮扫到 14221 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (9 条)
 
-### 特朗普最新支持率公开
+### 美国中期选举在即，特朗普连共和党铁盘都快守不住了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-10-20 08:17
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBabkxOb3kxRkdkZGYtNGlNMS1UQVRzWWVsQnZoeC1rOEhvSnRDQjhTRE4tRk5Bd1BOaUZGOU9lQzdSY1FnaDlTLUwwWGc?oc=5>
+
+### 特朗普支持率创两届任期新低
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-10-20 06:04
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1RNWt2SmxyOHdwOFk3N2lzNXQyQ2FHTE9VcUFoM1BKMHYyVWg3WHFzNGNqYTBOdU9kaFJLWnpEM0MtemtUMWhTODBXOE9pYzltZm9XRnZNV1RYM0M4U3ZCM3JnVGZOUHRnRzAwd1o5RU00Zk1EMGFSVA?oc=5>
+- 时间: 2026-10-20 12:25
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9TWHZIeEd0di00d2tEbUJFNm4zMWpYT2o1Z0JBajhRNXlPMmFiWnI5SGNiaDN1Znc3ZkJNUzZ2UTdRVFl4cS1YWk03NGNUMDgxbm9PVVoxV1JWNV80VlN0QmlHMFJQQWxjdldTQ005TmVMYVpCUzY2NQ?oc=5>
+
+### 【美国中期选举】特朗普借法国骚乱炒作移民课题
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-10-20 11:18
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE91MzVBd2pUWlNpSXdwOFgxX2VJS2Jsejhsd0Z5QllVRFlyTnZPcy16ZUtBNjBxOU1EVHVnZHEyQkRrQk5paU5iRmJQYkVSLVdDZG4xUzdMSGZ4akFiVGt6dld2anZqUQ?oc=5>
+
+### 要闻分析 - 特朗普为什么说是移民政策造成法国骚乱？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-10-20 20:07
+- 链接: <https://news.google.com/rss/articles/CBMigANBVV95cUxQb0tzYTBsZWZrc3FoRzk0Z0staTNVQzNrdTJoU2RRMEktUVE4WGtkRlBVcHRSUlNkYUUyWnItR3BxYmhBazVYZTEzcUNWcjl4dnh3YzA1WHJLZVVXbDdlcEtaZVY2SGNwLW5ZRHUtczVISTBvZTY1VjJWcUdaUldGR2NvaUIza3BzWF9neld2dEtocWxUZTAzWkxqMlA5UG4zVEVNZmVjbkNhbmxpdnNPazNtS3oyb3doN1JvdWkxME1XdDQwVGRoaFd5ckpORVdEYkNiY1BMSDN1a0tEQUI5ZE1URTJSc01ibU5SQW81bGo2ZXo1TlFKT1BOOWRod0dtaDdUTUtqcHlfOGFpZXVmZDItdUdWQkh5NGE4Y25GTm9hWUhOeUhTUTZHV1lqeUlpTjBXV3B1UHFrVUNWQnhMQjdyZ1JZMTdMcEo5TVRoaVdmcmlLeEl0X3ZQTVZHNTNvaDljM0NJUWVaMGtweFB6ekhvY0dQUnZMMWR3RTlDbnE?oc=5>
+
+### 特朗普马克龙吵起来了 移民问题成焦点
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-10-21 00:06
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBQa0s3QW9Xa3NiazZLbmtFM2ZEVk1OejVwS2tFdGZXTk0zZE1iSXdJQTQzQzc0TXB3bzlGX0w0MWY0UFRXMFgxMVhGcGVmQllyS0hSdVpZcktuMnNjZjRna1hnOTI2Wi1jR0JDRG1YTmc?oc=5>
 
 ### 威胁在竞选集会上刺杀特朗普 美国堪萨斯男子遭逮捕
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-10-20 20:38
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9YbjhWU05kdW9nRkk4cGZnc2w4aUZfalB3ano3LTl5dWNEdEVDQWdhbDM0dU9nREh3LWh6VEpFMERWN1g4QzloUWpkRQ?oc=5>
+- 场馆: 中国日报网
+- 时间: 2026-10-21 00:42
+- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTFAtLXZEZ0xuZ3pPNWtxOVdKdXEyTjlIVURlTURBN0d5emlfbkI2SXhkYVZRcmhsTjVIcjV3b21SbS1WeVNzR3E5OXA5bS02RkZNOWZ1RGdhaDdVWDAxaTdtSzJNaHU2SENPQUl5QWlTN0hYQkQ1dW40amU5Yw?oc=5>
 
-### 特朗普因对加拿大征收50%关税被起诉
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-10-20 21:22
-- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxObTJqakRKQUl4NWx1M3lzbzVMQ3pCNTg4VVlvVkcySlplei1SX0dDOHp2VE1JZ05Id1hFNW1vM1c3NUZPNjRRMUZmWDUzVlNyeTIxNnRBZzBleVFKSGJKZXdVVzZMdHVYRmFFN1dXOTVVMURpZFhBNjVkWm1TZ2RKOFlLNTdYVV9rY0FjNVlPZF9qVlFPRG1Na0VXTVU?oc=5>
-
-### 乌克兰怀疑美国不时限制情报共享 特朗普称美方仍提供大量支持
+### 美企起诉特朗普对加拿大征收50%关税，援引大萧条时代法律遭质疑
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-10-19 22:29
-- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaldUdFJILUprVlFOa1h2Q3hMRXBnR0VjeGZDdGhYLXk4MFVfZkdna3RZRnV3TG1pUUVNQ0ZBYWlhZXoyeW5pZDhNYzg0SC14RFVSTEVZcEhNa1dHZHNITkM1TWVLUS1MN1VqYWdtYmxmWThEX3JRemFDMy1Vb2VwUGFIXy1UREpEOHhPSG9IRU9QN0hhNzVFenN2QjQ2NlE5TTNGVDFLLWl5M3VZYXp1Z3RHdmFqUXFWdTBpd1NRb2x1X1h2VEcwWWRjVENaaTlMZ1E?oc=5>
+- 场馆: 华尔街见闻
+- 时间: 2026-10-20 20:51
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IOEIxY0ZHcmg2bGJBYjlGdnU3VEZYY04wNmhxYWl3NURuY3lNQ3R2X1k3SHJNczg4X0dVdVI3bUx3VW0zQzNDSzNJTTdtVWpFQVNn?oc=5>
 
-### 特朗普选择继续对泽连斯基施加压力，泽连斯基欢迎美方恢复情报共享
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-10-20 20:54
-- 链接: <https://news.google.com/rss/articles/CBMi3wNBVV95cUxQbzJTWkJQYzl2T1BkcmFoejVlc1RGV1YwM2FQS0xEMXY2Uk50b3pLdTUxcmZXd3gybUpmaDhORjF5VXFSX0k3dVpWY2FrTWVIWEpFOE5yYnBFXzYyTlBTMjhJQVNaVTdnNEdObWJ1ZmEtelM2RGRmUGpwQ0NCcE5ITGUwQWtDdXJmOVlrTHpZQ1h2S0xLS0dEbkU3MU9FeEtBZUFuZTJ4ang2RTR6UXdjeTIyRGEzZm5LcUZSRk9FSHRZdjduX0lPMFp6aEZtN0FxdW1wS0JkTUFLUHk1SzNQVXh5UWx4YkpmRk8waXlTM19OdVcxUzRQMEhmNktHa0ozeU1LTkhWQlExbjdnQVRGSjc5TTFidnRQUHhLdVZwVENKaXFLRnZad1pmeHBjZ1pNOENnWHoxTFU3cXl2bXA4WHFYdklVbGRURVMtS010ZTc0MFN6M3FsTlI3U3ZJdGFmblJiSTIwdWJJVllvVEdPZFBmaHI5TGlLZk9LejRCVDNfQTQ4YXNuZVFJMmJnbHFuUDZTVmJDcERVTzNJQm82a0RLSzFhLWgxUXVwdnd0QTVvWXd6bGdod1l0bW9VV09lQTF5YXpFM29EdUlvbWlRQU5naTNPLXBUWWZVcmJjTQ?oc=5>
-
-### 特朗普：愿意举行美中俄峰会 聚焦去核化议题
+### 特朗普公开支持以总理连任有何考量 美总统助攻出于现实考量
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: DW.com
-- 时间: 2026-10-20 13:17
-- 链接: <https://news.google.com/rss/articles/CBMirgJBVV95cUxNZ2xITFctcnJTanMydlpPNDctSmgxUC00ZjdIYmluanhPYWZ5ZlU3eVpUVkxJTFZ3ZFNqRlprV094ZHZtbHB0REZ1eDF3TTYwWlNZbVFJYlc1NVZaaGhNM3prNng5RG1sU1FKTk1CLXBJWnpnOWdCS1Z2bkJ1dHpSRzJuTnMwUXZxNFJVNDNiQUU4WWVoOWRnVEtvZVVSMjV3d3BSYWpnbGF3YlFJSkpXTUh5aG5rQUFLZVc0VjhKTXk3YkFsZnJ0VnNXVmEzdElSQV8zMjR6b3ZjbkhMZnFYY2I4Nnc5dktUeVpQbXdfNEs2Yk5EQ2l4V2lzYTNJN2htZU9OemswSlVXcW9KRmtsUjJGRTAxVkl2MmNhOHFUMTFvR1BheTlVeTRFYkpKd9IBrgJBVV95cUxQSkZ2aEtLbEhmZHpDQjA2dF93T2R4Z3M0NERQLWNtcXJVN1pGSlZDTTZjUlV6NUN2NjFsMjR6UWpfUjJoUXdZMDd0V1REN2xmNzFCYnhQR0UwS2VWOHFPVVUwZTZCY18zSFNVeGl6YzdjLUNHQ0NITDdKSGIzT0tVWk9nTnE0blh2Y3RsN05MRldLNzBBOGpGSGc4ZEp5X2hGblRTZ3ZyVll0Vjl4Z2dXNUR5aHBfdVVXc1MtUkEtVTQ1blpNQUp5LXNoTHdwcWlxWTBuV1VvNWNYRjh2VGN6YjRfaEY2eVhaRmdNbUVMWDUxYW5BSkRlMFRhMW5fWUVHQ1RKWlNNai0wWEtqNGF3Z19iUENyVGdXVWx3RkFpbC1BNnRkVDB1TUFQSHRFUQ?oc=5>
+- 场馆: 中华网
+- 时间: 2026-10-20 15:39
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFByQzQ2alppTUEzNUZRLVhpMDFBMFF3aTFMRUI0eXdnU19TY2V0MEhESF9uTXpIeUN0ZXpsVUhpME5GM1gzekRXYURvcWcyQWo0TW5SejVGWThBSm9IZWdCeV9UdFJFQjdjTjZfVjlnZWc?oc=5>
 
-### 特朗普对与中俄举行三方会谈态度积极，外交部回应
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-20 07:15
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1MRTlyeUtBVkNpQjhtcjJBUjQ1VkROUG1rb3lEc1FvU1k2a2Rad1lkMlE3THFHN196bm5nV3hncHM5T0NjV3pLNTRpZXo?oc=5>
-
-### 特朗普希望实现与习近平和普京的三方会谈| NHK WORLD-JAPAN News
+### 特朗普计划再向美国农民发放80亿美元补贴
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: NHKニュース
-- 时间: 2026-10-20 10:08
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDZ01SV3BoX05pSzJKeFBJdzlEM1h5VTRuaWIwZHd3Y1FxSlBsMmgzSFpVbjZma2F2cEtRMmxJSW1YVkFvazhaSlVKTzVkZmtLYzE5NWdKc2pERnE4d1N6eVVRZ0o?oc=5>
+- 场馆: 华尔街日报中文网
+- 时间: 2026-10-20 23:13
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdC1KbFhTT3ozbGVaRmE5NDdtTWc2cmV2WHVjcUtsdFpSdWlJdi1vWHVMNUo0MXFDdENlenZtT0lSQl9Ddmt4QTM3ZFlGbm5haEQ3alRWeXU3X1d5aEpwZmRUdVZSTmxzRjZGbk91MWlqTHlORFRVQkhUT3RsbmNEcFNaY2hsbUdR?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-21 01:10  (9 条)
+
+- **特朗普** | 美国中期选举在即，特朗普连共和党铁盘都快守不住了 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBabkxOb3kxRkdkZGYtNGlNMS1UQVRzWWVsQnZoeC1rOEhvSnRDQjhTRE4tRk5Bd1BOaUZGOU9lQzdSY1FnaDlTLUwwWGc?oc=5>
+- **特朗普** | 特朗普支持率创两届任期新低 <https://news.google.com/rss/articles/CBMieEFVX3lxTE9TWHZIeEd0di00d2tEbUJFNm4zMWpYT2o1Z0JBajhRNXlPMmFiWnI5SGNiaDN1Znc3ZkJNUzZ2UTdRVFl4cS1YWk03NGNUMDgxbm9PVVoxV1JWNV80VlN0QmlHMFJQQWxjdldTQ005TmVMYVpCUzY2NQ?oc=5>
+- **特朗普** | 【美国中期选举】特朗普借法国骚乱炒作移民课题 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE91MzVBd2pUWlNpSXdwOFgxX2VJS2Jsejhsd0Z5QllVRFlyTnZPcy16ZUtBNjBxOU1EVHVnZHEyQkRrQk5paU5iRmJQYkVSLVdDZG4xUzdMSGZ4akFiVGt6dld2anZqUQ?oc=5>
+- **特朗普** | 要闻分析 - 特朗普为什么说是移民政策造成法国骚乱？ <https://news.google.com/rss/articles/CBMigANBVV95cUxQb0tzYTBsZWZrc3FoRzk0Z0staTNVQzNrdTJoU2RRMEktUVE4WGtkRlBVcHRSUlNkYUUyWnItR3BxYmhBazVYZTEzcUNWcjl4dnh3YzA1WHJLZVVXbDdlcEtaZVY2SGNwLW5ZRHUtczVISTBvZTY1VjJWcUdaUldGR2NvaUIza3BzWF9neld2dEtocWxUZTAzWkxqMlA5UG4zVEVNZmVjbkNhbmxpdnNPazNtS3oyb3doN1JvdWkxME1XdDQwVGRoaFd5ckpORVdEYkNiY1BMSDN1a0tEQUI5ZE1URTJSc01ibU5SQW81bGo2ZXo1TlFKT1BOOWRod0dtaDdUTUtqcHlfOGFpZXVmZDItdUdWQkh5NGE4Y25GTm9hWUhOeUhTUTZHV1lqeUlpTjBXV3B1UHFrVUNWQnhMQjdyZ1JZMTdMcEo5TVRoaVdmcmlLeEl0X3ZQTVZHNTNvaDljM0NJUWVaMGtweFB6ekhvY0dQUnZMMWR3RTlDbnE?oc=5>
+- **特朗普** | 特朗普马克龙吵起来了 移民问题成焦点 <https://news.google.com/rss/articles/CBMicEFVX3lxTFBQa0s3QW9Xa3NiazZLbmtFM2ZEVk1OejVwS2tFdGZXTk0zZE1iSXdJQTQzQzc0TXB3bzlGX0w0MWY0UFRXMFgxMVhGcGVmQllyS0hSdVpZcktuMnNjZjRna1hnOTI2Wi1jR0JDRG1YTmc?oc=5>
+- **特朗普** | 威胁在竞选集会上刺杀特朗普 美国堪萨斯男子遭逮捕 <https://news.google.com/rss/articles/CBMie0FVX3lxTFAtLXZEZ0xuZ3pPNWtxOVdKdXEyTjlIVURlTURBN0d5emlfbkI2SXhkYVZRcmhsTjVIcjV3b21SbS1WeVNzR3E5OXA5bS02RkZNOWZ1RGdhaDdVWDAxaTdtSzJNaHU2SENPQUl5QWlTN0hYQkQ1dW40amU5Yw?oc=5>
+- **特朗普** | 美企起诉特朗普对加拿大征收50%关税，援引大萧条时代法律遭质疑 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IOEIxY0ZHcmg2bGJBYjlGdnU3VEZYY04wNmhxYWl3NURuY3lNQ3R2X1k3SHJNczg4X0dVdVI3bUx3VW0zQzNDSzNJTTdtVWpFQVNn?oc=5>
+- **特朗普** | 特朗普公开支持以总理连任有何考量 美总统助攻出于现实考量 <https://news.google.com/rss/articles/CBMicEFVX3lxTFByQzQ2alppTUEzNUZRLVhpMDFBMFF3aTFMRUI0eXdnU19TY2V0MEhESF9uTXpIeUN0ZXpsVUhpME5GM1gzekRXYURvcWcyQWo0TW5SejVGWThBSm9IZWdCeV9UdFJFQjdjTjZfVjlnZWc?oc=5>
+- **Trump** | 特朗普计划再向美国农民发放80亿美元补贴 <https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdC1KbFhTT3ozbGVaRmE5NDdtTWc2cmV2WHVjcUtsdFpSdWlJdi1vWHVMNUo0MXFDdENlenZtT0lSQl9Ddmt4QTM3ZFlGbm5haEQ3alRWeXU3X1d5aEpwZmRUdVZSTmxzRjZGbk91MWlqTHlORFRVQkhUT3RsbmNEcFNaY2hsbUdR?oc=5>
 
 ### 2026-10-20 22:52  (8 条)
 
