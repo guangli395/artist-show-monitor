@@ -1,88 +1,118 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-22 18:23**
-- 本轮扫到 14313 条, 新增 **9** 条
+- 最近更新: **2026-10-22 21:49**
+- 本轮扫到 14324 条, 新增 **11** 条
 
 ---
 
-## 本轮新发现 (9 条)
+## 本轮新发现 (11 条)
 
-### 白宫“期中考”经济牌反成选举包袱，特朗普支持率创新低
+### 俄：美乌俄谈判可重启 美中俄峰会亦具可能性
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-22 09:36
-- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDcWc1WklPSWRlTzRoNVdHeW01Y1JHS0J1bmx2R3A0QUpwaml0R05KZE1ZU2thaVNqZ1VURVF4Z3g0ZUJtd3VITFVnT2ROZFdLcnc?oc=5>
+- 场馆: DW.com
+- 时间: 2026-10-22 04:06
+- 链接: <https://news.google.com/rss/articles/CBMirgJBVV95cUxOZ19ENVU1Y3RnbVN5UHh4NktfNUlQZmhJaGplbmtzbG12NU8tYzR1TXN5UDFaZXVmd3BOc0hIMnBKRWJYNC1VaXNubFFLZ1dOR3BxS2RLYkRTN1NJMFdYUFlYLWtWSF8yVUp6MGpwVW5uRnoyWmZqZHJFd0lJc2xwb2NsV0p1NWpqdTk2elNuMVV3RmdHd2tyY3YyVEUyN3RrU1A3c3JtYWQxbERubU5pdkxsR3FiUFNTQmhOOWN2M1dhcjlwOVdjUnhTNDU0eC0yTVItQzcyUWNESjR2ajNaUjFnclQwaGN5Ym13SEV0c19sQnpWX21keURpSjZidGZRY0JmM1FTWktudUNFWXprUmFVM2thME14VFFRTW9CeE5PV0N2M2Fra0VZamZqQdIBrgJBVV95cUxOXzlvdXlGTVNaTDZsQ0loN280aGVIeGpvZEdEbkN2eExNRlVvMXVESjNqMGdMUWF1a3lDOWZuZHhlT3RLdmtQMFY4WWhDTTZDUklYY1ZleHc5SXNWdFkwQk16OHhMQjAwYlZuSmJ3NjM1dWlza3dFZGYteHlMbkZlOGowcUFxUV9OaDV5OC1WcWE0bzZZa3F1OEwwSWhHejZodFJEZi1SNTlMcHUwZ3JBdHQ2RGtSNWRXcDY5NDRvMi11NS1UYjhkVlVHanA1RjlqNnhqdk1QeGxSQXlheEpmMmV6QmNieXlYaVRRYlJqTmoyME4yaEdlaVNla2RWaE9IbzNNNFdhVXMyTGxnVC1OTXVIZE9VdmF2cFdyY0dmekdubExxenRxZ18zM1M0QQ?oc=5>
 
-### 美国总统特朗普：勒布朗·詹姆斯在奏国歌时对我国不敬；他应当道歉。
+### 普京：不排除与特朗普赴华会晤可能性
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者网
+- 时间: 2026-10-22 03:50
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFBhVV9SUGlJWTlkRlFvOEpzZ0RMd2x2bWZhU2s4b1hqM3JadE9ENWxoLVNLcElFU0treEZZSDN4QlFXWlJNYmI2SGljN3FrYUtyOEp0cWtQMnA1SVkyUkhESVhnRWdzanhkMFJZQWY0VmpkYTQ?oc=5>
+
+### 美国总统特朗普向国防......_7x24快讯_新浪财经
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 手机新浪网
-- 时间: 2026-10-22 16:27
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE54ZUxLcGFBY094LUdmTm91MTFoYmI2VEZneXdVQlNoY291bGVZdzA4NkE1alA0b2pKSVZnbXhvazdiMHp3RGhKQ1E5QQ?oc=5>
+- 时间: 2026-10-22 20:42
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5oRTR4cG4xN3VwMTZZNDRpWjk3VGJPWVRldTFfX3FsMGgwOXJ5aGxodnpZOEVKM1AwNEd6S0kxMXpOT0VnZDlTZFhRSQ?oc=5>
 
-### 特朗普准备打击跨境假冒加密货币
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: IDNFinancials
-- 时间: 2026-10-22 16:20
-- 链接: <https://news.google.com/rss/articles/CBMilwJBVV95cUxNUmIzeFNfb21reUNvSU0yNmlndnlvTWNQQ1RVNDBXR3A4UmF6Zk8yNWxvdGI2MElnUEp1bEZGYjNidEhILWxfNC1yNml1elhCcUhJNFhjcGl1c25yVmtpWTQzVmV2VnprYWp6SFhDY3JxUVo0TFNXVzkxM3VZTnVHVlg1VVZsWFVaOXBKMVVPWnBkaGdpMS01Y2p4TzNoUDdlMGpVeWVLeGtaT2ZiRHhGQ28xQlJuSTlaSnI4VW56c0FpUWpfOW5IM0dJRzJDdEhvMzRhWnIwdVZLVkdqVXZLMmJHaGFmNFVJX1dYQklnN0VnbXFtUVZjS0hHTW45Y19fZmROTVZ4elRCMnZDNHN3OHhlWmJKVnc?oc=5>
-
-### 特朗普为何给内塔尼亚胡送“大礼” 助力选情升温
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-10-22 17:06
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBOMTNfSFFkdVFybXBha3d1TmZ1M3pOYll2Y3U5U1dDVlhOVEhEWDBkc1laRnh4N0pMTzVHaXIySFZEMHE4X3FoUGtQb0hhUTJKb0c3UUFRYkJSLWlVakVXYTN3TDZUWWE2cWFhRE4yeUU?oc=5>
-
-### 美媒：特朗普最后一刻公开支持内塔尼亚胡，民调显示其联盟距多数席位仍差13席
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-22 00:17
-- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jM3Z1ZGUtcDZmcUFQcTU5VHhqMWJxQjRQV3Y2cDFoNFlybGtvYUw0YlVFbDJvSjE0MVkxWTdIejNnTW1ESVB3NDRZWEpaek5VRFE?oc=5>
-
-### 内塔尼亚胡被曝力推对伊朗进行新一轮大规模打击，但因特朗普反对搁置
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-10-21 07:21
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Xb0lodjN4Q0lOTHZ0MVIzVlpLRk93MzlYNTlZU2I5TGZWYVlxc01XWTRFQlFVZG01MkFLN3RERlQtR2xIMGZXM0hSVzRLZmQ1TXpZ?oc=5>
-
-### 上任5天被解职，特朗普和他的发言人们
+### 10月23日外盘头条：特朗普再度威胁对伊朗采取军事行动西部数据财报大超预期OpenAI接近完成新一轮融资
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-10-21 12:15
-- 链接: <https://news.google.com/rss/articles/CBMizgFBVV95cUxQdk9oLXJXSlBmdjczNkJEMW1iQ0pjdDQyalNBLWFiUHYzUUdTd3d4ZzNwOTk4TFM1YWJMSnZFQnAyMlYxWHJnU2tXX0ZhMUR1WVliMHpIcExWMDVGaXZwWi02eUlxWEVkeFdJWnZuQXd2cGd0MDZ3YklBdDl3U3NvMzJYYXAxRXd0bjhFMkZ4MjMwRHFUd2pPaS13ME1PSjJzcm5jWDc1R09uVmNYZzl0TXJOTTVVRFhXRkt6Z2J5eGhGb1lsUEVMVlphRkdQUQ?oc=5>
+- 时间: 2026-10-22 21:29
+- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxQS3N3Y3VJRk1VLTNhc3dqbE5Rd0xydlJYVmtQcmlGZFBxSXU1V0thcGF4eG5vX2pEZGtCQVZyNU81TGNuOXZ5Y3lNbkd2eUNlRHdRaVNwWk91eXlaemZsSVFUR0JMRURBTExjcGJmRXBTZTJVM1c0WEhXd3JLQ2ZtZDE4alNGcHZwNmZxMzZUbGs3emZ3YmVvM2FTNkM?oc=5>
 
-### Bubblemaps：Kimchi的TRUMP获利传闻未经核实，链上追踪仅发现约600万美元利润
+### 特朗普一通电话要求马斯克解除对乌星链限速，乌军通信随后部分恢复
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-10-22 20:01
+- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVGRKVmZ4bXBjaG1mMFRONW9CRVFhVGRYUlJEVGZWem1BeXM4TEUzRVM2UzFpZF9iOV9TUlBXcGFWME9obF9sRWNvb1phWk5kTklHRGg5VTd1T0dkYklGSEREVXlib2xaRlFNTndtbWpKR3ZBRGREVzRxWW9ZcHlJZ2MzNFFYVllBeF9LcnA2UjhyVkc0SUdENzdHTDVNMEd5YkxlOTFKTkFvT3h1aC1laHc3UXBUa0VmX0lhQ0NTNllWbUI3SEhrUFFvQlNxbEpwUGtQa1RYSUFtNWMzQWc?oc=5>
+
+### 乌克兰“星链”降速争议：白宫被指下达断网令，美官员否认特朗普下令，责任尚未明确
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-10-22 12:00
+- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTE9TY0dCZkY1ZF9yX25Qd2JkVDBYM2E3RU84eTB3TTR6RWszTzROTi1pNjFReGlOSnNvTndNOEx2OThsU0EzSWRXTWw1RXdJemh4TEE?oc=5>
+
+### 特朗普要求马斯克解除对乌星链限速
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街见闻
+- 时间: 2026-10-22 19:30
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qcWRURnk2M3BIRUNHRGpwRW1CcFNneWF2dWE5LTlpYVJ5SENMU1BNNmQ5ck11WEQxTE0zbVZLUGo4NVRQZkZXNXYtc1FWUlRhUjdj?oc=5>
+
+### 特朗普收紧绿卡政策，印度科技从业者的“美国梦”面临考验
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: BBC
+- 时间: 2026-10-22 09:39
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9pSXlnUUZ0Ym1IRjBLbXBVTzdxS004bEpZSWJLd0o4ZTlIT0thZUVwZGM4NEFnRWFnTjN3TGU0WHFETnRSQkVPdFhxemtTbUdfa0cyVHBiQmJ0VDVDWVA3S2Y2c2tQcGPSAWxBVV95cUxNUGczUHJDUmZTdUlNUDdpbWFYZW1jV0llSmlna0NDZURVR0s0dWJmWnNRVjdiSGtiVjZXeHhzRUs1S0tHLXl3dXJTVjJnOFlFaXhuU2xXVXpXU2dIYl9IT2UyQXdwLTB4UjRoMGk?oc=5>
+
+### 批评特朗普？泽连斯基遭美总统特使“斥责”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-10-22 05:17
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1XUkJmdFVTWWNvQ1FZVGU5NHdfT3FMeHU2ZHpuUnZpTEVUZVdPMEtNSG5hTlBrQWRlLVVlSG1OejFfN0o2N0thNDVYaGd2RC1BSTc1WnV3NWx1aC1iZHF1NExzUkFETnVzSUxjQzNRaE8?oc=5>
+
+### 美国与乌克兰官员表示，星链系统在Trump-Musk通话后不久于周四恢复更正常运行——《华
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: TradingView
-- 时间: 2026-10-22 11:05
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE85d1h1UExXR25PNThNTTJ2M19sTHJObUE1VWphU1hzWERNWnl4ZUxzRE1xcXJreWNJbDZDSDZIR20wdnhCTWlHUkFpVHBLLUVYMF8weDFCUUtsX0k0ajVUX0RTajYydw?oc=5>
+- 场馆: 富途牛牛
+- 时间: 2026-10-22 18:53
+- 链接: <https://news.google.com/rss/articles/CBMisAFBVV95cUxPdXBMVTVUQjdyWFhiQnpBTzlod0dOUHU0OUEwVmg4YXFrZ0RwTnRpODJ2cmJoWTdKX2Yxd1k5bjNVTkdLNkRKQWtneUVKQzVtS0NGZkx4NC1mYVFUSzdaS0M5d09CN2JKczRlbUp0eGlVUndkSkljczRaNVhWVHZyazdRX0hQZjdGZWxnOWJidllyeVotM3NoV1NWVi05SnFlTHZVS3ZqWGtPbWoteVlpRQ?oc=5>
 
-### Trump Called Musk and Asked Him to Lift Ukraine Starlink Restrictions -- WSJ
+### 伊朗扬言扩大战火 特朗普指德黑兰蓄意推高油价干预选情
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-10-22 17:59
-- 链接: <https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQmNwX2J5TjVtd2ZQb0xwb3NwT1h5RFhtZGJ6N25salZkTEg4Z1BWdHZyQ2dOcFQ3dUpLaFBGRmMzMkg2RGF6VF9XMHM3Wm9ILS1ZdVZITmJMV2VrNnlYS25nejJjd1pTNHo5M2FvcVBMdkhzejkxa3FSeVhTU0llRnZuTUpJR3lxYTZJQ2JSQzh6bTVyUENyem4zTXhnTDlGaDZwVW1yS20?oc=5>
+- 场馆: RFI
+- 时间: 2026-10-22 21:25
+- 链接: <https://news.google.com/rss/articles/CBMijANBVV95cUxNdVFoT1pyQWxUbUZCV1lyWHVxSDAzbUpoWGpQS3ZUWW1pYXlJajJkeXQ1cVo2V1h0a0llRnVOdXZXd0NFc1daX3FJOVdVNXFLbldNUmhXSy15aUpDOVZSZi1vUDJIOUlDTlZwZ1dudmhQRlRrU1FubHRCN3pUQzlkOExNZy1qbnNDTmRUM1Z5VC14Um0tc1pwVjhzd0M0V0JfMFk2ZG50MkhucHJfVGxOSWJKNUhSV2xNejlVWXhBaElkTlNhZEhJb2NWcEJrRkI3SkhZbnFwRG5SQm9BU3c1c1NaNURURWl6WS1xS056RWRqa25ndnBjOGZ6NU85SG9HVm9CRFB2RVQza25MUEN6X3BvdWlsM2U1Y1N4SmdXRnUzZmh4RDktbHczRkpzTFpQUW1TUjBqQmxveHBnVjVjVDRxRnZ2b0ZuRjN5c1Nwb25VcVY3bDFVbWZJTE45ck8xMEMwVlJnSHpuZHB1S2p0WXJRS0hzRXhkeGt5M09SRkFhaWl5SjlmclhOdHo?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-22 21:49  (11 条)
+
+- **特朗普** | 俄：美乌俄谈判可重启 美中俄峰会亦具可能性 <https://news.google.com/rss/articles/CBMirgJBVV95cUxOZ19ENVU1Y3RnbVN5UHh4NktfNUlQZmhJaGplbmtzbG12NU8tYzR1TXN5UDFaZXVmd3BOc0hIMnBKRWJYNC1VaXNubFFLZ1dOR3BxS2RLYkRTN1NJMFdYUFlYLWtWSF8yVUp6MGpwVW5uRnoyWmZqZHJFd0lJc2xwb2NsV0p1NWpqdTk2elNuMVV3RmdHd2tyY3YyVEUyN3RrU1A3c3JtYWQxbERubU5pdkxsR3FiUFNTQmhOOWN2M1dhcjlwOVdjUnhTNDU0eC0yTVItQzcyUWNESjR2ajNaUjFnclQwaGN5Ym13SEV0c19sQnpWX21keURpSjZidGZRY0JmM1FTWktudUNFWXprUmFVM2thME14VFFRTW9CeE5PV0N2M2Fra0VZamZqQdIBrgJBVV95cUxOXzlvdXlGTVNaTDZsQ0loN280aGVIeGpvZEdEbkN2eExNRlVvMXVESjNqMGdMUWF1a3lDOWZuZHhlT3RLdmtQMFY4WWhDTTZDUklYY1ZleHc5SXNWdFkwQk16OHhMQjAwYlZuSmJ3NjM1dWlza3dFZGYteHlMbkZlOGowcUFxUV9OaDV5OC1WcWE0bzZZa3F1OEwwSWhHejZodFJEZi1SNTlMcHUwZ3JBdHQ2RGtSNWRXcDY5NDRvMi11NS1UYjhkVlVHanA1RjlqNnhqdk1QeGxSQXlheEpmMmV6QmNieXlYaVRRYlJqTmoyME4yaEdlaVNla2RWaE9IbzNNNFdhVXMyTGxnVC1OTXVIZE9VdmF2cFdyY0dmekdubExxenRxZ18zM1M0QQ?oc=5>
+- **特朗普** | 普京：不排除与特朗普赴华会晤可能性 <https://news.google.com/rss/articles/CBMic0FVX3lxTFBhVV9SUGlJWTlkRlFvOEpzZ0RMd2x2bWZhU2s4b1hqM3JadE9ENWxoLVNLcElFU0treEZZSDN4QlFXWlJNYmI2SGljN3FrYUtyOEp0cWtQMnA1SVkyUkhESVhnRWdzanhkMFJZQWY0VmpkYTQ?oc=5>
+- **特朗普** | 美国总统特朗普向国防......_7x24快讯_新浪财经 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5oRTR4cG4xN3VwMTZZNDRpWjk3VGJPWVRldTFfX3FsMGgwOXJ5aGxodnpZOEVKM1AwNEd6S0kxMXpOT0VnZDlTZFhRSQ?oc=5>
+- **特朗普** | 10月23日外盘头条：特朗普再度威胁对伊朗采取军事行动西部数据财报大超预期OpenAI接近完成新一轮融资 <https://news.google.com/rss/articles/CBMinAFBVV95cUxQS3N3Y3VJRk1VLTNhc3dqbE5Rd0xydlJYVmtQcmlGZFBxSXU1V0thcGF4eG5vX2pEZGtCQVZyNU81TGNuOXZ5Y3lNbkd2eUNlRHdRaVNwWk91eXlaemZsSVFUR0JMRURBTExjcGJmRXBTZTJVM1c0WEhXd3JLQ2ZtZDE4alNGcHZwNmZxMzZUbGs3emZ3YmVvM2FTNkM?oc=5>
+- **特朗普** | 特朗普一通电话要求马斯克解除对乌星链限速，乌军通信随后部分恢复 <https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVGRKVmZ4bXBjaG1mMFRONW9CRVFhVGRYUlJEVGZWem1BeXM4TEUzRVM2UzFpZF9iOV9TUlBXcGFWME9obF9sRWNvb1phWk5kTklHRGg5VTd1T0dkYklGSEREVXlib2xaRlFNTndtbWpKR3ZBRGREVzRxWW9ZcHlJZ2MzNFFYVllBeF9LcnA2UjhyVkc0SUdENzdHTDVNMEd5YkxlOTFKTkFvT3h1aC1laHc3UXBUa0VmX0lhQ0NTNllWbUI3SEhrUFFvQlNxbEpwUGtQa1RYSUFtNWMzQWc?oc=5>
+- **特朗普** | 乌克兰“星链”降速争议：白宫被指下达断网令，美官员否认特朗普下令，责任尚未明确 <https://news.google.com/rss/articles/CBMiUkFVX3lxTE9TY0dCZkY1ZF9yX25Qd2JkVDBYM2E3RU84eTB3TTR6RWszTzROTi1pNjFReGlOSnNvTndNOEx2OThsU0EzSWRXTWw1RXdJemh4TEE?oc=5>
+- **特朗普** | 特朗普要求马斯克解除对乌星链限速 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qcWRURnk2M3BIRUNHRGpwRW1CcFNneWF2dWE5LTlpYVJ5SENMU1BNNmQ5ck11WEQxTE0zbVZLUGo4NVRQZkZXNXYtc1FWUlRhUjdj?oc=5>
+- **特朗普** | 特朗普收紧绿卡政策，印度科技从业者的“美国梦”面临考验 <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9pSXlnUUZ0Ym1IRjBLbXBVTzdxS004bEpZSWJLd0o4ZTlIT0thZUVwZGM4NEFnRWFnTjN3TGU0WHFETnRSQkVPdFhxemtTbUdfa0cyVHBiQmJ0VDVDWVA3S2Y2c2tQcGPSAWxBVV95cUxNUGczUHJDUmZTdUlNUDdpbWFYZW1jV0llSmlna0NDZURVR0s0dWJmWnNRVjdiSGtiVjZXeHhzRUs1S0tHLXl3dXJTVjJnOFlFaXhuU2xXVXpXU2dIYl9IT2UyQXdwLTB4UjRoMGk?oc=5>
+- **特朗普** | 批评特朗普？泽连斯基遭美总统特使“斥责” <https://news.google.com/rss/articles/CBMicEFVX3lxTE1XUkJmdFVTWWNvQ1FZVGU5NHdfT3FMeHU2ZHpuUnZpTEVUZVdPMEtNSG5hTlBrQWRlLVVlSG1OejFfN0o2N0thNDVYaGd2RC1BSTc1WnV3NWx1aC1iZHF1NExzUkFETnVzSUxjQzNRaE8?oc=5>
+- **Trump** | 美国与乌克兰官员表示，星链系统在Trump-Musk通话后不久于周四恢复更正常运行——《华 <https://news.google.com/rss/articles/CBMisAFBVV95cUxPdXBMVTVUQjdyWFhiQnpBTzlod0dOUHU0OUEwVmg4YXFrZ0RwTnRpODJ2cmJoWTdKX2Yxd1k5bjNVTkdLNkRKQWtneUVKQzVtS0NGZkx4NC1mYVFUSzdaS0M5d09CN2JKczRlbUp0eGlVUndkSkljczRaNVhWVHZyazdRX0hQZjdGZWxnOWJidllyeVotM3NoV1NWVi05SnFlTHZVS3ZqWGtPbWoteVlpRQ?oc=5>
+- **Trump** | 伊朗扬言扩大战火 特朗普指德黑兰蓄意推高油价干预选情 <https://news.google.com/rss/articles/CBMijANBVV95cUxNdVFoT1pyQWxUbUZCV1lyWHVxSDAzbUpoWGpQS3ZUWW1pYXlJajJkeXQ1cVo2V1h0a0llRnVOdXZXd0NFc1daX3FJOVdVNXFLbldNUmhXSy15aUpDOVZSZi1vUDJIOUlDTlZwZ1dudmhQRlRrU1FubHRCN3pUQzlkOExNZy1qbnNDTmRUM1Z5VC14Um0tc1pwVjhzd0M0V0JfMFk2ZG50MkhucHJfVGxOSWJKNUhSV2xNejlVWXhBaElkTlNhZEhJb2NWcEJrRkI3SkhZbnFwRG5SQm9BU3c1c1NaNURURWl6WS1xS056RWRqa25ndnBjOGZ6NU85SG9HVm9CRFB2RVQza25MUEN6X3BvdWlsM2U1Y1N4SmdXRnUzZmh4RDktbHczRkpzTFpQUW1TUjBqQmxveHBnVjVjVDRxRnZ2b0ZuRjN5c1Nwb25VcVY3bDFVbWZJTE45ck8xMEMwVlJnSHpuZHB1S2p0WXJRS0hzRXhkeGt5M09SRkFhaWl5SjlmclhOdHo?oc=5>
 
 ### 2026-10-22 18:23  (9 条)
 
