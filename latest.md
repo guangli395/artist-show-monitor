@@ -1,57 +1,19 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-21 23:51**
-- 本轮扫到 14275 条, 新增 **9** 条
+- 最近更新: **2026-10-22 02:51**
+- 本轮扫到 14284 条, 新增 **9** 条
 
 ---
 
 ## 本轮新发现 (9 条)
 
-### 适合拍演唱会的手机有哪些？vivo X500 Pro Max等3款选购指南+FAQ
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849005_1d5acf42d06801arhg.html>
-
-### 特朗普：俄乌战争“接近结束” 泽连斯基支持举行三方会谈
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-10-21 21:18
-- 链接: <https://news.google.com/rss/articles/CBMi9wJBVV95cUxPNWVCOEw5WnlmYTZ0R1VGc2VaTWRhZjVEUnJjNXpXWTdKWDNPc3l6N00xY3V1dTk4MVpQZ1lXbjRKNmtibk1TeFMwVXlkV1QyYkIwZnRab2V5TUl0eG53d0xVSjJySERwcHVIMWRrZXpwVXlLR011NWdwQWVFZm1QRkNPWVp1ZnR6MkZya2EyZkZzX2xPSFJ6SzQwcWtsNlVKT0RqYk5TSzRaRHk2TWVwQmoyT3RsenQxTGVvZ2I1T2wyaDF4T0o0cmRaaXdDUkhMLXRjelRGNFppOHJ0TFRIaWREb29ES3U5bXU2MjQ2b2hqVDg2THVrMmhwZVZYQ2dMZGJHRHdReHprbHdWQkUxam5qcWxselJlQVJYZWpMczdUejBCc2I5THJ3VFlvUGg4WUJRMW9UTTVGRjJGV1B1SGVyOEZMQ05zTlZiaVNMNW9SNHc1WEtWaFctMmdNa0ZIaGVTU1AwN1FtbmJJOHhnQmtVcDhNR0k?oc=5>
-
-### “比以往任何时候都近” 特朗普相信俄乌战争结束在即
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-10-21 22:41
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE9pMjB1cElmeDdHZzlzMEZnWk9IZi1aa0h5NVdvNFZPbmZQQlAteTF5YmNnenItanVfMkNxYUpVVEFrN1UzcTI2QWtvdGFGYk1lU1gyc3lSZ2RQYVU4bXJGOWFoUHJsdlRFSXNSbVV0YkFQWkl3bGc?oc=5>
-
-### 特朗普政府免除红色柴油相关税务记录保存要求 以鼓励购买免税燃料
+### 乌克兰使用“星盾”系统遭限速，特朗普最新表态称“与他无关”：我不知道是谁做的，但我没有参与其中
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-10-21 22:55
-- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTFAxRm5vTGRnNmdqa3dvb040NTZhZFpHQ0ZtdVQ5cGxKbkpoVjNnaUhHdHlGQTVCZnZKN0FFV3czWHBzTjRlOVp6WnI2UWltaVBXNlJhdnphOXZLQzV4UUUwSWpsT05XUEZQcXZ5SkFGM0ZMcFBReWkteV93?oc=5>
-
-### 特朗普纵容 普京梦想与中美举行新雅尔塔会议
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-10-21 22:41
-- 链接: <https://news.google.com/rss/articles/CBMi0AJBVV95cUxNVVo1bm5kUUFDV2ZmRlIxdDh5R3h4RUVOUmZ4bVpnNmlFd3dnSGQ0YkVWakNCMU9uenVtSTFjOS1nUjlkM2tRMDVrZnFpTmhfRzZzZ2l2SjdHY3lvdTZTTW1oOHBPdHZJeXZONkV3RGRUTGRuSDBLbWFMRnRjYTJEM2d4My1pWS1KamRNTTEwcUNZMm0yakF2MFl1S1R4a2RTOWY5bVpGc2kxdUFjNVE1bHBQT3NvSnNLSlA3N2ZSWktyY21xazVLa19zSFlxUVlnYjJUWDItUEVRc2xpZURUTjZPR0NBZXY4YzB3M3VVZkNPVXloeGpiUy1lXzluUXdJcjZZeFJXQUtkVE1tNnlFc3p2SGUwbFQxUTd0NWh4UzU4X3RrRDlZeV8wTDFsaUlnLVFQQmN0NkJtdnpleW43SVBaVlBGM1NIMHM4a3Z2dkk?oc=5>
-
-### 特朗普称移民问题已经 “毁掉” 法国，还声称多年前就提醒过马克龙要关闭边境 ！
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-10-21 23:43
-- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxQekIzZ241bjdhU1FJdmNiUnkyc1VLMzE5TGhXdkc3NWRIaEJpV2UtTlY4cHF4RmJFSzI1aXR1WnRwY01LTFdCdW42VGZ3cWstb2ltWkQ4bzRsbmJlNUFWdHh3VFdJbnlSanNabUc0WVhXcmNOallfLVoyejVfRjFCU2JB?oc=5>
+- 时间: 2026-10-22 02:11
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9vZFF4dTVpaTRCc1J4UXFHcWJvZS1NbE5qd2ZuaElWT3Yta0tIdTRWZjlzdGVhSHhpTk44NHd0cGpPOC1tckRpcXJPV3dXbXhUTkhrelB5UDVhMEFhU0hkWnp4VHB2YTVIbDd6d0E0Ql9adVhGb1lKYw?oc=5>
 
 ### 特朗普试图撒钱拯救中期选举
 
@@ -59,28 +21,80 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-10-21 07:22
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNWlXSGpBTFplUGV2WXRjLWNEa0JaWVE4ZG1weVJUVy1rMFhMQmQ1NzJyV2tkOEJZa29XN2MwU1YtU0ItZGhoczhESkR6djhKSU51Mi1sWWIyUlpBWG1JV2lPTklwaTNTa3lZU3FPWUNqQlVpU05uQUdRS1g0YXo3MGdBZGdoT0ZINmJkRkJJTGhoYWE1REp0VlpvbUhaYWxMUXdSOUhLcGt4RWpTMFhobkFTbDdjOGNkS2NBam96dm1EQmRYUHpla0xOZDZiZnNlYVdkR2N3NzRmYVJZSFBV?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxPakk2Q2g3ZXlXMHBFeUN5UnRkWng4dWFDdEEweDg5UnFVRF8wZnJBS2VlSXl6czFnRTU0S2lZWXRvQ1VOS0tfRHFuOFp3M2Z6UTRteE4xMTljbXc5cUlYYWhHOGJxcEpDcGxWa3I2RXc0WW1oZXE5OGlBbUtSdi1hUzFQZmRTSkFkcjdfTndqNGtJX3Z0Y0NBaVpIRTcwRzBBNU50OWttMWVGeG9IMmFxRnZtbHA3b01KRzk0ZWNBSXI1SWZoWWp4eVhvLU1XYWJwLURDQkg3YWh3eHBEX0E?oc=5>
 
-### Trump Makes Another Move to Pressure Oil Prices Ahead of Election: U.S. Plans to Lend One-Third of Heating Oil Reserves
+### 特朗普投入超4亿美元力挺共和党 巨资助选引发关注
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-10-22 02:04
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9mbGdWNWluWXR2SFBmeDl3RjI4VUQ0QkNBYy1CUVhFVDFBWjQzOHUwM2hRTmZhUHFDbkN5aWhXYzlVUmE1NU8tRG1aZjJPZy1kZllTZWMwZV8xWmhBaElvNVlKLU5LSWZTTUkwSEo4S0I?oc=5>
+
+### 默茨找补：对华政策，我们跟特朗普不一样
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者网
+- 时间: 2026-10-21 23:25
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5wOXdDZERIYmg3YkhicE01a3VZblNfLWw5UjczYUtBUXJ3cG90MUhkVmNwSllGVWFTUnRSNkczQ19YT1BLVDZBcmphazhuRjVySFp0VGVldVVMN2J1NFh5T1BIdHVNcm81aURoQlJWTjZQYjA?oc=5>
+
+### 深圳APEC前夕的较量：中美投资谈判或拟名单
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: DW.com
+- 时间: 2026-10-21 14:53
+- 链接: <https://news.google.com/rss/articles/CBMimgJBVV95cUxQLVhuUVp1TzQ1bmhaMEZVb3ltSnpKN0I0S2hVd2t2YUFaTVN6LVlqTW15dU5nb0drZnNRM3dBVDRzdUpQY2tnbFlvSHphSWt3U3NTTHZ0LW5pVUR4ajlQOWVtYzVUYTdXWHV3UW9ERDhGcUxrWms1a3hfZDhuYWhIdXdIODU2TE8zWGZDWU1odWE3dnRYUVZEQmp3OGVxdGo2MnNxakFkWXhhQWE0Ti0yUDlFQ19lSUJiVDRFRXdGREpQdGdOR0Rual8zaWlQVkVPd2syakdacGZ6OUtiaW1aMXpzWHVfZi12V2Fua2xxbFVneWNlZWhGMnhYWXV2bVZCcDNKOXY4YVNzeTZGY3YzUnZqdUZOSDl5bXfSAZoCQVVfeXFMTkp0eDdwSXBuWnYweVR0andNT0NSWDdsTWZMY1FKcjlOY05zSEJDNGhtRlVsbF9zNE8zLTJVTmI1U1VGWlhSUjZuZndGb3p6NGtuMHB0MzB5VnZKc0ZVUGRyN0R1TFQtWmRjNmc1djAyN1VPU2ZCQ3hnWDJQcWF5TDZEQ3ZGQWQ1SUIzWGxOQlEtNHRycU52WnNIZEV1ckVFWVlZTjRhSWdWdTd3STJ4TTlmTTBHOV9RejRMN29tN0tFZkotVHRZbDhaZmw1MTJfWEYxNC1xamFiMzdFRlZONFNUZWRrLVJSbXlDV056ZEs5WkVoaEVUcV9TNHRsdUc4Z3lmY2VLWDFNeFB6VzJ0d19DQWF2a3lQUnpB?oc=5>
+
+### 马克龙暗批特朗普拿法国当竞选工具 利用虚假信息
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-10-22 00:31
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1GTTdpeE1oRHB2dFRxbGI1NnZjTjRkT0NGLUhjX1FGd05rRlN3LXRwLWh3bEd3dGw3bi1nN2l1NElEUWdoR0F5c045cUFRSlpjNWZfckc0bTAtR2NwcVd3NENtMVo4QTA3MEtsSGdMeEM?oc=5>
+
+### 特朗普中选前再出招压油价：美国拟出借三分之一取暖油储备
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街见闻
+- 时间: 2026-10-21 17:45
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ZdnBzSHU1WmRyS0lkbFF3Yk9UeVVUT3FBdUlBeWlYU0VFNFhtaVBMcTF2U09NNjRNNlVhZ3ZnY1hGSFBiby1JeFZOZHdmXy1NTEcw?oc=5>
+
+### 特朗普治下，美国经济的真实表现如何？
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 富途牛牛
-- 时间: 2026-10-21 18:38
-- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxNN2g2V3VmZ3lZUHBmUXFsNTVBdC15ODhqOGhkMFVvcVlPVmpFcE5rdEU4YVZ0Y25mY0VxWjN4VTRveDUwdkM1dllaRm9YZTZPbHotQkh5dzJ6bWFDTVBETHRrT1F6UWc3NjJrMmF2WGgxa001cEtOemZtcFhrNWhMbnRRWTNVN0RINXl6OHV4ZnJmSVh4cnByb1hNVVVHdC1s?oc=5>
+- 场馆: BBC
+- 时间: 2026-10-22 00:39
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Ud1JzeGNveUlHTllibXUzVGl6WUQ2UXlNYUI5eUg3RFdGSHEwMldad0h3d1dlRWxLaElZTV9ocFBkZXF4dnFwemVuV2FqQnlkRWl3akJVM2xGdEk3LWwxRERrN1EwZWvSAWxBVV95cUxQanF3TU54TThPV1lIRVJpLTNkSGVGdXBNSWFyNFdXcDNTc0s0aTgtYzF2Nm51czBuX2R5b0lEVHQtQW83TldNTzBYR3FmdEs3VlgzTVBxRElRUU1uY0tYMkk1eGhLV3JzRjJTZjY?oc=5>
 
-### 美期中选举将至 民调显示共和党在中西部票仓面临压力
+### 特朗普称将要求大型数据中心自行供电
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-10-21 21:05
-- 链接: <https://news.google.com/rss/articles/CBMigANBVV95cUxQQ0dPUUpqUmhWS2RIdUJxTWdNZGZfWVk1aEJtMzY0LS1OY3ZCYl8tdGZFcHU4dU51U1o0STZaV1ctRVNrVTl6emI0RHpUSjRmOGl6blV1b1pkdTF6RlBsbDZPekVuN3Y0NUh0ZVBrMHR0ZzZ5M0o2OG9KNW1yWmNWenl5SGdaMDZ3SUptSmQ0TE9CWFRyc3lIaXRHSDhzU2dHV25PWHNyeDdkaUdPYUZCY2g5djhPeUlUeXowMXVTa2NubnJjcmFBQVFwczBFSXlyWmFEc1pQU3VWdVFxUl80ZTVoTnJwUFJyMHVORm02eWZLTTE4TzA5TTI5bVl6TnhpNTJDQ0swbDNnREpTQllwYWhYdmc4azlPdW81dVljQ3JKNWJ0dkJYcC14and3Ry03TlpQbjkwX19GWFc0aTg2Qjk0VEpkSlY3bGJ3MVlBUFFYUi1qV0Ewa3Zka1ZfbUlib0R2X1c0TFFZRkJDNG9DT0JUSWt2RHMzTVBZVGtCb18?oc=5>
+- 场馆: 华尔街日报中文网
+- 时间: 2026-10-22 00:31
+- 链接: <https://news.google.com/rss/articles/CBMimwFBVV95cUxOY0lteUtGN0dYUjFadldkVXBGMTdHSW9KVUFKaDQwaVRYaFltYzh0OU9EcVp4QzlDQUhvOWxLQWZ0Z082OXpEOTYyRXRUOGJxYUZtMG1Uemg4N0RhaFJLYzNhX2l3M0ZLWkQ5clBoLWg2TlhaQXdsU1JXNm5tSW5KLVpYdlhKU3F3Tm1zU29rckNaSkU1S2xqbDZKYw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-22 02:51  (9 条)
+
+- **特朗普** | 乌克兰使用“星盾”系统遭限速，特朗普最新表态称“与他无关”：我不知道是谁做的，但我没有参与其中 <https://news.google.com/rss/articles/CBMieEFVX3lxTE9vZFF4dTVpaTRCc1J4UXFHcWJvZS1NbE5qd2ZuaElWT3Yta0tIdTRWZjlzdGVhSHhpTk44NHd0cGpPOC1tckRpcXJPV3dXbXhUTkhrelB5UDVhMEFhU0hkWnp4VHB2YTVIbDd6d0E0Ql9adVhGb1lKYw?oc=5>
+- **特朗普** | 特朗普试图撒钱拯救中期选举 <https://news.google.com/rss/articles/CBMi3gFBVV95cUxPakk2Q2g3ZXlXMHBFeUN5UnRkWng4dWFDdEEweDg5UnFVRF8wZnJBS2VlSXl6czFnRTU0S2lZWXRvQ1VOS0tfRHFuOFp3M2Z6UTRteE4xMTljbXc5cUlYYWhHOGJxcEpDcGxWa3I2RXc0WW1oZXE5OGlBbUtSdi1hUzFQZmRTSkFkcjdfTndqNGtJX3Z0Y0NBaVpIRTcwRzBBNU50OWttMWVGeG9IMmFxRnZtbHA3b01KRzk0ZWNBSXI1SWZoWWp4eVhvLU1XYWJwLURDQkg3YWh3eHBEX0E?oc=5>
+- **特朗普** | 特朗普投入超4亿美元力挺共和党 巨资助选引发关注 <https://news.google.com/rss/articles/CBMicEFVX3lxTE9mbGdWNWluWXR2SFBmeDl3RjI4VUQ0QkNBYy1CUVhFVDFBWjQzOHUwM2hRTmZhUHFDbkN5aWhXYzlVUmE1NU8tRG1aZjJPZy1kZllTZWMwZV8xWmhBaElvNVlKLU5LSWZTTUkwSEo4S0I?oc=5>
+- **特朗普** | 默茨找补：对华政策，我们跟特朗普不一样 <https://news.google.com/rss/articles/CBMic0FVX3lxTE5wOXdDZERIYmg3YkhicE01a3VZblNfLWw5UjczYUtBUXJ3cG90MUhkVmNwSllGVWFTUnRSNkczQ19YT1BLVDZBcmphazhuRjVySFp0VGVldVVMN2J1NFh5T1BIdHVNcm81aURoQlJWTjZQYjA?oc=5>
+- **特朗普** | 深圳APEC前夕的较量：中美投资谈判或拟名单 <https://news.google.com/rss/articles/CBMimgJBVV95cUxQLVhuUVp1TzQ1bmhaMEZVb3ltSnpKN0I0S2hVd2t2YUFaTVN6LVlqTW15dU5nb0drZnNRM3dBVDRzdUpQY2tnbFlvSHphSWt3U3NTTHZ0LW5pVUR4ajlQOWVtYzVUYTdXWHV3UW9ERDhGcUxrWms1a3hfZDhuYWhIdXdIODU2TE8zWGZDWU1odWE3dnRYUVZEQmp3OGVxdGo2MnNxakFkWXhhQWE0Ti0yUDlFQ19lSUJiVDRFRXdGREpQdGdOR0Rual8zaWlQVkVPd2syakdacGZ6OUtiaW1aMXpzWHVfZi12V2Fua2xxbFVneWNlZWhGMnhYWXV2bVZCcDNKOXY4YVNzeTZGY3YzUnZqdUZOSDl5bXfSAZoCQVVfeXFMTkp0eDdwSXBuWnYweVR0andNT0NSWDdsTWZMY1FKcjlOY05zSEJDNGhtRlVsbF9zNE8zLTJVTmI1U1VGWlhSUjZuZndGb3p6NGtuMHB0MzB5VnZKc0ZVUGRyN0R1TFQtWmRjNmc1djAyN1VPU2ZCQ3hnWDJQcWF5TDZEQ3ZGQWQ1SUIzWGxOQlEtNHRycU52WnNIZEV1ckVFWVlZTjRhSWdWdTd3STJ4TTlmTTBHOV9RejRMN29tN0tFZkotVHRZbDhaZmw1MTJfWEYxNC1xamFiMzdFRlZONFNUZWRrLVJSbXlDV056ZEs5WkVoaEVUcV9TNHRsdUc4Z3lmY2VLWDFNeFB6VzJ0d19DQWF2a3lQUnpB?oc=5>
+- **特朗普** | 马克龙暗批特朗普拿法国当竞选工具 利用虚假信息 <https://news.google.com/rss/articles/CBMicEFVX3lxTE1GTTdpeE1oRHB2dFRxbGI1NnZjTjRkT0NGLUhjX1FGd05rRlN3LXRwLWh3bEd3dGw3bi1nN2l1NElEUWdoR0F5c045cUFRSlpjNWZfckc0bTAtR2NwcVd3NENtMVo4QTA3MEtsSGdMeEM?oc=5>
+- **特朗普** | 特朗普中选前再出招压油价：美国拟出借三分之一取暖油储备 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ZdnBzSHU1WmRyS0lkbFF3Yk9UeVVUT3FBdUlBeWlYU0VFNFhtaVBMcTF2U09NNjRNNlVhZ3ZnY1hGSFBiby1JeFZOZHdmXy1NTEcw?oc=5>
+- **Trump** | 特朗普治下，美国经济的真实表现如何？ <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Ud1JzeGNveUlHTllibXUzVGl6WUQ2UXlNYUI5eUg3RFdGSHEwMldad0h3d1dlRWxLaElZTV9ocFBkZXF4dnFwemVuV2FqQnlkRWl3akJVM2xGdEk3LWwxRERrN1EwZWvSAWxBVV95cUxQanF3TU54TThPV1lIRVJpLTNkSGVGdXBNSWFyNFdXcDNTc0s0aTgtYzF2Nm51czBuX2R5b0lEVHQtQW83TldNTzBYR3FmdEs3VlgzTVBxRElRUU1uY0tYMkk1eGhLV3JzRjJTZjY?oc=5>
+- **Trump** | 特朗普称将要求大型数据中心自行供电 <https://news.google.com/rss/articles/CBMimwFBVV95cUxOY0lteUtGN0dYUjFadldkVXBGMTdHSW9KVUFKaDQwaVRYaFltYzh0OU9EcVp4QzlDQUhvOWxLQWZ0Z082OXpEOTYyRXRUOGJxYUZtMG1Uemg4N0RhaFJLYzNhX2l3M0ZLWkQ5clBoLWg2TlhaQXdsU1JXNm5tSW5KLVpYdlhKU3F3Tm1zU29rckNaSkU1S2xqbDZKYw?oc=5>
 
 ### 2026-10-21 23:51  (9 条)
 
