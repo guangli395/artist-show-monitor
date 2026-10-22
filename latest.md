@@ -1,116 +1,82 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-22 08:12**
-- 本轮扫到 14297 条, 新增 **13** 条
+- 最近更新: **2026-10-22 13:58**
+- 本轮扫到 14304 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (13 条)
+## 本轮新发现 (7 条)
 
-### 中国国家旅游发布了王一博万物可爱
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7785517961_m1d00d9389033017y9g.html>
-
-### 社会心理学视角深度解析肖战南京演唱会二开
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002tdfa.html>
-
-### 批评特朗普？泽连斯基遭美总统特使“斥责”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-10-22 04:55
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE1PY3d3RnMyYkFzZ3lmcU40UVNzeWRkV2FhUGpUTFRwMDhWYks3dnlLcnN4LVlfanVXaTMwZFhVVFI1T3hkalBUTnQyTU5kNG5yTVB4QVcxUVVkQW00RFFBTlBQWm9Ba243QTZueC1qcjlVamd4?oc=5>
-
-### 知情人士：马斯克与特朗普电话讨论后，提议降低“星盾”运行速度
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-10-22 06:50
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE1YUHlzXzktVXdaanJzUUR0a2RueGE4aGJYalNhZHpyN0EzejB1cWpneTdGQjJnWVEzS0FSTnZUaS1jM3ZMQ1ZXRUtHRDBPcWFtQUJzYTZuRTYxc09ZdllJT3ViOThmYUpZSTR5RGVtbm5Ndw?oc=5>
-
-### 加拿大前高官：中方明白，就让特朗普错下去
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-10-22 00:48
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE9RQnZvVEoyTEhxSUFPU2lnVXRFUlBvWmxjTHQ2cjl6STljcG1XcEhPc0JCUDhsWW81cng5VU5STkdJSmJYc3hmaGVsRUV5dGVoOGg3ZVZpanZzTnA4S3hfTEdDRDF6MFNsVm1yeE1HQXN3aEE?oc=5>
-
-### 外媒：特朗普称美国目前未与伊朗谈判，但“很快”会发生“某些事情”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 环球网
-- 时间: 2026-10-21 15:23
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE13d0ZGWWl0cHNIQXN2WnFwSVJTcEdLcWRpLTFqMk9qeTRUM0Y0aUthVEQ5RERERENIcWdVMWRUSG9vRXBnSUEzcFRka0xvaExPcEtLdVZHdms?oc=5>
-
-### 外媒：特朗普称美国目前未与伊朗谈判，但“很快”会发生“某些事情”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-10-22 06:29
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE90TVZtd3FLY3dZUFRmelNiSW95TXdNUGU3Y3E4cTRFcHVvMml3QTFqa2MzVVJpeFFkZEIxNHJRT1dITGNXSUV6cDk2Zw?oc=5>
-
-### 伊朗高官：拖延对美谈判，故意让特朗普中期选举不好过
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-10-20 13:32
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1kVjV5UTNRY0phNk5NejFjZ2p1UEVOLXNObFdGRGgtUW10Z1gwdllzMTByQzFBRFF3SV85bXI1WmJBbENZb21rOHF6akcwLTJESGdBZnNyanNhLVRhQ0tOS0I0QUJQenZSSmJvZjVkdV9zRUk?oc=5>
-
-### 马克龙“点名”特朗普
+### 普京感谢特朗普
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-10-22 04:16
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTFBTdVpxRkR1N0xDSC0zMGx6RGJxa0FFaTNGX3VJYkpoTTVNYlBLbnFXY1M5aV9DazUtaFgzekZ2VXViVS1lUFVfb0VzZFpHOXZjQUxJT3ctR3BTb0U5alFoNGctaWJuR01fRkFiVW5rQ2hLeDhhZUE?oc=5>
+- 时间: 2026-10-22 05:19
+- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaDZocVNMdGZHVG05SjVOWHJBeW96U1VCckh6NjFmWmNockhFZVdFb0tERS1hY3lOd2hKcHpKUUYyUzVRUFNkSWkwMTIwN3hnem1ESXc1d3U5cUpXQmxadHZxejN2NlAtYVExNlN0ODE2YVVyX2FwX001UGVqb3dqck5PZXcxLXFPT3BV?oc=5>
 
-### 环球网：马克龙点名抨击特朗普
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-10-22 04:30
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE1tT3kwVXQ0ZkhlSUYxTWZVTUxOTDVnUkV2MzdOdGtTSXBsZ2dITXdoU3dvSjFGQ3ZWZzhNak9WSTZFSEhNVUxoTVZoSk9hcHNiRmlteVI4a2pyRnppZmpiMWpBNEFuLXNWSGNZemF4M0kwQQ?oc=5>
-
-### 信强、唐湘龙、陈凤馨：恐丢参议院、大家齐甩锅：特朗普、共和党都急了
+### 从小特朗普到万斯，美伊冲突撕裂MAGA阵营
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-10-22 05:02
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFB0OUJZSUJDVnlMdUdKUlRGWkx2S194ZV9veGlEVFItdnhwTFR1OU1QR0ZOYXpVdGM0SUVCTXZSbWVqQU1NcmlwV2hEOWFUbUttV2s2eTRXUEw0enA2eVBxZ3dpSUw0UQ?oc=5>
+- 场馆: 中国青年网
+- 时间: 2026-10-22 12:35
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wWjNNc2didHI0ZEtyczlPd2lwNFA1RTlpWXpVdWFBeFZRWEdmeDdrVVJLeGVFZnB0X0l3bDN3cmhPSGVIdHBJazlEdnpTYXRkSktxakNKbHozdjdSYTZtY0lkdDBybFU?oc=5>
 
-### 民调显示，中期选举两周前特朗普支持率跌至新低
+### 特朗普：我打电话给谷歌CEO，让他给大西洋改名，他没答应
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-10-22 03:07
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE1jZ0Zmd2RPY2tIMlZMR3oxS05ZZ0s2dWtUNXJUZG11TlpsSVpvYUZDYWgtUEh1cU5uYkxPR3VnZ01aWGRUTEQ5eEt5NWFDd1Z3VG5KaDNpM2tlOUhhb3MtZXJPU2dlZC0ydTcyb3pyM18tdw?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-10-22 05:55
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1LTjdWS3o4bDFYRXo0QWdrS0FKTmJGREY0aXhZTHBPbnFfbnF5T1ROdWFfUm5MRzlPZXFYTEcwUzM1NWtMWnBMOWVYVXI?oc=5>
 
-### 今天油价又创新高，特朗普最喜欢通货膨胀！战争！关税！再次让美国伟大Make American Great Again (MAGA)
+### 上任5天被解职，特朗普和他的发言人们
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-10-21 12:15
+- 链接: <https://news.google.com/rss/articles/CBMizAFBVV95cUxQX1ZHT1ZFWVVTdGFsN1haWHJFZjZNQ1RNVFVHb1hQVmFjNmZ5aDFkcEM1WU9NbXVJZkIyOEo3MVMxWkM0MHRadXRHWE5RcnA4anZ0WHRRMFYxejI3cWhOZUtqSnVsbzB6WGxjS1pnelpaZHAwVVE1T09uOW5IVUFYLUU1VExUWDEwTzBEeGgzRVVuZHJ2dHVjanlIaDhTTi1FdnNZeWZ1X2s2TzdpRml0WDNvT2F0MVU1MUR3LTNiaXVab1pUeE1TLURJMnI?oc=5>
+
+### 马斯克向特朗普账户捐款图谋 构筑政治护城河
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-10-22 12:39
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5pWS1XWUlPZ0JqQkhRWXFRQi10V1o3al8zTTZfZkEyNm5uek9CdmZBZmtCdUd2Zzd0UlVfeVIzc2RPUDdMTnY2aFhJTmRRQ0EwSE96RHRHTjVEYjdzZGx1WHpnNzZDbENyTkJFOEp2ZjE?oc=5>
+
+### 是否支持万斯接班？特朗普回应
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 京报网
+- 时间: 2026-10-22 04:51
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE9pamgzSWpZQ085dEZkb0JmM0dzQUlLc3hSN3JWS3VGbjRsNnRqTnNjVFZBZGVlbEZkVzhMc2YtMzVrcGZQdGsxOXpwZjdTVDQyam54SWppLUNoS1E3c0E?oc=5>
+
+### Bubblemaps：Kimchi的TRUMP获利传闻未经核实，链上追踪仅发现约600万美元利润
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-10-22 07:49
-- 链接: <https://news.google.com/rss/articles/CBMipAFBVV95cUxPR0dXWWp0blFqdko2LW9GaHhmSGJ0b1p2MkNaTUxKd2JsRDIyMUo4Yk0wRm9uTm9wNERpLTE2UTAwSGVIOTNScldiemNwZXA5dXpRLTVSUlVoZ3Z3LXRjZHkzV0d5TXB3ZUJEaW4wdDJvWXU4d2RfRU9KSFRyalkwRDB0Wl85ekN1ZzR1UnhHM2l2aHRpWjg1dEEyQVZIZF96NnBKdw?oc=5>
+- 场馆: TradingView
+- 时间: 2026-10-22 11:05
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5JRkJZYmlvZld3Zm4zYjRXOHJESjZBSGx6V0I1bmZzSzE2Y1I3ZXFRTzl1MW9aWHJ4NXhOM0lGRW1oTEhRMXd3cE9qNmw3UXQxMHNPazZwQm1ZZi11V3lqQkZYNDJwdw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-22 13:58  (7 条)
+
+- **特朗普** | 普京感谢特朗普 <https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaDZocVNMdGZHVG05SjVOWHJBeW96U1VCckh6NjFmWmNockhFZVdFb0tERS1hY3lOd2hKcHpKUUYyUzVRUFNkSWkwMTIwN3hnem1ESXc1d3U5cUpXQmxadHZxejN2NlAtYVExNlN0ODE2YVVyX2FwX001UGVqb3dqck5PZXcxLXFPT3BV?oc=5>
+- **特朗普** | 从小特朗普到万斯，美伊冲突撕裂MAGA阵营 <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wWjNNc2didHI0ZEtyczlPd2lwNFA1RTlpWXpVdWFBeFZRWEdmeDdrVVJLeGVFZnB0X0l3bDN3cmhPSGVIdHBJazlEdnpTYXRkSktxakNKbHozdjdSYTZtY0lkdDBybFU?oc=5>
+- **特朗普** | 特朗普：我打电话给谷歌CEO，让他给大西洋改名，他没答应 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1LTjdWS3o4bDFYRXo0QWdrS0FKTmJGREY0aXhZTHBPbnFfbnF5T1ROdWFfUm5MRzlPZXFYTEcwUzM1NWtMWnBMOWVYVXI?oc=5>
+- **特朗普** | 上任5天被解职，特朗普和他的发言人们 <https://news.google.com/rss/articles/CBMizAFBVV95cUxQX1ZHT1ZFWVVTdGFsN1haWHJFZjZNQ1RNVFVHb1hQVmFjNmZ5aDFkcEM1WU9NbXVJZkIyOEo3MVMxWkM0MHRadXRHWE5RcnA4anZ0WHRRMFYxejI3cWhOZUtqSnVsbzB6WGxjS1pnelpaZHAwVVE1T09uOW5IVUFYLUU1VExUWDEwTzBEeGgzRVVuZHJ2dHVjanlIaDhTTi1FdnNZeWZ1X2s2TzdpRml0WDNvT2F0MVU1MUR3LTNiaXVab1pUeE1TLURJMnI?oc=5>
+- **特朗普** | 马斯克向特朗普账户捐款图谋 构筑政治护城河 <https://news.google.com/rss/articles/CBMicEFVX3lxTE5pWS1XWUlPZ0JqQkhRWXFRQi10V1o3al8zTTZfZkEyNm5uek9CdmZBZmtCdUd2Zzd0UlVfeVIzc2RPUDdMTnY2aFhJTmRRQ0EwSE96RHRHTjVEYjdzZGx1WHpnNzZDbENyTkJFOEp2ZjE?oc=5>
+- **特朗普** | 是否支持万斯接班？特朗普回应 <https://news.google.com/rss/articles/CBMiXkFVX3lxTE9pamgzSWpZQ085dEZkb0JmM0dzQUlLc3hSN3JWS3VGbjRsNnRqTnNjVFZBZGVlbEZkVzhMc2YtMzVrcGZQdGsxOXpwZjdTVDQyam54SWppLUNoS1E3c0E?oc=5>
+- **Trump** | Bubblemaps：Kimchi的TRUMP获利传闻未经核实，链上追踪仅发现约600万美元利润 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5JRkJZYmlvZld3Zm4zYjRXOHJESjZBSGx6V0I1bmZzSzE2Y1I3ZXFRTzl1MW9aWHJ4NXhOM0lGRW1oTEhRMXd3cE9qNmw3UXQxMHNPazZwQm1ZZi11V3lqQkZYNDJwdw?oc=5>
 
 ### 2026-10-22 08:12  (13 条)
 
