@@ -1,35 +1,59 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-22 13:58**
-- 本轮扫到 14304 条, 新增 **7** 条
+- 最近更新: **2026-10-22 18:23**
+- 本轮扫到 14313 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (9 条)
 
-### 普京感谢特朗普
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-10-22 05:19
-- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaDZocVNMdGZHVG05SjVOWHJBeW96U1VCckh6NjFmWmNockhFZVdFb0tERS1hY3lOd2hKcHpKUUYyUzVRUFNkSWkwMTIwN3hnem1ESXc1d3U5cUpXQmxadHZxejN2NlAtYVExNlN0ODE2YVVyX2FwX001UGVqb3dqck5PZXcxLXFPT3BV?oc=5>
-
-### 从小特朗普到万斯，美伊冲突撕裂MAGA阵营
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中国青年网
-- 时间: 2026-10-22 12:35
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wWjNNc2didHI0ZEtyczlPd2lwNFA1RTlpWXpVdWFBeFZRWEdmeDdrVVJLeGVFZnB0X0l3bDN3cmhPSGVIdHBJazlEdnpTYXRkSktxakNKbHozdjdSYTZtY0lkdDBybFU?oc=5>
-
-### 特朗普：我打电话给谷歌CEO，让他给大西洋改名，他没答应
+### 白宫“期中考”经济牌反成选举包袱，特朗普支持率创新低
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-10-22 05:55
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1LTjdWS3o4bDFYRXo0QWdrS0FKTmJGREY0aXhZTHBPbnFfbnF5T1ROdWFfUm5MRzlPZXFYTEcwUzM1NWtMWnBMOWVYVXI?oc=5>
+- 时间: 2026-10-22 09:36
+- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDcWc1WklPSWRlTzRoNVdHeW01Y1JHS0J1bmx2R3A0QUpwaml0R05KZE1ZU2thaVNqZ1VURVF4Z3g0ZUJtd3VITFVnT2ROZFdLcnc?oc=5>
+
+### 美国总统特朗普：勒布朗·詹姆斯在奏国歌时对我国不敬；他应当道歉。
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 手机新浪网
+- 时间: 2026-10-22 16:27
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE54ZUxLcGFBY094LUdmTm91MTFoYmI2VEZneXdVQlNoY291bGVZdzA4NkE1alA0b2pKSVZnbXhvazdiMHp3RGhKQ1E5QQ?oc=5>
+
+### 特朗普准备打击跨境假冒加密货币
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: IDNFinancials
+- 时间: 2026-10-22 16:20
+- 链接: <https://news.google.com/rss/articles/CBMilwJBVV95cUxNUmIzeFNfb21reUNvSU0yNmlndnlvTWNQQ1RVNDBXR3A4UmF6Zk8yNWxvdGI2MElnUEp1bEZGYjNidEhILWxfNC1yNml1elhCcUhJNFhjcGl1c25yVmtpWTQzVmV2VnprYWp6SFhDY3JxUVo0TFNXVzkxM3VZTnVHVlg1VVZsWFVaOXBKMVVPWnBkaGdpMS01Y2p4TzNoUDdlMGpVeWVLeGtaT2ZiRHhGQ28xQlJuSTlaSnI4VW56c0FpUWpfOW5IM0dJRzJDdEhvMzRhWnIwdVZLVkdqVXZLMmJHaGFmNFVJX1dYQklnN0VnbXFtUVZjS0hHTW45Y19fZmROTVZ4elRCMnZDNHN3OHhlWmJKVnc?oc=5>
+
+### 特朗普为何给内塔尼亚胡送“大礼” 助力选情升温
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-10-22 17:06
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBOMTNfSFFkdVFybXBha3d1TmZ1M3pOYll2Y3U5U1dDVlhOVEhEWDBkc1laRnh4N0pMTzVHaXIySFZEMHE4X3FoUGtQb0hhUTJKb0c3UUFRYkJSLWlVakVXYTN3TDZUWWE2cWFhRE4yeUU?oc=5>
+
+### 美媒：特朗普最后一刻公开支持内塔尼亚胡，民调显示其联盟距多数席位仍差13席
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-10-22 00:17
+- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jM3Z1ZGUtcDZmcUFQcTU5VHhqMWJxQjRQV3Y2cDFoNFlybGtvYUw0YlVFbDJvSjE0MVkxWTdIejNnTW1ESVB3NDRZWEpaek5VRFE?oc=5>
+
+### 内塔尼亚胡被曝力推对伊朗进行新一轮大规模打击，但因特朗普反对搁置
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街见闻
+- 时间: 2026-10-21 07:21
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Xb0lodjN4Q0lOTHZ0MVIzVlpLRk93MzlYNTlZU2I5TGZWYVlxc01XWTRFQlFVZG01MkFLN3RERlQtR2xIMGZXM0hSVzRLZmQ1TXpZ?oc=5>
 
 ### 上任5天被解职，特朗普和他的发言人们
 
@@ -37,23 +61,7 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-10-21 12:15
-- 链接: <https://news.google.com/rss/articles/CBMizAFBVV95cUxQX1ZHT1ZFWVVTdGFsN1haWHJFZjZNQ1RNVFVHb1hQVmFjNmZ5aDFkcEM1WU9NbXVJZkIyOEo3MVMxWkM0MHRadXRHWE5RcnA4anZ0WHRRMFYxejI3cWhOZUtqSnVsbzB6WGxjS1pnelpaZHAwVVE1T09uOW5IVUFYLUU1VExUWDEwTzBEeGgzRVVuZHJ2dHVjanlIaDhTTi1FdnNZeWZ1X2s2TzdpRml0WDNvT2F0MVU1MUR3LTNiaXVab1pUeE1TLURJMnI?oc=5>
-
-### 马斯克向特朗普账户捐款图谋 构筑政治护城河
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-10-22 12:39
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5pWS1XWUlPZ0JqQkhRWXFRQi10V1o3al8zTTZfZkEyNm5uek9CdmZBZmtCdUd2Zzd0UlVfeVIzc2RPUDdMTnY2aFhJTmRRQ0EwSE96RHRHTjVEYjdzZGx1WHpnNzZDbENyTkJFOEp2ZjE?oc=5>
-
-### 是否支持万斯接班？特朗普回应
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 京报网
-- 时间: 2026-10-22 04:51
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE9pamgzSWpZQ085dEZkb0JmM0dzQUlLc3hSN3JWS3VGbjRsNnRqTnNjVFZBZGVlbEZkVzhMc2YtMzVrcGZQdGsxOXpwZjdTVDQyam54SWppLUNoS1E3c0E?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMizgFBVV95cUxQdk9oLXJXSlBmdjczNkJEMW1iQ0pjdDQyalNBLWFiUHYzUUdTd3d4ZzNwOTk4TFM1YWJMSnZFQnAyMlYxWHJnU2tXX0ZhMUR1WVliMHpIcExWMDVGaXZwWi02eUlxWEVkeFdJWnZuQXd2cGd0MDZ3YklBdDl3U3NvMzJYYXAxRXd0bjhFMkZ4MjMwRHFUd2pPaS13ME1PSjJzcm5jWDc1R09uVmNYZzl0TXJOTTVVRFhXRkt6Z2J5eGhGb1lsUEVMVlphRkdQUQ?oc=5>
 
 ### Bubblemaps：Kimchi的TRUMP获利传闻未经核实，链上追踪仅发现约600万美元利润
 
@@ -61,12 +69,32 @@
 - 来源: `googlenews`
 - 场馆: TradingView
 - 时间: 2026-10-22 11:05
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE5JRkJZYmlvZld3Zm4zYjRXOHJESjZBSGx6V0I1bmZzSzE2Y1I3ZXFRTzl1MW9aWHJ4NXhOM0lGRW1oTEhRMXd3cE9qNmw3UXQxMHNPazZwQm1ZZi11V3lqQkZYNDJwdw?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE85d1h1UExXR25PNThNTTJ2M19sTHJObUE1VWphU1hzWERNWnl4ZUxzRE1xcXJreWNJbDZDSDZIR20wdnhCTWlHUkFpVHBLLUVYMF8weDFCUUtsX0k0ajVUX0RTajYydw?oc=5>
+
+### Trump Called Musk and Asked Him to Lift Ukraine Starlink Restrictions -- WSJ
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-10-22 17:59
+- 链接: <https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQmNwX2J5TjVtd2ZQb0xwb3NwT1h5RFhtZGJ6N25salZkTEg4Z1BWdHZyQ2dOcFQ3dUpLaFBGRmMzMkg2RGF6VF9XMHM3Wm9ILS1ZdVZITmJMV2VrNnlYS25nejJjd1pTNHo5M2FvcVBMdkhzejkxa3FSeVhTU0llRnZuTUpJR3lxYTZJQ2JSQzh6bTVyUENyem4zTXhnTDlGaDZwVW1yS20?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-22 18:23  (9 条)
+
+- **特朗普** | 白宫“期中考”经济牌反成选举包袱，特朗普支持率创新低 <https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDcWc1WklPSWRlTzRoNVdHeW01Y1JHS0J1bmx2R3A0QUpwaml0R05KZE1ZU2thaVNqZ1VURVF4Z3g0ZUJtd3VITFVnT2ROZFdLcnc?oc=5>
+- **特朗普** | 美国总统特朗普：勒布朗·詹姆斯在奏国歌时对我国不敬；他应当道歉。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE54ZUxLcGFBY094LUdmTm91MTFoYmI2VEZneXdVQlNoY291bGVZdzA4NkE1alA0b2pKSVZnbXhvazdiMHp3RGhKQ1E5QQ?oc=5>
+- **特朗普** | 特朗普准备打击跨境假冒加密货币 <https://news.google.com/rss/articles/CBMilwJBVV95cUxNUmIzeFNfb21reUNvSU0yNmlndnlvTWNQQ1RVNDBXR3A4UmF6Zk8yNWxvdGI2MElnUEp1bEZGYjNidEhILWxfNC1yNml1elhCcUhJNFhjcGl1c25yVmtpWTQzVmV2VnprYWp6SFhDY3JxUVo0TFNXVzkxM3VZTnVHVlg1VVZsWFVaOXBKMVVPWnBkaGdpMS01Y2p4TzNoUDdlMGpVeWVLeGtaT2ZiRHhGQ28xQlJuSTlaSnI4VW56c0FpUWpfOW5IM0dJRzJDdEhvMzRhWnIwdVZLVkdqVXZLMmJHaGFmNFVJX1dYQklnN0VnbXFtUVZjS0hHTW45Y19fZmROTVZ4elRCMnZDNHN3OHhlWmJKVnc?oc=5>
+- **特朗普** | 特朗普为何给内塔尼亚胡送“大礼” 助力选情升温 <https://news.google.com/rss/articles/CBMicEFVX3lxTFBOMTNfSFFkdVFybXBha3d1TmZ1M3pOYll2Y3U5U1dDVlhOVEhEWDBkc1laRnh4N0pMTzVHaXIySFZEMHE4X3FoUGtQb0hhUTJKb0c3UUFRYkJSLWlVakVXYTN3TDZUWWE2cWFhRE4yeUU?oc=5>
+- **特朗普** | 美媒：特朗普最后一刻公开支持内塔尼亚胡，民调显示其联盟距多数席位仍差13席 <https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jM3Z1ZGUtcDZmcUFQcTU5VHhqMWJxQjRQV3Y2cDFoNFlybGtvYUw0YlVFbDJvSjE0MVkxWTdIejNnTW1ESVB3NDRZWEpaek5VRFE?oc=5>
+- **特朗普** | 内塔尼亚胡被曝力推对伊朗进行新一轮大规模打击，但因特朗普反对搁置 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Xb0lodjN4Q0lOTHZ0MVIzVlpLRk93MzlYNTlZU2I5TGZWYVlxc01XWTRFQlFVZG01MkFLN3RERlQtR2xIMGZXM0hSVzRLZmQ1TXpZ?oc=5>
+- **特朗普** | 上任5天被解职，特朗普和他的发言人们 <https://news.google.com/rss/articles/CBMizgFBVV95cUxQdk9oLXJXSlBmdjczNkJEMW1iQ0pjdDQyalNBLWFiUHYzUUdTd3d4ZzNwOTk4TFM1YWJMSnZFQnAyMlYxWHJnU2tXX0ZhMUR1WVliMHpIcExWMDVGaXZwWi02eUlxWEVkeFdJWnZuQXd2cGd0MDZ3YklBdDl3U3NvMzJYYXAxRXd0bjhFMkZ4MjMwRHFUd2pPaS13ME1PSjJzcm5jWDc1R09uVmNYZzl0TXJOTTVVRFhXRkt6Z2J5eGhGb1lsUEVMVlphRkdQUQ?oc=5>
+- **Trump** | Bubblemaps：Kimchi的TRUMP获利传闻未经核实，链上追踪仅发现约600万美元利润 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE85d1h1UExXR25PNThNTTJ2M19sTHJObUE1VWphU1hzWERNWnl4ZUxzRE1xcXJreWNJbDZDSDZIR20wdnhCTWlHUkFpVHBLLUVYMF8weDFCUUtsX0k0ajVUX0RTajYydw?oc=5>
+- **Trump** | Trump Called Musk and Asked Him to Lift Ukraine Starlink Restrictions -- WSJ <https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQmNwX2J5TjVtd2ZQb0xwb3NwT1h5RFhtZGJ6N25salZkTEg4Z1BWdHZyQ2dOcFQ3dUpLaFBGRmMzMkg2RGF6VF9XMHM3Wm9ILS1ZdVZITmJMV2VrNnlYS25nejJjd1pTNHo5M2FvcVBMdkhzejkxa3FSeVhTU0llRnZuTUpJR3lxYTZJQ2JSQzh6bTVyUENyem4zTXhnTDlGaDZwVW1yS20?oc=5>
 
 ### 2026-10-22 13:58  (7 条)
 
