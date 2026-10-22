@@ -1,88 +1,132 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-22 02:51**
-- 本轮扫到 14284 条, 新增 **9** 条
+- 最近更新: **2026-10-22 08:12**
+- 本轮扫到 14297 条, 新增 **13** 条
 
 ---
 
-## 本轮新发现 (9 条)
+## 本轮新发现 (13 条)
 
-### 乌克兰使用“星盾”系统遭限速，特朗普最新表态称“与他无关”：我不知道是谁做的，但我没有参与其中
+### 中国国家旅游发布了王一博万物可爱
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-10-22 02:11
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9vZFF4dTVpaTRCc1J4UXFHcWJvZS1NbE5qd2ZuaElWT3Yta0tIdTRWZjlzdGVhSHhpTk44NHd0cGpPOC1tckRpcXJPV3dXbXhUTkhrelB5UDVhMEFhU0hkWnp4VHB2YTVIbDd6d0E0Ql9adVhGb1lKYw?oc=5>
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7785517961_m1d00d9389033017y9g.html>
 
-### 特朗普试图撒钱拯救中期选举
+### 社会心理学视角深度解析肖战南京演唱会二开
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-10-21 07:22
-- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxPakk2Q2g3ZXlXMHBFeUN5UnRkWng4dWFDdEEweDg5UnFVRF8wZnJBS2VlSXl6czFnRTU0S2lZWXRvQ1VOS0tfRHFuOFp3M2Z6UTRteE4xMTljbXc5cUlYYWhHOGJxcEpDcGxWa3I2RXc0WW1oZXE5OGlBbUtSdi1hUzFQZmRTSkFkcjdfTndqNGtJX3Z0Y0NBaVpIRTcwRzBBNU50OWttMWVGeG9IMmFxRnZtbHA3b01KRzk0ZWNBSXI1SWZoWWp4eVhvLU1XYWJwLURDQkg3YWh3eHBEX0E?oc=5>
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002tdfa.html>
 
-### 特朗普投入超4亿美元力挺共和党 巨资助选引发关注
+### 批评特朗普？泽连斯基遭美总统特使“斥责”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-10-22 02:04
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9mbGdWNWluWXR2SFBmeDl3RjI4VUQ0QkNBYy1CUVhFVDFBWjQzOHUwM2hRTmZhUHFDbkN5aWhXYzlVUmE1NU8tRG1aZjJPZy1kZllTZWMwZV8xWmhBaElvNVlKLU5LSWZTTUkwSEo4S0I?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-10-22 04:55
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE1PY3d3RnMyYkFzZ3lmcU40UVNzeWRkV2FhUGpUTFRwMDhWYks3dnlLcnN4LVlfanVXaTMwZFhVVFI1T3hkalBUTnQyTU5kNG5yTVB4QVcxUVVkQW00RFFBTlBQWm9Ba243QTZueC1qcjlVamd4?oc=5>
 
-### 默茨找补：对华政策，我们跟特朗普不一样
+### 知情人士：马斯克与特朗普电话讨论后，提议降低“星盾”运行速度
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-10-22 06:50
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE1YUHlzXzktVXdaanJzUUR0a2RueGE4aGJYalNhZHpyN0EzejB1cWpneTdGQjJnWVEzS0FSTnZUaS1jM3ZMQ1ZXRUtHRDBPcWFtQUJzYTZuRTYxc09ZdllJT3ViOThmYUpZSTR5RGVtbm5Ndw?oc=5>
+
+### 加拿大前高官：中方明白，就让特朗普错下去
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 观察者网
-- 时间: 2026-10-21 23:25
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5wOXdDZERIYmg3YkhicE01a3VZblNfLWw5UjczYUtBUXJ3cG90MUhkVmNwSllGVWFTUnRSNkczQ19YT1BLVDZBcmphazhuRjVySFp0VGVldVVMN2J1NFh5T1BIdHVNcm81aURoQlJWTjZQYjA?oc=5>
+- 时间: 2026-10-22 00:48
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE9RQnZvVEoyTEhxSUFPU2lnVXRFUlBvWmxjTHQ2cjl6STljcG1XcEhPc0JCUDhsWW81cng5VU5STkdJSmJYc3hmaGVsRUV5dGVoOGg3ZVZpanZzTnA4S3hfTEdDRDF6MFNsVm1yeE1HQXN3aEE?oc=5>
 
-### 深圳APEC前夕的较量：中美投资谈判或拟名单
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: DW.com
-- 时间: 2026-10-21 14:53
-- 链接: <https://news.google.com/rss/articles/CBMimgJBVV95cUxQLVhuUVp1TzQ1bmhaMEZVb3ltSnpKN0I0S2hVd2t2YUFaTVN6LVlqTW15dU5nb0drZnNRM3dBVDRzdUpQY2tnbFlvSHphSWt3U3NTTHZ0LW5pVUR4ajlQOWVtYzVUYTdXWHV3UW9ERDhGcUxrWms1a3hfZDhuYWhIdXdIODU2TE8zWGZDWU1odWE3dnRYUVZEQmp3OGVxdGo2MnNxakFkWXhhQWE0Ti0yUDlFQ19lSUJiVDRFRXdGREpQdGdOR0Rual8zaWlQVkVPd2syakdacGZ6OUtiaW1aMXpzWHVfZi12V2Fua2xxbFVneWNlZWhGMnhYWXV2bVZCcDNKOXY4YVNzeTZGY3YzUnZqdUZOSDl5bXfSAZoCQVVfeXFMTkp0eDdwSXBuWnYweVR0andNT0NSWDdsTWZMY1FKcjlOY05zSEJDNGhtRlVsbF9zNE8zLTJVTmI1U1VGWlhSUjZuZndGb3p6NGtuMHB0MzB5VnZKc0ZVUGRyN0R1TFQtWmRjNmc1djAyN1VPU2ZCQ3hnWDJQcWF5TDZEQ3ZGQWQ1SUIzWGxOQlEtNHRycU52WnNIZEV1ckVFWVlZTjRhSWdWdTd3STJ4TTlmTTBHOV9RejRMN29tN0tFZkotVHRZbDhaZmw1MTJfWEYxNC1xamFiMzdFRlZONFNUZWRrLVJSbXlDV056ZEs5WkVoaEVUcV9TNHRsdUc4Z3lmY2VLWDFNeFB6VzJ0d19DQWF2a3lQUnpB?oc=5>
-
-### 马克龙暗批特朗普拿法国当竞选工具 利用虚假信息
+### 外媒：特朗普称美国目前未与伊朗谈判，但“很快”会发生“某些事情”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-10-22 00:31
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1GTTdpeE1oRHB2dFRxbGI1NnZjTjRkT0NGLUhjX1FGd05rRlN3LXRwLWh3bEd3dGw3bi1nN2l1NElEUWdoR0F5c045cUFRSlpjNWZfckc0bTAtR2NwcVd3NENtMVo4QTA3MEtsSGdMeEM?oc=5>
+- 场馆: 环球网
+- 时间: 2026-10-21 15:23
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE13d0ZGWWl0cHNIQXN2WnFwSVJTcEdLcWRpLTFqMk9qeTRUM0Y0aUthVEQ5RERERENIcWdVMWRUSG9vRXBnSUEzcFRka0xvaExPcEtLdVZHdms?oc=5>
 
-### 特朗普中选前再出招压油价：美国拟出借三分之一取暖油储备
+### 外媒：特朗普称美国目前未与伊朗谈判，但“很快”会发生“某些事情”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-10-21 17:45
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ZdnBzSHU1WmRyS0lkbFF3Yk9UeVVUT3FBdUlBeWlYU0VFNFhtaVBMcTF2U09NNjRNNlVhZ3ZnY1hGSFBiby1JeFZOZHdmXy1NTEcw?oc=5>
+- 场馆: 手机新浪网
+- 时间: 2026-10-22 06:29
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE90TVZtd3FLY3dZUFRmelNiSW95TXdNUGU3Y3E4cTRFcHVvMml3QTFqa2MzVVJpeFFkZEIxNHJRT1dITGNXSUV6cDk2Zw?oc=5>
 
-### 特朗普治下，美国经济的真实表现如何？
+### 伊朗高官：拖延对美谈判，故意让特朗普中期选举不好过
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者网
+- 时间: 2026-10-20 13:32
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1kVjV5UTNRY0phNk5NejFjZ2p1UEVOLXNObFdGRGgtUW10Z1gwdllzMTByQzFBRFF3SV85bXI1WmJBbENZb21rOHF6akcwLTJESGdBZnNyanNhLVRhQ0tOS0I0QUJQenZSSmJvZjVkdV9zRUk?oc=5>
+
+### 马克龙“点名”特朗普
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-10-22 04:16
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTFBTdVpxRkR1N0xDSC0zMGx6RGJxa0FFaTNGX3VJYkpoTTVNYlBLbnFXY1M5aV9DazUtaFgzekZ2VXViVS1lUFVfb0VzZFpHOXZjQUxJT3ctR3BTb0U5alFoNGctaWJuR01fRkFiVW5rQ2hLeDhhZUE?oc=5>
+
+### 环球网：马克龙点名抨击特朗普
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: finance.sina.com.cn
+- 时间: 2026-10-22 04:30
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE1tT3kwVXQ0ZkhlSUYxTWZVTUxOTDVnUkV2MzdOdGtTSXBsZ2dITXdoU3dvSjFGQ3ZWZzhNak9WSTZFSEhNVUxoTVZoSk9hcHNiRmlteVI4a2pyRnppZmpiMWpBNEFuLXNWSGNZemF4M0kwQQ?oc=5>
+
+### 信强、唐湘龙、陈凤馨：恐丢参议院、大家齐甩锅：特朗普、共和党都急了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者网
+- 时间: 2026-10-22 05:02
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFB0OUJZSUJDVnlMdUdKUlRGWkx2S194ZV9veGlEVFItdnhwTFR1OU1QR0ZOYXpVdGM0SUVCTXZSbWVqQU1NcmlwV2hEOWFUbUttV2s2eTRXUEw0enA2eVBxZ3dpSUw0UQ?oc=5>
+
+### 民调显示，中期选举两周前特朗普支持率跌至新低
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 纽约时报中文网
+- 时间: 2026-10-22 03:07
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE1jZ0Zmd2RPY2tIMlZMR3oxS05ZZ0s2dWtUNXJUZG11TlpsSVpvYUZDYWgtUEh1cU5uYkxPR3VnZ01aWGRUTEQ5eEt5NWFDd1Z3VG5KaDNpM2tlOUhhb3MtZXJPU2dlZC0ydTcyb3pyM18tdw?oc=5>
+
+### 今天油价又创新高，特朗普最喜欢通货膨胀！战争！关税！再次让美国伟大Make American Great Again (MAGA)
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-10-22 00:39
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Ud1JzeGNveUlHTllibXUzVGl6WUQ2UXlNYUI5eUg3RFdGSHEwMldad0h3d1dlRWxLaElZTV9ocFBkZXF4dnFwemVuV2FqQnlkRWl3akJVM2xGdEk3LWwxRERrN1EwZWvSAWxBVV95cUxQanF3TU54TThPV1lIRVJpLTNkSGVGdXBNSWFyNFdXcDNTc0s0aTgtYzF2Nm51czBuX2R5b0lEVHQtQW83TldNTzBYR3FmdEs3VlgzTVBxRElRUU1uY0tYMkk1eGhLV3JzRjJTZjY?oc=5>
-
-### 特朗普称将要求大型数据中心自行供电
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-10-22 00:31
-- 链接: <https://news.google.com/rss/articles/CBMimwFBVV95cUxOY0lteUtGN0dYUjFadldkVXBGMTdHSW9KVUFKaDQwaVRYaFltYzh0OU9EcVp4QzlDQUhvOWxLQWZ0Z082OXpEOTYyRXRUOGJxYUZtMG1Uemg4N0RhaFJLYzNhX2l3M0ZLWkQ5clBoLWg2TlhaQXdsU1JXNm5tSW5KLVpYdlhKU3F3Tm1zU29rckNaSkU1S2xqbDZKYw?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-10-22 07:49
+- 链接: <https://news.google.com/rss/articles/CBMipAFBVV95cUxPR0dXWWp0blFqdko2LW9GaHhmSGJ0b1p2MkNaTUxKd2JsRDIyMUo4Yk0wRm9uTm9wNERpLTE2UTAwSGVIOTNScldiemNwZXA5dXpRLTVSUlVoZ3Z3LXRjZHkzV0d5TXB3ZUJEaW4wdDJvWXU4d2RfRU9KSFRyalkwRDB0Wl85ekN1ZzR1UnhHM2l2aHRpWjg1dEEyQVZIZF96NnBKdw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-22 08:12  (13 条)
+
+- **王一博** | 中国国家旅游发布了王一博万物可爱 <https://k.sina.com.cn/article_7785517961_m1d00d9389033017y9g.html>
+- **王一博** | 社会心理学视角深度解析肖战南京演唱会二开 <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002tdfa.html>
+- **特朗普** | 批评特朗普？泽连斯基遭美总统特使“斥责” <https://news.google.com/rss/articles/CBMidEFVX3lxTE1PY3d3RnMyYkFzZ3lmcU40UVNzeWRkV2FhUGpUTFRwMDhWYks3dnlLcnN4LVlfanVXaTMwZFhVVFI1T3hkalBUTnQyTU5kNG5yTVB4QVcxUVVkQW00RFFBTlBQWm9Ba243QTZueC1qcjlVamd4?oc=5>
+- **特朗普** | 知情人士：马斯克与特朗普电话讨论后，提议降低“星盾”运行速度 <https://news.google.com/rss/articles/CBMickFVX3lxTE1YUHlzXzktVXdaanJzUUR0a2RueGE4aGJYalNhZHpyN0EzejB1cWpneTdGQjJnWVEzS0FSTnZUaS1jM3ZMQ1ZXRUtHRDBPcWFtQUJzYTZuRTYxc09ZdllJT3ViOThmYUpZSTR5RGVtbm5Ndw?oc=5>
+- **特朗普** | 加拿大前高官：中方明白，就让特朗普错下去 <https://news.google.com/rss/articles/CBMic0FVX3lxTE9RQnZvVEoyTEhxSUFPU2lnVXRFUlBvWmxjTHQ2cjl6STljcG1XcEhPc0JCUDhsWW81cng5VU5STkdJSmJYc3hmaGVsRUV5dGVoOGg3ZVZpanZzTnA4S3hfTEdDRDF6MFNsVm1yeE1HQXN3aEE?oc=5>
+- **特朗普** | 外媒：特朗普称美国目前未与伊朗谈判，但“很快”会发生“某些事情” <https://news.google.com/rss/articles/CBMiWEFVX3lxTE13d0ZGWWl0cHNIQXN2WnFwSVJTcEdLcWRpLTFqMk9qeTRUM0Y0aUthVEQ5RERERENIcWdVMWRUSG9vRXBnSUEzcFRka0xvaExPcEtLdVZHdms?oc=5>
+- **特朗普** | 外媒：特朗普称美国目前未与伊朗谈判，但“很快”会发生“某些事情” <https://news.google.com/rss/articles/CBMiS0FVX3lxTE90TVZtd3FLY3dZUFRmelNiSW95TXdNUGU3Y3E4cTRFcHVvMml3QTFqa2MzVVJpeFFkZEIxNHJRT1dITGNXSUV6cDk2Zw?oc=5>
+- **特朗普** | 伊朗高官：拖延对美谈判，故意让特朗普中期选举不好过 <https://news.google.com/rss/articles/CBMic0FVX3lxTE1kVjV5UTNRY0phNk5NejFjZ2p1UEVOLXNObFdGRGgtUW10Z1gwdllzMTByQzFBRFF3SV85bXI1WmJBbENZb21rOHF6akcwLTJESGdBZnNyanNhLVRhQ0tOS0I0QUJQenZSSmJvZjVkdV9zRUk?oc=5>
+- **特朗普** | 马克龙“点名”特朗普 <https://news.google.com/rss/articles/CBMidkFVX3lxTFBTdVpxRkR1N0xDSC0zMGx6RGJxa0FFaTNGX3VJYkpoTTVNYlBLbnFXY1M5aV9DazUtaFgzekZ2VXViVS1lUFVfb0VzZFpHOXZjQUxJT3ctR3BTb0U5alFoNGctaWJuR01fRkFiVW5rQ2hLeDhhZUE?oc=5>
+- **特朗普** | 环球网：马克龙点名抨击特朗普 <https://news.google.com/rss/articles/CBMickFVX3lxTE1tT3kwVXQ0ZkhlSUYxTWZVTUxOTDVnUkV2MzdOdGtTSXBsZ2dITXdoU3dvSjFGQ3ZWZzhNak9WSTZFSEhNVUxoTVZoSk9hcHNiRmlteVI4a2pyRnppZmpiMWpBNEFuLXNWSGNZemF4M0kwQQ?oc=5>
+- **特朗普** | 信强、唐湘龙、陈凤馨：恐丢参议院、大家齐甩锅：特朗普、共和党都急了 <https://news.google.com/rss/articles/CBMiZkFVX3lxTFB0OUJZSUJDVnlMdUdKUlRGWkx2S194ZV9veGlEVFItdnhwTFR1OU1QR0ZOYXpVdGM0SUVCTXZSbWVqQU1NcmlwV2hEOWFUbUttV2s2eTRXUEw0enA2eVBxZ3dpSUw0UQ?oc=5>
+- **特朗普** | 民调显示，中期选举两周前特朗普支持率跌至新低 <https://news.google.com/rss/articles/CBMickFVX3lxTE1jZ0Zmd2RPY2tIMlZMR3oxS05ZZ0s2dWtUNXJUZG11TlpsSVpvYUZDYWgtUEh1cU5uYkxPR3VnZ01aWGRUTEQ5eEt5NWFDd1Z3VG5KaDNpM2tlOUhhb3MtZXJPU2dlZC0ydTcyb3pyM18tdw?oc=5>
+- **Trump** | 今天油价又创新高，特朗普最喜欢通货膨胀！战争！关税！再次让美国伟大Make American Great Again (MAGA) <https://news.google.com/rss/articles/CBMipAFBVV95cUxPR0dXWWp0blFqdko2LW9GaHhmSGJ0b1p2MkNaTUxKd2JsRDIyMUo4Yk0wRm9uTm9wNERpLTE2UTAwSGVIOTNScldiemNwZXA5dXpRLTVSUlVoZ3Z3LXRjZHkzV0d5TXB3ZUJEaW4wdDJvWXU4d2RfRU9KSFRyalkwRDB0Wl85ekN1ZzR1UnhHM2l2aHRpWjg1dEEyQVZIZF96NnBKdw?oc=5>
 
 ### 2026-10-22 02:51  (9 条)
 
