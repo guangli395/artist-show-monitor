@@ -1,108 +1,103 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-23 05:08**
-- 本轮扫到 14344 条, 新增 **12** 条
+- 最近更新: **2026-10-23 10:20**
+- 本轮扫到 14354 条, 新增 **10** 条
 
 ---
 
-## 本轮新发现 (12 条)
+## 本轮新发现 (10 条)
 
-### vivo X500系列的2亿蔡司长焦拍演唱会山顶位置真的能拍清吗？
+### 肖战演唱会现场有其他明星现身吗？嘉宾传闻与应援情况梳理
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068017uuo.html>
+
+### 《看见豹之地·寻护者第二季》在京发布 蚂蚁森林携手野生救援呼吁保护华北豹
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://finance.sina.com.cn/tjhz/2026-10-23/doc-iniweywu2646265.shtml>
+
+### 人生第一次演唱会，中登的倔强，周杰伦
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880069140_1d5b05014068051sae.html>
+- 链接: <https://k.sina.com.cn/article_7879923551_m1d5ae175f03301t6oi.html>
 
-### 上次青岛周杰伦演唱会，用vivox500拍的视频
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924057_m1d5ae195903301qbdu.html>
-
-### 泽连斯基称与特朗普无私人恩怨 同时警告解除制裁只会增强普京实力 并释放停火信号
+### 特朗普，为什么这么爱改名？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-10-23 00:46
-- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkTVZmTjE4clpzaTVMQ1U3eEdJXzFrYU5FWUxwLXBxdlVKUWRTSmNIeklJbDJrT08wZkxvUVpja2J4aDROU3ByTDF3dFduazhvTmc?oc=5>
+- 时间: 2026-10-23 08:37
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBJMjBwbFl2RXNqc1Zha3BJd0xFcnZkTE01OXF3VmhhNE9NakdjdHkweVQ0VUVpRVJVTTNDd0Z1ME1XOFl6bmFycnltOU8?oc=5>
 
-### 特朗普抨击NBA球星詹姆斯“不尊重”美国国歌，外媒：二人长期不和
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-23 02:22
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE4yU29kWHRQVDhkMW5WWm9xNGViRDV2cnltd0RJRDhUMHlKMGotTjZrZWhIQzg1TEhiM3lWVmpYZnUxUUd4NTZ5aFFxbmQ?oc=5>
-
-### 特朗普指责NBA球星詹姆斯不尊重美国，国歌奏响时还在练习高尔夫挥杆：“我从一开始就说过他不行，简直是个耻辱”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-10-23 01:37
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE8zdzRVU2M5WTdLZGdmZGF4emVSc2VXREtaTVNiM25xdDMtM1k2ZUw0dzNtNklNUEFUODZwT0NSeFpfOFUzTVlhMnJZR2VTZFc4SVh3UFpZQlkyYU1KRTlEVndyc0pYeVZWcG1tZnh4LXJQS3BUbGN2TQ?oc=5>
-
-### 特朗普怒斥詹姆斯：道歉
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-10-23 04:09
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5kOFY3bW9lV1R6NkllTjMxUnVqQmpvX0lWVjVpQTBLWmxjdmdjUTdMZTVtR1NDMmY3dTdtT3U1WEZXUlgtSUNrMzBTclBvWGJEa09HcWxBOElVMFdJUjJqdFhIRlZrZl9kSVAzUmdVblJlbmRURWV0Mw?oc=5>
-
-### 民调：中期选举两周前，特朗普支持率跌至新低
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-10-23 03:18
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5qVk1kSmFQaVRCUzd3UF9CQ2JwOHRKNlE0eUJlNVo4WlFuYmQ2Q1UyMHNwWmFpaTJUSlpUWm9NVVBFU2tqWjBjSFNPNy1rT1B2UUtoZFJxb1lDYWhQZHRRWnVWb0NIMkNwckcwWVlHckhzT2pUOFltTA?oc=5>
-
-### 中期选举前特朗普邀主教们为他祈祷 选情焦虑显现
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-10-23 04:00
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE84ZTJYTVlmc0ZaMFllT21FVmhSaTRURmlaT1BIOHl4TW1zZllhTzcwQllrYzBWRDM2cjlhMkpIVXU2UHlwXzJIeExVeFFOdWhLamVJWi04NmtMdHRFWjBLNGdMUUhGMTJYdnNzbDlscXY?oc=5>
-
-### 威胁在竞选集会上刺杀特朗普 美国堪萨斯男子遭逮捕
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-10-20 20:36
-- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTFBjTXlCUGkxc0MyMHBlTjdqTGVkUWVfeEtqTzc1LVVIYUJkSFdEaXc1ZnA1c1FSTkJteWdvdDJnZllMS1ZEWV9PUmwwOG1qM0hyUGZSTnVqYS1rc2g1Q0pCZTdJNzJqM29iRFd6RVFQRW1weUhUT0hrV21R?oc=5>
-
-### 法官警告：若不配合程序，特朗普对BBC百亿诉讼或被驳
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-23 02:39
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE91ZXZTWWxJYlhQMVJCcXpBNVFMRWM5LWdUcVYxbDZFRkcwbFI2QlZaRWoybG9oODl4UEsyeTlCSEFlVTlXRmQwSVc1NDk?oc=5>
-
-### 美媒：特朗普要求马斯克解除对乌克兰“星链”限制
+### 深读丨为什么特朗普爱改名？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新华网
-- 时间: 2026-10-22 22:05
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBCSTlfX285c3BoLThoQ1dIQm1NX0NmZnk2dmpkNXdOdWJjQXAyeUswdnk2ejFHRkJjRjFhYkozREVEU3pzekVodjFEQ08xYThCZ0twYlRmb1E2MnlzSXc3S2NjZ0JZemRzcXJJc3R0WWI4Z2ltSi12ekl6SVl2WWc?oc=5>
+- 时间: 2026-10-23 08:51
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFA5bWhIN0dMQ0x1dFpfWWdkS0FlRlBpZ3NjMEs2UEduMGFKUGNjM3pRT0RaQnRWUkJQNVM5OHB6akRiZ1NsTFMyUF9hdS13ZzVmZlRDcUltUjFxc3ZXWDgwb2ZabDMtVlJZVjFsSmZQX2pwcXF3OElBa1ZnS2MteTQ?oc=5>
 
-### 特朗普诉BBC诽谤案：法官下令总统须宣誓并答问作证
+### 400多年又如何？特朗普瞄准了下一个目标
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: QQ News
+- 时间: 2026-10-21 04:20
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1ubGVlSndsWHlnSHd5NXJtVzdMZXJRMmpBTDVuVUd5X0FBcXppX1I4eXRNaFRtUGFEM1pZUUNZTlloYWVrT0tfb2dYcVdqaUZfMUYtUDZtVWdLc2RSdWVHeDNmNk90aUFVbzBJdXpWUWFDM3djbFI5MQ?oc=5>
+
+### 美官员称特朗普要求马斯克解除对乌克兰“星链”限制
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中国日报网
+- 时间: 2026-10-22 23:53
+- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE4tOWZ5eVE2MVVTWkpDTEo4Sm5KTXI3amtheDVQN1NxVWlOemVVOGs5WVNHdVlyVWR4TnZNSmRGSmpOZVVQNWNtZFJ2YW1EWVM1enFGbWg2VDlRVkV6TXRfUE5FVDdKSF8wRUFHZHBQRkdKVzN4OUhLREsyNVE?oc=5>
+
+### 特朗普致电马斯克表达不满
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者网
+- 时间: 2026-10-23 04:51
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1iZy05bmdVUzJWdDl5emk1Y3FaWmpTdjRiN1NabVEwMjNfSW9FejJESkxTZWlKdEN3MjA1NEdQdDlQaFdnbjJCUGQwZW5OMUl6QTlfSFEyanp0S3ZKS3kyVWQtNFMxcld4b0tBdlctOWI4Tm8?oc=5>
+
+### 特朗普再度威胁对伊朗采取军事行动：已经狠狠打击了他们，可能还会进一步升级
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-10-22 21:16
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxQaF9iRldHazJoam9MMjR3anB3NkxCR21Henk1MzU4YW9mM1I5amNrZ1piUjZvMGNRWDUxZ1pHWTRDeXZIeG0yR2JyWDU1alpMM3VWelNkdnJxUVRmYURvYkN2XzVqQ0cyMk1vNU1rZEh2R0pLdE5EcEpSdnFQVm5LZU9wOHlTalU?oc=5>
+
+### 普京的“棋局”：重塑美俄关系而无需作出任何让步
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-10-23 01:52
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oTmtJQzN1ckJqelZfN1FKclhEdmpSb3paM2JWQWNKVUxzLUg1ZlZNZVJpc2M5bHg3MHBDdG45OVJ0N2MwYXJzZ0lTeW1LSTI5UlExZDhORzc1ZzI5ZWZKcWlhNnZvTW_SAWxBVV95cUxPM0x4c1lJa3UxazZzZjhWVmZ0VElMY25nZWZKYzRSRld2WUd4Rl92Mnl3dGQxd01IVDBEUjM0SlY2U2FsdVp6M0JvMDhkNWtJR05CZmZRSFRDV2o1SHZZNGpNVXNfT1ZiU3M5S3A?oc=5>
+- 场馆: 纽约时报中文网
+- 时间: 2026-10-23 04:19
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE13dDB4ai05Z1haNXFnWnZINTRqZ1hnaHc0TWczX1ZNdk9xb1RJb0pqVVYtMENsVG5RbjFlQ2hMN3FpN01hTWcyUjJjdmRQVzNBck9zT2o0S3FMMVFSbjdaZmkxRnlydi1uQUxtRkk2WQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-23 10:20  (10 条)
+
+- **王一博** | 肖战演唱会现场有其他明星现身吗？嘉宾传闻与应援情况梳理 <https://k.sina.com.cn/article_7879776356_1d5abd864068017uuo.html>
+- **王一博** | 《看见豹之地·寻护者第二季》在京发布 蚂蚁森林携手野生救援呼吁保护华北豹 <https://finance.sina.com.cn/tjhz/2026-10-23/doc-iniweywu2646265.shtml>
+- **周杰伦** | 人生第一次演唱会，中登的倔强，周杰伦 <https://k.sina.com.cn/article_7879923551_m1d5ae175f03301t6oi.html>
+- **特朗普** | 特朗普，为什么这么爱改名？ <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBJMjBwbFl2RXNqc1Zha3BJd0xFcnZkTE01OXF3VmhhNE9NakdjdHkweVQ0VUVpRVJVTTNDd0Z1ME1XOFl6bmFycnltOU8?oc=5>
+- **特朗普** | 深读丨为什么特朗普爱改名？ <https://news.google.com/rss/articles/CBMif0FVX3lxTFA5bWhIN0dMQ0x1dFpfWWdkS0FlRlBpZ3NjMEs2UEduMGFKUGNjM3pRT0RaQnRWUkJQNVM5OHB6akRiZ1NsTFMyUF9hdS13ZzVmZlRDcUltUjFxc3ZXWDgwb2ZabDMtVlJZVjFsSmZQX2pwcXF3OElBa1ZnS2MteTQ?oc=5>
+- **特朗普** | 400多年又如何？特朗普瞄准了下一个目标 <https://news.google.com/rss/articles/CBMieEFVX3lxTE1ubGVlSndsWHlnSHd5NXJtVzdMZXJRMmpBTDVuVUd5X0FBcXppX1I4eXRNaFRtUGFEM1pZUUNZTlloYWVrT0tfb2dYcVdqaUZfMUYtUDZtVWdLc2RSdWVHeDNmNk90aUFVbzBJdXpWUWFDM3djbFI5MQ?oc=5>
+- **特朗普** | 美官员称特朗普要求马斯克解除对乌克兰“星链”限制 <https://news.google.com/rss/articles/CBMifEFVX3lxTE4tOWZ5eVE2MVVTWkpDTEo4Sm5KTXI3amtheDVQN1NxVWlOemVVOGs5WVNHdVlyVWR4TnZNSmRGSmpOZVVQNWNtZFJ2YW1EWVM1enFGbWg2VDlRVkV6TXRfUE5FVDdKSF8wRUFHZHBQRkdKVzN4OUhLREsyNVE?oc=5>
+- **特朗普** | 特朗普致电马斯克表达不满 <https://news.google.com/rss/articles/CBMic0FVX3lxTE1iZy05bmdVUzJWdDl5emk1Y3FaWmpTdjRiN1NabVEwMjNfSW9FejJESkxTZWlKdEN3MjA1NEdQdDlQaFdnbjJCUGQwZW5OMUl6QTlfSFEyanp0S3ZKS3kyVWQtNFMxcld4b0tBdlctOWI4Tm8?oc=5>
+- **特朗普** | 特朗普再度威胁对伊朗采取军事行动：已经狠狠打击了他们，可能还会进一步升级 <https://news.google.com/rss/articles/CBMihwFBVV95cUxQaF9iRldHazJoam9MMjR3anB3NkxCR21Henk1MzU4YW9mM1I5amNrZ1piUjZvMGNRWDUxZ1pHWTRDeXZIeG0yR2JyWDU1alpMM3VWelNkdnJxUVRmYURvYkN2XzVqQ0cyMk1vNU1rZEh2R0pLdE5EcEpSdnFQVm5LZU9wOHlTalU?oc=5>
+- **Trump** | 普京的“棋局”：重塑美俄关系而无需作出任何让步 <https://news.google.com/rss/articles/CBMib0FVX3lxTE13dDB4ai05Z1haNXFnWnZINTRqZ1hnaHc0TWczX1ZNdk9xb1RJb0pqVVYtMENsVG5RbjFlQ2hMN3FpN01hTWcyUjJjdmRQVzNBck9zT2o0S3FMMVFSbjdaZmkxRnlydi1uQUxtRkk2WQ?oc=5>
 
 ### 2026-10-23 05:08  (12 条)
 
