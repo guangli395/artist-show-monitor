@@ -1,78 +1,80 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-23 15:19**
-- 本轮扫到 14362 条, 新增 **8** 条
+- 最近更新: **2026-10-23 19:25**
+- 本轮扫到 14369 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (7 条)
 
-### vivo X500 Pro Max拍演唱会远摄效果真的好吗？
+### 肖战演唱会大屏同时出现肖战和王一博歌名
 
-- 艺人/关键词: **周杰伦**
+- 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776483_1d5abd8e3068028d9u.html>
+- 链接: <https://k.sina.com.cn/article_5601456932_14ddf732404002krh4.html>
+
+### 为助力缅因州参议员，特朗普拟取消部分加拿大商品50%关税
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-10-23 17:54
+- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRXpybktpYnZFNXZMcXpnZkRDSkpTa0dqb0gzS25aVnRWeWRNUkNWcVNRcU5JdmhtZXNmWG5Fcy14UnpPdC1lZU56T0RoVVRDMnRfWUhleXZsN0tOUkpXRjBPUTdoNFE4ZDJyamR0VDB2UzJTNFVnX3FYMUh2ODRVZU1TOU8wLUZpQ3QyVXd2ZnBUVmptRDJqZ3JnbUh4RnRVcnpia0tlczF1NWpkamt1TW5hZkFQeVlmZi00Q1ZaYTJFZllhSXVaTzZCYmlOVkVaazlqUmN5QkJ4Qkc2X1E?oc=5>
+
+### 特朗普一通电话要求马斯克解除对乌星链限速，乌军通信随后部分恢复
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-10-23 17:37
+- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxQRFhyU01icjhJZnctcFlsTWNTT3dLUzR2RE5xcHptVDN4YU0zQlFkQnByTlB0elY2Y2EyX09wUV9RU0pDYUFOcUtYVnM1REkyRTI0aV9fVVZWc3JlWHRSOWdDUWMtLUpRMW91WDFDQmUyaWdyT01OZ2wxWkR3QkNtTmx2QmgzSGFSUGc?oc=5>
+
+### 特朗普谈到法国骚乱没忍住笑：还有人想去法国吗？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-10-23 10:05
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9Camp5T2RTQ0s2WmFDcFdmQkJiSzF6VmZaZ2Ntd1llTGtsWUZHRHlMVlNrbkdfQVQyWjlkTU56X3dYU3NUWWN0VUlBTlk?oc=5>
+
+### 特朗普赶赴“深红州”拉票，美农民：问题出在经济上
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中国青年网
+- 时间: 2026-10-23 09:13
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4tLWpPaFRvRHN0LUxlNWhCSkxQb0lhYkd0UVJZdzQydUJyNXVhdTZvU3FlQnRaa1FhN005SXZUSVJxYzBpM1lQZHdWazl0MDF2T0puaDBLUUxzdHROcVlLdXlNTGVEZ28?oc=5>
 
 ### 比起特朗普，美国年轻人更喜欢美式“社会主义”？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-23 13:38
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBITENpMEowWHdoTjdlSTRWTUZOMG1ncWxGWDl1WHVSNERuUWtEbjNVSlppMEhIYjk1YU40emg0WUxlYVZLcDJjR0FuYlI?oc=5>
-
-### “简直是耻辱！”特朗普痛批NBA球星詹姆斯不尊重国歌
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
 - 场馆: 观察者网
-- 时间: 2026-10-23 03:23
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFBraldxVEphM1pWM1FfYjlMUF8zZzlqVlp4Wlg1Z0ZxMXprX0FLZms0X0RnQmtTRFpnOFV3RXpXck5nR1lrdTBENHJlbkU3TEVWRlZrWEowSFViMmxjRl9BaGpiVFdLaGQ3dU5tVXd4Rm5yY1E?oc=5>
+- 时间: 2026-10-23 11:23
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE9uVVlQZVdnRDlhX2tJSmZrR1dxcXoxOVpxWWhOcVBuZk85Mk9xYzJFWW9iS0lIR2tJSlY1WVFtbTNYQUd1a2YzeXN2WUJtZERDM2JHYnJrMFRkUjJRWThDMXhWQm4xc3B4UWVEQkdjck1rcEE?oc=5>
 
-### 特朗普发文批评詹姆斯赛前挥杆，称其不尊重国家|特朗普|詹姆斯|76 人|尼克斯|NBA_新浪新闻
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-10-23 13:13
-- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTE05WW94Y0tiZmN3SmhsR25kd3BqNFVNOXRVUG1EZVVyTnpGYTFRT2poMkNHeWJRSGRRQVFWVjdtMFJqd05FS2EyTmk1MWJIN01LSnpzc1BZWTdXamdjYk1TeWhCRQ?oc=5>
-
-### 泽连斯基：和特朗普之间没有个人恩怨，强调非私人问题
+### 补贴农民、松绑俄柴油、催欧洲放储备…特朗普“多管齐下”仍难压住柴油价
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-10-23 14:19
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFAzNDY0cmpPZDlxNzljVTcxU3Q4d0NsX3hvcWc2eVZDNVpXMENMLUM1c2xtOWtlX2NkVWF5OGFWVEcxU2pXWVRVUzY0WXFudGxVdGc2UDhFMks2MHNHSWdSNHljd0RNblRhYWhxb3JNU3I?oc=5>
-
-### 美国法官警告：若不配合程序，特朗普对BBC百亿诉讼或被驳
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-10-23 02:39
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5FM2VYdlUxWGZXZG83YVJMaGR4RjBzc1NXVDZXTTg0OTdYTmVVMTI3LVFmaGVaQjAxMDhEdXlMOFpGUGJnUVpIX20tOE5hMEQ0d2lQOTJnYWtma3QtYl9sU294eHppVEJhSFhtQkZtZmczN0k?oc=5>
-
-### “你不来，我们就自己炸”：内塔尼亚胡还原去年邀特朗普下场对伊朗“12日战争”动武细节
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-10-23 12:02
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9XRWJOWnZ4aXd1ZjRyT3BtWDF2VjhkZktTVnprOWItdk03MWpVOURtMTk1TUM4T1RrV2FGcmxkNnBQQmxmZjJOTnIwcV9mU3BhUWFXSnRwMjFIR2w3TFhqeWtfV2oxd1dlQ1ljbkI1NlQ?oc=5>
-
-### Trump Account 深度解析： 机会、规则、限制一次讲清！
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 华人头条
-- 时间: 2026-10-22 18:42
-- 链接: <https://news.google.com/rss/articles/CBMijgFBVV95cUxQQl9rZXNJOHpYVnlsNVhURWFkS24xYUlRczZFdzRsR0Y3UzdCS0RJRjB5UTgxeUN6bHJfblNfLUJJUlQ2RGpvbEtpSXlZUUJtVEp0STljcXJtSGpraXlUaE9oUGRLUTNieDU4NmZGcmRfMnVlSjBVM2dFb2dYSUl4UGVlUGc5Rkw1YTlJcF93?oc=5>
+- 场馆: 华尔街见闻
+- 时间: 2026-10-23 14:18
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE96Qm05dWRyVDZua1NZRGxFajVobS1qTE56M3RPTmVuS0dfSVNWRWlVa0xfSDYwczJtT3Z2QmFQVzhDUVFUdG9qRXBmVmR6U2VnSEY4?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-23 19:25  (7 条)
+
+- **王一博** | 肖战演唱会大屏同时出现肖战和王一博歌名 <https://k.sina.com.cn/article_5601456932_14ddf732404002krh4.html>
+- **特朗普** | 为助力缅因州参议员，特朗普拟取消部分加拿大商品50%关税 <https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRXpybktpYnZFNXZMcXpnZkRDSkpTa0dqb0gzS25aVnRWeWRNUkNWcVNRcU5JdmhtZXNmWG5Fcy14UnpPdC1lZU56T0RoVVRDMnRfWUhleXZsN0tOUkpXRjBPUTdoNFE4ZDJyamR0VDB2UzJTNFVnX3FYMUh2ODRVZU1TOU8wLUZpQ3QyVXd2ZnBUVmptRDJqZ3JnbUh4RnRVcnpia0tlczF1NWpkamt1TW5hZkFQeVlmZi00Q1ZaYTJFZllhSXVaTzZCYmlOVkVaazlqUmN5QkJ4Qkc2X1E?oc=5>
+- **特朗普** | 特朗普一通电话要求马斯克解除对乌星链限速，乌军通信随后部分恢复 <https://news.google.com/rss/articles/CBMiigFBVV95cUxQRFhyU01icjhJZnctcFlsTWNTT3dLUzR2RE5xcHptVDN4YU0zQlFkQnByTlB0elY2Y2EyX09wUV9RU0pDYUFOcUtYVnM1REkyRTI0aV9fVVZWc3JlWHRSOWdDUWMtLUpRMW91WDFDQmUyaWdyT01OZ2wxWkR3QkNtTmx2QmgzSGFSUGc?oc=5>
+- **特朗普** | 特朗普谈到法国骚乱没忍住笑：还有人想去法国吗？ <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9Camp5T2RTQ0s2WmFDcFdmQkJiSzF6VmZaZ2Ntd1llTGtsWUZHRHlMVlNrbkdfQVQyWjlkTU56X3dYU3NUWWN0VUlBTlk?oc=5>
+- **特朗普** | 特朗普赶赴“深红州”拉票，美农民：问题出在经济上 <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4tLWpPaFRvRHN0LUxlNWhCSkxQb0lhYkd0UVJZdzQydUJyNXVhdTZvU3FlQnRaa1FhN005SXZUSVJxYzBpM1lQZHdWazl0MDF2T0puaDBLUUxzdHROcVlLdXlNTGVEZ28?oc=5>
+- **特朗普** | 比起特朗普，美国年轻人更喜欢美式“社会主义”？ <https://news.google.com/rss/articles/CBMic0FVX3lxTE9uVVlQZVdnRDlhX2tJSmZrR1dxcXoxOVpxWWhOcVBuZk85Mk9xYzJFWW9iS0lIR2tJSlY1WVFtbTNYQUd1a2YzeXN2WUJtZERDM2JHYnJrMFRkUjJRWThDMXhWQm4xc3B4UWVEQkdjck1rcEE?oc=5>
+- **特朗普** | 补贴农民、松绑俄柴油、催欧洲放储备…特朗普“多管齐下”仍难压住柴油价 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE96Qm05dWRyVDZua1NZRGxFajVobS1qTE56M3RPTmVuS0dfSVNWRWlVa0xfSDYwczJtT3Z2QmFQVzhDUVFUdG9qRXBmVmR6U2VnSEY4?oc=5>
 
 ### 2026-10-23 15:19  (8 条)
 
