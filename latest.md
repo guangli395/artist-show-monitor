@@ -1,70 +1,107 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-23 19:25**
-- 本轮扫到 14369 条, 新增 **7** 条
+- 最近更新: **2026-10-23 22:28**
+- 本轮扫到 14379 条, 新增 **10** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (10 条)
 
-### 肖战演唱会大屏同时出现肖战和王一博歌名
+### 心理学视角深度解析肖战演唱会彩排造型
 
 - 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5601456932_14ddf732404002krh4.html>
+- 链接: <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002tgdw.html>
 
-### 为助力缅因州参议员，特朗普拟取消部分加拿大商品50%关税
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-10-23 17:54
-- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRXpybktpYnZFNXZMcXpnZkRDSkpTa0dqb0gzS25aVnRWeWRNUkNWcVNRcU5JdmhtZXNmWG5Fcy14UnpPdC1lZU56T0RoVVRDMnRfWUhleXZsN0tOUkpXRjBPUTdoNFE4ZDJyamR0VDB2UzJTNFVnX3FYMUh2ODRVZU1TOU8wLUZpQ3QyVXd2ZnBUVmptRDJqZ3JnbUh4RnRVcnpia0tlczF1NWpkamt1TW5hZkFQeVlmZi00Q1ZaYTJFZllhSXVaTzZCYmlOVkVaazlqUmN5QkJ4Qkc2X1E?oc=5>
-
-### 特朗普一通电话要求马斯克解除对乌星链限速，乌军通信随后部分恢复
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-10-23 17:37
-- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxQRFhyU01icjhJZnctcFlsTWNTT3dLUzR2RE5xcHptVDN4YU0zQlFkQnByTlB0elY2Y2EyX09wUV9RU0pDYUFOcUtYVnM1REkyRTI0aV9fVVZWc3JlWHRSOWdDUWMtLUpRMW91WDFDQmUyaWdyT01OZ2wxWkR3QkNtTmx2QmgzSGFSUGc?oc=5>
-
-### 特朗普谈到法国骚乱没忍住笑：还有人想去法国吗？
+### 特朗普称可能对伊发动一次小规模“史诗怒火”行动
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-10-23 10:05
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9Camp5T2RTQ0s2WmFDcFdmQkJiSzF6VmZaZ2Ntd1llTGtsWUZHRHlMVlNrbkdfQVQyWjlkTU56X3dYU3NUWWN0VUlBTlk?oc=5>
+- 时间: 2026-10-23 19:42
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFB4RU5ydkJrZmRGYTRXNXViMzhXZWhqTUdwMHZ3b3JIcFR6OWJlVUNzRlJNZXk0U1l6bkh1Y014WjQtTUJ2azgwR2JZZm0?oc=5>
 
-### 特朗普赶赴“深红州”拉票，美农民：问题出在经济上
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中国青年网
-- 时间: 2026-10-23 09:13
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4tLWpPaFRvRHN0LUxlNWhCSkxQb0lhYkd0UVJZdzQydUJyNXVhdTZvU3FlQnRaa1FhN005SXZUSVJxYzBpM1lQZHdWazl0MDF2T0puaDBLUUxzdHROcVlLdXlNTGVEZ28?oc=5>
-
-### 比起特朗普，美国年轻人更喜欢美式“社会主义”？
+### 特朗普对加拿大关税调整将于10月30日生效。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-10-23 11:23
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE9uVVlQZVdnRDlhX2tJSmZrR1dxcXoxOVpxWWhOcVBuZk85Mk9xYzJFWW9iS0lIR2tJSlY1WVFtbTNYQUd1a2YzeXN2WUJtZERDM2JHYnJrMFRkUjJRWThDMXhWQm4xc3B4UWVEQkdjck1rcEE?oc=5>
+- 场馆: 手机新浪网
+- 时间: 2026-10-23 19:38
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9zc1BjSkU5ZjFpYjViSXZaeF81M0FJeUhBUm9Vbk1ITG1WVk9FQkttZ1pONjdlbzd4MFVNSzY0aFprLWdPd2ZucENrdw?oc=5>
 
-### 补贴农民、松绑俄柴油、催欧洲放储备…特朗普“多管齐下”仍难压住柴油价
+### 特朗普指责詹姆斯不尊重美国国旗：我早说过他不行，简直是个耻辱
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-10-23 14:18
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE96Qm05dWRyVDZua1NZRGxFajVobS1qTE56M3RPTmVuS0dfSVNWRWlVa0xfSDYwczJtT3Z2QmFQVzhDUVFUdG9qRXBmVmR6U2VnSEY4?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-10-23 00:12
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFAtdXU3dVFlbGNuZ2JXT2thQjRSSjRIUnpfRVRyMW5YX21fOXljYm5NTUstcWoyVUhWYjJlcVd2YUplSjV5LUM2QXpIdGE?oc=5>
+
+### 特朗普批詹姆斯不敬美国 詹姆斯笑回办公室新闻太少
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-10-23 21:43
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5rWk5tTWtCWUNLRndyTlA1UHJweDRVUFdRXzZvS3djSVZ6S2FId24xanlsNlR0OUF0LXZ3MzhQRnBNd1pUOFdlTDNWRE42VjgxU3pib2RPMmM1SWtGdnZYbDdlUzZFVGl0YjRRMFpjeU8?oc=5>
+
+### 【美国中期选举】哈佛民调：美国青年对未来及特朗普失去信心
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-10-22 15:52
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1kTWlGZklndm1GZjNyaXBhMzRUWW82c3QtVm9teEYzMXA4ZmhYSzVDaVFkOURtSHN3dzlKOTJQWTNISzh6NWlJWTZCdmtrWXJFdERYT20xMzJkTVVRQnhaTGpXaWU0RnA2ZFE?oc=5>
+
+### 特朗普称星链服务已恢复 乌克兰表示仍无法正常使用
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-10-23 21:52
+- 链接: <https://news.google.com/rss/articles/CBMi9AJBVV95cUxQMnpwMC1zQUpYNkNDaGJwbHBzQ1JDeFNUNko1aWduX1NBM19kdnE3RVNDcVVtemN5dkhQN1RBZlk4N2RYbHNsak95LUlOMXM1cFlWSi1uUnoxSUtKZVNzd1ZsTmdOT3o4V3YwQVc2ZjBEUTM0Ri1LZjBCekFOUWo5RGJBcm1SQVlXNmpsWnBjMFE0WFdnbThfcHd6Qm9pemx3cWI2V0RmN0lqbGVYYUhwaWVseU9GQkxYNElJX1dKek1RUUE2cWFER3JFanB4YXZybFhXdjZUclZRUU5MNlg5T3lTMHVoNl9Eczg1bGUtNFg4ajA1MkRIZlE5QUlqaHhzQU5wTHYxUF9wb0Qxa2NSQTV6SXVGQm0ybFF2VVlOc1IwSnR0QklqaXMzanNaYTRfOUFFT0JERDB6NlkwRExEYjA3SGphbDd1TlRZSnR1MXhBbzlrUVhVU0JEN2owdF84Ym1FNldacFFaSE9KMnp2SFhvMnk?oc=5>
+
+### 美国特使：美方最快本周末可能打击伊朗
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-10-23 21:36
+- 链接: <https://news.google.com/rss/articles/CBMirAJBVV95cUxNMG5Hbzl4a1pUV2VxU0hoYjA4eWttbFBOcjRpVnB5YWtjNHNmT0ZXN2puNUV3OGNXS09jMk44YWZOQXRrQU5vM2w0bVhOalk1SC1VRHhfRVBhczBNX0hYemFoRkh5Y3h2MTdMbGdwN0NuMHF6d1VjVDNsSVNEVTlxT0paX21reGRUeHBXSHpoaEhQbzVUeWZHNUc1OUxlUUdWbjRJOWpHTlFHdndnekJNYk5MSnFMdW5pTVRzeEZUN2NsTFl1cndkaEZ3QW53cW1DdmRDMjY3YVAwUXZBNVE4M1dKWm9HRXBvdk5oWFZfa0JZd2h6SVZrUWl3MThZZWU1X09LQ0szT2lFM21CcExNcXlfdzFES09KZUlQZGhsRDF5MG05dDlfVlZMbzk?oc=5>
+
+### 最新 “不明空中现象”(UAP)披露文件中包含神秘“黑色三角形”事件
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-10-23 20:39
+- 链接: <https://news.google.com/rss/articles/CBMitgFBVV95cUxQbHZnMGNINzlvYTRkTU5CVHdXVF91Nk5rUDdJSTlHbW9PVTZRV1BNMFVvYlFRN1FZV2d5ZXNPNERESkZHNi1nU0tuUTBqS0dnWTlKdUNfeEhvVFhyUGNKd2VIaFNlc2xuMzNtdEo5UXd5dlNLX09BbWdrR2UzdW9TZGltUElnQWZLa2VBam5oUFZNQW5WVkpybXpERWl4LU1DM3FEMEhfM0hsZ1ZmaGJncDRJTVBHd9IBuAFBVV95cUxNTjJVUzZvRzJVb1VUa2dTZWhyQWJwTUlOUW5oTnk1TUJfRUlsQmM4RTZYYkt0bWdsU3JscEszWEZJc3BUUGhRVXEyNTltVVFPaW5mR3NPalBtSlZRaFJaUHdHSUVFOFlfaDJINnduWk9vUGhzbnNUSHFkRENoRU55RVczWWNoTDFPWmstOERzSXpPZERXLVBua0F4cENYOEM0alRFQ25kdmJYZFNmZWh4cmM5OHBuOXd5?oc=5>
+
+### 美驻联合国大使沃尔兹警告伊朗战事恐再持续一年
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-10-23 21:44
+- 链接: <https://news.google.com/rss/articles/CBMi5wJBVV95cUxNOXU2VjBxNV9JOWZJNzh6dnRidWxBbmQ4MHQ2aUhEQjJxQnJJMXFOUTNraUtaOUJGT1hhTE9lNVg2TVpoc0w1QjhfRzJWVWlQUEJtT0ZmR0R4c0FvUWFVbG5fZzZvVFF5MTV5N0FWNUdZR3IzN0JrbTdUSmVPc2YwX21BcnpBdTdiUEw5UVBlenQ2UllORm90Tkh4RGJaMEVycWxBRGwtWk40TTJwY3JlOTMybXhsU3FXYVByTjVNSlVqVTZNaWtiSWJhczNCeUxPVElvNmk2dWVfaGc2LS1iSjVLYVhHLW5rdW1ZLXZiQ2p0TzdoZm9lb2VrbEJmbUE2TGtCNWZUTjk5UFlvbk1VZXZzeWxHaGM2UjJGNHB5ei1GVDMtbkJwbWFESWh2bVlwYWlOZHlodGc2SWtreUUtWEllUFBxSzBxZUgyTHJzR1l4eWxUdzhSZ1p6cXlvOVhoWEJxNTFyMA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-23 22:28  (10 条)
+
+- **王一博** | 心理学视角深度解析肖战演唱会彩排造型 <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002tgdw.html>
+- **特朗普** | 特朗普称可能对伊发动一次小规模“史诗怒火”行动 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFB4RU5ydkJrZmRGYTRXNXViMzhXZWhqTUdwMHZ3b3JIcFR6OWJlVUNzRlJNZXk0U1l6bkh1Y014WjQtTUJ2azgwR2JZZm0?oc=5>
+- **特朗普** | 特朗普对加拿大关税调整将于10月30日生效。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9zc1BjSkU5ZjFpYjViSXZaeF81M0FJeUhBUm9Vbk1ITG1WVk9FQkttZ1pONjdlbzd4MFVNSzY0aFprLWdPd2ZucENrdw?oc=5>
+- **特朗普** | 特朗普指责詹姆斯不尊重美国国旗：我早说过他不行，简直是个耻辱 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFAtdXU3dVFlbGNuZ2JXT2thQjRSSjRIUnpfRVRyMW5YX21fOXljYm5NTUstcWoyVUhWYjJlcVd2YUplSjV5LUM2QXpIdGE?oc=5>
+- **特朗普** | 特朗普批詹姆斯不敬美国 詹姆斯笑回办公室新闻太少 <https://news.google.com/rss/articles/CBMicEFVX3lxTE5rWk5tTWtCWUNLRndyTlA1UHJweDRVUFdRXzZvS3djSVZ6S2FId24xanlsNlR0OUF0LXZ3MzhQRnBNd1pUOFdlTDNWRE42VjgxU3pib2RPMmM1SWtGdnZYbDdlUzZFVGl0YjRRMFpjeU8?oc=5>
+- **特朗普** | 【美国中期选举】哈佛民调：美国青年对未来及特朗普失去信心 <https://news.google.com/rss/articles/CBMiakFVX3lxTE1kTWlGZklndm1GZjNyaXBhMzRUWW82c3QtVm9teEYzMXA4ZmhYSzVDaVFkOURtSHN3dzlKOTJQWTNISzh6NWlJWTZCdmtrWXJFdERYT20xMzJkTVVRQnhaTGpXaWU0RnA2ZFE?oc=5>
+- **特朗普** | 特朗普称星链服务已恢复 乌克兰表示仍无法正常使用 <https://news.google.com/rss/articles/CBMi9AJBVV95cUxQMnpwMC1zQUpYNkNDaGJwbHBzQ1JDeFNUNko1aWduX1NBM19kdnE3RVNDcVVtemN5dkhQN1RBZlk4N2RYbHNsak95LUlOMXM1cFlWSi1uUnoxSUtKZVNzd1ZsTmdOT3o4V3YwQVc2ZjBEUTM0Ri1LZjBCekFOUWo5RGJBcm1SQVlXNmpsWnBjMFE0WFdnbThfcHd6Qm9pemx3cWI2V0RmN0lqbGVYYUhwaWVseU9GQkxYNElJX1dKek1RUUE2cWFER3JFanB4YXZybFhXdjZUclZRUU5MNlg5T3lTMHVoNl9Eczg1bGUtNFg4ajA1MkRIZlE5QUlqaHhzQU5wTHYxUF9wb0Qxa2NSQTV6SXVGQm0ybFF2VVlOc1IwSnR0QklqaXMzanNaYTRfOUFFT0JERDB6NlkwRExEYjA3SGphbDd1TlRZSnR1MXhBbzlrUVhVU0JEN2owdF84Ym1FNldacFFaSE9KMnp2SFhvMnk?oc=5>
+- **Trump** | 美国特使：美方最快本周末可能打击伊朗 <https://news.google.com/rss/articles/CBMirAJBVV95cUxNMG5Hbzl4a1pUV2VxU0hoYjA4eWttbFBOcjRpVnB5YWtjNHNmT0ZXN2puNUV3OGNXS09jMk44YWZOQXRrQU5vM2w0bVhOalk1SC1VRHhfRVBhczBNX0hYemFoRkh5Y3h2MTdMbGdwN0NuMHF6d1VjVDNsSVNEVTlxT0paX21reGRUeHBXSHpoaEhQbzVUeWZHNUc1OUxlUUdWbjRJOWpHTlFHdndnekJNYk5MSnFMdW5pTVRzeEZUN2NsTFl1cndkaEZ3QW53cW1DdmRDMjY3YVAwUXZBNVE4M1dKWm9HRXBvdk5oWFZfa0JZd2h6SVZrUWl3MThZZWU1X09LQ0szT2lFM21CcExNcXlfdzFES09KZUlQZGhsRDF5MG05dDlfVlZMbzk?oc=5>
+- **Trump** | 最新 “不明空中现象”(UAP)披露文件中包含神秘“黑色三角形”事件 <https://news.google.com/rss/articles/CBMitgFBVV95cUxQbHZnMGNINzlvYTRkTU5CVHdXVF91Nk5rUDdJSTlHbW9PVTZRV1BNMFVvYlFRN1FZV2d5ZXNPNERESkZHNi1nU0tuUTBqS0dnWTlKdUNfeEhvVFhyUGNKd2VIaFNlc2xuMzNtdEo5UXd5dlNLX09BbWdrR2UzdW9TZGltUElnQWZLa2VBam5oUFZNQW5WVkpybXpERWl4LU1DM3FEMEhfM0hsZ1ZmaGJncDRJTVBHd9IBuAFBVV95cUxNTjJVUzZvRzJVb1VUa2dTZWhyQWJwTUlOUW5oTnk1TUJfRUlsQmM4RTZYYkt0bWdsU3JscEszWEZJc3BUUGhRVXEyNTltVVFPaW5mR3NPalBtSlZRaFJaUHdHSUVFOFlfaDJINnduWk9vUGhzbnNUSHFkRENoRU55RVczWWNoTDFPWmstOERzSXpPZERXLVBua0F4cENYOEM0alRFQ25kdmJYZFNmZWh4cmM5OHBuOXd5?oc=5>
+- **Trump** | 美驻联合国大使沃尔兹警告伊朗战事恐再持续一年 <https://news.google.com/rss/articles/CBMi5wJBVV95cUxNOXU2VjBxNV9JOWZJNzh6dnRidWxBbmQ4MHQ2aUhEQjJxQnJJMXFOUTNraUtaOUJGT1hhTE9lNVg2TVpoc0w1QjhfRzJWVWlQUEJtT0ZmR0R4c0FvUWFVbG5fZzZvVFF5MTV5N0FWNUdZR3IzN0JrbTdUSmVPc2YwX21BcnpBdTdiUEw5UVBlenQ2UllORm90Tkh4RGJaMEVycWxBRGwtWk40TTJwY3JlOTMybXhsU3FXYVByTjVNSlVqVTZNaWtiSWJhczNCeUxPVElvNmk2dWVfaGc2LS1iSjVLYVhHLW5rdW1ZLXZiQ2p0TzdoZm9lb2VrbEJmbUE2TGtCNWZUTjk5UFlvbk1VZXZzeWxHaGM2UjJGNHB5ei1GVDMtbkJwbWFESWh2bVlwYWlOZHlodGc2SWtreUUtWEllUFBxSzBxZUgyTHJzR1l4eWxUdzhSZ1p6cXlvOVhoWEJxNTFyMA?oc=5>
 
 ### 2026-10-23 19:25  (7 条)
 
