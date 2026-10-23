@@ -1,90 +1,89 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-23 10:20**
-- 本轮扫到 14354 条, 新增 **10** 条
+- 最近更新: **2026-10-23 15:19**
+- 本轮扫到 14362 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (10 条)
+## 本轮新发现 (8 条)
 
-### 肖战演唱会现场有其他明星现身吗？嘉宾传闻与应援情况梳理
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068017uuo.html>
-
-### 《看见豹之地·寻护者第二季》在京发布 蚂蚁森林携手野生救援呼吁保护华北豹
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://finance.sina.com.cn/tjhz/2026-10-23/doc-iniweywu2646265.shtml>
-
-### 人生第一次演唱会，中登的倔强，周杰伦
+### vivo X500 Pro Max拍演唱会远摄效果真的好吗？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923551_m1d5ae175f03301t6oi.html>
+- 链接: <https://k.sina.com.cn/article_7879776483_1d5abd8e3068028d9u.html>
 
-### 特朗普，为什么这么爱改名？
+### 比起特朗普，美国年轻人更喜欢美式“社会主义”？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-10-23 08:37
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBJMjBwbFl2RXNqc1Zha3BJd0xFcnZkTE01OXF3VmhhNE9NakdjdHkweVQ0VUVpRVJVTTNDd0Z1ME1XOFl6bmFycnltOU8?oc=5>
+- 时间: 2026-10-23 13:38
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBITENpMEowWHdoTjdlSTRWTUZOMG1ncWxGWDl1WHVSNERuUWtEbjNVSlppMEhIYjk1YU40emg0WUxlYVZLcDJjR0FuYlI?oc=5>
 
-### 深读丨为什么特朗普爱改名？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-10-23 08:51
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFA5bWhIN0dMQ0x1dFpfWWdkS0FlRlBpZ3NjMEs2UEduMGFKUGNjM3pRT0RaQnRWUkJQNVM5OHB6akRiZ1NsTFMyUF9hdS13ZzVmZlRDcUltUjFxc3ZXWDgwb2ZabDMtVlJZVjFsSmZQX2pwcXF3OElBa1ZnS2MteTQ?oc=5>
-
-### 400多年又如何？特朗普瞄准了下一个目标
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: QQ News
-- 时间: 2026-10-21 04:20
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1ubGVlSndsWHlnSHd5NXJtVzdMZXJRMmpBTDVuVUd5X0FBcXppX1I4eXRNaFRtUGFEM1pZUUNZTlloYWVrT0tfb2dYcVdqaUZfMUYtUDZtVWdLc2RSdWVHeDNmNk90aUFVbzBJdXpWUWFDM3djbFI5MQ?oc=5>
-
-### 美官员称特朗普要求马斯克解除对乌克兰“星链”限制
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中国日报网
-- 时间: 2026-10-22 23:53
-- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE4tOWZ5eVE2MVVTWkpDTEo4Sm5KTXI3amtheDVQN1NxVWlOemVVOGs5WVNHdVlyVWR4TnZNSmRGSmpOZVVQNWNtZFJ2YW1EWVM1enFGbWg2VDlRVkV6TXRfUE5FVDdKSF8wRUFHZHBQRkdKVzN4OUhLREsyNVE?oc=5>
-
-### 特朗普致电马斯克表达不满
+### “简直是耻辱！”特朗普痛批NBA球星詹姆斯不尊重国歌
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 观察者网
-- 时间: 2026-10-23 04:51
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1iZy05bmdVUzJWdDl5emk1Y3FaWmpTdjRiN1NabVEwMjNfSW9FejJESkxTZWlKdEN3MjA1NEdQdDlQaFdnbjJCUGQwZW5OMUl6QTlfSFEyanp0S3ZKS3kyVWQtNFMxcld4b0tBdlctOWI4Tm8?oc=5>
+- 时间: 2026-10-23 03:23
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFBraldxVEphM1pWM1FfYjlMUF8zZzlqVlp4Wlg1Z0ZxMXprX0FLZms0X0RnQmtTRFpnOFV3RXpXck5nR1lrdTBENHJlbkU3TEVWRlZrWEowSFViMmxjRl9BaGpiVFdLaGQ3dU5tVXd4Rm5yY1E?oc=5>
 
-### 特朗普再度威胁对伊朗采取军事行动：已经狠狠打击了他们，可能还会进一步升级
+### 特朗普发文批评詹姆斯赛前挥杆，称其不尊重国家|特朗普|詹姆斯|76 人|尼克斯|NBA_新浪新闻
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-10-22 21:16
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxQaF9iRldHazJoam9MMjR3anB3NkxCR21Henk1MzU4YW9mM1I5amNrZ1piUjZvMGNRWDUxZ1pHWTRDeXZIeG0yR2JyWDU1alpMM3VWelNkdnJxUVRmYURvYkN2XzVqQ0cyMk1vNU1rZEh2R0pLdE5EcEpSdnFQVm5LZU9wOHlTalU?oc=5>
+- 场馆: 手机新浪网
+- 时间: 2026-10-23 13:13
+- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTE05WW94Y0tiZmN3SmhsR25kd3BqNFVNOXRVUG1EZVVyTnpGYTFRT2poMkNHeWJRSGRRQVFWVjdtMFJqd05FS2EyTmk1MWJIN01LSnpzc1BZWTdXamdjYk1TeWhCRQ?oc=5>
 
-### 普京的“棋局”：重塑美俄关系而无需作出任何让步
+### 泽连斯基：和特朗普之间没有个人恩怨，强调非私人问题
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-10-23 14:19
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFAzNDY0cmpPZDlxNzljVTcxU3Q4d0NsX3hvcWc2eVZDNVpXMENMLUM1c2xtOWtlX2NkVWF5OGFWVEcxU2pXWVRVUzY0WXFudGxVdGc2UDhFMks2MHNHSWdSNHljd0RNblRhYWhxb3JNU3I?oc=5>
+
+### 美国法官警告：若不配合程序，特朗普对BBC百亿诉讼或被驳
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者网
+- 时间: 2026-10-23 02:39
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5FM2VYdlUxWGZXZG83YVJMaGR4RjBzc1NXVDZXTTg0OTdYTmVVMTI3LVFmaGVaQjAxMDhEdXlMOFpGUGJnUVpIX20tOE5hMEQ0d2lQOTJnYWtma3QtYl9sU294eHppVEJhSFhtQkZtZmczN0k?oc=5>
+
+### “你不来，我们就自己炸”：内塔尼亚胡还原去年邀特朗普下场对伊朗“12日战争”动武细节
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-10-23 12:02
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9XRWJOWnZ4aXd1ZjRyT3BtWDF2VjhkZktTVnprOWItdk03MWpVOURtMTk1TUM4T1RrV2FGcmxkNnBQQmxmZjJOTnIwcV9mU3BhUWFXSnRwMjFIR2w3TFhqeWtfV2oxd1dlQ1ljbkI1NlQ?oc=5>
+
+### Trump Account 深度解析： 机会、规则、限制一次讲清！
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-10-23 04:19
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE13dDB4ai05Z1haNXFnWnZINTRqZ1hnaHc0TWczX1ZNdk9xb1RJb0pqVVYtMENsVG5RbjFlQ2hMN3FpN01hTWcyUjJjdmRQVzNBck9zT2o0S3FMMVFSbjdaZmkxRnlydi1uQUxtRkk2WQ?oc=5>
+- 场馆: 华人头条
+- 时间: 2026-10-22 18:42
+- 链接: <https://news.google.com/rss/articles/CBMijgFBVV95cUxQQl9rZXNJOHpYVnlsNVhURWFkS24xYUlRczZFdzRsR0Y3UzdCS0RJRjB5UTgxeUN6bHJfblNfLUJJUlQ2RGpvbEtpSXlZUUJtVEp0STljcXJtSGpraXlUaE9oUGRLUTNieDU4NmZGcmRfMnVlSjBVM2dFb2dYSUl4UGVlUGc5Rkw1YTlJcF93?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-23 15:19  (8 条)
+
+- **周杰伦** | vivo X500 Pro Max拍演唱会远摄效果真的好吗？ <https://k.sina.com.cn/article_7879776483_1d5abd8e3068028d9u.html>
+- **特朗普** | 比起特朗普，美国年轻人更喜欢美式“社会主义”？ <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBITENpMEowWHdoTjdlSTRWTUZOMG1ncWxGWDl1WHVSNERuUWtEbjNVSlppMEhIYjk1YU40emg0WUxlYVZLcDJjR0FuYlI?oc=5>
+- **特朗普** | “简直是耻辱！”特朗普痛批NBA球星詹姆斯不尊重国歌 <https://news.google.com/rss/articles/CBMic0FVX3lxTFBraldxVEphM1pWM1FfYjlMUF8zZzlqVlp4Wlg1Z0ZxMXprX0FLZms0X0RnQmtTRFpnOFV3RXpXck5nR1lrdTBENHJlbkU3TEVWRlZrWEowSFViMmxjRl9BaGpiVFdLaGQ3dU5tVXd4Rm5yY1E?oc=5>
+- **特朗普** | 特朗普发文批评詹姆斯赛前挥杆，称其不尊重国家|特朗普|詹姆斯|76 人|尼克斯|NBA_新浪新闻 <https://news.google.com/rss/articles/CBMiY0FVX3lxTE05WW94Y0tiZmN3SmhsR25kd3BqNFVNOXRVUG1EZVVyTnpGYTFRT2poMkNHeWJRSGRRQVFWVjdtMFJqd05FS2EyTmk1MWJIN01LSnpzc1BZWTdXamdjYk1TeWhCRQ?oc=5>
+- **特朗普** | 泽连斯基：和特朗普之间没有个人恩怨，强调非私人问题 <https://news.google.com/rss/articles/CBMicEFVX3lxTFAzNDY0cmpPZDlxNzljVTcxU3Q4d0NsX3hvcWc2eVZDNVpXMENMLUM1c2xtOWtlX2NkVWF5OGFWVEcxU2pXWVRVUzY0WXFudGxVdGc2UDhFMks2MHNHSWdSNHljd0RNblRhYWhxb3JNU3I?oc=5>
+- **特朗普** | 美国法官警告：若不配合程序，特朗普对BBC百亿诉讼或被驳 <https://news.google.com/rss/articles/CBMic0FVX3lxTE5FM2VYdlUxWGZXZG83YVJMaGR4RjBzc1NXVDZXTTg0OTdYTmVVMTI3LVFmaGVaQjAxMDhEdXlMOFpGUGJnUVpIX20tOE5hMEQ0d2lQOTJnYWtma3QtYl9sU294eHppVEJhSFhtQkZtZmczN0k?oc=5>
+- **特朗普** | “你不来，我们就自己炸”：内塔尼亚胡还原去年邀特朗普下场对伊朗“12日战争”动武细节 <https://news.google.com/rss/articles/CBMicEFVX3lxTE9XRWJOWnZ4aXd1ZjRyT3BtWDF2VjhkZktTVnprOWItdk03MWpVOURtMTk1TUM4T1RrV2FGcmxkNnBQQmxmZjJOTnIwcV9mU3BhUWFXSnRwMjFIR2w3TFhqeWtfV2oxd1dlQ1ljbkI1NlQ?oc=5>
+- **Trump** | Trump Account 深度解析： 机会、规则、限制一次讲清！ <https://news.google.com/rss/articles/CBMijgFBVV95cUxQQl9rZXNJOHpYVnlsNVhURWFkS24xYUlRczZFdzRsR0Y3UzdCS0RJRjB5UTgxeUN6bHJfblNfLUJJUlQ2RGpvbEtpSXlZUUJtVEp0STljcXJtSGpraXlUaE9oUGRLUTNieDU4NmZGcmRfMnVlSjBVM2dFb2dYSUl4UGVlUGc5Rkw1YTlJcF93?oc=5>
 
 ### 2026-10-23 10:20  (10 条)
 
