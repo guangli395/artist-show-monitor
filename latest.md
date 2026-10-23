@@ -1,80 +1,123 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-23 00:19**
-- 本轮扫到 14332 条, 新增 **8** 条
+- 最近更新: **2026-10-23 05:08**
+- 本轮扫到 14344 条, 新增 **12** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (12 条)
 
-### 特朗普：美国“爱国者”希望我在中期选举前打击伊朗，另一些人不希望，因为有代价
+### vivo X500系列的2亿蔡司长焦拍演唱会山顶位置真的能拍清吗？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7880069140_1d5b05014068051sae.html>
+
+### 上次青岛周杰伦演唱会，用vivox500拍的视频
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879924057_m1d5ae195903301qbdu.html>
+
+### 泽连斯基称与特朗普无私人恩怨 同时警告解除制裁只会增强普京实力 并释放停火信号
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-10-22 23:35
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1LOVBEeTlpcHF6RGhRb3FSUmlFLUtHX0lEUnh5TkdXUXd1REkzNnR4dHp0bkZGMFR1bDdhVzZXRlVKRlJ0cnlNcXFsVW8?oc=5>
+- 时间: 2026-10-23 00:46
+- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkTVZmTjE4clpzaTVMQ1U3eEdJXzFrYU5FWUxwLXBxdlVKUWRTSmNIeklJbDJrT08wZkxvUVpja2J4aDROU3ByTDF3dFduazhvTmc?oc=5>
 
-### 白宫：特朗普周六在佐治亚发表讲话。
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-10-22 22:14
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9MMmlaMVlkdkp0NFJVU0pGRTNiR0RvdXZvT0FGa1lJYXFVci13YUNjSlp5b1dPanltR21BMEhfLWxid1J0dklHU3JBVQ?oc=5>
-
-### 特朗普总统指责伊朗在美国中期选举前诈称袭船以为“推高”油价
+### 特朗普抨击NBA球星詹姆斯“不尊重”美国国歌，外媒：二人长期不和
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-10-22 21:30
-- 链接: <https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdUdzTHNrRFg4dG8za0JKWkpLUXcxUWpTSV9yUVl1RUJDcVdFM3AwRDFjbUZSbVd0NDdZSmEtbUY3Qk51SHB1RHM4SHlaV05rbDBmb0ZnMTJ0dkpTMlJkQ0s4Z1hfMktEMGU1V1hudWc3SVVuSS13TURxVFNqT1pCX1ZsZmRydVgyWVItdXdmMDNHWmlmSmhoMzNselhIME56QTJCWGdNcmJILXhScjY0N01jcGJ1VTdnUDM4VGttN1JBTFFuUDNEcjBQU295Y3hfZWZaRDlnbmtKZFoxbGotWFBNMWN4RGsxVUZhNTZtNzLSAfMBQVVfeXFMT3RyNU56WE0wMDliLVpLaTY3bUtoRVh4QWlnSHdudHotXzR5TVhMY0xiaUFIX0Z4eU9YYkg2emxKbE9tMUFpSEFSOVk1Q20tWThTcHp5SFhpTnlLYkJZSjZxYTRSMjFDa180bWxYeWJWZEN5bkVIUEFNa09OeC1XaEpNa1ozeDBPLTZ5UllTbVRkV0tRSFplWV9CcHdVU2d6dHE4MGc3cDZjT1VEZnc1SXRRNnMxdkhwd2JfMG9BY0xKenVsMkQ4VzcybXRJNW00blBlYlRMMGV6dEZrckE0bmh1QkF0c2o3a0hHdTU1RXBZcWRJ?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-10-23 02:22
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE4yU29kWHRQVDhkMW5WWm9xNGViRDV2cnltd0RJRDhUMHlKMGotTjZrZWhIQzg1TEhiM3lWVmpYZnUxUUd4NTZ5aFFxbmQ?oc=5>
 
-### 10月23日外盘头条：特朗普再度威胁对伊朗采取军事行动西部数据财报大超预期OpenAI接近完成新一轮融资
+### 特朗普指责NBA球星詹姆斯不尊重美国，国歌奏响时还在练习高尔夫挥杆：“我从一开始就说过他不行，简直是个耻辱”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-10-22 21:29
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxNY05waXFHR0E3Mks5RjdsbDRpUWdPS3VURnlIcFpwNDhtSkVpTXFzcy15TGhpTWZpdVhpSmFZREk0R2x6dS1pWnJVSTFOUEN4TDd0dEt2eUhiZklXSDI4a19mV0YzWDNPR0VGUlVyYjdWSkZoYnpHSzVoeThxUm5YbVp1Y3RRd3hmV3ZUNjZRLTVWZXgyQjEyQkdQaVlvOTlxdDhkdXBRLVUzS3g1cE4yQlJ3WWE4SS1tZUFVakFYRzhiWlFsMGE0NUNMNXZVYlJzeHBKTDJWZzhCV3ZxTFJv?oc=5>
+- 时间: 2026-10-23 01:37
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE8zdzRVU2M5WTdLZGdmZGF4emVSc2VXREtaTVNiM25xdDMtM1k2ZUw0dzNtNklNUEFUODZwT0NSeFpfOFUzTVlhMnJZR2VTZFc4SVh3UFpZQlkyYU1KRTlEVndyc0pYeVZWcG1tZnh4LXJQS3BUbGN2TQ?oc=5>
 
-### [流言板]特朗普：詹姆斯在奏国歌时仍在晃动身体大不敬，应公开道歉
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 虎扑
-- 时间: 2026-10-22 19:14
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBwanNieWdZanNrZEhPZlJZRFM2dTR6WW41eG9od1FhbElDcTM4RmNBNjNDdWdBSm5sQld5VTFuNGpaQzJ2alREbVBZQQ?oc=5>
-
-### 播客 | 特朗普送“助攻”，美以分歧不减反增
+### 特朗普怒斥詹姆斯：道歉
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 搜狐
-- 时间: 2026-10-22 19:30
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxOTW1hdzg3Vk1GVzVYczNWYzZmOGlNWlFuOTNFS19XcC0tVlhVb1kwQ0VKc1dNdnp6OHhMWV9FYUlsVlpNYmtPSTRLaW00cndNNHNfcVdrVDRfVGJMUEpWVzhJNUZERnVLNmlsbDgybnNabE50Z0dYdVR5OVY0eUwxc25nQnZJLUFMT0wxLQ?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-10-23 04:09
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5kOFY3bW9lV1R6NkllTjMxUnVqQmpvX0lWVjVpQTBLWmxjdmdjUTdMZTVtR1NDMmY3dTdtT3U1WEZXUlgtSUNrMzBTclBvWGJEa09HcWxBOElVMFdJUjJqdFhIRlZrZl9kSVAzUmdVblJlbmRURWV0Mw?oc=5>
 
-### 伊朗扬言扩大战火 特朗普指德黑兰蓄意推高油价干预选情
+### 民调：中期选举两周前，特朗普支持率跌至新低
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-10-23 03:18
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5qVk1kSmFQaVRCUzd3UF9CQ2JwOHRKNlE0eUJlNVo4WlFuYmQ2Q1UyMHNwWmFpaTJUSlpUWm9NVVBFU2tqWjBjSFNPNy1rT1B2UUtoZFJxb1lDYWhQZHRRWnVWb0NIMkNwckcwWVlHckhzT2pUOFltTA?oc=5>
+
+### 中期选举前特朗普邀主教们为他祈祷 选情焦虑显现
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-10-23 04:00
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE84ZTJYTVlmc0ZaMFllT21FVmhSaTRURmlaT1BIOHl4TW1zZllhTzcwQllrYzBWRDM2cjlhMkpIVXU2UHlwXzJIeExVeFFOdWhLamVJWi04NmtMdHRFWjBLNGdMUUhGMTJYdnNzbDlscXY?oc=5>
+
+### 威胁在竞选集会上刺杀特朗普 美国堪萨斯男子遭逮捕
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-10-20 20:36
+- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTFBjTXlCUGkxc0MyMHBlTjdqTGVkUWVfeEtqTzc1LVVIYUJkSFdEaXc1ZnA1c1FSTkJteWdvdDJnZllMS1ZEWV9PUmwwOG1qM0hyUGZSTnVqYS1rc2g1Q0pCZTdJNzJqM29iRFd6RVFQRW1weUhUT0hrV21R?oc=5>
+
+### 法官警告：若不配合程序，特朗普对BBC百亿诉讼或被驳
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-10-23 02:39
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE91ZXZTWWxJYlhQMVJCcXpBNVFMRWM5LWdUcVYxbDZFRkcwbFI2QlZaRWoybG9oODl4UEsyeTlCSEFlVTlXRmQwSVc1NDk?oc=5>
+
+### 美媒：特朗普要求马斯克解除对乌克兰“星链”限制
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-10-22 22:05
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBCSTlfX285c3BoLThoQ1dIQm1NX0NmZnk2dmpkNXdOdWJjQXAyeUswdnk2ejFHRkJjRjFhYkozREVEU3pzekVodjFEQ08xYThCZ0twYlRmb1E2MnlzSXc3S2NjZ0JZemRzcXJJc3R0WWI4Z2ltSi12ekl6SVl2WWc?oc=5>
+
+### 特朗普诉BBC诽谤案：法官下令总统须宣誓并答问作证
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-10-22 21:25
-- 链接: <https://news.google.com/rss/articles/CBMijANBVV95cUxNWHMwTFVvNmw1Y3Z5QW81c0loWFgtQjFPX01wdGMzb3FDcnp5eGoyTWZWSTRjZ2lrTlBiOGpvSDRwQllhV2VLZUhrR0JBenJ5QUJaczR3UjhzMzNaM1k0WnpTZTE3TFF6UHlUN2hoSzZqQnIzN29lZElobWZ1YnprSGVQOUlLclFZbjl5TUdYRXNoRDNMbTJhNHU5YjdMQWNkNWtsZ0dTSF9MdkJlRDdrZGpCMUZkWDVBaWl2Q3lCZVpUVXQyd0FNUjZvd09HdzRQdVdFMWJFRXd5YTVESWlGUUotdUJyTFF2dVI2SFpSV0oyUFI2RmY0MXVBaUdrY0dMcHYxNVhNRGVpaFVsdEh0ejZqTEw2bnhJQ1pMN0xjY2Qwb2Jpa1NPWHpuYmU3bERpYlR6T0RvQjRNNkVTYVBwNmVTaDdBS3Q0YUg2UGRGaWgwRUJxRmQ2cWViY2hVN3dVVFFEdXh5bWdVY1pvNHpncDdfS2lIWkVKVlMzZHM5aUx5c2VFV0x2ZlotRnQ?oc=5>
-
-### 特朗普致电马斯克，要求他解除在乌克兰使用星链的限制
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-10-22 23:33
-- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT0o4Z2pQLXN3Y2NwSWN6czMwQTlTN0c4VlN2ZFJKeWZNMzhwUkVtSnhGWlN3S1ZXeWljRU13TWtfMGxuR1NNcVNWRG1BX0VnaWR4eEVLdWJRaF9GRDRnWHhOOWNNVEFicEJJcnhwTWRqeVg4TDhEMHAyeW1rSGozVGRlQUFYU0JNbWVNNm9ndXR0LW56Y2NvSG5oWGVYa2xKbkl0cEVrT3Brdw?oc=5>
+- 场馆: BBC
+- 时间: 2026-10-23 01:52
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oTmtJQzN1ckJqelZfN1FKclhEdmpSb3paM2JWQWNKVUxzLUg1ZlZNZVJpc2M5bHg3MHBDdG45OVJ0N2MwYXJzZ0lTeW1LSTI5UlExZDhORzc1ZzI5ZWZKcWlhNnZvTW_SAWxBVV95cUxPM0x4c1lJa3UxazZzZjhWVmZ0VElMY25nZWZKYzRSRld2WUd4Rl92Mnl3dGQxd01IVDBEUjM0SlY2U2FsdVp6M0JvMDhkNWtJR05CZmZRSFRDV2o1SHZZNGpNVXNfT1ZiU3M5S3A?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-23 05:08  (12 条)
+
+- **周杰伦** | vivo X500系列的2亿蔡司长焦拍演唱会山顶位置真的能拍清吗？ <https://k.sina.com.cn/article_7880069140_1d5b05014068051sae.html>
+- **周杰伦** | 上次青岛周杰伦演唱会，用vivox500拍的视频 <https://k.sina.com.cn/article_7879924057_m1d5ae195903301qbdu.html>
+- **特朗普** | 泽连斯基称与特朗普无私人恩怨 同时警告解除制裁只会增强普京实力 并释放停火信号 <https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkTVZmTjE4clpzaTVMQ1U3eEdJXzFrYU5FWUxwLXBxdlVKUWRTSmNIeklJbDJrT08wZkxvUVpja2J4aDROU3ByTDF3dFduazhvTmc?oc=5>
+- **特朗普** | 特朗普抨击NBA球星詹姆斯“不尊重”美国国歌，外媒：二人长期不和 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE4yU29kWHRQVDhkMW5WWm9xNGViRDV2cnltd0RJRDhUMHlKMGotTjZrZWhIQzg1TEhiM3lWVmpYZnUxUUd4NTZ5aFFxbmQ?oc=5>
+- **特朗普** | 特朗普指责NBA球星詹姆斯不尊重美国，国歌奏响时还在练习高尔夫挥杆：“我从一开始就说过他不行，简直是个耻辱” <https://news.google.com/rss/articles/CBMieEFVX3lxTE8zdzRVU2M5WTdLZGdmZGF4emVSc2VXREtaTVNiM25xdDMtM1k2ZUw0dzNtNklNUEFUODZwT0NSeFpfOFUzTVlhMnJZR2VTZFc4SVh3UFpZQlkyYU1KRTlEVndyc0pYeVZWcG1tZnh4LXJQS3BUbGN2TQ?oc=5>
+- **特朗普** | 特朗普怒斥詹姆斯：道歉 <https://news.google.com/rss/articles/CBMieEFVX3lxTE5kOFY3bW9lV1R6NkllTjMxUnVqQmpvX0lWVjVpQTBLWmxjdmdjUTdMZTVtR1NDMmY3dTdtT3U1WEZXUlgtSUNrMzBTclBvWGJEa09HcWxBOElVMFdJUjJqdFhIRlZrZl9kSVAzUmdVblJlbmRURWV0Mw?oc=5>
+- **特朗普** | 民调：中期选举两周前，特朗普支持率跌至新低 <https://news.google.com/rss/articles/CBMieEFVX3lxTE5qVk1kSmFQaVRCUzd3UF9CQ2JwOHRKNlE0eUJlNVo4WlFuYmQ2Q1UyMHNwWmFpaTJUSlpUWm9NVVBFU2tqWjBjSFNPNy1rT1B2UUtoZFJxb1lDYWhQZHRRWnVWb0NIMkNwckcwWVlHckhzT2pUOFltTA?oc=5>
+- **特朗普** | 中期选举前特朗普邀主教们为他祈祷 选情焦虑显现 <https://news.google.com/rss/articles/CBMicEFVX3lxTE84ZTJYTVlmc0ZaMFllT21FVmhSaTRURmlaT1BIOHl4TW1zZllhTzcwQllrYzBWRDM2cjlhMkpIVXU2UHlwXzJIeExVeFFOdWhLamVJWi04NmtMdHRFWjBLNGdMUUhGMTJYdnNzbDlscXY?oc=5>
+- **特朗普** | 威胁在竞选集会上刺杀特朗普 美国堪萨斯男子遭逮捕 <https://news.google.com/rss/articles/CBMiekFVX3lxTFBjTXlCUGkxc0MyMHBlTjdqTGVkUWVfeEtqTzc1LVVIYUJkSFdEaXc1ZnA1c1FSTkJteWdvdDJnZllMS1ZEWV9PUmwwOG1qM0hyUGZSTnVqYS1rc2g1Q0pCZTdJNzJqM29iRFd6RVFQRW1weUhUT0hrV21R?oc=5>
+- **特朗普** | 法官警告：若不配合程序，特朗普对BBC百亿诉讼或被驳 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE91ZXZTWWxJYlhQMVJCcXpBNVFMRWM5LWdUcVYxbDZFRkcwbFI2QlZaRWoybG9oODl4UEsyeTlCSEFlVTlXRmQwSVc1NDk?oc=5>
+- **特朗普** | 美媒：特朗普要求马斯克解除对乌克兰“星链”限制 <https://news.google.com/rss/articles/CBMif0FVX3lxTFBCSTlfX285c3BoLThoQ1dIQm1NX0NmZnk2dmpkNXdOdWJjQXAyeUswdnk2ejFHRkJjRjFhYkozREVEU3pzekVodjFEQ08xYThCZ0twYlRmb1E2MnlzSXc3S2NjZ0JZemRzcXJJc3R0WWI4Z2ltSi12ekl6SVl2WWc?oc=5>
+- **Trump** | 特朗普诉BBC诽谤案：法官下令总统须宣誓并答问作证 <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oTmtJQzN1ckJqelZfN1FKclhEdmpSb3paM2JWQWNKVUxzLUg1ZlZNZVJpc2M5bHg3MHBDdG45OVJ0N2MwYXJzZ0lTeW1LSTI5UlExZDhORzc1ZzI5ZWZKcWlhNnZvTW_SAWxBVV95cUxPM0x4c1lJa3UxazZzZjhWVmZ0VElMY25nZWZKYzRSRld2WUd4Rl92Mnl3dGQxd01IVDBEUjM0SlY2U2FsdVp6M0JvMDhkNWtJR05CZmZRSFRDV2o1SHZZNGpNVXNfT1ZiU3M5S3A?oc=5>
 
 ### 2026-10-23 00:19  (8 条)
 
