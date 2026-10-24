@@ -1,94 +1,152 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-23 22:28**
-- 本轮扫到 14379 条, 新增 **10** 条
+- 最近更新: **2026-10-24 00:57**
+- 本轮扫到 14394 条, 新增 **15** 条
 
 ---
 
-## 本轮新发现 (10 条)
+## 本轮新发现 (15 条)
 
-### 心理学视角深度解析肖战演唱会彩排造型
+### 杰威尔音乐就周杰伦传闻发布的声明具体说了什么？
 
-- 艺人/关键词: **王一博**
+- 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002tgdw.html>
+- 链接: <https://k.sina.com.cn/article_7879995911_1d5af320706802w0j2.html>
 
-### 特朗普称可能对伊发动一次小规模“史诗怒火”行动
+### 难得的一个好消息，还是由特朗普夫人促成
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-10-23 19:42
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFB4RU5ydkJrZmRGYTRXNXViMzhXZWhqTUdwMHZ3b3JIcFR6OWJlVUNzRlJNZXk0U1l6bkh1Y014WjQtTUJ2azgwR2JZZm0?oc=5>
+- 时间: 2026-10-23 23:47
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFA1V01faHZOM2NMLUtFSUpLa1BFZVg5cnNsX2xiR0pNZ2dXbXV6NFRXaXFsZVVCSjZKMUwzaUkwcVBCZjl0WmlBNkdxSGg?oc=5>
 
-### 特朗普对加拿大关税调整将于10月30日生效。
+### 特朗普批詹姆斯对国家不敬，詹姆斯回应办公室今天新闻太少
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-10-23 23:32
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5lSUhSZFd3eWdZTUkzWEZfRDI3MFBJQ0s5UHEtb09sRi1ISU9nVzB4OXZQd1BuV2dGWVpzdkEzZEh4ekhxR201U2RmT2M4b3g0QWI0d25reUJqVl9PRjFtMUlRaGRDYVQ0UFNPQWZLZ3U?oc=5>
+
+### 关于乌克兰使用“星链”受限，特朗普：如果没解决，会找马斯克谈
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者网
+- 时间: 2026-10-23 23:39
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE15XzNHOUpWWlBwTWk4QkpJaWMxcjdHUW92RTc0ZVJUcnk2ajV3MWQ3RnJ3VGFieERydFFadTlXdjlsWEU3ZnZaN3BZenBwc3NFbHVHSGc2VEQtQ0c4SllFdldvbV9vb1Y0WjlfMFJ0T2hGSjA?oc=5>
+
+### 马斯克豪捐百亿，全部汇入“特朗普账户”，背后布局藏着多重图谋
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-10-24 00:47
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFBNZUd2WUNKaDdVSk1sVEJuOG94WkxlblRvMU5hemtQSy1IeWNMS1JXeEtqTWNPU1p2cDdlX0dkbnRYbVR1UmttU0twTUVzeTFSRU8zMDVWUXlyYmJjYjhJVXFOeHlSalR3R2lsbjU1cF90Zw?oc=5>
+
+### 白宫：特朗普进一步调整了根据338条款征收关税的加拿大产品范围。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 手机新浪网
 - 时间: 2026-10-23 19:38
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9zc1BjSkU5ZjFpYjViSXZaeF81M0FJeUhBUm9Vbk1ITG1WVk9FQkttZ1pONjdlbzd4MFVNSzY0aFprLWdPd2ZucENrdw?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9fQko1VjIxSUdGMlA4Skt1cVJNSlZOcUVGeEpwWkZsM1hGQ0dYdG9oQWx0VUZZck8yX2RzN2tfQkJwYTdCRmdNQnhzSQ?oc=5>
 
-### 特朗普指责詹姆斯不尊重美国国旗：我早说过他不行，简直是个耻辱
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-23 00:12
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFAtdXU3dVFlbGNuZ2JXT2thQjRSSjRIUnpfRVRyMW5YX21fOXljYm5NTUstcWoyVUhWYjJlcVd2YUplSjV5LUM2QXpIdGE?oc=5>
-
-### 特朗普批詹姆斯不敬美国 詹姆斯笑回办公室新闻太少
+### 共和党参议员选情告急 特朗普拟豁免更多加拿大产品关税
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-10-23 21:43
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5rWk5tTWtCWUNLRndyTlA1UHJweDRVUFdRXzZvS3djSVZ6S2FId24xanlsNlR0OUF0LXZ3MzhQRnBNd1pUOFdlTDNWRE42VjgxU3pib2RPMmM1SWtGdnZYbDdlUzZFVGl0YjRRMFpjeU8?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-10-23 21:03
+- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxQdDdpUVhUZFNrbVFRXzItWlozX3N1a0Q1QlZILTV3RGcwcTJVRjUxZ1FrYTgwU1ZaSUZVN1dSRjZDd19BVUlJN0pmU0FFajczYnhKcWYxdERiRTdkS0Y2NzVMa0VKcF9wcjFibVdRZGlTQzVRYTRqd0VoYUx1aXVhMm9RaUZibzcwc2VVenZFVQ?oc=5>
 
-### 【美国中期选举】哈佛民调：美国青年对未来及特朗普失去信心
+### 【美国中期选举】助力共和党候选人竞选 特朗普豁免部分加拿大产品关税
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 联合早报
-- 时间: 2026-10-22 15:52
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1kTWlGZklndm1GZjNyaXBhMzRUWW82c3QtVm9teEYzMXA4ZmhYSzVDaVFkOURtSHN3dzlKOTJQWTNISzh6NWlJWTZCdmtrWXJFdERYT20xMzJkTVVRQnhaTGpXaWU0RnA2ZFE?oc=5>
+- 时间: 2026-10-23 23:09
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5YMXMxOTNGV2lnVVBiMktzVmZZdXRvZVdCdFFZMldWUUh3ejYwbFNmTm9FcU9EMDVlc1lrbFlRdmFNTTJEbnNvaFZXZ1VuQzVyZEg5QnVENW9wOGJ3azdCU3NLXzhYZmNrcVE?oc=5>
 
-### 特朗普称星链服务已恢复 乌克兰表示仍无法正常使用
+### 特朗普为什么如此喜欢俄罗斯？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-10-23 21:52
-- 链接: <https://news.google.com/rss/articles/CBMi9AJBVV95cUxQMnpwMC1zQUpYNkNDaGJwbHBzQ1JDeFNUNko1aWduX1NBM19kdnE3RVNDcVVtemN5dkhQN1RBZlk4N2RYbHNsak95LUlOMXM1cFlWSi1uUnoxSUtKZVNzd1ZsTmdOT3o4V3YwQVc2ZjBEUTM0Ri1LZjBCekFOUWo5RGJBcm1SQVlXNmpsWnBjMFE0WFdnbThfcHd6Qm9pemx3cWI2V0RmN0lqbGVYYUhwaWVseU9GQkxYNElJX1dKek1RUUE2cWFER3JFanB4YXZybFhXdjZUclZRUU5MNlg5T3lTMHVoNl9Eczg1bGUtNFg4ajA1MkRIZlE5QUlqaHhzQU5wTHYxUF9wb0Qxa2NSQTV6SXVGQm0ybFF2VVlOc1IwSnR0QklqaXMzanNaYTRfOUFFT0JERDB6NlkwRExEYjA3SGphbDd1TlRZSnR1MXhBbzlrUVhVU0JEN2owdF84Ym1FNldacFFaSE9KMnp2SFhvMnk?oc=5>
+- 场馆: 观察者网
+- 时间: 2026-10-23 23:40
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1kcU8xR1FadmRPclNOajduVko5OThYM2lmSGUwSmo0WlpSMjhtRTdXbVM5Q2xJMUVDVmdCM2VITUcxdVRLTjRnNmNYQUJ4SFc4QV85STMwXzhqNjJHeW9fVnZ1TEpPLWcxN2t0TGRWNVdHZWc?oc=5>
 
-### 美国特使：美方最快本周末可能打击伊朗
+### 特朗普：我已经亲自致......_7x24快讯_新浪财经
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-10-23 21:36
-- 链接: <https://news.google.com/rss/articles/CBMirAJBVV95cUxNMG5Hbzl4a1pUV2VxU0hoYjA4eWttbFBOcjRpVnB5YWtjNHNmT0ZXN2puNUV3OGNXS09jMk44YWZOQXRrQU5vM2w0bVhOalk1SC1VRHhfRVBhczBNX0hYemFoRkh5Y3h2MTdMbGdwN0NuMHF6d1VjVDNsSVNEVTlxT0paX21reGRUeHBXSHpoaEhQbzVUeWZHNUc1OUxlUUdWbjRJOWpHTlFHdndnekJNYk5MSnFMdW5pTVRzeEZUN2NsTFl1cndkaEZ3QW53cW1DdmRDMjY3YVAwUXZBNVE4M1dKWm9HRXBvdk5oWFZfa0JZd2h6SVZrUWl3MThZZWU1X09LQ0szT2lFM21CcExNcXlfdzFES09KZUlQZGhsRDF5MG05dDlfVlZMbzk?oc=5>
+- 场馆: 手机新浪网
+- 时间: 2026-10-23 19:45
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1yVFVheVpHOGZxdWdMZjdWRHVWZ1hLazlEWEtUenF0QTZ2UnlKMVRLZi15RWFOX24zcUpoZXFJWDBqb09ianExT3pYdw?oc=5>
 
-### 最新 “不明空中现象”(UAP)披露文件中包含神秘“黑色三角形”事件
+### 特朗普与普京达成协议后 装载俄罗斯柴油的油轮驶向美国
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-10-23 21:06
+- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxOS0dJVTFQVG1qcldiZlNCQWtTSTMtRl9scktYaTJtSk5HZndJV1U3bHJWN3ZjcDJUUzdqVzJDd1BjU0ZsWjgxdURFcnN1UkJLU05HYlZtNTl1WENMVnR1d2pKdWNPdXdBMUJycmx6TXRDeUhZLWZ0OHkxbFVKMGRweWFGcnlTX0UxVUFiaXgwMHZfNDR5S25pdlhTaTljTF85NlF4VjJRWVNDdi1Id3NPc1lrQlB4OGlCOGh0OWNlMkRISFkxOVAwZVJHQzNxTjVFQXc?oc=5>
+
+### 白宫称特朗普夫人促成俄乌局部停火，俄乌局部停火将从10月29日开始
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 搜狐网
+- 时间: 2026-10-24 00:35
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxPYldkc2RVcW5rdzFRYk5vR0ZxZjZSNWE1bUxWUmdKTnpqZE44WlRMU3QyemE0bEh0SVA5MjNQMjc4WkVOMTc1Q04xQTVCUEdCMlFvS0hybGdUZUhXU3RBYTBNU193QnljSmVPMDV3N0NubEs2cHVNTWYtTU5qTzN4SU9kNHNRTVAxVXlraA?oc=5>
+
+### 特朗普总统：美国可以迅速结束与伊朗的冲突
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: 美国之音
-- 时间: 2026-10-23 20:39
-- 链接: <https://news.google.com/rss/articles/CBMitgFBVV95cUxQbHZnMGNINzlvYTRkTU5CVHdXVF91Nk5rUDdJSTlHbW9PVTZRV1BNMFVvYlFRN1FZV2d5ZXNPNERESkZHNi1nU0tuUTBqS0dnWTlKdUNfeEhvVFhyUGNKd2VIaFNlc2xuMzNtdEo5UXd5dlNLX09BbWdrR2UzdW9TZGltUElnQWZLa2VBam5oUFZNQW5WVkpybXpERWl4LU1DM3FEMEhfM0hsZ1ZmaGJncDRJTVBHd9IBuAFBVV95cUxNTjJVUzZvRzJVb1VUa2dTZWhyQWJwTUlOUW5oTnk1TUJfRUlsQmM4RTZYYkt0bWdsU3JscEszWEZJc3BUUGhRVXEyNTltVVFPaW5mR3NPalBtSlZRaFJaUHdHSUVFOFlfaDJINnduWk9vUGhzbnNUSHFkRENoRU55RVczWWNoTDFPWmstOERzSXpPZERXLVBua0F4cENYOEM0alRFQ25kdmJYZFNmZWh4cmM5OHBuOXd5?oc=5>
+- 时间: 2026-10-23 19:04
+- 链接: <https://news.google.com/rss/articles/CBMisAFBVV95cUxNTnA5N0p1UFJ5ZmV5eDZCeC1QakI5ZG5GbV8tNnZVZ1BqeDZVSndLWFNNanN4LU1ZNzd3a1RObWpXU1ZwWG9tUkhzSmFXcWEyVEs5VFpvdGFwc0pXc1NHclU3TmhYZlQtU1pJdG9GR1dhQzN3Ykk5NDB2LS1ieGt2enFLQ1ZCYkFMbktpdllRQngwVWNTX0xXZGlhQm1wVnZ6T2xoWTJmSHRsWVplMzZKctIBswFBVV95cUxQNnBuZTdoMGFCWVo0NklYX0czLTJGWUxCS0F3WmpvSjViNUVsNEtfVTI4QURyQV9NemhlWWQ4aGxjdTdVNE4zMkFvQ3EtRFVyZ1VIYnJwcS1XakpxYVR6UVdTckdkVEpGMmtCbW9UQUJSV1AzMGl3OXRmdVZpa01sU19sbUtJNEx5WkhpV09LSkVpeFVaRUdjUmtCMUJUX1luQ2k1ZzJYdUJYU3lzUzdlcFoxNA?oc=5>
 
-### 美驻联合国大使沃尔兹警告伊朗战事恐再持续一年
+### 特朗普：美国或再次对伊朗展开军事行动
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-10-23 21:44
-- 链接: <https://news.google.com/rss/articles/CBMi5wJBVV95cUxNOXU2VjBxNV9JOWZJNzh6dnRidWxBbmQ4MHQ2aUhEQjJxQnJJMXFOUTNraUtaOUJGT1hhTE9lNVg2TVpoc0w1QjhfRzJWVWlQUEJtT0ZmR0R4c0FvUWFVbG5fZzZvVFF5MTV5N0FWNUdZR3IzN0JrbTdUSmVPc2YwX21BcnpBdTdiUEw5UVBlenQ2UllORm90Tkh4RGJaMEVycWxBRGwtWk40TTJwY3JlOTMybXhsU3FXYVByTjVNSlVqVTZNaWtiSWJhczNCeUxPVElvNmk2dWVfaGc2LS1iSjVLYVhHLW5rdW1ZLXZiQ2p0TzdoZm9lb2VrbEJmbUE2TGtCNWZUTjk5UFlvbk1VZXZzeWxHaGM2UjJGNHB5ei1GVDMtbkJwbWFESWh2bVlwYWlOZHlodGc2SWtreUUtWEllUFBxSzBxZUgyTHJzR1l4eWxUdzhSZ1p6cXlvOVhoWEJxNTFyMA?oc=5>
+- 场馆: 8world
+- 时间: 2026-10-24 00:32
+- 链接: <https://news.google.com/rss/articles/CBMingFBVV95cUxOQnVIT283cGJRZjhOYXdpdFo2U1N3ZHN3aUR0cWs1Uk1xUVFFWlV4QWtsWnJWSVBFX09wUDFKaWdiME9ac0t3WTExVUxaak41Uk40aWo0UDVLbmZzTkFvNnJKMEFWMWFscjhhX01aTnl3RzUwZ0kxejkyVzBiWmNvQ1ZFWkVHX0lZNnotOGtyVk5ER1A4eUtVU2hkdWpwdw?oc=5>
+
+### 特朗普签署行政命令 取消部分加拿大产品关税
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 8world
+- 时间: 2026-10-23 23:13
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVno4MFFlU1NMa3g2ZDdoRktoN3hNYlNONm93VVJaeW5aQmszdmJvMzM5ekhDZ0ZBQ1NfTktFbjd6V3praXBSYkNTYTJHZENqNXlJY0ozTE5INmlRWnlWWXhLMnZfV2FDUXFBajNRVkg4VEYyTU5uTzJ1d2tKRmpoSGlCNFZzaEt2?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-24 00:57  (15 条)
+
+- **周杰伦** | 杰威尔音乐就周杰伦传闻发布的声明具体说了什么？ <https://k.sina.com.cn/article_7879995911_1d5af320706802w0j2.html>
+- **特朗普** | 难得的一个好消息，还是由特朗普夫人促成 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFA1V01faHZOM2NMLUtFSUpLa1BFZVg5cnNsX2xiR0pNZ2dXbXV6NFRXaXFsZVVCSjZKMUwzaUkwcVBCZjl0WmlBNkdxSGg?oc=5>
+- **特朗普** | 特朗普批詹姆斯对国家不敬，詹姆斯回应办公室今天新闻太少 <https://news.google.com/rss/articles/CBMicEFVX3lxTE5lSUhSZFd3eWdZTUkzWEZfRDI3MFBJQ0s5UHEtb09sRi1ISU9nVzB4OXZQd1BuV2dGWVpzdkEzZEh4ekhxR201U2RmT2M4b3g0QWI0d25reUJqVl9PRjFtMUlRaGRDYVQ0UFNPQWZLZ3U?oc=5>
+- **特朗普** | 关于乌克兰使用“星链”受限，特朗普：如果没解决，会找马斯克谈 <https://news.google.com/rss/articles/CBMic0FVX3lxTE15XzNHOUpWWlBwTWk4QkpJaWMxcjdHUW92RTc0ZVJUcnk2ajV3MWQ3RnJ3VGFieERydFFadTlXdjlsWEU3ZnZaN3BZenBwc3NFbHVHSGc2VEQtQ0c4SllFdldvbV9vb1Y0WjlfMFJ0T2hGSjA?oc=5>
+- **特朗普** | 马斯克豪捐百亿，全部汇入“特朗普账户”，背后布局藏着多重图谋 <https://news.google.com/rss/articles/CBMickFVX3lxTFBNZUd2WUNKaDdVSk1sVEJuOG94WkxlblRvMU5hemtQSy1IeWNMS1JXeEtqTWNPU1p2cDdlX0dkbnRYbVR1UmttU0twTUVzeTFSRU8zMDVWUXlyYmJjYjhJVXFOeHlSalR3R2lsbjU1cF90Zw?oc=5>
+- **特朗普** | 白宫：特朗普进一步调整了根据338条款征收关税的加拿大产品范围。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9fQko1VjIxSUdGMlA4Skt1cVJNSlZOcUVGeEpwWkZsM1hGQ0dYdG9oQWx0VUZZck8yX2RzN2tfQkJwYTdCRmdNQnhzSQ?oc=5>
+- **特朗普** | 共和党参议员选情告急 特朗普拟豁免更多加拿大产品关税 <https://news.google.com/rss/articles/CBMijwFBVV95cUxQdDdpUVhUZFNrbVFRXzItWlozX3N1a0Q1QlZILTV3RGcwcTJVRjUxZ1FrYTgwU1ZaSUZVN1dSRjZDd19BVUlJN0pmU0FFajczYnhKcWYxdERiRTdkS0Y2NzVMa0VKcF9wcjFibVdRZGlTQzVRYTRqd0VoYUx1aXVhMm9RaUZibzcwc2VVenZFVQ?oc=5>
+- **特朗普** | 【美国中期选举】助力共和党候选人竞选 特朗普豁免部分加拿大产品关税 <https://news.google.com/rss/articles/CBMiakFVX3lxTE5YMXMxOTNGV2lnVVBiMktzVmZZdXRvZVdCdFFZMldWUUh3ejYwbFNmTm9FcU9EMDVlc1lrbFlRdmFNTTJEbnNvaFZXZ1VuQzVyZEg5QnVENW9wOGJ3azdCU3NLXzhYZmNrcVE?oc=5>
+- **特朗普** | 特朗普为什么如此喜欢俄罗斯？ <https://news.google.com/rss/articles/CBMic0FVX3lxTE1kcU8xR1FadmRPclNOajduVko5OThYM2lmSGUwSmo0WlpSMjhtRTdXbVM5Q2xJMUVDVmdCM2VITUcxdVRLTjRnNmNYQUJ4SFc4QV85STMwXzhqNjJHeW9fVnZ1TEpPLWcxN2t0TGRWNVdHZWc?oc=5>
+- **特朗普** | 特朗普：我已经亲自致......_7x24快讯_新浪财经 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1yVFVheVpHOGZxdWdMZjdWRHVWZ1hLazlEWEtUenF0QTZ2UnlKMVRLZi15RWFOX24zcUpoZXFJWDBqb09ianExT3pYdw?oc=5>
+- **特朗普** | 特朗普与普京达成协议后 装载俄罗斯柴油的油轮驶向美国 <https://news.google.com/rss/articles/CBMi0gFBVV95cUxOS0dJVTFQVG1qcldiZlNCQWtTSTMtRl9scktYaTJtSk5HZndJV1U3bHJWN3ZjcDJUUzdqVzJDd1BjU0ZsWjgxdURFcnN1UkJLU05HYlZtNTl1WENMVnR1d2pKdWNPdXdBMUJycmx6TXRDeUhZLWZ0OHkxbFVKMGRweWFGcnlTX0UxVUFiaXgwMHZfNDR5S25pdlhTaTljTF85NlF4VjJRWVNDdi1Id3NPc1lrQlB4OGlCOGh0OWNlMkRISFkxOVAwZVJHQzNxTjVFQXc?oc=5>
+- **特朗普** | 白宫称特朗普夫人促成俄乌局部停火，俄乌局部停火将从10月29日开始 <https://news.google.com/rss/articles/CBMijAFBVV95cUxPYldkc2RVcW5rdzFRYk5vR0ZxZjZSNWE1bUxWUmdKTnpqZE44WlRMU3QyemE0bEh0SVA5MjNQMjc4WkVOMTc1Q04xQTVCUEdCMlFvS0hybGdUZUhXU3RBYTBNU193QnljSmVPMDV3N0NubEs2cHVNTWYtTU5qTzN4SU9kNHNRTVAxVXlraA?oc=5>
+- **Trump** | 特朗普总统：美国可以迅速结束与伊朗的冲突 <https://news.google.com/rss/articles/CBMisAFBVV95cUxNTnA5N0p1UFJ5ZmV5eDZCeC1QakI5ZG5GbV8tNnZVZ1BqeDZVSndLWFNNanN4LU1ZNzd3a1RObWpXU1ZwWG9tUkhzSmFXcWEyVEs5VFpvdGFwc0pXc1NHclU3TmhYZlQtU1pJdG9GR1dhQzN3Ykk5NDB2LS1ieGt2enFLQ1ZCYkFMbktpdllRQngwVWNTX0xXZGlhQm1wVnZ6T2xoWTJmSHRsWVplMzZKctIBswFBVV95cUxQNnBuZTdoMGFCWVo0NklYX0czLTJGWUxCS0F3WmpvSjViNUVsNEtfVTI4QURyQV9NemhlWWQ4aGxjdTdVNE4zMkFvQ3EtRFVyZ1VIYnJwcS1XakpxYVR6UVdTckdkVEpGMmtCbW9UQUJSV1AzMGl3OXRmdVZpa01sU19sbUtJNEx5WkhpV09LSkVpeFVaRUdjUmtCMUJUX1luQ2k1ZzJYdUJYU3lzUzdlcFoxNA?oc=5>
+- **Trump** | 特朗普：美国或再次对伊朗展开军事行动 <https://news.google.com/rss/articles/CBMingFBVV95cUxOQnVIT283cGJRZjhOYXdpdFo2U1N3ZHN3aUR0cWs1Uk1xUVFFWlV4QWtsWnJWSVBFX09wUDFKaWdiME9ac0t3WTExVUxaak41Uk40aWo0UDVLbmZzTkFvNnJKMEFWMWFscjhhX01aTnl3RzUwZ0kxejkyVzBiWmNvQ1ZFWkVHX0lZNnotOGtyVk5ER1A4eUtVU2hkdWpwdw?oc=5>
+- **Trump** | 特朗普签署行政命令 取消部分加拿大产品关税 <https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVno4MFFlU1NMa3g2ZDdoRktoN3hNYlNONm93VVJaeW5aQmszdmJvMzM5ekhDZ0ZBQ1NfTktFbjd6V3praXBSYkNTYTJHZENqNXlJY0ozTE5INmlRWnlWWXhLMnZfV2FDUXFBajNRVkg4VEYyTU5uTzJ1d2tKRmpoSGlCNFZzaEt2?oc=5>
 
 ### 2026-10-23 22:28  (10 条)
 
