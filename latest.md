@@ -1,108 +1,76 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-24 05:23**
-- 本轮扫到 14406 条, 新增 **12** 条
+- 最近更新: **2026-10-24 09:42**
+- 本轮扫到 14413 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (12 条)
+## 本轮新发现 (7 条)
 
-### 肖战演唱会唱曲尽陈情中控变黄海
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7811247772_m1d1962e9c03301wj0u.html>
-
-### 左边我在，右边晚安，肖战的演唱会真的震撼到我了
+### 为何李宇春给肖战演唱会送花篮落款让人破防？
 
 - 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7811247772_m1d1962e9c03301wiy2.html>
+- 链接: <https://k.sina.com.cn/article_7002256903_m1a15df60703301n04m.html>
 
-### 特朗普炮轰詹姆斯国歌不敬 詹姆斯双手背后低头回应
+### 博君一肖粉丝演唱会喊话肖战
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-10-24 04:32
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFAwQjA4YlI3NWZGdUVjMzR0WjByMVN2NjFJcnlqcjhMYUItY0tMR2FKZVZIRmEwQmZoMm1vUWt4Ynk3TmVxRXR3M1pZVTUyOFhlMm5fY25CWVp2MDJFWWlrT1duYkxhVVo0OEZQRjJRUnRJR2s?oc=5>
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7811247772_m1d1962e9c03301wlxs.html>
 
-### 特朗普威胁对伊朗发动小规模“史诗怒火”行动，伊拟打击海底电缆，霍尔木兹传油轮触雷
+### 王一宝未到场，王一现身演唱会
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-10-23 21:55
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBiajBWNEVOOUc1RXVfWkdERjkwdWVKLVNwQlpYME5BRWFJNXBtelliWEhEeTJDX244MWk2M1FucUhWSjMyX3VIcXVtdURhYWl2akZZ?oc=5>
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7811247772_m1d1962e9c03301wlxo.html>
 
-### 10月24日外盘头条：俄乌同意奥列什基停火特朗普拟豁免更多加拿大产品关税美国将氦列入关键材料清单
+### 特朗普：要找马斯克谈谈
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-10-24 05:15
-- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxNczRQUnRsNDhlRWtXZUZPODIzR3NleFkzTzJzZVE1aVZ1eURQdFFCc2g0QlFYUVRsb3ozMTREMU5QN0otWjZCdTNfcC1jVUZzQkZ5bWp5NTBZOW9QX0lwRHlpbDVxOTVEbWhzdm1CNklac1FROHpONVZaLURiZ0taRXpjaGYyOUtXc1RwbWRKR2FUU2JvZEhORjdNZURrckpRM2M0MW1XS0c1YXRIMjBROUF6SEsyaVZGa3BaSC14SkdYUjh2bjVLTFFhY21VbVliZWc?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-10-24 00:21
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE0zUUR3QzVtSUtoWlRIblBVTENEcjVwdTA1V0tUU2RZUjdMNm1tTkJud3VxOU1aTklYek04cU4zNXZfU0VqVXhuQXhTMnA?oc=5>
 
-### 特朗普：或与马斯克沟通乌克兰使用“星链”受限问题
+### 特朗普诉苦：干什么都会被告，“大把官司但不在乎”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 搜狐网
+- 时间: 2026-10-24 06:19
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX0N4TXZqZHNMWnkybjhDTVg0ZWdRdlVGM1pKUWxMc3BFQW03VFJfSEk4dTNrOXFGZWkxRU1hN2RWa2trMzFCMFpSbEs5cWlBTGlqWG5tTVdnRzlfcGZxTndFOXZGaERMcFRLSmFWWk5GaXJ2eGJ0aXNVTUlCV0tOX3BRejM4SEw1?oc=5>
+
+### 古巴外长驳斥特朗普“顺道解决古巴”言论
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新京报
+- 时间: 2026-10-24 00:09
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KMUxONTZqOEZuSGJwSUNVN2dzRlVMeC1jRXFSNlBZcWZid0VEc3dOUmVUXzRvTWJWTGViZWJYZ0lrRG05YlBqSHhKbXM4azdpdkE5alJ4aU9vM2dSeWo0Q2M3alU?oc=5>
+
+### 特朗普：美国可能会对伊朗发动小规模“史诗怒火”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新华网
-- 时间: 2026-10-23 18:41
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE13SnNQUDYxdFNUMUZBMkQwSnozSm1wMFdFYjJ5SUNuSDRGcVVoQ2VjdlpGdDlsaTlmbS1wdy1ueU01cTNJMm1NTlRnRklwdnp4TlpkbmR1bElmajBwb3N0NDRyM1BOTEVKZnVfTU96WFlSYWdpRW80ZVFEWXBYSlE?oc=5>
-
-### 特朗普政府扩大对加拿大商品关税豁免范围，助力中期选举
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-10-23 21:46
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE83NEx4Rktvdy1YNThNUi1tZnBsWHNkdklKVmU4eHQwU3pfTkt1eFR2aWdPVHgxVUZlaW5wNTZZVkNtQm5mNnNPNjVNSWhfQnpWaGhz?oc=5>
-
-### 美国中期选举丨特朗普政府与加州交锋：2万多人投票资格遭质疑
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: ThePaper.cn
-- 时间: 2026-10-24 01:14
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE02YzBtdFR3TElmUDdsS3F0NFdEMl9qNlVvUEZNb1VIb0RGekljbkIzTm1iV0FQYlVvZjF6UkVyYW5nZVUyR1drXzFoQWRiMkRoa0FFRVFYWE9Rc18zSHUyTA?oc=5>
-
-### 深读丨为什么特朗普爱改名？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-10-23 08:51
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBHSk0tTWRSbFNFUHRYUk5qMENGbmhUMW92Mk5BZzZrVmtjNjZiVFNaWWgzMURWNldTdTVycUxfNGthUUlubmpsWmZCaGliM0I3OHhNNjZNeVBEUFFHNW5nV1o1R3JKaVpaWThGSVJYYWFidnRKUFh4OHRkeVA0cFE?oc=5>
-
-### 特朗普称可能对伊发动一次小规模“史诗怒火”行动
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中国新闻网
-- 时间: 2026-10-23 22:35
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE55QVhVUnJ1MjREZEh0Z0tMNmVJRmc1UXB0RVZhdkFLSVRzQmFCdS1aRGwwS0NaZ1lENklIRTFVRFV5NkJGZmRuRzRXbEc2MlRqVHRDenVsR1NIWjNDVHh5ejBEVEo5WVBh?oc=5>
-
-### 唐纳德·特朗普（Donald Trump）据称将在美国中期选举前取消加拿大商品50%的关税
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: VOI.ID
-- 时间: 2026-10-24 02:49
-- 链接: <https://news.google.com/rss/articles/CBMiR0FVX3lxTFBaa1hiQ3pSYkFQRnhzbTVFVG0yWkJwNjBWMEM4dEhpajg1WS1sSXJwX1lxcGl3X2VtbFp5UXgwUVA2U3RaWEJB0gFCQVVfeXFMTW1rb1hyb1R2SjR6dGQwMFYxUGpzQnNudFZPMGtfZC05aWgzMkozMzItdWdfYmswTC1vZzh1RnRCbld3?oc=5>
-
-### 报道：特朗普政府拟取消部分加拿大商品关税，助力中期选举
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 富途牛牛
-- 时间: 2026-10-23 21:26
-- 链接: <https://news.google.com/rss/articles/CBMisAFBVV95cUxPcFQ0Z0Z0cDZyUk9EU0ZsQVBZc0hvSF9sUDRqQnRRUjF4cVc0bFI4VDJ0NGN6dldIcVdpdzA3anJIYnQwM0dQTWdHYWw3NmpndVQ5STAyV0YwVng2Q0VjSF8yb0V0VGkxWnBGQzZ2NnE2VWR4UTlrTUI3eWdKQXpqRkR2WEZJT0FtVlNMbWZMS2hsQThlRElXeDN1UkphNDNTVE5xa29NbVJEZDhtMGdkSQ?oc=5>
+- 时间: 2026-10-24 03:42
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9haFQ3dGxzS0xmeHpaUmtmamFtV2JVbTZyalR4bDNTdkUydUh2SGdXZWRVZHFnVk85LUdsajlCUGh3QkxlOVdmUDJKeE94djd3c2NYYk5MTnlfb01zYXM1MEYyMlJFSkpHZmx1anQ5QnBHUmRVNElySkpoWTBaNTQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-24 09:42  (7 条)
+
+- **王一博** | 为何李宇春给肖战演唱会送花篮落款让人破防？ <https://k.sina.com.cn/article_7002256903_m1a15df60703301n04m.html>
+- **王一博** | 博君一肖粉丝演唱会喊话肖战 <https://k.sina.com.cn/article_7811247772_m1d1962e9c03301wlxs.html>
+- **王一博** | 王一宝未到场，王一现身演唱会 <https://k.sina.com.cn/article_7811247772_m1d1962e9c03301wlxo.html>
+- **特朗普** | 特朗普：要找马斯克谈谈 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE0zUUR3QzVtSUtoWlRIblBVTENEcjVwdTA1V0tUU2RZUjdMNm1tTkJud3VxOU1aTklYek04cU4zNXZfU0VqVXhuQXhTMnA?oc=5>
+- **特朗普** | 特朗普诉苦：干什么都会被告，“大把官司但不在乎” <https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX0N4TXZqZHNMWnkybjhDTVg0ZWdRdlVGM1pKUWxMc3BFQW03VFJfSEk4dTNrOXFGZWkxRU1hN2RWa2trMzFCMFpSbEs5cWlBTGlqWG5tTVdnRzlfcGZxTndFOXZGaERMcFRLSmFWWk5GaXJ2eGJ0aXNVTUlCV0tOX3BRejM4SEw1?oc=5>
+- **特朗普** | 古巴外长驳斥特朗普“顺道解决古巴”言论 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KMUxONTZqOEZuSGJwSUNVN2dzRlVMeC1jRXFSNlBZcWZid0VEc3dOUmVUXzRvTWJWTGViZWJYZ0lrRG05YlBqSHhKbXM4azdpdkE5alJ4aU9vM2dSeWo0Q2M3alU?oc=5>
+- **特朗普** | 特朗普：美国可能会对伊朗发动小规模“史诗怒火” <https://news.google.com/rss/articles/CBMif0FVX3lxTE9haFQ3dGxzS0xmeHpaUmtmamFtV2JVbTZyalR4bDNTdkUydUh2SGdXZWRVZHFnVk85LUdsajlCUGh3QkxlOVdmUDJKeE94djd3c2NYYk5MTnlfb01zYXM1MEYyMlJFSkpHZmx1anQ5QnBHUmRVNElySkpoWTBaNTQ?oc=5>
 
 ### 2026-10-24 05:23  (12 条)
 
