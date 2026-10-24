@@ -1,66 +1,170 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-24 09:42**
-- 本轮扫到 14413 条, 新增 **7** 条
+- 最近更新: **2026-10-24 13:46**
+- 本轮扫到 14432 条, 新增 **19** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (19 条)
 
-### 为何李宇春给肖战演唱会送花篮落款让人破防？
+### 租相机变骗相机！女子找演唱会搭子租相机套现去旅游
 
-- 艺人/关键词: **王一博**
+- 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7002256903_m1a15df60703301n04m.html>
+- 链接: <https://k.sina.com.cn/article_1652484947_m627eeb53033021hhk.html>
 
-### 博君一肖粉丝演唱会喊话肖战
+### 蔡徐坤在演唱会上说的“无所谓风”是什么意思？
 
-- 艺人/关键词: **王一博**
+- 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7811247772_m1d1962e9c03301wlxs.html>
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068017z7m.html>
 
-### 王一宝未到场，王一现身演唱会
+### 蔡徐坤新加坡演唱会门票秒空，银发造型延续荒原电影感
 
-- 艺人/关键词: **王一博**
+- 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7811247772_m1d1962e9c03301wlxo.html>
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068017z7k.html>
 
-### 特朗普：要找马斯克谈谈
+### 蔡徐坤新加坡演唱会具体在什么时间地点举办？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068017z7i.html>
+
+### 蔡徐坤新加坡演唱会开场四个分身同台
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1266269835_m4b79be8b03301e7xw.html>
+
+### 蔡徐坤新加坡演唱会开场四个分身分布四面舞台
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_6579479312_m1882ae31003301cvks.html>
+
+### 10月24日蔡徐坤新加坡演唱会
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7383423021_m1b816182d03301i2ya.html>
+
+### 蔡徐坤新加坡演唱会开场四个分身视角拆解
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5727695436_m15565b24c03301wzi2.html>
+
+### 蔡徐坤演唱会开场四分身同台
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_2495457342_m94bda83e03301emho.html>
+
+### 还是没有戒断 演唱会
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923704_m1d5ae17f8033020fsu.html>
+
+### 特朗普跟马斯克对着干，亲自下令解除限制，两人离彻底翻脸还远吗
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 手机新浪网
+- 时间: 2026-10-24 12:51
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFA2SEI3NGVOMkkwSzZDaEd1RnNNdlYyNjJyYzZIQ2pyMENBWWF5b3k5R3huQ28xSHFnaXVLTjYxMHl4STAwMV9qSV9fVDhWT2JUU3JWMUtteDdJQ1R4bUpaZzNheFlrZS1nWkFOYkktcnRnZw?oc=5>
+
+### 【美国中期选举】特朗普诉诸法律改变经贸政策 挽救共和党选情
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-10-24 11:54
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5DdjJkZHdEZUlsb3o0WGZ6LTdsOEdqLTl0VXRMRU51aWhwVzFKamlWQm8ybjJNOVhEbGN0R3hNWlJpYzdLc1QyakxOcVhfcVliTjRSYzBTaGxPcW5KbVlWeUdoX0VqYlVENkE?oc=5>
+
+### 距离美国中期选举仅剩10天, 最焦虑的居然不是特朗普
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 手机新浪网
+- 时间: 2026-10-24 12:33
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE0wTnVlWDZJWXVMUU1FcUtpY05IWHliMVJCWkZYMlpYLVpUaVpfWGlzckp6SWhLQktrN0lrWmppaW04aGx1bWY4b092SFJXWXo2OGVLUHVCb2lzajRxMjdRS2prNFhPTGxqS0ppV09MY0wxQQ?oc=5>
+
+### 特朗普脸上出现神秘新淤青，在社交平台发布隐晦消息
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-10-24 00:21
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE0zUUR3QzVtSUtoWlRIblBVTENEcjVwdTA1V0tUU2RZUjdMNm1tTkJud3VxOU1aTklYek04cU4zNXZfU0VqVXhuQXhTMnA?oc=5>
+- 时间: 2026-10-24 09:46
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9URExoMFRwWk1FekNWNXVXYVNNWUJ6OWJ5UnR2c25mTmdqMVJSU1pHbTlTNjNkb1hYeEdyYVllczZDS2s5UkxtQmxpY2Y?oc=5>
 
-### 特朗普诉苦：干什么都会被告，“大把官司但不在乎”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-10-24 06:19
-- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX0N4TXZqZHNMWnkybjhDTVg0ZWdRdlVGM1pKUWxMc3BFQW03VFJfSEk4dTNrOXFGZWkxRU1hN2RWa2trMzFCMFpSbEs5cWlBTGlqWG5tTVdnRzlfcGZxTndFOXZGaERMcFRLSmFWWk5GaXJ2eGJ0aXNVTUlCV0tOX3BRejM4SEw1?oc=5>
-
-### 古巴外长驳斥特朗普“顺道解决古巴”言论
+### 美伊“风向”生变？特朗普暗示或再打击伊朗，美方已做好长期对峙准备！
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-10-24 00:09
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KMUxONTZqOEZuSGJwSUNVN2dzRlVMeC1jRXFSNlBZcWZid0VEc3dOUmVUXzRvTWJWTGViZWJYZ0lrRG05YlBqSHhKbXM4azdpdkE5alJ4aU9vM2dSeWo0Q2M3alU?oc=5>
+- 场馆: 财联社
+- 时间: 2026-10-23 23:52
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTFBRRTg2TXRyUWV5VU9WMDNZZmM3M3JpcjBHYmRFbmVvYUZsc3B5S192ODBGaC0tLThGXzF4NDIxUmRhVnBRQWRvVg?oc=5>
 
-### 特朗普：美国可能会对伊朗发动小规模“史诗怒火”
+### 威胁在竞选集会上刺杀特朗普 美国堪萨斯男子遭逮捕
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-10-24 03:42
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9haFQ3dGxzS0xmeHpaUmtmamFtV2JVbTZyalR4bDNTdkUydUh2SGdXZWRVZHFnVk85LUdsajlCUGh3QkxlOVdmUDJKeE94djd3c2NYYk5MTnlfb01zYXM1MEYyMlJFSkpHZmx1anQ5QnBHUmRVNElySkpoWTBaNTQ?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-10-20 20:36
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZN1JiVlBic0hnSWdtNTZibHd1bGpTX0Y2LXlmMG5Hem1OS01WVHhfbWNxdnB5RHA2NkhzWVgxSnpsYU9iYlFJdWlaclJFV0JaZlAwTG5nS1h2cWRHNEJGU1llSDdOVXJSWUhTbjEyN1V0Zm9S?oc=5>
+
+### 特朗普取消对部分加拿大商品的关税，帮助提振共和党选情
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-10-24 00:49
+- 链接: <https://news.google.com/rss/articles/CBMipgFBVV95cUxPQnVyWWx0MjdKR2pmWVpwLTh1aGdkVVpfZEZuMDB3QVlMbTI5Tms3ZVZOOXQxY0hILXhtWFp3bGphRVlyYnFUYXE4NE1FdUxNSUJOZThfZkVJWHgyb2kzbVExaWtBbS1heGMxa2dXTnp3eHluaFJjbXJrTVU4WmVweDlEZlExZGRwSnBhWmM1ZnYzNk1sZ2xmc2hfa3V0aEVJVXFDcGN3?oc=5>
+
+### 难得的一个好消息
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-10-24 03:00
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBqcVg1OHVSTFJ1WlBRZTJTNVBiOXZxNWNVNGkzalEydzhwZ1pGYlBXOXBxaFBSQk5aRUJwOW9nOUgwUGJubGRENVI0Ti16ZkF4N3ZZd3FBRlhQeV9mQmozSWJ0Q2lUbFdqTk05MmpjQzFWcm5fbWlQRQ?oc=5>
+
+### 特朗普称可能对伊发动一次小规模“史诗怒火”行动
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 东方财富
+- 时间: 2026-10-24 11:24
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OVkJzTkpzakY3RTAxNE94ZlZiVlh3UG42VlF1SGZ4NWpiZ1Nva2RtU3hfXzNpLVNpdzV1dWxGdVNuSFRlMm1Wem8tekJyRmdaSkNtOHFOOHJpVlpuV1BlTQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-24 13:46  (19 条)
+
+- **蔡徐坤** | 租相机变骗相机！女子找演唱会搭子租相机套现去旅游 <https://k.sina.com.cn/article_1652484947_m627eeb53033021hhk.html>
+- **蔡徐坤** | 蔡徐坤在演唱会上说的“无所谓风”是什么意思？ <https://k.sina.com.cn/article_7879776356_1d5abd864068017z7m.html>
+- **蔡徐坤** | 蔡徐坤新加坡演唱会门票秒空，银发造型延续荒原电影感 <https://k.sina.com.cn/article_7879776356_1d5abd864068017z7k.html>
+- **蔡徐坤** | 蔡徐坤新加坡演唱会具体在什么时间地点举办？ <https://k.sina.com.cn/article_7879776356_1d5abd864068017z7i.html>
+- **蔡徐坤** | 蔡徐坤新加坡演唱会开场四个分身同台 <https://k.sina.com.cn/article_1266269835_m4b79be8b03301e7xw.html>
+- **蔡徐坤** | 蔡徐坤新加坡演唱会开场四个分身分布四面舞台 <https://k.sina.com.cn/article_6579479312_m1882ae31003301cvks.html>
+- **蔡徐坤** | 10月24日蔡徐坤新加坡演唱会 <https://k.sina.com.cn/article_7383423021_m1b816182d03301i2ya.html>
+- **蔡徐坤** | 蔡徐坤新加坡演唱会开场四个分身视角拆解 <https://k.sina.com.cn/article_5727695436_m15565b24c03301wzi2.html>
+- **蔡徐坤** | 蔡徐坤演唱会开场四分身同台 <https://k.sina.com.cn/article_2495457342_m94bda83e03301emho.html>
+- **周杰伦** | 还是没有戒断 演唱会 <https://k.sina.com.cn/article_7879923704_m1d5ae17f8033020fsu.html>
+- **特朗普** | 特朗普跟马斯克对着干，亲自下令解除限制，两人离彻底翻脸还远吗 <https://news.google.com/rss/articles/CBMickFVX3lxTFA2SEI3NGVOMkkwSzZDaEd1RnNNdlYyNjJyYzZIQ2pyMENBWWF5b3k5R3huQ28xSHFnaXVLTjYxMHl4STAwMV9qSV9fVDhWT2JUU3JWMUtteDdJQ1R4bUpaZzNheFlrZS1nWkFOYkktcnRnZw?oc=5>
+- **特朗普** | 【美国中期选举】特朗普诉诸法律改变经贸政策 挽救共和党选情 <https://news.google.com/rss/articles/CBMiakFVX3lxTE5DdjJkZHdEZUlsb3o0WGZ6LTdsOEdqLTl0VXRMRU51aWhwVzFKamlWQm8ybjJNOVhEbGN0R3hNWlJpYzdLc1QyakxOcVhfcVliTjRSYzBTaGxPcW5KbVlWeUdoX0VqYlVENkE?oc=5>
+- **特朗普** | 距离美国中期选举仅剩10天, 最焦虑的居然不是特朗普 <https://news.google.com/rss/articles/CBMickFVX3lxTE0wTnVlWDZJWXVMUU1FcUtpY05IWHliMVJCWkZYMlpYLVpUaVpfWGlzckp6SWhLQktrN0lrWmppaW04aGx1bWY4b092SFJXWXo2OGVLUHVCb2lzajRxMjdRS2prNFhPTGxqS0ppV09MY0wxQQ?oc=5>
+- **特朗普** | 特朗普脸上出现神秘新淤青，在社交平台发布隐晦消息 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9URExoMFRwWk1FekNWNXVXYVNNWUJ6OWJ5UnR2c25mTmdqMVJSU1pHbTlTNjNkb1hYeEdyYVllczZDS2s5UkxtQmxpY2Y?oc=5>
+- **特朗普** | 美伊“风向”生变？特朗普暗示或再打击伊朗，美方已做好长期对峙准备！ <https://news.google.com/rss/articles/CBMiSEFVX3lxTFBRRTg2TXRyUWV5VU9WMDNZZmM3M3JpcjBHYmRFbmVvYUZsc3B5S192ODBGaC0tLThGXzF4NDIxUmRhVnBRQWRvVg?oc=5>
+- **特朗普** | 威胁在竞选集会上刺杀特朗普 美国堪萨斯男子遭逮捕 <https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZN1JiVlBic0hnSWdtNTZibHd1bGpTX0Y2LXlmMG5Hem1OS01WVHhfbWNxdnB5RHA2NkhzWVgxSnpsYU9iYlFJdWlaclJFV0JaZlAwTG5nS1h2cWRHNEJGU1llSDdOVXJSWUhTbjEyN1V0Zm9S?oc=5>
+- **特朗普** | 特朗普取消对部分加拿大商品的关税，帮助提振共和党选情 <https://news.google.com/rss/articles/CBMipgFBVV95cUxPQnVyWWx0MjdKR2pmWVpwLTh1aGdkVVpfZEZuMDB3QVlMbTI5Tms3ZVZOOXQxY0hILXhtWFp3bGphRVlyYnFUYXE4NE1FdUxNSUJOZThfZkVJWHgyb2kzbVExaWtBbS1heGMxa2dXTnp3eHluaFJjbXJrTVU4WmVweDlEZlExZGRwSnBhWmM1ZnYzNk1sZ2xmc2hfa3V0aEVJVXFDcGN3?oc=5>
+- **特朗普** | 难得的一个好消息 <https://news.google.com/rss/articles/CBMieEFVX3lxTFBqcVg1OHVSTFJ1WlBRZTJTNVBiOXZxNWNVNGkzalEydzhwZ1pGYlBXOXBxaFBSQk5aRUJwOW9nOUgwUGJubGRENVI0Ti16ZkF4N3ZZd3FBRlhQeV9mQmozSWJ0Q2lUbFdqTk05MmpjQzFWcm5fbWlQRQ?oc=5>
+- **特朗普** | 特朗普称可能对伊发动一次小规模“史诗怒火”行动 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OVkJzTkpzakY3RTAxNE94ZlZiVlh3UG42VlF1SGZ4NWpiZ1Nva2RtU3hfXzNpLVNpdzV1dWxGdVNuSFRlMm1Wem8tekJyRmdaSkNtOHFOOHJpVlpuV1BlTQ?oc=5>
 
 ### 2026-10-24 09:42  (7 条)
 
