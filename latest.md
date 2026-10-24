@@ -1,73 +1,121 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-24 19:37**
-- 本轮扫到 14486 条, 新增 **12** 条
+- 最近更新: **2026-10-24 22:10**
+- 本轮扫到 14505 条, 新增 **19** 条
 
 ---
 
-## 本轮新发现 (12 条)
+## 本轮新发现 (19 条)
 
-### 蔡徐坤演唱会的曲目单有哪些？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776724_1d5abd9d406801n4ua.html>
-
-### 蔡徐坤2025年飞行了多少公里用于巡演和专辑制作？
+### 粉丝为看蔡徐坤演唱会最远需要奔波多少路程？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849300_1d5acf554068014rda.html>
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801nx66.html>
 
-### 蔡徐坤世界巡回演唱会为什么选择千人级小剧场而非大型体育场？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849300_1d5acf554068014rd8.html>
-
-### 蔡徐坤在新加坡演唱会上与粉丝有哪些近距离互动环节？
+### 蔡徐坤演唱会澳门站的门票多少钱？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849300_1d5acf554068014rde.html>
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068017zwy.html>
 
-### 跨越千里只为近距离相见！蔡徐坤小剧场巡演为何让粉丝如此奔赴
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849300_1d5acf554068014rd6.html>
-
-### 蔡徐坤新加坡演唱会《标签》直拍破千万
+### 蔡徐坤世界巡演为什么选择千人级小剧场而不是大型体育场？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924004_m1d5ae192403302d9ha.html>
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068017zt6.html>
 
-### 蔡徐坤演唱会新加坡站门票什么时候开售？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923111_1d5ae15a706801fco4.html>
-
-### 蔡徐坤演唱会的曲目单有公布吗？
+### 粉丝为看蔡徐坤演唱会最远飞了多少公里？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923379_1d5ae16b306801muzc.html>
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068017zt4.html>
 
-### 蔡徐坤演唱会下一站去哪？巡回行程最新进展
+### 蔡徐坤在演唱会现场和粉丝有哪些近距离互动环节？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923111_1d5ae15a706801fco2.html>
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068017zta.html>
 
-### 特朗普要求马斯克解除限制！
+### 蔡徐坤新加坡演唱会为什么选择千人级小剧场而不是大型体育场？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068017ztm.html>
+
+### 粉丝跨几千公里去看蔡徐坤演唱会，现场互动体验到底有多近？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068017zsi.html>
+
+### 蔡徐坤一年飞行近十八万公里，他的巡演行程有多密集？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068017zsm.html>
+
+### 跨越千里只为零距离！蔡徐坤小剧场巡演为何让粉丝如此疯狂
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068017zsa.html>
+
+### 飞越几千公里只为近距离见他！蔡徐坤巡演小剧场为何让粉丝如此奔赴
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068017zs8.html>
+
+### 蔡徐坤新加坡演唱会银发造型是如何设计的？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879849970_1d5acf7f206801fcrs.html>
+
+### 蔡徐坤银发背头造型亮相新加坡演唱会，粉丝直呼撕漫男
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879849970_1d5acf7f206801fcrq.html>
+
+### 蔡徐坤演唱会《I Wanna Get Love》的舞蹈难度大吗？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801nwua.html>
+
+### 特朗普将于10月30日前往佛罗里达代托纳。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 手机新浪网
-- 时间: 2026-10-24 17:54
-- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxQaVpJMHBBa0xXaEZHaUpsejVuVTcxbS15TUVGMWRMSDZPTEtBOVhFTTkyYTN5SEptaHRRMEljWmdUUjdDbi13Z2xrT0NvSHZsVnZGVGN2T2hNYkJLZGNMajh1YnMxNXNGaTl4NGRySGhMdEFZTjhEX0xlWnJ4X1dlQ2NqSQ?oc=5>
+- 时间: 2026-10-24 21:20
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE8yMEIwWHhvOEE1ZUFiSzQ2UXNMNV9qTlc3dVpTUThiRWt1SUVPUFFSZGo4TEhCS0czYWlTUDQxQXRaRVdMOGdsUXVlaw?oc=5>
+
+### 特朗普外交政策成期中选举共和党包袱
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-10-24 21:33
+- 链接: <https://news.google.com/rss/articles/CBMiqwJBVV95cUxQUlBScG9uVk9DeTNjNEZQaE1icWE2R2JHVU9DcFJJb0tJaXhqRXJaVUU0OE0ycWNxZFI5WWRkOE02cy1ZbUN0d2JkcUphUGtVUFJMYVRvNHdqU2tielZ5Z29TV3BGMEtfM2JyTlZRNE1xRDdFRFc1RTBwODZ4bmV4dWFCXy1ONERyeExxVnNteVNKcGk1TlhXcWhqX1VnM0IxdXowZUU5elV4X1IydUhTbzRvbjJXRjNfdE4xeTB6OXhmbVNmeWRENWcyNWZzaGk4WDB6RXB2MmgxQ1llUUFJSlRCRWFMNGRFOXhhY2pNYTZyTFFSZXg0ZWloWXdGSmZxZzNoaXhIdXJ4UHc3ejYzZFdMQjVmd1RQR2hKeGU0bDB5Z04tdTAybl9SMA?oc=5>
+
+### 美国官员：特朗普预计将宣布奥迪将在佐治亚州建设新工厂，每年生产20万辆SUV。
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 手机新浪网
+- 时间: 2026-10-24 20:59
+- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTFBiVzliMUpJcVA3OUFCYnVtcy1YMFVuRW1Hb3N1YjJuYlJubVNOS2VkcGcwNlkwNkxVU3BONnFoNE1FSGFxY3RpRzcySjJ3VjA?oc=5>
+
+### 特朗普：结束伊朗战事后，顺道解决古巴
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-10-24 03:16
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1FT19KS3paZjI4dXV6QlhXaU1rOUhEV0owRkFjR0xkZXBlLTJNQmZSYzhQZnFRcHV4OHBJa0UyMXNzX2pMVHFJTFh0RXY?oc=5>
 
 ### 共和党参议员选情告急 特朗普拟豁免更多加拿大产品关税
 
@@ -75,20 +123,42 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-10-23 21:03
-- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdUJaVXBscW1RNWR1TnpKMkU3Vno1UDBLeHg3YzZMWU1na3p1a2hhemlGSUkwN2RGejhyYl9NUExfZW1JZkNSXzlfdGgybjNiMTVLZHZ3ek1FWk9DRklzTzF3UzJpc0dMQ2FYU0E2bzhmUUFQTGE0NXhXVVd0ZWFxUTlheXlZTmREQzVPbHVLQWx4bXZMRERGdlh6UnZUWHN0NFZCeE91eHBHLW9yRV9QLXRJcjlNVF9CQUVyampLaW9HTDRCdERRWVYwMVl6WmNfWmc?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSHpENkxFOTFzTFg3blZtQlFPLV9XVF9kUVlKLUQwR1ZBWnA2T3ZyRlJmWUgtc2o2dS1Ed210V3l1eHRFTC1MX2F4dldNS3dVV1ZZc3J1MjVPVFV3QXFLLXNtV1VsZW55Rklfd0JSSm9mb3I1SEg4UXBoSTR0MkVubjR3TW1aX0tWYVlaRGV6VnVlbDliRFdIUzBSVWlUa2x5MXZwZlVtRjdOdFlWU1RBeFp5SWs0NzV6TDQwQjBYM2FKZEZ2dU85a3pxYXEzQUJweWc?oc=5>
 
-### 白宫：特朗普的夫人促成俄乌局部停火
+### 英媒：特朗普与金正恩今年恐难以会晤
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-23 22:11
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE0ySERWMkNmR1poVFJSZFNBbHh3a0Zmd1g3Nl9lRWQ0MTNJZlMtOU1SQXBMOTBvM0V0RE9FYUphZmhuYkZQd2VudHVSdw?oc=5>
+- 场馆: 搜狐网
+- 时间: 2026-10-24 11:07
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdXRBVEhaNGd2OEJQSTFIbl8zLTVPTXlPN0ZtSlJUOV9TVVRUdXRTMlVUZDVfX3JVMTZaV1h2bUNDODRRZlkzb3lBMTVKb1FBY3lCTDM1UTRHLURsNzhSbDJzd2dkMGFpZlZkVzBpRGdpN2pkQ2c3bV84RnBkLWxjTjFoMFdYWUpn?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-24 22:10  (19 条)
+
+- **蔡徐坤** | 粉丝为看蔡徐坤演唱会最远需要奔波多少路程？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801nx66.html>
+- **蔡徐坤** | 蔡徐坤演唱会澳门站的门票多少钱？ <https://k.sina.com.cn/article_7879776356_1d5abd864068017zwy.html>
+- **蔡徐坤** | 蔡徐坤世界巡演为什么选择千人级小剧场而不是大型体育场？ <https://k.sina.com.cn/article_7879776356_1d5abd864068017zt6.html>
+- **蔡徐坤** | 粉丝为看蔡徐坤演唱会最远飞了多少公里？ <https://k.sina.com.cn/article_7879776356_1d5abd864068017zt4.html>
+- **蔡徐坤** | 蔡徐坤在演唱会现场和粉丝有哪些近距离互动环节？ <https://k.sina.com.cn/article_7879776356_1d5abd864068017zta.html>
+- **蔡徐坤** | 蔡徐坤新加坡演唱会为什么选择千人级小剧场而不是大型体育场？ <https://k.sina.com.cn/article_7879776356_1d5abd864068017ztm.html>
+- **蔡徐坤** | 粉丝跨几千公里去看蔡徐坤演唱会，现场互动体验到底有多近？ <https://k.sina.com.cn/article_7879776356_1d5abd864068017zsi.html>
+- **蔡徐坤** | 蔡徐坤一年飞行近十八万公里，他的巡演行程有多密集？ <https://k.sina.com.cn/article_7879776356_1d5abd864068017zsm.html>
+- **蔡徐坤** | 跨越千里只为零距离！蔡徐坤小剧场巡演为何让粉丝如此疯狂 <https://k.sina.com.cn/article_7879776356_1d5abd864068017zsa.html>
+- **蔡徐坤** | 飞越几千公里只为近距离见他！蔡徐坤巡演小剧场为何让粉丝如此奔赴 <https://k.sina.com.cn/article_7879776356_1d5abd864068017zs8.html>
+- **蔡徐坤** | 蔡徐坤新加坡演唱会银发造型是如何设计的？ <https://k.sina.com.cn/article_7879849970_1d5acf7f206801fcrs.html>
+- **蔡徐坤** | 蔡徐坤银发背头造型亮相新加坡演唱会，粉丝直呼撕漫男 <https://k.sina.com.cn/article_7879849970_1d5acf7f206801fcrq.html>
+- **蔡徐坤** | 蔡徐坤演唱会《I Wanna Get Love》的舞蹈难度大吗？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801nwua.html>
+- **特朗普** | 特朗普将于10月30日前往佛罗里达代托纳。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE8yMEIwWHhvOEE1ZUFiSzQ2UXNMNV9qTlc3dVpTUThiRWt1SUVPUFFSZGo4TEhCS0czYWlTUDQxQXRaRVdMOGdsUXVlaw?oc=5>
+- **特朗普** | 特朗普外交政策成期中选举共和党包袱 <https://news.google.com/rss/articles/CBMiqwJBVV95cUxQUlBScG9uVk9DeTNjNEZQaE1icWE2R2JHVU9DcFJJb0tJaXhqRXJaVUU0OE0ycWNxZFI5WWRkOE02cy1ZbUN0d2JkcUphUGtVUFJMYVRvNHdqU2tielZ5Z29TV3BGMEtfM2JyTlZRNE1xRDdFRFc1RTBwODZ4bmV4dWFCXy1ONERyeExxVnNteVNKcGk1TlhXcWhqX1VnM0IxdXowZUU5elV4X1IydUhTbzRvbjJXRjNfdE4xeTB6OXhmbVNmeWRENWcyNWZzaGk4WDB6RXB2MmgxQ1llUUFJSlRCRWFMNGRFOXhhY2pNYTZyTFFSZXg0ZWloWXdGSmZxZzNoaXhIdXJ4UHc3ejYzZFdMQjVmd1RQR2hKeGU0bDB5Z04tdTAybl9SMA?oc=5>
+- **特朗普** | 美国官员：特朗普预计将宣布奥迪将在佐治亚州建设新工厂，每年生产20万辆SUV。 <https://news.google.com/rss/articles/CBMiT0FVX3lxTFBiVzliMUpJcVA3OUFCYnVtcy1YMFVuRW1Hb3N1YjJuYlJubVNOS2VkcGcwNlkwNkxVU3BONnFoNE1FSGFxY3RpRzcySjJ3VjA?oc=5>
+- **特朗普** | 特朗普：结束伊朗战事后，顺道解决古巴 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1FT19KS3paZjI4dXV6QlhXaU1rOUhEV0owRkFjR0xkZXBlLTJNQmZSYzhQZnFRcHV4OHBJa0UyMXNzX2pMVHFJTFh0RXY?oc=5>
+- **特朗普** | 共和党参议员选情告急 特朗普拟豁免更多加拿大产品关税 <https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSHpENkxFOTFzTFg3blZtQlFPLV9XVF9kUVlKLUQwR1ZBWnA2T3ZyRlJmWUgtc2o2dS1Ed210V3l1eHRFTC1MX2F4dldNS3dVV1ZZc3J1MjVPVFV3QXFLLXNtV1VsZW55Rklfd0JSSm9mb3I1SEg4UXBoSTR0MkVubjR3TW1aX0tWYVlaRGV6VnVlbDliRFdIUzBSVWlUa2x5MXZwZlVtRjdOdFlWU1RBeFp5SWs0NzV6TDQwQjBYM2FKZEZ2dU85a3pxYXEzQUJweWc?oc=5>
+- **特朗普** | 英媒：特朗普与金正恩今年恐难以会晤 <https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdXRBVEhaNGd2OEJQSTFIbl8zLTVPTXlPN0ZtSlJUOV9TVVRUdXRTMlVUZDVfX3JVMTZaV1h2bUNDODRRZlkzb3lBMTVKb1FBY3lCTDM1UTRHLURsNzhSbDJzd2dkMGFpZlZkVzBpRGdpN2pkQ2c3bV84RnBkLWxjTjFoMFdYWUpn?oc=5>
 
 ### 2026-10-24 19:37  (12 条)
 
