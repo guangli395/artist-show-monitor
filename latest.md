@@ -1,134 +1,123 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-24 00:57**
-- 本轮扫到 14394 条, 新增 **15** 条
+- 最近更新: **2026-10-24 05:23**
+- 本轮扫到 14406 条, 新增 **12** 条
 
 ---
 
-## 本轮新发现 (15 条)
+## 本轮新发现 (12 条)
 
-### 杰威尔音乐就周杰伦传闻发布的声明具体说了什么？
+### 肖战演唱会唱曲尽陈情中控变黄海
 
-- 艺人/关键词: **周杰伦**
+- 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879995911_1d5af320706802w0j2.html>
+- 链接: <https://k.sina.com.cn/article_7811247772_m1d1962e9c03301wj0u.html>
 
-### 难得的一个好消息，还是由特朗普夫人促成
+### 左边我在，右边晚安，肖战的演唱会真的震撼到我了
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-23 23:47
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFA1V01faHZOM2NMLUtFSUpLa1BFZVg5cnNsX2xiR0pNZ2dXbXV6NFRXaXFsZVVCSjZKMUwzaUkwcVBCZjl0WmlBNkdxSGg?oc=5>
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7811247772_m1d1962e9c03301wiy2.html>
 
-### 特朗普批詹姆斯对国家不敬，詹姆斯回应办公室今天新闻太少
+### 特朗普炮轰詹姆斯国歌不敬 詹姆斯双手背后低头回应
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪网
-- 时间: 2026-10-23 23:32
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5lSUhSZFd3eWdZTUkzWEZfRDI3MFBJQ0s5UHEtb09sRi1ISU9nVzB4OXZQd1BuV2dGWVpzdkEzZEh4ekhxR201U2RmT2M4b3g0QWI0d25reUJqVl9PRjFtMUlRaGRDYVQ0UFNPQWZLZ3U?oc=5>
+- 时间: 2026-10-24 04:32
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFAwQjA4YlI3NWZGdUVjMzR0WjByMVN2NjFJcnlqcjhMYUItY0tMR2FKZVZIRmEwQmZoMm1vUWt4Ynk3TmVxRXR3M1pZVTUyOFhlMm5fY25CWVp2MDJFWWlrT1duYkxhVVo0OEZQRjJRUnRJR2s?oc=5>
 
-### 关于乌克兰使用“星链”受限，特朗普：如果没解决，会找马斯克谈
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-10-23 23:39
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE15XzNHOUpWWlBwTWk4QkpJaWMxcjdHUW92RTc0ZVJUcnk2ajV3MWQ3RnJ3VGFieERydFFadTlXdjlsWEU3ZnZaN3BZenBwc3NFbHVHSGc2VEQtQ0c4SllFdldvbV9vb1Y0WjlfMFJ0T2hGSjA?oc=5>
-
-### 马斯克豪捐百亿，全部汇入“特朗普账户”，背后布局藏着多重图谋
+### 特朗普威胁对伊朗发动小规模“史诗怒火”行动，伊拟打击海底电缆，霍尔木兹传油轮触雷
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-10-24 00:47
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFBNZUd2WUNKaDdVSk1sVEJuOG94WkxlblRvMU5hemtQSy1IeWNMS1JXeEtqTWNPU1p2cDdlX0dkbnRYbVR1UmttU0twTUVzeTFSRU8zMDVWUXlyYmJjYjhJVXFOeHlSalR3R2lsbjU1cF90Zw?oc=5>
+- 场馆: 华尔街见闻
+- 时间: 2026-10-23 21:55
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBiajBWNEVOOUc1RXVfWkdERjkwdWVKLVNwQlpYME5BRWFJNXBtelliWEhEeTJDX244MWk2M1FucUhWSjMyX3VIcXVtdURhYWl2akZZ?oc=5>
 
-### 白宫：特朗普进一步调整了根据338条款征收关税的加拿大产品范围。
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-10-23 19:38
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9fQko1VjIxSUdGMlA4Skt1cVJNSlZOcUVGeEpwWkZsM1hGQ0dYdG9oQWx0VUZZck8yX2RzN2tfQkJwYTdCRmdNQnhzSQ?oc=5>
-
-### 共和党参议员选情告急 特朗普拟豁免更多加拿大产品关税
+### 10月24日外盘头条：俄乌同意奥列什基停火特朗普拟豁免更多加拿大产品关税美国将氦列入关键材料清单
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-10-23 21:03
-- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxQdDdpUVhUZFNrbVFRXzItWlozX3N1a0Q1QlZILTV3RGcwcTJVRjUxZ1FrYTgwU1ZaSUZVN1dSRjZDd19BVUlJN0pmU0FFajczYnhKcWYxdERiRTdkS0Y2NzVMa0VKcF9wcjFibVdRZGlTQzVRYTRqd0VoYUx1aXVhMm9RaUZibzcwc2VVenZFVQ?oc=5>
+- 时间: 2026-10-24 05:15
+- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxNczRQUnRsNDhlRWtXZUZPODIzR3NleFkzTzJzZVE1aVZ1eURQdFFCc2g0QlFYUVRsb3ozMTREMU5QN0otWjZCdTNfcC1jVUZzQkZ5bWp5NTBZOW9QX0lwRHlpbDVxOTVEbWhzdm1CNklac1FROHpONVZaLURiZ0taRXpjaGYyOUtXc1RwbWRKR2FUU2JvZEhORjdNZURrckpRM2M0MW1XS0c1YXRIMjBROUF6SEsyaVZGa3BaSC14SkdYUjh2bjVLTFFhY21VbVliZWc?oc=5>
 
-### 【美国中期选举】助力共和党候选人竞选 特朗普豁免部分加拿大产品关税
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-10-23 23:09
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5YMXMxOTNGV2lnVVBiMktzVmZZdXRvZVdCdFFZMldWUUh3ejYwbFNmTm9FcU9EMDVlc1lrbFlRdmFNTTJEbnNvaFZXZ1VuQzVyZEg5QnVENW9wOGJ3azdCU3NLXzhYZmNrcVE?oc=5>
-
-### 特朗普为什么如此喜欢俄罗斯？
+### 特朗普：或与马斯克沟通乌克兰使用“星链”受限问题
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-10-23 23:40
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1kcU8xR1FadmRPclNOajduVko5OThYM2lmSGUwSmo0WlpSMjhtRTdXbVM5Q2xJMUVDVmdCM2VITUcxdVRLTjRnNmNYQUJ4SFc4QV85STMwXzhqNjJHeW9fVnZ1TEpPLWcxN2t0TGRWNVdHZWc?oc=5>
+- 场馆: 新华网
+- 时间: 2026-10-23 18:41
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE13SnNQUDYxdFNUMUZBMkQwSnozSm1wMFdFYjJ5SUNuSDRGcVVoQ2VjdlpGdDlsaTlmbS1wdy1ueU01cTNJMm1NTlRnRklwdnp4TlpkbmR1bElmajBwb3N0NDRyM1BOTEVKZnVfTU96WFlSYWdpRW80ZVFEWXBYSlE?oc=5>
 
-### 特朗普：我已经亲自致......_7x24快讯_新浪财经
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-10-23 19:45
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1yVFVheVpHOGZxdWdMZjdWRHVWZ1hLazlEWEtUenF0QTZ2UnlKMVRLZi15RWFOX24zcUpoZXFJWDBqb09ianExT3pYdw?oc=5>
-
-### 特朗普与普京达成协议后 装载俄罗斯柴油的油轮驶向美国
+### 特朗普政府扩大对加拿大商品关税豁免范围，助力中期选举
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-10-23 21:06
-- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxOS0dJVTFQVG1qcldiZlNCQWtTSTMtRl9scktYaTJtSk5HZndJV1U3bHJWN3ZjcDJUUzdqVzJDd1BjU0ZsWjgxdURFcnN1UkJLU05HYlZtNTl1WENMVnR1d2pKdWNPdXdBMUJycmx6TXRDeUhZLWZ0OHkxbFVKMGRweWFGcnlTX0UxVUFiaXgwMHZfNDR5S25pdlhTaTljTF85NlF4VjJRWVNDdi1Id3NPc1lrQlB4OGlCOGh0OWNlMkRISFkxOVAwZVJHQzNxTjVFQXc?oc=5>
+- 场馆: 华尔街见闻
+- 时间: 2026-10-23 21:46
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE83NEx4Rktvdy1YNThNUi1tZnBsWHNkdklKVmU4eHQwU3pfTkt1eFR2aWdPVHgxVUZlaW5wNTZZVkNtQm5mNnNPNjVNSWhfQnpWaGhz?oc=5>
 
-### 白宫称特朗普夫人促成俄乌局部停火，俄乌局部停火将从10月29日开始
+### 美国中期选举丨特朗普政府与加州交锋：2万多人投票资格遭质疑
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-10-24 00:35
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxPYldkc2RVcW5rdzFRYk5vR0ZxZjZSNWE1bUxWUmdKTnpqZE44WlRMU3QyemE0bEh0SVA5MjNQMjc4WkVOMTc1Q04xQTVCUEdCMlFvS0hybGdUZUhXU3RBYTBNU193QnljSmVPMDV3N0NubEs2cHVNTWYtTU5qTzN4SU9kNHNRTVAxVXlraA?oc=5>
+- 场馆: ThePaper.cn
+- 时间: 2026-10-24 01:14
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE02YzBtdFR3TElmUDdsS3F0NFdEMl9qNlVvUEZNb1VIb0RGekljbkIzTm1iV0FQYlVvZjF6UkVyYW5nZVUyR1drXzFoQWRiMkRoa0FFRVFYWE9Rc18zSHUyTA?oc=5>
 
-### 特朗普总统：美国可以迅速结束与伊朗的冲突
+### 深读丨为什么特朗普爱改名？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-10-23 08:51
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBHSk0tTWRSbFNFUHRYUk5qMENGbmhUMW92Mk5BZzZrVmtjNjZiVFNaWWgzMURWNldTdTVycUxfNGthUUlubmpsWmZCaGliM0I3OHhNNjZNeVBEUFFHNW5nV1o1R3JKaVpaWThGSVJYYWFidnRKUFh4OHRkeVA0cFE?oc=5>
+
+### 特朗普称可能对伊发动一次小规模“史诗怒火”行动
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中国新闻网
+- 时间: 2026-10-23 22:35
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE55QVhVUnJ1MjREZEh0Z0tMNmVJRmc1UXB0RVZhdkFLSVRzQmFCdS1aRGwwS0NaZ1lENklIRTFVRFV5NkJGZmRuRzRXbEc2MlRqVHRDenVsR1NIWjNDVHh5ejBEVEo5WVBh?oc=5>
+
+### 唐纳德·特朗普（Donald Trump）据称将在美国中期选举前取消加拿大商品50%的关税
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-10-23 19:04
-- 链接: <https://news.google.com/rss/articles/CBMisAFBVV95cUxNTnA5N0p1UFJ5ZmV5eDZCeC1QakI5ZG5GbV8tNnZVZ1BqeDZVSndLWFNNanN4LU1ZNzd3a1RObWpXU1ZwWG9tUkhzSmFXcWEyVEs5VFpvdGFwc0pXc1NHclU3TmhYZlQtU1pJdG9GR1dhQzN3Ykk5NDB2LS1ieGt2enFLQ1ZCYkFMbktpdllRQngwVWNTX0xXZGlhQm1wVnZ6T2xoWTJmSHRsWVplMzZKctIBswFBVV95cUxQNnBuZTdoMGFCWVo0NklYX0czLTJGWUxCS0F3WmpvSjViNUVsNEtfVTI4QURyQV9NemhlWWQ4aGxjdTdVNE4zMkFvQ3EtRFVyZ1VIYnJwcS1XakpxYVR6UVdTckdkVEpGMmtCbW9UQUJSV1AzMGl3OXRmdVZpa01sU19sbUtJNEx5WkhpV09LSkVpeFVaRUdjUmtCMUJUX1luQ2k1ZzJYdUJYU3lzUzdlcFoxNA?oc=5>
+- 场馆: VOI.ID
+- 时间: 2026-10-24 02:49
+- 链接: <https://news.google.com/rss/articles/CBMiR0FVX3lxTFBaa1hiQ3pSYkFQRnhzbTVFVG0yWkJwNjBWMEM4dEhpajg1WS1sSXJwX1lxcGl3X2VtbFp5UXgwUVA2U3RaWEJB0gFCQVVfeXFMTW1rb1hyb1R2SjR6dGQwMFYxUGpzQnNudFZPMGtfZC05aWgzMkozMzItdWdfYmswTC1vZzh1RnRCbld3?oc=5>
 
-### 特朗普：美国或再次对伊朗展开军事行动
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-10-24 00:32
-- 链接: <https://news.google.com/rss/articles/CBMingFBVV95cUxOQnVIT283cGJRZjhOYXdpdFo2U1N3ZHN3aUR0cWs1Uk1xUVFFWlV4QWtsWnJWSVBFX09wUDFKaWdiME9ac0t3WTExVUxaak41Uk40aWo0UDVLbmZzTkFvNnJKMEFWMWFscjhhX01aTnl3RzUwZ0kxejkyVzBiWmNvQ1ZFWkVHX0lZNnotOGtyVk5ER1A4eUtVU2hkdWpwdw?oc=5>
-
-### 特朗普签署行政命令 取消部分加拿大产品关税
+### 报道：特朗普政府拟取消部分加拿大商品关税，助力中期选举
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-10-23 23:13
-- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVno4MFFlU1NMa3g2ZDdoRktoN3hNYlNONm93VVJaeW5aQmszdmJvMzM5ekhDZ0ZBQ1NfTktFbjd6V3praXBSYkNTYTJHZENqNXlJY0ozTE5INmlRWnlWWXhLMnZfV2FDUXFBajNRVkg4VEYyTU5uTzJ1d2tKRmpoSGlCNFZzaEt2?oc=5>
+- 场馆: 富途牛牛
+- 时间: 2026-10-23 21:26
+- 链接: <https://news.google.com/rss/articles/CBMisAFBVV95cUxPcFQ0Z0Z0cDZyUk9EU0ZsQVBZc0hvSF9sUDRqQnRRUjF4cVc0bFI4VDJ0NGN6dldIcVdpdzA3anJIYnQwM0dQTWdHYWw3NmpndVQ5STAyV0YwVng2Q0VjSF8yb0V0VGkxWnBGQzZ2NnE2VWR4UTlrTUI3eWdKQXpqRkR2WEZJT0FtVlNMbWZMS2hsQThlRElXeDN1UkphNDNTVE5xa29NbVJEZDhtMGdkSQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-24 05:23  (12 条)
+
+- **王一博** | 肖战演唱会唱曲尽陈情中控变黄海 <https://k.sina.com.cn/article_7811247772_m1d1962e9c03301wj0u.html>
+- **王一博** | 左边我在，右边晚安，肖战的演唱会真的震撼到我了 <https://k.sina.com.cn/article_7811247772_m1d1962e9c03301wiy2.html>
+- **特朗普** | 特朗普炮轰詹姆斯国歌不敬 詹姆斯双手背后低头回应 <https://news.google.com/rss/articles/CBMic0FVX3lxTFAwQjA4YlI3NWZGdUVjMzR0WjByMVN2NjFJcnlqcjhMYUItY0tMR2FKZVZIRmEwQmZoMm1vUWt4Ynk3TmVxRXR3M1pZVTUyOFhlMm5fY25CWVp2MDJFWWlrT1duYkxhVVo0OEZQRjJRUnRJR2s?oc=5>
+- **特朗普** | 特朗普威胁对伊朗发动小规模“史诗怒火”行动，伊拟打击海底电缆，霍尔木兹传油轮触雷 <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBiajBWNEVOOUc1RXVfWkdERjkwdWVKLVNwQlpYME5BRWFJNXBtelliWEhEeTJDX244MWk2M1FucUhWSjMyX3VIcXVtdURhYWl2akZZ?oc=5>
+- **特朗普** | 10月24日外盘头条：俄乌同意奥列什基停火特朗普拟豁免更多加拿大产品关税美国将氦列入关键材料清单 <https://news.google.com/rss/articles/CBMi0gFBVV95cUxNczRQUnRsNDhlRWtXZUZPODIzR3NleFkzTzJzZVE1aVZ1eURQdFFCc2g0QlFYUVRsb3ozMTREMU5QN0otWjZCdTNfcC1jVUZzQkZ5bWp5NTBZOW9QX0lwRHlpbDVxOTVEbWhzdm1CNklac1FROHpONVZaLURiZ0taRXpjaGYyOUtXc1RwbWRKR2FUU2JvZEhORjdNZURrckpRM2M0MW1XS0c1YXRIMjBROUF6SEsyaVZGa3BaSC14SkdYUjh2bjVLTFFhY21VbVliZWc?oc=5>
+- **特朗普** | 特朗普：或与马斯克沟通乌克兰使用“星链”受限问题 <https://news.google.com/rss/articles/CBMif0FVX3lxTE13SnNQUDYxdFNUMUZBMkQwSnozSm1wMFdFYjJ5SUNuSDRGcVVoQ2VjdlpGdDlsaTlmbS1wdy1ueU01cTNJMm1NTlRnRklwdnp4TlpkbmR1bElmajBwb3N0NDRyM1BOTEVKZnVfTU96WFlSYWdpRW80ZVFEWXBYSlE?oc=5>
+- **特朗普** | 特朗普政府扩大对加拿大商品关税豁免范围，助力中期选举 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE83NEx4Rktvdy1YNThNUi1tZnBsWHNkdklKVmU4eHQwU3pfTkt1eFR2aWdPVHgxVUZlaW5wNTZZVkNtQm5mNnNPNjVNSWhfQnpWaGhz?oc=5>
+- **特朗普** | 美国中期选举丨特朗普政府与加州交锋：2万多人投票资格遭质疑 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE02YzBtdFR3TElmUDdsS3F0NFdEMl9qNlVvUEZNb1VIb0RGekljbkIzTm1iV0FQYlVvZjF6UkVyYW5nZVUyR1drXzFoQWRiMkRoa0FFRVFYWE9Rc18zSHUyTA?oc=5>
+- **特朗普** | 深读丨为什么特朗普爱改名？ <https://news.google.com/rss/articles/CBMif0FVX3lxTFBHSk0tTWRSbFNFUHRYUk5qMENGbmhUMW92Mk5BZzZrVmtjNjZiVFNaWWgzMURWNldTdTVycUxfNGthUUlubmpsWmZCaGliM0I3OHhNNjZNeVBEUFFHNW5nV1o1R3JKaVpaWThGSVJYYWFidnRKUFh4OHRkeVA0cFE?oc=5>
+- **特朗普** | 特朗普称可能对伊发动一次小规模“史诗怒火”行动 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE55QVhVUnJ1MjREZEh0Z0tMNmVJRmc1UXB0RVZhdkFLSVRzQmFCdS1aRGwwS0NaZ1lENklIRTFVRFV5NkJGZmRuRzRXbEc2MlRqVHRDenVsR1NIWjNDVHh5ejBEVEo5WVBh?oc=5>
+- **Trump** | 唐纳德·特朗普（Donald Trump）据称将在美国中期选举前取消加拿大商品50%的关税 <https://news.google.com/rss/articles/CBMiR0FVX3lxTFBaa1hiQ3pSYkFQRnhzbTVFVG0yWkJwNjBWMEM4dEhpajg1WS1sSXJwX1lxcGl3X2VtbFp5UXgwUVA2U3RaWEJB0gFCQVVfeXFMTW1rb1hyb1R2SjR6dGQwMFYxUGpzQnNudFZPMGtfZC05aWgzMkozMzItdWdfYmswTC1vZzh1RnRCbld3?oc=5>
+- **Trump** | 报道：特朗普政府拟取消部分加拿大商品关税，助力中期选举 <https://news.google.com/rss/articles/CBMisAFBVV95cUxPcFQ0Z0Z0cDZyUk9EU0ZsQVBZc0hvSF9sUDRqQnRRUjF4cVc0bFI4VDJ0NGN6dldIcVdpdzA3anJIYnQwM0dQTWdHYWw3NmpndVQ5STAyV0YwVng2Q0VjSF8yb0V0VGkxWnBGQzZ2NnE2VWR4UTlrTUI3eWdKQXpqRkR2WEZJT0FtVlNMbWZMS2hsQThlRElXeDN1UkphNDNTVE5xa29NbVJEZDhtMGdkSQ?oc=5>
 
 ### 2026-10-24 00:57  (15 条)
 
