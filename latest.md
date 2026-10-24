@@ -1,148 +1,321 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-24 13:46**
-- 本轮扫到 14432 条, 新增 **19** 条
+- 最近更新: **2026-10-24 17:08**
+- 本轮扫到 14474 条, 新增 **42** 条
 
 ---
 
-## 本轮新发现 (19 条)
+## 本轮新发现 (42 条)
 
-### 租相机变骗相机！女子找演唱会搭子租相机套现去旅游
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1652484947_m627eeb53033021hhk.html>
-
-### 蔡徐坤在演唱会上说的“无所谓风”是什么意思？
+### 蔡徐坤在新加坡演唱会上演唱了哪些歌曲？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068017z7m.html>
+- 链接: <https://k.sina.com.cn/article_7879849291_1d5acf54b06801ko12.html>
 
-### 蔡徐坤新加坡演唱会门票秒空，银发造型延续荒原电影感
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068017z7k.html>
-
-### 蔡徐坤新加坡演唱会具体在什么时间地点举办？
+### 粉丝如何评价蔡徐坤新加坡演唱会的舞台表现？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068017z7i.html>
+- 链接: <https://k.sina.com.cn/article_7880068588_1d5b04dec06801tqgc.html>
 
-### 蔡徐坤新加坡演唱会开场四个分身同台
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1266269835_m4b79be8b03301e7xw.html>
-
-### 蔡徐坤新加坡演唱会开场四个分身分布四面舞台
+### 蔡徐坤新加坡演唱会网纱造型的具体设计是什么样的？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6579479312_m1882ae31003301cvks.html>
+- 链接: <https://k.sina.com.cn/article_7879923373_1d5ae16ad06801fl28.html>
 
-### 10月24日蔡徐坤新加坡演唱会
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7383423021_m1b816182d03301i2ya.html>
-
-### 蔡徐坤新加坡演唱会开场四个分身视角拆解
+### 蔡徐坤在新加坡演唱会演唱了哪些歌曲？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5727695436_m15565b24c03301wzi2.html>
+- 链接: <https://k.sina.com.cn/article_7880068588_1d5b04dec06801tqg6.html>
 
-### 蔡徐坤演唱会开场四分身同台
+### 蔡徐坤新加坡演唱会《情人》直拍 OMG大合唱永远那么夯
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2495457342_m94bda83e03301emho.html>
+- 链接: <https://k.sina.com.cn/article_5885611158_m15ecf4c9603301j99y.html>
 
-### 还是没有戒断 演唱会
+### 蔡徐坤下一场海外演唱会安排在什么时候？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879849292_1d5acf54c06801esec.html>
+
+### 蔡徐坤新加坡演唱会银发背头造型是怎么设计的？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879849292_1d5acf54c06801ese8.html>
+
+### 蔡徐坤演唱会上全开麦唱了哪些歌曲？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879849292_1d5acf54c06801ese6.html>
+
+### 蔡徐坤演唱会银发真的太帅了满满的少年感
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5767104671_m157bf089f03303m1te.html>
+
+### 粉丝如何获取蔡徐坤演唱会彩排路透？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068017zlw.html>
+
+### 第一次看蔡徐坤演唱会需要注意什么？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068017zlu.html>
+
+### 蔡徐坤新加坡演唱会具体在什么时间什么场馆举办？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923107_1d5ae15a30680433ke.html>
+
+### 蔡徐坤新加坡演唱会连开两场的门票为什么能全部售罄？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879849291_1d5acf54b06801knyu.html>
+
+### 蔡徐坤在演唱会上说的‘无所谓风’是什么意思？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7880068200_1d5b04c6806801qre6.html>
+
+### 蔡徐坤新加坡演唱会银发造型和四面舞台具体有哪些看点？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923107_1d5ae15a30680433iq.html>
+
+### 蔡徐坤新加坡演唱会的银发造型和四面台舞台有哪些看点？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879849291_1d5acf54b06801knxy.html>
+
+### 蔡徐坤新加坡演唱会连开两场售罄，银发造型四面台引爆全场
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879849291_1d5acf54b06801knxw.html>
+
+### 蔡徐坤在演唱会上提到的‘十年之约’具体指什么？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7880068200_1d5b04c6806801qrdw.html>
+
+### 蔡徐坤新加坡演唱会的舞台设计和开场有哪些亮点？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7880068200_1d5b04c6806801qrdu.html>
+
+### 蔡徐坤银发背头造型炸场，新加坡演唱会全开麦唱跳封神
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7880068200_1d5b04c6806801qrds.html>
+
+### 蔡徐坤新加坡演唱会Hiphop Dance Break直拍为何被称为封神现场？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068017zi8.html>
+
+### 蔡徐坤The Deadman巡演后续还有哪些城市的直拍计划？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068017zi0.html>
+
+### 蔡徐坤演唱会全部演唱原创曲目，具体都有哪些作品？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068017zgu.html>
+
+### 蔡徐坤在新加坡演唱会上的银发造型和舞台设计有什么亮点？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068017zgi.html>
+
+### 蔡徐坤新加坡演唱会两套造型分别是什么风格？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068017zg0.html>
+
+### 蔡徐坤新加坡演唱会的舞台设计有什么特别之处？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068017zfy.html>
+
+### 蔡徐坤新加坡演唱会为什么两场门票都能秒空？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068017zfs.html>
+
+### 蔡徐坤新加坡演唱会网纱造型惊艳，银发皮衣切换引爆舞台
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068017zfq.html>
+
+### 蔡徐坤新加坡演唱会连开两场秒罄，银发造型引爆现场
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068017zfk.html>
+
+### 蔡徐坤新加坡演唱会网纱造型具体是什么样的？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068017zfg.html>
+
+### 蔡徐坤在演唱会上全开麦演唱了哪些歌曲？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801nwg0.html>
+
+### 蔡徐坤新加坡演唱会今晚开唱
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5450389695_m144de58bf03301wrj2.html>
+
+### 普通观众如何能买到蔡徐坤演唱会的门票？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801nwd0.html>
+
+### 蔡徐坤后续巡演还会延续银发撕漫男风格吗？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776406_1d5abd89606802whna.html>
+
+### 蔡徐坤新加坡站演唱会为什么能连开两场全部售罄？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776406_1d5abd89606802whn4.html>
+
+### 蔡徐坤新加坡演唱会的银发造型有什么特别设计？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776406_1d5abd89606802whmo.html>
+
+### 蔡徐坤银发造型亮相新加坡演唱会 Honour开场氛围感拉满
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_3666565210_mda8b585a03301d5gg.html>
+
+### 蔡司APO超级长焦拍演唱会看台真的能拍清楚吗？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923704_m1d5ae17f8033020fsu.html>
+- 链接: <https://k.sina.com.cn/article_7880069140_1d5b05014068051xey.html>
 
-### 特朗普跟马斯克对着干，亲自下令解除限制，两人离彻底翻脸还远吗
+### 特朗普：我才不在乎手上有几百桩官司
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-10-24 12:51
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFA2SEI3NGVOMkkwSzZDaEd1RnNNdlYyNjJyYzZIQ2pyMENBWWF5b3k5R3huQ28xSHFnaXVLTjYxMHl4STAwMV9qSV9fVDhWT2JUU3JWMUtteDdJQ1R4bUpaZzNheFlrZS1nWkFOYkktcnRnZw?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-10-24 14:47
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTFBlSWM0OVlmdFZDNkVRdi1YSG1oblNrQ1ZJSWlNY3pUeGZweXZ2aFJuaUpoa2lWTWVfRHhPNTJXelVtMWhZZGVrRzJKcm1HMk1ma1VBZzZwT3FHUDZQcEMxOTI4Sk1LcEdBT0tXQUEwZVdxYlhLN3c?oc=5>
 
-### 【美国中期选举】特朗普诉诸法律改变经贸政策 挽救共和党选情
+### 为助力缅因州参议员，特朗普拟取消部分加拿大商品50%关税
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-10-24 14:48
+- 链接: <https://news.google.com/rss/articles/CBMingJBVV95cUxQLURLTnR5R2VDWFp4NXEzeFBIU3JkWmVkUHh4cEs3b1A5UVlYdUhsYTV1NGlMdzlFcjB4MlNSZWN5NU1Tc0diczhFanZRTXB1TUhOTHJzMEl4R2Z3dkJPNzNIYjE0RkZ2eDdrd1RhOE53Sm9qXzU5T0Z6eGc5c0RJcUVtOWxackpNYXBUTW12RDE5emVQSmJsTThObkgtQXhjbmwzc1h4dDhDS1JtckVvdTQzQlN0YnQ2bUw1OXVsWWpnQTVWbEFoQ2w0d0Zodl80ZjBOOW0xV2YzOU1KWXZKOFd3MUFIRnFCSzJvbUl2Y0NtakM2M3FjWTZYVUp2a3ZEblp6Y1M2UWJFQk1xNVBFTlh3QkJoSDJ3THBfY3h3?oc=5>
+
+### 梅拉尼娅-特朗普宣布在乌克兰一座“濒临灾难”的城市停火
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-10-24 14:43
+- 链接: <https://news.google.com/rss/articles/CBMigwNBVV95cUxQNm9zOEpGby1XWENrazlhMGpoZ1ptdU5HNjJTc0xLZ0lmcGh2VVY1WThpU0o0RjJneHBJZzVwT0xzZ0pPLXlrVkRSNUx3YU16ZlJZQXE3MXI5cklBbVNJUmE0OWNoVElET2lPOVhVSTV6RU5jYXBMVVBKSmRCRFRTNlFOQjJlVEZJckozdFREX3R3ZUQ5NGVUemRydnQ1Z241a1ZsVzBIQ0dPdWxfTHIxYTl5X1NIWnJEZVh1WUNjd0hRdWVlM21aMjJpZmFBdWFydVFJUk4wN2xVbHNBWm9mX1lZcVZ1YUE3b3dqRUxrZ2tOa3BiWDZIcEliNjlobXRXd0pJWm1Ca1d3TEFtYkNMQlZVb3ZMQTQ3aV8yNWZYRXdYSTNtX3QxZ3Z3c1RFWk42MzUwQmhXc0o5NFJLTG5KeS1qTERFNElIMVZZUmxreVR5WUg4UlhXSlotWXVsaDRyUUdjN3N0VFdFT1NFa0dyejNNYmZ1SE9lMnIxc1JzaWE0eVk?oc=5>
+
+### 特朗普称可能迁移白宫记者团办公地点
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 联合早报
-- 时间: 2026-10-24 11:54
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5DdjJkZHdEZUlsb3o0WGZ6LTdsOEdqLTl0VXRMRU51aWhwVzFKamlWQm8ybjJNOVhEbGN0R3hNWlJpYzdLc1QyakxOcVhfcVliTjRSYzBTaGxPcW5KbVlWeUdoX0VqYlVENkE?oc=5>
-
-### 距离美国中期选举仅剩10天, 最焦虑的居然不是特朗普
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-10-24 12:33
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE0wTnVlWDZJWXVMUU1FcUtpY05IWHliMVJCWkZYMlpYLVpUaVpfWGlzckp6SWhLQktrN0lrWmppaW04aGx1bWY4b092SFJXWXo2OGVLUHVCb2lzajRxMjdRS2prNFhPTGxqS0ppV09MY0wxQQ?oc=5>
-
-### 特朗普脸上出现神秘新淤青，在社交平台发布隐晦消息
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-24 09:46
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9URExoMFRwWk1FekNWNXVXYVNNWUJ6OWJ5UnR2c25mTmdqMVJSU1pHbTlTNjNkb1hYeEdyYVllczZDS2s5UkxtQmxpY2Y?oc=5>
-
-### 美伊“风向”生变？特朗普暗示或再打击伊朗，美方已做好长期对峙准备！
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-10-23 23:52
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTFBRRTg2TXRyUWV5VU9WMDNZZmM3M3JpcjBHYmRFbmVvYUZsc3B5S192ODBGaC0tLThGXzF4NDIxUmRhVnBRQWRvVg?oc=5>
-
-### 威胁在竞选集会上刺杀特朗普 美国堪萨斯男子遭逮捕
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-10-20 20:36
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZN1JiVlBic0hnSWdtNTZibHd1bGpTX0Y2LXlmMG5Hem1OS01WVHhfbWNxdnB5RHA2NkhzWVgxSnpsYU9iYlFJdWlaclJFV0JaZlAwTG5nS1h2cWRHNEJGU1llSDdOVXJSWUhTbjEyN1V0Zm9S?oc=5>
-
-### 特朗普取消对部分加拿大商品的关税，帮助提振共和党选情
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-10-24 00:49
-- 链接: <https://news.google.com/rss/articles/CBMipgFBVV95cUxPQnVyWWx0MjdKR2pmWVpwLTh1aGdkVVpfZEZuMDB3QVlMbTI5Tms3ZVZOOXQxY0hILXhtWFp3bGphRVlyYnFUYXE4NE1FdUxNSUJOZThfZkVJWHgyb2kzbVExaWtBbS1heGMxa2dXTnp3eHluaFJjbXJrTVU4WmVweDlEZlExZGRwSnBhWmM1ZnYzNk1sZ2xmc2hfa3V0aEVJVXFDcGN3?oc=5>
-
-### 难得的一个好消息
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-10-24 03:00
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBqcVg1OHVSTFJ1WlBRZTJTNVBiOXZxNWNVNGkzalEydzhwZ1pGYlBXOXBxaFBSQk5aRUJwOW9nOUgwUGJubGRENVI0Ti16ZkF4N3ZZd3FBRlhQeV9mQmozSWJ0Q2lUbFdqTk05MmpjQzFWcm5fbWlQRQ?oc=5>
-
-### 特朗普称可能对伊发动一次小规模“史诗怒火”行动
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-10-24 11:24
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OVkJzTkpzakY3RTAxNE94ZlZiVlh3UG42VlF1SGZ4NWpiZ1Nva2RtU3hfXzNpLVNpdzV1dWxGdVNuSFRlMm1Wem8tekJyRmdaSkNtOHFOOHJpVlpuV1BlTQ?oc=5>
+- 时间: 2026-10-24 13:53
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9fM0NycV9zSVZWNFBsNzZucWhXTGV5V1czd3pyb2xycktPSUNXaEU3U0htNTAxUFZ1czFHem9XQnB4RHdGRlJqSHMtQWQ4UzJXMGV4MnhZR1VVVmZlNkNJNmR1aHpubi1RQmc?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-24 17:08  (42 条)
+
+- **蔡徐坤** | 蔡徐坤在新加坡演唱会上演唱了哪些歌曲？ <https://k.sina.com.cn/article_7879849291_1d5acf54b06801ko12.html>
+- **蔡徐坤** | 粉丝如何评价蔡徐坤新加坡演唱会的舞台表现？ <https://k.sina.com.cn/article_7880068588_1d5b04dec06801tqgc.html>
+- **蔡徐坤** | 蔡徐坤新加坡演唱会网纱造型的具体设计是什么样的？ <https://k.sina.com.cn/article_7879923373_1d5ae16ad06801fl28.html>
+- **蔡徐坤** | 蔡徐坤在新加坡演唱会演唱了哪些歌曲？ <https://k.sina.com.cn/article_7880068588_1d5b04dec06801tqg6.html>
+- **蔡徐坤** | 蔡徐坤新加坡演唱会《情人》直拍 OMG大合唱永远那么夯 <https://k.sina.com.cn/article_5885611158_m15ecf4c9603301j99y.html>
+- **蔡徐坤** | 蔡徐坤下一场海外演唱会安排在什么时候？ <https://k.sina.com.cn/article_7879849292_1d5acf54c06801esec.html>
+- **蔡徐坤** | 蔡徐坤新加坡演唱会银发背头造型是怎么设计的？ <https://k.sina.com.cn/article_7879849292_1d5acf54c06801ese8.html>
+- **蔡徐坤** | 蔡徐坤演唱会上全开麦唱了哪些歌曲？ <https://k.sina.com.cn/article_7879849292_1d5acf54c06801ese6.html>
+- **蔡徐坤** | 蔡徐坤演唱会银发真的太帅了满满的少年感 <https://k.sina.com.cn/article_5767104671_m157bf089f03303m1te.html>
+- **蔡徐坤** | 粉丝如何获取蔡徐坤演唱会彩排路透？ <https://k.sina.com.cn/article_7879776356_1d5abd864068017zlw.html>
+- **蔡徐坤** | 第一次看蔡徐坤演唱会需要注意什么？ <https://k.sina.com.cn/article_7879776356_1d5abd864068017zlu.html>
+- **蔡徐坤** | 蔡徐坤新加坡演唱会具体在什么时间什么场馆举办？ <https://k.sina.com.cn/article_7879923107_1d5ae15a30680433ke.html>
+- **蔡徐坤** | 蔡徐坤新加坡演唱会连开两场的门票为什么能全部售罄？ <https://k.sina.com.cn/article_7879849291_1d5acf54b06801knyu.html>
+- **蔡徐坤** | 蔡徐坤在演唱会上说的‘无所谓风’是什么意思？ <https://k.sina.com.cn/article_7880068200_1d5b04c6806801qre6.html>
+- **蔡徐坤** | 蔡徐坤新加坡演唱会银发造型和四面舞台具体有哪些看点？ <https://k.sina.com.cn/article_7879923107_1d5ae15a30680433iq.html>
+- **蔡徐坤** | 蔡徐坤新加坡演唱会的银发造型和四面台舞台有哪些看点？ <https://k.sina.com.cn/article_7879849291_1d5acf54b06801knxy.html>
+- **蔡徐坤** | 蔡徐坤新加坡演唱会连开两场售罄，银发造型四面台引爆全场 <https://k.sina.com.cn/article_7879849291_1d5acf54b06801knxw.html>
+- **蔡徐坤** | 蔡徐坤在演唱会上提到的‘十年之约’具体指什么？ <https://k.sina.com.cn/article_7880068200_1d5b04c6806801qrdw.html>
+- **蔡徐坤** | 蔡徐坤新加坡演唱会的舞台设计和开场有哪些亮点？ <https://k.sina.com.cn/article_7880068200_1d5b04c6806801qrdu.html>
+- **蔡徐坤** | 蔡徐坤银发背头造型炸场，新加坡演唱会全开麦唱跳封神 <https://k.sina.com.cn/article_7880068200_1d5b04c6806801qrds.html>
+- **蔡徐坤** | 蔡徐坤新加坡演唱会Hiphop Dance Break直拍为何被称为封神现场？ <https://k.sina.com.cn/article_7879776356_1d5abd864068017zi8.html>
+- **蔡徐坤** | 蔡徐坤The Deadman巡演后续还有哪些城市的直拍计划？ <https://k.sina.com.cn/article_7879776356_1d5abd864068017zi0.html>
+- **蔡徐坤** | 蔡徐坤演唱会全部演唱原创曲目，具体都有哪些作品？ <https://k.sina.com.cn/article_7879776356_1d5abd864068017zgu.html>
+- **蔡徐坤** | 蔡徐坤在新加坡演唱会上的银发造型和舞台设计有什么亮点？ <https://k.sina.com.cn/article_7879776356_1d5abd864068017zgi.html>
+- **蔡徐坤** | 蔡徐坤新加坡演唱会两套造型分别是什么风格？ <https://k.sina.com.cn/article_7879776356_1d5abd864068017zg0.html>
+- **蔡徐坤** | 蔡徐坤新加坡演唱会的舞台设计有什么特别之处？ <https://k.sina.com.cn/article_7879776356_1d5abd864068017zfy.html>
+- **蔡徐坤** | 蔡徐坤新加坡演唱会为什么两场门票都能秒空？ <https://k.sina.com.cn/article_7879776356_1d5abd864068017zfs.html>
+- **蔡徐坤** | 蔡徐坤新加坡演唱会网纱造型惊艳，银发皮衣切换引爆舞台 <https://k.sina.com.cn/article_7879776356_1d5abd864068017zfq.html>
+- **蔡徐坤** | 蔡徐坤新加坡演唱会连开两场秒罄，银发造型引爆现场 <https://k.sina.com.cn/article_7879776356_1d5abd864068017zfk.html>
+- **蔡徐坤** | 蔡徐坤新加坡演唱会网纱造型具体是什么样的？ <https://k.sina.com.cn/article_7879776356_1d5abd864068017zfg.html>
+- **蔡徐坤** | 蔡徐坤在演唱会上全开麦演唱了哪些歌曲？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801nwg0.html>
+- **蔡徐坤** | 蔡徐坤新加坡演唱会今晚开唱 <https://k.sina.com.cn/article_5450389695_m144de58bf03301wrj2.html>
+- **蔡徐坤** | 普通观众如何能买到蔡徐坤演唱会的门票？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801nwd0.html>
+- **蔡徐坤** | 蔡徐坤后续巡演还会延续银发撕漫男风格吗？ <https://k.sina.com.cn/article_7879776406_1d5abd89606802whna.html>
+- **蔡徐坤** | 蔡徐坤新加坡站演唱会为什么能连开两场全部售罄？ <https://k.sina.com.cn/article_7879776406_1d5abd89606802whn4.html>
+- **蔡徐坤** | 蔡徐坤新加坡演唱会的银发造型有什么特别设计？ <https://k.sina.com.cn/article_7879776406_1d5abd89606802whmo.html>
+- **蔡徐坤** | 蔡徐坤银发造型亮相新加坡演唱会 Honour开场氛围感拉满 <https://k.sina.com.cn/article_3666565210_mda8b585a03301d5gg.html>
+- **周杰伦** | 蔡司APO超级长焦拍演唱会看台真的能拍清楚吗？ <https://k.sina.com.cn/article_7880069140_1d5b05014068051xey.html>
+- **特朗普** | 特朗普：我才不在乎手上有几百桩官司 <https://news.google.com/rss/articles/CBMidkFVX3lxTFBlSWM0OVlmdFZDNkVRdi1YSG1oblNrQ1ZJSWlNY3pUeGZweXZ2aFJuaUpoa2lWTWVfRHhPNTJXelVtMWhZZGVrRzJKcm1HMk1ma1VBZzZwT3FHUDZQcEMxOTI4Sk1LcEdBT0tXQUEwZVdxYlhLN3c?oc=5>
+- **特朗普** | 为助力缅因州参议员，特朗普拟取消部分加拿大商品50%关税 <https://news.google.com/rss/articles/CBMingJBVV95cUxQLURLTnR5R2VDWFp4NXEzeFBIU3JkWmVkUHh4cEs3b1A5UVlYdUhsYTV1NGlMdzlFcjB4MlNSZWN5NU1Tc0diczhFanZRTXB1TUhOTHJzMEl4R2Z3dkJPNzNIYjE0RkZ2eDdrd1RhOE53Sm9qXzU5T0Z6eGc5c0RJcUVtOWxackpNYXBUTW12RDE5emVQSmJsTThObkgtQXhjbmwzc1h4dDhDS1JtckVvdTQzQlN0YnQ2bUw1OXVsWWpnQTVWbEFoQ2w0d0Zodl80ZjBOOW0xV2YzOU1KWXZKOFd3MUFIRnFCSzJvbUl2Y0NtakM2M3FjWTZYVUp2a3ZEblp6Y1M2UWJFQk1xNVBFTlh3QkJoSDJ3THBfY3h3?oc=5>
+- **特朗普** | 梅拉尼娅-特朗普宣布在乌克兰一座“濒临灾难”的城市停火 <https://news.google.com/rss/articles/CBMigwNBVV95cUxQNm9zOEpGby1XWENrazlhMGpoZ1ptdU5HNjJTc0xLZ0lmcGh2VVY1WThpU0o0RjJneHBJZzVwT0xzZ0pPLXlrVkRSNUx3YU16ZlJZQXE3MXI5cklBbVNJUmE0OWNoVElET2lPOVhVSTV6RU5jYXBMVVBKSmRCRFRTNlFOQjJlVEZJckozdFREX3R3ZUQ5NGVUemRydnQ1Z241a1ZsVzBIQ0dPdWxfTHIxYTl5X1NIWnJEZVh1WUNjd0hRdWVlM21aMjJpZmFBdWFydVFJUk4wN2xVbHNBWm9mX1lZcVZ1YUE3b3dqRUxrZ2tOa3BiWDZIcEliNjlobXRXd0pJWm1Ca1d3TEFtYkNMQlZVb3ZMQTQ3aV8yNWZYRXdYSTNtX3QxZ3Z3c1RFWk42MzUwQmhXc0o5NFJLTG5KeS1qTERFNElIMVZZUmxreVR5WUg4UlhXSlotWXVsaDRyUUdjN3N0VFdFT1NFa0dyejNNYmZ1SE9lMnIxc1JzaWE0eVk?oc=5>
+- **特朗普** | 特朗普称可能迁移白宫记者团办公地点 <https://news.google.com/rss/articles/CBMiakFVX3lxTE9fM0NycV9zSVZWNFBsNzZucWhXTGV5V1czd3pyb2xycktPSUNXaEU3U0htNTAxUFZ1czFHem9XQnB4RHdGRlJqSHMtQWQ4UzJXMGV4MnhZR1VVVmZlNkNJNmR1aHpubi1RQmc?oc=5>
 
 ### 2026-10-24 13:46  (19 条)
 
