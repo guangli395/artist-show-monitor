@@ -1,121 +1,65 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-24 22:10**
-- 本轮扫到 14505 条, 新增 **19** 条
+- 最近更新: **2026-10-25 00:25**
+- 本轮扫到 14516 条, 新增 **11** 条
 
 ---
 
-## 本轮新发现 (19 条)
+## 本轮新发现 (11 条)
 
-### 粉丝为看蔡徐坤演唱会最远需要奔波多少路程？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801nx66.html>
-
-### 蔡徐坤演唱会澳门站的门票多少钱？
+### 蔡徐坤新加坡演唱会票房和现场反响如何？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068017zwy.html>
+- 链接: <https://k.sina.com.cn/article_7880068200_1d5b04c6806801qs3a.html>
 
-### 蔡徐坤世界巡演为什么选择千人级小剧场而不是大型体育场？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068017zt6.html>
-
-### 粉丝为看蔡徐坤演唱会最远飞了多少公里？
+### 蔡徐坤新加坡演唱会演唱了哪些歌曲？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068017zt4.html>
+- 链接: <https://k.sina.com.cn/article_7880068200_1d5b04c6806801qs38.html>
 
-### 蔡徐坤在演唱会现场和粉丝有哪些近距离互动环节？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068017zta.html>
-
-### 蔡徐坤新加坡演唱会为什么选择千人级小剧场而不是大型体育场？
+### 蔡徐坤新加坡演唱会的银发造型有哪些具体设计细节？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068017ztm.html>
+- 链接: <https://k.sina.com.cn/article_7879849970_1d5acf7f206801fcuu.html>
 
-### 粉丝跨几千公里去看蔡徐坤演唱会，现场互动体验到底有多近？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068017zsi.html>
-
-### 蔡徐坤一年飞行近十八万公里，他的巡演行程有多密集？
+### 蔡徐坤在演唱会上提出的无所谓风概念是什么意思？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068017zsm.html>
+- 链接: <https://k.sina.com.cn/article_7879849970_1d5acf7f206801fcuw.html>
 
-### 跨越千里只为零距离！蔡徐坤小剧场巡演为何让粉丝如此疯狂
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068017zsa.html>
-
-### 飞越几千公里只为近距离见他！蔡徐坤巡演小剧场为何让粉丝如此奔赴
+### 蔡徐坤世界巡回演唱会为何选择千人级小剧场而非大型体育场？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068017zs8.html>
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801nx6y.html>
 
-### 蔡徐坤新加坡演唱会银发造型是如何设计的？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849970_1d5acf7f206801fcrs.html>
-
-### 蔡徐坤银发背头造型亮相新加坡演唱会，粉丝直呼撕漫男
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849970_1d5acf7f206801fcrq.html>
-
-### 蔡徐坤演唱会《I Wanna Get Love》的舞蹈难度大吗？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801nwua.html>
-
-### 特朗普将于10月30日前往佛罗里达代托纳。
+### 特朗普表示，他曾想将......_7x24快讯_新浪财经
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 手机新浪网
-- 时间: 2026-10-24 21:20
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE8yMEIwWHhvOEE1ZUFiSzQ2UXNMNV9qTlc3dVpTUThiRWt1SUVPUFFSZGo4TEhCS0czYWlTUDQxQXRaRVdMOGdsUXVlaw?oc=5>
+- 时间: 2026-10-24 23:53
+- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTFBuMEV6OHFsaGMzTEZJVHllcElKY0tuUjI1SEFTeFJQTEc2ZFFRYzJwdkkwdmItUGg0VDVxbGpIZDBjbFNObFVhM1JVaTZkVmM?oc=5>
 
-### 特朗普外交政策成期中选举共和党包袱
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-10-24 21:33
-- 链接: <https://news.google.com/rss/articles/CBMiqwJBVV95cUxQUlBScG9uVk9DeTNjNEZQaE1icWE2R2JHVU9DcFJJb0tJaXhqRXJaVUU0OE0ycWNxZFI5WWRkOE02cy1ZbUN0d2JkcUphUGtVUFJMYVRvNHdqU2tielZ5Z29TV3BGMEtfM2JyTlZRNE1xRDdFRFc1RTBwODZ4bmV4dWFCXy1ONERyeExxVnNteVNKcGk1TlhXcWhqX1VnM0IxdXowZUU5elV4X1IydUhTbzRvbjJXRjNfdE4xeTB6OXhmbVNmeWRENWcyNWZzaGk4WDB6RXB2MmgxQ1llUUFJSlRCRWFMNGRFOXhhY2pNYTZyTFFSZXg0ZWloWXdGSmZxZzNoaXhIdXJ4UHc3ejYzZFdMQjVmd1RQR2hKeGU0bDB5Z04tdTAybl9SMA?oc=5>
-
-### 美国官员：特朗普预计将宣布奥迪将在佐治亚州建设新工厂，每年生产20万辆SUV。
+### 特朗普：格陵兰和委内瑞拉，我们一分钱没花就都拿下了。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-10-24 20:59
-- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTFBiVzliMUpJcVA3OUFCYnVtcy1YMFVuRW1Hb3N1YjJuYlJubVNOS2VkcGcwNlkwNkxVU3BONnFoNE1FSGFxY3RpRzcySjJ3VjA?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-10-24 23:36
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1qcXB0VmViUGZ2OHVRMlE1WmRQajBYZHlYLUp0YXdEOFpLYlFpcmpucnRRaktZRkc0Wmh5UkRaeEY3NHBGUFhwMDZpWnBzTGZvZWlhNUdyMkJ2bW1saGZHeWFqa19MYzU3blhQMVE1ODg1Q1kxMnh5LQ?oc=5>
 
-### 特朗普：结束伊朗战事后，顺道解决古巴
+### 特朗普偕夫人提前投票 再称2020年大选遭操纵
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-24 03:16
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1FT19KS3paZjI4dXV6QlhXaU1rOUhEV0owRkFjR0xkZXBlLTJNQmZSYzhQZnFRcHV4OHBJa0UyMXNzX2pMVHFJTFh0RXY?oc=5>
+- 场馆: 联合早报
+- 时间: 2026-10-24 23:49
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBwd3dVSlJpWnpvLUc5bW9yd3NOdDRqUml2Y3g3WXdoMmlYLTF2S2JPY212eVVlcHBQS3B6ZkVITW9wNmplbDkweFdYcExvTTcySk9hc2xOcmMzTEhZeERSNVE2X3FzbzdHaEE?oc=5>
 
 ### 共和党参议员选情告急 特朗普拟豁免更多加拿大产品关税
 
@@ -123,20 +67,42 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-10-23 21:03
-- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSHpENkxFOTFzTFg3blZtQlFPLV9XVF9kUVlKLUQwR1ZBWnA2T3ZyRlJmWUgtc2o2dS1Ed210V3l1eHRFTC1MX2F4dldNS3dVV1ZZc3J1MjVPVFV3QXFLLXNtV1VsZW55Rklfd0JSSm9mb3I1SEg4UXBoSTR0MkVubjR3TW1aX0tWYVlaRGV6VnVlbDliRFdIUzBSVWlUa2x5MXZwZlVtRjdOdFlWU1RBeFp5SWs0NzV6TDQwQjBYM2FKZEZ2dU85a3pxYXEzQUJweWc?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTFBBdmZEbXlGdTBfSEZ1VmRyQVllbkJQTDc1Nlkwd2F3VEdqRzVCanF6OTB0OEpkYXh1M2FJNE9keXY5emVVc0cycE5nRjJQRmFqeW9sWmRSY0dqWnFFbElKZmZNbkozcmMzR1JJTU82OGhyVUJkSFV1SWF3?oc=5>
 
-### 英媒：特朗普与金正恩今年恐难以会晤
+### 梅拉尼娅促成俄乌一地停火，特朗普回应
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-10-24 11:07
-- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdXRBVEhaNGd2OEJQSTFIbl8zLTVPTXlPN0ZtSlJUOV9TVVRUdXRTMlVUZDVfX3JVMTZaV1h2bUNDODRRZlkzb3lBMTVKb1FBY3lCTDM1UTRHLURsNzhSbDJzd2dkMGFpZlZkVzBpRGdpN2pkQ2c3bV84RnBkLWxjTjFoMFdYWUpn?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-10-24 00:21
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBFRTJKUW5aRnRMYmR1SGMxRkUyZ2JWMHE3ZkhSbjRpUk8tbXk2NUlfSFM4U1JMQWJnVUlKaG0ydExIM1Y2Mk5zbnY5RXU?oc=5>
+
+### 特朗普提前投下中期选举选票 自曝把票“全都投给共和党”
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 8world
+- 时间: 2026-10-25 00:00
+- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxPbEFwbVpMRm9aLU1WdGcxWWx5bjcxMHpHSl9oMzBfRFlJQ2J3eWtxcVU3bWNjeU9vSUtsVHhyemxTM3VUOGRqSlFONjRaZXNoV1pZNmVUN2doempPYS1hVzc5bkNNN3NZczEtaXpDUWRCSkk2dGVyU0VPcVZVZzZnQW5pUkNrSHNlaDVBVjItanV1T3Z2?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-25 00:25  (11 条)
+
+- **蔡徐坤** | 蔡徐坤新加坡演唱会票房和现场反响如何？ <https://k.sina.com.cn/article_7880068200_1d5b04c6806801qs3a.html>
+- **蔡徐坤** | 蔡徐坤新加坡演唱会演唱了哪些歌曲？ <https://k.sina.com.cn/article_7880068200_1d5b04c6806801qs38.html>
+- **蔡徐坤** | 蔡徐坤新加坡演唱会的银发造型有哪些具体设计细节？ <https://k.sina.com.cn/article_7879849970_1d5acf7f206801fcuu.html>
+- **蔡徐坤** | 蔡徐坤在演唱会上提出的无所谓风概念是什么意思？ <https://k.sina.com.cn/article_7879849970_1d5acf7f206801fcuw.html>
+- **蔡徐坤** | 蔡徐坤世界巡回演唱会为何选择千人级小剧场而非大型体育场？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801nx6y.html>
+- **特朗普** | 特朗普表示，他曾想将......_7x24快讯_新浪财经 <https://news.google.com/rss/articles/CBMiT0FVX3lxTFBuMEV6OHFsaGMzTEZJVHllcElKY0tuUjI1SEFTeFJQTEc2ZFFRYzJwdkkwdmItUGg0VDVxbGpIZDBjbFNObFVhM1JVaTZkVmM?oc=5>
+- **特朗普** | 特朗普：格陵兰和委内瑞拉，我们一分钱没花就都拿下了。 <https://news.google.com/rss/articles/CBMieEFVX3lxTE1qcXB0VmViUGZ2OHVRMlE1WmRQajBYZHlYLUp0YXdEOFpLYlFpcmpucnRRaktZRkc0Wmh5UkRaeEY3NHBGUFhwMDZpWnBzTGZvZWlhNUdyMkJ2bW1saGZHeWFqa19MYzU3blhQMVE1ODg1Q1kxMnh5LQ?oc=5>
+- **特朗普** | 特朗普偕夫人提前投票 再称2020年大选遭操纵 <https://news.google.com/rss/articles/CBMiakFVX3lxTFBwd3dVSlJpWnpvLUc5bW9yd3NOdDRqUml2Y3g3WXdoMmlYLTF2S2JPY212eVVlcHBQS3B6ZkVITW9wNmplbDkweFdYcExvTTcySk9hc2xOcmMzTEhZeERSNVE2X3FzbzdHaEE?oc=5>
+- **特朗普** | 共和党参议员选情告急 特朗普拟豁免更多加拿大产品关税 <https://news.google.com/rss/articles/CBMiekFVX3lxTFBBdmZEbXlGdTBfSEZ1VmRyQVllbkJQTDc1Nlkwd2F3VEdqRzVCanF6OTB0OEpkYXh1M2FJNE9keXY5emVVc0cycE5nRjJQRmFqeW9sWmRSY0dqWnFFbElKZmZNbkozcmMzR1JJTU82OGhyVUJkSFV1SWF3?oc=5>
+- **特朗普** | 梅拉尼娅促成俄乌一地停火，特朗普回应 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBFRTJKUW5aRnRMYmR1SGMxRkUyZ2JWMHE3ZkhSbjRpUk8tbXk2NUlfSFM4U1JMQWJnVUlKaG0ydExIM1Y2Mk5zbnY5RXU?oc=5>
+- **Trump** | 特朗普提前投下中期选举选票 自曝把票“全都投给共和党” <https://news.google.com/rss/articles/CBMilAFBVV95cUxPbEFwbVpMRm9aLU1WdGcxWWx5bjcxMHpHSl9oMzBfRFlJQ2J3eWtxcVU3bWNjeU9vSUtsVHhyemxTM3VUOGRqSlFONjRaZXNoV1pZNmVUN2doempPYS1hVzc5bkNNN3NZczEtaXpDUWRCSkk2dGVyU0VPcVZVZzZnQW5pUkNrSHNlaDVBVjItanV1T3Z2?oc=5>
 
 ### 2026-10-24 22:10  (19 条)
 
