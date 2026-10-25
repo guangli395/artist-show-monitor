@@ -1,122 +1,114 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-25 20:15**
-- 本轮扫到 14641 条, 新增 **16** 条
+- 最近更新: **2026-10-25 22:42**
+- 本轮扫到 14652 条, 新增 **11** 条
 
 ---
 
-## 本轮新发现 (16 条)
+## 本轮新发现 (11 条)
 
-### 肖战南京演唱会唱不要回头全场大合唱
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924002_m1d5ae192203301qnoo.html>
-
-### 蔡徐坤在演唱会上提到的无所谓风是什么心态？
+### 蔡徐坤新加坡演唱会银发造型具体是如何搭配的？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923373_1d5ae16ad06801fl9s.html>
+- 链接: <https://k.sina.com.cn/article_7879776406_1d5abd89606802wkb8.html>
 
-### 蔡徐坤演唱会安可环节光脚唱歌是真的吗？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923373_1d5ae16ad06801fl9q.html>
-
-### 蔡徐坤演唱会第一视角直拍曝光，这些细节太戳人
+### 蔡徐坤新加坡演唱会落泪自嘲，现场分享新心态
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923373_1d5ae16ad06801fl9o.html>
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801o08i.html>
 
-### 蔡徐坤在新加坡演唱会上唱《Remedy》为什么会突然落泪？
+### 特朗普：把白宫记者团搬到一个“不那么招人烦的地方”
 
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068588_1d5b04dec06801ts70.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪军事_手机新浪网
+- 时间: 2026-10-25 21:43
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5rU3JNbzYwelVGajY1Q2RhMDcyTzlvUW83X2lFVnl5R2pzY2N6bVdfVzRmV2xPOGJIR21qR0p0YVh0YzhBUExUTnkwUXhIUHlMUV9UY1YtVWFDNjRDdjhaOXVHODJNZnduOWdfRVBMYlZmZFU?oc=5>
 
-### 蔡徐坤这次演唱会造型和《Remedy》手办有什么关联？
+### “压根就没想过”，特朗普否认要拆白宫新闻简报室
 
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068588_1d5b04dec06801ts6w.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 环球网
+- 时间: 2026-10-25 07:34
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ETkJOZWp6MUtnRXg1Z2NLUXh5b2l3SkZrVW5zV1pCQ1pqazliM0lDSHBwLS04eXpXMWx1dzFGMHZLQkFNNzBaT3ZCUFVpMHBidl9qQjdHcHk?oc=5>
 
-### 蔡徐坤新加坡演唱会现场对十年老粉做了哪些互动举动？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849300_1d5acf554068014rto.html>
-
-### 蔡徐坤新加坡演唱会为什么会出现开场推迟的情况？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849300_1d5acf554068014rtq.html>
-
-### 蔡徐坤在新加坡演唱会上提出的“无所谓风”具体是什么意思？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849300_1d5acf554068014rtm.html>
-
-### 蔡徐坤新加坡演唱会畅谈“无所谓风”：不吃压力，下一个十年一起走
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849300_1d5acf554068014rtk.html>
-
-### 蔡徐坤演唱会上哭了？真实情况与粉丝现场反应解读
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923112_1d5ae15a8068023cou.html>
-
-### 特朗普： 奥巴马是一位极其无能的总统！他向伊朗输送数十亿美元，给伊朗铺好了通往核武器的道路。
+### 特朗普：挪威已经变成一个糟糕的国家，挪威很差劲。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 手机新浪网
-- 时间: 2026-10-25 04:52
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5FQUx3QktBLURIVWtiaEY0TXd1UXJwRnJGNlFoVDhZd09pRFJWTlU3WnZoMVlmRno2ZXk5T1cxczJNZ01yQkYxeW1kaw?oc=5>
+- 时间: 2026-10-25 20:17
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE90bWVjMUVmUmsycTVlTVVUUTIwZlJQNmI4TmZpSWFjem9vbVc5ZzVFVlI1cXg5LWdJNVdhSW13dGpTZHFTSHVrMWxBWQ?oc=5>
 
-### 【美国中期选举】民生经济成焦点 特朗普奥巴马隔空交火
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-10-25 10:39
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1OdWdIVS1SVW42bzVrTktoNVVnSXpqVnpXSGNMd25vSWdfTlloVnNNN2FkU1F1UFpDX0xKcERON2RkMUcwQ3RKanY4dUliaXdVVW9wTEI4TW9vRXNJTDJWZmxQbjdmSko2bWc?oc=5>
-
-### 特朗普：希望法国采取更强硬立场。
+### 特朗普：为塞尔弗里奇......_7x24快讯_新浪财经
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 手机新浪网
-- 时间: 2026-10-25 20:08
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9GakRxamZIMzJyYmt1LWxydEZmWXdaVGtHeURNUlE1dF9lZFdYa2E3U08tWFNnZjFlSXZhb0s3cl9EUWg4dHhwU01Gaw?oc=5>
+- 时间: 2026-10-25 20:59
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9jNHVLMU9xYjFuNmI5bTlxMjBjRm9pQmNNSFZIQktWSHQ3UVdNSFRzeUhBTjVqcU4yYzk0dU52eEtSazJ3NU1qZVRlcw?oc=5>
 
-### 特朗普：与加拿大即将达成协议。
+### 特朗普：美俄乌三方会谈“很快”就会举行
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: ThePaper.cn
+- 时间: 2026-10-25 18:40
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1S0VQWkhqb1VKUnNFa2xnQnpSUzZ5T1g5VkVSbnN3Q1FEMXZxNzA3OERYalpXYUgxSkFaOHB4M0c3ZktTSU1nM0VaZXROM1h1TjFEbHJJcXRZZHF5Ui1BOQ?oc=5>
+
+### 特朗普周日表态，当日不会对伊朗实施军事打击
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 手机新浪网
-- 时间: 2026-10-25 19:22
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE54R1B5bGZBZXp3RWZzVHN4Ykd3Ry1ncjl3TE5aSjYxMmNRV0lXTWJWeF9KY1FkeUVvMklDRUtpaTlRTVI3NUNHRklEWQ?oc=5>
+- 时间: 2026-10-25 16:32
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9oM2NpTTRqaXFwaXpZdFVsY01mM3Bkdndrdm5mdDhHMUYwRk5LeWVUaEc2Y3VLTHhVWEJmNjFwelU1T2hUUkYtczdlVQ?oc=5>
 
-### 特朗普提到万斯和鲁比奥是2028年大选潜在竞争者。
+### [流言板]Skip谈特朗普要求詹姆斯公开道歉：詹姆斯场外一直是好榜样
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-10-25 19:48
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5JM0U4VXV1NlpjOUFCM1J5UGR4TV9MWUhxLUVYdVlrUHhySHRnYXd2clY2T0RtaW4tMTZJdEdFdFZOQ0JOeGNoQ2JyYw?oc=5>
+- 场馆: 虎扑体育网
+- 时间: 2026-10-24 16:20
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBXN2I5QXQtSlJDYmQxdl85ek85Z2VJYzBxTFgzYzYyWEM3Yk1uYl9HN19fWDhpeTJUODdmNDk3N0NWelBnT204YzdhRQ?oc=5>
+
+### Trump：“若利用美国，关税将升至50%”……对伊朗称：“是达成协议，还是彻底解决？”
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 아시아경제
+- 时间: 2026-10-25 19:01
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBWc0RaY2NxUnFQMXVMVmF2aWVMTF9Jd1dWcWQxeklFSWUzOTNuTW15dGQwVUdRcktldTBHek1OVEpuZjI5RDMwbVRLd0dWVVl3OURWVWZrUHJFWnpGZGhjWGNzaUg?oc=5>
+
+### 曾投票支持Trump的西裔和年轻选民态度“动摇”……若失去参议院多数席位，将行使否决权- 阿视亚经济
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 아시아경제
+- 时间: 2026-10-25 18:49
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXUkQ3UkhMdTZxcm5IMEV6WERvV0dyNTRzVlhOa1pkcnpvYVV2MTItbUdLM0xxNk5DTlFvd3hJZms1NFFxSWJJcUlsUzVtZmVpSlFLUk85Rno3dWVnQlFEWFBvYjk?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-25 22:42  (11 条)
+
+- **蔡徐坤** | 蔡徐坤新加坡演唱会银发造型具体是如何搭配的？ <https://k.sina.com.cn/article_7879776406_1d5abd89606802wkb8.html>
+- **蔡徐坤** | 蔡徐坤新加坡演唱会落泪自嘲，现场分享新心态 <https://k.sina.com.cn/article_7879923021_1d5ae154d06801o08i.html>
+- **特朗普** | 特朗普：把白宫记者团搬到一个“不那么招人烦的地方” <https://news.google.com/rss/articles/CBMic0FVX3lxTE5rU3JNbzYwelVGajY1Q2RhMDcyTzlvUW83X2lFVnl5R2pzY2N6bVdfVzRmV2xPOGJIR21qR0p0YVh0YzhBUExUTnkwUXhIUHlMUV9UY1YtVWFDNjRDdjhaOXVHODJNZnduOWdfRVBMYlZmZFU?oc=5>
+- **特朗普** | “压根就没想过”，特朗普否认要拆白宫新闻简报室 <https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ETkJOZWp6MUtnRXg1Z2NLUXh5b2l3SkZrVW5zV1pCQ1pqazliM0lDSHBwLS04eXpXMWx1dzFGMHZLQkFNNzBaT3ZCUFVpMHBidl9qQjdHcHk?oc=5>
+- **特朗普** | 特朗普：挪威已经变成一个糟糕的国家，挪威很差劲。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE90bWVjMUVmUmsycTVlTVVUUTIwZlJQNmI4TmZpSWFjem9vbVc5ZzVFVlI1cXg5LWdJNVdhSW13dGpTZHFTSHVrMWxBWQ?oc=5>
+- **特朗普** | 特朗普：为塞尔弗里奇......_7x24快讯_新浪财经 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9jNHVLMU9xYjFuNmI5bTlxMjBjRm9pQmNNSFZIQktWSHQ3UVdNSFRzeUhBTjVqcU4yYzk0dU52eEtSazJ3NU1qZVRlcw?oc=5>
+- **特朗普** | 特朗普：美俄乌三方会谈“很快”就会举行 <https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1S0VQWkhqb1VKUnNFa2xnQnpSUzZ5T1g5VkVSbnN3Q1FEMXZxNzA3OERYalpXYUgxSkFaOHB4M0c3ZktTSU1nM0VaZXROM1h1TjFEbHJJcXRZZHF5Ui1BOQ?oc=5>
+- **特朗普** | 特朗普周日表态，当日不会对伊朗实施军事打击 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9oM2NpTTRqaXFwaXpZdFVsY01mM3Bkdndrdm5mdDhHMUYwRk5LeWVUaEc2Y3VLTHhVWEJmNjFwelU1T2hUUkYtczdlVQ?oc=5>
+- **特朗普** | [流言板]Skip谈特朗普要求詹姆斯公开道歉：詹姆斯场外一直是好榜样 <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBXN2I5QXQtSlJDYmQxdl85ek85Z2VJYzBxTFgzYzYyWEM3Yk1uYl9HN19fWDhpeTJUODdmNDk3N0NWelBnT204YzdhRQ?oc=5>
+- **Trump** | Trump：“若利用美国，关税将升至50%”……对伊朗称：“是达成协议，还是彻底解决？” <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBWc0RaY2NxUnFQMXVMVmF2aWVMTF9Jd1dWcWQxeklFSWUzOTNuTW15dGQwVUdRcktldTBHek1OVEpuZjI5RDMwbVRLd0dWVVl3OURWVWZrUHJFWnpGZGhjWGNzaUg?oc=5>
+- **Trump** | 曾投票支持Trump的西裔和年轻选民态度“动摇”……若失去参议院多数席位，将行使否决权- 阿视亚经济 <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXUkQ3UkhMdTZxcm5IMEV6WERvV0dyNTRzVlhOa1pkcnpvYVV2MTItbUdLM0xxNk5DTlFvd3hJZms1NFFxSWJJcUlsUzVtZmVpSlFLUk85Rno3dWVnQlFEWFBvYjk?oc=5>
 
 ### 2026-10-25 20:15  (16 条)
 
