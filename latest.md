@@ -1,162 +1,253 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-25 14:09**
-- 本轮扫到 14593 条, 新增 **23** 条
+- 最近更新: **2026-10-25 17:44**
+- 本轮扫到 14625 条, 新增 **32** 条
 
 ---
 
-## 本轮新发现 (23 条)
+## 本轮新发现 (32 条)
 
-### 蔡徐坤演唱会的曲目单有公布吗？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801nzi2.html>
-
-### 蔡徐坤演唱会的曲目单有哪些？
+### 蔡徐坤海外演唱会后台直播是怎么回事？观看渠道与版本解析
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801nzhu.html>
+- 链接: <https://k.sina.com.cn/article_7880068588_1d5b04dec06801ts4s.html>
 
-### 蔡徐坤新加坡站和澳门站巡演舞台风格有哪些不同？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776406_1d5abd89606802wjs0.html>
-
-### 蔡徐坤在演唱会上说的&#039;无所谓风&#039;概念是什么意思？
+### 蔡徐坤2023年新加坡演唱会和2026年有什么关联？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776406_1d5abd89606802wjro.html>
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801o00y.html>
 
-### 蔡徐坤新加坡演唱会亲吻粉丝蓝玫瑰
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1266269835_m4b79be8b03301e8d4.html>
-
-### 蔡徐坤在新加坡演唱会上提出的“无所谓风”具体指什么？
+### 蔡徐坤在新加坡演唱会上说的下一个十年原话是什么？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801nyz2.html>
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801o00w.html>
 
-### 蔡徐坤未来在音乐和巡演方面还有哪些新计划？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801nyyy.html>
-
-### 蔡徐坤THE DEADMAN亚洲巡演的舞台叙事和视觉设计有何特色？
+### 蔡徐坤新加坡演唱会深情告白：下一个十年我们还在一起
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801nyyw.html>
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801o00u.html>
 
-### 蔡徐坤在新加坡演唱会上提出的“无所谓风”是什么意思？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd8640680181mo.html>
-
-### 蔡徐坤银发背头造型亮相新加坡演唱会，粉丝直呼梦回偶练
+### 蔡徐坤哭了是什么视频？新加坡演唱会落泪现场细节解析
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068200_1d5b04c6806801qt9i.html>
+- 链接: <https://k.sina.com.cn/article_7879923118_1d5ae15ae06801pzak.html>
 
-### 蔡徐坤新加坡演唱会为什么两场都全部售罄？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd8640680181mu.html>
-
-### 蔡徐坤‘The Deadman’亚洲巡演下一站是哪里？
+### 蔡徐坤巡演落泪唱的是哪首歌？《Remedy》现场细节曝光
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068200_1d5b04c6806801qt9m.html>
+- 链接: <https://k.sina.com.cn/article_7879849300_1d5acf554068014rt0.html>
 
-### 蔡徐坤在演唱会上说的‘无所谓风’概念是什么意思？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068200_1d5b04c6806801qt9a.html>
-
-### 蔡徐坤在演唱会上如何回应粉丝“从2018到2024我来了”的灯牌？
+### 蔡徐坤因何落泪？新加坡巡演现场情感细节引关注
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd8640680181ly.html>
+- 链接: <https://k.sina.com.cn/article_7879776722_1d5abd9d206801hht4.html>
 
-### 蔡徐坤新加坡演唱会银发造型是如何设计的？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068200_1d5b04c6806801qt8w.html>
-
-### 豆豆致电品牌公关解误会，赴杭州发布会坐第一排支持蔡徐坤
+### 蔡徐坤新加坡演唱会现场开唱回应修音质疑
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5885611158_m15ecf4c9603301j9tm.html>
+- 链接: <https://k.sina.com.cn/article_5727695436_m15565b24c03301x34o.html>
 
-### Jasmine 蔡徐坤蔡徐坤演唱会
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002tjva.html>
-
-### 萌脸魅魔蔡徐坤 蔡徐坤新加坡演唱会
+### 蔡徐坤在演唱会上约定的“下一个十年”有何深意？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002tjz8.html>
+- 链接: <https://k.sina.com.cn/article_7879923101_1d5ae159d06801qc5i.html>
 
-### vivo X500 Pro Max的2亿长焦拍演唱会山顶位真的能拍清吗？
+### 蔡徐坤在新加坡演唱会结束后直播去了哪些地方？
 
-- 艺人/关键词: **周杰伦**
+- 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880069140_1d5b05014068051z30.html>
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd8640680182nm.html>
 
-### 特朗普夫人促成俄乌局部停火，下周生效
+### 蔡徐坤新加坡演唱会现场有哪些特别环节？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923375_1d5ae16af068021dos.html>
+
+### 蔡徐坤THE DEADMAN巡演舞台设计有哪些亮点？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923101_1d5ae159d06801qc5e.html>
+
+### 蔡徐坤直播透露新歌与雨天有关，主打歌已录完
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd8640680182ni.html>
+
+### 蔡徐坤新加坡演唱会为何两场全部售罄？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923101_1d5ae159d06801qc5c.html>
+
+### 蔡徐坤卸载社交软件集中创作，新专辑什么时候能发行？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801nzx4.html>
+
+### 蔡徐坤新加坡演唱会后的生活化直播有哪些细节？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd8640680182l4.html>
+
+### 蔡徐坤巡演“Deadman”不断重生的概念如何理解？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801nzwo.html>
+
+### 蔡徐坤巡演Deadman的每站状态细微变化具体指什么？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801nzwk.html>
+
+### 蔡徐坤新歌与雨天有关，具体会是什么风格？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801nzwm.html>
+
+### 蔡徐坤直播透露新歌与雨天有关，巡演概念藏细节
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801nzwc.html>
+
+### 蔡徐坤直播曝新歌与雨天有关，首谈巡演Deadman重生概念
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd8640680182l2.html>
+
+### 蔡徐坤演唱会新加坡站门票什么时候开售？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801nzw2.html>
+
+### 蔡徐坤2021年717演唱会上哭的原因是什么？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801nzse.html>
+
+### 蔡徐坤2023年新加坡演唱会上为何向粉丝道歉并落泪？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801nzs2.html>
+
+### 蔡徐坤新加坡演唱会两场门票售罄是真的吗？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7880068200_1d5b04c6806801qtoq.html>
+
+### 蔡徐坤银发造型梦回2018，新加坡巡演概念重置
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7880068200_1d5b04c6806801qtog.html>
+
+### 蔡徐坤新加坡演唱会声线自由切换现场惊艳
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5556631847_m14b33792705302e9cc.html>
+
+### 特朗普称伊朗问题临近决断时刻 要么达成协议要么彻底解决
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-10-25 10:49
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE1HbFVYOGdYOE1UclYzS05fU29saWI3YVJJaEZmaVhVeWZVeHRfRmlwMC1aUG9uMHhNbkI0YXlpSUYyclMzcFJfX1QtZXMwR2R3V1Rqb19lQ1JQSkhTNkFKcGV6cWswS1NfcHNDY0cwejdSdw?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-10-25 15:56
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbHVhbFBjUTJ2QVFfRHlmeWt3bTd4YUVxaHQwel9DTWM1UGs0OENaeFcwaWllQ2s2X2EwVk9EY0xKMnVZVXhnVTA4YTczZm1LcnBfVVRUZU1XYlBYQ0xoLWZCMEJ1WnM2LXJTdHludmUyeTZvMHJaZmpVTzYzTFdnaDNISm13aFY1a3B4eDhkdG13TGZYTTBoWUZpd0NmcFhpNFBHb2VTWmdDVTEtSk12S2kzRTNXU1Y4RXdVRF9QOVBDbVZLU0tKaWJNX0dlZGN5RDlKbi1kSVBaUFRjRjA4?oc=5>
 
-### 梅德韦杰夫喊话特朗普：你有10个不得不教训泽连斯基的理由
+### “绝望的信号”，内塔尼亚胡被曝多次恳求特朗普公开撑腰
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-10-25 12:11
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9LenM1eHQ3eTNyTmdYOUxDY3g0VE54VnpBejVGMFl3bHp0NGlmMXFXUU9pUGVMQmswVktYOU9xSExPLVZVeEFHbUhaM1c?oc=5>
+- 时间: 2026-10-25 16:46
+- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTE40M0pFVlJyNko3YWhvU0MwY2cyclFqSUF1d09ON0JyM2cxTUdvZ1QyRjY1SzFfZXoxVm83bFZCNDk2bDhfX2M2Ujc4VmRUaExld0E?oc=5>
 
-### 特朗普回怼奥巴马：曾为希拉里和哈里斯助选均失败，称赛义德也会输
+### 特朗普称随时可能再打伊朗
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-10-25 05:48
-- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTE91a01SWjFGV1YyVHdYdGlHWHFZbXJMVy1raVM0bFE2a3JnbG5YYmVfLXk5Q2FTcGdXbUlBUENLY0trU0lrOW9XLV9kSTZiazlvVGc?oc=5>
+- 时间: 2026-10-25 05:26
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE93RjZLTEZ4UFpJbVZQZDR0c3BYYlIyWHNaS05KaXhPbkc2R1gweFE1UDZYYlNXYi1FbHg3ZHpZbEs2dDYzU0ZBdEE2djA?oc=5>
 
-### 泽连斯基发火，特朗普见好就收，急令马斯克：解除星链对乌限速
+### 特朗普：美俄乌三方会谈“很快”就会举行
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-10-25 04:35
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE8zOTM0b3dxdkZDU0s5Q0pNbGlRQVp2VDd3R2stZkpNTUZQaWdNVndwYzExSHJfbWt4ek0tRElGZFdTbmpmeldPT3ppVkI5MnhLaXN3UEJXSzZ5eXktTGJCVTRScS1MbWNHc3N2SXFqVzh3Zw?oc=5>
+- 场馆: 搜狐网
+- 时间: 2026-10-25 17:32
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNzBtbzFqUEc3TThDa3lNalppSG5Wa3dicE45Wl95ODI2VnRhZWtMdFg4dWpWN2FPWVZQYzh4dGtDSEFtd2FzLW5tQmdndjBka3dYdTN2ZnUxcXg4MVVsX1hGM2hlRS14Z2xJQW1UWkVtOGZkYXg2SWFFeTkxSzlDcFp6QlhVYUZP?oc=5>
+
+### 长期质疑提前投票的特朗普，如今自己“打脸”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者网
+- 时间: 2026-10-25 14:22
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1nS25jNWN0d1ViYm1LNl9KRkZheHRaVlFwQm5PZVMxWUQyTlQ5T2VIQ3U4WE5YR3B0eDFIek1mZGQ3ejk0Tnk5V3BYcTdWSkRIaEdmVGFCdEdUem40MGo0VUoxWnlkMVc5VWw2ckM3RlhRZTA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-25 17:44  (32 条)
+
+- **蔡徐坤** | 蔡徐坤海外演唱会后台直播是怎么回事？观看渠道与版本解析 <https://k.sina.com.cn/article_7880068588_1d5b04dec06801ts4s.html>
+- **蔡徐坤** | 蔡徐坤2023年新加坡演唱会和2026年有什么关联？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801o00y.html>
+- **蔡徐坤** | 蔡徐坤在新加坡演唱会上说的下一个十年原话是什么？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801o00w.html>
+- **蔡徐坤** | 蔡徐坤新加坡演唱会深情告白：下一个十年我们还在一起 <https://k.sina.com.cn/article_7879923021_1d5ae154d06801o00u.html>
+- **蔡徐坤** | 蔡徐坤哭了是什么视频？新加坡演唱会落泪现场细节解析 <https://k.sina.com.cn/article_7879923118_1d5ae15ae06801pzak.html>
+- **蔡徐坤** | 蔡徐坤巡演落泪唱的是哪首歌？《Remedy》现场细节曝光 <https://k.sina.com.cn/article_7879849300_1d5acf554068014rt0.html>
+- **蔡徐坤** | 蔡徐坤因何落泪？新加坡巡演现场情感细节引关注 <https://k.sina.com.cn/article_7879776722_1d5abd9d206801hht4.html>
+- **蔡徐坤** | 蔡徐坤新加坡演唱会现场开唱回应修音质疑 <https://k.sina.com.cn/article_5727695436_m15565b24c03301x34o.html>
+- **蔡徐坤** | 蔡徐坤在演唱会上约定的“下一个十年”有何深意？ <https://k.sina.com.cn/article_7879923101_1d5ae159d06801qc5i.html>
+- **蔡徐坤** | 蔡徐坤在新加坡演唱会结束后直播去了哪些地方？ <https://k.sina.com.cn/article_7879776356_1d5abd8640680182nm.html>
+- **蔡徐坤** | 蔡徐坤新加坡演唱会现场有哪些特别环节？ <https://k.sina.com.cn/article_7879923375_1d5ae16af068021dos.html>
+- **蔡徐坤** | 蔡徐坤THE DEADMAN巡演舞台设计有哪些亮点？ <https://k.sina.com.cn/article_7879923101_1d5ae159d06801qc5e.html>
+- **蔡徐坤** | 蔡徐坤直播透露新歌与雨天有关，主打歌已录完 <https://k.sina.com.cn/article_7879776356_1d5abd8640680182ni.html>
+- **蔡徐坤** | 蔡徐坤新加坡演唱会为何两场全部售罄？ <https://k.sina.com.cn/article_7879923101_1d5ae159d06801qc5c.html>
+- **蔡徐坤** | 蔡徐坤卸载社交软件集中创作，新专辑什么时候能发行？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801nzx4.html>
+- **蔡徐坤** | 蔡徐坤新加坡演唱会后的生活化直播有哪些细节？ <https://k.sina.com.cn/article_7879776356_1d5abd8640680182l4.html>
+- **蔡徐坤** | 蔡徐坤巡演“Deadman”不断重生的概念如何理解？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801nzwo.html>
+- **蔡徐坤** | 蔡徐坤巡演Deadman的每站状态细微变化具体指什么？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801nzwk.html>
+- **蔡徐坤** | 蔡徐坤新歌与雨天有关，具体会是什么风格？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801nzwm.html>
+- **蔡徐坤** | 蔡徐坤直播透露新歌与雨天有关，巡演概念藏细节 <https://k.sina.com.cn/article_7879923021_1d5ae154d06801nzwc.html>
+- **蔡徐坤** | 蔡徐坤直播曝新歌与雨天有关，首谈巡演Deadman重生概念 <https://k.sina.com.cn/article_7879776356_1d5abd8640680182l2.html>
+- **蔡徐坤** | 蔡徐坤演唱会新加坡站门票什么时候开售？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801nzw2.html>
+- **蔡徐坤** | 蔡徐坤2021年717演唱会上哭的原因是什么？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801nzse.html>
+- **蔡徐坤** | 蔡徐坤2023年新加坡演唱会上为何向粉丝道歉并落泪？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801nzs2.html>
+- **蔡徐坤** | 蔡徐坤新加坡演唱会两场门票售罄是真的吗？ <https://k.sina.com.cn/article_7880068200_1d5b04c6806801qtoq.html>
+- **蔡徐坤** | 蔡徐坤银发造型梦回2018，新加坡巡演概念重置 <https://k.sina.com.cn/article_7880068200_1d5b04c6806801qtog.html>
+- **蔡徐坤** | 蔡徐坤新加坡演唱会声线自由切换现场惊艳 <https://k.sina.com.cn/article_5556631847_m14b33792705302e9cc.html>
+- **特朗普** | 特朗普称伊朗问题临近决断时刻 要么达成协议要么彻底解决 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbHVhbFBjUTJ2QVFfRHlmeWt3bTd4YUVxaHQwel9DTWM1UGs0OENaeFcwaWllQ2s2X2EwVk9EY0xKMnVZVXhnVTA4YTczZm1LcnBfVVRUZU1XYlBYQ0xoLWZCMEJ1WnM2LXJTdHludmUyeTZvMHJaZmpVTzYzTFdnaDNISm13aFY1a3B4eDhkdG13TGZYTTBoWUZpd0NmcFhpNFBHb2VTWmdDVTEtSk12S2kzRTNXU1Y4RXdVRF9QOVBDbVZLU0tKaWJNX0dlZGN5RDlKbi1kSVBaUFRjRjA4?oc=5>
+- **特朗普** | “绝望的信号”，内塔尼亚胡被曝多次恳求特朗普公开撑腰 <https://news.google.com/rss/articles/CBMiUkFVX3lxTE40M0pFVlJyNko3YWhvU0MwY2cyclFqSUF1d09ON0JyM2cxTUdvZ1QyRjY1SzFfZXoxVm83bFZCNDk2bDhfX2M2Ujc4VmRUaExld0E?oc=5>
+- **特朗普** | 特朗普称随时可能再打伊朗 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE93RjZLTEZ4UFpJbVZQZDR0c3BYYlIyWHNaS05KaXhPbkc2R1gweFE1UDZYYlNXYi1FbHg3ZHpZbEs2dDYzU0ZBdEE2djA?oc=5>
+- **特朗普** | 特朗普：美俄乌三方会谈“很快”就会举行 <https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNzBtbzFqUEc3TThDa3lNalppSG5Wa3dicE45Wl95ODI2VnRhZWtMdFg4dWpWN2FPWVZQYzh4dGtDSEFtd2FzLW5tQmdndjBka3dYdTN2ZnUxcXg4MVVsX1hGM2hlRS14Z2xJQW1UWkVtOGZkYXg2SWFFeTkxSzlDcFp6QlhVYUZP?oc=5>
+- **特朗普** | 长期质疑提前投票的特朗普，如今自己“打脸” <https://news.google.com/rss/articles/CBMic0FVX3lxTE1nS25jNWN0d1ViYm1LNl9KRkZheHRaVlFwQm5PZVMxWUQyTlQ5T2VIQ3U4WE5YR3B0eDFIek1mZGQ3ejk0Tnk5V3BYcTdWSkRIaEdmVGFCdEdUem40MGo0VUoxWnlkMVc5VWw2ckM3RlhRZTA?oc=5>
 
 ### 2026-10-25 14:09  (23 条)
 
