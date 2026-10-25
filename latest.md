@@ -1,94 +1,234 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-25 00:25**
-- 本轮扫到 14516 条, 新增 **11** 条
+- 最近更新: **2026-10-25 05:03**
+- 本轮扫到 14545 条, 新增 **29** 条
 
 ---
 
-## 本轮新发现 (11 条)
+## 本轮新发现 (29 条)
 
-### 蔡徐坤新加坡演唱会票房和现场反响如何？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068200_1d5b04c6806801qs3a.html>
-
-### 蔡徐坤新加坡演唱会演唱了哪些歌曲？
+### 蔡徐坤《THE DEADMAN》亚洲巡演下一站去哪里？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068200_1d5b04c6806801qs38.html>
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801ny7c.html>
+
+### 蔡徐坤新加坡演唱会歌单包含哪些歌曲？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801ny7a.html>
+
+### 蔡徐坤新加坡演唱会现场有哪些特别舞台设计？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801ny70.html>
+
+### 蔡徐坤新加坡演唱会连开两场售罄，现场分享“无所谓风”心态
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801ny6m.html>
+
+### 蔡徐坤演唱会深情约定：下一个十年我们一起走好不好
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd8640680180pu.html>
+
+### 蔡徐坤新加坡演唱会银发造型具体搭配了哪些服饰？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776406_1d5abd89606802wiug.html>
+
+### 蔡徐坤银发造型梦回偶练，新加坡演唱会杀疯了
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776406_1d5abd89606802wiu0.html>
+
+### 蔡徐坤新加坡演唱会现场有哪些特别的舞台看点？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd8640680180iy.html>
+
+### 观看蔡徐坤新加坡演唱会需要准备哪些必备物品？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd8640680180iu.html>
+
+### 蔡徐坤新加坡演唱会今晚开唱！银发四面台连开两场
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd8640680180im.html>
+
+### 去新加坡看蔡徐坤演唱会需要办理哪些入境手续？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd8640680180ie.html>
+
+### 蔡徐坤在新加坡演唱会上说的十年之约具体内容是什么？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801nxtg.html>
+
+### 蔡徐坤的The Deadman巡演后续还有哪些场次安排？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801nxta.html>
+
+### 蔡徐坤在新加坡演唱会上说的十年之约原话是什么？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd8640680180gc.html>
+
+### 蔡徐坤新加坡演唱会深情发问：下一个十年，我们一起好不好
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801nxsm.html>
+
+### 蔡徐坤新加坡演唱会哽咽约定：下一个十年一起走
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd8640680180fs.html>
+
+### 蔡徐坤在演唱会上提到的下一个十年约定是什么？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7880068200_1d5b04c6806801qscc.html>
 
 ### 蔡徐坤新加坡演唱会的银发造型有哪些具体设计细节？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849970_1d5acf7f206801fcuu.html>
+- 链接: <https://k.sina.com.cn/article_7880068200_1d5b04c6806801qsbu.html>
 
-### 蔡徐坤在演唱会上提出的无所谓风概念是什么意思？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849970_1d5acf7f206801fcuw.html>
-
-### 蔡徐坤世界巡回演唱会为何选择千人级小剧场而非大型体育场？
+### 蔡徐坤演唱会坦言十年难处，鼓励大家活成想要的样子
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801nx6y.html>
+- 链接: <https://k.sina.com.cn/article_1749611063_m6848f23703301hyxm.html>
 
-### 特朗普表示，他曾想将......_7x24快讯_新浪财经
+### 蔡徐坤新加坡演唱会白发造型梦回偶练
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1682898875_m644effbb03302li84.html>
+
+### 太可爱了。蔡徐坤蔡徐坤演唱会
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002tifm.html>
+
+### vivo X500 Pro Max的2亿像素长焦拍演唱会效果如何？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7880069146_1d5b0501a06802f27s.html>
+
+### 刘宇宁带病唱三十首，周杰伦只唱八十分？同是演唱会诚意差在哪
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301hvbg.html>
+
+### 特朗普吹嘘：丹麦已将格陵兰岛移交美国，史上最伟大房地产交易
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者网
+- 时间: 2026-10-25 03:43
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFBfU2tLQTMzN0E5M1ZXTzdiTHltTzNic2ItMEt1NElnMDRtNW5XTHE3QTdPRXlpUnQxOWQ2aE1SY29ieDN3bEpEZm5nTG9LTm82OTNOdXdRSXpXampSYU54UVJrUlBXcTVIRHRUbGZHeXY0YmM?oc=5>
+
+### 果然视频·看天下|白宫：特朗普夫人促成俄乌局部停火
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 手机新浪网
-- 时间: 2026-10-24 23:53
-- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTFBuMEV6OHFsaGMzTEZJVHllcElKY0tuUjI1SEFTeFJQTEc2ZFFRYzJwdkkwdmItUGg0VDVxbGpIZDBjbFNObFVhM1JVaTZkVmM?oc=5>
+- 时间: 2026-10-25 04:43
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFBmVG5JRUVrcGFRcmo3Q042ZzZaVlRYc2ZGZHZxdjR4ZHNIWVdrWHpRdEtFSkI5RmhhbTBhZ05ReXMzXzBBRl9TaXA2dy1mcHNtckxqWHk5X01COEIzWDNzR2c0VVpLeHZKVmpoZVhHNUtCZw?oc=5>
 
-### 特朗普：格陵兰和委内瑞拉，我们一分钱没花就都拿下了。
+### 特朗普：他们在阿拉斯......_7x24快讯_新浪财经
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 手机新浪网
+- 时间: 2026-10-25 03:38
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFB1cjVPX2hoX3pnQ3ZkZWdpX0Z4cl9EZ0EtQUlPLXU0RGhlNWo3RlpVMFc0U1BZbnF0RGhmM3UwbnJFdFVaVGdnWWNuMA?oc=5>
+
+### 奥巴马中期选举首秀火力全开 猛烈抨击特朗普政府
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-10-25 01:26
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE44YklNclNCWUpMalUwdWlsMnQ4ZUxEUm53SW9hS0hJQUhVcXJ4akdHYnRCU1g4Z24wcnBzVEE2Qi1rdGZBMTBTczFfYzNiX1NPRkxQUk5ac015ZXdIVnh5MW9IUGVIMFVwWDFRdktJNGQ?oc=5>
+
+### 特朗普又在白宫搞了个祈祷仪式
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-10-24 23:36
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1qcXB0VmViUGZ2OHVRMlE1WmRQajBYZHlYLUp0YXdEOFpLYlFpcmpucnRRaktZRkc0Wmh5UkRaeEY3NHBGUFhwMDZpWnBzTGZvZWlhNUdyMkJ2bW1saGZHeWFqa19MYzU3blhQMVE1ODg1Q1kxMnh5LQ?oc=5>
+- 时间: 2026-10-24 23:05
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE5zUXVXRzVOZGYxSE1DaTZhcUJjTFV2c2lZekFPQTQydG9MUjcxRVRVWkoxa0JFb1F0VV9RUkZiUWttdFUtamhPYlV2bE5QNmRQTHhMb1hkbXpSTkZjVmJzMk1VQ3FfOE9CaW9Tdl9PUjg4dzlZelE?oc=5>
 
-### 特朗普偕夫人提前投票 再称2020年大选遭操纵
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-10-24 23:49
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBwd3dVSlJpWnpvLUc5bW9yd3NOdDRqUml2Y3g3WXdoMmlYLTF2S2JPY212eVVlcHBQS3B6ZkVITW9wNmplbDkweFdYcExvTTcySk9hc2xOcmMzTEhZeERSNVE2X3FzbzdHaEE?oc=5>
-
-### 共和党参议员选情告急 特朗普拟豁免更多加拿大产品关税
+### 特朗普被“气炸”？白宫下“最后通牒”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-10-23 21:03
-- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTFBBdmZEbXlGdTBfSEZ1VmRyQVllbkJQTDc1Nlkwd2F3VEdqRzVCanF6OTB0OEpkYXh1M2FJNE9keXY5emVVc0cycE5nRjJQRmFqeW9sWmRSY0dqWnFFbElKZmZNbkozcmMzR1JJTU82OGhyVUJkSFV1SWF3?oc=5>
-
-### 梅拉尼娅促成俄乌一地停火，特朗普回应
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-24 00:21
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBFRTJKUW5aRnRMYmR1SGMxRkUyZ2JWMHE3ZkhSbjRpUk8tbXk2NUlfSFM4U1JMQWJnVUlKaG0ydExIM1Y2Mk5zbnY5RXU?oc=5>
-
-### 特朗普提前投下中期选举选票 自曝把票“全都投给共和党”
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-10-25 00:00
-- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxPbEFwbVpMRm9aLU1WdGcxWWx5bjcxMHpHSl9oMzBfRFlJQ2J3eWtxcVU3bWNjeU9vSUtsVHhyemxTM3VUOGRqSlFONjRaZXNoV1pZNmVUN2doempPYS1hVzc5bkNNN3NZczEtaXpDUWRCSkk2dGVyU0VPcVZVZzZnQW5pUkNrSHNlaDVBVjItanV1T3Z2?oc=5>
+- 场馆: 搜狐网
+- 时间: 2026-10-25 00:30
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxOTFJOWXFKdmU1VHl0R3VLVnVJUTdJMWY4VDJUOVAwUktHaXl4MzZDRnM5TU8zTHBUVF8yenBxNDJuUzViZFhTS2Fha2NiYVlPZjhfV0JCWlZDWEEzd0ZBYVN3RW5UcTJkbXRYVHI4RDI0VnIwNXNmY05USjk5MVRrc0RHOWE4OUNweUIxcA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-25 05:03  (29 条)
+
+- **蔡徐坤** | 蔡徐坤《THE DEADMAN》亚洲巡演下一站去哪里？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801ny7c.html>
+- **蔡徐坤** | 蔡徐坤新加坡演唱会歌单包含哪些歌曲？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801ny7a.html>
+- **蔡徐坤** | 蔡徐坤新加坡演唱会现场有哪些特别舞台设计？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801ny70.html>
+- **蔡徐坤** | 蔡徐坤新加坡演唱会连开两场售罄，现场分享“无所谓风”心态 <https://k.sina.com.cn/article_7879923021_1d5ae154d06801ny6m.html>
+- **蔡徐坤** | 蔡徐坤演唱会深情约定：下一个十年我们一起走好不好 <https://k.sina.com.cn/article_7879776356_1d5abd8640680180pu.html>
+- **蔡徐坤** | 蔡徐坤新加坡演唱会银发造型具体搭配了哪些服饰？ <https://k.sina.com.cn/article_7879776406_1d5abd89606802wiug.html>
+- **蔡徐坤** | 蔡徐坤银发造型梦回偶练，新加坡演唱会杀疯了 <https://k.sina.com.cn/article_7879776406_1d5abd89606802wiu0.html>
+- **蔡徐坤** | 蔡徐坤新加坡演唱会现场有哪些特别的舞台看点？ <https://k.sina.com.cn/article_7879776356_1d5abd8640680180iy.html>
+- **蔡徐坤** | 观看蔡徐坤新加坡演唱会需要准备哪些必备物品？ <https://k.sina.com.cn/article_7879776356_1d5abd8640680180iu.html>
+- **蔡徐坤** | 蔡徐坤新加坡演唱会今晚开唱！银发四面台连开两场 <https://k.sina.com.cn/article_7879776356_1d5abd8640680180im.html>
+- **蔡徐坤** | 去新加坡看蔡徐坤演唱会需要办理哪些入境手续？ <https://k.sina.com.cn/article_7879776356_1d5abd8640680180ie.html>
+- **蔡徐坤** | 蔡徐坤在新加坡演唱会上说的十年之约具体内容是什么？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801nxtg.html>
+- **蔡徐坤** | 蔡徐坤的The Deadman巡演后续还有哪些场次安排？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801nxta.html>
+- **蔡徐坤** | 蔡徐坤在新加坡演唱会上说的十年之约原话是什么？ <https://k.sina.com.cn/article_7879776356_1d5abd8640680180gc.html>
+- **蔡徐坤** | 蔡徐坤新加坡演唱会深情发问：下一个十年，我们一起好不好 <https://k.sina.com.cn/article_7879923021_1d5ae154d06801nxsm.html>
+- **蔡徐坤** | 蔡徐坤新加坡演唱会哽咽约定：下一个十年一起走 <https://k.sina.com.cn/article_7879776356_1d5abd8640680180fs.html>
+- **蔡徐坤** | 蔡徐坤在演唱会上提到的下一个十年约定是什么？ <https://k.sina.com.cn/article_7880068200_1d5b04c6806801qscc.html>
+- **蔡徐坤** | 蔡徐坤新加坡演唱会的银发造型有哪些具体设计细节？ <https://k.sina.com.cn/article_7880068200_1d5b04c6806801qsbu.html>
+- **蔡徐坤** | 蔡徐坤演唱会坦言十年难处，鼓励大家活成想要的样子 <https://k.sina.com.cn/article_1749611063_m6848f23703301hyxm.html>
+- **蔡徐坤** | 蔡徐坤新加坡演唱会白发造型梦回偶练 <https://k.sina.com.cn/article_1682898875_m644effbb03302li84.html>
+- **蔡徐坤** | 太可爱了。蔡徐坤蔡徐坤演唱会 <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002tifm.html>
+- **周杰伦** | vivo X500 Pro Max的2亿像素长焦拍演唱会效果如何？ <https://k.sina.com.cn/article_7880069146_1d5b0501a06802f27s.html>
+- **周杰伦** | 刘宇宁带病唱三十首，周杰伦只唱八十分？同是演唱会诚意差在哪 <https://k.sina.com.cn/article_7879924009_m1d5ae192903301hvbg.html>
+- **特朗普** | 特朗普吹嘘：丹麦已将格陵兰岛移交美国，史上最伟大房地产交易 <https://news.google.com/rss/articles/CBMic0FVX3lxTFBfU2tLQTMzN0E5M1ZXTzdiTHltTzNic2ItMEt1NElnMDRtNW5XTHE3QTdPRXlpUnQxOWQ2aE1SY29ieDN3bEpEZm5nTG9LTm82OTNOdXdRSXpXampSYU54UVJrUlBXcTVIRHRUbGZHeXY0YmM?oc=5>
+- **特朗普** | 果然视频·看天下|白宫：特朗普夫人促成俄乌局部停火 <https://news.google.com/rss/articles/CBMickFVX3lxTFBmVG5JRUVrcGFRcmo3Q042ZzZaVlRYc2ZGZHZxdjR4ZHNIWVdrWHpRdEtFSkI5RmhhbTBhZ05ReXMzXzBBRl9TaXA2dy1mcHNtckxqWHk5X01COEIzWDNzR2c0VVpLeHZKVmpoZVhHNUtCZw?oc=5>
+- **特朗普** | 特朗普：他们在阿拉斯......_7x24快讯_新浪财经 <https://news.google.com/rss/articles/CBMiS0FVX3lxTFB1cjVPX2hoX3pnQ3ZkZWdpX0Z4cl9EZ0EtQUlPLXU0RGhlNWo3RlpVMFc0U1BZbnF0RGhmM3UwbnJFdFVaVGdnWWNuMA?oc=5>
+- **特朗普** | 奥巴马中期选举首秀火力全开 猛烈抨击特朗普政府 <https://news.google.com/rss/articles/CBMicEFVX3lxTE44YklNclNCWUpMalUwdWlsMnQ4ZUxEUm53SW9hS0hJQUhVcXJ4akdHYnRCU1g4Z24wcnBzVEE2Qi1rdGZBMTBTczFfYzNiX1NPRkxQUk5ac015ZXdIVnh5MW9IUGVIMFVwWDFRdktJNGQ?oc=5>
+- **特朗普** | 特朗普又在白宫搞了个祈祷仪式 <https://news.google.com/rss/articles/CBMidkFVX3lxTE5zUXVXRzVOZGYxSE1DaTZhcUJjTFV2c2lZekFPQTQydG9MUjcxRVRVWkoxa0JFb1F0VV9RUkZiUWttdFUtamhPYlV2bE5QNmRQTHhMb1hkbXpSTkZjVmJzMk1VQ3FfOE9CaW9Tdl9PUjg4dzlZelE?oc=5>
+- **特朗普** | 特朗普被“气炸”？白宫下“最后通牒” <https://news.google.com/rss/articles/CBMijAFBVV95cUxOTFJOWXFKdmU1VHl0R3VLVnVJUTdJMWY4VDJUOVAwUktHaXl4MzZDRnM5TU8zTHBUVF8yenBxNDJuUzViZFhTS2Fha2NiYVlPZjhfV0JCWlZDWEEzd0ZBYVN3RW5UcTJkbXRYVHI4RDI0VnIwNXNmY05USjk5MVRrc0RHOWE4OUNweUIxcA?oc=5>
 
 ### 2026-10-25 00:25  (11 条)
 
