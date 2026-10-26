@@ -1,100 +1,202 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-25 22:42**
-- 本轮扫到 14652 条, 新增 **11** 条
+- 最近更新: **2026-10-26 00:55**
+- 本轮扫到 14675 条, 新增 **23** 条
 
 ---
 
-## 本轮新发现 (11 条)
+## 本轮新发现 (23 条)
 
-### 蔡徐坤新加坡演唱会银发造型具体是如何搭配的？
+### 博君一肖超话肖老师演唱会糖点W手势调整更明显
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923674_m1d5ae17da03301s3hw.html>
+
+### 蔡徐坤演唱会上的渔网造型和蓝玫瑰有什么特别含义？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776406_1d5abd89606802wkb8.html>
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801o0u4.html>
 
-### 蔡徐坤新加坡演唱会落泪自嘲，现场分享新心态
+### 蔡徐坤新加坡巡演唱到哽咽，自嘲化解煽情时刻
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801o08i.html>
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801o0u2.html>
 
-### 特朗普：把白宫记者团搬到一个“不那么招人烦的地方”
+### 蔡徐坤后续巡演还会去哪些内地城市？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801o0to.html>
+
+### 蔡徐坤直播透露巡演计划，脚痛嗓子未愈仍称最佳
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801o0tk.html>
+
+### 蔡徐坤新加坡演唱会银发造型回归，粉丝为何直呼梦回2018？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801o0rm.html>
+
+### 蔡徐坤在新加坡演唱会上分享的&#039;无所谓风&#039;心态具体是什么意思？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801o0qy.html>
+
+### 蔡徐坤新加坡巡演两场售罄的现场气氛有多火爆？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7880068200_1d5b04c6806801qujw.html>
+
+### 蔡徐坤新加坡站巡演与澳门站相比风格有什么不同？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7880068200_1d5b04c6806801qujs.html>
+
+### 蔡徐坤新加坡巡演的银发造型有哪些具体细节？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7880068200_1d5b04c6806801qujq.html>
+
+### 蔡徐坤在演唱会上提出&#039;下一个十年&#039;约定，具体说了什么？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801o0qq.html>
+
+### 蔡徐坤银发造型梦回2018，新加坡巡演帅到发光
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7880068200_1d5b04c6806801qujo.html>
+
+### 奥巴马开火：特朗普这两年，混乱、残酷、腐败、无能
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪军事_手机新浪网
-- 时间: 2026-10-25 21:43
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5rU3JNbzYwelVGajY1Q2RhMDcyTzlvUW83X2lFVnl5R2pzY2N6bVdfVzRmV2xPOGJIR21qR0p0YVh0YzhBUExUTnkwUXhIUHlMUV9UY1YtVWFDNjRDdjhaOXVHODJNZnduOWdfRVBMYlZmZFU?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-10-25 01:30
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE53d1VwMzFiQ2x6OWJacU9MQURMd0s2YVhybFJrakZIX1FWSWxmTlE0MHk0cEsxekphbnF1VEFKcGEyMDhKYlRJMjBkQXI0WlRnLTZhN1lJMjZqSkRXb250UURXc1A2aUFvX1NqV0hjZzRJVUFBQ05WeQ?oc=5>
+
+### 特朗普为内塔尼亚胡大选站台 称两人“一直关系紧密”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-10-26 00:27
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUXdENW1PY0hrbGhFbDc3X2ZnQUVBTDgxUmdvRno0MTdJTVhYNXdkNzVIVWM3SE1XaW56REF6VnpTMFVvRmJJdG14alpJU1dYOUJsbWZhVE83RndkZ20ybVFycjM3Rld6SEdJQy1zSjZCYl80T3AxMVptOHFGck1rUnZFbVhJeWNuN2l6NnV3bE5URkktUlVRdi1taEVWTUJoSTlNd3dFYmhfV1loSjAxblpMYXN4VFR5aTlnMi1EZ1cyOXp6TnkzSWtGNXBYVmJNN2N6M0s4eUEzd2gwTUw4?oc=5>
+
+### 特朗普称恢复对乌星链服务 乌克兰官员否认
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-10-26 00:51
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE4yY2J0LWs2VGdzTDc5WFJCSlc4alBqREVSNzFXTGdfREFURmxHNjI1Qk16QUVERnhETy1uckRWQUxYNXFGYlhrU184Q3RFRnpfWl9sdENUYXQtMGxreGxBTTlnS3dncEkxYmhpMFBWUWs?oc=5>
+
+### 巴西大选突生变数：选情胶着，特朗普密切关注
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-10-25 23:34
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFB4SnZreUlCRUZRd19WajVCZGxBZzdWaVJHbnlGdk04aFpERzEzMDNfaHRVSEtCS3dGdnFXN1JvQjBMQUdmYnBZTUR0MmI?oc=5>
+
+### 隔空互怼！奥巴马批评：现任美国政府造成混乱局面 特朗普回击：“你的集会现场空荡荡”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中国网新闻中心
+- 时间: 2026-10-25 22:55
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE5fV1V0N3JkY0dFY0tQSHNFcC1KSWllRU9KTFlLbFJQTjdrLVR0Nmh6Uldlci1zWVdzQUZWeWtJNmRYcjJlaHp4UEpmZk1LdE11VkpuaVY3c0xQeHkyUDVOUXFXTHFXOXhFcTVF?oc=5>
+
+### 特朗普宣布奥迪将斥资40亿美元在美建厂
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: DW.com
+- 时间: 2026-10-25 16:29
+- 链接: <https://news.google.com/rss/articles/CBMilwJBVV95cUxQUGFKY1JLV2xPWXpVTVBRd0tBYzFsMEtsaWx2MGJmLTkxZC15S3U3T1VsdkhSUXJyX3VOZldvMEtTSE1OYXdvZDRtb2kxRWxqWE50NFdzaE5WOXppWWtYamlMbUVQVmNvWHVWT014d1h2YTR3eHVYSzR5VDd3a19mYjRHVWhhWXBzLU0wMk5EcVZvUV9VblRCWktKdjlULXUtLUs4OEFUTFZVNEJkWG8xWnc1S3NJbGttV1NZVzg3Y0tpZjUxamQxaWttZXpodW1BQ2JlZEEwb3c2UFNGc2hidTQxaS1FSVBnajFmQkhxQ0xiRVJWS0trYjZiRXQ1bnZ2YWRCc3puWmU5WGcyVHJzMnVWYmdGRXPSAZcCQVVfeXFMT09PaE1PQ3BfVkpSUkp2QkljYTBKd3NINV9DZTdNcHpMZmlqUzVycmxvd3VoMXNCT1l5aDhZbWZqdTZDS1ZnRjhSME0tbWtra1NUSTZVa1poMTJmTGQ2ZjNmOUdIRjlLWFExMDQ5aWlIVzJXalVHU0RqRFFTZXZLYTdXV0ZHcWhjaUdpOHBTcFI2U1hMd0RhMTh0cEF0SHpCQ0x4OUVTbng0U3o4Y2F1azU0Z1Q2bWc5dVh2S0pNeXdVT1JVODFZZ2Q4QXNWeDk2c2NQcUFpeF9JZjl3SklITU5lc05oaE10aFFnLVMwSFB0Q2Y1M1pOWFltU3h5OHRjekV2ejR3eDh0Vkowc2l1TXA3N2tzSHQ0?oc=5>
 
 ### “压根就没想过”，特朗普否认要拆白宫新闻简报室
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 环球网
-- 时间: 2026-10-25 07:34
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ETkJOZWp6MUtnRXg1Z2NLUXh5b2l3SkZrVW5zV1pCQ1pqazliM0lDSHBwLS04eXpXMWx1dzFGMHZLQkFNNzBaT3ZCUFVpMHBidl9qQjdHcHk?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-10-26 00:16
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBSbFJVdFVUSEJqWmJUZlE5QnhWdVNZNzY0TnlhcnNWREZSVXRqd05zTHJfNVFPRFo3Y05HQ2UyNnY4anc2dXFXcS1oQTQ?oc=5>
 
-### 特朗普：挪威已经变成一个糟糕的国家，挪威很差劲。
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-10-25 20:17
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE90bWVjMUVmUmsycTVlTVVUUTIwZlJQNmI4TmZpSWFjem9vbVc5ZzVFVlI1cXg5LWdJNVdhSW13dGpTZHFTSHVrMWxBWQ?oc=5>
-
-### 特朗普：为塞尔弗里奇......_7x24快讯_新浪财经
+### 特朗普称随时可能再打伊朗，伊朗总统指责美国未能与伊朗达成协议丨C视频
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-10-25 20:59
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9jNHVLMU9xYjFuNmI5bTlxMjBjRm9pQmNNSFZIQktWSHQ3UVdNSFRzeUhBTjVqcU4yYzk0dU52eEtSazJ3NU1qZVRlcw?oc=5>
+- 场馆: 四川新闻
+- 时间: 2026-10-25 11:47
+- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTE5JQUFqWW5XcnVOa0dIa1JPRnFZc21hTkFocjhWYUllM3VhS0dIRzJocDh6Vk1vb3B6RnZDM2toblZHNzhhMjRsSEc2R2YtU3BSSEZUbVQtNXVMSFZBUjJUamtRSQ?oc=5>
 
-### 特朗普：美俄乌三方会谈“很快”就会举行
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: ThePaper.cn
-- 时间: 2026-10-25 18:40
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1S0VQWkhqb1VKUnNFa2xnQnpSUzZ5T1g5VkVSbnN3Q1FEMXZxNzA3OERYalpXYUgxSkFaOHB4M0c3ZktTSU1nM0VaZXROM1h1TjFEbHJJcXRZZHF5Ui1BOQ?oc=5>
-
-### 特朗普周日表态，当日不会对伊朗实施军事打击
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-10-25 16:32
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9oM2NpTTRqaXFwaXpZdFVsY01mM3Bkdndrdm5mdDhHMUYwRk5LeWVUaEc2Y3VLTHhVWEJmNjFwelU1T2hUUkYtczdlVQ?oc=5>
-
-### [流言板]Skip谈特朗普要求詹姆斯公开道歉：詹姆斯场外一直是好榜样
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 虎扑体育网
-- 时间: 2026-10-24 16:20
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBXN2I5QXQtSlJDYmQxdl85ek85Z2VJYzBxTFgzYzYyWEM3Yk1uYl9HN19fWDhpeTJUODdmNDk3N0NWelBnT204YzdhRQ?oc=5>
-
-### Trump：“若利用美国，关税将升至50%”……对伊朗称：“是达成协议，还是彻底解决？”
+### 特朗普宣布奥迪首座美国工厂落户佐治亚州，关税影响显现
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 아시아경제
-- 时间: 2026-10-25 19:01
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBWc0RaY2NxUnFQMXVMVmF2aWVMTF9Jd1dWcWQxeklFSWUzOTNuTW15dGQwVUdRcktldTBHek1OVEpuZjI5RDMwbVRLd0dWVVl3OURWVWZrUHJFWnpGZGhjWGNzaUg?oc=5>
+- 场馆: 华尔街日报中文网
+- 时间: 2026-10-26 00:33
+- 链接: <https://news.google.com/rss/articles/CBMirAFBVV95cUxQbUNQVVlOSEQtcm0zM0ZPcmtlb3lacEZWWmtERVRQbXFJUVl5MWpYMFJsQTJVaC1BRUhPdWhmS054TVRwLU4ya0FFNjg0ODRuTVRZekd2amxad20wTGZidGVZZS1vSlRBQUFVcnBOOGVIMXV0OENYNUFVTFNobk1ONm5tTDZhbWJ5RGJwNUpfdmUxR0ZuWE54c2tRZEhRVG9kY3ZaclF6b25YRkxD?oc=5>
 
-### 曾投票支持Trump的西裔和年轻选民态度“动摇”……若失去参议院多数席位，将行使否决权- 阿视亚经济
+### Trump Media & Technology Group Corp. (Coinbase Tokenized Stock)价格：DJTC/USD价格图表、市值与今日新闻
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 아시아경제
-- 时间: 2026-10-25 18:49
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXUkQ3UkhMdTZxcm5IMEV6WERvV0dyNTRzVlhOa1pkcnpvYVV2MTItbUdLM0xxNk5DTlFvd3hJZms1NFFxSWJJcUlsUzVtZmVpSlFLUk85Rno3dWVnQlFEWFBvYjk?oc=5>
+- 场馆: CoinGecko
+- 时间: 2026-10-25 15:26
+- 链接: <https://news.google.com/rss/articles/CBMiwgFBVV95cUxONFd3Yy1sNUVvMm5pS05VN041QUpXY0gySnZxVDQ4R0lrQ2gzdkUtYzFPM0RjUXBNUElwS1h4NmdtVFFQYTJGSG5KaXhtRlcwaTE3Y1BCMU1hNVIxZUF4RUJiLTNSX19zejk1eVpmdy16NHBxcU5Sb2dndHp2QnNtSWxIak9vOG5LSzhSR0xsYlpqS0E1T3FzVVJnMTdrS21jVjM5dlBzRkltck9vdkVMUHBlVnBsTlZudHphSUs5ZjRIQQ?oc=5>
+
+### 🔥 TRUMP 币——动能观察| Sohail jojo发布于币安广场
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Binance
+- 时间: 2026-10-25 12:57
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE40NUx2UFJBLWV4Q1BVMGR3OUNzajdJTFYwSktydkM3OHdDM3puaVBweFY5SERIdERCcFd1N3lLNWRRYUpqOG10dmtUNTE4cFNpUW5maW9PbGVmU1lUYlhvWU9MOHFZS0lU?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-26 00:55  (23 条)
+
+- **王一博** | 博君一肖超话肖老师演唱会糖点W手势调整更明显 <https://k.sina.com.cn/article_7879923674_m1d5ae17da03301s3hw.html>
+- **蔡徐坤** | 蔡徐坤演唱会上的渔网造型和蓝玫瑰有什么特别含义？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801o0u4.html>
+- **蔡徐坤** | 蔡徐坤新加坡巡演唱到哽咽，自嘲化解煽情时刻 <https://k.sina.com.cn/article_7879923021_1d5ae154d06801o0u2.html>
+- **蔡徐坤** | 蔡徐坤后续巡演还会去哪些内地城市？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801o0to.html>
+- **蔡徐坤** | 蔡徐坤直播透露巡演计划，脚痛嗓子未愈仍称最佳 <https://k.sina.com.cn/article_7879923021_1d5ae154d06801o0tk.html>
+- **蔡徐坤** | 蔡徐坤新加坡演唱会银发造型回归，粉丝为何直呼梦回2018？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801o0rm.html>
+- **蔡徐坤** | 蔡徐坤在新加坡演唱会上分享的&#039;无所谓风&#039;心态具体是什么意思？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801o0qy.html>
+- **蔡徐坤** | 蔡徐坤新加坡巡演两场售罄的现场气氛有多火爆？ <https://k.sina.com.cn/article_7880068200_1d5b04c6806801qujw.html>
+- **蔡徐坤** | 蔡徐坤新加坡站巡演与澳门站相比风格有什么不同？ <https://k.sina.com.cn/article_7880068200_1d5b04c6806801qujs.html>
+- **蔡徐坤** | 蔡徐坤新加坡巡演的银发造型有哪些具体细节？ <https://k.sina.com.cn/article_7880068200_1d5b04c6806801qujq.html>
+- **蔡徐坤** | 蔡徐坤在演唱会上提出&#039;下一个十年&#039;约定，具体说了什么？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801o0qq.html>
+- **蔡徐坤** | 蔡徐坤银发造型梦回2018，新加坡巡演帅到发光 <https://k.sina.com.cn/article_7880068200_1d5b04c6806801qujo.html>
+- **特朗普** | 奥巴马开火：特朗普这两年，混乱、残酷、腐败、无能 <https://news.google.com/rss/articles/CBMieEFVX3lxTE53d1VwMzFiQ2x6OWJacU9MQURMd0s2YVhybFJrakZIX1FWSWxmTlE0MHk0cEsxekphbnF1VEFKcGEyMDhKYlRJMjBkQXI0WlRnLTZhN1lJMjZqSkRXb250UURXc1A2aUFvX1NqV0hjZzRJVUFBQ05WeQ?oc=5>
+- **特朗普** | 特朗普为内塔尼亚胡大选站台 称两人“一直关系紧密” <https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUXdENW1PY0hrbGhFbDc3X2ZnQUVBTDgxUmdvRno0MTdJTVhYNXdkNzVIVWM3SE1XaW56REF6VnpTMFVvRmJJdG14alpJU1dYOUJsbWZhVE83RndkZ20ybVFycjM3Rld6SEdJQy1zSjZCYl80T3AxMVptOHFGck1rUnZFbVhJeWNuN2l6NnV3bE5URkktUlVRdi1taEVWTUJoSTlNd3dFYmhfV1loSjAxblpMYXN4VFR5aTlnMi1EZ1cyOXp6TnkzSWtGNXBYVmJNN2N6M0s4eUEzd2gwTUw4?oc=5>
+- **特朗普** | 特朗普称恢复对乌星链服务 乌克兰官员否认 <https://news.google.com/rss/articles/CBMicEFVX3lxTE4yY2J0LWs2VGdzTDc5WFJCSlc4alBqREVSNzFXTGdfREFURmxHNjI1Qk16QUVERnhETy1uckRWQUxYNXFGYlhrU184Q3RFRnpfWl9sdENUYXQtMGxreGxBTTlnS3dncEkxYmhpMFBWUWs?oc=5>
+- **特朗普** | 巴西大选突生变数：选情胶着，特朗普密切关注 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFB4SnZreUlCRUZRd19WajVCZGxBZzdWaVJHbnlGdk04aFpERzEzMDNfaHRVSEtCS3dGdnFXN1JvQjBMQUdmYnBZTUR0MmI?oc=5>
+- **特朗普** | 隔空互怼！奥巴马批评：现任美国政府造成混乱局面 特朗普回击：“你的集会现场空荡荡” <https://news.google.com/rss/articles/CBMia0FVX3lxTE5fV1V0N3JkY0dFY0tQSHNFcC1KSWllRU9KTFlLbFJQTjdrLVR0Nmh6Uldlci1zWVdzQUZWeWtJNmRYcjJlaHp4UEpmZk1LdE11VkpuaVY3c0xQeHkyUDVOUXFXTHFXOXhFcTVF?oc=5>
+- **特朗普** | 特朗普宣布奥迪将斥资40亿美元在美建厂 <https://news.google.com/rss/articles/CBMilwJBVV95cUxQUGFKY1JLV2xPWXpVTVBRd0tBYzFsMEtsaWx2MGJmLTkxZC15S3U3T1VsdkhSUXJyX3VOZldvMEtTSE1OYXdvZDRtb2kxRWxqWE50NFdzaE5WOXppWWtYamlMbUVQVmNvWHVWT014d1h2YTR3eHVYSzR5VDd3a19mYjRHVWhhWXBzLU0wMk5EcVZvUV9VblRCWktKdjlULXUtLUs4OEFUTFZVNEJkWG8xWnc1S3NJbGttV1NZVzg3Y0tpZjUxamQxaWttZXpodW1BQ2JlZEEwb3c2UFNGc2hidTQxaS1FSVBnajFmQkhxQ0xiRVJWS0trYjZiRXQ1bnZ2YWRCc3puWmU5WGcyVHJzMnVWYmdGRXPSAZcCQVVfeXFMT09PaE1PQ3BfVkpSUkp2QkljYTBKd3NINV9DZTdNcHpMZmlqUzVycmxvd3VoMXNCT1l5aDhZbWZqdTZDS1ZnRjhSME0tbWtra1NUSTZVa1poMTJmTGQ2ZjNmOUdIRjlLWFExMDQ5aWlIVzJXalVHU0RqRFFTZXZLYTdXV0ZHcWhjaUdpOHBTcFI2U1hMd0RhMTh0cEF0SHpCQ0x4OUVTbng0U3o4Y2F1azU0Z1Q2bWc5dVh2S0pNeXdVT1JVODFZZ2Q4QXNWeDk2c2NQcUFpeF9JZjl3SklITU5lc05oaE10aFFnLVMwSFB0Q2Y1M1pOWFltU3h5OHRjekV2ejR3eDh0Vkowc2l1TXA3N2tzSHQ0?oc=5>
+- **特朗普** | “压根就没想过”，特朗普否认要拆白宫新闻简报室 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBSbFJVdFVUSEJqWmJUZlE5QnhWdVNZNzY0TnlhcnNWREZSVXRqd05zTHJfNVFPRFo3Y05HQ2UyNnY4anc2dXFXcS1oQTQ?oc=5>
+- **特朗普** | 特朗普称随时可能再打伊朗，伊朗总统指责美国未能与伊朗达成协议丨C视频 <https://news.google.com/rss/articles/CBMiY0FVX3lxTE5JQUFqWW5XcnVOa0dIa1JPRnFZc21hTkFocjhWYUllM3VhS0dIRzJocDh6Vk1vb3B6RnZDM2toblZHNzhhMjRsSEc2R2YtU3BSSEZUbVQtNXVMSFZBUjJUamtRSQ?oc=5>
+- **Trump** | 特朗普宣布奥迪首座美国工厂落户佐治亚州，关税影响显现 <https://news.google.com/rss/articles/CBMirAFBVV95cUxQbUNQVVlOSEQtcm0zM0ZPcmtlb3lacEZWWmtERVRQbXFJUVl5MWpYMFJsQTJVaC1BRUhPdWhmS054TVRwLU4ya0FFNjg0ODRuTVRZekd2amxad20wTGZidGVZZS1vSlRBQUFVcnBOOGVIMXV0OENYNUFVTFNobk1ONm5tTDZhbWJ5RGJwNUpfdmUxR0ZuWE54c2tRZEhRVG9kY3ZaclF6b25YRkxD?oc=5>
+- **Trump** | Trump Media & Technology Group Corp. (Coinbase Tokenized Stock)价格：DJTC/USD价格图表、市值与今日新闻 <https://news.google.com/rss/articles/CBMiwgFBVV95cUxONFd3Yy1sNUVvMm5pS05VN041QUpXY0gySnZxVDQ4R0lrQ2gzdkUtYzFPM0RjUXBNUElwS1h4NmdtVFFQYTJGSG5KaXhtRlcwaTE3Y1BCMU1hNVIxZUF4RUJiLTNSX19zejk1eVpmdy16NHBxcU5Sb2dndHp2QnNtSWxIak9vOG5LSzhSR0xsYlpqS0E1T3FzVVJnMTdrS21jVjM5dlBzRkltck9vdkVMUHBlVnBsTlZudHphSUs5ZjRIQQ?oc=5>
+- **Trump** | 🔥 TRUMP 币——动能观察| Sohail jojo发布于币安广场 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE40NUx2UFJBLWV4Q1BVMGR3OUNzajdJTFYwSktydkM3OHdDM3puaVBweFY5SERIdERCcFd1N3lLNWRRYUpqOG10dmtUNTE4cFNpUW5maW9PbGVmU1lUYlhvWU9MOHFZS0lU?oc=5>
 
 ### 2026-10-25 22:42  (11 条)
 
