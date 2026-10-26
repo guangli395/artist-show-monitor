@@ -1,206 +1,230 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-26 05:42**
-- 本轮扫到 14702 条, 新增 **27** 条
+- 最近更新: **2026-10-26 12:03**
+- 本轮扫到 14729 条, 新增 **27** 条
 
 ---
 
 ## 本轮新发现 (27 条)
 
-### 蔡徐坤演唱会上落泪是在唱哪首歌？
+### 蔡徐坤演唱会上提到的十年约定具体是什么内容？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd8640680183wo.html>
+- 链接: <https://k.sina.com.cn/article_7880068200_1d5b04c6806801qvnw.html>
 
-### 蔡徐坤在演唱会上说的‘不吃压力’是什么意思？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849970_1d5acf7f206801fdlk.html>
-
-### 蔡徐坤新加坡演唱会为什么推迟了开场时间？
+### 蔡徐坤新加坡演唱会四面台与全开麦设计有何亮点？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd8640680183wg.html>
+- 链接: <https://k.sina.com.cn/article_7880068200_1d5b04c6806801qvnu.html>
 
-### 蔡徐坤新加坡演唱会还有哪些精彩舞台表现？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849970_1d5acf7f206801fdli.html>
-
-### 蔡徐坤新加坡演唱会银发造型的具体设计细节是什么？
+### 蔡徐坤新加坡站演唱会为何能连开两场都售罄？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068200_1d5b04c6806801qv1s.html>
+- 链接: <https://k.sina.com.cn/article_7879776406_1d5abd89606802wm7u.html>
 
-### 蔡徐坤在演唱会上表演了哪些曲目和舞蹈风格？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068200_1d5b04c6806801qv1o.html>
-
-### 蔡徐坤新加坡演唱会银发造型具体是什么样的？
+### 蔡徐坤新加坡演唱会银发造型有哪些设计细节？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849970_1d5acf7f206801fdlg.html>
+- 链接: <https://k.sina.com.cn/article_7880068200_1d5b04c6806801qvn6.html>
 
-### 蔡徐坤在演唱会上说了什么话引发粉丝共鸣？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068200_1d5b04c6806801qv22.html>
-
-### 蔡徐坤新加坡演唱会银发造型惊艳全场，梦回2018
+### 蔡徐坤在演唱会上解释的&#039;无所谓风&#039;是什么意思？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068200_1d5b04c6806801qv1y.html>
+- 链接: <https://k.sina.com.cn/article_7879776406_1d5abd89606802wm7o.html>
 
-### 蔡徐坤银发造型引爆新加坡演唱会，梦回2018
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849970_1d5acf7f206801fdle.html>
-
-### 蔡徐坤在演唱会上提出的无所谓风是什么意思？
+### 蔡徐坤银发背头亮相新加坡演唱会，全开麦唱跳连开两场售罄
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd8640680183w6.html>
+- 链接: <https://k.sina.com.cn/article_7879776406_1d5abd89606802wm7c.html>
 
-### 蔡徐坤新加坡演唱会两场售罄，现场落泪谈十年约定
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd8640680183vq.html>
-
-### 蔡徐坤演唱会上的奶奶粉互动引发了怎样的反响？
+### 蔡徐坤演唱会上唱《I Wanna Get Love》穿82号球衣有何含义？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801o1ds.html>
+- 链接: <https://k.sina.com.cn/article_7879776406_1d5abd89606802wm7a.html>
 
-### 美国中选举前夕，奥巴马抨击特朗普政府
+### 蔡徐坤新加坡演唱会银发背头造型的灵感来源是什么？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776406_1d5abd89606802wm72.html>
+
+### 蔡徐坤在演唱会上如何解释“无所谓风”的含义？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7880068200_1d5b04c6806801qvlq.html>
+
+### 蔡徐坤新加坡演唱会为什么能连开两场且售罄？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7880068200_1d5b04c6806801qvlo.html>
+
+### 蔡徐坤新加坡演唱会上为什么唱《Remedy》时哭了？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801o27u.html>
+
+### 蔡徐坤新加坡演唱会2026年门票售罄，现场唱了哪些歌？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801o27q.html>
+
+### 蔡徐坤新加坡演唱会门票售罄，现场分享&quot;无所谓风&quot;拒绝内耗
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801o27a.html>
+
+### 蔡徐坤将出席W澳门盛典，演唱会结束即转场时尚活动
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_6580966381_1884193ed04001wtlg.html>
+
+### 蔡徐坤演唱会全体合唱情人夯爆了
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_3666565210_mda8b585a03301d67k.html>
+
+### 蔡徐坤演唱会追问粉丝恋情，一句“那我怎么办”引全场沸腾
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801o1zu.html>
+
+### 中期选举集会，奥巴马特朗普针锋相对
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-10-26 05:21
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9jcTdsSkNEOGIwaWVDZUlDekgxT2VHR1ZibUpybzZLQkh4cGJTUTgxeXRRbjQyRnhDcEMyRWhGZ0RpcTJoSFJSX0Y0b1RyRTRncDBGRzBVYzZJNEZwcndmTzd2MkJnZk3SAWxBVV95cUxNQjVLUkV2NzF4enROWXVHaDhtaXppZjhWelFQTHJGbXUzZFRzQXNOSjQtVXc2aklqQjd4SUtNVHBqLWpxOVRTSTRwOWVMTFYzN0FTaGR1eG5kcUFvRF9QcWMzZFZZOEdTNEFvazA?oc=5>
+- 场馆: 纽约时报中文网
+- 时间: 2026-10-25 17:26
+- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxNNGt5TTVPbmRfRFFYRnlVOTVjcjI4V1VhYkJaVFVVM29jZnRHbXUyWEo0MlZCRTNFMGRnM0wwZWJ4SW9idVU0dkIydzlVa3B0MkJqSTNzcDFkZjk3c2liUlJPY1Jfc09kUmVuUlR2SGJGbmYyTnlNQTlmZC1EMWNwTA?oc=5>
 
-### 特朗普否认要拆白宫新闻简报室
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪军事_手机新浪网
-- 时间: 2026-10-26 04:10
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFAyd0UyN0JYT2c0c2lNVzUxSDQtNDFETFhIc1dtcHBNdG14NVJfaFNBcU5DMk8zc3Q4NFByaVU0U3E5UHFuYlpPNU5iVTN6YTZPYVpsSi1nYzlQX2tVUHhqYTJYZkVQZzN6Wmx4bFJVRVRUN2M?oc=5>
-
-### 特朗普：美俄乌三方会谈“很快”就会举行
+### 白宫：内塔尼亚胡发出“绝望的信号”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-25 22:32
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1fME1MOE5QUDdNMGtrd2lSdkQ2eFdVUUd2bk80Y2JETU1IWnRVbzB2ZC1wQWtLYTNYSnZjQVhlOXBtNDV0UmJkTTRxMDc?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-10-26 11:26
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE9sT3drS0Z5TENqZ1ZjdV9acWFzdnRTTEtOLXpCZ3FNRjVWWUIzTm04X3l1VWhmdkUwaTZfMG5wVmNkcTZnS0hNd0JMUTQ2clFmZ05aUE5zRmdyUFFKNmplNEZaaUFqNy05T2kycW1tUTBxZw?oc=5>
 
-### “多管齐下！特朗普政府暗中助选，要帮博索纳罗家族夺权”
+### 佐治亚的“远水”，难解特朗普和奥迪的“近渴”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 观察者网
-- 时间: 2026-10-25 02:58
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5qODZhN3FoYmRKZE5Nd3FaQ2RpWUowZHozbVd0NmttOFd4QkJhY0lhN3VQTG05SkloNmFtM0pMODM1VjZNT252Q0huME1LT25fQkNVakpxNnVXOW8xU1JYNDE2dmhIM1FxRWVMRS1oOWN3VE0?oc=5>
+- 时间: 2026-10-26 07:47
+- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE0yRWNtenY2cHdZTUJ4eFRlUnUxekNVUnpIMThWaGQxYVFmVFRkeHh5Y3dGV3dqWkhsdXR2eksxUTRfbHA5c2g3YnlkZGlEdy1pR1BveFpoemdQckRRRVNMcmNn?oc=5>
 
-### 特朗普称伊朗问题临近决断时刻 要么达成协议要么彻底解决
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-10-25 15:56
-- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxQd1dqVEhSdklvRnVCNDRoT1VHYkRRdmVTcHVUcDZBb0g4Tm1XYVNKZXJGWlJvdWJRUE9vR2FPWHYtNklQSTQybTJTMEgwanpPLXRESi1rcHdKcjdBUmc3UTN4Wk82ckhTRDhfS3k3ZUcyLW5qQkN1c04yS1pxa1QteUtxWHpFV2dZV2FWX0g1NElmaWVmWHdvYjJITGE?oc=5>
-
-### 特朗普称随时可能再打伊朗 也可能达成协议丨港股早报
+### 全球关键材料争夺战“白热化”？欧盟开始“抄特朗普作业”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-10-26 01:17
-- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTE1nN3RIZHJGYUViY2pLbThJWDdESWVKWWpUOWxCNHY2NVZzNUNQQTVUZDNWY1FxbjgyS1lHX1R0ajktMUFGeEQ3bkNGQWpkYWZoaFNVNWgwUktoRV81bXdKcW1tdHVrdDhtdmdHNU5n?oc=5>
+- 场馆: 财联社
+- 时间: 2026-10-26 05:37
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE5oZUNoLVlYMFFsandTOXNTQ1NlQXlkVGE3bFl2dVlFR0YzSGJZZXpzc2drbXlGWnQwTUhDMHdnRzB6UHllR0Z1Rw?oc=5>
 
-### 特朗普：再来一次“史诗怒火”行动 伊朗议员警告中东国家停止支持美国
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-10-26 00:06
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5hZXg2MTVrVEdtZWh4M2dsRVU5R29sQXM5SXE2bk5BWEdMV2RFdEVldTdjYmhuM3oweHN0b0hXRlZrYUhzTDZ1U3cwUWRsUWNvbEE1cE1WU1lHcVBabDhMbjBPQmhDZ3JfQnoweUIwYUM?oc=5>
-
-### 特朗普为内塔尼亚胡站台：我们必须完成已经开启的事业
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-26 00:43
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE85eVhqV1hKSlkyWjNTRW5raXpqaURmazBldWlBdzdUWmwwZDJmU0s2M3hFOU83TWl0M25tdzFYVW1leExENXJ2bEpuUzM?oc=5>
-
-### 特朗普为内塔尼亚胡大选站台 称两人“一直关系紧密”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-10-26 00:27
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxQV0l5dHRkMzFsdlVUWHNfcVdWZ3A3b1lMcUlhR0N0UGdfOHhSNlNBNXBab3BqcXpab1pFOWlZR1pieDJOSm9aLVlZbFl1Q0NobjMtUE1Iel9aUnhDZjdrSjN0WlpMckpPX1VndExKMmpUa0sxTFBTY2RES2N1a2p5UkN2UE5lZTg?oc=5>
-
-### 内塔尼亚胡称再无特朗普般友好总统 美以关系生变
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-10-26 00:10
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5fRElheTU0bG9YMUItWF9TT1VHX0tlMC1XSVE3YVd1MzNQazZIdEVfUWstd2xkTS1oaVlNSXlsLUFwa1Jjd3Ezbi1xYnVpRlctZkVJMmowWkk2SFhtT2pkNnU5STI1bklTaWFlZ21BREQ?oc=5>
-
-### 美司法部长否认特朗普企图干预州选举
+### 【美国中期选举】密歇根州选情胶着 特朗普将回教徒候选人比作九一一袭击者
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 联合早报
-- 时间: 2026-10-26 04:04
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9FZVVoc3hTWUpDaVNoNGdhVHREd2Y3dnk1VjI5aVRWUVpXblpnYlE4enYxVTA5emdwRFVBR0Q3eDVsSFE1WlBvZ0ctX0lRYXVhVkR1bUhXZ3lvN3h2RUtER2p2TjV6SURFc0E?oc=5>
+- 时间: 2026-10-26 08:32
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1LUXBQZ3Q4NFp0ZFNsYWpEYldiRVh1MlVHV0hhdkh1RklZeWY1UEViNU5Wbk5OcGRYcUo2RkFSSGFfbmNHMkkwQWItVDg1VTc0MHJvR2F1dWROZFVNM0FuR2Vyekl0bHYxWWc?oc=5>
 
-### 特朗普在集会上当众评价女歌手翘臀
+### 特朗普：随时可能再打伊朗，本可以1年前用B-2轰炸机搞定走人 据CCTV国际时讯，当地时间10月24日，美国总统特朗普在参加中期选举投票过程中被问及是否可能再对伊朗发动袭击。特朗普回应称，不会向媒体透露这种信息。但也同时表示，美国随时可能再对打伊朗，
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-26 01:10
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFByemlFdEVCWTQtWU5ma0p0RnJ1T2pqSHFqOU9KRTkwY2ZRRGdLVDd3UEYyWWlCUXhyclhpVk1aeEctMWRGUlcxa25BN18?oc=5>
+- 场馆: Sohu
+- 时间: 2026-10-26 08:42
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdVhDWjZzdTJHZk9EdDFMRUxIdVJiU1hzWGd1OWFTYzVya1FtVzNSc0FzdE1iRzNza0d1Znhxa0ZmVklCVHU4TUxOWGRPM0JtNE1LZGdRamh3cVhYcDdqN3FyTG8wYWdGSjFoNUkwMVlsa2hpLU5NeXB6b09DdzhXTUwwbXpfOThP?oc=5>
 
-### 泽连斯基确认俄乌11月在美国斡旋下举行会谈 强调领土问题须与普京直接讨论
+### 美国中期选举倒计时 特朗普谈高油价：“我们正赚得盆满钵满”！
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 财联社
+- 时间: 2026-10-26 02:17
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE02ZTMwSERkQTM3MlJhX1pUWGdiMXlXaU5OUmFfQTI0R2NuajBTaldpV1NrTUpBZGtVR3R5SDNBTzh0di1ibHlBWQ?oc=5>
+
+### 特朗普称很快就伊朗问题做决定
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-10-26 10:19
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9vQzE3TTlMQkc0ZXMzbHBMWVRXOS1jQVB3NllieUZuWFhnRV85SWlTRnEzaWI4ZE12QmlwVHZKZlp2QUoxUHdkYVhvbTBhaTB5Y2UyMHZPUHRxd2FIdlJGNlFSUWdVblBZc2c?oc=5>
+
+### 奥巴马在美国大选前夕抨击唐纳德·特朗普，发生了什么？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: IDNFinancials
+- 时间: 2026-10-26 11:20
+- 链接: <https://news.google.com/rss/articles/CBMi6wJBVV95cUxONTRmT0Y4XzVVZnowS1dwSWlERFBFdFJNSFRTbHVoWTVEVnRWYWNxcVpCTlE0b1hrQjZ0cHFMdGNUQTVmNWRyTG1tWndJWnJCelNzY3hQVVZSNXQyaEtncjY2Y05WUXFNNWVCYi1uMmdIbS1OMFdrek9DcHNMam5rcHR1OGhNcm9ybG5XOG55clhFNXRJelN2WThhMnloUWZTSzNiakdLTWtKaVh3QmNhUkg1ZXUzNVAwZzdFY3N0YWQxZkxyc09QNFVVR1BUellBOE9idFhEUWE2SVpka191dTVLUmdsSHA1SFh0S1oya0M3cXVvQnBMSFlGbC1nOFItc0tXWEwxeDJ3OXlNZmJUaFk4Tk11YVFadmVkNWhnS1U1TmVkcnk5cFdTQWdOU3BGbmI0YXo0LVhzWnJDZlRRRlo3WUQwMVlpbGY2blZDNVFLeFUtcXdPTnZYN0E1NkFaMENGRlJwV19EWE0?oc=5>
+
+### 持仓一亿六的TRUMP，OKX账户多头却近七成七| 币老板coinboss发布于币安广场
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-10-25 21:30
-- 链接: <https://news.google.com/rss/articles/CBMi7wNBVV95cUxNQUlZTFhTODIwMkhLQWtLUE5JU25mODd2Zk5DSnRjN1BNSG9fX3J0aTJOa2k5WUZ3dWlFSXhZTzJjenJvaE9ZV01xWTlOa0lnczRIR3FjTG8zZjdEV0hBbkhHVUx6UkdaQmNVLW9TU0dDQ1NzUDBWUGJpUTR6bDhZYjh0cXdCRFJVbmNCemREMC1aYTktSTNldTBabVFDUllrNVRsMGRZQy1qU3lJQjlvTmhDYmFWY0NSUFhfaHVEdkJoV21QbUplQThBbk5Vb1RoVS0yY2x1WVR1NDV5RXBIdTBueFdPVE41SzZsWnlLNDE3X2pwY05CbEljQ0Fmbk1SVFdNV05VZjZUamltQUpYazVNTThqRTEtYUFub0JmaU5GRUJnOFhQdk44U18xLUhBOVVWOWFLYVdLdjVoN3NTUnpSUDRwUmNSLUtGN2Y2dmpSUTJmUnVpU3BjbUpyODlUUGRkWWYwWmQwR1BCcHZjT3JwYjBwOXJyV3BIVmh5SFVNaTNxWmowQXNPQU9yOGg0TWdJS3ctd3A0b1JFVWlPOUJ2U29KQkRWaEtvR3BuazkxTVUzV3FlWDdrVVFSMFlFVF9XQmJUdVpBaFRwUnhld0Ytb1N1ZW5MTkpZSnFSMHlFZGMzYmVJbjBXN3hPSHM?oc=5>
+- 场馆: Binance
+- 时间: 2026-10-26 03:54
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NQTEzQlYxUnM5YnFvMThhZ3g1SmxRTUFJWkhmZ3ZaZGluSmN1dGt2TFRRRU9xT3NjWTA4Q2NKemlvYXVidEwzUFgyNi1xeGJKeWVUZE1VdlBRc0s0SThqR2RWRi1zdExQ?oc=5>
 
-### 特朗普以“圣战分子” 攻击民主党参院候选人
+### 11个小时“特朗普秀”：记者直击七天七场集会
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-10-26 01:36
-- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcVo5VDJYa05yQmpRZEtXWTd6aC16VmJlT0pMUzNsUXQtYmFkeWI0WlQ2bS0tS3VuQ3hZRWw2SXBnUUlHYzY5dE1ISXM4R2hzbFlyckhZQlppcGZ4Nk1xaXE5VTQ5WExxQ0RaMUZuZE5MbWhEMkdGR2IyY2hZREtBdVVqVEktUzhT?oc=5>
+- 场馆: 华尔街日报中文网
+- 时间: 2026-10-26 03:56
+- 链接: <https://news.google.com/rss/articles/CBMinwJBVV95cUxNNE9qQjJhb0xURkYwdk9BYTA3M1ItMUFBanFiZXVqUEVYRXZlRXc4MHBSTnJXaWdxb3pRbHVSM0tHTUJid2VoRDhBNHpualRDT3hCclpMdkFRRW5NZE0zY2c5eFVacEdRajR4MUpoTjNrT2tqNW5laEFhc0FvZWVSWlFHWnRjcmVpTjBrQ3RVZDdPME9rSUpQb3pNSXhrR2dueTVReThsZzhYdzZJRWV5OXpSNnhGbEpOTWdaVFhsaFBhdFVfNGt2NFZkdnN6VDBpYjRtLWxrNkhOOTFGcXhhYnJNMXQ1RVlxOXhYRHZkRE9HTjlmaUUxWXIzbFhqMUFVU2tMbVVUZHdXcnRFQWFZRUhiZ2tpMVlrX0hzNmprUQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-26 12:03  (27 条)
+
+- **蔡徐坤** | 蔡徐坤演唱会上提到的十年约定具体是什么内容？ <https://k.sina.com.cn/article_7880068200_1d5b04c6806801qvnw.html>
+- **蔡徐坤** | 蔡徐坤新加坡演唱会四面台与全开麦设计有何亮点？ <https://k.sina.com.cn/article_7880068200_1d5b04c6806801qvnu.html>
+- **蔡徐坤** | 蔡徐坤新加坡站演唱会为何能连开两场都售罄？ <https://k.sina.com.cn/article_7879776406_1d5abd89606802wm7u.html>
+- **蔡徐坤** | 蔡徐坤新加坡演唱会银发造型有哪些设计细节？ <https://k.sina.com.cn/article_7880068200_1d5b04c6806801qvn6.html>
+- **蔡徐坤** | 蔡徐坤在演唱会上解释的&#039;无所谓风&#039;是什么意思？ <https://k.sina.com.cn/article_7879776406_1d5abd89606802wm7o.html>
+- **蔡徐坤** | 蔡徐坤银发背头亮相新加坡演唱会，全开麦唱跳连开两场售罄 <https://k.sina.com.cn/article_7879776406_1d5abd89606802wm7c.html>
+- **蔡徐坤** | 蔡徐坤演唱会上唱《I Wanna Get Love》穿82号球衣有何含义？ <https://k.sina.com.cn/article_7879776406_1d5abd89606802wm7a.html>
+- **蔡徐坤** | 蔡徐坤新加坡演唱会银发背头造型的灵感来源是什么？ <https://k.sina.com.cn/article_7879776406_1d5abd89606802wm72.html>
+- **蔡徐坤** | 蔡徐坤在演唱会上如何解释“无所谓风”的含义？ <https://k.sina.com.cn/article_7880068200_1d5b04c6806801qvlq.html>
+- **蔡徐坤** | 蔡徐坤新加坡演唱会为什么能连开两场且售罄？ <https://k.sina.com.cn/article_7880068200_1d5b04c6806801qvlo.html>
+- **蔡徐坤** | 蔡徐坤新加坡演唱会上为什么唱《Remedy》时哭了？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801o27u.html>
+- **蔡徐坤** | 蔡徐坤新加坡演唱会2026年门票售罄，现场唱了哪些歌？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801o27q.html>
+- **蔡徐坤** | 蔡徐坤新加坡演唱会门票售罄，现场分享&quot;无所谓风&quot;拒绝内耗 <https://k.sina.com.cn/article_7879923021_1d5ae154d06801o27a.html>
+- **蔡徐坤** | 蔡徐坤将出席W澳门盛典，演唱会结束即转场时尚活动 <https://k.sina.com.cn/article_6580966381_1884193ed04001wtlg.html>
+- **蔡徐坤** | 蔡徐坤演唱会全体合唱情人夯爆了 <https://k.sina.com.cn/article_3666565210_mda8b585a03301d67k.html>
+- **蔡徐坤** | 蔡徐坤演唱会追问粉丝恋情，一句“那我怎么办”引全场沸腾 <https://k.sina.com.cn/article_7879923021_1d5ae154d06801o1zu.html>
+- **特朗普** | 中期选举集会，奥巴马特朗普针锋相对 <https://news.google.com/rss/articles/CBMigAFBVV95cUxNNGt5TTVPbmRfRFFYRnlVOTVjcjI4V1VhYkJaVFVVM29jZnRHbXUyWEo0MlZCRTNFMGRnM0wwZWJ4SW9idVU0dkIydzlVa3B0MkJqSTNzcDFkZjk3c2liUlJPY1Jfc09kUmVuUlR2SGJGbmYyTnlNQTlmZC1EMWNwTA?oc=5>
+- **特朗普** | 白宫：内塔尼亚胡发出“绝望的信号” <https://news.google.com/rss/articles/CBMickFVX3lxTE9sT3drS0Z5TENqZ1ZjdV9acWFzdnRTTEtOLXpCZ3FNRjVWWUIzTm04X3l1VWhmdkUwaTZfMG5wVmNkcTZnS0hNd0JMUTQ2clFmZ05aUE5zRmdyUFFKNmplNEZaaUFqNy05T2kycW1tUTBxZw?oc=5>
+- **特朗普** | 佐治亚的“远水”，难解特朗普和奥迪的“近渴” <https://news.google.com/rss/articles/CBMiYkFVX3lxTE0yRWNtenY2cHdZTUJ4eFRlUnUxekNVUnpIMThWaGQxYVFmVFRkeHh5Y3dGV3dqWkhsdXR2eksxUTRfbHA5c2g3YnlkZGlEdy1pR1BveFpoemdQckRRRVNMcmNn?oc=5>
+- **特朗普** | 全球关键材料争夺战“白热化”？欧盟开始“抄特朗普作业” <https://news.google.com/rss/articles/CBMiSEFVX3lxTE5oZUNoLVlYMFFsandTOXNTQ1NlQXlkVGE3bFl2dVlFR0YzSGJZZXpzc2drbXlGWnQwTUhDMHdnRzB6UHllR0Z1Rw?oc=5>
+- **特朗普** | 【美国中期选举】密歇根州选情胶着 特朗普将回教徒候选人比作九一一袭击者 <https://news.google.com/rss/articles/CBMiakFVX3lxTE1LUXBQZ3Q4NFp0ZFNsYWpEYldiRVh1MlVHV0hhdkh1RklZeWY1UEViNU5Wbk5OcGRYcUo2RkFSSGFfbmNHMkkwQWItVDg1VTc0MHJvR2F1dWROZFVNM0FuR2Vyekl0bHYxWWc?oc=5>
+- **特朗普** | 特朗普：随时可能再打伊朗，本可以1年前用B-2轰炸机搞定走人 据CCTV国际时讯，当地时间10月24日，美国总统特朗普在参加中期选举投票过程中被问及是否可能再对伊朗发动袭击。特朗普回应称，不会向媒体透露这种信息。但也同时表示，美国随时可能再对打伊朗， <https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdVhDWjZzdTJHZk9EdDFMRUxIdVJiU1hzWGd1OWFTYzVya1FtVzNSc0FzdE1iRzNza0d1Znhxa0ZmVklCVHU4TUxOWGRPM0JtNE1LZGdRamh3cVhYcDdqN3FyTG8wYWdGSjFoNUkwMVlsa2hpLU5NeXB6b09DdzhXTUwwbXpfOThP?oc=5>
+- **特朗普** | 美国中期选举倒计时 特朗普谈高油价：“我们正赚得盆满钵满”！ <https://news.google.com/rss/articles/CBMiSEFVX3lxTE02ZTMwSERkQTM3MlJhX1pUWGdiMXlXaU5OUmFfQTI0R2NuajBTaldpV1NrTUpBZGtVR3R5SDNBTzh0di1ibHlBWQ?oc=5>
+- **特朗普** | 特朗普称很快就伊朗问题做决定 <https://news.google.com/rss/articles/CBMiakFVX3lxTE9vQzE3TTlMQkc0ZXMzbHBMWVRXOS1jQVB3NllieUZuWFhnRV85SWlTRnEzaWI4ZE12QmlwVHZKZlp2QUoxUHdkYVhvbTBhaTB5Y2UyMHZPUHRxd2FIdlJGNlFSUWdVblBZc2c?oc=5>
+- **特朗普** | 奥巴马在美国大选前夕抨击唐纳德·特朗普，发生了什么？ <https://news.google.com/rss/articles/CBMi6wJBVV95cUxONTRmT0Y4XzVVZnowS1dwSWlERFBFdFJNSFRTbHVoWTVEVnRWYWNxcVpCTlE0b1hrQjZ0cHFMdGNUQTVmNWRyTG1tWndJWnJCelNzY3hQVVZSNXQyaEtncjY2Y05WUXFNNWVCYi1uMmdIbS1OMFdrek9DcHNMam5rcHR1OGhNcm9ybG5XOG55clhFNXRJelN2WThhMnloUWZTSzNiakdLTWtKaVh3QmNhUkg1ZXUzNVAwZzdFY3N0YWQxZkxyc09QNFVVR1BUellBOE9idFhEUWE2SVpka191dTVLUmdsSHA1SFh0S1oya0M3cXVvQnBMSFlGbC1nOFItc0tXWEwxeDJ3OXlNZmJUaFk4Tk11YVFadmVkNWhnS1U1TmVkcnk5cFdTQWdOU3BGbmI0YXo0LVhzWnJDZlRRRlo3WUQwMVlpbGY2blZDNVFLeFUtcXdPTnZYN0E1NkFaMENGRlJwV19EWE0?oc=5>
+- **Trump** | 持仓一亿六的TRUMP，OKX账户多头却近七成七| 币老板coinboss发布于币安广场 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NQTEzQlYxUnM5YnFvMThhZ3g1SmxRTUFJWkhmZ3ZaZGluSmN1dGt2TFRRRU9xT3NjWTA4Q2NKemlvYXVidEwzUFgyNi1xeGJKeWVUZE1VdlBRc0s0SThqR2RWRi1zdExQ?oc=5>
+- **Trump** | 11个小时“特朗普秀”：记者直击七天七场集会 <https://news.google.com/rss/articles/CBMinwJBVV95cUxNNE9qQjJhb0xURkYwdk9BYTA3M1ItMUFBanFiZXVqUEVYRXZlRXc4MHBSTnJXaWdxb3pRbHVSM0tHTUJid2VoRDhBNHpualRDT3hCclpMdkFRRW5NZE0zY2c5eFVacEdRajR4MUpoTjNrT2tqNW5laEFhc0FvZWVSWlFHWnRjcmVpTjBrQ3RVZDdPME9rSUpQb3pNSXhrR2dueTVReThsZzhYdzZJRWV5OXpSNnhGbEpOTWdaVFhsaFBhdFVfNGt2NFZkdnN6VDBpYjRtLWxrNkhOOTFGcXhhYnJNMXQ1RVlxOXhYRHZkRE9HTjlmaUUxWXIzbFhqMUFVU2tMbVVUZHdXcnRFQWFZRUhiZ2tpMVlrX0hzNmprUQ?oc=5>
 
 ### 2026-10-26 05:42  (27 条)
 
