@@ -1,198 +1,184 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-26 22:58**
-- 本轮扫到 14785 条, 新增 **26** 条
+- 最近更新: **2026-10-27 01:53**
+- 本轮扫到 14804 条, 新增 **19** 条
 
 ---
 
-## 本轮新发现 (26 条)
+## 本轮新发现 (19 条)
 
-### 蔡徐坤在演唱会上说的‘无所谓风’是什么意思？
+### 肖战南京演唱会称进入新人生阶段，章子怡送花篮
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002tn50.html>
+
+### 蔡徐坤演唱会穿高跟鞋脚痛撒娇
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801o3ua.html>
+- 链接: <https://k.sina.com.cn/article_7811154182_m1d194c106033021jtc.html>
 
-### 蔡徐坤新加坡演唱会为什么唱《Remedy》时哭了？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801o3u4.html>
-
-### 蔡徐坤新加坡演唱会都唱了哪些歌曲？
+### 蔡徐坤新加坡演唱会歌迷点歌情人引其嘴角上扬
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801o3tm.html>
+- 链接: <https://k.sina.com.cn/article_7811142420_m1d194931403301eihk.html>
 
-### 蔡徐坤新加坡演唱会为什么推迟半小时开场？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801o3ti.html>
-
-### 蔡徐坤新加坡演唱会满座开唱，现场分享逆风局心态
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801o3tk.html>
-
-### 蔡徐坤新加坡演唱会落泪自嘲：再烂的牌也能打好
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801o3te.html>
-
-### 蔡徐坤新加坡演唱会银发皮衣造型的具体设计细节是什么？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849970_1d5acf7f206801fe1a.html>
-
-### 蔡徐坤新加坡演唱会两场门票售罄说明了什么？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849970_1d5acf7f206801fe16.html>
-
-### 蔡徐坤银发造型引热议，新加坡演唱会现场粉丝直呼梦回偶练
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849970_1d5acf7f206801fe14.html>
-
-### 蔡徐坤在演唱会上说的&#039;蔡小葵&#039;是什么梗？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849970_1d5acf7f206801fe12.html>
-
-### 蔡徐坤在演唱会上分享的&#039;不焦虑不内耗&#039;态度具体说了什么？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849970_1d5acf7f206801fe18.html>
-
-### 蔡徐坤香港演唱会官宣 荒原叙事概念落地山海高楼间
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2495457342_m94bda83e05301eoxc.html>
-
-### 周杰伦演唱会粉丝点唱五月天你不是真正的快乐
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923704_m1d5ae17f8033020ltu.html>
-
-### 中期选举前美国前总统奥巴马打破沉默挑战特朗普
+### 美国总统特朗普将于当地时间周六在堪萨斯州萨利纳举行竞选集会。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-10-26 20:46
-- 链接: <https://news.google.com/rss/articles/CBMi5wJBVV95cUxObkpjMUJkYl9wUTVzS1p6UFF3VEkyMTdWNE5hZjdJMnNGTDA2blItYkJTbkdaY0JEU2hyaE9MeUtWc2xJYTRnWEs2THM0WGY1Y3F0Q2dzaU51RUhoMW5WUU9oUzZ4SzRBeTNHZllUdHg0QlFEdE1WWENkM1Zob3pVS0FuS3N5NTRoMkhZLTRwLVc0WVBiR2MxVUF3NGp6djJHSVpyZ2g1TWtiRHo4cDdSdlk1VDFDOTdGWnBwdXBZOEl1Wkp4M0ZNNDMzQXotVDYxN1VwV0p0MUlGSU5pWUJ1YWFuWTNnd0NuR1FWR2p0QXJVc0xYX3VNcG5aR2luQ1NTM2VjX3NPZE5lRGE0QktCcC01bndvdk5ENGNhVGgzZkZQVzdpMktiS18wWlNWWWJTYWl6TWl2aTNSRFhPQ3JaNlhXaG5MaEdhcHlZMVRUSVZ6RWd6TUtndmhCTEtPUUd1RUw2cUg0cw?oc=5>
+- 场馆: 手机新浪网
+- 时间: 2026-10-27 01:09
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE16RzhPcXF0M0lXSDJyMEpIUnlYZ1pMbndQOG0wbHZiOG45OEpqd3BTUkRPS1VYTnpDRHRNbEJKay1YdnNGTUNGc3hrbw?oc=5>
 
-### 巴西大选：卢拉胜选，特朗普称选举“被操纵”
+### 特朗普重返白宫后，如何从五方面改变美国移民政策？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: BBC
+- 时间: 2026-10-27 00:32
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Qak0yUGU1QU5jdVNBdDBCUnNiNlV6ajBrZEcyejYyZ0FiVkNCWHJDbk5rSTBOd0NlYnRkSEdudU9qQm1RVElmLUkwQVU3cGJHQll0dnF0QlNKU2VoSktKamxIcDVwbk3SAWxBVV95cUxPRElUUnRuZEY0RjJRdWI4Y2JUdVBMck9UX0VlR1Nlc2xsZ3FWVWNXRC1lVHo1d0puTWw3NGdaQ3psQnpwWkpQaG1ITFZXc0lsRTIzcFNJdm9UUEhFRUg0QzFHYTdTZ2N1Z05xc3A?oc=5>
+
+### 今日大选！内塔尼亚胡面临政治大考，曾策划“选前攻击伊朗”被特朗普和军方拒绝
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街见闻
+- 时间: 2026-10-27 00:33
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBrVjBMNTFFTGw4NkVrc0Q0ejZ5b0hsc19NUWFJbWduck5tTm5EQUJ0UUlwQzROMncwbGNRZXY5MlZHVHhlRmhBdlNpYnJzQlZNWHVN?oc=5>
+
+### 特朗普称巴西选举“被操纵”，巴副总统驳斥
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-10-26 22:46
-- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTE1yanVTZ1FzYW92X2pWRHloYXNFVDhLaGZseVczcHR3cnp6Q0lkanV2aEhMckhTZU4tZjRQVGloWFFXZHNxdXI4NVJNNDhibTBvWmc?oc=5>
+- 时间: 2026-10-27 00:26
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9CT0ZiZC1IaGtYaTV3RTMwRVNuMTNQYnJMdWZqVDJMVHpsdEhJQUsxTUE0LXdGOUQ5dDRSakVqcjlfcVlST0pYb0RORGg?oc=5>
 
-### 10月27日外盘头条：巴西股市暴跌特朗普质疑卢拉胜选苹果承认少量iPhoneDuo内屏裂纹Anthropic递表
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-10-26 21:30
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPN1EyWkJVN0pFQ0VwaEdISDlpQm5JQ3FtbmcwVFJnM0lFekJUWmxrVDNfRExIcmtuaGhkbTk4NzQ2ei1qMGZlazRQWFloUVpib1YtbVBiYWJOWXFRTjdaNFJyMDJOLU15ek42RjZpRWMzb1pRdG1zN2IwbWNoRl9UM3lEMVdPam5JOThmeVJfUHBzTmpxM0hHeGZ3SUZJYUFaQmh3Uy1EVDJRb05CWEhJTV93QWtGa3Q4Vi1nTFJlVkktZHJpNGkzUDIxZENfZnJuSlZKMnlWQ2N6Q0VwUUIw?oc=5>
-
-### 美国总统特朗普谈巴西选举：在我看来，那像是又一场被操纵的选举。
+### 美国总统特朗普谈巴西选举：在我看来很糟糕。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 手机新浪网
 - 时间: 2026-10-26 19:35
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5KUkpxeHNxbW5pWEJ4ejRYVWZuYTBJdHpBWVlvY1k0RGlaYnlIUl9WaE53dEF6R3dXT1FmbWNrSFo3bmNfMU1GRFRzNA?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9Fd0FDeFhBVXVfMjRXSUpFUjNoVzRBblFrSEExTDBNZVVmTVdLTVdhNE9lMWJfcDZ0UGRjdkgtMEVOTmhTMmswMVdaRQ?oc=5>
+
+### 卢拉意外逆势翻盘 特朗普称巴西总统大选似“被操纵”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-10-26 21:11
+- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxQal9pdHF4c2hUREpCdlhsM2ZoMkZ0UjZiZ0RCcjc3eGYwYUdBcUZNdERNVHYxd1ZxTGlaTUJOWTRuck0tNEdCVXNQTDlGYWhkLVJ6b1N0b0JwNDdUOU8wWjFsM2lhUDl3U19CVlNDVmk1S2ozeTRKNGtHUEhjSDNLR0ZtRHpIQy1RazNqdDVDbkF1TVhLT2RGa0VjZzBTRF9VNTJGRWgtQzlfMnBNS0Q4VXFCZWFvVmJ0STl2WG9YQm5MUDJlQXI3MkZhRWtKb0RTeWt1Sk51ZUItcW1qc3c?oc=5>
+
+### 白宫高调晒出天主教主教为特朗普祈祷的视频，结果主教们不干了：我们可没说支持他
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者网
+- 时间: 2026-10-27 00:33
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5IVFpaUWh3c2pfck9Rd05iQ2x4UHZybXoyeWVzS0xzMlBYMC1ZaTEtX2E2VUtzX1RKNDJTVk03WEZJT2c0Z2VGWlI2d0dsSnZyQlQ5bjRIc21JVlhiMnQ4d3pVcDBWYkVNZEZZbHQ4YUJTeFE?oc=5>
+
+### 佐治亚的“远水”，难解特朗普和奥迪的“近渴” 关税影响下的投资决策
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-10-27 00:49
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBudVFib2c1TTIydGlNQ2xwR0dSUTAybUNTSnAzRXRtbDJ3Mjc4bDJZTEc0WE1lem5OaDZoWXF1QnRVSkpmWHVSRm5wOFdtVjQyWldybE9VZ0g0blVTZ0FYam1mOHN4YkphZ1lBY09FdDQ?oc=5>
+
+### 美以伊局势：如特朗普下令，美军可在96小时内大规模打击伊朗；伊朗总统将与普京会谈；以色列主要竞选阵营均视伊朗为威胁
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: ThePaper.cn
+- 时间: 2026-10-26 19:39
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1OTERFWHpVY01KVWtPbG5JcGdrdUpJczFpX2UxQ3lIUVctM2JmMzFXWC1BY3ltOWNIOEtZeXVwRnlSUU5uVzhxckNPMVRJRkNoMG5WSlVNclJobVZuVXdubQ?oc=5>
+
+### 全球关键材料争夺战白热化 欧盟开始“抄特朗普作业”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 驱动之家
+- 时间: 2026-10-26 09:13
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE9oTXFoUE9EeE9Ic1dDek9oaXJsWktjTEJsUmxWY0JxZFJPckxRTlJuVlhnaEd0ak9rVlM0ZWJramxoNFJMZFdSWnpIeVJGSE5UaHQxWVk1MFE?oc=5>
 
 ### 美媒：美军已准备好再打击伊朗 特朗普或中期选举后下令
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-10-26 22:42
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE51b255MXFmOUF2SFVnaEhZa25SU2JLMU5obExRdG1EbGQwRHBQS28zQTVKTkk0a3FKV2ltMFlKRG9HUW5uUVBmVGx5STEzYVBkblhROFBPUlRheHhuZU95d2xjNG5mSElSdG5MdnJNV2FtQ0NqNktwYQ?oc=5>
+- 场馆: 中国新闻网
+- 时间: 2026-10-26 22:36
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE00cldwcG94SUM1YmVVRGtDOFdOaERmWC0wM2F6eGRKMzhTTXpiNlJ4TUlKNlI0SmtlSHZYZTFZQXlHTUhzV3dnN2VPa1JLTW9NdDJLSVFIS05vYS1NSlhJQWdkVmY1Szho?oc=5>
 
-### 特朗普称即将决定：是与伊朗达成协议，还是重启军事行动
+### 美媒：一旦特朗普下令 美军96小时内可大规模打击伊朗
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-10-26 12:19
-- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxOOG9rVkxXN2FVUEZEaDF2VDZhbzhCMzg1T0FGYjFRcnVfcTMySzlRUzhEdXp0Q1VUb2h2VWNXTklBc25yV04wYkdCQko2UVc4bjZFRnVRbzZEWkJ6amRuZGtsWTN4NUR5ZmlPUkV3U3NWT0kzczlvazU5eFo0eDhZdFBBQlJFMmNjR0dXNDdjdWtEa2ZSNnZZYzJWUS0?oc=5>
+- 场馆: 8world
+- 时间: 2026-10-26 22:49
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9QclBRaDZELXhBdkltQ0lsdnhTQmlWSTVxdVV1dkJ4VEYwVVZ5dE1NY3REb2doRGItTWJsak12cE9oNjJBdnFzYmlMaHNDRlVaM2tfR1dpaWJuVnZOZS1RQkVzVFh3al9iTkRVdXd3ZEI?oc=5>
 
-### 特朗普称美方正考虑对伊朗下一步行动后，地区大国在德黑兰会晤
+### 🔥 $TRUMP 币 — 关注上涨动能 🔥
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Binance
+- 时间: 2026-10-26 13:10
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hazVRcW1OeGFkZ3BmZkRWTmFhdF90dzB2NjZ5eWgxQWxSNGwzakRDVk1HNk5yM0poRk5BaVh1SDZrVVBwak92MHZiaVc4bm5sclBQaC1zODc2bWdpbXhDQnNiS1U4c214?oc=5>
+
+### 密歇根州联邦参议员选举白热化，特朗普和奥巴马为各自阵营候选人造势
+
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: 美国之音
-- 时间: 2026-10-26 19:34
-- 链接: <https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTnptLTdMUXpfcXhQOUs5UTh6M3ZNS3ZFTER5NVZqMWVkZVQ2eEctM3NNckxwcF80Q0dBMHdjWTRzT2MzcDJ6QlpsNFBRUFJNSXZXeUF4Y2xvT1Q1cXlScVU1bmVuMFdvOFlKZzVyN1dKY3lQWGdoX1ZtU2oweEJGY003S2lfeFNwUzI4Zk1LWkJBajNudllUZ3RScnUzMHZTbzc3UmxocnQzTk9qb2FEQzhGSHBCeTZzaVdpeEFMbHRZeDd6WmJLbUxuNHlPcHdjVHZ6em96ZHFhWWPSAd4BQVVfeXFMT0M3UXBaeEhzX2FBSmRHQnQzZldsUjJVZ2FjNVBUT1NYTDNLV1FBRUpBQ3BCSmhkcF9DbWFXbXN4VDBPci10NHBWVVl6QnpEMjRlQm1iN01yTXg4NGJzRndHMjgwQ3EyWWZWM2puLUlCbzE3MEMtV0Vjd1dqbjNZNUs0M1dySmhJUUN0QUJEZURESk01WXpYQ2wxNU11d1hRQ3JTTUQ1b2sxakpjYlJaQVR4cVFPeXdwb284eXVfeUVJRkZ5ZVZZRS1iV2J0eHE5SFJveUhHa1pYVnVqaDJ3?oc=5>
+- 时间: 2026-10-27 01:03
+- 链接: <https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeGlMYXRER0RseDAyTG0zTG9ScGdpVDlMbWpHdnRyWVNXajRkcWduOVFaWUttLU5KMmpTcm1LMFhzQnQxLUl4ZTRYb0w3SHhScTVDR0dkMXZ0R2liMmpib1ZRRUlLVmFIWlRQbVBORGFoYzZVUy0tRlJZU0NkdHd6UWpOdkc5Q1Y1OTNVLU1kUDBnVnVoUm83NTQ0a3djTXE0VW1CcmVicWs4NlZKVV81dlhCb0FFQl840gG7AUFVX3lxTE5DdFFjeUQ4c252X1hpRmRaSExBQ1dzUFp1ejdjWXljQkdtMkxmWG1UelJtSkY5Y3Y5WVBBd1Q2d1dlNnluMVZZSGJpQ1dWWmpTTWFudTR5YUtSb3ZQM0xIRUljRUs3Q1RvN2NHZEdBN2hRZENOMGZLQzdSMGlrTC1VZXFnRG1XbTZYVkF2Q19QeG9MR2J2d21DMjdodERtOFNXWi1PeHg4VG55b3BDNHFwYWdVSmc1RlNWRkE?oc=5>
 
-### 特朗普重金悬赏100万美元抓选举舞弊
+### 川普质疑大选“受到操弄” 巴西政府反击
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-10-26 20:47
-- 链接: <https://news.google.com/rss/articles/CBMilwJBVV95cUxPNDEyYlBvT0FMV1NadlFPamRFT2JJbkhIMm1wRjZtN2VQVVgxdURfNGF0THo5MTJraVlBZWhGU3VqSG1QZVVHSzh5eVNDaFA5ZWtIWHgzLURkbVZLME1LT3NoYldoUjR0dHM2VlhWc1F2MXVDc25hYXpLVUFRaXJycWJ5ekZORVNYRUNvLTFNSG14aWd2RE1XcFBpVHVMQTJLYjNvSnlXNEFjWF9TWTU4eFhUWnQzWFYxNkNuOEpLZy03eFBGb0FWMjlLWU9FYUdZWVd1TEl1ZWhVVl94M2s4SHE3WktiZ0RKOVJJQXg4dTZKcVRGZEVRcHpBdS05dkQweGlxYlNudVdFRy1rTVgwOVB6b2FfdE0?oc=5>
+- 场馆: 文学城
+- 时间: 2026-10-26 23:10
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pTjJvcDhUWk9GcnpTdExTWEZlYjFIbEZKcF9jdHg5UUZxcXJjRDgybF9sSTRnOTFUc09CaXpiTnE2OU1XcUZRRmg4am9oQ0pfTHFycXNsdkhubWN1Z0VxbDcxbEJqRlVY?oc=5>
 
-### 特朗普任内汽油均价超越拜登时期，柴油价格创历史新高，中期选举压力加剧
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-10-26 15:55
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE94Q0NSMTJmWk5wdzI5dzNKNGxXd1N0UFdaRW1FaE5OUFB6Mk1PZjhBaXFqUmk3WVVNYVVrbVhIbnlLYzUwWFlFcEhnajdBZ000amxF?oc=5>
-
-### 特朗普：任何人举......_7x24快讯_新浪财经
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-10-26 19:33
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1WMTNJZkVBY0tnTUtOd2VQaFJoY2s2RTR5aDE1RVNKanJrSW53TVRqdUk5TG5VMW8xZDB3NWtmenhlel8wS19XY0hwNA?oc=5>
-
-### 美媒爆料：内塔尼亚胡恳请特朗普再次公开表态，支持其竞选连任
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪军事_手机新浪网
-- 时间: 2026-10-26 05:59
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5WemxpVXZ3RDlpMVNIX3FWVkV2dDFqVVVaQjlEMWFKWF9JMW1QeXN3VmRjSzdqS1BOZ0RQMlVWTXgtNUtDVmR4N1Q2TUN4dm1xRTNTTHg4SnV0bVc5cHI4NFJ5bjNTeFB3QUhwMW5IVW5ZLVk?oc=5>
-
-### Netanyahu打出“Trump支持”牌，选前最后冲刺争取选票- 阿视亚经济
+### “臀部真的很漂亮”……Trump突然发言，知名女歌手作何反应？
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: 아시아경제
-- 时间: 2026-10-26 21:49
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5RTGFkUjlnb25iem9JODhXY3ZwQXdkS2xzbU1IejBMM1pfNDc2TWJjSjRWZ0hhMS04UC0xYlh3alhTa2JPOERCRXlVRlFwU1V4b0hqalRtSjJUUVMyeW5JdzQweGk?oc=5>
-
-### 在被占领的乌克兰城镇奥莱什基，梅拉尼娅·特朗普斡旋的停火即将开始
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-10-26 19:43
-- 链接: <https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOEN2SmNhenFQY3lQMDZmaHRaV0ZkcEtySkNQanJKTXE4VV9JYm5EZWE2RXRFN1R0UXhkZUl1Zl8ydHNVT0M0ZFlPbm1fS2I1OTFacjZValQzaWRCRkg5a215VllHaTJqanJJNU5qaE8xNURMZWFzRTZ6b21hTDRnUUhvSXRPOThrdkhnRnRZMkpOTG93eFYyVG5wX0tsRVNna3VWZ2NWRU54ekRta0o2Zkx5ai1BdnRranpzRnR4MXFVUVNqWFJCeUY1dWkxT0VXbE130gHWAUFVX3lxTFBHVGVORW9ScVhkalJjSDE5OGt4WXc5bkVjeGdqbkxOUDZ6QzFpMlRnX1ljWFVDeVB1UUZnZGc1QnBKbXpsTkJERXJGNEhlUTViUnFVU0Y3TEZxN1dWUjd3a2JDLWxBV2lvT2NPVHRBSlpMTU04aXhDbEN0RWtXQkpJRlFxUjl0Q1BibURwNnp6N3FvM09JWXR6MTZMUEJqcEFrd1RvSjBCQWZUclhHTHZLVUlyNzAwVVhxMW5oWGUxeElZbXp4bndQT0RiQzV1YlhaNlpRdlE?oc=5>
+- 时间: 2026-10-26 23:17
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvb1Q4Vk0tMVNfaXp5bUIyRk9tVVVSX3ZCSTQxRXhxV1puOTVKVTZnNzgyNExoRUpBQzQxcXpRSlphaG1UOVdVTFdlS2pWY2Y2Y1ptZUM3ZXR4akJ4NkNyclZuMVM?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-27 01:53  (19 条)
+
+- **王一博** | 肖战南京演唱会称进入新人生阶段，章子怡送花篮 <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002tn50.html>
+- **蔡徐坤** | 蔡徐坤演唱会穿高跟鞋脚痛撒娇 <https://k.sina.com.cn/article_7811154182_m1d194c106033021jtc.html>
+- **蔡徐坤** | 蔡徐坤新加坡演唱会歌迷点歌情人引其嘴角上扬 <https://k.sina.com.cn/article_7811142420_m1d194931403301eihk.html>
+- **特朗普** | 美国总统特朗普将于当地时间周六在堪萨斯州萨利纳举行竞选集会。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE16RzhPcXF0M0lXSDJyMEpIUnlYZ1pMbndQOG0wbHZiOG45OEpqd3BTUkRPS1VYTnpDRHRNbEJKay1YdnNGTUNGc3hrbw?oc=5>
+- **特朗普** | 特朗普重返白宫后，如何从五方面改变美国移民政策？ <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Qak0yUGU1QU5jdVNBdDBCUnNiNlV6ajBrZEcyejYyZ0FiVkNCWHJDbk5rSTBOd0NlYnRkSEdudU9qQm1RVElmLUkwQVU3cGJHQll0dnF0QlNKU2VoSktKamxIcDVwbk3SAWxBVV95cUxPRElUUnRuZEY0RjJRdWI4Y2JUdVBMck9UX0VlR1Nlc2xsZ3FWVWNXRC1lVHo1d0puTWw3NGdaQ3psQnpwWkpQaG1ITFZXc0lsRTIzcFNJdm9UUEhFRUg0QzFHYTdTZ2N1Z05xc3A?oc=5>
+- **特朗普** | 今日大选！内塔尼亚胡面临政治大考，曾策划“选前攻击伊朗”被特朗普和军方拒绝 <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBrVjBMNTFFTGw4NkVrc0Q0ejZ5b0hsc19NUWFJbWduck5tTm5EQUJ0UUlwQzROMncwbGNRZXY5MlZHVHhlRmhBdlNpYnJzQlZNWHVN?oc=5>
+- **特朗普** | 特朗普称巴西选举“被操纵”，巴副总统驳斥 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9CT0ZiZC1IaGtYaTV3RTMwRVNuMTNQYnJMdWZqVDJMVHpsdEhJQUsxTUE0LXdGOUQ5dDRSakVqcjlfcVlST0pYb0RORGg?oc=5>
+- **特朗普** | 美国总统特朗普谈巴西选举：在我看来很糟糕。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9Fd0FDeFhBVXVfMjRXSUpFUjNoVzRBblFrSEExTDBNZVVmTVdLTVdhNE9lMWJfcDZ0UGRjdkgtMEVOTmhTMmswMVdaRQ?oc=5>
+- **特朗普** | 卢拉意外逆势翻盘 特朗普称巴西总统大选似“被操纵” <https://news.google.com/rss/articles/CBMi3gFBVV95cUxQal9pdHF4c2hUREpCdlhsM2ZoMkZ0UjZiZ0RCcjc3eGYwYUdBcUZNdERNVHYxd1ZxTGlaTUJOWTRuck0tNEdCVXNQTDlGYWhkLVJ6b1N0b0JwNDdUOU8wWjFsM2lhUDl3U19CVlNDVmk1S2ozeTRKNGtHUEhjSDNLR0ZtRHpIQy1RazNqdDVDbkF1TVhLT2RGa0VjZzBTRF9VNTJGRWgtQzlfMnBNS0Q4VXFCZWFvVmJ0STl2WG9YQm5MUDJlQXI3MkZhRWtKb0RTeWt1Sk51ZUItcW1qc3c?oc=5>
+- **特朗普** | 白宫高调晒出天主教主教为特朗普祈祷的视频，结果主教们不干了：我们可没说支持他 <https://news.google.com/rss/articles/CBMic0FVX3lxTE5IVFpaUWh3c2pfck9Rd05iQ2x4UHZybXoyeWVzS0xzMlBYMC1ZaTEtX2E2VUtzX1RKNDJTVk03WEZJT2c0Z2VGWlI2d0dsSnZyQlQ5bjRIc21JVlhiMnQ4d3pVcDBWYkVNZEZZbHQ4YUJTeFE?oc=5>
+- **特朗普** | 佐治亚的“远水”，难解特朗普和奥迪的“近渴” 关税影响下的投资决策 <https://news.google.com/rss/articles/CBMicEFVX3lxTFBudVFib2c1TTIydGlNQ2xwR0dSUTAybUNTSnAzRXRtbDJ3Mjc4bDJZTEc0WE1lem5OaDZoWXF1QnRVSkpmWHVSRm5wOFdtVjQyWldybE9VZ0g0blVTZ0FYam1mOHN4YkphZ1lBY09FdDQ?oc=5>
+- **特朗普** | 美以伊局势：如特朗普下令，美军可在96小时内大规模打击伊朗；伊朗总统将与普京会谈；以色列主要竞选阵营均视伊朗为威胁 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1OTERFWHpVY01KVWtPbG5JcGdrdUpJczFpX2UxQ3lIUVctM2JmMzFXWC1BY3ltOWNIOEtZeXVwRnlSUU5uVzhxckNPMVRJRkNoMG5WSlVNclJobVZuVXdubQ?oc=5>
+- **特朗普** | 全球关键材料争夺战白热化 欧盟开始“抄特朗普作业” <https://news.google.com/rss/articles/CBMiWEFVX3lxTE9oTXFoUE9EeE9Ic1dDek9oaXJsWktjTEJsUmxWY0JxZFJPckxRTlJuVlhnaEd0ak9rVlM0ZWJramxoNFJMZFdSWnpIeVJGSE5UaHQxWVk1MFE?oc=5>
+- **特朗普** | 美媒：美军已准备好再打击伊朗 特朗普或中期选举后下令 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE00cldwcG94SUM1YmVVRGtDOFdOaERmWC0wM2F6eGRKMzhTTXpiNlJ4TUlKNlI0SmtlSHZYZTFZQXlHTUhzV3dnN2VPa1JLTW9NdDJLSVFIS05vYS1NSlhJQWdkVmY1Szho?oc=5>
+- **Trump** | 美媒：一旦特朗普下令 美军96小时内可大规模打击伊朗 <https://news.google.com/rss/articles/CBMicEFVX3lxTE9QclBRaDZELXhBdkltQ0lsdnhTQmlWSTVxdVV1dkJ4VEYwVVZ5dE1NY3REb2doRGItTWJsak12cE9oNjJBdnFzYmlMaHNDRlVaM2tfR1dpaWJuVnZOZS1RQkVzVFh3al9iTkRVdXd3ZEI?oc=5>
+- **Trump** | 🔥 $TRUMP 币 — 关注上涨动能 🔥 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hazVRcW1OeGFkZ3BmZkRWTmFhdF90dzB2NjZ5eWgxQWxSNGwzakRDVk1HNk5yM0poRk5BaVh1SDZrVVBwak92MHZiaVc4bm5sclBQaC1zODc2bWdpbXhDQnNiS1U4c214?oc=5>
+- **Trump** | 密歇根州联邦参议员选举白热化，特朗普和奥巴马为各自阵营候选人造势 <https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeGlMYXRER0RseDAyTG0zTG9ScGdpVDlMbWpHdnRyWVNXajRkcWduOVFaWUttLU5KMmpTcm1LMFhzQnQxLUl4ZTRYb0w3SHhScTVDR0dkMXZ0R2liMmpib1ZRRUlLVmFIWlRQbVBORGFoYzZVUy0tRlJZU0NkdHd6UWpOdkc5Q1Y1OTNVLU1kUDBnVnVoUm83NTQ0a3djTXE0VW1CcmVicWs4NlZKVV81dlhCb0FFQl840gG7AUFVX3lxTE5DdFFjeUQ4c252X1hpRmRaSExBQ1dzUFp1ejdjWXljQkdtMkxmWG1UelJtSkY5Y3Y5WVBBd1Q2d1dlNnluMVZZSGJpQ1dWWmpTTWFudTR5YUtSb3ZQM0xIRUljRUs3Q1RvN2NHZEdBN2hRZENOMGZLQzdSMGlrTC1VZXFnRG1XbTZYVkF2Q19QeG9MR2J2d21DMjdodERtOFNXWi1PeHg4VG55b3BDNHFwYWdVSmc1RlNWRkE?oc=5>
+- **Trump** | 川普质疑大选“受到操弄” 巴西政府反击 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pTjJvcDhUWk9GcnpTdExTWEZlYjFIbEZKcF9jdHg5UUZxcXJjRDgybF9sSTRnOTFUc09CaXpiTnE2OU1XcUZRRmg4am9oQ0pfTHFycXNsdkhubWN1Z0VxbDcxbEJqRlVY?oc=5>
+- **Trump** | “臀部真的很漂亮”……Trump突然发言，知名女歌手作何反应？ <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvb1Q4Vk0tMVNfaXp5bUIyRk9tVVVSX3ZCSTQxRXhxV1puOTVKVTZnNzgyNExoRUpBQzQxcXpRSlphaG1UOVdVTFdlS2pWY2Y2Y1ptZUM3ZXR4akJ4NkNyclZuMVM?oc=5>
 
 ### 2026-10-26 22:58  (26 条)
 
