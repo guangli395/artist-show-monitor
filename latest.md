@@ -1,158 +1,220 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-27 07:10**
-- 本轮扫到 14825 条, 新增 **21** 条
+- 最近更新: **2026-10-27 13:27**
+- 本轮扫到 14850 条, 新增 **25** 条
 
 ---
 
-## 本轮新发现 (21 条)
+## 本轮新发现 (25 条)
 
-### 肖战演唱会人脉发力，十年奋斗路逆风翻盘
+### 任贤齐邀黄家强苏永康梁汉文组乐团开演唱会
 
 - 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7811142420_m1d194931403301eipw.html>
+- 链接: <https://k.sina.com.cn/article_7879923704_m1d5ae17f8033020ndk.html>
 
-### 蔡徐坤在演唱会上传达的“无所谓风”理念是什么意思？
+### 王一博FantasticMan一周年封面预告发布
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_2818172345_a7f9e5b904001l3ca.html>
+
+### 肖战王一博演唱会灯牌亮平安喜乐
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002to0i.html>
+
+### 蔡徐坤纽约演唱会端着杯子边喝边唱是什么名场面？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068200_1d5b04c6806801qxwi.html>
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801o6i8.html>
 
-### 蔡徐坤新加坡站演唱会连开两场的售罄情况如何？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068200_1d5b04c6806801qxwc.html>
-
-### 蔡徐坤新加坡演唱会为什么会出现害羞坐舞台的反差表现？
+### 蔡徐坤The Deadman巡演后续还有哪些场次？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068200_1d5b04c6806801qxwa.html>
+- 链接: <https://k.sina.com.cn/article_7880068200_1d5b04c6806801qyis.html>
 
-### 蔡徐坤演唱会互动被粉丝rap水平震惊
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6579089051_m18824ee9b033027mbi.html>
-
-### 蔡徐坤新加坡演唱会 粉丝接力rap实力震惊全场
+### 蔡徐坤The Deadman巡演新加坡站舞台设计有什么特色？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6579479305_m1882ae30903301ayqw.html>
+- 链接: <https://k.sina.com.cn/article_7880068200_1d5b04c6806801qyik.html>
 
-### 蔡徐坤新加坡演唱会为什么延迟到19:30开场？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd8640680186qy.html>
-
-### 蔡徐坤新加坡演唱会全开麦唱跳24首歌的现场反响如何？
+### 蔡徐坤在演唱会上说的‘无所谓风’是什么意思？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801o4ue.html>
+- 链接: <https://k.sina.com.cn/article_7880068200_1d5b04c6806801qyii.html>
 
-### 蔡徐坤新加坡演唱会为什么开场时间从19:00延后到19:30？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801o4u2.html>
-
-### 蔡徐坤在新加坡演唱会上说的“无所谓风”具体是什么意思？
+### 蔡徐坤巡演周边细节精致，边角印花工整
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801o4u0.html>
+- 链接: <https://k.sina.com.cn/article_1773437992_69b4842804001pbhg.html>
 
-### 蔡徐坤新加坡演唱会演唱了哪些歌曲？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd8640680186q6.html>
-
-### 蔡徐坤The Deadman巡演的荒原世界观是什么概念？
+### 蔡徐坤新加坡演唱会亲完装无辜称是我弟弟
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068200_1d5b04c6806801qxfw.html>
+- 链接: <https://k.sina.com.cn/article_7785470890_m1d00cdbaa03301y818.html>
 
-### 蔡徐坤香港演唱会官宣 TheDeadman巡演再下一城
+### 金子涵分享蔡徐坤新歌Deadman
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5727695436_m15565b24c05301x7qi.html>
+- 链接: <https://k.sina.com.cn/article_7810739724_m1d18e6e0c03302xf4g.html>
 
-### 人工智能大赌局，特朗普胜算几何？
+### 蔡徐坤演唱会脚痛撒娇可爱引粉丝心疼
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7811154182_m1d194c106033021kma.html>
+
+### 蔡徐坤香港演唱会官宣，新加坡站圆满落幕后巡演赴港
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5556631847_m14b33792705302eb1o.html>
+
+### “我真希望自己少些天真”：美国两位主教后悔与特朗普同框
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-10-27 12:34
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFB0MUo4VEtuVzJPRDU0VGhMM2RXaXc1dWhSTS1QVndCTkRmeTdfd2h2WWhveWRiTER1Si13d0pZbmQwWW5RWV9JN1RVUDc?oc=5>
+
+### 白宫高调晒出天主教主教为特朗普祈祷的视频 引发天主教界不满
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华军事
+- 时间: 2026-10-27 03:28
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE94T1BsWS1zWnFEMEpCVXhEX1Z6NzhOXzdCUHhHaXFHcEgxZjM3U2xOazMxUkx5TTBCZzQtZXdvSWRQUDcxSnJvYzNpNDEwYmRtX1FBZVg1TldXMnVseG83SnFVaFFJcko1SWN3YW1OaUk?oc=5>
+
+### 特朗普悬赏百万举报选举舞弊 被批恐吓选民
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-10-27 13:13
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9fYjBTMlBOdUpCMEVPcHpzV01kUVhPbFNma05feXVjeEdmalB6TURvbmhUaE1LRWJWeEpMTF90QTNLMi11REJDcDNnUFNKVXgzeDZjVmJWOHJjR1RHUE5hc3dZaENlbkNZRlE?oc=5>
+
+### 特朗普称巴西总统选举被操纵了，中方表态
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-10-27 07:25
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9hejFtXzN3T0ZCLXA5ZXMtQzQ0WExVdHJuRmhnb19BS0x2UXhaekFQTm1MVmpfLWFHTzh0Zk02Mkhoamx0TjJ2ZjFPejY?oc=5>
+
+### 卢拉胜选，特朗普称“被操纵”，MAGA要求美国干预
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-10-26 23:28
+- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxNMUxwUU81VHdZNElRWFJMUmstTl83VVM5UkhGcHR1QXBRMlU1ODYzRGNySDJleHpoRG9VSFVYcW01ODFRRHVuWXI0STRrLVhjZmpBYkhna0RfQUJYLWg1RENWM2s0NzJhWGkwbHBEeXNfS1JRaHRSN3NpRW5GdnlfTFBwaw?oc=5>
+
+### 特朗普关联企业严阵以待民主党调查攻势
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-10-26 18:38
+- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxON0ZlTkplWTU3ZTFHMGVsM1JMVVRndjR1OEdfVlpQYWgyZjZ6WDY5X3RTd2otbVRDSU9mQzVSbzhaUXlHQnB3bUR6YlBTOFNUcTFLOFU1U2V3WHlpX1pjUFRVc3N3d1Vkemp3Mmlzc0pZeExDREJ0aDlVMC0zck5NR1E3ZmN2cV8zaHRqSkJ0VDhrTDRxYUFPLUIxXzV4SHhtRXZfc3BCQTFMVEtONDlmT1ZCb3d1MmJ0ZjdzWlQ4MW9lN2dBTlpFVTU2cV9TSW42QWc?oc=5>
+
+### 特朗普否认“再次表态支持内塔尼亚胡是应后者要求”：我从未与他谈及此事
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-10-27 00:33
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE50d1h4VFU2NVVERFNYNUpfNGdJcTVSdUpQcVUyVUZJY0l2OFVjZkJFZnIxa3dDaDhJeVoxR2VCTkNPSjNoNzlENmJOOURpZXQ4cnA0Z01NdEdiOV9CUVlYNFotTWdLT3FRTTRtV1lYODlrMkZid1VrTw?oc=5>
+
+### 选情告急！一边求助特朗普，一边渲染核恐慌，内塔尼亚胡面临政治大考
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: finance.sina.com.cn
-- 时间: 2026-10-27 06:49
-- 链接: <https://news.google.com/rss/articles/CBMikwFBVV95cUxOcG0tUURNY2xONG84UHRCV1lPSENvdmFzaDY1Q2k1VTExQkhUajhsMzNRbkJxR04xalFQeGxkN214b3FERDN3R1I2YmZnOEphR1JGQ0pOM3pncDJmSWNuZXZBUmd1eHNMa1ZnQXM1NC1IVkRWSThSSUdPNzd5SkVMN0Z0STcwd1dXN1NybVZ1WW1rUmc?oc=5>
+- 时间: 2026-10-27 05:32
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5TbW9mNTYxNkpOM3BIMkNGd3ppOUZXMG9BTGlRajhZcnhlRVAzMHhvdTFreFFRRloyUDAxWVRjY1EwZjE0empuZWJuTXhuY1dhVzdtVzBudXZ1RHFvekFSNTBNeE9sWVZpODRLUXFGalI1emJhcFNQdg?oc=5>
 
-### 卢拉意外逆势翻盘 特朗普称巴西总统大选似“被操纵”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-10-26 21:11
-- 链接: <https://news.google.com/rss/articles/CBMikgFBVV95cUxNQUVJd05IMkpERXJOQjJZWUxzZzhMTm44aTM2cHdIaFlOcnA5MVhVbDRNOHE4c0xscDZPLWRUY1VLZklKRmI5WXFrNTh5TjRYb25wSnZvUzhTTWQ1T191dWoyZEcxMkgxdlB5MjR2SG9pbkVPajVOLWZUanYwTHVVWnQ3M0ZJQ2oyWTVlVC1GaXNxUQ?oc=5>
-
-### “卢拉终结了特朗普的唐罗主义”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-27 06:24
-- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzcWZIcExhY2lGVmUzYThhS0JmbEc3dFJ6OHVfc0lLemJOdkpQWFZWVjhJR2FsSUlGU1ZFdThUZ1plUjFCWTA3OVI1XzVjNVY5anc?oc=5>
-
-### 特朗普称即将决定：是与伊朗达成协议，还是重启军事行动
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-10-26 12:19
-- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSjZRdktyQTBIRFduaFkyN3N2WHpLZ3c0RGtwNjFFN2ZVeExsaXVETHZHbGhVNDBwVkktM1dxc2VuaVhfb2VTcldRbHExSk5KcWJvRUZhSldQVFo0OG5QSFhBUlR2djlITlRmZHJTV2xsbTUyQlVnTTEzN2RGemd3bkNrMkVfeWU5U3dHaFdYRlZnRVF6Unh6bHFWemhZdkJUNEJCeXpEWndDNzViMEVXZDRKTi1oajl6NXVocVhlclM5SHVtLWVwY0dNbk9ZdmpIcXQ3N2V5eGFvdFpmeEE?oc=5>
-
-### 特朗普回骂奥巴马：他不是个聪明人
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-10-27 05:16
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFBsMEZCUkY1S25QWkFTVTd5Sks0Q1dzQUw5RUpyeUFZcTZ5VmNjMFFOc3RmZURwUW1jUERhV21oX01DUEtfX2V3YVBaNXFxSEUzYUJhSFhodXBUM0lWT3VaNkZTYmltamxEZE8tbGVPMUpUTkU?oc=5>
-
-### 内塔尼亚胡超大展板打“美国牌”，宣传获得特朗普背书
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-27 00:59
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBCQ1lzc1MtRU01QmphejZWZmlpblNuYWplVFVPNHVQaWVwTl9sbWtUWjBUTkZpaEVZOThyUDVVTlRQVlpUTXNWT0NDSzA?oc=5>
-
-### 特朗普想推欧尔班执掌联合国？国际局势生变
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-10-27 04:45
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZV19RaWp3ZndtUUZENnNBbkRYT0VvRm5XcUdUQUgybVdaWTBMZ3cwdEo4ampvY2NVRGJEMjI5RzFIUnJPbU5BajFRRzdWU09LLWNuUHFyUUFadGZoM2NOTld3Q0xIZ3FnWW9ZOS1kMkQ?oc=5>
-
-### 特朗普称举报选举舞弊致定罪者 可获100万美元奖金
+### 特朗普的高尔夫帝国成了十亿美元级的避税工具
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-10-27 06:20
-- 链接: <https://news.google.com/rss/articles/CBMiowFBVV95cUxObVJqTkZzUUNwbDBKRlM3Uk5tM2c1eHRuaUJSMWZqVHlFREhsS3VjM3RiOTd4TG5pUjI2SldUWWpTXzh5MkJyeG1vcmxMU2VMSzAwUTBwYzM0N3VJSjltTjRObVZMZF9xMGxVM1R2WDN2ZU1QTHcxNEczalFoWUlJYWs5THVnRkRua2hUSmVWU3hscWJaVHhRYkxIMlRtNnJyZDEw?oc=5>
+- 场馆: Forbes China
+- 时间: 2026-10-27 09:50
+- 链接: <https://news.google.com/rss/articles/CBMiV0FVX3lxTE80V0VBQ3VJRlJWRnlaQnEwbUgxMndLVEdyY1BQM3d1RlJjVWNQTnNWWlQxdEkzLW44bmFxbENoWEx1bzhXLS1MSzFGSWd3NEhiZk16aFRWVQ?oc=5>
+
+### 奥迪在美国的工厂计划：SPD专家对为特朗普提供竞选助力感到愤怒
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: VISION mobility
+- 时间: 2026-10-26 08:13
+- 链接: <https://news.google.com/rss/articles/CBMizAFBVV95cUxQbVVwbTVLOXRHelU1eW9oVUZqOUYxN2dkeDlfZ1RBZ25KNUpvOGU4RGRfU2hCTENoZ3FncmZYNW11c18yRDZPVFBJMThlbmZPWGR3dW9kTnhramx5RmZFT2NJTWJuOEdwTTNGT09EX0JKRUFWMEExcVhVOG10dHRyeUNCRGR0bFBaOVJ0NC01LWdQdVh0UzVHSUhJdW13X2xxWGFQRFBWMXJTRDBVQ0cyczFKSjU0b1NhRTZwbkpwNUdIOU9CQm9HOTdRWWQ?oc=5>
+
+### JPMC Files Motion to Dismiss Trump Debanking Suit
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: ACAMS
+- 时间: 2026-10-17 11:17
+- 链接: <https://news.google.com/rss/articles/CBMilgFBVV95cUxNWHFJVkMwdlNBOU1WSUUxenVwRXJKYzFpOEZkTGtwT3ZtaTlwcl9ua1QzeDZ5LXoyb3VEWi01RXFGTHUwckx1czBOWWtTbl9ucUpJWHhMQ0xxUXZOelNaNEo2RGM5aVJQRl9HY1hLRXlxRllYWFJQZ0JHcU1LWTR4QzNtbG8wa2pycGlCdmpsWHB1UVROd2c?oc=5>
+
+### 泽连斯基：星链和星盾通信系统恢复限速前水平
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-10-24 21:24
+- 链接: <https://news.google.com/rss/articles/CBMi0AJBVV95cUxOWTFyZDZUWGhnZzR0RDNjTllCX0tPcGdBX24wSEpHSW02NTRQNWdfbnlOeS03NVpxTG5ZSmR4NVM1VUlGZktPOXBiT2lDdERka3dzVnB3WlBSajJyRVJheXAtWWwyMkx6NUNFZHl6c2tkemE5VlFtSURTeVpobmtkY1NZN2t0bk1xMDB6TnFNUjFaLU8xTW5fd2VqQUJwUGwwRGhEenR4VWRYMk92cl9ydWVzZ2RvM0dkSHI5NzRDd0hUNnk3eVhnTkJfV0UwSlJkMnFZRXR4SEVKTE54b2pPelNWbGhCbkkzUHRsSHBjR0JJOV8xdEZhN1QxSnVxV0ppWWRtb1NPV09FMVg5OWtHWmJUOWVNY0NYemVQNWx4NFR4NmNWVjQtR0pWTnZBX3hldzZuUjB5dG03MTctbjI4VE1YSTB2TTVubU5oVEFPT0g?oc=5>
+
+### 川普"悬赏100万"抓选举舞弊！定罪马上给钱
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 文学城
+- 时间: 2026-10-27 08:04
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoV0RGX3BDRWkyMGVpWUFRYU00VUIzMFladE9rb3RJbm13VkktX0hYQXNTWVFaY3pGMndMaTNzVnNFYWlWek92R05pODdRSDV0eHNaVms2SkphVHpOVF9fTmRNcUlycHAy?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-27 13:27  (25 条)
+
+- **王一博** | 任贤齐邀黄家强苏永康梁汉文组乐团开演唱会 <https://k.sina.com.cn/article_7879923704_m1d5ae17f8033020ndk.html>
+- **王一博** | 王一博FantasticMan一周年封面预告发布 <https://k.sina.com.cn/article_2818172345_a7f9e5b904001l3ca.html>
+- **王一博** | 肖战王一博演唱会灯牌亮平安喜乐 <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002to0i.html>
+- **蔡徐坤** | 蔡徐坤纽约演唱会端着杯子边喝边唱是什么名场面？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801o6i8.html>
+- **蔡徐坤** | 蔡徐坤The Deadman巡演后续还有哪些场次？ <https://k.sina.com.cn/article_7880068200_1d5b04c6806801qyis.html>
+- **蔡徐坤** | 蔡徐坤The Deadman巡演新加坡站舞台设计有什么特色？ <https://k.sina.com.cn/article_7880068200_1d5b04c6806801qyik.html>
+- **蔡徐坤** | 蔡徐坤在演唱会上说的‘无所谓风’是什么意思？ <https://k.sina.com.cn/article_7880068200_1d5b04c6806801qyii.html>
+- **蔡徐坤** | 蔡徐坤巡演周边细节精致，边角印花工整 <https://k.sina.com.cn/article_1773437992_69b4842804001pbhg.html>
+- **蔡徐坤** | 蔡徐坤新加坡演唱会亲完装无辜称是我弟弟 <https://k.sina.com.cn/article_7785470890_m1d00cdbaa03301y818.html>
+- **蔡徐坤** | 金子涵分享蔡徐坤新歌Deadman <https://k.sina.com.cn/article_7810739724_m1d18e6e0c03302xf4g.html>
+- **蔡徐坤** | 蔡徐坤演唱会脚痛撒娇可爱引粉丝心疼 <https://k.sina.com.cn/article_7811154182_m1d194c106033021kma.html>
+- **蔡徐坤** | 蔡徐坤香港演唱会官宣，新加坡站圆满落幕后巡演赴港 <https://k.sina.com.cn/article_5556631847_m14b33792705302eb1o.html>
+- **特朗普** | “我真希望自己少些天真”：美国两位主教后悔与特朗普同框 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFB0MUo4VEtuVzJPRDU0VGhMM2RXaXc1dWhSTS1QVndCTkRmeTdfd2h2WWhveWRiTER1Si13d0pZbmQwWW5RWV9JN1RVUDc?oc=5>
+- **特朗普** | 白宫高调晒出天主教主教为特朗普祈祷的视频 引发天主教界不满 <https://news.google.com/rss/articles/CBMicEFVX3lxTE94T1BsWS1zWnFEMEpCVXhEX1Z6NzhOXzdCUHhHaXFHcEgxZjM3U2xOazMxUkx5TTBCZzQtZXdvSWRQUDcxSnJvYzNpNDEwYmRtX1FBZVg1TldXMnVseG83SnFVaFFJcko1SWN3YW1OaUk?oc=5>
+- **特朗普** | 特朗普悬赏百万举报选举舞弊 被批恐吓选民 <https://news.google.com/rss/articles/CBMiakFVX3lxTE9fYjBTMlBOdUpCMEVPcHpzV01kUVhPbFNma05feXVjeEdmalB6TURvbmhUaE1LRWJWeEpMTF90QTNLMi11REJDcDNnUFNKVXgzeDZjVmJWOHJjR1RHUE5hc3dZaENlbkNZRlE?oc=5>
+- **特朗普** | 特朗普称巴西总统选举被操纵了，中方表态 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9hejFtXzN3T0ZCLXA5ZXMtQzQ0WExVdHJuRmhnb19BS0x2UXhaekFQTm1MVmpfLWFHTzh0Zk02Mkhoamx0TjJ2ZjFPejY?oc=5>
+- **特朗普** | 卢拉胜选，特朗普称“被操纵”，MAGA要求美国干预 <https://news.google.com/rss/articles/CBMigwFBVV95cUxNMUxwUU81VHdZNElRWFJMUmstTl83VVM5UkhGcHR1QXBRMlU1ODYzRGNySDJleHpoRG9VSFVYcW01ODFRRHVuWXI0STRrLVhjZmpBYkhna0RfQUJYLWg1RENWM2s0NzJhWGkwbHBEeXNfS1JRaHRSN3NpRW5GdnlfTFBwaw?oc=5>
+- **特朗普** | 特朗普关联企业严阵以待民主党调查攻势 <https://news.google.com/rss/articles/CBMi0gFBVV95cUxON0ZlTkplWTU3ZTFHMGVsM1JMVVRndjR1OEdfVlpQYWgyZjZ6WDY5X3RTd2otbVRDSU9mQzVSbzhaUXlHQnB3bUR6YlBTOFNUcTFLOFU1U2V3WHlpX1pjUFRVc3N3d1Vkemp3Mmlzc0pZeExDREJ0aDlVMC0zck5NR1E3ZmN2cV8zaHRqSkJ0VDhrTDRxYUFPLUIxXzV4SHhtRXZfc3BCQTFMVEtONDlmT1ZCb3d1MmJ0ZjdzWlQ4MW9lN2dBTlpFVTU2cV9TSW42QWc?oc=5>
+- **特朗普** | 特朗普否认“再次表态支持内塔尼亚胡是应后者要求”：我从未与他谈及此事 <https://news.google.com/rss/articles/CBMieEFVX3lxTE50d1h4VFU2NVVERFNYNUpfNGdJcTVSdUpQcVUyVUZJY0l2OFVjZkJFZnIxa3dDaDhJeVoxR2VCTkNPSjNoNzlENmJOOURpZXQ4cnA0Z01NdEdiOV9CUVlYNFotTWdLT3FRTTRtV1lYODlrMkZid1VrTw?oc=5>
+- **特朗普** | 选情告急！一边求助特朗普，一边渲染核恐慌，内塔尼亚胡面临政治大考 <https://news.google.com/rss/articles/CBMieEFVX3lxTE5TbW9mNTYxNkpOM3BIMkNGd3ppOUZXMG9BTGlRajhZcnhlRVAzMHhvdTFreFFRRloyUDAxWVRjY1EwZjE0empuZWJuTXhuY1dhVzdtVzBudXZ1RHFvekFSNTBNeE9sWVZpODRLUXFGalI1emJhcFNQdg?oc=5>
+- **Trump** | 特朗普的高尔夫帝国成了十亿美元级的避税工具 <https://news.google.com/rss/articles/CBMiV0FVX3lxTE80V0VBQ3VJRlJWRnlaQnEwbUgxMndLVEdyY1BQM3d1RlJjVWNQTnNWWlQxdEkzLW44bmFxbENoWEx1bzhXLS1MSzFGSWd3NEhiZk16aFRWVQ?oc=5>
+- **Trump** | 奥迪在美国的工厂计划：SPD专家对为特朗普提供竞选助力感到愤怒 <https://news.google.com/rss/articles/CBMizAFBVV95cUxQbVVwbTVLOXRHelU1eW9oVUZqOUYxN2dkeDlfZ1RBZ25KNUpvOGU4RGRfU2hCTENoZ3FncmZYNW11c18yRDZPVFBJMThlbmZPWGR3dW9kTnhramx5RmZFT2NJTWJuOEdwTTNGT09EX0JKRUFWMEExcVhVOG10dHRyeUNCRGR0bFBaOVJ0NC01LWdQdVh0UzVHSUhJdW13X2xxWGFQRFBWMXJTRDBVQ0cyczFKSjU0b1NhRTZwbkpwNUdIOU9CQm9HOTdRWWQ?oc=5>
+- **Trump** | JPMC Files Motion to Dismiss Trump Debanking Suit <https://news.google.com/rss/articles/CBMilgFBVV95cUxNWHFJVkMwdlNBOU1WSUUxenVwRXJKYzFpOEZkTGtwT3ZtaTlwcl9ua1QzeDZ5LXoyb3VEWi01RXFGTHUwckx1czBOWWtTbl9ucUpJWHhMQ0xxUXZOelNaNEo2RGM5aVJQRl9HY1hLRXlxRllYWFJQZ0JHcU1LWTR4QzNtbG8wa2pycGlCdmpsWHB1UVROd2c?oc=5>
+- **Trump** | 泽连斯基：星链和星盾通信系统恢复限速前水平 <https://news.google.com/rss/articles/CBMi0AJBVV95cUxOWTFyZDZUWGhnZzR0RDNjTllCX0tPcGdBX24wSEpHSW02NTRQNWdfbnlOeS03NVpxTG5ZSmR4NVM1VUlGZktPOXBiT2lDdERka3dzVnB3WlBSajJyRVJheXAtWWwyMkx6NUNFZHl6c2tkemE5VlFtSURTeVpobmtkY1NZN2t0bk1xMDB6TnFNUjFaLU8xTW5fd2VqQUJwUGwwRGhEenR4VWRYMk92cl9ydWVzZ2RvM0dkSHI5NzRDd0hUNnk3eVhnTkJfV0UwSlJkMnFZRXR4SEVKTE54b2pPelNWbGhCbkkzUHRsSHBjR0JJOV8xdEZhN1QxSnVxV0ppWWRtb1NPV09FMVg5OWtHWmJUOWVNY0NYemVQNWx4NFR4NmNWVjQtR0pWTnZBX3hldzZuUjB5dG03MTctbjI4VE1YSTB2TTVubU5oVEFPT0g?oc=5>
+- **Trump** | 川普"悬赏100万"抓选举舞弊！定罪马上给钱 <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoV0RGX3BDRWkyMGVpWUFRYU00VUIzMFladE9rb3RJbm13VkktX0hYQXNTWVFaY3pGMndMaTNzVnNFYWlWek92R05pODdRSDV0eHNaVms2SkphVHpOVF9fTmRNcUlycHAy?oc=5>
 
 ### 2026-10-27 07:10  (21 条)
 
