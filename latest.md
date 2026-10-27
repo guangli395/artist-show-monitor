@@ -1,138 +1,96 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-27 18:50**
-- 本轮扫到 14867 条, 新增 **17** 条
+- 最近更新: **2026-10-27 22:48**
+- 本轮扫到 14876 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (17 条)
+## 本轮新发现 (9 条)
 
-### 蔡徐坤新加坡演唱会为什么能连开两场全部售罄？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068200_1d5b04c6806801qz50.html>
-
-### 蔡徐坤银发造型引爆新加坡演唱会，反差萌现场圈粉无数
+### 蔡徐坤演唱会上的浅色西装造型为什么被称松弛又潇洒？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068200_1d5b04c6806801qz4q.html>
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801o77w.html>
 
-### 蔡徐坤新加坡演唱会还有哪些精彩环节？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068200_1d5b04c6806801qz0c.html>
-
-### 蔡徐坤在演唱会上唱《Remedy》为何动情落泪？
+### 蔡徐坤在演唱会现场和粉丝互动时有哪些有趣的松弛瞬间？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068200_1d5b04c6806801qyzg.html>
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801o77q.html>
 
-### 蔡徐坤新加坡演唱会银发造型有哪些亮点？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068200_1d5b04c6806801qyzc.html>
-
-### 蔡徐坤银发造型燃炸新加坡演唱会，十年之约惹哭粉丝
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880068200_1d5b04c6806801qyz4.html>
-
-### you know i ain’t worried about nothing 蔡徐坤TheDeadman演唱会
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002to64.html>
-
-### 奥巴马嘲白宫装修像萨达姆开的餐厅，特朗普怒了：因为他不是个聪明人
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-27 04:04
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1sZ21CUXZPdkdySmRRSUNlZ3Q3dVNIX3FkMW8xaGIwQmgyc1JyZmJGbWFjdjhXTl8xdTNqa2JOVFNCNzQwbm1xdDJKTG8?oc=5>
-
-### 特朗普：装修白宫这事儿奥巴马他不懂
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-10-27 15:52
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTFBKVTZIR18xLTJJR1pHdHFqTXU2bS1VTXBxUkdTc2RhaHE5RS1kN1BVT3JRQ0pLSHc0emRCZ2pxakEtRDVSc09ySFAyYV8xS3Z2U2taLUZLWHFRd2NpRzU1bFZtU1JlcnV6dG01TGpWZXF4eFVrRXc?oc=5>
-
-### 美国总统特朗普：华尔......_7x24快讯_新浪财经
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-10-27 16:18
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1FZEw1UjhEckJZanpJSTJGREthVTc4aHc1RWxHZU5yeHcyQlozNHBGOXM0WTRMOFBYVUFtZ3l4UHZLVGg4MHd2cFBLSQ?oc=5>
-
-### 特朗普总统：6月份与伊朗达成的临时停火协议是“浪费时间”
+### 梅拉尼娅·特朗普斡旋的停火在俄占奥列什基生效，俄罗斯导弹袭击基辅等地
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 美国之音
-- 时间: 2026-10-27 17:31
-- 链接: <https://news.google.com/rss/articles/CBMixgFBVV95cUxQaVFyblFJWGFBY3NWeWR5czl3ejAtajdGWTF5TGYzaUJNckF6aHo3X3h0U1pmdGNPQnVvQ01NelgtMm9DZzJsbzl0UVl4VFlFdmFpU3daRkZKQndndlVvbFljMGtkemZZbkZiYUJhczVZM3dpbUJ4Mmo1a3pJRFp5RVZNTEk5MTJXS3RXRlptV2JidVpuSjFSMWhFQUg2TkRkbmdCMGJ4T0lUVmJxLUlDQXRpdU9Ba1N6Q1ltX1k1LVFwdGM2Y3fSAcgBQVVfeXFMUFMzMWtIVWNabzVxNmhSNEprVmZDbTdzLUhfck90cFJoSkxsNnRWS3FCQThtQWNCUVJjNmhuNXhTc19Hc3lLeGtqVXFkSWZuUm92TTRqRHZGRzMtVnQ3N3ZXLVFkY1duWV95eGdVcWkwNXhvNEZRQWF0aVFRWEg1S0hqNnRuNEE5Mi1iZk5iVG9xOEZPR0dfQmFTRkZZbnI2WGlfZ1pBXzc5M0p5U2xsUmQ5MWhMWlpxNlAzMHhUcnhZYVV2amFRdjA?oc=5>
+- 时间: 2026-10-27 22:16
+- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdGdrSzlpMkxQak1OOF9rU1dSOTBVMnEyVVlUcUdkNU1sSXB4aHEzbXpMZGktaV85SF9VYkJOTkhTM0FHTV9EZ2g1Qy0wVC1JNjVfOVl3bm9tdWxQcjZVM2gxS0lZN04yVFpuSHdEVEtiek4yRzhsejlrVElaXzJyQlcxTGU2eFFJOElETmdoa2FwZU9ZSE5DcTM5TVZodV9MOHdIekNteUdPZ25LaFlXblFpSldCRVlwQlBJbjFmRVA5THJ4eHJjcmJzSUM2R3VtUWlZX19Ra2g1eExkQnfSAeABQVVfeXFMUGEzMGlJOXVka0FBMEd5MzViZ0JjN2xPQWU2a3FMVnZnN3EyZWVoMGFQYmVQbllfRUt6ZTQ5ZExfYS0yd1ZESjh5anM1c2VwaHZZTGQ5alIxNlplbG9hSTE0UFZOR1B5bWNDOXZwTGR5R3hVNVRFOFBhRnhhTGJieXNldUNsSDlONG1VaklKOUJ4SEVMZlN3WmRhSUk3UE41dzdRR2VFb2YzWlJXWWw1bW5hVExuLWtXOUFiZVJGOTJfeWtoN2ZOejNSdHRLb3p5aDhzWm54b0MtZEZ2ek1DQXU?oc=5>
 
-### 以色列宣布延长部分投票时间，特朗普否认“支持内塔尼亚胡是应他要求”
+### 美国能源部长赖特：特朗普政府可能允许更多俄罗斯柴油进入市场
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-10-27 17:48
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBQLVJGRkFjdVJ1ZFE3WTF1Z05CNzlFbjRJRkc2OVpadWx3T0xibGFOM0pfdjVyZ2NOT2k2ZEVLZFBTSTFKdEdFXzZaWUxMWFB1NVBUSEJEaWNMbFJ3aUIwR2lxNTc3ZXZ5RzlIMFVMWXhiZWRXS2oxbQ?oc=5>
+- 时间: 2026-10-27 21:36
+- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxNVEF4cUdRcEprSDhmQTdUeEFJN05KazNfbW5mSVVHRWRMMW9FQjZpQmc5bWtkUmRuTW14SlMySzVvMksyc2liaU5WVXBVYkRWQzVGTEdDNWdBWDdnODVWUDRTRGZmRXNtSXBscnFZaF81Z2k1MG1OTVJaeWprbmN0UHF0bzgwQWZBSGVXSG5GRQ?oc=5>
 
-### 柏林飞鸿 - 美国中期选举将给特朗普当头一棒？
+### 特朗普再为质疑选举结果铺路
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: RFI
-- 时间: 2026-10-27 15:12
-- 链接: <https://news.google.com/rss/articles/CBMi3AJBVV95cUxOYmc5WUNWNXlMc0J3VEppZ2hqNFVHWjd1a2hVS3ZqQzZDQmo1WkNJZlJzNVZUTnVWc3pjdExRQnJfbnpoU3lVOG05QUVaYU9lMjd2RjRaZkxQSUIzTmxoT1AwZExEeVo1VDNsUE44X1hac1l5NW5WdFc4eFZKVjJYLWZ4WmxjVGdXcDZnVnJGMkZTMzFBME1uT1NVR2IzOG1hQ3lISGpTSkktUGtvR3RLT0Z1Zl9BMjJzeGNfUEt0Q0V2eS1QazB4dzdqZ19BbVJsLUlmemJTOUJrdVN6VWRnejctV2hpU2Qzd0VQZnNIUFRJY0g5QWU2VWxTcGoxUW5YdUQ1Tmc4NTlWYnRfZXJoZ1E0OUVlaUdrRG5XbkhzZ2JLSGdndXI3WWFGemxQREd5YjhNQzVWVTJEdUkweVV4dVdnR0lWalg3R1dyTk1MdElOYnRYUlFyR1VYTHE?oc=5>
+- 时间: 2026-10-27 21:12
+- 链接: <https://news.google.com/rss/articles/CBMi-wFBVV95cUxQNzdYbFVJSUFXbWZqSExoekdBZ2ltS2JhbjBLc2lkbldKMi1nVHpmZ1J3Ry0zd1RDb1NDUmppejdnUTVFTE9aSFNSdUVacE13cTNyb1NVNlBZTzQ5QnJpMnFOT1JfaXFvSTJ6R0Z0S3B4SDlMak10U2k0a2xQQ3lUZUtwaFN2RGlfa2VMdjRuTF8yM3UzT0RVQlItOF80QXltbHZlTllmSkVpM2hQZnEzNFlIQlBYU19MWFFBQVFPVWFFb29XOW42QmF3OEx4eUx3X0JJQ090NmF4aTE4TzBsNHpDN0FxRVBoVXVHMmFxVXpYemZvc1kxQmk3QQ?oc=5>
 
-### 奥迪CEO为特朗普中期选举站台遭批：违反公司中立准则
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-10-27 05:21
-- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zdU1NY0FieldnY2RiVTlHbC13STJ0V01LckJwanFCeHNnVHVtNTRtcDRhdmNGdU5WcUtWMi1hbzNsR1pFbm95dEhQX280aGlhMmFIVWlFV0FfVHdpbUdhYmtR?oc=5>
-
-### 卢拉胜选，特朗普称“被操纵”，MAGA要求美国干预
+### 特朗普：我们很快会在所有相关文件中正式禁用“AI/人工智能”这一术语。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-10-26 23:28
-- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxPNGtxUzN4UmVjRVhIU0hxcFJKRmwxYUppRmRPZmlXNWlnYlRFM0p1UGEtTmRjR1ZQajNXQS1mRkctc05zU2U4QTZVcWs5NWpERGdiWlBMWFJQTTZXdFZyWExVaEVLTUtkWGl6VXlOb0xIb3lmN0pubVhtcHhKeVFxa2VPNA?oc=5>
+- 场馆: 手机新浪网
+- 时间: 2026-10-27 16:21
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1xUlZGU2Y3b2VNZ3NnbFpXLUlTQllTeE1XcUFKWG5IU1hNd1NReE1vTDUtVGRYNFYydGh0U3prQTAxb0hVRFV2bEw3bw?oc=5>
 
-### 巴西大选：特朗普质疑“操弄” 博索纳罗拒认败选
+### 伊朗战事推高油价，特朗普支持者仍呼吁“再给他时间-市场参考
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: DW.com
-- 时间: 2026-10-27 07:03
-- 链接: <https://news.google.com/rss/articles/CBMirgJBVV95cUxNX1E2TU1FVHRvS1JGdWVVSGYwM2J2VFRrQmJzMHR3SXJEZ1JtWjRnNm1qdnVvZVVrbGNyNmZ5NzhicTB3WkNpU2JpOHVqcm54THh6SXpqeU53d3JzY0txVlBId0hkUjEzM2NKX2gwUFFmQ0hzdzh1VzNha2ZJVDRoLWdwMURtRUFIdXhzbTdXcU1qYklFajFuTGc0ZUUzZnlBdEVkYnlWcF9ZQUFtdmQwYnM4ajQ1MzlMX0tmVVVjeVdFTlVMUWs0bDN4TXNvdlV1UkFtaGZiZ3NDc3J3UkU0VTlkeXhtQ2hZUWpqRmNXWjd1YTNpZl9RMVI0ZWlhSkFRVmxaLVJ5N0hJYUx4c3ZLbnpRcWdrMlBHZjBoVFkzSmhQSWZVZ2MxVE5UYVBCQQ?oc=5>
+- 场馆: 金十数据
+- 时间: 2026-10-27 15:01
+- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE14YjhST2NFb0EwQkllRnQ1emh0Xzd2NzFOLUtPR3dGYmtBRFZFdndwUlZhOE9raEplNXhwbDVWd2w3V2toS2R1Mm11R0F6azA?oc=5>
 
-### 第511天：加息 + 特朗普2.0 第644天
+### As Trump Touts Energy Companies' Fortunes, U.S. Consumers Face the Most Expensive Year for Gas Prices Ever
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: Moomoo
-- 时间: 2026-10-27 14:31
-- 链接: <https://news.google.com/rss/articles/CBMimgFBVV95cUxQWU9RUlhISmxlVWR4TjZDVWxqVWpROTJXR1p6emdjc0s0Q2JwMkxJWDVPcUl5NUZPZmJHbVhYQWpWYmxZbE1fWUo3d2ZEdEgtcjRnYWdJTlg0Rm83Qndha1RwLVp3MVktVXdvOV9hZzdsWWp1YzJDTHBQMG9yTzNiLUY4bGFqSGJLVWJOVTA4MmZ1b3BhSjVJRTd3?oc=5>
+- 时间: 2026-10-27 21:36
+- 链接: <https://news.google.com/rss/articles/CBMisAFBVV95cUxNczBGZERnTzF0cjMyMjBXQ1VYX3RvbWM2dVZqam52OERmLUh5RzFuVldOZUJ6dFNtaWFyXzRldTBTSzJ5YlJsY1NKcUdra1lQV0xib1lnQUprWW8wRlhrTU9uVFFhd0FNNzJtSDBzT1gxS3RRR2hLWEhUM1NzMFlwSkg4QmhrQnR1THBzTTdzVXpFZlh2dFpuX2RaTW80N3N5NVU5OGdhVGRLT0JjQnZIVQ?oc=5>
+
+### 特朗普的高尔夫帝国成了十亿美元级的避税工具
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 搜狐网
+- 时间: 2026-10-27 09:30
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxNY3Mzd2ZITC1JNTRvZFdBc2pGVkdsVkRvN0x0Nl9OY1hNSzlqZHVwNjJGVnJlTXVWemxSTEM5SFVUN01Day1xZzFWM3BXNVh2RDNhQmp2UVdULUFURFhSeGtzeF9aaklRZ2MtNXBxOWhpdUMwckEwQVA3M3A0c2hyeDU5VDNJQXRzVERVZw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-27 22:48  (9 条)
+
+- **蔡徐坤** | 蔡徐坤演唱会上的浅色西装造型为什么被称松弛又潇洒？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801o77w.html>
+- **蔡徐坤** | 蔡徐坤在演唱会现场和粉丝互动时有哪些有趣的松弛瞬间？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801o77q.html>
+- **特朗普** | 梅拉尼娅·特朗普斡旋的停火在俄占奥列什基生效，俄罗斯导弹袭击基辅等地 <https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdGdrSzlpMkxQak1OOF9rU1dSOTBVMnEyVVlUcUdkNU1sSXB4aHEzbXpMZGktaV85SF9VYkJOTkhTM0FHTV9EZ2g1Qy0wVC1JNjVfOVl3bm9tdWxQcjZVM2gxS0lZN04yVFpuSHdEVEtiek4yRzhsejlrVElaXzJyQlcxTGU2eFFJOElETmdoa2FwZU9ZSE5DcTM5TVZodV9MOHdIekNteUdPZ25LaFlXblFpSldCRVlwQlBJbjFmRVA5THJ4eHJjcmJzSUM2R3VtUWlZX19Ra2g1eExkQnfSAeABQVVfeXFMUGEzMGlJOXVka0FBMEd5MzViZ0JjN2xPQWU2a3FMVnZnN3EyZWVoMGFQYmVQbllfRUt6ZTQ5ZExfYS0yd1ZESjh5anM1c2VwaHZZTGQ5alIxNlplbG9hSTE0UFZOR1B5bWNDOXZwTGR5R3hVNVRFOFBhRnhhTGJieXNldUNsSDlONG1VaklKOUJ4SEVMZlN3WmRhSUk3UE41dzdRR2VFb2YzWlJXWWw1bW5hVExuLWtXOUFiZVJGOTJfeWtoN2ZOejNSdHRLb3p5aDhzWm54b0MtZEZ2ek1DQXU?oc=5>
+- **特朗普** | 美国能源部长赖特：特朗普政府可能允许更多俄罗斯柴油进入市场 <https://news.google.com/rss/articles/CBMijwFBVV95cUxNVEF4cUdRcEprSDhmQTdUeEFJN05KazNfbW5mSVVHRWRMMW9FQjZpQmc5bWtkUmRuTW14SlMySzVvMksyc2liaU5WVXBVYkRWQzVGTEdDNWdBWDdnODVWUDRTRGZmRXNtSXBscnFZaF81Z2k1MG1OTVJaeWprbmN0UHF0bzgwQWZBSGVXSG5GRQ?oc=5>
+- **特朗普** | 特朗普再为质疑选举结果铺路 <https://news.google.com/rss/articles/CBMi-wFBVV95cUxQNzdYbFVJSUFXbWZqSExoekdBZ2ltS2JhbjBLc2lkbldKMi1nVHpmZ1J3Ry0zd1RDb1NDUmppejdnUTVFTE9aSFNSdUVacE13cTNyb1NVNlBZTzQ5QnJpMnFOT1JfaXFvSTJ6R0Z0S3B4SDlMak10U2k0a2xQQ3lUZUtwaFN2RGlfa2VMdjRuTF8yM3UzT0RVQlItOF80QXltbHZlTllmSkVpM2hQZnEzNFlIQlBYU19MWFFBQVFPVWFFb29XOW42QmF3OEx4eUx3X0JJQ090NmF4aTE4TzBsNHpDN0FxRVBoVXVHMmFxVXpYemZvc1kxQmk3QQ?oc=5>
+- **特朗普** | 特朗普：我们很快会在所有相关文件中正式禁用“AI/人工智能”这一术语。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1xUlZGU2Y3b2VNZ3NnbFpXLUlTQllTeE1XcUFKWG5IU1hNd1NReE1vTDUtVGRYNFYydGh0U3prQTAxb0hVRFV2bEw3bw?oc=5>
+- **特朗普** | 伊朗战事推高油价，特朗普支持者仍呼吁“再给他时间-市场参考 <https://news.google.com/rss/articles/CBMiT0FVX3lxTE14YjhST2NFb0EwQkllRnQ1emh0Xzd2NzFOLUtPR3dGYmtBRFZFdndwUlZhOE9raEplNXhwbDVWd2w3V2toS2R1Mm11R0F6azA?oc=5>
+- **Trump** | As Trump Touts Energy Companies' Fortunes, U.S. Consumers Face the Most Expensive Year for Gas Prices Ever <https://news.google.com/rss/articles/CBMisAFBVV95cUxNczBGZERnTzF0cjMyMjBXQ1VYX3RvbWM2dVZqam52OERmLUh5RzFuVldOZUJ6dFNtaWFyXzRldTBTSzJ5YlJsY1NKcUdra1lQV0xib1lnQUprWW8wRlhrTU9uVFFhd0FNNzJtSDBzT1gxS3RRR2hLWEhUM1NzMFlwSkg4QmhrQnR1THBzTTdzVXpFZlh2dFpuX2RaTW80N3N5NVU5OGdhVGRLT0JjQnZIVQ?oc=5>
+- **Trump** | 特朗普的高尔夫帝国成了十亿美元级的避税工具 <https://news.google.com/rss/articles/CBMijAFBVV95cUxNY3Mzd2ZITC1JNTRvZFdBc2pGVkdsVkRvN0x0Nl9OY1hNSzlqZHVwNjJGVnJlTXVWemxSTEM5SFVUN01Day1xZzFWM3BXNVh2RDNhQmp2UVdULUFURFhSeGtzeF9aaklRZ2MtNXBxOWhpdUMwckEwQVA3M3A0c2hyeDU5VDNJQXRzVERVZw?oc=5>
 
 ### 2026-10-27 18:50  (17 条)
 
