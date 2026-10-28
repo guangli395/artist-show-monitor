@@ -1,102 +1,209 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-28 01:58**
-- 本轮扫到 14887 条, 新增 **11** 条
+- 最近更新: **2026-10-28 07:59**
+- 本轮扫到 14911 条, 新增 **24** 条
 
 ---
 
-## 本轮新发现 (11 条)
+## 本轮新发现 (24 条)
 
-### 蔡徐坤新加坡演唱会大背头全包眼线踩高跟鞋唱情人
+### 蔡徐坤TheDeadman演唱会拽到心巴上
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7810739724_m1d18e6e0c03302xlx6.html>
+- 链接: <https://k.sina.com.cn/article_5450389695_m144de58bf03301wwjk.html>
 
-### 特朗普：让我们把委内瑞拉变成“第51个州”吧，这样它只需要改选州长
+### 蔡徐坤在演唱会上说的“无所谓风”是什么意思？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776406_1d5abd89606802wqdu.html>
+
+### 蔡徐坤THE DEADMAN巡演新加坡站两场售罄有多火爆？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776406_1d5abd89606802wqdo.html>
+
+### 蔡徐坤新加坡演唱会银发造型为什么让粉丝直呼梦回偶练？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776406_1d5abd89606802wqdi.html>
+
+### 蔡徐坤在演唱会上提到的无所谓风态度具体指什么？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776406_1d5abd89606802wqdg.html>
+
+### 蔡徐坤THE DEADMAN巡演后续还有哪些城市站点？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776406_1d5abd89606802wqd6.html>
+
+### 蔡徐坤银发造型梦回偶练，新加坡演唱会两场售罄
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776406_1d5abd89606802wqd8.html>
+
+### 蔡徐坤在新加坡演唱会上说的&quot;无所谓风&quot;具体是什么意思？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801o88s.html>
+
+### 2026蔡徐坤The Deadman香港演唱会购票全攻略
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1735937570_67784e2200101szl2.html?from=tech>
+
+### 蔡徐坤演唱会上擦泪后是怎么把气氛圆回来的？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd8640680189n2.html>
+
+### 蔡徐坤在新加坡演唱会上为什么哭了？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd8640680189mw.html>
+
+### 蔡徐坤新加坡演唱会自创&quot;无所谓风&quot;，现场落泪又自嘲
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd8640680189mc.html>
+
+### 周杰伦台北演唱会都过去快两年了这老登还在蹭
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923674_m1d5ae17da03301s56c.html>
+
+### 如果共和党中期选举输了怎么办？特朗普：记住，我有强大的否决权
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-10-28 01:15
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9uc0NxcUxNeWVGa3Zsa0FFZV8xYnE1YUtNdjNnSWl6WXdjNjA2ZUdvcWlCeVgtemw2VEFCaGtBalJyNlZBWFNnSFBYUnE?oc=5>
+- 时间: 2026-10-28 05:32
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ZZnFNWlIwUmVCeE41UkZWTmZXeEMzSEY1dGRHazh6QU56bkxZVVNta2xPdk5fM05MazJiU3hpXzlKajhPTnFpY1VXNzA?oc=5>
 
-### 特朗普撤销甲烷排放限制 称可节省450亿美元
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-10-28 01:39
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE54em9kNzVPRXJ4Z1Z0UVNqeXJYY3ZhNU9EaU5pN0w4QlVtYklzUkFjMzl4NmwyWk9SQWhiSmQ4RnFraU1VNGhHeUJzUkduY2J0TGRzQjAzS3ZzSHhUN1dLUzM0MGk2UjRwbGc?oc=5>
-
-### 特朗普：委内瑞拉或成为美国第51个州
+### 特朗普称将正式禁用AI一词并点名批评华尔街日报
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-28 01:12
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5CTXpGSTNaeHl1VkMwTkczSlNLREdVRExvYk55cllacUZDWFFFelhqNVExLWVnWVd6M0Q1LVVOeDZZbVRuZnllWThnMkQ?oc=5>
+- 场馆: 手机新浪网
+- 时间: 2026-10-28 05:43
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5udTdSVFE3dzNoQTNTRlp6azJwS0tzSXhQOUllOEN5UDJVRjRoUnBfSXZsN0tUYjBfRDBZLUw4V2RDaG1kZmJUSWZJWGt5VE1YOXY4NTdSSUhHSno5WVc1b0FSRXlsZFptRnhfeERFWHE?oc=5>
 
-### 特朗普：我们将正式禁止一切场合使用AI！统一改名SI（超级智能）
+### 特朗普将正式禁用AI一词
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 驱动之家
-- 时间: 2026-10-27 22:35
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE9wUkNPUkt2bzQ1SUNUUWx2ZWdFak5seUk0UHBub0lfOHZRMGxQVE5Db1ctbl9OdEU0aWFGS1V3T096WFBmZldWcDVqNjlDT0RPZnJUVGpGVVI?oc=5>
+- 场馆: 手机新浪网
+- 时间: 2026-10-28 06:34
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE5NTEhnQm1WNndRRm56a3ZSVkJNY2pwc0NET2NuZHZ6dGhuTVllYkNTLWxTOVhjMnI2RlYydi10d2tVTlg5bnRvd3UyMFRVSnRhbWJTMU1zS3I0bnBtOTdvNV9JWm1zZFVxVl84WGtKUDNmTXpJaDZEQTBWS0I0SUE?oc=5>
 
-### 特朗普特使提议“美国公司重返俄罗斯石油市场”，美国希望下月美俄乌三方会谈“取得进展”
+### 特朗普将“AI”一词升级为“正式禁令”，《华尔街日报》被点名批评
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 华尔街见闻
-- 时间: 2026-10-28 00:57
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE11RzJPUlpCT2Nsc2NrMDFRa1YwUFpNVFhib3Y5N0xJUmxZS0pFNGV1eVRMUl9tNjU5WDVINmVpOHdBZ3dEQjdBUkZQYnBtSVl6VkdJ?oc=5>
+- 时间: 2026-10-28 06:34
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LaVd4c3B2YzVwdUgtZWdOdExqU0hRNjFmSFJWSHA0QkRDTXc2bDA0Z1JTYnN4cktZamNSXzZQRU44cXBxWFZ5M3JvOHlJOTNab0w0?oc=5>
 
-### 特朗普就三方会谈表态 美俄乌或将很快对话
+### 涉俄乌问题，特朗普：我们“正取得大量进展”，会晤很快就会安排
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-10-28 00:00
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1uazZlOWZBNFp3aTg1MjlNcEV4WXhRNHY1R3RkVUJPZ2ZhdG14Y3J6UGU3ZWhHdmRzbGpFYzRmX1BmY1BfVmNVOVBuNUtWU241SE9ZckdmQVBwMHJBMFN4aERnejBLRjhyVmwtenFkdGw?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-10-28 06:40
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9xcVN0X29Cd3ptS3lLenphN3VqbDhZSFhyalNSRXlORGJpRDNFMWtqWW0teVlCZkFmSF9BUE9CXzFUQVc2ZXlfREY3SEFTYl8tU1FjRFhFRGduY2E2MFNOZE5QWUNpY3hoeXFWbGJnNjVYTnlFaHI4Rw?oc=5>
 
-### 特朗普批准小博索纳罗入境美国
+### 特朗普称普京与泽连斯基的会晤将“很快”安排
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-10-28 00:26
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFB6VC1Gc2I0amI0Z2FZSjUtWDhuWWczV1YyR1VUSGxtWjE2elgySWpCdllyUjdCaW9scF9RSDRlemJMOUxNQ3FHaXJ4eko?oc=5>
+- 时间: 2026-10-28 06:06
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBGU25BOUNoa0wzVFl3bkViVnFvMGFCQmw5SjVhNGdnSm1nbFdEcHVDeWVidi1zcVJGaG91T1ROTEFuekt1QUY0dXJSWWg?oc=5>
 
-### 特朗普夫人：“俄乌奥列什基停火提前生效，范围已扩大”
+### 特朗普称普京与泽连斯基将很快会晤
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-10-27 23:43
-- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVFV1d2pkUE5LZnlQS0Zzam5ZSmsteGVGLWpPWFRPOVh4LWJFZWF3Yl8tZVlGQjIxeWpCX2ItejhSVFo0WjM1dEVRMzVoWHBBc1p6OHE0VXoxLXh3VWMtelNiaFBmSFhudW1ld1dqZWxXbXIzdkEtWDQ3WjRMbTBSc0xNNkFWd01f?oc=5>
+- 场馆: 联合早报
+- 时间: 2026-10-28 06:48
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE42eDVxdWhDTnZ4TWR3dHpKT1k0R0c4SG4zVi1QM3BoN3VYTjB5SjNIR3hRendMa2hrMU0yeUZwaFpKMUpDenViUW1PREY4R3p0STZRZzdDNnRTWHJwU3FsQlFNRFdrNnFGY0E?oc=5>
 
-### 特朗普着手放宽油气行业甲烷排放规定
+### 特朗普再提要将委内瑞拉变为美国第51个州
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-10-28 02:27
+- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxQenZpd3J6Tjd5RTdoWnI3RGw5ZWRlS3p4QUNHMURRUm5YZktveUxmeklBaWxhc1FudGxLNzh0cnY5dnNaWnJDUkdSRGdGeXpack9qUkhpUV92OTZERHowTlQ2MmpQQTJ5ZnV1andVS3hveTF1SmxIMjBYclpJRmNCOFFVOERvTlhJa2xDMjd6eEJfN2Zhc0c4UQ?oc=5>
+
+### 特朗普称即将决定：是与伊朗达成协议，还是重启军事行动
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-10-26 12:19
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUTRmNWlvYzBZemlIcThqOTBSdTBGcGJfSTFGZGREQkFSZ3gwaDlsbUNHWDlTbDR0UjZUZ21zbmxmSm05QmVlUE5lTkVPVUppUVRVb3hLeG1tbWFhLXFwMllhRFRnUlJHRVJnb191VWlfNzZxNnFqdnAxVEU2NUtMLTFyZWlERVlXSnhqZWljSFVCUW11UnFQMi1KRVRMaUZpVFhhWmN5RjMzc2pwLUNPSV80YVl0ZUV4UVFfd2xJQ2hoSXg4VFdoOGkyaEdUSFZTbmo3OENyTjJUUV9YS0Nz?oc=5>
+
+### 特朗普称美国已经击败伊朗 伊朗高官回应威胁分量不大
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-10-28 04:31
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBDT0FNNjdxZWFFNnVibXVfMXhJc0lHSDZHaXBLZHQ2dUdsVzdISjU2RG15enB6X0NLSURuNjJCNW8yc1lRSHpNYjd4V0plRE9OSWZkRWY1SzdlME4zb0g0X2daRVdzYmJBVnRIVzRsV2g?oc=5>
+
+### 美国或增加俄罗斯柴油供应，燃料价格受关注
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-10-28 00:47
-- 链接: <https://news.google.com/rss/articles/CBMinwFBVV95cUxPMGk3SlVPdEdpcl9kNnBwWjlQZ1ZmdXBRQmp4X29pMGtrUVBaUlRTWFpONEk2dU92OEsxajZrVTFBLU9ndmxtem50OUNDcFJDXzQ1eHlTSld3WnpEVFV6akJXM2hiNENjdVNlQlhSTVF6Y18zYXlzV1ZuU3NBQWhScU5wRFllang0TWFLWFRBUmlpQVh3cEFmMHhDLUNraTg?oc=5>
-
-### 纽约时报社论：特朗普失败了，必须追究他的责任
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 加美财经
-- 时间: 2026-10-28 01:00
-- 链接: <https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0aHI1Z283RUYxeVNjWlNOaVRDOXhrdnlnT2Ewd3F4d1phaUFHUm1ka2g5RWpTQ1p0Q1dRdHdGMHlucXMxczBGeGZINHFVMjdSQWxwTGVuWnpNdw?oc=5>
+- 场馆: IDNFinancials
+- 时间: 2026-10-28 06:20
+- 链接: <https://news.google.com/rss/articles/CBMiuwJBVV95cUxQNVJtZ2dtZjFNQ3h1NFdqeWlwa0JHemR1d1ExNTg0VUg0ZDBtYnpUYi1Za0dDQzVRckt0Ui1tZmlNMERJSk1IMVFZQTg5Yy1jY0puYzltWHJDMWs2YkVGT0l6eHlTazNocU5WQUlOZThqOFQzTWdWZ2o5dXJ4YjhPZng4bDVLREJXejIxX2s2MzRBOTZ4YURmbXBMUzdqU3Yzdm1YcEJNWVVXVkFORnV3V0dWWjNoYWpuVnFmM1F2NVVxOWVOczVGUUxyQlhZTmdDcFkyLWhQNmU2U0xraWFYZ044MXZRcHVGOVlQbE85di1UX2NMZTJ1ZWl5dkI4T3h2S0NmMzhNb1NwYmwtVmhRVHVMeEdDNVlyZXJGMHBfTHV3VExRUUNWMGxEaHc2aW5QdC1keTU5V1JaSlk?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-28 07:59  (24 条)
+
+- **蔡徐坤** | 蔡徐坤TheDeadman演唱会拽到心巴上 <https://k.sina.com.cn/article_5450389695_m144de58bf03301wwjk.html>
+- **蔡徐坤** | 蔡徐坤在演唱会上说的“无所谓风”是什么意思？ <https://k.sina.com.cn/article_7879776406_1d5abd89606802wqdu.html>
+- **蔡徐坤** | 蔡徐坤THE DEADMAN巡演新加坡站两场售罄有多火爆？ <https://k.sina.com.cn/article_7879776406_1d5abd89606802wqdo.html>
+- **蔡徐坤** | 蔡徐坤新加坡演唱会银发造型为什么让粉丝直呼梦回偶练？ <https://k.sina.com.cn/article_7879776406_1d5abd89606802wqdi.html>
+- **蔡徐坤** | 蔡徐坤在演唱会上提到的无所谓风态度具体指什么？ <https://k.sina.com.cn/article_7879776406_1d5abd89606802wqdg.html>
+- **蔡徐坤** | 蔡徐坤THE DEADMAN巡演后续还有哪些城市站点？ <https://k.sina.com.cn/article_7879776406_1d5abd89606802wqd6.html>
+- **蔡徐坤** | 蔡徐坤银发造型梦回偶练，新加坡演唱会两场售罄 <https://k.sina.com.cn/article_7879776406_1d5abd89606802wqd8.html>
+- **蔡徐坤** | 蔡徐坤在新加坡演唱会上说的&quot;无所谓风&quot;具体是什么意思？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801o88s.html>
+- **蔡徐坤** | 2026蔡徐坤The Deadman香港演唱会购票全攻略 <https://k.sina.com.cn/article_1735937570_67784e2200101szl2.html?from=tech>
+- **蔡徐坤** | 蔡徐坤演唱会上擦泪后是怎么把气氛圆回来的？ <https://k.sina.com.cn/article_7879776356_1d5abd8640680189n2.html>
+- **蔡徐坤** | 蔡徐坤在新加坡演唱会上为什么哭了？ <https://k.sina.com.cn/article_7879776356_1d5abd8640680189mw.html>
+- **蔡徐坤** | 蔡徐坤新加坡演唱会自创&quot;无所谓风&quot;，现场落泪又自嘲 <https://k.sina.com.cn/article_7879776356_1d5abd8640680189mc.html>
+- **周杰伦** | 周杰伦台北演唱会都过去快两年了这老登还在蹭 <https://k.sina.com.cn/article_7879923674_m1d5ae17da03301s56c.html>
+- **特朗普** | 如果共和党中期选举输了怎么办？特朗普：记住，我有强大的否决权 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ZZnFNWlIwUmVCeE41UkZWTmZXeEMzSEY1dGRHazh6QU56bkxZVVNta2xPdk5fM05MazJiU3hpXzlKajhPTnFpY1VXNzA?oc=5>
+- **特朗普** | 特朗普称将正式禁用AI一词并点名批评华尔街日报 <https://news.google.com/rss/articles/CBMicEFVX3lxTE5udTdSVFE3dzNoQTNTRlp6azJwS0tzSXhQOUllOEN5UDJVRjRoUnBfSXZsN0tUYjBfRDBZLUw4V2RDaG1kZmJUSWZJWGt5VE1YOXY4NTdSSUhHSno5WVc1b0FSRXlsZFptRnhfeERFWHE?oc=5>
+- **特朗普** | 特朗普将正式禁用AI一词 <https://news.google.com/rss/articles/CBMif0FVX3lxTE5NTEhnQm1WNndRRm56a3ZSVkJNY2pwc0NET2NuZHZ6dGhuTVllYkNTLWxTOVhjMnI2RlYydi10d2tVTlg5bnRvd3UyMFRVSnRhbWJTMU1zS3I0bnBtOTdvNV9JWm1zZFVxVl84WGtKUDNmTXpJaDZEQTBWS0I0SUE?oc=5>
+- **特朗普** | 特朗普将“AI”一词升级为“正式禁令”，《华尔街日报》被点名批评 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LaVd4c3B2YzVwdUgtZWdOdExqU0hRNjFmSFJWSHA0QkRDTXc2bDA0Z1JTYnN4cktZamNSXzZQRU44cXBxWFZ5M3JvOHlJOTNab0w0?oc=5>
+- **特朗普** | 涉俄乌问题，特朗普：我们“正取得大量进展”，会晤很快就会安排 <https://news.google.com/rss/articles/CBMieEFVX3lxTE9xcVN0X29Cd3ptS3lLenphN3VqbDhZSFhyalNSRXlORGJpRDNFMWtqWW0teVlCZkFmSF9BUE9CXzFUQVc2ZXlfREY3SEFTYl8tU1FjRFhFRGduY2E2MFNOZE5QWUNpY3hoeXFWbGJnNjVYTnlFaHI4Rw?oc=5>
+- **特朗普** | 特朗普称普京与泽连斯基的会晤将“很快”安排 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBGU25BOUNoa0wzVFl3bkViVnFvMGFCQmw5SjVhNGdnSm1nbFdEcHVDeWVidi1zcVJGaG91T1ROTEFuekt1QUY0dXJSWWg?oc=5>
+- **特朗普** | 特朗普称普京与泽连斯基将很快会晤 <https://news.google.com/rss/articles/CBMiakFVX3lxTE42eDVxdWhDTnZ4TWR3dHpKT1k0R0c4SG4zVi1QM3BoN3VYTjB5SjNIR3hRendMa2hrMU0yeUZwaFpKMUpDenViUW1PREY4R3p0STZRZzdDNnRTWHJwU3FsQlFNRFdrNnFGY0E?oc=5>
+- **特朗普** | 特朗普再提要将委内瑞拉变为美国第51个州 <https://news.google.com/rss/articles/CBMimAFBVV95cUxQenZpd3J6Tjd5RTdoWnI3RGw5ZWRlS3p4QUNHMURRUm5YZktveUxmeklBaWxhc1FudGxLNzh0cnY5dnNaWnJDUkdSRGdGeXpack9qUkhpUV92OTZERHowTlQ2MmpQQTJ5ZnV1andVS3hveTF1SmxIMjBYclpJRmNCOFFVOERvTlhJa2xDMjd6eEJfN2Zhc0c4UQ?oc=5>
+- **特朗普** | 特朗普称即将决定：是与伊朗达成协议，还是重启军事行动 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUTRmNWlvYzBZemlIcThqOTBSdTBGcGJfSTFGZGREQkFSZ3gwaDlsbUNHWDlTbDR0UjZUZ21zbmxmSm05QmVlUE5lTkVPVUppUVRVb3hLeG1tbWFhLXFwMllhRFRnUlJHRVJnb191VWlfNzZxNnFqdnAxVEU2NUtMLTFyZWlERVlXSnhqZWljSFVCUW11UnFQMi1KRVRMaUZpVFhhWmN5RjMzc2pwLUNPSV80YVl0ZUV4UVFfd2xJQ2hoSXg4VFdoOGkyaEdUSFZTbmo3OENyTjJUUV9YS0Nz?oc=5>
+- **特朗普** | 特朗普称美国已经击败伊朗 伊朗高官回应威胁分量不大 <https://news.google.com/rss/articles/CBMicEFVX3lxTFBDT0FNNjdxZWFFNnVibXVfMXhJc0lHSDZHaXBLZHQ2dUdsVzdISjU2RG15enB6X0NLSURuNjJCNW8yc1lRSHpNYjd4V0plRE9OSWZkRWY1SzdlME4zb0g0X2daRVdzYmJBVnRIVzRsV2g?oc=5>
+- **Trump** | 美国或增加俄罗斯柴油供应，燃料价格受关注 <https://news.google.com/rss/articles/CBMiuwJBVV95cUxQNVJtZ2dtZjFNQ3h1NFdqeWlwa0JHemR1d1ExNTg0VUg0ZDBtYnpUYi1Za0dDQzVRckt0Ui1tZmlNMERJSk1IMVFZQTg5Yy1jY0puYzltWHJDMWs2YkVGT0l6eHlTazNocU5WQUlOZThqOFQzTWdWZ2o5dXJ4YjhPZng4bDVLREJXejIxX2s2MzRBOTZ4YURmbXBMUzdqU3Yzdm1YcEJNWVVXVkFORnV3V0dWWjNoYWpuVnFmM1F2NVVxOWVOczVGUUxyQlhZTmdDcFkyLWhQNmU2U0xraWFYZ044MXZRcHVGOVlQbE85di1UX2NMZTJ1ZWl5dkI4T3h2S0NmMzhNb1NwYmwtVmhRVHVMeEdDNVlyZXJGMHBfTHV3VExRUUNWMGxEaHc2aW5QdC1keTU5V1JaSlk?oc=5>
 
 ### 2026-10-28 01:58  (11 条)
 
