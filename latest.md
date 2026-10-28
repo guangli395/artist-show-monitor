@@ -1,84 +1,116 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-27 22:48**
-- 本轮扫到 14876 条, 新增 **9** 条
+- 最近更新: **2026-10-28 01:58**
+- 本轮扫到 14887 条, 新增 **11** 条
 
 ---
 
-## 本轮新发现 (9 条)
+## 本轮新发现 (11 条)
 
-### 蔡徐坤演唱会上的浅色西装造型为什么被称松弛又潇洒？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801o77w.html>
-
-### 蔡徐坤在演唱会现场和粉丝互动时有哪些有趣的松弛瞬间？
+### 蔡徐坤新加坡演唱会大背头全包眼线踩高跟鞋唱情人
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801o77q.html>
+- 链接: <https://k.sina.com.cn/article_7810739724_m1d18e6e0c03302xlx6.html>
 
-### 梅拉尼娅·特朗普斡旋的停火在俄占奥列什基生效，俄罗斯导弹袭击基辅等地
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-10-27 22:16
-- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdGdrSzlpMkxQak1OOF9rU1dSOTBVMnEyVVlUcUdkNU1sSXB4aHEzbXpMZGktaV85SF9VYkJOTkhTM0FHTV9EZ2g1Qy0wVC1JNjVfOVl3bm9tdWxQcjZVM2gxS0lZN04yVFpuSHdEVEtiek4yRzhsejlrVElaXzJyQlcxTGU2eFFJOElETmdoa2FwZU9ZSE5DcTM5TVZodV9MOHdIekNteUdPZ25LaFlXblFpSldCRVlwQlBJbjFmRVA5THJ4eHJjcmJzSUM2R3VtUWlZX19Ra2g1eExkQnfSAeABQVVfeXFMUGEzMGlJOXVka0FBMEd5MzViZ0JjN2xPQWU2a3FMVnZnN3EyZWVoMGFQYmVQbllfRUt6ZTQ5ZExfYS0yd1ZESjh5anM1c2VwaHZZTGQ5alIxNlplbG9hSTE0UFZOR1B5bWNDOXZwTGR5R3hVNVRFOFBhRnhhTGJieXNldUNsSDlONG1VaklKOUJ4SEVMZlN3WmRhSUk3UE41dzdRR2VFb2YzWlJXWWw1bW5hVExuLWtXOUFiZVJGOTJfeWtoN2ZOejNSdHRLb3p5aDhzWm54b0MtZEZ2ek1DQXU?oc=5>
-
-### 美国能源部长赖特：特朗普政府可能允许更多俄罗斯柴油进入市场
+### 特朗普：让我们把委内瑞拉变成“第51个州”吧，这样它只需要改选州长
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-10-27 21:36
-- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxNVEF4cUdRcEprSDhmQTdUeEFJN05KazNfbW5mSVVHRWRMMW9FQjZpQmc5bWtkUmRuTW14SlMySzVvMksyc2liaU5WVXBVYkRWQzVGTEdDNWdBWDdnODVWUDRTRGZmRXNtSXBscnFZaF81Z2k1MG1OTVJaeWprbmN0UHF0bzgwQWZBSGVXSG5GRQ?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-10-28 01:15
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9uc0NxcUxNeWVGa3Zsa0FFZV8xYnE1YUtNdjNnSWl6WXdjNjA2ZUdvcWlCeVgtemw2VEFCaGtBalJyNlZBWFNnSFBYUnE?oc=5>
 
-### 特朗普再为质疑选举结果铺路
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-10-27 21:12
-- 链接: <https://news.google.com/rss/articles/CBMi-wFBVV95cUxQNzdYbFVJSUFXbWZqSExoekdBZ2ltS2JhbjBLc2lkbldKMi1nVHpmZ1J3Ry0zd1RDb1NDUmppejdnUTVFTE9aSFNSdUVacE13cTNyb1NVNlBZTzQ5QnJpMnFOT1JfaXFvSTJ6R0Z0S3B4SDlMak10U2k0a2xQQ3lUZUtwaFN2RGlfa2VMdjRuTF8yM3UzT0RVQlItOF80QXltbHZlTllmSkVpM2hQZnEzNFlIQlBYU19MWFFBQVFPVWFFb29XOW42QmF3OEx4eUx3X0JJQ090NmF4aTE4TzBsNHpDN0FxRVBoVXVHMmFxVXpYemZvc1kxQmk3QQ?oc=5>
-
-### 特朗普：我们很快会在所有相关文件中正式禁用“AI/人工智能”这一术语。
+### 特朗普撤销甲烷排放限制 称可节省450亿美元
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-10-27 16:21
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1xUlZGU2Y3b2VNZ3NnbFpXLUlTQllTeE1XcUFKWG5IU1hNd1NReE1vTDUtVGRYNFYydGh0U3prQTAxb0hVRFV2bEw3bw?oc=5>
+- 场馆: 联合早报
+- 时间: 2026-10-28 01:39
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE54em9kNzVPRXJ4Z1Z0UVNqeXJYY3ZhNU9EaU5pN0w4QlVtYklzUkFjMzl4NmwyWk9SQWhiSmQ4RnFraU1VNGhHeUJzUkduY2J0TGRzQjAzS3ZzSHhUN1dLUzM0MGk2UjRwbGc?oc=5>
 
-### 伊朗战事推高油价，特朗普支持者仍呼吁“再给他时间-市场参考
+### 特朗普：委内瑞拉或成为美国第51个州
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 金十数据
-- 时间: 2026-10-27 15:01
-- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE14YjhST2NFb0EwQkllRnQ1emh0Xzd2NzFOLUtPR3dGYmtBRFZFdndwUlZhOE9raEplNXhwbDVWd2w3V2toS2R1Mm11R0F6azA?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-10-28 01:12
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5CTXpGSTNaeHl1VkMwTkczSlNLREdVRExvYk55cllacUZDWFFFelhqNVExLWVnWVd6M0Q1LVVOeDZZbVRuZnllWThnMkQ?oc=5>
 
-### As Trump Touts Energy Companies' Fortunes, U.S. Consumers Face the Most Expensive Year for Gas Prices Ever
+### 特朗普：我们将正式禁止一切场合使用AI！统一改名SI（超级智能）
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-10-27 21:36
-- 链接: <https://news.google.com/rss/articles/CBMisAFBVV95cUxNczBGZERnTzF0cjMyMjBXQ1VYX3RvbWM2dVZqam52OERmLUh5RzFuVldOZUJ6dFNtaWFyXzRldTBTSzJ5YlJsY1NKcUdra1lQV0xib1lnQUprWW8wRlhrTU9uVFFhd0FNNzJtSDBzT1gxS3RRR2hLWEhUM1NzMFlwSkg4QmhrQnR1THBzTTdzVXpFZlh2dFpuX2RaTW80N3N5NVU5OGdhVGRLT0JjQnZIVQ?oc=5>
+- 场馆: 驱动之家
+- 时间: 2026-10-27 22:35
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE9wUkNPUkt2bzQ1SUNUUWx2ZWdFak5seUk0UHBub0lfOHZRMGxQVE5Db1ctbl9OdEU0aWFGS1V3T096WFBmZldWcDVqNjlDT0RPZnJUVGpGVVI?oc=5>
 
-### 特朗普的高尔夫帝国成了十亿美元级的避税工具
+### 特朗普特使提议“美国公司重返俄罗斯石油市场”，美国希望下月美俄乌三方会谈“取得进展”
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街见闻
+- 时间: 2026-10-28 00:57
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE11RzJPUlpCT2Nsc2NrMDFRa1YwUFpNVFhib3Y5N0xJUmxZS0pFNGV1eVRMUl9tNjU5WDVINmVpOHdBZ3dEQjdBUkZQYnBtSVl6VkdJ?oc=5>
+
+### 特朗普就三方会谈表态 美俄乌或将很快对话
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-10-28 00:00
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1uazZlOWZBNFp3aTg1MjlNcEV4WXhRNHY1R3RkVUJPZ2ZhdG14Y3J6UGU3ZWhHdmRzbGpFYzRmX1BmY1BfVmNVOVBuNUtWU241SE9ZckdmQVBwMHJBMFN4aERnejBLRjhyVmwtenFkdGw?oc=5>
+
+### 特朗普批准小博索纳罗入境美国
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-10-28 00:26
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFB6VC1Gc2I0amI0Z2FZSjUtWDhuWWczV1YyR1VUSGxtWjE2elgySWpCdllyUjdCaW9scF9RSDRlemJMOUxNQ3FHaXJ4eko?oc=5>
+
+### 特朗普夫人：“俄乌奥列什基停火提前生效，范围已扩大”
+
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 搜狐网
-- 时间: 2026-10-27 09:30
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxNY3Mzd2ZITC1JNTRvZFdBc2pGVkdsVkRvN0x0Nl9OY1hNSzlqZHVwNjJGVnJlTXVWemxSTEM5SFVUN01Day1xZzFWM3BXNVh2RDNhQmp2UVdULUFURFhSeGtzeF9aaklRZ2MtNXBxOWhpdUMwckEwQVA3M3A0c2hyeDU5VDNJQXRzVERVZw?oc=5>
+- 时间: 2026-10-27 23:43
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVFV1d2pkUE5LZnlQS0Zzam5ZSmsteGVGLWpPWFRPOVh4LWJFZWF3Yl8tZVlGQjIxeWpCX2ItejhSVFo0WjM1dEVRMzVoWHBBc1p6OHE0VXoxLXh3VWMtelNiaFBmSFhudW1ld1dqZWxXbXIzdkEtWDQ3WjRMbTBSc0xNNkFWd01f?oc=5>
+
+### 特朗普着手放宽油气行业甲烷排放规定
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-10-28 00:47
+- 链接: <https://news.google.com/rss/articles/CBMinwFBVV95cUxPMGk3SlVPdEdpcl9kNnBwWjlQZ1ZmdXBRQmp4X29pMGtrUVBaUlRTWFpONEk2dU92OEsxajZrVTFBLU9ndmxtem50OUNDcFJDXzQ1eHlTSld3WnpEVFV6akJXM2hiNENjdVNlQlhSTVF6Y18zYXlzV1ZuU3NBQWhScU5wRFllang0TWFLWFRBUmlpQVh3cEFmMHhDLUNraTg?oc=5>
+
+### 纽约时报社论：特朗普失败了，必须追究他的责任
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 加美财经
+- 时间: 2026-10-28 01:00
+- 链接: <https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0aHI1Z283RUYxeVNjWlNOaVRDOXhrdnlnT2Ewd3F4d1phaUFHUm1ka2g5RWpTQ1p0Q1dRdHdGMHlucXMxczBGeGZINHFVMjdSQWxwTGVuWnpNdw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-28 01:58  (11 条)
+
+- **蔡徐坤** | 蔡徐坤新加坡演唱会大背头全包眼线踩高跟鞋唱情人 <https://k.sina.com.cn/article_7810739724_m1d18e6e0c03302xlx6.html>
+- **特朗普** | 特朗普：让我们把委内瑞拉变成“第51个州”吧，这样它只需要改选州长 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9uc0NxcUxNeWVGa3Zsa0FFZV8xYnE1YUtNdjNnSWl6WXdjNjA2ZUdvcWlCeVgtemw2VEFCaGtBalJyNlZBWFNnSFBYUnE?oc=5>
+- **特朗普** | 特朗普撤销甲烷排放限制 称可节省450亿美元 <https://news.google.com/rss/articles/CBMiakFVX3lxTE54em9kNzVPRXJ4Z1Z0UVNqeXJYY3ZhNU9EaU5pN0w4QlVtYklzUkFjMzl4NmwyWk9SQWhiSmQ4RnFraU1VNGhHeUJzUkduY2J0TGRzQjAzS3ZzSHhUN1dLUzM0MGk2UjRwbGc?oc=5>
+- **特朗普** | 特朗普：委内瑞拉或成为美国第51个州 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5CTXpGSTNaeHl1VkMwTkczSlNLREdVRExvYk55cllacUZDWFFFelhqNVExLWVnWVd6M0Q1LVVOeDZZbVRuZnllWThnMkQ?oc=5>
+- **特朗普** | 特朗普：我们将正式禁止一切场合使用AI！统一改名SI（超级智能） <https://news.google.com/rss/articles/CBMiWEFVX3lxTE9wUkNPUkt2bzQ1SUNUUWx2ZWdFak5seUk0UHBub0lfOHZRMGxQVE5Db1ctbl9OdEU0aWFGS1V3T096WFBmZldWcDVqNjlDT0RPZnJUVGpGVVI?oc=5>
+- **特朗普** | 特朗普特使提议“美国公司重返俄罗斯石油市场”，美国希望下月美俄乌三方会谈“取得进展” <https://news.google.com/rss/articles/CBMiU0FVX3lxTE11RzJPUlpCT2Nsc2NrMDFRa1YwUFpNVFhib3Y5N0xJUmxZS0pFNGV1eVRMUl9tNjU5WDVINmVpOHdBZ3dEQjdBUkZQYnBtSVl6VkdJ?oc=5>
+- **特朗普** | 特朗普就三方会谈表态 美俄乌或将很快对话 <https://news.google.com/rss/articles/CBMicEFVX3lxTE1uazZlOWZBNFp3aTg1MjlNcEV4WXhRNHY1R3RkVUJPZ2ZhdG14Y3J6UGU3ZWhHdmRzbGpFYzRmX1BmY1BfVmNVOVBuNUtWU241SE9ZckdmQVBwMHJBMFN4aERnejBLRjhyVmwtenFkdGw?oc=5>
+- **特朗普** | 特朗普批准小博索纳罗入境美国 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFB6VC1Gc2I0amI0Z2FZSjUtWDhuWWczV1YyR1VUSGxtWjE2elgySWpCdllyUjdCaW9scF9RSDRlemJMOUxNQ3FHaXJ4eko?oc=5>
+- **特朗普** | 特朗普夫人：“俄乌奥列什基停火提前生效，范围已扩大” <https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVFV1d2pkUE5LZnlQS0Zzam5ZSmsteGVGLWpPWFRPOVh4LWJFZWF3Yl8tZVlGQjIxeWpCX2ItejhSVFo0WjM1dEVRMzVoWHBBc1p6OHE0VXoxLXh3VWMtelNiaFBmSFhudW1ld1dqZWxXbXIzdkEtWDQ3WjRMbTBSc0xNNkFWd01f?oc=5>
+- **Trump** | 特朗普着手放宽油气行业甲烷排放规定 <https://news.google.com/rss/articles/CBMinwFBVV95cUxPMGk3SlVPdEdpcl9kNnBwWjlQZ1ZmdXBRQmp4X29pMGtrUVBaUlRTWFpONEk2dU92OEsxajZrVTFBLU9ndmxtem50OUNDcFJDXzQ1eHlTSld3WnpEVFV6akJXM2hiNENjdVNlQlhSTVF6Y18zYXlzV1ZuU3NBQWhScU5wRFllang0TWFLWFRBUmlpQVh3cEFmMHhDLUNraTg?oc=5>
+- **Trump** | 纽约时报社论：特朗普失败了，必须追究他的责任 <https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0aHI1Z283RUYxeVNjWlNOaVRDOXhrdnlnT2Ewd3F4d1phaUFHUm1ka2g5RWpTQ1p0Q1dRdHdGMHlucXMxczBGeGZINHFVMjdSQWxwTGVuWnpNdw?oc=5>
 
 ### 2026-10-27 22:48  (9 条)
 
