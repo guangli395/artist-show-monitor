@@ -1,61 +1,39 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-29 19:06**
-- 本轮扫到 15017 条, 新增 **13** 条
+- 最近更新: **2026-10-29 23:27**
+- 本轮扫到 15026 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (13 条)
+## 本轮新发现 (9 条)
 
-### 蔡徐坤在演唱会上说的“我也是会冲浪的”是什么意思？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923111_1d5ae15a706801ffko.html>
-
-### 蔡徐坤脸是王牌舞台是王炸，演唱会掌控力炸场
+### 蔡徐坤新加坡演唱会出场瞬间舞台之王
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2495457342_m94bda83e05301et7u.html>
+- 链接: <https://k.sina.com.cn/article_2495457342_m94bda83e05301eu0k.html>
 
-### 蔡徐坤新加坡演唱会开唱，上座率引关注
+### 介绍一下2024年周杰伦演唱会的门票购买渠道
 
-- 艺人/关键词: **蔡徐坤**
+- 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6363486338_m17b4b188205301wzuq.html>
+- 链接: <https://k.sina.com.cn/article_7879996100_1d5af32c4068013xp6.html>
 
-### 人员动荡、派系对立：中期选举前的白宫阴霾密布
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-10-28 17:28
-- 链接: <https://news.google.com/rss/articles/CBMid0FVX3lxTFAxQVRPN0NVZGxFUVEyU0JzMWdFaHVxMXh0elM5YXZJamxhdlV2VGJ2aFhmRF9CellzZ2F5M1VKd3N6NFVnR2J6b1VpSEpCbWxPbXRxaWRTTldaZEJWUDRvWUhzQ00yX3VJd2ZtUU5GamRlVFJKSHJR?oc=5>
-
-### 特朗普悬赏百万美金，征集“选举舞弊”线索
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-10-27 01:07
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE83d1dQZUFORlpfVXpnbnlYNEJYLVRSelYzVnpGMjcxTXhkNFJnNFZOZVZRX1NDQTl0aGFmX09zRld1eFBTb1IwV3diTkNnNHV2dXRRZDFvQXRLTDJ6QkNtQmFsek1CdFVHcWZmbG02V0xudWc?oc=5>
-
-### 平局也是赢 特朗普为内塔尼亚胡“半场开香槟”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-10-29 04:39
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZNzVKN0ZMWENCOVItYzdkYlNMZ3hJemRnamlyQ3NDOWdlRjBsRThibldnTHlxZ2JWVzFjZ3dnc2h2NzM1NlB3Z01ZM1piOE5rSF9SbVZNTno2ZDE2WGlFaTMzTEVrTnptaGtvOEsxbHdZMHlqeDRxSA?oc=5>
-
-### 特朗普总统：副总统万斯已接触伊朗领导人，提出提供人道主义援助
+### VOA今日焦点 (2026年10月30日) 特朗普、奥巴马展开最后一轮中期选举助选
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 美国之音
-- 时间: 2026-10-29 16:50
-- 链接: <https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZk43OTBMdzNtaE4yYUhYdExZZ08wZ05yQmk5TlR6dVl4NDVTLTBqZ3dLQ3ZZRmJkbC01WVB5RTREZEdPX0Q5Q1dPN1RHWHF1VDBRa2VpVHJNWXRXZTF5WFN4MGctbFhZNjRIYkZGanFJbmFxVDg4MncwSWUzR0NjcHVzUEVWMUlfdnU3TmQxcGhfMzQ1LTJFbWZuaVVmb3RKV21aYkUyZlZqMThSbkVWZ2hlYmhZMGFZSXNkekd2bVlZR3NxUHJ5b2RGdlB5YU5CMnVRY9IB1wFBVV95cUxQU2JCOUdLT2pRSERfX1plVGlJaHFHRDJsN3ZOajJkTFFOaVF1TGlSWVRzR1pVRm9FQmh5TW9RaExTZUNuMmFUdGtDTkpnMzRGWkM3WUQ5TVkxZlBCX0J0TW5WVVZyTjNJbFh2eDdqeWFyb2NfcGRXVWVBX1NtSDFrRFAtaXluOGt4aGVBd2xXZU9OakdiZGVqRTQteWdXNDgxQkJJckJuR2pTaFQ3R1JMT29rNmV2WWVFczVMdTRvRlJHdzZCZDQ1ajQyNUNMaThfbHFyWHVJaw?oc=5>
+- 时间: 2026-10-29 21:27
+- 链接: <https://news.google.com/rss/articles/CBMibEFVX3lxTE0ybUcxSGJYeUN2S1pLTHo3Tkh0S2hQWmw3NExjSW9xbEk2WG9ycVllNzctWjFvdW8zdWF1R2wyZXlmazM1WEpSekJKVDh2amUzZ0c4X0lCNW9zcVhWeE8wSTROUjBiXzN3c1dtQ9IBb0FVX3lxTE5oX0xxS0o4V0tXTzdhcmZiMGpHS2NvUkhoWTVfSlhSUlItVnhDUTFyekVOQTMyeVl3OHdkWTdDRGF4QTN0Ym9KNWJ5MmtYbUljZlNCMi10TzI2VVF0dy1QdEZydHFBb3c0Qmo3S04tYw?oc=5>
+
+### 民主党议员要求特朗普保留与AI的聊天记录
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-10-29 20:36
+- 链接: <https://news.google.com/rss/articles/CBMiugJBVV95cUxNU2ozdlBTUFVRWVpxWEltWFQ5dnBVYzJtYUhLV3lBdGE4eXJzZ0tKdlZkV1VOenM2U05URHJxbkFJNVV0TVIwN3FBUHdWSGVIdEhxT1pqQzM5VmhlR2RIcEdOTHJlV1BpRnk1Tm1uLW1RT1M1U0ZrYW4xSGNUeFlpc3hzNVFydGpTZjBaMXM4N3B2Nk8ybnNwV2NFOTEtZzZybE9uUjlVYXg2TXJwUlFRWGc2Ynd2eHdmdERpdjMxdXl4ZkdDcnNxV19KU1EzNU11aE1YNjk0ZDcxR3phY3BxTFh2NmFzZkdoUE43UWJZeTA3bnlBYlJBY05xVWlybElyRVdiSko1V0d3bGRsT3hBSGp6czB2WUxoTUdRclU5cU81ZTJKWVl4S3RvWE5tTld2SHhvU2xtRHRuZw?oc=5>
 
 ### 特朗普发视频讽刺法国：别把度假的钱花在法国，去法国还不如在家看《悲惨世界》，那讲的也是法国的事
 
@@ -63,52 +41,56 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-10-29 00:40
-- 链接: <https://news.google.com/rss/articles/CBMizgFBVV95cUxPV040aU1CM0twenlQRzdQZmVqeDZHNk9ZaTdQa0NuMzFjRlZjbWZBa0FLcGtPbTNzdXBJTUhWSVlWMG9nTkc0ck8wczFRcUJrYlFtb1F1QVF5c2dzSzBfb1NrU0hPbS0wNkhhMGlKd25nZ0Y1ZUNzX0YweXVLMmI2NkNiNENpei1YbUVIOXVqVnFQcHFxOFRLUlBnck5rQVpQUW1OU0dXZVE2bXVVWGNPdVpJZ3lyYXI2RHZheEZFUkNVNVA5VmFlVWlhMFZzQQ?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxQSE15b29EZzF5LXlxZUJINVBaOEF1MFd3bXViWDFRbDZHcVdTMTRuTmNRTmpNYWpsbkFLVUtTUWJqRkkwZ25LM2dSY1JzTTFGblJmcDZFX3FCLUFtNDJLSDR4Y0xKUjdmdUFnOXJ6M0JVNndqT3VXWVVZdDNybjZHdEdsNFFfVVJSZG1hbHpPaUNiSFFKdzRURGdGamFMNFhvU2FKYWdkMWhqSkhIcmxpTWIyUzVMb1k3MmhiTThyNWY0MjdldmVnbGF1REF1UU0?oc=5>
 
-### 特朗普再提“台湾偷走芯片生意”，台外事部门负责人解读为“有挫折、羡慕之意”引发批评
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-10-29 08:02
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1GSkt3SE1wV2h1SlBNSDRzLWx1LXVJRU0zTFdQRk9PQjBxZndBbWdpdmF1SFp0QXJUYmpwVzRkT1pSWlJfdnF6SnJfV0tFSGxUc2FfakpzZl9BNjBtVjdieGVtdWJHUnQwN0dhUlNLZVI?oc=5>
-
-### 快看视频|中期选举倒计时，奥巴马“对阵”特朗普，两党攻防战谁强谁弱？
+### 白宫顾问哈塞特：特朗普尊重美联储独立性，10月通胀数据将决定政策走向
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 上观新闻
-- 时间: 2026-10-29 12:39
-- 链接: <https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvdFMySGpPZVg2RXFlR1hpaFpUd09OX284aHBhbmdCLTJfSW1wc2Y2UlJJUDBGdmJGeTB4TXVrSUF5Rkk0b2RzOEw5SGZPNVRCZGZneDQwRDV1UQ?oc=5>
+- 场馆: 华尔街见闻
+- 时间: 2026-10-29 18:41
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LXzhVV0NYU2JVSVZZNlJsV2JDa3hFcUYwS1F3N3ZxMEtLcGpBZFlrM0dCUGFURDN4aEhhNXgtN2ZGUDJWTlpKb2JZUnZZU3RqWXNN?oc=5>
 
-### 美国中期选举：特朗普不参选 政治命运却受考验？| 世界大解说
+### 特朗普集会大谈白宫装修，共和党人忧其失去政治直觉
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-10-29 09:00
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE94ZGdaNC1YMnNqSFNuVFpsdVR2aHpLM0kwbzJyOWRDckg5ZWVjd1ExSWZ1ejd0bE42VTdQYVdmZGZ2VkRMVVRxR2N2bHRZQmtsMHV3VHRCdThEQXhCc28tMFBzUU9yaEZzSUE?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-10-29 10:56
+- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTE1PcHlIZFh0U0loZVN1RmhEeldkaHZiTi1rQ19yaVhxZXRWSzcyRVRnLUJHcHVxd1FiMHNPTjFpNTVlMmVfZmJNdXBuNHdEN2dlcWc?oc=5>
 
-### $美光科技 (MU.US)$ 为trump投票
+### 美军向特朗普汇报对伊朗军事选项 伊朗方面称已收到美副总统信函
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-10-29 13:58
-- 链接: <https://news.google.com/rss/articles/CBMingFBVV95cUxOLTZEX3pRelN2Tm9mU0lrM3RHUHVDM3FFQmp4aUtXeXBhbHhSNC1PX0lBaFJ4aGFiVjFuOUUtWGdpZFJocndIcXF2Q0VORi1JMGg4ZDNPSGtUdE5aM1ZsbzA1djNDOF9pOG9Ha256b3lQYUU5by14emRTZGxrSWNzSDRWaFpoZlBNTVBGV19yT19kQnZiRHlXeFFzaHI3QQ?oc=5>
+- 场馆: 新蓝网
+- 时间: 2026-10-29 22:55
+- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE5TSmNkMk1MV0lhYlJtd2tZcVY5LUJRSFhNakhOVGp0OHdXZG12TXQxZ1ZwV1pIeXU3aWdtcWZEcjNSbHBNbnlTN3diZGNJY2s?oc=5>
 
-### Trump T1智能手机被证实是HTC的仿制品：博主扎克· 尼尔森披露了详情
+### 美军中央司令部司令向特朗普汇报对伊朗军事选项
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: UA.NEWS
-- 时间: 2026-10-29 06:59
-- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcnBNWWV1NldUek9GMC14ak1KMHJxS2piUUs0WW5yVlVMdmdGZEl1ZDkxRFdQcVp3cWFDbFo1TDJNSmo4VGYxQVZoYkVUY3VaakVlN3hlX3h6UTVncHVXZnlmVnNuX1hBMmpuY0pnVTQxaTRyTG85Mms0dFJiZ3pXRW9icnowUDNRLTh3Uy1OQ3YyVGhWMlJtY01VZ2k1d2N4cjRMTWI3UGZKQQ?oc=5>
+- 场馆: ThePaper.cn
+- 时间: 2026-10-29 21:01
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RUTFrd3lXVG9HV0lGajMtVElXc0FVM19KaF95LWZnMnpxOTdTcGdic3dlMGRET1JOZWJ5bmFIMGxfT0NtQzVWRkhtRVRNbFJpZGRKN0VMSWhOLVlNYk1OWg?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-29 23:27  (9 条)
+
+- **蔡徐坤** | 蔡徐坤新加坡演唱会出场瞬间舞台之王 <https://k.sina.com.cn/article_2495457342_m94bda83e05301eu0k.html>
+- **周杰伦** | 介绍一下2024年周杰伦演唱会的门票购买渠道 <https://k.sina.com.cn/article_7879996100_1d5af32c4068013xp6.html>
+- **特朗普** | VOA今日焦点 (2026年10月30日) 特朗普、奥巴马展开最后一轮中期选举助选 <https://news.google.com/rss/articles/CBMibEFVX3lxTE0ybUcxSGJYeUN2S1pLTHo3Tkh0S2hQWmw3NExjSW9xbEk2WG9ycVllNzctWjFvdW8zdWF1R2wyZXlmazM1WEpSekJKVDh2amUzZ0c4X0lCNW9zcVhWeE8wSTROUjBiXzN3c1dtQ9IBb0FVX3lxTE5oX0xxS0o4V0tXTzdhcmZiMGpHS2NvUkhoWTVfSlhSUlItVnhDUTFyekVOQTMyeVl3OHdkWTdDRGF4QTN0Ym9KNWJ5MmtYbUljZlNCMi10TzI2VVF0dy1QdEZydHFBb3c0Qmo3S04tYw?oc=5>
+- **特朗普** | 民主党议员要求特朗普保留与AI的聊天记录 <https://news.google.com/rss/articles/CBMiugJBVV95cUxNU2ozdlBTUFVRWVpxWEltWFQ5dnBVYzJtYUhLV3lBdGE4eXJzZ0tKdlZkV1VOenM2U05URHJxbkFJNVV0TVIwN3FBUHdWSGVIdEhxT1pqQzM5VmhlR2RIcEdOTHJlV1BpRnk1Tm1uLW1RT1M1U0ZrYW4xSGNUeFlpc3hzNVFydGpTZjBaMXM4N3B2Nk8ybnNwV2NFOTEtZzZybE9uUjlVYXg2TXJwUlFRWGc2Ynd2eHdmdERpdjMxdXl4ZkdDcnNxV19KU1EzNU11aE1YNjk0ZDcxR3phY3BxTFh2NmFzZkdoUE43UWJZeTA3bnlBYlJBY05xVWlybElyRVdiSko1V0d3bGRsT3hBSGp6czB2WUxoTUdRclU5cU81ZTJKWVl4S3RvWE5tTld2SHhvU2xtRHRuZw?oc=5>
+- **特朗普** | 特朗普发视频讽刺法国：别把度假的钱花在法国，去法国还不如在家看《悲惨世界》，那讲的也是法国的事 <https://news.google.com/rss/articles/CBMizwFBVV95cUxQSE15b29EZzF5LXlxZUJINVBaOEF1MFd3bXViWDFRbDZHcVdTMTRuTmNRTmpNYWpsbkFLVUtTUWJqRkkwZ25LM2dSY1JzTTFGblJmcDZFX3FCLUFtNDJLSDR4Y0xKUjdmdUFnOXJ6M0JVNndqT3VXWVVZdDNybjZHdEdsNFFfVVJSZG1hbHpPaUNiSFFKdzRURGdGamFMNFhvU2FKYWdkMWhqSkhIcmxpTWIyUzVMb1k3MmhiTThyNWY0MjdldmVnbGF1REF1UU0?oc=5>
+- **特朗普** | 白宫顾问哈塞特：特朗普尊重美联储独立性，10月通胀数据将决定政策走向 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LXzhVV0NYU2JVSVZZNlJsV2JDa3hFcUYwS1F3N3ZxMEtLcGpBZFlrM0dCUGFURDN4aEhhNXgtN2ZGUDJWTlpKb2JZUnZZU3RqWXNN?oc=5>
+- **特朗普** | 特朗普集会大谈白宫装修，共和党人忧其失去政治直觉 <https://news.google.com/rss/articles/CBMiUkFVX3lxTE1PcHlIZFh0U0loZVN1RmhEeldkaHZiTi1rQ19yaVhxZXRWSzcyRVRnLUJHcHVxd1FiMHNPTjFpNTVlMmVfZmJNdXBuNHdEN2dlcWc?oc=5>
+- **特朗普** | 美军向特朗普汇报对伊朗军事选项 伊朗方面称已收到美副总统信函 <https://news.google.com/rss/articles/CBMiT0FVX3lxTE5TSmNkMk1MV0lhYlJtd2tZcVY5LUJRSFhNakhOVGp0OHdXZG12TXQxZ1ZwV1pIeXU3aWdtcWZEcjNSbHBNbnlTN3diZGNJY2s?oc=5>
+- **特朗普** | 美军中央司令部司令向特朗普汇报对伊朗军事选项 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RUTFrd3lXVG9HV0lGajMtVElXc0FVM19KaF95LWZnMnpxOTdTcGdic3dlMGRET1JOZWJ5bmFIMGxfT0NtQzVWRkhtRVRNbFJpZGRKN0VMSWhOLVlNYk1OWg?oc=5>
 
 ### 2026-10-29 19:06  (13 条)
 
