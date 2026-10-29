@@ -1,170 +1,98 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-28 20:07**
-- 本轮扫到 14963 条, 新增 **22** 条
+- 最近更新: **2026-10-29 00:08**
+- 本轮扫到 14972 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (22 条)
+## 本轮新发现 (9 条)
 
-### 一博科技(301366.SZ)发布前三季度业绩，归母净利润1.61亿元，同比增长834.98%
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-29/doc-iniwvftr5706727.shtml>
-
-### 蔡徐坤2025年演唱会金发眼镜西装造型具体是什么样？
+### 蔡徐坤在演唱会现场有哪些高情商的即兴互动瞬间？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776724_1d5abd9d406801ndby.html>
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068018bq0.html>
 
-### 蔡徐坤在演唱会问观众来几次发生了什么趣事？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849300_1d5acf554068014t0w.html>
-
-### 蔡徐坤在新加坡演唱会上说的“无所谓风”具体是什么意思？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849292_1d5acf54c06801eu9m.html>
-
-### 蔡徐坤演唱会上&#039;那我怎么办&#039;的玩梗回应是什么情况？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849300_1d5acf554068014t0a.html>
-
-### 蔡徐坤演唱会上说的&#039;那我怎么办&#039;是什么梗？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849300_1d5acf554068014t08.html>
-
-### 蔡徐坤新歌歌词里提到的&#039;公众人物不是圣人&#039;具体表达了什么态度？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849300_1d5acf554068014szw.html>
-
-### 蔡徐坤2025年演唱会的金发眼镜西装造型具体是什么样的？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923375_1d5ae16af068021g18.html>
-
-### 蔡徐坤新歌歌词太敢写！发歌不解释的底气从何而来
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879849300_1d5acf554068014szu.html>
-
-### vivo X500 Pro Max拍演唱会真的能看清歌手发丝吗？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7880069146_1d5b0501a06802fmvi.html>
-
-### 『Hi-Res MV』黄金甲 - 周杰伦
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://video.sina.com.cn/p/finance/2026-10-22/detail-iniwaezu8059573.d.html>
-
-### 支持朝鲜融资网络？华盛顿予以制裁
+### 特朗普：伊朗在医疗物资方面需要帮助。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-10-28 18:01
-- 链接: <https://news.google.com/rss/articles/CBMilAJBVV95cUxQM242cUt3MGlhU3ZESG5EQ3lSLTNoYWlHME1WdF8tdzFRUE1VSU9DNzF5V3VETlRnb2MxcVVxTC1GMldMZ0RXcGhOdU9Zc3NlMEg1NVNxQW4tUm9QRERHbzlEX3gwTkF0WUlDclR4aFcxeTRxU2J6QldIdWxOZERETk05M0Y0V1B3YTFWd0hFcVNaa2h3aUZVYzFIVWtZV2V2bzNBLW5pSFhYc2JjYmk4cmpOY1JwQjduMnE0Z2w3eDAtVzBha3JHSTgyWnI2ejl5QklIdDRKX2wzaXh4d210OEhCVFVFbG9uVjJkSFk1cklEVXRWS0s4dG9tTWxELTVUeHJQc2szN0haX0JyMWxJUGloNl8?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-10-28 21:28
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ZNldJOFpzSUtOLVZOYlE0dFBhaklLUVlWWS1VamJYMnE4R1N1Nk5GblZDSTNIcGNINk1uYXpSVlFnNjZzcXpMeExPaw?oc=5>
 
-### 特朗普：很快将安排与泽连斯基、普京的会晤
+### 美国警告海湾国家做好准备！中期选举后或对伊朗发动猛烈打击
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-10-28 09:00
-- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxNdUNJRVpPNWNoWmxaVENVcVAySHpqc210YlhxcGd3ZWpkdDROYTJMWEw3VkNjR3dRYS1ocHZsYmV4TURsYlFFNzFRbmtfTTBLNTBSRDBnWG9zQ0VVczlyTzA0VkFCUWxPWTc2eF92bTh3TkxqamlEYWVUUUE5ZGU0OHRTY3RFdG9oZzViWlAyVQ?oc=5>
+- 时间: 2026-10-28 01:40
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxOakJXcnphTzNnVGNBU1FkOGtURzgyZ1FuRlFHbnpwQ21xQ3g4UGF1QTNZcWE3U0UySVhoRmxCSXR6TV9RbmNLWGxZblVXazVTVFZwQkZYckhJY0FkRWZEVC02R3VFRXJmT3VYZTlfcDNQS0pfUC1OTk9nMUl0cHRpVTUtcVpsQUtHdlFWdzRYdGRWTjJsYU5zMkh4U1ExeXZmMzFRT1c4cHZOYjVKZlpGWmVsVEg3dUZnNGFkMDRKSmZxS3Y2TWdKcXhwOEpsLUE5?oc=5>
 
-### 特朗普：将安排普京与泽连斯基会晤，具体日期未定-市场参考
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 金十数据
-- 时间: 2026-10-28 08:21
-- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYdGNJZFdCVVRsNGFDMDRGQ1NSSXVLbUx6UFBfSHpaMHktWXdidWdDU20wXzIwNVp5WVVGUDZUUFcxM1hrUHBnQTU1VVEzYkE?oc=5>
-
-### 密歇根州联邦参议员选举白热化，特朗普、奥巴马为各自候选人站台
+### 泽连斯基：与特朗普结束俄乌冲突目标一致 路径有分歧
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-10-27 13:00
-- 链接: <https://news.google.com/rss/articles/CBMixAFBVV95cUxPQjlRa2VXOWJ1ZEZsUVBzZGVzeHcxNmJtVDIyZFVVbFNZbDgyUTlMZy0tZnA0UzNEYWZrMnMtU2pZR2x1ZUVJVFM3c1dMWU1mamN2ZGhGZ3ZzNWlQS2RPemN2cjg2aDVBNTBuWXdTYzdhdWhiX2NqYm1WQTlDaEo0VWNuUVVILVUtSmFYVXpCNW5Ual9FQ245N1M5dzZuZXJXbDdaZEhGX2xGb28xTENBbmxDT19KVnZITEF4SlR4b2dUQVM20gHHAUFVX3lxTE9va1NYMTVjNTA0dHBPTGVzbE1fdWF0MkxPUWlDRGtOS2NTdzkwNXBvV2k2Vl9wUGZoUjhTUXdELXNKYmdEd0h3TEFOZ1dieHlWRk5OVXF2cER1RXphaWd1N1VVNGRrSlF6ekJQUks1a3pLeDBZTmg5SzVlaWdKY2d2bTh4Wm9Ea1pOR2RHVmpWMW1vRHNvUEdiQTk4bWI3X2dkUUttS0I3dm16TjhxVEdCNzJhTURXMERBTGswZF96VHhpZ2tvWUE?oc=5>
+- 场馆: 央视网
+- 时间: 2026-10-28 09:59
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE4xaTIwaHZJYmNkdFJ6LVFPbWNIdTQ2bHNrY3pocm1DX2dQSF81a3FCMnNDQ2dFOFNzTWFBVFNlU3FfSzA2ZGZkU2hoT3QzOGtCUDZCbHM3NTJEYjhLbThkay1lMlQxcFh2SjdiS3NRQ1ZlVlF0YnNGYg?oc=5>
 
-### 美国中期选举是什么？一文了解选举制度及重要性
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-10-28 01:14
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5FOFFyNjNCUjl6OElHZTdwNkFLaGpmQUJSczRUTER1RUFpSE9SY1EtalJNV2c4eDlmMllmSDdfRFprRE4wMG1KWjVIdlBnWlBncGRrSm9UN3pHdENDRVFFNTZCTUVVd2_SAWxBVV95cUxOLTZYck15QlNvZEFNc0pQT293MHJiZ3Q4RDZvQVVvQl9FN2lfb252R2RKNWRfcVhNby1zdlBWM2lZNWxQcW1aZ1pKbENhdVkzTzh0d1BLMnNjWVJHa1RSUkU1S1dZRTRHQzMtRWg?oc=5>
-
-### 特朗普口中美国“第51州”换了
+### 美国期中选举倒数6天 特朗普奥巴马分头助选
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪军事
-- 时间: 2026-10-28 16:27
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE9WelNXTER6emJKbmdNaEo1RmZFNTJIZE5wVDI5MnE4SXdiZEZ2aXJCaUlOOHVjNEJsZW9jUlcyRG1wOWxSWmZzc0xWbDlyQUhBYkJaLXZVOHVUbGpUNkhIdnlyRmVMUmExYWR0QS1ULXBXLXM?oc=5>
+- 场馆: RFI
+- 时间: 2026-10-28 22:25
+- 链接: <https://news.google.com/rss/articles/CBMixgJBVV95cUxQWVc4SE5kMFl4NkFIVU9aM2hHeFRmY3FQQU81elNLelJHa1F2WTIyZjZLbWJXUW90WE1zNmgyQS1SQ0RmSUpucHhRREJJU1pGczVyWlRSc3VCMXlFN04tTGhKd0hTaFlBS3NFdktNQUI1Wnk0Tl9JREdGMmU4ZGRzczBuNkhCalZrLXRodk02S0dCbElDQ3duX1RJaGV3TXRVRnBNMXZTSkNfMEJYQXBVdXUxdjZsU0hIeGpRVG12SnRxVkFBb2dZaHZMcFhtZFNVUWJSQVNkWTFoODc2MkdTZ3lNMVE0aDNfdVNtUTdVQ2EwcHU0dDNyQWQwRVkwRUJQVlpDSkFuZFJoeDlWcmwzbEU3WGRtNlZZSy1GcS1IV05lbkh5UzVOLXp5TjJSaW1Ya2hrdVZpMGZZOHdTb3gwaGItbU9FQQ?oc=5>
 
-### 特朗普：将很快禁用“人工智能（AI）”一词
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: finance.sina.com.cn
-- 时间: 2026-10-28 10:31
-- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTFBObUwwVzkyeWFxUU90R056S0VwcExBZzNuSUxLb3EwZEFNUEM5TEZhZ3M0aERmaTY3SjMxZFBUeVZCR1l4dC12YVdyeU9GaER5RnhGaF9TVjNrMS1tMEd6Zm1WZ1NZblZfSThqYXZn?oc=5>
-
-### Anthropic招股书暗含政治隐忧 警告或成特朗普政府报复目标
+### “会尊重中期选举结果吗？”特朗普提条件
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-10-28 15:46
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxOckNobHN0WDRpajM5LXZjV29KRFhQbTNtWWJKOHE4eGdZYzh0QUZDVkV4U1lTaERfdlUtSTFkRkRjNWNqaWhabkJIeGtJZEh4SDVRMjRfV1Vycmx3S1VReElzZkotTEtDMDRJU2FNZFpHeEJsM3ZZVXBMSHJGcFZCc2JYQVZQOW9nUmM4cg?oc=5>
+- 场馆: 手机新浪网
+- 时间: 2026-10-28 23:28
+- 链接: <https://news.google.com/rss/articles/CBMijgFBVV95cUxONk5RNmhOT0ZfSXlndzlxZGVnVU5MNHhRRDhHQkJmb3B5UDhjanFnYzJ2THhfRms0WnV2UzBZTGFmV3ZnMWI3S0huM1BqOGNJTE9NU2hXZEFrMWVHNFJ3UWlQTnhmTUxabFA2Zzc3LVNSYlE4UGJtWFU0WVRPYzdybVR2YVd5OW1KLWc1Qmhn?oc=5>
 
-### Trump: 伊朗战争将在我需要时结束
+### 特朗普最新涉台表态，国台办回应
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: IDNFinancials
-- 时间: 2026-10-28 15:00
-- 链接: <https://news.google.com/rss/articles/CBMi7wFBVV95cUxOQWxRSl9RUVdlOVg3ZlBOdFJxM3FfMTAycHZUaHEtU1g3MlZxbEhFdmpWczlsZjZDclFSOUhEZWhXM1lnWGxMaGtqa3N6UFA3eHpBVmdlSFhqa0FSdDBDZ29aV2pYY2pvQlZHeThnbGlQbm91VmRPSDFvdDlscVc3cGRsUnotbERBRU5uWlZZczlRZk1SXzJkY0p6LV9sb0NJM0IxYlRzRy04eVhBTWRCMUJVY2JQeTV4bmtEMkVKQ3ljYzN2RndwenpMMUJKeEl4SVc2S09TYXdHMWpaLURYaU5CVGtyNS1vYWNEWEZjMA?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-10-28 08:34
+- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE8tV1FEN3hCeDRxakZGZTRmRFdaMGNsQnhtV3ZKemVDYlVKNEUwMnlsS2diTzNMRW54V2NsOXZTRVZ0YlZ5U0syU3B6QWJ3cWpRMzBRQm1yTk1NYkE5bVRYc1h2R2lBaHA1V3RqZ0tNVmVYZTdZVjRMZTRR?oc=5>
 
-### 【美国观察】11月3日：中期选举投票日会否成为特朗普政治生涯的转捩点？
+### 小博索纳罗“逃亡”美国，特朗普回应
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 风闻
-- 时间: 2026-10-28 13:15
-- 链接: <https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tSS00dVFJY0R2bUllRkZvbWpGTlI4UHRWUXd3enl0WEF0MVE2b19QZXJJczhHdWxsQVFIbDVsekNYQ1dQa0dhTkUtbjBWSjN5X2VpM1AyUEpCS2M?oc=5>
+- 场馆: 观察者网
+- 时间: 2026-10-28 08:12
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5pNFZuTHFtRS1LS3BvazhtWW1aYkVEUVVvbzBLU0d2UmlSZEhIaFlMdXFGd0VJNGZYX2FlYmVHNnlqQVBOQ3N5anZpX1VRNkxscklrN0RvWGlzZTZ3VFZsX0RsaHhnYmU1dVBjNHc0bDk5T00?oc=5>
 
-### 以色列大选后，特朗普表示将“考虑”帮助内塔尼亚胡组建联合政府。
+### 美国有多需要加拿大铝？特朗普关税揭示依赖之深
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Al-Monitor
-- 时间: 2026-10-27 07:00
-- 链接: <https://news.google.com/rss/articles/CBMiywFBVV95cUxPekdwWkYydV9kMkJYR2dWQ2tSZWIycUVKQ1h6bzgwbnM2X0oyTGRyX0s5TXc1WmpWakRSWmpPemNlSFhyT2JzcVBZRUN5aXQ3NTdEZkRMVVJhMHhaT1hHRDZJdzNVS0s4LVpUd0x3dldHQWdJckVKb3E1M1VwbjljYmN5ZE1Ed3lvVmlGVm01MXljandMY0dFM2YxdXpLRzB0SWJKT21ZZW5idzZMalk5ZmtmR1lBY3UtdnJUZkM4ZVV4U1BDcU91UHhkdw?oc=5>
+- 场馆: 华尔街日报中文网
+- 时间: 2026-10-27 03:39
+- 链接: <https://news.google.com/rss/articles/CBMiywJBVV95cUxPN1FxR3QtTnBuVTEyTjhNaWhXMk5mTXVlNWoxNGE2R0JQSEE4cVlHTnJXNDE3RG5WUlAtWTZlZ1d1UVJyR2NReGM2eUZqU3V0eXN5Y3VzWkJoNFhEdEhGeFFydmU3VEFfT1VLbFBQeDliUFVRakgwbHBNa0V1ME96eVVpbVdfZTl2U0RqdUZLSTQ0dzFvX3o1OWhkYWF5OEVIaUM2ZHFrNTNWY21SOHVtek5WbmV5dDV0cjd6Z1B6c0ppcHhhaEUzYW5vLURlQV92Mmg1N0t1WHN5ZU9yVjdRR1pIYjhoM2c1SlladjRudk1jN2xUVGxFbHprT3hLLTUxZlBCY0RkOS1GRVdFeDFlcmUtWTdxSWdxejNkdFFSbVk5bkdRaXFOYWdjM1Nhd01ESTQyVlo0OU9WVFJQWm1GdGFleWduWVMxZUxR?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-29 00:08  (9 条)
+
+- **蔡徐坤** | 蔡徐坤在演唱会现场有哪些高情商的即兴互动瞬间？ <https://k.sina.com.cn/article_7879776356_1d5abd864068018bq0.html>
+- **特朗普** | 特朗普：伊朗在医疗物资方面需要帮助。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ZNldJOFpzSUtOLVZOYlE0dFBhaklLUVlWWS1VamJYMnE4R1N1Nk5GblZDSTNIcGNINk1uYXpSVlFnNjZzcXpMeExPaw?oc=5>
+- **特朗普** | 美国警告海湾国家做好准备！中期选举后或对伊朗发动猛烈打击 <https://news.google.com/rss/articles/CBMi0AFBVV95cUxOakJXcnphTzNnVGNBU1FkOGtURzgyZ1FuRlFHbnpwQ21xQ3g4UGF1QTNZcWE3U0UySVhoRmxCSXR6TV9RbmNLWGxZblVXazVTVFZwQkZYckhJY0FkRWZEVC02R3VFRXJmT3VYZTlfcDNQS0pfUC1OTk9nMUl0cHRpVTUtcVpsQUtHdlFWdzRYdGRWTjJsYU5zMkh4U1ExeXZmMzFRT1c4cHZOYjVKZlpGWmVsVEg3dUZnNGFkMDRKSmZxS3Y2TWdKcXhwOEpsLUE5?oc=5>
+- **特朗普** | 泽连斯基：与特朗普结束俄乌冲突目标一致 路径有分歧 <https://news.google.com/rss/articles/CBMieEFVX3lxTE4xaTIwaHZJYmNkdFJ6LVFPbWNIdTQ2bHNrY3pocm1DX2dQSF81a3FCMnNDQ2dFOFNzTWFBVFNlU3FfSzA2ZGZkU2hoT3QzOGtCUDZCbHM3NTJEYjhLbThkay1lMlQxcFh2SjdiS3NRQ1ZlVlF0YnNGYg?oc=5>
+- **特朗普** | 美国期中选举倒数6天 特朗普奥巴马分头助选 <https://news.google.com/rss/articles/CBMixgJBVV95cUxQWVc4SE5kMFl4NkFIVU9aM2hHeFRmY3FQQU81elNLelJHa1F2WTIyZjZLbWJXUW90WE1zNmgyQS1SQ0RmSUpucHhRREJJU1pGczVyWlRSc3VCMXlFN04tTGhKd0hTaFlBS3NFdktNQUI1Wnk0Tl9JREdGMmU4ZGRzczBuNkhCalZrLXRodk02S0dCbElDQ3duX1RJaGV3TXRVRnBNMXZTSkNfMEJYQXBVdXUxdjZsU0hIeGpRVG12SnRxVkFBb2dZaHZMcFhtZFNVUWJSQVNkWTFoODc2MkdTZ3lNMVE0aDNfdVNtUTdVQ2EwcHU0dDNyQWQwRVkwRUJQVlpDSkFuZFJoeDlWcmwzbEU3WGRtNlZZSy1GcS1IV05lbkh5UzVOLXp5TjJSaW1Ya2hrdVZpMGZZOHdTb3gwaGItbU9FQQ?oc=5>
+- **特朗普** | “会尊重中期选举结果吗？”特朗普提条件 <https://news.google.com/rss/articles/CBMijgFBVV95cUxONk5RNmhOT0ZfSXlndzlxZGVnVU5MNHhRRDhHQkJmb3B5UDhjanFnYzJ2THhfRms0WnV2UzBZTGFmV3ZnMWI3S0huM1BqOGNJTE9NU2hXZEFrMWVHNFJ3UWlQTnhmTUxabFA2Zzc3LVNSYlE4UGJtWFU0WVRPYzdybVR2YVd5OW1KLWc1Qmhn?oc=5>
+- **特朗普** | 特朗普最新涉台表态，国台办回应 <https://news.google.com/rss/articles/CBMiekFVX3lxTE8tV1FEN3hCeDRxakZGZTRmRFdaMGNsQnhtV3ZKemVDYlVKNEUwMnlsS2diTzNMRW54V2NsOXZTRVZ0YlZ5U0syU3B6QWJ3cWpRMzBRQm1yTk1NYkE5bVRYc1h2R2lBaHA1V3RqZ0tNVmVYZTdZVjRMZTRR?oc=5>
+- **特朗普** | 小博索纳罗“逃亡”美国，特朗普回应 <https://news.google.com/rss/articles/CBMic0FVX3lxTE5pNFZuTHFtRS1LS3BvazhtWW1aYkVEUVVvbzBLU0d2UmlSZEhIaFlMdXFGd0VJNGZYX2FlYmVHNnlqQVBOQ3N5anZpX1VRNkxscklrN0RvWGlzZTZ3VFZsX0RsaHhnYmU1dVBjNHc0bDk5T00?oc=5>
+- **特朗普** | 美国有多需要加拿大铝？特朗普关税揭示依赖之深 <https://news.google.com/rss/articles/CBMiywJBVV95cUxPN1FxR3QtTnBuVTEyTjhNaWhXMk5mTXVlNWoxNGE2R0JQSEE4cVlHTnJXNDE3RG5WUlAtWTZlZ1d1UVJyR2NReGM2eUZqU3V0eXN5Y3VzWkJoNFhEdEhGeFFydmU3VEFfT1VLbFBQeDliUFVRakgwbHBNa0V1ME96eVVpbVdfZTl2U0RqdUZLSTQ0dzFvX3o1OWhkYWF5OEVIaUM2ZHFrNTNWY21SOHVtek5WbmV5dDV0cjd6Z1B6c0ppcHhhaEUzYW5vLURlQV92Mmg1N0t1WHN5ZU9yVjdRR1pIYjhoM2c1SlladjRudk1jN2xUVGxFbHprT3hLLTUxZlBCY0RkOS1GRVdFeDFlcmUtWTdxSWdxejNkdFFSbVk5bkdRaXFOYWdjM1Nhd01ESTQyVlo0OU9WVFJQWm1GdGFleWduWVMxZUxR?oc=5>
 
 ### 2026-10-28 20:07  (22 条)
 
