@@ -1,77 +1,55 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-29 06:08**
-- 本轮扫到 14993 条, 新增 **21** 条
+- 最近更新: **2026-10-29 13:27**
+- 本轮扫到 15004 条, 新增 **11** 条
 
 ---
 
-## 本轮新发现 (21 条)
+## 本轮新发现 (11 条)
 
-### 蔡徐坤TheDeadman演唱会
+### 大哥发新歌群内催转，卓沅提议不转改请吃饭
 
-- 艺人/关键词: **蔡徐坤**
+- 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002tr90.html>
+- 链接: <https://k.sina.com.cn/article_7811192899_m1d195584303301gyni.html>
 
-### 蔡徐坤新加坡演唱会首穿高跟鞋，坐舞台吐槽脚痛
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7811057114_m1d19345da03301wie4.html>
-
-### 蔡徐坤新加坡演唱会大背头全包眼线踩高跟鞋唱情人
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7785517961_m1d00d9389033018f7q.html>
-
-### 蔡徐坤新加坡演唱会全开麦唱跳舞台
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2747054345_ma3bcb90903301o1fq.html>
-
-### vivo X500 Pro Max拍演唱会山顶位真的能拍清偶像的脸吗？
+### 刘德华广州演唱会获批9场，2027 年 5 月南沙开唱！
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776483_1d5abd8e3068028jwa.html>
+- 链接: <https://video.sina.com.cn/p/finance/2026-10-29/detail-iniwwpnw2868813.d.html>
 
-### 周杰伦演唱会外国友人为孙颖莎点歌
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6355176032_m17acc4a6003303m9s0.html>
-
-### vivo昨天在马来西亚的新品发布会现场宣布杰伦为vivo影像大使
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923942_m1d5ae18e603302bmzk.html>
-
-### 得州保守派领袖伯加德答凤凰专访：油价上涨不是特朗普的过错，警惕“穆斯林危机”
+### 特朗普：我在共和党内的支持率达到了99%
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-29 05:33
-- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wRG5uUVBlVXo2Mm1fQTVxcWstd2RSMWxvb3k1SHV5bjVGdGF5VDJ5Z3JJTXcwZ21pVUV2THB3bG01cU1qZEVvRkFnb2o5SzhteEE?oc=5>
+- 场馆: 手机新浪网
+- 时间: 2026-10-29 11:52
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5uTzU4RjlfNmJGN3ZxU042MTFtM0xhWXBHVU9WUWVTQkhoUjU1U0YxZ2F5NF9ybXJvS1hsaFlKb0pGZUZZWmx6VU9wSQ?oc=5>
 
-### 美媒：特朗普承认万斯曾致信伊朗官员，称主要是为向伊方提供医疗物资
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 环球网
-- 时间: 2026-10-28 09:23
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfd2kzRGdaOVpBSF9YYXBHR2RNYjA4NlJGaXEtVXpxSVhONEZFMmdET3gtZHg2SmZnTW1QVTJXSEQ5R2x4aTd0eEJzRkNDdHhxbmxIek95NkU?oc=5>
-
-### 知情人士称，在特朗普......_7x24快讯_新浪财经
+### 特朗普：很快将安排与泽连斯基、普京的会晤
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-10-29 06:03
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9Od0hmSmRVUUxnMkR0cnE0dTJ4Z2dvTmFnczR6alVQdEZOTnc4T1prNnkyajIzS0ZmamVqMXRmRjl5RXdGY3d2UUZpVQ?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-10-28 09:00
+- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxQXzl2MnlFX1dGd19OZ3VxRFZrOHY5QWlTdDdob2RnRFRWNXZlYlVfWXZGRTZMaGlSLW9HdmlDbmRJSU9MUE1Ia1R6ZjBkNUVKSlZaZ09Da1JEZUdfb3UwNWFxb21NUkJpY05LcjA0ak1ILTBEbGREcUVYZy14NGRrMlFNU0Y2STFYY0V4QmlpT3o2cTVSdU5MUnNMa21QNXI2VDZIMHFKbkxjbExtWjhKZlNPbE5veXQwRDU5WnBtZHhyb3A4dHk4VEJ1cG5oYlg3b1E?oc=5>
+
+### “还能相信特朗普吗？”泽连斯基：我们相信美国民众
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: ThePaper.cn
+- 时间: 2026-10-29 08:11
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZdnFYc1ZlOUFkM0xYb3I0cWRjQS1XZmJzWWI3Mmw0eDBCb3A0eVBFZFpLTm1IWndFdmtTRDBSYlQxLTdqSmUxYWp4Wl9sY3NpLVR4b1NtREM1ZkMwVk9OOA?oc=5>
+
+### “特朗普正考虑打伊朗，赫格塞斯开除了首席军事策划官”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者网
+- 时间: 2026-10-29 09:08
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFAwbFRxSVZGTTlLcENzTWw0S0tYdFlNdVJJeHJEYXNOakM5TjVhRXZxRFpuckRsa0Ftek5WOU5hX1lyWGlvUl85eXAySkFVRVJEOVBCeXFaRTNWOXBYNzJUNG5DSkpaeFBoOU5reklxbm5yYUk?oc=5>
 
 ### 特朗普扬言选举后重开战火，万斯却密信伊朗强硬派试探和平：美伊谈判能否在最后关头破局？
 
@@ -79,92 +57,58 @@
 - 来源: `googlenews`
 - 场馆: 新浪财经
 - 时间: 2026-10-29 01:54
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxONlRFRlVyOXFXVGVSdHN2bGQyNEJGcUJKdUNqN201YkQwN1U2YWsxVjFuM25aMlUwMDFnVGFIdklfdC1tZVBKTEZMcGFZZV9xcjRlbGtfcjIwTXp3UEpma0Vrd0kwa2VkOXF0ODZRM3BhWTZWQWhHRHFNdDRzVEk1OGg0bE0zMDRoZWlTbFUtNFhYRTUzUlB2NXQweU91NnlJc3dhQlNIeHZkWnJsdTJoYmJmWU9yS2cyeFZjcER6ai1ELV9zRGNpQjlNdGdra2hGcGNpYUozT0ZfVE9jNUpF?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNE9UeW9Oc3UxNlR6aFR1aFlqcWE5aXNlWWZNekEtOFc0SjR1d016a1RtQmR3dmUtTVcxamd4Z04yUVk2ZjRUbEk3am1nQllVbFYwX2R3Yml3c24tSEhEZWNYb1ZLdWszV19Qd0lUclZ0S3VEdVRpOEdYTWlBd3BWaEdpS1ZSUzlrb3g4a0xKMTY1dkJvOUxfeDhnMXZ4ZG54YWltNGxzR1ZGNlF4bTBJX1pfNDdCWFczaUlKVzVYOVFEOHJCQ1BnT0RaTWlZVzdLMERhc0J5VkoxWXNNUGVMSA?oc=5>
 
-### 特朗普突传重磅！路透独家:彭博、华尔街两大交易巨头付费抢先获取总统帖文
+### 43项涉股交易、约300亿美元支出，特朗普政府投资回报率如何？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 搜狐网
-- 时间: 2026-10-29 03:03
-- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaGtuV2lzVDBYemZISWFXYlRSYVpPUkJoaExEQWQyQnBxLXVSUGc5UW0wSnZEbjN3YTZFMHBla3FWMU5vYW5FaUZZNXZPVVFDRDMyOV9fOURwZ2tEN0lTczVXbnR6a2h5empkcVBpYXVIRG5xUU5fYnZMQ3hpeTN0aWpkeXVXcldQWG1WTFRwQ0x5cFRUTTRMNzRBLVI3bElwc211eEhWam5BaTFYVmdRZjZRLTV2TWROdUpkWUc3LWRQal9tN0VkaTEwOS1jLVB5UEE?oc=5>
+- 时间: 2026-10-29 08:24
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM3VNN1FaVXl1TlV6SERrd2t1c1E2M19LakJxWWIyaUswc1BiQXZTUFI3bVVXRnVCSWwtdHVuZVduV0diYmZUUFFIMmlpdDl3Z2dPcFhpLUJFMVBMMzVTYTNqNEpTRWZKRnBCaGU2SFFhTXJnbzk2QUtOUEdzSmtSOEF1UUVtZHJ5?oc=5>
 
-### 第51州？特朗普欲强吞委内瑞拉
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 风闻
-- 时间: 2026-10-29 01:50
-- 链接: <https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0LXJ5Xzl1N2VnVTB6S2xuNXZXQXpkUWpIbVJUVUZfemxWSWppbld6cW9Banp3TXRBc3JCMjRuQU5LXzFTb0tKcW9sSmcxSElyZk45a3d4SUs4QVk?oc=5>
-
-### “闹剧之上的闹剧”！特朗普的小动作藏都不藏了
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 文学城
-- 时间: 2026-10-29 03:44
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwZHNxMnpObEJmT1RyOGZJUGYyTzNCRmJ4TXF1STBoc1NzOHFjanlNSmdENWpQVlQyY2FSV21TdWJKVFc0bEhYMTFIZGhBRU1RT0k3S0JPMktWRm1WMGtCbGtaR2wxU1RR?oc=5>
-
-### 特朗普承认批准小博索纳罗入境：他遭受了非常不公正的对待
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-29 00:47
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE16RUk4UENQZ2RQY1JTbFptVHJhQWNFZFVpcDJsZzdOTEJkS2VxcjFjeV80b2xyd2FLdXJ1Q3JTQzR2cnNfa0lfbTVINTU?oc=5>
-
-### 特朗普重返白宫后，如何从五方面改变美国移民政策？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-10-27 00:32
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Qak0yUGU1QU5jdVNBdDBCUnNiNlV6ajBrZEcyejYyZ0FiVkNCWHJDbk5rSTBOd0NlYnRkSEdudU9qQm1RVElmLUkwQVU3cGJHQll0dnF0QlNKU2VoSktKamxIcDVwbk0?oc=5>
-
-### $纳斯达克100指数期货主连 (2612) (NQmain.US)$ 为trump投票
+### 耐用性测试证实，Trump 手机是重新贴牌的 HTC U24 Pro
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-10-29 02:14
-- 链接: <https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWk95QXlpNmotdGxDWGlzVFU5ODluWjVmWEstTEQtS29zemh2NURfNUU0aDNhYURtTUZVLVBFUWhPVWtiN2xDQ3ZwOUZNY1NmOTFqSVZucE9IN2xBUHBwNExPS1lwR1pVWlpIajR6Q0NkR0hJNHg3b0QxS013aWMyc1h0OWVIV3ZxWjFQcW1tOW1QNUlwSjJNcl9OaGFSUEF3T19jaFJ6U3RRMGs?oc=5>
+- 场馆: Mezha.net
+- 时间: 2026-10-29 06:20
+- 链接: <https://news.google.com/rss/articles/CBMingFBVV95cUxNTE1iNnBpdGM0SV9QbUs3UDNkWXB6OU9PZ2xhM2VfN3pFSEhzZGFwQUdyUHlIeTA5dDc5d0VuSTU1MzVLU0Q0RExQVk1HY2ZUNlZrNkZIYW5EQ3VvWXVDa0xaRGs0bkprZ05GWV9kNHlYM3h2YnRnZktvV2VDX3Nia1VoWU9qcWpOVGNoWlZqYktjYk4xbmlfU0J2SnU2UQ?oc=5>
 
-### 一览特朗普政府美股投资组合：涵盖逾40家核心企业
+### 拉美裔选民转而反对特朗普，得州选情再添变数
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: 华尔街日报中文网
-- 时间: 2026-10-29 03:37
-- 链接: <https://news.google.com/rss/articles/CBMitgFBVV95cUxNeWFIQTV2MHMxMTFrdjdsQVZ4d0NEXy1IaTdZdTVqTmhSQzFpcTVpR010S1pYMGlyNmJwTXpobFNuQ1N0blpUUTRMSmNvZkpCc0lKWlducG1GQ3VMRmw2akxUN3FVZVBsNmlqenNjbmxxLVdVSURCNlpXaUZLbE15ZzFVblpGWWk4MzFwVXBhR2Z6anMwVWpVbkVJY0RjLUJsMWdkNEVZSS0yYlZTVURhSVFmX0R1UQ?oc=5>
+- 时间: 2026-10-29 09:57
+- 链接: <https://news.google.com/rss/articles/CBMinwFBVV95cUxNNG5kQ2RKNHZWNmJqOEdBMXZ0QWlrQ3RFVWxucy12MlNpd0JVazFUS3NnRE84SGczSWZ4N2JObkVnYXl0UHFHQWJrVjhTOGxJc1BFbDgtMWtNQldBeTZqb0wxcTdrdEJnX2Vzc2dmYTRwOW5ERzZqb0JfN3h6aGRKV3c5SXB2X0ZjYXZlUFFiLWpCNGNZTjhPUWJPZHB3d0k?oc=5>
 
-### 特朗普呼吁起诉阿拉斯加州民主党参议员候选人
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-10-29 00:34
-- 链接: <https://news.google.com/rss/articles/CBMipwFBVV95cUxOTjZCN1NRd2NVUXlTTUxNaDhZLTRwVkRaUXFBTWRjNlVRSWtuX3p0cHhkTF9uRHNIRlNJdnJqdXRlZ2JLNlg3MkplLXlUYzEwMnhLa0RwTWgtallfRk43Q3U5cHMtaXZsT2xOQm9CanFnNkpBNmdpNEx0aWtnZE5pXy1RMUV6eE0zV2RQeHBZdENtQ1plWEZjTUFScHltOWc2c01GSkdVSQ?oc=5>
-
-### 博索纳罗败选后逃往美国，宣称自己为巴西合法领导人
+### 抢先看特朗普帖文 彭博社与两家华尔街金融机构付费Truth Social
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-10-29 03:50
-- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxQV2NrWHBJc2NUQ3BuTW1ncHJfWmJtUlBDdjVjc1RuQ25zdzVJbWN0QlcxN0VPZVhPRUgwU0k2dlZ4YUJJdGhTZUxyazdCX0RLVHRKSXR2Vjg1cWZKYnJhblBBT1JKQU13TENGSFJkUGw1RHFmeno1VXU0QVUxUzh6Y29GMA?oc=5>
-
-### 泽连斯基确认俄乌11月在美国斡旋下举行会谈 强调领土问题须与普京直接讨论
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-10-25 21:30
-- 链接: <https://news.google.com/rss/articles/CBMi7wNBVV95cUxNZWtlSV9nczdCX1p5RG5DVGVYSjR6M3pJODJDZnVLZ3Q0QWhXLTFKUVl5Q3JTdkFLcS1JWnB4UTdkVVROSFJlbk1ONHhiSVdBODBRVGxjaFMzX2tRejRidl9UTldvZ29nbHRQVTVJQ2xxNHhpR3RvNk1kWUpMMGVSRDNwNG5Sa1F0NWNuZkFCTHAwVU5OWmVjYUFldHkzT3hWdjVLQWNrSkV5cTVCQVRicFlDYVFCa3M1ZV9lQnF6b0V0VjU0bjhMLTE2dndPN2JDaU92eFRMMHJIaGI0MEFQVzVfYVdBNnRNaWw2eHVWUGtiYUdMYmNXVHB5cjVxWDViZTROTmxnWno3QlFEMDJSSkp6T1ExdUhDVDc3OWV0cEVQQkRYRUZma3Fqc1o3NU5JUjN3dS1CZnpfbEJNbUdxUHVIcXNXX2JIY0NHblg0TUhjbU81eXFNN0NxaFpxZjJsYkcwV2Y0eVNKdFF6RC1ScEdPdGN2SW5DakJXdHhDdXhwbGo2V1E4WHZTQTN1OEZHM3ktamZaLUxBc1NfaVhSVFhZWFM3S1RJUE04M0phd1pKa3E1em1qWU5nLXpSc3E1aExENEttQUx5N0RXVFFROWp0bi1mUE1zajZlTjVObzdOSWU2Wmd3aFlzTTlkMVE?oc=5>
+- 场馆: 8world
+- 时间: 2026-10-29 08:27
+- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxQUFdYM0hRWFFhM0JYS0VjbW9veDlRYUNWYi1uamFCcXdjUjMxRzFTRHVpem9vc3lKUlJRMm4zbVNWbkszTXB2TnNnS19sX1pQNGdmS0pKeDg1Yk8ybVJ6ZkxSVklraWY2Z0pEMVIyYmF2UlNmbFJpSUFzUG92RFVhUmNvMHJnZE1BbDZ1eThqcnI4bmhKLUJ6VElrUDQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-29 13:27  (11 条)
+
+- **王一博** | 大哥发新歌群内催转，卓沅提议不转改请吃饭 <https://k.sina.com.cn/article_7811192899_m1d195584303301gyni.html>
+- **周杰伦** | 刘德华广州演唱会获批9场，2027 年 5 月南沙开唱！ <https://video.sina.com.cn/p/finance/2026-10-29/detail-iniwwpnw2868813.d.html>
+- **特朗普** | 特朗普：我在共和党内的支持率达到了99% <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5uTzU4RjlfNmJGN3ZxU042MTFtM0xhWXBHVU9WUWVTQkhoUjU1U0YxZ2F5NF9ybXJvS1hsaFlKb0pGZUZZWmx6VU9wSQ?oc=5>
+- **特朗普** | 特朗普：很快将安排与泽连斯基、普京的会晤 <https://news.google.com/rss/articles/CBMi0gFBVV95cUxQXzl2MnlFX1dGd19OZ3VxRFZrOHY5QWlTdDdob2RnRFRWNXZlYlVfWXZGRTZMaGlSLW9HdmlDbmRJSU9MUE1Ia1R6ZjBkNUVKSlZaZ09Da1JEZUdfb3UwNWFxb21NUkJpY05LcjA0ak1ILTBEbGREcUVYZy14NGRrMlFNU0Y2STFYY0V4QmlpT3o2cTVSdU5MUnNMa21QNXI2VDZIMHFKbkxjbExtWjhKZlNPbE5veXQwRDU5WnBtZHhyb3A4dHk4VEJ1cG5oYlg3b1E?oc=5>
+- **特朗普** | “还能相信特朗普吗？”泽连斯基：我们相信美国民众 <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZdnFYc1ZlOUFkM0xYb3I0cWRjQS1XZmJzWWI3Mmw0eDBCb3A0eVBFZFpLTm1IWndFdmtTRDBSYlQxLTdqSmUxYWp4Wl9sY3NpLVR4b1NtREM1ZkMwVk9OOA?oc=5>
+- **特朗普** | “特朗普正考虑打伊朗，赫格塞斯开除了首席军事策划官” <https://news.google.com/rss/articles/CBMic0FVX3lxTFAwbFRxSVZGTTlLcENzTWw0S0tYdFlNdVJJeHJEYXNOakM5TjVhRXZxRFpuckRsa0Ftek5WOU5hX1lyWGlvUl85eXAySkFVRVJEOVBCeXFaRTNWOXBYNzJUNG5DSkpaeFBoOU5reklxbm5yYUk?oc=5>
+- **特朗普** | 特朗普扬言选举后重开战火，万斯却密信伊朗强硬派试探和平：美伊谈判能否在最后关头破局？ <https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNE9UeW9Oc3UxNlR6aFR1aFlqcWE5aXNlWWZNekEtOFc0SjR1d016a1RtQmR3dmUtTVcxamd4Z04yUVk2ZjRUbEk3am1nQllVbFYwX2R3Yml3c24tSEhEZWNYb1ZLdWszV19Qd0lUclZ0S3VEdVRpOEdYTWlBd3BWaEdpS1ZSUzlrb3g4a0xKMTY1dkJvOUxfeDhnMXZ4ZG54YWltNGxzR1ZGNlF4bTBJX1pfNDdCWFczaUlKVzVYOVFEOHJCQ1BnT0RaTWlZVzdLMERhc0J5VkoxWXNNUGVMSA?oc=5>
+- **特朗普** | 43项涉股交易、约300亿美元支出，特朗普政府投资回报率如何？ <https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM3VNN1FaVXl1TlV6SERrd2t1c1E2M19LakJxWWIyaUswc1BiQXZTUFI3bVVXRnVCSWwtdHVuZVduV0diYmZUUFFIMmlpdDl3Z2dPcFhpLUJFMVBMMzVTYTNqNEpTRWZKRnBCaGU2SFFhTXJnbzk2QUtOUEdzSmtSOEF1UUVtZHJ5?oc=5>
+- **Trump** | 耐用性测试证实，Trump 手机是重新贴牌的 HTC U24 Pro <https://news.google.com/rss/articles/CBMingFBVV95cUxNTE1iNnBpdGM0SV9QbUs3UDNkWXB6OU9PZ2xhM2VfN3pFSEhzZGFwQUdyUHlIeTA5dDc5d0VuSTU1MzVLU0Q0RExQVk1HY2ZUNlZrNkZIYW5EQ3VvWXVDa0xaRGs0bkprZ05GWV9kNHlYM3h2YnRnZktvV2VDX3Nia1VoWU9qcWpOVGNoWlZqYktjYk4xbmlfU0J2SnU2UQ?oc=5>
+- **Trump** | 拉美裔选民转而反对特朗普，得州选情再添变数 <https://news.google.com/rss/articles/CBMinwFBVV95cUxNNG5kQ2RKNHZWNmJqOEdBMXZ0QWlrQ3RFVWxucy12MlNpd0JVazFUS3NnRE84SGczSWZ4N2JObkVnYXl0UHFHQWJrVjhTOGxJc1BFbDgtMWtNQldBeTZqb0wxcTdrdEJnX2Vzc2dmYTRwOW5ERzZqb0JfN3h6aGRKV3c5SXB2X0ZjYXZlUFFiLWpCNGNZTjhPUWJPZHB3d0k?oc=5>
+- **Trump** | 抢先看特朗普帖文 彭博社与两家华尔街金融机构付费Truth Social <https://news.google.com/rss/articles/CBMinAFBVV95cUxQUFdYM0hRWFFhM0JYS0VjbW9veDlRYUNWYi1uamFCcXdjUjMxRzFTRHVpem9vc3lKUlJRMm4zbVNWbkszTXB2TnNnS19sX1pQNGdmS0pKeDg1Yk8ybVJ6ZkxSVklraWY2Z0pEMVIyYmF2UlNmbFJpSUFzUG92RFVhUmNvMHJnZE1BbDZ1eThqcnI4bmhKLUJ6VElrUDQ?oc=5>
 
 ### 2026-10-29 06:08  (21 条)
 
