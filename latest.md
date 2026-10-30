@@ -1,124 +1,164 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-30 09:25**
-- 本轮扫到 15056 条, 新增 **14** 条
+- 最近更新: **2026-10-30 16:07**
+- 本轮扫到 15073 条, 新增 **17** 条
 
 ---
 
-## 本轮新发现 (14 条)
+## 本轮新发现 (17 条)
 
-### 刘德华广州演唱会获批连开9场
+### 我发布了3条微博，你被分配到的是i来帖， 钓i来来冲一波超话热度
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923674_m1d5ae17da03301sdi6.html>
+
+### 蔡徐坤官宣WGALA盛典嘉宾 澳门行程接档新加坡演唱会
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5727695436_m15565b24c03301xhog.html>
+
+### 周杰伦2026广州站开票猫眼近600万想看
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1726426884_m66e72f0403301ppqo.html>
+- 链接: <https://k.sina.com.cn/article_5719836546_m154edc78203301jdcq.html>
 
-### 审批通过！广州大型演唱会+4
+### 周杰伦杭州演唱会开场曲《太阳之子》开场一开口就惊艳全场！
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://finance.sina.com.cn/wm/2026-10-30/doc-iniwyncw5605695.shtml>
+- 链接: <https://k.sina.com.cn/article_5367731106_m13ff113a200102kyac.html>
 
-### 最大“金主”回归！马斯克豪掷数亿美元，能否帮特朗普翻盘？
+### 特朗普对华降调，盟友、对手敢低头吗？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-10-30 05:21
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBnNmM3aVhDaVdaNGlrZkktQVZkSkRvdXBMbXkxQWxNNHpZYVcyMFhjQVFSdzJweFkxV180cGp0Z2hOQjlweGhRcEZ3OVo?oc=5>
+
+### 阿拉斯加上演“真假美猴王”？特朗普下令严查
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者网
+- 时间: 2026-10-30 09:22
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFBVaGdZTURIX09uQ2w1WUt6LVdZbjBZRkxGOG9HVHFKQjUxYUQyaU1obnNaVThaQ3Q5M0FLMms4cS1IQ0ttVy1LWUZTVGQwQ3cxekYxZEpkVHRGMWlpcXl2bGJVa2xMWkFGSEo0bGdYMkJtQXM?oc=5>
+
+### 特朗普称战争即将结束，但要求伊朗永不拥核-市场参考
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 金十数据
+- 时间: 2026-10-30 13:30
+- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE1UQ0IyZDI3UUZxem82WG4zb2hKWkdLUUZJNm9MTUw1UXcyUDduakJLemxKS29wS05vcDI4Nl9xQUdrY3BrUUtoUFR0RWFOODA?oc=5>
+
+### 美国总统特朗普：伊朗战争很快就会结束，无论以何种方式。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 手机新浪网
-- 时间: 2026-10-30 08:10
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE44R1A2MHdaZGFzT29ZZmNYcWp6R1IwZ0twbmxDM1ZScUhWVVBHRTZZNzA4endYRTBiaFVwTXU5czZkU09BVjI3ZmlmQnhpdFI3aXpoMEhvWHBYSjBaemgzaExCY19GekY5OVBjRFY2U0NfZw?oc=5>
+- 时间: 2026-10-30 11:44
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1oZEVINC0ycU1VYk9CUGphQmRuYWhxbnkybW9Yc0NoUU9vV0xSMjlKU29HT2t5dzZDMVZPcEx5RWdjSl9nQ1Fxem95TQ?oc=5>
 
-### 被记者搞毛后特朗普直接怒怼：你这人真有病
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-30 03:21
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBpRE5FX2dBRXE4UU9GZkRoUGRUdF9CVUgtekltTTZfZ1h4Qll6WGZabFRWUDZ6WlZMNGlnUVZIM0dmUW4zU1puaHFWR1o?oc=5>
-
-### 乌克兰袭击俄罗斯炼油厂，打破暂停期并无视特朗普要求
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-10-30 08:53
-- 链接: <https://news.google.com/rss/articles/CBMipgFBVV95cUxPTFR4TmxENkhISDRRZ0w0NlVxT3ZZWEl0LXJudFlTTy1QV3VaelB6MGIzUE93SGt2X0Z3ZkhkNnphMXo3XzQ2bjZSVTJoanpFM0dxV2lqdzl3bTZFQ20tMTlOTHRSWFJWcWhUTTJVaUxUUlVIcy1JRVZ4MGJsbV9FbjJOTlR5WUhJNlEzc3d1LTJxZEplSzlMNkU4cEdld013QkU1dlR3?oc=5>
-
-### 德国研究：特朗普关税未能缩减美国贸易逆差
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-10-30 07:41
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE5CWGpfVDkzMTVwT0g3dmtpX2hPclRMZ09RNW15MGNRRWFiTmYtS1BpT0tJdHMwakpXNVAwWU5ZTlFoQWl0b2NLQjhwZjdGemdxdVNqTWNCcHVjMWE4eVhYUTl5dG9SOXkyOHc?oc=5>
-
-### 特朗普扬言选举后重开战火，万斯却密信伊朗强硬派试探和平：美伊谈判能否在最后关头破局？
+### 特朗普发视频讽刺法国：别把度假的钱花在法国，去法国还不如在家看《悲惨世界》，那讲的也是法国的事
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-10-29 01:54
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSEs5X3RaMXlZc1ZKWS0tVWFMMGp1QW9KVHprUVZ3dE1sNmp3VjVpYTFXR3A4Q0ZuVG1rQ3NJSlJ0NDBjcUttODRhXzdOOFlDUlpPNlVsT1d1WVNDTXVYZmtLeU9keFN2SFZxTThVY09oaHFJZVd3LVJZZGFWTXUtTkR1Q0ItV3l2MHRjTkFlcTl0Q3psenYxenVHWUViLXFPRE5FUS1DR3hkQnZHdWNGWUFoLTdzV1o0SkZqTEUtT2pTOG9ReFE1WHJiLVpnbE9RSjJJR1lvVkZ5bzZfOWJR?oc=5>
+- 时间: 2026-10-29 00:40
+- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxONXRSeVRpZVZnRnRtWUFyQThLUW5YdmwzbFJBNmp5bUFEVE03UHhMWmxYdmlSMWNWV1dBbnp4WnFNRE9QMUVLM1EzNTVFUDMxdnZfMUVKUkRSc0kyYS1VYkJFcW5vV1lTa2RfMzduUEppVEVISkU4QWlCOUQzVmIxeW9DbXVEOGRYZDhSVC1fNXBPZFVPano1OVBZUmIxNVplTGt3dUkwNFRjamw1dFFYc0ZES1RpdUc2VFFCUFZ6aG5TSktNSFM5aTJsWGM5eFVk?oc=5>
 
-### 特朗普承认万斯曾致信伊朗 探讨医疗援助可能性
+### 特朗普当众羞辱路透社记者：“你这人真有病，身材还那么差”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: ThePaper.cn
+- 时间: 2026-10-30 10:01
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5d0M5MGZObEo2V0s4X3VqQ01ETVBZazdneURDVUh0ZXFKclg1bnNZaExSby1LbHJXZFYxUDl6OGlXUVVYcm9ONzJkcUZIWjVVR3ZqaE9wbU9FOHZnaEN4OA?oc=5>
+
+### 曝特朗普批准小博索纳罗入境 感谢接收引发关注
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 中华网
-- 时间: 2026-10-30 06:26
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1jY1ZlYllRNkljXzJFMHpoeTFpVmJWdTlXUDNtdm94QzhMc2RWZDRHVno0aU1scTFSMUpLR2luRUV0Qkg1cThheWEzUDloNDJJODRuQkhRVmJ5ZEphYmstWGp6YU5HTTdZU1p2b2Jkc3A?oc=5>
+- 时间: 2026-10-30 06:35
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5BX3YzNVAzYkFvTmpTa1h1NzlqSVUxNTAtNWdqVmJiSTFnQ2xNV1daeVVrcjdDdmxpNEVITkJrdHprbnc5TTgzckU2eVdqZzNiZmo5NjRzbVhOYnV0N2k0RGdFcHQyeUJjNFVBQmxfSEQ?oc=5>
 
-### 美军中央司令部司令向特朗普汇报对伊朗军事选项
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-10-29 19:34
-- 链接: <https://news.google.com/rss/articles/CBMizAJBVV95cUxNbHNDV3NhYzNIUGlsOXIwYWZJYkVVNG94eS1Zb1BOOE55OEtWM3BsVG5QZHd1aTZ1OFo0RjAyZWtKd2UtYllPX3M3SlB3aWIwTWZkdGVieDU0RDduOVNvblViUm55dFBjVkRYbl9ZVmg2dGFpYWxnVnUycHdZWC0xVzc0UXc0Zmo4Z3dZMmdGaXlXcWRFM2UxaF9Zdy1DVEhTYnpwRFlrUlJSeHdES0s1ZGFyNGU5RHdQQkRqTVMyLWJmTjVGcDkyZjNFSURVZktxdXViRWg1Ql9TaVhmaDFhSDZWYjNNZ0dpZXR3bjQ2cVMtRWlyTVZwUktydjFXRUVzanQ1WVdOSWhleWx1SW5GVGlvbXN1bExUQkZLWXpCNFpyMkw3VkJZNFo3aTJIaXVXcGNEeTBtVW5UWU1hX2Q0bmp2RElqOE1mT1hXYw?oc=5>
-
-### 美军高官向特朗普汇报打击伊朗军事选项
+### 秘密之行：小特朗普蒙古猎杀濒危盘羊，美前反间谍高官警告被俄利用
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-29 19:49
-- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTFBidHU5enljeHBZYnBhbm5IR0VkWWFQcE1FT0RfQUxqM3dZdmJVbWdpZjkxSXVPUTEtaVhvZjN4LTlMa1dsMVZKVW4wVnZDMWxUU2c?oc=5>
+- 场馆: QQ News
+- 时间: 2026-10-29 05:45
+- 链接: <https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBZUp1Nkh4V0tub0NuQlo2aldTTVJYUDQ2Q1liYjl0dUtGWnduUV82RUZGUUlpcDE0NW1ZdE9xSFZYR0hpakl5OGVDVlVQN1ZZTnZiUjdR?oc=5>
 
-### 财经早报丨美军最高上将向特朗普汇报伊朗打击方案，10架美国军机飞抵以色列空军基地丨2026年10月30日
+### 特朗普在白宫万圣节活动上向身着苏联和俄罗斯风格服装的儿童致意
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-10-29 23:17
-- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE9JVTBhajVLeERYYVdOeGhad3FQMS02b3pfWmZ3Z09jZ0FKTEhfbllNLWpramp5dU4wWG8xRGxIamk1bnhGbHJ0WFplUUJsZXJkc1Iyb3ZCTFYxdy1yR283VDJ2RDNlcmRDQ3ZYRXM5a1F3REdRNzFvNk90LVQ?oc=5>
+- 场馆: Mezha.net
+- 时间: 2026-10-30 04:20
+- 链接: <https://news.google.com/rss/articles/CBMimgFBVV95cUxNckdBRGg1d2tVSTlwQ1l6aHVfcDQzQXNCX01Xa044UmItODV5TkFlOXZxZW1HLUxfSUNRMGhuZEJNcWRfVmROM0xkQWl6OGs2Q1ZYeXROdWxDS1llbUN1Z040WGlaTE1McnRPUHNNUkVDRFppM1dieXB5N0hZaHMxQnBwdVhKZTd1QkVuckVjTXB3emVHbklpeEhB?oc=5>
 
-### 中国女高管与黄仁勋密切往来 美认定情报资产 特朗普据报知情未行动
+### 特朗普称伊朗战事将“很快结束”
 
 - 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华报业网
+- 时间: 2026-10-30 11:59
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE1qSWxDOGx1Qm45UlBQUWVyN3dvam1CWHBGbUxBeHdlVXRBbVphR2hvWTJFbXZRS3Y1S1pTams1MlRXRTJGLVZxTEVfYThSOHBENDNHR1BkdFFBT211djV0c3lOZEEyQ2tGLUdz?oc=5>
+
+### 美国专栏 - 民主党若夺国会控制权 对华政策料转重风险管控与关税检讨
+
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: RFI
-- 时间: 2026-10-29 13:38
-- 链接: <https://news.google.com/rss/articles/CBMi7gNBVV95cUxOWG5DWHBFYV95OF9MRUs1dnpSRVNERnZRbFA3Y01RZ2N3X2k2NlBqMFd6V0pBMXpaUHdjLTVrU0tDTUZaNzluZnBmN3UwS3EyNmZGWlZKYXpYN080aHg1bm1VS0RJX3VFVU9NczFiOUpySmF2allUQ3czb0FIWnduS1pMbzlGa2JDYmhiYjVYbnlfb2xmaHhiLW5aVzNlcDdobU91NkJzNnRQOXZwemsxVXBjaW1BMUt5MUtPYkliLUZ0eHhtUVppTmh6OGk0c1hvR0hLMFFGM3Z6WmNnb2VXLWswajJZdDgyOXE5alBpaHFzcXZmMVltNzNVai1LaWQ1aHJpLXFKUnV6UWJzSmFZb1F3aHpQQjZVX3VDbkhVVzZ3M1hUR002NHNPV1FpRW81elpHSDRrdnhrTmlJLVdYX0p5Qy0xM05NSWZkVXJuN3B6eVNMUGhlT214QTB4YnNINnhlNEVmRTZKSmItSW92VTdxTFpyTUdiMnVMT05CSEdHUE1UQzF3OVNVU3Z0M1o3MzRPMUpYZmw5NTZQT2VGQXdad0FlV3ZaQy12VHhLVFdBdm5wX21FV2Q0ejJNTUpRQi03VmpKT0VXa1NZWTRrdkxVek1TSGZHRUxINlAwSV9QOGNXNWoxWm0xdkhXUQ?oc=5>
+- 时间: 2026-10-30 13:45
+- 链接: <https://news.google.com/rss/articles/CBMi4gNBVV95cUxPaGRuOHZTcUc2RkpsanZnUjdIS0J1bHdhUjR5ZkYyOHdmOWp4amdSTExlTEVWZTFSNG1NQ2lGWkJVUVd0ZzBTcGNVSVFBNURsZXNZV0F1aWNualNZSFpIYVp6eTdGbDVIYUtoYTFWNFRuZUxnNHhranotdWVDbFJWRXpsV3VvMXgtZGJmV09NTm9USFJJOERJa0prV25ES2I4TmcxQkFuWHNDVV8yMVFUbWN2NVNGalJ2WUhndC1jSXVKQ0hEeGhFZHlhUDRac0NyZkZEYkxiaUtwSngtSW1ka1o2MnFuMDJyUi1tU21kZEUzMFJfTTUtM3VKNkVvcjdFNlVHbEp0TmxzYzRGdmplVUlYb2Z0Y2E5eGpIbWYyMlI2M01CSUd4cEFyempnb2FfekFfYjBYOWZkUXl0MHdFU0VsdHBDdUVQNWI4eTBDUUc0aDdXMl9CYU5QdVcxUWstc2V6M21sYWZOSFJPdHpCWnAtcnBhZC1YcFYxdXJRaHM3U1BfTkFqMExTS3E1V2g4eWI5MDVEM0R1SG5XSmZ1cFE3ZmpCQWJZWE1wNnFPaXlLMTlyNTVmOXUzX2VSNmUyVF9xODh3VWhZOGZxeGVIak1Hd2dUNDRQT0Itb0hNSFFKZw?oc=5>
 
-### 特朗普帮助博索纳罗逃离巴西前往美国
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-10-30 02:21
-- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTE00MUw2X2ZJRWhQbU9JWXB6S3RqcEk2YmJLVEtYYWZiQXBLSzdZOG04QjVPSUppaFN2b21kSDRmOWEzMURkeDJuM1J6UGhvcHFMMFlZQUdpb1NVby1Ya2ZUa3JuQWZkTDVnMzdVNWJ2eU84NHBrZUkyNHd3TQ?oc=5>
-
-### 黄仁勋被认为是中国间谍行动的目标
+### $美光科技 (MU.US)$ 为trump投票
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-10-30 00:42
-- 链接: <https://news.google.com/rss/articles/CBMid0FVX3lxTE5qa2FOLWs4SDZpQWJlVVh5TWhqaExMd2V1TXhHOFFrUG4xMVIxOFFTVDVxcGJuV2lVU3dXR0VWMWU1QnNQRlN4XzZORi1YZkd3QkdXcjBhN3dGQUNtMnBVUjZaQW4waGJzOWV6UElvZzFMcUk1eWQ0?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-10-29 13:58
+- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxQWDVWWUJObDhRVE9MT29pR1U1R3gyeGZ4TnpVdm54WFBsY043MkhENXRiZktRWUJWcDNobzJQNVRWME54Wm9VZTYtbmVaUHIyUldORVBnUVZldTdIQV8yc0xWV1lnRkhPMUZKd2hBbjRFVURLM3FUeEsxVVlyckxCVWFOVlpuOVdYTG9lVE9wVDI0N2VIWmk4UURkRVk?oc=5>
+
+### 第514天：加息 + 特朗普2.0 第647天
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-10-30 14:40
+- 链接: <https://news.google.com/rss/articles/CBMimgFBVV95cUxORVV0STFhQ0FGRFhQS196M3hQQzB5OVJiUlpZN2xCVnhLNkl3TU1VQzhOcUJKV2YxMkVOTlRJSlBXYlZWRzNCdE93cktCLWZhM2lsYVYyY29DN1ZKclZzWHJmUVZwVUtEUVdnY2tWWE5PcjJZWGVWZjBDSGs1Vi16c2pWbDRwZ0d4MENCdm5ySl9lVkQyam5LZ0hR?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-30 16:07  (17 条)
+
+- **王一博** | 我发布了3条微博，你被分配到的是i来帖， 钓i来来冲一波超话热度 <https://k.sina.com.cn/article_7879923674_m1d5ae17da03301sdi6.html>
+- **蔡徐坤** | 蔡徐坤官宣WGALA盛典嘉宾 澳门行程接档新加坡演唱会 <https://k.sina.com.cn/article_5727695436_m15565b24c03301xhog.html>
+- **周杰伦** | 周杰伦2026广州站开票猫眼近600万想看 <https://k.sina.com.cn/article_5719836546_m154edc78203301jdcq.html>
+- **周杰伦** | 周杰伦杭州演唱会开场曲《太阳之子》开场一开口就惊艳全场！ <https://k.sina.com.cn/article_5367731106_m13ff113a200102kyac.html>
+- **特朗普** | 特朗普对华降调，盟友、对手敢低头吗？ <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBnNmM3aVhDaVdaNGlrZkktQVZkSkRvdXBMbXkxQWxNNHpZYVcyMFhjQVFSdzJweFkxV180cGp0Z2hOQjlweGhRcEZ3OVo?oc=5>
+- **特朗普** | 阿拉斯加上演“真假美猴王”？特朗普下令严查 <https://news.google.com/rss/articles/CBMic0FVX3lxTFBVaGdZTURIX09uQ2w1WUt6LVdZbjBZRkxGOG9HVHFKQjUxYUQyaU1obnNaVThaQ3Q5M0FLMms4cS1IQ0ttVy1LWUZTVGQwQ3cxekYxZEpkVHRGMWlpcXl2bGJVa2xMWkFGSEo0bGdYMkJtQXM?oc=5>
+- **特朗普** | 特朗普称战争即将结束，但要求伊朗永不拥核-市场参考 <https://news.google.com/rss/articles/CBMiT0FVX3lxTE1UQ0IyZDI3UUZxem82WG4zb2hKWkdLUUZJNm9MTUw1UXcyUDduakJLemxKS29wS05vcDI4Nl9xQUdrY3BrUUtoUFR0RWFOODA?oc=5>
+- **特朗普** | 美国总统特朗普：伊朗战争很快就会结束，无论以何种方式。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1oZEVINC0ycU1VYk9CUGphQmRuYWhxbnkybW9Yc0NoUU9vV0xSMjlKU29HT2t5dzZDMVZPcEx5RWdjSl9nQ1Fxem95TQ?oc=5>
+- **特朗普** | 特朗普发视频讽刺法国：别把度假的钱花在法国，去法国还不如在家看《悲惨世界》，那讲的也是法国的事 <https://news.google.com/rss/articles/CBMi0AFBVV95cUxONXRSeVRpZVZnRnRtWUFyQThLUW5YdmwzbFJBNmp5bUFEVE03UHhMWmxYdmlSMWNWV1dBbnp4WnFNRE9QMUVLM1EzNTVFUDMxdnZfMUVKUkRSc0kyYS1VYkJFcW5vV1lTa2RfMzduUEppVEVISkU4QWlCOUQzVmIxeW9DbXVEOGRYZDhSVC1fNXBPZFVPano1OVBZUmIxNVplTGt3dUkwNFRjamw1dFFYc0ZES1RpdUc2VFFCUFZ6aG5TSktNSFM5aTJsWGM5eFVk?oc=5>
+- **特朗普** | 特朗普当众羞辱路透社记者：“你这人真有病，身材还那么差” <https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5d0M5MGZObEo2V0s4X3VqQ01ETVBZazdneURDVUh0ZXFKclg1bnNZaExSby1LbHJXZFYxUDl6OGlXUVVYcm9ONzJkcUZIWjVVR3ZqaE9wbU9FOHZnaEN4OA?oc=5>
+- **特朗普** | 曝特朗普批准小博索纳罗入境 感谢接收引发关注 <https://news.google.com/rss/articles/CBMicEFVX3lxTE5BX3YzNVAzYkFvTmpTa1h1NzlqSVUxNTAtNWdqVmJiSTFnQ2xNV1daeVVrcjdDdmxpNEVITkJrdHprbnc5TTgzckU2eVdqZzNiZmo5NjRzbVhOYnV0N2k0RGdFcHQyeUJjNFVBQmxfSEQ?oc=5>
+- **特朗普** | 秘密之行：小特朗普蒙古猎杀濒危盘羊，美前反间谍高官警告被俄利用 <https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBZUp1Nkh4V0tub0NuQlo2aldTTVJYUDQ2Q1liYjl0dUtGWnduUV82RUZGUUlpcDE0NW1ZdE9xSFZYR0hpakl5OGVDVlVQN1ZZTnZiUjdR?oc=5>
+- **特朗普** | 特朗普在白宫万圣节活动上向身着苏联和俄罗斯风格服装的儿童致意 <https://news.google.com/rss/articles/CBMimgFBVV95cUxNckdBRGg1d2tVSTlwQ1l6aHVfcDQzQXNCX01Xa044UmItODV5TkFlOXZxZW1HLUxfSUNRMGhuZEJNcWRfVmROM0xkQWl6OGs2Q1ZYeXROdWxDS1llbUN1Z040WGlaTE1McnRPUHNNUkVDRFppM1dieXB5N0hZaHMxQnBwdVhKZTd1QkVuckVjTXB3emVHbklpeEhB?oc=5>
+- **特朗普** | 特朗普称伊朗战事将“很快结束” <https://news.google.com/rss/articles/CBMia0FVX3lxTE1qSWxDOGx1Qm45UlBQUWVyN3dvam1CWHBGbUxBeHdlVXRBbVphR2hvWTJFbXZRS3Y1S1pTams1MlRXRTJGLVZxTEVfYThSOHBENDNHR1BkdFFBT211djV0c3lOZEEyQ2tGLUdz?oc=5>
+- **Trump** | 美国专栏 - 民主党若夺国会控制权 对华政策料转重风险管控与关税检讨 <https://news.google.com/rss/articles/CBMi4gNBVV95cUxPaGRuOHZTcUc2RkpsanZnUjdIS0J1bHdhUjR5ZkYyOHdmOWp4amdSTExlTEVWZTFSNG1NQ2lGWkJVUVd0ZzBTcGNVSVFBNURsZXNZV0F1aWNualNZSFpIYVp6eTdGbDVIYUtoYTFWNFRuZUxnNHhranotdWVDbFJWRXpsV3VvMXgtZGJmV09NTm9USFJJOERJa0prV25ES2I4TmcxQkFuWHNDVV8yMVFUbWN2NVNGalJ2WUhndC1jSXVKQ0hEeGhFZHlhUDRac0NyZkZEYkxiaUtwSngtSW1ka1o2MnFuMDJyUi1tU21kZEUzMFJfTTUtM3VKNkVvcjdFNlVHbEp0TmxzYzRGdmplVUlYb2Z0Y2E5eGpIbWYyMlI2M01CSUd4cEFyempnb2FfekFfYjBYOWZkUXl0MHdFU0VsdHBDdUVQNWI4eTBDUUc0aDdXMl9CYU5QdVcxUWstc2V6M21sYWZOSFJPdHpCWnAtcnBhZC1YcFYxdXJRaHM3U1BfTkFqMExTS3E1V2g4eWI5MDVEM0R1SG5XSmZ1cFE3ZmpCQWJZWE1wNnFPaXlLMTlyNTVmOXUzX2VSNmUyVF9xODh3VWhZOGZxeGVIak1Hd2dUNDRQT0Itb0hNSFFKZw?oc=5>
+- **Trump** | $美光科技 (MU.US)$ 为trump投票 <https://news.google.com/rss/articles/CBMinAFBVV95cUxQWDVWWUJObDhRVE9MT29pR1U1R3gyeGZ4TnpVdm54WFBsY043MkhENXRiZktRWUJWcDNobzJQNVRWME54Wm9VZTYtbmVaUHIyUldORVBnUVZldTdIQV8yc0xWV1lnRkhPMUZKd2hBbjRFVURLM3FUeEsxVVlyckxCVWFOVlpuOVdYTG9lVE9wVDI0N2VIWmk4UURkRVk?oc=5>
+- **Trump** | 第514天：加息 + 特朗普2.0 第647天 <https://news.google.com/rss/articles/CBMimgFBVV95cUxORVV0STFhQ0FGRFhQS196M3hQQzB5OVJiUlpZN2xCVnhLNkl3TU1VQzhOcUJKV2YxMkVOTlRJSlBXYlZWRzNCdE93cktCLWZhM2lsYVYyY29DN1ZKclZzWHJmUVZwVUtEUVdnY2tWWE5PcjJZWGVWZjBDSGs1Vi16c2pWbDRwZ0d4MENCdm5ySl9lVkQyam5LZ0hR?oc=5>
 
 ### 2026-10-30 09:25  (14 条)
 
