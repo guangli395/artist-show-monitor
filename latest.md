@@ -1,132 +1,82 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-31 12:54**
-- 本轮扫到 15120 条, 新增 **15** 条
+- 最近更新: **2026-10-31 17:28**
+- 本轮扫到 15127 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (15 条)
+## 本轮新发现 (7 条)
 
-### 蔡徐坤官宣澳门W盛典嘉宾 新加坡演唱会后启程
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5727695436_m15565b24c05301xkbk.html>
-
-### 蔡徐坤新加坡演唱会舞台掌控力拉满
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1852855013_m6e7052e505302wxyq.html>
-
-### 嘲讽力MAX！挪威回怼特朗普：让“粪坑”再次伟大
+### 担忧特朗普遭暗杀，美军方在海湖庄园附近部署防空系统
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-10-31 12:07
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1ZNlA1bnBIRVhkbjdSOVZLTWhRNk9HT3Z4V0d3X0JIX3dENzFHYmNpSVB5dGc1UktWemstRHkxNGRCWVRHb0F4d1NTT3RicXJ2aGtYUEZCZUhpMklKZ1J1NjFqM2dNZE1JcVg4bktVTS04RDA?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-10-31 08:35
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5Cc0pBNEttRVpxQjRUNXp4aDNzQWdpQWdHQllqM2N1U3g5Zmd3SmY4M3VtZ25kX3FzTVFxNzZqQUF3TWdmRUlhZHBWdXc?oc=5>
 
-### 特朗普称伊朗战事将“很快结束”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-10-31 02:29
-- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxOekJaaG96TF94R0FkcFl0T3dORUtrck14QjhsLXdzcUNnUThPTG9sUjRGY2RnZTlIVHdMRS1wc09QcnN4dnBOMjNCR01rcm1fZHg1TUNUa1dMWXZ2OGhsazRXb0VGWVRQclJWUFhZVDhiRFRQV3NhZWZJdDh6cWNLMGMwaFlpRGM5SnpuN2VfemYzQVd3RURRTlNmZHotdFg5bi00dVUydmJvQQ?oc=5>
-
-### 事关助选中期选举，特朗普改主意了
+### 特朗普再称伊朗战事将“很快结束” 多架美军机飞抵以色列
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 环球网
-- 时间: 2026-10-30 19:58
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE00OHNDS0JZMDVqdDlNNTBLOWEyQkYycmRDUWRXRDBnWmxxVEpCWnFJWFJoRzJYTkVqQnVzSy1aTDVCaHRxM2tOeGFoYTg5S0lKTkw5LXhYYVQ?oc=5>
+- 场馆: 东方财富
+- 时间: 2026-10-30 22:53
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VS0ZYX1lfbDhmY2NIM2JRTW1JcU9MbS1rc0o4djI3ZWRrak1BSjBtdC1GNll3N3hGZjZVcEhzdDJzNV85V3RLOGFyVzFQTmdLU1pzQjVxdExpMl9BT2xJeg?oc=5>
 
-### 特朗普：那些民调机构太坏了，我的真实支持率应该是104%
+### 特朗普计划中期选举后打伊朗？赫格塞思、鲁比奥想打，万斯想谈
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-10-30 05:36
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1zTEJLNW5kQUtjUlJOY1BmQ3l4aUZoQlY0ekxjUXJYYzFWS0hKNjhYdUVucVdDcDhnb1d0N2tTc0piRXlFU19nM3hvazZhWS1sNW5Hd2JPZVVub3RwM3ZDbjB2NDlmdS1iNG5ldFhFZkZfbWM?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-10-31 12:23
+- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRW5GT0ZQSlA1TUZXRUJQb09EeXRwa3Y5N0tTRE5jMWVEWWRJOUtJQUdXU2tMbnBKZHY1bklCYWd3ZFI3bE02YktqS1NVUndQQW9ETklQdU1sNDlNeGFLSU1fNG5FdGJ1QTgzVUR3REtxM0pNcjViT3ppVWtJS1Q1WXRRY2NMRUVhcktDSTdGY19ka0ZJZWJ5TnNrMXN0UG5uRXdyTXYxcmJOaEk5WUFpVjhzV1FDYTVFb3llMDI2TnFQT29Fd0dWQWZwZ2M5Mkx6WEE?oc=5>
+
+### 特朗普中期大考，教皇寄来“附加题”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 风闻
+- 时间: 2026-10-31 14:06
+- 链接: <https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DTmpyS1owdUlNQ25wSFBORGViVHVOLUpnRHdyZEJxT1k2YXZOV3lfeF9rRnRGcG9wcWgyTkxabFRoWDNqc253S1h4b2oxcTJ4Tzlsb29NTDFNbjA?oc=5>
+
+### 当地时间10月30日，特朗普演讲时遭抗议，特朗普：闭嘴吧蠢货
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 搜狐网
+- 时间: 2026-10-31 14:12
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxNdlVnNnB1M3ExOVp2ZVhWVktWRmJTdzNtd21BQ1JXbGxRNlJpMzVlUlBFdGs2SG1rOS1GQWZzZTUxcHJ3R0lNQXRjUFhlc3BNdFJTZTNudnM5RHVOM3hFYWtpOW9wVy1Db3BvTFlhX2NpQ2xsUnFpWEg2ZUwzODN4MjFuQ1RkX1ZrNHh6Mw?oc=5>
 
 ### 小博索纳罗太“疯”，“特朗普不打算支持他自称巴西总统”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-31 11:54
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE0tai1jSTk2ZlhNaFVqMWpuQW1ZRFl2cTNtdlVCR1FCVVBqV1VOV18wV19LN1ZIbklZYU1McHJvYjBwdFI1WFIwSkpDSXI?oc=5>
+- 场馆: 观察者网
+- 时间: 2026-10-31 09:23
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1fNW13RHdyVUZsNWt3VWVyVVBEQzYxTGljMUZGNnp3c3FEYy10NG5PcUlJTlpBWDJ1Z18tZmpXSVl5MnEzY2swM2dtN3lqYU1NbFR4TE5Uc3N5RGZQZmMwbjV4c1B3bEVqWW5oVEw3dWQ5bkU?oc=5>
 
-### 加拿大欧盟建“未来联盟” 特朗普曾称此举“可笑”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-10-31 08:03
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9rQjhyMG4yb3dMX0g2eDhiWWN4bkI5UUMwQ3JORXNybEVmR3R6d2tZNkdmX2RhN2sySlpIdGh4RjVPVGZJYmFTU1FUOFhjWTlJN3c4Um5LamlURHVka3dlVU54b1dYbHhpd1pkek82eEM5TFhObFRtdUQwSUdpaHc?oc=5>
-
-### 特朗普给奥迪开绿灯！关税大棒松口：奔驰宝马陷尴尬
+### “等特朗普走了，美国会变好”，这种幻想才是加拿大最大的“病根”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 驱动之家
-- 时间: 2026-10-31 06:30
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE52N0dvLVBLSGIxSEtIci1wWm15Mmhwd1llRkNTa2FWZm1QZzVUQ3hiNkdSR2pyek8wdE1XWEEyZW4ydWhweTFJd2xVNzhqMkQ1VllzdGNKX3o?oc=5>
-
-### 特朗普：曾有“愚蠢的人”想让我制裁俄罗斯
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-31 08:08
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE01Uk1zcFRlQ0R0Y21LbmllOWRtSXlMN0lWUFR2d1RQZ3d4Xy1XNFVpZEhWWGVSVm42Qkd6bEpuOElNWGNPcW0xQjlOZzc?oc=5>
-
-### 特朗普：曾有“愚蠢的人”想让我制裁俄罗斯
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-10-31 08:52
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9UQjRfdDBOUG5FeGtZNHdFdkxHNF9QdnotdmNnclZqZm16MWNYMTZWaUU2OGEzSXNBQTEwS0NoWXlOd1lGUnVvdXlaYmFfWGVIX1U0ZnJqZjFDbUg3aExtSjViZTc5eDk2SFBsY2RHbmhycHJGT0hMT1BkQ3ZEWWM?oc=5>
-
-### 特朗普：曾有“愚蠢的人”想让我制裁俄罗斯
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-10-31 08:09
-- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTlIwZWZaVjZfcHZYemJOa3NHVkdnNXJVYnhvTXM0amY3Nm9uSmZNcm93QjJ1eEVHT0lkVjVpU3dWUmphdU5wbWdfYWZ5T1ZoaGQzNVoxMUJJVDZJSWIzREZRZzlkZDF4R0s0SU5rSkZ5OUZjRmZDNkpxd2ZlMXBKdE9PbTh5UDRY?oc=5>
-
-### 特朗普骂记者你真恶心身材走样 政策质询引发争端
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华军事
-- 时间: 2026-10-30 05:24
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE0wUU1JZ1IxX3ktVWVCSklrN2hTOVRkQml3akh0eDM5SHFJRmF0UTNXLWZ2WEtfT0Joc3Q3MHRydnUwU0FBWWkzQS00dl8zR2xrak1RdUVISzlWUnJBeWprYkp4YVJxNlF1al9oMGhNVmw?oc=5>
-
-### 選戰進入最後衝刺 川普赴佛州為共和黨助選
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 大紀元
-- 时间: 2026-10-31 07:33
-- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE9lVWJYTmk5cWlDaTFlcmRJTXBScUJCR3llYVpMY3puSDN0YjR0MkNKN2VlSlZYdmNlTUZLT1BsWmFBb0xibi1zTTZfMTJPWXBRZ1p4ekNSUEM2V1BUN0pXb0130gFnQVVfeXFMTmlfS2I2YS1tUHUzVXhLM2ljYmFkV1JZa2hLak52NkpMN1hLZGw5U2JDRzQ2Y2gtRnB4RlNqdkVYMUEybG9SbXh1Zk9SbnhydnNOZVNNWWI1Mmx0bmROY0E0d01uaG12OA?oc=5>
-
-### “令人恶心，看看你这副样子”……Trump对记者“健康提问”恶语相向- 阿视亚经济
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 아시아경제
-- 时间: 2026-10-31 01:00
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE40VDA4VDY5VjRqeWxOUzIwOEJsVU1TQ3BWNDM4c0hkWkZDa1oxdmJxUElVdzNBajlqeDNlVzlDdlpOWFZubU9XV0dPLVFsTThsX24xNVJOOVBNTXRQZnF5OEFaVTY?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-10-31 15:42
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE5NeG16WENsdGhhNHByQTVja1o0Vzl1ZVFOZUJwbGpQWjNMOVo4R3lFRkNNWjBXNWhLVjNpRmhjckcwNTFrd1ZSNE5uRTAzTE9oRjlxOEJaQ3pEeTQ1dmo0Mm8wYTBxeFlhYVJkODlyUW9GZ3B3WEE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-31 17:28  (7 条)
+
+- **特朗普** | 担忧特朗普遭暗杀，美军方在海湖庄园附近部署防空系统 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5Cc0pBNEttRVpxQjRUNXp4aDNzQWdpQWdHQllqM2N1U3g5Zmd3SmY4M3VtZ25kX3FzTVFxNzZqQUF3TWdmRUlhZHBWdXc?oc=5>
+- **特朗普** | 特朗普再称伊朗战事将“很快结束” 多架美军机飞抵以色列 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VS0ZYX1lfbDhmY2NIM2JRTW1JcU9MbS1rc0o4djI3ZWRrak1BSjBtdC1GNll3N3hGZjZVcEhzdDJzNV85V3RLOGFyVzFQTmdLU1pzQjVxdExpMl9BT2xJeg?oc=5>
+- **特朗普** | 特朗普计划中期选举后打伊朗？赫格塞思、鲁比奥想打，万斯想谈 <https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRW5GT0ZQSlA1TUZXRUJQb09EeXRwa3Y5N0tTRE5jMWVEWWRJOUtJQUdXU2tMbnBKZHY1bklCYWd3ZFI3bE02YktqS1NVUndQQW9ETklQdU1sNDlNeGFLSU1fNG5FdGJ1QTgzVUR3REtxM0pNcjViT3ppVWtJS1Q1WXRRY2NMRUVhcktDSTdGY19ka0ZJZWJ5TnNrMXN0UG5uRXdyTXYxcmJOaEk5WUFpVjhzV1FDYTVFb3llMDI2TnFQT29Fd0dWQWZwZ2M5Mkx6WEE?oc=5>
+- **特朗普** | 特朗普中期大考，教皇寄来“附加题” <https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DTmpyS1owdUlNQ25wSFBORGViVHVOLUpnRHdyZEJxT1k2YXZOV3lfeF9rRnRGcG9wcWgyTkxabFRoWDNqc253S1h4b2oxcTJ4Tzlsb29NTDFNbjA?oc=5>
+- **特朗普** | 当地时间10月30日，特朗普演讲时遭抗议，特朗普：闭嘴吧蠢货 <https://news.google.com/rss/articles/CBMijAFBVV95cUxNdlVnNnB1M3ExOVp2ZVhWVktWRmJTdzNtd21BQ1JXbGxRNlJpMzVlUlBFdGs2SG1rOS1GQWZzZTUxcHJ3R0lNQXRjUFhlc3BNdFJTZTNudnM5RHVOM3hFYWtpOW9wVy1Db3BvTFlhX2NpQ2xsUnFpWEg2ZUwzODN4MjFuQ1RkX1ZrNHh6Mw?oc=5>
+- **特朗普** | 小博索纳罗太“疯”，“特朗普不打算支持他自称巴西总统” <https://news.google.com/rss/articles/CBMic0FVX3lxTE1fNW13RHdyVUZsNWt3VWVyVVBEQzYxTGljMUZGNnp3c3FEYy10NG5PcUlJTlpBWDJ1Z18tZmpXSVl5MnEzY2swM2dtN3lqYU1NbFR4TE5Uc3N5RGZQZmMwbjV4c1B3bEVqWW5oVEw3dWQ5bkU?oc=5>
+- **特朗普** | “等特朗普走了，美国会变好”，这种幻想才是加拿大最大的“病根” <https://news.google.com/rss/articles/CBMidkFVX3lxTE5NeG16WENsdGhhNHByQTVja1o0Vzl1ZVFOZUJwbGpQWjNMOVo4R3lFRkNNWjBXNWhLVjNpRmhjckcwNTFrd1ZSNE5uRTAzTE9oRjlxOEJaQ3pEeTQ1dmo0Mm8wYTBxeFlhYVJkODlyUW9GZ3B3WEE?oc=5>
 
 ### 2026-10-31 12:54  (15 条)
 
