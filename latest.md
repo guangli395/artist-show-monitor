@@ -1,120 +1,100 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-30 20:57**
-- 本轮扫到 15086 条, 新增 **13** 条
+- 最近更新: **2026-10-31 00:23**
+- 本轮扫到 15095 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (13 条)
+## 本轮新发现 (9 条)
 
-### 爆料：特朗普连续施压，乌克兰暂停
+### 欧盟与加拿大周五宣布建立联盟， 对付特朗普对美国和传统伙伴关系的破坏
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-10-30 22:36
+- 链接: <https://news.google.com/rss/articles/CBMi7ANBVV95cUxONDNvdjVfWlVMbjR3SWtDc1RvT3FKajdBNWFHeUxaaGlDMy1SSmxOMHpHTTR5enRoVjl1dGxFODZEYWtRV2ZyampwT0FiTGNnTW1PMDhWaktzQVI1ZURJTXo2a0c3cHdDaU1ROFMyWFF2NG5lQjd0bXJTRHF3STd5RkZScmdpUkoydEJGUVhWZmh5Y3I4c2FEOHAwTkRsX29lUVhKTnBHNXFIRlZFYzJqM1lhMzdRQ19fMm1SZ0VWQkp0WEZpZWxpV3lkTzBZbE4taTd3aEM0eDZrRFJucTBVUmd4aVd3NkdGUmQzWVVzU2JuSk9qdHh5em9JSVZNbnhDZVFObjctcjcwTjNlQzJWb1dmbjBGZmN1c1J6WGlMaHNELTFKTWxFN0VKZF9VdkVxa2twUnF2VWRxNHZoNTJZSEtPQ1FXdmo3cDdZM0RlY3JfbGdLR2JsOWpWT1JNQ1huQV9DV21PbEpMV3JLUW5MUm1nN1F6WG9KSnk2aTJpdG42dVZCMjRLMklUeFZUMGhweEp3WjlDaXlVMmhRd2lWekZWbDFOenUzc1dpa2NZWTdlUHdYRlNZa2Z3cDRza1R3Y0dGbGhBTzJ0cWZmTGYwUjJzX1RybUJVWmR3OV9lQkk3VFBzQVBhT3cyQjE?oc=5>
+
+### 美国中期选举：被问是不是吃不消了后，特朗普把取消的堪萨斯州和爱荷华州的活动又恢复了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-10-30 22:45
+- 链接: <https://news.google.com/rss/articles/CBMiwARBVV95cUxQNEdKaHdRV0wwczRPMnA2OWpGYlJrSnQ5bVRDb1RRc1VoY1JvUkJYczBTTExRMEZZOFY2bGJwNzhzTlF6SWRBd3lIQWJFN0R3UGZWNUx1MjhTOE93ZHFjTldMckVOajhwNHAtam5XMFE4cEZzYkJMcFBOQ0VhTGl1RV9Qd3NBVUw4NFgtVGUwUkhNU0s2UVFKb1U5eVBLUEwzQ3psSVctaUpZSmpXTk43U2FLY0FKaHFEcDJfbFl1eFdFMkVyUjBObEtUMkh6MDB3LWpCdHVxMlZSVFdnUDBzMVM2bk9oWHY5UVF4NTZoaGRQWk91MHVwdnR1NF9vTU5Xak9Kb2l5dXh1U1pBR3VoV1lYQnAyYkd5REhpTzh0VVk4X1NyTE9TZHA4aEFOcWZCTUpBbEpaUWJ1VnFLblc0YTFrTkt1U1dRZ3MtQW1FT3NQYmN4d3pSR1I0aTFOdlA4dlV5OXpTZ3lhY0dYWFN1NW9mQU8wUVIzZVhKNVozRkFOR1o3VVBub1o5RWZBZ3FzVVFPX1NqbWRfbW56VDdyZ0gwbXpFekk4R0M0YlFjUHhTZDJSdFBwX3NhRURpcWluRWZoWTdNcGdqTDdfX0lOemYtejFBZFQ1dUQ3WTk1aVctbG1qNGYwcHVpX1NlRjRzM0R1c2tHQVFIb1U2U1JKUHVRZkdiYnBnLXpEU1lPMGwxSkV6YlFfYzhLdnp2Ql91VWRKX19LMHRXdTNVNmRlUTNoZ0VYNmFlWXpKS2R1Q3g?oc=5>
+
+### 特朗普夸赞共和党参议员臀部，万斯：我嫉妒了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-10-30 21:22
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1JVnBUa244RGVNZ3JPRXhHNjFVczZBNmNPeVdzNDRoZTNDZ1BURTQwX21rYlIwU3dKYzBZWFl1UkhQejVDVUpCekFfNC0?oc=5>
+
+### 视频丨特朗普再称伊朗战事将“很快结束” 多架美军机飞抵以色列
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-10-30 04:07
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBCTG54LW5aN1F2UDg4d1hPb3JfbHFCTUhZX2MtbnpFX1RKS09Ea1ZtLU1tbzJBaTAtRF9Hdy1uSnJRWFVJaWpSQkhCUkpVeTVGYWlURDlNTHNfeWtEMlh1bGIyQXJPbXBIcjFCOWY4c3ZFMXpiOFMzYw?oc=5>
+- 时间: 2026-10-30 22:03
+- 链接: <https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSUlxaEVXcWFSeWtOZXpEbWtZaWczZ2NjblRweWVvMnotMXU0c1ZQWmcyeE5tVkZ6Mmx3OHZENzI5Y2JuUUxXSFRkSmZFcmhQWlF1d2xsbnFtUng2Z01EUmg0cHQtcTluQUhVNFczTjdOTWZ0X09vZkFyS0JmTXdKaG1tNGxnU3NXeHEtakMwRV9qbFdSWXZEeG1ZQ1ozTlJPQ0N1eExhb0djdXQxZVFKWXNhT0ZVcGU3ZV8xN1NoaGFwbF9xa3BLOUJTZTBPMzZHc3RCcVFMek0xUQ?oc=5>
 
-### 美国总统特朗普：未考虑解除对俄罗斯主权财富基金的制裁。
+### 特朗普发视频讽刺法国：别把度假的钱花在法国，去法国还不如在家看《悲惨世界》，那讲的也是法国的事
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-10-29 00:40
+- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxNQkhCZWNOM2hqR1RNMFp6N193SnNVT2VZbDUtVXJBTlk2a1d6R3gtWWhseWVfQi15SzlHOWVVWnRYQnYxY1BmLWJXN0RnbG1vdlQzcGZRWENUZXNwMVpoNGFLTFdka2RWWER2cmVRenowMDFYQkk4WnlIZ05CTVdkeHJiWlVVWlhlcGRTTXRzdWFMelFMSGlrZXU3NlBKanA4TXUzaHJyaTVfMDVxT3hKalI3c2JXWEV5Q002VExLbGtqMnA3ZEstcGJ3YU1JMEE?oc=5>
+
+### 市场信息：特朗普政府......_7x24快讯_新浪财经
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 手机新浪网
-- 时间: 2026-10-30 20:04
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1KV01tbXJYM0ZIVzFIblhGNUhyTk9zLVhfa2NmbFlqb1QzN2RZaU02SWlYaEt3TFJsUVgtbS1fb3o3ell5bjVfVXh3cw?oc=5>
+- 时间: 2026-10-30 17:37
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1YcmFoM2g3T1VQbDR3WjFUNFdsVnpWbGhMQ3c5djhVeG1ROHd2QUZXanp0TTk2N2RxV1RfanlSZTYtUFNNT1dURUo3VQ?oc=5>
 
-### 美媒：特朗普施压乌停打俄炼油厂 美乌关系危机影响决策
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-10-30 04:57
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1WTU56ZERCWWFsWTFOaElUSExGempwc1lmeVQyVklNQWE0aUItSHhlcWJlMVVMamdaVzlIalE2ZjBZRURGX1hyVkhzc0ZKbU5hLWt4emNyQmtISmpUcmNOQWEtbm5iRGR2SDFCVGZwLXg?oc=5>
-
-### 美国总统特朗普谈伊朗：正在开展谈判，他们愿意谈判，谈判一直在持续。
+### 特朗普再次表示伊朗战事将“很快结束”，但反复强调一个重要条件
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-10-30 20:03
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE41N01iV2ZNQzE4TTNrX3hqaURJMlM4YjFBTlN6aXBrWFVqMFVDd2t4Zk9lVEtKMmthOExtRE1MY0p4REpjTnZhZC1adw?oc=5>
+- 场馆: 上观新闻
+- 时间: 2026-10-30 22:23
+- 链接: <https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJRnZwXzI2cWpyd2Y0ODZaWDlWbE1pT1NyWlo1VllXQTd1RjNCN2U5SXljMUNqay12QVZpaDI3bWRKTWszdGhkdXpyRVlGMU1uTE02bHpPRU9hZw?oc=5>
 
-### 特朗普取消两场周末选举造势活动，改以电话连线助选
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-30 05:42
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBLY2FoRUMyYk9xR2lBei1IMU5QZHVIX2kybTNuMV9IVHMyaTRXS0VUWFdpUFBkdjFOR2RhOEI1bjZDUEc1Z0Z2NERCQXk?oc=5>
-
-### 特朗普对华降调，盟友、对手敢低头吗？
+### 特朗普称美伊战争将很快结束 中东局势再临关键窗口
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-10-30 12:54
-- 链接: <https://news.google.com/rss/articles/CBMizAJBVV95cUxNQzVjczQ0ZnotY2RQYmJGLU1iVDhtdy1QY0tTVzFKbWZyTEtDUFpEbEdsN2UxelJiRjVOMU01VXhfZnVnbVNIajIxSjg0NFBWSmFVU2NwMWlTNFpraVdZNGFVUlR1R0ZnT1BFWnNzUnBPSktWVVZKczhqQ3pDV0VyVkxlX1ZGT19TS3ZXd2VUbTNfMWFITWdUSldhNnZNVDFOSnlrYXhnSUJ5THZrX09ieUJ4MUJFaHpzUTZ0NE5SckE3UDIydWRkcUZ4UFZwSW41bjRSbm11dzVfcTBWd0c0SWU1by1QeFNHMUZRMUtVNk1QMEpBYWtUQnh2YWh1ZVlVbU03eC1JWjl0MmhEZ1g2NllMd3RQMGNqSlNOd2VHNEF6NUdhd0ZKa1Jzc1dJLTBUOUxFYWp3YW1lYnhIT3BscVRSX0RUUWtuU2JUSw?oc=5>
+- 场馆: 财联社
+- 时间: 2026-10-30 13:19
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTFBKaFZOZTY5S0V4U0tPaHBaaUVRdlVibm11ZDBHNmY1STZJUGVBd3lsSWxfMGhoMDc5MmVacTl6VVRuLUp3ZEFsUg?oc=5>
 
-### 被骂“芯片小偷”，台当局竟称特朗普是“有点挫折或羡慕台湾”，岛内哗然
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪军事
-- 时间: 2026-10-30 16:19
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFBTMWt0eEl0UXVFUDlTRTZGT3pGQTFkdXg2OW0waDNHeEtDb3JzOXhEZjZLV25tWl9IVDYtWGFHdHpfOHdKVWNESExIcHEydGFUc0w5VWp1NjVJbVVEczVkUktlZlZpQWhESkFETi1jQkZRMGc?oc=5>
-
-### 奥巴马特朗普“口水战”中的芝乐坊
+### 特朗普称伊朗战事将“很快结束”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-10-28 17:57
-- 链接: <https://news.google.com/rss/articles/CBMikAFBVV95cUxNdWZVWEI2UVZvazZNZFdzdUFwZFJUbkxOelMzTEhRS2xvcE9QWHVybmpDSU4yMXVOY01jcVcyRXVVN2xwc0ktZ19GdHh4empVRTVTN1NjbVBwWGYzSWVROUtMb3oxX0xxY3hjLVJsLUNRMHkwSHRUMXFaSnVkd1hUUkN4R3JZQW1sSDlUVXYtdW0?oc=5>
-
-### 奥巴马再讽特朗普：被比作萨达姆不生气，却为芝士蛋糕工厂跳脚
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-29 15:52
-- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GRG5aWDV4cWlINmd4QXNKMVhWdnpCSVVpZjkzUmdJWFlIUnppUWliTjFXQTVNSXEwSGoyRnhPZlV2aU00VmxiSlBNSEVMb1VrWGc?oc=5>
-
-### 特朗普总统表示与伊朗的冲突很快就将结束
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-10-30 16:52
-- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxOUXFkVENMUzFSUDVTd25jZS1LXzhVTFpLWDl3bGFIVVdDdVhudkY2WjR5TzY3dVFvS0dkQmhsclZlWHBVWTZSQ1M4dG4wRVJNWVUtVThnYW9ndjBYWUlDc0p5VWZkNmpiN1pqbk1LXzllS3N1NjQ0Wnk1Q29kLXN5ZmlpaXB1dERsdFdTRUVzN05MZVBKeHJFQ29jZlXSAZ8BQVVfeXFMUEJ6QzhWRkRpRDMwWlVYZTdYc3R1N0pmaFI1cnJjbVY1Wnd0V2dTdEFERlB0Z2dYT0NQWmstclQ3R0M1RDhhV0twSjltVzUzbmtORWtmTWhfclFxeUtTZkxNWHNydWJzbjdUSVN2MEdrNGw2cmJJbFJYZG5JckZxLXZIT1RMelNEWnZsV1VpbGxkZWRfNTlJOHd0OXVZYlZv?oc=5>
-
-### $Bloom Energy (BE.US)$ trump 股市来了 巴菲特都被套
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-10-30 07:00
-- 链接: <https://news.google.com/rss/articles/CBMirAFBVV95cUxPMUlkYUY4OVlKbGpoSy1CTzd4dENNSl91dlYxelJhWm0tYThtdEhfYVJuVThoclRmRU9sTERwS1JfdnczZHdoaXZYWV9zU29PcmJpWEZDZzJ4U3Vtd21mSHA0Q3NfbXBfX2RjbHJoNEdYaUNOeV9tdk5kb2hsdG5xdG5KbzJpbmxHb1MxNEJFTWV5ZnBGM2l5M2FsMHFvNjBTWDg0S3plZThkeVpv?oc=5>
-
-### ‘Trump是暂时的，Balaji是永恒的’：印度‘签证神庙’信徒为获签证更加虔诚祈祷
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: The Straits Times
-- 时间: 2026-10-30 12:22
-- 链接: <https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZURtSGpqR2hsa0RocjNua2VQQzVGbFRfVGt5XzZCWi0tOWJ4bzQ2UDJvOVdQNHlSSnNhcFFqd0lRX3NaLVYyMFBRVFgyZEV2dWZPT0E5Z1lWSWNKdVAwaVdWempYT29NeHBMMTJHRDdNQjJrbHNtMGktTmNVdXNrdWprS2s3OWY4R2Z0X0N5WUxvNHdKUG5nX3NnN2ZkdHVfMlVJU3hPUmdnQ05XZmNqbUgxMUlQX0c0cGRncDluVm5TMl9TWEtKTHFSMEtlbDlpZmdpWUhBMlY0LVJI?oc=5>
-
-### 随着美国中期选举日临近，逾4500万张选票已经提前投出
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-10-30 16:29
-- 链接: <https://news.google.com/rss/articles/CBMiswFBVV95cUxPampMOVE0RXlFRk5qZWJOZ3c3VFI2RHRQdDF1TjBYeWRDTG4ySmxtMEhXZEEyVXp5LWJYMkJWRmMycGUwdUdORmlJalF6cE5GbjYxSkw3WVNuNDhXQ1NSUmk0UjI4R09ObzJSUVdHMzgyeUZxOTRraEdjUGlpWEJpTWwwZUY0NlEzMC0tdlJoU1VwZzhFMlVfZTB4cGlYWVJ1dW44dHFFcy1JbGRvdDRvUmc5Z9IBtgFBVV95cUxQQlczWmdueEpna3hnRzh0VFNyYVhNYkVjZ0U2aWdSNUF6eGtMZlFtVG9Hd3FndnU5V1BGVktDUjR0VlBtMEVhS2t0U2w3ay12YmpOdHUwTzhKQ1NEMDhpZ1JwcVNkTm9Sekw5OHZ5bm85WnhmWHc0N0FSbEg1ejRlbFVXZ09XMkZYLVZSZGFYV2Y5N0RZMkQ3MDZLNWg2a1VPV1BSM0piemJSc0FPSnZMMkd2NExGQQ?oc=5>
+- 场馆: 新京报
+- 时间: 2026-10-30 11:54
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1tOFpSSE01eXhUaks2RzJLX0x4UE13aHlUZEtDcnlKQldzVGN4UkIwOEhJVEp2eFE1U3FEREJ6R2U3TlcxOHJoMm9MQnpMSlZGQlBFMm4xVnNKc1M0RmI2U0lQMmE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-31 00:23  (9 条)
+
+- **特朗普** | 欧盟与加拿大周五宣布建立联盟， 对付特朗普对美国和传统伙伴关系的破坏 <https://news.google.com/rss/articles/CBMi7ANBVV95cUxONDNvdjVfWlVMbjR3SWtDc1RvT3FKajdBNWFHeUxaaGlDMy1SSmxOMHpHTTR5enRoVjl1dGxFODZEYWtRV2ZyampwT0FiTGNnTW1PMDhWaktzQVI1ZURJTXo2a0c3cHdDaU1ROFMyWFF2NG5lQjd0bXJTRHF3STd5RkZScmdpUkoydEJGUVhWZmh5Y3I4c2FEOHAwTkRsX29lUVhKTnBHNXFIRlZFYzJqM1lhMzdRQ19fMm1SZ0VWQkp0WEZpZWxpV3lkTzBZbE4taTd3aEM0eDZrRFJucTBVUmd4aVd3NkdGUmQzWVVzU2JuSk9qdHh5em9JSVZNbnhDZVFObjctcjcwTjNlQzJWb1dmbjBGZmN1c1J6WGlMaHNELTFKTWxFN0VKZF9VdkVxa2twUnF2VWRxNHZoNTJZSEtPQ1FXdmo3cDdZM0RlY3JfbGdLR2JsOWpWT1JNQ1huQV9DV21PbEpMV3JLUW5MUm1nN1F6WG9KSnk2aTJpdG42dVZCMjRLMklUeFZUMGhweEp3WjlDaXlVMmhRd2lWekZWbDFOenUzc1dpa2NZWTdlUHdYRlNZa2Z3cDRza1R3Y0dGbGhBTzJ0cWZmTGYwUjJzX1RybUJVWmR3OV9lQkk3VFBzQVBhT3cyQjE?oc=5>
+- **特朗普** | 美国中期选举：被问是不是吃不消了后，特朗普把取消的堪萨斯州和爱荷华州的活动又恢复了 <https://news.google.com/rss/articles/CBMiwARBVV95cUxQNEdKaHdRV0wwczRPMnA2OWpGYlJrSnQ5bVRDb1RRc1VoY1JvUkJYczBTTExRMEZZOFY2bGJwNzhzTlF6SWRBd3lIQWJFN0R3UGZWNUx1MjhTOE93ZHFjTldMckVOajhwNHAtam5XMFE4cEZzYkJMcFBOQ0VhTGl1RV9Qd3NBVUw4NFgtVGUwUkhNU0s2UVFKb1U5eVBLUEwzQ3psSVctaUpZSmpXTk43U2FLY0FKaHFEcDJfbFl1eFdFMkVyUjBObEtUMkh6MDB3LWpCdHVxMlZSVFdnUDBzMVM2bk9oWHY5UVF4NTZoaGRQWk91MHVwdnR1NF9vTU5Xak9Kb2l5dXh1U1pBR3VoV1lYQnAyYkd5REhpTzh0VVk4X1NyTE9TZHA4aEFOcWZCTUpBbEpaUWJ1VnFLblc0YTFrTkt1U1dRZ3MtQW1FT3NQYmN4d3pSR1I0aTFOdlA4dlV5OXpTZ3lhY0dYWFN1NW9mQU8wUVIzZVhKNVozRkFOR1o3VVBub1o5RWZBZ3FzVVFPX1NqbWRfbW56VDdyZ0gwbXpFekk4R0M0YlFjUHhTZDJSdFBwX3NhRURpcWluRWZoWTdNcGdqTDdfX0lOemYtejFBZFQ1dUQ3WTk1aVctbG1qNGYwcHVpX1NlRjRzM0R1c2tHQVFIb1U2U1JKUHVRZkdiYnBnLXpEU1lPMGwxSkV6YlFfYzhLdnp2Ql91VWRKX19LMHRXdTNVNmRlUTNoZ0VYNmFlWXpKS2R1Q3g?oc=5>
+- **特朗普** | 特朗普夸赞共和党参议员臀部，万斯：我嫉妒了 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1JVnBUa244RGVNZ3JPRXhHNjFVczZBNmNPeVdzNDRoZTNDZ1BURTQwX21rYlIwU3dKYzBZWFl1UkhQejVDVUpCekFfNC0?oc=5>
+- **特朗普** | 视频丨特朗普再称伊朗战事将“很快结束” 多架美军机飞抵以色列 <https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSUlxaEVXcWFSeWtOZXpEbWtZaWczZ2NjblRweWVvMnotMXU0c1ZQWmcyeE5tVkZ6Mmx3OHZENzI5Y2JuUUxXSFRkSmZFcmhQWlF1d2xsbnFtUng2Z01EUmg0cHQtcTluQUhVNFczTjdOTWZ0X09vZkFyS0JmTXdKaG1tNGxnU3NXeHEtakMwRV9qbFdSWXZEeG1ZQ1ozTlJPQ0N1eExhb0djdXQxZVFKWXNhT0ZVcGU3ZV8xN1NoaGFwbF9xa3BLOUJTZTBPMzZHc3RCcVFMek0xUQ?oc=5>
+- **特朗普** | 特朗普发视频讽刺法国：别把度假的钱花在法国，去法国还不如在家看《悲惨世界》，那讲的也是法国的事 <https://news.google.com/rss/articles/CBMizwFBVV95cUxNQkhCZWNOM2hqR1RNMFp6N193SnNVT2VZbDUtVXJBTlk2a1d6R3gtWWhseWVfQi15SzlHOWVVWnRYQnYxY1BmLWJXN0RnbG1vdlQzcGZRWENUZXNwMVpoNGFLTFdka2RWWER2cmVRenowMDFYQkk4WnlIZ05CTVdkeHJiWlVVWlhlcGRTTXRzdWFMelFMSGlrZXU3NlBKanA4TXUzaHJyaTVfMDVxT3hKalI3c2JXWEV5Q002VExLbGtqMnA3ZEstcGJ3YU1JMEE?oc=5>
+- **特朗普** | 市场信息：特朗普政府......_7x24快讯_新浪财经 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1YcmFoM2g3T1VQbDR3WjFUNFdsVnpWbGhMQ3c5djhVeG1ROHd2QUZXanp0TTk2N2RxV1RfanlSZTYtUFNNT1dURUo3VQ?oc=5>
+- **特朗普** | 特朗普再次表示伊朗战事将“很快结束”，但反复强调一个重要条件 <https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJRnZwXzI2cWpyd2Y0ODZaWDlWbE1pT1NyWlo1VllXQTd1RjNCN2U5SXljMUNqay12QVZpaDI3bWRKTWszdGhkdXpyRVlGMU1uTE02bHpPRU9hZw?oc=5>
+- **特朗普** | 特朗普称美伊战争将很快结束 中东局势再临关键窗口 <https://news.google.com/rss/articles/CBMiSEFVX3lxTFBKaFZOZTY5S0V4U0tPaHBaaUVRdlVibm11ZDBHNmY1STZJUGVBd3lsSWxfMGhoMDc5MmVacTl6VVRuLUp3ZEFsUg?oc=5>
+- **特朗普** | 特朗普称伊朗战事将“很快结束” <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1tOFpSSE01eXhUaks2RzJLX0x4UE13aHlUZEtDcnlKQldzVGN4UkIwOEhJVEp2eFE1U3FEREJ6R2U3TlcxOHJoMm9MQnpMSlZGQlBFMm4xVnNKc1M0RmI2U0lQMmE?oc=5>
 
 ### 2026-10-30 20:57  (13 条)
 
