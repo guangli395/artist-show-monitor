@@ -1,72 +1,91 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-31 17:28**
-- 本轮扫到 15127 条, 新增 **7** 条
+- 最近更新: **2026-10-31 20:36**
+- 本轮扫到 15135 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (8 条)
 
-### 担忧特朗普遭暗杀，美军方在海湖庄园附近部署防空系统
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-31 08:35
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5Cc0pBNEttRVpxQjRUNXp4aDNzQWdpQWdHQllqM2N1U3g5Zmd3SmY4M3VtZ25kX3FzTVFxNzZqQUF3TWdmRUlhZHBWdXc?oc=5>
-
-### 特朗普再称伊朗战事将“很快结束” 多架美军机飞抵以色列
+### 美国总统特朗普：我们将继续就选举诚信问题展开斗争。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-10-30 22:53
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VS0ZYX1lfbDhmY2NIM2JRTW1JcU9MbS1rc0o4djI3ZWRrak1BSjBtdC1GNll3N3hGZjZVcEhzdDJzNV85V3RLOGFyVzFQTmdLU1pzQjVxdExpMl9BT2xJeg?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-10-31 17:34
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBnLWd1cms2WDk4YW9rc2M4M29PV2dXUFJMcUItTWk3OWtoVUVoQVBRS0pYYzhYMFJJZEU2YTI5dnF0NGdhWDF5ZEc4Yw?oc=5>
 
-### 特朗普计划中期选举后打伊朗？赫格塞思、鲁比奥想打，万斯想谈
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-10-31 12:23
-- 链接: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRW5GT0ZQSlA1TUZXRUJQb09EeXRwa3Y5N0tTRE5jMWVEWWRJOUtJQUdXU2tMbnBKZHY1bklCYWd3ZFI3bE02YktqS1NVUndQQW9ETklQdU1sNDlNeGFLSU1fNG5FdGJ1QTgzVUR3REtxM0pNcjViT3ppVWtJS1Q1WXRRY2NMRUVhcktDSTdGY19ka0ZJZWJ5TnNrMXN0UG5uRXdyTXYxcmJOaEk5WUFpVjhzV1FDYTVFb3llMDI2TnFQT29Fd0dWQWZwZ2M5Mkx6WEE?oc=5>
-
-### 特朗普中期大考，教皇寄来“附加题”
+### 糟糕的中期选举结果 可能促使特朗普对伊朗发动大规模攻击
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 风闻
-- 时间: 2026-10-31 14:06
-- 链接: <https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DTmpyS1owdUlNQ25wSFBORGViVHVOLUpnRHdyZEJxT1k2YXZOV3lfeF9rRnRGcG9wcWgyTkxabFRoWDNqc253S1h4b2oxcTJ4Tzlsb29NTDFNbjA?oc=5>
+- 场馆: RFI
+- 时间: 2026-10-31 18:19
+- 链接: <https://news.google.com/rss/articles/CBMimANBVV95cUxOeGpwSUNhOE9TakxDSHVIenduUGc0SUd0OEFLM2lsMnhVVzItRG5NMDdMZUN0Skxoa0VRRjJ4bGFjaWFobHVvZnlPdVZnMGpCUFBtQjZFYTV6YjhFQ3dXY2dKOVRwYVJvdzZkNWt6LUFlVFYtZnVuQmdFeFBKbmZHaDZGQmk3YS1ZcVFCdlhYT3ZyWmpaeHNESjR4X2txTVQybnB6dURoaDVaQUw0VWM2a3o5RXBybU5oYTBaZjFLOVJ1RHk0ZHUxcXFMamhLTmpiU3dZSUE1LTY2V056SWpOYnJOMlVET09KdUtNMEdPcHlKMVNGX0NMdEgyWDRrTUw5aEt1WGdwakE1REJfcFNnR0h1NVNEWHN1bGRLQUpHUjVQMzZDM0ZDbW9VQVdOVGg2QWl5OVdlN2JZMkpXdmNOVnQwRzFiMmFQaGg3UFZpLUdBNi1yQmlHb3JtaHljLUJKNF85anoyTHNwSFVHU2ttZE9kVUt1UVF6MTZnNHkzdENzVFRhMkNUajNNUUt4WWdHZnRoRk5YYjg?oc=5>
 
-### 当地时间10月30日，特朗普演讲时遭抗议，特朗普：闭嘴吧蠢货
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-10-31 14:12
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxNdlVnNnB1M3ExOVp2ZVhWVktWRmJTdzNtd21BQ1JXbGxRNlJpMzVlUlBFdGs2SG1rOS1GQWZzZTUxcHJ3R0lNQXRjUFhlc3BNdFJTZTNudnM5RHVOM3hFYWtpOW9wVy1Db3BvTFlhX2NpQ2xsUnFpWEg2ZUwzODN4MjFuQ1RkX1ZrNHh6Mw?oc=5>
-
-### 小博索纳罗太“疯”，“特朗普不打算支持他自称巴西总统”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-10-31 09:23
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1fNW13RHdyVUZsNWt3VWVyVVBEQzYxTGljMUZGNnp3c3FEYy10NG5PcUlJTlpBWDJ1Z18tZmpXSVl5MnEzY2swM2dtN3lqYU1NbFR4TE5Uc3N5RGZQZmMwbjV4c1B3bEVqWW5oVEw3dWQ5bkU?oc=5>
-
-### “等特朗普走了，美国会变好”，这种幻想才是加拿大最大的“病根”
+### “史上最激烈”，美国中期选举倒计时，特朗普遇大考：民主党拿下参众两院概率超60%！选举后股市黄金怎么走?
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-10-31 15:42
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE5NeG16WENsdGhhNHByQTVja1o0Vzl1ZVFOZUJwbGpQWjNMOVo4R3lFRkNNWjBXNWhLVjNpRmhjckcwNTFrd1ZSNE5uRTAzTE9oRjlxOEJaQ3pEeTQ1dmo0Mm8wYTBxeFlhYVJkODlyUW9GZ3B3WEE?oc=5>
+- 时间: 2026-10-31 09:09
+- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxQWWJqak5YWU9jckFIYzAwUDVUYi1HbHJkQ19XczBCQWQySW9EaXRrUjJJZGpVOVZKZEQtZzBDU1BxSFpHRTlTYS1WYkNpa2pheEloRk9OVXhFYkxYaThuUEZod21sVVRIa19ibHhVdGhKaEF2ekVSN0o1YU9Kc2xBZWVrSjY2Z0RpRXpZcm53VQ?oc=5>
+
+### 鲁比奥称特朗普尚未就针对伊朗的军事行动做出决定
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: ThePaper.cn
+- 时间: 2026-10-31 17:37
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Da00za09fdWNhbUxrbDh2YkJlNzhtMXRqbkZTRzkzUUx0R2RVNEtuQVNFdlRQdFR0Ni0zRlpmVTltaXlERzExa21aRnY1bU8yT3BnODJ4RWJMcWZrdFZDeQ?oc=5>
+
+### 美联邦法官禁止特朗普政府施压威胁州选举官员
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-10-31 14:33
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1WMHZ6Q29oaG9EYjBMb2FwU1BXTXhIZFBnTUhVXzNRUFB5djR5elJCZmlZTnVMMzlQTHJ5TXlhS2plaU9BMXV0N0RZU1Vzc2w2U3VVbTlyRVE1TXZwZFRod1l0bmVEOXAxMGc?oc=5>
+
+### 美中期选举倒计时 选情生变官司不断 特朗普支持率回升引发关注
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华军事
+- 时间: 2026-10-31 04:40
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBoNmhGQnJLcW5ucXYtcnZxd1p0a0REb2lBamk1b1ZCVVBiUWs1eTViOEROTHVWUkVUSl9sUmN1STR6SFc4Y2pWRVI2T3kxSGYtS0Z4dG56NloxY1FFWDd3Ym1waFJVVTY5alo0V0lEYnU?oc=5>
+
+### 特朗普面临伊朗战争与美加关税战叠加，民调跌至33%并拖累共和党中期选举选情
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 虎嗅网
+- 时间: 2026-10-31 14:36
+- 链接: <https://news.google.com/rss/articles/CBMiVEFVX3lxTFBtX3hwMXQ0OEFvZGE2Z2xQb0RSTkxYRGdaaDBRbDNIa093NGFaTUpNNlozc1VpaVQxQWNueXdmWnVjc3RWNWpYUldyQ2xqanRWNWN5bA?oc=5>
+
+### 特朗普：曾有“愚蠢的人”想让我制裁俄罗斯
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 京报网
+- 时间: 2026-10-31 14:41
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE0yYWdKOWFKTmhnSXQ0enFwTVdHUTNjRWtEWWp1SlZkT0dKWElfNUwxUnVpSEJvWU9oVUNYZU45MHhqbEE3RTM3LXFOV1I3MU1udExjOTR0MlV5SVpZcFE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-31 20:36  (8 条)
+
+- **特朗普** | 美国总统特朗普：我们将继续就选举诚信问题展开斗争。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBnLWd1cms2WDk4YW9rc2M4M29PV2dXUFJMcUItTWk3OWtoVUVoQVBRS0pYYzhYMFJJZEU2YTI5dnF0NGdhWDF5ZEc4Yw?oc=5>
+- **特朗普** | 糟糕的中期选举结果 可能促使特朗普对伊朗发动大规模攻击 <https://news.google.com/rss/articles/CBMimANBVV95cUxOeGpwSUNhOE9TakxDSHVIenduUGc0SUd0OEFLM2lsMnhVVzItRG5NMDdMZUN0Skxoa0VRRjJ4bGFjaWFobHVvZnlPdVZnMGpCUFBtQjZFYTV6YjhFQ3dXY2dKOVRwYVJvdzZkNWt6LUFlVFYtZnVuQmdFeFBKbmZHaDZGQmk3YS1ZcVFCdlhYT3ZyWmpaeHNESjR4X2txTVQybnB6dURoaDVaQUw0VWM2a3o5RXBybU5oYTBaZjFLOVJ1RHk0ZHUxcXFMamhLTmpiU3dZSUE1LTY2V056SWpOYnJOMlVET09KdUtNMEdPcHlKMVNGX0NMdEgyWDRrTUw5aEt1WGdwakE1REJfcFNnR0h1NVNEWHN1bGRLQUpHUjVQMzZDM0ZDbW9VQVdOVGg2QWl5OVdlN2JZMkpXdmNOVnQwRzFiMmFQaGg3UFZpLUdBNi1yQmlHb3JtaHljLUJKNF85anoyTHNwSFVHU2ttZE9kVUt1UVF6MTZnNHkzdENzVFRhMkNUajNNUUt4WWdHZnRoRk5YYjg?oc=5>
+- **特朗普** | “史上最激烈”，美国中期选举倒计时，特朗普遇大考：民主党拿下参众两院概率超60%！选举后股市黄金怎么走? <https://news.google.com/rss/articles/CBMijwFBVV95cUxQWWJqak5YWU9jckFIYzAwUDVUYi1HbHJkQ19XczBCQWQySW9EaXRrUjJJZGpVOVZKZEQtZzBDU1BxSFpHRTlTYS1WYkNpa2pheEloRk9OVXhFYkxYaThuUEZod21sVVRIa19ibHhVdGhKaEF2ekVSN0o1YU9Kc2xBZWVrSjY2Z0RpRXpZcm53VQ?oc=5>
+- **特朗普** | 鲁比奥称特朗普尚未就针对伊朗的军事行动做出决定 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Da00za09fdWNhbUxrbDh2YkJlNzhtMXRqbkZTRzkzUUx0R2RVNEtuQVNFdlRQdFR0Ni0zRlpmVTltaXlERzExa21aRnY1bU8yT3BnODJ4RWJMcWZrdFZDeQ?oc=5>
+- **特朗普** | 美联邦法官禁止特朗普政府施压威胁州选举官员 <https://news.google.com/rss/articles/CBMiakFVX3lxTE1WMHZ6Q29oaG9EYjBMb2FwU1BXTXhIZFBnTUhVXzNRUFB5djR5elJCZmlZTnVMMzlQTHJ5TXlhS2plaU9BMXV0N0RZU1Vzc2w2U3VVbTlyRVE1TXZwZFRod1l0bmVEOXAxMGc?oc=5>
+- **特朗普** | 美中期选举倒计时 选情生变官司不断 特朗普支持率回升引发关注 <https://news.google.com/rss/articles/CBMicEFVX3lxTFBoNmhGQnJLcW5ucXYtcnZxd1p0a0REb2lBamk1b1ZCVVBiUWs1eTViOEROTHVWUkVUSl9sUmN1STR6SFc4Y2pWRVI2T3kxSGYtS0Z4dG56NloxY1FFWDd3Ym1waFJVVTY5alo0V0lEYnU?oc=5>
+- **特朗普** | 特朗普面临伊朗战争与美加关税战叠加，民调跌至33%并拖累共和党中期选举选情 <https://news.google.com/rss/articles/CBMiVEFVX3lxTFBtX3hwMXQ0OEFvZGE2Z2xQb0RSTkxYRGdaaDBRbDNIa093NGFaTUpNNlozc1VpaVQxQWNueXdmWnVjc3RWNWpYUldyQ2xqanRWNWN5bA?oc=5>
+- **特朗普** | 特朗普：曾有“愚蠢的人”想让我制裁俄罗斯 <https://news.google.com/rss/articles/CBMiXkFVX3lxTE0yYWdKOWFKTmhnSXQ0enFwTVdHUTNjRWtEWWp1SlZkT0dKWElfNUwxUnVpSEJvWU9oVUNYZU45MHhqbEE3RTM3LXFOV1I3MU1udExjOTR0MlV5SVpZcFE?oc=5>
 
 ### 2026-10-31 17:28  (7 条)
 
