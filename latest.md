@@ -1,80 +1,114 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-31 20:36**
-- 本轮扫到 15135 条, 新增 **8** 条
+- 最近更新: **2026-10-31 23:53**
+- 本轮扫到 15146 条, 新增 **11** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (11 条)
 
-### 美国总统特朗普：我们将继续就选举诚信问题展开斗争。
+### 蔡徐坤新加坡演唱会首日上演Dance break
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-10-31 17:34
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBnLWd1cms2WDk4YW9rc2M4M29PV2dXUFJMcUItTWk3OWtoVUVoQVBRS0pYYzhYMFJJZEU2YTI5dnF0NGdhWDF5ZEc4Yw?oc=5>
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_6363486338_m17b4b188205301x4e0.html>
 
-### 糟糕的中期选举结果 可能促使特朗普对伊朗发动大规模攻击
+### 演唱会门票团购怎么买最划算？3大渠道实测+避坑指南+FAQ
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879995991_1d5af325706801bors.html>
+
+### 美国国务卿卢比奥与俄罗斯外长拉夫罗夫讨论了特朗普和普京下个月进行互动的可能
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: RFI
-- 时间: 2026-10-31 18:19
-- 链接: <https://news.google.com/rss/articles/CBMimANBVV95cUxOeGpwSUNhOE9TakxDSHVIenduUGc0SUd0OEFLM2lsMnhVVzItRG5NMDdMZUN0Skxoa0VRRjJ4bGFjaWFobHVvZnlPdVZnMGpCUFBtQjZFYTV6YjhFQ3dXY2dKOVRwYVJvdzZkNWt6LUFlVFYtZnVuQmdFeFBKbmZHaDZGQmk3YS1ZcVFCdlhYT3ZyWmpaeHNESjR4X2txTVQybnB6dURoaDVaQUw0VWM2a3o5RXBybU5oYTBaZjFLOVJ1RHk0ZHUxcXFMamhLTmpiU3dZSUE1LTY2V056SWpOYnJOMlVET09KdUtNMEdPcHlKMVNGX0NMdEgyWDRrTUw5aEt1WGdwakE1REJfcFNnR0h1NVNEWHN1bGRLQUpHUjVQMzZDM0ZDbW9VQVdOVGg2QWl5OVdlN2JZMkpXdmNOVnQwRzFiMmFQaGg3UFZpLUdBNi1yQmlHb3JtaHljLUJKNF85anoyTHNwSFVHU2ttZE9kVUt1UVF6MTZnNHkzdENzVFRhMkNUajNNUUt4WWdHZnRoRk5YYjg?oc=5>
+- 时间: 2026-10-31 22:30
+- 链接: <https://news.google.com/rss/articles/CBMimwRBVV95cUxOcDNzX3U5bUFpT3RWTU54d1pnWmI2OFZxRUhCNVVfdkFvZkpJN2dZRHE0NHN5M2laOWh6Vnd1cDhMaTM1VVZ5MV9vb0xsTm4wcGkydExSVkh2bGdUeXFaNmpYbFR0RmItYzA4bkR3d29aYThtMjlUcDdnTTllT1BLcVEwTWVLVU1OUlQwcG5MYmV2ak1kcW41ZmlINk11LWRVZERMd1VQTTBVRWl0Ml85Y3dOTTF5a1d3bGRPVjdyTEF3VG9UaTNtVnhDS25icTNXbS1KR1BGcE9Nd1RuUHFqY3M1aDc5UlJuNVFSN2c3VWQ2cV9pMmQyMGt2QjBqMEZtajVTOVpPYUUxZWlrZXM0dXhHN2p4Ny1yNmhrYmF2RXZEZEFzTVJoZFRVT0pHaHJVV2lKU2lXSF9OVWdJQm5GdzFjWVYwRGJpWUR5aDhnbU80STFGU1dRQzlVVkFUdEpZSEpNNnhRRFM0aFpXMU1WdUlNNTIxd0h6cURvSzhEWmlZR25peGhwTzdqWURQcjVaNkJqeGJpY0pVVV9COVRfUWluZFo3VUtUSnFMTXN4SGRUTFB2QmU0ZXUzdFhzazB4cUdEUVYwLV9lRDBLb2FZeFBWXzNBU21lX2EyR3Q0eE9JQkZMZTQzVFpOd09EOU9Ka1dFVTB5QU1UbExXMXFDbHV5ZDVaOVA3YTh6QURVQnlsbTNJV2laY0pmcw?oc=5>
 
-### “史上最激烈”，美国中期选举倒计时，特朗普遇大考：民主党拿下参众两院概率超60%！选举后股市黄金怎么走?
+### G20外长会议：卢比奥国务卿向美国之音概述特朗普政府在多项国际问题上的立场
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-10-31 09:09
-- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxQWWJqak5YWU9jckFIYzAwUDVUYi1HbHJkQ19XczBCQWQySW9EaXRrUjJJZGpVOVZKZEQtZzBDU1BxSFpHRTlTYS1WYkNpa2pheEloRk9OVXhFYkxYaThuUEZod21sVVRIa19ibHhVdGhKaEF2ekVSN0o1YU9Kc2xBZWVrSjY2Z0RpRXpZcm53VQ?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-10-31 23:21
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYkc0R2ZIaGdjVzRBQWcteE5hV1pPVHo0RUxEZ1JZOTY3aThhTS0xUnhabWJVR1Z3RUg4eGFkRGh0Vk9talZ2Z1l3ZWhQZmxLeE5RaFlKd3laRm1NNjdib0lhYTctM1lreUhvQ1F0bW83OGYybFNfeGhyV1ZiaHI4U2RrajZNRG5SNjEza1I0T1ljTlZ0R1cyQTFKVGgtUEFRWW5kaW5ZSkZKdTJ3SkJ4QWU0TjFkMWVfbWZfVzVxSXg3Q3RHOUxlaEtwaTk2bldZNllyUE1YZGtBUHoyWi1F0gHiAUFVX3lxTFBKRktaWkhvVXdWY1dpOUtPTlpnRlhuUE11YzZ0T2lBTHJQcjBaWmVmZzVZeG9MX2pqZjFwUUZOaXNKTlFCdTNfb3FnNHJnbGRsZkVWUWh1TkZ1OEwyVjVXdFo2UjA0aWZhbUxJSGlRTjVuSzNxajFfUnk1dXIzNkRMNEJVTTY0NDJoZVZBa3JkdFJPLVNRU05Qb3VjQjh3d0Y3YXlVZTQ3eFc4QVNMMFpFc1ZxLUdzRDZjY2U4dUdEMWg1RFN6WEppNU1SV2ZIOVZzQXFEMmQxNERZZG1BX1N5dFE?oc=5>
+
+### 特朗普称伊朗战事将“很快结束”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-10-30 11:58
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTFBnQTJtbVdGbU5BbFowaXNRR2p6bUVieUM3RldQRi0xU1RkMk1GZldNTlFacU1sTmFFdUg1ODJ6X2NaY2VYTmplSl9yX3NwSTdXNm1NQzVES0Njc1FpVFZHaEY0NEwya0k4ZWRyMFVyYkp6NEVJ?oc=5>
+
+### 得州参议员选举：民主党人塔拉里科民调领先，筹款远超特朗普支持者帕克斯顿
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-10-31 10:59
+- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HYmllbU9SWDRjV2FtNGlWazkxT1hTdldjNEFoemV1WWJyOWpUMFdCZV8wYUMtdThqWW9lRXc2MHhxMDVKZF9WdHphREttc2JWYkE?oc=5>
+
+### 特朗普对华降调，盟友、对手敢低头吗？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-10-30 07:35
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE1YSkVaUlcxZnZRZ1N2b3h5Qk1UQTNlOEFjdUJGenB2c1ppNTZmR2plMkYyOFZqeDBDNEc4UUwzR0dpNVVRR0pQVUhzWGJQZnUwZlFlSTRKOVVfY3JPaGNtdFF6ckdjMUhMX2ItZW9iZmJPdGJz?oc=5>
+
+### 被特朗普喷成“粪坑国家”，挪威趁机推出宣传语：让厕所再次伟大
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-10-31 12:03
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1FTDVzY2lEQTNKNDloczQwbzVvRnQ5R2NGYVBVNjA5UFhSRHQ4emVmYjJWTE9oQ1dTSlU5cG12RUxhdTV6MlJjMjNjQ0Y?oc=5>
+
+### 金融时报：特朗普和MAGA戳破了美国的芯片梦想
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 加美财经
+- 时间: 2026-10-30 14:26
+- 链接: <https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wcTR0bWRzRjI2REx5Wms5TnZKdEhXSTlNZlU5YlNEZEFDZ1Z0a3dGZGZyYWhtU1JYeHFZaldOOHVmZ3c1N1ltanMwUGpaSlVUYnZLLV9wXzZnQQ?oc=5>
+
+### 弗吉尼亚州和哥伦比亚特区起诉阻止特朗普拱门建设——《卫报》
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: UA.NEWS
+- 时间: 2026-10-31 12:04
+- 链接: <https://news.google.com/rss/articles/CBMivwFBVV95cUxNYzZIMGdzcXdTdE1veEd0VV9La2ZtdVlKa05PREhzaXAyeWtheVFaNVI3aTZ1eUhjeE04Mm12amUycTNMSkdNNFdhcXNkNFN3NEJYRGhpT0dsUHZPUGRwaEQ0Zk90NlJ4VXdVMHVvdnN6SlU5b1ZWWlRTeG5wdFh6ZUNZUGRKZVhUN3JnRHRXSzZzTHQxdUdibjRRQTU1cTRjaGdsaGNaWTgzSXNITUJjRkZsT0J1S1MyOFlydDFmaw?oc=5>
 
 ### 鲁比奥称特朗普尚未就针对伊朗的军事行动做出决定
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: ThePaper.cn
-- 时间: 2026-10-31 17:37
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Da00za09fdWNhbUxrbDh2YkJlNzhtMXRqbkZTRzkzUUx0R2RVNEtuQVNFdlRQdFR0Ni0zRlpmVTltaXlERzExa21aRnY1bU8yT3BnODJ4RWJMcWZrdFZDeQ?oc=5>
-
-### 美联邦法官禁止特朗普政府施压威胁州选举官员
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-10-31 14:33
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1WMHZ6Q29oaG9EYjBMb2FwU1BXTXhIZFBnTUhVXzNRUFB5djR5elJCZmlZTnVMMzlQTHJ5TXlhS2plaU9BMXV0N0RZU1Vzc2w2U3VVbTlyRVE1TXZwZFRod1l0bmVEOXAxMGc?oc=5>
-
-### 美中期选举倒计时 选情生变官司不断 特朗普支持率回升引发关注
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华军事
-- 时间: 2026-10-31 04:40
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBoNmhGQnJLcW5ucXYtcnZxd1p0a0REb2lBamk1b1ZCVVBiUWs1eTViOEROTHVWUkVUSl9sUmN1STR6SFc4Y2pWRVI2T3kxSGYtS0Z4dG56NloxY1FFWDd3Ym1waFJVVTY5alo0V0lEYnU?oc=5>
-
-### 特朗普面临伊朗战争与美加关税战叠加，民调跌至33%并拖累共和党中期选举选情
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 虎嗅网
-- 时间: 2026-10-31 14:36
-- 链接: <https://news.google.com/rss/articles/CBMiVEFVX3lxTFBtX3hwMXQ0OEFvZGE2Z2xQb0RSTkxYRGdaaDBRbDNIa093NGFaTUpNNlozc1VpaVQxQWNueXdmWnVjc3RWNWpYUldyQ2xqanRWNWN5bA?oc=5>
-
-### 特朗普：曾有“愚蠢的人”想让我制裁俄罗斯
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 京报网
-- 时间: 2026-10-31 14:41
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE0yYWdKOWFKTmhnSXQ0enFwTVdHUTNjRWtEWWp1SlZkT0dKWElfNUwxUnVpSEJvWU9oVUNYZU45MHhqbEE3RTM3LXFOV1I3MU1udExjOTR0MlV5SVpZcFE?oc=5>
+- 场馆: 央视网
+- 时间: 2026-10-31 22:24
+- 链接: <https://news.google.com/rss/articles/CBMid0FVX3lxTFBvbGlvYWJoemIxN3dpRHd1LThQZHlzLVA3elpUSVlXYjRzS0JWZ25ULUxVeHBoSkRUWWdSbTlwQmMwMnNpM0FteWp3MWdlY2tsMFVNTWNNZVA5OGVqbHRxaG44QWd5d1o5d0Y5TWhYTmZqUDg2UnRB?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-31 23:53  (11 条)
+
+- **蔡徐坤** | 蔡徐坤新加坡演唱会首日上演Dance break <https://k.sina.com.cn/article_6363486338_m17b4b188205301x4e0.html>
+- **周杰伦** | 演唱会门票团购怎么买最划算？3大渠道实测+避坑指南+FAQ <https://k.sina.com.cn/article_7879995991_1d5af325706801bors.html>
+- **特朗普** | 美国国务卿卢比奥与俄罗斯外长拉夫罗夫讨论了特朗普和普京下个月进行互动的可能 <https://news.google.com/rss/articles/CBMimwRBVV95cUxOcDNzX3U5bUFpT3RWTU54d1pnWmI2OFZxRUhCNVVfdkFvZkpJN2dZRHE0NHN5M2laOWh6Vnd1cDhMaTM1VVZ5MV9vb0xsTm4wcGkydExSVkh2bGdUeXFaNmpYbFR0RmItYzA4bkR3d29aYThtMjlUcDdnTTllT1BLcVEwTWVLVU1OUlQwcG5MYmV2ak1kcW41ZmlINk11LWRVZERMd1VQTTBVRWl0Ml85Y3dOTTF5a1d3bGRPVjdyTEF3VG9UaTNtVnhDS25icTNXbS1KR1BGcE9Nd1RuUHFqY3M1aDc5UlJuNVFSN2c3VWQ2cV9pMmQyMGt2QjBqMEZtajVTOVpPYUUxZWlrZXM0dXhHN2p4Ny1yNmhrYmF2RXZEZEFzTVJoZFRVT0pHaHJVV2lKU2lXSF9OVWdJQm5GdzFjWVYwRGJpWUR5aDhnbU80STFGU1dRQzlVVkFUdEpZSEpNNnhRRFM0aFpXMU1WdUlNNTIxd0h6cURvSzhEWmlZR25peGhwTzdqWURQcjVaNkJqeGJpY0pVVV9COVRfUWluZFo3VUtUSnFMTXN4SGRUTFB2QmU0ZXUzdFhzazB4cUdEUVYwLV9lRDBLb2FZeFBWXzNBU21lX2EyR3Q0eE9JQkZMZTQzVFpOd09EOU9Ka1dFVTB5QU1UbExXMXFDbHV5ZDVaOVA3YTh6QURVQnlsbTNJV2laY0pmcw?oc=5>
+- **特朗普** | G20外长会议：卢比奥国务卿向美国之音概述特朗普政府在多项国际问题上的立场 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYkc0R2ZIaGdjVzRBQWcteE5hV1pPVHo0RUxEZ1JZOTY3aThhTS0xUnhabWJVR1Z3RUg4eGFkRGh0Vk9talZ2Z1l3ZWhQZmxLeE5RaFlKd3laRm1NNjdib0lhYTctM1lreUhvQ1F0bW83OGYybFNfeGhyV1ZiaHI4U2RrajZNRG5SNjEza1I0T1ljTlZ0R1cyQTFKVGgtUEFRWW5kaW5ZSkZKdTJ3SkJ4QWU0TjFkMWVfbWZfVzVxSXg3Q3RHOUxlaEtwaTk2bldZNllyUE1YZGtBUHoyWi1F0gHiAUFVX3lxTFBKRktaWkhvVXdWY1dpOUtPTlpnRlhuUE11YzZ0T2lBTHJQcjBaWmVmZzVZeG9MX2pqZjFwUUZOaXNKTlFCdTNfb3FnNHJnbGRsZkVWUWh1TkZ1OEwyVjVXdFo2UjA0aWZhbUxJSGlRTjVuSzNxajFfUnk1dXIzNkRMNEJVTTY0NDJoZVZBa3JkdFJPLVNRU05Qb3VjQjh3d0Y3YXlVZTQ3eFc4QVNMMFpFc1ZxLUdzRDZjY2U4dUdEMWg1RFN6WEppNU1SV2ZIOVZzQXFEMmQxNERZZG1BX1N5dFE?oc=5>
+- **特朗普** | 特朗普称伊朗战事将“很快结束” <https://news.google.com/rss/articles/CBMidEFVX3lxTFBnQTJtbVdGbU5BbFowaXNRR2p6bUVieUM3RldQRi0xU1RkMk1GZldNTlFacU1sTmFFdUg1ODJ6X2NaY2VYTmplSl9yX3NwSTdXNm1NQzVES0Njc1FpVFZHaEY0NEwya0k4ZWRyMFVyYkp6NEVJ?oc=5>
+- **特朗普** | 得州参议员选举：民主党人塔拉里科民调领先，筹款远超特朗普支持者帕克斯顿 <https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HYmllbU9SWDRjV2FtNGlWazkxT1hTdldjNEFoemV1WWJyOWpUMFdCZV8wYUMtdThqWW9lRXc2MHhxMDVKZF9WdHphREttc2JWYkE?oc=5>
+- **特朗普** | 特朗普对华降调，盟友、对手敢低头吗？ <https://news.google.com/rss/articles/CBMidEFVX3lxTE1YSkVaUlcxZnZRZ1N2b3h5Qk1UQTNlOEFjdUJGenB2c1ppNTZmR2plMkYyOFZqeDBDNEc4UUwzR0dpNVVRR0pQVUhzWGJQZnUwZlFlSTRKOVVfY3JPaGNtdFF6ckdjMUhMX2ItZW9iZmJPdGJz?oc=5>
+- **特朗普** | 被特朗普喷成“粪坑国家”，挪威趁机推出宣传语：让厕所再次伟大 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1FTDVzY2lEQTNKNDloczQwbzVvRnQ5R2NGYVBVNjA5UFhSRHQ4emVmYjJWTE9oQ1dTSlU5cG12RUxhdTV6MlJjMjNjQ0Y?oc=5>
+- **特朗普** | 金融时报：特朗普和MAGA戳破了美国的芯片梦想 <https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wcTR0bWRzRjI2REx5Wms5TnZKdEhXSTlNZlU5YlNEZEFDZ1Z0a3dGZGZyYWhtU1JYeHFZaldOOHVmZ3c1N1ltanMwUGpaSlVUYnZLLV9wXzZnQQ?oc=5>
+- **特朗普** | 弗吉尼亚州和哥伦比亚特区起诉阻止特朗普拱门建设——《卫报》 <https://news.google.com/rss/articles/CBMivwFBVV95cUxNYzZIMGdzcXdTdE1veEd0VV9La2ZtdVlKa05PREhzaXAyeWtheVFaNVI3aTZ1eUhjeE04Mm12amUycTNMSkdNNFdhcXNkNFN3NEJYRGhpT0dsUHZPUGRwaEQ0Zk90NlJ4VXdVMHVvdnN6SlU5b1ZWWlRTeG5wdFh6ZUNZUGRKZVhUN3JnRHRXSzZzTHQxdUdibjRRQTU1cTRjaGdsaGNaWTgzSXNITUJjRkZsT0J1S1MyOFlydDFmaw?oc=5>
+- **特朗普** | 鲁比奥称特朗普尚未就针对伊朗的军事行动做出决定 <https://news.google.com/rss/articles/CBMid0FVX3lxTFBvbGlvYWJoemIxN3dpRHd1LThQZHlzLVA3elpUSVlXYjRzS0JWZ25ULUxVeHBoSkRUWWdSbTlwQmMwMnNpM0FteWp3MWdlY2tsMFVNTWNNZVA5OGVqbHRxaG44QWd5d1o5d0Y5TWhYTmZqUDg2UnRB?oc=5>
 
 ### 2026-10-31 20:36  (8 条)
 
