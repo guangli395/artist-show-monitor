@@ -1,96 +1,150 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-10-31 06:03**
-- 本轮扫到 15105 条, 新增 **10** 条
+- 最近更新: **2026-10-31 12:54**
+- 本轮扫到 15120 条, 新增 **15** 条
 
 ---
 
-## 本轮新发现 (10 条)
+## 本轮新发现 (15 条)
 
-### 2026年中期选举：特朗普支持率下滑，共和党保住参议院需赢得关键选民支持
+### 蔡徐坤官宣澳门W盛典嘉宾 新加坡演唱会后启程
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-31 05:45
-- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTFBQVEticHd6MWNfR2xGam9WZkRJclk3N0dPU2g4dFBmMFZZODN5QVdCUlJPdzVXNjhEY21QTDRmb3lidXpBZlRpVnFFNFV0LWNLb1E?oc=5>
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5727695436_m15565b24c05301xkbk.html>
 
-### 特朗普：我们建成了美......_7x24快讯_新浪财经
+### 蔡徐坤新加坡演唱会舞台掌控力拉满
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-10-31 01:09
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBkcW1kbWloSWYzMUxieEtSd2hIelo2UG1KNE53SWpWM3hHNE1faDhCVUhNWW51TUNmRkNVd0hQdjFxZzY3WUZvNkFpdw?oc=5>
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1852855013_m6e7052e505302wxyq.html>
 
-### 特朗普对华降调，盟友、对手敢低头吗？ 中国议题退居次席
+### 嘲讽力MAX！挪威回怼特朗普：让“粪坑”再次伟大
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-10-30 12:55
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5pZmxlZ1RkaTJVODNnaXlpWG45cDF3Ylc3SlhiUlRSRVpyWmo1V21Qb3pyTFd1bjVKVG05dWR0NGNoWG15QUEyMXJSMWUzNW5oc215cWpXeU1PSlpoeGNUb3RHbmhDaE1RelFBQ0I1WXE?oc=5>
-
-### 再提拜登“烂摊” 特朗普：以后选总统先考试！
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机网易网
-- 时间: 2026-10-30 01:17
-- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE9iaXBTdExEQkFEZnN3NURlc19BRE5QVkxLbDl0YndqSm1mVzVnUm1Oa2tKa2JtR3pHSUdHVWlJN20tTG9McUl2Nmd1Qll5eUZvTFVreFhoU1VReXhHU0xsUDF3?oc=5>
-
-### 不能再吵了，特朗普派特使致电泽连斯基，划下一条红线，乌方松口
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: QQ News
-- 时间: 2026-10-29 21:19
-- 链接: <https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IUkdXLWFaS3dQeVJYcUxaV1hqOUppeDFUOWpodTMtZml1S2JCM3IwUFgtWXBBNjA1aDBXZm1sa2VoUS1hOER5ZVpXVFFLVU9uYVVfRUZn?oc=5>
-
-### 特朗普再称伊朗战事将“很快结束”多架美军机飞抵以色列
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-10-31 02:10
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBGX2pHVHRwSGhJVGxnd0ljUzhTaVhXdTlEcFY4M1VnNkdmUDhLMHZURWpuTzNuM0JiVWczRHhQM1dtdGtNRV9JTWd5Zw?oc=5>
+- 场馆: 观察者网
+- 时间: 2026-10-31 12:07
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1ZNlA1bnBIRVhkbjdSOVZLTWhRNk9HT3Z4V0d3X0JIX3dENzFHYmNpSVB5dGc1UktWemstRHkxNGRCWVRHb0F4d1NTT3RicXJ2aGtYUEZCZUhpMklKZ1J1NjFqM2dNZE1JcVg4bktVTS04RDA?oc=5>
 
 ### 特朗普称伊朗战事将“很快结束”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中国江苏网
-- 时间: 2026-10-30 11:59
-- 链接: <https://news.google.com/rss/articles/CBMihgFBVV95cUxQaDRkNlZjS1FMaUhqUGJVTU9rVEdvenNWWjBvTzdUUTR1QVZMb043dWpBOUNncjlrdU1QNWZTa2JxaTBUNHNLaWZTdDVPQkpKR0NRc2RMUUZIbmVId3BNOVR2LVg4dmU3bUwxSEZtZkFoRVJRbExySHdFMjhGVnc3QTU3bkZZdw?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-10-31 02:29
+- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxOekJaaG96TF94R0FkcFl0T3dORUtrck14QjhsLXdzcUNnUThPTG9sUjRGY2RnZTlIVHdMRS1wc09QcnN4dnBOMjNCR01rcm1fZHg1TUNUa1dMWXZ2OGhsazRXb0VGWVRQclJWUFhZVDhiRFRQV3NhZWZJdDh6cWNLMGMwaFlpRGM5SnpuN2VfemYzQVd3RURRTlNmZHotdFg5bi00dVUydmJvQQ?oc=5>
 
-### 抗议者频繁现身其集会 特朗普已形成一套固定应对话术
+### 事关助选中期选举，特朗普改主意了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-10-31 02:45
-- 链接: <https://news.google.com/rss/articles/CBMi0AFBVV95cUxNR0JIYjhYVk4wbW40Vzl1Q3hPV0ZLaDVXMGZLZHpvMnZrZUdKWEtwWERNYTVGYi1CbUIxUnVnTXVJMm5aOVhxYWhfODRtSHEyN3N3Z0hTZXZRRWlxMTNxNFJWZVd6OW11akQ3TWF5R2gxemZreWJIVXlHUHlYYzdQcWNVeG1Qd1Z6TjNDN1M5WWdyM2ZmWGtwZHRiLWJ3ZkdvYm1KX0UwQldRMzVNN2xoV0htU1lFSUFiLWlZbnoxY01zdl82S2lmeC1vRVo0SXBu?oc=5>
+- 场馆: 环球网
+- 时间: 2026-10-30 19:58
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE00OHNDS0JZMDVqdDlNNTBLOWEyQkYycmRDUWRXRDBnWmxxVEpCWnFJWFJoRzJYTkVqQnVzSy1aTDVCaHRxM2tOeGFoYTg5S0lKTkw5LXhYYVQ?oc=5>
 
-### 币安被黑客攻击 美国政府正调查是否是朝鲜所为
+### 特朗普：那些民调机构太坏了，我的真实支持率应该是104%
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者网
+- 时间: 2026-10-30 05:36
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1zTEJLNW5kQUtjUlJOY1BmQ3l4aUZoQlY0ekxjUXJYYzFWS0hKNjhYdUVucVdDcDhnb1d0N2tTc0piRXlFU19nM3hvazZhWS1sNW5Hd2JPZVVub3RwM3ZDbjB2NDlmdS1iNG5ldFhFZkZfbWM?oc=5>
+
+### 小博索纳罗太“疯”，“特朗普不打算支持他自称巴西总统”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-10-31 11:54
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE0tai1jSTk2ZlhNaFVqMWpuQW1ZRFl2cTNtdlVCR1FCVVBqV1VOV18wV19LN1ZIbklZYU1McHJvYjBwdFI1WFIwSkpDSXI?oc=5>
+
+### 加拿大欧盟建“未来联盟” 特朗普曾称此举“可笑”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-10-31 08:03
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9rQjhyMG4yb3dMX0g2eDhiWWN4bkI5UUMwQ3JORXNybEVmR3R6d2tZNkdmX2RhN2sySlpIdGh4RjVPVGZJYmFTU1FUOFhjWTlJN3c4Um5LamlURHVka3dlVU54b1dYbHhpd1pkek82eEM5TFhObFRtdUQwSUdpaHc?oc=5>
+
+### 特朗普给奥迪开绿灯！关税大棒松口：奔驰宝马陷尴尬
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 驱动之家
+- 时间: 2026-10-31 06:30
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE52N0dvLVBLSGIxSEtIci1wWm15Mmhwd1llRkNTa2FWZm1QZzVUQ3hiNkdSR2pyek8wdE1XWEEyZW4ydWhweTFJd2xVNzhqMkQ1VllzdGNKX3o?oc=5>
+
+### 特朗普：曾有“愚蠢的人”想让我制裁俄罗斯
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-10-31 08:08
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE01Uk1zcFRlQ0R0Y21LbmllOWRtSXlMN0lWUFR2d1RQZ3d4Xy1XNFVpZEhWWGVSVm42Qkd6bEpuOElNWGNPcW0xQjlOZzc?oc=5>
+
+### 特朗普：曾有“愚蠢的人”想让我制裁俄罗斯
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-10-31 08:52
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9UQjRfdDBOUG5FeGtZNHdFdkxHNF9QdnotdmNnclZqZm16MWNYMTZWaUU2OGEzSXNBQTEwS0NoWXlOd1lGUnVvdXlaYmFfWGVIX1U0ZnJqZjFDbUg3aExtSjViZTc5eDk2SFBsY2RHbmhycHJGT0hMT1BkQ3ZEWWM?oc=5>
+
+### 特朗普：曾有“愚蠢的人”想让我制裁俄罗斯
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 搜狐网
+- 时间: 2026-10-31 08:09
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTlIwZWZaVjZfcHZYemJOa3NHVkdnNXJVYnhvTXM0amY3Nm9uSmZNcm93QjJ1eEVHT0lkVjVpU3dWUmphdU5wbWdfYWZ5T1ZoaGQzNVoxMUJJVDZJSWIzREZRZzlkZDF4R0s0SU5rSkZ5OUZjRmZDNkpxd2ZlMXBKdE9PbTh5UDRY?oc=5>
+
+### 特朗普骂记者你真恶心身材走样 政策质询引发争端
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华军事
+- 时间: 2026-10-30 05:24
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE0wUU1JZ1IxX3ktVWVCSklrN2hTOVRkQml3akh0eDM5SHFJRmF0UTNXLWZ2WEtfT0Joc3Q3MHRydnUwU0FBWWkzQS00dl8zR2xrak1RdUVISzlWUnJBeWprYkp4YVJxNlF1al9oMGhNVmw?oc=5>
+
+### 選戰進入最後衝刺 川普赴佛州為共和黨助選
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-10-31 01:03
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE1hVkRCdHZfSk5JX3dhT2FYYjI3QWFrRUNlVi1YaUxLTEU2RGhLUllRVzJnYkdrdUZWaXIwZmUtUldRTU9ld2JwamFCSVUyc0FBM3p4RWtFSEh2SGRoRHV1MG0zb054MkFGWWltWjhUVFNQMy11?oc=5>
+- 场馆: 大紀元
+- 时间: 2026-10-31 07:33
+- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE9lVWJYTmk5cWlDaTFlcmRJTXBScUJCR3llYVpMY3puSDN0YjR0MkNKN2VlSlZYdmNlTUZLT1BsWmFBb0xibi1zTTZfMTJPWXBRZ1p4ekNSUEM2V1BUN0pXb0130gFnQVVfeXFMTmlfS2I2YS1tUHUzVXhLM2ljYmFkV1JZa2hLak52NkpMN1hLZGw5U2JDRzQ2Y2gtRnB4RlNqdkVYMUEybG9SbXh1Zk9SbnhydnNOZVNNWWI1Mmx0bmROY0E0d01uaG12OA?oc=5>
 
-### Trump welcomes Xi Jinping at the airport; high-resolution images are now available!
+### “令人恶心，看看你这副样子”……Trump对记者“健康提问”恶语相向- 阿视亚经济
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 华人头条
-- 时间: 2026-10-30 08:16
-- 链接: <https://news.google.com/rss/articles/CBMijgFBVV95cUxNbnR0UlNOQ3dSOURJWkZPM1JZb0ZNYU1xYVBaWXBNalhfYlNnVDlhRGNOcFg3MGFfc2tiZkZPUVZ1el9PYjVFU3RTTUNQVXVROEJWS3o2TzVPVHFBWUcxNnFoNTJsR1FRaEZaVFpWai1FRVE3d3p0cXNhSlAwUm16ZlNDcHh3MHZLRVNEQi1B?oc=5>
+- 场馆: 아시아경제
+- 时间: 2026-10-31 01:00
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE40VDA4VDY5VjRqeWxOUzIwOEJsVU1TQ3BWNDM4c0hkWkZDa1oxdmJxUElVdzNBajlqeDNlVzlDdlpOWFZubU9XV0dPLVFsTThsX24xNVJOOVBNTXRQZnF5OEFaVTY?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-10-31 12:54  (15 条)
+
+- **蔡徐坤** | 蔡徐坤官宣澳门W盛典嘉宾 新加坡演唱会后启程 <https://k.sina.com.cn/article_5727695436_m15565b24c05301xkbk.html>
+- **蔡徐坤** | 蔡徐坤新加坡演唱会舞台掌控力拉满 <https://k.sina.com.cn/article_1852855013_m6e7052e505302wxyq.html>
+- **特朗普** | 嘲讽力MAX！挪威回怼特朗普：让“粪坑”再次伟大 <https://news.google.com/rss/articles/CBMic0FVX3lxTE1ZNlA1bnBIRVhkbjdSOVZLTWhRNk9HT3Z4V0d3X0JIX3dENzFHYmNpSVB5dGc1UktWemstRHkxNGRCWVRHb0F4d1NTT3RicXJ2aGtYUEZCZUhpMklKZ1J1NjFqM2dNZE1JcVg4bktVTS04RDA?oc=5>
+- **特朗普** | 特朗普称伊朗战事将“很快结束” <https://news.google.com/rss/articles/CBMiqgFBVV95cUxOekJaaG96TF94R0FkcFl0T3dORUtrck14QjhsLXdzcUNnUThPTG9sUjRGY2RnZTlIVHdMRS1wc09QcnN4dnBOMjNCR01rcm1fZHg1TUNUa1dMWXZ2OGhsazRXb0VGWVRQclJWUFhZVDhiRFRQV3NhZWZJdDh6cWNLMGMwaFlpRGM5SnpuN2VfemYzQVd3RURRTlNmZHotdFg5bi00dVUydmJvQQ?oc=5>
+- **特朗普** | 事关助选中期选举，特朗普改主意了 <https://news.google.com/rss/articles/CBMiWEFVX3lxTE00OHNDS0JZMDVqdDlNNTBLOWEyQkYycmRDUWRXRDBnWmxxVEpCWnFJWFJoRzJYTkVqQnVzSy1aTDVCaHRxM2tOeGFoYTg5S0lKTkw5LXhYYVQ?oc=5>
+- **特朗普** | 特朗普：那些民调机构太坏了，我的真实支持率应该是104% <https://news.google.com/rss/articles/CBMic0FVX3lxTE1zTEJLNW5kQUtjUlJOY1BmQ3l4aUZoQlY0ekxjUXJYYzFWS0hKNjhYdUVucVdDcDhnb1d0N2tTc0piRXlFU19nM3hvazZhWS1sNW5Hd2JPZVVub3RwM3ZDbjB2NDlmdS1iNG5ldFhFZkZfbWM?oc=5>
+- **特朗普** | 小博索纳罗太“疯”，“特朗普不打算支持他自称巴西总统” <https://news.google.com/rss/articles/CBMiTEFVX3lxTE0tai1jSTk2ZlhNaFVqMWpuQW1ZRFl2cTNtdlVCR1FCVVBqV1VOV18wV19LN1ZIbklZYU1McHJvYjBwdFI1WFIwSkpDSXI?oc=5>
+- **特朗普** | 加拿大欧盟建“未来联盟” 特朗普曾称此举“可笑” <https://news.google.com/rss/articles/CBMif0FVX3lxTE9rQjhyMG4yb3dMX0g2eDhiWWN4bkI5UUMwQ3JORXNybEVmR3R6d2tZNkdmX2RhN2sySlpIdGh4RjVPVGZJYmFTU1FUOFhjWTlJN3c4Um5LamlURHVka3dlVU54b1dYbHhpd1pkek82eEM5TFhObFRtdUQwSUdpaHc?oc=5>
+- **特朗普** | 特朗普给奥迪开绿灯！关税大棒松口：奔驰宝马陷尴尬 <https://news.google.com/rss/articles/CBMiWEFVX3lxTE52N0dvLVBLSGIxSEtIci1wWm15Mmhwd1llRkNTa2FWZm1QZzVUQ3hiNkdSR2pyek8wdE1XWEEyZW4ydWhweTFJd2xVNzhqMkQ1VllzdGNKX3o?oc=5>
+- **特朗普** | 特朗普：曾有“愚蠢的人”想让我制裁俄罗斯 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE01Uk1zcFRlQ0R0Y21LbmllOWRtSXlMN0lWUFR2d1RQZ3d4Xy1XNFVpZEhWWGVSVm42Qkd6bEpuOElNWGNPcW0xQjlOZzc?oc=5>
+- **特朗普** | 特朗普：曾有“愚蠢的人”想让我制裁俄罗斯 <https://news.google.com/rss/articles/CBMif0FVX3lxTE9UQjRfdDBOUG5FeGtZNHdFdkxHNF9QdnotdmNnclZqZm16MWNYMTZWaUU2OGEzSXNBQTEwS0NoWXlOd1lGUnVvdXlaYmFfWGVIX1U0ZnJqZjFDbUg3aExtSjViZTc5eDk2SFBsY2RHbmhycHJGT0hMT1BkQ3ZEWWM?oc=5>
+- **特朗普** | 特朗普：曾有“愚蠢的人”想让我制裁俄罗斯 <https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTlIwZWZaVjZfcHZYemJOa3NHVkdnNXJVYnhvTXM0amY3Nm9uSmZNcm93QjJ1eEVHT0lkVjVpU3dWUmphdU5wbWdfYWZ5T1ZoaGQzNVoxMUJJVDZJSWIzREZRZzlkZDF4R0s0SU5rSkZ5OUZjRmZDNkpxd2ZlMXBKdE9PbTh5UDRY?oc=5>
+- **特朗普** | 特朗普骂记者你真恶心身材走样 政策质询引发争端 <https://news.google.com/rss/articles/CBMicEFVX3lxTE0wUU1JZ1IxX3ktVWVCSklrN2hTOVRkQml3akh0eDM5SHFJRmF0UTNXLWZ2WEtfT0Joc3Q3MHRydnUwU0FBWWkzQS00dl8zR2xrak1RdUVISzlWUnJBeWprYkp4YVJxNlF1al9oMGhNVmw?oc=5>
+- **Trump** | 選戰進入最後衝刺 川普赴佛州為共和黨助選 <https://news.google.com/rss/articles/CBMiYkFVX3lxTE9lVWJYTmk5cWlDaTFlcmRJTXBScUJCR3llYVpMY3puSDN0YjR0MkNKN2VlSlZYdmNlTUZLT1BsWmFBb0xibi1zTTZfMTJPWXBRZ1p4ekNSUEM2V1BUN0pXb0130gFnQVVfeXFMTmlfS2I2YS1tUHUzVXhLM2ljYmFkV1JZa2hLak52NkpMN1hLZGw5U2JDRzQ2Y2gtRnB4RlNqdkVYMUEybG9SbXh1Zk9SbnhydnNOZVNNWWI1Mmx0bmROY0E0d01uaG12OA?oc=5>
+- **Trump** | “令人恶心，看看你这副样子”……Trump对记者“健康提问”恶语相向- 阿视亚经济 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE40VDA4VDY5VjRqeWxOUzIwOEJsVU1TQ3BWNDM4c0hkWkZDa1oxdmJxUElVdzNBajlqeDNlVzlDdlpOWFZubU9XV0dPLVFsTThsX24xNVJOOVBNTXRQZnF5OEFaVTY?oc=5>
 
 ### 2026-10-31 06:03  (10 条)
 
