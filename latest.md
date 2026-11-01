@@ -1,118 +1,141 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-11-01 10:57**
-- 本轮扫到 15172 条, 新增 **13** 条
+- 最近更新: **2026-11-01 17:00**
+- 本轮扫到 15186 条, 新增 **14** 条
 
 ---
 
-## 本轮新发现 (13 条)
+## 本轮新发现 (14 条)
 
-### 你坤哥限时返场篮球衣
+### W盛典蔡徐坤闪亮登场 一出场焦点就出现了犹如听了一场演唱会
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7785517961_m1d00d9389033018m86.html>
+- 链接: <https://k.sina.com.cn/article_6450743908_m1807e8a6403301rzao.html>
 
-### 周德宇：十几年前的政治喜剧，已经预言了特朗普……
+### 蔡徐坤新加坡演唱会Ride Or Die现场原创摇滚炸场
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5885611158_m15ecf4c9603301jevk.html>
+
+### 特朗普：如果民主党赢得多数席位，我想我会成为“否决先生”。
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-11-01 15:05
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1MYnFuTktUMU9sb1BsclVaUmkzTzV6dWxmS3pFZTc5a1hKMDR1SURZYmZ6RGRic3VJRHh6MHprWVNDMVd3cWxuYWRqdw?oc=5>
+
+### 特朗普发出威胁后，伊朗警告称新一轮战争可能旷日持久
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-11-01 16:31
+- 链接: <https://news.google.com/rss/articles/CBMiiwNBVV95cUxQMWVHVWFMMXRwcFgzX1Z1TnhGVGZEWmV5WTZ0V3E0WkFDZ0wyLUdydnhvZnFlYm1TQUhjUUlQT3VPTEVocU05aUF6bzVUMzRONHcyU0NDM0NLWjBmMlUyVmRYbjRsSFdFR0FwemdfQlNQWWNJMmttME1haDhFOFhSSTFDSktHVFZBeGR1eTZBWWRkeXA2RDV5bFBmSmtYZ0JmWXZwQjJueGZKNnp5azlUR1c1T2EtYlNKQ1k1UmFITDE4Z0RmOTJsa3JnQndUanhCWF9mNUNmTW1weTB4alJrMzJrZFk4aWNTRVlnR0p5SlNBNGxKX3hUUzJpNnpocDloZ3lnLU9jbHFFWVNGb0tIaTg3QnV4QjBlSHBGTFdnSkJtTTVqMnlsUDNFdndNajcyNGtZUjRienA1aWh3SjcyOWdGdUg4cW1hLUQwMGVLVl9jUWJ3ZzNxWlFEUDVQQU5PNjgyMWwzZXVxOHEzV2tZZlIyZjQ4bWZjMFBlamZrWGY2VHdkYTJvQ0p3dw?oc=5>
+
+### 特朗普：伊朗问题仍有未解决的事项。
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-11-01 16:12
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE4tVUtvd1JSZ1pfQkVwZHNVSFdyVE12ZWVNU19PS3ZOb1YyTWRwS1ZOaTdrZXh4djlYSXZSREYwczBTNUJBLWp1R09zcw?oc=5>
+
+### 特朗普威胁将对伊朗“一两个目标”发动新一轮打击
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-11-01 14:27
+- 链接: <https://news.google.com/rss/articles/CBMi3gJBVV95cUxOMDVVaU0zcHBFekJyVnRWREM1eWIyazhVLV85RGxsUlhzejkyWHVJRlVPbWxscEN5TXhqSndDYlpXeDNMQ1N4S0hYUkdUbDFlaThZaEliUEljYklpV0hyWTQ5d0Y5V0lGMTZhS3gzLWd4S2d4Qnp1SFJpUUtINzRtMjNjNllmLUU2dEQ5SUFBbUhXYlNUTXoxM015U1RabkxRdy1wR194VW5HS1ppeHlwX3o1aXowa0FKZWNxeW8ydjJ0MWhhd3IyN3ZQVWJQMjlBRC02Mnd4R0xHM2c4c2FZZlRoazdCUWN0YnZHekVNMVFwdllnLW1MSHgwNXNPZjVWV3lCTnVBRl9WbnUxYmVsM2t6bGkta2NZT3M2blgta0MtcVdZc214cE1jNlJzWmV3anBlalFLZ19qN25QTWFmbXloRXQ4SUl2MVlkZWZUQjJVeWQ2bm81anFwT1JxUQ?oc=5>
+
+### 特朗普怒批其前律师：“令人反感、愤慨，不可接受”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 环球网
+- 时间: 2026-10-31 22:47
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE1fQlY0NGJ0RWRMNnlRYUJYWHBOVzNUaUR3MjQ4ejB5U3ZfWEpwRzJzTGpYanRHTnd4bXZTRDF3dTlIM0dKWFI5NHFIU2dpWFNLTTFNNXBGMjM?oc=5>
+
+### “史上最激烈”，美国中期选举倒计时，特朗普遇大考：民主党拿下参众两院概率超60%！选举后股市黄金怎么走?
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-10-31 09:09
+- 链接: <https://news.google.com/rss/articles/CBMizgFBVV95cUxQcFpfV0w0MHNYYUhlcFdWWTRXTDN4WW9IckdzdFUxa1hxQmxENjdMTjNUQVludXF0LW5kYmtnZmt6SllRbTVvVVNHLTIxWlZYUkpuM0QwOFZpUzZjcDJYOGttaHZNWC1xRDRYa2lFUDY5NkVQaWtUVzB3WXNXMlc3RzJiQ3pBcnB3QXRLcWdxTGNNazdjVFA5anIwT19XeVVXSDJwM2ZYcGNXQUdzNU53ZzR0YnNuSjE5SmNYZkpLMUg5V3BKZ1VBcTNLN0doZw?oc=5>
+
+### 美媒：卢拉和米莱的胜利归功于特朗普 利益交换左右选情
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-11-01 12:09
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE40c19DVFI3VHVXeFA3TGNDZ09hTTdlb0t4V3c2TWhYVzdEeU1QV2V6OTNnd2JhRVA5QlFSZWpwMEFTS2dxdTFSalFraHVnZThmVHdhOHdMQ1Y0MENWMnlFLWZFUTh3RjQwY0xGTThRLS0?oc=5>
+
+### 特朗普威胁伊朗：10分钟就能搞定
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 观察者网
-- 时间: 2026-11-01 00:32
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE05SVBqcWo4UUxva2xjVWJXQzBDTGhVQTNObWpEZE1VWXVEXzhoRzZwQTI5dmh1R1c5QmtXTXg3NEFjYXFveU5FMXo2TmppbldUSmd4eVYxZXJyWTgzTzNEVlctTnVBZw?oc=5>
+- 时间: 2026-11-01 05:59
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFBPQzNlQU1iQVdMRVRBeTdjdklkVm8zdTRhM3M0bUxTOHBPWEllbmNZWkRZcHFSdWN2ZGI2cFhVTFY0N3hNdEt2aXZQNG5MQkt5OUE1cUYwUUxFQk5TSU5pd21Eb0FvN0o4ZE1mNlB1MTUzN0k?oc=5>
 
-### 事关助选中期选举，特朗普改主意了
+### 特朗普：美国在伊朗仍需处理一两个目标，包括镐山核设施
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-10-31 10:48
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBDcEdYZ3J6UGpxZ2pyNDZUcFJaSFJzM2tydmFqaGswVjRSVV8xYV8tTF8xZC1lbUhVQ1luS1RKQnJic1JESnBURms3QTM0ZHhTNzZzb0lBajcwSXdBTmFkTWpfZnZuSUVPVmFnUkFfU3lEUm9lbnRkSTNadWlRVm8?oc=5>
+- 场馆: 中国新闻网
+- 时间: 2026-11-01 05:47
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNckpkMWl5VENUMi1PN0JMWGpfREo3RzhZdW90SXY2R1YtYWZhbjU4RXBSNExRQWw1VDhMQWJEME5FSjR6SkNXYU1meFE4Rmw4dnNYMTBSZVdpUGFNWnNKd1NGQ1ZTLS1V?oc=5>
 
-### 【美国中期选举】加州州长称特朗普或试图扣押选票 促法院做好应对准备
+### 知情人士：特朗普团队数月来筹划绕过国会执政方案
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 联合早报
-- 时间: 2026-11-01 10:43
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBlX2xidW5DMXJVZzM5V2lDdk9YNi1NWnNSX1ZHd3ZMSExpQzNmc3RtWlF3Ukl5VHRFRDN4Vl9wNkJTcFRGd1c4R2ZFSHVLb2FrU3pRb0lneG9MV0JKb0ZxcC1qZnhfVXBmMUE?oc=5>
+- 时间: 2026-11-01 13:14
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9oY3gwVFNmODdQcGt5RmJvUVF2WEdYNlgtUGVrcVBJc3otU3lVVl9IdFBHMENMMTI3WnlUdWpPV05zMm9PYjMwd3Q4elA5Y1Q5ZVVNY2JScVNqbmM1bEJFZ0tXdUlVQlRzcHc?oc=5>
 
-### 特朗普：支持马斯克执掌CNN
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-11-01 04:43
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ZbWRIeU9TSHViWjl5cUJnRWEwdzJPRnU1cWVTMmJ1NnREc1NZZ2VvamFaa0lvWUcyXzY4U0ZUYkFqWDlGSXdFbm9FMmc?oc=5>
-
-### 美媒：特朗普介入七场外国选举，资助能赢、惩罚会输，卢拉和米莱都欠他人情
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-11-01 07:55
-- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTE9LVjdMS3BTZW9oZW9MWW9vaGZYRlR4Sjk0RVZyZTJuNFducThUVlJrVWhJdmRJbE9xa3NXbW9PU0kwVlFraUZqVVFIVHlSaDhaZFE?oc=5>
-
-### 特朗普称将邀请泽连斯基参加G20
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-11-01 08:27
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1vdlNjcko3d2pXWUdrbTFycEY0YWNMWWxpLWhBRGwxQ2dkcWMtUldKMTliSlliVWkxTk56WXNNcy1nbFI4bi1TX3laMUY?oc=5>
-
-### 特朗普对《华尔街日报》提起的诉讼，被永久驳回
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-11-01 05:06
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5Zb2Q1Z1pwMm5WNlp4cVVRODJoc3lYRmllTE8yOFRSYzAxOVZTM2pTaDV4ZENMeVpiemtnTEpSeEtfeUl4b0UwMnpPZEF0QVhKMGNnZDR4TEZ3NXI3RUtxZGx0QVBmdldVN0VqMlJKOGU4REU?oc=5>
-
-### 习近平在美国总统特朗普举行的欢迎宴会上的祝酒辞（全文）
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-09-25 07:00
-- 链接: <https://news.google.com/rss/articles/CBMijgFBVV95cUxNN3ZiZENMcnZsUUJJVGJNTkRva3AwdHpEdVp0YWZBcjJicExUcUU5NnVEZG9wbG45OXVEbnB6MmxkdDBfRlpRb3MwUlRXWm9qOVZLSVZ6UUhGd2V0ZVYxM0VmNllfRVMwcVlic3J6SHhnYUE5ay1ZT3dNTThLY1Rmc2dOU1lpUkFwNWlOcWV3?oc=5>
-
-### 习近平和彭丽媛出席特朗普总统夫妇举行的欢迎国宴
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-09-25 07:00
-- 链接: <https://news.google.com/rss/articles/CBMijgFBVV95cUxOU2lrcXFudjBYVWoydlozelJHN2k1NENqd0lScDhzYnRQZWxoU3pkdHpzZHhUSTBkV3c0QjVrZDBuVmVyMkE4V3RaSmZrcUdSOHJiQWpiV1lKaHg1REhGbEFXZFdMN1MyX2R4al8taXJkUXZQdGVXZVdHN2lJOVdKcG9xVHNMRV95WmJhRU5n?oc=5>
-
-### 特朗普再提镐山核设施，“还需处理伊朗一两个目标”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-11-01 09:32
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE5uYzdHdGxBV3hwQ3dGOXNLQ1ZBOGlDYU8yczl2YWU1V3FpT3MwU0Q2ZkNwUnVKMUZfc0lMT3hDQWpfRnRqZ256YjA2RUd0bTJ6cjV3WnNabGZERHFDNmd1S01fUFBfZjFRTFRILU5XWmhwM3pEYjJkTWxhU09SRzQ?oc=5>
-
-### 特朗普称已摧毁伊朗大部分军力 伊朗警告若再遭袭将报复
+### 川普夫妇正向小朋友发糖 空军一号突然现身
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-11-01 05:33
-- 链接: <https://news.google.com/rss/articles/CBMikwFBVV95cUxNSkYzT196ejgtQ2tIQzBLcEZjd0ozN000bGtSSEJOVVMxWHdMVlBnc0p3R0Z2aVZQN3lwSnhJekJ1VENOMHd4WjJpNVhWZ01hVi15RWxhM1BiRVFrekM1LThLMjZiZkUtam94N2xuZVY3S2NQLXZPbFBiMDFEdmFqVnkyVWZ1MUpLZi1ZSnAyMmRGVXM?oc=5>
+- 场馆: 文学城
+- 时间: 2026-11-01 15:36
+- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxOLUZVaFRwRmctVXdnNmwzdU9KMFhhdU5wRGMyUnREMm56TjFpRWlrbXpPSjZPdGlPSjQxdEZwY0tCZjdlYXNnWjhUZGFkYWZ5WFhIbkFFTVN5UVN0c0dER1BBMk9FajFjd3lnUjU4RVNpRXFHM3VsOGJ3OTFiajRfRQ?oc=5>
 
-### $英特尔 (INTC.US)$ 特朗普总统签署的行政令
+### 美国中期选举是东南亚的风向标
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-11-01 04:29
-- 链接: <https://news.google.com/rss/articles/CBMinwFBVV95cUxNcENYeXh4T1ZiTkt0M2tnZmpEVnhoVFQzUWttYzJQcDQ5MFdSQzExaklvZy1xVjRUY3BiYzJjblQwc0FycXZ5YjhFMUNpVkFDX1J4OTBITWt3S05HaWh4Z3VLMHFiSjVoNnY4RlB1QkVobkpyaEQwcE43cnFqZ2FrTUxfdXk4aVZncDV1Y0pOdkNrNnE1VVkyb1ptYkJwVW8?oc=5>
+- 场馆: The Business Times
+- 时间: 2026-11-01 04:00
+- 链接: <https://news.google.com/rss/articles/CBMisAFBVV95cUxQeWVrdi1WWm55NG9qRUgxR2VmbjhsYlNSREVBUFFfV05mZFhUaDNIWDdBRk12Zlo1SkRMVzEyeUhKZ2JYa2pBcFZpLU0xM2ItVlhhT3hFY2FfSUlJV3kwMGNvbnZRaGVrYXJnUk1WWlhSZUhQRjZ0dUwxRUlLQV9UeFlFaVZPaXppMHZ6V25hUmpDZVlQZlRDcFhqVzhJWlI2X1IwR3RqbWtXUXNXU0pnVw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-11-01 17:00  (14 条)
+
+- **蔡徐坤** | W盛典蔡徐坤闪亮登场 一出场焦点就出现了犹如听了一场演唱会 <https://k.sina.com.cn/article_6450743908_m1807e8a6403301rzao.html>
+- **蔡徐坤** | 蔡徐坤新加坡演唱会Ride Or Die现场原创摇滚炸场 <https://k.sina.com.cn/article_5885611158_m15ecf4c9603301jevk.html>
+- **特朗普** | 特朗普：如果民主党赢得多数席位，我想我会成为“否决先生”。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1MYnFuTktUMU9sb1BsclVaUmkzTzV6dWxmS3pFZTc5a1hKMDR1SURZYmZ6RGRic3VJRHh6MHprWVNDMVd3cWxuYWRqdw?oc=5>
+- **特朗普** | 特朗普发出威胁后，伊朗警告称新一轮战争可能旷日持久 <https://news.google.com/rss/articles/CBMiiwNBVV95cUxQMWVHVWFMMXRwcFgzX1Z1TnhGVGZEWmV5WTZ0V3E0WkFDZ0wyLUdydnhvZnFlYm1TQUhjUUlQT3VPTEVocU05aUF6bzVUMzRONHcyU0NDM0NLWjBmMlUyVmRYbjRsSFdFR0FwemdfQlNQWWNJMmttME1haDhFOFhSSTFDSktHVFZBeGR1eTZBWWRkeXA2RDV5bFBmSmtYZ0JmWXZwQjJueGZKNnp5azlUR1c1T2EtYlNKQ1k1UmFITDE4Z0RmOTJsa3JnQndUanhCWF9mNUNmTW1weTB4alJrMzJrZFk4aWNTRVlnR0p5SlNBNGxKX3hUUzJpNnpocDloZ3lnLU9jbHFFWVNGb0tIaTg3QnV4QjBlSHBGTFdnSkJtTTVqMnlsUDNFdndNajcyNGtZUjRienA1aWh3SjcyOWdGdUg4cW1hLUQwMGVLVl9jUWJ3ZzNxWlFEUDVQQU5PNjgyMWwzZXVxOHEzV2tZZlIyZjQ4bWZjMFBlamZrWGY2VHdkYTJvQ0p3dw?oc=5>
+- **特朗普** | 特朗普：伊朗问题仍有未解决的事项。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE4tVUtvd1JSZ1pfQkVwZHNVSFdyVE12ZWVNU19PS3ZOb1YyTWRwS1ZOaTdrZXh4djlYSXZSREYwczBTNUJBLWp1R09zcw?oc=5>
+- **特朗普** | 特朗普威胁将对伊朗“一两个目标”发动新一轮打击 <https://news.google.com/rss/articles/CBMi3gJBVV95cUxOMDVVaU0zcHBFekJyVnRWREM1eWIyazhVLV85RGxsUlhzejkyWHVJRlVPbWxscEN5TXhqSndDYlpXeDNMQ1N4S0hYUkdUbDFlaThZaEliUEljYklpV0hyWTQ5d0Y5V0lGMTZhS3gzLWd4S2d4Qnp1SFJpUUtINzRtMjNjNllmLUU2dEQ5SUFBbUhXYlNUTXoxM015U1RabkxRdy1wR194VW5HS1ppeHlwX3o1aXowa0FKZWNxeW8ydjJ0MWhhd3IyN3ZQVWJQMjlBRC02Mnd4R0xHM2c4c2FZZlRoazdCUWN0YnZHekVNMVFwdllnLW1MSHgwNXNPZjVWV3lCTnVBRl9WbnUxYmVsM2t6bGkta2NZT3M2blgta0MtcVdZc214cE1jNlJzWmV3anBlalFLZ19qN25QTWFmbXloRXQ4SUl2MVlkZWZUQjJVeWQ2bm81anFwT1JxUQ?oc=5>
+- **特朗普** | 特朗普怒批其前律师：“令人反感、愤慨，不可接受” <https://news.google.com/rss/articles/CBMiWEFVX3lxTE1fQlY0NGJ0RWRMNnlRYUJYWHBOVzNUaUR3MjQ4ejB5U3ZfWEpwRzJzTGpYanRHTnd4bXZTRDF3dTlIM0dKWFI5NHFIU2dpWFNLTTFNNXBGMjM?oc=5>
+- **特朗普** | “史上最激烈”，美国中期选举倒计时，特朗普遇大考：民主党拿下参众两院概率超60%！选举后股市黄金怎么走? <https://news.google.com/rss/articles/CBMizgFBVV95cUxQcFpfV0w0MHNYYUhlcFdWWTRXTDN4WW9IckdzdFUxa1hxQmxENjdMTjNUQVludXF0LW5kYmtnZmt6SllRbTVvVVNHLTIxWlZYUkpuM0QwOFZpUzZjcDJYOGttaHZNWC1xRDRYa2lFUDY5NkVQaWtUVzB3WXNXMlc3RzJiQ3pBcnB3QXRLcWdxTGNNazdjVFA5anIwT19XeVVXSDJwM2ZYcGNXQUdzNU53ZzR0YnNuSjE5SmNYZkpLMUg5V3BKZ1VBcTNLN0doZw?oc=5>
+- **特朗普** | 美媒：卢拉和米莱的胜利归功于特朗普 利益交换左右选情 <https://news.google.com/rss/articles/CBMicEFVX3lxTE40c19DVFI3VHVXeFA3TGNDZ09hTTdlb0t4V3c2TWhYVzdEeU1QV2V6OTNnd2JhRVA5QlFSZWpwMEFTS2dxdTFSalFraHVnZThmVHdhOHdMQ1Y0MENWMnlFLWZFUTh3RjQwY0xGTThRLS0?oc=5>
+- **特朗普** | 特朗普威胁伊朗：10分钟就能搞定 <https://news.google.com/rss/articles/CBMic0FVX3lxTFBPQzNlQU1iQVdMRVRBeTdjdklkVm8zdTRhM3M0bUxTOHBPWEllbmNZWkRZcHFSdWN2ZGI2cFhVTFY0N3hNdEt2aXZQNG5MQkt5OUE1cUYwUUxFQk5TSU5pd21Eb0FvN0o4ZE1mNlB1MTUzN0k?oc=5>
+- **特朗普** | 特朗普：美国在伊朗仍需处理一两个目标，包括镐山核设施 <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNckpkMWl5VENUMi1PN0JMWGpfREo3RzhZdW90SXY2R1YtYWZhbjU4RXBSNExRQWw1VDhMQWJEME5FSjR6SkNXYU1meFE4Rmw4dnNYMTBSZVdpUGFNWnNKd1NGQ1ZTLS1V?oc=5>
+- **特朗普** | 知情人士：特朗普团队数月来筹划绕过国会执政方案 <https://news.google.com/rss/articles/CBMiakFVX3lxTE9oY3gwVFNmODdQcGt5RmJvUVF2WEdYNlgtUGVrcVBJc3otU3lVVl9IdFBHMENMMTI3WnlUdWpPV05zMm9PYjMwd3Q4elA5Y1Q5ZVVNY2JScVNqbmM1bEJFZ0tXdUlVQlRzcHc?oc=5>
+- **Trump** | 川普夫妇正向小朋友发糖 空军一号突然现身 <https://news.google.com/rss/articles/CBMigAFBVV95cUxOLUZVaFRwRmctVXdnNmwzdU9KMFhhdU5wRGMyUnREMm56TjFpRWlrbXpPSjZPdGlPSjQxdEZwY0tCZjdlYXNnWjhUZGFkYWZ5WFhIbkFFTVN5UVN0c0dER1BBMk9FajFjd3lnUjU4RVNpRXFHM3VsOGJ3OTFiajRfRQ?oc=5>
+- **Trump** | 美国中期选举是东南亚的风向标 <https://news.google.com/rss/articles/CBMisAFBVV95cUxQeWVrdi1WWm55NG9qRUgxR2VmbjhsYlNSREVBUFFfV05mZFhUaDNIWDdBRk12Zlo1SkRMVzEyeUhKZ2JYa2pBcFZpLU0xM2ItVlhhT3hFY2FfSUlJV3kwMGNvbnZRaGVrYXJnUk1WWlhSZUhQRjZ0dUwxRUlLQV9UeFlFaVZPaXppMHZ6V25hUmpDZVlQZlRDcFhqVzhJWlI2X1IwR3RqbWtXUXNXU0pnVw?oc=5>
 
 ### 2026-11-01 10:57  (13 条)
 
