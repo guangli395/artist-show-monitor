@@ -1,94 +1,82 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-11-01 21:03**
-- 本轮扫到 15196 条, 新增 **10** 条
+- 最近更新: **2026-11-02 00:56**
+- 本轮扫到 15203 条, 新增 **7** 条
 
 ---
 
-## 本轮新发现 (10 条)
-
-### 蔡徐坤《Pull Up》演唱会互动视频
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923107_1d5ae15a30680441as.html>
-
-### 小博索纳罗太“疯”，“特朗普不打算支持他自称巴西总统”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-10-31 18:56
-- 链接: <https://news.google.com/rss/articles/CBMikAFBVV95cUxNVkpKYTNHZDF3cE9RMGkwRm0yV2R6cGNkT3d5elhFUWt0bmdHcTJsQTNWcnA1NEtoNlNuRUlJdlF2T0pabHlOVkJjbjJka1dFbGhfRkZsUndFM212S09qaWtjREZHQmNBUGNLY3ZPclIzbVlWamxyY25MVk9vWkU1VC1yV0NXZEZHVndSU1NtRmM?oc=5>
-
-### 特朗普称没有计划见小博索纳罗，但他在美国“想待多久就可以待多久”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-11-01 19:39
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9xTUNCUDBILWh6M2FtVGxaUXE5R08xNFkydG4xNk9LbTg2U3hVbGZDZ0h5LVo5UnNBd244Z0V1ME9YQ2RIQ21Ibm5iVnVzM29jeU5OMXRWZGIyNC1tMHZsTjhHUkxxZzJTdVVVTzZJb1U4TW95d1hyTg?oc=5>
-
-### 美国法官驳回特朗普政府对阿拉斯加州美国参议院选举提起的预防性法律挑战。
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-11-01 17:46
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9LT09OWXdYamdxOW9aS2lZWjBwemJpZkFWbDBCQkVkN0J1a2dFWEhzMmpqTVd4UXpRRDM3bks0TWJfMjF3bmpkbkN5bw?oc=5>
+## 本轮新发现 (7 条)
 
 ### 特朗普押注MAGA基本盘 为共和党中期选举最后冲刺
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 搜狐网
+- 场馆: 新浪财经
 - 时间: 2026-11-01 18:19
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxPZkNLeFlEeWNTLXNLdHRoY25GcV8tZ2I1MkpmVW40QkRzN0lfb3dhczROYnNBTkI3T2lyRUJkaFZQZDJ3R2VCN2lhTzVwaGxMOG1OZUJONlpsaHhZVzRjc2psTFlELUpVVVBEaldXazNTaHJ1aV9NNzZlN2hCM3J4VHc1RkdvZVM3VHBCbg?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWDFwRkM0ZmU4LS05cmczMlQ1UXJnRWowaUpMREtUTDFzdHl6eGlrd3JnZy1JMFAzZGdUQ0pxWldwUzJ1Rjh1YzVJczVPdUtuUG5CcHlqTHV2X2ltcE84MnVhdWxxckdoYWdOdTZRYnBjbmY0bmZCWG1PcGtsZjUxSmFCckRtRG5aNjFmdXZ6a0xuUWZSLTBtUmlhaUlUaFhNc0JlY083ZERsNzFqRElydjN1cnZXQlM1RmpEbkEyd2w5am9LbmktaG50Q3YtbWVmZ2V6WXJKZHpDWmo0N3Jn?oc=5>
 
-### 事关助选中期选举，特朗普改主意了
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 环球网
-- 时间: 2026-10-30 19:58
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ha3lTME5vcV91Wk5qV0ozZ1diQ3VhYXBic2ZEYVFxejFDNy1sUmF1bFFOdkRfNUVHN2dxa041SGFTamlyQUdmTHdWd1NMZVk3bDlz?oc=5>
-
-### 让马斯克执掌CNN？特朗普：我喜欢这个想法
+### 特朗普政府要“抢选票”？加州州长警告
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 观察者网
-- 时间: 2026-11-01 09:00
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1vMm5VVW1wNTBaUm5BWHJvdmhtem1IVi1NWnU0U0NWdUhYa2tCaHlydUJhcldtM1RyaWhFVWJoQ0Fmb29VcUZ3bERleVlvbmZzRzQ3VFpELXVyTkpnbEMwMzI1bERjN1Y2UERXckJIZUlLV28?oc=5>
+- 时间: 2026-11-01 06:43
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE9qZUxQV1hqamNydDBHbVZsblpnN0NPai0yMldYTjFBVDNvY18yd3cwbTZ3MjhfdkN2VkZzOGNyWUQ5ZWJicHdzbnhFOWNWYkJOazZ5SlUybm9qTlpLOHdUQkRCeFJNbGhsYmhGa1FBdENLU28?oc=5>
 
-### 川普夫妇正向小朋友发糖 空军一号突然现身
+### 期中“烤”｜“拒绝数据中心会输给中国”？美国社区挑战特朗普AI雄心
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: ThePaper.cn
+- 时间: 2026-11-01 23:15
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RSllldjU2Q3lsd1B0NDkxaTZyWTE3Y2FZZDRCLXl5WEhvREdSQXFDNzQzSnI2b0NIZWp5bG1Qc2RqU25WaHRiQWR0a2J2bGJBTkNOcFBXY2ZVRm1qSkNVUw?oc=5>
+
+### 特朗普称不打算见小博索纳罗
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-11-01 01:23
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE5mYm9QUTN4Q3ZIeGV4TV84Tkx0YVk2MjhTRGJ2b19CdUtmVlJZZXFpeHFYV19aY3RmOWdONnVYUDJYQkJfc3RFVnByNUpqS0NEczd5c0xid2xpb0Ffc2h3bkNWZWhwS01tM3AzbEhBUDVNNTlo?oc=5>
+
+### 特朗普和卡尼会谈后表示美加贸易协议接近达成-36氪
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 36kr.com
+- 时间: 2026-11-02 00:03
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE5DVW5MMDFFQWdCSkJzZmhiMnFTcW81Mm5mUnpCTHJZQW9WNmxFcjFJYjZqU0pyOGpYUE5ISnhTY05NS1o2Yjk1VlR1WkVxXzhXTE92V25vZnM?oc=5>
+
+### 特朗普称不希望以总理干扰美伊谈判
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新京报
+- 时间: 2026-11-01 23:34
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9tRjlJbHRhbXhISGJpeGNRRDhxVEhTYkJfVkdNVFNUcFdZT3dVTTE4R29KUEhFVC1Tclk2dEZhNWNSdWktYkU3M2dqWUFzQVF5TmMtS1c1eHZkZXRpWW1ibzBxakQ?oc=5>
+
+### 特朗普同内坦亚胡通话 讨论伊朗问题
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 文学城
-- 时间: 2026-11-01 15:36
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CUEF6cE5nYWJwSzA4RExfNy1vZlpkUnBOQlFuTkhyQWJ4cDIyLWVHbnhpSjlnWWtHT0J6Rm5TWUg2RUljY2FNcW9DWVpqdUFlMHlZdnNSVzh0d1VZNVlINFRWbzFVZ1VY?oc=5>
-
-### 美国中期选举最大变数是“高物价”……要求追究Trump责任的声音扩散- 阿视亚经济
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 아시아경제
-- 时间: 2026-11-01 15:30
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRcF9MajdUNF9VTDBqaEpYeTVIc3FfaFp3SkFoQ2xQUXBlaDJ2V01hZVdIbXZNTk5UR25mTXp5cnhvaDhfbXdhLW1ERm5la2I0aDRESUVhVWo4dXhyRk5xbi1kWVg?oc=5>
-
-### Trump：“5000美元分红，别在韩国、中国、日本花”
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 아시아경제
-- 时间: 2026-11-01 17:42
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9NSUpMNTkyaEVTWUF4OWNNeDVoRzl1R3FJVXViaS1HYkFHZDF3LXRxNVJHcXNQSjdZYTMxbzQ3aXJlczI2ZTV1eUlxd1BPZTViVk44UEN6TUF1cWhmQ2hkM19rTW0?oc=5>
+- 场馆: 8world
+- 时间: 2026-11-01 23:36
+- 链接: <https://news.google.com/rss/articles/CBMinwFBVV95cUxOMWRSbmN4T1J2QnNUVXJoSGo2QVo2cDNoN2hPT2ZzMHdUS3hWZEY0M21hWkQtMmVmMlQzYkRYVjc0bkFBYUVEa25pZ0lKeUUwZzgwV3JjZHFUWGhXWXFpMFJLbjFzSXpadHFXREtsNzdMME1fUFZ2Qjl4VFcxZ3dEal95VXNxaUJlMmpBWlJFcXpOc3hkNnBfZlk1RWV5YU0?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-11-02 00:56  (7 条)
+
+- **特朗普** | 特朗普押注MAGA基本盘 为共和党中期选举最后冲刺 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWDFwRkM0ZmU4LS05cmczMlQ1UXJnRWowaUpMREtUTDFzdHl6eGlrd3JnZy1JMFAzZGdUQ0pxWldwUzJ1Rjh1YzVJczVPdUtuUG5CcHlqTHV2X2ltcE84MnVhdWxxckdoYWdOdTZRYnBjbmY0bmZCWG1PcGtsZjUxSmFCckRtRG5aNjFmdXZ6a0xuUWZSLTBtUmlhaUlUaFhNc0JlY083ZERsNzFqRElydjN1cnZXQlM1RmpEbkEyd2w5am9LbmktaG50Q3YtbWVmZ2V6WXJKZHpDWmo0N3Jn?oc=5>
+- **特朗普** | 特朗普政府要“抢选票”？加州州长警告 <https://news.google.com/rss/articles/CBMic0FVX3lxTE9qZUxQV1hqamNydDBHbVZsblpnN0NPai0yMldYTjFBVDNvY18yd3cwbTZ3MjhfdkN2VkZzOGNyWUQ5ZWJicHdzbnhFOWNWYkJOazZ5SlUybm9qTlpLOHdUQkRCeFJNbGhsYmhGa1FBdENLU28?oc=5>
+- **特朗普** | 期中“烤”｜“拒绝数据中心会输给中国”？美国社区挑战特朗普AI雄心 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RSllldjU2Q3lsd1B0NDkxaTZyWTE3Y2FZZDRCLXl5WEhvREdSQXFDNzQzSnI2b0NIZWp5bG1Qc2RqU25WaHRiQWR0a2J2bGJBTkNOcFBXY2ZVRm1qSkNVUw?oc=5>
+- **特朗普** | 特朗普称不打算见小博索纳罗 <https://news.google.com/rss/articles/CBMidEFVX3lxTE5mYm9QUTN4Q3ZIeGV4TV84Tkx0YVk2MjhTRGJ2b19CdUtmVlJZZXFpeHFYV19aY3RmOWdONnVYUDJYQkJfc3RFVnByNUpqS0NEczd5c0xid2xpb0Ffc2h3bkNWZWhwS01tM3AzbEhBUDVNNTlo?oc=5>
+- **特朗普** | 特朗普和卡尼会谈后表示美加贸易协议接近达成-36氪 <https://news.google.com/rss/articles/CBMiWEFVX3lxTE5DVW5MMDFFQWdCSkJzZmhiMnFTcW81Mm5mUnpCTHJZQW9WNmxFcjFJYjZqU0pyOGpYUE5ISnhTY05NS1o2Yjk1VlR1WkVxXzhXTE92V25vZnM?oc=5>
+- **特朗普** | 特朗普称不希望以总理干扰美伊谈判 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9tRjlJbHRhbXhISGJpeGNRRDhxVEhTYkJfVkdNVFNUcFdZT3dVTTE4R29KUEhFVC1Tclk2dEZhNWNSdWktYkU3M2dqWUFzQVF5TmMtS1c1eHZkZXRpWW1ibzBxakQ?oc=5>
+- **Trump** | 特朗普同内坦亚胡通话 讨论伊朗问题 <https://news.google.com/rss/articles/CBMinwFBVV95cUxOMWRSbmN4T1J2QnNUVXJoSGo2QVo2cDNoN2hPT2ZzMHdUS3hWZEY0M21hWkQtMmVmMlQzYkRYVjc0bkFBYUVEa25pZ0lKeUUwZzgwV3JjZHFUWGhXWXFpMFJLbjFzSXpadHFXREtsNzdMME1fUFZ2Qjl4VFcxZ3dEal95VXNxaUJlMmpBWlJFcXpOc3hkNnBfZlk1RWV5YU0?oc=5>
 
 ### 2026-11-01 21:03  (10 条)
 
