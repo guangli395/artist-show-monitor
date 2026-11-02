@@ -1,72 +1,116 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-11-02 00:56**
-- 本轮扫到 15203 条, 新增 **7** 条
+- 最近更新: **2026-11-02 07:10**
+- 本轮扫到 15214 条, 新增 **11** 条
 
 ---
 
-## 本轮新发现 (7 条)
+## 本轮新发现 (11 条)
 
-### 特朗普押注MAGA基本盘 为共和党中期选举最后冲刺
+### 蔡徐坤近年来的音乐创作和巡演计划有哪些新动态？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-11-01 18:19
-- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWDFwRkM0ZmU4LS05cmczMlQ1UXJnRWowaUpMREtUTDFzdHl6eGlrd3JnZy1JMFAzZGdUQ0pxWldwUzJ1Rjh1YzVJczVPdUtuUG5CcHlqTHV2X2ltcE84MnVhdWxxckdoYWdOdTZRYnBjbmY0bmZCWG1PcGtsZjUxSmFCckRtRG5aNjFmdXZ6a0xuUWZSLTBtUmlhaUlUaFhNc0JlY083ZERsNzFqRElydjN1cnZXQlM1RmpEbkEyd2w5am9LbmktaG50Q3YtbWVmZ2V6WXJKZHpDWmo0N3Jn?oc=5>
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068018oqu.html>
 
-### 特朗普政府要“抢选票”？加州州长警告
+### 如果民主党赢得中期选举，特朗普准备绕开国会
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 观察者网
-- 时间: 2026-11-01 06:43
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE9qZUxQV1hqamNydDBHbVZsblpnN0NPai0yMldYTjFBVDNvY18yd3cwbTZ3MjhfdkN2VkZzOGNyWUQ5ZWJicHdzbnhFOWNWYkJOazZ5SlUybm9qTlpLOHdUQkRCeFJNbGhsYmhGa1FBdENLU28?oc=5>
+- 时间: 2026-11-02 02:17
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1zczg2bzVVU3hPZnlFR1NJbzVfOGRxb2puZUhQY21BSzV4MTdkT0xZS3ZyUkpyeERka0pWamJoWXg3S09PS1hCUk5xckZER1JUdmtfcC1jZnBzUnNpcmVHUzlLMldNZVpSRUtTNVNlX1BRb1U?oc=5>
 
-### 期中“烤”｜“拒绝数据中心会输给中国”？美国社区挑战特朗普AI雄心
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: ThePaper.cn
-- 时间: 2026-11-01 23:15
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RSllldjU2Q3lsd1B0NDkxaTZyWTE3Y2FZZDRCLXl5WEhvREdSQXFDNzQzSnI2b0NIZWp5bG1Qc2RqU25WaHRiQWR0a2J2bGJBTkNOcFBXY2ZVRm1qSkNVUw?oc=5>
-
-### 特朗普称不打算见小博索纳罗
+### 特朗普中期选举前法庭四连败：起诉《华尔街日报》遭永久驳回，司法部干预两州选举也被拒
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-11-01 01:23
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE5mYm9QUTN4Q3ZIeGV4TV84Tkx0YVk2MjhTRGJ2b19CdUtmVlJZZXFpeHFYV19aY3RmOWdONnVYUDJYQkJfc3RFVnByNUpqS0NEczd5c0xid2xpb0Ffc2h3bkNWZWhwS01tM3AzbEhBUDVNNTlo?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-11-02 01:20
+- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTFBxQ3Y3eklLU1VXcVRjV1pRV0FiSTFRakRnN2FPeW82R2NRRWFaaTVBWVpfZTBCY0F4YXdVeENhQXp0N1dIWVVtcE8weFV5TGRtZUE?oc=5>
 
-### 特朗普和卡尼会谈后表示美加贸易协议接近达成-36氪
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 36kr.com
-- 时间: 2026-11-02 00:03
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE5DVW5MMDFFQWdCSkJzZmhiMnFTcW81Mm5mUnpCTHJZQW9WNmxFcjFJYjZqU0pyOGpYUE5ISnhTY05NS1o2Yjk1VlR1WkVxXzhXTE92V25vZnM?oc=5>
-
-### 特朗普称不希望以总理干扰美伊谈判
+### 美国中期选举进入“最后冲刺”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-11-01 23:34
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9tRjlJbHRhbXhISGJpeGNRRDhxVEhTYkJfVkdNVFNUcFdZT3dVTTE4R29KUEhFVC1Tclk2dEZhNWNSdWktYkU3M2dqWUFzQVF5TmMtS1c1eHZkZXRpWW1ibzBxakQ?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-11-02 06:22
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE45Z0ZST1dmeUxzSnp5MmhON1IycktUSW1TRmxZWWNEakE3UzYxVnJOLXZsaG9TOXZfSnpjWFFDOG9MLWxtU1p1dGhZc291LUwxdzRZVGVBN0loalRTcS1LdDVfeXZjY0Q2bE53OWY3OU1wZw?oc=5>
 
-### 特朗普同内坦亚胡通话 讨论伊朗问题
+### 特朗普说美国从来没这么好过 信心满满迎中期选举
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-11-02 06:07
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE4wVllsOGNmU1QyVTJPX3ZFdWhfRlM1TUk5bXBTNVdMSlJJcjVlSjU2djB6OFFxXy04SDR5a2pkeTBnNUxVdHJieVh1RTNtakM0VEFFSUJHSk1ZUkxJdUNUMVFTelZiRDZ5MWRLejB0ZWU?oc=5>
+
+### 特朗普称在“某个时点”将对伊朗“施以重锤”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-11-02 05:14
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE94ZmwtbjgwM3BpOXExOFFLQ0tXcHR6UnozSGxXaVRJWkZ4eUp5WnVqYTdHSmhnZU8xbTh4YkVWRFp1OUo2ZldzRWV2a2s?oc=5>
+
+### 与前两次打击前夕类似！特朗普“打谈并举”，海湾国家“忧虑重重”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街见闻
+- 时间: 2026-11-02 00:34
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xakRoNjd6NWtydmJhNkljWU1hcnF0dVdab0Q5UjdNckNkRVlDb3MxUDh4LXA3a29vOV9hc2wtbkc1UEwwVnNiUUhuMEF3OUtKNktv?oc=5>
+
+### 美加贸易谈判现转机，特朗普称协议已有雏形-市场参考
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 金十数据
+- 时间: 2026-11-02 06:42
+- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE1WdDRvQVphZVZtMEdPem5SeDR5eloxUEUyQmFSY1NwaDViNGFpdVYzMXhlZldfU3h5ejlMU3MzREJUMnRyUkd2eHFLT3QwalE?oc=5>
+
+### 对特朗普安全担忧加剧，美军在海湖庄园附近部署防空系统
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 腾讯新闻
+- 时间: 2026-10-31 19:40
+- 链接: <https://news.google.com/rss/articles/CBMiVkFVX3lxTE9SbHFKR0FRc3lncDBJSnBCdU1iN0p5SWtISDEtVDRhV3hBMmVhUm1YQkV6QV9zbFh4bm5NZHI5Q05QY21Pd2EyVVlFcEpHTXVqN1ZhbnBR?oc=5>
+
+### 外媒：特朗普与内塔尼亚胡就美伊谈判进行通话
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中国新闻网
+- 时间: 2026-11-01 23:04
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5mQm1BLUxxWmpidnA3MVdCekRRRUVpS2RoRnYyalBhU0pfN1ZIS0pOTHFUTFo5Q3E2RXhQeVR6NTJRWFBuc1kwQmVQYWtnZC01TTdwS3JjTUtranpCSkx5SmN1WE05Z3h5?oc=5>
+
+### 被特朗普讽“粪坑国家” 挪威幽默拿厕所宣传旅游
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: 8world
-- 时间: 2026-11-01 23:36
-- 链接: <https://news.google.com/rss/articles/CBMinwFBVV95cUxOMWRSbmN4T1J2QnNUVXJoSGo2QVo2cDNoN2hPT2ZzMHdUS3hWZEY0M21hWkQtMmVmMlQzYkRYVjc0bkFBYUVEa25pZ0lKeUUwZzgwV3JjZHFUWGhXWXFpMFJLbjFzSXpadHFXREtsNzdMME1fUFZ2Qjl4VFcxZ3dEal95VXNxaUJlMmpBWlJFcXpOc3hkNnBfZlk1RWV5YU0?oc=5>
+- 时间: 2026-11-02 04:05
+- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxPdTRqN1daVUJycVUybEN6bWlzNGhJVF9MWS1XOVZBTk9fdzF5ME43bEFiS2JZLWtRLUdzOWlQaWp5MURkVkR1TnN0U3ZzT0duOVVmZldHVndvR0tqWXMzOHl4Nkx2VEktX19LS3B5d3A3S3dIZnhDMVdxdV9zaEVKeWtHWUlIU0ZRaDVacGxEZm04Rk1j?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-11-02 07:10  (11 条)
+
+- **蔡徐坤** | 蔡徐坤近年来的音乐创作和巡演计划有哪些新动态？ <https://k.sina.com.cn/article_7879776356_1d5abd864068018oqu.html>
+- **特朗普** | 如果民主党赢得中期选举，特朗普准备绕开国会 <https://news.google.com/rss/articles/CBMic0FVX3lxTE1zczg2bzVVU3hPZnlFR1NJbzVfOGRxb2puZUhQY21BSzV4MTdkT0xZS3ZyUkpyeERka0pWamJoWXg3S09PS1hCUk5xckZER1JUdmtfcC1jZnBzUnNpcmVHUzlLMldNZVpSRUtTNVNlX1BRb1U?oc=5>
+- **特朗普** | 特朗普中期选举前法庭四连败：起诉《华尔街日报》遭永久驳回，司法部干预两州选举也被拒 <https://news.google.com/rss/articles/CBMiUkFVX3lxTFBxQ3Y3eklLU1VXcVRjV1pRV0FiSTFRakRnN2FPeW82R2NRRWFaaTVBWVpfZTBCY0F4YXdVeENhQXp0N1dIWVVtcE8weFV5TGRtZUE?oc=5>
+- **特朗普** | 美国中期选举进入“最后冲刺” <https://news.google.com/rss/articles/CBMickFVX3lxTE45Z0ZST1dmeUxzSnp5MmhON1IycktUSW1TRmxZWWNEakE3UzYxVnJOLXZsaG9TOXZfSnpjWFFDOG9MLWxtU1p1dGhZc291LUwxdzRZVGVBN0loalRTcS1LdDVfeXZjY0Q2bE53OWY3OU1wZw?oc=5>
+- **特朗普** | 特朗普说美国从来没这么好过 信心满满迎中期选举 <https://news.google.com/rss/articles/CBMicEFVX3lxTE4wVllsOGNmU1QyVTJPX3ZFdWhfRlM1TUk5bXBTNVdMSlJJcjVlSjU2djB6OFFxXy04SDR5a2pkeTBnNUxVdHJieVh1RTNtakM0VEFFSUJHSk1ZUkxJdUNUMVFTelZiRDZ5MWRLejB0ZWU?oc=5>
+- **特朗普** | 特朗普称在“某个时点”将对伊朗“施以重锤” <https://news.google.com/rss/articles/CBMiTEFVX3lxTE94ZmwtbjgwM3BpOXExOFFLQ0tXcHR6UnozSGxXaVRJWkZ4eUp5WnVqYTdHSmhnZU8xbTh4YkVWRFp1OUo2ZldzRWV2a2s?oc=5>
+- **特朗普** | 与前两次打击前夕类似！特朗普“打谈并举”，海湾国家“忧虑重重” <https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xakRoNjd6NWtydmJhNkljWU1hcnF0dVdab0Q5UjdNckNkRVlDb3MxUDh4LXA3a29vOV9hc2wtbkc1UEwwVnNiUUhuMEF3OUtKNktv?oc=5>
+- **特朗普** | 美加贸易谈判现转机，特朗普称协议已有雏形-市场参考 <https://news.google.com/rss/articles/CBMiT0FVX3lxTE1WdDRvQVphZVZtMEdPem5SeDR5eloxUEUyQmFSY1NwaDViNGFpdVYzMXhlZldfU3h5ejlMU3MzREJUMnRyUkd2eHFLT3QwalE?oc=5>
+- **特朗普** | 对特朗普安全担忧加剧，美军在海湖庄园附近部署防空系统 <https://news.google.com/rss/articles/CBMiVkFVX3lxTE9SbHFKR0FRc3lncDBJSnBCdU1iN0p5SWtISDEtVDRhV3hBMmVhUm1YQkV6QV9zbFh4bm5NZHI5Q05QY21Pd2EyVVlFcEpHTXVqN1ZhbnBR?oc=5>
+- **特朗普** | 外媒：特朗普与内塔尼亚胡就美伊谈判进行通话 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5mQm1BLUxxWmpidnA3MVdCekRRRUVpS2RoRnYyalBhU0pfN1ZIS0pOTHFUTFo5Q3E2RXhQeVR6NTJRWFBuc1kwQmVQYWtnZC01TTdwS3JjTUtranpCSkx5SmN1WE05Z3h5?oc=5>
+- **Trump** | 被特朗普讽“粪坑国家” 挪威幽默拿厕所宣传旅游 <https://news.google.com/rss/articles/CBMilAFBVV95cUxPdTRqN1daVUJycVUybEN6bWlzNGhJVF9MWS1XOVZBTk9fdzF5ME43bEFiS2JZLWtRLUdzOWlQaWp5MURkVkR1TnN0U3ZzT0duOVVmZldHVndvR0tqWXMzOHl4Nkx2VEktX19LS3B5d3A3S3dIZnhDMVdxdV9zaEVKeWtHWUlIU0ZRaDVacGxEZm04Rk1j?oc=5>
 
 ### 2026-11-02 00:56  (7 条)
 
