@@ -1,172 +1,203 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-11-02 23:57**
-- 本轮扫到 15258 条, 新增 **20** 条
+- 最近更新: **2026-11-03 05:35**
+- 本轮扫到 15280 条, 新增 **22** 条
 
 ---
 
-## 本轮新发现 (20 条)
+## 本轮新发现 (22 条)
 
-### 蔡徐坤在新加坡演唱会上的舞台表现如何？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068018r86.html>
-
-### 蔡徐坤音乐巡演与时尚动态有哪些最新进展？
+### 蔡徐坤出席W盛典，巡演香港站今日开售
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923107_1d5ae15a306804465u.html>
+- 链接: <https://k.sina.com.cn/article_1921868697_m728d639903301n7zi.html>
 
-### 失言、发怒、关注“屁股”：特朗普的言论变得更粗俗
+### 蔡徐坤亮相W盛典 香港巡演同步开票
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-11-01 17:16
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5KNHU3OUZDV2NNeXVwYXlKVEJydFlQVWhsOFlKSXQ2aS1xYXdDakVnSXBzSkZ4VktfU19Eb1N2T3gtQ1N3UzJFVTFaTnQ1OGktQWJzMnFOOUVrTldWYXNFdkNNQVQtM3VBcXdrVjdBamk?oc=5>
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1922407515_m72959c5b03301oj5g.html>
 
-### 美国总统特朗普被无国界记者组织放进了“新闻自由掠夺者”的行列之中
+### 蔡徐坤W盛典采访上线 造型为香港演唱会准备
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-11-02 22:38
-- 链接: <https://news.google.com/rss/articles/CBMiygNBVV95cUxNRzc0Q29pZ0gyT0JTMUxVMUlHNkM5RFQzMS0xZmdQbGcxNUZ6b1lJTHdIckJLMy1TNkJkLUtHLVBhaGpSdTZVRXJZZ0p5VXZQM3lwYnMxdVlmSTl1eTBBQVdVVFpJaXZBd1NQVG9jOXhsNkNVb3VHMnBPcXQydFdvVF85NEx2RjljRGtidFVuTk4yWnFaVEkzTzk4T3g2b2V1T3V1S1RZUUpMdl9KdVRFelFFMWhFSEJWZ2N5MzFMQzZFaVFENjVlX2RxbUJlei1vanBHSXZpSHR5eEFkSDRNcW9uOUw3UzU2a25TVDRmWGtwVFE0NHA4LUgyWHZVb3pOT2pWWGFvUkV2WDJ1ZU83R1ZPWnJaYlJ4RFQ3VnVZUWpTaVhxNllja0ZYTEY4YTRjYkRpUDlPNVNNTktHZVNWZmhaeHRnMGNoYm1BRWdtdDlaclZBZ2wwSjNtSm9GNk5DY0gybi1TTlVDaUtROW5GQzZ4RE4zTWdHTmVuRWJVbVpfclRXZmZsclRBb2lMV0tJR1RIczNFd2UtSFBmeHAycU1kY2wxckNFclVtZkp2YTl3RlRtVHk2RTZfRm85XzU1bTBLa3FqU3lxZw?oc=5>
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_2323589097_m8a7f27e903302egok.html>
 
-### 美国最高法院拒绝叫停加州清点相关选票。特朗普政府指控这批选票的投票人大概率为非公民。
+### 哦某？这里的红毯没看过 新视角 蔡徐坤说这套look本来是香港演唱会的 cxk
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7785470890_m1d00cdbaa03301yltg.html>
+
+### 蔡徐坤新加坡演唱会的舞台表现获得了哪些评价？
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801osek.html>
+
+### 蔡徐坤香港演唱会妈妈团应援 扭扭棒蓝玫瑰制作教程发布
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7810739724_m1d18e6e0c03302zqfq.html>
+
+### 哥本哈根海鲜市场大快朵颐，夕阳洒欧式建筑宛如周杰伦MV
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7785323778_m1d00a9d0203302u2wu.html>
+
+### 美国法官阻止特朗普政府要求各州搁置涉嫌非公民的选票。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪网
-- 时间: 2026-11-02 22:47
-- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE8yS2FjSHJBUGczd2p2ZFJ5SGtxRG1vSkhnZ3g5cWJ3bEh3SVJXa2YtM3E2SXYtZi15ak1xcExHYWJWUDVJWXVRazVOYUJQZGM?oc=5>
+- 时间: 2026-11-03 04:08
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBkTEVjRXNmUXd4c3JaX0dLRVBldlRHV2V3Zm9pNXFlYUtlanI3aDRBd2NTYkJHenBJcnZFdXNnMnROemNnZ2hvSkVydw?oc=5>
 
-### 特朗普：“不急于”决定是否重启对伊朗的战事
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 央视网
-- 时间: 2026-11-02 22:21
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE96WGo0QkV6di1KQmdVdDNReXF1ZHhud0JxeDRaZl83Z0ZVTmh6eHlYQ1FMOFJIWC1vOVIzNDZFaTNrM0ptUkxLVmFXZ0ZWaTA4cVh1WjJPZ2VvZ0IxdjREaUFQd2lRVHdEemw0c3h4MTRwLUlHUDFPUA?oc=5>
-
-### 中期选举前特朗普发表演讲动员共和党人抵御民主党， 但讲得东拉西扯
+### 特朗普说他会保护马斯克以及其他幕僚
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-11-02 22:22
-- 链接: <https://news.google.com/rss/articles/CBMi1ANBVV95cUxORG5Gby0zZGFuUXBwa0JaYVJOeHYzc204dlJyTG5HVXh5YXdSN0xoZ25NdjFKendLUHRmNURMZExKbklQTnNoel9XRzh3b25nVmIyYVRvalcxSlRHTm05eGRGdkJFLTZEOFlKREJmVVlRdDhZVWdqUVgyNjVuRXMzNlA5Wk5Rc1hCQW9kVGVxTTFtOXpoZGVFeW9ObXYxb2Y4NU45RWRZdE9rRFk1SWtiNlozZkxVeGVKYl9qNWVHdjhnY0k3ZjZxT18zUHVZMTQxeUlCemVkeGo5ZXgzMzktZnh0UnVENlU1QlZmOFFrMUxaZWJJV2dSb3c4aGpNQjZ3aTZLYTNRV0lpN09HYlpXaWhZeVo3YUZGQXAtbHZDSUdmUXJtSGxjSElhUzZta1lJNjktSVVDY091UmpVc2pGN3F2MVVaMjdIMk45bUJPMHI1dVpiOWhxeHVtUXpoSy1mTVI2VmhkRzhCckR3TTNOcXFzcmZYb21pVlVTVVVIM1N4MnUzR2YyUkJDczVTcGFhOEN2dmRSalprcmJxaXJQSno0UDBSalRPRGZEWF9QMzhaSDNRVVpmbWhqVGlPZ1Jxbm1kem5mblFHYm95bDdpbzNSTUU?oc=5>
+- 场馆: 手机新浪网
+- 时间: 2026-11-03 05:33
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5UMHBzd0J3VzRHU3dxZmxTSVMxVmNwcUJVaWxWdk53YTl6NW9PclllOVBfbnoxTnJ0OFdVdHdwN2lZZzRvb1BoTGRKX3djSXhNczgyNnU2QTJpVF9fYzZBM1U1SURZU2ZQaWZfaklYM0pvaUE?oc=5>
 
-### 卡尼与特朗普讨论双边贸易协议框架
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 环球网
-- 时间: 2026-11-02 06:55
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE8wbUZJb1h1ZVQ1dmQxZUhuYlFLYjcyZW95NGNFSTZoc2MwOFhwcmlmak5SaXdmOTQ3Z3hlWXFDU0tpMHUtd3VxaW9EYkR1TzFPVnRMSXY4R1g?oc=5>
-
-### 11月2日周末要闻：特朗普不希望以总理干扰美伊谈判油价下跌泽连斯基提议在土耳其与普京会晤
+### 特朗普谈中期选举：如果我们输了，美国就完了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-11-01 22:36
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxQMFdPSlNZdWtwQWNON3BWcFFhZDIzN2kyOWNjQU9ZR3ZDWUpKOTlhSzV4aWZYck93QmMyazJGM0dIY3dZaDRnQzd1alpaWDZyWTZJSlFDRFZaSDZMUTlyR0xLaEVnZzN1Z1VSRmNRSFE1dmJndklldGVjRUFWVDZLbjhYZUNIN0E?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-11-03 03:47
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBEb3ZoUHZGZGFnNlFvOFZVbFB4XzdkT0xyU0g0RENRanZYZUx4NEYyVnYxQmRocW5kNDdqODVOZ2hHN21QTjdnOG5YcWY?oc=5>
 
-### 特朗普中期选举“最后陈述”跑题？开场20多分钟聚焦倒影池
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-11-02 22:27
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ3Y1aU1CbTdocEtGVXFNcXVhRjM3c0RCNm9kSnlEbEQwSGFWdFFDeDY4X2g4QTZtZzlaaDlnNXBrbE56RDRKMGRNeU1QQkE1QnpxZXVWOENRSWhSZzk4Z2ZnRE14cTcxZklfbERORkVaYVBydy1HX1JBV08welMwdHljbllsUnNnQ0Q1Tw?oc=5>
-
-### 特朗普与死神再擦肩，巧合还是阴谋？美军一个动作，暴露太多秘密
+### 特朗普政府迎来期中考试 权力格局或将重塑
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 腾讯新闻
-- 时间: 2026-11-02 11:35
-- 链接: <https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QRGJEWXJBWjY0Z2xhRXNUXzJEeTgzQ3Y0WVhDY2NOWE5TaUEyUDFnam10U1NPNHhjNVk1aDdVb08tdzRmWmE4UkN0elJFN3dnOHZPNm93?oc=5>
+- 场馆: 中华网
+- 时间: 2026-11-03 03:27
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5Fd3lycVk1UnR1QjdvSVNoQkZjMXFweGY5WjVwbGQycDNXS0hWb3I5cXAzUlpDM1NqZVVUaGcza01rNTBFVzZLc2wzM1FMLXF3NUNNYlY0OG45LXJnYUstS2J4TTdsd1FjaG9SdnBqYTc?oc=5>
 
-### 特朗普称会赦免马斯克，以避免民主党选举获胜后展开调查
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-11-02 18:14
-- 链接: <https://news.google.com/rss/articles/CBMilwNBVV95cUxQMHBVSF9scFhVdXZsWFRlandKM2tUOXNVV0o5S2NMVWdSSXdrSzhzcFFpRTVZQVo2bFVUUkl2SzZuMEhGMWxXQ19MVzVNaDZOd1ZpSEQxSHhqeVN6ZnNaX3g0WGpXT0d2dzV4UUhxcHFJWFA4ZnlWdS1IanZQQ3NkRzFKMHFMWjk4N2IyV2tYVndIREtOUjBHVm5IT1ViRzVUWEdwSzdYdDhxOW9MU2NGbDB4aXhVNVg4amJiUjZGOUZCZ2w4TkJVZTJzQTdjUW5VdmdPUjgyWWlMQ0JTdW9HOGZmZFl0a1VWeTNkUm1WT3JabktDWjdvSTNfa1BNNnNGdzdtNnhqOVY4MjdCblJXQ3ZJNXpnX0p4ekkyZVhTbWFmWEx2M09OYm5OYXdJdjVHQ2hOTnFoZEhnb2NoNmRGTTNoX0V6YVRaeC1OQWVFY09nOTNGSFp6ZHFEblp4WHN6MEs5X2xmdnVEZEFIaG1hUlF4TDlRMlMybG9WbzZaOERmcFVVVlk0dzFEMW5LX0d0SlN2V0JDZw?oc=5>
-
-### 特朗普：“不急于”决定是否重启对伊朗的战事
+### 草皮、管道和倒影池：不谈通胀，特朗普选前收官演讲成了“装修报告”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-11-02 21:50
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFRnd2S3MwUjFSanFPOGlzWmFuRDZibEQ4V3kyb1k1SXh3S3hDMkZjQWdiYV9ERk1vOHRxY2xwX29vdV9nRVpiUUctX1l0SDRlSE1JTWU0MkJVUHlFZW1uMQ?oc=5>
+- 场馆: ThePaper.cn
+- 时间: 2026-11-03 03:26
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5b1JFa0JUaDdVNjFNSVhHbjRTc0FOek4yNkdua2U3ckdLS0tOZG9VZHNzbjJGWDZuX2pDa0Q3RURxXzEtRC1kQndZWlIwT0hlYk9PS1Jnb1R5VWM1bk03UQ?oc=5>
 
-### 特朗普：美伊正在对话，“不急于”决定是否重启对伊战事
+### 对阵特朗普，哈佛“赢”了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者网
+- 时间: 2026-11-03 00:07
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFB0aGFQQW5rQXJSbnJkbmw5bXVnaTBVYXktNHFnSm1tRWp4bDNuZ1FuenVJS3RBNzdFc3JwUG5FOEM3ZnhBTUY3Y05SSUh2TTlBdHRTZmlHU3haY2lKa2p2amw1NjBGWHV5UXNycnFpb0QwOGc?oc=5>
+
+### 特朗普还在挣扎，最高法院迅速回击
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-11-03 01:09
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5sTGVlbTJLM3lndmhKd3MzSWRtbjJUU0RZT1RGblBLQWZlRDdCeTZIUDluNDNZSXBER2U1a0x6N3VoVEw2ZTEyRHQ3TWQ?oc=5>
+
+### 特朗普的一个梦想，“正悄然破灭”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-11-02 07:18
+- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMmZFc2J4Nkt3UGt6Y0NGQ28yUEI0SThZVmlDeE1mRl9BcVR5TWJma3dPajYwZUl5Q1J3VjNQVUFaRGtlb0F0Z1FvSmdFOFJMYWw3aVVXQll0TVE2eUZVeTJrUWJYSWJ1YWNJRFJzdi0wLU9mVVVlU2wxc2RxOVNFSTZHc1ByWEMwZzhDekUtdjJKR1gzYTFGaU1HTzMyOExXckc3UW1ZY0pFQQ?oc=5>
+
+### 特朗普发表讲话 为中期选举造势“收官”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 中国新闻网
-- 时间: 2026-11-02 22:53
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZQTd1ZzItUERJNzVjblZkbE1oTjdiR2ZtSDNYX3FZNFZid2xlM1pDMzh4SVBQQ2poUU1PSVRibFFwM09hc1YtX2QzbEE3TElQNTJJUjVSb1ZlYzd1MXNQa3dqLVMyNHA1?oc=5>
+- 时间: 2026-11-03 05:07
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5GUEh5d1EtUTJOMHNab3lYRldydXVhb3lSeEhEc3Y4RzR2eVdyY3hvXzVCM3EwVHJPN3JmVUxQR1NOMVdvTEVYVzlRUEZIVWlnUUR5TktGUmVTSHFjN1hvcl9oVVhNdlBy?oc=5>
 
-### 中期选举前夕，美国伊朗陷入外交僵局
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-11-02 18:50
-- 链接: <https://news.google.com/rss/articles/CBMinwFBVV95cUxQMTRBakptOWtuN1ozaWVFWkRQRElGVjZremtWRlYxWFB4YTlLZ2s4bUhsazhzSGJVbjZCREVVRlRlUUlPcURnZG1kTUlEbEpfbkRtbnh3YmROOEptbWNNajg2TGRHTVZVMlljMnNGT0hEV0xEcEh5ZU44bm5xTUJ2NnVqbktJd3ZraWJmNkR4SHdDMDhYUHdsTmYyNjBPd2vSAaIBQVVfeXFMTWVOS2lZOFg4X29qQWpDVDNBV3duR3BXZE12Zk8yVDV6ZW1TMTZ2YXp4RVBHMy04LTVOREZYTWYtTV9zY2JfN1Z1MHBCX2VoRklCalYwNmttZU40TUZKazdHcW1CdzhKSWdlSTNGczUwTmJ6eHdIM3g4aTJPNS1pbWo3LXhOQ2dnOHV1RGNoUUJ3VVA5T1BlaU9ZdmVmOHNmZHJR?oc=5>
-
-### Trump Touches on Familiar Political Themes in Midterms-Eve Speech
+### $SK海力士 (SKHY.US)$ 感谢支持trump
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: Moomoo
-- 时间: 2026-11-02 20:56
-- 链接: <https://news.google.com/rss/articles/CBMitAFBVV95cUxQemw1SVBQSFFlZWlmUFNDUW1udjJCdlJlU3dGa0RTcS15TUIxeGNmU0VIRXBYSUFpM0VaZ2t3U25OSTZoNG1zQmk3NkE0WXN1LW9nOGpJZnFJVTEyX3lVWHBuUXRweVkwUWRucU5vOU52ZHh4aERHX01HZUw5VjljSFlybHl1cGMyNTluLXJQeURSZW4tMjNQeXQxTnpUaE4tU2QzdGhBdnN0c0JoZ215S2R5Qk0?oc=5>
+- 时间: 2026-11-03 00:31
+- 链接: <https://news.google.com/rss/articles/CBMipgFBVV95cUxQSkdpNHVWZWEydWNEYUhzSzZQeDVkWUE0Z1Y4QUZCalpQeHVHMVdFRkVBcHVjVHZGdF9kaGdXbkJxd2x1SFlILTNtbGM4clZOUjVxcGxpSlh2Y0w2M25HS2MxeXgyUXJiblhoSHQxbURzQjVJZ3M2UC02UWNxUnNKdjVPQ1NCcmtUWHEzWWV4dEtYM2xJTTdUSlhkSXlDVWFQNDZjb3Rn?oc=5>
 
-### 特朗普选举前夕谈倒影池，令共和党人感到意外
+### 与特朗普家族有关联的矿业企业拟通过一项20亿美元交易上市
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: 华尔街日报中文网
-- 时间: 2026-11-02 23:19
-- 链接: <https://news.google.com/rss/articles/CBMisAFBVV95cUxQVGFHVUowV3VBd3hrZVhjWUozZVUwLVFkRlBjWWdzYjVhc2tnelh1RmZfUGZLWXRXMGlWOVRzd0ltblA0aXR2aGJDOGdBWG5lZmg5ZVpkMlBvOXRkalN4NWdCTkVxek5ybC1Uem14S0dEVGFDdW13ZWNVVUF1Ny1CSVl3N2NnZTFXR3F5d3c3Ri05UEd0ZTdIZWtqM2VEUXp1clNLRm9xTGFkX0xXQ1hSQw?oc=5>
+- 时间: 2026-11-03 00:30
+- 链接: <https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVy0zdE5jRU9rUVBhcUFrVW43YV9NT2hIZWdvcG5MSW5GWk1zTy0yT0RKdGpTTm5NbTJNb0tiQy1ubTIyWWlYQ2M1Y0wzMllnMUFtNDd0LTNMQmJtVk1NcExPUXg2ZW4wa1V2MTVEQjM2UzVxX3hNM2tkR0ZsRFdBWXl0Y1NzVlJqaFkzU3dZaW1OdG1DdTA3d3dhUDRIa2ZZN2JsWkZMVllXVlk?oc=5>
 
-### 美国中期选举登场 特朗普支持率仍处低位
+### 美国中期选举2026：支持以色列如何成为争议焦点
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-11-02 23:08
-- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxNNUZLTm5sb3c1eE1JS1B6R0pxWkt2ZU4yNkZ6Q1FCeHRQaEkwSlplNl96UXRvdDVLWGtOdWpkVHlJMGhJT09aM2pFdDNFM0t2Tkd4VC1QWV9zZEo5WGRGRFF3clZoNjdfMFlELXZYaHl5RlNhX3BKNXpRZTJaOHJWcXlvb0prUEdSeDdidkNIZw?oc=5>
+- 场馆: BBC
+- 时间: 2026-11-02 16:23
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rTUtkWGRqQnltaFFIWGswN2dTVVRPQmdsSWVRYmZjZV9MRjJtNzhxMGlNcUVsMU9LSW5Mb0RRUVNqcGdqUVdFZjZka192VmJtS2ZQSWNHcWFfRjJ4SWVYVzNLZ0FpWXfSAWxBVV95cUxQeHFneDg1QnYyZXBYNHU2eWZHckFEMDQtOWF1ZUFsWm80Y3N6bzRKMnhzWS14OHBBNnJyQ3BlcDVDVE80azZHb2tkTVd2aWUwWGIwLWVDMU0zTmxaRldrQWtjdlZxSlcwd1hKNmo?oc=5>
 
-### 川普放话：民主党若调查马斯克 就提前特赦他
+### 万圣节:万斯精心扮成邓不利多 川普就扮成自己…
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: 文学城
-- 时间: 2026-11-02 21:17
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE44X1ZqTEUtb21EdDhDdE5HSU1SZDZNUjNrU1NfVFB5QnJOUmJ2YkRzRzZ4OG1yY3JvU2wya011N3k5ZVdoUjN0dGNqOWdtbmxlSjI0UmZGdTE4TjBYRXJVSU5BSzZGUFZW?oc=5>
+- 时间: 2026-11-03 00:08
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBJUmZKWnFtT2hpSDJxVFhyb2MtZDFzZW9XUVBsMUJkLW1PVlZvdW1FekJRQlgzYzluVnRRYTYtME5qdndLMGg5RVp2Wi1pWDVzRkFaaDZWRy0xZzZDa2d1SlFxMGlpYURf?oc=5>
 
-### 汽车制造商团体支持特朗普政府放宽燃油经济性标准——法院文件
+### 特朗普淡化战争风险之际，美国袭击伊朗格什姆岛
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-11-02 22:39
-- 链接: <https://news.google.com/rss/articles/CBMixgFBVV95cUxOSXFDQWZBZ1N5X3RiUjBVSG5GcDUzaXJ6RFYxZzdraUFzRkVwX1lxcEM4a1JVWHg5VmpEV1lLZ20xNVpMVG1NdHQyZVJGOWtKd1Zscm9qSUNySnFoeDMxWVEtZkdQQlJQQ2RTMDRxMGgzbUxnUDNnbU1WdXp5a2s0Ynd4Ny14d1cxODMzN1FtZTdNYlZRUEowWVlSMXdpV3ZyLWxjSkFBYUhYbTJlbEFwT0EzSi1PWUxTWnY5Vk13RW1tekhPX3c?oc=5>
+- 场馆: 华尔街日报中文网
+- 时间: 2026-11-03 01:18
+- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxOblFrR0pUTTdwNHNqa3hKNWQwVHJVWTk2V240aVRfMDV3M2FXUWstczFzbWRXTjMxTEREX3hGbFIzVlYyUkpNRU5XU2ZDSDhldUljeGc2MHh0MG5BMG9PcGM2eVkyRlhBdnZzaFdZclhnYzNjNnhpV0VxOXdpeGViZm5pdVo0aDduVUVjMGx6bXlFMDRNVWlWSTUtRXA?oc=5>
+
+### 燃油成本成为中期选战焦点 伊朗战争如何影响美国选民的最后抉择？
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-11-02 16:37
+- 链接: <https://news.google.com/rss/articles/CBMizAFBVV95cUxOT0R5alQwZENKRmVyRjBEMmpfaXB5clRyQWRIVWZOUWhmY2VJNVRWbm5Ca1Vkd3Y5Und3NzRVY3dFcEs2djFPMEk1Tmk2ZnlVODNzcHYydDNUaFRGdENxOFJseXNzTHNvNGdHd25pUkhpWUMtYjg2TWZ6RDJIdENVQk9OZG10T1JGb3d3ZFB0eG9ucUFYaFFfYzg4cmZ2d2h3NksyZlozakRkOGhIZXN4X2lrRHMxMkJKOU9xYVdwZzlwbXFmUHBuSHlKV23SAc8BQVVfeXFMUF9pZHJJa3hHaG16VTBBek1qVmtZY1BYeGQyek51czdkeVZEZDNaSXprRmlrQmdHbFdtSjNrdUVodUt3QTZxV3NLbEZNdXFLOFljb0dVUHZuSHJKSEtkUkxXcW44OC1wcHIzOWhEYXRlQmw1bjJObEk0OU1TVl92X0pzeW5ZdGhOb0lEMUQ1dHhoSDE2TEwwQmF3eUw5cEtJY2gwRWk1TkxiTlh3WmpOQjJwdHMzaFdCN1dJNU8yOUJTRkxOUkdpNkFmSVpIV21r?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-11-03 05:35  (22 条)
+
+- **蔡徐坤** | 蔡徐坤出席W盛典，巡演香港站今日开售 <https://k.sina.com.cn/article_1921868697_m728d639903301n7zi.html>
+- **蔡徐坤** | 蔡徐坤亮相W盛典 香港巡演同步开票 <https://k.sina.com.cn/article_1922407515_m72959c5b03301oj5g.html>
+- **蔡徐坤** | 蔡徐坤W盛典采访上线 造型为香港演唱会准备 <https://k.sina.com.cn/article_2323589097_m8a7f27e903302egok.html>
+- **蔡徐坤** | 哦某？这里的红毯没看过 新视角 蔡徐坤说这套look本来是香港演唱会的 cxk <https://k.sina.com.cn/article_7785470890_m1d00cdbaa03301yltg.html>
+- **蔡徐坤** | 蔡徐坤新加坡演唱会的舞台表现获得了哪些评价？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801osek.html>
+- **蔡徐坤** | 蔡徐坤香港演唱会妈妈团应援 扭扭棒蓝玫瑰制作教程发布 <https://k.sina.com.cn/article_7810739724_m1d18e6e0c03302zqfq.html>
+- **周杰伦** | 哥本哈根海鲜市场大快朵颐，夕阳洒欧式建筑宛如周杰伦MV <https://k.sina.com.cn/article_7785323778_m1d00a9d0203302u2wu.html>
+- **特朗普** | 美国法官阻止特朗普政府要求各州搁置涉嫌非公民的选票。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBkTEVjRXNmUXd4c3JaX0dLRVBldlRHV2V3Zm9pNXFlYUtlanI3aDRBd2NTYkJHenBJcnZFdXNnMnROemNnZ2hvSkVydw?oc=5>
+- **特朗普** | 特朗普说他会保护马斯克以及其他幕僚 <https://news.google.com/rss/articles/CBMic0FVX3lxTE5UMHBzd0J3VzRHU3dxZmxTSVMxVmNwcUJVaWxWdk53YTl6NW9PclllOVBfbnoxTnJ0OFdVdHdwN2lZZzRvb1BoTGRKX3djSXhNczgyNnU2QTJpVF9fYzZBM1U1SURZU2ZQaWZfaklYM0pvaUE?oc=5>
+- **特朗普** | 特朗普谈中期选举：如果我们输了，美国就完了 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBEb3ZoUHZGZGFnNlFvOFZVbFB4XzdkT0xyU0g0RENRanZYZUx4NEYyVnYxQmRocW5kNDdqODVOZ2hHN21QTjdnOG5YcWY?oc=5>
+- **特朗普** | 特朗普政府迎来期中考试 权力格局或将重塑 <https://news.google.com/rss/articles/CBMicEFVX3lxTE5Fd3lycVk1UnR1QjdvSVNoQkZjMXFweGY5WjVwbGQycDNXS0hWb3I5cXAzUlpDM1NqZVVUaGcza01rNTBFVzZLc2wzM1FMLXF3NUNNYlY0OG45LXJnYUstS2J4TTdsd1FjaG9SdnBqYTc?oc=5>
+- **特朗普** | 草皮、管道和倒影池：不谈通胀，特朗普选前收官演讲成了“装修报告” <https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5b1JFa0JUaDdVNjFNSVhHbjRTc0FOek4yNkdua2U3ckdLS0tOZG9VZHNzbjJGWDZuX2pDa0Q3RURxXzEtRC1kQndZWlIwT0hlYk9PS1Jnb1R5VWM1bk03UQ?oc=5>
+- **特朗普** | 对阵特朗普，哈佛“赢”了 <https://news.google.com/rss/articles/CBMic0FVX3lxTFB0aGFQQW5rQXJSbnJkbmw5bXVnaTBVYXktNHFnSm1tRWp4bDNuZ1FuenVJS3RBNzdFc3JwUG5FOEM3ZnhBTUY3Y05SSUh2TTlBdHRTZmlHU3haY2lKa2p2amw1NjBGWHV5UXNycnFpb0QwOGc?oc=5>
+- **特朗普** | 特朗普还在挣扎，最高法院迅速回击 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5sTGVlbTJLM3lndmhKd3MzSWRtbjJUU0RZT1RGblBLQWZlRDdCeTZIUDluNDNZSXBER2U1a0x6N3VoVEw2ZTEyRHQ3TWQ?oc=5>
+- **特朗普** | 特朗普的一个梦想，“正悄然破灭” <https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMmZFc2J4Nkt3UGt6Y0NGQ28yUEI0SThZVmlDeE1mRl9BcVR5TWJma3dPajYwZUl5Q1J3VjNQVUFaRGtlb0F0Z1FvSmdFOFJMYWw3aVVXQll0TVE2eUZVeTJrUWJYSWJ1YWNJRFJzdi0wLU9mVVVlU2wxc2RxOVNFSTZHc1ByWEMwZzhDekUtdjJKR1gzYTFGaU1HTzMyOExXckc3UW1ZY0pFQQ?oc=5>
+- **特朗普** | 特朗普发表讲话 为中期选举造势“收官” <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5GUEh5d1EtUTJOMHNab3lYRldydXVhb3lSeEhEc3Y4RzR2eVdyY3hvXzVCM3EwVHJPN3JmVUxQR1NOMVdvTEVYVzlRUEZIVWlnUUR5TktGUmVTSHFjN1hvcl9oVVhNdlBy?oc=5>
+- **Trump** | $SK海力士 (SKHY.US)$ 感谢支持trump <https://news.google.com/rss/articles/CBMipgFBVV95cUxQSkdpNHVWZWEydWNEYUhzSzZQeDVkWUE0Z1Y4QUZCalpQeHVHMVdFRkVBcHVjVHZGdF9kaGdXbkJxd2x1SFlILTNtbGM4clZOUjVxcGxpSlh2Y0w2M25HS2MxeXgyUXJiblhoSHQxbURzQjVJZ3M2UC02UWNxUnNKdjVPQ1NCcmtUWHEzWWV4dEtYM2xJTTdUSlhkSXlDVWFQNDZjb3Rn?oc=5>
+- **Trump** | 与特朗普家族有关联的矿业企业拟通过一项20亿美元交易上市 <https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVy0zdE5jRU9rUVBhcUFrVW43YV9NT2hIZWdvcG5MSW5GWk1zTy0yT0RKdGpTTm5NbTJNb0tiQy1ubTIyWWlYQ2M1Y0wzMllnMUFtNDd0LTNMQmJtVk1NcExPUXg2ZW4wa1V2MTVEQjM2UzVxX3hNM2tkR0ZsRFdBWXl0Y1NzVlJqaFkzU3dZaW1OdG1DdTA3d3dhUDRIa2ZZN2JsWkZMVllXVlk?oc=5>
+- **Trump** | 美国中期选举2026：支持以色列如何成为争议焦点 <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rTUtkWGRqQnltaFFIWGswN2dTVVRPQmdsSWVRYmZjZV9MRjJtNzhxMGlNcUVsMU9LSW5Mb0RRUVNqcGdqUVdFZjZka192VmJtS2ZQSWNHcWFfRjJ4SWVYVzNLZ0FpWXfSAWxBVV95cUxQeHFneDg1QnYyZXBYNHU2eWZHckFEMDQtOWF1ZUFsWm80Y3N6bzRKMnhzWS14OHBBNnJyQ3BlcDVDVE80azZHb2tkTVd2aWUwWGIwLWVDMU0zTmxaRldrQWtjdlZxSlcwd1hKNmo?oc=5>
+- **Trump** | 万圣节:万斯精心扮成邓不利多 川普就扮成自己… <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBJUmZKWnFtT2hpSDJxVFhyb2MtZDFzZW9XUVBsMUJkLW1PVlZvdW1FekJRQlgzYzluVnRRYTYtME5qdndLMGg5RVp2Wi1pWDVzRkFaaDZWRy0xZzZDa2d1SlFxMGlpYURf?oc=5>
+- **Trump** | 特朗普淡化战争风险之际，美国袭击伊朗格什姆岛 <https://news.google.com/rss/articles/CBMinAFBVV95cUxOblFrR0pUTTdwNHNqa3hKNWQwVHJVWTk2V240aVRfMDV3M2FXUWstczFzbWRXTjMxTEREX3hGbFIzVlYyUkpNRU5XU2ZDSDhldUljeGc2MHh0MG5BMG9PcGM2eVkyRlhBdnZzaFdZclhnYzNjNnhpV0VxOXdpeGViZm5pdVo0aDduVUVjMGx6bXlFMDRNVWlWSTUtRXA?oc=5>
+- **Trump** | 燃油成本成为中期选战焦点 伊朗战争如何影响美国选民的最后抉择？ <https://news.google.com/rss/articles/CBMizAFBVV95cUxOT0R5alQwZENKRmVyRjBEMmpfaXB5clRyQWRIVWZOUWhmY2VJNVRWbm5Ca1Vkd3Y5Und3NzRVY3dFcEs2djFPMEk1Tmk2ZnlVODNzcHYydDNUaFRGdENxOFJseXNzTHNvNGdHd25pUkhpWUMtYjg2TWZ6RDJIdENVQk9OZG10T1JGb3d3ZFB0eG9ucUFYaFFfYzg4cmZ2d2h3NksyZlozakRkOGhIZXN4X2lrRHMxMkJKOU9xYVdwZzlwbXFmUHBuSHlKV23SAc8BQVVfeXFMUF9pZHJJa3hHaG16VTBBek1qVmtZY1BYeGQyek51czdkeVZEZDNaSXprRmlrQmdHbFdtSjNrdUVodUt3QTZxV3NLbEZNdXFLOFljb0dVUHZuSHJKSEtkUkxXcW44OC1wcHIzOWhEYXRlQmw1bjJObEk0OU1TVl92X0pzeW5ZdGhOb0lEMUQ1dHhoSDE2TEwwQmF3eUw5cEtJY2gwRWk1TkxiTlh3WmpOQjJwdHMzaFdCN1dJNU8yOUJTRkxOUkdpNkFmSVpIV21r?oc=5>
 
 ### 2026-11-02 23:57  (20 条)
 
