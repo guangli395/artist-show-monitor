@@ -1,196 +1,184 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-11-03 13:26**
-- 本轮扫到 15306 条, 新增 **26** 条
+- 最近更新: **2026-11-03 20:12**
+- 本轮扫到 15325 条, 新增 **19** 条
 
 ---
 
-## 本轮新发现 (26 条)
+## 本轮新发现 (19 条)
 
-### 蔡徐坤在新加坡演唱会上的唱跳表现获得了哪些评价？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801oupk.html>
-
-### 蔡徐坤过去在演唱会上有哪些全开麦唱跳的舞台表现？
+### 蔡徐坤在新加坡演唱会上的四面台控场表现如何？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801ou6i.html>
+- 链接: <https://k.sina.com.cn/article_7879923112_1d5ae15a8068023xtg.html>
 
-### 哦吼 原来这一身本来是为香港演唱会准备的 @蔡徐坤 cxk
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7811249616_m1d19635d003302gjze.html>
-
-### 蔡徐坤出席W盛典，巡演香港站今日开售
+### 蔡徐坤在演唱会上的舞台表现有哪些亮点？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7811249616_m1d19635d003302gji2.html>
+- 链接: <https://k.sina.com.cn/article_7879923111_1d5ae15a706801fijo.html>
 
-### 原来W这身是给香港演唱会准备的
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7811057114_m1d19345da03301wq26.html>
-
-### 蔡徐坤亮相W盛典 香港巡演同步开票
+### 蔡徐坤过往在演唱会上的舞台表现有哪些亮点？
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7785470890_m1d00cdbaa03301ymfu.html>
-
-### 蔡徐坤W中文版年度盛典专访，巡演香港站正式开售
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7811249616_m1d19635d003302gjh4.html>
-
-### 蔡徐坤W盛典受访，走红毯不紧张造型原为演唱会准备
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7810739724_m1d18e6e0c03302ztji.html>
-
-### 蔡徐坤W盛典采访上线 造型为香港演唱会准备
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7811157903_m1d194cf8f03301te42.html>
-
-### 这套衣服原本用于香港演唱会 盛典主题想到盖茨比看着河对岸的绿光
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7785517961_m1d00d9389033018qbi.html>
-
-### 蔡徐坤香港演唱会造型亮相W盛典红毯
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7785470890_m1d00cdbaa03301ym9u.html>
-
-### 音乐博主桃乌君锐评蔡徐坤演唱会
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7811247772_m1d1962e9c03301xawm.html>
-
-### 杰伦参加ITF网球大师巡回赛MT400男双混双获亚军
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7811154182_m1d194c106033021yfg.html>
-
-### 杰伦参加ITF网球大师巡回赛MT400获亚军
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7811157903_m1d194cf8f03301tegi.html>
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801ov4a.html>
 
 ### 特朗普表示中期选举不会改变对伊朗政策，民主党寻求加大对其外交政策影响力
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 美国之音
-- 时间: 2026-11-03 10:58
-- 链接: <https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZjRhVTF6NW5TZXdzSk41QnVVNFBuTlRacVoteUhTR1IzckJwRjFrZGVyUWVOeEpOVU5FRlZjZFp0U2pIZDk0bklHeGZoaE1TTFo0UDdQVHR0ZlRMcGN6RVdOZzRQNXNXbDJVcGNzN1hnT1dQWWVHOU52N3lOLVI0ZUZDeHRmZnlPa1F1RWlqMzJZVDJSZTNJMVRfd3hDeTRycXRVazlFODd0NHRMQ1hPMW1PSC1YdGtscGwzM1RLcEw3MGRtSjVBWWJPcGpyR2pTaTJwTnIzZ1FwbWZGODQ4ckNrNNIB5gFBVV95cUxQVDcwZUt4ZzNSRlhGNFVzR3N3NlM1cUY1dnRILUJuZmFZWTZsdXhfYnBxOHpyY041Ml8tcng3ZTZiWnRvemV0R1JmSmVpM0tVZndjOEFQbXdLNldPR1Q5UkxaM1dFbWhEckxMRnZRWGFyWE9oeGxQaVEwWkZFYUc0NkI4M20wVUZBLXV4UWtkb2phcjVRX0dJdEJXeVpBekRvNHljWkphTEZsQjA5QW5pSkF4cGdIbUtFTHl1V09vNnVTX3BEc2s0Ny16VHdQa2g0Q1IzbjhFa1FWRkMwZldxNEJzT0lQQQ?oc=5>
-
-### 2026年中期选举：特朗普低支持率拖累共和党，关税、油价与移民政策加剧美国社会矛盾
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-11-03 08:57
-- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ad21hTTNpVTItcWpLTUJ2WktLdHZCdFE5aW9QbVF5Vnc4V1hDOUZCNVlHN2huT0ZNb0V1QXE4c0swV0VlT0RDT2wzVS15dkJkZkE?oc=5>
-
-### 民主党想逮捕马斯克？特朗普：我会保护他，必要时动用总统赦免权
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: ThePaper.cn
-- 时间: 2026-11-03 12:49
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE93YjJjMWNNUkZyN3dTbWRtdHVTZlJSVjJ1MHVELTdBdFVTWXlUdVBHZDBJOFRaSTVNR1VwM1AwUlR0azdxb0w2NDlRalRTLUpyaVI3cVlzQUdlNE1IM2VacQ?oc=5>
-
-### 美伊局势，突传大消息！特朗普发声
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-11-02 23:19
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTFBkNHIyRlRpcmgtWHBfUmVMS0dZdnR4eFJRbHNyTFpzLXpjOFRseFNRRVRWZWhQVzBsZzNOZmdBX1pXV1BpbWhjeEk1TkZWckZTNkFjZzY3SkxybUk4Q09PN3JRMHRvYWZIcDduSmV6RHRwQTBnNVE?oc=5>
-
-### 受美国制裁无法线下出席 国际刑事法院院长赤根智子线上向联合国喊话
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-11-03 08:24
-- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zUHpYeFI1N1YxU1YtSXR4YlJlS2trbF83NGJOWERPbFl4b1VpSjBvWGk0LU9lZy1qUk0tSHozY2RGbWFQQVdvZkpSUDdBLW1IdFE?oc=5>
+- 时间: 2026-11-03 16:51
+- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxQOFBfa1pBeFZrYlN2STF4Wk5ETjF0RlFzNHpwV255RkUtU3h2OFBrWUpFV0ttdW41NWNwZmxLdHhDZGM0a0lPajU5ZlF3M2tPM0RMNFNYTnd0R0pzSDg4X2JmcmJUX0dSZTdGR3Q3T3UxZm1yWng2UnQ1b0RHUGNOUkZqd9IBhgFBVV95cUxOZWh6cndrTEtvMFRpRTdXSXVfMmFEcTBpcERNWDlRT19YaGN4R1R2U292aVJrVDItazM4YldzNXdERG1SV3p2RVk5X3FvbkJQRWRFQ29QUkxtaFVhSkZvTjVBZlVRY0diT1R6MU9DejVTUXUtU3Q1UG4wV3JVQkZmNWpaVndHZw?oc=5>
 
 ### 特朗普的“死对头”，走了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 腾讯新闻
-- 时间: 2026-11-03 05:35
-- 链接: <https://news.google.com/rss/articles/CBMiV0FVX3lxTE54Vm5Dc2FaTEpFVVNlXzE2djhualFBQXdJYnFqUjhUVG1oenV6SHBqTElrT2tQdndxeVItMW93cXdBWVd4dUd4QUJfa0JBbmk0TG1VSWNYRQ?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-11-03 05:26
+- 链接: <https://news.google.com/rss/articles/CBMiuwJBVV95cUxQOGljdnN0WjJrQUJyLUZUV0ZRTkFmSlRMdmJXNEd3bjkzcUxNc2xuakk1NU5Kc0FENTd2RlJZOWdQNTFrRmhFXzZnQkwzWkxweVhISHN2SjNwM0ZsMjBBalRYWkhMY3l3eVllcU96VEFXTno2ZzRZQVRYUDdPMWRDS0pkWTlaS2RqbmluWTBtdUhxcTdXQThJNDFsX0FDVUVremNoa0luT0ptdGxZeEVMNHBUSHN4dDdJdFhIanRkSDlaclh2LXFIYmR2VHhQLUwxQ0FnUXFVUF80eUhLVjd5b3NTV2hYX0tQMF9nbExyNDNfeG9paEwzbUQ5WGpiRXd6WUNLYzI4blZRcThZVXQ5amlNZkZXaW41SHk4bWFFMFdrZEk0VHg0QlZGMzZMODFxUFp1Mk1EZ01zNUU?oc=5>
 
-### 特朗普：我一周就能结束越南战争！因为我会炸平胡志明市！科普：胡志明市当初叫西贡，是南越首都……
+### 特朗普会动用核武器打击伊朗吗？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 虎扑体育网
-- 时间: 2026-11-03 05:53
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE50eGdqVzBzbVplN2JrcHAxQmxncnE4OElBaldiTHRWT1ROU1VYbEJtY2dCb1RNbnhIeTZxNVV6MXYtdVBZNnFMZnhpMA?oc=5>
+- 场馆: 观察者网
+- 时间: 2026-11-03 04:33
+- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTFBWb3V5ZDhBV0pUWDg0d0ZrSW56dGRjOHp4NlRlNzVrSk1zYndrbVREVFZEMG9SVW01dWQyamI5MlI2NHBYZUVtLWJoQnB1ako3M0E1MTRMczAwUktZZFIxeUl5RQ?oc=5>
 
-### 特朗普称，在他的执政下，美国大幅领先中国
+### 特朗普总统：美国在霍尔木兹海峡的打击属“小规模袭击”，卡塔尔指美伊正在审议结束冲突的提案
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-11-03 17:21
+- 链接: <https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRE5TNjI0Si1GcjQ0dFpEQWNhYVFtY3E0dFJCdThIVk9Qc29pVWhjd1JHYXRRZHhES1ZEaEpjMFdsZTltSVc0Z3J0QmFnTllkbHNPTUN2akJJR3B5eU1GUy0teXg5WnljRGFHZ0pBam03QXpRSnZNVXNIRFFnMEwxQk0teXBxTW9wS19ENHNQV1FSYnpza0doWnB6WWZuREc3VmJOSnlhZF9fUV9CSENMYzlyZjdlaXNzM2hkWTdmOFFHbzdCZ2t2aERsOVpsUkxGRi1fTUt5YWxIR3pfNWQwdHhHR3FmTksxTy10a2lpVjdvdjBSZEFEZ0pIdmnSAf8BQVVfeXFMTktNbDVTdHBJUnhHcUMyeHh5THgycmNHQ3B2TmdUcEJhbXBpQXhwS01uNHpCWGhHS3Z1QkxPeFBxRkRzOUI3c3l3TmgtbFVheDZtc1V5M3g3bk5rQnlLV1lkOWRrYmNybU5Ib1JoWExCRTFyTlRtRzNjS1lrdHlLdm84YTJENkptejN0NzhMcjlObzVPMEV1NXFldlRpb0l3Zzh6eHVacjZBX1l6U2M2UTMxbjAzMUI1c2t2bk0wN3VFbldpWng2bGFFaUdoeDU0XzVralRKdzUtX0VMeTdaN0Y3ZG94WlJqanVzM0xsRTR3cUdyLU9hNzJ4aUxxaURZ?oc=5>
+
+### 特朗普：对伊朗发动了“小规模攻击”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 搜狐网
+- 时间: 2026-11-03 15:24
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcjRXTFlzWVZ4WHJ2cTN5dHJsbjNNaEVYV2k2VHdZdnl6WjREQjJuR3Y5emNvcUtSMnhsclVpOWZ5Wnh3eV9mYTF1czAxSVFuTjdqNHBMNzVPZWVPQWRJYi1RVkpXRnNhdExfNXJlZXFzcmVJRkw3dVNweUhzSG13QTY2bUw5cUxx?oc=5>
+
+### 特朗普称停供以色列40亿美元军援
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-11-03 13:34
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE13dkY0U0plMEVtV0ktRXhnSXp3azF6YlQ4TzVpemhDMjlLRmZEMTFkSkVBUGp6c2tkamg3ZTg0U2M5b1lSWDltMm9BUTA?oc=5>
+
+### #一财情报局 特朗普：将停止向以色列提供每年总额约40亿美元的军事援助
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 搜狐网
+- 时间: 2026-11-03 16:09
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxObGQtYm5iRnNqZjNnLUdOajVody1YS2xndGFxckpvbm5ITmI0bTJTMFY1Z1FlenpHaVRjU1IyQ3BKc0RoekFkWTZ0bnk2MHNMY3lySDJyVTRNcWlPa0s2d2xkWVBYNlpxaWxnLWhEN0lqWjNzZWF3NDE0NVhVYmdxdWN0bDR6LTFy?oc=5>
+
+### 特朗普：已与内塔尼亚胡达成协议，2026年底后停止对以色列军事援助
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-11-03 13:44
+- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTFBMNWZNWjRhMklSX1ROb0o1b0V6cHFiOGlzRGtuYkpub0RQenFLcFJDdXN1a29fM09RaGVEVDZ1emZoRU1pckljTlJFcGhmaFBYRXc?oc=5>
+
+### 为应对败选局面，特朗普做了这些准备
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 腾讯新闻
+- 时间: 2026-11-03 03:44
+- 链接: <https://news.google.com/rss/articles/CBMiVkFVX3lxTE93c25ZaV9OMlh3YnVWb0Q4YTA1cFVEdDFjYk5XOTFhbWEzUWpfbjRKeVpBdmdMYU5XWGE0VXhINnZEY1A5bWFGS3UyMHhZYWJsQjN1Qlpn?oc=5>
+
+### 媒体：特朗普执政期间，美国与国会及联邦机构的情报共享放缓
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: Mezha.net
-- 时间: 2026-11-03 01:23
-- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxPRW5FQUQzX2l0dE43VVdud0haTVpmX3hqVXBYMW0zT3ZObHJseWp5aGduZjBjYVJKLW9XSlNaOVA5ZTVhNlY3OTg2S2hiMmc2ZEh0LU1VcEdUT0JZeUtDYnZUclh4XzQteGcta1F3STd3bHpXWXlvbENZN2xIdkdPUTZCRlpQbXdDNHc?oc=5>
+- 时间: 2026-11-03 11:52
+- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxQV1JBYUl5NE9IWVZFVTlSNkktd3YwMXBMNzRUN3BKUl96dV93eW5QUnJJcF9PMGZscnE1U2V0cXZRRXAzcjU3cVczbFRlZWhkc1h6dEEtQjUtWDFhQ0lUUjFkeEtKSUk1WGFnLWxXWHlUV3pMaGR0WURSSmhBZHJBWWxXOHUtYVZQMHUydUdFeW0teldmbVl3bVNBa1dSMGNq?oc=5>
 
-### 德黑兰多处竖立巨型广告牌 扬言要杀死美总统特朗普
+### 监管生变？加密股10月承压今日反弹，美国中选或改写特朗普时代金融市场格局
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街见闻
+- 时间: 2026-11-03 19:27
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ESlZOWTRXUmczdXNDQzdrekE0emlGTTBBLTAwTTRxSS1nRWJqUk44Mk81MGFKSU50UTVzUG4wMFZrYmZBcUtFUHJ4Qm9JZ2FVVmRv?oc=5>
+
+### 泽连斯基称与特朗普关系“情绪化”，暂不确定星链限速是否马斯克单独所为
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-11-03 11:00
+- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTE80Zkx5WWMxVHBLenZHaFk3WHlKNkhKQXg5SHlXN2R2MUhCMEJnREkxY2VuX1RRTU9tWjU1XzNhY3RndlA0XzloZkFtRXQ4TEJvZ3c?oc=5>
+
+### “我们只能等待”：内塔尼亚胡推动对伊朗发动袭击的计划取决于特朗普中期选举后的表态。
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-11-03 11:43
-- 链接: <https://news.google.com/rss/articles/CBMirAFBVV95cUxONEh0UEsyZVNHT294c2cyMFlyM19TOWRzX2ZDQnlfdHN2Qmc4dmlkRE84b1BNMVZUeVdQaDByeFk2VWRqNmhIUUlaT3BSdklrVkpvc094RWVTX2xxZ0FWWm5rNHFfNmZ4VWFSLUlUM2FDTHhXbXcybkZQai1tMUprZ3JUWnE0SE9meVFqZ01GT3dCbl96d2NGcXp3YkdlX1Nja1dzN18wdnR2MXVi?oc=5>
+- 场馆: Al-Monitor
+- 时间: 2026-11-03 16:02
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1iZVN1ZmZWRTMydlhVRjVsdE52WXJUYmJ6Ukx6Z0xPOXU2ekRnLVR6WDJVd3dTRkZwZ05yVTlJZS1zR0kxTTNGYlhsMFZmUjN3Ti01NW1QV3FhelZrOEt3dnFUSmI?oc=5>
 
-### 特朗普推迟对台军售为何危险
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-11-02 17:10
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE1CcElualY2YWRhc3hwQ2NhRlZoUmoyVmNJbHpaSm5LMVBIUWdqOU1ac1NOLU9Ed3FDUjl5OEpBM0d4eXJPTU00d1JudjRKYTBHMVZtZ0RVaXBKaGV5Yml2V1JXZFJYNU9MdWIw?oc=5>
-
-### 俄罗斯盼未来几天敲定俄中美三国领导人会谈安排
+### Trump Declared War on the Term 'AI.' CEOs Are Struggling to Keep Up. -- WSJ
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-11-03 11:36
-- 链接: <https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUUhkbHpvd2ZQTFA2dkpBbmlUakR2djdUMFM5dkdKVTNaOWc2S2I3amhMdTdTNEkyN3o5Q0JZbTRpTHBuZVkwRkQzVXVfYnJkaW1XVC1tSkF0eFJ6ZUVPQXQ0OUNNclFhLURhUGFhVHc5d3dSc2x4aS1RRmFLcFpqMF9peUp1cG43eVBZSnZVVEZSU2NZQ1JqTnhBem0zUGhjb2YwWWJTbjY?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-11-03 15:58
+- 链接: <https://news.google.com/rss/articles/CBMipAFBVV95cUxQMUNnVVRSR3R0eVZIT05fMEhHOHhlbU1kVHJRWk5QSk9GWnFFOFN2RFFNWDNLUWE1aDJ1d0h5X3JLTndNM3NhdlJjeXRtWFVEb2J5RnVLb0p1VHFnNzVpRHJhVzUwTVlTVjQ0SWVOMmhKM2wtUzdTZGJ1c0hCb1VPZFM2TEw4ZS1kQmY0eGd0Nk5OeGFHTjJ6dXJ0Yk5ZTnFFNDNMZA?oc=5>
 
-### 分析：2026年美国中期选举结果将如何影响美中关系？
+### Oil Drops After Trump Says Military Aid to Israel Is Ending -- WSJ
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-11-03 11:22
-- 链接: <https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa19qdTZOTFpLTFhEanNyWURmSGN6V1hsT2xOOF9CQ3dvZEZ4WE5EeTFhbzJGaUpuN3Q1OC14SGk0Rk1RbFBQLVVDMlVZSnNoZVZYVWJEZ21hekNqb2JxODBiaGdoTFNBX242ckhBd3QzY245Q0F3N2ZWaF9aX1RpVFdjaE5LdjB4UDNVTklobC1rdjFPYi00djZiRS1kUWg0cTYxR2w3VlZDX2Q1WU9JUFJJakNIUm1R0gG7AUFVX3lxTE5zbElla19DSUV6THRnemo2Q0N4cFhKbVRaV2FlZzB1bTlGSlcxUzJuVThVdGVYRnp4RmRuRjhweWJuWnB6d3ltRmRDOTg4a3J1U1p2WE1RekFsc1I1TUtja0x4S2xURXhEa1VnUlhfVkIteTdSOEpOWmJJQUNEcEJXOEhONFRwSHBfcklNcTNEZjB1VWRONG9nXzRFZzJJMUxNWFpoX2Y1X21lMmdhV2phcUtGLXhYY19sV0U?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-11-02 14:18
+- 链接: <https://news.google.com/rss/articles/CBMiowFBVV95cUxQSHhDMk1RSXFKanhnX3M3OVBTalBRYjlNVDBIZkdYcGJabWI5dE5oRlpnNUVoRnEtZWhUN1RVdEpRVnh4SWRKeU5ZMWxQZWxCRE5qMkZESVZTNEhMRVBZdFNlNWdvTXdRem55MUxJZWtpbUVZQm9US2NXUnR2UlUwM2g3c2tRMDVpWkNtTXJkTTZuSTA5dlFDS09hRmZjaGpzRmZn?oc=5>
+
+### 第516天：加息 + 特朗普2.0 第651天
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-11-03 15:54
+- 链接: <https://news.google.com/rss/articles/CBMimgFBVV95cUxPUWx4OUMzWk13WmJyeWVQMmVLcTYzV0Fxb2J5NXFnU1o4NVJ6VE1tbndJZUI0MXN1NEtTOGpEODhzZExsdnI5U1NYdU1WTVJ0Zm9nRWdpaGdYRzJjRWU0T0g0VkNmUWF4b2FNSTJ2bnhRcy1yeS15SW9CM0pvREs0amNaU1ZoaUJUSjQ1UUloZGM1T3RNTWt0X21n?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-11-03 20:12  (19 条)
+
+- **蔡徐坤** | 蔡徐坤在新加坡演唱会上的四面台控场表现如何？ <https://k.sina.com.cn/article_7879923112_1d5ae15a8068023xtg.html>
+- **蔡徐坤** | 蔡徐坤在演唱会上的舞台表现有哪些亮点？ <https://k.sina.com.cn/article_7879923111_1d5ae15a706801fijo.html>
+- **蔡徐坤** | 蔡徐坤过往在演唱会上的舞台表现有哪些亮点？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801ov4a.html>
+- **特朗普** | 特朗普表示中期选举不会改变对伊朗政策，民主党寻求加大对其外交政策影响力 <https://news.google.com/rss/articles/CBMigwFBVV95cUxQOFBfa1pBeFZrYlN2STF4Wk5ETjF0RlFzNHpwV255RkUtU3h2OFBrWUpFV0ttdW41NWNwZmxLdHhDZGM0a0lPajU5ZlF3M2tPM0RMNFNYTnd0R0pzSDg4X2JmcmJUX0dSZTdGR3Q3T3UxZm1yWng2UnQ1b0RHUGNOUkZqd9IBhgFBVV95cUxOZWh6cndrTEtvMFRpRTdXSXVfMmFEcTBpcERNWDlRT19YaGN4R1R2U292aVJrVDItazM4YldzNXdERG1SV3p2RVk5X3FvbkJQRWRFQ29QUkxtaFVhSkZvTjVBZlVRY0diT1R6MU9DejVTUXUtU3Q1UG4wV3JVQkZmNWpaVndHZw?oc=5>
+- **特朗普** | 特朗普的“死对头”，走了 <https://news.google.com/rss/articles/CBMiuwJBVV95cUxQOGljdnN0WjJrQUJyLUZUV0ZRTkFmSlRMdmJXNEd3bjkzcUxNc2xuakk1NU5Kc0FENTd2RlJZOWdQNTFrRmhFXzZnQkwzWkxweVhISHN2SjNwM0ZsMjBBalRYWkhMY3l3eVllcU96VEFXTno2ZzRZQVRYUDdPMWRDS0pkWTlaS2RqbmluWTBtdUhxcTdXQThJNDFsX0FDVUVremNoa0luT0ptdGxZeEVMNHBUSHN4dDdJdFhIanRkSDlaclh2LXFIYmR2VHhQLUwxQ0FnUXFVUF80eUhLVjd5b3NTV2hYX0tQMF9nbExyNDNfeG9paEwzbUQ5WGpiRXd6WUNLYzI4blZRcThZVXQ5amlNZkZXaW41SHk4bWFFMFdrZEk0VHg0QlZGMzZMODFxUFp1Mk1EZ01zNUU?oc=5>
+- **特朗普** | 特朗普会动用核武器打击伊朗吗？ <https://news.google.com/rss/articles/CBMiY0FVX3lxTFBWb3V5ZDhBV0pUWDg0d0ZrSW56dGRjOHp4NlRlNzVrSk1zYndrbVREVFZEMG9SVW01dWQyamI5MlI2NHBYZUVtLWJoQnB1ako3M0E1MTRMczAwUktZZFIxeUl5RQ?oc=5>
+- **特朗普** | 特朗普总统：美国在霍尔木兹海峡的打击属“小规模袭击”，卡塔尔指美伊正在审议结束冲突的提案 <https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRE5TNjI0Si1GcjQ0dFpEQWNhYVFtY3E0dFJCdThIVk9Qc29pVWhjd1JHYXRRZHhES1ZEaEpjMFdsZTltSVc0Z3J0QmFnTllkbHNPTUN2akJJR3B5eU1GUy0teXg5WnljRGFHZ0pBam03QXpRSnZNVXNIRFFnMEwxQk0teXBxTW9wS19ENHNQV1FSYnpza0doWnB6WWZuREc3VmJOSnlhZF9fUV9CSENMYzlyZjdlaXNzM2hkWTdmOFFHbzdCZ2t2aERsOVpsUkxGRi1fTUt5YWxIR3pfNWQwdHhHR3FmTksxTy10a2lpVjdvdjBSZEFEZ0pIdmnSAf8BQVVfeXFMTktNbDVTdHBJUnhHcUMyeHh5THgycmNHQ3B2TmdUcEJhbXBpQXhwS01uNHpCWGhHS3Z1QkxPeFBxRkRzOUI3c3l3TmgtbFVheDZtc1V5M3g3bk5rQnlLV1lkOWRrYmNybU5Ib1JoWExCRTFyTlRtRzNjS1lrdHlLdm84YTJENkptejN0NzhMcjlObzVPMEV1NXFldlRpb0l3Zzh6eHVacjZBX1l6U2M2UTMxbjAzMUI1c2t2bk0wN3VFbldpWng2bGFFaUdoeDU0XzVralRKdzUtX0VMeTdaN0Y3ZG94WlJqanVzM0xsRTR3cUdyLU9hNzJ4aUxxaURZ?oc=5>
+- **特朗普** | 特朗普：对伊朗发动了“小规模攻击” <https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcjRXTFlzWVZ4WHJ2cTN5dHJsbjNNaEVYV2k2VHdZdnl6WjREQjJuR3Y5emNvcUtSMnhsclVpOWZ5Wnh3eV9mYTF1czAxSVFuTjdqNHBMNzVPZWVPQWRJYi1RVkpXRnNhdExfNXJlZXFzcmVJRkw3dVNweUhzSG13QTY2bUw5cUxx?oc=5>
+- **特朗普** | 特朗普称停供以色列40亿美元军援 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE13dkY0U0plMEVtV0ktRXhnSXp3azF6YlQ4TzVpemhDMjlLRmZEMTFkSkVBUGp6c2tkamg3ZTg0U2M5b1lSWDltMm9BUTA?oc=5>
+- **特朗普** | #一财情报局 特朗普：将停止向以色列提供每年总额约40亿美元的军事援助 <https://news.google.com/rss/articles/CBMiiAFBVV95cUxObGQtYm5iRnNqZjNnLUdOajVody1YS2xndGFxckpvbm5ITmI0bTJTMFY1Z1FlenpHaVRjU1IyQ3BKc0RoekFkWTZ0bnk2MHNMY3lySDJyVTRNcWlPa0s2d2xkWVBYNlpxaWxnLWhEN0lqWjNzZWF3NDE0NVhVYmdxdWN0bDR6LTFy?oc=5>
+- **特朗普** | 特朗普：已与内塔尼亚胡达成协议，2026年底后停止对以色列军事援助 <https://news.google.com/rss/articles/CBMiUkFVX3lxTFBMNWZNWjRhMklSX1ROb0o1b0V6cHFiOGlzRGtuYkpub0RQenFLcFJDdXN1a29fM09RaGVEVDZ1emZoRU1pckljTlJFcGhmaFBYRXc?oc=5>
+- **特朗普** | 为应对败选局面，特朗普做了这些准备 <https://news.google.com/rss/articles/CBMiVkFVX3lxTE93c25ZaV9OMlh3YnVWb0Q4YTA1cFVEdDFjYk5XOTFhbWEzUWpfbjRKeVpBdmdMYU5XWGE0VXhINnZEY1A5bWFGS3UyMHhZYWJsQjN1Qlpn?oc=5>
+- **特朗普** | 媒体：特朗普执政期间，美国与国会及联邦机构的情报共享放缓 <https://news.google.com/rss/articles/CBMioAFBVV95cUxQV1JBYUl5NE9IWVZFVTlSNkktd3YwMXBMNzRUN3BKUl96dV93eW5QUnJJcF9PMGZscnE1U2V0cXZRRXAzcjU3cVczbFRlZWhkc1h6dEEtQjUtWDFhQ0lUUjFkeEtKSUk1WGFnLWxXWHlUV3pMaGR0WURSSmhBZHJBWWxXOHUtYVZQMHUydUdFeW0teldmbVl3bVNBa1dSMGNq?oc=5>
+- **特朗普** | 监管生变？加密股10月承压今日反弹，美国中选或改写特朗普时代金融市场格局 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ESlZOWTRXUmczdXNDQzdrekE0emlGTTBBLTAwTTRxSS1nRWJqUk44Mk81MGFKSU50UTVzUG4wMFZrYmZBcUtFUHJ4Qm9JZ2FVVmRv?oc=5>
+- **特朗普** | 泽连斯基称与特朗普关系“情绪化”，暂不确定星链限速是否马斯克单独所为 <https://news.google.com/rss/articles/CBMiUkFVX3lxTE80Zkx5WWMxVHBLenZHaFk3WHlKNkhKQXg5SHlXN2R2MUhCMEJnREkxY2VuX1RRTU9tWjU1XzNhY3RndlA0XzloZkFtRXQ4TEJvZ3c?oc=5>
+- **Trump** | “我们只能等待”：内塔尼亚胡推动对伊朗发动袭击的计划取决于特朗普中期选举后的表态。 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1iZVN1ZmZWRTMydlhVRjVsdE52WXJUYmJ6Ukx6Z0xPOXU2ekRnLVR6WDJVd3dTRkZwZ05yVTlJZS1zR0kxTTNGYlhsMFZmUjN3Ti01NW1QV3FhelZrOEt3dnFUSmI?oc=5>
+- **Trump** | Trump Declared War on the Term 'AI.' CEOs Are Struggling to Keep Up. -- WSJ <https://news.google.com/rss/articles/CBMipAFBVV95cUxQMUNnVVRSR3R0eVZIT05fMEhHOHhlbU1kVHJRWk5QSk9GWnFFOFN2RFFNWDNLUWE1aDJ1d0h5X3JLTndNM3NhdlJjeXRtWFVEb2J5RnVLb0p1VHFnNzVpRHJhVzUwTVlTVjQ0SWVOMmhKM2wtUzdTZGJ1c0hCb1VPZFM2TEw4ZS1kQmY0eGd0Nk5OeGFHTjJ6dXJ0Yk5ZTnFFNDNMZA?oc=5>
+- **Trump** | Oil Drops After Trump Says Military Aid to Israel Is Ending -- WSJ <https://news.google.com/rss/articles/CBMiowFBVV95cUxQSHhDMk1RSXFKanhnX3M3OVBTalBRYjlNVDBIZkdYcGJabWI5dE5oRlpnNUVoRnEtZWhUN1RVdEpRVnh4SWRKeU5ZMWxQZWxCRE5qMkZESVZTNEhMRVBZdFNlNWdvTXdRem55MUxJZWtpbUVZQm9US2NXUnR2UlUwM2g3c2tRMDVpWkNtTXJkTTZuSTA5dlFDS09hRmZjaGpzRmZn?oc=5>
+- **Trump** | 第516天：加息 + 特朗普2.0 第651天 <https://news.google.com/rss/articles/CBMimgFBVV95cUxPUWx4OUMzWk13WmJyeWVQMmVLcTYzV0Fxb2J5NXFnU1o4NVJ6VE1tbndJZUI0MXN1NEtTOGpEODhzZExsdnI5U1NYdU1WTVJ0Zm9nRWdpaGdYRzJjRWU0T0g0VkNmUWF4b2FNSTJ2bnhRcy1yeS15SW9CM0pvREs0amNaU1ZoaUJUSjQ1UUloZGM1T3RNTWt0X21n?oc=5>
 
 ### 2026-11-03 13:26  (26 条)
 
