@@ -1,140 +1,100 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-11-04 21:40**
-- 本轮扫到 15397 条, 新增 **16** 条
+- 最近更新: **2026-11-05 01:56**
+- 本轮扫到 15406 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (16 条)
+## 本轮新发现 (9 条)
 
-### 蔡徐坤红毯造型为何临时从演唱会改到盛典？
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923379_1d5ae16b306801mzv0.html>
-
-### 周杰伦演唱会3小时演出被指划水近2小时
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923674_m1d5ae17da03301so8u.html>
-
-### 民主党赢得两院控制权，特朗普最后两年任期将面临国会更强制衡
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-11-04 12:36
-- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVlVpRVFRNjZVQ1VSYmtIY1Jtb0ZUT2E2MTZIczRDSG82bnNLT3pPcXF0cmVvcGtzMVFyTU9JRGtoTDFqMnBFb25ldjZQU0d5bkN1Y1JOZGJyU0tPdnRUVXR4YUxtYjdDUmlQQjd4dDV1U0hNdlFMUHRSV3g3U0F1TndVWm9ub2FMUGhIUXp0eUhDcFpEZ1lwSjZqeUJGYWxMOWZHMlZkMktNd9IBrAFBVV95cUxObnRaM3dIN2hjSTFXXzhlS1VIYWZUVE02Q3VWX0tJaTlrMWd1X1p6NlhjS0hCeF9YdTBpWktKZmJ2M1JaZmZ5LWNvd1hJdlh1R3VwME9ORFNYZlV0SnZOYl9UZFotelFDSk1lX0FDc3QxMGtuR3FQbmNIZ0RSX00xWDJkd1R5YmVxbnMxT1JmRmxlRzFNMWo3cEZvM0ZZY2tJWjNIRXdmSUFuMlF4?oc=5>
-
-### 美国总统特朗普与俄罗斯的柴油协议遇挫，美国燃料供应降至20年低点。
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-11-04 19:54
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBIcEVkQ09UUk8zUWVnTzE5NnZnUG9vZUdmb05oNGFjMkdMczl5UWExS2ExQ1MxMWFzcmFra2RrRXlWNlQySVROQjdnRQ?oc=5>
-
-### 美国中期选举结果对中国和世界各国意味着什么？
+### 美国中期选举：共和党为何惨败？五大原因解析特朗普的选举挫折
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: BBC
-- 时间: 2026-11-04 21:10
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54Z0dPMTUzcmZaeGFoSm9HcVdkUHNZb3JqMmZiQ0h6WDhYdU83NFRSSTgyaGJ6ZE16RFNIT2ZPNXlLQy1KX1RVdGNyRXpPN0RlWEtzaGVBX3R5RV85YTM1VmlkMlJYbFXSAWxBVV95cUxONUcwc2JUTjlFZHlXYjNja0p5UHQtRzNGUEpDX2hoNVJpR05EY0k0eWpSallzNlpBY0FzVWpHa0lOZzJxakF1cldZemhvaXlWYV9BWEd4M0Zpd3lsZk13cEZvY0VNSlYxNDFENkQ?oc=5>
+- 时间: 2026-11-04 20:26
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmbTV3UFBpdVVZYks1QU5UaEV1TE13ajMwN1poZG9NZ3FrUmhUbGNTTkJJRk9qeEV2MVlfNjlMWlZwOHQ5V3BDb3Ruc0RQOUswX1k4UFBHbVZ6LTFCbm5Ia2ZnMVZ0aWPSAWxBVV95cUxPdXpnaDRwNkZfeHdXbkNFdnZETW9HeUhic2hrVkZ1SWxpSWJFa1pBWUx3MjY3TlRQNTNGZFRIUjlwUnplOTBOS2pXcDl5RGhEVUpHd0pWSE1TODk4TjVJakJYX3ZQVERBNFhXYUo?oc=5>
+
+### 加拿大节目调侃支持特朗普的Nicki Minaj ，比SNL犀利
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 手机新浪网
+- 时间: 2026-11-05 01:52
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE1TWndLMmVQdERHT2NZWlJpWldibjZPQ0ZQR2lMYm9xaDFsWmJTMmo2RzFpRldkcmNGT2hxNDhvSWxJQjYyclY5ZXhBcDcyQV9KTXBFRm9lWEU0T0JBR3NPUDl3ekpXTmR6dWZnQlJCTXhUZw?oc=5>
+
+### 特朗普：不会替换防长赫格塞思，他“干得非常出色”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-11-05 01:27
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9HcS1VVlo2TDNfM3NGTXRsamM1d1VaemhYSllsdHF5LTNVUEtaUjdoLWZtMTRScUVQNWxoYWY5S2FHXzFUay1jeFphQQ?oc=5>
+
+### 特朗普放话频繁行使否决权 对抗民主党的利器
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-11-05 01:10
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1MY09JQnA5LTFTM0ZGV2MtYjFMWjlveE5FWm1ZX0J1ZVhSN003Ri15X09FbkFLNGRndWkwaTVJVTQ5eGd4cmhMNjZzREZEVGR6b2tNUVlxdkFyOUlYdE1sdTEyOEZzRk1saUxPMS1XMGY?oc=5>
+
+### 原油盘中暴跌10%！“切割特朗普”，万斯称“输在伊朗战争”，民主党领袖誓言阻止关税和战争
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街见闻
+- 时间: 2026-11-05 00:07
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5vWFE3TE51dGxpcGxWbzh3OTdJaGQ1TDNadk91U0xVaWNuN2p3OGpnbWp5VGVZbUcybUU1OHg3RXJlYndOZVB6bktEZjRIcjBIMDhV?oc=5>
+
+### 国会易主会否导致特朗普对华政策受限？白宫回应：总统外交政策从未出于政治动机
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-11-04 18:13
+- 链接: <https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVnh5TWV3Q3pXMW15alN3RG13TUFyS2JFQ2JpVFY1UkFWeXc4Yi1LcTJwX2RsWTFpNllwRWVSRUZvbDY5X05idDJ3QUVpNERZX3QwMWNtMmNGRVlJX3g3WXRlcEN1blBJQWs5LVJYanBOOVBNSkV4YnJvbm5iTmoxUldFNFlnTjJpekpxVE4tc3Q1UWxhM2FqdVduRHNFS2tvSkthVlZ6SGjSAasBQVVfeXFMTkNDcGZnUW5taVE1SWtZS2I2c24tNndFajZ6a1NPSExUWTdzaUVjdnZvUFZWdXVTUWhhOXlSWWpEdFdrc0FnT3VBdXNWQnhDZGxpWHIxczJKd053NFFQSTRtVG9oc3hPS2tFemNkV3EtS3VwQ3lGVTlPeURxRmRBM3BRaktFRTFRX2MwVTVfT3RQRUp4STNKV3JQQzNDN3JNUkhySzZoWmJnNUtv?oc=5>
 
 ### 特朗普称伊朗战事何时结束将由其决定
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-11-04 20:31
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFB6Mnp3d0dyZWFVRWZoV3pLZ2RwRmpMUGdPTDJST0pMdEdYX0lCTnRacUhDUlczMTNnUmNLbXlEcVA4cVNlVEVpMm92Z2I?oc=5>
-
-### 特朗普称对伊朗“不需要使用核武器”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
 - 场馆: 央视网
-- 时间: 2026-11-04 15:16
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFAtNWZQcm9EWVdOOGdaSmxQT0h0dEFiamtsX3l2YllPR250eGc0UkhvaFdyNDlJaXlNWjhoZ2JJdTFOdHNwNkRrY3c2aFhJeFYzOGVHbnFZdDQtS1FfaW03MnBUU0VHOVQzNTJUa2FBWWM5NjZkcV9xTw?oc=5>
+- 时间: 2026-11-04 22:53
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5QbnlTcVY5b2pzT3ZaRkZRY201Zl9XNlRYSHE3OUVIazFlV3dFeVl4SU9JWjRWSHl5dmJwc2ZLUzQ1NE1IdzNsYUJVM2tFLWNKWklEMkRndzY1eW9MVnhOSzV1WS1IWFFvX3Nfc0FtYjludXlXWWx4Yw?oc=5>
 
-### 德国《商报》：反对特朗普主义的人民起义
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-11-04 20:49
-- 链接: <https://news.google.com/rss/articles/CBMiogJBVV95cUxPdlJKT05jVW5qV19vY09RSUhtUkpIdHJXeXR5Z2pMQTBlcTZQVWFvN0JyY1dFTE04VFJpckE0a3RDQkZvUWtPQnBINXk4V2dLcWIwbV9nWFhic2xVc2wwMkpyOW5HQVRSdjZfQ1hxY1RYeFZucHVLLUNoajNXVHlYZHUzaUtENFBzTDV5WU43ekJYUXZuYjBuSV9nUW5OQXNDRXRiTmozeVJqdXhDNmNQYXpIR0FIdHhnWTcxVDkwMThuV3V5LTZnbmJqMUh1THVkMWNwdmdqSnNvaGhSdkNNdWlZZF9GTmExQXhXa2lRTG14emFBdVJhM1hHVExnVkJkRzZ5Y3Mtbkl4Z3lBeUhHX3oxakg0RUdRNmFyNWdoZnkxUQ?oc=5>
-
-### 中期选举日 特朗普“意外”宣布即将结束对以援助
+### 观天下丨中期选举日 特朗普“意外”宣布即将结束对以援助
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 中国网新闻中心
-- 时间: 2026-11-04 11:57
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE1rUGgtVGtZOG9HTXVJeFd4ajIzSm0wWnVFU0h5OUdNTmxVV0x2YmNSbGVEWUp4YlBqS2pqSzVoMkJEczhhd0d5a2dyOGJZVHdfbXVjeHhaSTltcF95c3BrdDR1Z3M4dmt1eEJF?oc=5>
+- 时间: 2026-11-04 16:40
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE5ueV9VM1VkM0RSeXp6TndURkUxU1NQc0xvLWl3Z3Y5X0phMmp0LTF0QWxReUNKQ1l6RjFzSjNQODRMUVNnOGZwU1BLdFZzM3NiNmlfdFI2Q1VFbkZfa09rSGs3OXBGemItUUJj?oc=5>
 
-### 特朗普输掉中期选举，黄金为何大涨？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 同花顺财经
-- 时间: 2026-11-04 10:35
-- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTFB5aWFKLWdLdncxdlFFT0JkaEVSYURTR2hpYnZVbThDTnVWWFBzaGE4WkpFaWc4aXFueUFhT29XN3UzTzJLM0RVQkM3SnVCOEVSSjNMNGVsajhBMXcwZlE?oc=5>
-
-### 特朗普称欧洲正在衰落而美国处于繁荣中，“法国、意大利等国甚至可能无法挺过当前的动荡局势”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-11-04 13:46
-- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxOdkItdkNyQnZ6dEpPY2oxV1BveWFZY0N3RWlHa052SnBXZ1ZCSE1zcHMtMWJrOEVUMElNQkhSUWZwUV90NE5RMmtKR196bGFjQVV4WXpLYmhFbmVwQlkzQkRmNi1tZWpFTnlQQ1Jlcl9RZjRpTXFDWDVISl9JVHg1S3pCaw?oc=5>
-
-### 要闻解说 - 美国中期选举民主党大胜 重塑特朗普最后两年任期格局
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-11-04 12:58
-- 链接: <https://news.google.com/rss/articles/CBMiygNBVV95cUxQUU5fOGMwbERXa3JsRks0b2ZVcVhIUzA4QXVyNGNYTVBsNDAybWhwZDk2UENsU2JpWFo5VjhRbFZxY3c4N0hzSTlwaWVXVlljNVg5RzdFU0NaSDBLb2dieDcyNmlIdzNmNUdpMExrV3ZVNlFWQW03dmNGbkpWbTNWSUx0LXZTemRHZkpSVFpId2ZSWE84UXI4cHkxNjBZamN6S0Z4Z2NOZVlXSFpCeldEQ3FsNzJGVXl4dzBxQTFVMEVDQURNWmU5T3RxbWcxemFWN1FHUXNzUWxzRnNxcmk2alZFbzdHYmZKRzU0dnhUU3Z2YlRTbXdWRDBDY3dwTUVrdzVSdEVScS12U1p6VlVsTWtUQURsWm5XOFEwVmtCSFFDd2FPWmdxdUw0bmE0OTRMak5VZzNLclpOMUpVRmtBX2p4ZUxiZWw2cE5CN21CMlFpcXFQUXpuZ3VWWVNNVGRfWG5LS0V5WkF3VVJqa01CUGFqSHdyelgzcmlrUEhUQk1TZ1dFbDEwM1pYVVVnZU80WEpMQnA2Z3FsWFEtWEppNGV4cUl2b2J1WlRUUUtHOXhTdXhvUlFsTUdZX01wS1RkVmRGeWdvemR6dw?oc=5>
-
-### 梅拉尼娅·特朗普将接待俄乌代表，援助点遭袭死亡人数升至40人
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-11-04 18:51
-- 链接: <https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZ1VDVWZ0Yktvald0ZUJBdi1mbEctWHQ0SDQ0QWZFZUZQM3RtbEFpRTBNeTNoVlU1MElERGNCc3F3WkZydTRVZFltSzZKdEtnRUpqbEVLU0t5Yzhhdm4yNXBaZTFUOWR4VHJFbkFTcXo2MGJvRmc1V2lNNU9pbXVLMlFYYnZ1cUY2RmkzaFhjR0VPdXRTeXJxaWVHcjhEeFpKT2JEQ0lYZmdLWFc1MEc1SWJON0o0T0NsNnVBYXdCelRrZnVucTlBbUVfYnFZaDlXaGlZYVlLMkFkOXNN0gHfAUFVX3lxTE1Nc3dINXRCMXBkblNsNGZvSEJXNGJtcjJGSWg0YVcyME1COTdpRGpsTkNDVE5qZkhMSWpMa2JUVXBBZzZ1OHFaOWQ2dHJNNEVoWE90Q05FOXppcE55RGtxZjZrc3VLZkFzRXdsWVByZVNNenozak5oNzVlY19DVVozSUdyODk0dUFTd1JRYkdaQVQ1UHFWeDVlZTA1SkF5cXJZTWMtbkZlMm1GLURnY21PSUZodmszRkJBV1F0Z0ExVl85Tmc5SW1QM3hvQ25IZXVjTjJvTE9TVVR6VEhnVGc?oc=5>
-
-### 特朗普：民主党在中期选举中取得优势，但我有完全否决权、共和党输一大原因是伊朗
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-11-04 05:23
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2cE1vYThFX2sxQ2xFd250SWVEd0xETXJhLVNpbjhORXFWRzFBMlN4VE1rZ0FKQjhOd2RmMDJtd0ROYnI5WDB3X3FwQmhpeXNoZ0Zj?oc=5>
-
-### 美国中期选举：民主党赢得两院控制权，选民否决特朗普
+### 川普成票房毒药？4钦点参议员候选人全败北
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-11-03 20:57
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBKY1kzeHhRb1ZYMHYyRGRqNEhNLU5DZTQtbGhhZTctempjbnNLTlV3dURZQW1LUjBCZTl1bXJleW1Ic3NLakZwYVF4R20tb293WGRkR3NkRDgxcUJkWlJqd1NuNkg2ZUc4aXJzUHhMOExMZnZoQWRZTQ?oc=5>
-
-### 民主党在中期选举中大获全胜，艾森科特誓言重塑美以关系，美以关系面临考验。
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Al-Monitor
-- 时间: 2026-11-04 20:54
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CMFpnVnZ5SHdfdnNYNEJxeDE0QTA1T2xUOEstX2diazBKaG16QU9xSFZBTFJscXJmbFdrdkxfajB6NWRPcW5ZbFpEX0Z6RnF5TW4tRWU3N19YbDE2V3BmVEVoMXo?oc=5>
+- 场馆: 文学城
+- 时间: 2026-11-04 23:15
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ndkpjOFhqd3E2bWlKS0RQOWpEeDZ6OFRRUDBuQldoaEdPS3ZkelFpanpVajlfd2JsZllVa1FZb2lYbVdSeWRvVFh2a3ZsY0djUnREODJEd05mVVpaZnY0QTFFSFREcEkt?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-11-05 01:56  (9 条)
+
+- **特朗普** | 美国中期选举：共和党为何惨败？五大原因解析特朗普的选举挫折 <https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmbTV3UFBpdVVZYks1QU5UaEV1TE13ajMwN1poZG9NZ3FrUmhUbGNTTkJJRk9qeEV2MVlfNjlMWlZwOHQ5V3BDb3Ruc0RQOUswX1k4UFBHbVZ6LTFCbm5Ia2ZnMVZ0aWPSAWxBVV95cUxPdXpnaDRwNkZfeHdXbkNFdnZETW9HeUhic2hrVkZ1SWxpSWJFa1pBWUx3MjY3TlRQNTNGZFRIUjlwUnplOTBOS2pXcDl5RGhEVUpHd0pWSE1TODk4TjVJakJYX3ZQVERBNFhXYUo?oc=5>
+- **特朗普** | 加拿大节目调侃支持特朗普的Nicki Minaj ，比SNL犀利 <https://news.google.com/rss/articles/CBMickFVX3lxTE1TWndLMmVQdERHT2NZWlJpWldibjZPQ0ZQR2lMYm9xaDFsWmJTMmo2RzFpRldkcmNGT2hxNDhvSWxJQjYyclY5ZXhBcDcyQV9KTXBFRm9lWEU0T0JBR3NPUDl3ekpXTmR6dWZnQlJCTXhUZw?oc=5>
+- **特朗普** | 特朗普：不会替换防长赫格塞思，他“干得非常出色” <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9HcS1VVlo2TDNfM3NGTXRsamM1d1VaemhYSllsdHF5LTNVUEtaUjdoLWZtMTRScUVQNWxoYWY5S2FHXzFUay1jeFphQQ?oc=5>
+- **特朗普** | 特朗普放话频繁行使否决权 对抗民主党的利器 <https://news.google.com/rss/articles/CBMicEFVX3lxTE1MY09JQnA5LTFTM0ZGV2MtYjFMWjlveE5FWm1ZX0J1ZVhSN003Ri15X09FbkFLNGRndWkwaTVJVTQ5eGd4cmhMNjZzREZEVGR6b2tNUVlxdkFyOUlYdE1sdTEyOEZzRk1saUxPMS1XMGY?oc=5>
+- **特朗普** | 原油盘中暴跌10%！“切割特朗普”，万斯称“输在伊朗战争”，民主党领袖誓言阻止关税和战争 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5vWFE3TE51dGxpcGxWbzh3OTdJaGQ1TDNadk91U0xVaWNuN2p3OGpnbWp5VGVZbUcybUU1OHg3RXJlYndOZVB6bktEZjRIcjBIMDhV?oc=5>
+- **特朗普** | 国会易主会否导致特朗普对华政策受限？白宫回应：总统外交政策从未出于政治动机 <https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVnh5TWV3Q3pXMW15alN3RG13TUFyS2JFQ2JpVFY1UkFWeXc4Yi1LcTJwX2RsWTFpNllwRWVSRUZvbDY5X05idDJ3QUVpNERZX3QwMWNtMmNGRVlJX3g3WXRlcEN1blBJQWs5LVJYanBOOVBNSkV4YnJvbm5iTmoxUldFNFlnTjJpekpxVE4tc3Q1UWxhM2FqdVduRHNFS2tvSkthVlZ6SGjSAasBQVVfeXFMTkNDcGZnUW5taVE1SWtZS2I2c24tNndFajZ6a1NPSExUWTdzaUVjdnZvUFZWdXVTUWhhOXlSWWpEdFdrc0FnT3VBdXNWQnhDZGxpWHIxczJKd053NFFQSTRtVG9oc3hPS2tFemNkV3EtS3VwQ3lGVTlPeURxRmRBM3BRaktFRTFRX2MwVTVfT3RQRUp4STNKV3JQQzNDN3JNUkhySzZoWmJnNUtv?oc=5>
+- **特朗普** | 特朗普称伊朗战事何时结束将由其决定 <https://news.google.com/rss/articles/CBMieEFVX3lxTE5QbnlTcVY5b2pzT3ZaRkZRY201Zl9XNlRYSHE3OUVIazFlV3dFeVl4SU9JWjRWSHl5dmJwc2ZLUzQ1NE1IdzNsYUJVM2tFLWNKWklEMkRndzY1eW9MVnhOSzV1WS1IWFFvX3Nfc0FtYjludXlXWWx4Yw?oc=5>
+- **特朗普** | 观天下丨中期选举日 特朗普“意外”宣布即将结束对以援助 <https://news.google.com/rss/articles/CBMia0FVX3lxTE5ueV9VM1VkM0RSeXp6TndURkUxU1NQc0xvLWl3Z3Y5X0phMmp0LTF0QWxReUNKQ1l6RjFzSjNQODRMUVNnOGZwU1BLdFZzM3NiNmlfdFI2Q1VFbkZfa09rSGs3OXBGemItUUJj?oc=5>
+- **Trump** | 川普成票房毒药？4钦点参议员候选人全败北 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ndkpjOFhqd3E2bWlKS0RQOWpEeDZ6OFRRUDBuQldoaEdPS3ZkelFpanpVajlfd2JsZllVa1FZb2lYbVdSeWRvVFh2a3ZsY0djUnREODJEd05mVVpaZnY0QTFFSFREcEkt?oc=5>
 
 ### 2026-11-04 21:40  (16 条)
 
