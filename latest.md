@@ -1,132 +1,119 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-11-07 09:45**
-- 本轮扫到 15532 条, 新增 **16** 条
+- 最近更新: **2026-11-07 16:00**
+- 本轮扫到 15544 条, 新增 **12** 条
 
 ---
 
-## 本轮新发现 (16 条)
+## 本轮新发现 (12 条)
 
-### CCTV6发布打开电影看中国，跟着无名游上海
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923747_m1d5ae182303301f5d6.html>
-
-### 腾讯养老保险低成本投资赚十亿，陈情令国风演唱会线上付费直播盈利
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7811092777_m1d193d12903302lkm6.html>
-
-### 难怪蔡徐坤演唱会总是全裹出镜，一段粉丝视角曝光，难怪这么多年只穿长袖
+### 蔡徐坤香港演唱会 宝帮老爸吃播烤肉汉堡
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7811154182_m1d194c1060330224uc.html>
+- 链接: <https://k.sina.com.cn/article_7879923674_m1d5ae17da03301st2m.html>
 
-### 郝熠然新歌想你就写信
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1280846847_m4c582bff03302l6q8.html>
-
-### 郝熠然新歌想你就写信上线，词曲方文山周杰伦
+### 郝熠然立冬发新歌！方文山周杰伦联手打造
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5909342713_m1603969f903301ks4q.html>
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd8640680197jg.html>
+
+### 郝熠然立冬发新歌！方文山周杰伦操刀《想你就写信》
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801p996.html>
 
 ### 全国九城周杰伦出道26周年纪念歌友会&amp;vivo快闪活动圆满结束
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7811057114_m1d19345da03301wvi8.html>
+- 链接: <https://k.sina.com.cn/article_7879923946_m1d5ae18ea03303zx7k.html>
 
-### 美情报备忘录指与黄仁勋有过恋爱关系的中国女商人是国安部间谍
+### 美军拟寻求限制伊朗陆路贸易 美官员称习近平告诉特朗普同意伊朗绝不应拥核
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: RFI
-- 时间: 2026-11-07 08:55
-- 链接: <https://news.google.com/rss/articles/CBMiuwNBVV95cUxOTUtYeUR4NE83dk9mRHhQLTRWcHFQMDdsQzczUXR2SU1pMDRIY2VGWmlpd3ZIM1FmMTJkdjZoTTR3bWlZVnBtNmdWZmx3ZHVtbldESDlHUlBVYUgtbDAtdmpQd2hOMEtLWG1uSGZsVmM5Ty13ZFROeko0djAzd3lNMGI4ZzNqMlh4TVFTY1UxZ3hyZnVNeFhtbV8tYldZMVZObnh0VHI0NFNubEdXR1BGSks0NUZkU2Y0RjZqN0w3MTBwalpGckEzakQ4LUpPUk9UcFIxdEtvV0FQRlBIV2lvN0RUS1h2WXRLRDdFRHZieEUxMzU5UlgtZ3BzWnRWS2ZFNWhtZWI5VWtlbllsd3ZPWnRmNUp6SFM0bTAxT3QxQnR2SWlqbk95RXRuWFZOSGt6ejV1WGUxQlF2bkNsS0l3WU9WREpqZkh3NGJ0c0lOd09GVFBXTVRjbXZ1OHNjUkRpTXQySDBVaGZHbkQzLUczOE9ENW1HMUpzUEdLeXdhMnVXSUF4TkZfQVhOUzc1TWVhNlhRUmI0RTI4X1NwcXVlTEhtTjEyOWZfZktvdV9selpvLXBwTm9pUlpxOA?oc=5>
+- 时间: 2026-11-07 15:47
+- 链接: <https://news.google.com/rss/articles/CBMi-ANBVV95cUxOLWpyYkstN0VJLXpjSk40S0ZZZmprdFJzcEt6MVFCNkphX3gteG1YNk5Wa21Yc3pNUlRkYkdUdEc3SmgzeDd4S0dQQXFsanNidktXTDNZZVRJUnZBczhGbmVpdnk4TzZiRVpOOHVZWVRiWTVXV281VjRrZ1ZsTFhCcGx1WllyOWg5YVAyUGM2c2tyTExmbUJ4LWZUZnhWb2Y4c18zSjZRSEVmY0hLQ0lMYXFRb1NNWHFZYTlZTjJPUWRGNjI2TmE4b3VEbmFxWmdHeVF5Y0JtV3VwbFJCZFkyNUhpOE5MZkU3NTZCOTdGOWNTeDZxTmpyTk5KdWpvaHRMLUhfTUVRZjZ3c0p6UzB5N2UtTVV2cUk1dklDUTBpYlhhbHpKazJnNWpXb2FmQ2JWVUx0dEVIOTNmbkpobTZ5d2xFRHltTFRvRjFvMEdOU2pBdjA1VzJ2WnNWbndBdVR3RTBnV1BOLXVzRkpaOWU4ZGVqZF9hakRYUDZYdTU3LURORlQyZFI0MFZ1UDNBOWlrejZRWlBBQUNTbExJMW4tOUVDb3FGS05xenFDWDhIVWNPdGhiVUJmTE5rLXRLYkdUeTIyM0Y2YmdtNkNmeUxIVGI2ZWZYejVvTFVTQmFKeW9rajM1RW1GS2t6LVFIdDFzbFhaNDd0Sjk?oc=5>
 
-### 特朗普称美对伊朗实施“小型打击” 摧毁防空装置
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-11-07 08:55
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE54TldINHB2UmxIQ3FoWGpNbU84aXRGUUNtOURnVzJmM0czdXpXLWxHU0d1ZGpzQnBTUWYtNGdBZ0pucnhabUxSd21TOFg3Umd0d1hXMzNZTWtpVWhfZGQ4bEs4V1ViRUp5VlRJY3FpWnA?oc=5>
-
-### 不改变政策路线！特朗普撤换白宫幕僚长，任命“强硬派”Stephen Miller
+### 最新封面报道｜“蓝色海啸”扑向特朗普
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-11-07 03:44
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5DUTFScm5yeUVXejZyNnV3UUJvT1QybmhTR2sxdjRQSWpCMDdzUTZybzNaSkZNcGhBbDRwRHY0UnY4R3pEU3J1ZGQwUUdmNm5vSVFN?oc=5>
+- 场馆: 财新周刊
+- 时间: 2026-11-07 15:17
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE0xajB3QVdLZ1VMVW9faGZiTENaSE9HRzJjM21mdndDcWQ3U2NOa2dPUjFoMmRHMWFFVWRYWUpHYWotN0hvaV90M2ZhQXpBV1Y2YVBxZWpsSDZNNmo4UzVXNQ?oc=5>
 
-### 特朗普任命斯蒂芬·米勒为白宫办公厅主任
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-11-06 21:17
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9jX1l4VmVWVk1xVmllTEtsTEFiSXktRzNGNnB4ZDZuYU03OS1KSEd2LTd1RXBvY0RtN3NDemd2cXBmUXRGd3k4aDIzSzcxU2RhR3owalZBdERHbFNrTC1uWnk3eDNNdEdib0pqLVJOXzdYc2FZTGVZY0NMbEVHUWs?oc=5>
-
-### “蓝潮”无碍数据中心建设！白宫高官安抚市场 特朗普称100%支持SI
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-11-07 00:25
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE1wVkZydkh0UkhWd0tGUzBsN2VUdTNQVzhNV1hOYWNFQm1aUnhkdU04a2hha2txZXhzS0lDTEZ2d2E2bXBHbmRPdg?oc=5>
-
-### 特朗普被告知再袭伊朗时间窗口有限
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 浙江在线
-- 时间: 2026-11-07 03:02
-- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTFA1Wjd5MTRraTZ3Zl9GNE5qRlNfNm41RWFRcnUtRjBpQ3JBTmZfc2ZCQmx6WE16dVY0T2dKa243Zl9MaE5WWmZ2bmFvODh6dXVxWkxhbVRuOGtldjBQYXV5SnFJbTFIMXBVbzVOeVVB?oc=5>
-
-### 特朗普单方面宣布把太空开放给美国移民
+### 特朗普：美国应该算是“占领者”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-11-07 01:54
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9pYTc2a2dTTzNJTE9FZUFQODRsYVlMMnZGS2ZXU3UwS21Ud3ZLQXJMUGJ2a0hRdTVXaWhlREtpTlN1QWNScTE2aEdGd1M?oc=5>
+- 时间: 2026-11-07 09:49
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1LcjltczIzQ2hvUVE4X0FqQ1pWZm4yLTRielhpWWxMWjFKN0R6RHdMMHowUUFZc1BoMXVDVlozTUVNME43anhqV29palQ?oc=5>
 
-### 美国中期选举日！特朗普最后挣扎无果，府院之争即将开场
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-11-07 06:53
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE9oSHNjcVFSZXBqNlo3SzZad2FpaFBuMmN4MGFNQmw1WGtoTFNuTUpuZjliNEZFUlU4S25VUlBRcjVXQnIwYThiUWJ2Wi00RzlJbm51RzFRYWNZRVdIWXZPdnBFZmRqV3hzNDJfTkpLZzZuQQ?oc=5>
-
-### 特朗普任命斯蒂芬·米勒为白宫办公厅主任
+### 民主党议员放话：特朗普“准备好律师”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-11-07 07:08
-- 链接: <https://news.google.com/rss/articles/CBMihgFBVV95cUxNYUlESTRZN3c1MVlON0hobWc1Q0JmMXJBOWlVb2Vvc3JpZkZTNlNUWFZYNlVkSGdlSUlRYzJsNThQUmNQdUNCWmFXV1JjSUdfelV6cE5qMW0yWUlTLW9SbWc1dVFQRDBTNG5pc2h2cUFEXzZfOFhTbHpPekNnd0thN0YtTWt4QQ?oc=5>
+- 场馆: 新浪网
+- 时间: 2026-11-07 08:16
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBwajA3MnNDRWNmRmp5VDFSRGVfWjEzaG9ycGc0WjlzblJGX2xCSXU5a3RrTFpQZ2twcUJqUU1Bb2FyaGFnYTRGMVRqWQ?oc=5>
 
-### 白宫考虑通过行政令将部分非营利组织列为恐怖组织
+### 观察｜民主党重掌美国国会，特朗普执政遭遇重大挫折
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中国青年网
+- 时间: 2026-11-07 08:41
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pUXgydm9nenVhWFNEbE12SUpGTEJxanM1Z2F6bGtfS0xzTkNXRWJrcUVHSW9jZ2pKZ3lWbGpCdkZwSWtVM3Mwc0FkUVFEdk5QaGRCVWc3MGFySXpkQmY0Vk5Ba2FkOHc?oc=5>
+
+### 白宫首席顾问：特朗普不会因选举失利而调整经济政策
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-11-07 13:26
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBMQ19GZ244T095MEc2ZWxXamV1aGphT1hDQzR6NVg1a2FRV2NHcTFDOGxPUmFneFBkQllhMllpWEF3T3ZiWDh1OXJLUy1LcUFjZjY3REFXUDR4cnJFcUdyd2tyTGZfNHZHcnc?oc=5>
+
+### 特朗普签发中期选举后首份公告
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 京报网
+- 时间: 2026-11-07 11:14
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LUXJjN0MyUlYtaUt3TnM3b25tdkJ0MG5Md3JrTnRhQUpOSVlQeWs0ZTM1TlBYc0x6ZTZSdHVBOGpIUGdfejY0aEdIRXZxa3UyV3JqanNNbXkxb2lLV0E?oc=5>
+
+### Trump names new chief of staff after election shakeup
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-11-07 02:57
-- 链接: <https://news.google.com/rss/articles/CBMihgFBVV95cUxNVTZpdThfSUtpMkJuZEdaSHJLcHJ4RzZ4VVNqWjlZa2R6NVpoUjlLLU5DNGg0bkw1WUNrb0p3VEhIaG04cGVrdldOYkNlVGw3S0kyR3dFd2NkczZKRVJWU1hUaHZ5V21wY2lkSlh6Q0N2T2ctM0h5aWZoaW5QWHF3Yzc0Ujh4UQ?oc=5>
+- 场馆: TVB
+- 时间: 2026-11-07 10:56
+- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxPRF9zd3YxTUNhcUlPZVZ2LXhtSHUyN05SU3l5eEkwWk5aSm92V0N5SklSeXg2NnY3M2ZHYzZvWG5lWmI5bllSbmNrOVlwS2lsZzcxa2cwSlEtWUR3MUtteUZUWWVSOENHWVMxWFFKSG5jS0pyeVFHX1NFNWZtZnlTeWRKUQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-11-07 16:00  (12 条)
+
+- **蔡徐坤** | 蔡徐坤香港演唱会 宝帮老爸吃播烤肉汉堡 <https://k.sina.com.cn/article_7879923674_m1d5ae17da03301st2m.html>
+- **周杰伦** | 郝熠然立冬发新歌！方文山周杰伦联手打造 <https://k.sina.com.cn/article_7879776356_1d5abd8640680197jg.html>
+- **周杰伦** | 郝熠然立冬发新歌！方文山周杰伦操刀《想你就写信》 <https://k.sina.com.cn/article_7879923021_1d5ae154d06801p996.html>
+- **周杰伦** | 全国九城周杰伦出道26周年纪念歌友会&amp;vivo快闪活动圆满结束 <https://k.sina.com.cn/article_7879923946_m1d5ae18ea03303zx7k.html>
+- **特朗普** | 美军拟寻求限制伊朗陆路贸易 美官员称习近平告诉特朗普同意伊朗绝不应拥核 <https://news.google.com/rss/articles/CBMi-ANBVV95cUxOLWpyYkstN0VJLXpjSk40S0ZZZmprdFJzcEt6MVFCNkphX3gteG1YNk5Wa21Yc3pNUlRkYkdUdEc3SmgzeDd4S0dQQXFsanNidktXTDNZZVRJUnZBczhGbmVpdnk4TzZiRVpOOHVZWVRiWTVXV281VjRrZ1ZsTFhCcGx1WllyOWg5YVAyUGM2c2tyTExmbUJ4LWZUZnhWb2Y4c18zSjZRSEVmY0hLQ0lMYXFRb1NNWHFZYTlZTjJPUWRGNjI2TmE4b3VEbmFxWmdHeVF5Y0JtV3VwbFJCZFkyNUhpOE5MZkU3NTZCOTdGOWNTeDZxTmpyTk5KdWpvaHRMLUhfTUVRZjZ3c0p6UzB5N2UtTVV2cUk1dklDUTBpYlhhbHpKazJnNWpXb2FmQ2JWVUx0dEVIOTNmbkpobTZ5d2xFRHltTFRvRjFvMEdOU2pBdjA1VzJ2WnNWbndBdVR3RTBnV1BOLXVzRkpaOWU4ZGVqZF9hakRYUDZYdTU3LURORlQyZFI0MFZ1UDNBOWlrejZRWlBBQUNTbExJMW4tOUVDb3FGS05xenFDWDhIVWNPdGhiVUJmTE5rLXRLYkdUeTIyM0Y2YmdtNkNmeUxIVGI2ZWZYejVvTFVTQmFKeW9rajM1RW1GS2t6LVFIdDFzbFhaNDd0Sjk?oc=5>
+- **特朗普** | 最新封面报道｜“蓝色海啸”扑向特朗普 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE0xajB3QVdLZ1VMVW9faGZiTENaSE9HRzJjM21mdndDcWQ3U2NOa2dPUjFoMmRHMWFFVWRYWUpHYWotN0hvaV90M2ZhQXpBV1Y2YVBxZWpsSDZNNmo4UzVXNQ?oc=5>
+- **特朗普** | 特朗普：美国应该算是“占领者” <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1LcjltczIzQ2hvUVE4X0FqQ1pWZm4yLTRielhpWWxMWjFKN0R6RHdMMHowUUFZc1BoMXVDVlozTUVNME43anhqV29palQ?oc=5>
+- **特朗普** | 民主党议员放话：特朗普“准备好律师” <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBwajA3MnNDRWNmRmp5VDFSRGVfWjEzaG9ycGc0WjlzblJGX2xCSXU5a3RrTFpQZ2twcUJqUU1Bb2FyaGFnYTRGMVRqWQ?oc=5>
+- **特朗普** | 观察｜民主党重掌美国国会，特朗普执政遭遇重大挫折 <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pUXgydm9nenVhWFNEbE12SUpGTEJxanM1Z2F6bGtfS0xzTkNXRWJrcUVHSW9jZ2pKZ3lWbGpCdkZwSWtVM3Mwc0FkUVFEdk5QaGRCVWc3MGFySXpkQmY0Vk5Ba2FkOHc?oc=5>
+- **特朗普** | 白宫首席顾问：特朗普不会因选举失利而调整经济政策 <https://news.google.com/rss/articles/CBMiakFVX3lxTFBMQ19GZ244T095MEc2ZWxXamV1aGphT1hDQzR6NVg1a2FRV2NHcTFDOGxPUmFneFBkQllhMllpWEF3T3ZiWDh1OXJLUy1LcUFjZjY3REFXUDR4cnJFcUdyd2tyTGZfNHZHcnc?oc=5>
+- **特朗普** | 特朗普签发中期选举后首份公告 <https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LUXJjN0MyUlYtaUt3TnM3b25tdkJ0MG5Md3JrTnRhQUpOSVlQeWs0ZTM1TlBYc0x6ZTZSdHVBOGpIUGdfejY0aEdIRXZxa3UyV3JqanNNbXkxb2lLV0E?oc=5>
+- **Trump** | Trump names new chief of staff after election shakeup <https://news.google.com/rss/articles/CBMigwFBVV95cUxPRF9zd3YxTUNhcUlPZVZ2LXhtSHUyN05SU3l5eEkwWk5aSm92V0N5SklSeXg2NnY3M2ZHYzZvWG5lWmI5bllSbmNrOVlwS2lsZzcxa2cwSlEtWUR3MUtteUZUWWVSOENHWVMxWFFKSG5jS0pyeVFHX1NFNWZtZnlTeWRKUQ?oc=5>
 
 ### 2026-11-07 09:45  (16 条)
 
