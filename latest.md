@@ -1,25 +1,31 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-11-06 23:21**
-- 本轮扫到 15505 条, 新增 **13** 条
+- 最近更新: **2026-11-07 02:58**
+- 本轮扫到 15516 条, 新增 **11** 条
 
 ---
 
-## 本轮新发现 (13 条)
+## 本轮新发现 (11 条)
 
-### 蔡徐坤起亚品牌代言人发布信仰指引向前跑
+### 一博IG更新ciao！sic！ （：Wish You Were Here） 发布6图 快拍发布4图 ·
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7811247772_m1d1962e9c03301xikw.html>
+
+### 蔡徐坤直播谈新作与香港演唱会排练
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923942_m1d5ae18e603302djew.html>
+- 链接: <https://k.sina.com.cn/article_7811192899_m1d195584303301ha5o.html>
 
-### 共和党惨败后，特朗普的办公桌上出现一顶“否决帽”
+### 中期选举失利未改变美国总统作出重大外交决策
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-11-06 07:16
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFBsWkRWYjdhdmRiWjNGdUVPSWNGVllTTVFHdWJITXlSRzY2djFjVG9mSE96OVFyVm5jRkZZVUI5SXB4WGV6YW1iajRDcE1sbFQtVkdabGlDNjltNXh5R3NrUXZMbjE1WHFleGxvRk1ZN1lvWXc?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-11-07 01:40
+- 链接: <https://news.google.com/rss/articles/CBMijgFBVV95cUxPWjlQQXlMQjUycnU5ai1VOExHRmdUNTJFcUxFTEZEczA3YXJCNjJGRlF3anNYTlZhdVRGeGd0dG9PZEJrSnJuckFHTi1yRmFSNjczZU9ZNzFyM2h1QUtISHFqc1FIVFFDVW5nSi1TVHJSTVhrTmplOE9zREJqQ2VfdE8zX2dpUExaWmg0dU130gGQAUFVX3lxTE0zYUVkNk5waDJ3S0tQYzdhd2FKaEp3VlhTSzhpeWxwSThvd0xqeTM4VUtPckFnYWlMcFdJRU9YeU53NFFnZzUyM1VEZkJXSmZJTEo2Sko2cDR4Q0h4NENkVG5uazNmZU1uR3FSaDBiUHRERFlFMkhtM1pVS0lEZTZiLTNVVnJBQVZpQlFtYVZTVg?oc=5>
 
 ### AI投资过热引发美经济担忧，特朗普将股市大跌归咎于民主党
 
@@ -27,92 +33,82 @@
 - 来源: `googlenews`
 - 场馆: 凤凰网
 - 时间: 2026-11-06 22:37
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE84WE5uY1h6YmhScUVZeHVySi1rS1VKakFyNnczX1lOSkdsMWxPdzRKWGh5T3ZHZnphWXZ2UlJZTS1rLWtyTVJMcA?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5pU3UwZEFTVmpNSExMOUZacmU2NEdMNGxJT1YyUEpMQ2NXZV84MzJSUE1CZ2lHYUNVeE9MQ0VkNjlzYmtCRDNVMlpiR2o?oc=5>
 
-### 要闻分析 - 特朗普:将很快决定是否恢复对伊朗大规模军事行动
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-11-06 19:41
-- 链接: <https://news.google.com/rss/articles/CBMivgNBVV95cUxNN0dFS3ZCR0p4LXZYenJsR29JanlIZzJzTlZaeDhadGVoX0UwcWJET0QwV1pqR1M3ZjEtSXBKdnpjanlBR3d0TDdVM3NxXzh0OTc3VXVVZUVaTUdaNUhWN1ZnN1kzUEs5NWFnWjZTU0ZRcjNDS1c4N1RER2VZZFFBSExEbHRNUjBKQmJyRzY1MDdDRGRmZTR4Q0pyVlRtSWJ3MEpYQ1RScE0zZUNlaERBOGpNQUN4SmZjbmI1UHBLUnJtOFV6SVg4RFVWTWYwczJwMy1sUVZNSG5ZbGM0Y0RIaTRVbk1WOW0wbmx0ZzVfNkUwaGxrUjVXZFRMYkJvUlRLQXFwRkhHVmY3Y3hELWZXcGRRakdNQ0JUV3hkYzJHbjhoVF9Lb3lFZV9UUGFZU3dLQ0Nib19xdnRIZi1qNFUxSDRPTy1NQVhVMTBFZ1JmU0V5aWVJR052aFoyV2drX3FvUjZwSk5iblpGLXpRZXJaUFVxc0tJenlQUGR5dnJaM3plZHk0Yy1CU0RiZGM4YWpLZWdlWXFfelNiNVdZWFFKUkluODYtUmJ3cV84X182b0k1U0lmWll6UXdyQWhTZw?oc=5>
-
-### 特朗普称正在与伊朗进行沟通
+### 美国总统特朗普表示：......_7x24快讯_新浪财经
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪网
-- 时间: 2026-11-06 21:04
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9XNGpjMHlLeG5BcGpOX01yZklVSFR4T1loSDhrdDhmNndpWUt0Y3RDNnlMaWxsOWIzcTRzYWNWMkVwUUZpS3dNTWtYcw?oc=5>
+- 时间: 2026-11-07 00:55
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5JZzNWZmg2Q3VIUmp2a3ZqX1g2TWtGNUladm5vak0xZHU3S0lVYzZ2cmM1OEc3cC1ZcFRfV2lzSWswUTVOVDg2LWZ4SQ?oc=5>
 
-### 特朗普宣布新任白宫办公厅主任
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-11-06 20:10
-- 链接: <https://news.google.com/rss/articles/CBMingFBVV95cUxONzdHUTdUaExzVktkLUtENEEtTVpJbzhCZzlRYTJiVEE5ME1oaWcybE91dEdZbmlySFgyZjNZcUJ4OTBiT0ZubEJFc2Z5OTFJYkVjaUhFWGtEOENoMWhpNGhGZURiWWx0MXE5M2g0amN4a3ozYm1qMzJUQVByNURzTWFzZ3RRMGlMUE1lbzdHa2w2d1NqUzM1WUljRVY2QdIBoAFBVV95cUxPVmJFVkJuX21rQVVPYmRFUEhWVlRHNk9hYWZhZ1NzN2JnOUNkZ3JWNl90Sm4wcXVSdFlKUk5EejZILUtBZ0h3N0FoOEVjZ1ZBZ1FKQjU2QkY1c3RHSmlhNGZzQTFONWl1OUFlN1FNZGZfZXlqdUM5R1Y5Z0xFSWNzODNvNG9sOTBKUUtubFphUTJPZG1wYUQ4R2Z1MHl1Qmhp?oc=5>
-
-### 特朗普任命米勒接替怀尔斯出任白宫幕僚长
+### 特朗普称美方对伊朗实施“小型打击”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 香港電台
-- 时间: 2026-11-06 22:56
-- 链接: <https://news.google.com/rss/articles/CBMiowFBVV95cUxOT2ZXUTUwNGpJZXVkNVFBQmN0UWxaUnE2ZThsUFJlZzZfXzhrc2NEMXVUcmFrRUVRTGV3elkyaFBJek5iMkZwM2tvSzlGWmJLREo0bHhWbGR2cGh4aTQ0MExaWU9scXU4QjJDa2tGckRHTXhWdHZVQ1ExNGN4NzBtSWdiUk5PLXBDcVE1VllBclhlX25IaWlBQ0dPVmhzWHhzUU9Z?oc=5>
+- 场馆: 华尔街见闻
+- 时间: 2026-11-07 00:51
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5lRGJLNllKWjV4SG91c1dpdG1IOGQ3bklXQ0U2cXJxeVZQV0QwOWNZYVg4WUpXNEEwaEZzNmpKdEFNV2dGcXpsaGZEZC1DVDduaElV?oc=5>
 
-### “这项任命，几乎等同于特朗普宣战”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-11-06 22:57
-- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTE9VUE5sd3B4M3UyTDZjVlhzdG1CZmlRN3BOUjBZOVVNd3ppSElnQ1AxbWxDODQ0Vk1nQ3lSRk9WZlRCUVZFNFI2NTFMUTdUTFh3bVE?oc=5>
-
-### 特朗普兴建凯旋门计划受阻 白宫表示乐观
+### 特朗普宣布椭圆办公室和内阁会议室为国家纪念物
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-11-06 21:06
-- 链接: <https://news.google.com/rss/articles/CBMiuAJBVV95cUxNVE5BLUJZUkdoWDRrYnA2VENmY2poWTl6MFFnQThFT0hYZUhyMExvbnZuRTlwLW1TbjhzUUN1TUdzVjZNSlN2SzVwQUlsZEQza0NJMGI5YmUxUUxqU2xwM2Z0dTc5c25aMUdLS0xkeTQwZm9sYmR2VGdqcEdodTg0VTItNDJEZlV0NVpjUGhkTWc5Rnd2UHJFTXc2MVJsZmRlT2FxbFB5SkxCTVA4RXJneFhET296bG8xTWplSHFuTVRtOFJvVzEyWHVwVWtycVJ1b21yaHJPVUViNHZ3eG1MZGtQUmhleWlTb0VlRzlfYXNZQWx0eGpKM2Y5dWhyMEU3Mnh6TjBWX0d1MHJWbHY3U21tdFlub0xEYkhHWDRLOUF0QW84VTEzcC1URk9qREVjTTdYdmJGRFA?oc=5>
+- 场馆: 手机新浪网
+- 时间: 2026-11-06 23:55
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE1aekhQV2E1RVFlVGY0ajRQRXlROE8xM0txdDlfV0ZLVU5ZT04yY1lKSGtxYzZnRDRqQjhpSXQydTFUYzVlUlJnQlVxQ0ZRTmdEMEdnR2pZUWhtc1k0WG13TWs0TkVPZXhJNGFvbGZxVVFJQQ?oc=5>
 
-### 特朗普称百分之百支持超级智能：只有愚蠢的领导人才会对AI说不
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-11-06 12:59
-- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Id2lxSWoxeGl1b1VSS0QzRC1rdWMybXNhX2dRbVlYYWxJVncxek5tTG1aYjc4bHV4dmJiZW5NWlZBTmdSaFhvOEFNR1NBa3JzQUE?oc=5>
-
-### 俄乌代表都来了，特朗普只见了俄方
+### 特朗普任命新白宫办公厅主任 美副总统、国务卿、国防部长等人表态
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 腾讯新闻
-- 时间: 2026-11-06 11:26
-- 链接: <https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0N3UzZ1J4WTVBWHhKYzh4MVZWam9zV1BvVExXcms5VDlqa0x3TGZURDhKbTBsdUxoQllIS1NYMldsSlZBQ1pURHFsRER6UXNndldJQWxB?oc=5>
+- 场馆: 中国新闻网
+- 时间: 2026-11-07 00:54
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9NUEVnVlBrWnhodmpfS25vVlZITGhFeE10MkZkMEZsMlYzZ1YwNDhZdVE4TjM3d200VnBsX2szNDhiclM5N1htM19vbFlneGR2VTlCZG1XX21ubjlHdFV0SEQ0eWM1RHFv?oc=5>
 
-### 特朗普中期选举失利，各国重新审视对美关系
+### 特朗普帐下三人，何去何从
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华报业网
-- 时间: 2026-11-06 07:41
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE0yT3lrbVNZUWxieXBJQjJKaHFtc3NsdmR1U2tNMEJ0TG5DM3dqTTRyY0dwdlgwZkRMVnV1bkxyVjVreWkzTThKUmdRTmdzZHczelFyNDdBTDRlM0lyV3pJYjA0bVFyY3d4cEY0?oc=5>
+- 场馆: 上观新闻
+- 时间: 2026-11-07 00:36
+- 链接: <https://news.google.com/rss/articles/CBMiWkFVX3lxTFB1b2s3Q01LaUJnYzZDUkJYUzJMUFFjbTVLTGdjWVZwdXRiVE5QV0F3Y01peHFmdnZTcVR3c2NCdE5ZOHZMYU9ZYUVpOGtNZXRHOE9qUVdndllFQQ?oc=5>
 
-### 美中期选举：密西西比州还未有明确结果
+### 【美国中期选举】共和党惨败后 特朗普提拔强硬派心腹任幕僚长
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-11-06 23:03
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBqSTJLODB4SHUtYU42SmR3STh4enBHTmdDRmJPRkdhOFA5WE9VQW1Zd081Rl90RnJGNWw5c1FuVzRreVB6NVdKR2M2QkpWNlF5bzN1em8wQzB0ZlF4dndFemxjdTFOdlJralE?oc=5>
+
+### 特朗普致电卡塔尔领导人 讨论结束伊朗战争
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-11-06 21:00
-- 链接: <https://news.google.com/rss/articles/CBMirAJBVV95cUxORi11d2NQVVp3YU9lcXBZTm1NVzhYRWc2UnVUUVNULUc5Y0pHcFNZbmJTbnJlaEt1R2dxbW0xNXpEZDNXRDFTOE1TNlg2U2lSLUZuaXlEX2p6RU9TMDMyb0pJamx5b1lBanpiLUhENTNxekNBTnR2eTVwc1habHlWVzE1blFTbkRfNUh2dDVhNVV3dTRIWjl3bGM4TktieFJzWlZ3Tld5WVJXcnJFclpXdGVvUlZfZ0FVZWF6VDJzNWltQjA3VUU4U0V0cnY5YjMxQkNodmJCMW5QbURpVENuOGM2NHZNUDdhUEc2NExqbVJIMVJXMnpQRUhmQl8ya210QTFpOUNtaWJscVd6N1l4YzJvUTRsakFveDJtaTNXM1N4X3FPWTlyeVFtLUQ?oc=5>
+- 场馆: 8world
+- 时间: 2026-11-06 13:36
+- 链接: <https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xcHdrOVJTd2MyMjZYMHRidFA3ajhHOU1LZGpyVWJwY2JqQ0FUUGNkdkwtS25KbmlyU2ZTRVFwU09xZ2djSGpQQzVQRERjcXJkRDdIXy1qcVVnOHM?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-11-07 02:58  (11 条)
+
+- **王一博** | 一博IG更新ciao！sic！ （：Wish You Were Here） 发布6图 快拍发布4图 · <https://k.sina.com.cn/article_7811247772_m1d1962e9c03301xikw.html>
+- **蔡徐坤** | 蔡徐坤直播谈新作与香港演唱会排练 <https://k.sina.com.cn/article_7811192899_m1d195584303301ha5o.html>
+- **特朗普** | 中期选举失利未改变美国总统作出重大外交决策 <https://news.google.com/rss/articles/CBMijgFBVV95cUxPWjlQQXlMQjUycnU5ai1VOExHRmdUNTJFcUxFTEZEczA3YXJCNjJGRlF3anNYTlZhdVRGeGd0dG9PZEJrSnJuckFHTi1yRmFSNjczZU9ZNzFyM2h1QUtISHFqc1FIVFFDVW5nSi1TVHJSTVhrTmplOE9zREJqQ2VfdE8zX2dpUExaWmg0dU130gGQAUFVX3lxTE0zYUVkNk5waDJ3S0tQYzdhd2FKaEp3VlhTSzhpeWxwSThvd0xqeTM4VUtPckFnYWlMcFdJRU9YeU53NFFnZzUyM1VEZkJXSmZJTEo2Sko2cDR4Q0h4NENkVG5uazNmZU1uR3FSaDBiUHRERFlFMkhtM1pVS0lEZTZiLTNVVnJBQVZpQlFtYVZTVg?oc=5>
+- **特朗普** | AI投资过热引发美经济担忧，特朗普将股市大跌归咎于民主党 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5pU3UwZEFTVmpNSExMOUZacmU2NEdMNGxJT1YyUEpMQ2NXZV84MzJSUE1CZ2lHYUNVeE9MQ0VkNjlzYmtCRDNVMlpiR2o?oc=5>
+- **特朗普** | 美国总统特朗普表示：......_7x24快讯_新浪财经 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5JZzNWZmg2Q3VIUmp2a3ZqX1g2TWtGNUladm5vak0xZHU3S0lVYzZ2cmM1OEc3cC1ZcFRfV2lzSWswUTVOVDg2LWZ4SQ?oc=5>
+- **特朗普** | 特朗普称美方对伊朗实施“小型打击” <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5lRGJLNllKWjV4SG91c1dpdG1IOGQ3bklXQ0U2cXJxeVZQV0QwOWNZYVg4WUpXNEEwaEZzNmpKdEFNV2dGcXpsaGZEZC1DVDduaElV?oc=5>
+- **特朗普** | 特朗普宣布椭圆办公室和内阁会议室为国家纪念物 <https://news.google.com/rss/articles/CBMickFVX3lxTE1aekhQV2E1RVFlVGY0ajRQRXlROE8xM0txdDlfV0ZLVU5ZT04yY1lKSGtxYzZnRDRqQjhpSXQydTFUYzVlUlJnQlVxQ0ZRTmdEMEdnR2pZUWhtc1k0WG13TWs0TkVPZXhJNGFvbGZxVVFJQQ?oc=5>
+- **特朗普** | 特朗普任命新白宫办公厅主任 美副总统、国务卿、国防部长等人表态 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9NUEVnVlBrWnhodmpfS25vVlZITGhFeE10MkZkMEZsMlYzZ1YwNDhZdVE4TjM3d200VnBsX2szNDhiclM5N1htM19vbFlneGR2VTlCZG1XX21ubjlHdFV0SEQ0eWM1RHFv?oc=5>
+- **特朗普** | 特朗普帐下三人，何去何从 <https://news.google.com/rss/articles/CBMiWkFVX3lxTFB1b2s3Q01LaUJnYzZDUkJYUzJMUFFjbTVLTGdjWVZwdXRiVE5QV0F3Y01peHFmdnZTcVR3c2NCdE5ZOHZMYU9ZYUVpOGtNZXRHOE9qUVdndllFQQ?oc=5>
+- **特朗普** | 【美国中期选举】共和党惨败后 特朗普提拔强硬派心腹任幕僚长 <https://news.google.com/rss/articles/CBMiakFVX3lxTFBqSTJLODB4SHUtYU42SmR3STh4enBHTmdDRmJPRkdhOFA5WE9VQW1Zd081Rl90RnJGNWw5c1FuVzRreVB6NVdKR2M2QkpWNlF5bzN1em8wQzB0ZlF4dndFemxjdTFOdlJralE?oc=5>
+- **Trump** | 特朗普致电卡塔尔领导人 讨论结束伊朗战争 <https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xcHdrOVJTd2MyMjZYMHRidFA3ajhHOU1LZGpyVWJwY2JqQ0FUUGNkdkwtS25KbmlyU2ZTRVFwU09xZ2djSGpQQzVQRERjcXJkRDdIXy1qcVVnOHM?oc=5>
 
 ### 2026-11-06 23:21  (13 条)
 
