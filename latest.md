@@ -1,88 +1,91 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-11-07 20:22**
-- 本轮扫到 15553 条, 新增 **9** 条
+- 最近更新: **2026-11-07 23:45**
+- 本轮扫到 15561 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (9 条)
+## 本轮新发现 (8 条)
 
-### 特朗普邀格斗界大佬出任白宫新闻秘书
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-11-07 19:35
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9fU3RpUzBBTjdscElBQWQ2N3NTWTFWRHhYd3hmM3IwZ0RvLWNzRFVxczZaTGNkdHhHNVdhbWlQejNub0o3YXRmc3Z6dFg?oc=5>
-
-### 热点问答丨中期选举惨败，特朗普政府人事动荡开启？
+### “共和党惨败后，万斯开始与特朗普保持距离”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-11-07 09:56
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE11WWZfWFZiSnJkb0RPT0JNVS1tUDdqQXg5eVFWVjlKSGc2TndXQy1lcWVfNnZMamFBLS1jdm9iNWlyVjJ2M19DTEpvSzNEbXpxbDNUMmRQdHNNbFdUZEdCeW5JSjZrLUxDNC1OeDdPT1Y5YzB1LWZSOS1qVzRUbXc?oc=5>
+- 场馆: 观察者网
+- 时间: 2026-11-07 23:28
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1MMFNDQ0llcUpZX2lJc3JLQkt0WVZwSzJzRmpvU0dlSk9PeW02bjd0Rm9RMGlGdEhHWl9TZFNkQXZabjMxaDdub3VMUElnMnFiX3l0UGxoaEhzVHFlSncxNTBnTGlvTEtkS1RIcUQtTjVMZDA?oc=5>
+
+### 美媒：特朗普邀格斗界大佬出任白宫新闻秘书，被拒了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: view.inews.qq.com
+- 时间: 2026-11-07 23:04
+- 链接: <https://news.google.com/rss/articles/CBMiV0FVX3lxTE9wOThkWTdXT0ctZk9fVWZjOGN3Y0Y3a25pcFAwS1lsZlE5ZW12bEl5SzJEM0dPMDhIUkczZ3JkSWszY3ZTRmNGVjRHN1RXQTR2VzU4TDF2OA?oc=5>
+
+### 特朗普：达娜·怀特已获邀担任白宫新闻秘书一职。
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-11-07 18:41
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9nYVpwVFp4bzdSTlczbVVDdm1oYmdUaklUdlliRV9Td1o2WmZHRmFpeWtZZk43N01BakthOHU0elExZFlvZWVEZHRSYw?oc=5>
+
+### 特朗普：要求怀特带一些助手来，“尽管有些不是我们国家的人”。
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-11-07 19:09
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE56TnpzTWVlOFNaR2dKZVhmWTNqeDJTVld3UElvZVBXMEFXdEZpQ1FOdzN0Q3RmMTRIRUhvWWZkMWw0VHdoZUNGUnNBcw?oc=5>
+
+### 局面棘手！亚特兰大 G20 乱象显现 特朗普政府操盘 峰会能否顺利？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 手机新浪网
+- 时间: 2026-11-07 21:55
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFBGR3FiU01tWEwzX0tmbld4RHh0NTZoNmZoV0phTmh6Uld4NFV6REZjcFlQa2lWdkQzaXVQZjBxSF8zbU5JbUJWaW1pQ0pQel9PUW8wbHlCTjM3RHBvQ2FWc29rTk41SjVQZ1ZpM2tQS2F4UQ?oc=5>
+
+### 一非法移民来白宫行刺特朗普未遂 持械威胁再现
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华军事
+- 时间: 2026-11-07 10:44
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFA1T01qUWg4MmQ0Ty1xd2RvUHh6S1VCYTBvd21VN3hYN3hXa0l4clFtaFo0ZzJRdE1zazJCSS1sYnV6M0pLTjNqSlBPZXZOM05sbnU0ZWlhS0pyQnd4YktHbFdYVmxWVi1WbkZyanVJb00?oc=5>
 
 ### 特朗普：民主党人在威胁很多人，这是敲诈勒索。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪网
-- 时间: 2026-11-07 17:57
-- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE9SaDliQUpCRXNWWWh1dTd2MGwtS0tuMGNYRi1kcUZtbXA5eHpSX0R5YTYteFRFb0RlR0lOclk3SjlScWQ2QUpaakpOaURibm8?oc=5>
+- 时间: 2026-11-07 19:58
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9TMUp2YUpaMTVhWEZrTHI5eXNBbk5IeTBuQlpGUnBXTHlzX2d5ZWhwUS1KX05tY0RzMUVBcVRfWndQWk15RFhfTTYwaw?oc=5>
 
-### 要闻解说 - 美国促中国“全面、立即”履行釜山协议承诺
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-11-07 12:25
-- 链接: <https://news.google.com/rss/articles/CBMihANBVV95cUxNNmExalVJbS1PclZtM2x4dWgxR2JTaURMbkNBWVhVOHJDbS1OQm9MMG12NlNoYnJhVG5LV1NNcmlRWW1sUkdqVzN2SVlaWUt2c0hneFNSSkVUVmk3S2ZTcFRMZUt4ZW5rNXhMN1hFTUItaV9FbC01ejdWMHdHNm1RY1BkRlRmUlQyUGp3VTFqZ21sTlF5RGxsamxJM1hkNzhWb1ctclRYT01rUTZfc1NhNXotV1F3dVpuMHdxVDVGM1JoX3hETXlqaTdKZ1h3aV82V1BSUDNzZVBfc3c5ZnZ6VTVLZDNSYlA2djZfRDFVVUczYTVHSmpOSWgtY0xTVGE3cWpmcWg5aUw3Tzh6cG16MzVBYXdtOGRibF9PZjdGRjQ5bmF6ek5BRWZtdk1ZR0EyUVdHWGJUUm1xMDV3TkY3U0RuRXNCaklhb2U0Mm5GS0w4VmR2dUNaaVhrbldMcFNGM2FZRi1NenNHZjZrWWFhRmlnb3FhSHZjYWZkdjdybzYtRGRZ?oc=5>
-
-### 不谋全局不足以谋一域，特朗普改口后，伊朗要报复英国德国意大利
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 风闻
-- 时间: 2026-11-06 18:46
-- 链接: <https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQSUJQYXBhM25WZ0g2NEdWSzU0cFBTLVVpRUlxcmgwZXE0UndKMXRzZDZaOGxkSEhjUGZ4WmNvbE9JT1NCWVhrdUh0WmpvUl9YMkM5NWF0TnQ4SlE?oc=5>
-
-### 中期选举失利后，特朗普任命移民强硬派米勒为白宫幕僚长，民主党誓言对抗
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: DW.com
-- 时间: 2026-11-07 12:42
-- 链接: <https://news.google.com/rss/articles/CBMi3AJBVV95cUxPaFRKd0xrMDZXcVhhRnRDbVlXTFpTcW80NTBSaXpQODNNQ214ekVmbVVHeG01cnNpZXhkQ3VYZGhXbmNNOVJJTU5xZUkxeVhVWm5MWHN1RkFrN2M3MFp3VDVpMDhvQjJzU3BySWItdXhIem9uNmdUVWQ3Sy02X3BxWm5iYzd4V1QyZXI5bFpPSVh6d1pDN3ZSWHpnbmdEaUNtdDZJM21mNU9ZcHUzMVRiRUxpQ1pQRW9WdXg3ZHptb2Q1cGhrMGVKTlRqdm9PcEVyLVdYUUpBZnZiZ0NHa0FBY0xpNnlkVjdiMUJSQXRFcUF4aU0yQlE0S2RYMFA2Y1Z0bUE5Q21TY05PSS01Z0g1SWtUSEpyYWFjR0lIcjBVRk5VUkhaWWtRWEtSQVNuVzJiR3FTWl95RzFlTWtRUFpNUzIyeWtkU3BDU2hVWkRqd0hEODIyTEFqQkE1ZVbSAdwCQVVfeXFMTlByQTA3Y3FtenVlOF80Z0o3cWZkd3NlbkMtNm9YNEtHS2ZKZ0dZM1YtdzRlSFZOS2hPMUtud3otMFBwNmZXaVNscFFrbXJsSEpkVmtJSEJ5S1pGaGRESnAyZ0ZNQXRBb0xfZ3R2LW8wMS1maXBUMzU0c1dfRzJQbkVmT3N1c2pNc1BzbkZmdS1UU25yUGx2Und4djAtVmY2OGlrd2RMTGZIMEF2VGVjYjNwRmd0QTUwaFVJT2d6SnhicndWQk54UW00dEJUbnBvWlllb3NlXzY1X2thSWphY1FXRXdlM0lSam1tSEw0MU9qMVBycEhmcktUUXFsY0ljcU1QTVlLZnhrLTk2Z01WQTRXTWRsTUVYVnhfX3FGaUZWbXltZmR6VGwycGFsOS1iUzNHbGpFRzFmcHdsdGZNalFnQlotSl9hUy02anlMSWpRcDhxcHVURTZBR005?oc=5>
-
-### 特朗普宣布任命斯蒂芬·米勒为白宫幕僚长
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中国新闻网
-- 时间: 2026-11-06 22:40
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE56LUVwVjUwS3k1dTM0Ymp5LW1KRDRyandKVHhHWkYwRmQ3WHQyWlNQV041cUg1ZnRZTi1MZEFzeWdUT3YwcjdqWVJrZ3RNMG9nOVJEZmxvX1dlU3NFdE53Y2pPcTc1d0Fo?oc=5>
-
-### 华盛顿呼吁北京当局尊重双方贸易协定条款
+### 特朗普公开邀请UFC总裁出任白宫新闻发言人
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: RFI
-- 时间: 2026-11-06 20:52
-- 链接: <https://news.google.com/rss/articles/CBMiwwJBVV95cUxQV04waGl5LUhiODU3QmNoYjBDVGVEOHZmczdENW5HMC1ocERFTWlVMllVZHRBUWRpMW5FQjhpVFJpWEJXeXB0TWVVQ3pUaFlLa2hrNnZGRG1HWG96MG5nN0V2cUJXRU5JSmo1YlNHRDJkazVjUmE4eFEtWlM3cXkwUGtYaUw0VFZfQkN4QnhQZk1MSHQ1eXJrdGx0N0FQTHZDLTBtRDJ1YkJMUms3QlMxZ2YweWlfRkRDclhmX3R3MjhqY05tRGNpTEVlSW81eDB3WXFaeFJQNHVicDljazZ2c0dsQS1ZelBQM3U5aXB0QWhVQTBuTXlLbFZGTk8wTVhiTzRTdEJpQkdaOG1weGhQM3RvdW9BMEsyMlhSSGFZXzFNeTR6WmxoaDdiMGRFWjVJM3lpUzRSV2ZLbTdKSnUxU1pCTQ?oc=5>
-
-### 海湾地区3万亿美元的美国投资计划面临特朗普中期选举后的清算
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Al-Monitor
-- 时间: 2026-11-07 07:29
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTFBNNS12UEJfX0lnNkZmY285MVBBeExRdVJKS24tSktDOXlhYnBQelZIRnpkeTdqMXBra2Q3YVI3MjNKLXh0N0NBWnkxaGJFUVhmVjhKZFp1YWYyanQ4ckZCcnQ3ZlV0dw?oc=5>
+- 时间: 2026-11-07 20:35
+- 链接: <https://news.google.com/rss/articles/CBMiuwJBVV95cUxNWW03Z0xzNUppaXdwdENKdFRCOC1IcnQ5WEZNOEdvY3otcnF6WkVoRW1RZ1RyR3ZCaWs0Z2lWUENVamhxZEhicEw1MWVrTm4tdWg1VzF4bGhhNjVHdmJXZ1JfTFVadUVfTi1KQmZpMlZuR0ZqejFpZmtOYW41cXJKNl9pMFRvcFh5dS1WWmNlS19PUnJNQWNLM2pqSUplMTNCZ2doczFlaFkxVTcxanVySTgwVTBWU0tZU1dpbXJuSERpc0dQTzBlTkhHaElVNmtXaFZjQ0dsQTBkcVlNU01Pak01YmY5RDUxS0tCUXNyYXBHdGxGLXpteUt5MGI2MGdyYUt0aUdCOVpITlliRXVXbmRZS1lnLUlwYUFZTGdhRUZJd0VWOHVGVk1TTFpXWWhyQWFhTURhcjNTZW8?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-11-07 23:45  (8 条)
+
+- **特朗普** | “共和党惨败后，万斯开始与特朗普保持距离” <https://news.google.com/rss/articles/CBMic0FVX3lxTE1MMFNDQ0llcUpZX2lJc3JLQkt0WVZwSzJzRmpvU0dlSk9PeW02bjd0Rm9RMGlGdEhHWl9TZFNkQXZabjMxaDdub3VMUElnMnFiX3l0UGxoaEhzVHFlSncxNTBnTGlvTEtkS1RIcUQtTjVMZDA?oc=5>
+- **特朗普** | 美媒：特朗普邀格斗界大佬出任白宫新闻秘书，被拒了 <https://news.google.com/rss/articles/CBMiV0FVX3lxTE9wOThkWTdXT0ctZk9fVWZjOGN3Y0Y3a25pcFAwS1lsZlE5ZW12bEl5SzJEM0dPMDhIUkczZ3JkSWszY3ZTRmNGVjRHN1RXQTR2VzU4TDF2OA?oc=5>
+- **特朗普** | 特朗普：达娜·怀特已获邀担任白宫新闻秘书一职。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9nYVpwVFp4bzdSTlczbVVDdm1oYmdUaklUdlliRV9Td1o2WmZHRmFpeWtZZk43N01BakthOHU0elExZFlvZWVEZHRSYw?oc=5>
+- **特朗普** | 特朗普：要求怀特带一些助手来，“尽管有些不是我们国家的人”。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE56TnpzTWVlOFNaR2dKZVhmWTNqeDJTVld3UElvZVBXMEFXdEZpQ1FOdzN0Q3RmMTRIRUhvWWZkMWw0VHdoZUNGUnNBcw?oc=5>
+- **特朗普** | 局面棘手！亚特兰大 G20 乱象显现 特朗普政府操盘 峰会能否顺利？ <https://news.google.com/rss/articles/CBMickFVX3lxTFBGR3FiU01tWEwzX0tmbld4RHh0NTZoNmZoV0phTmh6Uld4NFV6REZjcFlQa2lWdkQzaXVQZjBxSF8zbU5JbUJWaW1pQ0pQel9PUW8wbHlCTjM3RHBvQ2FWc29rTk41SjVQZ1ZpM2tQS2F4UQ?oc=5>
+- **特朗普** | 一非法移民来白宫行刺特朗普未遂 持械威胁再现 <https://news.google.com/rss/articles/CBMicEFVX3lxTFA1T01qUWg4MmQ0Ty1xd2RvUHh6S1VCYTBvd21VN3hYN3hXa0l4clFtaFo0ZzJRdE1zazJCSS1sYnV6M0pLTjNqSlBPZXZOM05sbnU0ZWlhS0pyQnd4YktHbFdYVmxWVi1WbkZyanVJb00?oc=5>
+- **特朗普** | 特朗普：民主党人在威胁很多人，这是敲诈勒索。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9TMUp2YUpaMTVhWEZrTHI5eXNBbk5IeTBuQlpGUnBXTHlzX2d5ZWhwUS1KX05tY0RzMUVBcVRfWndQWk15RFhfTTYwaw?oc=5>
+- **Trump** | 特朗普公开邀请UFC总裁出任白宫新闻发言人 <https://news.google.com/rss/articles/CBMiuwJBVV95cUxNWW03Z0xzNUppaXdwdENKdFRCOC1IcnQ5WEZNOEdvY3otcnF6WkVoRW1RZ1RyR3ZCaWs0Z2lWUENVamhxZEhicEw1MWVrTm4tdWg1VzF4bGhhNjVHdmJXZ1JfTFVadUVfTi1KQmZpMlZuR0ZqejFpZmtOYW41cXJKNl9pMFRvcFh5dS1WWmNlS19PUnJNQWNLM2pqSUplMTNCZ2doczFlaFkxVTcxanVySTgwVTBWU0tZU1dpbXJuSERpc0dQTzBlTkhHaElVNmtXaFZjQ0dsQTBkcVlNU01Pak01YmY5RDUxS0tCUXNyYXBHdGxGLXpteUt5MGI2MGdyYUt0aUdCOVpITlliRXVXbmRZS1lnLUlwYUFZTGdhRUZJd0VWOHVGVk1TTFpXWWhyQWFhTURhcjNTZW8?oc=5>
 
 ### 2026-11-07 20:22  (9 条)
 
