@@ -1,80 +1,98 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-11-07 23:45**
-- 本轮扫到 15561 条, 新增 **8** 条
+- 最近更新: **2026-11-08 03:51**
+- 本轮扫到 15570 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (9 条)
 
-### “共和党惨败后，万斯开始与特朗普保持距离”
+### 《灌篮高手》主题曲一出，李晨郑恺瞬间兴奋，梦回青春年少
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-11-07 23:28
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1MMFNDQ0llcUpZX2lJc3JLQkt0WVZwSzJzRmpvU0dlSk9PeW02bjd0Rm9RMGlGdEhHWl9TZFNkQXZabjMxaDdub3VMUElnMnFiX3l0UGxoaEhzVHFlSncxNTBnTGlvTEtkS1RIcUQtTjVMZDA?oc=5>
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_6579089051_m18824ee9b033028axc.html>
 
-### 美媒：特朗普邀格斗界大佬出任白宫新闻秘书，被拒了
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: view.inews.qq.com
-- 时间: 2026-11-07 23:04
-- 链接: <https://news.google.com/rss/articles/CBMiV0FVX3lxTE9wOThkWTdXT0ctZk9fVWZjOGN3Y0Y3a25pcFAwS1lsZlE5ZW12bEl5SzJEM0dPMDhIUkczZ3JkSWszY3ZTRmNGVjRHN1RXQTR2VzU4TDF2OA?oc=5>
-
-### 特朗普：达娜·怀特已获邀担任白宫新闻秘书一职。
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-11-07 18:41
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9nYVpwVFp4bzdSTlczbVVDdm1oYmdUaklUdlliRV9Td1o2WmZHRmFpeWtZZk43N01BakthOHU0elExZFlvZWVEZHRSYw?oc=5>
-
-### 特朗普：要求怀特带一些助手来，“尽管有些不是我们国家的人”。
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-11-07 19:09
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE56TnpzTWVlOFNaR2dKZVhmWTNqeDJTVld3UElvZVBXMEFXdEZpQ1FOdzN0Q3RmMTRIRUhvWWZkMWw0VHdoZUNGUnNBcw?oc=5>
-
-### 局面棘手！亚特兰大 G20 乱象显现 特朗普政府操盘 峰会能否顺利？
+### 美科技股暴跌，特朗普：我百分之百支持超级智能（SI），这就是金矿！只有愚蠢的领导人，才会对它带来的巨大财富说“不”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 手机新浪网
-- 时间: 2026-11-07 21:55
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFBGR3FiU01tWEwzX0tmbld4RHh0NTZoNmZoV0phTmh6Uld4NFV6REZjcFlQa2lWdkQzaXVQZjBxSF8zbU5JbUJWaW1pQ0pQel9PUW8wbHlCTjM3RHBvQ2FWc29rTk41SjVQZ1ZpM2tQS2F4UQ?oc=5>
+- 时间: 2026-11-08 02:53
+- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxPel9TRkFHaVZXamxFM1k5eTFCNEdrTnpzRjhOV1NzSF9EekpGc3VfQlJRYUJKRmJNWUhEbmpCOGF3MmwybUVqbnNtbGE1TVhVbE9Hd01FWUl3YktTWmZwdF9XeDdkVFFWM0d4dUpEMERWWFB1ODZDWE5pWXJzd240TEJNbw?oc=5>
 
-### 一非法移民来白宫行刺特朗普未遂 持械威胁再现
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华军事
-- 时间: 2026-11-07 10:44
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFA1T01qUWg4MmQ0Ty1xd2RvUHh6S1VCYTBvd21VN3hYN3hXa0l4clFtaFo0ZzJRdE1zazJCSS1sYnV6M0pLTjNqSlBPZXZOM05sbnU0ZWlhS0pyQnd4YktHbFdYVmxWVi1WbkZyanVJb00?oc=5>
-
-### 特朗普：民主党人在威胁很多人，这是敲诈勒索。
+### 特朗普邀UFC总裁任新闻秘书遭拒
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪网
-- 时间: 2026-11-07 19:58
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9TMUp2YUpaMTVhWEZrTHI5eXNBbk5IeTBuQlpGUnBXTHlzX2d5ZWhwUS1KX05tY0RzMUVBcVRfWndQWk15RFhfTTYwaw?oc=5>
+- 时间: 2026-11-07 23:29
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFAwWTBaWV9qdzhSYi0tX29RT0lsRU9ieUhZSVgwUF9IUTlkRzNHT1FMc0xyWEh6Q2oySEI4aGdnNXNJV2ZZZWR2MTJ5aw?oc=5>
 
-### 特朗普公开邀请UFC总裁出任白宫新闻发言人
+### 特朗普遭刺杀威胁，美特勤局在白宫附近抓获一名委内瑞拉非法移民，查获枪支
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 搜狐网
+- 时间: 2026-11-08 01:09
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxNeTdHZzJhclFfODZjREVSTW5xVndpT3ZpbXlBTURkNHREU0JEMHdqTTl2Q0VkZWJTclprM1dzN3p6M1RhcVk5WTdlalUtY3Y4aGpYS05XZmN3UXhPOHRGNHdkTDlxVXRwem1VcDJEV2hvbHJhZUxQOHFnZTFKaENxbndvSFVJX2xoTDZxZg?oc=5>
+
+### 美国媒体确认：特朗普称将很快决定是否进一步打伊朗；伊朗再击落一架美军MQ-1无人机，向美国提交一份涉核提议
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: QQ News
+- 时间: 2026-11-06 22:54
+- 链接: <https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtTUtMd0JIYmtiWVROM09UTlZWZEFtMXdGakkyYVlUaUVBZmc5ZkxPZUF1emNiLVVjYWpLV0RQZ3h5a05vdGpZZGcyYzVZVUlncWhWZnBn?oc=5>
+
+### “当门砰一声关上时，特朗普仍在对威尔斯咆哮…”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者网
+- 时间: 2026-11-08 03:03
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE0zYWFXVndJcmxPMy1nX3ZfdDBydGpybUQzUGlUdzhoUE9jbTQ1eGEydDd2ejQtb3dTV2FPWkUxenFla3dRdm5sVTQ2R2R5THNweTJNYWp2Wml0Z25lVVhKOHp0TERCVXZuZV9HR2RNTWhaUHc?oc=5>
+
+### 特朗普宣布邀请达纳·怀特担任白宫新闻秘书
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 21财经
+- 时间: 2026-11-07 22:18
+- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxNRzk0UVVaQWw3UlA5aE1reFpGbWw4Q0xkWnV3b2VndGhYR3JLSG54bVRIcVJTUlVCRGRnRWNmYUljaUtiOWhST1lHTzgydVo1bVVYMERJbkxHRnBmU0o4Q0l6Z212STAtOThhellIRnVzTnhSRFpxNThmRmJJSUlBQ3l4U25xckk2X1dxSWNUSQ?oc=5>
+
+### 特朗普称邀请达纳·怀特担任白宫新闻秘书
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中国新闻网
+- 时间: 2026-11-08 02:15
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9OVzNfZWZqR3A3YW9WWS1rdUxXQllyTVJMNWxSSGgzdDJudF9WQ0ZLUk5lRnFCQW9BYzdCcmk1aURQb3YtcmhUcEItMzJCbWdlWWhUOHFrSFJHM0xTTEhnZE1YeE53NlF1?oc=5>
+
+### 卢拉获胜，特朗普掌控巴西稀土资源的希望破灭
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-11-07 20:35
-- 链接: <https://news.google.com/rss/articles/CBMiuwJBVV95cUxNWW03Z0xzNUppaXdwdENKdFRCOC1IcnQ5WEZNOEdvY3otcnF6WkVoRW1RZ1RyR3ZCaWs0Z2lWUENVamhxZEhicEw1MWVrTm4tdWg1VzF4bGhhNjVHdmJXZ1JfTFVadUVfTi1KQmZpMlZuR0ZqejFpZmtOYW41cXJKNl9pMFRvcFh5dS1WWmNlS19PUnJNQWNLM2pqSUplMTNCZ2doczFlaFkxVTcxanVySTgwVTBWU0tZU1dpbXJuSERpc0dQTzBlTkhHaElVNmtXaFZjQ0dsQTBkcVlNU01Pak01YmY5RDUxS0tCUXNyYXBHdGxGLXpteUt5MGI2MGdyYUt0aUdCOVpITlliRXVXbmRZS1lnLUlwYUFZTGdhRUZJd0VWOHVGVk1TTFpXWWhyQWFhTURhcjNTZW8?oc=5>
+- 场馆: IDNFinancials
+- 时间: 2026-11-08 00:00
+- 链接: <https://news.google.com/rss/articles/CBMixwJBVV95cUxNS1NlQ0d0S3lJZ19ZQmctWmd0OW1kdGFmdTN1UGtoamRvaU5jYzRpNThCMWM5MDlGejdfWHRsQzhDQmtUVUlSbW80Mkk3dklTV244RnVXazQwaTYwTE1Jd2hKbDk0RXJmYk1RTUpoVTZNSi1MeU1KU2FESWNZZndJMVprR3hzbGY4dGVEWXJJX2FrVmhzdURLNnY0bUpBX2pfR0plMk84X1BaZVd4cVExdThtckhWQzNVZ0t2X2Nfdk40eHhROFg4eG40amVIM2RneUxiaUhmNkVRTFd6R0xzeU93S2pOeXRyZXd3aTdBYUZLU3BxcVZQNi1iMkE5Q0N0MFJzem9reGF4V25YYUtBbGZJbDBac2JLLVZiTGpRVUd2NjF0SDFJWFdPYy1fUkR0a3V3cFJEQTNzSmotcEJvdkdzamhRQzQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-11-08 03:51  (9 条)
+
+- **蔡徐坤** | 《灌篮高手》主题曲一出，李晨郑恺瞬间兴奋，梦回青春年少 <https://k.sina.com.cn/article_6579089051_m18824ee9b033028axc.html>
+- **特朗普** | 美科技股暴跌，特朗普：我百分之百支持超级智能（SI），这就是金矿！只有愚蠢的领导人，才会对它带来的巨大财富说“不” <https://news.google.com/rss/articles/CBMigwFBVV95cUxPel9TRkFHaVZXamxFM1k5eTFCNEdrTnpzRjhOV1NzSF9EekpGc3VfQlJRYUJKRmJNWUhEbmpCOGF3MmwybUVqbnNtbGE1TVhVbE9Hd01FWUl3YktTWmZwdF9XeDdkVFFWM0d4dUpEMERWWFB1ODZDWE5pWXJzd240TEJNbw?oc=5>
+- **特朗普** | 特朗普邀UFC总裁任新闻秘书遭拒 <https://news.google.com/rss/articles/CBMiS0FVX3lxTFAwWTBaWV9qdzhSYi0tX29RT0lsRU9ieUhZSVgwUF9IUTlkRzNHT1FMc0xyWEh6Q2oySEI4aGdnNXNJV2ZZZWR2MTJ5aw?oc=5>
+- **特朗普** | 特朗普遭刺杀威胁，美特勤局在白宫附近抓获一名委内瑞拉非法移民，查获枪支 <https://news.google.com/rss/articles/CBMijAFBVV95cUxNeTdHZzJhclFfODZjREVSTW5xVndpT3ZpbXlBTURkNHREU0JEMHdqTTl2Q0VkZWJTclprM1dzN3p6M1RhcVk5WTdlalUtY3Y4aGpYS05XZmN3UXhPOHRGNHdkTDlxVXRwem1VcDJEV2hvbHJhZUxQOHFnZTFKaENxbndvSFVJX2xoTDZxZg?oc=5>
+- **特朗普** | 美国媒体确认：特朗普称将很快决定是否进一步打伊朗；伊朗再击落一架美军MQ-1无人机，向美国提交一份涉核提议 <https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtTUtMd0JIYmtiWVROM09UTlZWZEFtMXdGakkyYVlUaUVBZmc5ZkxPZUF1emNiLVVjYWpLV0RQZ3h5a05vdGpZZGcyYzVZVUlncWhWZnBn?oc=5>
+- **特朗普** | “当门砰一声关上时，特朗普仍在对威尔斯咆哮…” <https://news.google.com/rss/articles/CBMic0FVX3lxTE0zYWFXVndJcmxPMy1nX3ZfdDBydGpybUQzUGlUdzhoUE9jbTQ1eGEydDd2ejQtb3dTV2FPWkUxenFla3dRdm5sVTQ2R2R5THNweTJNYWp2Wml0Z25lVVhKOHp0TERCVXZuZV9HR2RNTWhaUHc?oc=5>
+- **特朗普** | 特朗普宣布邀请达纳·怀特担任白宫新闻秘书 <https://news.google.com/rss/articles/CBMijwFBVV95cUxNRzk0UVVaQWw3UlA5aE1reFpGbWw4Q0xkWnV3b2VndGhYR3JLSG54bVRIcVJTUlVCRGRnRWNmYUljaUtiOWhST1lHTzgydVo1bVVYMERJbkxHRnBmU0o4Q0l6Z212STAtOThhellIRnVzTnhSRFpxNThmRmJJSUlBQ3l4U25xckk2X1dxSWNUSQ?oc=5>
+- **特朗普** | 特朗普称邀请达纳·怀特担任白宫新闻秘书 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9OVzNfZWZqR3A3YW9WWS1rdUxXQllyTVJMNWxSSGgzdDJudF9WQ0ZLUk5lRnFCQW9BYzdCcmk1aURQb3YtcmhUcEItMzJCbWdlWWhUOHFrSFJHM0xTTEhnZE1YeE53NlF1?oc=5>
+- **Trump** | 卢拉获胜，特朗普掌控巴西稀土资源的希望破灭 <https://news.google.com/rss/articles/CBMixwJBVV95cUxNS1NlQ0d0S3lJZ19ZQmctWmd0OW1kdGFmdTN1UGtoamRvaU5jYzRpNThCMWM5MDlGejdfWHRsQzhDQmtUVUlSbW80Mkk3dklTV244RnVXazQwaTYwTE1Jd2hKbDk0RXJmYk1RTUpoVTZNSi1MeU1KU2FESWNZZndJMVprR3hzbGY4dGVEWXJJX2FrVmhzdURLNnY0bUpBX2pfR0plMk84X1BaZVd4cVExdThtckhWQzNVZ0t2X2Nfdk40eHhROFg4eG40amVIM2RneUxiaUhmNkVRTFd6R0xzeU93S2pOeXRyZXd3aTdBYUZLU3BxcVZQNi1iMkE5Q0N0MFJzem9reGF4V25YYUtBbGZJbDBac2JLLVZiTGpRVUd2NjF0SDFJWFdPYy1fUkR0a3V3cFJEQTNzSmotcEJvdkdzamhRQzQ?oc=5>
 
 ### 2026-11-07 23:45  (8 条)
 
