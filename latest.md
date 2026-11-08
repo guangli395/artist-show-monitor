@@ -1,88 +1,100 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-11-08 10:58**
-- 本轮扫到 15579 条, 新增 **9** 条
+- 最近更新: **2026-11-08 16:55**
+- 本轮扫到 15588 条, 新增 **9** 条
 
 ---
 
 ## 本轮新发现 (9 条)
 
-### 特朗普被告知：袭击伊朗的时间窗口有限
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-11-08 04:02
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1SUzVYTjlJWEZCZDFidXQxVGVRa1JMZk14MnBOTkpqbV83S0t1YzlBLWxkUWZHWHBJQmNlRzNYdnNNOGF3VC05Mjl5Zw?oc=5>
-
-### 希拉里称不担心特朗普赦免马斯克 赦免或使马斯克需作证
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华军事
-- 时间: 2026-11-08 05:09
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBqZHhWOHlhNm5mV1NlSWhWVzRLU0lqWGc3Rmc1WXE4Q3U1R0RjV2F3blYzWkhwcDBQUXAxUlVwMEFVVVBxaGU0Yi1YTGR5UlBmN1NLdlAxWGhJZmVZeFBuTHczZnpfRzd4ejlLVEpUSjY?oc=5>
-
-### 特朗普邀UFC总裁任新闻秘书遭拒
+### 特朗普：今晚将做客《......_7x24快讯_新浪财经
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪网
-- 时间: 2026-11-08 09:07
-- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZVMwQUQwbHd0RWhtT2NUMmpsSHk0cERxT0JuTDdGNmh0eW9aMWxfN0hOczZsZC1QalUzTXNXS0dxQ2R2M0lyX2wwUWc3N19UMERqMmFHWHp1RXhiZy05WmZKUkVtOHF4ck8xMVVfbVIxLWJNdFE3aVhNZndrRWRZVUZ5MnJZSEU2ajNj?oc=5>
+- 时间: 2026-11-08 16:19
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ZUVdlQjB2eWZtSXNuSzdyVUU5cWtQXy1Ham1YSmNJQ2E4cHpGbUhkbldHMTE5WFNtcU83cF9NNlFZWmhJa3c3LUd0UQ?oc=5>
 
-### 被邀请担任白宫新闻秘书，怀特：会和特朗普讨论
+### 中期选举后，特朗普宣布重要人事调整
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-11-07 00:54
+- 链接: <https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOC13OWFRdmdmeVRvUjl6QzJKNS0wZDBZdXc5NFh4NGhXdHVCZERRSnFTd3VhektkNHdfOUN3QmU1a3Zxd3NEemo4OFF4RFdkSEdreWlUOG96ZEd4X0J6MUM5eUZXS0oxOFVrOU5LM1lCYXNDSHNwMDQxaDhZVXd3OFQ4cDlsMkE3UXd1VnQ2TnZtVjN1dVhvRUtNM01sUU5iSHpkaWlfeGU?oc=5>
+
+### 特朗普下令：立即调查民主党
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 观察者网
-- 时间: 2026-11-08 06:28
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE9pVmFGT3ZySUlXX2ppRlNWdmdXOFdUY0c2amI0YzhrcVNOVHo4TF84Sk9ZbVBlOGpWODRzcnBoVlVZbHFBVnNBM0VuaWZtSlRobEZ6NFJWMWlEMFZmNmdPR0d3dTRCcnBvbnNUS1E0b3dnRmc?oc=5>
+- 时间: 2026-11-08 03:22
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFBUU2hHT2c0dWhCZ2RfUnhKSVhYVkYycVJ0dGVTN0NLX19fWGRpLUYxZlYtVWtyeXVFSHE2UmpuV1JDWnp0QlRrSXlRZVAtWjg0VUVJU3EtQkh6cTY3eGZLOFBLSzRLVDRfdW5PSHBqeDNnNms?oc=5>
 
-### 民主党掌控国会，众议院将重启对特朗普家族相关调查
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 腾讯新闻
-- 时间: 2026-11-07 17:32
-- 链接: <https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOTnRVU2Jzd243b1lCcU9tYjE4VDBkbW16NGlXXzJSeUdmRTJETGpUbGFDTEFhZmVzbXF6U0hrbmZiT2J6RTBtSVhFdWlSU3hqYk85ODln?oc=5>
-
-### 哈基姆·杰弗里斯有一套对付唐纳德·特朗普及民主党内批评者的办法
+### 【#特朗普称对伊朗实施了小型打击#】美国总统特朗普6日对媒体说，美方
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Mezha.net
-- 时间: 2026-11-08 04:08
-- 链接: <https://news.google.com/rss/articles/CBMikgFBVV95cUxNOEpxUmdxOF9kQU9fdmZCTUJIcnA3ZG9UUDZDVlVnS1pPb0ZFdjlwNDhoNFZMMmJmaDZMdkhWbVo4cWlmU2lxcXhFX19PdXpWRXVTNGRjdkRUeDlsTmxKRlNFR0tmMVRWSzB3U3FwVFAwUFdqbnh1dTNrS0N3dURzVEJNUEFYbHFuejF1Rl9PcEtKZw?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-11-07 01:46
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9LMjl4b2E0dzJVUUd1aWExVFpzdVVvVV81RExtZmVHbnVnV1RKb0dUbEtXdnYyT2IyN3FFS3JrOGlleldPd3RJNDdLMF8?oc=5>
 
-### 特朗普输得一败涂地，但为什么他依然能继续当美国总统
+### 特朗普“赶走”了内塔尼亚胡
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 手机网易网
-- 时间: 2026-11-08 10:41
-- 链接: <https://news.google.com/rss/articles/CBMiVEFVX3lxTE1qVDYyaVBSTTlvbHdLTmNWMjZoeVY5WUIwTHA3dWo1UTY3bGxMN3B4VFYxWHptYjJ6R203eHNVU3lveXo1M2JXOGlHdWZNRDNORXVUbw?oc=5>
+- 场馆: view.inews.qq.com
+- 时间: 2026-11-08 15:21
+- 链接: <https://news.google.com/rss/articles/CBMiV0FVX3lxTE9IQm9VdzBIMFNha2lSZ3FUREVBaVVWUTBWV1VKRC04NlJhRGhkN2hIMExDYm5iMFE4T0VDcnV3NkxkVG9UUXVsb21mU0xCVWRpVGZGSEF4NA?oc=5>
+
+### 美国民主党准备通过立法限制特朗普关税——《国会山报》
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: UA.NEWS
+- 时间: 2026-11-08 05:17
+- 链接: <https://news.google.com/rss/articles/CBMipwFBVV95cUxOX2VuWXRPRFVkcEV2b3pGSThndnVnel9nTWFFMUVwSVN5djVtUHRHY2dQLUJxMG16VkZLZ3p2aFk4enNVT3E1RGJrTjFMcXRKRmRYUjNaNldkQUdJZXhXNmFlTVFFcGFxM3lPSjdpMW1vMUlmRV8zOGFtVW9nR2NubkdlRXd6MnFYRjdiUks3SDNaaVRYMExkbGVYWHByZllJSDhuMDVHVQ?oc=5>
 
 ### 特朗普下令美国司法部调查民主党人“威胁弹劾”行为
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中国新闻网
-- 时间: 2026-11-08 08:56
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTY2tTQzFPUHFUWkhxa0hPcGhSRHJQaGg1SzZtbnZXWVNsQ0ItbnppaWR6d0NvWS1JdXQ1RVZ2SHY3Q0Jha0NTS3pQUlRidDBsTEk3b25ia2xBZTZnYUpiTkI1SFN6VnZj?oc=5>
+- 场馆: 电子工程专辑EE Times China
+- 时间: 2026-11-08 04:13
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzd2FYZENSWWVkX3BGa1FHSGVCWDJ3OTdMWU1aUmxnR3FZWVVtbXNaeV96SW9pbEVmdDdrd2xERkNMTk1rcVJIS2J3WWpuX2J3b0FF?oc=5>
 
-### 路透测算DJT外部投资者惨亏22亿美元，特朗普持股价值仍达4.6亿美元
+### 中期选举遭重创，特朗普要成“否决先生”？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新京报
+- 时间: 2026-11-08 10:56
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ObTBWUWFyS3FSOFhpREV4Y3ZXQkRiYUwyR0Q1V1pxMFJUVzBIQ3NTRFM1RHVZSjF1R2NFYU9idFlNWGN1Uk5fRXJIM053SGRCeEpXZFVuTFo2X1gwRE1ZRm1Ga1o?oc=5>
+
+### 白宫幕僚长怀尔斯被炒内幕：川普因惨败怒斥她
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 金融界
-- 时间: 2026-11-08 06:36
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE9Rbkh0dWRRUEY0M2dDS1AxREVKMEpPU0JPXzlOMEtHQV9SZGZCbDFOMUlpQ3FWdGlPYnBGLUlrSFQ1c2N4MEtGLVgzV251ZElBZjVhRE1SWmJIV2t5RThGLU43amRhbGRYSExQb3hkNVdJZw?oc=5>
+- 场馆: 文学城
+- 时间: 2026-11-08 15:46
+- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxPXzNucTVWTkNteUs5Q09feFVQSFNXNDZQY0d1TTh4dDNKa284S00xS3pUZjJuSFA1di1XRHJKSlQ3NExzbGEzYlJwZlBUakZMWG1hcTRYWHRiaVRoUHIyckxtcFdlSUV6bkczWnRFcGpNLTY3T3RTZURtVTZmendMRg?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-11-08 16:55  (9 条)
+
+- **特朗普** | 特朗普：今晚将做客《......_7x24快讯_新浪财经 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ZUVdlQjB2eWZtSXNuSzdyVUU5cWtQXy1Ham1YSmNJQ2E4cHpGbUhkbldHMTE5WFNtcU83cF9NNlFZWmhJa3c3LUd0UQ?oc=5>
+- **特朗普** | 中期选举后，特朗普宣布重要人事调整 <https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOC13OWFRdmdmeVRvUjl6QzJKNS0wZDBZdXc5NFh4NGhXdHVCZERRSnFTd3VhektkNHdfOUN3QmU1a3Zxd3NEemo4OFF4RFdkSEdreWlUOG96ZEd4X0J6MUM5eUZXS0oxOFVrOU5LM1lCYXNDSHNwMDQxaDhZVXd3OFQ4cDlsMkE3UXd1VnQ2TnZtVjN1dVhvRUtNM01sUU5iSHpkaWlfeGU?oc=5>
+- **特朗普** | 特朗普下令：立即调查民主党 <https://news.google.com/rss/articles/CBMic0FVX3lxTFBUU2hHT2c0dWhCZ2RfUnhKSVhYVkYycVJ0dGVTN0NLX19fWGRpLUYxZlYtVWtyeXVFSHE2UmpuV1JDWnp0QlRrSXlRZVAtWjg0VUVJU3EtQkh6cTY3eGZLOFBLSzRLVDRfdW5PSHBqeDNnNms?oc=5>
+- **特朗普** | 【#特朗普称对伊朗实施了小型打击#】美国总统特朗普6日对媒体说，美方 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9LMjl4b2E0dzJVUUd1aWExVFpzdVVvVV81RExtZmVHbnVnV1RKb0dUbEtXdnYyT2IyN3FFS3JrOGlleldPd3RJNDdLMF8?oc=5>
+- **特朗普** | 特朗普“赶走”了内塔尼亚胡 <https://news.google.com/rss/articles/CBMiV0FVX3lxTE9IQm9VdzBIMFNha2lSZ3FUREVBaVVWUTBWV1VKRC04NlJhRGhkN2hIMExDYm5iMFE4T0VDcnV3NkxkVG9UUXVsb21mU0xCVWRpVGZGSEF4NA?oc=5>
+- **特朗普** | 美国民主党准备通过立法限制特朗普关税——《国会山报》 <https://news.google.com/rss/articles/CBMipwFBVV95cUxOX2VuWXRPRFVkcEV2b3pGSThndnVnel9nTWFFMUVwSVN5djVtUHRHY2dQLUJxMG16VkZLZ3p2aFk4enNVT3E1RGJrTjFMcXRKRmRYUjNaNldkQUdJZXhXNmFlTVFFcGFxM3lPSjdpMW1vMUlmRV8zOGFtVW9nR2NubkdlRXd6MnFYRjdiUks3SDNaaVRYMExkbGVYWHByZllJSDhuMDVHVQ?oc=5>
+- **特朗普** | 特朗普下令美国司法部调查民主党人“威胁弹劾”行为 <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzd2FYZENSWWVkX3BGa1FHSGVCWDJ3OTdMWU1aUmxnR3FZWVVtbXNaeV96SW9pbEVmdDdrd2xERkNMTk1rcVJIS2J3WWpuX2J3b0FF?oc=5>
+- **特朗普** | 中期选举遭重创，特朗普要成“否决先生”？ <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ObTBWUWFyS3FSOFhpREV4Y3ZXQkRiYUwyR0Q1V1pxMFJUVzBIQ3NTRFM1RHVZSjF1R2NFYU9idFlNWGN1Uk5fRXJIM053SGRCeEpXZFVuTFo2X1gwRE1ZRm1Ga1o?oc=5>
+- **Trump** | 白宫幕僚长怀尔斯被炒内幕：川普因惨败怒斥她 <https://news.google.com/rss/articles/CBMigAFBVV95cUxPXzNucTVWTkNteUs5Q09feFVQSFNXNDZQY0d1TTh4dDNKa284S00xS3pUZjJuSFA1di1XRHJKSlQ3NExzbGEzYlJwZlBUakZMWG1hcTRYWHRiaVRoUHIyckxtcFdlSUV6bkczWnRFcGpNLTY3T3RTZURtVTZmendMRg?oc=5>
 
 ### 2026-11-08 10:58  (9 条)
 
