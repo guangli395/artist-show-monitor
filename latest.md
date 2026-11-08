@@ -1,75 +1,67 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-11-08 16:55**
-- 本轮扫到 15588 条, 新增 **9** 条
+- 最近更新: **2026-11-08 20:56**
+- 本轮扫到 15596 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (9 条)
+## 本轮新发现 (8 条)
 
-### 特朗普：今晚将做客《......_7x24快讯_新浪财经
+### 美国总统特朗普表示，铁门工作组已全面投入运作。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪网
-- 时间: 2026-11-08 16:19
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ZUVdlQjB2eWZtSXNuSzdyVUU5cWtQXy1Ham1YSmNJQ2E4cHpGbUhkbldHMTE5WFNtcU83cF9NNlFZWmhJa3c3LUd0UQ?oc=5>
+- 时间: 2026-11-08 20:47
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE4zbHZZdTJyVUhjemhzSlYwRW5HenVZb2MzRVZkLVlrYnUzQTBkd3JTZDNOeS0zVnVTVVladS1iWnNHcTFQVTZpYWRxTQ?oc=5>
 
-### 中期选举后，特朗普宣布重要人事调整
+### 特朗普总统：如果谈判取得进展，美国再次打击伊朗“可能性极低”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-11-07 00:54
-- 链接: <https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOC13OWFRdmdmeVRvUjl6QzJKNS0wZDBZdXc5NFh4NGhXdHVCZERRSnFTd3VhektkNHdfOUN3QmU1a3Zxd3NEemo4OFF4RFdkSEdreWlUOG96ZEd4X0J6MUM5eUZXS0oxOFVrOU5LM1lCYXNDSHNwMDQxaDhZVXd3OFQ4cDlsMkE3UXd1VnQ2TnZtVjN1dVhvRUtNM01sUU5iSHpkaWlfeGU?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-11-08 19:54
+- 链接: <https://news.google.com/rss/articles/CBMiwgFBVV95cUxPemJDVTJlNUNUTVVseXhBbVlXb2RBTDl1X01tSDBNRUZoVFZUd3VKTGk4SFNBNEhNYWtnMzMtWFU0MlBDSTJUM2lCMG1mYWMzVzVka005dXVMdXFkSlFSTHQxMWZsdEhPcXEtMDJWZ3lId1NTRzJFSUg2SUh4aGpqX2RWN2R0Z0dKeFl2V1hwUE9fdkNXZUY4cU8taEVIbGtvcDhNVDNqcmtNa1p3bVk1c3lGR3RwY1pJU053c2RFVGo1QdIBxAFBVV95cUxOMll3R0xFUGRwX1N4OTlaclRhdWF2bS1rampuZDc2cm1pUGZudkg5Um8yN2tad1hZR1UtNTBXSHdGdXh1aGhYeDA4c3U3OEhZRXF5aXFUMnNqXzB6U1JPdkhOQ2psSjE4bk5DMGx2QlpMSHdHVUx0QkN1ZUxMSFR5d1NJUGxGdHF0YW5oaUJWenc4WXBBV3I5RUdIVUVXblpGX0JQczFzU1lqbGJNeGhNMjFDOFVrNTh0bU56RnNUeXRBdlpn?oc=5>
 
-### 特朗普下令：立即调查民主党
+### 特朗普称若美伊谈判取得进展，再次发动打击可能性极低
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: ThePaper.cn
+- 时间: 2026-11-08 19:31
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YSmJhcEpLcFlraGxqWWlPdzJCaEhkM1lndGlKS1BSbThHQXZ0WjdJek9iTlIxT2c5TmMxbHJDOC0xdHhTcldCbnU4elFZQjdOZS1EdDh1NXdaR1F0ZWxmYw?oc=5>
+
+### 特朗普邀请UFC总裁担任白宫新闻秘书
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 观察者网
-- 时间: 2026-11-08 03:22
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFBUU2hHT2c0dWhCZ2RfUnhKSVhYVkYycVJ0dGVTN0NLX19fWGRpLUYxZlYtVWtyeXVFSHE2UmpuV1JDWnp0QlRrSXlRZVAtWjg0VUVJU3EtQkh6cTY3eGZLOFBLSzRLVDRfdW5PSHBqeDNnNms?oc=5>
+- 时间: 2026-11-07 23:17
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1rRGIzQjJwS1oyWTNCU2JTU2Q1MGJDUmxITElDb3RZektYTFVTVEJkRk5CT241Z1I5SllWUUVuVEMzTXdtaU1EQzhmc0NnN1pKdnU1TzNtdUlZQlBJWHpKajZpamRMWEtseTNRdUk4bW9NZ1U?oc=5>
 
-### 【#特朗普称对伊朗实施了小型打击#】美国总统特朗普6日对媒体说，美方
+### 特朗普邀请UFC总裁达纳·怀特出任白宫新闻秘书，怀特计划周一赴白宫会面
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-11-07 01:46
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9LMjl4b2E0dzJVUUd1aWExVFpzdVVvVV81RExtZmVHbnVnV1RKb0dUbEtXdnYyT2IyN3FFS3JrOGlleldPd3RJNDdLMF8?oc=5>
+- 时间: 2026-11-08 08:02
+- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTE1OenlKc3dTVUZtcXdBckc4UFlHTmNoUDBJbGV6SG5CUTVyVlY3eExIQThMM05ZMml5MEpYTmtpWXRkV19QODY0YVdXRVltVlJ0R3c?oc=5>
 
-### 特朗普“赶走”了内塔尼亚胡
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: view.inews.qq.com
-- 时间: 2026-11-08 15:21
-- 链接: <https://news.google.com/rss/articles/CBMiV0FVX3lxTE9IQm9VdzBIMFNha2lSZ3FUREVBaVVWUTBWV1VKRC04NlJhRGhkN2hIMExDYm5iMFE4T0VDcnV3NkxkVG9UUXVsb21mU0xCVWRpVGZGSEF4NA?oc=5>
-
-### 美国民主党准备通过立法限制特朗普关税——《国会山报》
+### 特朗普称俄乌重大协议或覆盖全欧，专家：可能是个谈判思路，但各方分歧太严重
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: UA.NEWS
-- 时间: 2026-11-08 05:17
-- 链接: <https://news.google.com/rss/articles/CBMipwFBVV95cUxOX2VuWXRPRFVkcEV2b3pGSThndnVnel9nTWFFMUVwSVN5djVtUHRHY2dQLUJxMG16VkZLZ3p2aFk4enNVT3E1RGJrTjFMcXRKRmRYUjNaNldkQUdJZXhXNmFlTVFFcGFxM3lPSjdpMW1vMUlmRV8zOGFtVW9nR2NubkdlRXd6MnFYRjdiUks3SDNaaVRYMExkbGVYWHByZllJSDhuMDVHVQ?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-11-08 11:31
+- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2eWd0ajQxbl94UjU4OERqeVBHZVdSSE1CMlRRc1B0bG5wblhUTVNJQjlpdVB4OVRHdHlwWVFGTHI2LW95QkVsZ0hXaEJMVUZ6VlE?oc=5>
 
-### 特朗普下令美国司法部调查民主党人“威胁弹劾”行为
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 电子工程专辑EE Times China
-- 时间: 2026-11-08 04:13
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzd2FYZENSWWVkX3BGa1FHSGVCWDJ3OTdMWU1aUmxnR3FZWVVtbXNaeV96SW9pbEVmdDdrd2xERkNMTk1rcVJIS2J3WWpuX2J3b0FF?oc=5>
-
-### 中期选举遭重创，特朗普要成“否决先生”？
+### 特朗普长期亲信米勒将接任白宫幕僚长 移民政策恐再缩紧
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-11-08 10:56
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ObTBWUWFyS3FSOFhpREV4Y3ZXQkRiYUwyR0Q1V1pxMFJUVzBIQ3NTRFM1RHVZSjF1R2NFYU9idFlNWGN1Uk5fRXJIM053SGRCeEpXZFVuTFo2X1gwRE1ZRm1Ga1o?oc=5>
+- 场馆: RFI
+- 时间: 2026-11-08 17:04
+- 链接: <https://news.google.com/rss/articles/CBMijANBVV95cUxQUUwtU1lNOFZITlVPVUp1MTQ2WDdXZFNsT0hBbFh2SWhEWmkzVmlRQlJVeU5uSmFOMGJRVlhldlNjWTFFck15Y3FsZVJ6VHFXOGdCS1U2WXhFb0wxMGd1LVFCTFJJSC1NNVhWSVRUel94bGNUd3gyM2JtcEQ5ZGZRQmpMZDJTbTdLQkpxZjI3RXlpampkT0J3R0xkekhVVEU1ck9VbjE4OXNCbEZGekxmMUM1WFRTMkZUbDFqNlN2aENQV2h1ejAzZmJZd2tCWTlaZk93Ukk5ODZ0TXRnNTlZS1BYVEFtQ2VYaHFjU29KNXVtdTQteWJVeEtxMlVUblphSTFjRnhyb2FLbDRxYU8wby14UTIxSDhiUENXanFPOEhZck1uQ0NVWFdTbmxveGhxaEdXcUpRWTQtSDZWVEFfSEVmeGtQWE9QOVRmRVJOMEFyZExOUVp6S3N3d1B1VWNCNGxmV09iY2tMWnV6NVBWYWNucDdNWWt0TmpuQUkxMzlLa1d3aVBDNjh0M0c?oc=5>
 
 ### 白宫幕僚长怀尔斯被炒内幕：川普因惨败怒斥她
 
@@ -77,12 +69,23 @@
 - 来源: `googlenews`
 - 场馆: 文学城
 - 时间: 2026-11-08 15:46
-- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxPXzNucTVWTkNteUs5Q09feFVQSFNXNDZQY0d1TTh4dDNKa284S00xS3pUZjJuSFA1di1XRHJKSlQ3NExzbGEzYlJwZlBUakZMWG1hcTRYWHRiaVRoUHIyckxtcFdlSUV6bkczWnRFcGpNLTY3T3RTZURtVTZmendMRg?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWLWVvRXhpaVRJVThSMURyQXRhNVNndGdZMFZGX09vYmZxVjB6WGtLRl9ma3cyU3JuanJXN2ZOcDFVU0Rtb0hybmxjVXFaRE13TC1QU3pnRWtwNjgxOUtIU3U1c1hFbFBN?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-11-08 20:56  (8 条)
+
+- **特朗普** | 美国总统特朗普表示，铁门工作组已全面投入运作。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE4zbHZZdTJyVUhjemhzSlYwRW5HenVZb2MzRVZkLVlrYnUzQTBkd3JTZDNOeS0zVnVTVVladS1iWnNHcTFQVTZpYWRxTQ?oc=5>
+- **特朗普** | 特朗普总统：如果谈判取得进展，美国再次打击伊朗“可能性极低” <https://news.google.com/rss/articles/CBMiwgFBVV95cUxPemJDVTJlNUNUTVVseXhBbVlXb2RBTDl1X01tSDBNRUZoVFZUd3VKTGk4SFNBNEhNYWtnMzMtWFU0MlBDSTJUM2lCMG1mYWMzVzVka005dXVMdXFkSlFSTHQxMWZsdEhPcXEtMDJWZ3lId1NTRzJFSUg2SUh4aGpqX2RWN2R0Z0dKeFl2V1hwUE9fdkNXZUY4cU8taEVIbGtvcDhNVDNqcmtNa1p3bVk1c3lGR3RwY1pJU053c2RFVGo1QdIBxAFBVV95cUxOMll3R0xFUGRwX1N4OTlaclRhdWF2bS1rampuZDc2cm1pUGZudkg5Um8yN2tad1hZR1UtNTBXSHdGdXh1aGhYeDA4c3U3OEhZRXF5aXFUMnNqXzB6U1JPdkhOQ2psSjE4bk5DMGx2QlpMSHdHVUx0QkN1ZUxMSFR5d1NJUGxGdHF0YW5oaUJWenc4WXBBV3I5RUdIVUVXblpGX0JQczFzU1lqbGJNeGhNMjFDOFVrNTh0bU56RnNUeXRBdlpn?oc=5>
+- **特朗普** | 特朗普称若美伊谈判取得进展，再次发动打击可能性极低 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YSmJhcEpLcFlraGxqWWlPdzJCaEhkM1lndGlKS1BSbThHQXZ0WjdJek9iTlIxT2c5TmMxbHJDOC0xdHhTcldCbnU4elFZQjdOZS1EdDh1NXdaR1F0ZWxmYw?oc=5>
+- **特朗普** | 特朗普邀请UFC总裁担任白宫新闻秘书 <https://news.google.com/rss/articles/CBMic0FVX3lxTE1rRGIzQjJwS1oyWTNCU2JTU2Q1MGJDUmxITElDb3RZektYTFVTVEJkRk5CT241Z1I5SllWUUVuVEMzTXdtaU1EQzhmc0NnN1pKdnU1TzNtdUlZQlBJWHpKajZpamRMWEtseTNRdUk4bW9NZ1U?oc=5>
+- **特朗普** | 特朗普邀请UFC总裁达纳·怀特出任白宫新闻秘书，怀特计划周一赴白宫会面 <https://news.google.com/rss/articles/CBMiUkFVX3lxTE1OenlKc3dTVUZtcXdBckc4UFlHTmNoUDBJbGV6SG5CUTVyVlY3eExIQThMM05ZMml5MEpYTmtpWXRkV19QODY0YVdXRVltVlJ0R3c?oc=5>
+- **特朗普** | 特朗普称俄乌重大协议或覆盖全欧，专家：可能是个谈判思路，但各方分歧太严重 <https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2eWd0ajQxbl94UjU4OERqeVBHZVdSSE1CMlRRc1B0bG5wblhUTVNJQjlpdVB4OVRHdHlwWVFGTHI2LW95QkVsZ0hXaEJMVUZ6VlE?oc=5>
+- **特朗普** | 特朗普长期亲信米勒将接任白宫幕僚长 移民政策恐再缩紧 <https://news.google.com/rss/articles/CBMijANBVV95cUxQUUwtU1lNOFZITlVPVUp1MTQ2WDdXZFNsT0hBbFh2SWhEWmkzVmlRQlJVeU5uSmFOMGJRVlhldlNjWTFFck15Y3FsZVJ6VHFXOGdCS1U2WXhFb0wxMGd1LVFCTFJJSC1NNVhWSVRUel94bGNUd3gyM2JtcEQ5ZGZRQmpMZDJTbTdLQkpxZjI3RXlpampkT0J3R0xkekhVVEU1ck9VbjE4OXNCbEZGekxmMUM1WFRTMkZUbDFqNlN2aENQV2h1ejAzZmJZd2tCWTlaZk93Ukk5ODZ0TXRnNTlZS1BYVEFtQ2VYaHFjU29KNXVtdTQteWJVeEtxMlVUblphSTFjRnhyb2FLbDRxYU8wby14UTIxSDhiUENXanFPOEhZck1uQ0NVWFdTbmxveGhxaEdXcUpRWTQtSDZWVEFfSEVmeGtQWE9QOVRmRVJOMEFyZExOUVp6S3N3d1B1VWNCNGxmV09iY2tMWnV6NVBWYWNucDdNWWt0TmpuQUkxMzlLa1d3aVBDNjh0M0c?oc=5>
+- **Trump** | 白宫幕僚长怀尔斯被炒内幕：川普因惨败怒斥她 <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWLWVvRXhpaVRJVThSMURyQXRhNVNndGdZMFZGX09vYmZxVjB6WGtLRl9ma3cyU3JuanJXN2ZOcDFVU0Rtb0hybmxjVXFaRE13TC1QU3pnRWtwNjgxOUtIU3U1c1hFbFBN?oc=5>
 
 ### 2026-11-08 16:55  (9 条)
 
