@@ -1,140 +1,154 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-11-09 07:00**
-- 本轮扫到 15625 条, 新增 **16** 条
+- 最近更新: **2026-11-09 17:42**
+- 本轮扫到 15640 条, 新增 **15** 条
 
 ---
 
-## 本轮新发现 (16 条)
+## 本轮新发现 (15 条)
 
-### 王一博ChinaGT雪邦站官摄发布
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5351798445_13efdf6ad04001ne90.html>
-
-### 蔡徐坤新加坡演唱会后台照， 帅哥真的太绝了！
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7785517961_m1d00d93890330192wm.html>
-
-### 美、中、俄三国首脑在深圳会晤？习近平的雄心与顾虑
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-11-09 00:58
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE1vSkNqVWxqNHp1NmI1RjhXSEIwVEhmTHpHaVFMdC1uUXVxb25aZXFWajB0cGJSMWg3NFJNQnlkNzc1YjdFelZSSF81QUhsSzVGb2NrYXNaeFBobFZfOEU1My1oS2UwNGpXdzItcnBHYWhUYUtr?oc=5>
-
-### 特朗普称“铁门”特遣行动正全面展开 几乎没有物资能进出伊朗
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-11-09 03:28
-- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVEhnd0hNUTIyZWJyeFBQSjNNLTZkdU9MV3RSc3FNVlZDeGlKUUdrQlNpcnlJcEtnY3VuYXpRYlViZ3hhNWpheTRWR3EyZEYxMGJJSTRTcXU5VGFSUFgwVHFuOGZNMkhpaDNIelEwdnM0TjJhbFA5TlgybUhJSHkwX1F0My1DdFhtWkxN?oc=5>
-
-### 特朗普重申对赫格塞思的支持，称其“赢了两场战争”
+### 特朗普质疑美国中期选举结果
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-11-09 06:25
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9LV0kyNDNvSEE0aXdHejFIOEtUbmdjRU5fY2pjNVZYb3htZzVleFAtbXBkemNraF96d3ZqOTNLYUw5bnptc1BFSVdPaTI?oc=5>
+- 时间: 2026-11-09 16:29
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBNZmZVREQyaXlhSmhTNml0UVVsUDJRNS02bEw3RElOUmFzbDkyX0lhd1Jjblh1bm1wLUR4dXR0M3o5Z0lDM1lXLWJVMWM?oc=5>
 
-### 特朗普：美国人对以色列抱有“难以置信的厌恶”，是共和党败选的原因之一
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-11-09 02:46
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE11cW9hYnlLMU5ZQUYxS3BMSmp4OU11M2xvZUVCOUJkbll4WjEwclUwcW44ZXlwVGNqMmFEazlSa0czMkI1SExLeWZxazFfOHdLbmVqbDY1a1pGc0F1MGlmV3A4VzNfYlRWZHdTTXB4WjJxN2s?oc=5>
-
-### 特朗普《60分钟》专访五大要点
+### 美国扩大对伊朗海上封锁至陆地边界，特朗普总统会晤关键谈判代表
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-11-09 05:25
-- 链接: <https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZ3dzNHFvRHVkendnM0RyRWpfOTNUWmlrWUlPVjhYOFhDOWNwYzg4czQ1R0pNUjFmWE9vdXd2QldNTGxkSDl4V3lKTlZWRFdnYk5XUWVHS1FCTjJFNVltOHVlRE5ScWdsNHRIUnVfY3plcGNXNTRySmdvTDZTSm0tYTBXVmNIT3FxU3JiOFFnTXF2SFl4R0tKd0VpRmNSTkxGTlZ0VzZPeFB1TThObVh0OUZhMjhqWG94cEQzVlNkbzYwZEZwa25qQkp4STRuYTN1a1Q1c3JjMA?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-11-09 17:04
+- 链接: <https://news.google.com/rss/articles/CBMi3wFBVV95cUxOandKUFAtNTBIaTJBMUl2QktDVlB2aVVEY1BrTWdPYUlqUXBrTFdvOGM0WUxERVVuWVh0NDR2SXpiOFZ2Y0VHdHo2b1VPTkVMOXhoNHhmWWlMa0dhTzBNMUwtZzY1bko2VE9uRjJVT0JFLUwzZEZDd2hDQmE2d3RZbVlOZExnVjR4MGZFemZVRzEtZWtoUF9VN3J6aTRVMUlQaFA4NnZ0WXRmM3loUDFGY0xMYUZhbWIwSTlJMm5jRHc3Z2tRRTNCcmpZRXJSak90VzlCTTA3dUpNNl9MM1d30gHiAUFVX3lxTE1LOHpXRGh1WXhvR0VwZU4xM0xNV2pSQ25LVk95ZWhHWkE0S2Y3TERhVmxlWnNvRTMzZ2tCZlFmd08wazVMNjVkSXFlLXdWWC03MHctc3dKOURJTGNiaVNyajdVUlJNVEhyOXY4QzlOREZMTWU5NFhKS2hSZzVyRlVLMy1CcFNkMGFmcWR4Rmp1S0JIelB2THk4MUZaZmdNeUhxMVNQZWxSdnFWbkdSRVFUTjF0ZWoxUW1wR1R4eDFkeVJlSEEzNDE4b2lEVkx2NVdjTVU0UFg4dzY2NFV3cnhzNXc?oc=5>
 
-### 特朗普回应黄仁勋出轨：他是跟某个人有过来往 但谁不是这般呢
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 驱动之家
-- 时间: 2026-11-09 04:47
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE9XWS1PTm5acEdJLUVJMWhvMFRSWlVQMHFzQmN6anRjeEhKSXZUOHBCNmZyUUtKNnNjY3luVkFmSFFGOXpwVmR6a1d4U2g0Y0tmMDE5LURfdmI?oc=5>
-
-### 美伊关键调解人赴白宫 特朗普和万斯将与其会见
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 央视网
-- 时间: 2026-11-09 02:41
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1FWEFJcGttTDRXbVBoRlFFVWxNTlZ6WTktOTRmV2I4S2lOYTQ2Y2VraW9xanBmbERxY2ExR1Ztam50TU4yRV81SEgxRXlQZmlwbTBpQS1ndE1fZjY4dnFFc0c0UFZYbGpaTndLek1jZUdLblAzRE1pMQ?oc=5>
-
-### 特朗普任命米勒任白宫幕僚长 核心圈成员接任
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-11-09 06:27
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE01cnRtLUxIdW5SeXBFN0c4RE9wRml1VzVMZWQxOS1JektUQVF4azZFUWZyZEhRYVVTQU1jS0huNVJSa1piMDU4QnpFaHNuVzU5VU1OVWJYT09NUVNFMWN0ZVRyeWRlUVZjTm5YMW5BVGQ?oc=5>
-
-### 特朗普1.5万亿国防预算遭遇44%增幅阻击战 军工股增长预期或被打折
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 同花顺
-- 时间: 2026-11-09 02:25
-- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTFBRekE0MDN6WURyRFpwRkRnd0xobkpLV3lKWUZkR2hRODljVFhJQzNlWk1FVUVHOWVqT3RCaWJ2UHY2T2hFMjAwQ1lMQ1NOb21Zd3JaUWs5RXNQZkxqTzByZzh3?oc=5>
-
-### “新美联储通讯社”：特朗普“掌控美联储”计划迎最大障碍——参议院易主
+### “铁门”封锁陆路！特朗普称“目前几乎没有物资能够进出伊朗”，若谈判取得进展，再次发动打击可能性极低
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 华尔街见闻
-- 时间: 2026-11-09 06:45
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0VWM1eDBobGU2ZzU0V1VqQUFzV2Z4anhBYWpBQUxOQ2R2YmVDVlBtNDRpY1NwUDRHQ21FcG4xQWJ1d0V2cVM3OF8zYjFGYlVyS2VN?oc=5>
+- 时间: 2026-11-08 23:53
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE41cW5RRmtNcUhJT3hZWTdxNDAwQjdoNGQ4Y2lTMzdvR21mZENVQ0NLLTFhaXdfMEhtcjhBcnpXV2lOenprTnVmc2lKckdvUmFURHF3?oc=5>
 
-### 中期选举受挫更换幕僚长，特朗普准备“打硬仗”| 京酿馆
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-11-09 05:32
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UXzhDSFd6dkdsSnNYS2M1Qzl2Zm9XMGJWWDhtRlZ4NUtkeVpod0NRM1NTa2VUd1NKVUg3VGFzMmJiaElsWmQ1RldPbVd6cGRsNkNSbFVLVEs4X1hsVkZhdFBjRm8?oc=5>
-
-### 特朗普：他留下！
+### 特朗普称与伊朗重启战争“极不可能”，国际油价下跌
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者网
+- 场馆: RFI
+- 时间: 2026-11-09 17:14
+- 链接: <https://news.google.com/rss/articles/CBMi6gJBVV95cUxQdk5RWHhSMklmOWk2TWFXQ29IZE5SYm5mS2VjM09UaDRrbW83d2JKal9YRjZTRlJoRmM3eW15TW1nRGtBNG1RZE5YYzAyN1NQYzMtTEVzZXRtREVReHJoR0FzcGJ5QWp5akxFLTVUYUhacVJWbDZrWFZRNkRaX3ZpbmlJckx2RHFsYkUzTnN1ODFNVlBkY19rMVNEbVVSY3hkVjZNREM1bUJxb24xTXRVV1ZDR0pZV3NselcwVElmUGtaYXJVVHBHcnhIWXNfeG4teU5icWhKTnN3LXg4YVpvZHlFalNNV1VxUWtRVkM3Mm9iWFowM0dEaTAzcjFaZ2pnYmhxVFZRY3hjeFdxa0hsQ2Y1V01DWXdpUXZHVTBtMW9WSkVkcmh0MGM1bXFNbENCakY4Y0FiX0dfSlFrLUtiemZsU3VRTl9CM2E0c19aNVpzT1Q4WjhpbVBvX3dpbkZFNU5MU3hCSGNSZw?oc=5>
+
+### 美国防部长面临两党弹劾威胁 获特朗普力挺誓言战斗到底
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 财新
+- 时间: 2026-11-09 10:27
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZMHAydEJHWXdoR0t4RzJBWXROZU1XOWRuVGh2V2k4N2VzUHViN0F6YmN6ZlFnenExZWlJdENMNmdhUUUxaG1EMEg2ek9YVEVlM2pMWG5sOENVQTgwTnlzcGNHay0wV0ZHbmc?oc=5>
+
+### 【今日特朗普行程：会......_7x24快讯_新浪财经
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-11-09 12:30
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9KYUtfQnI1dV9Wc1JuR0R1alRaOU5McURGNWtEdkVROUw3Nk9YbjhadEtJYncwNUM5TjRTX0tLbDhnR3RzMlhQbmM3RQ?oc=5>
+
+### 特朗普重申：没了我，以色列将不复存在
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: ThePaper.cn
+- 时间: 2026-11-09 10:54
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nTnlxOVNmMXJ0Uko4bFBYU0VLQlg5NnNKNFJWVm5oYUVFRTBYT0JQTUl1d1dTYngwZ0FsZTVXLVpKbG5jT2JsNXdIb2RVaHhkQ3VrNGx1YlEzRVJGNGI5aQ?oc=5>
+
+### 特朗普称自己会去天堂 我觉得我这一生做得还不错
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-11-09 11:14
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE1Wcl9Fb3A2UmVKOXB5RW9YcVdNU3UzMUlILXpzUG1ScF9heXdUcmI2RzhMY3hNVlFOc0V1SWp3Z292NWl5UFJxR2NFT2w2aXlnakVZUmJ5Z2tIX2ZrTlo1dnhGa0dxbXhOekFtNGRjS2Y?oc=5>
+
+### 拜登称，特朗普在1月6日采取的行动“应该伴随他直到坟墓”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Mezha.net
+- 时间: 2026-11-09 09:55
+- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxOX0RGWlp2VHlBYU1rYldweDlQbXBScTN4bEZhYmhwWUkyR0QzdlBXeUJUOU41dG11T3hsVWZrSWUzNXpGa3Y5RFRYNC1uY29wMUtBM3BBSGZWWXFLaGlIeXRlekJyRFllbTk3Z1BCR3UzTmw3VGs4RVFFcHRZNks1YUtLa2tRS2Q2MlE?oc=5>
+
+### 外交努力持续！今日，特朗普和万斯将在白宫会见美伊关键调解人
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 财联社
 - 时间: 2026-11-09 01:36
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1hN2NGYmlKbzdRUE9nb2dlRTY1WFhIOVJtTzBNWG5LSDVjTFEyRDZtVG5XR0UtS1FweDJOSjROZmRCbFFXOWN6UktoSFg4OTFIc3dSY202aWxEYWN2MEgwU1pkelRaQklodk1JWXMxWXpqZkE?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTFBhVDRfZG1xNkVSaWkzblpNNGdmU2puT3VDNGR3STI1QlVyeWljclVaRFg2RzJsUGp0ZkpiamkwQlJHSElON1Aycw?oc=5>
 
-### 特朗普预计下周在同习近平和普京会面 讨论伊朗战争及无核化
+### 特朗普宣布实施“铁门”行动：“几乎没有东西能进出伊朗！”伊朗否认并谴责
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中国新闻网
+- 时间: 2026-11-09 09:38
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zRkpCU0d3TTBCNkNfZTgySnVlM0wzdFQxOUptSVU0SmtDeWtzbGM0TjhoTWtJOURfWm5vUDlsMkFWLUtRMFlrZUtkaWx6QnBNT05fS3I1MTZCYTNjRXNKcXdSQmJFb3ZS?oc=5>
+
+### 美国务院曾就黄仁勋与中国间谍的关系发出过警告 卢比奥对此表示无可奉告
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-11-09 03:12
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBIdEZCOG95Uy04SEUwMmZTN3k3TTZVTGJnSGtjRFBZN3h3X0doLVM1dkZHRXlRQVNnNzdBME9ydFQ4LXh3c0VmcFd4YldZVVNLRnM0WXFwckppVkV3WmdfclRDQUdXN28?oc=5>
+- 场馆: RFI
+- 时间: 2026-11-09 12:36
+- 链接: <https://news.google.com/rss/articles/CBMi7ANBVV95cUxPT2QtX3lYYTRZa2t2d0k0Z1ducUxPRFlJMmNrZzM2Z2hMcEtBTlFCT242TkdXNUZNTG5VQjFRLW9RLU9ZNkVsZ3ZDc0F4d3RRbDdadkM5Z1dUMzU1TFZYbnVCNzUwTG1uMk1mbEFBTXVWQzlCb25qbi1MOEpYQlhYX2RGMGVDc1BJaGREbE04cV9YQ29yblRwZzZTcmt5NGtfVkV0V2dEOUY3XzQ0UW9YVnRnWlA2cXduLXZYcEVjOF9MNjRfSUt2aGgtUlhpN3Z6WjRkQUN5dXNQT3U1WUh5a0xLN0hvM2x4SnpKbEhzaEVnbmY4bkVWaWZubFRSWUdZYl9DcEJkU20xNGxUaUh4X2V3WFR0SHJDVmNMVHZzaU1jNi15Z2ZudEdkNWkzZ3E0ekZjZUl3YkxNZy05UGgzZm1mTEt4Q3VkWmh5OWg3MnR6OVVBYW9UbjgzNHNCc2VOLXpuVE80Q2J3dEpHb21qTldieGdOLW5kUFdoeWNNS2kyZGJveURwYTd0MDFVcnZGSzJsdlc5Znh3WFpmd0RZYUctX0tJY085OGZUeHhGSVFZOTVDLVBLUGZxUFhjVjZvelNIOTBuU0MyUk0zdmF2UUxUcTl1eVlyV1F6ZzRQbkhHU3NnVnI2aUh2X08?oc=5>
 
-### 特朗普澄清邀UFC总裁出任白宫新闻秘书只是开玩笑
+### 伊朗声称国际原子能机构近期对布什尔核设施进行了核查：你需要了解什么
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-11-09 00:01
-- 链接: <https://news.google.com/rss/articles/CBMilAFBVV95cUxNbldBZkk4SnJjajYxRmlqVkNpVEpjMXhUR3lmQ00tNFYxLXp1WndGUzN3TW9ZcnB6TWw4V01yTUczT1I1N2NkMTVyRmluV0ZwaEhKTWJ3cXlfVW9pUjItNzF1LW5DRXdMbHQ2VUVxTUxCQVpTWGpzWlpYZW5pUGJvd18xYW9kTHhBU2tPOGcyeV8xVUlE?oc=5>
+- 场馆: Al-Monitor
+- 时间: 2026-11-09 17:18
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1xREoyc3lnTWYxbERXUERDSE1aMEhOQW5VZkM4dHpnbWgyVnk3aGlIdjNaTS12dFBGYk5iZGdPcTRBVlZTUW1LSHQydFFmRDAxQ29pdERyTWVOamhZTGg2MmVZcjNnQQ?oc=5>
+
+### Trump says he's kidding about making Dana White next press secretary
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: TVB
+- 时间: 2026-11-09 14:44
+- 链接: <https://news.google.com/rss/articles/CBMikwFBVV95cUxOc1RSWlZ4SlQzdUlRZDZDR2sxcV9xWnZXVGlIVDFBRzF4ZkVfTjhqazc3VkN1YkJGTzJxQXFBcVM5dGVmTjVWX0w3UXhmbWhtTERVdFU1VzgwcU5TTWpYSHFYamJJUGVOcW9Fby1DR2xabENjV3JUZEszV2padEJqSkJCMjlfZzh5dDJycmpJWWxQaUk?oc=5>
+
+### $TRUMP币创新低，下跌30%，还能支撑得住吗？
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 币界网
+- 时间: 2026-11-09 08:30
+- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xZW5Wa01FeEc3anBiX2Flby0xbXEwNmNZSkZndUo0S0lZaEx1RGRxMXBBUEVEeV9jSTUyOHNWWHVpSlY4ZUMwU21GWWhCWkE5a0E?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-11-09 17:42  (15 条)
+
+- **特朗普** | 特朗普质疑美国中期选举结果 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBNZmZVREQyaXlhSmhTNml0UVVsUDJRNS02bEw3RElOUmFzbDkyX0lhd1Jjblh1bm1wLUR4dXR0M3o5Z0lDM1lXLWJVMWM?oc=5>
+- **特朗普** | 美国扩大对伊朗海上封锁至陆地边界，特朗普总统会晤关键谈判代表 <https://news.google.com/rss/articles/CBMi3wFBVV95cUxOandKUFAtNTBIaTJBMUl2QktDVlB2aVVEY1BrTWdPYUlqUXBrTFdvOGM0WUxERVVuWVh0NDR2SXpiOFZ2Y0VHdHo2b1VPTkVMOXhoNHhmWWlMa0dhTzBNMUwtZzY1bko2VE9uRjJVT0JFLUwzZEZDd2hDQmE2d3RZbVlOZExnVjR4MGZFemZVRzEtZWtoUF9VN3J6aTRVMUlQaFA4NnZ0WXRmM3loUDFGY0xMYUZhbWIwSTlJMm5jRHc3Z2tRRTNCcmpZRXJSak90VzlCTTA3dUpNNl9MM1d30gHiAUFVX3lxTE1LOHpXRGh1WXhvR0VwZU4xM0xNV2pSQ25LVk95ZWhHWkE0S2Y3TERhVmxlWnNvRTMzZ2tCZlFmd08wazVMNjVkSXFlLXdWWC03MHctc3dKOURJTGNiaVNyajdVUlJNVEhyOXY4QzlOREZMTWU5NFhKS2hSZzVyRlVLMy1CcFNkMGFmcWR4Rmp1S0JIelB2THk4MUZaZmdNeUhxMVNQZWxSdnFWbkdSRVFUTjF0ZWoxUW1wR1R4eDFkeVJlSEEzNDE4b2lEVkx2NVdjTVU0UFg4dzY2NFV3cnhzNXc?oc=5>
+- **特朗普** | “铁门”封锁陆路！特朗普称“目前几乎没有物资能够进出伊朗”，若谈判取得进展，再次发动打击可能性极低 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE41cW5RRmtNcUhJT3hZWTdxNDAwQjdoNGQ4Y2lTMzdvR21mZENVQ0NLLTFhaXdfMEhtcjhBcnpXV2lOenprTnVmc2lKckdvUmFURHF3?oc=5>
+- **特朗普** | 特朗普称与伊朗重启战争“极不可能”，国际油价下跌 <https://news.google.com/rss/articles/CBMi6gJBVV95cUxQdk5RWHhSMklmOWk2TWFXQ29IZE5SYm5mS2VjM09UaDRrbW83d2JKal9YRjZTRlJoRmM3eW15TW1nRGtBNG1RZE5YYzAyN1NQYzMtTEVzZXRtREVReHJoR0FzcGJ5QWp5akxFLTVUYUhacVJWbDZrWFZRNkRaX3ZpbmlJckx2RHFsYkUzTnN1ODFNVlBkY19rMVNEbVVSY3hkVjZNREM1bUJxb24xTXRVV1ZDR0pZV3NselcwVElmUGtaYXJVVHBHcnhIWXNfeG4teU5icWhKTnN3LXg4YVpvZHlFalNNV1VxUWtRVkM3Mm9iWFowM0dEaTAzcjFaZ2pnYmhxVFZRY3hjeFdxa0hsQ2Y1V01DWXdpUXZHVTBtMW9WSkVkcmh0MGM1bXFNbENCakY4Y0FiX0dfSlFrLUtiemZsU3VRTl9CM2E0c19aNVpzT1Q4WjhpbVBvX3dpbkZFNU5MU3hCSGNSZw?oc=5>
+- **特朗普** | 美国防部长面临两党弹劾威胁 获特朗普力挺誓言战斗到底 <https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZMHAydEJHWXdoR0t4RzJBWXROZU1XOWRuVGh2V2k4N2VzUHViN0F6YmN6ZlFnenExZWlJdENMNmdhUUUxaG1EMEg2ek9YVEVlM2pMWG5sOENVQTgwTnlzcGNHay0wV0ZHbmc?oc=5>
+- **特朗普** | 【今日特朗普行程：会......_7x24快讯_新浪财经 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9KYUtfQnI1dV9Wc1JuR0R1alRaOU5McURGNWtEdkVROUw3Nk9YbjhadEtJYncwNUM5TjRTX0tLbDhnR3RzMlhQbmM3RQ?oc=5>
+- **特朗普** | 特朗普重申：没了我，以色列将不复存在 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nTnlxOVNmMXJ0Uko4bFBYU0VLQlg5NnNKNFJWVm5oYUVFRTBYT0JQTUl1d1dTYngwZ0FsZTVXLVpKbG5jT2JsNXdIb2RVaHhkQ3VrNGx1YlEzRVJGNGI5aQ?oc=5>
+- **特朗普** | 特朗普称自己会去天堂 我觉得我这一生做得还不错 <https://news.google.com/rss/articles/CBMicEFVX3lxTE1Wcl9Fb3A2UmVKOXB5RW9YcVdNU3UzMUlILXpzUG1ScF9heXdUcmI2RzhMY3hNVlFOc0V1SWp3Z292NWl5UFJxR2NFT2w2aXlnakVZUmJ5Z2tIX2ZrTlo1dnhGa0dxbXhOekFtNGRjS2Y?oc=5>
+- **特朗普** | 拜登称，特朗普在1月6日采取的行动“应该伴随他直到坟墓” <https://news.google.com/rss/articles/CBMiigFBVV95cUxOX0RGWlp2VHlBYU1rYldweDlQbXBScTN4bEZhYmhwWUkyR0QzdlBXeUJUOU41dG11T3hsVWZrSWUzNXpGa3Y5RFRYNC1uY29wMUtBM3BBSGZWWXFLaGlIeXRlekJyRFllbTk3Z1BCR3UzTmw3VGs4RVFFcHRZNks1YUtLa2tRS2Q2MlE?oc=5>
+- **特朗普** | 外交努力持续！今日，特朗普和万斯将在白宫会见美伊关键调解人 <https://news.google.com/rss/articles/CBMiSEFVX3lxTFBhVDRfZG1xNkVSaWkzblpNNGdmU2puT3VDNGR3STI1QlVyeWljclVaRFg2RzJsUGp0ZkpiamkwQlJHSElON1Aycw?oc=5>
+- **特朗普** | 特朗普宣布实施“铁门”行动：“几乎没有东西能进出伊朗！”伊朗否认并谴责 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zRkpCU0d3TTBCNkNfZTgySnVlM0wzdFQxOUptSVU0SmtDeWtzbGM0TjhoTWtJOURfWm5vUDlsMkFWLUtRMFlrZUtkaWx6QnBNT05fS3I1MTZCYTNjRXNKcXdSQmJFb3ZS?oc=5>
+- **Trump** | 美国务院曾就黄仁勋与中国间谍的关系发出过警告 卢比奥对此表示无可奉告 <https://news.google.com/rss/articles/CBMi7ANBVV95cUxPT2QtX3lYYTRZa2t2d0k0Z1ducUxPRFlJMmNrZzM2Z2hMcEtBTlFCT242TkdXNUZNTG5VQjFRLW9RLU9ZNkVsZ3ZDc0F4d3RRbDdadkM5Z1dUMzU1TFZYbnVCNzUwTG1uMk1mbEFBTXVWQzlCb25qbi1MOEpYQlhYX2RGMGVDc1BJaGREbE04cV9YQ29yblRwZzZTcmt5NGtfVkV0V2dEOUY3XzQ0UW9YVnRnWlA2cXduLXZYcEVjOF9MNjRfSUt2aGgtUlhpN3Z6WjRkQUN5dXNQT3U1WUh5a0xLN0hvM2x4SnpKbEhzaEVnbmY4bkVWaWZubFRSWUdZYl9DcEJkU20xNGxUaUh4X2V3WFR0SHJDVmNMVHZzaU1jNi15Z2ZudEdkNWkzZ3E0ekZjZUl3YkxNZy05UGgzZm1mTEt4Q3VkWmh5OWg3MnR6OVVBYW9UbjgzNHNCc2VOLXpuVE80Q2J3dEpHb21qTldieGdOLW5kUFdoeWNNS2kyZGJveURwYTd0MDFVcnZGSzJsdlc5Znh3WFpmd0RZYUctX0tJY085OGZUeHhGSVFZOTVDLVBLUGZxUFhjVjZvelNIOTBuU0MyUk0zdmF2UUxUcTl1eVlyV1F6ZzRQbkhHU3NnVnI2aUh2X08?oc=5>
+- **Trump** | 伊朗声称国际原子能机构近期对布什尔核设施进行了核查：你需要了解什么 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1xREoyc3lnTWYxbERXUERDSE1aMEhOQW5VZkM4dHpnbWgyVnk3aGlIdjNaTS12dFBGYk5iZGdPcTRBVlZTUW1LSHQydFFmRDAxQ29pdERyTWVOamhZTGg2MmVZcjNnQQ?oc=5>
+- **Trump** | Trump says he's kidding about making Dana White next press secretary <https://news.google.com/rss/articles/CBMikwFBVV95cUxOc1RSWlZ4SlQzdUlRZDZDR2sxcV9xWnZXVGlIVDFBRzF4ZkVfTjhqazc3VkN1YkJGTzJxQXFBcVM5dGVmTjVWX0w3UXhmbWhtTERVdFU1VzgwcU5TTWpYSHFYamJJUGVOcW9Fby1DR2xabENjV3JUZEszV2padEJqSkJCMjlfZzh5dDJycmpJWWxQaUk?oc=5>
+- **Trump** | $TRUMP币创新低，下跌30%，还能支撑得住吗？ <https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xZW5Wa01FeEc3anBiX2Flby0xbXEwNmNZSkZndUo0S0lZaEx1RGRxMXBBUEVEeV9jSTUyOHNWWHVpSlY4ZUMwU21GWWhCWkE5a0E?oc=5>
 
 ### 2026-11-09 07:00  (16 条)
 
