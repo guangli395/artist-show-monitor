@@ -1,110 +1,98 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-11-10 16:43**
-- 本轮扫到 15679 条, 新增 **12** 条
+- 最近更新: **2026-11-10 22:06**
+- 本轮扫到 15688 条, 新增 **9** 条
 
 ---
 
-## 本轮新发现 (12 条)
+## 本轮新发现 (9 条)
 
-### 老赖拉表，新晋mean姐，肖战蔡徐坤王俊凯演唱会，内娱这么 热闹嘛影娱热点团
+### 王一博演唱会引期待，赛车摩托入场构想燃爆
 
-- 艺人/关键词: **蔡徐坤**
+- 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1793049857_m6adfc50103301luny.html>
+- 链接: <https://k.sina.com.cn/article_7879924004_m1d5ae192403302e21a.html>
 
-### 特朗普给赫格塞思“A+++”，夸其反击弹劾表现，鲁比奥称其执行命令有效
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-11-10 14:19
-- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTFBzU2VtUHBGOFd5cmUzX1VBU012ZVlxQ0JZLVV2a2dNM251NmFPa3RYYUVGUmQ5V19scjAwd1BrNk5BRG9HdnNubU13alp0LTBxX3c?oc=5>
-
-### 特朗普为黄仁勋辩护：“他说自己完全不知道那个人是间谍”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-11-10 16:01
-- 链接: <https://news.google.com/rss/articles/CBMigANBVV95cUxOd3Nib0FjSGhwaTRqQ1pzYWwtRG1xdE0xQ0NZc29obW9kbXp1VTV3WUdiVC04VFVQNldIOTRiY0hTWnFwV2ljelZjOFEtQVF4VFUwRlZaaDhLQWtSX1FpVVJ3QXByNGktUWludkd3R0IyeUlMN0ZMVDV2akFOb3NvOEgxUFpfWnVBdkFJekdxeldZNTlBV1RHWmd1d2ZxSkJPN3ZDd0ZjeDFadjdLRjQ0VWNPMlRPQnJZLTR3bUVjSnNRb2prZWRjWllaWXZucHpESUV1eXRjbF8xeFlFdFgtOVhLaDQ4Nl95NVluQldXeGplQU1PZU9WS3R2MllNSkFRMV9WbkNNbkZxbXZyT1JKWmNMU2tERFlhemZhT2Q4WGpUa21kcDFOWm1QSGdOSkQxcmMzaVRoQXRTaDlXZVk3ejRkRlBWbkpwdGdnbmpPQTZDMkhvSlJiVDdLRTRmVTkxeVctWUQtZmIyaGVIQ2dYY0ZpRDZ6Yjc5aGVFNXlFQVg?oc=5>
-
-### 特朗普质疑美国中期选举结果，称提前投票数据异常
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经_金融信息服务商
-- 时间: 2026-11-10 03:19
-- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeW5tR1BoVWVNWnRuZlFwSkR1aDJ6Smxoa05WRFl2dXdObVhSQ1l1aHVSNHl2Rk92ZjZ2eFFkRkV5MWJkZlJWY1lMQjBLbmw3aHd1MFJBenhmZmhEUks1aVRqWm4yejJrVHFUbHVkWWdCdko1S20zb21rYkxjZUhVSkJrRnRyZnhVeXJR?oc=5>
-
-### 还是小看特朗普了，结局早在他进白宫前就已写好，马斯克被算计了
+### 特朗普支持防长赫格塞思 抨击众议员梅西
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 手机新浪网
-- 时间: 2026-11-10 16:32
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE9Ed2NaQUpWbWdTdXdpY2VGTDdTdWpobWhwcnYta2c3MGFiNi10UFBJQnJFMUJNdGlRdUV1eU1ZVEx6NHdoUFlma1BTR0FxMDhtMmlxY1pRZkZSSFFyeTd4eTdSbUlTdi1QSzJCaVNqZHRTUQ?oc=5>
+- 时间: 2026-11-10 19:57
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE15MGZNRFRCWnFBZGduX3YxTm5JSWVBU3BTbkY1LVY4dVExeExCcUlyMFgtSkNoWWphSElQWFh3ZURDMzhSelJoQjZTYW9tbXM3dWM1NFhKVTdzWmkySVYzaEx1ZFhEV1JtaENiN0lfYWQ?oc=5>
 
-### 特朗普承认打击移民太强硬有害选情 民主党人质疑说一套做一套
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财新
-- 时间: 2026-11-09 23:04
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBBNDBqTWtFV1doUTkwU1dLVy1SVGg4Rk1vVldibC05Sl8wRUdVSmlOZ0E4WmlWSHdtZFFYUEttdkdENldyS1d2dHpKTUs1NDlMT0pLbnNzY3pVUm54bUFJbnEzVlRSQ3hJemc?oc=5>
-
-### 原来，加拿大十年磨一剑，只为让特朗普“流血”
+### “特朗普彻底激怒了MAGA”，保守派群起而攻之
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: QQ News
-- 时间: 2026-11-10 09:17
-- 链接: <https://news.google.com/rss/articles/CBMiV0FVX3lxTFBuYzZEcnd5cnY4WklRVmJhRzZDMnl0emRXWEctQUxaUDJ2ZkNYb1h1ZUoyOHpVUHF3b0JERExWeDFVM09JLVhOZmhpRkpDZVZzckZ5OTZGWQ?oc=5>
+- 场馆: 观察者网
+- 时间: 2026-11-10 06:04
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE11UzBNR1hJdUpyRnUzTEkxUjQ0RXJDYkZtZjJkLWM2OThKS2JaNXJ5S01iUU90M08wV3J3QTV6THhVUEhXR2tENnAxYjRtSFFaaXFHX3JnV2tjMUdOQ2ZyMUZ2UzVmMG1tUXQ3bGsyeEVfVVU?oc=5>
 
-### 达纳·怀特同特朗普出席新闻发布会，拒绝担任白宫新闻秘书
+### 拜登披露：特朗普当选后态度曾异常热情，惊得我一时语塞
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 搜狐网
-- 时间: 2026-11-10 11:00
-- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVDJUVXlzWEhOZG1DWHZYV1dtOUo5WW5DOEdGc3QwaXVNYUZNVEowWW45YmtYelJaQTNPVmV3alFKcTB0SjFMT2g1VGVqckRGSVZWeVoyVi13Y0NOQ05QVS1PVHZuVTVaQ1VQYklEUnhJNjUzbnJDWVRrZWRkUm0wQmozN0tvckRs?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-11-10 14:29
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBtQ0thN2xHdl94Z0dScjlEOHBtT0FqUWMyb3c1RmVVVEpPRjJhQzQ5VzJOR2h2bklJS3h0ZGFTelhfa1dsR291Q05JRkc?oc=5>
 
-### 特朗普和平委员会敦促以色列在洪灾后允许基本援助进入加沙
+### 杰米·拉斯金称调查特朗普的担忧是媒体编造的“叙事”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: Mezha.net
-- 时间: 2026-11-10 09:08
-- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxOa0FFMlp5T1ZPQk51S0R6M3NFY2M1emMzREpyV3ZMOGlpZnVDMWRhVTZiQnpxZHRES1lpUHF6WTBIV2xkaG05RDdaaVFLOXJBdUQ5a3pRaHY5LVZyejBfSVluV3lqVWN4ckxqV2NvSUpLYTBodmRBbXNmM1BNRjloTEdBd0dlenF6U1VZWnNOMA?oc=5>
+- 时间: 2026-11-10 14:25
+- 链接: <https://news.google.com/rss/articles/CBMiqAFBVV95cUxOS2tOd2ZnNHlUejd0dUF2X0ViU3ZrbGRMYjJBcm10ZG1QblFUMHRPemd2dl8ydlpBOVozd0lZcG5lVExQSzhNcTFRV1ZCYktTYU5hRjQ0b2U5Mzc1Q1ExM2h3ZjIxUFFCTVZ5SzB0LVhyaW1YS0ljWEJjYW1HbHAyRWRXNHE0TmkzNDhrNVltelp4UW5Lb0lFTU1Pd1RZU1Q3eWtfUThZa1g?oc=5>
 
-### 物价上涨担忧挥之不去 特朗普民调支持率接近政治生涯最低水平
+### 特朗普称将调整内阁 涉及人事变动
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-11-10 07:39
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBldVBHNWUwYmlmUmZIdlA5SThKQmFndnNIQ3p5U2dZcVVxN3Y3OVQzN2tCUm5iQ294WG5CWGh5VWVTd1BQemJJR1lSNHZNRlpXbGpFdXY2M2lOeDFVbjBiM0NaLW9uUlE3cWRNenN0MHU?oc=5>
+
+### 特朗普最新发声：再次打击伊朗可能性极低 “铁门”特遣行动正全面展开
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 财联社
-- 时间: 2026-11-10 08:04
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE5YWFUzcHdEWEc3enhBN2V4MGRFa283bjMxaEF0WlNIbGthc1NnbUlfMmtXX01RbTBzOWdJSkEtdVpBYzV4empXRg?oc=5>
+- 时间: 2026-11-10 20:25
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTFB3RFZpLVpFd3A2SmxrMWtDZUtzaVNLTG4xQ0gxZFBPUEFORVBSZGZhcFpVczVLZTJUQi1nWGUyWjlWN3BTbHNPaA?oc=5>
 
-### 美乌俄三方会谈在阿布扎比举行，卢比奥称美方是唯一能促成俄乌谈判的国家
+### 国务卿卢比奥：无需在伊朗开展大规模作战行动，美国正通过经济制裁实现目标
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: 美国之音
-- 时间: 2026-11-10 13:48
-- 链接: <https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMDB0bFNEVnYyYUg5VkN5UWdJcFBIQ0JzY0thSHFsMm43RUJkM29GOG1XQ1NUb2RaNFRSemxGSTNvYzNtSXVtcUJOd3BwdTZDcU9JRUFTVmIyckJkNUpMeHNJTDFiN2RMN0ZqR3VxaVBOanA3SnI0UnEzanJRVWZnMl9mWDFCSmhPa21qaEczZlBoT2g1YzgtVGtDQ2FNY3haWE4waFJZYUh5NEswMW9NTkk0N2sxNm9IcFFubk5kQ3p1YkpkaDBzMnY4UmJ2UmlKMldWa2k3Q1I1YzTSAd4BQVVfeXFMTnlEbmNDTjJ1cWl0N0R1ZHdrYXVBMWtIdDRJc011eThiVUd4T2Nkd2toNnVsUkxKakxfQXAzMTk3TGxMNTVzYktSRkFOd3E5dmUzbDhRM1NNTlFOOTRfdG94aVc1c0pIQVladFB6R0dGYWEzMkpRMTBDUWJhWmtPMV8yUE5yZHFrVUYyWXpDdi1VVkNGZGVBeGxMaXVQTUN0NXdHd2pWLTZKeGotLVdoWVJhdFl4SVoxTnBhcHhHRElQWUhBTUI0WVJWME4xMVdKZThaU256U3RCMm5NSmpB?oc=5>
+- 时间: 2026-11-10 21:18
+- 链接: <https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZC10SXFCTlpvcGZSWjRWMDIwQUF4MnJheVNmTnA1Vkd1MC16TXRKVFNxN0lLOE5oVjNOYzlHWnRPNHhoemJOR2dCS2FyVXdIX0tibUpRT19NR3VzVnNKc09pcFRwSGJIdWpTQ1FpYlQtQzFZeGJ0aU5sMHVCNzY0akNZU0o4d1BKTDRJbW90WVJ2Q213LVh1cmoyMmZLZ3JNVHdzc0Q5ZmxNdGo3bjNlZ21zajItelMwdmEtWWN3blpqR0NZTERZRy1raFFCVXdldlRNZXFCOTlzdjhxNnZ1MTJPam5uRFlxUFZwZ2JPMUFFUdIB9AFBVV95cUxPNTBENnZRU25GQUdZSjB1QlR2M1RhV2Y1YmtCX0haNUdGdG5LOGZNejZYTi1ZM3haalVZU2tTTF9fMW9HcEtvbjhUWUwyTlJzdENLa3gxLXBIYjU0bDI5cW5WOFVkcjh5MEVBX3N3MEJIVk8zQUVPZTdURGF6RXJLdWJKeTJYS3ZJOS1IemR1SHppVU9JLW05RUs1ZkFsNm1OeHNmS05WV0xnOElFeDliQUd2SWFhR1hQX3N1eV9MU01UYzJfV0ZPa1ZxdHNMc1J5SmtUckFJbVFWRVlGd283SXFUSnI3OTY2emlaUl9sdEZDbGJV?oc=5>
 
-### 比特币浮盈撑起财报！Trump Media三季度净赚4.097亿美元，主业仍亏2360万
+### 英伟达股价再次下滑，CEO黄仁勋面临诉讼及FBI调查
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 区块周刊BlockWeeks
-- 时间: 2026-11-10 10:19
-- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE1pc3l3MFRKYjN5MDJrbXEyLWd3bFJEWXEwRE9seGVuOEw0elFBUkwzajI1a2drMVN0OFY5eGZEMkNHYXUxOU5rZkhrWHVJUUk?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-11-10 20:22
+- 链接: <https://news.google.com/rss/articles/CBMirwFBVV95cUxQSkg4Z3RtWmVVZXg5QTdtUk1ZVkZxeFBEWDJ4Mk02Ri00c3YzRkRsU24xaXE4T2EwVXZLakJfdEpuS0ppYThqaHFZZUxzc1dsa2xBQTFzUVNPandFd0xSNWRrWTN2Zmg4V0liZTVqU3RZZlVWUTBMRW5rNUJZY3ZGYlVhb1B5RmRPUW1fYUVJZll4bE1DcDdYS19IUTZDaHFLVm9wMDNsblZSbkpaR0lv0gGyAUFVX3lxTE9xZzZQZy1fb1ZmUWljeXJkR0ZmSVRFeG9sZUpqb05XNkZHdDBtY05BMHZGU2kwZndtVlYweDZtd1RWUlA5MlpYalU0dWczOGNlOFlWX1p2b2gxYklRY2pWdnJVWXV6M2UxbXpza3l4bzNoUzVsUktoWEcyUzlGblBsZnM1Z21mUWxDdGVydEtvdms3VENvc3BZbjJZbHp4Q2ZnYnA2U1l1TmdKTlFZTzl0LUE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-11-10 22:06  (9 条)
+
+- **王一博** | 王一博演唱会引期待，赛车摩托入场构想燃爆 <https://k.sina.com.cn/article_7879924004_m1d5ae192403302e21a.html>
+- **特朗普** | 特朗普支持防长赫格塞思 抨击众议员梅西 <https://news.google.com/rss/articles/CBMicEFVX3lxTE15MGZNRFRCWnFBZGduX3YxTm5JSWVBU3BTbkY1LVY4dVExeExCcUlyMFgtSkNoWWphSElQWFh3ZURDMzhSelJoQjZTYW9tbXM3dWM1NFhKVTdzWmkySVYzaEx1ZFhEV1JtaENiN0lfYWQ?oc=5>
+- **特朗普** | “特朗普彻底激怒了MAGA”，保守派群起而攻之 <https://news.google.com/rss/articles/CBMic0FVX3lxTE11UzBNR1hJdUpyRnUzTEkxUjQ0RXJDYkZtZjJkLWM2OThKS2JaNXJ5S01iUU90M08wV3J3QTV6THhVUEhXR2tENnAxYjRtSFFaaXFHX3JnV2tjMUdOQ2ZyMUZ2UzVmMG1tUXQ3bGsyeEVfVVU?oc=5>
+- **特朗普** | 拜登披露：特朗普当选后态度曾异常热情，惊得我一时语塞 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBtQ0thN2xHdl94Z0dScjlEOHBtT0FqUWMyb3c1RmVVVEpPRjJhQzQ5VzJOR2h2bklJS3h0ZGFTelhfa1dsR291Q05JRkc?oc=5>
+- **特朗普** | 杰米·拉斯金称调查特朗普的担忧是媒体编造的“叙事” <https://news.google.com/rss/articles/CBMiqAFBVV95cUxOS2tOd2ZnNHlUejd0dUF2X0ViU3ZrbGRMYjJBcm10ZG1QblFUMHRPemd2dl8ydlpBOVozd0lZcG5lVExQSzhNcTFRV1ZCYktTYU5hRjQ0b2U5Mzc1Q1ExM2h3ZjIxUFFCTVZ5SzB0LVhyaW1YS0ljWEJjYW1HbHAyRWRXNHE0TmkzNDhrNVltelp4UW5Lb0lFTU1Pd1RZU1Q3eWtfUThZa1g?oc=5>
+- **特朗普** | 特朗普称将调整内阁 涉及人事变动 <https://news.google.com/rss/articles/CBMicEFVX3lxTFBldVBHNWUwYmlmUmZIdlA5SThKQmFndnNIQ3p5U2dZcVVxN3Y3OVQzN2tCUm5iQ294WG5CWGh5VWVTd1BQemJJR1lSNHZNRlpXbGpFdXY2M2lOeDFVbjBiM0NaLW9uUlE3cWRNenN0MHU?oc=5>
+- **特朗普** | 特朗普最新发声：再次打击伊朗可能性极低 “铁门”特遣行动正全面展开 <https://news.google.com/rss/articles/CBMiSEFVX3lxTFB3RFZpLVpFd3A2SmxrMWtDZUtzaVNLTG4xQ0gxZFBPUEFORVBSZGZhcFpVczVLZTJUQi1nWGUyWjlWN3BTbHNPaA?oc=5>
+- **Trump** | 国务卿卢比奥：无需在伊朗开展大规模作战行动，美国正通过经济制裁实现目标 <https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZC10SXFCTlpvcGZSWjRWMDIwQUF4MnJheVNmTnA1Vkd1MC16TXRKVFNxN0lLOE5oVjNOYzlHWnRPNHhoemJOR2dCS2FyVXdIX0tibUpRT19NR3VzVnNKc09pcFRwSGJIdWpTQ1FpYlQtQzFZeGJ0aU5sMHVCNzY0akNZU0o4d1BKTDRJbW90WVJ2Q213LVh1cmoyMmZLZ3JNVHdzc0Q5ZmxNdGo3bjNlZ21zajItelMwdmEtWWN3blpqR0NZTERZRy1raFFCVXdldlRNZXFCOTlzdjhxNnZ1MTJPam5uRFlxUFZwZ2JPMUFFUdIB9AFBVV95cUxPNTBENnZRU25GQUdZSjB1QlR2M1RhV2Y1YmtCX0haNUdGdG5LOGZNejZYTi1ZM3haalVZU2tTTF9fMW9HcEtvbjhUWUwyTlJzdENLa3gxLXBIYjU0bDI5cW5WOFVkcjh5MEVBX3N3MEJIVk8zQUVPZTdURGF6RXJLdWJKeTJYS3ZJOS1IemR1SHppVU9JLW05RUs1ZkFsNm1OeHNmS05WV0xnOElFeDliQUd2SWFhR1hQX3N1eV9MU01UYzJfV0ZPa1ZxdHNMc1J5SmtUckFJbVFWRVlGd283SXFUSnI3OTY2emlaUl9sdEZDbGJV?oc=5>
+- **Trump** | 英伟达股价再次下滑，CEO黄仁勋面临诉讼及FBI调查 <https://news.google.com/rss/articles/CBMirwFBVV95cUxQSkg4Z3RtWmVVZXg5QTdtUk1ZVkZxeFBEWDJ4Mk02Ri00c3YzRkRsU24xaXE4T2EwVXZLakJfdEpuS0ppYThqaHFZZUxzc1dsa2xBQTFzUVNPandFd0xSNWRrWTN2Zmg4V0liZTVqU3RZZlVWUTBMRW5rNUJZY3ZGYlVhb1B5RmRPUW1fYUVJZll4bE1DcDdYS19IUTZDaHFLVm9wMDNsblZSbkpaR0lv0gGyAUFVX3lxTE9xZzZQZy1fb1ZmUWljeXJkR0ZmSVRFeG9sZUpqb05XNkZHdDBtY05BMHZGU2kwZndtVlYweDZtd1RWUlA5MlpYalU0dWczOGNlOFlWX1p2b2gxYklRY2pWdnJVWXV6M2UxbXpza3l4bzNoUzVsUktoWEcyUzlGblBsZnM1Z21mUWxDdGVydEtvdms3VENvc3BZbjJZbHp4Q2ZnYnA2U1l1TmdKTlFZTzl0LUE?oc=5>
 
 ### 2026-11-10 16:43  (12 条)
 
