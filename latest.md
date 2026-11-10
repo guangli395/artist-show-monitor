@@ -1,134 +1,127 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-11-10 01:03**
-- 本轮扫到 15655 条, 新增 **15** 条
+- 最近更新: **2026-11-10 08:37**
+- 本轮扫到 15667 条, 新增 **12** 条
 
 ---
 
-## 本轮新发现 (15 条)
+## 本轮新发现 (12 条)
 
-### 范特西25周年，周杰伦作曲徐若瑄填词开不了口成跨越时代青春主题曲
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7857201851_1d45362bb06801kw66.html>
-
-### 黄仁勋与疑似中国间谍婚外情风波：特朗普称FBI已介入调查
+### 俄外长就俄美乌三方会谈称对特朗普政府“不抱幻想”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-11-09 23:51
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDYUg1VnBfYjE2VF95OXhTV3RYTjNIOUptUlNEbzVkOURrOFlaRjZfRmdPdl9TeXdEb0RETHdqamlLdHZvNXVHTVpZZUhKT0lSbnc5YVROUmxFWnpDajdZcV9BUU9Ma1nSAWxBVV95cUxQZEJHTTRIOGpha0ZHVmJaeU5iZk1NaTlscEhPaU9fS2NyQlozbDZqZnhWSXRsbWo0eU8wcUFFUHNwQnZoanFpbnRhYUxEaDBGM2dySWJPWlVMWGQwVzJJcEhteE1aU05zeUVYdTk?oc=5>
+- 场馆: ThePaper.cn
+- 时间: 2026-11-10 08:22
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBTME10V1dGRTY1SU9QZ0gzek04M2RQM01UWkJLTTQ2WDNDZ1dkeXlaMDl0ZDU2MGp1MFB0Um9GTVNkNkItTjUzMjh1d3oxT1dPUXVrRnJicU1xU0JVdkZ3dg?oc=5>
 
-### 特朗普总统：黄仁勋说不知道婚外情对象是一名间谍
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-11-10 00:11
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5rTTJxOUJWMnpacjNIVGNXVWR0NmRoTEMyMExpbU1rVjRKMVcxSG11bkQ5ZkVTenRwVmhSUE0yZ3NjUzFrS1JkNmZQQTFrVkQ1LXdiUVY4TWNoYjdKNTVSeWFjZWo4R29UelFHZElXLU13Q1NlV2V4ctIBe0FVX3lxTE9EQ1hlaFRoWXZLMUxUX2VjZzFJdFU5Q1J0eUMtYUhjRHAycWZtLTd3SkIxOTdJZ1BsSlBiQmViWGpkQXVJN0VtcTBITldJY1RlZ3JHa09GelJwaVNzc3hoQ3E3ZHFVbGRVeTkzNmp6aW9iSS1FQXVEV2tnWQ?oc=5>
-
-### 英伟达黄仁勋丑闻与更趋强势的国会将考验特朗普
+### 特朗普称伊朗战事已“事实上结束”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-11-10 00:51
-- 链接: <https://news.google.com/rss/articles/CBMi1gJBVV95cUxNZUVnVnhtLWw3TXhhdUowVDI2MHhyTnRCMElZVHM5TUhtUE5xZkRxclNsTUd3ak03Y2dtMG5FZy1MTUZMZGFHMnhraWV4Ujd2MV9zdDRRSWVfTFA0VjNyc20tTU9jVVpudDBmRGpiQVluR0JyUnpuLV85TDNJbWdjR1VEajVrbWdRQWVkZkFRV05fQURmSEtRYXJGZ0g1UmFvWDB4Wno0UExWU3gtMHJSRXJjVmw0bVIxbzVBVkhZLU1kYy1EekZlZG5RWjlVb3hWRi04a2dOb0VvNWJCWXc0RzdNcWdYY19RLTBqQ2VoSVpCWkFoSk04VW1QMWpWNHBMR0lrNTQzdElLTk1UZ0ZEaDF4b3ROSGgxMU5MTEY1a1MyRkgzNUtYdW91NUNRQWphS3lMTzcxR2J0TE5BTm9xc2hfTUZicXprWWVLOWlfdFpaSVBSRWc?oc=5>
+- 场馆: 新华网
+- 时间: 2026-11-10 00:25
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBuZmRRc0EtQkd6dmdnbUhtRm5HMjZqTnhkdHduSHhPaHVIME9obnYyYUtMZkVzNjdWRklWeUF5dEZoOUhoNnJCYjNpREhfd1dMSS1VYjg2ckJ3MlJNM2tJUGQwVjdTRU1UdmxxUVJtZUU0LVhaLTduazlMWkU1bzA?oc=5>
 
-### 美伊核谈判重大进展？据称就伊朗铀浓缩丰度达成一致，特朗普称出现结束战事积极势头
+### 拜登回忆录披露：特朗普在大选后会晤中态度异常热情，拜登称被惊住并打断
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-11-10 07:13
+- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTE90ai15WHZfWEFUbTJqZjZyeDJBcmlaY0VDd3ZOWnBObFU4LVMyeWY3VkpDREFrdm9jUUtsUVBMdkVDNzE3SnZzdWh4bFdaYjRxamc?oc=5>
+
+### 特朗普质疑美国中期选举结果，称提前投票数据异常
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-11-09 15:25
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBhQWNJV0RuaVF1cnU3N19ucF9Jd2F3MTQxak9nTGJlVWhrQlVmV1J6ZHNWcEtoVVExMm5KUWxZdGdqZnh1X3lNdnU3S1U?oc=5>
+
+### 美国民主党考虑以政府停摆为筹码，逼迫特朗普结束伊朗战争
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 华尔街见闻
-- 时间: 2026-11-09 22:25
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wcngyTDVuelBfcDZ6TjdpVWg5S1hMbDRIcS1LVndodVpnYzV6ZmNJVzY0S1RKRjh5MnRBOUJqc3BqM3RncUdoQ1VnQWFXU0otS1JV?oc=5>
+- 时间: 2026-11-09 19:02
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE1HU2R6OTVwckpYeFVacDFPLWxOSDN0Ql85V2Ytel9WMHZFQUFzcWN6ZFNvTVNoN3c1NzZVM3g2UGhCbUFRWTJQNmU4bFV3RWFsbEdv?oc=5>
 
-### 特朗普再次指责中期选举存在舞弊
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-11-09 22:15
-- 链接: <https://news.google.com/rss/articles/CBMikwJBVV95cUxONF9NcHhlb1hXLUJuTEs0SmdiLUhMWWJtZHFjMF85QnpuTjVYdklWX0dmNlBEYWNtZUpLbEpIc19rQ25oVnZiZGUtNmJYOGFkdUxvWVRvVXZDN2RvRFpzenFwZ3U5cXBLTTFzdkplM0tUNFk2NzZyYko5VlFTWE9zY3pJOWJJVjc0MTM4YjJacDNfOFhmR2tZQldXamxZbWplODQ3V1JoZDNQMzlVdjNVMV9sTzNZZ2FBZ0pEY1RRVGdnaTVZRjFTeXlNUk5vTDR2M0FOdnJjXzJ4SF92NUFLVldVcWo5dTBYRFpZa3NxQzluVThyNktpcHh6SVZOZ0ZkeklJcTRwXzREYnhKRVlBUHdobw?oc=5>
-
-### 特朗普接受采访分析中期选举失利原因
+### 特朗普重大表态！赫格塞思若遭弹劾将获全力支持，怒斥共和党议员是“彻底的失败者”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-11-09 23:05
-- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxONHYzOThpZF9FMXZ6MjNDSE5WWlQzdU44ajBMNG15Nkt0NlFFUjV1eEItYmFFOUJ4R2ZpMFN4WFRXV1g5dXB5ZWwwWGtlU1E1TUhoeDhKX180cmMwVWt3ejYyWWdWRWZqdlA4M0x5Y3R0VHZ3VGtWc3FKbTh2MzF6Yzlwdml6RzY0OXpj?oc=5>
+- 场馆: 金融界
+- 时间: 2026-11-10 02:43
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTFBlbkJhY2NiMHdpTDVDelhDRWdGMzZwZEpsUWlLRXlsWl9HZEJzM3BHZGRtcG0xaTJ4VFFfOS1JT0U5S09UalpyZ290ZXpzZXA5X1Q4VmpWei1OeE5LZFRGYy1MZG1jdTBSSWg0b1ZXOVlfeWFa?oc=5>
 
-### 美国防部长赫格塞斯遭众议员弹劾，特朗普公开支持并谴责发起者
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-11-09 22:57
-- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTE15ZFRZVzRYUHBNY0w0QWVvd1p2V0hfNUFwejQ1V3hIZjcwc0dKVzF5WWdhR215LWhrd1lkZGQwV1RCVmxVN0VHcnJIejB4Zk1Rc0E?oc=5>
-
-### 共和党众议员梅西推动弹劾国防部长赫格塞思：指控其未经授权对伊朗行动超90天
+### 共和党人要弹劾赫格塞思，特朗普怒骂
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-11-10 00:29
-- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hRGk1aXdjLXpLam14X2NHQXRNbTVuUDhuUDA5ZVdlcW5hRTZXSC1jYW1pZ1NxZlRneC1BWHdhWEp4Y29zZ3YySmkxOERvWFktYWc?oc=5>
+- 场馆: 观察者网
+- 时间: 2026-11-10 00:55
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5FR0RWX2ZNY3d4QUFMaVhZbjd6VzN2WXBYdk1lOHg2QmVUamlsbWZqemNFSkpnRmpsQU8xZ0pQM1BxdUtkVWhna3laMnd5WDdiYkNrNUxFYWlRMjQ0dDFyOVphaGYzZVZBY3R4eEp6djdSb28?oc=5>
 
-### 特朗普称下周或与习近平、普京在中国举行三方会谈
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-11-09 22:21
-- 链接: <https://news.google.com/rss/articles/CBMi6AJBVV95cUxQWWxuQ3p1XzRDakNjd0JLYkQ3djdmUzkwcmo0UERaZzktMWJyMU5hckJndnN4d21FQzhRRkR3aXkzYXZFaVdxbUVnT04yeG03dk14czIzaVczRHlxSWhGUWJOOWpPTUNuMTdleU52ZEdQczNidEVlSGZWNFZWNDhLaFAzdlNvSEdPdFF0MlpKOHNsQ2pjX04xbUJmZzNPT1huWnVORENNLUhYQWJCMkpicnFJd0d5QlZFUTY1MWptdGN5MmJ0QlRuOFhGNG5qRjJuNGlHQ1ptaEF0bzNoak5yUThWNjBoVURTN3U4S0dWakxaVlFqdkJtZ3Qxek9ET0xwYmJpT0llV0k3UDJjazhVU0ZFUTk2TTBEMVkwbU0zUDlWUmx0VWJlQUdnME1TVnhndEtlR2hvb0ZtcXd3eUhFUU9QMWZxYW5mMXlpNkJKX2dRX2Nha0hqN0NEQUdnUFgxWTZyWjdLeDc?oc=5>
-
-### 特朗普回应以色列新政府组阁 观点相近拭目以待
+### 特朗普质疑中期选举结果 民主党人回应：迟早的事
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-11-10 00:37
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBNT1dac2ZqcGJGNmUtMTB5WEpRY1pVenZaZ08yNURuajc4d29McGN3YThEc2pjajA5Y0stSGtaUDZtSVNzS09FQXVSN1otQVJoa2EyUUY4MHhIQnBBVUY0WFhKVDdjZDQzaHhkbVExUmQ?oc=5>
+- 场馆: 中国新闻网
+- 时间: 2026-11-10 08:02
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE40UVA5RmJvaTBXR3VWWi1zaDduR1ZLek51WW83eFU4a05ORDNCaXAxeExoUUtrazRpMzFZVWlnNV9WWTh5Y1JZNy1rU3hJbmMyUDNkd0QyWmYyYk15RTk5OE9uMmJzejVP?oc=5>
 
-### 中国要求特朗普、习近平和普京峰会严格按预定脚本进行，美国不愿接受
+### 美伊和平又现曙光？特朗普：结束战争现积极势头 不太可能打击伊朗
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-11-09 23:42
-- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaDhqWTR6Z0Q5ejA4Z1lxbGVJWWRRQklWS0FLdXg3UGNyNVVOLUFpYk9GdXdNLUwtZVhYMmpmaXRnMi13X01naHBzdWNFRDZhTFpDMjF3QkVvTW5zWEp6YUIzLV9iZ0s0VDB5ZTJMbTVrb0N1UWEtY3cwVmlXdDg4bk5HaG5pRHlGRWdrVUFVNDdiWnFoVWt0SzJsdDhyMktXODJvdjU5RTZXZw?oc=5>
+- 场馆: 财联社
+- 时间: 2026-11-09 23:57
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE5jNVJueGFHVUJncVJMUG0zSkhEdmlrUlRDTUE0RVJ1YWlsRk1pRTZjT1lTMGZtd3FhNlVadzJoMzhCa1U2LTl4Wg?oc=5>
 
-### 在阿布扎比会谈前，美国寻求为乌克兰提供北约式的安全保障
+### 特朗普称伊朗战事已“事实上结束 ”，美国共和党议员对防长赫格塞思发起弹劾
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 四川在线
+- 时间: 2026-11-10 05:14
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JVW9GRlBQRHliajh1SjE5NVFZUlIxWWtKT1dFUEZJM3FGdTNEbFZ3RWJnZlh6aWx2Q0FSOEVGcEllYVFUeTVINmR5eFQ0c2R3dl9TdnU3UzA4Y21BZE5LTg?oc=5>
+
+### Trump's Plan to Lower Drug Prices in U.S. Is Leading to Fewer New Drugs in Europe -- WSJ
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-11-09 23:21
-- 链接: <https://news.google.com/rss/articles/CBMixAFBVV95cUxOdkk1SEEzbnR1SDVYNlgybzFtdENxdjVxckQ1WWdhb1dicXVsOTVmYVhUaFloeXpjajBvbG5hT2ZkVW5iSy1XWVFXX01wSUZlOVlDbnZPZTNpUFA3MDdsYzVSMnc2LVY2RFMycUE4QkxZS2FvcnVuQjhNbk0zNXhoSzhYWW9UQ3lCeGp4N2p3bllLRXRELVdmSFh5Zi1Udjg3MERoOWpqVHhTTDlpM1VmSk9TeGl4U1QwVmEwQVpfczhKdTZ00gHHAUFVX3lxTFBpRzVzUWh6RVV0T3VBVWZLWHZIQUdGcnAyRVotWlZ0TkY3QkV3b2Q4a3lwc2dYak50YU9zY3FXVllUSTdTVUc3R25yQktEbkszNWV5eU56QXVURUctcWh1d1VlMFVJXzdDeVpxbVlmbjlEUXVGM2JsdExJVzBjZGVnNjdxenBrdE5GSW1rakJiOTlIX2kwQVdWTUJkVERPREpYLWxRYXdDRmRYb2tEd2gydjRodzUtRnVhcGFyZnAtbll4WUNzMDA?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-11-10 01:30
+- 链接: <https://news.google.com/rss/articles/CBMilgFBVV95cUxNLTRfaTdEc2JYVUNxdlV2OFpoNWdpTDRZZmlOVFpnNW9CUWhaYzZCZWc4VE9EcHNuTUtObGx6emtTNm9iLUtxdFVaVS1rTURlVXpWWEltX3dRaW11V25abUNDYzdRZ0xEVEdmUEhjVlZZaVp1N3FkakZXb1djdnlnM1hlRmZMdWdKaHdVYnJoT1ROZGllN3c?oc=5>
 
-### Trump Media & Technology Group首次实现季度盈利，加密资产收益推动业绩大幅改善提供者Investing.com
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 英为财情 Investing.com
-- 时间: 2026-11-09 23:06
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LSW0zZFAtZDkxVG85RXVlZzJkcUJKaHktclZZQWVoOFVzYkVnOUFRSjNyY0l3TGl1ZVZOY0ZsT1A1YVYzSGJRamFOejh2YWNyUzIycllsRXJyOHlRYXBwYWI2VUc?oc=5>
-
-### 中国继续暂停对美部分贸易措施两个月
+### 黄仁勋对特朗普称自己不知婚外情对象疑似中国间谍
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: DW.com
-- 时间: 2026-11-09 15:14
-- 链接: <https://news.google.com/rss/articles/CBMi3gJBVV95cUxOZjNIakJMS0pFeHE4bnJTbjJ4aXNmYlVNdTh2V1ZKUFdmblQtWDFfTlpibGlvdFJoSGtJUW9xR0lnUHN1YWpZeG53N0tjVnJ1Mi1fOVNOcVBFSXYtSy1ockJWNmFpYVVkem9GV1lzd2JHdVlIbllNdWF0emthdHBvMlU2SHU0VHM3OUdSQmpRWG1lSnY2c1I2R2Q0V1VpcHVEbTFScV9kWmd0SFdfbnBhV3c5NWhjYmtPb25xS0FQU2trZkt4a3FJYkxTNldBbkljSFE2VTdibGNJUm8yOVEydFcwSFI3a2pyMUFMWUF5NGZ3d3pjX0xhQi1pNmJncHhfbjFVNmlQWDZXeXJiWGhGOUo3c3dsWDNtdHB3MnlFdHhfU1NaQUVRY0hvZFJYQThVN1o5UFdySnVVN3NDaU9JaFhoLVl1a1ZnNnJDNVJzMkxzZnVrbkk5anlySnVhd9IB3gJBVV95cUxNR19kSURpcjNSTFpJX0ZvR1lKWlpfTE5sR3FHbXZYLTN5NjVpNEd3aWFiVEJVRHkyX0NEOEpOakZDN29vLVByWXk2b1QycmdMNU0yOGItWThKa0h6ZS10QlMzRHFlRzAzVW02OWJEdG5DbnkxbzVZZ0cxR2wwSzl5bjhWek1taVBnYndrWmV3Zzh2enhERWF4VThJWi1xOHVXTlBjMjVGdkZtVEgtbndLNGlwZXZvZERuSTZ2VEwyQ0J5U0ppQlJVQzBfOWJINFRDa0lvdmh6ZUFWaFR1SGVSbFdvVUJZMHVsejhac2ItZXJxS1pRVHN0QW02eW1lUmEwRTRka1A3WWk2LUpiQmFraVFPTDFidnFnMTFxSG0waEhZTTRsMk1hYnhfaHNYWWsxTmVXVm1Vb1VLdzN1blpqTGNvVVZES0RNbmo3TnVLZC1rcjQ1QkQyYmxaVUkyUQ?oc=5>
+- 场馆: 纽约时报中文网
+- 时间: 2026-11-10 02:04
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE5KZzg4Z05EVWFOSmtmNjRKNXNvX210SW00TUVSMVR4MC1jNGJ2ZTRhUWFkTmozSnpnczMxa2lLd202SVlLM0NKd24zSkYwQjJKWm1DV1l2SlpWY3Jjd1lZVFdlRzA3M3BIY0Zj?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-11-10 08:37  (12 条)
+
+- **特朗普** | 俄外长就俄美乌三方会谈称对特朗普政府“不抱幻想” <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBTME10V1dGRTY1SU9QZ0gzek04M2RQM01UWkJLTTQ2WDNDZ1dkeXlaMDl0ZDU2MGp1MFB0Um9GTVNkNkItTjUzMjh1d3oxT1dPUXVrRnJicU1xU0JVdkZ3dg?oc=5>
+- **特朗普** | 特朗普称伊朗战事已“事实上结束” <https://news.google.com/rss/articles/CBMif0FVX3lxTFBuZmRRc0EtQkd6dmdnbUhtRm5HMjZqTnhkdHduSHhPaHVIME9obnYyYUtMZkVzNjdWRklWeUF5dEZoOUhoNnJCYjNpREhfd1dMSS1VYjg2ckJ3MlJNM2tJUGQwVjdTRU1UdmxxUVJtZUU0LVhaLTduazlMWkU1bzA?oc=5>
+- **特朗普** | 拜登回忆录披露：特朗普在大选后会晤中态度异常热情，拜登称被惊住并打断 <https://news.google.com/rss/articles/CBMiUkFVX3lxTE90ai15WHZfWEFUbTJqZjZyeDJBcmlaY0VDd3ZOWnBObFU4LVMyeWY3VkpDREFrdm9jUUtsUVBMdkVDNzE3SnZzdWh4bFdaYjRxamc?oc=5>
+- **特朗普** | 特朗普质疑美国中期选举结果，称提前投票数据异常 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBhQWNJV0RuaVF1cnU3N19ucF9Jd2F3MTQxak9nTGJlVWhrQlVmV1J6ZHNWcEtoVVExMm5KUWxZdGdqZnh1X3lNdnU3S1U?oc=5>
+- **特朗普** | 美国民主党考虑以政府停摆为筹码，逼迫特朗普结束伊朗战争 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE1HU2R6OTVwckpYeFVacDFPLWxOSDN0Ql85V2Ytel9WMHZFQUFzcWN6ZFNvTVNoN3c1NzZVM3g2UGhCbUFRWTJQNmU4bFV3RWFsbEdv?oc=5>
+- **特朗普** | 特朗普重大表态！赫格塞思若遭弹劾将获全力支持，怒斥共和党议员是“彻底的失败者” <https://news.google.com/rss/articles/CBMidEFVX3lxTFBlbkJhY2NiMHdpTDVDelhDRWdGMzZwZEpsUWlLRXlsWl9HZEJzM3BHZGRtcG0xaTJ4VFFfOS1JT0U5S09UalpyZ290ZXpzZXA5X1Q4VmpWei1OeE5LZFRGYy1MZG1jdTBSSWg0b1ZXOVlfeWFa?oc=5>
+- **特朗普** | 共和党人要弹劾赫格塞思，特朗普怒骂 <https://news.google.com/rss/articles/CBMic0FVX3lxTE5FR0RWX2ZNY3d4QUFMaVhZbjd6VzN2WXBYdk1lOHg2QmVUamlsbWZqemNFSkpnRmpsQU8xZ0pQM1BxdUtkVWhna3laMnd5WDdiYkNrNUxFYWlRMjQ0dDFyOVphaGYzZVZBY3R4eEp6djdSb28?oc=5>
+- **特朗普** | 特朗普质疑中期选举结果 民主党人回应：迟早的事 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE40UVA5RmJvaTBXR3VWWi1zaDduR1ZLek51WW83eFU4a05ORDNCaXAxeExoUUtrazRpMzFZVWlnNV9WWTh5Y1JZNy1rU3hJbmMyUDNkd0QyWmYyYk15RTk5OE9uMmJzejVP?oc=5>
+- **特朗普** | 美伊和平又现曙光？特朗普：结束战争现积极势头 不太可能打击伊朗 <https://news.google.com/rss/articles/CBMiSEFVX3lxTE5jNVJueGFHVUJncVJMUG0zSkhEdmlrUlRDTUE0RVJ1YWlsRk1pRTZjT1lTMGZtd3FhNlVadzJoMzhCa1U2LTl4Wg?oc=5>
+- **特朗普** | 特朗普称伊朗战事已“事实上结束 ”，美国共和党议员对防长赫格塞思发起弹劾 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JVW9GRlBQRHliajh1SjE5NVFZUlIxWWtKT1dFUEZJM3FGdTNEbFZ3RWJnZlh6aWx2Q0FSOEVGcEllYVFUeTVINmR5eFQ0c2R3dl9TdnU3UzA4Y21BZE5LTg?oc=5>
+- **Trump** | Trump's Plan to Lower Drug Prices in U.S. Is Leading to Fewer New Drugs in Europe -- WSJ <https://news.google.com/rss/articles/CBMilgFBVV95cUxNLTRfaTdEc2JYVUNxdlV2OFpoNWdpTDRZZmlOVFpnNW9CUWhaYzZCZWc4VE9EcHNuTUtObGx6emtTNm9iLUtxdFVaVS1rTURlVXpWWEltX3dRaW11V25abUNDYzdRZ0xEVEdmUEhjVlZZaVp1N3FkakZXb1djdnlnM1hlRmZMdWdKaHdVYnJoT1ROZGllN3c?oc=5>
+- **Trump** | 黄仁勋对特朗普称自己不知婚外情对象疑似中国间谍 <https://news.google.com/rss/articles/CBMia0FVX3lxTE5KZzg4Z05EVWFOSmtmNjRKNXNvX210SW00TUVSMVR4MC1jNGJ2ZTRhUWFkTmozSnpnczMxa2lLd202SVlLM0NKd24zSkYwQjJKWm1DV1l2SlpWY3Jjd1lZVFdlRzA3M3BIY0Zj?oc=5>
 
 ### 2026-11-10 01:03  (15 条)
 
