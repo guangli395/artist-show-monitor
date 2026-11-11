@@ -1,86 +1,159 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-11-10 22:06**
-- 本轮扫到 15688 条, 新增 **9** 条
+- 最近更新: **2026-11-11 02:02**
+- 本轮扫到 15704 条, 新增 **16** 条
 
 ---
 
-## 本轮新发现 (9 条)
+## 本轮新发现 (16 条)
 
-### 王一博演唱会引期待，赛车摩托入场构想燃爆
+### 肖战巡回演唱会抢票未果，妻子称肖战王一博更帅
 
 - 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924004_m1d5ae192403302e21a.html>
+- 链接: <https://k.sina.com.cn/article_7811142420_m1d194931403301f770.html>
 
-### 特朗普支持防长赫格塞思 抨击众议员梅西
+### 王一博演唱会引期待，赛车摩托入场太燃
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-11-10 19:57
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE15MGZNRFRCWnFBZGduX3YxTm5JSWVBU3BTbkY1LVY4dVExeExCcUlyMFgtSkNoWWphSElQWFh3ZURDMzhSelJoQjZTYW9tbXM3dWM1NFhKVTdzWmkySVYzaEx1ZFhEV1JtaENiN0lfYWQ?oc=5>
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5934541885_m161b9ec3d03301fpfy.html>
 
-### “特朗普彻底激怒了MAGA”，保守派群起而攻之
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-11-10 06:04
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE11UzBNR1hJdUpyRnUzTEkxUjQ0RXJDYkZtZjJkLWM2OThKS2JaNXJ5S01iUU90M08wV3J3QTV6THhVUEhXR2tENnAxYjRtSFFaaXFHX3JnV2tjMUdOQ2ZyMUZ2UzVmMG1tUXQ3bGsyeEVfVVU?oc=5>
-
-### 拜登披露：特朗普当选后态度曾异常热情，惊得我一时语塞
+### 特朗普被曝接近敲定新任白宫发言人 保守派评论员弗格森成热门人选
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-11-10 14:29
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBtQ0thN2xHdl94Z0dScjlEOHBtT0FqUWMyb3c1RmVVVEpPRjJhQzQ5VzJOR2h2bklJS3h0ZGFTelhfa1dsR291Q05JRkc?oc=5>
+- 时间: 2026-11-11 01:15
+- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTE85dldZMkVOQzFUa1llMXh6SHgtdldSRFJGVUFTbFBOZFgxc3VQdVhSaHJtc2pBR3ZnWTBzS2cyYmU4M2FHMWdGQm1ydDlXUXBnd1E?oc=5>
 
-### 杰米·拉斯金称调查特朗普的担忧是媒体编造的“叙事”
+### 两岸圆桌派：特朗普的否决权，能否保住“黄仁勋们”？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Mezha.net
-- 时间: 2026-11-10 14:25
-- 链接: <https://news.google.com/rss/articles/CBMiqAFBVV95cUxOS2tOd2ZnNHlUejd0dUF2X0ViU3ZrbGRMYjJBcm10ZG1QblFUMHRPemd2dl8ydlpBOVozd0lZcG5lVExQSzhNcTFRV1ZCYktTYU5hRjQ0b2U5Mzc1Q1ExM2h3ZjIxUFFCTVZ5SzB0LVhyaW1YS0ljWEJjYW1HbHAyRWRXNHE0TmkzNDhrNVltelp4UW5Lb0lFTU1Pd1RZU1Q3eWtfUThZa1g?oc=5>
+- 场馆: 观察者网
+- 时间: 2026-11-11 01:02
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxOVhCYm5fRWlVYzNCUjJEZDcyeG4ydDk5UW9FemdYZjJpVTlaYXRGZFQwME1JVGdRY3NKMHlDNVVZMlFSaGx1b2FyVTFheFQ0WVdqNzdUUWRFMWloUXdELXBxclZEVUxs?oc=5>
 
-### 特朗普称将调整内阁 涉及人事变动
+### 原来，加拿大十年磨一剑，只为让特朗普“流血” 贸易战策略奏效
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 中华网
-- 时间: 2026-11-10 07:39
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBldVBHNWUwYmlmUmZIdlA5SThKQmFndnNIQ3p5U2dZcVVxN3Y3OVQzN2tCUm5iQ294WG5CWGh5VWVTd1BQemJJR1lSNHZNRlpXbGpFdXY2M2lOeDFVbjBiM0NaLW9uUlE3cWRNenN0MHU?oc=5>
+- 时间: 2026-11-11 00:35
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBEanlKY0l5LURTOUt1b3k2N3ViamhjSlJjSTJGVmwyT0E0RkM1OG5DX3l1alNUMUoyd2xLREFrcVlMeEp1RHpDbUpwSHBsVUlfc1VQb1lja3FUYWxlbUhaUkRZcFIyVm9aSUh2b1hGZFI?oc=5>
 
-### 特朗普最新发声：再次打击伊朗可能性极低 “铁门”特遣行动正全面展开
+### 特朗普宣布“铁门”行动从陆上封锁伊朗 专家称漏洞多难如愿
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-11-10 20:25
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTFB3RFZpLVpFd3A2SmxrMWtDZUtzaVNLTG4xQ0gxZFBPUEFORVBSZGZhcFpVczVLZTJUQi1nWGUyWjlWN3BTbHNPaA?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-11-10 11:59
+- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTE1UWnJnQTF4bzliU1dmQnhQVzNNVFNqTk5GcWhxVlZpQ2NSZXlpa1ZBSzJhR0Q0M2NiblVndmRRR20zQy1UdnJRRjhLOE5rNG1LZmc?oc=5>
 
-### 国务卿卢比奥：无需在伊朗开展大规模作战行动，美国正通过经济制裁实现目标
+### 特朗普称将继续实施对伊朗的封锁及“铁门”特遣行动
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中国网
+- 时间: 2026-11-10 00:07
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE5RME9VcXo1S0VwOGJmM19ZVFNfalhzRFZ3UE11VXJwa18yWW52MGpYb0U4N3RXVTBtczc3eDJWRjhLbVpwWklkSjhwa3VjMTZ4WGpCbUprSk13M3Vuc3JoQ2hOR1luNnFETXZ5N2xURQ?oc=5>
+
+### 当着特朗普面在白宫发布会，美终极格斗冠军赛总裁明确拒绝担任白宫新闻秘书
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-11-10 10:22
+- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTXZ2cFpHd3RTRFhhcFZGTVk2czRmdU1lVDNWbXloQ0tRLXl1Y0VLcW44eWZEMDNuZ1RUbG5UdVlENHJlR2ktbEZvTG5Mb2RxdFQ1SU1JcU8xOTRGNkhwcXpiZ1BEQ0ZFVF9oSE5MZDZmd01fb08zbzgzTFZIVEJEendpN0NnaGhza3RJ?oc=5>
+
+### 中期选举惨败，特朗普却准备更强硬，后两年计划曝光
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-11-10 22:32
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1LenhCS2VwTUhPaC1jeEVHNFZabEJLeFNOSkcycHZVZjBldUVFUHExc0FacHNuMmJDTTZINzlhVURKNXlKT2d2S2tkcjE?oc=5>
+
+### 弹劾美防长的决议被扼杀，特朗普第一时间发声
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-11-10 23:05
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5CVDNQVm96MEszc3BZR05vRXF0QnZ5cWtNSTQyMjlmVk5BNXplbXpEWEpBUndlem9CN0x6dkV5V0x1SW41SG9UTFlsbFk?oc=5>
+
+### 特朗普称民主党弹劾赫格塞思行动失败
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Sohu
+- 时间: 2026-11-11 01:16
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU1Y4NDdvc2NxYnZYempjeHYwZUdqMFBQTlhwZVRieU5aT0VXQ0w3VzVlYXhJZkZvS1p4ZEt2NV9ZUUhIc1U2S2d1bnpkdTVPUmpteU9hdmwxWVV1YVNRSS1ISmVPc0xGMkFXVHpSOS1uVm1yZUV5TFJhWUhGTXl2Z2xQeFNOazVl?oc=5>
+
+### 特朗普给拜登的手写私人信件曝光，慷慨评价拜登“多爱美国人民”，他称写这封信思考了很久
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Sohu
+- 时间: 2026-11-11 01:09
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxQT0p2THU0OGkwc3NGSGVkaHNtN3ZXa3BFWUFMTy1rVkRKRTlpM005NHdfYW1EdWdlQjNncFQ2NlpsM3A2Rm9HaG4wcDF0N1FlSmZjcmc2Y0E5ODJkd0hnbXdxUVhRMHJKcGJJb1U4dDNvODJYQjFWMXpwNEpQc3M3TUFsMFkwNGkyc1BpYw?oc=5>
+
+### 法官允许特朗普的100亿美元诽谤诉讼继续审理
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Mezha.net
+- 时间: 2026-11-10 19:27
+- 链接: <https://news.google.com/rss/articles/CBMimgFBVV95cUxNZUtTOWZHaDh3WjFJLUZFSlRJcnlfdWhKdWI1c0NJMnpOeGl6QnRFQm5uV0ROc1hCV1RrY0Q1YmJyOWJPckI2UDdubjhBZmhyLV94ZUlrTkVmX2E4d2V1SVltdnZ6eGtyb0NtNU5uUVVQUEFuRzdpUTZ0NnRyX3pWUGtiNS0taWJBekJWM1R6MUZnTHlhclcyc1V3?oc=5>
+
+### 全球油价继续下跌，市场期待美伊和平
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-11-10 21:18
-- 链接: <https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZC10SXFCTlpvcGZSWjRWMDIwQUF4MnJheVNmTnA1Vkd1MC16TXRKVFNxN0lLOE5oVjNOYzlHWnRPNHhoemJOR2dCS2FyVXdIX0tibUpRT19NR3VzVnNKc09pcFRwSGJIdWpTQ1FpYlQtQzFZeGJ0aU5sMHVCNzY0akNZU0o4d1BKTDRJbW90WVJ2Q213LVh1cmoyMmZLZ3JNVHdzc0Q5ZmxNdGo3bjNlZ21zajItelMwdmEtWWN3blpqR0NZTERZRy1raFFCVXdldlRNZXFCOTlzdjhxNnZ1MTJPam5uRFlxUFZwZ2JPMUFFUdIB9AFBVV95cUxPNTBENnZRU25GQUdZSjB1QlR2M1RhV2Y1YmtCX0haNUdGdG5LOGZNejZYTi1ZM3haalVZU2tTTF9fMW9HcEtvbjhUWUwyTlJzdENLa3gxLXBIYjU0bDI5cW5WOFVkcjh5MEVBX3N3MEJIVk8zQUVPZTdURGF6RXJLdWJKeTJYS3ZJOS1IemR1SHppVU9JLW05RUs1ZkFsNm1OeHNmS05WV0xnOElFeDliQUd2SWFhR1hQX3N1eV9MU01UYzJfV0ZPa1ZxdHNMc1J5SmtUckFJbVFWRVlGd283SXFUSnI3OTY2emlaUl9sdEZDbGJV?oc=5>
+- 场馆: IDNFinancials
+- 时间: 2026-11-10 23:20
+- 链接: <https://news.google.com/rss/articles/CBMilwJBVV95cUxORWxfeXJSVHNpY1hPTUdOc09TTUp6c3duNXV2ZzdzTG9HaGt3N3dqa2lZZzFZQ0p6R2s0a1FvNmphdzdxLWRXVXN2bFZmNlNhUjhaRGlyNllGZG5RaF8zdDQwOC1UQm9DUFV5dTl6aFd2SjJYR3ZsbnQxTjdYT2FnZ1R1bzYtOEpqZy1qcUxPdEV6WUs2YXo0SzltMVljWENaZm1PcElEWGhfX1FxNHVlZHVBUDBPdkRjTmpMQmFIbFRaZGw0VUtPSkhJdGFRTTlaaEZNZTVUSVN2MTNJalBkWk1PejRIYlF0U3dxV3VGcmxfTll1bWIzQkFESDNPTnE3U1lVVlNLX05yQldQQ2ZrSXRiREk1ems?oc=5>
 
-### 英伟达股价再次下滑，CEO黄仁勋面临诉讼及FBI调查
+### 特朗普称FBI正在就黄仁勋所涉问题开展调查| NHK WORLD-JAPAN News
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-11-10 20:22
-- 链接: <https://news.google.com/rss/articles/CBMirwFBVV95cUxQSkg4Z3RtWmVVZXg5QTdtUk1ZVkZxeFBEWDJ4Mk02Ri00c3YzRkRsU24xaXE4T2EwVXZLakJfdEpuS0ppYThqaHFZZUxzc1dsa2xBQTFzUVNPandFd0xSNWRrWTN2Zmg4V0liZTVqU3RZZlVWUTBMRW5rNUJZY3ZGYlVhb1B5RmRPUW1fYUVJZll4bE1DcDdYS19IUTZDaHFLVm9wMDNsblZSbkpaR0lv0gGyAUFVX3lxTE9xZzZQZy1fb1ZmUWljeXJkR0ZmSVRFeG9sZUpqb05XNkZHdDBtY05BMHZGU2kwZndtVlYweDZtd1RWUlA5MlpYalU0dWczOGNlOFlWX1p2b2gxYklRY2pWdnJVWXV6M2UxbXpza3l4bzNoUzVsUktoWEcyUzlGblBsZnM1Z21mUWxDdGVydEtvdms3VENvc3BZbjJZbHp4Q2ZnYnA2U1l1TmdKTlFZTzl0LUE?oc=5>
+- 场馆: NHKニュース
+- 时间: 2026-11-10 12:33
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFZVpEekprVzJlek5DcUM2d1oydGNCNjZIREtoT1ZhallqblBQQTZTR1JXbmxJSm14OXpYU2x3T280ZzlVbVhUWlN3cFBtRm1BeWsxcXZPUWZ1YlltTGZHVXp3OHU3UVE?oc=5>
+
+### 伊拉克人仍然对局势升级保持警惕，而伊朗则对特朗普中期选举的失利幸灾乐祸。
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Al-Monitor
+- 时间: 2026-11-09 08:43
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1iWnMxN0NibzVuTjV1NlRLc2JiX0NkVVdhWkdYcHZNeW1sM01lckcyYVNISmlmUnB1Q1R3NE8tbGhPR3lJbkhWM3lsUWhBdUNDcno0aGVpQjJxUFZfNlFhclVGR0huQQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-11-11 02:02  (16 条)
+
+- **王一博** | 肖战巡回演唱会抢票未果，妻子称肖战王一博更帅 <https://k.sina.com.cn/article_7811142420_m1d194931403301f770.html>
+- **王一博** | 王一博演唱会引期待，赛车摩托入场太燃 <https://k.sina.com.cn/article_5934541885_m161b9ec3d03301fpfy.html>
+- **特朗普** | 特朗普被曝接近敲定新任白宫发言人 保守派评论员弗格森成热门人选 <https://news.google.com/rss/articles/CBMiUkFVX3lxTE85dldZMkVOQzFUa1llMXh6SHgtdldSRFJGVUFTbFBOZFgxc3VQdVhSaHJtc2pBR3ZnWTBzS2cyYmU4M2FHMWdGQm1ydDlXUXBnd1E?oc=5>
+- **特朗普** | 两岸圆桌派：特朗普的否决权，能否保住“黄仁勋们”？ <https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxOVhCYm5fRWlVYzNCUjJEZDcyeG4ydDk5UW9FemdYZjJpVTlaYXRGZFQwME1JVGdRY3NKMHlDNVVZMlFSaGx1b2FyVTFheFQ0WVdqNzdUUWRFMWloUXdELXBxclZEVUxs?oc=5>
+- **特朗普** | 原来，加拿大十年磨一剑，只为让特朗普“流血” 贸易战策略奏效 <https://news.google.com/rss/articles/CBMicEFVX3lxTFBEanlKY0l5LURTOUt1b3k2N3ViamhjSlJjSTJGVmwyT0E0RkM1OG5DX3l1alNUMUoyd2xLREFrcVlMeEp1RHpDbUpwSHBsVUlfc1VQb1lja3FUYWxlbUhaUkRZcFIyVm9aSUh2b1hGZFI?oc=5>
+- **特朗普** | 特朗普宣布“铁门”行动从陆上封锁伊朗 专家称漏洞多难如愿 <https://news.google.com/rss/articles/CBMiUkFVX3lxTE1UWnJnQTF4bzliU1dmQnhQVzNNVFNqTk5GcWhxVlZpQ2NSZXlpa1ZBSzJhR0Q0M2NiblVndmRRR20zQy1UdnJRRjhLOE5rNG1LZmc?oc=5>
+- **特朗普** | 特朗普称将继续实施对伊朗的封锁及“铁门”特遣行动 <https://news.google.com/rss/articles/CBMib0FVX3lxTE5RME9VcXo1S0VwOGJmM19ZVFNfalhzRFZ3UE11VXJwa18yWW52MGpYb0U4N3RXVTBtczc3eDJWRjhLbVpwWklkSjhwa3VjMTZ4WGpCbUprSk13M3Vuc3JoQ2hOR1luNnFETXZ5N2xURQ?oc=5>
+- **特朗普** | 当着特朗普面在白宫发布会，美终极格斗冠军赛总裁明确拒绝担任白宫新闻秘书 <https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTXZ2cFpHd3RTRFhhcFZGTVk2czRmdU1lVDNWbXloQ0tRLXl1Y0VLcW44eWZEMDNuZ1RUbG5UdVlENHJlR2ktbEZvTG5Mb2RxdFQ1SU1JcU8xOTRGNkhwcXpiZ1BEQ0ZFVF9oSE5MZDZmd01fb08zbzgzTFZIVEJEendpN0NnaGhza3RJ?oc=5>
+- **特朗普** | 中期选举惨败，特朗普却准备更强硬，后两年计划曝光 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1LenhCS2VwTUhPaC1jeEVHNFZabEJLeFNOSkcycHZVZjBldUVFUHExc0FacHNuMmJDTTZINzlhVURKNXlKT2d2S2tkcjE?oc=5>
+- **特朗普** | 弹劾美防长的决议被扼杀，特朗普第一时间发声 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5CVDNQVm96MEszc3BZR05vRXF0QnZ5cWtNSTQyMjlmVk5BNXplbXpEWEpBUndlem9CN0x6dkV5V0x1SW41SG9UTFlsbFk?oc=5>
+- **特朗普** | 特朗普称民主党弹劾赫格塞思行动失败 <https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU1Y4NDdvc2NxYnZYempjeHYwZUdqMFBQTlhwZVRieU5aT0VXQ0w3VzVlYXhJZkZvS1p4ZEt2NV9ZUUhIc1U2S2d1bnpkdTVPUmpteU9hdmwxWVV1YVNRSS1ISmVPc0xGMkFXVHpSOS1uVm1yZUV5TFJhWUhGTXl2Z2xQeFNOazVl?oc=5>
+- **特朗普** | 特朗普给拜登的手写私人信件曝光，慷慨评价拜登“多爱美国人民”，他称写这封信思考了很久 <https://news.google.com/rss/articles/CBMijAFBVV95cUxQT0p2THU0OGkwc3NGSGVkaHNtN3ZXa3BFWUFMTy1rVkRKRTlpM005NHdfYW1EdWdlQjNncFQ2NlpsM3A2Rm9HaG4wcDF0N1FlSmZjcmc2Y0E5ODJkd0hnbXdxUVhRMHJKcGJJb1U4dDNvODJYQjFWMXpwNEpQc3M3TUFsMFkwNGkyc1BpYw?oc=5>
+- **特朗普** | 法官允许特朗普的100亿美元诽谤诉讼继续审理 <https://news.google.com/rss/articles/CBMimgFBVV95cUxNZUtTOWZHaDh3WjFJLUZFSlRJcnlfdWhKdWI1c0NJMnpOeGl6QnRFQm5uV0ROc1hCV1RrY0Q1YmJyOWJPckI2UDdubjhBZmhyLV94ZUlrTkVmX2E4d2V1SVltdnZ6eGtyb0NtNU5uUVVQUEFuRzdpUTZ0NnRyX3pWUGtiNS0taWJBekJWM1R6MUZnTHlhclcyc1V3?oc=5>
+- **Trump** | 全球油价继续下跌，市场期待美伊和平 <https://news.google.com/rss/articles/CBMilwJBVV95cUxORWxfeXJSVHNpY1hPTUdOc09TTUp6c3duNXV2ZzdzTG9HaGt3N3dqa2lZZzFZQ0p6R2s0a1FvNmphdzdxLWRXVXN2bFZmNlNhUjhaRGlyNllGZG5RaF8zdDQwOC1UQm9DUFV5dTl6aFd2SjJYR3ZsbnQxTjdYT2FnZ1R1bzYtOEpqZy1qcUxPdEV6WUs2YXo0SzltMVljWENaZm1PcElEWGhfX1FxNHVlZHVBUDBPdkRjTmpMQmFIbFRaZGw0VUtPSkhJdGFRTTlaaEZNZTVUSVN2MTNJalBkWk1PejRIYlF0U3dxV3VGcmxfTll1bWIzQkFESDNPTnE3U1lVVlNLX05yQldQQ2ZrSXRiREk1ems?oc=5>
+- **Trump** | 特朗普称FBI正在就黄仁勋所涉问题开展调查| NHK WORLD-JAPAN News <https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFZVpEekprVzJlek5DcUM2d1oydGNCNjZIREtoT1ZhallqblBQQTZTR1JXbmxJSm14OXpYU2x3T280ZzlVbVhUWlN3cFBtRm1BeWsxcXZPUWZ1YlltTGZHVXp3OHU3UVE?oc=5>
+- **Trump** | 伊拉克人仍然对局势升级保持警惕，而伊朗则对特朗普中期选举的失利幸灾乐祸。 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1iWnMxN0NibzVuTjV1NlRLc2JiX0NkVVdhWkdYcHZNeW1sM01lckcyYVNISmlmUnB1Q1R3NE8tbGhPR3lJbkhWM3lsUWhBdUNDcno0aGVpQjJxUFZfNlFhclVGR0huQQ?oc=5>
 
 ### 2026-11-10 22:06  (9 条)
 
