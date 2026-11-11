@@ -1,126 +1,163 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-11-11 09:40**
-- 本轮扫到 15718 条, 新增 **14** 条
+- 最近更新: **2026-11-11 17:37**
+- 本轮扫到 15734 条, 新增 **16** 条
 
 ---
 
-## 本轮新发现 (14 条)
+## 本轮新发现 (16 条)
 
-### Loic Prigent发布13分钟Lacoste上海大秀全记录 标题提及王一博
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7810739724_m1d18e6e0c033032ixi.html>
-
-### 肯尼迪家族起诉特朗普 阻止在华盛顿修建巨型凯旋门
+### 特朗普离任给拜登亲笔信曝光，称你爱美国人民
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-11-11 09:36
-- 链接: <https://news.google.com/rss/articles/CBMihgFBVV95cUxNV01QckVUQkU2ZWlyUDd1Q29tRG5NTlU0UTVpV1laNDhvT0tVam5xTEdEekVremV3Mlc2ODZtVUVhWEVDMTE2M1B5cW9PX1F5OGVWX3Z2VnJIU2VSQUlOelRZanlyN1NxaUF1QlJMbHFMXzVJc3dMZE4yLXNFaDB4bGNQNlBfUQ?oc=5>
+- 场馆: 手机新浪网
+- 时间: 2026-11-11 17:03
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFB3YVpVaFYwdjMzVWRyY3RwY0lyMktFRnFSejdaZDk0RmY3UmxVNzFjUUpjQkd1MWE1S3lwbjBmXzhsR3RsWUlrWGV4bWNXdEdsRWpjQ0kzR3BLX0dBNkVNRk5obGRvakhWclM2ZGRzVVczQQ?oc=5>
 
-### 肯尼迪家族反对特朗普建凯旋门：不能让它遮住家族墓地
+### 微软敦促特朗普取消对中国数据中心组件的禁令
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: IDNFinancials
+- 时间: 2026-11-11 16:00
+- 链接: <https://news.google.com/rss/articles/CBMi0wJBVV95cUxQdFV2RTE5TjJFTGE4RWx2SGJRXzVtX2c2MnRPeFJJRElTRUFFbHJVNmZjMk9rX2JXc29IUUN4VmkyOGx2TE5qTjU3TUxhN3dualYySElCVGFQenZyRU5nblFhWTVZV2lrYXluZUUtQ3dud2hvb0hjWHkwUHFZVXRyWWwtSVA4Q3hRSHFSNlJBR3NpSEhaZndOLURRVDQ4VGtGWFoxWTdyVldaMXhqc0pOMTRER1RybENYRl96QjZIRTF1N3NhQnh6XzBrQmpyazVkQzhoV3NLTHd4SW42YWJ0NEo2Q0RPSzBlbHpuWThjbGdWcVVuQVR5ZkNyR1M2Q0dsclFma0MyZUtHUEF3QWstNEJtOGR5d2RLbXhLXzlpMkxONENkVUotMlhvNzhrWmg3X21KdXpyU1hVSkRJQll3UG9EcDNrWFhJQVcxVkIwakptUVE?oc=5>
+
+### 美国：针对皮特·赫格塞斯的弹劾程序在国会受挫 特朗普欣喜
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-11-11 15:59
+- 链接: <https://news.google.com/rss/articles/CBMilgNBVV95cUxPOWdZQWtPby00M29RTUUxdGpUWWEyTjU4ODR6Z01acm5VdU44aGRIRUNxS0Y0dTEwamZyMHhkdG1RUi1vN1EwV25oMEhJR1hpX05CamNtYVA4d3RTaUFFTGVSeGE2OWR1ZkdDbHRPVzQzLXJYbWQ3M0QxNDFUbExYLUVGOXRaQjhQaXFWVVZkazYtYUVhOHBfell6aFhpWUVnUTU5dFBPS0tOeENwaGg2VmE4LWdMLS1uVWlMS3FnSEdvOVNvcmZHUFN0WXpwMmlPNU55ZThxaHVhUDd1Nno4T09RX05Hd2w5Y0c4M18wSUg2bjU1anN2NnI3RTJxX0Z4MFRTTUhkNGZhNnpoTWdFMWxaTkExMjBRQU03RjlwTExkQXdwQktuZExYUmlhcS1MSWVRTi1wMjdfOU9HeDBFVXlrRjA0RFVkU1M3MGxEQ2xBSE1LdEdrdTE2ZHJlRkY1dno1NlBxYUI5V3E4SVBTWjdOay1WUmsybUloVUpkWUc0SFJfSEd6azVYUllHbGJHVHppaUZn?oc=5>
+
+### “地狱般的争吵”！以媒爆特朗普与内塔尼亚胡就伊朗问题发生激烈冲突，以总理办公室否认
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街见闻
+- 时间: 2026-11-11 11:28
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE90Y3ByVmREV1RnRnk4bkt6c1NSZFZDcnFFTEZDYUFsZGZ1TlhuZ3B2SEpDSTY0RjhlX001ZTRpU3lVam9MUkJwNDNMN2p3dVdQR2Rn?oc=5>
+
+### 泽连斯基：我的工作不是让特朗普高兴
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-11-11 02:21
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBRS2FVeDE1WER5OGs4cEYtejZMLXptaGVVREhCWldYOEhkUzVfcHdtVVdtOVNYWHJFUllfQXhVMXY2bEJZUE80QmVCcFQ?oc=5>
+- 时间: 2026-11-11 12:30
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1pOFlDM1ZiVFhZU0hiVkNPWHFHYkJ2Y3o2MEJzQVJhUmpjUm9sajhwQWItbHpiVnFkTWdtZVJxNWpULXhyR3c3OE1QaHQ?oc=5>
 
-### 肯尼迪家族下场 阻止特朗普修建凯旋门
+### 北京料想特朗普声势转弱，谈判桌上可能适得其反
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-11-11 02:40
+- 链接: <https://news.google.com/rss/articles/CBMiywJBVV95cUxOSFFtd2NzN0FRVV9CQWRuRHEybnFsTGpYWGVtU1hQMkVQczNVMDlpWVI1am96blRtdzlwNHNHY2FWS2EtNG5JY0pXMGdTWFVKYzVIZ2RJN3JXOE1mUHhqM3FXdDlPaDlnZlZYbUhnaWRrV2p2d2wxQVdRWURxdnhKSTVfRzNGdlZDUWdsdm1ndFZreGo1X2pPc2JaWEtqMV9MbGlmWFNOeW0yWjljM0E0NHlMT0FTZVZMVkxnd1RRQ0FiZi1pR2xWU1ZKMU1wRmJEY0taRlpUYmtNX1lWNWwxVUF0amEyZ3N2cHhKZWd0X1pjNTZ1XzB1MEYyVXRGbi1INkNoYTZvbkt1eWdNTlFNQ0k1RS15S2hla2VzdENpbmM3eWpvS1Y3MXM1bTk4MGxHOElGSFdFZEY4cG1WQkJsbzZLd0tQUUNrb3FR?oc=5>
+
+### 美防长称对其弹劾是一场打击特朗普的“政治作秀”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-11-10 16:16
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE5iVGpTdE5DcU5FdGNqN1N2MmRjYnpIQUI3dVJ0NmhhWTQ2akJPVkNXR1ZaZEo2LUsyRzJZQndCQlVfa0tnMXdiOGVWdnpTcTAxTUpub0NmWWU3SEJyWmV4N3JubHpva01HczFXbFhja2MtQkFGakRUTmh5OGRxVUk?oc=5>
+
+### 民主党或将掣肘特朗普政府在私营企业持有的股权
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: Sohu
-- 时间: 2026-11-11 07:08
-- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN2d3YVduMzFuVmkzWjh5M2ppUU0wRHRIeDNRZUdmMFB2Y0E5QWhFNEVIOEZKbVd0WWtKLTcwekZkTUplQ1hrbWNYaWR5a3JhOU56M1BVQ1VhVk5qbkwwb0ZmWGdlbFJmRWN2RmM0Nm5DeFBxUkEyVFRKTWY3dEtVNWx3UDhxYkVf?oc=5>
+- 时间: 2026-11-11 11:56
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxQMEM3YUROSGlfdzFzbW9HVTdkVWdycEtEbFBaUEZlNDlENmo3X29ZZHFIUXlqb0FqRnRhYnl6eDJzVTVmNDUtRHU1Q0stWDdpX3VWOERhV2dybEVyeGJRSE1nQzFWNjBBQUUyRUFGem1SbGRjNnBzU2MxZ1daTndPaVh6MUJFZWF6VW1ESw?oc=5>
 
-### 纽约时报：特朗普用“制造混乱”来应对中期选举的失败
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: www.hkcna.hk
-- 时间: 2026-11-11 08:06
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE5Ud3h0WkJJNkNSS2dsMzA0bHVkc3dFTjl5dlJDYUEwQTU4MkgtbEFrWURPZnBRaWx3SXF0Y2RZa1l0aWxtRUxfeG14QnFFcUNFSm42R1NxTEtOYmF0YjVMN3E2QkVZdDIyMXNuRDNHQQ?oc=5>
-
-### 中期选举惨败后特朗普转向中俄？日媒讨论日美同盟担忧
+### 中期选举后 日本紧盯特朗普外交政策重心变化
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-11-11 09:09
-- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lZjZXT3NXcGN2Nlc2R21KTG5TWjZUOHY0ckhmcUVOSmJ0OXVUU2U0dlpEaS1pWjRuWFhDUzFCa2JTSlJZcE9zcGwyV0VfVjdLRlE?oc=5>
+- 场馆: DW.com
+- 时间: 2026-11-11 14:04
+- 链接: <https://news.google.com/rss/articles/CBMijwNBVV95cUxPUUhWU0hRWXBRaXRJbU5rbXAwUmtyWXNSNXplNlBBeTRKQ1FOeEJrM3QxR2tFS25yNXRaQWdVTDBxTE5aaGxMQzI4SGJUSExJUEZrdDJSQWpoNFNtSHYtUFdpWDluTXd2bDJaSDJZMllZTXd1SEtpYk1vNE5MSTZPNUg1T2hsOHE2SkUxZzJFX1dDVW1wOEdDbGxwMnFieE1fbVA0N1o5R1JBUkV2d195V283M1hnM21oWGk3ZTRjYTA3cFNUNms1ZmlaTlhUT1ZpUkR6ZDRDOXhmZGplOE5RYTN1OUsxYnNOSWxrVzNZS0FKbjQ1Tk9aVWpQWUxwZ1RFZlhjakdhYWpJYmpmVW05UDlBWDlHcERWaHozZ2RFZVZfMkEwUVlHTGZuS05vSmdneVlaSEYwZU9YNDRMODN3VHNhbmU3U2s2cjJwbVpWQlFFTURYVU5jLTVDbnByMEpxb005alVrRXAzenpoZWtpTWY3NmZwbXRQSFdxT1VEWDc5eTBaVnp0Y3VSTzZXY0XSAY8DQVVfeXFMUENpVEI3RFU2dTM2cElIeDItb0JNVTMzM1pqYV9rMUt2UVg3a0FUemw2X05ZVl9WTGk2V05mY0gwZEliRFEwZFFPcHNtc3VLR2lCeUJ4RlBvZFF4eDBVSjZjNS1JZTRpY3ZqTmhOZF9QaXRWVWRVUTRPel9hemRJVVlDT0FDTGxsdW9rSkNMS1ViQTEzZC1NdlV1Mm91TURIYkZyNVV3djlLclpXa0JmTXBQM041OG1XWV9CNGo1Qmk2UlNUZ0tBVFRJeE82R1RDQzRuRWRqV1JNSEExU2VSbjFBdUU1S2UxbEpueW5DVEdaVnl1OTRJTmllOTZJN21zMFgwbW1TRncxaHZzUnBWU3NjNXpPX1lobHhuRFVqWnJqWUV2N0pkQ2lobEVoa085RnhaWVEzMm5sbnhneWxNLXdIdEl6MWdsNFV3NnFOTEVFRmxZaWRjYWEzSk4yOXE1TWRncVlYWURCNFp6RkNYc3ZYQmZqZTBnc0Z5SnlYbGNqMzlwb3RwN0JBYXJGajV3?oc=5>
 
-### 美众议员要求弹劾防长特朗普发声 支持赫格塞思
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华军事
-- 时间: 2026-11-11 01:32
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5oT2taOVZTeEw5c29WdlZITG9jMHVtcW1hZmc5RkVYUDA1NHAwelIxVVhqR0lNWE4tbHdUYWRBYUhNaV9XX2VBVHp2NXFRZDV0QnREZXBpTDdDNXhXTGtGeFRkYzNJWHhnMnpJeEE4ZmY?oc=5>
-
-### 7票险胜拦下弹劾，特朗普回过味儿来，力保赫格塞思这步棋走对了
+### 弹劾防长失败，中选后共和党想切割特朗普，难在哪儿
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-11-11 09:15
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE15Uk40Rzc4OUdYSFpjSjdlTXRGSDZGbC1aOGh6ZTF5WmxfdmE0aXBiOTFJLV9LVlA2RHdGdndIODZWdUpfOEV1TFdwTnU4cFJkWjR0YVJoZ2NPdVc4NmxKMzRvSUk4MldZQUhfT0NaeHFNdw?oc=5>
+- 场馆: 21财经
+- 时间: 2026-11-11 13:12
+- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxQcDVBUEdqa1UzSXZuWVcyLXR4REtaSnNkOGhReDM3RElzZGs1SHhjazRrNm1YamN6ZXN0QlBESklMbC15Y0Z4eFRscWg2TWh3QzI3Tk9yY05tUnR3RHEwUHh0ZXRiWkhYVF85ZW1Cd1haSkd2ZE1TWHpMLXJNejZIamozbmYwRVRzb0VvX3A3aw?oc=5>
 
-### 战或和都不选，特朗普想用这损招让伊朗“窒息”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-11-11 06:29
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5lOC05R2FTM0pxSThnRERjYVRjN1JCTWE5X3VIM09lV05xSm5kdFFMUDBCUUdudUw1cUdtTHNfdks0RFNHQjdGc181bU1XV0ZtVUF6WE1JXzhCb3hNS1ZSaTNpVmFkRF9tQWlMMndkSzZtTHc?oc=5>
-
-### 特朗普要求以色列全额偿还美伊战争费用 索偿承诺引发争议
+### 特朗普称民主党针对美防长赫格塞思的弹劾“惨败”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-11-11 03:54
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5mNlkydEI3TFR1N3dYYm9FU1pVbDhWZmdqLVdwMkZJN05hUnJQSVJoYzktampEUHpMZ2tBSmk0SnlIVE9BWHZmSFRxN3hCU2g1QVE3ZmZTTWEwQTZCNUU3YURla01iQjZFNm43d1dPSUQ?oc=5>
+- 场馆: 中国新闻网
+- 时间: 2026-11-11 03:11
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9TT19JU0VDM1NRaXhHNll6cEdLSVZxTG1UcGN0VkV4MFNXWGI3bk1yUV9wTmdzNE50clpoUF9tc2plSnAyV29QV2FGckk1R2V1cXp2N21XcWxzTUZLRUVJRDg2MW9xWmpP?oc=5>
 
-### 特朗普证实：FBI正在调查黄仁勋
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 驱动之家
-- 时间: 2026-11-11 07:53
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE5UTFBuM3djQ2ZUT0IwejVyS2xIOWt4Q0V3RFdFNVFzcThzWFAtNDg5aDktNmR0WkNSNGZJVjhtdHBwdmdmbEVOdi1nb2d5RElnUGFReVpBX1k?oc=5>
-
-### 拜登新书曝光特朗普离任亲笔信全文
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-11-11 07:37
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFBRY3dsVlpOQ29CY1VOUjZCNFM0OUJocXh4NXFtSWpsSUItYktEbU5yVHJKZkctcFVRMHVxbmhIMUp5NG9ESHVmRi1WMXpWMDExSjBhaEJfekpvUktzV2lGT1hXQXp1eUJmelFzTjgzWERSdw?oc=5>
-
-### 全球油价继续下跌，市场期待美伊和平
+### Trump Media抵押了73%的比特币持有量，作何用途？
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 和平日报
-- 时间: 2026-11-11 06:44
-- 链接: <https://news.google.com/rss/articles/CBMiowJBVV95cUxNczN5b1VJZ3ZzdWQ4bGdjT1ZVM2tTemRuYld1NzBYYTZOQ1BlSE9GcDhKRnVmNFhJV1YtTE1ON0tBNTBtbXcxRW1aTER1cjJNVE1vbW94WGt4aTBfYlVLOU9uSTVReGVHS1VnT1QxdUs0VUM0Z2x5N2IyWDhGazAyclRENldRQkUtNWhUZ2R5ZzhxOXVJQzZGWjcxeTc5cjBtNkVHRjl4ZXAxMmRVVG4zd2ZRcmFyWkI2UzFDY0E2VTFHcVRHeHVoOVBRaDI1SzF6SGx2c2xka1Y0Wl9WWVp0NjdXQnZ0cGNTVzNLTUNwQl9SQW01cmlFUjFLUzRVa1Q3Q2FmcUxFRURaMzBMOHpIa2NoTDJGSWZnMU8yN2xIbVBSWm8?oc=5>
+- 场馆: IDNFinancials
+- 时间: 2026-11-11 12:40
+- 链接: <https://news.google.com/rss/articles/CBMinAJBVV95cUxNNlduejczVVVUdVpKa3AzR0p4X2tWbkM5SmFPLXZhLTBSRmhXdHBjMDhYbUpzZ0ZJdDJyNEdYc1FBN3pZdldtNVNTbDU0YW5hajc4VTVqMGJCLVpNYXVPQ3NZYS03WkFhb25vTXduWXJaWS03YlNXdnJidFdRU3A5Sk52YUhhWmIwR21kZkY2Mjd1OFJLYVJCWlZEQWh1Q3FiOFBGNy1Ld3prOXhDTE5XSjJNTWtWU1dGOERid1pXZmlXb1E2b1gwSjZvaEZwZE9mblVicDhGb3lFdm40Z1NIUGMxMGxHOXFQR1RaQUFTeFJkaVNacFRYekVQVU9hV2pQbXVyckxKeHpsRUdWQXNuYVFUbkRrdVFxbzYybA?oc=5>
 
-### 美国中期选举后，能源政策将走向何方？
+### 特习深圳会前夕，贝森特称美中应“去风险，而非脱钩”
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 麻省理工科技评论
-- 时间: 2026-11-09 05:49
-- 链接: <https://news.google.com/rss/articles/CBMiV0FVX3lxTE82cnk4ZjVtYmZETHl1VVVlUl8wUTRJRDR5YVlnbUhIdzdGQ1ROUVg5TUpCbjdib09PbWtwRm95SnhuMTZ4eFVIZTByX05YYnR5Y28wa3NDcw?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-11-11 13:15
+- 链接: <https://news.google.com/rss/articles/CBMixgFBVV95cUxOWllWOEp4V1c1bnlZcUdpa2NublZlVFV4RUVLVnp2RHhpNWlXNERQcmRkN1RKUndLMzNqYk9weEVkZUlkY1BMeDk1QXU3bFZGU0tWN29zam4xbHJmeHJhQjJoeEphcHM4SEVBUmJ4WU5TT28zZWVPcnFYLUMteDJzbWstNmZ1SzN6ZzloN21peldrdzZYYUtTT1pnR2I4ZC1KVjdhQnQ4akdpUGM4Z0lBYkZfZ0V6NkVmSlIwYTVuX3hJTTNjeXfSAcgBQVVfeXFMTzNxRVhWeUJjbG5aRzhfcDNwNGE1VlNnRVkxdW00SmIxcHBqWk55amRGSGl3a3JCeWFjV3hrbERmaVU4RTY3WW16T0FjZ1c5aVZfNm9yUXBhV0JaSmN1MTc2LVNPZU9KeW5kWDVEdV9uWGloNUVDc095LVdvTkpzb0ZfSy1hV3Q5ek0tSFZiUUxVNkh3WTNpSTdkcTZYd1l0N1RPellSN0twVm5McGlCRElUdFJPRVVVM3pzVUVjOGF3cDVucXFUV04?oc=5>
+
+### 第522天：加息 + 特朗普2.0 第659天
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-11-11 15:06
+- 链接: <https://news.google.com/rss/articles/CBMimgFBVV95cUxNc3FOUmozVDRtVnZ2Unh1YkVxazNVTW91UzE2Y3hQVTJkeGFobEMwalJBdm5jR0pzS3FrYjBQTURkR1ZKMnJMbGtTZ1JfWGFPeFNtS0JVLUdXTEpzQlpRS19lZ2FKNk1YcGtMbXVZZ1F2bzNaV0xwU3FXYWdLY2lzQnM5NUpmRGx5bFVEcVNxNXpnc2RyQkRwSi1n?oc=5>
+
+### $特朗普媒体科技集团 (DJT.US)$
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Moomoo
+- 时间: 2026-11-11 14:41
+- 链接: <https://news.google.com/rss/articles/CBMikgFBVV95cUxOM2s4d3pERVlBMEJ3MWc3WnBUaEtIb2prQXJEVm4tVzYwLW45MHBNTGtJODlqQUN2MTlRb0dibGxOQ0lVTF9BbDJzZ3pTTEZrVXJ3ZnNhUWdEa2VDTVVsT2MteS1IZktJeXpDaU1rMTRjenF6R2R3N1ZiN1BUMExYMmdEV2tpQjlReUczTDE5TmhUdw?oc=5>
+
+### 特朗普至少两次被告知黄仁勋事件，仍邀其陪同访华
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 纽约时报中文网
+- 时间: 2026-11-11 02:41
+- 链接: <https://news.google.com/rss/articles/CBMibEFVX3lxTFAzejJ6ZjRjaFZlS2Eya2ZLUkthTDFza3FyNGtiZ0RveEExeVlTUnFvdms5RHNlMjgxTThiaEpLRHFsNzNUM0lveEZ1OGxLVGdZR3EzM1Z2bVY0MmJOaGw5TEY4R0xKQ2YyS0VjZw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-11-11 17:37  (16 条)
+
+- **特朗普** | 特朗普离任给拜登亲笔信曝光，称你爱美国人民 <https://news.google.com/rss/articles/CBMickFVX3lxTFB3YVpVaFYwdjMzVWRyY3RwY0lyMktFRnFSejdaZDk0RmY3UmxVNzFjUUpjQkd1MWE1S3lwbjBmXzhsR3RsWUlrWGV4bWNXdEdsRWpjQ0kzR3BLX0dBNkVNRk5obGRvakhWclM2ZGRzVVczQQ?oc=5>
+- **特朗普** | 微软敦促特朗普取消对中国数据中心组件的禁令 <https://news.google.com/rss/articles/CBMi0wJBVV95cUxQdFV2RTE5TjJFTGE4RWx2SGJRXzVtX2c2MnRPeFJJRElTRUFFbHJVNmZjMk9rX2JXc29IUUN4VmkyOGx2TE5qTjU3TUxhN3dualYySElCVGFQenZyRU5nblFhWTVZV2lrYXluZUUtQ3dud2hvb0hjWHkwUHFZVXRyWWwtSVA4Q3hRSHFSNlJBR3NpSEhaZndOLURRVDQ4VGtGWFoxWTdyVldaMXhqc0pOMTRER1RybENYRl96QjZIRTF1N3NhQnh6XzBrQmpyazVkQzhoV3NLTHd4SW42YWJ0NEo2Q0RPSzBlbHpuWThjbGdWcVVuQVR5ZkNyR1M2Q0dsclFma0MyZUtHUEF3QWstNEJtOGR5d2RLbXhLXzlpMkxONENkVUotMlhvNzhrWmg3X21KdXpyU1hVSkRJQll3UG9EcDNrWFhJQVcxVkIwakptUVE?oc=5>
+- **特朗普** | 美国：针对皮特·赫格塞斯的弹劾程序在国会受挫 特朗普欣喜 <https://news.google.com/rss/articles/CBMilgNBVV95cUxPOWdZQWtPby00M29RTUUxdGpUWWEyTjU4ODR6Z01acm5VdU44aGRIRUNxS0Y0dTEwamZyMHhkdG1RUi1vN1EwV25oMEhJR1hpX05CamNtYVA4d3RTaUFFTGVSeGE2OWR1ZkdDbHRPVzQzLXJYbWQ3M0QxNDFUbExYLUVGOXRaQjhQaXFWVVZkazYtYUVhOHBfell6aFhpWUVnUTU5dFBPS0tOeENwaGg2VmE4LWdMLS1uVWlMS3FnSEdvOVNvcmZHUFN0WXpwMmlPNU55ZThxaHVhUDd1Nno4T09RX05Hd2w5Y0c4M18wSUg2bjU1anN2NnI3RTJxX0Z4MFRTTUhkNGZhNnpoTWdFMWxaTkExMjBRQU03RjlwTExkQXdwQktuZExYUmlhcS1MSWVRTi1wMjdfOU9HeDBFVXlrRjA0RFVkU1M3MGxEQ2xBSE1LdEdrdTE2ZHJlRkY1dno1NlBxYUI5V3E4SVBTWjdOay1WUmsybUloVUpkWUc0SFJfSEd6azVYUllHbGJHVHppaUZn?oc=5>
+- **特朗普** | “地狱般的争吵”！以媒爆特朗普与内塔尼亚胡就伊朗问题发生激烈冲突，以总理办公室否认 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE90Y3ByVmREV1RnRnk4bkt6c1NSZFZDcnFFTEZDYUFsZGZ1TlhuZ3B2SEpDSTY0RjhlX001ZTRpU3lVam9MUkJwNDNMN2p3dVdQR2Rn?oc=5>
+- **特朗普** | 泽连斯基：我的工作不是让特朗普高兴 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1pOFlDM1ZiVFhZU0hiVkNPWHFHYkJ2Y3o2MEJzQVJhUmpjUm9sajhwQWItbHpiVnFkTWdtZVJxNWpULXhyR3c3OE1QaHQ?oc=5>
+- **特朗普** | 北京料想特朗普声势转弱，谈判桌上可能适得其反 <https://news.google.com/rss/articles/CBMiywJBVV95cUxOSFFtd2NzN0FRVV9CQWRuRHEybnFsTGpYWGVtU1hQMkVQczNVMDlpWVI1am96blRtdzlwNHNHY2FWS2EtNG5JY0pXMGdTWFVKYzVIZ2RJN3JXOE1mUHhqM3FXdDlPaDlnZlZYbUhnaWRrV2p2d2wxQVdRWURxdnhKSTVfRzNGdlZDUWdsdm1ndFZreGo1X2pPc2JaWEtqMV9MbGlmWFNOeW0yWjljM0E0NHlMT0FTZVZMVkxnd1RRQ0FiZi1pR2xWU1ZKMU1wRmJEY0taRlpUYmtNX1lWNWwxVUF0amEyZ3N2cHhKZWd0X1pjNTZ1XzB1MEYyVXRGbi1INkNoYTZvbkt1eWdNTlFNQ0k1RS15S2hla2VzdENpbmM3eWpvS1Y3MXM1bTk4MGxHOElGSFdFZEY4cG1WQkJsbzZLd0tQUUNrb3FR?oc=5>
+- **特朗普** | 美防长称对其弹劾是一场打击特朗普的“政治作秀” <https://news.google.com/rss/articles/CBMif0FVX3lxTE5iVGpTdE5DcU5FdGNqN1N2MmRjYnpIQUI3dVJ0NmhhWTQ2akJPVkNXR1ZaZEo2LUsyRzJZQndCQlVfa0tnMXdiOGVWdnpTcTAxTUpub0NmWWU3SEJyWmV4N3JubHpva01HczFXbFhja2MtQkFGakRUTmh5OGRxVUk?oc=5>
+- **特朗普** | 民主党或将掣肘特朗普政府在私营企业持有的股权 <https://news.google.com/rss/articles/CBMijAFBVV95cUxQMEM3YUROSGlfdzFzbW9HVTdkVWdycEtEbFBaUEZlNDlENmo3X29ZZHFIUXlqb0FqRnRhYnl6eDJzVTVmNDUtRHU1Q0stWDdpX3VWOERhV2dybEVyeGJRSE1nQzFWNjBBQUUyRUFGem1SbGRjNnBzU2MxZ1daTndPaVh6MUJFZWF6VW1ESw?oc=5>
+- **特朗普** | 中期选举后 日本紧盯特朗普外交政策重心变化 <https://news.google.com/rss/articles/CBMijwNBVV95cUxPUUhWU0hRWXBRaXRJbU5rbXAwUmtyWXNSNXplNlBBeTRKQ1FOeEJrM3QxR2tFS25yNXRaQWdVTDBxTE5aaGxMQzI4SGJUSExJUEZrdDJSQWpoNFNtSHYtUFdpWDluTXd2bDJaSDJZMllZTXd1SEtpYk1vNE5MSTZPNUg1T2hsOHE2SkUxZzJFX1dDVW1wOEdDbGxwMnFieE1fbVA0N1o5R1JBUkV2d195V283M1hnM21oWGk3ZTRjYTA3cFNUNms1ZmlaTlhUT1ZpUkR6ZDRDOXhmZGplOE5RYTN1OUsxYnNOSWxrVzNZS0FKbjQ1Tk9aVWpQWUxwZ1RFZlhjakdhYWpJYmpmVW05UDlBWDlHcERWaHozZ2RFZVZfMkEwUVlHTGZuS05vSmdneVlaSEYwZU9YNDRMODN3VHNhbmU3U2s2cjJwbVpWQlFFTURYVU5jLTVDbnByMEpxb005alVrRXAzenpoZWtpTWY3NmZwbXRQSFdxT1VEWDc5eTBaVnp0Y3VSTzZXY0XSAY8DQVVfeXFMUENpVEI3RFU2dTM2cElIeDItb0JNVTMzM1pqYV9rMUt2UVg3a0FUemw2X05ZVl9WTGk2V05mY0gwZEliRFEwZFFPcHNtc3VLR2lCeUJ4RlBvZFF4eDBVSjZjNS1JZTRpY3ZqTmhOZF9QaXRWVWRVUTRPel9hemRJVVlDT0FDTGxsdW9rSkNMS1ViQTEzZC1NdlV1Mm91TURIYkZyNVV3djlLclpXa0JmTXBQM041OG1XWV9CNGo1Qmk2UlNUZ0tBVFRJeE82R1RDQzRuRWRqV1JNSEExU2VSbjFBdUU1S2UxbEpueW5DVEdaVnl1OTRJTmllOTZJN21zMFgwbW1TRncxaHZzUnBWU3NjNXpPX1lobHhuRFVqWnJqWUV2N0pkQ2lobEVoa085RnhaWVEzMm5sbnhneWxNLXdIdEl6MWdsNFV3NnFOTEVFRmxZaWRjYWEzSk4yOXE1TWRncVlYWURCNFp6RkNYc3ZYQmZqZTBnc0Z5SnlYbGNqMzlwb3RwN0JBYXJGajV3?oc=5>
+- **特朗普** | 弹劾防长失败，中选后共和党想切割特朗普，难在哪儿 <https://news.google.com/rss/articles/CBMijwFBVV95cUxQcDVBUEdqa1UzSXZuWVcyLXR4REtaSnNkOGhReDM3RElzZGs1SHhjazRrNm1YamN6ZXN0QlBESklMbC15Y0Z4eFRscWg2TWh3QzI3Tk9yY05tUnR3RHEwUHh0ZXRiWkhYVF85ZW1Cd1haSkd2ZE1TWHpMLXJNejZIamozbmYwRVRzb0VvX3A3aw?oc=5>
+- **特朗普** | 特朗普称民主党针对美防长赫格塞思的弹劾“惨败” <https://news.google.com/rss/articles/CBMiaEFVX3lxTE9TT19JU0VDM1NRaXhHNll6cEdLSVZxTG1UcGN0VkV4MFNXWGI3bk1yUV9wTmdzNE50clpoUF9tc2plSnAyV29QV2FGckk1R2V1cXp2N21XcWxzTUZLRUVJRDg2MW9xWmpP?oc=5>
+- **Trump** | Trump Media抵押了73%的比特币持有量，作何用途？ <https://news.google.com/rss/articles/CBMinAJBVV95cUxNNlduejczVVVUdVpKa3AzR0p4X2tWbkM5SmFPLXZhLTBSRmhXdHBjMDhYbUpzZ0ZJdDJyNEdYc1FBN3pZdldtNVNTbDU0YW5hajc4VTVqMGJCLVpNYXVPQ3NZYS03WkFhb25vTXduWXJaWS03YlNXdnJidFdRU3A5Sk52YUhhWmIwR21kZkY2Mjd1OFJLYVJCWlZEQWh1Q3FiOFBGNy1Ld3prOXhDTE5XSjJNTWtWU1dGOERid1pXZmlXb1E2b1gwSjZvaEZwZE9mblVicDhGb3lFdm40Z1NIUGMxMGxHOXFQR1RaQUFTeFJkaVNacFRYekVQVU9hV2pQbXVyckxKeHpsRUdWQXNuYVFUbkRrdVFxbzYybA?oc=5>
+- **Trump** | 特习深圳会前夕，贝森特称美中应“去风险，而非脱钩” <https://news.google.com/rss/articles/CBMixgFBVV95cUxOWllWOEp4V1c1bnlZcUdpa2NublZlVFV4RUVLVnp2RHhpNWlXNERQcmRkN1RKUndLMzNqYk9weEVkZUlkY1BMeDk1QXU3bFZGU0tWN29zam4xbHJmeHJhQjJoeEphcHM4SEVBUmJ4WU5TT28zZWVPcnFYLUMteDJzbWstNmZ1SzN6ZzloN21peldrdzZYYUtTT1pnR2I4ZC1KVjdhQnQ4akdpUGM4Z0lBYkZfZ0V6NkVmSlIwYTVuX3hJTTNjeXfSAcgBQVVfeXFMTzNxRVhWeUJjbG5aRzhfcDNwNGE1VlNnRVkxdW00SmIxcHBqWk55amRGSGl3a3JCeWFjV3hrbERmaVU4RTY3WW16T0FjZ1c5aVZfNm9yUXBhV0JaSmN1MTc2LVNPZU9KeW5kWDVEdV9uWGloNUVDc095LVdvTkpzb0ZfSy1hV3Q5ek0tSFZiUUxVNkh3WTNpSTdkcTZYd1l0N1RPellSN0twVm5McGlCRElUdFJPRVVVM3pzVUVjOGF3cDVucXFUV04?oc=5>
+- **Trump** | 第522天：加息 + 特朗普2.0 第659天 <https://news.google.com/rss/articles/CBMimgFBVV95cUxNc3FOUmozVDRtVnZ2Unh1YkVxazNVTW91UzE2Y3hQVTJkeGFobEMwalJBdm5jR0pzS3FrYjBQTURkR1ZKMnJMbGtTZ1JfWGFPeFNtS0JVLUdXTEpzQlpRS19lZ2FKNk1YcGtMbXVZZ1F2bzNaV0xwU3FXYWdLY2lzQnM5NUpmRGx5bFVEcVNxNXpnc2RyQkRwSi1n?oc=5>
+- **Trump** | $特朗普媒体科技集团 (DJT.US)$ <https://news.google.com/rss/articles/CBMikgFBVV95cUxOM2s4d3pERVlBMEJ3MWc3WnBUaEtIb2prQXJEVm4tVzYwLW45MHBNTGtJODlqQUN2MTlRb0dibGxOQ0lVTF9BbDJzZ3pTTEZrVXJ3ZnNhUWdEa2VDTVVsT2MteS1IZktJeXpDaU1rMTRjenF6R2R3N1ZiN1BUMExYMmdEV2tpQjlReUczTDE5TmhUdw?oc=5>
+- **Trump** | 特朗普至少两次被告知黄仁勋事件，仍邀其陪同访华 <https://news.google.com/rss/articles/CBMibEFVX3lxTFAzejJ6ZjRjaFZlS2Eya2ZLUkthTDFza3FyNGtiZ0RveEExeVlTUnFvdms5RHNlMjgxTThiaEpLRHFsNzNUM0lveEZ1OGxLVGdZR3EzM1Z2bVY0MmJOaGw5TEY4R0xKQ2YyS0VjZw?oc=5>
 
 ### 2026-11-11 09:40  (14 条)
 
