@@ -1,146 +1,152 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-11-12 05:30**
-- 本轮扫到 15763 条, 新增 **18** 条
+- 最近更新: **2026-11-12 14:27**
+- 本轮扫到 15778 条, 新增 **15** 条
 
 ---
 
-## 本轮新发现 (18 条)
+## 本轮新发现 (15 条)
 
-### 2026星光大赏演员歌手齐开唱，现场堪比演唱会
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2342610415_m8ba165ef03301vf0w.html>
-
-### 蔡徐坤的新歌拿来当转场，氛围一下就起来了，试试看
+### 秀场锐评女性主义典故 蔡徐坤新歌意外契合
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_8363465169_m1f28059d1033019gt4.html>
+- 链接: <https://k.sina.com.cn/article_8337341041_m1f0f1ba71033040kru.html>
 
-### 霍启山娜然结婚引热议，娜然曾演周杰伦告白气球MV
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1288429914_m4ccbe15a03301bwfw.html>
-
-### 真没注意到，娜扎18/19岁就拍了红尘客栈MV！ 还是周董亲自执导！
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2813285937_ma7af563103301dfs8.html>
-
-### 《封神第一部》走红后，娜然早期的MV经历为何被反复提起？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801pnoi.html>
-
-### 经常被混淆的娜然与娜扎分别出演了周杰伦哪支MV？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801pnoa.html>
-
-### 娜然竟是周杰伦《告白气球》MV女主！从清纯甜妹到封神妲己
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801pnny.html>
-
-### 特朗普：美伊战事将很快结束，但美国必须取得彻底胜利，而非93%的胜利
+### 特朗普：无需与伊朗达成协议 万斯应专注国内腐败问题
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-11-12 05:03
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5fTkI4d0QzME9vMGFwOHpXM1EycTVycEo3cWxNV3RZR2F3UWRrcV9WVTNNQ01iSXhPa1o2b3ByS0ozTDFjNGJFQ1QzeDk?oc=5>
+- 场馆: 联合早报
+- 时间: 2026-11-12 14:10
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFAwN2RsOTZkN0JXeDQyNVhFTmE3UGxOUFBETm1KcE9NYV9RSGU4NWs4QkVmclZBdnRXVExZci1tOXNNbjJmWDlHc1NwQUh6QkdWS1lkb1JRT2F1TEFkVDRlSW9xSmg2OFpaSHc?oc=5>
 
-### 让以色列和海湾盟友为伊朗战争买单，特朗普的471亿美元账单开给谁看？
+### 乌克兰的凛冬，逼近特朗普的窗口
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-11-12 02:46
-- 链接: <https://news.google.com/rss/articles/CBMiygFBVV95cUxPZmtVMFFsUzl1RWVIaDF5VlloYVl2SmRqaF9FRV9fTmF5bDI1OEwtck1MZkhLb29ZUnNYZWw4Sl9QTnZ1RUIzb1U1cW83MDA4Xy1TU29DcW9xZkJmN0czZ194cG1jWGZHR2R5amh2bUx2U3M5dy1oMHQ2Z19RNGJ2MGxSQXFJdGhSclZ6MnJLemVXb2NsWThhS1UzZ3YyaVpPdFdvUUJsM3lSUEVQaHllZm5mT2hZZXRzck1jcm5iV1hfQnVpM3ZZQTBR?oc=5>
+- 场馆: 手机新浪网
+- 时间: 2026-11-12 13:23
+- 链接: <https://news.google.com/rss/articles/CBMijgFBVV95cUxONUJ1NmRyS3Rmd0VDMW1GdnRyZFd0WjRnamRPMzN6S1RQakRvVGI0aWNCdnczalhwT3BJXzZuQ1RCNjhJR2QxX0RZSG03VUtjRWNSeVBpTmw2Zm85MG5yaHFRdHpZbTdKamxuM1JEWnZfRHh0WFc5dUNUUFBlMDY0TDVLNjUzeXlQTFRFNlpn?oc=5>
 
-### 特朗普将赴东盟峰会，各国怕的不只是关税
+### 独家：日政府力争促成高市在东盟会议期间与特朗普会晤
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 共同网
+- 时间: 2026-11-12 11:51
+- 链接: <https://news.google.com/rss/articles/CBMiV0FVX3lxTE1iR0NuYjJFZVlycUgzc0F3aTkzSnBsNHhpWUpPX2VrZkV4RTRTcnpUNmVqbjZuSHFIcXlZa09GdGpQZGxIYkJCb1JIcV9RLTRubXJuQ2xvNA?oc=5>
+
+### 中期选举后深圳峰会前日本密切关注特朗普外交政策重心变化
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: DW.com
+- 时间: 2026-11-11 13:59
+- 链接: <https://news.google.com/rss/articles/CBMijwNBVV95cUxPUUhWU0hRWXBRaXRJbU5rbXAwUmtyWXNSNXplNlBBeTRKQ1FOeEJrM3QxR2tFS25yNXRaQWdVTDBxTE5aaGxMQzI4SGJUSExJUEZrdDJSQWpoNFNtSHYtUFdpWDluTXd2bDJaSDJZMllZTXd1SEtpYk1vNE5MSTZPNUg1T2hsOHE2SkUxZzJFX1dDVW1wOEdDbGxwMnFieE1fbVA0N1o5R1JBUkV2d195V283M1hnM21oWGk3ZTRjYTA3cFNUNms1ZmlaTlhUT1ZpUkR6ZDRDOXhmZGplOE5RYTN1OUsxYnNOSWxrVzNZS0FKbjQ1Tk9aVWpQWUxwZ1RFZlhjakdhYWpJYmpmVW05UDlBWDlHcERWaHozZ2RFZVZfMkEwUVlHTGZuS05vSmdneVlaSEYwZU9YNDRMODN3VHNhbmU3U2s2cjJwbVpWQlFFTURYVU5jLTVDbnByMEpxb005alVrRXAzenpoZWtpTWY3NmZwbXRQSFdxT1VEWDc5eTBaVnp0Y3VSTzZXY0U?oc=5>
+
+### 特朗普与内塔尼亚胡被曝就伊朗问题“激烈争吵”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经_金融信息服务商
+- 时间: 2026-11-12 11:13
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE55M0g0MXc2eGhrbmF3TllQRGxobDdKUUJ2SEVZcDZfTjlDTzBKbnBaTW9sQU5TNXF2ZUphbXZTa0s1cERZNjZfcWNiLXI2S004VldQRWhBLUk2MVZyNGFBSmxGaGw5TWNtTkJNcTJiSmR4VlJhUkh2Ug?oc=5>
+
+### 专访《地下帝国》作者法雷尔：“蓝潮”下特朗普更难达成交易，仍能制造混乱
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: ThePaper.cn
+- 时间: 2026-11-12 06:36
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDbHZmNEJXT09EQjFJNzNEd2pyQ0FMMEd0cjdDYk5WNW5kZWtidEQ3dERkVFpJUG84NFlEX09wdVBnanRzMDYtb3dQcU01TjR3ZVp2XzdoVG1vbEJ3ZGpoSw?oc=5>
+
+### 特朗普：墨西哥必须阻止移民车队 否则关税翻倍
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Sohu
+- 时间: 2026-11-12 12:43
+- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSjAxd1MtanlvZW9zU1YtQXZ6aDhLSktNTDZ5WUh6TWEyQ1pfZEozb084bC16RmtPOTFhX2kxdzNkYU5ISmtFZEgwdS00Y25aRFowS21nYVdKemE5bktpbkpkNGJDRkJNVmpZczhURG5KR3lwUHhrczIxd1FUOWFQRndJODhzLXRkRnVn?oc=5>
+
+### 特朗普的2027：府院制衡下的5条博弈主线
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Jiemian.com
+- 时间: 2026-11-12 07:53
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE1DRTg4bXJEMk1IYlVQdDhLZm02UnNaQkltMUZmMXFZdTYyc1hxYjg0R2NPZUVxTnhJcnR4dnlydFA5V0kxY0JzMDlCZjM2NVRYbTFWYVhkWWU?oc=5>
+
+### 外媒：特朗普与内塔尼亚胡在交谈中爆发“地狱般的争吵”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中国新闻网
+- 时间: 2026-11-12 14:11
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5tNmJZWG5BMGsycVRHR0pvcHU5TDA2QzJ0aWIwak1yLWRtcUdqQUVWX3h5dFZUYWNQdnYyVU84MUY4dnlXMEE2ZV9ncnlBUnBIMWI1ZEVlbEs5Mm5CdzRTNV83VnF2V1hG?oc=5>
+
+### 金灿荣：我和特朗普万斯背后的智库对话，发现一些新动向
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 观察者网
-- 时间: 2026-11-12 01:35
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1fT01MQkpabzFadGkxdzRLOGpycHhNYXZ4STRBSkJac3QxYl9BX1pDXy1XcEtHVDhfSFlOUDNjZHBZTExJMm9JNDRjSFMzYVRCakh6cnlNMmJNM2ViNXVVQXJfMFg5ZUpzSnY1MUctdmQ2XzA?oc=5>
+- 时间: 2026-11-12 10:26
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5ZemxsMlVHQTllLW9tZ1Zjb3M4MTZvUkt4dTJOSnFsNGc4eXRCNDRyZnIyUklrVmQ3SjdYMGM3SlliaExpZkRuVEVQUzMzNXlic0pNU01FNDRVd2VjSE1rc1JQNTBYc1hCYzRubWJTUUgxTG8?oc=5>
 
-### 特朗普政府官员就英伟达事件发生冲突
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-11-12 03:30
-- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxQMnppaVNjY1kydGFGTE1rZlhYeV9UUHBpdmxHenhTYkdKTUdVdkFIZmFrVGtmSUI4b3FKZGFIWXNZa3J6QWNncUxSRm1MaWJBVEN3ZTBCNnRVRjB2d0ZHeHBFTjF6NWlrT0ZjSlhFWjVyd1FFeU1DcmJneV96a0dDcw?oc=5>
-
-### 肯尼迪家族下场 阻止特朗普修建凯旋门
+### 特朗普威胁墨西哥：阻止移民车队，否则关税翻倍
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-11-12 00:00
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5WTllaa216RGZTVXZqMHZFNzVqamRfaVh3MW9xN29HZy1RSVdiTmFVQXZNc2dUV3dRSWZqc0t6Y0xPUm4wenllalJnMTVxRmJlRU9mM2NlVHJkRlR6OGhadkdjR2d6Tk1RbDM4bm1RRTdMNmZoMlJVMg?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-11-12 12:14
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5KbVJhR25oNGo1Zl9LcWJpd3FIT09ZX19Bd1hES1plbnFoNnluVTlaWlVwMDR5MzZ1NTZqREprZl81SGdGdmRnYVJVRVk?oc=5>
 
-### 美中俄峰会筹备发生分歧 北京要求照稿发言
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-11-10 21:49
-- 链接: <https://news.google.com/rss/articles/CBMixAJBVV95cUxNZEhPeTAzS2pGdFhLa1p5YTROc1FKX3dJMjZ5NE50bmZLSjkyejNhbE1CT1VSdGcwbEdfVGd3aDEydTdldjYtcW93VEY2VUpHWnZMcHFtY1pyVmJPc1dZTWYxSDdyWFhiOUpVdmhfRmxGWXRDaFEwemtMR0trZW11cmZKTG9zeWFRQmZoNGxJdXl4RmxsZW9SYnZKMU9VMVBUMTBTZkpuQXZ0QzFVbko4V2ZYNGVVbndhOVA5TDVEZmVXMmNyenc0dzFmdTFHVmNRaURsZVJ2RFZ4WWJGbXZKc0Zmbm1KVHY0QjBiUlFYT3l6M3d0WlZYZk8yRUhIMjZfQjliRFRkOE9yMGdUcFdGMXlmSEdDVVJTNW5XZG5iM3l4cTNqWmlnRDNyZk9VYjczNld2MlZ2NHJ6SHJEMERtaXl2ZmI?oc=5>
-
-### 美中期选举对特习深圳会晤会有影响吗？美中经贸承诺与AI风险管控又将如何进展？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-11-12 00:18
-- 链接: <https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdHRCc1dXbHVOTVVpRFpDaTc1OGMzLVB4ZVNKYWg4ZE5QMTBCM0RYaWY2V19PT2M4UkdEak0wdGMzTGd6U3ZWUXRRX0V4MC15UFpVeWtDY0pLX2s2bElUSVVDT0VpMmNvUWZGNy1Yamk3bFhiWE1XQ3pTcUlDSHBVeFF2YTdFc3ZiNE1QeFphQ0ZUQUNnUG1XbllVUTZMZnBMY3BXT0E2QXNpMVlhX0xINmo0aG84TmdJalprYUNNYkxuaTDSAcYBQVVfeXFMTjdHX3VMcHBWUlBtNC03VmpBOW1CNDJuVlRlQTFuNnkxRlZDODdINmUxYmctQ29kR21ueThla1NZTnBvQm9tS3ZDd2puYzVOLXN4WHBpckV3N0lLM1o4S0NQOFJZTEdZc3VjZDZCSmJJQ2h5bE5ETVljZnIzal9LZHdpb19UdE9HWnFSUE9wLVlOSXpyNGlIM2hqdzRPakRjOF9WaDBoNF9iVGgzSmE1Z1BGNFczLXE2V0IzelBYZzV5ZVpEYVRR?oc=5>
-
-### 特朗普的“账本”，选民不认了
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 上观新闻
-- 时间: 2026-11-12 00:00
-- 链接: <https://news.google.com/rss/articles/CBMiWkFVX3lxTE41SllPUEFDRFV1MTNyQllBWlNac00xWnZhZ1lKZXRwdlItMS03OGZVRENoOEFBZ1FZUFFZcXI1eU55VWMzN3NvR2prdXVOSjdCR1dDSDAxQWQ1QQ?oc=5>
-
-### 中选结束清算开始！民主党誓言揭露"特朗普执政贪腐"，白宫以调查反击
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-11-12 00:31
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE1nSnBXTko5ZDVxR3RNQ0ctTnpwejNBdVNhRVVLY09qNF9xNGFQWlpJSUJWUkI5UzcyOUNmb2NrRzE4Wlh5ZzZBV1FnVUFRekRScnh3?oc=5>
-
-### 民主党高层要求特朗普政府保存英伟达所有涉华记录
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-11-12 03:14
-- 链接: <https://news.google.com/rss/articles/CBMiogFBVV95cUxPaG53cnRGbVBxM0xyVG1mbGNlaERGWV9kemcwM0Z6VmlQLTNKSm5ybzZOc1dRRWg1aTlFVWc2WHdMeDgweGlCNGVvakNoVEhOMTNHSl9tZlh0VllvRjZGeXhhSG4wSG9OQnZybmFvNUpWcHR5UHpMdmRrRXV3VFBJSzhnd3hTcDlydEZPaWREV2hYRXlIc20xbk40TDRoRURNbXc?oc=5>
-
-### 黄仁勋丑闻令白宫面临棘手难题
+### HK biz community's expectations of Xi-Trump meeting at APEC
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-11-12 00:53
-- 链接: <https://news.google.com/rss/articles/CBMi9gFBVV95cUxPRjl5TFNrU0VNTFkxazdvUGhNVVB3Y2dSS0pSVk1lUm5YaDV0d1dUWWREZ2QxbXZTdkJsTEttdUxmN1NJMFVzWWVjN1FBZFFldHR6dkRYV2F1UFFHdUZRNVFwc1c4aHVtRnhyaHIzakd2Mi0zcEVXT3dSalUxaXp5MmxUdU00MVhKRmp1blRncTFYOEMtNkhmOU1EUW5sZUNnS04tU09aVUE4T24xN2locDR0elQxOGRCNjVEb0Znb05jdmM0N3FYNWFhLUV2X0tSWmF1anczSjRpdFBBbHduMUJTay1MOHhraE0zOVNRbm9ibFFHekE?oc=5>
+- 场馆: TVB
+- 时间: 2026-11-12 12:28
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVzYycVRhcUpUQ0p2SXlHT05YRmh6UURCMnNYRk9ldHpGZlRWZGdxa1V1SWd1a1BzYnVEc25ZS2ptM1ZPQUc4SHp1Zm1nZGJPU0FlcENKUUpfN21oMVZadmJ0a1BoMGc1c2ZxbG5kR2dCX2FaYlM0NXQ3bGZJRGp1WWFsQU84VldT?oc=5>
+
+### 英伟达风波与选举失利 特朗普晤习近平谈判筹码削弱？
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 8world
+- 时间: 2026-11-12 12:26
+- 链接: <https://news.google.com/rss/articles/CBMikwFBVV95cUxQbzV2ZkpsS0ZuV2w0RklJLXNnaTFZY18yS25zb25nOWNTaTYxbGsxcXhMX1I3V3VWSW9jOXptamprN0NuNnRDRHc0eEQ1Z2F6WWRZdE1FWVRhZWJaUll0VEhyanBWNFVsTjg4LXJvcXhoUm1HNGlCSnNpTWc1RnIzR2RzcEYyTGViTE1xWERMV1hvQ2M?oc=5>
+
+### Kennedy family lawsuit to block Trump's Washington arch
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: TVB
+- 时间: 2026-11-12 12:44
+- 链接: <https://news.google.com/rss/articles/CBMihgFBVV95cUxObWoxUTkxZENQX1IxdlFGM2t1Zjg2QVRmcTZYb08zMUxoOHlMY3h6cDJvY0F6YUt5U0hRRnpwSjhQOTdmU0s0S2FnNjFPYnAxOUxteWFVcWROZEp6c21Ob0FqMS1HLWlPMndvZ3kyWmtSMFU4cEFGS3BCeUE0MDdGc2ZwUXc2QQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-11-12 14:27  (15 条)
+
+- **蔡徐坤** | 秀场锐评女性主义典故 蔡徐坤新歌意外契合 <https://k.sina.com.cn/article_8337341041_m1f0f1ba71033040kru.html>
+- **特朗普** | 特朗普：无需与伊朗达成协议 万斯应专注国内腐败问题 <https://news.google.com/rss/articles/CBMiakFVX3lxTFAwN2RsOTZkN0JXeDQyNVhFTmE3UGxOUFBETm1KcE9NYV9RSGU4NWs4QkVmclZBdnRXVExZci1tOXNNbjJmWDlHc1NwQUh6QkdWS1lkb1JRT2F1TEFkVDRlSW9xSmg2OFpaSHc?oc=5>
+- **特朗普** | 乌克兰的凛冬，逼近特朗普的窗口 <https://news.google.com/rss/articles/CBMijgFBVV95cUxONUJ1NmRyS3Rmd0VDMW1GdnRyZFd0WjRnamRPMzN6S1RQakRvVGI0aWNCdnczalhwT3BJXzZuQ1RCNjhJR2QxX0RZSG03VUtjRWNSeVBpTmw2Zm85MG5yaHFRdHpZbTdKamxuM1JEWnZfRHh0WFc5dUNUUFBlMDY0TDVLNjUzeXlQTFRFNlpn?oc=5>
+- **特朗普** | 独家：日政府力争促成高市在东盟会议期间与特朗普会晤 <https://news.google.com/rss/articles/CBMiV0FVX3lxTE1iR0NuYjJFZVlycUgzc0F3aTkzSnBsNHhpWUpPX2VrZkV4RTRTcnpUNmVqbjZuSHFIcXlZa09GdGpQZGxIYkJCb1JIcV9RLTRubXJuQ2xvNA?oc=5>
+- **特朗普** | 中期选举后深圳峰会前日本密切关注特朗普外交政策重心变化 <https://news.google.com/rss/articles/CBMijwNBVV95cUxPUUhWU0hRWXBRaXRJbU5rbXAwUmtyWXNSNXplNlBBeTRKQ1FOeEJrM3QxR2tFS25yNXRaQWdVTDBxTE5aaGxMQzI4SGJUSExJUEZrdDJSQWpoNFNtSHYtUFdpWDluTXd2bDJaSDJZMllZTXd1SEtpYk1vNE5MSTZPNUg1T2hsOHE2SkUxZzJFX1dDVW1wOEdDbGxwMnFieE1fbVA0N1o5R1JBUkV2d195V283M1hnM21oWGk3ZTRjYTA3cFNUNms1ZmlaTlhUT1ZpUkR6ZDRDOXhmZGplOE5RYTN1OUsxYnNOSWxrVzNZS0FKbjQ1Tk9aVWpQWUxwZ1RFZlhjakdhYWpJYmpmVW05UDlBWDlHcERWaHozZ2RFZVZfMkEwUVlHTGZuS05vSmdneVlaSEYwZU9YNDRMODN3VHNhbmU3U2s2cjJwbVpWQlFFTURYVU5jLTVDbnByMEpxb005alVrRXAzenpoZWtpTWY3NmZwbXRQSFdxT1VEWDc5eTBaVnp0Y3VSTzZXY0U?oc=5>
+- **特朗普** | 特朗普与内塔尼亚胡被曝就伊朗问题“激烈争吵” <https://news.google.com/rss/articles/CBMieEFVX3lxTE55M0g0MXc2eGhrbmF3TllQRGxobDdKUUJ2SEVZcDZfTjlDTzBKbnBaTW9sQU5TNXF2ZUphbXZTa0s1cERZNjZfcWNiLXI2S004VldQRWhBLUk2MVZyNGFBSmxGaGw5TWNtTkJNcTJiSmR4VlJhUkh2Ug?oc=5>
+- **特朗普** | 专访《地下帝国》作者法雷尔：“蓝潮”下特朗普更难达成交易，仍能制造混乱 <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDbHZmNEJXT09EQjFJNzNEd2pyQ0FMMEd0cjdDYk5WNW5kZWtidEQ3dERkVFpJUG84NFlEX09wdVBnanRzMDYtb3dQcU01TjR3ZVp2XzdoVG1vbEJ3ZGpoSw?oc=5>
+- **特朗普** | 特朗普：墨西哥必须阻止移民车队 否则关税翻倍 <https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSjAxd1MtanlvZW9zU1YtQXZ6aDhLSktNTDZ5WUh6TWEyQ1pfZEozb084bC16RmtPOTFhX2kxdzNkYU5ISmtFZEgwdS00Y25aRFowS21nYVdKemE5bktpbkpkNGJDRkJNVmpZczhURG5KR3lwUHhrczIxd1FUOWFQRndJODhzLXRkRnVn?oc=5>
+- **特朗普** | 特朗普的2027：府院制衡下的5条博弈主线 <https://news.google.com/rss/articles/CBMiWEFVX3lxTE1DRTg4bXJEMk1IYlVQdDhLZm02UnNaQkltMUZmMXFZdTYyc1hxYjg0R2NPZUVxTnhJcnR4dnlydFA5V0kxY0JzMDlCZjM2NVRYbTFWYVhkWWU?oc=5>
+- **特朗普** | 外媒：特朗普与内塔尼亚胡在交谈中爆发“地狱般的争吵” <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5tNmJZWG5BMGsycVRHR0pvcHU5TDA2QzJ0aWIwak1yLWRtcUdqQUVWX3h5dFZUYWNQdnYyVU84MUY4dnlXMEE2ZV9ncnlBUnBIMWI1ZEVlbEs5Mm5CdzRTNV83VnF2V1hG?oc=5>
+- **特朗普** | 金灿荣：我和特朗普万斯背后的智库对话，发现一些新动向 <https://news.google.com/rss/articles/CBMic0FVX3lxTE5ZemxsMlVHQTllLW9tZ1Zjb3M4MTZvUkt4dTJOSnFsNGc4eXRCNDRyZnIyUklrVmQ3SjdYMGM3SlliaExpZkRuVEVQUzMzNXlic0pNU01FNDRVd2VjSE1rc1JQNTBYc1hCYzRubWJTUUgxTG8?oc=5>
+- **特朗普** | 特朗普威胁墨西哥：阻止移民车队，否则关税翻倍 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5KbVJhR25oNGo1Zl9LcWJpd3FIT09ZX19Bd1hES1plbnFoNnluVTlaWlVwMDR5MzZ1NTZqREprZl81SGdGdmRnYVJVRVk?oc=5>
+- **Trump** | HK biz community's expectations of Xi-Trump meeting at APEC <https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVzYycVRhcUpUQ0p2SXlHT05YRmh6UURCMnNYRk9ldHpGZlRWZGdxa1V1SWd1a1BzYnVEc25ZS2ptM1ZPQUc4SHp1Zm1nZGJPU0FlcENKUUpfN21oMVZadmJ0a1BoMGc1c2ZxbG5kR2dCX2FaYlM0NXQ3bGZJRGp1WWFsQU84VldT?oc=5>
+- **Trump** | 英伟达风波与选举失利 特朗普晤习近平谈判筹码削弱？ <https://news.google.com/rss/articles/CBMikwFBVV95cUxQbzV2ZkpsS0ZuV2w0RklJLXNnaTFZY18yS25zb25nOWNTaTYxbGsxcXhMX1I3V3VWSW9jOXptamprN0NuNnRDRHc0eEQ1Z2F6WWRZdE1FWVRhZWJaUll0VEhyanBWNFVsTjg4LXJvcXhoUm1HNGlCSnNpTWc1RnIzR2RzcEYyTGViTE1xWERMV1hvQ2M?oc=5>
+- **Trump** | Kennedy family lawsuit to block Trump's Washington arch <https://news.google.com/rss/articles/CBMihgFBVV95cUxObWoxUTkxZENQX1IxdlFGM2t1Zjg2QVRmcTZYb08zMUxoOHlMY3h6cDJvY0F6YUt5U0hRRnpwSjhQOTdmU0s0S2FnNjFPYnAxOUxteWFVcWROZEp6c21Ob0FqMS1HLWlPMndvZ3kyWmtSMFU4cEFGS3BCeUE0MDdGc2ZwUXc2QQ?oc=5>
 
 ### 2026-11-12 05:30  (18 条)
 
