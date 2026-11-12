@@ -1,134 +1,154 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-11-12 14:27**
-- 本轮扫到 15778 条, 新增 **15** 条
+- 最近更新: **2026-11-12 21:31**
+- 本轮扫到 15793 条, 新增 **15** 条
 
 ---
 
 ## 本轮新发现 (15 条)
 
-### 秀场锐评女性主义典故 蔡徐坤新歌意外契合
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_8337341041_m1f0f1ba71033040kru.html>
-
-### 特朗普：无需与伊朗达成协议 万斯应专注国内腐败问题
+### 墨西哥总统回应特朗普关税威胁：没有移民队伍抵达美墨边境
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-11-12 14:10
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFAwN2RsOTZkN0JXeDQyNVhFTmE3UGxOUFBETm1KcE9NYV9RSGU4NWs4QkVmclZBdnRXVExZci1tOXNNbjJmWDlHc1NwQUh6QkdWS1lkb1JRT2F1TEFkVDRlSW9xSmg2OFpaSHc?oc=5>
+- 场馆: Sohu
+- 时间: 2026-11-12 20:24
+- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdjRVc1Y2bFN2WjdyaVlBRkJMbnNDQXU5S0RGd2hyajV0cDVkQ0NmSUxwS2hTU0daaVpla3NMYThiWkJRRUgweVh6R2F0UE9EZzVScUxvdkpnZ1ZsZ1l1NFEyRDF5NkFVVml2OGhoeWtVblhsQVNfeXFuRWllbTVJNDA4WWg3alB4amkw?oc=5>
 
-### 乌克兰的凛冬，逼近特朗普的窗口
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-11-12 13:23
-- 链接: <https://news.google.com/rss/articles/CBMijgFBVV95cUxONUJ1NmRyS3Rmd0VDMW1GdnRyZFd0WjRnamRPMzN6S1RQakRvVGI0aWNCdnczalhwT3BJXzZuQ1RCNjhJR2QxX0RZSG03VUtjRWNSeVBpTmw2Zm85MG5yaHFRdHpZbTdKamxuM1JEWnZfRHh0WFc5dUNUUFBlMDY0TDVLNjUzeXlQTFRFNlpn?oc=5>
-
-### 独家：日政府力争促成高市在东盟会议期间与特朗普会晤
+### 特朗普连续发帖痛斥民主党“腐败”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 共同网
-- 时间: 2026-11-12 11:51
-- 链接: <https://news.google.com/rss/articles/CBMiV0FVX3lxTE1iR0NuYjJFZVlycUgzc0F3aTkzSnBsNHhpWUpPX2VrZkV4RTRTcnpUNmVqbjZuSHFIcXlZa09GdGpQZGxIYkJCb1JIcV9RLTRubXJuQ2xvNA?oc=5>
+- 场馆: ThePaper.cn
+- 时间: 2026-11-12 19:35
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE16NFB0dG1tNjhyQ05fLTYxSUpnLU5ERVdVQjVRaDBnVWdmaERFeFQtTG5vd1lVWGEyTGw2dWkyNzZYdmtxRWZKWWVqNXFlc2JZeDVXT2FKRHdUVjZLMWZUSg?oc=5>
 
-### 中期选举后深圳峰会前日本密切关注特朗普外交政策重心变化
+### 特朗普女婿库什纳称俄乌问题多边谈判将于下周举行
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: DW.com
-- 时间: 2026-11-11 13:59
-- 链接: <https://news.google.com/rss/articles/CBMijwNBVV95cUxPUUhWU0hRWXBRaXRJbU5rbXAwUmtyWXNSNXplNlBBeTRKQ1FOeEJrM3QxR2tFS25yNXRaQWdVTDBxTE5aaGxMQzI4SGJUSExJUEZrdDJSQWpoNFNtSHYtUFdpWDluTXd2bDJaSDJZMllZTXd1SEtpYk1vNE5MSTZPNUg1T2hsOHE2SkUxZzJFX1dDVW1wOEdDbGxwMnFieE1fbVA0N1o5R1JBUkV2d195V283M1hnM21oWGk3ZTRjYTA3cFNUNms1ZmlaTlhUT1ZpUkR6ZDRDOXhmZGplOE5RYTN1OUsxYnNOSWxrVzNZS0FKbjQ1Tk9aVWpQWUxwZ1RFZlhjakdhYWpJYmpmVW05UDlBWDlHcERWaHozZ2RFZVZfMkEwUVlHTGZuS05vSmdneVlaSEYwZU9YNDRMODN3VHNhbmU3U2s2cjJwbVpWQlFFTURYVU5jLTVDbnByMEpxb005alVrRXAzenpoZWtpTWY3NmZwbXRQSFdxT1VEWDc5eTBaVnp0Y3VSTzZXY0U?oc=5>
+- 场馆: Sohu
+- 时间: 2026-11-12 20:10
+- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeFhIbU9sRVVYanFsOTFQSkI4dmlVRHJhYmhHM3Utck52ZjhucDRWN2JySVBBeGNxcHZtbTQ4b0VFMVJudlVDZVhidEtOampaWEZTZFlrYWQyWmZ4SUpoRmN3RHpkRmUxcGxNQjdYU285ODVlWUEzWTdNVW5tejNPWUtlT2tYMlF6aVNV?oc=5>
+
+### 特朗普总统要求副总统万斯将工作重点从伊朗谈判转向美国的腐败
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-11-12 17:20
+- 链接: <https://news.google.com/rss/articles/CBMixwFBVV95cUxQSEZSSkdIUFhfVE1TT3A5MTBQN2U2Q2d1MURndWxuTS1MWGVMaXFOX3lOcW8zUlFUYU9sb2htYVA5RWxBakw2akdDTE9mWUVuUEVQdE1BX01fWlRydUdSaHctWnVJdWRsT3c5SzVKaU9VcUlqSTVsdm4wWFQwcm9lZ044SnJKdnY5VC16bGNlMW1YLXlUVFFWN1ZHZUR6OW1OSXZMeU1LRmJITl8wV2cyOFNLNVYxdW9WcFh2RklaSmhpNXd5UDRF0gHKAUFVX3lxTFA0aDFOYUtpdVlObkJ5SlFyc29BWHJIZ05QaGlTS3c2dWNtb1FBZFZoQmZJYTg2Qm5ZQU1jb09FTDc5Q19OeFdGS3dScVptZXAzcGY5aXQ2RjI5SFNtaFl2c1lpUVYyTXV1a0NJMzlJTktOWlV2T0dST2FmMG5JRm9Ua2tSaDBrRXluZjQ1VWxDd2NVQ3JYTWxOMHg5WXNGTUNFcXJxbjlkZVdmek1tMzdtM2JkOE5ORUNnMXBjcllQVzRNZW9DYV9HbVE?oc=5>
 
 ### 特朗普与内塔尼亚胡被曝就伊朗问题“激烈争吵”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经_金融信息服务商
-- 时间: 2026-11-12 11:13
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE55M0g0MXc2eGhrbmF3TllQRGxobDdKUUJ2SEVZcDZfTjlDTzBKbnBaTW9sQU5TNXF2ZUphbXZTa0s1cERZNjZfcWNiLXI2S004VldQRWhBLUk2MVZyNGFBSmxGaGw5TWNtTkJNcTJiSmR4VlJhUkh2Ug?oc=5>
+- 时间: 2026-11-12 18:17
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9GVU03QWkxWEctQV9DeU9tRWRvRmVNay1rQmpWaExUNW5GMDhYMHpvVVZ2UlJON3RibVZvdVY5ZlNDV0JNTWtPMlJ0VEJSSW5TaW90Xy14cmtzZ3ByRWZ2Sk82alROU0RUdkYyMnJYWlZBUXMzcWdUMw?oc=5>
 
-### 专访《地下帝国》作者法雷尔：“蓝潮”下特朗普更难达成交易，仍能制造混乱
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: ThePaper.cn
-- 时间: 2026-11-12 06:36
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDbHZmNEJXT09EQjFJNzNEd2pyQ0FMMEd0cjdDYk5WNW5kZWtidEQ3dERkVFpJUG84NFlEX09wdVBnanRzMDYtb3dQcU01TjR3ZVp2XzdoVG1vbEJ3ZGpoSw?oc=5>
-
-### 特朗普：墨西哥必须阻止移民车队 否则关税翻倍
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: Sohu
-- 时间: 2026-11-12 12:43
-- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSjAxd1MtanlvZW9zU1YtQXZ6aDhLSktNTDZ5WUh6TWEyQ1pfZEozb084bC16RmtPOTFhX2kxdzNkYU5ISmtFZEgwdS00Y25aRFowS21nYVdKemE5bktpbkpkNGJDRkJNVmpZczhURG5KR3lwUHhrczIxd1FUOWFQRndJODhzLXRkRnVn?oc=5>
-
-### 特朗普的2027：府院制衡下的5条博弈主线
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: Jiemian.com
-- 时间: 2026-11-12 07:53
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE1DRTg4bXJEMk1IYlVQdDhLZm02UnNaQkltMUZmMXFZdTYyc1hxYjg0R2NPZUVxTnhJcnR4dnlydFA5V0kxY0JzMDlCZjM2NVRYbTFWYVhkWWU?oc=5>
-
-### 外媒：特朗普与内塔尼亚胡在交谈中爆发“地狱般的争吵”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中国新闻网
-- 时间: 2026-11-12 14:11
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5tNmJZWG5BMGsycVRHR0pvcHU5TDA2QzJ0aWIwak1yLWRtcUdqQUVWX3h5dFZUYWNQdnYyVU84MUY4dnlXMEE2ZV9ncnlBUnBIMWI1ZEVlbEs5Mm5CdzRTNV83VnF2V1hG?oc=5>
-
-### 金灿荣：我和特朗普万斯背后的智库对话，发现一些新动向
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-11-12 10:26
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5ZemxsMlVHQTllLW9tZ1Zjb3M4MTZvUkt4dTJOSnFsNGc4eXRCNDRyZnIyUklrVmQ3SjdYMGM3SlliaExpZkRuVEVQUzMzNXlic0pNU01FNDRVd2VjSE1rc1JQNTBYc1hCYzRubWJTUUgxTG8?oc=5>
-
-### 特朗普威胁墨西哥：阻止移民车队，否则关税翻倍
+### 特朗普：美国不需要与伊朗达成协议
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-11-12 12:14
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5KbVJhR25oNGo1Zl9LcWJpd3FIT09ZX19Bd1hES1plbnFoNnluVTlaWlVwMDR5MzZ1NTZqREprZl81SGdGdmRnYVJVRVk?oc=5>
+- 时间: 2026-11-12 13:12
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE56OXk2dXk4cFBrcjBRRlZWMGFER1lZMFgxZ2JkUG1FQVh6d0doSzJrZW9NU3UtNVRsa3V3eDBOTUN1aE5kZkRLcDdGM3E?oc=5>
 
-### HK biz community's expectations of Xi-Trump meeting at APEC
+### 特朗普称美国不需要与伊朗达成协议
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中国网新闻中心
+- 时间: 2026-11-12 16:50
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE5HR0REZExJMFVzVEFxMVhqUjA3d0N0N1NZUDdHRHBDWjJ5TkI0MWQwRDk1TzFhNU9zWF9rWU5kOTFSYzRaS0ZCNVRpY29zQjk1NXhYRzAtTHdlV0xwYUVtZzFhTmhDMTdPY05B?oc=5>
+
+### 美媒曝防长真面目？165死多是儿童，特朗普硬保还背471亿账
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 手机新浪网
+- 时间: 2026-11-12 19:01
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE1CaUhuWkhGY2FyTm40UGpOdGI2YWdMRG5UQndLakFHcUNvNnItZmstbHNweGloWW5HYTBNVHNXdHJ5czVPUlVzSXB0SVhCY05DQ2tkYlRDMDRha05tYk56bF9ZQ3dVSUpCVWQtWGd5Tk1oUQ?oc=5>
+
+### 面临下台之后，内塔尼亚胡与特朗普就伊朗问题又吵了起来
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Jiemian.com
+- 时间: 2026-11-12 15:04
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTFBvQWd1YS1oVDMteXdfSVhBbTd0Z1RZU0p4OHJiMXk2TWpFVF9mVHFrV0FLZUxBRDFLUjVfeTUxWldMN3N1U2xwSGlrS0N2S3FiODd5X1VfdDc?oc=5>
+
+### 特朗普：墨西哥必须阻止移民车队，否则关税翻倍
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 京报网
+- 时间: 2026-11-12 12:59
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFAxWkVyTzRMaTBYQkNSWFByQnR6Sk9rRTFLQ0c1S0d4YmU0ZWpaSG1LcnhBcXhPa21SREYtb0JXcW80Z1FRTk5UUEVfQktVMng2LXB6THVMU1h1Y1dMSktLOHNTM0FFS0wwUlJ1U3NUVHV1Zw?oc=5>
+
+### 中国评论新闻网：（王志民）特朗普急需俄乌停火来重塑形象
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 对外经济贸易大学新闻网
+- 时间: 2026-11-12 10:26
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE9peEJSZVBUQzVVODRtSmREcmR0Qi1wZ04takQ2R3AxV010WXhZN05LeU03ZnZ4NWtPVUd1MmpPRGRkY3g0WWRGSXdIRGluZUYtOW15QnVHY1I?oc=5>
+
+### 特朗普与内塔尼亚胡被曝就伊朗问题“激烈争吵”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 央视网
+- 时间: 2026-11-12 10:52
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBGLVBMVWZxNm1qY0FkandPTWNKUTdEODJlS05XWkhtRkJsSTNNalhhV2FoRXNqcXNmODFLQ2R5dFdtY2M1LTB0OE03RTVCV21naFNIc3I2RklaTWpWaTRIQlVxVjFVdGI3LU9ROFY1SUR6UXpQUVNzSA?oc=5>
+
+### Oil Prices Rebound as Trump Questions Need for Iran Deal -- 2nd Update
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: TVB
-- 时间: 2026-11-12 12:28
-- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVzYycVRhcUpUQ0p2SXlHT05YRmh6UURCMnNYRk9ldHpGZlRWZGdxa1V1SWd1a1BzYnVEc25ZS2ptM1ZPQUc4SHp1Zm1nZGJPU0FlcENKUUpfN21oMVZadmJ0a1BoMGc1c2ZxbG5kR2dCX2FaYlM0NXQ3bGZJRGp1WWFsQU84VldT?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-11-12 20:55
+- 链接: <https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSGtlVmlLODB0al9JOXlYMXYxb3Y3V2tyRzBHLXhoanZ4Wm90QUZWWG9ZRGVtckVUR1NLX29YQlRFVkp2cUY3TEVIdTBESVBpMWpDNWdoQkl4UmNQTlpHcWZjb3J1SkxKM29oeXZYQlRiM0ZOcFVTYy1OWkdhQ1RCbVB5WVBnZlFUWmlwLVBuVUI5UG05WkE3d0o3UmtxUGJBQUNqeG5uZFc?oc=5>
 
-### 英伟达风波与选举失利 特朗普晤习近平谈判筹码削弱？
+### 特朗普：苹果前首席执行官库克应出任英伟达新首席执行官
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: 8world
-- 时间: 2026-11-12 12:26
-- 链接: <https://news.google.com/rss/articles/CBMikwFBVV95cUxQbzV2ZkpsS0ZuV2w0RklJLXNnaTFZY18yS25zb25nOWNTaTYxbGsxcXhMX1I3V3VWSW9jOXptamprN0NuNnRDRHc0eEQ1Z2F6WWRZdE1FWVRhZWJaUll0VEhyanBWNFVsTjg4LXJvcXhoUm1HNGlCSnNpTWc1RnIzR2RzcEYyTGViTE1xWERMV1hvQ2M?oc=5>
+- 时间: 2026-11-12 15:46
+- 链接: <https://news.google.com/rss/articles/CBMilgFBVV95cUxQa0w3U1hZenF1bElwdnFwSmFuQ0xXM2FMMWZEa1JRcUtjaTJuVHI3QUpHcjk3c0dBam5vT3BUSkV6WTNUdEp4YWFzRHRHTE1jS2NTTW5HdFNUc0ZsUlZPeE4tajlPMDVGSy1aLVhtWndHU3lScHZ3OThVREVHd3d0M0J1ek9LdU0wZ3ZVXy0xVFdmdDhsZGc?oc=5>
 
-### Kennedy family lawsuit to block Trump's Washington arch
+### 卢比奥与王毅通话，提及与俄罗斯举行三方峰会的可能性
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: TVB
-- 时间: 2026-11-12 12:44
-- 链接: <https://news.google.com/rss/articles/CBMihgFBVV95cUxObWoxUTkxZENQX1IxdlFGM2t1Zjg2QVRmcTZYb08zMUxoOHlMY3h6cDJvY0F6YUt5U0hRRnpwSjhQOTdmU0s0S2FnNjFPYnAxOUxteWFVcWROZEp6c21Ob0FqMS1HLWlPMndvZ3kyWmtSMFU4cEFGS3BCeUE0MDdGc2ZwUXc2QQ?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-11-12 16:21
+- 链接: <https://news.google.com/rss/articles/CBMixwFBVV95cUxPUERvU2N1a0dQbHpWMVJBSTNpaFJHTDdvTTk3ckg4bkw0ME1sUklwWFNOUUU2SjZwSXhqdzlsbjNKd3dKNU9SR1czVktOTzlvQWtYWW9jbndUVTByOEg4aFJCNFhTMWlBQUhlT2luaWs4RVN5dHRDRXFmVFB4amJDTERoWmFvRV9YZ28ySVdMOGMyNGtYMWtRajJ5Vm9rUWxnZkZLZ1AwNWQ4VGxvOEVFVHUwSU9jSEI4ajJyWUhxZXZXeTFKMkNv0gHKAUFVX3lxTE0tWlAzUWRQYkFhX21TTDJQeEhMUlBhUTdiTU9UeXh3S25abE9ncEFwc1BZa1Nxci01clBkeEdHSzYyQ1lIR1ZBMkpOa1lMTGo4REJibFFsQXdXU3dVNm5xaGpWNjhkVDJaXzRvVHVmdFFSOXNUY1ItOXJ6Y0xDMzE5dG5kRkxOdlA4U1lIbWgtMWwta3daRWNuaWJFV19BTjIwbTEtRG8wRXRIOFVKTzN0S0U1TWhtMVNkc0Z6RUNnVXhYT1VCOF9kOVE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-11-12 21:31  (15 条)
+
+- **特朗普** | 墨西哥总统回应特朗普关税威胁：没有移民队伍抵达美墨边境 <https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdjRVc1Y2bFN2WjdyaVlBRkJMbnNDQXU5S0RGd2hyajV0cDVkQ0NmSUxwS2hTU0daaVpla3NMYThiWkJRRUgweVh6R2F0UE9EZzVScUxvdkpnZ1ZsZ1l1NFEyRDF5NkFVVml2OGhoeWtVblhsQVNfeXFuRWllbTVJNDA4WWg3alB4amkw?oc=5>
+- **特朗普** | 特朗普连续发帖痛斥民主党“腐败” <https://news.google.com/rss/articles/CBMiYEFVX3lxTE16NFB0dG1tNjhyQ05fLTYxSUpnLU5ERVdVQjVRaDBnVWdmaERFeFQtTG5vd1lVWGEyTGw2dWkyNzZYdmtxRWZKWWVqNXFlc2JZeDVXT2FKRHdUVjZLMWZUSg?oc=5>
+- **特朗普** | 特朗普女婿库什纳称俄乌问题多边谈判将于下周举行 <https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeFhIbU9sRVVYanFsOTFQSkI4dmlVRHJhYmhHM3Utck52ZjhucDRWN2JySVBBeGNxcHZtbTQ4b0VFMVJudlVDZVhidEtOampaWEZTZFlrYWQyWmZ4SUpoRmN3RHpkRmUxcGxNQjdYU285ODVlWUEzWTdNVW5tejNPWUtlT2tYMlF6aVNV?oc=5>
+- **特朗普** | 特朗普总统要求副总统万斯将工作重点从伊朗谈判转向美国的腐败 <https://news.google.com/rss/articles/CBMixwFBVV95cUxQSEZSSkdIUFhfVE1TT3A5MTBQN2U2Q2d1MURndWxuTS1MWGVMaXFOX3lOcW8zUlFUYU9sb2htYVA5RWxBakw2akdDTE9mWUVuUEVQdE1BX01fWlRydUdSaHctWnVJdWRsT3c5SzVKaU9VcUlqSTVsdm4wWFQwcm9lZ044SnJKdnY5VC16bGNlMW1YLXlUVFFWN1ZHZUR6OW1OSXZMeU1LRmJITl8wV2cyOFNLNVYxdW9WcFh2RklaSmhpNXd5UDRF0gHKAUFVX3lxTFA0aDFOYUtpdVlObkJ5SlFyc29BWHJIZ05QaGlTS3c2dWNtb1FBZFZoQmZJYTg2Qm5ZQU1jb09FTDc5Q19OeFdGS3dScVptZXAzcGY5aXQ2RjI5SFNtaFl2c1lpUVYyTXV1a0NJMzlJTktOWlV2T0dST2FmMG5JRm9Ua2tSaDBrRXluZjQ1VWxDd2NVQ3JYTWxOMHg5WXNGTUNFcXJxbjlkZVdmek1tMzdtM2JkOE5ORUNnMXBjcllQVzRNZW9DYV9HbVE?oc=5>
+- **特朗普** | 特朗普与内塔尼亚胡被曝就伊朗问题“激烈争吵” <https://news.google.com/rss/articles/CBMieEFVX3lxTE9GVU03QWkxWEctQV9DeU9tRWRvRmVNay1rQmpWaExUNW5GMDhYMHpvVVZ2UlJON3RibVZvdVY5ZlNDV0JNTWtPMlJ0VEJSSW5TaW90Xy14cmtzZ3ByRWZ2Sk82alROU0RUdkYyMnJYWlZBUXMzcWdUMw?oc=5>
+- **特朗普** | 特朗普：美国不需要与伊朗达成协议 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE56OXk2dXk4cFBrcjBRRlZWMGFER1lZMFgxZ2JkUG1FQVh6d0doSzJrZW9NU3UtNVRsa3V3eDBOTUN1aE5kZkRLcDdGM3E?oc=5>
+- **特朗普** | 特朗普称美国不需要与伊朗达成协议 <https://news.google.com/rss/articles/CBMia0FVX3lxTE5HR0REZExJMFVzVEFxMVhqUjA3d0N0N1NZUDdHRHBDWjJ5TkI0MWQwRDk1TzFhNU9zWF9rWU5kOTFSYzRaS0ZCNVRpY29zQjk1NXhYRzAtTHdlV0xwYUVtZzFhTmhDMTdPY05B?oc=5>
+- **特朗普** | 美媒曝防长真面目？165死多是儿童，特朗普硬保还背471亿账 <https://news.google.com/rss/articles/CBMickFVX3lxTE1CaUhuWkhGY2FyTm40UGpOdGI2YWdMRG5UQndLakFHcUNvNnItZmstbHNweGloWW5HYTBNVHNXdHJ5czVPUlVzSXB0SVhCY05DQ2tkYlRDMDRha05tYk56bF9ZQ3dVSUpCVWQtWGd5Tk1oUQ?oc=5>
+- **特朗普** | 面临下台之后，内塔尼亚胡与特朗普就伊朗问题又吵了起来 <https://news.google.com/rss/articles/CBMiWEFVX3lxTFBvQWd1YS1oVDMteXdfSVhBbTd0Z1RZU0p4OHJiMXk2TWpFVF9mVHFrV0FLZUxBRDFLUjVfeTUxWldMN3N1U2xwSGlrS0N2S3FiODd5X1VfdDc?oc=5>
+- **特朗普** | 特朗普：墨西哥必须阻止移民车队，否则关税翻倍 <https://news.google.com/rss/articles/CBMickFVX3lxTFAxWkVyTzRMaTBYQkNSWFByQnR6Sk9rRTFLQ0c1S0d4YmU0ZWpaSG1LcnhBcXhPa21SREYtb0JXcW80Z1FRTk5UUEVfQktVMng2LXB6THVMU1h1Y1dMSktLOHNTM0FFS0wwUlJ1U3NUVHV1Zw?oc=5>
+- **特朗普** | 中国评论新闻网：（王志民）特朗普急需俄乌停火来重塑形象 <https://news.google.com/rss/articles/CBMiWEFVX3lxTE9peEJSZVBUQzVVODRtSmREcmR0Qi1wZ04takQ2R3AxV010WXhZN05LeU03ZnZ4NWtPVUd1MmpPRGRkY3g0WWRGSXdIRGluZUYtOW15QnVHY1I?oc=5>
+- **特朗普** | 特朗普与内塔尼亚胡被曝就伊朗问题“激烈争吵” <https://news.google.com/rss/articles/CBMieEFVX3lxTFBGLVBMVWZxNm1qY0FkandPTWNKUTdEODJlS05XWkhtRkJsSTNNalhhV2FoRXNqcXNmODFLQ2R5dFdtY2M1LTB0OE03RTVCV21naFNIc3I2RklaTWpWaTRIQlVxVjFVdGI3LU9ROFY1SUR6UXpQUVNzSA?oc=5>
+- **Trump** | Oil Prices Rebound as Trump Questions Need for Iran Deal -- 2nd Update <https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSGtlVmlLODB0al9JOXlYMXYxb3Y3V2tyRzBHLXhoanZ4Wm90QUZWWG9ZRGVtckVUR1NLX29YQlRFVkp2cUY3TEVIdTBESVBpMWpDNWdoQkl4UmNQTlpHcWZjb3J1SkxKM29oeXZYQlRiM0ZOcFVTYy1OWkdhQ1RCbVB5WVBnZlFUWmlwLVBuVUI5UG05WkE3d0o3UmtxUGJBQUNqeG5uZFc?oc=5>
+- **Trump** | 特朗普：苹果前首席执行官库克应出任英伟达新首席执行官 <https://news.google.com/rss/articles/CBMilgFBVV95cUxQa0w3U1hZenF1bElwdnFwSmFuQ0xXM2FMMWZEa1JRcUtjaTJuVHI3QUpHcjk3c0dBam5vT3BUSkV6WTNUdEp4YWFzRHRHTE1jS2NTTW5HdFNUc0ZsUlZPeE4tajlPMDVGSy1aLVhtWndHU3lScHZ3OThVREVHd3d0M0J1ek9LdU0wZ3ZVXy0xVFdmdDhsZGc?oc=5>
+- **Trump** | 卢比奥与王毅通话，提及与俄罗斯举行三方峰会的可能性 <https://news.google.com/rss/articles/CBMixwFBVV95cUxPUERvU2N1a0dQbHpWMVJBSTNpaFJHTDdvTTk3ckg4bkw0ME1sUklwWFNOUUU2SjZwSXhqdzlsbjNKd3dKNU9SR1czVktOTzlvQWtYWW9jbndUVTByOEg4aFJCNFhTMWlBQUhlT2luaWs4RVN5dHRDRXFmVFB4amJDTERoWmFvRV9YZ28ySVdMOGMyNGtYMWtRajJ5Vm9rUWxnZkZLZ1AwNWQ4VGxvOEVFVHUwSU9jSEI4ajJyWUhxZXZXeTFKMkNv0gHKAUFVX3lxTE0tWlAzUWRQYkFhX21TTDJQeEhMUlBhUTdiTU9UeXh3S25abE9ncEFwc1BZa1Nxci01clBkeEdHSzYyQ1lIR1ZBMkpOa1lMTGo4REJibFFsQXdXU3dVNm5xaGpWNjhkVDJaXzRvVHVmdFFSOXNUY1ItOXJ6Y0xDMzE5dG5kRkxOdlA4U1lIbWgtMWwta3daRWNuaWJFV19BTjIwbTEtRG8wRXRIOFVKTzN0S0U1TWhtMVNkc0Z6RUNnVXhYT1VCOF9kOVE?oc=5>
 
 ### 2026-11-12 14:27  (15 条)
 
