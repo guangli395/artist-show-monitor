@@ -1,120 +1,116 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-11-13 02:19**
-- 本轮扫到 15806 条, 新增 **13** 条
+- 最近更新: **2026-11-13 09:48**
+- 本轮扫到 15817 条, 新增 **11** 条
 
 ---
 
-## 本轮新发现 (13 条)
+## 本轮新发现 (11 条)
 
-### 特朗普政府多名高层或面临民主党调查和弹劾
+### 蔡徐坤神之29秒视频发布
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-11-13 01:45
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5yR3hKUTB4amlmeVJWSFExcExkVmtLRGtETW45TEVQX0J4OUJDMHh2OFNoNVRTT2J5MlJHNWlGQWd6ZDJXMHJQNms0UTY?oc=5>
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5767104671_m157bf089f03303n3pc.html>
 
-### 墨西哥总统回应特朗普关税威胁：没有移民队伍抵达美墨边境
+### 特朗普曾敦促黄仁勋为保住英伟达CEO职位而战
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 央视网
-- 时间: 2026-11-12 23:25
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9JaTFUMWNhM0RQdGlxQUpoZHNHVFg4SmttSm1wbkhNR0Y2STVlenUwRHJfOFhHMDUybnNvMnZJa0QweTFHdUF3ejNyb2pnSHRqVHFHTk5LYWV5NDJ1OUp1Mk0tUlJ3aktPSUtsMWNjUlFiYThYcmhxbw?oc=5>
+- 场馆: 纽约时报中文网
+- 时间: 2026-11-13 03:24
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE1CWFlWanN0UkVFOGN5NFhJQXduSEQ0UUptLVgxM2l0WUZEbUp6ZVZMNGMwVWxrd0h6b25BVjBfanhjTjl2clc1Y2ctdlAwbW9fNlNXU0JCM1hBUjZkc3ZrcXpkakN3U0d0bG80LTI1QQ?oc=5>
 
-### 三方谈判结束，特朗普女婿潇洒走人，美将汇报结果，消息递给普京
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-11-13 01:01
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE12dUVQQTV6U2tmQTd6TkR5ZF9hSGViSmpSWFBzN1FPQmFFWndwTThsU2pQOU9SYy1vMDlILWRfWThRUm1uUm96R3ctOXh2cW9tbW1VdTlPSHotOXJVTmY2Sm9OenltMHRRUGR0OW5EMWFHdw?oc=5>
-
-### 特朗普女婿库什纳称俄乌问题多边谈判将于下周举行
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: Sohu
-- 时间: 2026-11-12 22:45
-- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxNLVpFSzY0Z3B3MWNIVFBwcGZfd0plWV9KeExBV3RmVTd0NGVLY2lDdEZRVUlIczJMTWNpb21fVjl2LThWVXF3bkhQQ2RudDRNcGk5X0FqNC1aZlFXTTRMMmhOWnBEZTgtZjB4dTBQcWtnMmo2ZGcySElQdFQxTVBBd2RUT2ZoanRROVZJ?oc=5>
-
-### 特朗普女婿调侃三方会谈为何不带欧洲 欧洲被边缘化
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华军事
-- 时间: 2026-11-13 01:32
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE8yQW9oWkE3aXlJRlNEX2NQY0VXb1BZRm5qTkF4WFN0WVVtTWI5VkRjNE1oeWhTU2lacnNEOEp4WnF6MUtfTkQ1WjNvaVBuaC1Mc2FBTVNuT3RYTms1dDlvaHlicU1ONUstekszQzlLa0Y?oc=5>
-
-### 特朗普点名苹果前CEO库克 接替黄仁勋掌英伟达
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-11-13 01:05
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE44WFQ2T3pSVW43bHVtSEpJem9MRGY0S05OVmlmZFNia1QyWUM2QU1HQmZ6bW14bmwxU3pBN3owMDcwSXowc3VqcjNGV0cta2syRUJ3Y1UtdmhNeVAtMmEtYTJ3RlZRQ0VpTGc?oc=5>
-
-### 拜登称满意中期选举结果，评价特朗普亲笔信措辞得体
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-11-13 01:17
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFAwNXlNT2RvNmktOE4xcFdUcm91ZXZ3Z3Z2NFA0bm5fWkFHYUVoRFlGWEd6QjBUUHljSXgzd25fZF81YnJUMmNDRXEzaXhacTlqMWI3SjE5YkpnN2VQalJDOHN1UTdOa2FtbktsSjBBbHo?oc=5>
-
-### 黄仁勋辞职特朗普发声：太可怕了！上个月刚亲自颁发国家科学奖章
+### 黄仁勋辞职前主动致电特朗普！最愧疚妻儿 还痛骂自己是“混蛋”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 驱动之家
-- 时间: 2026-11-13 02:02
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTFBnbWVTNTVWNUlxMUdWUVY4LTBVWTF6dEViVVlRT2szNl8xWm5GTnRlam91SkI2MG1zTFhyWEJmOWtnR3MtZmV3T0d4Ynp1Rmwxb3RyZjNGQ1g?oc=5>
+- 时间: 2026-11-13 04:00
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE81d1lDbkxRMmtzeVR5Mk9jcjNyUkRSU3I0T0ZwY0JYYm9aRkh4SFl1a09OVzdpUHpER2FUV1BfUU1iUTVpN0RBaE9adGplS2NfcnFTd21rb1o?oc=5>
 
-### 特朗普改口：美国不需要与伊朗达成协议
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中国新闻网
-- 时间: 2026-11-12 22:52
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KSGt2VlN1Y0ktRDJVRjdnWlhlb0wzaFVXQ2ZsZlBFeDZ1QVEtSzhaNTI5R0pjaG9lYWdnWEdGWXc2RHZuMjBTb1lwRHNXN3ljLW1IOGJ5NktKZTR6WE9OWkt4VU1nRTJw?oc=5>
-
-### 特朗普称美国不需要与伊朗达成协议 国际油价大幅拉升 现货黄金失守3900美元关口
+### “特朗普几乎每晚打电话：钱凑够了吗？”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 东方财富
-- 时间: 2026-11-12 16:03
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzVDJldzhDV3VUc2VSQ1prYmtFRmlRTFkzUUhELWpmVUdPTnhoTndVSlNmLXRscFgyM19NSlNuaUQ1dUpXaVFVajFEX1VrNzgydFU0T0hxb2JhVWcxemNfeQ?oc=5>
+- 场馆: 观察者网
+- 时间: 2026-11-13 09:42
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFBiM2l0VnZmX2NiOE9wQ3JyOV9zbW1LVko2V2p2VmRkMXVIVU5mZW9lbEZLQ21zMEV1aFREWC12a3FCa0c4aE1RWXZMZ25PLThZZHJkUURKVDdWQ2RxOE1Jdk1LbUhkSUphLTBzMTNLcHkzSmc?oc=5>
 
-### 特朗普幕僚将英伟达风波归咎于卢特尼克
+### “散发着潜在腐败气息”，特朗普的“黑暗公主”成民主党调查目标
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: ThePaper.cn
+- 时间: 2026-11-13 06:17
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TTDg4UVZ4WnFBNTNNWk9pRnJ2QnVzYnNvdnFSWGpObE95cExiZkpBdFVJWEdfa0NuSjExMVYzdWdnR2RFZUlYeTJ5R0J5aWhhQU5rRE1tUHQ3VXp3UTkzMg?oc=5>
+
+### 中美俄要在深圳重演“雅尔塔模式”？分析指三方诉求差异巨大
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: DW.com
+- 时间: 2026-11-12 12:30
+- 链接: <https://news.google.com/rss/articles/CBMilwJBVV95cUxOc1VJZG14NzJqZ0R2VUM4dzVMMHRURU5VTW0xVEwwQ3BWRXFzOWdkSTQ4Y19RTWpSWGVwZ2t6LVVHZm1QRGg4eFozRm00OVFGYUdmNVlDUkJJSjdKeHYtSmZRbHJxTWhVa2dNQ29nRUhhVVFpU1paTzRnTkx2VVMxSHNiVTdHclo5TG1WdXFfR3FZZjRYVW83dVJMaGpFRHE3OXpMcEU3SzhIYjJRV05KbDdrcnNpV2RobTdSb2tjYmlSLXM2U19HMDdQNVRTc2Y0cXpWLVpnRVVrLU1nNnNMai1NbHloclBuRV8xRHRPc2Ffa3BQbkhKbVE3S2J4NHliM3k0UFktaFphZ0xuT1hFeWhmbGtpMnfSAZcCQVVfeXFMTi1mcGdoV3V3UllPNWZIVXBFZDJocm1fSVlnLWs0LWo3S1VrbmFlLTVNN2pzTmpTZ1VtRDBKN1FpMFF0d2RHN1pRVzhQUUpsWDdzWWRIcUd4OGtsWTNHQmRzZ01kUWZ0d3N0dlZoZjlWTW1vMjJOeU1JWkZJSk1iN1FYZ0JEcW9Jb2UzSll0cFhBeExDanY1RGM5eEVBa3RMbEhIOWMwVUQwOUtoeEgxRU1OeEFBZ3BxM0wxbWdOS2hiLTNUUlJRT1VmSTRCWUkxR3hVWkgyTXVjY2VqbHRsN0dvRFJONXdGNjFyVjFHQ2xJNGpUSWlvYmpnSW9PMkI0Y0tMVFVuZGtmeWh0MWZnSi11cVphYW84?oc=5>
+
+### 特朗普感觉习近平对黎智英怀敌意 料难争取释放
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-11-13 08:17
+- 链接: <https://news.google.com/rss/articles/CBMi6AJBVV95cUxOU1dJYVA2a3ZSdlZiakVKZUpYX3k4bm9SS1gxY09WcHBtYm94UmxKY3pvc291X2lhdGxycW4xSlZwalhueUota2RWcTVtWlVOLVdxOUd3S0tIbmhCWFBvM1VESmtPM05wZGx1TWtRQ1BQZFBPZUc5cFVBMWZzTjh1cnR5a2JZMFRER2VBSUVsLVZjZXo4YkhPcVU2RE9kMHl3aEI2ZnpBZElENFBYTlNtblRaOWYzN29OYklWSjZ0N1N6dThQSW9yd3o1Zy1sRnkySjhmR2sxQ1NHYlhoNDNTMVZhT3lHYV9WTmZNc0l2NkMxTUlKTjF0cS1rU2dBZjZnMDNoWk9GaG1tZ190LVk1Sk16bG1nWjg2c1RLUlJWYjZiWC1jVzNNbVlWQmFULUY5WmdqY3NtUjFnbzNjY3VUdEFqZlBYS0Nxbk5Sd1lMWDE4dXlKal9HOWhIU2FGVllNUWUxbnNrYnk?oc=5>
+
+### 特朗普称无需与伊朗达成协议 要求万斯聚焦国内问题
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-11-12 19:55
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBJQUE3X1ViWmk3Q2JBNlpweVBwbVN0Xzd3bTdvU3FqX25CXzBEVEtlb2UyaW1ESDVVWm5lY3Bod1RKYXNrc1V2S1JkYU1BNlpjYURJcjNOdHppSzN4WFlwcEJsR3BEUEtsbUZTaTVZdFNuYlNmcjVXT0puY1BQc1k?oc=5>
+
+### 巴克莱：做好美伊“不战不和”僵局持续到特朗普任期结束的准备
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街见闻
+- 时间: 2026-11-13 03:45
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBMS1dCaHhUYWZTNFdYbl9Mc3p2dlhaWUl1UW1NOC1KYldhLUx5QmFSN2pDcHZjY0NQaGFnSXZ1Nks2THZZNFpwdjRxakRfOTRzdGpz?oc=5>
+
+### 叫停万斯与伊朗谈判，特朗普“180度转变”：转向“不战不谈”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街见闻
+- 时间: 2026-11-13 00:40
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVaWcyY09aVmhRcEtXdEpabUdjR001VjNWb2ZHTXJzR2h6bTdyMDR3dHFLNkIzZzkxdXo4OUE2S3phN0ZCVmJLQ1pGYlZVbzRWMkNV?oc=5>
+
+### 黄仁勋同意出席国会闭门简报会特朗普称黄“正在经历地狱” – 普通话主页
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-11-13 00:33
-- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZjJZM2NMR2dNVHoyOWJfeW8zZnJJeTdfNF9lTjlQOF9PY3g0RGJ6dEJ1dDc4TVhFd0VXUS0taUxQQTlyQmhsdlNYb29pczc4ck9ldFVwZjZjdWNRdUxMeEMyMk0tdWNuYUp0SFJIaWxyNWZwc09HSWRHNTdFVjdXOFNmMGgxaGtiYjJCcEJqNWJoRk5UUlh4NHlXVmIydy11cllEY3N0OWtMZw?oc=5>
-
-### 特朗普对伊立场转向，要求万斯关注美国犯罪问题
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-11-12 23:43
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxQMWlxd1dJZk9VdWJPaDZ4RlBBWjVuVEFWQjdjOWlFYi1JalJ3bE8zUWk3WGZJVU00NVJ1ZWNPdTZwdWljbzZaTzg3Qi1xNGlfTjRFR000NmdxcVRMY25JT2FfNGJKTjhYMGRqR1ZzSkNCRnVKcm4zc0w5YndJNDgwT0hfV05fV3k0OXlFNw?oc=5>
-
-### 日本政府正设法安排 高市早苗亚细安会议期间会晤特朗普
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-11-13 00:30
-- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxNb1RxYWdNMXl6ZzJVaVJxXzdvVS1YZGI0VnQtVDJrMVNmZzY1NUt6dll2OUNRdWVxdDhHVzRDbnpZTlpPVkxkbkxLeGRyRlMwbjBZV0pHelBBZzRLYThIaHFDTHIzcDZNdEdUbnc0LXlUNWszWHdZc1I0NjB4Q1lzZ3JTMXdfTVBxWGNUQjA5bw?oc=5>
+- 场馆: Radio Free Asia
+- 时间: 2026-11-13 06:28
+- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxQOUlKMUZrNzNMZ0U2OWlLYnQyZkM0TGcyYjdnT0pOMWUweDJZLVMwUWF3UF9ZbjRtdFJJVzhEZW1RUVRycThERGQ4ZE1UaEtnd1VNN2hiYThyRm45LXZKaGJ5bnk0dXZVT1VlZlFTVmFmLUV5V1NjSldZY1NaYk43NHk2NERRSFhBQTZUbDh6YW1LYUZySTlTeEFjcVA?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-11-13 09:48  (11 条)
+
+- **蔡徐坤** | 蔡徐坤神之29秒视频发布 <https://k.sina.com.cn/article_5767104671_m157bf089f03303n3pc.html>
+- **特朗普** | 特朗普曾敦促黄仁勋为保住英伟达CEO职位而战 <https://news.google.com/rss/articles/CBMib0FVX3lxTE1CWFlWanN0UkVFOGN5NFhJQXduSEQ0UUptLVgxM2l0WUZEbUp6ZVZMNGMwVWxrd0h6b25BVjBfanhjTjl2clc1Y2ctdlAwbW9fNlNXU0JCM1hBUjZkc3ZrcXpkakN3U0d0bG80LTI1QQ?oc=5>
+- **特朗普** | 黄仁勋辞职前主动致电特朗普！最愧疚妻儿 还痛骂自己是“混蛋” <https://news.google.com/rss/articles/CBMiWEFVX3lxTE81d1lDbkxRMmtzeVR5Mk9jcjNyUkRSU3I0T0ZwY0JYYm9aRkh4SFl1a09OVzdpUHpER2FUV1BfUU1iUTVpN0RBaE9adGplS2NfcnFTd21rb1o?oc=5>
+- **特朗普** | “特朗普几乎每晚打电话：钱凑够了吗？” <https://news.google.com/rss/articles/CBMic0FVX3lxTFBiM2l0VnZmX2NiOE9wQ3JyOV9zbW1LVko2V2p2VmRkMXVIVU5mZW9lbEZLQ21zMEV1aFREWC12a3FCa0c4aE1RWXZMZ25PLThZZHJkUURKVDdWQ2RxOE1Jdk1LbUhkSUphLTBzMTNLcHkzSmc?oc=5>
+- **特朗普** | “散发着潜在腐败气息”，特朗普的“黑暗公主”成民主党调查目标 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TTDg4UVZ4WnFBNTNNWk9pRnJ2QnVzYnNvdnFSWGpObE95cExiZkpBdFVJWEdfa0NuSjExMVYzdWdnR2RFZUlYeTJ5R0J5aWhhQU5rRE1tUHQ3VXp3UTkzMg?oc=5>
+- **特朗普** | 中美俄要在深圳重演“雅尔塔模式”？分析指三方诉求差异巨大 <https://news.google.com/rss/articles/CBMilwJBVV95cUxOc1VJZG14NzJqZ0R2VUM4dzVMMHRURU5VTW0xVEwwQ3BWRXFzOWdkSTQ4Y19RTWpSWGVwZ2t6LVVHZm1QRGg4eFozRm00OVFGYUdmNVlDUkJJSjdKeHYtSmZRbHJxTWhVa2dNQ29nRUhhVVFpU1paTzRnTkx2VVMxSHNiVTdHclo5TG1WdXFfR3FZZjRYVW83dVJMaGpFRHE3OXpMcEU3SzhIYjJRV05KbDdrcnNpV2RobTdSb2tjYmlSLXM2U19HMDdQNVRTc2Y0cXpWLVpnRVVrLU1nNnNMai1NbHloclBuRV8xRHRPc2Ffa3BQbkhKbVE3S2J4NHliM3k0UFktaFphZ0xuT1hFeWhmbGtpMnfSAZcCQVVfeXFMTi1mcGdoV3V3UllPNWZIVXBFZDJocm1fSVlnLWs0LWo3S1VrbmFlLTVNN2pzTmpTZ1VtRDBKN1FpMFF0d2RHN1pRVzhQUUpsWDdzWWRIcUd4OGtsWTNHQmRzZ01kUWZ0d3N0dlZoZjlWTW1vMjJOeU1JWkZJSk1iN1FYZ0JEcW9Jb2UzSll0cFhBeExDanY1RGM5eEVBa3RMbEhIOWMwVUQwOUtoeEgxRU1OeEFBZ3BxM0wxbWdOS2hiLTNUUlJRT1VmSTRCWUkxR3hVWkgyTXVjY2VqbHRsN0dvRFJONXdGNjFyVjFHQ2xJNGpUSWlvYmpnSW9PMkI0Y0tMVFVuZGtmeWh0MWZnSi11cVphYW84?oc=5>
+- **特朗普** | 特朗普感觉习近平对黎智英怀敌意 料难争取释放 <https://news.google.com/rss/articles/CBMi6AJBVV95cUxOU1dJYVA2a3ZSdlZiakVKZUpYX3k4bm9SS1gxY09WcHBtYm94UmxKY3pvc291X2lhdGxycW4xSlZwalhueUota2RWcTVtWlVOLVdxOUd3S0tIbmhCWFBvM1VESmtPM05wZGx1TWtRQ1BQZFBPZUc5cFVBMWZzTjh1cnR5a2JZMFRER2VBSUVsLVZjZXo4YkhPcVU2RE9kMHl3aEI2ZnpBZElENFBYTlNtblRaOWYzN29OYklWSjZ0N1N6dThQSW9yd3o1Zy1sRnkySjhmR2sxQ1NHYlhoNDNTMVZhT3lHYV9WTmZNc0l2NkMxTUlKTjF0cS1rU2dBZjZnMDNoWk9GaG1tZ190LVk1Sk16bG1nWjg2c1RLUlJWYjZiWC1jVzNNbVlWQmFULUY5WmdqY3NtUjFnbzNjY3VUdEFqZlBYS0Nxbk5Sd1lMWDE4dXlKal9HOWhIU2FGVllNUWUxbnNrYnk?oc=5>
+- **特朗普** | 特朗普称无需与伊朗达成协议 要求万斯聚焦国内问题 <https://news.google.com/rss/articles/CBMif0FVX3lxTFBJQUE3X1ViWmk3Q2JBNlpweVBwbVN0Xzd3bTdvU3FqX25CXzBEVEtlb2UyaW1ESDVVWm5lY3Bod1RKYXNrc1V2S1JkYU1BNlpjYURJcjNOdHppSzN4WFlwcEJsR3BEUEtsbUZTaTVZdFNuYlNmcjVXT0puY1BQc1k?oc=5>
+- **特朗普** | 巴克莱：做好美伊“不战不和”僵局持续到特朗普任期结束的准备 <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBMS1dCaHhUYWZTNFdYbl9Mc3p2dlhaWUl1UW1NOC1KYldhLUx5QmFSN2pDcHZjY0NQaGFnSXZ1Nks2THZZNFpwdjRxakRfOTRzdGpz?oc=5>
+- **特朗普** | 叫停万斯与伊朗谈判，特朗普“180度转变”：转向“不战不谈” <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVaWcyY09aVmhRcEtXdEpabUdjR001VjNWb2ZHTXJzR2h6bTdyMDR3dHFLNkIzZzkxdXo4OUE2S3phN0ZCVmJLQ1pGYlZVbzRWMkNV?oc=5>
+- **Trump** | 黄仁勋同意出席国会闭门简报会特朗普称黄“正在经历地狱” – 普通话主页 <https://news.google.com/rss/articles/CBMinAFBVV95cUxQOUlKMUZrNzNMZ0U2OWlLYnQyZkM0TGcyYjdnT0pOMWUweDJZLVMwUWF3UF9ZbjRtdFJJVzhEZW1RUVRycThERGQ4ZE1UaEtnd1VNN2hiYThyRm45LXZKaGJ5bnk0dXZVT1VlZlFTVmFmLUV5V1NjSldZY1NaYk43NHk2NERRSFhBQTZUbDh6YW1LYUZySTlTeEFjcVA?oc=5>
 
 ### 2026-11-13 02:19  (13 条)
 
