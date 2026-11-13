@@ -1,136 +1,136 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-11-12 21:31**
-- 本轮扫到 15793 条, 新增 **15** 条
+- 最近更新: **2026-11-13 02:19**
+- 本轮扫到 15806 条, 新增 **13** 条
 
 ---
 
-## 本轮新发现 (15 条)
+## 本轮新发现 (13 条)
+
+### 特朗普政府多名高层或面临民主党调查和弹劾
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-11-13 01:45
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5yR3hKUTB4amlmeVJWSFExcExkVmtLRGtETW45TEVQX0J4OUJDMHh2OFNoNVRTT2J5MlJHNWlGQWd6ZDJXMHJQNms0UTY?oc=5>
 
 ### 墨西哥总统回应特朗普关税威胁：没有移民队伍抵达美墨边境
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Sohu
-- 时间: 2026-11-12 20:24
-- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdjRVc1Y2bFN2WjdyaVlBRkJMbnNDQXU5S0RGd2hyajV0cDVkQ0NmSUxwS2hTU0daaVpla3NMYThiWkJRRUgweVh6R2F0UE9EZzVScUxvdkpnZ1ZsZ1l1NFEyRDF5NkFVVml2OGhoeWtVblhsQVNfeXFuRWllbTVJNDA4WWg3alB4amkw?oc=5>
+- 场馆: 央视网
+- 时间: 2026-11-12 23:25
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9JaTFUMWNhM0RQdGlxQUpoZHNHVFg4SmttSm1wbkhNR0Y2STVlenUwRHJfOFhHMDUybnNvMnZJa0QweTFHdUF3ejNyb2pnSHRqVHFHTk5LYWV5NDJ1OUp1Mk0tUlJ3aktPSUtsMWNjUlFiYThYcmhxbw?oc=5>
 
-### 特朗普连续发帖痛斥民主党“腐败”
+### 三方谈判结束，特朗普女婿潇洒走人，美将汇报结果，消息递给普京
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: ThePaper.cn
-- 时间: 2026-11-12 19:35
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE16NFB0dG1tNjhyQ05fLTYxSUpnLU5ERVdVQjVRaDBnVWdmaERFeFQtTG5vd1lVWGEyTGw2dWkyNzZYdmtxRWZKWWVqNXFlc2JZeDVXT2FKRHdUVjZLMWZUSg?oc=5>
+- 场馆: 手机新浪网
+- 时间: 2026-11-13 01:01
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE12dUVQQTV6U2tmQTd6TkR5ZF9hSGViSmpSWFBzN1FPQmFFWndwTThsU2pQOU9SYy1vMDlILWRfWThRUm1uUm96R3ctOXh2cW9tbW1VdTlPSHotOXJVTmY2Sm9OenltMHRRUGR0OW5EMWFHdw?oc=5>
 
 ### 特朗普女婿库什纳称俄乌问题多边谈判将于下周举行
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: Sohu
-- 时间: 2026-11-12 20:10
-- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeFhIbU9sRVVYanFsOTFQSkI4dmlVRHJhYmhHM3Utck52ZjhucDRWN2JySVBBeGNxcHZtbTQ4b0VFMVJudlVDZVhidEtOampaWEZTZFlrYWQyWmZ4SUpoRmN3RHpkRmUxcGxNQjdYU285ODVlWUEzWTdNVW5tejNPWUtlT2tYMlF6aVNV?oc=5>
+- 时间: 2026-11-12 22:45
+- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxNLVpFSzY0Z3B3MWNIVFBwcGZfd0plWV9KeExBV3RmVTd0NGVLY2lDdEZRVUlIczJMTWNpb21fVjl2LThWVXF3bkhQQ2RudDRNcGk5X0FqNC1aZlFXTTRMMmhOWnBEZTgtZjB4dTBQcWtnMmo2ZGcySElQdFQxTVBBd2RUT2ZoanRROVZJ?oc=5>
 
-### 特朗普总统要求副总统万斯将工作重点从伊朗谈判转向美国的腐败
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-11-12 17:20
-- 链接: <https://news.google.com/rss/articles/CBMixwFBVV95cUxQSEZSSkdIUFhfVE1TT3A5MTBQN2U2Q2d1MURndWxuTS1MWGVMaXFOX3lOcW8zUlFUYU9sb2htYVA5RWxBakw2akdDTE9mWUVuUEVQdE1BX01fWlRydUdSaHctWnVJdWRsT3c5SzVKaU9VcUlqSTVsdm4wWFQwcm9lZ044SnJKdnY5VC16bGNlMW1YLXlUVFFWN1ZHZUR6OW1OSXZMeU1LRmJITl8wV2cyOFNLNVYxdW9WcFh2RklaSmhpNXd5UDRF0gHKAUFVX3lxTFA0aDFOYUtpdVlObkJ5SlFyc29BWHJIZ05QaGlTS3c2dWNtb1FBZFZoQmZJYTg2Qm5ZQU1jb09FTDc5Q19OeFdGS3dScVptZXAzcGY5aXQ2RjI5SFNtaFl2c1lpUVYyTXV1a0NJMzlJTktOWlV2T0dST2FmMG5JRm9Ua2tSaDBrRXluZjQ1VWxDd2NVQ3JYTWxOMHg5WXNGTUNFcXJxbjlkZVdmek1tMzdtM2JkOE5ORUNnMXBjcllQVzRNZW9DYV9HbVE?oc=5>
-
-### 特朗普与内塔尼亚胡被曝就伊朗问题“激烈争吵”
+### 特朗普女婿调侃三方会谈为何不带欧洲 欧洲被边缘化
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经_金融信息服务商
-- 时间: 2026-11-12 18:17
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9GVU03QWkxWEctQV9DeU9tRWRvRmVNay1rQmpWaExUNW5GMDhYMHpvVVZ2UlJON3RibVZvdVY5ZlNDV0JNTWtPMlJ0VEJSSW5TaW90Xy14cmtzZ3ByRWZ2Sk82alROU0RUdkYyMnJYWlZBUXMzcWdUMw?oc=5>
+- 场馆: 中华军事
+- 时间: 2026-11-13 01:32
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE8yQW9oWkE3aXlJRlNEX2NQY0VXb1BZRm5qTkF4WFN0WVVtTWI5VkRjNE1oeWhTU2lacnNEOEp4WnF6MUtfTkQ1WjNvaVBuaC1Mc2FBTVNuT3RYTms1dDlvaHlicU1ONUstekszQzlLa0Y?oc=5>
 
-### 特朗普：美国不需要与伊朗达成协议
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-11-12 13:12
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE56OXk2dXk4cFBrcjBRRlZWMGFER1lZMFgxZ2JkUG1FQVh6d0doSzJrZW9NU3UtNVRsa3V3eDBOTUN1aE5kZkRLcDdGM3E?oc=5>
-
-### 特朗普称美国不需要与伊朗达成协议
+### 特朗普点名苹果前CEO库克 接替黄仁勋掌英伟达
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中国网新闻中心
-- 时间: 2026-11-12 16:50
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE5HR0REZExJMFVzVEFxMVhqUjA3d0N0N1NZUDdHRHBDWjJ5TkI0MWQwRDk1TzFhNU9zWF9rWU5kOTFSYzRaS0ZCNVRpY29zQjk1NXhYRzAtTHdlV0xwYUVtZzFhTmhDMTdPY05B?oc=5>
+- 场馆: 联合早报
+- 时间: 2026-11-13 01:05
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE44WFQ2T3pSVW43bHVtSEpJem9MRGY0S05OVmlmZFNia1QyWUM2QU1HQmZ6bW14bmwxU3pBN3owMDcwSXowc3VqcjNGV0cta2syRUJ3Y1UtdmhNeVAtMmEtYTJ3RlZRQ0VpTGc?oc=5>
 
-### 美媒曝防长真面目？165死多是儿童，特朗普硬保还背471亿账
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-11-12 19:01
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE1CaUhuWkhGY2FyTm40UGpOdGI2YWdMRG5UQndLakFHcUNvNnItZmstbHNweGloWW5HYTBNVHNXdHJ5czVPUlVzSXB0SVhCY05DQ2tkYlRDMDRha05tYk56bF9ZQ3dVSUpCVWQtWGd5Tk1oUQ?oc=5>
-
-### 面临下台之后，内塔尼亚胡与特朗普就伊朗问题又吵了起来
+### 拜登称满意中期选举结果，评价特朗普亲笔信措辞得体
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Jiemian.com
-- 时间: 2026-11-12 15:04
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTFBvQWd1YS1oVDMteXdfSVhBbTd0Z1RZU0p4OHJiMXk2TWpFVF9mVHFrV0FLZUxBRDFLUjVfeTUxWldMN3N1U2xwSGlrS0N2S3FiODd5X1VfdDc?oc=5>
+- 场馆: 中华网
+- 时间: 2026-11-13 01:17
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFAwNXlNT2RvNmktOE4xcFdUcm91ZXZ3Z3Z2NFA0bm5fWkFHYUVoRFlGWEd6QjBUUHljSXgzd25fZF81YnJUMmNDRXEzaXhacTlqMWI3SjE5YkpnN2VQalJDOHN1UTdOa2FtbktsSjBBbHo?oc=5>
 
-### 特朗普：墨西哥必须阻止移民车队，否则关税翻倍
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 京报网
-- 时间: 2026-11-12 12:59
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFAxWkVyTzRMaTBYQkNSWFByQnR6Sk9rRTFLQ0c1S0d4YmU0ZWpaSG1LcnhBcXhPa21SREYtb0JXcW80Z1FRTk5UUEVfQktVMng2LXB6THVMU1h1Y1dMSktLOHNTM0FFS0wwUlJ1U3NUVHV1Zw?oc=5>
-
-### 中国评论新闻网：（王志民）特朗普急需俄乌停火来重塑形象
+### 黄仁勋辞职特朗普发声：太可怕了！上个月刚亲自颁发国家科学奖章
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 对外经济贸易大学新闻网
-- 时间: 2026-11-12 10:26
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE9peEJSZVBUQzVVODRtSmREcmR0Qi1wZ04takQ2R3AxV010WXhZN05LeU03ZnZ4NWtPVUd1MmpPRGRkY3g0WWRGSXdIRGluZUYtOW15QnVHY1I?oc=5>
+- 场馆: 驱动之家
+- 时间: 2026-11-13 02:02
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTFBnbWVTNTVWNUlxMUdWUVY4LTBVWTF6dEViVVlRT2szNl8xWm5GTnRlam91SkI2MG1zTFhyWEJmOWtnR3MtZmV3T0d4Ynp1Rmwxb3RyZjNGQ1g?oc=5>
 
-### 特朗普与内塔尼亚胡被曝就伊朗问题“激烈争吵”
+### 特朗普改口：美国不需要与伊朗达成协议
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 央视网
-- 时间: 2026-11-12 10:52
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBGLVBMVWZxNm1qY0FkandPTWNKUTdEODJlS05XWkhtRkJsSTNNalhhV2FoRXNqcXNmODFLQ2R5dFdtY2M1LTB0OE03RTVCV21naFNIc3I2RklaTWpWaTRIQlVxVjFVdGI3LU9ROFY1SUR6UXpQUVNzSA?oc=5>
+- 场馆: 中国新闻网
+- 时间: 2026-11-12 22:52
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KSGt2VlN1Y0ktRDJVRjdnWlhlb0wzaFVXQ2ZsZlBFeDZ1QVEtSzhaNTI5R0pjaG9lYWdnWEdGWXc2RHZuMjBTb1lwRHNXN3ljLW1IOGJ5NktKZTR6WE9OWkt4VU1nRTJw?oc=5>
 
-### Oil Prices Rebound as Trump Questions Need for Iran Deal -- 2nd Update
+### 特朗普称美国不需要与伊朗达成协议 国际油价大幅拉升 现货黄金失守3900美元关口
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 东方财富
+- 时间: 2026-11-12 16:03
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzVDJldzhDV3VUc2VSQ1prYmtFRmlRTFkzUUhELWpmVUdPTnhoTndVSlNmLXRscFgyM19NSlNuaUQ1dUpXaVFVajFEX1VrNzgydFU0T0hxb2JhVWcxemNfeQ?oc=5>
+
+### 特朗普幕僚将英伟达风波归咎于卢特尼克
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-11-12 20:55
-- 链接: <https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSGtlVmlLODB0al9JOXlYMXYxb3Y3V2tyRzBHLXhoanZ4Wm90QUZWWG9ZRGVtckVUR1NLX29YQlRFVkp2cUY3TEVIdTBESVBpMWpDNWdoQkl4UmNQTlpHcWZjb3J1SkxKM29oeXZYQlRiM0ZOcFVTYy1OWkdhQ1RCbVB5WVBnZlFUWmlwLVBuVUI5UG05WkE3d0o3UmtxUGJBQUNqeG5uZFc?oc=5>
+- 场馆: 华尔街日报中文网
+- 时间: 2026-11-13 00:33
+- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZjJZM2NMR2dNVHoyOWJfeW8zZnJJeTdfNF9lTjlQOF9PY3g0RGJ6dEJ1dDc4TVhFd0VXUS0taUxQQTlyQmhsdlNYb29pczc4ck9ldFVwZjZjdWNRdUxMeEMyMk0tdWNuYUp0SFJIaWxyNWZwc09HSWRHNTdFVjdXOFNmMGgxaGtiYjJCcEJqNWJoRk5UUlh4NHlXVmIydy11cllEY3N0OWtMZw?oc=5>
 
-### 特朗普：苹果前首席执行官库克应出任英伟达新首席执行官
+### 特朗普对伊立场转向，要求万斯关注美国犯罪问题
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-11-12 23:43
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxQMWlxd1dJZk9VdWJPaDZ4RlBBWjVuVEFWQjdjOWlFYi1JalJ3bE8zUWk3WGZJVU00NVJ1ZWNPdTZwdWljbzZaTzg3Qi1xNGlfTjRFR000NmdxcVRMY25JT2FfNGJKTjhYMGRqR1ZzSkNCRnVKcm4zc0w5YndJNDgwT0hfV05fV3k0OXlFNw?oc=5>
+
+### 日本政府正设法安排 高市早苗亚细安会议期间会晤特朗普
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: 8world
-- 时间: 2026-11-12 15:46
-- 链接: <https://news.google.com/rss/articles/CBMilgFBVV95cUxQa0w3U1hZenF1bElwdnFwSmFuQ0xXM2FMMWZEa1JRcUtjaTJuVHI3QUpHcjk3c0dBam5vT3BUSkV6WTNUdEp4YWFzRHRHTE1jS2NTTW5HdFNUc0ZsUlZPeE4tajlPMDVGSy1aLVhtWndHU3lScHZ3OThVREVHd3d0M0J1ek9LdU0wZ3ZVXy0xVFdmdDhsZGc?oc=5>
-
-### 卢比奥与王毅通话，提及与俄罗斯举行三方峰会的可能性
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-11-12 16:21
-- 链接: <https://news.google.com/rss/articles/CBMixwFBVV95cUxPUERvU2N1a0dQbHpWMVJBSTNpaFJHTDdvTTk3ckg4bkw0ME1sUklwWFNOUUU2SjZwSXhqdzlsbjNKd3dKNU9SR1czVktOTzlvQWtYWW9jbndUVTByOEg4aFJCNFhTMWlBQUhlT2luaWs4RVN5dHRDRXFmVFB4amJDTERoWmFvRV9YZ28ySVdMOGMyNGtYMWtRajJ5Vm9rUWxnZkZLZ1AwNWQ4VGxvOEVFVHUwSU9jSEI4ajJyWUhxZXZXeTFKMkNv0gHKAUFVX3lxTE0tWlAzUWRQYkFhX21TTDJQeEhMUlBhUTdiTU9UeXh3S25abE9ncEFwc1BZa1Nxci01clBkeEdHSzYyQ1lIR1ZBMkpOa1lMTGo4REJibFFsQXdXU3dVNm5xaGpWNjhkVDJaXzRvVHVmdFFSOXNUY1ItOXJ6Y0xDMzE5dG5kRkxOdlA4U1lIbWgtMWwta3daRWNuaWJFV19BTjIwbTEtRG8wRXRIOFVKTzN0S0U1TWhtMVNkc0Z6RUNnVXhYT1VCOF9kOVE?oc=5>
+- 时间: 2026-11-13 00:30
+- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxNb1RxYWdNMXl6ZzJVaVJxXzdvVS1YZGI0VnQtVDJrMVNmZzY1NUt6dll2OUNRdWVxdDhHVzRDbnpZTlpPVkxkbkxLeGRyRlMwbjBZV0pHelBBZzRLYThIaHFDTHIzcDZNdEdUbnc0LXlUNWszWHdZc1I0NjB4Q1lzZ3JTMXdfTVBxWGNUQjA5bw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-11-13 02:19  (13 条)
+
+- **特朗普** | 特朗普政府多名高层或面临民主党调查和弹劾 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5yR3hKUTB4amlmeVJWSFExcExkVmtLRGtETW45TEVQX0J4OUJDMHh2OFNoNVRTT2J5MlJHNWlGQWd6ZDJXMHJQNms0UTY?oc=5>
+- **特朗普** | 墨西哥总统回应特朗普关税威胁：没有移民队伍抵达美墨边境 <https://news.google.com/rss/articles/CBMieEFVX3lxTE9JaTFUMWNhM0RQdGlxQUpoZHNHVFg4SmttSm1wbkhNR0Y2STVlenUwRHJfOFhHMDUybnNvMnZJa0QweTFHdUF3ejNyb2pnSHRqVHFHTk5LYWV5NDJ1OUp1Mk0tUlJ3aktPSUtsMWNjUlFiYThYcmhxbw?oc=5>
+- **特朗普** | 三方谈判结束，特朗普女婿潇洒走人，美将汇报结果，消息递给普京 <https://news.google.com/rss/articles/CBMickFVX3lxTE12dUVQQTV6U2tmQTd6TkR5ZF9hSGViSmpSWFBzN1FPQmFFWndwTThsU2pQOU9SYy1vMDlILWRfWThRUm1uUm96R3ctOXh2cW9tbW1VdTlPSHotOXJVTmY2Sm9OenltMHRRUGR0OW5EMWFHdw?oc=5>
+- **特朗普** | 特朗普女婿库什纳称俄乌问题多边谈判将于下周举行 <https://news.google.com/rss/articles/CBMiiwFBVV95cUxNLVpFSzY0Z3B3MWNIVFBwcGZfd0plWV9KeExBV3RmVTd0NGVLY2lDdEZRVUlIczJMTWNpb21fVjl2LThWVXF3bkhQQ2RudDRNcGk5X0FqNC1aZlFXTTRMMmhOWnBEZTgtZjB4dTBQcWtnMmo2ZGcySElQdFQxTVBBd2RUT2ZoanRROVZJ?oc=5>
+- **特朗普** | 特朗普女婿调侃三方会谈为何不带欧洲 欧洲被边缘化 <https://news.google.com/rss/articles/CBMicEFVX3lxTE8yQW9oWkE3aXlJRlNEX2NQY0VXb1BZRm5qTkF4WFN0WVVtTWI5VkRjNE1oeWhTU2lacnNEOEp4WnF6MUtfTkQ1WjNvaVBuaC1Mc2FBTVNuT3RYTms1dDlvaHlicU1ONUstekszQzlLa0Y?oc=5>
+- **特朗普** | 特朗普点名苹果前CEO库克 接替黄仁勋掌英伟达 <https://news.google.com/rss/articles/CBMiakFVX3lxTE44WFQ2T3pSVW43bHVtSEpJem9MRGY0S05OVmlmZFNia1QyWUM2QU1HQmZ6bW14bmwxU3pBN3owMDcwSXowc3VqcjNGV0cta2syRUJ3Y1UtdmhNeVAtMmEtYTJ3RlZRQ0VpTGc?oc=5>
+- **特朗普** | 拜登称满意中期选举结果，评价特朗普亲笔信措辞得体 <https://news.google.com/rss/articles/CBMicEFVX3lxTFAwNXlNT2RvNmktOE4xcFdUcm91ZXZ3Z3Z2NFA0bm5fWkFHYUVoRFlGWEd6QjBUUHljSXgzd25fZF81YnJUMmNDRXEzaXhacTlqMWI3SjE5YkpnN2VQalJDOHN1UTdOa2FtbktsSjBBbHo?oc=5>
+- **特朗普** | 黄仁勋辞职特朗普发声：太可怕了！上个月刚亲自颁发国家科学奖章 <https://news.google.com/rss/articles/CBMiWEFVX3lxTFBnbWVTNTVWNUlxMUdWUVY4LTBVWTF6dEViVVlRT2szNl8xWm5GTnRlam91SkI2MG1zTFhyWEJmOWtnR3MtZmV3T0d4Ynp1Rmwxb3RyZjNGQ1g?oc=5>
+- **特朗普** | 特朗普改口：美国不需要与伊朗达成协议 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KSGt2VlN1Y0ktRDJVRjdnWlhlb0wzaFVXQ2ZsZlBFeDZ1QVEtSzhaNTI5R0pjaG9lYWdnWEdGWXc2RHZuMjBTb1lwRHNXN3ljLW1IOGJ5NktKZTR6WE9OWkt4VU1nRTJw?oc=5>
+- **特朗普** | 特朗普称美国不需要与伊朗达成协议 国际油价大幅拉升 现货黄金失守3900美元关口 <https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzVDJldzhDV3VUc2VSQ1prYmtFRmlRTFkzUUhELWpmVUdPTnhoTndVSlNmLXRscFgyM19NSlNuaUQ1dUpXaVFVajFEX1VrNzgydFU0T0hxb2JhVWcxemNfeQ?oc=5>
+- **Trump** | 特朗普幕僚将英伟达风波归咎于卢特尼克 <https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZjJZM2NMR2dNVHoyOWJfeW8zZnJJeTdfNF9lTjlQOF9PY3g0RGJ6dEJ1dDc4TVhFd0VXUS0taUxQQTlyQmhsdlNYb29pczc4ck9ldFVwZjZjdWNRdUxMeEMyMk0tdWNuYUp0SFJIaWxyNWZwc09HSWRHNTdFVjdXOFNmMGgxaGtiYjJCcEJqNWJoRk5UUlh4NHlXVmIydy11cllEY3N0OWtMZw?oc=5>
+- **Trump** | 特朗普对伊立场转向，要求万斯关注美国犯罪问题 <https://news.google.com/rss/articles/CBMijAFBVV95cUxQMWlxd1dJZk9VdWJPaDZ4RlBBWjVuVEFWQjdjOWlFYi1JalJ3bE8zUWk3WGZJVU00NVJ1ZWNPdTZwdWljbzZaTzg3Qi1xNGlfTjRFR000NmdxcVRMY25JT2FfNGJKTjhYMGRqR1ZzSkNCRnVKcm4zc0w5YndJNDgwT0hfV05fV3k0OXlFNw?oc=5>
+- **Trump** | 日本政府正设法安排 高市早苗亚细安会议期间会晤特朗普 <https://news.google.com/rss/articles/CBMijwFBVV95cUxNb1RxYWdNMXl6ZzJVaVJxXzdvVS1YZGI0VnQtVDJrMVNmZzY1NUt6dll2OUNRdWVxdDhHVzRDbnpZTlpPVkxkbkxLeGRyRlMwbjBZV0pHelBBZzRLYThIaHFDTHIzcDZNdEdUbnc0LXlUNWszWHdZc1I0NjB4Q1lzZ3JTMXdfTVBxWGNUQjA5bw?oc=5>
 
 ### 2026-11-12 21:31  (15 条)
 
