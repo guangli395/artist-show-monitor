@@ -1,102 +1,137 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-11-13 09:48**
-- 本轮扫到 15817 条, 新增 **11** 条
+- 最近更新: **2026-11-13 17:27**
+- 本轮扫到 15831 条, 新增 **14** 条
 
 ---
 
-## 本轮新发现 (11 条)
+## 本轮新发现 (14 条)
 
-### 蔡徐坤神之29秒视频发布
+### 蔡徐坤情人像素MV上线，歌曲唱道你像丘比特赐予我的首选
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5767104671_m157bf089f03303n3pc.html>
+- 链接: <https://k.sina.com.cn/article_7785517961_m1d00d9389033019a9w.html>
 
-### 特朗普曾敦促黄仁勋为保住英伟达CEO职位而战
+### 蔡徐坤演唱会舞台设计奇妙，唱跳实力过硬获赞新生代第一人
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-11-13 03:24
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE1CWFlWanN0UkVFOGN5NFhJQXduSEQ0UUptLVgxM2l0WUZEbUp6ZVZMNGMwVWxrd0h6b25BVjBfanhjTjl2clc1Y2ctdlAwbW9fNlNXU0JCM1hBUjZkc3ZrcXpkakN3U0d0bG80LTI1QQ?oc=5>
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7811247772_m1d1962e9c03301xx04.html>
 
-### 黄仁勋辞职前主动致电特朗普！最愧疚妻儿 还痛骂自己是“混蛋”
+### 大批明星马上抵达广州，多场演唱会官宣王嘉尔、孙燕姿、周杰伦等
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 驱动之家
-- 时间: 2026-11-13 04:00
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE81d1lDbkxRMmtzeVR5Mk9jcjNyUkRSU3I0T0ZwY0JYYm9aRkh4SFl1a09OVzdpUHpER2FUV1BfUU1iUTVpN0RBaE9adGplS2NfcnFTd21rb1o?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5953466437_v162dab0450670bhsni.html>
 
-### “特朗普几乎每晚打电话：钱凑够了吗？”
+### 说好一起去看周杰伦的演唱会你为什么不等我
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-11-13 09:42
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFBiM2l0VnZmX2NiOE9wQ3JyOV9zbW1LVko2V2p2VmRkMXVIVU5mZW9lbEZLQ21zMEV1aFREWC12a3FCa0c4aE1RWXZMZ25PLThZZHJkUURKVDdWQ2RxOE1Jdk1LbUhkSUphLTBzMTNLcHkzSmc?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923551_m1d5ae175f03301uo82.html>
 
-### “散发着潜在腐败气息”，特朗普的“黑暗公主”成民主党调查目标
+### 黄仁勋辞职，特朗普“钦点”接班人：乔布斯也没他做得好
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: ThePaper.cn
-- 时间: 2026-11-13 06:17
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TTDg4UVZ4WnFBNTNNWk9pRnJ2QnVzYnNvdnFSWGpObE95cExiZkpBdFVJWEdfa0NuSjExMVYzdWdnR2RFZUlYeTJ5R0J5aWhhQU5rRE1tUHQ3VXp3UTkzMg?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-11-13 08:52
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE4zN2o3bXBid2tWQUhFZWlwMjJybVN3bjVEMmlmNjdiUnNKVFZBWkE0dVdJZUZRU3FIVDFTM25EV1NBb3U2NDFzZGxUa18?oc=5>
 
-### 中美俄要在深圳重演“雅尔塔模式”？分析指三方诉求差异巨大
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: DW.com
-- 时间: 2026-11-12 12:30
-- 链接: <https://news.google.com/rss/articles/CBMilwJBVV95cUxOc1VJZG14NzJqZ0R2VUM4dzVMMHRURU5VTW0xVEwwQ3BWRXFzOWdkSTQ4Y19RTWpSWGVwZ2t6LVVHZm1QRGg4eFozRm00OVFGYUdmNVlDUkJJSjdKeHYtSmZRbHJxTWhVa2dNQ29nRUhhVVFpU1paTzRnTkx2VVMxSHNiVTdHclo5TG1WdXFfR3FZZjRYVW83dVJMaGpFRHE3OXpMcEU3SzhIYjJRV05KbDdrcnNpV2RobTdSb2tjYmlSLXM2U19HMDdQNVRTc2Y0cXpWLVpnRVVrLU1nNnNMai1NbHloclBuRV8xRHRPc2Ffa3BQbkhKbVE3S2J4NHliM3k0UFktaFphZ0xuT1hFeWhmbGtpMnfSAZcCQVVfeXFMTi1mcGdoV3V3UllPNWZIVXBFZDJocm1fSVlnLWs0LWo3S1VrbmFlLTVNN2pzTmpTZ1VtRDBKN1FpMFF0d2RHN1pRVzhQUUpsWDdzWWRIcUd4OGtsWTNHQmRzZ01kUWZ0d3N0dlZoZjlWTW1vMjJOeU1JWkZJSk1iN1FYZ0JEcW9Jb2UzSll0cFhBeExDanY1RGM5eEVBa3RMbEhIOWMwVUQwOUtoeEgxRU1OeEFBZ3BxM0wxbWdOS2hiLTNUUlJRT1VmSTRCWUkxR3hVWkgyTXVjY2VqbHRsN0dvRFJONXdGNjFyVjFHQ2xJNGpUSWlvYmpnSW9PMkI0Y0tMVFVuZGtmeWh0MWZnSi11cVphYW84?oc=5>
-
-### 特朗普感觉习近平对黎智英怀敌意 料难争取释放
+### 特朗普称应中东盟友请求延缓对伊朗行动
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-11-13 08:17
-- 链接: <https://news.google.com/rss/articles/CBMi6AJBVV95cUxOU1dJYVA2a3ZSdlZiakVKZUpYX3k4bm9SS1gxY09WcHBtYm94UmxKY3pvc291X2lhdGxycW4xSlZwalhueUota2RWcTVtWlVOLVdxOUd3S0tIbmhCWFBvM1VESmtPM05wZGx1TWtRQ1BQZFBPZUc5cFVBMWZzTjh1cnR5a2JZMFRER2VBSUVsLVZjZXo4YkhPcVU2RE9kMHl3aEI2ZnpBZElENFBYTlNtblRaOWYzN29OYklWSjZ0N1N6dThQSW9yd3o1Zy1sRnkySjhmR2sxQ1NHYlhoNDNTMVZhT3lHYV9WTmZNc0l2NkMxTUlKTjF0cS1rU2dBZjZnMDNoWk9GaG1tZ190LVk1Sk16bG1nWjg2c1RLUlJWYjZiWC1jVzNNbVlWQmFULUY5WmdqY3NtUjFnbzNjY3VUdEFqZlBYS0Nxbk5Sd1lMWDE4dXlKal9HOWhIU2FGVllNUWUxbnNrYnk?oc=5>
+- 场馆: 新浪财经_金融信息服务商
+- 时间: 2026-11-13 17:07
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBCeThMTWRlelJiUTJMcDZkR3BaODlXSkhTc0tlcUljZGRoQXRtUWpTeEVSNWMzbkIwRWRLbXZyWWtINFJEX0R1dlhwNVpta0tkQjM4d3hQa2tKUDNRS0RMeTNXaTlrZXg2SzlqMzg4TDY4X3I4aThzdw?oc=5>
 
-### 特朗普称无需与伊朗达成协议 要求万斯聚焦国内问题
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-11-12 19:55
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFBJQUE3X1ViWmk3Q2JBNlpweVBwbVN0Xzd3bTdvU3FqX25CXzBEVEtlb2UyaW1ESDVVWm5lY3Bod1RKYXNrc1V2S1JkYU1BNlpjYURJcjNOdHppSzN4WFlwcEJsR3BEUEtsbUZTaTVZdFNuYlNmcjVXT0puY1BQc1k?oc=5>
-
-### 巴克莱：做好美伊“不战不和”僵局持续到特朗普任期结束的准备
+### “击败”特朗普后，美国民主党开始内讧了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-11-13 03:45
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBMS1dCaHhUYWZTNFdYbl9Mc3p2dlhaWUl1UW1NOC1KYldhLUx5QmFSN2pDcHZjY0NQaGFnSXZ1Nks2THZZNFpwdjRxakRfOTRzdGpz?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-11-13 10:53
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE8wYkRoRXJ5bjBXT0taOHJ6SW5zc0REM2VrTm9sdWFEVF8wZDJhSnlsWUFvalE4SE5DUGt0bHJsZTRPbHMtTGkzY204cWc?oc=5>
 
-### 叫停万斯与伊朗谈判，特朗普“180度转变”：转向“不战不谈”
+### 特朗普连续发帖痛斥民主党“腐败”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-11-13 00:40
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVaWcyY09aVmhRcEtXdEpabUdjR001VjNWb2ZHTXJzR2h6bTdyMDR3dHFLNkIzZzkxdXo4OUE2S3phN0ZCVmJLQ1pGYlZVbzRWMkNV?oc=5>
+- 场馆: 新浪财经_金融信息服务商
+- 时间: 2026-11-12 22:38
+- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE1PT0xzeXBNeU4zM1VCaFVoekVkeVdrWlBDMTRaLXF1dTlKRU9nNnVxckNldVNyckFSamM0aFRLS1lsM2duOHIyZVItSWxtQXk0S0lHcEc5UEE5QWh0RXQ0MmNEYmdZSkg1cUtDUGNMMjNaZmxRWG5ObXdFVlozQQ?oc=5>
 
-### 黄仁勋同意出席国会闭门简报会特朗普称黄“正在经历地狱” – 普通话主页
+### 特朗普女婿库什纳称俄乌问题多边谈判将于下周举行
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新京报
+- 时间: 2026-11-12 23:29
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xMV9ybmFvTDJVQW84MVFucUNmUnZhQkhGVVNZeVNEakp2SEJqVU9zTnozcHoxVGs0cWh0Y0JtaWVGVlRCQmhOeUhIc1hyOHFhc2ZER3pWZVh2VlNkQk1tV0REeTQ?oc=5>
+
+### 三方会谈结束后，美特使急着见普京一面，特朗普有4句话不便明说
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 手机新浪网
+- 时间: 2026-11-13 12:09
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE0tLXllN2J6N0xrTFhMdS1JdExfb2syeWp5VUQ0R0M5SVg4WlpXc1lZbTBjQ0U3ZFhpQjdsRjRHb3ZYQVJMMnktdHVIYXhIWHRfeXpGb0ZJLTdIZkFUd0RaWGI5b2JWbjBjaG9BZzNhTndVdw?oc=5>
+
+### 泽连斯基：我的工作不是让特朗普高兴，而是推动谈判进程
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华军事
+- 时间: 2026-11-13 06:07
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9TTVJrMndpa2ZPbnFpMGYyN2RSdGRTNjV6cS1uN1lrNWZkRnh5OWlianlIeWp3amtrcjZ4UWN0SU5xS1E3bDRCWXpiODJNWHpmcHRtU1JnNGp3OWk2Nks0ZUhNYWV6ZlBuVGZPWVB0LWw?oc=5>
+
+### 特朗普普京下周会谈 德国总理吁特朗普“不要制造意外”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-11-13 13:53
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE1mOFIxcm5lU2VTOERtVUs2bjJweUxBSV9sWnZ4YkVEdXE2d2RQT0tVSXpaSFRPclpxanZ5TWM4Ym9Pal9xcE9GcHRyMUl3dVllOWdHZzJFQTlBeUVic01BakhqcXU1ZE81LWc?oc=5>
+
+### 【今日特朗普行程】 ......_7x24快讯_新浪财经
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪网
+- 时间: 2026-11-13 12:12
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9SeXl2eEtYM2lDV3BiMHRmcDJSZzVoUzZVWHY5TlN4S2VZV1BwbTRhMDFpaGtCdXY4OVhWTFhFWWd3X0wyNnQ2cFZnTQ?oc=5>
+
+### 第524天：加息 + 特朗普2.0 第661天
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Radio Free Asia
-- 时间: 2026-11-13 06:28
-- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxQOUlKMUZrNzNMZ0U2OWlLYnQyZkM0TGcyYjdnT0pOMWUweDJZLVMwUWF3UF9ZbjRtdFJJVzhEZW1RUVRycThERGQ4ZE1UaEtnd1VNN2hiYThyRm45LXZKaGJ5bnk0dXZVT1VlZlFTVmFmLUV5V1NjSldZY1NaYk43NHk2NERRSFhBQTZUbDh6YW1LYUZySTlTeEFjcVA?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-11-13 15:51
+- 链接: <https://news.google.com/rss/articles/CBMimgFBVV95cUxQdVVmNnZuU1FNeWJDbUN4aU5ua3J1V0RxWXNkS2lWd0YtWFZQMFdLTnYxOEgzZnowY25FOVV6M0x3Rk5OYkhtOXV0UEY2eW1ZTWVvZTV2X29JQV9ZZndvZTM2RV81Y1BOdUpIMHdZaDFTcnpEbFFZdkFuUHJkTlBxR1hTeHFrNndFS3BCVXZuUERtNk1GQjhVZGhR?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-11-13 17:27  (14 条)
+
+- **蔡徐坤** | 蔡徐坤情人像素MV上线，歌曲唱道你像丘比特赐予我的首选 <https://k.sina.com.cn/article_7785517961_m1d00d9389033019a9w.html>
+- **蔡徐坤** | 蔡徐坤演唱会舞台设计奇妙，唱跳实力过硬获赞新生代第一人 <https://k.sina.com.cn/article_7811247772_m1d1962e9c03301xx04.html>
+- **周杰伦** | 大批明星马上抵达广州，多场演唱会官宣王嘉尔、孙燕姿、周杰伦等 <https://k.sina.com.cn/article_5953466437_v162dab0450670bhsni.html>
+- **周杰伦** | 说好一起去看周杰伦的演唱会你为什么不等我 <https://k.sina.com.cn/article_7879923551_m1d5ae175f03301uo82.html>
+- **特朗普** | 黄仁勋辞职，特朗普“钦点”接班人：乔布斯也没他做得好 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE4zN2o3bXBid2tWQUhFZWlwMjJybVN3bjVEMmlmNjdiUnNKVFZBWkE0dVdJZUZRU3FIVDFTM25EV1NBb3U2NDFzZGxUa18?oc=5>
+- **特朗普** | 特朗普称应中东盟友请求延缓对伊朗行动 <https://news.google.com/rss/articles/CBMieEFVX3lxTFBCeThMTWRlelJiUTJMcDZkR3BaODlXSkhTc0tlcUljZGRoQXRtUWpTeEVSNWMzbkIwRWRLbXZyWWtINFJEX0R1dlhwNVpta0tkQjM4d3hQa2tKUDNRS0RMeTNXaTlrZXg2SzlqMzg4TDY4X3I4aThzdw?oc=5>
+- **特朗普** | “击败”特朗普后，美国民主党开始内讧了 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE8wYkRoRXJ5bjBXT0taOHJ6SW5zc0REM2VrTm9sdWFEVF8wZDJhSnlsWUFvalE4SE5DUGt0bHJsZTRPbHMtTGkzY204cWc?oc=5>
+- **特朗普** | 特朗普连续发帖痛斥民主党“腐败” <https://news.google.com/rss/articles/CBMifkFVX3lxTE1PT0xzeXBNeU4zM1VCaFVoekVkeVdrWlBDMTRaLXF1dTlKRU9nNnVxckNldVNyckFSamM0aFRLS1lsM2duOHIyZVItSWxtQXk0S0lHcEc5UEE5QWh0RXQ0MmNEYmdZSkg1cUtDUGNMMjNaZmxRWG5ObXdFVlozQQ?oc=5>
+- **特朗普** | 特朗普女婿库什纳称俄乌问题多边谈判将于下周举行 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xMV9ybmFvTDJVQW84MVFucUNmUnZhQkhGVVNZeVNEakp2SEJqVU9zTnozcHoxVGs0cWh0Y0JtaWVGVlRCQmhOeUhIc1hyOHFhc2ZER3pWZVh2VlNkQk1tV0REeTQ?oc=5>
+- **特朗普** | 三方会谈结束后，美特使急着见普京一面，特朗普有4句话不便明说 <https://news.google.com/rss/articles/CBMickFVX3lxTE0tLXllN2J6N0xrTFhMdS1JdExfb2syeWp5VUQ0R0M5SVg4WlpXc1lZbTBjQ0U3ZFhpQjdsRjRHb3ZYQVJMMnktdHVIYXhIWHRfeXpGb0ZJLTdIZkFUd0RaWGI5b2JWbjBjaG9BZzNhTndVdw?oc=5>
+- **特朗普** | 泽连斯基：我的工作不是让特朗普高兴，而是推动谈判进程 <https://news.google.com/rss/articles/CBMicEFVX3lxTE9TTVJrMndpa2ZPbnFpMGYyN2RSdGRTNjV6cS1uN1lrNWZkRnh5OWlianlIeWp3amtrcjZ4UWN0SU5xS1E3bDRCWXpiODJNWHpmcHRtU1JnNGp3OWk2Nks0ZUhNYWV6ZlBuVGZPWVB0LWw?oc=5>
+- **特朗普** | 特朗普普京下周会谈 德国总理吁特朗普“不要制造意外” <https://news.google.com/rss/articles/CBMiakFVX3lxTE1mOFIxcm5lU2VTOERtVUs2bjJweUxBSV9sWnZ4YkVEdXE2d2RQT0tVSXpaSFRPclpxanZ5TWM4Ym9Pal9xcE9GcHRyMUl3dVllOWdHZzJFQTlBeUVic01BakhqcXU1ZE81LWc?oc=5>
+- **特朗普** | 【今日特朗普行程】 ......_7x24快讯_新浪财经 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9SeXl2eEtYM2lDV3BiMHRmcDJSZzVoUzZVWHY5TlN4S2VZV1BwbTRhMDFpaGtCdXY4OVhWTFhFWWd3X0wyNnQ2cFZnTQ?oc=5>
+- **Trump** | 第524天：加息 + 特朗普2.0 第661天 <https://news.google.com/rss/articles/CBMimgFBVV95cUxQdVVmNnZuU1FNeWJDbUN4aU5ua3J1V0RxWXNkS2lWd0YtWFZQMFdLTnYxOEgzZnowY25FOVV6M0x3Rk5OYkhtOXV0UEY2eW1ZTWVvZTV2X29JQV9ZZndvZTM2RV81Y1BOdUpIMHdZaDFTcnpEbFFZdkFuUHJkTlBxR1hTeHFrNndFS3BCVXZuUERtNk1GQjhVZGhR?oc=5>
 
 ### 2026-11-13 09:48  (11 条)
 
