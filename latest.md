@@ -1,96 +1,134 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-11-13 22:45**
-- 本轮扫到 15841 条, 新增 **10** 条
+- 最近更新: **2026-11-14 02:51**
+- 本轮扫到 15854 条, 新增 **13** 条
 
 ---
 
-## 本轮新发现 (10 条)
+## 本轮新发现 (13 条)
 
-### 特朗普曾提前与黄仁勋通话：保住职位！|唐纳德·特朗普|AI芯片|美国经济|英伟达|任期_手机新浪网
+### 众人合跳主题曲，蔡徐坤C位，真的太帅了丨偶像练习生
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-11-13 20:48
-- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxPUzhEcmp3V0Y5cnBHOGI2QTBqM0lzeDVfU2t6QnJFcE5MTjVKaVdBdG1ZTjl1YzUzUTNNZ0hESEdfeVF6clMxdFhDYVZVd0w0a3lDQ2tZeVN5TVdXSG9SWVhXa1pxTmxWb0FJWnV0cUxTbkNUZXZGMWZGU2dUMkhlWTd6dVBkeVhwLUE?oc=5>
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879924004_m1d5ae192403302e766.html>
 
-### 英伟达丑闻正在撕破特朗普政府表面上的团结
+### 全美航班暂停起飞，特朗普发声：这看起来不像是网络攻击或人工智能之类的，没有人出来认领
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-11-13 21:56
-- 链接: <https://news.google.com/rss/articles/CBMizwJBVV95cUxNQzFYQU1KVFl6UkpJdnV4YUxXNmhlUHNscmlWNWZzd3hLcVF5dzZoeHlBS19RUnpBdTZ0YV9fN1J3ZkpjYTFnUktaUmEtU29HU3h0U0h0c2pBZVU1ZGZ3UndSOW1sdnhVVGpxbWNfamdyNk40em9vNHVlQ2p2U2RvWDZyYmZDVi1pX3ZQRzNRUW5kNHBlNFptRVlfRnh5dkF3b0tZNk9YdmRITURvLUF6eFk0ZlVYTktTeHdMbkJGSFNHY1NPX0I2RFR5U18wcVZDTXVic3Q0TEFIenMxV05yV2lGZjRoOXAzMHc0UDA0T3RMSkluM3I1WVBoZDRuLVprQndRTmpzSmRrYXhYNXJ5QnZhdlpfUzJSUlA0eGVjczU4X0E0Z2lYNlB6d0VQWnl4bnA4akcwYUxuUWlvS0ttRl9kRHpwTlc4eDBYc1k4SQ?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-11-14 01:11
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5UVDM3cTZJUlprbndyazVKR1UtZFlGQXFsdVN1VWNQV29kclh2cURpelF6U1lubll2LS1BT0sydU1yTmMwUDRjV19wei0?oc=5>
 
-### 特朗普：中方对黎智英恨意极深 分析人士：在中共看来，如何处置黎智英关系其存亡
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-11-13 18:06
-- 链接: <https://news.google.com/rss/articles/CBMimgFBVV95cUxQRV93b0NMazFDRUsybzQybFlLd1d4Yzk4NTRheEhLSXpWV1p0OFlhYUhKaFBRXzN5MjVFYzlUMXJCbk5PRzBydzd5VHpydHNtVU5qNE5hdGd5UjQ4NE1xeXZ6WFhPaFRMTl8yUE1iVTdHNUVfQWs1cjRIMmZlT2pHUUdHQ3o1dHR5TjFZaDgyclBqbkZuWkxIZzZn0gGcAUFVX3lxTE5JZHR3M2dBUmVCVVB2M1lQV1NKemdYZllkNWxHNWVLcUxLWDdvN0tEWC1WS2pMS2hJYWdPV09KcWxucUhCeEdyX05OcEVxN3ZIenBNYVowTXhIc1FHZ3Y2M2g2TFJSLVo2bXM1azB2bHBPZG1yZnRpQ0V4Z0hXaV9kWXRqUExBV2lObmxmSExkVnNvUzFXUWxPTFY5Xw?oc=5>
-
-### 美媒披露特朗普政府多名高层面临民主党调查和弹劾
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经_金融信息服务商
-- 时间: 2026-11-13 17:48
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5LTUJEam9ZMFhIMFJfUXIzVUNmampFRWpJenVDaTl2dXlULVRHYlVGNWpMYmxmdnB5ZmxfdDBtTWFyUUhUVWRHZ3VjOTZRQ2hCLW14UE9fMl8yVFNMckc4SVA2aV9kbVJ3R1hPSUNJTXNBQnJmWFBVQw?oc=5>
-
-### 万斯，尴尬了
+### 特朗普说美空管系统故障与网络攻击无关
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: Sohu
-- 时间: 2026-11-13 14:34
-- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZl9KNnFqdHVaMWhFTzJYcVUyQVNkNnIxMXhfeENBU083VndpbXJ6RW9IdHNldmVSRGtQU3EyTHgzVWRtWF8zcXFJUU1FYk41NmlMblp5Q1BhQlFTSjljemdEbWVyc09OMDBpRmFDYWZZTHZzYUhXSnp5ZG5La0hkcGVOYlFaVEk3?oc=5>
+- 时间: 2026-11-14 02:11
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRGs4cWRVYmMzX1EtQTFpNjg1blM1Z2ptdTR3a2VGVWJjUmx6WjU5ZTFjdjdaNWJOMUpOakVEMzN1NFhwQ0ZoUVVKeVdhbzdHeUVGb09sME9OYlgycEZFdmFxalVVYnpXdVZtQk9rU0h3UTZVLUwyeUZjelhJVjd0dXZSVjZwWW5N?oc=5>
 
-### 特朗普启动表决程序：美众议员提案引发热议
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 网易新闻客户端
-- 时间: 2026-11-13 21:54
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE8wMGVSd3FYNFV4amFfeUFuSmJEMXZ6Vzc2Y1ZQNDZxZDNMdU4zUHRnVWExRlFhT1JpS0d1OUIzejBvTklEejdVUUMxT2hVTVg4RmNN?oc=5>
-
-### 一百多年来，中国最强大的对手特朗普，可能被中国人严重低估了
+### “9·11”袭击事件后第二次全美停飞，美国近7000个航班延误或取消，特朗普已听取简报
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-11-13 14:57
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE1EdEdFX3hFaC1tWW5lQzNBZ0xrSUo5MHhGRGk5MHkzclZfNUxnd2FoLVJpTlhKYmZWNUlibTBfbEl2Zi02cUlBeU1MZXlOb3R4U0p0M0UxRHc3RDJNZGdhTGVCQWltZEFIcnFvblZfdUlPUQ?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-11-14 01:56
+- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxQOFVMaFZzUWtTRXdvYmxndUk4cVpEZWdBMER5VnI5Rklhcy1KaVFLUlExMWt1Vkd5VnBKN1VoTi0zd243RllvLVdqbTdacEF0RURPWEh4V3BIWWU4NEJzbmhCaEU1dndoRXVYZlZtdzNldUNQX0R6YWRadHIzQ204clR2dw?oc=5>
 
-### 美伊谈判，新消息！特朗普发声
+### 白宫证实特朗普总统下周与习近平、普京举行三边会谈，重点讨论核不扩散
 
 - 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 21财经
-- 时间: 2026-11-13 11:27
-- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxPYTIzT1FteHdRRlBEd3NIcGQtaXdZOE1HdU5veGItMlRJbWdLU1psR3pJZU1fOWJhSl9DOFVyanVLZXJWVnpkOWwtb1poUlJYdUNYYVI0Z1JVNmFtN2JaVkhaa0FlVm1odEY0a0lBOGtrUzZiUFNZWldydXEwX3dhbk9CaGFxMFpiUnk1T3VkVQ?oc=5>
-
-### 德总理默茨喊话特朗普：下周在中国与普京会晤时“勿搞意外”
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-11-13 18:02
-- 链接: <https://news.google.com/rss/articles/CBMigANBVV95cUxNT1d4S3ByS2ZIMFoxRktoVGNBbnB1LV84dW44UTNXazIzU1NnYjhKRWlSb3RJZzBxczZxVmpWWDF2bTBWS1ptNzdMYmtka3BuMGpRcjJqUmU4a0dONFNpNzh5bnBoQnpnaDE4QTE4dEJMckQ3STZiMTQ0Ul9tclJNOVVkMk9WcHFIb3kxSW9FMUNWZ2tlZ2t5ampFeXlHck5kNWlscjFQYXBlckIyVHNCRkliQ25aaHpUa3MtQWVfLTlzX0c4N19zZWVXNWRaaVp0Q21aREVZazR0VFdQcFdoTTAxdGJFbHVGSkpDYnhPczg5dW9SNlFuektsakRKeHo1YVh2NFFJQ0o2Y1hFUzUyWGxERDBpdG1Xd05wU2JXNVNBc2RNMmVOYzFZcjZXdG0tS3drQXNRUUI1aExEdjU0WTIwbDFCQklJSWQtY2xOeHJoTlFudm05WTdQamJmYjQzR0Z6MU5aLVIzWExuVm1pdHlSa2R6aWhTYXE3VUt0YWg?oc=5>
-
-### 美中贸易理事会举行第一次正式会议
-
-- 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: 美国之音
-- 时间: 2026-11-13 21:06
-- 链接: <https://news.google.com/rss/articles/CBMingFBVV95cUxNaDJBTEVHR2h6QS1QejVLZzNpVHpLb2xkUnBQMnY2NGVDNTJldEUxdGN1R2ZNY3Q3UjEyeTN2SXpfTFFzSXpFNFktZWFLMTk2ZGZkdUYyQUd5ZHU0MkhCaklrc0hmOHhHR2h6T0JyOTVnNUNoUEZrQmRGVjJ3YXMxLXZEWnBMcEhMUlF1RHlBenZjZHNXWUNGZDY5cHF1Z9IBoAFBVV95cUxOSWZ5VnFsZnJnUl91Mk9QM2FqR0F2cExDM2dLTmE0OUFSOG5RUFMxck1PNUVhcklEM3FpT01CRHZYS2VNVTNYd3RIMGxPa1lpU0NicTdDVFc1OFdsV1JDQm5vaTBzdmV0S2otR05GTHZBT0NnMHo3MjZpS3h6WmdtNFloaXRSQWxTaWttWExNOGtCOGRTb2RjT21LUUxZbl9j?oc=5>
+- 时间: 2026-11-14 01:58
+- 链接: <https://news.google.com/rss/articles/CBMiygFBVV95cUxPS2ttOXVyN2dveGQ3RlpocmRhUDdMamZFckdRejFpYzJSODNTdnRlRzVKMEVEaUZHS19PVjVWNGc1dndaVFBPa3kwMF80Rm1OVXJ2Q2JTMHBrZzRNME1MTXFkb0o3UTloYXlON2w0WjU4eS0ybmRaN3JzTnJ0QlZYcE1tR2o4d241ZUdvbm14MXFXbXUzMk56U2FTV3dFNkpORUZJeUlkeDBvWllCNjJ4ZzZURnQ2NmtOd0pxYXYtaUN1Ui0zTG5TakZB0gHMAUFVX3lxTE1WY1Jkell5LU12OU16cnVhek1aVGtXWW9hNGZFcEh2WkhuUWxTcG5IWjRqdTU3N1ctRHA3eGJKUnJ3ZVNqTUs3Zi02TUI1ZGM2N1FaNEhDdm5MVEZiUE5EZURqelgzOVZscXJVc1p4THZNR00xODcxQkxhRWxzV05jZVJwRlBORmI2R05FZXVIQlpaMmdMN19FeXFSaGJRbEF2dy16QUEzaTBLVG9GdXJpZmpXN0RLTTZYbkhHS2lhYlVQdGFBS3VhemdkbA?oc=5>
+
+### 特朗普、习近平和普京可能于下周四在深圳会晤
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-11-13 22:42
+- 链接: <https://news.google.com/rss/articles/CBMi0AJBVV95cUxNT0tqcTY4V1NoWS1nWXczZDctZHRjcGJIQ0ZTLU9mNk1uNmxiRS1GaFhtMnNzLXpTdUNlWGxDTUxpak5JQ1VSNHpfOC01VnlFNVdhUS10eDRLUjlGLXNscGFRMVg1ZkQ2TnZ2WTdHNXdXc0RmMG1ncklkQUN6S3pVNzgtdjhmQXZCTFpDM0UwSWtPU0IzWmdaUHpGWFY0SFU5VGtMTG80WDlrY2x1a0l3cko3NXhlWjRhcXc0SXc4TVJHX2NFUUdiZF9XeUtRNE4tejdfRkhNRUVzaUp4eXBraHFxLWljTFQzLW9VTEJicG9RRDRMY2dfR1QtRzMxN1JVeGVYYlVBMG5qNUhRVUdNeDdFT2l3ZEY0cldnUEk3b0ZyOHZPeC1faE9mRnNSS20zVVhfWkhGaTIzeDFSWnNud0xQY2dheFBPTkZQX0JhOXE?oc=5>
+
+### 用间谍案施压习近平释放黎智英？特朗普称“难办到”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-11-13 07:10
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBBX3FlY0wzaS00bHpCUVpqWGc4MmdZcmctNlNRajNuQkJ5aGx4bTFDYWVhT3N3SC1kdkQzQTFPZWdBTFU5aUI1OU5CMnh5cVdiQUJOX2U3ZXFKMmN1SDZCbFktS1l4bmFKN3c?oc=5>
+
+### “特朗普几乎每晚打电话：钱凑够了吗？”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-11-14 01:56
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9rLW5YckdSdnpTUDdCSXpFNjBjTjl6Q1BUVjJ5VjBNOFVFN0NPQlJ5X0FoVm13UWtjZTk1U0h4djRxd1BJUHpGREtLMVE?oc=5>
+
+### 金灿荣：特朗普想保这员大将，但我看他接下来也会下台
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者网
+- 时间: 2026-11-13 18:47
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1URWNiNWZQeVVhZHVLa1hocTJwZ21WcjFtOXY2cnJ0NWlmWFNERWhTZmJkeS02eGlxMHNpMkhpZFZwMTRreW9WSWlsQ2Vla1ZHaTNFUkF0NzVYUklHOUMweXpHbmdLTU5FTEYzQVZKVkoxdXc?oc=5>
+
+### 放行对华H200芯片出口，承诺出资2500万美元建白宫宴会厅，致电鼓励为保职位而战——特朗普和黄仁勋近两年交往全梳理
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: DW.com
+- 时间: 2026-11-13 13:14
+- 链接: <https://news.google.com/rss/articles/CBMipANBVV95cUxNU0VmS1VXWlRsV2paQmlWNUp3bWZGODRwcVpKODEyMWVBSGR1Zkk4SW0xU1ZOZnFGMkQzTzA3Y01fS21LS2RJSkZFOUhTWk1pWE9nQ0U3djRJYmdHbV8zV1pvajRmOFREMW9lbGJDMUZjc3RQTVlRMU1qcU52Wkt4N2dhQ0Q5R0ZQd1RORXh4Q0d3YmdSMUtzTkFjNllLVGc5cV9pZUVfeTFud0tZZk1qS1J2ZUlBWFpNSWowcFRoTGlDQXBmN2dlMFFXTjE0QzhOcnFhWnZaYUd2N3E1RVhBRDlEMVpBYkhWR1RBVWx4c1lYZm5xblMzVXFPa2NIRG9kekF0dkQyam5UZUVNTjIwUl9Ja3VVYVFWZGk2MWxzTzdkck42QXpxVG5WcHljT2F4NVNOSHVrVGczZi1VVm5pSWltM3FzSUVfczNER2pRVTl1VXNST1hKemRSVF9CTlBIeF9VYjl6OTVrMW5VUzQweTRRaDVKZWdEY0NNaGpiV1NHU21qaGc5SVRUUWI1SDBqSl9pX3I4ZXJQWVBPOVAxSnhvTFjSAaQDQVVfeXFMT3JUUnJzU0VEbDAweTdEWldpRTk0ZGtJRzA4alJWSmNnYTZfT21sbDRHUUZxckVpZVFxaVFrVk8wUmVGeFhmSEV5d3JrbHFmWnR0Ynpad0hod3hsaFNUUW8wMzQxYTZGbkNlQnQwdm92UVFCLUphNUhybGgwa2MycUlCdzJHWHQ4b1hGM2Jya3Z6a0thMjVoOEZmT2JKWkE2MGVCSmlyZkRYNElWZ1lZWF92cWlQcWNxMEY4X0txbG5ZSzAyWFlVQ2ZCUjVPWTR5UHV4LU95eW1zc04tejhPZThNcm0yNG4xcnM5UGxVZ245cXJWc3RjMDFudjkteEVKY1hvTFNvdnlENjFCdUNrRjRQX1c3dDVvUk5TRkVjMkRkbTRiUVBhclJoTF9XZFR5YVR0OW5ET21zZWxPSVlWWnlOT2hfb29PSkk2U29hci04V19MdTNxaXJGSVNPNzhuU0RMWTAzYWdISVR4ODhDYU42ZFUwemhpc1JuWnBYVnhsTTczcHh1ejN1UFAzRENYX3ZuVC1adC12ZkxubUdqZl9tTHRY?oc=5>
+
+### White House: Xi, Trump, Putin to hold a joint meeting in Shenzhen
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: TVB
+- 时间: 2026-11-14 00:22
+- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUnRmSVEwUUNWN2JFejVNZ1ZZQ1pOeHVvcU1xM0F3NExOaGdIWmF3VWRRRXc0QkJudFB6bjNnbTJFUnRpR3JvVFI0bjJLdHJINEp2SzByQXA0RkxQa00tcWM0SV9BTUVVLXVhZVRRWC1IaDZib1FxNHc3UU1IdWVGbUxWbjNJOGprRFIw?oc=5>
+
+### 美媒：特朗普预计在深圳会晤习近平和普京
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 8world
+- 时间: 2026-11-13 23:12
+- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxQQXpMTEVmckdhR0ZINDdpdFBfUEMtdEVIR1AzU21YcnlDMmhpR3ZNVnJEZ3Z5ZGk1NzM5VV9OVlFoZjY0cWRpTXRWVXIyR2tVSUUxdUlHbENScXhtRWN4Uy12M1VvRVlMdlNMLThDMzdnVWUxVTZ5YkR0V0hwalhUZg?oc=5>
+
+### 美国官员：特朗普同习近平会面时不会提到黄仁勋风波
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 8world
+- 时间: 2026-11-14 02:35
+- 链接: <https://news.google.com/rss/articles/CBMikwFBVV95cUxNd1F6bXUybDFlb2pCQzFRVk5HX01sLWpCOXpuS3pGZHdqdnpBcmY5VlFlSm85SzY5U19aLU1WdzN0SWkzV210SWxHN1JIcHlOYTFhdXZXOW0wbUJDcndpU0tPR1E0aFc5YzZwOGV2RHZhYVZlLVdueFh1YmZobW9Pem9VMy10Q25iQUM2TWV1d0NCX28?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-11-14 02:51  (13 条)
+
+- **蔡徐坤** | 众人合跳主题曲，蔡徐坤C位，真的太帅了丨偶像练习生 <https://k.sina.com.cn/article_7879924004_m1d5ae192403302e766.html>
+- **特朗普** | 全美航班暂停起飞，特朗普发声：这看起来不像是网络攻击或人工智能之类的，没有人出来认领 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5UVDM3cTZJUlprbndyazVKR1UtZFlGQXFsdVN1VWNQV29kclh2cURpelF6U1lubll2LS1BT0sydU1yTmMwUDRjV19wei0?oc=5>
+- **特朗普** | 特朗普说美空管系统故障与网络攻击无关 <https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRGs4cWRVYmMzX1EtQTFpNjg1blM1Z2ptdTR3a2VGVWJjUmx6WjU5ZTFjdjdaNWJOMUpOakVEMzN1NFhwQ0ZoUVVKeVdhbzdHeUVGb09sME9OYlgycEZFdmFxalVVYnpXdVZtQk9rU0h3UTZVLUwyeUZjelhJVjd0dXZSVjZwWW5N?oc=5>
+- **特朗普** | “9·11”袭击事件后第二次全美停飞，美国近7000个航班延误或取消，特朗普已听取简报 <https://news.google.com/rss/articles/CBMigwFBVV95cUxQOFVMaFZzUWtTRXdvYmxndUk4cVpEZWdBMER5VnI5Rklhcy1KaVFLUlExMWt1Vkd5VnBKN1VoTi0zd243RllvLVdqbTdacEF0RURPWEh4V3BIWWU4NEJzbmhCaEU1dndoRXVYZlZtdzNldUNQX0R6YWRadHIzQ204clR2dw?oc=5>
+- **特朗普** | 白宫证实特朗普总统下周与习近平、普京举行三边会谈，重点讨论核不扩散 <https://news.google.com/rss/articles/CBMiygFBVV95cUxPS2ttOXVyN2dveGQ3RlpocmRhUDdMamZFckdRejFpYzJSODNTdnRlRzVKMEVEaUZHS19PVjVWNGc1dndaVFBPa3kwMF80Rm1OVXJ2Q2JTMHBrZzRNME1MTXFkb0o3UTloYXlON2w0WjU4eS0ybmRaN3JzTnJ0QlZYcE1tR2o4d241ZUdvbm14MXFXbXUzMk56U2FTV3dFNkpORUZJeUlkeDBvWllCNjJ4ZzZURnQ2NmtOd0pxYXYtaUN1Ui0zTG5TakZB0gHMAUFVX3lxTE1WY1Jkell5LU12OU16cnVhek1aVGtXWW9hNGZFcEh2WkhuUWxTcG5IWjRqdTU3N1ctRHA3eGJKUnJ3ZVNqTUs3Zi02TUI1ZGM2N1FaNEhDdm5MVEZiUE5EZURqelgzOVZscXJVc1p4THZNR00xODcxQkxhRWxzV05jZVJwRlBORmI2R05FZXVIQlpaMmdMN19FeXFSaGJRbEF2dy16QUEzaTBLVG9GdXJpZmpXN0RLTTZYbkhHS2lhYlVQdGFBS3VhemdkbA?oc=5>
+- **特朗普** | 特朗普、习近平和普京可能于下周四在深圳会晤 <https://news.google.com/rss/articles/CBMi0AJBVV95cUxNT0tqcTY4V1NoWS1nWXczZDctZHRjcGJIQ0ZTLU9mNk1uNmxiRS1GaFhtMnNzLXpTdUNlWGxDTUxpak5JQ1VSNHpfOC01VnlFNVdhUS10eDRLUjlGLXNscGFRMVg1ZkQ2TnZ2WTdHNXdXc0RmMG1ncklkQUN6S3pVNzgtdjhmQXZCTFpDM0UwSWtPU0IzWmdaUHpGWFY0SFU5VGtMTG80WDlrY2x1a0l3cko3NXhlWjRhcXc0SXc4TVJHX2NFUUdiZF9XeUtRNE4tejdfRkhNRUVzaUp4eXBraHFxLWljTFQzLW9VTEJicG9RRDRMY2dfR1QtRzMxN1JVeGVYYlVBMG5qNUhRVUdNeDdFT2l3ZEY0cldnUEk3b0ZyOHZPeC1faE9mRnNSS20zVVhfWkhGaTIzeDFSWnNud0xQY2dheFBPTkZQX0JhOXE?oc=5>
+- **特朗普** | 用间谍案施压习近平释放黎智英？特朗普称“难办到” <https://news.google.com/rss/articles/CBMiakFVX3lxTFBBX3FlY0wzaS00bHpCUVpqWGc4MmdZcmctNlNRajNuQkJ5aGx4bTFDYWVhT3N3SC1kdkQzQTFPZWdBTFU5aUI1OU5CMnh5cVdiQUJOX2U3ZXFKMmN1SDZCbFktS1l4bmFKN3c?oc=5>
+- **特朗普** | “特朗普几乎每晚打电话：钱凑够了吗？” <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9rLW5YckdSdnpTUDdCSXpFNjBjTjl6Q1BUVjJ5VjBNOFVFN0NPQlJ5X0FoVm13UWtjZTk1U0h4djRxd1BJUHpGREtLMVE?oc=5>
+- **特朗普** | 金灿荣：特朗普想保这员大将，但我看他接下来也会下台 <https://news.google.com/rss/articles/CBMic0FVX3lxTE1URWNiNWZQeVVhZHVLa1hocTJwZ21WcjFtOXY2cnJ0NWlmWFNERWhTZmJkeS02eGlxMHNpMkhpZFZwMTRreW9WSWlsQ2Vla1ZHaTNFUkF0NzVYUklHOUMweXpHbmdLTU5FTEYzQVZKVkoxdXc?oc=5>
+- **特朗普** | 放行对华H200芯片出口，承诺出资2500万美元建白宫宴会厅，致电鼓励为保职位而战——特朗普和黄仁勋近两年交往全梳理 <https://news.google.com/rss/articles/CBMipANBVV95cUxNU0VmS1VXWlRsV2paQmlWNUp3bWZGODRwcVpKODEyMWVBSGR1Zkk4SW0xU1ZOZnFGMkQzTzA3Y01fS21LS2RJSkZFOUhTWk1pWE9nQ0U3djRJYmdHbV8zV1pvajRmOFREMW9lbGJDMUZjc3RQTVlRMU1qcU52Wkt4N2dhQ0Q5R0ZQd1RORXh4Q0d3YmdSMUtzTkFjNllLVGc5cV9pZUVfeTFud0tZZk1qS1J2ZUlBWFpNSWowcFRoTGlDQXBmN2dlMFFXTjE0QzhOcnFhWnZaYUd2N3E1RVhBRDlEMVpBYkhWR1RBVWx4c1lYZm5xblMzVXFPa2NIRG9kekF0dkQyam5UZUVNTjIwUl9Ja3VVYVFWZGk2MWxzTzdkck42QXpxVG5WcHljT2F4NVNOSHVrVGczZi1VVm5pSWltM3FzSUVfczNER2pRVTl1VXNST1hKemRSVF9CTlBIeF9VYjl6OTVrMW5VUzQweTRRaDVKZWdEY0NNaGpiV1NHU21qaGc5SVRUUWI1SDBqSl9pX3I4ZXJQWVBPOVAxSnhvTFjSAaQDQVVfeXFMT3JUUnJzU0VEbDAweTdEWldpRTk0ZGtJRzA4alJWSmNnYTZfT21sbDRHUUZxckVpZVFxaVFrVk8wUmVGeFhmSEV5d3JrbHFmWnR0Ynpad0hod3hsaFNUUW8wMzQxYTZGbkNlQnQwdm92UVFCLUphNUhybGgwa2MycUlCdzJHWHQ4b1hGM2Jya3Z6a0thMjVoOEZmT2JKWkE2MGVCSmlyZkRYNElWZ1lZWF92cWlQcWNxMEY4X0txbG5ZSzAyWFlVQ2ZCUjVPWTR5UHV4LU95eW1zc04tejhPZThNcm0yNG4xcnM5UGxVZ245cXJWc3RjMDFudjkteEVKY1hvTFNvdnlENjFCdUNrRjRQX1c3dDVvUk5TRkVjMkRkbTRiUVBhclJoTF9XZFR5YVR0OW5ET21zZWxPSVlWWnlOT2hfb29PSkk2U29hci04V19MdTNxaXJGSVNPNzhuU0RMWTAzYWdISVR4ODhDYU42ZFUwemhpc1JuWnBYVnhsTTczcHh1ejN1UFAzRENYX3ZuVC1adC12ZkxubUdqZl9tTHRY?oc=5>
+- **Trump** | White House: Xi, Trump, Putin to hold a joint meeting in Shenzhen <https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUnRmSVEwUUNWN2JFejVNZ1ZZQ1pOeHVvcU1xM0F3NExOaGdIWmF3VWRRRXc0QkJudFB6bjNnbTJFUnRpR3JvVFI0bjJLdHJINEp2SzByQXA0RkxQa00tcWM0SV9BTUVVLXVhZVRRWC1IaDZib1FxNHc3UU1IdWVGbUxWbjNJOGprRFIw?oc=5>
+- **Trump** | 美媒：特朗普预计在深圳会晤习近平和普京 <https://news.google.com/rss/articles/CBMigAFBVV95cUxQQXpMTEVmckdhR0ZINDdpdFBfUEMtdEVIR1AzU21YcnlDMmhpR3ZNVnJEZ3Z5ZGk1NzM5VV9OVlFoZjY0cWRpTXRWVXIyR2tVSUUxdUlHbENScXhtRWN4Uy12M1VvRVlMdlNMLThDMzdnVWUxVTZ5YkR0V0hwalhUZg?oc=5>
+- **Trump** | 美国官员：特朗普同习近平会面时不会提到黄仁勋风波 <https://news.google.com/rss/articles/CBMikwFBVV95cUxNd1F6bXUybDFlb2pCQzFRVk5HX01sLWpCOXpuS3pGZHdqdnpBcmY5VlFlSm85SzY5U19aLU1WdzN0SWkzV210SWxHN1JIcHlOYTFhdXZXOW0wbUJDcndpU0tPR1E0aFc5YzZwOGV2RHZhYVZlLVdueFh1YmZobW9Pem9VMy10Q25iQUM2TWV1d0NCX28?oc=5>
 
 ### 2026-11-13 22:45  (10 条)
 
