@@ -1,22 +1,146 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-11-15 07:26**
-- 本轮扫到 15891 条, 新增 **1** 条
+- 最近更新: **2026-11-15 14:54**
+- 本轮扫到 15906 条, 新增 **15** 条
 
 ---
 
-## 本轮新发现 (1 条)
+## 本轮新发现 (15 条)
 
-### 战山为王超话发布二创视频，海绵宝宝台词引互动
+### 蔡徐坤演唱会现场乐队实录尾奏管乐引关注
 
-- 艺人/关键词: **王一博**
+- 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7811142420_m1d194931403301fd2a.html>
+- 链接: <https://k.sina.com.cn/article_7811142420_m1d194931403301fe3k.html>
+
+### 周董演唱会你怎么看 微博VC计划
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301i8v4.html>
+
+### 周杰伦西安演唱会与于适合唱屋顶
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7811249616_m1d19635d003302iebg.html>
+
+### 谁稀罕 这首新歌现场真的太好听了 北京演唱会 周杰伦
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7811057114_m1d19345da03301x6ou.html>
+
+### 白宫确认特朗普、习近平和普京将在深圳APEC期间举行历史性三方会晤
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: BBC
+- 时间: 2026-11-15 06:08
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvMk14eGtqaFpBcGxPSFdoREUxbWhWWFg3RkYxUzlaaVlDRTNiNDVRb0VDazlxeGNMNDVpWnEzV2I1NHJzYXJraDYwVUdZSnhLQ3FMcjhmM0JDTUhhZDlmS2R3NzhQUmvSAWxBVV95cUxQM1U2UFdxTkxTR05Bc2oxR1piTndERG9wXzBBTjMxMUlOMkVYLXhFbVllbXpOZFF2M0R0QjhDZTVGM1BmTGNIQURHOWFudmlVcjVGTFRrNnIwWmtqaWFYWDFtYXp1ajF5UElZRUw?oc=5>
+
+### 北京的俄罗斯难题：美俄宣布“习特普”峰会将在深圳举行
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: DW.com
+- 时间: 2026-11-15 12:15
+- 链接: <https://news.google.com/rss/articles/CBMixgJBVV95cUxQcXVuVElwS3UxOEliX1BLZUpTT05iTVVBS3BXQXNWR1ZPb1pMNDRSZEZsMHZ6clVfaU1hZk9neW9nNXF2c204azE4dnpHU0ZoaDZCeWNSRTkzcVQ1QkNfaTRuRThwMTZTYVZURDdYdEhnUHQ0OElubXR1MzdsbzZKaTFueW96Uzdhb1B4clZlcWVIMEwteVhaT1ZWR0dXdklULVc4d2hXb2J1dzJfQkZjM3ZsVWhMZVJrZDQ1eTkzLUFsYmxYcVV2MGZWZE1tTzFxeDVWb1psU1ZEUFY5cXdiUmRFWklKQW5kUmhzU1Q2RTZma2RNMTR4VUZhWlpmdkRoeGR5dTRLb0dEdHBWYUlSM0R0MksyTUZzY1Nfc2hIWEEtdGNkd3pHLUJBSlQ2M3Z2bDd3M3VReG5oWEFWaXFtSG05YUlsQdIBxgJBVV95cUxNWWJkYkhrd3NuampsTDZDelJhRlJiV19aelFfNXpDWGpPUE5wQUhLWkZORU5acXdzNHB0SVUxSE1JazZ0THRHVWF3cXZ1aUVYWlFBeC1JRnZTaVc1WkxBY29mXy1lamhrRUNuOWhEamVxc3ZFNkJuSE5WQmFVMW11VlBlSWduRmtJQTROMmp1dHhaWTYycmJESGVJeTRPQ3NGaXIwTWpmbnZzOE5feEhEd0c2TVlXRVBQelhubzY4c2I2VXpsOHVVUksyMWtaNEIyM0NLajZKSkZUX2lvR1l4NmxsYUhNTWZUVnIzeXdLelI3ZFR6VVlnQUs5NnZGSmZIQTZFd054bFZ0NGhROEQ0VjZtTVMyNkRSUUlLQ3dpclNRQTV3ejF1UnJDS3AyVDFSRUdTQmNqVlFVZjhNcW5MQmRfSXJKQQ?oc=5>
+
+### 白宫宣布深圳三方会晤谈核裁军；特朗普表示中国AI“没有护栏”，“习主席说什么就是什么”；黄仁勋丑闻预计不会提及
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: DW.com
+- 时间: 2026-11-14 22:57
+- 链接: <https://news.google.com/rss/articles/CBMiuAJBVV95cUxOQTlqZTF5eUZSakF6N1RQcFNCSDNmSjJIZXJFNnF2dGd0MnFDbUlHcVJTMVVQeGFKTF9tUVVyUk9iUmNVb3pNTDV6VmQ3ZjRpSTV2QzNodzMySGFOTzU3emlNWGZUa1NQX19LbU5ITTBrd3AteWlDclc5LU1XV0k2bkJ3b204c0JKZ0g4dmt6TlhNczVFTDBhdGpPSFJOU094YlpXSHBGb3FYT2ZmS1RiUFEzVmN1THdzSUx5WmtRZk9kM2dkdXNmc1NjRmdQM0tKMVZqbDl5a0tDUDdZcFFMaDVBWlRueUVIQ3pSQWpOelljcFVDano0LUpxV25nSE1mR1ZlZkJIN0IwT2h2MGs2V2V3eVlvRmZ1N2owX1hmNkZjM2NKcFRIVXMzSG00Wks2MnJyVWRqeXg?oc=5>
+
+### 美高官：特朗普将与普习谈核裁军 预计不单独见普京、不谈俄乌战争
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-11-14 09:42
+- 链接: <https://news.google.com/rss/articles/CBMiswNBVV95cUxQUE5nVFBwNHFnTUFkVG9TMFBTSkpYN0tqdzMyTkw5YkNmeWl0d0RvZTVzVjZad3BNQ2NXLXNPMkVreFZIU3J2VVFwN0RzRERKZGJqaF82b3dRdVg4RUFpZURpcm1tLTJsWVRPck1ZcFg3YmxQcFcyQkJmbFZ0ODJOS3VJM3Rjb1VQVmpOaWRsVmdpZkhUWGRRMlJSdkdwS2djZ2hwVHUxdzZ5cDd1RVMyMDlPNWtka0pIODhyblowdDNwbGM4S0JLNkVkbkVucy1uVFZYQi1wT08ySjhmcFRWeFBzN1A5MWUzS3hpRWhkcHNOT0FORDhzUXNEWVZHbTNaUU1QeHB1VXRoRWVXZnd2YjJkRnVlaVZoMUJRc1dydFhlN01pSkExUjBHQ0dNR1liTlQyM0ttZ2VFNENCUW5vWlRCcllTam1DczBfMzFiYWV5aFRrYlpDR0FaZGw5LWowT01qZGlGcHI4VVd3RW9tS2FOV2pOMTNKQTFUR3J3VjlSWXMzQjBBU0NUYnozLXI5MlVkanJndHFsTUt0WHF5UzQ3TVU0TGhpR0JOQTNrbVZzdDQ?oc=5>
+
+### 特朗普1980年视频流出，34岁即提出美国应控制伊朗石油
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-11-15 13:00
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE52cC05UXVnelh1akJNUVlta2ltSGoySUZXOHEyMHZneDlKRHRSTlFWMXNDYzB4WjhfNEZTUDdRVzFzdGlXQjJRYjlCZFI?oc=5>
+
+### 围堵中国的“四方安全对话”，快被特朗普搞散了
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者网
+- 时间: 2026-11-15 03:55
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1UMEpDemxsVnFXd19WaVRBRnRkRU9vbVFNTFNTZ25GVFRrRVpnX2pxTk56YWFFOXM1eDBDRkYxNTc3cU1ta0RVUFpRaXFHTzg2U0F1OE5NUzZFVV9qMHNXOVdlUUUtdzRPd2pEejM1bkhVc3c?oc=5>
+
+### “两个特朗普”、辩论失利背后、“被迫”退选过程，拜登新回忆录披露白宫内幕
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: ThePaper.cn
+- 时间: 2026-11-15 05:02
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUdWhHSW8xQkNmdG1QamoxdmNZdTRhRldoU2hlUENzTFA5Qk5YYVVoc2RHWnRUdXBkLU0yUXR5eXRHUFBYUElLNGRuVzNUTnJzaUdMbXZqUFRBM3E2Q01YTA?oc=5>
+
+### 国际观察丨美以战略分歧如何影响伊朗局势--国际
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 人民网
+- 时间: 2026-11-15 02:42
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE9QNG4zLTBLU2M5Y1FGVHVLUlR0cTFZdTRlOTFxajhyQjhNUVA3QWNnX3BZWkdwVUtsQ1BfV2lERGVJYlEweWN1RFV5ejlBMC1iYnZFczlORUpESUNzT09jRlFsUWtFN0xFblI0?oc=5>
+
+### 在看跌势头占据主导的情况下，TRUMP 会否延续跌势？
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Traders Union
+- 时间: 2026-11-15 06:57
+- 链接: <https://news.google.com/rss/articles/CBMipAFBVV95cUxOb0RLNXRkSjlkWGFLVkU5dlQxbFJtVTJQd2FyMUpoNVo4ZFNlRnBlVlJmVFU5eEhsQjhyUlZJaUNYRWI3eDZiMnlya2dJSHBETERWRkFuSlhlR2JjUWg1VEVnQi1ablo5eDF3el83MVVWd21feUkwd3JWYU1iQWhrRnlMYi0xVEstNHVzY29PTVI2eWh3bWVBeHlKa2JIMEJTenpuMQ?oc=5>
+
+### 美国航班一度全国停飞 特朗普归咎拜登政府
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 8world
+- 时间: 2026-11-15 14:23
+- 链接: <https://news.google.com/rss/articles/CBMihAFBVV95cUxNUVYtTmk2VllNZTR0XzlMbWxBSVlhWXNtdm9VRXd5cVY1dnBMdWstalB3TFpFRXhQWk9nV190Q2EwREE3eFpPM2NBLTUxLTFkTmJJbWpHV0lVbzlwYmEydmZXUWNEQnl1ak5zMmsxQXctZV84V1lxQTByWWIya2R5M0RJMmk?oc=5>
+
+### 若不再受伊朗或胡塞武装挑衅 特朗普或暂缓对伊动武
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 8world
+- 时间: 2026-11-15 02:16
+- 链接: <https://news.google.com/rss/articles/CBMikwFBVV95cUxQYzd4WDJma3NfQTdTOFhQLThTNXpvUV9zN1A2RzQ2c3o5WVFFSzVGX0EwcDNXa2ROdjFaNjYtMzhyZk04YTItelZ2blV5SWE2YXRGX09JS0dGNjE1S192bmo2bU9scjVlSXloWFFWM0pRMU11MlhDQVAta3o5UEZfajZLT2U5TVVQQ0xDTWwxaGVzems?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-11-15 14:54  (15 条)
+
+- **蔡徐坤** | 蔡徐坤演唱会现场乐队实录尾奏管乐引关注 <https://k.sina.com.cn/article_7811142420_m1d194931403301fe3k.html>
+- **周杰伦** | 周董演唱会你怎么看 微博VC计划 <https://k.sina.com.cn/article_7879924009_m1d5ae192903301i8v4.html>
+- **周杰伦** | 周杰伦西安演唱会与于适合唱屋顶 <https://k.sina.com.cn/article_7811249616_m1d19635d003302iebg.html>
+- **周杰伦** | 谁稀罕 这首新歌现场真的太好听了 北京演唱会 周杰伦 <https://k.sina.com.cn/article_7811057114_m1d19345da03301x6ou.html>
+- **特朗普** | 白宫确认特朗普、习近平和普京将在深圳APEC期间举行历史性三方会晤 <https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvMk14eGtqaFpBcGxPSFdoREUxbWhWWFg3RkYxUzlaaVlDRTNiNDVRb0VDazlxeGNMNDVpWnEzV2I1NHJzYXJraDYwVUdZSnhLQ3FMcjhmM0JDTUhhZDlmS2R3NzhQUmvSAWxBVV95cUxQM1U2UFdxTkxTR05Bc2oxR1piTndERG9wXzBBTjMxMUlOMkVYLXhFbVllbXpOZFF2M0R0QjhDZTVGM1BmTGNIQURHOWFudmlVcjVGTFRrNnIwWmtqaWFYWDFtYXp1ajF5UElZRUw?oc=5>
+- **特朗普** | 北京的俄罗斯难题：美俄宣布“习特普”峰会将在深圳举行 <https://news.google.com/rss/articles/CBMixgJBVV95cUxQcXVuVElwS3UxOEliX1BLZUpTT05iTVVBS3BXQXNWR1ZPb1pMNDRSZEZsMHZ6clVfaU1hZk9neW9nNXF2c204azE4dnpHU0ZoaDZCeWNSRTkzcVQ1QkNfaTRuRThwMTZTYVZURDdYdEhnUHQ0OElubXR1MzdsbzZKaTFueW96Uzdhb1B4clZlcWVIMEwteVhaT1ZWR0dXdklULVc4d2hXb2J1dzJfQkZjM3ZsVWhMZVJrZDQ1eTkzLUFsYmxYcVV2MGZWZE1tTzFxeDVWb1psU1ZEUFY5cXdiUmRFWklKQW5kUmhzU1Q2RTZma2RNMTR4VUZhWlpmdkRoeGR5dTRLb0dEdHBWYUlSM0R0MksyTUZzY1Nfc2hIWEEtdGNkd3pHLUJBSlQ2M3Z2bDd3M3VReG5oWEFWaXFtSG05YUlsQdIBxgJBVV95cUxNWWJkYkhrd3NuampsTDZDelJhRlJiV19aelFfNXpDWGpPUE5wQUhLWkZORU5acXdzNHB0SVUxSE1JazZ0THRHVWF3cXZ1aUVYWlFBeC1JRnZTaVc1WkxBY29mXy1lamhrRUNuOWhEamVxc3ZFNkJuSE5WQmFVMW11VlBlSWduRmtJQTROMmp1dHhaWTYycmJESGVJeTRPQ3NGaXIwTWpmbnZzOE5feEhEd0c2TVlXRVBQelhubzY4c2I2VXpsOHVVUksyMWtaNEIyM0NLajZKSkZUX2lvR1l4NmxsYUhNTWZUVnIzeXdLelI3ZFR6VVlnQUs5NnZGSmZIQTZFd054bFZ0NGhROEQ0VjZtTVMyNkRSUUlLQ3dpclNRQTV3ejF1UnJDS3AyVDFSRUdTQmNqVlFVZjhNcW5MQmRfSXJKQQ?oc=5>
+- **特朗普** | 白宫宣布深圳三方会晤谈核裁军；特朗普表示中国AI“没有护栏”，“习主席说什么就是什么”；黄仁勋丑闻预计不会提及 <https://news.google.com/rss/articles/CBMiuAJBVV95cUxOQTlqZTF5eUZSakF6N1RQcFNCSDNmSjJIZXJFNnF2dGd0MnFDbUlHcVJTMVVQeGFKTF9tUVVyUk9iUmNVb3pNTDV6VmQ3ZjRpSTV2QzNodzMySGFOTzU3emlNWGZUa1NQX19LbU5ITTBrd3AteWlDclc5LU1XV0k2bkJ3b204c0JKZ0g4dmt6TlhNczVFTDBhdGpPSFJOU094YlpXSHBGb3FYT2ZmS1RiUFEzVmN1THdzSUx5WmtRZk9kM2dkdXNmc1NjRmdQM0tKMVZqbDl5a0tDUDdZcFFMaDVBWlRueUVIQ3pSQWpOelljcFVDano0LUpxV25nSE1mR1ZlZkJIN0IwT2h2MGs2V2V3eVlvRmZ1N2owX1hmNkZjM2NKcFRIVXMzSG00Wks2MnJyVWRqeXg?oc=5>
+- **特朗普** | 美高官：特朗普将与普习谈核裁军 预计不单独见普京、不谈俄乌战争 <https://news.google.com/rss/articles/CBMiswNBVV95cUxQUE5nVFBwNHFnTUFkVG9TMFBTSkpYN0tqdzMyTkw5YkNmeWl0d0RvZTVzVjZad3BNQ2NXLXNPMkVreFZIU3J2VVFwN0RzRERKZGJqaF82b3dRdVg4RUFpZURpcm1tLTJsWVRPck1ZcFg3YmxQcFcyQkJmbFZ0ODJOS3VJM3Rjb1VQVmpOaWRsVmdpZkhUWGRRMlJSdkdwS2djZ2hwVHUxdzZ5cDd1RVMyMDlPNWtka0pIODhyblowdDNwbGM4S0JLNkVkbkVucy1uVFZYQi1wT08ySjhmcFRWeFBzN1A5MWUzS3hpRWhkcHNOT0FORDhzUXNEWVZHbTNaUU1QeHB1VXRoRWVXZnd2YjJkRnVlaVZoMUJRc1dydFhlN01pSkExUjBHQ0dNR1liTlQyM0ttZ2VFNENCUW5vWlRCcllTam1DczBfMzFiYWV5aFRrYlpDR0FaZGw5LWowT01qZGlGcHI4VVd3RW9tS2FOV2pOMTNKQTFUR3J3VjlSWXMzQjBBU0NUYnozLXI5MlVkanJndHFsTUt0WHF5UzQ3TVU0TGhpR0JOQTNrbVZzdDQ?oc=5>
+- **特朗普** | 特朗普1980年视频流出，34岁即提出美国应控制伊朗石油 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE52cC05UXVnelh1akJNUVlta2ltSGoySUZXOHEyMHZneDlKRHRSTlFWMXNDYzB4WjhfNEZTUDdRVzFzdGlXQjJRYjlCZFI?oc=5>
+- **特朗普** | 围堵中国的“四方安全对话”，快被特朗普搞散了 <https://news.google.com/rss/articles/CBMic0FVX3lxTE1UMEpDemxsVnFXd19WaVRBRnRkRU9vbVFNTFNTZ25GVFRrRVpnX2pxTk56YWFFOXM1eDBDRkYxNTc3cU1ta0RVUFpRaXFHTzg2U0F1OE5NUzZFVV9qMHNXOVdlUUUtdzRPd2pEejM1bkhVc3c?oc=5>
+- **特朗普** | “两个特朗普”、辩论失利背后、“被迫”退选过程，拜登新回忆录披露白宫内幕 <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUdWhHSW8xQkNmdG1QamoxdmNZdTRhRldoU2hlUENzTFA5Qk5YYVVoc2RHWnRUdXBkLU0yUXR5eXRHUFBYUElLNGRuVzNUTnJzaUdMbXZqUFRBM3E2Q01YTA?oc=5>
+- **特朗普** | 国际观察丨美以战略分歧如何影响伊朗局势--国际 <https://news.google.com/rss/articles/CBMia0FVX3lxTE9QNG4zLTBLU2M5Y1FGVHVLUlR0cTFZdTRlOTFxajhyQjhNUVA3QWNnX3BZWkdwVUtsQ1BfV2lERGVJYlEweWN1RFV5ejlBMC1iYnZFczlORUpESUNzT09jRlFsUWtFN0xFblI0?oc=5>
+- **Trump** | 在看跌势头占据主导的情况下，TRUMP 会否延续跌势？ <https://news.google.com/rss/articles/CBMipAFBVV95cUxOb0RLNXRkSjlkWGFLVkU5dlQxbFJtVTJQd2FyMUpoNVo4ZFNlRnBlVlJmVFU5eEhsQjhyUlZJaUNYRWI3eDZiMnlya2dJSHBETERWRkFuSlhlR2JjUWg1VEVnQi1ablo5eDF3el83MVVWd21feUkwd3JWYU1iQWhrRnlMYi0xVEstNHVzY29PTVI2eWh3bWVBeHlKa2JIMEJTenpuMQ?oc=5>
+- **Trump** | 美国航班一度全国停飞 特朗普归咎拜登政府 <https://news.google.com/rss/articles/CBMihAFBVV95cUxNUVYtTmk2VllNZTR0XzlMbWxBSVlhWXNtdm9VRXd5cVY1dnBMdWstalB3TFpFRXhQWk9nV190Q2EwREE3eFpPM2NBLTUxLTFkTmJJbWpHV0lVbzlwYmEydmZXUWNEQnl1ak5zMmsxQXctZV84V1lxQTByWWIya2R5M0RJMmk?oc=5>
+- **Trump** | 若不再受伊朗或胡塞武装挑衅 特朗普或暂缓对伊动武 <https://news.google.com/rss/articles/CBMikwFBVV95cUxQYzd4WDJma3NfQTdTOFhQLThTNXpvUV9zN1A2RzQ2c3o5WVFFSzVGX0EwcDNXa2ROdjFaNjYtMzhyZk04YTItelZ2blV5SWE2YXRGX09JS0dGNjE1S192bmo2bU9scjVlSXloWFFWM0pRMU11MlhDQVAta3o5UEZfajZLT2U5TVVQQ0xDTWwxaGVzems?oc=5>
 
 ### 2026-11-15 07:26  (1 条)
 
