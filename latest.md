@@ -1,64 +1,73 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-11-14 20:51**
-- 本轮扫到 15884 条, 新增 **6** 条
+- 最近更新: **2026-11-15 00:36**
+- 本轮扫到 15890 条, 新增 **6** 条
 
 ---
 
 ## 本轮新发现 (6 条)
 
-### 特朗普称美空管系统故障与网络攻击无关
+### 打不动了才想起中国，特朗普中期选举一输，就要中国去劝伊朗收手
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-11-14 18:31
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTFBfMERJWE9tamdKVDduNENZMEVuNl91UjZ2UlY4WjB3bDZCZmhwTEgxMDVwd0tYUmZESTF4R1llT0cxcHJ0dkZjWnpJeFdVTnRxX0RlY3VNMWIzMjFveFVwS1BGS0tyd0ZoZWtCMW50cUg?oc=5>
+- 场馆: 风闻
+- 时间: 2026-11-13 19:58
+- 链接: <https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSYnBRQTJmVmFrQ1pYcWJPRFVnaXJhRG14aktBdnkxSWh5ZVhxZmYyVDVHQ2Q5UlhpR0FRakRVOTNlNU83eXFvaXlUTGZpYThCWTNlTEd3bmpDckU?oc=5>
 
-### 白宫宣布深圳三方会晤谈核裁军；特朗普表示中国AI“没有护栏”，“习主席说什么就是什么”；黄仁勋丑闻预计不会提及
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: DW.com
-- 时间: 2026-11-14 11:14
-- 链接: <https://news.google.com/rss/articles/CBMiuAJBVV95cUxOQTlqZTF5eUZSakF6N1RQcFNCSDNmSjJIZXJFNnF2dGd0MnFDbUlHcVJTMVVQeGFKTF9tUVVyUk9iUmNVb3pNTDV6VmQ3ZjRpSTV2QzNodzMySGFOTzU3emlNWGZUa1NQX19LbU5ITTBrd3AteWlDclc5LU1XV0k2bkJ3b204c0JKZ0g4dmt6TlhNczVFTDBhdGpPSFJOU094YlpXSHBGb3FYT2ZmS1RiUFEzVmN1THdzSUx5WmtRZk9kM2dkdXNmc1NjRmdQM0tKMVZqbDl5a0tDUDdZcFFMaDVBWlRueUVIQ3pSQWpOelljcFVDano0LUpxV25nSE1mR1ZlZkJIN0IwT2h2MGs2V2V3eVlvRmZ1N2owX1hmNkZjM2NKcFRIVXMzSG00Wks2MnJyVWRqeXjSAbgCQVVfeXFMUHJpTFlFT2V3UFY1aHVkN1pCVnBCanRzUUE5NlhuRFpBc0F0MEZJSmxOYTd6b0RYT19acGpKZnl4QTU1TkhER2tpeG1BWjRsUFBXRGZpOTRMU25iOWFCNDl6LXJld3B5b3AtdTJNWVNaS0Z4aGFaQS1ETDdBQ1NnUjMtWkI4aE82WWYxRDRKMUlMb1lTMXlVMU8xdXVMUnppX2I2c0JTbEJXNTlvV01NTTlhV1RBaFRXckpzUW1VckxpUnR5c0oxaVFOWkhOc2NxNnV2Q2dZT2p5SkFid3QwWWs2UDA3MDZqUTh2VGtCMU9pdER0bWFuQnIwaXZEaTYyaV9GZ0Z5REpIWTJTZGMtRDlIaXdrdWkzMkhCb29DZEU0clNpLS0yczN6VlVHMm40eHRMSXFHclN2?oc=5>
-
-### 伊朗总统：特朗普被以色列欺骗了
+### 美国事务专家：在共和党中期选举失利后，特朗普已将矛头转向万斯
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-11-14 17:38
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBZdFpka09SYlVaNHFXSFdmU3Fmd1NPUmp1U3V2N0lzZ3JUSENfejlpSmZ5dmdUYnpsbTkwcDVZbHdhTVR0SC1WRjhsNXk?oc=5>
+- 场馆: Sohu
+- 时间: 2026-11-14 21:35
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxPcGNyT2FoMlFEMnJyRDl0OUw2M0lwTkFmOWNLeDNQVlU4eGljSnhFaUttcVN0M0xBYWczNHhtR1B2ckxJNEF2YzlnZnBvM0RlLUVYM2doOFVMcmc1b2E4MGhSZUNNWXIzMk82bHh3ekwzT2JKRjdjb1dpNW5nZmxtT1daZW5aVHdZQ2lGRA?oc=5>
 
-### “昨天的特朗普，开始反噬今天的自己”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-11-14 08:30
-- 链接: <https://news.google.com/rss/articles/CBMiUkFVX3lxTFBta0paZWlBMnJTTUhtTzlYcXc3VldxLW5kUUNOZFlPaFIwWTNRNnNzV01mcVBwa0s0Y0pqZ1ZCTzdnODhHTmxtdVBhT201U1Qta2c?oc=5>
-
-### 加入中国的，就别想加入美国的？特朗普政府松口
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-11-13 23:52
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9RczlSMjZhR0Y5VUF2ZjJJU2dHRS1LRmowVkFTYnRMWERCUF9pUnhBN3ZqSkwwbXNCZlpqV3o1Ti1mbUl2VTFaNlZlMko?oc=5>
-
-### World leaders head to Philippine capital for 49th ASEAN summit
+### 特习会在即，美农民关注农产品贸易和关税问题
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: TVB
-- 时间: 2026-11-14 15:56
-- 链接: <https://news.google.com/rss/articles/CBMijgFBVV95cUxNUUNYS1ZvTFVhZEJlOFBMa203eTJvRnBua0hNa2EzdWM5cnFJc2VIM3FoVEVDRzdfSklqdDlNWm9oeEZJdlVHcGNzdjdaS3ZyZ1ZVdDdQRk1RZGx2T20yN3BmYU5ma24zYW5pWkF5UTNQUlBidWF2dEdmenM5U3VERFVIaGFhMkZGY1ByN0RB?oc=5>
+- 场馆: RFI
+- 时间: 2026-11-14 21:25
+- 链接: <https://news.google.com/rss/articles/CBMi2wJBVV95cUxQaVpoQ0ZLN05IeFVFSXh0YXRjbnQ2X3BfVm10V3FyYXItSXN6TGRIM0RPQ2NNZTB4TFFQaFlWWWU4NXFVLTEycHNEc3d6U25tSW1PRFJ5c1VrUGpTSDRwZnZWaC1rTml2aGlOcDFMbmhGcWNseVNWUXIxc1kwWEpGOWc3TGgydUwwZEFsWXpBVXM5elEwQzJ1Z2QtX250U0d1d2xJU3JtZkpkTEhMRkRCX2pUaExTME5KblVUVTZxdFlSc25Jb1VUdTRHYjlRaUtsZjBFc2tSMTVpSEVOSFAxMGJrMFpmNVU5RDR0U0YyUmltaWxGcnhtR3JKQW1lNzl4eVRtWm9RQXVVbDNaQ19wc3JsbmRrRmlVNURvUUFkTmpmN1BOQnlKSlYzTHFXOXV5V1Q5R1o2N1FjdXAyeXRXTjJzQUo3bDFSMkFDeUxwa0FPcXVPY0FzOHVsdw?oc=5>
+
+### TRUMP在动能指标转弱、技术阻力强劲的情况下近乎下跌16%
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Traders Union
+- 时间: 2026-11-14 22:10
+- 链接: <https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNWNDUEJ4SkdfWnQ2WU5yTUdneEpjcWpUd1Q4NUJ6OThhQmlZdUZJdWYyWHBmRmw4SHZBQy1rU2dXdDNFVXBwektiUmFhZ0RyVmxCbV9OSnBfZXNUUF9McHl5cTZoWDNuNW9zMnVsZFllSHhLOFdjQ0tjZEhYbGxHRXZhWmg5RE91TmNPMVNlWGprcVNOR29RMHJjQ3dwTTYxSkdYMU9PajdlamM?oc=5>
+
+### 美、中、俄三国首脑在深圳会晤：“普京或将是最大赢家”
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-11-14 21:18
+- 链接: <https://news.google.com/rss/articles/CBMi3wJBVV95cUxPU3B2Mjl6TEJsTW50OUNkSXdHQUQtb2VPVGZPeFp0ZDVzNjVBakhobklmVDZTOHFrRE9RekFZVzhib3cycmlpb3ZiX1JrS3dEV2c0MUNOaXAtR1JRTVFVVFI5aXVvQzBLN0hndWZxYkFuTWd3U0dXQmU4VGhwWjQ1VE1JRGt6WVRjWG9GYzNQUHJvSGJFOWc3ZG1HLTVxTWctbEFBcTIzRmNaeGNjVk1mSTBQR2VKTHoyYVpwNEZnaklpQ2gyc2FRNmc1ZXRfSGo2R0ZYNEREekNHUjRqNHViYWRrUk9iTkFqM3pVVXpOSzZzR1RxRHhVUktDcDdnM2FhR3JYSnJ0RnpGbTRqcjFORldsU1J0MHJFY2dzUVZhTElPYkxDVnYyUWViMFVGRG95Z0Zmb2x6bXFVNENPYW50OHB3TDZoZldHMzRCNWxhaVNKZEttWFhQZk4tTUpiNUk?oc=5>
+
+### 三方会谈议程和形式仍未敲定
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-11-14 20:21
+- 链接: <https://news.google.com/rss/articles/CBMi-wFBVV95cUxOZ2x2eDVEbVZXTWlNaDZtYUNVeHhDdnUwWk9LdVQ4LTVhZG01X3Z6MGw2X3h0NllXakRJcFJUTXc4SjJ3LVF4aXhXZi1JR29GV1dXR3RSOUM5Y3NYOGtKVTdPdS1DdHkxUnNzaHBtLTlUMU1VNndWZjhJY2QtVUVWOEZpYnFJUmMyS2NWc21DQW1xUjdHckpZRWpucmRfQUxzbzJIZ1BLWlF2cnZLMTMxVFVHRlRHeW1xcVdxQmN6NWpNd0ZvSm9wN3g1Q0NRSXFwS0hnVm82Y2lhb09KS2Joa3JsNldublVfb3RQM1BTYlZabXZVaWRtb1RxQQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-11-15 00:36  (6 条)
+
+- **特朗普** | 打不动了才想起中国，特朗普中期选举一输，就要中国去劝伊朗收手 <https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSYnBRQTJmVmFrQ1pYcWJPRFVnaXJhRG14aktBdnkxSWh5ZVhxZmYyVDVHQ2Q5UlhpR0FRakRVOTNlNU83eXFvaXlUTGZpYThCWTNlTEd3bmpDckU?oc=5>
+- **特朗普** | 美国事务专家：在共和党中期选举失利后，特朗普已将矛头转向万斯 <https://news.google.com/rss/articles/CBMijAFBVV95cUxPcGNyT2FoMlFEMnJyRDl0OUw2M0lwTkFmOWNLeDNQVlU4eGljSnhFaUttcVN0M0xBYWczNHhtR1B2ckxJNEF2YzlnZnBvM0RlLUVYM2doOFVMcmc1b2E4MGhSZUNNWXIzMk82bHh3ekwzT2JKRjdjb1dpNW5nZmxtT1daZW5aVHdZQ2lGRA?oc=5>
+- **Trump** | 特习会在即，美农民关注农产品贸易和关税问题 <https://news.google.com/rss/articles/CBMi2wJBVV95cUxQaVpoQ0ZLN05IeFVFSXh0YXRjbnQ2X3BfVm10V3FyYXItSXN6TGRIM0RPQ2NNZTB4TFFQaFlWWWU4NXFVLTEycHNEc3d6U25tSW1PRFJ5c1VrUGpTSDRwZnZWaC1rTml2aGlOcDFMbmhGcWNseVNWUXIxc1kwWEpGOWc3TGgydUwwZEFsWXpBVXM5elEwQzJ1Z2QtX250U0d1d2xJU3JtZkpkTEhMRkRCX2pUaExTME5KblVUVTZxdFlSc25Jb1VUdTRHYjlRaUtsZjBFc2tSMTVpSEVOSFAxMGJrMFpmNVU5RDR0U0YyUmltaWxGcnhtR3JKQW1lNzl4eVRtWm9RQXVVbDNaQ19wc3JsbmRrRmlVNURvUUFkTmpmN1BOQnlKSlYzTHFXOXV5V1Q5R1o2N1FjdXAyeXRXTjJzQUo3bDFSMkFDeUxwa0FPcXVPY0FzOHVsdw?oc=5>
+- **Trump** | TRUMP在动能指标转弱、技术阻力强劲的情况下近乎下跌16% <https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNWNDUEJ4SkdfWnQ2WU5yTUdneEpjcWpUd1Q4NUJ6OThhQmlZdUZJdWYyWHBmRmw4SHZBQy1rU2dXdDNFVXBwektiUmFhZ0RyVmxCbV9OSnBfZXNUUF9McHl5cTZoWDNuNW9zMnVsZFllSHhLOFdjQ0tjZEhYbGxHRXZhWmg5RE91TmNPMVNlWGprcVNOR29RMHJjQ3dwTTYxSkdYMU9PajdlamM?oc=5>
+- **Trump** | 美、中、俄三国首脑在深圳会晤：“普京或将是最大赢家” <https://news.google.com/rss/articles/CBMi3wJBVV95cUxPU3B2Mjl6TEJsTW50OUNkSXdHQUQtb2VPVGZPeFp0ZDVzNjVBakhobklmVDZTOHFrRE9RekFZVzhib3cycmlpb3ZiX1JrS3dEV2c0MUNOaXAtR1JRTVFVVFI5aXVvQzBLN0hndWZxYkFuTWd3U0dXQmU4VGhwWjQ1VE1JRGt6WVRjWG9GYzNQUHJvSGJFOWc3ZG1HLTVxTWctbEFBcTIzRmNaeGNjVk1mSTBQR2VKTHoyYVpwNEZnaklpQ2gyc2FRNmc1ZXRfSGo2R0ZYNEREekNHUjRqNHViYWRrUk9iTkFqM3pVVXpOSzZzR1RxRHhVUktDcDdnM2FhR3JYSnJ0RnpGbTRqcjFORldsU1J0MHJFY2dzUVZhTElPYkxDVnYyUWViMFVGRG95Z0Zmb2x6bXFVNENPYW50OHB3TDZoZldHMzRCNWxhaVNKZEttWFhQZk4tTUpiNUk?oc=5>
+- **Trump** | 三方会谈议程和形式仍未敲定 <https://news.google.com/rss/articles/CBMi-wFBVV95cUxOZ2x2eDVEbVZXTWlNaDZtYUNVeHhDdnUwWk9LdVQ4LTVhZG01X3Z6MGw2X3h0NllXakRJcFJUTXc4SjJ3LVF4aXhXZi1JR29GV1dXR3RSOUM5Y3NYOGtKVTdPdS1DdHkxUnNzaHBtLTlUMU1VNndWZjhJY2QtVUVWOEZpYnFJUmMyS2NWc21DQW1xUjdHckpZRWpucmRfQUxzbzJIZ1BLWlF2cnZLMTMxVFVHRlRHeW1xcVdxQmN6NWpNd0ZvSm9wN3g1Q0NRSXFwS0hnVm82Y2lhb09KS2Joa3JsNldublVfb3RQM1BTYlZabXZVaWRtb1RxQQ?oc=5>
 
 ### 2026-11-14 20:51  (6 条)
 
