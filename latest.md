@@ -1,64 +1,26 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-11-15 00:36**
-- 本轮扫到 15890 条, 新增 **6** 条
+- 最近更新: **2026-11-15 07:26**
+- 本轮扫到 15891 条, 新增 **1** 条
 
 ---
 
-## 本轮新发现 (6 条)
+## 本轮新发现 (1 条)
 
-### 打不动了才想起中国，特朗普中期选举一输，就要中国去劝伊朗收手
+### 战山为王超话发布二创视频，海绵宝宝台词引互动
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 风闻
-- 时间: 2026-11-13 19:58
-- 链接: <https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSYnBRQTJmVmFrQ1pYcWJPRFVnaXJhRG14aktBdnkxSWh5ZVhxZmYyVDVHQ2Q5UlhpR0FRakRVOTNlNU83eXFvaXlUTGZpYThCWTNlTEd3bmpDckU?oc=5>
-
-### 美国事务专家：在共和党中期选举失利后，特朗普已将矛头转向万斯
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: Sohu
-- 时间: 2026-11-14 21:35
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxPcGNyT2FoMlFEMnJyRDl0OUw2M0lwTkFmOWNLeDNQVlU4eGljSnhFaUttcVN0M0xBYWczNHhtR1B2ckxJNEF2YzlnZnBvM0RlLUVYM2doOFVMcmc1b2E4MGhSZUNNWXIzMk82bHh3ekwzT2JKRjdjb1dpNW5nZmxtT1daZW5aVHdZQ2lGRA?oc=5>
-
-### 特习会在即，美农民关注农产品贸易和关税问题
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-11-14 21:25
-- 链接: <https://news.google.com/rss/articles/CBMi2wJBVV95cUxQaVpoQ0ZLN05IeFVFSXh0YXRjbnQ2X3BfVm10V3FyYXItSXN6TGRIM0RPQ2NNZTB4TFFQaFlWWWU4NXFVLTEycHNEc3d6U25tSW1PRFJ5c1VrUGpTSDRwZnZWaC1rTml2aGlOcDFMbmhGcWNseVNWUXIxc1kwWEpGOWc3TGgydUwwZEFsWXpBVXM5elEwQzJ1Z2QtX250U0d1d2xJU3JtZkpkTEhMRkRCX2pUaExTME5KblVUVTZxdFlSc25Jb1VUdTRHYjlRaUtsZjBFc2tSMTVpSEVOSFAxMGJrMFpmNVU5RDR0U0YyUmltaWxGcnhtR3JKQW1lNzl4eVRtWm9RQXVVbDNaQ19wc3JsbmRrRmlVNURvUUFkTmpmN1BOQnlKSlYzTHFXOXV5V1Q5R1o2N1FjdXAyeXRXTjJzQUo3bDFSMkFDeUxwa0FPcXVPY0FzOHVsdw?oc=5>
-
-### TRUMP在动能指标转弱、技术阻力强劲的情况下近乎下跌16%
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Traders Union
-- 时间: 2026-11-14 22:10
-- 链接: <https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNWNDUEJ4SkdfWnQ2WU5yTUdneEpjcWpUd1Q4NUJ6OThhQmlZdUZJdWYyWHBmRmw4SHZBQy1rU2dXdDNFVXBwektiUmFhZ0RyVmxCbV9OSnBfZXNUUF9McHl5cTZoWDNuNW9zMnVsZFllSHhLOFdjQ0tjZEhYbGxHRXZhWmg5RE91TmNPMVNlWGprcVNOR29RMHJjQ3dwTTYxSkdYMU9PajdlamM?oc=5>
-
-### 美、中、俄三国首脑在深圳会晤：“普京或将是最大赢家”
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-11-14 21:18
-- 链接: <https://news.google.com/rss/articles/CBMi3wJBVV95cUxPU3B2Mjl6TEJsTW50OUNkSXdHQUQtb2VPVGZPeFp0ZDVzNjVBakhobklmVDZTOHFrRE9RekFZVzhib3cycmlpb3ZiX1JrS3dEV2c0MUNOaXAtR1JRTVFVVFI5aXVvQzBLN0hndWZxYkFuTWd3U0dXQmU4VGhwWjQ1VE1JRGt6WVRjWG9GYzNQUHJvSGJFOWc3ZG1HLTVxTWctbEFBcTIzRmNaeGNjVk1mSTBQR2VKTHoyYVpwNEZnaklpQ2gyc2FRNmc1ZXRfSGo2R0ZYNEREekNHUjRqNHViYWRrUk9iTkFqM3pVVXpOSzZzR1RxRHhVUktDcDdnM2FhR3JYSnJ0RnpGbTRqcjFORldsU1J0MHJFY2dzUVZhTElPYkxDVnYyUWViMFVGRG95Z0Zmb2x6bXFVNENPYW50OHB3TDZoZldHMzRCNWxhaVNKZEttWFhQZk4tTUpiNUk?oc=5>
-
-### 三方会谈议程和形式仍未敲定
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-11-14 20:21
-- 链接: <https://news.google.com/rss/articles/CBMi-wFBVV95cUxOZ2x2eDVEbVZXTWlNaDZtYUNVeHhDdnUwWk9LdVQ4LTVhZG01X3Z6MGw2X3h0NllXakRJcFJUTXc4SjJ3LVF4aXhXZi1JR29GV1dXR3RSOUM5Y3NYOGtKVTdPdS1DdHkxUnNzaHBtLTlUMU1VNndWZjhJY2QtVUVWOEZpYnFJUmMyS2NWc21DQW1xUjdHckpZRWpucmRfQUxzbzJIZ1BLWlF2cnZLMTMxVFVHRlRHeW1xcVdxQmN6NWpNd0ZvSm9wN3g1Q0NRSXFwS0hnVm82Y2lhb09KS2Joa3JsNldublVfb3RQM1BTYlZabXZVaWRtb1RxQQ?oc=5>
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7811142420_m1d194931403301fd2a.html>
 
 
 ---
 
 ## 历史发现
+
+### 2026-11-15 07:26  (1 条)
+
+- **王一博** | 战山为王超话发布二创视频，海绵宝宝台词引互动 <https://k.sina.com.cn/article_7811142420_m1d194931403301fd2a.html>
 
 ### 2026-11-15 00:36  (6 条)
 
