@@ -1,86 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-11-15 20:05**
-- 本轮扫到 15915 条, 新增 **9** 条
+- 最近更新: **2026-11-16 00:07**
+- 本轮扫到 15920 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (9 条)
+## 本轮新发现 (5 条)
 
-### 【无羁】一响梦回陈情，无论过去多久都会为它驻足停留…博君一肖 王一博 肖战 陈情令南京国风演唱会
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002uwm8.html>
-
-### 特朗普又挑战美国最高法院，欲限制和削减法官权力
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-11-15 18:28
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1LN25SS29fRG5rWV9JdHBYcUNQcm1QX0FBVnJmeG00em1WRGZPMnE1QTVKX3h4NVlUZzg1cXNkcm1BSHJKV0xETmllem0?oc=5>
-
-### 以色列要“单干”了？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-11-15 19:24
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE5YN2ZRTXZGMjlyNGsyZVdXZm5xMmhQck5oelV4VV9OeERWMVlFRm1sbnRFUHdIVTVrT3Rrc2dQcElYdE5kTUtIdnV6Z0NuYmppZjBUQzAzbUdUclpISTV4dmg1eFdiYU40SzhZbWdaNExvRm5RSnBQT2pMTWV6UjA?oc=5>
-
-### 美国总统特朗普：正与参议员合作推进《娱乐业振兴法案》。
+### 知情人士透露，特朗普......_7x24快讯_新浪财经
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪网
-- 时间: 2026-11-14 17:39
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9uMmpmeFJYdnNoNkY2VUdjQ1JBRVFsdVY0NW5TaHY3V0I1OEhHZ19mRDFsMWNCMlNqMUdwWmhYNG9MaHpEd3BMQkRJUQ?oc=5>
+- 时间: 2026-11-15 20:35
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE52RWVxM2F4VGtiOE5rbHdOM040YnNLLXN6VUpkT3N4bnI0bmRXdUhtbVpMZ3piU0N0dWt0SkQwaVVlaVZnUnBLdEFDSQ?oc=5>
 
-### 稀有画面曝光：特朗普34岁时就提出应控制伊朗石油，“我们本应这么做而没有行动，我非常失望”；当时还是纽约地产商
+### 特朗普盟友再遭质疑，国会调查战一触即发，民主党将矛头对准马斯克
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: Sohu
-- 时间: 2026-11-15 14:00
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxNZFExbmN1dC1RWnJrTUJSY3hXQ2s3ZnBBSDNVM0lxR25EY3dNY0djcm9nY2gzX0lsaDZIbDJHX0N0cDg3NnpEVjVkSGZUWUxORVExQ1NidFVOS19CLS1NWi0zekhXdVJJemI1Y3ZTakdfX2pRNWhzN3NhV0xpOHZRZVZyUlR0aGZIdkw1QQ?oc=5>
+- 时间: 2026-11-15 22:27
+- 链接: <https://news.google.com/rss/articles/CBMinwFBVV95cUxPQUVtNEhES2RNMWx3NHUtY1VORGNQaVctOHZhMHI5UEw0WHdXREpTSDlabW52Y0V4ZnQ4X29pR216QkxiMVZQS3Z2bEtUUjRuclNnMFhTNUZTTGVNTnJqMzcteDJCczRDay14TUliNWJBUWlGOG50eFNIY1E3NGxBTWhxQ3Y3XzM0S3pFM2ZzODRkN0RUVGxUZ3BfbU8yODQ?oc=5>
 
-### 菲律宾民众不欢迎特朗普到访参加亚细安峰会
+### 特朗普首谈全美航班停飞事件：都怪拜登政府
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 联合早报
-- 时间: 2026-11-15 11:31
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBOak1JUGRESGNDUjlaUzFBS0xrY1FWOXlEbkZhbG9qRmd6aE1JVERQX2NsRGxNNDdCdk1TaE55dFlieGIyc2g1SkExaC1aTTBpN1BiS3pEQmgtZ0pSQV81SkFoQ3VnLWpo?oc=5>
+- 时间: 2026-11-15 14:46
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTFBqd1NzakZoR295YmpGenY3dldYbnpEbGh4RmF6SUo4UTdnOW1KWW5jTFZDbnZfQWxwZTJDb1MwSHFkSTZvUFVVNUlnNnphZ2ZFRjR6Z3E1aXQzaVk0Wkd3aEdvVmdUOS05SFNv?oc=5>
 
-### 华府观察：特朗普去深圳 最看重什么？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中国评论
-- 时间: 2026-11-15 16:08
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE1MUXA0Umh6R212MEtUcHhfUHN0d0hncHpuMzRtOEpwTDNmSy1uRHlFeUJlWWNxcjFGWkdONi1MTnZxS1lmMUVFMnN2ZVR3MThkcXVsci1jdFo?oc=5>
-
-### 为了躲特朗普，北约连峰会都不开了
+### 特朗普、习近平与普京将在中国举行三方会谈
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-11-15 12:57
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5ITlExNE1sYlQ2NXI0cWFWOE91eWVkYnB5MlY4Y193VWRoMFBpaUNCM0tod19vMk9PRU9odTlfeXN0N1pVN3hob1NkUk5wdDJmaFRhOFVGMW5lXzdqWXpjWWllUjZRcjRxd0dJdHQ0RlE2MFF1ckI4Vw?oc=5>
+- 场馆: 华尔街日报中文网
+- 时间: 2026-11-15 23:47
+- 链接: <https://news.google.com/rss/articles/CBMiswJBVV95cUxNZG1GT3Q1LUhreUgybFVSWmpybUZ0U0N1b3FGbDZqdmEwdl81TGJncDdYeUw4c04tTVVBVkg3YURxLTB4R0s0cFU1bmZpMC0yS3hrQUVyOGJYa2d4OXFNZGxJb2VaOFRkVzFXUzdVV21DOUhhSE9hNnNKOHkyUDBWRXZrQ0xpV29JYm95dENNWGVONjFUMFZDTldDejZNajZnaU9ScVVFWFVhN1A3V3QtazR5UWFuM0cxQ2thbVI1ZFFULUM2dXJFSjB2SFdsamszS0VIb0NEZktLZ3dTdzVPRWRVenZoYnU4LUV1b3E4eVh1Q1gyazFFU2VaSUNCNnd5UkxocmFEcGZvNkhya2hObmdxVkJwQmpYRzZTNHMwS1BMSzVtcTl5NG9Pa1VJcDNOby04?oc=5>
 
-### 川普提前3个月卖英伟达 网友惊呼“白宫股神”
+### 0.946 交易 TRUMP/USDT 现货｜加密货币、bStocks 和 tCommodities｜币安
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 文学城
-- 时间: 2026-11-15 16:06
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OOHNNelJYZzBiclIxaFJ3dUw2OGZpVmtsbUhtZkVMcU9HYWtwc1JTdW9jdHpzRTVjSUt5RHZIbjhpb3cwSWhyWWYwUTQ5SDhtUFE1MjREVkp6WlRDd3pOOUlzUUtrNEdM?oc=5>
+- 场馆: Binance
+- 时间: 2026-11-13 08:00
+- 链接: <https://news.google.com/rss/articles/CBMiWkFVX3lxTE52TWRlckx1NjZYSlRDOGlLdFgtdWl3Z19kdXNEOHBNNUxEazk3LUliX1hfNno4X3RpNGNZZ0lZWENwSDZpWndFM0Z6eS1DeDNRTUZWaWp3TDdfQQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-11-16 00:07  (5 条)
+
+- **特朗普** | 知情人士透露，特朗普......_7x24快讯_新浪财经 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE52RWVxM2F4VGtiOE5rbHdOM040YnNLLXN6VUpkT3N4bnI0bmRXdUhtbVpMZ3piU0N0dWt0SkQwaVVlaVZnUnBLdEFDSQ?oc=5>
+- **特朗普** | 特朗普盟友再遭质疑，国会调查战一触即发，民主党将矛头对准马斯克 <https://news.google.com/rss/articles/CBMinwFBVV95cUxPQUVtNEhES2RNMWx3NHUtY1VORGNQaVctOHZhMHI5UEw0WHdXREpTSDlabW52Y0V4ZnQ4X29pR216QkxiMVZQS3Z2bEtUUjRuclNnMFhTNUZTTGVNTnJqMzcteDJCczRDay14TUliNWJBUWlGOG50eFNIY1E3NGxBTWhxQ3Y3XzM0S3pFM2ZzODRkN0RUVGxUZ3BfbU8yODQ?oc=5>
+- **特朗普** | 特朗普首谈全美航班停飞事件：都怪拜登政府 <https://news.google.com/rss/articles/CBMia0FVX3lxTFBqd1NzakZoR295YmpGenY3dldYbnpEbGh4RmF6SUo4UTdnOW1KWW5jTFZDbnZfQWxwZTJDb1MwSHFkSTZvUFVVNUlnNnphZ2ZFRjR6Z3E1aXQzaVk0Wkd3aEdvVmdUOS05SFNv?oc=5>
+- **特朗普** | 特朗普、习近平与普京将在中国举行三方会谈 <https://news.google.com/rss/articles/CBMiswJBVV95cUxNZG1GT3Q1LUhreUgybFVSWmpybUZ0U0N1b3FGbDZqdmEwdl81TGJncDdYeUw4c04tTVVBVkg3YURxLTB4R0s0cFU1bmZpMC0yS3hrQUVyOGJYa2d4OXFNZGxJb2VaOFRkVzFXUzdVV21DOUhhSE9hNnNKOHkyUDBWRXZrQ0xpV29JYm95dENNWGVONjFUMFZDTldDejZNajZnaU9ScVVFWFVhN1A3V3QtazR5UWFuM0cxQ2thbVI1ZFFULUM2dXJFSjB2SFdsamszS0VIb0NEZktLZ3dTdzVPRWRVenZoYnU4LUV1b3E4eVh1Q1gyazFFU2VaSUNCNnd5UkxocmFEcGZvNkhya2hObmdxVkJwQmpYRzZTNHMwS1BMSzVtcTl5NG9Pa1VJcDNOby04?oc=5>
+- **Trump** | 0.946 交易 TRUMP/USDT 现货｜加密货币、bStocks 和 tCommodities｜币安 <https://news.google.com/rss/articles/CBMiWkFVX3lxTE52TWRlckx1NjZYSlRDOGlLdFgtdWl3Z19kdXNEOHBNNUxEazk3LUliX1hfNno4X3RpNGNZZ0lZWENwSDZpWndFM0Z6eS1DeDNRTUZWaWp3TDdfQQ?oc=5>
 
 ### 2026-11-15 20:05  (9 条)
 
