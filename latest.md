@@ -1,56 +1,212 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-11-16 00:07**
-- 本轮扫到 15920 条, 新增 **5** 条
+- 最近更新: **2026-11-16 06:58**
+- 本轮扫到 15943 条, 新增 **23** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (23 条)
 
-### 知情人士透露，特朗普......_7x24快讯_新浪财经
+### TASAKI「Ready To Open 琦珍焕彩」高级珠宝发布
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7811048496_m1d1932430033021toy.html>
+
+### 连唱3天周杰伦武汉演唱会官宣
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1736068007_m677a4ba703302fpq2.html>
+
+### 周杰伦武汉演唱会580元只能看大屏
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1798653494_m6b35463603301dm0i.html>
+
+### 周杰伦武汉演唱会明年4月连开3场
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1798653494_m6b35463603301dm0e.html>
+
+### 周杰伦武汉演唱会正式官宣！将于2027年4月9日、10日、11日连唱3天
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5952915705_162d248f906703tfos.html>
+
+### 官媒爆料周杰伦巡回演唱会增加温州站，时隔18年回温州开唱或成真
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5367743073_m13ff1426100101swp4.html>
+
+### 周杰伦武汉演唱会正式官宣，2027年4月9日-11日连唱3天
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://finance.sina.com.cn/roll/2026-11-16/doc-iniyxcif2464937.shtml>
+
+### APEC峰会：特朗普、普京与习近平的历史性会晤将如何影响世界？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-11-15 20:35
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE52RWVxM2F4VGtiOE5rbHdOM040YnNLLXN6VUpkT3N4bnI0bmRXdUhtbVpMZ3piU0N0dWt0SkQwaVVlaVZnUnBLdEFDSQ?oc=5>
+- 场馆: BBC
+- 时间: 2026-11-16 00:39
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Cb2hiRXdZQnlIdENBRVhRTmdrSHRvRlFBTkFGR0RNSV9Tb05nc2t4ek9jU2JQc1p1OElURWszc1B2UEV3b1J4VGFFSWtXTXBnV2JDeFNicTZRWW5JTE5mb196ZEEydEXSAWxBVV95cUxPUllCMW5BblFSRFdhRm55WFdyTGp1bWhDSFhuZTI2TzM1RlR2UHh1UFIwT0hhVXJtT1BOazVOUE1LQVJycFN5d05zYUZseHk1bnJzbUVPMmpIVDdmRk9GWFM2dHhidl9lMU5FdFU?oc=5>
+
+### 特朗普访菲，安抚身处对华前线的盟友
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-11-16 06:15
+- 链接: <https://news.google.com/rss/articles/CBMijwJBVV95cUxNZWd5VVJZVVRyYkxndjg0R2ZzOVVmV0JOcjd3aXZObV82QU1XdVNqS1hQRG1EVUxUX3JWWlhVSGFpdkRuT000OUdIazJxMUR4dWVVZlBDc1JrNnAwQjdZLU1ZelpwMVd4Y2c4cWJaOURlX2I2UERQOFZzbzc2aDdHam9QdEVhc3Y1NUFVWmRkbGUwdlBlQXo4bWNzTlEtZDZEX05abXBfNXJLbG1xX0xCYUs2RXNwZE9LeDZ2ZzRVM0tSeDJzZmRRY0VsUlVUb09zRGxCUE53SV80RkhtYndXZTUtaUVNZWZtbElUVERTOFd6TEpYQkplMXBLUk5PSUZwVUY2ZkRkWUR6dE05eG1V?oc=5>
+
+### 习近平将同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中国驻爱丁堡总领事馆
+- 时间: 2026-11-16 01:00
+- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxNb0E4OVB3UDBiMmN3RGZUbmRSR01wSFNvaUR1VlVVb1o4X1FCaC04MVZweTAtNzFLX0s2VW1HbGpmSENkbW5XQmJsZVQyaGRIeFljUzBHR28xaDFjUVdhMHZ2VzZGM1lKRllyc1dCN0ZJUjZDRjhFT1dQV0s3REdiSQ?oc=5>
+
+### 习近平将同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 国务院港澳事务办公室
+- 时间: 2026-11-16 01:30
+- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE1wdWlZcDFVa1JBc3RLMGRjTEdYazM0OHlycnN2TWRpMjZkWEVLOTZDV2IyYTVxcXRZYVVEMk5lckhpZWZSSUdKRkltTXBOLUpybFBXRXdjTkFHQ2h6dTc1LWx0ZlhZV3RKQnh3VEgyRk14MVp1SzItUURn?oc=5>
+
+### 中期选举惨败，特朗普想了个“赢”的法子↓
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者网
+- 时间: 2026-11-16 05:59
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE9sLVp0OFQzeFotOTBfWVNuekM5ZFVITldmdHJJZXV1VU12NG5mMjB0UFZTaUR3RUk1VEhQMGJLTkhuS0t3Z1lZZEtUR3VrZkVabXpYSUVLUk1aMnNhWWs5ejI3akJaQmlHUzMyNUFuT2tRVms?oc=5>
+
+### 以色列爆料“伊朗近期可能袭击特朗普”，特朗普减少公开活动，贝森特、鲁比奥等高官住进“安全屋”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中国新闻网
+- 时间: 2026-11-16 01:54
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5mbVk0UEVBR1JSLWEzckM0Y0ZqVm9DTTJzUlVodDFhZnZWdDdNbjJJVzVhTjR0Tm45clVKcDk4dVZlNkRkZ3JCWlJYUE1rMDBpRHN1aTBjVUNxZjFQRVNQTXFmVW5DMjdW?oc=5>
+
+### 新华社消息丨习近平将同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-11-16 01:37
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxQLVQyOF9uSjFObXN1bEU5eHdUdU9rSks4a2owVVVqOFJ6TmJyQUdZc3RtMUVmb19wX3F6dTBZMXdwZXQ2VjZ6c1F3UE5KRUVoc0dzZlUtX1VkbzdFVHBLU2FnT1V2cndLMXZSSWFEaDc5YUhESXpZTGprc180b1ZfeG44anRBY2Q3anZTWg?oc=5>
 
 ### 特朗普盟友再遭质疑，国会调查战一触即发，民主党将矛头对准马斯克
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Sohu
-- 时间: 2026-11-15 22:27
-- 链接: <https://news.google.com/rss/articles/CBMinwFBVV95cUxPQUVtNEhES2RNMWx3NHUtY1VORGNQaVctOHZhMHI5UEw0WHdXREpTSDlabW52Y0V4ZnQ4X29pR216QkxiMVZQS3Z2bEtUUjRuclNnMFhTNUZTTGVNTnJqMzcteDJCczRDay14TUliNWJBUWlGOG50eFNIY1E3NGxBTWhxQ3Y3XzM0S3pFM2ZzODRkN0RUVGxUZ3BfbU8yODQ?oc=5>
+- 场馆: 华尔街见闻
+- 时间: 2026-11-15 23:54
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rQndPSXdrd01KM2trbWk3X180Q1lGMDFqZnJlS25ycXN5dU1kZzZjLXVSdXlFOWN0LWdiVGV2aF9VcTlELWJGd21ST2FrTzlWRUJz?oc=5>
 
-### 特朗普首谈全美航班停飞事件：都怪拜登政府
+### 美国全国停飞后各方“甩锅”：特朗普政府指责前任，民主党人嘲讽钱用在了凯旋门
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-11-15 14:46
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTFBqd1NzakZoR295YmpGenY3dldYbnpEbGh4RmF6SUo4UTdnOW1KWW5jTFZDbnZfQWxwZTJDb1MwSHFkSTZvUFVVNUlnNnphZ2ZFRjR6Z3E1aXQzaVk0Wkd3aEdvVmdUOS05SFNv?oc=5>
+- 场馆: ThePaper.cn
+- 时间: 2026-11-16 03:58
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KUzNpWVQtYjBpdkVfWFhObnA3cWp1Q1Q3SUZTcmk5dEtDTC1EWURMZWI2NnNCT3BfcmlkUEt1QTU3MG5DMzRCYV9jX0xjWFdORDJvYzNNdGpYb2E4VmFnTQ?oc=5>
 
-### 特朗普、习近平与普京将在中国举行三方会谈
+### 习近平将同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中国新闻网
+- 时间: 2026-11-16 01:06
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1xT2I1aWNXaWhpSElvZEN6WmF1M3g4WmliMVk4QlRianhydVhnaFFMZ0ttVG1sTW0yamhHSlNsZ0hMNV9zd1Y2S2VYcDI2VDlsdTVZdTF4VXNwTkJQbXB3Z0ZUR2R6dFh2?oc=5>
+
+### APEC深圳峰会前瞻：中方确认美中俄会晤，日方盼习近平按惯例与高市握手
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: BBC
+- 时间: 2026-11-16 03:46
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SdVRneDVXZWs1bHdjc09OenVRanc1UkdndzVnMWFfcXpIRThUVDNZMXNfazA0Sms4Y3hvOWJqSkU4Y0EtYy1pZUVENXVTc3ZXRkdrZlIzbUhRVlJWRkQ3MExjUDZFM1XSAWxBVV95cUxPbGFFXzhPMzI0SWhod0JCT2w4bTlkRGxZdkFNeDM4UlA4MGIxREF4RnpQTXFIekl4c3BtOHZMNXpvanUyVl92OVo4UC1vSFg3NENuZ3NZeERSM090N09nbDlic2JfUHM4WktzTUI?oc=5>
+
+### 特朗普与黄仁勋是如何结成强力政商同盟的？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 华尔街日报中文网
-- 时间: 2026-11-15 23:47
-- 链接: <https://news.google.com/rss/articles/CBMiswJBVV95cUxNZG1GT3Q1LUhreUgybFVSWmpybUZ0U0N1b3FGbDZqdmEwdl81TGJncDdYeUw4c04tTVVBVkg3YURxLTB4R0s0cFU1bmZpMC0yS3hrQUVyOGJYa2d4OXFNZGxJb2VaOFRkVzFXUzdVV21DOUhhSE9hNnNKOHkyUDBWRXZrQ0xpV29JYm95dENNWGVONjFUMFZDTldDejZNajZnaU9ScVVFWFVhN1A3V3QtazR5UWFuM0cxQ2thbVI1ZFFULUM2dXJFSjB2SFdsamszS0VIb0NEZktLZ3dTdzVPRWRVenZoYnU4LUV1b3E4eVh1Q1gyazFFU2VaSUNCNnd5UkxocmFEcGZvNkhya2hObmdxVkJwQmpYRzZTNHMwS1BMSzVtcTl5NG9Pa1VJcDNOby04?oc=5>
+- 时间: 2026-11-16 03:34
+- 链接: <https://news.google.com/rss/articles/CBMisgJBVV95cUxQODNUejhpLTJuVHVIcW0ycDVRbFVIOEYxNWI3WWFPblhBb3liT2lUdnR1ODZVcTJ5Ml9KUXBzSW1SSzdNWEZuTzh1Wk9FVUFpN1VkcEdCb0ZJNUFKUlBpaHdNMUlZVFdLSVdWODluRmhqZ2hmUnFWN0xZWUhZNmtNaHluNEZtenZLVkpZdDU1OUxneTJDblJDVWZwNGRDQVdhTEdBRXA0di1oN3NaVGllSnJSUzhvdUxRb2NtbDc3bzlVRWlFVi0telB0Q09tdWlyZmp2aTYzZzBUbTdkbWhTdjNiSUFMTjRYX1Y1ZlhZUEMtcng0OGFGcUJ6a2JiSVZiSUNZeHhWRTVmaXNhMkpWZEtSVDJoWFdhR21kZEVFN2M2eGhjT09KNnIwcXZpMWNWVXc?oc=5>
 
-### 0.946 交易 TRUMP/USDT 现货｜加密货币、bStocks 和 tCommodities｜币安
+### 全美航班停飞影响仍在持续 特朗普催促国会：赶紧拨款！
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中金在线
+- 时间: 2026-11-16 01:33
+- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE9ST19Xb2dadUVia2NSMlRjTDFvSE1TaG9LeUM2WTBhMkk1LU56bDNjek9aU2ZFSURydWV3RHVCaU9YNnJQdlZJR1FScW9KT2drTDBjT0dfZHd1Zk9GaVBLNl9aSUVhdm5IWHc?oc=5>
+
+### 特朗普、习近平和普京将在中国举行三方会晤
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Binance
-- 时间: 2026-11-13 08:00
-- 链接: <https://news.google.com/rss/articles/CBMiWkFVX3lxTE52TWRlckx1NjZYSlRDOGlLdFgtdWl3Z19kdXNEOHBNNUxEazk3LUliX1hfNno4X3RpNGNZZ0lZWENwSDZpWndFM0Z6eS1DeDNRTUZWaWp3TDdfQQ?oc=5>
+- 场馆: 纽约时报中文网
+- 时间: 2026-11-16 00:17
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZUdBQVJaWlQtZWZIWTh5TmVBRG8xb1JNdnRwalhvT3ZCUmdSa3hYa3pxQTJ2Z1RtbWIzYUpETDRPREZfUHpyNVhQVHJHamF4cE1SU28tOUtVTTFVNG5jOHl3LW4td3gwa21DLTN2d3ZEdnlpRGR2UC1Fc1NKbk9RVlBNVjRFQUF1?oc=5>
+
+### 习近平周四将同特朗普和普京会晤
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 8world
+- 时间: 2026-11-16 01:21
+- 链接: <https://news.google.com/rss/articles/CBMitAFBVV95cUxOTzhKcnhIVWIyWVhrRi1wb1M5UkYtSXVGU25ZQnNjUGNrWHc1ZjdVS0o4bGtvaWZRS2pBbmQ5eTI0N2x2LUR0RHpWZ1hoU2VKN1hDVGtBUGpGdHlnUnpNd3lXaHJNRktzcTdQOUw2RTZ4VnlnNURNTW5feFpkTWlyUHZxYy1hbHQycFA3N2YyWTAtN3RtWUxkZzNNRTFKc1I5VUloOW5xWnZ0RWVWVHQyQVZiVF8?oc=5>
+
+### Global News Highlight from AP
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: TVB
+- 时间: 2026-11-16 04:13
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE11YlJXSXR3YTA2VTQ0TlVFb3JuSEFYTXhhVDNqdGRrUzFGZ0gySUxwc3dSWFFxSzVfMDBJc0hqS2FQT3dzRGh0LVptRnlQcVRvZE1Hbll3cUt1RDhXNURkRTFxcmR3eEJp?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-11-16 06:58  (23 条)
+
+- **蔡徐坤** | TASAKI「Ready To Open 琦珍焕彩」高级珠宝发布 <https://k.sina.com.cn/article_7811048496_m1d1932430033021toy.html>
+- **周杰伦** | 连唱3天周杰伦武汉演唱会官宣 <https://k.sina.com.cn/article_1736068007_m677a4ba703302fpq2.html>
+- **周杰伦** | 周杰伦武汉演唱会580元只能看大屏 <https://k.sina.com.cn/article_1798653494_m6b35463603301dm0i.html>
+- **周杰伦** | 周杰伦武汉演唱会明年4月连开3场 <https://k.sina.com.cn/article_1798653494_m6b35463603301dm0e.html>
+- **周杰伦** | 周杰伦武汉演唱会正式官宣！将于2027年4月9日、10日、11日连唱3天 <https://k.sina.com.cn/article_5952915705_162d248f906703tfos.html>
+- **周杰伦** | 官媒爆料周杰伦巡回演唱会增加温州站，时隔18年回温州开唱或成真 <https://k.sina.com.cn/article_5367743073_m13ff1426100101swp4.html>
+- **周杰伦** | 周杰伦武汉演唱会正式官宣，2027年4月9日-11日连唱3天 <https://finance.sina.com.cn/roll/2026-11-16/doc-iniyxcif2464937.shtml>
+- **特朗普** | APEC峰会：特朗普、普京与习近平的历史性会晤将如何影响世界？ <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Cb2hiRXdZQnlIdENBRVhRTmdrSHRvRlFBTkFGR0RNSV9Tb05nc2t4ek9jU2JQc1p1OElURWszc1B2UEV3b1J4VGFFSWtXTXBnV2JDeFNicTZRWW5JTE5mb196ZEEydEXSAWxBVV95cUxPUllCMW5BblFSRFdhRm55WFdyTGp1bWhDSFhuZTI2TzM1RlR2UHh1UFIwT0hhVXJtT1BOazVOUE1LQVJycFN5d05zYUZseHk1bnJzbUVPMmpIVDdmRk9GWFM2dHhidl9lMU5FdFU?oc=5>
+- **特朗普** | 特朗普访菲，安抚身处对华前线的盟友 <https://news.google.com/rss/articles/CBMijwJBVV95cUxNZWd5VVJZVVRyYkxndjg0R2ZzOVVmV0JOcjd3aXZObV82QU1XdVNqS1hQRG1EVUxUX3JWWlhVSGFpdkRuT000OUdIazJxMUR4dWVVZlBDc1JrNnAwQjdZLU1ZelpwMVd4Y2c4cWJaOURlX2I2UERQOFZzbzc2aDdHam9QdEVhc3Y1NUFVWmRkbGUwdlBlQXo4bWNzTlEtZDZEX05abXBfNXJLbG1xX0xCYUs2RXNwZE9LeDZ2ZzRVM0tSeDJzZmRRY0VsUlVUb09zRGxCUE53SV80RkhtYndXZTUtaUVNZWZtbElUVERTOFd6TEpYQkplMXBLUk5PSUZwVUY2ZkRkWUR6dE05eG1V?oc=5>
+- **特朗普** | 习近平将同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤 <https://news.google.com/rss/articles/CBMigAFBVV95cUxNb0E4OVB3UDBiMmN3RGZUbmRSR01wSFNvaUR1VlVVb1o4X1FCaC04MVZweTAtNzFLX0s2VW1HbGpmSENkbW5XQmJsZVQyaGRIeFljUzBHR28xaDFjUVdhMHZ2VzZGM1lKRllyc1dCN0ZJUjZDRjhFT1dQV0s3REdiSQ?oc=5>
+- **特朗普** | 习近平将同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤 <https://news.google.com/rss/articles/CBMiekFVX3lxTE1wdWlZcDFVa1JBc3RLMGRjTEdYazM0OHlycnN2TWRpMjZkWEVLOTZDV2IyYTVxcXRZYVVEMk5lckhpZWZSSUdKRkltTXBOLUpybFBXRXdjTkFHQ2h6dTc1LWx0ZlhZV3RKQnh3VEgyRk14MVp1SzItUURn?oc=5>
+- **特朗普** | 中期选举惨败，特朗普想了个“赢”的法子↓ <https://news.google.com/rss/articles/CBMic0FVX3lxTE9sLVp0OFQzeFotOTBfWVNuekM5ZFVITldmdHJJZXV1VU12NG5mMjB0UFZTaUR3RUk1VEhQMGJLTkhuS0t3Z1lZZEtUR3VrZkVabXpYSUVLUk1aMnNhWWs5ejI3akJaQmlHUzMyNUFuT2tRVms?oc=5>
+- **特朗普** | 以色列爆料“伊朗近期可能袭击特朗普”，特朗普减少公开活动，贝森特、鲁比奥等高官住进“安全屋” <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5mbVk0UEVBR1JSLWEzckM0Y0ZqVm9DTTJzUlVodDFhZnZWdDdNbjJJVzVhTjR0Tm45clVKcDk4dVZlNkRkZ3JCWlJYUE1rMDBpRHN1aTBjVUNxZjFQRVNQTXFmVW5DMjdW?oc=5>
+- **特朗普** | 新华社消息丨习近平将同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤 <https://news.google.com/rss/articles/CBMijAFBVV95cUxQLVQyOF9uSjFObXN1bEU5eHdUdU9rSks4a2owVVVqOFJ6TmJyQUdZc3RtMUVmb19wX3F6dTBZMXdwZXQ2VjZ6c1F3UE5KRUVoc0dzZlUtX1VkbzdFVHBLU2FnT1V2cndLMXZSSWFEaDc5YUhESXpZTGprc180b1ZfeG44anRBY2Q3anZTWg?oc=5>
+- **特朗普** | 特朗普盟友再遭质疑，国会调查战一触即发，民主党将矛头对准马斯克 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rQndPSXdrd01KM2trbWk3X180Q1lGMDFqZnJlS25ycXN5dU1kZzZjLXVSdXlFOWN0LWdiVGV2aF9VcTlELWJGd21ST2FrTzlWRUJz?oc=5>
+- **特朗普** | 美国全国停飞后各方“甩锅”：特朗普政府指责前任，民主党人嘲讽钱用在了凯旋门 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KUzNpWVQtYjBpdkVfWFhObnA3cWp1Q1Q3SUZTcmk5dEtDTC1EWURMZWI2NnNCT3BfcmlkUEt1QTU3MG5DMzRCYV9jX0xjWFdORDJvYzNNdGpYb2E4VmFnTQ?oc=5>
+- **特朗普** | 习近平将同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1xT2I1aWNXaWhpSElvZEN6WmF1M3g4WmliMVk4QlRianhydVhnaFFMZ0ttVG1sTW0yamhHSlNsZ0hMNV9zd1Y2S2VYcDI2VDlsdTVZdTF4VXNwTkJQbXB3Z0ZUR2R6dFh2?oc=5>
+- **特朗普** | APEC深圳峰会前瞻：中方确认美中俄会晤，日方盼习近平按惯例与高市握手 <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SdVRneDVXZWs1bHdjc09OenVRanc1UkdndzVnMWFfcXpIRThUVDNZMXNfazA0Sms4Y3hvOWJqSkU4Y0EtYy1pZUVENXVTc3ZXRkdrZlIzbUhRVlJWRkQ3MExjUDZFM1XSAWxBVV95cUxPbGFFXzhPMzI0SWhod0JCT2w4bTlkRGxZdkFNeDM4UlA4MGIxREF4RnpQTXFIekl4c3BtOHZMNXpvanUyVl92OVo4UC1vSFg3NENuZ3NZeERSM090N09nbDlic2JfUHM4WktzTUI?oc=5>
+- **特朗普** | 特朗普与黄仁勋是如何结成强力政商同盟的？ <https://news.google.com/rss/articles/CBMisgJBVV95cUxQODNUejhpLTJuVHVIcW0ycDVRbFVIOEYxNWI3WWFPblhBb3liT2lUdnR1ODZVcTJ5Ml9KUXBzSW1SSzdNWEZuTzh1Wk9FVUFpN1VkcEdCb0ZJNUFKUlBpaHdNMUlZVFdLSVdWODluRmhqZ2hmUnFWN0xZWUhZNmtNaHluNEZtenZLVkpZdDU1OUxneTJDblJDVWZwNGRDQVdhTEdBRXA0di1oN3NaVGllSnJSUzhvdUxRb2NtbDc3bzlVRWlFVi0telB0Q09tdWlyZmp2aTYzZzBUbTdkbWhTdjNiSUFMTjRYX1Y1ZlhZUEMtcng0OGFGcUJ6a2JiSVZiSUNZeHhWRTVmaXNhMkpWZEtSVDJoWFdhR21kZEVFN2M2eGhjT09KNnIwcXZpMWNWVXc?oc=5>
+- **特朗普** | 全美航班停飞影响仍在持续 特朗普催促国会：赶紧拨款！ <https://news.google.com/rss/articles/CBMiakFVX3lxTE9ST19Xb2dadUVia2NSMlRjTDFvSE1TaG9LeUM2WTBhMkk1LU56bDNjek9aU2ZFSURydWV3RHVCaU9YNnJQdlZJR1FScW9KT2drTDBjT0dfZHd1Zk9GaVBLNl9aSUVhdm5IWHc?oc=5>
+- **Trump** | 特朗普、习近平和普京将在中国举行三方会晤 <https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZUdBQVJaWlQtZWZIWTh5TmVBRG8xb1JNdnRwalhvT3ZCUmdSa3hYa3pxQTJ2Z1RtbWIzYUpETDRPREZfUHpyNVhQVHJHamF4cE1SU28tOUtVTTFVNG5jOHl3LW4td3gwa21DLTN2d3ZEdnlpRGR2UC1Fc1NKbk9RVlBNVjRFQUF1?oc=5>
+- **Trump** | 习近平周四将同特朗普和普京会晤 <https://news.google.com/rss/articles/CBMitAFBVV95cUxOTzhKcnhIVWIyWVhrRi1wb1M5UkYtSXVGU25ZQnNjUGNrWHc1ZjdVS0o4bGtvaWZRS2pBbmQ5eTI0N2x2LUR0RHpWZ1hoU2VKN1hDVGtBUGpGdHlnUnpNd3lXaHJNRktzcTdQOUw2RTZ4VnlnNURNTW5feFpkTWlyUHZxYy1hbHQycFA3N2YyWTAtN3RtWUxkZzNNRTFKc1I5VUloOW5xWnZ0RWVWVHQyQVZiVF8?oc=5>
+- **Trump** | Global News Highlight from AP <https://news.google.com/rss/articles/CBMiaEFVX3lxTE11YlJXSXR3YTA2VTQ0TlVFb3JuSEFYTXhhVDNqdGRrUzFGZ0gySUxwc3dSWFFxSzVfMDBJc0hqS2FQT3dzRGh0LVptRnlQcVRvZE1Hbll3cUt1RDhXNURkRTFxcmR3eEJp?oc=5>
 
 ### 2026-11-16 00:07  (5 条)
 
