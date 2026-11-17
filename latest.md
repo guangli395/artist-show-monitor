@@ -1,348 +1,138 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-11-17 08:43**
-- 本轮扫到 16028 条, 新增 **49** 条
+- 最近更新: **2026-11-17 18:01**
+- 本轮扫到 16045 条, 新增 **17** 条
 
 ---
 
-## 本轮新发现 (49 条)
+## 本轮新发现 (17 条)
 
-### 又是肖战演唱会穿搭
+### 王一博雪邦12小时耐力赛开票时间和购票方式是什么？
 
 - 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7810739724_m1d18e6e0c033034dxe.html>
+- 链接: <https://k.sina.com.cn/article_7879923111_1d5ae15a706801fqre.html>
 
-### 周杰伦演唱会580元票档仅支持看大屏
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1451977335_m568b6a7703302n0w2.html>
-
-### 钱江视评丨580元只能看大屏，演唱会门票是为歌手买单，还是追求氛围感？
+### 周杰伦2027嘉年华演唱会武汉站的门票价格
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1744332207_m67f865af03301lc9k.html>
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801q5ku.html>
 
-### “仅支持看大屏”，周杰伦演唱会门票引争议！
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5952915705_162d248f906703tjsg.html>
-
-### 热闻|580元周杰伦演唱会门票“仅支持看大屏”？中演协：避免将视野严重遮挡区域划入售票区
+### 周杰伦2027年演唱会开票时间何时公布？最新票务安排解读
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5328858693_13d9fee4502002lyyi.html>
+- 链接: <https://k.sina.com.cn/article_7879923118_1d5ae15ae06801qhrg.html>
 
-### 购买周杰伦演唱会大屏票需要注意什么？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068019zpg.html>
-
-### 周杰伦演唱会大屏观影区是什么区域？票价与观演体验解析
+### 周杰伦嘉年华巡演的大屏观影区在看台的哪个位置？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068019zn6.html>
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801q5g2.html>
 
-### 周杰伦悉尼演唱会为什么破例多唱很多首歌？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801q3rc.html>
-
-### 周杰伦在演唱会上忘词后是怎么即兴改编的？
+### 周杰伦嘉年华演唱会大屏票和内场票有什么区别？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801q3r4.html>
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd86406801a1b8.html>
 
-### 周杰伦武汉演唱会580元票档：标注“仅看大屏”
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2381872931_8df87f2301901mkcy.html>
-
-### 相亲因伴侣有异性朋友未成，周杰伦演唱会官宣
+### 周杰伦演唱会580大屏观影区的价格是固定的吗？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7811105939_m1d19404930330229dg.html>
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd86406801a156.html>
 
-### 周杰伦2027年巡回演唱会武汉站官宣，4月9日至11日武汉体育中心主体育场举行
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5288053096_m13b31496803301aniw.html>
-
-### 周杰伦演唱会580元大屏观演区引热议
+### 周杰伦广州时光机嘉年华演唱会大屏区座位示意图
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5953466437_v162dab0450670bi3r8.html>
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801q55s.html>
 
-### 周杰伦2004年无与伦比演唱会忘词时具体说了什么？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801q3jk.html>
-
-### 周杰伦为什么经常在演唱会上忘词？
+### 花580元仅支持看大屏？周杰伦演唱会 “大屏观演区” 引发网友讨论
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801q3ji.html>
+- 链接: <https://k.sina.com.cn/article_5953466437_162dab0450670bi5xc.html>
 
-### 人员密集场所演唱会注意事项
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_3334142714_mc6bafafa03301wble.html>
-
-### 给你一份演唱会观演指南
+### 演唱会明码标价的遮挡就不是遮挡吗？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_3053154652_mb5fb715c03301838y.html>
-
-### 周杰伦27年演唱会官宣
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1288429914_m4ccbe15a03301c0eq.html>
-
-### 周杰伦2027年演唱会官宣武汉站
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1777879301_69f8490504001anxm.html>
-
-### 周杰伦2027巡演还有哪些城市已流出消息？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068019z0m.html>
-
-### 粉丝现在需要提前准备抢周杰伦演唱会的门票吗？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801q3a0.html>
-
-### 演唱会录制直播是否合法，白银区小检解答
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924057_m1d5ae195903301tfa6.html>
-
-### 周杰伦演唱会580元看大屏争议后续发展
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801q394.html>
-
-### 花580元进场只能看大屏幕？周杰伦演唱会官宣，网友吵翻了
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1893475163_70dc235b00102i2dq.html>
-
-### 周杰伦武汉演唱会正式官宣，580元票档备注“大屏观演区，仅支持看大屏”，只买个进场资格
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5328858693_m13d9fee4502002lz1g.html>
-
-### 周杰伦演唱会门票引争议：580元票档备注“大屏观演区，仅支持看大屏”
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://finance.sina.com.cn/wm/2026-11-17/doc-iniyzsvz1746500.shtml>
+- 链接: <https://k.sina.com.cn/article_3203137375_mbeebff5f03302v0li.html>
 
 ### “580元仅支持看大屏”，周杰伦演唱会门票引争议
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://finance.sina.com.cn/wm/2026-11-17/doc-iniyzswf7615604.shtml>
+- 链接: <https://k.sina.com.cn/article_5952915705_162d248f906703tk9e.html>
+
+### 老实说：喜欢听杰伦唱歌的你们都是什么年龄～ 都准备好抢票去听演唱会了吗？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923674_m1d5ae17da03301t9v4.html>
+
+### 周杰伦27年演唱会官宣
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5095950706_12fbe097204001eshe.html>
+
+### 周杰伦27年演唱会官宣，武汉锁定兰亭序
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1784505422_6a5d644e0400147ie.html>
+
+### 花580元仅支持看大屏？周杰伦演唱会“大屏观演区”引发网友讨论
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://finance.sina.com.cn/jjxw/2026-11-17/doc-inizacmx5328829.shtml>
 
 ### 580元票档备注“大屏观演区，仅支持看大屏”，周杰伦演唱会门票引争议
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://finance.sina.com.cn/roll/2026-11-17/doc-iniyzsvz1695258.shtml>
+- 链接: <https://finance.sina.com.cn/jjxw/2026-11-17/doc-iniyzxcx1664967.shtml>
 
-### 周杰伦4场演唱会想看人数合计超620万
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://finance.sina.com.cn/jjxw/2026-11-17/doc-iniyzhhm2292163.shtml>
-
-### 花580元进场只能看大屏幕？周杰伦演唱会官宣，网友吵翻了：非要去看吗？
+### 580元只配看大屏幕？ 周杰伦演唱会“遮挡票”秒售罄！黄牛炒到2600元，网友调侃“跟看电视没区别”
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://finance.sina.com.cn/wm/2026-11-17/doc-iniyyzyi1865521.shtml>
+- 链接: <https://finance.sina.com.cn/jjxw/2026-11-17/doc-iniyzxcx1652998.shtml>
 
-### 习特会前夕，特朗普顾问围绕对华政策激烈内讧
+### 580元仅支持看大屏，周杰伦演唱会门票引争议，网友：不如回家看电视
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-11-17 03:53
-- 链接: <https://news.google.com/rss/articles/CBMivwJBVV95cUxONHE0RVN0TkxqZ1A3dGI5Wmd1M2ZXVjhuTnZodUROaTBQdDZQWk5aMEh6Wk80Mzl1U01JdXJQZUktaWtaRWtYYk9DLVBVWlF2X0tINmloaVR1UDBVNVdmSzcyZEw2eFJVckQzaWxFWVNxd2xfM3owMnQ1WXFsNHNoQUYzQzhISlNIb0R3UEUxa2tWaFdBdjY0SHVZUU1xNHdkdlp4Wm1laWRYRXFKTXVhYkl0ZWZnRElnY09saXUzaTc5NFJkblgyZGdGS3ExZ0VfcTRYRnAxY3RleUlEMTh3bTdyYWhlVllBVldUaWY4VXo5RmRmaXp6b2Y4U0JkX1VhdEVlc2RlYmtBQXdqajhQTEVhc0R1ZnZ4WldDNE1YSUFuODNKTWxhQmhDYzBRbWw0OEg2V2VOa1J3VTUtc21n?oc=5>
-
-### 特朗普支持黄仁勋复职，英伟达董事会仍不考虑
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-11-17 02:17
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE93Zmx6a1ZvVVltOHBDSE1KN0JFQzV1WUlqSzhVTDk2UUd4TlhnQ085Nk5MZWdzeTlaLVh6ZDJ4bGVFcUNoRVpKSDhUeUg?oc=5>
-
-### “让黄仁勋回归”运动：Nvidia驳斥　特朗普支持
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-11-17 05:54
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCdGUtWmtpVjl0X0NqWFdNdEFESTJTVm1qd0l1WDVmbmlqMWpTYXBCYXlXSDJkcmVwNG1fLWhJU1JoZ2tYRTQ5akdzWkxyVGFDV1ZCTDAyZ3lfVHVVRlpsS3FKVzE0SDjSAWxBVV95cUxQV0dJRTZMYmFOcl9nRlRBdkpneFA4V0hKa0ZxVVZyRTE4T1B1QWdrQncyQVFKUXV4ZlBoaXA2c0p0TGhLQ3NfcUNGMi1jZGxnTXFSdW54VmZlZ3k4Q2JpUk5WOWpUdWM0b1VkRVI?oc=5>
-
-### 特朗普称或会向习近平提黄仁勋被针对的间谍指控：我不知道她是不是间谍
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-11-16 17:13
-- 链接: <https://news.google.com/rss/articles/CBMi7ANBVV95cUxNVHdJOUZqVUlRcGx0V0x2RzFhcUhkeWRGeFdQRkYzZlVMNUdvY2tuQnhhQzlrdjd6U3FCU2NqbERUS05qUlBjQXIyT3R4eEVqTl91V3ItaURXNFlVSnJNeG5uQkVGV1pOREJJdl9yRUpzYjAweGRRSnd5STZEOXUxamw1SDhCczlxdkRLUTdDTFFYbVA0cVBTaXhmZVZFRDZOOVRrMEhzLUdUTXM4NGItZGNUMFlQQl91N0ZhWVRQUHpHSVZUZE5UQXQwM1BoQ1p3b0twZ1hZeWxNOGplQmJHN1BNMWJNQW1aSFNXb2J1ZktNcVp2LVRFalVBa0Y0QXlXS21GVGZhR09zZmJEUzJXUVJRM1dQQVdRTl83aWhpRFVBd3lXWFFmTnFvdkpKY3pOaTliU3NxUHhIY3VpZlRyUEM0R2UyNFNLRjFKdFlrYzQ3Z3JzajIwM0lTOEtvc1RLVGJkLXFEMjlMX3FEQXhmd0stckM2c3pnVlhFU0xSNUJGWUFhVTJNZ0hOdlVUdWlkQzNNdTlPQ1Z4MlZsVXpHRjRGLXl3em1rVWEwMmpOVkJlX0JTX2NKLWdac2pGaDJ5T1B0RDZTWEtnXzMxRm42M19ZTDFVNW5vclh3NGo3cXlmeUhLUi1JSjRqTUQ?oc=5>
-
-### 特朗普账户103次买卖英伟达股票，交易额最高9750万美元！-市场参考
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 金十数据
-- 时间: 2026-11-16 16:19
-- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTFBiYkRURzVmOUNWREFOQ0ZmbzZMTjJVVFRESFZUVzVCTWhDU0Z1SGh4NHdWeUI0Zi0tWHZoQjBaUmdkc2hGbkRaMS1YUVZ4ZEU?oc=5>
-
-### 风波爆发前特朗普持仓英伟达市值最高达6200万美元|唐纳德·特朗普|股票交易|黄仁勋|坎托|交易_手机新浪网
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-11-16 12:30
-- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxOTkNPMW02Uk1RME01NWFNdzkyYlpXdHp5Y3pBdGRSelZqQ00xa0VSTFU2Z1Q5clllSW5LQV9QZW9IZXR2aWNsVzR3X2hla2VFVmdmTjJSQVVhTWJJVDZQZHVfOGkwd3gtOE43OThaVnFBVUotU3hQeTRIWFdWYXk3U2kxSFVXSUpjTFE?oc=5>
-
-### APEC期间特朗普与普京将在中国会见金正恩？外交部回应
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: ThePaper.cn
-- 时间: 2026-11-17 07:52
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBoNFN3Q3lfSDZnR09RLUZXS1pEbzNPSkdRakc5UzBnT242SFhUQTB3NFE0M1Fmc0U0NkFGZzFjZy1XY2lhOUdsRUVla1ViNGxBZ1NoMDV0SEppVXFtT3JJag?oc=5>
-
-### 特朗普表示可能会在中国与金正恩会面，外交部回应
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-11-17 07:17
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5iWjR1YURjUDhadVlhZ0Nyc09ZNmZkRE55R2VNX00zXzhMSGVEOHRDc0otQXhSakV5cWpnQmtCNXFHOXVqY3pCTGI0dnc?oc=5>
-
-### 中方如何评价特朗普称“可能会与金正恩在中国会面”言论？外交部回应
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: ThePaper.cn
-- 时间: 2026-11-17 07:25
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFBSUmphRTEybmNGd1VPWkRjM29mSTI5OGhsdTZkbmlndVVyYnJKYjB3YnhUN0xSUWRFQ1E5RTUzQURQWXhueXlJR19FT3d4YVdKeHBESTdxbGJrSGp0RmFHV1poQ3FWd3AwR2FuVVNPZlVkQQ?oc=5>
-
-### 特朗普的对华豪赌正适得其反
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-11-16 17:43
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE41QUh3VEx0eHdkWDZlNHduSlIzZ29hZ0h5YkV5dHBtR0l4WHQ1dkwzQjJTTkhnd2VyUm45THhMdGRXeFJBZlBGMmFITFpJbzc4NHNkdjJBYnpfYk4taWRFazZYMFlCaF9Rb09aRHVzTW4xdHdhZEppcw?oc=5>
-
-### 内忧外患下展开亚洲行 特朗普会习近平面临新考验
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-11-17 00:02
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE9kM3FzTTZwYWNhQ1ZrNkQwSmt3T2dLZThGR2JNaWI2WnlXbGRCTnVNZjVNQVh5a0R6YXRjeEJGOE52OS0xLWxqVkNzX3FMZC04OHlVUjBYZlU2TzFRMXNSYlRwRUZiaDdTdVhN?oc=5>
-
-### 中期选举惨败，特朗普想了个“赢”的法子↓
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-11-16 05:59
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9neFlSX0dPYlhHMmR4YUc2c3pLY2hjNVV4ci1hc3J4Szg1N1pFcmFyd0h3ZTdOUU1WNWlkRmlMU3dFZzZacTJjeDZFZ01mZWFBQ0VNOWNfM0VaMXU3c2VSV0M0WkJSd2E5LWVIbXhGQ1k?oc=5>
-
-### 关于特朗普访华及中美俄首脑会晤，你应该了解的
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-11-17 02:43
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE9sODR1alBDd0tCZFdDcEpiVlg3eFJHQWlRZ3hDSTBVQUo2MEgwOVJpNTl4dzRVbGI5Z3FQZDRINkFyNi14UnNENVdXcDFhWGc5YnRpbjZIbVJTVEViVkhCRExJY0tZa3praGdfS2dtMlBCZw?oc=5>
-
-### 联合国秘书长告诉VOA：如果美中俄能致力于实现无核化议程，那将是一项重大成就
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-11-16 17:06
-- 链接: <https://news.google.com/rss/articles/CBMi_wFBVV95cUxNd2dhXzRESndUZmFmOTFkZ2hxb2Y0M1FWRGxZQ1U4RmRNa0JRWGJUMWFXeWZnbGktZzVHZlZGRzg0cF94Qkl4dWp4Rmp6VC0zVnhST2FjcTF1Y1BLZ1B2cld5SDU1RHRtYnU3bGNsYnpvcG9Kb3FLS24yaWRsZWtQNnQwZXhzQmhWTzRPc245b1RndWNzZFlpWmpVeEtnSHJ3S1drbXhLMkZ4SFZOYUFoemNuUi1nUkl1QmtEc2lOR05XeEVOdG9aQW1tbkZVMUlCU1QwRFZUdnR4UG9CRnhRbGZIVWVUVVo5cEtHcWFTYTZ6M2RXVF9QMHZqVURUbDTSAYICQVVfeXFMTXlDUEZLOWRaTmxCdWUydHh1Z1RURGJsTmgtQkNKdUdiclgxYmNBSXVSR3NlclBpOHppV1F2SW03a0UyQlV2QThGR0t3djFuUk5UUUlxSm9iV1h5RVl1bDdaYVgwLS04dXV0VlNFeGdmcEtRWFpoZTdacmxYWHZsQW1xWUdtVllKYURBU3h0MzdVZlk4YVhvTHdNWFhvNzhPbFVHdDJCQkg1UDQ5U29DVGRNYkhZbjMtNEZySXdDUjQwMFBrRU8tNlJLZ2tHa1lhNm56RGE2c1F6aVpGNWlURkhvMkZzbVNoN1h5eGRPSWg5eDZ0ZmdERnliTEVnci1zM21R?oc=5>
-
-### 特朗普访华前，美国推进新规封堵芯片出口漏洞
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-11-17 02:21
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFBpU2V1WnZhcjJrRWgtMzBsUlJhTjB1Ymw3MU1QS3hPcmZlNkpXT3g3U1hJOWdrekc0TlFMLTloOFphajQzZ21CRjJMQks1UHlndlZCaWZ6czdEbUN1SFlvdFVBZ2tqNkV3blJFX1hrbzNSNHM?oc=5>
-
-### 全国航班停飞后，特朗普政府寻求为空中交通管制系统升级追加资金
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-11-16 17:28
-- 链接: <https://news.google.com/rss/articles/CBMi9wFBVV95cUxPTmJtYWhWZ1p4WXdzQlZGWnZMZHowa0FadGdTbDZnZ2NnV21LZVV5SDNxOVRtZUJabmRLdTAzWDgxeXo4ZGdZWE1HZmtCSW5sVkNhbTJTQzZ2YVYtTVJGdmZHNGljSUp6ZXF6Y2NBU0M5M1QxenNIRlZiTFFiTm53c0NkU1R1REtTNjN3RkRNM3RzM2xMV19Fak1RSU93R1RYYlBBWFNWUnBZMjFWbDE0SWpESXg2a0huaEh3ZUhWYmRBNEJnV0E4aTBCNWdxZWg0LWZpMWRQOTRQeExfSk5SWVgtZWFSbFFib1RFMjdaZmNWd1VXZFlv0gH6AUFVX3lxTE04VzFUdE1tQXNteU1VOTVJZ0VDT2Z6amNrVkVpeXRTaG84ZXlyaUllZVNnV0lsR3ZPd3FFdFdrUDlaWG1XY1Vtbzk0OTRMM0w2emo2YllMZnhzbnItdUdnX0oxazhXX3hZUHR6UG1ERUIyWXRkTm5YSkMtMmtOano5VURXMzRDdXVpaWcxOWpCY3pZRTBXcmtoOWxBRDRHT00xU3k2WmhvVmZJalNPUEEtNTByM2hQRlFBUkxZb09wWUM1aEhjV2p2YzZOY0JETVRsZmZZRy1QcXJFbEdEbTdkZHJNdEc5eFZBUW8xTFVLU0pxcmpSTTlJY0E?oc=5>
-
-### 卢比奥：针对伊朗的经济压力正在发挥作用
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Voice of America English News
-- 时间: 2026-11-16 19:55
-- 链接: <https://news.google.com/rss/articles/CBMivAFBVV95cUxNTXF1Q3Z2WUc0enN6YUcxRUJrWVZMdE1ObUMwTW43RUNFZXNPUEE0SWdDUkJMQXdhQUJzRjhDdThtTnBpM1dVQ09nampUdzhPTzNuVkI0ZjZSNWdyZ0x4bkVabVdCY1RiWTl6LUNjZTJrWGMtVFJvanJycmxObWtTSkpNN1VsMmVId2lpNm5rUnVrM29ERU1FUjYxN010ZnR3M0tDMU9rdXRPMzRoMGY3NWRSak01Q1U2OFdzaNIBvwFBVV95cUxPcTh6VmJndEZKaEYyRU9ROHB1cUlDSDhtdk5EY3FHa0t6Y1h2Y05oV2dOYXBMd2h2WDJXY254VHZSVW1zNElqckFaT0o0ODFrOTBpelJWN1RXellkVFJTMmRKalNiQ3lWOGNwbVYyenVoWTlzNEctLWhtNHZqRzZxenJGYURSLUNJNzJJd2YwTVdXNlI1SDI1aGVYN2xvd01ENFptenFqd3FKLXBlNnNHdVVXOFNvdC1vVmI2LXljWQ?oc=5>
-
-### 大家该醒醒了。trump一年前就知道这事。锅得他背。抗议活动即将爆发
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
-- 时间: 2026-11-16 16:20
-- 链接: <https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbk40QzJ6ZWowTnhTOFM5dzF3dlRVdXU0MmdzLXppZ01ReVp3azlFQ2g3VHRrY0laNkoybnJkY29aQXZjT1dUSTVselJQc0Jkb1cxNHhmcGlrMDAxN0ZmQlU3bXpqQkxFdkxXYThfTWxYOG5xWUNwNE96YjQzd3ZEd3k0Vy1BRXRoZUtvTjd3dF9ROGpMcS1ISU9fZF9ZaDItTEU4eFZtUVE?oc=5>
-
-### 特朗普表示：深圳三边会谈将讨论去核化、伊朗局势和俄乌战争等议题
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-11-16 23:15
-- 链接: <https://news.google.com/rss/articles/CBMivgNBVV95cUxNeXlyT1pOTWRWUVc4SEo0Q1dvVXZoZmlramVNTWVsNjZmaWlheTlHek1EcGtjdFpfUFEzMnk4RmhWSEtmcWlWZGxSb21YM0dZNFJYdURpcG1Ya0I5WURYUjEwaUQ3YXpvRXlpWlJUaExKMGZ4cU82OV9UemtmbUtqQVN5RHlvUzQxYVI4cmcxMlVvYkhRLW5WWkhXRGw4eDVOZUVKQU8xME1iVEZlV1U2QzFxMDlRX1FTcWYzQXo1bEFXcklqLTRSY2NBckZ4V2QzOG95WkJaR1hpX3lOSGExVUFHX21LTE1KdnFuTzhkUmdvc1VLaVdrSGp2Yk0zS3o1MEh2b01XOUdsb1E3aDNIamFxV08zRE1aUDJsUG1RdGJjRnd1X2ZyUThleUh5TlhuanYtVUU2aVRSYk9iR2c4LTJEblNYd0ZaQmJ1TXhwU2dJTjZUZDdSMUpWNURKeVo4Zm9hVDlwdGZQWHFvSVgzZTZ5Q21QS0ZIT1RCSEV4TW5DMlVscHRBbjdfR3pwUURmV0hRbE12em1NTUhYNFBmVVYxay1tbE5QVjdLa3g3WEVBQjJLRnNXN2x5QlJpUQ?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://finance.sina.com.cn/wm/2026-11-17/doc-iniyzxec7540617.shtml>
 
 
 ---
 
 ## 历史发现
+
+### 2026-11-17 18:01  (17 条)
+
+- **王一博** | 王一博雪邦12小时耐力赛开票时间和购票方式是什么？ <https://k.sina.com.cn/article_7879923111_1d5ae15a706801fqre.html>
+- **周杰伦** | 周杰伦2027嘉年华演唱会武汉站的门票价格 <https://k.sina.com.cn/article_7879923021_1d5ae154d06801q5ku.html>
+- **周杰伦** | 周杰伦2027年演唱会开票时间何时公布？最新票务安排解读 <https://k.sina.com.cn/article_7879923118_1d5ae15ae06801qhrg.html>
+- **周杰伦** | 周杰伦嘉年华巡演的大屏观影区在看台的哪个位置？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801q5g2.html>
+- **周杰伦** | 周杰伦嘉年华演唱会大屏票和内场票有什么区别？ <https://k.sina.com.cn/article_7879776356_1d5abd86406801a1b8.html>
+- **周杰伦** | 周杰伦演唱会580大屏观影区的价格是固定的吗？ <https://k.sina.com.cn/article_7879776356_1d5abd86406801a156.html>
+- **周杰伦** | 周杰伦广州时光机嘉年华演唱会大屏区座位示意图 <https://k.sina.com.cn/article_7879923021_1d5ae154d06801q55s.html>
+- **周杰伦** | 花580元仅支持看大屏？周杰伦演唱会 “大屏观演区” 引发网友讨论 <https://k.sina.com.cn/article_5953466437_162dab0450670bi5xc.html>
+- **周杰伦** | 演唱会明码标价的遮挡就不是遮挡吗？ <https://k.sina.com.cn/article_3203137375_mbeebff5f03302v0li.html>
+- **周杰伦** | “580元仅支持看大屏”，周杰伦演唱会门票引争议 <https://k.sina.com.cn/article_5952915705_162d248f906703tk9e.html>
+- **周杰伦** | 老实说：喜欢听杰伦唱歌的你们都是什么年龄～ 都准备好抢票去听演唱会了吗？ <https://k.sina.com.cn/article_7879923674_m1d5ae17da03301t9v4.html>
+- **周杰伦** | 周杰伦27年演唱会官宣 <https://k.sina.com.cn/article_5095950706_12fbe097204001eshe.html>
+- **周杰伦** | 周杰伦27年演唱会官宣，武汉锁定兰亭序 <https://k.sina.com.cn/article_1784505422_6a5d644e0400147ie.html>
+- **周杰伦** | 花580元仅支持看大屏？周杰伦演唱会“大屏观演区”引发网友讨论 <https://finance.sina.com.cn/jjxw/2026-11-17/doc-inizacmx5328829.shtml>
+- **周杰伦** | 580元票档备注“大屏观演区，仅支持看大屏”，周杰伦演唱会门票引争议 <https://finance.sina.com.cn/jjxw/2026-11-17/doc-iniyzxcx1664967.shtml>
+- **周杰伦** | 580元只配看大屏幕？ 周杰伦演唱会“遮挡票”秒售罄！黄牛炒到2600元，网友调侃“跟看电视没区别” <https://finance.sina.com.cn/jjxw/2026-11-17/doc-iniyzxcx1652998.shtml>
+- **周杰伦** | 580元仅支持看大屏，周杰伦演唱会门票引争议，网友：不如回家看电视 <https://finance.sina.com.cn/wm/2026-11-17/doc-iniyzxec7540617.shtml>
 
 ### 2026-11-17 08:43  (49 条)
 
