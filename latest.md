@@ -1,234 +1,47 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-11-16 16:49**
-- 本轮扫到 15975 条, 新增 **32** 条
+- 最近更新: **2026-11-17 00:36**
+- 本轮扫到 15979 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (32 条)
+## 本轮新发现 (4 条)
 
-### 许飞热度上升获夸赞，王一博新专辑跨年推出
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5088750024_m12f5029c803301m1p8.html>
-
-### 周杰伦演唱会票价惹争议！多场次最低票价580元备注仅支持看大屏，网友吵翻
+### 周杰伦嘉年华巡演内场票和大屏观影区票的区别是什么？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5953189932_162d6782c067054b6y.html>
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068019yxa.html>
 
-### 周杰伦演唱会票价引争议周杰伦演唱会580元票仅支持看大屏
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5952915720_v162d249080670562ws.html>
-
-### 周杰伦武汉演唱会各价位门票分别是多少钱？
+### 周杰伦广州时光机嘉年华演唱会大屏区座位示意图
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801q1h6.html>
-
-### 周杰伦武汉演唱会580元仅支持看大屏
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1640601392_m61c9973003301ph2i.html>
-
-### 周杰伦演唱会580元票档仅支持看大屏
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2011075080_m77de920803301qh8g.html>
-
-### 周杰伦武汉演唱会审批通过，嘉年华2027世界巡演已上架
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1451977335_m568b6a7703302mzmg.html>
-
-### 周杰伦演唱会票价惹争议，多场次最低票价580元备注仅支持看大屏
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2381872931_m8df87f2303301mjtg.html>
-
-### 周杰伦此前演唱会是否也设置过类似的大屏观演区域？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801q18m.html>
-
-### 周杰伦演唱会580元档位门票在票面上有标注观看限制吗？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801q18c.html>
-
-### 周杰伦武汉站演唱会580元大屏区能否感受到现场氛围？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801q18a.html>
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd864068019yoq.html>
 
 ### 周杰伦演唱会票价惹争议，多场次最低票价580元备注仅支持看大屏，有网友认为性价比高，也有人表示舞台和真人都看不见
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://finance.sina.com.cn/roll/2026-11-16/doc-iniyxynx5886218.shtml>
+- 链接: <https://k.sina.com.cn/article_1921169281_7282b78101901c4ie.html>
 
-### 最新 | 正式官宣！著名歌手演唱会，吵翻了！
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://finance.sina.com.cn/wm/2026-11-16/doc-iniyxynz2642076.shtml>
-
-### 周杰伦演唱会票价惹争议！多场次最低票价580元备注：仅支持看大屏……网友吵翻了
+### 周杰伦演唱会580大屏观影区的价格是固定的吗？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://finance.sina.com.cn/wm/2026-11-16/doc-iniyxuez5923652.shtml>
-
-### 周杰伦演唱会票价惹争议！多场最低票价580元备注：仅支持看大屏，网友吵翻
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://finance.sina.com.cn/jjxw/2026-11-16/doc-iniyxuez5895697.shtml>
-
-### 周杰伦武汉演唱会票价陷争议，580元看台票备注“仅支持看大屏”，有人称“性价比之王”，有人觉得不如回家看电视
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://finance.sina.com.cn/jjxw/2026-11-16/doc-iniyxpwx1143541.shtml>
-
-### 花580元进场只能看大屏幕？周杰伦演唱会官宣，网友吵翻了：非要去看吗？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://finance.sina.com.cn/wm/2026-11-16/doc-iniyxpxc5965583.shtml>
-
-### 周杰伦演唱会票价惹争议！多场次最低票价580元备注：仅支持看大屏……网友吵翻了↗
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://finance.sina.com.cn/wm/2026-11-16/doc-iniyxpwx1116515.shtml>
-
-### 周杰伦武汉演唱会正式官宣！将于2027年4月9日、10日、11日连唱3天
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://finance.sina.com.cn/jjxw/2026-11-16/doc-iniyxiqz1165206.shtml>
-
-### 特朗普总统启动亚洲之行 首站：菲律宾东盟峰会
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-11-16 14:42
-- 链接: <https://news.google.com/rss/articles/CBMizwFBVV95cUxNRU1BMVozdnZSUmN3bDctRmN2RVBjWVYxQmozdEVHQkxkbTNOVVpibjFmT2Vkekt1bXhZcktib1JhcFVqMmJFOVFJSnNpc1U2QmUxZUpWRG5OdDhpZEhzaUN4aWZ5cUFyT3dZWjZVZVlrQWZtWWM2dlZrckVXak9MUklpdFMzOENXYkJrOWt3ZHY5d29GNnNXbWpnOE1PTW00OHpRVlJJNVlVcmFUalVyc19qd1Y2Nm1VOUI2N2Mtc3ptRmhqWGpNTTVXeDlNSlnSAdIBQVVfeXFMT1M0Y0pFOWMtS2Y0TnU0QVdKb0E1WEQ0MFF0R2FHRURBc19qa3VGcjQtUkNUWXZ6elYxa3pLcjRQQ3VFdEZJMm4yNFNiSGZwMWxKSkZZaVZXR3Y1alRDZDlTeXl3ZzlwRUZJR0pLTG9vVW9MOW1sS05jRVgybDV3SDFXRDJWYVg0b1F6OXJVR0pKQmxFNUZUQVZQeklzTWJIcFZyY2t3VFZmOUQzQ2s4SXhuMno0YVZOakVxdjdOb1B3Z1g4a0ZtRXlUN3VKOGdpRUhB?oc=5>
-
-### 习近平将同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 湖南省人民政府
-- 时间: 2026-11-16 08:36
-- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE1meDNvaWJBbjNsbDV1dTE3aXNhSk5rVXM1Yng5aGZlX2xUTERwWk85ck1vcFJwTktSd0cwT2haOTBKWndHQ3UycEFGMHU0c1JmeVM0UllEUU1RRjJDdVc2djdUU2s0M0Q5WnJoc2QzbTRSYXRud21jZkRrNXo?oc=5>
-
-### 特朗普称可能会在中国与金正恩会面
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-11-16 15:11
-- 链接: <https://news.google.com/rss/articles/CBMinwJBVV95cUxNYWFKbmhsNUM4bERCU29UNGU2anJiZXktLTdldGc3d0RnY2o3aWFhR2tNOWszZ0Y5QUR3T2ZZRnA4b2ZSdDdfZl9HSWR5Q1F6bXphMS1JendJM3UyckZKc0VfV1lfYjRVYXlKc0tlM0pTdlVKMzhFdzc3NE9TMzU3bVNqZFdjaG5Kek1ya3dFeGRZTVE4b3F1MUZWaVRTbXBBNnNOUUxhMkc2TDFKNXhYWGlIbnVjb25BS0k0ZVpSUW9fVGJYTTBWTkpUemE5UjlHLUJlMGc2Q3dMMXFUMDYwcExPczJTMng0ZHp6ek5LWmw4bTU5alBuUnZIQVhEMmRYOGRCbGRaai05T1Ffa2dtZTZPMkpmTjNILVRZSFpUTQ?oc=5>
-
-### 万斯被曝考虑退出2028年竞选 面临处理与特朗普关系等考验
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 财新
-- 时间: 2026-11-16 12:02
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTE4wMGxrdlpzSFZZNi0wZkdGSERHT3p4RWU4OThNRDZUUHp1ZEl4d2tHaGh5LVZLRTk4Qld6cTNpaTBVeElzekVmSWFRWk0xNFdUYUtwOHRZR0ZXLVRsMWVJNkpoZWoxSEFUbVE?oc=5>
-
-### 特朗普：可能在中国与金正恩会晤
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-11-16 15:04
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE9GV0tRajkxU0lkMEVoa2ZVQXFSc0RJdDk3ZktybDNJb1Fxanh4SElXNVFocnE2ZS1tdVFzNnhMLUxxdUtobkhubGhIMVZvVUQyek5nTVVtaFlrUGEzSkhvbkVBNlpTLTI1TThF?oc=5>
-
-### 特朗普周四预计先会习近平后举行美中俄峰会 深圳加强安保措施
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-11-16 12:11
-- 链接: <https://news.google.com/rss/articles/CBMisANBVV95cUxPVFprZWNpY2trTURuZ09fbWRxZW13anNEb3V0bU80NmpkTXljVTZ4a0ZPUHBjVDQya2J0cTJRdWkxLU9PdXQ1WmlKT1BuRFpZSE9XazVlWmxZSDVQeE1fTVRmeDgtbWdjN2NQc3pfTFJwUG1qTHVlaUJmVFpPODJEUmw1M3JNc0dNX1JJbVRzZGhMa2JYaGZ0RGlSbld4by1tWDRBZUF5MlU2T3BFOUdaQ1NnOFFjSnNRd05ISXpvX3FvaTVIVlJVeHh1dDRINVFnekstcW81VjFGUTJVZDdDWXV1d0dnM3ByQjFQTEZQWGM3LUdLTWN0WWVnNTA1bko5RWZqSm9mdUpJb1dPRWpFR2p4YS1HaHg5dkpYQ3pKd1d3NDhWMG1ieDJBRWZZd2lSaERVb0l3czFaR3VlTEl1RVdJMXpKdXExanJiWFFCUEh3YmpYUG8yaGFPaHRfVEpGbHBCd2dxbmJidEdLSVE4NzZuRjM4TW13TkdldkN3WWIxTXVnTDE4Q3kxNWU4TVA5M3ZRRUpQNXVwSk5BMTBZWjJZZ3duN0JWSTRrc0FHQUI?oc=5>
-
-### 长平观察：特朗普习近平普京或在深圳会晤，俄方有人期待它成为“新雅尔塔”会议，我看更像破产的“1984”国际秩序
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: DW.com
-- 时间: 2026-11-16 09:53
-- 链接: <https://news.google.com/rss/articles/CBMi3gRBVV95cUxOR204Q05BZVBuXzdWNUU4R2dtT05TdWdMU2pOMTZ5ZUh5WEFFbEpMdnlSdnlPOTI5RV9nM0g2RHUwcXFnTnBzRVVWcGV1aVNIR29qempuVUpTekpueEE5a2FJNG1XaFlLUVlWalNJc2hib3FlUnZIOWpvNmM5MFJOOGN1SUxwZHJfMm1seHl4TzBVUkhpWV9Cc3NnNVZCVXFfTGt2aXJ5cVRody1OU09KZHhheFRnTVk1bHJqQ0M1cjhKS2hJX1BGYnM4ZkVfcDlNSExxblRGS1Q0ZW44OTgzLTNSVEs0YmtGLS12amItU3lsMjRvY2NXSC1HS1hVSmQ0VFlwYXdUWVh2ZHpHMWFRWjlZci1vN1hCOVFQT1JKbEs5SVNhMy1jUVNQd3NZWktXN24yc3kyWTloaTEzR2RBc1R4b1ZJN0FibW9WT2thdy1HRTBNQUs3Q3NhZmFfbXlIa3NrcXdwajhzbUJlYlB1ZTlQbUg2TFA1UW16Y1hBdkZUR2pqQ09fTXpXUHBRbnMyWElzazNKaVBndUp5bnhjSk1vUEgtTFJHZVV0Y1VkZThnbExSam91eURRSHdyUFQtRjVUdnBRclpQWm1oZWFaNUd3YVF4a295UF9teW5hcEFpaUdKUU5GdFdFUjNPdWZYbnJrdm5CZUkxcDRmUnNnYzQ3dnI2X3Q2M0hZbG04dGROLUt4dWVLcVpJWjlmVE5vWXBXOE84Slg1MFdiNDYwNjVKSFBIcW9ySk5pelhoRm9LY3M2TzFPdHk5MkNPemtLYUl1Z0F1ZkZwUl9tS2fSAd4EQVVfeXFMT0p1ajFaTFNBS1BJZ3JiMXJGajNBX3IyOTAweHVfRWdMUW5hSlVNSzNRS1NVWXprNVlTQkZuUVIzR3piQWwyRzlwVlJFVDVQdmJuelVNeW5yYTBubF9NNzd5SXcxcDJyRWdzWUl1ZWk1RHZIaC02WHJJWUFlSUs5aVY2WWFGc2p4UV92cFpINWR0TVhrU21Xb2h5ZnZyN2h1X1hod1JjV0o4cEZyaHpLMFNNS2tXMFlWcHlhQzhhQ0pFaFFaV2Z2OWNhaWY5YjFtdUdBX0dEbHZwYkliVU9SWW1GMXhsX1NINHVFaG94Y1NaWGdTMmFTU21LNmE1S0pDMkZBeEJQaWRabXp3TmJTTWNzdzhmb3o2V0h2Tk1vZjlUY1FOME1vemh0R3hKMUpyU01CejBHX25NMFhaai0xNUtVZXV1Vl9GWXNQbE1NU3JUdEJqb3RDVlhTLUd2amJmREx3eEhsVkRNUnE5Wl9nTFJQaGx1dkhWanB5emNJZ1NLUHBWRS0wZ3p4YWVZeDIxZW1nVXlUdjItTl9tMUJVSm5aUDF3bGIyTmE3Tl9EZXZYaGttMGZvSXlwb3hXSVJKSFFudGFQRDgzSzI4dzJ4QkVmUUZWWHVaVzhnMjU1TmlPS1VJT0xvbE5YaUF6NXNlakdRZ3BGMkdVa3dLRndRM2R6T3ZiU09kT2ZObXdVY0pyOGRXbjNUVkFMRXNPRGRjRTlaY09GdXBFWGZxdi1iajR6VXMyN0FKb3c3TEFMeXMtVDFQdndfZGJlVFBWLTdQVmhsS1k5ZkU0UVkxX2tB?oc=5>
-
-### 黄仁勋事件爆发前 特朗普持有英伟达股票价值据报可达6200万美元
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-11-16 14:18
-- 链接: <https://news.google.com/rss/articles/CBMiqgNBVV95cUxQNm8zMlFlckVzNnppaHdVaWFzWFEzckZ1Y2lNb3JnOFkwdHRSWlVJaEFwNEc2MTc3M0hfM2VSbFE3dUVBd1hseTRVbC1NRGZ4cVU2S0Fta3J3UGV5U09NdjF3ekpVTlZkQ3oxcGhrUkJWc3FGVEpsZm9WZGtESHVRY05hMmZHOHlSS3dBNkxPdU5ZeldJSlIyX2RqWXh3RXBrVXVwdjVFWmF1amQwSDFJRnhqTVVvb0VudUpBdTBnTklTd093UkFaNV90dl9oc1ltRGs0SGNyTjRZZG9rdWs1bVA4UFZzXzZlQkZDWGlBRXN3a25QUkRrblVFUFFoZDhkV0piTkplRUFySUFtOU41dl9pcFJiaWREeWZMcWY0dGZiRmNhZ1g3Nk9FUWVzUGJnYmI3NEFUNS1wb2RadkRtMzRubjJLam81cWxXdkhheVQyVVNwcVYtcDFTVy15TDhhN3JaMlBLbFllVGhvak5yRmM4Z1JxV2hWWEhWNS01S29ZcllZQl8tWVNGNXJGcHd2T1ZUQkoxdERYNzBURlkxWHJ2eWFwSWRfdkE?oc=5>
-
-### 特朗普：不介意看到黄仁勋重返英伟达CEO职位， 我想他吸取了大教训
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-11-16 16:26
-- 链接: <https://news.google.com/rss/articles/CBMitgNBVV95cUxQaE1TUmtOeUxhdUdBRVNpMkZNWkxUMGJJckh2M3VlbGVEYUw4dW1sZUctc28xVzdWS1VKUTNsdkE0VE9rZkxFWUZSNDlRZmU4X0JnNElIRDRxbXhCam9ZLWpvVTdXWkFUYzYxVlpfbEJXeDdyQVlqUTdFbFhla1N6aHhtYjExTi1tVVRtRWlBNXJiZnJvd2xoS1ZZUDFSTEozT1l3MlNpUVJmVUJwS2pHdXdmdjQ1RURpQ2J1VnE5ODlyd3R4M1lkaC1QZ0RKdHp0UWoxMUg2dnN6Z3VUZ2M5QnZidE1OakFab2NnQ3p1a0J0dUZQcGVXcTI1NkhqNlhHNlk1QjZRZ0MtWDM5YlVnQWVNcGtCZlJsc2tkVllqV2lEUGNXTWw4X1FYdkRlMzRyR203M3cxNlQ5Sk05ZUE2QjNZWnM0MU1YbmJtMjd6VnR0ZkplQU9IVmctU2NKVnFVT1Y4VnRBSWtKb0xQYkk5OVJncTBtQkNVZGExdHdnZ3g2VkFtUzB2dVhycWJOYVFZM256eHFueUJjbUVfaU00c0NsTGJnQkplZU5TVDF3R1JYamhFTHc?oc=5>
-
-### 法国报纸摘要 - 乌克兰战争与新雅尔塔幽灵
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-11-16 12:36
-- 链接: <https://news.google.com/rss/articles/CBMi0AJBVV95cUxPa0FWN0NMbkt1ejRXN2FPMUlpN0YzR1dpZjRIQTVhMEREN0lnWW90YmJSd2xtR1JJU3NfMFctOFdnWjg0b1ZtbjhtWDQzSW5GaG5pV1ZuV1BoNDJPbEI4MzBXLU9uNENxSFBHVU5fQWtmaVFJR19haDFBd0hzVl9EeFd4SFdmaThhb3dDUjI0WWNGVTV2TjN2SVh2OXJzNFc0RURLbDVKNVY3b2EzWVROVkpxc2RScksyZFJucDRGeWhRaUw3c1lUdV9zb2ZNcmdwZTREOHJGLXhmMlZzOFFRYzlBR0QzZFN5d241T0lLY1ptS2FpMEZVNDVmRnRMVExHUy11SUk4WE8xN3R6elJaZkR3T19MRjNJRWNfcThUdHppWFN2RVZ6ZkNWaXhoQ21NNWM5NlkzNy12c05naDJsVTYxVG9zM0F2VFlDalY4UjA?oc=5>
-
-### 美中俄元首APEC会晤在即深圳数百公里空域管制– 普通话主页
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Radio Free Asia
-- 时间: 2026-11-16 07:27
-- 链接: <https://news.google.com/rss/articles/CBMirgFBVV95cUxQcklFWnhmTjR6UHZSamoycFRtWndSOVlreUdHN2h1NWpyQ1lqa1NqQzVYOUUtWTA4cEpWWWU2ODEyZjFKN1JzbWtEYWZRbHZuV1FtYTBJRFhUcW0xMGI3YnNRMkVOUGYtNlpocXJ1aUVCUnZDMThxY3ZmYUtXV1AtdDBROHl0TDBUVUhOTWVvT3dvVmI1TDlrSFpVcnBDZDJRemFpVHVuX0s0QldFYkE?oc=5>
-
-### 特习深圳会前夕，美与九盟国签署《旧金山宣言》保障超级智能供应链
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-11-16 12:09
-- 链接: <https://news.google.com/rss/articles/CBMioAFBVV95cUxOWWxiOUsyQTVYaFczVXB5d2ZwRVpBVk5DYlNVNkg1Z0ZQUmxQZnFsN1gxcklpU0xNaWRBamNLX05yMzRabVd2b2JMZ0tTd3hXQnF3eFJFendhWVoyQzU1QjQzalpGRjhUTi1LdzFTYzV6am93OWtUa2Z2NnI3UVE3Y1pfb3gxZ2pSWm90Y01sam5iQzQ3Q3RnTHBXNWlBcHZl0gGjAUFVX3lxTFBXWWRxUHljdjhuRUNIcXNEd2l3UV9wam1FNXVZZHJwa1R1cmxhMVU0SjY0NnB5LW9tNTBhNUdCM0xRZ0UyUHFmNWxYMjItcExIcTJqTzJHX1B5dmttS0Q5Y3F4aDlaXy12RjJQZURUbHN3SW5GRVlHMXROTzN4bTdTNjNROXl1UEJ0aTVva1A1X2l0MlRzMmpUeVl1Zk1XaWR1Tlk?oc=5>
-
-### 黄仁勋事件为本周“习特会”蒙上阴影
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-11-16 02:40
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE5YRGlocVNaZW9qZ3lUMi1uWW9FUXlHY1BqLVhWTWVBQ3FRTEgtbVNsT3A4ZjZNMzEwaDJQSXBucWRnZVZFY1Ewc3l5eEFybDlERk9JNERPWW1BOEx4LVlGUVJDcVkzSlhySG1UUTF4MHRkOC0z?oc=5>
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801q2mk.html>
 
 
 ---
 
 ## 历史发现
+
+### 2026-11-17 00:36  (4 条)
+
+- **周杰伦** | 周杰伦嘉年华巡演内场票和大屏观影区票的区别是什么？ <https://k.sina.com.cn/article_7879776356_1d5abd864068019yxa.html>
+- **周杰伦** | 周杰伦广州时光机嘉年华演唱会大屏区座位示意图 <https://k.sina.com.cn/article_7879776356_1d5abd864068019yoq.html>
+- **周杰伦** | 周杰伦演唱会票价惹争议，多场次最低票价580元备注仅支持看大屏，有网友认为性价比高，也有人表示舞台和真人都看不见 <https://k.sina.com.cn/article_1921169281_7282b78101901c4ie.html>
+- **周杰伦** | 周杰伦演唱会580大屏观影区的价格是固定的吗？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801q2mk.html>
 
 ### 2026-11-16 16:49  (32 条)
 
