@@ -1,218 +1,109 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-11-18 17:43**
-- 本轮扫到 16114 条, 新增 **27** 条
+- 最近更新: **2026-11-18 23:46**
+- 本轮扫到 16124 条, 新增 **10** 条
 
 ---
 
-## 本轮新发现 (27 条)
+## 本轮新发现 (10 条)
 
-### 曝王一博明年30岁前办8万人体育场演唱会
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5101787982_130171b4e04001dn8g.html>
-
-### 曝王一博明年30岁前举办8万人体育场演唱会
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5100565235_1300472f304002b4p2.html>
-
-### 2026雪邦12小时耐力赛 将于11月20日10:00 正式开票 ＆＆＆
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7785372469_m1d00b5b3503302n27i.html>
-
-### 琦琦穿泰国校服视频截图清爽 昨天签售好看
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7811157903_m1d194cf8f03301twkw.html>
-
-### 周杰伦2027嘉年华演唱会武汉站预约入口
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801q8hi.html>
-
-### 周杰伦2027嘉年华演唱会武汉站的门票价格
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd86406801a4ee.html>
-
-### 周杰伦演唱会票价惹争议！多场次最低票价580元备注：仅支持看大屏……网友吵翻了↗
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1989020644_768e0be401901lbm8.html>
-
-### APCE登场：特朗普抵达 习近平接机、普京也想单独见特朗普
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: DW.com
-- 时间: 2026-11-18 14:28
-- 链接: <https://news.google.com/rss/articles/CBMiugJBVV95cUxQd3FubjJYVUt5cUZvS29ld2tCWVN0dmdjYnUxSmk2N2xvelVFNXlxTjJ0UUExWVhmUnZteHVHeFZFN1JXSGVYUzNzMDhqbHhxQmVCUlVBLWxyb1ZKWGVCMEphcVNONXMwd3hyQ1I3aEZ3NkdzNVY3TG1kakhlUzJEdXFjUllRS0d0X0VfYkpOb2k3ZDRpWHpNNGRTaGVHbmFzTU52eEpxLUJSUlNkX25KQ2wzT0VHY0VnSWdscE5uRkUzZkRwcTZid2dLaldBV1daRGhyR3I3SFZtVURzM2lOcnYyTVo3bE9WaDl6N3FWTE04WlpCOTdxWkpUOGExaXJXQ1BGVi1XSFlUdkpZMjF4bDdNcV9DenNMWDBiR0lGYnJUZHpPMU1FN1UweElsbzgyekIta2wyVlpld9IBugJBVV95cUxQVk5zU2Qtdm5nZFYyLXhRTW9EXzJ4bUkzUFBUQWw4a2R2ZGhtRDdZT0RDS2FWcmU3UjhvQjc2dFE4eS1EOE4wNzh0Z0FlRUJ1Q040MHE0bXozc0ozem13b0xwVzZEbjJ4QXpNbmIzWWRZUllGRFZlZUNGSGkybnRPV2hWTkhVOTJ0b0ZCZ3duT1dZQXFxTGU4N040RG1IdDNfVWd4NnZKNDRUZTBHZGVfaXpGWURfN0VHVFdsaHBMV1BLY1BoWjFXUkQ0bnhyc2NfalhrOEt5bEhtNG1WcjdIZzg2TXFhWGlKdm5pN3YyS0pzalRwSjdWOGI5YjRmQl91MWIxdXBIYnFmTTRMdlJrZktrUFBPRzNiQTItSkZ3WlcySFV5ZnlMUkVKWmJ3MnNwNDRpdURSQXlkdw?oc=5>
-
-### 普京和特朗普互动握手
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: Sohu
-- 时间: 2026-11-18 14:24
-- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZXl0aC1ySGZjd0s2by0tXzF0dVBzaUlqclA1Wm50cVVaRF82eWJlOUg1SFdrM05HT00ybktSZ25vb2Mxam9COXRuVjVRT25iU3JGWTdwQ3JGMGQzN2hGYXFfdzVwQmhwTXpyMWt2YS1TUXRHSjFGT3VOWFFZOGplSi1kTFVWUVpC?oc=5>
-
-### 特朗普抵达中国，将与习近平、普京会晤
+### 20位共和党众议员联名呼吁特朗普总统在深圳向习近平提出政治犯问题
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 美国之音
-- 时间: 2026-11-18 16:55
-- 链接: <https://news.google.com/rss/articles/CBMikwFBVV95cUxNNVN3cTNnNGRVNG54eGVQV0RiR2dCUE92RE43dEZIRHB3bW1KbkxQcklmbHdVd0ZydjZrbU9mVTVROTViSk9uUUotTXpQRmlvRk50Y1Z3eW15TUs1Yjl3Yk1KQTFYVWlKc0s5LUF3bkNXckxHQlJab2JzTzYxcjRPWm5JRnN1dHhtQ0Q0N3lRdVpoQXfSAZYBQVVfeXFMUElUU1JxMEVjWWtEZjl1NUVlU2Y4Yy01elY1RTY5TWk3WW1rNDlBby1qMXlBdDNrV0V6aGN4Zm43bmlyZkR2aUppeVJwV3FGLXpFTmM0VjN1T1VJYlI0Z0o5VTVOMGFnZ1Jpa3NQLUduUmlPa2NXSVpmNVVuSWV0bFNxNi1kYjl2MnQ1U0VoTmpRVGN0VUVn?oc=5>
+- 时间: 2026-11-18 23:29
+- 链接: <https://news.google.com/rss/articles/CBMiygFBVV95cUxPS3lkeXdtS2hNQkIyZC1GV2ZpY2kyNmlVLS1mX25uWFJicGpEUFBjc1FYa0VtV2dTdFNlYnM3ZUlBSVNPVUU2ZG8xRUtteGkzQmZRYTkxOHZBNWJ6NC1YeC04c2lvLTQwUmZyNWEtVjBEOUQyY251dE4yRy1lc3V3S3UxclA0ZlVKLUJmU0dVSTRNc2JndndRcjZoUUxRTS11cVNGTnh2aGg2eFBYcGVhOFRSQXhXelllZjFUdTFwM2tvT0cwbWpZNGpR0gHMAUFVX3lxTE1GQUREX09NbUxUdzF5LWtyc3FJeG1uUzNGelJvdWF6djlRUXFXa1poaVd2WVowWFhWdXR4dGlycmZROXNiOVpWV1R1Z3hLS04tbDVwYV81WExZVXhZZ25PYUVEYmNSbkh2YnpNWndDSmxKU3gtelRQUFhLRlZiSG14Y08wUTBHeDZCUUJjX3dkd2daaEw1UjgxV194eTFLc3JUMTNGUjVRczFIS0FvUFB3Yzh2ZVZ3b2pEazNZMlE1UExtSzRYNTIyTXcxcQ?oc=5>
 
-### 特朗普滔滔不绝，莫迪：我们该走了吧？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-11-18 07:33
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFAtcUtxbDVTWUN2SzVPN0VKbjFUOFFoSERhUlh5TUQ4WWdHYkNsNUpJTUoway02dzJ4VDJFOEtvSkJHTlF0WDJtU0FTdEhlNm41QnNxdWV6aXoxXzlHQ3RlTnNoVFNuaHhlRFlRdzdYcG02YTg?oc=5>
-
-### 深圳峰会上，为何特朗普和习近平都不大可能提及英伟达
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-11-18 02:35
-- 链接: <https://news.google.com/rss/articles/CBMi7wJBVV95cUxQb0FqVFZWZGxEUm05V1RwOGR1ZDVRZmt1OS1UdFFFeGFlbFhiR3dBcEl2aExTMlRUZEV0Z1Z0eUFBZVZ1MFFJbm5kR09DUzl0WkVMX3lvZllOMnRwNlZqb0dFN1U5N2tmUU1fNDlXQWIyUFBCcGVKQ0pwYmgxcHA2NjQ1eUR1SkNnV3poMERibDNZZGxPWWNtVjZ1dVhWYTZaOVFYT3ZNUG5fZkhGem5MT1ZCaGNPYmZHYi1neHJ0OW1lWXBHUVhlSnFVU3QzVXB4SzJvN1JCMFBfcnpWamI2a2tNdnBvUm5obUhvck5xeDFhbWdnM211ekhySlJQcEFOendVZEUtUjJ1QW1ubVFJWklfNkpkdjJNanVLVTJYQmlLSS1TX0hoSWJfdjBXdjBRTzBWeC1CUTJ6NzI0ZkRyR3YwVTJZb3NXVng0UElKdUJPaE9oQlBBd1hlZGk0Y2g5QU5JRW5aYm1aMXk2eGFF?oc=5>
-
-### 特朗普和平委员会问责以哈，美方警告停火恐崩盘-市场参考
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 金十数据
-- 时间: 2026-11-18 12:43
-- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xWDlhVTBULVVnSk5KMjdUX2xYTlVHU19oUEM2bFV4WWpWcGFjV0REUy1PbzZoVW1Gai1KLUVTUGNoLUp2YThlb2VuWG5fdDg?oc=5>
-
-### 特朗普到访马尼拉 当地人示威反对美“硅盛世”供应链倡议
+### 看人下菜碟与大国气度
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: RFI
-- 时间: 2026-11-17 20:24
-- 链接: <https://news.google.com/rss/articles/CBMigwNBVV95cUxOUGotalN1WnJzOWpWa3U3TDdSdXFfYjBCVDRGY1ZpM2FRMVJ2ME5CUFJJSnJPVTN6cWtSbU56VVdGeWZOX0hrU25yZnpIZVhSNVcwTkQyX19ud3RBckxIYXFmRWpIN0Y0c1g4QVBzQjVBcTdUS3oxMHIzeUhDRHZoTmpyaGNUX3JZVW5oalR2RHRndzZ1QW5OTDJHeFI3OGtsQk04RkNDQnpIeW5qRUhUTUxUMkwyYlVXN1JkUHFWM2I1QlJGYzZ6MURfc1BFSHFueVZlVWRNVFVUSUJtV2RLYXNzeXFjV2NKeEsybkxSZlZ5TDBWT3p3YW4wZ1dWb2sxbWNObHNoYmRHVWRRV1FpZEJCYjAyLUMtM2hjQklHVkxGR2N0VkNTZEtpc1JIdWlQSWhvREwtNXNDbkxoMXowT3RzaU5JUmhuR2xkdE1wUmN4eUFpSHdYZUFENkJuTldCcnpzYlAzdWRsMms4Wi1ZdHRWTzV1VTFSQ01YQ1Ewa1duNkE?oc=5>
+- 时间: 2026-11-18 23:12
+- 链接: <https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSnRPMkpqUDZ0Zml0X3FtZlVhVkUwUDJlVWZGR1pDa2hSdmdqYmxYTGwyNjhMYmN0ZUxXWW96ejFxZkItRVRpVHcwRkdBSnpDaE9RMHdtUVB0X2dJTW52dURwMHpIMEhDaHFXbi0tajlOVTlpZWVjWXNUdGpDdjBteF90S2w4TE5kRUR1Q08wckwwZ1BtOEh3Z0Y5VnBpWlV5ZUdJRENXdjlOYWNvRzlTX3JQZVg1Z0ozUWlLcXlrOU12WGdfdFJwM01Bd0xQWEN3bzN0MUkyMA?oc=5>
 
-### 抓拍：川普专车上“紧盯”深圳都会夜景画面曝
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 文学城
-- 时间: 2026-11-18 16:44
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtNmx4UXpvdTBzYWN2WDF3QVVVNGJoSmM5RDloU0Y3eG84MThoOVlTbUo2OUU5Qi15ZjBFN3RpTmdLNEd3aWhCdGt5OENkZkROTDNvQTQ5M3JkVW5IaGNNbWRZZnRYeVJx?oc=5>
-
-### 现场画面！特朗普乘坐专属座驾抵达下榻酒店，马斯克现身随行大巴
+### 追上特朗普专机，马斯克又来了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 腾讯新闻
-- 时间: 2026-11-18 10:59
-- 链接: <https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xTS0yOUhjYm5DTWwtZmlvZTlWd1YwWjNhTTdZYjNkU3puS1R5dWFjSnJKZGlFR1ZfYmx2eDJOdXg3R283eEg4RHc1TUxON2w1MVpycGtR?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-11-18 12:51
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE13SVZpSEtDSmJjSTEyQVEwMENEY3daeFAtb2QzdGZGejZEU0JVb3p2TFlSN1MtSDNtUXIwcDFlOWYzZmNtb0JFaTdZWlU?oc=5>
 
-### APEC深圳峰会：习近平亲赴机场迎接特朗普，46年来首次中国元首接机
+### 习近平迎接美国总统特朗普
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-11-18 12:54
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5FY2l0OGZ0TDBkOU9ZWEpoU2NEOWV2SnhOYVk5aW83Z01aOGFnZ2ZSMXFCQWpORHM5UmdlaDNzWmxFTS13WTRaY1JsTV8yaHRJbGxsckp6amVVV3UtT3RkSW8yU3N2UXPSAWxBVV95cUxOeXVvRXhZVDl4YkkybVNIekJHMEFrT0hGcGk3V21tVE9CcjZsMVh0dEo4eGtZbW1tUXNERm05bnM3RWpGTjRvVWpVRHJ2U3Z6c2tGQ2NVRm1rRW94Q1QyQkRwRE1XT0xuSmM4cXg?oc=5>
+- 场馆: 新华网
+- 时间: 2026-11-18 09:52
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9venVvaTQ0NXdYUWFLNENWZ2FZSjVrUWs5cnZrNDl6SVR6VmZxLUtBUjZsd2VmZWV3akNWb3hNSXJQX2RxejBwZTFNMXNEQXNPX250NlNzV283NUkyangzXzNlRTZaMXlpTTlIc1pUZ2h3UFNZTUM3Q0wyWlQ4Nlk?oc=5>
 
-### 特朗普总统抵达深圳 中国国家主席习近平机场迎接
+### 特习三会，特朗普“确信”习近平会提台湾” 专家认为会谈难有实质变化
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 美国之音
-- 时间: 2026-11-18 10:55
-- 链接: <https://news.google.com/rss/articles/CBMiogFBVV95cUxPdFBZQkREQTAzbDFUNS1tWDBVU0NDdWhsaXI0eHlwNHJCM3BIc1NCLUxpTlZJdDRkbm01WEJyeDJtczBybHJqQXh3c3hJYm1NQ3ZFWFoxQVVrZ19KS19xOVZvaGl2RnE3dFZzVEotSE1Ka2JJbzhfTUFaMWFYNXk4eVdGcXIxc1Q4aVZKMHloYUJ0YTJ5NWhnNGVKOEhWejlpZGfSAaQBQVVfeXFMTUx4SjhkWEJUemV3aFdKcFVYWDMxMWJjQzhKaUJMN1ZWbjcyeVQ5V2o1N0V2dVg0TmxKa0tSWUY2dVpfRGN1bUFzbUM4UXhtQ29xYkVkWXJtekV0cDh1NlVReXowUF9XVWYzbHZhcmtsWnMtaUJaQ09LRHNpMEU5M2VWMUhER0s5OXVleGxnUlZyZ3QtOE93WXA2NEZWby1pU1NZSzY?oc=5>
+- 时间: 2026-11-18 19:41
+- 链接: <https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcmxjQ2NHYW1oNEFkdE9KSFlsc1JqZXJmZVdkN2F3dzQ2cVFfVjQ2aVZVUnZOZXU3VDNxMWZzVG40eUhzb1Q0cHcxSEVXQm9JT2tFcE5UY1NyRGRBTWJ6SjBxSks5Q0p1WGVheG1IcDgzMnE0QkVySkE5TnNrNVRHRHo2VWk5bUp5SXNXb1FENktYS3dkaFNkbzRCS1lJZVZnM2UxVDJIM2twamVMajYxSXp0dzl4V3lFY242T3JRNlLSAcMBQVVfeXFMTjNya2pEVzNzSWZKd0NUUU1rQ2ZXSTRtenk4dnJlY01TRHJKcEFTWEk2d0U0bnNUR0d1QzRnd1ZjTjNZZVcxWUIyODZvd1NobEZ5X1M4eklTZUxuSmN6RWl3bHZCN3lic2VwSHZXQmlIVmhOX01qQk9yNDZLUTAwdkhRZk9Qb211U2IzeW1JOVNaeTdUemtWZENadGVxc1NOUnFLNUl6al9INDJjNlJtaFFfMjZBUENNbWlLSGdPWklYZ3VF?oc=5>
 
 ### 习近平迎接美国总统特朗普
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 习近平外交思想和新时代中国外交
-- 时间: 2026-11-18 13:55
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE9GV0ljeFRfSXhRLUJFelhkTjNFT202bTJWQ2NyNm14VGUtUTVoXzFhY1ptWVNpQllxUXJiczN1Z2J0bFZsZHo1VU1rWUNrNTZhdWlReDUxN3BTSGZDeDVibTg2ZnVWLURjSXpuc2QzQzF3N2RIcXc?oc=5>
+- 场馆: 国务院港澳事务办公室
+- 时间: 2026-11-18 09:54
+- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE9OZzdJVTJqMGZXXzE2Y2hqeDBVNmlkSzFkX2RXbFZycXpIMlVHY2xodVpRWHJqYjlyeDd5aGQ2Z3FjTlhCUmZzY3M4NVBIbkt2S2IzTi01ZEpBeG5VNWN5Y1Rqb3pnVFNubzktby1hdDczYmhJSW1oV05n?oc=5>
 
-### 习近平迎接美国总统特朗普
+### 美国观察｜两院翻蓝之后，特朗普的“下半场”如何出牌？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 外交部驻港公署
-- 时间: 2026-11-18 10:30
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFBqRUd2V0pROF9KeEd4NDZrVjZkaGtIc3BhMEYzckhxNTZiSExFV3M3SlUzcGRaSl9uVlpZYTdTRVI5Q0t1WjZpR285ZmNtaGR0TFI5OWp3RkdRZ2M1M0xpNmMtWTIwV2lWWGpYNkVEc1o4R1E?oc=5>
-
-### President Xi Jinping Welcomes U.S. President Donald J. Trump
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 中华人民共和国驻大韩民国大使馆
-- 时间: 2026-11-18 13:22
-- 链接: <https://news.google.com/rss/articles/CBMie0FVX3lxTFBlV3QxeDBaQ3pDME9vTl9xVzBkb0FNc1BLbmNGMkZKMHNvdllIakFLaXl3azktNkFoTUY1VVFyaU9BQlQ1VE9fb3ZmdXVWSjZlN1A5RFZtWFJSbGlHeEVXblp4eFpwQjl3MnZjcllQekRfdUhzSUw5dUVqSQ?oc=5>
-
-### 深圳APEC峰会开幕 三巨头首度同框
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: DW.com
-- 时间: 2026-11-18 08:40
-- 链接: <https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUHEwbWpoN1RHTXdqZ2gwWU51M0VuTE40Q3IyWVVWUW5URVR2ZWJuRXl1LXA4VGdJUjVKMzlaRTN2bENqWjZxZWFrcnFVazF3MFhFZEtJbWgyWFJGZl9BRTdGbF84UWJGQmdyMzZlN3ZUbGFOanVHY3BKMlo1MGtHaTVyN2VHNHZfdDNCdnBVQks5eDZkNk54bjNONjRQa21CWm1aRlFiX2wzZmF6UHhObjdCanI0Y1BJLUpHa3dMRDNnc19LY09qcHd2anFfNS1ZQm9ZWUdRR1BhcEhVR1dTODZ0S2JobW1uVFFB?oc=5>
-
-### President Xi receives Trump in Shenzhen
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: TVB
-- 时间: 2026-11-18 09:10
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE5teVEyTU9xMGJBYWlwbEp4a0FvNlBUZ0NlMy1oc1hfa2tZQ01pNi1FbkNzdEVrRkJlSEh2ZXNOR2JOOVhLYzRyNkpad0VKdWRLZ0VGMHdwazZXbVg5anNLdXpsS0haTGNkaktZT2J3WldiQ01w?oc=5>
-
-### In Choosing Shenzhen for Trump-Putin Summit, Xi Shows Off His Tech Ambitions
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Moomoo
+- 场馆: 复旦发展研究院
 - 时间: 2026-11-18 09:01
-- 链接: <https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTkYzSWRfYW1Bam0wNG1NRUtFZDNfTENEcXNHUjV6Mng4Vk1mWUJiT3U4b3lEY0dpY2h0RlJoVWZNU0NJUzY3RlJTeVY3Z0RORUFrOGE0UzlVWXp1UG5HWk9QdllEUTVtRjEzRmZmaUpVZHo3ZjdMbWZJbWdoeEVKMXhxaHpGMTJrN19xNGlNWHBiZURadVR2UVB5MXVTalViZDRINzk2S20?oc=5>
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4WjhhQUNQNkhnWGRSZVNrc2pjU0d5bktMV0x5X3Q1WDQyYmwtT3dIXzd5cThtNjZRSVZqNG16aU4wUV81a3g5TXl1TWhyeVVabG5jTDRKYWFkUXVlNk00WXB6Mmc?oc=5>
 
-### 特朗普抵达深圳习近平亲赴机场接机– 普通话主页
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Radio Free Asia
-- 时间: 2026-11-18 12:00
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxPbXZldDJPVTlFcHVyM3Jta0dCTDNpVDQ3Rm5rN1lYeXBhUFhUcHZmTGl2d2xUYUdCNXZXWE9tSEJxNkFrN1BncjJaVHVxdmZQUm9fSlh4RUl0UG1UdkhseDZ5b0RtZEZ5SGs0WmVGczFVNjl3T2dhYVEtVjJFZ213TTR4dWVDNXNxem1SSw?oc=5>
-
-### 中美俄领导人深圳会面 特朗普和普京握手
+### Journal en français facile - Sommet de l'Apec: Trump, Xi et Poutine se retrouvent jeudi / États-Unis: la démocrate Mary Peltola devient sénatrice / GTA VI: le jeu le plus attendu et le plus cher de l'histoire...
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-11-18 12:11
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE5yekN4MHNfNWtZS0N2RmhMOWgzRE9mQ0l5SGkzVDVPSlpVTlBsczJKZjA0Z0k4T2pfLUFtY2k0WTgxYmV3QWFjR19DdkhTS1FqQnQxb0Y5dzRWOHk1NE1ocjZFZWwzVFE4UjVV?oc=5>
+- 场馆: Le français facile avec RFI
+- 时间: 2026-11-18 18:03
+- 链接: <https://news.google.com/rss/articles/CBMigwNBVV95cUxNdmhudmpnbjgxZ3lfUGJmYVhZS2ZJVmZjUGhLMS1RRktoX3hSM0pEMjFNcVpjRmZRVTQxM2hWQmRwUmpGTUJkMzFXUllXOS1EcC1HcDhMV3d4WE1MWVhGTkQ3UExsTmR2ZzlmNHNWdFpmRTdRQnRtbXNHZEZleXpyNUFHbm03ektFWEJST1hSY0VoSGNGYzdGV3F6ZXFLOEF6VkJ5WFZBd0g4b0Vaal9jbGhPMG9sVFhUYmd1QllyYWxtOXQxdEMxWHdGbTFCUG9maHFYYXVBZ1p3aGRkbFE5YmYxbFE2elpMQUdoM21kTjJ4QlZYcXNFLUV2NVByWjdIR2loVDg3NFpEMkRGUnBtUnlMeGZ3MXZ0ZEZYcHhPYVU1Ulc1eFdGMlNTTlJXeWJuT3ljUi1lMEE4dXdySG8xSDJuVUd3T3ZxZDFhd18xNERhWFBaMHVNTW1Vd2l5aXJsMzlYTUdxRXN3TW9ZM3laalVvdmo0ci1vVmhLQUZ3YXlZT2M?oc=5>
 
-### 克里姆林宫：普京与特朗普不太可能在中国举行双边会谈
+### 选址深圳举办中美俄峰会，习近平意在展现科技雄心
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-11-18 12:42
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTFBPeTgyd0JCREU1SzdqeDRZR0ZaSFUtM0RscGQyTU9jVFo2VTdRUEZGZmZxdk9kdDhFT2NOMUwtMUlua0xxZVRSR0lVUHYwM1lWMnptTnRsSHR5dzJpRnloWWt3d3dSaXVBSnp6MXIzUQ?oc=5>
+- 场馆: 华尔街日报中文网
+- 时间: 2026-11-18 23:24
+- 链接: <https://news.google.com/rss/articles/CBMisgFBVV95cUxNTEJrZDEtRjd2M3NMRzdGaWtGdmdFQUhTRTFsUlV4TjBXSTRNMWJKMHdlLXdsSXFDekFoUmd3ekk1WDIzRXF2ci1WSmh3Y3V6bVplU1RNWWRZQkxCQnhHUFlhc3hDeUZycXNkV0c1THlBWjhsZTNNMVhDSzROYnJfUFZCZmZ4aG1YYzU4b2lPS01kVlBidl96QzRiOWtsYnpfVmJmV0xaNEV5OGVkNDB3Q1pR?oc=5>
+
+### 美中俄三方会谈在即 专家建议这么谈
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-11-18 20:20
+- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxNa1VycW1hLWxhUHBlYTA4NktfYU85ZG9oa2hDY1c5b0RDV3N5X3AxYkRRXzhlSUdqUW54UFdkTkhuVHNJS0o0WWpCeF9BQTRZdWxVVUpOUXdhcnF5cXhWNWVwNEVOMjNrMkcwdDFVTGQwc0dTSXRSb2NKME9GaHFGYmdyd3VNNmsxaWVLbGNKU1BYTUZEYVEzQWZCOHHSAZ8BQVVfeXFMUDd0OFBiZmJEWkVUM2c0ZXkyYkNoRlJ3MnBZZXo5a2RDZ3h5ZHREUzNjT1l1SnBRMGZNVlhqMW1ELVpScjdCVk1XVkxsUFFhbkdacU42N1BGSmM5RFU3cjkyUFVPeWNjX1Bsa1N1eHBuSGp0NkZYZFJIT3VSajJtMWpXLW1PMmhpWFNNTll4Nnl2ZmUyYXBmdlNpNV9OSzNn?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-11-18 23:46  (10 条)
+
+- **特朗普** | 20位共和党众议员联名呼吁特朗普总统在深圳向习近平提出政治犯问题 <https://news.google.com/rss/articles/CBMiygFBVV95cUxPS3lkeXdtS2hNQkIyZC1GV2ZpY2kyNmlVLS1mX25uWFJicGpEUFBjc1FYa0VtV2dTdFNlYnM3ZUlBSVNPVUU2ZG8xRUtteGkzQmZRYTkxOHZBNWJ6NC1YeC04c2lvLTQwUmZyNWEtVjBEOUQyY251dE4yRy1lc3V3S3UxclA0ZlVKLUJmU0dVSTRNc2JndndRcjZoUUxRTS11cVNGTnh2aGg2eFBYcGVhOFRSQXhXelllZjFUdTFwM2tvT0cwbWpZNGpR0gHMAUFVX3lxTE1GQUREX09NbUxUdzF5LWtyc3FJeG1uUzNGelJvdWF6djlRUXFXa1poaVd2WVowWFhWdXR4dGlycmZROXNiOVpWV1R1Z3hLS04tbDVwYV81WExZVXhZZ25PYUVEYmNSbkh2YnpNWndDSmxKU3gtelRQUFhLRlZiSG14Y08wUTBHeDZCUUJjX3dkd2daaEw1UjgxV194eTFLc3JUMTNGUjVRczFIS0FvUFB3Yzh2ZVZ3b2pEazNZMlE1UExtSzRYNTIyTXcxcQ?oc=5>
+- **特朗普** | 看人下菜碟与大国气度 <https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSnRPMkpqUDZ0Zml0X3FtZlVhVkUwUDJlVWZGR1pDa2hSdmdqYmxYTGwyNjhMYmN0ZUxXWW96ejFxZkItRVRpVHcwRkdBSnpDaE9RMHdtUVB0X2dJTW52dURwMHpIMEhDaHFXbi0tajlOVTlpZWVjWXNUdGpDdjBteF90S2w4TE5kRUR1Q08wckwwZ1BtOEh3Z0Y5VnBpWlV5ZUdJRENXdjlOYWNvRzlTX3JQZVg1Z0ozUWlLcXlrOU12WGdfdFJwM01Bd0xQWEN3bzN0MUkyMA?oc=5>
+- **特朗普** | 追上特朗普专机，马斯克又来了 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE13SVZpSEtDSmJjSTEyQVEwMENEY3daeFAtb2QzdGZGejZEU0JVb3p2TFlSN1MtSDNtUXIwcDFlOWYzZmNtb0JFaTdZWlU?oc=5>
+- **特朗普** | 习近平迎接美国总统特朗普 <https://news.google.com/rss/articles/CBMif0FVX3lxTE9venVvaTQ0NXdYUWFLNENWZ2FZSjVrUWs5cnZrNDl6SVR6VmZxLUtBUjZsd2VmZWV3akNWb3hNSXJQX2RxejBwZTFNMXNEQXNPX250NlNzV283NUkyangzXzNlRTZaMXlpTTlIc1pUZ2h3UFNZTUM3Q0wyWlQ4Nlk?oc=5>
+- **特朗普** | 特习三会，特朗普“确信”习近平会提台湾” 专家认为会谈难有实质变化 <https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcmxjQ2NHYW1oNEFkdE9KSFlsc1JqZXJmZVdkN2F3dzQ2cVFfVjQ2aVZVUnZOZXU3VDNxMWZzVG40eUhzb1Q0cHcxSEVXQm9JT2tFcE5UY1NyRGRBTWJ6SjBxSks5Q0p1WGVheG1IcDgzMnE0QkVySkE5TnNrNVRHRHo2VWk5bUp5SXNXb1FENktYS3dkaFNkbzRCS1lJZVZnM2UxVDJIM2twamVMajYxSXp0dzl4V3lFY242T3JRNlLSAcMBQVVfeXFMTjNya2pEVzNzSWZKd0NUUU1rQ2ZXSTRtenk4dnJlY01TRHJKcEFTWEk2d0U0bnNUR0d1QzRnd1ZjTjNZZVcxWUIyODZvd1NobEZ5X1M4eklTZUxuSmN6RWl3bHZCN3lic2VwSHZXQmlIVmhOX01qQk9yNDZLUTAwdkhRZk9Qb211U2IzeW1JOVNaeTdUemtWZENadGVxc1NOUnFLNUl6al9INDJjNlJtaFFfMjZBUENNbWlLSGdPWklYZ3VF?oc=5>
+- **特朗普** | 习近平迎接美国总统特朗普 <https://news.google.com/rss/articles/CBMiekFVX3lxTE9OZzdJVTJqMGZXXzE2Y2hqeDBVNmlkSzFkX2RXbFZycXpIMlVHY2xodVpRWHJqYjlyeDd5aGQ2Z3FjTlhCUmZzY3M4NVBIbkt2S2IzTi01ZEpBeG5VNWN5Y1Rqb3pnVFNubzktby1hdDczYmhJSW1oV05n?oc=5>
+- **特朗普** | 美国观察｜两院翻蓝之后，特朗普的“下半场”如何出牌？ <https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4WjhhQUNQNkhnWGRSZVNrc2pjU0d5bktMV0x5X3Q1WDQyYmwtT3dIXzd5cThtNjZRSVZqNG16aU4wUV81a3g5TXl1TWhyeVVabG5jTDRKYWFkUXVlNk00WXB6Mmc?oc=5>
+- **Trump** | Journal en français facile - Sommet de l'Apec: Trump, Xi et Poutine se retrouvent jeudi / États-Unis: la démocrate Mary Peltola devient sénatrice / GTA VI: le jeu le plus attendu et le plus cher de l'histoire... <https://news.google.com/rss/articles/CBMigwNBVV95cUxNdmhudmpnbjgxZ3lfUGJmYVhZS2ZJVmZjUGhLMS1RRktoX3hSM0pEMjFNcVpjRmZRVTQxM2hWQmRwUmpGTUJkMzFXUllXOS1EcC1HcDhMV3d4WE1MWVhGTkQ3UExsTmR2ZzlmNHNWdFpmRTdRQnRtbXNHZEZleXpyNUFHbm03ektFWEJST1hSY0VoSGNGYzdGV3F6ZXFLOEF6VkJ5WFZBd0g4b0Vaal9jbGhPMG9sVFhUYmd1QllyYWxtOXQxdEMxWHdGbTFCUG9maHFYYXVBZ1p3aGRkbFE5YmYxbFE2elpMQUdoM21kTjJ4QlZYcXNFLUV2NVByWjdIR2loVDg3NFpEMkRGUnBtUnlMeGZ3MXZ0ZEZYcHhPYVU1Ulc1eFdGMlNTTlJXeWJuT3ljUi1lMEE4dXdySG8xSDJuVUd3T3ZxZDFhd18xNERhWFBaMHVNTW1Vd2l5aXJsMzlYTUdxRXN3TW9ZM3laalVvdmo0ci1vVmhLQUZ3YXlZT2M?oc=5>
+- **Trump** | 选址深圳举办中美俄峰会，习近平意在展现科技雄心 <https://news.google.com/rss/articles/CBMisgFBVV95cUxNTEJrZDEtRjd2M3NMRzdGaWtGdmdFQUhTRTFsUlV4TjBXSTRNMWJKMHdlLXdsSXFDekFoUmd3ekk1WDIzRXF2ci1WSmh3Y3V6bVplU1RNWWRZQkxCQnhHUFlhc3hDeUZycXNkV0c1THlBWjhsZTNNMVhDSzROYnJfUFZCZmZ4aG1YYzU4b2lPS01kVlBidl96QzRiOWtsYnpfVmJmV0xaNEV5OGVkNDB3Q1pR?oc=5>
+- **Trump** | 美中俄三方会谈在即 专家建议这么谈 <https://news.google.com/rss/articles/CBMinAFBVV95cUxNa1VycW1hLWxhUHBlYTA4NktfYU85ZG9oa2hDY1c5b0RDV3N5X3AxYkRRXzhlSUdqUW54UFdkTkhuVHNJS0o0WWpCeF9BQTRZdWxVVUpOUXdhcnF5cXhWNWVwNEVOMjNrMkcwdDFVTGQwc0dTSXRSb2NKME9GaHFGYmdyd3VNNmsxaWVLbGNKU1BYTUZEYVEzQWZCOHHSAZ8BQVVfeXFMUDd0OFBiZmJEWkVUM2c0ZXkyYkNoRlJ3MnBZZXo5a2RDZ3h5ZHREUzNjT1l1SnBRMGZNVlhqMW1ELVpScjdCVk1XVkxsUFFhbkdacU42N1BGSmM5RFU3cjkyUFVPeWNjX1Bsa1N1eHBuSGp0NkZYZFJIT3VSajJtMWpXLW1PMmhpWFNNTll4Nnl2ZmUyYXBmdlNpNV9OSzNn?oc=5>
 
 ### 2026-11-18 17:43  (27 条)
 
