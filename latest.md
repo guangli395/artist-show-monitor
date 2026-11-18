@@ -1,118 +1,214 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-11-17 18:01**
-- 本轮扫到 16045 条, 新增 **17** 条
+- 最近更新: **2026-11-18 01:05**
+- 本轮扫到 16068 条, 新增 **23** 条
 
 ---
 
-## 本轮新发现 (17 条)
+## 本轮新发现 (23 条)
 
-### 王一博雪邦12小时耐力赛开票时间和购票方式是什么？
+### 开心做梦见到肖战、王一博了， 并且参加了肖战的演唱会
 
 - 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923111_1d5ae15a706801fqre.html>
+- 链接: <https://k.sina.com.cn/article_7879923704_m1d5ae17f8033021xxq.html>
 
-### 周杰伦2027嘉年华演唱会武汉站的门票价格
+### 王一博雪邦12小时耐力赛什么时候开票？
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923111_1d5ae15a706801fqu8.html>
+
+### 王一博工作室发布的巴黎随拍内容有哪些？
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923111_1d5ae15a706801fqu6.html>
+
+### 周杰伦嘉年华2027巡演武汉站的门票什么时候开始售卖？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801q5ku.html>
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd86406801a24a.html>
 
-### 周杰伦2027年演唱会开票时间何时公布？最新票务安排解读
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923118_1d5ae15ae06801qhrg.html>
-
-### 周杰伦嘉年华巡演的大屏观影区在看台的哪个位置？
+### 周杰伦嘉年华2027巡演的下一站是哪里？
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801q5g2.html>
+- 链接: <https://k.sina.com.cn/article_7879849300_1d5acf55406801509i.html>
 
-### 周杰伦嘉年华演唱会大屏票和内场票有什么区别？
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd86406801a1b8.html>
-
-### 周杰伦演唱会580大屏观影区的价格是固定的吗？
+### ‌580元就看这！周杰伦演唱会引争议【饮茶论道】
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd86406801a156.html>
+- 链接: <https://finance.sina.com.cn/roll/2026-11-18/doc-inizcexm4924885.shtml>
 
-### 周杰伦广州时光机嘉年华演唱会大屏区座位示意图
+### APEC深圳峰会：特习会与中美俄三方会晤背后的大国博弈
 
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801q55s.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: DW.com
+- 时间: 2026-11-17 11:17
+- 链接: <https://news.google.com/rss/articles/CBMivwJBVV95cUxQRXh0eWtTSzQ3cThncDM3aVZGeEs1OEVMQ1FlQW9VcUs3YVJ3Q2U5elJua0dPMTdyeGVyVVltel9DVXhfQmlWci1Cdnd0bEJnUTl5VDE4Sm9paklKQm5kYWJKTHVVZFduRlVuQURlRmdHakplUDJLeTRfZ3kyVmRLNU9rRTRVUi1CVWNBcThPQWRRdlpUUmZiakxsdlViZzV3enRLNWZoNkpCeGZ1LW0wM2NQaE5makhCRk94UTVKTVRfQVlCeDdCX0FEX0doMm0zV2tONXNaTXNfMWNhcXozMUNGc1lTUmMxbDJnXy03cWNXM1VMcEFOdW9rRUc5ejdVT09vTy1NUU5FRTltWUE1d181Ni00SE9hTnhMMTlQdjNDUEJpczFFY0VyMGFjQnQ0QU1ZTHprMFBnNlUyUzY00gG_AkFVX3lxTE4wMVhWMUcyVThrRGFSc1pyV0xSOUFXdFVlUElSdnlkeGp5THVXY29GcWxlQ0Fsd3NHa0U2LXQxX1JHUjR5dkNTS2tKbzZrM1dMQnBITTdmZG1KUHFQZ1NPVmVTR3FxUUtSWnpMSFVVTnEyQTlsb1hkZ09wM2dlRk5CcjAwQjdjbGkzYTlyTDVhWWx6OTljdGJfVDRDS2tiTDNhUnpmUzVYeTdVTndmRk9CekNmYnpwSWFiUWdBbGotNEVwYnV3N3ZHNmlqN1ktOU9WTUxCRnJGQ1ExYkRpR0YyM0ZBQVNoZ2w3UDhRdTNocEt1OWh4RzljTzF6SXZ5TmN3SjJYZ1A2MEpGRVlFSGJJLVZKZmw4Mm43eWMwYUl1aUozdk0xbUpFVVR6M1FxWnBuZ3dCNXMzT3JRTDI3MkE?oc=5>
 
-### 花580元仅支持看大屏？周杰伦演唱会 “大屏观演区” 引发网友讨论
+### 特朗普：普京已经让步了，他本可以更加强硬，而乌克兰正在输
 
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5953466437_162dab0450670bi5xc.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-11-17 11:46
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFB6MEZBZVlzM2o3cHoyREhtTXNiUXJfWGFXbnJ2d0NNc2NFUEptODFTZ1E1ZDFHdWlKVWJnOTlzRm1MX1lzTnM5Rm1mcHY?oc=5>
 
-### 演唱会明码标价的遮挡就不是遮挡吗？
+### 特朗普提名的政府监督官员人选遭共和党人反对
 
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_3203137375_mbeebff5f03302v0li.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-11-18 00:46
+- 链接: <https://news.google.com/rss/articles/CBMiygJBVV95cUxPWnpVY0VkemxiQ0pkSk9GVlQwLTlwSjlIbDVHY2ZIaENpcFdQejdPSHlDYlp1UzFCM2NHQjFxcGpEQ0s0YnFSTUw4TVpZLU9hQ0I1aU1DbVFjOU5DdlRWV1NmOUNDSFIyMkNIQ0xQelJjbkpfdV9rdHAzcGtLSXZlemJJYXpLdEljWlFKQ2F3STJKd1Y3RDl4Rk1MWlBrZ29KQXhqYUlrdFNkd0ZuMEQ0VTFwZHdia1RwVmtzZFlVWF9BUVV3ZDloTVZEckVqNjJSLW9sNkFyLWJheHpFQmdFRlpGZzk4RGJoQlItVHJpR01WcmVyMHpod1JESHdseDMydXZEUEoxbk5FcGJ0TDVnY2RldXlKSVVsNEhZTlQ3LWs1MkRIbTRPVDFJNE9tWS15bk96ZFpaTm1hWWFnV3hZaVpLa2lmSnNmSWc?oc=5>
 
-### “580元仅支持看大屏”，周杰伦演唱会门票引争议
+### 美国收紧芯片管制，特习深圳会晤面临新考验
 
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5952915705_162d248f906703tk9e.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-11-17 22:30
+- 链接: <https://news.google.com/rss/articles/CBMirgFBVV95cUxNdUNrQjVwOGNtUzFmVDh2VnF6Vm1sYmdPd285ajctMXA0OFN5S08wUzN4Y1M5V3VWY2t1VWdpSXZNc0xHVnJZNHhtREZRVENRTVVJdnllb0JwVlZ4NjZnSnQ0ODQybi1WTlFEbXVJRE52WmJiUmZrcllabVVwTUVYOTBuNU84dlF3ZUZoX1pQVkhtSXFnT1NtZ0pvVWhXQTVSYzhONGh2UjFlSVROaHfSAbABQVVfeXFMUGhSelJnOTlBZzhSN29uckptcW0wM201MnVJUWlSTG5MXzhFalpwMGtnVFpZWWRtYlp4TEd2THh3VHRhWF9lM2FjT2doZlplejBGNFdNMUhPOXVoSmlsZFoxOXcwWkFOT2N6Z011N0pPNmNiV3JpenJjTXhuT3BtXzl1TWJtN3pxb3JXWmlQWHBMWnBaTE02SkRuZFQyZV9nR1VtQXJRMFRock5fOEF5OEc?oc=5>
 
-### 老实说：喜欢听杰伦唱歌的你们都是什么年龄～ 都准备好抢票去听演唱会了吗？
+### 昔日对头变权力搭档，米勒与鲁比奥如何影响特朗普政府政治议程
 
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923674_m1d5ae17da03301t9v4.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: ThePaper.cn
+- 时间: 2026-11-17 23:17
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1Tkt3alhqTjNCQTR5UXdXLTgzYlFuRmRiUl9iWjN3Nk9YbmhVaEJXeXhIWnFRWGR6UGpiRXM2RW42N0RrWDE5OUVmSTlKNE42TkdoQTZEcndWX2VvVGkyVQ?oc=5>
 
-### 周杰伦27年演唱会官宣
+### 快讯：高市与特朗普在菲律宾进行交谈
 
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5095950706_12fbe097204001eshe.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 共同网
+- 时间: 2026-11-18 00:26
+- 链接: <https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ER2xsY2VFbkVYTGEwSjh2OGphbG1aRVk5ZUFKWDhCUTdLd3VVVVg5enZLT2xsaDdIMExZcHJrVWpfVk02blQxbzR3Z2RkUFVqNk1ZS2J6dw?oc=5>
 
-### 周杰伦27年演唱会官宣，武汉锁定兰亭序
+### 特朗普出访亚洲团队名单曝光
 
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1784505422_6a5d644e0400147ie.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-11-17 11:17
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE96VEVDRmFSVGgzTmZ5Q01kaEFCajRmLWs3eXNhR1RlUi1ETmd5X2tURzdqMmdEYlJCbUpvYi1veno4SEdiaFEtSjFvSlc?oc=5>
 
-### 花580元仅支持看大屏？周杰伦演唱会“大屏观演区”引发网友讨论
+### 美媒梳理特朗普出访亚洲团队名单：鲁比奥、贝森特等在列
 
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://finance.sina.com.cn/jjxw/2026-11-17/doc-inizacmx5328829.shtml>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经_金融信息服务商
+- 时间: 2026-11-17 12:28
+- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxNeXhHWnI2OTNqV2YtYV9OQnFIS0Y5ZUNCNFFVQzdkRUM5dFFGeDN1N0NjUlozVlJOWmVtdFc1WEJyczQ2Q0RzVGgtWF9LVHlua2FFdzdhaFVaR1hBV3FHemtlc3BOQXdEZWYtYnQyTGtUbUVPSDBWRjN0eEhMeERHTG5KUQ?oc=5>
 
-### 580元票档备注“大屏观演区，仅支持看大屏”，周杰伦演唱会门票引争议
+### 特朗普声称：美国稀土产量将在10个月内追平中国
 
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://finance.sina.com.cn/jjxw/2026-11-17/doc-iniyzxcx1664967.shtml>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者网
+- 时间: 2026-11-17 13:31
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE9ucnEzN3c0eTZjSjhuSkxpTHN4dDFzZHRxVkdrYnEyLWV2ZTRHbVE3Snpkcjd2S2ZTZDZyYkZPSjFqbGZRV21wYU5UM2hMZjVjS2prRGZIdEJjTlZKTkEwUTdkaGZRbi11LXhEV3pVUV80bEE?oc=5>
 
-### 580元只配看大屏幕？ 周杰伦演唱会“遮挡票”秒售罄！黄牛炒到2600元，网友调侃“跟看电视没区别”
+### 英伟达丑闻加深特朗普政府内部裂痕
 
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://finance.sina.com.cn/jjxw/2026-11-17/doc-iniyzxcx1652998.shtml>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 纽约时报中文网
+- 时间: 2026-11-18 00:40
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5CSmJBclY4SVJnVS1wZnZEYko0U1o3QmdpNEVsYkZrVTNwd25ZYngtYVdkcElnWUFaR0VEQzFsTVlUMWwweFZocXdTLW5SNEt3UnY3VWktYkxwS0pjb245R0ZYQUdBeWNXM19CTzA5NGs?oc=5>
 
-### 580元仅支持看大屏，周杰伦演唱会门票引争议，网友：不如回家看电视
+### 特朗普败选使拉美盟友陷入尴尬境地
 
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://finance.sina.com.cn/wm/2026-11-17/doc-iniyzxec7540617.shtml>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-11-17 21:21
+- 链接: <https://news.google.com/rss/articles/CBMinwJBVV95cUxQc1p3SU5WV09yYllPQWl6c3lQRl9jQW5UUWFUQ3o4dzdmdUh4X296QWVWaU9zU3hJSUNkQlpVcl94TFFxWFo5enVmNUlLdVFUZnBKODlFbnNKUzE0ZkRaRUQtU0NTRktiTC1sLTJLc1l6VjJmdGVOdjJ5d0NfdVJQbW9MS1ZJZnU5MXZUb0V1SHhjUHRyUzVGbGt0NjloY2gtdHNMam1HVXY2RGJvRTZHUkkydzhib0ZwcmdxYmE5b0xyeFlWSFpCQkdyOVlVd0wzR1R3V01iSzV6X252Skc0UkpYOEtteUJza1hmQWVkWWx4d0pFZmd5dlBjNzB6NzRfeUJFZi13UXl0SEVMTGl1YWFFclNPRGdCV19LRzdnYw?oc=5>
+
+### 特朗普在马尼拉会晤地区伙伴，开启亚洲之行
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-11-17 17:15
+- 链接: <https://news.google.com/rss/articles/CBMiswFBVV95cUxORHk5TWNpLXA0M3JjVHljNEkySzFvdTB0ZkVjeFhwcEc4OVd2ZkhaTjNlaTdXWGU2aGxsZkM0Y0VoOVJJbzN0OElBeU1vUTlUU3FxZm4yTGJKMDZZaloxOW5VSEhOYW5Td21BejFrSnZNSGQwN1lSTkFxbnNJY2M4UWdjQnd0eGsxLU1OcEd0VlFpQmZqZFJrdHFsbVY5WkY2OG9NUnFEZVJXSlBRZC1kdVp6ONIBtgFBVV95cUxOVDUwdUc0T0tfdnNPbEJRWGtsMnNaZFRlT3gtcElMejZmR3dsQXQ5UkxxQlp1TnpDYWp2RlNNZFkyTmdXWUg4UnpzUXdwV2RsZmdaWW1kNTZuQmhhMWpyTU1jV3lBdGdrMjEzTGtXMTA5YjVkN0F6c3l5YUJEcEdBVzljenNJemgtek9TZHNLeVEyd1JKUXJvWlBJbTBjeDVKQm9faWxKNnVyVktkclpBcUt1NWdQdw?oc=5>
+
+### 路透：特朗普政府拟推进光收发器进口限制，不顾科技巨头游说反对
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 富途资讯
+- 时间: 2026-11-17 11:49
+- 链接: <https://news.google.com/rss/articles/CBMipwFBVV95cUxQU2R2UjJfa1ktaFVPU3hRam9Jbk1xT3ZHOXR3RkxwdkVOeTlfa3oxM2pXUmRZbmYwajlFVTZtLWxaS1d2em1JamNIWDN4UTlCc05id1BVQlhiSDNoR0pRSVUxUHE4OGtKWHpIR2h2UlFyMFl3SXVPV2hEcGluTWtnNFdfa09DdEY2WXVUYXI2Tl9zMTNrQmJNT1dEWVhxSU4za28tNFVMOA?oc=5>
+
+### 特朗普以矿产、能源和武器争取亚细安领导人 并承诺会接听其电话
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: The Business Times
+- 时间: 2026-11-17 23:59
+- 链接: <https://news.google.com/rss/articles/CBMi0wFBVV95cUxNd2pyRm1rU1hHZmNHRGJQbHpmOG9LeVpwMmNzbms4Ny1idEplMENIbnBLQVRqdEJfemFQbGNSeTlFcmNFdWxzR2VaTkxTYmZScno0Q3NhNkRGRVZLSmdqeVQ0TTBFZzFvUERVTzM2NWhtbURPNVBNM0NRUnY4eGdCRTJTcEU5Zk9xamxjc0xoUDBCQ3UxT0FjeXBJaW1LdmFZamEtZkFNZXFWSWJUZGZhcl93VW9nQ2pEb1B3UC1ZZjdqbU0zZ29Oc3c3dGF6WDZCaS1v?oc=5>
+
+### 特朗普中期选举受挫后重返世界舞台
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-11-17 23:30
+- 链接: <https://news.google.com/rss/articles/CBMikAFBVV95cUxOdEdUSkxFOW9nY2Y1MG5vemNEWmJaRF9pczE2VUlZRFcyOGlwY0FMNjRDNk45YmlGOXJ0YnJyQVBMR2JzNTMxLWJTREJ2OXhWV0V2bmRNWW1NR0R1NFpwcXZ1M082ZjNsVWJxc0I1RjVwa1ZhLTFOTXFrRXFfR1ZrdlFTSnBDSTFyMHdpUFFack4?oc=5>
+
+### 特朗普重申美国坚定支持东南亚 形容为最佳商业伙伴
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 8world
+- 时间: 2026-11-17 22:17
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1mb3Rnd0xMRVJjWUl2VXJPaXJaczNwR2VyVjJNdVBxY3RqbUFzbHMtdlItUkJSdFV6bzhraUt3R2J1a0lxZTNQOVllNzFPbERxX0Fvd0xlNGhvWVJRTW5EXzhWeWthQ0hzd1lmSHpnc3hjTC1mLUh1LTF0M1BZckE?oc=5>
+
+### 特朗普总统：美国正在“调查”伊朗正制定计划在华盛顿引爆“脏弹”的报道
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-11-17 17:34
+- 链接: <https://news.google.com/rss/articles/CBMi6gFBVV95cUxQV3Q0OTZfYnhHVTJTVjhhV0N6T2R6bXJFUW1ya1pENlBobWFVS0U3dTBLSTdfeGk3OFdPVFlSd0NQLTJUMERyOHhtMkx0dEgzWkNvdzV4OTBERU5uUXcwc2JkdEdhN0ktN19rcHpyaXpBX0tzV3VaSGJnWjdEUkpHNlQzWkFQOXNNbHR1cGdCUXZiMzNMVjF5clFhTTQwclFsSnE2N1JscGMwbWxON3N2WGQwQzFXY1hob0RpRjBQaUJqZU1wYlBpTFdleHg5aE5UNEVaNlp6S1FZQ3lfdFBmR0NhX1pwSUVrUlHSAewBQVVfeXFMUHJZMzFQRXd1QWFrQjJlcU4tcmlITERxU0pRYlZfOTZiVC0wazQ0RlRoTUYyelA5dlZjOEV2TTlIRFU1bnRYYUhPLVg0ZWNnRzNUNDNjQTQ0cmNFLWNPRVJQdEx6YUQxTFRIQ2JsbXl0cEFmd1FGeXF1TEhCQlBMQUdOUjFDY2JvMHpKak90cGVqTGVXWlJ1WTg5VmVqWXdaTndxQVBkaFNiTm13cDVDbmpUQ1Q5X1pVRTltallWZmZfYVExVHFFa0xxNXVrWlFmTFk3QnFJUUtWTjZtU1NzcW9DOG8yaV9CMXpjZkc?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-11-18 01:05  (23 条)
+
+- **王一博** | 开心做梦见到肖战、王一博了， 并且参加了肖战的演唱会 <https://k.sina.com.cn/article_7879923704_m1d5ae17f8033021xxq.html>
+- **王一博** | 王一博雪邦12小时耐力赛什么时候开票？ <https://k.sina.com.cn/article_7879923111_1d5ae15a706801fqu8.html>
+- **王一博** | 王一博工作室发布的巴黎随拍内容有哪些？ <https://k.sina.com.cn/article_7879923111_1d5ae15a706801fqu6.html>
+- **周杰伦** | 周杰伦嘉年华2027巡演武汉站的门票什么时候开始售卖？ <https://k.sina.com.cn/article_7879776356_1d5abd86406801a24a.html>
+- **周杰伦** | 周杰伦嘉年华2027巡演的下一站是哪里？ <https://k.sina.com.cn/article_7879849300_1d5acf55406801509i.html>
+- **周杰伦** | ‌580元就看这！周杰伦演唱会引争议【饮茶论道】 <https://finance.sina.com.cn/roll/2026-11-18/doc-inizcexm4924885.shtml>
+- **特朗普** | APEC深圳峰会：特习会与中美俄三方会晤背后的大国博弈 <https://news.google.com/rss/articles/CBMivwJBVV95cUxQRXh0eWtTSzQ3cThncDM3aVZGeEs1OEVMQ1FlQW9VcUs3YVJ3Q2U5elJua0dPMTdyeGVyVVltel9DVXhfQmlWci1Cdnd0bEJnUTl5VDE4Sm9paklKQm5kYWJKTHVVZFduRlVuQURlRmdHakplUDJLeTRfZ3kyVmRLNU9rRTRVUi1CVWNBcThPQWRRdlpUUmZiakxsdlViZzV3enRLNWZoNkpCeGZ1LW0wM2NQaE5makhCRk94UTVKTVRfQVlCeDdCX0FEX0doMm0zV2tONXNaTXNfMWNhcXozMUNGc1lTUmMxbDJnXy03cWNXM1VMcEFOdW9rRUc5ejdVT09vTy1NUU5FRTltWUE1d181Ni00SE9hTnhMMTlQdjNDUEJpczFFY0VyMGFjQnQ0QU1ZTHprMFBnNlUyUzY00gG_AkFVX3lxTE4wMVhWMUcyVThrRGFSc1pyV0xSOUFXdFVlUElSdnlkeGp5THVXY29GcWxlQ0Fsd3NHa0U2LXQxX1JHUjR5dkNTS2tKbzZrM1dMQnBITTdmZG1KUHFQZ1NPVmVTR3FxUUtSWnpMSFVVTnEyQTlsb1hkZ09wM2dlRk5CcjAwQjdjbGkzYTlyTDVhWWx6OTljdGJfVDRDS2tiTDNhUnpmUzVYeTdVTndmRk9CekNmYnpwSWFiUWdBbGotNEVwYnV3N3ZHNmlqN1ktOU9WTUxCRnJGQ1ExYkRpR0YyM0ZBQVNoZ2w3UDhRdTNocEt1OWh4RzljTzF6SXZ5TmN3SjJYZ1A2MEpGRVlFSGJJLVZKZmw4Mm43eWMwYUl1aUozdk0xbUpFVVR6M1FxWnBuZ3dCNXMzT3JRTDI3MkE?oc=5>
+- **特朗普** | 特朗普：普京已经让步了，他本可以更加强硬，而乌克兰正在输 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFB6MEZBZVlzM2o3cHoyREhtTXNiUXJfWGFXbnJ2d0NNc2NFUEptODFTZ1E1ZDFHdWlKVWJnOTlzRm1MX1lzTnM5Rm1mcHY?oc=5>
+- **特朗普** | 特朗普提名的政府监督官员人选遭共和党人反对 <https://news.google.com/rss/articles/CBMiygJBVV95cUxPWnpVY0VkemxiQ0pkSk9GVlQwLTlwSjlIbDVHY2ZIaENpcFdQejdPSHlDYlp1UzFCM2NHQjFxcGpEQ0s0YnFSTUw4TVpZLU9hQ0I1aU1DbVFjOU5DdlRWV1NmOUNDSFIyMkNIQ0xQelJjbkpfdV9rdHAzcGtLSXZlemJJYXpLdEljWlFKQ2F3STJKd1Y3RDl4Rk1MWlBrZ29KQXhqYUlrdFNkd0ZuMEQ0VTFwZHdia1RwVmtzZFlVWF9BUVV3ZDloTVZEckVqNjJSLW9sNkFyLWJheHpFQmdFRlpGZzk4RGJoQlItVHJpR01WcmVyMHpod1JESHdseDMydXZEUEoxbk5FcGJ0TDVnY2RldXlKSVVsNEhZTlQ3LWs1MkRIbTRPVDFJNE9tWS15bk96ZFpaTm1hWWFnV3hZaVpLa2lmSnNmSWc?oc=5>
+- **特朗普** | 美国收紧芯片管制，特习深圳会晤面临新考验 <https://news.google.com/rss/articles/CBMirgFBVV95cUxNdUNrQjVwOGNtUzFmVDh2VnF6Vm1sYmdPd285ajctMXA0OFN5S08wUzN4Y1M5V3VWY2t1VWdpSXZNc0xHVnJZNHhtREZRVENRTVVJdnllb0JwVlZ4NjZnSnQ0ODQybi1WTlFEbXVJRE52WmJiUmZrcllabVVwTUVYOTBuNU84dlF3ZUZoX1pQVkhtSXFnT1NtZ0pvVWhXQTVSYzhONGh2UjFlSVROaHfSAbABQVVfeXFMUGhSelJnOTlBZzhSN29uckptcW0wM201MnVJUWlSTG5MXzhFalpwMGtnVFpZWWRtYlp4TEd2THh3VHRhWF9lM2FjT2doZlplejBGNFdNMUhPOXVoSmlsZFoxOXcwWkFOT2N6Z011N0pPNmNiV3JpenJjTXhuT3BtXzl1TWJtN3pxb3JXWmlQWHBMWnBaTE02SkRuZFQyZV9nR1VtQXJRMFRock5fOEF5OEc?oc=5>
+- **特朗普** | 昔日对头变权力搭档，米勒与鲁比奥如何影响特朗普政府政治议程 <https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1Tkt3alhqTjNCQTR5UXdXLTgzYlFuRmRiUl9iWjN3Nk9YbmhVaEJXeXhIWnFRWGR6UGpiRXM2RW42N0RrWDE5OUVmSTlKNE42TkdoQTZEcndWX2VvVGkyVQ?oc=5>
+- **特朗普** | 快讯：高市与特朗普在菲律宾进行交谈 <https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ER2xsY2VFbkVYTGEwSjh2OGphbG1aRVk5ZUFKWDhCUTdLd3VVVVg5enZLT2xsaDdIMExZcHJrVWpfVk02blQxbzR3Z2RkUFVqNk1ZS2J6dw?oc=5>
+- **特朗普** | 特朗普出访亚洲团队名单曝光 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE96VEVDRmFSVGgzTmZ5Q01kaEFCajRmLWs3eXNhR1RlUi1ETmd5X2tURzdqMmdEYlJCbUpvYi1veno4SEdiaFEtSjFvSlc?oc=5>
+- **特朗普** | 美媒梳理特朗普出访亚洲团队名单：鲁比奥、贝森特等在列 <https://news.google.com/rss/articles/CBMigwFBVV95cUxNeXhHWnI2OTNqV2YtYV9OQnFIS0Y5ZUNCNFFVQzdkRUM5dFFGeDN1N0NjUlozVlJOWmVtdFc1WEJyczQ2Q0RzVGgtWF9LVHlua2FFdzdhaFVaR1hBV3FHemtlc3BOQXdEZWYtYnQyTGtUbUVPSDBWRjN0eEhMeERHTG5KUQ?oc=5>
+- **特朗普** | 特朗普声称：美国稀土产量将在10个月内追平中国 <https://news.google.com/rss/articles/CBMic0FVX3lxTE9ucnEzN3c0eTZjSjhuSkxpTHN4dDFzZHRxVkdrYnEyLWV2ZTRHbVE3Snpkcjd2S2ZTZDZyYkZPSjFqbGZRV21wYU5UM2hMZjVjS2prRGZIdEJjTlZKTkEwUTdkaGZRbi11LXhEV3pVUV80bEE?oc=5>
+- **特朗普** | 英伟达丑闻加深特朗普政府内部裂痕 <https://news.google.com/rss/articles/CBMicEFVX3lxTE5CSmJBclY4SVJnVS1wZnZEYko0U1o3QmdpNEVsYkZrVTNwd25ZYngtYVdkcElnWUFaR0VEQzFsTVlUMWwweFZocXdTLW5SNEt3UnY3VWktYkxwS0pjb245R0ZYQUdBeWNXM19CTzA5NGs?oc=5>
+- **特朗普** | 特朗普败选使拉美盟友陷入尴尬境地 <https://news.google.com/rss/articles/CBMinwJBVV95cUxQc1p3SU5WV09yYllPQWl6c3lQRl9jQW5UUWFUQ3o4dzdmdUh4X296QWVWaU9zU3hJSUNkQlpVcl94TFFxWFo5enVmNUlLdVFUZnBKODlFbnNKUzE0ZkRaRUQtU0NTRktiTC1sLTJLc1l6VjJmdGVOdjJ5d0NfdVJQbW9MS1ZJZnU5MXZUb0V1SHhjUHRyUzVGbGt0NjloY2gtdHNMam1HVXY2RGJvRTZHUkkydzhib0ZwcmdxYmE5b0xyeFlWSFpCQkdyOVlVd0wzR1R3V01iSzV6X252Skc0UkpYOEtteUJza1hmQWVkWWx4d0pFZmd5dlBjNzB6NzRfeUJFZi13UXl0SEVMTGl1YWFFclNPRGdCV19LRzdnYw?oc=5>
+- **Trump** | 特朗普在马尼拉会晤地区伙伴，开启亚洲之行 <https://news.google.com/rss/articles/CBMiswFBVV95cUxORHk5TWNpLXA0M3JjVHljNEkySzFvdTB0ZkVjeFhwcEc4OVd2ZkhaTjNlaTdXWGU2aGxsZkM0Y0VoOVJJbzN0OElBeU1vUTlUU3FxZm4yTGJKMDZZaloxOW5VSEhOYW5Td21BejFrSnZNSGQwN1lSTkFxbnNJY2M4UWdjQnd0eGsxLU1OcEd0VlFpQmZqZFJrdHFsbVY5WkY2OG9NUnFEZVJXSlBRZC1kdVp6ONIBtgFBVV95cUxOVDUwdUc0T0tfdnNPbEJRWGtsMnNaZFRlT3gtcElMejZmR3dsQXQ5UkxxQlp1TnpDYWp2RlNNZFkyTmdXWUg4UnpzUXdwV2RsZmdaWW1kNTZuQmhhMWpyTU1jV3lBdGdrMjEzTGtXMTA5YjVkN0F6c3l5YUJEcEdBVzljenNJemgtek9TZHNLeVEyd1JKUXJvWlBJbTBjeDVKQm9faWxKNnVyVktkclpBcUt1NWdQdw?oc=5>
+- **Trump** | 路透：特朗普政府拟推进光收发器进口限制，不顾科技巨头游说反对 <https://news.google.com/rss/articles/CBMipwFBVV95cUxQU2R2UjJfa1ktaFVPU3hRam9Jbk1xT3ZHOXR3RkxwdkVOeTlfa3oxM2pXUmRZbmYwajlFVTZtLWxaS1d2em1JamNIWDN4UTlCc05id1BVQlhiSDNoR0pRSVUxUHE4OGtKWHpIR2h2UlFyMFl3SXVPV2hEcGluTWtnNFdfa09DdEY2WXVUYXI2Tl9zMTNrQmJNT1dEWVhxSU4za28tNFVMOA?oc=5>
+- **Trump** | 特朗普以矿产、能源和武器争取亚细安领导人 并承诺会接听其电话 <https://news.google.com/rss/articles/CBMi0wFBVV95cUxNd2pyRm1rU1hHZmNHRGJQbHpmOG9LeVpwMmNzbms4Ny1idEplMENIbnBLQVRqdEJfemFQbGNSeTlFcmNFdWxzR2VaTkxTYmZScno0Q3NhNkRGRVZLSmdqeVQ0TTBFZzFvUERVTzM2NWhtbURPNVBNM0NRUnY4eGdCRTJTcEU5Zk9xamxjc0xoUDBCQ3UxT0FjeXBJaW1LdmFZamEtZkFNZXFWSWJUZGZhcl93VW9nQ2pEb1B3UC1ZZjdqbU0zZ29Oc3c3dGF6WDZCaS1v?oc=5>
+- **Trump** | 特朗普中期选举受挫后重返世界舞台 <https://news.google.com/rss/articles/CBMikAFBVV95cUxOdEdUSkxFOW9nY2Y1MG5vemNEWmJaRF9pczE2VUlZRFcyOGlwY0FMNjRDNk45YmlGOXJ0YnJyQVBMR2JzNTMxLWJTREJ2OXhWV0V2bmRNWW1NR0R1NFpwcXZ1M082ZjNsVWJxc0I1RjVwa1ZhLTFOTXFrRXFfR1ZrdlFTSnBDSTFyMHdpUFFack4?oc=5>
+- **Trump** | 特朗普重申美国坚定支持东南亚 形容为最佳商业伙伴 <https://news.google.com/rss/articles/CBMif0FVX3lxTE1mb3Rnd0xMRVJjWUl2VXJPaXJaczNwR2VyVjJNdVBxY3RqbUFzbHMtdlItUkJSdFV6bzhraUt3R2J1a0lxZTNQOVllNzFPbERxX0Fvd0xlNGhvWVJRTW5EXzhWeWthQ0hzd1lmSHpnc3hjTC1mLUh1LTF0M1BZckE?oc=5>
+- **Trump** | 特朗普总统：美国正在“调查”伊朗正制定计划在华盛顿引爆“脏弹”的报道 <https://news.google.com/rss/articles/CBMi6gFBVV95cUxQV3Q0OTZfYnhHVTJTVjhhV0N6T2R6bXJFUW1ya1pENlBobWFVS0U3dTBLSTdfeGk3OFdPVFlSd0NQLTJUMERyOHhtMkx0dEgzWkNvdzV4OTBERU5uUXcwc2JkdEdhN0ktN19rcHpyaXpBX0tzV3VaSGJnWjdEUkpHNlQzWkFQOXNNbHR1cGdCUXZiMzNMVjF5clFhTTQwclFsSnE2N1JscGMwbWxON3N2WGQwQzFXY1hob0RpRjBQaUJqZU1wYlBpTFdleHg5aE5UNEVaNlp6S1FZQ3lfdFBmR0NhX1pwSUVrUlHSAewBQVVfeXFMUHJZMzFQRXd1QWFrQjJlcU4tcmlITERxU0pRYlZfOTZiVC0wazQ0RlRoTUYyelA5dlZjOEV2TTlIRFU1bnRYYUhPLVg0ZWNnRzNUNDNjQTQ0cmNFLWNPRVJQdEx6YUQxTFRIQ2JsbXl0cEFmd1FGeXF1TEhCQlBMQUdOUjFDY2JvMHpKak90cGVqTGVXWlJ1WTg5VmVqWXdaTndxQVBkaFNiTm13cDVDbmpUQ1Q5X1pVRTltallWZmZfYVExVHFFa0xxNXVrWlFmTFk3QnFJUUtWTjZtU1NzcW9DOG8yaV9CMXpjZkc?oc=5>
 
 ### 2026-11-17 18:01  (17 条)
 
