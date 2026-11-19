@@ -1,96 +1,319 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-11-18 23:46**
-- 本轮扫到 16124 条, 新增 **10** 条
+- 最近更新: **2026-11-19 05:29**
+- 本轮扫到 16162 条, 新增 **38** 条
 
 ---
 
-## 本轮新发现 (10 条)
+## 本轮新发现 (38 条)
 
-### 20位共和党众议员联名呼吁特朗普总统在深圳向习近平提出政治犯问题
+### 王一博要开演唱会了吗，唱跳舞台引期待
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-11-18 23:29
-- 链接: <https://news.google.com/rss/articles/CBMiygFBVV95cUxPS3lkeXdtS2hNQkIyZC1GV2ZpY2kyNmlVLS1mX25uWFJicGpEUFBjc1FYa0VtV2dTdFNlYnM3ZUlBSVNPVUU2ZG8xRUtteGkzQmZRYTkxOHZBNWJ6NC1YeC04c2lvLTQwUmZyNWEtVjBEOUQyY251dE4yRy1lc3V3S3UxclA0ZlVKLUJmU0dVSTRNc2JndndRcjZoUUxRTS11cVNGTnh2aGg2eFBYcGVhOFRSQXhXelllZjFUdTFwM2tvT0cwbWpZNGpR0gHMAUFVX3lxTE1GQUREX09NbUxUdzF5LWtyc3FJeG1uUzNGelJvdWF6djlRUXFXa1poaVd2WVowWFhWdXR4dGlycmZROXNiOVpWV1R1Z3hLS04tbDVwYV81WExZVXhZZ25PYUVEYmNSbkh2YnpNWndDSmxKU3gtelRQUFhLRlZiSG14Y08wUTBHeDZCUUJjX3dkd2daaEw1UjgxV194eTFLc3JUMTNGUjVRczFIS0FvUFB3Yzh2ZVZ3b2pEazNZMlE1UExtSzRYNTIyTXcxcQ?oc=5>
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_2653906910_9e2f67de040028wa0.html>
 
-### 看人下菜碟与大国气度
+### 王一博个人演唱会的门票价格大概是多少？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-11-18 23:12
-- 链接: <https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSnRPMkpqUDZ0Zml0X3FtZlVhVkUwUDJlVWZGR1pDa2hSdmdqYmxYTGwyNjhMYmN0ZUxXWW96ejFxZkItRVRpVHcwRkdBSnpDaE9RMHdtUVB0X2dJTW52dURwMHpIMEhDaHFXbi0tajlOVTlpZWVjWXNUdGpDdjBteF90S2w4TE5kRUR1Q08wckwwZ1BtOEh3Z0Y5VnBpWlV5ZUdJRENXdjlOYWNvRzlTX3JQZVg1Z0ozUWlLcXlrOU12WGdfdFJwM01Bd0xQWEN3bzN0MUkyMA?oc=5>
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd86406801a68q.html>
 
-### 追上特朗普专机，马斯克又来了
+### 王一博演唱会传闻四起，粉丝蹲准信盼绿海铺满八万人场馆
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_3029879143_mb498496703301i5lg.html>
+
+### 王一博被传将在八万人体育场办个人演唱会
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7233688640_m1af29544003301gj16.html>
+
+### 王一博 演唱会
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_3053154652_mb5fb715c033018402.html>
+
+### 王一博八万人演唱会消息引热议，带病热舞展敬业素养
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5930868365_16181de8d04001n626.html>
+
+### 王一博天生爱豆感，期待演唱会见面
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5888328091_m15ef8c19b03303l158.html>
+
+### 粉丝对王一博演唱会传闻持什么态度，该如何辨别票务信息真伪？
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd86406801a5tg.html>
+
+### 曝王一博将办体育场演唱会，官方零官宣粉丝不约
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd86406801a5te.html>
+
+### 王一博演唱会网传引期待，粉丝盼个唱
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_3266730795_mc2b65b2b03301txzm.html>
+
+### 网传王一博将在能容纳8万人体育场举办演唱会
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5039775130_m12c64dd9a03301ee6o.html>
+
+### 王一博方是否已正式确认将举办演唱会？
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801q9ni.html>
+
+### 网传王一博演唱会将在哪个城市举办？
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801q9ne.html>
+
+### 如果王一博开演唱会，粉丝可以通过什么渠道购票？
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801q9o2.html>
+
+### 网传王一博明年生日前办8万人演唱会
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5255814135_139455bf704001frf2.html>
+
+### 瓜主爆料王一博明年上半年举办8万人演唱会
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5601456932_14ddf732404002liqs.html>
+
+### 曝王一博明年上半年30岁生日前将办8万人体育场演唱会
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5612278337_14e84924104001mdv2.html>
+
+### 肖老师演唱会引次优解语录，弟弟生日小作文同步出现
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7811247772_m1d1962e9c03301yajo.html>
+
+### 周杰伦演唱会大屏票卖580元，为什么还有人抢着买？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801q9y2.html>
+
+### 周杰伦演唱会580元大屏票到底能不能看到舞台？
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801q9xk.html>
+
+### 周杰伦演唱会580元票只能看大屏，粉丝吵翻了
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801q9x6.html>
+
+### 和普京会晤时，特朗普开了个玩笑，现场人员都笑了！
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-11-18 12:51
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE13SVZpSEtDSmJjSTEyQVEwMENEY3daeFAtb2QzdGZGejZEU0JVb3p2TFlSN1MtSDNtUXIwcDFlOWYzZmNtb0JFaTdZWlU?oc=5>
+- 时间: 2026-11-19 05:11
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5iNFFwS01qZ0o1cU1HeXAzenhJU0xSdGMwT2dRcVJlb29wSDdrWmJCSF83dDVqRndfNU1yYVBYb1VXZ1Q0QkhGZ2MwVW8?oc=5>
+
+### 深圳民众“追星”特朗普
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: BBC
+- 时间: 2026-11-19 03:57
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSeWFxZU5hbGo1bmFNNUpnT1NGemlWaHdEdDRXbk5hLTdEX0lxX2ZGMDNJWkt0ZVpWUUNmbEwycHVTUWF6YUFaUm1LVS1HQmJVZW8xVjlCOXY0M0VORVdJdWxLVjFMV0nSAWxBVV95cUxOcl9aaUZSNTdXaHBNQU1EaDBnWUJLaEJsWjcwWFF6b2JTc2FYQnV6RVl4UjI5SDB3UGE1MlR6dEIyNGdFNEVxX25rdXBUZ3JrZ3pKd0ZqYThqTjJibnlRRFdjMmdwYm01amJ0ck0?oc=5>
+
+### 深圳APEC｜美俄元首会晤 特朗普期待展开富有成果对话
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RTHK
+- 时间: 2026-11-19 04:48
+- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxQamFiQndpbUpReVNVb242cC01OGlXeEdGQi1TcklsX0JHRDE1UkZJaUhLQXhFRklDcm5kODFCTkxBaDBBLTc4ZjBYMlRjUVYwS0E4QV9QSXlxQ3ZCSlJxYXZFNHZOMzh4aldyeE1GOW51MEJlZGluOUxKenBXYU1kZERGNXYwM21ZTFYw?oc=5>
+
+### 中俄美首脑将首聚 普京特朗普先在深圳双边会晤
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-11-19 05:07
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE9YV0pFQTVwaUdhemcxeDBZOXFBRDdFZ2tiT2NIejN6MVROMVdOZnJSY1NkNzJ1OHZUM1A2WDhqZkJtTVVPS0tna3RMN3lvUVhUT3AtdXNNNGR3U3hTUEgxMTNiWEw2YlNJSHdz?oc=5>
+
+### 特朗普：民主党人可以随意给我提交任何他们想提交的法案。
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 手机新浪网
+- 时间: 2026-11-19 00:53
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9IbTJHMjRUNE9JamkydVpSRFFjWDFmM3hMd3BOWFJzZjA4Yjk0Rzl4cDJhejNtNDFXV0hPLWxEOEhKTlN6UDhsVy1nbw?oc=5>
+
+### 特朗普想恢复蒸汽弹射？国会：不，你不想
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-11-18 02:42
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1NSWNrdEhvWEg4bkYwVTJqQlM0dHA2dS1LVjA1dXJTNFNMTzFiUUhqb0tKQjFSWmlYNkNQWUdJS214NC1NYXh1U082VDNQVThhaXlzbUJHcjUxelBWMVNVallMUHduT1NmTnVXbnhzTmR3Z0o4RlFMdg?oc=5>
+
+### 特朗普抵深下榻深圳东海朗廷酒店，客房规模与性价比成美方外事采购关键因素
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 虎嗅
+- 时间: 2026-11-18 23:48
+- 链接: <https://news.google.com/rss/articles/CBMiVEFVX3lxTE92dzlOVlBPcFZHaTh2V0dPSWxER3ZYNnI0ZmpYVDZJTlQ5aVlVMVJCQWpqYUdqUjI4UHBnQXB3ank0MlBwaldSVG1tamVHclBFWUMxeg?oc=5>
+
+### 特朗普车队抵达深圳下榻酒店 马斯克现身随行大巴车
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 驱动之家
+- 时间: 2026-11-19 00:41
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE0yZWNGWU5PWTliTTZoQjJnVDQ2Y1A1N1lUTGhiVVY0eWRjTWQtLVRCSjJkeU1qUHpzUTdqYmZKM3pPcjQtSFIzTFYwV3d3V0RzMTFHamhydkM?oc=5>
+
+### 习近平罕见前往机场迎接特朗普
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 纽约时报中文网
+- 时间: 2026-11-19 00:08
+- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTE4xZXpNRVdVVnppdUcxcWtOd00za0tYUGF0MFJ3eDh5em4wQUxUS1dJOWVhTlY1V3l1dzl0Qy1WWDQ5OEUtek52emdpdU5yTWdGVkljTUVMa2Y2a1RYSjJkcDZpNnVyTFowWnVoanB3?oc=5>
 
 ### 习近平迎接美国总统特朗普
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-11-18 09:52
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE9venVvaTQ0NXdYUWFLNENWZ2FZSjVrUWs5cnZrNDl6SVR6VmZxLUtBUjZsd2VmZWV3akNWb3hNSXJQX2RxejBwZTFNMXNEQXNPX250NlNzV283NUkyangzXzNlRTZaMXlpTTlIc1pUZ2h3UFNZTUM3Q0wyWlQ4Nlk?oc=5>
+- 场馆: 中国共产党新闻网
+- 时间: 2026-11-19 00:29
+- 链接: <https://news.google.com/rss/articles/CBMibEFVX3lxTE9MMWVWZUFFQkZxR0ZoYjZJYkNnN1pSV00xU3IxUG5lXzltWmtsczBnQmYtVmZWV3VNSHNpcHlXb2lMSnFlZTNmc2hIZ2o2djVPczl3bk9pUWJlRGo1R2k1VVBKR19ZbVdVZkJYSw?oc=5>
 
-### 特习三会，特朗普“确信”习近平会提台湾” 专家认为会谈难有实质变化
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-11-18 19:41
-- 链接: <https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcmxjQ2NHYW1oNEFkdE9KSFlsc1JqZXJmZVdkN2F3dzQ2cVFfVjQ2aVZVUnZOZXU3VDNxMWZzVG40eUhzb1Q0cHcxSEVXQm9JT2tFcE5UY1NyRGRBTWJ6SjBxSks5Q0p1WGVheG1IcDgzMnE0QkVySkE5TnNrNVRHRHo2VWk5bUp5SXNXb1FENktYS3dkaFNkbzRCS1lJZVZnM2UxVDJIM2twamVMajYxSXp0dzl4V3lFY242T3JRNlLSAcMBQVVfeXFMTjNya2pEVzNzSWZKd0NUUU1rQ2ZXSTRtenk4dnJlY01TRHJKcEFTWEk2d0U0bnNUR0d1QzRnd1ZjTjNZZVcxWUIyODZvd1NobEZ5X1M4eklTZUxuSmN6RWl3bHZCN3lic2VwSHZXQmlIVmhOX01qQk9yNDZLUTAwdkhRZk9Qb211U2IzeW1JOVNaeTdUemtWZENadGVxc1NOUnFLNUl6al9INDJjNlJtaFFfMjZBUENNbWlLSGdPWklYZ3VF?oc=5>
-
-### 习近平迎接美国总统特朗普
+### 特朗普在APEC会议上疑似打瞌睡
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 国务院港澳事务办公室
-- 时间: 2026-11-18 09:54
-- 链接: <https://news.google.com/rss/articles/CBMiekFVX3lxTE9OZzdJVTJqMGZXXzE2Y2hqeDBVNmlkSzFkX2RXbFZycXpIMlVHY2xodVpRWHJqYjlyeDd5aGQ2Z3FjTlhCUmZzY3M4NVBIbkt2S2IzTi01ZEpBeG5VNWN5Y1Rqb3pnVFNubzktby1hdDczYmhJSW1oV05n?oc=5>
+- 场馆: 联合早报
+- 时间: 2026-11-19 03:55
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE9Fb0NYb0VHVUJjRlljQUozUG5qaTJmbFdVSFl1YzFyMnZ2YjJuaFl0ZVI5bDNMeDlzTVpKLUtMSmJ2SDIxTjk3RU43S193TWMyZHZXaVRqeFF1T21sQXRzQl81QXhBSGoxQTM4?oc=5>
 
-### 美国观察｜两院翻蓝之后，特朗普的“下半场”如何出牌？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 复旦发展研究院
-- 时间: 2026-11-18 09:01
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4WjhhQUNQNkhnWGRSZVNrc2pjU0d5bktMV0x5X3Q1WDQyYmwtT3dIXzd5cThtNjZRSVZqNG16aU4wUV81a3g5TXl1TWhyeVVabG5jTDRKYWFkUXVlNk00WXB6Mmc?oc=5>
-
-### Journal en français facile - Sommet de l'Apec: Trump, Xi et Poutine se retrouvent jeudi / États-Unis: la démocrate Mary Peltola devient sénatrice / GTA VI: le jeu le plus attendu et le plus cher de l'histoire...
+### 中美俄元首会晤不会成为另一个雅尔塔会议
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Le français facile avec RFI
-- 时间: 2026-11-18 18:03
-- 链接: <https://news.google.com/rss/articles/CBMigwNBVV95cUxNdmhudmpnbjgxZ3lfUGJmYVhZS2ZJVmZjUGhLMS1RRktoX3hSM0pEMjFNcVpjRmZRVTQxM2hWQmRwUmpGTUJkMzFXUllXOS1EcC1HcDhMV3d4WE1MWVhGTkQ3UExsTmR2ZzlmNHNWdFpmRTdRQnRtbXNHZEZleXpyNUFHbm03ektFWEJST1hSY0VoSGNGYzdGV3F6ZXFLOEF6VkJ5WFZBd0g4b0Vaal9jbGhPMG9sVFhUYmd1QllyYWxtOXQxdEMxWHdGbTFCUG9maHFYYXVBZ1p3aGRkbFE5YmYxbFE2elpMQUdoM21kTjJ4QlZYcXNFLUV2NVByWjdIR2loVDg3NFpEMkRGUnBtUnlMeGZ3MXZ0ZEZYcHhPYVU1Ulc1eFdGMlNTTlJXeWJuT3ljUi1lMEE4dXdySG8xSDJuVUd3T3ZxZDFhd18xNERhWFBaMHVNTW1Vd2l5aXJsMzlYTUdxRXN3TW9ZM3laalVvdmo0ci1vVmhLQUZ3YXlZT2M?oc=5>
+- 场馆: 纽约时报中文网
+- 时间: 2026-11-19 03:27
+- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTFB4anJzT3dqNnQ1SlNWOXBKOU1zS3NuNURyVDEwVUNmLV9UVVdCRjQ5bGdCd08tR0JFQmNBcFZ1OGVOSUJWTl9mbDdWR0lRUjc2YmpwMUctQ3pEV3g1dXdLYTZ0Qjc0N04tZ1FHV1NnaFhIUFV3?oc=5>
 
-### 选址深圳举办中美俄峰会，习近平意在展现科技雄心
+### 站在川普身旁的他被无视瞬间冷脸 尴尬一幕疯传
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 万维读者网
+- 时间: 2026-11-18 18:37
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9oYVlIV2Q2SlpJeTh6bGVOUm9haVMyVUhtUzZCSmU1Slg0dXBOQjl5RU82dGlodS1TYnpLSkx1TG1lNlQ0RGJjNm1ER083WTNrMkE3a19QVU96a2JfREJzT0FmY2hxZw?oc=5>
+
+### 特朗普总统在深圳APEC峰会说美国长期以来就是太平洋大国，反对监管扼杀超级智能发展
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-11-19 04:29
+- 链接: <https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMXBfcTBFamFSeGRGS2RJTnM0aElpSjUwZjJmWWE0Zk9uMUF1VVBhRG1QMTluT3JMRlBseUdSRzhsbktxMW5naUtvUWZiWEFOLWN5emU5cjRma3FQRHdNS2VWcW9oaVQ1V0l1SlItbXRZZm8wZW1MaHBveUZZa2lCX2lDY3NxQUMzLUF4TldvdWdESjhzbVRYRTNBd25JenZKREpLVlptS005dUsxT0ktTmVMdGtCaE9vNzJZ0gG-AUFVX3lxTE9XXzRwWXBvTkN1SVJocnlsa2hVTk5LZ0hnTWpVTGpvOU15SEF1VUJTVmY2S2lPSHl0Nl96Mk96a2R4aFpfOXhFbVFiM1JWN0w5TGZUc0dDVTRZdEtjZ2Z0RmprVFRKcEg5bDAzYVhOLTZ6MmFoajBGOHN5V3BjRFdJQTBEOF9uWUVPMUNqVXJrZGNDQUFMX1ZFZVJoc20yNDBSSUh4ajRJTDBmQmRKX0tUSkx6QlZOcHBlTGV3bUE?oc=5>
+
+### 特朗普、习近平与普京APEC峰会前握手
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: BBC
+- 时间: 2026-11-19 03:57
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Vd2lpN2N0RDRhTWNYUGhPLVZkZDdvY1J5cjNvUHUzUzdkYnlaTW1YQ2dRTk1uejBpTUIxRU5TR3pSNjR5N0JJekI0QXp2dzZKT0wtX3Z1dmZXLWRaUldwdk9kb3ozZUHSAWxBVV95cUxPUzA3RzJ2LTBxOU4xSFlUVFV3WlVkTk5sTU15NVRvQ1RxY3pjcHNOZUdtUXU5Mmw0SVk1ZXRwc2doM3RuWW9UM0I0WThTYnp4S2VGTDd1UHhrRlhzMlk5aDdEX1dqZjRvVmdfVnk?oc=5>
+
+### APEC: Trump looks forward to meeting with Xi and Putin
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: TVB
+- 时间: 2026-11-19 03:00
+- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxNRW1sLW9EdjR1UXYxamNCNkltemROOGtPWjlYSXctWlIwV1BudE9FV3dvQjd0SHVwSzdBQllxMk93S1NhY2FxWk9KLXdvZXNFTi1xNEhLaEdERWdDend3YkRVRmQ2NTlVXzFZSUtyX3dXZzdfUmh2bzRwRXpBMTY1LVl3?oc=5>
+
+### 民主党拟定针对特朗普的调查重点
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: 华尔街日报中文网
-- 时间: 2026-11-18 23:24
-- 链接: <https://news.google.com/rss/articles/CBMisgFBVV95cUxNTEJrZDEtRjd2M3NMRzdGaWtGdmdFQUhTRTFsUlV4TjBXSTRNMWJKMHdlLXdsSXFDekFoUmd3ekk1WDIzRXF2ci1WSmh3Y3V6bVplU1RNWWRZQkxCQnhHUFlhc3hDeUZycXNkV0c1THlBWjhsZTNNMVhDSzROYnJfUFZCZmZ4aG1YYzU4b2lPS01kVlBidl96QzRiOWtsYnpfVmJmV0xaNEV5OGVkNDB3Q1pR?oc=5>
-
-### 美中俄三方会谈在即 专家建议这么谈
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-11-18 20:20
-- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxNa1VycW1hLWxhUHBlYTA4NktfYU85ZG9oa2hDY1c5b0RDV3N5X3AxYkRRXzhlSUdqUW54UFdkTkhuVHNJS0o0WWpCeF9BQTRZdWxVVUpOUXdhcnF5cXhWNWVwNEVOMjNrMkcwdDFVTGQwc0dTSXRSb2NKME9GaHFGYmdyd3VNNmsxaWVLbGNKU1BYTUZEYVEzQWZCOHHSAZ8BQVVfeXFMUDd0OFBiZmJEWkVUM2c0ZXkyYkNoRlJ3MnBZZXo5a2RDZ3h5ZHREUzNjT1l1SnBRMGZNVlhqMW1ELVpScjdCVk1XVkxsUFFhbkdacU42N1BGSmM5RFU3cjkyUFVPeWNjX1Bsa1N1eHBuSGp0NkZYZFJIT3VSajJtMWpXLW1PMmhpWFNNTll4Nnl2ZmUyYXBmdlNpNV9OSzNn?oc=5>
+- 时间: 2026-11-18 23:58
+- 链接: <https://news.google.com/rss/articles/CBMihgFBVV95cUxNY3FIbmNUY3QwVkc4V0ZqZU81ZUZVV0ZlNGpYdkpqcEJibEc5LXMzbHRnZ3ZiUXdVeEp4dE80UDloOXB5Tkc4dUZNM3RCRmtkZk5YQUY5cGQyd3hZejQ0cmlhU1E5QXFFT2huWUxNYjliYUlqWjNIeG04VDZzNlNvQkNJcGlWdw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-11-19 05:29  (38 条)
+
+- **王一博** | 王一博要开演唱会了吗，唱跳舞台引期待 <https://k.sina.com.cn/article_2653906910_9e2f67de040028wa0.html>
+- **王一博** | 王一博个人演唱会的门票价格大概是多少？ <https://k.sina.com.cn/article_7879776356_1d5abd86406801a68q.html>
+- **王一博** | 王一博演唱会传闻四起，粉丝蹲准信盼绿海铺满八万人场馆 <https://k.sina.com.cn/article_3029879143_mb498496703301i5lg.html>
+- **王一博** | 王一博被传将在八万人体育场办个人演唱会 <https://k.sina.com.cn/article_7233688640_m1af29544003301gj16.html>
+- **王一博** | 王一博 演唱会 <https://k.sina.com.cn/article_3053154652_mb5fb715c033018402.html>
+- **王一博** | 王一博八万人演唱会消息引热议，带病热舞展敬业素养 <https://k.sina.com.cn/article_5930868365_16181de8d04001n626.html>
+- **王一博** | 王一博天生爱豆感，期待演唱会见面 <https://k.sina.com.cn/article_5888328091_m15ef8c19b03303l158.html>
+- **王一博** | 粉丝对王一博演唱会传闻持什么态度，该如何辨别票务信息真伪？ <https://k.sina.com.cn/article_7879776356_1d5abd86406801a5tg.html>
+- **王一博** | 曝王一博将办体育场演唱会，官方零官宣粉丝不约 <https://k.sina.com.cn/article_7879776356_1d5abd86406801a5te.html>
+- **王一博** | 王一博演唱会网传引期待，粉丝盼个唱 <https://k.sina.com.cn/article_3266730795_mc2b65b2b03301txzm.html>
+- **王一博** | 网传王一博将在能容纳8万人体育场举办演唱会 <https://k.sina.com.cn/article_5039775130_m12c64dd9a03301ee6o.html>
+- **王一博** | 王一博方是否已正式确认将举办演唱会？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801q9ni.html>
+- **王一博** | 网传王一博演唱会将在哪个城市举办？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801q9ne.html>
+- **王一博** | 如果王一博开演唱会，粉丝可以通过什么渠道购票？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801q9o2.html>
+- **王一博** | 网传王一博明年生日前办8万人演唱会 <https://k.sina.com.cn/article_5255814135_139455bf704001frf2.html>
+- **王一博** | 瓜主爆料王一博明年上半年举办8万人演唱会 <https://k.sina.com.cn/article_5601456932_14ddf732404002liqs.html>
+- **王一博** | 曝王一博明年上半年30岁生日前将办8万人体育场演唱会 <https://k.sina.com.cn/article_5612278337_14e84924104001mdv2.html>
+- **王一博** | 肖老师演唱会引次优解语录，弟弟生日小作文同步出现 <https://k.sina.com.cn/article_7811247772_m1d1962e9c03301yajo.html>
+- **周杰伦** | 周杰伦演唱会大屏票卖580元，为什么还有人抢着买？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801q9y2.html>
+- **周杰伦** | 周杰伦演唱会580元大屏票到底能不能看到舞台？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801q9xk.html>
+- **周杰伦** | 周杰伦演唱会580元票只能看大屏，粉丝吵翻了 <https://k.sina.com.cn/article_7879923021_1d5ae154d06801q9x6.html>
+- **特朗普** | 和普京会晤时，特朗普开了个玩笑，现场人员都笑了！ <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5iNFFwS01qZ0o1cU1HeXAzenhJU0xSdGMwT2dRcVJlb29wSDdrWmJCSF83dDVqRndfNU1yYVBYb1VXZ1Q0QkhGZ2MwVW8?oc=5>
+- **特朗普** | 深圳民众“追星”特朗普 <https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSeWFxZU5hbGo1bmFNNUpnT1NGemlWaHdEdDRXbk5hLTdEX0lxX2ZGMDNJWkt0ZVpWUUNmbEwycHVTUWF6YUFaUm1LVS1HQmJVZW8xVjlCOXY0M0VORVdJdWxLVjFMV0nSAWxBVV95cUxOcl9aaUZSNTdXaHBNQU1EaDBnWUJLaEJsWjcwWFF6b2JTc2FYQnV6RVl4UjI5SDB3UGE1MlR6dEIyNGdFNEVxX25rdXBUZ3JrZ3pKd0ZqYThqTjJibnlRRFdjMmdwYm01amJ0ck0?oc=5>
+- **特朗普** | 深圳APEC｜美俄元首会晤 特朗普期待展开富有成果对话 <https://news.google.com/rss/articles/CBMiiwFBVV95cUxQamFiQndpbUpReVNVb242cC01OGlXeEdGQi1TcklsX0JHRDE1UkZJaUhLQXhFRklDcm5kODFCTkxBaDBBLTc4ZjBYMlRjUVYwS0E4QV9QSXlxQ3ZCSlJxYXZFNHZOMzh4aldyeE1GOW51MEJlZGluOUxKenBXYU1kZERGNXYwM21ZTFYw?oc=5>
+- **特朗普** | 中俄美首脑将首聚 普京特朗普先在深圳双边会晤 <https://news.google.com/rss/articles/CBMia0FVX3lxTE9YV0pFQTVwaUdhemcxeDBZOXFBRDdFZ2tiT2NIejN6MVROMVdOZnJSY1NkNzJ1OHZUM1A2WDhqZkJtTVVPS0tna3RMN3lvUVhUT3AtdXNNNGR3U3hTUEgxMTNiWEw2YlNJSHdz?oc=5>
+- **特朗普** | 特朗普：民主党人可以随意给我提交任何他们想提交的法案。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9IbTJHMjRUNE9JamkydVpSRFFjWDFmM3hMd3BOWFJzZjA4Yjk0Rzl4cDJhejNtNDFXV0hPLWxEOEhKTlN6UDhsVy1nbw?oc=5>
+- **特朗普** | 特朗普想恢复蒸汽弹射？国会：不，你不想 <https://news.google.com/rss/articles/CBMieEFVX3lxTE1NSWNrdEhvWEg4bkYwVTJqQlM0dHA2dS1LVjA1dXJTNFNMTzFiUUhqb0tKQjFSWmlYNkNQWUdJS214NC1NYXh1U082VDNQVThhaXlzbUJHcjUxelBWMVNVallMUHduT1NmTnVXbnhzTmR3Z0o4RlFMdg?oc=5>
+- **特朗普** | 特朗普抵深下榻深圳东海朗廷酒店，客房规模与性价比成美方外事采购关键因素 <https://news.google.com/rss/articles/CBMiVEFVX3lxTE92dzlOVlBPcFZHaTh2V0dPSWxER3ZYNnI0ZmpYVDZJTlQ5aVlVMVJCQWpqYUdqUjI4UHBnQXB3ank0MlBwaldSVG1tamVHclBFWUMxeg?oc=5>
+- **特朗普** | 特朗普车队抵达深圳下榻酒店 马斯克现身随行大巴车 <https://news.google.com/rss/articles/CBMiWEFVX3lxTE0yZWNGWU5PWTliTTZoQjJnVDQ2Y1A1N1lUTGhiVVY0eWRjTWQtLVRCSjJkeU1qUHpzUTdqYmZKM3pPcjQtSFIzTFYwV3d3V0RzMTFHamhydkM?oc=5>
+- **特朗普** | 习近平罕见前往机场迎接特朗普 <https://news.google.com/rss/articles/CBMibkFVX3lxTE4xZXpNRVdVVnppdUcxcWtOd00za0tYUGF0MFJ3eDh5em4wQUxUS1dJOWVhTlY1V3l1dzl0Qy1WWDQ5OEUtek52emdpdU5yTWdGVkljTUVMa2Y2a1RYSjJkcDZpNnVyTFowWnVoanB3?oc=5>
+- **特朗普** | 习近平迎接美国总统特朗普 <https://news.google.com/rss/articles/CBMibEFVX3lxTE9MMWVWZUFFQkZxR0ZoYjZJYkNnN1pSV00xU3IxUG5lXzltWmtsczBnQmYtVmZWV3VNSHNpcHlXb2lMSnFlZTNmc2hIZ2o2djVPczl3bk9pUWJlRGo1R2k1VVBKR19ZbVdVZkJYSw?oc=5>
+- **特朗普** | 特朗普在APEC会议上疑似打瞌睡 <https://news.google.com/rss/articles/CBMia0FVX3lxTE9Fb0NYb0VHVUJjRlljQUozUG5qaTJmbFdVSFl1YzFyMnZ2YjJuaFl0ZVI5bDNMeDlzTVpKLUtMSmJ2SDIxTjk3RU43S193TWMyZHZXaVRqeFF1T21sQXRzQl81QXhBSGoxQTM4?oc=5>
+- **Trump** | 中美俄元首会晤不会成为另一个雅尔塔会议 <https://news.google.com/rss/articles/CBMidEFVX3lxTFB4anJzT3dqNnQ1SlNWOXBKOU1zS3NuNURyVDEwVUNmLV9UVVdCRjQ5bGdCd08tR0JFQmNBcFZ1OGVOSUJWTl9mbDdWR0lRUjc2YmpwMUctQ3pEV3g1dXdLYTZ0Qjc0N04tZ1FHV1NnaFhIUFV3?oc=5>
+- **Trump** | 站在川普身旁的他被无视瞬间冷脸 尴尬一幕疯传 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9oYVlIV2Q2SlpJeTh6bGVOUm9haVMyVUhtUzZCSmU1Slg0dXBOQjl5RU82dGlodS1TYnpLSkx1TG1lNlQ0RGJjNm1ER083WTNrMkE3a19QVU96a2JfREJzT0FmY2hxZw?oc=5>
+- **Trump** | 特朗普总统在深圳APEC峰会说美国长期以来就是太平洋大国，反对监管扼杀超级智能发展 <https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMXBfcTBFamFSeGRGS2RJTnM0aElpSjUwZjJmWWE0Zk9uMUF1VVBhRG1QMTluT3JMRlBseUdSRzhsbktxMW5naUtvUWZiWEFOLWN5emU5cjRma3FQRHdNS2VWcW9oaVQ1V0l1SlItbXRZZm8wZW1MaHBveUZZa2lCX2lDY3NxQUMzLUF4TldvdWdESjhzbVRYRTNBd25JenZKREpLVlptS005dUsxT0ktTmVMdGtCaE9vNzJZ0gG-AUFVX3lxTE9XXzRwWXBvTkN1SVJocnlsa2hVTk5LZ0hnTWpVTGpvOU15SEF1VUJTVmY2S2lPSHl0Nl96Mk96a2R4aFpfOXhFbVFiM1JWN0w5TGZUc0dDVTRZdEtjZ2Z0RmprVFRKcEg5bDAzYVhOLTZ6MmFoajBGOHN5V3BjRFdJQTBEOF9uWUVPMUNqVXJrZGNDQUFMX1ZFZVJoc20yNDBSSUh4ajRJTDBmQmRKX0tUSkx6QlZOcHBlTGV3bUE?oc=5>
+- **Trump** | 特朗普、习近平与普京APEC峰会前握手 <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Vd2lpN2N0RDRhTWNYUGhPLVZkZDdvY1J5cjNvUHUzUzdkYnlaTW1YQ2dRTk1uejBpTUIxRU5TR3pSNjR5N0JJekI0QXp2dzZKT0wtX3Z1dmZXLWRaUldwdk9kb3ozZUHSAWxBVV95cUxPUzA3RzJ2LTBxOU4xSFlUVFV3WlVkTk5sTU15NVRvQ1RxY3pjcHNOZUdtUXU5Mmw0SVk1ZXRwc2doM3RuWW9UM0I0WThTYnp4S2VGTDd1UHhrRlhzMlk5aDdEX1dqZjRvVmdfVnk?oc=5>
+- **Trump** | APEC: Trump looks forward to meeting with Xi and Putin <https://news.google.com/rss/articles/CBMiggFBVV95cUxNRW1sLW9EdjR1UXYxamNCNkltemROOGtPWjlYSXctWlIwV1BudE9FV3dvQjd0SHVwSzdBQllxMk93S1NhY2FxWk9KLXdvZXNFTi1xNEhLaEdERWdDend3YkRVRmQ2NTlVXzFZSUtyX3dXZzdfUmh2bzRwRXpBMTY1LVl3?oc=5>
+- **Trump** | 民主党拟定针对特朗普的调查重点 <https://news.google.com/rss/articles/CBMihgFBVV95cUxNY3FIbmNUY3QwVkc4V0ZqZU81ZUZVV0ZlNGpYdkpqcEJibEc5LXMzbHRnZ3ZiUXdVeEp4dE80UDloOXB5Tkc4dUZNM3RCRmtkZk5YQUY5cGQyd3hZejQ0cmlhU1E5QXFFT2huWUxNYjliYUlqWjNIeG04VDZzNlNvQkNJcGlWdw?oc=5>
 
 ### 2026-11-18 23:46  (10 条)
 
