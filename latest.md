@@ -1,156 +1,178 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-11-20 03:49**
-- 本轮扫到 16217 条, 新增 **18** 条
+- 最近更新: **2026-11-20 12:23**
+- 本轮扫到 16236 条, 新增 **19** 条
 
 ---
 
-## 本轮新发现 (18 条)
+## 本轮新发现 (19 条)
 
-### 王一博被曝将办8万人体育场演唱会，四人四种关系五年节目
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1780035495_m6a192fa703301sggy.html>
-
-### 全世界都在等王一博开演唱会，门票抢夺成焦点
+### 王一博本周最佳视频发布，小卷毛魅力酷萌甜
 
 - 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7785372469_m1d00b5b3503302n48a.html>
+- 链接: <https://k.sina.com.cn/article_2653906910_m9e2f67de033028zha.html>
 
-### 美中俄元首结束三方会谈 联合发布“和平宣言”
+### 王一博最佳赏味期视频发布，卷毛星星眼造型亮相
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-11-19 12:00
-- 链接: <https://news.google.com/rss/articles/CBMimwFBVV95cUxQVjhwdDRNY0o2ZHFJUW43dUtiYzV6WHlnN0FzYVZZR1dYa2I5TXFUOGV5cVVacGpNVFB1U1FaZGRRUDgyVEJvY0lOaXlEb3d1aDNiZEswbFNkOERWbU1UNFBuaHFLQ0NmNkJGOXdJdlBRZlFxQ2tPT0pCXzFYN0JUR2ZjdnJpNzlHM0JhMGxPUXlMbHRweHAxa1RNQdIBngFBVV95cUxOREpWRndPeHBXY1Z1cVdKU0VsR25CX2c0TVV1WU0xVHRMSm41MVBleTR4QnZySk55elNwZUktcEJzMndDbWFyRGMtb1ZrSnNuVmFyMmtQNnFqMW1vUy1LX3RKVFotSjNLRVVJUmpENnE5SHY3TDZ2Vl9ld3ZjNDJkeHh1Z0JySHRIU2JmbGE1Qm9sdHM4amQwa05wVnUwQQ?oc=5>
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5888328091_m15ef8c19b03303l47s.html>
 
-### 特朗普女婿最新发声
+### 王一博赛车夺冠攀冰打磨角色 超60万人许愿演唱会
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-11-20 01:40
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9YUUc1SjVmYy1aVUV6RW5vVG9JS1hRbWVpVlc2aFpqckVLN0VxX0NWNEc5S1JnMUFuYzMzOVFoVlM1cGpCc2d4QmhhV0U?oc=5>
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7811154182_m1d194c106033022um6.html>
 
-### 美国参议院否决限制特朗普对伊朗战争权力决议
+### 网传王一博30岁前办8万人体育场演唱会
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1797187531_6b1ee7cb04002lj3i.html>
+
+### 蔡徐坤香港演唱会姐姐团备20款小卡现场盲抽
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7811154182_m1d194c106033022u7m.html>
+
+### 董思成抽中了周翊然的礼物 我们桃花坞的欧阳周董组合又返场了
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7811247772_m1d1962e9c03301yfm0.html>
+
+### 中美元首共同观看特朗普竞选神曲《YMCA》歌舞表演
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 联合早报
-- 时间: 2026-11-20 01:42
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE5RLXB3cVBibFl2aHhWQUw0QllhdXduUmhhRFRCUDVZb0FFQUNWbE9JdlJPV3hrMHBGRGp3ZWdOWFpmUmZqQUhTc3FyZy1vdEw2U2liLTZjMnltcFN2WUdxQkwtWEpFY2VlZHlJ?oc=5>
+- 时间: 2026-11-20 12:12
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTFBuMHdFSk02T19uYzRxSExlWnJqT0pybmVaNzBCd1pMSl9fSkpjb0xXLWJCV0lJWU45R09sYmlHWkZlczNXSFVoV0NZQThicm43alNpZC1oTUEtQXUtbTc1Y0RWRV82SUxyUHJN?oc=5>
 
-### 特朗普谋求世界新秩序，紧张局势却有增无减
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 华尔街日报中文网
-- 时间: 2026-11-20 02:03
-- 链接: <https://news.google.com/rss/articles/CBMiswJBVV95cUxNcThuT0RRVGVkMmxKMFQ2V1RyZ0dkUU1BcnhhTTVyTUhfNGItUDRvU0pGN0xqN2h6WV95WlFwaHk5OEtmSnVvTzl4R0t1cWhiN2k2cGJaNjFZSE1ha0NncVF5QVo4aDlNVVdBckhYZmVFR01sQnFlc0ZNQTRLMW5BSzNxanNfdGt5TGpYVjV2a191VXVwUE1HOWdRbkhYTHUtOEg1UGtmOGIwUFdvYlZ4Y1RQR1pzNkRZd1llSVNWZXkwb09sNzgxelpKbnA3b09rR2hlTWRHZ0RhMGE2bGpvNnZiYldIOG1wTGg1V0hSMGo0aDFCSk9heEdPQTRUaGxtOUhFY1N3eHVlVFlBVFpjRE9VV3hjbi1TLU1lc1NKSUdSZl9EcTNiZUhLcUhhc1VVVGVR?oc=5>
-
-### 特朗普表示不会在新年前“仓促”决定对伊朗行动
+### 特朗普：我们创造了历史
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 央视网
-- 时间: 2026-11-19 22:30
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBMcFBfR0xIU0N5WVc2akVQRFFNOXR3VC1aSWRaZkxwNXZ0Y3VRT1JfQUtqUmh6aVB6NDFOYm1LbXRUT2paVmFCUkh3NXQtSEtnaTVzRnFhbEg1N0dKYmVQQ0tjME94dFFHTmVYTjYwYzNLMmRQeE8wUA?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-11-19 13:50
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5iMVFaem9tZXVnV1FoM0lwS3BrQk5VOTdhX0NlMzY5bW9UUlRPWlpRSTBwbm9paTVMQzU2MFpNZ1FFWVRrc3BFWVYyaE0?oc=5>
 
-### 特朗普：不会在新年前“仓促”决定对伊朗的行动
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-11-19 22:46
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFAzbUhXNGs4cncyYXFjVV9kc2Q3ak1YV2lXRlFuRk9KQXJjME5UOXZwX2ZnRzBmWmJDLUtWYVB2ck5DcHpTSXk2ZUdxZXJ2S0hrTVQ0S0ZtckNCd3pMZDB0SXZla25kdHR6cDY2ZVZ6OGJEaWs?oc=5>
-
-### 特朗普称新年前不会仓促决定对伊行动，白宫被曝要求评估伊朗对美打击方案报复选项
+### 高市早苗拍特朗普后背套近乎被无视，日网民连呼“没眼看”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-11-19 22:53
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FaHFKQkFVeS1VRHBZUkdxd3QzZVFwYVp4ZnpGVGplT19lTnE0U2NCdEc4cVlWVS1hV2JwVlhLOEVjZ2JtbDJ1b2JsRkNJZ2dLNzFj?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-11-20 11:22
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5fdVZwSjhzWGVQVzRJZzlPTU5NX2ZhLWZzeGhObG5MY25JMmtOd3JPY0xKbTI1a0tSVFA4WWt4UjZMTXlxNy1FMWJtU0E?oc=5>
 
-### 特朗普返美途中发帖：这是一次伟大且意义深远的访问
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: Sohu
-- 时间: 2026-11-20 02:23
-- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUGZaWnNaQlhZMUxTQ3JJbmZWT19MaldMaUFxT3hqeWs2eEU2ZTZ6cmJXd3FjWmE2QTJqMFlydHFUOE5TOUdRUTFJWUlITjIyZUVsUU5PLW5aS0VpUWI2SVdsaFhfa3FHTFhTeHB5aF9WcFcwRlhSWlRvTHZzdWc5SDE1b1dUbEdz?oc=5>
-
-### 习近平会见美国总统特朗普
+### 历时14小时！特朗普返回美国，下飞机就发重大预告
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中国共产党新闻网
-- 时间: 2026-11-20 00:27
-- 链接: <https://news.google.com/rss/articles/CBMibEFVX3lxTE5CaEFKLTcxQ2phUmxVSENyUnMzN2F1MDIwQUFuOWNGM2QzN1lEblE2Wl9ZdnpBY09VNDNVQVRTWjhudEl5eUdHMDBxRXRUbDVNV0pTdlRacU5FVF9RbG5xWW9rM0hweEN5d0tJWg?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-11-20 06:22
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBSLWNIbUJXeE5pbTdWdzNEeVZyZGN0dXR1WmQtUkRpT1E3WEh5UFFJbWt6Z093cnlDTlJrMWJleXRjWDZrLU9JRUMzN0M?oc=5>
 
-### 特朗普习近平深圳峰会 台湾议题未见新说法
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-11-19 23:41
-- 链接: <https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQVl2TDhVdW1TaEVfSnNjdWY2aV9jeXpISURXYldRMFp4cEJSZzBVWVJkTXAxa2hwSmVXNEVqTC1rQl8zV3BmZGw3N09NYTJMd3ZPRWpNUUZGN3hRMHlPd2U0RGRhY0tnWDF0YTJfRV9KbGpCNmpNSjRLTHZnTmFudGQ0aUlES0hkak5PaG5mUTdUN0JVUTRqb216R3o1MVV4NlUzUElZQWNoTThfUXBieTM3RzdZd3ZzYTROZEU1TTNsdmF1MktPeTVZSjRNT3VWQVRoSnBqbjJtSG_SAd4BQVVfeXFMT2xEd0l2RXFDSTRoY05fYjdvZFlMZkE3eUFFenc2WTJxNzhRb3hOQmdUaF9iSC1TeWgzSzNTZ3NGcUQ4NmNobDllblJfb1ctVms5bmVYM1plNkZkXzBtMkRVTDdQTkdldnpoWkdQZ214M214UkZWZmVnT05kUC15aExBQ2pTQnVtakdNWVFveEtFd1E3UFNXUnZ1UHRCTlhBNlRqOV92d3RvMDVRQk1FX0pHcWg1VUVjdWZWQV8zSlRudmhHZzN2RXYtTjBUNnFuQTc4UG1lY2JoWDRQX2N3?oc=5>
-
-### 习近平会见美国总统特朗普
+### 高声提问特朗普后 彭博记者被拒进入深圳峰会会场 中方称“大声提问很无礼”
 
 - 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-11-19 08:13
-- 链接: <https://news.google.com/rss/articles/CBMijgFBVV95cUxPa3oydDlCU013eUhla2pRY1BBaGV5dUVqX0s0YUVEeFQzQmxwdDJFczNmaS1OdnB0YnlVajZFbG5SaURMNUhxb1VoR1hpR0RodktRNzhTQVkzUFZhT1U2b2NaT01lMjNfYXBpUlFXVE5kTjM4SHE4bHEwYnJxQnBNdGJJSVZta3RUTEo5Nnpn?oc=5>
-
-### 深圳APEC峰会上三巨头首次聚首
-
-- 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: DW.com
-- 时间: 2026-11-19 13:29
-- 链接: <https://news.google.com/rss/articles/CBMi3gFBVV95cUxPT2dmalRSNV9rcE5zRjVHUWdMbVFtRnpJMUJOU1QzTDMxY3RFV0lOZ1NRWWY5eWtHYkZNOXdlMUEtdC1POTVTaWRNNTQyNlZQLUNTR0Z4bWhKQ1BCTmFDN2dMM29TVkUwS2N1bnVJYTRXV3VDY3ZCSThvNHBnTE9uSWhHNmZGa0lreF83UkxLejZnLVZ1RWVyWm9EYlZxdGJVdS1HOVZXV1lNMWJyMVFRV2hYYk8tVVp4TDNDb2l1akVJSkdZOFNtMll4X21tSTFyYTVhNzJwd1JiNUdtV3c?oc=5>
+- 时间: 2026-11-20 10:23
+- 链接: <https://news.google.com/rss/articles/CBMilAJBVV95cUxOcWExQUdxVGFTUGtfcUd5ZU1UWTd5VHBCNmRCUmo3Zlg3eVN6elZlUi0zd2FERWZMVHQySTI2UFZtRHh6UGFpMUh1NGljZEw4cUR3MzBINERUaHloeGV4cVVIdEdQaV9MWTR1NUZhNk1ocGxGaXRuNDVMSDVfSG5GXzczQXNDZmgwNmFVSXRJaGFWR2NtUjJzcHdQZXJIeWhvN0wyYi1lMndLN2J6bDBfcXR4aXl0U3dsRi1idzMzUEIyOFJQdmZQME5KXzZ5QWtXbE1EWU9NOWdydjBlMmRQdnd4aXpMU3daaEFPWEZnMmhiekRKTHVxRHRIRGhlbVdxUmJmNV91RnB6VUxWU25BWGxBQUPSAZQCQVVfeXFMUERtWXU2alNpRkNuc2swUF9mZGVkT25NenZFWWU4bkV4czlPOUVSTURkeTFaaklOdW5fLUZqVzZVb2ZmVURzQ1ZOS3RjVkk4RnVtYUhhVUc3UnhDSURHOGVKSHc2dGVhaWFoQTBsU3NrUXl0Mzl5MTVzMzFGOUYyMHhfWThiS2ZnZUdpMGFaeDUyUF9MUHZMUDQ1a0F4aGczVzVnVjZ3Vy0wVnA5cm1QTms0RGFETzFSYVM3NDdZdGs0R3NBRzFIeGZHREY2cEd1XzZCSmxOV0NFR0xNNWNkbmt3emd4UFNNa0NQMEFKcUpLaUdtLXc1VllDa0VTRmx2bC1ETzBwRm81V1ZrRFh0Sk1xeHY1?oc=5>
 
-### 特朗普专机离开中国 随行记者手机被收走引猜测
+### 结束中国之行后，特朗普和白宫接连发文：非常精彩、影响深远
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中国网
+- 时间: 2026-11-20 06:15
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE1FQVU4RVdPa19NaVlFajFtNGRrOGFVcWFMYWVEU3Z6aldRWHJmYm0tVW94bExNb29xVzNRNldSMnJhX0RGMllnRWJLaUJQbEtHOWNrU0dCQjRQRUMtSG1WSHN6enNmckd0Y1BQSUswbw?oc=5>
+
+### BBC驻北美记者：中俄美三方峰会场面大于实质成果
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: BBC
+- 时间: 2026-11-20 05:53
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iQUk5LWMtU3lvYlNFUTgxc1VWVnBRM0ZhZHREc3ZldXdnNHdVcW1oaTV1aVVwRkN2VTc2V0Z3UTNvOWF0RjVaWDFxLTFxWFBadmxVYlBzZUtubzFKSEJBZE00ZVh1SkXSAWxBVV95cUxQT1gzX29qZURZZG1DYkZFdi01dlJJNmd4X3ZrNlpHSG52cjlkbktrRUxYcTA2aW9fNW11NXoyYV9ueHVwWHhEVENhb2ZLNkUwNU1TdVlxX1hvSEJ3N3UwQm0zeFE5XzdtVDBIR2s?oc=5>
+
+### 世纪晚宴菜单曝光！特朗普、马斯克吃的啥
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-11-20 09:56
+- 链接: <https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbjJtYXcyVVQzY1Q0V3NNaG5iV3N4Ujc4bkF3YnUxQkppODRNU3FSbm5rMmlJUjF6dkQ2NGVRWUxJWUxnang1U0dodWZhVHB2b1hadnlJbTF3b2Njc1dTdzlzOVl6TE1WcmRnLTloOHpndHMxNGNYSzk3dmpLeExkUlhtWVdLVXhOUndjVWRCRVc4Mno1UGFDbW1sT0dDT2Q1RnZwbkFWMUtobzh2bXRBVVdreXctWFc5RlRuYkM0X29QNEdoanpqcnBXR3BNOEJ0V3JGMVdVNA?oc=5>
+
+### 半年内特朗普批准近90万高端芯片出口中国：英伟达AMD两家申请总计超340万
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 驱动之家
+- 时间: 2026-11-20 05:46
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE5SNlFTekZjX01rX2U1R3Z2cWdKeGx0UEd5RzAxWFhyVVpiaWlsaEk2OXJ0TndBREpqdk9Nb3JhNDZoNHNkczFDckFvM1k5Tk4wWnF4cHpGOWg?oc=5>
+
+### 特朗普投资账户一个月交易751笔，涉及资金最高1.48亿美元！英伟达、Palantir、SpaceX均在列
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 金十数据
+- 时间: 2026-11-20 05:48
+- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jQ2xGME9BVURFSnJobVJKQ3c0aDMxZC1xNjJjaldHaUdzX0p1d1AzYzhuV3VxbTd2R2dJXzZMaWNDWTJSSEphdEgwZEZvRFU?oc=5>
+
+### 特朗普：首次同中俄领导人三方会晤 外交政策开辟“不同道路”
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: 8world
-- 时间: 2026-11-19 15:40
-- 链接: <https://news.google.com/rss/articles/CBMinwFBVV95cUxPTnp5WHVHd1JnSTZJeFR5UE4xNUsyT184MEE5Tmd5RExGNlhMTEY5Z0NDTXA1SFhWR3NKUWF4cWd2dDE5RkZySGpLT2dGZF9YWFhDT2V5dnUtS0F4Mm5yZ0F4TXR4U1dZVm00TndodmdrYzI1WHIwYzdRWWNIY2h4WktuY2gxNE5zNUV2Nllva19DOEh4c0pBR1Y3ZC1BZTQ?oc=5>
+- 时间: 2026-11-19 10:04
+- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOEhJNlQwLTN5TTVENVk4azBqaHdRWGhBSXNaTS1Nc1pVQ0FZYkx0dDRNYTNnbk00TnVCNktISmhtejJSekZRa3hXNHVOM0l5VzMxeG9SNEZVTGI0bHNqbEhYSHhVQVlfRjdQcUdMOE1aOUxKTExEZlI3Uk11QW5mZjB6bHk3aEVwNmJz?oc=5>
 
-### 特朗普总统：伊朗可能正在转向使用毒气和生物武器
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-11-19 19:31
-- 链接: <https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWjBvV0xiZnpuVUpZcFZFM0w5T1RiWVNlMXV3RERQdWJmNnA0RkVuN3BnbnNxTm02YjQ2SUh1SGt1NVYzNE5OWDJzS2o1bWFmOWhqc1ZTbWdoUDZmU084Z2R1emJDOHRyRVp2bVBSM1NqQlV3bUxlZWxkdGl3SHQ1WV9UVDVybjZUWnplTXREZktzdklPb3g3NTE3SkJ5bGJXTEZScnpMMU1WQmpYRDJhY1BBalFVSXhxRHZ3ODQ5VmvSAcMBQVVfeXFMUHBMNEZwZ1dKOTl4Vm9CSURNUV9wS3BwUHdwNTQ2QWJUUXc5ZDB2M1hxSjdQc2d2TDVYZndTVW5MYVRxMWk2RkFNY0c2bUVNeUp5Zzc0Y2V3T3htU0lDUU9xYXZURjJzZEdRdXdtUGtYU19IYzFNRmlILUlFVkdYTnFJS0N2RnRxcXd1RmhWcHU3c3htR0tpZGRjQjF1TE5iX1dEWEFyR0V3bnF6eHpIWDJtVmZVcU9UTjJNZkUxWUlLWHZn?oc=5>
-
-### 习近平会见美国总统特朗普
+### Xi’s APEC Pitch - Xi-Trump-Putin Trilateral - Wang Xiaohong on Strengthening Party Loyalty Education - Conference on Ageing
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 中华人民共和国外交部
-- 时间: 2026-11-19 08:16
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE4yamhyd09QWEZuX0lWWGtTRVEyS2hHTHdsS2RPU1Yxc0hRTXB2UEs3WDFnMnRuVW5YT2RfWER6eEVRTHN4Y3BsMTZzUlpFRFRsUDR4R1U0TFh5ZTZLRVZxMFE0TWVtMEZNQmg0Tm9fcXprZFk?oc=5>
+- 场馆: Tracking People's Daily
+- 时间: 2026-11-20 06:42
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxOTFJvcHBVNjJHUGVTMTRuZWRHNExCV2ZtaXhSc3hHZzVkbFlnYmZKcGFPQTA2QUZ0cHpjb1NxaTJvcUZXY3BPc2F5elhhY3dRb2FYR25iTXpVNE5JOFNsMGdFckt5dHpGRG51RDBfal9hUTRzUmF5VzFqRDZQVkFjM0Y1NkRhVEk4SzFPTg?oc=5>
 
-### 特朗普加强与东盟国家的纽带
+### 美国专栏 - APEC后美中关系恐仍有变数
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: VOA - Voice of America English News
-- 时间: 2026-11-19 19:49
-- 链接: <https://news.google.com/rss/articles/CBMivAFBVV95cUxOVjMyaU1WNjhlX1Y4STNfZmduUGVLYUZxdW42ekl0S1RBTnZhWTZnR3ZaMkFlZVNZVlFuTDIzRGNlcm83QTNDODlHSDUwMVVheTByRDdpX0Y3b1NKOHVsby0tbHFhMW1Vdl9pVlp4c1NOOU45S0F4b0kwZnBLVUgzOU85em55ZWl1VVJkb3pvdmhKMERVcHRtQTJjUkJuSHRDU01PWHlhcnVqcG1OWDlBWTJrVGJwdE8xa2pFVtIBvwFBVV95cUxOelhqcFhUVnkyNTN3dWlNZ1BpTHI0LVpJWlFvSGM4LUpxSVJ3UVFUVFMzNi1FMm1tLXFsbVJ2bll2a3B0ZEdwbG9NQkp1UmY3YTBTVFA5STNrZzhzYnJSR2xOeEZaUlZ3TGlMa2hxQXpaUHJ3NE90dlBjOEpoYUFaZWppNkNMSUdPOUIxYnA2aUlNakRFM2hXdmRQOVgzOU1kYnZ6YUhOSVpEdTJHTGdDX0R1M1M2dDVGVU5lSjlucw?oc=5>
+- 场馆: RFI
+- 时间: 2026-11-20 11:01
+- 链接: <https://news.google.com/rss/articles/CBMipgJBVV95cUxQdk9UMHdCVzZRRlQ0cmZCQkZ5TXVXTHU1NVBpZDlIRXk1WEx2N0N2dm5xOFFfRkJoSVZFV3NDRUtpNlJIN3p5UHFwQlhSTjJkUEx0WC1VT0ZwZml2NEhpUzRsTnRpTnlUVTRIZ25xc2NDaGFDcXlyeHFjOHRnTU9ZYjBtNlNTZDZfSk5iRXg1SGxKYWNVRUVQcjJqN25DYmQ4d1Nxd0pkMHBla2gyX3RnNWZZNGd1THdjbzFFUUNGTFhJOXdDOV9NYXd1QUNlQ2Y4VzBUeHBEUkxRdVpvVmp4cFlteElqOWlFVGpQSEl1NEg2dzJmSFg3UWE4RzBpVHlQY2hMNUhiWFo4cjFrOU1VTzR6Qzk1TGNhVHZIaUthczhtUTRZQUE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-11-20 12:23  (19 条)
+
+- **王一博** | 王一博本周最佳视频发布，小卷毛魅力酷萌甜 <https://k.sina.com.cn/article_2653906910_m9e2f67de033028zha.html>
+- **王一博** | 王一博最佳赏味期视频发布，卷毛星星眼造型亮相 <https://k.sina.com.cn/article_5888328091_m15ef8c19b03303l47s.html>
+- **王一博** | 王一博赛车夺冠攀冰打磨角色 超60万人许愿演唱会 <https://k.sina.com.cn/article_7811154182_m1d194c106033022um6.html>
+- **王一博** | 网传王一博30岁前办8万人体育场演唱会 <https://k.sina.com.cn/article_1797187531_6b1ee7cb04002lj3i.html>
+- **蔡徐坤** | 蔡徐坤香港演唱会姐姐团备20款小卡现场盲抽 <https://k.sina.com.cn/article_7811154182_m1d194c106033022u7m.html>
+- **周杰伦** | 董思成抽中了周翊然的礼物 我们桃花坞的欧阳周董组合又返场了 <https://k.sina.com.cn/article_7811247772_m1d1962e9c03301yfm0.html>
+- **特朗普** | 中美元首共同观看特朗普竞选神曲《YMCA》歌舞表演 <https://news.google.com/rss/articles/CBMia0FVX3lxTFBuMHdFSk02T19uYzRxSExlWnJqT0pybmVaNzBCd1pMSl9fSkpjb0xXLWJCV0lJWU45R09sYmlHWkZlczNXSFVoV0NZQThicm43alNpZC1oTUEtQXUtbTc1Y0RWRV82SUxyUHJN?oc=5>
+- **特朗普** | 特朗普：我们创造了历史 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5iMVFaem9tZXVnV1FoM0lwS3BrQk5VOTdhX0NlMzY5bW9UUlRPWlpRSTBwbm9paTVMQzU2MFpNZ1FFWVRrc3BFWVYyaE0?oc=5>
+- **特朗普** | 高市早苗拍特朗普后背套近乎被无视，日网民连呼“没眼看” <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5fdVZwSjhzWGVQVzRJZzlPTU5NX2ZhLWZzeGhObG5MY25JMmtOd3JPY0xKbTI1a0tSVFA4WWt4UjZMTXlxNy1FMWJtU0E?oc=5>
+- **特朗普** | 历时14小时！特朗普返回美国，下飞机就发重大预告 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBSLWNIbUJXeE5pbTdWdzNEeVZyZGN0dXR1WmQtUkRpT1E3WEh5UFFJbWt6Z093cnlDTlJrMWJleXRjWDZrLU9JRUMzN0M?oc=5>
+- **特朗普** | 高声提问特朗普后 彭博记者被拒进入深圳峰会会场 中方称“大声提问很无礼” <https://news.google.com/rss/articles/CBMilAJBVV95cUxOcWExQUdxVGFTUGtfcUd5ZU1UWTd5VHBCNmRCUmo3Zlg3eVN6elZlUi0zd2FERWZMVHQySTI2UFZtRHh6UGFpMUh1NGljZEw4cUR3MzBINERUaHloeGV4cVVIdEdQaV9MWTR1NUZhNk1ocGxGaXRuNDVMSDVfSG5GXzczQXNDZmgwNmFVSXRJaGFWR2NtUjJzcHdQZXJIeWhvN0wyYi1lMndLN2J6bDBfcXR4aXl0U3dsRi1idzMzUEIyOFJQdmZQME5KXzZ5QWtXbE1EWU9NOWdydjBlMmRQdnd4aXpMU3daaEFPWEZnMmhiekRKTHVxRHRIRGhlbVdxUmJmNV91RnB6VUxWU25BWGxBQUPSAZQCQVVfeXFMUERtWXU2alNpRkNuc2swUF9mZGVkT25NenZFWWU4bkV4czlPOUVSTURkeTFaaklOdW5fLUZqVzZVb2ZmVURzQ1ZOS3RjVkk4RnVtYUhhVUc3UnhDSURHOGVKSHc2dGVhaWFoQTBsU3NrUXl0Mzl5MTVzMzFGOUYyMHhfWThiS2ZnZUdpMGFaeDUyUF9MUHZMUDQ1a0F4aGczVzVnVjZ3Vy0wVnA5cm1QTms0RGFETzFSYVM3NDdZdGs0R3NBRzFIeGZHREY2cEd1XzZCSmxOV0NFR0xNNWNkbmt3emd4UFNNa0NQMEFKcUpLaUdtLXc1VllDa0VTRmx2bC1ETzBwRm81V1ZrRFh0Sk1xeHY1?oc=5>
+- **特朗普** | 结束中国之行后，特朗普和白宫接连发文：非常精彩、影响深远 <https://news.google.com/rss/articles/CBMib0FVX3lxTE1FQVU4RVdPa19NaVlFajFtNGRrOGFVcWFMYWVEU3Z6aldRWHJmYm0tVW94bExNb29xVzNRNldSMnJhX0RGMllnRWJLaUJQbEtHOWNrU0dCQjRQRUMtSG1WSHN6enNmckd0Y1BQSUswbw?oc=5>
+- **特朗普** | BBC驻北美记者：中俄美三方峰会场面大于实质成果 <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iQUk5LWMtU3lvYlNFUTgxc1VWVnBRM0ZhZHREc3ZldXdnNHdVcW1oaTV1aVVwRkN2VTc2V0Z3UTNvOWF0RjVaWDFxLTFxWFBadmxVYlBzZUtubzFKSEJBZE00ZVh1SkXSAWxBVV95cUxQT1gzX29qZURZZG1DYkZFdi01dlJJNmd4X3ZrNlpHSG52cjlkbktrRUxYcTA2aW9fNW11NXoyYV9ueHVwWHhEVENhb2ZLNkUwNU1TdVlxX1hvSEJ3N3UwQm0zeFE5XzdtVDBIR2s?oc=5>
+- **特朗普** | 世纪晚宴菜单曝光！特朗普、马斯克吃的啥 <https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbjJtYXcyVVQzY1Q0V3NNaG5iV3N4Ujc4bkF3YnUxQkppODRNU3FSbm5rMmlJUjF6dkQ2NGVRWUxJWUxnang1U0dodWZhVHB2b1hadnlJbTF3b2Njc1dTdzlzOVl6TE1WcmRnLTloOHpndHMxNGNYSzk3dmpLeExkUlhtWVdLVXhOUndjVWRCRVc4Mno1UGFDbW1sT0dDT2Q1RnZwbkFWMUtobzh2bXRBVVdreXctWFc5RlRuYkM0X29QNEdoanpqcnBXR3BNOEJ0V3JGMVdVNA?oc=5>
+- **特朗普** | 半年内特朗普批准近90万高端芯片出口中国：英伟达AMD两家申请总计超340万 <https://news.google.com/rss/articles/CBMiWEFVX3lxTE5SNlFTekZjX01rX2U1R3Z2cWdKeGx0UEd5RzAxWFhyVVpiaWlsaEk2OXJ0TndBREpqdk9Nb3JhNDZoNHNkczFDckFvM1k5Tk4wWnF4cHpGOWg?oc=5>
+- **特朗普** | 特朗普投资账户一个月交易751笔，涉及资金最高1.48亿美元！英伟达、Palantir、SpaceX均在列 <https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jQ2xGME9BVURFSnJobVJKQ3c0aDMxZC1xNjJjaldHaUdzX0p1d1AzYzhuV3VxbTd2R2dJXzZMaWNDWTJSSEphdEgwZEZvRFU?oc=5>
+- **Trump** | 特朗普：首次同中俄领导人三方会晤 外交政策开辟“不同道路” <https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOEhJNlQwLTN5TTVENVk4azBqaHdRWGhBSXNaTS1Nc1pVQ0FZYkx0dDRNYTNnbk00TnVCNktISmhtejJSekZRa3hXNHVOM0l5VzMxeG9SNEZVTGI0bHNqbEhYSHhVQVlfRjdQcUdMOE1aOUxKTExEZlI3Uk11QW5mZjB6bHk3aEVwNmJz?oc=5>
+- **Trump** | Xi’s APEC Pitch - Xi-Trump-Putin Trilateral - Wang Xiaohong on Strengthening Party Loyalty Education - Conference on Ageing <https://news.google.com/rss/articles/CBMijAFBVV95cUxOTFJvcHBVNjJHUGVTMTRuZWRHNExCV2ZtaXhSc3hHZzVkbFlnYmZKcGFPQTA2QUZ0cHpjb1NxaTJvcUZXY3BPc2F5elhhY3dRb2FYR25iTXpVNE5JOFNsMGdFckt5dHpGRG51RDBfal9hUTRzUmF5VzFqRDZQVkFjM0Y1NkRhVEk4SzFPTg?oc=5>
+- **Trump** | 美国专栏 - APEC后美中关系恐仍有变数 <https://news.google.com/rss/articles/CBMipgJBVV95cUxQdk9UMHdCVzZRRlQ0cmZCQkZ5TXVXTHU1NVBpZDlIRXk1WEx2N0N2dm5xOFFfRkJoSVZFV3NDRUtpNlJIN3p5UHFwQlhSTjJkUEx0WC1VT0ZwZml2NEhpUzRsTnRpTnlUVTRIZ25xc2NDaGFDcXlyeHFjOHRnTU9ZYjBtNlNTZDZfSk5iRXg1SGxKYWNVRUVQcjJqN25DYmQ4d1Nxd0pkMHBla2gyX3RnNWZZNGd1THdjbzFFUUNGTFhJOXdDOV9NYXd1QUNlQ2Y4VzBUeHBEUkxRdVpvVmp4cFlteElqOWlFVGpQSEl1NEg2dzJmSFg3UWE4RzBpVHlQY2hMNUhiWFo4cjFrOU1VTzR6Qzk1TGNhVHZIaUthczhtUTRZQUE?oc=5>
 
 ### 2026-11-20 03:49  (18 条)
 
