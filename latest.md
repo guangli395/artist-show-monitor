@@ -1,110 +1,53 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-11-21 16:52**
-- 本轮扫到 16291 条, 新增 **12** 条
+- 最近更新: **2026-11-21 21:58**
+- 本轮扫到 16295 条, 新增 **4** 条
 
 ---
 
-## 本轮新发现 (12 条)
+## 本轮新发现 (4 条)
 
-### 周杰伦演唱会唱黑色毛衣，回忆学生时代年少温柔
+### 回顾22年前头文字D电影发布会，众星云集！
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1967737483_m75494a8b03301gbs0.html>
+- 链接: <https://k.sina.com.cn/article_7879923586_m1d5ae178203301ejt6.html>
 
-### 美中俄峰会谁是赢家？余茂春分析特朗普应对习、普策略
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-11-21 03:00
-- 链接: <https://news.google.com/rss/articles/CBMivgFBVV95cUxQZm5DM0VQWXFzTDc0Nl9EMVVfYTcwVkhiWlNNQ1dfdHl1TkdLMnBCVFNRMmFkSkluWGsyYTh3QU10S3hjb2ZoTHFjR3FpekFncTFobzNsbERnanhLNDNJZ2pLNEdLbnkzTEE2dTRwcW9hNVpDVVdBQUxUeXlZbEVWR2JmYlZhSldiNExIMGhrbXhQd1pMb21XbXk1Q3VMdFhXSlBXeFVObFdMSjZrN2ZKU0x2aWRNX3pTbmFJUFlB0gHAAUFVX3lxTE5ZNmh1SGQwMEpHRHR1RWl5NFAyRnpxLWIzQ0MzUnIxNHNYcVFteUlzbkNTYTN1bWJUWDZ5d1dVZ2VSOXdvN2J1Sm80RS04bmw0eHpnRll1VFpZNzRkNWpEOUJTYUpWNUwxNTk2R1hDZnNoblhUQlVMb1NsMTZkQWg0czlncW1vbmNrMDNrTkFVOVAwTkdJZkNLQTUwU1lNOF9HejVIUlB2Tm44Tm1WQmRRTGZ4YnY5TXRqOUJNeU1RVg?oc=5>
-
-### 特朗普想要“1月初之前”结束俄乌战争
+### 在深圳坐车不拉窗帘看什么？特朗普回白宫自曝：路面修补的痕迹都没看到
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-11-21 09:02
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE1KNmptQ2k3Wnk4Uzk0OWw0YjFEWVMyMUl2MGVhV19WbWlJa3RFWmZwczN5WXRneDdEMGJ4bmFtS3FObmkxZjh1WWc5MFFidmR6R0k0?oc=5>
+- 场馆: 驱动之家
+- 时间: 2026-11-21 10:37
+- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTFBGbE03SV9CTWhfdEhLNjVULWtTSEdpTWRsb2hkdnNVOVZQSUp0OTNlTDlKUTZmR1FlMzNuU09QTFEyRFpsN2k2WEVuVnhhaU9feE02OVFUcDM?oc=5>
 
-### 特朗普：普京告诉我，当年我是总统，就不会有战争
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-11-21 01:32
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5ld0RqVTJSOXI0Z3FXSmVqMEFPSlQ5RUxsZjktR2duNHVyZnRmUm9paWZFTklFeEFFTGFkMG1tTUtXZ2lkVlhncVhpczRZaTZFcktJaFkycy1kUlFYTzI1MnZPUUVZV19GMUVBMFFSaDNGZzQ?oc=5>
-
-### 美国总统特朗普：我们......_7x24快讯_新浪财经
+### 4.46亿押注共和党惨败！马斯克自嘲：自己太蠢了，特朗普回应亮了
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 手机新浪网
-- 时间: 2026-11-21 15:24
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE90VlBEQi1VWENVSkpxdVg2cTdYREF4ZE5hcW5vYVRwamhxS1p6cGYtMlJ1YmVJQzNYRFBQRFlqUVhaSmw3dXdWLWh2UQ?oc=5>
+- 时间: 2026-11-21 11:03
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFBRUEtSVGxfNUlacXN0WTBCZXRrT0djNkFlNGo1MDVEc0VOSzBzNVY1Q0tlOU14Vlk4cW5aVHRoZmFoY3FVZkNhdVM5bWV3NjN3bFI4SHRnb2Z3WXE0X1pYeG94Mzc5UGxBZDB3VVltVTIzUQ?oc=5>
 
-### 特朗普称没有考虑伊朗政权更迭
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: ThePaper.cn
-- 时间: 2026-11-21 15:35
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpNGc0eUVOUUNrMXpNUEZVd2RkN2dBYXM2QU01WGRQcFZYb0lzMDNwOXFlRVJ2RlNtNm1TQnhjaFJFZjFBWlRZc2NvR3V1ZlFzZ05iQkJCazNXYXo4QTVMaQ?oc=5>
-
-### 特朗普总统：伊朗想要达成协议，但所提条件无法接受
+### 为进一步防止中国间接获取芯片，特朗普称将对在海外建设数据中心的美国企业实施惩罚措施
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-11-20 21:49
-- 链接: <https://news.google.com/rss/articles/CBMixAFBVV95cUxQQ2JOdDJ3SzVWNDNKaWNCRzN6SldZaU5pSEVRQzNTdVg0b0ZpUlFHb3RVM2cxeVBONy01UG5VZW9LRjZEYTQ4V3J0VElJS3JvbGNhSjlhRkg0Z3FMc0R4N24ySkhmd1ZXMHd1UGFQaGQtWGpIRW1PaWdqcFpiU2hQRHFPYm5Dc256SkV6aG1FTnFCM2ZrbzRxM3FsU01EUWU3c09WRm51TTEyRnd4NHZOZ3VWU1p3Vllfc1paQzk0M0tLU2Y00gHHAUFVX3lxTE5YdEZLVDZkXzMxa2FWZTJRWkRBakdFbm95dWRYSGZ1ODFFUkVKa2JiOC1jU2U5YW01SVZOWk9Jem55aDI0OHJPc2lYejlnZVNRUWluemdkYTZHd2JLMEM1R3p6TkhLb0o4LWl1RDE4WHBkU2tDakQ1YW5pRFZKZDNaRDEtbE5ZV2tPSmRuOHktbkh3UHJXbWlzSC12cFZmVm5UaUd4dXdwRk9tRjVIRThnZjVhSFJFTHdhOTgtV3l0THAxUVZGRG8?oc=5>
-
-### 特朗普：将与伊朗达成一项永久性协议
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-11-21 15:12
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFBkWXcwdzhQV0dxeWtfSnJDVWFJUVpucFhUQUlBcEdXbTZ5RzRHelJhcXhiQ3VXUHYzRGFqMElnTEU3T2hDeWxuakRfY0U?oc=5>
-
-### 特朗普盛赞深圳城市建设：干净整洁、路面平整，看看人家，再看看我们自己……
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 光明网
-- 时间: 2026-11-21 07:46
-- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZYThwcE9vU3F0bDdtLTcyQ3o4aFNJYUMyeTNGLVd6UzRNTFR6UWZqRzFTTVI1Q09oQ2NBc2IwQm1zd1BRbklZYUU0bnlOYW5nNW5sdzFieXFsczRSVmd0RU5B?oc=5>
-
-### 最新曝光！特朗普，买入英伟达、SpaceX
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网财经
-- 时间: 2026-11-21 08:00
-- 链接: <https://news.google.com/rss/articles/CBMiUEFVX3lxTE93SFVWT3A3VHNGUUpxWjA3eU1pN0I0ZWZNTklzckhQSkpJcUNzOUhGUVBwcTM3YUwyVlliajBlbzY3bVZBbHN3NndodnBib25v?oc=5>
-
-### 特朗普公开呼吁让黄仁勋重掌英伟达
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 联合早报
-- 时间: 2026-11-21 13:33
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE1LeWhWcGFSbGVjVHNCQ19tdUx2ZHVKSk1lVm11clpGbG15RmVvZE9qYXdNRnV4bVd6dmxYMUVnLVFRR0NudzVJZVpPWFZqeVAyYmNrRTZFN0VwcTh2dWVHekN5RkFHZTd3NmVZ?oc=5>
-
-### 为什么 TRUMP 今日下跌 9.4%？
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Traders Union
-- 时间: 2026-11-21 09:28
-- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRENFT0pzZVRNNDdJVVVyRnU2b2o0YVhaVExGTFBaZHUzOGk4RXRNMUZrMy1LYkIzZE9TUmdjUHA4X3BEenJ1MWtnZWFhdGN0WkR5VHR6SDQ5VUF4Q2JjYVY4VGlLdVpuYS1mT2JaSEdPakZjeGN5QXcyakhfVFN0cHZuUEFMM2ZiYVFFX1RhRDdzanN1YURJakRvR3JaWlJlRklIYjNfakFCdw?oc=5>
+- 场馆: RFI
+- 时间: 2026-11-21 09:37
+- 链接: <https://news.google.com/rss/articles/CBMiywRBVV95cUxOd09tZW5FMlpoeWVZSm5lUVY4RFZpSzNuZkVaendtWGZJQW5TM3lhNEdKdkFNWV9ic0Vib3MtS0otQkNZUWlKV0hzcFlZODVOdmNTN05reXhiOC1jdEJsejBPR3ZaMURYcm1qeFlGSGdfXzBPY3Z5b29PZTl4OUowbF8tZEdtOGJ2QUczT241TlN0djhjRE95cEZpY0Q3X1lDTjVVVUVxbHZTdUxzbzVLR0Z1VEhjMEppd3AweThrUG40S1hNeVNZbnR3R0d6RnBZNGJBazlhd09BZFJMTThzeWFGREVTVkpmUjV4VUtjd1BnRmZueFp0a2djeTJmMmRhTVpla2VmMXQ2ek45YklVUzAySEpNZzZuQ3lUOXFUY0x4ejktcXhHMi1EemF3dE9PTDRkaTVuMEJ6ODBqQ3BWdkZHaHVOUzBMdGMxVWVjaFJ2YjMzenVaME9HUGRIVndudHp3cTdKd25RRm5EWF9IOWMtV054N0pYQkVaRldhZjdBaEVJd1FyQ05NdF82QTJpZ05FTTRQcFVxaHEzUmFseGJQcFlVTlMtYnFoRHBybVJoQVpnVll6ZzUxMW8zTm93dlhDem1SbzBnYkxXZEVwX1pqLWlqUWdhcDBmdWRmUUFzR1FCYTJLY0Nqd2lYRVRDLWNiUzVseGxzSlpmQlJaTVFuQXFYU0tLSXNOQ2NPVE5mRTN4Rzk1eDhjeVducTdwTE50N2hEWk4xTHZvb19ZMmM1UEhRY3U1bHpvVjFRcGwtU3RiZ2I4dXFwTQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-11-21 21:58  (4 条)
+
+- **周杰伦** | 回顾22年前头文字D电影发布会，众星云集！ <https://k.sina.com.cn/article_7879923586_m1d5ae178203301ejt6.html>
+- **特朗普** | 在深圳坐车不拉窗帘看什么？特朗普回白宫自曝：路面修补的痕迹都没看到 <https://news.google.com/rss/articles/CBMiWEFVX3lxTFBGbE03SV9CTWhfdEhLNjVULWtTSEdpTWRsb2hkdnNVOVZQSUp0OTNlTDlKUTZmR1FlMzNuU09QTFEyRFpsN2k2WEVuVnhhaU9feE02OVFUcDM?oc=5>
+- **特朗普** | 4.46亿押注共和党惨败！马斯克自嘲：自己太蠢了，特朗普回应亮了 <https://news.google.com/rss/articles/CBMickFVX3lxTFBRUEtSVGxfNUlacXN0WTBCZXRrT0djNkFlNGo1MDVEc0VOSzBzNVY1Q0tlOU14Vlk4cW5aVHRoZmFoY3FVZkNhdVM5bWV3NjN3bFI4SHRnb2Z3WXE0X1pYeG94Mzc5UGxBZDB3VVltVTIzUQ?oc=5>
+- **特朗普** | 为进一步防止中国间接获取芯片，特朗普称将对在海外建设数据中心的美国企业实施惩罚措施 <https://news.google.com/rss/articles/CBMiywRBVV95cUxOd09tZW5FMlpoeWVZSm5lUVY4RFZpSzNuZkVaendtWGZJQW5TM3lhNEdKdkFNWV9ic0Vib3MtS0otQkNZUWlKV0hzcFlZODVOdmNTN05reXhiOC1jdEJsejBPR3ZaMURYcm1qeFlGSGdfXzBPY3Z5b29PZTl4OUowbF8tZEdtOGJ2QUczT241TlN0djhjRE95cEZpY0Q3X1lDTjVVVUVxbHZTdUxzbzVLR0Z1VEhjMEppd3AweThrUG40S1hNeVNZbnR3R0d6RnBZNGJBazlhd09BZFJMTThzeWFGREVTVkpmUjV4VUtjd1BnRmZueFp0a2djeTJmMmRhTVpla2VmMXQ2ek45YklVUzAySEpNZzZuQ3lUOXFUY0x4ejktcXhHMi1EemF3dE9PTDRkaTVuMEJ6ODBqQ3BWdkZHaHVOUzBMdGMxVWVjaFJ2YjMzenVaME9HUGRIVndudHp3cTdKd25RRm5EWF9IOWMtV054N0pYQkVaRldhZjdBaEVJd1FyQ05NdF82QTJpZ05FTTRQcFVxaHEzUmFseGJQcFlVTlMtYnFoRHBybVJoQVpnVll6ZzUxMW8zTm93dlhDem1SbzBnYkxXZEVwX1pqLWlqUWdhcDBmdWRmUUFzR1FCYTJLY0Nqd2lYRVRDLWNiUzVseGxzSlpmQlJaTVFuQXFYU0tLSXNOQ2NPVE5mRTN4Rzk1eDhjeVducTdwTE50N2hEWk4xTHZvb19ZMmM1UEhRY3U1bHpvVjFRcGwtU3RiZ2I4dXFwTQ?oc=5>
 
 ### 2026-11-21 16:52  (12 条)
 
