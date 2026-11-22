@@ -1,98 +1,64 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-11-22 17:16**
-- 本轮扫到 16327 条, 新增 **11** 条
+- 最近更新: **2026-11-22 22:39**
+- 本轮扫到 16332 条, 新增 **5** 条
 
 ---
 
-## 本轮新发现 (11 条)
+## 本轮新发现 (5 条)
 
-### 2026亚太青年领袖计划榜单发布 王一博杨幂等入选
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2858270197_aa5dbdf504001rxx0.html>
-
-### 杨紫漫长的余生将开机 王一博明年开演唱会
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923551_m1d5ae175f03301v83s.html>
-
-### 祝贺肖战、王一博拿下EMV全球媒体曝光价值第一和第二名的好成绩！
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7811157903_m1d194cf8f03301u3nk.html>
-
-### 马斯克公开说自己不是MAGA，特朗普只用一句话敲打，这对曾经的盟友为何走到这一步
+### 美国总统特朗普：上周伊朗无人机和导弹未造成损害。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 手机新浪网
-- 时间: 2026-11-22 16:15
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFBnbE83MmEtc21CaWhwM1Z0VWcxSGl1YklTUFVhaXJTeXVWQTItZ0RsZ1MyUGp3R0dHMmF6dF9EeWwzSnU1SEk5S0VuTXozZjloUHN4Q0gzdHpzcVJSTjJDdkxsM0stSHlzUndObTNnT2taQQ?oc=5>
+- 时间: 2026-11-22 21:51
+- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Da1R1UHhNUWJvcTBhczFwZGdrY2c4WHB1bUhKNHhiM2hpdERYZ0Zud25YLWVDeGxDcjNJWkpCd0h3V3A4cG45Rm1GTmpXUUE?oc=5>
 
-### 新华社消息丨特朗普称寻求与伊朗达成一项永久性协议
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-11-22 02:00
-- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTFBxUUxqQnYwek11M0FIYmNYQnVEM0ZPQVphczZwQ1ZHNnYyWGJkQXJOVkY3WkJNdE45U0RPc3hsSF93R3ZRMjdXLUVZNzRySVQ4ckJSbWRyazIwbFUtcXhzQXlzNmJ3SjZ3Z012NjVvMDRXcVlCanEwRHFwQUhMdw?oc=5>
-
-### 伊朗突发！特朗普刚说要签永久协议，伊朗随即打击巴林美军基地
+### 不改“特朗普”了，福特级四号舰维持原名“多丽丝·米勒”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Sohu
-- 时间: 2026-11-22 01:25
-- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMmxqbHlqUWVHNjNkWFp0bll4a3c5bGl2TTcyY0FwMVZvRXJyWUYwUUo0aTNEMldTbloxdHdNTkNkeDZpQl92dlExcjdKb25rdG5pbXktTDdhVkU0aTdHcmw3bGI0cjhzc2ZyMGV1LWZkY2dyelZ5cTlnTkVHNUhaSFd4X0tPQXM1?oc=5>
+- 场馆: 新浪军事
+- 时间: 2026-11-22 12:33
+- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTFBDNGVOckloVm1CNlRma3gzS2dpTUR6X2NfYjRSWV9GZTNJNlFFYkZXck1WNG1XNk9WbHF6X3p1eTBTNWRZX1hOZWFmOTJxc2VJTmxWMk01WGYyU29VNzZvZzZ6YWFIaGdrTXhCX1FfWmhiMXgxVExzekh3b0E?oc=5>
 
-### 特朗普：我和普京的关系很好，他为美国提供了很大助力
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-11-22 08:28
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE9DekhCMS1yS2hlaVE5UHd1cFZVblBiMUNhcHg4dzlFQmNIdWlDRE1ZOG83ODBRZS1JOXRoNmxqZFZWQU5UU3FtTzRkQUtsbHI3SjduaWtQc3U3aUdQLWV3ZXRBY19pRlBfSFRROUpES3BPTUk?oc=5>
-
-### 时间窗口在缩小，特朗普为何说不会在新年前仓促决定对伊行动?#新闻今日
+### 特朗普返美后点赞深圳：“那股活力令人赞叹”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-11-22 06:52
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE14MVhCdTlLUEcwZWgwcHRlUUtiYTNpZDQ1azBWMFhLeS1IYmp4TXZMQjBUYkpkazl4a09IX3JSNlk0LS01MGJBZ1cxOUk?oc=5>
+- 场馆: 央视网
+- 时间: 2026-11-22 03:10
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9TUnpGRXR3Rl9RR2hpOEF6WDgwVjBrQnRpdE5NTHNxYWQ3THRVdGYxMS03UlktMGZSNzQ4c2NKWjRCT2JkeEFXeW1mYVBOaTl0VUxDU0N6cFFZSDdLcjh6Q09MZlBRQmdNcFNoMXR6TUVXTUpUZV9tbw?oc=5>
 
-### 特朗普称不支持“台独”，民进党当局回应：假的，美方应给个说法
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 网易新闻客户端
-- 时间: 2026-11-22 12:18
-- 链接: <https://news.google.com/rss/articles/CBMiXEFVX3lxTFBYYmYzS0FwaDFhWlVnMlBjVGd0TzI5S2VaTEVxc2FMTXFnMXNxazVsZ0tEd1RiVTFwenZNZnhxV1JkRlZfQXJLNWhySnkzQWFZaXlTRFBHanY1NGRq?oc=5>
-
-### 特朗普点赞中俄美元首会晤气氛“热烈”，是“多年来最具重大意义”的国际会晤之一
+### 特朗普称没有考虑伊朗政权更迭
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 中国新闻网
-- 时间: 2026-11-22 11:12
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE4wQzhzRTVndTV1QjA2cjYwNG1FNjRVZXlhMG84MDBNX3VqdE1iU1lVSWpteG1aNTNMS2RrdUlINjZRRGY3c2VtUmhBVjlwNF8tbVlGamxsb0I4aDlyZ1hYTUVYQk9SXzdn?oc=5>
+- 场馆: 新京报
+- 时间: 2026-11-21 23:25
+- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9oYkx4aFAzd2g2RkZHVDBWMGRac2Vtdjl5MGRXV2N4cDk1SjlneExNVXRISUNNVG11ODBTRE5nZl9FbWpXZk11cWZ4VGdKaVNMYlNUQmtZU1FKRjZsaE10U2l3QWU?oc=5>
 
-### Trump credits Xi for \'immaculate\' Shenzhen developme
+### 美伊局势追踪：特朗普称寻求达成永久性协议 霍尔木兹触雷事故不断
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 文学城
-- 时间: 2026-11-22 13:39
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QRTVxTG9kd09NZkZlMWF2eHpENzloTWMzendRSXFfb3dFNWxKcG5JWjFBV1BiaGNGYk5Ya3VBSmhoYVdkTS13dkZ1Z3dUUUttOHhTWDM0RHhwQVNFM05QellvcEI0X1RW?oc=5>
+- 场馆: 财联社
+- 时间: 2026-11-22 00:27
+- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE11OEVYNUZObFVmRUZxbFhXZGlKSGF2T2NsMm84elkxeTBNdEpEZEhMeVoxQkt0VUwwZVBUN0UwemRlN1R5aXZmbQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-11-22 22:39  (5 条)
+
+- **特朗普** | 美国总统特朗普：上周伊朗无人机和导弹未造成损害。 <https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Da1R1UHhNUWJvcTBhczFwZGdrY2c4WHB1bUhKNHhiM2hpdERYZ0Zud25YLWVDeGxDcjNJWkpCd0h3V3A4cG45Rm1GTmpXUUE?oc=5>
+- **特朗普** | 不改“特朗普”了，福特级四号舰维持原名“多丽丝·米勒” <https://news.google.com/rss/articles/CBMifEFVX3lxTFBDNGVOckloVm1CNlRma3gzS2dpTUR6X2NfYjRSWV9GZTNJNlFFYkZXck1WNG1XNk9WbHF6X3p1eTBTNWRZX1hOZWFmOTJxc2VJTmxWMk01WGYyU29VNzZvZzZ6YWFIaGdrTXhCX1FfWmhiMXgxVExzekh3b0E?oc=5>
+- **特朗普** | 特朗普返美后点赞深圳：“那股活力令人赞叹” <https://news.google.com/rss/articles/CBMieEFVX3lxTE9TUnpGRXR3Rl9RR2hpOEF6WDgwVjBrQnRpdE5NTHNxYWQ3THRVdGYxMS03UlktMGZSNzQ4c2NKWjRCT2JkeEFXeW1mYVBOaTl0VUxDU0N6cFFZSDdLcjh6Q09MZlBRQmdNcFNoMXR6TUVXTUpUZV9tbw?oc=5>
+- **特朗普** | 特朗普称没有考虑伊朗政权更迭 <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9oYkx4aFAzd2g2RkZHVDBWMGRac2Vtdjl5MGRXV2N4cDk1SjlneExNVXRISUNNVG11ODBTRE5nZl9FbWpXZk11cWZ4VGdKaVNMYlNUQmtZU1FKRjZsaE10U2l3QWU?oc=5>
+- **特朗普** | 美伊局势追踪：特朗普称寻求达成永久性协议 霍尔木兹触雷事故不断 <https://news.google.com/rss/articles/CBMiSEFVX3lxTE11OEVYNUZObFVmRUZxbFhXZGlKSGF2T2NsMm84elkxeTBNdEpEZEhMeVoxQkt0VUwwZVBUN0UwemRlN1R5aXZmbQ?oc=5>
 
 ### 2026-11-22 17:16  (11 条)
 
