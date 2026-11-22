@@ -1,46 +1,91 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-11-21 21:58**
-- 本轮扫到 16295 条, 新增 **4** 条
+- 最近更新: **2026-11-22 01:57**
+- 本轮扫到 16303 条, 新增 **8** 条
 
 ---
 
-## 本轮新发现 (4 条)
+## 本轮新发现 (8 条)
 
-### 回顾22年前头文字D电影发布会，众星云集！
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923586_m1d5ae178203301ejt6.html>
-
-### 在深圳坐车不拉窗帘看什么？特朗普回白宫自曝：路面修补的痕迹都没看到
+### 特朗普称中国大举扩充核武，他和普京习近平“关系好极了”，泽连斯基回应：普京是杀人凶手
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 驱动之家
-- 时间: 2026-11-21 10:37
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTFBGbE03SV9CTWhfdEhLNjVULWtTSEdpTWRsb2hkdnNVOVZQSUp0OTNlTDlKUTZmR1FlMzNuU09QTFEyRFpsN2k2WEVuVnhhaU9feE02OVFUcDM?oc=5>
+- 场馆: DW.com
+- 时间: 2026-11-21 12:48
+- 链接: <https://news.google.com/rss/articles/CBMixAJBVV95cUxPem1mZkJjWjNvREJwYkJRSS03MENNNHBSOFE0LTdBTFlVVUpQVnZlTFRwel9NX1BXX1phaWUxaDNrdkR2SlhvbzNBTTdvTG40R0xjOThoWFBSM3hKUHJvNE40aEc4N01GR3REZlN2TmVZTkZNdFpOZzh1RUdISEdYRDZITUhJNUZOUXhUMjQ0RVVGaTZsNDNpMmFER1RJUUFhd0FYTmlfa1M3b1B1WDhYbExvd3FhdTJULUxQWXlPbkl3ajZsZlBZWEpZRDNJZTZJdWRiaS0wa2Q2c0J0MXFOeUYxNnN3N3o4NVNZWEFSUUtHN09IOTBQSDdBckRER0s4YktUVDJ3MW9kTkFTcWU2eURObGJzZmU4UFBqWkdtOHFKcmxpV3VpeDhXZ2tXZTFkOWdubkdwZ0hLNE5lSFBVdHZNblLSAcQCQVVfeXFMT3pHakxJNVprLXg2dkJFUFF5aEwxanBPOHcwN1piR2JFd3k5OEd5a0ZETkpsNkhBU2xmVkVyMTM4dDRwNjRpZkpTRVJOc0hFSkRvdTdFQ3p1cUQtYTA2dlZnVGZHaVdUQjdQWl9POEtMenIxck9xNkhOV01SaklIaHFwMU5yZDhaV2JsR3RfWThaTWpPMUpMb0JfdUFmbnJBRVpUakhEbVJldmhRWmhWdU1YYVRjLWlNaGcyc1RSVnZWcEZRamFvMlloLUJFdmVHZmtuU0g1UmFhUUlhbEZQdVB4TVJtUjNzUllQalN4MDRWWXAtWlowZFZsMlFLR2hGbDZkSzFhVHplU1l6c0FOcWVrQi1KOElaTjQzZ0MwZEV5S0o1b215d1ZuWnNrMk8yQjlBbHlKNXhqYkVLVnVtZl9RQmIt?oc=5>
 
-### 4.46亿押注共和党惨败！马斯克自嘲：自己太蠢了，特朗普回应亮了
+### 质疑俄和谈诚意 泽连斯基：特朗普称停战可节省资金助力欧洲发展
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-11-21 23:32
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE16c2Zpczk4TjhSZERRaEhlQVdVaVk2SDVEaDZYQUpYRWk2QmRndmZQb2IzY0NsTzN1Qkc4bVRlUThIcjR2MjJFNE1XdzhiT24tWUZkVXVHLVJmOFVocWRuaGJsaXJ1UmJUYXRF?oc=5>
+
+### 新华社消息｜特朗普称寻求与伊朗达成一项永久性协议
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Sohu
+- 时间: 2026-11-22 01:46
+- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX1JoTHdaV3RVZFNWSTFmRTJQT1hCSkVLTDRlaFpNMTJJcWM4cGxiYkRObGZxSUJOR0ZkXzlkc1JBTTFaclJ2ZVR3VGM0NUtlWmFfWmFZWF9TM0Eyd2U1elRWSzFBLU1lUzFkTkJJRlB6UkxBek5VZHc4TV9tam4xUV8wVmttZ1dz?oc=5>
+
+### 共和党中期选举失败 万斯陷入被动 2028参选阵营扩大
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-11-21 22:18
+- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxQeDVCRHB4S3VfYWtTdEFfVEZUNENIdFFlS255Q3FSNDJTQ1h3eUR4d3FVVzZjdERuZV9iVWllVDljYXVYdWtrVmJhcUdhN1cxUl9hbHkxbGUybXlWZmRsU2t1Mk0tMzRkZVllZlRpREl1R2RXak5qMnc2djJBUG52Q3ZRaWNLVk9VcEE?oc=5>
+
+### 特朗普否认对万斯不满 淡化两人围绕伊朗战争的摩擦
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-11-20 20:49
+- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxPOU16R3hjWlFSazdQOGZKQ1JwNXNPQ0NxVEdqb0U0UlZieE95TXdDX2ZOQkdFNC05SGhHN3hLcXJBV1VjUTBPZWlnU1BmV0Q4eW5zY1hPSXIyTmZNcG9NNHRzUkJIMjUtZENWR01qYWtOWWFOT2RKZnd2akVDdWU4TU1xZUp6VFNCUDFCS2s4T2JORjhxbW1JUXlUaUc?oc=5>
+
+### 意犹未尽！特朗普在APEC晚宴跳标志性舞蹈
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: ThePaper.cn
+- 时间: 2026-11-21 08:48
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XU0hBbmN6MzlKY2JjenJEcU9LZ25iZFpGM3o3bHlNNW9LYUVoQUFsdmxkRnVxR1FpeGxCNmM3cWt4ZnFEWGNyeWpfMWhfNDNRQ3hJeTZDU2NoMjFESVo3aQ?oc=5>
+
+### 第三次喊话力挺黄仁勋，特朗普向英伟达董事会下“政治通牒”：希望黄仁勋重返英伟达担任CEO，强调要保护像他这样的“人才”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 手机新浪网
-- 时间: 2026-11-21 11:03
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFBRUEtSVGxfNUlacXN0WTBCZXRrT0djNkFlNGo1MDVEc0VOSzBzNVY1Q0tlOU14Vlk4cW5aVHRoZmFoY3FVZkNhdVM5bWV3NjN3bFI4SHRnb2Z3WXE0X1pYeG94Mzc5UGxBZDB3VVltVTIzUQ?oc=5>
+- 时间: 2026-11-21 13:33
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5rclFuYzdfTUV0eVlaSHJsMUJ5Q0JxYmN6SEZpbGpwYjRFSF9RTDlvUjJQdkc5RHRSZTluOG93WGwxWE9mN1BkRk1VSTNlUE9oY3JUYTlnODhVRzNuSlRYcTdON0JpU3JFRDVoTzh0X00?oc=5>
 
-### 为进一步防止中国间接获取芯片，特朗普称将对在海外建设数据中心的美国企业实施惩罚措施
+### 英伟达深陷会计调查与对华芯片出口争议 特朗普力挺黄仁勋回归
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-11-21 09:37
-- 链接: <https://news.google.com/rss/articles/CBMiywRBVV95cUxOd09tZW5FMlpoeWVZSm5lUVY4RFZpSzNuZkVaendtWGZJQW5TM3lhNEdKdkFNWV9ic0Vib3MtS0otQkNZUWlKV0hzcFlZODVOdmNTN05reXhiOC1jdEJsejBPR3ZaMURYcm1qeFlGSGdfXzBPY3Z5b29PZTl4OUowbF8tZEdtOGJ2QUczT241TlN0djhjRE95cEZpY0Q3X1lDTjVVVUVxbHZTdUxzbzVLR0Z1VEhjMEppd3AweThrUG40S1hNeVNZbnR3R0d6RnBZNGJBazlhd09BZFJMTThzeWFGREVTVkpmUjV4VUtjd1BnRmZueFp0a2djeTJmMmRhTVpla2VmMXQ2ek45YklVUzAySEpNZzZuQ3lUOXFUY0x4ejktcXhHMi1EemF3dE9PTDRkaTVuMEJ6ODBqQ3BWdkZHaHVOUzBMdGMxVWVjaFJ2YjMzenVaME9HUGRIVndudHp3cTdKd25RRm5EWF9IOWMtV054N0pYQkVaRldhZjdBaEVJd1FyQ05NdF82QTJpZ05FTTRQcFVxaHEzUmFseGJQcFlVTlMtYnFoRHBybVJoQVpnVll6ZzUxMW8zTm93dlhDem1SbzBnYkxXZEVwX1pqLWlqUWdhcDBmdWRmUUFzR1FCYTJLY0Nqd2lYRVRDLWNiUzVseGxzSlpmQlJaTVFuQXFYU0tLSXNOQ2NPVE5mRTN4Rzk1eDhjeVducTdwTE50N2hEWk4xTHZvb19ZMmM1UEhRY3U1bHpvVjFRcGwtU3RiZ2I4dXFwTQ?oc=5>
+- 场馆: DW.com
+- 时间: 2026-11-21 13:12
+- 链接: <https://news.google.com/rss/articles/CBMiogJBVV95cUxQdVd2WWdDUlRMTnlVQ3dXMFV6MkVTdHZZNzdaOVY3V2ZrWE1NSDgtNzVqaGMwUDFWdWE2R3hCbkdGelRieHZKM2pWd28zU0pNUWJiaTVHRDBReGVoVkF1aWFQWF9hdWdlQW1La0huODdlb1ROdXlfYlc3U0lacjVKREpzczBMSVkzQUZMbDdjQlpWb2UyUGFReFJfQ3ExeFY3NzRhcWw4QW5BUkE1OC1uS1EyZjNqcUtWRmVuSkFvM0FIZnF2ajBKY25wenVzUF9MQmg5V2JIVndCWTdiVmhSZWZDcTl5T3Y0TUhnSUJIY3N5UWVkX0NhYlpOVmJUU3JWQTdYMm1GdkVYLWw5SUtqR29CX3V2aHdSejMyRE9EWWtvd9IBogJBVV95cUxPYWEyREh0d0RpMUd3NDlOVUo2MDd1aUE2cEZIQmkyTVV6MjZvY0gtWVFfOU5Ta3lOZUhsTmtmdThQVkp4M1NoZkdWeU4tTXRpNXVmSzBCVnNfcnk2OHA0Ty1ILXJyWGZObVFDaGItd0kxRXVweWs5THNnR2gtYmNuYkN5SXhqRTZRWE8wcEV3VzVROTJJWk9rZTRZMWlFSnB5ODhQc19qMWxndThxTGxwbU8xQnpyMmY2VEdnRVZ1QkxiZVVTYXJFbTA2cFBlcm9lWGt4TUg2NXc1cnNpS0VfTy1qNndabUZjUGJIbUVCT1hGY2h5T1Jrd2dRbW9mNVIzd3UxWG9CaEZVZF96ZWE3Y0tuUnhJcTdxVUJ2VXBxanBEdw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-11-22 01:57  (8 条)
+
+- **特朗普** | 特朗普称中国大举扩充核武，他和普京习近平“关系好极了”，泽连斯基回应：普京是杀人凶手 <https://news.google.com/rss/articles/CBMixAJBVV95cUxPem1mZkJjWjNvREJwYkJRSS03MENNNHBSOFE0LTdBTFlVVUpQVnZlTFRwel9NX1BXX1phaWUxaDNrdkR2SlhvbzNBTTdvTG40R0xjOThoWFBSM3hKUHJvNE40aEc4N01GR3REZlN2TmVZTkZNdFpOZzh1RUdISEdYRDZITUhJNUZOUXhUMjQ0RVVGaTZsNDNpMmFER1RJUUFhd0FYTmlfa1M3b1B1WDhYbExvd3FhdTJULUxQWXlPbkl3ajZsZlBZWEpZRDNJZTZJdWRiaS0wa2Q2c0J0MXFOeUYxNnN3N3o4NVNZWEFSUUtHN09IOTBQSDdBckRER0s4YktUVDJ3MW9kTkFTcWU2eURObGJzZmU4UFBqWkdtOHFKcmxpV3VpeDhXZ2tXZTFkOWdubkdwZ0hLNE5lSFBVdHZNblLSAcQCQVVfeXFMT3pHakxJNVprLXg2dkJFUFF5aEwxanBPOHcwN1piR2JFd3k5OEd5a0ZETkpsNkhBU2xmVkVyMTM4dDRwNjRpZkpTRVJOc0hFSkRvdTdFQ3p1cUQtYTA2dlZnVGZHaVdUQjdQWl9POEtMenIxck9xNkhOV01SaklIaHFwMU5yZDhaV2JsR3RfWThaTWpPMUpMb0JfdUFmbnJBRVpUakhEbVJldmhRWmhWdU1YYVRjLWlNaGcyc1RSVnZWcEZRamFvMlloLUJFdmVHZmtuU0g1UmFhUUlhbEZQdVB4TVJtUjNzUllQalN4MDRWWXAtWlowZFZsMlFLR2hGbDZkSzFhVHplU1l6c0FOcWVrQi1KOElaTjQzZ0MwZEV5S0o1b215d1ZuWnNrMk8yQjlBbHlKNXhqYkVLVnVtZl9RQmIt?oc=5>
+- **特朗普** | 质疑俄和谈诚意 泽连斯基：特朗普称停战可节省资金助力欧洲发展 <https://news.google.com/rss/articles/CBMia0FVX3lxTE16c2Zpczk4TjhSZERRaEhlQVdVaVk2SDVEaDZYQUpYRWk2QmRndmZQb2IzY0NsTzN1Qkc4bVRlUThIcjR2MjJFNE1XdzhiT24tWUZkVXVHLVJmOFVocWRuaGJsaXJ1UmJUYXRF?oc=5>
+- **特朗普** | 新华社消息｜特朗普称寻求与伊朗达成一项永久性协议 <https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX1JoTHdaV3RVZFNWSTFmRTJQT1hCSkVLTDRlaFpNMTJJcWM4cGxiYkRObGZxSUJOR0ZkXzlkc1JBTTFaclJ2ZVR3VGM0NUtlWmFfWmFZWF9TM0Eyd2U1elRWSzFBLU1lUzFkTkJJRlB6UkxBek5VZHc4TV9tam4xUV8wVmttZ1dz?oc=5>
+- **特朗普** | 共和党中期选举失败 万斯陷入被动 2028参选阵营扩大 <https://news.google.com/rss/articles/CBMiigFBVV95cUxQeDVCRHB4S3VfYWtTdEFfVEZUNENIdFFlS255Q3FSNDJTQ1h3eUR4d3FVVzZjdERuZV9iVWllVDljYXVYdWtrVmJhcUdhN1cxUl9hbHkxbGUybXlWZmRsU2t1Mk0tMzRkZVllZlRpREl1R2RXak5qMnc2djJBUG52Q3ZRaWNLVk9VcEE?oc=5>
+- **特朗普** | 特朗普否认对万斯不满 淡化两人围绕伊朗战争的摩擦 <https://news.google.com/rss/articles/CBMinAFBVV95cUxPOU16R3hjWlFSazdQOGZKQ1JwNXNPQ0NxVEdqb0U0UlZieE95TXdDX2ZOQkdFNC05SGhHN3hLcXJBV1VjUTBPZWlnU1BmV0Q4eW5zY1hPSXIyTmZNcG9NNHRzUkJIMjUtZENWR01qYWtOWWFOT2RKZnd2akVDdWU4TU1xZUp6VFNCUDFCS2s4T2JORjhxbW1JUXlUaUc?oc=5>
+- **特朗普** | 意犹未尽！特朗普在APEC晚宴跳标志性舞蹈 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XU0hBbmN6MzlKY2JjenJEcU9LZ25iZFpGM3o3bHlNNW9LYUVoQUFsdmxkRnVxR1FpeGxCNmM3cWt4ZnFEWGNyeWpfMWhfNDNRQ3hJeTZDU2NoMjFESVo3aQ?oc=5>
+- **特朗普** | 第三次喊话力挺黄仁勋，特朗普向英伟达董事会下“政治通牒”：希望黄仁勋重返英伟达担任CEO，强调要保护像他这样的“人才” <https://news.google.com/rss/articles/CBMicEFVX3lxTE5rclFuYzdfTUV0eVlaSHJsMUJ5Q0JxYmN6SEZpbGpwYjRFSF9RTDlvUjJQdkc5RHRSZTluOG93WGwxWE9mN1BkRk1VSTNlUE9oY3JUYTlnODhVRzNuSlRYcTdON0JpU3JFRDVoTzh0X00?oc=5>
+- **特朗普** | 英伟达深陷会计调查与对华芯片出口争议 特朗普力挺黄仁勋回归 <https://news.google.com/rss/articles/CBMiogJBVV95cUxQdVd2WWdDUlRMTnlVQ3dXMFV6MkVTdHZZNzdaOVY3V2ZrWE1NSDgtNzVqaGMwUDFWdWE2R3hCbkdGelRieHZKM2pWd28zU0pNUWJiaTVHRDBReGVoVkF1aWFQWF9hdWdlQW1La0huODdlb1ROdXlfYlc3U0lacjVKREpzczBMSVkzQUZMbDdjQlpWb2UyUGFReFJfQ3ExeFY3NzRhcWw4QW5BUkE1OC1uS1EyZjNqcUtWRmVuSkFvM0FIZnF2ajBKY25wenVzUF9MQmg5V2JIVndCWTdiVmhSZWZDcTl5T3Y0TUhnSUJIY3N5UWVkX0NhYlpOVmJUU3JWQTdYMm1GdkVYLWw5SUtqR29CX3V2aHdSejMyRE9EWWtvd9IBogJBVV95cUxPYWEyREh0d0RpMUd3NDlOVUo2MDd1aUE2cEZIQmkyTVV6MjZvY0gtWVFfOU5Ta3lOZUhsTmtmdThQVkp4M1NoZkdWeU4tTXRpNXVmSzBCVnNfcnk2OHA0Ty1ILXJyWGZObVFDaGItd0kxRXVweWs5THNnR2gtYmNuYkN5SXhqRTZRWE8wcEV3VzVROTJJWk9rZTRZMWlFSnB5ODhQc19qMWxndThxTGxwbU8xQnpyMmY2VEdnRVZ1QkxiZVVTYXJFbTA2cFBlcm9lWGt4TUg2NXc1cnNpS0VfTy1qNndabUZjUGJIbUVCT1hGY2h5T1Jrd2dRbW9mNVIzd3UxWG9CaEZVZF96ZWE3Y0tuUnhJcTdxVUJ2VXBxanBEdw?oc=5>
 
 ### 2026-11-21 21:58  (4 条)
 
