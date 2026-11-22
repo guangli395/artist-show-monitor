@@ -1,80 +1,136 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-11-22 01:57**
-- 本轮扫到 16303 条, 新增 **8** 条
+- 最近更新: **2026-11-22 09:22**
+- 本轮扫到 16316 条, 新增 **13** 条
 
 ---
 
-## 本轮新发现 (8 条)
+## 本轮新发现 (13 条)
 
-### 特朗普称中国大举扩充核武，他和普京习近平“关系好极了”，泽连斯基回应：普京是杀人凶手
+### 谜底揭晓！原来特朗普拉开窗帘，是在认真看深圳的路
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: DW.com
-- 时间: 2026-11-21 12:48
-- 链接: <https://news.google.com/rss/articles/CBMixAJBVV95cUxPem1mZkJjWjNvREJwYkJRSS03MENNNHBSOFE0LTdBTFlVVUpQVnZlTFRwel9NX1BXX1phaWUxaDNrdkR2SlhvbzNBTTdvTG40R0xjOThoWFBSM3hKUHJvNE40aEc4N01GR3REZlN2TmVZTkZNdFpOZzh1RUdISEdYRDZITUhJNUZOUXhUMjQ0RVVGaTZsNDNpMmFER1RJUUFhd0FYTmlfa1M3b1B1WDhYbExvd3FhdTJULUxQWXlPbkl3ajZsZlBZWEpZRDNJZTZJdWRiaS0wa2Q2c0J0MXFOeUYxNnN3N3o4NVNZWEFSUUtHN09IOTBQSDdBckRER0s4YktUVDJ3MW9kTkFTcWU2eURObGJzZmU4UFBqWkdtOHFKcmxpV3VpeDhXZ2tXZTFkOWdubkdwZ0hLNE5lSFBVdHZNblLSAcQCQVVfeXFMT3pHakxJNVprLXg2dkJFUFF5aEwxanBPOHcwN1piR2JFd3k5OEd5a0ZETkpsNkhBU2xmVkVyMTM4dDRwNjRpZkpTRVJOc0hFSkRvdTdFQ3p1cUQtYTA2dlZnVGZHaVdUQjdQWl9POEtMenIxck9xNkhOV01SaklIaHFwMU5yZDhaV2JsR3RfWThaTWpPMUpMb0JfdUFmbnJBRVpUakhEbVJldmhRWmhWdU1YYVRjLWlNaGcyc1RSVnZWcEZRamFvMlloLUJFdmVHZmtuU0g1UmFhUUlhbEZQdVB4TVJtUjNzUllQalN4MDRWWXAtWlowZFZsMlFLR2hGbDZkSzFhVHplU1l6c0FOcWVrQi1KOElaTjQzZ0MwZEV5S0o1b215d1ZuWnNrMk8yQjlBbHlKNXhqYkVLVnVtZl9RQmIt?oc=5>
+- 场馆: 新浪新闻_手机新浪网
+- 时间: 2026-11-21 20:48
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9xRHBIM2I3UnFFamZ3ak41R2JmcXFIUm0tZHhsWTZEZVR3UXR4cUZzODc0VFc1aGVaQ2YtZF82X0YyOU9icFhPdTd4UWJzN3pWNHRxeUhhUUtmOUVXWjk5b29OWW9fSXJZbURjZjQ3X2pQQl9nZkhxcw?oc=5>
 
-### 质疑俄和谈诚意 泽连斯基：特朗普称停战可节省资金助力欧洲发展
+### 分析：APEC上与习近平、特朗普历史性会晤，对普京是一场重大胜利
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: BBC
+- 时间: 2026-11-22 02:22
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE45NkZnNG16REF4QkNEa1dKZGhNTXRsRmtTNWxONlhLbkxLMTItQkdpdzg0N2RnV0NIdlY2WnJYbW9sZGw4M1NfSEEzc2x3VXE2Y2NEZEtUR2NodWFjUmlJTTFWblkwNEnSAWxBVV95cUxPOTZreE5JRDNEaWdta0VxRUw0UTJwSU9TbGo3WFcyTTQwbnR3NENYX2VpNHF4Nk9jWHpCUGQyVmt5UE9YNjdIalRvc1BCWlFycGpDcnlkR3NVLXlRWmR3RmVaZXZKNnBjV0k3LVM?oc=5>
+
+### 泽连斯基回应特朗普：普京只是一介屠夫
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-11-21 22:29
+- 链接: <https://news.google.com/rss/articles/CBMirAJBVV95cUxQZlU4U0pnNXZUcjl0YVprZEJ3Zi1HRUZzX2lvOXlHS0VRYk5yc0wzeDAyRkl5WUN0V3hTekdWQ2tvRS1nZE8wMXhBRkZvQ0xzSTU2N19reUVTMUF1eUF0dmw4TUx6QlhiMWVuZnluSE04V1RlclQ5ZzFfMWZubnRMOUo0V2pSaWVpaWUxb282RXFjd1lHWjBBSThIRmVGdGFieWlJQ1BDclZYVHRFNkdSeHA5dmFUZUJvcjJBZkRDVVczOXlvM2haSUNyOFQ5VzRLZUFkZjJQTzNOWUVSUklTMndEbHE2N0x3TlpXd2U4ZWdueHAzTWRJXzlYaG1WZHBaQnEyMmhHREoydzlDcnVDc2M4dlpUaUxKdi11V3dzTFY5RXh2UHNsbW1uUE0?oc=5>
+
+### 华尔街日报：为促成特金会 美国曾考虑正式宣布朝鲜战争结束
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 联合早报
-- 时间: 2026-11-21 23:32
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE16c2Zpczk4TjhSZERRaEhlQVdVaVk2SDVEaDZYQUpYRWk2QmRndmZQb2IzY0NsTzN1Qkc4bVRlUThIcjR2MjJFNE1XdzhiT24tWUZkVXVHLVJmOFVocWRuaGJsaXJ1UmJUYXRF?oc=5>
+- 时间: 2026-11-22 08:52
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE0ybnQwWkNfRE5abE9fTXpETDZhZnMzTWZZc2RBWUdPb1dqTnRPRWJwLXd2cnpaQ2FZUXhDQ0JpZEtxWFA2d2o4bGs5MEpMQzlhX2tiQWs1Z2pxaWRvdWp5cWJPN2JUdkdEektN?oc=5>
 
-### 新华社消息｜特朗普称寻求与伊朗达成一项永久性协议
+### 特朗普称寻求与伊朗达成一项永久性协议
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: Sohu
-- 时间: 2026-11-22 01:46
-- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX1JoTHdaV3RVZFNWSTFmRTJQT1hCSkVLTDRlaFpNMTJJcWM4cGxiYkRObGZxSUJOR0ZkXzlkc1JBTTFaclJ2ZVR3VGM0NUtlWmFfWmFZWF9TM0Eyd2U1elRWSzFBLU1lUzFkTkJJRlB6UkxBek5VZHc4TV9tam4xUV8wVmttZ1dz?oc=5>
+- 场馆: 新华网
+- 时间: 2026-11-21 16:31
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE5qc0tqREJ0d3pfaFlNM2RBMGZJbTlRZm9BdEVWMkJIM3R2WGdWVHJrdmdKQ1ZsOUdmbmtQSXREbVJBNF9Xc3ZKMWZkNy1hN0VUVXQwRWpBWFVwTThweDdyV0dzRmxIWFRjS1VTU1BBc0lDYWhzaFZHQnhYX1lyVWc?oc=5>
 
-### 共和党中期选举失败 万斯陷入被动 2028参选阵营扩大
+### 特朗普：寻求与伊朗达成永久性协议
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街见闻
+- 时间: 2026-11-22 04:13
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDV1RwOUZoTjhsdnFwbjZVX3Z5dzljemtlcE9QSjY2S01vUl92ejdUNWFnR2ZubjNmaDVvbDNaVFJqNUlDV2RzZHFLZTZQWlFYQWsw?oc=5>
+
+### 美国总统特朗普称寻求与伊朗达成“永久性协议”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: www.hkcna.hk
+- 时间: 2026-11-22 07:11
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTFBZdnBQeVRUSWd0TDkyT2E4NVRpVl91OFU4TlhkQThnRjFPeno3Z0xTVF9YbFRobXloZlFDOVh6bERwQVpQUnR6Uy02a1pnc3NIX1M4eFZuSXF0T25XVHRQaUdpRHlCTjB3TGlLY0swNA?oc=5>
+
+### 不改“特朗普”了，福特级四号舰维持黑人水兵命名
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 观察者网
+- 时间: 2026-11-21 12:29
+- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTE5pZ0tHRGVHMUhmTWpSY0wwZml1el81YldOQkFsZVFXVlNaMFVRQTl3TndSengyWm5UcVJxcnZ0MW4tZXAzRkhCbjdpYzRpejRTb2xUQ0VLdjhMc3VzVTlvZEo5UQ?oc=5>
+
+### 特朗普751笔证券交易曝光：买入英伟达、SpaceX
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-11-21 22:18
-- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxQeDVCRHB4S3VfYWtTdEFfVEZUNENIdFFlS255Q3FSNDJTQ1h3eUR4d3FVVzZjdERuZV9iVWllVDljYXVYdWtrVmJhcUdhN1cxUl9hbHkxbGUybXlWZmRsU2t1Mk0tMzRkZVllZlRpREl1R2RXak5qMnc2djJBUG52Q3ZRaWNLVk9VcEE?oc=5>
+- 时间: 2026-11-21 09:08
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE4zRDY1R2N5em8tZkJyeTN2NHR2Vjk4Tm5uTDVfS0JiQ3NDMVZvZkFhbUNkRW1fYm5QcmlHeGJjZUpkdDdZcjNQdmtwSTg1VTNSV19fbEZtWVJ1dGlPd09fTWZpeERKY0NQWktBeWFkMlB0MXFic1E?oc=5>
 
-### 特朗普否认对万斯不满 淡化两人围绕伊朗战争的摩擦
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-11-20 20:49
-- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxPOU16R3hjWlFSazdQOGZKQ1JwNXNPQ0NxVEdqb0U0UlZieE95TXdDX2ZOQkdFNC05SGhHN3hLcXJBV1VjUTBPZWlnU1BmV0Q4eW5zY1hPSXIyTmZNcG9NNHRzUkJIMjUtZENWR01qYWtOWWFOT2RKZnd2akVDdWU4TU1xZUp6VFNCUDFCS2s4T2JORjhxbW1JUXlUaUc?oc=5>
-
-### 意犹未尽！特朗普在APEC晚宴跳标志性舞蹈
+### 特朗普表示：中俄美元首会晤“史无前例”“意义重大”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: ThePaper.cn
-- 时间: 2026-11-21 08:48
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XU0hBbmN6MzlKY2JjenJEcU9LZ25iZFpGM3o3bHlNNW9LYUVoQUFsdmxkRnVxR1FpeGxCNmM3cWt4ZnFEWGNyeWpfMWhfNDNRQ3hJeTZDU2NoMjFESVo3aQ?oc=5>
+- 场馆: 每日经济新闻
+- 时间: 2026-11-22 04:29
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9MUVVPVFlGY1pRTGxZT3dyS3AwNkltYnRUMHM1UXVoVFBIYm5CQ0R2TWFLVnowbmszbEYwTExyb0VCbVBPMXB4czNVMW5YV0hQeEhFTzM4elA1b0Zrd3IyNS1Sc1Bxdw?oc=5>
 
-### 第三次喊话力挺黄仁勋，特朗普向英伟达董事会下“政治通牒”：希望黄仁勋重返英伟达担任CEO，强调要保护像他这样的“人才”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-11-21 13:33
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5rclFuYzdfTUV0eVlaSHJsMUJ5Q0JxYmN6SEZpbGpwYjRFSF9RTDlvUjJQdkc5RHRSZTluOG93WGwxWE9mN1BkRk1VSTNlUE9oY3JUYTlnODhVRzNuSlRYcTdON0JpU3JFRDVoTzh0X00?oc=5>
-
-### 英伟达深陷会计调查与对华芯片出口争议 特朗普力挺黄仁勋回归
+### 后劲太大 特朗普连发30多张APEC照片 深圳之行难忘回忆
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: DW.com
-- 时间: 2026-11-21 13:12
-- 链接: <https://news.google.com/rss/articles/CBMiogJBVV95cUxQdVd2WWdDUlRMTnlVQ3dXMFV6MkVTdHZZNzdaOVY3V2ZrWE1NSDgtNzVqaGMwUDFWdWE2R3hCbkdGelRieHZKM2pWd28zU0pNUWJiaTVHRDBReGVoVkF1aWFQWF9hdWdlQW1La0huODdlb1ROdXlfYlc3U0lacjVKREpzczBMSVkzQUZMbDdjQlpWb2UyUGFReFJfQ3ExeFY3NzRhcWw4QW5BUkE1OC1uS1EyZjNqcUtWRmVuSkFvM0FIZnF2ajBKY25wenVzUF9MQmg5V2JIVndCWTdiVmhSZWZDcTl5T3Y0TUhnSUJIY3N5UWVkX0NhYlpOVmJUU3JWQTdYMm1GdkVYLWw5SUtqR29CX3V2aHdSejMyRE9EWWtvd9IBogJBVV95cUxPYWEyREh0d0RpMUd3NDlOVUo2MDd1aUE2cEZIQmkyTVV6MjZvY0gtWVFfOU5Ta3lOZUhsTmtmdThQVkp4M1NoZkdWeU4tTXRpNXVmSzBCVnNfcnk2OHA0Ty1ILXJyWGZObVFDaGItd0kxRXVweWs5THNnR2gtYmNuYkN5SXhqRTZRWE8wcEV3VzVROTJJWk9rZTRZMWlFSnB5ODhQc19qMWxndThxTGxwbU8xQnpyMmY2VEdnRVZ1QkxiZVVTYXJFbTA2cFBlcm9lWGt4TUg2NXc1cnNpS0VfTy1qNndabUZjUGJIbUVCT1hGY2h5T1Jrd2dRbW9mNVIzd3UxWG9CaEZVZF96ZWE3Y0tuUnhJcTdxVUJ2VXBxanBEdw?oc=5>
+- 场馆: 中华军事
+- 时间: 2026-11-22 03:22
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5jaG0xZkdWcURIOHpuQ0xmU3hnY1dUWlFJaFJqQVNWWl9VNUFvbTU0TXJ0MjZScXNlXzB3SFR2QllaQVVZTF9KV2JnYXVDZ2U2ZmV2RzRQbkdJenhpMXhrenhtZkFEQUFDcDFLdUxOd1Q?oc=5>
+
+### 特朗普盛赞与习近平的峰会，但分析人士认为美国总统收获甚少
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Mezha.net
+- 时间: 2026-11-21 18:32
+- 链接: <https://news.google.com/rss/articles/CBMikgFBVV95cUxNWUQ2SXF4NmRianRkSzA2c2ZpSHd3dUhMMml3RUlGaVE0X0RXUXZzUDFnYXlzT19fSDVXWU45SVVQbjJYdzJ0eWEyb2ZrbWZtUnlTcFI2cGdibUc4Q2oyNkM0M1FESGZQTy0ydmlnQlBVTGJPTmZJSncwY2xmRUU1YmtqWXp1LUYtdkR0NjVlTnJYZw?oc=5>
+
+### TRUMP技术分析：上涨趋势增强，上行目标指向0.93阻力位
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Traders Union
+- 时间: 2026-11-22 06:18
+- 链接: <https://news.google.com/rss/articles/CBMiowFBVV95cUxNMWE3d0ZTMWs5QTFIbGRhU0kxMUhvQTlTZWxDSmJlbjZ3NFdDTjZKZGpPZWVuUDUtZEJ0ZGlkX0tQQklUanpFVVRGaC1FOHFLWWQyS0VGSFpmUXc3d2hTcjNMM1FDMG1vdlNKdy1oN1R6VFpLWHlkU3NPZ2dLR1pMajlSVzgtcWFZTmJOalFTU05YZ1JWclhMcVZKbC1Zb0NsVVpr?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-11-22 09:22  (13 条)
+
+- **特朗普** | 谜底揭晓！原来特朗普拉开窗帘，是在认真看深圳的路 <https://news.google.com/rss/articles/CBMieEFVX3lxTE9xRHBIM2I3UnFFamZ3ak41R2JmcXFIUm0tZHhsWTZEZVR3UXR4cUZzODc0VFc1aGVaQ2YtZF82X0YyOU9icFhPdTd4UWJzN3pWNHRxeUhhUUtmOUVXWjk5b29OWW9fSXJZbURjZjQ3X2pQQl9nZkhxcw?oc=5>
+- **特朗普** | 分析：APEC上与习近平、特朗普历史性会晤，对普京是一场重大胜利 <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE45NkZnNG16REF4QkNEa1dKZGhNTXRsRmtTNWxONlhLbkxLMTItQkdpdzg0N2RnV0NIdlY2WnJYbW9sZGw4M1NfSEEzc2x3VXE2Y2NEZEtUR2NodWFjUmlJTTFWblkwNEnSAWxBVV95cUxPOTZreE5JRDNEaWdta0VxRUw0UTJwSU9TbGo3WFcyTTQwbnR3NENYX2VpNHF4Nk9jWHpCUGQyVmt5UE9YNjdIalRvc1BCWlFycGpDcnlkR3NVLXlRWmR3RmVaZXZKNnBjV0k3LVM?oc=5>
+- **特朗普** | 泽连斯基回应特朗普：普京只是一介屠夫 <https://news.google.com/rss/articles/CBMirAJBVV95cUxQZlU4U0pnNXZUcjl0YVprZEJ3Zi1HRUZzX2lvOXlHS0VRYk5yc0wzeDAyRkl5WUN0V3hTekdWQ2tvRS1nZE8wMXhBRkZvQ0xzSTU2N19reUVTMUF1eUF0dmw4TUx6QlhiMWVuZnluSE04V1RlclQ5ZzFfMWZubnRMOUo0V2pSaWVpaWUxb282RXFjd1lHWjBBSThIRmVGdGFieWlJQ1BDclZYVHRFNkdSeHA5dmFUZUJvcjJBZkRDVVczOXlvM2haSUNyOFQ5VzRLZUFkZjJQTzNOWUVSUklTMndEbHE2N0x3TlpXd2U4ZWdueHAzTWRJXzlYaG1WZHBaQnEyMmhHREoydzlDcnVDc2M4dlpUaUxKdi11V3dzTFY5RXh2UHNsbW1uUE0?oc=5>
+- **特朗普** | 华尔街日报：为促成特金会 美国曾考虑正式宣布朝鲜战争结束 <https://news.google.com/rss/articles/CBMia0FVX3lxTE0ybnQwWkNfRE5abE9fTXpETDZhZnMzTWZZc2RBWUdPb1dqTnRPRWJwLXd2cnpaQ2FZUXhDQ0JpZEtxWFA2d2o4bGs5MEpMQzlhX2tiQWs1Z2pxaWRvdWp5cWJPN2JUdkdEektN?oc=5>
+- **特朗普** | 特朗普称寻求与伊朗达成一项永久性协议 <https://news.google.com/rss/articles/CBMif0FVX3lxTE5qc0tqREJ0d3pfaFlNM2RBMGZJbTlRZm9BdEVWMkJIM3R2WGdWVHJrdmdKQ1ZsOUdmbmtQSXREbVJBNF9Xc3ZKMWZkNy1hN0VUVXQwRWpBWFVwTThweDdyV0dzRmxIWFRjS1VTU1BBc0lDYWhzaFZHQnhYX1lyVWc?oc=5>
+- **特朗普** | 特朗普：寻求与伊朗达成永久性协议 <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDV1RwOUZoTjhsdnFwbjZVX3Z5dzljemtlcE9QSjY2S01vUl92ejdUNWFnR2ZubjNmaDVvbDNaVFJqNUlDV2RzZHFLZTZQWlFYQWsw?oc=5>
+- **特朗普** | 美国总统特朗普称寻求与伊朗达成“永久性协议” <https://news.google.com/rss/articles/CBMib0FVX3lxTFBZdnBQeVRUSWd0TDkyT2E4NVRpVl91OFU4TlhkQThnRjFPeno3Z0xTVF9YbFRobXloZlFDOVh6bERwQVpQUnR6Uy02a1pnc3NIX1M4eFZuSXF0T25XVHRQaUdpRHlCTjB3TGlLY0swNA?oc=5>
+- **特朗普** | 不改“特朗普”了，福特级四号舰维持黑人水兵命名 <https://news.google.com/rss/articles/CBMiY0FVX3lxTE5pZ0tHRGVHMUhmTWpSY0wwZml1el81YldOQkFsZVFXVlNaMFVRQTl3TndSengyWm5UcVJxcnZ0MW4tZXAzRkhCbjdpYzRpejRTb2xUQ0VLdjhMc3VzVTlvZEo5UQ?oc=5>
+- **特朗普** | 特朗普751笔证券交易曝光：买入英伟达、SpaceX <https://news.google.com/rss/articles/CBMidkFVX3lxTE4zRDY1R2N5em8tZkJyeTN2NHR2Vjk4Tm5uTDVfS0JiQ3NDMVZvZkFhbUNkRW1fYm5QcmlHeGJjZUpkdDdZcjNQdmtwSTg1VTNSV19fbEZtWVJ1dGlPd09fTWZpeERKY0NQWktBeWFkMlB0MXFic1E?oc=5>
+- **特朗普** | 特朗普表示：中俄美元首会晤“史无前例”“意义重大” <https://news.google.com/rss/articles/CBMiZkFVX3lxTE9MUVVPVFlGY1pRTGxZT3dyS3AwNkltYnRUMHM1UXVoVFBIYm5CQ0R2TWFLVnowbmszbEYwTExyb0VCbVBPMXB4czNVMW5YV0hQeEhFTzM4elA1b0Zrd3IyNS1Sc1Bxdw?oc=5>
+- **特朗普** | 后劲太大 特朗普连发30多张APEC照片 深圳之行难忘回忆 <https://news.google.com/rss/articles/CBMicEFVX3lxTE5jaG0xZkdWcURIOHpuQ0xmU3hnY1dUWlFJaFJqQVNWWl9VNUFvbTU0TXJ0MjZScXNlXzB3SFR2QllaQVVZTF9KV2JnYXVDZ2U2ZmV2RzRQbkdJenhpMXhrenhtZkFEQUFDcDFLdUxOd1Q?oc=5>
+- **特朗普** | 特朗普盛赞与习近平的峰会，但分析人士认为美国总统收获甚少 <https://news.google.com/rss/articles/CBMikgFBVV95cUxNWUQ2SXF4NmRianRkSzA2c2ZpSHd3dUhMMml3RUlGaVE0X0RXUXZzUDFnYXlzT19fSDVXWU45SVVQbjJYdzJ0eWEyb2ZrbWZtUnlTcFI2cGdibUc4Q2oyNkM0M1FESGZQTy0ydmlnQlBVTGJPTmZJSncwY2xmRUU1YmtqWXp1LUYtdkR0NjVlTnJYZw?oc=5>
+- **Trump** | TRUMP技术分析：上涨趋势增强，上行目标指向0.93阻力位 <https://news.google.com/rss/articles/CBMiowFBVV95cUxNMWE3d0ZTMWs5QTFIbGRhU0kxMUhvQTlTZWxDSmJlbjZ3NFdDTjZKZGpPZWVuUDUtZEJ0ZGlkX0tQQklUanpFVVRGaC1FOHFLWWQyS0VGSFpmUXc3d2hTcjNMM1FDMG1vdlNKdy1oN1R6VFpLWHlkU3NPZ2dLR1pMajlSVzgtcWFZTmJOalFTU05YZ1JWclhMcVZKbC1Zb0NsVVpr?oc=5>
 
 ### 2026-11-22 01:57  (8 条)
 
