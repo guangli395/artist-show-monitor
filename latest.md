@@ -1,56 +1,109 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-11-22 22:39**
-- 本轮扫到 16332 条, 新增 **5** 条
+- 最近更新: **2026-11-23 03:25**
+- 本轮扫到 16342 条, 新增 **10** 条
 
 ---
 
-## 本轮新发现 (5 条)
+## 本轮新发现 (10 条)
 
-### 美国总统特朗普：上周伊朗无人机和导弹未造成损害。
+### 美股蒸发6万亿美元，特朗普：100%怪民主党
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-11-23 02:00
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5HdC15V0pnTzVVaEVYXzZ3S01KZzNjb1JqTkNrQ095ZTJoYm1JOGdzSV9tdi1nSExiY2hVS0tkRENDMWJ5a1haRzg5NHc?oc=5>
+
+### 特朗普发文称中期选举印证其两大预判，认为选举过程十分蹊跷
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 手机新浪网
-- 时间: 2026-11-22 21:51
-- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Da1R1UHhNUWJvcTBhczFwZGdrY2c4WHB1bUhKNHhiM2hpdERYZ0Zud25YLWVDeGxDcjNJWkpCd0h3V3A4cG45Rm1GTmpXUUE?oc=5>
+- 时间: 2026-11-22 21:55
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE42UkxZTi12Y0pkaGpjRXdMSC1fTmw2SjRvZDFHZXJnYkM1TWdMVmctOUxod0lmcjU0bkVaWUJaMEtqWm9IRGlWNEJZcw?oc=5>
 
-### 不改“特朗普”了，福特级四号舰维持原名“多丽丝·米勒”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪军事
-- 时间: 2026-11-22 12:33
-- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTFBDNGVOckloVm1CNlRma3gzS2dpTUR6X2NfYjRSWV9GZTNJNlFFYkZXck1WNG1XNk9WbHF6X3p1eTBTNWRZX1hOZWFmOTJxc2VJTmxWMk01WGYyU29VNzZvZzZ6YWFIaGdrTXhCX1FfWmhiMXgxVExzekh3b0E?oc=5>
-
-### 特朗普返美后点赞深圳：“那股活力令人赞叹”
+### 刚刚，全线拉升！特朗普，最新发声！
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 央视网
-- 时间: 2026-11-22 03:10
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE9TUnpGRXR3Rl9RR2hpOEF6WDgwVjBrQnRpdE5NTHNxYWQ3THRVdGYxMS03UlktMGZSNzQ4c2NKWjRCT2JkeEFXeW1mYVBOaTl0VUxDU0N6cFFZSDdLcjh6Q09MZlBRQmdNcFNoMXR6TUVXTUpUZV9tbw?oc=5>
+- 场馆: 同花顺
+- 时间: 2026-11-23 00:17
+- 链接: <https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVUmdHaFFyVTdQT0tpcEY0T3k1MGxCLXQxaGpuRjBtVjVrY3pfVU9Gc01yeE1VMXRIOXNuLXhXSjdoTUQ1SlV6NGdYRnp3MW5FVUE0bkE5Y3NsYXBCdFE?oc=5>
 
-### 特朗普称没有考虑伊朗政权更迭
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新京报
-- 时间: 2026-11-21 23:25
-- 链接: <https://news.google.com/rss/articles/CBMiZEFVX3lxTE9oYkx4aFAzd2g2RkZHVDBWMGRac2Vtdjl5MGRXV2N4cDk1SjlneExNVXRISUNNVG11ODBTRE5nZl9FbWpXZk11cWZ4VGdKaVNMYlNUQmtZU1FKRjZsaE10U2l3QWU?oc=5>
-
-### 美伊局势追踪：特朗普称寻求达成永久性协议 霍尔木兹触雷事故不断
+### 数亿美元捐款没回报，马斯克公开后悔，特朗普却警告别脱队
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 财联社
-- 时间: 2026-11-22 00:27
-- 链接: <https://news.google.com/rss/articles/CBMiSEFVX3lxTE11OEVYNUZObFVmRUZxbFhXZGlKSGF2T2NsMm84elkxeTBNdEpEZEhMeVoxQkt0VUwwZVBUN0UwemRlN1R5aXZmbQ?oc=5>
+- 场馆: 手机新浪网
+- 时间: 2026-11-23 02:18
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFBVdG1GV1JSMmxYWkhobFVUN3ktZlJCdDZHNkFRelc4MERhdFNwV3pyVmJabXljREJpVHRQNW5EbkptYnZTN1lZbVREdWlpdXV0MDctODZ6ZGJNRWpfek5kWFA0Y2NjU3RWM0JkOTBPdlEyUQ?oc=5>
+
+### 特朗普：希望英伟达董事会重新聘用黄仁勋
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Sohu
+- 时间: 2026-11-23 03:11
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxNdC1uc0ZneGJHY2Y2M2FoeUQ2NkRJSnhJZmRxdEk1cWlUb3puazd2a0tZNnUzQVl6c19HQmpqdzMyZG9TZGJGZWZZX3g1UUdEWXdhUEQ2OXlEUXpIZFE4eV9jcW9IalVwcmhTbWsxOGgzU2o4LVR2REkwd3FVUGo0RHNzMUdoZ1ZmTWFNdA?oc=5>
+
+### 特朗普“再提”：我希望英伟达董事会重新聘用黄仁勋
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街见闻
+- 时间: 2026-11-23 02:59
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TeC1nbThjM2JXNnlLbUhsaEVlZ1F1a3V4eUZ4R1dSQjFYd3owd3NCcFZTOG5SVXNWU3dYUGpXM0pqS040bEhTVzlFX29zd0hKT2pJ?oc=5>
+
+### 特朗普：我非常希望黄仁勋能回来 顶尖人才备受期待
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中华网
+- 时间: 2026-11-23 01:42
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE5zdWRHR1JHQ1RyNWpHazFRYkRwVUN1TGRScjdpejBpWHZkb3pGY1FCZWcwN2Fqd2twMmx3YVcwd3VuTjFmWXpwTjRveU9tSW5DSXRyRnFrdDFYemFxa0hUUnktWm5rV2xEVlNlN0NmWFQ?oc=5>
+
+### 特朗普突然对菲律宾开条件：100%买美国农产品
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-11-22 23:25
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5FZmdORzJGTjNJczVpeE12RDFITGcwSWExMmZVbl96Tk9iWGpHMGNvVHFQUERmUEdESDVndWl6ZTNYTzNXdjBsb2ZMTDQ?oc=5>
+
+### 美国总统特朗普：美国应开火打击试探封锁的伊朗船只。
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 手机新浪网
+- 时间: 2026-11-22 17:42
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9Wa0hNM0F1eXF2aUcwRk44Y1lHcWJiUV9feWJKb0Y2dTFiRkt4OThwVWNKYWhkakxQa2pXQ3pRb2QwZjEyWWhiRFRNRQ?oc=5>
+
+### 同名代币价格下跌之际，特朗普设专属晚宴回馈持币大户
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 华尔街日报中文网
+- 时间: 2026-11-22 23:51
+- 链接: <https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM1VMbm9aeFZyUFRLU2E5eFJNTWhMLTVJQlp0N0QyRTRTM1RYSjgtWm8ydG1fQzI5NnU3YU9nNXUzOFcxVVRhZzQxekRSZkxDTU1fdnpaSnRwbTJPaTVMeG43NlpYdUd5c1VuMEtOWjFOWHN2MVg4Q2R5LWllZVlFZlRfU1drQ29RWTlOdmFMc3BTWWxtLWxLTmRua1ZQc3Y2cEo4NkUwckI?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-11-23 03:25  (10 条)
+
+- **特朗普** | 美股蒸发6万亿美元，特朗普：100%怪民主党 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5HdC15V0pnTzVVaEVYXzZ3S01KZzNjb1JqTkNrQ095ZTJoYm1JOGdzSV9tdi1nSExiY2hVS0tkRENDMWJ5a1haRzg5NHc?oc=5>
+- **特朗普** | 特朗普发文称中期选举印证其两大预判，认为选举过程十分蹊跷 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE42UkxZTi12Y0pkaGpjRXdMSC1fTmw2SjRvZDFHZXJnYkM1TWdMVmctOUxod0lmcjU0bkVaWUJaMEtqWm9IRGlWNEJZcw?oc=5>
+- **特朗普** | 刚刚，全线拉升！特朗普，最新发声！ <https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVUmdHaFFyVTdQT0tpcEY0T3k1MGxCLXQxaGpuRjBtVjVrY3pfVU9Gc01yeE1VMXRIOXNuLXhXSjdoTUQ1SlV6NGdYRnp3MW5FVUE0bkE5Y3NsYXBCdFE?oc=5>
+- **特朗普** | 数亿美元捐款没回报，马斯克公开后悔，特朗普却警告别脱队 <https://news.google.com/rss/articles/CBMickFVX3lxTFBVdG1GV1JSMmxYWkhobFVUN3ktZlJCdDZHNkFRelc4MERhdFNwV3pyVmJabXljREJpVHRQNW5EbkptYnZTN1lZbVREdWlpdXV0MDctODZ6ZGJNRWpfek5kWFA0Y2NjU3RWM0JkOTBPdlEyUQ?oc=5>
+- **特朗普** | 特朗普：希望英伟达董事会重新聘用黄仁勋 <https://news.google.com/rss/articles/CBMijAFBVV95cUxNdC1uc0ZneGJHY2Y2M2FoeUQ2NkRJSnhJZmRxdEk1cWlUb3puazd2a0tZNnUzQVl6c19HQmpqdzMyZG9TZGJGZWZZX3g1UUdEWXdhUEQ2OXlEUXpIZFE4eV9jcW9IalVwcmhTbWsxOGgzU2o4LVR2REkwd3FVUGo0RHNzMUdoZ1ZmTWFNdA?oc=5>
+- **特朗普** | 特朗普“再提”：我希望英伟达董事会重新聘用黄仁勋 <https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TeC1nbThjM2JXNnlLbUhsaEVlZ1F1a3V4eUZ4R1dSQjFYd3owd3NCcFZTOG5SVXNWU3dYUGpXM0pqS040bEhTVzlFX29zd0hKT2pJ?oc=5>
+- **特朗普** | 特朗普：我非常希望黄仁勋能回来 顶尖人才备受期待 <https://news.google.com/rss/articles/CBMicEFVX3lxTE5zdWRHR1JHQ1RyNWpHazFRYkRwVUN1TGRScjdpejBpWHZkb3pGY1FCZWcwN2Fqd2twMmx3YVcwd3VuTjFmWXpwTjRveU9tSW5DSXRyRnFrdDFYemFxa0hUUnktWm5rV2xEVlNlN0NmWFQ?oc=5>
+- **特朗普** | 特朗普突然对菲律宾开条件：100%买美国农产品 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5FZmdORzJGTjNJczVpeE12RDFITGcwSWExMmZVbl96Tk9iWGpHMGNvVHFQUERmUEdESDVndWl6ZTNYTzNXdjBsb2ZMTDQ?oc=5>
+- **特朗普** | 美国总统特朗普：美国应开火打击试探封锁的伊朗船只。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE9Wa0hNM0F1eXF2aUcwRk44Y1lHcWJiUV9feWJKb0Y2dTFiRkt4OThwVWNKYWhkakxQa2pXQ3pRb2QwZjEyWWhiRFRNRQ?oc=5>
+- **Trump** | 同名代币价格下跌之际，特朗普设专属晚宴回馈持币大户 <https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM1VMbm9aeFZyUFRLU2E5eFJNTWhMLTVJQlp0N0QyRTRTM1RYSjgtWm8ydG1fQzI5NnU3YU9nNXUzOFcxVVRhZzQxekRSZkxDTU1fdnpaSnRwbTJPaTVMeG43NlpYdUd5c1VuMEtOWjFOWHN2MVg4Q2R5LWllZVlFZlRfU1drQ29RWTlOdmFMc3BTWWxtLWxLTmRua1ZQc3Y2cEo4NkUwckI?oc=5>
 
 ### 2026-11-22 22:39  (5 条)
 
