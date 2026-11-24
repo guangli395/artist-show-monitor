@@ -1,156 +1,125 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-11-24 11:18**
-- 本轮扫到 16396 条, 新增 **19** 条
+- 最近更新: **2026-11-24 21:25**
+- 本轮扫到 16408 条, 新增 **12** 条
 
 ---
 
-## 本轮新发现 (19 条)
+## 本轮新发现 (12 条)
 
-### 王一博代言汽水音乐后会有新歌或专属福利吗？
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd86406801almi.html>
-
-### 王一博演唱会口碑获赞，路人称非粉丝也值得去现场
+### 王一博暂不接戏转开演唱会，文吉儿戴几十顶帽子录节目
 
 - 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5351798445_13efdf6ad04001ntjj.html>
+- 链接: <https://k.sina.com.cn/article_7811157903_m1d194cf8f03301u5dj.html>
 
-### 在我这里最适合开演唱会的人！
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6591202811_m188ddc5fb03301edts.html>
-
-### 2026亚太青年领袖榜单完整版发布，跨领域优秀青年集结
-
-- 艺人/关键词: **王一博**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7811201613_m1d1957a4d03301m4a6.html>
-
-### 浙江卫视2027片单发布 官宣10部AI综艺
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_5763534992_m1578890900330352dh.html>
-
-### 周杰伦12月4日到6日广州连开三场演唱会
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1691507817_m64d25c6903301vb1z.html>
-
-### 特朗普大谈力推黄仁勋复职内幕 称他不能被中国挖走
+### 总统唐纳德·J·特朗普访问中国深圳- 美国驻华大使馆和领事馆
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 财新
-- 时间: 2026-11-24 03:35
-- 链接: <https://news.google.com/rss/articles/CBMiakFVX3lxTFBvNlJUeWRZTFJ2S0JsR0pPcmxMS3VpYVBadWxKODY5b3M1dkNyWUxvM1JmYkxTSU5IalRjTWNrUG5GcmNVVlA1bGdOckdNMnJ4MGRTTXdpMVJHWWRFcnRMLTlobHY2a3d0clE?oc=5>
+- 场馆: U.S. Embassy & Consulates in China
+- 时间: 2026-11-24 03:03
+- 链接: <https://news.google.com/rss/articles/CBMikAFBVV95cUxPSzhGY3pEUzFMRERFNUxJczZBN2VWQ0JjSFVOdS1paEd3bkVoTGJkQ0xtdFJON1BORzVySzdBbTFRUUJSV3cxdU5fVjJJYlNNZEJ0UGxTMzFPdXZpb01yNERISUQyelFDYnBIc2swV05fNVBxV0VMd0dnRHNSQnAyRzRsRmw0NENNZzNqSkhneE8?oc=5>
 
-### 美国科技创新国家体制历经世纪演变，生产性霸权转向金融化并遭遇特朗普政府科研改革冲击
+### 特朗普、普京与习近平进行三方对话
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: VOA - Voice of America English News
+- 时间: 2026-11-24 18:26
+- 链接: <https://news.google.com/rss/articles/CBMitgFBVV95cUxNQnk2UTZHRXJyZnl4SE5jcnhQSDRDZUxEMXlhNGdlQlhDc2liZEl6aXRRUG1KaXJwMXB6cldRTFhJSmdxcDViMl9BZTF1S0tUNjg5YmFQR1k2bHF0b2ttMG1oOFhlOE9Tcm54Y25SNGowal9jemNPcUNhOGhBbDQzb1h0aHBRcXZ5Y2RqM1d3NkpNYUN2eHNnSGFQQUtiYUN0MkR4b096d0U0dldWMWs1VV9fMFFGUdIBuAFBVV95cUxQNW5IWmNTc1pqUWs2cEV5TlY2SFRwZUtvNlB5TGVlUnZ5Z0M3VFFja3Q4aXVGYmVpSG83Nm1hb3JJdERHZG84UkFLNHZ1aDAwc3E1TmJ5R1NHbTJRZW5QTmkwY2pWcElzWFpXUXN1eE55QXJHbjBpX1JreDJqY1NPc28tdWFwbzA3SE9kTnlkLXFkaXdHbzdKUzROQ2ZCOTlzd1RjMG1wNTZQaWFxX0ZyWTlOa0xNYWxk?oc=5>
+
+### 特朗普将与北约秘书长吕特举行会谈
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-11-24 19:27
+- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxPY2JwNVV1ZkJhWWd0VGRRbU81aXA1MVZJWHoxLTFNcmtfYlFyTWJaQjJPVHFkS2gwOGRuNEVBblFrZlBmVnFwR2N5UGNPQldlY3J5VWFvV2hEQThaRDZxaDVpeXo4V0ItY0xldklxV0dhX2l4bk5IYzNUYVM0bWd6NkhDdnNzLThQMFB2eVlPRDlqSENqVG9TQTlHWUHSAZ8BQVVfeXFMTUt6RTF1NnQ3b0pnMkh5dm5VVGNmRXZzZHNiRkVrcjIwZzRISWgwMEdlVzRJSGlLUHBTampQTVJkYldFcjB4WEtnbXktQ3JkQ2xtMWNaZjE0TkJKV2I2SzFaT1NKNzdmYnZkUUlPQ0RFUHhmMmhEeFlrVnowcVpELXFLVTMtVEJTSDgyR1d1ajd6eWV1dU9NSVNOVU43bWN3?oc=5>
+
+### 特朗普晒奥巴马访日鞠躬照 回击亲近中俄所遭批评
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 共同网
+- 时间: 2026-11-24 06:00
+- 链接: <https://news.google.com/rss/articles/CBMiV0FVX3lxTFBMbWs0bnZiYU91MTBNaHZ6b0VqeUFDUXBtWnF5YllFRzhFWEUwcmhSQURUbzNQVHpwWVhKMHZaOWhFZlFzWHctX25wZUdPZDRTMi1zcUU0aw?oc=5>
+
+### 特朗普力促黄仁勋复职、万斯介入给出保证，英伟达董事会“周日提前告知白宫”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 华尔街见闻
+- 时间: 2026-11-24 00:12
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TckRScHA1Ny1EdnZPcGx1Ym9BUjRDUThaeDdLNVktU3pwQWVvNnZiTDJubGlyMWxObFB5UXVKZEw1NS1BbldmT2YxMlVoR3p5ZjV3?oc=5>
+
+### 民主党人：将“动用全部权力”调查黄仁勋、特朗普
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中国新闻网
+- 时间: 2026-11-24 04:27
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xaDNjTGM2ZFhwbkZlN2NZSE8ySm5wd1U3XzkwUnhxeDVRVTVFVHgzYnJQQVF6Tnh0Wi1zS3RINXd1MTR0NkR6Sk9aejk2Qnc4OHdKMzhoUGVPNFRpZXN1WEZmSG1CTlVN?oc=5>
+
+### 黄仁勋复任英伟达CEO，特朗普承认介入董事会决策
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 虎嗅网
-- 时间: 2026-11-24 03:48
-- 链接: <https://news.google.com/rss/articles/CBMiVEFVX3lxTE9oVU9fNFBnMXpvYUg1RFctU1JCOU9DRVZoRlJhME1tOU5Xd1pQRUxnVFR2aWxVbGljUi1VVUt0STVMZ05TVUs0QmdaUFNpTzBUX3VVVQ?oc=5>
+- 时间: 2026-11-24 01:57
+- 链接: <https://news.google.com/rss/articles/CBMiVEFVX3lxTFB6Mm1ocUxnMlhUNlUzMGhLUDZzcnphTEpMNXJUNW9kWllBTGdrZ01LM01hVkdtLWRoWlBuVTYxNmRGTzYtOTB6M01BWjN0UjJ3cjJUcg?oc=5>
 
-### 黄仁勋突然复职 特朗普所持英伟达股票价值或增长多达1500万美元
+### 黄仁勋重返英伟达后，特朗普引发政治风暴
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: RFI
-- 时间: 2026-11-24 10:01
-- 链接: <https://news.google.com/rss/articles/CBMiqgNBVV95cUxNeHF5eTJWVlZ4YnJKR0lIMVRPaXNzWGZHMVdoOTBiMFozYjU1T09hcnJmZjlFM0pBSzl0eHBPNElIUk80WEVtVllqZmNBNHRkdUtTRDlCb25rNTVfcXVOSmw2UHBURjhXdkZjUDk5c080TFFXc1M5TkJBbGRiTkpEdTJEaE9GY2c4eGNhTWxlNEJmODlnOGU3YVN1T1hKa2RDNnJoVndQNzZGTkJUU2ZLYmJaMVFIZFhUaXZNRU9DSVAxUUNyTGJaM0NEaUJjTzVqVGd2WG1NNGhJWklpcnpCRUQ2NjlucVh5VHBOQkpYc0dHUFROcUVtN3kzWWZCaXhTaXdGRmtBa2lNZDZDZGdEZnk3NVEybldEc1NYWEphRDFtVDlObXVXa0tBaXN6bHYzcndQbWwtdUNVVFJTM0gxUlN2emFWMTZEUEpSQm5EaWR6bmZlM1NzYWNscXpMTUhRQm41T2hMdV9pdFhCY3hnRlFITnMydllfbnZYT0RhUGR6cVVROVBJb3E4YWF2MWxKN0FFYjhNVGNGTGRvaVRfSVpNVkY2RVJIMEE?oc=5>
+- 时间: 2026-11-23 23:27
+- 链接: <https://news.google.com/rss/articles/CBMiwwJBVV95cUxQbnN3eGFENU5nQ3BtV0Q2WDlsZFRUc0h1dHVRckplTFR3d044cTRTcXdobXY5U2VlUm9zQVIzTlJIcC1JNUhuTHpPelhOdXNlMGJHMTRGZ0d0bXoxQkFILWtybE5ZS19GWHZmRmZXMEJjbWoyeW0xSUhLOHFKdTdVbXJUZ2RwMXlzejFULUxZSVVYOWVKSVpiUXNnNnJmaHFIaERQeFFXS1YxWVhmbC1RUnlURk1zQjVvcXhxZ1VNdmlpbHVPaHFiSmxKdzlrZzIwRkN4SkE0NmVpTTg0MVB4cTZHMFBESHRGbjRKajdfOWNHaFZFc2hEZFVDUVNFSXBhUy1MdTJDWE1JRW9pdjJNelltRmtBMDhmQV9meU5WZzB6a0hyUjFVQ0dPSHM1ZEF3bWVoWWpWS0p1aklQOXFLekZaaw?oc=5>
 
-### 卡尼公开吐槽特朗普，美媒震惊
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-11-23 23:09
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2YWk1SWFUX2RSNTBJRnJCZ21YdTVkMWlIR19xVE4zYzhmUWpreS1nd3lrU1RRdFd5ajdoNkl3QWR1bk5pS2Y1cU8xRkI?oc=5>
-
-### 从深圳回到美国，特朗普连续4天盛赞中国 | 京酿馆
+### 黄仁勋重掌Nvidia：习近平从特朗普身上看到了什么？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-11-24 04:23
-- 链接: <https://news.google.com/rss/articles/CBMijgFBVV95cUxNRk5UcEY2Rjg2OUZWVUNFbGdmc044eUNwSkk5MTh3bGNueVJaWmM3bjdCRV8zMFAzZWZONmZ5RTRMMlVuc1JoUVIxVWoyNlhJdGh4UU1MNzdnMnBTWVlMYm9PUDk0M083NTN3a0dyS2Uyc2d1NG9VOVhHQ1lwa3JlREF0NWVBUmN0SC02UnBR?oc=5>
+- 场馆: BBC
+- 时间: 2026-11-24 16:20
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SVG5XaURIbmE0QS1wWlp6YTl2QXl5TjhZc2ZLLU9ZV1JEcVVETlYzYVUta09uVVRJYmZQNGx3YmNrWXl3aTJaTjh1V0ZSRE5ZRDhsOVloNzE4RkRPeTJTbEQxVkpLeGvSAWxBVV95cUxQekRIVjNoU0pnUTg5U2ZQRHBuV0FldGI3NU9HRlZwMkE1SXdXeFpxYUV2UDlYZGxycldQalcwbU9rc3R1c1BfVGh2andKRWs5aFZWdlJmVGQzVHpBY0dVNmhyVGlJVlUzNVlfWHE?oc=5>
 
-### 深圳的后劲还是太大了，特朗普连发三十多张APEC照片回味，晒与普京合影，高调打出“My Friend”再次回应质疑
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-11-22 02:11
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTFB0cThVVVowbEFHeXIwcW1kb1VkRXRaMUVKLW1hWU1IcDFCMlFMNVlmWERSNzM5SDlmb0ZNWjBsT3kyYnpQblpvaklhWG5ic2NpTGViYUstdi1TSzhFMHRwQkw2OElEZlNMZTVPTTFqaE5PVnRNUUl4YTNkRmFuc3M?oc=5>
-
-### 特朗普称只想向中国出售相对落后的芯片 外交部回应
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 东方财富网
-- 时间: 2026-11-23 07:29
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WN2FJSHNQc01jempfdENlQ0RZM05ILWR5UWRwcEk3QXVDMklBUE1wQVUzbUFiUHFWT3ROLXdud2dYVjFzS0N2Z1RSbEkzaV9QVXYyVFVSZ0o5WUVuY1pzLQ?oc=5>
-
-### 特朗普妻子给20岁小儿子建议：约会时要小心谨慎，世界充满危险
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-11-23 02:52
-- 链接: <https://news.google.com/rss/articles/CBMimAFBVV95cUxORkJ1Z2ZKSkNFOVN2WmFhUFVhVFdYSUZwQ1llbmRiYnBNZEU4bnZLRTM5NzgwSUt5NFZWVDgweXV5ZUV3ZWJTTldkZUVYM2puQjE0VUR2dzBVd3hYYkQwbkV4NHR3U2RvNWlXM2RkLUVId2JhMWw1dnppeWY1TmJMV3ltbm5NbENoNmc3MmlOYjBwa0djaUowQw?oc=5>
-
-### 特朗普痛斥：美国史上最令人震惊的不公正行为之一，简直不敢相信
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-11-24 03:04
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE9LOWxfSU5jaFRjdjJrUUdXZWNRckZ6Vk5MTFE2QzBYYU9aTDktcm93TF94VTdwY3VMdFdscWJYNXdkOGFNbUZnUjVfMUY?oc=5>
-
-### 加州州长给548名死刑犯减刑，特朗普怒斥：令人震惊的不公！
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: Sohu
-- 时间: 2026-11-24 11:10
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxOUHJyN3djS1BPdjhEcVIzX0EyUDJqWGZxR2xFcUxkUnBoREVlakVFY3Y5WlVBdndVTEpLYXdsV09tczhPamN1YkZSQ3lyQXZSVHBNZ2JQVEYtV1pIRWdpbk52bWp1Vk1iZjBxNDNGRkhwbVRPaE9sM1Eyd2JlTnFfam83anZYbkR5eVFjbg?oc=5>
-
-### 548名死囚获减刑 特朗普炮轰纽森 “不义之举”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中华网
-- 时间: 2026-11-24 05:21
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9PVDBIc01xS0thd3UxcVl4YldyTl82dVZKTWVlRWg0ZWJOblFWNl82bXAtamRUZl9BRk5EMFhMRTUyOHU0OUJsU0VaYS1RVXpyTTdqenZLTEdkMVljOGpPZko3RUJ0cld0M05CT1UyZm0?oc=5>
-
-### 当初每枚价值约75美元，如今每枚不值1美元。美国总统特朗普“迷因币晚宴”规模与价值双双暴跌
+### TRUMP价格展望：看跌势头占主导，下行风险依然高企
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-11-24 03:13
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE12WnNRMWVKNGlfMmY1TDNsMXAyRHExT3hub3JFa0JQMnc4U3BPNG5pOC1IRDN3T0k3NTcyMHVhTTRHN3Zva09FVWhqaGw?oc=5>
+- 场馆: Traders Union
+- 时间: 2026-11-24 13:17
+- 链接: <https://news.google.com/rss/articles/CBMiowFBVV95cUxPUFNybG8zbjY3d3lteDZiV3MzZThRVHdCbXRFc1Ztam1XdE1LYmlzRXBVcXZaSnRIdjJDZ2hwcmtvYVZoV1F3V3NFdmRPQkNfdE56RXpMcVV2SGU0eFdOZlZEdUFrcEJhdzFmYURnakJKd29DUFo3UkhjVE01ZVhBNHZqZmN0MUNJc2RjNjMtVnR0UzM0UVlQT1hoTXBwNUlITFNz?oc=5>
 
-### 贝森特指美中就AI军事决策达成“人类参与”共识，科技领袖呼吁勿将社会移交AI
+### 黄仁勋复职凸显特朗普不惜代价力保人工智能发展
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-11-23 21:23
-- 链接: <https://news.google.com/rss/articles/CBMitgFBVV95cUxPd0lQRDJZWVRHMEh2a1dpV0oxOTB0MkdkcjBacndOQi1uWXZpTjd6MkFwZ01DcWRvaW1aSy1hcGdzN3FndXU4d1VITVlnWHUtU3VMakRkOTBPQVgybUpvWUc4Z0dJMW1MR1VHeU54ZkQ3Y01ZYldHX0N3RWMtdFFtUjB1RXE2WXdtUXV6MGI1ZF9xbERkd0dCZVdXanl3alNEeXFsZzZUN2Z2MW80Mk1VeElta0JRZ9IBuAFBVV95cUxNR1RVRGdqZjJ0WDlOVWVIWXUzS2xtX1RpN25EZ1h6VFpoeGx1RE9JRUFCdHd1SmU2Z3ZZVkw4a3FBWG1iRWozdlFlcUJFM1Y4cUF0SnZwNlVIckoyZTNlN1VKRElibFJXNEtfWVBZLTJ4WnhqdlkzdXRfTl9YZ1NPZjkyYTdmLXlMb1pGeTUyVnp4M0xXMDZXZE5VblBPLW5XT28ySW1ZcmxYY3JVTUpaeXAzVVlwVzNB?oc=5>
+- 场馆: 纽约时报中文网
+- 时间: 2026-11-24 02:49
+- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE5JYlgxRVdoNFVRX2VVdi1vYkVRWW56S194aC1tcXR0cm9jb2R0eXpPVEItSnRqYmgxQzV3bnFYZXh3ZVQySTg2WTUyWDEtVlpXemZVemhieEZBZUIyNzZNbnVwS1UxU2xQZ1g5X2ZBa2ViTGpKaFE?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-11-24 21:25  (12 条)
+
+- **王一博** | 王一博暂不接戏转开演唱会，文吉儿戴几十顶帽子录节目 <https://k.sina.com.cn/article_7811157903_m1d194cf8f03301u5dj.html>
+- **特朗普** | 总统唐纳德·J·特朗普访问中国深圳- 美国驻华大使馆和领事馆 <https://news.google.com/rss/articles/CBMikAFBVV95cUxPSzhGY3pEUzFMRERFNUxJczZBN2VWQ0JjSFVOdS1paEd3bkVoTGJkQ0xtdFJON1BORzVySzdBbTFRUUJSV3cxdU5fVjJJYlNNZEJ0UGxTMzFPdXZpb01yNERISUQyelFDYnBIc2swV05fNVBxV0VMd0dnRHNSQnAyRzRsRmw0NENNZzNqSkhneE8?oc=5>
+- **特朗普** | 特朗普、普京与习近平进行三方对话 <https://news.google.com/rss/articles/CBMitgFBVV95cUxNQnk2UTZHRXJyZnl4SE5jcnhQSDRDZUxEMXlhNGdlQlhDc2liZEl6aXRRUG1KaXJwMXB6cldRTFhJSmdxcDViMl9BZTF1S0tUNjg5YmFQR1k2bHF0b2ttMG1oOFhlOE9Tcm54Y25SNGowal9jemNPcUNhOGhBbDQzb1h0aHBRcXZ5Y2RqM1d3NkpNYUN2eHNnSGFQQUtiYUN0MkR4b096d0U0dldWMWs1VV9fMFFGUdIBuAFBVV95cUxQNW5IWmNTc1pqUWs2cEV5TlY2SFRwZUtvNlB5TGVlUnZ5Z0M3VFFja3Q4aXVGYmVpSG83Nm1hb3JJdERHZG84UkFLNHZ1aDAwc3E1TmJ5R1NHbTJRZW5QTmkwY2pWcElzWFpXUXN1eE55QXJHbjBpX1JreDJqY1NPc28tdWFwbzA3SE9kTnlkLXFkaXdHbzdKUzROQ2ZCOTlzd1RjMG1wNTZQaWFxX0ZyWTlOa0xNYWxk?oc=5>
+- **特朗普** | 特朗普将与北约秘书长吕特举行会谈 <https://news.google.com/rss/articles/CBMinAFBVV95cUxPY2JwNVV1ZkJhWWd0VGRRbU81aXA1MVZJWHoxLTFNcmtfYlFyTWJaQjJPVHFkS2gwOGRuNEVBblFrZlBmVnFwR2N5UGNPQldlY3J5VWFvV2hEQThaRDZxaDVpeXo4V0ItY0xldklxV0dhX2l4bk5IYzNUYVM0bWd6NkhDdnNzLThQMFB2eVlPRDlqSENqVG9TQTlHWUHSAZ8BQVVfeXFMTUt6RTF1NnQ3b0pnMkh5dm5VVGNmRXZzZHNiRkVrcjIwZzRISWgwMEdlVzRJSGlLUHBTampQTVJkYldFcjB4WEtnbXktQ3JkQ2xtMWNaZjE0TkJKV2I2SzFaT1NKNzdmYnZkUUlPQ0RFUHhmMmhEeFlrVnowcVpELXFLVTMtVEJTSDgyR1d1ajd6eWV1dU9NSVNOVU43bWN3?oc=5>
+- **特朗普** | 特朗普晒奥巴马访日鞠躬照 回击亲近中俄所遭批评 <https://news.google.com/rss/articles/CBMiV0FVX3lxTFBMbWs0bnZiYU91MTBNaHZ6b0VqeUFDUXBtWnF5YllFRzhFWEUwcmhSQURUbzNQVHpwWVhKMHZaOWhFZlFzWHctX25wZUdPZDRTMi1zcUU0aw?oc=5>
+- **特朗普** | 特朗普力促黄仁勋复职、万斯介入给出保证，英伟达董事会“周日提前告知白宫” <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TckRScHA1Ny1EdnZPcGx1Ym9BUjRDUThaeDdLNVktU3pwQWVvNnZiTDJubGlyMWxObFB5UXVKZEw1NS1BbldmT2YxMlVoR3p5ZjV3?oc=5>
+- **特朗普** | 民主党人：将“动用全部权力”调查黄仁勋、特朗普 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xaDNjTGM2ZFhwbkZlN2NZSE8ySm5wd1U3XzkwUnhxeDVRVTVFVHgzYnJQQVF6Tnh0Wi1zS3RINXd1MTR0NkR6Sk9aejk2Qnc4OHdKMzhoUGVPNFRpZXN1WEZmSG1CTlVN?oc=5>
+- **特朗普** | 黄仁勋复任英伟达CEO，特朗普承认介入董事会决策 <https://news.google.com/rss/articles/CBMiVEFVX3lxTFB6Mm1ocUxnMlhUNlUzMGhLUDZzcnphTEpMNXJUNW9kWllBTGdrZ01LM01hVkdtLWRoWlBuVTYxNmRGTzYtOTB6M01BWjN0UjJ3cjJUcg?oc=5>
+- **特朗普** | 黄仁勋重返英伟达后，特朗普引发政治风暴 <https://news.google.com/rss/articles/CBMiwwJBVV95cUxQbnN3eGFENU5nQ3BtV0Q2WDlsZFRUc0h1dHVRckplTFR3d044cTRTcXdobXY5U2VlUm9zQVIzTlJIcC1JNUhuTHpPelhOdXNlMGJHMTRGZ0d0bXoxQkFILWtybE5ZS19GWHZmRmZXMEJjbWoyeW0xSUhLOHFKdTdVbXJUZ2RwMXlzejFULUxZSVVYOWVKSVpiUXNnNnJmaHFIaERQeFFXS1YxWVhmbC1RUnlURk1zQjVvcXhxZ1VNdmlpbHVPaHFiSmxKdzlrZzIwRkN4SkE0NmVpTTg0MVB4cTZHMFBESHRGbjRKajdfOWNHaFZFc2hEZFVDUVNFSXBhUy1MdTJDWE1JRW9pdjJNelltRmtBMDhmQV9meU5WZzB6a0hyUjFVQ0dPSHM1ZEF3bWVoWWpWS0p1aklQOXFLekZaaw?oc=5>
+- **特朗普** | 黄仁勋重掌Nvidia：习近平从特朗普身上看到了什么？ <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SVG5XaURIbmE0QS1wWlp6YTl2QXl5TjhZc2ZLLU9ZV1JEcVVETlYzYVUta09uVVRJYmZQNGx3YmNrWXl3aTJaTjh1V0ZSRE5ZRDhsOVloNzE4RkRPeTJTbEQxVkpLeGvSAWxBVV95cUxQekRIVjNoU0pnUTg5U2ZQRHBuV0FldGI3NU9HRlZwMkE1SXdXeFpxYUV2UDlYZGxycldQalcwbU9rc3R1c1BfVGh2andKRWs5aFZWdlJmVGQzVHpBY0dVNmhyVGlJVlUzNVlfWHE?oc=5>
+- **Trump** | TRUMP价格展望：看跌势头占主导，下行风险依然高企 <https://news.google.com/rss/articles/CBMiowFBVV95cUxPUFNybG8zbjY3d3lteDZiV3MzZThRVHdCbXRFc1Ztam1XdE1LYmlzRXBVcXZaSnRIdjJDZ2hwcmtvYVZoV1F3V3NFdmRPQkNfdE56RXpMcVV2SGU0eFdOZlZEdUFrcEJhdzFmYURnakJKd29DUFo3UkhjVE01ZVhBNHZqZmN0MUNJc2RjNjMtVnR0UzM0UVlQT1hoTXBwNUlITFNz?oc=5>
+- **Trump** | 黄仁勋复职凸显特朗普不惜代价力保人工智能发展 <https://news.google.com/rss/articles/CBMidkFVX3lxTE5JYlgxRVdoNFVRX2VVdi1vYkVRWW56S194aC1tcXR0cm9jb2R0eXpPVEItSnRqYmgxQzV3bnFYZXh3ZVQySTg2WTUyWDEtVlpXemZVemhieEZBZUIyNzZNbnVwS1UxU2xQZ1g5X2ZBa2ViTGpKaFE?oc=5>
 
 ### 2026-11-24 11:18  (19 条)
 
