@@ -1,146 +1,179 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-11-23 13:25**
-- 本轮扫到 16359 条, 新增 **17** 条
+- 最近更新: **2026-11-24 01:05**
+- 本轮扫到 16377 条, 新增 **18** 条
 
 ---
 
-## 本轮新发现 (17 条)
+## 本轮新发现 (18 条)
 
-### 宝宝，你啥时候开演唱会
+### 王一博真的会横跨多台参加跨年演唱会吗？
 
 - 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7811057114_m1d19345da03301xiay.html>
+- 链接: <https://k.sina.com.cn/article_7879923379_1d5ae16b306801n8n5.html>
 
-### 11月25日，周杰伦三亚演唱会开启三次售票！
+### 特朗普称美国政府没有证据表明黄仁勋有不合法行为
 
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2724057417_a25dd14901901y8ga.html>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新华网
+- 时间: 2026-11-23 14:40
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE5iR1ktUXJ3UWlsQ21IcEJGeG9TaTljQ2M3S0ZHSDBmcWhDSkU4RW5jZzZQSDBqNzlhSkpFM1phTUpMMGFJQW82SkRYTVZVbjNILWotcHVzZDRldUxMV0h5Ry1fQjBaSzBOcVVHTl9uU1NtYnFmOUtsMXFHTDdUUXc?oc=5>
 
-### 三开！周杰伦三亚演唱会
+### 卡尼公开吐槽特朗普，美媒震惊
 
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://finance.sina.com.cn/jjxw/2026-11-23/doc-inizszek0646225.shtml>
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪军事
+- 时间: 2026-11-24 00:50
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE5OZUdTSlMxRnBGRnpDV2NKOFRHdWJZQnVpbnJBNUdfODBGNkxmSVNPR3dZSGh3c0JnbUQxWnI5YWxCdS1iVEUtVmI4RktOU3lNNmxoSldWVExGMUI2YmVvb09hSDlNcEN3SGh6NzM2bFpqNlU?oc=5>
 
-### 特朗普号航母黄了！民主党上位后，美国海军突然改口
+### 特朗普小儿子巴伦约会清空特朗普大厦整层
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 手机新浪网
-- 时间: 2026-11-23 12:56
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE1sM3FLb2xYX2dtYkNyZUY2NUtIZXJsX3V1N2g2ZmhxYkNJOW11d05vcXE3WERHSmo5bE16b2YyQjFLTDIyWWRZYmZtOXZWaDhFRnFib1pXNDJ4RDdiazFFdUtaUFkycmhUc1hUNmhacUVKdw?oc=5>
+- 时间: 2026-11-24 00:47
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFB5QkNTYmw3VlNseWhwVVY5bmZJVUZuU01Fc2EzNEtzSm44emUwWjA0bVByUUxEZjRGb3l2OWU3TlRhUUd2dUd4YWJDZWRsaTk3aXhIcTdOckxkUEM3RlN3aWpkb3k1RXBRR2loajhPM2ZrXzA?oc=5>
 
-### 特朗普再次呼吁英伟达重新聘用黄仁勋！ 提供者 Investing.com
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 英为财情 Investing.com
-- 时间: 2026-11-23 07:35
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE9zMDNkRlg2WkozX3R6czd6emJ5MkUtaEVRQ3AwRWtaNGczVG54Tnpic1pHdVhxUEVfTG9yX3lqNF94X1V0dmtRYjV3QXdOWnFmRkNVcjZ3OWR3THhjblJ5QUc3U0xuVFlmZ3o3Ul9MT1U?oc=5>
-
-### 特朗普称必须保护好黄仁勋这样的顶尖天才
+### 等到普京的亲口回信，1个月后特朗普做东，美俄可能会再见一面
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-11-23 11:00
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE85YXJaSDZUVGtkNFFvRlhVaEFxaTY2QjJkcy1ZOU5fNGxDR01PbFYyRGhEMmoyS1VVTkY1SjI1eE9SX0pXMEd2UHRNaWJDWFBfdjgtdERPdWFKak45UVEwSFUxLWM4R3RMTkZQNjdDV3BEY2s?oc=5>
+- 场馆: 风闻
+- 时间: 2026-11-23 00:08
+- 链接: <https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhVTlYdG5pUVVaUzJNS2FQUC1IUEFqekd4aHg0SkdXRmhhcWNreGpzOWF2RVRRU0pSNUNlaWpPa0pNQTF5ZGxRODlwZ2tiM19wcWhuNzVVYnRUQmM?oc=5>
 
-### 墙外文摘：北京替特朗普说“不支持台湾独立”，有多少媒体未经查证，就替北京把话说了下去
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: DW.com
-- 时间: 2026-11-23 01:35
-- 链接: <https://news.google.com/rss/articles/CBMirAJBVV95cUxNeTlsN1dhOUh2aWF6d2MyR0NUMmdMd0FlaGRHNG80VEt5c09VY296bmpoNng1UGRzYVJFbzhyOHpfUl9iVEsxVHl5bUhPOVRFR1B5RU53YzA4N0RvU2tFbDl1QXpsSjAzSmFIcVdqcFQtRG1vd2U1OUl4WlNSOGxRR0RqSjk0czEybVc3M3BzWlJ0OHlGNnpvWGY5QThOUExLb2hZWnRCalVBcHZCem9DNFYzbF9Fc1dLSVRiOFcxWEJVNjAtd0c3RUhTMXJkdGtfQ1daamFDNURXTGUyT01peG1LTG5Kam9VRk0yWWhmQUNZTnVqSDhVcVJkOXozYUp2VGpBMGZvQkxBS1MwRVJyaUdhUElPV21YT056V3NwZlUtN3FDMnpBQV9jbVPSAawCQVVfeXFMTUxSMGZFWFhObzU5TURtUlpMYkpPblhJMWpncVpsbkhyc05JZUlwTzVuaEtmclhCWHdKU2UwUm1Yd0dkekZfTy1Pck1uSnRLYWEyRXNTNktUVVBXN1NucnM3aFgyZEdQUlFwUElsRjQ5LVVwelF0UXZkQnhkb1NtZUtWbUNVQU96ZkZ5VUhQTzQ3M0lIYWQwR1dLZ1hnOGVua3hiblRjUVZNaFkxbThlNnNpOUJnZ2l6XzR2c2VJSW9tWnpsS3lKUmhSVmlRcU0zLXdsemM3cVFvdENYakQyYi0xYlozVi1ZZTFPU0NnMzBiTUd2dFRRZ0N3QmpDSFhZRUZReG5fZnRBSDRXaVJuanFXRXhiQkNNRjVwOGtGLTN2U1l4T1ktdUNUd19B?oc=5>
-
-### 特朗普称普京为“朋友” 美国国家情报总监出面辩护
+### 特朗普：伊朗导弹和无人机攻击有所增加
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: DW.com
-- 时间: 2026-11-23 09:53
-- 链接: <https://news.google.com/rss/articles/CBMi9gJBVV95cUxPTl9jd1UwdXBwSE1KYjBZeUpWSmpqRVNjNjVMcGN2VGpGN0QtTDQwajgzNzgtR3UyVTlsb2hRaEV6Z25teGViaDRDdlFrVGtacnE5anNBOEhYTEhHVld4Vl9KX0pZb1lMRHRJUzM2ZUNBaUptc01oQndaTTZUNVJOc21YUmIwVmdIMVZqU3VuYWptaGhMdmthTzVHMnNTbWphRno5NjJHRVBsX1VCRkJfclVJenp6T2hwRVdDdEFKWFdJZEZlaTlGUHd2bGFjd0NlOGdpODRGM0ZyenhsYm1LVzU2Ump6SFVNMndESTBaRko3eTY3bFFUVmJBZWpHdzFfd2lnVWFUaE1IeXh5VExDRDJveWhud2RMbjEtSnF2WmtmemdtZFczVnRfc1hpNUJrUW5sWnpoNGEyYnRTdWtnM2dfTjEzdm12N3hMVDRLUEZVekNsNkRXdEdaQlR4NVpjSkctQXZ3VWt3dTRZOE9FRzJnTTJaUdIB9gJBVV95cUxOelFnQUxmSEw0VFB2cDR3UERvOTVFeVpIN0ZLdDlrWXZtYnVJUVJDci1PMnpYcHhKRUpmVEswcEQzcTk5YmxHVUo2UjVhNVQ4WktyREcwOHJnR2JyOGtPSEdyblNJdFQ2Tjcyc3VlR3JGZVQzaDNud3pYc3RIU1dZS0hwVms1V2Zab2dLYWxLWmRpcDhpNUlqYVozS3JocFctVFdiX1B4OWREZU1iMm1XUDhGUzJLQW5pckVBQ1FpOXR6T2hRdTZORWJrMGx0U3dJUjdWQjBteVlFZWRVREItRzN2Q1FzUDdFOUJrbDZrQ3R2UUZ2TlI1YTRuakdEb0VobWtweVA5YmV2WWdKdUZXX0dIYkVMNGJNUTRUaHRaTWlicW9XRUw4Q2hWakNvS28yUWxFOWFSUzRWcEozaUdKY0pJRnFId3BIZ095QlZVSEdCUkdrdl9jaHRiTHI3ay1mLVh6aTVRd0RXXzNQU2h3WGtWNmljUQ?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-11-23 22:35
+- 链接: <https://news.google.com/rss/articles/CBMipwFBVV95cUxPSFZRS1d6b09NWl9GakxlaFVUSm1MMFFLWXlSaDI4ZjUxQmp1M1k2LThHRUVITTN4US1BbXZuQzEyUzRHRHhmbGdQZmszMmpqbHNFX3dGeU9MaW1QSE9tTHJVN0lhZ3ZEMXhVOGtzS3FSQXRCam5XOUFyUU4yRjhudkpobE5oVDlvVVdPYTRuTHhRMWhvNWRiX1Z3dVJ5b2haeGxGQnJaZ9IBqgFBVV95cUxQVHpKVUNjWUVGMTdIN1gyNEtFX0ZWemJTOU4tVW9OeUdyaV8zQXRIUzlVa3lucy1zQW5BREhYS05RVFltaVY5QkNVMF92blQzajVhM1MzeXE0T2M1ZkZGWFFINDZQdFJFOUhqZUZaZnRRdlFzM0EtZ0dlRkFxNnA5SGNjODd3WWQ4amdKWEJndmFaTXJfR0ZrQ1lPSXZVRWFEa2M5am01VHJ6QQ?oc=5>
 
-### 金正恩打破外交惯例 亲自接受各国大使国书 此前未赴特朗普会面邀约
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: DW.com
-- 时间: 2026-11-23 11:29
-- 链接: <https://news.google.com/rss/articles/CBMi0gJBVV95cUxQNkhBVlV4NWdJeDJBc21hQ19VaDBpYlY0anRsQXFsTm41RTRMYlQweXljVDBIRTlkVWhRckd5SmhKako4RThSUWI4RlYyVGJZMEU1SnpTcjdsamlndUpxNnZNWEdzM2pKZjUxUk1mOWNtSW9iaHVVWnlvVVNVWTFqcXMwNjl0bmdCT2x5b2pUYzM2U3M2X2xoZTlWOXVlUGFKM3drT1ZEYWRrN09vU3pvMlk5NFc1b0RuSEQ3NktlamlGVmkxSTl4WFQ5elJ4dTFJamM1TTBBeXROY1dleDVxY0NaR3lFalBxSDBraTRYaXpiTmhrbmY4VWlBZDN6N1VWaHoyRnZXdGZ5cGluV0MtZnBTaVRzTzlHdnhEWFVac1Z4NDJJR0NaLU9WemNiT2NDQWE3TWJUVm53VFRKVFBFalBlYVJPLUpyMTltS3dsNlQ1QdIB0gJBVV95cUxPVkdaZExvX0puWHZvSFJMM1BIeFkySDVEbk8yTm9laWdxZ1lNRXByVFNZckhPX01FZHZHZzZObmZqNXFpc0Q5eXFCRmZjdkp4OXVWTS1OYmlmLURGMjhzYVE1RHR1TXVkS0NLajZjTDZJaXRwcWl6U1JRMXZLQTczT3E1bzcyaGpZYmlicktRM0dpc0xCbTdtVXhCVkJXXy1mUl9HbEd1MlNiUjMwNVR5WTVxZFdPSk5sMlJOWlJBdmtKeVQ5WjdOb0gxNXpIR3ZCYXduQ29JQWdjR3pvZFFJQ3hCajlFdlJxX3Zwbng4ckY3RUplNy1ITE9SUU1kaWFzZjJyeVVabmtielUxTU1EZ2xPU1VsSGRpeGlBQ2FCVVFEZFlnT3MwLTRsbjNNRGZxX3BvMmhrb3BUY2NWRHdTVllaTWhjVTFxOE5weW8wUjBvUQ?oc=5>
-
-### 特朗普称美国只想向中国出售较旧的芯片，并称其政府正就此与中方进行讨论，外交部：关于美国的出口管制措施，中方已表明立场
+### 特朗普称只想向中国出售相对落后的芯片 外交部回应
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: ThePaper.cn
-- 时间: 2026-11-23 07:35
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fT2E1OEhWRF8tcUZTSzFhMlZuSnlaMWtJTkhtbUwyeDJ3VFoySk9DanFJeWZKTEI0OU5RYWkzbG5BNExESlQwS2wtdzdQajdZdmJNNXZBMmQ5YWxxOC00Wg?oc=5>
+- 场馆: 东方财富网
+- 时间: 2026-11-23 17:03
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CdXIxQU9wWTByMXRMSktlX2RfWm0weWVCYlU3NDVGOW5vZnJqZmFNVXBSYnlNNXJWMHFuVUJZQnZXQTVNTTlTbF9JS2gzQVpidzlHUnZrSnJyY09FWUhjcGNSRC1rQQ?oc=5>
 
-### 6万亿美元市值灰飞烟灭！特朗普发声：美股下跌100%怪民主党
+### 美国总统特朗普：目前不担心人工智能泡沫。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 手机新浪网
-- 时间: 2026-11-23 10:24
-- 链接: <https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZQlJhTHNmVDFwUGpFeXk0MGN4Q1NXR1NoQkxVTG12T1RTNlQzYmpib09UWjVGdU1rZWMteTM1TEY2VURnWjRVdzdUdHNJcEZuVFMwRkU2RXdLODJaU2Q2bUpBQTdsdXNMZDFzMkNROXVYMjhW?oc=5>
+- 时间: 2026-11-23 15:50
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5kd2h0d3ZuMnZKSmZoRnRqeGFmeS1nWkx5eV8wc25YQ1ZsalAwa3hFTDZYU0dMMzFJbjF0S3JURUcxTWwxOVBYMXYyOA?oc=5>
 
-### 特朗普将美股蒸发6万亿美元归咎于民主党！贝森特却称抛售由多重因素推动
+### 美股蒸发6万亿美元，特朗普：100%怪民主党
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-11-22 23:24
-- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxPelZjWDBpLS1ySU43S2dCUDcxOTVWYXVzVWt2WGRVY3JrcU91Y3dKR1M0SXJTcklTcFJFOGJtTm9VaHhGelFXNEF3UUpxWmY5WGE1UlJKSkwtN3VXMTg3cHFITlB6bVpGVUVPel8wNU9jSnFad0NoRm1HRDlMcnZqM0dWeWxNNUpVa3NFLXBsSQ?oc=5>
+- 场馆: 观察者网
+- 时间: 2026-11-23 12:13
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFBEekVXRUdXa2pOeEJNaGJxM1dGOWF5Y0NoZHNHaEtOMlNMWkpXaGpQQjdBVFZDR3VfUlZJWlhTOWxralVuS24xNEpGUWVUWXQ4YkdYNDlpb1pmc25YT1dsb2VqVDRBNG1vQzAxemZaSHZFRnM?oc=5>
 
-### TRUMP币晚宴众生相：有人对冲「白嫖」晚宴，有人租晚礼服出席，参与门槛暴跌至518美元
+### 美以伊局势：特朗普威胁美伊若未达成协议，新年后再打伊朗；以总理称伊朗威胁迫在眉睫；伊最高领袖新动态；3艘油轮霍尔木兹海峡发生爆炸
 
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: BlockBeats
-- 时间: 2026-11-23 09:58
-- 链接: <https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUY2RiYWlIZVBLWnpzSUNzUVVwNS10bHFWN1hPbTU2akhwSVZUZ1NLZi1WRGJKb20tdjZNQnJMd0FrSVQ2NnRHaU1aN2JJNGJndEdoYVhn?oc=5>
-
-### 当初每枚价值约75美元，如今每枚不值1美元。特朗普“迷因币晚宴”规模与价值双双暴跌；家族变现数亿美元引利益冲突争议
-
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: Sohu
-- 时间: 2026-11-23 12:26
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxPSS1xTEE0NEtxcTBMUmpMUXRSSGEwQ2xyR2x3OWdHeFEzYkxLeHUtWTU1MW5IZTd4Ry1sOEpxcDFGUVZOSWdtN0Q4TTJwWEFiOXZCTmQ5ajF6enJ4MHcwdEpBUUlvakN0ZXJHVXNIaS1VaVVvZGlwTDlqcTc0clNId0dtU0NlUTZyMXpaNA?oc=5>
+- 时间: 2026-11-23 23:50
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxPR0oxcEEtVHVkdTg2NW54V2VPelRKaEEzWlFDZzEtcmRJLUQ4TmFaVWJWRmhlTzZ1LXZKZ1otRzk4Z1lHZXBjVG9xemM5MjdJN0k0a2xlbWhBZDRCRklUTTFkXzM2NEpiUEFacnRIMVdJR3BpSEV6Zml0VVFMaWxaSjhNaGpTcTRmTk1xVw?oc=5>
 
-### 特朗普款待TRUMP币投资者，因TRUMP币价格跌破1美元
+### 称亲自游说英伟达董事会促黄仁勋复职 特朗普：失去他才是威胁
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: IDNFinancials
-- 时间: 2026-11-23 10:20
-- 链接: <https://news.google.com/rss/articles/CBMisgJBVV95cUxQOWxnU3RjUnY2VEZvdnVtN3llenFic3ZYQXk1cjBPODdUdHZJT09KN1BkNHhCZVY0R1dhcHZGdF9Za2xkRXU4VWI3SlRkVUozd3YxeDBWR0VmcktMd1ZyRzFRNmNuRlNTWTczN0p2NzJzY3VRekhvajlyQkpyQUR0c3A5Yzc4LUlwZ3FOTU0yZzhvbnQ5NzBPUDh4VUtrbDBMaFZBUHBoaWdicEtqaDZ0Vlh0QzkwdGhOc214VFJieGVhNzl6YTRSNFpWc3FFRGRseTZSU0pvNUhlZlcxaUZwbUhHU1pKa1BTSTJ6NGhiLWJiQWdlQUh6T1pmY2o0Q1htbjVId0doelUtV3l0UWFEQ05JSU1PNXR5WDdyelJ5bGx6UEVGRGJBY3VUeXJtam9HaEE?oc=5>
+- 场馆: 8world
+- 时间: 2026-11-23 15:40
+- 链接: <https://news.google.com/rss/articles/CBMipwFBVV95cUxPTVRVYU9fWDFLUGJHcjROcHgyc1pqN2ZQM0gyY2xRbm41ZHp3cXU3UnZKQk9QMDVqWVM0ZUhOSS1qTFg0TXcyTTJScC0zUmZwWFk1eG1xcF9YN1ZnSDRsNk9SZC1iV2tNVFViR2llNWVKM2xSSWkwbWtEa210ZVN6UTctaWtYYXkxZDhuclk4NHNaRW1LYzdhOEZXSnBPT3lxb2N0Y3BZWQ?oc=5>
 
-### 特朗普第三场 TRUMP 持有者晚宴举行，入场成本降至近乎为零
+### 川普警告：美国企业海外建数据中心将遭重罚
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 文学城
+- 时间: 2026-11-22 16:01
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hQS1mOFlSZWgxZXRrbVhfdllFSWpfZTIydWo2VFE3Q0xBejk2NW1DUGRaTDhOVEtXX0JlUG8yYU1nXzVSdzBMSFIzdzZ6bnF0Uk1VX3FPbFJkOEFhZU5UUFpCYVdxU1VQ?oc=5>
+
+### 力挺黄仁勋复职 特朗普：美国需要他的领导
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 8world
+- 时间: 2026-11-23 14:34
+- 链接: <https://news.google.com/rss/articles/CBMigAFBVV95cUxNSGtGQzBob0J5c3NrMVBqeTJ2bzVzeWxOT05MemFtSmVWbm1VSGxvODdYVFRFamVUN28yUmZnNEFvbUhOUF8zUktVaWwyODZHRXZlZG1EbVR4WDJXa3IzN0dXQzJOdVBxcTk5N25VanFLNGtfZHFiMEVxYnVxNldESg?oc=5>
+
+### 特朗普TRUMP币晚宴入场门槛大降，518美元即可获邀
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: TradingView
-- 时间: 2026-11-22 14:41
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE02eFRPZGVsMXBhcE1fQjdzVWN5eE5EYWdxOFNXOTZxakNoYkNRVkkzTGNOZ0RfNTNtWGtXVm5aam15THJtd1MwSHp3bi1nQkhJLXNxSF8yNk9pQmdnQjhxYXhTY2VCZw?oc=5>
+- 时间: 2026-11-23 06:37
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WNFh0QjVuRllyc1poMm1aU0U4TUg0QUhobFNZMjJ5Rm53b2RpekMtSC1DQkJjUWtqRy0yNWZZS1lYeVRiVkJfUVFUU2lpbmozaEdCcll5OXE5Rk1OX2gwR0JQaHl4UQ?oc=5>
 
-### 特朗普出席TRUMP币晚宴，笑称「币都快归零了你们还来真的疯狂」，Justin Sun并未出席
+### Trump reinstates Jensen Huang; More measures to stabilize PRC stock market; October fiscal surplus
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: BlockBeats
-- 时间: 2026-11-23 09:15
-- 链接: <https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aMGw5ckhqeGhTcHVBMFEtV3RNcmRLcEtnQllyY0luckVTMHlmcm9LWkJEdnhaRGxzeDZWUlJWZ2pUNmczZ1h0VUstU1d2UFJ1eVBLTGVB?oc=5>
+- 场馆: Sinocism | Bill Bishop
+- 时间: 2026-11-23 22:52
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5mUjdFajdMelEyYndUemdTOFlVZU9YdWxMdnhBRGlnQ0Job1FuYy1mUHVZeFlYZ3pCZW5qbFlPMmVwUEVDdVFBSEVwSDZhRk9ZRjNZRXVVVTJPaFBFWkxna0NWZXZMUWE2?oc=5>
+
+### 要闻分析 - 黄仁勋速返英伟达的内幕和负面反响
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-11-23 20:33
+- 链接: <https://news.google.com/rss/articles/CBMi6AJBVV95cUxPTVl2SDJWWTdDOEp0NjB3bnViSDFLd2tUYnF5UHl3dUxWME0xSGdGMG10aHNMNUt1cW5MUnZqVVNsaEhnWi1Ga0tNVFFlV3V1aUoyUmgyRjlDeUdoUGYwSDUxSDRHWlEteDQ2ejB4Rzh0bzhqRDlkbnFxOFRVRENfN1lFYVRhc2F5NnRXMkJlTzAyY2FDMzVTYzVSX2dMRVZhczNIWk9jUWw0blRPQUtFeTdBandPanFPZER5UEZKSnc1aTQtWGhRUzF0V2hWR1FmYTh2Ri1tbVVCcE1DdUdmSnVBd3BLZ1JnS2tNYmVQSUY2TVFBV3ktYk1xNTdITGZhRl9SenlpQ0tQMFVzOHNNLXdhNGt6ZkVxVGwzM3Q4b1YyZWxrNU5DOFd5bXFnQ2xqTFM3VXFIWXZpN19XaWJxaGd6LWhlWXhFVENoUEI3QTFKYVJVVGNNdnBFdk8tS2pVSXhpRzdjWWo?oc=5>
+
+### Trump 干预，黄仁勋复位- 博客
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 文学城
+- 时间: 2026-11-23 22:01
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoTV9PeG1tNEZjd1NQMFVjbGFYSG5YMmJXamgtTTYxRmplbDlIUWN6bnN5RjFxaFVJazlaZ0plRVJfMTJUdW5HWXJKWTM5dUZKRERyR2JCMXJ2YnFkSVhza1N3Rm4zUGRf?oc=5>
+
+### 贝森特指美中就AI军事决策达成“人类参与”共识，科技领袖呼吁勿将社会移交AI
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-11-23 21:23
+- 链接: <https://news.google.com/rss/articles/CBMitgFBVV95cUxPd0lQRDJZWVRHMEh2a1dpV0oxOTB0MkdkcjBacndOQi1uWXZpTjd6MkFwZ01DcWRvaW1aSy1hcGdzN3FndXU4d1VITVlnWHUtU3VMakRkOTBPQVgybUpvWUc4Z0dJMW1MR1VHeU54ZkQ3Y01ZYldHX0N3RWMtdFFtUjB1RXE2WXdtUXV6MGI1ZF9xbERkd0dCZVdXanl3alNEeXFsZzZUN2Z2MW80Mk1VeElta0JRZw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-11-24 01:05  (18 条)
+
+- **王一博** | 王一博真的会横跨多台参加跨年演唱会吗？ <https://k.sina.com.cn/article_7879923379_1d5ae16b306801n8n5.html>
+- **特朗普** | 特朗普称美国政府没有证据表明黄仁勋有不合法行为 <https://news.google.com/rss/articles/CBMif0FVX3lxTE5iR1ktUXJ3UWlsQ21IcEJGeG9TaTljQ2M3S0ZHSDBmcWhDSkU4RW5jZzZQSDBqNzlhSkpFM1phTUpMMGFJQW82SkRYTVZVbjNILWotcHVzZDRldUxMV0h5Ry1fQjBaSzBOcVVHTl9uU1NtYnFmOUtsMXFHTDdUUXc?oc=5>
+- **特朗普** | 卡尼公开吐槽特朗普，美媒震惊 <https://news.google.com/rss/articles/CBMic0FVX3lxTE5OZUdTSlMxRnBGRnpDV2NKOFRHdWJZQnVpbnJBNUdfODBGNkxmSVNPR3dZSGh3c0JnbUQxWnI5YWxCdS1iVEUtVmI4RktOU3lNNmxoSldWVExGMUI2YmVvb09hSDlNcEN3SGh6NzM2bFpqNlU?oc=5>
+- **特朗普** | 特朗普小儿子巴伦约会清空特朗普大厦整层 <https://news.google.com/rss/articles/CBMic0FVX3lxTFB5QkNTYmw3VlNseWhwVVY5bmZJVUZuU01Fc2EzNEtzSm44emUwWjA0bVByUUxEZjRGb3l2OWU3TlRhUUd2dUd4YWJDZWRsaTk3aXhIcTdOckxkUEM3RlN3aWpkb3k1RXBRR2loajhPM2ZrXzA?oc=5>
+- **特朗普** | 等到普京的亲口回信，1个月后特朗普做东，美俄可能会再见一面 <https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhVTlYdG5pUVVaUzJNS2FQUC1IUEFqekd4aHg0SkdXRmhhcWNreGpzOWF2RVRRU0pSNUNlaWpPa0pNQTF5ZGxRODlwZ2tiM19wcWhuNzVVYnRUQmM?oc=5>
+- **特朗普** | 特朗普：伊朗导弹和无人机攻击有所增加 <https://news.google.com/rss/articles/CBMipwFBVV95cUxPSFZRS1d6b09NWl9GakxlaFVUSm1MMFFLWXlSaDI4ZjUxQmp1M1k2LThHRUVITTN4US1BbXZuQzEyUzRHRHhmbGdQZmszMmpqbHNFX3dGeU9MaW1QSE9tTHJVN0lhZ3ZEMXhVOGtzS3FSQXRCam5XOUFyUU4yRjhudkpobE5oVDlvVVdPYTRuTHhRMWhvNWRiX1Z3dVJ5b2haeGxGQnJaZ9IBqgFBVV95cUxQVHpKVUNjWUVGMTdIN1gyNEtFX0ZWemJTOU4tVW9OeUdyaV8zQXRIUzlVa3lucy1zQW5BREhYS05RVFltaVY5QkNVMF92blQzajVhM1MzeXE0T2M1ZkZGWFFINDZQdFJFOUhqZUZaZnRRdlFzM0EtZ0dlRkFxNnA5SGNjODd3WWQ4amdKWEJndmFaTXJfR0ZrQ1lPSXZVRWFEa2M5am01VHJ6QQ?oc=5>
+- **特朗普** | 特朗普称只想向中国出售相对落后的芯片 外交部回应 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CdXIxQU9wWTByMXRMSktlX2RfWm0weWVCYlU3NDVGOW5vZnJqZmFNVXBSYnlNNXJWMHFuVUJZQnZXQTVNTTlTbF9JS2gzQVpidzlHUnZrSnJyY09FWUhjcGNSRC1rQQ?oc=5>
+- **特朗普** | 美国总统特朗普：目前不担心人工智能泡沫。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTE5kd2h0d3ZuMnZKSmZoRnRqeGFmeS1nWkx5eV8wc25YQ1ZsalAwa3hFTDZYU0dMMzFJbjF0S3JURUcxTWwxOVBYMXYyOA?oc=5>
+- **特朗普** | 美股蒸发6万亿美元，特朗普：100%怪民主党 <https://news.google.com/rss/articles/CBMic0FVX3lxTFBEekVXRUdXa2pOeEJNaGJxM1dGOWF5Y0NoZHNHaEtOMlNMWkpXaGpQQjdBVFZDR3VfUlZJWlhTOWxralVuS24xNEpGUWVUWXQ4YkdYNDlpb1pmc25YT1dsb2VqVDRBNG1vQzAxemZaSHZFRnM?oc=5>
+- **特朗普** | 美以伊局势：特朗普威胁美伊若未达成协议，新年后再打伊朗；以总理称伊朗威胁迫在眉睫；伊最高领袖新动态；3艘油轮霍尔木兹海峡发生爆炸 <https://news.google.com/rss/articles/CBMijAFBVV95cUxPR0oxcEEtVHVkdTg2NW54V2VPelRKaEEzWlFDZzEtcmRJLUQ4TmFaVWJWRmhlTzZ1LXZKZ1otRzk4Z1lHZXBjVG9xemM5MjdJN0k0a2xlbWhBZDRCRklUTTFkXzM2NEpiUEFacnRIMVdJR3BpSEV6Zml0VVFMaWxaSjhNaGpTcTRmTk1xVw?oc=5>
+- **Trump** | 称亲自游说英伟达董事会促黄仁勋复职 特朗普：失去他才是威胁 <https://news.google.com/rss/articles/CBMipwFBVV95cUxPTVRVYU9fWDFLUGJHcjROcHgyc1pqN2ZQM0gyY2xRbm41ZHp3cXU3UnZKQk9QMDVqWVM0ZUhOSS1qTFg0TXcyTTJScC0zUmZwWFk1eG1xcF9YN1ZnSDRsNk9SZC1iV2tNVFViR2llNWVKM2xSSWkwbWtEa210ZVN6UTctaWtYYXkxZDhuclk4NHNaRW1LYzdhOEZXSnBPT3lxb2N0Y3BZWQ?oc=5>
+- **Trump** | 川普警告：美国企业海外建数据中心将遭重罚 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hQS1mOFlSZWgxZXRrbVhfdllFSWpfZTIydWo2VFE3Q0xBejk2NW1DUGRaTDhOVEtXX0JlUG8yYU1nXzVSdzBMSFIzdzZ6bnF0Uk1VX3FPbFJkOEFhZU5UUFpCYVdxU1VQ?oc=5>
+- **Trump** | 力挺黄仁勋复职 特朗普：美国需要他的领导 <https://news.google.com/rss/articles/CBMigAFBVV95cUxNSGtGQzBob0J5c3NrMVBqeTJ2bzVzeWxOT05MemFtSmVWbm1VSGxvODdYVFRFamVUN28yUmZnNEFvbUhOUF8zUktVaWwyODZHRXZlZG1EbVR4WDJXa3IzN0dXQzJOdVBxcTk5N25VanFLNGtfZHFiMEVxYnVxNldESg?oc=5>
+- **Trump** | 特朗普TRUMP币晚宴入场门槛大降，518美元即可获邀 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WNFh0QjVuRllyc1poMm1aU0U4TUg0QUhobFNZMjJ5Rm53b2RpekMtSC1DQkJjUWtqRy0yNWZZS1lYeVRiVkJfUVFUU2lpbmozaEdCcll5OXE5Rk1OX2gwR0JQaHl4UQ?oc=5>
+- **Trump** | Trump reinstates Jensen Huang; More measures to stabilize PRC stock market; October fiscal surplus <https://news.google.com/rss/articles/CBMiaEFVX3lxTE5mUjdFajdMelEyYndUemdTOFlVZU9YdWxMdnhBRGlnQ0Job1FuYy1mUHVZeFlYZ3pCZW5qbFlPMmVwUEVDdVFBSEVwSDZhRk9ZRjNZRXVVVTJPaFBFWkxna0NWZXZMUWE2?oc=5>
+- **Trump** | 要闻分析 - 黄仁勋速返英伟达的内幕和负面反响 <https://news.google.com/rss/articles/CBMi6AJBVV95cUxPTVl2SDJWWTdDOEp0NjB3bnViSDFLd2tUYnF5UHl3dUxWME0xSGdGMG10aHNMNUt1cW5MUnZqVVNsaEhnWi1Ga0tNVFFlV3V1aUoyUmgyRjlDeUdoUGYwSDUxSDRHWlEteDQ2ejB4Rzh0bzhqRDlkbnFxOFRVRENfN1lFYVRhc2F5NnRXMkJlTzAyY2FDMzVTYzVSX2dMRVZhczNIWk9jUWw0blRPQUtFeTdBandPanFPZER5UEZKSnc1aTQtWGhRUzF0V2hWR1FmYTh2Ri1tbVVCcE1DdUdmSnVBd3BLZ1JnS2tNYmVQSUY2TVFBV3ktYk1xNTdITGZhRl9SenlpQ0tQMFVzOHNNLXdhNGt6ZkVxVGwzM3Q4b1YyZWxrNU5DOFd5bXFnQ2xqTFM3VXFIWXZpN19XaWJxaGd6LWhlWXhFVENoUEI3QTFKYVJVVGNNdnBFdk8tS2pVSXhpRzdjWWo?oc=5>
+- **Trump** | Trump 干预，黄仁勋复位- 博客 <https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoTV9PeG1tNEZjd1NQMFVjbGFYSG5YMmJXamgtTTYxRmplbDlIUWN6bnN5RjFxaFVJazlaZ0plRVJfMTJUdW5HWXJKWTM5dUZKRERyR2JCMXJ2YnFkSVhza1N3Rm4zUGRf?oc=5>
+- **Trump** | 贝森特指美中就AI军事决策达成“人类参与”共识，科技领袖呼吁勿将社会移交AI <https://news.google.com/rss/articles/CBMitgFBVV95cUxPd0lQRDJZWVRHMEh2a1dpV0oxOTB0MkdkcjBacndOQi1uWXZpTjd6MkFwZ01DcWRvaW1aSy1hcGdzN3FndXU4d1VITVlnWHUtU3VMakRkOTBPQVgybUpvWUc4Z0dJMW1MR1VHeU54ZkQ3Y01ZYldHX0N3RWMtdFFtUjB1RXE2WXdtUXV6MGI1ZF9xbERkd0dCZVdXanl3alNEeXFsZzZUN2Z2MW80Mk1VeElta0JRZw?oc=5>
 
 ### 2026-11-23 13:25  (17 条)
 
