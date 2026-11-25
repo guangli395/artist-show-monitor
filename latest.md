@@ -1,110 +1,108 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-11-24 21:25**
-- 本轮扫到 16408 条, 新增 **12** 条
+- 最近更新: **2026-11-25 04:26**
+- 本轮扫到 16419 条, 新增 **11** 条
 
 ---
 
-## 本轮新发现 (12 条)
+## 本轮新发现 (11 条)
 
-### 王一博暂不接戏转开演唱会，文吉儿戴几十顶帽子录节目
+### 王一博代言汽水音乐，演唱巴黎奥运资格赛主题曲
 
 - 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7811157903_m1d194cf8f03301u5dj.html>
+- 链接: <https://k.sina.com.cn/article_7880068727_m1d5b04e77033057ftv.html>
 
-### 总统唐纳德·J·特朗普访问中国深圳- 美国驻华大使馆和领事馆
+### 王一博演唱亚冬会主题曲点亮亚洲
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: U.S. Embassy & Consulates in China
-- 时间: 2026-11-24 03:03
-- 链接: <https://news.google.com/rss/articles/CBMikAFBVV95cUxPSzhGY3pEUzFMRERFNUxJczZBN2VWQ0JjSFVOdS1paEd3bkVoTGJkQ0xtdFJON1BORzVySzdBbTFRUUJSV3cxdU5fVjJJYlNNZEJ0UGxTMzFPdXZpb01yNERISUQyelFDYnBIc2swV05fNVBxV0VMd0dnRHNSQnAyRzRsRmw0NENNZzNqSkhneE8?oc=5>
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923704_m1d5ae17f8033022agh.html>
 
-### 特朗普、普京与习近平进行三方对话
+### 还不如说王一博明年开演唱会呢，非官宣不约啊，少画饼
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: VOA - Voice of America English News
-- 时间: 2026-11-24 18:26
-- 链接: <https://news.google.com/rss/articles/CBMitgFBVV95cUxNQnk2UTZHRXJyZnl4SE5jcnhQSDRDZUxEMXlhNGdlQlhDc2liZEl6aXRRUG1KaXJwMXB6cldRTFhJSmdxcDViMl9BZTF1S0tUNjg5YmFQR1k2bHF0b2ttMG1oOFhlOE9Tcm54Y25SNGowal9jemNPcUNhOGhBbDQzb1h0aHBRcXZ5Y2RqM1d3NkpNYUN2eHNnSGFQQUtiYUN0MkR4b096d0U0dldWMWs1VV9fMFFGUdIBuAFBVV95cUxQNW5IWmNTc1pqUWs2cEV5TlY2SFRwZUtvNlB5TGVlUnZ5Z0M3VFFja3Q4aXVGYmVpSG83Nm1hb3JJdERHZG84UkFLNHZ1aDAwc3E1TmJ5R1NHbTJRZW5QTmkwY2pWcElzWFpXUXN1eE55QXJHbjBpX1JreDJqY1NPc28tdWFwbzA3SE9kTnlkLXFkaXdHbzdKUzROQ2ZCOTlzd1RjMG1wNTZQaWFxX0ZyWTlOa0xNYWxk?oc=5>
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_6100411626_m16b9ce4ea03301fbog.html>
 
-### 特朗普将与北约秘书长吕特举行会谈
+### 周杰伦悉尼演唱会有哪些特别的点歌环节？
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-11-24 19:27
-- 链接: <https://news.google.com/rss/articles/CBMinAFBVV95cUxPY2JwNVV1ZkJhWWd0VGRRbU81aXA1MVZJWHoxLTFNcmtfYlFyTWJaQjJPVHFkS2gwOGRuNEVBblFrZlBmVnFwR2N5UGNPQldlY3J5VWFvV2hEQThaRDZxaDVpeXo4V0ItY0xldklxV0dhX2l4bk5IYzNUYVM0bWd6NkhDdnNzLThQMFB2eVlPRDlqSENqVG9TQTlHWUHSAZ8BQVVfeXFMTUt6RTF1NnQ3b0pnMkh5dm5VVGNmRXZzZHNiRkVrcjIwZzRISWgwMEdlVzRJSGlLUHBTampQTVJkYldFcjB4WEtnbXktQ3JkQ2xtMWNaZjE0TkJKV2I2SzFaT1NKNzdmYnZkUUlPQ0RFUHhmMmhEeFlrVnowcVpELXFLVTMtVEJTSDgyR1d1ajd6eWV1dU9NSVNOVU43bWN3?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd86406801amnd.html>
 
-### 特朗普晒奥巴马访日鞠躬照 回击亲近中俄所遭批评
+### 早期综艺我没养马，周杰伦小S演绎双刀MV，大S笑到扶墙
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 共同网
-- 时间: 2026-11-24 06:00
-- 链接: <https://news.google.com/rss/articles/CBMiV0FVX3lxTFBMbWs0bnZiYU91MTBNaHZ6b0VqeUFDUXBtWnF5YllFRzhFWEUwcmhSQURUbzNQVHpwWVhKMHZaOWhFZlFzWHctX25wZUdPZDRTMi1zcUU0aw?oc=5>
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923704_m1d5ae17f8033022ah5.html>
 
-### 特朗普力促黄仁勋复职、万斯介入给出保证，英伟达董事会“周日提前告知白宫”
+### 特朗普：在深圳吃到了很棒的中国菜，但不知道叫什么，只记得很好吃
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-11-24 00:12
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TckRScHA1Ny1EdnZPcGx1Ym9BUjRDUThaeDdLNVktU3pwQWVvNnZiTDJubGlyMWxObFB5UXVKZEw1NS1BbldmT2YxMlVoR3p5ZjV3?oc=5>
+- 场馆: 观察者网
+- 时间: 2026-11-25 01:03
+- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1WekhYM1Y5eEw0ZjVKRE0tbEhUbGpaWDlfRFhzdnpxTklYSHN3VUhLcjZpcGVsQ1duSDUyRUZFNUpfRndQVEFzcndFOVhwOUMxcWlZUWFXWGhpYk0zdEd4c0JnOTN1R3RWTEV1YWhIU3hPcjA?oc=5>
 
-### 民主党人：将“动用全部权力”调查黄仁勋、特朗普
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中国新闻网
-- 时间: 2026-11-24 04:27
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xaDNjTGM2ZFhwbkZlN2NZSE8ySm5wd1U3XzkwUnhxeDVRVTVFVHgzYnJQQVF6Tnh0Wi1zS3RINXd1MTR0NkR6Sk9aejk2Qnc4OHdKMzhoUGVPNFRpZXN1WEZmSG1CTlVN?oc=5>
-
-### 黄仁勋复任英伟达CEO，特朗普承认介入董事会决策
+### 特朗普：在深圳吃到很棒的中国菜，但不知道叫什么
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 虎嗅网
-- 时间: 2026-11-24 01:57
-- 链接: <https://news.google.com/rss/articles/CBMiVEFVX3lxTFB6Mm1ocUxnMlhUNlUzMGhLUDZzcnphTEpMNXJUNW9kWllBTGdrZ01LM01hVkdtLWRoWlBuVTYxNmRGTzYtOTB6M01BWjN0UjJ3cjJUcg?oc=5>
+- 场馆: 凤凰网
+- 时间: 2026-11-24 11:11
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5LSzNiRzlSX2g0RGh2OGpVM1JRZlRGQl9xSU5FdUJuXzRKRDdIajRVRWRpUm45MVEwR1hpMmR2aF9rRUs4ckxaeHBkVng?oc=5>
 
-### 黄仁勋重返英伟达后，特朗普引发政治风暴
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-11-23 23:27
-- 链接: <https://news.google.com/rss/articles/CBMiwwJBVV95cUxQbnN3eGFENU5nQ3BtV0Q2WDlsZFRUc0h1dHVRckplTFR3d044cTRTcXdobXY5U2VlUm9zQVIzTlJIcC1JNUhuTHpPelhOdXNlMGJHMTRGZ0d0bXoxQkFILWtybE5ZS19GWHZmRmZXMEJjbWoyeW0xSUhLOHFKdTdVbXJUZ2RwMXlzejFULUxZSVVYOWVKSVpiUXNnNnJmaHFIaERQeFFXS1YxWVhmbC1RUnlURk1zQjVvcXhxZ1VNdmlpbHVPaHFiSmxKdzlrZzIwRkN4SkE0NmVpTTg0MVB4cTZHMFBESHRGbjRKajdfOWNHaFZFc2hEZFVDUVNFSXBhUy1MdTJDWE1JRW9pdjJNelltRmtBMDhmQV9meU5WZzB6a0hyUjFVQ0dPSHM1ZEF3bWVoWWpWS0p1aklQOXFLekZaaw?oc=5>
-
-### 黄仁勋重掌Nvidia：习近平从特朗普身上看到了什么？
+### 美国财政部：特朗普账户已收到来自亲友的超过10亿美元直接缴款
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-11-24 16:20
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SVG5XaURIbmE0QS1wWlp6YTl2QXl5TjhZc2ZLLU9ZV1JEcVVETlYzYVUta09uVVRJYmZQNGx3YmNrWXl3aTJaTjh1V0ZSRE5ZRDhsOVloNzE4RkRPeTJTbEQxVkpLeGvSAWxBVV95cUxQekRIVjNoU0pnUTg5U2ZQRHBuV0FldGI3NU9HRlZwMkE1SXdXeFpxYUV2UDlYZGxycldQalcwbU9rc3R1c1BfVGh2andKRWs5aFZWdlJmVGQzVHpBY0dVNmhyVGlJVlUzNVlfWHE?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-11-24 18:33
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxOazVSLXdoM0NUUFlQNnlMYk1RbGR6SVRVbGR2M1lGNXVBV2lqWXdDOF9ZdkFOSFN3OW9pNEJQTmtmUzFzam13MmVDNTMzbzlVQmI3MmZHWmRlcmtudEdNS1k1YzNBY2thMUJTaldGSks5V1VpRzh5bUVfdW1NTGppVV9zX2Q4QlE?oc=5>
 
-### TRUMP价格展望：看跌势头占主导，下行风险依然高企
+### 民主党拟推翻特朗普减税与关税政策，后者扬言已准备否决-市场参考
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 金十数据
+- 时间: 2026-11-23 13:24
+- 链接: <https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUYUZ0dktuaHhFNGRicllyeWN1dXV6Unh5WE1MT29NYkpVUHdVWkNtUHhJTFdjSWozRFNpTjlqZjNwa3phbG5qek54by0yTzA?oc=5>
+
+### 特朗普表示愿意为英伟达的黄仁勋提供赦免，但他认为自己不需要赦免
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Traders Union
-- 时间: 2026-11-24 13:17
-- 链接: <https://news.google.com/rss/articles/CBMiowFBVV95cUxPUFNybG8zbjY3d3lteDZiV3MzZThRVHdCbXRFc1Ztam1XdE1LYmlzRXBVcXZaSnRIdjJDZ2hwcmtvYVZoV1F3V3NFdmRPQkNfdE56RXpMcVV2SGU0eFdOZlZEdUFrcEJhdzFmYURnakJKd29DUFo3UkhjVE01ZVhBNHZqZmN0MUNJc2RjNjMtVnR0UzM0UVlQT1hoTXBwNUlITFNz?oc=5>
+- 场馆: CoinDesk
+- 时间: 2026-11-25 03:35
+- 链接: <https://news.google.com/rss/articles/CBMixwFBVV95cUxPdDdsM1Z0TEVvLTg0M2s3NnotY0NJS3p4ZHhsdU9DQTcyZTAtUzE3VzlUR051a3J5VTMwQnhKR3lVellVOHpkUThSUDhNQ1AySVl0eE9aMGFPZXk5c2dfdzNNOE41c054QTJIYnJ4dVBoVVNXeW93RXlnV3kwbjctR3NnTEtaVUpuUmdiMGx6aVRhdVU2Z3k5VG90VVZIVE9QWmp2OUxXUmtZTmJzVFdXU2MyTlJQR1A1bDVfdzJRVHc3a0U3NG9N?oc=5>
 
-### 黄仁勋复职凸显特朗普不惜代价力保人工智能发展
+### 突发：特朗普总统表示，美国政府可能会入股英伟达。“现在可能还不算太晚，”特朗普总统说。买入价定在200美元！！
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-11-24 02:49
-- 链接: <https://news.google.com/rss/articles/CBMidkFVX3lxTE5JYlgxRVdoNFVRX2VVdi1vYkVRWW56S194aC1tcXR0cm9jb2R0eXpPVEItSnRqYmgxQzV3bnFYZXh3ZVQySTg2WTUyWDEtVlpXemZVemhieEZBZUIyNzZNbnVwS1UxU2xQZ1g5X2ZBa2ViTGpKaFE?oc=5>
+- 场馆: Moomoo
+- 时间: 2026-11-25 01:05
+- 链接: <https://news.google.com/rss/articles/CBMivAFBVV95cUxQaUtVZ1JhOGhkMlpESUw3dURqREZRUHJSTkNPX1A2NUlkaUpKZ3Y2LTBaUWtObXlfRUxSSG5rc2EwbWlNRUM2WWdrb3dXdDJzblotekFrTk44RVdrby1kWGtYY0tBM0dVQl9ZTGRDSWZQY3ZjS0VQZ1h6QXpwUlAwY25pel91YzlfVi1ScG9KQWl6R0NfRjRrU2hhUGlCZzBOUURaRGtkX1FnZHFSVkdoc2lFUTNmWk83ZkVYYg?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-11-25 04:26  (11 条)
+
+- **王一博** | 王一博代言汽水音乐，演唱巴黎奥运资格赛主题曲 <https://k.sina.com.cn/article_7880068727_m1d5b04e77033057ftv.html>
+- **王一博** | 王一博演唱亚冬会主题曲点亮亚洲 <https://k.sina.com.cn/article_7879923704_m1d5ae17f8033022agh.html>
+- **王一博** | 还不如说王一博明年开演唱会呢，非官宣不约啊，少画饼 <https://k.sina.com.cn/article_6100411626_m16b9ce4ea03301fbog.html>
+- **周杰伦** | 周杰伦悉尼演唱会有哪些特别的点歌环节？ <https://k.sina.com.cn/article_7879776356_1d5abd86406801amnd.html>
+- **周杰伦** | 早期综艺我没养马，周杰伦小S演绎双刀MV，大S笑到扶墙 <https://k.sina.com.cn/article_7879923704_m1d5ae17f8033022ah5.html>
+- **特朗普** | 特朗普：在深圳吃到了很棒的中国菜，但不知道叫什么，只记得很好吃 <https://news.google.com/rss/articles/CBMic0FVX3lxTE1WekhYM1Y5eEw0ZjVKRE0tbEhUbGpaWDlfRFhzdnpxTklYSHN3VUhLcjZpcGVsQ1duSDUyRUZFNUpfRndQVEFzcndFOVhwOUMxcWlZUWFXWGhpYk0zdEd4c0JnOTN1R3RWTEV1YWhIU3hPcjA?oc=5>
+- **特朗普** | 特朗普：在深圳吃到很棒的中国菜，但不知道叫什么 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5LSzNiRzlSX2g0RGh2OGpVM1JRZlRGQl9xSU5FdUJuXzRKRDdIajRVRWRpUm45MVEwR1hpMmR2aF9rRUs4ckxaeHBkVng?oc=5>
+- **特朗普** | 美国财政部：特朗普账户已收到来自亲友的超过10亿美元直接缴款 <https://news.google.com/rss/articles/CBMihwFBVV95cUxOazVSLXdoM0NUUFlQNnlMYk1RbGR6SVRVbGR2M1lGNXVBV2lqWXdDOF9ZdkFOSFN3OW9pNEJQTmtmUzFzam13MmVDNTMzbzlVQmI3MmZHWmRlcmtudEdNS1k1YzNBY2thMUJTaldGSks5V1VpRzh5bUVfdW1NTGppVV9zX2Q4QlE?oc=5>
+- **特朗普** | 民主党拟推翻特朗普减税与关税政策，后者扬言已准备否决-市场参考 <https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUYUZ0dktuaHhFNGRicllyeWN1dXV6Unh5WE1MT29NYkpVUHdVWkNtUHhJTFdjSWozRFNpTjlqZjNwa3phbG5qek54by0yTzA?oc=5>
+- **Trump** | 特朗普表示愿意为英伟达的黄仁勋提供赦免，但他认为自己不需要赦免 <https://news.google.com/rss/articles/CBMixwFBVV95cUxPdDdsM1Z0TEVvLTg0M2s3NnotY0NJS3p4ZHhsdU9DQTcyZTAtUzE3VzlUR051a3J5VTMwQnhKR3lVellVOHpkUThSUDhNQ1AySVl0eE9aMGFPZXk5c2dfdzNNOE41c054QTJIYnJ4dVBoVVNXeW93RXlnV3kwbjctR3NnTEtaVUpuUmdiMGx6aVRhdVU2Z3k5VG90VVZIVE9QWmp2OUxXUmtZTmJzVFdXU2MyTlJQR1A1bDVfdzJRVHc3a0U3NG9N?oc=5>
+- **Trump** | 突发：特朗普总统表示，美国政府可能会入股英伟达。“现在可能还不算太晚，”特朗普总统说。买入价定在200美元！！ <https://news.google.com/rss/articles/CBMivAFBVV95cUxQaUtVZ1JhOGhkMlpESUw3dURqREZRUHJSTkNPX1A2NUlkaUpKZ3Y2LTBaUWtObXlfRUxSSG5rc2EwbWlNRUM2WWdrb3dXdDJzblotekFrTk44RVdrby1kWGtYY0tBM0dVQl9ZTGRDSWZQY3ZjS0VQZ1h6QXpwUlAwY25pel91YzlfVi1ScG9KQWl6R0NfRjRrU2hhUGlCZzBOUURaRGtkX1FnZHFSVkdoc2lFUTNmWk83ZkVYYg?oc=5>
 
 ### 2026-11-24 21:25  (12 条)
 
