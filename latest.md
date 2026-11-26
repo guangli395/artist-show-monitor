@@ -1,136 +1,150 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-11-25 23:26**
-- 本轮扫到 16457 条, 新增 **15** 条
+- 最近更新: **2026-11-26 05:16**
+- 本轮扫到 16472 条, 新增 **15** 条
 
 ---
 
 ## 本轮新发现 (15 条)
 
-### 特朗普总统警告，切断针对伊朗的军事行动经费是不可取的
+### 金子涵分享蔡徐坤新歌，此前曾拉黑后称被误导
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7811154182_m1d194c1060330233gr.html>
+
+### 2026华语歌手演唱会号召力榜 肖战周杰伦T0
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_2839442860_a93e75ac04001k0vk.html>
+
+### 黄仁勋复职，美国国会一片哗然：民主党誓言彻查特朗普和英伟达，共和党也不买账
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-11-25 19:19
-- 链接: <https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcVAxNHdjMndoRTlseEZ2V1VSV1h1eDN6SFdCZFFreFYwVWNGSXVwOU1aemxlTVRhS2p4bWJqSDVkUVEtZ3lZc0dKQzdjVlR6RWE4N2drUkNFc3NOcjZ2ZmF0QWVLY0NNbUh2R2NoWW1wdzlzUUpQQUhQZW9PaUVMQ002dm4tYlRPUnVNS1NuNUdUcFpEbDdHXy1UTUVmaUQzeTRoVEZma2lOZnh5MzR6RUJHSHRrVVdaejF4SHBpWUPSAcMBQVVfeXFMUGJJYUpiYzgxVy0xWENzdFBxV2hwRWEtamtnSDFVY1ktUlRzOVMtU2xsYXFnN0JmcWh3UUpaRVJuSnpjdFVBVDFwbXZkaHJPUVpnNHpNMDBGSGEwYkdnZVkzVFFoUWRJa0hGSnN1dzJGbzg1bDExSnBmQjQyMkVZR0tmY3JXNzBvR2lFYVFRdkxCVURxaXVuSmdDUUozRG5FdXdhVjhXaGI5NkVVdjFBVC0ySi1uZldjWnZKNUo2WHlBTDRB?oc=5>
+- 场馆: 华尔街见闻
+- 时间: 2026-11-24 06:29
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBJZkxDNE1jOS1peHNMWmJKTjRWaUZ6MnBWRk1JaE1NNzlSNWtnQVp2WUoxaFhhYnNhYzJsX1RNcDJ0OEdmMTFYUDNiZ2lSOVROYXhB?oc=5>
 
-### 从深圳返美后，特朗普连续多天夸赞中国
+### 特朗普祝贺罗伯特·帕丁森成为新一任“007”：他看起来不错，祝他好运
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-11-26 05:09
+- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVjdWMXlXZ0Vad1BfYndYT1FOUWFib2VmYXJYSGlMT3dzcVhtM3pGeUNYNHN2cHE0cFRCemtZT0pQdUgxSE5oeEhxTUllNHJpcmRicF9mcjd5VWR6Vm81UjVhYUxSMUNMQWNGUGdHNWhUazk5T3hTVE1uYVRHWU0xVExQTXI5SXM0RVFJ?oc=5>
+
+### 美国历史上没弹劾过国防部长，特朗普任命的部长会是第一个吗？
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 手机新浪网
+- 时间: 2026-11-26 05:06
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE1faEtIbjFUUkxUWDNsVkd6Wi1XV1ZTRHJoTGRHWWVEUlpPQUo4SHczeWdHX0ktQmxBQklPbjRMV1JiQjRzQjMtazRtSUR5WkE2cWNmLVNaY3JtOU0xN1YzOW13ZFlBRFlLSDMwNURKb21VQQ?oc=5>
+
+### 让特朗普念念不忘的“帽子菜”是一道冷盘
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-11-26 05:02
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFAzV0RUSmF6dFVfMTE0di1qdWJLYUlqQWNRVlJfYlJiQk1RNlVQb1VZVGpydFROcjZlci04d1EwbjNQWWRJZHgzSW5LZUVaUkduLVc3ZWg4VDJjQ2dHVjFRRzFlR0Z1a1BPa1NsV19tX1k5Zw?oc=5>
+
+### 特朗普念念不忘的帽子菜，其实是深圳这道带盖的迎宾冷盘
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 手机新浪网
+- 时间: 2026-11-26 03:33
+- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTE9oQXAwZnNWY1htZmxtYWtIb3dDcHVJQTRST2xVY3hxdTcxN1l3ck9SVkxEbzlGSk9QZURZNWc4eUhnMEdsMk5OMUEwUWVlcElrOGJudWt6VE1CM3ZtZVUxcXhIVQ?oc=5>
+
+### 特朗普念念不忘的“中国菜”到底是啥？国宴大厨详解
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-11-25 08:30
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE1tekNqTkc1d3FmTV9ubE1XX1Z4NVFfejNDM0JSYl9CVjg2c1ZReFdmNm1NallBbHhpU0Y2SHAxdzJwRnZ2SDRDS1o2cjU?oc=5>
+- 时间: 2026-11-25 13:58
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5UOGlDbHUwWjBwV2lmTTFRRGVrZERLeHBOZmZlU3RySUttR1lKM2JyT3FvU0xJSVhyQXdMYUdZeUp5Nkc3M3JOYkJMM0E?oc=5>
 
-### 一直夸一直夸，完全停不下来！返美后，特朗普连续多天夸赞中国之行
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-11-25 08:21
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE04Sm0yYU1wb0ItbHl2TGhKSGFLM01ac2ZjWW5SMzFUNlJQSVRLNEtLNnNoZERPVlBSQjVvVVI1QTNzdGJzYzdXQ2dreUlFYzFrR0Y4RnJRbUhoRUJiMldpRWhLVF92SGNsVDJ1Z2wtc0hjQ2NvRzRBRw?oc=5>
-
-### 特朗普自曝力推黄仁勋复职：担心中国请他去领导华为
+### 特朗普与吕特会晤，讨论了伊朗问题和俄乌冲突。
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 驱动之家
-- 时间: 2026-11-25 00:17
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Ld0JhOF9pbWlnRU9Dc3BzOVlKUDlnSnZXTEY5aF9PU3pYVUMxLTBvNHhIdXoyRldDTFdTSDQzZ1R4Yl9JdG5DeGJEZmM5bHBvdjlkYmRFdDk?oc=5>
-
-### 特朗普：如有必要，愿意赦免黄仁勋
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪军事
-- 时间: 2026-11-25 08:57
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTFBlN1JfZ0JZekFDUmp5THBrQzFpbWNwRVc1dmMzVnhRSGlaWk1fVFJ2OW5POVEzNFhydFBobmRFRjZ5ODVaODdIWG9ZOGYzVEE3SzYzTzJHbTJiaTE0ODBlTnNiM0d5RWxTNlZYWmlOYi1hUlk?oc=5>
+- 场馆: 手机新浪网
+- 时间: 2026-11-26 03:22
+- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBuMjNBQlYxNkRsY0NCd0NlblNwVHB1SGxTWTl5S2pVbHM5WkVPQ0d5alUwanhHRzBUSFdVaVN6UDUxQkdaR2JtUjN0dw?oc=5>
 
 ### 外媒：特朗普长子小唐纳德·特朗普遭调查
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
+- 场馆: 中国网
+- 时间: 2026-11-25 23:47
+- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE01SnFFNDdwdXA0U2FJMUJ0NnZnR19TSjYwOTJ6WVNWLVBfWlVjUGVvX1E0cktYTm1UaEI5akVRel9xRHE2WVZuUG1zZnB3SnZCQ2JaeXRpTE56dWp5blptV3JyZlN4S25rSERjdXZfaw?oc=5>
+
+### 特朗普称明年1月将邀参众两院民主党领袖会谈，自信联手能取得“难以置信”的成果
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
 - 场馆: Sohu
-- 时间: 2026-11-25 12:32
-- 链接: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNHdNb21QRHktWk0xUkx3T1lnb0JDZHlmX29xekpTek9rNC1aMGpTSGtQcE41WjlZakRPWk5sLWo3UWxSNDRhOENHYl8yMnRDdmR3WGpILWY5X1BMRW9BdHZRN2RXb1l0VlY4UFZWU211dk1HTVh3NHNRTV9aS2RVeE9TeEkxb1B6?oc=5>
+- 时间: 2026-11-26 03:18
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxPMG5ZVEZ4aExrOEw1b2NvQU9STHhqeUdLbGt1R1c4Qk5TczhZNEtXRUpkQ0c3SWlwZTBoUGhDT3BmczRObVJGOHdabi0zSWFBT21yWkVvZ1dVZTZQTGUtWXpWZjNLcjljU3ZQM0ctN1FFUlQ1YnpFUFBTclNlU3VFMWpqWGFKcktKOGh5dA?oc=5>
 
-### 特朗普之子遭调查，民主党议员称其有“神奇预知能力”，特朗普：我为我的孩子们感到难过
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-11-25 13:31
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBpSG5rWnBDS3VIZk4xanItZkxCZHpwd0pVaC1fWHRTYW1qTFdhZUc2NWVlNGVYR0hKLWRRbDVGeDF1WlVObHBTWUw0aUhjZTR6YzFCTkphU0FGaU5FVmZETFZaZlp0NTZ4TUZ2b1FSZUlFeHBnd0p6NQ?oc=5>
-
-### “看谁不顺眼就加税？”民主党要拿特朗普经济招牌开刀
+### SpaceX将充值特朗普账户，每个活跃账户捐赠一股股票，太空数据中心刚获美官方批准，马斯克还要自掏腰包加赠
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-11-23 00:45
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5fd2VuNkFYWnhVYmI3MFNsb1Z5dzBSWmExb1pQcnZ4LU5kR2NqbFQzMmJwSF9oS0swYnRxOVVaNzRaQVB3VWZsYzR5RUc?oc=5>
+- 场馆: Jiemian.com
+- 时间: 2026-11-26 04:08
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VM1U4YXhrNDNmMTZab1FnUlhFaDNKeGs3YXVZRGR5dmpzVTZyNDJQMjc0WWhTdEJ6Q0ZSYVJlS1dXQ0p2WlduaHNLbWcwZW5qZW13SHRaSzZkRkZmWkFTRw?oc=5>
 
-### 美国准备公布对全球贸易伙伴加征新关税的计划
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-11-25 12:21
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1VG82M0ZGMVZ1Q21RTmFiY1h3UXZmbDN2WDAxR3hldXJkQ1B3ZWFpZUpGeGhlZUI4TXNFcGhZOE1jaTQxN21vaVdPeVdMMGpqUGhFMGw5eUVqWDdKUnpFY0VXWnVQVVnSAWxBVV95cUxNUEpQdWhKb09CQ0hQUTRfa1JYZnNYQXdmMkpJZHFDbUNqdXN4MWdHREFITWU3UmQ4T2oxem9vWFVWdm1mMU9OZENGYWZvb2N4bkkxemM3VWpCTDdiWThCaXpjRlRBNmtydUlybUw?oc=5>
-
-### 特朗普政府提对14个贸易伙伴加征新关税：对中国税率为20%
+### 法国世界报 - 英伟达"闹剧"：习近平的"稳定"与特朗普的"混乱"之最新一章
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: RFI
-- 时间: 2026-11-25 14:25
-- 链接: <https://news.google.com/rss/articles/CBMi7gJBVV95cUxPTGpFbTFCWkxJTXZqWVFsVXVZYmV1LWpib2RScE41bU92ZG9iajlJMWxMZGlzaGZzcWNrVUQ3UFBxbUJTbVZsRS1ybjZYYmo0VlpUTlVaaWxYVEtOalJ5VjVhQmVzQ0RDcTNGVWJPMllfbF93c2o4VldCS2g0WEl6MEhMNDRXamRHNzNxLTFhNGlha09JeXM3MUlfdEt0ZDU5ckxfZDl5bHpkYWFuVWhUOFMtVWQ1Wk00WHBjZUlLOUt4WkhONmk3d0ZHc0JaeDhYRENjV2xIb2JMN0dmdlNXNTV6Mm8tMHh0VGxRT1BZRVdlbE1qUmQ3eVhBYXg0N2NGQy0xRVBjSzc4RmFQUFM5NUVkR195X1ZURUUwSDN4QnBCQ0kxWnZFa3VBdlBmUHVaVnpfQVhsQlpHYjV1QnRidjFBV2xjcEhYM2NqLTJhVVJxd1BCTERwdm00TElzSGZ4YWZmTk9DRUJfWE4waHc?oc=5>
+- 时间: 2026-11-25 21:45
+- 链接: <https://news.google.com/rss/articles/CBMi0ANBVV95cUxPSmFLVFZGSk9EZEFHd0F5RGhiOFMwTGV1bk5CQmJfaFhDZFZ4ODNEMllBUlU3YU5rRVRPRnhLdm43d0RnTGtIaG5UbGRhYlB0Q0dZa1VJRGRRclp4WjZWS3ExWGJvRWxWWXFVZHFhRXVGR2tWbTFJLTVmRW0xV1pwMTloTHFrdVIzMjNnUmhoOG84UTNxX0g4cmg2R2VFcTM1QnBFdmoyVF90T2RHYUc0Y0R6Sk5Xb2ZKR0k2X3g1VkJ5UHhzaC1JRGRKQXFqSjFsU3BPQXczcjI2MXJSY0U4UEk5dDBvbjE0c1RjNEw0SzFWcmxOdmh2VmNfZDdlLV9aNGR2UTN6empEOFdzLTdkZDZZSnc3ZEdId1J2UjNUQ1lJNDdpak1VNHFlRjV5QVVYUTlQY21MSkRISEx3TGFKUlVfeExHcTl6ckFiYU9YZ3pPbFlVdTdHM0dPbjRYdFVRbEQ0ZXBHTjZXZmpxQkJZTjREckZjY1hLbFRUWHZUWE5zNXFPVC04eUtVZGlEMVRmeFBuZlQ2cTA5RVpETXpYdkVvRUhra0dXWGZLSVlEMkFxYkZWbzdDakNRdDFoQTY1UVRnTWRyTDZ0Z0FTUnBoTw?oc=5>
 
-### 特朗普关税大棒挥向14 国，中国 20% 越南 35% 引震荡|特朗普政府|中国|欧盟|关税|301 条款_新浪新闻
+### Trump认为：黄下台，影响太大，必须回归黄向白宫透露：董事会愿意让他复职
 
-- 艺人/关键词: **特朗普**
+- 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: 手机新浪网
-- 时间: 2026-11-25 21:49
-- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTE00Z2lPdGF5V1ZUTFlmUkFidVBOdHRoWU9nNFlSRG5Sa25VNW5FM1ZPd3lvbTZUMFpoNnl1d09rbllNVi0tUnd4azhnMVZ6bkhmRUlkYWNzY0VRZVZpVlFGdmZoWQ?oc=5>
+- 时间: 2026-11-26 00:07
+- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTE5sblVYNGcweXJWMUVtS1pSbjdBOHhYXzktdjJIR3IzeV84R295djR6eHJoOFRWVHEzbXZUSmNhUEkwN1NRTlVHWXFDR3RfLVZmblhQMlNrempmQ3BQZTlnTTBRWQ?oc=5>
 
-### 特朗普对《纽约邮报》说，俄乌和平协议尚无时间表
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-11-25 17:14
-- 链接: <https://news.google.com/rss/articles/CBMisgFBVV95cUxNWlhtQTdEblptdFBhTnFHNmpkVmZJeHNLM2FWTUQ0MTl6R0U4SzI4WlJzMi1OUFZUV0ZmcVFVWU11cGg1Z3BKVWVtVjVmaTUyc1BlNmZvaW1EaW9SRVltaEtyN3lLendFSV9XYVZHcTFHUHN6aXJUc0UtTjlnNl9NcGRORWFwN1pyZURmOWJIM3lNT2NFNjJJa2JVYkhHTmdFUUhBNEpwcDRWU21xOHlDUHd30gG0AUFVX3lxTE81TVEyY2pua0s2eHFmSmZyZ3FXNGI5MjI2UXZVcS1uYWQtTUZ3bjhTSEhaTzQ2ZGtBWkdDQ2EyZ1NfbU1NVEhBLTUwNVNqMEtYM2VPUGlJa0dIdHJxSXRjOVQ2dlN3ZTBlRk50enBYeWF3SHFraF82YnVKa0xrNzExNThQaG03dmhlcW5GVnZfek85b0g0bjdqc29ra2tGMnBZczBKNTdqNkI2d1c0VUxqYjNlaA?oc=5>
-
-### 民主党议员扬言明年国会掌权后反击特朗普关税政策
+### 特朗普加密货币暴跌近99%！第三次举办富豪晚宴 家族却已赚进23亿美元
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-11-25 19:18
-- 链接: <https://news.google.com/rss/articles/CBMi8wJBVV95cUxQSHYtamh0cEkwenZHTjIwOS1zUGV6NVo4NEpaVHJZbEtPZ2pXMTlYWmxFZGZQMERPTkpxNDd0QWFNMVpIQmVCODg2Z1hWaEdRSEtyMEROVzBJUElxX2lITU52QXpXVlRjcV9xcE5OS203ZXNkTXlfejVuYnlyTkxKd2ppZzFjcnVZemlqbllPV1AtcVdVX2tnM0syTXN5Yzl3c2dnNElJRTJqS1NzRHFpV0FXLUFoVF9Kc3BpZ0tMSm11bVJCX2hDdGNacS1OcHRoLWFHdzBkZWtyOEpTdWl4R3VxeGYzakdjaVdrX1RfRXhzTURNV2FqU1hCQjhZbWxrb3JMTHM5OG5RWmVENk9JRUpQVVJoX29SUUdQZWg1VkFxemxVRFcyN09jem5kTHBoV0ZnaDZaWlNybnhXSTRCNXptYlFQX3ZYUzJwZzZXaXhyWFNESW1wa29iZkFXNnUzSXltS2YybzNOb1NCY29PcmphZw?oc=5>
-
-### Trump targets China, EU with new tariffs of up to 20%
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: TVB
-- 时间: 2026-11-25 15:35
-- 链接: <https://news.google.com/rss/articles/CBMifkFVX3lxTE5yUzJNUW5TQi04MEZMZHFyandjdExzQkF5NTgzQTJ6bDkzX0xCTnlEbUVydV96NGhlV3JCUmtBMWxwa2wzTW5aM3ZvNm9UUGk0dDcwS3QtQm9ud0ZwREw3bG9Qbl95ZzdKOXhiQXkzX3A2ZFVhWU1QR0lBT3MzZw?oc=5>
-
-### 🚀 $TRUMP COIN：下一波大行情是否即将到来？
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Binance
-- 时间: 2026-11-25 12:50
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RSldieExVZGd3dndnbS05TUxnbi1mQ19EUG5icGJLQUU5eUxJOUh3a05yNFFlakhNTmQ2MnEyMnpxcTh4djl5RXRoVXM3d3RJZ3haU1dyaUJIN2FYbmRERWY2U2xpcHcz?oc=5>
+- 场馆: QQ News
+- 时间: 2026-11-23 21:58
+- 链接: <https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wNG9STzVvR2FhMUoybTRyX1BuMDhScUpYVjVpNlRyVFUzOXBTY1BHRjY1ZjgxZF84TGxCMzMySEt3TFNwY2tIX0lNenN3bjJEMHFKQnln?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-11-26 05:16  (15 条)
+
+- **蔡徐坤** | 金子涵分享蔡徐坤新歌，此前曾拉黑后称被误导 <https://k.sina.com.cn/article_7811154182_m1d194c1060330233gr.html>
+- **周杰伦** | 2026华语歌手演唱会号召力榜 肖战周杰伦T0 <https://k.sina.com.cn/article_2839442860_a93e75ac04001k0vk.html>
+- **特朗普** | 黄仁勋复职，美国国会一片哗然：民主党誓言彻查特朗普和英伟达，共和党也不买账 <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBJZkxDNE1jOS1peHNMWmJKTjRWaUZ6MnBWRk1JaE1NNzlSNWtnQVp2WUoxaFhhYnNhYzJsX1RNcDJ0OEdmMTFYUDNiZ2lSOVROYXhB?oc=5>
+- **特朗普** | 特朗普祝贺罗伯特·帕丁森成为新一任“007”：他看起来不错，祝他好运 <https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVjdWMXlXZ0Vad1BfYndYT1FOUWFib2VmYXJYSGlMT3dzcVhtM3pGeUNYNHN2cHE0cFRCemtZT0pQdUgxSE5oeEhxTUllNHJpcmRicF9mcjd5VWR6Vm81UjVhYUxSMUNMQWNGUGdHNWhUazk5T3hTVE1uYVRHWU0xVExQTXI5SXM0RVFJ?oc=5>
+- **特朗普** | 美国历史上没弹劾过国防部长，特朗普任命的部长会是第一个吗？ <https://news.google.com/rss/articles/CBMickFVX3lxTE1faEtIbjFUUkxUWDNsVkd6Wi1XV1ZTRHJoTGRHWWVEUlpPQUo4SHczeWdHX0ktQmxBQklPbjRMV1JiQjRzQjMtazRtSUR5WkE2cWNmLVNaY3JtOU0xN1YzOW13ZFlBRFlLSDMwNURKb21VQQ?oc=5>
+- **特朗普** | 让特朗普念念不忘的“帽子菜”是一道冷盘 <https://news.google.com/rss/articles/CBMickFVX3lxTFAzV0RUSmF6dFVfMTE0di1qdWJLYUlqQWNRVlJfYlJiQk1RNlVQb1VZVGpydFROcjZlci04d1EwbjNQWWRJZHgzSW5LZUVaUkduLVc3ZWg4VDJjQ2dHVjFRRzFlR0Z1a1BPa1NsV19tX1k5Zw?oc=5>
+- **特朗普** | 特朗普念念不忘的帽子菜，其实是深圳这道带盖的迎宾冷盘 <https://news.google.com/rss/articles/CBMiY0FVX3lxTE9oQXAwZnNWY1htZmxtYWtIb3dDcHVJQTRST2xVY3hxdTcxN1l3ck9SVkxEbzlGSk9QZURZNWc4eUhnMEdsMk5OMUEwUWVlcElrOGJudWt6VE1CM3ZtZVUxcXhIVQ?oc=5>
+- **特朗普** | 特朗普念念不忘的“中国菜”到底是啥？国宴大厨详解 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5UOGlDbHUwWjBwV2lmTTFRRGVrZERLeHBOZmZlU3RySUttR1lKM2JyT3FvU0xJSVhyQXdMYUdZeUp5Nkc3M3JOYkJMM0E?oc=5>
+- **特朗普** | 特朗普与吕特会晤，讨论了伊朗问题和俄乌冲突。 <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBuMjNBQlYxNkRsY0NCd0NlblNwVHB1SGxTWTl5S2pVbHM5WkVPQ0d5alUwanhHRzBUSFdVaVN6UDUxQkdaR2JtUjN0dw?oc=5>
+- **特朗普** | 外媒：特朗普长子小唐纳德·特朗普遭调查 <https://news.google.com/rss/articles/CBMib0FVX3lxTE01SnFFNDdwdXA0U2FJMUJ0NnZnR19TSjYwOTJ6WVNWLVBfWlVjUGVvX1E0cktYTm1UaEI5akVRel9xRHE2WVZuUG1zZnB3SnZCQ2JaeXRpTE56dWp5blptV3JyZlN4S25rSERjdXZfaw?oc=5>
+- **特朗普** | 特朗普称明年1月将邀参众两院民主党领袖会谈，自信联手能取得“难以置信”的成果 <https://news.google.com/rss/articles/CBMijAFBVV95cUxPMG5ZVEZ4aExrOEw1b2NvQU9STHhqeUdLbGt1R1c4Qk5TczhZNEtXRUpkQ0c3SWlwZTBoUGhDT3BmczRObVJGOHdabi0zSWFBT21yWkVvZ1dVZTZQTGUtWXpWZjNLcjljU3ZQM0ctN1FFUlQ1YnpFUFBTclNlU3VFMWpqWGFKcktKOGh5dA?oc=5>
+- **特朗普** | SpaceX将充值特朗普账户，每个活跃账户捐赠一股股票，太空数据中心刚获美官方批准，马斯克还要自掏腰包加赠 <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VM1U4YXhrNDNmMTZab1FnUlhFaDNKeGs3YXVZRGR5dmpzVTZyNDJQMjc0WWhTdEJ6Q0ZSYVJlS1dXQ0p2WlduaHNLbWcwZW5qZW13SHRaSzZkRkZmWkFTRw?oc=5>
+- **特朗普** | 法国世界报 - 英伟达"闹剧"：习近平的"稳定"与特朗普的"混乱"之最新一章 <https://news.google.com/rss/articles/CBMi0ANBVV95cUxPSmFLVFZGSk9EZEFHd0F5RGhiOFMwTGV1bk5CQmJfaFhDZFZ4ODNEMllBUlU3YU5rRVRPRnhLdm43d0RnTGtIaG5UbGRhYlB0Q0dZa1VJRGRRclp4WjZWS3ExWGJvRWxWWXFVZHFhRXVGR2tWbTFJLTVmRW0xV1pwMTloTHFrdVIzMjNnUmhoOG84UTNxX0g4cmg2R2VFcTM1QnBFdmoyVF90T2RHYUc0Y0R6Sk5Xb2ZKR0k2X3g1VkJ5UHhzaC1JRGRKQXFqSjFsU3BPQXczcjI2MXJSY0U4UEk5dDBvbjE0c1RjNEw0SzFWcmxOdmh2VmNfZDdlLV9aNGR2UTN6empEOFdzLTdkZDZZSnc3ZEdId1J2UjNUQ1lJNDdpak1VNHFlRjV5QVVYUTlQY21MSkRISEx3TGFKUlVfeExHcTl6ckFiYU9YZ3pPbFlVdTdHM0dPbjRYdFVRbEQ0ZXBHTjZXZmpxQkJZTjREckZjY1hLbFRUWHZUWE5zNXFPVC04eUtVZGlEMVRmeFBuZlQ2cTA5RVpETXpYdkVvRUhra0dXWGZLSVlEMkFxYkZWbzdDakNRdDFoQTY1UVRnTWRyTDZ0Z0FTUnBoTw?oc=5>
+- **Trump** | Trump认为：黄下台，影响太大，必须回归黄向白宫透露：董事会愿意让他复职 <https://news.google.com/rss/articles/CBMiY0FVX3lxTE5sblVYNGcweXJWMUVtS1pSbjdBOHhYXzktdjJIR3IzeV84R295djR6eHJoOFRWVHEzbXZUSmNhUEkwN1NRTlVHWXFDR3RfLVZmblhQMlNrempmQ3BQZTlnTTBRWQ?oc=5>
+- **Trump** | 特朗普加密货币暴跌近99%！第三次举办富豪晚宴 家族却已赚进23亿美元 <https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wNG9STzVvR2FhMUoybTRyX1BuMDhScUpYVjVpNlRyVFUzOXBTY1BHRjY1ZjgxZF84TGxCMzMySEt3TFNwY2tIX0lNenN3bjJEMHFKQnln?oc=5>
 
 ### 2026-11-25 23:26  (15 条)
 
