@@ -1,132 +1,141 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-11-26 05:16**
-- 本轮扫到 16472 条, 新增 **15** 条
+- 最近更新: **2026-11-26 15:33**
+- 本轮扫到 16486 条, 新增 **14** 条
 
 ---
 
-## 本轮新发现 (15 条)
+## 本轮新发现 (14 条)
 
-### 金子涵分享蔡徐坤新歌，此前曾拉黑后称被误导
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7811154182_m1d194c1060330233gr.html>
-
-### 2026华语歌手演唱会号召力榜 肖战周杰伦T0
+### 回顾22年前头文字D电影发布会，众星云集！
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2839442860_a93e75ac04001k0vk.html>
+- 链接: <https://k.sina.com.cn/article_7879923529_m1d5ae174903301q81d.html>
 
-### 黄仁勋复职，美国国会一片哗然：民主党誓言彻查特朗普和英伟达，共和党也不买账
+### 早期综艺我没养马，周杰伦小S演绎双刀MV 小s | 周杰伦 | 娱乐百分百
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923674_m1d5ae17da03301tmxi.html>
+
+### 《华尔街日报》开始明白特朗普为什么钦佩习近平，余下两年他还能抄多少作业？
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 华尔街见闻
-- 时间: 2026-11-24 06:29
-- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTFBJZkxDNE1jOS1peHNMWmJKTjRWaUZ6MnBWRk1JaE1NNzlSNWtnQVp2WUoxaFhhYnNhYzJsX1RNcDJ0OEdmMTFYUDNiZ2lSOVROYXhB?oc=5>
+- 场馆: DW.com
+- 时间: 2026-11-26 06:12
+- 链接: <https://news.google.com/rss/articles/CBMixAJBVV95cUxNMWpWeHlzQ2FMenhFY0cyNnVBM28wWHk4SDlmM08wdnNiQTVCSndUZnpZUGp6aEJqQ0xjd195Y3NjN0UtQmRiMG81aVlZLXhhdWcxTGRTbmxsTUE2US1VRHdtMVRkeEdad25FRGl3T0hEMDBoMGxJb0xrRDhDNkdsQ2RkT1I2V0JKYlpvSTFMdnBPMWFtRXRTYXdKVWR4c0RnQllpMnBlOGRVQmlBQjVFRGw2NTFFNHQ5Z2tMWDlUT2M3Q3hUUlJaXzNMNGh5RE1FbkxPOE9GQXlxXzJrVG5LV0l5aXZPaUtqLVNULV9iSG9pVVJPeTZYWFI3cEVySHZRSC00Qi1nZ3p6NVotckZsUmJ5TG1zd0tycVhXWTZQQmxzWVAtVFpta2lFb3ZpWnlVY2dueXpEbk9fZ1lOczE4MVJ2ZlHSAcQCQVVfeXFMTXVBQTFQclEzQ2JUYjBwMjh2amtpdXBOVDZtTi16TnhPYko3QVFENmo1QUQ2OVIwZzNpaXhhRl9FN3Vaa05BY0lmRGRUajJBQU5Bam81d0U4M01rVUR3RG5kT1FGbjNiam5nc1c2VTk5cldOazZJZXhYS1ZkN0kzenhHeFFhSkRPZElGaVQtQ25tQk4tSFdlSjZhTXkwWUtPWEhnMWtmWlo1a3hLYks1TmxTalpSVldPbURXZkFzc08tQTRjSlNWcnJPZUtWTlBrNmVkSWdaeGlPbjlLWkVmTGpmazJoaGQ2a2x1eFdUTXRXdHhFR1hoUmowT2lNTVZ5YWVjV3pGc3k5QUMyR1ROc053T0t0eldFR2p1Vl9mNnlPOGN4S0Ywdk5zTjRPQVZScTZQNjlkZ01fODJQbUdobzRXQmtp?oc=5>
+
+### BBC事实查核：纪录显示，特朗普的帐户今年交易了44次Nvidia股票
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: BBC
+- 时间: 2026-11-26 13:34
+- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ENjR3NG96WnRab2hrcV9PeElkNDMtUWo2blFlWmtoWkRSTkI4NlJxMkZHOGo3X08wNXR1TDVlbU54Q2tIeTlKaDE4VUJydjFWTHU4NS1SSkptQk5QVVk1MTdkNnhkcDDSAWxBVV95cUxQODBjTnVjMHRDSTdaWlllY3FGaDdzUVQ1NWk5aEZkc1NQY3lZZDJqSGxoV3JSZFUzVWtuSTdyUWJDWHFBLXhLU28tNmhrOFdrbmtJR1BmNHk2ekhFY01aVklveGpqTDdPZUplTnU?oc=5>
 
 ### 特朗普祝贺罗伯特·帕丁森成为新一任“007”：他看起来不错，祝他好运
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-11-26 05:09
-- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVjdWMXlXZ0Vad1BfYndYT1FOUWFib2VmYXJYSGlMT3dzcVhtM3pGeUNYNHN2cHE0cFRCemtZT0pQdUgxSE5oeEhxTUllNHJpcmRicF9mcjd5VWR6Vm81UjVhYUxSMUNMQWNGUGdHNWhUazk5T3hTVE1uYVRHWU0xVExQTXI5SXM0RVFJ?oc=5>
+- 场馆: 新浪财经_金融信息服务商
+- 时间: 2026-11-26 13:30
+- 链接: <https://news.google.com/rss/articles/CBMihAFBVV95cUxOQVMzbE5xbXViVWI2RVFmQjJyVDJ0bEh6N0xuR0VVTVRpWE9sYkRETmJPVGxTOUhfRVZUY0dxRDNNZHVvNFQyRnA3ejU5OHFXbUNMRkhxQXAwUHptN00tSFRHUGhiZmxZaHF5MTJMTG9kakZ3dks1MDU0MWZ1OXlDT1pDcVI?oc=5>
 
-### 美国历史上没弹劾过国防部长，特朗普任命的部长会是第一个吗？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-11-26 05:06
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE1faEtIbjFUUkxUWDNsVkd6Wi1XV1ZTRHJoTGRHWWVEUlpPQUo4SHczeWdHX0ktQmxBQklPbjRMV1JiQjRzQjMtazRtSUR5WkE2cWNmLVNaY3JtOU0xN1YzOW13ZFlBRFlLSDMwNURKb21VQQ?oc=5>
-
-### 让特朗普念念不忘的“帽子菜”是一道冷盘
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-11-26 05:02
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTFAzV0RUSmF6dFVfMTE0di1qdWJLYUlqQWNRVlJfYlJiQk1RNlVQb1VZVGpydFROcjZlci04d1EwbjNQWWRJZHgzSW5LZUVaUkduLVc3ZWg4VDJjQ2dHVjFRRzFlR0Z1a1BPa1NsV19tX1k5Zw?oc=5>
-
-### 特朗普念念不忘的帽子菜，其实是深圳这道带盖的迎宾冷盘
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-11-26 03:33
-- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTE9oQXAwZnNWY1htZmxtYWtIb3dDcHVJQTRST2xVY3hxdTcxN1l3ck9SVkxEbzlGSk9QZURZNWc4eUhnMEdsMk5OMUEwUWVlcElrOGJudWt6VE1CM3ZtZVUxcXhIVQ?oc=5>
-
-### 特朗普念念不忘的“中国菜”到底是啥？国宴大厨详解
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-11-25 13:58
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5UOGlDbHUwWjBwV2lmTTFRRGVrZERLeHBOZmZlU3RySUttR1lKM2JyT3FvU0xJSVhyQXdMYUdZeUp5Nkc3M3JOYkJMM0E?oc=5>
-
-### 特朗普与吕特会晤，讨论了伊朗问题和俄乌冲突。
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-11-26 03:22
-- 链接: <https://news.google.com/rss/articles/CBMiS0FVX3lxTFBuMjNBQlYxNkRsY0NCd0NlblNwVHB1SGxTWTl5S2pVbHM5WkVPQ0d5alUwanhHRzBUSFdVaVN6UDUxQkdaR2JtUjN0dw?oc=5>
-
-### 外媒：特朗普长子小唐纳德·特朗普遭调查
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中国网
-- 时间: 2026-11-25 23:47
-- 链接: <https://news.google.com/rss/articles/CBMib0FVX3lxTE01SnFFNDdwdXA0U2FJMUJ0NnZnR19TSjYwOTJ6WVNWLVBfWlVjUGVvX1E0cktYTm1UaEI5akVRel9xRHE2WVZuUG1zZnB3SnZCQ2JaeXRpTE56dWp5blptV3JyZlN4S25rSERjdXZfaw?oc=5>
-
-### 特朗普称明年1月将邀参众两院民主党领袖会谈，自信联手能取得“难以置信”的成果
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: Sohu
-- 时间: 2026-11-26 03:18
-- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxPMG5ZVEZ4aExrOEw1b2NvQU9STHhqeUdLbGt1R1c4Qk5TczhZNEtXRUpkQ0c3SWlwZTBoUGhDT3BmczRObVJGOHdabi0zSWFBT21yWkVvZ1dVZTZQTGUtWXpWZjNLcjljU3ZQM0ctN1FFUlQ1YnpFUFBTclNlU3VFMWpqWGFKcktKOGh5dA?oc=5>
-
-### SpaceX将充值特朗普账户，每个活跃账户捐赠一股股票，太空数据中心刚获美官方批准，马斯克还要自掏腰包加赠
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: Jiemian.com
-- 时间: 2026-11-26 04:08
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VM1U4YXhrNDNmMTZab1FnUlhFaDNKeGs3YXVZRGR5dmpzVTZyNDJQMjc0WWhTdEJ6Q0ZSYVJlS1dXQ0p2WlduaHNLbWcwZW5qZW13SHRaSzZkRkZmWkFTRw?oc=5>
-
-### 法国世界报 - 英伟达"闹剧"：习近平的"稳定"与特朗普的"混乱"之最新一章
+### 法国报纸摘要 - 《费加罗报》：中国在特朗普的帮助下试图孤立日本
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: RFI
-- 时间: 2026-11-25 21:45
-- 链接: <https://news.google.com/rss/articles/CBMi0ANBVV95cUxPSmFLVFZGSk9EZEFHd0F5RGhiOFMwTGV1bk5CQmJfaFhDZFZ4ODNEMllBUlU3YU5rRVRPRnhLdm43d0RnTGtIaG5UbGRhYlB0Q0dZa1VJRGRRclp4WjZWS3ExWGJvRWxWWXFVZHFhRXVGR2tWbTFJLTVmRW0xV1pwMTloTHFrdVIzMjNnUmhoOG84UTNxX0g4cmg2R2VFcTM1QnBFdmoyVF90T2RHYUc0Y0R6Sk5Xb2ZKR0k2X3g1VkJ5UHhzaC1JRGRKQXFqSjFsU3BPQXczcjI2MXJSY0U4UEk5dDBvbjE0c1RjNEw0SzFWcmxOdmh2VmNfZDdlLV9aNGR2UTN6empEOFdzLTdkZDZZSnc3ZEdId1J2UjNUQ1lJNDdpak1VNHFlRjV5QVVYUTlQY21MSkRISEx3TGFKUlVfeExHcTl6ckFiYU9YZ3pPbFlVdTdHM0dPbjRYdFVRbEQ0ZXBHTjZXZmpxQkJZTjREckZjY1hLbFRUWHZUWE5zNXFPVC04eUtVZGlEMVRmeFBuZlQ2cTA5RVpETXpYdkVvRUhra0dXWGZLSVlEMkFxYkZWbzdDakNRdDFoQTY1UVRnTWRyTDZ0Z0FTUnBoTw?oc=5>
+- 时间: 2026-11-26 13:25
+- 链接: <https://news.google.com/rss/articles/CBMisgNBVV95cUxOSTlYa0JEUDdqOVFQME1EMy1VdXc0bHI5UndhbU9Ncm1LZjhfOE1jZU8xTVBnYl9xdVBZRG9sYUdtVV9VTGphY1ZHcGRndktOak94QUdSZWp3dkM2M05maWU0cXR2LUh2VzNZa0J1aFQ5VGozVHRHdXVwZjg5NV8zMnU4bnhidGZqVERoem4xVUcyQkVGRTFiTzh2ek0tZTljRFlRMUFMRGt4LUNiQVFuSTZVS1Q4NVZOcEI4dzBpdmt2V2RkaUN2OGdJQ1lzY2d6em5CVlpBWDNtR0RJeXl6ZFJEWTN5amhSNm51aWlkcGVwVjlfVnJGNnd3NkhCV3BTa01WWVVXeU01UGNJbkNsbWpzV1oxd3pUZ1hCVXo4Vy0taE80TVlacm9ZXzFIX1JyNHVfNFZNNC1nb19CbTJUZmhGMXJfdHI0VFdjSF9VRlpNRUxDZDF0RkZ2X0RVTEtBbzRMSTVpbGxsSG1mY3gyTHRrWndydWpRQjhZSGNmN3I5aDVUc3I1cDFXTDl4ZjZUZkFQWnR2WHdRWW1wa0hEck5GQmNVR01iS3BUSUNZQVg1QQ?oc=5>
 
-### Trump认为：黄下台，影响太大，必须回归黄向白宫透露：董事会愿意让他复职
+### 特朗普与吕特会晤 喊话俄“避免扩大战事”
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 央视网
+- 时间: 2026-11-26 07:33
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE8tb0xOcWR2OHlHZVVXWUNsZDZmUkpQNTlUb0hPYWRjTUFnTFpLd0FPV1MwTmEwNEVxcWhUaG1NQ0dLNnI2M0V4VGp0aWJlVUpYZUhJbFJXWi1UVXp0Z01zY3pFSmY2ck5BSDkzaGUxNTl0ejJmcl9nNw?oc=5>
+
+### 特朗普之子遭调查，民主党议员称其有“神奇预知能力”，特朗普：我为我的孩子们感到难过
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经_金融信息服务商
+- 时间: 2026-11-25 15:38
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5QdXVBWGtocGJKTU5OaHRrUHFnQVFlaGI0cmF1Q0twMGRkWGY4MXdfMC1sbEtvRVd4a2s1NW9VWjVQNHFVejZZdUZlck1hTElXN0RKdFVCdE1vZkszNTdMRDZRblFTZldsdVlKU3ZiaGpOWkVWMFpHag?oc=5>
+
+### 特朗普重申美方不支持“台独” 国台办回应
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 中国日报网
+- 时间: 2026-11-26 09:27
+- 链接: <https://news.google.com/rss/articles/CBMifEFVX3lxTE9CSElETmc1Ujg4UWF3UUc0TnE0SEczYmdBWU8xUUZydzR5T0VMVDJZa29rZFdMVTgxWV9kU0pvTGhuWmc1OXNhRmJleG9iS0lYMDAzZUtZV0h6Ymc2dFJ1SDZkRnFZeXp6N1RPcW5vb2M0YThHTThhVEdob1I?oc=5>
+
+### 美国宣布对中国、欧盟等加征新关税
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-11-26 00:07
-- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTE5sblVYNGcweXJWMUVtS1pSbjdBOHhYXzktdjJIR3IzeV84R295djR6eHJoOFRWVHEzbXZUSmNhUEkwN1NRTlVHWXFDR3RfLVZmblhQMlNrempmQ3BQZTlnTTBRWQ?oc=5>
+- 场馆: 纽约时报中文网
+- 时间: 2026-11-26 02:41
+- 链接: <https://news.google.com/rss/articles/CBMibkFVX3lxTFAtVGxwRVN1ZGRidTJaejdWZHdReThGcm10alRzTE9XZGk2VWl5bXlDY2ZpVngwRUlUZVYzcXlNelFjdWNNT05sT0c5bGJrLWltYjFUU0RBUklyQzNpRVB0SkVpa2lpS3VYNWc3QkZn?oc=5>
 
-### 特朗普加密货币暴跌近99%！第三次举办富豪晚宴 家族却已赚进23亿美元
+### 特朗普：在深圳吃到了很棒的中国菜，不知道叫什么，不过真的很好吃；网友着急：到底啥菜
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: QQ News
-- 时间: 2026-11-23 21:58
-- 链接: <https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wNG9STzVvR2FhMUoybTRyX1BuMDhScUpYVjVpNlRyVFUzOXBTY1BHRjY1ZjgxZF84TGxCMzMySEt3TFNwY2tIX0lNenN3bjJEMHFKQnln?oc=5>
+- 时间: 2026-11-25 06:45
+- 链接: <https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LZFZxSGVJdkFsSEFlLTFCaERlRlNWUzJwaXIxZ0Jab3d4Tm1TbldyVGdxamRJcWt4SmUxdW1Nbm1Oajd3cXMtRURHdWZmR3JicndzUkhn?oc=5>
+
+### 美国新轮关税对中国冲击较大 新加坡电子与半导体等领域被点名
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 8world
+- 时间: 2026-11-26 03:49
+- 链接: <https://news.google.com/rss/articles/CBMimgFBVV95cUxPYUQ2Q2pwTVNWbmltOVFiZjNFbmVKeFBqMk9XckV0UUZMTmtFZXdiQkx4azBVaTNOb0ZNc0FLb0hudmlfS2ZjZlAtLWxGT1JhdUN4Y2VQZzBtLTBLOXFLaHlFajR5aHp1NjBaQjFWbVE4R2NjWEFwTlpDcmsybDRsMzZzLVNWb0xGdEI1dHJhd3ZYVTZmd25fUGx3?oc=5>
+
+### 特朗普反对内塔尼亚胡推动对伊朗采取军事行动，以解决其涉嫌的化学武器计划问题。
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Al-Monitor
+- 时间: 2026-11-26 14:00
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE44MEhTNWp3U3drV0VxVE5vQ2c5Q3JCTHpPaWlfWmczaERUR3FobWtGWWFHUFJOZTNYd1VLVmxGUDF4bUpiM2tRaG1NbjNJQkpiMEpVbUZZZmxIR2RySjdBanNxYnlyUQ?oc=5>
+
+### 在买卖双方信号均衡之际，TRUMP能否延续涨势？
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: Traders Union
+- 时间: 2026-11-26 11:27
+- 链接: <https://news.google.com/rss/articles/CBMiowFBVV95cUxQS2RuR0FaQ3pDN25CZnhEdUZuTW1CY3hSRkpJalJHUHlOX3IzSUt5M3FkaHpYc3RaaWctMXFCd3k5cVhmMHhhRnRJUVBOX2VuNmhyOVhZYzNhSFZZWlJXVHJMeXFfOEpXdXJpUDRpUlIxMWdKTXNFTU1oMzU1eDc4a05TNFdrSVhWdTZ4MUJESF80Z1owSlhWVHR6ellwMkdJNVBz?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-11-26 15:33  (14 条)
+
+- **周杰伦** | 回顾22年前头文字D电影发布会，众星云集！ <https://k.sina.com.cn/article_7879923529_m1d5ae174903301q81d.html>
+- **周杰伦** | 早期综艺我没养马，周杰伦小S演绎双刀MV 小s | 周杰伦 | 娱乐百分百 <https://k.sina.com.cn/article_7879923674_m1d5ae17da03301tmxi.html>
+- **特朗普** | 《华尔街日报》开始明白特朗普为什么钦佩习近平，余下两年他还能抄多少作业？ <https://news.google.com/rss/articles/CBMixAJBVV95cUxNMWpWeHlzQ2FMenhFY0cyNnVBM28wWHk4SDlmM08wdnNiQTVCSndUZnpZUGp6aEJqQ0xjd195Y3NjN0UtQmRiMG81aVlZLXhhdWcxTGRTbmxsTUE2US1VRHdtMVRkeEdad25FRGl3T0hEMDBoMGxJb0xrRDhDNkdsQ2RkT1I2V0JKYlpvSTFMdnBPMWFtRXRTYXdKVWR4c0RnQllpMnBlOGRVQmlBQjVFRGw2NTFFNHQ5Z2tMWDlUT2M3Q3hUUlJaXzNMNGh5RE1FbkxPOE9GQXlxXzJrVG5LV0l5aXZPaUtqLVNULV9iSG9pVVJPeTZYWFI3cEVySHZRSC00Qi1nZ3p6NVotckZsUmJ5TG1zd0tycVhXWTZQQmxzWVAtVFpta2lFb3ZpWnlVY2dueXpEbk9fZ1lOczE4MVJ2ZlHSAcQCQVVfeXFMTXVBQTFQclEzQ2JUYjBwMjh2amtpdXBOVDZtTi16TnhPYko3QVFENmo1QUQ2OVIwZzNpaXhhRl9FN3Vaa05BY0lmRGRUajJBQU5Bam81d0U4M01rVUR3RG5kT1FGbjNiam5nc1c2VTk5cldOazZJZXhYS1ZkN0kzenhHeFFhSkRPZElGaVQtQ25tQk4tSFdlSjZhTXkwWUtPWEhnMWtmWlo1a3hLYks1TmxTalpSVldPbURXZkFzc08tQTRjSlNWcnJPZUtWTlBrNmVkSWdaeGlPbjlLWkVmTGpmazJoaGQ2a2x1eFdUTXRXdHhFR1hoUmowT2lNTVZ5YWVjV3pGc3k5QUMyR1ROc053T0t0eldFR2p1Vl9mNnlPOGN4S0Ywdk5zTjRPQVZScTZQNjlkZ01fODJQbUdobzRXQmtp?oc=5>
+- **特朗普** | BBC事实查核：纪录显示，特朗普的帐户今年交易了44次Nvidia股票 <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ENjR3NG96WnRab2hrcV9PeElkNDMtUWo2blFlWmtoWkRSTkI4NlJxMkZHOGo3X08wNXR1TDVlbU54Q2tIeTlKaDE4VUJydjFWTHU4NS1SSkptQk5QVVk1MTdkNnhkcDDSAWxBVV95cUxQODBjTnVjMHRDSTdaWlllY3FGaDdzUVQ1NWk5aEZkc1NQY3lZZDJqSGxoV3JSZFUzVWtuSTdyUWJDWHFBLXhLU28tNmhrOFdrbmtJR1BmNHk2ekhFY01aVklveGpqTDdPZUplTnU?oc=5>
+- **特朗普** | 特朗普祝贺罗伯特·帕丁森成为新一任“007”：他看起来不错，祝他好运 <https://news.google.com/rss/articles/CBMihAFBVV95cUxOQVMzbE5xbXViVWI2RVFmQjJyVDJ0bEh6N0xuR0VVTVRpWE9sYkRETmJPVGxTOUhfRVZUY0dxRDNNZHVvNFQyRnA3ejU5OHFXbUNMRkhxQXAwUHptN00tSFRHUGhiZmxZaHF5MTJMTG9kakZ3dks1MDU0MWZ1OXlDT1pDcVI?oc=5>
+- **特朗普** | 法国报纸摘要 - 《费加罗报》：中国在特朗普的帮助下试图孤立日本 <https://news.google.com/rss/articles/CBMisgNBVV95cUxOSTlYa0JEUDdqOVFQME1EMy1VdXc0bHI5UndhbU9Ncm1LZjhfOE1jZU8xTVBnYl9xdVBZRG9sYUdtVV9VTGphY1ZHcGRndktOak94QUdSZWp3dkM2M05maWU0cXR2LUh2VzNZa0J1aFQ5VGozVHRHdXVwZjg5NV8zMnU4bnhidGZqVERoem4xVUcyQkVGRTFiTzh2ek0tZTljRFlRMUFMRGt4LUNiQVFuSTZVS1Q4NVZOcEI4dzBpdmt2V2RkaUN2OGdJQ1lzY2d6em5CVlpBWDNtR0RJeXl6ZFJEWTN5amhSNm51aWlkcGVwVjlfVnJGNnd3NkhCV3BTa01WWVVXeU01UGNJbkNsbWpzV1oxd3pUZ1hCVXo4Vy0taE80TVlacm9ZXzFIX1JyNHVfNFZNNC1nb19CbTJUZmhGMXJfdHI0VFdjSF9VRlpNRUxDZDF0RkZ2X0RVTEtBbzRMSTVpbGxsSG1mY3gyTHRrWndydWpRQjhZSGNmN3I5aDVUc3I1cDFXTDl4ZjZUZkFQWnR2WHdRWW1wa0hEck5GQmNVR01iS3BUSUNZQVg1QQ?oc=5>
+- **特朗普** | 特朗普与吕特会晤 喊话俄“避免扩大战事” <https://news.google.com/rss/articles/CBMieEFVX3lxTE8tb0xOcWR2OHlHZVVXWUNsZDZmUkpQNTlUb0hPYWRjTUFnTFpLd0FPV1MwTmEwNEVxcWhUaG1NQ0dLNnI2M0V4VGp0aWJlVUpYZUhJbFJXWi1UVXp0Z01zY3pFSmY2ck5BSDkzaGUxNTl0ejJmcl9nNw?oc=5>
+- **特朗普** | 特朗普之子遭调查，民主党议员称其有“神奇预知能力”，特朗普：我为我的孩子们感到难过 <https://news.google.com/rss/articles/CBMieEFVX3lxTE5QdXVBWGtocGJKTU5OaHRrUHFnQVFlaGI0cmF1Q0twMGRkWGY4MXdfMC1sbEtvRVd4a2s1NW9VWjVQNHFVejZZdUZlck1hTElXN0RKdFVCdE1vZkszNTdMRDZRblFTZldsdVlKU3ZiaGpOWkVWMFpHag?oc=5>
+- **特朗普** | 特朗普重申美方不支持“台独” 国台办回应 <https://news.google.com/rss/articles/CBMifEFVX3lxTE9CSElETmc1Ujg4UWF3UUc0TnE0SEczYmdBWU8xUUZydzR5T0VMVDJZa29rZFdMVTgxWV9kU0pvTGhuWmc1OXNhRmJleG9iS0lYMDAzZUtZV0h6Ymc2dFJ1SDZkRnFZeXp6N1RPcW5vb2M0YThHTThhVEdob1I?oc=5>
+- **Trump** | 美国宣布对中国、欧盟等加征新关税 <https://news.google.com/rss/articles/CBMibkFVX3lxTFAtVGxwRVN1ZGRidTJaejdWZHdReThGcm10alRzTE9XZGk2VWl5bXlDY2ZpVngwRUlUZVYzcXlNelFjdWNNT05sT0c5bGJrLWltYjFUU0RBUklyQzNpRVB0SkVpa2lpS3VYNWc3QkZn?oc=5>
+- **Trump** | 特朗普：在深圳吃到了很棒的中国菜，不知道叫什么，不过真的很好吃；网友着急：到底啥菜 <https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LZFZxSGVJdkFsSEFlLTFCaERlRlNWUzJwaXIxZ0Jab3d4Tm1TbldyVGdxamRJcWt4SmUxdW1Nbm1Oajd3cXMtRURHdWZmR3JicndzUkhn?oc=5>
+- **Trump** | 美国新轮关税对中国冲击较大 新加坡电子与半导体等领域被点名 <https://news.google.com/rss/articles/CBMimgFBVV95cUxPYUQ2Q2pwTVNWbmltOVFiZjNFbmVKeFBqMk9XckV0UUZMTmtFZXdiQkx4azBVaTNOb0ZNc0FLb0hudmlfS2ZjZlAtLWxGT1JhdUN4Y2VQZzBtLTBLOXFLaHlFajR5aHp1NjBaQjFWbVE4R2NjWEFwTlpDcmsybDRsMzZzLVNWb0xGdEI1dHJhd3ZYVTZmd25fUGx3?oc=5>
+- **Trump** | 特朗普反对内塔尼亚胡推动对伊朗采取军事行动，以解决其涉嫌的化学武器计划问题。 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE44MEhTNWp3U3drV0VxVE5vQ2c5Q3JCTHpPaWlfWmczaERUR3FobWtGWWFHUFJOZTNYd1VLVmxGUDF4bUpiM2tRaG1NbjNJQkpiMEpVbUZZZmxIR2RySjdBanNxYnlyUQ?oc=5>
+- **Trump** | 在买卖双方信号均衡之际，TRUMP能否延续涨势？ <https://news.google.com/rss/articles/CBMiowFBVV95cUxQS2RuR0FaQ3pDN25CZnhEdUZuTW1CY3hSRkpJalJHUHlOX3IzSUt5M3FkaHpYc3RaaWctMXFCd3k5cVhmMHhhRnRJUVBOX2VuNmhyOVhZYzNhSFZZWlJXVHJMeXFfOEpXdXJpUDRpUlIxMWdKTXNFTU1oMzU1eDc4a05TNFdrSVhWdTZ4MUJESF80Z1owSlhWVHR6ellwMkdJNVBz?oc=5>
 
 ### 2026-11-26 05:16  (15 条)
 
