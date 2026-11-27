@@ -1,184 +1,203 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-11-27 08:53**
-- 本轮扫到 16520 条, 新增 **22** 条
+- 最近更新: **2026-11-27 18:37**
+- 本轮扫到 16542 条, 新增 **22** 条
 
 ---
 
 ## 本轮新发现 (22 条)
 
-### 蔡徐坤香港演唱会明日开唱 港风牛仔成DressCode
+### 蔡徐坤首次谈及上音乐节内幕
 
 - 艺人/关键词: **蔡徐坤**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7811142420_m1d194931403301fqay.html>
+- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301ig1c.html>
+
+### 蔡徐坤新歌Home诉说温情，家是永远的港湾
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_2002676497_m775e6b1103301ws50.html>
+
+### 周杰伦2004年演唱会自弹自唱搁浅，高音轻松唱完松口气
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879924061_m1d5ae195d03301qo77.html>
+
+### 周杰伦2004年演唱会七层楼高空降开场
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879924061_m1d5ae195d03301qo6m.html>
+
+### 深度解读周杰伦无与伦比演唱会
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7811144604_m1d1949b9c033021562.html>
 
 ### 周杰伦湘女多情MV被吐槽太敷衍
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7096020466_m1a6f4adf203301sswt.html>
+- 链接: <https://k.sina.com.cn/article_1798653494_m6b35463603301dr9v.html>
 
-### 周杰伦新MV取景杭州大莲花，歌迷认出自己出演
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1727386613_m66f5d3f503301cg0z.html>
-
-### 周杰伦《湘女多情》官方MV惊喜上线
+### 这下演唱会，我再也不是举着手机瞎拍了 周董演唱会你怎么看 周杰伦北京演唱会
 
 - 艺人/关键词: **周杰伦**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2640993657_m9d6a5d7903301exem.html>
+- 链接: <https://k.sina.com.cn/article_7879923942_m1d5ae18e603302h5dv.html>
 
-### 特朗普再谈黄仁勋：他没有问题 我为全世界做了一件大好事！
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 驱动之家
-- 时间: 2026-11-27 04:23
-- 链接: <https://news.google.com/rss/articles/CBMiWEFVX3lxTFB1Y2xuVDBJcTh2dHR0c3FEdDhMUC15eDZmNWRnRThQMW1US1RlZW44TE9oeEpvSmxPemNiYmxLY2dNVzRmQlJfTXJ3QUg3S3JNTmdQU0ZtaEg?oc=5>
-
-### 为何特朗普新一轮关税的威胁不如以往？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: BBC
-- 时间: 2026-11-27 04:30
-- 链接: <https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05ZTJRUmx0ckFRcHRjNkduUHRzZTZjQk5Hb0NSLWF0UmFmTWNxbEg3bmxBd3NLZVk5Z19aV3RZS0sxMTV1RWNLOVp2dVdwMURjN1FMVTh2c3RmNTByY1VkWmRUdTg4eTjSAWxBVV95cUxOQlloLXpMZVkyT0ZhTVlidFctUFFPZmoyY1ljSlQ1Qjl2MmRoRmk2TnIza0QtR19SNUl0M3FDdTF2UzJOM1dka19ENE9VR2VHcDN3TVBQSnJ1MFJZODNOTDNXcUxrZ1BQUWdycG0?oc=5>
-
-### 特朗普：祝贺罗伯特·帕丁森
+### 不止特朗普！美国多位官员曾持有英伟达股票 一文盘点
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经_金融信息服务商
-- 时间: 2026-11-27 07:57
-- 链接: <https://news.google.com/rss/articles/CBMiggFBVV95cUxNTXlvd0V5a2tDcFNMLThpNDhRZlUxM2FqY2xIU3FqWUdLQkozNXdtQUJlT2ppUHhUWVNNaUZ4dU1xakNEMG9aNm0tdTBJQjlZOGZmM0t2WlpsSTI4MVE5cVhLX2ZlUlFMdXhFQWoyakR6d0pfRWxtQ21rcUNZQnp4TDFn?oc=5>
+- 时间: 2026-11-27 04:41
+- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxQR25LSzBhb29aUk8zLUdETXhpWTFnYUV4cl9aWTlZTi1EQVpaSU5jMmJYRkFBWmZtMmhQbXR6V08zTUdReWhyTDBJRlduZU9KWFFmZVBfS2xlV0FORTVjb2FWS2Z4VURPdmVac2dOYWk2aTZES0FWRUNzMFpBMW5WWUMzczNMVnp6b3c?oc=5>
 
-### 美国大幅上修GDP至4.3%，特朗普“炮轰”商务部
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: Sohu
-- 时间: 2026-11-27 03:25
-- 链接: <https://news.google.com/rss/articles/CBMihgFBVV95cUxNQnBoN29JQmJvWEMxRGNjME56TWFXb0JoTldNSzdiU3VuMFYxYy1TMFNBaFJFUl9pYXhIU2dMOFNyNkwtVktnNU1jQ0p2Q1FiaDREOXl1a0s3Z1A2THpQTTF5amM5NDhEeVZNMDdBS3h3RUdhUkVFcFBTODRUM1J3S0w2VzVmZw?oc=5>
-
-### GDP上修，特朗普“上火”
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 中国网新闻中心
-- 时间: 2026-11-27 08:42
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE9lRHVkMVhySG9PZThqbzgwSGFsS1ZBQkFJR0dXUEZlcXFIUWE1aHBveUZTMklUR1VJSHV0b3BBVEJpMjdJaTJSc0lzX3Bwd2JiSEkybElaT29aa29FQm5lYXM3UDhaMGk3Y1Rv?oc=5>
-
-### 一财主播说 | 特朗普称美国不需要中东石油 为何强调“中东石油依赖度”？
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: Sohu
-- 时间: 2026-11-27 08:39
-- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYTZvM0hRZjZ1LURsZUdqSjU1VnB4WUt4QTJXN2xRczhTY3pTVjBnRS1jOFFOQjB4bkQ3cV9obFE4ZjBsMGNRRmNDU2FIVkswT3A4OFE1Ynl1VS1kWFZSZ041QUFDQmQwNmpjZVpsQ3dtWHVJZnpGOVlJQWpuYXpSR2NiaktQY0lLY1pz?oc=5>
-
-### 新浪网·
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪网
-- 时间: 2026-11-27 07:47
-- 链接: <https://news.google.com/rss/articles/CBMiY0FVX3lxTFBVZHlaWjJ1cks2ZkEwNXJ6VDI1SkRMczBnRld5MUlaRGZLaUV3a0dGZGVSTVpIYTJ6alVlRk1pSkwtcWxNdXJ1YTVmWVN6ZnltZ1cxaHVsR2EyeEg0aUdtcG5NSQ?oc=5>
-
-### 特朗普：在与普京会谈中敦促其尽快与乌克兰达成协议
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-11-26 16:14
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE5jQW96ZzFxR29Xcmd5WTkyUUM0Q3lPZjhveEZEX18zbUtzdUI5SzV6aWNJQUNXd1A3X3YxdGstTVFCNVRJVk40bnFwOVlOYTRPamd4VERwRThXUVdvdnZ5ZTRXZnpDVWg0ZFlxUUsyVjIxSDkybWR5amZRSG5ERUU?oc=5>
-
-### 特朗普：普京若想来G20，当然可以
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经_金融信息服务商
-- 时间: 2026-11-27 08:08
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE04Q3NCTmdndlFvb2h3T1lWUVUtVV9POTNQd0pQQWxPY1VHUWdMSTh3a3lEUW1HUTl0LTIxZDJuc1c4UVlob0RGaWlqSjI0Tm5vUTdZVXVMR1JwT3l0WS0ydWxWSHNmT2dVamtWVDNSOEhuRFNHdXJxag?oc=5>
-
-### 特朗普：在深圳见普京时力劝其达成俄乌协议
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: Sohu
-- 时间: 2026-11-27 04:16
-- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdkFRUjdRVjZxZ2p2Q2hpOTgyYUlvWkNvdFZQRXJWZWdCTnVJNTFGRDVmOVRoM19tcU9jdDBLeHpBUlh4UGRFNk1Hd2xiNnNOazljeE90b0hsU0lyejlya3dieWdiQkRMbWxJclhIYy02TUhweGdMcEI1aVRodWRfQW5JdXctak5lOHR3?oc=5>
-
-### 特朗普入住深圳酒店后，留下了这样一个礼物......
+### 特朗普承认幕后出手保黄仁勋：我为世界做了一件大好事，市场对此感觉非常好
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-11-26 23:26
-- 链接: <https://news.google.com/rss/articles/CBMigwFBVV95cUxOM2pUMkNuNXFEUjR2ZDFaU1VoWTVrbFBpTXVDZ1R3eHVyMW1YbzR4bFNYMWl5TXBoSVFNTUZScWp5bTN2aV9OVXRJNnlKbjdJMkJvWVNoZkFxWGdmRzdxMHhfUm56VlJRaGVScS12Vzg2WWs2MFdhRHF4bHNmeVFoTVBtTQ?oc=5>
+- 时间: 2026-11-27 04:35
+- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE5CMEtvSlhaMVNPYnlfWEwwMFQ5RmxWTExFUlh6NThkZTJFTEVXT1NJOWhMTG9yUkNPZnlKSTRXeHI3YVY4ZF9yZlNySlAyX0pYVVFnczA0ZDIzX2tTY0dGUWhjRnVNbDBQV1Jmb2d1X2h4QQ?oc=5>
 
-### 特朗普入住深圳酒店后，送了徽章和袖扣作礼物
+### 特朗普称尚未发现伊朗镐山有实质性活动
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 观察者网
-- 时间: 2026-11-27 00:48
-- 链接: <https://news.google.com/rss/articles/CBMic0FVX3lxTE1jRkQwZWFGazNmTEFNQUVsMVdwYmY4bjEwdHMzUWdLSTRMWTR5SWQ1M0xXOFE4UUx0MXk3RkpMTmJyTEFXVlZWVHlqU25DUWk4cjExNjZqcGQ3cVY2MnV2c0V6Zm4yaFVYdDVuN2ROZXBENTg?oc=5>
+- 场馆: 新华网
+- 时间: 2026-11-27 02:51
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE5jc0Y4Q1ZQNEFfZEVZLTdxSHdFZS1GYl9oZ0FOcVZMbVVmelNZdlhMZi00WGVYYTAzelQzQkhQQ05fUFliYVNmSXIxdzdHVnBaZEhPSXRoN2dXdk83QWFoRnpWQ1FVT053dTRGa2JMY3BoXzlsM3UxN1FGQW1TM1E?oc=5>
 
-### 特朗普新关税再将矛头指向北京，旨在削弱中国供应链优势
+### 11月27日外盘头条：特朗普指政府蓄意低报经济增长 德科斯将出任欧洲央行行长 科威特称伊朗袭击其重要设施
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-11-27 02:47
-- 链接: <https://news.google.com/rss/articles/CBMibEFVX3lxTE8ydzhuMUxXVGdSWk1lZHIyblBkR2t6aE5QVEt6QUxQZWF2Rml4VUtNczNPUE9neEJLOTZEM0hDR1RFbGQ4cnRCQ0NiSXZubjJFMWdVRkt5Nmtvam1tbnlneVZRRF84S2s0cDBxQw?oc=5>
+- 场馆: 新浪财经
+- 时间: 2026-11-27 02:03
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxQMlRIWEJheXZ0Z1F1T0EtcW1yTk5rS0NmNWsxdFpYRFlhR3FUTGFtbTB3QndhbUZwRVRNYzNKNElrNGg0SW0yWWlubXlDdi1CTWMtQkFyT25BMktLVzBsaHV4TWxuZXBuWTdlRWp4MXIyZkxfSUhuZjlsR2tpR2J5cUVfa2ZIYTQ?oc=5>
 
-### 华为：从被美国制裁到成为中国人工智能战略的核心
+### 特朗普总统：何时结束与伊朗的冲突将由他决定
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 纽约时报中文网
-- 时间: 2026-11-26 19:07
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE94bFQwT0J5RTNtNTNhdzJyWUNxUUJGWlROZUxIbzZhZll4OXN6NVdLMHdvZExhZVdIVlUtcUFzVmNBZ1dWUHVCdEhWMktUcjhKMEt0VnotcWhJM1o5RC14b2dhUFk0VU9IS3haTUpaaHg?oc=5>
+- 场馆: 美国之音
+- 时间: 2026-11-27 17:21
+- 链接: <https://news.google.com/rss/articles/CBMitgFBVV95cUxNOGkwYzhTeXZ5b296SG5VaW5PT2VIVTNOLTdOYUFFSERpYkxpRlMzeXY3cUMxSmw4aWtSclhkNDdVWTlZb3dvQ2FBOTBWMDlHWWRSYTItekIwMUdtVk9QT0dTRTA0dUFKekNLeFdWLVRJbHZ1Z1FJeWJHSE9NSGpDLXhXS2RQTmdkYksxM3lDSE80THp3UG53YTU1di1xVUI2Zmhhdl9DTnRHU1UwdXNxaUtBV2U0d9IBuAFBVV95cUxPVUZVYzc5bm13TlhUVl9GUW54MDFwYWt5cFdaTzg0MmlwUExUNmdMaHJhcmhjR21idzNTbXR2OWxWN3E3Sm9PVU10TTBCdHdKQUJFVW43Y2V3aGQ2RlZsS0ZlUkFVa0MtUm1DUEdvU3NKQTlhWTM5UW5YTXB2MEU5TVhFZ21rMXgxaXo5ZUY1YkVlVndGaXEzb3U0MzFXbnNGM2Z3OG1jQ1M1dVhITmxJOHhRRTB5dWNy?oc=5>
 
-### 特朗普旗下媒体集团斥巨资争取股东支持，为合并投票造势
+### 三季度GDP数据大幅上修后，特朗普质疑数据操弄中期选举并要求调查
 
-- 艺人/关键词: **Trump**
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-11-26 22:02
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxObVFwWWpfVkNqYlBLWE1CU2FSazVsUVpJREcySFZCd2xvQzJJYTlyQm1tLU1fZ3kxNmFzMzNGbUpsbHZvbkV6WWlJZ3laamhCU0h3dU0tTDNBTDVoVUlyc1hSNjVZZDVoMlpiZkJOMG9ZZ21uNjVtdll6cnBzRUhRSXpCY2h3VEU?oc=5>
+
+### 特朗普指政府蓄意低报经济增长 要求展开调查
+
+- 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经_金融信息服务商
-- 时间: 2026-11-27 06:43
-- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxOUk1ESDFEdy1sQTFJRmNhUDVTZ2VlUXItaUVjaHQ4ZzBpMTFCcUo1dmpXRzkxRHRPVkhyeC1MUGw4RkJfckFHSXhyYmZmV2F0dFFOUGowczdvN0dWN0tzNzUwNFhjZEduQklXUE5VMnZydXVyN3NJS2s5V04xX3luOGk4dl83UlZLQUE?oc=5>
+- 时间: 2026-11-27 04:09
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBVSmdPQjZRWHFXMEZIWFQwLURMUlJmd1UzZDRCTVAzellocUwzOFY2eW8zb01FYXU5UXlra2RGTUpxcGZBMlZ0U3VJU0lXSmhXUVhWcFV5em9hV2xkd0hUbnJQRTNKdHNyV3JGYlJQY1ZTQ1JoUjQxdA?oc=5>
 
-### Official Trump早盘动能推动跳空上涨，涨幅近9%
+### 特朗普入住深圳酒店后，酒店推出特朗普同款汉堡套餐，包含健怡可乐、汉堡、薯条，36888元同款总统套房未来一周已订满
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪新闻
+- 时间: 2026-11-27 01:50
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE92Ulo5cmFuaGVhV1FwVlZfRVZqazBvQXVDbjdoMzZIdHNFNmowdkZmOEhuOUNVUzd5SzduRG9MXy1QZGlHVVhvRW9oMWUyTjN5cTI1NWptYlpJVWZpc0xnWVkwNFBEaG5FWFhybFpvYmpFcm45OHRWRw?oc=5>
+
+### 特朗普：美国不需要中东的石油，算上委内瑞拉，美国拥有全球一半石油；中东驻军和行动是为了保护以色列和中东地区
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: ThePaper.cn
+- 时间: 2026-11-27 15:33
+- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQb0R0Q1dOZXJ4b2Q5eFhoMkJBZ25nU19LRFZTX3RiMUFOeHBnZVowZjBMQ2lwSXVwcjBva25XRFF4RW1oU0ktbEpORUJTMGh0cU4xNUQ0a3hVRHFwQVpvSw?oc=5>
+
+### 泽连斯基：特朗普为啥喊普京“朋友”？这就像二战期间喊希特勒“朋友”，他不可能是朋友
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-11-27 14:54
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFAtcVV6bEhrN0M5RGlpbjZBUXQxcE9HeFMzb2JId2hmRXBFUlFscHI5LUlnR1VxUDRJN0MtVUprZjVaWnFMT3dPRENtYm4?oc=5>
+
+### 特朗普：如果普京想来G20峰会，当然可以来
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Sohu
+- 时间: 2026-11-27 13:22
+- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNmd2cmpNWVMzTkdGQ3pJRDI2b09Gc0xFRFRFeXJPa01nMDBJSDA0cm0yajFPN2kyNjNIMHNUdFFXMldfQThPcmxaQVRIN3puZnd0b3l3ZTR5QlVaMUQ2eW5iblVJQXh0R3ZMWVJKcUhKdExkZHlBSEhobXJESC12MExDcDB5ZGptS0ww?oc=5>
+
+### 特朗普称在与普京会谈中敦促其尽快与乌达成协议
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-11-27 11:56
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5WODdkaEZZV1dqaDZBUExhNkgxbUNVcTc4RVBQZ1NFdzlJQVJLZGlDSGZWQ0RuLVhHRzRVT0FoTU1sbklWRXJtY1ppcjdlZnh1Y245cnV0b3FMdGJBaFB2VjNqa3VOa3ZUdmxpSnVxQ3Bad0J4T2FSUg?oc=5>
+
+### 特朗普与沙特达成的核协议面临参议院考验，民主党人对保障措施提出质疑。
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Traders Union
-- 时间: 2026-11-26 16:30
-- 链接: <https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOFVaMnA1WXVMUG5zT0dzeUlPaF9ManRfanpBUklsUWNjSW0ta3JnekVUOFB1X1JPS0FxT0lDYkFOOHJ3N2dyYUFPUzBVVXlXcGl2LVJ5dkgyM25SSkJDUG9CdXJ0RXpBckpfTFNuNnRUaHUtMDRpcnVIQmR3RzRjMnRtYkhWWE9ZakZ0eVM5bllZMUFFWTFOZHphb3U3ZGFJckdkNW9fLUowQQ?oc=5>
+- 场馆: Al-Monitor
+- 时间: 2026-11-27 14:42
+- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tcWZGeXlhQWdKYWdsWVRqZGFKSm9lTVlPZzFjNC1ZWDNJV1dERE5tVXhZd1ZFemdBRVo4UDdxZ3Z2eTdpSEg3RG9DSzVRRXRBcXBTN1h0RE8wNDd4czhRVGltSlBqUQ?oc=5>
 
-### 🚀 TRUMP（OFFICIAL TRUMP）：强势回归即将到来？
+### $TRUMP：现在入场失误可能代价高昂| Сытая Свинья发布于币安广场
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
 - 场馆: Binance
-- 时间: 2026-11-26 16:25
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xTFl0WEJoLXNBRVpvbnVvalZwbmEtal9qYXhBaHlsUERUclZyTUJ5MTAtMmhjQjVTdmdzR1JUcEptb25ORHUwS3Jpb3djb29LZHdFT3FtZ2hKc2hKdzdwRnFVcGxWa0ZW?oc=5>
+- 时间: 2026-11-27 09:53
+- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oODRRdUtNYVdaTklqMGNEbEEwRm9HSFFrSUNOOGNiNndGNzZzTDhxY05UazhyRnFtV1hIZ1NmVkNKd3laUko3RC1rUms5QkkwMXprb3VIWk80bkp0dEJRSWZHcVdNaTVP?oc=5>
 
-### 特朗普称黄仁勋无国安风险 坦言曾推动复职
+### 特朗普加密货币暴跌近99%！第三次举办富豪晚宴 家族却已赚进23亿美元
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 8world
-- 时间: 2026-11-27 03:34
-- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxPXzhzZF92TzdleVRsY1R6d1llSmFGd05mX1QxdVFldGJrdTdpWGM1S1MwTnp4VEp5S0t1YkNLOU1ScEFWOHFIV2dPR3F2RzVxamE0Q3pjNVEtMDVTZ3BrYjVBb2NCN0pLRDkwTDFraWJFYVItYmlCZEQ0d01FS1d5WnBmQ2U4RFNmaTdR?oc=5>
+- 场馆: FX168财经
+- 时间: 2026-11-27 08:47
+- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1DTzV1ZWFxWkNpWFRwZk9ONkRNY0JYVDYwY2Rwc0pjM1ZKMjdsYjBvb3RKZHdEZ0hoa3p5WUNQTm1Qb0RFVy1UdnJZbnJUTDRwZnVxNWIzbDQwLXlsVVMxN09MMWFDeFdzcVkxVkFKYk9MazJTUFFMMw?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-11-27 18:37  (22 条)
+
+- **蔡徐坤** | 蔡徐坤首次谈及上音乐节内幕 <https://k.sina.com.cn/article_7879924009_m1d5ae192903301ig1c.html>
+- **蔡徐坤** | 蔡徐坤新歌Home诉说温情，家是永远的港湾 <https://k.sina.com.cn/article_2002676497_m775e6b1103301ws50.html>
+- **周杰伦** | 周杰伦2004年演唱会自弹自唱搁浅，高音轻松唱完松口气 <https://k.sina.com.cn/article_7879924061_m1d5ae195d03301qo77.html>
+- **周杰伦** | 周杰伦2004年演唱会七层楼高空降开场 <https://k.sina.com.cn/article_7879924061_m1d5ae195d03301qo6m.html>
+- **周杰伦** | 深度解读周杰伦无与伦比演唱会 <https://k.sina.com.cn/article_7811144604_m1d1949b9c033021562.html>
+- **周杰伦** | 周杰伦湘女多情MV被吐槽太敷衍 <https://k.sina.com.cn/article_1798653494_m6b35463603301dr9v.html>
+- **周杰伦** | 这下演唱会，我再也不是举着手机瞎拍了 周董演唱会你怎么看 周杰伦北京演唱会 <https://k.sina.com.cn/article_7879923942_m1d5ae18e603302h5dv.html>
+- **特朗普** | 不止特朗普！美国多位官员曾持有英伟达股票 一文盘点 <https://news.google.com/rss/articles/CBMiigFBVV95cUxQR25LSzBhb29aUk8zLUdETXhpWTFnYUV4cl9aWTlZTi1EQVpaSU5jMmJYRkFBWmZtMmhQbXR6V08zTUdReWhyTDBJRlduZU9KWFFmZVBfS2xlV0FORTVjb2FWS2Z4VURPdmVac2dOYWk2aTZES0FWRUNzMFpBMW5WWUMzczNMVnp6b3c?oc=5>
+- **特朗普** | 特朗普承认幕后出手保黄仁勋：我为世界做了一件大好事，市场对此感觉非常好 <https://news.google.com/rss/articles/CBMickFVX3lxTE5CMEtvSlhaMVNPYnlfWEwwMFQ5RmxWTExFUlh6NThkZTJFTEVXT1NJOWhMTG9yUkNPZnlKSTRXeHI3YVY4ZF9yZlNySlAyX0pYVVFnczA0ZDIzX2tTY0dGUWhjRnVNbDBQV1Jmb2d1X2h4QQ?oc=5>
+- **特朗普** | 特朗普称尚未发现伊朗镐山有实质性活动 <https://news.google.com/rss/articles/CBMif0FVX3lxTE5jc0Y4Q1ZQNEFfZEVZLTdxSHdFZS1GYl9oZ0FOcVZMbVVmelNZdlhMZi00WGVYYTAzelQzQkhQQ05fUFliYVNmSXIxdzdHVnBaZEhPSXRoN2dXdk83QWFoRnpWQ1FVT053dTRGa2JMY3BoXzlsM3UxN1FGQW1TM1E?oc=5>
+- **特朗普** | 11月27日外盘头条：特朗普指政府蓄意低报经济增长 德科斯将出任欧洲央行行长 科威特称伊朗袭击其重要设施 <https://news.google.com/rss/articles/CBMihwFBVV95cUxQMlRIWEJheXZ0Z1F1T0EtcW1yTk5rS0NmNWsxdFpYRFlhR3FUTGFtbTB3QndhbUZwRVRNYzNKNElrNGg0SW0yWWlubXlDdi1CTWMtQkFyT25BMktLVzBsaHV4TWxuZXBuWTdlRWp4MXIyZkxfSUhuZjlsR2tpR2J5cUVfa2ZIYTQ?oc=5>
+- **特朗普** | 特朗普总统：何时结束与伊朗的冲突将由他决定 <https://news.google.com/rss/articles/CBMitgFBVV95cUxNOGkwYzhTeXZ5b296SG5VaW5PT2VIVTNOLTdOYUFFSERpYkxpRlMzeXY3cUMxSmw4aWtSclhkNDdVWTlZb3dvQ2FBOTBWMDlHWWRSYTItekIwMUdtVk9QT0dTRTA0dUFKekNLeFdWLVRJbHZ1Z1FJeWJHSE9NSGpDLXhXS2RQTmdkYksxM3lDSE80THp3UG53YTU1di1xVUI2Zmhhdl9DTnRHU1UwdXNxaUtBV2U0d9IBuAFBVV95cUxPVUZVYzc5bm13TlhUVl9GUW54MDFwYWt5cFdaTzg0MmlwUExUNmdMaHJhcmhjR21idzNTbXR2OWxWN3E3Sm9PVU10TTBCdHdKQUJFVW43Y2V3aGQ2RlZsS0ZlUkFVa0MtUm1DUEdvU3NKQTlhWTM5UW5YTXB2MEU5TVhFZ21rMXgxaXo5ZUY1YkVlVndGaXEzb3U0MzFXbnNGM2Z3OG1jQ1M1dVhITmxJOHhRRTB5dWNy?oc=5>
+- **特朗普** | 三季度GDP数据大幅上修后，特朗普质疑数据操弄中期选举并要求调查 <https://news.google.com/rss/articles/CBMihwFBVV95cUxObVFwWWpfVkNqYlBLWE1CU2FSazVsUVpJREcySFZCd2xvQzJJYTlyQm1tLU1fZ3kxNmFzMzNGbUpsbHZvbkV6WWlJZ3laamhCU0h3dU0tTDNBTDVoVUlyc1hSNjVZZDVoMlpiZkJOMG9ZZ21uNjVtdll6cnBzRUhRSXpCY2h3VEU?oc=5>
+- **特朗普** | 特朗普指政府蓄意低报经济增长 要求展开调查 <https://news.google.com/rss/articles/CBMieEFVX3lxTFBVSmdPQjZRWHFXMEZIWFQwLURMUlJmd1UzZDRCTVAzellocUwzOFY2eW8zb01FYXU5UXlra2RGTUpxcGZBMlZ0U3VJU0lXSmhXUVhWcFV5em9hV2xkd0hUbnJQRTNKdHNyV3JGYlJQY1ZTQ1JoUjQxdA?oc=5>
+- **特朗普** | 特朗普入住深圳酒店后，酒店推出特朗普同款汉堡套餐，包含健怡可乐、汉堡、薯条，36888元同款总统套房未来一周已订满 <https://news.google.com/rss/articles/CBMieEFVX3lxTE92Ulo5cmFuaGVhV1FwVlZfRVZqazBvQXVDbjdoMzZIdHNFNmowdkZmOEhuOUNVUzd5SzduRG9MXy1QZGlHVVhvRW9oMWUyTjN5cTI1NWptYlpJVWZpc0xnWVkwNFBEaG5FWFhybFpvYmpFcm45OHRWRw?oc=5>
+- **特朗普** | 特朗普：美国不需要中东的石油，算上委内瑞拉，美国拥有全球一半石油；中东驻军和行动是为了保护以色列和中东地区 <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQb0R0Q1dOZXJ4b2Q5eFhoMkJBZ25nU19LRFZTX3RiMUFOeHBnZVowZjBMQ2lwSXVwcjBva25XRFF4RW1oU0ktbEpORUJTMGh0cU4xNUQ0a3hVRHFwQVpvSw?oc=5>
+- **特朗普** | 泽连斯基：特朗普为啥喊普京“朋友”？这就像二战期间喊希特勒“朋友”，他不可能是朋友 <https://news.google.com/rss/articles/CBMiTEFVX3lxTFAtcVV6bEhrN0M5RGlpbjZBUXQxcE9HeFMzb2JId2hmRXBFUlFscHI5LUlnR1VxUDRJN0MtVUprZjVaWnFMT3dPRENtYm4?oc=5>
+- **特朗普** | 特朗普：如果普京想来G20峰会，当然可以来 <https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNmd2cmpNWVMzTkdGQ3pJRDI2b09Gc0xFRFRFeXJPa01nMDBJSDA0cm0yajFPN2kyNjNIMHNUdFFXMldfQThPcmxaQVRIN3puZnd0b3l3ZTR5QlVaMUQ2eW5iblVJQXh0R3ZMWVJKcUhKdExkZHlBSEhobXJESC12MExDcDB5ZGptS0ww?oc=5>
+- **特朗普** | 特朗普称在与普京会谈中敦促其尽快与乌达成协议 <https://news.google.com/rss/articles/CBMieEFVX3lxTE5WODdkaEZZV1dqaDZBUExhNkgxbUNVcTc4RVBQZ1NFdzlJQVJLZGlDSGZWQ0RuLVhHRzRVT0FoTU1sbklWRXJtY1ppcjdlZnh1Y245cnV0b3FMdGJBaFB2VjNqa3VOa3ZUdmxpSnVxQ3Bad0J4T2FSUg?oc=5>
+- **Trump** | 特朗普与沙特达成的核协议面临参议院考验，民主党人对保障措施提出质疑。 <https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tcWZGeXlhQWdKYWdsWVRqZGFKSm9lTVlPZzFjNC1ZWDNJV1dERE5tVXhZd1ZFemdBRVo4UDdxZ3Z2eTdpSEg3RG9DSzVRRXRBcXBTN1h0RE8wNDd4czhRVGltSlBqUQ?oc=5>
+- **Trump** | $TRUMP：现在入场失误可能代价高昂| Сытая Свинья发布于币安广场 <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oODRRdUtNYVdaTklqMGNEbEEwRm9HSFFrSUNOOGNiNndGNzZzTDhxY05UazhyRnFtV1hIZ1NmVkNKd3laUko3RC1rUms5QkkwMXprb3VIWk80bkp0dEJRSWZHcVdNaTVP?oc=5>
+- **Trump** | 特朗普加密货币暴跌近99%！第三次举办富豪晚宴 家族却已赚进23亿美元 <https://news.google.com/rss/articles/CBMieEFVX3lxTE1DTzV1ZWFxWkNpWFRwZk9ONkRNY0JYVDYwY2Rwc0pjM1ZKMjdsYjBvb3RKZHdEZ0hoa3p5WUNQTm1Qb0RFVy1UdnJZbnJUTDRwZnVxNWIzbDQwLXlsVVMxN09MMWFDeFdzcVkxVkFKYk9MazJTUFFMMw?oc=5>
 
 ### 2026-11-27 08:53  (22 条)
 
