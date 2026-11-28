@@ -1,102 +1,291 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-11-28 01:45**
-- 本轮扫到 16553 条, 新增 **11** 条
+- 最近更新: **2026-11-28 09:41**
+- 本轮扫到 16589 条, 新增 **36** 条
 
 ---
 
-## 本轮新发现 (11 条)
+## 本轮新发现 (36 条)
 
-### 今年新歌啥时候来 王一博啥时候跳舞
+### 王一博时隔两年再次发歌：新歌《LET GO》即将上线
 
 - 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_6060658738_m1693e5032033019sgq.html>
+- 链接: <https://k.sina.com.cn/article_2011075080_m77de920803301qpnb.html>
 
-### 东西问｜普京与特朗普都爱中国菜：美食，是亚太相知最好的语言
+### 王一博新歌海报与肖战物料风格相似，笼子元素引CPF联想
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 光明网
-- 时间: 2026-11-28 01:35
-- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JOTdmQ1ozd2NveVhFa3FNWUJJLThlZXRiaVlReXB3QnFSMHRUNWZWSlgwRm5tcnRXTkxYVjBmdDFKbVhsTFJCZ0UtQ2d0N3Z5d0ZpaV9kQ2E2RDhfZTY5dVF3?oc=5>
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5255814135_139455bf704001fvpn.html>
 
-### VOA今日焦点 (2026年11月27日) 特朗普总统：与习近平的会晤非常棒，两人关系融洽
+### 王一博上次发新歌是两年前：新歌《LET GO》即将上线
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-11-27 22:25
-- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE1HckNVWmlPNDZWZG53by1XRWpEcS1WZk5sS1JjemlnTUxEUmJnTk0wZWRtazl0akV1MEwtZU9MaTJnaVU0YU1paW1mRUsyUmxHR0FGdkM5OFRYYTFHcnFHUkpwd09DUEtsdHBN0gFuQVVfeXFMTk1JU3RVdDdLdHdzbjhOdXZlYmRMZGJVV1d3Y2xKZl9pdlUyYXFYazhSbktqeGZpYlhSOUx2SklUS2FnVmFMbmdwMGRfaDNaSDcta3ZLeU52ckVpOV92YUVvZlh3SksxZ0lpNUxBbHc?oc=5>
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5876448064_m15e437b4003301wl9i.html>
 
-### 美农民忧特朗普关税措施将使出口受阻及成本上升
+### 期待王一博的新歌，一看歌名就很带劲，活力满满的感觉
 
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-11-27 22:02
-- 链接: <https://news.google.com/rss/articles/CBMi5wJBVV95cUxPd3dGdXYxd2E2dUpIemRFMGNJSHpjNUlNXzZOTWRBM3h0Nmp3XzRtYWhjVmFpN1lWQ1dYcm9mMjh3QjJDS2ZoMml5VzVHSkxDT3hNckxsS3ZyUmhkdmZxTS0tcDd5Y3d4TE15SFo3LVhkZzNRN2V0YlN3RWR1SVF4VGhKWnlUbnZ6NmZvaXViV1lEZTM5RW0yYlhjOEUzREtRU2VXLTl5MjlOWHp2bVM4bDZ3RmJNZ1g0V25oRDlvZG8yclM5bHVMTTFzT2U2WDFQcUZrRldwOWhNU3hmYjQ5dzI1SWZxeGtBVHlJR0d1bzBjMzVwYm03MlZlYVFES2ZKV0FUNkJaU0hmQUpjWXdTMExUWDZVd3p4cUg0VVVHR3BHU3J0a0gwMHhBMkNHRGxiU1hKaEdQMDhxUThmRHQyUHRTTlNuX1NnNmF4TUNIN1N5ai1lVGhVYVp2Y1NPNGJtaUFtSll6bw?oc=5>
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923704_m1d5ae17f8033022dof.html>
 
-### 日媒大骂特朗普政府：美方做法令人难以理解，弊端十分突出
+### 王一博新歌海报被指与肖战风格相似，笼子元素引联想
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5601456932_14ddf732404002lt1k.html>
+
+### 如何预约收听王一博的新歌《LET GO》？
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd86406801as5w.html>
+
+### 王一博新歌《LET GO》海报藏深意？破碎鸟笼引热议
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879776356_1d5abd86406801as5h.html>
+
+### 如何在汽水音乐预约王一博新歌并参与限定礼盒活动？
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801qw6e.html>
+
+### 王一博新歌《LET GO》的歌词和曲风是怎样的？
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801qw6c.html>
+
+### 王一博新歌海报发布，新歌都来了舞台还会远吗
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5522810625_1492f670104001jjvc.html>
+
+### 王一博时隔两年发新歌，联手汽水音乐搞大事
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801qw65.html>
+
+### 王一博新歌LETGO海报官宣 12月2日上线
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_6891885433_m19ac9d37903302d8rp.html>
+
+### 王一博新歌上线，舞台王者回归
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_2342610415_m8ba165ef03301wn5f.html>
+
+### 王一博新歌《LET GO》海报释出 静待歌声如约而至
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_1280846847_m4c582bff03302lt0c.html>
+
+### 王一博新歌《LETGO》海报为什么没有人物出镜？
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801qw3g.html>
+
+### 王一博新歌《LETGO》的文案“当你看见，当你消散”想表达什么？
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801qw3f.html>
+
+### 王一博新歌海报零人物出镜，文案暗藏深意引猜测
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801qw3e.html>
+
+### 王一博新歌《LETGO》的文案“当你看见，当你消散”是什么意思？
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801qw3d.html>
+
+### 王一博新歌《LETGO》为什么海报上不出现人物？
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801qw3c.html>
+
+### 王一博新歌《LETGO》从海报发布到上线只有四天，这种宣传节奏常见吗？
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801qw3b.html>
+
+### 王一博历年新歌海报有哪些不同的创意风格？
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801qw3a.html>
+
+### 王一博新歌海报不露脸只留一句词，歌名《LETGO》暗藏玄机
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923021_1d5ae154d06801qw39.html>
+
+### 王一博新歌LET GO 12月2日中午12:00上线
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_6144301079_m16e3a981703301k0a5.html>
+
+### 王一博预告新歌即将回归爱豆形态
+
+- 艺人/关键词: **王一博**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5951219126_m162b865b603302k4aj.html>
+
+### 要还是不要！蔡徐坤香港演唱会
+
+- 艺人/关键词: **蔡徐坤**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002vl66.html>
+
+### 杭州大莲花入镜周杰伦湘女多情MV
+
+- 艺人/关键词: **周杰伦**
+- 来源: `sina`
+- 链接: <https://k.sina.com.cn/article_5594216204_m14d70f70c03301tom3.html>
+
+### 泰总理：我给特朗普递了张手写便条，为泰国香米和玉米争取关税豁免
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 凤凰网
-- 时间: 2026-11-27 16:04
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5NS2VqaG1DeTJ1eWZEWUFEQTNwV0cycDMtSTgyNVdJTm85RnRuT19GLS1rUW9SLVpnaHpVRU10cEJEdFdKakMyZDh0SnY?oc=5>
+- 时间: 2026-11-28 07:49
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5TNmZaOGl6blp6VE1YN1dMWFBQUTQ4MmZGcmwyVHpjQUlDSHdLU0RncnJSU0tzTHdIdDJ6LU9uVEtGOThSZXpYR1BSUjg?oc=5>
 
-### 美国拟对14个经济体加征301关税，中国商务部称坚决反对，而其他贸易伙伴与中国的摩擦可能增多
+### 不满特朗普称普京“朋友” 泽连斯基敦促美对俄施压
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: DW.com
-- 时间: 2026-11-27 06:02
-- 链接: <https://news.google.com/rss/articles/CBMisgNBVV95cUxPeWhaWjdTdHFpQTg1MFVpaTBDQTMwa2R4RmVsT0hWZnFzREJlbEhOOHRtcjV2WGlkYkI5WG8tRWJjMHNsRVJQXzQ4S0pYUy04Q0pTdkJjX21wMC1iQndTMmdURVBPZDZsbWYwczB0aVdtT1Y5OEo2RTVoZ1dzN2RBdnhGRXJqZ0VZcVVPT0RxRjBRcHhndDAwN2RTZjRCWmI2am5xeVRMcWd4YmVlR3dCQ2dyUnAzOTN0b3RucVRRTzhCMFVXUHBsbmlvQ1VoYWp2aS1uZGRIUVVhZmZoS1RFMmRMYWJIbU1uczd0SmxwREFSVmIwd25uUUZ5b0FDYldIOGhjc0I2MDlkTjR6Zlpab3lQUE1pRDBtVXFUZnRFazBxRTE0elh3YkxkZGs5SnNRSHBmUmhBNE5fUXZNeDJwVENQTm9YTVlhSDBVT3BNbG5xZmpYYkdaMWtsdDNTTk9OUjFMeklCbldBcVNyX05tQk50SlA4amdWbnVBcUpEbWFFdDRkZ2JrYlB2aUdZNjdjSlZJUnVYT1IxN3JNMXNERDY4cGF1TkgtRzlFdVRhMEJrQdIBsgNBVV95cUxQUjJ5Rko1T3VaN3dzRmJZenRxbk9EamRwdUFmbVdzbUllUVJraXB4TWF3eGk4ZjJiaDczTS0xMnFqNE9EVEN2bDFuRm5PLVNEaml6Nl9TSGxzb2w4WFZmZlVYWVJaYS14czY3YVlQZS1oNUlGWTV2eEJLTDYwQXpkWE1iZlVDUHB6VllCN1VDYjNhbTQzQk9xT1M4a3hIN1A4VnlBZkRsVlBOdnVvZXQ5LUFubUV1NWFzbGdoY2piRHlLcUZUdWFBSzVjbGxkMGkzRnc3bDU2SEgybEVPa0VTcFNBN1F4ZHNVUE5aaXlLYkl0X19wNEJBOGdtOG1sSW9pR05IdXVqN0ptRkh0OGZwTmFEdmlmN3duSW83ZndwVkczRU15WEdHUTdSQ05CLVV4Yl9WZ3R5NnNwbFVYTkQ5dmF2OHpQMmZKVFdjOXo0SUJ6SFNDbUtDcWUyYXhTMDlQU04xUklaYVkxVzR1T29KOXVNd0RJd1Y5SXd6dVV3U2wyd3NZcXN6aTVJV01SNS1Hb0NtaFVocDI5cGY5Q1NKVjZ5dVRrUWhrYVE1VkhyeG9mQQ?oc=5>
+- 场馆: 新华网
+- 时间: 2026-11-28 04:39
+- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE1kcHluVnVvNjIwVUtIVzBZaWwtSlhmMVZBLUdnblp1dl9LWURlVmdxYldyNWk4VHJJcERha1U3VDZ5TUZuTFdjLV9HNmdacDhUUkNWVDZlY2hvLWRZSDl4eVJ6bjVFS21fcTJFRmJwRXl2VS1UemdfZjRGUE82WGM?oc=5>
 
-### 三季度GDP数据大幅上修后，特朗普质疑数据操弄中期选举并要求调查
+### 不满特朗普称普京“朋友”泽连斯基敦促美对俄施压
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-11-28 04:31
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE96bzB3VHdNc0o0dTJ4WnozSWd6OGhzWDVCVmd3V0ZvaUVMSklaWFFCaU96aEZEWE80dWgyQnFzajEyZ1Y1eDFJN1pDOW0?oc=5>
+
+### 普京与特朗普都爱中国菜：美食，是亚太相知最好的语言
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-11-27 18:45
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxNczhWM0dwdV93NWJrMTVIQl9za0RNTDVXVkRxZHBjcWZXR0lDakNiWVNWbDNYMTdtbFJ4ZEh3Rl9jeVhGWTd2UU5YQnZhSjlYYW5ISHY5YzJiWC1nemJUcFIwa2QxdmJlWFpmTVVabF96T0pGSjk2UzZzRlh0R2ZwTmtiM2hfWjQ?oc=5>
+- 时间: 2026-11-28 08:26
+- 链接: <https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRkU4TENkYzZ2X1ZsSE1ZSkVLOWRPdDI1aHUwZ1hsSjE3dFZkQmJERWJ0SWFEUmQxa2lKTVB3NUFucXFaemlzZFpkLWhVMU0zSndsZFZaQnZKZktlM2pwYVUyNGtwVXZ0UmE3NVlOMUI5OGE0eWlZcE1fWGQ1dTJLdFUySGJ1ekxMdmZxLS1QYnRuZWR5ekZCdksyRjBwMUFHcF9iTW12M3JVUGRLeFo4aTBBRWVyaWdUaHdUVzh6dkxEalNHOG9ERVNKT0NIU3hTMWNWRkxmZw?oc=5>
 
-### 特朗普入住深圳酒店后，留下了这样一个礼物......
+### 特朗普拯救黄仁勋，也救了美股！高盛交易员感叹“全市场命运系于一人，这是好事还是坏事，管他呢！”
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 手机新浪网
-- 时间: 2026-11-27 11:28
-- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE0tZ21OT3ZObU5iamU5ck93cEw0UUxLUzgtSVctNDhsVHV0cC1vSmtrRnZURFFiNFVXNXl2OTk5WEhmVjNvelZvWXpVbFFBQWMtdVpWdTlPQ0lTM2NmZ0M1S1RBLXlJOU5DbC1wX3ZfVmE?oc=5>
+- 场馆: 华尔街见闻
+- 时间: 2026-11-28 02:03
+- 链接: <https://news.google.com/rss/articles/CBMiU0FVX3lxTE91Umt2REY1aDlxSmx1aVQ1WFlMa3FOcHVjblV2Y1o1WnVGdm8wd3lhLXNBcWZSWTl3TkNNRURKb3QzV25SRGRYRW5uVmZ1YUs3QWJn?oc=5>
 
-### 四方安全对话是一股良善力量
+### 特朗普官员计划在新一届国会就职前召开特别会议 加快推进总统项目
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 新浪财经
+- 时间: 2026-11-28 02:42
+- 链接: <https://news.google.com/rss/articles/CBMijwFBVV95cUxOU3hzcEtxaVJQMTNUdnlPZnRPVjFYRndYOEl4WW1DVnhseWd3ZnB3TUc2UFdnbXpyLWozYXp4N2Q1Q3NZbkYxMGpMUTVNZmh2N2hDVU9BdEhmX0pfQVJsdkh1ellUblRFTXVQN1ctcS1yQUh5NThWYlFhVG1nSXN3WV9NWUZ1dWpkamg4OW1ZMA?oc=5>
+
+### 中国学者：中美俄“三国协调”可替代特朗普G2构想
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 联合早报
+- 时间: 2026-11-27 16:24
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE05ejRuRTNYWng2eURjTFFQenBfTURoeEN0M0RJRjVzV256X3VVc1oteG8zV0laalNPOUhmVTQ5RlNXQkRMY19vbDFUNXpkbTB1aTBXdDgyTG5ZdW9uZ2Zza095aC03WU5uMlF3NGpaR0U?oc=5>
+
+### 特朗普承认：美国刺探中国情报
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: Sohu
+- 时间: 2026-11-28 04:56
+- 链接: <https://news.google.com/rss/articles/CBMijAFBVV95cUxNbVBYVTA1OEtiUkN5UVgwS2hwRFEwdmxfVWt4aVBLM3E2QnZsV1lmOElEU3pJQ3ZxdEllWXFQdjJNVG1FZzR3cklFU1d4ZThZVnVrT19GYi1lOG1GUG5iMzllaWRya2tMLVR4UDFvMmVFdmhZYktVem80SmppQnJZUGYzV2FtbjMtNHFFaQ?oc=5>
+
+### 为什么 Official Trump 今日下跌 10.8%？
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: VOA - Voice of America English News
-- 时间: 2026-11-27 23:51
-- 链接: <https://news.google.com/rss/articles/CBMipAFBVV95cUxQYnR2S1NRYXlLelJWa2d4eEk5Z2tUSHY1WWFMazU1NDM1SlFIY2RsUFV0WmUxUEljYlBmSTctMERma2NNbllVRUJiUktwdnIyYVppMGp1Qi1aUFhIbDZocE4yZUx3LVVXWk9UTGd5bkVfakRzS3ZaRk9jRnYtVnNBekNfQ2tFdUlETHQ5WF80bWVIa1hWcFpsVUJEMC1BSXVUaTI1LdIBpwFBVV95cUxOd0lvYl9QTEo0VXBhb0UzTGliY0V4bjItTVZfRlZqVEh3dTRwek4xR1p4bVV6bU9wRy1uV1lwOGZaMUtpR0JvTjhnOTBSUGRNeURhYWZYVTktSEU3dTVHMXNIbEp6WGF6SXVFRGxsUV9LSGp3U25oajktV0l2V1A3UVU1ejd5bS1Cb2JKWjlNRzBUeE1ManVQLXNSY2lWM1BESXVoTFJfWQ?oc=5>
+- 场馆: Traders Union
+- 时间: 2026-11-28 08:03
+- 链接: <https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMGdBTzNQdmtrLTZia1lyQUxqZ3F3X0NaTC13Q1RkWjJJLWFqZVBJUjhUMEtpRS14b1FSeTdVb1ozR2VKR2s5RDFsVmtDeGhwQUlYME1RemJEZHFIeGU5MzFtZGJGZUZBTmVyLVlJaDlsZ3ZDTHBqWkZuWFF2NzRUVlJZTkNXRDhDcHFjbGNtUHBqLUx2VTVqTzhGSG1HbHFYRFhLbjZBUEtWSEU?oc=5>
 
-### 特朗普称已敦促普京停止在欧洲各地的军事侵略
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: RFI
-- 时间: 2026-11-27 21:16
-- 链接: <https://news.google.com/rss/articles/CBMi2wJBVV95cUxNdXZQM1JTaFRUWjFqYVkzblh4M3JldDg4LWZKZ2NvSmtheDFlWkdrQkMyb0ljbjFNX3RRVFpqRUtFOU5LYWIteHZnRW9IYzE0YmRiUWNHN25SZWxCMUJaWVEydHBCZDRldlBGOGY3QnI5eFFwR0YyLWJDd3A0azVpQlk4Z2hTaDhUWDR0b0RoYjk4dVVkSEtpS1FnSWpMZENyQl9iR3d2dzc2ejVQSW9MTEtTRU9EekRKcWFOcWhxLWpVTVlzdzJyRlNqMFNPUE9yaDhGampUSlNrWGhkbVNYVzdvRzVjM2hDUFpnWG02NHBqMVg2VHBnalg4TmdkN2JtcHpYSTV6YlJocEJadUgyTVRNS1NyYk5rSk9NNHk0X2Q0RnhXekthb21GS25yZFdqYlY1U2c3MWdON2pVdE04U1N4QTNzLVlzdVRzRXA3cDlwd3pOMXFMWGlTdw?oc=5>
-
-### 特朗普认为普京与泽连斯基之间的仇恨是实现和平的最大障碍
+### TRUMP下跌，价格走弱且动能疲软
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: 美国之音
-- 时间: 2026-11-27 18:51
-- 链接: <https://news.google.com/rss/articles/CBMiywFBVV95cUxNb3dybEVqS2NUNUgtX1hhUWFNRFE1RHZPZ3BfTGJ1Yk1tOXRMNG9nTDN2cGQySjFsZ2x3SEJKUndjU05RdlJCLV9YQ1F0aU1jLXhjYXV4STZoalZtTnFSNjNja3NvY2FGMk1FRlVqUGlzWXp2aWJfS1ZUV0JpcE5YNEtEd0R6R1JZWVplZUJsS19KLTRjU0VnY1Z4WDl0SVRtbzdtbkM0bDFxSTVqQ1I0eHBDSHJZdU16OGdiU0swZFRMS1VrT191QlVpMNIBzgFBVV95cUxQOUF5QllaNTNPZFdvTVRhekhlUVBKWVp3MXl5aEcxSjBNX3hndWduWUd0VktqWGIzTmtEMDJyNWMyRU95Tnh3UWJ5UWJYa2xBMTN4ZGhLQ0hIdXpESHBWM1JKZlhvam9nR1lobmU2eEJkcnVOQlJIRFpnRzR5dDF6aURiM1NTODh3MWdZWmVpNkNRdUJKckIxNzRZdk9QWWdIdmV3NFhfdmsyT1dfdG1nbXFxblBLd1Y4QlI2WEE0bTdhRWhkODE2dmZDNWJxUQ?oc=5>
+- 场馆: Traders Union
+- 时间: 2026-11-28 06:02
+- 链接: <https://news.google.com/rss/articles/CBMiowFBVV95cUxPYmRrMXZXcWc0ZTRPYTk0b0RmS00wcU9wZVd3TGRKMDlMU0F5UVZ0ZkdlUFZlY1VKWDFncDA5OFRZSGVMaUkxREFwXy1NZzdlVGlnV0YwUk5GSjk1Nk9LM0VhRHVPdFZadXg1M0hZM3c5UVlZa3hmejMyRE44WDNNRmV5V0txRUNSSFZhUEQ5OVVQbDBEX0pDbl9CZEJESUFwaXE4?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-11-28 09:41  (36 条)
+
+- **王一博** | 王一博时隔两年再次发歌：新歌《LET GO》即将上线 <https://k.sina.com.cn/article_2011075080_m77de920803301qpnb.html>
+- **王一博** | 王一博新歌海报与肖战物料风格相似，笼子元素引CPF联想 <https://k.sina.com.cn/article_5255814135_139455bf704001fvpn.html>
+- **王一博** | 王一博上次发新歌是两年前：新歌《LET GO》即将上线 <https://k.sina.com.cn/article_5876448064_m15e437b4003301wl9i.html>
+- **王一博** | 期待王一博的新歌，一看歌名就很带劲，活力满满的感觉 <https://k.sina.com.cn/article_7879923704_m1d5ae17f8033022dof.html>
+- **王一博** | 王一博新歌海报被指与肖战风格相似，笼子元素引联想 <https://k.sina.com.cn/article_5601456932_14ddf732404002lt1k.html>
+- **王一博** | 如何预约收听王一博的新歌《LET GO》？ <https://k.sina.com.cn/article_7879776356_1d5abd86406801as5w.html>
+- **王一博** | 王一博新歌《LET GO》海报藏深意？破碎鸟笼引热议 <https://k.sina.com.cn/article_7879776356_1d5abd86406801as5h.html>
+- **王一博** | 如何在汽水音乐预约王一博新歌并参与限定礼盒活动？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801qw6e.html>
+- **王一博** | 王一博新歌《LET GO》的歌词和曲风是怎样的？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801qw6c.html>
+- **王一博** | 王一博新歌海报发布，新歌都来了舞台还会远吗 <https://k.sina.com.cn/article_5522810625_1492f670104001jjvc.html>
+- **王一博** | 王一博时隔两年发新歌，联手汽水音乐搞大事 <https://k.sina.com.cn/article_7879923021_1d5ae154d06801qw65.html>
+- **王一博** | 王一博新歌LETGO海报官宣 12月2日上线 <https://k.sina.com.cn/article_6891885433_m19ac9d37903302d8rp.html>
+- **王一博** | 王一博新歌上线，舞台王者回归 <https://k.sina.com.cn/article_2342610415_m8ba165ef03301wn5f.html>
+- **王一博** | 王一博新歌《LET GO》海报释出 静待歌声如约而至 <https://k.sina.com.cn/article_1280846847_m4c582bff03302lt0c.html>
+- **王一博** | 王一博新歌《LETGO》海报为什么没有人物出镜？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801qw3g.html>
+- **王一博** | 王一博新歌《LETGO》的文案“当你看见，当你消散”想表达什么？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801qw3f.html>
+- **王一博** | 王一博新歌海报零人物出镜，文案暗藏深意引猜测 <https://k.sina.com.cn/article_7879923021_1d5ae154d06801qw3e.html>
+- **王一博** | 王一博新歌《LETGO》的文案“当你看见，当你消散”是什么意思？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801qw3d.html>
+- **王一博** | 王一博新歌《LETGO》为什么海报上不出现人物？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801qw3c.html>
+- **王一博** | 王一博新歌《LETGO》从海报发布到上线只有四天，这种宣传节奏常见吗？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801qw3b.html>
+- **王一博** | 王一博历年新歌海报有哪些不同的创意风格？ <https://k.sina.com.cn/article_7879923021_1d5ae154d06801qw3a.html>
+- **王一博** | 王一博新歌海报不露脸只留一句词，歌名《LETGO》暗藏玄机 <https://k.sina.com.cn/article_7879923021_1d5ae154d06801qw39.html>
+- **王一博** | 王一博新歌LET GO 12月2日中午12:00上线 <https://k.sina.com.cn/article_6144301079_m16e3a981703301k0a5.html>
+- **王一博** | 王一博预告新歌即将回归爱豆形态 <https://k.sina.com.cn/article_5951219126_m162b865b603302k4aj.html>
+- **蔡徐坤** | 要还是不要！蔡徐坤香港演唱会 <https://k.sina.com.cn/article_7879923935_m1d5ae18df02002vl66.html>
+- **周杰伦** | 杭州大莲花入镜周杰伦湘女多情MV <https://k.sina.com.cn/article_5594216204_m14d70f70c03301tom3.html>
+- **特朗普** | 泰总理：我给特朗普递了张手写便条，为泰国香米和玉米争取关税豁免 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5TNmZaOGl6blp6VE1YN1dMWFBQUTQ4MmZGcmwyVHpjQUlDSHdLU0RncnJSU0tzTHdIdDJ6LU9uVEtGOThSZXpYR1BSUjg?oc=5>
+- **特朗普** | 不满特朗普称普京“朋友” 泽连斯基敦促美对俄施压 <https://news.google.com/rss/articles/CBMif0FVX3lxTE1kcHluVnVvNjIwVUtIVzBZaWwtSlhmMVZBLUdnblp1dl9LWURlVmdxYldyNWk4VHJJcERha1U3VDZ5TUZuTFdjLV9HNmdacDhUUkNWVDZlY2hvLWRZSDl4eVJ6bjVFS21fcTJFRmJwRXl2VS1UemdfZjRGUE82WGM?oc=5>
+- **特朗普** | 不满特朗普称普京“朋友”泽连斯基敦促美对俄施压 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE96bzB3VHdNc0o0dTJ4WnozSWd6OGhzWDVCVmd3V0ZvaUVMSklaWFFCaU96aEZEWE80dWgyQnFzajEyZ1Y1eDFJN1pDOW0?oc=5>
+- **特朗普** | 普京与特朗普都爱中国菜：美食，是亚太相知最好的语言 <https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRkU4TENkYzZ2X1ZsSE1ZSkVLOWRPdDI1aHUwZ1hsSjE3dFZkQmJERWJ0SWFEUmQxa2lKTVB3NUFucXFaemlzZFpkLWhVMU0zSndsZFZaQnZKZktlM2pwYVUyNGtwVXZ0UmE3NVlOMUI5OGE0eWlZcE1fWGQ1dTJLdFUySGJ1ekxMdmZxLS1QYnRuZWR5ekZCdksyRjBwMUFHcF9iTW12M3JVUGRLeFo4aTBBRWVyaWdUaHdUVzh6dkxEalNHOG9ERVNKT0NIU3hTMWNWRkxmZw?oc=5>
+- **特朗普** | 特朗普拯救黄仁勋，也救了美股！高盛交易员感叹“全市场命运系于一人，这是好事还是坏事，管他呢！” <https://news.google.com/rss/articles/CBMiU0FVX3lxTE91Umt2REY1aDlxSmx1aVQ1WFlMa3FOcHVjblV2Y1o1WnVGdm8wd3lhLXNBcWZSWTl3TkNNRURKb3QzV25SRGRYRW5uVmZ1YUs3QWJn?oc=5>
+- **特朗普** | 特朗普官员计划在新一届国会就职前召开特别会议 加快推进总统项目 <https://news.google.com/rss/articles/CBMijwFBVV95cUxOU3hzcEtxaVJQMTNUdnlPZnRPVjFYRndYOEl4WW1DVnhseWd3ZnB3TUc2UFdnbXpyLWozYXp4N2Q1Q3NZbkYxMGpMUTVNZmh2N2hDVU9BdEhmX0pfQVJsdkh1ellUblRFTXVQN1ctcS1yQUh5NThWYlFhVG1nSXN3WV9NWUZ1dWpkamg4OW1ZMA?oc=5>
+- **特朗普** | 中国学者：中美俄“三国协调”可替代特朗普G2构想 <https://news.google.com/rss/articles/CBMicEFVX3lxTE05ejRuRTNYWng2eURjTFFQenBfTURoeEN0M0RJRjVzV256X3VVc1oteG8zV0laalNPOUhmVTQ5RlNXQkRMY19vbDFUNXpkbTB1aTBXdDgyTG5ZdW9uZ2Zza095aC03WU5uMlF3NGpaR0U?oc=5>
+- **特朗普** | 特朗普承认：美国刺探中国情报 <https://news.google.com/rss/articles/CBMijAFBVV95cUxNbVBYVTA1OEtiUkN5UVgwS2hwRFEwdmxfVWt4aVBLM3E2QnZsV1lmOElEU3pJQ3ZxdEllWXFQdjJNVG1FZzR3cklFU1d4ZThZVnVrT19GYi1lOG1GUG5iMzllaWRya2tMLVR4UDFvMmVFdmhZYktVem80SmppQnJZUGYzV2FtbjMtNHFFaQ?oc=5>
+- **Trump** | 为什么 Official Trump 今日下跌 10.8%？ <https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMGdBTzNQdmtrLTZia1lyQUxqZ3F3X0NaTC13Q1RkWjJJLWFqZVBJUjhUMEtpRS14b1FSeTdVb1ozR2VKR2s5RDFsVmtDeGhwQUlYME1RemJEZHFIeGU5MzFtZGJGZUZBTmVyLVlJaDlsZ3ZDTHBqWkZuWFF2NzRUVlJZTkNXRDhDcHFjbGNtUHBqLUx2VTVqTzhGSG1HbHFYRFhLbjZBUEtWSEU?oc=5>
+- **Trump** | TRUMP下跌，价格走弱且动能疲软 <https://news.google.com/rss/articles/CBMiowFBVV95cUxPYmRrMXZXcWc0ZTRPYTk0b0RmS00wcU9wZVd3TGRKMDlMU0F5UVZ0ZkdlUFZlY1VKWDFncDA5OFRZSGVMaUkxREFwXy1NZzdlVGlnV0YwUk5GSjk1Nk9LM0VhRHVPdFZadXg1M0hZM3c5UVlZa3hmejMyRE44WDNNRmV5V0txRUNSSFZhUEQ5OVVQbDBEX0pDbl9CZEJESUFwaXE4?oc=5>
 
 ### 2026-11-28 01:45  (11 条)
 
